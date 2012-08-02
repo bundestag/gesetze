@@ -2,6 +2,7 @@
 Title: Gesetz über die soziale Wohnraumförderung
 layout: default
 slug: wofg
+
 ---
 
 # Gesetz über die soziale Wohnraumförderung (WoFG)

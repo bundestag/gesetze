@@ -2,6 +2,7 @@
 Title: Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
 layout: default
 slug: basig
+
 ---
 
 # Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel (BASIG)

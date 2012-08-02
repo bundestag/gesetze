@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Erste Verordnung zum Sprengstoffgesetz'
+Title: Erste Verordnung zum Sprengstoffgesetz
 layout: default
 slug: sprengv_1
+
 ---
 
 # Erste Verordnung zum Sprengstoffgesetz (SprengV 1)

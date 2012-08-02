@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung des Bundesverwaltungsamtes
 layout: default
 slug: bvwag
+
 ---
 
 # Gesetz über die Errichtung des Bundesverwaltungsamtes (BVwAG)

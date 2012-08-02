@@ -3,6 +3,7 @@ Title: Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesen
   Bedingungen
 layout: default
 slug: nachwg
+
 ---
 
 # Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesentlichen Bedingungen (NachwG)

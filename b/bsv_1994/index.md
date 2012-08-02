@@ -4,6 +4,7 @@ Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenve
   genannten Gebiet und über maßgebende Rechengrößen der Sozialversicherung für 1994
 layout: default
 slug: bsv_1994
+
 ---
 
 # Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für 1994, zur Siebten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und über maßgebende Rechengrößen der Sozialversicherung für 1994 (BSV 1994)

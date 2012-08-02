@@ -2,6 +2,7 @@
 Title: Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung
 layout: default
 slug: kovvfg
+
 ---
 
 # Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung (KOVVfG)

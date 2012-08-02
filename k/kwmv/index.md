@@ -2,6 +2,7 @@
 Title: Verordnung über Meldepflichten für bestimmte Kriegswaffen
 layout: default
 slug: kwmv
+
 ---
 
 # Verordnung über Meldepflichten für bestimmte Kriegswaffen (KWMV)

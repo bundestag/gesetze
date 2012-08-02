@@ -4,6 +4,7 @@ Title: Gesetz zu der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Ab
   Großbritannien und Nordirland über Soziale Sicherheit
 layout: default
 slug: sozsichabkgbrdvbgg
+
 ---
 
 # Gesetz zu der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit (SozSichAbkGBRDVbgG)

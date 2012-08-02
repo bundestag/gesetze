@@ -2,6 +2,7 @@
 Title: Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag
 layout: default
 slug: antarktumwschprotag
+
 ---
 
 # Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag (AntarktUmwSchProtAG)

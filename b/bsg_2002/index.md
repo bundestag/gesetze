@@ -4,6 +4,7 @@ Title: Gesetz zur Bestimmung der Beitragssätze, der Beitragszahlung des Bundes 
   in der gesetzlichen Rentenversicherung für 2002
 layout: default
 slug: bsg_2002
+
 ---
 
 # Gesetz zur Bestimmung der Beitragssätze, der Beitragszahlung des Bundes für Kindererziehungszeiten und zur Bestimmung der Umrechnungsfaktoren für den Versorgungsausgleich in der gesetzlichen Rentenversicherung für 2002 (BSG 2002)

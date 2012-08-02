@@ -3,6 +3,7 @@ Title: Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- u
   nach dem Gentechnikgesetz
 layout: default
 slug: gentvfv
+
 ---
 
 # Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- und Anmeldeverfahren nach dem Gentechnikgesetz (GenTVfV)

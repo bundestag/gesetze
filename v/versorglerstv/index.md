@@ -4,6 +4,7 @@ Title: Verordnung über die pauschale Erstattung der Aufwendungen der Träger de
   Personengruppen im Beitrittsgebiet
 layout: default
 slug: versorglerstv
+
 ---
 
 # Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet (VersorgLErstV)

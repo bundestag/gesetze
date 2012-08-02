@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Metallbildner/zur Metallbildnerin
 layout: default
 slug: metbildausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Metallbildner/zur Metallbildnerin (MetBildAusbV)

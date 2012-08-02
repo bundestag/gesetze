@@ -2,6 +2,7 @@
 Title: Gesetz über den Niederlassungsbereich von Kreditinstituten
 layout: default
 slug: kredinstndlg
+
 ---
 
 # Gesetz über den Niederlassungsbereich von Kreditinstituten (KredInstNdlG)

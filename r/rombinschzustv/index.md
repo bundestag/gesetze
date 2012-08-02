@@ -3,6 +3,7 @@ Title: Verordnung zur Regelung von Zuständigkeiten im deutsch-rumänischen Wech
   mit Binnenschiffen
 layout: default
 slug: rombinschzustv
+
 ---
 
 # Verordnung zur Regelung von Zuständigkeiten im deutsch-rumänischen Wechselverkehr mit Binnenschiffen (ROMBinSchZustV)

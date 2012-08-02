@@ -3,6 +3,7 @@ Title: Verordnung zur Regelung von Zuständigkeiten im deutsch-bulgarischen Wech
   mit Binnenschiffen
 layout: default
 slug: bgrbinschzustv
+
 ---
 
 # Verordnung zur Regelung von Zuständigkeiten im deutsch-bulgarischen Wechselverkehr mit Binnenschiffen (BGRBinSchZustV)

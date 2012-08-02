@@ -4,6 +4,7 @@ Title: Einhundertsechzehnte Durchführungsverordnung der Bundesanstalt für Flug
   Sichtflugregeln zum und vom Flughafen Berlin-Tegel)
 layout: default
 slug: luftvodv_116
+
 ---
 
 # Einhundertsechzehnte Durchführungsverordnung der Bundesanstalt für Flugsicherung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Berlin-Tegel) (LuftVODV 116)

@@ -2,6 +2,7 @@
 Title: Anordnung über die Bausparverhältnisse aus Anlaß der Neuordnung des Geldwesens
 layout: default
 slug: geldwnobauspano
+
 ---
 
 # Anordnung über die Bausparverhältnisse aus Anlaß der Neuordnung des Geldwesens (GeldWNOBauspAnO)

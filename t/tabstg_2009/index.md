@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tabaksteuergesetz'
+Title: Tabaksteuergesetz
 layout: default
 slug: tabstg_2009
+
 ---
 
 # Tabaksteuergesetz (TabStG 2009)

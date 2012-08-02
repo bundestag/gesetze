@@ -2,6 +2,7 @@
 Title: Gesetz über Urheberrecht und verwandte Schutzrechte
 layout: default
 slug: urhg
+
 ---
 
 # Gesetz über Urheberrecht und verwandte Schutzrechte (UrhG)

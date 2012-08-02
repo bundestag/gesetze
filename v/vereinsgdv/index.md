@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen 
   (Vereinsgesetz)
 layout: default
 slug: vereinsgdv
+
 ---
 
 # Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen Vereinsrechts (Vereinsgesetz) (VereinsGDV)

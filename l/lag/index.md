@@ -2,6 +2,7 @@
 Title: Gesetz über den Lastenausgleich
 layout: default
 slug: lag
+
 ---
 
 # Gesetz über den Lastenausgleich (LAG)

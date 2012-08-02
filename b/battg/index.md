@@ -3,6 +3,7 @@ Title: Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgl
   Entsorgung von Batterien und Akkumulatoren
 layout: default
 slug: battg
+
 ---
 
 # Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren (BattG)

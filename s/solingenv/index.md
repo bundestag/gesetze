@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz des Namens Solingen'
+Title: Verordnung zum Schutz des Namens Solingen
 layout: default
 slug: solingenv
+
 ---
 
 # Verordnung zum Schutz des Namens Solingen (SolingenV)

@@ -3,6 +3,7 @@ Title: Gesetz zur Aus- und Durchführung bestimmter Rechtsinstrumente auf dem Ge
   des internationalen Familienrechts
 layout: default
 slug: intfamrvg
+
 ---
 
 # Gesetz zur Aus- und Durchführung bestimmter Rechtsinstrumente auf dem Gebiet des internationalen Familienrechts (IntFamRVG)

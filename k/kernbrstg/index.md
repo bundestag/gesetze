@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kernbrennstoffsteuergesetz'
+Title: Kernbrennstoffsteuergesetz
 layout: default
 slug: kernbrstg
+
 ---
 
 # Kernbrennstoffsteuergesetz (KernbrStG)

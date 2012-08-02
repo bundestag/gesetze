@@ -2,6 +2,7 @@
 Title: Gesetz über Maßnahmen auf dem Gebiet des Grundbuchwesens
 layout: default
 slug: gbma_ng
+
 ---
 
 # Gesetz über Maßnahmen auf dem Gebiet des Grundbuchwesens (GBMaßnG)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherung und Strukturverbesserung der gesetzlichen
-  Krankenversicherung'
+Title: Gesetz zur Sicherung und Strukturverbesserung der gesetzlichen Krankenversicherung
 layout: default
 slug: gsg
+
 ---
 
 # Gesetz zur Sicherung und Strukturverbesserung der gesetzlichen Krankenversicherung (GSG)

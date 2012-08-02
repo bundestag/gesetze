@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kostenverordnung zum Atomgesetz'
+Title: Kostenverordnung zum Atomgesetz
 layout: default
 slug: atkostv
+
 ---
 
 # Kostenverordnung zum Atomgesetz (AtKostV)

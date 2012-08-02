@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 14. Juli 1992 zwischen der Regierung der Bunde
   Deutschland und der Regierung der Ukraine über die Binnenschiffahrt
 layout: default
 slug: binschukrabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 14. Juli 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Ukraine über die Binnenschiffahrt (BinSchUkrAbkG)

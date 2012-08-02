@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Flurbereinigungsgesetz'
+Title: Flurbereinigungsgesetz
 layout: default
 slug: flurbg
+
 ---
 
 # Flurbereinigungsgesetz (FlurbG)

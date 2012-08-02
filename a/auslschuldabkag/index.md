@@ -2,6 +2,7 @@
 Title: Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
 layout: default
 slug: auslschuldabkag
+
 ---
 
 # Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden (AuslSchuldAbkAG)

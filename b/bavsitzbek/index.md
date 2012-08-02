@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Dienstsitz des Bundesaufsichtsamtes für das Versicherungswesen
 layout: default
 slug: bavsitzbek
+
 ---
 
 # Bekanntmachung über den Dienstsitz des Bundesaufsichtsamtes für das Versicherungswesen (BAVSitzBek)

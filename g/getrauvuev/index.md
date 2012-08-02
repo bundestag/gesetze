@@ -3,6 +3,7 @@ Title: Verordnung über die Überwachung von Getreide aus Interventionsbestände
   Ausfuhr oder zur Verarbeitung zu bestimmten Erzeugnissen
 layout: default
 slug: getrauv_v
+
 ---
 
 # Verordnung über die Überwachung von Getreide aus Interventionsbeständen zur Ausfuhr oder zur Verarbeitung zu bestimmten Erzeugnissen (GetrAuVÜV)

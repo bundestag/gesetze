@@ -3,6 +3,7 @@ Title: Zehnte Verordnung zum Produktsicherheitsgesetz (Verordnung über die Bere
   von Sportbooten und den Verkehr mit Sportbooten)
 layout: default
 slug: gpsgv_10
+
 ---
 
 # Zehnte Verordnung zum Produktsicherheitsgesetz (Verordnung über die Bereitstellung von Sportbooten und den Verkehr mit Sportbooten) (GPSGV 10)

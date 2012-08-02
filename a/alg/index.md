@@ -2,6 +2,7 @@
 Title: Gesetz über die Alterssicherung der Landwirte
 layout: default
 slug: alg
+
 ---
 
 # Gesetz über die Alterssicherung der Landwirte (ALG)

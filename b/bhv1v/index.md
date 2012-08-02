@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz der Rinder vor einer Infektion mit
-  dem Bovinen Herpesvirus Typ 1'
+Title: Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus
+  Typ 1
 layout: default
 slug: bhv1v
+
 ---
 
 # Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1 (BHV1V)

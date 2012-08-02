@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "750 Jahre Katharinenkloster - 50 Jahre Meeresmuseum Stralsund")
 layout: default
 slug: m_nz10dmbek_2001-04
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze "750 Jahre Katharinenkloster - 50 Jahre Meeresmuseum Stralsund") (Münz10DMBek 2001-04)

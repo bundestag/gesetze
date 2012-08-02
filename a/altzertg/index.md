@@ -2,6 +2,7 @@
 Title: Gesetz über die Zertifizierung von Altersvorsorge- und Basisrentenverträgen
 layout: default
 slug: altzertg
+
 ---
 
 # Gesetz über die Zertifizierung von Altersvorsorge- und Basisrentenverträgen (AltZertG)

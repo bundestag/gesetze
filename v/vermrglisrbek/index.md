@@ -6,6 +6,7 @@ Title: Bekanntmachung über die Voraussetzungen für die Auszahlung der von Isra
   die Verteilung durch die Bundesrepublik Deutschland zur Verfügung stehen
 layout: default
 slug: vermrglisrbek
+
 ---
 
 # Bekanntmachung über die Voraussetzungen für die Auszahlung der von Israel für das deutsche weltliche Vermögen in Israel geleisteten Entschädigung durch die Regierung der Bundesrepublik Deutschland oder die Regierung des Australischen Bundes und über die Entschädigungsbeträge, die für die einzelnen Gruppen von Vermögensschäden für die Verteilung durch die Bundesrepublik Deutschland zur Verfügung stehen (VermRglISRBek)

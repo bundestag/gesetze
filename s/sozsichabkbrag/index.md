@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 3. Dezember 2009 zwischen der Bundesrepublik D
   und der Föderativen Republik Brasilien über Soziale Sicherheit
 layout: default
 slug: sozsichabkbrag
+
 ---
 
 # Gesetz zu dem Abkommen vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über Soziale Sicherheit (SozSichAbkBRAG)

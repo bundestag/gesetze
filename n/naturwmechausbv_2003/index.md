@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Naturwerksteinmechaniker/zur Naturwerksteinmechanikerin
 layout: default
 slug: naturwmechausbv_2003
+
 ---
 
 # Verordnung über die Berufsausbildung zum Naturwerksteinmechaniker/zur Naturwerksteinmechanikerin (NaturwMechAusbV 2003)

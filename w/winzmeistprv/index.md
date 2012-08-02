@@ -2,6 +2,7 @@
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Winzer/Winzerin
 layout: default
 slug: winzmeistprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Winzer/Winzerin (WinzMeistPrV)

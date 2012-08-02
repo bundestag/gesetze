@@ -2,6 +2,7 @@
 Title: Gesetz über das Bundesverfassungsgericht
 layout: default
 slug: bverfgg
+
 ---
 
 # Gesetz über das Bundesverfassungsgericht (BVerfGG)

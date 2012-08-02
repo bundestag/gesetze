@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung der Schiffsregisterordnung
 layout: default
 slug: schregdv
+
 ---
 
 # Verordnung zur Durchführung der Schiffsregisterordnung (SchRegDV)

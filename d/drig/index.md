@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Deutsches Richtergesetz'
+Title: Deutsches Richtergesetz
 layout: default
 slug: drig
+
 ---
 
 # Deutsches Richtergesetz (DRiG)

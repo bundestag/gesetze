@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Bootsbauer und zur
 Bootsbauerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: bootsbausbv_2011
+
 ---
 
 #  (BootsbAusbV 2011)

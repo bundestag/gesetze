@@ -2,6 +2,7 @@
 Title: Erlaß über die Stiftung der Eichendorff-Plakette
 layout: default
 slug: eichendorffplakerl
+
 ---
 
 # Erlaß über die Stiftung der Eichendorff-Plakette (EichendorffPlakErl)

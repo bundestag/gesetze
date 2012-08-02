@@ -2,6 +2,7 @@
 Title: Verordnung über die Schüler- und Kinderspeisung
 layout: default
 slug: schkispv
+
 ---
 
 # Verordnung über die Schüler- und Kinderspeisung (SchKiSpV)

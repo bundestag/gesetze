@@ -2,6 +2,7 @@
 Title: Güterkraftverkehrsgesetz
 layout: default
 slug: g_kg_1998
+
 ---
 
 # Güterkraftverkehrsgesetz (GüKG 1998)

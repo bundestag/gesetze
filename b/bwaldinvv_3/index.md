@@ -2,6 +2,7 @@
 Title: Verordnung über die Durchführung einer dritten Bundeswaldinventur
 layout: default
 slug: bwaldinvv_3
+
 ---
 
 # Verordnung über die Durchführung einer dritten Bundeswaldinventur (BWaldInvV 3)

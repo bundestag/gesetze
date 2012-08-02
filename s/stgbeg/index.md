@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Strafgesetzbuch
 layout: default
 slug: stgbeg
+
 ---
 
 # Einführungsgesetz zum Strafgesetzbuch (StGBEG)

@@ -2,6 +2,7 @@
 Title: Verordnung über Grundpfandrechte in ausländischer Währung und in Euro
 layout: default
 slug: grpfreurov
+
 ---
 
 # Verordnung über Grundpfandrechte in ausländischer Währung und in Euro (GrPfREuroV)

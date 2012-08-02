@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer/zu
   und Apparatebauerin
 layout: default
 slug: kupfschmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer/zur Behälter- und Apparatebauerin (KupfSchmAusbV)

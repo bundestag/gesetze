@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung der zentralen Archivierung von Unterlagen au
   Bereich des Lastenausgleichs
 layout: default
 slug: laarchv
+
 ---
 
 # Verordnung zur Durchführung der zentralen Archivierung von Unterlagen aus dem Bereich des Lastenausgleichs (LAArchV)

@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 34 Abs. 2 des Markengesetzes
 layout: default
 slug: markeng_34abs2bek97
+
 ---
 
 # Bekanntmachung zu § 34 Abs. 2 des Markengesetzes (MarkenG§34Abs2Bek97)

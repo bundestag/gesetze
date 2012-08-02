@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Feuerschutzsteuergesetz'
+Title: Feuerschutzsteuergesetz
 layout: default
 slug: feuerschstg_1979
+
 ---
 
 # Feuerschutzsteuergesetz (FeuerschStG 1979)

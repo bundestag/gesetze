@@ -3,6 +3,7 @@ Title: Verordnung über die Erfüllung der Vorratspflicht mit Beständen an Erd�
   und Erdölerzeugnissen, die in den Niederlanden lagern
 layout: default
 slug: e_lbnldv
+
 ---
 
 # Verordnung über die Erfüllung der Vorratspflicht mit Beständen an Erdöl, Halbfertig- und Erdölerzeugnissen, die in den Niederlanden lagern (EÖlBNLDV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Mindestmenge für die Intervention bei Getreide
 layout: default
 slug: getrintervv
+
 ---
 
 # Verordnung über die Mindestmenge für die Intervention bei Getreide (GetrIntervV)

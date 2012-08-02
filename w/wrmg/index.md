@@ -2,6 +2,7 @@
 Title: Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln
 layout: default
 slug: wrmg
+
 ---
 
 # Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln (WRMG)

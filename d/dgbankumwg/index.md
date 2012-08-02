@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Umwandlung der Deutschen Genossenschaftsbank'
+Title: Gesetz zur Umwandlung der Deutschen Genossenschaftsbank
 layout: default
 slug: dgbankumwg
+
 ---
 
 # Gesetz zur Umwandlung der Deutschen Genossenschaftsbank (DGBankUmwG)

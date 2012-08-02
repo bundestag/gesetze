@@ -3,6 +3,7 @@ Title: Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpf
   nach § 5b des Einkommensteuergesetzes
 layout: default
 slug: anwzpvv
+
 ---
 
 # Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes (AnwZpvV)

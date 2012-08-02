@@ -3,6 +3,7 @@ Title: Verordnung über den Nachweis der Sachkenntnis im Einzelhandel mit freive
   Arzneimitteln
 layout: default
 slug: amsachkv
+
 ---
 
 # Verordnung über den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln (AMSachKV)

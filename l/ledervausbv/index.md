@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zur Fachkraft für
 Lederverarbeitung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: ledervausbv
+
 ---
 
 #  (LederVAusbV)

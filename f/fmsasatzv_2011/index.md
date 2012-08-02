@@ -2,6 +2,7 @@
 Title: Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung
 layout: default
 slug: fmsasatzv_2011
+
 ---
 
 # Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung (FMSASatzV 2011)

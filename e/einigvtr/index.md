@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokra
   Republik über die Herstellung der Einheit Deutschlands
 layout: default
 slug: einigvtr
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands (EinigVtr)

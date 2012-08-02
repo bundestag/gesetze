@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin
 layout: default
 slug: leichtflbausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin (LeichtflBAusbV)

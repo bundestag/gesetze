@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung einer Zusatzstatistik auf dem Gebiet der Kri
   über Leistungen nach § 27b des Bundesversorgungsgesetzes
 layout: default
 slug: bvg_27bv
+
 ---
 
 # Verordnung zur Durchführung einer Zusatzstatistik auf dem Gebiet der Kriegsopferfürsorge über Leistungen nach § 27b des Bundesversorgungsgesetzes (BVG§27bV)

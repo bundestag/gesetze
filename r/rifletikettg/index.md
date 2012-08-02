@@ -5,6 +5,7 @@ Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft od
   Monate alten Rindern
 layout: default
 slug: rifletikettg
+
 ---
 
 # Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern (RiFlEtikettG)

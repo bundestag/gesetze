@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur vorübergehenden Abweichung von der Binnenschiffsuntersuchungsordnung
 layout: default
 slug: binschuo2008abwv_1
+
 ---
 
 # Erste Verordnung zur vorübergehenden Abweichung von der Binnenschiffsuntersuchungsordnung (BinSchUO2008AbwV 1)

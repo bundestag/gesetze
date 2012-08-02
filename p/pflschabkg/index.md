@@ -2,6 +2,7 @@
 Title: Gesetz über das Internationale Pflanzenschutzabkommen vom 6. Dezember 1951
 layout: default
 slug: pflschabkg
+
 ---
 
 # Gesetz über das Internationale Pflanzenschutzabkommen vom 6. Dezember 1951 (PflSchAbkG)

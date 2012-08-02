@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger
 layout: default
 slug: hebapro
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger (HebAPrO)

@@ -3,6 +3,7 @@ Title: Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assis
   und pharmazeutisch-technische Assistenten
 layout: default
 slug: pta-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten (PTA-APrV)

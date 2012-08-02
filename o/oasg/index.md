@@ -2,6 +2,7 @@
 Title: Gesetz zur Sicherung der zivilrechtlichen Ansprüche der Opfer von Straftaten
 layout: default
 slug: oasg
+
 ---
 
 # Gesetz zur Sicherung der zivilrechtlichen Ansprüche der Opfer von Straftaten (OASG)

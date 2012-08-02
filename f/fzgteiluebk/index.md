@@ -4,6 +4,7 @@ Title: Übereinkommen über die Annahme einheitlicher Bedingungen für die Geneh
   die gegenseitige Anerkennung der Genehmigung
 layout: default
 slug: fzgteil_bk
+
 ---
 
 # Übereinkommen über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen (Motorfahrzeugen) und über die gegenseitige Anerkennung der Genehmigung (FzgTeilÜbk)

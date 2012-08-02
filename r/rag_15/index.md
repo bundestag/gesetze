@@ -3,6 +3,7 @@ Title: Fünfzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen R
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_15
+
 ---
 
 # Fünfzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 15)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Bundesrechnungshof
 layout: default
 slug: brhg_1985
+
 ---
 
 # Gesetz über den Bundesrechnungshof (BRHG 1985)

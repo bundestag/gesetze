@@ -3,6 +3,7 @@ Title: Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereir
   der Europäischen Union
 layout: default
 slug: seefischg
+
 ---
 
 # Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereirechts der Europäischen Union (SeeFischG)

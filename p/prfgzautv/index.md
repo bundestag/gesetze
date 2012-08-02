@@ -3,6 +3,7 @@ Title: Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Ze
   über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
 layout: default
 slug: prfgzautv
+
 ---
 
 # Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen (PrfgZAUTV)

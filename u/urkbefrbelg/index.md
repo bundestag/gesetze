@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 13. Mai 1975 zwischen der Bundesrepublik Deuts
   und dem Königreich Belgien über die Befreiung öffentlicher Urkunden von der Legalisation
 layout: default
 slug: urkbefrbelg
+
 ---
 
 # Gesetz zu dem Abkommen vom 13. Mai 1975 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Befreiung öffentlicher Urkunden von der Legalisation (UrkBefrBELG)

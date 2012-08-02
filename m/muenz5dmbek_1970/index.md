@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Mercator-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1970
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Mercator-Gedenkmünze) (Münz5DMBek 1970)

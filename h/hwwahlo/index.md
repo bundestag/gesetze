@@ -3,6 +3,7 @@ Title: Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwe
   (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))
 layout: default
 slug: hwwahlo
+
 ---
 
 # Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)) (HwWahlO)

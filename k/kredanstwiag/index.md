@@ -2,6 +2,7 @@
 Title: Gesetz über die Kreditanstalt für Wiederaufbau
 layout: default
 slug: kredanstwiag
+
 ---
 
 # Gesetz über die Kreditanstalt für Wiederaufbau (KredAnstWiAG)

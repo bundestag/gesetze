@@ -3,6 +3,7 @@ Title: Verordnung zur Ermittlung und Verteilung von Überzins und Überschuß in
   Krankenversicherung
 layout: default
 slug: _bschv
+
 ---
 
 # Verordnung zur Ermittlung und Verteilung von Überzins und Überschuß in der Krankenversicherung (ÜbschV)

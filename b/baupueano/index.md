@@ -2,6 +2,7 @@
 Title: Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung
 layout: default
 slug: baup_ano
+
 ---
 
 # Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung (BauPÜAnO)

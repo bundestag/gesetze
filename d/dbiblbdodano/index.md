@@ -2,6 +2,7 @@
 Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für die Deutsche Bibliothek
 layout: default
 slug: dbiblbdodano
+
 ---
 
 # Anordnung zur Durchführung der Bundesdisziplinarordnung für die Deutsche Bibliothek (DBiblBDODAnO)

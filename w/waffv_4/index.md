@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kostenverordnung zum Waffengesetz'
+Title: Kostenverordnung zum Waffengesetz
 layout: default
 slug: waffv_4
+
 ---
 
 # Kostenverordnung zum Waffengesetz (WaffV 4)

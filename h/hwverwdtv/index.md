@@ -2,6 +2,7 @@
 Title: Verordnung über verwandte Handwerke
 layout: default
 slug: hwverwdtv
+
 ---
 
 # Verordnung über verwandte Handwerke (HwVerwdtV)

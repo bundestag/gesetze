@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Einreichung von Monatsausweisen nach dem Zahlungsdiensteaufsichtsgesetz'
+Title: Verordnung zur Einreichung von Monatsausweisen nach dem Zahlungsdiensteaufsichtsgesetz
 layout: default
 slug: zagmonawv
+
 ---
 
 # Verordnung zur Einreichung von Monatsausweisen nach dem Zahlungsdiensteaufsichtsgesetz (ZAGMonAwV)

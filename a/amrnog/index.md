@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Arzneimittelrechts'
+Title: Gesetz zur Neuordnung des Arzneimittelrechts
 layout: default
 slug: amrnog
+
 ---
 
 # Gesetz zur Neuordnung des Arzneimittelrechts (AMRNOG)

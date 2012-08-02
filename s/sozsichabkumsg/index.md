@@ -2,6 +2,7 @@
 Title: Gesetz zur Umsetzung von Abkommen über Soziale Sicherheit
 layout: default
 slug: sozsichabkumsg
+
 ---
 
 # Gesetz zur Umsetzung von Abkommen über Soziale Sicherheit (SozSichAbkUmsG)

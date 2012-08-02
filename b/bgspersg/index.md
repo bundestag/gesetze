@@ -2,6 +2,7 @@
 Title: Gesetz über die Personalstruktur des Bundesgrenzschutzes
 layout: default
 slug: bgspersg
+
 ---
 
 # Gesetz über die Personalstruktur des Bundesgrenzschutzes (BGSPersG)

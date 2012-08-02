@@ -3,6 +3,7 @@ Title: Gesetz über die Grundqualifikation und Weiterbildung der Fahrer  bestimm
   Kraftfahrzeuge für den Güterkraft- oder Personenverkehr
 layout: default
 slug: bkrfqg
+
 ---
 
 # Gesetz über die Grundqualifikation und Weiterbildung der Fahrer  bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr (BKrFQG)

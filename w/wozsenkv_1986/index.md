@@ -2,6 +2,7 @@
 Title: Wohnungsfürsorge-Zinssenkungsverordnung 1986
 layout: default
 slug: wozsenkv_1986
+
 ---
 
 # Wohnungsfürsorge-Zinssenkungsverordnung 1986 (WoZSenkV 1986)

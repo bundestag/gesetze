@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Maßschneider/zur Maßschneiderin
 layout: default
 slug: mschnausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Maßschneider/zur Maßschneiderin (MSchnAusbV 2004)

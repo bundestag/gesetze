@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Blauzungenkrankheit'
+Title: Verordnung zum Schutz gegen die Blauzungenkrankheit
 layout: default
 slug: blauzungenv
+
 ---
 
 # Verordnung zum Schutz gegen die Blauzungenkrankheit (BlauzungenV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeswahlgesetz'
+Title: Bundeswahlgesetz
 layout: default
 slug: bwahlg
+
 ---
 
 # Bundeswahlgesetz (BWahlG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Dritten Abschnitt des Arbeitsplatzschutzgesetzes'
+Title: Verordnung zum Dritten Abschnitt des Arbeitsplatzschutzgesetzes
 layout: default
 slug: arbplschgabschn3v
+
 ---
 
 # Verordnung zum Dritten Abschnitt des Arbeitsplatzschutzgesetzes (ArbPlSchGAbschn3V)

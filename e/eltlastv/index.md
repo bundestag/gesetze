@@ -2,6 +2,7 @@
 Title: Verordnung über die Sicherstellung der Elektrizitätsversorgung
 layout: default
 slug: eltlastv
+
 ---
 
 # Verordnung über die Sicherstellung der Elektrizitätsversorgung (EltLastV)

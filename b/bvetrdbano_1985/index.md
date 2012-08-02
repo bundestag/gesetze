@@ -3,6 +3,7 @@ Title: Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverh�
   im Bereich der Deutschen Bundesbahn
 layout: default
 slug: bvetrdbano_1985
+
 ---
 
 # Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich der Deutschen Bundesbahn (BVetrDBAnO 1985)

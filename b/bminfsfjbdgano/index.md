@@ -3,6 +3,7 @@ Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbe
   des Bundesministeriums für Familie, Senioren, Frauen und Jugend
 layout: default
 slug: bminfsfjbdgano
+
 ---
 
 # Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMinFSFJBDGAnO)

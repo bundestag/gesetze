@@ -3,6 +3,7 @@ Title: Verordnung über statistische Erhebungen zur Gleichstellung von Frauen un
   in Dienststellen des Bundes
 layout: default
 slug: gleistatv
+
 ---
 
 # Verordnung über statistische Erhebungen zur Gleichstellung von Frauen und Männern in Dienststellen des Bundes (GleiStatV)

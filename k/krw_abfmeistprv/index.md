@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meiste
   Meisterin für Kreislauf- und Abfallwirtschaft und Städtereinigung
 layout: default
 slug: krw_abfmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Kreislauf- und Abfallwirtschaft und Städtereinigung (KrW/AbfMeistPrV)

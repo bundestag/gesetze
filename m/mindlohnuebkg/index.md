@@ -3,6 +3,7 @@ Title: Gesetz betreffend das Internationale Übereinkommen über die Einrichtung
   Verfahren zur Festsetzung von Mindestlöhnen
 layout: default
 slug: mindlohn_bkg
+
 ---
 
 # Gesetz betreffend das Internationale Übereinkommen über die Einrichtung von Verfahren zur Festsetzung von Mindestlöhnen (MindlohnÜbkG)

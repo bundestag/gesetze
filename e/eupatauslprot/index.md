@@ -2,6 +2,7 @@
 Title: Protokoll über die Auslegung des Artikels 69 des Übereinkommens
 layout: default
 slug: eupatauslprot
+
 ---
 
 # Protokoll über die Auslegung des Artikels 69 des Übereinkommens (EuPatAuslProt)

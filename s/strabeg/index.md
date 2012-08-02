@@ -2,6 +2,7 @@
 Title: Gesetz über die strafbefreiende Erklärung
 layout: default
 slug: strabeg
+
 ---
 
 # Gesetz über die strafbefreiende Erklärung (StraBEG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Form und den Inhalt der Deckungsregister nach dem Pf
   und die Aufzeichnung der Eintragungen
 layout: default
 slug: deckregv
+
 ---
 
 # Verordnung über die Form und den Inhalt der Deckungsregister nach dem Pfandbriefgesetz und die Aufzeichnung der Eintragungen (DeckRegV)

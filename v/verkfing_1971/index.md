@@ -3,6 +3,7 @@ Title: Gesetz über die weitere Finanzierung von Maßnahmen zur Verbesserung der
   der Gemeinden und des Bundesfernstraßenbaus
 layout: default
 slug: verkfing_1971
+
 ---
 
 # Gesetz über die weitere Finanzierung von Maßnahmen zur Verbesserung der Verkehrsverhältnisse der Gemeinden und des Bundesfernstraßenbaus (VerkFinG 1971)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Benutzung von Archivgut beim Bundesarchiv
 layout: default
 slug: barchbv
+
 ---
 
 # Verordnung über die Benutzung von Archivgut beim Bundesarchiv (BArchBV)

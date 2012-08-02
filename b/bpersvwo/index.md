@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wahlordnung zum Bundespersonalvertretungsgesetz'
+Title: Wahlordnung zum Bundespersonalvertretungsgesetz
 layout: default
 slug: bpersvwo
+
 ---
 
 # Wahlordnung zum Bundespersonalvertretungsgesetz (BPersVWO)

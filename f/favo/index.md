@@ -2,6 +2,7 @@
 Title: Verordnung zur Anpassung von Arzneimittel-Festbeträgen
 layout: default
 slug: favo
+
 ---
 
 # Verordnung zur Anpassung von Arzneimittel-Festbeträgen (FAVO)

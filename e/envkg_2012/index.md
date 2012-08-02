@@ -3,6 +3,7 @@ Title: Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraft
   und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 layout: default
 slug: envkg_2012
+
 ---
 
 # Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen (EnVKG 2012)

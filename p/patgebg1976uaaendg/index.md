@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung des Patentgebührengesetzes und anderer Gesetze
 layout: default
 slug: patgebg1976ua_ndg
+
 ---
 
 # Gesetz zur Änderung des Patentgebührengesetzes und anderer Gesetze (PatGebG1976uaÄndG)

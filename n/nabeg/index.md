@@ -2,6 +2,7 @@
 Title: Netzausbaubeschleunigungsgesetz Übertragungsnetz
 layout: default
 slug: nabeg
+
 ---
 
 # Netzausbaubeschleunigungsgesetz Übertragungsnetz (NABEG)

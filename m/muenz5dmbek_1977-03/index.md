@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gauß-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1977-03
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gauß-Gedenkmünze) (Münz5DMBek 1977-03)

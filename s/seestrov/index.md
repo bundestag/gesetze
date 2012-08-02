@@ -3,6 +3,7 @@ Title: Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusa
   auf See
 layout: default
 slug: seestrov
+
 ---
 
 # Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See (SeeStrOV)

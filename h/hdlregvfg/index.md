@@ -2,6 +2,7 @@
 Title: Verordnung über die Einrichtung und Führung des Handelsregisters
 layout: default
 slug: hdlregvfg
+
 ---
 
 # Verordnung über die Einrichtung und Führung des Handelsregisters (HdlRegVfg)

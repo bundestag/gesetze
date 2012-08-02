@@ -3,6 +3,7 @@ Title: Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes au
   Bergbau-Versuchsstrecke
 layout: default
 slug: bergbversstrv
+
 ---
 
 # Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes auf die Bergbau-Versuchsstrecke (BergbVersStrV)

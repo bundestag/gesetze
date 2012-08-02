@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur
 Technischen Modellbauerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: modellbtechausbv
+
 ---
 
 #  (ModellBTechAusbV)

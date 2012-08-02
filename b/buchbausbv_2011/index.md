@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Buchbinder und zur
 Buchbinderin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: buchbausbv_2011
+
 ---
 
 #  (BuchbAusbV 2011)

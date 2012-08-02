@@ -2,6 +2,7 @@
 Title: Verordnung über den Betrieb von Apotheken
 layout: default
 slug: apobetro_1987
+
 ---
 
 # Verordnung über den Betrieb von Apotheken (ApoBetrO 1987)

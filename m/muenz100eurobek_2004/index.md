@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze "UNESCO-Weltkulturerbestadt Bamberg")
 layout: default
 slug: m_nz100eurobek_2004
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO-Weltkulturerbestadt Bamberg") (Münz100EuroBek 2004)

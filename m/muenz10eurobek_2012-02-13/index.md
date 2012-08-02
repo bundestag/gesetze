@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „50 Jahre Deutsche Welthungerhilfe“)
 layout: default
 slug: m_nz10eurobek_2012-02-13
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „50 Jahre Deutsche Welthungerhilfe“) (Münz10EuroBek 2012-02-13)

@@ -2,6 +2,7 @@
 Title: Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
 layout: default
 slug: hgfsnatschv
+
 ---
 
 # Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel" (HgFSNatSchV)

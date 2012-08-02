@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Tuberkulose des Rindes'
+Title: Verordnung zum Schutz gegen die Tuberkulose des Rindes
 layout: default
 slug: rindtbv
+
 ---
 
 # Verordnung zum Schutz gegen die Tuberkulose des Rindes (RindTbV)

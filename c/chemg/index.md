@@ -1,9 +1,10 @@
 [^BJNR017180980.1]
 Gesetz zum Schutz vor gefährlichen Stoffen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: chemg
+
 ---
 
 #  (ChemG)

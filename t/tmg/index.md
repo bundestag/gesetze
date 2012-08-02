@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Telemediengesetz'
+Title: Telemediengesetz
 layout: default
 slug: tmg
+
 ---
 
 # Telemediengesetz (TMG)

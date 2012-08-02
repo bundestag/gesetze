@@ -2,6 +2,7 @@
 Title: Vierzehnte Verordnung zum Produktsicherheitsgesetz (Druckgeräteverordnung)
 layout: default
 slug: gsgv_14
+
 ---
 
 # Vierzehnte Verordnung zum Produktsicherheitsgesetz (Druckgeräteverordnung) (GSGV 14)

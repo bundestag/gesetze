@@ -3,6 +3,7 @@ Title: Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kin
   und Jugendlichenpsychotherapeuten
 layout: default
 slug: psychthg
+
 ---
 
 # Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten (PsychThG)

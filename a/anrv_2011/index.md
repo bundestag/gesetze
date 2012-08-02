@@ -2,6 +2,7 @@
 Title: Dreiundvierzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
 layout: default
 slug: anrv_2011
+
 ---
 
 # Dreiundvierzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz (AnrV 2011)

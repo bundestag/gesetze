@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Indust
   Industriemeisterin - Fachrichtung Buchbinderei
 layout: default
 slug: buchbindmstrv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Buchbinderei (BuchBIndMstrV)

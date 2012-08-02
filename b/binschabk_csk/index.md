@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   der Tschechoslowakischen Sozialistischen Republik über den Binnenschiffsverkehr
 layout: default
 slug: binschabk_csk
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Tschechoslowakischen Sozialistischen Republik über den Binnenschiffsverkehr (BinSchAbk CSK)

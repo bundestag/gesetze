@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung des Gesetzes über das Kreditwesen
 layout: default
 slug: kredwg_ndg_2
+
 ---
 
 # Zweites Gesetz zur Änderung des Gesetzes über das Kreditwesen (KredWGÄndG 2)

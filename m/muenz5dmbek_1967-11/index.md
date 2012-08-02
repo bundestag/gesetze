@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Humboldt-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1967-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Humboldt-Gedenkmünze) (Münz5DMBek 1967-11)

@@ -2,6 +2,7 @@
 Title: Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärter
 layout: default
 slug: sanoaausbgv
+
 ---
 
 # Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärter (SanOAAusbgV)

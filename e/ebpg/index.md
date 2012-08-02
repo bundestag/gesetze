@@ -2,6 +2,7 @@
 Title: Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte
 layout: default
 slug: ebpg
+
 ---
 
 # Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (EBPG)

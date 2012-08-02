@@ -3,6 +3,7 @@ Title: Bestimmungen über Amtswohnungen, Umzugskostenentschädigung, Tagegelder 
   Entschädigung für Reisekosten der Mitglieder der Bundesregierung
 layout: default
 slug: bregentschbest
+
 ---
 
 # Bestimmungen über Amtswohnungen, Umzugskostenentschädigung, Tagegelder und Entschädigung für Reisekosten der Mitglieder der Bundesregierung (BRegEntschBest)

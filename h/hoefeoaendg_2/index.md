@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung der Höfeordnung
 layout: default
 slug: h_feo_ndg_2
+
 ---
 
 # Zweites Gesetz zur Änderung der Höfeordnung (HöfeOÄndG 2)

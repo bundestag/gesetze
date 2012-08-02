@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 �
   Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 layout: default
 slug: haag_bkag
+
 ---
 
 # Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen (HaagÜbkAG)

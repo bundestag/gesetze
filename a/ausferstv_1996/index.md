@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Ausfuhrerstattungsverordnung'
+Title: Ausfuhrerstattungsverordnung
 layout: default
 slug: ausferstv_1996
+
 ---
 
 # Ausfuhrerstattungsverordnung (AusfErstV 1996)

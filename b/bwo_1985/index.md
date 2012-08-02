@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeswahlordnung'
+Title: Bundeswahlordnung
 layout: default
 slug: bwo_1985
+
 ---
 
 # Bundeswahlordnung (BWO 1985)

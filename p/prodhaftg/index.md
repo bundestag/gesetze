@@ -2,6 +2,7 @@
 Title: Gesetz über die Haftung für fehlerhafte Produkte
 layout: default
 slug: prodhaftg
+
 ---
 
 # Gesetz über die Haftung für fehlerhafte Produkte (ProdHaftG)

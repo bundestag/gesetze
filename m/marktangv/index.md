@@ -3,6 +3,7 @@ Title: Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen 
   einem Erlaubnisantrag nach § 37i des Wertpapierhandelsgesetzes
 layout: default
 slug: marktangv
+
 ---
 
 # Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen bei einem Erlaubnisantrag nach § 37i des Wertpapierhandelsgesetzes (MarktAngV)

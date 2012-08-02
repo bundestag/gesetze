@@ -2,6 +2,7 @@
 Title: Gesetz über die Grundsätze des Haushaltsrechts des Bundes und der Länder
 layout: default
 slug: hgrg
+
 ---
 
 # Gesetz über die Grundsätze des Haushaltsrechts des Bundes und der Länder (HGrG)

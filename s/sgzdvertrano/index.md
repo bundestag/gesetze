@@ -3,6 +3,7 @@ Title: Allgemeine Anordnung über die Vertretung der Bundesrepublik Deutschland 
   den Gerichten der Sozialgerichtsbarkeit im Bereich des Zivildienstes
 layout: default
 slug: sgzdvertrano
+
 ---
 
 # Allgemeine Anordnung über die Vertretung der Bundesrepublik Deutschland vor den Gerichten der Sozialgerichtsbarkeit im Bereich des Zivildienstes (SGZDVertrAnO)

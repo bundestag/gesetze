@@ -3,6 +3,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertra
   zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze
 layout: default
 slug: gr_ndstvtrbw_hebek
+
 ---
 
 # Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze (GrÄndStVtrBW/HEBek)

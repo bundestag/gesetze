@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bogenmacher/zur Bogenmacherin
 layout: default
 slug: bogenmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Bogenmacher/zur Bogenmacherin (BogenmAusbV)

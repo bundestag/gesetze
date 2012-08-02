@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Beseitigung nationalsozialistischer Eingriffe
-  in die Strafrechtspflege'
+Title: Verordnung zur Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege
 layout: default
 slug: nsstrpflv_brz
+
 ---
 
 # Verordnung zur Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege (NSStRpflV BrZ)

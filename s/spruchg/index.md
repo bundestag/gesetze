@@ -2,6 +2,7 @@
 Title: Gesetz über das gesellschaftsrechtliche Spruchverfahren
 layout: default
 slug: spruchg
+
 ---
 
 # Gesetz über das gesellschaftsrechtliche Spruchverfahren (SpruchG)

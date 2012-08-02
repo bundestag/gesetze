@@ -2,6 +2,7 @@
 Title: Gesetz zur Einsparung von Energie in Gebäuden
 layout: default
 slug: eneg
+
 ---
 
 # Gesetz zur Einsparung von Energie in Gebäuden (EnEG)

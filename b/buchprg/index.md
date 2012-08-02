@@ -2,6 +2,7 @@
 Title: Gesetz über die Preisbindung für Bücher
 layout: default
 slug: buchprg
+
 ---
 
 # Gesetz über die Preisbindung für Bücher (BuchPrG)

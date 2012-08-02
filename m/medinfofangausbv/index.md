@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Fachangestellten für Medien- u
   Fachangestellten für Medien- und Informations\*/dienste
 layout: default
 slug: medinfofangausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations\*/dienste (MedInfoFAngAusbV)

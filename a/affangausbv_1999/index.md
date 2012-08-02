@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum/zur Fachangestellten für Arbeitsförderung
 layout: default
 slug: affangausbv_1999
+
 ---
 
 # Verordnung über die Berufsausbildung zum/zur Fachangestellten für Arbeitsförderung (AFFAngAusbV 1999)

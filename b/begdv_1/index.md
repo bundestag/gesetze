@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 layout: default
 slug: begdv_1
+
 ---
 
 # Erste Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 1)

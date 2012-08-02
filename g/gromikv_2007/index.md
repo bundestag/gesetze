@@ -3,6 +3,7 @@ Title: Verordnung über die Erfassung, Bemessung, Gewichtung und Anzeige von Kre
   im Bereich der Großkredit- und Millionenkreditvorschriften des Kreditwesengesetzes
 layout: default
 slug: gromikv_2007
+
 ---
 
 # Verordnung über die Erfassung, Bemessung, Gewichtung und Anzeige von Krediten im Bereich der Großkredit- und Millionenkreditvorschriften des Kreditwesengesetzes (GroMiKV 2007)

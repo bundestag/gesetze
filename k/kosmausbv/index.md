@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
 layout: default
 slug: kosmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kosmetiker/zur Kosmetikerin (KosmAusbV)

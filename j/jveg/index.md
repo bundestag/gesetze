@@ -4,6 +4,7 @@ Title: Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolm
   ehrenamtlichen Richtern, Zeuginnen, Zeugen und Dritten
 layout: default
 slug: jveg
+
 ---
 
 # Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolmetschern, Übersetzerinnen und Übersetzern sowie die Entschädigung von ehrenamtlichen Richterinnen, ehrenamtlichen Richtern, Zeuginnen, Zeugen und Dritten (JVEG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung des Meeresbodenbergbaus'
+Title: Gesetz zur Regelung des Meeresbodenbergbaus
 layout: default
 slug: mbergg
+
 ---
 
 # Gesetz zur Regelung des Meeresbodenbergbaus (MBergG)

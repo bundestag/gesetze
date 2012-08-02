@@ -2,6 +2,7 @@
 Title: Gesetz über die Börsenzulassung umgestellter Wertpapiere
 layout: default
 slug: wpapumstg
+
 ---
 
 # Gesetz über die Börsenzulassung umgestellter Wertpapiere (WPapUmstG)

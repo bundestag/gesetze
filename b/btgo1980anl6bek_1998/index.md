@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Übernahme der Grundsätze in Immunitätsangeleg
   von Mitgliedern des Deutschen Bundestages
 layout: default
 slug: btgo1980anl6bek_1998
+
 ---
 
 # Bekanntmachung über die Übernahme der Grundsätze in Immunitätsangelegenheiten von Mitgliedern des Deutschen Bundestages (BTGO1980Anl6Bek 1998)

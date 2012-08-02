@@ -2,6 +2,7 @@
 Title: Gesetz über die Finanzverwaltung
 layout: default
 slug: fvg_1971
+
 ---
 
 # Gesetz über die Finanzverwaltung (FVG 1971)

@@ -2,6 +2,7 @@
 Title: Bergverordnung für den Festlandsockel
 layout: default
 slug: flsbergv
+
 ---
 
 # Bergverordnung für den Festlandsockel (FlsBergV)

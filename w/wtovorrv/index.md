@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Wel
   für Tourismus
 layout: default
 slug: wtovorrv
+
 ---
 
 # Verordnung über die Gewährung von Vorrechten und Befreiungen an die Weltorganisation für Tourismus (WTOVorRV)

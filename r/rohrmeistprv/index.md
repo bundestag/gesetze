@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meiste
   Meisterin für Rohr-, Kanal- und Industrieservice
 layout: default
 slug: rohrmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Rohr-, Kanal- und Industrieservice (RohrMeistPrV)

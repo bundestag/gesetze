@@ -3,6 +3,7 @@ Title: Verordnung über die Mitwirkung der Bewohnerinnen und Bewohner in Angeleg
   des Heimbetriebes
 layout: default
 slug: heimmitwirkungsv
+
 ---
 
 # Verordnung über die Mitwirkung der Bewohnerinnen und Bewohner in Angelegenheiten des Heimbetriebes (HeimMitwirkungsV)

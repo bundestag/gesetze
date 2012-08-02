@@ -1,9 +1,10 @@
 [^F774052_01_BJNR037700010]
 Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: wasgefstanlv
+
 ---
 
 #  (WasgefStAnlV)

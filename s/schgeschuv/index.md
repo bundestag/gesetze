@@ -3,6 +3,7 @@ Title: Verordnung über die Übermittlung schiffahrtsgeschäftlicher Unterlagen 
   Stellen
 layout: default
 slug: schgeschuv
+
 ---
 
 # Verordnung über die Übermittlung schiffahrtsgeschäftlicher Unterlagen an ausländische Stellen (SchGeschUV)

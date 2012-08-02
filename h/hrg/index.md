@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Hochschulrahmengesetz'
+Title: Hochschulrahmengesetz
 layout: default
 slug: hrg
+
 ---
 
 # Hochschulrahmengesetz (HRG)

@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bun
   im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
 layout: default
 slug: bmgsernano_2003
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung (BMGSErnAnO 2003)

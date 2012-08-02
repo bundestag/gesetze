@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   von Beschäftigten des Bundesfinanzhofs in Angelegenheiten nach den Beihilfevorschriften
 layout: default
 slug: bfhbeihzustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesfinanzhofs in Angelegenheiten nach den Beihilfevorschriften (BFHBeihZustAnO)

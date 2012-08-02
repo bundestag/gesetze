@@ -2,6 +2,7 @@
 Title: Gesetz über den Wehrbeauftragten des Deutschen Bundestages
 layout: default
 slug: wehrbbtg
+
 ---
 
 # Gesetz über den Wehrbeauftragten des Deutschen Bundestages (WehrbBTG)

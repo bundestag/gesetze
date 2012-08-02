@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fertig
   Fertigungsplanerin im Tischlerhandwerk
 layout: default
 slug: fertigpltischlprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fertigungsplaner/Geprüfte Fertigungsplanerin im Tischlerhandwerk (FertigPlTischlPrV)

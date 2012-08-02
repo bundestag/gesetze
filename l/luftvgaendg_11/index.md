@@ -2,6 +2,7 @@
 Title: Elftes Gesetz zur Änderung des Luftverkehrsgesetzes
 layout: default
 slug: luftvg_ndg_11
+
 ---
 
 # Elftes Gesetz zur Änderung des Luftverkehrsgesetzes (LuftVGÄndG 11)

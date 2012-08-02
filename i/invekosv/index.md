@@ -3,6 +3,7 @@ Title: Verordnung über die Durchführung von Stützungsregelungen und des Integ
   Verwaltungs- und Kontrollsystems
 layout: default
 slug: invekosv
+
 ---
 
 # Verordnung über die Durchführung von Stützungsregelungen und des Integrierten Verwaltungs- und Kontrollsystems (InVeKoSV)

@@ -3,6 +3,7 @@ Title: Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in de
   und Binnenschifffahrt
 layout: default
 slug: rhein_binschabf_bk
+
 ---
 
 # Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (Rhein/BinSchAbfÜbk)

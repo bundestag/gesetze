@@ -7,6 +7,7 @@ Title: Gesetz zu dem Übereinkommen vom 11. Dezember 1987 zwischen den Vereinigt
   über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite
 layout: default
 slug: flugkmkrb_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 11. Dezember 1987 zwischen den Vereinigten Staaten von Amerika und dem Königreich Belgien, der Bundesrepublik Deutschland, der italienischen Republik, dem Königreich der Niederlande und dem Vereinigten Königreich Großbritannien und Nordirland über Inspektionen in bezug auf den Vertrag zwischen den Vereinigten Staaten von Amerika und der Union der Sozialistischen Sowjetrepubliken über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite (FlugkmkRBÜbkG)

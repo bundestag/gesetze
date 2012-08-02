@@ -3,6 +3,7 @@ Title: Verordnung zur Gleichstellung französischer Meisterprüfungszeugnisse mi
   im Handwerk
 layout: default
 slug: meistprfrglv
+
 ---
 
 # Verordnung zur Gleichstellung französischer Meisterprüfungszeugnisse mit Meisterprüfungszeugnissen im Handwerk (MeistPrFRGlV)

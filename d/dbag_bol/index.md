@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 30. September 1992 zwischen der Bundesrepublik
   Steuern vom Einkommen und vom Vermögen
 layout: default
 slug: dbag_bol
+
 ---
 
 # Gesetz zu dem Abkommen vom 30. September 1992 zwischen der Bundesrepublik Deutschland und der Republik Bolivien zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (DBAG BOL)

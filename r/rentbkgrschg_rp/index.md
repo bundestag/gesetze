@@ -2,6 +2,7 @@
 Title: Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz
 layout: default
 slug: rentbkgrschg_rp
+
 ---
 
 # Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz (RentBkGrSchG RP)

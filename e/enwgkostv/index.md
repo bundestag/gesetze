@@ -3,6 +3,7 @@ Title: Verordnung über die Gebühren und Auslagen für Amtshandlungen der  Bund
   nach dem Energiewirtschaftsgesetz
 layout: default
 slug: enwgkostv
+
 ---
 
 # Verordnung über die Gebühren und Auslagen für Amtshandlungen der  Bundesnetzagentur nach dem Energiewirtschaftsgesetz (EnWGKostV)

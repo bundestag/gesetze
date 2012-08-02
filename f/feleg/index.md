@@ -2,6 +2,7 @@
 Title: Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
 layout: default
 slug: feleg
+
 ---
 
 # Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit (FELEG)

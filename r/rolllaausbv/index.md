@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Rollladen- und Sonnenschutzmech
   Rollladen- und Sonnenschutzmechatronikerin
 layout: default
 slug: rolllaausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Rollladen- und Sonnenschutzmechatroniker/zur Rollladen- und Sonnenschutzmechatronikerin (RolllaAusbV)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Grunderwerb für die Kanalisierung der Mittelweser
 layout: default
 slug: mittelweserg
+
 ---
 
 # Gesetz über den Grunderwerb für die Kanalisierung der Mittelweser (MittelweserG)

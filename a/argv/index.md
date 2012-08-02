@@ -2,6 +2,7 @@
 Title: Verordnung über die Arbeitsgenehmigung für ausländische Arbeitnehmer
 layout: default
 slug: argv
+
 ---
 
 # Verordnung über die Arbeitsgenehmigung für ausländische Arbeitnehmer (ArGV)

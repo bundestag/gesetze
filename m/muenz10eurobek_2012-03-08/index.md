@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „200 Jahre Grimms Märchen“)
 layout: default
 slug: m_nz10eurobek_2012-03-08
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200 Jahre Grimms Märchen“) (Münz10EuroBek 2012-03-08)

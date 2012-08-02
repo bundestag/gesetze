@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechtsverhältnisse der Mitglieder der Bundesregierung
 layout: default
 slug: bming
+
 ---
 
 # Gesetz über die Rechtsverhältnisse der Mitglieder der Bundesregierung (BMinG)

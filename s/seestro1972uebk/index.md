@@ -3,6 +3,7 @@ Title: Übereinkommen von 1972 über die Internationalen Regeln zur Verhütung v
   auf See
 layout: default
 slug: seestro1972_bk
+
 ---
 
 # Übereinkommen von 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See (SeeStrO1972Übk)

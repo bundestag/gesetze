@@ -3,6 +3,7 @@ Title: Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminie
   Stoffen bei der Herstellung von Arzneimitteln
 layout: default
 slug: aflatoxinverbotsv
+
 ---
 
 # Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminierten Stoffen bei der Herstellung von Arzneimitteln (AflatoxinverbotsV)

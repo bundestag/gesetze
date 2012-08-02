@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Gestalter für visuelles Market
   Gestalterin für visuelles Marketing
 layout: default
 slug: marketgestausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing (MarketGestAusbV)

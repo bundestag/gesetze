@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Metallbauer und zur
 Metallbauerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: metallbausbv_2008
+
 ---
 
 #  (MetallbAusbV 2008)

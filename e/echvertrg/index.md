@@ -2,6 +2,7 @@
 Title: Gesetz zu dem Vertragswerk vom 17. Dezember 1994 über die Energiecharta
 layout: default
 slug: echvertrg
+
 ---
 
 # Gesetz zu dem Vertragswerk vom 17. Dezember 1994 über die Energiecharta (ECHVertrG)

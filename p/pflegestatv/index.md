@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtun
   sowie über die häusliche Pflege
 layout: default
 slug: pflegestatv
+
 ---
 
 # Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege (PflegeStatV)

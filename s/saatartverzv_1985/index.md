@@ -2,6 +2,7 @@
 Title: Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz
 layout: default
 slug: saatartverzv_1985
+
 ---
 
 # Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz (SaatArtVerzV 1985)

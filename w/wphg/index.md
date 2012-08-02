@@ -2,6 +2,7 @@
 Title: Gesetz über den Wertpapierhandel
 layout: default
 slug: wphg
+
 ---
 
 # Gesetz über den Wertpapierhandel (WpHG)

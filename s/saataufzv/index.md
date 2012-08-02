@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Saatgutaufzeichnungsverordnung'
+Title: Saatgutaufzeichnungsverordnung
 layout: default
 slug: saataufzv
+
 ---
 
 # Saatgutaufzeichnungsverordnung (SaatAufzV)

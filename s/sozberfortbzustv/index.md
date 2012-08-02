@@ -4,6 +4,7 @@ Title: Verordnung über die Bestimmung der zuständigen Stelle für die beruflic
   und ihre Familien
 layout: default
 slug: sozberfortbzustv
+
 ---
 
 # Verordnung über die Bestimmung der zuständigen Stelle für die berufliche Fortbildung zum Geprüften Sozialberater/zur Geprüften Sozialberaterin für ausländische Arbeitnehmer und ihre Familien (SozBerFortbZustV)

@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Industrieelektriker/zur
 Industrieelektrikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: indelekausbv
+
 ---
 
 #  (IndElekAusbV)

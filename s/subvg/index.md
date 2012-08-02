@@ -2,6 +2,7 @@
 Title: Gesetz gegen mißbräuchliche Inanspruchnahme von Subventionen
 layout: default
 slug: subvg
+
 ---
 
 # Gesetz gegen mißbräuchliche Inanspruchnahme von Subventionen (SubvG)

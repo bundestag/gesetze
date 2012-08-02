@@ -2,6 +2,7 @@
 Title: Gesetz zur Neuregelung der Hüttenknappschaftlichen Zusatzversicherung im Saarland
 layout: default
 slug: hzvg_2002
+
 ---
 
 # Gesetz zur Neuregelung der Hüttenknappschaftlichen Zusatzversicherung im Saarland (HZvG 2002)

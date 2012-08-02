@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staa
   Landesgrenze
 layout: default
 slug: gr_ndstvtrbw_by2bek
+
 ---
 
 # Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staatsvertrages zwischen dem Freistaat Bayern und dem Land Baden-Württemberg über die Änderung der Landesgrenze (GrÄndStVtrBW/BY2Bek)

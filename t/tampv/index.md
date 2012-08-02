@@ -4,9 +4,10 @@ sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt
 sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur
 Anwendung der Tierarzneimittelprüfrichtlinien
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tampv
+
 ---
 
 #  (TamPV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tabakprodukt-Verordnung'
+Title: Tabakprodukt-Verordnung
 layout: default
 slug: tabprodv
+
 ---
 
 # Tabakprodukt-Verordnung (TabProdV)

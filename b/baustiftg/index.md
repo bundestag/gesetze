@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer "Bundesstiftung Baukultur"'
+Title: Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
 layout: default
 slug: baustiftg
+
 ---
 
 # Gesetz zur Errichtung einer "Bundesstiftung Baukultur" (BauStiftG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eisenbahn-Verkehrsordnung'
+Title: Eisenbahn-Verkehrsordnung
 layout: default
 slug: evo
+
 ---
 
 # Eisenbahn-Verkehrsordnung (EVO)

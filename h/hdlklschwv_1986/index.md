@@ -2,6 +2,7 @@
 Title: Verordnung über gesetzliche Handelsklassen für Schweineschlachtkörper
 layout: default
 slug: hdlklschwv_1986
+
 ---
 
 # Verordnung über gesetzliche Handelsklassen für Schweineschlachtkörper (HdlKlSchwV 1986)

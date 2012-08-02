@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postzeitungsabkommen'
+Title: Postzeitungsabkommen
 layout: default
 slug: postztgabk_1984
+
 ---
 
 # Postzeitungsabkommen (PostZtgAbk 1984)

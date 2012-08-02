@@ -2,6 +2,7 @@
 Title: Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen
 layout: default
 slug: jabschlvuv
+
 ---
 
 # Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen (JAbschlVUV)

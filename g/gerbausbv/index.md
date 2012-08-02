@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Gerber/zur Gerberin
 layout: default
 slug: gerbausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Gerber/zur Gerberin (GerbAusbV)

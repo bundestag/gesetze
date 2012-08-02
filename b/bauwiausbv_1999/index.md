@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung in der Bauwirtschaft
 layout: default
 slug: bauwiausbv_1999
+
 ---
 
 # Verordnung über die Berufsausbildung in der Bauwirtschaft (BauWiAusbV 1999)

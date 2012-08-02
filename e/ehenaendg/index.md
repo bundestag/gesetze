@@ -2,6 +2,7 @@
 Title: Gesetz über die Änderung des Ehenamens
 layout: default
 slug: ehen_ndg
+
 ---
 
 # Gesetz über die Änderung des Ehenamens (EheNÄndG)

@@ -2,9 +2,10 @@
 Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes
 Werkfeuerwehrmann/Werkfeuerwehrfrau
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: werkfeuerwerprobv
+
 ---
 
 #  (WerkfeuerwErprobV)

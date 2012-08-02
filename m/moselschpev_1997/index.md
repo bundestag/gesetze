@@ -2,6 +2,7 @@
 Title: Verordnung zur Einführung der Moselschiffahrtspolizeiverordnung
 layout: default
 slug: moselschpev_1997
+
 ---
 
 # Verordnung zur Einführung der Moselschiffahrtspolizeiverordnung (MoselSchPEV 1997)

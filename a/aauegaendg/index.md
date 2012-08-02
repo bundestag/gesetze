@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes
 layout: default
 slug: aa_g_ndg
+
 ---
 
 # Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes (AAÜGÄndG)

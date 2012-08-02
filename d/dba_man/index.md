@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   tätigen Schifffahrtsunternehmen
 layout: default
 slug: dba_man
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Insel Man zur Vermeidung der Doppelbesteuerung von im internationalen Verkehr tätigen Schifffahrtsunternehmen (DBA MAN)

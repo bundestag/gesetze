@@ -3,6 +3,7 @@ Title: Verordnung über die Nutzenbewertung von Arzneimitteln nach § 35a Absatz
   V für Erstattungsvereinbarungen nach § 130b SGB V
 layout: default
 slug: am-nutzenv
+
 ---
 
 # Verordnung über die Nutzenbewertung von Arzneimitteln nach § 35a Absatz 1 SGB V für Erstattungsvereinbarungen nach § 130b SGB V (AM-NutzenV)

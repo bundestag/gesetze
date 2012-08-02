@@ -2,6 +2,7 @@
 Title: Gesetz über die Tilgung von Ausgleichsforderungen
 layout: default
 slug: ausglfog_1965
+
 ---
 
 # Gesetz über die Tilgung von Ausgleichsforderungen (AusglFoG 1965)

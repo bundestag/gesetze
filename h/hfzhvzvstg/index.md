@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftl
   Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
 layout: default
 slug: hfzhvzvstg
+
 ---
 
 # Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer (HfzHvzVStG)

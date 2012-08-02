@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fotomedienlaboranten/zur Fotomedienlaborantin
 layout: default
 slug: fotomedlabausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fotomedienlaboranten/zur Fotomedienlaborantin (FotoMedLabAusbV)

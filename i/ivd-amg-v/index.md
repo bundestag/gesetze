@@ -3,6 +3,7 @@ Title: Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatl
   Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz
 layout: default
 slug: ivd-amg-v
+
 ---
 
 # Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatliche Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz (IVD-AMG-V)

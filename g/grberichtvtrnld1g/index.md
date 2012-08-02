@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 30. Oktober 1980 zwischen der Bundesrepublik De
   und dem Königreich der Niederlande über Grenzberichtigungen
 layout: default
 slug: grberichtvtrnld1g
+
 ---
 
 # Gesetz zu dem Vertrag vom 30. Oktober 1980 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über Grenzberichtigungen (GrBerichtVtrNLD1G)

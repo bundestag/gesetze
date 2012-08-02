@@ -3,6 +3,7 @@ Title: Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten d
   freiwilligen Gerichtsbarkeit
 layout: default
 slug: famfg
+
 ---
 
 # Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG)

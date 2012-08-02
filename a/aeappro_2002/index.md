@@ -2,6 +2,7 @@
 Title: Approbationsordnung für Ärzte
 layout: default
 slug: _appro_2002
+
 ---
 
 # Approbationsordnung für Ärzte (ÄApprO 2002)

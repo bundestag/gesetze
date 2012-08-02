@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
 layout: default
 slug: bewg_39dv_1
+
 ---
 
 # Erste Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes (BewG§39DV 1)

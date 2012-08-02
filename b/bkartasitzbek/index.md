@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Dienstsitz des Bundeskartellamtes
 layout: default
 slug: bkartasitzbek
+
 ---
 
 # Bekanntmachung über den Dienstsitz des Bundeskartellamtes (BKartASitzBek)

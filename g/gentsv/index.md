@@ -3,6 +3,7 @@ Title: Verordnung über die Sicherheitsstufen und Sicherheitsmaßnahmen bei gent
   Arbeiten in gentechnischen Anlagen
 layout: default
 slug: gentsv
+
 ---
 
 # Verordnung über die Sicherheitsstufen und Sicherheitsmaßnahmen bei gentechnischen Arbeiten in gentechnischen Anlagen (GenTSV)

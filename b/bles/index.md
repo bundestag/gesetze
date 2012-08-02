@@ -2,6 +2,7 @@
 Title: Satzung der Bundesanstalt für Landwirtschaft und Ernährung
 layout: default
 slug: bles
+
 ---
 
 # Satzung der Bundesanstalt für Landwirtschaft und Ernährung (BLES)

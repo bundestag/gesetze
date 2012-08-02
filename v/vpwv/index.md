@@ -2,6 +2,7 @@
 Title: Verordnung über die Wahl der Vertrauenspersonen der Soldaten
 layout: default
 slug: vpwv
+
 ---
 
 # Verordnung über die Wahl der Vertrauenspersonen der Soldaten (VPWV)

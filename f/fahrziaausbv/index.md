@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
 layout: default
 slug: fahrziaausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin (FahrzIAAusbV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Schiffssicherheitsverordnung'
+Title: Schiffssicherheitsverordnung
 layout: default
 slug: schsv_1998
+
 ---
 
 # Schiffssicherheitsverordnung (SchSV 1998)

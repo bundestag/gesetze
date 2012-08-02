@@ -2,6 +2,7 @@
 Title: Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben
 layout: default
 slug: tpg
+
 ---
 
 # Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben (TPG)

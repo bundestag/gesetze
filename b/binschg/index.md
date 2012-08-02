@@ -2,6 +2,7 @@
 Title: Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt
 layout: default
 slug: binschg
+
 ---
 
 # Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt (BinSchG)

@@ -4,6 +4,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   Ausgabe 2004 -)
 layout: default
 slug: m_nz10eurobek_2004
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland 2006" - 2. Ausgabe 2004 -) (Münz10EuroBek 2004)

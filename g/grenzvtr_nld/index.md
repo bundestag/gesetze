@@ -4,6 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der N
   Grundbesitz, den grenzüberschreitenden Binnenverkehr und andere Grenzfragen
 layout: default
 slug: grenzvtr_nld
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Verlauf der gemeinsamen Landesgrenze, die Grenzgewässer, den grenznahen Grundbesitz, den grenzüberschreitenden Binnenverkehr und andere Grenzfragen (GrenzVtr NLD)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)'
+Title: Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)
 layout: default
 slug: gsgv_9
+
 ---
 
 # Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) (GSGV 9)

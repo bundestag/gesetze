@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik im Produzierenden Gewerbe
 layout: default
 slug: prodgewstatg
+
 ---
 
 # Gesetz über die Statistik im Produzierenden Gewerbe (ProdGewStatG)

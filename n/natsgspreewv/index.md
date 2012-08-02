@@ -3,6 +3,7 @@ Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landsc
   von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Spreewald"
 layout: default
 slug: natsgspreewv
+
 ---
 
 # Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Spreewald" (NatSGSpreewV)

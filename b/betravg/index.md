@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Verbesserung der betrieblichen Altersversorgung'
+Title: Gesetz zur Verbesserung der betrieblichen Altersversorgung
 layout: default
 slug: betravg
+
 ---
 
 # Gesetz zur Verbesserung der betrieblichen Altersversorgung (BetrAVG)

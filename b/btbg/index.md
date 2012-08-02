@@ -2,6 +2,7 @@
 Title: Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger
 layout: default
 slug: btbg
+
 ---
 
 # Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger (BtBG)

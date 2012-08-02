@@ -2,6 +2,7 @@
 Title: Verordnung über Betriebsbeauftragte für Abfall
 layout: default
 slug: abfbeauftrv
+
 ---
 
 # Verordnung über Betriebsbeauftragte für Abfall (AbfBeauftrV)

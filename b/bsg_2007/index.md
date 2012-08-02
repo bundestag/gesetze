@@ -3,6 +3,7 @@ Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversic
   für das Jahr 2007
 layout: default
 slug: bsg_2007
+
 ---
 
 # Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2007 (BSG 2007)

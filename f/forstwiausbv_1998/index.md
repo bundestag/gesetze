@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin
 layout: default
 slug: forstwiausbv_1998
+
 ---
 
 # Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin (ForstWiAusbV 1998)

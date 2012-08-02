@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 4. Juli 1989 zwischen der Regierung der Bundes
   den Binnenwasserstraßen
 layout: default
 slug: binwastrbgrabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 4. Juli 1989 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Volksrepublik Bulgarien über die Schiffahrt auf den Binnenwasserstraßen (BinWaStrBGRAbkG)

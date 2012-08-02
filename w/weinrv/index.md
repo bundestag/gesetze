@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Durchsetzung des gemeinschaftlichen Weinrechts'
+Title: Verordnung zur Durchsetzung des gemeinschaftlichen Weinrechts
 layout: default
 slug: weinrv
+
 ---
 
 # Verordnung zur Durchsetzung des gemeinschaftlichen Weinrechts (WeinRV)

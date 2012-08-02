@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Gesetzes über die Sozialversicherung
 layout: default
 slug: sozversgdv
+
 ---
 
 # Verordnung zur Durchführung des Gesetzes über die Sozialversicherung (SozVersGDV)

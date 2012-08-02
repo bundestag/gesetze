@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeshaushaltsordnung'
+Title: Bundeshaushaltsordnung
 layout: default
 slug: bho
+
 ---
 
 # Bundeshaushaltsordnung (BHO)

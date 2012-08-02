@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Erhebung der Merkmale des Migrationshintergrundes'
+Title: Verordnung zur Erhebung der Merkmale des Migrationshintergrundes
 layout: default
 slug: mighev
+
 ---
 
 # Verordnung zur Erhebung der Merkmale des Migrationshintergrundes (MighEV)

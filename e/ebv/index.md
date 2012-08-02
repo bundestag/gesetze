@@ -3,6 +3,7 @@ Title: Verordnung über die Bestellung und Bestätigung sowie die Aufgaben und B
   von Betriebsleitern für Eisenbahnen
 layout: default
 slug: ebv
+
 ---
 
 # Verordnung über die Bestellung und Bestätigung sowie die Aufgaben und Befugnisse von Betriebsleitern für Eisenbahnen (EBV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung nach Artikel 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes'
+Title: Bekanntmachung nach Artikel 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes
 layout: default
 slug: schanpgart11abs2abek
+
 ---
 
 # Bekanntmachung nach Artikel 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes (SchAnpGArt11Abs2aBek)

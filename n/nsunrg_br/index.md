@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts
-  in der Strafrechtspflege'
+Title: Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 layout: default
 slug: nsunrg_br
+
 ---
 
 # Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege (NSUnrG BR)

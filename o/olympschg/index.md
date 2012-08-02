@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutz des olympischen Emblems und der olympischen
-  Bezeichnungen'
+Title: Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen
 layout: default
 slug: olympschg
+
 ---
 
 # Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen (OlympSchG)

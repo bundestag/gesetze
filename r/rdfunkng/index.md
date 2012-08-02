@@ -3,6 +3,7 @@ Title: Gesetz über die Neuordnung der Rundfunkanstalten des Bundesrechts und de
   Berlin
 layout: default
 slug: rdfunkng
+
 ---
 
 # Gesetz über die Neuordnung der Rundfunkanstalten des Bundesrechts und des RIAS Berlin (RdFunkNG)

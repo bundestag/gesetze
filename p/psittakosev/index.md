@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Psittakose und Ornithose'
+Title: Verordnung zum Schutz gegen die Psittakose und Ornithose
 layout: default
 slug: psittakosev
+
 ---
 
 # Verordnung zum Schutz gegen die Psittakose und Ornithose (PsittakoseV)

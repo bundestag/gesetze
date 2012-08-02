@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung der Gemeindefinanzen'
+Title: Gesetz zur Neuordnung der Gemeindefinanzen
 layout: default
 slug: gemfinrefg
+
 ---
 
 # Gesetz zur Neuordnung der Gemeindefinanzen (GemFinRefG)

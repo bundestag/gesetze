@@ -2,6 +2,7 @@
 Title: Gesetz über Fremdwährungs-Schuldverschreibungen
 layout: default
 slug: schverschrfrdw_g
+
 ---
 
 # Gesetz über Fremdwährungs-Schuldverschreibungen (SchVerschrFrdWäG)

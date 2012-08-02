@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Jugendgerichtsgesetz'
+Title: Jugendgerichtsgesetz
 layout: default
 slug: jgg
+
 ---
 
 # Jugendgerichtsgesetz (JGG)

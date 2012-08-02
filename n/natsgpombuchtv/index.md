@@ -2,6 +2,7 @@
 Title: Verordnung über die Festsetzung des Naturschutzgebietes "Pommersche Bucht"
 layout: default
 slug: natsgpombuchtv
+
 ---
 
 # Verordnung über die Festsetzung des Naturschutzgebietes "Pommersche Bucht" (NatSGPomBuchtV)

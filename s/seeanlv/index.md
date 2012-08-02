@@ -2,6 +2,7 @@
 Title: Verordnung über Anlagen seewärts der Begrenzung des deutschen Küstenmeeres
 layout: default
 slug: seeanlv
+
 ---
 
 # Verordnung über Anlagen seewärts der Begrenzung des deutschen Küstenmeeres (SeeAnlV)

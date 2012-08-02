@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Be
   im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
 layout: default
 slug: bminuzustano
+
 ---
 
 # Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit (BMinUZustAnO)

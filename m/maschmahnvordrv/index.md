@@ -3,6 +3,7 @@ Title: Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Geri
   die das Verfahren maschinell bearbeiten
 layout: default
 slug: maschmahnvordrv
+
 ---
 
 # Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten (MaschMahnVordrV)

@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zu den Internationalen Gesundheitsvorschriften (2005)
-  (IGV) vom 23. Mai 2005'
+Title: Gesetz zu den Internationalen Gesundheitsvorschriften (2005) (IGV) vom 23.
+  Mai 2005
 layout: default
 slug: igvg_2005
+
 ---
 
 # Gesetz zu den Internationalen Gesundheitsvorschriften (2005) (IGV) vom 23. Mai 2005 (IGVG 2005)

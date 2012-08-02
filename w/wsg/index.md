@@ -3,6 +3,7 @@ Title: Gesetz über die Geld- und Sachbezüge der Soldaten, die auf Grund der We
   Wehrdienst leisten
 layout: default
 slug: wsg
+
 ---
 
 # Gesetz über die Geld- und Sachbezüge der Soldaten, die auf Grund der Wehrpflicht Wehrdienst leisten (WSG)

@@ -2,6 +2,7 @@
 Title: Einundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften
 layout: default
 slug: btm_ndv_21
+
 ---
 
 # Einundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften (BtMÄndV 21)

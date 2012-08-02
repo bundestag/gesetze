@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln'
+Title: Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln
 layout: default
 slug: dmmv_2010
+
 ---
 
 # Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln (DmMV 2010)

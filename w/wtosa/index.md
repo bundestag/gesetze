@@ -2,6 +2,7 @@
 Title: Satzung der Weltorganisation für Tourismus
 layout: default
 slug: wtosa
+
 ---
 
 # Satzung der Weltorganisation für Tourismus (WTOSa)

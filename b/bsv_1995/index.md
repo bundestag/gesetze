@@ -3,6 +3,7 @@ Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenve
   für 1995
 layout: default
 slug: bsv_1995
+
 ---
 
 # Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für 1995 (BSV 1995)

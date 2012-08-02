@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Wide
   Einrichtungen im Geschäftsbereich des  Bundesministeriums für Arbeit und Soziales
 layout: default
 slug: bminaszustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem  Beamtenverhältnis auf die Einrichtungen im Geschäftsbereich des  Bundesministeriums für Arbeit und Soziales (BMinASZustAnO)

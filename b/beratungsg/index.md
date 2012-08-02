@@ -2,6 +2,7 @@
 Title: Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten
 layout: default
 slug: beratungsg
+
 ---
 
 # Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten (BeratungsG)

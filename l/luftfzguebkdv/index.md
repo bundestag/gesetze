@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. Apr
   über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
 layout: default
 slug: luftfzg_bkdv
+
 ---
 
 # Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge (LuftFzgÜbkDV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von O
   nach § 124 des Gesetzes über Ordnungswidrigkeiten
 layout: default
 slug: owig_124v
+
 ---
 
 # Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 124 des Gesetzes über Ordnungswidrigkeiten (OWiG§124V)

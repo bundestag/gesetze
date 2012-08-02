@@ -2,6 +2,7 @@
 Title: Dritte Verordnung zur Änderung der Approbationsordnung für Ärzte
 layout: default
 slug: _appro_ndv_3
+
 ---
 
 # Dritte Verordnung zur Änderung der Approbationsordnung für Ärzte (ÄApprOÄndV 3)

@@ -2,6 +2,7 @@
 Title: Gesetz über die rechtliche Stellung der nichtehelichen Kinder
 layout: default
 slug: nehelg
+
 ---
 
 # Gesetz über die rechtliche Stellung der nichtehelichen Kinder (NEhelG)

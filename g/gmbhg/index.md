@@ -2,6 +2,7 @@
 Title: Gesetz betreffend die Gesellschaften mit beschränkter Haftung
 layout: default
 slug: gmbhg
+
 ---
 
 # Gesetz betreffend die Gesellschaften mit beschränkter Haftung (GmbHG)

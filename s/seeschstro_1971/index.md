@@ -2,6 +2,7 @@
 Title: Seeschiffahrtsstraßen-Ordnung
 layout: default
 slug: seeschstro_1971
+
 ---
 
 # Seeschiffahrtsstraßen-Ordnung (SeeSchStrO 1971)

@@ -4,6 +4,7 @@ Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenve
   der Sozialversicherung für 2001
 layout: default
 slug: bsv_2001
+
 ---
 
 # Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung, der Beitragszahlung des Bundes für Kindererziehungszeiten und weiterer Rechengrößen der Sozialversicherung für 2001 (BSV 2001)

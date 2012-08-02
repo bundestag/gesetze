@@ -3,6 +3,7 @@ Title: Gesetz über eine Wiedereingliederungshilfe im Wohnungsbau für rückkehr
   Ausländer
 layout: default
 slug: auslwobaug
+
 ---
 
 # Gesetz über eine Wiedereingliederungshilfe im Wohnungsbau für rückkehrende Ausländer (AuslWoBauG)

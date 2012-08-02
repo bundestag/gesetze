@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
 layout: default
 slug: raumaausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin (RaumAAusbV 2004)

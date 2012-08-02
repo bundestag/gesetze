@@ -3,9 +3,10 @@ Verordnung über die Anforderungen an Qualität und Sicherheit der
 Entnahme von Geweben und deren Übertragung nach dem
 Transplantationsgesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tpg-gewv
+
 ---
 
 #  (TPG-GewV)

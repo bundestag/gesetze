@@ -3,9 +3,10 @@ Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und
 Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen
 zu Sicherheitszwecken betrieben werden
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: schutsev
+
 ---
 
 #  (SchuTSEV)

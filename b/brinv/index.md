@@ -2,6 +2,7 @@
 Title: Verordnung über die Nebentätigkeit der Richter im Bundesdienst
 layout: default
 slug: brinv
+
 ---
 
 # Verordnung über die Nebentätigkeit der Richter im Bundesdienst (BRiNV)

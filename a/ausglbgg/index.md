@@ -2,6 +2,7 @@
 Title: Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet
 layout: default
 slug: ausglbgg
+
 ---
 
 # Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet (AusglBGG)

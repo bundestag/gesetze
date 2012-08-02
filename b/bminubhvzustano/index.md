@@ -7,6 +7,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   - BhV)
 layout: default
 slug: bminubhvzustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten der Allgemeinen Verwaltungsvorschrift für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen (Beihilfevorschriften - BhV) (BMinUBhVZustAnO)

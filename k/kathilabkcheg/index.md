@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 28. November 1984 zwischen der Bundesrepublik 
   Katastrophen oder schweren Unglücksfällen
 layout: default
 slug: kathilabkcheg
+
 ---
 
 # Gesetz zu dem Abkommen vom 28. November 1984 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen (KatHiLAbkCHEG)

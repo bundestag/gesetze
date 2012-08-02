@@ -3,6 +3,7 @@ Title: Verordnung über die Ersetzung zerstörter oder abhanden gekommener geric
   oder notarischer Urkunden
 layout: default
 slug: urkersv
+
 ---
 
 # Verordnung über die Ersetzung zerstörter oder abhanden gekommener gerichtlicher oder notarischer Urkunden (UrkErsV)

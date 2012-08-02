@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Abkommens vom 14. Juli 1960 zwischen der Bunde
   und Handelssachen
 layout: default
 slug: vollstrabkgbrag
+
 ---
 
 # Gesetz zur Ausführung des Abkommens vom 14. Juli 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen in Zivil- und Handelssachen (VollstrAbkGBRAG)

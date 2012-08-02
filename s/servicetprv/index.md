@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Kraft
   Kraftfahrzeug-Servicetechnikerin"
 layout: default
 slug: servicetprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-Servicetechnikerin" (ServiceTPrV)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Kopernikus-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1973-04
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kopernikus-Gedenkmünze) (Münz5DMBek 1973-04)

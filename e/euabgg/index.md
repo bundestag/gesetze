@@ -3,6 +3,7 @@ Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Par
   aus der Bundesrepublik Deutschland
 layout: default
 slug: euabgg
+
 ---
 
 # Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments aus der Bundesrepublik Deutschland (EuAbgG)

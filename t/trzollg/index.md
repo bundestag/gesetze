@@ -6,6 +6,7 @@ Title: Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des N
   militärischen Hauptquartiere
 layout: default
 slug: trzollg
+
 ---
 
 # Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens zum NATO-Truppenstatut hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen militärischen Hauptquartiere (TrZollG)

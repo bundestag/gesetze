@@ -3,6 +3,7 @@ Title: Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen 
   Demokratischen Republik
 layout: default
 slug: stug
+
 ---
 
 # Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (StUG)

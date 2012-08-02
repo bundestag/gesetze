@@ -4,6 +4,7 @@ Title: Verordnung über Zusammensetzung, Berufung und Verfahren einer unabhängi
   vom 22. September 1994
 layout: default
 slug: antarktumwschprotag_6abs5v
+
 ---
 
 # Verordnung über Zusammensetzung, Berufung und Verfahren einer unabhängigen Kommission wissenschaftlicher Sachverständiger nach § 6 Abs. 5 des Umweltschutzprotokoll-Ausführungsgesetzes vom 22. September 1994 (AntarktUmwSchProtAG§6Abs5V)

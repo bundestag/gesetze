@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur
 Technischen Konfektionärin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tkonfausbv_2010
+
 ---
 
 #  (TKonfAusbV 2010)

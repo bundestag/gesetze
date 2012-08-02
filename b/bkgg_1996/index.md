@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeskindergeldgesetz'
+Title: Bundeskindergeldgesetz
 layout: default
 slug: bkgg_1996
+
 ---
 
 # Bundeskindergeldgesetz (BKGG 1996)

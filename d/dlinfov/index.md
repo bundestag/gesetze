@@ -1,9 +1,10 @@
 [^F1_772974_BJNR026700010]
 Verordnung über Informationspflichten für Dienstleistungserbringer
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: dlinfov
+
 ---
 
 #  (DLInfoV)

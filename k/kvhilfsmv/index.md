@@ -3,6 +3,7 @@ Title: Verordnung über Hilfsmittel von geringem therapeutischen Nutzen oder ger
   Abgabepreis in der gesetzlichen Krankenversicherung
 layout: default
 slug: kvhilfsmv
+
 ---
 
 # Verordnung über Hilfsmittel von geringem therapeutischen Nutzen oder geringem Abgabepreis in der gesetzlichen Krankenversicherung (KVHilfsmV)

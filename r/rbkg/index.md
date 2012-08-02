@@ -2,6 +2,7 @@
 Title: Gesetz über die Deutsche Reichsbank
 layout: default
 slug: rbkg
+
 ---
 
 # Gesetz über die Deutsche Reichsbank (RBkG)

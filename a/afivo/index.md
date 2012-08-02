@@ -3,6 +3,7 @@ Title: Verordnung über die Veröffentlichung von Informationen über die Zahlun
   Mitteln aus den Europäischen Fonds für Landwirtschaft und für Fischerei
 layout: default
 slug: afivo
+
 ---
 
 # Verordnung über die Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und für Fischerei (AFIVO)

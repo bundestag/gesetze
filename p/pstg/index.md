@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Personenstandsgesetz'
+Title: Personenstandsgesetz
 layout: default
 slug: pstg
+
 ---
 
 # Personenstandsgesetz (PStG)

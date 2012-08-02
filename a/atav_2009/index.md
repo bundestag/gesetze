@@ -2,9 +2,10 @@
 Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter
 Brennelemente
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: atav_2009
+
 ---
 
 #  (AtAV 2009)

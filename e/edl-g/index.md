@@ -2,6 +2,7 @@
 Title: Gesetz über Energiedienstleistungen und andere Energieeffizienzmaßnahmen
 layout: default
 slug: edl-g
+
 ---
 
 # Gesetz über Energiedienstleistungen und andere Energieeffizienzmaßnahmen (EDL-G)

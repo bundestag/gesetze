@@ -3,6 +3,7 @@ Title: Verordnung über Sicherungsmaßnahmen für militärische Sperr- und Warng
   an der schleswig-holsteinischen Ost- und Westküste und im Nord-Ostsee-Kanal
 layout: default
 slug: sperrwarngebv
+
 ---
 
 # Verordnung über Sicherungsmaßnahmen für militärische Sperr- und Warngebiete an der schleswig-holsteinischen Ost- und Westküste und im Nord-Ostsee-Kanal (SperrWarngebV)

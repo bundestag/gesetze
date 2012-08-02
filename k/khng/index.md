@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung der Krankenhausfinanzierung'
+Title: Gesetz zur Neuordnung der Krankenhausfinanzierung
 layout: default
 slug: khng
+
 ---
 
 # Gesetz zur Neuordnung der Krankenhausfinanzierung (KHNG)

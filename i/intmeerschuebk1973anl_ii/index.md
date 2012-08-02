@@ -4,6 +4,7 @@ Title: Regeln zur Überwachung der Verschmutzung durch als Massengut beförderte
   der Meeresverschmutzung durch Schiffe)
 layout: default
 slug: intmeersch_bk1973anl_ii
+
 ---
 
 # Regeln zur Überwachung der Verschmutzung durch als Massengut beförderte schädliche flüssige Stoffe (Anlage II zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe) (IntMeerSchÜbk1973Anl II)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Nichtanrechnung des Kinderbonus'
+Title: Gesetz zur Nichtanrechnung des Kinderbonus
 layout: default
 slug: kbnanrg
+
 ---
 
 # Gesetz zur Nichtanrechnung des Kinderbonus (KBNAnrG)

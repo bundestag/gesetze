@@ -2,6 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundespatentgericht
 layout: default
 slug: bpr_spatgerkldgano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundespatentgericht (BPräsPatGerKldgAnO)

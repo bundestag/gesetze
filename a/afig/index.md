@@ -3,6 +3,7 @@ Title: Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitt
   aus den Europäischen Fonds für Landwirtschaft und Fischerei
 layout: default
 slug: afig
+
 ---
 
 # Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und Fischerei (AFIG)

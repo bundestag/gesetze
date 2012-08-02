@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zweite Wassersicherstellungsverordnung'
+Title: Zweite Wassersicherstellungsverordnung
 layout: default
 slug: wassv_2
+
 ---
 
 # Zweite Wassersicherstellungsverordnung (WasSV 2)

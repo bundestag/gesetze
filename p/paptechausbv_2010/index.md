@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Papiertechnologen/zur
 Papiertechnologin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: paptechausbv_2010
+
 ---
 
 #  (PapTechAusbV 2010)

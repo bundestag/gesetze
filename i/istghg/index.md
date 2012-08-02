@@ -2,6 +2,7 @@
 Title: Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof
 layout: default
 slug: istghg
+
 ---
 
 # Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof (IStGHG)

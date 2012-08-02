@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Leuchtröhrenglasbläser/zur Leuchtröhrenglasbläserin
 layout: default
 slug: leuchtrausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Leuchtröhrenglasbläser/zur Leuchtröhrenglasbläserin (LeuchtrAusbV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbil
   zum Winzer/zur Winzerin
 layout: default
 slug: winzausbsteignv
+
 ---
 
 # Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Winzer/zur Winzerin (WinzAusbStEignV)

@@ -4,6 +4,7 @@ Title: Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Verm
   oder besatzungshoheitlicher Grundlage
 layout: default
 slug: ealg
+
 ---
 
 # Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen und über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage (EALG)

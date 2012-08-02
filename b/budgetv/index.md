@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 17 Abs. 2 bis 4 des Neunten Buches Sozialgesetzbuch
 layout: default
 slug: budgetv
+
 ---
 
 # Verordnung zur Durchführung des § 17 Abs. 2 bis 4 des Neunten Buches Sozialgesetzbuch (BudgetV)

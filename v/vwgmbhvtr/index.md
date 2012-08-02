@@ -5,6 +5,7 @@ Title: Vertrag über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk
   Gesellschaft mit beschränkter Haftung)
 layout: default
 slug: vwgmbhvtr
+
 ---
 
 # Vertrag über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung und über die Errichtung einer "Stiftung Volkswagenwerk" (Anlage zum Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung) (VwGmbHVtr)

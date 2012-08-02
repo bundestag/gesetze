@@ -4,6 +4,7 @@ Title: Verordnung über die Berufsausbildung zum Müller (Verfahrenstechnologe i
   Mühlen- und Futtermittelwirtschaft)
 layout: default
 slug: m_ausbv_2006
+
 ---
 
 # Verordnung über die Berufsausbildung zum Müller (Verfahrenstechnologe in  der Mühlen- und Futtermittelwirtschaft)/zur Müllerin (Verfahrenstechnologin in  der Mühlen- und Futtermittelwirtschaft) (MüAusbV 2006)

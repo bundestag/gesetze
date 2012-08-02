@@ -3,6 +3,7 @@ Title: Verordnung über das Verfahren zur Ermittlung des Wertes der von Eigenerz
   selbst verbrauchten Elektrizität
 layout: default
 slug: eigenverbv
+
 ---
 
 # Verordnung über das Verfahren zur Ermittlung des Wertes der von Eigenerzeugern selbst verbrauchten Elektrizität (EigenVerbV)

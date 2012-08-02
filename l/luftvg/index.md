@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Luftverkehrsgesetz'
+Title: Luftverkehrsgesetz
 layout: default
 slug: luftvg
+
 ---
 
 # Luftverkehrsgesetz (LuftVG)

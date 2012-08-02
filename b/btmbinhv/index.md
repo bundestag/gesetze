@@ -2,6 +2,7 @@
 Title: Betäubungsmittel-Binnenhandelsverordnung
 layout: default
 slug: btmbinhv
+
 ---
 
 # Betäubungsmittel-Binnenhandelsverordnung (BtMBinHV)

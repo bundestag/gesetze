@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Weltpostvertrag'
+Title: Weltpostvertrag
 layout: default
 slug: wpostvtr_1999
+
 ---
 
 # Weltpostvertrag (WPostVtr 1999)

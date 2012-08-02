@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'EG-Verbraucherschutzdurchsetzungsgesetz'
+Title: EG-Verbraucherschutzdurchsetzungsgesetz
 layout: default
 slug: vschdg
+
 ---
 
 # EG-Verbraucherschutzdurchsetzungsgesetz (VSchDG)

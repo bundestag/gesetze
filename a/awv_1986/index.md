@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Außenwirtschaftsgesetzes
 layout: default
 slug: awv_1986
+
 ---
 
 # Verordnung zur Durchführung des Außenwirtschaftsgesetzes (AWV 1986)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Gewährung von Beihilfen für Magermilch und Magermilchpulver
 layout: default
 slug: mmilchbeihv
+
 ---
 
 # Verordnung über die Gewährung von Beihilfen für Magermilch und Magermilchpulver (MMilchBeihV)

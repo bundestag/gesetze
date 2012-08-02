@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Waffengesetz'
+Title: Waffengesetz
 layout: default
 slug: waffg_2002
+
 ---
 
 # Waffengesetz (WaffG 2002)

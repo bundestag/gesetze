@@ -3,6 +3,7 @@ Title: Verordnung über Finanzrückversicherungsverträge und Verträge ohne hin
   Risikotransfer
 layout: default
 slug: finrvv
+
 ---
 
 # Verordnung über Finanzrückversicherungsverträge und Verträge ohne hinreichenden Risikotransfer (FinRVV)

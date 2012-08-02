@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Hessisches Wassergesetz'
+Title: Hessisches Wassergesetz
 layout: default
 slug: wg_he
+
 ---
 
 # Hessisches Wassergesetz (WG HE)

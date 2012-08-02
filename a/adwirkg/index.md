@@ -2,6 +2,7 @@
 Title: Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht
 layout: default
 slug: adwirkg
+
 ---
 
 # Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht (AdWirkG)

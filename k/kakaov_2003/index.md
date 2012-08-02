@@ -2,6 +2,7 @@
 Title: Verordnung über Kakao- und Schokoladenerzeugnisse
 layout: default
 slug: kakaov_2003
+
 ---
 
 # Verordnung über Kakao- und Schokoladenerzeugnisse (KakaoV 2003)

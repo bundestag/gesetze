@@ -3,6 +3,7 @@ Title: Gesetz über die Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen
   Beitrittsgebiet und die daran anknüpfenden Folgeansprüche
 layout: default
 slug: vwrehag
+
 ---
 
 # Gesetz über die Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen im Beitrittsgebiet und die daran anknüpfenden Folgeansprüche (VwRehaG)

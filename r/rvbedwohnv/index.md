@@ -3,6 +3,7 @@ Title: Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge f
   der Träger der Rentenversicherung
 layout: default
 slug: rvbedwohnv
+
 ---
 
 # Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge für Bedienstete der Träger der Rentenversicherung (RVBedWohnV)

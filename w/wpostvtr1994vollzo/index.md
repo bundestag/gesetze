@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Vollzugsordnung zum Weltpostvertrag'
+Title: Vollzugsordnung zum Weltpostvertrag
 layout: default
 slug: wpostvtr1994vollzo
+
 ---
 
 # Vollzugsordnung zum Weltpostvertrag (WPostVtr1994VollzO)

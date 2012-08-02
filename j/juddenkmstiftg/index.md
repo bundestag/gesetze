@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung einer "Stiftung Denkmal für die ermordeten Juden Europas"
 layout: default
 slug: juddenkmstiftg
+
 ---
 
 # Gesetz zur Errichtung einer "Stiftung Denkmal für die ermordeten Juden Europas" (JudDenkmStiftG)

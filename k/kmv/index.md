@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln'
+Title: Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln
 layout: default
 slug: kmv
+
 ---
 
 # Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln (KmV)

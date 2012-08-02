@@ -3,6 +3,7 @@ Title: Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrich
   und der Rechtsverhältnisse an deren Vermögen
 layout: default
 slug: nsverbg
+
 ---
 
 # Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrichtungen und der Rechtsverhältnisse an deren Vermögen (NSVerbG)

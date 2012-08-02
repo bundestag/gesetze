@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Umsetzung von Konsultationsvereinbarungen
-  zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft'
+Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
+  Deutschland und der Schweizerischen Eidgenossenschaft
 layout: default
 slug: konsverchev
+
 ---
 
 # Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft (KonsVerCHEV)

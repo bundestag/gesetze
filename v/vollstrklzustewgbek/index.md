@@ -4,6 +4,7 @@ Title: Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreck
   Atomgemeinschaft
 layout: default
 slug: vollstrklzustewgbek
+
 ---
 
 # Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel zu Entscheidungen von Organen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft (VollstrKlZustEWGBek)

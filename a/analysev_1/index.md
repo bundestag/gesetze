@@ -2,6 +2,7 @@
 Title: Verordnung über Methoden der quantitativen Analyse von binären Textilfasergemischen
 layout: default
 slug: analysev_1
+
 ---
 
 # Verordnung über Methoden der quantitativen Analyse von binären Textilfasergemischen (AnalyseV 1)

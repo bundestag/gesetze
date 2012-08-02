@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   von schwerwiegenden Straftaten und der Organisierten Kriminalität
 layout: default
 slug: okzusaabk_vnm
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Sozialistischen Republik Vietnam über die Zusammenarbeit bei der Bekämpfung von schwerwiegenden Straftaten und der Organisierten Kriminalität (OKZusAAbk VNM)

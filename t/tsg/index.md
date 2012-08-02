@@ -3,6 +3,7 @@ Title: Gesetz über die Änderung der Vornamen und die Feststellung der Geschlec
   in besonderen Fällen
 layout: default
 slug: tsg
+
 ---
 
 # Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen (TSG)

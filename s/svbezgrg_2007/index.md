@@ -2,6 +2,7 @@
 Title: Gesetz über maßgebende Rechengrößen der Sozialversicherung für 2007
 layout: default
 slug: svbezgrg_2007
+
 ---
 
 # Gesetz über maßgebende Rechengrößen der Sozialversicherung für 2007 (SVBezGrG 2007)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunst
   und Kautschuktechnik/zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
 layout: default
 slug: kstoffverfmausbv_2006
+
 ---
 
 # Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik/zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik (KStoffVerfMAusbV 2006)

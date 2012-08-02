@@ -3,9 +3,10 @@ Verordnung über das datenbankgestützte Informationssystem über
 Arzneimittel des Deutschen Instituts für Medizinische Dokumentation
 und Information
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: dimdiamv
+
 ---
 
 #  (DIMDIAMV)

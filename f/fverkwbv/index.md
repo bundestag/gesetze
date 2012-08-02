@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Fernverkehrswegebestimmungsverordnung'
+Title: Fernverkehrswegebestimmungsverordnung
 layout: default
 slug: fverkwbv
+
 ---
 
 # Fernverkehrswegebestimmungsverordnung (FVerkWBV)

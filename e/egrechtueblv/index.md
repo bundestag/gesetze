@@ -3,6 +3,7 @@ Title: Verordnung zur Überleitung des Rechts der Europäischen Gemeinschaften a
   in Artikel 3 des Einigungsvertrages genannte Gebiet
 layout: default
 slug: egrecht_blv
+
 ---
 
 # Verordnung zur Überleitung des Rechts der Europäischen Gemeinschaften auf das in Artikel 3 des Einigungsvertrages genannte Gebiet (EGRechtÜblV)

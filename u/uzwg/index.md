@@ -3,6 +3,7 @@ Title: Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt d
   Vollzugsbeamte des Bundes
 layout: default
 slug: uzwg
+
 ---
 
 # Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes (UZwG)

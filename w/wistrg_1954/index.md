@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts'
+Title: Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts
 layout: default
 slug: wistrg_1954
+
 ---
 
 # Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts (WiStrG 1954)

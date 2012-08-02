@@ -2,6 +2,7 @@
 Title: Gesetz über die Durchforschung des Reichsgebietes nach nutzbaren Lagerstätten
 layout: default
 slug: lagerstg
+
 ---
 
 # Gesetz über die Durchforschung des Reichsgebietes nach nutzbaren Lagerstätten (LagerstG)

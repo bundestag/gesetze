@@ -3,6 +3,7 @@ Title: Zusatzprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und 
   Portugiesischen Republik über Soziale Sicherheit
 layout: default
 slug: sozsichabkzprot_prt
+
 ---
 
 # Zusatzprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik über Soziale Sicherheit (SozSichAbkZProt PRT)

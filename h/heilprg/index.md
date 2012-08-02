@@ -2,6 +2,7 @@
 Title: Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung
 layout: default
 slug: heilprg
+
 ---
 
 # Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (HeilprG)

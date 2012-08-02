@@ -5,6 +5,7 @@ Title: Gesetz zu dem Vertrag vom 12. September 2000 zwischen der Bundesrepublik 
   einer Grenzbrücke
 layout: default
 slug: grbr_ckabk2000czeg
+
 ---
 
 # Gesetz zu dem Vertrag vom 12. September 2000 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluss der deutschen Autobahn A 17 und der tschechischen Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke (GrBrückAbk2000CZEG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwi
   für das Jahr 2012
 layout: default
 slug: aelv_2012
+
 ---
 
 # Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2012 (AELV 2012)

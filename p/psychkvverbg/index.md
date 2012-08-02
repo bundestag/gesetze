@@ -3,6 +3,7 @@ Title: Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung ps
   Kranker
 layout: default
 slug: psychkvverbg
+
 ---
 
 # Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch Kranker (PsychKVVerbG)

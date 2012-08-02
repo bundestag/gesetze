@@ -3,6 +3,7 @@ Title: Verordnung über die elektronische Übermittlung von für das Besteuerung
   erforderlichen Daten
 layout: default
 slug: std_v
+
 ---
 
 # Verordnung über die elektronische Übermittlung von für das Besteuerungsverfahren erforderlichen Daten (StDÜV)

@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Physiotherapeuten
 layout: default
 slug: physth-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Physiotherapeuten (PhysTh-APrV)

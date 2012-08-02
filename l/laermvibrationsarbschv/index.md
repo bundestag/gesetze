@@ -2,6 +2,7 @@
 Title: Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen
 layout: default
 slug: l_rmvibrationsarbschv
+
 ---
 
 # Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen (LärmVibrationsArbSchV)

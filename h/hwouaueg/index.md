@@ -3,6 +3,7 @@ Title: Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwe
   und anderer handwerksrechtlicher Vorschriften
 layout: default
 slug: hwoua_g
+
 ---
 
 # Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften (HwOuaÜG)

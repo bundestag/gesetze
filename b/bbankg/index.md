@@ -2,6 +2,7 @@
 Title: Gesetz über die Deutsche Bundesbank
 layout: default
 slug: bbankg
+
 ---
 
 # Gesetz über die Deutsche Bundesbank (BBankG)

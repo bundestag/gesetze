@@ -3,6 +3,7 @@ Title: Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen
   für die Elektrizitätsversorgung in Niederspannung
 layout: default
 slug: nav
+
 ---
 
 # Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen Nutzung für die Elektrizitätsversorgung in Niederspannung (NAV)

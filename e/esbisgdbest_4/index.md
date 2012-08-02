@@ -4,6 +4,7 @@ Title: Vierte Durchführungsbestimmung zum Gesetz über das einheitliche soziali
   und Dresden -
 layout: default
 slug: esbisgdbest_4
+
 ---
 
 # Vierte Durchführungsbestimmung zum Gesetz über das einheitliche sozialistische Bildungssystem - Bildung und Erziehung im zweisprachigen Gebiet der Bezirke Cottbus und Dresden - (ESBiSGDBest 4)

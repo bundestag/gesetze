@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Vergünstigungen im Rahmen der gemein
   Marktorganisation für Fischereierzeugnisse
 layout: default
 slug: fischverg_nstv
+
 ---
 
 # Verordnung über die Gewährung von Vergünstigungen im Rahmen der gemeinsamen Marktorganisation für Fischereierzeugnisse (FischVergünstV)

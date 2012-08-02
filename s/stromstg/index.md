@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Stromsteuergesetz'
+Title: Stromsteuergesetz
 layout: default
 slug: stromstg
+
 ---
 
 # Stromsteuergesetz (StromStG)

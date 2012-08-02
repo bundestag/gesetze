@@ -2,6 +2,7 @@
 Title: Erstes Gesetz zur Änderung des Heimgesetzes
 layout: default
 slug: heimg_ndg_1
+
 ---
 
 # Erstes Gesetz zur Änderung des Heimgesetzes (HeimGÄndG 1)

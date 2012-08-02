@@ -2,6 +2,7 @@
 Title: Zweites Gesetz über Bergmannssiedlungen
 layout: default
 slug: bergmsdlgg_2
+
 ---
 
 # Zweites Gesetz über Bergmannssiedlungen (BergMSdlgG 2)

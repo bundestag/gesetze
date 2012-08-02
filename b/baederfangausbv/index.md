@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum/zur Fachangestellten für Bäderbetriebe
 layout: default
 slug: b_derfangausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum/zur Fachangestellten für Bäderbetriebe (BäderFAngAusbV)

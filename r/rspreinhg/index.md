@@ -3,6 +3,7 @@ Title: Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Ge
   des Bundes
 layout: default
 slug: rspreinhg
+
 ---
 
 # Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe des Bundes (RsprEinhG)

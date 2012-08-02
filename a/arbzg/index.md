@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Arbeitszeitgesetz'
+Title: Arbeitszeitgesetz
 layout: default
 slug: arbzg
+
 ---
 
 # Arbeitszeitgesetz (ArbZG)

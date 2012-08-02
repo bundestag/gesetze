@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Aufhebung des Fischwirtschaftsgesetzes und der
-  Fischwirtschaftsverordnung'
+Title: Gesetz zur Aufhebung des Fischwirtschaftsgesetzes und der Fischwirtschaftsverordnung
 layout: default
 slug: fischwivorschraufhg
+
 ---
 
 # Gesetz zur Aufhebung des Fischwirtschaftsgesetzes und der Fischwirtschaftsverordnung (FischWiVorschrAufhG)

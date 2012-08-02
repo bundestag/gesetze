@@ -2,6 +2,7 @@
 Title: Organisationserlaß des Bundeskanzlers
 layout: default
 slug: bkorgerl_1986
+
 ---
 
 # Organisationserlaß des Bundeskanzlers (BKOrgErl 1986)

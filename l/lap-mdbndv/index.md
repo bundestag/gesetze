@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren
   im Bundesnachrichtendienst
 layout: default
 slug: lap-mdbndv
+
 ---
 
 # Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im Bundesnachrichtendienst (LAP-mDBNDV)

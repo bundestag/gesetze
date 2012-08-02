@@ -2,6 +2,7 @@
 Title: Gesetz über eine Investitionszulage für Investitionen in der Eisen- und Stahlindustrie
 layout: default
 slug: stindinvzulg
+
 ---
 
 # Gesetz über eine Investitionszulage für Investitionen in der Eisen- und Stahlindustrie (StIndInvZulG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Drittes Gesetz zur Neuordnung des Geldwesens'
+Title: Drittes Gesetz zur Neuordnung des Geldwesens
 layout: default
 slug: umstg
+
 ---
 
 # Drittes Gesetz zur Neuordnung des Geldwesens (UmstG)

@@ -4,6 +4,7 @@ Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft od
   für Agrarerzeugnisse
 layout: default
 slug: agrarabsfdg
+
 ---
 
 # Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über gemeinschaftliche Informations- und Absatzförderungsmaßnahmen für Agrarerzeugnisse (AgrarAbsFDG)

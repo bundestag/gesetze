@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Verminderung der Salmonellenverbreitung durch
-  Schlachtschweine'
+Title: Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine
 layout: default
 slug: schwsalmov
+
 ---
 
 # Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine (SchwSalmoV)

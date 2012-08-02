@@ -3,6 +3,7 @@ Title: Verordnung über die Einreichung von Unterlagen in Verfahren für die Zul
   und Verlängerung der Zulassung von Arzneimitteln
 layout: default
 slug: amg-ev
+
 ---
 
 # Verordnung über die Einreichung von Unterlagen in Verfahren für die Zulassung und Verlängerung der Zulassung von Arzneimitteln (AMG-EV)

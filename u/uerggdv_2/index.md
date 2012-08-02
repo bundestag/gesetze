@@ -5,6 +5,7 @@ Title: Zweite Durchführungsverordnung zum Gesetz über die Ergänzung von Vorsc
   Berliner Altbanken)
 layout: default
 slug: uerggdv_2
+
 ---
 
 # Zweite Durchführungsverordnung zum Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und über die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen (Umstellungsergänzungsgesetz) (Anmeldung von Ansprüchen aus Schuldverschreibungen Berliner Altbanken) (UErgGDV 2)

@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachka
   für Büromanagement/Geprüfte Fachkauffrau für Büromanagement
 layout: default
 slug: fachkb_roprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für Büromanagement (FachkBüroPrV)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Landbeschaffung für Aufgaben der Verteidigung
 layout: default
 slug: lbg
+
 ---
 
 # Gesetz über die Landbeschaffung für Aufgaben der Verteidigung (LBG)

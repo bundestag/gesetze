@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tierschutzgesetz'
+Title: Tierschutzgesetz
 layout: default
 slug: tierschg
+
 ---
 
 # Tierschutzgesetz (TierSchG)

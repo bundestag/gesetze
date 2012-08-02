@@ -3,6 +3,7 @@ Title: Neuntes Gesetz über die Anpassung der Renten aus den gesetzlichen Renten
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_9
+
 ---
 
 # Neuntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 9)

@@ -5,6 +5,7 @@ Title: Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Badem
   betreffend andere Heilberufe)
 layout: default
 slug: mb-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen betreffend andere Heilberufe) (MB-APrV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Überlassung, Rücknahme und umweltverträgliche Ent
   von Altfahrzeugen
 layout: default
 slug: altautov
+
 ---
 
 # Verordnung über die Überlassung, Rücknahme und umweltverträgliche Entsorgung von Altfahrzeugen (AltautoV)

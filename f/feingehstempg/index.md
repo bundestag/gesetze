@@ -3,6 +3,7 @@ Title: Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur
   des Feingehalts auf goldenen und silbernen Geräten
 layout: default
 slug: feingehstempg
+
 ---
 
 # Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten (FeinGehStempG)

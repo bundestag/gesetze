@@ -2,6 +2,7 @@
 Title: Gesetz über das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank
 layout: default
 slug: zweckvg
+
 ---
 
 # Gesetz über das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank (ZweckVG)

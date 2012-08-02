@@ -2,6 +2,7 @@
 Title: Bekanntmachung zum Warenzeichengesetz über ein amtliches Gewährzeichen
 layout: default
 slug: wzgbek_1939-07-28
+
 ---
 
 # Bekanntmachung zum Warenzeichengesetz über ein amtliches Gewährzeichen (WZGBek 1939-07-28)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Beauftragung des Flughafenkoordinators'
+Title: Verordnung zur Beauftragung des Flughafenkoordinators
 layout: default
 slug: fpkbeauftrv
+
 ---
 
 # Verordnung zur Beauftragung des Flughafenkoordinators (FPKBeauftrV)

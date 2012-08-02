@@ -3,6 +3,7 @@ Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in ausw
   Staaten
 layout: default
 slug: wzauslbek
+
 ---
 
 # Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in auswärtigen Staaten (WZAuslBek)

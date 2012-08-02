@@ -2,6 +2,7 @@
 Title: Gesetz zur Durchsetzung der Gleichberechtigung von Frauen und Männern
 layout: default
 slug: gleichberg_2
+
 ---
 
 # Gesetz zur Durchsetzung der Gleichberechtigung von Frauen und Männern (GleichberG 2)

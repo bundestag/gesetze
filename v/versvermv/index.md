@@ -2,6 +2,7 @@
 Title: Verordnung über die Versicherungsvermittlung und -beratung
 layout: default
 slug: versvermv
+
 ---
 
 # Verordnung über die Versicherungsvermittlung und -beratung (VersVermV)

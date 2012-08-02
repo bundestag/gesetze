@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundes-Apothekerordnung'
+Title: Bundes-Apothekerordnung
 layout: default
 slug: bapo
+
 ---
 
 # Bundes-Apothekerordnung (BApO)

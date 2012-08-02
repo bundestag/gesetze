@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung von Testamenten und Erbverträgen
 layout: default
 slug: testg
+
 ---
 
 # Gesetz über die Errichtung von Testamenten und Erbverträgen (TestG)

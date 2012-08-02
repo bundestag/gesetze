@@ -4,6 +4,7 @@ Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bun
   der Justiz
 layout: default
 slug: bmjgerernano
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten bei den obersten Gerichten des Bundes im Geschäftsbereich des Bundesministeriums der Justiz (BMJGerErnAnO)

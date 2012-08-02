@@ -3,6 +3,7 @@ Title: Verordnung über die Anforderungen und das Verfahren für die Anerkennung
   Konformitätsbewertungsstellen
 layout: default
 slug: banerkv_2002
+
 ---
 
 # Verordnung über die Anforderungen und das Verfahren für die Anerkennung von Konformitätsbewertungsstellen (BAnerkV 2002)

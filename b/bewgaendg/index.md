@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung des Bewertungsgesetzes
 layout: default
 slug: bewg_ndg
+
 ---
 
 # Gesetz zur Änderung des Bewertungsgesetzes (BewGÄndG)

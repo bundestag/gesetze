@@ -2,6 +2,7 @@
 Title: Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung
 layout: default
 slug: _arbvtrg
+
 ---
 
 # Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung (ÄArbVtrG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwal
   des Vereinigten Wirtschaftsgebietes
 layout: default
 slug: wivwauflv
+
 ---
 
 # Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes (WiVwAuflV)

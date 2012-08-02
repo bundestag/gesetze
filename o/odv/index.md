@@ -1,9 +1,10 @@
 [^F1_775826_BJNR234910011]
 Ortsbewegliche-Druckgeräte-Verordnung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: odv
+
 ---
 
 #  (ODV)

@@ -5,6 +5,7 @@ Title: Gesetz zum Vertrag vom 21. April 1965 zwischen der Bundesrepublik Deutsch
   Deutschland und Australien
 layout: default
 slug: vermrglvtrisr_ausg
+
 ---
 
 # Gesetz zum Vertrag vom 21. April 1965 zwischen der Bundesrepublik Deutschland und dem Australischen Bund über die Aufteilung der von der Regierung des Staates Israel für das deutsche weltliche Vermögen in Israel gezahlten Entschädigung auf Deutschland und Australien (VermRglVtrISR/AUSG)

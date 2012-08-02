@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für d
   von Beamtinnen und Beamten des Bundesministeriums des Innern
 layout: default
 slug: bpr_skldgbmiano_2005
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung von Beamtinnen und Beamten des Bundesministeriums des Innern (BPräsKldgBMIAnO 2005)

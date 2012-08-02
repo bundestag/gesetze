@@ -3,6 +3,7 @@ Title: Dritte Verordnung zur Änderung der Sechsten Verordnung zur Durchführung
   Bundesentschädigungsgesetzes
 layout: default
 slug: begdv6_ndv_3
+
 ---
 
 # Dritte Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV6ÄndV 3)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Beethoven-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1971-08
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Beethoven-Gedenkmünze) (Münz5DMBek 1971-08)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr
 layout: default
 slug: awkzg
+
 ---
 
 # Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr (AWKZG)

@@ -3,6 +3,7 @@ Title: Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln 
   Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs
 layout: default
 slug: tier-lmhv
+
 ---
 
 # Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs (Tier-LMHV)

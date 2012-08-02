@@ -2,6 +2,7 @@
 Title: Gesetz über das Schornsteinfegerwesen
 layout: default
 slug: schfg
+
 ---
 
 # Gesetz über das Schornsteinfegerwesen (SchfG)

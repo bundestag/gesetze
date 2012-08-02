@@ -2,6 +2,7 @@
 Title: Anordnung über die Verwahrung unterirdischer bergbaulicher Anlagen
 layout: default
 slug: verwano
+
 ---
 
 # Anordnung über die Verwahrung unterirdischer bergbaulicher Anlagen (VerwAnO)

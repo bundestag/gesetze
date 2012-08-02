@@ -2,6 +2,7 @@
 Title: Verordnung über die Sicherstellung der Gasversorgung
 layout: default
 slug: gaslastv
+
 ---
 
 # Verordnung über die Sicherstellung der Gasversorgung (GasLastV)

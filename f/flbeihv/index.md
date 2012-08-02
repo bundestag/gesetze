@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltu
   Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen
 layout: default
 slug: flbeihv
+
 ---
 
 # Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen (FlBeihV)

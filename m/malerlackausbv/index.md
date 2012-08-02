@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe
 layout: default
 slug: malerlackausbv
+
 ---
 
 # Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe (MalerLackAusbV)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherstellung der Grundrentenabfindung in der
-  Kriegsopferversorgung'
+Title: Gesetz zur Sicherstellung der Grundrentenabfindung in der Kriegsopferversorgung
 layout: default
 slug: kovrentkapg
+
 ---
 
 # Gesetz zur Sicherstellung der Grundrentenabfindung in der Kriegsopferversorgung (KOVRentKapG)

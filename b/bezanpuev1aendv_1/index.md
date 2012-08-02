@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur Änderung der Ersten Bezügeanpassungs-Übergangsverordnung
 layout: default
 slug: bezanp_v1_ndv_1
+
 ---
 
 # Erste Verordnung zur Änderung der Ersten Bezügeanpassungs-Übergangsverordnung (BezAnpÜV1ÄndV 1)

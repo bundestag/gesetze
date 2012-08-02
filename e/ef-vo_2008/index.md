@@ -2,9 +2,10 @@
 Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen
 Gepäck von Reisenden
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: ef-vo_2008
+
 ---
 
 #  (EF-VO 2008)

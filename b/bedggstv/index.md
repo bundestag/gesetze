@@ -2,6 +2,7 @@
 Title: Bedarfsgegenständeverordnung
 layout: default
 slug: bedggstv
+
 ---
 
 # Bedarfsgegenständeverordnung (BedGgstV)

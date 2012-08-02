@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten i
   des Bundesministeriums für Wirtschaft und Technologie
 layout: default
 slug: bmwiternano
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie (BMWiTErnAnO)

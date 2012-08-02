@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung von Vorschriften des Verschollenheitsrechts
 layout: default
 slug: versch_ndg
+
 ---
 
 # Gesetz zur Änderung von Vorschriften des Verschollenheitsrechts (VerschÄndG)

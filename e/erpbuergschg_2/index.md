@@ -3,6 +3,7 @@ Title: Gesetz zur Ergänzung des Dritten Gesetzes über die Übernahme von Siche
   und Gewährleistungen zur Förderung der deutschen Wirtschaft
 layout: default
 slug: erpb_rgschg_2
+
 ---
 
 # Gesetz zur Ergänzung des Dritten Gesetzes über die Übernahme von Sicherheitsleistungen und Gewährleistungen zur Förderung der deutschen Wirtschaft (ERPBürgschG 2)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Internationaler Fernmeldevertrag (Montreux 1965)'
+Title: Internationaler Fernmeldevertrag (Montreux 1965)
 layout: default
 slug: fmvtr_1965
+
 ---
 
 # Internationaler Fernmeldevertrag (Montreux 1965) (FMVtr 1965)

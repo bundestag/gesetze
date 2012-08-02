@@ -3,6 +3,7 @@ Title: Verordnung zur Abgabe von kaliumiodidhaltigen Arzneimitteln zur Iodblocka
   der Schilddrüse bei radiologischen Ereignissen
 layout: default
 slug: kiv
+
 ---
 
 # Verordnung zur Abgabe von kaliumiodidhaltigen Arzneimitteln zur Iodblockade der Schilddrüse bei radiologischen Ereignissen (KIV)

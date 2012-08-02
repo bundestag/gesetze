@@ -3,6 +3,7 @@ Title: Gesetz zur Verleihung der Rechtsfähigkeit an das Gemeinsame Wattenmeerse
   - Common Wadden Sea Secretariat (CWSS)
 layout: default
 slug: cwssrechtsg
+
 ---
 
 # Gesetz zur Verleihung der Rechtsfähigkeit an das Gemeinsame Wattenmeersekretariat - Common Wadden Sea Secretariat (CWSS) (CWSSRechtsG)

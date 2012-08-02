@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kraftfahrzeugsteuergesetz'
+Title: Kraftfahrzeugsteuergesetz
 layout: default
 slug: kraftstg
+
 ---
 
 # Kraftfahrzeugsteuergesetz (KraftStG)

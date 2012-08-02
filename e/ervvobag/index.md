@@ -2,6 +2,7 @@
 Title: Verordnung über den elektronischen Rechtsverkehr beim  Bundesarbeitsgericht
 layout: default
 slug: ervvobag
+
 ---
 
 # Verordnung über den elektronischen Rechtsverkehr beim  Bundesarbeitsgericht (ERVVOBAG)

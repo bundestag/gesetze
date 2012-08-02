@@ -2,6 +2,7 @@
 Title: Verordnung über Befähigungszeugnisse in der Binnenschiffahrt
 layout: default
 slug: binschpatentv_1998
+
 ---
 
 # Verordnung über Befähigungszeugnisse in der Binnenschiffahrt (BinSchPatentV 1998)

@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen
-  in Costa Rica'
+Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Costa
+  Rica
 layout: default
 slug: wzcribek
+
 ---
 
 # Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Costa Rica (WZCRIBek)

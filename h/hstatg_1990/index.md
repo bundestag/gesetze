@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik für das Hochschulwesen
 layout: default
 slug: hstatg_1990
+
 ---
 
 # Gesetz über die Statistik für das Hochschulwesen (HStatG 1990)

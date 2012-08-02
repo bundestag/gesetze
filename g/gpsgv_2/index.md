@@ -2,9 +2,10 @@
 Zweite Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung
 über die Sicherheit von Spielzeug)
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: gpsgv_2
+
 ---
 
 #  (GPSGV 2)

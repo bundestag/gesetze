@@ -2,6 +2,7 @@
 Title: Gesetz über die Erweiterung des Katastrophenschutzes
 layout: default
 slug: katscherwg
+
 ---
 
 # Gesetz über die Erweiterung des Katastrophenschutzes (KatSchErwG)

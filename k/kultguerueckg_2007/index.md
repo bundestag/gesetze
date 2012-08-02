@@ -6,6 +6,7 @@ Title: Gesetz zur Ausführung des UNESCO-Übereinkommens vom 14. November 1970 �
   Kulturgütern \*)
 layout: default
 slug: kultg_r_ckg_2007
+
 ---
 
 # Gesetz zur Ausführung des UNESCO-Übereinkommens vom 14. November 1970 über Maßnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut und zur Umsetzung der Richtlinie 93/7/EWG des Rates vom 15.März 1993 über die Rückgabe von unrechtmäßig aus dem Hoheitsgebiet eines Mitgliedstaats verbrachten Kulturgütern \*) (KultGüRückG 2007)

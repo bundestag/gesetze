@@ -3,9 +3,10 @@ Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch
 [^F775632_02_BJNR261810005]
 [^F775632_03_BJNR261810005]
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: lfgb
+
 ---
 
 #  (LFGB)

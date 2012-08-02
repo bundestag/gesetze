@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung des Gesetzes über die Erhaltung der Gräber der Opf
   Krieg und Gewaltherrschaft (Gräbergesetz)
 layout: default
 slug: gr_bg_ndg
+
 ---
 
 # Gesetz zur Änderung des Gesetzes über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft (Gräbergesetz) (GräbGÄndG)

@@ -5,6 +5,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   in Angelegenheiten nach dem Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen
 layout: default
 slug: bminuwidano_2002
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten nach dem Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen (BMinUWidAnO 2002)

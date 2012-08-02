@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur Änderung der Vergabeverordnung
 layout: default
 slug: vgv2001_ndv_1
+
 ---
 
 # Erste Verordnung zur Änderung der Vergabeverordnung (VgV2001ÄndV 1)

@@ -4,6 +4,7 @@ Title: Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang d
   der Bundeswasserstraßen)
 layout: default
 slug: wastr_bgvtrgntrag
+
 ---
 
 # Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen) (WaStrÜbgVtrGNtrag)

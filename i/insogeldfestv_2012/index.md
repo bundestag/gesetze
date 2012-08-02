@@ -3,6 +3,7 @@ Title: Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für d
   2012
 layout: default
 slug: insogeldfestv_2012
+
 ---
 
 # Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2012 (InsoGeldFestV 2012)

@@ -3,6 +3,7 @@ Title: Gesetz betreffend das Internationale Übereinkommen über den Heuervertra
   Schiffsleute
 layout: default
 slug: heuervtr_bkg
+
 ---
 
 # Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute (HeuerVtrÜbkG)

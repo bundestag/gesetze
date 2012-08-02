@@ -3,6 +3,7 @@ Title: Gesetz über die Gebühren des Oberprüfungsamtes für die höheren techn
   Verwaltungsbeamten
 layout: default
 slug: opragebg
+
 ---
 
 # Gesetz über die Gebühren des Oberprüfungsamtes für die höheren technischen Verwaltungsbeamten (OPrAGebG)

@@ -3,6 +3,7 @@ Title: Verordnung über die versicherungsmathematische Bestätigung, den Erläut
   und den Angemessenheitsbericht des Verantwortlichen Aktuars
 layout: default
 slug: aktuarv
+
 ---
 
 # Verordnung über die versicherungsmathematische Bestätigung, den Erläuterungsbericht und den Angemessenheitsbericht des Verantwortlichen Aktuars (AktuarV)

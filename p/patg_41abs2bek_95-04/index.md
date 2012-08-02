@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 41 Abs. 2 des Patentgesetzes
 layout: default
 slug: patg_41abs2bek_95-04
+
 ---
 
 # Bekanntmachung zu § 41 Abs. 2 des Patentgesetzes (PatG§41Abs2Bek 95-04)

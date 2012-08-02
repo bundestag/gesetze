@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verwaltungs-Vollstreckungsgesetz'
+Title: Verwaltungs-Vollstreckungsgesetz
 layout: default
 slug: vwvg
+
 ---
 
 # Verwaltungs-Vollstreckungsgesetz (VwVG)

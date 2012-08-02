@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jub
   an Beamte im Geschäftsbereich des Bundesministers der Finanzen
 layout: default
 slug: bmfjubano
+
 ---
 
 # Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministers der Finanzen (BMFJubAnO)

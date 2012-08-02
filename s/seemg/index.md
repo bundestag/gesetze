@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Seemannsgesetz'
+Title: Seemannsgesetz
 layout: default
 slug: seemg
+
 ---
 
 # Seemannsgesetz (SeemG)

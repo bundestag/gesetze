@@ -2,6 +2,7 @@
 Title: Verordnung zum Schutz gegen die Geflügelpest
 layout: default
 slug: geflpestschv
+
 ---
 
 # Verordnung zum Schutz gegen die Geflügelpest (GeflPestSchV)

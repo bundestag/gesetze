@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchsetzung des Fischereirechts der Europäischen Union
 layout: default
 slug: fischrdv_1998
+
 ---
 
 # Verordnung zur Durchsetzung des Fischereirechts der Europäischen Union (FischRDV 1998)

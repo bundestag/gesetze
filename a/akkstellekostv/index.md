@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kostenverordnung der Akkreditierungsstelle'
+Title: Kostenverordnung der Akkreditierungsstelle
 layout: default
 slug: akkstellekostv
+
 ---
 
 # Kostenverordnung der Akkreditierungsstelle (AkkStelleKostV)

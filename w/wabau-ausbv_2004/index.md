@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin
 layout: default
 slug: wabau-ausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin (Wabau-AusbV 2004)

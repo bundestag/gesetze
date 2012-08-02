@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Handzuginstrumentenmacher/zur Handzuginstrumentenmacherin
 layout: default
 slug: hzinstrmmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Handzuginstrumentenmacher/zur Handzuginstrumentenmacherin (HZInstrmMAusbV)

@@ -2,6 +2,7 @@
 Title: Verordnung über Konfitüren und einige ähnliche Erzeugnisse
 layout: default
 slug: konfv_2003
+
 ---
 
 # Verordnung über Konfitüren und einige ähnliche Erzeugnisse (KonfV 2003)

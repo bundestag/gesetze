@@ -2,6 +2,7 @@
 Title: Gesetz über die Sozialversicherung der selbständigen Künstler und Publizisten
 layout: default
 slug: ksvg
+
 ---
 
 # Gesetz über die Sozialversicherung der selbständigen Künstler und Publizisten (KSVG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Auslandskostengesetz'
+Title: Auslandskostengesetz
 layout: default
 slug: akostg
+
 ---
 
 # Auslandskostengesetz (AKostG)

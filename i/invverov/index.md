@@ -2,9 +2,10 @@
 Verordnung zur Konkretisierung der Verhaltensregeln und
 Organisationsregeln nach dem Investmentgesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: invverov
+
 ---
 
 #  (InvVerOV)

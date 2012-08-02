@@ -2,6 +2,7 @@
 Title: Fünfzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 layout: default
 slug: beg_172dv_50
+
 ---
 
 # Fünfzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes (BEG§172DV 50)

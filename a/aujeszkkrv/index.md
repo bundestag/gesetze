@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Aujeszkysche Krankheit'
+Title: Verordnung zum Schutz gegen die Aujeszkysche Krankheit
 layout: default
 slug: aujeszkkrv
+
 ---
 
 # Verordnung zum Schutz gegen die Aujeszkysche Krankheit (AujeszkKrV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Umbenennung und die Anpassung von Zuständigkeiten der Treuhandanstalt
 layout: default
 slug: treuhumbenv
+
 ---
 
 # Verordnung über die Umbenennung und die Anpassung von Zuständigkeiten der Treuhandanstalt (TreuhUmbenV)

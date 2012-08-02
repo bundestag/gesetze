@@ -2,6 +2,7 @@
 Title: Verordnung über den Verkehr mit Essig und Essigessenz
 layout: default
 slug: essigv
+
 ---
 
 # Verordnung über den Verkehr mit Essig und Essigessenz (EssigV)

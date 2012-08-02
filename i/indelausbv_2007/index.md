@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung in den industriellen Elektroberufen
 layout: default
 slug: indelausbv_2007
+
 ---
 
 # Verordnung über die Berufsausbildung in den industriellen Elektroberufen (IndElAusbV 2007)

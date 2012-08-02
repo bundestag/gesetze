@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 25. März 1981 zwischen der Bundesrepublik Deu
   April 1984 zur Durchführung dieses Abkommens
 layout: default
 slug: sozsichabkmarg
+
 ---
 
 # Gesetz zu dem Abkommen vom 25. März 1981 zwischen der Bundesrepublik Deutschland und dem Königreich Marokko über Soziale Sicherheit und zu der Vereinbarung vom 19. April 1984 zur Durchführung dieses Abkommens (SozSichAbkMARG)

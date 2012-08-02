@@ -5,6 +5,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Wide
   einschließlich der  hierzu ergangenen Trennungsgeldverordnung
 layout: default
 slug: rkizustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Robert Koch-Instituts in Angelegenheiten nach dem  Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der  hierzu ergangenen Trennungsgeldverordnung (RKIZustAnO)

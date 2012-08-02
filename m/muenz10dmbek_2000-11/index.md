@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "Albert Gustav Lortzing 1801-1851")
 layout: default
 slug: m_nz10dmbek_2000-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze "Albert Gustav Lortzing 1801-1851") (Münz10DMBek 2000-11)

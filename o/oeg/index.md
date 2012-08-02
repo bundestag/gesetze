@@ -2,6 +2,7 @@
 Title: Gesetz über die Entschädigung für Opfer von Gewalttaten
 layout: default
 slug: oeg
+
 ---
 
 # Gesetz über die Entschädigung für Opfer von Gewalttaten (OEG)

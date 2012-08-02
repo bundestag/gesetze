@@ -1,9 +1,10 @@
 ---
-Title: !!python/unicode 'Rechtsnormen des Tarifvertrages zur Regelung der Mindestlohnes
-  im Dachdeckerhandwerk - Dach-, Wand- und Abdichtungstechnik - im Gebiet der Bundesrepublik
-  Deutschland (TV Mindestlohn) (siehe: TVMindestlohnDachd 6)'
+Title: 'Rechtsnormen des Tarifvertrages zur Regelung der Mindestlohnes im Dachdeckerhandwerk
+  - Dach-, Wand- und Abdichtungstechnik - im Gebiet der Bundesrepublik Deutschland
+  (TV Mindestlohn) (siehe: TVMindestlohnDachd 6)'
 layout: default
 slug: tvmindestlohndachd_6
+
 ---
 
 # Rechtsnormen des Tarifvertrages zur Regelung der Mindestlohnes im Dachdeckerhandwerk - Dach-, Wand- und Abdichtungstechnik - im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) (siehe: TVMindestlohnDachd 6) (TVMindestlohnDachd 6)

@@ -3,6 +3,7 @@ Title: Gesetz über die Aufnahme und Bereitstellung von Krediten zur Belebung de
   und zur Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967
 layout: default
 slug: kredfing_1967
+
 ---
 
 # Gesetz über die Aufnahme und Bereitstellung von Krediten zur Belebung der Investitionstätigkeit und zur Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967 (KredFinG 1967)

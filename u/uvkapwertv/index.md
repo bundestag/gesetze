@@ -3,6 +3,7 @@ Title: Verordnung über die Berechnung des Kapitalwerts bei Abfindung von Leistu
   aus der gesetzlichen Unfallversicherung
 layout: default
 slug: uvkapwertv
+
 ---
 
 # Verordnung über die Berechnung des Kapitalwerts bei Abfindung von Leistungen aus der gesetzlichen Unfallversicherung (UVKapWertV)

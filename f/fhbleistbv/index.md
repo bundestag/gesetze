@@ -3,6 +3,7 @@ Title: Verordnung über Leistungsbezüge und Zulagen an der Fachhochschule des B
   für öffentliche Verwaltung
 layout: default
 slug: fhbleistbv
+
 ---
 
 # Verordnung über Leistungsbezüge und Zulagen an der Fachhochschule des Bundes für öffentliche Verwaltung (FHBLeistBV)

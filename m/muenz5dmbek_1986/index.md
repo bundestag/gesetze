@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze 600jähriges Bestehen der Ruprecht-Karls-Universität Heidelberg)
 layout: default
 slug: m_nz5dmbek_1986
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 600jähriges Bestehen der Ruprecht-Karls-Universität Heidelberg) (Münz5DMBek 1986)

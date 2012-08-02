@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zivilprozessordnung'
+Title: Zivilprozessordnung
 layout: default
 slug: zpo
+
 ---
 
 # Zivilprozessordnung (ZPO)

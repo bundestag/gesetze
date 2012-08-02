@@ -4,6 +4,7 @@ Title: Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlas
   im Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
 layout: default
 slug: bminelvwidklagano
+
 ---
 
 # Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz (BMinELVWidKlagAnO)

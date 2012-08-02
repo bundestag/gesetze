@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Steuerberatungsgesetz'
+Title: Steuerberatungsgesetz
 layout: default
 slug: stberg
+
 ---
 
 # Steuerberatungsgesetz (StBerG)

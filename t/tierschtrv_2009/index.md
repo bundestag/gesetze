@@ -3,9 +3,10 @@ Verordnung zum Schutz von Tieren beim Transport und zur Durchführung
 der Verordnung (EG) Nr. 1/2005 des Rates
 [^f771804_02_BJNR037500009]
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tierschtrv_2009
+
 ---
 
 #  (TierSchTrV 2009)

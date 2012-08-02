@@ -2,6 +2,7 @@
 Title: Wahlordnung für die Sozialversicherung
 layout: default
 slug: svwo_1997
+
 ---
 
 # Wahlordnung für die Sozialversicherung (SVWO 1997)

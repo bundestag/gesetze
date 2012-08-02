@@ -3,6 +3,7 @@ Title: Übereinkommen über die Bestimmung des zuständigen Staates für die Pr�
   in einem Mitgliedstaat der Europäischen Gemeinschaften gestellten Asylantrags
 layout: default
 slug: dubl_bk
+
 ---
 
 # Übereinkommen über die Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat der Europäischen Gemeinschaften gestellten Asylantrags (DublÜbk)

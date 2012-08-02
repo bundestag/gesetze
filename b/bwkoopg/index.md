@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kooperationsgesetz der Bundeswehr'
+Title: Kooperationsgesetz der Bundeswehr
 layout: default
 slug: bwkoopg
+
 ---
 
 # Kooperationsgesetz der Bundeswehr (BwKoopG)

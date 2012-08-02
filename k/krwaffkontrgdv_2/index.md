@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
 layout: default
 slug: krwaffkontrgdv_2
+
 ---
 
 # Zweite Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen (KrWaffKontrGDV 2)

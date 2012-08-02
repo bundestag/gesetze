@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 800 Jahre Deutscher Orden)
 layout: default
 slug: m_nz10dmbek_1991
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 800 Jahre Deutscher Orden) (Münz10DMBek 1991)

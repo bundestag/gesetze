@@ -2,6 +2,7 @@
 Title: Entschädigungsrentengesetz
 layout: default
 slug: entschrg
+
 ---
 
 # Entschädigungsrentengesetz (EntschRG)

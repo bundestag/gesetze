@@ -3,6 +3,7 @@ Title: Verordnung über die technische und organisatorische Umsetzung von Maßna
   zur Überwachung der Telekommunikation
 layout: default
 slug: tk_v_2005
+
 ---
 
 # Verordnung über die technische und organisatorische Umsetzung von Maßnahmen zur Überwachung der Telekommunikation (TKÜV 2005)

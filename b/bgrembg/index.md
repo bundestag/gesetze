@@ -3,6 +3,7 @@ Title: Gesetz über die Berufung und Entsendung von Frauen und Männern in Gremi
   Einflußbereich des Bundes
 layout: default
 slug: bgrembg
+
 ---
 
 # Gesetz über die Berufung und Entsendung von Frauen und Männern in Gremien im Einflußbereich des Bundes (BGremBG)

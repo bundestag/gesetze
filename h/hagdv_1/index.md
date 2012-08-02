@@ -2,6 +2,7 @@
 Title: Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes
 layout: default
 slug: hagdv_1
+
 ---
 
 # Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes (HAGDV 1)

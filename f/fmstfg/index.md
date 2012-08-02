@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung eines Finanzmarktstabilisierungsfonds'
+Title: Gesetz zur Errichtung eines Finanzmarktstabilisierungsfonds
 layout: default
 slug: fmstfg
+
 ---
 
 # Gesetz zur Errichtung eines Finanzmarktstabilisierungsfonds (FMStFG)

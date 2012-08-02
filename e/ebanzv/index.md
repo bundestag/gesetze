@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung der Führung des Unternehmensregisters 
   Einreichung von Dokumenten beim Betreiber des Bundesanzeigers
 layout: default
 slug: ebanzv
+
 ---
 
 # Verordnung über die Übertragung der Führung des Unternehmensregisters und die Einreichung von Dokumenten beim Betreiber des Bundesanzeigers (eBAnzV)

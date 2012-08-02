@@ -2,6 +2,7 @@
 Title: Verordnung über den Heimaturlaub des Auswärtigen Dienstes
 layout: default
 slug: hurlv_2002
+
 ---
 
 # Verordnung über den Heimaturlaub des Auswärtigen Dienstes (HUrlV 2002)

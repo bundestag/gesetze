@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Wehrstrafgesetz
 layout: default
 slug: wstrgeg
+
 ---
 
 # Einführungsgesetz zum Wehrstrafgesetz (WStrGEG)

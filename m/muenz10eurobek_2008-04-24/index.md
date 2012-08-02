@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „125. Geburtstag Franz Kafka“)
 layout: default
 slug: m_nz10eurobek_2008-04-24
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „125. Geburtstag Franz Kafka“) (Münz10EuroBek 2008-04-24)

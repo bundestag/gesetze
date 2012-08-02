@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung des Deutsche-Welle-Gesetzes
 layout: default
 slug: dwg_ndg
+
 ---
 
 # Gesetz zur Änderung des Deutsche-Welle-Gesetzes (DWGÄndG)

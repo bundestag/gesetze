@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre
 layout: default
 slug: parlstg_1974
+
 ---
 
 # Gesetz über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre (ParlStG 1974)

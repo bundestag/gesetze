@@ -3,6 +3,7 @@ Title: Verordnung über die Ausstellung der Apostille nach Artikel 3 des Haager 
   vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
 layout: default
 slug: urkbefrv_1997_haag
+
 ---
 
 # Verordnung über die Ausstellung der Apostille nach Artikel 3 des Haager Übereinkommens vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation (UrkBefrV 1997 Haag)

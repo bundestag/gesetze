@@ -3,6 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Leipzig/Halle
 layout: default
 slug: flul_rmleip_hav
+
 ---
 
 # Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Leipzig/Halle (FluLärmLeip/HaV)

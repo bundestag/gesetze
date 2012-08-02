@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes
 layout: default
 slug: bewg_122abs3dv
+
 ---
 
 # Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes (BewG§122Abs3DV)

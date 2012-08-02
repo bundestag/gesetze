@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Bundesamtes für Naturschutz
 layout: default
 slug: bfnatschg
+
 ---
 
 # Gesetz über die Errichtung eines Bundesamtes für Naturschutz (BfNatSchG)

@@ -2,6 +2,7 @@
 Title: Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
 layout: default
 slug: bvwaaufg_ano_1969
+
 ---
 
 # Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt (BVwAAufgÜAnO 1969)

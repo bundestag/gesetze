@@ -3,6 +3,7 @@ Title: Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften 
   dem Gebiet des Urheberrechts
 layout: default
 slug: pv_g
+
 ---
 
 # Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts (PVÜG)

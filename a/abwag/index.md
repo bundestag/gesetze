@@ -2,6 +2,7 @@
 Title: Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer
 layout: default
 slug: abwag
+
 ---
 
 # Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer (AbwAG)

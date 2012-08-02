@@ -4,6 +4,7 @@ Title: Zweihundertneunzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (
   Altenburg-Nobitz)
 layout: default
 slug: luftvodv_219
+
 ---
 
 # Zweihundertneunzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Altenburg-Nobitz) (LuftVODV 219)

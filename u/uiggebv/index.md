@@ -3,6 +3,7 @@ Title: Verordnung über Kosten für Amtshandlungen der informationspflichtigen S
   beim Vollzug des Umweltinformationsgesetzes
 layout: default
 slug: uiggebv
+
 ---
 
 # Verordnung über Kosten für Amtshandlungen der informationspflichtigen Stellen beim Vollzug des Umweltinformationsgesetzes (UIGGebV)

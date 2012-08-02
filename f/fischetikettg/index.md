@@ -3,6 +3,7 @@ Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft ü
   Etikettierung von Fischen und Fischereierzeugnissen
 layout: default
 slug: fischetikettg
+
 ---
 
 # Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Etikettierung von Fischen und Fischereierzeugnissen (FischEtikettG)

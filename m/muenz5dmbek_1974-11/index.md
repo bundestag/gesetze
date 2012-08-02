@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Kant-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1974-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kant-Gedenkmünze) (Münz5DMBek 1974-11)

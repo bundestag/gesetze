@@ -3,6 +3,7 @@ Title: Verordnung zur Einführung der Verordnung über die Schiffssicherheit in 
   Binnenschifffahrt
 layout: default
 slug: binschuoev_2008
+
 ---
 
 # Verordnung zur Einführung der Verordnung über die Schiffssicherheit in der Binnenschifffahrt (BinSchUOEV 2008)

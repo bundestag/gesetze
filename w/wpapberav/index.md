@@ -2,6 +2,7 @@
 Title: Verordnung über die Aufgaben des Amts für Wertpapierbereinigung
 layout: default
 slug: wpapberav
+
 ---
 
 # Verordnung über die Aufgaben des Amts für Wertpapierbereinigung (WPapBerAV)

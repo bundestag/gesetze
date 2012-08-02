@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Sicherstellung des Seeverkehrs'
+Title: Verordnung zur Sicherstellung des Seeverkehrs
 layout: default
 slug: seeverksiv
+
 ---
 
 # Verordnung zur Sicherstellung des Seeverkehrs (SeeVerkSiV)

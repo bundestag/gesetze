@@ -2,6 +2,7 @@
 Title: Verordnung über den Beschlag von Hufen und Klauen
 layout: default
 slug: hufbeschlv
+
 ---
 
 # Verordnung über den Beschlag von Hufen und Klauen (HufBeschlV)

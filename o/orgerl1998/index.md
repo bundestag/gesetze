@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Organisationserlass des Bundeskanzlers'
+Title: Organisationserlass des Bundeskanzlers
 layout: default
 slug: orgerl1998
+
 ---
 
 # Organisationserlass des Bundeskanzlers (OrgErl1998)

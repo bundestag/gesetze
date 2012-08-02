@@ -2,6 +2,7 @@
 Title: Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder
 layout: default
 slug: bemfv
+
 ---
 
 # Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV)

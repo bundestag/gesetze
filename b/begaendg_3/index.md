@@ -3,6 +3,7 @@ Title: Drittes Gesetz zur Änderung des Bundesergänzungsgesetzes zur Entschädi
   für Opfer der nationalsozialistischen Verfolgung
 layout: default
 slug: beg_ndg_3
+
 ---
 
 # Drittes Gesetz zur Änderung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (BEGÄndG 3)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 
   Mark
 layout: default
 slug: m_nz2dmbek_1973
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark (Münz2DMBek 1973)

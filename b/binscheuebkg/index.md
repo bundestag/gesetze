@@ -2,6 +2,7 @@
 Title: Gesetz zu dem Übereinkommen vom 15. Februar 1966 über die Eichung von Binnenschiffen
 layout: default
 slug: binsche_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 15. Februar 1966 über die Eichung von Binnenschiffen (BinSchEÜbkG)

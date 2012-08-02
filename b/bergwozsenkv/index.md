@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bergarbeiterwohnungsbau-Zinssenkungsverordnung'
+Title: Bergarbeiterwohnungsbau-Zinssenkungsverordnung
 layout: default
 slug: bergwozsenkv
+
 ---
 
 # Bergarbeiterwohnungsbau-Zinssenkungsverordnung (BergWoZSenkV)

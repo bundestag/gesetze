@@ -2,6 +2,7 @@
 Title: Gesetz betreffend die Inhaberpapiere mit Prämien
 layout: default
 slug: inhpapg
+
 ---
 
 # Gesetz betreffend die Inhaberpapiere mit Prämien (InhPapG)

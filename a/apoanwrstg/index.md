@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechtsstellung vorgeprüfter Apothekeranwärter
 layout: default
 slug: apoanwrstg
+
 ---
 
 # Gesetz über die Rechtsstellung vorgeprüfter Apothekeranwärter (ApoAnwRstG)

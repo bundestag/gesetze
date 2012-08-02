@@ -2,6 +2,7 @@
 Title: Gesetz über die Verminderung der Personalstärke der Streitkräfte
 layout: default
 slug: persst_rkeg
+
 ---
 
 # Gesetz über die Verminderung der Personalstärke der Streitkräfte (PersStärkeG)

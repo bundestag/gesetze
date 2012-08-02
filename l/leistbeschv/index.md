@@ -3,6 +3,7 @@ Title: Rechtsverordnung über die Beteiligung sachverständiger Stellen der gewe
   Wirtschaft an dem Verfahren der Erteilung von Leistungsbescheiden
 layout: default
 slug: leistbeschv
+
 ---
 
 # Rechtsverordnung über die Beteiligung sachverständiger Stellen der gewerblichen Wirtschaft an dem Verfahren der Erteilung von Leistungsbescheiden (LeistBeschV)

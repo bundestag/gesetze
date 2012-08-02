@@ -2,6 +2,7 @@
 Title: Verordnung über die Honorare für Architekten- und Ingenieurleistungen
 layout: default
 slug: hoai
+
 ---
 
 # Verordnung über die Honorare für Architekten- und Ingenieurleistungen (HOAI)

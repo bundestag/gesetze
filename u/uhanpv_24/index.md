@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe
-  nach dem Lastenausgleichsgesetz'
+Title: Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe nach dem Lastenausgleichsgesetz
 layout: default
 slug: uhanpv_24
+
 ---
 
 # Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe nach dem Lastenausgleichsgesetz (UhAnpV 24)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Postwesens und der Telekommunikation'
+Title: Gesetz zur Neuordnung des Postwesens und der Telekommunikation
 layout: default
 slug: ptneuog
+
 ---
 
 # Gesetz zur Neuordnung des Postwesens und der Telekommunikation (PTNeuOG)

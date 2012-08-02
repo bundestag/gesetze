@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutz der Teilnehmer am Fernunterricht'
+Title: Gesetz zum Schutz der Teilnehmer am Fernunterricht
 layout: default
 slug: fernusg
+
 ---
 
 # Gesetz zum Schutz der Teilnehmer am Fernunterricht (FernUSG)

@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Diätassistentinnen und Diätassistenten
 layout: default
 slug: di_tass-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Diätassistentinnen und Diätassistenten (DiätAss-APrV)

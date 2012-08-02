@@ -4,6 +4,7 @@ Title: Ausführungsgesetz zu dem Übereinkommen vom 13. Januar 1993 über das Ve
   die Vernichtung solcher Waffen
 layout: default
 slug: cw_ag
+
 ---
 
 # Ausführungsgesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot der Entwicklung, Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die Vernichtung solcher Waffen (CWÜAG)

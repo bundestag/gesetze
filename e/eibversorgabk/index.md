@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Eu
   Investitionsbank über die Übertragung von Versorgungsanwartschaften
 layout: default
 slug: eibversorgabk
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Investitionsbank über die Übertragung von Versorgungsanwartschaften (EIBVersorgAbk)

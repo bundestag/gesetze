@@ -2,6 +2,7 @@
 Title: Verordnung über die Anwendung bienengefährlicher Pflanzenschutzmittel
 layout: default
 slug: bienschv_1992
+
 ---
 
 # Verordnung über die Anwendung bienengefährlicher Pflanzenschutzmittel (BienSchV 1992)

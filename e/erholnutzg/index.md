@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Bereinigung der im Beitrittsgebiet zu Erholungszwecken
-  verliehenen Nutzungsrechte'
+Title: Gesetz zur Bereinigung der im Beitrittsgebiet zu Erholungszwecken verliehenen
+  Nutzungsrechte
 layout: default
 slug: erholnutzg
+
 ---
 
 # Gesetz zur Bereinigung der im Beitrittsgebiet zu Erholungszwecken verliehenen Nutzungsrechte (ErholNutzG)

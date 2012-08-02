@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 2. März 1978 zwischen der Bundesrepublik Deut
   oder schweren Unglücksfällen
 layout: default
 slug: kathilabkluxg
+
 ---
 
 # Gesetz zu dem Abkommen vom 2. März 1978 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen (KatHiLAbkLUXG)

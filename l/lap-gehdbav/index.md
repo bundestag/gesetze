@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen
   Dienst in der Bundesanstalt für Arbeit
 layout: default
 slug: lap-gehdbav
+
 ---
 
 # Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst in der Bundesanstalt für Arbeit (LAP-gehDBAV)

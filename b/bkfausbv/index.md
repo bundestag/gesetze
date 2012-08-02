@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau
 layout: default
 slug: bkfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau (BKfAusbV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Einkommensteuergesetz'
+Title: Einkommensteuergesetz
 layout: default
 slug: estg
+
 ---
 
 # Einkommensteuergesetz (EStG)

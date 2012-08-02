@@ -2,6 +2,7 @@
 Title: Verordnung über die Angemessenheit der Eigenmittelausstattung von Finanzkonglomeraten
 layout: default
 slug: fksolv
+
 ---
 
 # Verordnung über die Angemessenheit der Eigenmittelausstattung von Finanzkonglomeraten (FkSolV)

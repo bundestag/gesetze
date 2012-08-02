@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   in Angelegenheiten nach der Bundesbeihilfeverordnung
 layout: default
 slug: bagbeihzustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesarbeitsgerichts in Angelegenheiten nach der Bundesbeihilfeverordnung (BAGBeihZustAnO)

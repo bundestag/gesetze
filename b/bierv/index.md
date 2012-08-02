@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bierverordnung'
+Title: Bierverordnung
 layout: default
 slug: bierv
+
 ---
 
 # Bierverordnung (BierV)

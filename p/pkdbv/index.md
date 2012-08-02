@@ -3,6 +3,7 @@ Title: Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher
   und Straßenbahnen VVaG
 layout: default
 slug: pkdbv
+
 ---
 
 # Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG (PKDBV)

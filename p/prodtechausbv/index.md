@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Produktionstechnologen/zur
 Produktionstechnologin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: prodtechausbv
+
 ---
 
 #  (ProdTechAusbV)

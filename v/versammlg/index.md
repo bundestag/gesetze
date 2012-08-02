@@ -2,6 +2,7 @@
 Title: Gesetz über Versammlungen und Aufzüge
 layout: default
 slug: versammlg
+
 ---
 
 # Gesetz über Versammlungen und Aufzüge (VersammlG)

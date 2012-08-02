@@ -2,6 +2,7 @@
 Title: Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes
 layout: default
 slug: lag_ndg_14
+
 ---
 
 # Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes (LAGÄndG 14)

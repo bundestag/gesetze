@@ -2,6 +2,7 @@
 Title: Gesetz zur Förderung von Jugendfreiwilligendiensten
 layout: default
 slug: jfdg
+
 ---
 
 # Gesetz zur Förderung von Jugendfreiwilligendiensten (JFDG)

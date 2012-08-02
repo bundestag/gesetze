@@ -2,6 +2,7 @@
 Title: Künstlersozialversicherungs-Entgeltverordnung
 layout: default
 slug: ksventgv
+
 ---
 
 # Künstlersozialversicherungs-Entgeltverordnung (KSVEntgV)

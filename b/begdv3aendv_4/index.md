@@ -3,6 +3,7 @@ Title: Vierte Verordnung zur Änderung der Dritten Verordnung zur Durchführung 
   Bundesentschädigungsgesetzes
 layout: default
 slug: begdv3_ndv_4
+
 ---
 
 # Vierte Verordnung zur Änderung der Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV3ÄndV 4)

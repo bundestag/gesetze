@@ -3,6 +3,7 @@ Title: Gesetz über die Nichtanpassung von Amtsgehalt und Ortszuschlag der Mitgl
   der Bundesregierung und der Parlamentarischen Staatssekretäre
 layout: default
 slug: nichtanpg
+
 ---
 
 # Gesetz über die Nichtanpassung von Amtsgehalt und Ortszuschlag der Mitglieder der Bundesregierung und der Parlamentarischen Staatssekretäre (NichtAnpG)

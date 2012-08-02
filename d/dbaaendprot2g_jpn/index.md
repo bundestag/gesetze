@@ -5,6 +5,7 @@ Title: Gesetz zum Zweiten Protokoll vom 17. Februar 1983 zur Änderung und Ergä
   anderen Steuern
 layout: default
 slug: dba_ndprot2g_jpn
+
 ---
 
 # Gesetz zum Zweiten Protokoll vom 17. Februar 1983 zur Änderung und Ergänzung des Abkommens vom 22. April 1966 zwischen der Bundesrepublik Deutschland und Japan zur Vermeidung der Doppelbesteuerung bei den Steuern von Einkommen und bei einigen anderen Steuern (DBAÄndProt2G JPN)

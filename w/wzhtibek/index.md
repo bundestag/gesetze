@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Haiti
 layout: default
 slug: wzhtibek
+
 ---
 
 # Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Haiti (WZHTIBek)

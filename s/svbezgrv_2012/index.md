@@ -2,6 +2,7 @@
 Title: Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2012
 layout: default
 slug: svbezgrv_2012
+
 ---
 
 # Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2012 (SVBezGrV 2012)

@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstr
   Konstrukteurin
 layout: default
 slug: konstprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstrukteur/Geprüfte Konstrukteurin (KonstPrV)

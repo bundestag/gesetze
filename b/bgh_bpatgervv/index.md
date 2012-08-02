@@ -3,6 +3,7 @@ Title: Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof 
   Bundespatentgericht
 layout: default
 slug: bgh_bpatgervv
+
 ---
 
 # Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht (BGH/BPatGERVV)

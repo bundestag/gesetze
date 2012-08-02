@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Fremdrentengesetz'
+Title: Fremdrentengesetz
 layout: default
 slug: frg
+
 ---
 
 # Fremdrentengesetz (FRG)

@@ -2,6 +2,7 @@
 Title: Bekanntmachung über die Sitzentscheidung der Bundesregierung
 layout: default
 slug: bregsitzbek
+
 ---
 
 # Bekanntmachung über die Sitzentscheidung der Bundesregierung (BRegSitzBek)

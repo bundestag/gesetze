@@ -3,6 +3,7 @@ Title: Gesetz über die Aufhebung des staatlichen Schleppmonopols auf den westde
   Kanälen
 layout: default
 slug: schlmonaufhg
+
 ---
 
 # Gesetz über die Aufhebung des staatlichen Schleppmonopols auf den westdeutschen Kanälen (SchlMonAufhG)

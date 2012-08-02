@@ -3,6 +3,7 @@ Title: Verordnung über beamtenversorgungsrechtliche Übergangsregelungen nach H
   der Einheit Deutschlands
 layout: default
 slug: beamtv_v
+
 ---
 
 # Verordnung über beamtenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands (BeamtVÜV)

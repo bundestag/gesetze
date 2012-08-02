@@ -2,6 +2,7 @@
 Title: Verordnung über die Regelung des militärischen Vorgesetztenverhältnisses
 layout: default
 slug: svorgesv
+
 ---
 
 # Verordnung über die Regelung des militärischen Vorgesetztenverhältnisses (SVorgesV)

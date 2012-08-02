@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Elterngeld und zur Elternzeit'
+Title: Gesetz zum Elterngeld und zur Elternzeit
 layout: default
 slug: beeg
+
 ---
 
 # Gesetz zum Elterngeld und zur Elternzeit (BEEG)

@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Zweiradmechaniker und zur
 Zweiradmechanikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: zweirmausbv_2008
+
 ---
 
 #  (ZweirMAusbV 2008)

@@ -3,6 +3,7 @@ Title: Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterss
   der Landwirte für 2007
 layout: default
 slug: bgl_2007
+
 ---
 
 # Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2007 (BGL 2007)

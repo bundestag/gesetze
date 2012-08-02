@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung des Zugangs zu Informationen des Bundes'
+Title: Gesetz zur Regelung des Zugangs zu Informationen des Bundes
 layout: default
 slug: ifg
+
 ---
 
 # Gesetz zur Regelung des Zugangs zu Informationen des Bundes (IFG)

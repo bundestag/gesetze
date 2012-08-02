@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Allgemeine Waffengesetz-Verordnung'
+Title: Allgemeine Waffengesetz-Verordnung
 layout: default
 slug: awaffv
+
 ---
 
 # Allgemeine Waffengesetz-Verordnung (AWaffV)

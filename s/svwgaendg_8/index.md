@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Weiterentwicklung des Selbstverwaltungsrechts
-  und zur Vereinfachung des Wahlverfahrens'
+Title: Gesetz zur Weiterentwicklung des Selbstverwaltungsrechts und zur Vereinfachung
+  des Wahlverfahrens
 layout: default
 slug: svwg_ndg_8
+
 ---
 
 # Gesetz zur Weiterentwicklung des Selbstverwaltungsrechts und zur Vereinfachung des Wahlverfahrens (SVwGÄndG 8)

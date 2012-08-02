@@ -3,6 +3,7 @@ Title: Verordnung über die Ermittlung der Beleihungswerte von Flugzeugen nach �
   Absatz 1 und 2 des Pfandbriefgesetzes
 layout: default
 slug: flugbelwertv
+
 ---
 
 # Verordnung über die Ermittlung der Beleihungswerte von Flugzeugen nach § 26d Absatz 1 und 2 des Pfandbriefgesetzes (FlugBelWertV)

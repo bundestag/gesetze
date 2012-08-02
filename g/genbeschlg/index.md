@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Beschleunigung von Genehmigungsverfahren'
+Title: Gesetz zur Beschleunigung von Genehmigungsverfahren
 layout: default
 slug: genbeschlg
+
 ---
 
 # Gesetz zur Beschleunigung von Genehmigungsverfahren (GenBeschlG)

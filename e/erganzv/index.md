@@ -3,6 +3,7 @@ Title: Verordnung über die Ergänzungsanzeige von Finanzdienstleistungsinstitut
   Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen
 layout: default
 slug: erganzv
+
 ---
 
 # Verordnung über die Ergänzungsanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen (ErgAnzV)

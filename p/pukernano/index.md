@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Anordnung zur Ernennung und Entlassung der Beamten der Unfallkasse
-  Post und Telekom'
+Title: Anordnung zur Ernennung und Entlassung der Beamten der Unfallkasse Post und
+  Telekom
 layout: default
 slug: pukernano
+
 ---
 
 # Anordnung zur Ernennung und Entlassung der Beamten der Unfallkasse Post und Telekom (PUKErnAnO)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Preisstatistik
 layout: default
 slug: preisstatg
+
 ---
 
 # Gesetz über die Preisstatistik (PreisStatG)

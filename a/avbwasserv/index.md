@@ -2,6 +2,7 @@
 Title: Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser
 layout: default
 slug: avbwasserv
+
 ---
 
 # Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser (AVBWasserV)

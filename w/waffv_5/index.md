@@ -2,6 +2,7 @@
 Title: Fünfte Verordnung zum Waffengesetz
 layout: default
 slug: waffv_5
+
 ---
 
 # Fünfte Verordnung zum Waffengesetz (WaffV 5)

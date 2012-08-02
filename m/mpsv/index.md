@@ -2,6 +2,7 @@
 Title: Verordnung über die Erfassung, Bewertung und Abwehr von Risiken bei Medizinprodukten
 layout: default
 slug: mpsv
+
 ---
 
 # Verordnung über die Erfassung, Bewertung und Abwehr von Risiken bei Medizinprodukten (MPSV)

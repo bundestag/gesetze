@@ -2,6 +2,7 @@
 Title: Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts
 layout: default
 slug: uergg_2
+
 ---
 
 # Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts (UErgG 2)

@@ -3,6 +3,7 @@ Title: Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich 
   Gebäude- und Wohnungszählung 2011
 layout: default
 slug: zensvorbg_2011
+
 ---
 
 # Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2011 (ZensVorbG 2011)

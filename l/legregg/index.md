@@ -2,6 +2,7 @@
 Title: Gesetz über die Registrierung von Betrieben zur Haltung von Legehennen
 layout: default
 slug: legregg
+
 ---
 
 # Gesetz über die Registrierung von Betrieben zur Haltung von Legehennen (LegRegG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Brennereiordnung (Anlage zur Branntweinmonopolverordnung)'
+Title: Brennereiordnung (Anlage zur Branntweinmonopolverordnung)
 layout: default
 slug: brenno_1998
+
 ---
 
 # Brennereiordnung (Anlage zur Branntweinmonopolverordnung) (BrennO 1998)

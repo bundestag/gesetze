@@ -3,6 +3,7 @@ Title: Verordnung über Ausnahmen von § 56a des Arzneimittelgesetzes zum Schutz
   der Blauzungenkrankheit
 layout: default
 slug: amgblauzausnv
+
 ---
 
 # Verordnung über Ausnahmen von § 56a des Arzneimittelgesetzes zum Schutz vor der Blauzungenkrankheit (AMGBlauzAusnV)

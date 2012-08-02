@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Ahndung nationalsozialistischer Straftaten'
+Title: Gesetz zur Ahndung nationalsozialistischer Straftaten
 layout: default
 slug: nsahndgg_he
+
 ---
 
 # Gesetz zur Ahndung nationalsozialistischer Straftaten (NSAhndgG HE)

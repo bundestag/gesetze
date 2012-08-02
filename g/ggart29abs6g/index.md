@@ -3,6 +3,7 @@ Title: Gesetz über das Verfahren bei Volksentscheid, Volksbegehren und Volksbef
   nach Artikel 29 Abs. 6 des Grundgesetzes
 layout: default
 slug: ggart29abs6g
+
 ---
 
 # Gesetz über das Verfahren bei Volksentscheid, Volksbegehren und Volksbefragung nach Artikel 29 Abs. 6 des Grundgesetzes (GGArt29Abs6G)

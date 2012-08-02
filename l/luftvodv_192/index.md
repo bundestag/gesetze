@@ -4,6 +4,7 @@ Title: Hundertzweiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnun
   Bautzen)
 layout: default
 slug: luftvodv_192
+
 ---
 
 # Hundertzweiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Bautzen) (LuftVODV 192)

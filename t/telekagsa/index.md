@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur
-  Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)'
+Title: Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen
+  der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 layout: default
 slug: telekagsa
+
 ---
 
 # Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft) (TelekAGSa)

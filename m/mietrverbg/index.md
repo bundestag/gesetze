@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Verbesserung des Mietrechts und zur Begrenzung
-  des Mietanstiegs sowie zur Regelung von Ingenieur- und Architektenleistungen'
+Title: Gesetz zur Verbesserung des Mietrechts und zur Begrenzung des Mietanstiegs
+  sowie zur Regelung von Ingenieur- und Architektenleistungen
 layout: default
 slug: mietrverbg
+
 ---
 
 # Gesetz zur Verbesserung des Mietrechts und zur Begrenzung des Mietanstiegs sowie zur Regelung von Ingenieur- und Architektenleistungen (MietRVerbG)

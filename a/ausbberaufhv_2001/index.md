@@ -2,6 +2,7 @@
 Title: Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 layout: default
 slug: ausbberaufhv_2001
+
 ---
 
 # Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen (AusbBerAufhV 2001)

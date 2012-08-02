@@ -2,6 +2,7 @@
 Title: Gesetz über die Beaufsichtigung von Zahlungsdiensten
 layout: default
 slug: zag
+
 ---
 
 # Gesetz über die Beaufsichtigung von Zahlungsdiensten (ZAG)

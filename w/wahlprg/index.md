@@ -2,6 +2,7 @@
 Title: Wahlprüfungsgesetz
 layout: default
 slug: wahlprg
+
 ---
 
 # Wahlprüfungsgesetz (WahlPrG)

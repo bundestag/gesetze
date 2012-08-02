@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wehrdisziplinarordnung'
+Title: Wehrdisziplinarordnung
 layout: default
 slug: wdo_2002
+
 ---
 
 # Wehrdisziplinarordnung (WDO 2002)

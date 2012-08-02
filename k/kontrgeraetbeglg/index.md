@@ -3,6 +3,7 @@ Title: Gesetz 체ber Begleitregelungen zur Einf체hrung des digitalen Kontrollger�
   Kontrolle der Lenk- und Ruhezeiten
 layout: default
 slug: kontrger_tbeglg
+
 ---
 
 # Gesetz 체ber Begleitregelungen zur Einf체hrung des digitalen Kontrollger채ts zur Kontrolle der Lenk- und Ruhezeiten (KontrGer채tBeglG)

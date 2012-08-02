@@ -2,6 +2,7 @@
 Title: Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat
 layout: default
 slug: drittelbg
+
 ---
 
 # Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat (DrittelbG)

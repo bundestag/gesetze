@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesarbei
   und bei dem Bundessozialgericht
 layout: default
 slug: bpr_skldgbag_bsgano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesarbeitsgericht und bei dem Bundessozialgericht (BPräsKldgBAG/BSGAnO)

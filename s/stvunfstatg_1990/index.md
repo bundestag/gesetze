@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik der Straßenverkehrsunfälle
 layout: default
 slug: stvunfstatg_1990
+
 ---
 
 # Gesetz über die Statistik der Straßenverkehrsunfälle (StVUnfStatG 1990)

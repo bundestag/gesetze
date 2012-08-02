@@ -3,6 +3,7 @@ Title: Gesetz zur Ergänzung des Gesetzes über den Ablauf der durch Kriegs- ode
   gehemmten Fristen
 layout: default
 slug: krfrhemmgergg
+
 ---
 
 # Gesetz zur Ergänzung des Gesetzes über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen (KrFrHemmGErgG)

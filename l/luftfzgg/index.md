@@ -2,6 +2,7 @@
 Title: Gesetz über Rechte an Luftfahrzeugen
 layout: default
 slug: luftfzgg
+
 ---
 
 # Gesetz über Rechte an Luftfahrzeugen (LuftFzgG)

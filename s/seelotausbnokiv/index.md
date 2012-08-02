@@ -3,6 +3,7 @@ Title: Verordnung über die lotsenspezifische Grundausbildung zum Seelotsenanwä
   im Seelotsrevier Nord-Ostsee-Kanal I
 layout: default
 slug: seelotausbnokiv
+
 ---
 
 # Verordnung über die lotsenspezifische Grundausbildung zum Seelotsenanwärter im Seelotsrevier Nord-Ostsee-Kanal I (SeelotAusbNOKIV)

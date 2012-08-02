@@ -3,6 +3,7 @@ Title: Gesetz betreffend das Zusatzprotokoll vom 6. September 1989 zu dem Übere
   vom 4. September 1958 über den internationalen Austausch von Auskünften in Personenstandsangelegenheiten
 layout: default
 slug: persstdnamzprotg
+
 ---
 
 # Gesetz betreffend das Zusatzprotokoll vom 6. September 1989 zu dem Übereinkommen vom 4. September 1958 über den internationalen Austausch von Auskünften in Personenstandsangelegenheiten (PersStdNamZProtG)

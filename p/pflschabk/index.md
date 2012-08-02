@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Internationales Pflanzenschutzabkommen'
+Title: Internationales Pflanzenschutzabkommen
 layout: default
 slug: pflschabk
+
 ---
 
 # Internationales Pflanzenschutzabkommen (PflSchAbk)

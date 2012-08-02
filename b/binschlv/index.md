@@ -2,6 +2,7 @@
 Title: Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 layout: default
 slug: binschlv
+
 ---
 
 # Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt (BinSchLV)

@@ -2,6 +2,7 @@
 Title: Energiechartaprotokoll über Energieeffizienz und damit verbundene Umweltaspekte
 layout: default
 slug: echvertrprot
+
 ---
 
 # Energiechartaprotokoll über Energieeffizienz und damit verbundene Umweltaspekte (ECHVertrProt)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes
 layout: default
 slug: vermbdv_1994
+
 ---
 
 # Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes (VermBDV 1994)

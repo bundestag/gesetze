@@ -5,6 +5,7 @@ Title: Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Sch
   Aktiengesellschaften betreffen
 layout: default
 slug: aufsratabkcheg
+
 ---
 
 # Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen (AufsRatAbkCHEG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung der Ermächtigung zum Erlaß von Stromp
   nach dem Bundeswasserstraßengesetz
 layout: default
 slug: wastrgpolvermv
+
 ---
 
 # Verordnung über die Übertragung der Ermächtigung zum Erlaß von Strompolizeiverordnungen nach dem Bundeswasserstraßengesetz (WaStrGPolVErmV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin
 layout: default
 slug: werkstoffausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin (WerkstoffAusbV)

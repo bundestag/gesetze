@@ -3,6 +3,7 @@ Title: Gesetz über den Beitritt der Bundesrepublik Deutschland zu dem Abkommen 
   19. Juni 1948 über die internationale Anerkennung von Rechten an Luftfahrzeugen
 layout: default
 slug: luftfzgabkg
+
 ---
 
 # Gesetz über den Beitritt der Bundesrepublik Deutschland zu dem Abkommen vom 19. Juni 1948 über die internationale Anerkennung von Rechten an Luftfahrzeugen (LuftFzgAbkG)

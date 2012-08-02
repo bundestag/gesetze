@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bienenseuchen-Verordnung'
+Title: Bienenseuchen-Verordnung
 layout: default
 slug: bienseuchv
+
 ---
 
 # Bienenseuchen-Verordnung (BienSeuchV)

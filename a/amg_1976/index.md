@@ -2,6 +2,7 @@
 Title: Gesetz über den Verkehr mit Arzneimitteln
 layout: default
 slug: amg_1976
+
 ---
 
 # Gesetz über den Verkehr mit Arzneimitteln (AMG 1976)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung des Schuldenwesens des Bundes'
+Title: Gesetz zur Regelung des Schuldenwesens des Bundes
 layout: default
 slug: bschuwg
+
 ---
 
 # Gesetz zur Regelung des Schuldenwesens des Bundes (BSchuWG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundespolizeibeamtengesetz'
+Title: Bundespolizeibeamtengesetz
 layout: default
 slug: bpolbg
+
 ---
 
 # Bundespolizeibeamtengesetz (BPolBG)

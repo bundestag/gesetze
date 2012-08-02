@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung im Holz- und Bautenschutzgewerbe
 layout: default
 slug: holzbauschausbv
+
 ---
 
 # Verordnung über die Berufsausbildung im Holz- und Bautenschutzgewerbe (HolzBauSchAusbV)

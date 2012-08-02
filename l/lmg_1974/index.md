@@ -2,6 +2,7 @@
 Title: Vorläufiges Tabakgesetz
 layout: default
 slug: lmg_1974
+
 ---
 
 # Vorläufiges Tabakgesetz (LMG 1974)

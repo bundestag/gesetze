@@ -3,6 +3,7 @@ Title: Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgle
   2012
 layout: default
 slug: finausglg2012dv_1
+
 ---
 
 # Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2012 (FinAusglG2012DV 1)

@@ -2,6 +2,7 @@
 Title: Gesetz über Kreuzungen von Eisenbahnen und Straßen
 layout: default
 slug: ebkrg
+
 ---
 
 # Gesetz über Kreuzungen von Eisenbahnen und Straßen (EBKrG)

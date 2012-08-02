@@ -2,6 +2,7 @@
 Title: Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit
 layout: default
 slug: pflegevg
+
 ---
 
 # Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit (PflegeVG)

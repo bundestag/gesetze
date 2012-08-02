@@ -2,6 +2,7 @@
 Title: Düngegesetz \*)
 layout: default
 slug: d_ngg
+
 ---
 
 # Düngegesetz \*) (DüngG)

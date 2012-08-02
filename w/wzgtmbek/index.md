@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen
-  in Guatemala'
+Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Guatemala
 layout: default
 slug: wzgtmbek
+
 ---
 
 # Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Guatemala (WZGTMBek)

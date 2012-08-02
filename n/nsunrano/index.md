@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Rechtsanordnung zur Beseitigung nationalsozialistischen Unrechts
-  in der Strafrechtspflege'
+Title: Rechtsanordnung zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege
 layout: default
 slug: nsunrano
+
 ---
 
 # Rechtsanordnung zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege (NSUnrAnO)

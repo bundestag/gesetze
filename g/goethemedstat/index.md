@@ -3,6 +3,7 @@ Title: Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts Inter
   e. V. (gestiftet 1954)
 layout: default
 slug: goethemedstat
+
 ---
 
 # Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts Inter Nationes e. V. (gestiftet 1954) (GoetheMedStat)

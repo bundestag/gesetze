@@ -2,6 +2,7 @@
 Title: Gesetz über den Schutz von zugangskontrollierten Diensten und von Zugangskontrolldiensten
 layout: default
 slug: zkdsg
+
 ---
 
 # Gesetz über den Schutz von zugangskontrollierten Diensten und von Zugangskontrolldiensten (ZKDSG)

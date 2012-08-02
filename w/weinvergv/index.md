@@ -2,6 +2,7 @@
 Title: Verordnung über die Gewährung von Vergünstigungen für Wein
 layout: default
 slug: weinvergv
+
 ---
 
 # Verordnung über die Gewährung von Vergünstigungen für Wein (WeinVergV)

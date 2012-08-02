@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Anpassung der landwirtschaftlichen Erzeugung an
-  die Erfordernisse des Marktes'
+Title: Gesetz zur Anpassung der landwirtschaftlichen Erzeugung an die Erfordernisse
+  des Marktes
 layout: default
 slug: marktstrg
+
 ---
 
 # Gesetz zur Anpassung der landwirtschaftlichen Erzeugung an die Erfordernisse des Marktes (MarktStrG)

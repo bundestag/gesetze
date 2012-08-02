@@ -3,6 +3,7 @@ Title: Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorräder
   deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich
 layout: default
 slug: seespbootv
+
 ---
 
 # Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich (SeeSpbootV)

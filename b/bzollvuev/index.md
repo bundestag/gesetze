@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwa
   auf die Eisenbahnen des Bundes
 layout: default
 slug: bzollv_v
+
 ---
 
 # Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwaltung auf die Eisenbahnen des Bundes (BZollVÜV)

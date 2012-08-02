@@ -2,6 +2,7 @@
 Title: Verordnung über den Bau und Betrieb der Straßenbahnen
 layout: default
 slug: strabbo_1987
+
 ---
 
 # Verordnung über den Bau und Betrieb der Straßenbahnen (StrabBO 1987)

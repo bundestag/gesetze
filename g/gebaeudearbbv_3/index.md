@@ -2,6 +2,7 @@
 Title: Dritte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung
 layout: default
 slug: geb_udearbbv_3
+
 ---
 
 # Dritte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung (GebäudeArbbV 3)

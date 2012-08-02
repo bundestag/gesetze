@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 25. April 2005 über den Beitritt der Republik 
   und Rumäniens zur Europäischen Union
 layout: default
 slug: eubeitrvtrbgr_romg
+
 ---
 
 # Gesetz zu dem Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union (EUBeitrVtrBGR/ROMG)

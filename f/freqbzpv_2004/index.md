@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Frequenzbereichszuweisungsplanverordnung'
+Title: Frequenzbereichszuweisungsplanverordnung
 layout: default
 slug: freqbzpv_2004
+
 ---
 
 # Frequenzbereichszuweisungsplanverordnung (FreqBZPV 2004)

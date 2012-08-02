@@ -2,6 +2,7 @@
 Title: Verordnung über Lizenzen für landwirtschaftliche Erzeugnisse
 layout: default
 slug: ewglizv
+
 ---
 
 # Verordnung über Lizenzen für landwirtschaftliche Erzeugnisse (EWGLizV)

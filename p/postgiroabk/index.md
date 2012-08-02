@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postgiroabkommen'
+Title: Postgiroabkommen
 layout: default
 slug: postgiroabk
+
 ---
 
 # Postgiroabkommen (PostgiroAbk)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laborante
   Milchwirtschaftlichen Laborantin
 layout: default
 slug: milchlausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laboranten/zur Milchwirtschaftlichen Laborantin (MilchLAusbV)

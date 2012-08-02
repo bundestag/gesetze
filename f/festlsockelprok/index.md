@@ -3,6 +3,7 @@ Title: Proklamation der Bundesregierung über die Erforschung und Ausbeutung des
   Festlandsockels
 layout: default
 slug: festlsockelprok
+
 ---
 
 # Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen Festlandsockels (FestLSockelProk)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Arbeitsgerichtsgesetz'
+Title: Arbeitsgerichtsgesetz
 layout: default
 slug: arbgg
+
 ---
 
 # Arbeitsgerichtsgesetz (ArbGG)

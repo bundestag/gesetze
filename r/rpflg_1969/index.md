@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Rechtspflegergesetz'
+Title: Rechtspflegergesetz
 layout: default
 slug: rpflg_1969
+
 ---
 
 # Rechtspflegergesetz (RPflG 1969)

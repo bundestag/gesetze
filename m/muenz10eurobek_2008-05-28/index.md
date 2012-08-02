@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „50 Jahre Gorch Fock“)
 layout: default
 slug: m_nz10eurobek_2008-05-28
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „50 Jahre Gorch Fock“) (Münz10EuroBek 2008-05-28)

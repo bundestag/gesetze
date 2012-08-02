@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung des Ersten Wohnungsbaugesetzes und des Zweiten Wohnungsbaugesetzes
 layout: default
 slug: wobaug1_2_ndg
+
 ---
 
 # Gesetz zur Änderung des Ersten Wohnungsbaugesetzes und des Zweiten Wohnungsbaugesetzes (WoBauG1/2ÄndG)

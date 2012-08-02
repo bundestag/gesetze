@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 17. März 1992 zum Schutz und zur Nutzun
   Wasserläufe und internationaler Seen
 layout: default
 slug: wassl_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 17. März 1992 zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen (WassLÜbkG)

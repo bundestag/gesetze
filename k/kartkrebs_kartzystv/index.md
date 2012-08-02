@@ -2,9 +2,10 @@
 Verordnung zur Bekämpfung des Kartoffelkrebses und der
 Kartoffelzystennematoden
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: kartkrebs_kartzystv
+
 ---
 
 #  (KartKrebs/KartZystV)

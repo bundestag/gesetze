@@ -3,6 +3,7 @@ Title: Verordnung über die Maßstäbe für die Ermittlung der optimalen Unterne
   im Steinkohlenbergbau
 layout: default
 slug: kohleugrv
+
 ---
 
 # Verordnung über die Maßstäbe für die Ermittlung der optimalen Unternehmensgrößen im Steinkohlenbergbau (KohleUGrV)

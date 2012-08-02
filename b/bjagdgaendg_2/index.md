@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung des Bundesjagdgesetzes
 layout: default
 slug: bjagdg_ndg_2
+
 ---
 
 # Zweites Gesetz zur Änderung des Bundesjagdgesetzes (BJagdGÄndG 2)

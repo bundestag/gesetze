@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Insolvenzordnung'
+Title: Insolvenzordnung
 layout: default
 slug: inso
+
 ---
 
 # Insolvenzordnung (InsO)

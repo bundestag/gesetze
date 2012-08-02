@@ -6,6 +6,7 @@ Title: Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vo
   auf steuerlichem Gebiete
 layout: default
 slug: grenzgnldag
+
 ---
 
 # Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete (GrenzgNLDAG)

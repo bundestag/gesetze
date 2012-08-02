@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Elektroniker und zur
 Elektronikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: elektronausbv_2008
+
 ---
 
 #  (ElektronAusbV 2008)

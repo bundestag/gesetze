@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Grimmelshausen-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1976-07
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Grimmelshausen-Gedenkmünze) (Münz5DMBek 1976-07)

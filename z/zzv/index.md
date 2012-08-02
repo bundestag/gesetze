@@ -3,6 +3,7 @@ Title: Verordnung über die Zuzahlung bei der Abgabe von Arznei- und Verbandmitt
   in der vertragsärztlichen Versorgung
 layout: default
 slug: zzv
+
 ---
 
 # Verordnung über die Zuzahlung bei der Abgabe von Arznei- und Verbandmitteln in der vertragsärztlichen Versorgung (ZZV)

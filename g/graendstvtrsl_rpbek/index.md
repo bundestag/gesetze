@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertra
   Landesgrenze
 layout: default
 slug: gr_ndstvtrsl_rpbek
+
 ---
 
 # Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Saarland und dem Land Rheinland-Pfalz über eine Änderung der gemeinsamen Landesgrenze (GrÄndStVtrSL/RPBek)

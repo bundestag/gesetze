@@ -3,6 +3,7 @@ Title: Elfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (V
   über Emissionserklärungen)
 layout: default
 slug: bimschv_11_2004
+
 ---
 
 # Elfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionserklärungen) (BImSchV 11 2004)

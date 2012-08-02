@@ -3,6 +3,7 @@ Title: Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhäl
   der Gemeinden
 layout: default
 slug: gvfg
+
 ---
 
 # Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden (GVFG)

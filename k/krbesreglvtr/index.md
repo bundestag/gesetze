@@ -4,6 +4,7 @@ Title: Vertrag zur Regelung aus Krieg und Besatzung entstandener Fragen (in der 
   Beendigung des Besatzungsregimes in der Bundesrepublik Deutschland geänderten Fassung)
 layout: default
 slug: krbesreglvtr
+
 ---
 
 # Vertrag zur Regelung aus Krieg und Besatzung entstandener Fragen (in der gemäß Liste IV zu dem am 23. Oktober 1954 in Paris unterzeichneten Protokoll über die Beendigung des Besatzungsregimes in der Bundesrepublik Deutschland geänderten Fassung) (KrBesReglVtr)

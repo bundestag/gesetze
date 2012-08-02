@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
 layout: default
 slug: jfangausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten (JFAngAusbV)

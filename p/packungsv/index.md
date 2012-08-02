@@ -3,6 +3,7 @@ Title: Verordnung über die Bestimmung und Kennzeichnung von Packungsgrößen f�
   in der vertragsärztlichen Versorgung
 layout: default
 slug: packungsv
+
 ---
 
 # Verordnung über die Bestimmung und Kennzeichnung von Packungsgrößen für Arzneimittel in der vertragsärztlichen Versorgung (PackungsV)

@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und -anwärtern des Bundesversicherungsamts in Prüfungsangelegenheiten
 layout: default
 slug: bvaprzustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Regierungsinspektoranwärterinnen und -anwärtern des Bundesversicherungsamts in Prüfungsangelegenheiten (BVAPrZustAnO)

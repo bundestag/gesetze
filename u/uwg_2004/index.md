@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz gegen den unlauteren Wettbewerb'
+Title: Gesetz gegen den unlauteren Wettbewerb
 layout: default
 slug: uwg_2004
+
 ---
 
 # Gesetz gegen den unlauteren Wettbewerb (UWG 2004)

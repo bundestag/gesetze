@@ -2,6 +2,7 @@
 Title: Gesetz über die Änderung von Familiennamen und Vornamen
 layout: default
 slug: nam_ndg
+
 ---
 
 # Gesetz über die Änderung von Familiennamen und Vornamen (NamÄndG)

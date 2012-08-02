@@ -2,6 +2,7 @@
 Title: Achtzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 layout: default
 slug: binschstro1998abwv_80
+
 ---
 
 # Achtzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung (BinSchStrO1998AbwV 80)

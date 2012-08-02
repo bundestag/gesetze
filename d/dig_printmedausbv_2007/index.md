@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Mediengestalter Digital und  Pr
   Mediengestalterin Digital und Print
 layout: default
 slug: dig_printmedausbv_2007
+
 ---
 
 # Verordnung über die Berufsausbildung zum Mediengestalter Digital und  Print/zur Mediengestalterin Digital und Print (Dig/PrintMedAusbV 2007)

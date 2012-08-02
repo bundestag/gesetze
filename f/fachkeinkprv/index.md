@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachka
   Einkauf und Logistik/Geprüfte Fachkauffrau Einkauf und Logistik
 layout: default
 slug: fachkeinkprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann Einkauf und Logistik/Geprüfte Fachkauffrau Einkauf und Logistik (FachkEinkPrV)

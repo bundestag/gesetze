@@ -3,6 +3,7 @@ Title: Verordnung über die Zulassung von Biozid-Produkten und sonstige chemikal
   Verfahren zu Biozid-Produkten und Biozid-Wirkstoffen
 layout: default
 slug: chembiozidzulv
+
 ---
 
 # Verordnung über die Zulassung von Biozid-Produkten und sonstige chemikalienrechtliche Verfahren zu Biozid-Produkten und Biozid-Wirkstoffen (ChemBiozidZulV)

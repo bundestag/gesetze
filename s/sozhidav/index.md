@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 118 Abs. 1 und 2 des Zwölften Buches Sozialgesetzbuch
 layout: default
 slug: sozhidav
+
 ---
 
 # Verordnung zur Durchführung des § 118 Abs. 1 und 2 des Zwölften Buches Sozialgesetzbuch (SozhiDAV)

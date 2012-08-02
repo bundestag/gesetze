@@ -2,6 +2,7 @@
 Title: Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Kraftfahrzeugservicemechaniker/Kraftfahrzeugservicemechanikerin
 layout: default
 slug: kfzservmecherprobv
+
 ---
 
 # Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Kraftfahrzeugservicemechaniker/Kraftfahrzeugservicemechanikerin (KfzServMechErprobV)

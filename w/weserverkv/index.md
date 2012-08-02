@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Verkehrsregelung auf der Weser'
+Title: Verordnung zur Verkehrsregelung auf der Weser
 layout: default
 slug: weserverkv
+
 ---
 
 # Verordnung zur Verkehrsregelung auf der Weser (WeserVerkV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Rentenanpassungsgesetz 1991'
+Title: Rentenanpassungsgesetz 1991
 layout: default
 slug: rag_1991
+
 ---
 
 # Rentenanpassungsgesetz 1991 (RAG 1991)

@@ -4,6 +4,7 @@ Title: Neunzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Re
   und der Altersgelder in der Altershilfe für Landwirte
 layout: default
 slug: rag_19
+
 ---
 
 # Neunzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte (RAG 19)

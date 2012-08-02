@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums'
+Title: Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 layout: default
 slug: rzv
+
 ---
 
 # Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums (RZV)

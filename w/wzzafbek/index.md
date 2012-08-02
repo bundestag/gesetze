@@ -3,6 +3,7 @@ Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in der Süda
   Union und in Südwestafrika
 layout: default
 slug: wzzafbek
+
 ---
 
 # Bekanntmachung über den Schutz deutscher Warenbezeichnungen in der Südafrikanischen Union und in Südwestafrika (WZZAFBek)

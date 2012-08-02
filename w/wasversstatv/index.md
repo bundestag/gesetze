@@ -3,6 +3,7 @@ Title: Verordnung über die Statistik in der öffentlichen Wasserversorgung und 
   Abwasserwesen
 layout: default
 slug: wasversstatv
+
 ---
 
 # Verordnung über die Statistik in der öffentlichen Wasserversorgung und im öffentlichen Abwasserwesen (WasVersStatV)

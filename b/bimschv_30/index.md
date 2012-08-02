@@ -2,6 +2,7 @@
 Title: Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_30
+
 ---
 
 # Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 30)

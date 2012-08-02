@@ -3,6 +3,7 @@ Title: Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Die
   und Einrichtungen der Flugsicherung beim An- und Abflug
 layout: default
 slug: flusaagv
+
 ---
 
 # Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug (FlusAAGV)

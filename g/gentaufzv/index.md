@@ -2,6 +2,7 @@
 Title: Verordnung über Aufzeichnungen bei gentechnischen Arbeiten und bei Freisetzungen
 layout: default
 slug: gentaufzv
+
 ---
 
 # Verordnung über Aufzeichnungen bei gentechnischen Arbeiten und bei Freisetzungen (GenTAufzV)

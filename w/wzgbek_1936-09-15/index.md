@@ -2,6 +2,7 @@
 Title: Bekanntmachung zum Warenzeichengesetz über amtliche Prüf- und Gewährzeichen
 layout: default
 slug: wzgbek_1936-09-15
+
 ---
 
 # Bekanntmachung zum Warenzeichengesetz über amtliche Prüf- und Gewährzeichen (WZGBek 1936-09-15)

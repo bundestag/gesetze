@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Statistikanpassungsverordnung'
+Title: Statistikanpassungsverordnung
 layout: default
 slug: statav
+
 ---
 
 # Statistikanpassungsverordnung (StatAV)

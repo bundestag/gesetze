@@ -3,6 +3,7 @@ Title: Europäisches Übereinkommen über den Schutz von Tieren beim internation
   Transport
 layout: default
 slug: tierscht_bk
+
 ---
 
 # Europäisches Übereinkommen über den Schutz von Tieren beim internationalen Transport (TierSchTÜbk)

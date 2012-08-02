@@ -3,6 +3,7 @@ Title: Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern
   volkseigenen Industrie als Voraussetzung für die Eintragung in die Handwerksrolle
 layout: default
 slug: meistvoeiganerkv
+
 ---
 
 # Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern der volkseigenen Industrie als Voraussetzung für die Eintragung in die Handwerksrolle (MeistVoEigAnerkV)

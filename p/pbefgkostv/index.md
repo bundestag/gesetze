@@ -3,6 +3,7 @@ Title: Kostenverordnung für Amtshandlungen im entgeltlichen oder geschäftsmä�
   Personenverkehr mit Kraftfahrzeugen
 layout: default
 slug: pbefgkostv
+
 ---
 
 # Kostenverordnung für Amtshandlungen im entgeltlichen oder geschäftsmäßigen Personenverkehr mit Kraftfahrzeugen (PBefGKostV)

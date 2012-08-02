@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Kleist-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1977-08
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kleist-Gedenkmünze) (Münz5DMBek 1977-08)

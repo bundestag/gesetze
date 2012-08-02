@@ -4,6 +4,7 @@ Title: Zweihundertfünfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Fes
   Coburg-Brandensteinsebene)
 layout: default
 slug: luftvodv_205
+
 ---
 
 # Zweihundertfünfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Coburg-Brandensteinsebene) (LuftVODV 205)

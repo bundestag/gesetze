@@ -2,6 +2,7 @@
 Title: Körperschaftsteuer-Durchführungsverordnung
 layout: default
 slug: kstdv_1977
+
 ---
 
 # Körperschaftsteuer-Durchführungsverordnung (KStDV 1977)

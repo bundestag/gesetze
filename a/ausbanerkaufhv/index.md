@@ -2,6 +2,7 @@
 Title: Verordnung über die Aufhebung der staatlichen Anerkennung von Ausbildungsberufen
 layout: default
 slug: ausbanerkaufhv
+
 ---
 
 # Verordnung über die Aufhebung der staatlichen Anerkennung von Ausbildungsberufen (AusbAnerkAufhV)

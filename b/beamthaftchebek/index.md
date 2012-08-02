@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre
   und Soldaten gegenüber den Angehörigen der Schweiz
 layout: default
 slug: beamthaftchebek
+
 ---
 
 # Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber den Angehörigen der Schweiz (BeamtHaftCHEBek)

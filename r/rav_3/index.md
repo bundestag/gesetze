@@ -3,6 +3,7 @@ Title: Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Reche
   in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 layout: default
 slug: rav_3
+
 ---
 
 # Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (RAV 3)

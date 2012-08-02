@@ -2,6 +2,7 @@
 Title: Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter
 layout: default
 slug: ggkostv
+
 ---
 
 # Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter (GGKostV)

@@ -2,6 +2,7 @@
 Title: Gesetz über das Zentralregister und das Erziehungsregister
 layout: default
 slug: bzrg
+
 ---
 
 # Gesetz über das Zentralregister und das Erziehungsregister (BZRG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuz
   dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz
 layout: default
 slug: abbv
+
 ---
 
 # Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz (ABBV)

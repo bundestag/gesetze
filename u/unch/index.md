@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Charta der Vereinten Nationen'
+Title: Charta der Vereinten Nationen
 layout: default
 slug: unch
+
 ---
 
 # Charta der Vereinten Nationen (UNCh)

@@ -4,6 +4,7 @@ Title: Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung
   nach dem Dritten Buch Sozialgesetzbuch
 layout: default
 slug: azav
+
 ---
 
 # Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch (AZAV)

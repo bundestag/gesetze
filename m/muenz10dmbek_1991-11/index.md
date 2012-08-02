@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 200 Jahre Brandenburger Tor)
 layout: default
 slug: m_nz10dmbek_1991-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 200 Jahre Brandenburger Tor) (Münz10DMBek 1991-11)

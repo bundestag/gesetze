@@ -2,6 +2,7 @@
 Title: Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen
 layout: default
 slug: bbhv
+
 ---
 
 # Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen (BBhV)

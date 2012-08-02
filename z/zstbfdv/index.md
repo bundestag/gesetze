@@ -3,6 +3,7 @@ Title: Verordnung über die Mindestanforderungen für die Bildung einer Zentrals
   des Bundesfreiwilligendienstes
 layout: default
 slug: zstbfdv
+
 ---
 
 # Verordnung über die Mindestanforderungen für die Bildung einer Zentralstelle des Bundesfreiwilligendienstes (ZStBFDV)

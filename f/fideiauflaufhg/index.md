@@ -2,6 +2,7 @@
 Title: Gesetz zur Aufhebung von Fideikommiss-Auflösungsrecht
 layout: default
 slug: fideiauflaufhg
+
 ---
 
 # Gesetz zur Aufhebung von Fideikommiss-Auflösungsrecht (FideiAuflAufhG)

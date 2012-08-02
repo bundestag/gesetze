@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation'
+Title: Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation
 layout: default
 slug: ptstiftg
+
 ---
 
 # Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation (PTStiftG)

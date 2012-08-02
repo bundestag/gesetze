@@ -2,6 +2,7 @@
 Title: Betriebsordnung für Luftfahrtgerät
 layout: default
 slug: luftbo
+
 ---
 
 # Betriebsordnung für Luftfahrtgerät (LuftBO)

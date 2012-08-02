@@ -2,6 +2,7 @@
 Title: Fünftes Gesetz zur Förderung der Vermögensbildung der Arbeitnehmer
 layout: default
 slug: vermbg_2
+
 ---
 
 # Fünftes Gesetz zur Förderung der Vermögensbildung der Arbeitnehmer (VermBG 2)

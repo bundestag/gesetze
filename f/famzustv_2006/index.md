@@ -3,6 +3,7 @@ Title: Verordnung zur Konzentration von Zuständigkeiten der Familienkassen im  
   der Bundesagentur für Arbeit
 layout: default
 slug: famzustv_2006
+
 ---
 
 # Verordnung zur Konzentration von Zuständigkeiten der Familienkassen im  Bereich der Bundesagentur für Arbeit (FamZustV 2006)

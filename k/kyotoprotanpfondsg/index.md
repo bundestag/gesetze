@@ -2,6 +2,7 @@
 Title: Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds
 layout: default
 slug: kyotoprotanpfondsg
+
 ---
 
 # Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds (KyotoProtAnpfondsG)

@@ -4,6 +4,7 @@ Title: Gesetz zur Durchführung gemeinschaftlicher Vorschriften über Verbote un
   bestimmten Tierfellen oder tierischen Erzeugnissen
 layout: default
 slug: khfeverbg
+
 ---
 
 # Gesetz zur Durchführung gemeinschaftlicher Vorschriften über Verbote und Beschränkungen hinsichtlich der Einfuhr, der Ausfuhr, des Inverkehrbringens oder des Handels mit bestimmten Tierfellen oder tierischen Erzeugnissen (KHfEVerbG)

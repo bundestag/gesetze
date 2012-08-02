@@ -2,6 +2,7 @@
 Title: Gebührenverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 layout: default
 slug: stbgebv
+
 ---
 
 # Gebührenverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBGebV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und P
   des Gesamtsozialversicherungsbeitrages
 layout: default
 slug: beitrvv
+
 ---
 
 # Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung des Gesamtsozialversicherungsbeitrages (BeitrVV)

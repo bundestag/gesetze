@@ -5,6 +5,7 @@ Title: Verordnung zur Feststellung der Behörden des Bundes mit Aufgaben von ver
   oder verteidigungswichtigen Einrichtungen
 layout: default
 slug: s_fv
+
 ---
 
 # Verordnung zur Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes und zur Feststellung der öffentlichen Stellen des Bundes und der nichtöffentlichen Stellen mit lebens- oder verteidigungswichtigen Einrichtungen (SÜFV)

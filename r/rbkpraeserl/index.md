@@ -3,6 +3,7 @@ Title: Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank 
   von ständigen Vertretern
 layout: default
 slug: rbkpr_serl
+
 ---
 
 # Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern (RBkPräsErl)

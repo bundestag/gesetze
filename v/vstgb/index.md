@@ -2,6 +2,7 @@
 Title: Völkerstrafgesetzbuch
 layout: default
 slug: vstgb
+
 ---
 
 # Völkerstrafgesetzbuch (VStGB)

@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes
 layout: default
 slug: begschlg
+
 ---
 
 # Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes (BEGSchlG)

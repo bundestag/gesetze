@@ -4,6 +4,7 @@ Title: Verordnung über die Benennung von Signataren des Betriebsabkommens der I
   Deutschland
 layout: default
 slug: signbenennv
+
 ---
 
 # Verordnung über die Benennung von Signataren des Betriebsabkommens der Internationalen Organisation für kosmische Fernmeldeverbindungen INTERSPUTNIK für die Bundesrepublik Deutschland (SignBenennV)

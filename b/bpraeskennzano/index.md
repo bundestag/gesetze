@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeug
   Kampffahrzeuge der Bundeswehr
 layout: default
 slug: bpr_skennzano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeuge und Kampffahrzeuge der Bundeswehr (BPräsKennzAnO)

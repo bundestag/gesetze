@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildung und Prüfung für den höheren technische
   in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
 layout: default
 slug: htdbwvaprv
+
 ---
 
 # Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – (HtDBWVAPrV)

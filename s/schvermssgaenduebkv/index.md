@@ -3,6 +3,7 @@ Title: Verordnung zu den Änderungen vom 21. Mai 1965 des Übereinkommens über 
   System der Schiffsvermessung
 layout: default
 slug: schvermssg_nd_bkv
+
 ---
 
 # Verordnung zu den Änderungen vom 21. Mai 1965 des Übereinkommens über ein einheitliches System der Schiffsvermessung (SchVermssgÄndÜbkV)

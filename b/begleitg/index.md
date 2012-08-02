@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Begleitgesetz zum Telekommunikationsgesetz'
+Title: Begleitgesetz zum Telekommunikationsgesetz
 layout: default
 slug: begleitg
+
 ---
 
 # Begleitgesetz zum Telekommunikationsgesetz (BegleitG)

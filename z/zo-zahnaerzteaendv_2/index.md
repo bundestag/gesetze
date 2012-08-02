@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Änderung der Zulassungsordnung für Kassenzahnärzte
 layout: default
 slug: zo-zahn_rzte_ndv_2
+
 ---
 
 # Zweite Verordnung zur Änderung der Zulassungsordnung für Kassenzahnärzte (ZO-ZahnärzteÄndV 2)

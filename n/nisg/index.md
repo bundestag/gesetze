@@ -2,9 +2,10 @@
 Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung
 am Menschen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: nisg
+
 ---
 
 #  (NiSG)

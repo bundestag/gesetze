@@ -2,6 +2,7 @@
 Title: Gesetz über die Eingetragene Lebenspartnerschaft
 layout: default
 slug: lpartg
+
 ---
 
 # Gesetz über die Eingetragene Lebenspartnerschaft (LPartG)

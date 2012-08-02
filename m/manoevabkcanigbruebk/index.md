@@ -5,6 +5,7 @@ Title: Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Ve
   in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung
 layout: default
 slug: man_vabkcanigbr_bk
+
 ---
 
 # Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland zur Außerkraftsetzung des Abkommens vom 3. August 1959 über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung (ManövAbkCANIGBRÜbk)

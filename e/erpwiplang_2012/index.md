@@ -3,6 +3,7 @@ Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermöge
   das Jahr 2012
 layout: default
 slug: erpwiplang_2012
+
 ---
 
 # Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2012 (ERPWiPlanG 2012)

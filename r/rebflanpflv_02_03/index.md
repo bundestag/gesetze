@@ -2,6 +2,7 @@
 Title: Verordnung über die Genehmigung für Neuanpflanzungen von Rebflächen
 layout: default
 slug: rebflanpflv_02_03
+
 ---
 
 # Verordnung über die Genehmigung für Neuanpflanzungen von Rebflächen (RebflAnpflV 02/03)

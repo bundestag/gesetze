@@ -3,6 +3,7 @@ Title: Gesetz über die Gleichberechtigung von Mann und Frau auf dem Gebiet des 
   Rechts
 layout: default
 slug: gleichberg
+
 ---
 
 # Gesetz über die Gleichberechtigung von Mann und Frau auf dem Gebiet des bürgerlichen Rechts (GleichberG)

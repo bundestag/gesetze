@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildung und Prüfung für den höheren vermessung
   Verwaltungsdienst
 layout: default
 slug: vermhdausbv
+
 ---
 
 # Verordnung über die Ausbildung und Prüfung für den höheren vermessungstechnischen Verwaltungsdienst (VermhDAusbV)

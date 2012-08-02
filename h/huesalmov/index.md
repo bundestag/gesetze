@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen
-  beim Haushuhn'
+Title: Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn
 layout: default
 slug: h_salmov
+
 ---
 
 # Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn (HüSalmoV)

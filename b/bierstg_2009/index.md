@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Biersteuergesetz'
+Title: Biersteuergesetz
 layout: default
 slug: bierstg_2009
+
 ---
 
 # Biersteuergesetz (BierStG 2009)

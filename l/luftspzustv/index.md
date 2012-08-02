@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit des Luftfahrt-Bundesamtes für die Ve
   und Ahndung von Ordnungswidrigkeiten im Luftsportwesen
 layout: default
 slug: luftspzustv
+
 ---
 
 # Verordnung über die Zuständigkeit des Luftfahrt-Bundesamtes für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Luftsportwesen (LuftSpZustV)

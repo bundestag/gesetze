@@ -3,6 +3,7 @@ Title: Verordnung über die Erstattung von Aufwendungen für die gesetzliche Ren
   der in Werkstätten beschäftigten Behinderten
 layout: default
 slug: aufwerstv
+
 ---
 
 # Verordnung über die Erstattung von Aufwendungen für die gesetzliche Rentenversicherung der in Werkstätten beschäftigten Behinderten (AufwErstV)

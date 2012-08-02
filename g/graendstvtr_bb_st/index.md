@@ -3,6 +3,7 @@ Title: Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über 
   Änderung der gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtr_bb_st
+
 ---
 
 # Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtr BB/ST)

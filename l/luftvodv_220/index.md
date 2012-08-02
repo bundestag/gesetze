@@ -4,6 +4,7 @@ Title: Zweihundertzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (
   Zürich)
 layout: default
 slug: luftvodv_220
+
 ---
 
 # Zweihundertzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Zürich) (LuftVODV 220)

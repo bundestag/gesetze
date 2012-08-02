@@ -4,6 +4,7 @@ Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildung
   Assistentinnen und Assistenten
 layout: default
 slug: af_gltav
+
 ---
 
 # Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische Assistentinnen und Assistenten (AfögLTAV)

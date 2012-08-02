@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Buchhändler und zur
 Buchhändlerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: buchhdlausbv_2011
+
 ---
 
 #  (BuchhdlAusbV 2011)

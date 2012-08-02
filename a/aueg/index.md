@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung der Arbeitnehmerüberlassung
 layout: default
 slug: a_g
+
 ---
 
 # Gesetz zur Regelung der Arbeitnehmerüberlassung (AÜG)

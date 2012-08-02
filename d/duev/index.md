@@ -3,6 +3,7 @@ Title: Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kult
   und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen
 layout: default
 slug: d_v
+
 ---
 
 # Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen (DüV)

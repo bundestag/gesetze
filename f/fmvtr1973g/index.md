@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober
-  1973'
+Title: Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober 1973
 layout: default
 slug: fmvtr1973g
+
 ---
 
 # Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober 1973 (FMVtr1973G)

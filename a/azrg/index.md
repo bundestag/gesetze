@@ -2,6 +2,7 @@
 Title: Gesetz über das Ausländerzentralregister
 layout: default
 slug: azrg
+
 ---
 
 # Gesetz über das Ausländerzentralregister (AZRG)

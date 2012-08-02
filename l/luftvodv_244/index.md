@@ -4,6 +4,7 @@ Title: Zweihundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Or
   Verkehrsflughafen Magdeburg/Cochstedt)
 layout: default
 slug: luftvodv_244
+
 ---
 
 # Zweihundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Magdeburg/Cochstedt) (LuftVODV 244)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung der Wohnungsvermittlung'
+Title: Gesetz zur Regelung der Wohnungsvermittlung
 layout: default
 slug: wovermrg
+
 ---
 
 # Gesetz zur Regelung der Wohnungsvermittlung (WoVermRG)

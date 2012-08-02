@@ -3,6 +3,7 @@ Title: Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokra
   Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen
 layout: default
 slug: kgug
+
 ---
 
 # Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen (KGUG)

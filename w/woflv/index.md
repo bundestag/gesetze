@@ -2,6 +2,7 @@
 Title: Verordnung zur Berechnung der Wohnfläche
 layout: default
 slug: woflv
+
 ---
 
 # Verordnung zur Berechnung der Wohnfläche (WoFlV)

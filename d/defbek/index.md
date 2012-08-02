@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen d
   Fonds "Deutsche Einheit" in das Schuldbuch des Fonds "Deutsche Einheit"
 layout: default
 slug: defbek
+
 ---
 
 # Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des Fonds "Deutsche Einheit" in das Schuldbuch des Fonds "Deutsche Einheit" (DEFBek)

@@ -2,6 +2,7 @@
 Title: Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_25
+
 ---
 
 # Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 25)

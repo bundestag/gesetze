@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Kaufmann für audiovisuelle Med
   Kauffrau für audiovisuelle Medien
 layout: default
 slug: avmedkfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kaufmann für audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien (AVMedKfAusbV)

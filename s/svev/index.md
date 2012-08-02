@@ -3,6 +3,7 @@ Title: Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwend
   des Arbeitgebers als Arbeitsentgelt
 layout: default
 slug: svev
+
 ---
 
 # Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt (SvEV)

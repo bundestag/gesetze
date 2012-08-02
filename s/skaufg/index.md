@@ -3,6 +3,7 @@ Title: Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorüber
   Aufenthalten in der Bundesrepublik Deutschland
 layout: default
 slug: skaufg
+
 ---
 
 # Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland (SkAufG)

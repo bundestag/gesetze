@@ -5,6 +5,7 @@ Title: Verordnung über die Bestimmung der Behörde, die für die Beglaubigung n
   ist
 layout: default
 slug: urkbefritav
+
 ---
 
 # Verordnung über die Bestimmung der Behörde, die für die Beglaubigung nach Artikel 2 des Vertrages vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über den Verzicht auf die Legalisation von Urkunden zuständig ist (UrkBefrITAV)

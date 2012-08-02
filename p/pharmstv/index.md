@@ -2,6 +2,7 @@
 Title: Verordnung über Stoffe mit pharmakologischer Wirkung
 layout: default
 slug: pharmstv
+
 ---
 
 # Verordnung über Stoffe mit pharmakologischer Wirkung (PharmStV)

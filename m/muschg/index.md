@@ -2,6 +2,7 @@
 Title: Gesetz zum Schutz der erwerbstätigen Mutter
 layout: default
 slug: muschg
+
 ---
 
 # Gesetz zum Schutz der erwerbstätigen Mutter (MuSchG)

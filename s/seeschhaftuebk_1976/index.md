@@ -2,6 +2,7 @@
 Title: Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen
 layout: default
 slug: seeschhaft_bk_1976
+
 ---
 
 # Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen (SeeSchHaftÜbk 1976)

@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Änderung der Verordnung zu § 26 Abs. 4 Nr. 2 des Bundesbesoldungsgesetzes
 layout: default
 slug: bbesg_26abs4nr2v_ndv_2
+
 ---
 
 # Zweite Verordnung zur Änderung der Verordnung zu § 26 Abs. 4 Nr. 2 des Bundesbesoldungsgesetzes (BBesG§26Abs4Nr2VÄndV 2)

@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Indien 
   Sozialversicherung
 layout: default
 slug: svabk_in
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Republik Indien über Sozialversicherung (SVAbk IN)

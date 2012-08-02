@@ -2,6 +2,7 @@
 Title: Kündigungsschutzgesetz
 layout: default
 slug: kschg
+
 ---
 
 # Kündigungsschutzgesetz (KSchG)

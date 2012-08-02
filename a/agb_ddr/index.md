@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Arbeitsgesetzbuch der Deutschen Demokratischen Republik'
+Title: Arbeitsgesetzbuch der Deutschen Demokratischen Republik
 layout: default
 slug: agb_ddr
+
 ---
 
 # Arbeitsgesetzbuch der Deutschen Demokratischen Republik (AGB DDR)

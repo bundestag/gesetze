@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
 layout: default
 slug: baustoffprausbv_2005
+
 ---
 
 # Verordnung über die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin (BauStoffPrAusbV 2005)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung der Bundesknappschaft'
+Title: Gesetz zur Errichtung der Bundesknappschaft
 layout: default
 slug: bkneg
+
 ---
 
 # Gesetz zur Errichtung der Bundesknappschaft (BKnEG)

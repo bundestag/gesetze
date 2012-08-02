@@ -3,6 +3,7 @@ Title: Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten 
   Bundeswehr
 layout: default
 slug: stzv
+
 ---
 
 # Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der Bundeswehr (STzV)

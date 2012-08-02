@@ -1,9 +1,10 @@
 [^f775901_01_BJNR154810996]
 Gesetz über Europäische Betriebsräte
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: ebrg
+
 ---
 
 #  (EBRG)

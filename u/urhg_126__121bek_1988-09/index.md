@@ -3,6 +3,7 @@ Title: Bekanntmachung zu § 126 Abs. 3 Satz 2 in Verbindung mit § 121 Abs. 4 Sa
   des Urheberrechtsgesetzes
 layout: default
 slug: urhg_126__121bek_1988-09
+
 ---
 
 # Bekanntmachung zu § 126 Abs. 3 Satz 2 in Verbindung mit § 121 Abs. 4 Satz 2 des Urheberrechtsgesetzes (UrhG§126/§121Bek 1988-09)

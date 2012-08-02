@@ -3,6 +3,7 @@ Title: Verordnung über die angemessene Eigenmittelausstattung von Instituten, I
   und Finanzholding-Gruppen
 layout: default
 slug: solvv
+
 ---
 
 # Verordnung über die angemessene Eigenmittelausstattung von Instituten, Institutsgruppen und Finanzholding-Gruppen (SolvV)

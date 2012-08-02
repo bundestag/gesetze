@@ -2,6 +2,7 @@
 Title: Verordnung zur Bekämpfung der Reblaus
 layout: default
 slug: reblv
+
 ---
 
 # Verordnung zur Bekämpfung der Reblaus (ReblV)

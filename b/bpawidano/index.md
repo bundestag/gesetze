@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   Informationsamtes der Bundesregierung in Angelegenheiten nach den Beihilfevorschriften
 layout: default
 slug: bpawidano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Presse- und Informationsamtes der Bundesregierung in Angelegenheiten nach den Beihilfevorschriften (BPAWidAnO)

@@ -3,6 +3,7 @@ Title: Übereinkommen über Maßnahmen zum Verbot und zur Verhütung der rechtsw
   Einfuhr, Ausfuhr und Übereignung von Kulturgut
 layout: default
 slug: kg_bk
+
 ---
 
 # Übereinkommen über Maßnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut (KGÜbk)

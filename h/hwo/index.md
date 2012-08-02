@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Ordnung des Handwerks'
+Title: Gesetz zur Ordnung des Handwerks
 layout: default
 slug: hwo
+
 ---
 
 # Gesetz zur Ordnung des Handwerks (HwO)

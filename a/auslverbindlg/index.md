@@ -2,6 +2,7 @@
 Title: Gesetz über Zahlungsverbindlichkeiten gegenüber dem Ausland
 layout: default
 slug: auslverbindlg
+
 ---
 
 # Gesetz über Zahlungsverbindlichkeiten gegenüber dem Ausland (AuslVerbindlG)

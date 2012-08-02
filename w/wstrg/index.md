@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wehrstrafgesetz'
+Title: Wehrstrafgesetz
 layout: default
 slug: wstrg
+
 ---
 
 # Wehrstrafgesetz (WStrG)

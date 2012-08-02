@@ -2,6 +2,7 @@
 Title: Gesetz über die Bundesanstalt für Immobilienaufgaben
 layout: default
 slug: bimag
+
 ---
 
 # Gesetz über die Bundesanstalt für Immobilienaufgaben (BImAG)

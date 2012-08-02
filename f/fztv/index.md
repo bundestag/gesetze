@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteil
   deren Kennzeichnung
 layout: default
 slug: fztv
+
 ---
 
 # Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie deren Kennzeichnung (FzTV)

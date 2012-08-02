@@ -3,6 +3,7 @@ Title: Verordnung über die Mindestanforderungen an die Vereinbarungen über Lei
   der Eingliederung nach dem Zweiten Buch Sozialgesetzbuch
 layout: default
 slug: einglmindv
+
 ---
 
 # Verordnung über die Mindestanforderungen an die Vereinbarungen über Leistungen der Eingliederung nach dem Zweiten Buch Sozialgesetzbuch (EinglMindV)

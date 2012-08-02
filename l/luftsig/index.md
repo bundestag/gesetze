@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Luftsicherheitsgesetz'
+Title: Luftsicherheitsgesetz
 layout: default
 slug: luftsig
+
 ---
 
 # Luftsicherheitsgesetz (LuftSiG)

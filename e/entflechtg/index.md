@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen'
+Title: Gesetz zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen
 layout: default
 slug: entflechtg
+
 ---
 
 # Gesetz zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen (EntflechtG)

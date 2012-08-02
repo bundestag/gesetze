@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Frequenznutzungsbeitragsverordnung'
+Title: Frequenznutzungsbeitragsverordnung
 layout: default
 slug: fbeitrv_2000
+
 ---
 
 # Frequenznutzungsbeitragsverordnung (FBeitrV 2000)

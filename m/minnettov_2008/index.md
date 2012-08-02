@@ -2,6 +2,7 @@
 Title: Verordnung über die Mindestnettobeträge nach dem Altersteilzeitgesetz
 layout: default
 slug: minnettov_2008
+
 ---
 
 # Verordnung über die Mindestnettobeträge nach dem Altersteilzeitgesetz (MinNettoV 2008)

@@ -2,6 +2,7 @@
 Title: Abkommen über die Internationale Finanz-Corporation
 layout: default
 slug: ifcabk
+
 ---
 
 # Abkommen über die Internationale Finanz-Corporation (IFCAbk)

@@ -3,6 +3,7 @@ Title: Verordnung über Maßstäbe und Grundsätze für den Personalbedarf in de
   Psychiatrie
 layout: default
 slug: psych-pv
+
 ---
 
 # Verordnung über Maßstäbe und Grundsätze für den Personalbedarf in der stationären Psychiatrie (Psych-PV)

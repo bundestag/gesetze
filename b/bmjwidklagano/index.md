@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   von Angehörigen des Bundesministeriums der Justiz in Angelegenheiten nach den Beihilfevorschriften
 layout: default
 slug: bmjwidklagano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Angehörigen des Bundesministeriums der Justiz in Angelegenheiten nach den Beihilfevorschriften (BMJWidKlagAnO)

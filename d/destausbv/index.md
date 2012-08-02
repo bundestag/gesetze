@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Destillateur/zur Destillateurin
 layout: default
 slug: destausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Destillateur/zur Destillateurin (DestAusbV)

@@ -3,6 +3,7 @@ Title: Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in 
   Rentenversicherung
 layout: default
 slug: versorgausglanglfaktorbek_2003
+
 ---
 
 # Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung (VersorgAusglAnglFaktorBek 2003)

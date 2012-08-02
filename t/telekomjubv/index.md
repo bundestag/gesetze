@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Jubiläumszuwendungen an Beamtinnen u
   bei der Deutschen Telekom AG
 layout: default
 slug: telekomjubv
+
 ---
 
 # Verordnung über die Gewährung von Jubiläumszuwendungen an Beamtinnen und Beamte bei der Deutschen Telekom AG (TelekomJubV)

@@ -2,6 +2,7 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit
 layout: default
 slug: sozsichabk1985_can
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit (SozSichAbk1985 CAN)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 und 200 Euro (Goldmünze "Übergang zur Währungsunion - Einführung des Euro")
 layout: default
 slug: m_nz100_200eurobek
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 und 200 Euro (Goldmünze "Übergang zur Währungsunion - Einführung des Euro") (Münz100/200EuroBek)

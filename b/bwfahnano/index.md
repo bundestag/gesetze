@@ -2,6 +2,7 @@
 Title: Anordnung über die Stiftung der Truppenfahnen für die Bundeswehr
 layout: default
 slug: bwfahnano
+
 ---
 
 # Anordnung über die Stiftung der Truppenfahnen für die Bundeswehr (BwFahnAnO)

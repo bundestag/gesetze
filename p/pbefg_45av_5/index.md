@@ -3,6 +3,7 @@ Title: Fünfte Verordnung über die durchschnittlichen verkehrsspezifischen Kost
   dem Personenbeförderungsgesetz
 layout: default
 slug: pbefg_45av_5
+
 ---
 
 # Fünfte Verordnung über die durchschnittlichen verkehrsspezifischen Kosten nach dem Personenbeförderungsgesetz (PBefG§45aV 5)

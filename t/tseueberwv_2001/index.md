@@ -3,6 +3,7 @@ Title: Verordnung zur Überwachung transmissibler spongiformer Enzephalopathien 
   zur Durchführung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
 layout: default
 slug: tse_berwv_2001
+
 ---
 
 # Verordnung zur Überwachung transmissibler spongiformer Enzephalopathien und zur Durchführung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001 (TSEÜberwV 2001)

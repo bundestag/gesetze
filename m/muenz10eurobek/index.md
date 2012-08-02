@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "Übergang zur Währungsunion - Einführung des Euro")
 layout: default
 slug: m_nz10eurobek
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "Übergang zur Währungsunion - Einführung des Euro") (Münz10EuroBek)

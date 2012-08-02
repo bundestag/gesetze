@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umweltinformationsgesetz'
+Title: Umweltinformationsgesetz
 layout: default
 slug: uig_2005
+
 ---
 
 # Umweltinformationsgesetz (UIG 2005)

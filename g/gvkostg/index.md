@@ -2,6 +2,7 @@
 Title: Gesetz über Kosten der Gerichtsvollzieher
 layout: default
 slug: gvkostg
+
 ---
 
 # Gesetz über Kosten der Gerichtsvollzieher (GvKostG)

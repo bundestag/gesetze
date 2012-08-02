@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Entwicklungshelfer-Gesetz'
+Title: Entwicklungshelfer-Gesetz
 layout: default
 slug: ehfg
+
 ---
 
 # Entwicklungshelfer-Gesetz (EhfG)

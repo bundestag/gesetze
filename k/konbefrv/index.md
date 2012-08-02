@@ -3,6 +3,7 @@ Title: Verordnung über befreiende Konzernabschlüsse und Konzernlageberichte vo
   mit Sitz in einem Drittstaat
 layout: default
 slug: konbefrv
+
 ---
 
 # Verordnung über befreiende Konzernabschlüsse und Konzernlageberichte von Mutterunternehmen mit Sitz in einem Drittstaat (KonBefrV)

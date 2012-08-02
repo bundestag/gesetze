@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eurocontrol'
+Title: Eurocontrol
 layout: default
 slug: eurocontrolbeschl_94
+
 ---
 
 # Eurocontrol (EUROCONTROLBeschl 94)

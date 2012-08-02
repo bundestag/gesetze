@@ -4,6 +4,7 @@ Title: Verordnung über die Ermittlung der Eigenmittelausstattung von Institutsg
   auf Konzernebene
 layout: default
 slug: kon_v
+
 ---
 
 # Verordnung über die Ermittlung der Eigenmittelausstattung von Institutsgruppen und Finanzholding-Gruppen bei Verwendung von Konzernabschlüssen und Zwischenabschlüssen auf Konzernebene (KonÜV)

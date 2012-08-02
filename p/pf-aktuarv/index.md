@@ -3,6 +3,7 @@ Title: Verordnung über die versicherungsmathematische Bestätigung, den Erläut
   und den Angemessenheitsbericht des Verantwortlichen Aktuars bei Pensionsfonds
 layout: default
 slug: pf-aktuarv
+
 ---
 
 # Verordnung über die versicherungsmathematische Bestätigung, den Erläuterungsbericht und den Angemessenheitsbericht des Verantwortlichen Aktuars bei Pensionsfonds (PF-AktuarV)

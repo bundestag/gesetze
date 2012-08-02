@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik D
   und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze
 layout: default
 slug: grenzvtrpolg
+
 ---
 
 # Gesetz zu dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze (GrenzVtrPOLG)

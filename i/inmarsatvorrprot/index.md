@@ -3,6 +3,7 @@ Title: Protokoll über die Vorrechte und Immunitäten der Internationalen Seefun
   (INMARSAT)
 layout: default
 slug: inmarsatvorrprot
+
 ---
 
 # Protokoll über die Vorrechte und Immunitäten der Internationalen Seefunksatelliten-Organisation (INMARSAT) (INMARSATVorRProt)

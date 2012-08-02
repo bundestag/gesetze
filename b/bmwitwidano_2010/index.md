@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   in Angelegenheiten nach dem Bundesumzugskostengesetz und der Trennungsgeldverordnung
 layout: default
 slug: bmwitwidano_2010
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundeskartellamtes in Angelegenheiten nach dem Bundesumzugskostengesetz und der Trennungsgeldverordnung (BMWiTWidAnO 2010)

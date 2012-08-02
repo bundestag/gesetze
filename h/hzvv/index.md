@@ -3,6 +3,7 @@ Title: Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappsc
   Zusatzversicherung
 layout: default
 slug: hzvv
+
 ---
 
 # Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung (HZvV)

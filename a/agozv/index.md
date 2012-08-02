@@ -3,6 +3,7 @@ Title: Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obs
   Zierpflanzenarten
 layout: default
 slug: agozv
+
 ---
 
 # Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten (AGOZV)

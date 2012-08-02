@@ -2,6 +2,7 @@
 Title: Verordnung über die Anlage des gebundenen Vermögens von Pensionsfonds
 layout: default
 slug: pfkapav
+
 ---
 
 # Verordnung über die Anlage des gebundenen Vermögens von Pensionsfonds (PFKapAV)

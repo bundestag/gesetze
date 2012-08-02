@@ -2,6 +2,7 @@
 Title: Gesetz über genetische Untersuchungen bei Menschen
 layout: default
 slug: gendg
+
 ---
 
 # Gesetz über genetische Untersuchungen bei Menschen (GenDG)

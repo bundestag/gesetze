@@ -4,6 +4,7 @@ Title: Verordnung zur Übertragung der Ermächtigung zum Erlass einer  Kostenver
   nach dem EG-Verbraucherschutzdurchsetzungsgesetz
 layout: default
 slug: vschdger_bv
+
 ---
 
 # Verordnung zur Übertragung der Ermächtigung zum Erlass einer  Kostenverordnung für Amtshandlungen des Bundesamtes für Verbraucherschutz und  Lebensmittelsicherheit nach dem EG-Verbraucherschutzdurchsetzungsgesetz (VSchDGErÜbV)

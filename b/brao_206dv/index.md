@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung
 layout: default
 slug: brao_206dv
+
 ---
 
 # Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung (BRAO§206DV)

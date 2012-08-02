@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen'
+Title: Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen
 layout: default
 slug: wobindg
+
 ---
 
 # Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen (WoBindG)

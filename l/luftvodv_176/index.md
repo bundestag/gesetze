@@ -4,6 +4,7 @@ Title: Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnu
   und vom Flughafen Kiel-Holtenau)
 layout: default
 slug: luftvodv_176
+
 ---
 
 # Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Kiel-Holtenau) (LuftVODV 176)

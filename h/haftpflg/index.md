@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Haftpflichtgesetz'
+Title: Haftpflichtgesetz
 layout: default
 slug: haftpflg
+
 ---
 
 # Haftpflichtgesetz (HaftPflG)

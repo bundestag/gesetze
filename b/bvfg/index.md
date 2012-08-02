@@ -2,6 +2,7 @@
 Title: Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge
 layout: default
 slug: bvfg
+
 ---
 
 # Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge (BVFG)

@@ -3,6 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Bürsten- und Pinselmacher-Handwerk
 layout: default
 slug: b_rstpimstrv
+
 ---
 
 # Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Bürsten- und Pinselmacher-Handwerk (BürstPiMstrV)

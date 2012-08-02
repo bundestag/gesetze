@@ -3,6 +3,7 @@ Title: Erlaß über die Genehmigung von Änderungen der Stiftungsbestimmungen, d
   der Form und der Trageweise des Deutschen Feuerwehr-Ehrenkreuzes
 layout: default
 slug: feuerwehrkr_nderl
+
 ---
 
 # Erlaß über die Genehmigung von Änderungen der Stiftungsbestimmungen, der Verleihungsbedingungen, der Form und der Trageweise des Deutschen Feuerwehr-Ehrenkreuzes (FeuerwEhrKrÄndErl)

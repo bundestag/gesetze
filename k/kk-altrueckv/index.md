@@ -3,6 +3,7 @@ Title: Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen K
   und ihre Verbände
 layout: default
 slug: kk-altr_ckv
+
 ---
 
 # Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Krankenkassen und ihre Verbände (KK-AltRückV)

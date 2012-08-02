@@ -3,6 +3,7 @@ Title: Verordnung über die Versicherungsnummer, die Kontoführung und den Versi
   in der gesetzlichen Rentenversicherung
 layout: default
 slug: vkvv
+
 ---
 
 # Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung (VKVV)

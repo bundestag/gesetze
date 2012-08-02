@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Telekommunikations-Nummerierungsverordnung'
+Title: Telekommunikations-Nummerierungsverordnung
 layout: default
 slug: tnv
+
 ---
 
 # Telekommunikations-Nummerierungsverordnung (TNV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherung von Ersparnissen im Saarland'
+Title: Gesetz zur Sicherung von Ersparnissen im Saarland
 layout: default
 slug: sparsichsaarg
+
 ---
 
 # Gesetz zur Sicherung von Ersparnissen im Saarland (SparSichSaarG)

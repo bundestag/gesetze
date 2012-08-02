@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Schutz von Erfindungen auf internationalen Ausstellungen
 layout: default
 slug: erfschbek_2011-11-10
+
 ---
 
 # Bekanntmachung über den Schutz von Erfindungen auf internationalen Ausstellungen (ErfSchBek 2011-11-10)

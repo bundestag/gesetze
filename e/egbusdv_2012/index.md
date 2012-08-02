@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung von Verordnungen und Abkommen der Europäisc
   Gemeinschaft über den Personenverkehr mit Kraftomnibussen
 layout: default
 slug: egbusdv_2012
+
 ---
 
 # Verordnung zur Durchführung von Verordnungen und Abkommen der Europäischen Gemeinschaft über den Personenverkehr mit Kraftomnibussen (EGBusDV 2012)

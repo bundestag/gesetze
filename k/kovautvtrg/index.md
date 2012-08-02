@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 7. Mai 1963 zwischen der Bundesrepublik Deutsch
   und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 layout: default
 slug: kovautvtrg
+
 ---
 
 # Gesetz zu dem Vertrag vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter (KOVAUTVtrG)

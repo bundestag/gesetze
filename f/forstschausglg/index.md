@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse
-  in der Forstwirtschaft'
+Title: Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der
+  Forstwirtschaft
 layout: default
 slug: forstschausglg
+
 ---
 
 # Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft (ForstSchAusglG)

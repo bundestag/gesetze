@@ -5,6 +5,7 @@ Title: Gesetz zur Durchführung des Übereinkommens vom 28. Mai 1999 zur Vereinh
   nach der Verordnung (EG) Nr. 785/2004
 layout: default
 slug: mont_g
+
 ---
 
 # Gesetz zur Durchführung des Übereinkommens vom 28. Mai 1999 zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr und zur Durchführung der Versicherungspflicht zur Deckung der Haftung für Güterschäden nach der Verordnung (EG) Nr. 785/2004 (MontÜG)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Einführung eines Mutterschaftsurlaubs
 layout: default
 slug: muurlg
+
 ---
 
 # Gesetz zur Einführung eines Mutterschaftsurlaubs (MuUrlG)

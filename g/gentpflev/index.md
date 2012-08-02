@@ -2,9 +2,10 @@
 Verordnung über die gute fachliche Praxis bei der Erzeugung
 gentechnisch veränderter Pflanzen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: gentpflev
+
 ---
 
 #  (GenTPflEV)

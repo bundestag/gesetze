@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz betreffend die Industriekreditbank Aktiengesellschaft'
+Title: Gesetz betreffend die Industriekreditbank Aktiengesellschaft
 layout: default
 slug: indkredbkg
+
 ---
 
 # Gesetz betreffend die Industriekreditbank Aktiengesellschaft (IndKredBkG)

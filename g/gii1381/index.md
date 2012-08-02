@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 19. März 2010 zwischen der Regierung der Bund
   Deutschland und der Regierung von Anguilla über den steuerlichen Informationsaustausch
 layout: default
 slug: gii1381
+
 ---
 
 # Gesetz zu dem Abkommen vom 19. März 2010 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Anguilla über den steuerlichen Informationsaustausch (GII1381)

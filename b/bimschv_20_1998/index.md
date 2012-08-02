@@ -4,6 +4,7 @@ Title: Zwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetz
   Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin)
 layout: default
 slug: bimschv_20_1998
+
 ---
 
 # Zwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin) (BImSchV 20 1998)

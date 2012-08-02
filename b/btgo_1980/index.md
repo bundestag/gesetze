@@ -2,6 +2,7 @@
 Title: Geschäftsordnung des Deutschen Bundestages
 layout: default
 slug: btgo_1980
+
 ---
 
 # Geschäftsordnung des Deutschen Bundestages (BTGO 1980)

@@ -2,6 +2,7 @@
 Title: Verordnung über anzeigepflichtige Tierseuchen
 layout: default
 slug: tierseuchanzv
+
 ---
 
 # Verordnung über anzeigepflichtige Tierseuchen (TierSeuchAnzV)

@@ -3,6 +3,7 @@ Title: Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspfl
   für Netto-Leerverkaufspositionen
 layout: default
 slug: nlposv
+
 ---
 
 # Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten für Netto-Leerverkaufspositionen (NLPosV)

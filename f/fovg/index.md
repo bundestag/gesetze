@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Forstvermehrungsgutgesetz'
+Title: Forstvermehrungsgutgesetz
 layout: default
 slug: fovg
+
 ---
 
 # Forstvermehrungsgutgesetz (FoVG)

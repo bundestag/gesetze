@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung
 layout: default
 slug: eheschlrwirkgg
+
 ---
 
 # Gesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung (EheschlRWirkgG)

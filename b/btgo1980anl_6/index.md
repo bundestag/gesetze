@@ -5,6 +5,7 @@ Title: Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung 
   I 1980, 1237)
 layout: default
 slug: btgo1980anl_6
+
 ---
 
 # Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Abs 3 StPO und § 382 Abs. 3 ZPO sowie bei Ermächtigungen gemäß § 90b Abs. 2, § 194 Abs. 4 StGB (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237) (BTGO1980Anl 6)

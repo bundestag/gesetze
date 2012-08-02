@@ -2,6 +2,7 @@
 Title: Gesetz über die Entschädigung der Mitglieder des Bundestages
 layout: default
 slug: di_teng
+
 ---
 
 # Gesetz über die Entschädigung der Mitglieder des Bundestages (DiätenG)

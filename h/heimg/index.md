@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Heimgesetz'
+Title: Heimgesetz
 layout: default
 slug: heimg
+
 ---
 
 # Heimgesetz (HeimG)

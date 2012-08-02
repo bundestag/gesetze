@@ -5,6 +5,7 @@ Title: Gesetz über das Inverkehrbringen von und den freien Warenverkehr mit Bau
   anderer Rechtsakte der Europäischen Gemeinschaften
 layout: default
 slug: baupg
+
 ---
 
 # Gesetz über das Inverkehrbringen von und den freien Warenverkehr mit Bauprodukten zur Umsetzung der Richtlinie 89/106/EWG des Rates vom 21. Dezember 1988 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Bauprodukte und anderer Rechtsakte der Europäischen Gemeinschaften (BauPG)

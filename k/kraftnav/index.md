@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Regelung des Netzanschlusses von Anlagen zur
-  Erzeugung  von elektrischer Energie'
+Title: Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung  von
+  elektrischer Energie
 layout: default
 slug: kraftnav
+
 ---
 
 # Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung  von elektrischer Energie (KraftNAV)

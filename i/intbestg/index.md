@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 17. Dezember 1997 über die Bekämpfung 
   ausländischer Amtsträger im internationalen Geschäftsverkehr
 layout: default
 slug: intbestg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 17. Dezember 1997 über die Bekämpfung der Bestechung ausländischer Amtsträger im internationalen Geschäftsverkehr (IntBestG)

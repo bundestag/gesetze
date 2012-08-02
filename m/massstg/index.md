@@ -4,6 +4,7 @@ Title: Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die V
   die Gewährung von Bundesergänzungszuweisungen
 layout: default
 slug: ma_stg
+
 ---
 
 # Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzausgleich unter den Ländern sowie für die Gewährung von Bundesergänzungszuweisungen (MaßstG)

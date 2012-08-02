@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch - Verwaltungsverfahren -'
+Title: Sozialgesetzbuch - Verwaltungsverfahren -
 layout: default
 slug: sgb_10_kap1_2
+
 ---
 
 # Sozialgesetzbuch - Verwaltungsverfahren - (SGB 10/Kap1/2)

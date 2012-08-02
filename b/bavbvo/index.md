@@ -3,6 +3,7 @@ Title: Verordnung über die Bescheinigung von Grundlagen beruflicher Handlungsf�
   im Rahmen der Berufsausbildungsvorbereitung
 layout: default
 slug: bavbvo
+
 ---
 
 # Verordnung über die Bescheinigung von Grundlagen beruflicher Handlungsfähigkeit im Rahmen der Berufsausbildungsvorbereitung (BAVBVO)

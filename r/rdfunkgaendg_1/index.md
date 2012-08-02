@@ -3,6 +3,7 @@ Title: Erstes Gesetz zur Änderung des Gesetzes über die Errichtung von Rundfun
   des Bundesrechts
 layout: default
 slug: rdfunkg_ndg_1
+
 ---
 
 # Erstes Gesetz zur Änderung des Gesetzes über die Errichtung von Rundfunkanstalten des Bundesrechts (RdFunkGÄndG 1)

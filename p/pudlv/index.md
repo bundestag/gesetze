@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Post-Universaldienstleistungsverordnung'
+Title: Post-Universaldienstleistungsverordnung
 layout: default
 slug: pudlv
+
 ---
 
 # Post-Universaldienstleistungsverordnung (PUDLV)

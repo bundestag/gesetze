@@ -2,6 +2,7 @@
 Title: Verordnung über die Einrichtung und Führung des Partnerschaftsregisters
 layout: default
 slug: prv
+
 ---
 
 # Verordnung über die Einrichtung und Führung des Partnerschaftsregisters (PRV)

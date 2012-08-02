@@ -4,6 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 13. November 1991 zwischen den Mitglieds
   Verurteilungen
 layout: default
 slug: vollstrastrveg_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 13. November 1991 zwischen den Mitgliedstaaten der Europäischen Gemeinschaften über die Vollstreckung ausländischer strafrechtlicher Verurteilungen (VollstrAStrVEGÜbkG)

@@ -3,6 +3,7 @@ Title: Durchführungs- und Ergänzungsverordnung über die vereinfachte Abwicklu
   Bausparverträgen
 layout: default
 slug: bausparvetrabwv
+
 ---
 
 # Durchführungs- und Ergänzungsverordnung über die vereinfachte Abwicklung von Bausparverträgen (BauSparVetrAbwV)

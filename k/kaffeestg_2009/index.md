@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kaffeesteuergesetz'
+Title: Kaffeesteuergesetz
 layout: default
 slug: kaffeestg_2009
+
 ---
 
 # Kaffeesteuergesetz (KaffeeStG 2009)

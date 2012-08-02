@@ -3,6 +3,7 @@ Title: Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebi
   Wohnungswesens
 layout: default
 slug: wostichprg
+
 ---
 
 # Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiet des Wohnungswesens (WoStichPrG)

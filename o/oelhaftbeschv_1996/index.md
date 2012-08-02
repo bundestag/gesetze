@@ -5,6 +5,7 @@ Title: Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadeng
   und Hydrographie)
 layout: default
 slug: _lhaftbeschv_1996
+
 ---
 
 # Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie) (ÖlHaftBeschV 1996)

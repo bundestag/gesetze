@@ -2,6 +2,7 @@
 Title: Internationales Übereinkommen zur Regelung des Walfangs
 layout: default
 slug: walf_bk
+
 ---
 
 # Internationales Übereinkommen zur Regelung des Walfangs (WalfÜbk)

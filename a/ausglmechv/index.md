@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus'
+Title: Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus
 layout: default
 slug: ausglmechv
+
 ---
 
 # Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus (AusglMechV)

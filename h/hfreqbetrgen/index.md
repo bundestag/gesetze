@@ -2,6 +2,7 @@
 Title: Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
 layout: default
 slug: hfreqbetrgen
+
 ---
 
 # Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten (HfreqBetrGen)

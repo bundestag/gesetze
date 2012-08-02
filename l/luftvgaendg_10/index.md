@@ -2,6 +2,7 @@
 Title: Zehntes Gesetz zur Änderung des Luftverkehrsgesetzes
 layout: default
 slug: luftvg_ndg_10
+
 ---
 
 # Zehntes Gesetz zur Änderung des Luftverkehrsgesetzes (LuftVGÄndG 10)

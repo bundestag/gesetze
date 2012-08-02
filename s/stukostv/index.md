@@ -3,6 +3,7 @@ Title: Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des S
   der ehemaligen Deutschen Demokratischen Republik
 layout: default
 slug: stukostv
+
 ---
 
 # Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (StUKostV)

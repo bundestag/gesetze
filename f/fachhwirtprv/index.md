@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfte Fachhau
   Fachhauswirtschafter
 layout: default
 slug: fachhwirtprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfte Fachhauswirtschafterin/Geprüfter Fachhauswirtschafter (FachHwirtPrV)

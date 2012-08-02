@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Rettung von Unternehmen zur Stabilisierung des
-  Finanzmarktes'
+Title: Gesetz zur Rettung von Unternehmen zur Stabilisierung des Finanzmarktes
 layout: default
 slug: rettungsg
+
 ---
 
 # Gesetz zur Rettung von Unternehmen zur Stabilisierung des Finanzmarktes (RettungsG)

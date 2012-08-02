@@ -4,6 +4,7 @@ Title: Einundzwanzigstes Gesetz über die Anpassung der Renten aus der gesetzlic
   Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte
 layout: default
 slug: rag_21
+
 ---
 
 # Einundzwanzigstes Gesetz über die Anpassung der Renten aus der gesetzlichen Rentenversicherung sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte (RAG 21)

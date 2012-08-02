@@ -4,6 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel übe
   und Handelssachen
 layout: default
 slug: vollstrvtr_isr
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen (VollstrVtr ISR)

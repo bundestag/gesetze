@@ -3,6 +3,7 @@ Title: Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserw
   für Zwecke der Verteidigung
 layout: default
 slug: wassig
+
 ---
 
 # Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft für Zwecke der Verteidigung (WasSiG)

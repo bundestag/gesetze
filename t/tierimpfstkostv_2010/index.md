@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tierimpfstoff-Kostenverordnung'
+Title: Tierimpfstoff-Kostenverordnung
 layout: default
 slug: tierimpfstkostv_2010
+
 ---
 
 # Tierimpfstoff-Kostenverordnung (TierImpfStKostV 2010)

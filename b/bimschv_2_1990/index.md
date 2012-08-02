@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_2_1990
+
 ---
 
 # Zweite Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 2 1990)

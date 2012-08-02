@@ -2,6 +2,7 @@
 Title: Gesetz zur Europäischen Bürgerinitiative
 layout: default
 slug: ebig
+
 ---
 
 # Gesetz zur Europäischen Bürgerinitiative (EBIG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Freigabe von Mitteln aus den Konjunkturausgleichsrü
   der Haushaltsjahre 1969 und 1970
 layout: default
 slug: konjausglrfrv
+
 ---
 
 # Verordnung über die Freigabe von Mitteln aus den Konjunkturausgleichsrücklagen der Haushaltsjahre 1969 und 1970 (KonjAusglRFrV)

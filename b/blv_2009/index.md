@@ -2,6 +2,7 @@
 Title: Verordnung über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten
 layout: default
 slug: blv_2009
+
 ---
 
 # Verordnung über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten (BLV 2009)

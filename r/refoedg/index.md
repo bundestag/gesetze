@@ -2,6 +2,7 @@
 Title: Gesetz zur Reform des öffentlichen Dienstrechts
 layout: default
 slug: ref_dg
+
 ---
 
 # Gesetz zur Reform des öffentlichen Dienstrechts (ReföDG)

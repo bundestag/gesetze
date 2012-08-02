@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung
 layout: default
 slug: bleg
+
 ---
 
 # Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung (BLEG)

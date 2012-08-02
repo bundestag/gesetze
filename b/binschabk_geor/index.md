@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   der Republik Georgien über die Binnenschiffahrt
 layout: default
 slug: binschabk_geor
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt (BinSchAbk GEOR)

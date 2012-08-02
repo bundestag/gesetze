@@ -2,6 +2,7 @@
 Title: Gesetz über die Deutsche Nationalbibliothek
 layout: default
 slug: dnbg
+
 ---
 
 # Gesetz über die Deutsche Nationalbibliothek (DNBG)

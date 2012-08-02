@@ -3,6 +3,7 @@ Title: Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem De
   Reich und Griechenland
 layout: default
 slug: wzgrcbek
+
 ---
 
 # Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen Reich und Griechenland (WZGRCBek)

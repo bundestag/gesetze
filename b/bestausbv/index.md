@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zur Bestattungsfachkraft
 layout: default
 slug: bestausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zur Bestattungsfachkraft (BestAusbV)

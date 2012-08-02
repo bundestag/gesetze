@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutz von Embryonen'
+Title: Gesetz zum Schutz von Embryonen
 layout: default
 slug: eschg
+
 ---
 
 # Gesetz zum Schutz von Embryonen (ESchG)

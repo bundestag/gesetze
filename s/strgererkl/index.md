@@ -2,6 +2,7 @@
 Title: Erklärungen zur Strafgerichtsbarkeit
 layout: default
 slug: strgererkl
+
 ---
 
 # Erklärungen zur Strafgerichtsbarkeit (StrGerErkl)

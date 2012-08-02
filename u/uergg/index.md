@@ -3,6 +3,7 @@ Title: Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und ü
   Ausstattung der Berliner Altbanken mit Ausgleichsforderungen
 layout: default
 slug: uergg
+
 ---
 
 # Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und über die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen (UErgG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Kriminald
   des Bundes
 layout: default
 slug: gkrimdaprv
+
 ---
 
 # Verordnung über die Ausbildung und Prüfung für den gehobenen Kriminaldienst des Bundes (GKrimDAPrV)

@@ -4,6 +4,7 @@ Title: Verordnung über den Absatz von Magermilchpulver aus öffentlicher Lagerh
   Lieferung von Magermilchpulver im Rahmen der Nahrungsmittelhilfe
 layout: default
 slug: mmilchpulvabsv
+
 ---
 
 # Verordnung über den Absatz von Magermilchpulver aus öffentlicher Lagerhaltung zur Denaturierung, zur Verarbeitung zu Mischfutter und zur Ausfuhr sowie über die Lieferung von Magermilchpulver im Rahmen der Nahrungsmittelhilfe (MMilchPulvAbsV)

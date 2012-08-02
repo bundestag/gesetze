@@ -2,6 +2,7 @@
 Title: Verordnung über hygienische Anforderungen beim Halten von Schweinen
 layout: default
 slug: schhalthygv
+
 ---
 
 # Verordnung über hygienische Anforderungen beim Halten von Schweinen (SchHaltHygV)

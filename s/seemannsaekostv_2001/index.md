@@ -2,6 +2,7 @@
 Title: Kostenverordnung für Amtshandlungen der Seemannsämter
 layout: default
 slug: seemanns_kostv_2001
+
 ---
 
 # Kostenverordnung für Amtshandlungen der Seemannsämter (SeemannsÄKostV 2001)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Erhebung der Beiträge zum Restrukturierungsfonds für Kreditinstitute
 layout: default
 slug: rstruktfv
+
 ---
 
 # Verordnung über die Erhebung der Beiträge zum Restrukturierungsfonds für Kreditinstitute (RStruktFV)

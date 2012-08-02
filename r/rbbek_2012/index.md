@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Z
   Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2012
 layout: default
 slug: rbbek_2012
+
 ---
 
 # Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2012 (RBBek 2012)

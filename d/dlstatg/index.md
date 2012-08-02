@@ -2,6 +2,7 @@
 Title: Gesetz über Statistiken im Dienstleistungsbereich
 layout: default
 slug: dlstatg
+
 ---
 
 # Gesetz über Statistiken im Dienstleistungsbereich (DlStatG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes
 layout: default
 slug: lwaltschv
+
 ---
 
 # Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes (LwAltschV)

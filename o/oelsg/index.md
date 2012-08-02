@@ -3,6 +3,7 @@ Title: Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäde
   Seeschiffe
 layout: default
 slug: _lsg
+
 ---
 
 # Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch Seeschiffe (ÖlSG)

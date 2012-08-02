@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes
 layout: default
 slug: aa_g_ndg_2
+
 ---
 
 # Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes (AAÜGÄndG 2)

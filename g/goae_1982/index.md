@@ -2,6 +2,7 @@
 Title: Gebührenordnung für Ärzte
 layout: default
 slug: go__1982
+
 ---
 
 # Gebührenordnung für Ärzte (GOÄ 1982)

@@ -2,6 +2,7 @@
 Title: Besoldungsüberleitungsgesetz
 layout: default
 slug: bes_g
+
 ---
 
 # Besoldungsüberleitungsgesetz (BesÜG)

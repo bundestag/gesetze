@@ -2,6 +2,7 @@
 Title: Gesetz zur Anpassung der Personalstärke der Streitkräfte
 layout: default
 slug: persanpassg
+
 ---
 
 # Gesetz zur Anpassung der Personalstärke der Streitkräfte (PersAnpassG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Regelung des Betriebs von nicht als Luftfahrtgerät zugela
   elektronischen Geräten in Luftfahrzeugen
 layout: default
 slug: luftebv_2008
+
 ---
 
 # Verordnung zur Regelung des Betriebs von nicht als Luftfahrtgerät zugelassenen elektronischen Geräten in Luftfahrzeugen (LuftEBV 2008)

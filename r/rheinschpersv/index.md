@@ -2,6 +2,7 @@
 Title: Verordnung über das Schiffspersonal auf dem Rhein
 layout: default
 slug: rheinschpersv
+
 ---
 
 # Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV)

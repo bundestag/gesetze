@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umsatzsteuergesetz'
+Title: Umsatzsteuergesetz
 layout: default
 slug: ustg_1980
+
 ---
 
 # Umsatzsteuergesetz (UStG 1980)

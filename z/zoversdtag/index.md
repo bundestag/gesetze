@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der 
   Versorgung im Geschäftsbereich der Deutschen Telekom AG
 layout: default
 slug: zoversdtag
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich der Deutschen Telekom AG (ZOVersDTAG)

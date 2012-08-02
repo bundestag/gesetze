@@ -2,6 +2,7 @@
 Title: Gesetz über den Ausbau der Bundesfernstraßen
 layout: default
 slug: fstrausbaug
+
 ---
 
 # Gesetz über den Ausbau der Bundesfernstraßen (FStrAusbauG)

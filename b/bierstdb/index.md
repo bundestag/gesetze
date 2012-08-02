@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Vorläufigen Biergesetzes
 layout: default
 slug: bierstdb
+
 ---
 
 # Verordnung zur Durchführung des Vorläufigen Biergesetzes (BierStDB)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Bundesgrenzschutz
 layout: default
 slug: bgsg
+
 ---
 
 # Gesetz über den Bundesgrenzschutz (BGSG)

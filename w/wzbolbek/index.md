@@ -3,6 +3,7 @@ Title: Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem De
   Reich und Bolivien
 layout: default
 slug: wzbolbek
+
 ---
 
 # Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen Reich und Bolivien (WZBOLBek)

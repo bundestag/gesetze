@@ -2,6 +2,7 @@
 Title: Verordnung über bestimmte alkoholhaltige Getränke
 layout: default
 slug: spiritv
+
 ---
 
 # Verordnung über bestimmte alkoholhaltige Getränke (SpiritV)

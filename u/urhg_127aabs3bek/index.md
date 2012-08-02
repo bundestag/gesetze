@@ -2,6 +2,7 @@
 Title: Bekanntmachung nach § 127a Abs. 3 des Urheberrechtsgesetzes
 layout: default
 slug: urhg_127aabs3bek
+
 ---
 
 # Bekanntmachung nach § 127a Abs. 3 des Urheberrechtsgesetzes (UrhG§127aAbs3Bek)

@@ -2,6 +2,7 @@
 Title: Gesetz über das Apothekenwesen
 layout: default
 slug: apog
+
 ---
 
 # Gesetz über das Apothekenwesen (ApoG)

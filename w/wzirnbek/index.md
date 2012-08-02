@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Persien
 layout: default
 slug: wzirnbek
+
 ---
 
 # Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Persien (WZIRNBek)

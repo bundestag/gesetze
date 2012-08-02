@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Kaufmann im Groß- und  Außenh
   Kauffrau im Groß- und Außenhandel
 layout: default
 slug: grhdlkfmausbv_2006
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kaufmann im Groß- und  Außenhandel/zur Kauffrau im Groß- und Außenhandel (GrHdlKfmAusbV 2006)

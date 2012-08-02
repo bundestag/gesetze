@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Unterzeichnungsprotokoll zum Zusatzabkommen'
+Title: Unterzeichnungsprotokoll zum Zusatzabkommen
 layout: default
 slug: natozabkunterzprot
+
 ---
 
 # Unterzeichnungsprotokoll zum Zusatzabkommen (NATOZAbkUnterzProt)

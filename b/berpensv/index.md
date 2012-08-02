@@ -3,6 +3,7 @@ Title: Verordnung über die Berichterstattung von Pensionsfonds gegenüber der B
   für Finanzdienstleistungsaufsicht
 layout: default
 slug: berpensv
+
 ---
 
 # Verordnung über die Berichterstattung von Pensionsfonds gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht (BerPensV)

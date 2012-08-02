@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postdienstleistungsverordnung'
+Title: Postdienstleistungsverordnung
 layout: default
 slug: pdlv
+
 ---
 
 # Postdienstleistungsverordnung (PDLV)

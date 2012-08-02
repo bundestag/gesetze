@@ -2,6 +2,7 @@
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Molkereifachmann/Molkereifachfrau
 layout: default
 slug: molkmeistprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Molkereifachmann/Molkereifachfrau (MolkMeistPrV)

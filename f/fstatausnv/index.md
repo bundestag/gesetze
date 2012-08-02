@@ -2,6 +2,7 @@
 Title: Verordnung über Ausnahmen bei filmstatistischen Erhebungen
 layout: default
 slug: fstatausnv
+
 ---
 
 # Verordnung über Ausnahmen bei filmstatistischen Erhebungen (FStatAusnV)

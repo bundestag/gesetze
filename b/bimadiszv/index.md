@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Disziplinarbefugnissen auf die Bundesanst
   für Immobilienaufgaben
 layout: default
 slug: bimadiszv
+
 ---
 
 # Verordnung zur Übertragung von Disziplinarbefugnissen auf die Bundesanstalt für Immobilienaufgaben (BImADiszV)

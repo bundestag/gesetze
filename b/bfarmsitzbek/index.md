@@ -3,6 +3,7 @@ Title: Bekanntmachung über den Dienstsitz des Bundesinstituts für Arzneimittel
   Medizinprodukte
 layout: default
 slug: bfarmsitzbek
+
 ---
 
 # Bekanntmachung über den Dienstsitz des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArMSitzBek)

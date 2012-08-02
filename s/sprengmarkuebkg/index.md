@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 1. März 1991 über die Markierung von P
   zum Zweck des Aufspürens
 layout: default
 slug: sprengmark_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 1. März 1991 über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens (SprengMarkÜbkG)

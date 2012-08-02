@@ -3,6 +3,7 @@ Title: Abkommen über die Übergangsbestimmungen des Vertrages über die Gründu
   Europäischen Gemeinschaft für Kohle und Stahl
 layout: default
 slug: egksvtr_abk
+
 ---
 
 # Abkommen über die Übergangsbestimmungen des Vertrages über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl (EGKSVtrÜAbk)

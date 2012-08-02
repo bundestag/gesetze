@@ -3,6 +3,7 @@ Title: Landesverordnung über die Aufhebung von Urteilen der Strafgerichte und d
   Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege
 layout: default
 slug: urtaufhv_ba
+
 ---
 
 # Landesverordnung über die Aufhebung von Urteilen der Strafgerichte und die Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege (UrtAufhV BA)

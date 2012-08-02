@@ -4,6 +4,7 @@ Title: Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Art
   Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen)
 layout: default
 slug: di_tassg_1994
+
 ---
 
 # Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Artikel 1 des Gesetzes über den Beruf der Diätassistentin und des Diätassistenten und zur Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen) (DiätAssG 1994)

@@ -2,6 +2,7 @@
 Title: Proklamation des Bundespräsidenten
 layout: default
 slug: nsopferbpr_sprok
+
 ---
 
 # Proklamation des Bundespräsidenten (NSOpferBPräsProk)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens
 layout: default
 slug: _kokennzv
+
 ---
 
 # Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens (ÖkoKennzV)

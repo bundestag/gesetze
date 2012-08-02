@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Organisationserlass der Bundeskanzlerin'
+Title: Organisationserlass der Bundeskanzlerin
 layout: default
 slug: bkorgerl_2009
+
 ---
 
 # Organisationserlass der Bundeskanzlerin (BKOrgErl 2009)

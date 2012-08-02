@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung des Heimgesetzes
 layout: default
 slug: heimg_ndg_2
+
 ---
 
 # Zweites Gesetz zur Änderung des Heimgesetzes (HeimGÄndG 2)

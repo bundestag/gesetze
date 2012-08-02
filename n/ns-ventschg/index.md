@@ -2,6 +2,7 @@
 Title: NS-Verfolgtenentschädigungsgesetz
 layout: default
 slug: ns-ventschg
+
 ---
 
 # NS-Verfolgtenentschädigungsgesetz (NS-VEntschG)

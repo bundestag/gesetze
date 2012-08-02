@@ -2,6 +2,7 @@
 Title: Gesetz über befriedete Bezirke für Verfassungsorgane des Bundes
 layout: default
 slug: befbezg_2008
+
 ---
 
 # Gesetz über befriedete Bezirke für Verfassungsorgane des Bundes (BefBezG 2008)

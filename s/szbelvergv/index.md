@@ -2,6 +2,7 @@
 Title: Verordnung über die Vergütung für Soldaten mit besonderer zeitlicher Belastung
 layout: default
 slug: szbelvergv
+
 ---
 
 # Verordnung über die Vergütung für Soldaten mit besonderer zeitlicher Belastung (SzBelVergV)

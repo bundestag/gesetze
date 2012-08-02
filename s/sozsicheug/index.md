@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Koordinierung der Systeme der sozialen Sicherheit
-  in Europa'
+Title: Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa
 layout: default
 slug: sozsicheug
+
 ---
 
 # Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa (SozSichEUG)

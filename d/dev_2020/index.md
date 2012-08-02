@@ -2,9 +2,10 @@
 Verordnung über die Erhebung von Daten zur Einbeziehung des
 Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: dev_2020
+
 ---
 
 #  (DEV 2020)

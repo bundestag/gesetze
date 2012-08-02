@@ -3,6 +3,7 @@ Title: Gesetz betreffend den Ausbau der deutschen Wasserstraßen und die Erhebun
   Schiffahrtsabgaben
 layout: default
 slug: wastrabgg
+
 ---
 
 # Gesetz betreffend den Ausbau der deutschen Wasserstraßen und die Erhebung von Schiffahrtsabgaben (WaStrAbgG)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Preisangaben
 layout: default
 slug: preisangg
+
 ---
 
 # Gesetz über die Preisangaben (PreisAngG)

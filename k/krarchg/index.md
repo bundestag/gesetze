@@ -2,6 +2,7 @@
 Title: Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts
 layout: default
 slug: krarchg
+
 ---
 
 # Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts (KrArchG)

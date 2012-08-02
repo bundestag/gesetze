@@ -3,6 +3,7 @@ Title: Erstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenv
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1958
 layout: default
 slug: rag_1
+
 ---
 
 # Erstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1958 (RAG 1)

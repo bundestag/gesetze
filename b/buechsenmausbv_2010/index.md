@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Büchsenmacher und zur
 Büchsenmacherin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: b_chsenmausbv_2010
+
 ---
 
 #  (BüchsenmAusbV 2010)

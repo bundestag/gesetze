@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Glasveredler/zur Glasveredlerin
 layout: default
 slug: glasvausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Glasveredler/zur Glasveredlerin (GlasVAusbV)

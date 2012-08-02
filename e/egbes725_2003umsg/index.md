@@ -5,6 +5,7 @@ Title: Gesetz zur Umsetzung des Beschlusses des Rates (2003/725/JI) vom 2. Oktob
   der Kontrollen an den gemeinsamen Grenzen
 layout: default
 slug: egbes725_2003umsg
+
 ---
 
 # Gesetz zur Umsetzung des Beschlusses des Rates (2003/725/JI) vom 2. Oktober 2003 zur Änderung von Artikel 40 Abs. 1 und 7 des Übereinkommens zur Durchführung des Schengener Übereinkommens vom 14. Juni 1985 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen (EGBes725/2003UmsG)

@@ -2,6 +2,7 @@
 Title: Werkstätten-Mitwirkungsverordnung
 layout: default
 slug: wmvo
+
 ---
 
 # Werkstätten-Mitwirkungsverordnung (WMVO)

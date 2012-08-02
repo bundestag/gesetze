@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von
   in den Weinwirtschaftsjahren 1997/98 bis 1999/2000
 layout: default
 slug: rebflv
+
 ---
 
 # Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98 bis 1999/2000 (RebflV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Liquidität der Institute
 layout: default
 slug: liqv
+
 ---
 
 # Verordnung über die Liquidität der Institute (LiqV)

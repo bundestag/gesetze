@@ -4,6 +4,7 @@ Title: Verordnung über die Übertragung der Ermächtigung nach § 3 Abs. 6 der 
   Rechtsschutzes im Einigungsvertrag
 layout: default
 slug: uwg_einigvtre_bv
+
 ---
 
 # Verordnung über die Übertragung der Ermächtigung nach § 3 Abs. 6 der besonderen Bestimmungen zur Einführung der Rechtsvorschriften auf dem Gebiet des gewerblichen Rechtsschutzes im Einigungsvertrag (UWG/EinigVtrEÜbV)

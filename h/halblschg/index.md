@@ -2,6 +2,7 @@
 Title: Gesetz über den Schutz der Topographien von mikroelektronischen Halbleitererzeugnissen
 layout: default
 slug: halblschg
+
 ---
 
 # Gesetz über den Schutz der Topographien von mikroelektronischen Halbleitererzeugnissen (HalblSchG)

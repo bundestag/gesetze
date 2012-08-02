@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherstellung des Verkehrs'
+Title: Gesetz zur Sicherstellung des Verkehrs
 layout: default
 slug: verksig
+
 ---
 
 # Gesetz zur Sicherstellung des Verkehrs (VerkSiG)

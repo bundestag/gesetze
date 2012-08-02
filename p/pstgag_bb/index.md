@@ -2,6 +2,7 @@
 Title: Brandenburgisches Gesetz zur Ausführung des Personenstandsgesetzes
 layout: default
 slug: pstgag_bb
+
 ---
 
 # Brandenburgisches Gesetz zur Ausführung des Personenstandsgesetzes (PStGAG BB)

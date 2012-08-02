@@ -3,6 +3,7 @@ Title: Gesetz zur Beschränkung des Verbringens oder der Einfuhr gefährlicher H
   in das Inland
 layout: default
 slug: hundverbreinfg
+
 ---
 
 # Gesetz zur Beschränkung des Verbringens oder der Einfuhr gefährlicher Hunde in das Inland (HundVerbrEinfG)

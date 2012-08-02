@@ -3,6 +3,7 @@ Title: Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von E
   über den Anspruch auf Erteilung eines europäischen Patents
 layout: default
 slug: eupatanerkprot
+
 ---
 
 # Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents (EuPatAnerkProt)

@@ -2,6 +2,7 @@
 Title: Achte Verordnung über zwingende Arbeitsbedingungen im Baugewerbe
 layout: default
 slug: bauarbbv_8
+
 ---
 
 # Achte Verordnung über zwingende Arbeitsbedingungen im Baugewerbe (BauArbbV 8)

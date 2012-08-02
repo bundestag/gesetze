@@ -2,6 +2,7 @@
 Title: Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen
 layout: default
 slug: afwog
+
 ---
 
 # Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen (AFWoG)

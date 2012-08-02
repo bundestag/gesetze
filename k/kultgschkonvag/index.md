@@ -3,6 +3,7 @@ Title: Gesetz zur Ausführung der Konvention vom 14. Mai 1954 zum Schutz von Kul
   bei bewaffneten Konflikten
 layout: default
 slug: kultgschkonvag
+
 ---
 
 # Gesetz zur Ausführung der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten (KultgSchKonvAG)

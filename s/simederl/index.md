@@ -2,6 +2,7 @@
 Title: Erlaß über die Stiftung der Silbermedaille für den Behindertensport
 layout: default
 slug: simederl
+
 ---
 
 # Erlaß über die Stiftung der Silbermedaille für den Behindertensport (SiMedErl)

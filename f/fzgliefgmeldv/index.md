@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Fahrzeuglieferungs-Meldepflichtverordnung'
+Title: Fahrzeuglieferungs-Meldepflichtverordnung
 layout: default
 slug: fzgliefgmeldv
+
 ---
 
 # Fahrzeuglieferungs-Meldepflichtverordnung (FzgLiefgMeldV)

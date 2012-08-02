@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 5. September 1980 über die Ausstellung 
   Ehefähigkeitszeugnissen
 layout: default
 slug: ehefzeugn_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 5. September 1980 über die Ausstellung von Ehefähigkeitszeugnissen (EhefZeugnÜbkG)

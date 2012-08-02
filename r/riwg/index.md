@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Richterwahlgesetz'
+Title: Richterwahlgesetz
 layout: default
 slug: riwg
+
 ---
 
 # Richterwahlgesetz (RiWG)

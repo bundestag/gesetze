@@ -3,6 +3,7 @@ Title: Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche
   Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich
 layout: default
 slug: bverstg
+
 ---
 
 # Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich (BVersTG)

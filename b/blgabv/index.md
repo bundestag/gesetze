@@ -2,6 +2,7 @@
 Title: Verordnung über Anforderungsbehörden und Bedarfsträger nach dem Bundesleistungsgesetz
 layout: default
 slug: blgabv
+
 ---
 
 # Verordnung über Anforderungsbehörden und Bedarfsträger nach dem Bundesleistungsgesetz (BLGABV)

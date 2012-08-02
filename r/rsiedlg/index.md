@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Reichssiedlungsgesetz'
+Title: Reichssiedlungsgesetz
 layout: default
 slug: rsiedlg
+
 ---
 
 # Reichssiedlungsgesetz (RSiedlG)

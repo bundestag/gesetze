@@ -3,6 +3,7 @@ Title: Verordnung über besondere Anforderungen an Saatgut von Sojabohne im Rahm
   der Saatgutanerkennung 2010
 layout: default
 slug: sojbosaatv
+
 ---
 
 # Verordnung über besondere Anforderungen an Saatgut von Sojabohne im Rahmen der Saatgutanerkennung 2010 (SojBoSaatV)

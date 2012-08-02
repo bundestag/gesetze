@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Asylverfahrensgesetz'
+Title: Asylverfahrensgesetz
 layout: default
 slug: asylvfg_1992
+
 ---
 
 # Asylverfahrensgesetz (AsylVfG 1992)

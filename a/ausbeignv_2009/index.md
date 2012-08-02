@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Ausbilder-Eignungsverordnung'
+Title: Ausbilder-Eignungsverordnung
 layout: default
 slug: ausbeignv_2009
+
 ---
 
 # Ausbilder-Eignungsverordnung (AusbEignV 2009)

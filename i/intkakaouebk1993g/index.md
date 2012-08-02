@@ -2,6 +2,7 @@
 Title: Gesetz zu dem Internationalen Kakao-Übereinkommen von 1993
 layout: default
 slug: intkakao_bk1993g
+
 ---
 
 # Gesetz zu dem Internationalen Kakao-Übereinkommen von 1993 (IntKakaoÜbk1993G)

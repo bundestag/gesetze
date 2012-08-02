@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung
-  - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)'
+Title: Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung
+  - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)
 layout: default
 slug: sgb_6
+
 ---
 
 # Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) (SGB 6)

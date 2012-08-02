@@ -2,6 +2,7 @@
 Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes für die Bundesfinanzverwaltung
 layout: default
 slug: bfinvwbdgdano_2008
+
 ---
 
 # Anordnung zur Durchführung des Bundesdisziplinargesetzes für die Bundesfinanzverwaltung (BFinVwBDGDAnO 2008)

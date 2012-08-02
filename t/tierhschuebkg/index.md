@@ -3,6 +3,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 10. März 1976 zum Schutz 
   in landwirtschaftlichen Tierhaltungen
 layout: default
 slug: tierhsch_bkg
+
 ---
 
 # Gesetz zu dem Europäischen Übereinkommen vom 10. März 1976 zum Schutz von Tieren in landwirtschaftlichen Tierhaltungen (TierhSchÜbkG)

@@ -3,6 +3,7 @@ Title: Verordnung über die elektronische Aktenführung bei dem Patentamt, dem P
   und dem Bundesgerichtshof
 layout: default
 slug: eapatv
+
 ---
 
 # Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof (EAPatV)

@@ -4,6 +4,7 @@ Title: Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entsch�
   GmbH
 layout: default
 slug: entschbv_ffbankv
+
 ---
 
 # Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung an die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH (EntschBVöffBankV)

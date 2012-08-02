@@ -3,6 +3,7 @@ Title: Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rent
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_7
+
 ---
 
 # Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 7)

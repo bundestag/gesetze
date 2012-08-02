@@ -2,6 +2,7 @@
 Title: Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 layout: default
 slug: kovanpg_9
+
 ---
 
 # Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes (KOVAnpG 9)

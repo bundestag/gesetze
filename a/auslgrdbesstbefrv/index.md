@@ -4,6 +4,7 @@ Title: Verordnung über die Gewährung von Steuerbefreiungen für Grundbesitz au
   Vertretungen benutzt wird
 layout: default
 slug: auslgrdbesstbefrv
+
 ---
 
 # Verordnung über die Gewährung von Steuerbefreiungen für Grundbesitz ausländischer Staaten, der für Wohnzwecke des Personals diplomatischer Missionen und konsularischer Vertretungen benutzt wird (AuslGrdBesStBefrV)

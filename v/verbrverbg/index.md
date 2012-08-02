@@ -2,6 +2,7 @@
 Title: Gesetz zur Überwachung strafrechtlicher und anderer Verbringungsverbote
 layout: default
 slug: verbrverbg
+
 ---
 
 # Gesetz zur Überwachung strafrechtlicher und anderer Verbringungsverbote (VerbrVerbG)

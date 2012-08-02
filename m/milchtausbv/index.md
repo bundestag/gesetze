@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Milchtechnologen/zur
 Milchtechnologin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: milchtausbv
+
 ---
 
 #  (MilchTAusbV)

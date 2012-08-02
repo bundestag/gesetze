@@ -3,6 +3,7 @@ Title: Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin un
   Altenpflegers
 layout: default
 slug: altpflaprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers (AltPflAPrV)

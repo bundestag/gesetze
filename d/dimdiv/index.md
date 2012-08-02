@@ -3,6 +3,7 @@ Title: Verordnung über das datenbankgestützte Informationssystem über Medizin
   des Deutschen Instituts für Medizinische Dokumentation und Information
 layout: default
 slug: dimdiv
+
 ---
 
 # Verordnung über das datenbankgestützte Informationssystem über Medizinprodukte des Deutschen Instituts für Medizinische Dokumentation und Information (DIMDIV)

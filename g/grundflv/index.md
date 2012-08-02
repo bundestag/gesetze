@@ -4,6 +4,7 @@ Title: Verordnung über die Saldierung von Grundflächen im Wirtschaftsjahr 1997
   landwirtschaftlicher Kulturpflanzen
 layout: default
 slug: grundflv
+
 ---
 
 # Verordnung über die Saldierung von Grundflächen im Wirtschaftsjahr 1997/98 im Rahmen der gemeinschaftsrechtlichen Stützungsregelung für Erzeuger bestimmter landwirtschaftlicher Kulturpflanzen (GrundflV)

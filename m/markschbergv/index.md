@@ -2,6 +2,7 @@
 Title: Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche
 layout: default
 slug: markschbergv
+
 ---
 
 # Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche (MarkschBergV)

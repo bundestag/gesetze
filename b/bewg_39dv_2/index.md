@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
 layout: default
 slug: bewg_39dv_2
+
 ---
 
 # Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes (BewG§39DV 2)

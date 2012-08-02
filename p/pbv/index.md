@@ -2,6 +2,7 @@
 Title: Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
 layout: default
 slug: pbv
+
 ---
 
 # Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen (PBV)

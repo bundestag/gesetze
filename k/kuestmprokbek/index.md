@@ -3,6 +3,7 @@ Title: Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung 
   deutschen Küstenmeeres
 layout: default
 slug: k_stmprokbek
+
 ---
 
 # Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres (KüstmProkBek)

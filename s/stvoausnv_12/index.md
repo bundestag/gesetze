@@ -2,6 +2,7 @@
 Title: Zwölfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
 layout: default
 slug: stvoausnv_12
+
 ---
 
 # Zwölfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung (StVOAusnV 12)

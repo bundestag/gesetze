@@ -2,6 +2,7 @@
 Title: Approbationsordnung für Zahnärzte
 layout: default
 slug: z_pro
+
 ---
 
 # Approbationsordnung für Zahnärzte (ZÄPrO)

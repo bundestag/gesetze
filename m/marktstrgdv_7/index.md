@@ -2,6 +2,7 @@
 Title: Siebente Durchführungsverordnung zum Marktstrukturgesetz - Kartoffeln
 layout: default
 slug: marktstrgdv_7
+
 ---
 
 # Siebente Durchführungsverordnung zum Marktstrukturgesetz - Kartoffeln (MarktStrGDV 7)

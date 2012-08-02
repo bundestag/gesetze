@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung
-  der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)'
+Title: Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen
+  der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 layout: default
 slug: postagsa
+
 ---
 
 # Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft) (PostAGSa)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Konditor/zur Konditorin
 layout: default
 slug: kondausbv_2003
+
 ---
 
 # Verordnung über die Berufsausbildung zum Konditor/zur Konditorin (KondAusbV 2003)

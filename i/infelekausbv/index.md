@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Informationselektroniker/zur Informationselektronikerin
 layout: default
 slug: infelekausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Informationselektroniker/zur Informationselektronikerin (InfElekAusbV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Arzneimittel-Warnhinweisverordnung'
+Title: Arzneimittel-Warnhinweisverordnung
 layout: default
 slug: amwarnv
+
 ---
 
 # Arzneimittel-Warnhinweisverordnung (AMWarnV)

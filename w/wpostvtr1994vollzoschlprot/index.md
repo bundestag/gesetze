@@ -2,6 +2,7 @@
 Title: Schlußprotokoll zur Vollzugsordnung zum Weltpostvertrag
 layout: default
 slug: wpostvtr1994vollzoschlprot
+
 ---
 
 # Schlußprotokoll zur Vollzugsordnung zum Weltpostvertrag (WPostVtr1994VollzOSchlProt)

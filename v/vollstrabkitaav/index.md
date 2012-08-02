@@ -3,6 +3,7 @@ Title: Verordnung zur Ausführung des deutsch-italienischen Abkommens über die 
   und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
 layout: default
 slug: vollstrabkitaav
+
 ---
 
 # Verordnung zur Ausführung des deutsch-italienischen Abkommens über die Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen (VollstrAbkITAAV)

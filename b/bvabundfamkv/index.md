@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Einrichtung einer Bundesfamilienkasse beim
-  Bundesverwaltungsamt'
+Title: Verordnung zur Einrichtung einer Bundesfamilienkasse beim Bundesverwaltungsamt
 layout: default
 slug: bvabundfamkv
+
 ---
 
 # Verordnung zur Einrichtung einer Bundesfamilienkasse beim Bundesverwaltungsamt (BVABundFamkV)

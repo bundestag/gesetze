@@ -2,6 +2,7 @@
 Title: Verordnung über das Meldewesen nach §§ 21 und 22 des Transfusionsgesetzes
 layout: default
 slug: tfgmv
+
 ---
 
 # Verordnung über das Meldewesen nach §§ 21 und 22 des Transfusionsgesetzes (TFGMV)

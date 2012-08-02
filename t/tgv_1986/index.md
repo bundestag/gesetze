@@ -2,6 +2,7 @@
 Title: Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland
 layout: default
 slug: tgv_1986
+
 ---
 
 # Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland (TGV 1986)

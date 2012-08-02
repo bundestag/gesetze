@@ -3,6 +3,7 @@ Title: Drittes Gesetz zur Durchführung versicherungsrechtlicher Richtlinien des
   der Europäischen Gemeinschaften
 layout: default
 slug: vagewgdg_3
+
 ---
 
 # Drittes Gesetz zur Durchführung versicherungsrechtlicher Richtlinien des Rates der Europäischen Gemeinschaften (VAGEWGDG 3)

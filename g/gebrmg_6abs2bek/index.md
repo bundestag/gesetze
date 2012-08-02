@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 6 Abs. 2 des Gebrauchsmustergesetzes
 layout: default
 slug: gebrmg_6abs2bek
+
 ---
 
 # Bekanntmachung zu § 6 Abs. 2 des Gebrauchsmustergesetzes (GebrMG§6Abs2Bek)

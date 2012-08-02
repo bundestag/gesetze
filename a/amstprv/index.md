@@ -3,6 +3,7 @@ Title: Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk
   in handwerksähnlichen Gewerben
 layout: default
 slug: amstprv
+
 ---
 
 # Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und in handwerksähnlichen Gewerben (AMstPrV)

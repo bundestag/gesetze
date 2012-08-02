@@ -3,6 +3,7 @@ Title: Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof 
   das ehemalige Jugoslawien
 layout: default
 slug: yugstrghg
+
 ---
 
 # Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof für das ehemalige Jugoslawien (YUGStrGHG)

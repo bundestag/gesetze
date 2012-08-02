@@ -4,6 +4,7 @@ Title: Verordnung über die Amtsdauer, Amtsführung und Entschädigung der Mitgl
   und Krankenkassen
 layout: default
 slug: rvo_368oabs4v
+
 ---
 
 # Verordnung über die Amtsdauer, Amtsführung und Entschädigung der Mitglieder des Gemeinsamen Bundesausschusses und der Landesausschüsse der Ärzte (Zahnärzte) und Krankenkassen (RVO§368oAbs4V)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen
-  Krankenversicherung'
+Title: Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen Krankenversicherung
 layout: default
 slug: aabg
+
 ---
 
 # Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen Krankenversicherung (AABG)

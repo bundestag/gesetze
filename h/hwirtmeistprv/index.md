@@ -2,6 +2,7 @@
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Hauswirtschafter/Hauswirtschafterin
 layout: default
 slug: hwirtmeistprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Hauswirtschafter/Hauswirtschafterin (HWirtMeistPrV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizi
   nach dem Bauproduktengesetz
 layout: default
 slug: baupgp_zanerkv
+
 ---
 
 # Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz (BauPGPÜZAnerkV)

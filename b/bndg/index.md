@@ -2,6 +2,7 @@
 Title: Gesetz über den Bundesnachrichtendienst
 layout: default
 slug: bndg
+
 ---
 
 # Gesetz über den Bundesnachrichtendienst (BNDG)

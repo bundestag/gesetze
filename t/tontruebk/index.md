@@ -3,6 +3,7 @@ Title: Übereinkommen zum Schutz der Hersteller von Tonträgern gegen die unerla
   Vervielfältigung ihrer Tonträger
 layout: default
 slug: tontr_bk
+
 ---
 
 # Übereinkommen zum Schutz der Hersteller von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger (TonTrÜbk)

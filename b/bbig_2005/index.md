@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Berufsbildungsgesetz'
+Title: Berufsbildungsgesetz
 layout: default
 slug: bbig_2005
+
 ---
 
 # Berufsbildungsgesetz (BBiG 2005)

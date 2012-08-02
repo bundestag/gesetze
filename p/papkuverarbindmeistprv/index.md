@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Indust
   Industriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung
 layout: default
 slug: papkuverarbindmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung (PapKuVerarbIndMeistPrV)

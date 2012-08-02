@@ -3,6 +3,7 @@ Title: Anordnung über die Zulässigkeit von Konzessionsabgaben der Unternehmen 
   Betriebe zur Versorgung mit Elektrizität, Gas und Wasser an Gemeinden und Gemeindeverbände
 layout: default
 slug: kaeano
+
 ---
 
 # Anordnung über die Zulässigkeit von Konzessionsabgaben der Unternehmen und Betriebe zur Versorgung mit Elektrizität, Gas und Wasser an Gemeinden und Gemeindeverbände (KAEAnO)

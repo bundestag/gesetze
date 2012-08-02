@@ -3,6 +3,7 @@ Title: Verordnung mit lebensmittelrechtlichen Vorschriften zur Überwachung von 
   und Zoonoseerregern
 layout: default
 slug: zoonosev
+
 ---
 
 # Verordnung mit lebensmittelrechtlichen Vorschriften zur Überwachung von Zoonosen und Zoonoseerregern (ZoonoseV)

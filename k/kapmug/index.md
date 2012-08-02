@@ -2,6 +2,7 @@
 Title: Gesetz über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten
 layout: default
 slug: kapmug
+
 ---
 
 # Gesetz über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (KapMuG)

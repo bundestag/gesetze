@@ -2,6 +2,7 @@
 Title: Verordnung über die Erzeugung von Strom aus Biomasse
 layout: default
 slug: biomassev
+
 ---
 
 # Verordnung über die Erzeugung von Strom aus Biomasse (BiomasseV)

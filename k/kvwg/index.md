@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Weiterentwicklung des Kassenarztrechts'
+Title: Gesetz zur Weiterentwicklung des Kassenarztrechts
 layout: default
 slug: kvwg
+
 ---
 
 # Gesetz zur Weiterentwicklung des Kassenarztrechts (KVWG)

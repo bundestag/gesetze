@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Schaumwein- und Zwischenerzeugnissteuergesetz'
+Title: Schaumwein- und Zwischenerzeugnissteuergesetz
 layout: default
 slug: schaumwzwstg_2009
+
 ---
 
 # Schaumwein- und Zwischenerzeugnissteuergesetz (SchaumwZwStG 2009)

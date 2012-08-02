@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sachenrechtsbereinigung im Beitrittsgebiet'
+Title: Gesetz zur Sachenrechtsbereinigung im Beitrittsgebiet
 layout: default
 slug: sachenrberg
+
 ---
 
 # Gesetz zur Sachenrechtsbereinigung im Beitrittsgebiet (SachenRBerG)

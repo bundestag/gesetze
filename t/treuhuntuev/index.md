@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Untern
   der Treuhandanstalt
 layout: default
 slug: treuhunt_v
+
 ---
 
 # Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt (TreuhUntÜV)

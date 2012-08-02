@@ -2,6 +2,7 @@
 Title: Gesetz über eine staatliche Vorauszahlung an durch Straftaten geschädigte Bürger
 layout: default
 slug: schaevzg
+
 ---
 
 # Gesetz über eine staatliche Vorauszahlung an durch Straftaten geschädigte Bürger (SchaEVZG)

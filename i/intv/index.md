@@ -2,6 +2,7 @@
 Title: Verordnung über die Durchführung von Integrationskursen für Ausländer und Spätaussiedler
 layout: default
 slug: intv
+
 ---
 
 # Verordnung über die Durchführung von Integrationskursen für Ausländer und Spätaussiedler (IntV)

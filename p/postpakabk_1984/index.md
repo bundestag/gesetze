@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postpaketabkommen'
+Title: Postpaketabkommen
 layout: default
 slug: postpakabk_1984
+
 ---
 
 # Postpaketabkommen (PostPakAbk 1984)

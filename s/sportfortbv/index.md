@@ -3,6 +3,7 @@ Title: Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr�
   Sportfachwirt und Gepr체fte Sportfachwirtin
 layout: default
 slug: sportfortbv
+
 ---
 
 # Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr체fter Sportfachwirt und Gepr체fte Sportfachwirtin (SportFortbV)

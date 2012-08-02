@@ -3,6 +3,7 @@ Title: Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldung
   sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
 layout: default
 slug: bbesg_bes_gbek_2010
+
 ---
 
 # Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes (BBesG/BesÜGBek 2010)

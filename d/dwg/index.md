@@ -2,6 +2,7 @@
 Title: Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle"
 layout: default
 slug: dwg
+
 ---
 
 # Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle" (DWG)

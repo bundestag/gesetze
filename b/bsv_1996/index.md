@@ -3,6 +3,7 @@ Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenve
   für 1996 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996
 layout: default
 slug: bsv_1996
+
 ---
 
 # Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für 1996 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996 (BSV 1996)

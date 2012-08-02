@@ -1,10 +1,11 @@
 ---
-Title: !!python/unicode 'Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik
-  Deutschland ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre
-  1994 und zur achten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
-  genannten Gebiet'
+Title: Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik Deutschland
+  ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre 1994 und zur
+  achten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten
+  Gebiet
 layout: default
 slug: rav_1994
+
 ---
 
 # Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik Deutschland ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre 1994 und zur achten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (RAV 1994)

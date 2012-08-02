@@ -2,6 +2,7 @@
 Title: Verordnung zur Änderung der Einkommensteuer-Durchführungsverordnung 1975
 layout: default
 slug: estdv1975_ndv
+
 ---
 
 # Verordnung zur Änderung der Einkommensteuer-Durchführungsverordnung 1975 (EStDV1975ÄndV)

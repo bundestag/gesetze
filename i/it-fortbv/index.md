@@ -3,6 +3,7 @@ Title: Verordnung über die berufliche Fortbildung im Bereich der Informations- 
   Telekommunikationstechnik
 layout: default
 slug: it-fortbv
+
 ---
 
 # Verordnung über die berufliche Fortbildung im Bereich der Informations- und Telekommunikationstechnik (IT-FortbV)

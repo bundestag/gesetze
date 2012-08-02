@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Konkretisierung des Verbotes der Marktmanipulation'
+Title: Verordnung zur Konkretisierung des Verbotes der Marktmanipulation
 layout: default
 slug: makonv
+
 ---
 
 # Verordnung zur Konkretisierung des Verbotes der Marktmanipulation (MaKonV)

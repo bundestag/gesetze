@@ -2,6 +2,7 @@
 Title: Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland
 layout: default
 slug: eurag
+
 ---
 
 # Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland (EuRAG)

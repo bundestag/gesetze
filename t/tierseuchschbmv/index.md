@@ -3,6 +3,7 @@ Title: Verordnung über das innergemeinschaftliche Verbringen sowie die Einfuhr 
   Durchfuhr von Tieren und Waren
 layout: default
 slug: tierseuchschbmv
+
 ---
 
 # Verordnung über das innergemeinschaftliche Verbringen sowie die Einfuhr und Durchfuhr von Tieren und Waren (TierSeuchSchBMV)

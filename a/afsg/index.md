@@ -3,6 +3,7 @@ Title: Gesetz zu dem Internationalen Übereinkommen von 2001 über die Beschrän
   des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen
 layout: default
 slug: afsg
+
 ---
 
 # Gesetz zu dem Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen (AFSG)

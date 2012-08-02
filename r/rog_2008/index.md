@@ -1,9 +1,10 @@
 [^F771714_1_BJNR298610008]
 Raumordnungsgesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: rog_2008
+
 ---
 
 #  (ROG 2008)

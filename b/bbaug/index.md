@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Baugesetzbuch'
+Title: Baugesetzbuch
 layout: default
 slug: bbaug
+
 ---
 
 # Baugesetzbuch (BBauG)

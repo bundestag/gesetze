@@ -3,6 +3,7 @@ Title: Verordnung über die Pflichten der Makler, Darlehensvermittler, Bauträge
   Baubetreuer
 layout: default
 slug: gewo_34cdv
+
 ---
 
 # Verordnung über die Pflichten der Makler, Darlehensvermittler, Bauträger und Baubetreuer (GewO§34cDV)

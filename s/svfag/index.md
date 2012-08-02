@@ -4,6 +4,7 @@ Title: Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesg
   sowie über freiwillige Sozialversicherung
 layout: default
 slug: svfag
+
 ---
 
 # Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland sowie über freiwillige Sozialversicherung (SVFAG)

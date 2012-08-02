@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich d
   Deutschen Postbank AG
 layout: default
 slug: deutschepostbankagdiszano
+
 ---
 
 # Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der Deutschen Postbank AG (DeutschePostbankAGDiszAnO)

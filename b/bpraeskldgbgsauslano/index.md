@@ -4,6 +4,7 @@ Title: Anordnung des Bundespräsidenten über die Dienstkleidung der bei den deu
   im BGS
 layout: default
 slug: bpr_skldgbgsauslano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Dienstkleidung der bei den deutschen Auslandsvertretungen für den Geheim-, Haus- und Objektschutz eingesetzten Polizeivollzugsbeamten im BGS (BPräsKldgBGSAuslAnO)

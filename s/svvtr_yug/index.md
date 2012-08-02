@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Föderativen Volk
   Jugoslawien über die Regelung gewisser Forderungen aus der Sozialversicherung
 layout: default
 slug: svvtr_yug
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und der Föderativen Volksrepublik Jugoslawien über die Regelung gewisser Forderungen aus der Sozialversicherung (SVVtr YUG)

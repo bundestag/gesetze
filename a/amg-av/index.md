@@ -2,6 +2,7 @@
 Title: Verordnung über die elektronische Anzeige von Nebenwirkungen bei Arzneimitteln
 layout: default
 slug: amg-av
+
 ---
 
 # Verordnung über die elektronische Anzeige von Nebenwirkungen bei Arzneimitteln (AMG-AV)

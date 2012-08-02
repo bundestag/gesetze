@@ -3,6 +3,7 @@ Title: Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschlus
   und Tierwirtschaftsmeisterin
 layout: default
 slug: tierwmeistprv
+
 ---
 
 # Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Tierwirtschaftsmeister und Tierwirtschaftsmeisterin (TierwMeistPrV)

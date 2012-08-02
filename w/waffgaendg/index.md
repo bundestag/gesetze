@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung des Waffengesetzes
 layout: default
 slug: waffg_ndg
+
 ---
 
 # Gesetz zur Änderung des Waffengesetzes (WaffGÄndG)

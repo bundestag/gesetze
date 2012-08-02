@@ -2,6 +2,7 @@
 Title: Verordnung über die quantitative Analyse von ternären Textilfasergemischen
 layout: default
 slug: analysev_2
+
 ---
 
 # Verordnung über die quantitative Analyse von ternären Textilfasergemischen (AnalyseV 2)

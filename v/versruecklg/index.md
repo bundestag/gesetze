@@ -2,6 +2,7 @@
 Title: Gesetz über eine Versorgungsrücklage des Bundes
 layout: default
 slug: versr_cklg
+
 ---
 
 # Gesetz über eine Versorgungsrücklage des Bundes (VersRücklG)

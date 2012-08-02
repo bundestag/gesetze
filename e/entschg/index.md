@@ -2,6 +2,7 @@
 Title: Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen
 layout: default
 slug: entschg
+
 ---
 
 # Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen (EntschG)

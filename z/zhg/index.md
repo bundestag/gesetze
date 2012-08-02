@@ -2,6 +2,7 @@
 Title: Gesetz über die Ausübung der Zahnheilkunde
 layout: default
 slug: zhg
+
 ---
 
 # Gesetz über die Ausübung der Zahnheilkunde (ZHG)

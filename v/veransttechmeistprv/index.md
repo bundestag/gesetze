@@ -4,6 +4,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Meist
   Bühne/Studio, Beleuchtung, Halle
 layout: default
 slug: veransttechmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik" in den Fachrichtungen Bühne/Studio, Beleuchtung, Halle (VeranstTechMeistPrV)

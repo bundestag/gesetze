@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Siebte Verordnung zum Produktsicherheitsgesetz (Gasverbrauchseinrichtungsverordnung)'
+Title: Siebte Verordnung zum Produktsicherheitsgesetz (Gasverbrauchseinrichtungsverordnung)
 layout: default
 slug: gsgv_7
+
 ---
 
 # Siebte Verordnung zum Produktsicherheitsgesetz (Gasverbrauchseinrichtungsverordnung) (GSGV 7)

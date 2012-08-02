@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen'
+Title: Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen
 layout: default
 slug: gewschg
+
 ---
 
 # Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen (GewSchG)

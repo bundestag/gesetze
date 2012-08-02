@@ -2,6 +2,7 @@
 Title: Mindesturlaubsgesetz für Arbeitnehmer
 layout: default
 slug: burlg
+
 ---
 
 # Mindesturlaubsgesetz für Arbeitnehmer (BUrlG)

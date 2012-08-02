@@ -4,6 +4,7 @@ Title: Verordnung über die Anwendung des § 81 des Berufsbildungsgesetzes und d
   genannten Gebiet
 layout: default
 slug: bbig_81anwv
+
 ---
 
 # Verordnung über die Anwendung des § 81 des Berufsbildungsgesetzes und der auf Grund dieser Bestimmung erlassenen Verordnungen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (BBiG§81AnwV)

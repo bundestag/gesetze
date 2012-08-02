@@ -2,6 +2,7 @@
 Title: Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen
 layout: default
 slug: iwg
+
 ---
 
 # Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen (IWG)

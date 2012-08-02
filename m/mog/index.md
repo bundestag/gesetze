@@ -2,6 +2,7 @@
 Title: Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen
 layout: default
 slug: mog
+
 ---
 
 # Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen (MOG)

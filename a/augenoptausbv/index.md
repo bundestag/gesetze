@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Augenoptiker und zur
 Augenoptikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: augenoptausbv
+
 ---
 
 #  (AugenoptAusbV)

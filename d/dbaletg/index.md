@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 21. Februar 1997 zwischen der Bundesrepublik D
   Steuern vom Einkommen und vom Vermögen
 layout: default
 slug: dbaletg
+
 ---
 
 # Gesetz zu dem Abkommen vom 21. Februar 1997 zwischen der Bundesrepublik Deutschland und der Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (DBALETG)

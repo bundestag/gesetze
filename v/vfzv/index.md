@@ -3,6 +3,7 @@ Title: Verordnung über die Zuweisungen an das Sondervermögen "Versorgungsfonds
   Bundes"
 layout: default
 slug: vfzv
+
 ---
 
 # Verordnung über die Zuweisungen an das Sondervermögen "Versorgungsfonds des Bundes" (VfzV)

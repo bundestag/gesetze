@@ -2,6 +2,7 @@
 Title: Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig
 layout: default
 slug: m_nz5_10pfbek
+
 ---
 
 # Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig (Münz5/10PfBek)

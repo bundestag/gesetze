@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung des Bundesamts für Justiz
 layout: default
 slug: bfjg
+
 ---
 
 # Gesetz über die Errichtung des Bundesamts für Justiz (BfJG)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
 layout: default
 slug: adg
+
 ---
 
 # Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften (AdG)
