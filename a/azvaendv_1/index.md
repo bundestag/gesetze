@@ -1,0 +1,14 @@
+---
+Title: Erste Verordnung zur Änderung der Arbeitszeitverordnung
+layout: default
+slug: azv_ndv_1
+---
+
+# Erste Verordnung zur Änderung der Arbeitszeitverordnung (AZVÄndV 1)
+
+Ausfertigungsdatum
+:   2010-12-16
+
+Fundstelle
+:   BAnz: 2010, Nr 194, 4262
+

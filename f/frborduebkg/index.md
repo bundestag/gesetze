@@ -1,0 +1,15 @@
+---
+Title: Gesetz zu dem Internationalen Freibord-Übereinkommen von 1966 vom 5. April
+  1966
+layout: default
+slug: frbord_bkg
+---
+
+# Gesetz zu dem Internationalen Freibord-Übereinkommen von 1966 vom 5. April 1966 (FrBordÜbkG)
+
+Ausfertigungsdatum
+:   1969-02-20
+
+Fundstelle
+:   BGBl II: 1969, 249
+

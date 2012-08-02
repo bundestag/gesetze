@@ -1,0 +1,655 @@
+---
+Title: !!python/unicode 'Stromsteuergesetz'
+layout: default
+slug: stromstg
+---
+
+# Stromsteuergesetz (StromStG)
+
+Ausfertigungsdatum
+:   1999-03-24
+
+Fundstelle
+:   BGBl I: 1999, 378
+
+Zuletzt geändert durch
+:   Art. 2 G v. 1.3.2011 I 282
+
+
+## § 1 Steuergegenstand, Steuergebiet
+
+(1) Elektrischer Strom (Strom) der Position 2716 der Kombinierten
+Nomenklatur unterliegt im Steuergebiet der Stromsteuer. Steuergebiet
+ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von
+Büsingen und ohne die Insel Helgoland. Die Stromsteuer ist eine
+Verbrauchsteuer im Sinne der Abgabenordnung.
+
+(2) Kombinierte Nomenklatur im Sinne dieses Gesetzes ist die
+Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des
+Rates vom 23. Juli 1987 über die zolltarifliche und statistische
+Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. EG Nr. L 256 S. 1,
+Nr. L 341 S. 38, Nr. L 378 S. 120, 1988 Nr. L 130 S. 42) in der am 1.
+Januar 2002 geltenden Fassung.
+
+
+## § 2 Begriffsbestimmungen
+
+Im Sinne dieses Gesetzes sind
+
+1.  Versorger: Derjenige, der Strom leistet;
+
+
+2.  Eigenerzeuger: derjenige, der Strom zum Selbstverbrauch erzeugt;
+
+
+2a. Klassifikation der Wirtschaftszweige: die vom Statistischen Bundesamt
+    in 65189 Wiesbaden, Gustav-Stresemann-Ring 11, herausgegebene
+    Klassifikation der Wirtschaftszweige, Ausgabe 2003 (WZ 2003), auch zu
+    beziehen über www-ec.destatis.de;
+
+
+3.  Unternehmen des Produzierenden Gewerbes: Unternehmen, die dem
+    Abschnitt C (Bergbau und Gewinnung von Steine und Erden), D
+    (Verarbeitendes Gewerbe), E (Energie- und Wasserversorgung) oder F
+    (Baugewerbe) der Klassifikation der Wirtschaftszweige zuzuordnen sind,
+    sowie die anerkannten Werkstätten für behinderte Menschen im Sinne des
+    § 136 des Neunten Buches Sozialgesetzbuch, wenn sie überwiegend eine
+    wirtschaftliche Tätigkeit ausüben, die den vorgenannten Abschnitten
+    der Klassifikation der Wirtschaftszweige zuzuordnen ist;
+
+
+4.  Unternehmen im Sinne der Nummer 3: Kleinste rechtlich selbständige
+    Einheit sowie kommunale Eigenbetriebe, die auf Grundlage der
+    Eigenbetriebsgesetze oder Eigenbetriebsverordnungen der Länder geführt
+    werden;
+
+
+5.  Unternehmen der Land- und Forstwirtschaft: Unternehmen, die dem
+    Abschnitt A (Land- und Forstwirtschaft) oder der Klasse 05.02
+    (Teichwirtschaft und Fischzucht) der Klassifikation der
+    Wirtschaftszweige zuzuordnen sind, sowie die anerkannten Werkstätten
+    für behinderte Menschen im Sinne des § 136 des Neunten Buches
+    Sozialgesetzbuch, wenn sie überwiegend eine wirtschaftliche Tätigkeit
+    ausüben, die dem Abschnitt A oder der Klasse 05.02 der Klassifikation
+    der Wirtschaftszweige zuzuordnen ist;
+
+
+6.  Unternehmen im Sinne der Nummer 5: Wirtschaftliche, finanzielle und
+    rechtliche Einheit, die unter einheitlicher und selbständiger Führung
+    steht;
+
+
+7.  Strom aus erneuerbaren Energieträgern: Strom, der ausschließlich aus
+    Wasserkraft, Windkraft, Sonnenenergie, Erdwärme, Deponiegas, Klärgas
+    oder aus Biomasse erzeugt wird, ausgenommen Strom aus
+    Wasserkraftwerken mit einer installierten Generatorleistung über zehn
+    Megawatt.
+
+
+
+
+
+## § 3 Steuertarif
+
+Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
+
+
+## § 4 Erlaubnis
+
+(1) Wer als Versorger mit Sitz im Steuergebiet Strom leisten oder als
+Eigenerzeuger Strom zum Selbstverbrauch entnehmen oder als
+Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets
+beziehen will, bedarf der Erlaubnis. Einer Erlaubnis als Eigenerzeuger
+bedarf es nicht, wenn der Eigenerzeuger Inhaber einer Erlaubnis als
+Versorger ist oder soweit der Eigenerzeuger Strom zum Selbstverbrauch
+entnimmt, der nach § 9 Abs. 1 Nr. 3 Buchstabe a, Nr. 4 oder Nr. 5 von
+der Steuer befreit ist.
+
+(2) Die Erlaubnis wird auf Antrag vom Hauptzollamt unter
+Widerrufsvorbehalt Personen erteilt, die ordnungsgemäß kaufmännische
+Bücher führen, rechtzeitig Jahresabschlüsse aufstellen und gegen deren
+steuerliche Zuverlässigkeit keine Bedenken bestehen. Das Hauptzollamt
+kann nach Absatz 1 erlaubnispflichtige Versorger, Eigenerzeuger oder
+Letztverbraucher, die weder nach dem Handelsgesetzbuch noch nach der
+Abgabenordnung zur Führung von kaufmännischen Büchern oder zur
+Aufstellung von Jahresabschlüssen verpflichtet sind, von diesen
+Erfordernissen befreien, soweit Steuerbelange dadurch nicht gefährdet
+werden.
+
+(3) Vor Erteilung der Erlaubnis kann das Hauptzollamt Sicherheit für
+die voraussichtlich während zweier Monate entstehende Steuer
+verlangen, wenn Anzeichen für eine Gefährdung der Steuer erkennbar
+sind.
+
+(4) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen
+nach Absatz 2 nicht mehr erfüllt ist oder eine angeforderte Sicherheit
+nicht geleistet wird.
+
+(5) (weggefallen)
+
+
+## § 5 Entstehung der Steuer, Steuerschuldner
+
+(1) Die Steuer entsteht dadurch, daß vom im Steuergebiet ansässigen
+Versorger geleisteter Strom durch Letztverbraucher im Steuergebiet aus
+dem Versorgungsnetz entnommen wird, oder dadurch, daß der Versorger
+dem Versorgungsnetz Strom zum Selbstverbrauch entnimmt. Bei
+Eigenerzeugern entsteht die Steuer vorbehaltlich Satz 1 mit der
+Entnahme von Strom zum Selbstverbrauch im Steuergebiet.
+
+(2) Steuerschuldner ist in den Fällen des Absatzes 1 Satz 1 der
+Versorger und im Falle des Absatzes 1 Satz 2 der Eigenerzeuger.
+
+(3) Strom gilt mit der Leistung an einen Versorger, der nicht Inhaber
+einer nach § 4 Abs. 1 erforderlichen Erlaubnis als Versorger ist, als
+durch einen Letztverbraucher im Steuergebiet aus dem Versorgungsnetz
+entnommen, wenn die Leistung des Stroms in der Annahme erfolgt, dass
+eine Steuer nach Absatz 1 Satz 1 entstanden sei. Eine Steuerentstehung
+durch die tatsächliche Entnahme des Stroms aus dem Versorgungsnetz
+bleibt dadurch unberührt. Dem Versorger ohne Erlaubnis wird die durch
+den an ihn leistenden Versorger entrichtete Steuer auf Antrag
+vergütet, soweit er nachweist, dass die durch die tatsächliche
+Entnahme des Stroms entstandene Steuer entrichtet worden ist, für den
+Strom keine Steuer entstanden ist oder der Strom steuerfrei entnommen
+worden ist.
+
+
+## § 6 Widerrechtliche Entnahme von Strom
+
+Die Steuer entsteht auch dadurch, daß widerrechtlich Strom aus dem
+Versorgungsnetz entnommen wird. Steuerschuldner ist, wer
+widerrechtlich Strom entnimmt.
+
+
+## § 7 Leistung von Strom in das Steuergebiet
+
+Bezieht ein Letztverbraucher Strom aus einem Gebiet außerhalb des
+Steuergebiets, entsteht die Steuer dadurch, daß der Strom durch den
+Letztverbraucher im Steuergebiet aus dem Versorgungsnetz entnommen
+wird. Steuerschuldner ist der Letztverbraucher.
+
+
+## § 8 Steueranmeldung, Fälligkeit der Steuer
+
+(1) Der Steuerschuldner hat für Strom, für den die Steuer nach § 5
+Abs. 1 oder § 7 entstanden ist, vorbehaltlich des Absatzes 9 eine
+Steuererklärung abzugeben und darin die Steuer selbst zu berechnen
+(Steueranmeldung).
+
+(2) Der Steuerschuldner kann zwischen monatlicher und jährlicher
+Steueranmeldung wählen. Das Wahlrecht kann nur für jeweils ein
+Kalenderjahr ausgeübt werden. Es ist durch eine Erklärung auszuüben,
+die spätestens am 31. Dezember des Vorjahres beim Hauptzollamt
+eingegangen sein muß. Wird die Erklärung nicht rechtzeitig abgegeben,
+ist die Steuer jährlich anzumelden und zu entrichten.
+
+(3) Bei monatlicher Anmeldung ist die Steuer für jeden Kalendermonat
+(Veranlagungsmonat) bis zum 15. Kalendertag des folgenden
+Kalendermonats anzumelden und bis zum 25. Kalendertag dieses
+Kalendermonats an das Hauptzollamt zu entrichten.
+
+(4) Bei jährlicher Anmeldung ist die Steuer für jedes Kalenderjahr
+(Veranlagungsjahr) bis zum 31. Mai des folgenden Kalenderjahres
+anzumelden und unter Anrechnung der geleisteten monatlichen
+Vorauszahlungen nach Absatz 7 bis zum 25. Juni dieses Kalenderjahres
+an das Hauptzollamt zu entrichten.
+
+(4a) Wird die Leistung von Strom oder die Entnahme von Strom zum
+Selbstverbrauch nach Ablesezeiträumen abgerechnet oder ermittelt, die
+mehrere Veranlagungsmonate oder mehrere Veranlagungsjahre betreffen,
+ist insoweit eine sachgerechte, von einem Dritten nachvollziehbare
+Schätzung zur Aufteilung der im gesamten Ablesezeitraum entnommenen
+Menge auf die betroffenen Veranlagungszeiträume zulässig. Sofern
+Ablesezeiträume später enden als der jeweilige Veranlagungszeitraum,
+ist für diese Ablesezeiträume die voraussichtlich im
+Veranlagungszeitraum entnommene Menge zur Versteuerung anzumelden.
+Nachdem ein solcher Ablesezeitraum beendet ist, hat der
+Steuerschuldner die nach Satz 2 angemeldete Menge und die darauf
+entfallende Steuer entsprechend Satz 1 zu berichtigen. Die
+Berichtigung ist für den Veranlagungszeitraum vorzunehmen, in dem der
+Ablesezeitraum endet. Die Steuer oder der Erstattungsanspruch für die
+Differenzmenge zwischen der angemeldeten und der berichtigten Menge
+gilt insoweit in dem Zeitpunkt als entstanden, in dem der
+Ablesezeitraum endet. Die Sätze 1 bis 5 gelten für Steuerschuldner
+nach § 7 Satz 2 sinngemäß.
+
+(5) Scheidet ein Steuerschuldner während des Veranlagungsjahres aus
+der Steuerpflicht aus, ist die Höhe der zu entrichtenden Steuer bis
+zum Ablauf des fünften Kalendermonats, der dem Ende der Steuerpflicht
+folgt, anzumelden. Ein sich unter Anrechnung der geleisteten
+monatlichen Vorauszahlungen nach Absatz 7 ergebender Restbetrag ist
+bis zum 25. Kalendertag des Folgemonats an das Hauptzollamt zu zahlen.
+
+(6) Bei jährlicher Anmeldung sind auf die Steuerschuld monatliche
+Vorauszahlungen zu leisten. Die Höhe der monatlichen Vorauszahlungen
+wird durch das Hauptzollamt festgesetzt und beträgt ein Zwölftel der
+Steuer, die im vorletzten dem Veranlagungsjahr vorhergehenden
+Kalenderjahr entstanden ist. Das Hauptzollamt kann die monatlichen
+Vorauszahlungen abweichend festsetzen, wenn die Summe der vom
+Steuerschuldner zu leistenden Vorauszahlungen erheblich von der zu
+erwartenden Jahressteuerschuld abweichen würde.
+
+(7) Die Vorauszahlungen für den einzelnen Kalendermonat sind jeweils
+bis zum 25. Kalendertag des folgenden Kalendermonats an das
+Hauptzollamt zu entrichten.
+
+(8) (weggefallen)
+
+(9) Wird Strom ohne Erlaubnis nach § 4 Abs. 1 oder steuerbegünstigt an
+einen Nichtberechtigen nach § 9 Abs. 8 geleistet oder ohne Erlaubnis
+nach § 4 Abs. 1 zum Selbstverbrauch, widerrechtlich nach § 6 oder
+zweckwidrig nach § 9 Abs. 6 entnommen, hat der Steuerschuldner
+unverzüglich eine Steuererklärung abzugeben und darin die Steuer
+selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort zu
+entrichten. Die Sätze 1 und 2 gelten im Falle des § 9 Abs. 8 nur für
+den Nichtberechtigten.
+
+(10) Für die nach § 5 oder § 7 entstehende Steuer kann das
+Hauptzollamt im Voraus Sicherheit verlangen, wenn Anzeichen für eine
+Gefährdung der Steuer erkennbar sind.
+
+
+## § 9 Steuerbefreiungen, Steuerermäßigungen
+
+(1) Von der Steuer ist befreit:
+
+1.  Strom aus erneuerbaren Energieträgern, wenn dieser aus einem
+    ausschließlich mit Strom aus erneuerbaren Energieträgern gespeisten
+    Netz oder einer entsprechenden Leitung entnommen wird;
+
+
+2.  Strom, der zur Stromerzeugung entnommen wird;
+
+
+3.  Strom, der in Anlagen mit einer elektrischen Nennleistung von bis zu
+    zwei Megawatt erzeugt wird und
+
+    a)  vom Betreiber der Anlage als Eigenerzeuger im räumlichen Zusammenhang
+        zu der Anlage zum Selbstverbrauch entnommen wird oder
+
+
+    b)  von demjenigen, der die Anlage betreibt oder betreiben lässt, an
+        Letztverbraucher geleistet wird, die den Strom im räumlichen
+        Zusammenhang zu der Anlage entnehmen;
+
+
+
+
+
+4.  Strom, der in Anlagen erzeugt wird, soweit diese der vorübergehenden
+    Stromversorgung im Falle des Ausfalls oder der Störung der sonst
+    üblichen Stromversorgung dienen (Notstromanlagen);
+
+
+5.  Strom, der auf Wasserfahrzeugen oder in Luftfahrzeugen erzeugt und
+    eben dort verbraucht wird, sowie Strom, der in Schienenfahrzeugen im
+    Schienenbahnverkehr erzeugt und zu begünstigten Zwecken nach Absatz 2
+    entnommen wird.
+
+
+
+
+(2) Strom unterliegt einem ermäßigten Steuersatz von 11,42 Euro für
+eine Megawattstunde, wenn er im Verkehr mit Oberleitungsomnibussen
+oder für den Fahrbetrieb im Schienenbahnverkehr, mit Ausnahme der
+betriebsinternen Werkverkehre und Bergbahnen, entnommen wird und nicht
+gemäß Absatz 1 von der Steuer befreit ist.
+
+(2a) (weggefallen)
+
+(3) Strom unterliegt einem ermäßigten Steuersatz von 0,50 Euro für
+eine Megawattstunde, wenn er im Fall einer landseitigen
+Stromversorgung von Wasserfahrzeugen für die Schifffahrt, mit Ausnahme
+der privaten nichtgewerblichen Schifffahrt, verbraucht wird.
+
+(4) Wer nach Absatz 1 Nr. 2 von der Steuer befreiten oder nach Absatz
+2 oder Absatz 3 begünstigten Strom entnehmen will, bedarf der
+Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt
+Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine
+Bedenken bestehen. Sie ist zu widerrufen, wenn die Voraussetzung nach
+Satz 2 nicht mehr erfüllt ist.
+
+(5) (weggefallen)
+
+(6) Der Erlaubnisinhaber darf den steuerbegünstigt bezogenen Strom nur
+zu dem in der Erlaubnis genannten Zweck entnehmen. Die Steuer entsteht
+für Strom, der zu anderen als in der Erlaubnis genannten Zwecken
+entnommen wird, nach dem Steuersatz des § 3. Besteht die
+Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den
+ermäßigten Teil der Steuer. Steuerschuldner ist der Erlaubnisinhaber.
+
+(7) (weggefallen)
+
+(8) Wird Strom steuerbegünstigt an einen Nichtberechtigten geleistet,
+entsteht die Steuer auch in der Person des Nichtberechtigten. Mehrere
+Steuerschuldner sind Gesamtschuldner.
+
+
+## § 9a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
+
+(1) Auf Antrag wird die Steuer für nachweislich versteuerten Strom
+erlassen, erstattet oder vergütet, den ein Unternehmen des
+Produzierenden Gewerbes
+
+1.  für die Elektrolyse,
+
+
+2.  für die Herstellung von Glas und Glaswaren, keramischen Erzeugnissen,
+    keramischen Wand- und Bodenfliesen und -platten, Ziegeln und sonstiger
+    Baukeramik, Zement, Kalk und gebranntem Gips, Erzeugnissen aus Beton,
+    Zement und Gips, keramisch gebundenen Schleifkörpern, mineralischen
+    Isoliermaterialien, Asphalt, Waren aus Graphit oder anderen
+    Kohlenstoffen, Erzeugnissen aus Porenbetonerzeugnissen und
+    mineralischen Düngemitteln zum Trocknen, Brennen, Schmelzen, Erwärmen,
+    Warmhalten, Entspannen, Tempern oder Sintern der vorgenannten
+    Erzeugnisse oder der zu ihrer Herstellung verwendeten Vorprodukte,
+
+
+3.  für die Metallerzeugung und -bearbeitung sowie im Rahmen der
+    Herstellung von Metallerzeugnissen für die Herstellung von Schmiede-,
+    Press-, Zieh- und Stanzteilen, gewalzten Ringen und
+    pulvermetallurgischen Erzeugnissen und zur Oberflächenveredlung und
+    Wärmebehandlung jeweils zum Schmelzen, Erwärmen, Warmhalten,
+    Entspannen oder sonstigen Wärmebehandlung oder
+
+
+4.  für chemische Reduktionsverfahren
+
+
+
+entnommen hat.
+
+(2) Erlass-, erstattungs- oder vergütungsberechtigt ist das
+Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
+
+
+## § 9b Steuerentlastung für Unternehmen
+
+(1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
+nach § 3 versteuerten Strom, den ein Unternehmen des Produzierenden
+Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft für
+betriebliche Zwecke entnommen hat und der nicht nach § 9 Absatz 1 von
+der Steuer befreit ist. Die Steuerentlastung wird jedoch für die
+Entnahme von Strom zur Erzeugung von Licht, Wärme, Kälte, Druckluft
+und mechanischer Energie nur gewährt, soweit die vorgenannten
+Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden
+Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft genutzt
+worden sind. Abweichend von Satz 2 wird die Steuerentlastung auch für
+Strom zur Erzeugung von Druckluft gewährt, soweit diese in
+Druckflaschen oder anderen Behältern abgegeben wird.
+
+(2) Die Steuerentlastung beträgt 5,13 Euro für eine Megawattstunde.
+Eine Steuerentlastung wird nur gewährt, soweit der Entlastungsbetrag
+nach Satz 1 im Kalenderjahr den Betrag von 250 Euro übersteigt.
+
+(3) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
+
+
+## § 10 Erlass, Erstattung oder Vergütung in Sonderfällen
+
+(1) Die Steuer für nachweislich versteuerten Strom, den ein
+Unternehmen des Produzierenden Gewerbes für betriebliche Zwecke,
+ausgenommen solche nach § 9 Absatz 2 oder Absatz 3, entnommen hat,
+wird auf Antrag nach Maßgabe des Absatzes 2 erlassen, erstattet oder
+vergütet, soweit die Steuer im Kalenderjahr den Betrag von 1 000 Euro
+übersteigt. Eine nach § 9b mögliche Steuerentlastung wird dabei
+abgezogen. Die Steuer für Strom, der zur Erzeugung von Licht, Wärme,
+Kälte, Druckluft und mechanischer Energie entnommen worden ist, wird
+jedoch nur erlassen, erstattet oder vergütet, soweit die vorgenannten
+Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden
+Gewerbes genutzt worden sind. Abweichend von Satz 3 wird die Steuer
+auch in dem in § 9b Absatz 1 Satz 3 genannten Fall erlassen, erstattet
+oder vergütet. Erlass-, erstattungs- oder vergütungsberechtigt ist das
+Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
+
+(1a) Der Erlass, die Erstattung und die Vergütung der Steuer werden
+bis zum 31. Dezember 2009 gewährt. Abweichend davon wird die Steuer
+über den 31. Dezember 2009 hinaus erlassen, erstattet oder vergütet
+
+1.  bis zum 31. Dezember 2010, wenn
+
+    a)  die Bundesregierung im Jahr 2009 feststellt, dass zu erwarten ist,
+        dass die in der Vereinbarung zwischen der Regierung der Bundesrepublik
+        Deutschland und der deutschen Wirtschaft zur Klimavorsorge vom 9.
+        November 2000 (Klimaschutzvereinbarung) genannten Ziele zur
+        Verringerung von Treibhausgasen (Emissionsminderungsziele) bis zum 31.
+        Dezember 2009 in Höhe von 96 Prozent und bis zum 31. Dezember 2012 in
+        Höhe von 100 Prozent erreicht werden, und
+
+
+    b)  die Feststellung nach Buchstabe a bis zum 31. Dezember 2009 im
+        Bundesgesetzblatt bekannt gemacht wird;
+
+
+
+
+
+2.  bis zum 31. Dezember 2011, wenn
+
+    a)  die Voraussetzungen nach Nummer 1 vorliegen,
+
+
+    b)  die Bundesregierung im Jahr 2010 feststellt, dass die in der
+        Klimaschutzvereinbarung genannten Emissionsminderungsziele bis zum 31.
+        Dezember 2009 in Höhe von 96 Prozent erfüllt wurden und zu erwarten
+        ist, dass sie bis zum 31. Dezember 2012 in Höhe von 100 Prozent
+        erreicht werden, und
+
+
+    c)  die Feststellung nach Buchstabe b bis zum 31. Dezember 2010 im
+        Bundesgesetzblatt bekannt gemacht wird;
+
+
+
+
+
+3.  bis zum 31. Dezember 2012, wenn
+
+    a)  die Voraussetzungen nach Nummer 2 vorliegen,
+
+
+    b)  die Bundesregierung im Jahr 2011 feststellt, dass zu erwarten ist,
+        dass die in der Klimaschutzvereinbarung genannten
+        Emissionsminderungsziele bis zum 31. Dezember 2012 in Höhe von 100
+        Prozent erfüllt werden, und
+
+
+    c)  die Feststellung nach Buchstabe b bis zum 31. Dezember 2011 im
+        Bundesgesetzblatt bekannt gemacht wird.
+
+
+
+
+
+
+Die Bundesregierung hat ihre Feststellungen zur Erreichung der in der
+Klimaschutzvereinbarung genannten Emissionsminderungsziele jeweils auf
+der Grundlage eines von einem unabhängigen
+wirtschaftswissenschaftlichen Institut erstellten Berichts zu treffen.
+
+(2) Erlassen, erstattet oder vergütet werden für ein Kalenderjahr 90
+Prozent der Steuer, jedoch höchstens 90 Prozent des Betrags, um den
+die Steuer im Kalenderjahr den Unterschiedsbetrag übersteigt zwischen
+
+1.  dem Arbeitgeberanteil an den Rentenversicherungsbeiträgen, der sich
+    für das Unternehmen errechnet, wenn in dem Kalenderjahr, für das der
+    Antrag gestellt wird (Antragsjahr), der Beitragssatz in der
+    allgemeinen Rentenversicherung 20,3 Prozent und in der
+    knappschaftlichen Rentenversicherung 26,9 Prozent betragen hätte, und
+
+
+2.  dem Arbeitgeberanteil an den Rentenversicherungsbeiträgen, der sich
+    für das Unternehmen errechnet, wenn im Antragsjahr der Beitragssatz in
+    der allgemeinen Rentenversicherung 19,5 Prozent und in der
+    knappschaftlichen Rentenversicherung 25,9 Prozent betragen hätte.
+
+
+
+Sind die Beitragssätze in der Rentenversicherung im Antragsjahr
+niedriger als die in Satz 1 Nr. 2 genannten Beitragssätze, so sind die
+niedrigeren Beitragssätze für die Berechnung des Arbeitgeberanteils
+nach Satz 1 Nr. 2 maßgebend. Abweichend von Satz 1 wird im Fall des
+Absatzes 1a Satz 2 Nummer 3 die Steuer für das Jahr 2012 nur in Höhe
+von 80 Prozent des nach den Sätzen 1 und 2 berechneten Betrages
+erlassen, erstattet oder vergütet, es sei denn, die Bundesregierung
+stellt auf Grundlage eines Berichts nach Absatz 1a Satz 3 im Jahr 2013
+fest, dass die in der Klimaschutzvereinbarung genannten
+Emissionsminderungsziele bis zum 31. Dezember 2012 in Höhe von 100
+Prozent erfüllt wurden, und diese Feststellung bis zum 31. Dezember
+2013 im Bundesgesetzblatt bekannt gemacht wird.
+
+
+## § 11 Ermächtigungen
+
+Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung
+dieses Gesetzes durch Rechtsverordnung
+
+1.  die nach § 1 Abs. 2 anzuwendende Fassung der Kombinierten Nomenklatur
+    neu zu bestimmen und den Wortlaut dieses Gesetzes sowie der
+    Durchführungsverordnungen an die geänderte Nomenklatur anzupassen,
+    soweit sich hieraus steuerliche Änderungen nicht ergeben;
+
+
+2.  zur Steuervereinfachung vorzusehen, dass derjenige, der Strom an seine
+    Mieter, Pächter oder vergleichbare Vertragspartner leistet, nicht als
+    Versorger gilt;
+
+
+3.  zur Sicherung des Steueraufkommens und zur Verfahrensvereinfachung den
+    Begriff des Versorgers abweichend von § 2 Nr. 1 zu bestimmen;
+
+
+4.  die Zuordnung von Unternehmen zu einem Abschnitt oder einer Klasse der
+    Klassifikation der Wirtschaftszweige zu regeln (§ 2 Nr. 3 und 5);
+
+
+5.  zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der
+    Besteuerung das Erlaubnisverfahren nach § 4 einschließlich des
+    Verfahrens der Sicherheitsleistung näher zu regeln;
+
+
+6.  zur Verfahrensvereinfachung vorzusehen, dass Versorger Strom als
+    Letztverbraucher im Sinne von § 5 Abs. 1 Satz 1 beziehen können, und
+    die dafür erforderlichen Bestimmungen zu erlassen;
+
+
+7.  Verfahrensvorschriften zu § 8 zu erlassen, insbesondere zur
+    Steueranmeldung, zur Berechnung und Entrichtung der Steuer sowie zur
+    Berechnung und Festsetzung der monatlichen Vorauszahlungen;
+
+
+8.  zur Sicherung der Gleichmäßigkeit der Besteuerung, zur
+    Verfahrensvereinfachung und zur Vermeidung unangemessener
+    wirtschaftlicher Belastungen Bestimmungen zu § 9 zu erlassen und dabei
+    insbesondere
+
+    a)  die Voraussetzungen für die steuerbegünstigte Entnahme von Strom
+        einschließlich der Begriffe näher zu bestimmen sowie das
+        Erlaubnisverfahren zu regeln und die Erlaubnis allgemein zu erteilen.
+        Dabei kann es anordnen, dass die Steuer in Person des
+        Erlaubnisinhabers entsteht, wenn die Voraussetzungen der
+        Steuerbegünstigung nicht oder nicht mehr vorliegen, und das
+        erforderliche Verfahren regeln;
+
+
+    b)  statt der Steuerbegünstigung eine Steuerentlastung durch Erlass,
+        Erstattung oder Vergütung der Steuer anzuordnen und das dafür
+        erforderliche Verfahren regeln. Dabei kann es anordnen, dass der
+        Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb
+        bestimmter Fristen geltend zu machen ist;
+
+
+    c)  vorzusehen, dass Inhaber von Erlaubnissen zur steuerbegünstigten
+        Entnahme von Strom, die Strom auch zu anderen Zwecken entnehmen oder
+        Strom sowohl entnehmen als auch an Dritte leisten, auf Antrag den zu
+        anderen Zwecken entnommenen oder den an Dritte geleisteten Strom mit
+        dem Unterschiedsbetrag zwischen den jeweiligen Steuersätzen versteuern
+        können; dabei kann es die dafür erforderlichen Bestimmungen erlassen;
+
+
+
+
+
+9.  zur Sicherung der Gleichmäßigkeit der Besteuerung auf das Erfordernis
+    der Ausschließlichkeit in § 2 Nr. 7 bei aus Deponie-, Klärgas oder
+    Biomasse erzeugtem Strom zu verzichten, wenn die Zuführung anderer
+    Energieträger technisch zwingend erforderlich ist. Dabei kann es
+    bestimmen, dass der aus den zugeführten anderen Energieträgern
+    erzeugte Strom nicht steuerfrei nach § 9 Abs. 1 Nr. 1 entnommen werden
+    kann und Regelungen zur Ermittlung und zum Verfahren des Nachweises
+    des aus den anderen Energieträgern erzeugten Stroms erlassen;
+
+
+10. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der
+    Besteuerung die Voraussetzungen für die Steuerentlastungen nach den §§
+    9a bis 10 einschließlich der Begriffe näher zu bestimmen und das
+    Verfahren der Steuerentlastung zu regeln sowie Vorschriften über
+    Angaben und Nachweise zu erlassen, die zum Zwecke der Steuerentlastung
+    erforderlich sind. Dabei kann es zur Verwaltungsvereinfachung
+    anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der
+    Steuer innerhalb bestimmter Fristen geltend zu machen ist;
+
+
+11. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der
+    Besteuerung Regelungen zur Ermittlung der steuerrelevanten Strommengen
+    zu erlassen und dabei aus Vereinfachungsgründen Mengenschätzungen
+    durch den Steuerpflichtigen zuzulassen, soweit eine genaue Ermittlung
+    nur mit unvertretbarem Aufwand möglich ist;
+
+
+12. Bestimmungen zu erlassen zur Umsetzung der Steuerbefreiungen nach
+
+    a)  Artikel XI des Abkommens vom 19. Juni 1951 zwischen den Parteien des
+        Nordatlantikvertrages über die Rechtsstellung ihrer Truppen (BGBl.
+        1961 II S. 1183, 1190) in der jeweils geltenden Fassung und den
+        Artikeln 65 bis 67 des Zusatzabkommens vom 3. August 1959 zu dem
+        Abkommen vom 19. Juni 1951 zwischen den Parteien des
+        Nordatlantikvertrages über die Rechtsstellung ihrer Truppen
+        hinsichtlich der in der Bundesrepublik Deutschland stationierten
+        ausländischen Truppen (BGBl. 1961 II S. 1183, 1218) in der jeweils
+        geltenden Fassung,
+
+
+    b)  Artikel 15 des Abkommens vom 13. März 1967 zwischen der Bundesrepublik
+        Deutschland und dem Obersten Hauptquartier der Alliierten Mächte,
+        Europa, über die besonderen Bedingungen für die Einrichtung und den
+        Betrieb internationaler militärischer Hauptquartiere in der
+        Bundesrepublik Deutschland (BGBl. 1969 II S. 1997, 2009) in der
+        jeweils geltenden Fassung und
+
+
+    c)  den Artikeln III bis V des Abkommens zwischen der Bundesrepublik
+        Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober
+        1954 über die von der Bundesrepublik zu gewährenden
+        Abgabenvergünstigungen für die von den Vereinigten Staaten im
+        Interesse der gemeinsamen Verteidigung geleisteten Ausgaben (BGBl.
+        1955 II S. 821, 823) in der jeweils geltenden Fassung.
+
+
+
+
+
+
+Dabei kann es anordnen, dass bei einem Missbrauch für alle daran
+Beteiligten die Steuer entsteht.
+
+
+## § 12 Erlaß von Rechtsverordnungen, Verwaltungsvorschriften
+
+(1) Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen
+Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des
+Bundesrates.
+
+(2) Das Bundesministerium der Finanzen erläßt die allgemeinen
+Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
+Grund dieses Gesetzes erlassenen Rechtsverordnungen.
+
+
+## § 13 Anwendungsvorschriften
+
+Nach § 9 Absatz 4 in Verbindung mit § 9 Absatz 3 dieses Gesetzes in
+der am 31. Dezember 2010 geltenden Fassung erteilte Erlaubnisse und
+den Inhabern dieser Erlaubnisse erteilte Zulassungen nach § 16 Absatz
+1 der Stromsteuer-Durchführungsverordnung in der am 31. Dezember 2010
+geltenden Fassung erlöschen mit Ablauf des 31. Dezember 2010.
+
