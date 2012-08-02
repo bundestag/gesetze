@@ -2548,6 +2548,50 @@ Auswertung der Datenbank zuwiderlaufen noch die berechtigten
 Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
 
 
+### Abschnitt 7 - Schutz des Presseverlegers
+
+
+#### § 87f Presseverleger
+
+(1) Der Hersteller eines Presseerzeugnisses Presseverleger) hat das
+ausschließliche Recht, das Presseerzeugnis oder Teile hiervon zu gewerblichen
+Zwecken öffentlich zugänglich zu machen. Ist das Presseerzeugnis in einem
+Unternehmen hergestellt worden, so gilt der Inhaber des Unternehmens als
+Hersteller.
+
+(2) Ein Presseerzeugnis ist die redaktionell-technische Festlegung
+journalistischer Beiträge im Rahmen einer unter einem Titel auf beliebigen
+Trägern periodisch veröffentlichten Sammlung, die bei Würdigung der
+Gesamtumstände als überwiegend verlagstypisch anzusehen ist und die nicht
+überwiegend der Eigenwerbung dient. Journalistische Beiträge sind
+insbesondere Artikel und Abbildungen, die der Informationsvermittlung,
+Meinungsbildung oder Unterhaltung dienen.
+
+
+#### § 87g Übertragbarkeit, Dauer und Schranken des Rechts
+
+(1) Das Recht des Presseverlegers nach § 87f Absatz 1 Satz 1 ist übertragbar.
+Die §§ 31 und 33 gelten entsprechend.
+
+(2) Das Recht erlischt ein Jahr nach der Veröffentlichung des
+Presseerzeugnisses.
+
+(3) Das Recht des Pressverlegers kann nicht zum Nachteil des Urhebers oder
+eines Leistungsschutzberechtigten geltend gemacht werden, dessen Werk oder
+nach diesem Gesetz geschützter Schutzgegenstand im Presseerzeugnis enthalten
+ist.
+
+(4) Zulässig ist die öffentliche Zugänglichmachung von Presseerzeugnissen für
+nicht gewerbliche Zwecke. Im Übrigen gelten die Vorschriften des Teils 1
+Abschnitt 6 entsprechend.
+
+
+#### § 87h Beteiligungsanspruch des Urhebers
+
+Der Urheber ist an einer Vergütung angemessen zu beteiligen.
+
+
+
 ## Teil 3 - Besondere Bestimmungen für Filme
 
 
