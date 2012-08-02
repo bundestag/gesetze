@@ -3,6 +3,7 @@ Title: Zweite Verordnung über die Versicherung von Arbeitnehmern in der hütten
   Zusatzversicherung
 layout: default
 slug: hzvv_2
+
 ---
 
 # Zweite Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung (HZvV 2)

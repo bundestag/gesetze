@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung betreffend das Bundeswappen und den Bundesadler'
+Title: Bekanntmachung betreffend das Bundeswappen und den Bundesadler
 layout: default
 slug: bwappenbek
+
 ---
 
 # Bekanntmachung betreffend das Bundeswappen und den Bundesadler (BWappenBek)

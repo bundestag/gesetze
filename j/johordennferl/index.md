@@ -2,6 +2,7 @@
 Title: Erlaß über die Genehmigung der Neufassung der Satzung des Johanniterordens
 layout: default
 slug: johordennferl
+
 ---
 
 # Erlaß über die Genehmigung der Neufassung der Satzung des Johanniterordens (JohOrdenNFErl)

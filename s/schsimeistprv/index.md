@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meiste
   Meisterin für Schutz und Sicherheit
 layout: default
 slug: schsimeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit (SchSiMeistPrV)

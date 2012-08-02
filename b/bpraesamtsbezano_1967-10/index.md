@@ -2,6 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
 layout: default
 slug: bpr_samtsbezano_1967-10
+
 ---
 
 # Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung (BPräsAmtsbezAnO 1967-10)

@@ -3,6 +3,7 @@ Title: Verordnung über die Anforderungen an die Zulassung von Klassifizierungsu
   und Klassifizierern für Schlachtkörper von Rindern, Schweinen und Schafen
 layout: default
 slug: flgdv_2
+
 ---
 
 # Verordnung über die Anforderungen an die Zulassung von Klassifizierungsunternehmen und Klassifizierern für Schlachtkörper von Rindern, Schweinen und Schafen (FlGDV 2)

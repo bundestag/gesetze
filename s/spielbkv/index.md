@@ -2,6 +2,7 @@
 Title: Verordnung über öffentliche Spielbanken
 layout: default
 slug: spielbkv
+
 ---
 
 # Verordnung über öffentliche Spielbanken (SpielbkV)

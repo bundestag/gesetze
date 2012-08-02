@@ -2,6 +2,7 @@
 Title: Gesetz über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft
 layout: default
 slug: pazeignprg
+
 ---
 
 # Gesetz über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft (PAZEignPrG)

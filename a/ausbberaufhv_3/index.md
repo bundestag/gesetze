@@ -2,6 +2,7 @@
 Title: Dritte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 layout: default
 slug: ausbberaufhv_3
+
 ---
 
 # Dritte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen (AusbBerAufhV 3)

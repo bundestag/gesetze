@@ -3,6 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   Teil und im fachtheoretischen Teil der Meisterprüfung für das Parkettleger-Handwerk
 layout: default
 slug: parkettlmeistprv
+
 ---
 
 # Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen Teil und im fachtheoretischen Teil der Meisterprüfung für das Parkettleger-Handwerk (ParkettlMeistPrV)

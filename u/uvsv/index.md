@@ -2,9 +2,10 @@
 Verordnung zum Schutz vor schädlichen Wirkungen künstlicher
 ultravioletter Strahlung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: uvsv
+
 ---
 
 #  (UVSV)

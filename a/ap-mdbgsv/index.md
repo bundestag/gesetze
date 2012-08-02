@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildung und Prüfung für den mittleren Polizeivo
   in der Bundespolizei
 layout: default
 slug: ap-mdbgsv
+
 ---
 
 # Verordnung über die Ausbildung und Prüfung für den mittleren Polizeivollzugsdienst in der Bundespolizei (AP-mDBGSV)

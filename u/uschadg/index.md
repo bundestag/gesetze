@@ -2,6 +2,7 @@
 Title: Gesetz über die Vermeidung und Sanierung von Umweltschäden
 layout: default
 slug: uschadg
+
 ---
 
 # Gesetz über die Vermeidung und Sanierung von Umweltschäden (USchadG)

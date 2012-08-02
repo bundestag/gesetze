@@ -4,6 +4,7 @@ Title: Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr�
   und Sozialwesen
 layout: default
 slug: geswfachwprv
+
 ---
 
 # Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr체fter Fachwirt im Gesundheits- und Sozialwesen und Gepr체fte Fachwirtin im Gesundheits- und Sozialwesen (GesWFachwPrV)

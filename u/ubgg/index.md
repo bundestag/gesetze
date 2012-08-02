@@ -2,6 +2,7 @@
 Title: Gesetz über Unternehmensbeteiligungsgesellschaften
 layout: default
 slug: ubgg
+
 ---
 
 # Gesetz über Unternehmensbeteiligungsgesellschaften (UBGG)

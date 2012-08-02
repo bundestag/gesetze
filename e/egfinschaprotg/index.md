@@ -5,6 +5,7 @@ Title: Gesetz zu dem Protokoll vom 29. November 1996 aufgrund von Artikel K.3 de
   den Gerichtshof der Europäischen Gemeinschaften im Wege der Vorabentscheidung
 layout: default
 slug: egfinschaprotg
+
 ---
 
 # Gesetz zu dem Protokoll vom 29. November 1996 aufgrund von Artikel K.3 des Vertrags über die Europäische Union betreffend die Auslegung des Übereinkommens über den Schutz der finanziellen Interessen der Europäischen Gemeinschaften durch den Gerichtshof der Europäischen Gemeinschaften im Wege der Vorabentscheidung (EGFinSchAProtG)

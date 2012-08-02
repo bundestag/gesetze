@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Zuständigkeiten nach dem Lastenausgleich
   auf das Bundesausgleichsamt
 layout: default
 slug: baazustv
+
 ---
 
 # Verordnung zur Übertragung von Zuständigkeiten nach dem Lastenausgleichsgesetz auf das Bundesausgleichsamt (BAAZustV)

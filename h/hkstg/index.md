@@ -2,6 +2,7 @@
 Title: Gesetz über die Heimkehrerstiftung
 layout: default
 slug: hkstg
+
 ---
 
 # Gesetz über die Heimkehrerstiftung (HKStG)

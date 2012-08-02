@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutz der Kulturpflanzen'
+Title: Gesetz zum Schutz der Kulturpflanzen
 layout: default
 slug: pflschg_2012
+
 ---
 
 # Gesetz zum Schutz der Kulturpflanzen (PflSchG 2012)

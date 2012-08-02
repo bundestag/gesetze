@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Schaffung eines nationalen Stipendienprogramms'
+Title: Gesetz zur Schaffung eines nationalen Stipendienprogramms
 layout: default
 slug: stipg
+
 ---
 
 # Gesetz zur Schaffung eines nationalen Stipendienprogramms (StipG)

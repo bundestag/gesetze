@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Herstellung der Rechtseinheit in der gesetzlichen
-  Renten- und Unfallversicherung'
+Title: Gesetz zur Herstellung der Rechtseinheit in der gesetzlichen Renten- und Unfallversicherung
 layout: default
 slug: r_g
+
 ---
 
 # Gesetz zur Herstellung der Rechtseinheit in der gesetzlichen Renten- und Unfallversicherung (RÜG)

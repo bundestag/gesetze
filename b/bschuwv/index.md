@@ -2,6 +2,7 @@
 Title: Verordnung zur Übertragung von Aufgaben nach dem Bundesschuldenwesengesetz
 layout: default
 slug: bschuwv
+
 ---
 
 # Verordnung zur Übertragung von Aufgaben nach dem Bundesschuldenwesengesetz (BSchuWV)

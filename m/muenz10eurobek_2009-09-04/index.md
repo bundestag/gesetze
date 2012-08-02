@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „100. Geburtstag Marion Gräfin Dönhoff“)
 layout: default
 slug: m_nz10eurobek_2009-09-04
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „100. Geburtstag Marion Gräfin Dönhoff“) (Münz10EuroBek 2009-09-04)

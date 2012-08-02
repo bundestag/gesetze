@@ -3,6 +3,7 @@ Title: Gesetz zur Ausführung der Verordnung (EG) Nr. 1435/2003 des Rates vom 22
   2003 über das Statut der Europäischen Genossenschaft (SCE)
 layout: default
 slug: sceag
+
 ---
 
 # Gesetz zur Ausführung der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (SCEAG)

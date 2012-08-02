@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Einkommensteuerreformgesetz
 layout: default
 slug: estrgeg
+
 ---
 
 # Einführungsgesetz zum Einkommensteuerreformgesetz (EStRGEG)

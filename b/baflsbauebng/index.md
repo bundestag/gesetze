@@ -2,6 +2,7 @@
 Title: Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
 layout: default
 slug: baflsba_bng
+
 ---
 
 # Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung (BAFlSBAÜbnG)

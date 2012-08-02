@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Mechaniker und zur
 Mechanikerin für Land- und Baumaschinentechnik
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: landbaumtausbv_2008
+
 ---
 
 #  (LandBauMTAusbV 2008)

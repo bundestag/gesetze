@@ -2,6 +2,7 @@
 Title: Verordnung über die Zentrale Kommission für die Biologische Sicherheit
 layout: default
 slug: zkbsv
+
 ---
 
 # Verordnung über die Zentrale Kommission für die Biologische Sicherheit (ZKBSV)

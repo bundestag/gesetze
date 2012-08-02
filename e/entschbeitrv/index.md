@@ -3,6 +3,7 @@ Title: Verordnung über die Beiträge zur Entschädigungseinrichtung deutscher B
   GmbH
 layout: default
 slug: entschbeitrv
+
 ---
 
 # Verordnung über die Beiträge zur Entschädigungseinrichtung deutscher Banken GmbH (EntschBeitrV)

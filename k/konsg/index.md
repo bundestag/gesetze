@@ -2,6 +2,7 @@
 Title: Gesetz über die Konsularbeamten, ihre Aufgaben und Befugnisse
 layout: default
 slug: konsg
+
 ---
 
 # Gesetz über die Konsularbeamten, ihre Aufgaben und Befugnisse (KonsG)

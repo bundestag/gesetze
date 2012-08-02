@@ -3,6 +3,7 @@ Title: Verordnung über Nachweispflichten der Tierhalter für Arzneimittel, die 
   Anwendung bei Tieren bestimmt sind
 layout: default
 slug: anthv
+
 ---
 
 # Verordnung über Nachweispflichten der Tierhalter für Arzneimittel, die  zur Anwendung bei Tieren bestimmt sind (ANTHV)

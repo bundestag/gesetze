@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kostenverordnung zum Sprengstoffgesetz'
+Title: Kostenverordnung zum Sprengstoffgesetz
 layout: default
 slug: sprengv_4
+
 ---
 
 # Kostenverordnung zum Sprengstoffgesetz (SprengV 4)

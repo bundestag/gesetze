@@ -2,6 +2,7 @@
 Title: Gesetz über die weitere Anwendbarkeit des § 25 des Lebensmittel- und Bedarfsgegenständegesetzes
 layout: default
 slug: lmg1974_25anwg
+
 ---
 
 # Gesetz über die weitere Anwendbarkeit des § 25 des Lebensmittel- und Bedarfsgegenständegesetzes (LMG1974§25AnwG)

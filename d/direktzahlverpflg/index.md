@@ -4,6 +4,7 @@ Title: Gesetz zur Regelung der Einhaltung anderweitiger Verpflichtungen durch La
   Stützungsregelungen
 layout: default
 slug: direktzahlverpflg
+
 ---
 
 # Gesetz zur Regelung der Einhaltung anderweitiger Verpflichtungen durch Landwirte im Rahmen gemeinschaftsrechtlicher Vorschriften über Direktzahlungen und sonstige Stützungsregelungen (DirektZahlVerpflG)

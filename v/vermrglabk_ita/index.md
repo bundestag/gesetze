@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Re
   Zweiten Weltkrieg zusammenhängender Angelegenheiten
 layout: default
 slug: vermrglabk_ita
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik über die Regelung vermögensrechtlicher, wirtschaftlicher und finanzieller, mit dem Zweiten Weltkrieg zusammenhängender Angelegenheiten (VermRglAbk ITA)

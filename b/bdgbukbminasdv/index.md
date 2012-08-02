@@ -4,6 +4,7 @@ Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundes
   für Arbeit und Soziales
 layout: default
 slug: bdgbukbminasdv
+
 ---
 
 # Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im  Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BDGBuKBMinASDV)

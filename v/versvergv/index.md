@@ -3,6 +3,7 @@ Title: Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssys
   im Versicherungsbereich
 layout: default
 slug: versvergv
+
 ---
 
 # Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme im Versicherungsbereich (VersVergV)

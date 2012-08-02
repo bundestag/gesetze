@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wehrpflichtgesetz'
+Title: Wehrpflichtgesetz
 layout: default
 slug: wehrpflg
+
 ---
 
 # Wehrpflichtgesetz (WehrPflG)

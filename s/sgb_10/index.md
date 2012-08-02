@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren
-  und Sozialdatenschutz -'
+Title: Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz
+  -
 layout: default
 slug: sgb_10
+
 ---
 
 # Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz - (SGB 10)

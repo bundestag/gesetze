@@ -3,6 +3,7 @@ Title: Verordnung über das Verfahren vor den Seemannsämtern, das Seefahrtbuch,
   Musterrolle und die Musterung
 layout: default
 slug: seemamtsv_1981
+
 ---
 
 # Verordnung über das Verfahren vor den Seemannsämtern, das Seefahrtbuch, die Musterrolle und die Musterung (SeemAmtsV 1981)

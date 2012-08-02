@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959'
+Title: Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959
 layout: default
 slug: antarktvtrg
+
 ---
 
 # Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959 (AntarktVtrG)

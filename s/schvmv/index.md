@@ -2,6 +2,7 @@
 Title: Verordnung über die Schiffs- und Schiffsbehältervermessung
 layout: default
 slug: schvmv
+
 ---
 
 # Verordnung über die Schiffs- und Schiffsbehältervermessung (SchVmV)

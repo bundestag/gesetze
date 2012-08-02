@@ -2,6 +2,7 @@
 Title: Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
 layout: default
 slug: ihkg
+
 ---
 
 # Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern (IHKG)

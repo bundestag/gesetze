@@ -3,6 +3,7 @@ Title: Viertes Gesetz über die Anpassung der Renten aus den gesetzlichen Renten
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1961
 layout: default
 slug: rag_4
+
 ---
 
 # Viertes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1961 (RAG 4)

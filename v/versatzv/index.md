@@ -2,6 +2,7 @@
 Title: Verordnung über den Versatz von Abfällen unter Tage
 layout: default
 slug: versatzv
+
 ---
 
 # Verordnung über den Versatz von Abfällen unter Tage (VersatzV)

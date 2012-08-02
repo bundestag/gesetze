@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 15. Juni 1964 zwischen der Bundesrepublik Deuts
   und der Republik von Portugal über die Auslieferung und die Rechtshilfe in Strafsachen
 layout: default
 slug: rhivtrprtg
+
 ---
 
 # Gesetz zu dem Vertrag vom 15. Juni 1964 zwischen der Bundesrepublik Deutschland und der Republik von Portugal über die Auslieferung und die Rechtshilfe in Strafsachen (RHiVtrPRTG)

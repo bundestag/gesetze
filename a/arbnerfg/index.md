@@ -2,6 +2,7 @@
 Title: Gesetz über Arbeitnehmererfindungen
 layout: default
 slug: arbnerfg
+
 ---
 
 # Gesetz über Arbeitnehmererfindungen (ArbnErfG)

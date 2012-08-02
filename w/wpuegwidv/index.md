@@ -3,6 +3,7 @@ Title: Verordnung über die Zusammensetzung und das Verfahren des Widerspruchsau
   bei der Bundesanstalt für Finanzdienstleistungsaufsicht
 layout: default
 slug: wp_gwidv
+
 ---
 
 # Verordnung über die Zusammensetzung und das Verfahren des Widerspruchsausschusses bei der Bundesanstalt für Finanzdienstleistungsaufsicht (WpÜGWidV)

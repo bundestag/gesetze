@@ -2,6 +2,7 @@
 Title: Gesetz über das Fahrlehrerwesen
 layout: default
 slug: fahrlg
+
 ---
 
 # Gesetz über das Fahrlehrerwesen (FahrlG)

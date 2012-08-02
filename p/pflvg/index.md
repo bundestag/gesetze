@@ -2,6 +2,7 @@
 Title: Gesetz über die Pflichtversicherung für Kraftfahrzeughalter
 layout: default
 slug: pflvg
+
 ---
 
 # Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (PflVG)

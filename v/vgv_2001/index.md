@@ -2,6 +2,7 @@
 Title: Verordnung über die Vergabe öffentlicher Aufträge
 layout: default
 slug: vgv_2001
+
 ---
 
 # Verordnung über die Vergabe öffentlicher Aufträge (VgV 2001)

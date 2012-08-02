@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reform der agrarsozialen Sicherung'
+Title: Gesetz zur Reform der agrarsozialen Sicherung
 layout: default
 slug: asrg_1995
+
 ---
 
 # Gesetz zur Reform der agrarsozialen Sicherung (ASRG 1995)

@@ -3,6 +3,7 @@ Title: Gesetz über die erweiterte Zulassung von Schadenersatzansprüchen bei Di
   und Arbeitsunfällen
 layout: default
 slug: erwzulg
+
 ---
 
 # Gesetz über die erweiterte Zulassung von Schadenersatzansprüchen bei Dienst- und Arbeitsunfällen (ErwZulG)

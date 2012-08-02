@@ -4,6 +4,7 @@ Title: Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über steuerrec
   von eigenen Aktien an Arbeitnehmer
 layout: default
 slug: kaperhstg_8abs1dv
+
 ---
 
 # Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln und bei Überlassung von eigenen Aktien an Arbeitnehmer (KapErhStG§8Abs1DV)

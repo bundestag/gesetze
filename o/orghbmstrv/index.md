@@ -3,6 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Orgel- und Harmoniumbauer-Handwerk
 layout: default
 slug: orghbmstrv
+
 ---
 
 # Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orgel- und Harmoniumbauer-Handwerk (OrgHbMstrV)

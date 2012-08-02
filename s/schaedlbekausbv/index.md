@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
 layout: default
 slug: sch_dlbekausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin (SchädlBekAusbV)

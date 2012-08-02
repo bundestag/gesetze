@@ -3,6 +3,7 @@ Title: Gesetz über die Anfechtung von Rechtshandlungen eines Schuldners außerh
   des Insolvenzverfahrens
 layout: default
 slug: anfg_1999
+
 ---
 
 # Gesetz über die Anfechtung von Rechtshandlungen eines Schuldners außerhalb des Insolvenzverfahrens (AnfG 1999)

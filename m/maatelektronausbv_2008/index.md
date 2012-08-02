@@ -3,9 +3,10 @@ Verordnung über die Berufsausbildung zum Elektroniker für Maschinen
 und Antriebstechnik und zur Elektronikerin für Maschinen und
 Antriebstechnik
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: maatelektronausbv_2008
+
 ---
 
 #  (MaATElektronAusbV 2008)

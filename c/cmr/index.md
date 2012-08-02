@@ -2,6 +2,7 @@
 Title: Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr
 layout: default
 slug: cmr
+
 ---
 
 # Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)

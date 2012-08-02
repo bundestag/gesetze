@@ -3,6 +3,7 @@ Title: Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausf�
   vom 22. September 1994
 layout: default
 slug: antkostv
+
 ---
 
 # Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994 (AntKostV)

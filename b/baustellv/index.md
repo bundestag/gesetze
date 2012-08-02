@@ -2,6 +2,7 @@
 Title: Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen
 layout: default
 slug: baustellv
+
 ---
 
 # Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen (BaustellV)

@@ -2,6 +2,7 @@
 Title: Gesetz über ein Informationssystem zur Bewertung medizinischer Technologien
 layout: default
 slug: mtinfog
+
 ---
 
 # Gesetz über ein Informationssystem zur Bewertung medizinischer Technologien (MTInfoG)

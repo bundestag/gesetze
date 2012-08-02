@@ -2,6 +2,7 @@
 Title: Verfahrensordnung für Höfesachen
 layout: default
 slug: h_fevfo
+
 ---
 
 # Verfahrensordnung für Höfesachen (HöfeVfO)

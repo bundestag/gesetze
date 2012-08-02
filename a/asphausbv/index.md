@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Asphaltbauer
 layout: default
 slug: asphausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Asphaltbauer (AsphAusbV)

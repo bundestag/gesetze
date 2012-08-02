@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Sicherstellung des Binnenschiffsverkehrs'
+Title: Verordnung zur Sicherstellung des Binnenschiffsverkehrs
 layout: default
 slug: binschsiv
+
 ---
 
 # Verordnung zur Sicherstellung des Binnenschiffsverkehrs (BinSchSiV)

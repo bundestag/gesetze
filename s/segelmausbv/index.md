@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Segelmacher und zur
 Segelmacherin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: segelmausbv
+
 ---
 
 #  (SegelmAusbV)

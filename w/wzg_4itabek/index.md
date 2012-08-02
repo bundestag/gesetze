@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
 layout: default
 slug: wzg_4itabek
+
 ---
 
 # Bekanntmachung zu § 4 des Warenzeichengesetzes (WZG§4ITABek)

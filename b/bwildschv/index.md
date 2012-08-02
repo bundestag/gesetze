@@ -2,6 +2,7 @@
 Title: Verordnung über den Schutz von Wild
 layout: default
 slug: bwildschv
+
 ---
 
 # Verordnung über den Schutz von Wild (BWildSchV)

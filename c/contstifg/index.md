@@ -2,6 +2,7 @@
 Title: Gesetz über die Conterganstiftung für behinderte Menschen
 layout: default
 slug: contstifg
+
 ---
 
 # Gesetz über die Conterganstiftung für behinderte Menschen (ContStifG)

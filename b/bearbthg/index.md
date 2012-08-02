@@ -2,6 +2,7 @@
 Title: Gesetz über den Beruf der Ergotherapeutin und des Ergotherapeuten
 layout: default
 slug: bearbthg
+
 ---
 
 # Gesetz über den Beruf der Ergotherapeutin und des Ergotherapeuten (BeArbThG)

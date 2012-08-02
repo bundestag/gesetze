@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Film- und Videolaboranten/zur F
   und Videolaborantin
 layout: default
 slug: filmvausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Film- und Videolaboranten/zur Film- und Videolaborantin (FilmVAusbV)

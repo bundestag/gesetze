@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung offener Vermögensfragen
 layout: default
 slug: vermg
+
 ---
 
 # Gesetz zur Regelung offener Vermögensfragen (VermG)

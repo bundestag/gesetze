@@ -3,6 +3,7 @@ Title: Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwi
   und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes
 layout: default
 slug: ble_lgkostv
+
 ---
 
 # Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes (BLEÖLGKostV)

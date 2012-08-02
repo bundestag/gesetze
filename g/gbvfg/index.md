@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung der Grundbuchordnung
 layout: default
 slug: gbvfg
+
 ---
 
 # Verordnung zur Durchführung der Grundbuchordnung (GBVfg)

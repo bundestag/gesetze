@@ -4,6 +4,7 @@ Title: Internationales Übereinkommen zur Vereinheitlichung von Regeln über die
   zusammenhängenden Ereignissen
 layout: default
 slug: schzusstrzust_bk
+
 ---
 
 # Internationales Übereinkommen zur Vereinheitlichung von Regeln über die strafgerichtliche Zuständigkeit bei Schiffszusammenstößen und anderen mit der Führung eines Seeschiffes zusammenhängenden Ereignissen (SchZusStrZustÜbk)

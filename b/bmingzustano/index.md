@@ -5,6 +5,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und des Kindergeldes
 layout: default
 slug: bmingzustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchs- und Einspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Gesundheit in Angelegenheiten der Besoldung, des Tarifentgelts und des Kindergeldes (BMinGZustAnO)

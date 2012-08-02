@@ -2,6 +2,7 @@
 Title: Gesetz über die Eisenbahnverkehrsverwaltung des Bundes
 layout: default
 slug: bevvg
+
 ---
 
 # Gesetz über die Eisenbahnverkehrsverwaltung des Bundes (BEVVG)

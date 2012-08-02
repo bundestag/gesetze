@@ -4,6 +4,7 @@ Title: Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Rep
   sowie Gewerbetreibenden begründeten Finanzbeziehungen
 layout: default
 slug: finberg_ddr
+
 ---
 
 # Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen (FinBerG DDR)

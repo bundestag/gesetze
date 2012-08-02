@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung
-  und Zukunft"'
+Title: Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung und Zukunft"
 layout: default
 slug: evzstiftg
+
 ---
 
 # Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung und Zukunft" (EVZStiftG)

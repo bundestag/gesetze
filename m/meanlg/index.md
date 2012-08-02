@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung der Rechtsverhältnisse an Meliorationsanlagen
 layout: default
 slug: meanlg
+
 ---
 
 # Gesetz zur Regelung der Rechtsverhältnisse an Meliorationsanlagen (MeAnlG)

@@ -3,6 +3,7 @@ Title: Ausführungsbestimmungen zum Tarif für die Schifffahrtsabgaben auf der M
   zwischen Thionville (Diedenhofen) und Koblenz (Coblence)
 layout: default
 slug: moselschabgt2002abest
+
 ---
 
 # Ausführungsbestimmungen zum Tarif für die Schifffahrtsabgaben auf der Mosel zwischen Thionville (Diedenhofen) und Koblenz (Coblence) (MoselSchAbgT2002ABest)

@@ -1,9 +1,10 @@
 [^BJNR071400008_01]
 Fleischgesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: flg
+
 ---
 
 #  (FlG)

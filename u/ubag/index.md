@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Umweltbundesamtes
 layout: default
 slug: ubag
+
 ---
 
 # Gesetz über die Errichtung eines Umweltbundesamtes (UBAG)

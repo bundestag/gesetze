@@ -1,9 +1,10 @@
 [^f774780_01_BJNR013900011]
 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: fzv_2011
+
 ---
 
 #  (FZV 2011)

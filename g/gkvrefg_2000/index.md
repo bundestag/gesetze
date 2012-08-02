@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reform der gesetzlichen Krankenversicherung ab
-  dem Jahr 2000'
+Title: Gesetz zur Reform der gesetzlichen Krankenversicherung ab dem Jahr 2000
 layout: default
 slug: gkvrefg_2000
+
 ---
 
 # Gesetz zur Reform der gesetzlichen Krankenversicherung ab dem Jahr 2000 (GKVRefG 2000)

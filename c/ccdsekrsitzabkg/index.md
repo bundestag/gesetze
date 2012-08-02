@@ -5,6 +5,7 @@ Title: Gesetz zu dem Abkommen vom 18. August 1998 zwischen der Regierung der Bun
   des Übereinkommens
 layout: default
 slug: ccdsekrsitzabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 18. August 1998 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung über den Sitz des Ständigen Sekretariats des Übereinkommens (CCDSekrSitzAbkG)

@@ -1,9 +1,10 @@
 ---
-Title: !!python/unicode 'Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von
-  Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds
-  "Finanzmarktstabilisierungsfonds - FMS"'
+Title: Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie
+  Risikopositionen von Unternehmen des Finanzsektors durch den Fonds "Finanzmarktstabilisierungsfonds
+  - FMS"
 layout: default
 slug: fmstbg
+
 ---
 
 # Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds "Finanzmarktstabilisierungsfonds - FMS" (FMStBG)

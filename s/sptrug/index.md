@@ -2,6 +2,7 @@
 Title: Gesetz über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen
 layout: default
 slug: sptrug
+
 ---
 
 # Gesetz über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen (SpTrUG)

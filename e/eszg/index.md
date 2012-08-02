@@ -2,6 +2,7 @@
 Title: Gesetz über eine einmalige Sonderzahlung
 layout: default
 slug: eszg
+
 ---
 
 # Gesetz über eine einmalige Sonderzahlung (ESZG)

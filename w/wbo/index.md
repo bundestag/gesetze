@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wehrbeschwerdeordnung'
+Title: Wehrbeschwerdeordnung
 layout: default
 slug: wbo
+
 ---
 
 # Wehrbeschwerdeordnung (WBO)

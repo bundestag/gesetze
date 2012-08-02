@@ -2,6 +2,7 @@
 Title: Verordnung zum Eignungsübungsgesetz
 layout: default
 slug: e_gv
+
 ---
 
 # Verordnung zum Eignungsübungsgesetz (EÜGV)

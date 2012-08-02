@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Medientechnologen
 Druckverarbeitung und zur Medientechnologin Druckverarbeitung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: druckverarbausbv
+
 ---
 
 #  (DruckverarbAusbV)

@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währung
   Demokratischen Republik
 layout: default
 slug: wwsug
+
 ---
 
 # Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik (WWSUG)

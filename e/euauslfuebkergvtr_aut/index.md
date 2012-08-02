@@ -4,6 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österre
   1957 und die Erleichterung seiner Anwendung
 layout: default
 slug: euauslf_bkergvtr_aut
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 und die Erleichterung seiner Anwendung (EuAuslfÜbkErgVtr AUT)

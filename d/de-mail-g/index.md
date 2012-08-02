@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'De-Mail-Gesetz'
+Title: De-Mail-Gesetz
 layout: default
 slug: de-mail-g
+
 ---
 
 # De-Mail-Gesetz (De-Mail-G)

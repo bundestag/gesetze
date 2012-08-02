@@ -3,6 +3,7 @@ Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversic
   für 1999 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1999
 layout: default
 slug: bsg_1999
+
 ---
 
 # Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für 1999 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1999 (BSG 1999)

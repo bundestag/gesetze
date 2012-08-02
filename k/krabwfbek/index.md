@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen d
   Fonds "Kreditabwicklungsfonds" in das Schuldbuch des Fonds "Kreditabwicklungsfonds"
 layout: default
 slug: krabwfbek
+
 ---
 
 # Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des Fonds "Kreditabwicklungsfonds" in das Schuldbuch des Fonds "Kreditabwicklungsfonds" (KrAbwFBek)

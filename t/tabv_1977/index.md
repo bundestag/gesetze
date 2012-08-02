@@ -2,6 +2,7 @@
 Title: Verordnung über Tabakerzeugnisse
 layout: default
 slug: tabv_1977
+
 ---
 
 # Verordnung über Tabakerzeugnisse (TabV 1977)

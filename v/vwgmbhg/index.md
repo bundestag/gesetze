@@ -3,6 +3,7 @@ Title: Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk 
   mit beschränkter Haftung
 layout: default
 slug: vwgmbhg
+
 ---
 
 # Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung (VWGmbHG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Suchdienstedatenschutzgesetz'
+Title: Suchdienstedatenschutzgesetz
 layout: default
 slug: sddsg
+
 ---
 
 # Suchdienstedatenschutzgesetz (SDDSG)

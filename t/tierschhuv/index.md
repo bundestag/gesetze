@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tierschutz-Hundeverordnung'
+Title: Tierschutz-Hundeverordnung
 layout: default
 slug: tierschhuv
+
 ---
 
 # Tierschutz-Hundeverordnung (TierSchHuV)

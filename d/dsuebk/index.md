@@ -3,6 +3,7 @@ Title: Übereinkommen zum Schutz des Menschen bei der automatischen Verarbeitung
   Daten
 layout: default
 slug: ds_bk
+
 ---
 
 # Übereinkommen zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten (DSÜbk)

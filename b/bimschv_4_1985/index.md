@@ -3,6 +3,7 @@ Title: Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (
   1 d. V zur Neufassung und Änderung von Verordnungen zur Durchführung des Bundes-Immissionsschutzgesetzes)
 layout: default
 slug: bimschv_4_1985
+
 ---
 
 # Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Art. 1 d. V zur Neufassung und Änderung von Verordnungen zur Durchführung des Bundes-Immissionsschutzgesetzes) (BImSchV 4 1985)

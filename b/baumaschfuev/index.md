@@ -2,6 +2,7 @@
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenführer
 layout: default
 slug: baumaschf_v
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenführer (BauMaschFüV)

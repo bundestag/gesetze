@@ -2,6 +2,7 @@
 Title: Erste Verordnung über die Inkraftsetzung von Änderungen der Rheinpatentverordnung
 layout: default
 slug: rheinpatv_ndinkrv_1
+
 ---
 
 # Erste Verordnung über die Inkraftsetzung von Änderungen der Rheinpatentverordnung (RheinPatVÄndInkrV 1)

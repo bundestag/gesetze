@@ -3,6 +3,7 @@ Title: Zweite Durchführungsverordnung zum Bereinigungsgesetz für deutsche Ausl
   (Vereinigte Staaten von Amerika)
 layout: default
 slug: auslwbgdv_2
+
 ---
 
 # Zweite Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigte Staaten von Amerika) (AuslWBGDV 2)

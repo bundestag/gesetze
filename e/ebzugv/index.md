@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eisenbahnunternehmer-Berufszugangsverordnung'
+Title: Eisenbahnunternehmer-Berufszugangsverordnung
 layout: default
 slug: ebzugv
+
 ---
 
 # Eisenbahnunternehmer-Berufszugangsverordnung (EBZugV)

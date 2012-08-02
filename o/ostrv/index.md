@@ -3,6 +3,7 @@ Title: Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch künstli
   Strahlung
 layout: default
 slug: ostrv
+
 ---
 
 # Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch künstliche optische Strahlung (OStrV)

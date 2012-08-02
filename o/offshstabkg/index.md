@@ -5,6 +5,7 @@ Title: Gesetz betreffend das Abkommen zwischen der Bundesrepublik Deutschland un
   der gemeinsamen Verteidigung geleisteten Ausgaben
 layout: default
 slug: offshstabkg
+
 ---
 
 # Gesetz betreffend das Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober 1954 über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben (OffshStAbkG)

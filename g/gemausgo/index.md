@@ -2,6 +2,7 @@
 Title: Geschäftsordnung für den Gemeinsamen Ausschuß
 layout: default
 slug: gemausgo
+
 ---
 
 # Geschäftsordnung für den Gemeinsamen Ausschuß (GemAusGO)

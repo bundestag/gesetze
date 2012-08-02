@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Erstes Gesetz zur Neuordnung von Selbstverwaltung und Eigenverantwortung
-  in der gesetzlichen Krankenversicherung'
+Title: Erstes Gesetz zur Neuordnung von Selbstverwaltung und Eigenverantwortung in
+  der gesetzlichen Krankenversicherung
 layout: default
 slug: gkvnog_1
+
 ---
 
 # Erstes Gesetz zur Neuordnung von Selbstverwaltung und Eigenverantwortung in der gesetzlichen Krankenversicherung (GKVNOG 1)

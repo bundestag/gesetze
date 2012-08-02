@@ -4,6 +4,7 @@ Title: Verordnung zu dem Abkommen vom 21. Februar 1997 zwischen der Regierung de
   Steuerbefreiung von Straßenfahrzeugen im internationalen Verkehr
 layout: default
 slug: stbefrabkletv
+
 ---
 
 # Verordnung zu dem Abkommen vom 21. Februar 1997 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Lettland über die gegenseitige Steuerbefreiung von Straßenfahrzeugen im internationalen Verkehr (StBefrAbkLETV)

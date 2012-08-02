@@ -2,6 +2,7 @@
 Title: Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten
 layout: default
 slug: urhwahrng
+
 ---
 
 # Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten (UrhWahrnG)

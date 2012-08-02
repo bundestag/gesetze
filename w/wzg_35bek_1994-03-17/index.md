@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
 layout: default
 slug: wzg_35bek_1994-03-17
+
 ---
 
 # Bekanntmachung zu § 35 des Warenzeichengesetzes (WZG§35Bek 1994-03-17)

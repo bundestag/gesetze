@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   im internationalen Verkehr
 layout: default
 slug: stbefrabk_let
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Lettland über die gegenseitige Steuerbefreiung von Straßenfahrzeugen im internationalen Verkehr (StBefrAbk LET)

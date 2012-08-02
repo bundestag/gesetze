@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz der Rinder vor einer Infektion mit
-  dem Bovinen Virusdiarrhoe-Virus'
+Title: Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Virusdiarrhoe-Virus
 layout: default
 slug: bvdvv
+
 ---
 
 # Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Virusdiarrhoe-Virus (BVDVV)

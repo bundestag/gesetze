@@ -3,6 +3,7 @@ Title: Verordnung über Sonderzahlungen an Beamtinnen und Beamte bei der Deutsch
   Telekom AG
 layout: default
 slug: telekomszv
+
 ---
 
 # Verordnung über Sonderzahlungen an Beamtinnen und Beamte bei der Deutschen Telekom AG (TelekomSZV)

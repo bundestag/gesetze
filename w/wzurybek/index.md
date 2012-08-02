@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Uruguay
 layout: default
 slug: wzurybek
+
 ---
 
 # Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Uruguay (WZURYBek)

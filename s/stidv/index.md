@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Vergabe steuerlicher Identifikationsnummern'
+Title: Verordnung zur Vergabe steuerlicher Identifikationsnummern
 layout: default
 slug: stidv
+
 ---
 
 # Verordnung zur Vergabe steuerlicher Identifikationsnummern (StIdV)

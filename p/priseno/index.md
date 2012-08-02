@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Prisenordnung'
+Title: Prisenordnung
 layout: default
 slug: priseno
+
 ---
 
 # Prisenordnung (PrisenO)

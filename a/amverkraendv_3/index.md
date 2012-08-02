@@ -4,6 +4,7 @@ Title: Dritte Verordnung zur Änderung der Verordnung über die Zulassung von Ar
   Ausschluß von Arzneimitteln vom Verkehr außerhalb der Apotheken
 layout: default
 slug: amverkr_ndv_3
+
 ---
 
 # Dritte Verordnung zur Änderung der Verordnung über die Zulassung von Arzneimitteln für den Verkehr außerhalb der Apotheken und zur Änderung der Verordnung über den Ausschluß von Arzneimitteln vom Verkehr außerhalb der Apotheken (AMVerkRÄndV 3)

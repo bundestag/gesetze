@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung eines Fonds "Aufbauhilfe"'
+Title: Gesetz zur Errichtung eines Fonds "Aufbauhilfe"
 layout: default
 slug: aufhfg
+
 ---
 
 # Gesetz zur Errichtung eines Fonds "Aufbauhilfe" (AufhFG)

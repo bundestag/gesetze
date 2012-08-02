@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Sozial
   Sozialsekretärin
 layout: default
 slug: sozsekrprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Sozialsekretär/Geprüfte Sozialsekretärin (SozSekrPrV)

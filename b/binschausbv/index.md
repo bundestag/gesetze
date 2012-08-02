@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
 layout: default
 slug: binschausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin (BinSchAusbV)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Beschlag von Hufen und Klauen
 layout: default
 slug: hufbeschlg_2006
+
 ---
 
 # Gesetz über den Beschlag von Hufen und Klauen (HufBeschlG 2006)

@@ -2,6 +2,7 @@
 Title: Achtundvierzigste Verordnung zur Durchführung des § 172 des  Bundesentschädigungsgesetzes
 layout: default
 slug: beg_172dv_48
+
 ---
 
 # Achtundvierzigste Verordnung zur Durchführung des § 172 des  Bundesentschädigungsgesetzes (BEG§172DV 48)

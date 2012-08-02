@@ -4,6 +4,7 @@ Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Zei
   Ausbildungsberufen
 layout: default
 slug: glprzhanauv
+
 ---
 
 # Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Zeichenakademie Hanau mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen (GlPrZHanauV)

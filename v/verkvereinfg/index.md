@@ -2,6 +2,7 @@
 Title: Gesetz über vereinfachte Verkündungen und Bekanntgaben
 layout: default
 slug: verkvereinfg
+
 ---
 
 # Gesetz über vereinfachte Verkündungen und Bekanntgaben (VerkVereinfG)

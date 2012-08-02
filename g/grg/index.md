@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Strukturreform im Gesundheitswesen'
+Title: Gesetz zur Strukturreform im Gesundheitswesen
 layout: default
 slug: grg
+
 ---
 
 # Gesetz zur Strukturreform im Gesundheitswesen (GRG)

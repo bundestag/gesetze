@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen
 layout: default
 slug: arg
+
 ---
 
 # Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen (ARG)

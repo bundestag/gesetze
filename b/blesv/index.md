@@ -2,6 +2,7 @@
 Title: Verordnung über die Satzung der Bundesanstalt für Landwirtschaft und Ernährung
 layout: default
 slug: blesv
+
 ---
 
 # Verordnung über die Satzung der Bundesanstalt für Landwirtschaft und Ernährung (BLESV)

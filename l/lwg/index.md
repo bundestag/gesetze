@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Landwirtschaftsgesetz'
+Title: Landwirtschaftsgesetz
 layout: default
 slug: lwg
+
 ---
 
 # Landwirtschaftsgesetz (LwG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Internationaler Fernmeldevertrag'
+Title: Internationaler Fernmeldevertrag
 layout: default
 slug: fmvtr_1973
+
 ---
 
 # Internationaler Fernmeldevertrag (FMVtr 1973)

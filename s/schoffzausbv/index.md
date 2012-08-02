@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildung und Befähigung von Kapitänen und Schiff
   des nautischen und technischen Schiffsdienstes
 layout: default
 slug: schoffzausbv
+
 ---
 
 # Verordnung über die Ausbildung und Befähigung von Kapitänen und Schiffsoffizieren des nautischen und technischen Schiffsdienstes (SchOffzAusbV)

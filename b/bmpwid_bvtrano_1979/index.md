@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   des Bundesministers für das Post- und Fernmeldewesen
 layout: default
 slug: bmpwid_bvtrano_1979
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministers für das Post- und Fernmeldewesen (BMPWid/BVtrAnO 1979)

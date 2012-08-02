@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Prisengerichtsordnung'
+Title: Prisengerichtsordnung
 layout: default
 slug: prisengo
+
 ---
 
 # Prisengerichtsordnung (PrisenGO)

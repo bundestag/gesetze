@@ -3,6 +3,7 @@ Title: Verordnung über die Verteilung der pauschalen Abgeltung für Aufwendunge
   Krankenkassen für versicherungsfremde Leistungen durch den Bund
 layout: default
 slug: pauschav
+
 ---
 
 # Verordnung über die Verteilung der pauschalen Abgeltung für Aufwendungen der Krankenkassen für versicherungsfremde Leistungen durch den Bund (PauschAV)

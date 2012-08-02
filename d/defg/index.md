@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Fonds "Deutsche Einheit"
 layout: default
 slug: defg
+
 ---
 
 # Gesetz über die Errichtung eines Fonds "Deutsche Einheit" (DEFG)

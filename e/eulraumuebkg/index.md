@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung d
   wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
 layout: default
 slug: eulraum_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume (EuLRaumÜbkG)

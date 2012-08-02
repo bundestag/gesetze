@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Internationalen 
   über den Sitz des Gerichtshofs
 layout: default
 slug: seegersitzabk
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und dem Internationalen Seegerichtshof über den Sitz des Gerichtshofs (SeegerSitzAbk)

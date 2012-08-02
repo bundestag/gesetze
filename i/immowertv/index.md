@@ -2,6 +2,7 @@
 Title: Verordnung über die Grundsätze für die Ermittlung der Verkehrswerte von Grundstücken
 layout: default
 slug: immowertv
+
 ---
 
 # Verordnung über die Grundsätze für die Ermittlung der Verkehrswerte von Grundstücken (ImmoWertV)

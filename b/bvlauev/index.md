@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbrauche
   und Lebensmittelsicherheit
 layout: default
 slug: bvla_v
+
 ---
 
 # Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVLAÜV)

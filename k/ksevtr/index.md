@@ -2,6 +2,7 @@
 Title: Vertrag über Konventionelle Streitkräfte in Europa
 layout: default
 slug: ksevtr
+
 ---
 
 # Vertrag über Konventionelle Streitkräfte in Europa (KSEVtr)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tarifvertragsgesetz'
+Title: Tarifvertragsgesetz
 layout: default
 slug: tvg
+
 ---
 
 # Tarifvertragsgesetz (TVG)

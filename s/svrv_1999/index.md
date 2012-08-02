@@ -3,6 +3,7 @@ Title: Verordnung über den Zahlungsverkehr, die Buchführung und die Rechnungsl
   in der Sozialversicherung
 layout: default
 slug: svrv_1999
+
 ---
 
 # Verordnung über den Zahlungsverkehr, die Buchführung und die Rechnungslegung in der Sozialversicherung (SVRV 1999)

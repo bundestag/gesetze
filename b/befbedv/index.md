@@ -3,6 +3,7 @@ Title: Verordnung über die Allgemeinen Beförderungsbedingungen für den Straß
   und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
 layout: default
 slug: befbedv
+
 ---
 
 # Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen (BefBedV)

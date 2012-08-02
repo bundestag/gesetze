@@ -2,6 +2,7 @@
 Title: Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen
 layout: default
 slug: tarifoaufhv
+
 ---
 
 # Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen (TarifOAufhV)

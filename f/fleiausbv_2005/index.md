@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin
 layout: default
 slug: fleiausbv_2005
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin (FleiAusbV 2005)

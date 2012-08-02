@@ -3,6 +3,7 @@ Title: Verordnung zur Änderung der Ersten Verordnung der britischen Militärreg
   zur Ausführung des Gesetzes Nr. 59
 layout: default
 slug: mrg59dv1_ndv
+
 ---
 
 # Verordnung zur Änderung der Ersten Verordnung der britischen Militärregierung zur Ausführung des Gesetzes Nr. 59 (MRG59DV1ÄndV)

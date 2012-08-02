@@ -2,6 +2,7 @@
 Title: Neunundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_29
+
 ---
 
 # Neunundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 29)

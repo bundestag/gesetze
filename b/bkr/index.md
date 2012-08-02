@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Richtlinien zur Erstellung des Reichsmarkabschlusses und
-  der Umstellungsrechnung der Bausparkassen'
+Title: Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung
+  der Bausparkassen
 layout: default
 slug: bkr
+
 ---
 
 # Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Bausparkassen (BKR)

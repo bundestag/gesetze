@@ -2,6 +2,7 @@
 Title: Verordnung über die Bezeichnung der Art der wirksamen Bestandteile von Fertigarzneimitteln
 layout: default
 slug: ambezv
+
 ---
 
 # Verordnung über die Bezeichnung der Art der wirksamen Bestandteile von Fertigarzneimitteln (AMBezV)

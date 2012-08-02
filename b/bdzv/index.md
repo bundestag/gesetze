@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung eines Zuschlags zu den Dienstbezügen bei
   Dienstfähigkeit
 layout: default
 slug: bdzv
+
 ---
 
 # Verordnung über die Gewährung eines Zuschlags zu den Dienstbezügen bei begrenzter Dienstfähigkeit (BDZV)

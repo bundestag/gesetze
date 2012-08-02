@@ -3,6 +3,7 @@ Title: Protokoll zum Abkommen zwischen der Regierung der Bundesrepublik Deutschl
   und der Regierung der Republik Georgien über die Binnenschiffahrt
 layout: default
 slug: binschabkgeorprot
+
 ---
 
 # Protokoll zum Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt (BinSchAbkGEORProt)

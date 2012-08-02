@@ -2,6 +2,7 @@
 Title: Bergverordnung für alle bergbaulichen Bereiche
 layout: default
 slug: abbergv
+
 ---
 
 # Bergverordnung für alle bergbaulichen Bereiche (ABBergV)

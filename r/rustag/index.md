@@ -2,6 +2,7 @@
 Title: Staatsangehörigkeitsgesetz
 layout: default
 slug: rustag
+
 ---
 
 # Staatsangehörigkeitsgesetz (RuStAG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Ausführung des Geschmacksmustergesetzes
 layout: default
 slug: geschmmv
+
 ---
 
 # Verordnung zur Ausführung des Geschmacksmustergesetzes (GeschmMV)

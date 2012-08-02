@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Internationaler Fernmeldevertrag Nairobi 1982'
+Title: Internationaler Fernmeldevertrag Nairobi 1982
 layout: default
 slug: fmvtr_1982
+
 ---
 
 # Internationaler Fernmeldevertrag Nairobi 1982 (FMVtr 1982)

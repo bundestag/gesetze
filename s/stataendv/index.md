@@ -2,6 +2,7 @@
 Title: Verordnung zur Änderung statistischer Rechtsvorschriften
 layout: default
 slug: stat_ndv
+
 ---
 
 # Verordnung zur Änderung statistischer Rechtsvorschriften (StatÄndV)

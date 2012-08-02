@@ -3,6 +3,7 @@ Title: Gesetz über die Anpassung der Renten der gesetzlichen Rentenversicherung
   der Geldleistungen der gesetzlichen Unfallversicherung im Jahre 1987
 layout: default
 slug: rv_uvrag_1987
+
 ---
 
 # Gesetz über die Anpassung der Renten der gesetzlichen Rentenversicherung und der Geldleistungen der gesetzlichen Unfallversicherung im Jahre 1987 (RV/UVRAG 1987)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Forstvermehrungsgut-Zulassungsverordnung'
+Title: Forstvermehrungsgut-Zulassungsverordnung
 layout: default
 slug: fovzv
+
 ---
 
 # Forstvermehrungsgut-Zulassungsverordnung (FoVZV)

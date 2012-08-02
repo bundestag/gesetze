@@ -3,6 +3,7 @@ Title: Gesetz zu dem Internationalen Freibord-Übereinkommen von 1966 vom 5. Apr
   1966
 layout: default
 slug: frbord_bkg
+
 ---
 
 # Gesetz zu dem Internationalen Freibord-Übereinkommen von 1966 vom 5. April 1966 (FrBordÜbkG)

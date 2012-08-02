@@ -4,6 +4,7 @@ Title: Verordnung über die pauschale Berechnung und die Zahlung der Beiträge z
   Mitgliedschaft bei Wehrdienst oder Zivildienst
 layout: default
 slug: kv_pvpauschbeitrv
+
 ---
 
 # Verordnung über die pauschale Berechnung und die Zahlung der Beiträge zur gesetzlichen Krankenversicherung und zur sozialen Pflegeversicherung für die Dauer einer fortbestehenden Mitgliedschaft bei Wehrdienst oder Zivildienst (KV/PVPauschBeitrV)

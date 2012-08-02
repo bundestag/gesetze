@@ -3,6 +3,7 @@ Title: Neunzehnte Durchführungsverordnung zum Marktstrukturgesetz - Arzneipflan
   und Gewürzpflanzen
 layout: default
 slug: marktstrgdv_19
+
 ---
 
 # Neunzehnte Durchführungsverordnung zum Marktstrukturgesetz - Arzneipflanzen und Gewürzpflanzen (MarktStrGDV 19)

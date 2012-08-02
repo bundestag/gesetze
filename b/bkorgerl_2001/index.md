@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Organisationserlass des Bundeskanzlers'
+Title: Organisationserlass des Bundeskanzlers
 layout: default
 slug: bkorgerl_2001
+
 ---
 
 # Organisationserlass des Bundeskanzlers (BKOrgErl 2001)

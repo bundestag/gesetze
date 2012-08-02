@@ -2,6 +2,7 @@
 Title: Gesetz über die internationale Rechtshilfe in Strafsachen
 layout: default
 slug: irg
+
 ---
 
 # Gesetz über die internationale Rechtshilfe in Strafsachen (IRG)

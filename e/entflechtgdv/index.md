@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Entflechtungsgesetzes
 layout: default
 slug: entflechtgdv
+
 ---
 
 # Verordnung zur Durchführung des Entflechtungsgesetzes (EntflechtGDV)

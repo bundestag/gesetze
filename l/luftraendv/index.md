@@ -3,6 +3,7 @@ Title: Verordnung zur Änderung luftrechtlicher Verordnungen und Durchführungsv
   zur Regelung des Betriebes von Luftsportgeräten
 layout: default
 slug: luftr_ndv
+
 ---
 
 # Verordnung zur Änderung luftrechtlicher Verordnungen und Durchführungsverordnungen zur Regelung des Betriebes von Luftsportgeräten (LuftRÄndV)

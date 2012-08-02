@@ -4,6 +4,7 @@ Title: Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG K
   Eisenbahnen und Straßenbahnen VVaG)
 layout: default
 slug: pkdbsa
+
 ---
 
 # Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG) (PKDBSa)

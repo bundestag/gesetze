@@ -2,6 +2,7 @@
 Title: Solidaritätszuschlaggesetz 1995
 layout: default
 slug: solzg_1995
+
 ---
 
 # Solidaritätszuschlaggesetz 1995 (SolZG 1995)

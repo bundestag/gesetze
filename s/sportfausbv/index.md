@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Sportfachmann/zur Sportfachfrau
 layout: default
 slug: sportfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Sportfachmann/zur Sportfachfrau (SportfAusbV)

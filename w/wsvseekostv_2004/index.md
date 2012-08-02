@@ -3,6 +3,7 @@ Title: Kostenverordnung für Amtshandlungen der Wasser- und Schifffahrtsverwaltu
   des Bundes auf dem Gebiet der Seeschifffahrt
 layout: default
 slug: wsvseekostv_2004
+
 ---
 
 # Kostenverordnung für Amtshandlungen der Wasser- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt (WSVSeeKostV 2004)

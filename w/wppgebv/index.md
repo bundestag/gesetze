@@ -2,6 +2,7 @@
 Title: Verordnung über die Erhebung von Gebühren nach dem Wertpapierprospektgesetz
 layout: default
 slug: wppgebv
+
 ---
 
 # Verordnung über die Erhebung von Gebühren nach dem Wertpapierprospektgesetz (WpPGebV)

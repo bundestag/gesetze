@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Dritte Wahlordnung zum Mitbestimmungsgesetz'
+Title: Dritte Wahlordnung zum Mitbestimmungsgesetz
 layout: default
 slug: mitbestgwo_3_2002
+
 ---
 
 # Dritte Wahlordnung zum Mitbestimmungsgesetz (MitbestGWO 3 2002)

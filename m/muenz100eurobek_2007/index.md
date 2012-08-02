@@ -4,6 +4,7 @@ Title: über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10
   (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
 layout: default
 slug: m_nz100eurobek_2007
+
 ---
 
 # über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck") (Münz100EuroBek 2007)

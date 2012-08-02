@@ -2,6 +2,7 @@
 Title: Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten
 layout: default
 slug: heizkostenv
+
 ---
 
 # Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten (HeizkostenV)

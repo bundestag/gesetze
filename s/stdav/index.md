@@ -2,6 +2,7 @@
 Title: Verordnung über den automatisierten Abruf von Steuerdaten
 layout: default
 slug: stdav
+
 ---
 
 # Verordnung über den automatisierten Abruf von Steuerdaten (StDAV)

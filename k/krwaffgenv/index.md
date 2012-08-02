@@ -3,6 +3,7 @@ Title: Verordnung über Allgemeine Genehmigungen nach dem Gesetz über die Kontr
   von Kriegswaffen
 layout: default
 slug: krwaffgenv
+
 ---
 
 # Verordnung über Allgemeine Genehmigungen nach dem Gesetz über die Kontrolle von Kriegswaffen (KrWaffGenV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landsc
   von zentraler Bedeutung "Biosphärenreservat Mittlere Elbe"
 layout: default
 slug: natsgmelbev
+
 ---
 
 # Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung "Biosphärenreservat Mittlere Elbe" (NatSGmElbeV)

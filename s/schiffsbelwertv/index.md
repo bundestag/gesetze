@@ -3,6 +3,7 @@ Title: Verordnung über die Ermittlung der Beleihungswerte von Schiffen und Schi
   nach § 24 Abs. 1 bis 3 des Pfandbriefgesetzes
 layout: default
 slug: schiffsbelwertv
+
 ---
 
 # Verordnung über die Ermittlung der Beleihungswerte von Schiffen und Schiffsbauwerken nach § 24 Abs. 1 bis 3 des Pfandbriefgesetzes (SchiffsBelWertV)

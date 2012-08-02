@@ -2,6 +2,7 @@
 Title: Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer
 layout: default
 slug: sichlvfinv
+
 ---
 
 # Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer (SichLVFinV)

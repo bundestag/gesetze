@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kasachs
   vom Vermögen
 layout: default
 slug: dba_kaz
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kasachstan zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (DBA KAZ)

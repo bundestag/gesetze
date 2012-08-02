@@ -2,6 +2,7 @@
 Title: Gesetz über Bausparkassen
 layout: default
 slug: bausparkg
+
 ---
 
 # Gesetz über Bausparkassen (BauSparkG)

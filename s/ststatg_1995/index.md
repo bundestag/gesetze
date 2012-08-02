@@ -2,6 +2,7 @@
 Title: Gesetz über Steuerstatistiken
 layout: default
 slug: ststatg_1995
+
 ---
 
 # Gesetz über Steuerstatistiken (StStatG 1995)

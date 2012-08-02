@@ -2,6 +2,7 @@
 Title: Gesetz über das Wohnungseigentum und das Dauerwohnrecht
 layout: default
 slug: woeigg
+
 ---
 
 # Gesetz über das Wohnungseigentum und das Dauerwohnrecht (WoEigG)

@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Musikfachhändler/zur
 Musikfachhändlerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: musikfachhausbv
+
 ---
 
 #  (MusikfachhAusbV)

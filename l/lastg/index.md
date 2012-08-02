@@ -3,6 +3,7 @@ Title: Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von  
   oder völkerrechtlichen Verpflichtungen
 layout: default
 slug: lastg
+
 ---
 
 # Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von  supranationalen oder völkerrechtlichen Verpflichtungen (LastG)

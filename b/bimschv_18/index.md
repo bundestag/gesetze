@@ -2,6 +2,7 @@
 Title: Achtzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_18
+
 ---
 
 # Achtzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 18)

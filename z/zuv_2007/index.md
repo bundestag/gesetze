@@ -3,6 +3,7 @@ Title: Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen i
   Zuteilungsperiode 2005 bis 2007
 layout: default
 slug: zuv_2007
+
 ---
 
 # Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2005 bis 2007 (ZuV 2007)

@@ -4,6 +4,7 @@ Title: Anordnung zur Änderung der Allgemeinen Anordnung über die Übertragung 
   Bundesministeriums der Verteidigung
 layout: default
 slug: wbozustano_ndano
+
 ---
 
 # Anordnung zur Änderung der Allgemeinen Anordnung über die Übertragung von Zuständigkeiten zur Entscheidung über Beschwerden nach der Wehrbeschwerdeordnung im Bereich des Bundesministeriums der Verteidigung (WBOZustAnOÄndAnO)

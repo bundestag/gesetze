@@ -3,6 +3,7 @@ Title: Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidig
   einschließlich des Schutzes der Zivilbevölkerung
 layout: default
 slug: asg
+
 ---
 
 # Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung (ASG)

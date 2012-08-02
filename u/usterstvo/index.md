@@ -3,6 +3,7 @@ Title: Verordnung über die Erstattung von Umsatzsteuer an ausländische ständi
   Missionen und berufskonsularische Vertretungen sowie an ihre ausländischen Mitglieder
 layout: default
 slug: usterstvo
+
 ---
 
 # Verordnung über die Erstattung von Umsatzsteuer an ausländische ständige diplomatische Missionen und berufskonsularische Vertretungen sowie an ihre ausländischen Mitglieder (UStErstVO)

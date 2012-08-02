@@ -3,6 +3,7 @@ Title: Verordnung über das Ruhen von Entgeltersatzleistungen nach dem Dritten B
   Sozialgesetzbuch bei Zusammentreffen mit Versorgungsleistungen der Sonderversorgungssysteme
 layout: default
 slug: sgb3entgruhv
+
 ---
 
 # Verordnung über das Ruhen von Entgeltersatzleistungen nach dem Dritten Buch Sozialgesetzbuch bei Zusammentreffen mit Versorgungsleistungen der Sonderversorgungssysteme (SGB3EntGRuhV)

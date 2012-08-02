@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Leibniz-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1967-02
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Leibniz-Gedenkmünze) (Münz5DMBek 1967-02)

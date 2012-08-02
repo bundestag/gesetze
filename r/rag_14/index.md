@@ -3,6 +3,7 @@ Title: Vierzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Re
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_14
+
 ---
 
 # Vierzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 14)

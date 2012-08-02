@@ -4,6 +4,7 @@ Title: Zweihundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Or
   Verkehrslandeplatz Lahr)
 layout: default
 slug: luftvodv_228
+
 ---
 
 # Zweihundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Lahr) (LuftVODV 228)

@@ -2,6 +2,7 @@
 Title: Wahlordnung für die Präsidien der Gerichte
 layout: default
 slug: gerpr_swo
+
 ---
 
 # Wahlordnung für die Präsidien der Gerichte (GerPräsWO)

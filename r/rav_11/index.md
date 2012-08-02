@@ -4,6 +4,7 @@ Title: Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigu
   für 1996
 layout: default
 slug: rav_11
+
 ---
 
 # Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996 (RAV 11)

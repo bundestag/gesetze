@@ -3,6 +3,7 @@ Title: Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät 
   und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)
 layout: default
 slug: luftbodv_4
+
 ---
 
 # Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb von Heißluftballonen und Heißluft-Luftschiffen) (LuftBODV 4)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "EXPO 2000")
 layout: default
 slug: m_nz10dmbek_1999-11-23
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze "EXPO 2000") (Münz10DMBek 1999-11-23)

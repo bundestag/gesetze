@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Jugendschutzgesetzes
 layout: default
 slug: juschgdv
+
 ---
 
 # Verordnung zur Durchführung des Jugendschutzgesetzes (JuSchGDV)

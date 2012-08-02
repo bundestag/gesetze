@@ -2,6 +2,7 @@
 Title: Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz
 layout: default
 slug: h_rtev
+
 ---
 
 # Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz (HärteV)

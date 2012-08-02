@@ -2,9 +2,10 @@ Technische Mindestvorschriften für Schiffe auf dem Rhein und auf
 Binnenwasserstraßen der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein
 Schiffsattest beantragen
 ---
-Title: !!python/unicode '(Anhang II zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang II zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_ii
+
 ---
 
 # (Anhang II zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh II)

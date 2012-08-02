@@ -2,6 +2,7 @@
 Title: Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen
 layout: default
 slug: gfg
+
 ---
 
 # Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen (GFG)

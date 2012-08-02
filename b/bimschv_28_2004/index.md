@@ -3,6 +3,7 @@ Title: Achtundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschut
   (Verordnung über Emissionsgrenzwerte für Verbrennungsmotoren)
 layout: default
 slug: bimschv_28_2004
+
 ---
 
 # Achtundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionsgrenzwerte für Verbrennungsmotoren) (BImSchV 28 2004)

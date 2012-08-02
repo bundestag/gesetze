@@ -3,6 +3,7 @@ Title: Anordnung über die Wahrnehmung von Aufgaben durch das Bundesamt bei der 
   anerkannter Kriegsdienstverweigerer, die sich der Zivildienstüberwachung entziehen
 layout: default
 slug: bvwakdverwano
+
 ---
 
 # Anordnung über die Wahrnehmung von Aufgaben durch das Bundesamt bei der Ermittlung anerkannter Kriegsdienstverweigerer, die sich der Zivildienstüberwachung entziehen (BVwAKDVerwAnO)

@@ -4,6 +4,7 @@ Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jub
   und Kriegsgeschädigte
 layout: default
 slug: bmfl_jubano
+
 ---
 
 # Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministeriums für Vertriebene, Flüchtlinge und Kriegsgeschädigte (BMFlüJubAnO)

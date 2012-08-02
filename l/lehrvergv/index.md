@@ -2,6 +2,7 @@
 Title: Verordnung über die Gewährung einer Unterrichtsvergütung für Lehramtsanwärter
 layout: default
 slug: lehrvergv
+
 ---
 
 # Verordnung über die Gewährung einer Unterrichtsvergütung für Lehramtsanwärter (LehrVergV)

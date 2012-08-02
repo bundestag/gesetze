@@ -3,6 +3,7 @@ Title: Verordnung zur Ausführung des Gesetzes über die Durchforschung des Reic
   nach nutzbaren Lagerstätten
 layout: default
 slug: lagerstgdv
+
 ---
 
 # Verordnung zur Ausführung des Gesetzes über die Durchforschung des Reichsgebietes nach nutzbaren Lagerstätten (LagerstGDV)

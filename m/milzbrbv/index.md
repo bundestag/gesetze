@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen den Milzbrand und den Rauschbrand'
+Title: Verordnung zum Schutz gegen den Milzbrand und den Rauschbrand
 layout: default
 slug: milzbrbv
+
 ---
 
 # Verordnung zum Schutz gegen den Milzbrand und den Rauschbrand (MilzbRbV)

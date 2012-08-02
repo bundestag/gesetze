@@ -2,9 +2,10 @@
 Verordnung über das Verbot des Befahrens der Neustädter Bucht mit
 bestimmten Fahrzeugen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: neust_dterbuchtfzgv
+
 ---
 
 #  (NeustädterBuchtFzgV)

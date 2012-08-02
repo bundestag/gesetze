@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Dekorvorlagenhersteller/zur Dekorvorlagenherstellerin
 layout: default
 slug: dekoausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Dekorvorlagenhersteller/zur Dekorvorlagenherstellerin (DekoAusbV)

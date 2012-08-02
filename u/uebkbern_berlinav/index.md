@@ -3,6 +3,7 @@ Title: Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschloss
   revidierten Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst
 layout: default
 slug: _bkbern_berlinav
+
 ---
 
 # Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen revidierten Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst (ÜbkBern/BerlinAV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Revierjäger/Revierjägerin
 layout: default
 slug: revierjmeistprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Revierjäger/Revierjägerin (RevierjMeistPrV)

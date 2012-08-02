@@ -4,6 +4,7 @@ Title: Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreck
   für Kohle und Stahl
 layout: default
 slug: vollstrklzustegksbek
+
 ---
 
 # Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel zu Entscheidungen der Hohen Behörde und des Gerichtshofes der Europäischen Gemeinschaft für Kohle und Stahl (VollstrKlZustEGKSBek)

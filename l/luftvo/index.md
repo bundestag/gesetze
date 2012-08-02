@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Luftverkehrs-Ordnung'
+Title: Luftverkehrs-Ordnung
 layout: default
 slug: luftvo
+
 ---
 
 # Luftverkehrs-Ordnung (LuftVO)

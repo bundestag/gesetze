@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Aussetzung der statistischen Erhebungen im
-  Bereich der Filmwirtschaft'
+Title: Verordnung zur Aussetzung der statistischen Erhebungen im Bereich der Filmwirtschaft
 layout: default
 slug: fwistatv
+
 ---
 
 # Verordnung zur Aussetzung der statistischen Erhebungen im Bereich der Filmwirtschaft (FWiStatV)

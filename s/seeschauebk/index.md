@@ -3,6 +3,7 @@ Title: Internationales Übereinkommen zur Vereinheitlichung von Regeln über den
   in Seeschiffe
 layout: default
 slug: seescha_bk
+
 ---
 
 # Internationales Übereinkommen zur Vereinheitlichung von Regeln über den Arrest in Seeschiffe (SeeSchAÜbk)

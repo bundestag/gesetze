@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Nordatlantikvertrag'
+Title: Nordatlantikvertrag
 layout: default
 slug: natovtr
+
 ---
 
 # Nordatlantikvertrag (NATOVtr)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Moselschiffahrtspolizeiverordnung'
+Title: Moselschiffahrtspolizeiverordnung
 layout: default
 slug: moselschpv_1997
+
 ---
 
 # Moselschiffahrtspolizeiverordnung (MoselSchPV 1997)

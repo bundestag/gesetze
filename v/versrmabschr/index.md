@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Richtlinien zur Erstellung des Reichsmarkabschlusses und
-  der Umstellungsrechnung der Versicherungsunternehmer'
+Title: Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung
+  der Versicherungsunternehmer
 layout: default
 slug: versrmabschr
+
 ---
 
 # Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Versicherungsunternehmer (VersRMAbschR)

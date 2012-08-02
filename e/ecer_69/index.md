@@ -5,6 +5,7 @@ Title: ECE-Regelung Nr. 69 (Anlageband zur Verordnung über die Inkraftsetzung d
   ihrer Anhänger
 layout: default
 slug: ecer_69
+
 ---
 
 # ECE-Regelung Nr. 69 (Anlageband zur Verordnung über die Inkraftsetzung der ECE-Regelung Nr. 69) über einheitliche Bedingungen für die Genehmigung von Tafeln zur hinteren Kennzeichnung von bauartbedingt langsamfahrenden Kraftfahrzeugen und ihrer Anhänger (ECER 69)

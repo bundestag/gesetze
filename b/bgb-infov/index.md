@@ -2,6 +2,7 @@
 Title: Verordnung über Informations- und Nachweispflichten nach bürgerlichem Recht
 layout: default
 slug: bgb-infov
+
 ---
 
 # Verordnung über Informations- und Nachweispflichten nach bürgerlichem Recht (BGB-InfoV)

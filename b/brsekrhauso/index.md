@@ -2,6 +2,7 @@
 Title: Hausordnung für das Sekretariat des Bundesrates
 layout: default
 slug: brsekrhauso
+
 ---
 
 # Hausordnung für das Sekretariat des Bundesrates (BRSekrHausO)

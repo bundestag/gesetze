@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Kooperation und Information im Kinderschutz'
+Title: Gesetz zur Kooperation und Information im Kinderschutz
 layout: default
 slug: kkg
+
 ---
 
 # Gesetz zur Kooperation und Information im Kinderschutz (KKG)

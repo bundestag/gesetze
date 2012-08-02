@@ -5,6 +5,7 @@ Title: Erste Verordnung zur Regelung der Besoldung, der Reisekosten, der Umzugsk
   weiterverwendet werden
 layout: default
 slug: bezanp_v_1
+
 ---
 
 # Erste Verordnung zur Regelung der Besoldung, der Reisekosten, der Umzugskosten und des Trennungsgeldes für Soldaten auf Zeit und Berufssoldaten der ehemaligen Nationalen Volksarmee, die nach dem Einigungsvertrag als Soldaten der Bundeswehr weiterverwendet werden (BezAnpÜV 1)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Zusammenlegung des Bundesamtes für Wirtschaft mit dem Bundesausfuhramt
 layout: default
 slug: baw_bafag
+
 ---
 
 # Gesetz über die Zusammenlegung des Bundesamtes für Wirtschaft mit dem Bundesausfuhramt (BAW/BAFAG)

@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigke
   für den Bereich der Deutschen Telekom AG
 layout: default
 slug: dtag_bertrano
+
 ---
 
 # Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten für den Bereich der Deutschen Telekom AG (DTAGÜbertrAnO)

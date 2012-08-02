@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen
-  in Argentinien'
+Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Argentinien
 layout: default
 slug: wzargbek
+
 ---
 
 # Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Argentinien (WZARGBek)

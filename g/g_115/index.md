@@ -2,6 +2,7 @@
 Title: Gesetz zur Ausführung von Artikel 115 des Grundgesetzes
 layout: default
 slug: g_115
+
 ---
 
 # Gesetz zur Ausführung von Artikel 115 des Grundgesetzes (G 115)

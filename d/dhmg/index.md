@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“
 layout: default
 slug: dhmg
+
 ---
 
 # Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“ (DHMG)

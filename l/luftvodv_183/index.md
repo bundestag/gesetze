@@ -4,6 +4,7 @@ Title: Hundertdreiundachzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   Zweibrücken)
 layout: default
 slug: luftvodv_183
+
 ---
 
 # Hundertdreiundachzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Zweibrücken) (LuftVODV 183)

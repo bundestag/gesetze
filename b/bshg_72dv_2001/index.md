@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung der Hilfe zur Überwindung besonderer sozialer Schwierigkeiten
 layout: default
 slug: bshg_72dv_2001
+
 ---
 
 # Verordnung zur Durchführung der Hilfe zur Überwindung besonderer sozialer Schwierigkeiten (BSHG§72DV 2001)

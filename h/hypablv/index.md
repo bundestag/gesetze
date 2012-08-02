@@ -3,6 +3,7 @@ Title: Verordnung über die Ablösung früherer Rechte und andere vermögensrech
   Fragen
 layout: default
 slug: hypablv
+
 ---
 
 # Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche Fragen (HypAblV)

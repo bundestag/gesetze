@@ -2,6 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen
 layout: default
 slug: bpr_samtsbezano_1971-02
+
 ---
 
 # Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen (BPräsAmtsbezAnO 1971-02)

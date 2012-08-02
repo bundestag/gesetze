@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "Albert Einstein - 100 Jahre Relativität, Atome, Quanten")
 layout: default
 slug: m_nz10eurobek_2005-05
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "Albert Einstein - 100 Jahre Relativität, Atome, Quanten") (Münz10EuroBek 2005-05)

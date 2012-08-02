@@ -4,6 +4,7 @@ Title: Zweihunderteinundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ord
   Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland)
 layout: default
 slug: luftvodv_221
+
 ---
 
 # Zweihunderteinundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Meldepunkten, Streckenführungen und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) (LuftVODV 221)

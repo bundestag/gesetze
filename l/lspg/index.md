@@ -4,6 +4,7 @@ Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft od
   und Lebensmitteln
 layout: default
 slug: lspg
+
 ---
 
 # Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über Bescheinigungen besonderer Merkmale von Agrarerzeugnissen und Lebensmitteln (LSpG)

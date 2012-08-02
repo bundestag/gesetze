@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung der Gentechnik'
+Title: Gesetz zur Regelung der Gentechnik
 layout: default
 slug: gentg
+
 ---
 
 # Gesetz zur Regelung der Gentechnik (GenTG)

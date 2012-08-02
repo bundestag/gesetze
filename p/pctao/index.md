@@ -3,6 +3,7 @@ Title: Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit a
   Gebiet des Patentwesens
 layout: default
 slug: pctao
+
 ---
 
 # Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens (PCTAO)

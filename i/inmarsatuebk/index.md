@@ -2,6 +2,7 @@
 Title: Übereinkommen über die Internationale Seefunksatelliten-Organisation
 layout: default
 slug: inmarsat_bk
+
 ---
 
 # Übereinkommen über die Internationale Seefunksatelliten-Organisation (INMARSATÜbk)

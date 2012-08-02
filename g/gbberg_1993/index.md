@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Grundbuchbereinigungsgesetz'
+Title: Grundbuchbereinigungsgesetz
 layout: default
 slug: gbberg_1993
+
 ---
 
 # Grundbuchbereinigungsgesetz (GBBerG 1993)

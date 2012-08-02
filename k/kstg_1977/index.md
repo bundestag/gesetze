@@ -2,6 +2,7 @@
 Title: Körperschaftsteuergesetz
 layout: default
 slug: kstg_1977
+
 ---
 
 # Körperschaftsteuergesetz (KStG 1977)

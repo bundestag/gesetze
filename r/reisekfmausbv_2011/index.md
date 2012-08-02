@@ -3,9 +3,10 @@ Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann
 für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau
 für Privat- und Geschäftsreisen)
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: reisekfmausbv_2011
+
 ---
 
 #  (ReiseKfmAusbV 2011)

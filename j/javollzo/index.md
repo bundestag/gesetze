@@ -2,6 +2,7 @@
 Title: Verordnung über den Vollzug des Jugendarrestes
 layout: default
 slug: javollzo
+
 ---
 
 # Verordnung über den Vollzug des Jugendarrestes (JAVollzO)

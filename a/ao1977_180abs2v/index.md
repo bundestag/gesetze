@@ -3,6 +3,7 @@ Title: Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen n
   § 180 Abs. 2 der Abgabenordnung
 layout: default
 slug: ao1977_180abs2v
+
 ---
 
 # Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung (AO1977§180Abs2V)

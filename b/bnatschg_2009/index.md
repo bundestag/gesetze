@@ -2,6 +2,7 @@
 Title: Gesetz über Naturschutz und Landschaftspflege
 layout: default
 slug: bnatschg_2009
+
 ---
 
 # Gesetz über Naturschutz und Landschaftspflege (BNatSchG 2009)

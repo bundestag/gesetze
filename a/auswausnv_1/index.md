@@ -2,6 +2,7 @@
 Title: Erste Verordnung über Ausnahmen von dem Verbot der auslandsunterstützten Auswanderung
 layout: default
 slug: auswausnv_1
+
 ---
 
 # Erste Verordnung über Ausnahmen von dem Verbot der auslandsunterstützten Auswanderung (AuswAusnV 1)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Saatgutverkehrsgesetz \*)'
+Title: Saatgutverkehrsgesetz \*)
 layout: default
 slug: saatverkg_1985
+
 ---
 
 # Saatgutverkehrsgesetz \*) (SaatVerkG 1985)

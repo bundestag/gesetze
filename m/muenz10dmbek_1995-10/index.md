@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 800. Todestag Heinrichs des Löwen)
 layout: default
 slug: m_nz10dmbek_1995-10
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 800. Todestag Heinrichs des Löwen) (Münz10DMBek 1995-10)

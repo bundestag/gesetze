@@ -4,6 +4,7 @@ Title: Hundertsechsundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordn
   Flughafen Parchim-Mecklenburg)
 layout: default
 slug: luftvodv_156
+
 ---
 
 # Hundertsechsundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Parchim-Mecklenburg) (LuftVODV 156)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Kriegsopferfürsorge
 layout: default
 slug: kf_rsv
+
 ---
 
 # Verordnung zur Kriegsopferfürsorge (KFürsV)

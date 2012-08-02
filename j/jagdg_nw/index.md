@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Landesjagdgesetz Nordrhein-Westfalen'
+Title: Landesjagdgesetz Nordrhein-Westfalen
 layout: default
 slug: jagdg_nw
+
 ---
 
 # Landesjagdgesetz Nordrhein-Westfalen (JagdG NW)

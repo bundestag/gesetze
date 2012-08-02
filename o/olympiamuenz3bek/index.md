@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 1
   Mark (3. Motiv der Olympia-Münze - Ausgabe 1971)
 layout: default
 slug: olympiam_nz3bek
+
 ---
 
 # Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (3. Motiv der Olympia-Münze - Ausgabe 1971) (OlympiaMünz3Bek)

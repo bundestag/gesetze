@@ -4,6 +4,7 @@ Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundge
   für Seehäfen
 layout: default
 slug: bfinhbruag
+
 ---
 
 # Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes an die Länder Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen sowie Schleswig-Holstein für Seehäfen (BFinHBRuaG)

@@ -3,6 +3,7 @@ Title: Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaa
   Strafverfolgungsmaßnahmen im Beitrittsgebiet
 layout: default
 slug: strrehag
+
 ---
 
 # Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet (StrRehaG)

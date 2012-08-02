@@ -3,6 +3,7 @@ Title: Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermög
   das Rechnungsjahr 1969
 layout: default
 slug: erpwiplang_1969
+
 ---
 
 # Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermögens für das Rechnungsjahr 1969 (ERPWiPlanG 1969)

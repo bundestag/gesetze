@@ -1,9 +1,10 @@
 [^F771564_01_BJNR231510008]
 Fischseuchenverordnung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: fischseuchv_2008
+
 ---
 
 #  (FischSeuchV 2008)

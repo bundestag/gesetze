@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen
-  Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2009'
+Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung
+  und in der Alterssicherung der Landwirte zum 1. Juli 2009
 layout: default
 slug: rwbestv_2009
+
 ---
 
 # Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2009 (RWBestV 2009)

@@ -3,6 +3,7 @@ Title: Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung be
   und Ziegen
 layout: default
 slug: schaf_ziegezlpv
+
 ---
 
 # Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schafen und Ziegen (Schaf/ZiegeZLpV)

@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur Durchführung des Sprecherausschußgesetzes
 layout: default
 slug: wospraug
+
 ---
 
 # Erste Verordnung zur Durchführung des Sprecherausschußgesetzes (WOSprAuG)

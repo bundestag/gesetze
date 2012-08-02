@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche
-  Institute im Ausland, Bonn'
+Title: Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute
+  im Ausland, Bonn
 layout: default
 slug: geistwstiftg
+
 ---
 
 # Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn (GeistwStiftG)

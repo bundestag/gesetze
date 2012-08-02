@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik von Port
   über die Auslieferung und die Rechtshilfe in Strafsachen
 layout: default
 slug: rhivtr_prt
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und der Republik von Portugal über die Auslieferung und die Rechtshilfe in Strafsachen (RHiVtr PRT)

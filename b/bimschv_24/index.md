@@ -2,6 +2,7 @@
 Title: Vierundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_24
+
 ---
 
 # Vierundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 24)

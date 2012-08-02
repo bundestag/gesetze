@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Europäischen Übereinkommens vom 24. November
   in Verwaltungssachen im Ausland
 layout: default
 slug: euauslvwz_ausk_bkag
+
 ---
 
 # Gesetz zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland und des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland (EuAuslVwZ/AuskÜbkAG)

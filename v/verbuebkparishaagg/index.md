@@ -3,6 +3,7 @@ Title: Gesetz über die am 6. November 1925 im Haag revidierte Pariser Verbands�
   zum Schutz des gewerblichen Eigentums
 layout: default
 slug: verb_bkparishaagg
+
 ---
 
 # Gesetz über die am 6. November 1925 im Haag revidierte Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums (VerbÜbkParisHaagG)

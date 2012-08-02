@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Umsetzung aufsichtsrechtlicher Bestimmungen zur
-  Sanierung und Liquidation von Versicherungsunternehmen und Kreditinstituten'
+Title: Gesetz zur Umsetzung aufsichtsrechtlicher Bestimmungen zur Sanierung und Liquidation
+  von Versicherungsunternehmen und Kreditinstituten
 layout: default
 slug: kredsang
+
 ---
 
 # Gesetz zur Umsetzung aufsichtsrechtlicher Bestimmungen zur Sanierung und Liquidation von Versicherungsunternehmen und Kreditinstituten (KredSanG)

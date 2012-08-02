@@ -3,6 +3,7 @@ Title: Gesetz über die Wahl der Vertreter der Bundesrepublik Deutschland zur Pa
   Versammlung des Europarates
 layout: default
 slug: euratwahlg_1990
+
 ---
 
 # Gesetz über die Wahl der Vertreter der Bundesrepublik Deutschland zur Parlamentarischen Versammlung des Europarates (EuRatWahlG 1990)

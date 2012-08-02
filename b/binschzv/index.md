@@ -4,6 +4,7 @@ Title: Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung üb
   Binnenschiffsgüterverkehr)
 layout: default
 slug: binschzv
+
 ---
 
 # Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr) (BinSchZV)

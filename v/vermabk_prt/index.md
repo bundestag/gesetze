@@ -2,6 +2,7 @@
 Title: Abkommen über deutsche Vermögenswerte in Portugal
 layout: default
 slug: vermabk_prt
+
 ---
 
 # Abkommen über deutsche Vermögenswerte in Portugal (VermAbk PRT)

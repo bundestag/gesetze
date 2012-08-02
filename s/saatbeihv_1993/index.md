@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Saatgutbeihilfeverordnung'
+Title: Saatgutbeihilfeverordnung
 layout: default
 slug: saatbeihv_1993
+
 ---
 
 # Saatgutbeihilfeverordnung (SaatBeihV 1993)

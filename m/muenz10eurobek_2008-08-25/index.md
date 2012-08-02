@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „Himmelsscheibe von Nebra“)
 layout: default
 slug: m_nz10eurobek_2008-08-25
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Himmelsscheibe von Nebra“) (Münz10EuroBek 2008-08-25)

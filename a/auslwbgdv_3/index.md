@@ -3,6 +3,7 @@ Title: Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Ausl
   (Vereinigtes Königreich von Großbritannien und Nordirland)
 layout: default
 slug: auslwbgdv_3
+
 ---
 
 # Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigtes Königreich von Großbritannien und Nordirland) (AuslWBGDV 3)

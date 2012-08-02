@@ -3,6 +3,7 @@ Title: Kostenverordnung für Nutzleistungen der Bundesanstalt für Materialforsc
   und -prüfung
 layout: default
 slug: bamkosto
+
 ---
 
 # Kostenverordnung für Nutzleistungen der Bundesanstalt für Materialforschung und -prüfung (BAMKostO)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umweltrahmengesetz'
+Title: Umweltrahmengesetz
 layout: default
 slug: urag
+
 ---
 
 # Umweltrahmengesetz (URaG)

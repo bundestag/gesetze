@@ -3,6 +3,7 @@ Title: Verordnung zur Zulassung von kommunalen Trägern als Träger der Grundsic
   für Arbeitsuchende
 layout: default
 slug: komtrzv
+
 ---
 
 # Verordnung zur Zulassung von kommunalen Trägern als Träger der Grundsicherung für Arbeitsuchende (KomtrZV)

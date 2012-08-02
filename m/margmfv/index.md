@@ -2,6 +2,7 @@
 Title: Verordnung über Margarine- und Mischfetterzeugnisse
 layout: default
 slug: margmfv
+
 ---
 
 # Verordnung über Margarine- und Mischfetterzeugnisse (MargMFV)

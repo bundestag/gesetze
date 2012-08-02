@@ -2,6 +2,7 @@
 Title: Verordnung über das Schuldnerverzeichnis
 layout: default
 slug: schuvvo
+
 ---
 
 # Verordnung über das Schuldnerverzeichnis (SchuVVO)

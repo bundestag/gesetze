@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   des Direktoriums der Deutschen Bundespost
 layout: default
 slug: dbpdirwid_bvtrano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Direktoriums der Deutschen Bundespost (DBPDirWid/BVtrAnO)

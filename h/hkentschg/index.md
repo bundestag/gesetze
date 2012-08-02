@@ -2,6 +2,7 @@
 Title: Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
 layout: default
 slug: hkentschg
+
 ---
 
 # Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet (HKEntschG)

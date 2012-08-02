@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Einfuhrumsatzsteuer-Befreiungsverordnung'
+Title: Einfuhrumsatzsteuer-Befreiungsverordnung
 layout: default
 slug: eustbv_1993
+
 ---
 
 # Einfuhrumsatzsteuer-Befreiungsverordnung (EUStBV 1993)

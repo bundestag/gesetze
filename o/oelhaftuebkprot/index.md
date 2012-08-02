@@ -3,6 +3,7 @@ Title: Protokoll zum Internationalen Übereinkommen von 1969 über die zivilrech
   Haftung für Ölverschmutzungsschäden
 layout: default
 slug: _lhaft_bkprot
+
 ---
 
 # Protokoll zum Internationalen Übereinkommen von 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden (ÖlHaftÜbkProt)

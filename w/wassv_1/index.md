@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Erste Wassersicherstellungsverordnung'
+Title: Erste Wassersicherstellungsverordnung
 layout: default
 slug: wassv_1
+
 ---
 
 # Erste Wassersicherstellungsverordnung (WasSV 1)

@@ -3,6 +3,7 @@ Title: Bekanntmachung betreffend Ausführungsbestimmungen zu den §§ 980, 981, 
   Bürgerlichen Gesetzbuchs
 layout: default
 slug: bgbabest_1898
+
 ---
 
 # Bekanntmachung betreffend Ausführungsbestimmungen zu den §§ 980, 981, 983 des Bürgerlichen Gesetzbuchs (BGBABest 1898)

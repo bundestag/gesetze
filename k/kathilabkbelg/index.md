@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 6. November 1980 zwischen der Bundesrepublik D
   oder schweren Unglücksfällen
 layout: default
 slug: kathilabkbelg
+
 ---
 
 # Gesetz zu dem Abkommen vom 6. November 1980 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen (KatHiLAbkBELG)

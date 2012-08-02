@@ -4,6 +4,7 @@ Title: Gesetz zur Umsetzung der Richtlinie 2000/52/EG der Kommission vom 26. Jul
   Beziehungen zwischen den Mitgliedstaaten und den öffentlichen Unternehmen
 layout: default
 slug: transprlg
+
 ---
 
 # Gesetz zur Umsetzung der Richtlinie 2000/52/EG der Kommission vom 26. Juli 2000 zur Änderung der Richtlinie 80/723/EWG über die Transparenz der finanziellen Beziehungen zwischen den Mitgliedstaaten und den öffentlichen Unternehmen (TranspRLG)

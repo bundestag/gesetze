@@ -2,6 +2,7 @@
 Title: Höfeordnung
 layout: default
 slug: h_feo
+
 ---
 
 # Höfeordnung (HöfeO)

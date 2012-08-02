@@ -3,6 +3,7 @@ Title: Achtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Fest
   von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Braunschweig)
 layout: default
 slug: luftvodv_98
+
 ---
 
 # Achtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Braunschweig) (LuftVODV 98)

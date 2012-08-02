@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verschollenheitsgesetz'
+Title: Verschollenheitsgesetz
 layout: default
 slug: verschg
+
 ---
 
 # Verschollenheitsgesetz (VerschG)

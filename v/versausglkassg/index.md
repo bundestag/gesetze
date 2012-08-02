@@ -2,6 +2,7 @@
 Title: Gesetz über die Versorgungsausgleichskasse
 layout: default
 slug: versausglkassg
+
 ---
 
 # Gesetz über die Versorgungsausgleichskasse (VersAusglKassG)

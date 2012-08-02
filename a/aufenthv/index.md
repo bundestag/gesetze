@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Aufenthaltsverordnung'
+Title: Aufenthaltsverordnung
 layout: default
 slug: aufenthv
+
 ---
 
 # Aufenthaltsverordnung (AufenthV)

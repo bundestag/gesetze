@@ -2,6 +2,7 @@
 Title: Gesetz über den Betrieb elektronischer Mautsysteme
 layout: default
 slug: mautsysg
+
 ---
 
 # Gesetz über den Betrieb elektronischer Mautsysteme (MautSysG)

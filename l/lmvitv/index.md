@@ -2,6 +2,7 @@
 Title: Verordnung über vitaminisierte Lebensmittel
 layout: default
 slug: lmvitv
+
 ---
 
 # Verordnung über vitaminisierte Lebensmittel (LMvitV)

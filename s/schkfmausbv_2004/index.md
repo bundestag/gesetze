@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 layout: default
 slug: schkfmausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau (SchKfmAusbV 2004)

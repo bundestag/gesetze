@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Deutsches Archäologisches Institut)
 layout: default
 slug: m_nz5dmbek_1979-02
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Deutsches Archäologisches Institut) (Münz5DMBek 1979-02)

@@ -1,9 +1,10 @@
 [^F771315_1_BJNR165800008]
 Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: eew_rmeg
+
 ---
 
 #  (EEWärmeG)

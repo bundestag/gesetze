@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung in der Bekleidungsindustrie
 layout: default
 slug: beklindausbv_1997
+
 ---
 
 # Verordnung über die Berufsausbildung in der Bekleidungsindustrie (BeklIndAusbV 1997)

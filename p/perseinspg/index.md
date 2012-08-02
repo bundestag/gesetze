@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Einsparung von Personalausgaben in der mittelbaren
-  Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost'
+Title: Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung
+  sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
 layout: default
 slug: perseinspg
+
 ---
 
 # Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost (PersEinspG)

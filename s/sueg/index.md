@@ -3,6 +3,7 @@ Title: Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberpr
   des Bundes
 layout: default
 slug: s_g
+
 ---
 
 # Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes (SÜG)

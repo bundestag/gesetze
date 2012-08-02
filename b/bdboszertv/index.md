@@ -4,6 +4,7 @@ Title: Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endge
   Sicherheitsaufgaben
 layout: default
 slug: bdboszertv
+
 ---
 
 # Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endgeräte durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOSZertV)

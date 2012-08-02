@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze zum 500. Geburtstag des Reformators Philipp Melanchthon)
 layout: default
 slug: m_nz10dmbek_1997-02
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze zum 500. Geburtstag des Reformators Philipp Melanchthon) (Münz10DMBek 1997-02)

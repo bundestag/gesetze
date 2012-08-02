@@ -2,9 +2,10 @@
 Verordnung über Mittel zum Tätowieren einschließlich bestimmter
 vergleichbarer Stoffe und Zubereitungen aus Stoffen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: t_tov
+
 ---
 
 #  (TätoV)

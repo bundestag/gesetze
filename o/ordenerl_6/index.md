@@ -3,6 +3,7 @@ Title: Sechster Erlaß über die Genehmigung der Stiftung und Verleihung von Ord
   Ehrenzeichen
 layout: default
 slug: ordenerl_6
+
 ---
 
 # Sechster Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen (OrdenErl 6)

@@ -4,6 +4,7 @@ Title: Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraße
   der Bundeswasserstraßen)
 layout: default
 slug: wastr_bgvtrg
+
 ---
 
 # Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen) (WaStrÜbgVtrG)

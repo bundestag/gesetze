@@ -4,6 +4,7 @@ Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes bei dem bundesu
   Bildung und Forschung
 layout: default
 slug: bdgbibbbminbfano
+
 ---
 
 # Anordnung zur Durchführung des Bundesdisziplinargesetzes bei dem bundesunmittelbaren Bundesinstitut für Berufsbildung im Geschäftsbereich des Bundesministeriums für Bildung und Forschung (BDGBIBBBMinBFAnO)

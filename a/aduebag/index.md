@@ -3,6 +3,7 @@ Title: Gesetz zur Ausführung des Haager Übereinkommens vom 29. Mai 1993 über 
   von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption
 layout: default
 slug: ad_bag
+
 ---
 
 # Gesetz zur Ausführung des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption (AdÜbAG)

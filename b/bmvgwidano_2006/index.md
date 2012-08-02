@@ -4,6 +4,7 @@ Title: Allgemeine Anordnung über die Übertragung von Zuständigkeiten im  Wide
   Geschäftsbereich des Bundesministeriums der  Verteidigung
 layout: default
 slug: bmvgwidano_2006
+
 ---
 
 # Allgemeine Anordnung über die Übertragung von Zuständigkeiten im  Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder  Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der  Verteidigung (BMVgWidAnO 2006)

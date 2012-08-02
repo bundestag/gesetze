@@ -3,6 +3,7 @@ Title: Verordnung über die elektronische Aktenführung in Ordnungsgeldverfahren
   Bundesamt für Justiz
 layout: default
 slug: ogav
+
 ---
 
 # Verordnung über die elektronische Aktenführung in Ordnungsgeldverfahren beim Bundesamt für Justiz (OGAV)

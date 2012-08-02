@@ -2,6 +2,7 @@
 Title: Gesetz zur Ergänzung des Reichssiedlungsgesetzes
 layout: default
 slug: rsiedlgergg_1935
+
 ---
 
 # Gesetz zur Ergänzung des Reichssiedlungsgesetzes (RSiedlGErgG 1935)

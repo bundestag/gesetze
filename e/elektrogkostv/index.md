@@ -2,6 +2,7 @@
 Title: Kostenverordnung zum Elektro- und Elektronikgerätegesetz
 layout: default
 slug: elektrogkostv
+
 ---
 
 # Kostenverordnung zum Elektro- und Elektronikgerätegesetz (ElektroGKostV)

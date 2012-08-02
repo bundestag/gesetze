@@ -1,9 +1,10 @@
 Vorschriften für Signallichter, Radarausrüstungen, Wendeanzeiger sowie
 Kompasse und Steuerkurstransmitter
 ---
-Title: !!python/unicode '(Anhang IX zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang IX zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_ix
+
 ---
 
 # (Anhang IX zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IX)

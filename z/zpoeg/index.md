@@ -2,6 +2,7 @@
 Title: Gesetz, betreffend die Einführung der Zivilprozeßordnung
 layout: default
 slug: zpoeg
+
 ---
 
 # Gesetz, betreffend die Einführung der Zivilprozeßordnung (ZPOEG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bodenleger/zur Bodenlegerin
 layout: default
 slug: bodenlausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Bodenleger/zur Bodenlegerin (BodenlAusbV)

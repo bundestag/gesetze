@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über 
   der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben
 layout: default
 slug: bpr_skldgforstano_2011
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben (BPräsKldgForstAnO 2011)

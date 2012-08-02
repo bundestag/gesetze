@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umwandlungsgesetz'
+Title: Umwandlungsgesetz
 layout: default
 slug: umwg_1995
+
 ---
 
 # Umwandlungsgesetz (UmwG 1995)

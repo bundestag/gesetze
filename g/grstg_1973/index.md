@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Grundsteuergesetz'
+Title: Grundsteuergesetz
 layout: default
 slug: grstg_1973
+
 ---
 
 # Grundsteuergesetz (GrStG 1973)

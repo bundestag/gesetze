@@ -2,6 +2,7 @@
 Title: Gesetz zur Förderung von Wagniskapitalbeteiligungen
 layout: default
 slug: wkbg
+
 ---
 
 # Gesetz zur Förderung von Wagniskapitalbeteiligungen (WKBG)

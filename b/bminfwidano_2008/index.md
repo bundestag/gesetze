@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   des Bundesministeriums der Finanzen
 layout: default
 slug: bminfwidano_2008
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums der Finanzen (BMinFWidAnO 2008)

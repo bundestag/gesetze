@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "50 Jahre Bundesverfassungsgericht")
 layout: default
 slug: m_nz10dmbek_2001-07
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze "50 Jahre Bundesverfassungsgericht") (Münz10DMBek 2001-07)

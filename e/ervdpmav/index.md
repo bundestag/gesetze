@@ -3,6 +3,7 @@ Title: Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- 
   Markenamt
 layout: default
 slug: ervdpmav
+
 ---
 
 # Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent-  und Markenamt (ERVDPMAV)

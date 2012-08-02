@@ -4,6 +4,7 @@ Title: Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Erg
   Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 layout: default
 slug: kovzusvtrautg
+
 ---
 
 # Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter (KOVZusVtrAUTG)

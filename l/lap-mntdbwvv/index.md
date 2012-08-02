@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren
   Verwaltungsdienst in der Bundeswehrverwaltung
 layout: default
 slug: lap-mntdbwvv
+
 ---
 
 # Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung (LAP-mntDBWVV)

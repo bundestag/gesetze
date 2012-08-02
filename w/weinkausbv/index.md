@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Weinküfer/zur Weinküferin
 layout: default
 slug: weinkausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Weinküfer/zur Weinküferin (WeinkAusbV)

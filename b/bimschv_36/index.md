@@ -3,6 +3,7 @@ Title: Sechsunddreißigste Verordnung zur Durchführung des  Bundes-Immissionssc
   (Verordnung zur Durchführung der Regelungen  der Biokraftstoffquote)
 layout: default
 slug: bimschv_36
+
 ---
 
 # Sechsunddreißigste Verordnung zur Durchführung des  Bundes-Immissionsschutzgesetzes (Verordnung zur Durchführung der Regelungen  der Biokraftstoffquote) (BImSchV 36)

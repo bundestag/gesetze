@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Sicherstellung des Luftverkehrs'
+Title: Verordnung zur Sicherstellung des Luftverkehrs
 layout: default
 slug: luftverksiv
+
 ---
 
 # Verordnung zur Sicherstellung des Luftverkehrs (LuftVerkSiV)

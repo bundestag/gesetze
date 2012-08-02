@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil
 layout: default
 slug: textilprodausbv_2003
+
 ---
 
 # Verordnung über die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil (TextilProdAusbV 2003)

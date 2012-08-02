@@ -3,6 +3,7 @@ Title: Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des
   Reiches entstandener Schäden
 layout: default
 slug: akg
+
 ---
 
 # Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden (AKG)

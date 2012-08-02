@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 layout: default
 slug: bbkg
+
 ---
 
 # Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBKG)

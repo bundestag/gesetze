@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Kennzeichnung von Bleikristall und Kristallglas'
+Title: Gesetz zur Kennzeichnung von Bleikristall und Kristallglas
 layout: default
 slug: krglaskennzg
+
 ---
 
 # Gesetz zur Kennzeichnung von Bleikristall und Kristallglas (KrGlasKennzG)

@@ -3,6 +3,7 @@ Title: Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Ver
   der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Arbeit
 layout: default
 slug: arbschg
+
 ---
 
 # Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Arbeit (ArbSchG)

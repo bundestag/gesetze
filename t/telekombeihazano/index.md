@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis in Beihilfeangelegenheiten
 layout: default
 slug: telekombeihazano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis in Beihilfeangelegenheiten (TELEKOMBeihAZAnO)

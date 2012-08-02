@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Handelsklassengesetz'
+Title: Handelsklassengesetz
 layout: default
 slug: hdlklg
+
 ---
 
 # Handelsklassengesetz (HdlKlG)

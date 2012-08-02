@@ -2,6 +2,7 @@
 Title: Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von Umstellungsguthaben
 layout: default
 slug: umstgerwnwg
+
 ---
 
 # Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von Umstellungsguthaben (UmstGErwNwG)

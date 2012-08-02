@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Gesetzes nach Artikel 29 Abs. 6 des Grundgesetzes
 layout: default
 slug: neuglv
+
 ---
 
 # Verordnung zur Durchführung des Gesetzes nach Artikel 29 Abs. 6 des Grundgesetzes (NeuGlV)

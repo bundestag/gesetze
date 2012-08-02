@@ -3,6 +3,7 @@ Title: Anordnung zur Ergänzung der Anordnung über die Ernennung und Entlassung
   Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom
 layout: default
 slug: telekomernanoergano
+
 ---
 
 # Anordnung zur Ergänzung der Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom (TELEKOMErnAnOErgAnO)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung
 layout: default
 slug: bpr_swahlg
+
 ---
 
 # Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung (BPräsWahlG)

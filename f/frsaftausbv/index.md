@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Fruchtsafttechnik
 layout: default
 slug: frsaftausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zur Fachkraft für Fruchtsafttechnik (FrSaftAusbV)

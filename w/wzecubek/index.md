@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen
-  in Ecuador'
+Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Ecuador
 layout: default
 slug: wzecubek
+
 ---
 
 # Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Ecuador (WZECUBek)

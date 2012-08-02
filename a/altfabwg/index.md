@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur beschleunigten Abwicklung einiger Altforderungen'
+Title: Gesetz zur beschleunigten Abwicklung einiger Altforderungen
 layout: default
 slug: altfabwg
+
 ---
 
 # Gesetz zur beschleunigten Abwicklung einiger Altforderungen (AltfAbwG)

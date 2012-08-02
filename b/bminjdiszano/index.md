@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse auf die Dien
   im Geschäftsbereich des Bundesministeriums der Justiz
 layout: default
 slug: bminjdiszano
+
 ---
 
 # Anordnung zur Übertragung disziplinarrechtlicher Befugnisse auf die Dienstvorgesetzten im Geschäftsbereich des Bundesministeriums der Justiz (BMinJDiszAnO)

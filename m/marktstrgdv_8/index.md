@@ -3,6 +3,7 @@ Title: Achte Durchführungsverordnung zum Marktstrukturgesetz - Blumen, Zierpfla
   und Baumschulerzeugnisse
 layout: default
 slug: marktstrgdv_8
+
 ---
 
 # Achte Durchführungsverordnung zum Marktstrukturgesetz - Blumen, Zierpflanzen und Baumschulerzeugnisse (MarktStrGDV 8)

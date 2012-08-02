@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
 layout: default
 slug: fmontausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin (FMontAusbV)

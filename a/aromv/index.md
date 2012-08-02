@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung
-  lebensmittelrechtlicher Kennzeichnungsvorschriften)'
+Title: Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher
+  Kennzeichnungsvorschriften)
 layout: default
 slug: aromv
+
 ---
 
 # Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher Kennzeichnungsvorschriften) (AromV)

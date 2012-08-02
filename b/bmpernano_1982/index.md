@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsber
   des Bundesministers für das Post- und Fernmeldewesen
 layout: default
 slug: bmpernano_1982
+
 ---
 
 # Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers für das Post- und Fernmeldewesen (BMPErnAnO 1982)

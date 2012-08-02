@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Ansteckende Blutarmut der
-  Einhufer'
+Title: Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer
 layout: default
 slug: blutarmv_2010
+
 ---
 
 # Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer (BlutArmV 2010)

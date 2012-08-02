@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Handelsgesetzbuch'
+Title: Handelsgesetzbuch
 layout: default
 slug: hgb
+
 ---
 
 # Handelsgesetzbuch (HGB)

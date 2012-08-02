@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnunge
   dem Dritten Buch Sozialgesetzbuch auf den Vorstand der Bundesagentur für Arbeit
 layout: default
 slug: babefugv_2008
+
 ---
 
 # Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Dritten Buch Sozialgesetzbuch auf den Vorstand der Bundesagentur für Arbeit (BABefugV 2008)

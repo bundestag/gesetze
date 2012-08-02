@@ -2,6 +2,7 @@
 Title: Gesetz zur Vereinheitlichung und Änderung familienrechtlicher Vorschriften
 layout: default
 slug: famr_ndg
+
 ---
 
 # Gesetz zur Vereinheitlichung und Änderung familienrechtlicher Vorschriften (FamRÄndG)

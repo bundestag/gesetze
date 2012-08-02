@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Systemelektroniker und zur
 Systemelektronikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: systelektronausbv_2008
+
 ---
 
 #  (SystElektronAusbV 2008)

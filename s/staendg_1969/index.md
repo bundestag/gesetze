@@ -3,6 +3,7 @@ Title: Gesetz über die Gewährung von Investitionszulagen und zur Änderung ste
   und prämienrechtlicher Vorschriften
 layout: default
 slug: st_ndg_1969
+
 ---
 
 # Gesetz über die Gewährung von Investitionszulagen und zur Änderung steuerrechtlicher und prämienrechtlicher Vorschriften (StÄndG 1969)

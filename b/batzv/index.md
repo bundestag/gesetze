@@ -2,6 +2,7 @@
 Title: Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes
 layout: default
 slug: batzv
+
 ---
 
 # Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes (BATZV)

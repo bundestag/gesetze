@@ -2,9 +2,10 @@
 Verordnung über die Meldung von Biozid-Produkten nach dem
 Chemikaliengesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: chembiozidmeldev_2011
+
 ---
 
 #  (ChemBiozidMeldeV 2011)

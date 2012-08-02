@@ -2,6 +2,7 @@
 Title: Anordnung über Staatsbegräbnisse und Staatsakte
 layout: default
 slug: staatsbegrano
+
 ---
 
 # Anordnung über Staatsbegräbnisse und Staatsakte (StaatsbegrAnO)

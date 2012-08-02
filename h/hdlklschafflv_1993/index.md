@@ -2,6 +2,7 @@
 Title: Verordnung über gesetzliche Handelsklassen für Schaffleisch
 layout: default
 slug: hdlklschafflv_1993
+
 ---
 
 # Verordnung über gesetzliche Handelsklassen für Schaffleisch (HdlKlSchafFlV 1993)

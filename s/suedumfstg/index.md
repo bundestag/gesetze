@@ -2,6 +2,7 @@
 Title: Gesetz über den Bau der "Südumfahrung Stendal" der Eisenbahnstrecke Berlin-Oebisfelde
 layout: default
 slug: s_dumfstg
+
 ---
 
 # Gesetz über den Bau der "Südumfahrung Stendal" der Eisenbahnstrecke Berlin-Oebisfelde (SüdumfStG)

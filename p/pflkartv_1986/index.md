@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Pflanzkartoffelverordnung'
+Title: Pflanzkartoffelverordnung
 layout: default
 slug: pflkartv_1986
+
 ---
 
 # Pflanzkartoffelverordnung (PflKartV 1986)

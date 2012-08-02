@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Weingesetz'
+Title: Weingesetz
 layout: default
 slug: weing_1994
+
 ---
 
 # Weingesetz (WeinG 1994)

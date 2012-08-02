@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik De
   über die Rechtshilfe in Strafsachen
 layout: default
 slug: eurhi_bkvtrfrag
+
 ---
 
 # Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik Deutschland und der Französischen Republik zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen (EuRHiÜbkVtrFRAG)

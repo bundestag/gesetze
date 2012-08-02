@@ -2,6 +2,7 @@
 Title: Fünfundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 layout: default
 slug: stvzoausnv_25
+
 ---
 
 # Fünfundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung (StVZOAusnV 25)

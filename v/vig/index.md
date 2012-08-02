@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation'
+Title: Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation
 layout: default
 slug: vig
+
 ---
 
 # Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation (VIG)

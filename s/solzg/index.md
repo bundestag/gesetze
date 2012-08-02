@@ -2,6 +2,7 @@
 Title: Solidaritätszuschlaggesetz
 layout: default
 slug: solzg
+
 ---
 
 # Solidaritätszuschlaggesetz (SolZG)

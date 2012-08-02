@@ -3,6 +3,7 @@ Title: Gesetz zur Sammlung von Nachrichten über Kriegsgefangene, festgehaltene 
   verschleppte Zivilpersonen und Vermißte
 layout: default
 slug: vermsammlg
+
 ---
 
 # Gesetz zur Sammlung von Nachrichten über Kriegsgefangene, festgehaltene oder verschleppte Zivilpersonen und Vermißte (VermSammlG)

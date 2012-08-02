@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Energiesteuergesetz'
+Title: Energiesteuergesetz
 layout: default
 slug: energiestg
+
 ---
 
 # Energiesteuergesetz (EnergieStG)

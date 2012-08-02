@@ -2,6 +2,7 @@
 Title: Elfte Durchführungsverordnung zum Marktstrukturgesetz - Honig
 layout: default
 slug: marktstrgdv_11
+
 ---
 
 # Elfte Durchführungsverordnung zum Marktstrukturgesetz - Honig (MarktStrGDV 11)

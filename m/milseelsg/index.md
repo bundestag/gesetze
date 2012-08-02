@@ -2,6 +2,7 @@
 Title: Gesetz über die Militärseelsorge
 layout: default
 slug: milseelsg
+
 ---
 
 # Gesetz über die Militärseelsorge (MilSeelsG)

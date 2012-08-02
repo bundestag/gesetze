@@ -3,6 +3,7 @@ Title: Verordnung über die Wiederherstellung zerstörter oder abhanden gekommen
   und Urkunden
 layout: default
 slug: gbwiederhv
+
 ---
 
 # Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher und Urkunden (GBWiederhV)

@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder
   Bundestages
 layout: default
 slug: di_teng_ndg
+
 ---
 
 # Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder des Bundestages (DiätenGÄndG)

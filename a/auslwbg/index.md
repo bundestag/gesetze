@@ -3,6 +3,7 @@ Title: Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausl�
   Währung lauten
 layout: default
 slug: auslwbg
+
 ---
 
 # Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische Währung lauten (AuslWBG)

@@ -2,6 +2,7 @@
 Title: Gesetz betreffend die privatrechtlichen Verhältnisse der Binnenschiffahrt
 layout: default
 slug: binschprg
+
 ---
 
 # Gesetz betreffend die privatrechtlichen Verhältnisse der Binnenschiffahrt (BinSchPRG)

@@ -4,6 +4,7 @@ Title: Entschließung 2 zu den Änderungen der Anlage des Internationalen Übere
   und den Wachdienst von Seeleuten
 layout: default
 slug: stcw-code
+
 ---
 
 # Entschließung 2 zu den Änderungen der Anlage des Internationalen Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code)

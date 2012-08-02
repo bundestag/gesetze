@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen'
+Title: Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen
 layout: default
 slug: fgnv
+
 ---
 
 # Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen (FGNV)

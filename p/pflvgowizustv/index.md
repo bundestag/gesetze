@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von O
   nach dem Pflichtversicherungsgesetz
 layout: default
 slug: pflvgowizustv
+
 ---
 
 # Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Pflichtversicherungsgesetz (PflVGOWiZustV)

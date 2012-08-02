@@ -3,6 +3,7 @@ Title: Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschlus
   und Agrarservicemeisterin
 layout: default
 slug: agrarservmeistprv
+
 ---
 
 # Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin (AgrarservMeistPrV)

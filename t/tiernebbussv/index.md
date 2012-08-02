@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung
-  (EG) Nr. 1774/2002'
+Title: Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr.
+  1774/2002
 layout: default
 slug: tiernebbu_v
+
 ---
 
 # Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002 (TierNebBußV)

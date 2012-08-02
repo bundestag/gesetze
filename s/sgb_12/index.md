@@ -3,6 +3,7 @@ Title: Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 de
   vom 27. Dezember 2003, BGBl. I S. 3022)
 layout: default
 slug: sgb_12
+
 ---
 
 # Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022) (SGB 12)

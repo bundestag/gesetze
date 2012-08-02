@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Handel
   Handelsfachwirtin
 layout: default
 slug: handelsfachwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Handelsfachwirt/Geprüfte Handelsfachwirtin (HandelsfachwPrV)

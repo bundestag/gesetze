@@ -4,6 +4,7 @@ Title: Gesetz zur Beibehaltung der Mitbestimmung beim Austausch von Anteilen und
   der Europäischen Union betreffen
 layout: default
 slug: mitbestbeig
+
 ---
 
 # Gesetz zur Beibehaltung der Mitbestimmung beim Austausch von Anteilen und der Einbringung von Unternehmensteilen, die Gesellschaften verschiedener Mitgliedstaaten der Europäischen Union betreffen (MitbestBeiG)

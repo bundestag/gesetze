@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 16. Mai 1985 zwischen der Bundesrepublik Deuts
   oder schweren Unglücksfällen
 layout: default
 slug: kathilabkdnkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 16. Mai 1985 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen (KatHiLAbkDNKG)

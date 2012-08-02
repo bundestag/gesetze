@@ -2,6 +2,7 @@
 Title: Gesetz zu dem Übereinkommen vom 21. Februar 1971 über psychotrope Stoffe
 layout: default
 slug: psychotrst_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 21. Februar 1971 über psychotrope Stoffe (PsychotrStÜbkG)

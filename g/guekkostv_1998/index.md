@@ -2,6 +2,7 @@
 Title: Kostenverordnung für den Güterkraftverkehr
 layout: default
 slug: g_kkostv_1998
+
 ---
 
 # Kostenverordnung für den Güterkraftverkehr (GüKKostV 1998)

@@ -2,6 +2,7 @@
 Title: Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes
 layout: default
 slug: bbig2005_73ano
+
 ---
 
 # Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes (BBiG2005§73AnO)

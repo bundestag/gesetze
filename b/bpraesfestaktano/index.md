@@ -3,6 +3,7 @@ Title: Anordnung des Staatsaktes aus Anlaß des 50. Jahrestages des Endes des Zw
   Weltkrieges
 layout: default
 slug: bpr_sfestaktano
+
 ---
 
 # Anordnung des Staatsaktes aus Anlaß des 50. Jahrestages des Endes des Zweiten Weltkrieges (BPräsFestaktAnO)

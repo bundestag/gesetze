@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesrechtsanwaltsordnung'
+Title: Bundesrechtsanwaltsordnung
 layout: default
 slug: brao
+
 ---
 
 # Bundesrechtsanwaltsordnung (BRAO)

@@ -2,6 +2,7 @@
 Title: Gesetz über Vermögensanlagen
 layout: default
 slug: vermanlg
+
 ---
 
 # Gesetz über Vermögensanlagen (VermAnlG)

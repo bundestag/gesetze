@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung der Rechtsverhältnisse der Prostituierten
 layout: default
 slug: prostg
+
 ---
 
 # Gesetz zur Regelung der Rechtsverhältnisse der Prostituierten (ProstG)

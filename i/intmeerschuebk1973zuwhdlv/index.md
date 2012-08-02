@@ -4,6 +4,7 @@ Title: Verordnung über Zuwiderhandlungen gegen das Internationale Übereinkomme
   von 1978 zu diesem Übereinkommen
 layout: default
 slug: intmeersch_bk1973zuwhdlv
+
 ---
 
 # Verordnung über Zuwiderhandlungen gegen das Internationale Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und gegen das Protokoll von 1978 zu diesem Übereinkommen (IntMeerSchÜbk1973ZuwhdlV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Jugendschutzgesetz'
+Title: Jugendschutzgesetz
 layout: default
 slug: juschg
+
 ---
 
 # Jugendschutzgesetz (JuSchG)

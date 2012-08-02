@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesreisekostengesetz'
+Title: Bundesreisekostengesetz
 layout: default
 slug: brkg_2005
+
 ---
 
 # Bundesreisekostengesetz (BRKG 2005)

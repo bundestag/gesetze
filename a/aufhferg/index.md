@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung steuerrechtlicher Vorschriften und zur Errichtung ei
   Fonds "Aufbauhilfe"
 layout: default
 slug: aufhferg
+
 ---
 
 # Gesetz zur Änderung steuerrechtlicher Vorschriften und zur Errichtung eines Fonds "Aufbauhilfe" (AufhFErG)

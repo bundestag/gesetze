@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Walther von der Vogelweide)
 layout: default
 slug: m_nz5dmbek_1980-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Walther von der Vogelweide) (Münz5DMBek 1980-11)

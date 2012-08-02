@@ -2,6 +2,7 @@
 Title: Verordnung über die Anlegung und Führung der Wohnungs- und Teileigentumsgrundbücher
 layout: default
 slug: woeigvfg
+
 ---
 
 # Verordnung über die Anlegung und Führung der Wohnungs- und Teileigentumsgrundbücher (WoEigVfg)

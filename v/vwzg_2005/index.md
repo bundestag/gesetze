@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verwaltungszustellungsgesetz'
+Title: Verwaltungszustellungsgesetz
 layout: default
 slug: vwzg_2005
+
 ---
 
 # Verwaltungszustellungsgesetz (VwZG 2005)

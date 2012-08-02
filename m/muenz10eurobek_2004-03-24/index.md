@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "Erweiterung der Europäischen Union")
 layout: default
 slug: m_nz10eurobek_2004-03-24
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "Erweiterung der Europäischen Union") (Münz10EuroBek 2004-03-24)

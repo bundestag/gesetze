@@ -1,9 +1,10 @@
 [^f772414_01_BJNR215700009]
 Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: agrarausbv
+
 ---
 
 #  (AgrarAusbV)

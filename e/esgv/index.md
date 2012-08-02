@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Bemessung von Einstiegsgeld'
+Title: Verordnung zur Bemessung von Einstiegsgeld
 layout: default
 slug: esgv
+
 ---
 
 # Verordnung zur Bemessung von Einstiegsgeld (ESGV)

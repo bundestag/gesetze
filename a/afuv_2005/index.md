@@ -2,6 +2,7 @@
 Title: Verordnung zum Gesetz über den Amateurfunk
 layout: default
 slug: afuv_2005
+
 ---
 
 # Verordnung zum Gesetz über den Amateurfunk (AFuV 2005)

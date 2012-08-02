@@ -2,6 +2,7 @@
 Title: Verordnung zur Bekämpfung der Bakteriellen Ringfäule und der Schleimkrankheit
 layout: default
 slug: kartringfv_2001
+
 ---
 
 # Verordnung zur Bekämpfung der Bakteriellen Ringfäule und der Schleimkrankheit (KartRingfV 2001)

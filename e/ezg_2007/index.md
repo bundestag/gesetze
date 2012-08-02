@@ -2,6 +2,7 @@
 Title: Gesetz über Einmalzahlungen für die Jahre 2005, 2006 und 2007
 layout: default
 slug: ezg_2007
+
 ---
 
 # Gesetz über Einmalzahlungen für die Jahre 2005, 2006 und 2007 (EzG 2007)

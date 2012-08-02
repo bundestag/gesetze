@@ -3,6 +3,7 @@ Title: Gesetz zu dem Straßburger Übereinkommen vom 4. November 1988 über die 
   der Haftung in der Binnenschiffahrt (CLNI)
 layout: default
 slug: clnig
+
 ---
 
 # Gesetz zu dem Straßburger Übereinkommen vom 4. November 1988 über die Beschränkung der Haftung in der Binnenschiffahrt (CLNI) (CLNIG)

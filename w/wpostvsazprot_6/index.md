@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins'
+Title: Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins
 layout: default
 slug: wpostvsazprot_6
+
 ---
 
 # Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins (WPostVSaZProt 6)

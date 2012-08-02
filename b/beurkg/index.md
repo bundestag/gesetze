@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Beurkundungsgesetz'
+Title: Beurkundungsgesetz
 layout: default
 slug: beurkg
+
 ---
 
 # Beurkundungsgesetz (BeurkG)

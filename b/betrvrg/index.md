@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reform des Betriebsverfassungsgesetzes'
+Title: Gesetz zur Reform des Betriebsverfassungsgesetzes
 layout: default
 slug: betrvrg
+
 ---
 
 # Gesetz zur Reform des Betriebsverfassungsgesetzes (BetrVRG)

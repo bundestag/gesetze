@@ -2,6 +2,7 @@
 Title: Gesetz über die Staatsbank Berlin
 layout: default
 slug: sbkbg
+
 ---
 
 # Gesetz über die Staatsbank Berlin (SBkBG)

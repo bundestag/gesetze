@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz Nr. 22 zur Ahndung nationalsozialistischer Straftaten'
+Title: Gesetz Nr. 22 zur Ahndung nationalsozialistischer Straftaten
 layout: default
 slug: nsahndg_by
+
 ---
 
 # Gesetz Nr. 22 zur Ahndung nationalsozialistischer Straftaten (NSAhndG BY)

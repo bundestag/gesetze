@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'IV. Genfer Abkommen vom 12. August 1949 zum Schutze von Zivilpersonen
-  in Kriegszeiten'
+Title: IV. Genfer Abkommen vom 12. August 1949 zum Schutze von Zivilpersonen in Kriegszeiten
 layout: default
 slug: zpersabk_genf
+
 ---
 
 # IV. Genfer Abkommen vom 12. August 1949 zum Schutze von Zivilpersonen in Kriegszeiten (ZPersAbk Genf)

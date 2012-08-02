@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung des Organisationserlasses des Bundeskanzlers'
+Title: Bekanntmachung des Organisationserlasses des Bundeskanzlers
 layout: default
 slug: bkorgerl1995bek
+
 ---
 
 # Bekanntmachung des Organisationserlasses des Bundeskanzlers (BKOrgErl1995Bek)

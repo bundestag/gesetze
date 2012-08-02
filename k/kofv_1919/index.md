@@ -2,6 +2,7 @@
 Title: Verordnung über die soziale Kriegsbeschädigten- und Kriegshinterbliebenenfürsorge
 layout: default
 slug: kofv_1919
+
 ---
 
 # Verordnung über die soziale Kriegsbeschädigten- und Kriegshinterbliebenenfürsorge (KOFV 1919)

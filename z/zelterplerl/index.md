@@ -2,6 +2,7 @@
 Title: Erlaß über die Stiftung der Zelter-Plakette
 layout: default
 slug: zelterplerl
+
 ---
 
 # Erlaß über die Stiftung der Zelter-Plakette (ZelterPlErl)

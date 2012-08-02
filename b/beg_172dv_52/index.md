@@ -2,6 +2,7 @@
 Title: Zweiundfünfzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 layout: default
 slug: beg_172dv_52
+
 ---
 
 # Zweiundfünfzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes (BEG§172DV 52)

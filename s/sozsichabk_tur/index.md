@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Türkei
   Soziale Sicherheit
 layout: default
 slug: sozsichabk_tur
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit (SozSichAbk TUR)

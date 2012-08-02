@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesbahngesetz'
+Title: Bundesbahngesetz
 layout: default
 slug: bbahng
+
 ---
 
 # Bundesbahngesetz (BBahnG)

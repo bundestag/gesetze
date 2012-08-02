@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der
   im Geschäftsbereich des Bundesministeriums der Verteidigung
 layout: default
 slug: svzustbmvgv_2002
+
 ---
 
 # Verordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung (SVZustBMVgV 2002)

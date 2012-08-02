@@ -3,6 +3,7 @@ Title: Erstes Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts 
   Bund und Ländern
 layout: default
 slug: besvng_1
+
 ---
 
 # Erstes Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (BesVNG 1)

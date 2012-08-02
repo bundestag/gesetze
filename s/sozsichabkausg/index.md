@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 13. Dezember 2000 zwischen der Bundesrepublik 
   und Australien über Soziale Sicherheit
 layout: default
 slug: sozsichabkausg
+
 ---
 
 # Gesetz zu dem Abkommen vom 13. Dezember 2000 zwischen der Bundesrepublik Deutschland und Australien über Soziale Sicherheit (SozSichAbkAUSG)

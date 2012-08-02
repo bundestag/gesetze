@@ -2,6 +2,7 @@
 Title: Verordnung zur Bekämpfung von Nelkenwicklern
 layout: default
 slug: nelkenwv
+
 ---
 
 # Verordnung zur Bekämpfung von Nelkenwicklern (NelkenwV)

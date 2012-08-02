@@ -3,6 +3,7 @@ Title: Gesetz zur Anpassung von Rechtsvorschriften an veränderte Zuständigkeit
   Behördenbezeichnungen innerhalb der Bundesregierung
 layout: default
 slug: zustanpg_2002
+
 ---
 
 # Gesetz zur Anpassung von Rechtsvorschriften an veränderte Zuständigkeiten oder Behördenbezeichnungen innerhalb der Bundesregierung (ZustAnpG 2002)

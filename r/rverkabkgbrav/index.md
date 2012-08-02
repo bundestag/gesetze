@@ -2,6 +2,7 @@
 Title: Verordnung zur Ausführung des deutsch-britischen Abkommens über den Rechtsverkehr
 layout: default
 slug: rverkabkgbrav
+
 ---
 
 # Verordnung zur Ausführung des deutsch-britischen Abkommens über den Rechtsverkehr (RVerkAbkGBRAV)

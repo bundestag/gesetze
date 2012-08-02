@@ -3,6 +3,7 @@ Title: Verordnung zu dem Abkommen vom 17. Juni 1991 zwischen der Regierung der B
   Deutschland und der Regierung der Republik Polen über das Deutsch-Polnische Jugendwerk
 layout: default
 slug: dtpljwabkv
+
 ---
 
 # Verordnung zu dem Abkommen vom 17. Juni 1991 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Polen über das Deutsch-Polnische Jugendwerk (DtPlJWAbkV)

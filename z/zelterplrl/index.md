@@ -2,6 +2,7 @@
 Title: Richtlinien über die Verleihung der Zelter-Plakette
 layout: default
 slug: zelterplrl
+
 ---
 
 # Richtlinien über die Verleihung der Zelter-Plakette (ZelterPlRL)

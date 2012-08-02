@@ -2,6 +2,7 @@
 Title: Übereinkommen zur Verminderung der Staatenlosigkeit
 layout: default
 slug: staatenlmind_bk
+
 ---
 
 # Übereinkommen zur Verminderung der Staatenlosigkeit (StaatenlMindÜbk)

@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Befugnissen zum Erlassen von Rechtsverord
   im Bereich der Binnenschifffahrt
 layout: default
 slug: binsch_bertragungsv
+
 ---
 
 # Verordnung zur Übertragung von Befugnissen zum Erlassen von Rechtsverordnungen im Bereich der Binnenschifffahrt (BinSchÜbertragungsV)

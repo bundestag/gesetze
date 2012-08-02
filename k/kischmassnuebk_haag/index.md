@@ -4,6 +4,7 @@ Title: Übereinkommen über die Zuständigkeit, das anzuwendende Recht, die Aner
   der Maßnahmen zum Schutz von Kindern
 layout: default
 slug: kischma_n_bk_haag
+
 ---
 
 # Übereinkommen über die Zuständigkeit, das anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und der Maßnahmen zum Schutz von Kindern (KiSchMaßnÜbk Haag)

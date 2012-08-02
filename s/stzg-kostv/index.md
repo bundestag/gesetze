@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kostenverordnung zum Stammzellgesetz'
+Title: Kostenverordnung zum Stammzellgesetz
 layout: default
 slug: stzg-kostv
+
 ---
 
 # Kostenverordnung zum Stammzellgesetz (StZG-KostV)

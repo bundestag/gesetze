@@ -4,9 +4,10 @@ Europäischen Union oder eines anderen Vertragsstaates des Abkommens
 über den Europäischen Wirtschaftsraum oder der Schweiz geltenden
 Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: eu_ewrhwv
+
 ---
 
 #  (EU/EWRHwV)

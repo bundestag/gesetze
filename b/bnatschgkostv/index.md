@@ -2,6 +2,7 @@
 Title: Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz
 layout: default
 slug: bnatschgkostv
+
 ---
 
 # Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz (BNatSchGKostV)

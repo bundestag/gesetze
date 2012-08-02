@@ -3,6 +3,7 @@ Title: Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunio
   der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 layout: default
 slug: wwsuvtr
+
 ---
 
 # Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik (WWSUVtr)

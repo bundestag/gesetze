@@ -4,6 +4,7 @@ Title: Gesetz über die Durchführung der Amtshilfe bei der Beitreibung von Ford
   der Europäischen Union
 layout: default
 slug: eubeitrg
+
 ---
 
 # Gesetz über die Durchführung der Amtshilfe bei der Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen zwischen den Mitgliedstaaten der Europäischen Union (EUBeitrG)

@@ -2,6 +2,7 @@
 Title: Protokoll zur Änderung des Abkommens über die internationale Zivilluftfahrt
 layout: default
 slug: intzluftabkprot
+
 ---
 
 # Protokoll zur Änderung des Abkommens über die internationale Zivilluftfahrt (IntZLuftAbkProt)

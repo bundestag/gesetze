@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherung von Verkehrsleistungen'
+Title: Gesetz zur Sicherung von Verkehrsleistungen
 layout: default
 slug: verklg
+
 ---
 
 # Gesetz zur Sicherung von Verkehrsleistungen (VerkLG)

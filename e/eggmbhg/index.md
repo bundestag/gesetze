@@ -3,6 +3,7 @@ Title: Einführungsgesetz zum Gesetz betreffend die Gesellschaften mit beschrän
   Haftung
 layout: default
 slug: eggmbhg
+
 ---
 
 # Einführungsgesetz zum Gesetz betreffend die Gesellschaften mit beschränkter Haftung (EGGmbHG)

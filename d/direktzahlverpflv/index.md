@@ -3,6 +3,7 @@ Title: Verordnung über die Grundsätze der Erhaltung landwirtschaftlicher Fläc
   einem guten landwirtschaftlichen und ökologischen Zustand
 layout: default
 slug: direktzahlverpflv
+
 ---
 
 # Verordnung über die Grundsätze der Erhaltung landwirtschaftlicher Flächen in einem guten landwirtschaftlichen und ökologischen Zustand (DirektZahlVerpflV)

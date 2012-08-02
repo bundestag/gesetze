@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gerichtsverfassungsgesetz'
+Title: Gerichtsverfassungsgesetz
 layout: default
 slug: gvg
+
 ---
 
 # Gerichtsverfassungsgesetz (GVG)

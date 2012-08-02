@@ -2,6 +2,7 @@
 Title: Frequenzgebührenverordnung
 layout: default
 slug: fgebv
+
 ---
 
 # Frequenzgebührenverordnung (FGebV)

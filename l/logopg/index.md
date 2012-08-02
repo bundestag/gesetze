@@ -2,6 +2,7 @@
 Title: Gesetz über den Beruf des Logopäden
 layout: default
 slug: logopg
+
 ---
 
 # Gesetz über den Beruf des Logopäden (LogopG)

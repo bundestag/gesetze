@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeskrebsregisterdatengesetz'
+Title: Bundeskrebsregisterdatengesetz
 layout: default
 slug: bkrg
+
 ---
 
 # Bundeskrebsregisterdatengesetz (BKRG)

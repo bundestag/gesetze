@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Handelsgesetzbuch
 layout: default
 slug: hgbeg
+
 ---
 
 # Einführungsgesetz zum Handelsgesetzbuch (HGBEG)

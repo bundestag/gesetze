@@ -3,6 +3,7 @@ Title: Gesetz über die Erstattung von Gebühren des beigeordneten Vertreters in
   Gebrauchsmuster-, Geschmacksmuster-, Topographieschutz- und Sortenschutzsachen
 layout: default
 slug: patgeberstg
+
 ---
 
 # Gesetz über die Erstattung von Gebühren des beigeordneten Vertreters in Patent-, Gebrauchsmuster-, Geschmacksmuster-, Topographieschutz- und Sortenschutzsachen (PatGebErstG)

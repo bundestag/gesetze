@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Baugeräteführer/zur Baugeräteführerin
 layout: default
 slug: bauger_tefausbv_1997
+
 ---
 
 # Verordnung über die Berufsausbildung zum Baugeräteführer/zur Baugeräteführerin (BaugeräteFAusbV 1997)

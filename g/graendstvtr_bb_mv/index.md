@@ -3,6 +3,7 @@ Title: Staatsvertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommer
   die Änderung der gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtr_bb_mv
+
 ---
 
 # Staatsvertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtr BB/MV)

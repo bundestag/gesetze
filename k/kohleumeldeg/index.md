@@ -2,6 +2,7 @@
 Title: Gesetz über Meldungen der Unternehmen des deutschen Steinkohlenbergbaus
 layout: default
 slug: kohleumeldeg
+
 ---
 
 # Gesetz über Meldungen der Unternehmen des deutschen Steinkohlenbergbaus (KohleUMeldeG)

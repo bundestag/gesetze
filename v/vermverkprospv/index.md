@@ -2,6 +2,7 @@
 Title: Verordnung über Vermögensanlagen-Verkaufsprospekte
 layout: default
 slug: vermverkprospv
+
 ---
 
 # Verordnung über Vermögensanlagen-Verkaufsprospekte (VermVerkProspV)

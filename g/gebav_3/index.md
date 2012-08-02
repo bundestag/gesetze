@@ -4,6 +4,7 @@ Title: Dritte Verordnung zur Anpassung der Höhe der Vergütungen nach der Gebü
   in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 layout: default
 slug: gebav_3
+
 ---
 
 # Dritte Verordnung zur Anpassung der Höhe der Vergütungen nach der Gebührenordnung für Ärzte, der Gebührenordnung für Zahnärzte sowie nach der Hebammenhilfe-Gebührenverordnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (GebAV 3)

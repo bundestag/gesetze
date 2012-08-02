@@ -3,6 +3,7 @@ Title: Dritte Verordnung des Reichspräsidenten zur Sicherung von Wirtschaft und
   und zur Bekämpfung politischer Ausschreitungen
 layout: default
 slug: notv_3
+
 ---
 
 # Dritte Verordnung des Reichspräsidenten zur Sicherung von Wirtschaft und Finanzen und zur Bekämpfung politischer Ausschreitungen (NotV 3)

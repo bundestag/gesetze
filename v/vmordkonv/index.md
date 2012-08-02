@@ -2,6 +2,7 @@
 Title: Konvention über die Verhütung und Bestrafung des Völkermordes
 layout: default
 slug: vmordkonv
+
 ---
 
 # Konvention über die Verhütung und Bestrafung des Völkermordes (VMordKonv)

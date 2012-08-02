@@ -2,6 +2,7 @@
 Title: Verordnung über das Zentrale Vorsorgeregister
 layout: default
 slug: vregv
+
 ---
 
 # Verordnung über das Zentrale Vorsorgeregister (VRegV)

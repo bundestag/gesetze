@@ -2,6 +2,7 @@
 Title: Gesetz zur Beschränkung des Brief-, Post- und Fernmeldegeheimnisses
 layout: default
 slug: g10_2001
+
 ---
 
 # Gesetz zur Beschränkung des Brief-, Post- und Fernmeldegeheimnisses (G10 2001)

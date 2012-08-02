@@ -3,6 +3,7 @@ Title: Vierte Verordnung zur Änderung der Verordnung über die Anerkennung von 
   und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen
 layout: default
 slug: frg_15v_ndv_4
+
 ---
 
 # Vierte Verordnung zur Änderung der Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen (FRG§15VÄndV 4)

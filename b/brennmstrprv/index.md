@@ -3,6 +3,7 @@ Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf 
   im landwirtschaftlichen Bereich
 layout: default
 slug: brennmstrprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Brenner/Brennerin im landwirtschaftlichen Bereich (BrennMstrPrV)

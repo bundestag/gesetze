@@ -2,6 +2,7 @@
 Title: Abkommen über den internationalen Währungsfonds
 layout: default
 slug: imfabk
+
 ---
 
 # Abkommen über den internationalen Währungsfonds (IMFAbk)

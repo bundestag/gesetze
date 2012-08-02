@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation
-  und Teilhabe behinderter Menschen'
+Title: Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation und Teilhabe behinderter
+  Menschen
 layout: default
 slug: sgb9ua_ndg
+
 ---
 
 # Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation und Teilhabe behinderter Menschen (SGB9uaÄndG)

@@ -3,6 +3,7 @@ Title: Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr u
   Hinterbliebenen
 layout: default
 slug: svg
+
 ---
 
 # Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen (SVG)

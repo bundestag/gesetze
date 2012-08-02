@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz landwirtschaftlicher Nutztiere und
-  anderer zur Erzeugung tierischer Produkte gehaltener Tiere bei ihrer Haltung'
+Title: Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung
+  tierischer Produkte gehaltener Tiere bei ihrer Haltung
 layout: default
 slug: tierschnutztv
+
 ---
 
 # Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung tierischer Produkte gehaltener Tiere bei ihrer Haltung (TierSchNutztV)

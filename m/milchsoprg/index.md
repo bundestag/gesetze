@@ -2,6 +2,7 @@
 Title: Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter
 layout: default
 slug: milchsoprg
+
 ---
 
 # Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter (MilchSoPrG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Zahlung von Beiträgen zur gesetzlichen Rentenversicherung
 layout: default
 slug: rv-bzv
+
 ---
 
 # Verordnung über die Zahlung von Beiträgen zur gesetzlichen Rentenversicherung (RV-BZV)

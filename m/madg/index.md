@@ -2,6 +2,7 @@
 Title: Gesetz über den militärischen Abschirmdienst
 layout: default
 slug: madg
+
 ---
 
 # Gesetz über den militärischen Abschirmdienst (MADG)

@@ -5,6 +5,7 @@ Title: Bekanntmachung des ergänzenden Beschlusses des Deutschen Bundestages zur
   Oktober 1990 zustimmend zur Kenntnis genommen hat
 layout: default
 slug: btbrggo_ndergbek_1990
+
 ---
 
 # Bekanntmachung des ergänzenden Beschlusses des Deutschen Bundestages zur Änderung der Gemeinsamen Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß), den der Bundesrat am 12. Oktober 1990 zustimmend zur Kenntnis genommen hat (BTBRGGOÄndErgBek 1990)

@@ -6,6 +6,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   Beihilfevorschriften
 layout: default
 slug: bghwidano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesgerichtshofs und des Generalbundesanwalts beim Bundesgerichtshof einschließlich der Dienststelle Bundeszentralregister in Angelegenheiten nach den Beihilfevorschriften (BGHWidAnO)

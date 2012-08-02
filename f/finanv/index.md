@@ -2,6 +2,7 @@
 Title: Verordnung über die Analyse von Finanzinstrumenten
 layout: default
 slug: finanv
+
 ---
 
 # Verordnung über die Analyse von Finanzinstrumenten (FinAnV)

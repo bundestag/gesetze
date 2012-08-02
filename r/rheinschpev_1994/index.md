@@ -2,6 +2,7 @@
 Title: Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung
 layout: default
 slug: rheinschpev_1994
+
 ---
 
 # Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung (RheinSchPEV 1994)

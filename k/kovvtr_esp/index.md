@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Spanischen Staat 
   Kriegsopferversorgung
 layout: default
 slug: kovvtr_esp
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Kriegsopferversorgung (KOVVtr ESP)

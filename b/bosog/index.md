@@ -3,6 +3,7 @@ Title: Gesetz über die Sonderung unvermessener und überbauter Grundstücke nac
   Karte
 layout: default
 slug: bosog
+
 ---
 
 # Gesetz über die Sonderung unvermessener und überbauter Grundstücke nach der Karte (BoSoG)

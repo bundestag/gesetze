@@ -3,6 +3,7 @@ Title: Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikations
   im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
 layout: default
 slug: khv
+
 ---
 
 # Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz (KHV)

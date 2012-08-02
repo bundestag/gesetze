@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur  Immobilienkauffrau
 layout: default
 slug: immobkfmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur  Immobilienkauffrau (ImmobKfmAusbV)

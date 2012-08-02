@@ -1,9 +1,10 @@
 [^F772725_01_BJNR378300009]
 Verordnung zur Durchführung des Batteriegesetzes
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: battgdv
+
 ---
 
 #  (BattGDV)

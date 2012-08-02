@@ -3,6 +3,7 @@ Title: Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stell
   in Dienststellen des Bundes
 layout: default
 slug: gleibwv
+
 ---
 
 # Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin in Dienststellen des Bundes (GleibWV)

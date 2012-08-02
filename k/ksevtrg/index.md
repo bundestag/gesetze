@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 19. November 1990 über konventionelle Streitkr
   in Europa
 layout: default
 slug: ksevtrg
+
 ---
 
 # Gesetz zu dem Vertrag vom 19. November 1990 über konventionelle Streitkräfte in Europa (KSEVtrG)

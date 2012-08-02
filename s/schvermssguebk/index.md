@@ -2,6 +2,7 @@
 Title: Übereinkommen über ein einheitliches System der Schiffsvermessung
 layout: default
 slug: schvermssg_bk
+
 ---
 
 # Übereinkommen über ein einheitliches System der Schiffsvermessung (SchVermssgÜbk)

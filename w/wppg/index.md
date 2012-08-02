@@ -4,6 +4,7 @@ Title: Gesetz über die Erstellung, Billigung und Veröffentlichung des Prospekt
   zum Handel an einem organisierten Markt zu veröffentlichen ist
 layout: default
 slug: wppg
+
 ---
 
 # Gesetz über die Erstellung, Billigung und Veröffentlichung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei der Zulassung von Wertpapieren zum Handel an einem organisierten Markt zu veröffentlichen ist (WpPG)

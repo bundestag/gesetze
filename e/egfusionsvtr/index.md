@@ -3,6 +3,7 @@ Title: Vertrag zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Komm
   der Europäischen Gemeinschaften
 layout: default
 slug: egfusionsvtr
+
 ---
 
 # Vertrag zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Kommission der Europäischen Gemeinschaften (EGFusionsVtr)

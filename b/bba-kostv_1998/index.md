@@ -3,6 +3,7 @@ Title: Verordnung über Kosten des Bundesamtes für Verbraucherschutz und Lebens
   und des Julius Kühn-Instituts, Bundesforschungsinstitut für Kulturpflanzen im Pflanzenschutzbereich
 layout: default
 slug: bba-kostv_1998
+
 ---
 
 # Verordnung über Kosten des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit und des Julius Kühn-Instituts, Bundesforschungsinstitut für Kulturpflanzen im Pflanzenschutzbereich (BBA-KostV 1998)

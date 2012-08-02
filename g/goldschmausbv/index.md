@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Goldschmied/zur Goldschmiedin
 layout: default
 slug: goldschmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Goldschmied/zur Goldschmiedin (GoldSchmAusbV)

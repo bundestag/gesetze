@@ -3,6 +3,7 @@ Title: Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunrein
   Geräusche, Erschütterungen und ähnliche Vorgänge
 layout: default
 slug: bimschg
+
 ---
 
 # Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (BImSchG)

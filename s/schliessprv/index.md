@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Schlie
   Sicherungstechniker/Geprüfte Schließ- und Sicherungstechnikerin
 layout: default
 slug: schlie_prv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Schließ- und Sicherungstechniker/Geprüfte Schließ- und Sicherungstechnikerin (SchließPrV)

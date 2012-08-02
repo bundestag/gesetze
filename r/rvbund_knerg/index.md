@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung der Deutschen Rentenversicherung Bund
-  und der Deutschen Rentenversicherung Knappschaft-Bahn-See'
+Title: Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen
+  Rentenversicherung Knappschaft-Bahn-See
 layout: default
 slug: rvbund_knerg
+
 ---
 
 # Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See (RVBund/KnErG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 90 des Bewertungsgesetzes
 layout: default
 slug: bewg_90dv
+
 ---
 
 # Verordnung zur Durchführung des § 90 des Bewertungsgesetzes (BewG§90DV)

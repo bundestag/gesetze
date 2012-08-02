@@ -2,6 +2,7 @@
 Title: Paßgesetz
 layout: default
 slug: pa_g_1986
+
 ---
 
 # Paßgesetz (PaßG 1986)

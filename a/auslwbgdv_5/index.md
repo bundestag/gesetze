@@ -3,6 +3,7 @@ Title: Fünfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Aus
   (Verwaltungsabgabe und Vorschußverpflichtung der Aussteller)
 layout: default
 slug: auslwbgdv_5
+
 ---
 
 # Fünfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Verwaltungsabgabe und Vorschußverpflichtung der Aussteller) (AuslWBGDV 5)

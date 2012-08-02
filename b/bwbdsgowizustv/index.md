@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von O
   nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr
 layout: default
 slug: bwbdsgowizustv
+
 ---
 
 # Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr (BwBDSGOWiZustV)

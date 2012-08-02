@@ -4,6 +4,7 @@ Title: Hundertvierundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnun
   Mannheim)
 layout: default
 slug: luftvodv_194
+
 ---
 
 # Hundertvierundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mannheim) (LuftVODV 194)

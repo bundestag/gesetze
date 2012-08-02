@@ -3,6 +3,7 @@ Title: Gesetz über die Kraftloserklärung von Hypotheken-, Grundschuld- und Ren
   in besonderen Fällen
 layout: default
 slug: hypkrloserklg
+
 ---
 
 # Gesetz über die Kraftloserklärung von Hypotheken-, Grundschuld- und Rentenschuldbriefen in besonderen Fällen (HypKrlosErklG)

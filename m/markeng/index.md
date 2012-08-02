@@ -2,6 +2,7 @@
 Title: Gesetz über den Schutz von Marken und sonstigen Kennzeichen
 layout: default
 slug: markeng
+
 ---
 
 # Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)

@@ -3,6 +3,7 @@ Title: Verordnung über soldatenversorgungsrechtliche Übergangsregelungen nach 
   der Einheit Deutschlands
 layout: default
 slug: sv_v
+
 ---
 
 # Verordnung über soldatenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands (SVÜV)

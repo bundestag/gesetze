@@ -2,6 +2,7 @@
 Title: Verordnung über den weiteren Ausbau der knappschaftlichen Versicherung
 layout: default
 slug: knvausbauv
+
 ---
 
 # Verordnung über den weiteren Ausbau der knappschaftlichen Versicherung (KnVAusbauV)

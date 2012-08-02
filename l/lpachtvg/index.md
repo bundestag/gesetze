@@ -2,6 +2,7 @@
 Title: Gesetz über die Anzeige und Beanstandung von Landpachtverträgen
 layout: default
 slug: lpachtvg
+
 ---
 
 # Gesetz über die Anzeige und Beanstandung von Landpachtverträgen (LPachtVG)

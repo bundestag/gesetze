@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Arzneimittelfarbstoffverordnung'
+Title: Arzneimittelfarbstoffverordnung
 layout: default
 slug: amfarbv_2005
+
 ---
 
 # Arzneimittelfarbstoffverordnung (AMFarbV 2005)

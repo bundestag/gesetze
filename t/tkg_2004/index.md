@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Telekommunikationsgesetz'
+Title: Telekommunikationsgesetz
 layout: default
 slug: tkg_2004
+
 ---
 
 # Telekommunikationsgesetz (TKG 2004)

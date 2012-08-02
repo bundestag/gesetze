@@ -3,6 +3,7 @@ Title: Anordnung über die Wahrnehmung von Zuständigkeiten auf dem Gebiet der S
   durch das Bundesverwaltungsamt
 layout: default
 slug: bvwasozhzustano
+
 ---
 
 # Anordnung über die Wahrnehmung von Zuständigkeiten auf dem Gebiet der Sozialhilfe durch das Bundesverwaltungsamt (BVwASozHZustAnO)

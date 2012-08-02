@@ -2,6 +2,7 @@
 Title: Erlaß über die Stiftung der Sportplakette des Bundespräsidenten
 layout: default
 slug: bpr_ssportplerl
+
 ---
 
 # Erlaß über die Stiftung der Sportplakette des Bundespräsidenten (BPräsSportplErl)

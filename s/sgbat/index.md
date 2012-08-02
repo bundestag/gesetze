@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch - Allgemeiner Teil -'
+Title: Sozialgesetzbuch - Allgemeiner Teil -
 layout: default
 slug: sgbat
+
 ---
 
 # Sozialgesetzbuch - Allgemeiner Teil - (SGBAT)

@@ -3,6 +3,7 @@ Title: Verordnung über die Zulassung von neueinreisenden Ausländern zur Ausüb
   Beschäftigung
 layout: default
 slug: beschv
+
 ---
 
 # Verordnung über die Zulassung von neueinreisenden Ausländern zur Ausübung einer Beschäftigung (BeschV)

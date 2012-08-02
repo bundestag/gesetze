@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Ausbau von Energieleitungen'
+Title: Gesetz zum Ausbau von Energieleitungen
 layout: default
 slug: enlag
+
 ---
 
 # Gesetz zum Ausbau von Energieleitungen (EnLAG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Branntweinmonopolverordnung'
+Title: Branntweinmonopolverordnung
 layout: default
 slug: brmv
+
 ---
 
 # Branntweinmonopolverordnung (BrMV)

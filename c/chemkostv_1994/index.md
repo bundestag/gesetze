@@ -2,6 +2,7 @@
 Title: Verordnung über Kosten für Amtshandlungen der Bundesbehörden nach dem Chemikaliengesetz
 layout: default
 slug: chemkostv_1994
+
 ---
 
 # Verordnung über Kosten für Amtshandlungen der Bundesbehörden nach dem Chemikaliengesetz (ChemKostV 1994)

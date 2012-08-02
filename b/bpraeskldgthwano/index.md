@@ -4,6 +4,7 @@ Title: Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum 
   Technisches Hilfswerk
 layout: default
 slug: bpr_skldgthwano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum Erlaß von Bestimmungen über die Dienstkleidung von hauptamtlichen Mitarbeitern der Bundesanstalt Technisches Hilfswerk (BPräsKldgTHWAnO)

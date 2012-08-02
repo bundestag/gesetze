@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Auslandskostenverordnung'
+Title: Auslandskostenverordnung
 layout: default
 slug: akostv_2002
+
 ---
 
 # Auslandskostenverordnung (AKostV 2002)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Die Verfassung des Deutschen Reichs'
+Title: Die Verfassung des Deutschen Reichs
 layout: default
 slug: wrv
+
 ---
 
 # Die Verfassung des Deutschen Reichs (WRV)

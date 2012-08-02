@@ -4,6 +4,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   ISS")
 layout: default
 slug: m_nz10eurobek_2004-08-27
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "Columbus - Europas Labor für die internationale Raumstation ISS") (Münz10EuroBek 2004-08-27)

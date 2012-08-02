@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin
 layout: default
 slug: physlabausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin (PhysLabAusbV)

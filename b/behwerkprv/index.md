@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfte Fachkra
   Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen
 layout: default
 slug: behwerkprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen (BehWerkPrV)

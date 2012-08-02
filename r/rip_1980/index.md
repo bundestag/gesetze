@@ -3,6 +3,7 @@ Title: Ordnung für die internationale Eisenbahnbeförderung von Privatwagen (An
   II zum Anhang B zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF)
 layout: default
 slug: rip_1980
+
 ---
 
 # Ordnung für die internationale Eisenbahnbeförderung von Privatwagen (Anlage II zum Anhang B zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF) (RIP 1980)

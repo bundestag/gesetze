@@ -2,6 +2,7 @@
 Title: Verordnung über gewerbsmäßige Versteigerungen
 layout: default
 slug: verstv_2003
+
 ---
 
 # Verordnung über gewerbsmäßige Versteigerungen (VerstV 2003)

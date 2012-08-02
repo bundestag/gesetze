@@ -3,6 +3,7 @@ Title: Gesetz über Änderungen von Vorschriften des Zweiten Buches der Reichsve
   und zur Ergänzung des Sozialgerichtsgesetzes
 layout: default
 slug: karg
+
 ---
 
 # Gesetz über Änderungen von Vorschriften des Zweiten Buches der Reichsversicherungsordnung und zur Ergänzung des Sozialgerichtsgesetzes (KARG)

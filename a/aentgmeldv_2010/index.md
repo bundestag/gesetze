@@ -2,6 +2,7 @@
 Title: Verordnung über Meldepflichten nach dem Arbeitnehmer-Entsendegesetz
 layout: default
 slug: aentgmeldv_2010
+
 ---
 
 # Verordnung über Meldepflichten nach dem Arbeitnehmer-Entsendegesetz (AEntGMeldV 2010)

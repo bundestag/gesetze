@@ -3,6 +3,7 @@ Title: Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zu
   und zur Änderung anderer Gesetze
 layout: default
 slug: hzvng
+
 ---
 
 # Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung und zur Änderung anderer Gesetze (HZvNG)

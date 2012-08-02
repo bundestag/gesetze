@@ -2,6 +2,7 @@
 Title: Verordnung zu § 82 des Bundesdisziplinargesetzes
 layout: default
 slug: bdg_82v_2008
+
 ---
 
 # Verordnung zu § 82 des Bundesdisziplinargesetzes (BDG§82V 2008)

@@ -2,6 +2,7 @@
 Title: Verordnung über Bodenabfertigungsdienste auf Flugplätzen
 layout: default
 slug: badv
+
 ---
 
 # Verordnung über Bodenabfertigungsdienste auf Flugplätzen (BADV)

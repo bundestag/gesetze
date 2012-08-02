@@ -2,6 +2,7 @@
 Title: Gebührenordnung für Zahnärzte
 layout: default
 slug: goz_1987
+
 ---
 
 # Gebührenordnung für Zahnärzte (GOZ 1987)

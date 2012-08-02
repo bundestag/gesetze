@@ -2,6 +2,7 @@
 Title: Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen
 layout: default
 slug: deckrv
+
 ---
 
 # Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen (DeckRV)

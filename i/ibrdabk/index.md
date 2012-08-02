@@ -2,6 +2,7 @@
 Title: Abkommen über die Internationale Bank für Wiederaufbau und Entwicklung
 layout: default
 slug: ibrdabk
+
 ---
 
 # Abkommen über die Internationale Bank für Wiederaufbau und Entwicklung (IBRDAbk)

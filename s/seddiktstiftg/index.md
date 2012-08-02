@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung einer Stiftung zur Aufarbeitung der SED-Diktatur
 layout: default
 slug: seddiktstiftg
+
 ---
 
 # Gesetz über die Errichtung einer Stiftung zur Aufarbeitung der SED-Diktatur (SEDDiktStiftG)

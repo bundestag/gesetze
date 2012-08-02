@@ -2,6 +2,7 @@
 Title: Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz
 layout: default
 slug: bgsneuregg
+
 ---
 
 # Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz (BGSNeuRegG)

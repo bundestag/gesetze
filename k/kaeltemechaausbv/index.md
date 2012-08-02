@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Mechatroniker für  Kältetechn
   Mechatronikerin für Kältetechnik
 layout: default
 slug: k_ltemechaausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Mechatroniker für  Kältetechnik/zur Mechatronikerin für Kältetechnik (KälteMechaAusbV)

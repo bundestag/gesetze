@@ -3,6 +3,7 @@ Title: Verordnung über die Vergütungsstufen des Arbeitsentgelts und der Ausbil
   nach dem Strafvollzugsgesetz
 layout: default
 slug: stvollzvergo
+
 ---
 
 # Verordnung über die Vergütungsstufen des Arbeitsentgelts und der Ausbildungsbeihilfe nach dem Strafvollzugsgesetz (StVollzVergO)

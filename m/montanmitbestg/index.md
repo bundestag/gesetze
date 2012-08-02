@@ -3,6 +3,7 @@ Title: Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten un
   der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie
 layout: default
 slug: montanmitbestg
+
 ---
 
 # Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie (MontanMitbestG)

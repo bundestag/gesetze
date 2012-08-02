@@ -2,6 +2,7 @@
 Title: Verordnung über Stoffe, die die Ozonschicht schädigen
 layout: default
 slug: chemozonschichtv
+
 ---
 
 # Verordnung über Stoffe, die die Ozonschicht schädigen (ChemOzonSchichtV)

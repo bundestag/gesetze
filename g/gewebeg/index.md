@@ -2,6 +2,7 @@
 Title: Gesetz über Qualität und Sicherheit von menschlichen Geweben und Zellen
 layout: default
 slug: gewebeg
+
 ---
 
 # Gesetz über Qualität und Sicherheit von menschlichen Geweben und Zellen (GewebeG)

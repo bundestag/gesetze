@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Behandlung von Schuldbuchforderungen gegen die
-  ehemalige Deutsche Demokratische Republik'
+Title: Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche
+  Demokratische Republik
 layout: default
 slug: schuldbberg
+
 ---
 
 # Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik (SchuldBBerG)

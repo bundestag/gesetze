@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   zum Zwecke der Aus- und Weiterbildung
 layout: default
 slug: aaustvorhabk_usa
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Durchführung von Austauschvorhaben zum Zwecke der Aus- und Weiterbildung (AAustVorhAbk USA)

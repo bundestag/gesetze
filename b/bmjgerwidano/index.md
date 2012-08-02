@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widersp
   des Bundesministeriums der Justiz
 layout: default
 slug: bmjgerwidano
+
 ---
 
 # Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die obersten Gerichte des Bundes im Geschäftsbereich des Bundesministeriums der Justiz (BMJGerWidAnO)

@@ -4,6 +4,7 @@ Title: Zweihundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Or
   Flughafen Berlin Brandenburg)
 layout: default
 slug: luftvodv_248
+
 ---
 
 # Zweihundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Berlin Brandenburg) (LuftVODV 248)

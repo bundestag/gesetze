@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages
 layout: default
 slug: abgg
+
 ---
 
 # Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages (AbgG)

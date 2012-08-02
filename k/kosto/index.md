@@ -2,6 +2,7 @@
 Title: Gesetz über die Kosten in Angelegenheiten der freiwilligen Gerichtsbarkeit
 layout: default
 slug: kosto
+
 ---
 
 # Gesetz über die Kosten in Angelegenheiten der freiwilligen Gerichtsbarkeit (KostO)

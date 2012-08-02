@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Allgemeines Magnetschwebebahngesetz'
+Title: Allgemeines Magnetschwebebahngesetz
 layout: default
 slug: ambg
+
 ---
 
 # Allgemeines Magnetschwebebahngesetz (AMbG)

@@ -2,6 +2,7 @@
 Title: Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten
 layout: default
 slug: mpbetreibv
+
 ---
 
 # Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten (MPBetreibV)

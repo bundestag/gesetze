@@ -3,6 +3,7 @@ Title: Gesetz über die Beteiligung der Arbeitnehmer und Arbeitnehmerinnen in ei
   Europäischen Genossenschaft
 layout: default
 slug: scebg
+
 ---
 
 # Gesetz über die Beteiligung der Arbeitnehmer und Arbeitnehmerinnen in einer Europäischen Genossenschaft (SCEBG)

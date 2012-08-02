@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von
-  Kulturgut bei bewaffneten Konflikten'
+Title: Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten
+  Konflikten
 layout: default
 slug: kultgschkonvg
+
 ---
 
 # Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten (KultgSchKonvG)

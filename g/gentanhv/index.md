@@ -2,6 +2,7 @@
 Title: Verordnung über Anhörungsverfahren nach dem Gentechnikgesetz
 layout: default
 slug: gentanhv
+
 ---
 
 # Verordnung über Anhörungsverfahren nach dem Gentechnikgesetz (GenTAnhV)

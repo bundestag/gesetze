@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postgesetz'
+Title: Postgesetz
 layout: default
 slug: postg_1998
+
 ---
 
 # Postgesetz (PostG 1998)

@@ -2,6 +2,7 @@
 Title: Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder
 layout: default
 slug: rdeckinfv
+
 ---
 
 # Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder (RDeckInfV)

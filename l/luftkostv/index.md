@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kostenverordnung der Luftfahrtverwaltung'
+Title: Kostenverordnung der Luftfahrtverwaltung
 layout: default
 slug: luftkostv
+
 ---
 
 # Kostenverordnung der Luftfahrtverwaltung (LuftKostV)

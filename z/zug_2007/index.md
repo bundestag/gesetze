@@ -3,6 +3,7 @@ Title: Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsber
   in der Zuteilungsperiode 2005 bis 2007
 layout: default
 slug: zug_2007
+
 ---
 
 # Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2005 bis 2007 (ZuG 2007)

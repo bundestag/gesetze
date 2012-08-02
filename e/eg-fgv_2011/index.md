@@ -3,9 +3,10 @@ Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre
 Anhänger sowie für Systeme, Bauteile und selbstständige technische
 Einheiten für diese Fahrzeuge
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: eg-fgv_2011
+
 ---
 
 #  (EG-FGV 2011)

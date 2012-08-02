@@ -3,6 +3,7 @@ Title: Erste Verordnung zur Durchführung des Gesetzes über die Änderung von F
   und Vornamen
 layout: default
 slug: famnam_ndgdv_1
+
 ---
 
 # Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen und Vornamen (FamNamÄndGDV 1)

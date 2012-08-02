@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuer
   und Steuerberatungsgesellschaften
 layout: default
 slug: stbdv
+
 ---
 
 # Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBDV)

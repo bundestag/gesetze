@@ -2,6 +2,7 @@
 Title: Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes
 layout: default
 slug: zinssatzv
+
 ---
 
 # Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes (ZinsSatzV)

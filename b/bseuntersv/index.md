@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur fleischhygienerechtlichen Untersuchung von
-  geschlachteten Rindern auf BSE'
+Title: Verordnung zur fleischhygienerechtlichen Untersuchung von geschlachteten Rindern
+  auf BSE
 layout: default
 slug: bseuntersv
+
 ---
 
 # Verordnung zur fleischhygienerechtlichen Untersuchung von geschlachteten Rindern auf BSE (BSEUntersV)

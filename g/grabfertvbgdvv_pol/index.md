@@ -8,6 +8,7 @@ Title: Verordnung zur Durchführung der Vereinbarung vom 28. Mai 1999 zwischen d
   und über die Grenzabfertigung während der Fahrt in Reisezügen auf bestimmten Strecken
 layout: default
 slug: grabfertvbgdvv_pol
+
 ---
 
 # Verordnung zur Durchführung der Vereinbarung vom 28. Mai 1999 zwischen dem Bundesministerium der Finanzen der Bundesrepublik Deutschland und dem Minister für Transport und Seewirtschaft der Republik Polen über die Zonen an den Grenzübergängen (Eisenbahn) Grambow - Stettin-Scheune (Szczecin Gumience), Tantow - Stettin-Scheune (Szczecin Gumience), Küstrin-Kietz - Küstrin (Kostrzyn), Frankfurt (Oder) - Kunersdorf (Kunowice), Guben - Guben (Gubin), Forst - Skaren (Zasieki), Görlitz - Görlitz (Zgorzelec) und über die Grenzabfertigung während der Fahrt in Reisezügen auf bestimmten Strecken (GrAbfertVbgDVV POL)

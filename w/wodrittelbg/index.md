@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
-  nach dem Drittelbeteiligungsgesetz'
+Title: Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer nach dem Drittelbeteiligungsgesetz
 layout: default
 slug: wodrittelbg
+
 ---
 
 # Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer nach dem Drittelbeteiligungsgesetz (WODrittelbG)

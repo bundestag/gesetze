@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des Grundbuchbereinigungsgesetzes und andere
   auf dem Gebiet des Sachenrechts
 layout: default
 slug: sachenr-dv
+
 ---
 
 # Verordnung zur Durchführung des Grundbuchbereinigungsgesetzes und anderer Vorschriften auf dem Gebiet des Sachenrechts (SachenR-DV)

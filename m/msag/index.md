@@ -3,6 +3,7 @@ Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 über die Zustän
   der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen
 layout: default
 slug: msag
+
 ---
 
 # Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen (MSAG)

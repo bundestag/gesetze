@@ -2,6 +2,7 @@
 Title: Verordnung über die Ermittlung der zulässigen Miete für preisgebundene Wohnungen
 layout: default
 slug: nmv_1970
+
 ---
 
 # Verordnung über die Ermittlung der zulässigen Miete für preisgebundene Wohnungen (NMV 1970)

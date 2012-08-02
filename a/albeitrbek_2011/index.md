@@ -3,6 +3,7 @@ Title: Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssich
   der Landwirte für das Jahr 2011
 layout: default
 slug: albeitrbek_2011
+
 ---
 
 # Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2011 (ALBeitrBek 2011)

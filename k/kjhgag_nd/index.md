@@ -2,6 +2,7 @@
 Title: Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes
 layout: default
 slug: kjhgag_nd
+
 ---
 
 # Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes (KJHGAG ND)

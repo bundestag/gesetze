@@ -5,6 +5,7 @@ Title: Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlas
   im Geschäftsbereich des Bundeskanzleramtes
 layout: default
 slug: bkwid_vtrano
+
 ---
 
 # Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis sowie über die Vertretung in bürgerlichen oder sonstigen rechtlichen Angelegenheiten im Geschäftsbereich des Bundeskanzleramtes (BKWid/VtrAnO)

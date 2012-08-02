@@ -3,6 +3,7 @@ Title: Verordnung zum Verbot der Verwendung bestimmter Stoffe zur Vermeidung des
   der Übertragung transmissibler spongiformer Enzephalopathien durch Arzneimittel
 layout: default
 slug: tseamv
+
 ---
 
 # Verordnung zum Verbot der Verwendung bestimmter Stoffe zur Vermeidung des Risikos der Übertragung transmissibler spongiformer Enzephalopathien durch Arzneimittel (TSEAMV)

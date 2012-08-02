@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Raumordnungsverordnung'
+Title: Raumordnungsverordnung
 layout: default
 slug: rov
+
 ---
 
 # Raumordnungsverordnung (RoV)

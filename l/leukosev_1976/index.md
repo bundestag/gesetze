@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Leukose der Rinder'
+Title: Verordnung zum Schutz gegen die Leukose der Rinder
 layout: default
 slug: leukosev_1976
+
 ---
 
 # Verordnung zum Schutz gegen die Leukose der Rinder (LeukoseV 1976)

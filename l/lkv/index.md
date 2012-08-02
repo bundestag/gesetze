@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Los-Kennzeichnungs-Verordnung'
+Title: Los-Kennzeichnungs-Verordnung
 layout: default
 slug: lkv
+
 ---
 
 # Los-Kennzeichnungs-Verordnung (LKV)

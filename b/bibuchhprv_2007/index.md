@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bilanz
   Bilanzbuchhalterin
 layout: default
 slug: bibuchhprv_2007
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin (BibuchhPrV 2007)

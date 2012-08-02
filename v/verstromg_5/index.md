@@ -2,6 +2,7 @@
 Title: Gesetz über Hilfen für den deutschen Steinkohlebergbau bis zum Jahr 2005
 layout: default
 slug: verstromg_5
+
 ---
 
 # Gesetz über Hilfen für den deutschen Steinkohlebergbau bis zum Jahr 2005 (VerstromG 5)

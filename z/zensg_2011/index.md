@@ -2,6 +2,7 @@
 Title: Gesetz über den registergestützten Zensus im Jahre 2011
 layout: default
 slug: zensg_2011
+
 ---
 
 # Gesetz über den registergestützten Zensus im Jahre 2011 (ZensG 2011)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Mitbestimmung der Arbeitnehmer
 layout: default
 slug: mitbestg
+
 ---
 
 # Gesetz über die Mitbestimmung der Arbeitnehmer (MitbestG)

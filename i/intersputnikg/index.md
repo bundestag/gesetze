@@ -5,6 +5,7 @@ Title: Gesetz zu dem Abkommen vom 15. November 1971 über die Schaffung des inte
   in dieses Abkommen
 layout: default
 slug: intersputnikg
+
 ---
 
 # Gesetz zu dem Abkommen vom 15. November 1971 über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen "INTERSPUTNIK" und zu dem Protokoll vom 30. November 1996 über die Einbringung von Korrekturen in dieses Abkommen (INTERSPUTNIKG)

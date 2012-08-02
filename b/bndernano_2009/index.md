@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten b
   Bundesnachrichtendienst
 layout: default
 slug: bndernano_2009
+
 ---
 
 # Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten beim Bundesnachrichtendienst (BNDErnAnO 2009)

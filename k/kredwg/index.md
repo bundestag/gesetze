@@ -2,6 +2,7 @@
 Title: Gesetz über das Kreditwesen
 layout: default
 slug: kredwg
+
 ---
 
 # Gesetz über das Kreditwesen (KredWG)

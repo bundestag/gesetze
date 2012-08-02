@@ -2,6 +2,7 @@
 Title: Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs
 layout: default
 slug: regg
+
 ---
 
 # Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs (RegG)

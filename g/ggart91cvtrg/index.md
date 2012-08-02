@@ -4,6 +4,7 @@ Title: 'Gesetz zum Vertrag über die Errichtung des IT-Planungsrats und über di
   von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (siehe: GGArt91cVtr)'
 layout: default
 slug: ggart91cvtrg
+
 ---
 
 # Gesetz zum Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (siehe: GGArt91cVtr) (GGArt91cVtrG)

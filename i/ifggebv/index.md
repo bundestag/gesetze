@@ -2,6 +2,7 @@
 Title: Verordnung über die Gebühren und Auslagen nach dem  Informationsfreiheitsgesetz
 layout: default
 slug: ifggebv
+
 ---
 
 # Verordnung über die Gebühren und Auslagen nach dem  Informationsfreiheitsgesetz (IFGGebV)

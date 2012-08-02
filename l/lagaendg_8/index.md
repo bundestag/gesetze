@@ -3,6 +3,7 @@ Title: Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 
   LAG - 8. ÄndG LAG)
 layout: default
 slug: lag_ndg_8
+
 ---
 
 # Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG) (LAGÄndG 8)

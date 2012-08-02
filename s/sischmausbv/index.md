@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
 layout: default
 slug: sischmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin (SiSchmAusbV)

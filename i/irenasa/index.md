@@ -2,6 +2,7 @@
 Title: Satzung der Internationalen Organisation für erneuerbare Energien
 layout: default
 slug: irenasa
+
 ---
 
 # Satzung der Internationalen Organisation für erneuerbare Energien (IRENASa)

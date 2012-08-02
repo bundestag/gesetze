@@ -2,6 +2,7 @@
 Title: Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen
 layout: default
 slug: wasmotrv
+
 ---
 
 # Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen (WasMotRV)

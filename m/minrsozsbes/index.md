@@ -4,6 +4,7 @@ Title: Beschluß des Ministerrates der Deutschen Demokratischen Republik über R
   Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
 layout: default
 slug: minrsozsbes
+
 ---
 
 # Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990 (MinRSozSBes)

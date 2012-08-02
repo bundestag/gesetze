@@ -4,6 +4,7 @@ Title: Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europä
   Investitionsbank mit dem Bund
 layout: default
 slug: kvstgleichstv
+
 ---
 
 # Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europäischen Gemeinschaft für Kohle und Stahl, der Europäischen Atomgemeinschaft und der Europäischen Investitionsbank mit dem Bund (KVStGleichstV)

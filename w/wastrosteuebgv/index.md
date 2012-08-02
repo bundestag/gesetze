@@ -3,6 +3,7 @@ Title: Verordnung zum Übergang einer Teilstrecke der Bundeswasserstraße Oste a
   Land Niedersachsen
 layout: default
 slug: wastroste_bgv
+
 ---
 
 # Verordnung zum Übergang einer Teilstrecke der Bundeswasserstraße Oste auf das Land Niedersachsen (WaStrOsteÜbgV)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten
-  Verstromungsgesetz'
+Title: Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten Verstromungsgesetz
 layout: default
 slug: verstromg3abwg
+
 ---
 
 # Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten Verstromungsgesetz (VerstromG3AbwG)

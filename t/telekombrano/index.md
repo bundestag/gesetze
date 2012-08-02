@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beam
   im Geschäftsbereich der Deutschen Bundespost TELEKOM
 layout: default
 slug: telekombrano
+
 ---
 
 # Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Geschäftsbereich der Deutschen Bundespost TELEKOM (TELEKOMBRAnO)

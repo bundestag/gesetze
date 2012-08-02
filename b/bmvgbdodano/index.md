@@ -3,6 +3,7 @@ Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für den Geschä
   des Bundesministers der Verteidigung
 layout: default
 slug: bmvgbdodano
+
 ---
 
 # Anordnung zur Durchführung der Bundesdisziplinarordnung für den Geschäftsbereich des Bundesministers der Verteidigung (BMVgBDODAnO)

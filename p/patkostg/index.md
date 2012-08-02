@@ -2,6 +2,7 @@
 Title: Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
 layout: default
 slug: patkostg
+
 ---
 
 # Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (PatKostG)

@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten
 layout: default
 slug: psychth-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten (PsychTh-APrV)

@@ -2,6 +2,7 @@
 Title: Bergverordnung zum gesundheitlichen Schutz der Beschäftigten
 layout: default
 slug: gesbergv
+
 ---
 
 # Bergverordnung zum gesundheitlichen Schutz der Beschäftigten (GesBergV)

@@ -3,6 +3,7 @@ Title: Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kindersch
   und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
 layout: default
 slug: mukfrrgdbest_1
+
 ---
 
 # Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen (MuKFrRGDBest 1)

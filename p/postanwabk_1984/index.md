@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postanweisungs- und Postreisescheckabkommen'
+Title: Postanweisungs- und Postreisescheckabkommen
 layout: default
 slug: postanwabk_1984
+
 ---
 
 # Postanweisungs- und Postreisescheckabkommen (PostAnwAbk 1984)

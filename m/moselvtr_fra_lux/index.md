@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland, der Französischen Repub
   und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel
 layout: default
 slug: moselvtr_fra_lux
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel (MoselVtr FRA/LUX)

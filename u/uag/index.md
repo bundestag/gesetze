@@ -6,6 +6,7 @@ Title: Gesetz zur Ausführung der Verordnung (EG) Nr. 1221/2009 des Europäische
   2001/681EG und 2006/193/EG
 layout: default
 slug: uag
+
 ---
 
 # Gesetz zur Ausführung der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681EG und 2006/193/EG (UAG)

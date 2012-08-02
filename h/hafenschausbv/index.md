@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Hafenschiffer/zur  Hafenschifferin
 layout: default
 slug: hafenschausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Hafenschiffer/zur  Hafenschifferin (HafenSchAusbV)

@@ -3,6 +3,7 @@ Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bun
   Deutschland und der Französischen Republik
 layout: default
 slug: konsverfrav
+
 ---
 
 # Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Französischen Republik (KonsVerFRAV)

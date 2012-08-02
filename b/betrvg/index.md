@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Betriebsverfassungsgesetz'
+Title: Betriebsverfassungsgesetz
 layout: default
 slug: betrvg
+
 ---
 
 # Betriebsverfassungsgesetz (BetrVG)

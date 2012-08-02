@@ -2,6 +2,7 @@
 Title: Verordnung über Pflanzenschutzmittel und Pflanzenschutzgeräte
 layout: default
 slug: pflschmgv
+
 ---
 
 # Verordnung über Pflanzenschutzmittel und Pflanzenschutzgeräte (PflSchMGV)

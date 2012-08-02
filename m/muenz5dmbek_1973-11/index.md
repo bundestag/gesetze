@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze "Frankfurter Nationalversammlung 1848 in der Paulskirche")
 layout: default
 slug: m_nz5dmbek_1973-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze "Frankfurter Nationalversammlung 1848 in der Paulskirche") (Münz5DMBek 1973-11)

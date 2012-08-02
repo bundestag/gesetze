@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulag
   2005
 layout: default
 slug: invzulg2005dv
+
 ---
 
 # Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005 (InvZulG2005DV)

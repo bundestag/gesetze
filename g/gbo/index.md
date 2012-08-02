@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Grundbuchordnung'
+Title: Grundbuchordnung
 layout: default
 slug: gbo
+
 ---
 
 # Grundbuchordnung (GBO)

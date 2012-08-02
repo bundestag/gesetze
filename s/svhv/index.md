@@ -2,6 +2,7 @@
 Title: Verordnung über das Haushaltswesen in der Sozialversicherung
 layout: default
 slug: svhv
+
 ---
 
 # Verordnung über das Haushaltswesen in der Sozialversicherung (SVHV)

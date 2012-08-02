@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fotolaboranten/zur Fotolaborantin
 layout: default
 slug: fotolabausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fotolaboranten/zur Fotolaborantin (FotoLabAusbV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Patentgesetz'
+Title: Patentgesetz
 layout: default
 slug: patg
+
 ---
 
 # Patentgesetz (PatG)

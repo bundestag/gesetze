@@ -3,6 +3,7 @@ Title: Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens d
   vom 1. Februar 1995 zum Schutz nationaler Minderheiten
 layout: default
 slug: mindnam_ndg
+
 ---
 
 # Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens des Europarats vom 1. Februar 1995 zum Schutz nationaler Minderheiten (MindNamÄndG)

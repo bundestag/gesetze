@@ -5,6 +5,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   Arbeitslose sowie der Kosten für verwaltungsmäßige und ärztliche Kontrollen
 layout: default
 slug: svverzabk_irl
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung Irlands über den Verzicht auf die Erstattung von Aufwendungen für Sachleistungen bei Krankheit, Mutterschaft, Arbeitsunfall und Berufskrankheit, der Leistungen an Arbeitslose sowie der Kosten für verwaltungsmäßige und ärztliche Kontrollen (SVVerzAbk IRL)

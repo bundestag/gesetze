@@ -2,6 +2,7 @@
 Title: Bundesgesetz zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
 layout: default
 slug: beg
+
 ---
 
 # Bundesgesetz zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (BEG)

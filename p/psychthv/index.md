@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildung
   für Psychotherapie und Kinder- und Jugendlichenpsychotherapie
 layout: default
 slug: psychthv
+
 ---
 
 # Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie (PsychThV)

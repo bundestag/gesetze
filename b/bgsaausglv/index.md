@@ -3,6 +3,7 @@ Title: Verordnung zur Festsetzung des Ausgleichs für die Erfüllung bahnpolizei
   Aufgaben der Bundespolizei
 layout: default
 slug: bgsaausglv
+
 ---
 
 # Verordnung zur Festsetzung des Ausgleichs für die Erfüllung bahnpolizeilicher Aufgaben der Bundespolizei (BGSAAusglV)

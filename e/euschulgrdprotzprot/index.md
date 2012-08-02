@@ -3,6 +3,7 @@ Title: Zusatzprotokoll zum Protokoll vom 13. April 1962 über die Gründung Euro
   Schulen
 layout: default
 slug: euschulgrdprotzprot
+
 ---
 
 # Zusatzprotokoll zum Protokoll vom 13. April 1962 über die Gründung Europäischer Schulen (EuSchulGrdProtZProt)

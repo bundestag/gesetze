@@ -3,6 +3,7 @@ Title: Bekanntmachung der Dienstbezüge und Anwärterbezüge nach § 2 Abs. 1 un
   Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
 layout: default
 slug: bes_v2bek_1997-06-18
+
 ---
 
 # Bekanntmachung der Dienstbezüge und Anwärterbezüge nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung (BesÜV2Bek 1997-06-18)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Einordnung des Sozialhilferechts in das Sozialgesetzbuch'
+Title: Gesetz zur Einordnung des Sozialhilferechts in das Sozialgesetzbuch
 layout: default
 slug: sozhieinog
+
 ---
 
 # Gesetz zur Einordnung des Sozialhilferechts in das Sozialgesetzbuch (SozhiEinOG)

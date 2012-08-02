@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bewertungsgesetz'
+Title: Bewertungsgesetz
 layout: default
 slug: bewg
+
 ---
 
 # Bewertungsgesetz (BewG)

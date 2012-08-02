@@ -2,6 +2,7 @@
 Title: Künstlersozialabgabe-Verordnung 2011
 layout: default
 slug: ksabg2011v
+
 ---
 
 # Künstlersozialabgabe-Verordnung 2011 (KSAbg2011V)

@@ -3,6 +3,7 @@ Title: Gesetz zur Ausführung des Europäischen Übereinkommens betreffend Ausk�
   über ausländisches Recht und seines Zusatzprotokolls
 layout: default
 slug: euausk_bkg
+
 ---
 
 # Gesetz zur Ausführung des Europäischen Übereinkommens betreffend Auskünfte über ausländisches Recht und seines Zusatzprotokolls (EuAuskÜbkG)

@@ -4,6 +4,7 @@ Title: Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung d
   Altbanken
 layout: default
 slug: umstr_ckstg
+
 ---
 
 # Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken (UmstRückstG)

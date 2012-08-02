@@ -3,6 +3,7 @@ Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund un
   1991
 layout: default
 slug: bbvanpg_91
+
 ---
 
 # Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern 1991 (BBVAnpG 91)

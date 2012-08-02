@@ -3,6 +3,7 @@ Title: Gesetz über die Beaufsichtigung der Versorgungsanstalt der deutschen Bü
   und der Versorgungsanstalt der deutschen Kulturorchester
 layout: default
 slug: vaaufsg
+
 ---
 
 # Gesetz über die Beaufsichtigung der Versorgungsanstalt der deutschen Bühnen und der Versorgungsanstalt der deutschen Kulturorchester (VAAufsG)

@@ -3,6 +3,7 @@ Title: Allgemeine Anordnung über die Zuständigkeit des Bundesversicherungsamte
   dem Gebiete des Reisekostenrechts
 layout: default
 slug: bvarkano
+
 ---
 
 # Allgemeine Anordnung über die Zuständigkeit des Bundesversicherungsamtes auf dem Gebiete des Reisekostenrechts (BVARKAnO)

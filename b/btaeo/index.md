@@ -2,6 +2,7 @@
 Title: Bundes-Tierärzteordnung
 layout: default
 slug: bt_o
+
 ---
 
 # Bundes-Tierärzteordnung (BTÄO)

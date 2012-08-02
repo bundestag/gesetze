@@ -2,6 +2,7 @@
 Title: Gesetz über Schuldverschreibungen aus Gesamtemissionen
 layout: default
 slug: schvg
+
 ---
 
 # Gesetz über Schuldverschreibungen aus Gesamtemissionen (SchVG)

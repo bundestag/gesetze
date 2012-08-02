@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Vorbemerkung zu den Entschuldungsvorschriften'
+Title: Vorbemerkung zu den Entschuldungsvorschriften
 layout: default
 slug: entschvb
+
 ---
 
 # Vorbemerkung zu den Entschuldungsvorschriften (EntschVb)

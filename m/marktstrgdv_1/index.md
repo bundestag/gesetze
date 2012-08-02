@@ -3,6 +3,7 @@ Title: Erste Durchführungsverordnung zum Marktstrukturgesetz - Schlachtvieh, Fe
   Kälber zur Weitermast und Zuchtvieh
 layout: default
 slug: marktstrgdv_1
+
 ---
 
 # Erste Durchführungsverordnung zum Marktstrukturgesetz - Schlachtvieh, Ferkel, Kälber zur Weitermast und Zuchtvieh (MarktStrGDV 1)

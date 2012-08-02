@@ -3,6 +3,7 @@ Title: Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibu
   Bevölkerungsstandes
 layout: default
 slug: bevstatg
+
 ---
 
 # Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes (BevStatG)

@@ -4,6 +4,7 @@ Title: Gesetz zu dem Protokoll vom 28. August 1952 über die Rechtsstellung der 
   und zu den dieses Protokoll ergänzenden Vereinbarungen
 layout: default
 slug: natoprotg
+
 ---
 
 # Gesetz zu dem Protokoll vom 28. August 1952 über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten internationalen militärischen Hauptquartiere und zu den dieses Protokoll ergänzenden Vereinbarungen (NATOProtG)

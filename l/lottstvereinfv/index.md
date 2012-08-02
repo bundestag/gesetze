@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer'
+Title: Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
 layout: default
 slug: lottstvereinfv
+
 ---
 
 # Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer (LottStVereinfV)

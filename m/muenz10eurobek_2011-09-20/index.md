@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „100 Jahre Hamburger Elbtunnel“)
 layout: default
 slug: m_nz10eurobek_2011-09-20
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „100 Jahre Hamburger Elbtunnel“) (Münz10EuroBek 2011-09-20)

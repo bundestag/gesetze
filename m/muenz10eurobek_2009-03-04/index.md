@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „IAAF Leichtathletik WM Berlin 2009“)
 layout: default
 slug: m_nz10eurobek_2009-03-04
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „IAAF Leichtathletik WM Berlin 2009“) (Münz10EuroBek 2009-03-04)

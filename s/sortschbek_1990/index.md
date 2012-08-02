@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Gewährung eines dem Sortenschutz entsprechenden
   außerhalb des Geltungsbereichs des Sortenschutzgesetzes
 layout: default
 slug: sortschbek_1990
+
 ---
 
 # Bekanntmachung über die Gewährung eines dem Sortenschutz entsprechenden Schutzes außerhalb des Geltungsbereichs des Sortenschutzgesetzes (SortSchBek 1990)

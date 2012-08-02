@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tierische Nebenprodukte-Beseitigungsgesetz'
+Title: Tierische Nebenprodukte-Beseitigungsgesetz
 layout: default
 slug: tiernebg
+
 ---
 
 # Tierische Nebenprodukte-Beseitigungsgesetz (TierNebG)

@@ -2,9 +2,10 @@
 Verordnung über das Inverkehrbringen und Befördern von
 Wirtschaftsdünger
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: wd_ngv
+
 ---
 
 #  (WDüngV)

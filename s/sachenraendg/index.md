@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung sachenrechtlicher, grundbuchrechtlicher und anderer Vorschriften
 layout: default
 slug: sachenr_ndg
+
 ---
 
 # Gesetz zur Änderung sachenrechtlicher, grundbuchrechtlicher und anderer Vorschriften (SachenRÄndG)

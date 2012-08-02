@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Brucellose der Rinder, Schweine,
-  Schafe und Ziegen'
+Title: Verordnung zum Schutz gegen die Brucellose der Rinder, Schweine, Schafe und
+  Ziegen
 layout: default
 slug: brucellosev
+
 ---
 
 # Verordnung zum Schutz gegen die Brucellose der Rinder, Schweine, Schafe und Ziegen (BrucelloseV)

@@ -5,6 +5,7 @@ Title: Gesetz zu dem Übereinkommen vom 29. Januar 1998 zwischen der Regierung K
   Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation
 layout: default
 slug: intraums_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 29. Januar 1998 zwischen der Regierung Kanadas, Regierungen von Mitgliedstaaten der Europäischen Weltraumorganisation, der Regierung Japans, der Regierung der Russischen Föderation und der Regierung der Vereinigten Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation (IntRaumsÜbkG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverord
   nach § 13 des Wassersicherstellungsgesetzes
 layout: default
 slug: wassig_13v
+
 ---
 
 # Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach § 13 des Wassersicherstellungsgesetzes (WasSiG§13V)

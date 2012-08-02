@@ -1,9 +1,10 @@
 [^F776051_01_BJNR006900012]
 Verordnung zum Schutz von Übertragungsnetzen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: _nschutzv
+
 ---
 
 #  (ÜNSchutzV)

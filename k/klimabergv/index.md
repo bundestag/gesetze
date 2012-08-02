@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen'
+Title: Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen
 layout: default
 slug: klimabergv
+
 ---
 
 # Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen (KlimaBergV)

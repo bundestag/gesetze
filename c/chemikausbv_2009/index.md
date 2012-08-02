@@ -1,9 +1,10 @@
 [^f772200_01_BJNR136000009]
 Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: chemikausbv_2009
+
 ---
 
 #  (ChemikAusbV 2009)

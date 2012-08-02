@@ -3,6 +3,7 @@ Title: Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchun
   von Seeunfällen und anderen Vorkommnissen
 layout: default
 slug: sug
+
 ---
 
 # Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchung von Seeunfällen und anderen Vorkommnissen (SUG)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Verbesserung des Schutzes vor Fluglärm in der Umgebung von  Flugplätzen
 layout: default
 slug: flul_rmschutzverbg
+
 ---
 
 # Gesetz zur Verbesserung des Schutzes vor Fluglärm in der Umgebung von  Flugplätzen (FluLärmSchutzVerbG)

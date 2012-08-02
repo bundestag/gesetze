@@ -2,6 +2,7 @@
 Title: Erlaß über die Stiftung des Silbernen Lorbeerblattes
 layout: default
 slug: lorbblerl
+
 ---
 
 # Erlaß über die Stiftung des Silbernen Lorbeerblattes (LorbBlErl)

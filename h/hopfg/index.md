@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Hopfengesetz'
+Title: Hopfengesetz
 layout: default
 slug: hopfg
+
 ---
 
 # Hopfengesetz (HopfG)

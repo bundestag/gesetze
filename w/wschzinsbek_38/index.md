@@ -2,6 +2,7 @@
 Title: Achtunddreißigste Bekanntmachung über die Wechsel- und Scheckzinsen
 layout: default
 slug: wschzinsbek_38
+
 ---
 
 # Achtunddreißigste Bekanntmachung über die Wechsel- und Scheckzinsen (WSchZinsBek 38)

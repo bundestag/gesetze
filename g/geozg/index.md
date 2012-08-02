@@ -1,9 +1,10 @@
 [^F771806.01_BJNR027800009]
 Gesetz über den Zugang zu digitalen Geodaten
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: geozg
+
 ---
 
 #  (GeoZG)

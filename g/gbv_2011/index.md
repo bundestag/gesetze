@@ -2,6 +2,7 @@
 Title: Verordnung über die Bestellung von Gefahrgutbeauftragten in Unternehmen
 layout: default
 slug: gbv_2011
+
 ---
 
 # Verordnung über die Bestellung von Gefahrgutbeauftragten in Unternehmen (GbV 2011)

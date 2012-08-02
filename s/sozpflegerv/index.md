@@ -2,6 +2,7 @@
 Title: Verordnung über die Ausbildungsförderung für soziale Pflegeberufe
 layout: default
 slug: sozpflegerv
+
 ---
 
 # Verordnung über die Ausbildungsförderung für soziale Pflegeberufe (SozPflegerV)

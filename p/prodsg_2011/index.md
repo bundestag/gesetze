@@ -1,9 +1,10 @@
 [^BJNR217900011_01]
 Gesetz über die Bereitstellung von Produkten auf dem Markt
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: prodsg_2011
+
 ---
 
 #  (ProdSG 2011)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Meeresbodenbergbau-Kostenverordnung'
+Title: Meeresbodenbergbau-Kostenverordnung
 layout: default
 slug: mbergkostv
+
 ---
 
 # Meeresbodenbergbau-Kostenverordnung (MBergKostV)

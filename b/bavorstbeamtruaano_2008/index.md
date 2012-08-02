@@ -3,6 +3,7 @@ Title: Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertrag
   Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts
 layout: default
 slug: bavorstbeamtruaano_2008
+
 ---
 
 # Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts (BAVorstBeamtRuaAnO 2008)

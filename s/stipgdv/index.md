@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Stipendienprogramm-Gesetzes
 layout: default
 slug: stipgdv
+
 ---
 
 # Verordnung zur Durchführung des Stipendienprogramm-Gesetzes (StipGDV)

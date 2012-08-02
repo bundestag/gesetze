@@ -2,6 +2,7 @@
 Title: Sechsundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_26
+
 ---
 
 # Sechsundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 26)

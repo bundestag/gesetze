@@ -4,6 +4,7 @@ Title: ECE-Regelung Nr. 54 (Anlageband der Verordnung über die Inkraftsetzung d
   für Nutzfahrzeuge und ihre Anhänger
 layout: default
 slug: ecer_54
+
 ---
 
 # ECE-Regelung Nr. 54 (Anlageband der Verordnung über die Inkraftsetzung der ECE-Regelung Nr. 54) über einheitliche Bedingungen für die Genehmigung der Luftreifen für Nutzfahrzeuge und ihre Anhänger (ECER 54)

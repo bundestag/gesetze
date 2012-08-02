@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Eisenbahnwesens'
+Title: Gesetz zur Neuordnung des Eisenbahnwesens
 layout: default
 slug: eneuog
+
 ---
 
 # Gesetz zur Neuordnung des Eisenbahnwesens (ENeuOG)

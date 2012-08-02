@@ -2,9 +2,10 @@
 Verordnung über die Zulassung von Kontrollstellen nach dem Öko-
 Landbaugesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: _lgkontrollstzulv
+
 ---
 
 #  (ÖLGKontrollStZulV)

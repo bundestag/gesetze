@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floris
   Floristmeisterin
 layout: default
 slug: floristmprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister/Geprüfte Floristmeisterin (FloristMPrV)

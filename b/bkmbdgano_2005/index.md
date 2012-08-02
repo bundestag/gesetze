@@ -3,6 +3,7 @@ Title: Allgemeine Anordnung zur Durchführung des Bundesdisziplinargesetzes im G
   der Beauftragten der Bundesregierung für Kultur und Medien
 layout: default
 slug: bkmbdgano_2005
+
 ---
 
 # Allgemeine Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien (BKMBDGAnO 2005)

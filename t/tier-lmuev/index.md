@@ -3,6 +3,7 @@ Title: Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des 
   Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs
 layout: default
 slug: tier-lm_v
+
 ---
 
 # Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs (Tier-LMÜV)

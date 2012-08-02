@@ -2,6 +2,7 @@
 Title: Verordnung über Abschlagszahlungen bei Bauträgerverträgen
 layout: default
 slug: abschlagsv
+
 ---
 
 # Verordnung über Abschlagszahlungen bei Bauträgerverträgen (AbschlagsV)

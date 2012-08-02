@@ -4,6 +4,7 @@ Title: Bestimmungen über die Währungsunion und über die Währungsumstellung (
   zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)
 layout: default
 slug: wwsuvtranl_i
+
 ---
 
 # Bestimmungen über die Währungsunion und über die Währungsumstellung (Anlage I zu dem Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik) (WWSUVtrAnl I)

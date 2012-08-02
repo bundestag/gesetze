@@ -2,6 +2,7 @@
 Title: Verordnung zur Bekämpfung der Blauschimmelkrankheit des Tabaks
 layout: default
 slug: blauschimmelv_1978
+
 ---
 
 # Verordnung zur Bekämpfung der Blauschimmelkrankheit des Tabaks (BlauSchimmelV 1978)

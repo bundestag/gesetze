@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin
 layout: default
 slug: mta-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin (MTA-APrV)

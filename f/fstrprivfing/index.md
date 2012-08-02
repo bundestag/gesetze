@@ -2,6 +2,7 @@
 Title: Gesetz über den Bau und die Finanzierung von Bundesfernstraßen durch Private
 layout: default
 slug: fstrprivfing
+
 ---
 
 # Gesetz über den Bau und die Finanzierung von Bundesfernstraßen durch Private (FStrPrivFinG)

@@ -2,6 +2,7 @@
 Title: Vermögensteuergesetz
 layout: default
 slug: vstg_1974
+
 ---
 
 # Vermögensteuergesetz (VStG 1974)

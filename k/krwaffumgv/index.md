@@ -2,6 +2,7 @@
 Title: Verordnung über den Umgang mit unbrauchbar gemachten Kriegswaffen
 layout: default
 slug: krwaffumgv
+
 ---
 
 # Verordnung über den Umgang mit unbrauchbar gemachten Kriegswaffen (KrWaffUmgV)

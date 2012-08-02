@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 16. April 1984 zwischen der Bundesrepublik Deu
   Abkommen und der Vereinbarung zur Durchführung des Abkommens
 layout: default
 slug: sozsichabktung
+
 ---
 
 # Gesetz zu dem Abkommen vom 16. April 1984 zwischen der Bundesrepublik Deutschland und der Tunesischen Republik über Soziale Sicherheit, dem Zusatzprotokoll zu diesem Abkommen und der Vereinbarung zur Durchführung des Abkommens (SozSichAbkTUNG)

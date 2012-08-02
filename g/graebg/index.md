@@ -2,6 +2,7 @@
 Title: Gesetz über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft
 layout: default
 slug: gr_bg
+
 ---
 
 # Gesetz über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft (GräbG)

@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertra
   der gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtrbb_mvbek
+
 ---
 
 # Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Land Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtrBB/MVBek)

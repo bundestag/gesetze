@@ -3,6 +3,7 @@ Title: Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundes
   für innerdeutsche Beziehungen
 layout: default
 slug: bvertrbmbano
+
 ---
 
 # Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen (BVertrBMBAnO)

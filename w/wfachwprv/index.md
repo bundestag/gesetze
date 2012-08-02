@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wirtsc
   Wirtschaftsfachwirtin
 layout: default
 slug: wfachwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin (WFachwPrV)

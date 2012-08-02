@@ -3,6 +3,7 @@ Title: Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bunde
   Ausgleichsmechanismus
 layout: default
 slug: ausglmechav
+
 ---
 
 # Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus (AusglMechAV)

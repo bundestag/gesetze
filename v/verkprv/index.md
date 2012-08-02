@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Verkeh
   Verkehrsfachwirtin
 layout: default
 slug: verkprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Verkehrsfachwirt/Geprüfte Verkehrsfachwirtin (VerkPrV)

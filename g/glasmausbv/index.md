@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Glasmacher/zur Glasmacherin
 layout: default
 slug: glasmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Glasmacher/zur Glasmacherin (GlasmAusbV)

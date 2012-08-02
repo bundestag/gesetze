@@ -4,6 +4,7 @@ Title: Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten
   Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau
 layout: default
 slug: wpapbererstrv
+
 ---
 
 # Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten Wirtschaftsgebiets auf dem Gebiet der Wertpapierbereinigung und des Kapitalverkehrs auf die Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau (WPapBerErstrV)

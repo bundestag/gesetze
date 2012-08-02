@@ -2,6 +2,7 @@
 Title: Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften
 layout: default
 slug: gpatg
+
 ---
 
 # Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften (GPatG)

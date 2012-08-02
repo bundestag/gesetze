@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Bereinigung von Kriegsfolgengesetzen'
+Title: Gesetz zur Bereinigung von Kriegsfolgengesetzen
 layout: default
 slug: kfbg
+
 ---
 
 # Gesetz zur Bereinigung von Kriegsfolgengesetzen (KfbG)

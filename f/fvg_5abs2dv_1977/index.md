@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 5 Abs. 2 des Finanzverwaltungsgesetzes
 layout: default
 slug: fvg_5abs2dv_1977
+
 ---
 
 # Verordnung zur Durchführung des § 5 Abs. 2 des Finanzverwaltungsgesetzes (FVG§5Abs2DV 1977)

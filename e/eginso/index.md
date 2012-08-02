@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zur Insolvenzordnung
 layout: default
 slug: eginso
+
 ---
 
 # Einführungsgesetz zur Insolvenzordnung (EGInsO)

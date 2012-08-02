@@ -2,6 +2,7 @@
 Title: Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt
 layout: default
 slug: ra_g
+
 ---
 
 # Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt (RAÜG)

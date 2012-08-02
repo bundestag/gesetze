@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Abkommens zwischen der Bundesrepublik Deutschl
   Urkunden in Zivil- und Handelssachen
 layout: default
 slug: vollstrabkbelag
+
 ---
 
 # Gesetz zur Ausführung des Abkommens zwischen der Bundesrepublik Deutschland und dem Königreich Belgien vom 30. Juni 1958 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Schiedssprüchen und öffentlichen Urkunden in Zivil- und Handelssachen (VollstrAbkBELAG)

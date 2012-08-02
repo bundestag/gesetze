@@ -3,6 +3,7 @@ Title: Verordnung über die Förderung der erstmaligen technischen Umstellung vo
   auf digitales Filmabspiel
 layout: default
 slug: filmdigitv
+
 ---
 
 # Verordnung über die Förderung der erstmaligen technischen Umstellung von Filmtheatern auf digitales Filmabspiel (FilmDigitV)

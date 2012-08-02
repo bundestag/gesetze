@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des Gesetzes über die Statistik des grenzü
   Warenverkehrs
 layout: default
 slug: ahstatdv
+
 ---
 
 # Verordnung zur Durchführung des Gesetzes über die Statistik des grenzüberschreitenden Warenverkehrs (AHStatDV)

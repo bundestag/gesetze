@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung
 layout: default
 slug: bismstiftg
+
 ---
 
 # Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung (BismStiftG)

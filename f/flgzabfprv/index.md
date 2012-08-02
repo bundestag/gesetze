@@ -2,6 +2,7 @@
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Flugzeugabfertiger
 layout: default
 slug: flgzabfprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Flugzeugabfertiger (FlgzAbfPrV)

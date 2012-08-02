@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des 
   auf den Generaldirektor der Deutschen Bibliothek
 layout: default
 slug: beamtzust_ano
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Beamtenrechts auf den Generaldirektor der Deutschen Bibliothek (BeamtZustÜAnO)

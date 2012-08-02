@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen
-  befugten Patentinformationszentren'
+Title: Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen
+  befugten Patentinformationszentren
 layout: default
 slug: patinfozbek_2000-09
+
 ---
 
 # Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen befugten Patentinformationszentren (PatInfoZBek 2000-09)

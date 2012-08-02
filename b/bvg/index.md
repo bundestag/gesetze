@@ -2,6 +2,7 @@
 Title: Gesetz über die Versorgung der Opfer des Krieges
 layout: default
 slug: bvg
+
 ---
 
 # Gesetz über die Versorgung der Opfer des Krieges (BVG)

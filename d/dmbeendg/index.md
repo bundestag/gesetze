@@ -3,6 +3,7 @@ Title: Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf Deutsch
   lautenden Banknoten und der auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen
 layout: default
 slug: dmbeendg
+
 ---
 
 # Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf Deutsche Mark lautenden Banknoten und der auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen (DMBeEndG)

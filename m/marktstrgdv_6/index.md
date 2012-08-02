@@ -3,6 +3,7 @@ Title: Sechste Durchführungsverordnung zum Marktstrukturgesetz - Getreide, Öl-
   Hülsenfrüchte
 layout: default
 slug: marktstrgdv_6
+
 ---
 
 # Sechste Durchführungsverordnung zum Marktstrukturgesetz - Getreide, Öl- und Hülsenfrüchte (MarktStrGDV 6)

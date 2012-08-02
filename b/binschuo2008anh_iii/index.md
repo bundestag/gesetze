@@ -1,9 +1,10 @@
 Zusätzliche technische Vorschriften für Fahrzeuge auf
 Binnenwasserstraßen der Zonen 1 und 2
 ---
-Title: !!python/unicode '(Anhang III zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang III zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_iii
+
 ---
 
 # (Anhang III zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh III)

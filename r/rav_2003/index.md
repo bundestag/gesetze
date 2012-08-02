@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Anpassung der Renten im Jahr 2003'
+Title: Verordnung zur Anpassung der Renten im Jahr 2003
 layout: default
 slug: rav_2003
+
 ---
 
 # Verordnung zur Anpassung der Renten im Jahr 2003 (RAV 2003)

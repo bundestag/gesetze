@@ -3,6 +3,7 @@ Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbil
   zum Landwirt/zur Landwirtin
 layout: default
 slug: lwausbsteignv
+
 ---
 
 # Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Landwirt/zur Landwirtin (LwAusbStEignV)

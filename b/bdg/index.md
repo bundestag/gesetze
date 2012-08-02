@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesdisziplinargesetz'
+Title: Bundesdisziplinargesetz
 layout: default
 slug: bdg
+
 ---
 
 # Bundesdisziplinargesetz (BDG)

@@ -2,6 +2,7 @@
 Title: Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters
 layout: default
 slug: zstvbetrv
+
 ---
 
 # Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters (ZStVBetrV)

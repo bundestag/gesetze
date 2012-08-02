@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltu
   Fischereierzeugnisse
 layout: default
 slug: fischbeihv
+
 ---
 
 # Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter Fischereierzeugnisse (FischBeihV)

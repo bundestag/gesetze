@@ -3,6 +3,7 @@ Title: Verordnung über Ausnahmen von Vorschriften des Jugendarbeitsschutzgesetz
   für jugendliche Polizeivollzugsbeamte in der Bundespolizei
 layout: default
 slug: bgsjarbschv
+
 ---
 
 # Verordnung über Ausnahmen von Vorschriften des Jugendarbeitsschutzgesetzes für jugendliche Polizeivollzugsbeamte in der Bundespolizei (BGSJArbSchV)

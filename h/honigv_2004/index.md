@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Honigverordnung'
+Title: Honigverordnung
 layout: default
 slug: honigv_2004
+
 ---
 
 # Honigverordnung (HonigV 2004)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin
 layout: default
 slug: zupfinstrmmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin (ZupfInstrmMAusbV)

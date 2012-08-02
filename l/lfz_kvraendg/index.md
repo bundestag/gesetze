@@ -3,6 +3,7 @@ Title: Gesetz über die Fortzahlung des Arbeitsentgelts im Krankheitsfall und ü
   Änderungen des Rechts der gesetzlichen Krankenversicherung
 layout: default
 slug: lfz_kvr_ndg
+
 ---
 
 # Gesetz über die Fortzahlung des Arbeitsentgelts im Krankheitsfall und über Änderungen des Rechts der gesetzlichen Krankenversicherung (LFZ/KVRÄndG)

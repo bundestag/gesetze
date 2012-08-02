@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Gleichstellung behinderter Menschen'
+Title: Gesetz zur Gleichstellung behinderter Menschen
 layout: default
 slug: bgg
+
 ---
 
 # Gesetz zur Gleichstellung behinderter Menschen (BGG)

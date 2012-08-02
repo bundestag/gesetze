@@ -2,6 +2,7 @@
 Title: Gesetz über den Verkehr mit Betäubungsmitteln
 layout: default
 slug: btmg_1981
+
 ---
 
 # Gesetz über den Verkehr mit Betäubungsmitteln (BtMG 1981)

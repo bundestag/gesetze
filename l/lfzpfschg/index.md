@@ -2,6 +2,7 @@
 Title: Gesetz über die Unzulässigkeit der Sicherungsbeschlagnahme von Luftfahrzeugen
 layout: default
 slug: lfzpfschg
+
 ---
 
 # Gesetz über die Unzulässigkeit der Sicherungsbeschlagnahme von Luftfahrzeugen (LFzPfSchG)

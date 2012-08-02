@@ -4,6 +4,7 @@ Title: Verordnung über Sicherheit und Gesundheitsschutz bei der Bereitstellung 
   überwachungsbedürftiger Anlagen und über die Organisation des betrieblichen Arbeitsschutzes
 layout: default
 slug: betrsichv
+
 ---
 
 # Verordnung über Sicherheit und Gesundheitsschutz bei der Bereitstellung von Arbeitsmitteln und deren Benutzung bei der Arbeit, über Sicherheit beim Betrieb überwachungsbedürftiger Anlagen und über die Organisation des betrieblichen Arbeitsschutzes (BetrSichV)

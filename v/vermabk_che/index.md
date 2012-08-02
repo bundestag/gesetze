@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen 
   über die deutschen Vermögenswerte in der Schweiz
 layout: default
 slug: vermabk_che
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die deutschen Vermögenswerte in der Schweiz (VermAbk CHE)

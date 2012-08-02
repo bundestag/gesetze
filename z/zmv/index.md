@@ -3,6 +3,7 @@ Title: Verordnung zur barrierefreien Zugänglichmachung von Dokumenten für blin
   sehbehinderte Personen im gerichtlichen Verfahren
 layout: default
 slug: zmv
+
 ---
 
 # Verordnung zur barrierefreien Zugänglichmachung von Dokumenten für blinde und sehbehinderte Personen im gerichtlichen Verfahren (ZMV)

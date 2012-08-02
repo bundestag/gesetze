@@ -3,6 +3,7 @@ Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftun
   Kulturbesitz
 layout: default
 slug: prkultbbdoano
+
 ---
 
 # Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftung Preußischer Kulturbesitz (PrKultbBDOAnO)

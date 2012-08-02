@@ -3,6 +3,7 @@ Title: Verordnung über die Anwendbarkeit von Vorschriften betreffend Angebote i
   des § 1 Abs. 2 und 3 des Wertpapiererwerbs- und Übernahmegesetzes
 layout: default
 slug: wp_ganwendv
+
 ---
 
 # Verordnung über die Anwendbarkeit von Vorschriften betreffend Angebote im Sinne des § 1 Abs. 2 und 3 des Wertpapiererwerbs- und Übernahmegesetzes (WpÜGAnwendV)

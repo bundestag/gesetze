@@ -3,6 +3,7 @@ Title: Europäisches Übereinkommen über Gewalttätigkeit und Fehlverhalten von
   bei Sportveranstaltungen und insbesondere bei Fußballspielen
 layout: default
 slug: eufu_ball_bk
+
 ---
 
 # Europäisches Übereinkommen über Gewalttätigkeit und Fehlverhalten von Zuschauern bei Sportveranstaltungen und insbesondere bei Fußballspielen (EUFußballÜbk)

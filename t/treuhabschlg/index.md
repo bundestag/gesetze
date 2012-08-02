@@ -2,6 +2,7 @@
 Title: Gesetz zur abschließenden Erfüllung der verbliebenen Aufgaben der Treuhandanstalt
 layout: default
 slug: treuhabschlg
+
 ---
 
 # Gesetz zur abschließenden Erfüllung der verbliebenen Aufgaben der Treuhandanstalt (TreuhAbschlG)

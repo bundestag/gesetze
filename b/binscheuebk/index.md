@@ -2,6 +2,7 @@
 Title: Übereinkommen über die Eichung von Binnenschiffen
 layout: default
 slug: binsche_bk
+
 ---
 
 # Übereinkommen über die Eichung von Binnenschiffen (BinSchEÜbk)

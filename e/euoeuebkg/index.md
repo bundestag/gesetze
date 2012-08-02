@@ -3,6 +3,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 24. November 1983 über di
   für Opfer von Gewalttaten
 layout: default
 slug: euoe_bkg
+
 ---
 
 # Gesetz zu dem Europäischen Übereinkommen vom 24. November 1983 über die Entschädigung für Opfer von Gewalttaten (EuOEÜbkG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Ausführung des § 56 des Patentgesetzes und des § 9 des Gebrauchsmustergesetzes
 layout: default
 slug: patg_gebrmgav
+
 ---
 
 # Verordnung zur Ausführung des § 56 des Patentgesetzes und des § 9 des Gebrauchsmustergesetzes (PatG/GebrMGAV)

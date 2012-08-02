@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 23. November 1964 zwischen der Bundesrepublik D
   Konstanz-Neuhausen am Rheinfall
 layout: default
 slug: rheinfallvtrg_che
+
 ---
 
 # Gesetz zu dem Vertrag vom 23. November 1964 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Bereinigung der Grenze im Abschnitt Konstanz-Neuhausen am Rheinfall (RheinfallVtrG CHE)

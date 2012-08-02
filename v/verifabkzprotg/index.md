@@ -6,6 +6,7 @@ Title: Gesetz zu dem Zusatzprotokoll vom 22. September 1998 zu dem Übereinkomme
   von Kernwaffen
 layout: default
 slug: verifabkzprotg
+
 ---
 
 # Gesetz zu dem Zusatzprotokoll vom 22. September 1998 zu dem Übereinkommen vom 5. April 1973 (Verifikationsabkommen) zwischen den Nichtkernwaffenstaaten der Europäischen Atomgemeinschaft, der Europäischen Atomgemeinschaft und der Internationalen Atomenergie-Organisation in Ausführung von Artikel III Absätze 1 und 4 des Vertrages über die Nichtverbreitung von Kernwaffen (VerifAbkZProtG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung der EU-Milchquotenregelung
 layout: default
 slug: milchquotv
+
 ---
 
 # Verordnung zur Durchführung der EU-Milchquotenregelung (MilchQuotV)

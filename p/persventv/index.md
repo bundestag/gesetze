@@ -3,6 +3,7 @@ Title: Verordnung über die Höhe der Aufwandsentschädigung für vom Dienst fre
   Personalvertretungsmitglieder
 layout: default
 slug: persventv
+
 ---
 
 # Verordnung über die Höhe der Aufwandsentschädigung für vom Dienst freigestellte Personalvertretungsmitglieder (PersVEntV)

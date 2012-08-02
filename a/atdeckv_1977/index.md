@@ -2,6 +2,7 @@
 Title: Verordnung über die Deckungsvorsorge nach dem Atomgesetz
 layout: default
 slug: atdeckv_1977
+
 ---
 
 # Verordnung über die Deckungsvorsorge nach dem Atomgesetz (AtDeckV 1977)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Modernisierung der Besoldungsstruktur'
+Title: Gesetz zur Modernisierung der Besoldungsstruktur
 layout: default
 slug: besstruktg
+
 ---
 
 # Gesetz zur Modernisierung der Besoldungsstruktur (BesStruktG)

@@ -7,6 +7,7 @@ Title: Gesetz über die Inkraftsetzung von Vereinbarungen betreffend den befrist
   Deutschen Einheit
 layout: default
 slug: streitkravbginkrg
+
 ---
 
 # Gesetz über die Inkraftsetzung von Vereinbarungen betreffend den befristeten Aufenthalt von Streitkräften der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika in Berlin und von sowjetischen Streitkräften auf dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach Herstellung der Deutschen Einheit (StreitkrAVbgInkrG)

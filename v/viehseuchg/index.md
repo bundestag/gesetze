@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tierseuchengesetz'
+Title: Tierseuchengesetz
 layout: default
 slug: viehseuchg
+
 ---
 
 # Tierseuchengesetz (ViehSeuchG)

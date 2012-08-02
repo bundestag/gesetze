@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk
 layout: default
 slug: feinwerkmechmstrv
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk (FeinwerkMechMstrV)

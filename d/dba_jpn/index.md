@@ -1,9 +1,9 @@
 ---
-Title: !!python/unicode 'Abkommen zwischen der Bundesrepublik Deutschland und Japan
-  zur Vermeidung der Doppelbesteuerung bei den Steuern vom Einkommen und bei einigen
-  anderen Steuern'
+Title: Abkommen zwischen der Bundesrepublik Deutschland und Japan zur Vermeidung der
+  Doppelbesteuerung bei den Steuern vom Einkommen und bei einigen anderen Steuern
 layout: default
 slug: dba_jpn
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und Japan zur Vermeidung der Doppelbesteuerung bei den Steuern vom Einkommen und bei einigen anderen Steuern (DBA JPN)

@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 20. August 1971 über die Internationale
   "INTELSAT"
 layout: default
 slug: intelsat_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 20. August 1971 über die Internationale Fernmeldesatellitenorganisation "INTELSAT" (INTELSATÜbkG)

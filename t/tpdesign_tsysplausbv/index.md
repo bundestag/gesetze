@@ -3,9 +3,10 @@ Verordnung über die Berufsausbildung zum Technischen Produktdesigner
 und zur Technischen Produktdesignerin sowie zum Technischen
 Systemplaner und zur Technischen Systemplanerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tpdesign_tsysplausbv
+
 ---
 
 #  (TPDesign/TSysPlAusbV)

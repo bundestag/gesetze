@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Bekanntmachung zu Artikel 3 Abs. 3 des Bundesbesoldungs-
-  und -versorgungsanpassungsgesetzes 1995'
+Title: Bekanntmachung zu Artikel 3 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes
+  1995
 layout: default
 slug: bbvanpg95art3abs3bek
+
 ---
 
 # Bekanntmachung zu Artikel 3 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1995 (BBVAnpG95Art3Abs3Bek)

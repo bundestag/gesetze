@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Beauftragung eines Flugsicherungsunternehmens'
+Title: Verordnung zur Beauftragung eines Flugsicherungsunternehmens
 layout: default
 slug: fs-auftragsv
+
 ---
 
 # Verordnung zur Beauftragung eines Flugsicherungsunternehmens (FS-AuftragsV)

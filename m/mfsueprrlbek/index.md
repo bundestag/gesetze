@@ -4,6 +4,7 @@ Title: Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder
   der ehemaligen Deutschen Demokratischen Republik
 layout: default
 slug: mfs_prrlbek
+
 ---
 
 # Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik (MfSÜPrRLBek)

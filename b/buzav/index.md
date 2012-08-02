@@ -3,6 +3,7 @@ Title: Verordnung über die Bestätigung der Umstellungsrechnung und das Verfahr
   Zuteilung und des Erwerbs von Ausgleichsforderungen
 layout: default
 slug: buzav
+
 ---
 
 # Verordnung über die Bestätigung der Umstellungsrechnung und das Verfahren der Zuteilung und des Erwerbs von Ausgleichsforderungen (BUZAV)

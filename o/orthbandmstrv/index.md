@@ -4,6 +4,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   Bandagisten-Handwerk
 layout: default
 slug: orthbandmstrv
+
 ---
 
 # Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orthopädiemechaniker- und Bandagisten-Handwerk (OrthBandMstrV)

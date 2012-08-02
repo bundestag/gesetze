@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Altschuldenhilfe-Gesetz'
+Title: Verordnung zum Altschuldenhilfe-Gesetz
 layout: default
 slug: ahgv
+
 ---
 
 # Verordnung zum Altschuldenhilfe-Gesetz (AHGV)

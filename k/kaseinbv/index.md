@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Beihilfen für Magermilch, die zu Kas
   zu Kaseinat verarbeitet worden ist
 layout: default
 slug: kaseinbv
+
 ---
 
 # Verordnung über die Gewährung von Beihilfen für Magermilch, die zu Kasein und zu Kaseinat verarbeitet worden ist (KaseinBV)

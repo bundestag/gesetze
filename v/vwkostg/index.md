@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verwaltungskostengesetz'
+Title: Verwaltungskostengesetz
 layout: default
 slug: vwkostg
+
 ---
 
 # Verwaltungskostengesetz (VwKostG)

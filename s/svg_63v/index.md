@@ -2,6 +2,7 @@
 Title: Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
 layout: default
 slug: svg_63v
+
 ---
 
 # Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes (SVG§63V)

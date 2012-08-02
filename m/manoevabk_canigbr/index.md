@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinig
   anderen Übungen im Raum Soltau-Lüneburg
 layout: default
 slug: man_vabk_canigbr
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland über die Durchführung von Manövern und anderen Übungen im Raum Soltau-Lüneburg (ManövAbk CANIGBR)

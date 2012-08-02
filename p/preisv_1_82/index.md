@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zweite Preisfreigabeverordnung (PR Nr. 1/82)'
+Title: Zweite Preisfreigabeverordnung (PR Nr. 1/82)
 layout: default
 slug: preisv_1_82
+
 ---
 
 # Zweite Preisfreigabeverordnung (PR Nr. 1/82) (PreisV 1/82)

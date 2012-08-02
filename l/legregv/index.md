@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Legehennenbetriebsregistergesetzes
 layout: default
 slug: legregv
+
 ---
 
 # Verordnung zur Durchführung des Legehennenbetriebsregistergesetzes (LegRegV)

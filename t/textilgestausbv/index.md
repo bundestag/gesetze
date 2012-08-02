@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Textilgestalter und zur
 Textilgestalterin im Handwerk
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: textilgestausbv
+
 ---
 
 #  (TextilGestAusbV)

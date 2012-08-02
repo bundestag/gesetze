@@ -3,6 +3,7 @@ Title: Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistu
   durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
 layout: default
 slug: schuv
+
 ---
 
 # Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds (SchuV)

@@ -2,6 +2,7 @@
 Title: Gesetz über Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften
 layout: default
 slug: rmverblg
+
 ---
 
 # Gesetz über Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften (RMVerblG)

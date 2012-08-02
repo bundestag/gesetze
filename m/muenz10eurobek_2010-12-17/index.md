@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro Gedenkmünze „FIS-ALPINE SKI WM 2011 Garmisch-Partenkirchen“
 layout: default
 slug: m_nz10eurobek_2010-12-17
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro Gedenkmünze „FIS-ALPINE SKI WM 2011 Garmisch-Partenkirchen“ (Münz10EuroBek 2010-12-17)

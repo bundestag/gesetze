@@ -2,6 +2,7 @@
 Title: Anordnung über das Statut der Genossenschaftsbank Berlin
 layout: default
 slug: genbkbeano
+
 ---
 
 # Anordnung über das Statut der Genossenschaftsbank Berlin (GenBkBEAnO)

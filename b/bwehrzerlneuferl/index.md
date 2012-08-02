@@ -3,6 +3,7 @@ Title: Erlass über die Genehmigung einer Neufassung des Erlasses über die Stif
   des Ehrenzeichens der Bundeswehr
 layout: default
 slug: bwehrzerlneuferl
+
 ---
 
 # Erlass über die Genehmigung einer Neufassung des Erlasses über die Stiftung des Ehrenzeichens der Bundeswehr (BwEhrZErlNeufErl)

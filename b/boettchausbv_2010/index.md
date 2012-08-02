@@ -1,9 +1,10 @@
 [^F774148_01_BJNR060100010]
 Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: b_ttchausbv_2010
+
 ---
 
 #  (BöttchAusbV 2010)

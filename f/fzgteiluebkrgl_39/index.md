@@ -4,6 +4,7 @@ Title: Regelung Nr. 39 - Einheitliche Vorschriften für die Genehmigung der Fahr
   einschließlich ihres (seines) Einbaues
 layout: default
 slug: fzgteil_bkrgl_39
+
 ---
 
 # Regelung Nr. 39 - Einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Geschwindigkeitsmeßeinrichtung (des Geschwindigkeitsmeßgeräts) einschließlich ihres (seines) Einbaues (FzgTeilÜbkRgl 39)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Klempner/zur Klempnerin
 layout: default
 slug: klempnerausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Klempner/zur Klempnerin (KlempnerAusbV)

@@ -2,6 +2,7 @@
 Title: Gesetz über befristete Arbeitsverträge in der Wissenschaft
 layout: default
 slug: wisszeitvg
+
 ---
 
 # Gesetz über befristete Arbeitsverträge in der Wissenschaft (WissZeitVG)

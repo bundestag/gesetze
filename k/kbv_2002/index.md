@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Kleinbetragsverordnung'
+Title: Kleinbetragsverordnung
 layout: default
 slug: kbv_2002
+
 ---
 
 # Kleinbetragsverordnung (KBV 2002)

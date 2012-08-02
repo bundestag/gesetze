@@ -2,6 +2,7 @@
 Title: Gesetz über die Bildung und Tätigkeit von Stiftungen
 layout: default
 slug: stiftbtg
+
 ---
 
 # Gesetz über die Bildung und Tätigkeit von Stiftungen (StiftBTG)

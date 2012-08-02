@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Fachangestellten für Markt- un
   Fachangestellten für Markt- und Sozialforschung
 layout: default
 slug: marktfofangausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fachangestellten für Markt- und Sozialforschung/zur Fachangestellten für Markt- und Sozialforschung (MarktFoFAngAusbV)

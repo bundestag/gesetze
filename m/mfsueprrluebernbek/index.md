@@ -4,6 +4,7 @@ Title: Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine 
   Sicherheit der ehemaligen Deutschen Demokratischen Republik
 layout: default
 slug: mfs_prrl_bernbek
+
 ---
 
 # Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik (MfSÜPrRLÜbernBek)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze Wiederaufbau der Frauenkirche Dresden)
 layout: default
 slug: m_nz10dmbek_1995
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Wiederaufbau der Frauenkirche Dresden) (Münz10DMBek 1995)

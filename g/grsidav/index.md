@@ -3,6 +3,7 @@ Title: Verordnung über den automatisierten Datenabgleich bei Leistungen der Gru
   für Arbeitsuchende
 layout: default
 slug: grsidav
+
 ---
 
 # Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende (GrSiDAV)

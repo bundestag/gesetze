@@ -2,6 +2,7 @@
 Title: Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel
 layout: default
 slug: amverkrv
+
 ---
 
 # Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel (AMVerkRV)

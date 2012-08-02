@@ -3,6 +3,7 @@ Title: Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörd
   öffentlich-rechtliche Rundfunkanstalten
 layout: default
 slug: mv
+
 ---
 
 # Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und öffentlich-rechtliche Rundfunkanstalten (MV)

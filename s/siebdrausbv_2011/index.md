@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck
 und zur Medientechnologin Siebdruck
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: siebdrausbv_2011
+
 ---
 
 #  (SiebdrAusbV 2011)

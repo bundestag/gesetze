@@ -4,6 +4,7 @@ Title: Anordnung über die Übertragung von Dienstposten der Wertigkeit A 15 mit
   beim Deutschen Patent- und Markenamt
 layout: default
 slug: dpmadposta15ano
+
 ---
 
 # Anordnung über die Übertragung von Dienstposten der Wertigkeit A 15 mit Amtszulage im Bereich der Hauptabteilung 1/I (Patente I) und Hauptabteilung 1/II (Patente II) beim Deutschen Patent- und Markenamt (DPMADPostA15AnO)

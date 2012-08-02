@@ -2,6 +2,7 @@
 Title: Gesetz zur Reform des Vermögensteuerrechts und zur Änderung anderer Steuergesetze
 layout: default
 slug: vstrg
+
 ---
 
 # Gesetz zur Reform des Vermögensteuerrechts und zur Änderung anderer Steuergesetze (VStRG)

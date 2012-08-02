@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Po
   vorübergehend entsandt werden
 layout: default
 slug: svabk_pol
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates vorübergehend entsandt werden (SVAbk POL)

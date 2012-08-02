@@ -3,6 +3,7 @@ Title: Achte Verordnung über die Versicherung von Arbeitnehmern in der hüttenk
   Zusatzversicherung
 layout: default
 slug: hzvv_8
+
 ---
 
 # Achte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung (HZvV 8)

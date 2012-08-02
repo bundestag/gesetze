@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk
 layout: default
 slug: siebdrmstrv_2006
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk (SiebdrMstrV 2006)

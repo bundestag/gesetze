@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Kaufmann für Bürokommunikatio
   Kauffrau für Bürokommunikation
 layout: default
 slug: bkkfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation (BKKfAusbV)

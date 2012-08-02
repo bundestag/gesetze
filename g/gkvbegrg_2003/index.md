@@ -3,6 +3,7 @@ Title: Gesetz zur Begrenzung der Ausgaben der gesetzlichen Krankenversicherung f
   das Jahr 2003
 layout: default
 slug: gkvbegrg_2003
+
 ---
 
 # Gesetz zur Begrenzung der Ausgaben der gesetzlichen Krankenversicherung für das Jahr 2003 (GKVBegrG 2003)

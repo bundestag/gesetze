@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Erbschaftsteuer- und Schenkungsteuergesetz'
+Title: Erbschaftsteuer- und Schenkungsteuergesetz
 layout: default
 slug: erbstg_1974
+
 ---
 
 # Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG 1974)

@@ -3,6 +3,7 @@ Title: Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift  b
   Kleinstmengen
 layout: default
 slug: blindkennzv
+
 ---
 
 # Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift  bei Kleinstmengen (BlindKennzV)

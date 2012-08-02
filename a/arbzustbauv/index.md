@@ -3,6 +3,7 @@ Title: Verordnung über die örtliche Zuständigkeit für die Einkommensteuer vo
   ansässigen Arbeitnehmern des Baugewerbes
 layout: default
 slug: arbzustbauv
+
 ---
 
 # Verordnung über die örtliche Zuständigkeit für die Einkommensteuer von im Ausland ansässigen Arbeitnehmern des Baugewerbes (ArbZustBauV)

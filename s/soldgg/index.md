@@ -2,6 +2,7 @@
 Title: Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten
 layout: default
 slug: soldgg
+
 ---
 
 # Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten (SoldGG)

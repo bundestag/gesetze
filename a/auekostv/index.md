@@ -2,6 +2,7 @@
 Title: Verordnung über die Kosten der Erlaubnis zur gewerbsmäßigen Arbeitnehmerüberlassung
 layout: default
 slug: a_kostv
+
 ---
 
 # Verordnung über die Kosten der Erlaubnis zur gewerbsmäßigen Arbeitnehmerüberlassung (AÜKostV)

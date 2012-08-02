@@ -3,6 +3,7 @@ Title: Gesetz über die vermögensrechtlichen Verhältnisse der Bundesautobahnen
   sonstigen Bundesstraßen des Fernverkehrs
 layout: default
 slug: babg
+
 ---
 
 # Gesetz über die vermögensrechtlichen Verhältnisse der Bundesautobahnen und sonstigen Bundesstraßen des Fernverkehrs (BABG)

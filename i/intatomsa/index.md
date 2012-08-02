@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Satzung der Internationalen Atomenergie-Organisation'
+Title: Satzung der Internationalen Atomenergie-Organisation
 layout: default
 slug: intatomsa
+
 ---
 
 # Satzung der Internationalen Atomenergie-Organisation (IntAtomSa)

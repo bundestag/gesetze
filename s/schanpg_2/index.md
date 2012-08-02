@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Zweites Gesetz zur Anpassung bestimmter Bedingungen in der
-  Seeschifffahrt an den internationalen Standard'
+Title: Zweites Gesetz zur Anpassung bestimmter Bedingungen in der Seeschifffahrt an
+  den internationalen Standard
 layout: default
 slug: schanpg_2
+
 ---
 
 # Zweites Gesetz zur Anpassung bestimmter Bedingungen in der Seeschifffahrt an den internationalen Standard (SchAnpG 2)

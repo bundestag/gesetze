@@ -2,6 +2,7 @@
 Title: Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen von Pensionsfonds
 layout: default
 slug: pfdeckrv
+
 ---
 
 # Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen von Pensionsfonds (PFDeckRV)

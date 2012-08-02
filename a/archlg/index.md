@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung von Ingenieur- und Architektenleistungen'
+Title: Gesetz zur Regelung von Ingenieur- und Architektenleistungen
 layout: default
 slug: archlg
+
 ---
 
 # Gesetz zur Regelung von Ingenieur- und Architektenleistungen (ArchLG)

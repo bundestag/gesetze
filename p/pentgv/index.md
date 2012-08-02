@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Post-Entgeltregulierungsverordnung'
+Title: Post-Entgeltregulierungsverordnung
 layout: default
 slug: pentgv
+
 ---
 
 # Post-Entgeltregulierungsverordnung (PEntgV)

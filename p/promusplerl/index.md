@@ -2,6 +2,7 @@
 Title: Erlaß über die Stiftung der PRO MUSICA-Plakette
 layout: default
 slug: promusplerl
+
 ---
 
 # Erlaß über die Stiftung der PRO MUSICA-Plakette (ProMusPlErl)

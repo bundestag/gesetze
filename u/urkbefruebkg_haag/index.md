@@ -3,6 +3,7 @@ Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung aus
   öffentlicher Urkunden von der Legalisation
 layout: default
 slug: urkbefr_bkg_haag
+
 ---
 
 # Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation (UrkBefrÜbkG Haag)

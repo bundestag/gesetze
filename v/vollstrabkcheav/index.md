@@ -4,6 +4,7 @@ Title: Verordnung zur Ausführung des deutsch-schweizerischen Abkommens über di
   vom 2. November 1929
 layout: default
 slug: vollstrabkcheav
+
 ---
 
 # Verordnung zur Ausführung des deutsch-schweizerischen Abkommens über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen vom 2. November 1929 (VollstrAbkCHEAV)

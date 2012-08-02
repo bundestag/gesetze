@@ -3,6 +3,7 @@ Title: Dritte Verordnung zur Durchführung einer Bundesstatistik über Art und U
   der betrieblichen Altersversorgung
 layout: default
 slug: betravstatv_3
+
 ---
 
 # Dritte Verordnung zur Durchführung einer Bundesstatistik über Art und Umfang der betrieblichen Altersversorgung (BetrAVStatV 3)

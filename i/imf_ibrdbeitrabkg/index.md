@@ -5,6 +5,7 @@ Title: Gesetz über den Beitritt der Bundesrepublik Deutschland zu den Abkommen 
   Development)
 layout: default
 slug: imf_ibrdbeitrabkg
+
 ---
 
 # Gesetz über den Beitritt der Bundesrepublik Deutschland zu den Abkommen über den Internationalen Währungsfonds (International Monetary Fund) und über die Internationale Bank für Wiederaufbau und Entwicklung (International Bank for Reconstruction and Development) (IMF/IBRDBeitrAbkG)

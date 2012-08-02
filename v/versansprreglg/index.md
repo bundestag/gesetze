@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen
 layout: default
 slug: versansprreglg
+
 ---
 
 # Gesetz zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen (VersAnsprReglG)

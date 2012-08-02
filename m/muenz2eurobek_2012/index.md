@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 2 Euro (Gedenkmünze „10 Jahre Euro-Bargeld“)
 layout: default
 slug: m_nz2eurobek_2012
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Euro-Bargeld“) (Münz2EuroBek 2012)

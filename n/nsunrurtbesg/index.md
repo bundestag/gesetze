@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Beseitigung nationalsozialistischer Unrechtsurteile'
+Title: Gesetz zur Beseitigung nationalsozialistischer Unrechtsurteile
 layout: default
 slug: nsunrurtbesg
+
 ---
 
 # Gesetz zur Beseitigung nationalsozialistischer Unrechtsurteile (NSUnrUrtBesG)

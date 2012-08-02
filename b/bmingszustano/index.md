@@ -6,6 +6,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und nach den Beihilfevorschriften des Bundes
 layout: default
 slug: bmingszustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Gesundheit und Soziale Sicherung in Angelegenheiten nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung und nach den Beihilfevorschriften des Bundes (BMinGSZustAnO)

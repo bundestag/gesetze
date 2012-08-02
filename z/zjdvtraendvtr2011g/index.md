@@ -6,6 +6,7 @@ Title: Gesetz zu dem Vertrag vom 30. November 2011 zwischen der Bundesrepublik D
   –, zuletzt geändert durch den Vertrag vom 3. März 2008
 layout: default
 slug: zjdvtr_ndvtr2011g
+
 ---
 
 # Gesetz zu dem Vertrag vom 30. November 2011 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts – zur Änderung des Vertrages vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –, zuletzt geändert durch den Vertrag vom 3. März 2008 (ZJDVtrÄndVtr2011G)

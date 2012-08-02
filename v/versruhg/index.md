@@ -2,6 +2,7 @@
 Title: Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen
 layout: default
 slug: versruhg
+
 ---
 
 # Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen (VersRuhG)

@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Kari
   Entwicklungsbank
 layout: default
 slug: kaentwbk_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Karibischen Entwicklungsbank (KaEntwBkÜbkG)

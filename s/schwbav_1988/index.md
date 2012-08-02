@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Schwerbehinderten-Ausgleichsabgabeverordnung'
+Title: Schwerbehinderten-Ausgleichsabgabeverordnung
 layout: default
 slug: schwbav_1988
+
 ---
 
 # Schwerbehinderten-Ausgleichsabgabeverordnung (SchwbAV 1988)

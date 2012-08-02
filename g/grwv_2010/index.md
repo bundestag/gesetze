@@ -1,9 +1,10 @@
 [^F1_774693_BJNR151300010]
 Verordnung zum Schutz des Grundwassers
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: grwv_2010
+
 ---
 
 #  (GrwV 2010)

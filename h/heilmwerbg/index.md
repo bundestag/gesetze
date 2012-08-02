@@ -2,6 +2,7 @@
 Title: Gesetz über die Werbung auf dem Gebiete des Heilwesens
 layout: default
 slug: heilmwerbg
+
 ---
 
 # Gesetz über die Werbung auf dem Gebiete des Heilwesens (HeilMWerbG)

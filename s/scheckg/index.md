@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Scheckgesetz'
+Title: Scheckgesetz
 layout: default
 slug: scheckg
+
 ---
 
 # Scheckgesetz (ScheckG)

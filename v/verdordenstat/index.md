@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Statut des "Verdienstordens der Bundesrepublik Deutschland"'
+Title: Statut des "Verdienstordens der Bundesrepublik Deutschland"
 layout: default
 slug: verdordenstat
+
 ---
 
 # Statut des "Verdienstordens der Bundesrepublik Deutschland" (VerdOrdenStat)

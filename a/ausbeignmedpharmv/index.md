@@ -4,6 +4,7 @@ Title: Verordnung über die fachliche Eignung für die Berufsausbildung der Medi
   Angestellten
 layout: default
 slug: ausbeignmedpharmv
+
 ---
 
 # Verordnung über die fachliche Eignung für die Berufsausbildung der Medizinischen, Zahnmedizinischen und Tiermedizinischen Fachangestellten sowie der Pharmazeutisch-kaufmännischen Angestellten (AusbEignMedPharmV)

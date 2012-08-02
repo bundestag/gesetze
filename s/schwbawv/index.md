@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Schwerbehindertenausweisverordnung'
+Title: Schwerbehindertenausweisverordnung
 layout: default
 slug: schwbawv
+
 ---
 
 # Schwerbehindertenausweisverordnung (SchwbAwV)

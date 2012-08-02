@@ -3,6 +3,7 @@ Title: Verordnung zur Gewährung von Leistungsentgelten an Beamtinnen und Beamte
   der Deutschen Postbank AG
 layout: default
 slug: postbanklentgv
+
 ---
 
 # Verordnung zur Gewährung von Leistungsentgelten an Beamtinnen und Beamte bei der Deutschen Postbank AG (PostbankLEntgV)

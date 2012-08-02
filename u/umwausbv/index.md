@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung in den umwelttechnischen Berufen
 layout: default
 slug: umwausbv
+
 ---
 
 # Verordnung über die Berufsausbildung in den umwelttechnischen Berufen (UmwAusbV)

@@ -3,6 +3,7 @@ Title: Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- un
   für bestimmte Orden und Ehrenzeichen
 layout: default
 slug: ordeng_5bek_2009
+
 ---
 
 # Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- und Tragegenehmigungen für bestimmte Orden und Ehrenzeichen (OrdenG§5Bek 2009)

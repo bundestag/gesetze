@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverord
   nach § 10 Satz 1 des Gesetzes über Bausparkassen auf die Bundesanstalt für Finanzdienstleistungsaufsicht
 layout: default
 slug: baakvbefugv_1973
+
 ---
 
 # Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach § 10 Satz 1 des Gesetzes über Bausparkassen auf die Bundesanstalt für Finanzdienstleistungsaufsicht (BAAKVBefugV 1973)

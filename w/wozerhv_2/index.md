@@ -3,6 +3,7 @@ Title: Zweite Verordnung über die Erhöhung der Zinsen für Darlehen aus Wohnun
   des Bundes
 layout: default
 slug: wozerhv_2
+
 ---
 
 # Zweite Verordnung über die Erhöhung der Zinsen für Darlehen aus Wohnungsfürsorgemitteln des Bundes (WoZErhV 2)

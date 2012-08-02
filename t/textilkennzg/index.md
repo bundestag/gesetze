@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Textilkennzeichnungsgesetz'
+Title: Textilkennzeichnungsgesetz
 layout: default
 slug: textilkennzg
+
 ---
 
 # Textilkennzeichnungsgesetz (TextilKennzG)

@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 2. Juni 1961 zwischen der Bundesrepublik Deutsc
   die von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind
 layout: default
 slug: wgleistvtritag
+
 ---
 
 # Gesetz zu dem Vertrag vom 2. Juni 1961 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Leistungen zugunsten italienischer Staatsangehöriger, die von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind (WGLeistVtrITAG)

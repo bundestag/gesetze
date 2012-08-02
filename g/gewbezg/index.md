@@ -2,6 +2,7 @@
 Title: Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken
 layout: default
 slug: gewbezg
+
 ---
 
 # Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken (GewBezG)

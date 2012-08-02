@@ -1,9 +1,10 @@
 [^F771469_01_BJNR191310008]
 Schiffsausrüstungsverordnung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: schausrv
+
 ---
 
 #  (SchAusrV)

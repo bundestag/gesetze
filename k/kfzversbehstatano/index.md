@@ -3,6 +3,7 @@ Title: Anordnung über die statistische Erfassung der Tarifgruppe B (Behörden) 
   Kraftfahrtversicherung
 layout: default
 slug: kfzversbehstatano
+
 ---
 
 # Anordnung über die statistische Erfassung der Tarifgruppe B (Behörden) in der Kraftfahrtversicherung (KfzVersBehStatAnO)

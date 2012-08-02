@@ -2,6 +2,7 @@
 Title: Gaststättengesetz
 layout: default
 slug: gastg
+
 ---
 
 # Gaststättengesetz (GastG)

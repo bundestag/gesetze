@@ -4,6 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der N
   Wegberg-Brüggen
 layout: default
 slug: grenzgsteinkvtr_nld
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Abbau von Steinkohlen im deutsch-niederländischen Grenzgebiet westlich Wegberg-Brüggen (GrenzgSteinKVtr NLD)

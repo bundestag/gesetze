@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Kunden
   Kundenberaterin - Gartenbau
 layout: default
 slug: gartenkundenberprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Kundenberater/Geprüfte Kundenberaterin - Gartenbau (GartenKundenBerPrV)

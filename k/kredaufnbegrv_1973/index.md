@@ -3,6 +3,7 @@ Title: Verordnung über die Begrenzung der Kreditaufnahme durch Bund, Länder, G
   und Gemeindeverbände im Haushaltsjahr 1973
 layout: default
 slug: kredaufnbegrv_1973
+
 ---
 
 # Verordnung über die Begrenzung der Kreditaufnahme durch Bund, Länder, Gemeinden und Gemeindeverbände im Haushaltsjahr 1973 (KredAufnBegrV 1973)

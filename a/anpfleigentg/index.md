@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung des Eigentums an von landwirtschaftlichen
-  Produktionsgenossenschaften vorgenommenen Anpflanzungen'
+Title: Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften
+  vorgenommenen Anpflanzungen
 layout: default
 slug: anpfleigentg
+
 ---
 
 # Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften vorgenommenen Anpflanzungen (AnpflEigentG)

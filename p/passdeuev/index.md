@@ -3,6 +3,7 @@ Title: Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der 
   in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller
 layout: default
 slug: passde_v
+
 ---
 
 # Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller (PassDEÜV)

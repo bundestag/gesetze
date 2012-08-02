@@ -3,6 +3,7 @@ Title: Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnuntern
   des öffentlichen Verkehrs
 layout: default
 slug: bahng
+
 ---
 
 # Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs (BahnG)

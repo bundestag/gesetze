@@ -3,6 +3,7 @@ Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbe
   des Bundesministeriums für Wirtschaft und Technologie
 layout: default
 slug: bminwitbdgano_2009
+
 ---
 
 # Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie (BMinWiTBDGAnO 2009)

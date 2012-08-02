@@ -2,6 +2,7 @@
 Title: Ausführungsgesetz zum deutsch-österreichischen Konkursvertrag
 layout: default
 slug: d_kvag
+
 ---
 
 # Ausführungsgesetz zum deutsch-österreichischen Konkursvertrag (DöKVAG)

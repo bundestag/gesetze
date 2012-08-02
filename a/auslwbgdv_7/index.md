@@ -3,6 +3,7 @@ Title: Siebente Durchführungsverordnung (Stichtag) zum Bereinigungsgesetz für 
   Auslandsbonds
 layout: default
 slug: auslwbgdv_7
+
 ---
 
 # Siebente Durchführungsverordnung (Stichtag) zum Bereinigungsgesetz für deutsche Auslandsbonds (AuslWBGDV 7)

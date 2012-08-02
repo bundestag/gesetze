@@ -3,6 +3,7 @@ Title: Verordnung über Verbote und Beschränkungen des Inverkehrbringens gefäh
   Stoffe, Zubereitungen und Erzeugnisse nach dem Chemikaliengesetz
 layout: default
 slug: chemverbotsv
+
 ---
 
 # Verordnung über Verbote und Beschränkungen des Inverkehrbringens gefährlicher Stoffe, Zubereitungen und Erzeugnisse nach dem Chemikaliengesetz (ChemVerbotsV)

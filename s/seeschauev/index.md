@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Aufgaben auf dem Gebiet der Seeschiffahrt
   Ausübung auf die Bundespolizei und die Zollverwaltung
 layout: default
 slug: seescha_v
+
 ---
 
 # Verordnung zur Übertragung von Aufgaben auf dem Gebiet der Seeschiffahrt zur Ausübung auf die Bundespolizei und die Zollverwaltung (SeeSchAÜV)

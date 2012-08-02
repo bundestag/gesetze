@@ -2,6 +2,7 @@
 Title: Verordnung nach § 6 des Mauergrundstücksgesetzes
 layout: default
 slug: mauerv
+
 ---
 
 # Verordnung nach § 6 des Mauergrundstücksgesetzes (MauerV)

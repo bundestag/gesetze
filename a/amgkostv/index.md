@@ -4,6 +4,7 @@ Title: Kostenverordnung für die Zulassung von Arzneimitteln durch das Bundesins
   Lebensmittelsicherheit
 layout: default
 slug: amgkostv
+
 ---
 
 # Kostenverordnung für die Zulassung von Arzneimitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (AMGKostV)

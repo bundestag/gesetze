@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
   Berufspädagoge/Geprüfte Berufspädagogin
 layout: default
 slug: bp_dfortbv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte Berufspädagogin (BPädFortbV)

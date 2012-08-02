@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung des öffentlichen Vereinsrechts
 layout: default
 slug: vereinsg
+
 ---
 
 # Gesetz zur Regelung des öffentlichen Vereinsrechts (VereinsG)

@@ -3,6 +3,7 @@ Title: Verordnung (EG) Nr. 1998/2006 der Kommission über die Anwendung der  Art
   87 und 88 EG-Vertrag auf "De-minimis"-Beihilfen
 layout: default
 slug: egv_1998_2006
+
 ---
 
 # Verordnung (EG) Nr. 1998/2006 der Kommission über die Anwendung der  Artikel 87 und 88 EG-Vertrag auf "De-minimis"-Beihilfen (EGV 1998/2006)

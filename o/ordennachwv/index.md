@@ -3,6 +3,7 @@ Title: Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den N
   von Verwundungen und Beschädigungen
 layout: default
 slug: ordennachwv
+
 ---
 
 # Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis von Verwundungen und Beschädigungen (OrdenNachwV)

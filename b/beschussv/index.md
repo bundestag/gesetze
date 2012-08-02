@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Allgemeine Verordnung zum Beschussgesetz'
+Title: Allgemeine Verordnung zum Beschussgesetz
 layout: default
 slug: beschussv
+
 ---
 
 # Allgemeine Verordnung zum Beschussgesetz (BeschussV)

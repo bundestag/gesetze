@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Eu
   für das Personal der Europäischen Zentralbank
 layout: default
 slug: ezbpersabk
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über die Durchführung des Abschnitts 16 des Anhangs III der Beschäftigungsbedingungen für das Personal der Europäischen Zentralbank (EZBPersAbk)

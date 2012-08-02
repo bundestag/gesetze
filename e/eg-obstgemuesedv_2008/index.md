@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung der gemeinsamen Organisation der Agrarmärkt
   Obst und Gemüse
 layout: default
 slug: eg-obstgem_sedv_2008
+
 ---
 
 # Verordnung zur Durchführung der gemeinsamen Organisation der Agrarmärkte bei Obst und Gemüse (EG-ObstGemüseDV 2008)

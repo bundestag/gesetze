@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Versicherungsvertragsgesetz
 layout: default
 slug: vvgeg
+
 ---
 
 # Einführungsgesetz zum Versicherungsvertragsgesetz (VVGEG)

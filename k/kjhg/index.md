@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Kinder- und Jugendhilferechts'
+Title: Gesetz zur Neuordnung des Kinder- und Jugendhilferechts
 layout: default
 slug: kjhg
+
 ---
 
 # Gesetz zur Neuordnung des Kinder- und Jugendhilferechts (KJHG)

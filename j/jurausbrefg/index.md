@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reform der Juristenausbildung'
+Title: Gesetz zur Reform der Juristenausbildung
 layout: default
 slug: jurausbrefg
+
 ---
 
 # Gesetz zur Reform der Juristenausbildung (JurAusbRefG)

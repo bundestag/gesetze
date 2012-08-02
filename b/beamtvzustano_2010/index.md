@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Beam
   des Bundes und des Versorgungsausgleichs
 layout: default
 slug: beamtvzustano_2010
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Beamtenversorgung des Bundes und des Versorgungsausgleichs (BeamtVZustAnO 2010)

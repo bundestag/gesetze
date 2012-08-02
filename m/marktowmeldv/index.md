@@ -2,6 +2,7 @@
 Title: Verordnung über Meldepflichten über Marktordnungswaren
 layout: default
 slug: marktowmeldv
+
 ---
 
 # Verordnung über Meldepflichten über Marktordnungswaren (MarktOWMeldV)

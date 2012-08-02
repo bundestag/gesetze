@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Leistungszulagen an Beamte gemäß §
   Postpersonalrechtsgesetzes
 layout: default
 slug: postlzulv_1997
+
 ---
 
 # Verordnung über die Gewährung von Leistungszulagen an Beamte gemäß § 10 des Postpersonalrechtsgesetzes (PostLZulV 1997)

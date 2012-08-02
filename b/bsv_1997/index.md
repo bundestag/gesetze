@@ -3,6 +3,7 @@ Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenve
   für 1997 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1997
 layout: default
 slug: bsv_1997
+
 ---
 
 # Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für 1997 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1997 (BSV 1997)

@@ -3,6 +3,7 @@ Title: Verordnung zu Mitteilungs- und Übermittlungspflichten zu gesundheitlich 
   erwünschten Stoffen
 layout: default
 slug: mit_bermitv
+
 ---
 
 # Verordnung zu Mitteilungs- und Übermittlungspflichten zu gesundheitlich nicht erwünschten Stoffen (MitÜbermitV)

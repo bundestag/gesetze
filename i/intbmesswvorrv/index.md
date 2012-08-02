@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das int
   Büro für das gesetzliche Meßwesen
 layout: default
 slug: intbme_wvorrv
+
 ---
 
 # Verordnung über die Gewährung von Vorrechten und Befreiungen an das internationale Büro für das gesetzliche Meßwesen (IntBMeßwVorRV)

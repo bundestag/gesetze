@@ -3,6 +3,7 @@ Title: Gesetz über das Verfahren bei der Errichtung und Verteilung eines Fonds 
   Beschränkung der Haftung in der See- und Binnenschiffahrt
 layout: default
 slug: seerverto_1986
+
 ---
 
 # Gesetz über das Verfahren bei der Errichtung und Verteilung eines Fonds zur Beschränkung der Haftung in der See- und Binnenschiffahrt (SeeRVertO 1986)

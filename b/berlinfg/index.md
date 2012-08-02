@@ -2,6 +2,7 @@
 Title: Gesetz zur Förderung der Berliner Wirtschaft
 layout: default
 slug: berlinfg
+
 ---
 
 # Gesetz zur Förderung der Berliner Wirtschaft (BerlinFG)

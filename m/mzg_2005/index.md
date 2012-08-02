@@ -3,6 +3,7 @@ Title: Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölke
   den Arbeitsmarkt sowie die Wohnsituation der Haushalte
 layout: default
 slug: mzg_2005
+
 ---
 
 # Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und den Arbeitsmarkt sowie die Wohnsituation der Haushalte (MZG 2005)

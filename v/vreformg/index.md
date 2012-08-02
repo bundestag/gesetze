@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Umsetzung des Versorgungsberichts'
+Title: Gesetz zur Umsetzung des Versorgungsberichts
 layout: default
 slug: vreformg
+
 ---
 
 # Gesetz zur Umsetzung des Versorgungsberichts (VReformG)

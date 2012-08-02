@@ -2,6 +2,7 @@
 Title: Bekanntmachung der Regionalen Vereinbarung über den Binnenschifffahrtsfunk
 layout: default
 slug: binschfudvbg2000bek
+
 ---
 
 # Bekanntmachung der Regionalen Vereinbarung über den Binnenschifffahrtsfunk (BinSchFuDVbg2000Bek)

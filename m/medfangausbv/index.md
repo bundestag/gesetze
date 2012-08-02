@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Medizinischen  Fachangestellten
   Medizinischen Fachangestellten
 layout: default
 slug: medfangausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Medizinischen  Fachangestellten/zur Medizinischen Fachangestellten (MedFAngAusbV)

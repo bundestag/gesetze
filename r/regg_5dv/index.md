@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung von § 5 des Regionalisierungsgesetzes für 
   1996 bis 2001
 layout: default
 slug: regg_5dv
+
 ---
 
 # Verordnung zur Durchführung von § 5 des Regionalisierungsgesetzes für die Jahre 1996 bis 2001 (RegG§5DV)

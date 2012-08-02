@@ -3,6 +3,7 @@ Title: Verordnung über das Verbot der Verwendung bestimmter Stoffe zur Herstell
   von Arzneimitteln
 layout: default
 slug: frischzv
+
 ---
 
 # Verordnung über das Verbot der Verwendung bestimmter Stoffe zur Herstellung von Arzneimitteln (FrischZV)

@@ -3,6 +3,7 @@ Title: Durchführungsbestimmung zur Verordnung über die Gewährleistung von Ato
   und Strahlenschutz
 layout: default
 slug: atstrlsvdbest
+
 ---
 
 # Durchführungsbestimmung zur Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz (AtStrlSVDBest)

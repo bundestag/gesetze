@@ -3,6 +3,7 @@ Title: Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank
   eine Aktiengesellschaft
 layout: default
 slug: dslbumwg
+
 ---
 
 # Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft (DSLBUmwG)

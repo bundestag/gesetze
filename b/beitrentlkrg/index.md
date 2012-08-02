@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung'
+Title: Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung
 layout: default
 slug: beitrentlkrg
+
 ---
 
 # Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung (BeitrEntlKrG)

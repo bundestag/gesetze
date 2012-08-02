@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 
   Pfennig
 layout: default
 slug: m_nz2pfbek_1968
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig (Münz2PfBek 1968)

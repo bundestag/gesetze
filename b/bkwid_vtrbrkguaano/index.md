@@ -5,6 +5,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   einschließlich der hierzu ergangenen Verwaltungsvorschriften
 layout: default
 slug: bkwid_vtrbrkguaano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundeskanzleramtes in Angelegenheiten nach dem Bundesreisekostengesetz und der Auslandsreisekostenverordnung einschließlich der hierzu ergangenen Verwaltungsvorschriften (BKWid/VtrBRKGuaAnO)

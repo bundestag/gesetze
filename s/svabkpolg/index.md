@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 25. April 1973 zwischen der Bundesrepublik Deu
   das Gebiet des anderen Staates vorübergehend entsandt werden
 layout: default
 slug: svabkpolg
+
 ---
 
 # Gesetz zu dem Abkommen vom 25. April 1973 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates vorübergehend entsandt werden (SVAbkPOLG)

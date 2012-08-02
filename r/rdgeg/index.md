@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Rechtsdienstleistungsgesetz
 layout: default
 slug: rdgeg
+
 ---
 
 # Einführungsgesetz zum Rechtsdienstleistungsgesetz (RDGEG)

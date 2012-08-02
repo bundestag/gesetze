@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsordnung für Logopäden
 layout: default
 slug: logapro
+
 ---
 
 # Ausbildungs- und Prüfungsordnung für Logopäden (LogAPrO)

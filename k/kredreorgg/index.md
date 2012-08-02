@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reorganisation von Kreditinstituten'
+Title: Gesetz zur Reorganisation von Kreditinstituten
 layout: default
 slug: kredreorgg
+
 ---
 
 # Gesetz zur Reorganisation von Kreditinstituten (KredReorgG)

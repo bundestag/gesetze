@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten
 layout: default
 slug: kjpsychth-aprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten (KJPsychTh-APrV)

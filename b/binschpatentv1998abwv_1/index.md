@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
 layout: default
 slug: binschpatentv1998abwv_1
+
 ---
 
 # Erste Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung (BinSchPatentV1998AbwV 1)

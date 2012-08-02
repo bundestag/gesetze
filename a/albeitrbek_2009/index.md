@@ -3,6 +3,7 @@ Title: Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssich
   der Landwirte für das Jahr 2009
 layout: default
 slug: albeitrbek_2009
+
 ---
 
 # Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2009 (ALBeitrBek 2009)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Anpassung der Finanzierung von Zahnersatz'
+Title: Gesetz zur Anpassung der Finanzierung von Zahnersatz
 layout: default
 slug: zahnfinanpg
+
 ---
 
 # Gesetz zur Anpassung der Finanzierung von Zahnersatz (ZahnFinAnpG)

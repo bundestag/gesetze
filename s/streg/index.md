@@ -2,6 +2,7 @@
 Title: Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen
 layout: default
 slug: streg
+
 ---
 
 # Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen (StrEG)

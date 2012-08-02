@@ -3,6 +3,7 @@ Title: Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Z
   des Bundesministeriums der Justiz
 layout: default
 slug: bmjma_gabenberg
+
 ---
 
 # Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz (BMJMaßgabenBerG)

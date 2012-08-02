@@ -2,6 +2,7 @@
 Title: Gesetz zur Zahlbarmachung von Renten aus Beschäftigungen in einem Ghetto
 layout: default
 slug: zrbg
+
 ---
 
 # Gesetz zur Zahlbarmachung von Renten aus Beschäftigungen in einem Ghetto (ZRBG)

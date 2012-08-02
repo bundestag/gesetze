@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 layout: default
 slug: bvlg
+
 ---
 
 # Gesetz über die Errichtung eines Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit (BVLG)

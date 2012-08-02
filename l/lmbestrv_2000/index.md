@@ -3,6 +3,7 @@ Title: Verordnung über die Behandlung von Lebensmitteln mit Elektronen-, Gamma-
   Röntgenstrahlen, Neutronen oder ultravioletten Strahlen
 layout: default
 slug: lmbestrv_2000
+
 ---
 
 # Verordnung über die Behandlung von Lebensmitteln mit Elektronen-, Gamma- und Röntgenstrahlen, Neutronen oder ultravioletten Strahlen (LMBestrV 2000)

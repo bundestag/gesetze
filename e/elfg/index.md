@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Erblastentilgungsfonds
 layout: default
 slug: elfg
+
 ---
 
 # Gesetz über die Errichtung eines Erblastentilgungsfonds (ELFG)

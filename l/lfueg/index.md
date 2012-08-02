@@ -2,6 +2,7 @@
 Title: Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
 layout: default
 slug: lf_g
+
 ---
 
 # Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht (LFÜG)

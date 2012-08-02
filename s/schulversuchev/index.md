@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildung
   an denen Schulversuche durchgeführt werden
 layout: default
 slug: schulversuchev
+
 ---
 
 # Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten, an denen Schulversuche durchgeführt werden (SchulversucheV)

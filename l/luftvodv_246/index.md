@@ -4,6 +4,7 @@ Title: Zweihundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-O
   und vom Verkehrslandeplatz Giebelstadt)
 layout: default
 slug: luftvodv_246
+
 ---
 
 # Zweihundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Giebelstadt) (LuftVODV 246)

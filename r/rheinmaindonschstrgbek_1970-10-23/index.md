@@ -4,6 +4,7 @@ Title: Bekanntmachung zu dem Gesetz vom 29. November 1967 über den rechtlichen 
   die damit zusammenhängenden Eigentumsverhältnisse
 layout: default
 slug: rheinmaindonschstrgbek_1970-10-23
+
 ---
 
 # Bekanntmachung zu dem Gesetz vom 29. November 1967 über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse (RheinMainDonSchStrGBek 1970-10-23)

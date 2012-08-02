@@ -2,6 +2,7 @@
 Title: Gesetz über die politischen Parteien
 layout: default
 slug: partg
+
 ---
 
 # Gesetz über die politischen Parteien (PartG)

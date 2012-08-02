@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen 
   über die Liquidation des früheren deutsch-portugiesischen Verrechnungsverkehrs
 layout: default
 slug: vermrglabk_prt
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik über die Liquidation des früheren deutsch-portugiesischen Verrechnungsverkehrs (VermRglAbk PRT)

@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 9. Februar 2007 zwischen der Bundesrepublik De
   anderen Staates beschäftigten Personen ("Ergänzungsabkommen")
 layout: default
 slug: sozsichabkausergabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 9. Februar 2007 zwischen der Bundesrepublik Deutschland und Australien über die Soziale Sicherheit von vorübergehend im Hoheitsgebiet des anderen Staates beschäftigten Personen ("Ergänzungsabkommen") (SozSichAbkAUSErgAbkG)

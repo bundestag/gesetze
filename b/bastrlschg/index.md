@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
 layout: default
 slug: bastrlschg
+
 ---
 
 # Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz (BAStrlSchG)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Pettenkofer-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1968-12-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Pettenkofer-Gedenkmünze) (Münz5DMBek 1968-12-11)

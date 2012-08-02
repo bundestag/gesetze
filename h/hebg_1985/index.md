@@ -2,6 +2,7 @@
 Title: Gesetz über den Beruf der Hebamme und des Entbindungspflegers
 layout: default
 slug: hebg_1985
+
 ---
 
 # Gesetz über den Beruf der Hebamme und des Entbindungspflegers (HebG 1985)

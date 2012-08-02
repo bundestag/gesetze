@@ -4,6 +4,7 @@ Title: Anordnung zur Durchführung der Bundesdisziplinarordnung bei den bundesun
   für Arbeit und Sozialordnung
 layout: default
 slug: bdobukbminaano
+
 ---
 
 # Anordnung zur Durchführung der Bundesdisziplinarordnung bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Sozialordnung (BDOBuKBMinAAnO)

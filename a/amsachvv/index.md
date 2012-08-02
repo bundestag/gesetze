@@ -3,6 +3,7 @@ Title: Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standar
   Apothekenpflicht und Verschreibungspflicht von Arzneimitteln
 layout: default
 slug: amsachvv
+
 ---
 
 # Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln (AMSachvV)

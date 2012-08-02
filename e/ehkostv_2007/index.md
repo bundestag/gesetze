@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Kostenverordnung zum Treibhausgas-Emissionshandelsgesetz
-  und zum Zuteilungsgesetz 2007'
+Title: Kostenverordnung zum Treibhausgas-Emissionshandelsgesetz und zum Zuteilungsgesetz
+  2007
 layout: default
 slug: ehkostv_2007
+
 ---
 
 # Kostenverordnung zum Treibhausgas-Emissionshandelsgesetz und zum Zuteilungsgesetz 2007 (EHKostV 2007)

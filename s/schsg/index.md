@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Schiffssicherheitsgesetz'
+Title: Schiffssicherheitsgesetz
 layout: default
 slug: schsg
+
 ---
 
 # Schiffssicherheitsgesetz (SchSG)

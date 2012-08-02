@@ -3,6 +3,7 @@ Title: Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherun
   (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)
 layout: default
 slug: sgb_5
+
 ---
 
 # Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)

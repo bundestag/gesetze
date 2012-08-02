@@ -2,9 +2,10 @@
 Verordnung über die vertraglich gebundenen Vermittler und das
 öffentliche Register nach § 2 Abs. 10 Satz 6 des Kreditwesengesetzes
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: kwgvermv
+
 ---
 
 #  (KWGVermV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gewerbesteuergesetz'
+Title: Gewerbesteuergesetz
 layout: default
 slug: gewstg
+
 ---
 
 # Gewerbesteuergesetz (GewStG)

@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
 layout: default
 slug: wzg_4cccpbek
+
 ---
 
 # Bekanntmachung zu § 4 des Warenzeichengesetzes (WZG§4CCCPBek)

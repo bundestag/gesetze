@@ -3,6 +3,7 @@ Title: Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine
   Finanzplanung
 layout: default
 slug: finplg
+
 ---
 
 # Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung (FinPlG)

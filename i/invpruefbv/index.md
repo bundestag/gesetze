@@ -3,6 +3,7 @@ Title: Verordnung über die Inhalte der Prüfungsberichte für Kapitalanlagegese
   Investmentaktiengesellschaften und Sondervermögen
 layout: default
 slug: invpr_fbv
+
 ---
 
 # Verordnung über die Inhalte der Prüfungsberichte für Kapitalanlagegesellschaften, Investmentaktiengesellschaften und Sondervermögen (InvPrüfbV)

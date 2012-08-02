@@ -2,6 +2,7 @@
 Title: Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses
 layout: default
 slug: heizkzg
+
 ---
 
 # Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses (HeizkZG)

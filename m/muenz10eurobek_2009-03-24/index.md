@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro Gedenkmünze „400 Jahre Keplersche Gesetze“
 layout: default
 slug: m_nz10eurobek_2009-03-24
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro Gedenkmünze „400 Jahre Keplersche Gesetze“ (Münz10EuroBek 2009-03-24)

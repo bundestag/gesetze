@@ -2,6 +2,7 @@
 Title: Organisationserlaß des Bundeskanzlers
 layout: default
 slug: bkorgerl_1989-10
+
 ---
 
 # Organisationserlaß des Bundeskanzlers (BKOrgErl 1989-10)

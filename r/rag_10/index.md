@@ -3,6 +3,7 @@ Title: Zehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Renten
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_10
+
 ---
 
 # Zehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 10)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
 layout: default
 slug: findag
+
 ---
 
 # Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht (FinDAG)

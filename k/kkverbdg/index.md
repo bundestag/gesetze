@@ -2,6 +2,7 @@
 Title: Gesetz über die Verbände der gesetzlichen Krankenkassen und der Ersatzkassen
 layout: default
 slug: kkverbdg
+
 ---
 
 # Gesetz über die Verbände der gesetzlichen Krankenkassen und der Ersatzkassen (KKVerbdG)

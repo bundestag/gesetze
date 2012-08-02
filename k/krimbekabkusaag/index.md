@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrep
   schwerwiegender Kriminalität
 layout: default
 slug: krimbekabkusaag
+
 ---
 
 # Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität (KrimBekAbkUSAAG)

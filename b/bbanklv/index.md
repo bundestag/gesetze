@@ -2,6 +2,7 @@
 Title: Verordnung über die Laufbahnen der Bundesbankbeamtinnen und Bundesbankbeamten
 layout: default
 slug: bbanklv
+
 ---
 
 # Verordnung über die Laufbahnen der Bundesbankbeamtinnen und Bundesbankbeamten (BBankLV)

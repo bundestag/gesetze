@@ -3,6 +3,7 @@ Title: Anordnung zur Durchf체hrung des Bundesdisziplinargesetzes f체r den Gesch�
   des Bundesministeriums des Innern
 layout: default
 slug: bdgminiano
+
 ---
 
 # Anordnung zur Durchf체hrung des Bundesdisziplinargesetzes f체r den Gesch채ftsbereich des Bundesministeriums des Innern (BDGMinIAnO)

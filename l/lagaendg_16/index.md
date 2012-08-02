@@ -2,6 +2,7 @@
 Title: Sechzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes
 layout: default
 slug: lag_ndg_16
+
 ---
 
 # Sechzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes (LAGÄndG 16)

@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zu dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
 layout: default
 slug: zvgeg
+
 ---
 
 # Einführungsgesetz zu dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung (ZVGEG)

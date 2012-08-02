@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung des Abkommens über die Internationale Bank für Wie
   und Entwicklung und des Abkommens über die Internationale Finanz-Corporation
 layout: default
 slug: ibrd_ifcabk_ndg
+
 ---
 
 # Gesetz zur Änderung des Abkommens über die Internationale Bank für Wiederaufbau und Entwicklung und des Abkommens über die Internationale Finanz-Corporation (IBRD/IFCAbkÄndG)

@@ -2,6 +2,7 @@
 Title: Gesetz über Rabatte für Arzneimittel
 layout: default
 slug: amrabg
+
 ---
 
 # Gesetz über Rabatte für Arzneimittel (AMRabG)

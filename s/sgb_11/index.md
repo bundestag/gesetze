@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung
-  (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)'
+Title: Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel
+  1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)
 layout: default
 slug: sgb_11
+
 ---
 
 # Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014) (SGB 11)

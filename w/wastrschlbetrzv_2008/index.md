@@ -3,6 +3,7 @@ Title: Verordnung über die Schleusenbetriebszeiten an den Bundeswasserstraßen 
   Main-Donau-Kanal und Donau
 layout: default
 slug: wastrschlbetrzv_2008
+
 ---
 
 # Verordnung über die Schleusenbetriebszeiten an den Bundeswasserstraßen Main, Main-Donau-Kanal und Donau (WaStrSchlBetrZV 2008)

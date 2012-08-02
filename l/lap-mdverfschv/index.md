@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren
   im Verfassungsschutz des Bundes
 layout: default
 slug: lap-mdverfschv
+
 ---
 
 # Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im Verfassungsschutz des Bundes (LAP-mDVerfSchV)

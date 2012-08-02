@@ -2,6 +2,7 @@
 Title: Viertes Gesetz zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes
 layout: default
 slug: wpapberschlg
+
 ---
 
 # Viertes Gesetz zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes (WPapBerSchlG)

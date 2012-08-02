@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung des Ausgleichsfonds Währungsumstellung
 layout: default
 slug: wumstausglfg
+
 ---
 
 # Gesetz über die Errichtung des Ausgleichsfonds Währungsumstellung (WUmstAusglFG)

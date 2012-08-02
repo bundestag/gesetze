@@ -2,6 +2,7 @@
 Title: Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen
 layout: default
 slug: esbo
+
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen (ESBO)

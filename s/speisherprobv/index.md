@@ -2,9 +2,10 @@
 Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs
 Speiseeishersteller/Speiseeisherstellerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: speisherprobv
+
 ---
 
 #  (SpEisHErprobV)

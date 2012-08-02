@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachwi
   Versicherungen und Finanzen/Geprüfte Fachwirtin für Versicherungen und Finanzen
 layout: default
 slug: versfachwprv_2008
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin für Versicherungen und Finanzen (VersFachwPrV 2008)

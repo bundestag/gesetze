@@ -4,6 +4,7 @@ Title: Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. N
   auf hoher See
 layout: default
 slug: nordsbrweing
+
 ---
 
 # Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See (NordSBrWeinG)

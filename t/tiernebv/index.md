@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Tierische Nebenprodukte-Beseitigungsgesetzes
 layout: default
 slug: tiernebv
+
 ---
 
 # Verordnung zur Durchführung des Tierische Nebenprodukte-Beseitigungsgesetzes (TierNebV)

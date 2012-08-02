@@ -4,6 +4,7 @@ Title: 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Ver
   organischer Lösemittel in bestimmten Anlagen)
 layout: default
 slug: bimschv_31
+
 ---
 
 # 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen) (BImSchV 31)

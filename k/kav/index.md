@@ -2,6 +2,7 @@
 Title: Verordnung über Konzessionsabgaben für Strom und Gas
 layout: default
 slug: kav
+
 ---
 
 # Verordnung über Konzessionsabgaben für Strom und Gas (KAV)

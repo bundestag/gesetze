@@ -2,9 +2,10 @@
 Verordnung über die Anerkennung europäischer Berufsqualifikationen als
 Laufbahnbefähigung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: lbav
+
 ---
 
 #  (LBAV)

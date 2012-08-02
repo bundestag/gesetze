@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Diszi
   im Bereich der Unfallkasse des Bundes
 layout: default
 slug: bukdiszano
+
 ---
 
 # Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Unfallkasse des Bundes (BUKDiszAnO)

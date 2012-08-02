@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „FRAUENFUSSBALL-WM in DEUTSCHLAND“)
 layout: default
 slug: m_nz10eurobek_2011-05-23_2
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „FRAUENFUSSBALL-WM in DEUTSCHLAND“) (Münz10EuroBek 2011-05-23/2)

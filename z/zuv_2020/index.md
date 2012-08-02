@@ -3,6 +3,7 @@ Title: Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen i
   Handelsperiode 2013 bis 2020
 layout: default
 slug: zuv_2020
+
 ---
 
 # Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Handelsperiode 2013 bis 2020 (ZuV 2020)

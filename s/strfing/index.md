@@ -2,6 +2,7 @@
 Title: Straßenbaufinanzierungsgesetz
 layout: default
 slug: strfing
+
 ---
 
 # Straßenbaufinanzierungsgesetz (StrFinG)

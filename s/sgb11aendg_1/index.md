@@ -2,6 +2,7 @@
 Title: Erstes Gesetz zur Änderung des Elften Buches Sozialgesetzbuch und anderer Gesetze
 layout: default
 slug: sgb11_ndg_1
+
 ---
 
 # Erstes Gesetz zur Änderung des Elften Buches Sozialgesetzbuch und anderer Gesetze (SGB11ÄndG 1)

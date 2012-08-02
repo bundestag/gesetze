@@ -2,6 +2,7 @@
 Title: Verordnung über die Krankenfürsorge auf Kauffahrteischiffen
 layout: default
 slug: schkrf_rsv
+
 ---
 
 # Verordnung über die Krankenfürsorge auf Kauffahrteischiffen (SchKrFürsV)

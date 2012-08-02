@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Aufhebung des Modulationsgesetzes'
+Title: Gesetz zur Aufhebung des Modulationsgesetzes
 layout: default
 slug: modgaufhg
+
 ---
 
 # Gesetz zur Aufhebung des Modulationsgesetzes (ModGAufhG)

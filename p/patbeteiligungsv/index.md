@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Beteiligung von Patientinnen und Patienten
-  in der Gesetzlichen Krankenversicherung'
+Title: Verordnung zur Beteiligung von Patientinnen und Patienten in der Gesetzlichen
+  Krankenversicherung
 layout: default
 slug: patbeteiligungsv
+
 ---
 
 # Verordnung zur Beteiligung von Patientinnen und Patienten in der Gesetzlichen Krankenversicherung (PatBeteiligungsV)

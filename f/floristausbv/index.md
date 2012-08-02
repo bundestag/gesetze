@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Floristen/zur Floristin
 layout: default
 slug: floristausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Floristen/zur Floristin (FloristAusbV)

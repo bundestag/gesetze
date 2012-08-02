@@ -2,6 +2,7 @@
 Title: Verordnung über klinische Prüfungen von Medizinprodukten
 layout: default
 slug: mpkpv
+
 ---
 
 # Verordnung über klinische Prüfungen von Medizinprodukten (MPKPV)

@@ -2,6 +2,7 @@
 Title: Bekanntmachung der Regionalen Vereinbarung über den Rheinfunkdienst
 layout: default
 slug: rheinfudvbgbek
+
 ---
 
 # Bekanntmachung der Regionalen Vereinbarung über den Rheinfunkdienst (RheinFuDVbgBek)

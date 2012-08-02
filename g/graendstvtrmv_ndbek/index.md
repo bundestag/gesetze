@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertra
   der gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtrmv_ndbek
+
 ---
 
 # Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Land Mecklenburg-Vorpommern und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtrMV/NDBek)

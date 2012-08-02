@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer Verkehrsinfrastrukturfinanzierungsgesellschaft
-  zur Finanzierung von Bundesverkehrswegen'
+Title: Gesetz zur Errichtung einer Verkehrsinfrastrukturfinanzierungsgesellschaft
+  zur Finanzierung von Bundesverkehrswegen
 layout: default
 slug: vifgg
+
 ---
 
 # Gesetz zur Errichtung einer Verkehrsinfrastrukturfinanzierungsgesellschaft zur Finanzierung von Bundesverkehrswegen (VIFGG)

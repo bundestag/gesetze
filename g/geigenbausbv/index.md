@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Geigenbauer/zur Geigenbauerin
 layout: default
 slug: geigenbausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Geigenbauer/zur Geigenbauerin (GeigenbAusbV)

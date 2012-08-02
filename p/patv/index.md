@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Verfahren in Patentsachen vor dem Deutschen
-  Patent- und Markenamt'
+Title: Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt
 layout: default
 slug: patv
+
 ---
 
 # Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt (PatV)

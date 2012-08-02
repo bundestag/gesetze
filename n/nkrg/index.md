@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Einsetzung eines Nationalen Normenkontrollrates'
+Title: Gesetz zur Einsetzung eines Nationalen Normenkontrollrates
 layout: default
 slug: nkrg
+
 ---
 
 # Gesetz zur Einsetzung eines Nationalen Normenkontrollrates (NKRG)

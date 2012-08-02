@@ -3,6 +3,7 @@ Title: Verordnung zur Festlegung einer Veränderungssperre zur Sicherung der Sta
   für eine Anlage zur Endlagerung radioaktiver Abfälle im Bereich des Salzstocks Gorleben
 layout: default
 slug: gorleben_vspv
+
 ---
 
 # Verordnung zur Festlegung einer Veränderungssperre zur Sicherung der Standorterkundung für eine Anlage zur Endlagerung radioaktiver Abfälle im Bereich des Salzstocks Gorleben (Gorleben VSpV)

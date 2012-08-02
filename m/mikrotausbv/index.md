@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
 layout: default
 slug: mikrotausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin (MikrotAusbV)

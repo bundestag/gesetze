@@ -2,6 +2,7 @@
 Title: Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben
 layout: default
 slug: uvpbergbv
+
 ---
 
 # Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben (UVPBergbV)

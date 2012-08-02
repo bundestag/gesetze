@@ -3,6 +3,7 @@ Title: Verordnung über die Umstellungsrechnung der Geldinstitute aus Anlaß der
   des Geldwesens
 layout: default
 slug: umstgeldinstv
+
 ---
 
 # Verordnung über die Umstellungsrechnung der Geldinstitute aus Anlaß der Neuordnung des Geldwesens (UmstGeldInstV)

@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Ergotherapeutinnen und Ergotherapeuten
 layout: default
 slug: ergthaprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Ergotherapeutinnen und Ergotherapeuten (ErgThAPrV)

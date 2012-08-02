@@ -2,6 +2,7 @@
 Title: Gebührenordnung für Tierärzte
 layout: default
 slug: got
+
 ---
 
 # Gebührenordnung für Tierärzte (GOT)

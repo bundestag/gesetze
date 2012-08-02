@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investi
   zwischen Staaten und Angehörigen anderer Staaten
 layout: default
 slug: invstreit_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten (InvStreitÜbkG)

@@ -1,9 +1,10 @@
 [^f770791_01_BJNR022000008]
 Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: emvbg
+
 ---
 
 #  (EMVBG)

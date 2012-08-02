@@ -3,6 +3,7 @@ Title: Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr�
   Industriefachwirt und Gepr체fte Industriefachwirtin
 layout: default
 slug: indfachwirtprv_2010
+
 ---
 
 # Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr체fter Industriefachwirt und Gepr체fte Industriefachwirtin (IndFachwirtPrV 2010)

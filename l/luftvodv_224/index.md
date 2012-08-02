@@ -4,6 +4,7 @@ Title: Zweihundertvierundzwanzigste Durchführungsverordnung zur Luftverkehrs-Or
   und vom Verkehrslandeplatz Dortmund)
 layout: default
 slug: luftvodv_224
+
 ---
 
 # Zweihundertvierundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Dortmund) (LuftVODV 224)

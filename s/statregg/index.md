@@ -2,6 +2,7 @@
 Title: Gesetz über den Aufbau und die Führung eines Statistikregisters
 layout: default
 slug: statregg
+
 ---
 
 # Gesetz über den Aufbau und die Führung eines Statistikregisters (StatRegG)

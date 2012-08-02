@@ -2,6 +2,7 @@
 Title: Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
 layout: default
 slug: bezng
+
 ---
 
 # Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen (BEZNG)

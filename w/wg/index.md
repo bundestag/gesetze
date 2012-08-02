@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wechselgesetz'
+Title: Wechselgesetz
 layout: default
 slug: wg
+
 ---
 
 # Wechselgesetz (WG)

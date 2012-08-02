@@ -2,6 +2,7 @@
 Title: Verordnung über kosmetische Mittel
 layout: default
 slug: kosmetikv
+
 ---
 
 # Verordnung über kosmetische Mittel (KosmetikV)

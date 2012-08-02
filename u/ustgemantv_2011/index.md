@@ -4,6 +4,7 @@ Title: Verordnung über die Festsetzung der Länderschlüsselzahlen und die Ermi
   nach § 5c des Gemeindefinanzreformgesetzes
 layout: default
 slug: ustgemantv_2011
+
 ---
 
 # Verordnung über die Festsetzung der Länderschlüsselzahlen und die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils am Aufkommen der Umsatzsteuer nach § 5c des Gemeindefinanzreformgesetzes (UStGemAntV 2011)

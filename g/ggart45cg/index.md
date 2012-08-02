@@ -2,6 +2,7 @@
 Title: Gesetz über die Befugnisse des Petitionsausschusses des Deutschen Bundestages
 layout: default
 slug: ggart45cg
+
 ---
 
 # Gesetz über die Befugnisse des Petitionsausschusses des Deutschen Bundestages (GGArt45cG)

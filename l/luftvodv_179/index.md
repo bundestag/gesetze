@@ -4,6 +4,7 @@ Title: Hundertneunundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnun
   Hannover)
 layout: default
 slug: luftvodv_179
+
 ---
 
 # Hundertneunundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hannover) (LuftVODV 179)

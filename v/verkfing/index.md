@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verkehrsfinanzgesetz 1955'
+Title: Verkehrsfinanzgesetz 1955
 layout: default
 slug: verkfing
+
 ---
 
 # Verkehrsfinanzgesetz 1955 (VerkFinG)

@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zur Servicekraft für Schutz und
 Sicherheit
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: schsiservausbv
+
 ---
 
 #  (SchSiServAusbV)

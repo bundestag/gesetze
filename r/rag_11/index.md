@@ -3,6 +3,7 @@ Title: Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenv
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_11
+
 ---
 
 # Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 11)

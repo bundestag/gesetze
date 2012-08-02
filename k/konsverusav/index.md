@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Umsetzung von Konsultationsvereinbarungen
-  zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika'
+Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
+  Deutschland und den Vereinigten Staaten von Amerika
 layout: default
 slug: konsverusav
+
 ---
 
 # Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika (KonsVerUSAV)

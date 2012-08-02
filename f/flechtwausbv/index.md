@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur  Flechtwerkgestalterin
 layout: default
 slug: flechtwausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur  Flechtwerkgestalterin (FlechtwAusbV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Rechnungslegung von Versicherungsunternehmen
 layout: default
 slug: rechversv
+
 ---
 
 # Verordnung über die Rechnungslegung von Versicherungsunternehmen (RechVersV)

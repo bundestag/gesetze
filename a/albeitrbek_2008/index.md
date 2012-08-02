@@ -3,6 +3,7 @@ Title: Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssich
   der Landwirte für das Jahr 2008
 layout: default
 slug: albeitrbek_2008
+
 ---
 
 # Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2008 (ALBeitrBek 2008)

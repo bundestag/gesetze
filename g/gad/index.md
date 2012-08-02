@@ -2,6 +2,7 @@
 Title: Gesetz über den Auswärtigen Dienst
 layout: default
 slug: gad
+
 ---
 
 # Gesetz über den Auswärtigen Dienst (GAD)

@@ -3,6 +3,7 @@ Title: Gesetz über die Statistiken der öffentlichen Finanzen und des Personals
   öffentlichen Dienst
 layout: default
 slug: fpstatg
+
 ---
 
 # Gesetz über die Statistiken der öffentlichen Finanzen und des Personals im öffentlichen Dienst (FPStatG)

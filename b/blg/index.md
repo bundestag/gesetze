@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesleistungsgesetz'
+Title: Bundesleistungsgesetz
 layout: default
 slug: blg
+
 ---
 
 # Bundesleistungsgesetz (BLG)

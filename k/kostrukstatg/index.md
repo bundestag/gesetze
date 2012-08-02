@@ -2,6 +2,7 @@
 Title: Gesetz über Kostenstrukturstatistik
 layout: default
 slug: kostrukstatg
+
 ---
 
 # Gesetz über Kostenstrukturstatistik (KoStrukStatG)

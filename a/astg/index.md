@@ -2,6 +2,7 @@
 Title: Gesetz über die Besteuerung bei Auslandsbeziehungen
 layout: default
 slug: astg
+
 ---
 
 # Gesetz über die Besteuerung bei Auslandsbeziehungen (AStG)

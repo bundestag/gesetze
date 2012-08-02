@@ -3,6 +3,7 @@ Title: Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Ste
   Zölle und Finanzmonopole im Saarland
 layout: default
 slug: strsaareg
+
 ---
 
 # Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland (StRSaarEG)

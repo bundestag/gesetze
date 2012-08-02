@@ -3,6 +3,7 @@ Title: Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr�
   Logistikmeister/Gepr체fte Logistikmeisterin
 layout: default
 slug: logmstrv
+
 ---
 
 # Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr체fter Logistikmeister/Gepr체fte Logistikmeisterin (LogMstrV)

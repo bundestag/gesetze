@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Koch/zur Köchin
 layout: default
 slug: kochausbv_1998
+
 ---
 
 # Verordnung über die Berufsausbildung zum Koch/zur Köchin (KochAusbV 1998)

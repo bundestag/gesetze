@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 8. Februar 1995 zwischen der Bundesrepublik De
   Steuern vom Einkommen und vom Vermögen
 layout: default
 slug: dbaveng
+
 ---
 
 # Gesetz zu dem Abkommen vom 8. Februar 1995 zwischen der Bundesrepublik Deutschland und der Republik Venezuela zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (DBAVENG)

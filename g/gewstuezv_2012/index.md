@@ -3,6 +3,7 @@ Title: Verordnung zur Festsetzung der Erhöhungszahl für die Gewerbesteuerumlag
   § 6 Absatz 5 des Gemeindefinanzreformgesetzes im Jahr 2012
 layout: default
 slug: gewstuezv_2012
+
 ---
 
 # Verordnung zur Festsetzung der Erhöhungszahl für die Gewerbesteuerumlage nach § 6 Absatz 5 des Gemeindefinanzreformgesetzes im Jahr 2012 (GewStUEZV 2012)

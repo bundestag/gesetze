@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen
   Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes
 layout: default
 slug: lap-gtdwsvv
+
 ---
 
 # Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes (LAP-gtDWSVV)

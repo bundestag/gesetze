@@ -2,6 +2,7 @@
 Title: Anordnung des Präsidenten des Bundesrates über die Festsetzung einer Amtsbezeichnung
 layout: default
 slug: brpr_samtsbezano
+
 ---
 
 # Anordnung des Präsidenten des Bundesrates über die Festsetzung einer Amtsbezeichnung (BRPräsAmtsbezAnO)

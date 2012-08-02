@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung eines Sondervermögens „Kinderbetreuungsausbau“
 layout: default
 slug: kbfg
+
 ---
 
 # Gesetz zur Errichtung eines Sondervermögens „Kinderbetreuungsausbau“ (KBFG)

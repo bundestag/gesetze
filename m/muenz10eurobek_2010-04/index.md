@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „200. Geburtstag des Komponisten Robert Schumann“)
 layout: default
 slug: m_nz10eurobek_2010-04
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200. Geburtstag des Komponisten Robert Schumann“) (Münz10EuroBek 2010-04)

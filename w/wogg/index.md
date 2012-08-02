@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wohngeldgesetz'
+Title: Wohngeldgesetz
 layout: default
 slug: wogg
+
 ---
 
 # Wohngeldgesetz (WoGG)

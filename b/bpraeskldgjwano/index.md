@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Justizwachtmeister im Bundesdienst
 layout: default
 slug: bpr_skldgjwano
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Justizwachtmeister im Bundesdienst (BPräsKldgJWAnO)

@@ -2,6 +2,7 @@
 Title: Gesetz über das Verlagsrecht
 layout: default
 slug: verlg
+
 ---
 
 # Gesetz über das Verlagsrecht (VerlG)

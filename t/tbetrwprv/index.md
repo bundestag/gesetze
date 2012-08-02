@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Techni
   Betriebswirt/Geprüfte Technische Betriebswirtin
 layout: default
 slug: tbetrwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin (TBetrWPrV)

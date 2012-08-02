@@ -2,6 +2,7 @@
 Title: Gesetz über die Verwendung des Vermögens der Deutschen Industriebank
 layout: default
 slug: dindbvermverwg
+
 ---
 
 # Gesetz über die Verwendung des Vermögens der Deutschen Industriebank (DIndBVermVerwG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Erstellung von außerbetrieblichen Notfallplänen un
   Informations-, Melde- und Unterrichtungspflichten
 layout: default
 slug: gentnotfv
+
 ---
 
 # Verordnung über die Erstellung von außerbetrieblichen Notfallplänen und über Informations-, Melde- und Unterrichtungspflichten (GenTNotfV)

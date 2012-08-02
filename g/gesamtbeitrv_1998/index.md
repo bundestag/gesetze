@@ -3,6 +3,7 @@ Title: Verordnung über den Gesamtbeitrag der Wehrdienstleistenden und der Zivil
   zur Arbeitsförderung
 layout: default
 slug: gesamtbeitrv_1998
+
 ---
 
 # Verordnung über den Gesamtbeitrag der Wehrdienstleistenden und der Zivildienstleistenden zur Arbeitsförderung (GesamtBeitrV 1998)

@@ -3,6 +3,7 @@ Title: Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutz
   Bundesautobahnen und Bundesstraßen
 layout: default
 slug: bfstrmg
+
 ---
 
 # Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen (BFStrMG)

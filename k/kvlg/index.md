@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Weiterentwicklung des Rechts der gesetzlichen
-  Krankenversicherung'
+Title: Gesetz zur Weiterentwicklung des Rechts der gesetzlichen Krankenversicherung
 layout: default
 slug: kvlg
+
 ---
 
 # Gesetz zur Weiterentwicklung des Rechts der gesetzlichen Krankenversicherung (KVLG)

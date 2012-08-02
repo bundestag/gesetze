@@ -2,6 +2,7 @@
 Title: Zweite Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 layout: default
 slug: ausbberaufhv_2
+
 ---
 
 # Zweite Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen (AusbBerAufhV 2)

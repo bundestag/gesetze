@@ -2,6 +2,7 @@
 Title: Fünfte Durchführungsverordnung zum Marktstrukturgesetz - Wein
 layout: default
 slug: marktstrgdv_5
+
 ---
 
 # Fünfte Durchführungsverordnung zum Marktstrukturgesetz - Wein (MarktStrGDV 5)

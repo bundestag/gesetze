@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postauftragsabkommen'
+Title: Postauftragsabkommen
 layout: default
 slug: postauftrabk_1984
+
 ---
 
 # Postauftragsabkommen (PostAuftrAbk 1984)

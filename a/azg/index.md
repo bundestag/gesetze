@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Anteilzollgesetz'
+Title: Anteilzollgesetz
 layout: default
 slug: azg
+
 ---
 
 # Anteilzollgesetz (AZG)

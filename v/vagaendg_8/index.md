@@ -3,6 +3,7 @@ Title: Achtes Gesetz zur Änderung des Versicherungsaufsichtsgesetzes sowie zur 
   des Finanzdienstleistungsaufsichtsgesetzes und anderer Vorschriften
 layout: default
 slug: vag_ndg_8
+
 ---
 
 # Achtes Gesetz zur Änderung des Versicherungsaufsichtsgesetzes sowie zur  Änderung des Finanzdienstleistungsaufsichtsgesetzes und anderer Vorschriften (VAGÄndG 8)

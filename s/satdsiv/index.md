@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Satellitendatensicherheitsgesetz'
+Title: Verordnung zum Satellitendatensicherheitsgesetz
 layout: default
 slug: satdsiv
+
 ---
 
 # Verordnung zum Satellitendatensicherheitsgesetz (SatDSiV)

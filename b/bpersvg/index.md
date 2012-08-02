@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundespersonalvertretungsgesetz'
+Title: Bundespersonalvertretungsgesetz
 layout: default
 slug: bpersvg
+
 ---
 
 # Bundespersonalvertretungsgesetz (BPersVG)

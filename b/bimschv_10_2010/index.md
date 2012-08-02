@@ -2,9 +2,10 @@
 Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 [^F1_774781_01_BJNR184900010]
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: bimschv_10_2010
+
 ---
 
 #  (BImSchV 10 2010)

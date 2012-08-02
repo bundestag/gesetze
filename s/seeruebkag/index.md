@@ -4,6 +4,7 @@ Title: Gesetz zur Ausführung des Seerechtsübereinkommens der Vereinten Natione
   Teils XI des Seerechtsübereinkommens
 layout: default
 slug: seer_bkag
+
 ---
 
 # Gesetz zur Ausführung des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 sowie des Übereinkommens vom 28. Juli 1994 zur Durchführung des Teils XI des Seerechtsübereinkommens (SeeRÜbkAG)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall
 layout: default
 slug: entgfg
+
 ---
 
 # Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall (EntgFG)

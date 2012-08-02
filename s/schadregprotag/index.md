@@ -3,6 +3,7 @@ Title: Gesetz zur Ausführung des Protokolls über Schadstofffreisetzungs- und -
   vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006
 layout: default
 slug: schadregprotag
+
 ---
 
 # Gesetz zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 (SchadRegProtAG)

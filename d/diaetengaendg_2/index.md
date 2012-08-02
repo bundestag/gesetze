@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Änderung des Diätengesetzes 1968
 layout: default
 slug: di_teng_ndg_2
+
 ---
 
 # Zweites Gesetz zur Änderung des Diätengesetzes 1968 (DiätenGÄndG 2)

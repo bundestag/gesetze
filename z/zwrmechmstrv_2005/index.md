@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Zweiradmechaniker-Handwerk
 layout: default
 slug: zwrmechmstrv_2005
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Zweiradmechaniker-Handwerk (ZwrMechMstrV 2005)

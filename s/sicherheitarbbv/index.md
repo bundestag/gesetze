@@ -2,6 +2,7 @@
 Title: Verordnung über zwingende Arbeitsbedingungen für Sicherheitsleistungen
 layout: default
 slug: sicherheitarbbv
+
 ---
 
 # Verordnung über zwingende Arbeitsbedingungen für Sicherheitsleistungen (SicherheitArbbV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berichterstattung von Versicherungsunternehmen gegen
   der Bundesanstalt für Finanzdienstleistungsaufsicht
 layout: default
 slug: berversv_2006
+
 ---
 
 # Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht (BerVersV 2006)

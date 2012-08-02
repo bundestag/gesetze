@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit der Hauptzollämter zur Verfolgung un
   bestimmter Ordnungswidrigkeiten nach dem Waffengesetz und dem Sprengstoffgesetz
 layout: default
 slug: waffghzaowiv
+
 ---
 
 # Verordnung über die Zuständigkeit der Hauptzollämter zur Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten nach dem Waffengesetz und dem Sprengstoffgesetz (WaffGHZAOWiV)

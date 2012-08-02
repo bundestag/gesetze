@@ -2,6 +2,7 @@
 Title: Fünftes Gesetz zur Änderung dienstrechtlicher Vorschriften
 layout: default
 slug: dienstr_ndg_5
+
 ---
 
 # Fünftes Gesetz zur Änderung dienstrechtlicher Vorschriften (DienstRÄndG 5)

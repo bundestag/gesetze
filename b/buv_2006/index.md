@@ -4,6 +4,7 @@ Title: Verordnung zur Regelung der Unfallverhütung in Unternehmen und bei  Pers
   Siebten Buches Sozialgesetzbuch Unfallversicherungsträger ist
 layout: default
 slug: buv_2006
+
 ---
 
 # Verordnung zur Regelung der Unfallverhütung in Unternehmen und bei  Personen, für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr. 2 bis 7 und  Abs. 3 des Siebten Buches Sozialgesetzbuch Unfallversicherungsträger ist (BUV 2006)

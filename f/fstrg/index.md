@@ -2,6 +2,7 @@
 Title: Bundesfernstraßengesetz
 layout: default
 slug: fstrg
+
 ---
 
 # Bundesfernstraßengesetz (FStrG)

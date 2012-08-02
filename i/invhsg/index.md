@@ -2,6 +2,7 @@
 Title: Gesetz über den Abschluß der Investitionshilfe der gewerblichen Wirtschaft
 layout: default
 slug: invhsg
+
 ---
 
 # Gesetz über den Abschluß der Investitionshilfe der gewerblichen Wirtschaft (InvHSG)

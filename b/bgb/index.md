@@ -2,6 +2,7 @@
 Title: Bürgerliches Gesetzbuch
 layout: default
 slug: bgb
+
 ---
 
 # Bürgerliches Gesetzbuch (BGB)

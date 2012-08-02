@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung neuer Freihäfen und zur Änderung des Zollgesetzes
 layout: default
 slug: frhfdeg_dug
+
 ---
 
 # Gesetz zur Errichtung neuer Freihäfen und zur Änderung des Zollgesetzes (FrHfDEG/DUG)

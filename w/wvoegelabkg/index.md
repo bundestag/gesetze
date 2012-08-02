@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eu
   wandernden Wasservögel
 layout: default
 slug: wv_gelabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel (WVögelAbkG)

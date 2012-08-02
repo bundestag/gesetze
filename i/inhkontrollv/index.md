@@ -2,9 +2,10 @@
 Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und §
 104 des Versicherungsaufsichtsgesetzes
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: inhkontrollv
+
 ---
 
 #  (InhKontrollV)

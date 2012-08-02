@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verwaltungsgerichtsordnung'
+Title: Verwaltungsgerichtsordnung
 layout: default
 slug: vwgo
+
 ---
 
 # Verwaltungsgerichtsordnung (VwGO)

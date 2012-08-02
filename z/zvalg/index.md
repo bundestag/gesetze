@@ -3,6 +3,7 @@ Title: Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehme
   der Land- und Forstwirtschaft
 layout: default
 slug: zvalg
+
 ---
 
 # Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft (ZVALG)

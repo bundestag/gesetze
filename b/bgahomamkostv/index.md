@@ -4,6 +4,7 @@ Title: Kostenverordnung für die Registrierung homöopathischer Arzneimittel dur
   und Lebensmittelsicherheit
 layout: default
 slug: bgahomamkostv
+
 ---
 
 # Kostenverordnung für die Registrierung homöopathischer Arzneimittel durch das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BGAHomAMKostV)

@@ -4,6 +4,7 @@ Title: Verordnung über die Erstattung von notwendigen Auslagen, Verdienstausfal
   Wehrüberwachung und Dienstleistungsüberwachung
 layout: default
 slug: wderstattv
+
 ---
 
 # Verordnung über die Erstattung von notwendigen Auslagen, Verdienstausfall und Vertretungskosten der Wehrpflichtigen und Dienstleistungspflichtigen im Rahmen der Wehrüberwachung und Dienstleistungsüberwachung (WDErstattV)

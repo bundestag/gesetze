@@ -2,9 +2,10 @@
 Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-
 Institute
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: rechzahlv
+
 ---
 
 #  (RechZahlV)

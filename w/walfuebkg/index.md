@@ -3,6 +3,7 @@ Title: Gesetz zu dem Internationalen Übereinkommen vom 2. Dezember 1946 zur Reg
   des Walfangs
 layout: default
 slug: walf_bkg
+
 ---
 
 # Gesetz zu dem Internationalen Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs (WalfÜbkG)

@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Bürgerlichen Gesetzbuche
 layout: default
 slug: bgbeg
+
 ---
 
 # Einführungsgesetz zum Bürgerlichen Gesetzbuche (BGBEG)

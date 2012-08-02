@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 1. Juni 1967 über das Verhalten beim Fi
   im Nordatlantik
 layout: default
 slug: fischnat_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 1. Juni 1967 über das Verhalten beim Fischfang im Nordatlantik (FischNATÜbkG)

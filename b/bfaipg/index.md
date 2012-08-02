@@ -2,6 +2,7 @@
 Title: Gesetz über das Personal der Bundesagentur für Außenwirtschaft
 layout: default
 slug: bfaipg
+
 ---
 
 # Gesetz über das Personal der Bundesagentur für Außenwirtschaft (BfAIPG)

@@ -4,6 +4,7 @@ Title: Gesetz zu dem Notenwechsel vom 29. April 1998 über die Rechtsstellung de
   und türkischen Streitkräfte in der Bundesrepublik Deutschland
 layout: default
 slug: auslstreitkrnotwg
+
 ---
 
 # Gesetz zu dem Notenwechsel vom 29. April 1998 über die Rechtsstellung der dänischen, griechischen, italienischen, luxemburgischen, norwegischen, portugiesischen, spanischen und türkischen Streitkräfte in der Bundesrepublik Deutschland (AuslStreitkrNotWG)

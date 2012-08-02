@@ -4,6 +4,7 @@ Title: Verordnung zur Durchführung der steuerlichen Vorschriften des Einkommens
   mit der zentralen Stelle
 layout: default
 slug: altvdv
+
 ---
 
 # Verordnung zur Durchführung der steuerlichen Vorschriften des Einkommensteuergesetzes zur Altersvorsorge und zum Rentenbezugsmitteilungsverfahren sowie zum weiteren Datenaustausch mit der zentralen Stelle (AltvDV)

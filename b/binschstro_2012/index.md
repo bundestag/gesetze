@@ -2,6 +2,7 @@
 Title: Binnenschifffahrtsstraßen-Ordnung
 layout: default
 slug: binschstro_2012
+
 ---
 
 # Binnenschifffahrtsstraßen-Ordnung (BinSchStrO 2012)

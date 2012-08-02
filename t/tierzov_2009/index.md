@@ -1,9 +1,10 @@
 [^F772101_01_BJNR103900009]
 Verordnung über Zuchtorganisationen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tierzov_2009
+
 ---
 
 #  (TierZOV 2009)

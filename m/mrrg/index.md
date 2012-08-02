@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Melderechtsrahmengesetz'
+Title: Melderechtsrahmengesetz
 layout: default
 slug: mrrg
+
 ---
 
 # Melderechtsrahmengesetz (MRRG)

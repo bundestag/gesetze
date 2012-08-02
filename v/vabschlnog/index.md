@@ -2,6 +2,7 @@
 Title: Gesetz zur Neuordnung der Versorgungsabschläge
 layout: default
 slug: vabschlnog
+
 ---
 
 # Gesetz zur Neuordnung der Versorgungsabschläge (VAbschlNOG)

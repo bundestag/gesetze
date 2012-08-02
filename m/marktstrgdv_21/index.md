@@ -2,6 +2,7 @@
 Title: Einundzwanzigste Durchführungsverordnung zum Marktstrukturgesetz - Kaninchen
 layout: default
 slug: marktstrgdv_21
+
 ---
 
 # Einundzwanzigste Durchführungsverordnung zum Marktstrukturgesetz - Kaninchen (MarktStrGDV 21)

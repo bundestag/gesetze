@@ -3,6 +3,7 @@ Title: Neunte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Ausl
   (Zweite Ergänzung des Verzeichnisses der Auslandsbonds)
 layout: default
 slug: auslwbgdv_9
+
 ---
 
 # Neunte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Zweite Ergänzung des Verzeichnisses der Auslandsbonds) (AuslWBGDV 9)

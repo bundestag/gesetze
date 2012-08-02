@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Großherzogtum Lu
   über den Verlauf der gemeinsamen Staatsgrenze
 layout: default
 slug: stgrenzvtr_lux
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze (StGrenzVtr LUX)

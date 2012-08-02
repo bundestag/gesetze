@@ -3,6 +3,7 @@ Title: Verordnung über Ausnahmen zum Verbringungs- und Einfuhrverbot von gefäh
   Hunden in das Inland
 layout: default
 slug: hundverbreinfvo
+
 ---
 
 # Verordnung über Ausnahmen zum Verbringungs- und Einfuhrverbot von gefährlichen Hunden in das Inland (HundVerbrEinfVO)

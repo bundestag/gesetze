@@ -1,9 +1,10 @@
 [^F775902_01_BJNR244700011]
 Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: hknv
+
 ---
 
 #  (HkNV)

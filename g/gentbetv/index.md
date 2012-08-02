@@ -5,6 +5,7 @@ Title: Verordnung über die Beteiligung des Rates, der Kommission und der Behör
   und Inverkehrbringen sowie im Verfahren bei nachträglichen Maßnahmen nach dem Gentechnikgesetz
 layout: default
 slug: gentbetv
+
 ---
 
 # Verordnung über die Beteiligung des Rates, der Kommission und der Behörden der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum im Verfahren zur Genehmigung von Freisetzungen und Inverkehrbringen sowie im Verfahren bei nachträglichen Maßnahmen nach dem Gentechnikgesetz (GenTBetV)

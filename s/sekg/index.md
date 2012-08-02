@@ -3,6 +3,7 @@ Title: Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivil
   Krisenprävention
 layout: default
 slug: sekg
+
 ---
 
 # Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivilen Krisenprävention (SekG)

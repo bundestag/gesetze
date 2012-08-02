@@ -4,6 +4,7 @@ Title: Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontr
   und der Luftverkehrsrechte
 layout: default
 slug: luftnasig
+
 ---
 
 # Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte (LuftNaSiG)

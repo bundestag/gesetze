@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jub
   an Beamte der Deutschen Bundespost
 layout: default
 slug: dbpjubano
+
 ---
 
 # Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte der Deutschen Bundespost (DBPJubAnO)

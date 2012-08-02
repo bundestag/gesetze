@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz Nr. 28 zur Ahndung nationalsozialistischer Straftaten'
+Title: Gesetz Nr. 28 zur Ahndung nationalsozialistischer Straftaten
 layout: default
 slug: nsahndg_wb
+
 ---
 
 # Gesetz Nr. 28 zur Ahndung nationalsozialistischer Straftaten (NSAhndG WB)

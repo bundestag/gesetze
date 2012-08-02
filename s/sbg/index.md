@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Soldatenbeteiligungsgesetz'
+Title: Soldatenbeteiligungsgesetz
 layout: default
 slug: sbg
+
 ---
 
 # Soldatenbeteiligungsgesetz (SBG)

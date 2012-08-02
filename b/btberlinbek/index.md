@@ -2,6 +2,7 @@
 Title: Bekanntmachung über die Arbeitsfähigkeit des Deutschen Bundestages in Berlin
 layout: default
 slug: btberlinbek
+
 ---
 
 # Bekanntmachung über die Arbeitsfähigkeit des Deutschen Bundestages in Berlin (BTBerlinBek)

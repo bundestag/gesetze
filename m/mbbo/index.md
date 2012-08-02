@@ -2,6 +2,7 @@
 Title: Verordnung über den Bau und Betrieb der Magnetschwebebahnen
 layout: default
 slug: mbbo
+
 ---
 
 # Verordnung über den Bau und Betrieb der Magnetschwebebahnen (MbBO)

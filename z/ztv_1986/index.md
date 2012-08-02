@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zolltarifverordnung'
+Title: Zolltarifverordnung
 layout: default
 slug: ztv_1986
+
 ---
 
 # Zolltarifverordnung (ZTV 1986)

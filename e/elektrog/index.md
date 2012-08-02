@@ -3,6 +3,7 @@ Title: Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgl
   Entsorgung von Elektro- und Elektronikgeräten
 layout: default
 slug: elektrog
+
 ---
 
 # Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten (ElektroG)

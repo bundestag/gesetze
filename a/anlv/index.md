@@ -2,6 +2,7 @@
 Title: Verordnung über die Anlage des gebundenen Vermögens von Versicherungsunternehmen
 layout: default
 slug: anlv
+
 ---
 
 # Verordnung über die Anlage des gebundenen Vermögens von Versicherungsunternehmen (AnlV)

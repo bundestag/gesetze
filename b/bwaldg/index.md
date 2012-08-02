@@ -2,6 +2,7 @@
 Title: Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft
 layout: default
 slug: bwaldg
+
 ---
 
 # Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft (BWaldG)

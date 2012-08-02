@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutze der Auswanderer'
+Title: Gesetz zum Schutze der Auswanderer
 layout: default
 slug: auswsg
+
 ---
 
 # Gesetz zum Schutze der Auswanderer (AuswSG)

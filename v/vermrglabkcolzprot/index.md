@@ -3,6 +3,7 @@ Title: Zusatzprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und 
   Republik Kolumbien über deutsche Vermögenswerte in Kolumbien
 layout: default
 slug: vermrglabkcolzprot
+
 ---
 
 # Zusatzprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kolumbien über deutsche Vermögenswerte in Kolumbien (VermRglAbkCOLZProt)

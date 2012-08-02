@@ -3,6 +3,7 @@ Title: Verordnung über die Etikettierung von Rindfleisch und über die Verkehrs
   und Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern
 layout: default
 slug: rifletikettv_2009
+
 ---
 
 # Verordnung über die Etikettierung von Rindfleisch und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern (RiFlEtikettV 2009)

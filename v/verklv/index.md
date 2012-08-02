@@ -3,6 +3,7 @@ Title: Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berecht
   Auslandsvertretungen der Bundesrepublik Deutschland
 layout: default
 slug: verklv
+
 ---
 
 # Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berechtigten Auslandsvertretungen der Bundesrepublik Deutschland (VerklV)

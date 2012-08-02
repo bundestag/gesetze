@@ -2,6 +2,7 @@
 Title: Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen
 layout: default
 slug: wasskiv_1990
+
 ---
 
 # Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen (WasSkiV 1990)

@@ -3,6 +3,7 @@ Title: Erste Durchführungsverordnung zum Gesetz über die berufsmäßige Ausüb
   Heilkunde ohne Bestallung (Heilpraktikergesetz)
 layout: default
 slug: heilprgdv_1
+
 ---
 
 # Erste Durchführungsverordnung zum Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (Heilpraktikergesetz) (HeilprGDV 1)

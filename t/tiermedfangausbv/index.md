@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestell
   Tiermedizinischen Fachangestellten
 layout: default
 slug: tiermedfangausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten (TiermedFAngAusbV)

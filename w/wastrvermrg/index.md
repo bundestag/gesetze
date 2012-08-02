@@ -2,6 +2,7 @@
 Title: Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen
 layout: default
 slug: wastrvermrg
+
 ---
 
 # Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen (WaStrVermRG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Kosten der Kartellbehörden
 layout: default
 slug: kartkostv
+
 ---
 
 # Verordnung über die Kosten der Kartellbehörden (KartKostV)

@@ -3,6 +3,7 @@ Title: Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft f�
   Telematik für das Jahr 2012
 layout: default
 slug: telefinv_2012
+
 ---
 
 # Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2012 (TeleFinV 2012)

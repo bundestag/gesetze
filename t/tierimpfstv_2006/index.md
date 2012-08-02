@@ -2,6 +2,7 @@
 Title: Verordnung über Sera, Impfstoffe und Antigene nach dem Tierseuchengesetz
 layout: default
 slug: tierimpfstv_2006
+
 ---
 
 # Verordnung über Sera, Impfstoffe und Antigene nach dem Tierseuchengesetz (TierImpfStV 2006)

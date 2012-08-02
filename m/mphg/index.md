@@ -2,6 +2,7 @@
 Title: Gesetz über die Berufe in der Physiotherapie
 layout: default
 slug: mphg
+
 ---
 
 # Gesetz über die Berufe in der Physiotherapie (MPhG)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung eines Restrukturierungsfonds für Kreditinstitute
 layout: default
 slug: rstruktfg
+
 ---
 
 # Gesetz zur Errichtung eines Restrukturierungsfonds für Kreditinstitute (RStruktFG)

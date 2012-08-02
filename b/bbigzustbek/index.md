@@ -3,6 +3,7 @@ Title: Bekanntmachung der Bestimmung der zuständigen Stelle für den Geschäfts
   des Bundesministers des Innern nach dem Berufsbildungsgesetz
 layout: default
 slug: bbigzustbek
+
 ---
 
 # Bekanntmachung der Bestimmung der zuständigen Stelle für den Geschäftsbereich des Bundesministers des Innern nach dem Berufsbildungsgesetz (BBiGZustBek)

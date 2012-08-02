@@ -2,6 +2,7 @@
 Title: Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen
 layout: default
 slug: fteg
+
 ---
 
 # Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen (FTEG)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zw
   Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2005
 layout: default
 slug: sgb2_20abs2bek
+
 ---
 
 # Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2005 (SGB2§20Abs2Bek)

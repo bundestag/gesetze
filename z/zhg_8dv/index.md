@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über die Ausü
   Zahnheilkunde
 layout: default
 slug: zhg_8dv
+
 ---
 
 # Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über die Ausübung der Zahnheilkunde (ZHG§8DV)

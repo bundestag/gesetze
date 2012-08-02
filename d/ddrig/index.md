@@ -3,6 +3,7 @@ Title: Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokr
   Republik einschließlich Berlin (Ost)
 layout: default
 slug: ddrig
+
 ---
 
 # Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) (DDRIG)

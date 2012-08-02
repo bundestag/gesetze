@@ -3,6 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Brüggen
 layout: default
 slug: flul_rmbr_gv
+
 ---
 
 # Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Brüggen (FluLärmBrügV)

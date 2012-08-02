@@ -4,6 +4,7 @@ Title: Zweite Verordnung zur Übertragung von unternehmensbezogenen Aufgaben nac
   Sonderaufgaben
 layout: default
 slug: treuhunt_v_2
+
 ---
 
 # Zweite Verordnung zur Übertragung von unternehmensbezogenen Aufgaben nach dem Treuhandgesetz und von Unternehmensbeteiligungen der Bundesanstalt für vereinigungsbedingte Sonderaufgaben (TreuhUntÜV 2)

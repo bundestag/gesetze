@@ -2,6 +2,7 @@
 Title: Zweite Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung
 layout: default
 slug: fev2010ausnv_2
+
 ---
 
 # Zweite Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung (FeV2010AusnV 2)

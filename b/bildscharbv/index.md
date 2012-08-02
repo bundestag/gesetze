@@ -2,6 +2,7 @@
 Title: Verordnung über Sicherheit und Gesundheitsschutz bei der Arbeit an Bildschirmgeräten
 layout: default
 slug: bildscharbv
+
 ---
 
 # Verordnung über Sicherheit und Gesundheitsschutz bei der Arbeit an Bildschirmgeräten (BildscharbV)

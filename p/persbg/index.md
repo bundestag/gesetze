@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz'
+Title: Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz
 layout: default
 slug: persbg
+
 ---
 
 # Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz (PersBG)

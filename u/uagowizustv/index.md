@@ -4,6 +4,7 @@ Title: Verordnung zur Übertragung der Zuständigkeit für die Verfolgung und Ah
   Bundesverwaltungsamt
 layout: default
 slug: uagowizustv
+
 ---
 
 # Verordnung zur Übertragung der Zuständigkeit für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten nach § 37 Abs. 1 des Umweltauditgesetzes auf das Bundesverwaltungsamt (UAGOWiZustV)

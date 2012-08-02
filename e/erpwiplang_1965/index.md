@@ -3,6 +3,7 @@ Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermöge
   das Rechnungsjahr 1965
 layout: default
 slug: erpwiplang_1965
+
 ---
 
 # Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1965 (ERPWiPlanG 1965)

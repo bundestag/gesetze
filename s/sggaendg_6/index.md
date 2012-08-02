@@ -2,6 +2,7 @@
 Title: Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
 layout: default
 slug: sgg_ndg_6
+
 ---
 
 # Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes (SGGÄndG 6)

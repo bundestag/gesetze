@@ -2,6 +2,7 @@
 Title: Erste Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung
 layout: default
 slug: fev2010ausnv_1
+
 ---
 
 # Erste Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung (FeV2010AusnV 1)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen un
   Kauffrau für Versicherungen und Finanzen
 layout: default
 slug: versfinkfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und  Finanzen/zur Kauffrau für Versicherungen und Finanzen (VersFinKfAusbV)

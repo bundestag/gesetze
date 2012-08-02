@@ -2,6 +2,7 @@
 Title: Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung
 layout: default
 slug: schbaug
+
 ---
 
 # Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung (SchBauG)

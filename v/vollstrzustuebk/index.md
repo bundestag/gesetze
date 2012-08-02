@@ -3,6 +3,7 @@ Title: Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckun
   Entscheidungen in Zivil- und Handelssachen
 layout: default
 slug: vollstrzust_bk
+
 ---
 
 # Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen (VollstrZustÜbk)

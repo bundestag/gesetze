@@ -3,6 +3,7 @@ Title: Dritte Verordnung zur Änderung der Ersten, Zweiten und Dritten Verordnun
   Durchführung des Bundesentschädigungsgesetzes
 layout: default
 slug: begdv1_2_3_ndv_3
+
 ---
 
 # Dritte Verordnung zur Änderung der Ersten, Zweiten und Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV1/2/3ÄndV 3)
