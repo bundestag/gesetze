@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.Title }}</title>
+  <link rel="stylesheet" href="/static/css/screen.css">
+  <link rel="shortcut icon" href="/static/img/favicon.png">
+  <meta http-equiv="Content-Language" content="de" />
+  <meta name="language" content="de" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+  <header>
+    <h1>Deutsche Bundesgesetze- und verordnungen</h1>
+  </header>
+  <article class="law">
+    {{ content }}
+  </article>
+  <footer>
+    {% if page.slug %}
+    <p>
+      Bitte beziehen Sie sich auf die offizielle Version von <a href="http://www.gesetze-im-internet.de/{{ page.slug }}/">www.gesetze-im-internet.de</a>.
+    </p>
+    {% endif %}
+  </footer>
+  <script src="/static/js/main.js"></script>
+</body>
+</html>
