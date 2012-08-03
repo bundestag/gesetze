@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach § 3 Absatz 1 Satz 2 des Gesetzes über die Versorgungsausgleichskasse
+jurabk: VersAusglKassG§3Abs1S2Bek
 layout: default
+origslug: versausglkassg_3abs1s2bek
 slug: versausglkassg_3abs1s2bek
 
 ---

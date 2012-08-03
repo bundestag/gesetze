@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Geflügelpest
+jurabk: GeflPestSchV
 layout: default
+origslug: geflpestschv
 slug: geflpestschv
 
 ---

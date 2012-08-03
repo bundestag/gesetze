@@ -2,7 +2,9 @@
 Verordnung zum Schutz vor Gefahrstoffen
 ---
 Title: ''
+jurabk: GefStoffV 2010
 layout: default
+origslug: gefstoffv_2010
 slug: gefstoffv_2010
 
 ---

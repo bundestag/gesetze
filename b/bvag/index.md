@@ -2,7 +2,9 @@
 Title: Gesetz über die Errichtung des Bundesversicherungsamts, die Aufsicht über die
   Sozialversicherungsträger und die Regelung von Verwaltungszuständigkeiten in der
   Sozialversicherung und der betrieblichen Altersfürsorge
+jurabk: BVAG
 layout: default
+origslug: bvag
 slug: bvag
 
 ---

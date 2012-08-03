@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Personaldienstleistungsfachwirt und Geprüfte Personaldienstleistungsfachwirtin
+jurabk: PersDLPrV
 layout: default
+origslug: persdlprv
 slug: persdlprv
 
 ---

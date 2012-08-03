@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
+jurabk: FahrzIAAusbV
 layout: default
+origslug: fahrziaausbv
 slug: fahrziaausbv
 
 ---

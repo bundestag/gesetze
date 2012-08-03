@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Verschreibungspflicht von Medizinprodukten
+jurabk: MPVerschrV
 layout: default
+origslug: mpverschrv
 slug: mpverschrv
 
 ---

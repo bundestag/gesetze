@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verwirklichung der mehrjährigen Finanzplanung des Bundes, II. Teil
+jurabk: FinÄndG 1967
 layout: default
-slug: fin_ndg_1967
+origslug: fin_ndg_1967
+slug: finaendg_1967
 
 ---
 

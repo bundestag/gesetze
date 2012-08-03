@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäischen
   Schulen in Karlsruhe und München
+jurabk: EuSchulVorRV 1985
 layout: default
+origslug: euschulvorrv_1985
 slug: euschulvorrv_1985
 
 ---

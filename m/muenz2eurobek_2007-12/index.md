@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 2 Euro (Gedenkmünze „Hamburg“)
+jurabk: Münz2EuroBek 2007-12
 layout: default
-slug: m_nz2eurobek_2007-12
+origslug: m_nz2eurobek_2007-12
+slug: muenz2eurobek_2007-12
 
 ---
 

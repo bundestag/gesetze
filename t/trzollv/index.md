@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Truppenzollgesetzes
+jurabk: TrZollV
 layout: default
+origslug: trzollv
 slug: trzollv
 
 ---

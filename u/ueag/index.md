@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung
   verurteilter Personen
+jurabk: ÜAG
 layout: default
-slug: _ag
+origslug: _ag
+slug: ueag
 
 ---
 

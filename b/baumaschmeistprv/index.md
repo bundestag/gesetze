@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenmeister
+jurabk: BauMaschMeistPrV
 layout: default
+origslug: baumaschmeistprv
 slug: baumaschmeistprv
 
 ---

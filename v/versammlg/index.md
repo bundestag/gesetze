@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Versammlungen und Aufzüge
+jurabk: VersammlG
 layout: default
+origslug: versammlg
 slug: versammlg
 
 ---

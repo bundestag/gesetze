@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur
 Feinwerkmechanikerin
 ---
 Title: ''
+jurabk: FeinwAusbV
 layout: default
+origslug: feinwausbv
 slug: feinwausbv
 
 ---

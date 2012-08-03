@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Erholungsurlaub der Beamtinnen, Beamten und Richterinnen
   und Richter des Bundes
+jurabk: BUrlV
 layout: default
+origslug: burlv
 slug: burlv
 
 ---

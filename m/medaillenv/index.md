@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken
   zum Schutz deutscher Euro-Gedenkmünzen
+jurabk: MedaillenV
 layout: default
+origslug: medaillenv
 slug: medaillenv
 
 ---

@@ -3,7 +3,9 @@ Title: Verordnung zur Umsetzung der Richtlinie 2007/14/EG der Kommission vom 8. 
   2007 mit Durchführungsbestimmungen zu bestimmten Vorschriften der Richtlinie 2004/109/EG
   zur Harmonisierung der Transparenzanforderungen in Bezug auf Informationen über
   Emittenten, deren Wertpapiere zum Handel an einem geregelten Markt zugelassen sind
+jurabk: TranspRLDV
 layout: default
+origslug: transprldv
 slug: transprldv
 
 ---

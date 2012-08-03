@@ -1,6 +1,8 @@
 ---
 Title: Wahlordnung Schwerbehindertenvertretungen
+jurabk: SchwbWO
 layout: default
+origslug: schwbwo
 slug: schwbwo
 
 ---

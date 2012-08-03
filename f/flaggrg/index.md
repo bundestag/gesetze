@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe
+jurabk: FlaggRG
 layout: default
+origslug: flaggrg
 slug: flaggrg
 
 ---

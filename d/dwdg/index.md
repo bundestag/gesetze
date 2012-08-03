@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Deutschen Wetterdienst
+jurabk: DWDG
 layout: default
+origslug: dwdg
 slug: dwdg
 
 ---

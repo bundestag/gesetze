@@ -1,6 +1,8 @@
 ---
 Title: Eisenbahn-Bau- und Betriebsordnung
+jurabk: EBO
 layout: default
+origslug: ebo
 slug: ebo
 
 ---

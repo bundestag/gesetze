@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zur Gründung einer europäischen Organisation für die Nutzung
   von meteorologischen Satelliten ("EUMETSAT")
+jurabk: EUMETSATÜbk
 layout: default
-slug: eumetsat_bk
+origslug: eumetsat_bk
+slug: eumetsatuebk
 
 ---
 

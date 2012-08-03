@@ -1,6 +1,8 @@
 ---
 Title: Protokoll zur Änderung des Abkommens über die internationale Zivilluftfahrt
+jurabk: IntZLuftAbkProt
 layout: default
+origslug: intzluftabkprot
 slug: intzluftabkprot
 
 ---

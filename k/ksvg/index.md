@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Sozialversicherung der selbständigen Künstler und Publizisten
+jurabk: KSVG
 layout: default
+origslug: ksvg
 slug: ksvg
 
 ---

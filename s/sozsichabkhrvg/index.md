@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 24. November 1997 zwischen der Bundesrepublik Deutschland
   und der Republik Kroatien über Soziale Sicherheit
+jurabk: SozSichAbkHRVG
 layout: default
+origslug: sozsichabkhrvg
 slug: sozsichabkhrvg
 
 ---

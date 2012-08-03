@@ -1,6 +1,8 @@
 ---
 Title: Erste Wassersicherstellungsverordnung
+jurabk: WasSV 1
 layout: default
+origslug: wassv_1
 slug: wassv_1
 
 ---

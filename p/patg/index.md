@@ -1,6 +1,8 @@
 ---
 Title: Patentgesetz
+jurabk: PatG
 layout: default
+origslug: patg
 slug: patg
 
 ---

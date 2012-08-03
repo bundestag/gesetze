@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung in der Betonbauteil- und Terrazzoherstellung
+jurabk: BetTerAusbV
 layout: default
+origslug: betterausbv
 slug: betterausbv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Übernahme der Grundsätze in Immunitätsangelegenheiten
   von Mitgliedern des Deutschen Bundestages
+jurabk: BTGO1980Anl6Bek 1995
 layout: default
+origslug: btgo1980anl6bek_1995
 slug: btgo1980anl6bek_1995
 
 ---

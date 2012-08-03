@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Immobilienfachwirt/Geprüfte
   Immobilienfachwirtin
+jurabk: ImmoFachwPrV
 layout: default
+origslug: immofachwprv
 slug: immofachwprv
 
 ---

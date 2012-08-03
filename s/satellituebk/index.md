@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Verbreitung der durch Satelliten übertragenen programmtragenden
   Signale
+jurabk: SatellitÜbk
 layout: default
-slug: satellit_bk
+origslug: satellit_bk
+slug: satellituebk
 
 ---
 

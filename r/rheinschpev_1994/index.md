@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung
+jurabk: RheinSchPEV 1994
 layout: default
+origslug: rheinschpev_1994
 slug: rheinschpev_1994
 
 ---

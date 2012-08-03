@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende
   nach Herstellung der Einheit Deutschlands
+jurabk: ZDVÜV
 layout: default
-slug: zdv_v
+origslug: zdv_v
+slug: zdvuev
 
 ---
 

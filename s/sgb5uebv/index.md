@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach
   dem Fünften Buch Sozialgesetzbuch auf das Bundesversicherungsamt
+jurabk: SGB5ÜbV
 layout: default
-slug: sgb5_bv
+origslug: sgb5_bv
+slug: sgb5uebv
 
 ---
 

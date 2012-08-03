@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Geigenbauer/zur Geigenbauerin
+jurabk: GeigenbAusbV
 layout: default
+origslug: geigenbausbv
 slug: geigenbausbv
 
 ---

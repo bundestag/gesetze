@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 3. September 2008 zwischen der Bundesrepublik Deutschland
   und dem Königreich Dänemark über eine Feste Fehmarnbeltquerung
+jurabk: FehmarnbeltqVtrG
 layout: default
+origslug: fehmarnbeltqvtrg
 slug: fehmarnbeltqvtrg
 
 ---

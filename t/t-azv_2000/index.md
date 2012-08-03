@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen
   Telekom AG
+jurabk: T-AZV 2000
 layout: default
+origslug: t-azv_2000
 slug: t-azv_2000
 
 ---

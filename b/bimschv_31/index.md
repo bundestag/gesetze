@@ -2,7 +2,9 @@
 Title: 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung
   zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung
   organischer Lösemittel in bestimmten Anlagen)
+jurabk: BImSchV 31
 layout: default
+origslug: bimschv_31
 slug: bimschv_31
 
 ---

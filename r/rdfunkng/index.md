@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Neuordnung der Rundfunkanstalten des Bundesrechts und des RIAS
   Berlin
+jurabk: RdFunkNG
 layout: default
+origslug: rdfunkng
 slug: rdfunkng
 
 ---

@@ -2,7 +2,9 @@
 Title: Hundertdreiundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
   Düsseldorf)
+jurabk: LuftVODV 163
 layout: default
+origslug: luftvodv_163
 slug: luftvodv_163
 
 ---

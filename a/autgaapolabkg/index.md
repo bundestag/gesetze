@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland
   und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen
   für den neuen Grenzübergang im Raum Görlitz und Zgorzelec
+jurabk: AutGAAPolAbkG
 layout: default
+origslug: autgaapolabkg
 slug: autgaapolabkg
 
 ---

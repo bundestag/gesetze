@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Mitwirkung der Bewohnerinnen und Bewohner in Angelegenheiten
   des Heimbetriebes
+jurabk: HeimMitwirkungsV
 layout: default
+origslug: heimmitwirkungsv
 slug: heimmitwirkungsv
 
 ---

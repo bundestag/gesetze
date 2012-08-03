@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung der Arbeitszeit der den Gesellschaften des Deutsche
   Bahn Konzerns zugewiesenen Beamtinnen und Beamten des Bundeseisenbahnvermögens
+jurabk: EArbzV 2006
 layout: default
+origslug: earbzv_2006
 slug: earbzv_2006
 
 ---

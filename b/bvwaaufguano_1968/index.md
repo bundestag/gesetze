@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
+jurabk: BVwAAufgUAnO 1968
 layout: default
+origslug: bvwaaufguano_1968
 slug: bvwaaufguano_1968
 
 ---

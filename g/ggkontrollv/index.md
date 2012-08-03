@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und
   in den Unternehmen
+jurabk: GGKontrollV
 layout: default
+origslug: ggkontrollv
 slug: ggkontrollv
 
 ---

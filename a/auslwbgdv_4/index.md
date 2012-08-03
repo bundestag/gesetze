@@ -1,7 +1,9 @@
 ---
 Title: Vierte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
   (Frankreich)
+jurabk: AuslWBGDV 4
 layout: default
+origslug: auslwbgdv_4
 slug: auslwbgdv_4
 
 ---

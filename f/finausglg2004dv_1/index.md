@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr
   2004
+jurabk: FinAusglG2004DV 1
 layout: default
+origslug: finausglg2004dv_1
 slug: finausglg2004dv_1
 
 ---

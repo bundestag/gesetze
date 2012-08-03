@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte
   des Faschismus sowie für deren Hinterbliebene
+jurabk: FEhrPensAnO
 layout: default
+origslug: fehrpensano
 slug: fehrpensano
 
 ---

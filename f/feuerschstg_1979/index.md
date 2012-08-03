@@ -1,6 +1,8 @@
 ---
 Title: Feuerschutzsteuergesetz
+jurabk: FeuerschStG 1979
 layout: default
+origslug: feuerschstg_1979
 slug: feuerschstg_1979
 
 ---

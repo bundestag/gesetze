@@ -1,7 +1,9 @@
 ---
 Title: Bundesgesetz über individuelle Förderung der Ausbildung
+jurabk: BAföG
 layout: default
-slug: baf_g
+origslug: baf_g
+slug: bafoeg
 
 ---
 

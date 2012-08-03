@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs.
   3 Bundesausbildungsförderungsgesetz
+jurabk: BezeichnungsV
 layout: default
+origslug: bezeichnungsv
 slug: bezeichnungsv
 
 ---

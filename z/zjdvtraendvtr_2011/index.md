@@ -5,8 +5,10 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bund
   des Vertrages vom 27. Januar 2003, in der Fassung des Änderungsvertrages vom 3.
   März 2008 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in
   Deutschland – Körperschaft des öffentlichen Rechts –
+jurabk: ZJDVtrÄndVtr 2011
 layout: default
-slug: zjdvtr_ndvtr_2011
+origslug: zjdvtr_ndvtr_2011
+slug: zjdvtraendvtr_2011
 
 ---
 

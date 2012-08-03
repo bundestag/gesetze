@@ -1,6 +1,8 @@
 ---
 Title: Seeschiffahrtsstraßen-Ordnung
+jurabk: SeeSchStrO 1971
 layout: default
+origslug: seeschstro_1971
 slug: seeschstro_1971
 
 ---

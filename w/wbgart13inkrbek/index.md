@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über das Inkrafttreten des Artikels 13 des Gesetzes zur Beschleunigung
   des Wirtschaftswachstums
+jurabk: WBGArt13InkrBek
 layout: default
+origslug: wbgart13inkrbek
 slug: wbgart13inkrbek
 
 ---

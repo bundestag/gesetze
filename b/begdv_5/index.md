@@ -1,6 +1,8 @@
 ---
 Title: Fünfte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+jurabk: BEGDV 5
 layout: default
+origslug: begdv_5
 slug: begdv_5
 
 ---

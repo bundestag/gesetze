@@ -1,6 +1,8 @@
 ---
 Title: Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 30
 layout: default
+origslug: bimschv_30
 slug: bimschv_30
 
 ---

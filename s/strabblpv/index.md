@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen
+jurabk: StrabBlPV
 layout: default
+origslug: strabblpv
 slug: strabblpv
 
 ---

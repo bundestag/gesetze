@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Protokoll vom 27. Juni 1989 zum Madrider Abkommen über die internationale
   Registrierung von Marken
+jurabk: MAbkMadridProtG
 layout: default
+origslug: mabkmadridprotg
 slug: mabkmadridprotg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln
+jurabk: WRMG
 layout: default
+origslug: wrmg
 slug: wrmg
 
 ---

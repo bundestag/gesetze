@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur
   Kauffrau für Spedition und Logistikdienstleistung
+jurabk: SpedKfmAusbV 2004
 layout: default
+origslug: spedkfmausbv_2004
 slug: spedkfmausbv_2004
 
 ---

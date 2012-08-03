@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Haftung des Reichs für seine Beamten
+jurabk: RHBG
 layout: default
+origslug: rhbg
 slug: rhbg
 
 ---

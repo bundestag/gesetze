@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Koblenz
+jurabk: OFDKOAufgÜbertrV
 layout: default
-slug: ofdkoaufg_bertrv
+origslug: ofdkoaufg_bertrv
+slug: ofdkoaufguebertrv
 
 ---
 

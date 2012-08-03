@@ -1,7 +1,9 @@
 ---
 Title: Bundesärzteordnung
+jurabk: BÄO
 layout: default
-slug: b_o
+origslug: b_o
+slug: baeo
 
 ---
 

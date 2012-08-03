@@ -1,6 +1,8 @@
 ---
 Title: Tierseuchengesetz
+jurabk: ViehSeuchG
 layout: default
+origslug: viehseuchg
 slug: viehseuchg
 
 ---

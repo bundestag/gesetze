@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über
   Erleichterungen der Grenzabfertigung
+jurabk: GrAbfErlPolAbk
 layout: default
+origslug: grabferlpolabk
 slug: grabferlpolabk
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Stromsteuergesetzes
+jurabk: StromStV
 layout: default
+origslug: stromstv
 slug: stromstv
 
 ---

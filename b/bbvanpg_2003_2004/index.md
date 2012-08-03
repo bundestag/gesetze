@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
   2003/2004 sowie zur Änderung dienstrechtlicher Vorschriften
+jurabk: BBVAnpG 2003/2004
 layout: default
+origslug: bbvanpg_2003_2004
 slug: bbvanpg_2003_2004
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Ausführung der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut
   bei bewaffneten Konflikten
+jurabk: KultgSchKonvAG
 layout: default
+origslug: kultgschkonvag
 slug: kultgschkonvag
 
 ---

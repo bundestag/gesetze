@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Übertragung der Ermächtigung zum Erlaß von Strompolizeiverordnungen
   nach dem Bundeswasserstraßengesetz
+jurabk: WaStrGPolVErmV
 layout: default
+origslug: wastrgpolvermv
 slug: wastrgpolvermv
 
 ---

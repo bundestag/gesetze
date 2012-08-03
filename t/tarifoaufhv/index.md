@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen
+jurabk: TarifOAufhV
 layout: default
+origslug: tarifoaufhv
 slug: tarifoaufhv
 
 ---

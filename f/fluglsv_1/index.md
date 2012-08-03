@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm
+jurabk: FlugLSV 1
 layout: default
+origslug: fluglsv_1
 slug: fluglsv_1
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Europäisches Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen
   über das Sorgerecht für Kinder und die Wiederherstellung des Sorgeverhältnisses
+jurabk: EuSorgeRÜbk
 layout: default
-slug: eusorger_bk
+origslug: eusorger_bk
+slug: eusorgeruebk
 
 ---
 

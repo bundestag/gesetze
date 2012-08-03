@@ -1,6 +1,8 @@
 ---
 Title: Zweite Preisfreigabeverordnung (PR Nr. 1/82)
+jurabk: PreisV 1/82
 layout: default
+origslug: preisv_1_82
 slug: preisv_1_82
 
 ---

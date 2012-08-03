@@ -1,6 +1,8 @@
 ---
 Title: Signale und Zeichen (Anlage 2 zur Luftverkehrs-Ordnung (zu § 21 LuftVO))
+jurabk: LuftVOAnl 2
 layout: default
+origslug: luftvoanl_2
 slug: luftvoanl_2
 
 ---

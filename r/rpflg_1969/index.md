@@ -1,6 +1,8 @@
 ---
 Title: Rechtspflegergesetz
+jurabk: RPflG 1969
 layout: default
+origslug: rpflg_1969
 slug: rpflg_1969
 
 ---

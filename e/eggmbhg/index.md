@@ -1,7 +1,9 @@
 ---
 Title: Einführungsgesetz zum Gesetz betreffend die Gesellschaften mit beschränkter
   Haftung
+jurabk: EGGmbHG
 layout: default
+origslug: eggmbhg
 slug: eggmbhg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Rahmenübereinkommen zum Schutz nationaler Minderheiten
+jurabk: MindSchRÜbk
 layout: default
-slug: mindschr_bk
+origslug: mindschr_bk
+slug: mindschruebk
 
 ---
 

@@ -2,7 +2,9 @@
 Title: Zweihundertneunundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
   Verkehrslandeplatz Zweibrücken)
+jurabk: LuftVODV 229
 layout: default
+origslug: luftvodv_229
 slug: luftvodv_229
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung zur Bestimmung von weiteren grundlegenden Anforderungen an Geräte
   sowie zur Bestimmung von Äquivalenzen nationaler Schnittstellen und Geräteklassenkennungen
   auf dem Gebiet der Funkanlagen und Telekommunikationsendeinrichtungen
+jurabk: GASV
 layout: default
+origslug: gasv
 slug: gasv
 
 ---

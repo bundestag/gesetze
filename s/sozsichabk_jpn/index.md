@@ -1,6 +1,8 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und Japan über Soziale Sicherheit
+jurabk: SozSichAbk JPN
 layout: default
+origslug: sozsichabk_jpn
 slug: sozsichabk_jpn
 
 ---

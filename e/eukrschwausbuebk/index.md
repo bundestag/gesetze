@@ -1,8 +1,10 @@
 ---
 Title: Europäisches Übereinkommen über die theoretische und praktische Ausbildung
   von Krankenschwestern und Krankenpflegern
+jurabk: EuKrSchwAusbÜbk
 layout: default
-slug: eukrschwausb_bk
+origslug: eukrschwausb_bk
+slug: eukrschwausbuebk
 
 ---
 

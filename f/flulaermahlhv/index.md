@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Ahlhorn
+jurabk: FluLärmAhlhV
 layout: default
-slug: flul_rmahlhv
+origslug: flul_rmahlhv
+slug: flulaermahlhv
 
 ---
 

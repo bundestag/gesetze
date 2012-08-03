@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Berufspädagoge/Geprüfte Berufspädagogin
+jurabk: BPädFortbV
 layout: default
-slug: bp_dfortbv
+origslug: bp_dfortbv
+slug: bpaedfortbv
 
 ---
 

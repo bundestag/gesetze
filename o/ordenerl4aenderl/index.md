@@ -1,8 +1,10 @@
 ---
 Title: Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung und
   Verleihung der Goethe-Medaille
+jurabk: OrdenErl4ÄndErl
 layout: default
-slug: ordenerl4_nderl
+origslug: ordenerl4_nderl
+slug: ordenerl4aenderl
 
 ---
 

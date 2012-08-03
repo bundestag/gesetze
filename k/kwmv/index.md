@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Meldepflichten für bestimmte Kriegswaffen
+jurabk: KWMV
 layout: default
+origslug: kwmv
 slug: kwmv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Approbationsordnung für Zahnärzte
+jurabk: ZÄPrO
 layout: default
-slug: z_pro
+origslug: z_pro
+slug: zaepro
 
 ---
 

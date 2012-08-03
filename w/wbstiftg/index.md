@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung einer Bundeskanzler-Willy-Brandt-Stiftung
+jurabk: WBStiftG
 layout: default
+origslug: wbstiftg
 slug: wbstiftg
 
 ---

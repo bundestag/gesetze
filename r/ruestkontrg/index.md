@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 14. Dezember 1957 über Rüstungskontrollmaßnahmen
   der Westeuropäischen Union
+jurabk: RüstKontrG
 layout: default
-slug: r_stkontrg
+origslug: r_stkontrg
+slug: ruestkontrg
 
 ---
 

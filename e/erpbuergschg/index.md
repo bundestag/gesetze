@@ -1,8 +1,10 @@
 ---
 Title: Drittes Gesetz über die Übernahme von Sicherheitsleistungen und Gewährleistungen
   zur Förderung der deutschen Wirtschaft
+jurabk: ERPBürgschG
 layout: default
-slug: erpb_rgschg
+origslug: erpb_rgschg
+slug: erpbuergschg
 
 ---
 

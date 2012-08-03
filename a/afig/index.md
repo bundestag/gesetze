@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln
   aus den Europäischen Fonds für Landwirtschaft und Fischerei
+jurabk: AFIG
 layout: default
+origslug: afig
 slug: afig
 
 ---

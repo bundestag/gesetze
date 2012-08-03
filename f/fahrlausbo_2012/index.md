@@ -1,6 +1,8 @@
 ---
 Title: Fahrlehrer-Ausbildungsordnung
+jurabk: FahrlAusbO 2012
 layout: default
+origslug: fahrlausbo_2012
 slug: fahrlausbo_2012
 
 ---

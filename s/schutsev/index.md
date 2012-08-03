@@ -4,7 +4,9 @@ Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen
 zu Sicherheitszwecken betrieben werden
 ---
 Title: ''
+jurabk: SchuTSEV
 layout: default
+origslug: schutsev
 slug: schutsev
 
 ---

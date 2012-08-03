@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung mit der Gesamtbezeichnung "Naturpark Schaalsee"
+jurabk: NatPSchaalseeV
 layout: default
+origslug: natpschaalseev
 slug: natpschaalseev
 
 ---

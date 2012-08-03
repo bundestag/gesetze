@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im  Zahntechniker-Handwerk
+jurabk: ZahntechMstrV
 layout: default
+origslug: zahntechmstrv
 slug: zahntechmstrv
 
 ---

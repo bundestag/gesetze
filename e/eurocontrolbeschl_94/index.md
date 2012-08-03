@@ -1,6 +1,8 @@
 ---
 Title: Eurocontrol
+jurabk: EUROCONTROLBeschl 94
 layout: default
+origslug: eurocontrolbeschl_94
 slug: eurocontrolbeschl_94
 
 ---

@@ -3,7 +3,9 @@ Verordnung über Anforderungen an eine nachhaltige Herstellung von
 Biokraftstoffen
 ---
 Title: ''
+jurabk: Biokraft-NachV
 layout: default
+origslug: biokraft-nachv
 slug: biokraft-nachv
 
 ---

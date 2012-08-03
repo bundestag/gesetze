@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Chile
+jurabk: WZCHLBek
 layout: default
+origslug: wzchlbek
 slug: wzchlbek
 
 ---

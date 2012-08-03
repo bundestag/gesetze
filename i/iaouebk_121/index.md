@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen Nr. 121 (der internationalen Arbeitsorganisation) über Leistungen
   bei Arbeitsunfällen und Berufskrankheiten
+jurabk: IAOÜbk 121
 layout: default
-slug: iao_bk_121
+origslug: iao_bk_121
+slug: iaouebk_121
 
 ---
 

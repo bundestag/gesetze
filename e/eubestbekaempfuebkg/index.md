@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Übereinkommen vom 26. Mai 1997 über die Bekämpfung der Bestechung,
   an der Beamte der Europäischen Gemeinschaften oder der Mitgliedstaaten der Europäischen
   Union beteiligt sind
+jurabk: EUBestBekämpfÜbkG
 layout: default
-slug: eubestbek_mpf_bkg
+origslug: eubestbek_mpf_bkg
+slug: eubestbekaempfuebkg
 
 ---
 

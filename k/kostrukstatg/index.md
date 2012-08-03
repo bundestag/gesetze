@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Kostenstrukturstatistik
+jurabk: KoStrukStatG
 layout: default
+origslug: kostrukstatg
 slug: kostrukstatg
 
 ---

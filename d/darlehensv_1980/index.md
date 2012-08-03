@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz
   geleisteten Darlehen
+jurabk: DarlehensV 1980
 layout: default
+origslug: darlehensv_1980
 slug: darlehensv_1980
 
 ---

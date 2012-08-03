@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerischen
   Straßenfahrzeugen im grenzüberschreitenden Verkehr
+jurabk: KraftStCHEV
 layout: default
+origslug: kraftstchev
 slug: kraftstchev
 
 ---

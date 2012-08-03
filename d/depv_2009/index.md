@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Deponien und Langzeitlager
+jurabk: DepV 2009
 layout: default
+origslug: depv_2009
 slug: depv_2009
 
 ---

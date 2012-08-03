@@ -3,7 +3,9 @@ Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der  Berufsfachschu
   - Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in
   Kaiserslautern mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung
   in  Ausbildungsberufen
+jurabk: GlPrZKaiserslauternV
 layout: default
+origslug: glprzkaiserslauternv
 slug: glprzkaiserslauternv
 
 ---

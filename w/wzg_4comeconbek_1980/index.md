@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4COMECONBek 1980
 layout: default
+origslug: wzg_4comeconbek_1980
 slug: wzg_4comeconbek_1980
 
 ---

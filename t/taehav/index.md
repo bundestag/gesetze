@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über tierärztliche Hausapotheken
+jurabk: TÄHAV
 layout: default
-slug: t_hav
+origslug: t_hav
+slug: taehav
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Errichtung eines Fonds "Kreditabwicklungsfonds" (Anlage I Kap.
   IV Sachgebiet B Abschn. II Nr. 47 EinigVtr)
+jurabk: KrAbwFG
 layout: default
+origslug: krabwfg
 slug: krabwfg
 
 ---

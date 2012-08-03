@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen-
   und Anlagenführerin
+jurabk: MaschFüAusbV
 layout: default
-slug: maschf_ausbv
+origslug: maschf_ausbv
+slug: maschfueausbv
 
 ---
 

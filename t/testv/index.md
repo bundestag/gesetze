@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Testmaßnahmen für die Einführung der elektronischen Gesundheitskarte
+jurabk: TestV
 layout: default
+origslug: testv
 slug: testv
 
 ---

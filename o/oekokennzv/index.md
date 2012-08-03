@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens
+jurabk: ÖkoKennzV
 layout: default
-slug: _kokennzv
+origslug: _kokennzv
+slug: oekokennzv
 
 ---
 

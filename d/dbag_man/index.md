@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 2. März 2009 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Insel Man zur Vermeidung der Doppelbesteuerung
   von im internationalen Verkehr tätigen Schifffahrtsunternehmen
+jurabk: DBAG MAN
 layout: default
+origslug: dbag_man
 slug: dbag_man
 
 ---

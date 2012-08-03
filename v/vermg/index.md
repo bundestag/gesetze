@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung offener Vermögensfragen
+jurabk: VermG
 layout: default
+origslug: vermg
 slug: vermg
 
 ---

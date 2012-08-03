@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
   für das Jahr 2012
+jurabk: BSV 2012
 layout: default
+origslug: bsv_2012
 slug: bsv_2012
 
 ---

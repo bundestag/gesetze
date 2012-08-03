@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher
   Schutzausrüstungen bei der Arbeit
+jurabk: PSA-BV
 layout: default
+origslug: psa-bv
 slug: psa-bv
 
 ---

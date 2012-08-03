@@ -2,7 +2,9 @@
 Title: Gesetz über die Erstellung, Billigung und Veröffentlichung des Prospekts, der
   beim öffentlichen Angebot von Wertpapieren oder bei der Zulassung von Wertpapieren
   zum Handel an einem organisierten Markt zu veröffentlichen ist
+jurabk: WpPG
 layout: default
+origslug: wppg
 slug: wppg
 
 ---

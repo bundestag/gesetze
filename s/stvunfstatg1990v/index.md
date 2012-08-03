@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit Sachschaden
   im Sinne des Straßenverkehrsunfallstatistikgesetzes
+jurabk: StVUnfStatG1990V
 layout: default
+origslug: stvunfstatg1990v
 slug: stvunfstatg1990v
 
 ---

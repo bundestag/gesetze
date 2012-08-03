@@ -2,7 +2,9 @@
 Title: Zweihundertdreiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
   und vom Regionalflughafen Magdeburg/Cochstedt)
+jurabk: LuftVODV 243
 layout: default
+origslug: luftvodv_243
 slug: luftvodv_243
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Aufbau und die Führung eines Statistikregisters
+jurabk: StatRegG
 layout: default
+origslug: statregg
 slug: statregg
 
 ---

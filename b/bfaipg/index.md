@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Personal der Bundesagentur für Außenwirtschaft
+jurabk: BfAIPG
 layout: default
+origslug: bfaipg
 slug: bfaipg
 
 ---

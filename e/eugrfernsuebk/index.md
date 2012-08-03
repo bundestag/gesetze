@@ -1,7 +1,9 @@
 ---
 Title: Europäisches Übereinkommen über das grenzüberschreitende Fernsehen
+jurabk: EUgrFernsÜbk
 layout: default
-slug: eugrferns_bk
+origslug: eugrferns_bk
+slug: eugrfernsuebk
 
 ---
 

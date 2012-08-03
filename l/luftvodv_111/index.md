@@ -2,7 +2,9 @@
 Title: Einhundertelfte Durchführungsverordnung zur Luftverkehrsordnung (Festlegung
   von Flugverfahren für An- und Abflügen nach Instrumentenflugregeln zum und vom Flughafen
   Erfurt)
+jurabk: LuftVODV 111
 layout: default
+origslug: luftvodv_111
 slug: luftvodv_111
 
 ---

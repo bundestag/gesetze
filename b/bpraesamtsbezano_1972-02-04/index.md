@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+jurabk: BPräsAmtsbezAnO 1972-02-04
 layout: default
-slug: bpr_samtsbezano_1972-02-04
+origslug: bpr_samtsbezano_1972-02-04
+slug: bpraesamtsbezano_1972-02-04
 
 ---
 

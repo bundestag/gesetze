@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einreichung von Monatsausweisen nach dem Gesetz über das Kreditwesen
+jurabk: MonAwV 1999
 layout: default
+origslug: monawv_1999
 slug: monawv_1999
 
 ---

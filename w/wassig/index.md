@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft
   für Zwecke der Verteidigung
+jurabk: WasSiG
 layout: default
+origslug: wassig
 slug: wassig
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berechnung des Kapitalwerts bei Abfindung von Leistungen
   aus der gesetzlichen Unfallversicherung
+jurabk: UVKapWertV
 layout: default
+origslug: uvkapwertv
 slug: uvkapwertv
 
 ---

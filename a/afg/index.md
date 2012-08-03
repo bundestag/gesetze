@@ -1,6 +1,8 @@
 ---
 Title: Arbeitsförderungsgesetz
+jurabk: AFG
 layout: default
+origslug: afg
 slug: afg
 
 ---

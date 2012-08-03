@@ -3,7 +3,9 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der 
   von Beihilfen sowie für den Erlass von Widerspruchsbescheiden und die Vertretung
   des Dienstherrn bei Klagen aus dem Beamtenverhältnis für Versorgungsempfänger des
   Bundes
+jurabk: ZustAOBeih
 layout: default
+origslug: zustaobeih
 slug: zustaobeih
 
 ---

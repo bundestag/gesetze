@@ -1,6 +1,8 @@
 ---
 Title: Wahlordnung zum Bundespersonalvertretungsgesetz
+jurabk: BPersVWO
 layout: default
+origslug: bpersvwo
 slug: bpersvwo
 
 ---

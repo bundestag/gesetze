@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen,
   Beamten, Richterinnen und Richter des Bundes
+jurabk: BPräsErnAnO 2004
 layout: default
-slug: bpr_sernano_2004
+origslug: bpr_sernano_2004
+slug: bpraesernano_2004
 
 ---
 

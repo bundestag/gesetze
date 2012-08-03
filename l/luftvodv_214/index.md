@@ -2,7 +2,9 @@
 Title: Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Niederrhein)
+jurabk: LuftVODV 214
 layout: default
+origslug: luftvodv_214
 slug: luftvodv_214
 
 ---

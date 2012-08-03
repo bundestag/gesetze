@@ -1,6 +1,8 @@
 ---
 Title: Telemediengesetz
+jurabk: TMG
 layout: default
+origslug: tmg
 slug: tmg
 
 ---

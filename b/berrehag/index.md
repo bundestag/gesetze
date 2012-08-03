@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Ausgleich beruflicher Benachteiligungen für Opfer politischer
   Verfolgung im Beitrittsgebiet
+jurabk: BerRehaG
 layout: default
+origslug: berrehag
 slug: berrehag
 
 ---

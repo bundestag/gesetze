@@ -3,8 +3,10 @@ Title: Gesetz zur Ausführung des Europäischen Übereinkommens vom 24. November
   über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland und des Europäischen
   Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen
   in Verwaltungssachen im Ausland
+jurabk: EuAuslVwZ/AuskÜbkAG
 layout: default
-slug: euauslvwz_ausk_bkag
+origslug: euauslvwz_ausk_bkag
+slug: euauslvwz_auskuebkag
 
 ---
 

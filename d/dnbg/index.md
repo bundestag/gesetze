@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Deutsche Nationalbibliothek
+jurabk: DNBG
 layout: default
+origslug: dnbg
 slug: dnbg
 
 ---

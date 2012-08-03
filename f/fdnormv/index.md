@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anwendung von Normen für voll digitale Fernsehdienste
+jurabk: FDNormV
 layout: default
+origslug: fdnormv
 slug: fdnormv
 
 ---

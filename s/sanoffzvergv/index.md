@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft von
   Sanitätsoffizieren in Bundeswehrkrankenhäusern
+jurabk: SanOffzVergV
 layout: default
+origslug: sanoffzvergv
 slug: sanoffzvergv
 
 ---

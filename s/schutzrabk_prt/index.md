@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik
   auf dem Gebiet des gewerblichen Rechtsschutzes
+jurabk: SchutzRAbk PRT
 layout: default
+origslug: schutzrabk_prt
 slug: schutzrabk_prt
 
 ---

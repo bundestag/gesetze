@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer nach dem Drittelbeteiligungsgesetz
+jurabk: WODrittelbG
 layout: default
+origslug: wodrittelbg
 slug: wodrittelbg
 
 ---

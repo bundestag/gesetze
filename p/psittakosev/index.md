@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Psittakose und Ornithose
+jurabk: PsittakoseV
 layout: default
+origslug: psittakosev
 slug: psittakosev
 
 ---

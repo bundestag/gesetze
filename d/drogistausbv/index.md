@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Drogist/zur Drogistin
+jurabk: DrogistAusbV
 layout: default
+origslug: drogistausbv
 slug: drogistausbv
 
 ---

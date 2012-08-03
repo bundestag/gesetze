@@ -2,8 +2,10 @@
 Title: Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute,
   Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner
   Altbanken
+jurabk: UmstRückstG
 layout: default
-slug: umstr_ckstg
+origslug: umstr_ckstg
+slug: umstrueckstg
 
 ---
 

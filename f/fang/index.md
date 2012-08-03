@@ -2,7 +2,9 @@
 Title: Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung
   der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes
   und des Angestelltenversicherungs-Neuregelungsgesetzes
+jurabk: FANG
 layout: default
+origslug: fang
 slug: fang
 
 ---

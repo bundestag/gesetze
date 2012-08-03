@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Geilenkirchen
+jurabk: FluLärmGeilenkV
 layout: default
-slug: flul_rmgeilenkv
+origslug: flul_rmgeilenkv
+slug: flulaermgeilenkv
 
 ---
 

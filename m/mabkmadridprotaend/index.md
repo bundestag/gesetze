@@ -1,8 +1,10 @@
 ---
 Title: Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken,
   angenommen in Madrid am 27. Juni 1989
+jurabk: MAbkMadridProtÄnd
 layout: default
-slug: mabkmadridprot_nd
+origslug: mabkmadridprot_nd
+slug: mabkmadridprotaend
 
 ---
 

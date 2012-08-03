@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Eingetragene Lebenspartnerschaft
+jurabk: LPartG
 layout: default
+origslug: lpartg
 slug: lpartg
 
 ---

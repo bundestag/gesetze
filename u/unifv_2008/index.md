@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
+jurabk: UnifV 2008
 layout: default
+origslug: unifv_2008
 slug: unifv_2008
 
 ---

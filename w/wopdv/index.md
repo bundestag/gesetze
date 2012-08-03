@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Wohnungsbau-Prämiengesetzes
+jurabk: WoPDV
 layout: default
+origslug: wopdv
 slug: wopdv
 
 ---

@@ -3,8 +3,10 @@ Title: Gesetz zu dem Vertrag vom 2. Februar 2000 zwischen der Bundesrepublik Deu
   und der Tschechischen Republik über die Ergänzung des Europäischen Übereinkommens
   über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner
   Anwendung
+jurabk: EuRHiÜbkErgVtrCZEG
 layout: default
-slug: eurhi_bkergvtrczeg
+origslug: eurhi_bkergvtrczeg
+slug: eurhiuebkergvtrczeg
 
 ---
 

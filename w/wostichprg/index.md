@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiet des
   Wohnungswesens
+jurabk: WoStichPrG
 layout: default
+origslug: wostichprg
 slug: wostichprg
 
 ---

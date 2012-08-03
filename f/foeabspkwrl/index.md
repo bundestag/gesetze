@@ -1,7 +1,9 @@
 ---
 Title: Richtlinie zur Förderung des Absatzes von Personenkraftwagen
+jurabk: FöAbsPkWRL
 layout: default
-slug: f_abspkwrl
+origslug: f_abspkwrl
+slug: foeabspkwrl
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann
   für Außenwirtschaft/Geprüfte Fachkauffrau für Außenwirtschaft
+jurabk: FachkAußPrV
 layout: default
-slug: fachkau_prv
+origslug: fachkau_prv
+slug: fachkaussprv
 
 ---
 

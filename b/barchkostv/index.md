@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Kosten beim Bundesarchiv
+jurabk: BArchKostV
 layout: default
+origslug: barchkostv
 slug: barchkostv
 
 ---

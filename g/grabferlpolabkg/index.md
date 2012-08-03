@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland
   und der Republik Polen über Erleichterungen der Grenzabfertigung
+jurabk: GrAbfErlPolAbkG
 layout: default
+origslug: grabferlpolabkg
 slug: grabferlpolabkg
 
 ---

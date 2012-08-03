@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Estland zur
   Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom
   Vermögen
+jurabk: DBA EST
 layout: default
+origslug: dba_est
 slug: dba_est
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Maßnahmen auf dem Gebiet des Grundbuchwesens
+jurabk: GBMaßnG
 layout: default
-slug: gbma_ng
+origslug: gbma_ng
+slug: gbmassng
 
 ---
 

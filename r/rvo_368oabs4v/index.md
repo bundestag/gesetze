@@ -2,7 +2,9 @@
 Title: Verordnung über die Amtsdauer, Amtsführung und Entschädigung der Mitglieder
   des Gemeinsamen Bundesausschusses und der Landesausschüsse der Ärzte (Zahnärzte)
   und Krankenkassen
+jurabk: RVO§368oAbs4V
 layout: default
+origslug: rvo_368oabs4v
 slug: rvo_368oabs4v
 
 ---

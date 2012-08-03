@@ -1,7 +1,9 @@
 ---
 Title: Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen (Anlage
   1 zu der Verordnung zur Einführung der Lotsenordnung für den Oberrhein)
+jurabk: RheinLotsO
 layout: default
+origslug: rheinlotso
 slug: rheinlotso
 
 ---

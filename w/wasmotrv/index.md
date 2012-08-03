@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen
+jurabk: WasMotRV
 layout: default
+origslug: wasmotrv
 slug: wasmotrv
 
 ---

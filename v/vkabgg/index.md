@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Rechtsverhältnisse der Abgeordneten der Volkskammer der Deutschen
   Demokratischen Republik
+jurabk: VKAbgG
 layout: default
+origslug: vkabgg
 slug: vkabgg
 
 ---

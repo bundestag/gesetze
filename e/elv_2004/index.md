@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Laufbahnen der Beamtinnen und Beamten beim Bundeseisenbahnvermögen
+jurabk: ELV 2004
 layout: default
+origslug: elv_2004
 slug: elv_2004
 
 ---

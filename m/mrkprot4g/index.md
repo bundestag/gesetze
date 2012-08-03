@@ -3,7 +3,9 @@ Title: Gesetz zu dem Protokoll Nr. 4 vom 16. September 1963 zur Konvention zum S
   der Menschenrechte und Grundfreiheiten, durch das gewisse Rechte und Freiheiten
   gewährleistet werden, die nicht bereits in der Konvention oder im ersten Zusatzprotokoll
   enthalten sind
+jurabk: MRKProt4G
 layout: default
+origslug: mrkprot4g
 slug: mrkprot4g
 
 ---

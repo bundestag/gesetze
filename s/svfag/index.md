@@ -2,7 +2,9 @@
 Title: Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet
   und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland
   sowie über freiwillige Sozialversicherung
+jurabk: SVFAG
 layout: default
+origslug: svfag
 slug: svfag
 
 ---

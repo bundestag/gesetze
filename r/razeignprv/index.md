@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Eignungsprüfung für die Zulassung zur Rechtsanwaltschaft
+jurabk: RAZEignPrV
 layout: default
+origslug: razeignprv
 slug: razeignprv
 
 ---

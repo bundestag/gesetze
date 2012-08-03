@@ -2,7 +2,9 @@
 Title: Hundertfünfundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Hahn)
+jurabk: LuftVODV 145
 layout: default
+origslug: luftvodv_145
 slug: luftvodv_145
 
 ---

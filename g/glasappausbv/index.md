@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin
+jurabk: GlasappAusbV
 layout: default
+origslug: glasappausbv
 slug: glasappausbv
 
 ---

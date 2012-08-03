@@ -4,7 +4,9 @@ Title: Gesetz zu dem Dritten Zusatzprotokoll vom 4. Juni 2004 zum Abkommen vom 1
   zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und
   vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen
   auf steuerlichem Gebiete
+jurabk: GrenzgNLDZusProt3G
 layout: default
+origslug: grenzgnldzusprot3g
 slug: grenzgnldzusprot3g
 
 ---

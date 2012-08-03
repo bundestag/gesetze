@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Verjährungshemmung bei Abgeltungsdarlehen
+jurabk: VerjHemV
 layout: default
+origslug: verjhemv
 slug: verjhemv
 
 ---

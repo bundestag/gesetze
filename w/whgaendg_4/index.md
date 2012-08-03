@@ -1,7 +1,9 @@
 ---
 Title: Viertes Gesetz zur Änderung des Wasserhaushaltsgesetzes
+jurabk: WHGÄndG 4
 layout: default
-slug: whg_ndg_4
+origslug: whg_ndg_4
+slug: whgaendg_4
 
 ---
 

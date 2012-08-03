@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer
   für den Kraftfahrzeugverkehr
+jurabk: KfSachvG
 layout: default
+origslug: kfsachvg
 slug: kfsachvg
 
 ---

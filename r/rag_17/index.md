@@ -2,7 +2,9 @@
 Title: Siebzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
   und der Altersgelder in der Altershilfe für Landwirte
+jurabk: RAG 17
 layout: default
+origslug: rag_17
 slug: rag_17
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Vierundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 54
 layout: default
+origslug: stvzoausnv_54
 slug: stvzoausnv_54
 
 ---

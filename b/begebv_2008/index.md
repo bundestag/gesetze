@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gebühren und Auslagen für Amtshandlungen der Eisenbahnverkehrsverwaltung
   des Bundes
+jurabk: BEGebV 2008
 layout: default
+origslug: begebv_2008
 slug: begebv_2008
 
 ---

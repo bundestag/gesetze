@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Europäische Abfallverzeichnis
+jurabk: AVV
 layout: default
+origslug: avv
 slug: avv
 
 ---

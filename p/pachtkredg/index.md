@@ -1,6 +1,8 @@
 ---
 Title: Pachtkreditgesetz
+jurabk: PachtkredG
 layout: default
+origslug: pachtkredg
 slug: pachtkredg
 
 ---

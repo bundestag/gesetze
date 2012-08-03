@@ -1,7 +1,9 @@
 ---
 Title: Siebte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen
   Zusatzversicherung
+jurabk: HZvV 7
 layout: default
+origslug: hzvv_7
 slug: hzvv_7
 
 ---

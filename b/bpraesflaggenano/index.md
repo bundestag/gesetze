@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Dienstflagge der Seestreitkräfte der
   Bundeswehr
+jurabk: BPräsFlaggenAnO
 layout: default
-slug: bpr_sflaggenano
+origslug: bpr_sflaggenano
+slug: bpraesflaggenano
 
 ---
 

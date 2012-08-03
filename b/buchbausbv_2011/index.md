@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Buchbinder und zur
 Buchbinderin
 ---
 Title: ''
+jurabk: BuchbAusbV 2011
 layout: default
+origslug: buchbausbv_2011
 slug: buchbausbv_2011
 
 ---

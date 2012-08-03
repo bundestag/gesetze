@@ -1,6 +1,8 @@
 ---
 Title: Dreiundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 43
 layout: default
+origslug: stvzoausnv_43
 slug: stvzoausnv_43
 
 ---

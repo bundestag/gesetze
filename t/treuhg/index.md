@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens
+jurabk: TreuhG
 layout: default
+origslug: treuhg
 slug: treuhg
 
 ---

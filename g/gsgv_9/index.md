@@ -1,6 +1,8 @@
 ---
 Title: Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)
+jurabk: GSGV 9
 layout: default
+origslug: gsgv_9
 slug: gsgv_9
 
 ---

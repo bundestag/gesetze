@@ -1,6 +1,8 @@
 ---
 Title: Statistikanpassungsverordnung
+jurabk: StatAV
 layout: default
+origslug: statav
 slug: statav
 
 ---

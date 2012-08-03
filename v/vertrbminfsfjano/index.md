@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis
   im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
+jurabk: VertrBMinFSFJAnO
 layout: default
+origslug: vertrbminfsfjano
 slug: vertrbminfsfjano
 
 ---

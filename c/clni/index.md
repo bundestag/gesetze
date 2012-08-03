@@ -1,6 +1,8 @@
 ---
 Title: Straßburger Übereinkommen über die Beschränkung der Haftung in der Binnenschiffahrt
+jurabk: CLNI
 layout: default
+origslug: clni
 slug: clni
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über eine Wiedereingliederungshilfe im Wohnungsbau für rückkehrende
   Ausländer
+jurabk: AuslWoBauG
 layout: default
+origslug: auslwobaug
 slug: auslwobaug
 
 ---

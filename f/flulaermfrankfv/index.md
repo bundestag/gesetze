@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Frankfurt/Main
+jurabk: FluLärmFrankfV
 layout: default
-slug: flul_rmfrankfv
+origslug: flul_rmfrankfv
+slug: flulaermfrankfv
 
 ---
 

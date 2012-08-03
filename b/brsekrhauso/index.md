@@ -1,6 +1,8 @@
 ---
 Title: Hausordnung für das Sekretariat des Bundesrates
+jurabk: BRSekrHausO
 layout: default
+origslug: brsekrhauso
 slug: brsekrhauso
 
 ---

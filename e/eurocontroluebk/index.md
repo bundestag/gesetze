@@ -1,8 +1,10 @@
 ---
 Title: Internationales Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt
   "EUROCONTROL"
+jurabk: EUROCONTROLÜbk
 layout: default
-slug: eurocontrol_bk
+origslug: eurocontrol_bk
+slug: eurocontroluebk
 
 ---
 

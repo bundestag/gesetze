@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuständigkeit des Luftfahrt-Bundesamtes für die Verfolgung
   und Ahndung von Ordnungswidrigkeiten im Luftsportwesen
+jurabk: LuftSpZustV
 layout: default
+origslug: luftspzustv
 slug: luftspzustv
 
 ---

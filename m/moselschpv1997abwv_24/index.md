@@ -1,6 +1,8 @@
 ---
 Title: Vierundzwanzigste Verordnung zur vorübergehenden Abweichung von der Moselschifffahrtspolizeiverordnung
+jurabk: MoselSchPV1997AbwV 24
 layout: default
+origslug: moselschpv1997abwv_24
 slug: moselschpv1997abwv_24
 
 ---

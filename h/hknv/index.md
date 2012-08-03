@@ -2,7 +2,9 @@
 Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien
 ---
 Title: ''
+jurabk: HkNV
 layout: default
+origslug: hknv
 slug: hknv
 
 ---

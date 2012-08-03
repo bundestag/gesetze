@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der Betriebsratswahlen bei den Postunternehmen
+jurabk: WahlO Post 2002
 layout: default
+origslug: wahlo_post_2002
 slug: wahlo_post_2002
 
 ---

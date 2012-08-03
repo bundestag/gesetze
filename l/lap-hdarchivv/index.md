@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Archivdienst
   des Bundes
+jurabk: LAP-hDArchivV
 layout: default
+origslug: lap-hdarchivv
 slug: lap-hdarchivv
 
 ---

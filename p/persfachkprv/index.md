@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Personalfachkaufmann/Geprüfte
   Personalfachkauffrau
+jurabk: PersFachkPrV
 layout: default
+origslug: persfachkprv
 slug: persfachkprv
 
 ---

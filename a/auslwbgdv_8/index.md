@@ -1,7 +1,9 @@
 ---
 Title: Achte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
   (Verlängerung der Anmeldefrist)
+jurabk: AuslWBGDV 8
 layout: default
+origslug: auslwbgdv_8
 slug: auslwbgdv_8
 
 ---

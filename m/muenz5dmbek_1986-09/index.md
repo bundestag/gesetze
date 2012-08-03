@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gedenkmünze Friedrich der Große)
+jurabk: Münz5DMBek 1986-09
 layout: default
-slug: m_nz5dmbek_1986-09
+origslug: m_nz5dmbek_1986-09
+slug: muenz5dmbek_1986-09
 
 ---
 

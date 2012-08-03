@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Ingolstadt
+jurabk: FluLärmIngolstV
 layout: default
-slug: flul_rmingolstv
+origslug: flul_rmingolstv
+slug: flulaermingolstv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
   Deutschland und der Französischen Republik
+jurabk: KonsVerFRAV
 layout: default
+origslug: konsverfrav
 slug: konsverfrav
 
 ---

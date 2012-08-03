@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Verwendung des Vermögens der Deutschen Industriebank
+jurabk: DIndBVermVerwG
 layout: default
+origslug: dindbvermverwg
 slug: dindbvermverwg
 
 ---

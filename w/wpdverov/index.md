@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen
   für Wertpapierdienstleistungsunternehmen
+jurabk: WpDVerOV
 layout: default
+origslug: wpdverov
 slug: wpdverov
 
 ---

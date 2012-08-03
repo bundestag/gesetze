@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages
   zwischen dem Land Nordrhein-Westfalen und dem Land Rheinland-Pfalz über die Änderung
   der gemeinsamen Landesgrenze
+jurabk: GrÄndStVtrNW/RPBek
 layout: default
-slug: gr_ndstvtrnw_rpbek
+origslug: gr_ndstvtrnw_rpbek
+slug: graendstvtrnw_rpbek
 
 ---
 

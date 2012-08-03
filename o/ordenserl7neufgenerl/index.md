@@ -1,7 +1,9 @@
 ---
 Title: Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille
   der Bundeswehr
+jurabk: OrdensErl7NeufGenErl
 layout: default
+origslug: ordenserl7neufgenerl
 slug: ordenserl7neufgenerl
 
 ---

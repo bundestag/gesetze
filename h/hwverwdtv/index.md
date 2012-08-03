@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über verwandte Handwerke
+jurabk: HwVerwdtV
 layout: default
+origslug: hwverwdtv
 slug: hwverwdtv
 
 ---

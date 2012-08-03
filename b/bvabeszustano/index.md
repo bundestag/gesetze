@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesversicherungsamtes
   sowie bei Klagen des Dienstherrn in besoldungsrechtlichen Angelegenheiten
+jurabk: BVABesZustAnO
 layout: default
+origslug: bvabeszustano
 slug: bvabeszustano
 
 ---

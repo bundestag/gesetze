@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik der Straßenverkehrsunfälle
+jurabk: StVUnfStatG 1990
 layout: default
+origslug: stvunfstatg_1990
 slug: stvunfstatg_1990
 
 ---

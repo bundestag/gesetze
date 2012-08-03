@@ -1,7 +1,9 @@
 ---
 Title: Drittes Gesetz zur Änderung des Steuerberatungsgesetzes
+jurabk: StBerGÄndG 3
 layout: default
-slug: stberg_ndg_3
+origslug: stberg_ndg_3
+slug: stbergaendg_3
 
 ---
 

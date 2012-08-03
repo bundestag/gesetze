@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Änderung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
+jurabk: AGMahnVordrVÄndV
 layout: default
-slug: agmahnvordrv_ndv
+origslug: agmahnvordrv_ndv
+slug: agmahnvordrvaendv
 
 ---
 

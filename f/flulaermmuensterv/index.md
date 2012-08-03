@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Münster/Osnabrück
+jurabk: FluLärmMünsterV
 layout: default
-slug: flul_rmm_nsterv
+origslug: flul_rmm_nsterv
+slug: flulaermmuensterv
 
 ---
 

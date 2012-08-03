@@ -1,7 +1,9 @@
 ---
 Title: Vereinbarung zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland
   und Japan über Soziale Sicherheit
+jurabk: SozSichAbkDVbg JPN
 layout: default
+origslug: sozsichabkdvbg_jpn
 slug: sozsichabkdvbg_jpn
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Zweite Durchführungsverordnung zum Treuhandgesetz
+jurabk: TreuhGDV 2
 layout: default
+origslug: treuhgdv_2
 slug: treuhgdv_2
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Kürschner-Handwerk
+jurabk: KürMstrV
 layout: default
-slug: k_rmstrv
+origslug: k_rmstrv
+slug: kuermstrv
 
 ---
 

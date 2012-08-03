@@ -2,7 +2,9 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande
   über den Verlauf der gemeinsamen Landesgrenze, die Grenzgewässer, den grenznahen
   Grundbesitz, den grenzüberschreitenden Binnenverkehr und andere Grenzfragen
+jurabk: GrenzVtr NLD
 layout: default
+origslug: grenzvtr_nld
 slug: grenzvtr_nld
 
 ---

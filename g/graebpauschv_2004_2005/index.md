@@ -2,8 +2,10 @@
 Title: Verordnung über die Pauschale für Anlegung, Instandsetzung und Pflege der Gräber,
   Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre
   2004 und 2005
+jurabk: GräbPauschV 2004/2005
 layout: default
-slug: gr_bpauschv_2004_2005
+origslug: gr_bpauschv_2004_2005
+slug: graebpauschv_2004_2005
 
 ---
 

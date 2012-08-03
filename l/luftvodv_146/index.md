@@ -2,7 +2,9 @@
 Title: Hundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
   und vom Verkehrslandeplatz Schwäbisch Hall)
+jurabk: LuftVODV 146
 layout: default
+origslug: luftvodv_146
 slug: luftvodv_146
 
 ---

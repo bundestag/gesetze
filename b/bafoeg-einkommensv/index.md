@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen
   nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes
+jurabk: BAföG-EinkommensV
 layout: default
-slug: baf_g-einkommensv
+origslug: baf_g-einkommensv
+slug: bafoeg-einkommensv
 
 ---
 

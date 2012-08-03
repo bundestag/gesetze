@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
+jurabk: HAV
 layout: default
+origslug: hav
 slug: hav
 
 ---

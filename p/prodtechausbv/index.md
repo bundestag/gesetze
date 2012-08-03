@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Produktionstechnologen/zur
 Produktionstechnologin
 ---
 Title: ''
+jurabk: ProdTechAusbV
 layout: default
+origslug: prodtechausbv
 slug: prodtechausbv
 
 ---

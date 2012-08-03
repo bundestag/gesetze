@@ -1,6 +1,8 @@
 ---
 Title: Gewerbeordnung
+jurabk: GewO
 layout: default
+origslug: gewo
 slug: gewo
 
 ---

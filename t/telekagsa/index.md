@@ -1,7 +1,9 @@
 ---
 Title: Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen
   der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
+jurabk: TelekAGSa
 layout: default
+origslug: telekagsa
 slug: telekagsa
 
 ---

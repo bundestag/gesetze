@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Einkommensfeststellung nach dem Bundesversorgungsgesetz
+jurabk: BVG§33DV 1961
 layout: default
+origslug: bvg_33dv_1961
 slug: bvg_33dv_1961
 
 ---

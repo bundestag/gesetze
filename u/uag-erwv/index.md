@@ -1,7 +1,9 @@
 ---
 Title: Verordnung nach dem Umweltauditgesetz über die Erweiterung des Gemeinschaftssystems
   für das Umweltmanagement und die Umweltbetriebsprüfung auf weitere Bereiche
+jurabk: UAG-ErwV
 layout: default
+origslug: uag-erwv
 slug: uag-erwv
 
 ---

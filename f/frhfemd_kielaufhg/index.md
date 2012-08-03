@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Aufhebung der Freihäfen Emden und Kiel
+jurabk: FrHfEmd/KielAufhG
 layout: default
+origslug: frhfemd_kielaufhg
 slug: frhfemd_kielaufhg
 
 ---

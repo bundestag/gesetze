@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Textilwirtschaft
+jurabk: TextilIndMeistPrV 2006
 layout: default
+origslug: textilindmeistprv_2006
 slug: textilindmeistprv_2006
 
 ---

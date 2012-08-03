@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für Amtshandlungen nach dem De-Mail-Gesetz
+jurabk: De-Mail-KostV
 layout: default
+origslug: de-mail-kostv
 slug: de-mail-kostv
 
 ---

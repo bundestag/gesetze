@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten
+jurabk: KapMuG
 layout: default
+origslug: kapmug
 slug: kapmug
 
 ---

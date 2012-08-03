@@ -1,7 +1,9 @@
 ---
 Title: Dritte Verordnung zum Gesetz über die Änderung von Familiennamen und Vornamen
   (Löschung und Änderung von jüdischen Zwangsnamen)
+jurabk: FamNamV BY 3
 layout: default
+origslug: famnamv_by_3
 slug: famnamv_by_3
 
 ---

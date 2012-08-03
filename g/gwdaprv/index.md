@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Wetterdienst des
   Bundes
+jurabk: GWDAPrV
 layout: default
+origslug: gwdaprv
 slug: gwdaprv
 
 ---

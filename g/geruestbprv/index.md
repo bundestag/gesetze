@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Gerüstbau-Kolonnenführer
+jurabk: GerüstbPrV
 layout: default
-slug: ger_stbprv
+origslug: ger_stbprv
+slug: geruestbprv
 
 ---
 

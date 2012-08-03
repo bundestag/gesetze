@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
+jurabk: SaarGlV
 layout: default
+origslug: saarglv
 slug: saarglv
 
 ---

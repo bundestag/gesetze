@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von
   Polizeibehörden und Nachrichtendiensten von Bund und Ländern
+jurabk: ATDG
 layout: default
+origslug: atdg
 slug: atdg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Risikomanagement und Risikomessung beim Einsatz von Derivaten
   in Sondervermögen nach dem Investmentgesetz
+jurabk: DerivateV
 layout: default
+origslug: derivatev
 slug: derivatev
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse
   im Geschäftsbereich des Bundesministeriums der Verteidigung
+jurabk: BMinVgDisRZustAnO
 layout: default
+origslug: bminvgdisrzustano
 slug: bminvgdisrzustano
 
 ---

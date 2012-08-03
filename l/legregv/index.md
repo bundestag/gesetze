@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Legehennenbetriebsregistergesetzes
+jurabk: LegRegV
 layout: default
+origslug: legregv
 slug: legregv
 
 ---

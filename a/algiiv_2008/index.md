@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von
   Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld
+jurabk: AlgIIV 2008
 layout: default
+origslug: algiiv_2008
 slug: algiiv_2008
 
 ---

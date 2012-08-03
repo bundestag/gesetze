@@ -2,7 +2,9 @@
 Title: Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes
   für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich
   des Bundesministeriums des Innern
+jurabk: BMI-ArbSchGAnwV
 layout: default
+origslug: bmi-arbschganwv
 slug: bmi-arbschganwv
 
 ---

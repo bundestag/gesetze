@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis
   zum Zensusgesetz 2011
+jurabk: StichprobenV
 layout: default
+origslug: stichprobenv
 slug: stichprobenv
 
 ---

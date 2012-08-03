@@ -1,6 +1,8 @@
 ---
 Title: Gesetz, betreffend die Einführung der Zivilprozeßordnung
+jurabk: ZPOEG
 layout: default
+origslug: zpoeg
 slug: zpoeg
 
 ---

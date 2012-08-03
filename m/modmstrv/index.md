@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Modisten-Handwerk
+jurabk: ModMstrV
 layout: default
+origslug: modmstrv
 slug: modmstrv
 
 ---

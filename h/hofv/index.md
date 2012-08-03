@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die grundbuchmäßige Behandlung von Anteilen an ungetrennten
   Hofräumen
+jurabk: HofV
 layout: default
+origslug: hofv
 slug: hofv
 
 ---

@@ -2,7 +2,9 @@
 Title: Achtzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
   und der Altersgelder in der Altershilfe für Landwirte
+jurabk: RAG 18
 layout: default
+origslug: rag_18
 slug: rag_18
 
 ---

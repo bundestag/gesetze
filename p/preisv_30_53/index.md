@@ -1,6 +1,8 @@
 ---
 Title: Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen
+jurabk: PreisV 30/53
 layout: default
+origslug: preisv_30_53
 slug: preisv_30_53
 
 ---

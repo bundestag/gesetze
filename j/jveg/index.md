@@ -2,7 +2,9 @@
 Title: Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolmetschern,
   Übersetzerinnen und Übersetzern sowie die Entschädigung von ehrenamtlichen Richterinnen,
   ehrenamtlichen Richtern, Zeuginnen, Zeugen und Dritten
+jurabk: JVEG
 layout: default
+origslug: jveg
 slug: jveg
 
 ---

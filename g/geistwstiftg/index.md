@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute
   im Ausland, Bonn
+jurabk: GeistwStiftG
 layout: default
+origslug: geistwstiftg
 slug: geistwstiftg
 
 ---

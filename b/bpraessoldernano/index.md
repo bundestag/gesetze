@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten
+jurabk: BPräsSoldErnAnO
 layout: default
-slug: bpr_ssoldernano
+origslug: bpr_ssoldernano
+slug: bpraessoldernano
 
 ---
 

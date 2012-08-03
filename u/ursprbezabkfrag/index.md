@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 8. März 1960 zwischen der Bundesrepublik Deutschland
   und der Französischen Republik über den Schutz von Herkunftsangaben, Ursprungsbezeichnungen
   und anderen geographischen Bezeichnungen
+jurabk: UrsprBezAbkFRAG
 layout: default
+origslug: ursprbezabkfrag
 slug: ursprbezabkfrag
 
 ---

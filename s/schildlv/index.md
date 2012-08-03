@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bekämpfung der San-Jose-Schildlaus
+jurabk: SchildlV
 layout: default
+origslug: schildlv
 slug: schildlv
 
 ---

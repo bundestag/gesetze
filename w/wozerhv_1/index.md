@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung über die Erhöhung der Zinsen für Darlehen aus Wohnungsfürsorgemitteln
   des Bundes
+jurabk: WoZErhV 1
 layout: default
+origslug: wozerhv_1
 slug: wozerhv_1
 
 ---

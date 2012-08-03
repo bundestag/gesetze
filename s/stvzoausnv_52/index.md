@@ -1,6 +1,8 @@
 ---
 Title: Zweiundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 52
 layout: default
+origslug: stvzoausnv_52
 slug: stvzoausnv_52
 
 ---

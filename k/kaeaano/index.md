@@ -1,6 +1,8 @@
 ---
 Title: Ausführungsanordnung zur Konzessionsabgabenanordnung
+jurabk: KAEAAnO
 layout: default
+origslug: kaeaano
 slug: kaeaano
 
 ---

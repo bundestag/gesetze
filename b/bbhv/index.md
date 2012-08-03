@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen
+jurabk: BBhV
 layout: default
+origslug: bbhv
 slug: bbhv
 
 ---

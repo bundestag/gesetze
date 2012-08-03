@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Schätzung des landwirtschaftlichen Kulturbodens
+jurabk: BodSchätzG 2008
 layout: default
-slug: bodsch_tzg_2008
+origslug: bodsch_tzg_2008
+slug: bodschaetzg_2008
 
 ---
 

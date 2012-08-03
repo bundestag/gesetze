@@ -1,6 +1,8 @@
 ---
 Title: Vereinsregisterverordnung
+jurabk: VRV
 layout: default
+origslug: vrv
 slug: vrv
 
 ---

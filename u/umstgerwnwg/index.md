@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von Umstellungsguthaben
+jurabk: UmstGErwNwG
 layout: default
+origslug: umstgerwnwg
 slug: umstgerwnwg
 
 ---

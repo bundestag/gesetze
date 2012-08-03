@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Zentralregister und das Erziehungsregister
+jurabk: BZRG
 layout: default
+origslug: bzrg
 slug: bzrg
 
 ---

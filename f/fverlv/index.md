@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Anwendung des Fremdvergleichsgrundsatzes nach § 1 Abs. 1 des
   Außensteuergesetzes in Fällen grenzüberschreitender Funktionsverlagerungen
+jurabk: FVerlV
 layout: default
+origslug: fverlv
 slug: fverlv
 
 ---

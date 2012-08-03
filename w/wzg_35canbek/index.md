@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35CANBek
 layout: default
+origslug: wzg_35canbek
 slug: wzg_35canbek
 
 ---

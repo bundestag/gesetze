@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Raiffeisen-Gedenkmünze)
+jurabk: Münz5DMBek 1968-10-10
 layout: default
-slug: m_nz5dmbek_1968-10-10
+origslug: m_nz5dmbek_1968-10-10
+slug: muenz5dmbek_1968-10-10
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Satzung der Internationalen Atomenergie-Organisation
+jurabk: IntAtomSa
 layout: default
+origslug: intatomsa
 slug: intatomsa
 
 ---

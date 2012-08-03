@@ -1,6 +1,8 @@
 ---
 Title: Raumordnungsverordnung
+jurabk: RoV
 layout: default
+origslug: rov
 slug: rov
 
 ---

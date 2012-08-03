@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur
 Technischen Modellbauerin
 ---
 Title: ''
+jurabk: ModellBTechAusbV
 layout: default
+origslug: modellbtechausbv
 slug: modellbtechausbv
 
 ---

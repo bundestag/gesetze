@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
+jurabk: SiSchmAusbV
 layout: default
+origslug: sischmausbv
 slug: sischmausbv
 
 ---

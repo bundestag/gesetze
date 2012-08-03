@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Versicherungsvertrag
+jurabk: VVG 2008
 layout: default
+origslug: vvg_2008
 slug: vvg_2008
 
 ---

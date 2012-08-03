@@ -2,7 +2,9 @@
 Title: Anordnung zur Durchführung der Bundesdisziplinarordnung bei den bundesunmittelbaren
   Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums
   für Arbeit und Sozialordnung
+jurabk: BDOBuKBMinAAnO
 layout: default
+origslug: bdobukbminaano
 slug: bdobukbminaano
 
 ---

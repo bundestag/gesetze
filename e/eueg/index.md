@@ -1,8 +1,10 @@
 ---
 Title: Gesetz über den Einfluß von Eignungsübungen der Streitkräfte auf Vertragsverhältnisse
   der Arbeitnehmer und Handelsvertreter sowie auf Beamtenverhältnisse
+jurabk: EÜG
 layout: default
-slug: e_g
+origslug: e_g
+slug: eueg
 
 ---
 

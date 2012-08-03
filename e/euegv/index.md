@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Eignungsübungsgesetz
+jurabk: EÜGV
 layout: default
-slug: e_gv
+origslug: e_gv
+slug: euegv
 
 ---
 

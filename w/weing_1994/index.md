@@ -1,6 +1,8 @@
 ---
 Title: Weingesetz
+jurabk: WeinG 1994
 layout: default
+origslug: weing_1994
 slug: weing_1994
 
 ---

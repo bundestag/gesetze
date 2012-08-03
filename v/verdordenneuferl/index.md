@@ -1,7 +1,9 @@
 ---
 Title: Erlaß über die Neufassung des Statuts des "Verdienstordens der Bundesrepublik
   Deutschland"
+jurabk: VerdOrdenNeufErl
 layout: default
+origslug: verdordenneuferl
 slug: verdordenneuferl
 
 ---

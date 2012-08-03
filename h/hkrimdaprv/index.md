@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des
   Bundes
+jurabk: HKrimDAPrV
 layout: default
+origslug: hkrimdaprv
 slug: hkrimdaprv
 
 ---

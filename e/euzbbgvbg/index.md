@@ -3,7 +3,9 @@ Title: Vereinbarung zwischen dem Deutschen Bundestag und der Bundesregierung üb
   die Zusammenarbeit in Angelegenheiten der Europäischen Union in Ausführung des §
   6 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag
   in Angelegenheiten der Europäischen Union
+jurabk: EUZBBGVbg
 layout: default
+origslug: euzbbgvbg
 slug: euzbbgvbg
 
 ---

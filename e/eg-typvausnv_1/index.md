@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung über Ausnahmen von der Verordnung über die EG-Typgenehmigung
   für Fahrzeuge und Fahrzeugteile
+jurabk: EG-TypVAusnV 1
 layout: default
+origslug: eg-typvausnv_1
 slug: eg-typvausnv_1
 
 ---

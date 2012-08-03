@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft
+jurabk: BWaldG
 layout: default
+origslug: bwaldg
 slug: bwaldg
 
 ---

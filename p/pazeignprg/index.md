@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft
+jurabk: PAZEignPrG
 layout: default
+origslug: pazeignprg
 slug: pazeignprg
 
 ---

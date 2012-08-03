@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung von Testamenten und Erbverträgen
+jurabk: TestG
 layout: default
+origslug: testg
 slug: testg
 
 ---

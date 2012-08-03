@@ -1,6 +1,8 @@
 ---
 Title: Körperschaftsteuer-Durchführungsverordnung
+jurabk: KStDV 1977
 layout: default
+origslug: kstdv_1977
 slug: kstdv_1977
 
 ---

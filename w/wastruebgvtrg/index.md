@@ -2,8 +2,10 @@
 Title: Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraßen von
   den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse
   der Bundeswasserstraßen)
+jurabk: WaStrÜbgVtrG
 layout: default
-slug: wastr_bgvtrg
+origslug: wastr_bgvtrg
+slug: wastruebgvtrg
 
 ---
 

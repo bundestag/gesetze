@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Vollzug des Jugendarrestes
+jurabk: JAVollzO
 layout: default
+origslug: javollzo
 slug: javollzo
 
 ---

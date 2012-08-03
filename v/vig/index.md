@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation
+jurabk: VIG
 layout: default
+origslug: vig
 slug: vig
 
 ---

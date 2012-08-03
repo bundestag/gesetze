@@ -2,7 +2,9 @@
 Title: Vertrag von Amsterdam zur Änderung des Vertrags über die Europäische Union,
   der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender
   Rechtsakte
+jurabk: EUVtr Amst
 layout: default
+origslug: euvtr_amst
 slug: euvtr_amst
 
 ---

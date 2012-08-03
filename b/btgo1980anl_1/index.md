@@ -1,7 +1,9 @@
 ---
 Title: Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung
   des Deutschen Bundestages, BGBl I 1980, 1237)
+jurabk: BTGO1980Anl 1
 layout: default
+origslug: btgo1980anl_1
 slug: btgo1980anl_1
 
 ---

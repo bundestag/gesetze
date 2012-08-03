@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung und Zukunft"
+jurabk: EVZStiftG
 layout: default
+origslug: evzstiftg
 slug: evzstiftg
 
 ---

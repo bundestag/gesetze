@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Meldepflichten über Marktordnungswaren
+jurabk: MarktOWMeldV
 layout: default
+origslug: marktowmeldv
 slug: marktowmeldv
 
 ---

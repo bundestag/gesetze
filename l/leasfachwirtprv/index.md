@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Leasingfachwirt/Geprüfte
   Leasingfachwirtin
+jurabk: LeasFachwirtPrV
 layout: default
+origslug: leasfachwirtprv
 slug: leasfachwirtprv
 
 ---

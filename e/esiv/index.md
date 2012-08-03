@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Sicherheit des Eisenbahnsystems
+jurabk: ESiV
 layout: default
+origslug: esiv
 slug: esiv
 
 ---

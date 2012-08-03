@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen
   aus Lebens- und Rentenversicherungen
+jurabk: VersAnsprReglGÄndG
 layout: default
-slug: versansprreglg_ndg
+origslug: versansprreglg_ndg
+slug: versansprreglgaendg
 
 ---
 

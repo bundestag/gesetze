@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter
   des Bundes
+jurabk: JubV
 layout: default
+origslug: jubv
 slug: jubv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ordnung des Handwerks
+jurabk: HwO
 layout: default
+origslug: hwo
 slug: hwo
 
 ---

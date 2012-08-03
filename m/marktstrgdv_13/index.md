@@ -1,7 +1,9 @@
 ---
 Title: Dreizehnte Durchführungsverordnung zum Marktstrukturgesetz - Pfropfreben und
   Edelreiser
+jurabk: MarktStrGDV 13
 layout: default
+origslug: marktstrgdv_13
 slug: marktstrgdv_13
 
 ---

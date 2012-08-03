@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für
   Telematik für das Jahr 2012
+jurabk: TeleFinV 2012
 layout: default
+origslug: telefinv_2012
 slug: telefinv_2012
 
 ---

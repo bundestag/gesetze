@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Unfallversicherungsträger
+jurabk: UV-AltRückV
 layout: default
-slug: uv-altr_ckv
+origslug: uv-altr_ckv
+slug: uv-altrueckv
 
 ---
 

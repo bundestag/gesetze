@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Spielgeräte und andere Spiele mit Gewinnmöglichkeit
+jurabk: SpielV
 layout: default
+origslug: spielv
 slug: spielv
 
 ---

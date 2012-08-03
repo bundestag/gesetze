@@ -3,7 +3,9 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich der 
   zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und
   vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen
   auf steuerlichem Gebiete
+jurabk: GrenzgAbk NLD
 layout: default
+origslug: grenzgabk_nld
 slug: grenzgabk_nld
 
 ---

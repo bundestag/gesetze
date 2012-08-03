@@ -1,6 +1,8 @@
 ---
 Title: Pflanzenschutz-Sachkundeverordnung
+jurabk: PflSchSachkV
 layout: default
+origslug: pflschsachkv
 slug: pflschsachkv
 
 ---

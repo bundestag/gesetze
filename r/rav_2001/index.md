@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahre 2001
+jurabk: RAV 2001
 layout: default
+origslug: rav_2001
 slug: rav_2001
 
 ---

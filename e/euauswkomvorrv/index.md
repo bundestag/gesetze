@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das Zwischenstaatliche
   Komitee für Europäische Auswanderung
+jurabk: EuAuswKomVorRV
 layout: default
+origslug: euauswkomvorrv
 slug: euauswkomvorrv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln
+jurabk: EthylenoxidV
 layout: default
+origslug: ethylenoxidv
 slug: ethylenoxidv
 
 ---

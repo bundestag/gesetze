@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Nürnberg
+jurabk: FluLärmNürnbV
 layout: default
-slug: flul_rmn_rnbv
+origslug: flul_rmn_rnbv
+slug: flulaermnuernbv
 
 ---
 

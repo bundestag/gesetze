@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik
   über Soziale Sicherheit
+jurabk: SozSichAbk PRT
 layout: default
+origslug: sozsichabk_prt
 slug: sozsichabk_prt
 
 ---

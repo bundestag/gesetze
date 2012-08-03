@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Steinmetz- und Steinbildhauer-Handwerk
+jurabk: StmStbMstrV 2008
 layout: default
+origslug: stmstbmstrv_2008
 slug: stmstbmstrv_2008
 
 ---

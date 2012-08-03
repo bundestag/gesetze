@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Lastenausgleich
+jurabk: LAG
 layout: default
+origslug: lag
 slug: lag
 
 ---

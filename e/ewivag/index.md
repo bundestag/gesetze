@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche
   Interessenvereinigung
+jurabk: EWIVAG
 layout: default
+origslug: ewivag
 slug: ewivag
 
 ---

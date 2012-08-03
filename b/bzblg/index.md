@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verminderung von Luftverunreinigungen durch Bleiverbindungen in
   Ottokraftstoffen für Kraftfahrzeugmotore
+jurabk: BzBlG
 layout: default
+origslug: bzblg
 slug: bzblg
 
 ---

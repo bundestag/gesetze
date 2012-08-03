@@ -1,6 +1,8 @@
 ---
 Title: Flaggenrechtsverordnung
+jurabk: FlRV
 layout: default
+origslug: flrv
 slug: flrv
 
 ---

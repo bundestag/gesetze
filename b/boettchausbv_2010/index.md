@@ -2,8 +2,10 @@
 Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin
 ---
 Title: ''
+jurabk: BöttchAusbV 2010
 layout: default
-slug: b_ttchausbv_2010
+origslug: b_ttchausbv_2010
+slug: boettchausbv_2010
 
 ---
 

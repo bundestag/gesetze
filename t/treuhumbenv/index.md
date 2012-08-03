@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Umbenennung und die Anpassung von Zuständigkeiten der Treuhandanstalt
+jurabk: TreuhUmbenV
 layout: default
+origslug: treuhumbenv
 slug: treuhumbenv
 
 ---

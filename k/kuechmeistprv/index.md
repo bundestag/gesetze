@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Küchenmeister/Geprüfte
   Küchenmeisterin
+jurabk: KüchMeistPrV
 layout: default
-slug: k_chmeistprv
+origslug: k_chmeistprv
+slug: kuechmeistprv
 
 ---
 

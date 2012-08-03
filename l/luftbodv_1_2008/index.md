@@ -1,7 +1,9 @@
 ---
 Title: Erste Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Anwendungsbestimmungen
   zu Anhang III - EU-OPS - der VO (EWG) Nr. 3922/91
+jurabk: LuftBODV 1 2008
 layout: default
+origslug: luftbodv_1_2008
 slug: luftbodv_1_2008
 
 ---

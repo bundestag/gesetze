@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Biersteuergesetzes
+jurabk: BierStV 2010
 layout: default
+origslug: bierstv_2010
 slug: bierstv_2010
 
 ---

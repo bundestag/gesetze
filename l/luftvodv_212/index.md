@@ -2,7 +2,9 @@
 Title: Zweihundertzwölfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Frankfurt am Main)
+jurabk: LuftVODV 212
 layout: default
+origslug: luftvodv_212
 slug: luftvodv_212
 
 ---

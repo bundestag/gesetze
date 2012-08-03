@@ -1,6 +1,8 @@
 ---
 Title: Ausführungsbestimmungen zum Reichssiedlungsgesetz
+jurabk: RSiedlGABest
 layout: default
+origslug: rsiedlgabest
 slug: rsiedlgabest
 
 ---

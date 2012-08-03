@@ -1,7 +1,9 @@
 ---
 Title: Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes
+jurabk: LAGÄndG 14
 layout: default
-slug: lag_ndg_14
+origslug: lag_ndg_14
+slug: lagaendg_14
 
 ---
 

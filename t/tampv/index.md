@@ -5,7 +5,9 @@ sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur
 Anwendung der Tierarzneimittelprüfrichtlinien
 ---
 Title: ''
+jurabk: TamPV
 layout: default
+origslug: tampv
 slug: tampv
 
 ---

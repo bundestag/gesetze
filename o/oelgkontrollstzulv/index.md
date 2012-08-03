@@ -3,8 +3,10 @@ Verordnung über die Zulassung von Kontrollstellen nach dem Öko-
 Landbaugesetz
 ---
 Title: ''
+jurabk: ÖLGKontrollStZulV
 layout: default
-slug: _lgkontrollstzulv
+origslug: _lgkontrollstzulv
+slug: oelgkontrollstzulv
 
 ---
 

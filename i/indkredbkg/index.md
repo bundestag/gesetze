@@ -1,6 +1,8 @@
 ---
 Title: Gesetz betreffend die Industriekreditbank Aktiengesellschaft
+jurabk: IndKredBkG
 layout: default
+origslug: indkredbkg
 slug: indkredbkg
 
 ---

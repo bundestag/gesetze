@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr
   2011
+jurabk: InsoGeldFestV 2011
 layout: default
+origslug: insogeldfestv_2011
 slug: insogeldfestv_2011
 
 ---

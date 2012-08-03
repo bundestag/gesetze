@@ -3,8 +3,10 @@ Title: Regeln zur Verhütung der Verschmutzung durch Schadstoffe, die auf See in
   Form oder in Containern, ortsbeweglichen Tanks, Straßentankfahrzeugen oder Eisenbahnkesselwagen
   befördert werden (Anlage III zu den Internationalen Übereinkommen von 1973 zur Verhütung
   der Meeresverschmutzung durch Schiffe)
+jurabk: IntMeerSchÜbk1973Anl III
 layout: default
-slug: intmeersch_bk1973anl_iii
+origslug: intmeersch_bk1973anl_iii
+slug: intmeerschuebk1973anl_iii
 
 ---
 

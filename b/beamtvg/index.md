@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Versorgung der Beamten und Richter des Bundes
+jurabk: BeamtVG
 layout: default
+origslug: beamtvg
 slug: beamtvg
 
 ---

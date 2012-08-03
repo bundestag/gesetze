@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Glasmacher/zur Glasmacherin
+jurabk: GlasmAusbV
 layout: default
+origslug: glasmausbv
 slug: glasmausbv
 
 ---

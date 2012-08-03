@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter
+jurabk: MilchSoPrG
 layout: default
+origslug: milchsoprg
 slug: milchsoprg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und Kanada über die Rechtshilfe
   in Strafsachen
+jurabk: RHiVtr CAN
 layout: default
+origslug: rhivtr_can
 slug: rhivtr_can
 
 ---

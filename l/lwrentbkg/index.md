@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Landwirtschaftliche Rentenbank
+jurabk: LwRentBkG
 layout: default
+origslug: lwrentbkg
 slug: lwrentbkg
 
 ---

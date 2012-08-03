@@ -1,6 +1,8 @@
 ---
 Title: Fahrzeuglieferungs-Meldepflichtverordnung
+jurabk: FzgLiefgMeldV
 layout: default
+origslug: fzgliefgmeldv
 slug: fzgliefgmeldv
 
 ---

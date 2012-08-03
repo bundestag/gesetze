@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung
+jurabk: AufAG
 layout: default
+origslug: aufag
 slug: aufag
 
 ---

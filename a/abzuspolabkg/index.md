@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland
   und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und
   Schwetig
+jurabk: ABZusPolAbkG
 layout: default
+origslug: abzuspolabkg
 slug: abzuspolabkg
 
 ---

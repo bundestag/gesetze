@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark
+jurabk: Münz5DMBek 1953
 layout: default
-slug: m_nz5dmbek_1953
+origslug: m_nz5dmbek_1953
+slug: muenz5dmbek_1953
 
 ---
 

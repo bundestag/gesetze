@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Statistik in der öffentlichen Wasserversorgung und im öffentlichen
   Abwasserwesen
+jurabk: WasVersStatV
 layout: default
+origslug: wasversstatv
 slug: wasversstatv
 
 ---

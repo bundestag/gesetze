@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Arbeitsgenehmigung für ausländische Arbeitnehmer
+jurabk: ArGV
 layout: default
+origslug: argv
 slug: argv
 
 ---

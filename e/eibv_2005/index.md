@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den diskriminierungsfreien Zugang zur Eisenbahninfrastruktur
   und über die Grundsätze zur Erhebung von Entgelt für die Benutzung der Eisenbahninfrastruktur
+jurabk: EIBV 2005
 layout: default
+origslug: eibv_2005
 slug: eibv_2005
 
 ---

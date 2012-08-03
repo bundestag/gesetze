@@ -2,8 +2,10 @@
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gedenkmünze 25. Jahrestag der Verkündung des Grundgesetzes für die Bundesrepublik
   Deutschland am 23. Mai 1949)
+jurabk: Münz5DMBek 1974-04
 layout: default
-slug: m_nz5dmbek_1974-04
+origslug: m_nz5dmbek_1974-04
+slug: muenz5dmbek_1974-04
 
 ---
 

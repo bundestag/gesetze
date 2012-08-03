@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "225. Geburtstag Karl Friedrich Schinkel  1781 - 1841")
+jurabk: Münz10EuroBek 2006-01-09
 layout: default
-slug: m_nz10eurobek_2006-01-09
+origslug: m_nz10eurobek_2006-01-09
+slug: muenz10eurobek_2006-01-09
 
 ---
 

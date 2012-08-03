@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt
+jurabk: BinSchG
 layout: default
+origslug: binschg
 slug: binschg
 
 ---

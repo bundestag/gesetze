@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahre 1997
+jurabk: RAV 1997
 layout: default
+origslug: rav_1997
 slug: rav_1997
 
 ---

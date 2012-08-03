@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der
   Bundeswehr
+jurabk: STzV
 layout: default
+origslug: stzv
 slug: stzv
 
 ---

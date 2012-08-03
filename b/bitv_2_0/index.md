@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz
+jurabk: BITV 2.0
 layout: default
+origslug: bitv_2_0
 slug: bitv_2_0
 
 ---

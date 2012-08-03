@@ -2,7 +2,9 @@
 Title: Rentenanpassungsgesetz 1986 (Artikel 1 des Gesetzes über die Anpassung der
   Renten der gesetzlichen Rentenversicherung und der Geldleistungen der gesetzlichen
   Unfallversicherung im Jahre 1986)
+jurabk: RAG 1986
 layout: default
+origslug: rag_1986
 slug: rag_1986
 
 ---

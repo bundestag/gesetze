@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Verminderung der Staatenlosigkeit
+jurabk: StaatenlMindÜbk
 layout: default
-slug: staatenlmind_bk
+origslug: staatenlmind_bk
+slug: staatenlminduebk
 
 ---
 

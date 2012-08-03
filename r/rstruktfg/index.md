@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung eines Restrukturierungsfonds für Kreditinstitute
+jurabk: RStruktFG
 layout: default
+origslug: rstruktfg
 slug: rstruktfg
 
 ---

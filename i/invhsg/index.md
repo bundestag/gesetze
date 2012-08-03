@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Abschluß der Investitionshilfe der gewerblichen Wirtschaft
+jurabk: InvHSG
 layout: default
+origslug: invhsg
 slug: invhsg
 
 ---

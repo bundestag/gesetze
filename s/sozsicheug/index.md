@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa
+jurabk: SozSichEUG
 layout: default
+origslug: sozsicheug
 slug: sozsicheug
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anlegung und Führung von Gebäudegrundbüchern
+jurabk: GGV
 layout: default
+origslug: ggv
 slug: ggv
 
 ---

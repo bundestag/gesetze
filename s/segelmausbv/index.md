@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Segelmacher und zur
 Segelmacherin
 ---
 Title: ''
+jurabk: SegelmAusbV
 layout: default
+origslug: segelmausbv
 slug: segelmausbv
 
 ---

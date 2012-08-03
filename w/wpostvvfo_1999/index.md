@@ -1,6 +1,8 @@
 ---
 Title: Allgemeine Verfahrensordnung des Weltpostvereins
+jurabk: WPostVVfO 1999
 layout: default
+origslug: wpostvvfo_1999
 slug: wpostvvfo_1999
 
 ---

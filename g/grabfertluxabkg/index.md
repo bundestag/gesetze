@@ -3,7 +3,9 @@ Title: Gesetz zu dem Abkommen vom 16. Februar 1962 zwischen der Bundesrepublik D
   und dem Großherzogtum Luxemburg über die Zusammenlegung der Grenzabfertigung und
   über die Errichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-luxemburgischen
   Grenze
+jurabk: GrAbfertLUXAbkG
 layout: default
+origslug: grabfertluxabkg
 slug: grabfertluxabkg
 
 ---

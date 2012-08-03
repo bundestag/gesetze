@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation
+jurabk: PTStiftG
 layout: default
+origslug: ptstiftg
 slug: ptstiftg
 
 ---

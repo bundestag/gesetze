@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Übernahme von Gewährleistungen im Rahmen eines europäischen Stabilisierungsmechanismus
+jurabk: StabMechG
 layout: default
+origslug: stabmechg
 slug: stabmechg
 
 ---

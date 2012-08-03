@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 2 Euro (Gedenkmünze "Bremen")
+jurabk: Münz2EuroBek 2009-11
 layout: default
-slug: m_nz2eurobek_2009-11
+origslug: m_nz2eurobek_2009-11
+slug: muenz2eurobek_2009-11
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Sicherheiten für landwirtschaftliche Erzeugnisse
+jurabk: EWGSichV
 layout: default
+origslug: ewgsichv
 slug: ewgsichv
 
 ---

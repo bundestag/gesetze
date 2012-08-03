@@ -1,6 +1,8 @@
 ---
 Title: Pflanzkartoffelverordnung
+jurabk: PflKartV 1986
 layout: default
+origslug: pflkartv_1986
 slug: pflkartv_1986
 
 ---

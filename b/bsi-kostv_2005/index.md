@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für Amtshandlungen des Bundesamtes für Sicherheit in der Informationstechnik
+jurabk: BSI-KostV 2005
 layout: default
+origslug: bsi-kostv_2005
 slug: bsi-kostv_2005
 
 ---

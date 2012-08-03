@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche
   Fragen
+jurabk: HypAblV
 layout: default
+origslug: hypablv
 slug: hypablv
 
 ---

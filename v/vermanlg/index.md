@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Vermögensanlagen
+jurabk: VermAnlG
 layout: default
+origslug: vermanlg
 slug: vermanlg
 
 ---

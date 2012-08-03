@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Erhaltung der antarktischen Robben
+jurabk: RobErhÜbk
 layout: default
-slug: roberh_bk
+origslug: roberh_bk
+slug: roberhuebk
 
 ---
 

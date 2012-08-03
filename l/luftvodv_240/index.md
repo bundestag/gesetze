@@ -2,7 +2,9 @@
 Title: Zweihundertvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
   Memmingen/Allgäu)
+jurabk: LuftVODV 240
 layout: default
+origslug: luftvodv_240
 slug: luftvodv_240
 
 ---

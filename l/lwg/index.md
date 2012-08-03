@@ -1,6 +1,8 @@
 ---
 Title: Landwirtschaftsgesetz
+jurabk: LwG
 layout: default
+origslug: lwg
 slug: lwg
 
 ---

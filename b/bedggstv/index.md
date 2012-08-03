@@ -1,6 +1,8 @@
 ---
 Title: Bedarfsgegenständeverordnung
+jurabk: BedGgstV
 layout: default
+origslug: bedggstv
 slug: bedggstv
 
 ---

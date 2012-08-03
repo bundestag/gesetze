@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Berechnung strafrechtlicher Verjährungsfristen
+jurabk: StrVerjFrG
 layout: default
+origslug: strverjfrg
 slug: strverjfrg
 
 ---

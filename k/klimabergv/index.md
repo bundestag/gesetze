@@ -1,6 +1,8 @@
 ---
 Title: Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen
+jurabk: KlimaBergV
 layout: default
+origslug: klimabergv
 slug: klimabergv
 
 ---

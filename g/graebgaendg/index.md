@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung des Gesetzes über die Erhaltung der Gräber der Opfer von
   Krieg und Gewaltherrschaft (Gräbergesetz)
+jurabk: GräbGÄndG
 layout: default
-slug: gr_bg_ndg
+origslug: gr_bg_ndg
+slug: graebgaendg
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an
   Sonn- und Feiertagen in der Eisen- und Stahlindustrie
+jurabk: SonntRStIndAusnV
 layout: default
+origslug: sonntrstindausnv
 slug: sonntrstindausnv
 
 ---

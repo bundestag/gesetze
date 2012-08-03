@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung
+jurabk: BauPÜAnO
 layout: default
-slug: baup_ano
+origslug: baup_ano
+slug: baupueano
 
 ---
 

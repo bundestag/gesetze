@@ -1,7 +1,9 @@
 ---
 Title: Geheimschutzordnung des Deutschen Bundestages (Anlage 3 der Geschäftsordnung
   des Deutschen Bundestages, BGBl. I 1980, 1237)
+jurabk: BTGO1980Anl 3
 layout: default
+origslug: btgo1980anl_3
 slug: btgo1980anl_3
 
 ---

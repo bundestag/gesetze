@@ -2,7 +2,9 @@
 Title: Verordnung über die Anwendung gemeinschaftsrechtlicher Vorschriften für die
   Beihilfe für Energiepflanzen bei der Verarbeitung im landwirtschaftlichen Betrieb
   im Jahr 2007
+jurabk: EnergiePflV
 layout: default
+origslug: energiepflv
 slug: energiepflv
 
 ---

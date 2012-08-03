@@ -1,7 +1,9 @@
 ---
 Title: Dreizehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
+jurabk: RAG 13
 layout: default
+origslug: rag_13
 slug: rag_13
 
 ---

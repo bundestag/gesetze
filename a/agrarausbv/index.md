@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
 ---
 Title: ''
+jurabk: AgrarAusbV
 layout: default
+origslug: agrarausbv
 slug: agrarausbv
 
 ---

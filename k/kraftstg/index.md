@@ -1,6 +1,8 @@
 ---
 Title: Kraftfahrzeugsteuergesetz
+jurabk: KraftStG
 layout: default
+origslug: kraftstg
 slug: kraftstg
 
 ---

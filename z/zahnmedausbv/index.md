@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur
   Zahnmedizinischen Fachangestellten
+jurabk: ZahnmedAusbV
 layout: default
+origslug: zahnmedausbv
 slug: zahnmedausbv
 
 ---

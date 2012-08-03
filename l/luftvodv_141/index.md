@@ -2,7 +2,9 @@
 Title: Hunderteinundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flugplatz
   Hahn)
+jurabk: LuftVODV 141
 layout: default
+origslug: luftvodv_141
 slug: luftvodv_141
 
 ---

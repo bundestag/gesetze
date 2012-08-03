@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4WienBek
 layout: default
+origslug: wzg_4wienbek
 slug: wzg_4wienbek
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4BIRPIBek
 layout: default
+origslug: wzg_4birpibek
 slug: wzg_4birpibek
 
 ---

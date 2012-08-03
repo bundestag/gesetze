@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zur Insolvenzordnung
+jurabk: EGInsO
 layout: default
+origslug: eginso
 slug: eginso
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen
   Personenverkehr
+jurabk: UnBefG 1979
 layout: default
+origslug: unbefg_1979
 slug: unbefg_1979
 
 ---

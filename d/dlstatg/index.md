@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Statistiken im Dienstleistungsbereich
+jurabk: DlStatG
 layout: default
+origslug: dlstatg
 slug: dlstatg
 
 ---

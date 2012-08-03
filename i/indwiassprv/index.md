@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Wirtschaftsassistent
   - Industrie
+jurabk: IndWiAssPrV
 layout: default
+origslug: indwiassprv
 slug: indwiassprv
 
 ---

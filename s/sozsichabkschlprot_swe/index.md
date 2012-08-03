@@ -1,7 +1,9 @@
 ---
 Title: Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und dem
   Königreich Schweden über Soziale Sicherheit
+jurabk: SozSichAbkSchlProt SWE
 layout: default
+origslug: sozsichabkschlprot_swe
 slug: sozsichabkschlprot_swe
 
 ---

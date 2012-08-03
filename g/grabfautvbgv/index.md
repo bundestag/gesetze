@@ -2,7 +2,9 @@
 Title: Verordnung zu der deutsch-österreichischen Vereinbarung vom 26. November 1993/10.
   Januar 1994 über die zeitweilige Grenzabfertigung an bestimmten Grenzübergängen
   auf deutschem und auf österreichischem Gebiet
+jurabk: GrAbfAUTVbgV
 layout: default
+origslug: grabfautvbgv
 slug: grabfautvbgv
 
 ---

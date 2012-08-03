@@ -6,7 +6,9 @@ Title: Verordnung zur Durchführung der Vereinbarung vom 28. Mai 1999 zwischen d
   (Szczecin Gumience), Küstrin-Kietz - Küstrin (Kostrzyn), Frankfurt (Oder) - Kunersdorf
   (Kunowice), Guben - Guben (Gubin), Forst - Skaren (Zasieki), Görlitz - Görlitz (Zgorzelec)
   und über die Grenzabfertigung während der Fahrt in Reisezügen auf bestimmten Strecken
+jurabk: GrAbfertVbgDVV POL
 layout: default
+origslug: grabfertvbgdvv_pol
 slug: grabfertvbgdvv_pol
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Saatgutverkehrsgesetz \*)
+jurabk: SaatVerkG 1985
 layout: default
+origslug: saatverkg_1985
 slug: saatverkg_1985
 
 ---

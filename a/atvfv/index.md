@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren bei der Genehmigung von Anlagen nach § 7 des
   Atomgesetzes
+jurabk: AtVfV
 layout: default
+origslug: atvfv
 slug: atvfv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Absatz von Weinalkohol aus Beständen der Interventionsstellen
+jurabk: WeinAlkoAbsV
 layout: default
+origslug: weinalkoabsv
 slug: weinalkoabsv
 
 ---

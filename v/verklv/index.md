@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berechtigten
   Auslandsvertretungen der Bundesrepublik Deutschland
+jurabk: VerklV
 layout: default
+origslug: verklv
 slug: verklv
 
 ---

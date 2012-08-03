@@ -1,8 +1,10 @@
 ---
 Title: Gesetz betreffend das Internationale Übereinkommen über die Heimschaffung der
   Schiffsleute
+jurabk: SchLHeimÜbkG
 layout: default
-slug: schlheim_bkg
+origslug: schlheim_bkg
+slug: schlheimuebkg
 
 ---
 

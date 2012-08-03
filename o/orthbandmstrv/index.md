@@ -2,7 +2,9 @@
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Orthopädiemechaniker- und
   Bandagisten-Handwerk
+jurabk: OrthBandMstrV
 layout: default
+origslug: orthbandmstrv
 slug: orthbandmstrv
 
 ---

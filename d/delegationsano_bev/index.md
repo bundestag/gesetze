@@ -3,7 +3,9 @@ Title: Anordnung des Präsidenten des Bundeseisenbahnvermögens über die Ernenn
   Entlassung von Beamtinnen und Beamten, über die Übertragung von Befugnissen, die
   Regelung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung bei Klagen
   aus dem Beamtenverhältnis im Geschäftsbereich des Bundeseisenbahnvermögens
+jurabk: DelegationsAnO BEV
 layout: default
+origslug: delegationsano_bev
 slug: delegationsano_bev
 
 ---

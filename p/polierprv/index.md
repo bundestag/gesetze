@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Polier
+jurabk: PolierPrV
 layout: default
+origslug: polierprv
 slug: polierprv
 
 ---

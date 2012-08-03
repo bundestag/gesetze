@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Einreichung zusammengefaßter Monatsausweise nach dem Gesetz
   über das Kreditwesen
+jurabk: ZuMonAwV
 layout: default
+origslug: zumonawv
 slug: zumonawv
 
 ---

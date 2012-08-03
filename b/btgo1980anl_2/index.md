@@ -1,7 +1,9 @@
 ---
 Title: Registrierung von Verbänden und deren Vertreter (Anlage 2 der Geschäftsordnung
   des Deutschen Bundestages, BGBl I 1980, 1237)
+jurabk: BTGO1980Anl 2
 layout: default
+origslug: btgo1980anl_2
 slug: btgo1980anl_2
 
 ---

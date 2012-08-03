@@ -2,7 +2,9 @@
 Title: Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung
   von Arzneimitteln und Wirkstoffen und über die Anwendung der Guten fachlichen Praxis
   bei der Herstellung von Produkten menschlicher Herkunft
+jurabk: AMWHV
 layout: default
+origslug: amwhv
 slug: amwhv
 
 ---

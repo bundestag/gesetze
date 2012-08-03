@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über Übergangsmaßnahmen für die chemikalienrechtliche Anmeldung
   von Stoffen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+jurabk: ChemÜV
 layout: default
-slug: chem_v
+origslug: chem_v
+slug: chemuev
 
 ---
 

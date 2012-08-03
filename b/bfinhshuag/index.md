@@ -2,7 +2,9 @@
 Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes
   an die Länder Schleswig-Holstein, Niedersachsen, Freie Hansestadt Bremen sowie Freie
   und Hansestadt Hamburg
+jurabk: BFinHSHuaG
 layout: default
+origslug: bfinhshuag
 slug: bfinhshuag
 
 ---

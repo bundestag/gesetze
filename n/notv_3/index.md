@@ -1,7 +1,9 @@
 ---
 Title: Dritte Verordnung des Reichspräsidenten zur Sicherung von Wirtschaft und Finanzen
   und zur Bekämpfung politischer Ausschreitungen
+jurabk: NotV 3
 layout: default
+origslug: notv_3
 slug: notv_3
 
 ---

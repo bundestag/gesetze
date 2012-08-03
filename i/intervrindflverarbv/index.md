@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Absatz von Rindfleisch aus staatlicher Lagerhaltung zum
   Zwecke der Verarbeitung in der Gemeinschaft
+jurabk: IntervRindFlVerarbV
 layout: default
+origslug: intervrindflverarbv
 slug: intervrindflverarbv
 
 ---

@@ -2,8 +2,10 @@
 Title: Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung der ersten
   gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland
   und der Deutschen Demokratischen Republik
+jurabk: GDtWahlVDVtrÄndVtr
 layout: default
-slug: gdtwahlvdvtr_ndvtr
+origslug: gdtwahlvdvtr_ndvtr
+slug: gdtwahlvdvtraendvtr
 
 ---
 

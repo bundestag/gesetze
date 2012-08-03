@@ -1,7 +1,9 @@
 ---
 Title: Wein-Überwachungsverordnung
+jurabk: WeinÜV 1995
 layout: default
-slug: wein_v_1995
+origslug: wein_v_1995
+slug: weinuev_1995
 
 ---
 

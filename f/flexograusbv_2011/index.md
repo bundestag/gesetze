@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Mediengestalter Flexografie
 und zur Mediengestalterin Flexografie
 ---
 Title: ''
+jurabk: FlexogrAusbV 2011
 layout: default
+origslug: flexograusbv_2011
 slug: flexograusbv_2011
 
 ---

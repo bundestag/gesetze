@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Änderung luftrechtlicher Verordnungen und Durchführungsverordnungen
   zur Regelung des Betriebes von Luftsportgeräten
+jurabk: LuftRÄndV
 layout: default
-slug: luftr_ndv
+origslug: luftr_ndv
+slug: luftraendv
 
 ---
 

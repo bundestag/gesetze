@@ -1,7 +1,9 @@
 ---
 Title: Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1
   des Gesetzes vom 7. August 1996, BGBl. I S. 1254)
+jurabk: SGB 7
 layout: default
+origslug: sgb_7
 slug: sgb_7
 
 ---

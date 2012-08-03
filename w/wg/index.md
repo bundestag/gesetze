@@ -1,6 +1,8 @@
 ---
 Title: Wechselgesetz
+jurabk: WG
 layout: default
+origslug: wg
 slug: wg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicherung
   land- und forstwirtschaftlicher Betriebe
+jurabk: GrdstVG
 layout: default
+origslug: grdstvg
 slug: grdstvg
 
 ---

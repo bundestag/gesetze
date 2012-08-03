@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zu dem Protokoll vom 19. Mai 1978 über Vorrechte, Befreiungen und
   Immunitäten der Internationalen Fernmeldesatellitenorganisation INTELSAT
+jurabk: INTELSATVorRProtV
 layout: default
+origslug: intelsatvorrprotv
 slug: intelsatvorrprotv
 
 ---

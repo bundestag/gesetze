@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
+jurabk: BBiG§84AnO 13
 layout: default
+origslug: bbig_84ano_13
 slug: bbig_84ano_13
 
 ---

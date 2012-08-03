@@ -1,6 +1,8 @@
 ---
 Title: Zweites Gesetz über den rechtlichen Status der Main-Donau-Wasserstraße
+jurabk: MainDonWasStrG 2
 layout: default
+origslug: maindonwasstrg_2
 slug: maindonwasstrg_2
 
 ---

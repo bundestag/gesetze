@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Vertrag vom 17. Juli 2003 zwischen der Bundesrepublik Deutschland
   und der Republik Polen über die Ergänzung des Europäischen Übereinkommens vom 20.
   April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
+jurabk: EuRHiÜbkErgVtrPOLG
 layout: default
-slug: eurhi_bkergvtrpolg
+origslug: eurhi_bkergvtrpolg
+slug: eurhiuebkergvtrpolg
 
 ---
 

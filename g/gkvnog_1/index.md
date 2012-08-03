@@ -1,7 +1,9 @@
 ---
 Title: Erstes Gesetz zur Neuordnung von Selbstverwaltung und Eigenverantwortung in
   der gesetzlichen Krankenversicherung
+jurabk: GKVNOG 1
 layout: default
+origslug: gkvnog_1
 slug: gkvnog_1
 
 ---

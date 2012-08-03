@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst
   der Fernmelde- und Elektronischen Aufklärung des Bundes
+jurabk: LAP-mDFm/EloAufklBundV
 layout: default
+origslug: lap-mdfm_eloaufklbundv
 slug: lap-mdfm_eloaufklbundv
 
 ---

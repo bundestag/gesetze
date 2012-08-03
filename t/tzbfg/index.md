@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Teilzeitarbeit und befristete Arbeitsverträge
+jurabk: TzBfG
 layout: default
+origslug: tzbfg
 slug: tzbfg
 
 ---

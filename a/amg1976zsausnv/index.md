@@ -2,7 +2,9 @@
 Title: Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes
   für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei
   sowie der Bereitschaftspolizeien der Länder
+jurabk: AMG1976ZSAusnV
 layout: default
+origslug: amg1976zsausnv
 slug: amg1976zsausnv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Prüfungsordnung nach § 10 des Gesetzes über die Ausübung der Zahnheilkunde
+jurabk: ZHG§10PrO
 layout: default
+origslug: zhg_10pro
 slug: zhg_10pro
 
 ---

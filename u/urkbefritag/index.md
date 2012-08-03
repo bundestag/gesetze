@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland
   und der Italienischen Republik über den Verzicht auf die Legalisation von Urkunden
+jurabk: UrkBefrITAG
 layout: default
+origslug: urkbefritag
 slug: urkbefritag
 
 ---

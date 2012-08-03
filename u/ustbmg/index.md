@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer Rechtsvorschriften
   an den EG-Binnenmarkt
+jurabk: UStBMG
 layout: default
+origslug: ustbmg
 slug: ustbmg
 
 ---

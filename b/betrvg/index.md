@@ -1,6 +1,8 @@
 ---
 Title: Betriebsverfassungsgesetz
+jurabk: BetrVG
 layout: default
+origslug: betrvg
 slug: betrvg
 
 ---

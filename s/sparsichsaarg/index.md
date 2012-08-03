@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherung von Ersparnissen im Saarland
+jurabk: SparSichSaarG
 layout: default
+origslug: sparsichsaarg
 slug: sparsichsaarg
 
 ---

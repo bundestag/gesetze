@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Mutterschutz für Beamtinnen des Bundes und die Elternzeit
   für Beamtinnen und Beamte des Bundes
+jurabk: MuSchEltZV
 layout: default
+origslug: muscheltzv
 slug: muscheltzv
 
 ---

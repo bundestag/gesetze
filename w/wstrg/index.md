@@ -1,6 +1,8 @@
 ---
 Title: Wehrstrafgesetz
+jurabk: WStrG
 layout: default
+origslug: wstrg
 slug: wstrg
 
 ---

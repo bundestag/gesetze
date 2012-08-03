@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung des Bundesamts für Justiz
+jurabk: BfJG
 layout: default
+origslug: bfjg
 slug: bfjg
 
 ---

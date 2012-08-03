@@ -2,7 +2,9 @@
 Title: Zweihundertsiebte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Berlin-Tegel)
+jurabk: LuftVODV 207
 layout: default
+origslug: luftvodv_207
 slug: luftvodv_207
 
 ---

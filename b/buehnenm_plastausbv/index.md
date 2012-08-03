@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin
   und -plastikerin
+jurabk: BühnenM/PlastAusbV
 layout: default
-slug: b_hnenm_plastausbv
+origslug: b_hnenm_plastausbv
+slug: buehnenm_plastausbv
 
 ---
 

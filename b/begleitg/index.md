@@ -1,6 +1,8 @@
 ---
 Title: Begleitgesetz zum Telekommunikationsgesetz
+jurabk: BegleitG
 layout: default
+origslug: begleitg
 slug: begleitg
 
 ---

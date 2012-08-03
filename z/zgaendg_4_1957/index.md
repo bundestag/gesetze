@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung des Zollgesetzes
+jurabk: ZGÄndG 4 1957
 layout: default
-slug: zg_ndg_4_1957
+origslug: zg_ndg_4_1957
+slug: zgaendg_4_1957
 
 ---
 

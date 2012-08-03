@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Gärtner/zur Gärtnerin
+jurabk: GartAusbStEignV
 layout: default
+origslug: gartausbsteignv
 slug: gartausbsteignv
 
 ---

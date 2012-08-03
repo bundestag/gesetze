@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbraucherschutz
   und Lebensmittelsicherheit
+jurabk: BVLAÜV
 layout: default
-slug: bvla_v
+origslug: bvla_v
+slug: bvlauev
 
 ---
 

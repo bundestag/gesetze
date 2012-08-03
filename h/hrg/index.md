@@ -1,6 +1,8 @@
 ---
 Title: Hochschulrahmengesetz
+jurabk: HRG
 layout: default
+origslug: hrg
 slug: hrg
 
 ---

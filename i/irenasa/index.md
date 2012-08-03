@@ -1,6 +1,8 @@
 ---
 Title: Satzung der Internationalen Organisation für erneuerbare Energien
+jurabk: IRENASa
 layout: default
+origslug: irenasa
 slug: irenasa
 
 ---

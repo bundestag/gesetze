@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Steuerstatistiken
+jurabk: StStatG 1995
 layout: default
+origslug: ststatg_1995
 slug: ststatg_1995
 
 ---

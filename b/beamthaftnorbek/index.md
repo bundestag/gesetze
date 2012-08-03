@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten
   gegenüber den Angehörigen des Königreichs Norwegen
+jurabk: BeamtHaftNORBek
 layout: default
+origslug: beamthaftnorbek
 slug: beamthaftnorbek
 
 ---

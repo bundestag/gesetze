@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Tischler/zur Tischlerin
+jurabk: TischlAusbV 2006
 layout: default
+origslug: tischlausbv_2006
 slug: tischlausbv_2006
 
 ---

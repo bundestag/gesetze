@@ -2,7 +2,9 @@
 Title: Zweihundertsechsunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
   und vom Flughafen Barth)
+jurabk: LuftVODV 236
 layout: default
+origslug: luftvodv_236
 slug: luftvodv_236
 
 ---

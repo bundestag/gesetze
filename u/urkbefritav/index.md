@@ -3,7 +3,9 @@ Title: Verordnung über die Bestimmung der Behörde, die für die Beglaubigung n
   2 des Vertrages vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland und der
   Italienischen Republik über den Verzicht auf die Legalisation von Urkunden zuständig
   ist
+jurabk: UrkBefrITAV
 layout: default
+origslug: urkbefritav
 slug: urkbefritav
 
 ---

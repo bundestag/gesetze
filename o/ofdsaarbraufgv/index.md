@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Saarbrücken
+jurabk: OFDSaarbrAufgV
 layout: default
+origslug: ofdsaarbraufgv
 slug: ofdsaarbraufgv
 
 ---

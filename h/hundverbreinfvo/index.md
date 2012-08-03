@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Ausnahmen zum Verbringungs- und Einfuhrverbot von gefährlichen
   Hunden in das Inland
+jurabk: HundVerbrEinfVO
 layout: default
+origslug: hundverbreinfvo
 slug: hundverbreinfvo
 
 ---

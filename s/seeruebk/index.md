@@ -1,7 +1,9 @@
 ---
 Title: Seerechtsübereinkommen der Vereinten Nationen
+jurabk: SeeRÜbk
 layout: default
-slug: seer_bk
+origslug: seer_bk
+slug: seeruebk
 
 ---
 

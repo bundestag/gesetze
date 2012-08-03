@@ -1,7 +1,9 @@
 ---
 Title: Kostenverordnung für die Stellungnahmen der Gendiagnostik-Kommission nach dem
   Gendiagnostikgesetz
+jurabk: GenDKKostV
 layout: default
+origslug: gendkkostv
 slug: gendkkostv
 
 ---

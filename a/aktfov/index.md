@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Aktionärsforum nach § 127a des Aktiengesetzes
+jurabk: AktFoV
 layout: default
+origslug: aktfov
 slug: aktfov
 
 ---

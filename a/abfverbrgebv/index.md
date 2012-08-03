@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verbringungen
   von Abfällen durch die Bundesrepublik Deutschland
+jurabk: AbfVerbrGebV
 layout: default
+origslug: abfverbrgebv
 slug: abfverbrgebv
 
 ---

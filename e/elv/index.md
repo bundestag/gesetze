@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Verwendung von Extraktionslösungsmitteln und anderen technischen
   Hilfsstoffen bei der Herstellung von Lebensmitteln
+jurabk: ELV
 layout: default
+origslug: elv
 slug: elv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den militärischen Abschirmdienst
+jurabk: MADG
 layout: default
+origslug: madg
 slug: madg
 
 ---

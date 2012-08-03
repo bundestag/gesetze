@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung in der Deutschen Demokratischen Republik nicht erfüllter
   Entschädigungsansprüche aus Enteignung
+jurabk: DDR-EErfG
 layout: default
+origslug: ddr-eerfg
 slug: ddr-eerfg
 
 ---

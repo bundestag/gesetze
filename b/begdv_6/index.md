@@ -1,6 +1,8 @@
 ---
 Title: Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+jurabk: BEGDV 6
 layout: default
+origslug: begdv_6
 slug: begdv_6
 
 ---

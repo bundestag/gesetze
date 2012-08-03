@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten
   für Netto-Leerverkaufspositionen
+jurabk: NLPosV
 layout: default
+origslug: nlposv
 slug: nlposv
 
 ---

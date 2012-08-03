@@ -1,6 +1,8 @@
 ---
 Title: Auslandskostengesetz
+jurabk: AKostG
 layout: default
+origslug: akostg
 slug: akostg
 
 ---

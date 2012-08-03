@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Entlastung der Unternehmen des Gastgewerbes von monatlichen
   Berichtspflichten nach dem Handelsstatistikgesetz
+jurabk: GastStatV
 layout: default
+origslug: gaststatv
 slug: gaststatv
 
 ---

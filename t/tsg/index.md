@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit
   in besonderen Fällen
+jurabk: TSG
 layout: default
+origslug: tsg
 slug: tsg
 
 ---

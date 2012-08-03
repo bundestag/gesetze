@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung
   durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen
+jurabk: IntMeerSchÜbk1973G
 layout: default
-slug: intmeersch_bk1973g
+origslug: intmeersch_bk1973g
+slug: intmeerschuebk1973g
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zur Beilegung von Investitionsstreitigkeiten zwischen Staaten
   und Angehörigen anderer Staaten
+jurabk: InvStreitÜbk
 layout: default
-slug: invstreit_bk
+origslug: invstreit_bk
+slug: invstreituebk
 
 ---
 

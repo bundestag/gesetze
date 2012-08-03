@@ -1,6 +1,8 @@
 ---
 Title: Durchführungsbestimmungen zu den Vorschriften über die Zuständigkeit der Ausgleichsämter
+jurabk: AusglAZustDB
 layout: default
+origslug: ausglazustdb
 slug: ausglazustdb
 
 ---

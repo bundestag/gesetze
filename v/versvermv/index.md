@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Versicherungsvermittlung und -beratung
+jurabk: VersVermV
 layout: default
+origslug: versvermv
 slug: versvermv
 
 ---

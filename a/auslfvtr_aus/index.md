@@ -1,6 +1,8 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und Australien über die Auslieferung
+jurabk: AuslfVtr AUS
 layout: default
+origslug: auslfvtr_aus
 slug: auslfvtr_aus
 
 ---

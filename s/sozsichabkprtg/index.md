@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 6. November 1964 zwischen der Bundesrepublik Deutschland
   und der Portugiesischen Republik über Soziale Sicherheit
+jurabk: SozSichAbkPRTG
 layout: default
+origslug: sozsichabkprtg
 slug: sozsichabkprtg
 
 ---

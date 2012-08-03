@@ -1,6 +1,8 @@
 ---
 Title: Postpaketabkommen
+jurabk: PostPakAbk 1984
 layout: default
+origslug: postpakabk_1984
 slug: postpakabk_1984
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Europäisches Fürsorgeabkommen
+jurabk: EuFürsAbk
 layout: default
-slug: euf_rsabk
+origslug: euf_rsabk
+slug: eufuersabk
 
 ---
 

@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Augenoptiker und zur
 Augenoptikerin
 ---
 Title: ''
+jurabk: AugenoptAusbV
 layout: default
+origslug: augenoptausbv
 slug: augenoptausbv
 
 ---

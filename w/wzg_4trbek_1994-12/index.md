@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4TRBek 1994-12
 layout: default
+origslug: wzg_4trbek_1994-12
 slug: wzg_4trbek_1994-12
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
   Deutschland und dem Königreich Belgien
+jurabk: KonsVerBELV
 layout: default
+origslug: konsverbelv
 slug: konsverbelv
 
 ---

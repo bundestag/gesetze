@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gedenkmünze 150. Gründungstag des Deutschen Zollvereins)
+jurabk: Münz5DMBek 1984-04
 layout: default
-slug: m_nz5dmbek_1984-04
+origslug: m_nz5dmbek_1984-04
+slug: muenz5dmbek_1984-04
 
 ---
 

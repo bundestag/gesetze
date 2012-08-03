@@ -1,6 +1,8 @@
 ---
 Title: Tierische Nebenprodukte-Beseitigungsgesetz
+jurabk: TierNebG
 layout: default
+origslug: tiernebg
 slug: tiernebg
 
 ---

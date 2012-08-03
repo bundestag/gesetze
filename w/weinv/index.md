@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften
+jurabk: WeinV
 layout: default
+origslug: weinv
 slug: weinv
 
 ---

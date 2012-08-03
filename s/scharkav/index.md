@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bekämpfung der Scharkakrankheit
+jurabk: ScharkaV
 layout: default
+origslug: scharkav
 slug: scharkav
 
 ---

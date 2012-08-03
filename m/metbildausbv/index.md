@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Metallbildner/zur Metallbildnerin
+jurabk: MetBildAusbV
 layout: default
+origslug: metbildausbv
 slug: metbildausbv
 
 ---

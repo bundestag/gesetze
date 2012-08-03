@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 1957
   und zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in
   Strafsachen
+jurabk: EuAuslf/RHiÜbkG
 layout: default
-slug: euauslf_rhi_bkg
+origslug: euauslf_rhi_bkg
+slug: euauslf_rhiuebkg
 
 ---
 

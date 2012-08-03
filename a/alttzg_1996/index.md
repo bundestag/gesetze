@@ -1,6 +1,8 @@
 ---
 Title: Altersteilzeitgesetz
+jurabk: AltTZG 1996
 layout: default
+origslug: alttzg_1996
 slug: alttzg_1996
 
 ---

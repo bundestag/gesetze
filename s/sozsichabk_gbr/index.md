@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten KÖnigreich
   Großbritannien und Nordirland über Soziale Sicherheit
+jurabk: SozSichAbk GBR
 layout: default
+origslug: sozsichabk_gbr
 slug: sozsichabk_gbr
 
 ---

@@ -2,8 +2,10 @@
 Title: Übereinkommen über die Annahme einheitlicher Bedingungen für die Genehmigung
   der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen (Motorfahrzeugen) und über
   die gegenseitige Anerkennung der Genehmigung
+jurabk: FzgTeilÜbk
 layout: default
-slug: fzgteil_bk
+origslug: fzgteil_bk
+slug: fzgteiluebk
 
 ---
 

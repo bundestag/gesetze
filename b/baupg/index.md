@@ -3,7 +3,9 @@ Title: Gesetz über das Inverkehrbringen von und den freien Warenverkehr mit Bau
   zur Umsetzung der Richtlinie 89/106/EWG des Rates vom 21. Dezember 1988 zur Angleichung
   der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Bauprodukte und
   anderer Rechtsakte der Europäischen Gemeinschaften
+jurabk: BauPG
 layout: default
+origslug: baupg
 slug: baupg
 
 ---

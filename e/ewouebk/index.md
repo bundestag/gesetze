@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Gründung einer Europäischen Weltraumorganisation
+jurabk: EWOÜbk
 layout: default
-slug: ewo_bk
+origslug: ewo_bk
+slug: ewouebk
 
 ---
 

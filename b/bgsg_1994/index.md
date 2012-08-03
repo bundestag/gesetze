@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Bundespolizei
+jurabk: BGSG 1994
 layout: default
+origslug: bgsg_1994
 slug: bgsg_1994
 
 ---

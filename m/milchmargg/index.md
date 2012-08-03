@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Milch, Milcherzeugnisse, Margarineerzeugnisse und ähnliche Erzeugnisse
+jurabk: MilchMargG
 layout: default
+origslug: milchmargg
 slug: milchmargg
 
 ---

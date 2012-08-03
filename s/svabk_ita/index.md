@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik
   über Sozialversicherung
+jurabk: SVAbk ITA
 layout: default
+origslug: svabk_ita
 slug: svabk_ita
 
 ---

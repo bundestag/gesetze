@@ -1,6 +1,8 @@
 ---
 Title: Einheitliche Europäische Akte
+jurabk: EinhEuA
 layout: default
+origslug: einheua
 slug: einheua
 
 ---

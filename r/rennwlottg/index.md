@@ -1,6 +1,8 @@
 ---
 Title: Rennwett- und Lotteriegesetz
+jurabk: RennwLottG
 layout: default
+origslug: rennwlottg
 slug: rennwlottg
 
 ---

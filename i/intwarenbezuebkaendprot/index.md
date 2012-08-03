@@ -1,8 +1,10 @@
 ---
 Title: Änderungsprotokoll zum Internationalen Übereinkommen über das Harmonisierte
   System zur Bezeichnung und Codierung der Waren
+jurabk: IntWarenBezÜbkÄndProt
 layout: default
-slug: intwarenbez_bk_ndprot
+origslug: intwarenbez_bk_ndprot
+slug: intwarenbezuebkaendprot
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Schiffsbesetzungsverordnung
+jurabk: SchBesV 1999
 layout: default
+origslug: schbesv_1999
 slug: schbesv_1999
 
 ---

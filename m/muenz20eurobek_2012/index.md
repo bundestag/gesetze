@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 20 Euro (Goldmünze „Fichte“ der Serie „Deutscher Wald“)
+jurabk: Münz20EuroBek 2012
 layout: default
-slug: m_nz20eurobek_2012
+origslug: m_nz20eurobek_2012
+slug: muenz20eurobek_2012
 
 ---
 

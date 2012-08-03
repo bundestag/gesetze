@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über das Statut der Genossenschaftsbank Berlin
+jurabk: GenBkBEAnO
 layout: default
+origslug: genbkbeano
 slug: genbkbeano
 
 ---

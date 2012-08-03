@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen Vereinsrechts
   (Vereinsgesetz)
+jurabk: VereinsGDV
 layout: default
+origslug: vereinsgdv
 slug: vereinsgdv
 
 ---

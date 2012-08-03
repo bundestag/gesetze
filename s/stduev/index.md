@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die elektronische Übermittlung von für das Besteuerungsverfahren
   erforderlichen Daten
+jurabk: StDÜV
 layout: default
-slug: std_v
+origslug: std_v
+slug: stduev
 
 ---
 

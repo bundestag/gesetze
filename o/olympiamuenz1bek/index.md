@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Olympiamünze - 1. Motiv/Aufstockung)
+jurabk: OlympiaMünz1Bek
 layout: default
-slug: olympiam_nz1bek
+origslug: olympiam_nz1bek
+slug: olympiamuenz1bek
 
 ---
 

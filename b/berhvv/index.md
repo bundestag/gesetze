@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken im Bereich der Beratungshilfe
+jurabk: BerHVV
 layout: default
+origslug: berhvv
 slug: berhvv
 
 ---

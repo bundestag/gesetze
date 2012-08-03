@@ -4,7 +4,9 @@ und Antriebstechnik und zur Elektronikerin für Maschinen und
 Antriebstechnik
 ---
 Title: ''
+jurabk: MaATElektronAusbV 2008
 layout: default
+origslug: maatelektronausbv_2008
 slug: maatelektronausbv_2008
 
 ---

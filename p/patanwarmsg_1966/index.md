@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Beiordnung von Patentanwälten bei Prozeßkostenhilfe
+jurabk: PatAnwArmSG 1966
 layout: default
+origslug: patanwarmsg_1966
 slug: patanwarmsg_1966
 
 ---

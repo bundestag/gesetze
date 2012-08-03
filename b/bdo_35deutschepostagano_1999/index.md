@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung der Befugnisse der Einleitungsbehörde im Sinne des
   § 35 der Bundesdisziplinarordnung im Bereich der Deutschen Post AG
+jurabk: BDO§35DeutschePostAGAnO 1999
 layout: default
+origslug: bdo_35deutschepostagano_1999
 slug: bdo_35deutschepostagano_1999
 
 ---

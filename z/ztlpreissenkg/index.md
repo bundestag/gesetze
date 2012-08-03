@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Absenkung der Preise für zahntechnische Leistungen
+jurabk: ZTLPreissenkG
 layout: default
+origslug: ztlpreissenkg
 slug: ztlpreissenkg
 
 ---

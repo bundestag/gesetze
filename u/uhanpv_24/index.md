@@ -1,6 +1,8 @@
 ---
 Title: Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe nach dem Lastenausgleichsgesetz
+jurabk: UhAnpV 24
 layout: default
+origslug: uhanpv_24
 slug: uhanpv_24
 
 ---

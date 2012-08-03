@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einrichtung und Führung des Zentralen Testamentsregisters
+jurabk: ZTRV
 layout: default
+origslug: ztrv
 slug: ztrv
 
 ---

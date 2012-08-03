@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen
   Versorgung im Geschäftsbereich der Deutschen Telekom AG
+jurabk: ZOVersDTAG
 layout: default
+origslug: zoversdtag
 slug: zoversdtag
 
 ---

@@ -2,8 +2,10 @@
 Verordnung über die Kehrung und Überprüfung von Anlagen
 ---
 Title: ''
+jurabk: KÜO
 layout: default
-slug: k_o
+origslug: k_o
+slug: kueo
 
 ---
 

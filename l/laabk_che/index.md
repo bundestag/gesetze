@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
   zum deutschen Lastenausgleich
+jurabk: LAAbk CHE
 layout: default
+origslug: laabk_che
 slug: laabk_che
 
 ---

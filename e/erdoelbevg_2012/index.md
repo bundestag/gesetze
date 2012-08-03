@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Bevorratung mit Erdöl und Erdölerzeugnissen
+jurabk: ErdölBevG 2012
 layout: default
-slug: erd_lbevg_2012
+origslug: erd_lbevg_2012
+slug: erdoelbevg_2012
 
 ---
 

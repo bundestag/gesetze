@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
   für 1998 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1998
+jurabk: BSV 1998
 layout: default
+origslug: bsv_1998
 slug: bsv_1998
 
 ---

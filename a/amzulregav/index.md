@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Festlegung von Anforderungen an den Antrag auf Zulassung, Verlängerung
   der Zulassung und Registrierung von Arzneimitteln
+jurabk: AMZulRegAV
 layout: default
+origslug: amzulregav
 slug: amzulregav
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über klinische Prüfungen von Medizinprodukten
+jurabk: MPKPV
 layout: default
+origslug: mpkpv
 slug: mpkpv
 
 ---

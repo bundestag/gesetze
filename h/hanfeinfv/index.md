@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Einfuhr von Hanf aus Drittländern
+jurabk: HanfEinfV
 layout: default
+origslug: hanfeinfv
 slug: hanfeinfv
 
 ---

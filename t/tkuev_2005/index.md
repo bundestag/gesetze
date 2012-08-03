@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die technische und organisatorische Umsetzung von Maßnahmen
   zur Überwachung der Telekommunikation
+jurabk: TKÜV 2005
 layout: default
-slug: tk_v_2005
+origslug: tk_v_2005
+slug: tkuev_2005
 
 ---
 

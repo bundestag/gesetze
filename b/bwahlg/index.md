@@ -1,6 +1,8 @@
 ---
 Title: Bundeswahlgesetz
+jurabk: BWahlG
 layout: default
+origslug: bwahlg
 slug: bwahlg
 
 ---

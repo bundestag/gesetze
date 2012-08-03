@@ -1,6 +1,8 @@
 ---
 Title: Zollkostenverordnung
+jurabk: ZollKostV
 layout: default
+origslug: zollkostv
 slug: zollkostv
 
 ---

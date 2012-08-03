@@ -3,7 +3,9 @@ Title: Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlas
   Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
   sowie über die Vertretung in bürgerlichen oder sonstigen rechtlichen Angelegenheiten
   im Geschäftsbereich des Bundeskanzleramtes
+jurabk: BKWid/VtrAnO
 layout: default
+origslug: bkwid_vtrano
 slug: bkwid_vtrano
 
 ---

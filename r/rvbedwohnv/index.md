@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge für Bedienstete
   der Träger der Rentenversicherung
+jurabk: RVBedWohnV
 layout: default
+origslug: rvbedwohnv
 slug: rvbedwohnv
 
 ---

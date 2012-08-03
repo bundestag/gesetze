@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zu Mitteilungs- und Übermittlungspflichten zu gesundheitlich nicht
   erwünschten Stoffen
+jurabk: MitÜbermitV
 layout: default
-slug: mit_bermitv
+origslug: mit_bermitv
+slug: mituebermitv
 
 ---
 

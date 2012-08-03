@@ -1,7 +1,9 @@
 ---
 Title: Achte Verordnung zum Produktsicherheitsgesetz (Verordnung über die Bereitstellung
   von persönlichen Schutzausrüstungen auf dem Markt)
+jurabk: GSGV 8
 layout: default
+origslug: gsgv_8
 slug: gsgv_8
 
 ---

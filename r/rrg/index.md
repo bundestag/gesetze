@@ -2,7 +2,9 @@
 Title: Gesetz zur weiteren Reform der gesetzlichen Rentenversicherungen und über die
   Fünfzehnte Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie
   über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
+jurabk: RRG
 layout: default
+origslug: rrg
 slug: rrg
 
 ---

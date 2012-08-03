@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über den Schutz der Meeresumwelt des Ostseegebiets
+jurabk: OstSUmwSchÜbk
 layout: default
-slug: ostsumwsch_bk
+origslug: ostsumwsch_bk
+slug: ostsumwschuebk
 
 ---
 

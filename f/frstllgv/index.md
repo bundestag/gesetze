@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Befreiung bestimmter Beförderungsfälle von den Vorschriften
   des Personenbeförderungsgesetzes
+jurabk: FrStllgV
 layout: default
+origslug: frstllgv
 slug: frstllgv
 
 ---

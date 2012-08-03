@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Parteien und andere politische Vereinigungen
+jurabk: PartG DDR
 layout: default
+origslug: partg_ddr
 slug: partg_ddr
 
 ---

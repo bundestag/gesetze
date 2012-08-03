@@ -2,7 +2,9 @@
 Title: Verordnung über die Voraussetzungen der Anerkennung von Studiengängen nach
   § 8a der Wirtschaftsprüferordnung und über die Anrechnung von Prüfungsleistungen
   aus Studiengängen nach § 13b der Wirtschaftsprüferordnung
+jurabk: WPAnrV
 layout: default
+origslug: wpanrv
 slug: wpanrv
 
 ---

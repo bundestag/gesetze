@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung der Luftfahrtverwaltung
+jurabk: LuftKostV
 layout: default
+origslug: luftkostv
 slug: luftkostv
 
 ---

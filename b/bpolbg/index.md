@@ -1,6 +1,8 @@
 ---
 Title: Bundespolizeibeamtengesetz
+jurabk: BPolBG
 layout: default
+origslug: bpolbg
 slug: bpolbg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister
+jurabk: AZRG-DV
 layout: default
+origslug: azrg-dv
 slug: azrg-dv
 
 ---

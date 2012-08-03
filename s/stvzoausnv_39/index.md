@@ -1,6 +1,8 @@
 ---
 Title: Neununddreißigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 39
 layout: default
+origslug: stvzoausnv_39
 slug: stvzoausnv_39
 
 ---

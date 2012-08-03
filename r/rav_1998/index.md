@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahre 1998
+jurabk: RAV 1998
 layout: default
+origslug: rav_1998
 slug: rav_1998
 
 ---

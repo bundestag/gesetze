@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für Bürokommunikation/zur
   Kauffrau für Bürokommunikation
+jurabk: BKKfAusbV
 layout: default
+origslug: bkkfausbv
 slug: bkkfausbv
 
 ---

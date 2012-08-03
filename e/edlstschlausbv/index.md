@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Edelsteinschleifer/zur Edelsteinschleiferin
+jurabk: EdlStSchlAusbV
 layout: default
+origslug: edlstschlausbv
 slug: edlstschlausbv
 
 ---

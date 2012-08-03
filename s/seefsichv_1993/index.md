@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Sicherung der Seefahrt
+jurabk: SeeFSichV 1993
 layout: default
+origslug: seefsichv_1993
 slug: seefsichv_1993
 
 ---

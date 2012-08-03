@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 8. November 1991 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Republik Polen über die Binnenschiffahrt
+jurabk: BinSchAbkPOLG
 layout: default
+origslug: binschabkpolg
 slug: binschabkpolg
 
 ---

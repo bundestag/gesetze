@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Flächen
+jurabk: FGlG
 layout: default
+origslug: fglg
 slug: fglg
 
 ---

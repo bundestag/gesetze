@@ -1,6 +1,8 @@
 ---
 Title: Jugendschutzgesetz
+jurabk: JuSchG
 layout: default
+origslug: juschg
 slug: juschg
 
 ---

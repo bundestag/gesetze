@@ -1,6 +1,8 @@
 ---
 Title: Umwandlungssteuergesetz
+jurabk: UmwStG 1995
 layout: default
+origslug: umwstg_1995
 slug: umwstg_1995
 
 ---

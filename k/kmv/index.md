@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln
+jurabk: KmV
 layout: default
+origslug: kmv
 slug: kmv
 
 ---

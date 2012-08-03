@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 8. Oktober 2008 zwischen der Bundesrepublik Deutschland
   und der Republik Indien über Sozialversicherung
+jurabk: SVAbkING
 layout: default
+origslug: svabking
 slug: svabking
 
 ---

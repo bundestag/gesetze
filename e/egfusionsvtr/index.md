@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Kommission
   der Europäischen Gemeinschaften
+jurabk: EGFusionsVtr
 layout: default
+origslug: egfusionsvtr
 slug: egfusionsvtr
 
 ---

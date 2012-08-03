@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
   bei der Durchführung des Kraft-Wärme-Kopplungsgesetzes
+jurabk: KWKG2002GebV
 layout: default
+origslug: kwkg2002gebv
 slug: kwkg2002gebv
 
 ---

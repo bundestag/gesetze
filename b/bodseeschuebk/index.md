@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Schiffahrt auf dem Bodensee
+jurabk: BodSeeSchÜbk
 layout: default
-slug: bodseesch_bk
+origslug: bodseesch_bk
+slug: bodseeschuebk
 
 ---
 

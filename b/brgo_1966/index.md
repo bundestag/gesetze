@@ -1,6 +1,8 @@
 ---
 Title: Geschäftsordnung des Bundesrates
+jurabk: BRGO 1966
 layout: default
+origslug: brgo_1966
 slug: brgo_1966
 
 ---

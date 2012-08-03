@@ -1,6 +1,8 @@
 ---
 Title: NS-Verfolgtenentschädigungsgesetz
+jurabk: NS-VEntschG
 layout: default
+origslug: ns-ventschg
 slug: ns-ventschg
 
 ---

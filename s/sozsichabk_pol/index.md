@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über
   Soziale Sicherheit
+jurabk: SozSichAbk POL
 layout: default
+origslug: sozsichabk_pol
 slug: sozsichabk_pol
 
 ---

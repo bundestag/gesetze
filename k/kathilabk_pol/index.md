@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über
   die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+jurabk: KatHiLAbk POL
 layout: default
+origslug: kathilabk_pol
 slug: kathilabk_pol
 
 ---

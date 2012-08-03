@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erfassung, Bemessung, Gewichtung und Anzeige von Krediten
   im Bereich der Großkredit- und Millionenkreditvorschriften des Kreditwesengesetzes
+jurabk: GroMiKV 2007
 layout: default
+origslug: gromikv_2007
 slug: gromikv_2007
 
 ---

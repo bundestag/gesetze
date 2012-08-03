@@ -1,6 +1,8 @@
 ---
 Title: Dritte Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
+jurabk: BewG§39DV 3
 layout: default
+origslug: bewg_39dv_3
 slug: bewg_39dv_3
 
 ---

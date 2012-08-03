@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausdehnung der Mautpflicht auf bestimmte Abschnitte von  Bundesstraßen
+jurabk: MautStrAusdehnV
 layout: default
+origslug: mautstrausdehnv
 slug: mautstrausdehnv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Anpassung des festen Betrages an die Preisentwicklung für die
   Erstattung der Wahlkosten durch den Bund
+jurabk: WahlKErstV
 layout: default
+origslug: wahlkerstv
 slug: wahlkerstv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Ausführungsverordnung zum Gesetz über die Einheiten im Messwesen und die Zeitbestimmung
+jurabk: EinhV
 layout: default
+origslug: einhv
 slug: einhv
 
 ---

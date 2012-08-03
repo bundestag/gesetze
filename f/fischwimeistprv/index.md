@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Fischwirt
+jurabk: FischWiMeistPrV
 layout: default
+origslug: fischwimeistprv
 slug: fischwimeistprv
 
 ---

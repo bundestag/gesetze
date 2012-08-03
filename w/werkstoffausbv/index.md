@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin
+jurabk: WerkstoffAusbV
 layout: default
+origslug: werkstoffausbv
 slug: werkstoffausbv
 
 ---

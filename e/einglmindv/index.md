@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Mindestanforderungen an die Vereinbarungen über Leistungen
   der Eingliederung nach dem Zweiten Buch Sozialgesetzbuch
+jurabk: EinglMindV
 layout: default
+origslug: einglmindv
 slug: einglmindv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchsetzung gemeinschaftsrechtlicher Verordnungen über Stoffe
   und Zubereitungen
+jurabk: ChemStrOWiV
 layout: default
+origslug: chemstrowiv
 slug: chemstrowiv
 
 ---

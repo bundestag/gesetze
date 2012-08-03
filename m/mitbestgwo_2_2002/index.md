@@ -1,6 +1,8 @@
 ---
 Title: Zweite Wahlordnung zum Mitbestimmungsgesetz
+jurabk: MitbestGWO 2 2002
 layout: default
+origslug: mitbestgwo_2_2002
 slug: mitbestgwo_2_2002
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Gewährung eines dem Sortenschutz entsprechenden Schutzes
   im Ausland
+jurabk: SortSchBek 1993
 layout: default
+origslug: sortschbek_1993
 slug: sortschbek_1993
 
 ---

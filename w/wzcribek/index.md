@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Costa
   Rica
+jurabk: WZCRIBek
 layout: default
+origslug: wzcribek
 slug: wzcribek
 
 ---

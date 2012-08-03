@@ -1,6 +1,8 @@
 ---
 Title: Vertrag über Konventionelle Streitkräfte in Europa
+jurabk: KSEVtr
 layout: default
+origslug: ksevtr
 slug: ksevtr
 
 ---

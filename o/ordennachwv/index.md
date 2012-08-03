@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis
   von Verwundungen und Beschädigungen
+jurabk: OrdenNachwV
 layout: default
+origslug: ordennachwv
 slug: ordennachwv
 
 ---

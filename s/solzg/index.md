@@ -1,6 +1,8 @@
 ---
 Title: Solidaritätszuschlaggesetz
+jurabk: SolZG
 layout: default
+origslug: solzg
 slug: solzg
 
 ---

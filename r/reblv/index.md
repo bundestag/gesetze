@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bekämpfung der Reblaus
+jurabk: ReblV
 layout: default
+origslug: reblv
 slug: reblv
 
 ---

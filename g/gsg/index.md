@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherung und Strukturverbesserung der gesetzlichen Krankenversicherung
+jurabk: GSG
 layout: default
+origslug: gsg
 slug: gsg
 
 ---

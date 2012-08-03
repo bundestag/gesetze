@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung über die Freistellung von Unternehmen mit Sitz außerhalb der
   Europäischen Gemeinschaft von Vorschriften des Gesetzes über das Kreditwesen
+jurabk: FreistV
 layout: default
+origslug: freistv
 slug: freistv
 
 ---

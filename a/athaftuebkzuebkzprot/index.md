@@ -1,8 +1,10 @@
 ---
 Title: Zusatzprotokoll zum Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen
   vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie
+jurabk: AtHaftÜbkZÜbkZProt
 layout: default
-slug: athaft_bkz_bkzprot
+origslug: athaft_bkz_bkzprot
+slug: athaftuebkzuebkzprot
 
 ---
 

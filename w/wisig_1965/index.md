@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen
   Wirtschaft sowie des Geld- und Kapitalverkehrs
+jurabk: WiSiG 1965
 layout: default
+origslug: wisig_1965
 slug: wisig_1965
 
 ---

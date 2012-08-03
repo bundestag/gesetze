@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Vereinbarung vom 20. April 2010 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung von Quebec über Soziale Sicherheit
+jurabk: SozSichVbgCANG
 layout: default
+origslug: sozsichvbgcang
 slug: sozsichvbgcang
 
 ---

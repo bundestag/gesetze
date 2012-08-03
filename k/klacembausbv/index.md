@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer/zur Klavier-
   und Cembalobauerin
+jurabk: KlaCembAusbV
 layout: default
+origslug: klacembausbv
 slug: klacembausbv
 
 ---

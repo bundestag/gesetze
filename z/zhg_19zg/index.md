@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zulassung von nach § 19 des Zahnheilkundegesetzes berechtigten
   Personen zur Behandlung der Versicherten in der gesetzlichen Krankenversicherung
+jurabk: ZHG§19ZG
 layout: default
+origslug: zhg_19zg
 slug: zhg_19zg
 
 ---

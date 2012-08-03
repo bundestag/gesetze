@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fotolaboranten/zur Fotolaborantin
+jurabk: FotoLabAusbV
 layout: default
+origslug: fotolabausbv
 slug: fotolabausbv
 
 ---

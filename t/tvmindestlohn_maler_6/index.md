@@ -2,7 +2,9 @@
 Title: Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche
   Arbeitnehmer im Maler- und Lackiererhandwerk vom 25. November 2011 in der Fassung
   des Änderungstarifvertrags vom 8. Februar 2012 (TV Mindestlohn)
+jurabk: TVMindestlohn Maler 6
 layout: default
+origslug: tvmindestlohn_maler_6
 slug: tvmindestlohn_maler_6
 
 ---

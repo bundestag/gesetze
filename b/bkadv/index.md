@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes
   gespeichert werden dürfen
+jurabk: BKADV
 layout: default
+origslug: bkadv
 slug: bkadv
 
 ---

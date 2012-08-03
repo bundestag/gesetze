@@ -1,6 +1,8 @@
 ---
 Title: Elfte Verordnung zum Produktsicherheitsgesetz (Explosionsschutzverordnung)
+jurabk: GSGV 11
 layout: default
+origslug: gsgv_11
 slug: gsgv_11
 
 ---

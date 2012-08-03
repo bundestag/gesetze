@@ -1,6 +1,8 @@
 ---
 Title: Entwicklungshelfer-Gesetz
+jurabk: EhfG
 layout: default
+origslug: ehfg
 slug: ehfg
 
 ---

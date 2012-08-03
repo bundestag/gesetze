@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über tiefgefrorene Lebensmittel
+jurabk: TLMV
 layout: default
+origslug: tlmv
 slug: tlmv
 
 ---

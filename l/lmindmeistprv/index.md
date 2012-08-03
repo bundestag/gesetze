@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Lebensmittel
+jurabk: LMIndMeistPrV
 layout: default
+origslug: lmindmeistprv
 slug: lmindmeistprv
 
 ---

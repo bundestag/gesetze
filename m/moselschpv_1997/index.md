@@ -1,6 +1,8 @@
 ---
 Title: Moselschiffahrtspolizeiverordnung
+jurabk: MoselSchPV 1997
 layout: default
+origslug: moselschpv_1997
 slug: moselschpv_1997
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Umstellungsrechnung der Geldinstitute aus Anlaß der Neuordnung
   des Geldwesens
+jurabk: UmstGeldInstV
 layout: default
+origslug: umstgeldinstv
 slug: umstgeldinstv
 
 ---

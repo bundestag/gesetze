@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes zur Förderung des Bergarbeiterwohnungsbaues
   im Kohlenbergbau
+jurabk: BergArbWoFöGDV
 layout: default
-slug: bergarbwof_gdv
+origslug: bergarbwof_gdv
+slug: bergarbwofoegdv
 
 ---
 

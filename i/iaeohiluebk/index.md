@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über Hilfeleistung bei nuklearen Unfällen oder radiologischen
   Notfällen
+jurabk: IAEOHiLÜbk
 layout: default
-slug: iaeohil_bk
+origslug: iaeohil_bk
+slug: iaeohiluebk
 
 ---
 

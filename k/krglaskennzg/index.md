@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Kennzeichnung von Bleikristall und Kristallglas
+jurabk: KrGlasKennzG
 layout: default
+origslug: krglaskennzg
 slug: krglaskennzg
 
 ---

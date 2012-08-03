@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung des Rechtes zur Ernennung und Entlassung der Beamten
   der Museumsstiftung Post und Telekommunikation
+jurabk: PTStiftErnAnO
 layout: default
+origslug: ptstifternano
 slug: ptstifternano
 
 ---

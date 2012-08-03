@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Chemnitz,
   Cottbus, Hamburg, Hannover, Karlsruhe, Koblenz, Köln und Nürnberg
+jurabk: OFDAufgÜbertrV 2004
 layout: default
-slug: ofdaufg_bertrv_2004
+origslug: ofdaufg_bertrv_2004
+slug: ofdaufguebertrv_2004
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Sicherstellung der Elektrizitätsversorgung
+jurabk: EltLastV
 layout: default
+origslug: eltlastv
 slug: eltlastv
 
 ---

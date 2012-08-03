@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Entflechtungsgesetzes
+jurabk: EntflechtGDV
 layout: default
+origslug: entflechtgdv
 slug: entflechtgdv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Ruhebezüge des Bundespräsidenten
+jurabk: BPräsRuhebezG
 layout: default
-slug: bpr_sruhebezg
+origslug: bpr_sruhebezg
+slug: bpraesruhebezg
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Fürstenfeldbruck
+jurabk: FluLärmFürstenfV
 layout: default
-slug: flul_rmf_rstenfv
+origslug: flul_rmf_rstenfv
+slug: flulaermfuerstenfv
 
 ---
 

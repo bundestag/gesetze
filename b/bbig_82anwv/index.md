@@ -2,7 +2,9 @@
 Title: Verordnung über die Anwendung des § 82 des Berufsbildungsgesetzes und der auf
   Grund dieser Bestimmung erlassenen Verordnungen in dem in Artikel 3 des Einigungsvertrages
   genannten Gebiet
+jurabk: BBiG§82AnwV
 layout: default
+origslug: bbig_82anwv
 slug: bbig_82anwv
 
 ---

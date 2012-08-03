@@ -1,7 +1,9 @@
 Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO
 ---
 Title: -Emissionen und Stromverbrauch neuer Personenkraftwagen
+jurabk: Pkw-EnVKV
 layout: default
+origslug: pkw-envkv
 slug: pkw-envkv
 
 ---

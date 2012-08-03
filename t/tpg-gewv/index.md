@@ -4,7 +4,9 @@ Entnahme von Geweben und deren Übertragung nach dem
 Transplantationsgesetz
 ---
 Title: ''
+jurabk: TPG-GewV
 layout: default
+origslug: tpg-gewv
 slug: tpg-gewv
 
 ---

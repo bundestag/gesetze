@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Conterganstiftung für behinderte Menschen
+jurabk: ContStifG
 layout: default
+origslug: contstifg
 slug: contstifg
 
 ---

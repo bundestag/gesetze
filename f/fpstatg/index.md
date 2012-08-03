@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Statistiken der öffentlichen Finanzen und des Personals im
   öffentlichen Dienst
+jurabk: FPStatG
 layout: default
+origslug: fpstatg
 slug: fpstatg
 
 ---

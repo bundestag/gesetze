@@ -2,7 +2,9 @@
 Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen
   nach dem Bundeswasserstraßengesetz über die Regelung, Beschränkung oder Untersagung
   des Gemeingebrauchs
+jurabk: WaStrGGemGebrErmV
 layout: default
+origslug: wastrggemgebrermv
 slug: wastrggemgebrermv
 
 ---

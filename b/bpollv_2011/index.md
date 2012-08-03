@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei
+jurabk: BPolLV 2011
 layout: default
+origslug: bpollv_2011
 slug: bpollv_2011
 
 ---

@@ -3,8 +3,10 @@ Title: Staatsvertrag zwischen der Freien Hansestadt Bremen und dem Land Niedersa
   über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den
   Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt
   Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze)
+jurabk: GrÄndStVtr BR/ND
 layout: default
-slug: gr_ndstvtr_br_nd
+origslug: gr_ndstvtr_br_nd
+slug: graendstvtr_br_nd
 
 ---
 

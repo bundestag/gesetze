@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Leukose der Rinder
+jurabk: LeukoseV 1976
 layout: default
+origslug: leukosev_1976
 slug: leukosev_1976
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Künstlersozialabgabe-Verordnung 2012
+jurabk: KSAbg2012V
 layout: default
+origslug: ksabg2012v
 slug: ksabg2012v
 
 ---

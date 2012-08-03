@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung
   der Landwirte für das Jahr 2008
+jurabk: ALBeitrBek 2008
 layout: default
+origslug: albeitrbek_2008
 slug: albeitrbek_2008
 
 ---

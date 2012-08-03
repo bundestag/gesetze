@@ -2,7 +2,9 @@
 Title: Verordnung über die Pflichten der Träger von Altenheimen, Altenwohnheimen und
   Pflegeheimen für Volljährige im Falle der Entgegennahme von Leistungen zum Zweck
   der Unterbringung eines Bewohners oder Bewerbers
+jurabk: HeimsicherungsV
 layout: default
+origslug: heimsicherungsv
 slug: heimsicherungsv
 
 ---

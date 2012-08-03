@@ -1,7 +1,9 @@
 ---
 Title: Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
   (Belgien)
+jurabk: AuslWBGDV 6
 layout: default
+origslug: auslwbgdv_6
 slug: auslwbgdv_6
 
 ---

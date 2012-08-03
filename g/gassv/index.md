@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise
+jurabk: GasSV
 layout: default
+origslug: gassv
 slug: gassv
 
 ---

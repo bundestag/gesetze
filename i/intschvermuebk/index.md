@@ -1,7 +1,9 @@
 ---
 Title: Internationales Schiffsvermessungs-Übereinkommen von 1969
+jurabk: IntSchVermÜbk
 layout: default
-slug: intschverm_bk
+origslug: intschverm_bk
+slug: intschvermuebk
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die befristete Umstrukturierungsregelung für die Zuckerindustrie
+jurabk: ZuckerUmstrV
 layout: default
+origslug: zuckerumstrv
 slug: zuckerumstrv
 
 ---

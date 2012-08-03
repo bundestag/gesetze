@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen den Milzbrand und den Rauschbrand
+jurabk: MilzbRbV
 layout: default
+origslug: milzbrbv
 slug: milzbrbv
 
 ---

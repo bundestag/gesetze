@@ -2,8 +2,10 @@
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 150. Geburtstag von Wilhelm Conrad Röntgen und 100. Jahrestag
   der Entdeckung der Röntgenstrahlen)
+jurabk: Münz10DMBek 1995-07
 layout: default
-slug: m_nz10dmbek_1995-07
+origslug: m_nz10dmbek_1995-07
+slug: muenz10dmbek_1995-07
 
 ---
 

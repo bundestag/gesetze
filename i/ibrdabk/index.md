@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über die Internationale Bank für Wiederaufbau und Entwicklung
+jurabk: IBRDAbk
 layout: default
+origslug: ibrdabk
 slug: ibrdabk
 
 ---

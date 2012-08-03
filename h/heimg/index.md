@@ -1,6 +1,8 @@
 ---
 Title: Heimgesetz
+jurabk: HeimG
 layout: default
+origslug: heimg
 slug: heimg
 
 ---

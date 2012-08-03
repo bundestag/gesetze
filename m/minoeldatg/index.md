@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft
+jurabk: MinÖlDatG
 layout: default
-slug: min_ldatg
+origslug: min_ldatg
+slug: minoeldatg
 
 ---
 

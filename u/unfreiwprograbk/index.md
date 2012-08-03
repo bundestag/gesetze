@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und den Vereinten Nationen
   über den Sitz des Freiwilligenprogramms der Vereinten Nationen
+jurabk: UNFreiwProgrAbk
 layout: default
+origslug: unfreiwprograbk
 slug: unfreiwprograbk
 
 ---

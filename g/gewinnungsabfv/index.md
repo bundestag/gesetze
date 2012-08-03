@@ -2,7 +2,9 @@
 Title: Verordnung zur Umsetzung der Richtlinie 2006/21/EG des Europäischen Parlaments
   und des Rates vom 15. März 2006 über die Bewirtschaftung von Abfällen aus der mineralgewinnenden
   Industrie und zur Änderung der Richtlinie 2004/35/EG
+jurabk: GewinnungsAbfV
 layout: default
+origslug: gewinnungsabfv
 slug: gewinnungsabfv
 
 ---

@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Systemelektroniker und zur
 Systemelektronikerin
 ---
 Title: ''
+jurabk: SystElektronAusbV 2008
 layout: default
+origslug: systelektronausbv_2008
 slug: systelektronausbv_2008
 
 ---

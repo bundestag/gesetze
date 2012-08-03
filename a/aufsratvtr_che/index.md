@@ -3,7 +3,9 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen E
   über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik
   Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften
   betreffen
+jurabk: AufsRatVtr CHE
 layout: default
+origslug: aufsratvtr_che
 slug: aufsratvtr_che
 
 ---

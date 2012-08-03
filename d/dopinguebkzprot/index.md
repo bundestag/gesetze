@@ -1,7 +1,9 @@
 ---
 Title: Zusatzprotokoll zum Übereinkommen gegen Doping
+jurabk: DopingÜbkZProt
 layout: default
-slug: doping_bkzprot
+origslug: doping_bkzprot
+slug: dopinguebkzprot
 
 ---
 

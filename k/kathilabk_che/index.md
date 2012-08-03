@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
   über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+jurabk: KatHiLAbk CHE
 layout: default
+origslug: kathilabk_che
 slug: kathilabk_che
 
 ---

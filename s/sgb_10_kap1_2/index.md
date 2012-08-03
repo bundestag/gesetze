@@ -1,6 +1,8 @@
 ---
 Title: Sozialgesetzbuch - Verwaltungsverfahren -
+jurabk: SGB 10/Kap1/2
 layout: default
+origslug: sgb_10_kap1_2
 slug: sgb_10_kap1_2
 
 ---

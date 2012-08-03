@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 18. November 1974 über ein Internationales
   Energieprogramm
+jurabk: IEnProgÜbkG
 layout: default
-slug: ienprog_bkg
+origslug: ienprog_bkg
+slug: ienproguebkg
 
 ---
 

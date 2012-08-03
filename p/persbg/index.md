@@ -1,6 +1,8 @@
 ---
 Title: Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz
+jurabk: PersBG
 layout: default
+origslug: persbg
 slug: persbg
 
 ---

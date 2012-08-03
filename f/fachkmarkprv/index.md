@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Fachkaufmann
   für Marketing/Geprüfte Fachkauffrau für Marketing
+jurabk: FachkMarkPrV
 layout: default
+origslug: fachkmarkprv
 slug: fachkmarkprv
 
 ---

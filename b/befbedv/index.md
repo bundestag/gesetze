@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn-
   und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
+jurabk: BefBedV
 layout: default
+origslug: befbedv
 slug: befbedv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Richtlinien über die Verleihung der Zelter-Plakette
+jurabk: ZelterPlRL
 layout: default
+origslug: zelterplrl
 slug: zelterplrl
 
 ---

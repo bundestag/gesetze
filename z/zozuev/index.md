@@ -3,8 +3,10 @@ Title: Verordnung zur Übertragung der Zuständigkeiten des Präsidenten der Bun
   für vereinigungsbedingte Sonderaufgaben nach dem Vermögenszuordnungsgesetz in Verbindung
   mit dem Zuordnungsergänzungsgesetz auf den Oberfinanzpräsidenten der Oberfinanzdirektion
   Berlin
+jurabk: ZOZÜV
 layout: default
-slug: zoz_v
+origslug: zoz_v
+slug: zozuev
 
 ---
 

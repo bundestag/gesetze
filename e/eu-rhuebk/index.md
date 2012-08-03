@@ -2,8 +2,10 @@
 Title: Übereinkommen - gemäß Artikel 34 des Vertrags über die Europäische Union vom
   Rat erstellt - Rechtshilfe in Strafsachen zwischen den Mitgliedstaaten der Europäischen
   Union
+jurabk: EU-RhÜbk
 layout: default
-slug: eu-rh_bk
+origslug: eu-rh_bk
+slug: eu-rhuebk
 
 ---
 

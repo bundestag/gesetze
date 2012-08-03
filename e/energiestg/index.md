@@ -1,6 +1,8 @@
 ---
 Title: Energiesteuergesetz
+jurabk: EnergieStG
 layout: default
+origslug: energiestg
 slug: energiestg
 
 ---

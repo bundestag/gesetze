@@ -1,6 +1,8 @@
 ---
 Title: Umweltrahmengesetz
+jurabk: URaG
 layout: default
+origslug: urag
 slug: urag
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung
   der Versicherungsunternehmer
+jurabk: VersRMAbschR
 layout: default
+origslug: versrmabschr
 slug: versrmabschr
 
 ---

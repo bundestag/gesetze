@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik von Portugal
   über die Auslieferung und die Rechtshilfe in Strafsachen
+jurabk: RHiVtr PRT
 layout: default
+origslug: rhivtr_prt
 slug: rhivtr_prt
 
 ---

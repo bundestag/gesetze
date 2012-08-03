@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Erleichterung der Verwaltungsreform in den Ländern
+jurabk: ZustLG
 layout: default
+origslug: zustlg
 slug: zustlg
 
 ---

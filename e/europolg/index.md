@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Umsetzung des Beschlusses des Rates 2009/371/JI vom 6. April 2009
   zur Errichtung des Europäischen Polizeiamts (Europol-Gesetz)
+jurabk: EuropolG
 layout: default
+origslug: europolg
 slug: europolg
 
 ---

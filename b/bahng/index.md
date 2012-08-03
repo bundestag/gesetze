@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen
   des öffentlichen Verkehrs
+jurabk: BahnG
 layout: default
+origslug: bahng
 slug: bahng
 
 ---

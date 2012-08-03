@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 1. März 1991 über die Markierung von Plastiksprengstoffen
   zum Zweck des Aufspürens
+jurabk: SprengMarkÜbkG
 layout: default
-slug: sprengmark_bkg
+origslug: sprengmark_bkg
+slug: sprengmarkuebkg
 
 ---
 

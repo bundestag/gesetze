@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen
   in der Zuteilungsperiode 2008 bis 2012
+jurabk: ZuG 2012
 layout: default
+origslug: zug_2012
 slug: zug_2012
 
 ---

@@ -5,7 +5,9 @@ Title: Erste Verordnung zur Bestimmung eines Gebietes als grenzüberschreitendes
   Doppelbesteuerung auf dem Gebiete der Steuern  vom Einkommen und vom Vermögen sowie
   verschiedener sonstiger Steuern und zur  Regelung anderer Fragen auf steuerlichem
   Gebiete
+jurabk: GrenzgAbkNLDV 1
 layout: default
+origslug: grenzgabknldv_1
 slug: grenzgabknldv_1
 
 ---

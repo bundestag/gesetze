@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Entbeinung von Interventionsrindfleisch zum Zwecke der
   Ausfuhr
+jurabk: RindFlEntbV
 layout: default
+origslug: rindflentbv
 slug: rindflentbv
 
 ---

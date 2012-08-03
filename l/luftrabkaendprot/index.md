@@ -2,8 +2,10 @@
 Title: Protokoll zur Änderung des Abkommens zur Vereinheitlichung von Regeln über
   die Beförderung im internationalen Luftverkehr unterzeichnet in Warschau am 12.
   Oktober 1929
+jurabk: LuftRAbkÄndProt
 layout: default
-slug: luftrabk_ndprot
+origslug: luftrabk_ndprot
+slug: luftrabkaendprot
 
 ---
 

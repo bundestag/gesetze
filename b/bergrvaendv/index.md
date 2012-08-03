@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Änderung bergrechtlicher Verordnungen
+jurabk: BergRVÄndV
 layout: default
-slug: bergrv_ndv
+origslug: bergrv_ndv
+slug: bergrvaendv
 
 ---
 

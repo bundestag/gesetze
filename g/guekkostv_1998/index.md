@@ -1,7 +1,9 @@
 ---
 Title: Kostenverordnung für den Güterkraftverkehr
+jurabk: GüKKostV 1998
 layout: default
-slug: g_kkostv_1998
+origslug: g_kkostv_1998
+slug: guekkostv_1998
 
 ---
 

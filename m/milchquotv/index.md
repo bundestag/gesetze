@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der EU-Milchquotenregelung
+jurabk: MilchQuotV
 layout: default
+origslug: milchquotv
 slug: milchquotv
 
 ---

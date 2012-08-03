@@ -1,6 +1,8 @@
 ---
 Title: Vorbemerkung zu den Entschuldungsvorschriften
+jurabk: EntschVb
 layout: default
+origslug: entschvb
 slug: entschvb
 
 ---

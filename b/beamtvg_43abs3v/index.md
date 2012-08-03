@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die einmalige Unfallentschädigung nach § 43 Abs. 3 des Beamtenversorgungsgesetzes
+jurabk: BeamtVG§43Abs3V
 layout: default
+origslug: beamtvg_43abs3v
 slug: beamtvg_43abs3v
 
 ---

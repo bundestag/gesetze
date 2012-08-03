@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Internationalen Gesundheitsvorschriften vom
   25. Juli 1969 in Häfen und auf dem Nord-Ostsee-Kanal
+jurabk: IntGesVsHfDV
 layout: default
+origslug: intgesvshfdv
 slug: intgesvshfdv
 
 ---

@@ -2,7 +2,9 @@
 Durchführungsverordnung zum Fahrlehrergesetz
 ---
 Title: ''
+jurabk: FahrlGDV 2012
 layout: default
+origslug: fahrlgdv_2012
 slug: fahrlgdv_2012
 
 ---

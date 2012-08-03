@@ -4,7 +4,9 @@ Title: Gesetz zu dem Zusatzabkommen vom 5. November 2002 zum Abkommen vom 11. Ap
   der Doppelbesteuerungen und zur Regelung verschiedener anderer Fragen auf dem Gebiete
   der Steuern vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und
   der Grundsteuern
+jurabk: DBAZAbkBELG
 layout: default
+origslug: dbazabkbelg
 slug: dbazabkbelg
 
 ---

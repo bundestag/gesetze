@@ -1,6 +1,8 @@
 ---
 Title: Verwaltungszustellungsgesetz
+jurabk: VwZG 2005
 layout: default
+origslug: vwzg_2005
 slug: vwzg_2005
 
 ---

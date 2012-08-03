@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 50. Jahrestag des 20. Juli 1944)
+jurabk: Münz10DMBek 1994-02
 layout: default
-slug: m_nz10dmbek_1994-02
+origslug: m_nz10dmbek_1994-02
+slug: muenz10dmbek_1994-02
 
 ---
 

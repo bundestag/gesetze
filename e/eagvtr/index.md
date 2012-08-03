@@ -1,6 +1,8 @@
 ---
 Title: Vertrag zur Gründung der Europäischen Atomgemeinschaft (EURATOM)
+jurabk: EAGVtr
 layout: default
+origslug: eagvtr
 slug: eagvtr
 
 ---

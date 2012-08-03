@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von  supranationalen
   oder völkerrechtlichen Verpflichtungen
+jurabk: LastG
 layout: default
+origslug: lastg
 slug: lastg
 
 ---

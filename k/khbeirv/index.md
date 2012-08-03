@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Bildung eines Beirats für Tariffragen in der Kraftfahrzeug-Haftpflichtversicherung
+jurabk: KHBeirV
 layout: default
+origslug: khbeirv
 slug: khbeirv
 
 ---

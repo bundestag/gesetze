@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes über die Preisstatistik
+jurabk: PreisStatGDV
 layout: default
+origslug: preisstatgdv
 slug: preisstatgdv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Strafprozeßordnung
+jurabk: StPO
 layout: default
+origslug: stpo
 slug: stpo
 
 ---

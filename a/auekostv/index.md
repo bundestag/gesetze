@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Kosten der Erlaubnis zur gewerbsmäßigen Arbeitnehmerüberlassung
+jurabk: AÜKostV
 layout: default
-slug: a_kostv
+origslug: a_kostv
+slug: auekostv
 
 ---
 

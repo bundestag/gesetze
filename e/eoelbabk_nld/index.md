@@ -2,8 +2,10 @@
 Title: Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland
   und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung
   von Beständen an Erdöl und Erdölerzeugnissen
+jurabk: EÖlBAbk NLD
 layout: default
-slug: e_lbabk_nld
+origslug: e_lbabk_nld
+slug: eoelbabk_nld
 
 ---
 

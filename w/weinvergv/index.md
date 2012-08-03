@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung von Vergünstigungen für Wein
+jurabk: WeinVergV
 layout: default
+origslug: weinvergv
 slug: weinvergv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Sitz des Bundeseisenbahnvermögens
+jurabk: BESitzBek
 layout: default
+origslug: besitzbek
 slug: besitzbek
 
 ---

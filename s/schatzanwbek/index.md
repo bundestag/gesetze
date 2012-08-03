@@ -3,7 +3,9 @@ Title: Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen d
   Bundesrepublik Deutschland in das Bundesschuldbuch sowie von verzinslichen Schatzanweisungen
   des Bundeseisenbahnvermögens in das Bundesbahnschuldbuch und von verzinslichen Schatzanweisungen
   der Deutschen Bundespost in das Schuldbuch der Deutschen Bundespost
+jurabk: SchatzAnwBek
 layout: default
+origslug: schatzanwbek
 slug: schatzanwbek
 
 ---

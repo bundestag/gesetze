@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Umweltkonferenz-Gedenkmünze)
+jurabk: Münz5DMBek 1982-07
 layout: default
-slug: m_nz5dmbek_1982-07
+origslug: m_nz5dmbek_1982-07
+slug: muenz5dmbek_1982-07
 
 ---
 

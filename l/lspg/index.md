@@ -2,7 +2,9 @@
 Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
   Europäischen Union über Bescheinigungen besonderer Merkmale von Agrarerzeugnissen
   und Lebensmitteln
+jurabk: LSpG
 layout: default
+origslug: lspg
 slug: lspg
 
 ---

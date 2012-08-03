@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Gebäudereiniger/zur Gebäudereinigerin
+jurabk: GebReinigAusbV 1999
 layout: default
+origslug: gebreinigausbv_1999
 slug: gebreinigausbv_1999
 
 ---

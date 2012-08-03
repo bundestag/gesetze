@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung
   im Laborbereich Chemie, Biologie und Lack
+jurabk: ChemBioLackAusbErprobV
 layout: default
+origslug: chembiolackausberprobv
 slug: chembiolackausberprobv
 
 ---

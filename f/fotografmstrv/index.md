@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Fotografen-Handwerk
+jurabk: FotografMstrV
 layout: default
+origslug: fotografmstrv
 slug: fotografmstrv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung
   der Landwirte für 2002
+jurabk: BGL 2002
 layout: default
+origslug: bgl_2002
 slug: bgl_2002
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren der Erteilung eines Sicherheitszertifikats durch
   das Bundesamt für Sicherheit in der Informationstechnik
+jurabk: BSIZertV
 layout: default
+origslug: bsizertv
 slug: bsizertv
 
 ---

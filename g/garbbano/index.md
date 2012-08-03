@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über den Bau und Betrieb von Garagen
+jurabk: GarBBAnO
 layout: default
+origslug: garbbano
 slug: garbbano
 
 ---

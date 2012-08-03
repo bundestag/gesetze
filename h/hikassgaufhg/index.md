@@ -1,6 +1,8 @@
 ---
 Title: Gesetz betreffend die Aufhebung des Hilfskassengesetzes
+jurabk: HiKassGAufhG
 layout: default
+origslug: hikassgaufhg
 slug: hikassgaufhg
 
 ---

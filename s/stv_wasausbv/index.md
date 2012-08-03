@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
   und zur Fachkraft für Wasserwirtschaft
+jurabk: StV/WasAusbV
 layout: default
+origslug: stv_wasausbv
 slug: stv_wasausbv
 
 ---

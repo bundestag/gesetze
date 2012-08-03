@@ -1,6 +1,8 @@
 ---
 Title: Siebenundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 47
 layout: default
+origslug: stvzoausnv_47
 slug: stvzoausnv_47
 
 ---

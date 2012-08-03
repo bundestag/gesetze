@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen aus dem  Beamtenverhältnis auf die
   Einrichtungen im Geschäftsbereich des  Bundesministeriums für Arbeit und Soziales
+jurabk: BMinASZustAnO
 layout: default
+origslug: bminaszustano
 slug: bminaszustano
 
 ---

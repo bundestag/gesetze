@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche
+jurabk: MarkschBergV
 layout: default
+origslug: markschbergv
 slug: markschbergv
 
 ---

@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Deutschen Patent-
   und Markenamts in Angelegenheiten nach den Beihilfevorschriften
+jurabk: DPAWidAnO
 layout: default
+origslug: dpawidano
 slug: dpawidano
 
 ---

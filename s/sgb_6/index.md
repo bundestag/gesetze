@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung
   - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)
+jurabk: SGB 6
 layout: default
+origslug: sgb_6
 slug: sgb_6
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerlaubte
   Herstellung von Betäubungsmitteln missbraucht werden können
+jurabk: GÜG 2008
 layout: default
-slug: g_g_2008
+origslug: g_g_2008
+slug: gueg_2008
 
 ---
 

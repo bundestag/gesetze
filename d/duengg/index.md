@@ -1,7 +1,9 @@
 ---
 Title: Düngegesetz \*)
+jurabk: DüngG
 layout: default
-slug: d_ngg
+origslug: d_ngg
+slug: duengg
 
 ---
 

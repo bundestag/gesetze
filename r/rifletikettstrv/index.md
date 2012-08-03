@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchsetzung des Rindfleischetikettierungsrechts
+jurabk: RiFlEtikettStrV
 layout: default
+origslug: rifletikettstrv
 slug: rifletikettstrv
 
 ---

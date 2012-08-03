@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
   genannten Gebiet
+jurabk: RAV 1
 layout: default
+origslug: rav_1
 slug: rav_1
 
 ---

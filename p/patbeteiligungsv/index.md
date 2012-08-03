@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Beteiligung von Patientinnen und Patienten in der Gesetzlichen
   Krankenversicherung
+jurabk: PatBeteiligungsV
 layout: default
+origslug: patbeteiligungsv
 slug: patbeteiligungsv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Tierschutz-Hundeverordnung
+jurabk: TierSchHuV
 layout: default
+origslug: tierschhuv
 slug: tierschhuv
 
 ---

@@ -2,7 +2,9 @@
 Title: Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie
   Risikopositionen von Unternehmen des Finanzsektors durch den Fonds "Finanzmarktstabilisierungsfonds
   - FMS"
+jurabk: FMStBG
 layout: default
+origslug: fmstbg
 slug: fmstbg
 
 ---

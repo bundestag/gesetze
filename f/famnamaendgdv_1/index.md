@@ -1,8 +1,10 @@
 ---
 Title: Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen
   und Vornamen
+jurabk: FamNamÄndGDV 1
 layout: default
-slug: famnam_ndgdv_1
+origslug: famnam_ndgdv_1
+slug: famnamaendgdv_1
 
 ---
 

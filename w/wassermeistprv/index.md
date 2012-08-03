@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wassermeister/Geprüfte
   Wassermeisterin
+jurabk: WasserMeistPrV
 layout: default
+origslug: wassermeistprv
 slug: wassermeistprv
 
 ---

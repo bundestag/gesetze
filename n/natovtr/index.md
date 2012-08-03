@@ -1,6 +1,8 @@
 ---
 Title: Nordatlantikvertrag
+jurabk: NATOVtr
 layout: default
+origslug: natovtr
 slug: natovtr
 
 ---

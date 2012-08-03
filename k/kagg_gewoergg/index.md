@@ -3,7 +3,9 @@ Title: Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesel
   und der Gewerbeordnung (Zweiter Teil des Gesetzes über den Vertrieb ausländischer
   Investmentanteile, über die Besteuerung ihrer Erträge sowie zur Änderung und Ergänzung
   des Gesetzes über Kapitalanlagegesellschaften)
+jurabk: KAGG/GewOErgG
 layout: default
+origslug: kagg_gewoergg
 slug: kagg_gewoergg
 
 ---

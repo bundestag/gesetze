@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Paderborn/Lippstadt
+jurabk: FluLärmPadV
 layout: default
-slug: flul_rmpadv
+origslug: flul_rmpadv
+slug: flulaermpadv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen
   an Beamte im Geschäftsbereich des Bundesministers der Finanzen
+jurabk: BMFJubAnO
 layout: default
+origslug: bmfjubano
 slug: bmfjubano
 
 ---

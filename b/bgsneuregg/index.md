@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz
+jurabk: BGSNeuRegG
 layout: default
+origslug: bgsneuregg
 slug: bgsneuregg
 
 ---

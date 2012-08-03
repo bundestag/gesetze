@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Festsetzung des Nationalparkes Vorpommersche Boddenlandschaft
+jurabk: NatPVorpBlV
 layout: default
+origslug: natpvorpblv
 slug: natpvorpblv
 
 ---

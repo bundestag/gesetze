@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 20 Euro (Goldmünze „Buche“ der Serie „Deutscher Wald“)
+jurabk: Münz20EuroBek 2011
 layout: default
-slug: m_nz20eurobek_2011
+origslug: m_nz20eurobek_2011
+slug: muenz20eurobek_2011
 
 ---
 

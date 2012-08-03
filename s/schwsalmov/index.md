@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine
+jurabk: SchwSalmoV
 layout: default
+origslug: schwsalmov
 slug: schwsalmov
 
 ---

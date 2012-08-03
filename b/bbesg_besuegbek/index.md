@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung nach § 77 Absatz 1 und 2 sowie nach § 78 Absatz 1 des Bundesbesoldungsgesetzes
   und nach § 6 Absatz 2 des Besoldungsüberleitungsgesetzes
+jurabk: BBesG/BesÜGBek
 layout: default
-slug: bbesg_bes_gbek
+origslug: bbesg_bes_gbek
+slug: bbesg_besuegbek
 
 ---
 

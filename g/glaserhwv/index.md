@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   Teil und im fachtheoretischen Teil der Meisterprüfung für das Glaser-Handwerk
+jurabk: GlaserHwV
 layout: default
+origslug: glaserhwv
 slug: glaserhwv
 
 ---

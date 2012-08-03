@@ -2,7 +2,9 @@
 Title: Gesetz über die Verarbeitung und Nutzung von Daten im Rahmen des integrierten
   Verwaltungs- und Kontrollsystems nach den gemeinschaftsrechtlichen Vorschriften
   für landwirtschaftliche Stützungsregelungen
+jurabk: InVeKoSDG
 layout: default
+origslug: invekosdg
 slug: invekosdg
 
 ---

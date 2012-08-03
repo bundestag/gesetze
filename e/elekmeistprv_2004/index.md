@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Elektrotechnik
+jurabk: ElekMeistPrV 2004
 layout: default
+origslug: elekmeistprv_2004
 slug: elekmeistprv_2004
 
 ---

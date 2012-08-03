@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Meldungen der Unternehmen des deutschen Steinkohlenbergbaus
+jurabk: KohleUMeldeG
 layout: default
+origslug: kohleumeldeg
 slug: kohleumeldeg
 
 ---

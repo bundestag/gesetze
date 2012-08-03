@@ -1,7 +1,9 @@
 ---
 Title: Allgemeines Zoll- und Handelsabkommen von Genf (General Agreement on Tariffs
   and Trade)
+jurabk: GATTAbk
 layout: default
+origslug: gattabk
 slug: gattabk
 
 ---

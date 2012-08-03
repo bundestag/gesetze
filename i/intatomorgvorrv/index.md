@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale
   Atomenergie-Organisation
+jurabk: IntAtomOrgVorRV
 layout: default
+origslug: intatomorgvorrv
 slug: intatomorgvorrv
 
 ---

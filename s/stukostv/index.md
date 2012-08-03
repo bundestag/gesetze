@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes
   der ehemaligen Deutschen Demokratischen Republik
+jurabk: StUKostV
 layout: default
+origslug: stukostv
 slug: stukostv
 
 ---

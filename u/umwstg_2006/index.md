@@ -1,6 +1,8 @@
 ---
 Title: Umwandlungssteuergesetz
+jurabk: UmwStG 2006
 layout: default
+origslug: umwstg_2006
 slug: umwstg_2006
 
 ---

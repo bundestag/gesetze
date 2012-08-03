@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Änderung der Verordnung über Verfahren vor dem Bundessortenamt
+jurabk: BSAVfVÄndV
 layout: default
-slug: bsavfv_ndv
+origslug: bsavfv_ndv
+slug: bsavfvaendv
 
 ---
 

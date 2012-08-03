@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
+jurabk: BBKG
 layout: default
+origslug: bbkg
 slug: bbkg
 
 ---

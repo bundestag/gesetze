@@ -1,6 +1,8 @@
 ---
 Title: Postgesetz
+jurabk: PostG 1998
 layout: default
+origslug: postg_1998
 slug: postg_1998
 
 ---

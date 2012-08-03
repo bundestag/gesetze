@@ -4,8 +4,10 @@ Title: Abkommen zur Änderung des Zusatzabkommens vom 3. August 1959 in der durc
   zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung
   ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen
   Truppen
+jurabk: NATOTrStatZAbkÄndAbk
 layout: default
-slug: natotrstatzabk_ndabk
+origslug: natotrstatzabk_ndabk
+slug: natotrstatzabkaendabk
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden
   und Organisationen mit Sicherheitsaufgaben
+jurabk: BDBOSG
 layout: default
+origslug: bdbosg
 slug: bdbosg
 
 ---

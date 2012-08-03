@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Angaben zu den Krediten an ausländische Kreditnehmer nach dem
   Kreditwesengesetz
+jurabk: LrV
 layout: default
+origslug: lrv
 slug: lrv
 
 ---

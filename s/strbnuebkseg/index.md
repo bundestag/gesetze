@@ -3,8 +3,10 @@ Title: Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt des Kö
   Schweden zu dem Übereinkommen vom 9. Februar 1994 über die Erhebung von Gebühren
   für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen sowie zu dem Zusatzübereinkommen
   vom 18. September 1997 zu dem vorgenannten Übereinkommen
+jurabk: StrBNÜbkSEG
 layout: default
-slug: strbn_bkseg
+origslug: strbn_bkseg
+slug: strbnuebkseg
 
 ---
 

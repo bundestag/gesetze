@@ -4,7 +4,9 @@ und zur Technischen Produktdesignerin sowie zum Technischen
 Systemplaner und zur Technischen Systemplanerin
 ---
 Title: ''
+jurabk: TPDesign/TSysPlAusbV
 layout: default
+origslug: tpdesign_tsysplausbv
 slug: tpdesign_tsysplausbv
 
 ---

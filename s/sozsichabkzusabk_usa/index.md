@@ -1,7 +1,9 @@
 ---
 Title: Zusatzabkommen zum Abkommen vom 7. Januar 1976 zwischen der Bundesrepublik
   Deutschland und den Vereinigten Staaten von Amerika über Soziale Sicherheit
+jurabk: SozSichAbkZusAbk USA
 layout: default
+origslug: sozsichabkzusabk_usa
 slug: sozsichabkzusabk_usa
 
 ---

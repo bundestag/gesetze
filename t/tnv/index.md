@@ -1,6 +1,8 @@
 ---
 Title: Telekommunikations-Nummerierungsverordnung
+jurabk: TNV
 layout: default
+origslug: tnv
 slug: tnv
 
 ---

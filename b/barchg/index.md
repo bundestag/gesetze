@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Sicherung und Nutzung von Archivgut des Bundes
+jurabk: BArchG
 layout: default
+origslug: barchg
 slug: barchg
 
 ---

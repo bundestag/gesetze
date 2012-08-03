@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 28 des Chemikaliengesetzes
+jurabk: ChemG§28Bek94
 layout: default
+origslug: chemg_28bek94
 slug: chemg_28bek94
 
 ---

@@ -3,7 +3,9 @@ Title: Verordnung zur Einführung eines Vordrucks für die Erklärung über die 
   und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für
   die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden
   Verkehr
+jurabk: EG-PKHVV
 layout: default
+origslug: eg-pkhvv
 slug: eg-pkhvv
 
 ---

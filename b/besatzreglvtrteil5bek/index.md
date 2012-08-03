@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung zum Fünften Teil des Vertrags zur Regelung aus Krieg und Besatzung
   entstandener Fragen
+jurabk: BesatzReglVtrTeil5Bek
 layout: default
+origslug: besatzreglvtrteil5bek
 slug: besatzreglvtrteil5bek
 
 ---

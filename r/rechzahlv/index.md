@@ -3,7 +3,9 @@ Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-
 Institute
 ---
 Title: ''
+jurabk: RechZahlV
 layout: default
+origslug: rechzahlv
 slug: rechzahlv
 
 ---

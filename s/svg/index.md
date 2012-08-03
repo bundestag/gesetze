@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre
   Hinterbliebenen
+jurabk: SVG
 layout: default
+origslug: svg
 slug: svg
 
 ---

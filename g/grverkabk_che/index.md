@@ -1,7 +1,9 @@
 ---
 Title: Deutsch-schweizerisches Abkommen über den Grenz- und Durchgangsverkehr (in
   der Fassung des Schriftwechsels vom 7./23. November 1959)
+jurabk: GrVerkAbk CHE
 layout: default
+origslug: grverkabk_che
 slug: grverkabk_che
 
 ---

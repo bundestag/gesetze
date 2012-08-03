@@ -1,6 +1,8 @@
 ---
 Title: Wohnungsbau-Prämiengesetz
+jurabk: WoPG
 layout: default
+origslug: wopg
 slug: wopg
 
 ---

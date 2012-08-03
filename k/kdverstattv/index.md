@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen
   bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer
+jurabk: KDVErstattV
 layout: default
+origslug: kdverstattv
 slug: kdverstattv
 
 ---

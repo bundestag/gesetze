@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1981
 layout: default
+origslug: bkorgerl_1981
 slug: bkorgerl_1981
 
 ---

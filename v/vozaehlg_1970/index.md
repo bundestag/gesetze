@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über eine Volks-, Berufs- und Arbeitsstättenzählung
+jurabk: VoZählG 1970
 layout: default
-slug: voz_hlg_1970
+origslug: voz_hlg_1970
+slug: vozaehlg_1970
 
 ---
 

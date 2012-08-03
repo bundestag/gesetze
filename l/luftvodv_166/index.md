@@ -2,7 +2,9 @@
 Title: Hundertsechsundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
   Flughafen Hamburg)
+jurabk: LuftVODV 166
 layout: default
+origslug: luftvodv_166
 slug: luftvodv_166
 
 ---

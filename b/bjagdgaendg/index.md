@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung des Bundesjagdgesetzes
+jurabk: BJagdGÄndG
 layout: default
-slug: bjagdg_ndg
+origslug: bjagdg_ndg
+slug: bjagdgaendg
 
 ---
 

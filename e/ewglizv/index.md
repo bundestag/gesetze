@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Lizenzen für landwirtschaftliche Erzeugnisse
+jurabk: EWGLizV
 layout: default
+origslug: ewglizv
 slug: ewglizv
 
 ---

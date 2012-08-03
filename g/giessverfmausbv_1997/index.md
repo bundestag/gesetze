@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Gießereimechaniker/zur Gießereimechanikerin
   und zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie
+jurabk: GießVerfMAusbV 1997
 layout: default
-slug: gie_verfmausbv_1997
+origslug: gie_verfmausbv_1997
+slug: giessverfmausbv_1997
 
 ---
 

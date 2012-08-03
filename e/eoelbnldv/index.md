@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Erfüllung der Vorratspflicht mit Beständen an Erdöl, Halbfertig-
   und Erdölerzeugnissen, die in den Niederlanden lagern
+jurabk: EÖlBNLDV
 layout: default
-slug: e_lbnldv
+origslug: e_lbnldv
+slug: eoelbnldv
 
 ---
 

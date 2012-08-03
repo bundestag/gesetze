@@ -1,7 +1,9 @@
 ---
 Title: Siebentes Gesetz zur Änderung des Soldatenversorgungsgesetzes
+jurabk: SVGÄndG 7
 layout: default
-slug: svg_ndg_7
+origslug: svg_ndg_7
+slug: svgaendg_7
 
 ---
 

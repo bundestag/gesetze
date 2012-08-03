@@ -2,7 +2,9 @@
 Title: Erste Verordnung zum Produktsicherheitsgesetz (Verordnung über die Bereitstellung
   elektrischer Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen
   auf dem Markt)
+jurabk: TechArbmGV 1
 layout: default
+origslug: techarbmgv_1
 slug: techarbmgv_1
 
 ---

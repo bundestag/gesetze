@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach
   dem Versicherungsaufsichtsgesetz
+jurabk: VAFreistV
 layout: default
+origslug: vafreistv
 slug: vafreistv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Geschäftsordnung des Bundesverfassungsgerichts
+jurabk: BVerfGGO 1986
 layout: default
+origslug: bverfggo_1986
 slug: bverfggo_1986
 
 ---

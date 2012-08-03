@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Wide
   und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Robert Koch-Instituts
   in Angelegenheiten nach dem  Bundesreisekostengesetz und dem Bundesumzugskostengesetz
   einschließlich der  hierzu ergangenen Trennungsgeldverordnung
+jurabk: RKIZustAnO
 layout: default
+origslug: rkizustano
 slug: rkizustano
 
 ---

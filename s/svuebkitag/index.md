@@ -2,8 +2,10 @@
 Title: Gesetz über das Abkommen vom 5. Mai 1953 zwischen der Bundesrepublik Deutschland
   und der Italienischen Republik über Sozialversicherung nebst Schlußprotokoll und
   Zusatzvereinbarung
+jurabk: SVÜbkITAG
 layout: default
-slug: sv_bkitag
+origslug: sv_bkitag
+slug: svuebkitag
 
 ---
 

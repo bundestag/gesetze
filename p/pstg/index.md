@@ -1,6 +1,8 @@
 ---
 Title: Personenstandsgesetz
+jurabk: PStG
 layout: default
+origslug: pstg
 slug: pstg
 
 ---

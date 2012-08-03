@@ -4,7 +4,9 @@ für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau
 für Privat- und Geschäftsreisen)
 ---
 Title: ''
+jurabk: ReiseKfmAusbV 2011
 layout: default
+origslug: reisekfmausbv_2011
 slug: reisekfmausbv_2011
 
 ---

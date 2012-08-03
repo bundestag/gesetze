@@ -1,6 +1,8 @@
 ---
 Title: Grundgesetz für die Bundesrepublik Deutschland
+jurabk: GG
 layout: default
+origslug: gg
 slug: gg
 
 ---

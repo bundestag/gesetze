@@ -1,6 +1,8 @@
 ---
 Title: Sechzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 16
 layout: default
+origslug: bimschv_16
 slug: bimschv_16
 
 ---

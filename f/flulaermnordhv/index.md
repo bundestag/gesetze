@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Luft/Boden-Schießplatz
   Nordhorn
+jurabk: FluLärmNordhV
 layout: default
-slug: flul_rmnordhv
+origslug: flul_rmnordhv
+slug: flulaermnordhv
 
 ---
 

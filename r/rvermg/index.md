@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen
   Beteiligungen
+jurabk: RVermG
 layout: default
+origslug: rvermg
 slug: rvermg
 
 ---

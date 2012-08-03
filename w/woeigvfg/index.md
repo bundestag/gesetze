@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anlegung und Führung der Wohnungs- und Teileigentumsgrundbücher
+jurabk: WoEigVfg
 layout: default
+origslug: woeigvfg
 slug: woeigvfg
 
 ---

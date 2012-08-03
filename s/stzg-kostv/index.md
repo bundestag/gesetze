@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung zum Stammzellgesetz
+jurabk: StZG-KostV
 layout: default
+origslug: stzg-kostv
 slug: stzg-kostv
 
 ---

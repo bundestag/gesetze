@@ -1,6 +1,8 @@
 ---
 Title: Neunundvierzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+jurabk: BEG§172DV 49
 layout: default
+origslug: beg_172dv_49
 slug: beg_172dv_49
 
 ---

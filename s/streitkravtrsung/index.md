@@ -3,7 +3,9 @@ Title: Gesetz zu dem Vertrag vom 12. Oktober 1990 zwischen der Bundesrepublik De
   und der Union der Sozialistischen Sowjetrepubliken über die Bedingungen des befristeten
   Aufenthalts und die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen
   aus dem Gebiet der Bundesrepublik Deutschland
+jurabk: StreitkrAVtrSUNG
 layout: default
+origslug: streitkravtrsung
 slug: streitkravtrsung
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Dritte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
+jurabk: StVOuaVsAusnV 3
 layout: default
+origslug: stvouavsausnv_3
 slug: stvouavsausnv_3
 
 ---

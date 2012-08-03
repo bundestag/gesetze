@@ -2,7 +2,9 @@
 Title: Hundertvierundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
   Lahr)
+jurabk: LuftVODV 184
 layout: default
+origslug: luftvodv_184
 slug: luftvodv_184
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Erste Wahlordnung zum Mitbestimmungsgesetz
+jurabk: MitbestGWO 1 2002
 layout: default
+origslug: mitbestgwo_1_2002
 slug: mitbestgwo_1_2002
 
 ---

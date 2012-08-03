@@ -1,7 +1,9 @@
 ---
 Title: Sechste Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen
   Zusatzversicherung
+jurabk: HZvV 6
 layout: default
+origslug: hzvv_6
 slug: hzvv_6
 
 ---

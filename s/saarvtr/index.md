@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik
   zur Regelung der Saarfrage
+jurabk: SaarVtr
 layout: default
+origslug: saarvtr
 slug: saarvtr
 
 ---

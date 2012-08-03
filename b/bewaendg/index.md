@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Anwendung und Änderung bewertungsrechtlicher Vorschriften
+jurabk: BewÄndG
 layout: default
-slug: bew_ndg
+origslug: bew_ndg
+slug: bewaendg
 
 ---
 

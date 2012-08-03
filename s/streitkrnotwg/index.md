@@ -3,7 +3,9 @@ Title: Gesetz zu den Notenwechseln vom 25. September 1990 und vom 23. September 
   über die Rechtsstellung der in Deutschland stationierten verbündeten Streitkräfte
   und zu dem Übereinkommen vom 25. September 1990 zur Regelung bestimmter Fragen in
   bezug auf Berlin
+jurabk: StreitkrNotWG
 layout: default
+origslug: streitkrnotwg
 slug: streitkrnotwg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
   1998
+jurabk: BBVAnpG 98
 layout: default
+origslug: bbvanpg_98
 slug: bbvanpg_98
 
 ---

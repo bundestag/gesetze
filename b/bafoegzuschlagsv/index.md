@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsförderungsgesetz
   bei einer Ausbildung im Ausland
+jurabk: BAföGZuschlagsV
 layout: default
-slug: baf_gzuschlagsv
+origslug: baf_gzuschlagsv
+slug: bafoegzuschlagsv
 
 ---
 

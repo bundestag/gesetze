@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Meldungen über Marktordnungswaren
+jurabk: MarktONOG
 layout: default
+origslug: marktonog
 slug: marktonog
 
 ---

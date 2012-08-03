@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Verwaltung der Elbe im Gebiet Groß-Hamburg
+jurabk: ElbVwGrHmbV
 layout: default
+origslug: elbvwgrhmbv
 slug: elbvwgrhmbv
 
 ---

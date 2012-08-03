@@ -1,6 +1,8 @@
 ---
 Title: Bierverordnung
+jurabk: BierV
 layout: default
+origslug: bierv
 slug: bierv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
+jurabk: FinDASa
 layout: default
+origslug: findasa
 slug: findasa
 
 ---

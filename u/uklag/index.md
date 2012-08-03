@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen
+jurabk: UKlaG
 layout: default
+origslug: uklag
 slug: uklag
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen
+jurabk: LwAltschG
 layout: default
+origslug: lwaltschg
 slug: lwaltschg
 
 ---

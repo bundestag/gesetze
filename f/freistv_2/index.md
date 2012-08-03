@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung über die Freistellung von Unternehmen mit Sitz außerhalb
   der Europäischen Gemeinschaft von Vorschriften des Gesetzes über das Kreditwesen
+jurabk: FreistV 2
 layout: default
+origslug: freistv_2
 slug: freistv_2
 
 ---

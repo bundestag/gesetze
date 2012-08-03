@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
+jurabk: Text/ProdVeredlAusbV
 layout: default
+origslug: text_prodveredlausbv
 slug: text_prodveredlausbv
 
 ---

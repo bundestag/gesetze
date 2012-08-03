@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den weiteren Ausbau der knappschaftlichen Versicherung
+jurabk: KnVAusbauV
 layout: default
+origslug: knvausbauv
 slug: knvausbauv
 
 ---

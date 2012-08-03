@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der Justizwachtmeister im Bundesdienst
+jurabk: BPräsKldgJWAnO
 layout: default
-slug: bpr_skldgjwano
+origslug: bpr_skldgjwano
+slug: bpraeskldgjwano
 
 ---
 

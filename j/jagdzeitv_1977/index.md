@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Jagdzeiten
+jurabk: JagdzeitV 1977
 layout: default
+origslug: jagdzeitv_1977
 slug: jagdzeitv_1977
 
 ---

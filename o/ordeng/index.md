@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Titel, Orden und Ehrenzeichen
+jurabk: OrdenG
 layout: default
+origslug: ordeng
 slug: ordeng
 
 ---

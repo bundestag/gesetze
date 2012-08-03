@@ -2,7 +2,9 @@
 Title: Hundertsiebenundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
   und vom Flughafen Parchim-Mecklenburg)
+jurabk: LuftVODV 157
 layout: default
+origslug: luftvodv_157
 slug: luftvodv_157
 
 ---

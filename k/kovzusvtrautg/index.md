@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung
   des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik
   Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
+jurabk: KOVZusVtrAUTG
 layout: default
+origslug: kovzusvtrautg
 slug: kovzusvtrautg
 
 ---

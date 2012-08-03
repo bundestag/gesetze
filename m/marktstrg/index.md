@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Anpassung der landwirtschaftlichen Erzeugung an die Erfordernisse
   des Marktes
+jurabk: MarktStrG
 layout: default
+origslug: marktstrg
 slug: marktstrg
 
 ---

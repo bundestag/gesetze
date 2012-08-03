@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
   Deutschland und den Vereinigten Staaten von Amerika
+jurabk: KonsVerUSAV
 layout: default
+origslug: konsverusav
 slug: konsverusav
 
 ---

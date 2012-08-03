@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts
+jurabk: PlanzV 90
 layout: default
+origslug: planzv_90
 slug: planzv_90
 
 ---

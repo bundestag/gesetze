@@ -1,6 +1,8 @@
 ---
 Title: Tierzuchtgesetz
+jurabk: TierZG 2006
 layout: default
+origslug: tierzg_2006
 slug: tierzg_2006
 
 ---

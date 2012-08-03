@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen
+jurabk: BPräsAmtsbezAnO 1970-10
 layout: default
-slug: bpr_samtsbezano_1970-10
+origslug: bpr_samtsbezano_1970-10
+slug: bpraesamtsbezano_1970-10
 
 ---
 

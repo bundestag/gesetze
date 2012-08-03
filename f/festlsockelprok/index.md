@@ -1,7 +1,9 @@
 ---
 Title: Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen
   Festlandsockels
+jurabk: FestLSockelProk
 layout: default
+origslug: festlsockelprok
 slug: festlsockelprok
 
 ---

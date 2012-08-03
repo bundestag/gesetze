@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Rechtspersönlichkeit von Eurojust sowie die Vorrechte und
   Immunitäten der Bediensteten
+jurabk: EurojustV
 layout: default
+origslug: eurojustv
 slug: eurojustv
 
 ---

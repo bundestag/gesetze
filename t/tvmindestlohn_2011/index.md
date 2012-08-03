@@ -2,7 +2,9 @@
 Title: Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe
   im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) (Anlage 1 der Achten Verordnung
   über zwingende Arbeitsbedingungen im Baugewerbe)
+jurabk: TVMindestlohn 2011
 layout: default
+origslug: tvmindestlohn_2011
 slug: tvmindestlohn_2011
 
 ---

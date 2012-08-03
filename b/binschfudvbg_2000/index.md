@@ -1,6 +1,8 @@
 ---
 Title: Regionale Vereinbarung über den Binnenschifffahrtsfunk
+jurabk: BinSchFuDVbg 2000
 layout: default
+origslug: binschfudvbg_2000
 slug: binschfudvbg_2000
 
 ---

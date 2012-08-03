@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung betreffend das Bundeswappen und den Bundesadler
+jurabk: BWappenBek
 layout: default
+origslug: bwappenbek
 slug: bwappenbek
 
 ---

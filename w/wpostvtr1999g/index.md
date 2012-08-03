@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu den Verträgen vom 15. September 1999 des Weltpostvereins
+jurabk: WPostVtr1999G
 layout: default
+origslug: wpostvtr1999g
 slug: wpostvtr1999g
 
 ---

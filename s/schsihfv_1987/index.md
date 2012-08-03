@@ -2,7 +2,9 @@
 Title: Verordnung über die Schutz- und Sicherheitshäfen, die Häfen der Bundesmarine,
   der Bundespolizei und der Bundesbahn der Bundesrepublik Deutschland an Seeschiffahrtsstraßen
   im Bereich der Wasser- und Schiffahrtsdirektion Nord
+jurabk: SchSiHfV 1987
 layout: default
+origslug: schsihfv_1987
 slug: schsihfv_1987
 
 ---

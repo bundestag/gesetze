@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische
   Organisation zur Sicherung der Luftfahrt "EUROCONTROL" in Brüssel
+jurabk: EUROCONTROLVorRV
 layout: default
+origslug: eurocontrolvorrv
 slug: eurocontrolvorrv
 
 ---

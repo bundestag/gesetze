@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Hilfsmittel von geringem therapeutischen Nutzen oder geringem
   Abgabepreis in der gesetzlichen Krankenversicherung
+jurabk: KVHilfsmV
 layout: default
+origslug: kvhilfsmv
 slug: kvhilfsmv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Erlass über die Stiftung der Einsatzmedaille der Bundeswehr
+jurabk: StiftEinsatzMedBWErl
 layout: default
+origslug: stifteinsatzmedbwerl
 slug: stifteinsatzmedbwerl
 
 ---

@@ -3,8 +3,10 @@ Title: Verordnung zur Feststellung der Behörden des Bundes mit Aufgaben von ver
   Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes und zur Feststellung
   der öffentlichen Stellen des Bundes und der nichtöffentlichen Stellen mit lebens-
   oder verteidigungswichtigen Einrichtungen
+jurabk: SÜFV
 layout: default
-slug: s_fv
+origslug: s_fv
+slug: suefv
 
 ---
 

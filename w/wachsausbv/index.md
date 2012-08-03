@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Wachszieher/zur Wachszieherin
+jurabk: WachsAusbV
 layout: default
+origslug: wachsausbv
 slug: wachsausbv
 
 ---

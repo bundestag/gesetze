@@ -1,6 +1,8 @@
 ---
 Title: Abgabenordnung
+jurabk: AO 1977
 layout: default
+origslug: ao_1977
 slug: ao_1977
 
 ---

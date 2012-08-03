@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 23. Juni 1979 zur Erhaltung der wandernden
   wildlebenden Tierarten
+jurabk: WildTArtÜbkG
 layout: default
-slug: wildtart_bkg
+origslug: wildtart_bkg
+slug: wildtartuebkg
 
 ---
 

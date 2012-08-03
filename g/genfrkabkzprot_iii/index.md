@@ -1,7 +1,9 @@
 ---
 Title: Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über die Annahme
   eines zusätzlichen Schutzzeichens (Protokoll III)
+jurabk: GenfRKAbkZProt III
 layout: default
+origslug: genfrkabkzprot_iii
 slug: genfrkabkzprot_iii
 
 ---

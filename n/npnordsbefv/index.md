@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich
   der Nordsee
+jurabk: NPNordSBefV
 layout: default
+origslug: npnordsbefv
 slug: npnordsbefv
 
 ---

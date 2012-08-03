@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Fruchtsaft, einige ähnliche Erzeugnisse, Fruchtnektar und koffeinhaltige
   Erfrischungsgetränke
+jurabk: FrSaftV 2004
 layout: default
+origslug: frsaftv_2004
 slug: frsaftv_2004
 
 ---

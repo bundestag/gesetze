@@ -4,7 +4,9 @@ Karosserieinstandhaltungstechnik und zur Mechanikerin für
 Karosserieinstandhaltungstechnik
 ---
 Title: ''
+jurabk: KTAusbV 2008
 layout: default
+origslug: ktausbv_2008
 slug: ktausbv_2008
 
 ---

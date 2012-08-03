@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und
   öffentlich-rechtliche Rundfunkanstalten
+jurabk: MV
 layout: default
+origslug: mv
 slug: mv
 
 ---

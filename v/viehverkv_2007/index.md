@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Verschleppung von Tierseuchen im Viehverkehr
+jurabk: ViehVerkV 2007
 layout: default
+origslug: viehverkv_2007
 slug: viehverkv_2007
 
 ---

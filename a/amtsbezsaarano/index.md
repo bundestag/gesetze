@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Festsetzung von Amtsbezeichnungen für die Beamten des Bundes
   im Saarland
+jurabk: AmtsbezSaarAnO
 layout: default
+origslug: amtsbezsaarano
 slug: amtsbezsaarano
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Wiener Übereinkommen über das Recht der Verträge
+jurabk: VtrRKonv
 layout: default
+origslug: vtrrkonv
 slug: vtrrkonv
 
 ---

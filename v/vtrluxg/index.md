@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 11. Juli 1959 zwischen der Bundesrepublik Deutschland
   und dem Großherzogtum Luxemburg
+jurabk: VtrLUXG
 layout: default
+origslug: vtrluxg
 slug: vtrluxg
 
 ---

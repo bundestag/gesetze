@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die förmliche Verpflichtung nichtbeamteter Personen
+jurabk: VerpflG
 layout: default
+origslug: verpflg
 slug: verpflg
 
 ---

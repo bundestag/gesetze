@@ -2,8 +2,10 @@
 Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen
   an Beamte im Geschäftsbereich des Bundesministeriums für Vertriebene, Flüchtlinge
   und Kriegsgeschädigte
+jurabk: BMFlüJubAnO
 layout: default
-slug: bmfl_jubano
+origslug: bmfl_jubano
+slug: bmfluejubano
 
 ---
 

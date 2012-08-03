@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die
   Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)
+jurabk: SGB 4
 layout: default
+origslug: sgb_4
 slug: sgb_4
 
 ---

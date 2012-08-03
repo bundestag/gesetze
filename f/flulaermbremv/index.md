@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Bremen
+jurabk: FluLärmBremV
 layout: default
-slug: flul_rmbremv
+origslug: flul_rmbremv
+slug: flulaermbremv
 
 ---
 

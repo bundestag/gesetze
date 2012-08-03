@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der zentralen Archivierung von Unterlagen aus dem
   Bereich des Lastenausgleichs
+jurabk: LAArchV
 layout: default
+origslug: laarchv
 slug: laarchv
 
 ---

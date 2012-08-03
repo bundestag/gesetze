@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Beauftragung von Luftsportverbänden
+jurabk: BeauftrV
 layout: default
+origslug: beauftrv
 slug: beauftrv
 
 ---

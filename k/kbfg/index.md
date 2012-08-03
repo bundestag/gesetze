@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung eines Sondervermögens „Kinderbetreuungsausbau“
+jurabk: KBFG
 layout: default
+origslug: kbfg
 slug: kbfg
 
 ---

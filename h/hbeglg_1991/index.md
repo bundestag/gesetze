@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte sowie über
   strukturelle Anpassungen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+jurabk: HBeglG 1991
 layout: default
+origslug: hbeglg_1991
 slug: hbeglg_1991
 
 ---

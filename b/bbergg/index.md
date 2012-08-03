@@ -1,6 +1,8 @@
 ---
 Title: Bundesberggesetz
+jurabk: BBergG
 layout: default
+origslug: bbergg
 slug: bbergg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahre 1996
+jurabk: RAV 1996
 layout: default
+origslug: rav_1996
 slug: rav_1996
 
 ---

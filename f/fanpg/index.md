@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Anpassung verschiedener Vorschriften über die Finanzbeziehungen
   zwischen dem Bund und den Ländern an die Neuregelung der Finanzverfassung
+jurabk: FAnpG
 layout: default
+origslug: fanpg
 slug: fanpg
 
 ---

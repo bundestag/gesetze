@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Wittmundhafen
+jurabk: FluLärmWittmV
 layout: default
-slug: flul_rmwittmv
+origslug: flul_rmwittmv
+slug: flulaermwittmv
 
 ---
 

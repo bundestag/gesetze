@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Ladenschluß
+jurabk: LadSchlG
 layout: default
+origslug: ladschlg
 slug: ladschlg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts
   im Bereich der Unfallkasse des Bundes
+jurabk: BUKDiszAnO
 layout: default
+origslug: bukdiszano
 slug: bukdiszano
 
 ---

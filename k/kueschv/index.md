@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Küstenschifffahrt
+jurabk: KüSchV
 layout: default
-slug: k_schv
+origslug: k_schv
+slug: kueschv
 
 ---
 

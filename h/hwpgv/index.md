@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gründung, Tätigkeit und Umwandlung von Produktionsgenossenschaften
   des Handwerks
+jurabk: HwPGV
 layout: default
+origslug: hwpgv
 slug: hwpgv
 
 ---

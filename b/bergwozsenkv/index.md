@@ -1,6 +1,8 @@
 ---
 Title: Bergarbeiterwohnungsbau-Zinssenkungsverordnung
+jurabk: BergWoZSenkV
 layout: default
+origslug: bergwozsenkv
 slug: bergwozsenkv
 
 ---

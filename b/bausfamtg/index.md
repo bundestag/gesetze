@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Bundesausfuhramtes
+jurabk: BAusfAmtG
 layout: default
+origslug: bausfamtg
 slug: bausfamtg
 
 ---

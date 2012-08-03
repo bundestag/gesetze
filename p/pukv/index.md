@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Übergang von Rechten und Pflichten des Bundes auf die Unfallkasse
   Post und Telekom und die Wahrnehmung übertragener Aufgaben
+jurabk: PUKV
 layout: default
+origslug: pukv
 slug: pukv
 
 ---

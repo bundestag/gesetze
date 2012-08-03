@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Brauer- und Mälzer-Handwerk
+jurabk: BrauMMstrV
 layout: default
+origslug: braummstrv
 slug: braummstrv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung eines Finanzmarktstabilisierungsfonds
+jurabk: FMStFG
 layout: default
+origslug: fmstfg
 slug: fmstfg
 
 ---

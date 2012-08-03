@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Dienstsitz des Bundesaufsichtsamtes für das Kreditwesen
+jurabk: BAKredSitzBek
 layout: default
+origslug: bakredsitzbek
 slug: bakredsitzbek
 
 ---

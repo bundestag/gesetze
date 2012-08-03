@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung
   sowie Brennstofflagerung
+jurabk: FeuAO
 layout: default
+origslug: feuao
 slug: feuao
 
 ---

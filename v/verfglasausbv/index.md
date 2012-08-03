@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur
   Verfahrensmechanikerin Glastechnik
+jurabk: VerfGlasAusbV
 layout: default
+origslug: verfglasausbv
 slug: verfglasausbv
 
 ---

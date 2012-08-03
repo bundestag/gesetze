@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zu § 82 des Bundesdisziplinargesetzes
+jurabk: BDG§82V 2008
 layout: default
+origslug: bdg_82v_2008
 slug: bdg_82v_2008
 
 ---

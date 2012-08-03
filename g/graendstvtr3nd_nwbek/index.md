@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Dritten  Staatsvertrages
   zwischen den Ländern Niedersachsen und Nordrhein-Westfalen  über Änderungen der
   gemeinsamen Landesgrenze
+jurabk: GrÄndStVtr3ND/NWBek
 layout: default
-slug: gr_ndstvtr3nd_nwbek
+origslug: gr_ndstvtr3nd_nwbek
+slug: graendstvtr3nd_nwbek
 
 ---
 

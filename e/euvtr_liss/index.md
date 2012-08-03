@@ -1,7 +1,9 @@
 ---
 Title: Vertrag von Lissabon zur Änderung des Vertrags über die Europäische Union und
   des Vertrags zur Gründung der Europäischen Gemeinschaft
+jurabk: EUVtr Liss
 layout: default
+origslug: euvtr_liss
 slug: euvtr_liss
 
 ---

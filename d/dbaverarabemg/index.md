@@ -3,7 +3,9 @@ Title: Gesetz zu dem Abkommen vom 9. April 1995 zwischen der Bundesrepublik Deut
   und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung auf
   dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen
   Beziehungen
+jurabk: DBAVerArabEmG
 layout: default
+origslug: dbaverarabemg
 slug: dbaverarabemg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Wohngeldgesetz
+jurabk: WoGG
 layout: default
+origslug: wogg
 slug: wogg
 
 ---

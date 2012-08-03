@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Rechts der Kriegsdienstverweigerung und des Zivildienstes
+jurabk: KDVNG
 layout: default
+origslug: kdvng
 slug: kdvng
 
 ---

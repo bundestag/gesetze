@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Bürsten- und Pinselmacher/zur Bürsten-
   und Pinselmacherin
+jurabk: BürstPiAusbV
 layout: default
-slug: b_rstpiausbv
+origslug: b_rstpiausbv
+slug: buerstpiausbv
 
 ---
 

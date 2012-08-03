@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn
+jurabk: HüSalmoV
 layout: default
-slug: h_salmov
+origslug: h_salmov
+slug: huesalmov
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Post-Universaldienstleistungsverordnung
+jurabk: PUDLV
 layout: default
+origslug: pudlv
 slug: pudlv
 
 ---

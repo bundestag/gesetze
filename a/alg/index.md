@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Alterssicherung der Landwirte
+jurabk: ALG
 layout: default
+origslug: alg
 slug: alg
 
 ---

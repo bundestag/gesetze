@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Durchführung einer Statistik über die Schlachttier-  und
   Fleischuntersuchung
+jurabk: FlUStatV
 layout: default
+origslug: flustatv
 slug: flustatv
 
 ---

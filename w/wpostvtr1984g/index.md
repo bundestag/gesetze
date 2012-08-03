@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu den Verträgen vom 27. Juli 1984 des Weltpostvereins
+jurabk: WPostVtr1984G
 layout: default
+origslug: wpostvtr1984g
 slug: wpostvtr1984g
 
 ---

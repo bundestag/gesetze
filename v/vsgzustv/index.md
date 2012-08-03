@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz
+jurabk: VSGZustV
 layout: default
+origslug: vsgzustv
 slug: vsgzustv
 
 ---

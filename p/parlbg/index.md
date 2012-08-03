@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die parlamentarische Beteiligung bei der Entscheidung über den
   Einsatz bewaffneter Streitkräfte im Ausland
+jurabk: ParlBG
 layout: default
+origslug: parlbg
 slug: parlbg
 
 ---

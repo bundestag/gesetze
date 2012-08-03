@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das Europäische
   Laboratorium für Molekularbiologie
+jurabk: EuLabMolBioVorRV
 layout: default
+origslug: eulabmolbiovorrv
 slug: eulabmolbiovorrv
 
 ---

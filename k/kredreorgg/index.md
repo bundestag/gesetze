@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Reorganisation von Kreditinstituten
+jurabk: KredReorgG
 layout: default
+origslug: kredreorgg
 slug: kredreorgg
 
 ---

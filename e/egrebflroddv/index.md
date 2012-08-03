@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des EG-Rebflächenrodungsprogramms
+jurabk: EGRebflRodDV
 layout: default
+origslug: egrebflroddv
 slug: egrebflroddv
 
 ---

@@ -2,8 +2,10 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande
   über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember
   1957 und die Erleichterung seiner Anwendung
+jurabk: EuAuslfÜbkErgVtr NLD
 layout: default
-slug: euauslf_bkergvtr_nld
+origslug: euauslf_bkergvtr_nld
+slug: euauslfuebkergvtr_nld
 
 ---
 

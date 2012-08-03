@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 20. Juni 1956 über die Geltendmachung von Unterhaltsansprüchen
   im Ausland
+jurabk: UhAnsprAuslÜbkG
 layout: default
-slug: uhansprausl_bkg
+origslug: uhansprausl_bkg
+slug: uhansprausluebkg
 
 ---
 

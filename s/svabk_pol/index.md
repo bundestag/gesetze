@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen
   über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates
   vorübergehend entsandt werden
+jurabk: SVAbk POL
 layout: default
+origslug: svabk_pol
 slug: svabk_pol
 
 ---

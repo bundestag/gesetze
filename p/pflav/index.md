@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Pflichtablieferung von Medienwerken an die Deutsche Nationalbibliothek
+jurabk: PflAV
 layout: default
+origslug: pflav
 slug: pflav
 
 ---

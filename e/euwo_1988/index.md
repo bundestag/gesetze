@@ -1,6 +1,8 @@
 ---
 Title: Europawahlordnung
+jurabk: EuWO 1988
 layout: default
+origslug: euwo_1988
 slug: euwo_1988
 
 ---

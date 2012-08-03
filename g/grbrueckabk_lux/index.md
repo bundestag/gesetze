@@ -2,8 +2,10 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
   über den Bau und die Unterhaltung einer Grenzbrücke über die Sauer zwischen den
   Gemeinden Langsur und Mertert
+jurabk: GrBrückAbk LUX
 layout: default
-slug: grbr_ckabk_lux
+origslug: grbr_ckabk_lux
+slug: grbrueckabk_lux
 
 ---
 

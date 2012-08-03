@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Akkreditierungsstelle
+jurabk: AkkStelleG
 layout: default
+origslug: akkstelleg
 slug: akkstelleg
 
 ---

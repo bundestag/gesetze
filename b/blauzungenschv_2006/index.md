@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung gemeinschaftsrechtlicher und unionsrechtlicher
   Vorschriften über Maßnahmen zur Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit
+jurabk: BlauzungenSchV 2006
 layout: default
+origslug: blauzungenschv_2006
 slug: blauzungenschv_2006
 
 ---

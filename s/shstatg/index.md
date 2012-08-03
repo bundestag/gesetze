@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Durchführung von Statistiken auf dem Gebiet der Kriegsopferfürsorge
+jurabk: SHStatG
 layout: default
+origslug: shstatg
 slug: shstatg
 
 ---

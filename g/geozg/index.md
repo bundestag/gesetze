@@ -2,7 +2,9 @@
 Gesetz über den Zugang zu digitalen Geodaten
 ---
 Title: ''
+jurabk: GeoZG
 layout: default
+origslug: geozg
 slug: geozg
 
 ---

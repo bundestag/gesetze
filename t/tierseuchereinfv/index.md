@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern
+jurabk: TierSeuchErEinfV
 layout: default
+origslug: tierseuchereinfv
 slug: tierseuchereinfv
 
 ---

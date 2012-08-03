@@ -1,6 +1,8 @@
 ---
 Title: Sortenschutzgesetz
+jurabk: SortSchG 1985
 layout: default
+origslug: sortschg_1985
 slug: sortschg_1985
 
 ---

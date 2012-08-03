@@ -1,7 +1,9 @@
 ---
 Title: Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher
   Kennzeichnungsvorschriften)
+jurabk: AromV
 layout: default
+origslug: aromv
 slug: aromv
 
 ---

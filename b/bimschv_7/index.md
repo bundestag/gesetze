@@ -1,6 +1,8 @@
 ---
 Title: Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 7
 layout: default
+origslug: bimschv_7
 slug: bimschv_7
 
 ---

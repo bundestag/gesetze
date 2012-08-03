@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2006
+jurabk: RAAG 2006
 layout: default
+origslug: raag_2006
 slug: raag_2006
 
 ---

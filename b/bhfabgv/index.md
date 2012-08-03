@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Abgaben in den bundeseigenen Häfen im Geltungsbereich der
   Seeschifffahrtsstraßen-Ordnung
+jurabk: BHfAbgV
 layout: default
+origslug: bhfabgv
 slug: bhfabgv
 
 ---

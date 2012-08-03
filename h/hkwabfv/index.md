@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel
+jurabk: HKWAbfV
 layout: default
+origslug: hkwabfv
 slug: hkwabfv
 
 ---

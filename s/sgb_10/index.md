@@ -1,7 +1,9 @@
 ---
 Title: Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz
   -
+jurabk: SGB 10
 layout: default
+origslug: sgb_10
 slug: sgb_10
 
 ---

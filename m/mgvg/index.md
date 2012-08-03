@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden
   Verschmelzung
+jurabk: MgVG
 layout: default
+origslug: mgvg
 slug: mgvg
 
 ---

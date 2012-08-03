@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Übertragung der Befugnis zur Festsetzung
   von Amtsbezeichnungen
+jurabk: BPräsAmtsbezÜbAnO
 layout: default
-slug: bpr_samtsbez_bano
+origslug: bpr_samtsbez_bano
+slug: bpraesamtsbezuebano
 
 ---
 

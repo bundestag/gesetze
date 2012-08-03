@@ -4,7 +4,9 @@ Title: Übereinkommen zwischen dem Königreich Belgien, dem Königreich Dänemar
   Luxemburg, dem Königreich der Niederlande, der Europäischen Atomgemeinschaft und
   der Internationalen Atomenergie-Organisation in Ausführung von Artikel III Absätze
   1 und 4 des Vertrages vom 1.7.1968 über die Nichtverbreitung von Kernwaffen
+jurabk: VerifAbk
 layout: default
+origslug: verifabk
 slug: verifabk
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über befristete Arbeitsverträge in der Wissenschaft
+jurabk: WissZeitVG
 layout: default
+origslug: wisszeitvg
 slug: wisszeitvg
 
 ---

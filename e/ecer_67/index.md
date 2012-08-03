@@ -1,6 +1,8 @@
 ---
 Title: ECE-Regelung Nr. 67 über den Einsatz von Flüssiggas
+jurabk: ECER 67
 layout: default
+origslug: ecer_67
 slug: ecer_67
 
 ---

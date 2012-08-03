@@ -2,8 +2,10 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
   über den Autobahnzusammenschluß und den Bau einer Grenzbrücke über die Mosel im
   Raum Perl und Schengen
+jurabk: GrBrückPerlAbk LUX
 layout: default
-slug: grbr_ckperlabk_lux
+origslug: grbr_ckperlabk_lux
+slug: grbrueckperlabk_lux
 
 ---
 

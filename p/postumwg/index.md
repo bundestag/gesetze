@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform
   der Aktiengesellschaft
+jurabk: PostUmwG
 layout: default
+origslug: postumwg
 slug: postumwg
 
 ---

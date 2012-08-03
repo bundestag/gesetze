@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen
   und wirtschaftlichen Verhältnisse bei Prozeßkostenhilfe
+jurabk: PKHVV
 layout: default
+origslug: pkhvv
 slug: pkhvv
 
 ---

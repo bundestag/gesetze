@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin
   durch Soldatinnen der Bundeswehr
+jurabk: SGleibWV
 layout: default
+origslug: sgleibwv
 slug: sgleibwv
 
 ---

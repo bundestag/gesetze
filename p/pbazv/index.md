@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung der Arbeitszeit für die bei der Deutschen Postbank
   AG beschäftigten Beamtinnen und Beamten
+jurabk: PBAZV
 layout: default
+origslug: pbazv
 slug: pbazv
 
 ---

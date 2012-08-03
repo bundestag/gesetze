@@ -1,6 +1,8 @@
 ---
 Title: Bundesdatenschutzgesetz
+jurabk: BDSG 1990
 layout: default
+origslug: bdsg_1990
 slug: bdsg_1990
 
 ---

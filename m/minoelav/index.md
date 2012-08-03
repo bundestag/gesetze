@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über einen Mineralölausgleich in einer Versorgungskrise
+jurabk: MinÖlAV
 layout: default
-slug: min_lav
+origslug: min_lav
+slug: minoelav
 
 ---
 

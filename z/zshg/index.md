@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Harmonisierung des Schutzes gefährdeter Zeugen
+jurabk: ZSHG
 layout: default
+origslug: zshg
 slug: zshg
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Durchsetzung von Vorschriften in Rechtsakten der Europäischen
   Gemeinschaft über die Verbringung von Abfällen
+jurabk: AbfVerbrBußV
 layout: default
-slug: abfverbrbu_v
+origslug: abfverbrbu_v
+slug: abfverbrbussv
 
 ---
 

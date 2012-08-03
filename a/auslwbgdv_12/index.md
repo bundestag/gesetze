@@ -1,7 +1,9 @@
 ---
 Title: Zwölfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
   (Selbständige Anmeldung von Zinsscheinen)
+jurabk: AuslWBGDV 12
 layout: default
+origslug: auslwbgdv_12
 slug: auslwbgdv_12
 
 ---

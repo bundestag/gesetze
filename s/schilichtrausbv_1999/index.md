@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schilder- und Lichtreklamehersteller/zur
   Schilder- und Lichtreklameherstellerin
+jurabk: SchiLichtrAusbV 1999
 layout: default
+origslug: schilichtrausbv_1999
 slug: schilichtrausbv_1999
 
 ---

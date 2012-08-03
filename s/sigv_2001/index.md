@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur elektronischen Signatur
+jurabk: SigV 2001
 layout: default
+origslug: sigv_2001
 slug: sigv_2001
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes
+jurabk: PersStdGÄndG 2
 layout: default
-slug: persstdg_ndg_2
+origslug: persstdg_ndg_2
+slug: persstdgaendg_2
 
 ---
 

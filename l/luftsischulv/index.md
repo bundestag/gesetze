@@ -1,6 +1,8 @@
 ---
 Title: Luftsicherheits-Schulungsverordnung
+jurabk: LuftSiSchulV
 layout: default
+origslug: luftsischulv
 slug: luftsischulv
 
 ---

@@ -2,7 +2,9 @@
 Title: Gesetz zum Vertrag vom 5. Februar 1979 zwischen der Bundesrepublik Deutschland
   und dem Königreich Belgien über den Bau und die Unterhaltung einer Autobahnbrücke
   über die Our bei Steinebrück
+jurabk: AutobBrVtrBELG
 layout: default
+origslug: autobbrvtrbelg
 slug: autobbrvtrbelg
 
 ---

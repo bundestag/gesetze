@@ -1,6 +1,8 @@
 ---
 Title: Bundesjagdgesetz
+jurabk: BJagdG
 layout: default
+origslug: bjagdg
 slug: bjagdg
 
 ---

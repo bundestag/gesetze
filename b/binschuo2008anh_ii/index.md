@@ -3,7 +3,9 @@ Binnenwasserstraßen der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein
 Schiffsattest beantragen
 ---
 Title: (Anhang II zur Binnenschiffsuntersuchungsordnung)
+jurabk: BinSchUO2008Anh II
 layout: default
+origslug: binschuo2008anh_ii
 slug: binschuo2008anh_ii
 
 ---

@@ -2,7 +2,9 @@
 Fischseuchenverordnung
 ---
 Title: ''
+jurabk: FischSeuchV 2008
 layout: default
+origslug: fischseuchv_2008
 slug: fischseuchv_2008
 
 ---

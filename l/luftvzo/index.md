@@ -1,6 +1,8 @@
 ---
 Title: Luftverkehrs-Zulassungs-Ordnung
+jurabk: LuftVZO
 layout: default
+origslug: luftvzo
 slug: luftvzo
 
 ---

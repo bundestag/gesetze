@@ -3,7 +3,9 @@ Verordnung über die Erhebung von Daten zur Einbeziehung des
 Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel
 ---
 Title: ''
+jurabk: DEV 2020
 layout: default
+origslug: dev_2020
 slug: dev_2020
 
 ---

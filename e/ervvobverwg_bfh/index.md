@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den elektronischen Rechtsverkehr beim Bundesverwaltungsgericht
   und beim Bundesfinanzhof
+jurabk: ERVVOBVerwG/BFH
 layout: default
+origslug: ervvobverwg_bfh
 slug: ervvobverwg_bfh
 
 ---

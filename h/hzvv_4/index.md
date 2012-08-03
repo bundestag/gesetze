@@ -1,7 +1,9 @@
 ---
 Title: Vierte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen
   Zusatzversicherung
+jurabk: HZvV 4
 layout: default
+origslug: hzvv_4
 slug: hzvv_4
 
 ---

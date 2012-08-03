@@ -1,7 +1,9 @@
 ---
 Title: Schiffahrtspolizeiliche Anordnung über die Ergänzung von Schiffahrtszeichen
   auf den Seeschiffahrtsstraßen im Bereich des Landes Mecklenburg-Vorpommern
+jurabk: MVSchPAnO
 layout: default
+origslug: mvschpano
 slug: mvschpano
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Fortschreibung der Regelbedarfsstufen nach § 138 Nummer 2 des
   Zwölften Buches Sozialgesetzbuch für das Jahr 2012
+jurabk: RBSFV 2012
 layout: default
+origslug: rbsfv_2012
 slug: rbsfv_2012
 
 ---

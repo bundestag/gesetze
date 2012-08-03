@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahre 1999
+jurabk: RAV 1999
 layout: default
+origslug: rav_1999
 slug: rav_1999
 
 ---

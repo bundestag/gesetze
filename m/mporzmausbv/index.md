@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Manufakturporzellanmaler/zur Manufakturporzellanmalerin
+jurabk: MPorzMAusbV
 layout: default
+origslug: mporzmausbv
 slug: mporzmausbv
 
 ---

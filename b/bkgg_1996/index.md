@@ -1,6 +1,8 @@
 ---
 Title: Bundeskindergeldgesetz
+jurabk: BKGG 1996
 layout: default
+origslug: bkgg_1996
 slug: bkgg_1996
 
 ---

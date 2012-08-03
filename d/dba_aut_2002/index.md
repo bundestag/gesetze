@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich
   zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und
   vom Vermögen
+jurabk: DBA AUT 2002
 layout: default
+origslug: dba_aut_2002
 slug: dba_aut_2002
 
 ---

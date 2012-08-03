@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Übertragung von Bundespolizeiaufgaben auf die Zollverwaltung
+jurabk: BPolZollV
 layout: default
+origslug: bpolzollv
 slug: bpolzollv
 
 ---

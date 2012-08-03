@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen
   Versorgung im Geschäftsbereich des Bundesministers der Verteidigung
+jurabk: BMVgBVersZustAnO
 layout: default
+origslug: bmvgbverszustano
 slug: bmvgbverszustano
 
 ---

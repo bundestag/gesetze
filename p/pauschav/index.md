@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Verteilung der pauschalen Abgeltung für Aufwendungen der
   Krankenkassen für versicherungsfremde Leistungen durch den Bund
+jurabk: PauschAV
 layout: default
+origslug: pauschav
 slug: pauschav
 
 ---

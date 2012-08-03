@@ -2,7 +2,9 @@
 Title: Verordnung zur Durchführung der steuerlichen Vorschriften des Einkommensteuergesetzes
   zur Altersvorsorge und zum Rentenbezugsmitteilungsverfahren sowie zum weiteren Datenaustausch
   mit der zentralen Stelle
+jurabk: AltvDV
 layout: default
+origslug: altvdv
 slug: altvdv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder
+jurabk: KitaFinHG
 layout: default
+origslug: kitafinhg
 slug: kitafinhg
 
 ---

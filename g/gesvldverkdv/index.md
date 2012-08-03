@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Internationalen Gesundheitsvorschriften im
   Landverkehr
+jurabk: GesVLdVerkDV
 layout: default
+origslug: gesvldverkdv
 slug: gesvldverkdv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über kosmetische Mittel
+jurabk: KosmetikV
 layout: default
+origslug: kosmetikv
 slug: kosmetikv
 
 ---

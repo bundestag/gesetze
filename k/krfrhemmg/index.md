@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten
   Fristen
+jurabk: KrFrHemmG
 layout: default
+origslug: krfrhemmg
 slug: krfrhemmg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Rechtsanordnung zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege
+jurabk: NSUnrAnO
 layout: default
+origslug: nsunrano
 slug: nsunrano
 
 ---

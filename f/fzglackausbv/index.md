@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
+jurabk: FzgLackAusbV
 layout: default
+origslug: fzglackausbv
 slug: fzglackausbv
 
 ---

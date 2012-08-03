@@ -3,7 +3,9 @@ Verordnung zur Bekämpfung des Kartoffelkrebses und der
 Kartoffelzystennematoden
 ---
 Title: ''
+jurabk: KartKrebs/KartZystV
 layout: default
+origslug: kartkrebs_kartzystv
 slug: kartkrebs_kartzystv
 
 ---

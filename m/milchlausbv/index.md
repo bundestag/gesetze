@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laboranten/zur
   Milchwirtschaftlichen Laborantin
+jurabk: MilchLAusbV
 layout: default
+origslug: milchlausbv
 slug: milchlausbv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Direktoren
   und Lehrer bei den Europäischen Schulen im Ausland
+jurabk: EuSchulAuslVorRV
 layout: default
+origslug: euschulauslvorrv
 slug: euschulauslvorrv
 
 ---

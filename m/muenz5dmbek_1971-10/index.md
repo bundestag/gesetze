@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Reichsgründungsmünze)
+jurabk: Münz5DMBek 1971-10
 layout: default
-slug: m_nz5dmbek_1971-10
+origslug: m_nz5dmbek_1971-10
+slug: muenz5dmbek_1971-10
 
 ---
 

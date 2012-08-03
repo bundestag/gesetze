@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
+jurabk: BGA-NachfG
 layout: default
+origslug: bga-nachfg
 slug: bga-nachfg
 
 ---

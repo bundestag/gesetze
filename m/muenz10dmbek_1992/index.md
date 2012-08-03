@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 125. Geburtstag von Käthe Kollwitz)
+jurabk: Münz10DMBek 1992
 layout: default
-slug: m_nz10dmbek_1992
+origslug: m_nz10dmbek_1992
+slug: muenz10dmbek_1992
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Blauzungenkrankheit
+jurabk: BlauzungenV
 layout: default
+origslug: blauzungenv
 slug: blauzungenv
 
 ---

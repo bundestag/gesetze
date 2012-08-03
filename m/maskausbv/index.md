@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin
+jurabk: MaskAusbV
 layout: default
+origslug: maskausbv
 slug: maskausbv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Sechste Durchführungsverordnung zum Marktstrukturgesetz - Getreide, Öl- und
   Hülsenfrüchte
+jurabk: MarktStrGDV 6
 layout: default
+origslug: marktstrgdv_6
 slug: marktstrgdv_6
 
 ---

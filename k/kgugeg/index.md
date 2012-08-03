@@ -3,7 +3,9 @@ Title: Gesetz über die nachträgliche Umstellung von Kontoguthaben, über die T
   von Anteilrechten an der Altguthaben-Ablösungs-Anleihe, zur Änderung lastenausgleichsrechtlicher
   Bestimmungen und zur Ergänzung des Gesetzes über die Errichtung der "Staatlichen
   Versicherung der DDR in Abwicklung"
+jurabk: KGUGEG
 layout: default
+origslug: kgugeg
 slug: kgugeg
 
 ---

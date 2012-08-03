@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Steuern,
   Zölle und Finanzmonopole im Saarland
+jurabk: StRSaarEG
 layout: default
+origslug: strsaareg
 slug: strsaareg
 
 ---

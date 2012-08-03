@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der
   Rentenversicherung
+jurabk: VersorgAusglAnglFaktorBek 2008
 layout: default
+origslug: versorgausglanglfaktorbek_2008
 slug: versorgausglanglfaktorbek_2008
 
 ---

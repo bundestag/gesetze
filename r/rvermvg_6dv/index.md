@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des § 6 des Gesetzes zur vorläufigen Regelung der
   Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen
+jurabk: RVermVG§6DV
 layout: default
+origslug: rvermvg_6dv
 slug: rvermvg_6dv
 
 ---

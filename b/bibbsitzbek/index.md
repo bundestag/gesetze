@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Dienstsitz des Bundesinstituts für Berufsbildung (BIBB)
+jurabk: BIBBSitzBek
 layout: default
+origslug: bibbsitzbek
 slug: bibbsitzbek
 
 ---

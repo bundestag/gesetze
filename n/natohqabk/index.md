@@ -3,7 +3,9 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Obersten Hauptqu
   der Alliierten Mächte, Europa, über die besonderen Bedingungen für die Einrichtung
   und den Betrieb internationaler militärischer Hauptquartiere in der Bundesrepublik
   Deutschland
+jurabk: NATOHQAbk
 layout: default
+origslug: natohqabk
 slug: natohqabk
 
 ---

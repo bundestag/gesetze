@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die rechtliche Stellung der nichtehelichen Kinder
+jurabk: NEhelG
 layout: default
+origslug: nehelg
 slug: nehelg
 
 ---

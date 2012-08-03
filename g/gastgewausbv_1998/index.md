@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung im Gastgewerbe
+jurabk: GastgewAusbV 1998
 layout: default
+origslug: gastgewausbv_1998
 slug: gastgewausbv_1998
 
 ---

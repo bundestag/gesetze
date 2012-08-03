@@ -1,6 +1,8 @@
 ---
 Title: Energiechartaprotokoll über Energieeffizienz und damit verbundene Umweltaspekte
+jurabk: ECHVertrProt
 layout: default
+origslug: echvertrprot
 slug: echvertrprot
 
 ---

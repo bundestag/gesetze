@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Rohrfernleitungsanlagen
+jurabk: RohrFLtgV
 layout: default
+origslug: rohrfltgv
 slug: rohrfltgv
 
 ---

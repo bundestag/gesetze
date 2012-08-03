@@ -2,8 +2,10 @@
 Title: Gesetz zu den Haager übereinkommen vom 2. Oktober 1973 über die Anerkennung
   und Vollstreckung von Unterhaltsentscheidungen sowie über das auf Unterhaltspflichten
   anzuwendende Recht
+jurabk: UhEntsch/UhPflÜbkHaagG
 layout: default
-slug: uhentsch_uhpfl_bkhaagg
+origslug: uhentsch_uhpfl_bkhaagg
+slug: uhentsch_uhpfluebkhaagg
 
 ---
 

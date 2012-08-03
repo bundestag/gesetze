@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über die deutschen Flaggen
+jurabk: FlaggAnO 1996
 layout: default
+origslug: flaggano_1996
 slug: flaggano_1996
 
 ---

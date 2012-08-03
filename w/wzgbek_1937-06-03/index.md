@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zum Warenzeichengesetz über ein amtliches Prüfzeichen
+jurabk: WZGBek 1937-06-03
 layout: default
+origslug: wzgbek_1937-06-03
 slug: wzgbek_1937-06-03
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den rechtlichen Schutz von Mustern und Modellen
+jurabk: GeschmMG 2004
 layout: default
+origslug: geschmmg_2004
 slug: geschmmg_2004
 
 ---

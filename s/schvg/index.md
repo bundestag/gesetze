@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Schuldverschreibungen aus Gesamtemissionen
+jurabk: SchVG
 layout: default
+origslug: schvg
 slug: schvg
 
 ---

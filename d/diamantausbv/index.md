@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Diamantschleifer/zur Diamantschleiferin
+jurabk: DiamantAusbV
 layout: default
+origslug: diamantausbv
 slug: diamantausbv
 
 ---

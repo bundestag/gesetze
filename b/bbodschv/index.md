@@ -1,6 +1,8 @@
 ---
 Title: Bundes-Bodenschutz- und Altlastenverordnung
+jurabk: BBodSchV
 layout: default
+origslug: bbodschv
 slug: bbodschv
 
 ---

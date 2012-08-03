@@ -1,6 +1,8 @@
 ---
 Title: Verfassungsgesetz zur Bildung von Ländern in der Deutschen Demokratischen Republik
+jurabk: LEinfG
 layout: default
+origslug: leinfg
 slug: leinfg
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Zusammensetzung und das Verfahren des Widerspruchsausschusses
   bei der Bundesanstalt für Finanzdienstleistungsaufsicht
+jurabk: WpÜGWidV
 layout: default
-slug: wp_gwidv
+origslug: wp_gwidv
+slug: wpuegwidv
 
 ---
 

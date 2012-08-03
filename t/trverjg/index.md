@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder
   rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
+jurabk: TrVerjG
 layout: default
+origslug: trverjg
 slug: trverjg
 
 ---

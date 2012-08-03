@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung des Organisationserlasses des Bundeskanzlers
+jurabk: BKOrgErl1995-07Bek
 layout: default
+origslug: bkorgerl1995-07bek
 slug: bkorgerl1995-07bek
 
 ---

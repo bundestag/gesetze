@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Berg- und Maschinenmann
+jurabk: BergMAusbV
 layout: default
+origslug: bergmausbv
 slug: bergmausbv
 
 ---

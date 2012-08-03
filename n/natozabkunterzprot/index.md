@@ -1,6 +1,8 @@
 ---
 Title: Unterzeichnungsprotokoll zum Zusatzabkommen
+jurabk: NATOZAbkUnterzProt
 layout: default
+origslug: natozabkunterzprot
 slug: natozabkunterzprot
 
 ---

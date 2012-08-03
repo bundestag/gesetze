@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb ziviler
   Luftfahrzeuge
+jurabk: FlUUG
 layout: default
+origslug: fluug
 slug: fluug
 
 ---

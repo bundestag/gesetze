@@ -1,7 +1,9 @@
 ---
 Title: Schlußprotokoll zur Vollzugsordnung zum Postanweisungsübereinkommen
+jurabk: PostAnwÜbkVollzOSchlProt
 layout: default
-slug: postanw_bkvollzoschlprot
+origslug: postanw_bkvollzoschlprot
+slug: postanwuebkvollzoschlprot
 
 ---
 

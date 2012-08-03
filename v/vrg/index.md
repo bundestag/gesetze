@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Förderung von Vorruhestandsleistungen
+jurabk: VRG
 layout: default
+origslug: vrg
 slug: vrg
 
 ---

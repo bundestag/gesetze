@@ -2,8 +2,10 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem  Amt
   des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des  Hohen
   Flüchtlingskommissars der Vereinten Nationen in Deutschland
+jurabk: UNHCRBüroAbk
 layout: default
-slug: unhcrb_roabk
+origslug: unhcrb_roabk
+slug: unhcrbueroabk
 
 ---
 

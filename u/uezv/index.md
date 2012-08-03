@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung einer Übergangszahlung an Beamte
+jurabk: ÜZV
 layout: default
-slug: _zv
+origslug: _zv
+slug: uezv
 
 ---
 

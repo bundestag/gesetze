@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Sonderung unvermessener und überbauter Grundstücke nach der
   Karte
+jurabk: BoSoG
 layout: default
+origslug: bosog
 slug: bosog
 
 ---

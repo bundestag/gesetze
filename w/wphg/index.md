@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Wertpapierhandel
+jurabk: WpHG
 layout: default
+origslug: wphg
 slug: wphg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Sicherung der Bauforderungen
+jurabk: BauFordSiG
 layout: default
+origslug: baufordsig
 slug: baufordsig
 
 ---

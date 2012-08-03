@@ -1,6 +1,8 @@
 ---
 Title: Bundesbesoldungsgesetz
+jurabk: BBesG
 layout: default
+origslug: bbesg
 slug: bbesg
 
 ---

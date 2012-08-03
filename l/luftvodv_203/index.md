@@ -2,7 +2,9 @@
 Title: Zweihundertdritte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz
   Augsburg)
+jurabk: LuftVODV 203
 layout: default
+origslug: luftvodv_203
 slug: luftvodv_203
 
 ---

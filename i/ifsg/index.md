@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
+jurabk: IfSG
 layout: default
+origslug: ifsg
 slug: ifsg
 
 ---

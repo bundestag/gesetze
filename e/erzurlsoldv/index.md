@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Elternzeit für Soldatinnen und Soldaten
+jurabk: ErzUrlSoldV
 layout: default
+origslug: erzurlsoldv
 slug: erzurlsoldv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Flüchtlingshilfegesetz
+jurabk: FlüHG
 layout: default
-slug: fl_hg
+origslug: fl_hg
+slug: fluehg
 
 ---
 

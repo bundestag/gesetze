@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen
   Lebens"
+jurabk: MuKStiftG
 layout: default
+origslug: mukstiftg
 slug: mukstiftg
 
 ---

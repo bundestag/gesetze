@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Einheiten im Messwesen und die Zeitbestimmung
+jurabk: MeßEinhG
 layout: default
-slug: me_einhg
+origslug: me_einhg
+slug: messeinhg
 
 ---
 

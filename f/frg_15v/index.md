@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen
   Sicherheit als gesetzliche Rentenversicherungen
+jurabk: FRG§15V
 layout: default
+origslug: frg_15v
 slug: frg_15v
 
 ---

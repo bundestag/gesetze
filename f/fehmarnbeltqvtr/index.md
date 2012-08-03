@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark
   über eine Feste Fehmarnbeltquerung
+jurabk: FehmarnbeltqVtr
 layout: default
+origslug: fehmarnbeltqvtr
 slug: fehmarnbeltqvtr
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Internationales Übereinkommen von 1989 über Bergung
+jurabk: BergÜbk
 layout: default
-slug: berg_bk
+origslug: berg_bk
+slug: berguebk
 
 ---
 

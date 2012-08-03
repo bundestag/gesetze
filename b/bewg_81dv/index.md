@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des § 81 des Bewertungsgesetzes
+jurabk: BewG§81DV
 layout: default
+origslug: bewg_81dv
 slug: bewg_81dv
 
 ---

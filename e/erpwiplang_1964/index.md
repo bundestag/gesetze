@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für
   das Rechnungsjahr 1964
+jurabk: ERPWiPlanG 1964
 layout: default
+origslug: erpwiplang_1964
 slug: erpwiplang_1964
 
 ---

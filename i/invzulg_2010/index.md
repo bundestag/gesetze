@@ -1,6 +1,8 @@
 ---
 Title: Investitionszulagengesetz 2010
+jurabk: InvZulG 2010
 layout: default
+origslug: invzulg_2010
 slug: invzulg_2010
 
 ---

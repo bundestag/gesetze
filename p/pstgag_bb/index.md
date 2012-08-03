@@ -1,6 +1,8 @@
 ---
 Title: Brandenburgisches Gesetz zur Ausführung des Personenstandsgesetzes
+jurabk: PStGAG BB
 layout: default
+origslug: pstgag_bb
 slug: pstgag_bb
 
 ---

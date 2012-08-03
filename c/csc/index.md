@@ -1,6 +1,8 @@
 ---
 Title: Internationales Übereinkommen über sichere Container
+jurabk: CSC
 layout: default
+origslug: csc
 slug: csc
 
 ---

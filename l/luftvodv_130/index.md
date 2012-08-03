@@ -2,7 +2,9 @@
 Title: Hundertdreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flugplatz
   Neubrandenburg)
+jurabk: LuftVODV 130
 layout: default
+origslug: luftvodv_130
 slug: luftvodv_130
 
 ---

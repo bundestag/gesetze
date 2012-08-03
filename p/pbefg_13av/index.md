@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anwendung von § 13a Abs. 1 Satz 3 des Personenbeförderungsgesetzes
+jurabk: PBefG§13aV
 layout: default
+origslug: pbefg_13av
 slug: pbefg_13av
 
 ---

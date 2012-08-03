@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Fachagrarwirt/Geprüfte
   Fachagrarwirtin - Baumpflege und Baumsanierung
+jurabk: FAgrPrV
 layout: default
+origslug: fagrprv
 slug: fagrprv
 
 ---

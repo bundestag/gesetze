@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Milchwirtschaftlichen Laboranten/zur Milchwirtschaftlichen Laborantin
+jurabk: MilchLAusbStV
 layout: default
+origslug: milchlausbstv
 slug: milchlausbstv
 
 ---

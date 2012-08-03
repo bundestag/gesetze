@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland
   durch das Verbreiten von hochwertigen Erdfernerkundungsdaten
+jurabk: SatDSiG
 layout: default
+origslug: satdsig
 slug: satdsig
 
 ---

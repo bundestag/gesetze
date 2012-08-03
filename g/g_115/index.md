@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ausführung von Artikel 115 des Grundgesetzes
+jurabk: G 115
 layout: default
+origslug: g_115
 slug: g_115
 
 ---

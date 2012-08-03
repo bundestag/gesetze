@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Feststellung der Gesamtverwaltungskosten der gemeinsamen Einrichtung
+jurabk: VKFV
 layout: default
+origslug: vkfv
 slug: vkfv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch künstliche optische
   Strahlung
+jurabk: OStrV
 layout: default
+origslug: ostrv
 slug: ostrv
 
 ---

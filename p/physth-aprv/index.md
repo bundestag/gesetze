@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsverordnung für Physiotherapeuten
+jurabk: PhysTh-APrV
 layout: default
+origslug: physth-aprv
 slug: physth-aprv
 
 ---

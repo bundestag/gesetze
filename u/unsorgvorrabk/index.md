@@ -1,7 +1,9 @@
 ---
 Title: Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten
   Nationen
+jurabk: UNSOrgVorRAbk
 layout: default
+origslug: unsorgvorrabk
 slug: unsorgvorrabk
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung der Dienstbezüge und Anwärterbezüge nach § 2 Abs. 1 und § 3
   Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
+jurabk: BesÜV2Bek 1994-01-14
 layout: default
-slug: bes_v2bek_1994-01-14
+origslug: bes_v2bek_1994-01-14
+slug: besuev2bek_1994-01-14
 
 ---
 

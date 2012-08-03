@@ -3,7 +3,9 @@ Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter
 Brennelemente
 ---
 Title: ''
+jurabk: AtAV 2009
 layout: default
+origslug: atav_2009
 slug: atav_2009
 
 ---

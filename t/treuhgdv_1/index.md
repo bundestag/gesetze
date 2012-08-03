@@ -1,6 +1,8 @@
 ---
 Title: Erste Durchführungsverordnung zum Treuhandgesetz
+jurabk: TreuhGDV 1
 layout: default
+origslug: treuhgdv_1
 slug: treuhgdv_1
 
 ---

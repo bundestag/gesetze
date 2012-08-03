@@ -1,7 +1,9 @@
 ---
 Title: Europäisches Übereinkommen über die Aufhebung des Sichtvermerkszwangs für Flüchtlinge
+jurabk: EuSVkÜbk
 layout: default
-slug: eusvk_bk
+origslug: eusvk_bk
+slug: eusvkuebk
 
 ---
 

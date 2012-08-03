@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 29. Juni 1994 über die Zusammenarbeit zum Schutz
   und zur verträglichen Nutzung der Donau (Donauschutzübereinkommen)
+jurabk: DonauSchÜbkG
 layout: default
-slug: donausch_bkg
+origslug: donausch_bkg
+slug: donauschuebkg
 
 ---
 

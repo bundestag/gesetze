@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsordnung zum Übereinkommen über die Erteilung europäischer Patente
+jurabk: EuPatÜbkAO
 layout: default
-slug: eupat_bkao
+origslug: eupat_bkao
+slug: eupatuebkao
 
 ---
 

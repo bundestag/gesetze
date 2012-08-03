@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Internationalen Organisation
   für erneuerbare Energien über den Sitz des IRENA-Innovations- und Technologiezentrums
+jurabk: IRENASitzAbk
 layout: default
+origslug: irenasitzabk
 slug: irenasitzabk
 
 ---

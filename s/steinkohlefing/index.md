@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus
   zum Jahr 2018
+jurabk: SteinkohleFinG
 layout: default
+origslug: steinkohlefing
 slug: steinkohlefing
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Elektrizitäts- und Gasversorgung
+jurabk: EnWG 2005
 layout: default
+origslug: enwg_2005
 slug: enwg_2005
 
 ---

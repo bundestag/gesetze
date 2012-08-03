@@ -1,6 +1,8 @@
 ---
 Title: Verwaltungs-Vollstreckungsgesetz
+jurabk: VwVG
 layout: default
+origslug: vwvg
 slug: vwvg
 
 ---

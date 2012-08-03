@@ -1,8 +1,10 @@
 ---
 Title: Zweite Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des
   Bundesentschädigungsgesetzes
+jurabk: BEGDV6ÄndV 2
 layout: default
-slug: begdv6_ndv_2
+origslug: begdv6_ndv_2
+slug: begdv6aendv_2
 
 ---
 

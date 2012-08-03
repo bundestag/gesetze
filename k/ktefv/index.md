@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren zur Feststellung der Eignung als zugelassener
   kommunaler Träger der Grundsicherung für Arbeitsuchende
+jurabk: KtEfV
 layout: default
+origslug: ktefv
 slug: ktefv
 
 ---

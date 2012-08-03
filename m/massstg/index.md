@@ -2,8 +2,10 @@
 Title: Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung
   des Umsatzsteueraufkommens, für den Finanzausgleich unter den Ländern sowie für
   die Gewährung von Bundesergänzungszuweisungen
+jurabk: MaßstG
 layout: default
-slug: ma_stg
+origslug: ma_stg
+slug: massstg
 
 ---
 

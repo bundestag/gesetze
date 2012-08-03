@@ -1,6 +1,8 @@
 ---
 Title: Textilkennzeichnungsgesetz
+jurabk: TextilKennzG
 layout: default
+origslug: textilkennzg
 slug: textilkennzg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger
+jurabk: BtBG
 layout: default
+origslug: btbg
 slug: btbg
 
 ---

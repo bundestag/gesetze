@@ -1,6 +1,8 @@
 ---
 Title: Einlagensicherungs- und Anlegerentschädigungsgesetz
+jurabk: EAEG
 layout: default
+origslug: eaeg
 slug: eaeg
 
 ---

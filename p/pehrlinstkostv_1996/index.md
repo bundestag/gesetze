@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz
+jurabk: PEhrlInstKostV 1996
 layout: default
+origslug: pehrlinstkostv_1996
 slug: pehrlinstkostv_1996
 
 ---

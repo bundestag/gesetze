@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die orthopädische Versorgung Unfallverletzter
+jurabk: OrthVersorgUVV
 layout: default
+origslug: orthversorguvv
 slug: orthversorguvv
 
 ---

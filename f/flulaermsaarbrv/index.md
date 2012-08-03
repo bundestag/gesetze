@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Saarbrücken
+jurabk: FluLärmSaarbrV
 layout: default
-slug: flul_rmsaarbrv
+origslug: flul_rmsaarbrv
+slug: flulaermsaarbrv
 
 ---
 

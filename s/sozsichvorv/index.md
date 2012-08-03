@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung diplomatischer Vorrechte und Immunitäten im Bereich
   der Sozialen Sicherheit an durch zwischenstaatliche Vereinbarungen geschaffene Organisationen
+jurabk: SozSichVoRV
 layout: default
+origslug: sozsichvorv
 slug: sozsichvorv
 
 ---

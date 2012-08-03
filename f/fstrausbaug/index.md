@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Ausbau der Bundesfernstraßen
+jurabk: FStrAusbauG
 layout: default
+origslug: fstrausbaug
 slug: fstrausbaug
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den automatisierten Abruf von Steuerdaten
+jurabk: StDAV
 layout: default
+origslug: stdav
 slug: stdav
 
 ---

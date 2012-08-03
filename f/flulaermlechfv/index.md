@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Lechfeld
+jurabk: FluLärmLechfV
 layout: default
-slug: flul_rmlechfv
+origslug: flul_rmlechfv
+slug: flulaermlechfv
 
 ---
 

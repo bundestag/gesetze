@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35JAMBek 1967
 layout: default
+origslug: wzg_35jambek_1967
 slug: wzg_35jambek_1967
 
 ---

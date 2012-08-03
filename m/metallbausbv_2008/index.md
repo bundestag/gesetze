@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Metallbauer und zur
 Metallbauerin
 ---
 Title: ''
+jurabk: MetallbAusbV 2008
 layout: default
+origslug: metallbausbv_2008
 slug: metallbausbv_2008
 
 ---

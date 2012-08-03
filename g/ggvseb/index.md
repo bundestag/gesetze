@@ -4,7 +4,9 @@ Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf
 Binnengewässern
 ---
 Title: ''
+jurabk: GGVSEB
 layout: default
+origslug: ggvseb
 slug: ggvseb
 
 ---

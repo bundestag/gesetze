@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Süßwarentechnik
+jurabk: SüßwTFKrAusbV
 layout: default
-slug: s__wtfkrausbv
+origslug: s__wtfkrausbv
+slug: suesswtfkrausbv
 
 ---
 

@@ -2,8 +2,10 @@
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der Beamten im Wach- und Pförtnerdienst im Geschäftsbereich des Bundesministers
   der Verteidigung
+jurabk: BPräsKldgPfBMVgAnO
 layout: default
-slug: bpr_skldgpfbmvgano
+origslug: bpr_skldgpfbmvgano
+slug: bpraeskldgpfbmvgano
 
 ---
 

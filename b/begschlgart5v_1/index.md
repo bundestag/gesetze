@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zu Artikel V des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes
   (BEG-Schlußgesetz)
+jurabk: BEGSchlGArt5V 1
 layout: default
+origslug: begschlgart5v_1
 slug: begschlgart5v_1
 
 ---

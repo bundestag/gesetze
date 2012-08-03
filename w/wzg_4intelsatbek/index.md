@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4INTELSATBek
 layout: default
+origslug: wzg_4intelsatbek
 slug: wzg_4intelsatbek
 
 ---

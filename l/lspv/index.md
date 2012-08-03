@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Lebensmittelspezialitätengesetzes
+jurabk: LSpV
 layout: default
+origslug: lspv
 slug: lspv
 
 ---

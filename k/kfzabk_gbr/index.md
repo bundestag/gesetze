@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   des Vereinigten Königreichs Großbritannien und Nordirland über die steuerliche Behandlung
   von Straßenfahrzeugen im internationalen Verkehr
+jurabk: KfzAbk GBR
 layout: default
+origslug: kfzabk_gbr
 slug: kfzabk_gbr
 
 ---

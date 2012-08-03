@@ -1,6 +1,8 @@
 ---
 Title: Bundesfernstraßengesetz
+jurabk: FStrG
 layout: default
+origslug: fstrg
 slug: fstrg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Altschuldenhilfe-Gesetz
+jurabk: AHGV
 layout: default
+origslug: ahgv
 slug: ahgv
 
 ---

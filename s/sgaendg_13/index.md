@@ -1,7 +1,9 @@
 ---
 Title: Dreizehntes Gesetz zur Änderung des Soldatengesetzes
+jurabk: SGÄndG 13
 layout: default
-slug: sg_ndg_13
+origslug: sg_ndg_13
+slug: sgaendg_13
 
 ---
 

@@ -3,7 +3,9 @@ Title: Vereinbarung zwischen der Bundesrepublik Deutschland und der Deutschen De
   Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten
   Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen
   Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag -
+jurabk: EinigVtrVbg
 layout: default
+origslug: einigvtrvbg
 slug: einigvtrvbg
 
 ---

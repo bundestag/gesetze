@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Sperrbezirke bei Ansteckender Schweinelähmung
+jurabk: SchwKrSpBezV
 layout: default
+origslug: schwkrspbezv
 slug: schwkrspbezv
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Meister für
   Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik" in den Fachrichtungen
   Bühne/Studio, Beleuchtung, Halle
+jurabk: VeranstTechMeistPrV
 layout: default
+origslug: veransttechmeistprv
 slug: veransttechmeistprv
 
 ---

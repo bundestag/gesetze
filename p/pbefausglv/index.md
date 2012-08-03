@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr
+jurabk: PBefAusglV
 layout: default
+origslug: pbefausglv
 slug: pbefausglv
 
 ---

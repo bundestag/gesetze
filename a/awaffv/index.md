@@ -1,6 +1,8 @@
 ---
 Title: Allgemeine Waffengesetz-Verordnung
+jurabk: AWaffV
 layout: default
+origslug: awaffv
 slug: awaffv
 
 ---

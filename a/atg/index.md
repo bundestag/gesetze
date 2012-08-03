@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen
   ihre Gefahren
+jurabk: AtG
 layout: default
+origslug: atg
 slug: atg
 
 ---

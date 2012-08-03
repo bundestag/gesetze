@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Preisangaben
+jurabk: PreisAngG
 layout: default
+origslug: preisangg
 slug: preisangg
 
 ---

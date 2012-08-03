@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin
+jurabk: AnlGBlnV
 layout: default
+origslug: anlgblnv
 slug: anlgblnv
 
 ---

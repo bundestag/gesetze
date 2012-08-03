@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und Einspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten
   des Bundesministeriums für Gesundheit in Angelegenheiten der Besoldung, des Tarifentgelts
   und des Kindergeldes
+jurabk: BMinGZustAnO
 layout: default
+origslug: bmingzustano
 slug: bmingzustano
 
 ---

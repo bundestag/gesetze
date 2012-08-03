@@ -1,6 +1,8 @@
 ---
 Title: Betäubungsmittel-Kostenverordnung
+jurabk: BtMKostV 2009
 layout: default
+origslug: btmkostv_2009
 slug: btmkostv_2009
 
 ---

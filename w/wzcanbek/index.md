@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Kanada
+jurabk: WZCANBek
 layout: default
+origslug: wzcanbek
 slug: wzcanbek
 
 ---

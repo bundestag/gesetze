@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung eines Sondervermögens „Investitions- und Tilgungsfonds“
+jurabk: ITFG
 layout: default
+origslug: itfg
 slug: itfg
 
 ---

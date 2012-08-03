@@ -1,7 +1,9 @@
 ---
 Title: Sechzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
+jurabk: RAG 16
 layout: default
+origslug: rag_16
 slug: rag_16
 
 ---

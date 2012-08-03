@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Ausführung des internationalen Vertrages zum Schutze der unterseeischen
   Telegraphenkabel vom 14. März 1884
+jurabk: TKabelVtrAG
 layout: default
+origslug: tkabelvtrag
 slug: tkabelvtrag
 
 ---

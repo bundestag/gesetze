@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit
   der Seeschiffahrt
+jurabk: SeeSchSiÜbk
 layout: default
-slug: seeschsi_bk
+origslug: seeschsi_bk
+slug: seeschsiuebk
 
 ---
 

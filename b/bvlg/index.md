@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+jurabk: BVLG
 layout: default
+origslug: bvlg
 slug: bvlg
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz betreffend das Internationale Übereinkommen über die Gewährung einer
   Entschädigung für Arbeitslosigkeit infolge von Schiffbruch
+jurabk: SchBrÜbkG
 layout: default
-slug: schbr_bkg
+origslug: schbr_bkg
+slug: schbruebkg
 
 ---
 

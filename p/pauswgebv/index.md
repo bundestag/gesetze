@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Gebühren für Personalausweise und den elektronischen Identitätsnachweis
+jurabk: PAuswGebV
 layout: default
+origslug: pauswgebv
 slug: pauswgebv
 
 ---

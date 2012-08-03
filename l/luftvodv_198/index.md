@@ -2,7 +2,9 @@
 Title: Hundertachtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Leipzig/Halle)
+jurabk: LuftVODV 198
 layout: default
+origslug: luftvodv_198
 slug: luftvodv_198
 
 ---

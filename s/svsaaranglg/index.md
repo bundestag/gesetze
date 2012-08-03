@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Angleichung des Sozialversicherungsrechts im Saarland an das im
   übrigen Bundesgebiet geltende Recht
+jurabk: SVSaarAnglG
 layout: default
+origslug: svsaaranglg
 slug: svsaaranglg
 
 ---

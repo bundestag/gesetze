@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Erfassung und Übermittlung von Daten für die Träger der
   Sozialversicherung
+jurabk: DEÜV
 layout: default
-slug: de_v
+origslug: de_v
+slug: deuev
 
 ---
 

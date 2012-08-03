@@ -1,6 +1,8 @@
 ---
 Title: Frequenznutzungsbeitragsverordnung
+jurabk: FBeitrV 2000
 layout: default
+origslug: fbeitrv_2000
 slug: fbeitrv_2000
 
 ---

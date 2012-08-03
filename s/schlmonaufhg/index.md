@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Aufhebung des staatlichen Schleppmonopols auf den westdeutschen
   Kanälen
+jurabk: SchlMonAufhG
 layout: default
+origslug: schlmonaufhg
 slug: schlmonaufhg
 
 ---

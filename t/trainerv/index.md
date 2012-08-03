@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildungsförderung für den Besuch der Trainerakademie
   Köln
+jurabk: TrainerV
 layout: default
+origslug: trainerv
 slug: trainerv
 
 ---

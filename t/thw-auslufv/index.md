@@ -2,7 +2,9 @@
 Title: Verordnung über die Gewährung von Unfallfürsorge für hauptamtliche Angehörige
   und Helfer der Bundesanstalt Technisches Hilfswerk bei Leistung technischer Hilfe
   im Ausland
+jurabk: THW-AuslUFV
 layout: default
+origslug: thw-auslufv
 slug: thw-auslufv
 
 ---

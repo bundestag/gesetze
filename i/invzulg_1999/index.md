@@ -1,6 +1,8 @@
 ---
 Title: Investitionszulagengesetz 1999
+jurabk: InvZulG 1999
 layout: default
+origslug: invzulg_1999
 slug: invzulg_1999
 
 ---

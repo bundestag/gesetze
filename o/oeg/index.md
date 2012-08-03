@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Entschädigung für Opfer von Gewalttaten
+jurabk: OEG
 layout: default
+origslug: oeg
 slug: oeg
 
 ---

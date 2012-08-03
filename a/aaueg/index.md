@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen
   des Beitrittsgebiets
+jurabk: AAÜG
 layout: default
-slug: aa_g
+origslug: aa_g
+slug: aaueg
 
 ---
 

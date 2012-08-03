@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsbestimmungen zu den Verhaltensregeln für Mitglieder des Deutschen
   Bundestages
+jurabk: BTGO1980Anl1ABest
 layout: default
+origslug: btgo1980anl1abest
 slug: btgo1980anl1abest
 
 ---

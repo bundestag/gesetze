@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung
   der Landwirte für 2003
+jurabk: BGL 2003
 layout: default
+origslug: bgl_2003
 slug: bgl_2003
 
 ---

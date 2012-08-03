@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Nahrungsergänzungsmittel
+jurabk: NemV
 layout: default
+origslug: nemv
 slug: nemv
 
 ---

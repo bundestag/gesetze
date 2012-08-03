@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zur Neufestsetzung der Beträge nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes
+jurabk: BeratungsG§25Abs1V 1
 layout: default
+origslug: beratungsg_25abs1v_1
 slug: beratungsg_25abs1v_1
 
 ---

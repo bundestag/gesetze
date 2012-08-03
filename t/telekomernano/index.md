@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich
   der Deutschen Bundespost TELEKOM
+jurabk: TELEKOMErnAnO
 layout: default
+origslug: telekomernano
 slug: telekomernano
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   der Französischen Republik über die Gründung einer Deutsch-Französischen Hochschule
+jurabk: HochschulAbk FRA
 layout: default
+origslug: hochschulabk_fra
 slug: hochschulabk_fra
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Höchstgehalt an Erukasäure in Lebensmitteln
+jurabk: ErukasäureV
 layout: default
-slug: erukas_urev
+origslug: erukas_urev
+slug: erukasaeurev
 
 ---
 

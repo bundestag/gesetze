@@ -4,8 +4,10 @@ Title: Gesetz zu dem Übereinkommen vom 29. Juli 1960 über die Haftung gegenüb
   vom 25. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen nebst Zusatzprotokoll
   und zu dem Übereinkommen vom 17. Dezember 1971 über die zivilrechtliche Haftung
   bei der Beförderung von Kernmaterial auf See
+jurabk: AtHaftÜbkG
 layout: default
-slug: athaft_bkg
+origslug: athaft_bkg
+slug: athaftuebkg
 
 ---
 

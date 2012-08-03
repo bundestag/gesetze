@@ -1,6 +1,8 @@
 ---
 Title: Rentenanpassungsgesetz 1987
+jurabk: RAG 1987
 layout: default
+origslug: rag_1987
 slug: rag_1987
 
 ---

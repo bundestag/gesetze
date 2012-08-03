@@ -1,7 +1,9 @@
 ---
 Title: Zweite Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät
   (Lufttüchtigkeitsforderungen für Luftfahrtgerät)
+jurabk: LuftGerPV1998DV 2
 layout: default
+origslug: luftgerpv1998dv_2
 slug: luftgerpv1998dv_2
 
 ---

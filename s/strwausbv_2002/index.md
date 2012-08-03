@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Straßenwärter/zur Straßenwärterin
+jurabk: StrWAusbV 2002
 layout: default
+origslug: strwausbv_2002
 slug: strwausbv_2002
 
 ---

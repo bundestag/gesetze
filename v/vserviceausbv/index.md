@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für Verkehrsservice/zur Kauffrau
   für Verkehrsservice
+jurabk: VServiceAusbV
 layout: default
+origslug: vserviceausbv
 slug: vserviceausbv
 
 ---

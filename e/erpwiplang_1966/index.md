@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für
   das Rechnungsjahr 1966
+jurabk: ERPWiPlanG 1966
 layout: default
+origslug: erpwiplang_1966
 slug: erpwiplang_1966
 
 ---

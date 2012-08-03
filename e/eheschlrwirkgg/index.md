@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung
+jurabk: EheschlRWirkgG
 layout: default
+origslug: eheschlrwirkgg
 slug: eheschlrwirkgg
 
 ---

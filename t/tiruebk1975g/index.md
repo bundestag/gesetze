@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Zollübereinkommen vom 14. November 1975 über den internationalen
   Warentransport mit Carnets TIR (TIR-Übereinkommen 19/5)
+jurabk: TIRÜbk1975G
 layout: default
-slug: tir_bk1975g
+origslug: tir_bk1975g
+slug: tiruebk1975g
 
 ---
 

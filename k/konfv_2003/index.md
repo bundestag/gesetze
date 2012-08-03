@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Konfitüren und einige ähnliche Erzeugnisse
+jurabk: KonfV 2003
 layout: default
+origslug: konfv_2003
 slug: konfv_2003
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
+jurabk: BEZNG
 layout: default
+origslug: bezng
 slug: bezng
 
 ---

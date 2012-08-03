@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ablösung der Baumeisterverordnung
+jurabk: BaumeisterVAblV
 layout: default
+origslug: baumeistervablv
 slug: baumeistervablv
 
 ---

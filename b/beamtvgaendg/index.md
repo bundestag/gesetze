@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung des Beamtenversorgungsgesetzes und sonstiger dienst- und
   versorgungsrechtlicher Vorschriften
+jurabk: BeamtVGÄndG
 layout: default
-slug: beamtvg_ndg
+origslug: beamtvg_ndg
+slug: beamtvgaendg
 
 ---
 

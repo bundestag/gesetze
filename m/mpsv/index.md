@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Erfassung, Bewertung und Abwehr von Risiken bei Medizinprodukten
+jurabk: MPSV
 layout: default
+origslug: mpsv
 slug: mpsv
 
 ---

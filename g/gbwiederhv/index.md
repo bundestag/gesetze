@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher
   und Urkunden
+jurabk: GBWiederhV
 layout: default
+origslug: gbwiederhv
 slug: gbwiederhv
 
 ---

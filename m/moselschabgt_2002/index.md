@@ -1,7 +1,9 @@
 ---
 Title: Tarif für die Schifffahrtsabgaben auf der Mosel zwischen Thionville (Diedenhofen)
   und Koblenz (Coblence)
+jurabk: MoselSchAbgT 2002
 layout: default
+origslug: moselschabgt_2002
 slug: moselschabgt_2002
 
 ---

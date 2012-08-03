@@ -1,6 +1,8 @@
 ---
 Title: Anteilzollgesetz
+jurabk: AZG
 layout: default
+origslug: azg
 slug: azg
 
 ---

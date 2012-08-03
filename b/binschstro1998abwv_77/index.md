@@ -1,6 +1,8 @@
 ---
 Title: Siebenundsiebzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
+jurabk: BinSchStrO1998AbwV 77
 layout: default
+origslug: binschstro1998abwv_77
 slug: binschstro1998abwv_77
 
 ---

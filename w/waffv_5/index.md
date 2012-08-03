@@ -1,6 +1,8 @@
 ---
 Title: Fünfte Verordnung zum Waffengesetz
+jurabk: WaffV 5
 layout: default
+origslug: waffv_5
 slug: waffv_5
 
 ---

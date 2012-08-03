@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über
   die Einfuhr von Hopfen aus Drittländern
+jurabk: HopfEinV
 layout: default
+origslug: hopfeinv
 slug: hopfeinv
 
 ---

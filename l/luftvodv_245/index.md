@@ -2,7 +2,9 @@
 Title: Zweihundertfünfundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
   Verkehrslandeplatz Frankfurt-Egelsbach)
+jurabk: LuftVODV 245
 layout: default
+origslug: luftvodv_245
 slug: luftvodv_245
 
 ---

@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages
   zwischen dem Land Hessen und dem Land Nordrhein-Westfalen über Änderungen der gemeinsamen
   Landesgrenze
+jurabk: GrÄndStVtrHE/NWBek
 layout: default
-slug: gr_ndstvtrhe_nwbek
+origslug: gr_ndstvtrhe_nwbek
+slug: graendstvtrhe_nwbek
 
 ---
 

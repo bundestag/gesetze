@@ -1,7 +1,9 @@
 ---
 Title: Altölverordnung
+jurabk: AltölV
 layout: default
-slug: alt_lv
+origslug: alt_lv
+slug: altoelv
 
 ---
 

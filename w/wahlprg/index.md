@@ -1,6 +1,8 @@
 ---
 Title: Wahlprüfungsgesetz
+jurabk: WahlPrG
 layout: default
+origslug: wahlprg
 slug: wahlprg
 
 ---

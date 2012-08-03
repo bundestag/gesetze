@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Natur- und Landschaftspfleger/Geprüfte
   Natur- und Landschaftspflegerin
+jurabk: Natur/LandschaftsPflPrV
 layout: default
+origslug: natur_landschaftspflprv
 slug: natur_landschaftspflprv
 
 ---

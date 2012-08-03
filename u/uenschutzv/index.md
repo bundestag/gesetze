@@ -2,8 +2,10 @@
 Verordnung zum Schutz von Übertragungsnetzen
 ---
 Title: ''
+jurabk: ÜNSchutzV
 layout: default
-slug: _nschutzv
+origslug: _nschutzv
+slug: uenschutzv
 
 ---
 

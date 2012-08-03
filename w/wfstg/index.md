@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Übernahme von Gewährleistungen zum Erhalt der für die Finanzstabilität
   in der Währungsunion erforderlichen Zahlungsfähigkeit der Hellenischen Republik
+jurabk: WFStG
 layout: default
+origslug: wfstg
 slug: wfstg
 
 ---

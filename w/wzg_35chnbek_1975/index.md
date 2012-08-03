@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35CHNBek 1975
 layout: default
+origslug: wzg_35chnbek_1975
 slug: wzg_35chnbek_1975
 
 ---

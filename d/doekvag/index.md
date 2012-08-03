@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsgesetz zum deutsch-österreichischen Konkursvertrag
+jurabk: DöKVAG
 layout: default
-slug: d_kvag
+origslug: d_kvag
+slug: doekvag
 
 ---
 

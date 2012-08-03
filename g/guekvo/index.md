@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Güterkraftverkehr
+jurabk: GüKVO
 layout: default
-slug: g_kvo
+origslug: g_kvo
+slug: guekvo
 
 ---
 

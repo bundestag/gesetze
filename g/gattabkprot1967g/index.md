@@ -4,7 +4,9 @@ Title: Gesetz zu dem Genfer Protokoll von 1967 zum Allgemeinen Zoll- und Handels
   Zoll- und Handelsabkommen und dem Abkommen vom 30. Juni 1967 zwischen der Europäischen
   Wirtschaftsgemeinschaft sowie deren Mitgliedstaaten und der Schweizerischen Eidgenossenschaft
   über Uhrmacherwaren
+jurabk: GATTAbkProt1967G
 layout: default
+origslug: gattabkprot1967g
 slug: gattabkprot1967g
 
 ---

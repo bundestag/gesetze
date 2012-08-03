@@ -5,7 +5,9 @@ Title: Zweite Verordnung zur Bestimmung eines Gebietes als grenzüberschreitende
   Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie
   verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem
   Gebiete
+jurabk: VII080030
 layout: default
+origslug: vii080030
 slug: vii080030
 
 ---

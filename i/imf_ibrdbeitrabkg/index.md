@@ -3,7 +3,9 @@ Title: Gesetz über den Beitritt der Bundesrepublik Deutschland zu den Abkommen 
   den Internationalen Währungsfonds (International Monetary Fund) und über die Internationale
   Bank für Wiederaufbau und Entwicklung (International Bank for Reconstruction and
   Development)
+jurabk: IMF/IBRDBeitrAbkG
 layout: default
+origslug: imf_ibrdbeitrabkg
 slug: imf_ibrdbeitrabkg
 
 ---

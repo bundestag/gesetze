@@ -1,7 +1,9 @@
 ---
 Title: Dritte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen
   Zusatzversicherung
+jurabk: HZvV 3
 layout: default
+origslug: hzvv_3
 slug: hzvv_3
 
 ---

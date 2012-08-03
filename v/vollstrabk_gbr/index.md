@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich
   Großbritannien und Nordirland über die gegenseitige Anerkennung und Vollstreckung
   von gerichtlichen Entscheidungen in Zivil- und Handelssachen
+jurabk: VollstrAbk GBR
 layout: default
+origslug: vollstrabk_gbr
 slug: vollstrabk_gbr
 
 ---

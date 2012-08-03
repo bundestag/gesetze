@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 2. Dezember 1993 zwischen der Bundesrepublik Deutschland
   und der Republik Namibia zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
   Steuern vom Einkommen und vom Vermögen
+jurabk: DBANAMG
 layout: default
+origslug: dbanamg
 slug: dbanamg
 
 ---

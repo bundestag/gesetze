@@ -1,6 +1,8 @@
 ---
 Title: Protokoll über die Vorrechte und Immunitäten der europäischen Patentorganisation
+jurabk: EuPatVorrProt
 layout: default
+origslug: eupatvorrprot
 slug: eupatvorrprot
 
 ---

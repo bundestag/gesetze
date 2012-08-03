@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Umlegung von Kosten der Bilanzkontrolle nach § 17d des
   Finanzdienstleistungsaufsichtsgesetzes
+jurabk: BilKoUmV
 layout: default
+origslug: bilkoumv
 slug: bilkoumv
 
 ---

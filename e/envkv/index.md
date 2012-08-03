@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit
   Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
+jurabk: EnVKV
 layout: default
+origslug: envkv
 slug: envkv
 
 ---

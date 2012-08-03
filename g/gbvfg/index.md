@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der Grundbuchordnung
+jurabk: GBVfg
 layout: default
+origslug: gbvfg
 slug: gbvfg
 
 ---

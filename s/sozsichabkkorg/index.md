@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 10. März 2000 zwischen der Bundesrepublik Deutschland
   und der Republik Korea über Soziale Sicherheit
+jurabk: SozSichAbkKORG
 layout: default
+origslug: sozsichabkkorg
 slug: sozsichabkkorg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zur Durchführung des Benzinbleigesetzes
+jurabk: BzBlGDV 1
 layout: default
+origslug: bzblgdv_1
 slug: bzblgdv_1
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Zahlung eines Auslandsverwendungszuschlags
+jurabk: AuslVZV 1995
 layout: default
+origslug: auslvzv_1995
 slug: auslvzv_1995
 
 ---

@@ -2,8 +2,10 @@
 Title: Gesetz über die Internationalen Übereinkommen betreffend die Krankenversicherung
   der Arbeitnehmer in Gewerbe und Handel und der Hausgehilfen sowie die Krankenversicherung
   der Arbeitnehmer in der Landwirtschaft
+jurabk: KVArbNÜbkG
 layout: default
-slug: kvarbn_bkg
+origslug: kvarbn_bkg
+slug: kvarbnuebkg
 
 ---
 

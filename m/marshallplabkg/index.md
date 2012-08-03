@@ -2,7 +2,9 @@
 Title: Gesetz betreffend das Abkommen über Wirtschaftliche Zusammenarbeit zwischen
   den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland vom 15. Dezember
   1949
+jurabk: MarshallplAbkG
 layout: default
+origslug: marshallplabkg
 slug: marshallplabkg
 
 ---

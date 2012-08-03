@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Qualität und Sicherheit von menschlichen Geweben und Zellen
+jurabk: GewebeG
 layout: default
+origslug: gewebeg
 slug: gewebeg
 
 ---

@@ -2,7 +2,9 @@
 Title: Hundertvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
   Heringsdorf)
+jurabk: LuftVODV 140
 layout: default
+origslug: luftvodv_140
 slug: luftvodv_140
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und
   Väter durch Unterhaltsvorschüsse oder -ausfalleistungen
+jurabk: UhVorschG
 layout: default
+origslug: uhvorschg
 slug: uhvorschg
 
 ---

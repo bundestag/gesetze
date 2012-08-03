@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland
   und der Republik Chile über Rentenversicherung
+jurabk: RVChilAbkG
 layout: default
+origslug: rvchilabkg
 slug: rvchilabkg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes
+jurabk: BewG§55Abs3/4DV
 layout: default
+origslug: bewg_55abs3_4dv
 slug: bewg_55abs3_4dv
 
 ---

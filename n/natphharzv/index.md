@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Festsetzung des Nationalparks Hochharz
+jurabk: NatPHHarzV
 layout: default
+origslug: natphharzv
 slug: natphharzv
 
 ---

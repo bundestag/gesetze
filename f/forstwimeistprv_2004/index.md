@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Forstwirt/Forstwirtin
+jurabk: ForstWiMeistPrV 2004
 layout: default
+origslug: forstwimeistprv_2004
 slug: forstwimeistprv_2004
 
 ---

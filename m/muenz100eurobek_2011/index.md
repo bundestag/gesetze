@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 100 Euro (Goldmünze „UNESCO Welterbe Wartburg“)
+jurabk: Münz100EuroBek 2011
 layout: default
-slug: m_nz100eurobek_2011
+origslug: m_nz100eurobek_2011
+slug: muenz100eurobek_2011
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und Rumänien über  Soziale
   Sicherheit
+jurabk: SozSichAbk ROM
 layout: default
+origslug: sozsichabk_rom
 slug: sozsichabk_rom
 
 ---

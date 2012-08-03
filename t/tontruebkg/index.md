@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 29. Oktober 1971 zum Schutz der Hersteller
   von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger
+jurabk: TonTrÜbkG
 layout: default
-slug: tontr_bkg
+origslug: tontr_bkg
+slug: tontruebkg
 
 ---
 

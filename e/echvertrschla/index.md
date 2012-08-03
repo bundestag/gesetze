@@ -1,6 +1,8 @@
 ---
 Title: Schlußakte der Europäischen Energiechartakonferenz
+jurabk: ECHVertrSchlA
 layout: default
+origslug: echvertrschla
 slug: echvertrschla
 
 ---

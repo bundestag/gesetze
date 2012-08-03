@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Naturschutz und Landschaftspflege
+jurabk: BNatSchG 2009
 layout: default
+origslug: bnatschg_2009
 slug: bnatschg_2009
 
 ---

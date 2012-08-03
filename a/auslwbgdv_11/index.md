@@ -1,7 +1,9 @@
 ---
 Title: Elfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
   (Dritte Verlängerung der Anmeldefrist)
+jurabk: AuslWBGDV 11
 layout: default
+origslug: auslwbgdv_11
 slug: auslwbgdv_11
 
 ---

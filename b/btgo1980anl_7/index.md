@@ -1,7 +1,9 @@
 ---
 Title: Befragung der Bundesregierung (Anlage 7 der Geschäftsordnung des Deutschen
   Bundestages, BGBl. I 1980, 1237)
+jurabk: BTGO1980Anl 7
 layout: default
+origslug: btgo1980anl_7
 slug: btgo1980anl_7
 
 ---

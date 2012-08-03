@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gleichstellung von Personen nach § 3 des Häftlingshilfegesetzes
+jurabk: HHG§3V
 layout: default
+origslug: hhg_3v
 slug: hhg_3v
 
 ---

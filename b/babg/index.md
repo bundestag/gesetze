@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die vermögensrechtlichen Verhältnisse der Bundesautobahnen und
   sonstigen Bundesstraßen des Fernverkehrs
+jurabk: BABG
 layout: default
+origslug: babg
 slug: babg
 
 ---

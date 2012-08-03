@@ -2,7 +2,9 @@
 Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Erwin-Stein-Schule,
   Staatliche Glasfachschule Hadamar, mit den Zeugnissen über  das Bestehen der Abschluss-
   und Gesellenprüfung in Ausbildungsberufen
+jurabk: GlPrZHadamarV
 layout: default
+origslug: glprzhadamarv
 slug: glprzhadamarv
 
 ---

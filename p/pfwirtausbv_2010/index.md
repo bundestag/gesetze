@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 ---
 Title: ''
+jurabk: PfWirtAusbV 2010
 layout: default
+origslug: pfwirtausbv_2010
 slug: pfwirtausbv_2010
 
 ---

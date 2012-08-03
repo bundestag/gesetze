@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin
 ---
 Title: ''
+jurabk: KerAusbV 2009
 layout: default
+origslug: kerausbv_2009
 slug: kerausbv_2009
 
 ---

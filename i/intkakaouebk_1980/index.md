@@ -1,7 +1,9 @@
 ---
 Title: Internationales Kakao-Übereinkommen von 1980
+jurabk: IntKakaoÜbk 1980
 layout: default
-slug: intkakao_bk_1980
+origslug: intkakao_bk_1980
+slug: intkakaouebk_1980
 
 ---
 

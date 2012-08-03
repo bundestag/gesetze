@@ -1,6 +1,8 @@
 ---
 Title: Pfandbriefgesetz
+jurabk: PfandBG
 layout: default
+origslug: pfandbg
 slug: pfandbg
 
 ---

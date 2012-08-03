@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausführung des § 56 des Patentgesetzes und des § 9 des Gebrauchsmustergesetzes
+jurabk: PatG/GebrMGAV
 layout: default
+origslug: patg_gebrmgav
 slug: patg_gebrmgav
 
 ---

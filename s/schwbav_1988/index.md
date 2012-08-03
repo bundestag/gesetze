@@ -1,6 +1,8 @@
 ---
 Title: Schwerbehinderten-Ausgleichsabgabeverordnung
+jurabk: SchwbAV 1988
 layout: default
+origslug: schwbav_1988
 slug: schwbav_1988
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Höhe der Pauschale für die Kosten des Einzugs der Umlage für
   das Insolvenzgeld und der Prüfung der Arbeitgeber
+jurabk: InsoGeldEinzPV
 layout: default
+origslug: insogeldeinzpv
 slug: insogeldeinzpv
 
 ---

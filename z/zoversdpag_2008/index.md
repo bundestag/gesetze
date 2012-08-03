@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen
   Versorgung im Geschäftsbereich der Deutschen Post AG
+jurabk: ZOVersDPAG 2008
 layout: default
+origslug: zoversdpag_2008
 slug: zoversdpag_2008
 
 ---

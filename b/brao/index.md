@@ -1,6 +1,8 @@
 ---
 Title: Bundesrechtsanwaltsordnung
+jurabk: BRAO
 layout: default
+origslug: brao
 slug: brao
 
 ---

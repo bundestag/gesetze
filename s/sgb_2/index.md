@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende
   - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)
+jurabk: SGB 2
 layout: default
+origslug: sgb_2
 slug: sgb_2
 
 ---

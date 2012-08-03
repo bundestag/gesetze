@@ -1,7 +1,9 @@
 ---
 Title: Schlußprotokoll zu dem Abkommen zwischen der Bundesrepublik Deutschland und
   der Italienischen Republik über Sozialversicherung
+jurabk: SVAbkSchlProt ITA
 layout: default
+origslug: svabkschlprot_ita
 slug: svabkschlprot_ita
 
 ---

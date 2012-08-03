@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Aufzeichnungen über Versuchstiere und deren Kennzeichnung
+jurabk: VersTierAufzKennzV
 layout: default
+origslug: verstieraufzkennzv
 slug: verstieraufzkennzv
 
 ---

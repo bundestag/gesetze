@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden
   über die Verlängerung von Prioritätsfristen auf dem Gebiet des gewerblichen Rechtsschutzes
+jurabk: GewRSchPrioFrAbk SWE
 layout: default
+origslug: gewrschpriofrabk_swe
 slug: gewrschpriofrabk_swe
 
 ---

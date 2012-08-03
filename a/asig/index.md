@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für
   Arbeitssicherheit
+jurabk: ASiG
 layout: default
+origslug: asig
 slug: asig
 
 ---

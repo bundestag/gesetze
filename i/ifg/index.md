@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des Zugangs zu Informationen des Bundes
+jurabk: IFG
 layout: default
+origslug: ifg
 slug: ifg
 
 ---

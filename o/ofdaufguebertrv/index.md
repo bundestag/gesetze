@@ -2,8 +2,10 @@
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Berlin, Bremen,
   Chemnitz, Düsseldorf, Erfurt, Frankfurt am Main, Hannover, Kiel, Magdeburg, München,
   Münster, Rostock, Saarbrücken und Stuttgart
+jurabk: OFDAufgÜbertrV
 layout: default
-slug: ofdaufg_bertrv
+origslug: ofdaufg_bertrv
+slug: ofdaufguebertrv
 
 ---
 

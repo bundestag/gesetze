@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulassungen,
   Apothekenpflicht und Verschreibungspflicht von Arzneimitteln
+jurabk: AMSachvV
 layout: default
+origslug: amsachvv
 slug: amsachvv
 
 ---

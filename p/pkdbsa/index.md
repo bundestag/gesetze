@@ -2,7 +2,9 @@
 Title: Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln
   (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher
   Eisenbahnen und Straßenbahnen VVaG)
+jurabk: PKDBSa
 layout: default
+origslug: pkdbsa
 slug: pkdbsa
 
 ---

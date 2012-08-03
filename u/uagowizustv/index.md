@@ -2,7 +2,9 @@
 Title: Verordnung zur Übertragung der Zuständigkeit für die Verfolgung und Ahndung
   bestimmter Ordnungswidrigkeiten nach § 37 Abs. 1 des Umweltauditgesetzes auf das
   Bundesverwaltungsamt
+jurabk: UAGOWiZustV
 layout: default
+origslug: uagowizustv
 slug: uagowizustv
 
 ---

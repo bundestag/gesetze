@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Schutz von Wild
+jurabk: BWildSchV
 layout: default
+origslug: bwildschv
 slug: bwildschv
 
 ---

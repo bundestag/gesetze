@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Schleusenbetriebszeiten an den Bundeswasserstraßen Main,
   Main-Donau-Kanal und Donau
+jurabk: WaStrSchlBetrZV 2008
 layout: default
+origslug: wastrschlbetrzv_2008
 slug: wastrschlbetrzv_2008
 
 ---

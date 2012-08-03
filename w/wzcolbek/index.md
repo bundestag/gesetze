@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Kolumbien
+jurabk: WZCOLBek
 layout: default
+origslug: wzcolbek
 slug: wzcolbek
 
 ---

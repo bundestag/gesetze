@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung
   des Gesamtsozialversicherungsbeitrages
+jurabk: BeitrVV
 layout: default
+origslug: beitrvv
 slug: beitrvv
 
 ---

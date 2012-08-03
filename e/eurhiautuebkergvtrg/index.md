@@ -3,8 +3,10 @@ Title: Gesetz zu dem Vertrag vom 31. Januar 1972 zwischen der Bundesrepublik Deu
   und der Republik Österreich über die Ergänzung des Europäischen Übereinkommens vom
   20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner
   Anwendung
+jurabk: EuRHiAUTÜbkErgVtrG
 layout: default
-slug: eurhiaut_bkergvtrg
+origslug: eurhiaut_bkergvtrg
+slug: eurhiautuebkergvtrg
 
 ---
 

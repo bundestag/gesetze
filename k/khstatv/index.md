@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Bundesstatistik für Krankenhäuser
+jurabk: KHStatV
 layout: default
+origslug: khstatv
 slug: khstatv
 
 ---

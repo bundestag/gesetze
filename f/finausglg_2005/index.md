@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Finanzausgleich zwischen Bund und Ländern
+jurabk: FinAusglG 2005
 layout: default
+origslug: finausglg_2005
 slug: finausglg_2005
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Verkehrsregelung auf der Weser
+jurabk: WeserVerkV
 layout: default
+origslug: weserverkv
 slug: weserverkv
 
 ---

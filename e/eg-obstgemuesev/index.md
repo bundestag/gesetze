@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über EU-Normen für Obst und Gemüse
+jurabk: EG-ObstGemüseV
 layout: default
-slug: eg-obstgem_sev
+origslug: eg-obstgem_sev
+slug: eg-obstgemuesev
 
 ---
 

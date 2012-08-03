@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen
+jurabk: UhEntschÜbk Haag
 layout: default
-slug: uhentsch_bk_haag
+origslug: uhentsch_bk_haag
+slug: uhentschuebk_haag
 
 ---
 

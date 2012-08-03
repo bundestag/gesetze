@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für audiovisuelle Medien/zur
   Kauffrau für audiovisuelle Medien
+jurabk: AVMedKfAusbV
 layout: default
+origslug: avmedkfausbv
 slug: avmedkfausbv
 
 ---

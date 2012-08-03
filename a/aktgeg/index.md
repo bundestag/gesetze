@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Aktiengesetz
+jurabk: AktGEG
 layout: default
+origslug: aktgeg
 slug: aktgeg
 
 ---

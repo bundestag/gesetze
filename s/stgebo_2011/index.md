@@ -1,6 +1,8 @@
 ---
 Title: Gebührenordnung für Maßnahmen im Straßenverkehr
+jurabk: StGebO 2011
 layout: default
+origslug: stgebo_2011
 slug: stgebo_2011
 
 ---

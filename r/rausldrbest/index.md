@@ -1,6 +1,8 @@
 ---
 Title: Sonderbestimmungen für Auslandsdienstreisen der Reichsbeamten
+jurabk: RAuslDRBest
 layout: default
+origslug: rausldrbest
 slug: rausldrbest
 
 ---

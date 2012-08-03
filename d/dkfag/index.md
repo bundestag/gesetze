@@ -1,6 +1,8 @@
 ---
 Title: Dienstrechtliches Kriegsfolgen-Abschlußgesetz
+jurabk: DKfAG
 layout: default
+origslug: dkfag
 slug: dkfag
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Staatsangehörigkeits-Gebührenverordnung
+jurabk: StAGebV
 layout: default
+origslug: stagebv
 slug: stagebv
 
 ---

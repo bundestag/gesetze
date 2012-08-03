@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Hauswirtschafter/zur Hauswirtschafterin
+jurabk: HwirtAusbV 1999
 layout: default
+origslug: hwirtausbv_1999
 slug: hwirtausbv_1999
 
 ---

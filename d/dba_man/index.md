@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   der Insel Man zur Vermeidung der Doppelbesteuerung von im internationalen Verkehr
   tätigen Schifffahrtsunternehmen
+jurabk: DBA MAN
 layout: default
+origslug: dba_man
 slug: dba_man
 
 ---

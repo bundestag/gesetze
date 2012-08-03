@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Rechte an Luftfahrzeugen
+jurabk: LuftFzgG
 layout: default
+origslug: luftfzgg
 slug: luftfzgg
 
 ---

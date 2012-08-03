@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung von Zuständigkeiten im deutsch-ungarischen Wechselverkehr
   mit Binnenschiffen
+jurabk: HUNBinSchZustV
 layout: default
+origslug: hunbinschzustv
 slug: hunbinschzustv
 
 ---

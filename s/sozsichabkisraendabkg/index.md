@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Abkommen vom 7. Januar 1986 zur Änderung des Abkommens vom 17.
   Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über
   Soziale Sicherheit
+jurabk: SozSichAbkISRÄndAbkG
 layout: default
-slug: sozsichabkisr_ndabkg
+origslug: sozsichabkisr_ndabkg
+slug: sozsichabkisraendabkg
 
 ---
 

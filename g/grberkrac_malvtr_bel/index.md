@@ -2,7 +2,9 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Belgien
   über die Berichtigung der deutsch-belgischen Grenze im Bereich der regulierten Grenzgewässer
   Breitenbach und Schwarzbach, Kreise Aachen und Malmedy
+jurabk: GrBerKrAC/MalVtr BEL
 layout: default
+origslug: grberkrac_malvtr_bel
 slug: grberkrac_malvtr_bel
 
 ---

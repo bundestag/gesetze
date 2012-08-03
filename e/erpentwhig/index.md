@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Finanzierungshilfe für Entwicklungsländer aus Mitteln des ERP-Sondervermögens
+jurabk: ERPEntwHiG
 layout: default
+origslug: erpentwhig
 slug: erpentwhig
 
 ---

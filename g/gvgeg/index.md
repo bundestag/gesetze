@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Gerichtsverfassungsgesetz
+jurabk: GVGEG
 layout: default
+origslug: gvgeg
 slug: gvgeg
 
 ---

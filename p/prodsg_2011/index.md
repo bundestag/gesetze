@@ -2,7 +2,9 @@
 Gesetz über die Bereitstellung von Produkten auf dem Markt
 ---
 Title: ''
+jurabk: ProdSG 2011
 layout: default
+origslug: prodsg_2011
 slug: prodsg_2011
 
 ---

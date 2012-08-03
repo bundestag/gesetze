@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Schorfheide-Chorin"
+jurabk: NatSGSchorfhV
 layout: default
+origslug: natsgschorfhv
 slug: natsgschorfhv
 
 ---

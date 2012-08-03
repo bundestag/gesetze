@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Maßnahmen zur Förderung des deutschen Films
+jurabk: FFG 1979
 layout: default
+origslug: ffg_1979
 slug: ffg_1979
 
 ---

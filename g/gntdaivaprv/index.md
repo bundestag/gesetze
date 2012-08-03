@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen
   Dienst in der allgemeinen und inneren Verwaltung des Bundes
+jurabk: GntDAIVAPrV
 layout: default
+origslug: gntdaivaprv
 slug: gntdaivaprv
 
 ---

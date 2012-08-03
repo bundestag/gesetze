@@ -1,6 +1,8 @@
 ---
 Title: Sechsundvierzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+jurabk: BEG§172DV 46
 layout: default
+origslug: beg_172dv_46
 slug: beg_172dv_46
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften
   und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits
+jurabk: SAA MNE
 layout: default
+origslug: saa_mne
 slug: saa_mne
 
 ---

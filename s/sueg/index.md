@@ -1,8 +1,10 @@
 ---
 Title: Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen
   des Bundes
+jurabk: SÜG
 layout: default
-slug: s_g
+origslug: s_g
+slug: sueg
 
 ---
 

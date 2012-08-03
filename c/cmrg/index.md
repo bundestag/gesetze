@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im
   internationalen Straßengüterverkehr (CMR)
+jurabk: CMRG
 layout: default
+origslug: cmrg
 slug: cmrg
 
 ---

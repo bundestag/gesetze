@@ -6,7 +6,9 @@ Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen
 Anerkennung
 ---
 Title: ''
+jurabk: HufBeschl-AnerkennV
 layout: default
+origslug: hufbeschl-anerkennv
 slug: hufbeschl-anerkennv
 
 ---

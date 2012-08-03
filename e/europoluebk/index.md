@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen auf Grund von Artikel K.3 des Vertrags über die Europäische Union
   über die Errichtung eines Europäischen Polizeiamts
+jurabk: EuropolÜbk
 layout: default
-slug: europol_bk
+origslug: europol_bk
+slug: europoluebk
 
 ---
 

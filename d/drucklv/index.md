@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Arbeiten in Druckluft
+jurabk: DruckLV
 layout: default
+origslug: drucklv
 slug: drucklv
 
 ---

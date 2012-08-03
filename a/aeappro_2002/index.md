@@ -1,7 +1,9 @@
 ---
 Title: Approbationsordnung für Ärzte
+jurabk: ÄApprO 2002
 layout: default
-slug: _appro_2002
+origslug: _appro_2002
+slug: aeappro_2002
 
 ---
 

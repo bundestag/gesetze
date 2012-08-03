@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zulassung privater Gegenprobensachverständiger und über
   Regelungen für amtliche Gegenproben
+jurabk: GPV
 layout: default
+origslug: gpv
 slug: gpv
 
 ---

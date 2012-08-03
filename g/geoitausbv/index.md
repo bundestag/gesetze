@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung in der Geoinformationstechnologie
 ---
 Title: ''
+jurabk: GeoITAusbV
 layout: default
+origslug: geoitausbv
 slug: geoitausbv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Zerlegungsgesetz
+jurabk: ZerlG 1998
 layout: default
+origslug: zerlg_1998
 slug: zerlg_1998
 
 ---

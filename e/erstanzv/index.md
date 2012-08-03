@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken
   nach dem Gesetz über das Kreditwesen
+jurabk: ErstAnzV
 layout: default
+origslug: erstanzv
 slug: erstanzv
 
 ---

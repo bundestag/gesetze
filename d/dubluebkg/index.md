@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Übereinkommen vom 15. Juni 1990 über die Bestimmung des zuständigen
   Staates für die Prüfung eines in einem Mitgliedstaat der Europäischen Gemeinschaften
   gestellten Asylantrags
+jurabk: DublÜbkG
 layout: default
-slug: dubl_bkg
+origslug: dubl_bkg
+slug: dubluebkg
 
 ---
 

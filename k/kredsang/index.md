@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Umsetzung aufsichtsrechtlicher Bestimmungen zur Sanierung und Liquidation
   von Versicherungsunternehmen und Kreditinstituten
+jurabk: KredSanG
 layout: default
+origslug: kredsang
 slug: kredsang
 
 ---

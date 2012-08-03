@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und die Vertretung des Bundes bei Klagen von Beschäftigten der Bundesanstalt für
   Geowissenschaften und Rohstoffe in Angelegenheiten nach den besoldungsrechtlichen
   Bestimmungen des Bundes sowie des Kindergeldes
+jurabk: BGRWidAnO 2011
 layout: default
+origslug: bgrwidano_2011
 slug: bgrwidano_2011
 
 ---

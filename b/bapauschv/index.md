@@ -2,7 +2,9 @@
 Title: Verordnung über die Pauschalierung und Zahlung des Ausgleichsbetrags der Bundesagentur
   für Arbeit an die Träger der gesetzlichen Rentenversicherung für arbeitsmarktbedingte
   Renten wegen voller Erwerbsminderung
+jurabk: BAPauschV
 layout: default
+origslug: bapauschv
 slug: bapauschv
 
 ---

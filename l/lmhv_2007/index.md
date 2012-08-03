@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und
   Inverkehrbringen von Lebensmitteln
+jurabk: LMHV 2007
 layout: default
+origslug: lmhv_2007
 slug: lmhv_2007
 
 ---

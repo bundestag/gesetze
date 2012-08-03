@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in
   der Sozialversicherung
+jurabk: WGSVG
 layout: default
+origslug: wgsvg
 slug: wgsvg
 
 ---

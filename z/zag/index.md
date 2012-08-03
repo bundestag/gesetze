@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Beaufsichtigung von Zahlungsdiensten
+jurabk: ZAG
 layout: default
+origslug: zag
 slug: zag
 
 ---

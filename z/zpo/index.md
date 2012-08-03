@@ -1,6 +1,8 @@
 ---
 Title: Zivilprozessordnung
+jurabk: ZPO
 layout: default
+origslug: zpo
 slug: zpo
 
 ---

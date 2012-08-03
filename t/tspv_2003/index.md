@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zulassung des Befahrens der Eder- und der Diemeltalsperre
   sowie die Abwehr strom- und schifffahrtspolizeilicher Gefahren
+jurabk: TspV 2003
 layout: default
+origslug: tspv_2003
 slug: tspv_2003
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für Kurier-, Express- und
   Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen
+jurabk: KEPKfmAusbV
 layout: default
+origslug: kepkfmausbv
 slug: kepkfmausbv
 
 ---

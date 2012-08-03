@@ -5,7 +5,9 @@ Title: Gesetz über die Inkraftsetzung von Vereinbarungen betreffend den befrist
   der Vereinigten Staaten von Amerika in Berlin und von sowjetischen Streitkräften
   auf dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach Herstellung der
   Deutschen Einheit
+jurabk: StreitkrAVbgInkrG
 layout: default
+origslug: streitkravbginkrg
 slug: streitkravbginkrg
 
 ---

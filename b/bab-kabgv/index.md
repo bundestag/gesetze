@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Höhe und Erhebung der Konzessionsabgabe für das Betreiben eines
   Nebenbetriebs an der Bundesautobahn
+jurabk: BAB-KAbgV
 layout: default
+origslug: bab-kabgv
 slug: bab-kabgv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Durchführung wissenschaftlicher Meeresforschung
+jurabk: MForschG
 layout: default
+origslug: mforschg
 slug: mforschg
 
 ---

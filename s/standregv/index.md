@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Standardregistrierungen von Arzneimitteln
+jurabk: StandRegV
 layout: default
+origslug: standregv
 slug: standregv
 
 ---

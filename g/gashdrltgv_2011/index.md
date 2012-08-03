@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Gashochdruckleitungen
+jurabk: GasHDrLtgV 2011
 layout: default
+origslug: gashdrltgv_2011
 slug: gashdrltgv_2011
 
 ---

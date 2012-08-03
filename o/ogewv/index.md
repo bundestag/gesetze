@@ -2,7 +2,9 @@
 Verordnung zum Schutz der Oberflächengewässer
 ---
 Title: ''
+jurabk: OGewV
 layout: default
+origslug: ogewv
 slug: ogewv
 
 ---

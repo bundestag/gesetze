@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz der Kulturpflanzen
+jurabk: PflSchG 2012
 layout: default
+origslug: pflschg_2012
 slug: pflschg_2012
 
 ---

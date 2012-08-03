@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Durchführung der einheitlichen Betriebsprämie
+jurabk: BetrPrämDurchfG
 layout: default
-slug: betrpr_mdurchfg
+origslug: betrpr_mdurchfg
+slug: betrpraemdurchfg
 
 ---
 

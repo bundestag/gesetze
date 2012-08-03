@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Ausführung der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober
   2001 über das Statut der Europäischen Gesellschaft (SE)
+jurabk: SEAG
 layout: default
+origslug: seag
 slug: seag
 
 ---

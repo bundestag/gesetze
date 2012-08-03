@@ -1,8 +1,10 @@
 ---
 Title: Erlaß über die Genehmigung von Änderungen der Satzung des Ordens Pour le merite
   für Wissenschaften und Künste
+jurabk: PMeriteSaÄndErl
 layout: default
-slug: pmeritesa_nderl
+origslug: pmeritesa_nderl
+slug: pmeritesaaenderl
 
 ---
 

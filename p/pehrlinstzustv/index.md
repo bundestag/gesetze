@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
+jurabk: PEhrlInstZustV
 layout: default
+origslug: pehrlinstzustv
 slug: pehrlinstzustv
 
 ---

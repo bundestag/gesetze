@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Einführung des Wohnortprinzips bei Honorarvereinbarungen für Ärzte
   und Zahnärzte
+jurabk: ArztWohnortG
 layout: default
+origslug: arztwohnortg
 slug: arztwohnortg
 
 ---

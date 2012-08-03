@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes, anderer wohnungsbaurechtlicher
   Vorschriften und über die Rückerstattung von Baukostenzuschüssen
+jurabk: WoBauG2ÄndG
 layout: default
-slug: wobaug2_ndg
+origslug: wobaug2_ndg
+slug: wobaug2aendg
 
 ---
 

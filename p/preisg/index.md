@@ -1,6 +1,8 @@
 ---
 Title: Übergangsgesetz über Preisbildung und Preisüberwachung
+jurabk: PreisG
 layout: default
+origslug: preisg
 slug: preisg
 
 ---

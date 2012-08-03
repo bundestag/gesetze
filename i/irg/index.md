@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die internationale Rechtshilfe in Strafsachen
+jurabk: IRG
 layout: default
+origslug: irg
 slug: irg
 
 ---

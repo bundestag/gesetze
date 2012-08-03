@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Versorgungsausgleich
+jurabk: VersAusglG
 layout: default
+origslug: versausglg
 slug: versausglg
 
 ---

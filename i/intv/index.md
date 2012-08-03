@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Durchführung von Integrationskursen für Ausländer und Spätaussiedler
+jurabk: IntV
 layout: default
+origslug: intv
 slug: intv
 
 ---

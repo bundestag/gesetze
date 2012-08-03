@@ -1,6 +1,8 @@
 ---
 Title: Postdienstleistungsverordnung
+jurabk: PDLV
 layout: default
+origslug: pdlv
 slug: pdlv
 
 ---

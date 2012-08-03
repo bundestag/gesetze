@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Überwachung der Entrichtung der Beitragsanteile und der
   Künstlersozialabgabe nach dem Künstlersozialversicherungsgesetz
+jurabk: KSVGBeitrÜV
 layout: default
-slug: ksvgbeitr_v
+origslug: ksvgbeitr_v
+slug: ksvgbeitruev
 
 ---
 

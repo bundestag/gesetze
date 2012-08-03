@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Fahrpersonal von Kraftfahrzeugen und Straßenbahnen
+jurabk: FahrpersStG
 layout: default
+origslug: fahrpersstg
 slug: fahrpersstg
 
 ---

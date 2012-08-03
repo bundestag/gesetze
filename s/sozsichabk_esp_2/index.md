@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über
   Soziale Sicherheit
+jurabk: SozSichAbk ESP 2
 layout: default
+origslug: sozsichabk_esp_2
 slug: sozsichabk_esp_2
 
 ---

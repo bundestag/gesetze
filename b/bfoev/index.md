@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Berufsförderung von Soldatinnen und  Soldaten
+jurabk: BföV
 layout: default
-slug: bf_v
+origslug: bf_v
+slug: bfoev
 
 ---
 

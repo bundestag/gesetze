@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens
+jurabk: SprengMarkÜbk
 layout: default
-slug: sprengmark_bk
+origslug: sprengmark_bk
+slug: sprengmarkuebk
 
 ---
 

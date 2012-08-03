@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr
+jurabk: BPräsKldgBWSchAnO
 layout: default
-slug: bpr_skldgbwschano
+origslug: bpr_skldgbwschano
+slug: bpraeskldgbwschano
 
 ---
 

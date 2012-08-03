@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst
   in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+jurabk: HtDBWVAPrV
 layout: default
+origslug: htdbwvaprv
 slug: htdbwvaprv
 
 ---

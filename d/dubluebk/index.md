@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Bestimmung des zuständigen Staates für die Prüfung eines
   in einem Mitgliedstaat der Europäischen Gemeinschaften gestellten Asylantrags
+jurabk: DublÜbk
 layout: default
-slug: dubl_bk
+origslug: dubl_bk
+slug: dubluebk
 
 ---
 

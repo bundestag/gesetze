@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Approbation von Tierärztinnen und Tierärzten
+jurabk: TAppV
 layout: default
+origslug: tappv
 slug: tappv
 
 ---

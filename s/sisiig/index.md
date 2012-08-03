@@ -2,7 +2,9 @@
 Gesetz zum Schengener Informationssystem der zweiten Generation
 ---
 Title: ''
+jurabk: SISIIG
 layout: default
+origslug: sisiig
 slug: sisiig
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schornsteinfeger/zur Schornsteinfegerin
+jurabk: SchfAusbV 1997
 layout: default
+origslug: schfausbv_1997
 slug: schfausbv_1997
 
 ---

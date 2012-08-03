@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Prüfung zum Betriebsleiter für Eisenbahnen
+jurabk: EBPV
 layout: default
+origslug: ebpv
 slug: ebpv
 
 ---

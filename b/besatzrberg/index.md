@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Bereinigung des Besatzungsrechts
+jurabk: BesatzRBerG
 layout: default
+origslug: besatzrberg
 slug: besatzrberg
 
 ---

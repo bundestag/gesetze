@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch - Zusammenarbeit der Leistungsträger und ihre Beziehungen
   zu Dritten -
+jurabk: SGB 10/Kap3
 layout: default
+origslug: sgb_10_kap3
 slug: sgb_10_kap3
 
 ---

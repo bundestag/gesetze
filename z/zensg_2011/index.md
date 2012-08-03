@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den registergestützten Zensus im Jahre 2011
+jurabk: ZensG 2011
 layout: default
+origslug: zensg_2011
 slug: zensg_2011
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Umsetzung von Zukunftsinvestitionen der Kommunen und Länder
+jurabk: ZuInvG
 layout: default
+origslug: zuinvg
 slug: zuinvg
 
 ---

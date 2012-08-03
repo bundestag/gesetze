@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Herstellung der Rechtseinheit in der gesetzlichen Renten- und Unfallversicherung
+jurabk: RÜG
 layout: default
-slug: r_g
+origslug: r_g
+slug: rueg
 
 ---
 

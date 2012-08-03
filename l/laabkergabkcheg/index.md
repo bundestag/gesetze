@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 16. März 1962 zur Ergänzung des Abkommens vom 26.
   August 1952 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
   zum deutschen Lastenausgleich
+jurabk: LAAbkErgAbkCHEG
 layout: default
+origslug: laabkergabkcheg
 slug: laabkergabkcheg
 
 ---

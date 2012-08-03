@@ -1,6 +1,8 @@
 ---
 Title: Umweltstatistikgesetz
+jurabk: UStatG 2005
 layout: default
+origslug: ustatg_2005
 slug: ustatg_2005
 
 ---

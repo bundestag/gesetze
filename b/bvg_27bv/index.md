@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung einer Zusatzstatistik auf dem Gebiet der Kriegsopferfürsorge
   über Leistungen nach § 27b des Bundesversorgungsgesetzes
+jurabk: BVG§27bV
 layout: default
+origslug: bvg_27bv
 slug: bvg_27bv
 
 ---

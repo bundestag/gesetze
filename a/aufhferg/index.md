@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung steuerrechtlicher Vorschriften und zur Errichtung eines
   Fonds "Aufbauhilfe"
+jurabk: AufhFErG
 layout: default
+origslug: aufhferg
 slug: aufhferg
 
 ---

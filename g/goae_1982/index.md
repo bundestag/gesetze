@@ -1,7 +1,9 @@
 ---
 Title: Gebührenordnung für Ärzte
+jurabk: GOÄ 1982
 layout: default
-slug: go__1982
+origslug: go__1982
+slug: goae_1982
 
 ---
 

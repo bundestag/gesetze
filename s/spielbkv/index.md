@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über öffentliche Spielbanken
+jurabk: SpielbkV
 layout: default
+origslug: spielbkv
 slug: spielbkv
 
 ---

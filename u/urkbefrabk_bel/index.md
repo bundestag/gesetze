@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien
   über die Befreiung öffentlicher Urkunden von der Legalisation
+jurabk: UrkBefrAbk BEL
 layout: default
+origslug: urkbefrabk_bel
 slug: urkbefrabk_bel
 
 ---

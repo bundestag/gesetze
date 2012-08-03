@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kosten der Kartellbehörden
+jurabk: KartKostV
 layout: default
+origslug: kartkostv
 slug: kartkostv
 
 ---

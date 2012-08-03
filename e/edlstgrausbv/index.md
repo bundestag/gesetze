@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Edelsteingraveur/zur Edelsteingraveurin
+jurabk: EdlStGrAusbV
 layout: default
+origslug: edlstgrausbv
 slug: edlstgrausbv
 
 ---

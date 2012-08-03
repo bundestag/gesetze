@@ -1,8 +1,10 @@
 ---
 Title: Gesetz über die am 14. Juli 1967 in Stockholm unterzeichneten Übereinkünfte
   auf dem Gebiet des geistigen Eigentums
+jurabk: WOGeistEigÜbkuaG
 layout: default
-slug: wogeisteig_bkuag
+origslug: wogeisteig_bkuag
+slug: wogeisteiguebkuag
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherung von Verkehrsleistungen
+jurabk: VerkLG
 layout: default
+origslug: verklg
 slug: verklg
 
 ---

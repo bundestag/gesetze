@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Pferdewirt und zur Pferdewirtin
+jurabk: PfWirtAusbStEignV 2011
 layout: default
+origslug: pfwirtausbsteignv_2011
 slug: pfwirtausbsteignv_2011
 
 ---

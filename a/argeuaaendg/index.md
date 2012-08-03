@@ -2,8 +2,10 @@
 Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen, zur
   Änderung des Erblastentilgungsfonds-Gesetzes und zur Änderung des Investitionsförderungsgesetzes
   Aufbau Ost
+jurabk: ARGEuaÄndG
 layout: default
-slug: argeua_ndg
+origslug: argeua_ndg
+slug: argeuaaendg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
+jurabk: StVOuaVsAusnV 2
 layout: default
+origslug: stvouavsausnv_2
 slug: stvouavsausnv_2
 
 ---

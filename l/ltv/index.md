@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Tarifordnung für die Seelotsreviere
+jurabk: LTV
 layout: default
+origslug: ltv
 slug: ltv
 
 ---

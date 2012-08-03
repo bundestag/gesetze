@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4EFTA/FINBek
 layout: default
+origslug: wzg_4efta_finbek
 slug: wzg_4efta_finbek
 
 ---

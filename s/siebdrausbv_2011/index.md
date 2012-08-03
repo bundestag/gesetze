@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck
 und zur Medientechnologin Siebdruck
 ---
 Title: ''
+jurabk: SiebdrAusbV 2011
 layout: default
+origslug: siebdrausbv_2011
 slug: siebdrausbv_2011
 
 ---

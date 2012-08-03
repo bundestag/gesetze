@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die berechnungsrechtliche Behandlung von Investitionszulagen im
   preisgebundenen Wohnungsbau
+jurabk: InvZulBerG
 layout: default
+origslug: invzulberg
 slug: invzulberg
 
 ---

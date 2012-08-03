@@ -1,7 +1,9 @@
 ---
 Title: Protokoll über die Zentralisierung des Europäischen Patentsystems und seine
   Einführung
+jurabk: EuPatZentProt
 layout: default
+origslug: eupatzentprot
 slug: eupatzentprot
 
 ---

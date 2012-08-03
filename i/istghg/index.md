@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof
+jurabk: IStGHG
 layout: default
+origslug: istghg
 slug: istghg
 
 ---

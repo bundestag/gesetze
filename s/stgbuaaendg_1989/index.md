@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung und des Versammlungsgesetzes
   und zur Einführung einer Kronzeugenregelung bei terroristischen Straftaten
+jurabk: StGBuaÄndG 1989
 layout: default
-slug: stgbua_ndg_1989
+origslug: stgbua_ndg_1989
+slug: stgbuaaendg_1989
 
 ---
 

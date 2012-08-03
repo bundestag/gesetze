@@ -3,7 +3,9 @@ Title: Gesetz zur Ausführung des Abkommens vom 14. Juli 1960 zwischen der Bunde
   Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die
   gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen in Zivil-
   und Handelssachen
+jurabk: VollstrAbkGBRAG
 layout: default
+origslug: vollstrabkgbrag
 slug: vollstrabkgbrag
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Eisenbahnwesens
+jurabk: ENeuOG
 layout: default
+origslug: eneuog
 slug: eneuog
 
 ---

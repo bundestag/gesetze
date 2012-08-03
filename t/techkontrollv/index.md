@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
+jurabk: TechKontrollV
 layout: default
+origslug: techkontrollv
 slug: techkontrollv
 
 ---

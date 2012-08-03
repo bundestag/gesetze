@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung
   tierischer Produkte gehaltener Tiere bei ihrer Haltung
+jurabk: TierSchNutztV
 layout: default
+origslug: tierschnutztv
 slug: tierschnutztv
 
 ---

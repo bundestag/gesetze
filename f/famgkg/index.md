@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Gerichtskosten in Familiensachen
+jurabk: FamGKG
 layout: default
+origslug: famgkg
 slug: famgkg
 
 ---

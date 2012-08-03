@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Orthopädiemechaniker und Bandagisten/zur
   Orthopädiemechanikerin und Bandagistin
+jurabk: OrthMechAusbV
 layout: default
+origslug: orthmechausbv
 slug: orthmechausbv
 
 ---

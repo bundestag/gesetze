@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Geschäftsbereich
   des Bundesministeriums für Post und Telekommunikation
+jurabk: BMinPTDiszAnO
 layout: default
+origslug: bminptdiszano
 slug: bminptdiszano
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Vierte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
+jurabk: AusbBerAufhV 4
 layout: default
+origslug: ausbberaufhv_4
 slug: ausbberaufhv_4
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Film- und Videoeditor/zur Film- und
   Videoeditorin
+jurabk: VideoedAusbV
 layout: default
+origslug: videoedausbv
 slug: videoedausbv
 
 ---

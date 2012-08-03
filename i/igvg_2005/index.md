@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu den Internationalen Gesundheitsvorschriften (2005) (IGV) vom 23.
   Mai 2005
+jurabk: IGVG 2005
 layout: default
+origslug: igvg_2005
 slug: igvg_2005
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Durchführung des Bundesrückerstattungsgesetzes
+jurabk: BRüGDV 1
 layout: default
-slug: br_gdv_1
+origslug: br_gdv_1
+slug: bruegdv_1
 
 ---
 

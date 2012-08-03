@@ -3,7 +3,9 @@ Verordnung über die Entwicklung und Erprobung der Berufsausbildung in
 der Automatenwirtschaft
 ---
 Title: ''
+jurabk: AutomErprobV
 layout: default
+origslug: automerprobv
 slug: automerprobv
 
 ---

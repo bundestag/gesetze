@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung über
   die Übertragung beamtenrechtlicher Zuständigkeiten
+jurabk: BMVBSDelegatAnO
 layout: default
+origslug: bmvbsdelegatano
 slug: bmvbsdelegatano
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Fliesen-, Platten- und Mosaikleger-Handwerk
+jurabk: FPMMstrV
 layout: default
+origslug: fpmmstrv
 slug: fpmmstrv
 
 ---

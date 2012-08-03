@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Fleisch und Fleischerzeugnisse
+jurabk: FlV
 layout: default
+origslug: flv
 slug: flv
 
 ---

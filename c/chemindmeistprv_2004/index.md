@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Chemie
+jurabk: ChemIndMeistPrV 2004
 layout: default
+origslug: chemindmeistprv_2004
 slug: chemindmeistprv_2004
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Abänderung der Reihenfolge der Kostenstrukturerhebungen
+jurabk: KoStrukStatRflgV
 layout: default
+origslug: kostrukstatrflgv
 slug: kostrukstatrflgv
 
 ---

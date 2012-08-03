@@ -2,8 +2,10 @@
 Title: Ausführungsgesetz zu dem Übereinkommen vom 30. August 1961 zur Verminderung
   der Staatenlosigkeit und zu dem Übereinkommen vom 13. September 1973 zur Verringerung
   der Fälle von Staatenlosigkeit
+jurabk: StaatenlMindÜbkAG
 layout: default
-slug: staatenlmind_bkag
+origslug: staatenlmind_bkag
+slug: staatenlminduebkag
 
 ---
 

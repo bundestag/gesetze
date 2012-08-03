@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Kriminaldienst
   des Bundes
+jurabk: GKrimDAPrV
 layout: default
+origslug: gkrimdaprv
 slug: gkrimdaprv
 
 ---

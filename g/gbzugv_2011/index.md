@@ -1,6 +1,8 @@
 ---
 Title: Berufszugangsverordnung für den Güterkraftverkehr
+jurabk: GBZugV 2011
 layout: default
+origslug: gbzugv_2011
 slug: gbzugv_2011
 
 ---

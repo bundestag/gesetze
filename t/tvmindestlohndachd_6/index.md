@@ -2,7 +2,9 @@
 Title: 'Rechtsnormen des Tarifvertrages zur Regelung der Mindestlohnes im Dachdeckerhandwerk
   - Dach-, Wand- und Abdichtungstechnik - im Gebiet der Bundesrepublik Deutschland
   (TV Mindestlohn) (siehe: TVMindestlohnDachd 6)'
+jurabk: TVMindestlohnDachd 6
 layout: default
+origslug: tvmindestlohndachd_6
 slug: tvmindestlohndachd_6
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Zollverwaltungsgesetz
+jurabk: ZollVG
 layout: default
+origslug: zollvg
 slug: zollvg
 
 ---

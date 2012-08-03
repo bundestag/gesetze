@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die religiöse Kindererziehung
+jurabk: KErzG
 layout: default
+origslug: kerzg
 slug: kerzg
 
 ---

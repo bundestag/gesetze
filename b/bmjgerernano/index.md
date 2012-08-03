@@ -2,7 +2,9 @@
 Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten
   bei den obersten Gerichten des Bundes im Geschäftsbereich des Bundesministeriums
   der Justiz
+jurabk: BMJGerErnAnO
 layout: default
+origslug: bmjgerernano
 slug: bmjgerernano
 
 ---

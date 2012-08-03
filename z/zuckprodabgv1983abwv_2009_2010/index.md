@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Abweichung von der Zucker-Produktionsabgaben-Verordnung für
   das Wirtschaftsjahr 2009/2010
+jurabk: ZuckProdAbgV1983AbwV 2009/2010
 layout: default
+origslug: zuckprodabgv1983abwv_2009_2010
 slug: zuckprodabgv1983abwv_2009_2010
 
 ---

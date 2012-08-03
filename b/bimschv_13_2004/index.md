@@ -1,7 +1,9 @@
 ---
 Title: Dreizehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
   (Verordnung über Großfeuerungs- und Gasturbinenanlagen)
+jurabk: BImSchV 13 2004
 layout: default
+origslug: bimschv_13_2004
 slug: bimschv_13_2004
 
 ---

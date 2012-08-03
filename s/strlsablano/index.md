@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Gewährleistung des Strahlenschutzes bei Halden und industriellen
   Absetzanlagen und bei der Verwendung darin abgelagerter Materialien
+jurabk: StrlSAblAnO
 layout: default
+origslug: strlsablano
 slug: strlsablano
 
 ---

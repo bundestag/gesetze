@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   von Beamten der Bundesverkehrsverwaltung
+jurabk: BPräsKldgVerkVwAnO
 layout: default
-slug: bpr_skldgverkvwano
+origslug: bpr_skldgverkvwano
+slug: bpraeskldgverkvwano
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Durchführung einer Statistik über die Struktur des Personals
   in der Jugendhilfe
+jurabk: JHiStruktV
 layout: default
+origslug: jhistruktv
 slug: jhistruktv
 
 ---

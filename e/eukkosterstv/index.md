@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Kostenerstattung an die Eisenbahn-Unfallkasse für die auftragsweise
   Wahrnehmung der Aufgaben für die Prävention für die Beamten
+jurabk: EUKKostErstV
 layout: default
+origslug: eukkosterstv
 slug: eukkosterstv
 
 ---

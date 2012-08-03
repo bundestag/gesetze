@@ -1,6 +1,8 @@
 ---
 Title: Körperschaftsteuergesetz
+jurabk: KStG 1977
 layout: default
+origslug: kstg_1977
 slug: kstg_1977
 
 ---

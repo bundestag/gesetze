@@ -1,6 +1,8 @@
 ---
 Title: Neunte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
+jurabk: StVOAusnV 9
 layout: default
+origslug: stvoausnv_9
 slug: stvoausnv_9
 
 ---

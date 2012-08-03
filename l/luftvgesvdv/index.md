@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Internationalen Gesundheitsvorschriften vom
   25. Juli 1969 im Luftverkehr
+jurabk: LuftVGesVDV
 layout: default
+origslug: luftvgesvdv
 slug: luftvgesvdv
 
 ---

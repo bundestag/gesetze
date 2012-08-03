@@ -3,7 +3,9 @@ Title: Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Sch
   Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in
   der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten
   Aktiengesellschaften betreffen
+jurabk: AufsRatAbkCHEG
 layout: default
+origslug: aufsratabkcheg
 slug: aufsratabkcheg
 
 ---

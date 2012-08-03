@@ -1,6 +1,8 @@
 ---
 Title: Eigenheimzulagengesetz
+jurabk: EigZulG
 layout: default
+origslug: eigzulg
 slug: eigzulg
 
 ---

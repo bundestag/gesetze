@@ -1,7 +1,9 @@
 ---
 Title: Zwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
   1 Abs. 2 des Auslandsunterhaltsgesetzes
+jurabk: AUG§1Abs2Bek 20
 layout: default
+origslug: aug_1abs2bek_20
 slug: aug_1abs2bek_20
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung zu Artikel V des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes
+jurabk: BEGSchlGArt5V 2
 layout: default
+origslug: begschlgart5v_2
 slug: begschlgart5v_2
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
+jurabk: LSVSpiVG
 layout: default
+origslug: lsvspivg
 slug: lsvspivg
 
 ---

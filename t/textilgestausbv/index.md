@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Textilgestalter und zur
 Textilgestalterin im Handwerk
 ---
 Title: ''
+jurabk: TextilGestAusbV
 layout: default
+origslug: textilgestausbv
 slug: textilgestausbv
 
 ---

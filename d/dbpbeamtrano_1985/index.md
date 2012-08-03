@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts
   im Bereich der Deutschen Bundespost und der Bundesdruckerei
+jurabk: DBPBeamtRAnO 1985
 layout: default
+origslug: dbpbeamtrano_1985
 slug: dbpbeamtrano_1985
 
 ---

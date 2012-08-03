@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel
   1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)
+jurabk: SGB 11
 layout: default
+origslug: sgb_11
 slug: sgb_11
 
 ---

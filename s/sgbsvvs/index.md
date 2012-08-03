@@ -1,6 +1,8 @@
 ---
 Title: Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -
+jurabk: SGBSVVs
 layout: default
+origslug: sgbsvvs
 slug: sgbsvvs
 
 ---

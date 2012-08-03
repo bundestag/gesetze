@@ -1,7 +1,9 @@
 ---
 Title: Zusatzabkommen zum Abkommen vom 22. Dezember 1966 zwischen der Bundesrepublik
   Deutschland und der Republik Österreich über Soziale Sicherheit
+jurabk: SozSichAbkZAbk AUT
 layout: default
+origslug: sozsichabkzabk_aut
 slug: sozsichabkzabk_aut
 
 ---

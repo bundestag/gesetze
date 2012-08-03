@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über deutsche Auslandsschulden
+jurabk: AuslSchuldAbk
 layout: default
+origslug: auslschuldabk
 slug: auslschuldabk
 
 ---

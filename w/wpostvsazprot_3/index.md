@@ -1,6 +1,8 @@
 ---
 Title: Drittes Zusatzprotokoll zur Satzung des Weltpostvereins
+jurabk: WPostVSaZProt 3
 layout: default
+origslug: wpostvsazprot_3
 slug: wpostvsazprot_3
 
 ---

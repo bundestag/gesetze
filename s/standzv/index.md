@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Standardzulassungen von Arzneimitteln
+jurabk: StandZV
 layout: default
+origslug: standzv
 slug: standzv
 
 ---

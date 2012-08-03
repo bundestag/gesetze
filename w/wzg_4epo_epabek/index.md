@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4EPO/EPABek
 layout: default
+origslug: wzg_4epo_epabek
 slug: wzg_4epo_epabek
 
 ---

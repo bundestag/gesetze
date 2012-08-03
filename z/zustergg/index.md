@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Ergänzung von Zuständigkeiten auf den Gebieten des Bürgerlichen
   Rechts, des Handelsrechts und des Strafrechts
+jurabk: ZustErgG
 layout: default
+origslug: zustergg
 slug: zustergg
 
 ---

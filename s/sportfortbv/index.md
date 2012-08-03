@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Sportfachwirt und Geprüfte Sportfachwirtin
+jurabk: SportFortbV
 layout: default
+origslug: sportfortbv
 slug: sportfortbv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Energiestatistik
+jurabk: EnStatG
 layout: default
+origslug: enstatg
 slug: enstatg
 
 ---

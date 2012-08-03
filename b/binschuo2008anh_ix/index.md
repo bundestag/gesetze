@@ -2,7 +2,9 @@ Vorschriften für Signallichter, Radarausrüstungen, Wendeanzeiger sowie
 Kompasse und Steuerkurstransmitter
 ---
 Title: (Anhang IX zur Binnenschiffsuntersuchungsordnung)
+jurabk: BinSchUO2008Anh IX
 layout: default
+origslug: binschuo2008anh_ix
 slug: binschuo2008anh_ix
 
 ---

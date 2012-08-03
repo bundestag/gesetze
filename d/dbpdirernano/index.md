@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich
   des Direktoriums der Deutschen Bundespost
+jurabk: DBPDirErnAnO
 layout: default
+origslug: dbpdirernano
 slug: dbpdirernano
 
 ---

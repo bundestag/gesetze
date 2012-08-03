@@ -3,7 +3,9 @@ Title: Gesetz zu dem Vertrag vom 26. März 1982 zwischen der Bundesrepublik Deut
   und dem Königreich Belgien über die Berichtigung der deutsch-belgischen Grenze im
   Bereich der regulierten Grenzgewässer Breitenbach und Schwarzbach, Kreise Aachen
   und Malmedy
+jurabk: GrBerKrAC/MalVtrBELG
 layout: default
+origslug: grberkrac_malvtrbelg
 slug: grberkrac_malvtrbelg
 
 ---

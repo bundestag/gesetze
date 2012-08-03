@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Errichtung der Welthandelsorganisation (WTO)
+jurabk: WTOÜbk
 layout: default
-slug: wto_bk
+origslug: wto_bk
+slug: wtouebk
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Fünfte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
+jurabk: AusbBerAufhV 5
 layout: default
+origslug: ausbberaufhv_5
 slug: ausbberaufhv_5
 
 ---

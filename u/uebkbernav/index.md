@@ -2,8 +2,10 @@
 Title: Verordnung betreffend die Ausführung der am 9. September 1886 zu Bern abgeschlossenen
   Übereinkunft wegen Bildung eines internationalen Verbandes zum Schutz von Werken
   der Literatur und Kunst
+jurabk: ÜbkBernAV
 layout: default
-slug: _bkbernav
+origslug: _bkbernav
+slug: uebkbernav
 
 ---
 

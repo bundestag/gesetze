@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Medizinprodukte
+jurabk: MPV 2002
 layout: default
+origslug: mpv_2002
 slug: mpv_2002
 
 ---

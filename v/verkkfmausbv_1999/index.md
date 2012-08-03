@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur
   Kauffrau im Eisenbahn- und Straßenverkehr
+jurabk: VerkKfmAusbV 1999
 layout: default
+origslug: verkkfmausbv_1999
 slug: verkkfmausbv_1999
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der Beiträge und der Beitragszuschüsse in der  Alterssicherung
   der Landwirte für 2006
+jurabk: BeitrLV 2006
 layout: default
+origslug: beitrlv_2006
 slug: beitrlv_2006
 
 ---

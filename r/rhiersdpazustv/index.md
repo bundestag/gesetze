@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuständigkeit des Deutschen Patentamts für die Übermittlung
   von Rechtshilfeersuchen des Europäischen Patentamts
+jurabk: RHiErsDPAZustV
 layout: default
+origslug: rhiersdpazustv
 slug: rhiersdpazustv
 
 ---

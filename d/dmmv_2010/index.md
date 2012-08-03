@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln
+jurabk: DmMV 2010
 layout: default
+origslug: dmmv_2010
 slug: dmmv_2010
 
 ---
