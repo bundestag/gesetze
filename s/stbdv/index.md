@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte
   und Steuerberatungsgesellschaften
+jurabk: StBDV
 layout: default
+origslug: stbdv
 slug: stbdv
 
 ---

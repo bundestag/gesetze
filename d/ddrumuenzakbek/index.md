@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Außerkurssetzung der im Beitrittsgebiet noch gültigen
   Umlaufmünzen der ehemaligen DDR zu 1, 5, 10, 20 und 50 Pfennig
+jurabk: DDRUMünzAkBek
 layout: default
-slug: ddrum_nzakbek
+origslug: ddrum_nzakbek
+slug: ddrumuenzakbek
 
 ---
 

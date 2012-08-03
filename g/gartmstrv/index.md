@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Gärtner/Gärtnerin
+jurabk: GartMstrV
 layout: default
+origslug: gartmstrv
 slug: gartmstrv
 
 ---

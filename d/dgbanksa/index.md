@@ -1,6 +1,8 @@
 ---
 Title: Satzung DG BANK AG
+jurabk: DGBankSa
 layout: default
+origslug: dgbanksa
 slug: dgbanksa
 
 ---

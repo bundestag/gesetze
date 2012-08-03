@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen
   Reich und Bolivien
+jurabk: WZBOLBek
 layout: default
+origslug: wzbolbek
 slug: wzbolbek
 
 ---

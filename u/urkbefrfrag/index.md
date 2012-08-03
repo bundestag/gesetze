@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 13. September 1971 zwischen der Bundesrepublik Deutschland
   und der Französischen Republik über die Befreiung öffentlicher Urkunden von der
   Legalisation
+jurabk: UrkBefrFRAG
 layout: default
+origslug: urkbefrfrag
 slug: urkbefrfrag
 
 ---

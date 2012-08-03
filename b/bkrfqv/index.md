@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Berufskraftfahrer-Qualifikations-Gesetzes
+jurabk: BKrFQV
 layout: default
+origslug: bkrfqv
 slug: bkrfqv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgarien
   über Soziale Sicherheit
+jurabk: SozSichAbk BGR
 layout: default
+origslug: sozsichabk_bgr
 slug: sozsichabk_bgr
 
 ---

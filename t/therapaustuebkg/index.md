@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Europäischen Übereinkommen vom 15. Dezember 1958 über den Austausch
   therapeutischer Substanzen menschlichen Ursprungs
+jurabk: TherapAustÜbkG
 layout: default
-slug: therapaust_bkg
+origslug: therapaust_bkg
+slug: therapaustuebkg
 
 ---
 

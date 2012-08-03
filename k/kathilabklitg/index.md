@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 15. März 1994 zwischen der Bundesrepublik Deutschland
   und der Republik Litauen über die gegenseitige Hilfeleistung bei Katastrophen oder
   schweren Unglücksfällen
+jurabk: KatHiLAbkLITG
 layout: default
+origslug: kathilabklitg
 slug: kathilabklitg
 
 ---

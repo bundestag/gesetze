@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 14. Juli 1994 zwischen der Bundesrepublik Deutschland
   und der Islamischen Republik Pakistan zur Vermeidung der Doppelbesteuerung auf dem
   Gebiet der Steuern vom Einkommen
+jurabk: DBAPAKG
 layout: default
+origslug: dbapakg
 slug: dbapakg
 
 ---

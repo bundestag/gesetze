@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen
+jurabk: FGNV
 layout: default
+origslug: fgnv
 slug: fgnv
 
 ---

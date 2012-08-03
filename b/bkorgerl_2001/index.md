@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass des Bundeskanzlers
+jurabk: BKOrgErl 2001
 layout: default
+origslug: bkorgerl_2001
 slug: bkorgerl_2001
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes auf die
   Bergbau-Versuchsstrecke
+jurabk: BergbVersStrV
 layout: default
+origslug: bergbversstrv
 slug: bergbversstrv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge
+jurabk: BVFG
 layout: default
+origslug: bvfg
 slug: bvfg
 
 ---

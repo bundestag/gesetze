@@ -1,7 +1,9 @@
 ---
 Title: Durchführungsbestimmung zur Verordnung über die Tilgung der Anteilrechte von
   Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe
+jurabk: AltgAATVDBest
 layout: default
+origslug: altgaatvdbest
 slug: altgaatvdbest
 
 ---

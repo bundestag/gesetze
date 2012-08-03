@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 8. April 1959 zur Errichtung der Interamerikanischen
   Entwicklungsbank
+jurabk: IAmEntwBkÜbkG
 layout: default
-slug: iamentwbk_bkg
+origslug: iamentwbk_bkg
+slug: iamentwbkuebkg
 
 ---
 

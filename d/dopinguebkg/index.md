@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 16. November 1989 gegen Doping
+jurabk: DopingÜbkG
 layout: default
-slug: doping_bkg
+origslug: doping_bkg
+slug: dopinguebkg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung der Schiffahrtsordnung Emsmündung
+jurabk: EmsSchEV
 layout: default
+origslug: emsschev
 slug: emsschev
 
 ---

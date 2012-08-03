@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 22. März 1985 zum Schutz der Ozonschicht
+jurabk: OzonSÜbkG
 layout: default
-slug: ozons_bkg
+origslug: ozons_bkg
+slug: ozonsuebkg
 
 ---
 

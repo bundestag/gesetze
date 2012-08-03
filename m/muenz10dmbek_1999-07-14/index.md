@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze "Weimar - Kulturstadt Europas/250. Geburtstag Goethes")
+jurabk: Münz10DMBek 1999-07-14
 layout: default
-slug: m_nz10dmbek_1999-07-14
+origslug: m_nz10dmbek_1999-07-14
+slug: muenz10dmbek_1999-07-14
 
 ---
 

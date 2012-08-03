@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Liquidität der Institute
+jurabk: LiqV
 layout: default
+origslug: liqv
 slug: liqv
 
 ---

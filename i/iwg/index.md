@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen
+jurabk: IWG
 layout: default
+origslug: iwg
 slug: iwg
 
 ---

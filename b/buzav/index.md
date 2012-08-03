@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bestätigung der Umstellungsrechnung und das Verfahren der
   Zuteilung und des Erwerbs von Ausgleichsforderungen
+jurabk: BUZAV
 layout: default
+origslug: buzav
 slug: buzav
 
 ---

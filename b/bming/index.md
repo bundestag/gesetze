@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Rechtsverhältnisse der Mitglieder der Bundesregierung
+jurabk: BMinG
 layout: default
+origslug: bming
 slug: bming
 
 ---

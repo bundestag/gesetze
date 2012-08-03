@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer
   Flüssigkeiten zu Lande
+jurabk: BFV 1980
 layout: default
+origslug: bfv_1980
 slug: bfv_1980
 
 ---

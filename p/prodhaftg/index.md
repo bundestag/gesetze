@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Haftung für fehlerhafte Produkte
+jurabk: ProdHaftG
 layout: default
+origslug: prodhaftg
 slug: prodhaftg
 
 ---

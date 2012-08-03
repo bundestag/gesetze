@@ -1,6 +1,8 @@
 ---
 Title: ECE-Regelung Nr. 110 über den Einsatz von komprimiertem Erdgas
+jurabk: ECER 110
 layout: default
+origslug: ecer_110
 slug: ecer_110
 
 ---

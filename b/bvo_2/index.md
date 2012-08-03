@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über wohnungswirtschaftliche Berechnungen nach dem Zweiten Wohnungsbaugesetz
+jurabk: BVO 2
 layout: default
+origslug: bvo_2
 slug: bvo_2
 
 ---

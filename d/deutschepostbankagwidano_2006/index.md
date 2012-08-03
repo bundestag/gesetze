@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen in  beihilferechtlichen Angelegenheiten
   aus dem Beamtenverhältnis im Bereich der  Deutschen Postbank AG
+jurabk: DeutschePostbankAGWidAnO 2006
 layout: default
+origslug: deutschepostbankagwidano_2006
 slug: deutschepostbankagwidano_2006
 
 ---

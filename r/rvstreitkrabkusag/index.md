@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 11. September 1970 zwischen der Bundesrepublik Deutschland
   und den Vereinigten Staaten von Amerika über die Rentenversicherung gewisser Arbeitnehmer
   der Landstreitkräfte der Vereinigten Staaten von Amerika
+jurabk: RVStreitkrAbkUSAG
 layout: default
+origslug: rvstreitkrabkusag
 slug: rvstreitkrabkusag
 
 ---

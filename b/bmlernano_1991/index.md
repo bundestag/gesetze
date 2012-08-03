@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich
   des Bundesministers für Ernährung, Landwirtschaft und Forsten
+jurabk: BMLErnAnO 1991
 layout: default
+origslug: bmlernano_1991
 slug: bmlernano_1991
 
 ---

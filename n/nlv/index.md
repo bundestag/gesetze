@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung gemeinschaftsrechtlicher Vorschriften über neuartige
   Lebensmittel und Lebensmittelzutaten
+jurabk: NLV
 layout: default
+origslug: nlv
 slug: nlv
 
 ---

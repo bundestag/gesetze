@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung der Rechtsverhältnisse an Meliorationsanlagen
+jurabk: MeAnlG
 layout: default
+origslug: meanlg
 slug: meanlg
 
 ---

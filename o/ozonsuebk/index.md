@@ -1,7 +1,9 @@
 ---
 Title: Wiener Übereinkommen zum Schutz der Ozonschicht
+jurabk: OzonSÜbk
 layout: default
-slug: ozons_bk
+origslug: ozons_bk
+slug: ozonsuebk
 
 ---
 

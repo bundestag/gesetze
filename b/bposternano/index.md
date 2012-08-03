@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten der Deutschen Bundespost
   und der Bundesdruckerei
+jurabk: BPostErnAnO
 layout: default
+origslug: bposternano
 slug: bposternano
 
 ---

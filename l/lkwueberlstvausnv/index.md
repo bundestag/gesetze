@@ -3,8 +3,10 @@ Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
 für Fahrzeuge und Fahrzeugkombinationen mit Überlänge
 ---
 Title: ''
+jurabk: LKWÜberlStVAusnV
 layout: default
-slug: lkw_berlstvausnv
+origslug: lkw_berlstvausnv
+slug: lkwueberlstvausnv
 
 ---
 

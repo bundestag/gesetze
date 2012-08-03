@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die vorrangige Bearbeitung investiver Grundbuchsachen
+jurabk: GBVorV
 layout: default
+origslug: gbvorv
 slug: gbvorv
 
 ---

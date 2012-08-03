@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen
+jurabk: GGVSee 2003
 layout: default
+origslug: ggvsee_2003
 slug: ggvsee_2003
 
 ---

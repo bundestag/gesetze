@@ -2,7 +2,9 @@
 Title: Verordnung über die Leistungsentgelte für das Arbeitslosengeld, das Teilarbeitslosengeld,
   das Unterhaltsgeld und die Arbeitslosenhilfe sowie die pauschalierten Nettoentgelte
   für das Kurzarbeitergeld und das Winterausfallgeld für das Jahr 2004
+jurabk: SGB3LEntgV 2004
 layout: default
+origslug: sgb3lentgv_2004
 slug: sgb3lentgv_2004
 
 ---

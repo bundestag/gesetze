@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass der Bundeskanzlerin
+jurabk: BKOrgErl 2009-10
 layout: default
+origslug: bkorgerl_2009-10
 slug: bkorgerl_2009-10
 
 ---

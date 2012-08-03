@@ -5,7 +5,9 @@ Europäischen Union oder eines anderen Vertragsstaates des Abkommens
 Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks
 ---
 Title: ''
+jurabk: EU/EWRHwV
 layout: default
+origslug: eu_ewrhwv
 slug: eu_ewrhwv
 
 ---

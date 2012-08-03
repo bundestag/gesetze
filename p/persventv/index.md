@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Höhe der Aufwandsentschädigung für vom Dienst freigestellte
   Personalvertretungsmitglieder
+jurabk: PersVEntV
 layout: default
+origslug: persventv
 slug: persventv
 
 ---

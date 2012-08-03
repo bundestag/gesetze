@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung von Jubiläumszuwendungen an Soldatinnen und Soldaten
+jurabk: SJubV 2002
 layout: default
+origslug: sjubv_2002
 slug: sjubv_2002
 
 ---

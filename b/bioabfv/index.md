@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich
   und gärtnerisch genutzten Böden
+jurabk: BioAbfV
 layout: default
+origslug: bioabfv
 slug: bioabfv
 
 ---

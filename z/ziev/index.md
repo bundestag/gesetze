@@ -4,7 +4,9 @@ Zahlungsinstituten und E-Geld-Instituten nach dem
 Zahlungsdiensteaufsichtsgesetz
 ---
 Title: ''
+jurabk: ZIEV
 layout: default
+origslug: ziev
 slug: ziev
 
 ---

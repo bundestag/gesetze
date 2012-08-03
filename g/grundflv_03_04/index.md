@@ -2,7 +2,9 @@
 Title: Verordnung über die Saldierung von Grundflächen im Wirtschaftsjahr 2003/2004
   im Rahmen der gemeinschaftsrechtlichen Stützungsregelung für Erzeuger bestimmter
   landwirtschaftlicher Kulturpflanzen
+jurabk: GrundflV 03/04
 layout: default
+origslug: grundflv_03_04
 slug: grundflv_03_04
 
 ---

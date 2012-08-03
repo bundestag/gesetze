@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Erprobung eines registergestützten Zensus
+jurabk: ZensTeG
 layout: default
+origslug: zensteg
 slug: zensteg
 
 ---

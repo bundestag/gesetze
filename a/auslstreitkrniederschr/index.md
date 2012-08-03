@@ -5,7 +5,9 @@ Title: Vereinbarte Niederschrift der Verhandlungen zwischen der Regierung der Bu
   der Portugiesischen Republik, des Königreichs Spanien und der Republik Türkei über
   die Rechtsstellung ihrer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik
   Deutschland
+jurabk: AuslStreitkrNiederschr
 layout: default
+origslug: auslstreitkrniederschr
 slug: auslstreitkrniederschr
 
 ---

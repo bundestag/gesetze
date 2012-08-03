@@ -1,6 +1,8 @@
 ---
 Title: Sozialgesetzbuch - Allgemeiner Teil -
+jurabk: SGBAT
 layout: default
+origslug: sgbat
 slug: sgbat
 
 ---

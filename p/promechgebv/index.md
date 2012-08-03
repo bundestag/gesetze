@@ -1,6 +1,8 @@
 ---
 Title: Projekt-Mechanismen-Gebührenverordnung
+jurabk: ProMechGebV
 layout: default
+origslug: promechgebv
 slug: promechgebv
 
 ---

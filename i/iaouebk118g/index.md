@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Übereinkommen Nr. 118 der Internationalen Arbeitsorganisation
   vom 28. Juni 1962 über die Gleichbehandlung von Inländern und Ausländern in der
   Sozialen Sicherheit
+jurabk: IAOÜbk118G
 layout: default
-slug: iao_bk118g
+origslug: iao_bk118g
+slug: iaouebk118g
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Holzbildhauer/zur Holzbildhauerin
+jurabk: HolzbhAusbV
 layout: default
+origslug: holzbhausbv
 slug: holzbhausbv
 
 ---

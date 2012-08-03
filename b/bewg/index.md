@@ -1,6 +1,8 @@
 ---
 Title: Bewertungsgesetz
+jurabk: BewG
 layout: default
+origslug: bewg
 slug: bewg
 
 ---

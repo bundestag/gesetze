@@ -1,6 +1,8 @@
 ---
 Title: Gebührenordnung für Tierärzte
+jurabk: GOT
 layout: default
+origslug: got
 slug: got
 
 ---

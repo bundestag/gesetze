@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach
   § 5 des Artikel 115-Gesetzes
+jurabk: Art115V
 layout: default
+origslug: art115v
 slug: art115v
 
 ---

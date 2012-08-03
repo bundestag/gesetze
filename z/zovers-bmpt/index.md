@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen
   Versorgung im Geschäftsbereich des Bundesministeriums für Post und Telekommunikation
+jurabk: ZOVers-BMPT
 layout: default
+origslug: zovers-bmpt
 slug: zovers-bmpt
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Regelung der Krankenhauspflegesätze
+jurabk: BPflV 1994
 layout: default
+origslug: bpflv_1994
 slug: bpflv_1994
 
 ---

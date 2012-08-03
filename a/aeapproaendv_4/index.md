@@ -1,7 +1,9 @@
 ---
 Title: Vierte Verordnung zur Änderung der Approbationsordnung für Ärzte
+jurabk: ÄApprOÄndV 4
 layout: default
-slug: _appro_ndv_4
+origslug: _appro_ndv_4
+slug: aeapproaendv_4
 
 ---
 

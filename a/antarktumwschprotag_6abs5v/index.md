@@ -2,7 +2,9 @@
 Title: Verordnung über Zusammensetzung, Berufung und Verfahren einer unabhängigen
   Kommission wissenschaftlicher Sachverständiger nach § 6 Abs. 5 des Umweltschutzprotokoll-Ausführungsgesetzes
   vom 22. September 1994
+jurabk: AntarktUmwSchProtAG§6Abs5V
 layout: default
+origslug: antarktumwschprotag_6abs5v
 slug: antarktumwschprotag_6abs5v
 
 ---

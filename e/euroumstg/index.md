@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Umstellung von Schuldverschreibungen auf Euro
+jurabk: EuroUmstG
 layout: default
+origslug: euroumstg
 slug: euroumstg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Übertragung von Aufgaben und Befugnissen eines  Sicherungsfonds
   für die Krankenversicherung an die Medicator AG
+jurabk: SichKVV
 layout: default
+origslug: sichkvv
 slug: sichkvv
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe
   und internationaler Seen
+jurabk: WassLÜbk
 layout: default
-slug: wassl_bk
+origslug: wassl_bk
+slug: wassluebk
 
 ---
 

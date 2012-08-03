@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Änderung von Familiennamen und Vornamen
+jurabk: NamÄndG
 layout: default
-slug: nam_ndg
+origslug: nam_ndg
+slug: namaendg
 
 ---
 

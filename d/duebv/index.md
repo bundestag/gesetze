@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Errichtung eines Wissenschaftlichen Beirats für Düngungsfragen
+jurabk: DüBV
 layout: default
-slug: d_bv
+origslug: d_bv
+slug: duebv
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Bundesamt für Sicherheit in der Informationstechnik
+jurabk: BSIG 2009
 layout: default
+origslug: bsig_2009
 slug: bsig_2009
 
 ---

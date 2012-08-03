@@ -1,6 +1,8 @@
 ---
 Title: Bundeswahlordnung
+jurabk: BWO 1985
 layout: default
+origslug: bwo_1985
 slug: bwo_1985
 
 ---

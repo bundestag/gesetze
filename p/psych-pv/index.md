@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Maßstäbe und Grundsätze für den Personalbedarf in der stationären
   Psychiatrie
+jurabk: Psych-PV
 layout: default
+origslug: psych-pv
 slug: psych-pv
 
 ---

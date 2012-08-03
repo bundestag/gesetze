@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Arzneimittelrechts
+jurabk: AMRNOG
 layout: default
+origslug: amrnog
 slug: amrnog
 
 ---

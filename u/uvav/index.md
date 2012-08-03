@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anzeige von Versicherungsfällen in der gesetzlichen Unfallversicherung
+jurabk: UVAV
 layout: default
+origslug: uvav
 slug: uvav
 
 ---

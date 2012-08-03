@@ -2,7 +2,9 @@
 Title: Zwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
   (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim
   Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin)
+jurabk: BImSchV 20 1998
 layout: default
+origslug: bimschv_20_1998
 slug: bimschv_20_1998
 
 ---

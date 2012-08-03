@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland
+jurabk: EuRAG
 layout: default
+origslug: eurag
 slug: eurag
 
 ---

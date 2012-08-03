@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der Beamten des Brandschutzdienstes der Bundeswehr
+jurabk: BPräsKldgBrdSchAnO
 layout: default
-slug: bpr_skldgbrdschano
+origslug: bpr_skldgbrdschano
+slug: bpraeskldgbrdschano
 
 ---
 

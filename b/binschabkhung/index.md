@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 15. Januar 1988 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Ungarischen Volksrepublik über die Binnenschiffahrt
+jurabk: BinSchAbkHUNG
 layout: default
+origslug: binschabkhung
 slug: binschabkhung
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4NLDBek 1972
 layout: default
+origslug: wzg_4nldbek_1972
 slug: wzg_4nldbek_1972
 
 ---

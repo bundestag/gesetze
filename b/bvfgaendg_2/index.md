@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz zur Änderung und Ergänzung des Bundesvertriebenengesetzes
+jurabk: BVFGÄndG 2
 layout: default
-slug: bvfg_ndg_2
+origslug: bvfg_ndg_2
+slug: bvfgaendg_2
 
 ---
 

@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Medientechnologen
 Druckverarbeitung und zur Medientechnologin Druckverarbeitung
 ---
 Title: ''
+jurabk: DruckverarbAusbV
 layout: default
+origslug: druckverarbausbv
 slug: druckverarbausbv
 
 ---

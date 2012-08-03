@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest
+jurabk: SchwPestV 1988
 layout: default
+origslug: schwpestv_1988
 slug: schwpestv_1988
 
 ---

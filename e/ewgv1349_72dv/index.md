@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Vermarktungsnormen für Bruteier und Küken von Hausgeflügel
+jurabk: EWGV1349/72DV
 layout: default
+origslug: ewgv1349_72dv
 slug: ewgv1349_72dv
 
 ---

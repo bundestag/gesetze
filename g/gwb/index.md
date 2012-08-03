@@ -1,6 +1,8 @@
 ---
 Title: Gesetz gegen Wettbewerbsbeschränkungen
+jurabk: GWB
 layout: default
+origslug: gwb
 slug: gwb
 
 ---

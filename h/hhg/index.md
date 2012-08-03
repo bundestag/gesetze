@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen außerhalb
   der Bundesrepublik Deutschland in Gewahrsam genommen wurden
+jurabk: HHG
 layout: default
+origslug: hhg
 slug: hhg
 
 ---

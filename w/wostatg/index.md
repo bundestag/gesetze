@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über gebäude- und wohnungsstatistische Erhebungen
+jurabk: WoStatG
 layout: default
+origslug: wostatg
 slug: wostatg
 
 ---

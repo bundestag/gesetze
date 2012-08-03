@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über eine Investitionszulage für Investitionen in der Eisen- und Stahlindustrie
+jurabk: StIndInvZulG
 layout: default
+origslug: stindinvzulg
 slug: stindinvzulg
 
 ---

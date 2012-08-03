@@ -4,7 +4,9 @@ Title: Gesetz zur Ausführung der Verordnung (EG) Nr. 1221/2009 des Europäische
   an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und
   zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission
   2001/681EG und 2006/193/EG
+jurabk: UAG
 layout: default
+origslug: uag
 slug: uag
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz über den Schutz der Truppen des Nordatlantikpaktes durch das Straf-
   und Ordnungswidrigkeitenrecht
+jurabk: StrÄndG 4
 layout: default
-slug: str_ndg_4
+origslug: str_ndg_4
+slug: straendg_4
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 21. März 1983 über die Überstellung verurteilter
   Personen
+jurabk: ÜvPÜbkG
 layout: default
-slug: _vp_bkg
+origslug: _vp_bkg
+slug: uevpuebkg
 
 ---
 

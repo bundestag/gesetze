@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Kreditwesen
+jurabk: KredWG
 layout: default
+origslug: kredwg
 slug: kredwg
 
 ---

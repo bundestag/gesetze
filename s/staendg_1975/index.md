@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung des Einkommensteuergesetzes und des Investitionszulagengesetzes
+jurabk: StÄndG 1975
 layout: default
-slug: st_ndg_1975
+origslug: st_ndg_1975
+slug: staendg_1975
 
 ---
 

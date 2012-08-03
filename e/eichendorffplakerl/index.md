@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Stiftung der Eichendorff-Plakette
+jurabk: EichendorffPlakErl
 layout: default
+origslug: eichendorffplakerl
 slug: eichendorffplakerl
 
 ---

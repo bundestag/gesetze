@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Gesetzes zur Wiedergutmachung nationalsozialistischen
   Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland
+jurabk: BWKAuslGÄndG
 layout: default
-slug: bwkauslg_ndg
+origslug: bwkauslg_ndg
+slug: bwkauslgaendg
 
 ---
 

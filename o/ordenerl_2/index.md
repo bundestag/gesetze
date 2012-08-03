@@ -1,7 +1,9 @@
 ---
 Title: Zweiter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und
   Ehrenzeichen
+jurabk: OrdenErl 2
 layout: default
+origslug: ordenerl_2
 slug: ordenerl_2
 
 ---

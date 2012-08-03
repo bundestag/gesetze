@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung
   und zur Änderung anderer Gesetze
+jurabk: HZvNG
 layout: default
+origslug: hzvng
 slug: hzvng
 
 ---

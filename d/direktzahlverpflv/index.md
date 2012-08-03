@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Grundsätze der Erhaltung landwirtschaftlicher Flächen in
   einem guten landwirtschaftlichen und ökologischen Zustand
+jurabk: DirektZahlVerpflV
 layout: default
+origslug: direktzahlverpflv
 slug: direktzahlverpflv
 
 ---

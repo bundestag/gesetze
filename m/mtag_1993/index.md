@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über technische Assistenten in der Medizin
+jurabk: MTAG 1993
 layout: default
+origslug: mtag_1993
 slug: mtag_1993
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft
+jurabk: SEBG
 layout: default
+origslug: sebg
 slug: sebg
 
 ---

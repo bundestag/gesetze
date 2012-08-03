@@ -1,6 +1,8 @@
 ---
 Title: Justizbeitreibungsordnung
+jurabk: JBeitrO
 layout: default
+origslug: jbeitro
 slug: jbeitro
 
 ---

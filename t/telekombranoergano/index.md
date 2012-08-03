@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Ergänzung der Anordnung über die Übertragung von Befugnissen
   auf dem Gebiete des Beamtenrechts im Geschäftsbereich der Deutschen Bundespost Telekom
+jurabk: TELEKOMBRAnOErgAnO
 layout: default
+origslug: telekombranoergano
 slug: telekombranoergano
 
 ---

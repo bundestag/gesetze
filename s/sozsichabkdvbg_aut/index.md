@@ -1,7 +1,9 @@
 ---
 Title: Vereinbarung zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland
   und der Republik Österreich über Soziale Sicherheit
+jurabk: SozSichAbkDVbg AUT
 layout: default
+origslug: sozsichabkdvbg_aut
 slug: sozsichabkdvbg_aut
 
 ---

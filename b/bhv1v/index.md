@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus
   Typ 1
+jurabk: BHV1V
 layout: default
+origslug: bhv1v
 slug: bhv1v
 
 ---

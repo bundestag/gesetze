@@ -1,6 +1,8 @@
 ---
 Title: Fünftes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
+jurabk: KOVAnpG 5
 layout: default
+origslug: kovanpg_5
 slug: kovanpg_5
 
 ---

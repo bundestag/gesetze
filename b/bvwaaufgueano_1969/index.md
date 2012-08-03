@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
+jurabk: BVwAAufgÜAnO 1969
 layout: default
-slug: bvwaaufg_ano_1969
+origslug: bvwaaufg_ano_1969
+slug: bvwaaufgueano_1969
 
 ---
 

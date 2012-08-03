@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Protokoll vom 22. März 2000 zur Änderung des Übereinkommens vom
   9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen
   mit schweren Nutzfahrzeugen
+jurabk: StrBNÜbkÄndProtG
 layout: default
-slug: strbn_bk_ndprotg
+origslug: strbn_bk_ndprotg
+slug: strbnuebkaendprotg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Dritte Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
+jurabk: KrWaffKontrGDV 3
 layout: default
+origslug: krwaffkontrgdv_3
 slug: krwaffkontrgdv_3
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin
+jurabk: ÄndSchnAusbV
 layout: default
-slug: _ndschnausbv
+origslug: _ndschnausbv
+slug: aendschnausbv
 
 ---
 

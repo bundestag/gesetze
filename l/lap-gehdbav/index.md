@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen
   Dienst in der Bundesanstalt für Arbeit
+jurabk: LAP-gehDBAV
 layout: default
+origslug: lap-gehdbav
 slug: lap-gehdbav
 
 ---

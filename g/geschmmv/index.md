@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausführung des Geschmacksmustergesetzes
+jurabk: GeschmMV
 layout: default
+origslug: geschmmv
 slug: geschmmv
 
 ---

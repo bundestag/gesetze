@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Kraftfahrt-Bundesamts
+jurabk: KBAG
 layout: default
+origslug: kbag
 slug: kbag
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Staatsbank Berlin
+jurabk: SBkBG
 layout: default
+origslug: sbkbg
 slug: sbkbg
 
 ---

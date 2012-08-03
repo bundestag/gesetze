@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
+jurabk: BinSchAusbV
 layout: default
+origslug: binschausbv
 slug: binschausbv
 
 ---

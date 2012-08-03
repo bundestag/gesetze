@@ -1,7 +1,9 @@
 ---
 Title: Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes
+jurabk: HypBkGÄndG 5
 layout: default
-slug: hypbkg_ndg_5
+origslug: hypbkg_ndg_5
+slug: hypbkgaendg_5
 
 ---
 

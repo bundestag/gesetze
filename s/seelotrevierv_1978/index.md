@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Seelotswesen außerhalb der Reviere
+jurabk: SeelotRevierV 1978
 layout: default
+origslug: seelotrevierv_1978
 slug: seelotrevierv_1978
 
 ---

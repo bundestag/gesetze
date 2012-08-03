@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über die Bausparverhältnisse aus Anlaß der Neuordnung des Geldwesens
+jurabk: GeldWNOBauspAnO
 layout: default
+origslug: geldwnobauspano
 slug: geldwnobauspano
 
 ---

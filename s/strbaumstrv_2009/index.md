@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Straßenbauer-Handwerk
+jurabk: StrbauMstrV 2009
 layout: default
+origslug: strbaumstrv_2009
 slug: strbaumstrv_2009
 
 ---

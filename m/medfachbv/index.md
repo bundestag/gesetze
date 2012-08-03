@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Ausbildungsförderung für Medizinalfachberufe
+jurabk: MedFachbV
 layout: default
+origslug: medfachbv
 slug: medfachbv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahr 2003
+jurabk: RAV 2003
 layout: default
+origslug: rav_2003
 slug: rav_2003
 
 ---

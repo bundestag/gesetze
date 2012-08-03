@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherstellung des Seeverkehrs
+jurabk: SeeVerkSiV
 layout: default
+origslug: seeverksiv
 slug: seeverksiv
 
 ---

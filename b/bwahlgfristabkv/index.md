@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Abkürzung von Fristen im Bundeswahlgesetz für die Wahl
   zum 16. Deutschen Bundestag
+jurabk: BWahlGFristAbkV
 layout: default
+origslug: bwahlgfristabkv
 slug: bwahlgfristabkv
 
 ---

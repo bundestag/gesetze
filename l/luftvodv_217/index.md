@@ -2,7 +2,9 @@
 Title: Zweihundertsiebzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Hannover)
+jurabk: LuftVODV 217
 layout: default
+origslug: luftvodv_217
 slug: luftvodv_217
 
 ---

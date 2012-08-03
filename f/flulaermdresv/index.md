@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Dresden
+jurabk: FluLärmDresV
 layout: default
-slug: flul_rmdresv
+origslug: flul_rmdresv
+slug: flulaermdresv
 
 ---
 

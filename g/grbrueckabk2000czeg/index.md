@@ -3,8 +3,10 @@ Title: Gesetz zu dem Vertrag vom 12. September 2000 zwischen der Bundesrepublik 
   und der Tschechischen Republik über den Zusammenschluss der deutschen Autobahn A
   17 und der tschechischen Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung
   einer Grenzbrücke
+jurabk: GrBrückAbk2000CZEG
 layout: default
-slug: grbr_ckabk2000czeg
+origslug: grbr_ckabk2000czeg
+slug: grbrueckabk2000czeg
 
 ---
 

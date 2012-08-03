@@ -4,7 +4,9 @@ Title: Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vo
   zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und
   vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen
   auf steuerlichem Gebiete
+jurabk: GrenzgNLDAG
 layout: default
+origslug: grenzgnldag
 slug: grenzgnldag
 
 ---

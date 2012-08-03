@@ -1,6 +1,8 @@
 ---
 Title: Postgiroabkommen
+jurabk: PostgiroAbk
 layout: default
+origslug: postgiroabk
 slug: postgiroabk
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu den Verträgen vom 14. Dezember 1989 des Weltpostvereins
+jurabk: WPostVtr1989G
 layout: default
+origslug: wpostvtr1989g
 slug: wpostvtr1989g
 
 ---

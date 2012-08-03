@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Arbeiten mit Tierseuchenerregern
+jurabk: TierSeuchErV
 layout: default
+origslug: tierseucherv
 slug: tierseucherv
 
 ---

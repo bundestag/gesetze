@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über hygienische Anforderungen beim Halten von Schweinen
+jurabk: SchHaltHygV
 layout: default
+origslug: schhalthygv
 slug: schhalthygv
 
 ---

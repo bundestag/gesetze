@@ -2,7 +2,9 @@
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Kommission
   für den Studenten- und Dozentenaustausch zwischen der Bundesrepublik Deutschland
   und den Vereinigten Staaten von Amerika
+jurabk: StudAustKomRV
 layout: default
+origslug: studaustkomrv
 slug: studaustkomrv
 
 ---

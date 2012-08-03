@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fremdsprachenkorrespondent/Geprüfte
   Fremdsprachenkorrespondentin
+jurabk: FremdSprPrV
 layout: default
+origslug: fremdsprprv
 slug: fremdsprprv
 
 ---

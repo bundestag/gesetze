@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Genehmigung für Neuanpflanzungen von Rebflächen
+jurabk: RebflAnpflV 02/03
 layout: default
+origslug: rebflanpflv_02_03
 slug: rebflanpflv_02_03
 
 ---

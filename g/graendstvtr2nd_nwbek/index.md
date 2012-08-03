@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staatsvertrages
   zwischen dem Land Niedersachsen und dem Land Nordrhein-Westfalen über Änderungen
   der gemeinsamen Landesgrenze
+jurabk: GrÄndStVtr2ND/NWBek
 layout: default
-slug: gr_ndstvtr2nd_nwbek
+origslug: gr_ndstvtr2nd_nwbek
+slug: graendstvtr2nd_nwbek
 
 ---
 

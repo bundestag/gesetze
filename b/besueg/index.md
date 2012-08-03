@@ -1,7 +1,9 @@
 ---
 Title: Besoldungsüberleitungsgesetz
+jurabk: BesÜG
 layout: default
-slug: bes_g
+origslug: bes_g
+slug: besueg
 
 ---
 

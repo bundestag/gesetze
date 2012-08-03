@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bestimmung von privatfinanzierten Abschnitten von Bundesfernstraßen
+jurabk: FStrPrivFinBestV 2005
 layout: default
+origslug: fstrprivfinbestv_2005
 slug: fstrprivfinbestv_2005
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung über die Saldierung von Grundflächen im Wirtschaftsjahr 1999/2000
   im Rahmen der gemeinschaftsrechtlichen Stützungsregelung für Erzeuger bestimmter
   landwirtschaftlicher Kulturpflanzen
+jurabk: GrundflV 99/00
 layout: default
+origslug: grundflv_99_00
 slug: grundflv_99_00
 
 ---

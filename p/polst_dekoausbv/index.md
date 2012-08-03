@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Polster- und Dekorationsnäher/zur
   Polster- und Dekorationsnäherin
+jurabk: Polst/DekoAusbV
 layout: default
+origslug: polst_dekoausbv
 slug: polst_dekoausbv
 
 ---

@@ -3,7 +3,9 @@ Title: Hunderteinundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   von An- und Abflugverfahren für Flüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
   Bayreuth sowie von VFR/IFR-Wechselverfahren für Abflüge von der Startbahn 06 dieses
   Verkehrslandeplatzes)
+jurabk: LuftVODV 161
 layout: default
+origslug: luftvodv_161
 slug: luftvodv_161
 
 ---

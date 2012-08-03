@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in
   der gesetzlichen Krankenversicherung
+jurabk: KVKG
 layout: default
+origslug: kvkg
 slug: kvkg
 
 ---

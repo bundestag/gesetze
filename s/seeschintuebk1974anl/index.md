@@ -1,8 +1,10 @@
 ---
 Title: Anlage zum Internationalen Übereinkommen von 1974 zum Schutz des menschlichen
   Lebens auf See
+jurabk: SeeSchIntÜbk1974Anl
 layout: default
-slug: seeschint_bk1974anl
+origslug: seeschint_bk1974anl
+slug: seeschintuebk1974anl
 
 ---
 

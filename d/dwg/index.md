@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle"
+jurabk: DWG
 layout: default
+origslug: dwg
 slug: dwg
 
 ---

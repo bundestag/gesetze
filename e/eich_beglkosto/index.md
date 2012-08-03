@@ -1,6 +1,8 @@
 ---
 Title: Eichkostenverordnung
+jurabk: Eich/BeglKostO
 layout: default
+origslug: eich_beglkosto
 slug: eich_beglkosto
 
 ---

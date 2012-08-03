@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ermittlung der Beleihungswerte von Grundstücken nach §
   16 Abs. 1 und 2 des Pfandbriefgesetzes
+jurabk: BelWertV
 layout: default
+origslug: belwertv
 slug: belwertv
 
 ---

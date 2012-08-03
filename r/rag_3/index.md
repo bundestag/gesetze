@@ -1,7 +1,9 @@
 ---
 Title: Drittes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960
+jurabk: RAG 3
 layout: default
+origslug: rag_3
 slug: rag_3
 
 ---

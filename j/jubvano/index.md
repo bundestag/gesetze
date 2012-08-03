@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumszuwendungen
   an Beamte und Richter des Bundes
+jurabk: JubVAnO
 layout: default
+origslug: jubvano
 slug: jubvano
 
 ---

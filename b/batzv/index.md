@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes
+jurabk: BATZV
 layout: default
+origslug: batzv
 slug: batzv
 
 ---

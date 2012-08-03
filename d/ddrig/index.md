@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokratischen
   Republik einschließlich Berlin (Ost)
+jurabk: DDRIG
 layout: default
+origslug: ddrig
 slug: ddrig
 
 ---

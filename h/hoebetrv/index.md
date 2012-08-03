@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten
   von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes
+jurabk: HöBetrV
 layout: default
-slug: h_betrv
+origslug: h_betrv
+slug: hoebetrv
 
 ---
 

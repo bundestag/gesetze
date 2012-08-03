@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherstellung des Eisenbahnverkehrs
+jurabk: EVerkSiV
 layout: default
+origslug: everksiv
 slug: everksiv
 
 ---

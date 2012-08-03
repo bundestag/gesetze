@@ -2,7 +2,9 @@
 Fleischgesetz
 ---
 Title: ''
+jurabk: FlG
 layout: default
+origslug: flg
 slug: flg
 
 ---

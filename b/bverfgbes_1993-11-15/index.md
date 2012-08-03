@@ -1,7 +1,9 @@
 ---
 Title: Beschluß des Plenums des Bundesverfassungsgerichts vom 15. November 1993 gemäß
   § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht
+jurabk: BVerfGBes 1993-11-15
 layout: default
+origslug: bverfgbes_1993-11-15
 slug: bverfgbes_1993-11-15
 
 ---

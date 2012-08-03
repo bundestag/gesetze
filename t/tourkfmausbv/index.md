@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur
   Kauffrau für Tourismus und Freizeit
+jurabk: TourKfmAusbV
 layout: default
+origslug: tourkfmausbv
 slug: tourkfmausbv
 
 ---

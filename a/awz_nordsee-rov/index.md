@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone
   in der Nordsee
+jurabk: AWZ Nordsee-ROV
 layout: default
+origslug: awz_nordsee-rov
 slug: awz_nordsee-rov
 
 ---

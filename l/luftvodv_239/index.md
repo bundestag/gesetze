@@ -2,7 +2,9 @@
 Title: Zweihundertneununddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
   Flughafen Nürnberg)
+jurabk: LuftVODV 239
 layout: default
+origslug: luftvodv_239
 slug: luftvodv_239
 
 ---

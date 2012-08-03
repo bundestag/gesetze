@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Industrieelektriker/zur
 Industrieelektrikerin
 ---
 Title: ''
+jurabk: IndElekAusbV
 layout: default
+origslug: indelekausbv
 slug: indelekausbv
 
 ---

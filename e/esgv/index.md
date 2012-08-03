@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bemessung von Einstiegsgeld
+jurabk: ESGV
 layout: default
+origslug: esgv
 slug: esgv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker
+jurabk: MORVAufhV
 layout: default
+origslug: morvaufhv
 slug: morvaufhv
 
 ---

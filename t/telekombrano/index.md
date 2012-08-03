@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts
   im Geschäftsbereich der Deutschen Bundespost TELEKOM
+jurabk: TELEKOMBRAnO
 layout: default
+origslug: telekombrano
 slug: telekombrano
 
 ---

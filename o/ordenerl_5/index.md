@@ -1,7 +1,9 @@
 ---
 Title: Fünfter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und
   Ehrenzeichen
+jurabk: OrdenErl 5
 layout: default
+origslug: ordenerl_5
 slug: ordenerl_5
 
 ---

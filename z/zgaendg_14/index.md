@@ -1,7 +1,9 @@
 ---
 Title: Vierzehntes Gesetz zur Änderung des Zollgesetzes
+jurabk: ZGÄndG 14
 layout: default
-slug: zg_ndg_14
+origslug: zg_ndg_14
+slug: zgaendg_14
 
 ---
 

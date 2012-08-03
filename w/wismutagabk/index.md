@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   der Union der Sozialistischen Sowjetrepubliken über die Beendigung der Tätigkeit
   der Sowjetisch-Deutschen Aktiengesellschaft Wismut
+jurabk: WismutAGAbk
 layout: default
+origslug: wismutagabk
 slug: wismutagabk
 
 ---

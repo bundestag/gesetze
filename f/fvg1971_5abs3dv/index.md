@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung von § 5 Abs. 3 des Finanzverwaltungsgesetzes
+jurabk: FVG1971§5Abs3DV
 layout: default
+origslug: fvg1971_5abs3dv
 slug: fvg1971_5abs3dv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einreichung von Monatsausweisen nach dem Zahlungsdiensteaufsichtsgesetz
+jurabk: ZAGMonAwV
 layout: default
+origslug: zagmonawv
 slug: zagmonawv
 
 ---

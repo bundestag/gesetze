@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur
   Fachangestellten für Bürokommunikation
+jurabk: BKFAngAusbV
 layout: default
+origslug: bkfangausbv
 slug: bkfangausbv
 
 ---

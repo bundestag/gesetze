@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die freiwillige Kastration und andere Behandlungsmethoden
+jurabk: KastrG
 layout: default
+origslug: kastrg
 slug: kastrg
 
 ---

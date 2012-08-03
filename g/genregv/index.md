@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Genossenschaftsregister
+jurabk: GenRegV
 layout: default
+origslug: genregv
 slug: genregv
 
 ---

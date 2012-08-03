@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Ernennung und Entlassung der Beamten der Unfallkasse Post und
   Telekom
+jurabk: PUKErnAnO
 layout: default
+origslug: pukernano
 slug: pukernano
 
 ---

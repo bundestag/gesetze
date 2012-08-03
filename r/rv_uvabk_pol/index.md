@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen
   über Renten- und Unfallversicherung
+jurabk: RV/UVAbk POL
 layout: default
+origslug: rv_uvabk_pol
 slug: rv_uvabk_pol
 
 ---

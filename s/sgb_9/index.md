@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) Neuntes Buch (IX) - Rehabilitation und Teilhabe behinderter
   Menschen - (Artikel 1 des Gesetzes v. 19.6.2001, BGBl. I S. 1046)
+jurabk: SGB 9
 layout: default
+origslug: sgb_9
 slug: sgb_9
 
 ---

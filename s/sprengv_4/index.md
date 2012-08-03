@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung zum Sprengstoffgesetz
+jurabk: SprengV 4
 layout: default
+origslug: sprengv_4
 slug: sprengv_4
 
 ---

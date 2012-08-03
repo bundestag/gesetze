@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Zeitpunkt der Beendigung der Aufbewahrungsfrist für  Unterlagen
   über die Wertpapierbereinigung
+jurabk: WPapBerBeendV
 layout: default
+origslug: wpapberbeendv
 slug: wpapberbeendv
 
 ---

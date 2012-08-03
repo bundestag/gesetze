@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Italienischen Republik
   über den Verzicht auf die Legalisation von Urkunden
+jurabk: UrkBefrVtr ITA
 layout: default
+origslug: urkbefrvtr_ita
 slug: urkbefrvtr_ita
 
 ---

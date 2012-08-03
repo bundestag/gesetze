@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der
   Deutschen Post AG
+jurabk: DeutschePostAGDiszAnO 2001
 layout: default
+origslug: deutschepostagdiszano_2001
 slug: deutschepostagdiszano_2001
 
 ---

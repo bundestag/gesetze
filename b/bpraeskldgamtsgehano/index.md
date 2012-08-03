@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der Amtsgehilfen
+jurabk: BPräsKldgAmtsgehAnO
 layout: default
-slug: bpr_skldgamtsgehano
+origslug: bpr_skldgamtsgehano
+slug: bpraeskldgamtsgehano
 
 ---
 

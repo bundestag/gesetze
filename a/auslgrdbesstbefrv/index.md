@@ -2,7 +2,9 @@
 Title: Verordnung über die Gewährung von Steuerbefreiungen für Grundbesitz ausländischer
   Staaten, der für Wohnzwecke des Personals diplomatischer Missionen und konsularischer
   Vertretungen benutzt wird
+jurabk: AuslGrdBesStBefrV
 layout: default
+origslug: auslgrdbesstbefrv
 slug: auslgrdbesstbefrv
 
 ---

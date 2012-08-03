@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Umzugskostenvergütung bei Auslandsumzügen
+jurabk: AUV 1991
 layout: default
+origslug: auv_1991
 slug: auv_1991
 
 ---

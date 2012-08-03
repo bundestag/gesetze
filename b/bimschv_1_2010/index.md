@@ -2,7 +2,9 @@
 Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 ---
 Title: ''
+jurabk: BImSchV 1 2010
 layout: default
+origslug: bimschv_1_2010
 slug: bimschv_1_2010
 
 ---

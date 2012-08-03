@@ -1,6 +1,8 @@
 ---
 Title: Umwelthaftungsgesetz
+jurabk: UmweltHG
 layout: default
+origslug: umwelthg
 slug: umwelthg
 
 ---

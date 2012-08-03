@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung
   des Vereinigten Wirtschaftsgebietes
+jurabk: WiVwAuflV
 layout: default
+origslug: wivwauflv
 slug: wivwauflv
 
 ---

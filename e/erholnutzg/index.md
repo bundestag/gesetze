@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bereinigung der im Beitrittsgebiet zu Erholungszwecken verliehenen
   Nutzungsrechte
+jurabk: ErholNutzG
 layout: default
+origslug: erholnutzg
 slug: erholnutzg
 
 ---

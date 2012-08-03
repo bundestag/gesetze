@@ -3,7 +3,9 @@ Title: Verordnung nach § 104g Abs. 2 des Versicherungsaufsichtsgesetzes über d
   der bereinigten Solvabilität von Erst- und Rückversicherungsunternehmen in einer
   Erst- oder Rückversicherungsgruppe, die gemäß § 104a Abs. 1 Nr. 1 oder 2 des Versicherungsaufsichtsgesetzes
   einer zusätzlichen Beaufsichtigung unterliegen
+jurabk: SolBerV
 layout: default
+origslug: solberv
 slug: solberv
 
 ---

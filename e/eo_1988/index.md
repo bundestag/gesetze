@@ -1,6 +1,8 @@
 ---
 Title: Eichordnung
+jurabk: EO 1988
 layout: default
+origslug: eo_1988
 slug: eo_1988
 
 ---

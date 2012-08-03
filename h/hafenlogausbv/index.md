@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Hafenlogistik
+jurabk: HafenlogAusbV
 layout: default
+origslug: hafenlogausbv
 slug: hafenlogausbv
 
 ---

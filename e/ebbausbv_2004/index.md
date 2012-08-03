@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur
   Eisenbahnerin im Betriebsdienst
+jurabk: EBBAusbV 2004
 layout: default
+origslug: ebbausbv_2004
 slug: ebbausbv_2004
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen
   Demokratischen Republik
+jurabk: StUG
 layout: default
+origslug: stug
 slug: stug
 
 ---

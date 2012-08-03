@@ -1,7 +1,9 @@
 ---
 Title: Bestimmungen über die Beförderung von Reisenden und ihrem Gepäck auf See (Anlage
   zu § 664 des Handelsgesetzbuchs)
+jurabk: HGBAnl
 layout: default
+origslug: hgbanl
 slug: hgbanl
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
   1999
+jurabk: BBVAnpG 99
 layout: default
+origslug: bbvanpg_99
 slug: bbvanpg_99
 
 ---

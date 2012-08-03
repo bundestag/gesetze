@@ -1,6 +1,8 @@
 ---
 Title: Gesetz, betreffend die Unzulässigkeit der Pfändung von Eisenbahnfahrbetriebsmitteln
+jurabk: EBPfSchG
 layout: default
+origslug: ebpfschg
 slug: ebpfschg
 
 ---

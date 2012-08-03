@@ -1,7 +1,9 @@
 Nationale Sonderbestimmungen
 ---
 Title: (Anhang X zur Binnenschiffsuntersuchungsordnung)
+jurabk: BinSchUO2008Anh X
 layout: default
+origslug: binschuo2008anh_x
 slug: binschuo2008anh_x
 
 ---

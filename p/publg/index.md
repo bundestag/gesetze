@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen
+jurabk: PublG
 layout: default
+origslug: publg
 slug: publg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken-
   und Geschmacksmusteranmeldungen befugten Patentinformationszentren
+jurabk: PatInfoZBek 2009
 layout: default
+origslug: patinfozbek_2009
 slug: patinfozbek_2009
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 25. Juni 1993 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt
+jurabk: BinSchAbkGEORG
 layout: default
+origslug: binschabkgeorg
 slug: binschabkgeorg
 
 ---

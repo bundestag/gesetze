@@ -1,6 +1,8 @@
 ---
 Title: Insolvenzordnung
+jurabk: InsO
 layout: default
+origslug: inso
 slug: inso
 
 ---

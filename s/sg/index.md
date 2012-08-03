@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Rechtsstellung der Soldaten
+jurabk: SG
 layout: default
+origslug: sg
 slug: sg
 
 ---

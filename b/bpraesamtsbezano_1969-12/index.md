@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+jurabk: BPräsAmtsbezAnO 1969-12
 layout: default
-slug: bpr_samtsbezano_1969-12
+origslug: bpr_samtsbezano_1969-12
+slug: bpraesamtsbezano_1969-12
 
 ---
 

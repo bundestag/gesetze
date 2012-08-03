@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Berufe in der Krankenpflege
+jurabk: KrPflG 2004
 layout: default
+origslug: krpflg_2004
 slug: krpflg_2004
 
 ---

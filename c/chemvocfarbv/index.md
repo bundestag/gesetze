@@ -2,7 +2,9 @@
 Title: Chemikalienrechtliche Verordnung zur Begrenzung der Emissionen flüchtiger organischer
   Verbindungen (VOC) durch Beschränkung des Inverkehrbringens lösemittelhaltiger Farben
   und Lacke
+jurabk: ChemVOCFarbV
 layout: default
+origslug: chemvocfarbv
 slug: chemvocfarbv
 
 ---

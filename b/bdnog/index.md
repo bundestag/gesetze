@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Bundesdisziplinarrechts
+jurabk: BDNOG
 layout: default
+origslug: bdnog
 slug: bdnog
 
 ---

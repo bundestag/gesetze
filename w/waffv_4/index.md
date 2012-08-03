@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung zum Waffengesetz
+jurabk: WaffV 4
 layout: default
+origslug: waffv_4
 slug: waffv_4
 
 ---

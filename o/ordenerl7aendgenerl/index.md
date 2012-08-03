@@ -1,8 +1,10 @@
 ---
 Title: Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung der
   Einsatzmedaille der Bundeswehr
+jurabk: OrdenErl7ÄndGenErl
 layout: default
-slug: ordenerl7_ndgenerl
+origslug: ordenerl7_ndgenerl
+slug: ordenerl7aendgenerl
 
 ---
 

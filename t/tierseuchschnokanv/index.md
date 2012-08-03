@@ -2,7 +2,9 @@
 Title: Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen
   von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein
   können, durch den Nord-Ostsee-Kanal
+jurabk: TierSeuchSchNOKanV
 layout: default
+origslug: tierseuchschnokanv
 slug: tierseuchschnokanv
 
 ---

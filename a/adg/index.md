@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
+jurabk: AdG
 layout: default
+origslug: adg
 slug: adg
 
 ---

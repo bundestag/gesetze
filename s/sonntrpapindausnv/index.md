@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an
   Sonn- und Feiertagen in der Papierindustrie
+jurabk: SonntRPapIndAusnV
 layout: default
+origslug: sonntrpapindausnv
 slug: sonntrpapindausnv
 
 ---

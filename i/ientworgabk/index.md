@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über die Internationale Entwicklungsorganisation
+jurabk: IEntwOrgAbk
 layout: default
+origslug: ientworgabk
 slug: ientworgabk
 
 ---

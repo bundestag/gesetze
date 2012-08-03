@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Pflichtversicherung für Kraftfahrzeughalter
+jurabk: PflVG
 layout: default
+origslug: pflvg
 slug: pflvg
 
 ---

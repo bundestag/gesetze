@@ -1,6 +1,8 @@
 ---
 Title: Schiffssicherheitsverordnung
+jurabk: SchSV 1998
 layout: default
+origslug: schsv_1998
 slug: schsv_1998
 
 ---

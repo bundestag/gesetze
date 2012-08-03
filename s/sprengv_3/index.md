@@ -1,6 +1,8 @@
 ---
 Title: Dritte Verordnung zum Sprengstoffgesetz
+jurabk: SprengV 3
 layout: default
+origslug: sprengv_3
 slug: sprengv_3
 
 ---

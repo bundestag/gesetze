@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   Teil und im fachtheoretischen Teil der Meisterprüfung für das Kupferschmiede-Handwerk
+jurabk: KuSchmiedHwV
 layout: default
+origslug: kuschmiedhwv
 slug: kuschmiedhwv
 
 ---

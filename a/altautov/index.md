@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Überlassung, Rücknahme und umweltverträgliche Entsorgung
   von Altfahrzeugen
+jurabk: AltautoV
 layout: default
+origslug: altautov
 slug: altautov
 
 ---

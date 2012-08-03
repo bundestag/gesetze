@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Gleichstellung mit Zusatzversorgungssystemen des Beitrittsgebiets
+jurabk: ZVsG
 layout: default
+origslug: zvsg
 slug: zvsg
 
 ---

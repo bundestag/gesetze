@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Landwirt/zur Landwirtin
+jurabk: LwAusbV 1995
 layout: default
+origslug: lwausbv_1995
 slug: lwausbv_1995
 
 ---

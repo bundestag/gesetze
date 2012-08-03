@@ -3,7 +3,9 @@ Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein Gemeinschaftszeugnis
 beantragen
 ---
 Title: (Anhang XII zur Binnenschiffsuntersuchungsordnung)
+jurabk: BinSchUO2008Anh XII
 layout: default
+origslug: binschuo2008anh_xii
 slug: binschuo2008anh_xii
 
 ---

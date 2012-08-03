@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung und Befähigung zum Führen von Sportbooten auf den
   Seeschiffahrtstraßen
+jurabk: SportBootFSV
 layout: default
+origslug: sportbootfsv
 slug: sportbootfsv
 
 ---

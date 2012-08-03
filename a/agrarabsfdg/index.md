@@ -2,7 +2,9 @@
 Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
   Europäischen Union über gemeinschaftliche Informations- und Absatzförderungsmaßnahmen
   für Agrarerzeugnisse
+jurabk: AgrarAbsFDG
 layout: default
+origslug: agrarabsfdg
 slug: agrarabsfdg
 
 ---

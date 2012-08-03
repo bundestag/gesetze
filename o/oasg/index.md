@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherung der zivilrechtlichen Ansprüche der Opfer von Straftaten
+jurabk: OASG
 layout: default
+origslug: oasg
 slug: oasg
 
 ---

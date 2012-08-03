@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung zur Änderung der Grenze des Freihafens Deggendorf
+jurabk: FrHfGrDEGV 2
 layout: default
+origslug: frhfgrdegv_2
 slug: frhfgrdegv_2
 
 ---

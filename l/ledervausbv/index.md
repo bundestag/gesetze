@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zur Fachkraft für
 Lederverarbeitung
 ---
 Title: ''
+jurabk: LederVAusbV
 layout: default
+origslug: ledervausbv
 slug: ledervausbv
 
 ---

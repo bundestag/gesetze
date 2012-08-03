@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Versicherungsvertragsgesetz
+jurabk: VVGEG
 layout: default
+origslug: vvgeg
 slug: vvgeg
 
 ---

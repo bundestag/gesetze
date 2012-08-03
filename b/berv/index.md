@@ -1,7 +1,9 @@
 ---
 Title: Verordnung für ein Register über Einrichtungen, die Blutstammzellzubereitungen
   herstellen und in den Verkehr bringen oder einführen
+jurabk: BERV
 layout: default
+origslug: berv
 slug: berv
 
 ---

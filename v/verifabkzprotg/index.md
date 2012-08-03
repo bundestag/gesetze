@@ -4,7 +4,9 @@ Title: Gesetz zu dem Zusatzprotokoll vom 22. September 1998 zu dem Übereinkomme
   Atomgemeinschaft, der Europäischen Atomgemeinschaft und der Internationalen Atomenergie-Organisation
   in Ausführung von Artikel III Absätze 1 und 4 des Vertrages über die Nichtverbreitung
   von Kernwaffen
+jurabk: VerifAbkZProtG
 layout: default
+origslug: verifabkzprotg
 slug: verifabkzprotg
 
 ---

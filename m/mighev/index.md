@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Erhebung der Merkmale des Migrationshintergrundes
+jurabk: MighEV
 layout: default
+origslug: mighev
 slug: mighev
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben
+jurabk: TPG
 layout: default
+origslug: tpg
 slug: tpg
 
 ---

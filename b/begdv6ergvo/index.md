@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Änderung und Ergänzung der Sechsten Verordnung zur Durchführung
   des Bundesentschädigungsgesetzes
+jurabk: BEGDV6ErgVO
 layout: default
+origslug: begdv6ergvo
 slug: begdv6ergvo
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen
+jurabk: WasSkiV 1990
 layout: default
+origslug: wasskiv_1990
 slug: wasskiv_1990
 
 ---

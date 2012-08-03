@@ -1,7 +1,9 @@
 ---
 Title: Viertes Gesetz zur Änderung des Güterkraftverkehrsgesetzes
+jurabk: GüKGÄndG 4
 layout: default
-slug: g_kg_ndg_4
+origslug: g_kg_ndg_4
+slug: guekgaendg_4
 
 ---
 

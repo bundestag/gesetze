@@ -1,8 +1,10 @@
 ---
 Title: Dritte Verordnung zur Änderung der Verordnung über die Anerkennung von Systemen
   und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen
+jurabk: FRG§15VÄndV 3
 layout: default
-slug: frg_15v_ndv_3
+origslug: frg_15v_ndv_3
+slug: frg_15vaendv_3
 
 ---
 

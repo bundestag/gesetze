@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Dritten Abschnitt des Arbeitsplatzschutzgesetzes
+jurabk: ArbPlSchGAbschn3V
 layout: default
+origslug: arbplschgabschn3v
 slug: arbplschgabschn3v
 
 ---

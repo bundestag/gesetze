@@ -3,7 +3,9 @@ Title: Gesetz zu dem Abkommen vom 14. Juli 1992 zwischen der Bundesrepublik Deut
   und dem Königreich Schweden zur Vermeidung der Doppelbesteuerung bei den Steuern
   vom Einkommen und vom Vermögen sowie bei den Erbschaft- und Schenkungsteuern und
   zur Leistung gegenseitigen Beistands bei den Steuern
+jurabk: StSWEAbkG
 layout: default
+origslug: stsweabkg
 slug: stsweabkg
 
 ---

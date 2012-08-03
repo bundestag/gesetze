@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
+jurabk: CSCG
 layout: default
+origslug: cscg
 slug: cscg
 
 ---

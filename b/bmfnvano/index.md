@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten
   im Geschäftsbereich des Bundesministers der Finanzen
+jurabk: BMFNVAnO
 layout: default
+origslug: bmfnvano
 slug: bmfnvano
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Tierwirtschaftsmeister
   und Tierwirtschaftsmeisterin
+jurabk: TierwMeistPrV
 layout: default
+origslug: tierwmeistprv
 slug: tierwmeistprv
 
 ---

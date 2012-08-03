@@ -3,7 +3,9 @@ Verordnung über die Meldung von Biozid-Produkten nach dem
 Chemikaliengesetz
 ---
 Title: ''
+jurabk: ChemBiozidMeldeV 2011
 layout: default
+origslug: chembiozidmeldev_2011
 slug: chembiozidmeldev_2011
 
 ---

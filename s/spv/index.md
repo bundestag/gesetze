@@ -1,6 +1,8 @@
 ---
 Title: Sonderungsplanverordnung
+jurabk: SPV
 layout: default
+origslug: spv
 slug: spv
 
 ---

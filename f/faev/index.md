@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Betrieb der Fähren auf Bundeswasserstraßen
+jurabk: FäV
 layout: default
-slug: f_v
+origslug: f_v
+slug: faev
 
 ---
 

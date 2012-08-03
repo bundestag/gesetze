@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Klavier- und Cembalobauer-Handwerk
+jurabk: KlaCbMstrV
 layout: default
+origslug: klacbmstrv
 slug: klacbmstrv
 
 ---

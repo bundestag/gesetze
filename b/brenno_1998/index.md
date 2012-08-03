@@ -1,6 +1,8 @@
 ---
 Title: Brennereiordnung (Anlage zur Branntweinmonopolverordnung)
+jurabk: BrennO 1998
 layout: default
+origslug: brenno_1998
 slug: brenno_1998
 
 ---

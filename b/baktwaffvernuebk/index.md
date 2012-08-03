@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer
   (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
+jurabk: BaktWaffVernÜbk
 layout: default
-slug: baktwaffvern_bk
+origslug: baktwaffvern_bk
+slug: baktwaffvernuebk
 
 ---
 

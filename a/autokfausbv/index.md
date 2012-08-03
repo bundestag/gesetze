@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Automobilkaufmann/zur Automobilkauffrau
+jurabk: AutoKfAusbV
 layout: default
+origslug: autokfausbv
 slug: autokfausbv
 
 ---

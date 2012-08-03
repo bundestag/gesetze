@@ -2,7 +2,9 @@
 Title: Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von
   Verordnungen und Abkommen der Europäischen Gemeinschaft auf dem Gebiet der Anerkennung
   und Vollstreckung in Zivil- und Handelssachen
+jurabk: AVAG 2001
 layout: default
+origslug: avag_2001
 slug: avag_2001
 
 ---

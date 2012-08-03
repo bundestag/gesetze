@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Figurenkeramformer/zur Figurenkeramformerin
+jurabk: FKeramAusbV
 layout: default
+origslug: fkeramausbv
 slug: fkeramausbv
 
 ---

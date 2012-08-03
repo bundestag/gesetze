@@ -1,6 +1,8 @@
 ---
 Title: Versicherungsteuer-Durchführungsverordnung
+jurabk: VersStGDB
 layout: default
+origslug: versstgdb
 slug: versstgdb
 
 ---

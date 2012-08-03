@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Abgabe von kaliumiodidhaltigen Arzneimitteln zur Iodblockade
   der Schilddrüse bei radiologischen Ereignissen
+jurabk: KIV
 layout: default
+origslug: kiv
 slug: kiv
 
 ---

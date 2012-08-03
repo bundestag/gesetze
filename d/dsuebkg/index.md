@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen bei
   der automatischen Verarbeitung personenbezogener Daten
+jurabk: DSÜbkG
 layout: default
-slug: ds_bkg
+origslug: ds_bkg
+slug: dsuebkg
 
 ---
 

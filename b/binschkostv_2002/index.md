@@ -1,7 +1,9 @@
 ---
 Title: Kostenverordnung der Wasser- und Schifffahrtsverwaltung auf dem Gebiet der
   Binnenschifffahrt
+jurabk: BinSchKostV 2002
 layout: default
+origslug: binschkostv_2002
 slug: binschkostv_2002
 
 ---

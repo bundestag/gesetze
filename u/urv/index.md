@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Unternehmensregister
+jurabk: URV
 layout: default
+origslug: urv
 slug: urv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verlängerung der Schutzfristen für das Urheberrecht an Lichtbildern
+jurabk: LiBiUrhFrVerlG
 layout: default
+origslug: libiurhfrverlg
 slug: libiurhfrverlg
 
 ---

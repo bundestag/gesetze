@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesentlichen
   Bedingungen
+jurabk: NachwG
 layout: default
+origslug: nachwg
 slug: nachwg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz der Teilnehmer am Fernunterricht
+jurabk: FernUSG
 layout: default
+origslug: fernusg
 slug: fernusg
 
 ---

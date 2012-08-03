@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zum Schutz der Hersteller von Tonträgern gegen die unerlaubte
   Vervielfältigung ihrer Tonträger
+jurabk: TonTrÜbk
 layout: default
-slug: tontr_bk
+origslug: tontr_bk
+slug: tontruebk
 
 ---
 

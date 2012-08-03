@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung des Bundesverwaltungsamtes
+jurabk: BVwAG
 layout: default
+origslug: bvwag
 slug: bvwag
 
 ---

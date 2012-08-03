@@ -2,7 +2,9 @@
 Title: Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung
   der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der
   Investitionshilfeabgabe
+jurabk: HBegleitG 1984
 layout: default
+origslug: hbegleitg_1984
 slug: hbegleitg_1984
 
 ---

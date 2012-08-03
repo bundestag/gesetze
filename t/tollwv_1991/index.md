@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Tollwut
+jurabk: TollwV 1991
 layout: default
+origslug: tollwv_1991
 slug: tollwv_1991
 
 ---

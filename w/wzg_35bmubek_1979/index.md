@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35BMUBek 1979
 layout: default
+origslug: wzg_35bmubek_1979
 slug: wzg_35bmubek_1979
 
 ---

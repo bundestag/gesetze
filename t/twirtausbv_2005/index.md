@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
+jurabk: TWirtAusbV 2005
 layout: default
+origslug: twirtausbv_2005
 slug: twirtausbv_2005
 
 ---

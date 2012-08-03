@@ -4,7 +4,9 @@ Title: Richtlinie 2006/51/EG der Kommission vom 6. Juni 2006 zur Änderung, zwec
   des Europäischen Parlaments und des Rates sowie der Anhänge IV und V der Richtlinie
   2005/78/EG hinsichtlich der Anforderungen an Überwachungssysteme emissionsmindernder
   Einrichtungen zum Einbau in Fahrzeuge und hinsichtlich der Ausnahmen für Gasmotoren
+jurabk: EGRL 51/2006
 layout: default
+origslug: egrl_51_2006
 slug: egrl_51_2006
 
 ---

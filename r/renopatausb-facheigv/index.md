@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten
   in Rechtsanwalt- und Patentanwaltschaft, Notariat und bei Rechtsbeiständen
+jurabk: ReNoPatAusb-FachEigV
 layout: default
+origslug: renopatausb-facheigv
 slug: renopatausb-facheigv
 
 ---

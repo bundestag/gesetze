@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte
+jurabk: BfAG
 layout: default
+origslug: bfag
 slug: bfag
 
 ---

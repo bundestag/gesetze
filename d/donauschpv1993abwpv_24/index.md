@@ -1,6 +1,8 @@
 ---
 Title: Vierundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung
+jurabk: DonauSchPV1993AbwPV 24
 layout: default
+origslug: donauschpv1993abwpv_24
 slug: donauschpv1993abwpv_24
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für die Zulassung von Meßgeräten zur Eichung
+jurabk: ZulKostV
 layout: default
+origslug: zulkostv
 slug: zulkostv
 
 ---

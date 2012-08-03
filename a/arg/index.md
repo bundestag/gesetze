@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen
+jurabk: ARG
 layout: default
+origslug: arg
 slug: arg
 
 ---

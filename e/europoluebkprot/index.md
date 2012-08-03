@@ -1,8 +1,10 @@
 ---
 Title: Protokoll aufgrund von Artikel 43 Absatz 1 des Übereinkommens über die  Errichtung
   eines Europäischen Polizeiamts (Europol-Übereinkommen) zur Änderung  dieses Übereinkommens
+jurabk: EuropolÜbkProt
 layout: default
-slug: europol_bkprot
+origslug: europol_bkprot
+slug: europoluebkprot
 
 ---
 

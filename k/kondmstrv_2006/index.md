@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Konditoren- Handwerk
+jurabk: KondMstrV 2006
 layout: default
+origslug: kondmstrv_2006
 slug: kondmstrv_2006
 
 ---

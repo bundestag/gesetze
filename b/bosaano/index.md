@@ -1,6 +1,8 @@
 ---
 Title: Verwaltungsanordnung über die Einrichtung des Bundesoberseeamts
+jurabk: BOSAAnO
 layout: default
+origslug: bosaano
 slug: bosaano
 
 ---

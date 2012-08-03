@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung nach Artikel 4 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes
   2000 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
+jurabk: BBVAnpG2000Art4uaBek
 layout: default
+origslug: bbvanpg2000art4uabek
 slug: bbvanpg2000art4uabek
 
 ---

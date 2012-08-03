@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung
   und in der Alterssicherung der Landwirte zum 1. Juli 2005
+jurabk: RWBestV 2005
 layout: default
+origslug: rwbestv_2005
 slug: rwbestv_2005
 
 ---

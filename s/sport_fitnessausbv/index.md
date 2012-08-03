@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur  Sport-
   und Fitnesskauffrau
+jurabk: Sport/FitnessAusbV
 layout: default
+origslug: sport_fitnessausbv
 slug: sport_fitnessausbv
 
 ---

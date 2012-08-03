@@ -1,7 +1,9 @@
 ---
 Title: Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß
   nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)
+jurabk: BTBRGGO
 layout: default
+origslug: btbrggo
 slug: btbrggo
 
 ---

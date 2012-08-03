@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten
   und Soldaten gegenüber Angehörigen der Niederlande
+jurabk: BeamtHaftNLDBek
 layout: default
+origslug: beamthaftnldbek
 slug: beamthaftnldbek
 
 ---

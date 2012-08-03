@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Voraussetzungen für die Stillegung von Flächen bei Bezug
   einer Rente aus der Alterssicherung der Landwirte oder einer Produktionsaufgaberente
+jurabk: FSV
 layout: default
+origslug: fsv
 slug: fsv
 
 ---

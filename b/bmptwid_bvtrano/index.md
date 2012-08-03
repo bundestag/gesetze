@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich
   des Bundesministers für Post und Telekommunikation
+jurabk: BMPTWid/BVtrAnO
 layout: default
+origslug: bmptwid_bvtrano
 slug: bmptwid_bvtrano
 
 ---

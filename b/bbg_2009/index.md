@@ -1,6 +1,8 @@
 ---
 Title: Bundesbeamtengesetz
+jurabk: BBG 2009
 layout: default
+origslug: bbg_2009
 slug: bbg_2009
 
 ---

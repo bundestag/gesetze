@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Weiterentwicklung des Kassenarztrechts
+jurabk: KVWG
 layout: default
+origslug: kvwg
 slug: kvwg
 
 ---

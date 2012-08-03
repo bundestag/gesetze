@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Qualität von Wasser für den menschlichen Gebrauch
+jurabk: TrinkwV 2001
 layout: default
+origslug: trinkwv_2001
 slug: trinkwv_2001
 
 ---

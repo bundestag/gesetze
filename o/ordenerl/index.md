@@ -1,7 +1,9 @@
 ---
 Title: Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen
   und über die Anerkennung als Ehrenzeichen
+jurabk: OrdenErl
 layout: default
+origslug: ordenerl
 slug: ordenerl
 
 ---

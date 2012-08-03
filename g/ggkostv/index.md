@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter
+jurabk: GGKostV
 layout: default
+origslug: ggkostv
 slug: ggkostv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Berufe in der Altenpflege
+jurabk: AltPflG
 layout: default
+origslug: altpflg
 slug: altpflg
 
 ---

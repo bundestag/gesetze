@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Virusdiarrhoe-Virus
+jurabk: BVDVV
 layout: default
+origslug: bvdvv
 slug: bvdvv
 
 ---

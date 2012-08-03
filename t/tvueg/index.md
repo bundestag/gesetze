@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Überführung der Testamentsverzeichnisse und der Hauptkartei beim
   Amtsgericht Schöneberg in Berlin in das Zentrale Testamentsregister der Bundesnotarkammer
+jurabk: TVÜG
 layout: default
-slug: tv_g
+origslug: tv_g
+slug: tvueg
 
 ---
 

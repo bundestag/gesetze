@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass der Bundeskanzlerin
+jurabk: BKOrgErl 2007
 layout: default
+origslug: bkorgerl_2007
 slug: bkorgerl_2007
 
 ---

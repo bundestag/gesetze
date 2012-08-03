@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über den internationalen Währungsfonds
+jurabk: IMFAbk
 layout: default
+origslug: imfabk
 slug: imfabk
 
 ---

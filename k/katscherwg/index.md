@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Erweiterung des Katastrophenschutzes
+jurabk: KatSchErwG
 layout: default
+origslug: katscherwg
 slug: katscherwg
 
 ---

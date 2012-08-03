@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin
   in Dienststellen des Bundes
+jurabk: GleibWV
 layout: default
+origslug: gleibwv
 slug: gleibwv
 
 ---

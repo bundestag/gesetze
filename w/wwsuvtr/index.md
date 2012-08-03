@@ -1,7 +1,9 @@
 ---
 Title: Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
   der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
+jurabk: WWSUVtr
 layout: default
+origslug: wwsuvtr
 slug: wwsuvtr
 
 ---

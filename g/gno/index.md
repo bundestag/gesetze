@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrechts des
   Bundes
+jurabk: GnO
 layout: default
+origslug: gno
 slug: gno
 
 ---

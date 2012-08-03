@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Schlichtungsverfahren nach § 16 der Handwerksordnung
+jurabk: HwO§16V
 layout: default
+origslug: hwo_16v
 slug: hwo_16v
 
 ---

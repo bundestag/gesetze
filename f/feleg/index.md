@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
+jurabk: FELEG
 layout: default
+origslug: feleg
 slug: feleg
 
 ---

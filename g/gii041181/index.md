@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu dem Internationalen Maasübereinkommen vom 3. Dezember 2002
+jurabk: GII041181
 layout: default
+origslug: gii041181
 slug: gii041181
 
 ---

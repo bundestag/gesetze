@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Amtstracht bei den Wehrdienstgerichten
+jurabk: BPräsWehrDGerKldgAnO
 layout: default
-slug: bpr_swehrdgerkldgano
+origslug: bpr_swehrdgerkldgano
+slug: bpraeswehrdgerkldgano
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes über die Sozialversicherung
+jurabk: SozVersGDV
 layout: default
+origslug: sozversgdv
 slug: sozversgdv
 
 ---

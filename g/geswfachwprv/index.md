@@ -2,7 +2,9 @@
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Fachwirt im Gesundheits- und Sozialwesen und Geprüfte Fachwirtin im Gesundheits-
   und Sozialwesen
+jurabk: GesWFachwPrV
 layout: default
+origslug: geswfachwprv
 slug: geswfachwprv
 
 ---

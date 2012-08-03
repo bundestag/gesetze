@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Vorrechte und Immunitäten der Europäischen Organisation
   für die Nutzung von meteorologischen Satelliten (EUMETSAT)
+jurabk: EUMETSATV
 layout: default
+origslug: eumetsatv
 slug: eumetsatv
 
 ---

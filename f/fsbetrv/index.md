@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Durchführung der Flugsicherung
+jurabk: FSBetrV
 layout: default
+origslug: fsbetrv
 slug: fsbetrv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Zuständigkeit der Bundesdisziplinarkammern für Beamte der
   Deutschen Bundesbahn im Grenzdienst
+jurabk: BDiGZustDBAnO
 layout: default
+origslug: bdigzustdbano
 slug: bdigzustdbano
 
 ---

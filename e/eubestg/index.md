@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Protokoll vom 27. September 1996 zum Übereinkommen über den Schutz
   der finanziellen Interessen der Europäischen Gemeinschaften
+jurabk: EUBestG
 layout: default
+origslug: eubestg
 slug: eubestg
 
 ---

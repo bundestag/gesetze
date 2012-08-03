@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof für
   Ruanda
+jurabk: RUAStrGHG
 layout: default
+origslug: ruastrghg
 slug: ruastrghg
 
 ---

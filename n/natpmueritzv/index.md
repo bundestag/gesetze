@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung des Nationalparkes "Müritz-Nationalpark"
+jurabk: NatPMüritzV
 layout: default
-slug: natpm_ritzv
+origslug: natpm_ritzv
+slug: natpmueritzv
 
 ---
 

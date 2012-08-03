@@ -1,6 +1,8 @@
 ---
 Title: Einfuhrumsatzsteuer-Befreiungsverordnung
+jurabk: EUStBV 1993
 layout: default
+origslug: eustbv_1993
 slug: eustbv_1993
 
 ---

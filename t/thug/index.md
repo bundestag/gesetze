@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Therapierung und Unterbringung psychisch gestörter Gewalttäter
+jurabk: ThUG
 layout: default
+origslug: thug
 slug: thug
 
 ---

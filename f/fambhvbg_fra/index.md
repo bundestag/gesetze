@@ -1,7 +1,9 @@
 ---
 Title: Vereinbarung zwischen der Bundesrepublik Deutschland und Frankreich über die
   Familienbeihilfen für Grenzgänger
+jurabk: FamBhVbg FRA
 layout: default
+origslug: fambhvbg_fra
 slug: fambhvbg_fra
 
 ---

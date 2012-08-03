@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder
   ohne Zulassung in Härtefällen
+jurabk: AMHV
 layout: default
+origslug: amhv
 slug: amhv
 
 ---

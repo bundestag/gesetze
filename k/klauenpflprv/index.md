@@ -2,7 +2,9 @@
 Title: Verordnung über die Prüfungen zu den anerkannten Fortbildungsabschlüssen Geprüfter
   Klauenpfleger und Geprüfte Klauenpflegerin sowie Fachagrarwirt Klauenpflege und
   Fachagrarwirtin Klauenpflege
+jurabk: KlauenPflPrV
 layout: default
+origslug: klauenpflprv
 slug: klauenpflprv
 
 ---

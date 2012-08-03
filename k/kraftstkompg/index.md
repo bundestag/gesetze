@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der finanziellen Kompensation zugunsten der Länder infolge
   der Übertragung der Ertragshoheit der Kraftfahrzeugsteuer auf den Bund
+jurabk: KraftStKompG
 layout: default
+origslug: kraftstkompg
 slug: kraftstkompg
 
 ---

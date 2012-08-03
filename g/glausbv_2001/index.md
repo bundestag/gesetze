@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Glaser/zur Glaserin
+jurabk: GlAusbV 2001
 layout: default
+origslug: glausbv_2001
 slug: glausbv_2001
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren für die Gewährung von Sondererstattungen bei
   der Ausfuhr von Rindfleisch nach Drittländern
+jurabk: RindFlSoErstV 1994
 layout: default
+origslug: rindflsoerstv_1994
 slug: rindflsoerstv_1994
 
 ---

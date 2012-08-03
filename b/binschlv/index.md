@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
+jurabk: BinSchLV
 layout: default
+origslug: binschlv
 slug: binschlv
 
 ---

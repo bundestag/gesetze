@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Reform des Betriebsverfassungsgesetzes
+jurabk: BetrVRG
 layout: default
+origslug: betrvrg
 slug: betrvrg
 
 ---

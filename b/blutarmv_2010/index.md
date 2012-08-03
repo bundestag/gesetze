@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer
+jurabk: BlutArmV 2010
 layout: default
+origslug: blutarmv_2010
 slug: blutarmv_2010
 
 ---

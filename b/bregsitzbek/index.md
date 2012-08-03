@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über die Sitzentscheidung der Bundesregierung
+jurabk: BRegSitzBek
 layout: default
+origslug: bregsitzbek
 slug: bregsitzbek
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Entschädigungen für Opfer des Nationalsozialismus im Beitrittsgebiet
+jurabk: NSOEBGG
 layout: default
+origslug: nsoebgg
 slug: nsoebgg
 
 ---

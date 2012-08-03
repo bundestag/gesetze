@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes über die Statistik des grenzüberschreitenden
   Warenverkehrs
+jurabk: AHStatDV
 layout: default
+origslug: ahstatdv
 slug: ahstatdv
 
 ---

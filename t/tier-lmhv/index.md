@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und
   Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs
+jurabk: Tier-LMHV
 layout: default
+origslug: tier-lmhv
 slug: tier-lmhv
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Nordholz
+jurabk: FluLärmNordholzV
 layout: default
-slug: flul_rmnordholzv
+origslug: flul_rmnordholzv
+slug: flulaermnordholzv
 
 ---
 

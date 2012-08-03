@@ -1,7 +1,9 @@
 ---
 Title: Erstes Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund
+jurabk: ÜblG 1
 layout: default
-slug: _blg_1
+origslug: _blg_1
+slug: ueblg_1
 
 ---
 

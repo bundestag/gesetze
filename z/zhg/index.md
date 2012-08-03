@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Ausübung der Zahnheilkunde
+jurabk: ZHG
 layout: default
+origslug: zhg
 slug: zhg
 
 ---

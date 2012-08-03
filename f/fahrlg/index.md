@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Fahrlehrerwesen
+jurabk: FahrlG
 layout: default
+origslug: fahrlg
 slug: fahrlg
 
 ---

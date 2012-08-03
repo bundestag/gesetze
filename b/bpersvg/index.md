@@ -1,6 +1,8 @@
 ---
 Title: Bundespersonalvertretungsgesetz
+jurabk: BPersVG
 layout: default
+origslug: bpersvg
 slug: bpersvg
 
 ---

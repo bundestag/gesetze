@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Internationalen Kaffee-Übereinkommen von 1983 und zur Verlängerung
   des Internationalen Kaffee-Übereinkommens von 1976
+jurabk: KaffeeÜbk1983G
 layout: default
-slug: kaffee_bk1983g
+origslug: kaffee_bk1983g
+slug: kaffeeuebk1983g
 
 ---
 

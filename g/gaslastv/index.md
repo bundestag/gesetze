@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Sicherstellung der Gasversorgung
+jurabk: GasLastV
 layout: default
+origslug: gaslastv
 slug: gaslastv
 
 ---

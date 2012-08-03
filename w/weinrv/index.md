@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchsetzung des gemeinschaftlichen Weinrechts
+jurabk: WeinRV
 layout: default
+origslug: weinrv
 slug: weinrv
 
 ---

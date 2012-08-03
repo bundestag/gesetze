@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Inverkehrbringen von Saatgut von Erhaltungsmischungen
+jurabk: ErMiV
 layout: default
+origslug: ermiv
 slug: ermiv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Steuerbegünstigung von Stiftungen, die an die Stelle von
   Familienfideikommissen getreten sind
+jurabk: StiftKStBegV
 layout: default
+origslug: stiftkstbegv
 slug: stiftkstbegv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über die internationale Anerkennung von Rechten an Luftfahrzeugen
+jurabk: LuftFzgAbk
 layout: default
+origslug: luftfzgabk
 slug: luftfzgabk
 
 ---

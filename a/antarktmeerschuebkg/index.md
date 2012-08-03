@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden
   Meeresschätze der Antarktis
+jurabk: AntarktMeerSchÜbkG
 layout: default
-slug: antarktmeersch_bkg
+origslug: antarktmeersch_bkg
+slug: antarktmeerschuebkg
 
 ---
 

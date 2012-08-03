@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Durchführung der Flughafenkoordinierung
+jurabk: FPKV
 layout: default
+origslug: fpkv
 slug: fpkv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung in der keramischen Industrie
+jurabk: KerIndAusbV
 layout: default
+origslug: kerindausbv
 slug: kerindausbv
 
 ---

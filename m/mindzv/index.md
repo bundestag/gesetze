@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Mindestbeitragsrückerstattung in der Lebensversicherung
+jurabk: MindZV
 layout: default
+origslug: mindzv
 slug: mindzv
 
 ---

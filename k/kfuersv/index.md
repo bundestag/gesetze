@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Kriegsopferfürsorge
+jurabk: KFürsV
 layout: default
-slug: kf_rsv
+origslug: kf_rsv
+slug: kfuersv
 
 ---
 

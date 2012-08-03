@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Rechtsdienstleistungsgesetz
+jurabk: RDV
 layout: default
+origslug: rdv
 slug: rdv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Kaffeesteuergesetz
+jurabk: KaffeeStG 2009
 layout: default
+origslug: kaffeestg_2009
 slug: kaffeestg_2009
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 40 Jahre Bundesrepublik Deutschland)
+jurabk: Münz10DMBek 1989
 layout: default
-slug: m_nz10dmbek_1989
+origslug: m_nz10dmbek_1989
+slug: muenz10dmbek_1989
 
 ---
 

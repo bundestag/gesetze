@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Vergabe steuerlicher Identifikationsnummern
+jurabk: StIdV
 layout: default
+origslug: stidv
 slug: stidv
 
 ---

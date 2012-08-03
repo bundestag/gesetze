@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Europäische Abkommen vom 22. Juni 1960 zum Schutz von Fernsehsendungen
+jurabk: EuFernsAbkG
 layout: default
+origslug: eufernsabkg
 slug: eufernsabkg
 
 ---

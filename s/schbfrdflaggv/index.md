@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Besatzung von Schiffen unter fremder Flagge
+jurabk: SchBFrdFlaggV
 layout: default
+origslug: schbfrdflaggv
 slug: schbfrdflaggv
 
 ---

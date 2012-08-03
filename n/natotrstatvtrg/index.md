@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags vom 19.
   Juni 1951 über die Rechtsstellung ihrer Truppen und zu den Zusatzvereinbarungen
   vom 3. August 1959 zu diesem Abkommen
+jurabk: NATOTrStatVtrG
 layout: default
+origslug: natotrstatvtrg
 slug: natotrstatvtrg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Beiträge zur Entschädigungseinrichtung deutscher Banken
   GmbH
+jurabk: EntschBeitrV
 layout: default
+origslug: entschbeitrv
 slug: entschbeitrv
 
 ---

@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland
   und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20.
   April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
+jurabk: EuRHiISRÜbkErgVtrG
 layout: default
-slug: eurhiisr_bkergvtrg
+origslug: eurhiisr_bkergvtrg
+slug: eurhiisruebkergvtrg
 
 ---
 

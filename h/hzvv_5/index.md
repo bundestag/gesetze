@@ -1,7 +1,9 @@
 ---
 Title: Fünfte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen
   Zusatzversicherung
+jurabk: HZvV 5
 layout: default
+origslug: hzvv_5
 slug: hzvv_5
 
 ---

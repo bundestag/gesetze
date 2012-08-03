@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof für
   das ehemalige Jugoslawien
+jurabk: YUGStrGHG
 layout: default
+origslug: yugstrghg
 slug: yugstrghg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Protokoll über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten
   internationalen militärischen Hauptquartiere
+jurabk: NATOHQProt
 layout: default
+origslug: natohqprot
 slug: natohqprot
 
 ---

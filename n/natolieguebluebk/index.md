@@ -3,8 +3,10 @@ Title: Übereinkommen über die Überlassung von Liegenschaften an international
   Hauptquartiere der NATO in der Bundesrepublik Deutschland durch die Streitkräfte
   des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten
   von Amerika
+jurabk: NATOLiegÜblÜbk
 layout: default
-slug: natolieg_bl_bk
+origslug: natolieg_bl_bk
+slug: natolieguebluebk
 
 ---
 

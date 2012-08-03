@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Herkunftsgebiete für forstliches Vermehrungsgut
+jurabk: FSaatHerkV
 layout: default
+origslug: fsaatherkv
 slug: fsaatherkv
 
 ---

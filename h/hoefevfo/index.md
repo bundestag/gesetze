@@ -1,7 +1,9 @@
 ---
 Title: Verfahrensordnung für Höfesachen
+jurabk: HöfeVfO
 layout: default
-slug: h_fevfo
+origslug: h_fevfo
+slug: hoefevfo
 
 ---
 

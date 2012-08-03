@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutze der Auswanderer
+jurabk: AuswSG
 layout: default
+origslug: auswsg
 slug: auswsg
 
 ---

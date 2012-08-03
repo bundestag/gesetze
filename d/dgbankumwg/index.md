@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Umwandlung der Deutschen Genossenschaftsbank
+jurabk: DGBankUmwG
 layout: default
+origslug: dgbankumwg
 slug: dgbankumwg
 
 ---

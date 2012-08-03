@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Förderung der Verwendung von Steinkohle in Kraftwerken
+jurabk: VerstromG 1
 layout: default
+origslug: verstromg_1
 slug: verstromg_1
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen
   Mark
+jurabk: Münz2DMBek 1979
 layout: default
-slug: m_nz2dmbek_1979
+origslug: m_nz2dmbek_1979
+slug: muenz2dmbek_1979
 
 ---
 

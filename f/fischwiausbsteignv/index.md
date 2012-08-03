@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Fischwirt
+jurabk: FischWiAusbStEignV
 layout: default
+origslug: fischwiausbsteignv
 slug: fischwiausbsteignv
 
 ---

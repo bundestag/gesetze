@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die steuerliche Begünstigung von Wasserkraftwerken
+jurabk: WasKwV
 layout: default
+origslug: waskwv
 slug: waskwv
 
 ---

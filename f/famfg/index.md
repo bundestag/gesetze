@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der
   freiwilligen Gerichtsbarkeit
+jurabk: FamFG
 layout: default
+origslug: famfg
 slug: famfg
 
 ---

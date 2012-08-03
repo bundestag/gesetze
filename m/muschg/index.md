@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz der erwerbstätigen Mutter
+jurabk: MuSchG
 layout: default
+origslug: muschg
 slug: muschg
 
 ---

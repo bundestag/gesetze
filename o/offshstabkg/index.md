@@ -3,7 +3,9 @@ Title: Gesetz betreffend das Abkommen zwischen der Bundesrepublik Deutschland un
   den Vereinigten Staaten von Amerika vom 15. Oktober 1954 über die von der Bundesrepublik
   zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse
   der gemeinsamen Verteidigung geleisteten Ausgaben
+jurabk: OffshStAbkG
 layout: default
+origslug: offshstabkg
 slug: offshstabkg
 
 ---

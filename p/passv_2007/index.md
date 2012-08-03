@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Passgesetzes
+jurabk: PassV 2007
 layout: default
+origslug: passv_2007
 slug: passv_2007
 
 ---

@@ -6,7 +6,9 @@ Title: Gesetz zu den Protokollen vom 12. Februar 2004 zur Änderung des Überein
   Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem
   Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964 und
   des Protokolls vom 16. November 1982
+jurabk: AtHaftProtParis2004G
 layout: default
+origslug: athaftprotparis2004g
 slug: athaftprotparis2004g
 
 ---

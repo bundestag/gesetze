@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Ägypten
+jurabk: WZEGYBek
 layout: default
+origslug: wzegybek
 slug: wzegybek
 
 ---

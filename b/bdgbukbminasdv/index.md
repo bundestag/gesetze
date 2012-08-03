@@ -2,7 +2,9 @@
 Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren
   Körperschaften mit Dienstherrnfähigkeit im  Geschäftsbereich des Bundesministeriums
   für Arbeit und Soziales
+jurabk: BDGBuKBMinASDV
 layout: default
+origslug: bdgbukbminasdv
 slug: bdgbukbminasdv
 
 ---

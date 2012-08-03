@@ -2,7 +2,9 @@
 Title: Satzung der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
   (Anlage des Gesetzes über die Errichtung einer Bundesanstalt für Post und Telekommunikation
   Deutsche Bundespost)
+jurabk: BAPostSa
 layout: default
+origslug: bapostsa
 slug: bapostsa
 
 ---

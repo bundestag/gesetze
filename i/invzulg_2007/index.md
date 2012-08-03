@@ -1,6 +1,8 @@
 ---
 Title: Investitionszulagengesetz 2007
+jurabk: InvZulG 2007
 layout: default
+origslug: invzulg_2007
 slug: invzulg_2007
 
 ---

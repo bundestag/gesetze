@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen
   außerhalb des Rheins
+jurabk: RadarPatEVB
 layout: default
+origslug: radarpatevb
 slug: radarpatevb
 
 ---

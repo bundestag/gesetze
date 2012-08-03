@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 100 Jahre Dieselmotor)
+jurabk: Münz10DMBek 1997-07
 layout: default
-slug: m_nz10dmbek_1997-07
+origslug: m_nz10dmbek_1997-07
+slug: muenz10dmbek_1997-07
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der beamteten Patentinhaber auf Hilfsschiffen der Bundeswehr
+jurabk: BPräsKldgPatAnO
 layout: default
-slug: bpr_skldgpatano
+origslug: bpr_skldgpatano
+slug: bpraeskldgpatano
 
 ---
 

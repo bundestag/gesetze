@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Kosten in Angelegenheiten der freiwilligen Gerichtsbarkeit
+jurabk: KostO
 layout: default
+origslug: kosto
 slug: kosto
 
 ---

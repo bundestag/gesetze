@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Mitwirkung der Helfer und Helferinnen im Technischen Hilfswerk
+jurabk: THW-MitwV
 layout: default
+origslug: thw-mitwv
 slug: thw-mitwv
 
 ---

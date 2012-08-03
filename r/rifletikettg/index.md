@@ -3,7 +3,9 @@ Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft od
   Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen
   und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf
   Monate alten Rindern
+jurabk: RiFlEtikettG
 layout: default
+origslug: rifletikettg
 slug: rifletikettg
 
 ---

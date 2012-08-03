@@ -1,7 +1,9 @@
 ---
 Title: Vereinbarung zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland
   und Kanada über Soziale Sicherheit
+jurabk: SozSichAbk1985DVbg CAN
 layout: default
+origslug: sozsichabk1985dvbg_can
 slug: sozsichabk1985dvbg_can
 
 ---

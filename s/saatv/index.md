@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Verkehr mit Saatgut landwirtschaftlicher Arten und von
   Gemüsearten
+jurabk: SaatV
 layout: default
+origslug: saatv
 slug: saatv
 
 ---

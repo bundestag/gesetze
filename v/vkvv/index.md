@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf
   in der gesetzlichen Rentenversicherung
+jurabk: VKVV
 layout: default
+origslug: vkvv
 slug: vkvv
 
 ---

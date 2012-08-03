@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Beiträge zum Schutz einer störungsfreien Frequenznutzung
+jurabk: FSBeitrV
 layout: default
+origslug: fsbeitrv
 slug: fsbeitrv
 
 ---

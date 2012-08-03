@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs
   von Betäubungsmitteln
+jurabk: BtMVV 1998
 layout: default
+origslug: btmvv_1998
 slug: btmvv_1998
 
 ---

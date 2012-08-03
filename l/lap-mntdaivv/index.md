@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren nichttechnischen
   Dienst in der allgemeinen und inneren Verwaltung des Bundes
+jurabk: LAP-mntDAIVV
 layout: default
+origslug: lap-mntdaivv
 slug: lap-mntdaivv
 
 ---

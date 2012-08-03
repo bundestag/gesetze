@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zu dem Protokoll vom 13. Februar 1987 über die Vorrechte und Immunitäten
   der Europäischen Fernmeldesatellitenorganisation EUTELSAT
+jurabk: EUTELSATVorRProtV
 layout: default
+origslug: eutelsatvorrprotv
 slug: eutelsatvorrprotv
 
 ---

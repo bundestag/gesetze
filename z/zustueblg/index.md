@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Überleitung der Zuständigkeit der Obersten Rückerstattungsgerichte
   auf den Bundesgerichtshof (Artikel 9 d. Rechtspflege-Vereinfachungsgesetzes)
+jurabk: ZustÜblG
 layout: default
-slug: zust_blg
+origslug: zust_blg
+slug: zustueblg
 
 ---
 

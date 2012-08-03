@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bekämpfung des Westlichen Maiswurzelbohrers
+jurabk: MaiswBekV
 layout: default
+origslug: maiswbekv
 slug: maiswbekv
 
 ---

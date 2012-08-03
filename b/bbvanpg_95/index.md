@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
   1995
+jurabk: BBVAnpG 95
 layout: default
+origslug: bbvanpg_95
 slug: bbvanpg_95
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Prüfungsverfahren zur Anwendung von Antidumpingzollsätzen
   und Ausgleichszollsätzen
+jurabk: AusglZSV
 layout: default
+origslug: ausglzsv
 slug: ausglzsv
 
 ---

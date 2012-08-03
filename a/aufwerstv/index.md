@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erstattung von Aufwendungen für die gesetzliche Rentenversicherung
   der in Werkstätten beschäftigten Behinderten
+jurabk: AufwErstV
 layout: default
+origslug: aufwerstv
 slug: aufwerstv
 
 ---

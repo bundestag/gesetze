@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an Militärpersonal
   der internationalen militärischen Hauptquartiere in der Bundesrepublik Deutschland
+jurabk: IntMilPVorRV
 layout: default
+origslug: intmilpvorrv
 slug: intmilpvorrv
 
 ---

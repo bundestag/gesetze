@@ -1,6 +1,8 @@
 ---
 Title: Prisengerichtsordnung
+jurabk: PrisenGO
 layout: default
+origslug: prisengo
 slug: prisengo
 
 ---

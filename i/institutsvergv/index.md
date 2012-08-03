@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme
   von Instituten
+jurabk: InstitutsVergV
 layout: default
+origslug: institutsvergv
 slug: institutsvergv
 
 ---

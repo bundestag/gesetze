@@ -2,7 +2,9 @@
 Title: Hundertachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen
   Karlsruhe/Baden-Baden)
+jurabk: LuftVODV 180
 layout: default
+origslug: luftvodv_180
 slug: luftvodv_180
 
 ---

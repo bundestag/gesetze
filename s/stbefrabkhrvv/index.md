@@ -3,7 +3,9 @@ Title: Verordnung zu dem Abkommen vom 9. Dezember 1996 zwischen der Regierung de
   Bundesrepublik Deutschland und der Regierung der Republik Kroatien über die gegenseitige
   Befreiung von Steuern und Straßengebühren für Straßenfahrzeuge im internationalen
   Verkehr
+jurabk: StBefrAbkHRVV
 layout: default
+origslug: stbefrabkhrvv
 slug: stbefrabkhrvv
 
 ---

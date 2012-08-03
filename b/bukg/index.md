@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst
   und Soldaten
+jurabk: BUKG
 layout: default
+origslug: bukg
 slug: bukg
 
 ---

@@ -3,8 +3,10 @@ Title: Gesetz zur Änderung des Einkommensteuergesetzes, des Körperschaftsteuer
   des Gewerbesteuergesetzes, des Bewertungsgesetzes, des Vermögensteuergesetzes, des
   Steuersäumnisgesetzes, der Reichsabgabenordnung, des Steueranpassungsgesetzes, des
   Gesetzes zur Förderung der Wirtschaft von Berlin (West) und andere Gesetze
+jurabk: StÄndG 1961
 layout: default
-slug: st_ndg_1961
+origslug: st_ndg_1961
+slug: staendg_1961
 
 ---
 

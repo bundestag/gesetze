@@ -1,6 +1,8 @@
 ---
 Title: Saatgutaufzeichnungsverordnung
+jurabk: SaatAufzV
 layout: default
+origslug: saataufzv
 slug: saataufzv
 
 ---

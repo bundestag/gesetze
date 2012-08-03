@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen
   Robben
+jurabk: RobErhÜbkG
 layout: default
-slug: roberh_bkg
+origslug: roberh_bkg
+slug: roberhuebkg
 
 ---
 

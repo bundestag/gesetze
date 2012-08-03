@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuzahlung bei der Abgabe von Arznei- und Verbandmitteln
   in der vertragsärztlichen Versorgung
+jurabk: ZZV
 layout: default
+origslug: zzv
 slug: zzv
 
 ---

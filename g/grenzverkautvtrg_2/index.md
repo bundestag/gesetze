@@ -3,7 +3,9 @@ Title: Gesetz zu dem Vertrag vom 17. Februar 1966 zwischen der Bundesrepublik De
   und der Republik Österreich über den Durchgangsverkehr auf den Straßen an der Walchen
   Ache und am Pittenbach sowie zum Bächen- und Rißtal im deutschen und österreichischen
   Grenzgebiet
+jurabk: GrenzVerkAUTVtrG 2
 layout: default
+origslug: grenzverkautvtrg_2
 slug: grenzverkautvtrg_2
 
 ---

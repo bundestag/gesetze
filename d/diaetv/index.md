@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über diätetische Lebensmittel
+jurabk: DiätV
 layout: default
-slug: di_tv
+origslug: di_tv
+slug: diaetv
 
 ---
 

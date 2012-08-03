@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des § 30 Absatz 3 bis 12 und des § 40a Absatz 1
   und 5 des Bundesversorgungsgesetzes
+jurabk: BSchAV
 layout: default
+origslug: bschav
 slug: bschav
 
 ---

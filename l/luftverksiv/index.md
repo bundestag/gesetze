@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherstellung des Luftverkehrs
+jurabk: LuftVerkSiV
 layout: default
+origslug: luftverksiv
 slug: luftverksiv
 
 ---

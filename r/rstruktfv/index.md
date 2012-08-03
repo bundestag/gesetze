@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Erhebung der Beiträge zum Restrukturierungsfonds für Kreditinstitute
+jurabk: RStruktFV
 layout: default
+origslug: rstruktfv
 slug: rstruktfv
 
 ---

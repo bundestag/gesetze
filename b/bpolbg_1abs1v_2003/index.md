@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zu § 1 Abs. 1 des Bundespolizeibeamtengesetzes
+jurabk: BPolBG§1Abs1V 2003
 layout: default
+origslug: bpolbg_1abs1v_2003
 slug: bpolbg_1abs1v_2003
 
 ---

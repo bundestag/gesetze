@@ -1,6 +1,8 @@
 ---
 Title: Futtermittelverordnung
+jurabk: FuttMV 1981
 layout: default
+origslug: futtmv_1981
 slug: futtmv_1981
 
 ---

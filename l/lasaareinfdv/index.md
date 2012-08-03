@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung von Rechtsverordnungen zum Lastenausgleichsrecht
   im Saarland
+jurabk: LASaarEinfDV
 layout: default
+origslug: lasaareinfdv
 slug: lasaareinfdv
 
 ---

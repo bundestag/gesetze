@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Kraftfahrsachverständigengesetzes
+jurabk: KfSachvV
 layout: default
+origslug: kfsachvv
 slug: kfsachvv
 
 ---

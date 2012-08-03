@@ -2,7 +2,9 @@
 Title: Einheitliche Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung
   von Personen und Gepäck (CIV) (Anhang A zum Übereinkommen über den internationalen
   Eisenbahnverkehr (COTIF))
+jurabk: CIV 1980
 layout: default
+origslug: civ_1980
 slug: civ_1980
 
 ---

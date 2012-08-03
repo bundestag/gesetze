@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+jurabk: BEGDV 2
 layout: default
+origslug: begdv_2
 slug: begdv_2
 
 ---

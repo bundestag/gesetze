@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der zuständigen Behörde nach § 17b Absatz 4 des Arbeitnehmerüberlassungsgesetzes
+jurabk: AÜGMeldstellV
 layout: default
-slug: a_gmeldstellv
+origslug: a_gmeldstellv
+slug: auegmeldstellv
 
 ---
 

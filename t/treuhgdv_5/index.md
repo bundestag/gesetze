@@ -1,6 +1,8 @@
 ---
 Title: Fünfte Durchführungsverordnung zum Treuhandgesetz
+jurabk: TreuhGDV 5
 layout: default
+origslug: treuhgdv_5
 slug: treuhgdv_5
 
 ---

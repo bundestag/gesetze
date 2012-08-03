@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung der Renten im Jahre 2002
+jurabk: RAV 2002
 layout: default
+origslug: rav_2002
 slug: rav_2002
 
 ---

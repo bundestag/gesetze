@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag
+jurabk: PolBTLV
 layout: default
+origslug: polbtlv
 slug: polbtlv
 
 ---

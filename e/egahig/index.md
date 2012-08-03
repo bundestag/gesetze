@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Durchführung der EG-Richtlinie über die gegenseitige Amtshilfe im
   Bereich der direkten Steuern, bestimmter Verbrauchsteuern und der Steuern auf Versicherungsprämien
+jurabk: EGAHiG
 layout: default
+origslug: egahig
 slug: egahig
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über zwingende Arbeitsbedingungen für Sicherheitsleistungen
+jurabk: SicherheitArbbV
 layout: default
+origslug: sicherheitarbbv
 slug: sicherheitarbbv
 
 ---

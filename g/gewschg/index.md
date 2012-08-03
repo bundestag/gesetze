@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen
+jurabk: GewSchG
 layout: default
+origslug: gewschg
 slug: gewschg
 
 ---

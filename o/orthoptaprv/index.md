@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten
+jurabk: OrthoptAPrV
 layout: default
+origslug: orthoptaprv
 slug: orthoptaprv
 
 ---

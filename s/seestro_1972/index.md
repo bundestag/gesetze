@@ -2,7 +2,9 @@
 Title: Internationale Regeln von 1972 zur Verhütung von Zusammenstößen auf See (Anlage
   zu § 1 der Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen
   auf See)
+jurabk: SeeStrO 1972
 layout: default
+origslug: seestro_1972
 slug: seestro_1972
 
 ---

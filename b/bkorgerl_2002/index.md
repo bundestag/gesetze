@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass des Bundeskanzlers
+jurabk: BKOrgErl 2002
 layout: default
+origslug: bkorgerl_2002
 slug: bkorgerl_2002
 
 ---

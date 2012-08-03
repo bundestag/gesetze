@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz des Namens Solingen
+jurabk: SolingenV
 layout: default
+origslug: solingenv
 slug: solingenv
 
 ---

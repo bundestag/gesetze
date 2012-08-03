@@ -1,6 +1,8 @@
 ---
 Title: Allgemeines Magnetschwebebahngesetz
+jurabk: AMbG
 layout: default
+origslug: ambg
 slug: ambg
 
 ---

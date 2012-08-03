@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verbot der Verwendung bestimmter Stoffe zur Herstellung
   von Arzneimitteln
+jurabk: FrischZV
 layout: default
+origslug: frischzv
 slug: frischzv
 
 ---

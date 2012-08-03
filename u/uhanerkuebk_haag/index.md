@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen auf
   dem Gebiet der Unterhaltspflicht gegenüber Kindern
+jurabk: UhAnerkÜbk Haag
 layout: default
-slug: uhanerk_bk_haag
+origslug: uhanerk_bk_haag
+slug: uhanerkuebk_haag
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 30 Jahre Römische Verträge)
+jurabk: Münz10DMBek 1987-10
 layout: default
-slug: m_nz10dmbek_1987-10
+origslug: m_nz10dmbek_1987-10
+slug: muenz10dmbek_1987-10
 
 ---
 

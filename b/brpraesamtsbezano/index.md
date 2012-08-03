@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Präsidenten des Bundesrates über die Festsetzung einer Amtsbezeichnung
+jurabk: BRPräsAmtsbezAnO
 layout: default
-slug: brpr_samtsbezano
+origslug: brpr_samtsbezano
+slug: brpraesamtsbezano
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Veranstaltungsfachwirt/Geprüfte
   Veranstaltungsfachwirtin
+jurabk: VeranstFachwPrV
 layout: default
+origslug: veranstfachwprv
 slug: veranstfachwprv
 
 ---

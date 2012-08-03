@@ -2,7 +2,9 @@
 Title: Zweihundertzweiunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
   und vom Hubschrauberlandeplatz Donauwörth)
+jurabk: LuftVODV 232
 layout: default
+origslug: luftvodv_232
 slug: luftvodv_232
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an internationale
   Bedienstete der Nordatlantikvertrags-Organisation
+jurabk: NATOVorRV 1962
 layout: default
+origslug: natovorrv_1962
 slug: natovorrv_1962
 
 ---

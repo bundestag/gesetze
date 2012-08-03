@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen
   bei der Kreditanstalt für Wiederaufbau
+jurabk: KredAnstWiAWPHEV
 layout: default
+origslug: kredanstwiawphev
 slug: kredanstwiawphev
 
 ---

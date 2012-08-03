@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Vergütung für Soldaten mit besonderer zeitlicher Belastung
+jurabk: SzBelVergV
 layout: default
+origslug: szbelvergv
 slug: szbelvergv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die politischen Parteien
+jurabk: PartG
 layout: default
+origslug: partg
 slug: partg
 
 ---

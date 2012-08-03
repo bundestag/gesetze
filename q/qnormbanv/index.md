@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Qualitätsnormen für Bananen
+jurabk: QNormBanV
 layout: default
+origslug: qnormbanv
 slug: qnormbanv
 
 ---

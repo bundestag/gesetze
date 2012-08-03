@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Entgelte für voll- und teilstationäre Krankenhausleistungen
+jurabk: KHEntgG
 layout: default
+origslug: khentgg
 slug: khentgg
 
 ---

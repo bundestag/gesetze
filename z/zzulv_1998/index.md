@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zulassung von Zusatzstoffen zu Lebensmitteln zu technologischen
   Zwecken
+jurabk: ZZulV 1998
 layout: default
+origslug: zzulv_1998
 slug: zzulv_1998
 
 ---

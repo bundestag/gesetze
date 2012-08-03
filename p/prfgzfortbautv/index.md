@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen
   über anerkannte Fortbildungsabschlüsse
+jurabk: PrfgZFortbAUTV
 layout: default
+origslug: prfgzfortbautv
 slug: prfgzfortbautv
 
 ---

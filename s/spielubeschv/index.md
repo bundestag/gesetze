@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen
   für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung
+jurabk: SpielUBeschV
 layout: default
+origslug: spielubeschv
 slug: spielubeschv
 
 ---

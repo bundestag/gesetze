@@ -1,6 +1,8 @@
 ---
 Title: Schiffsregisterordnung
+jurabk: SchRegO
 layout: default
+origslug: schrego
 slug: schrego
 
 ---

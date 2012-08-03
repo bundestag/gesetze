@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 115 der Zivilprozessordnung
+jurabk: PKHB 2011
 layout: default
+origslug: pkhb_2011
 slug: pkhb_2011
 
 ---

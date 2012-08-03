@@ -1,6 +1,8 @@
 ---
 Title: Erbschaftsteuer- und Schenkungsteuergesetz
+jurabk: ErbStG 1974
 layout: default
+origslug: erbstg_1974
 slug: erbstg_1974
 
 ---

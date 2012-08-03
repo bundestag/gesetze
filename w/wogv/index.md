@@ -1,6 +1,8 @@
 ---
 Title: Wohngeldverordnung
+jurabk: WoGV
 layout: default
+origslug: wogv
 slug: wogv
 
 ---

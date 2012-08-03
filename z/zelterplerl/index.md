@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Stiftung der Zelter-Plakette
+jurabk: ZelterPlErl
 layout: default
+origslug: zelterplerl
 slug: zelterplerl
 
 ---

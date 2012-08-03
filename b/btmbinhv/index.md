@@ -1,6 +1,8 @@
 ---
 Title: Betäubungsmittel-Binnenhandelsverordnung
+jurabk: BtMBinHV
 layout: default
+origslug: btmbinhv
 slug: btmbinhv
 
 ---

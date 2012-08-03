@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Befahren der Bundeswasserstraßen in bestimmten Naturschutzgebieten
+jurabk: NSGBefV
 layout: default
+origslug: nsgbefv
 slug: nsgbefv
 
 ---

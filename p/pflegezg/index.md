@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Pflegezeit
+jurabk: PflegeZG
 layout: default
+origslug: pflegezg
 slug: pflegezg
 
 ---

@@ -2,8 +2,10 @@
 Title: Gesetz zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur
   Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe
   und Luftfahrzeuge
+jurabk: MeerSchÜbkG
 layout: default
-slug: meersch_bkg
+origslug: meersch_bkg
+slug: meerschuebkg
 
 ---
 

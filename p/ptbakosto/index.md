@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
+jurabk: PTBAKostO
 layout: default
+origslug: ptbakosto
 slug: ptbakosto
 
 ---

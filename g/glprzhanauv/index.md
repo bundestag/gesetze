@@ -2,7 +2,9 @@
 Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Zeichenakademie
   Hanau mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in
   Ausbildungsberufen
+jurabk: GlPrZHanauV
 layout: default
+origslug: glprzhanauv
 slug: glprzhanauv
 
 ---

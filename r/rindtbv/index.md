@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Tuberkulose des Rindes
+jurabk: RindTbV
 layout: default
+origslug: rindtbv
 slug: rindtbv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die strafbefreiende Erklärung von Einkünften aus Kapitalvermögen
   und von Kapitalvermögen
+jurabk: StrbEG
 layout: default
+origslug: strbeg
 slug: strbeg
 
 ---

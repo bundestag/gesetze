@@ -1,6 +1,8 @@
 ---
 Title: Zwölfte Verordnung zum Produktsicherheitsgesetz (Aufzugsverordnung)
+jurabk: GSGV 12
 layout: default
+origslug: gsgv_12
 slug: gsgv_12
 
 ---

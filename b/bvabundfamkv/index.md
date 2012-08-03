@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einrichtung einer Bundesfamilienkasse beim Bundesverwaltungsamt
+jurabk: BVABundFamkV
 layout: default
+origslug: bvabundfamkv
 slug: bvabundfamkv
 
 ---

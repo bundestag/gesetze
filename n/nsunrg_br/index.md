@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
+jurabk: NSUnrG BR
 layout: default
+origslug: nsunrg_br
 slug: nsunrg_br
 
 ---

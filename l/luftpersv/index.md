@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Luftfahrtpersonal
+jurabk: LuftPersV
 layout: default
+origslug: luftpersv
 slug: luftpersv
 
 ---

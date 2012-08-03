@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Vergütung von Vormündern und Betreuern
+jurabk: VBVG
 layout: default
+origslug: vbvg
 slug: vbvg
 
 ---

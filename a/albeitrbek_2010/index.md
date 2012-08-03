@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung
   der Landwirte für das Jahr 2010
+jurabk: ALBeitrBek 2010
 layout: default
+origslug: albeitrbek_2010
 slug: albeitrbek_2010
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Statistiken im Handwerk
+jurabk: HwStatG 1994
 layout: default
+origslug: hwstatg_1994
 slug: hwstatg_1994
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt
+jurabk: BSeeSchG
 layout: default
+origslug: bseeschg
 slug: bseeschg
 
 ---

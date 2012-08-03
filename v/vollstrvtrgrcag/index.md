@@ -3,7 +3,9 @@ Title: Gesetz zur Ausführung des Vertrages vom 4. November 1961 zwischen der Bu
   Deutschland und dem Königreich Griechenland über die gegenseitige Anerkennung und
   Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
   in Zivil- und Handelssachen
+jurabk: VollstrVtrGRCAG
 layout: default
+origslug: vollstrvtrgrcag
 slug: vollstrvtrgrcag
 
 ---

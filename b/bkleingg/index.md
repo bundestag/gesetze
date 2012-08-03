@@ -1,6 +1,8 @@
 ---
 Title: Bundeskleingartengesetz
+jurabk: BKleingG
 layout: default
+origslug: bkleingg
 slug: bkleingg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen
   Bund und Ländern
+jurabk: FinAusglG1970DV 1
 layout: default
+origslug: finausglg1970dv_1
 slug: finausglg1970dv_1
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung von Verträgen über Wohnraum mit Pflege- oder Betreuungsleistungen
+jurabk: WBVG
 layout: default
+origslug: wbvg
 slug: wbvg
 
 ---

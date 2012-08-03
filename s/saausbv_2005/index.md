@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Sattler/zur Sattlerin
+jurabk: SaAusbV 2005
 layout: default
+origslug: saausbv_2005
 slug: saausbv_2005
 
 ---

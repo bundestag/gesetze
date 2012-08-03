@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Versicherungsschutz in der Kraftfahrzeug-Haftpflichtversicherung
+jurabk: KfzPflVV
 layout: default
+origslug: kfzpflvv
 slug: kfzpflvv
 
 ---

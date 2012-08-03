@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im  Buchbinder-Handwerk
+jurabk: BuchBMstrV 2006
 layout: default
+origslug: buchbmstrv_2006
 slug: buchbmstrv_2006
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Ausstellung mehrsprachiger Auszüge aus Personenstandsbüchern
+jurabk: PersStdAuszÜbk
 layout: default
-slug: persstdausz_bk
+origslug: persstdausz_bk
+slug: persstdauszuebk
 
 ---
 

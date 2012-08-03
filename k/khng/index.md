@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung der Krankenhausfinanzierung
+jurabk: KHNG
 layout: default
+origslug: khng
 slug: khng
 
 ---

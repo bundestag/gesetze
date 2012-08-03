@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Beauftragung eines Flugsicherungsunternehmens
+jurabk: FS-AuftragsV
 layout: default
+origslug: fs-auftragsv
 slug: fs-auftragsv
 
 ---

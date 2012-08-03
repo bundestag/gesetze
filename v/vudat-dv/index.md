@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz
+jurabk: VUDat-DV
 layout: default
+origslug: vudat-dv
 slug: vudat-dv
 
 ---

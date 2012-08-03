@@ -1,8 +1,10 @@
 ---
 Title: Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch
   Seeschiffe
+jurabk: ÖlSG
 layout: default
-slug: _lsg
+origslug: _lsg
+slug: oelsg
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Bankdienst der
   Deutschen Bundesbank
+jurabk: GBankDAPrV
 layout: default
+origslug: gbankdaprv
 slug: gbankdaprv
 
 ---

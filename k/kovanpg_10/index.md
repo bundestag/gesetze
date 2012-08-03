@@ -1,6 +1,8 @@
 ---
 Title: Zehntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
+jurabk: KOVAnpG 10
 layout: default
+origslug: kovanpg_10
 slug: kovanpg_10
 
 ---

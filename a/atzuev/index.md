@@ -1,8 +1,10 @@
 ---
 Title: Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen Entwendung
   oder Freisetzung radioaktiver Stoffe nach dem Atomgesetz
+jurabk: AtZüV
 layout: default
-slug: atz_v
+origslug: atz_v
+slug: atzuev
 
 ---
 

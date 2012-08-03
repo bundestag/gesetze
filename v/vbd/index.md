@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehinderte
   Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
+jurabk: VBD
 layout: default
+origslug: vbd
 slug: vbd
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Durchführung des mittelfristigen finanziellen Beistands in der Europäischen
   Wirtschaftsgemeinschaft
+jurabk: EWGFinBeistG
 layout: default
+origslug: ewgfinbeistg
 slug: ewgfinbeistg
 
 ---

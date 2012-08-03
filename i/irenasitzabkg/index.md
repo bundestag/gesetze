@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 5. April 2011 zwischen der Bundesrepublik Deutschland
   und der Internationalen Organisation für erneuerbare Energien über den Sitz des
   IRENA-Innovations- und Technologiezentrums
+jurabk: IRENASitzAbkG
 layout: default
+origslug: irenasitzabkg
 slug: irenasitzabkg
 
 ---

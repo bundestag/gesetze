@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsordnung für Logopäden
+jurabk: LogAPrO
 layout: default
+origslug: logapro
 slug: logapro
 
 ---

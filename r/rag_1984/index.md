@@ -2,7 +2,9 @@
 Title: Rentenanpassungsgesetz 1984 (Artikel 1 des Gesetzes über die Anpassung der
   Renten der gesetzlichen Rentenversicherung und der Geldleistungen der gesetzlichen
   Unfallversicherung im Jahre 1984)
+jurabk: RAG 1984
 layout: default
+origslug: rag_1984
 slug: rag_1984
 
 ---

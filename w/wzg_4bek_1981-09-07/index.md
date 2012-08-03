@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4Bek 1981-09-07
 layout: default
+origslug: wzg_4bek_1981-09-07
 slug: wzg_4bek_1981-09-07
 
 ---

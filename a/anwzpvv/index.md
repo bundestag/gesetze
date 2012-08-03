@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen
   nach § 5b des Einkommensteuergesetzes
+jurabk: AnwZpvV
 layout: default
+origslug: anwzpvv
 slug: anwzpvv
 
 ---

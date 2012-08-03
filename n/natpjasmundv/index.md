@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Festsetzung des Nationalparks Jasmund
+jurabk: NatPJasmundV
 layout: default
+origslug: natpjasmundv
 slug: natpjasmundv
 
 ---

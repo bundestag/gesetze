@@ -1,6 +1,8 @@
 ---
 Title: Internationaler Schiffsicherheitsvertrag von 1960
+jurabk: SchSichVtr 1960
 layout: default
+origslug: schsichvtr_1960
 slug: schsichvtr_1960
 
 ---

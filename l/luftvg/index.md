@@ -1,6 +1,8 @@
 ---
 Title: Luftverkehrsgesetz
+jurabk: LuftVG
 layout: default
+origslug: luftvg
 slug: luftvg
 
 ---

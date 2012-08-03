@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Rechtsdienstleistungsgesetz
+jurabk: RDGEG
 layout: default
+origslug: rdgeg
 slug: rdgeg
 
 ---

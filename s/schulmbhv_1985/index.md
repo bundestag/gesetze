@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung von Beihilfen für Schulmilch
+jurabk: SchulMBhV 1985
 layout: default
+origslug: schulmbhv_1985
 slug: schulmbhv_1985
 
 ---

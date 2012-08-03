@@ -1,8 +1,10 @@
 ---
 Title: Vierte Verordnung zur Änderung der Zweiten Verordnung zur Durchführung des
   Bundesentschädigungsgesetzes
+jurabk: BEGDV2ÄndV 4
 layout: default
-slug: begdv2_ndv_4
+origslug: begdv2_ndv_4
+slug: begdv2aendv_4
 
 ---
 

@@ -4,8 +4,10 @@ Title: Abkommen zur Durchführung des Artikels 45 Absatz 1 des Zusatzabkommens v
   vom 18. Mai 1981 und das Abkommen vom 18. März 1993 geänderten Fassung zu dem Abkommen
   zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen
   hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen
+jurabk: NATOTrStatZAbkÄndAbkD
 layout: default
-slug: natotrstatzabk_ndabkd
+origslug: natotrstatzabk_ndabkd
+slug: natotrstatzabkaendabkd
 
 ---
 

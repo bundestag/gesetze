@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Einsparung von Energie in Gebäuden
+jurabk: EnEG
 layout: default
+origslug: eneg
 slug: eneg
 
 ---

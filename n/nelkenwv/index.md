@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bekämpfung von Nelkenwicklern
+jurabk: NelkenwV
 layout: default
+origslug: nelkenwv
 slug: nelkenwv
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung
   aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare
   Personengruppen im Beitrittsgebiet
+jurabk: VersorgLErstV
 layout: default
+origslug: versorglerstv
 slug: versorglerstv
 
 ---

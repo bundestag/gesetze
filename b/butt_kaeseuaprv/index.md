@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherzeugnisse
+jurabk: Butt/KäseuaPrV
 layout: default
-slug: butt_k_seuaprv
+origslug: butt_k_seuaprv
+slug: butt_kaeseuaprv
 
 ---
 

@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Elektroniker und zur
 Elektronikerin
 ---
 Title: ''
+jurabk: ElektronAusbV 2008
 layout: default
+origslug: elektronausbv_2008
 slug: elektronausbv_2008
 
 ---

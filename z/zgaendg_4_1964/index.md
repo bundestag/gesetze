@@ -1,7 +1,9 @@
 ---
 Title: Viertes Gesetz zur Änderung des Zollgesetzes
+jurabk: ZGÄndG 4 1964
 layout: default
-slug: zg_ndg_4_1964
+origslug: zg_ndg_4_1964
+slug: zgaendg_4_1964
 
 ---
 

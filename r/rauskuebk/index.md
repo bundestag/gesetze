@@ -1,7 +1,9 @@
 ---
 Title: Europäisches Übereinkommen betreffend Auskünfte über ausländisches Recht
+jurabk: RAuskÜbk
 layout: default
-slug: rausk_bk
+origslug: rausk_bk
+slug: rauskuebk
 
 ---
 

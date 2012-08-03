@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Milchwirtschaftlicher
   Laborant/Milchwirtschaftliche Laborantin
+jurabk: MilchLMstrV
 layout: default
+origslug: milchlmstrv
 slug: milchlmstrv
 
 ---

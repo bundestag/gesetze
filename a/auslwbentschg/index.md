@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur näheren Regelung der Entschädigungsansprüche für Auslandsbonds
+jurabk: AuslWBEntschG
 layout: default
+origslug: auslwbentschg
 slug: auslwbentschg
 
 ---

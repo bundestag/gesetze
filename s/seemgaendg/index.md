@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Seemannsgesetzes
+jurabk: SeemGÄndG
 layout: default
-slug: seemg_ndg
+origslug: seemg_ndg
+slug: seemgaendg
 
 ---
 

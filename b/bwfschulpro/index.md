@@ -1,6 +1,8 @@
 ---
 Title: Prüfungsordnung für Bundeswehrfachschulen
+jurabk: BwFSchulPrO
 layout: default
+origslug: bwfschulpro
 slug: bwfschulpro
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
+jurabk: FinDAG
 layout: default
+origslug: findag
 slug: findag
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Vorschriften über die von Luftfahrzeugen zu führenden Lichter (Anlage 1 zur
   Luftverkehrs-Ordnung (zu §§ 17 und 19 Abs. \*Ku 7 \*KE LuftVO))
+jurabk: LuftVOAnl 1
 layout: default
+origslug: luftvoanl_1
 slug: luftvoanl_1
 
 ---

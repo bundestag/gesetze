@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Internationalen Übereinkommen von 2001 über die Beschränkung
   des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen
+jurabk: AFSG
 layout: default
+origslug: afsg
 slug: afsg
 
 ---

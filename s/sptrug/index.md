@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen
+jurabk: SpTrUG
 layout: default
+origslug: sptrug
 slug: sptrug
 
 ---

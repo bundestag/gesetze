@@ -2,7 +2,9 @@
 Title: Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November
   1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern
   auf hoher See
+jurabk: NordSBrWeinG
 layout: default
+origslug: nordsbrweing
 slug: nordsbrweing
 
 ---

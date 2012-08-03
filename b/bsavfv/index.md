@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Verfahren vor dem Bundessortenamt
+jurabk: BSAVfV
 layout: default
+origslug: bsavfv
 slug: bsavfv
 
 ---

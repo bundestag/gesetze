@@ -1,6 +1,8 @@
 ---
 Title: Dritte Wahlordnung zum Mitbestimmungsgesetz
+jurabk: MitbestGWO 3 2002
 layout: default
+origslug: mitbestgwo_3_2002
 slug: mitbestgwo_3_2002
 
 ---

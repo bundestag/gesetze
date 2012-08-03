@@ -1,6 +1,8 @@
 ---
 Title: Grundbuchordnung
+jurabk: GBO
 layout: default
+origslug: gbo
 slug: gbo
 
 ---

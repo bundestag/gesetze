@@ -1,6 +1,8 @@
 ---
 Title: Aktiengesetz
+jurabk: AktG
 layout: default
+origslug: aktg
 slug: aktg
 
 ---

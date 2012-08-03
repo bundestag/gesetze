@@ -1,7 +1,9 @@
 ---
 Title: Käseverordnung
+jurabk: KäseV
 layout: default
-slug: k_sev
+origslug: k_sev
+slug: kaesev
 
 ---
 

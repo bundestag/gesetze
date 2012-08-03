@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
+jurabk: HAuslG
 layout: default
+origslug: hauslg
 slug: hauslg
 
 ---

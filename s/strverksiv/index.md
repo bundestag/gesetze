@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherstellung des Straßenverkehrs
+jurabk: StrVerkSiV
 layout: default
+origslug: strverksiv
 slug: strverksiv
 
 ---

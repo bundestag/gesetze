@@ -1,6 +1,8 @@
 ---
 Title: Berufskrankheiten-Verordnung
+jurabk: BKV
 layout: default
+origslug: bkv
 slug: bkv
 
 ---

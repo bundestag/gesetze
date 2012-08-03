@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
+jurabk: SchneidwMechMstrV
 layout: default
+origslug: schneidwmechmstrv
 slug: schneidwmechmstrv
 
 ---

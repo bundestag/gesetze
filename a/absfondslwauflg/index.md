@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen
   Land- und Ernährungswirtschaft
+jurabk: AbsFondsLwAuflG
 layout: default
+origslug: absfondslwauflg
 slug: absfondslwauflg
 
 ---

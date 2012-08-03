@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Aufstellung von Betriebskosten
+jurabk: BetrKV
 layout: default
+origslug: betrkv
 slug: betrkv
 
 ---

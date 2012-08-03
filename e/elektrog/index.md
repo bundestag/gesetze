@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche
   Entsorgung von Elektro- und Elektronikgeräten
+jurabk: ElektroG
 layout: default
+origslug: elektrog
 slug: elektrog
 
 ---

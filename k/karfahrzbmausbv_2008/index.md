@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Karosserie- und
 Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin
 ---
 Title: ''
+jurabk: KarFahrzbMAusbV 2008
 layout: default
+origslug: karfahrzbmausbv_2008
 slug: karfahrzbmausbv_2008
 
 ---

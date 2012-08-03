@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von
   Weißzucker
+jurabk: WeißzuckerBhV
 layout: default
-slug: wei_zuckerbhv
+origslug: wei_zuckerbhv
+slug: weisszuckerbhv
 
 ---
 

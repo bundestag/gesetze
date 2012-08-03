@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Beförderung gefährlicher Güter
+jurabk: GefahrgutG
 layout: default
+origslug: gefahrgutg
 slug: gefahrgutg
 
 ---

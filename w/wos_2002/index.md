@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung zur Durchführung des Betriebsverfassungsgesetzes
+jurabk: WOS 2002
 layout: default
+origslug: wos_2002
 slug: wos_2002
 
 ---

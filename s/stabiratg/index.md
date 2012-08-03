@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen
+jurabk: StabiRatG
 layout: default
+origslug: stabiratg
 slug: stabiratg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Zwölfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 12 2000
 layout: default
+origslug: bimschv_12_2000
 slug: bimschv_12_2000
 
 ---

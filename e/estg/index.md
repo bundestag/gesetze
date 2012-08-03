@@ -1,6 +1,8 @@
 ---
 Title: Einkommensteuergesetz
+jurabk: EStG
 layout: default
+origslug: estg
 slug: estg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
+jurabk: Vtr LUX
 layout: default
+origslug: vtr_lux
 slug: vtr_lux
 
 ---

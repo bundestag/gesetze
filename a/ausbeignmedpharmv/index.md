@@ -2,7 +2,9 @@
 Title: Verordnung über die fachliche Eignung für die Berufsausbildung der Medizinischen,
   Zahnmedizinischen und Tiermedizinischen Fachangestellten sowie der Pharmazeutisch-kaufmännischen
   Angestellten
+jurabk: AusbEignMedPharmV
 layout: default
+origslug: ausbeignmedpharmv
 slug: ausbeignmedpharmv
 
 ---

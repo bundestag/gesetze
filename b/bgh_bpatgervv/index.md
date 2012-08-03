@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und
   Bundespatentgericht
+jurabk: BGH/BPatGERVV
 layout: default
+origslug: bgh_bpatgervv
 slug: bgh_bpatgervv
 
 ---

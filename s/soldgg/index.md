@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten
+jurabk: SoldGG
 layout: default
+origslug: soldgg
 slug: soldgg
 
 ---

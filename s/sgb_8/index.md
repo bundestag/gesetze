@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel
   1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)
+jurabk: SGB 8
 layout: default
+origslug: sgb_8
 slug: sgb_8
 
 ---

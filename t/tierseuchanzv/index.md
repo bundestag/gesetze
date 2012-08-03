@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über anzeigepflichtige Tierseuchen
+jurabk: TierSeuchAnzV
 layout: default
+origslug: tierseuchanzv
 slug: tierseuchanzv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Umsetzung von Abkommen über Soziale Sicherheit
+jurabk: SozSichAbkUmsG
 layout: default
+origslug: sozsichabkumsg
 slug: sozsichabkumsg
 
 ---

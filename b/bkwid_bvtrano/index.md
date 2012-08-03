@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz
   von Beschäftigten des Bundeskanzleramtes
+jurabk: BKWid/BVtrAnO
 layout: default
+origslug: bkwid_bvtrano
 slug: bkwid_bvtrano
 
 ---

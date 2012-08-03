@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen-
   und Luftheizungsbauerin
+jurabk: OfenbAusbV
 layout: default
+origslug: ofenbausbv
 slug: ofenbausbv
 
 ---

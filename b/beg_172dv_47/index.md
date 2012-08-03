@@ -1,6 +1,8 @@
 ---
 Title: Siebenundvierzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+jurabk: BEG§172DV 47
 layout: default
+origslug: beg_172dv_47
 slug: beg_172dv_47
 
 ---

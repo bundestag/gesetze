@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Strafgesetzbuch
+jurabk: StGBEG
 layout: default
+origslug: stgbeg
 slug: stgbeg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen
   Verwaltungsdienst des Bundes
+jurabk: LAP-htVerwDV
 layout: default
+origslug: lap-htverwdv
 slug: lap-htverwdv
 
 ---

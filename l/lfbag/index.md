@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Luftfahrt-Bundesamt
+jurabk: LFBAG
 layout: default
+origslug: lfbag
 slug: lfbag
 
 ---

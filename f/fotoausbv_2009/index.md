@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin
 ---
 Title: ''
+jurabk: FotoAusbV 2009
 layout: default
+origslug: fotoausbv_2009
 slug: fotoausbv_2009
 
 ---

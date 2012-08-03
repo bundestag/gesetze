@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten
+jurabk: VerwFöG
 layout: default
-slug: verwf_g
+origslug: verwf_g
+slug: verwfoeg
 
 ---
 

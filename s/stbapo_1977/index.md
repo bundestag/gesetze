@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsordnung für die Steuerbeamtinnen und Steuerbeamten
+jurabk: StBAPO 1977
 layout: default
+origslug: stbapo_1977
 slug: stbapo_1977
 
 ---

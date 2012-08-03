@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder-
   und Jugendlichenpsychotherapeuten
+jurabk: PsychThG
 layout: default
+origslug: psychthg
 slug: psychthg
 
 ---

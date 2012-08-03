@@ -1,6 +1,8 @@
 ---
 Title: Bergverordnung über Einwirkungsbereiche
+jurabk: EinwirkungsBergV
 layout: default
+origslug: einwirkungsbergv
 slug: einwirkungsbergv
 
 ---

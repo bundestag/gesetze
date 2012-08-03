@@ -3,8 +3,10 @@ Title: Gesetz zu dem Protokoll vom 7. Dezember 2005 zur Änderung des Abkommens 
   20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten
   Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über
   Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
+jurabk: UNSekrSitzAbkÄndProtG
 layout: default
-slug: unsekrsitzabk_ndprotg
+origslug: unsekrsitzabk_ndprotg
+slug: unsekrsitzabkaendprotg
 
 ---
 

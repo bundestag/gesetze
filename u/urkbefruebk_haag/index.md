@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
+jurabk: UrkBefrÜbk Haag
 layout: default
-slug: urkbefr_bk_haag
+origslug: urkbefr_bk_haag
+slug: urkbefruebk_haag
 
 ---
 

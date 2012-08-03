@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass des Bundeskanzlers
+jurabk: BKOrgErl 2004
 layout: default
+origslug: bkorgerl_2004
 slug: bkorgerl_2004
 
 ---

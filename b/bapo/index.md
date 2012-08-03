@@ -1,6 +1,8 @@
 ---
 Title: Bundes-Apothekerordnung
+jurabk: BApO
 layout: default
+origslug: bapo
 slug: bapo
 
 ---

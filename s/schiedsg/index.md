@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Schiedsstellen in den Gemeinden
+jurabk: SchiedsG
 layout: default
+origslug: schiedsg
 slug: schiedsg
 
 ---

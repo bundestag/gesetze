@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung zur Änderung von Anlagen zum Basler Übereinkommen vom 22.
   März 1989
+jurabk: VII051122
 layout: default
+origslug: vii051122
 slug: vii051122
 
 ---

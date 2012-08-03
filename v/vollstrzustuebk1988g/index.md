@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 16. September 1988 über die gerichtliche Zuständigkeit
   und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
+jurabk: VollstrZustÜbk1988G
 layout: default
-slug: vollstrzust_bk1988g
+origslug: vollstrzust_bk1988g
+slug: vollstrzustuebk1988g
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung von Ingenieur- und Architektenleistungen
+jurabk: ArchLG
 layout: default
+origslug: archlg
 slug: archlg
 
 ---

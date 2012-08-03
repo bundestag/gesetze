@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Versorgung der Opfer des Krieges
+jurabk: BVG
 layout: default
+origslug: bvg
 slug: bvg
 
 ---

@@ -2,7 +2,9 @@
 Title: Rentenanpassungsgesetz 1983 (Artikel 18 des Gesetzes zur Wiederbelebung der
   Wirtschaft und Beschäftigung und zur Entlastung des Bundeshaushalts - Haushaltsbegleitgesetz
   1983)
+jurabk: RAG 1983
 layout: default
+origslug: rag_1983
 slug: rag_1983
 
 ---

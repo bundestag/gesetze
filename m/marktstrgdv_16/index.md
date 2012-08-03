@@ -1,6 +1,8 @@
 ---
 Title: Sechzehnte Durchführungsverordnung zum Marktstrukturgesetz - Wolle
+jurabk: MarktStrGDV 16
 layout: default
+origslug: marktstrgdv_16
 slug: marktstrgdv_16
 
 ---

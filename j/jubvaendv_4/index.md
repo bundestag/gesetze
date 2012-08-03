@@ -1,8 +1,10 @@
 ---
 Title: Vierte Verordnung zur Änderung der Verordnung über die Gewährung von Jubiläumszuwendungen
   an Beamte und Richter des Bundes
+jurabk: JubVÄndV 4
 layout: default
-slug: jubv_ndv_4
+origslug: jubv_ndv_4
+slug: jubvaendv_4
 
 ---
 

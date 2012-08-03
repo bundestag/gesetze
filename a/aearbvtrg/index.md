@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung
+jurabk: ÄArbVtrG
 layout: default
-slug: _arbvtrg
+origslug: _arbvtrg
+slug: aearbvtrg
 
 ---
 

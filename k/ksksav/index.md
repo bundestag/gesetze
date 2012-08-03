@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Beirat und die Ausschüsse bei der Künstlersozialkasse
+jurabk: KSKSaV
 layout: default
+origslug: ksksav
 slug: ksksav
 
 ---

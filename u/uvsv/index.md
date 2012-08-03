@@ -3,7 +3,9 @@ Verordnung zum Schutz vor schädlichen Wirkungen künstlicher
 ultravioletter Strahlung
 ---
 Title: ''
+jurabk: UVSV
 layout: default
+origslug: uvsv
 slug: uvsv
 
 ---

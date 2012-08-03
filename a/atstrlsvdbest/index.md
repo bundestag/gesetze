@@ -1,7 +1,9 @@
 ---
 Title: Durchführungsbestimmung zur Verordnung über die Gewährleistung von Atomsicherheit
   und Strahlenschutz
+jurabk: AtStrlSVDBest
 layout: default
+origslug: atstrlsvdbest
 slug: atstrlsvdbest
 
 ---

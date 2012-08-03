@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über immissionsschutz- und abfallrechtliche Überwachungserleichterungen
   für nach der Verordnung (EG) Nr. 761/2001 registrierte Standorte und Organisationen
+jurabk: EMASPrivilegV
 layout: default
+origslug: emasprivilegv
 slug: emasprivilegv
 
 ---

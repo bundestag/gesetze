@@ -1,7 +1,9 @@
 ---
 Title: Ordnung für die internationale Eisenbahnbeförderung von Containern (Anlage
   III zum Anhang B zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF)
+jurabk: RICo 1980
 layout: default
+origslug: rico_1980
 slug: rico_1980
 
 ---

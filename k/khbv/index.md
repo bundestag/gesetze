@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Rechnungs- und Buchführungspflichten von Krankenhäusern
+jurabk: KHBV
 layout: default
+origslug: khbv
 slug: khbv
 
 ---

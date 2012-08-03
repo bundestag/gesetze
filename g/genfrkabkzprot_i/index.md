@@ -1,7 +1,9 @@
 ---
 Title: Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz
   der Opfer internationaler bewaffneter Konflikte (Protokoll I)
+jurabk: GenfRKAbkZProt I
 layout: default
+origslug: genfrkabkzprot_i
 slug: genfrkabkzprot_i
 
 ---

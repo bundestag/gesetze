@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Leistungsentgelten an Beamtinnen und Beamte
   bei der Deutschen Post AG
+jurabk: PostLEntgV
 layout: default
+origslug: postlentgv
 slug: postlentgv
 
 ---

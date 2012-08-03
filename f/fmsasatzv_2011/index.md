@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung
+jurabk: FMSASatzV 2011
 layout: default
+origslug: fmsasatzv_2011
 slug: fmsasatzv_2011
 
 ---

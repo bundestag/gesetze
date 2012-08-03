@@ -1,6 +1,8 @@
 ---
 Title: Achte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
+jurabk: StVOAusnV 8
 layout: default
+origslug: stvoausnv_8
 slug: stvoausnv_8
 
 ---

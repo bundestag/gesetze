@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bestimmung der zuständigen Stelle sowie über die fachliche
   Eignung für die Berufsausbildung zum Tierarzthelfer/zur Tierarzthelferin
+jurabk: TArztHAusbZustV
 layout: default
+origslug: tarzthausbzustv
 slug: tarzthausbzustv
 
 ---

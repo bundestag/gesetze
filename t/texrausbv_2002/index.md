@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Textilreiniger/zur Textilreinigerin
+jurabk: TexRAusbV 2002
 layout: default
+origslug: texrausbv_2002
 slug: texrausbv_2002
 
 ---

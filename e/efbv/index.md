@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Entsorgungsfachbetriebe
+jurabk: EfbV
 layout: default
+origslug: efbv
 slug: efbv
 
 ---

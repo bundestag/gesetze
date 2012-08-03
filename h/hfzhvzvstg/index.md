@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen
   Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
+jurabk: HfzHvzVStG
 layout: default
+origslug: hfzhvzvstg
 slug: hfzhvzvstg
 
 ---

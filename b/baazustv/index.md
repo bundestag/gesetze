@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Übertragung von Zuständigkeiten nach dem Lastenausgleichsgesetz
   auf das Bundesausgleichsamt
+jurabk: BAAZustV
 layout: default
+origslug: baazustv
 slug: baazustv
 
 ---

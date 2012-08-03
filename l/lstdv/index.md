@@ -1,6 +1,8 @@
 ---
 Title: Lohnsteuer-Durchführungsverordnung
+jurabk: LStDV
 layout: default
+origslug: lstdv
 slug: lstdv
 
 ---

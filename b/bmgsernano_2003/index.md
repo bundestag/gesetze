@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten
   im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
+jurabk: BMGSErnAnO 2003
 layout: default
+origslug: bmgsernano_2003
 slug: bmgsernano_2003
 
 ---

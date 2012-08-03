@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Vorrechte und Immunitäten des Internationalen Seegerichtshofs
+jurabk: SeegerVorRÜbk
 layout: default
-slug: seegervorr_bk
+origslug: seegervorr_bk
+slug: seegervorruebk
 
 ---
 

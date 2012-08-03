@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 16. Mai 1985 zwischen der Bundesrepublik Deutschland
   und dem Königreich Dänemark über die gegenseitige Hilfeleistung bei Katastrophen
   oder schweren Unglücksfällen
+jurabk: KatHiLAbkDNKG
 layout: default
+origslug: kathilabkdnkg
 slug: kathilabkdnkg
 
 ---

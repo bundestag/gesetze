@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
   aus dem Beamtenverhältnis im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
   in Angelegenheiten nach dem Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen
+jurabk: BMinUWidAnO 2002
 layout: default
+origslug: bminuwidano_2002
 slug: bminuwidano_2002
 
 ---

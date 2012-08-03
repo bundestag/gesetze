@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Kosten für Amtshandlungen der informationspflichtigen Stellen
   beim Vollzug des Umweltinformationsgesetzes
+jurabk: UIGGebV
 layout: default
+origslug: uiggebv
 slug: uiggebv
 
 ---

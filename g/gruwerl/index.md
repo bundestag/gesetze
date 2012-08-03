@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
+jurabk: GruWErl
 layout: default
+origslug: gruwerl
 slug: gruwerl
 
 ---

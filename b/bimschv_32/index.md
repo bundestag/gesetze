@@ -1,6 +1,8 @@
 ---
 Title: 32. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 32
 layout: default
+origslug: bimschv_32
 slug: bimschv_32
 
 ---

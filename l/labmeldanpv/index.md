@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Anpassung der Meldepflicht nach § 7 des Infektionsschutzgesetzes
   an die epidemische Lage
+jurabk: LabMeldAnpV
 layout: default
+origslug: labmeldanpv
 slug: labmeldanpv
 
 ---

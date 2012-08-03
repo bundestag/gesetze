@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Haftpflichtversicherung für Schausteller
+jurabk: SchauHV
 layout: default
+origslug: schauhv
 slug: schauhv
 
 ---

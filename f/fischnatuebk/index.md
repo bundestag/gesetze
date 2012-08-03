@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über das Verhalten beim Fischfang im Nordatlantik
+jurabk: FischNATÜbk
 layout: default
-slug: fischnat_bk
+origslug: fischnat_bk
+slug: fischnatuebk
 
 ---
 

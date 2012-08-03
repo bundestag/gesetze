@@ -1,6 +1,8 @@
 ---
 Title: Rentenanpassungsgesetz 1989
+jurabk: RAG 1989
 layout: default
+origslug: rag_1989
 slug: rag_1989
 
 ---

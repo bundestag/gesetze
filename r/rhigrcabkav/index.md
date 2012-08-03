@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Ausführung des deutsch-griechischen Abkommens über die gegenseitige
   Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
+jurabk: RHiGRCAbkAV
 layout: default
+origslug: rhigrcabkav
 slug: rhigrcabkav
 
 ---

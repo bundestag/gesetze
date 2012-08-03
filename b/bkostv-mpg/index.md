@@ -1,7 +1,9 @@
 ---
 Title: Gebührenverordnung zum Medizinproduktegesetz und den zu seiner Ausführung ergangenen
   Rechtsverordnungen
+jurabk: BKostV-MPG
 layout: default
+origslug: bkostv-mpg
 slug: bkostv-mpg
 
 ---

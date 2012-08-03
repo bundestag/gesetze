@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Südost-Rügen"
+jurabk: NatSGSORügenV
 layout: default
-slug: natsgsor_genv
+origslug: natsgsor_genv
+slug: natsgsoruegenv
 
 ---
 

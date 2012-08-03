@@ -1,8 +1,10 @@
 ---
 Title: Europäisches Übereinkommen über die Zustellung von Schriftstücken in Verwaltungssachen
   im Ausland
+jurabk: EuAuslVwZÜbk
 layout: default
-slug: euauslvwz_bk
+origslug: euauslvwz_bk
+slug: euauslvwzuebk
 
 ---
 

@@ -3,8 +3,10 @@ Title: Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Ve
   Königreich Großbritannien und Nordirland zur Außerkraftsetzung des Abkommens vom
   3. August 1959 über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg
   in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung
+jurabk: ManövAbkCANIGBRÜbk
 layout: default
-slug: man_vabkcanigbr_bk
+origslug: man_vabkcanigbr_bk
+slug: manoevabkcanigbruebk
 
 ---
 

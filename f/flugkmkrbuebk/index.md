@@ -5,8 +5,10 @@ Title: Übereinkommen zwischen den Vereinigten Staaten von Amerika und dem Köni
   Inspektionen in bezug auf den Vertrag zwischen den Vereinigten Staaten von Amerika
   und der Union der Sozialistischen Sowjetrepubliken über die Beseitigung ihrer Flugkörper
   mittlerer und kürzerer Reichweite
+jurabk: FlugkmkRBÜbk
 layout: default
-slug: flugkmkrb_bk
+origslug: flugkmkrb_bk
+slug: flugkmkrbuebk
 
 ---
 

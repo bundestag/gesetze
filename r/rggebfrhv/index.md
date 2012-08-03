@@ -1,6 +1,8 @@
 ---
 Title: Verordnung, betreffend die Gebührenfreiheit in dem Verfahren vor dem Reichsgericht
+jurabk: RGGebFrhV
 layout: default
+origslug: rggebfrhv
 slug: rggebfrhv
 
 ---

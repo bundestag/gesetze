@@ -1,8 +1,10 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
   über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet
+jurabk: BüsingenVtr CHE
 layout: default
-slug: b_singenvtr_che
+origslug: b_singenvtr_che
+slug: buesingenvtr_che
 
 ---
 

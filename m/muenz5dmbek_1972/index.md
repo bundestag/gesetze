@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Dürer-Gedenkmünze)
+jurabk: Münz5DMBek 1972
 layout: default
-slug: m_nz5dmbek_1972
+origslug: m_nz5dmbek_1972
+slug: muenz5dmbek_1972
 
 ---
 

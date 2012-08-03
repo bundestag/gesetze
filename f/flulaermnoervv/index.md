@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Nörvenich
+jurabk: FluLärmNörvV
 layout: default
-slug: flul_rmn_rvv
+origslug: flul_rmn_rvv
+slug: flulaermnoervv
 
 ---
 

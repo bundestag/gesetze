@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anforderungen und das Verfahren für die Anerkennung von
   Konformitätsbewertungsstellen
+jurabk: BAnerkV 2002
 layout: default
+origslug: banerkv_2002
 slug: banerkv_2002
 
 ---

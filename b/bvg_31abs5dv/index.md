@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des § 31 Abs. 4 des Bundesversorgungsgesetzes
+jurabk: BVG§31Abs5DV
 layout: default
+origslug: bvg_31abs5dv
 slug: bvg_31abs5dv
 
 ---

@@ -2,7 +2,9 @@
 Title: Übereinkommen über internationale Beförderungen leicht verderblicher Lebensmittel
   und über die besonderen Beförderungsmittel, die für diese Beförderungen zu verwenden
   sind
+jurabk: ATP
 layout: default
+origslug: atp
 slug: atp
 
 ---

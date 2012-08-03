@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Übermittlung schiffahrtsgeschäftlicher Unterlagen an ausländische
   Stellen
+jurabk: SchGeschUV
 layout: default
+origslug: schgeschuv
 slug: schgeschuv
 
 ---

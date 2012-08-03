@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bezeichnung der zuständigen Vollzugsbeamten des Bundes für bestimmte
   Aufgaben nach der Strafprozeßordnung auf dem Gebiet der Seeschiffahrt
+jurabk: SeeZustBV
 layout: default
+origslug: seezustbv
 slug: seezustbv
 
 ---

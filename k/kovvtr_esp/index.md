@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über
   Kriegsopferversorgung
+jurabk: KOVVtr ESP
 layout: default
+origslug: kovvtr_esp
 slug: kovvtr_esp
 
 ---

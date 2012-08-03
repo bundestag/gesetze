@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Beruf der Podologin und des Podologen
+jurabk: PodG
 layout: default
+origslug: podg
 slug: podg
 
 ---

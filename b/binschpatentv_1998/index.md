@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Befähigungszeugnisse in der Binnenschiffahrt
+jurabk: BinSchPatentV 1998
 layout: default
+origslug: binschpatentv_1998
 slug: binschpatentv_1998
 
 ---

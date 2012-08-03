@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung
+jurabk: BeitrEntlKrG
 layout: default
+origslug: beitrentlkrg
 slug: beitrentlkrg
 
 ---

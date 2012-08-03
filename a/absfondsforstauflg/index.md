@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen
   Forst- und Holzwirtschaft
+jurabk: AbsFondsForstAuflG
 layout: default
+origslug: absfondsforstauflg
 slug: absfondsforstauflg
 
 ---

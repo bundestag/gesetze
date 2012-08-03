@@ -3,8 +3,10 @@ Title: Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnunge
   das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18.
   Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
   der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
+jurabk: BAKredWWSUBefÜV
 layout: default
-slug: bakredwwsubef_v
+origslug: bakredwwsubef_v
+slug: bakredwwsubefuev
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Zweiundzwanzigste Durchführungsverordnung zum Marktstrukturgesetz Pflanzliche
   Erzeugnisse zur technischen Verwendung oder Energiegewinnung
+jurabk: MarktStrGDV 22
 layout: default
+origslug: marktstrgdv_22
 slug: marktstrgdv_22
 
 ---

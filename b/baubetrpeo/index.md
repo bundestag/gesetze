@@ -1,6 +1,8 @@
 ---
 Title: Bau- und Betriebsordnung für Pioniereisenbahnen
+jurabk: BauBetrPEO
 layout: default
+origslug: baubetrpeo
 slug: baubetrpeo
 
 ---

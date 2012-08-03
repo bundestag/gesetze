@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten
   der freiwilligen Gerichtsbarkeit
+jurabk: FGG-RG
 layout: default
+origslug: fgg-rg
 slug: fgg-rg
 
 ---

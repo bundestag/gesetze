@@ -2,7 +2,9 @@
 Title: Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung
   des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem
   Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit
+jurabk: SozSichAbkGBRDVbgV
 layout: default
+origslug: sozsichabkgbrdvbgv
 slug: sozsichabkgbrdvbgv
 
 ---

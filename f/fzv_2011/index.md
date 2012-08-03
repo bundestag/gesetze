@@ -2,7 +2,9 @@
 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr
 ---
 Title: ''
+jurabk: FZV 2011
 layout: default
+origslug: fzv_2011
 slug: fzv_2011
 
 ---

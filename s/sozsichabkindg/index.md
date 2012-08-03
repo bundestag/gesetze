@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 12. Oktober 2011 zwischen der Bundesrepublik Deutschland
   und der Republik Indien über Soziale Sicherheit
+jurabk: SozSichAbkINDG
 layout: default
+origslug: sozsichabkindg
 slug: sozsichabkindg
 
 ---

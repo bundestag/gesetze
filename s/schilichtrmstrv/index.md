@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Schilder- und Lichtreklamehersteller-Handwerk
+jurabk: SchiLichtrMstrV
 layout: default
+origslug: schilichtrmstrv
 slug: schilichtrmstrv
 
 ---

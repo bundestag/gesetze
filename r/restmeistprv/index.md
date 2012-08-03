@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Restaurantmeister/Geprüfte
   Restaurantmeisterin
+jurabk: RestMeistPrV
 layout: default
+origslug: restmeistprv
 slug: restmeistprv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wasserbaumeister/Geprüfte
   Wasserbaumeisterin
+jurabk: WasBauPrV
 layout: default
+origslug: wasbauprv
 slug: wasbauprv
 
 ---

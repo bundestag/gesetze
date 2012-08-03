@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und für die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich
   des Bundesministeriums des Innern
+jurabk: BMIWidAnO 2012
 layout: default
+origslug: bmiwidano_2012
 slug: bmiwidano_2012
 
 ---

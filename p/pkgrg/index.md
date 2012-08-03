@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit
   des Bundes
+jurabk: PKGrG
 layout: default
+origslug: pkgrg
 slug: pkgrg
 
 ---

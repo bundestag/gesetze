@@ -2,7 +2,9 @@
 Title: Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer
   Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile
   Wachpersonen
+jurabk: UZwBwG
 layout: default
+origslug: uzwbwg
 slug: uzwbwg
 
 ---

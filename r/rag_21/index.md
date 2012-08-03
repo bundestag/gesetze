@@ -2,7 +2,9 @@
 Title: Einundzwanzigstes Gesetz über die Anpassung der Renten aus der gesetzlichen
   Rentenversicherung sowie über die Anpassung der Geldleistungen aus der gesetzlichen
   Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte
+jurabk: RAG 21
 layout: default
+origslug: rag_21
 slug: rag_21
 
 ---

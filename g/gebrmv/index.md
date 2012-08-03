@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausführung des Gebrauchsmustergesetzes
+jurabk: GebrMV
 layout: default
+origslug: gebrmv
 slug: gebrmv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Künstlersozialversicherungs-Entgeltverordnung
+jurabk: KSVEntgV
 layout: default
+origslug: ksventgv
 slug: ksventgv
 
 ---

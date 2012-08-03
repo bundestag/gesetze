@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zulässigkeit der Vereinbarung von Vergütungen von privaten
   Vermittlern mit Angehörigen bestimmter Berufe und Personengruppen
+jurabk: VermittVergV
 layout: default
+origslug: vermittvergv
 slug: vermittvergv
 
 ---

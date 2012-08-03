@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Orthopädieschuhmacher-Handwerk
+jurabk: OrthSchMstrV
 layout: default
+origslug: orthschmstrv
 slug: orthschmstrv
 
 ---

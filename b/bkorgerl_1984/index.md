@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1984
 layout: default
+origslug: bkorgerl_1984
 slug: bkorgerl_1984
 
 ---

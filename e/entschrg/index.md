@@ -1,6 +1,8 @@
 ---
 Title: Entschädigungsrentengesetz
+jurabk: EntschRG
 layout: default
+origslug: entschrg
 slug: entschrg
 
 ---

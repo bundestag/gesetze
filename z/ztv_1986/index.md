@@ -1,6 +1,8 @@
 ---
 Title: Zolltarifverordnung
+jurabk: ZTV 1986
 layout: default
+origslug: ztv_1986
 slug: ztv_1986
 
 ---

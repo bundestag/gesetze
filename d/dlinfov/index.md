@@ -2,7 +2,9 @@
 Verordnung über Informationspflichten für Dienstleistungserbringer
 ---
 Title: ''
+jurabk: DLInfoV
 layout: default
+origslug: dlinfov
 slug: dlinfov
 
 ---

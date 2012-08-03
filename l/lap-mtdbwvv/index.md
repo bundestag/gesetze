@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren technischen
   Dienst in der Bundeswehrverwaltung - Fachrichtung Wehrtechnik -
+jurabk: LAP-mtDBWVV
 layout: default
+origslug: lap-mtdbwvv
 slug: lap-mtdbwvv
 
 ---

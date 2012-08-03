@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Früherkennung und Frühförderung behinderter und von Behinderung
   bedrohter Kinder
+jurabk: FrühV
 layout: default
-slug: fr_hv
+origslug: fr_hv
+slug: fruehv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Bundes-Tierärzteordnung
+jurabk: BTÄO
 layout: default
-slug: bt_o
+origslug: bt_o
+slug: btaeo
 
 ---
 

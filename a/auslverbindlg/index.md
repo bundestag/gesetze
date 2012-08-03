@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Zahlungsverbindlichkeiten gegenüber dem Ausland
+jurabk: AuslVerbindlG
 layout: default
+origslug: auslverbindlg
 slug: auslverbindlg
 
 ---

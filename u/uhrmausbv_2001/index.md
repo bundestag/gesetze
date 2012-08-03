@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
+jurabk: UhrmAusbV 2001
 layout: default
+origslug: uhrmausbv_2001
 slug: uhrmausbv_2001
 
 ---

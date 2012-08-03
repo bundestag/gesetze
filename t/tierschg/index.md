@@ -1,6 +1,8 @@
 ---
 Title: Tierschutzgesetz
+jurabk: TierSchG
 layout: default
+origslug: tierschg
 slug: tierschg
 
 ---

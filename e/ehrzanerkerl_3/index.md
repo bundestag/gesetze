@@ -1,6 +1,8 @@
 ---
 Title: Dritter Erlaß über die Anerkennung als Ehrenzeichen
+jurabk: EhrZAnerkErl 3
 layout: default
+origslug: ehrzanerkerl_3
 slug: ehrzanerkerl_3
 
 ---

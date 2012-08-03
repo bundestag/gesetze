@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Vergabe von Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung
   und der Energieversorgung
+jurabk: SektVO
 layout: default
+origslug: sektvo
 slug: sektvo
 
 ---

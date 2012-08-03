@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Kreuzungen von Eisenbahnen und Straßen
+jurabk: EBKrG
 layout: default
+origslug: ebkrg
 slug: ebkrg
 
 ---

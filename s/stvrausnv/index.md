@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
+jurabk: StVRAusnV
 layout: default
+origslug: stvrausnv
 slug: stvrausnv
 
 ---

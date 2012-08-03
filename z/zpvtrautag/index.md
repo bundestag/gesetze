@@ -3,7 +3,9 @@ Title: Gesetz zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschl
   und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und
   Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
   in Zivil- und Handelssachen
+jurabk: ZPVtrAUTAG
 layout: default
+origslug: zpvtrautag
 slug: zpvtrautag
 
 ---

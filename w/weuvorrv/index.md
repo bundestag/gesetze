@@ -2,7 +2,9 @@
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Westeuropäische
   Union, die nationalen Vertreter, das internationale Personal und die für die Westeuropäische
   Union tätigen Sachverständigen
+jurabk: WEUVorRV
 layout: default
+origslug: weuvorrv
 slug: weuvorrv
 
 ---

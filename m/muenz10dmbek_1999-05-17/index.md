@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze "50 Jahre SOS-Kinderdörfer")
+jurabk: Münz10DMBek 1999-05-17
 layout: default
-slug: m_nz10dmbek_1999-05-17
+origslug: m_nz10dmbek_1999-05-17
+slug: muenz10dmbek_1999-05-17
 
 ---
 

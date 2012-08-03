@@ -1,6 +1,8 @@
 ---
 Title: Satzung der Bundesanstalt für Landwirtschaft und Ernährung
+jurabk: BLES
 layout: default
+origslug: bles
 slug: bles
 
 ---

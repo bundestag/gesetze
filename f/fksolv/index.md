@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Angemessenheit der Eigenmittelausstattung von Finanzkonglomeraten
+jurabk: FkSolV
 layout: default
+origslug: fksolv
 slug: fksolv
 
 ---

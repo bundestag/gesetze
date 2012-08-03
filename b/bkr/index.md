@@ -1,7 +1,9 @@
 ---
 Title: Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung
   der Bausparkassen
+jurabk: BKR
 layout: default
+origslug: bkr
 slug: bkr
 
 ---

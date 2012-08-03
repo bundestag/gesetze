@@ -1,7 +1,9 @@
 ---
 Title: Protokoll über Vorrechte, Befreiungen und Immunitäten der Internationalen Fernmeldesatellitenorganisationen
   INTELSAT
+jurabk: INTELSATVorRProt
 layout: default
+origslug: intelsatvorrprot
 slug: intelsatvorrprot
 
 ---

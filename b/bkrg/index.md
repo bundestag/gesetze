@@ -1,6 +1,8 @@
 ---
 Title: Bundeskrebsregisterdatengesetz
+jurabk: BKRG
 layout: default
+origslug: bkrg
 slug: bkrg
 
 ---

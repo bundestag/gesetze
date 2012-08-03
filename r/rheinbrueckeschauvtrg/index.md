@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Vertrag vom 5. Juni 1996 zwischen der Bundesrepublik Deutschland
   und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen
   Altenheim und Eschau
+jurabk: RheinBrückEschauVtrG
 layout: default
-slug: rheinbr_ckeschauvtrg
+origslug: rheinbr_ckeschauvtrg
+slug: rheinbrueckeschauvtrg
 
 ---
 

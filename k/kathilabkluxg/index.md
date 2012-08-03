@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 2. März 1978 zwischen der Bundesrepublik Deutschland
   und dem Großherzogtum Luxemburg über die gegenseitige Hilfeleistung bei Katastrophen
   oder schweren Unglücksfällen
+jurabk: KatHiLAbkLUXG
 layout: default
+origslug: kathilabkluxg
 slug: kathilabkluxg
 
 ---

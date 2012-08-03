@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften
   vorgenommenen Anpflanzungen
+jurabk: AnpflEigentG
 layout: default
+origslug: anpfleigentg
 slug: anpfleigentg
 
 ---

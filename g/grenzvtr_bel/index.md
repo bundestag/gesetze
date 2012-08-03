@@ -2,7 +2,9 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem KÖnigreich Belgien
   über eine Berichtigung der deutsch-belgischen Grenze und andere die Beziehungen
   zwischen beiden Ländern betreffende Fragen
+jurabk: GrenzVtr BEL
 layout: default
+origslug: grenzvtr_bel
 slug: grenzvtr_bel
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 8. April 1965 zur Einsetzung eines gemeinsamen Rates
   und einer gemeinsamen Kommission der Europäischen Gemeinschaften
+jurabk: EGVertrG
 layout: default
+origslug: egvertrg
 slug: egvertrg
 
 ---

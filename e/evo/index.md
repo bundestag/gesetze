@@ -1,6 +1,8 @@
 ---
 Title: Eisenbahn-Verkehrsordnung
+jurabk: EVO
 layout: default
+origslug: evo
 slug: evo
 
 ---

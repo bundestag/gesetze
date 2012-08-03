@@ -4,7 +4,9 @@ Anhänger sowie für Systeme, Bauteile und selbstständige technische
 Einheiten für diese Fahrzeuge
 ---
 Title: ''
+jurabk: EG-FGV 2011
 layout: default
+origslug: eg-fgv_2011
 slug: eg-fgv_2011
 
 ---

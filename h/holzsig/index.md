@@ -1,6 +1,8 @@
 ---
 Title: Gesetz gegen den Handel mit illegal eingeschlagenem Holz
+jurabk: HolzSiG
 layout: default
+origslug: holzsig
 slug: holzsig
 
 ---

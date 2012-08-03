@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung im Bereich der Informations- und Telekommunikationstechnik
+jurabk: ITKTAusbV
 layout: default
+origslug: itktausbv
 slug: itktausbv
 
 ---

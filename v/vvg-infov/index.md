@@ -2,7 +2,9 @@
 Verordnung über Informationspflichten bei Versicherungsverträgen
 ---
 Title: ''
+jurabk: VVG-InfoV
 layout: default
+origslug: vvg-infov
 slug: vvg-infov
 
 ---

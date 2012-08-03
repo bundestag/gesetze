@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrzeugen
   im Werkverkehr nach dem Einigungsvertrag
+jurabk: KfzAnmVerlG
 layout: default
+origslug: kfzanmverlg
 slug: kfzanmverlg
 
 ---

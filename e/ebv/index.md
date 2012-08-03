@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bestellung und Bestätigung sowie die Aufgaben und Befugnisse
   von Betriebsleitern für Eisenbahnen
+jurabk: EBV
 layout: default
+origslug: ebv
 slug: ebv
 
 ---

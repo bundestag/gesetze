@@ -1,6 +1,8 @@
 ---
 Title: Branntweinmonopolverordnung
+jurabk: BrMV
 layout: default
+origslug: brmv
 slug: brmv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Jugendgerichtsgesetz
+jurabk: JGG
 layout: default
+origslug: jgg
 slug: jgg
 
 ---

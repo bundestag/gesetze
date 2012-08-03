@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Litauen über
   die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+jurabk: KatHiLAbk LIT
 layout: default
+origslug: kathilabk_lit
 slug: kathilabk_lit
 
 ---

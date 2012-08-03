@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen
   von Abfällen und anderen Stoffen
+jurabk: MeerAbfSchAbk
 layout: default
+origslug: meerabfschabk
 slug: meerabfschabk
 
 ---

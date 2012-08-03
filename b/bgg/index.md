@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Gleichstellung behinderter Menschen
+jurabk: BGG
 layout: default
+origslug: bgg
 slug: bgg
 
 ---

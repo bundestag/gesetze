@@ -1,7 +1,9 @@
 ---
 Title: Strompolizeiverordnung zum Schutz bundeseigener Schifffahrts- und Betriebsanlagen
   an Bundeswasserstraßen im Bereich der Wasser- und Schifffahrtsdirektion Ost
+jurabk: WSD-Ost-BetrAnlV 2010
 layout: default
+origslug: wsd-ost-betranlv_2010
 slug: wsd-ost-betranlv_2010
 
 ---

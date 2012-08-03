@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in
   Bund und Ländern
+jurabk: BesVNG 2
 layout: default
+origslug: besvng_2
 slug: besvng_2
 
 ---

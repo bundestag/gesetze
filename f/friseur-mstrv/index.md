@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Friseur-Handwerk
+jurabk: Friseur-MstrV
 layout: default
+origslug: friseur-mstrv
 slug: friseur-mstrv
 
 ---

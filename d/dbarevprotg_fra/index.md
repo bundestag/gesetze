@@ -4,7 +4,9 @@ Title: Gesetz zu dem Revisionsprotokoll vom 9. Juni 1969 zu dem am 21. Juli 1959
   Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und
   Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der
   Gewerbesteuern und der Grundsteuern
+jurabk: DBARevProtG FRA
 layout: default
+origslug: dbarevprotg_fra
 slug: dbarevprotg_fra
 
 ---

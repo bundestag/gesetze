@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden
   über die Wiederherstellung gewerblicher Schutzrechte
+jurabk: SchutzRAbk SWE
 layout: default
+origslug: schutzrabk_swe
 slug: schutzrabk_swe
 
 ---

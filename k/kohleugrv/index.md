@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Maßstäbe für die Ermittlung der optimalen Unternehmensgrößen
   im Steinkohlenbergbau
+jurabk: KohleUGrV
 layout: default
+origslug: kohleugrv
 slug: kohleugrv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Förderung von Wagniskapitalbeteiligungen
+jurabk: WKBG
 layout: default
+origslug: wkbg
 slug: wkbg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Träger der gesetzlichen Sozialversicherung im Bereich der früheren
   Deutschen Bundespost
+jurabk: PostSVOrgG
 layout: default
+origslug: postsvorgg
 slug: postsvorgg
 
 ---

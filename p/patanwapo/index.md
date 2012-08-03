@@ -1,7 +1,9 @@
 ---
 Title: Ausbildungs- und Prüfungsordnung nach § 12 der Patentanwaltsordnung und Prüfungsordnung
   nach § 10 des Gesetzes über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft
+jurabk: PatAnwAPO
 layout: default
+origslug: patanwapo
 slug: patanwapo
 
 ---

@@ -3,8 +3,10 @@ Title: Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 �
   die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in
   Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die
   Beweisaufnahme im Ausland in Zivil- oder Handelssachen
+jurabk: HaagÜbkAG
 layout: default
-slug: haag_bkag
+origslug: haag_bkag
+slug: haaguebkag
 
 ---
 

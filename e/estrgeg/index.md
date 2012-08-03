@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Einkommensteuerreformgesetz
+jurabk: EStRGEG
 layout: default
+origslug: estrgeg
 slug: estrgeg
 
 ---

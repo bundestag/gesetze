@@ -1,6 +1,8 @@
 ---
 Title: Scheckgesetz
+jurabk: ScheckG
 layout: default
+origslug: scheckg
 slug: scheckg
 
 ---

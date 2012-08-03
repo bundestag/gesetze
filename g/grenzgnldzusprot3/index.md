@@ -3,7 +3,9 @@ Title: Drittes Zusatzprotokoll zum Abkommen vom 16. Juni 1959 zwischen der Bunde
   Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung
   auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger
   Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete
+jurabk: GrenzgNLDZusProt3
 layout: default
+origslug: grenzgnldzusprot3
 slug: grenzgnldzusprot3
 
 ---

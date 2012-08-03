@@ -1,6 +1,8 @@
 ---
 Title: Investmentsteuergesetz
+jurabk: InvStG
 layout: default
+origslug: invstg
 slug: invstg
 
 ---

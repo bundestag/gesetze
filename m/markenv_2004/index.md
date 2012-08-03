@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausführung des Markengesetzes
+jurabk: MarkenV 2004
 layout: default
+origslug: markenv_2004
 slug: markenv_2004
 
 ---

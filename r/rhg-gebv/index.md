@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Kosten des Verfahrens im Rahmen der Festsetzung der Rückstandshöchstgehalte
   in Lebens- und Futtermitteln
+jurabk: RHG-GebV
 layout: default
+origslug: rhg-gebv
 slug: rhg-gebv
 
 ---

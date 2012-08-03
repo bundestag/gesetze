@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über konjunkturstatistische Erhebungen in bestimmten Dienstleistungsbereichen
+jurabk: DLKonjStatG 2007
 layout: default
+origslug: dlkonjstatg_2007
 slug: dlkonjstatg_2007
 
 ---

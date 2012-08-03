@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Olympiamünze)
+jurabk: OlympiaMünzBek 1970
 layout: default
-slug: olympiam_nzbek_1970
+origslug: olympiam_nzbek_1970
+slug: olympiamuenzbek_1970
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den erhöhten Wehrsold für Soldaten mit besonderer zeitlicher
   Belastung
+jurabk: WSzBelErhV
 layout: default
+origslug: wszbelerhv
 slug: wszbelerhv
 
 ---

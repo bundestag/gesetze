@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Bekämpfung der Bestechung ausländischer Amtsträger im
   internationalen Geschäftsverkehr
+jurabk: IntBestÜbk
 layout: default
-slug: intbest_bk
+origslug: intbest_bk
+slug: intbestuebk
 
 ---
 

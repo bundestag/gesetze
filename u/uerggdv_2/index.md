@@ -3,7 +3,9 @@ Title: Zweite Durchführungsverordnung zum Gesetz über die Ergänzung von Vorsc
   des Umstellungsrechts und über die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen
   (Umstellungsergänzungsgesetz) (Anmeldung von Ansprüchen aus Schuldverschreibungen
   Berliner Altbanken)
+jurabk: UErgGDV 2
 layout: default
+origslug: uerggdv_2
 slug: uerggdv_2
 
 ---

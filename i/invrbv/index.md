@@ -2,7 +2,9 @@
 Title: Verordnung über Inhalt, Umfang und Darstellung der Rechnungslegung von Sondervermögen
   und Investmentaktiengesellschaften sowie die Bewertung der einem Investmentvermögen
   zugehörigen Vermögensgegenstände
+jurabk: InvRBV
 layout: default
+origslug: invrbv
 slug: invrbv
 
 ---

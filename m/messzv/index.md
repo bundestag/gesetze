@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Rahmenbedingungen für den Messstellenbetrieb und die Messung
   im Bereich der leitungsgebundenen Elektrizitäts- und Gasversorgung
+jurabk: MessZV
 layout: default
+origslug: messzv
 slug: messzv
 
 ---

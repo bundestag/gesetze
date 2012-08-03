@@ -3,7 +3,9 @@ Title: Gesetz zu dem Protokoll vom 29. November 1996 aufgrund von Artikel K.3 de
   Vertrags über die Europäische Union betreffend die Auslegung des Übereinkommens
   über den Schutz der finanziellen Interessen der Europäischen Gemeinschaften durch
   den Gerichtshof der Europäischen Gemeinschaften im Wege der Vorabentscheidung
+jurabk: EGFinSchAProtG
 layout: default
+origslug: egfinschaprotg
 slug: egfinschaprotg
 
 ---

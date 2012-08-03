@@ -5,8 +5,10 @@ Title: Gesetz zu dem Übereinkommen vom 11. Dezember 1987 zwischen den Vereinigt
   Großbritannien und Nordirland über Inspektionen in bezug auf den Vertrag zwischen
   den Vereinigten Staaten von Amerika und der Union der Sozialistischen Sowjetrepubliken
   über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite
+jurabk: FlugkmkRBÜbkG
 layout: default
-slug: flugkmkrb_bkg
+origslug: flugkmkrb_bkg
+slug: flugkmkrbuebkg
 
 ---
 

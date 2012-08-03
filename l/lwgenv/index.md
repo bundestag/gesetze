@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zugehörigkeit von Zusammenschlüssen landwirtschaftlicher
   Genossenschaften zu den Industrie- und Handelskammern
+jurabk: LwGenV
 layout: default
+origslug: lwgenv
 slug: lwgenv
 
 ---

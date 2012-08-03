@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Handelsgesetzbuch
+jurabk: HGBEG
 layout: default
+origslug: hgbeg
 slug: hgbeg
 
 ---

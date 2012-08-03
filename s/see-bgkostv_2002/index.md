@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung für Amtshandlungen der See-Berufsgenossenschaft
+jurabk: See-BGKostV 2002
 layout: default
+origslug: see-bgkostv_2002
 slug: see-bgkostv_2002
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Karibischen
   Entwicklungsbank
+jurabk: KaEntwBkÜbkG
 layout: default
-slug: kaentwbk_bkg
+origslug: kaentwbk_bkg
+slug: kaentwbkuebkg
 
 ---
 

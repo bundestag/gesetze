@@ -3,7 +3,9 @@ Verordnung über die Einsatzbedingungen des fahrenden Personals im
 interoperablen grenzüberschreitenden Eisenbahnverkehr
 ---
 Title: ''
+jurabk: EFPV
 layout: default
+origslug: efpv
 slug: efpv
 
 ---

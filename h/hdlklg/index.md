@@ -1,6 +1,8 @@
 ---
 Title: Handelsklassengesetz
+jurabk: HdlKlG
 layout: default
+origslug: hdlklg
 slug: hdlklg
 
 ---

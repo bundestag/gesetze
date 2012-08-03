@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Höhe der Maut für die Benutzung des Warnowtunnels
+jurabk: WarnowMautHV
 layout: default
+origslug: warnowmauthv
 slug: warnowmauthv
 
 ---

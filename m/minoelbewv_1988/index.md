@@ -1,7 +1,9 @@
 ---
 Title: Mineralölbewirtschaftungs-Verordnung
+jurabk: MinÖlBewV 1988
 layout: default
-slug: min_lbewv_1988
+origslug: min_lbewv_1988
+slug: minoelbewv_1988
 
 ---
 

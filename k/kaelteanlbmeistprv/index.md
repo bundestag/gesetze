@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Kälteanlagenbauer-Handwerk
+jurabk: KälteAnlBMeistPrV
 layout: default
-slug: k_lteanlbmeistprv
+origslug: k_lteanlbmeistprv
+slug: kaelteanlbmeistprv
 
 ---
 

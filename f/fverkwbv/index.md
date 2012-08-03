@@ -1,6 +1,8 @@
 ---
 Title: Fernverkehrswegebestimmungsverordnung
+jurabk: FVerkWBV
 layout: default
+origslug: fverkwbv
 slug: fverkwbv
 
 ---

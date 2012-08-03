@@ -1,8 +1,10 @@
 ---
 Title: Zweites Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen
   aus Lebens- und Rentenversicherungen
+jurabk: VersAnsprReglGÄndG 2
 layout: default
-slug: versansprreglg_ndg_2
+origslug: versansprreglg_ndg_2
+slug: versansprreglgaendg_2
 
 ---
 

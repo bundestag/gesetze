@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinrichtungen
   des Bundes
+jurabk: KostVGes
 layout: default
+origslug: kostvges
 slug: kostvges
 
 ---

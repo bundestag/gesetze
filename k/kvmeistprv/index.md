@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Meister für Kraftverkehr und Geprüfte Meisterin für Kraftverkehr
+jurabk: KVMeistPrV
 layout: default
+origslug: kvmeistprv
 slug: kvmeistprv
 
 ---

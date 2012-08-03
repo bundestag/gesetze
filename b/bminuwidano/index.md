@@ -4,7 +4,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten nach dem Bundesumzugskostengesetz
   einschließlich der hierzu ergangenen Trennungsgeldverordnung in Verbindung mit dem
   Dienstrechtlichen Begleitgesetz
+jurabk: BMinUWidAnO
 layout: default
+origslug: bminuwidano
 slug: bminuwidano
 
 ---

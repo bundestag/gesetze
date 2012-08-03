@@ -1,6 +1,8 @@
 ---
 Title: Seemannsgesetz
+jurabk: SeemG
 layout: default
+origslug: seemg
 slug: seemg
 
 ---

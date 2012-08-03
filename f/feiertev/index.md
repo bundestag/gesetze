@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Einführung gesetzlicher Feiertage
+jurabk: FeiertEV
 layout: default
+origslug: feiertev
 slug: feiertev
 
 ---

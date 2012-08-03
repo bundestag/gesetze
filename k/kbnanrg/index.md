@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Nichtanrechnung des Kinderbonus
+jurabk: KBNAnrG
 layout: default
+origslug: kbnanrg
 slug: kbnanrg
 
 ---

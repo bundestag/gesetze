@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35ITABek
 layout: default
+origslug: wzg_35itabek
 slug: wzg_35itabek
 
 ---

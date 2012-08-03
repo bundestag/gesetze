@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Ermächtigung des Landes Baden-Württemberg zur Rechtsbereinigung
+jurabk: BWRBerErmG
 layout: default
+origslug: bwrberermg
 slug: bwrberermg
 
 ---

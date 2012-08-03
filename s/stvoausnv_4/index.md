@@ -1,6 +1,8 @@
 ---
 Title: Vierte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
+jurabk: StVOAusnV 4
 layout: default
+origslug: stvoausnv_4
 slug: stvoausnv_4
 
 ---

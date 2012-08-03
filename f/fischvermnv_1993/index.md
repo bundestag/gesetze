@@ -2,7 +2,9 @@
 Title: Verordnung über Vermarktungsnormen für Fischereierzeugnisse (Artikel 1 der
   Verordnung über Vermarktungsnormen für Fischereierzeugnisse und zur Änderung der
   Wein-Verordnung)
+jurabk: FischVermNV 1993
 layout: default
+origslug: fischvermnv_1993
 slug: fischvermnv_1993
 
 ---

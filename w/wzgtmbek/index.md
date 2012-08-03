@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Guatemala
+jurabk: WZGTMBek
 layout: default
+origslug: wzgtmbek
 slug: wzgtmbek
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gutenberg-Gedenkmünze)
+jurabk: Münz5DMBek 1968-10-31
 layout: default
-slug: m_nz5dmbek_1968-10-31
+origslug: m_nz5dmbek_1968-10-31
+slug: muenz5dmbek_1968-10-31
 
 ---
 

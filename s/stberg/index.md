@@ -1,6 +1,8 @@
 ---
 Title: Steuerberatungsgesetz
+jurabk: StBerG
 layout: default
+origslug: stberg
 slug: stberg
 
 ---

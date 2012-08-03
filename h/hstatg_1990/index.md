@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik für das Hochschulwesen
+jurabk: HStatG 1990
 layout: default
+origslug: hstatg_1990
 slug: hstatg_1990
 
 ---

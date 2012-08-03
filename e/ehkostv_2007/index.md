@@ -1,7 +1,9 @@
 ---
 Title: Kostenverordnung zum Treibhausgas-Emissionshandelsgesetz und zum Zuteilungsgesetz
   2007
+jurabk: EHKostV 2007
 layout: default
+origslug: ehkostv_2007
 slug: ehkostv_2007
 
 ---

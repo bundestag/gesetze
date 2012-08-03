@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Seesicherheits-Untersuchungs-Gesetzes
+jurabk: SeeUGDV
 layout: default
+origslug: seeugdv
 slug: seeugdv
 
 ---

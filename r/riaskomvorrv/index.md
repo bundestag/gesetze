@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die RIAS BERLIN-Kommission
+jurabk: RIASKomVorRV
 layout: default
+origslug: riaskomvorrv
 slug: riaskomvorrv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen
+jurabk: KonsÜbkG
 layout: default
-slug: kons_bkg
+origslug: kons_bkg
+slug: konsuebkg
 
 ---
 

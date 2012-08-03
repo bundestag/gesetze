@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Deutsche Reichsbank
+jurabk: RBkG
 layout: default
+origslug: rbkg
 slug: rbkg
 
 ---

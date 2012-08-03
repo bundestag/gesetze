@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik
   Deutschland
+jurabk: EuWG
 layout: default
+origslug: euwg
 slug: euwg
 
 ---

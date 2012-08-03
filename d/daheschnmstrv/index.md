@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Damen- und Herrenschneider-Handwerk
+jurabk: DaHeSchnMstrV
 layout: default
+origslug: daheschnmstrv
 slug: daheschnmstrv
 
 ---

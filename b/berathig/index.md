@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Rechtsberatung und Vertretung für Bürger mit geringem Einkommen
+jurabk: BeratHiG
 layout: default
+origslug: berathig
 slug: berathig
 
 ---

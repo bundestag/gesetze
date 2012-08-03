@@ -2,7 +2,9 @@
 Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
 ---
 Title: ''
+jurabk: HopfV
 layout: default
+origslug: hopfv
 slug: hopfv
 
 ---

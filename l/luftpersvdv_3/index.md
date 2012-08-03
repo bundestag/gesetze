@@ -1,6 +1,8 @@
 ---
 Title: Dritte Durchführungsverordnung zur Verordnung Luftfahrtpersonal
+jurabk: LuftPersVDV 3
 layout: default
+origslug: luftpersvdv_3
 slug: luftpersvdv_3
 
 ---

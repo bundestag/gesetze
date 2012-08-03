@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Deutsche Patent- und Markenamt
+jurabk: DPMAV 2004
 layout: default
+origslug: dpmav_2004
 slug: dpmav_2004
 
 ---

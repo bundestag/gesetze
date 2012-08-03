@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die fachlichen Anforderungen an die in der Futtermittelüberwachung
   tätigen Kontrolleure
+jurabk: FuttMKontrV
 layout: default
+origslug: futtmkontrv
 slug: futtmkontrv
 
 ---

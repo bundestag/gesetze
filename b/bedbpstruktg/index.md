@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen
   und in den Postnachfolgeunternehmen
+jurabk: BEDBPStruktG
 layout: default
+origslug: bedbpstruktg
 slug: bedbpstruktg
 
 ---

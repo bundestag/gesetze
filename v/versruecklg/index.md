@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über eine Versorgungsrücklage des Bundes
+jurabk: VersRücklG
 layout: default
-slug: versr_cklg
+origslug: versr_cklg
+slug: versruecklg
 
 ---
 

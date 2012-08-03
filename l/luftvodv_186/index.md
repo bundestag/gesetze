@@ -2,7 +2,9 @@
 Title: Hundertsechsundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
   Flughafen Köln-Bonn)
+jurabk: LuftVODV 186
 layout: default
+origslug: luftvodv_186
 slug: luftvodv_186
 
 ---

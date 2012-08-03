@@ -4,7 +4,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   für Arzneimittel und Medizinprodukte in Angelegenheiten nach dem Bundesumzugskostengesetz
   einschließlich der hierzu ergangenen Trennungsgeldverordnung in Verbindung mit dem
   Dienstrechtlichen Begleitgesetz sowie in Beihilfeangelegenheiten
+jurabk: BfArMZustAnO
 layout: default
+origslug: bfarmzustano
 slug: bfarmzustano
 
 ---

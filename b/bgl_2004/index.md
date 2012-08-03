@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung
   der Landwirte für 2004
+jurabk: BGL 2004
 layout: default
+origslug: bgl_2004
 slug: bgl_2004
 
 ---

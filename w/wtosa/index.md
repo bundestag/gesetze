@@ -1,6 +1,8 @@
 ---
 Title: Satzung der Weltorganisation für Tourismus
+jurabk: WTOSa
 layout: default
+origslug: wtosa
 slug: wtosa
 
 ---

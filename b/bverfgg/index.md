@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Bundesverfassungsgericht
+jurabk: BVerfGG
 layout: default
+origslug: bverfgg
 slug: bverfgg
 
 ---

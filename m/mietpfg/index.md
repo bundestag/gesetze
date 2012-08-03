@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Pfändung von Miet- und Pachtzinsforderungen wegen Ansprüche
   aus öffentlichen Grundstückslasten
+jurabk: MietPfG
 layout: default
+origslug: mietpfg
 slug: mietpfg
 
 ---

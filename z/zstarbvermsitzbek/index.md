@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Dienstsitz der Zentralstelle für Arbeitsvermittlung
+jurabk: ZStArbVermSitzBek
 layout: default
+origslug: zstarbvermsitzbek
 slug: zstarbvermsitzbek
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verbesserung der steuerlichen Bedingungen zur Sicherung des Wirtschaftsstandorts
   Deutschland im Europäischen Binnenmarkt
+jurabk: StandOG
 layout: default
+origslug: standog
 slug: standog
 
 ---

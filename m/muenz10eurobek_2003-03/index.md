@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze "200. Geburtstag des Chemikers Justus von Liebig")
+jurabk: Münz10EuroBek 2003-03
 layout: default
-slug: m_nz10eurobek_2003-03
+origslug: m_nz10eurobek_2003-03
+slug: muenz10eurobek_2003-03
 
 ---
 

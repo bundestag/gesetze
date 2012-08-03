@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Errichtung der Afrikanischen Entwicklungsbank
+jurabk: AfrEntwBkÜbk
 layout: default
-slug: afrentwbk_bk
+origslug: afrentwbk_bk
+slug: afrentwbkuebk
 
 ---
 

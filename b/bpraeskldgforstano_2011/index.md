@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über die Dienstkleidung
   der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben
+jurabk: BPräsKldgForstAnO 2011
 layout: default
-slug: bpr_skldgforstano_2011
+origslug: bpr_skldgforstano_2011
+slug: bpraeskldgforstano_2011
 
 ---
 

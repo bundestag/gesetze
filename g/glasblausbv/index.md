@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Glasbläser/zur Glasbläserin
+jurabk: GlasblAusbV
 layout: default
+origslug: glasblausbv
 slug: glasblausbv
 
 ---

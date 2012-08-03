@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Spangdahlem
+jurabk: FluLärmSpangV
 layout: default
-slug: flul_rmspangv
+origslug: flul_rmspangv
+slug: flulaermspangv
 
 ---
 

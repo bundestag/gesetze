@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch
+jurabk: IntKonnBek 1990
 layout: default
+origslug: intkonnbek_1990
 slug: intkonnbek_1990
 
 ---

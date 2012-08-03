@@ -1,6 +1,8 @@
 ---
 Title: Dritte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+jurabk: BEGDV 3
 layout: default
+origslug: begdv_3
 slug: begdv_3
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr.
   1774/2002
+jurabk: TierNebBußV
 layout: default
-slug: tiernebbu_v
+origslug: tiernebbu_v
+slug: tiernebbussv
 
 ---
 

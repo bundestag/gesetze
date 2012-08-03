@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung des Deutschen Binnenschifffahrtsfonds
+jurabk: BinSchFondsG
 layout: default
+origslug: binschfondsg
 slug: binschfondsg
 
 ---

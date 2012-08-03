@@ -1,6 +1,8 @@
 ---
 Title: Geschäftsordnung für den Gemeinsamen Ausschuß
+jurabk: GemAusGO
 layout: default
+origslug: gemausgo
 slug: gemausgo
 
 ---

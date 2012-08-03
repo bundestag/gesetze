@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Sicherung der Düngemittel- und Saatgutversorgung
+jurabk: DüngMSaatG
 layout: default
-slug: d_ngmsaatg
+origslug: d_ngmsaatg
+slug: duengmsaatg
 
 ---
 

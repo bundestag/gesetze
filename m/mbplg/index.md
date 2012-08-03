@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen
+jurabk: MBPlG
 layout: default
+origslug: mbplg
 slug: mbplg
 
 ---

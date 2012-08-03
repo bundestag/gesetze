@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Aufbereitungsmechaniker/zur Aufbereitungsmechanikerin
+jurabk: AMAusbV 2004
 layout: default
+origslug: amausbv_2004
 slug: amausbv_2004
 
 ---

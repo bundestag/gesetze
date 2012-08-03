@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schiffsmechaniker/zur Schiffsmechanikerin
   und über den Erwerb des Schiffsmechanikerbriefes
+jurabk: SMAusbV 1994
 layout: default
+origslug: smausbv_1994
 slug: smausbv_1994
 
 ---

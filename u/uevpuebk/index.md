@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Überstellung verurteilter Personen
+jurabk: ÜvPÜbk
 layout: default
-slug: _vp_bk
+origslug: _vp_bk
+slug: uevpuebk
 
 ---
 

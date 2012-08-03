@@ -2,7 +2,9 @@
 Title: Zweihundertsechste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
   Emden)
+jurabk: LuftVODV 206
 layout: default
+origslug: luftvodv_206
 slug: luftvodv_206
 
 ---

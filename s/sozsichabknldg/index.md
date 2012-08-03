@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 18. April 2001 zwischen der Bundesrepublik Deutschland
   und dem Königreich der Niederlande über Soziale Sicherheit
+jurabk: SozSichAbkNLDG
 layout: default
+origslug: sozsichabknldg
 slug: sozsichabknldg
 
 ---

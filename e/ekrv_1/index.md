@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kosten von Maßnahmen nach dem Eisenbahnkreuzungsgesetz
+jurabk: EKrV 1
 layout: default
+origslug: ekrv_1
 slug: ekrv_1
 
 ---

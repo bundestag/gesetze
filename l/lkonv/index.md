@@ -2,7 +2,9 @@
 Title: Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2  Nr.
   3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung
   tätigen Lebensmittelkontrolleure
+jurabk: LKonV
 layout: default
+origslug: lkonv
 slug: lkonv
 
 ---

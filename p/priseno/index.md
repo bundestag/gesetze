@@ -1,6 +1,8 @@
 ---
 Title: Prisenordnung
+jurabk: PrisenO
 layout: default
+origslug: priseno
 slug: priseno
 
 ---

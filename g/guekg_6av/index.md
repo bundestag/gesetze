@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des Güterkraftverkehrsgesetzes
+jurabk: GüKG§6aV
 layout: default
-slug: g_kg_6av
+origslug: g_kg_6av
+slug: guekg_6av
 
 ---
 

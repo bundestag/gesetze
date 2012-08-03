@@ -1,6 +1,8 @@
 ---
 Title: Frequenzbereichszuweisungsplanverordnung
+jurabk: FreqBZPV 2004
 layout: default
+origslug: freqbzpv_2004
 slug: freqbzpv_2004
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Meß- und Eichwesen
+jurabk: EichG
 layout: default
+origslug: eichg
 slug: eichg
 
 ---

@@ -4,7 +4,9 @@ Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch
 [^F775632_03_BJNR261810005]
 ---
 Title: ''
+jurabk: LFGB
 layout: default
+origslug: lfgb
 slug: lfgb
 
 ---

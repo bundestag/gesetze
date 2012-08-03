@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur
 Technischen Konfektionärin
 ---
 Title: ''
+jurabk: TKonfAusbV 2010
 layout: default
+origslug: tkonfausbv_2010
 slug: tkonfausbv_2010
 
 ---

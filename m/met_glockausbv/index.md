@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Metall- und Glockengießer/zur Metall-
   und Glockengießerin
+jurabk: Met/GlockAusbV
 layout: default
+origslug: met_glockausbv
 slug: met_glockausbv
 
 ---

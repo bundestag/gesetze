@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verbesserung der Haushaltsstruktur
+jurabk: HStruktG
 layout: default
+origslug: hstruktg
 slug: hstruktg
 
 ---

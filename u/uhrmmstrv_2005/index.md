@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Uhrmacher-Handwerk
+jurabk: UhrmMstrV 2005
 layout: default
+origslug: uhrmmstrv_2005
 slug: uhrmmstrv_2005
 
 ---

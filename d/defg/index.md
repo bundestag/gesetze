@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Fonds "Deutsche Einheit"
+jurabk: DEFG
 layout: default
+origslug: defg
 slug: defg
 
 ---

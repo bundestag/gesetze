@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Lehrgänge nach dem Tierzuchtgesetz
+jurabk: TierZG1989LehrgV
 layout: default
+origslug: tierzg1989lehrgv
 slug: tierzg1989lehrgv
 
 ---

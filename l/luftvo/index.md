@@ -1,6 +1,8 @@
 ---
 Title: Luftverkehrs-Ordnung
+jurabk: LuftVO
 layout: default
+origslug: luftvo
 slug: luftvo
 
 ---

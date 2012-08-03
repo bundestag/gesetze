@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Fahrpersonalgesetzes
+jurabk: FPersV
 layout: default
+origslug: fpersv
 slug: fpersv
 
 ---

@@ -2,7 +2,9 @@
 Title: Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages
   betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze
   in Immunitätsangelegenheiten
+jurabk: BTGO1980Anl6Bek 2002
 layout: default
+origslug: btgo1980anl6bek_2002
 slug: btgo1980anl6bek_2002
 
 ---

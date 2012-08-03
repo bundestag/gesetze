@@ -1,6 +1,8 @@
 ---
 Title: Fünfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
+jurabk: StVOAusnV 5
 layout: default
+origslug: stvoausnv_5
 slug: stvoausnv_5
 
 ---

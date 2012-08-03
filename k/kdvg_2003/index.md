@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Verweigerung des Kriegsdienstes mit der Waffe aus Gewissensgründen
+jurabk: KDVG 2003
 layout: default
+origslug: kdvg_2003
 slug: kdvg_2003
 
 ---

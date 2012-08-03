@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Aufhebung des Fischwirtschaftsgesetzes und der Fischwirtschaftsverordnung
+jurabk: FischWiVorschrAufhG
 layout: default
+origslug: fischwivorschraufhg
 slug: fischwivorschraufhg
 
 ---

@@ -5,7 +5,9 @@ Title: Gesetz zu dem Übereinkommen vom 23. Oktober 1969 zur Erhaltung der leben
   zur Konvention vom 13. September 1973 über die Fischerei und den Schutz der lebenden
   Ressourcen in der Ostsee und den Belten sowie zur Änderung des Seefischerei-Vertragsgesetzes
   1971
+jurabk: SeeFischVtrG 1976
 layout: default
+origslug: seefischvtrg_1976
 slug: seefischvtrg_1976
 
 ---

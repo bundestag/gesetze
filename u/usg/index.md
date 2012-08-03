@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Sicherung des Unterhalts der zum Wehrdienst einberufenen Wehrpflichtigen
   und ihrer Angehörigen
+jurabk: USG
 layout: default
+origslug: usg
 slug: usg
 
 ---

@@ -5,7 +5,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   Naturschutz und Reaktorsicherheit in Angelegenheiten der Allgemeinen Verwaltungsvorschrift
   für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen (Beihilfevorschriften
   - BhV)
+jurabk: BMinUBhVZustAnO
 layout: default
+origslug: bminubhvzustano
 slug: bminubhvzustano
 
 ---

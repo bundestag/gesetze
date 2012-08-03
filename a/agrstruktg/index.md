@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des
   Küstenschutzes"
+jurabk: AgrStruktG
 layout: default
+origslug: agrstruktg
 slug: agrstruktg
 
 ---

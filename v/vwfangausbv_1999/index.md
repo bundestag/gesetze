@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten
+jurabk: VwFAngAusbV 1999
 layout: default
+origslug: vwfangausbv_1999
 slug: vwfangausbv_1999
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme
+jurabk: AVBFernwärmeV
 layout: default
-slug: avbfernw_rmev
+origslug: avbfernw_rmev
+slug: avbfernwaermev
 
 ---
 

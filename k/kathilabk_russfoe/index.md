@@ -2,8 +2,10 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   der Russischen Föderation über die gegenseitige Hilfeleistung bei Katastrophen oder
   schweren Unglücksfällen
+jurabk: KatHiLAbk RussFö
 layout: default
-slug: kathilabk_russf_
+origslug: kathilabk_russf_
+slug: kathilabk_russfoe
 
 ---
 

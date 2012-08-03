@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung in der Isolier-Industrie
+jurabk: ISAusbV 1997
 layout: default
+origslug: isausbv_1997
 slug: isausbv_1997
 
 ---

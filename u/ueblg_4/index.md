@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung finanzieller Beziehungen zwischen dem Bund und den Ländern
+jurabk: ÜblG 4
 layout: default
-slug: _blg_4
+origslug: _blg_4
+slug: ueblg_4
 
 ---
 

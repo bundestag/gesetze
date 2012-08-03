@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten
   von Amerika über Soziale Sicherheit
+jurabk: SozSichAbk USA
 layout: default
+origslug: sozsichabk_usa
 slug: sozsichabk_usa
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Stromsteuergesetz
+jurabk: StromStG
 layout: default
+origslug: stromstg
 slug: stromstg
 
 ---

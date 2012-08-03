@@ -2,7 +2,9 @@
 Title: Gesetz zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in
   den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und
   Stahl erzeugenden Industrie
+jurabk: MontanMitbestGErgG
 layout: default
+origslug: montanmitbestgergg
 slug: montanmitbestgergg
 
 ---

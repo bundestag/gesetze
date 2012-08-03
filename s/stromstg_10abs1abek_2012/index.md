@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach § 10 Absatz 1a des Stromsteuergesetzes
+jurabk: StromStG§10Abs1aBek 2012
 layout: default
+origslug: stromstg_10abs1abek_2012
 slug: stromstg_10abs1abek_2012
 
 ---

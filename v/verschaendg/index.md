@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung von Vorschriften des Verschollenheitsrechts
+jurabk: VerschÄndG
 layout: default
-slug: versch_ndg
+origslug: versch_ndg
+slug: verschaendg
 
 ---
 

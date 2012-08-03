@@ -2,7 +2,9 @@
 Title: Hundertneununddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flugplatz
   Laage)
+jurabk: LuftVODV 139
 layout: default
+origslug: luftvodv_139
 slug: luftvodv_139
 
 ---

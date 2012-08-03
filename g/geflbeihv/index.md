@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Beihilfen zur Stützung der von den Marktstörungen
   infolge des Auftretens der Vogelgrippe im Jahr 2006 besonders betroffenen Wirtschaftskreise
+jurabk: GeflBeihV
 layout: default
+origslug: geflbeihv
 slug: geflbeihv
 
 ---

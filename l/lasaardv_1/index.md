@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Durchführung des Gesetzes zur Einführung von Vorschriften
   des Lastenausgleichsrechts im Saarland
+jurabk: LASaarDV 1
 layout: default
+origslug: lasaardv_1
 slug: lasaardv_1
 
 ---

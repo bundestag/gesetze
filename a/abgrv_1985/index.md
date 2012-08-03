@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Abgrenzung der im Pflegesatz nicht zu berücksichtigenden
   Investitionskosten von den pflegesatzfähigen Kosten der Krankenhäuser
+jurabk: AbgrV 1985
 layout: default
+origslug: abgrv_1985
 slug: abgrv_1985
 
 ---

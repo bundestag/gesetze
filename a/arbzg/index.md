@@ -1,6 +1,8 @@
 ---
 Title: Arbeitszeitgesetz
+jurabk: ArbZG
 layout: default
+origslug: arbzg
 slug: arbzg
 
 ---

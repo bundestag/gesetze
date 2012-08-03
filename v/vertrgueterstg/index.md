@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den ehelichen Güterstand von Vertriebenen und Flüchtlingen
+jurabk: VertrGüterstG
 layout: default
-slug: vertrg_terstg
+origslug: vertrg_terstg
+slug: vertrgueterstg
 
 ---
 

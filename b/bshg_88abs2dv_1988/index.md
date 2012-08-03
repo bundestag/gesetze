@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des § 90 Abs. 2 Nr. 9 des Zwölften Buches Sozialgesetzbuch
+jurabk: BSHG§88Abs2DV 1988
 layout: default
+origslug: bshg_88abs2dv_1988
 slug: bshg_88abs2dv_1988
 
 ---

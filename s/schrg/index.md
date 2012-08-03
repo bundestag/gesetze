@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Rechte an eingetragenen Schiffen und Schiffsbauwerken
+jurabk: SchRG
 layout: default
+origslug: schrg
 slug: schrg
 
 ---

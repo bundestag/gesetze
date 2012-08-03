@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
+jurabk: RZV
 layout: default
+origslug: rzv
 slug: rzv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Neuordnung der Kassenaufsicht über die Bundeskassen Halle/Saale,
   Kiel, Trier und Weiden
+jurabk: KassNeuOV
 layout: default
+origslug: kassneuov
 slug: kassneuov
 
 ---

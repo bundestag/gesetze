@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach
   dem Finanzdienstleistungsaufsichtsgesetz
+jurabk: FinDAGKostV
 layout: default
+origslug: findagkostv
 slug: findagkostv
 
 ---

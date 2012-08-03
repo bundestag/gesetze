@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die versicherungsmathematischen Methoden zur Prämienkalkulation
   und zur Berechnung der Alterungsrückstellung in der privaten Krankenversicherung
+jurabk: KalV
 layout: default
+origslug: kalv
 slug: kalv
 
 ---

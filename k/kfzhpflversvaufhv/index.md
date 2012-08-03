@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Aufhebung der Verordnung über die Tarife in der Kraftfahrzeug-Haftpflichtversicherung
+jurabk: KfzHPflVersVAufhV
 layout: default
+origslug: kfzhpflversvaufhv
 slug: kfzhpflversvaufhv
 
 ---

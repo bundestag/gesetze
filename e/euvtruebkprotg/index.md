@@ -4,8 +4,10 @@ Title: Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung 
   Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung
   bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof
   der Europäischen Gemeinschaften
+jurabk: EuVtrÜbkProtG
 layout: default
-slug: euvtr_bkprotg
+origslug: euvtr_bkprotg
+slug: euvtruebkprotg
 
 ---
 

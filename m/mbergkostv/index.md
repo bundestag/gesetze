@@ -1,6 +1,8 @@
 ---
 Title: Meeresbodenbergbau-Kostenverordnung
+jurabk: MBergKostV
 layout: default
+origslug: mbergkostv
 slug: mbergkostv
 
 ---

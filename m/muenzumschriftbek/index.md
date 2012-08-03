@@ -2,8 +2,10 @@
 Title: Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50
   Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik
   Deutschland" tragen
+jurabk: MünzUmschriftBek
 layout: default
-slug: m_nzumschriftbek
+origslug: m_nzumschriftbek
+slug: muenzumschriftbek
 
 ---
 

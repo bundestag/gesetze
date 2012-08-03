@@ -2,7 +2,9 @@
 Title: Zweihundertachtzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Düsseldorf)
+jurabk: LuftVODV 218
 layout: default
+origslug: luftvodv_218
 slug: luftvodv_218
 
 ---

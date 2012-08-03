@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Grundsteuergesetzes für den ersten Hauptveranlagungszeitraum
+jurabk: GrStDVO 1937
 layout: default
+origslug: grstdvo_1937
 slug: grstdvo_1937
 
 ---

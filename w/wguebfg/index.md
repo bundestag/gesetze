@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Überführung der Wohnungsgemeinnützigkeit in den allgemeinen Wohnungsmarkt
+jurabk: WGÜbfG
 layout: default
-slug: wg_bfg
+origslug: wg_bfg
+slug: wguebfg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Handelsgesetzbuch
+jurabk: HGB
 layout: default
+origslug: hgb
 slug: hgb
 
 ---

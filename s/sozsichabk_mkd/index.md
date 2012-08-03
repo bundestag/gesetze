@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der  mazedonischen
   Regierung über Soziale Sicherheit
+jurabk: SozSichAbk MKD
 layout: default
+origslug: sozsichabk_mkd
 slug: sozsichabk_mkd
 
 ---

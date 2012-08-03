@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Weiterentwicklung des Rechts der gesetzlichen Krankenversicherung
+jurabk: KVLG
 layout: default
+origslug: kvlg
 slug: kvlg
 
 ---

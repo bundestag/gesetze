@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Errichtung der Interamerikanischen Investitionsgesellschaft
+jurabk: IamInvGesÜbk USA/ua
 layout: default
-slug: iaminvges_bk_usa_ua
+origslug: iaminvges_bk_usa_ua
+slug: iaminvgesuebk_usa_ua
 
 ---
 

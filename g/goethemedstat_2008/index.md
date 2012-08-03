@@ -1,7 +1,9 @@
 ---
 Title: Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts e. V. (gestiftet
   1954)
+jurabk: GoetheMedStat 2008
 layout: default
+origslug: goethemedstat_2008
 slug: goethemedstat_2008
 
 ---

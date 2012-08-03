@@ -1,6 +1,8 @@
 ---
 Title: Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
+jurabk: PCT
 layout: default
+origslug: pct
 slug: pct
 
 ---

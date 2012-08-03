@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Stiftung des Silbernen Lorbeerblattes
+jurabk: LorbBlErl
 layout: default
+origslug: lorbblerl
 slug: lorbblerl
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
   Geräusche, Erschütterungen und ähnliche Vorgänge
+jurabk: BImSchG
 layout: default
+origslug: bimschg
 slug: bimschg
 
 ---

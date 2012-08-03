@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische
   Prüfung
+jurabk: JurPrNotSkV
 layout: default
+origslug: jurprnotskv
 slug: jurprnotskv
 
 ---

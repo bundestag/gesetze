@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker/zur Kraftfahrzeugmechatronikerin
+jurabk: KfzMechaAusbV 2007
 layout: default
+origslug: kfzmechaausbv_2007
 slug: kfzmechaausbv_2007
 
 ---

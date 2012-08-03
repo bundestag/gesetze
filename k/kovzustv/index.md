@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die sachliche Zuständigkeit in der Kriegsopferversorgung
+jurabk: KOVZustV
 layout: default
+origslug: kovzustv
 slug: kovzustv
 
 ---

@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten in Angelegenheiten der Un
   nach dem Beamtenversorgungsgesetz einschließlich des Erlasses von Widerspruchsbescheiden
   und der Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich
   des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+jurabk: BMinUWidAnO 2004
 layout: default
+origslug: bminuwidano_2004
 slug: bminuwidano_2004
 
 ---

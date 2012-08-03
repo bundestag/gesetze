@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Aufnahme und Bereitstellung von Krediten zur Belebung der Investitionstätigkeit
   und zur Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967
+jurabk: KredFinG 1967
 layout: default
+origslug: kredfing_1967
 slug: kredfing_1967
 
 ---

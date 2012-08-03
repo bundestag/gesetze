@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und die Vertretung des Dienstherrn bei Klagen von Beschäftigten der Bundesanstalt
   für Arbeitsschutz und Arbeitsmedizin in Reisekosten-, Umzugskosten- und Trennungsgeldangelegenheiten
   sowie in Angelegenheiten nach der Bundesbeihilfeverordnung
+jurabk: BAuAZustAnO
 layout: default
+origslug: bauazustano
 slug: bauazustano
 
 ---

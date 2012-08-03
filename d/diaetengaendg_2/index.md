@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz zur Änderung des Diätengesetzes 1968
+jurabk: DiätenGÄndG 2
 layout: default
-slug: di_teng_ndg_2
+origslug: di_teng_ndg_2
+slug: diaetengaendg_2
 
 ---
 

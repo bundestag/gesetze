@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Verwaltung des ERP-Sondervermögens
+jurabk: ERPVwG
 layout: default
+origslug: erpvwg
 slug: erpvwg
 
 ---

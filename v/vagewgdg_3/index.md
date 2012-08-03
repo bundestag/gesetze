@@ -1,7 +1,9 @@
 ---
 Title: Drittes Gesetz zur Durchführung versicherungsrechtlicher Richtlinien des Rates
   der Europäischen Gemeinschaften
+jurabk: VAGEWGDG 3
 layout: default
+origslug: vagewgdg_3
 slug: vagewgdg_3
 
 ---

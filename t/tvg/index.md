@@ -1,6 +1,8 @@
 ---
 Title: Tarifvertragsgesetz
+jurabk: TVG
 layout: default
+origslug: tvg
 slug: tvg
 
 ---

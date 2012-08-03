@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen
+jurabk: MVzAFWoG
 layout: default
+origslug: mvzafwog
 slug: mvzafwog
 
 ---

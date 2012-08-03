@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Einsetzung eines Nationalen Normenkontrollrates
+jurabk: NKRG
 layout: default
+origslug: nkrg
 slug: nkrg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Ausnahmen bei filmstatistischen Erhebungen
+jurabk: FStatAusnV
 layout: default
+origslug: fstatausnv
 slug: fstatausnv
 
 ---

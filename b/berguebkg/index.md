@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Internationalen Übereinkommen von 1989 über Bergung
+jurabk: BergÜbkG
 layout: default
-slug: berg_bkg
+origslug: berg_bkg
+slug: berguebkg
 
 ---
 

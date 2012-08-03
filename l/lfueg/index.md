@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
+jurabk: LFÜG
 layout: default
-slug: lf_g
+origslug: lf_g
+slug: lfueg
 
 ---
 

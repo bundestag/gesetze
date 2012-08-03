@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherstellung des Binnenschiffsverkehrs
+jurabk: BinSchSiV
 layout: default
+origslug: binschsiv
 slug: binschsiv
 
 ---

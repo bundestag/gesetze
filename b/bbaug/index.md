@@ -1,6 +1,8 @@
 ---
 Title: Baugesetzbuch
+jurabk: BBauG
 layout: default
+origslug: bbaug
 slug: bbaug
 
 ---

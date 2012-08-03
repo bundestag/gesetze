@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 17. Dezember 1997 zwischen der Bundesrepublik Deutschland
   und der Republik Bulgarien über Soziale Sicherheit
+jurabk: SozSichAbkBGRG
 layout: default
+origslug: sozsichabkbgrg
 slug: sozsichabkbgrg
 
 ---

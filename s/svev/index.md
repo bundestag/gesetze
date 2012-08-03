@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen
   des Arbeitgebers als Arbeitsentgelt
+jurabk: SvEV
 layout: default
+origslug: svev
 slug: svev
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins
+jurabk: WPostVSaZProt 6
 layout: default
+origslug: wpostvsazprot_6
 slug: wpostvsazprot_6
 
 ---

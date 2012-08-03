@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Förderung von Jugendfreiwilligendiensten
+jurabk: JFDG
 layout: default
+origslug: jfdg
 slug: jfdg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Logistikmeister/Geprüfte Logistikmeisterin
+jurabk: LogMstrV
 layout: default
+origslug: logmstrv
 slug: logmstrv
 
 ---

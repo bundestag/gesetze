@@ -3,7 +3,9 @@ Title: Protokoll zur Verlängerung des Abkommens vom 9. April 1995 zwischen der 
   Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung
   auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen
   Beziehungen
+jurabk: DBAProt VerArabEm
 layout: default
+origslug: dbaprot_verarabem
 slug: dbaprot_verarabem
 
 ---

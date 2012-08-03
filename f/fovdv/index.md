@@ -1,6 +1,8 @@
 ---
 Title: Forstvermehrungsgut-Durchführungsverordnung
+jurabk: FoVDV
 layout: default
+origslug: fovdv
 slug: fovdv
 
 ---

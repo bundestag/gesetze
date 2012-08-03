@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung des Organisationserlasses des Bundeskanzlers
+jurabk: BKOrgErl1994Bek
 layout: default
+origslug: bkorgerl1994bek
 slug: bkorgerl1994bek
 
 ---

@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages
   zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen
   Landesgrenze
+jurabk: GrÄndStVtrBB/SNBek
 layout: default
-slug: gr_ndstvtrbb_snbek
+origslug: gr_ndstvtrbb_snbek
+slug: graendstvtrbb_snbek
 
 ---
 

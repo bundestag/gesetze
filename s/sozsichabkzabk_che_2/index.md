@@ -1,7 +1,9 @@
 ---
 Title: Zweites Zusatzabkommen zum Abkommen vom 25. Februar 1964 zwischen der Bundesrepublik
   Deutschland und der Schweizerischen Eidgenossenschaft über Soziale Sicherheit
+jurabk: SozSichAbkZAbk CHE 2
 layout: default
+origslug: sozsichabkzabk_che_2
 slug: sozsichabkzabk_che_2
 
 ---

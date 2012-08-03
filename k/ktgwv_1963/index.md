@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in
   das Saarland (KtgWV)
+jurabk: KtgWV 1963
 layout: default
+origslug: ktgwv_1963
 slug: ktgwv_1963
 
 ---

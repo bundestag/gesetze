@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Sattler- und Feintäschner-Handwerk
+jurabk: SattlFeintMstrV
 layout: default
+origslug: sattlfeintmstrv
 slug: sattlfeintmstrv
 
 ---

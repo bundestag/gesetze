@@ -1,7 +1,9 @@
 ---
 Title: Vollzugsordnung zum Postnachnahmeübereinkommen
+jurabk: PostnachnÜbkVollzO
 layout: default
-slug: postnachn_bkvollzo
+origslug: postnachn_bkvollzo
+slug: postnachnuebkvollzo
 
 ---
 

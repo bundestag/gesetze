@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu den Änderungen vom 1. September 1995 des Übereinkommens über die
   Internationale Fernmeldesatellitenorganisation "INTELSAT"
+jurabk: INTELSATÜbkÄndG
 layout: default
-slug: intelsat_bk_ndg
+origslug: intelsat_bk_ndg
+slug: intelsatuebkaendg
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Ausnahmen hinsichtlich des Inverkehrbringens und der Verfütterung
   von bestimmten Erzeugnissen mit Pestizidrückständen
+jurabk: EURHGAusnahmV
 layout: default
+origslug: eurhgausnahmv
 slug: eurhgausnahmv
 
 ---

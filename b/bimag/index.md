@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Bundesanstalt für Immobilienaufgaben
+jurabk: BImAG
 layout: default
+origslug: bimag
 slug: bimag
 
 ---

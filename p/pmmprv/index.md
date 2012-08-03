@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte
   Prozessmanagerin-Mikrotechnologie
+jurabk: PMMPrV
 layout: default
+origslug: pmmprv
 slug: pmmprv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur fleischhygienerechtlichen Untersuchung von geschlachteten Rindern
   auf BSE
+jurabk: BSEUntersV
 layout: default
+origslug: bseuntersv
 slug: bseuntersv
 
 ---

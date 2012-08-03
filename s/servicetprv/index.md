@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte
   Kraftfahrzeug-Servicetechnikerin"
+jurabk: ServiceTPrV
 layout: default
+origslug: servicetprv
 slug: servicetprv
 
 ---

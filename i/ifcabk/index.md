@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über die Internationale Finanz-Corporation
+jurabk: IFCAbk
 layout: default
+origslug: ifcabk
 slug: ifcabk
 
 ---

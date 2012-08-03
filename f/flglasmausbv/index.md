@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Flachglasmechaniker/zur Flachglasmechanikerin
+jurabk: FlGlasMAusbV
 layout: default
+origslug: flglasmausbv
 slug: flglasmausbv
 
 ---

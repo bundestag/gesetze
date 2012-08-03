@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung von Kostenermächtigungen und zur Überleitung gebührenrechtlicher
   Vorschriften
+jurabk: KErmÄndG
 layout: default
-slug: kerm_ndg
+origslug: kerm_ndg
+slug: kermaendg
 
 ---
 

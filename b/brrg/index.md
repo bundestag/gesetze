@@ -1,6 +1,8 @@
 ---
 Title: Rahmengesetz zur Vereinheitlichung des Beamtenrechts
+jurabk: BRRG
 layout: default
+origslug: brrg
 slug: brrg
 
 ---

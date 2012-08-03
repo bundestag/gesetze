@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über einige zur menschlichen Ernährung bestimmte Zuckerarten
+jurabk: ZuckArtV 2003
 layout: default
+origslug: zuckartv_2003
 slug: zuckartv_2003
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Hopsten
+jurabk: FluLärmHopstV
 layout: default
-slug: flul_rmhopstv
+origslug: flul_rmhopstv
+slug: flulaermhopstv
 
 ---
 

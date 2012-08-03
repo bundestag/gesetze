@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau
+jurabk: BergArbWoFöG
 layout: default
-slug: bergarbwof_g
+origslug: bergarbwof_g
+slug: bergarbwofoeg
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst
   der Fernmelde- und Elektronischen Aufklärung des Bundes
+jurabk: LAP-gDFm/EloAufklBundV
 layout: default
+origslug: lap-gdfm_eloaufklbundv
 slug: lap-gdfm_eloaufklbundv
 
 ---

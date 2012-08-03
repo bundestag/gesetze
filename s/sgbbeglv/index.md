@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die zu Beglaubigungen befugten Behörden nach dem Sozialgesetzbuch
+jurabk: SGBBeglV
 layout: default
+origslug: sgbbeglv
 slug: sgbbeglv
 
 ---

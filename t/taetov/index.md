@@ -3,8 +3,10 @@ Verordnung über Mittel zum Tätowieren einschließlich bestimmter
 vergleichbarer Stoffe und Zubereitungen aus Stoffen
 ---
 Title: ''
+jurabk: TätoV
 layout: default
-slug: t_tov
+origslug: t_tov
+slug: taetov
 
 ---
 

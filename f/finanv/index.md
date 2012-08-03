@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Analyse von Finanzinstrumenten
+jurabk: FinAnV
 layout: default
+origslug: finanv
 slug: finanv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung des Offshore-Steuergesetzes
+jurabk: OffshStAbkGÄndG
 layout: default
-slug: offshstabkg_ndg
+origslug: offshstabkg_ndg
+slug: offshstabkgaendg
 
 ---
 

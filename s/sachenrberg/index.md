@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sachenrechtsbereinigung im Beitrittsgebiet
+jurabk: SachenRBerG
 layout: default
+origslug: sachenrberg
 slug: sachenrberg
 
 ---

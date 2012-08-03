@@ -1,7 +1,9 @@
 ---
 Title: Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen
   der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
+jurabk: PostAGSa
 layout: default
+origslug: postagsa
 slug: postagsa
 
 ---

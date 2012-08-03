@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen
   in der Zuteilungsperiode 2005 bis 2007
+jurabk: ZuG 2007
 layout: default
+origslug: zug_2007
 slug: zug_2007
 
 ---

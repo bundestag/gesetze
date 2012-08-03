@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln,
   Düngemitteln und sonstigen Mitteln in oder auf Lebensmitteln
+jurabk: RHmV 1994
 layout: default
+origslug: rhmv_1994
 slug: rhmv_1994
 
 ---

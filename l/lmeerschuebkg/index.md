@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresverschmutzung
   vom Lande aus
+jurabk: LMeerSchÜbkG
 layout: default
-slug: lmeersch_bkg
+origslug: lmeersch_bkg
+slug: lmeerschuebkg
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes
   zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
+jurabk: EndlagerVlV
 layout: default
+origslug: endlagervlv
 slug: endlagervlv
 
 ---

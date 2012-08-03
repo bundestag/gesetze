@@ -1,6 +1,8 @@
 ---
 Title: Fünfte Verordnung zur Durchführung des Gesetzes über die Preisstatistik
+jurabk: PreisStatGDV 5
 layout: default
+origslug: preisstatgdv_5
 slug: preisstatgdv_5
 
 ---

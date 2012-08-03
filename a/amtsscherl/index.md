@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Amtsschilder der Bundesbehörden
+jurabk: AmtsschErl
 layout: default
+origslug: amtsscherl
 slug: amtsscherl
 
 ---

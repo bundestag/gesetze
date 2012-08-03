@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren zum Risikostrukturausgleich in der gesetzlichen
   Krankenversicherung
+jurabk: RSAV
 layout: default
+origslug: rsav
 slug: rsav
 
 ---

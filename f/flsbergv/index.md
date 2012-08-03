@@ -1,6 +1,8 @@
 ---
 Title: Bergverordnung für den Festlandsockel
+jurabk: FlsBergV
 layout: default
+origslug: flsbergv
 slug: flsbergv
 
 ---

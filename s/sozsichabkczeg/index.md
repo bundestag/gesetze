@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 27. Juli 2001 zwischen der Bundesrepublik Deutschland
   und der Tschechischen Republik über Soziale Sicherheit
+jurabk: SozSichAbkCZEG
 layout: default
+origslug: sozsichabkczeg
 slug: sozsichabkczeg
 
 ---

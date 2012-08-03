@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Bausparkassen
+jurabk: BauSparkG
 layout: default
+origslug: bausparkg
 slug: bausparkg
 
 ---

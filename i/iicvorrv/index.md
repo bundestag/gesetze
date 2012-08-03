@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das Internationale
   Baumwoll-Institut (International Institute for Cotton)
+jurabk: IICVorRV
 layout: default
+origslug: iicvorrv
 slug: iicvorrv
 
 ---

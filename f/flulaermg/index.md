@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Schutz gegen Fluglärm
+jurabk: FluLärmG
 layout: default
-slug: flul_rmg
+origslug: flul_rmg
+slug: flulaermg
 
 ---
 

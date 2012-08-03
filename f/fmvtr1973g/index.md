@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober 1973
+jurabk: FMVtr1973G
 layout: default
+origslug: fmvtr1973g
 slug: fmvtr1973g
 
 ---

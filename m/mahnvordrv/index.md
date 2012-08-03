@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken für das Mahnverfahren
+jurabk: MahnVordrV
 layout: default
+origslug: mahnvordrv
 slug: mahnvordrv
 
 ---

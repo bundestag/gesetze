@@ -1,6 +1,8 @@
 ---
 Title: Bergverordnung zum gesundheitlichen Schutz der Beschäftigten
+jurabk: GesBergV
 layout: default
+origslug: gesbergv
 slug: gesbergv
 
 ---

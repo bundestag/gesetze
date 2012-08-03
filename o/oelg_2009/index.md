@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
   Europäischen Union auf dem Gebiet des ökologischen Landbaus
+jurabk: ÖLG 2009
 layout: default
-slug: _lg_2009
+origslug: _lg_2009
+slug: oelg_2009
 
 ---
 

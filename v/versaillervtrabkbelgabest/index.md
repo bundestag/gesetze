@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsbestimmungen zum Gesetz betreffend das deutsch-belgische Abkommen
   zu Artikel 312 des Friedensvertrags vom 20. Juli 1921 (Reichsgesetzbl. S. 1177)
+jurabk: VersaillerVtrAbkBELGABest
 layout: default
+origslug: versaillervtrabkbelgabest
 slug: versaillervtrabkbelgabest
 
 ---

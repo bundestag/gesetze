@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Bereitstellung kindergesicherter Feuerzeuge auf dem Markt
+jurabk: FeuerzeugV
 layout: default
+origslug: feuerzeugv
 slug: feuerzeugv
 
 ---

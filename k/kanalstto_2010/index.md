@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Entgelte der Kanalsteurer auf dem Nord-Ostsee-Kanal
+jurabk: KanalStTO 2010
 layout: default
+origslug: kanalstto_2010
 slug: kanalstto_2010
 
 ---

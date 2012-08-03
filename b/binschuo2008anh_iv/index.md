@@ -2,7 +2,9 @@ Eingeschränkte technische Vorschriften für Fahrzeuge auf
 Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
 ---
 Title: (Anhang IV zur Binnenschiffsuntersuchungsordnung)
+jurabk: BinSchUO2008Anh IV
 layout: default
+origslug: binschuo2008anh_iv
 slug: binschuo2008anh_iv
 
 ---

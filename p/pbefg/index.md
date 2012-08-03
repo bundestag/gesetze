@@ -1,6 +1,8 @@
 ---
 Title: Personenbeförderungsgesetz
+jurabk: PBefG
 layout: default
+origslug: pbefg
 slug: pbefg
 
 ---

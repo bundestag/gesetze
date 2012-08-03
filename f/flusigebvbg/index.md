@@ -1,6 +1,8 @@
 ---
 Title: Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren
+jurabk: FluSiGebVbg
 layout: default
+origslug: flusigebvbg
 slug: flusigebvbg
 
 ---

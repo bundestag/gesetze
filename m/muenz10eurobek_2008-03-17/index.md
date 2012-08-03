@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze „150. Geburtstag Max Planck“)
+jurabk: Münz10EuroBek 2008-03-17
 layout: default
-slug: m_nz10eurobek_2008-03-17
+origslug: m_nz10eurobek_2008-03-17
+slug: muenz10eurobek_2008-03-17
 
 ---
 

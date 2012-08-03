@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Festsetzung der Kostenbeiträge für Leistungen und vorläufige
   Maßnahmen in der Kinder- und Jugendhilfe
+jurabk: KostenbeitragsV
 layout: default
+origslug: kostenbeitragsv
 slug: kostenbeitragsv
 
 ---

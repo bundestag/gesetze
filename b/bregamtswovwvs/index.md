@@ -3,7 +3,9 @@ Title: Vorschriften über die Verwaltung und Bewirtschaftung der Amtswohnungen d
   Mitglieder der Bundesregierung (Anlage zu § 5 der Bestimmungen über Amtswohnungen,
   Umzugskostenentschädigung, Tagegelder und Entschädigung für Reisekosten der Mitglieder
   der Bundesregierung)
+jurabk: BRegAmtsWoVwVs
 layout: default
+origslug: bregamtswovwvs
 slug: bregamtswovwvs
 
 ---

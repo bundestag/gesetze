@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Zuständigkeit und das Verfahren bei der Unabkömmlichstellung
+jurabk: UkV 2005
 layout: default
+origslug: ukv_2005
 slug: ukv_2005
 
 ---

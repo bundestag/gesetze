@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die elektronische Anzeige von Nebenwirkungen bei Arzneimitteln
+jurabk: AMG-AV
 layout: default
+origslug: amg-av
 slug: amg-av
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und
   die Ernennung von Reservistinnen und Reservisten
+jurabk: SoldErnAnO 2009
 layout: default
+origslug: soldernano_2009
 slug: soldernano_2009
 
 ---

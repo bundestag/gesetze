@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 ---
 Title: ''
+jurabk: FriseurAusbV 2008
 layout: default
+origslug: friseurausbv_2008
 slug: friseurausbv_2008
 
 ---

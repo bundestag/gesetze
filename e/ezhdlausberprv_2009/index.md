@@ -2,7 +2,9 @@
 Title: Verordnung über die Erprobung abweichender Ausbildungs- und Prüfungsbestimmungen
   in der Berufsausbildung im Einzelhandel in dem Ausbildungsberuf Kaufmann im Einzelhandel/Kauffrau
   im Einzelhandel
+jurabk: EzHdlAusbErprV 2009
 layout: default
+origslug: ezhdlausberprv_2009
 slug: ezhdlausberprv_2009
 
 ---

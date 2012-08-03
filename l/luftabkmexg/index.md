@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 8. März 1967 zwischen der Bundesrepublik Deutschland
   und den Vereinigten Mexikanischen Staaten über den Luftverkehr
+jurabk: LuftAbkMEXG
 layout: default
+origslug: luftabkmexg
 slug: luftabkmexg
 
 ---

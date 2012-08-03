@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
   Post und Eisenbahnen
+jurabk: BEGTPG
 layout: default
+origslug: begtpg
 slug: begtpg
 
 ---

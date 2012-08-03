@@ -3,7 +3,9 @@ Title: Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Badem
   (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen
   Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen
   betreffend andere Heilberufe)
+jurabk: MB-APrV
 layout: default
+origslug: mb-aprv
 slug: mb-aprv
 
 ---

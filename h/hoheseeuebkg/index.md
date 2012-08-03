@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Übereinkommen vom 29. April 1958 über die Hohe See
+jurabk: HoheSeeÜbkG
 layout: default
-slug: hohesee_bkg
+origslug: hohesee_bkg
+slug: hoheseeuebkg
 
 ---
 

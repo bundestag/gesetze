@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Schlichtungsstelle nach § 14 des Unterlassungsklagengesetzes
   und ihr Verfahren
+jurabk: SchlichtVerfVO
 layout: default
+origslug: schlichtverfvo
 slug: schlichtverfvo
 
 ---

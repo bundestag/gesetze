@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich
   des Bundesministeriums der Verteidigung
+jurabk: BMinVgErnAnO 1997
 layout: default
+origslug: bminvgernano_1997
 slug: bminvgernano_1997
 
 ---

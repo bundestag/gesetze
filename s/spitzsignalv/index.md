@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung eines einheitlichen Spitzensignals für Eisenbahnen
   des nichtöffentlichen Verkehrs
+jurabk: SpitzSignalV
 layout: default
+origslug: spitzsignalv
 slug: spitzsignalv
 
 ---

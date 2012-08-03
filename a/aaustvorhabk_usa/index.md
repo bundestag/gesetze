@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   der Vereinigten Staaten von Amerika über die Durchführung von Austauschvorhaben
   zum Zwecke der Aus- und Weiterbildung
+jurabk: AAustVorhAbk USA
 layout: default
+origslug: aaustvorhabk_usa
 slug: aaustvorhabk_usa
 
 ---

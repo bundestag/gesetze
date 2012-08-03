@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb
+jurabk: EUV
 layout: default
+origslug: euv
 slug: euv
 
 ---

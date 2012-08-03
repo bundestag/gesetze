@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Milchtechnologen und zur Milchtechnologin
+jurabk: MilchtAusbStEignV
 layout: default
+origslug: milchtausbsteignv
 slug: milchtausbsteignv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen
   auf See
+jurabk: SeeStrOV
 layout: default
+origslug: seestrov
 slug: seestrov
 
 ---

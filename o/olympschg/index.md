@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen
+jurabk: OlympSchG
 layout: default
+origslug: olympschg
 slug: olympschg
 
 ---

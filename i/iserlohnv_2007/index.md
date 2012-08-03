@@ -2,7 +2,9 @@
 Title: Verordnung zur Gleichstellung von Prüfungszeugnissen des Theodor-Reuter-Berufskollegs
   Iserlohn, Staatliche Berufsfachschule für Fertigungstechnik und Elektrotechnik mit
   den Zeugnissen über das Bestehen der Abschlussprüfung in Ausbildungsberufen
+jurabk: IserlohnV 2007
 layout: default
+origslug: iserlohnv_2007
 slug: iserlohnv_2007
 
 ---

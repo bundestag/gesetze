@@ -2,7 +2,9 @@
 Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
 ---
 Title: ''
+jurabk: WasgefStAnlV
 layout: default
+origslug: wasgefstanlv
 slug: wasgefstanlv
 
 ---

@@ -2,8 +2,10 @@
 Title: Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten
   und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung
   und zur Abgabe eines Angebots
+jurabk: WpÜGAngebV
 layout: default
-slug: wp_gangebv
+origslug: wp_gangebv
+slug: wpuegangebv
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Durchführung gemeinschaftsrechtlicher Vorschriften über das Schulobstprogramm
+jurabk: SchulObG
 layout: default
+origslug: schulobg
 slug: schulobg
 
 ---

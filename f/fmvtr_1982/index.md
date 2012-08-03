@@ -1,6 +1,8 @@
 ---
 Title: Internationaler Fernmeldevertrag Nairobi 1982
+jurabk: FMVtr 1982
 layout: default
+origslug: fmvtr_1982
 slug: fmvtr_1982
 
 ---

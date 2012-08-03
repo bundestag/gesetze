@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte
   Pharmareferentin
+jurabk: PharmRefPrV
 layout: default
+origslug: pharmrefprv
 slug: pharmrefprv
 
 ---

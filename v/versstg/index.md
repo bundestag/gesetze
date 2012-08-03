@@ -1,6 +1,8 @@
 ---
 Title: Versicherungsteuergesetz
+jurabk: VersStG
 layout: default
+origslug: versstg
 slug: versstg
 
 ---

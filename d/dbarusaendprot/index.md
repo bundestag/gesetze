@@ -3,8 +3,10 @@ Title: Protokoll zur Änderung des Abkommens zwischen der Bundesrepublik Deutsch
   und der Russischen Föderation zur Vermeidung der Doppelbesteuerung auf dem Gebiet
   der Steuern vom Einkommen und vom Vermögen vom 29. Mai 1996 und des Protokolls hierzu
   vom 29. Mai 1996
+jurabk: DBARUSÄndProt
 layout: default
-slug: dbarus_ndprot
+origslug: dbarus_ndprot
+slug: dbarusaendprot
 
 ---
 

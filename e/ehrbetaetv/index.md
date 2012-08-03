@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die ehrenamtliche Betätigung von Arbeitslosen
+jurabk: EhrBetätV
 layout: default
-slug: ehrbet_tv
+origslug: ehrbet_tv
+slug: ehrbetaetv
 
 ---
 

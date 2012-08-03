@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten
   gegenüber den Angehörigen des Spanischen Staates
+jurabk: BeamtHaftESPBek
 layout: default
+origslug: beamthaftespbek
 slug: beamthaftespbek
 
 ---

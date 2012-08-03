@@ -2,7 +2,9 @@
 Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
   für 1994, zur Siebten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
   genannten Gebiet und über maßgebende Rechengrößen der Sozialversicherung für 1994
+jurabk: BSV 1994
 layout: default
+origslug: bsv_1994
 slug: bsv_1994
 
 ---

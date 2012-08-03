@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bekämpfung der Feuerbrandkrankheit
+jurabk: FeuerbrandV 1985
 layout: default
+origslug: feuerbrandv_1985
 slug: feuerbrandv_1985
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Dienstsitz des Bundesversicherungsamtes
+jurabk: BVASitzBek
 layout: default
+origslug: bvasitzbek
 slug: bvasitzbek
 
 ---

@@ -4,7 +4,9 @@ Arzneimittel des Deutschen Instituts für Medizinische Dokumentation
 und Information
 ---
 Title: ''
+jurabk: DIMDIAMV
 layout: default
+origslug: dimdiamv
 slug: dimdiamv
 
 ---

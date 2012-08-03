@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Abkommen vom 16. Dezember 1992 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Russischen Föderation über die gegenseitige Hilfeleistung
   bei Katastrophen oder schweren Unglücksfällen
+jurabk: KatHiLAbkRussFöG
 layout: default
-slug: kathilabkrussf_g
+origslug: kathilabkrussf_g
+slug: kathilabkrussfoeg
 
 ---
 

@@ -2,8 +2,10 @@
 Title: Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung
   von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des
   Beitrittsgebiets durch den Bund
+jurabk: AAÜGErstV
 layout: default
-slug: aa_gerstv
+origslug: aa_gerstv
+slug: aauegerstv
 
 ---
 

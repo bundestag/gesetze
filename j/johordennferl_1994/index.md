@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Genehmigung der Neufassung der Satzung des Johanniterordens
+jurabk: JohOrdenNFErl 1994
 layout: default
+origslug: johordennferl_1994
 slug: johordennferl_1994
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen
   Reich und Island
+jurabk: WZISLBek
 layout: default
+origslug: wzislbek
 slug: wzislbek
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt
   für Finanzdienstleistungsaufsicht im Geschäftsbereich des Bundesministeriums der
   Finanzen
+jurabk: BDGBAFinDV
 layout: default
+origslug: bdgbafindv
 slug: bdgbafindv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Los-Kennzeichnungs-Verordnung
+jurabk: LKV
 layout: default
+origslug: lkv
 slug: lkv
 
 ---

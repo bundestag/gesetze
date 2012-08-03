@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Tabaksteuergesetzes
+jurabk: TabStV 2010
 layout: default
+origslug: tabstv_2010
 slug: tabstv_2010
 
 ---

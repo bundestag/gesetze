@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Aufhebung der Beschränkung des Niederlassungsbereichs von Kreditinstituten
+jurabk: KredInstNdlAufhG
 layout: default
+origslug: kredinstndlaufhg
 slug: kredinstndlaufhg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verlängerung des Gesetzes zur Sicherung der Düngemittel- und Saatgutversorgung
+jurabk: DüngMSaatGVerlG
 layout: default
-slug: d_ngmsaatgverlg
+origslug: d_ngmsaatgverlg
+slug: duengmsaatgverlg
 
 ---
 

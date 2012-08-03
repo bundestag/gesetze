@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen
+jurabk: JAbschlVUV
 layout: default
+origslug: jabschlvuv
 slug: jabschlvuv
 
 ---

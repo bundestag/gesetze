@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
   und der Beitragszahlung des Bundes für Kindererziehungszeiten für das Jahr 2004
+jurabk: BSG 2004
 layout: default
+origslug: bsg_2004
 slug: bsg_2004
 
 ---

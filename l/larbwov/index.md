@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Steuervergünstigungen zur Förderung des Baues von Landarbeiterwohnungen
+jurabk: LArbWoV
 layout: default
+origslug: larbwov
 slug: larbwov
 
 ---

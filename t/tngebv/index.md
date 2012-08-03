@@ -1,6 +1,8 @@
 ---
 Title: Telekommunikations-Nummerngebührenverordnung
+jurabk: TNGebV
 layout: default
+origslug: tngebv
 slug: tngebv
 
 ---

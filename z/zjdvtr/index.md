@@ -2,7 +2,9 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundeskanzler,
   und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts
   -, vertreten durch den Präsidenten und die Vizepräsidenten
+jurabk: ZJDVtr
 layout: default
+origslug: zjdvtr
 slug: zjdvtr
 
 ---

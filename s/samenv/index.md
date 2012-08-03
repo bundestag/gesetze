@@ -3,7 +3,9 @@ Verordnung über die Gewinnung, Abgabe und Verwendung von Samen,
 Eizellen und Embryonen von Zuchttieren
 ---
 Title: ''
+jurabk: SamEnV
 layout: default
+origslug: samenv
 slug: samenv
 
 ---

@@ -2,7 +2,9 @@
 Title: Abkommen zu Artikel 45 Abs. 5 des Zusatzabkommens zu dem Abkommen zwischen
   den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen hinsichtlich
   der in der Bundesrepublik Deutschland stationierten ausländischen Truppen
+jurabk: NATOTrStatZAbkArt45Abs5Abk
 layout: default
+origslug: natotrstatzabkart45abs5abk
 slug: natotrstatzabkart45abs5abk
 
 ---

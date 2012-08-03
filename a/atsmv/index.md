@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den kerntechnischen Sicherheitsbeauftragten und über die Meldung
   von Störfällen und sonstigen Ereignissen
+jurabk: AtSMV
 layout: default
+origslug: atsmv
 slug: atsmv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich
   mehrerer Hauptzollämter
+jurabk: HZAZustV 2007
 layout: default
+origslug: hzazustv_2007
 slug: hzazustv_2007
 
 ---

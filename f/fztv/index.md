@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie
   deren Kennzeichnung
+jurabk: FzTV
 layout: default
+origslug: fztv
 slug: fztv
 
 ---

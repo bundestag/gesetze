@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum DRG-Entgeltkatalog für das Jahr 2012
+jurabk: DRG-EKV 2012
 layout: default
+origslug: drg-ekv_2012
 slug: drg-ekv_2012
 
 ---

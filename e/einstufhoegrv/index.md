@@ -3,8 +3,10 @@ Title: Verordnung zur Festlegung von Höchstgrenzen für die besoldungsrechtlich
   der Dienstposten in der Geschäftsführung bundesunmittelbarer Körperschaften im Bereich
   der gesetzlichen Unfallversicherung und der landwirtschaftlichen Sozialversicherung
   sowie von Obergrenzen für die Zahl der Beförderungsämter
+jurabk: EinstufHöGrV
 layout: default
-slug: einstufh_grv
+origslug: einstufh_grv
+slug: einstufhoegrv
 
 ---
 

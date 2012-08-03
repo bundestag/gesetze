@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Verlagsrecht
+jurabk: VerlG
 layout: default
+origslug: verlg
 slug: verlg
 
 ---

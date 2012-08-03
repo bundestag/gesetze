@@ -2,7 +2,9 @@
 Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt
   für Post und Telekommunikation Deutsche Bundespost, bei der Unfallkasse Post und
   Telekom sowie bei der Museumsstiftung Post und Telekommunikation
+jurabk: BDGPNEDV
 layout: default
+origslug: bdgpnedv
 slug: bdgpnedv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Wiener Abkommen vom 12. Juni 1973 über den Schutz typographischer
   Schriftzeichen und ihre internationale Hinterlegung
+jurabk: SchrZAbkG
 layout: default
+origslug: schrzabkg
 slug: schrzabkg
 
 ---

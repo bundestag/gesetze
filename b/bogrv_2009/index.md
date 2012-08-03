@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Obergrenzen für Beförderungsämter in der Bundesverwaltung
+jurabk: BOgrV 2009
 layout: default
+origslug: bogrv_2009
 slug: bogrv_2009
 
 ---

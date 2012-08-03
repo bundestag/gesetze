@@ -1,7 +1,9 @@
 ---
 Title: Rückkehrhilfegesetz
+jurabk: RückHG
 layout: default
-slug: r_ckhg
+origslug: r_ckhg
+slug: rueckhg
 
 ---
 

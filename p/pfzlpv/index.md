@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Pferden
+jurabk: PfZLpV
 layout: default
+origslug: pfzlpv
 slug: pfzlpv
 
 ---

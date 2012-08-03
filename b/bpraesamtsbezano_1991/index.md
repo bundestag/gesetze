@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+jurabk: BPräsAmtsbezAnO 1991
 layout: default
-slug: bpr_samtsbezano_1991
+origslug: bpr_samtsbezano_1991
+slug: bpraesamtsbezano_1991
 
 ---
 

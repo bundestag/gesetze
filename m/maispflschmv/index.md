@@ -3,7 +3,9 @@ Verordnung über das Inverkehrbringen und die Aussaat von mit
 bestimmten Pflanzenschutzmitteln behandeltem Maissaatgut
 ---
 Title: ''
+jurabk: MaisPflSchMV
 layout: default
+origslug: maispflschmv
 slug: maispflschmv
 
 ---

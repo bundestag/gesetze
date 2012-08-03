@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Protokoll vom 3. Juni 1971 betreffend die Auslegung des Übereinkommens
   vom 27. September 1968 über die gerichtliche Zuständigkeit und die Vollstreckung
   gerichtlicher Entscheidungen in Zivil- und Handelssachen durch den Gerichtshof
+jurabk: VollstrZustProtG
 layout: default
+origslug: vollstrzustprotg
 slug: vollstrzustprotg
 
 ---

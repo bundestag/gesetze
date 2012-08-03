@@ -1,7 +1,9 @@
 ---
 Title: Dritte Verordnung über die Freistellung von Unternehmen mit Sitz außerhalb
   der Europäischen Union von Vorschriften des Gesetzes über das Kreditwesen
+jurabk: FreistV 3
 layout: default
+origslug: freistv_3
 slug: freistv_3
 
 ---

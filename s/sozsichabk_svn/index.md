@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Slowenien
   über Soziale Sicherheit
+jurabk: SozSichAbk SVN
 layout: default
+origslug: sozsichabk_svn
 slug: sozsichabk_svn
 
 ---

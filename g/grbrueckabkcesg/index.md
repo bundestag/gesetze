@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland
   und der Tschechischen Republik über den Bau einer Grenzbrücke an der gemeinsamen
   Staatsgrenze im Zuge der Europastraße E 49
+jurabk: GrBrückAbkCESG
 layout: default
-slug: grbr_ckabkcesg
+origslug: grbr_ckabkcesg
+slug: grbrueckabkcesg
 
 ---
 

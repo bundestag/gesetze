@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische
   Währung lauten
+jurabk: AuslWBG
 layout: default
+origslug: auslwbg
 slug: auslwbg
 
 ---

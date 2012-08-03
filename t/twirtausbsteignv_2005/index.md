@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Tierwirt/zur Tierwirtin
+jurabk: TWirtAusbStEignV 2005
 layout: default
+origslug: twirtausbsteignv_2005
 slug: twirtausbsteignv_2005
 
 ---

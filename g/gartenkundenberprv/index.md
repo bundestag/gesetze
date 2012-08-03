@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Kundenberater/Geprüfte
   Kundenberaterin - Gartenbau
+jurabk: GartenKundenBerPrV
 layout: default
+origslug: gartenkundenberprv
 slug: gartenkundenberprv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz der Gläubiger von Bausparkassen
+jurabk: BauSparkV 1990
 layout: default
+origslug: bausparkv_1990
 slug: bausparkv_1990
 
 ---

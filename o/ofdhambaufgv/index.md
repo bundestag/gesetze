@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Hamburg
+jurabk: OFDHambAufgV
 layout: default
+origslug: ofdhambaufgv
 slug: ofdhambaufgv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Bodenabfertigungsdienste auf Flugplätzen
+jurabk: BADV
 layout: default
+origslug: badv
 slug: badv
 
 ---

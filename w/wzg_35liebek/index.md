@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35LIEBek
 layout: default
+origslug: wzg_35liebek
 slug: wzg_35liebek
 
 ---

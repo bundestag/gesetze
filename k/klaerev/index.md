@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Klärschlamm-Entschädigungsfonds
+jurabk: KlärEV
 layout: default
-slug: kl_rev
+origslug: kl_rev
+slug: klaerev
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufstelle
   für Terrorismusfragen
+jurabk: EJTAnV
 layout: default
+origslug: ejtanv
 slug: ejtanv
 
 ---

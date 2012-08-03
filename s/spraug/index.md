@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Sprecherausschüsse der leitenden Angestellten
+jurabk: SprAuG
 layout: default
+origslug: spraug
 slug: spraug
 
 ---

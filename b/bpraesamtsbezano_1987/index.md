@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+jurabk: BPräsAmtsbezAnO 1987
 layout: default
-slug: bpr_samtsbezano_1987
+origslug: bpr_samtsbezano_1987
+slug: bpraesamtsbezano_1987
 
 ---
 

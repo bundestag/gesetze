@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 2 Euro (Gedenkmünze "50 Jahre Römische Verträge")
+jurabk: Münz2EuroBek 2006-12
 layout: default
-slug: m_nz2eurobek_2006-12
+origslug: m_nz2eurobek_2006-12
+slug: muenz2eurobek_2006-12
 
 ---
 

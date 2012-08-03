@@ -3,7 +3,9 @@ Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deu
   und der Republik Polen über den Zusammenschluß der deutschen Bundesstraße B 97 und
   der polnischen Landesstraße 274 sowie über den Bau einer Grenzbrücke im Raum Guben
   und Gubinek
+jurabk: StrZusGubenAbkPOLG
 layout: default
+origslug: strzusgubenabkpolg
 slug: strzusgubenabkpolg
 
 ---

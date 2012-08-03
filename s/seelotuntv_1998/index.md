@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die seeärztliche Untersuchung der Seelotsen
+jurabk: SeeLotUntV 1998
 layout: default
+origslug: seelotuntv_1998
 slug: seelotuntv_1998
 
 ---

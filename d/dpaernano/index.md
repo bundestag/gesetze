@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten im Deutschen Patent-
   und Markenamt
+jurabk: DPAErnAnO
 layout: default
+origslug: dpaernano
 slug: dpaernano
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Europäisches Übereinkommen über die Erlangung von Auskünften und Beweisen in
   Verwaltungssachen im Ausland
+jurabk: EuAuslVwAuskÜbk
 layout: default
-slug: euauslvwausk_bk
+origslug: euauslvwausk_bk
+slug: euauslvwauskuebk
 
 ---
 

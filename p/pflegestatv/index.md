@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen
   sowie über die häusliche Pflege
+jurabk: PflegeStatV
 layout: default
+origslug: pflegestatv
 slug: pflegestatv
 
 ---

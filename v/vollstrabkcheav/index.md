@@ -2,7 +2,9 @@
 Title: Verordnung zur Ausführung des deutsch-schweizerischen Abkommens über die gegenseitige
   Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen
   vom 2. November 1929
+jurabk: VollstrAbkCHEAV
 layout: default
+origslug: vollstrabkcheav
 slug: vollstrabkcheav
 
 ---

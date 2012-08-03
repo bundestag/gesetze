@@ -1,6 +1,8 @@
 ---
 Title: Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
+jurabk: SchKiSpVDBest 1
 layout: default
+origslug: schkispvdbest_1
 slug: schkispvdbest_1
 
 ---

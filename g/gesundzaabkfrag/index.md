@@ -6,7 +6,9 @@ Title: Gesetz zu dem Rahmenabkommen vom 22. Juli 2005 zwischen der Regierung der
   und dem Minister für Gesundheit und Solidarität der Französischen Republik über
   die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende
   Zusammenarbeit im Gesundheitsbereich
+jurabk: GesundZAAbkFRAG
 layout: default
+origslug: gesundzaabkfrag
 slug: gesundzaabkfrag
 
 ---

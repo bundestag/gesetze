@@ -1,6 +1,8 @@
 ---
 Title: Drittes Gesetz zur Neuordnung des Geldwesens
+jurabk: UmstG
 layout: default
+origslug: umstg
 slug: umstg
 
 ---

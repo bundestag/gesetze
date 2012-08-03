@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Statistik der Bautätigkeit im Hochbau und die Fortschreibung
   des Wohnungsbestandes
+jurabk: HBauStatG
 layout: default
+origslug: hbaustatg
 slug: hbaustatg
 
 ---

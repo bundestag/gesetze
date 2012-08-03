@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 4. Dezember 1965 zur Errichtung der Asiatischen
   Entwicklungsbank
+jurabk: AsEntwBkÜbkG
 layout: default
-slug: asentwbk_bkg
+origslug: asentwbk_bkg
+slug: asentwbkuebkg
 
 ---
 

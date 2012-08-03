@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über vitaminisierte Lebensmittel
+jurabk: LMvitV
 layout: default
+origslug: lmvitv
 slug: lmvitv
 
 ---

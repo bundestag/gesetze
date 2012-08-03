@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Vermarktungsnormen für Geflügelfleisch
+jurabk: GFlMarktV
 layout: default
+origslug: gflmarktv
 slug: gflmarktv
 
 ---

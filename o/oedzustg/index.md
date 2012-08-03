@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zuständigkeit auf dem Gebiet des Rechts des öffentlichen Dienstes
+jurabk: ÖDZustG
 layout: default
-slug: _dzustg
+origslug: _dzustg
+slug: oedzustg
 
 ---
 

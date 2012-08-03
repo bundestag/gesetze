@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Leistungsbezüge und Zulagen an der Fachhochschule des Bundes
   für öffentliche Verwaltung
+jurabk: FHBLeistBV
 layout: default
+origslug: fhbleistbv
 slug: fhbleistbv
 
 ---

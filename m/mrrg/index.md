@@ -1,6 +1,8 @@
 ---
 Title: Melderechtsrahmengesetz
+jurabk: MRRG
 layout: default
+origslug: mrrg
 slug: mrrg
 
 ---

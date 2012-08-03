@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Aufbewahrung von Schriftgut der Gerichte des Bundes und des Generalbundesanwalts
   nach Beendigung des Verfahrens
+jurabk: SchrAG
 layout: default
+origslug: schrag
 slug: schrag
 
 ---

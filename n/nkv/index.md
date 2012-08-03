@@ -2,7 +2,9 @@
 Title: Verordnung über nährwertbezogene Angaben bei Lebensmitteln und die Nährwertkennzeichnung
   von Lebensmitteln (Artikel 1 der Verordnung zur Neuordnung der Nährwertkennzeichnungsvorschriften
   für Lebensmittel)
+jurabk: NKV
 layout: default
+origslug: nkv
 slug: nkv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich
   des Bundesministeriums des Innern
+jurabk: BDGMinIAnO
 layout: default
+origslug: bdgminiano
 slug: bdgminiano
 
 ---

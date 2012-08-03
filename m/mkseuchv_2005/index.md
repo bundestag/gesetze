@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Maul- und Klauenseuche
+jurabk: MKSeuchV 2005
 layout: default
+origslug: mkseuchv_2005
 slug: mkseuchv_2005
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Erzeugung von Strom aus Biomasse
+jurabk: BiomasseV
 layout: default
+origslug: biomassev
 slug: biomassev
 
 ---

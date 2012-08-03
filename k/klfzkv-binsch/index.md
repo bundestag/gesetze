@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Kennzeichnung von auf Binnenschiffahrtsstraßen verkehrenden
   Kleinfahrzeugen
+jurabk: KlFzKV-BinSch
 layout: default
+origslug: klfzkv-binsch
 slug: klfzkv-binsch
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bundesdisziplinargesetz
+jurabk: BDG
 layout: default
+origslug: bdg
 slug: bdg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Schlichtungsstelle für die Beilegung von Verbraucherstreitigkeiten
   bei Fernabsatzverträgen über Versicherungen
+jurabk: SStellV-VVG
 layout: default
+origslug: sstellv-vvg
 slug: sstellv-vvg
 
 ---

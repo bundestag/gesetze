@@ -1,6 +1,8 @@
 ---
 Title: Siebte Verordnung zum Produktsicherheitsgesetz (Gasverbrauchseinrichtungsverordnung)
+jurabk: GSGV 7
 layout: default
+origslug: gsgv_7
 slug: gsgv_7
 
 ---

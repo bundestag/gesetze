@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Einführung eines Mutterschaftsurlaubs
+jurabk: MuUrlG
 layout: default
+origslug: muurlg
 slug: muurlg
 
 ---

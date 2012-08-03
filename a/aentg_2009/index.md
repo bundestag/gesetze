@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte
   und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen
+jurabk: AEntG 2009
 layout: default
+origslug: aentg_2009
 slug: aentg_2009
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Ausbilder-Eignungsverordnung
+jurabk: AusbEignV 2009
 layout: default
+origslug: ausbeignv_2009
 slug: ausbeignv_2009
 
 ---

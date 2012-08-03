@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Vergabe und Zusammensetzung der Mitgliedsnummer in der Alterssicherung
   der Landwirte
+jurabk: MNrVAL
 layout: default
+origslug: mnrval
 slug: mnrval
 
 ---

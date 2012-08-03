@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über besondere Anforderungen an Saatgut von Sonnenblumen im Rahmen
   der Saatgutanerkennung 2009
+jurabk: SonnenblV
 layout: default
+origslug: sonnenblv
 slug: sonnenblv
 
 ---

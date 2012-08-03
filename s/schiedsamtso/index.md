@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Schiedsämter für die vertragsärztliche (vertragszahnärztliche)
   Versorgung
+jurabk: SchiedsAmtsO
 layout: default
+origslug: schiedsamtso
 slug: schiedsamtso
 
 ---

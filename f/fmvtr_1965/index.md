@@ -1,6 +1,8 @@
 ---
 Title: Internationaler Fernmeldevertrag (Montreux 1965)
+jurabk: FMVtr 1965
 layout: default
+origslug: fmvtr_1965
 slug: fmvtr_1965
 
 ---

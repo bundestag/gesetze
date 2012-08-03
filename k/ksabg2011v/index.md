@@ -1,6 +1,8 @@
 ---
 Title: Künstlersozialabgabe-Verordnung 2011
+jurabk: KSAbg2011V
 layout: default
+origslug: ksabg2011v
 slug: ksabg2011v
 
 ---

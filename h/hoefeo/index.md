@@ -1,7 +1,9 @@
 ---
 Title: Höfeordnung
+jurabk: HöfeO
 layout: default
-slug: h_feo
+origslug: h_feo
+slug: hoefeo
 
 ---
 

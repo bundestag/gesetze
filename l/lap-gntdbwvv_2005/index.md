@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen
   Verwaltungsdienst in der Bundeswehrverwaltung
+jurabk: LAP-gntDBWVV 2005
 layout: default
+origslug: lap-gntdbwvv_2005
 slug: lap-gntdbwvv_2005
 
 ---

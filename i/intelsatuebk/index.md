@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Internationale Fernmeldesatellitenorganisation "INTELSAT"
+jurabk: INTELSATÜbk
 layout: default
-slug: intelsat_bk
+origslug: intelsat_bk
+slug: intelsatuebk
 
 ---
 

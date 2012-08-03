@@ -1,6 +1,8 @@
 ---
 Title: Insolvenzrechtliche Vergütungsverordnung
+jurabk: InsVV
 layout: default
+origslug: insvv
 slug: insvv
 
 ---

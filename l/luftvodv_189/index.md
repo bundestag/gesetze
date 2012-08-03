@@ -2,7 +2,9 @@
 Title: Hundertneunundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen
   Magdeburg)
+jurabk: LuftVODV 189
 layout: default
+origslug: luftvodv_189
 slug: luftvodv_189
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk
+jurabk: FeinwerkMechMstrV
 layout: default
+origslug: feinwerkmechmstrv
 slug: feinwerkmechmstrv
 
 ---

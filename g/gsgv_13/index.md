@@ -1,6 +1,8 @@
 ---
 Title: Dreizehnte Verordnung zum Produktsicherheitsgesetz (Aerosolpackungsverordnung)
+jurabk: GSGV 13
 layout: default
+origslug: gsgv_13
 slug: gsgv_13
 
 ---

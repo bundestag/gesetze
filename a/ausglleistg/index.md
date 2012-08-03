@@ -2,7 +2,9 @@
 Title: Gesetz über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher
   oder besatzungshoheitlicher Grundlage, die nicht mehr rückgängig gemacht werden
   können
+jurabk: AusglLeistG
 layout: default
+origslug: ausglleistg
 slug: ausglleistg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr
   2010
+jurabk: FinAusglG2010DV 2
 layout: default
+origslug: finausglg2010dv_2
 slug: finausglg2010dv_2
 
 ---

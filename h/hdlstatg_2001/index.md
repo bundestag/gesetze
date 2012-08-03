@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik im Handel und Gastgewerbe
+jurabk: HdlStatG 2001
 layout: default
+origslug: hdlstatg_2001
 slug: hdlstatg_2001
 
 ---

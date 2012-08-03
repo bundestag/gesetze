@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen
   Entwicklung
+jurabk: SachvRatG
 layout: default
+origslug: sachvratg
 slug: sachvratg
 
 ---

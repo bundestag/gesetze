@@ -3,7 +3,9 @@ Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen
 Gepäck von Reisenden
 ---
 Title: ''
+jurabk: EF-VO 2008
 layout: default
+origslug: ef-vo_2008
 slug: ef-vo_2008
 
 ---

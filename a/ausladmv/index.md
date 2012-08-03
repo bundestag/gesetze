@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an die
   Bundeszentralstelle für Auslandsadoption
+jurabk: AuslAdMV
 layout: default
+origslug: ausladmv
 slug: ausladmv
 
 ---

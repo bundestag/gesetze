@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach Artikel 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes
+jurabk: SchAnpGArt11Abs2aBek
 layout: default
+origslug: schanpgart11abs2abek
 slug: schanpgart11abs2abek
 
 ---

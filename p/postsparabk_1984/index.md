@@ -1,6 +1,8 @@
 ---
 Title: Postsparkassenabkommen
+jurabk: PostSparAbk 1984
 layout: default
+origslug: postsparabk_1984
 slug: postsparabk_1984
 
 ---

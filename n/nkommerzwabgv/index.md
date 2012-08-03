@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Einfuhrabgabenfreiheit von Waren in Sendungen von Privatpersonen
   an Privatpersonen
+jurabk: NKommerzWAbgV
 layout: default
+origslug: nkommerzwabgv
 slug: nkommerzwabgv
 
 ---

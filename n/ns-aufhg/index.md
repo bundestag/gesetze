@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege
+jurabk: NS-AufhG
 layout: default
+origslug: ns-aufhg
 slug: ns-aufhg
 
 ---

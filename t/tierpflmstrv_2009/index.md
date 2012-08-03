@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Tierpflegemeister/Geprüfte
   Tierpflegemeisterin
+jurabk: TierpflMstrV 2009
 layout: default
+origslug: tierpflmstrv_2009
 slug: tierpflmstrv_2009
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung über die Durchführung der veterinärrechtlichen Kontrollen bei der
   Einfuhr und Durchfuhr von Lebensmitteln tierischen Ursprungs aus Drittländern sowie
   über die Einfuhr sonstiger Lebensmittel aus Drittländern
+jurabk: LMEV
 layout: default
+origslug: lmev
 slug: lmev
 
 ---

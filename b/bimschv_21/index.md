@@ -1,6 +1,8 @@
 ---
 Title: Einundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 21
 layout: default
+origslug: bimschv_21
 slug: bimschv_21
 
 ---

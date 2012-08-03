@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Bestimmung der Beitragssätze und zur Bestimmung der Umrechnungsfaktoren
   für den Versorgungsausgleich in der gesetzlichen Rentenversicherung für 2000
+jurabk: BSG 2000
 layout: default
+origslug: bsg_2000
 slug: bsg_2000
 
 ---

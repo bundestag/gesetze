@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine
+jurabk: LStHVDV
 layout: default
+origslug: lsthvdv
 slug: lsthvdv
 
 ---

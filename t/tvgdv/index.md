@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Tarifvertragsgesetzes
+jurabk: TVGDV
 layout: default
+origslug: tvgdv
 slug: tvgdv
 
 ---

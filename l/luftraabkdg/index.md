@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Durchführung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts
+jurabk: LuftRAAbkDG
 layout: default
+origslug: luftraabkdg
 slug: luftraabkdg
 
 ---

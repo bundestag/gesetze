@@ -1,6 +1,8 @@
 ---
 Title: Vierte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+jurabk: BEGDV 4
 layout: default
+origslug: begdv_4
 slug: begdv_4
 
 ---

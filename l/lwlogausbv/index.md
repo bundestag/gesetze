@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung im Lagerbereich in den Ausbildungsberufen
   Fachlagerist/Fachlageristin und Fachkraft für Lagerlogistik
+jurabk: LWLogAusbV
 layout: default
+origslug: lwlogausbv
 slug: lwlogausbv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln
+jurabk: KapErhStG
 layout: default
+origslug: kaperhstg
 slug: kaperhstg
 
 ---

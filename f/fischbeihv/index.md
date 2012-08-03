@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter
   Fischereierzeugnisse
+jurabk: FischBeihV
 layout: default
+origslug: fischbeihv
 slug: fischbeihv
 
 ---

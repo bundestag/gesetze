@@ -1,6 +1,8 @@
 ---
 Title: Zehnte Durchführungsverordnung zum Marktstrukturgesetz - Tabak
+jurabk: MarktStrGDV 10
 layout: default
+origslug: marktstrgdv_10
 slug: marktstrgdv_10
 
 ---

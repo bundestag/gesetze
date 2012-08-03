@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
+jurabk: BauwAbdAusbV
 layout: default
+origslug: bauwabdausbv
 slug: bauwabdausbv
 
 ---

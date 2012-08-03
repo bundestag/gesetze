@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
+jurabk: ZTechAusbV
 layout: default
+origslug: ztechausbv
 slug: ztechausbv
 
 ---

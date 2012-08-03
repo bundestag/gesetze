@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003
   im Bereich der Besteuerung von Zinserträgen
+jurabk: ZIV
 layout: default
+origslug: ziv
 slug: ziv
 
 ---

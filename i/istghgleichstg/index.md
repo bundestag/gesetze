@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über das Ruhen der Verfolgungsverjährung und die Gleichstellung der
   Richter und Bediensteten des Internationalen Strafgerichtshofes
+jurabk: IStGHGleichstG
 layout: default
+origslug: istghgleichstg
 slug: istghgleichstg
 
 ---

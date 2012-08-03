@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Schleswig
+jurabk: FluLärmSchleswV
 layout: default
-slug: flul_rmschleswv
+origslug: flul_rmschleswv
+slug: flulaermschleswv
 
 ---
 

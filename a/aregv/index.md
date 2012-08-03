@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anreizregulierung der Energieversorgungsnetze
+jurabk: ARegV
 layout: default
+origslug: aregv
 slug: aregv
 
 ---

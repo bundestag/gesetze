@@ -1,6 +1,8 @@
 ---
 Title: Kernbrennstoffsteuergesetz
+jurabk: KernbrStG
 layout: default
+origslug: kernbrstg
 slug: kernbrstg
 
 ---

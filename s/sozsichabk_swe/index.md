@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden
   über Soziale Sicherheit
+jurabk: SozSichAbk SWE
 layout: default
+origslug: sozsichabk_swe
 slug: sozsichabk_swe
 
 ---

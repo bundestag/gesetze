@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen
   Dienst bei der Eisenbahn-Unfallkasse
+jurabk: LAP-hDEUKV
 layout: default
+origslug: lap-hdeukv
 slug: lap-hdeukv
 
 ---

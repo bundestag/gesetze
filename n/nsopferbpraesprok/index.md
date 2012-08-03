@@ -1,7 +1,9 @@
 ---
 Title: Proklamation des Bundespräsidenten
+jurabk: NSOpferBPräsProk
 layout: default
-slug: nsopferbpr_sprok
+origslug: nsopferbpr_sprok
+slug: nsopferbpraesprok
 
 ---
 

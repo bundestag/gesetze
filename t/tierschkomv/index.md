@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Tierschutzkommission beim Bundesministerium für Ernährung,
   Landwirtschaft und Verbraucherschutz
+jurabk: TierSchKomV
 layout: default
+origslug: tierschkomv
 slug: tierschkomv
 
 ---

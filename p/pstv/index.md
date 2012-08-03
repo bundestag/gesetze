@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausführung des Personenstandsgesetzes
+jurabk: PStV
 layout: default
+origslug: pstv
 slug: pstv
 
 ---

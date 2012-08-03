@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag
   in Angelegenheiten der Europäischen Union
+jurabk: EUZBBG
 layout: default
+origslug: euzbbg
 slug: euzbbg
 
 ---

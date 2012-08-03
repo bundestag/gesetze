@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Aufhebung des Modulationsgesetzes
+jurabk: ModGAufhG
 layout: default
+origslug: modgaufhg
 slug: modgaufhg
 
 ---

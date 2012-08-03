@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Preisstatistik
+jurabk: PreisStatG
 layout: default
+origslug: preisstatg
 slug: preisstatg
 
 ---

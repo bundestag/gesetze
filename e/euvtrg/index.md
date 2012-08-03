@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Vertrag vom 7. Februar 1992 über die Europäische Union
+jurabk: EUVtrG
 layout: default
+origslug: euvtrg
 slug: euvtrg
 
 ---

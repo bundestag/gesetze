@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat
+jurabk: DrittelbG
 layout: default
+origslug: drittelbg
 slug: drittelbg
 
 ---

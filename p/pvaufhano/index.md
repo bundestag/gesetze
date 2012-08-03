@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen
   Personenversicherungen der Bürger
+jurabk: PVAufhAnO
 layout: default
+origslug: pvaufhano
 slug: pvaufhano
 
 ---

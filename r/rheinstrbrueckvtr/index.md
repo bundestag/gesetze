@@ -1,8 +1,10 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik
   über den Bau einer Straßenbrücke über den Rhein zwischen Weil am Rhein und Hüningen
+jurabk: RheinStrBrückVtr
 layout: default
-slug: rheinstrbr_ckvtr
+origslug: rheinstrbr_ckvtr
+slug: rheinstrbrueckvtr
 
 ---
 

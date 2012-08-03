@@ -1,6 +1,8 @@
 ---
 Title: Werkstättenverordnung
+jurabk: SchwbWV
 layout: default
+origslug: schwbwv
 slug: schwbwv
 
 ---

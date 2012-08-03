@@ -1,6 +1,8 @@
 ---
 Title: Staatsangehörigkeitsgesetz
+jurabk: RuStAG
 layout: default
+origslug: rustag
 slug: rustag
 
 ---

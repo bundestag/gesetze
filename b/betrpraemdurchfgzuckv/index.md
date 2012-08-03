@@ -2,8 +2,10 @@
 Title: Verordnung zur Aufteilung der Erhöhung der Obergrenze auf die Regionen sowie
   über Daten für die Festsetzung des betriebsindividuellen Zuckergrundbetrags und
   der zusätzlichen betriebsindividuellen Zuckerbeträge nach dem Betriebsprämiendurchführungsgesetz
+jurabk: BetrPrämDurchfGZuckV
 layout: default
-slug: betrpr_mdurchfgzuckv
+origslug: betrpr_mdurchfgzuckv
+slug: betrpraemdurchfgzuckv
 
 ---
 

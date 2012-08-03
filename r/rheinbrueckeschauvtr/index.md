@@ -1,8 +1,10 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik
   über den Bau einer Straßenbrücke über den Rhein zwischen Altenheim und Eschau
+jurabk: RheinBrückEschauVtr
 layout: default
-slug: rheinbr_ckeschauvtr
+origslug: rheinbr_ckeschauvtr
+slug: rheinbrueckeschauvtr
 
 ---
 

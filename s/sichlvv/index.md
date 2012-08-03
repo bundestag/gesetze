@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Übertragung von Aufgaben und Befugnissen eines  Sicherungsfonds
   für die Lebensversicherung an die Protektor  Lebensversicherungs-AG
+jurabk: SichLVV
 layout: default
+origslug: sichlvv
 slug: sichlvv
 
 ---

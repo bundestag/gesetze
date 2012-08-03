@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Wide
   und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Bundesversicherungsamtes
   in Angelegenheiten nach dem  Bundesreisekostengesetz, dem Bundesumzugskostengesetz
   einschließlich der  hierzu ergangenen Trennungsgeldverordnung
+jurabk: BVAZustAnO
 layout: default
+origslug: bvazustano
 slug: bvazustano
 
 ---

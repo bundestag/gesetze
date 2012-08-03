@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung über die Erstattung von pauschalierten Aufwendungen bei  Ausführung
   der Ausbildungsvermittlung
+jurabk: AusbErstV
 layout: default
+origslug: ausberstv
 slug: ausberstv
 
 ---

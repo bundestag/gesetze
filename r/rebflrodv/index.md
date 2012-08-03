@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung von Prämien für die endgültige Aufgabe des Weinbaus
+jurabk: RebflRodV
 layout: default
+origslug: rebflrodv
 slug: rebflrodv
 
 ---

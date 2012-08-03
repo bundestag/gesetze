@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Regelung der Landeszugehörigkeit des Verwaltungsbezirks Oldenburg
   und des Landkreises Schaumburg-Lippe nach Artikel 29 Abs. 3 Satz 2 des Grundgesetzes
+jurabk: OldenbG
 layout: default
+origslug: oldenbg
 slug: oldenbg
 
 ---

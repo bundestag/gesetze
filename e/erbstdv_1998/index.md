@@ -1,6 +1,8 @@
 ---
 Title: Erbschaftsteuer-Durchführungsverordnung
+jurabk: ErbStDV 1998
 layout: default
+origslug: erbstdv_1998
 slug: erbstdv_1998
 
 ---

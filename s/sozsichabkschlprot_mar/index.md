@@ -1,7 +1,9 @@
 ---
 Title: Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und dem
   Königreich Marokko über Soziale Sicherheit
+jurabk: SozSichAbkSchlProt MAR
 layout: default
+origslug: sozsichabkschlprot_mar
 slug: sozsichabkschlprot_mar
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Vierundsechzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
+jurabk: BinSchStrO1998AbwV 64
 layout: default
+origslug: binschstro1998abwv_64
 slug: binschstro1998abwv_64
 
 ---

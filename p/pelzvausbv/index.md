@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
+jurabk: PelzVAusbV
 layout: default
+origslug: pelzvausbv
 slug: pelzvausbv
 
 ---

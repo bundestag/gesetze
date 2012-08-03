@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Bewachungsgewerbe
+jurabk: BewachV 1996
 layout: default
+origslug: bewachv_1996
 slug: bewachv_1996
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Sozialistischen Föderativen
   Republik Jugoslawien über die Auslieferung
+jurabk: AuslfVtr YUG
 layout: default
+origslug: auslfvtr_yug
 slug: auslfvtr_yug
 
 ---

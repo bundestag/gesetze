@@ -2,8 +2,10 @@
 Title: Verordnung zur Durchführung des Gesetzes über die Bildung von Rückstellungen
   in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen
   und in der Altbankenrechnung der Berliner Altbanken
+jurabk: UmstRückstGDV
 layout: default
-slug: umstr_ckstgdv
+origslug: umstr_ckstgdv
+slug: umstrueckstgdv
 
 ---
 

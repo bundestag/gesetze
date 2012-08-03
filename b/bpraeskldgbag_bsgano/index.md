@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesarbeitsgericht
   und bei dem Bundessozialgericht
+jurabk: BPräsKldgBAG/BSGAnO
 layout: default
-slug: bpr_skldgbag_bsgano
+origslug: bpr_skldgbag_bsgano
+slug: bpraeskldgbag_bsgano
 
 ---
 

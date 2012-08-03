@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Zulassungs- und allgemeine Prüfungsverfahren für die Meisterprüfung
   im Handwerk und in handwerksähnlichen Gewerben
+jurabk: MPVerfVO
 layout: default
+origslug: mpverfvo
 slug: mpverfvo
 
 ---

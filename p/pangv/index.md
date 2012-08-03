@@ -1,6 +1,8 @@
 ---
 Title: Preisangabenverordnung
+jurabk: PAngV
 layout: default
+origslug: pangv
 slug: pangv
 
 ---

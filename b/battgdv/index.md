@@ -2,7 +2,9 @@
 Verordnung zur Durchführung des Batteriegesetzes
 ---
 Title: ''
+jurabk: BattGDV
 layout: default
+origslug: battgdv
 slug: battgdv
 
 ---

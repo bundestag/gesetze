@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Beschleunigung von Genehmigungsverfahren
+jurabk: GenBeschlG
 layout: default
+origslug: genbeschlg
 slug: genbeschlg
 
 ---

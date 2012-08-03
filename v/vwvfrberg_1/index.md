@@ -1,6 +1,8 @@
 ---
 Title: Erstes Gesetz zur Bereinigung des Verwaltungsverfahrensrechts
+jurabk: VwVfRBerG 1
 layout: default
+origslug: vwvfrberg_1
 slug: vwvfrberg_1
 
 ---

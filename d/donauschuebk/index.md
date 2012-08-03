@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Zusammenarbeit zum Schutz und zur verträglichen Nutzung
   der Donau
+jurabk: DonauSchÜbk
 layout: default
-slug: donausch_bk
+origslug: donausch_bk
+slug: donauschuebk
 
 ---
 

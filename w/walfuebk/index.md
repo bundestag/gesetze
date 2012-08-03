@@ -1,7 +1,9 @@
 ---
 Title: Internationales Übereinkommen zur Regelung des Walfangs
+jurabk: WalfÜbk
 layout: default
-slug: walf_bk
+origslug: walf_bk
+slug: walfuebk
 
 ---
 

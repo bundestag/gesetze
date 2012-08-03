@@ -3,8 +3,10 @@ Title: Gesetz zu dem Vertrag vom 13. November 1969 zwischen der Bundesrepublik D
   und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Übereinkommens
   über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner
   Anwendung
+jurabk: EuRHiCHEÜbkErgVtrG
 layout: default
-slug: eurhiche_bkergvtrg
+origslug: eurhiche_bkergvtrg
+slug: eurhicheuebkergvtrg
 
 ---
 

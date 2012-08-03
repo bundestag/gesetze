@@ -1,6 +1,8 @@
 ---
 Title: Vierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 40
 layout: default
+origslug: stvzoausnv_40
 slug: stvzoausnv_40
 
 ---

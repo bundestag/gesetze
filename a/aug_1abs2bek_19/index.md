@@ -1,7 +1,9 @@
 ---
 Title: Neunzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
   1 Abs. 2 des Auslandsunterhaltsgesetzes
+jurabk: AUG§1Abs2Bek 19
 layout: default
+origslug: aug_1abs2bek_19
 slug: aug_1abs2bek_19
 
 ---

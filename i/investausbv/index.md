@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau
+jurabk: InvestAusbV
 layout: default
+origslug: investausbv
 slug: investausbv
 
 ---

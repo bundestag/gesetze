@@ -2,8 +2,10 @@
 Title: Abkommen betreffend die Ausstellung eines Reiseausweises an Flüchtlinge, die
   unter die Zuständigkeit des zwischenstaatlichen Ausschusses für die Flüchtlinge
   fallen
+jurabk: FlüRAuswAbk
 layout: default
-slug: fl_rauswabk
+origslug: fl_rauswabk
+slug: fluerauswabk
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Haftpflichtgesetz
+jurabk: HaftPflG
 layout: default
+origslug: haftpflg
 slug: haftpflg
 
 ---

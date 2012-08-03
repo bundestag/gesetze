@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des Meeresbodenbergbaus
+jurabk: MBergG
 layout: default
+origslug: mbergg
 slug: mbergg
 
 ---

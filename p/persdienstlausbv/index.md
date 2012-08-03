@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum
 Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
 ---
 Title: ''
+jurabk: PersDienstLAusbV
 layout: default
+origslug: persdienstlausbv
 slug: persdienstlausbv
 
 ---

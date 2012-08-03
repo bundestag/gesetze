@@ -1,7 +1,9 @@
 ---
 Title: Leitsätze für die Preisermittlung auf Grund von Selbstkosten (Anlage zur Verordnung
   PR Nr. 30/53 vom 21. November 1953)
+jurabk: PreisLS
 layout: default
+origslug: preisls
 slug: preisls
 
 ---

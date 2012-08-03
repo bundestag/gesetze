@@ -1,7 +1,9 @@
 ---
 Title: Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung
   von Amtsbezeichnungen
+jurabk: BMPTAmtsbezAnO 1991
 layout: default
+origslug: bmptamtsbezano_1991
 slug: bmptamtsbezano_1991
 
 ---

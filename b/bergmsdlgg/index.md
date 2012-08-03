@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Bergmannssiedlungen
+jurabk: BergMSdlgG
 layout: default
+origslug: bergmsdlgg
 slug: bergmsdlgg
 
 ---

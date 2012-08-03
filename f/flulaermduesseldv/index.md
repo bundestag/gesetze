@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Düsseldorf
+jurabk: FluLärmDüsseldV
 layout: default
-slug: flul_rmd_sseldv
+origslug: flul_rmd_sseldv
+slug: flulaermduesseldv
 
 ---
 

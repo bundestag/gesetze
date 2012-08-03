@@ -1,7 +1,9 @@
 ---
 Title: Bundesgesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung
   für Berechtigte im Ausland
+jurabk: BWKAuslG
 layout: default
+origslug: bwkauslg
 slug: bwkauslg
 
 ---

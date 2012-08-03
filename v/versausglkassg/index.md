@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Versorgungsausgleichskasse
+jurabk: VersAusglKassG
 layout: default
+origslug: versausglkassg
 slug: versausglkassg
 
 ---

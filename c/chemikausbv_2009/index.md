@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
 ---
 Title: ''
+jurabk: ChemikAusbV 2009
 layout: default
+origslug: chemikausbv_2009
 slug: chemikausbv_2009
 
 ---

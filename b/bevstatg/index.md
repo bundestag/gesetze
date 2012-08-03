@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des
   Bevölkerungsstandes
+jurabk: BevStatG
 layout: default
+origslug: bevstatg
 slug: bevstatg
 
 ---

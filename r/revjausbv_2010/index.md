@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin
 ---
 Title: ''
+jurabk: RevjAusbV 2010
 layout: default
+origslug: revjausbv_2010
 slug: revjausbv_2010
 
 ---

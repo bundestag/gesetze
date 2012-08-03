@@ -1,6 +1,8 @@
 ---
 Title: Zweites Gesetz über Bergmannssiedlungen
+jurabk: BergMSdlgG 2
 layout: default
+origslug: bergmsdlgg_2
 slug: bergmsdlgg_2
 
 ---

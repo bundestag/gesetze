@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der
   Europäischen Union
+jurabk: EUZBLG
 layout: default
+origslug: euzblg
 slug: euzblg
 
 ---

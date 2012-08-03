@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Meldung zu Versuchszwecken oder zu bestimmten anderen Zwecken
   verwendeter Wirbeltiere
+jurabk: VersTierMeldV 2000
 layout: default
+origslug: verstiermeldv_2000
 slug: verstiermeldv_2000
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung einer Unterrichtsvergütung für Lehramtsanwärter
+jurabk: LehrVergV
 layout: default
+origslug: lehrvergv
 slug: lehrvergv
 
 ---

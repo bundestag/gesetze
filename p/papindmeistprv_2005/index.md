@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Papiererzeugung
+jurabk: PapIndMeistPrV 2005
 layout: default
+origslug: papindmeistprv_2005
 slug: papindmeistprv_2005
 
 ---

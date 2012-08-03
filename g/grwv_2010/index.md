@@ -2,7 +2,9 @@
 Verordnung zum Schutz des Grundwassers
 ---
 Title: ''
+jurabk: GrwV 2010
 layout: default
+origslug: grwv_2010
 slug: grwv_2010
 
 ---

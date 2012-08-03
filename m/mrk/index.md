@@ -1,6 +1,8 @@
 ---
 Title: Konvention zum Schutze der Menschenrechte und Grundfreiheiten
+jurabk: MRK
 layout: default
+origslug: mrk
 slug: mrk
 
 ---

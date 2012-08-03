@@ -2,7 +2,9 @@
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Wetterdienst
   des Bundes im Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der
   Bundeswehr
+jurabk: LAP-mWD/BwV
 layout: default
+origslug: lap-mwd_bwv
 slug: lap-mwd_bwv
 
 ---

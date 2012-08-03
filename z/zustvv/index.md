@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken für die Zustellung im gerichtlichen
   Verfahren
+jurabk: ZustVV
 layout: default
+origslug: zustvv
 slug: zustvv
 
 ---

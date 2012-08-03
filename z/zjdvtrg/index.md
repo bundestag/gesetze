@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland
   und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts
   -
+jurabk: ZJDVtrG
 layout: default
+origslug: zjdvtrg
 slug: zjdvtrg
 
 ---

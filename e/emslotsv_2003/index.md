@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Verwaltung und Ordnung des Seelotsreviers Ems
+jurabk: EmsLotsV 2003
 layout: default
+origslug: emslotsv_2003
 slug: emslotsv_2003
 
 ---

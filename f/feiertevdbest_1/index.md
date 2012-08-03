@@ -1,7 +1,9 @@
 ---
 Title: Erste Durchführungsbestimmung zur Verordnung über die Einführung gesetzlicher
   Feiertage
+jurabk: FeiertEVDBest 1
 layout: default
+origslug: feiertevdbest_1
 slug: feiertevdbest_1
 
 ---

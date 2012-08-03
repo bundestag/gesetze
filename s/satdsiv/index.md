@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Satellitendatensicherheitsgesetz
+jurabk: SatDSiV
 layout: default
+origslug: satdsiv
 slug: satdsiv
 
 ---

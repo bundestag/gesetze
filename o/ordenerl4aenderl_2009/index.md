@@ -1,8 +1,10 @@
 ---
 Title: Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung und
   Verleihung der Goethe-Medaille
+jurabk: OrdenErl4ÄndErl 2009
 layout: default
-slug: ordenerl4_nderl_2009
+origslug: ordenerl4_nderl_2009
+slug: ordenerl4aenderl_2009
 
 ---
 

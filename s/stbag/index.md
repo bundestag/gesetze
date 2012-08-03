@@ -1,6 +1,8 @@
 ---
 Title: Steuerbeamten-Ausbildungsgesetz
+jurabk: StBAG
 layout: default
+origslug: stbag
 slug: stbag
 
 ---

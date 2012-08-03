@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zur Fachkraft für Möbel-, Küchen-
 und Umzugsservice
 ---
 Title: ''
+jurabk: MKUServAusbV
 layout: default
+origslug: mkuservausbv
 slug: mkuservausbv
 
 ---

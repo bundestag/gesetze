@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung
   zum Chemikanten/zur Chemikantin
+jurabk: ChemikAusbErprobV
 layout: default
+origslug: chemikausberprobv
 slug: chemikausberprobv
 
 ---

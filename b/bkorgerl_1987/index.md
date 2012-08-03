@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1987
 layout: default
+origslug: bkorgerl_1987
 slug: bkorgerl_1987
 
 ---

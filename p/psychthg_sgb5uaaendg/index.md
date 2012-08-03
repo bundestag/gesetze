@@ -2,8 +2,10 @@
 Title: Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder-
   und Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches Sozialgesetzbuch
   und anderer Gesetze
+jurabk: PsychThG/SGB5uaÄndG
 layout: default
-slug: psychthg_sgb5ua_ndg
+origslug: psychthg_sgb5ua_ndg
+slug: psychthg_sgb5uaaendg
 
 ---
 

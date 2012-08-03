@@ -5,8 +5,10 @@ Title: Gesetz zu dem Abkommen vom 7. Dezember 2004 zwischen der Regierung der Bu
   über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem
   Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen
   Schwerverkehrsabgabe (LSVA-Abkommen Büsingen)
+jurabk: LSVAAbkBüsG
 layout: default
-slug: lsvaabkb_sg
+origslug: lsvaabkb_sg
+slug: lsvaabkbuesg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Bundesreisekostengesetz
+jurabk: BRKG 2005
 layout: default
+origslug: brkg_2005
 slug: brkg_2005
 
 ---

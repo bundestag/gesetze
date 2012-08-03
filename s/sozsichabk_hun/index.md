@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Ungarn über
   Soziale Sicherheit
+jurabk: SozSichAbk HUN
 layout: default
+origslug: sozsichabk_hun
 slug: sozsichabk_hun
 
 ---

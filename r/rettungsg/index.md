@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Rettung von Unternehmen zur Stabilisierung des Finanzmarktes
+jurabk: RettungsG
 layout: default
+origslug: rettungsg
 slug: rettungsg
 
 ---

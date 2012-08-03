@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Klageregister nach dem Kapitalanleger- Musterverfahrensgesetz
+jurabk: KlagRegV
 layout: default
+origslug: klagregv
 slug: klagregv
 
 ---

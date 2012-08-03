@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer
+jurabk: SichLVFinV
 layout: default
+origslug: sichlvfinv
 slug: sichlvfinv
 
 ---

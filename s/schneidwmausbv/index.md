@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schneidwerkzeugmechaniker/zur Schneidwerkzeugmechanikerin
+jurabk: SchneidwMAusbV
 layout: default
+origslug: schneidwmausbv
 slug: schneidwmausbv
 
 ---

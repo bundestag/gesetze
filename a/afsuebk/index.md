@@ -1,8 +1,10 @@
 ---
 Title: Internationales Übereinkommen von 2001 über die Beschränkung des Einsatzes
   schädlicher Bewuchsschutzsysteme auf Schiffen
+jurabk: AFSÜbk
 layout: default
-slug: afs_bk
+origslug: afs_bk
+slug: afsuebk
 
 ---
 

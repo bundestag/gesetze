@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Vermögensanlagen-Verkaufsprospekte
+jurabk: VermVerkProspV
 layout: default
+origslug: vermverkprospv
 slug: vermverkprospv
 
 ---

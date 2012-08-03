@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
+jurabk: PBV
 layout: default
+origslug: pbv
 slug: pbv
 
 ---

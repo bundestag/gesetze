@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kennzeichnung von Lebensmitteln
+jurabk: LMKV
 layout: default
+origslug: lmkv
 slug: lmkv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Internationales Freibord-Übereinkommen
+jurabk: FrBordÜbk
 layout: default
-slug: frbord_bk
+origslug: frbord_bk
+slug: frborduebk
 
 ---
 

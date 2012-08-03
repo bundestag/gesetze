@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Eintritt der Freistaaten Bayern und Baden in die Biersteuergemeinschaft
+jurabk: BierStGemBY/BAG
 layout: default
+origslug: bierstgemby_bag
 slug: bierstgemby_bag
 
 ---

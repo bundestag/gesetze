@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen
   Dienst des Bundes in der Sozialversicherung
+jurabk: GntDSVAPrV
 layout: default
+origslug: gntdsvaprv
 slug: gntdsvaprv
 
 ---

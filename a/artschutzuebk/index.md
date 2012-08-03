@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender
   Tiere und Pflanzen
+jurabk: ArtSchutzÜbk
 layout: default
-slug: artschutz_bk
+origslug: artschutz_bk
+slug: artschutzuebk
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Mitteilungspflichten nach § 16e des Chemikaliengesetzes
   zur Vorbeugung und Information bei Vergiftungen
+jurabk: ChemGiftInfoV
 layout: default
+origslug: chemgiftinfov
 slug: chemgiftinfov
 
 ---

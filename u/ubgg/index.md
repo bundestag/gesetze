@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Unternehmensbeteiligungsgesellschaften
+jurabk: UBGG
 layout: default
+origslug: ubgg
 slug: ubgg
 
 ---

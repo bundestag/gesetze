@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Baden in den Bundeswasserstraßen Weser, Lesum und Hunte
+jurabk: BadeV
 layout: default
+origslug: badev
 slug: badev
 
 ---

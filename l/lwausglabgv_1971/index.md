@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erhebung einer Ausgleichsabgabe zur Sicherung der deutschen
   Landwirtschaft
+jurabk: LwAusglAbgV 1971
 layout: default
+origslug: lwausglabgv_1971
 slug: lwausglabgv_1971
 
 ---

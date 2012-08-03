@@ -1,6 +1,8 @@
 ---
 Title: Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten
+jurabk: GOP
 layout: default
+origslug: gop
 slug: gop
 
 ---

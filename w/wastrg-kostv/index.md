@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung zum Bundeswasserstraßengesetz
+jurabk: WaStrG-KostV
 layout: default
+origslug: wastrg-kostv
 slug: wastrg-kostv
 
 ---

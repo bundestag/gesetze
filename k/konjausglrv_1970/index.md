@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bildung von Konjunkturausgleichsrücklagen durch Bund und
   Länder im Haushaltsjahr 1970
+jurabk: KonjAusglRV 1970
 layout: default
+origslug: konjausglrv_1970
 slug: konjausglrv_1970
 
 ---

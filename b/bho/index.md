@@ -1,6 +1,8 @@
 ---
 Title: Bundeshaushaltsordnung
+jurabk: BHO
 layout: default
+origslug: bho
 slug: bho
 
 ---

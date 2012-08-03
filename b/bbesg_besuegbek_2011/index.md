@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes
   sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
+jurabk: BBesG/BesÜGBek 2011
 layout: default
-slug: bbesg_bes_gbek_2011
+origslug: bbesg_bes_gbek_2011
+slug: bbesg_besuegbek_2011
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung einer Erhebung über Arten und Umfang der betrieblichen
   Altersversorgung
+jurabk: AltersVersErhV
 layout: default
+origslug: altersverserhv
 slug: altersverserhv
 
 ---

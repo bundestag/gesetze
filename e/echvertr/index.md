@@ -1,6 +1,8 @@
 ---
 Title: Vertrag über die Energiecharta
+jurabk: ECHVertr
 layout: default
+origslug: echvertr
 slug: echvertr
 
 ---

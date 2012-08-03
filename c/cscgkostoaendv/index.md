@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zum Container-Sicherheits-Zulassungsschild und zur Änderung der
   Kostenordnung
+jurabk: CSCGKostOÄndV
 layout: default
-slug: cscgkosto_ndv
+origslug: cscgkosto_ndv
+slug: cscgkostoaendv
 
 ---
 

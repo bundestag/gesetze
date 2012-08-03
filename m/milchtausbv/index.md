@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Milchtechnologen/zur
 Milchtechnologin
 ---
 Title: ''
+jurabk: MilchTAusbV
 layout: default
+origslug: milchtausbv
 slug: milchtausbv
 
 ---

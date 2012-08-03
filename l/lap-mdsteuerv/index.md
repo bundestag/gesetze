@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Steuerdienst
   des Bundes
+jurabk: LAP-mDSteuerV
 layout: default
+origslug: lap-mdsteuerv
 slug: lap-mdsteuerv
 
 ---

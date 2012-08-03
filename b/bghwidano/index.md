@@ -4,7 +4,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   von Beschäftigten des Bundesgerichtshofs und des Generalbundesanwalts beim Bundesgerichtshof
   einschließlich der Dienststelle Bundeszentralregister in Angelegenheiten nach den
   Beihilfevorschriften
+jurabk: BGHWidAnO
 layout: default
+origslug: bghwidano
 slug: bghwidano
 
 ---

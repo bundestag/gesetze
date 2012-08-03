@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise
+jurabk: EltSV
 layout: default
+origslug: eltsv
 slug: eltsv
 
 ---

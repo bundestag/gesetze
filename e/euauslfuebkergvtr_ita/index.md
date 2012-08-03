@@ -2,8 +2,10 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der italienischen Republik
   über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember
   1957 und die Erleichterung seiner Anwendung
+jurabk: EuAuslfÜbkErgVtr ITA
 layout: default
-slug: euauslf_bkergvtr_ita
+origslug: euauslf_bkergvtr_ita
+slug: euauslfuebkergvtr_ita
 
 ---
 

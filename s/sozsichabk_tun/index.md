@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Tunesischen Republik
   über Soziale Sicherheit
+jurabk: SozSichAbk TUN
 layout: default
+origslug: sozsichabk_tun
 slug: sozsichabk_tun
 
 ---

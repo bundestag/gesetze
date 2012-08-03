@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Nichtanpassung von Amtsgehalt und Ortszuschlag der Mitglieder
   der Bundesregierung und der Parlamentarischen Staatssekretäre
+jurabk: NichtAnpG
 layout: default
+origslug: nichtanpg
 slug: nichtanpg
 
 ---

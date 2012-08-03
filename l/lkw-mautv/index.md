@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Erhebung, zum Nachweis der ordnungsgemäßen Entrichtung und zur
   Erstattung der Maut
+jurabk: LKW-MautV
 layout: default
+origslug: lkw-mautv
 slug: lkw-mautv
 
 ---

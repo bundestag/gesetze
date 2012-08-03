@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gebühren für Amtshandlungen betreffend Verkaufsprospekte
   für Vermögensanlagen nach dem Vermögensanlagengesetz
+jurabk: VermVerkProspGebV
 layout: default
+origslug: vermverkprospgebv
 slug: vermverkprospgebv
 
 ---

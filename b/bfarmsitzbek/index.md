@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über den Dienstsitz des Bundesinstituts für Arzneimittel und
   Medizinprodukte
+jurabk: BfArMSitzBek
 layout: default
+origslug: bfarmsitzbek
 slug: bfarmsitzbek
 
 ---

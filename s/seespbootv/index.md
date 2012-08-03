@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie
   deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich
+jurabk: SeeSpbootV
 layout: default
+origslug: seespbootv
 slug: seespbootv
 
 ---

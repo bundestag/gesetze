@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 des Warenzeichengesetzes
+jurabk: WZG§35Bek 1982-03-29
 layout: default
+origslug: wzg_35bek_1982-03-29
 slug: wzg_35bek_1982-03-29
 
 ---

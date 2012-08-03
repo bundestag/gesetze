@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zur Strafprozeßordnung
+jurabk: StPOEG
 layout: default
+origslug: stpoeg
 slug: stpoeg
 
 ---

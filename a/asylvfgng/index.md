@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuregelung des Asylverfahrens
+jurabk: AsylVfGNG
 layout: default
+origslug: asylvfgng
 slug: asylvfgng
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Internationales Kaffee-Übereinkommen von 2001
+jurabk: KaffeeÜbk 2001
 layout: default
-slug: kaffee_bk_2001
+origslug: kaffee_bk_2001
+slug: kaffeeuebk_2001
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung des Organisationserlasses des Bundeskanzlers
+jurabk: BKOrgErl1999Bek
 layout: default
+origslug: bkorgerl1999bek
 slug: bkorgerl1999bek
 
 ---

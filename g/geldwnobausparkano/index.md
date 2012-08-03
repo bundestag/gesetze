@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Bausparkassen mit Sitz außerhalb des Währungsgebietes aus
   Anlaß der Neuordnung des Geldwesens
+jurabk: GeldWNOBauSparkAnO
 layout: default
+origslug: geldwnobausparkano
 slug: geldwnobausparkano
 
 ---

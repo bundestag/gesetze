@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Verringerung der Mehrstaatigkeit und über die Wehrpflicht
   von Mehrstaatern
+jurabk: MStaatÜbk
 layout: default
-slug: mstaat_bk
+origslug: mstaat_bk
+slug: mstaatuebk
 
 ---
 

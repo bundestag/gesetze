@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt
+jurabk: PatV
 layout: default
+origslug: patv
 slug: patv
 
 ---

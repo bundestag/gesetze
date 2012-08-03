@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 17. Februar 1966 zwischen der Bundesrepublik Deutschland
   und der Republik Österreich über den Durchgangsverkehr auf der Roßfeldstraße
+jurabk: GrenzVerkAUTVtrG 1
 layout: default
+origslug: grenzverkautvtrg_1
 slug: grenzverkautvtrg_1
 
 ---

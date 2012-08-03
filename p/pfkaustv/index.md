@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kapitalausstattung von Pensionsfonds
+jurabk: PFKAustV
 layout: default
+origslug: pfkaustv
 slug: pfkaustv
 
 ---

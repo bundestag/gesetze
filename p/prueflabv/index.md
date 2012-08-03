@@ -2,8 +2,10 @@
 Title: Verordnung über die Bewertung und Anerkennung von Prüflaboratorien als Voraussetzung
   für die Zulassung privater Gegenprobensachverständiger für die Untersuchung von
   Proben
+jurabk: PrüflabV
 layout: default
-slug: pr_flabv
+origslug: pr_flabv
+slug: prueflabv
 
 ---
 

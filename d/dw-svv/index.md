@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Zeitpunkt der Verlegung des Sitzes der Rundfunkanstalt
   des Bundesrechts Deutsche Welle von Köln nach Bonn
+jurabk: DW-SVV
 layout: default
+origslug: dw-svv
 slug: dw-svv
 
 ---

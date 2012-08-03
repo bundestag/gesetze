@@ -1,6 +1,8 @@
 ---
 Title: Gaststättengesetz
+jurabk: GastG
 layout: default
+origslug: gastg
 slug: gastg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale
   Kupferstudiengruppe
+jurabk: KuStGrVorRV
 layout: default
+origslug: kustgrvorrv
 slug: kustgrvorrv
 
 ---

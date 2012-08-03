@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zum Sprengstoffgesetz
+jurabk: SprengV 1
 layout: default
+origslug: sprengv_1
 slug: sprengv_1
 
 ---

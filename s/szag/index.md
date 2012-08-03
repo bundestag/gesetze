@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur innerstaatlichen Aufteilung von unverzinslichen Einlagen und  Geldbußen
   gemäß Artikel 104 des Vertrags zur Gründung der Europäischen  Gemeinschaft
+jurabk: SZAG
 layout: default
+origslug: szag
 slug: szag
 
 ---

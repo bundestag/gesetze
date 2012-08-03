@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Technische Hilfswerk
+jurabk: THW-HelfRG
 layout: default
+origslug: thw-helfrg
 slug: thw-helfrg
 
 ---

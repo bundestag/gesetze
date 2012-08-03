@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des
   Gesundheitswesens
+jurabk: GesWZustG
 layout: default
+origslug: geswzustg
 slug: geswzustg
 
 ---

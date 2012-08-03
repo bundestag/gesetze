@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Entschädigung der Mitglieder des Bundestages
+jurabk: DiätenG
 layout: default
-slug: di_teng
+origslug: di_teng
+slug: diaeteng
 
 ---
 

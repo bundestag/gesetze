@@ -1,6 +1,8 @@
 ---
 Title: Zwangsverwalterverordnung
+jurabk: ZwVwV
 layout: default
+origslug: zwvwv
 slug: zwvwv
 
 ---

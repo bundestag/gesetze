@@ -4,7 +4,9 @@ Title: Gesetz zur Ausführung des Beschlusses 2009/917/JI des Rates vom 30. Nove
   (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen
   Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit
   der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung
+jurabk: ZISAG
 layout: default
+origslug: zisag
 slug: zisag
 
 ---

@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 ---
 Title: ''
+jurabk: PharmAusbV 2009
 layout: default
+origslug: pharmausbv_2009
 slug: pharmausbv_2009
 
 ---

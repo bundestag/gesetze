@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung über steuerliche Konjunkturmaßnahmen
+jurabk: KonjV 1
 layout: default
+origslug: konjv_1
 slug: konjv_1
 
 ---

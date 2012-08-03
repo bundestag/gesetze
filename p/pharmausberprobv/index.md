@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung
   zum Pharmakanten/zur Pharmakantin
+jurabk: PharmAusbErprobV
 layout: default
+origslug: pharmausberprobv
 slug: pharmausberprobv
 
 ---

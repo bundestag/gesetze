@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Reform der gesetzlichen Krankenversicherung ab dem Jahr 2000
+jurabk: GKVRefG 2000
 layout: default
+origslug: gkvrefg_2000
 slug: gkvrefg_2000
 
 ---

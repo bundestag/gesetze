@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 8. September 1976 über die Ausstellung mehrsprachiger
   Auszüge aus Personenstandsbüchern
+jurabk: PersStdAuszÜbkG
 layout: default
-slug: persstdausz_bkg
+origslug: persstdausz_bkg
+slug: persstdauszuebkg
 
 ---
 

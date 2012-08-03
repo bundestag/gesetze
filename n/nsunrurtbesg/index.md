@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Beseitigung nationalsozialistischer Unrechtsurteile
+jurabk: NSUnrUrtBesG
 layout: default
+origslug: nsunrurtbesg
 slug: nsunrurtbesg
 
 ---

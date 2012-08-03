@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zu dem Protokoll vom 12. Juli 1974 über die Vorrechte und Immunitäten
   der Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre
+jurabk: EuAstroOrgVorRProtV
 layout: default
+origslug: euastroorgvorrprotv
 slug: euastroorgvorrprotv
 
 ---

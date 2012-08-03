@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu Übergangsregelungen zur Organisationsreform in der gesetzlichen Rentenversicherung
+jurabk: RVOrgRefÜG
 layout: default
-slug: rvorgref_g
+origslug: rvorgref_g
+slug: rvorgrefueg
 
 ---
 

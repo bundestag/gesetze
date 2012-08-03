@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung einer Denaturierungsprämie für Zucker
+jurabk: ZuckDenatPräV
 layout: default
-slug: zuckdenatpr_v
+origslug: zuckdenatpr_v
+slug: zuckdenatpraev
 
 ---
 

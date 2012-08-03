@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Revierjäger und zur Revierjägerin
+jurabk: RevierjAusbStEignV 2011
 layout: default
+origslug: revierjausbsteignv_2011
 slug: revierjausbsteignv_2011
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Aus- und Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin
+jurabk: AWPädFortbV
 layout: default
-slug: awp_dfortbv
+origslug: awp_dfortbv
+slug: awpaedfortbv
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Bundesnachrichtendienst
+jurabk: BNDG
 layout: default
+origslug: bndg
 slug: bndg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung zur Durchführung des Gesetzes zur Einführung von Vorschriften
   des Lastenausgleichsrechts im Saarland
+jurabk: LASaarDV 2
 layout: default
+origslug: lasaardv_2
 slug: lasaardv_2
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr
+jurabk: CMR
 layout: default
+origslug: cmr
 slug: cmr
 
 ---

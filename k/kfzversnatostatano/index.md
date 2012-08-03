@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die statistische Erfassung des Kraftfahrtversicherungsgeschäfts
   mit NATO-Truppenangehörigen
+jurabk: KfzVersNATOStatAnO
 layout: default
+origslug: kfzversnatostatano
 slug: kfzversnatostatano
 
 ---

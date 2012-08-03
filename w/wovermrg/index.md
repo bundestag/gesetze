@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung der Wohnungsvermittlung
+jurabk: WoVermRG
 layout: default
+origslug: wovermrg
 slug: wovermrg
 
 ---

@@ -2,7 +2,9 @@
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process
   manager electric/electronics)
+jurabk: PMElekPrV
 layout: default
+origslug: pmelekprv
 slug: pmelekprv
 
 ---

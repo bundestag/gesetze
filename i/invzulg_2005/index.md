@@ -1,6 +1,8 @@
 ---
 Title: Investitionszulagengesetz 2005
+jurabk: InvZulG 2005
 layout: default
+origslug: invzulg_2005
 slug: invzulg_2005
 
 ---

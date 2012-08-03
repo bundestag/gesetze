@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über das Deutsche Rote Kreuz und andere freiwillige Hilfsgesellschaften
   im Sinne der Genfer Rotkreuz-Abkommen
+jurabk: DRKG 2008
 layout: default
+origslug: drkg_2008
 slug: drkg_2008
 
 ---

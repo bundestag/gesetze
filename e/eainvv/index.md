@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum elektronischen Anzeigeverfahren für richtlinienkonforme inländische
   Investmentvermögen nach dem Investmentgesetz
+jurabk: EAInvV
 layout: default
+origslug: eainvv
 slug: eainvv
 
 ---

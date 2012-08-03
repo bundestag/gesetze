@@ -1,6 +1,8 @@
 ---
 Title: Investitionszulagengesetz 1996
+jurabk: InvZulG 1991
 layout: default
+origslug: invzulg_1991
 slug: invzulg_1991
 
 ---

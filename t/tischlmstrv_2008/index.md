@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Tischler-Handwerk
+jurabk: TischlMstrV 2008
 layout: default
+origslug: tischlmstrv_2008
 slug: tischlmstrv_2008
 
 ---

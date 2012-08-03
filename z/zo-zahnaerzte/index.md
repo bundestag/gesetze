@@ -1,7 +1,9 @@
 ---
 Title: Zulassungsverordnung für Vertragszahnärzte
+jurabk: ZO-Zahnärzte
 layout: default
-slug: zo-zahn_rzte
+origslug: zo-zahn_rzte
+slug: zo-zahnaerzte
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Frequenzgebührenverordnung
+jurabk: FGebV
 layout: default
+origslug: fgebv
 slug: fgebv
 
 ---

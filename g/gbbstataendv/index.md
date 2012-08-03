@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Änderung des Statuts der Genossenschaftsbank Berlin und zu deren
   Umwandlung
+jurabk: GBBStatÄndV
 layout: default
-slug: gbbstat_ndv
+origslug: gbbstat_ndv
+slug: gbbstataendv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Kosten für Amtshandlungen nach dem Gesetz über die elektromagnetische
   Verträglichkeit von Betriebsmitteln und nach dem Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen
+jurabk: EMV-FTEKostV
 layout: default
+origslug: emv-ftekostv
 slug: emv-ftekostv
 
 ---

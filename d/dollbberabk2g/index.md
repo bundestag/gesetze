@@ -2,7 +2,9 @@
 Title: Gesetz zum Zweiten Abkommen vom 16. August 1960 zwischen der Bundesrepublik
   Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten,
   die sich aus der Bereinigung deutscher Dollarbonds ergeben
+jurabk: DollBBerAbk2G
 layout: default
+origslug: dollbberabk2g
 slug: dollbberabk2g
 
 ---

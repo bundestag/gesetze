@@ -1,6 +1,8 @@
 ---
 Title: Sechsundsechzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
+jurabk: BinSchStrO1998AbwV 66
 layout: default
+origslug: binschstro1998abwv_66
 slug: binschstro1998abwv_66
 
 ---

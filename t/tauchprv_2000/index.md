@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Taucher/Geprüfte
   Taucherin
+jurabk: TauchPrV 2000
 layout: default
+origslug: tauchprv_2000
 slug: tauchprv_2000
 
 ---

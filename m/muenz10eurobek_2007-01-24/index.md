@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "50 Jahre Römische Verträge")
+jurabk: Münz10EuroBek 2007-01-24
 layout: default
-slug: m_nz10eurobek_2007-01-24
+origslug: m_nz10eurobek_2007-01-24
+slug: muenz10eurobek_2007-01-24
 
 ---
 

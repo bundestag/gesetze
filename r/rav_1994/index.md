@@ -3,7 +3,9 @@ Title: Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik Deutschl
   ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre 1994 und zur
   achten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten
   Gebiet
+jurabk: RAV 1994
 layout: default
+origslug: rav_1994
 slug: rav_1994
 
 ---

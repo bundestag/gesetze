@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ablösung des Arznei- und Heilmittelbudgets
+jurabk: ABAG
 layout: default
+origslug: abag
 slug: abag
 
 ---

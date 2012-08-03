@@ -1,6 +1,8 @@
 ---
 Title: Vertrag über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl
+jurabk: EGKSVtr
 layout: default
+origslug: egksvtr
 slug: egksvtr
 
 ---

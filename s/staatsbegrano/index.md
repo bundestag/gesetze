@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über Staatsbegräbnisse und Staatsakte
+jurabk: StaatsbegrAnO
 layout: default
+origslug: staatsbegrano
 slug: staatsbegrano
 
 ---

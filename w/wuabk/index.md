@@ -1,6 +1,8 @@
 ---
 Title: Welturheberrechtsabkommen
+jurabk: WUAbk
 layout: default
+origslug: wuabk
 slug: wuabk
 
 ---

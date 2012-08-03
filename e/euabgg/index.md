@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments
   aus der Bundesrepublik Deutschland
+jurabk: EuAbgG
 layout: default
+origslug: euabgg
 slug: euabgg
 
 ---

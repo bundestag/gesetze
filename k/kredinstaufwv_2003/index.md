@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Ersatz von Aufwendungen der Kreditinstitute
+jurabk: KredInstAufwV 2003
 layout: default
+origslug: kredinstaufwv_2003
 slug: kredinstaufwv_2003
 
 ---

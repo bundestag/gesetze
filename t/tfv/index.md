@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erteilung der Fahrberechtigung an Triebfahrzeugführer sowie
   die Anerkennung von Personen und Stellen für Ausbildung und Prüfung
+jurabk: TfV
 layout: default
+origslug: tfv
 slug: tfv
 
 ---

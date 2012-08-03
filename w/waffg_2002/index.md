@@ -1,6 +1,8 @@
 ---
 Title: Waffengesetz
+jurabk: WaffG 2002
 layout: default
+origslug: waffg_2002
 slug: waffg_2002
 
 ---

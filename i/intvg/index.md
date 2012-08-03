@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestages und
   des Bundesrates in Angelegenheiten der Europäischen Union
+jurabk: IntVG
 layout: default
+origslug: intvg
 slug: intvg
 
 ---

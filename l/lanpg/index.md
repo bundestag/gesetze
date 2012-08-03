@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und
   ökologische Marktwirtschaft in der Deutschen Demokratischen Republik
+jurabk: LAnpG
 layout: default
+origslug: lanpg
 slug: lanpg
 
 ---

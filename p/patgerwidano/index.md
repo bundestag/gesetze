@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundespatentgerichts
   in Angelegenheiten nach den Beihilfevorschriften
+jurabk: PatGerWidAnO
 layout: default
+origslug: patgerwidano
 slug: patgerwidano
 
 ---

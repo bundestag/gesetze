@@ -1,6 +1,8 @@
 ---
 Title: Fünfzehnte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 15
 layout: default
+origslug: stvzoausnv_15
 slug: stvzoausnv_15
 
 ---

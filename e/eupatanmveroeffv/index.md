@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Übersetzungen der Ansprüche europäischer Patentanmeldungen
+jurabk: EuPatAnmVeröffV
 layout: default
-slug: eupatanmver_ffv
+origslug: eupatanmver_ffv
+slug: eupatanmveroeffv
 
 ---
 

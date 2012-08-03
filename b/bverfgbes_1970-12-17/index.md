@@ -1,7 +1,9 @@
 ---
 Title: Beschluß des Bundesverfassungsgerichts vom 17. Dezember 1970 gemäß § 14 Abs.
   4 des Gesetzes über das Bundesverfassungsgericht
+jurabk: BVerfGBes 1970-12-17
 layout: default
+origslug: bverfgbes_1970-12-17
 slug: bverfgbes_1970-12-17
 
 ---

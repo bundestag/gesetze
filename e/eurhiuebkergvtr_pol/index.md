@@ -2,8 +2,10 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Polen über
   die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe
   in Strafsachen und die Erleichterung seiner Anwendung
+jurabk: EuRHiÜbkErgVtr POL
 layout: default
-slug: eurhi_bkergvtr_pol
+origslug: eurhi_bkergvtr_pol
+slug: eurhiuebkergvtr_pol
 
 ---
 

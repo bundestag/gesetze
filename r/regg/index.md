@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs
+jurabk: RegG
 layout: default
+origslug: regg
 slug: regg
 
 ---

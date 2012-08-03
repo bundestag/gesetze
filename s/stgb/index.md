@@ -1,6 +1,8 @@
 ---
 Title: Strafgesetzbuch
+jurabk: StGB
 layout: default
+origslug: stgb
 slug: stgb
 
 ---

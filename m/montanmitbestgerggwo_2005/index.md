@@ -1,6 +1,8 @@
 ---
 Title: Wahlordnung zum Mitbestimmungsergänzungsgesetz
+jurabk: MontanMitbestGErgGWO 2005
 layout: default
+origslug: montanmitbestgerggwo_2005
 slug: montanmitbestgerggwo_2005
 
 ---

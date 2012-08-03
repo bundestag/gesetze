@@ -2,7 +2,9 @@
 Title: Allgemeine Verfahrensvorschriften für das Schiedsgericht (Anlage VIII zu dem
   Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
   der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)
+jurabk: WWSUVtrAnl VIII
 layout: default
+origslug: wwsuvtranl_viii
 slug: wwsuvtranl_viii
 
 ---

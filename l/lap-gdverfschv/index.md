@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst
   im Verfassungsschutz des Bundes
+jurabk: LAP-gDVerfSchV
 layout: default
+origslug: lap-gdverfschv
 slug: lap-gdverfschv
 
 ---

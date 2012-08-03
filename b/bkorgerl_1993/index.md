@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1993
 layout: default
+origslug: bkorgerl_1993
 slug: bkorgerl_1993
 
 ---

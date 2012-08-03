@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Beauftragung des Flughafenkoordinators
+jurabk: FPKBeauftrV
 layout: default
+origslug: fpkbeauftrv
 slug: fpkbeauftrv
 
 ---

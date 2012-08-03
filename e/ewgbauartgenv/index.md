@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über EWG-Bauartgenehmigungen für Kontrollgeräte und Schaublätter
+jurabk: EWGBauartGenV
 layout: default
+origslug: ewgbauartgenv
 slug: ewgbauartgenv
 
 ---

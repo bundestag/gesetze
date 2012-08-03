@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
   genannten Gebiet
+jurabk: RAV 9
 layout: default
+origslug: rav_9
 slug: rav_9
 
 ---

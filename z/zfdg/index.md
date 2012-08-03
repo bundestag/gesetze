@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Zollkriminalamt und die Zollfahndungsämter
+jurabk: ZFdG
 layout: default
+origslug: zfdg
 slug: zfdg
 
 ---

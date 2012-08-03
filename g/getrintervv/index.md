@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Mindestmenge für die Intervention bei Getreide
+jurabk: GetrIntervV
 layout: default
+origslug: getrintervv
 slug: getrintervv
 
 ---

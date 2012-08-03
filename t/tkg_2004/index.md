@@ -1,6 +1,8 @@
 ---
 Title: Telekommunikationsgesetz
+jurabk: TKG 2004
 layout: default
+origslug: tkg_2004
 slug: tkg_2004
 
 ---

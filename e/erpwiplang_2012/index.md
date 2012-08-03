@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für
   das Jahr 2012
+jurabk: ERPWiPlanG 2012
 layout: default
+origslug: erpwiplang_2012
 slug: erpwiplang_2012
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk
+jurabk: ElektroTechMstrV
 layout: default
+origslug: elektrotechmstrv
 slug: elektrotechmstrv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes
+jurabk: LwAltschV
 layout: default
+origslug: lwaltschv
 slug: lwaltschv
 
 ---

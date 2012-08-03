@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die allgemeine Freizügigkeit von Unionsbürgern
+jurabk: FreizügG/EU 2004
 layout: default
-slug: freiz_gg_eu_2004
+origslug: freiz_gg_eu_2004
+slug: freizuegg_eu_2004
 
 ---
 

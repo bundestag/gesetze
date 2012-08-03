@@ -1,6 +1,8 @@
 ---
 Title: Hopfengesetz
+jurabk: HopfG
 layout: default
+origslug: hopfg
 slug: hopfg
 
 ---

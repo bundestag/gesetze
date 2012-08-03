@@ -1,7 +1,9 @@
 ---
 Title: Fünfte Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
   genannten Gebiet
+jurabk: RAV 5
 layout: default
+origslug: rav_5
 slug: rav_5
 
 ---

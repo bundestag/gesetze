@@ -2,8 +2,10 @@
 Title: Verordnung zur Durchsetzung der Verordnung (EG) Nr. 999/2001 des Europäischen
   Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle
   und Tilgung bestimmter transmissibler spongiformer Enzephalopathien
+jurabk: EGTSEBußgeldV
 layout: default
-slug: egtsebu_geldv
+origslug: egtsebu_geldv
+slug: egtsebussgeldv
 
 ---
 

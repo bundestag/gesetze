@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 10. September 1984 zwischen der Bundesrepublik Deutschland
   und dem Königreich der Niederlande über die Zusammenarbeit im Bereich von Ems und
   Dollart sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart)
+jurabk: EmsDolKoopVtrNLDG
 layout: default
+origslug: emsdolkoopvtrnldg
 slug: emsdolkoopvtrnldg
 
 ---

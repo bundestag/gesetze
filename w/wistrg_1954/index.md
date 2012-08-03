@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts
+jurabk: WiStrG 1954
 layout: default
+origslug: wistrg_1954
 slug: wistrg_1954
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr/zur
   Servicekauffrau im Luftverkehr
+jurabk: LuftServKfAusbV
 layout: default
+origslug: luftservkfausbv
 slug: luftservkfausbv
 
 ---

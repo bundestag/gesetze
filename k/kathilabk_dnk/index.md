@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark
   über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+jurabk: KatHiLAbk DNK
 layout: default
+origslug: kathilabk_dnk
 slug: kathilabk_dnk
 
 ---

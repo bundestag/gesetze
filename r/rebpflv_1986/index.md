@@ -1,6 +1,8 @@
 ---
 Title: Rebenpflanzgutverordnung
+jurabk: RebPflV 1986
 layout: default
+origslug: rebpflv_1986
 slug: rebpflv_1986
 
 ---

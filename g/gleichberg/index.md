@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Gleichberechtigung von Mann und Frau auf dem Gebiet des bürgerlichen
   Rechts
+jurabk: GleichberG
 layout: default
+origslug: gleichberg
 slug: gleichberg
 
 ---

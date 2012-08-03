@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik der Verdienste und Arbeitskosten
+jurabk: VerdStatG
 layout: default
+origslug: verdstatg
 slug: verdstatg
 
 ---

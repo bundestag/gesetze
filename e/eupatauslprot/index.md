@@ -1,6 +1,8 @@
 ---
 Title: Protokoll über die Auslegung des Artikels 69 des Übereinkommens
+jurabk: EuPatAuslProt
 layout: default
+origslug: eupatauslprot
 slug: eupatauslprot
 
 ---

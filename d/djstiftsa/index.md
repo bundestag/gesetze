@@ -1,7 +1,9 @@
 ---
 Title: Satzung der "Stiftung Demokratische Jugend" (Anlage zur Anordnung über die
   Errichtung der "Stiftung Demokratische Jugend"
+jurabk: DJStiftSa
 layout: default
+origslug: djstiftsa
 slug: djstiftsa
 
 ---

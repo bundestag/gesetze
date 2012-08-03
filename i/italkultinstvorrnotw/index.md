@@ -1,7 +1,9 @@
 ---
 Title: Notenwechsel über die Gewährung von Vorrechten und Befreiungen an die italienischen
   Kulturinstitute
+jurabk: ItalKultInstVorRNotW
 layout: default
+origslug: italkultinstvorrnotw
 slug: italkultinstvorrnotw
 
 ---

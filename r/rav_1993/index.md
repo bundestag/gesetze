@@ -3,7 +3,9 @@ Title: Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik Deutschl
   ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre 1993 und zur
   sechsten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten
   Gebiet
+jurabk: RAV 1993
 layout: default
+origslug: rav_1993
 slug: rav_1993
 
 ---

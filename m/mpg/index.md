@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Medizinprodukte
+jurabk: MPG
 layout: default
+origslug: mpg
 slug: mpg
 
 ---

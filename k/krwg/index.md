@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen
   Bewirtschaftung von Abfällen
+jurabk: KrWG
 layout: default
+origslug: krwg
 slug: krwg
 
 ---

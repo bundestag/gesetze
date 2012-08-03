@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten,
   an denen Schulversuche durchgeführt werden
+jurabk: SchulversucheV
 layout: default
+origslug: schulversuchev
 slug: schulversuchev
 
 ---

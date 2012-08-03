@@ -1,8 +1,10 @@
 ---
 Title: Zusatzübereinkommen zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung
   gegenüber Dritten auf dem Gebiet der Kernenergie
+jurabk: AtHaftÜbkZÜbk
 layout: default
-slug: athaft_bkz_bk
+origslug: athaft_bkz_bk
+slug: athaftuebkzuebk
 
 ---
 

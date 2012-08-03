@@ -2,7 +2,9 @@
 Title: Zweihundertneunte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Berlin-Schönefeld)
+jurabk: LuftVODV 209
 layout: default
+origslug: luftvodv_209
 slug: luftvodv_209
 
 ---

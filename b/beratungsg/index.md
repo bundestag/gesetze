@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten
+jurabk: BeratungsG
 layout: default
+origslug: beratungsg
 slug: beratungsg
 
 ---

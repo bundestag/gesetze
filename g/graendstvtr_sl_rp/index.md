@@ -1,8 +1,10 @@
 ---
 Title: Staatsvertrag zwischen dem Saarland und dem Land Rheinland-Pfalz über eine
   Änderung der gemeinsamen Landesgrenze
+jurabk: GrÄndStVtr SL/RP
 layout: default
-slug: gr_ndstvtr_sl_rp
+origslug: gr_ndstvtr_sl_rp
+slug: graendstvtr_sl_rp
 
 ---
 

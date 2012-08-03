@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Verkehrsleistungen der Eisenbahnen für die Streitkräfte
+jurabk: StrKrVerkLeistV
 layout: default
+origslug: strkrverkleistv
 slug: strkrverkleistv
 
 ---

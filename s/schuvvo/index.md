@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Schuldnerverzeichnis
+jurabk: SchuVVO
 layout: default
+origslug: schuvvo
 slug: schuvvo
 
 ---

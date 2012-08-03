@@ -1,7 +1,9 @@
 ---
 Title: Zehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
   (Zweite Verlängerung der Anmeldefrist)
+jurabk: AuslWBGDV 10
 layout: default
+origslug: auslwbgdv_10
 slug: auslwbgdv_10
 
 ---

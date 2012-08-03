@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 8. Juli 2003 zwischen der Regierung der Bundesrepublik
   Deutschland und der mazedonischen Regierung über Soziale Sicherheit
+jurabk: SozSichAbkMKDG
 layout: default
+origslug: sozsichabkmkdg
 slug: sozsichabkmkdg
 
 ---

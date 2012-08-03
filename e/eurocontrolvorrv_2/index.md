@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die
   Europäische Organisation zur Sicherung der Luftfahrt "EUROCONTROL"
+jurabk: EUROCONTROLVorRV 2
 layout: default
+origslug: eurocontrolvorrv_2
 slug: eurocontrolvorrv_2
 
 ---

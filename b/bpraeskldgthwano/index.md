@@ -2,8 +2,10 @@
 Title: Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum Erlaß
   von Bestimmungen über die Dienstkleidung von hauptamtlichen Mitarbeitern der Bundesanstalt
   Technisches Hilfswerk
+jurabk: BPräsKldgTHWAnO
 layout: default
-slug: bpr_skldgthwano
+origslug: bpr_skldgthwano
+slug: bpraeskldgthwano
 
 ---
 

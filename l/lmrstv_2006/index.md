@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchsetzung lebensmittelrechtlicher Rechtsakte der Europäischen
   Gemeinschaft
+jurabk: LMRStV 2006
 layout: default
+origslug: lmrstv_2006
 slug: lmrstv_2006
 
 ---

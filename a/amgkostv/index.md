@@ -2,7 +2,9 @@
 Title: Kostenverordnung für die Zulassung von Arzneimitteln durch das Bundesinstitut
   für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und
   Lebensmittelsicherheit
+jurabk: AMGKostV
 layout: default
+origslug: amgkostv
 slug: amgkostv
 
 ---

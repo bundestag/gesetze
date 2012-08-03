@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Einrichtung und Führung des Handelsregisters
+jurabk: HdlRegVfg
 layout: default
+origslug: hdlregvfg
 slug: hdlregvfg
 
 ---

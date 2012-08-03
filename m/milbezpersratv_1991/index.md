@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Bildung von Bezirkspersonalräten bei militärischen Dienststellen
+jurabk: MilBezPersRatV 1991
 layout: default
+origslug: milbezpersratv_1991
 slug: milbezpersratv_1991
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Tabakprodukt-Verordnung
+jurabk: TabProdV
 layout: default
+origslug: tabprodv
 slug: tabprodv
 
 ---

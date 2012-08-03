@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Abkommen vom 21. November 2000 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung
   von Grenzbrücken im nachgeordneten Straßennetz
+jurabk: GrBrückAbk2000POLG
 layout: default
-slug: grbr_ckabk2000polg
+origslug: grbr_ckabk2000polg
+slug: grbrueckabk2000polg
 
 ---
 

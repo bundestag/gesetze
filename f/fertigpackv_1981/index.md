@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Fertigpackungen
+jurabk: FertigPackV 1981
 layout: default
+origslug: fertigpackv_1981
 slug: fertigpackv_1981
 
 ---

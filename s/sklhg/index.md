@@ -1,6 +1,8 @@
 ---
 Title: Gesetz betreffend die Bestrafung des Sklavenraubes und des Sklavenhandels
+jurabk: SklHG
 layout: default
+origslug: sklhg
 slug: sklhg
 
 ---

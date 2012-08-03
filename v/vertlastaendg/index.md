@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung des Gesetzes zum NATO-Truppenstatut und anderer Gesetze
+jurabk: VertLastÄndG
 layout: default
-slug: vertlast_ndg
+origslug: vertlast_ndg
+slug: vertlastaendg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die soziale Wohnraumförderung
+jurabk: WoFG
 layout: default
+origslug: wofg
 slug: wofg
 
 ---

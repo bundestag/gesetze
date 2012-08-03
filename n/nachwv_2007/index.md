@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Nachweisführung bei der Entsorgung von Abfällen
+jurabk: NachwV 2007
 layout: default
+origslug: nachwv_2007
 slug: nachwv_2007
 
 ---

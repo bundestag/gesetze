@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Personalausweise und den elektronischen Identitätsnachweis
+jurabk: PAuswG
 layout: default
+origslug: pauswg
 slug: pauswg
 
 ---

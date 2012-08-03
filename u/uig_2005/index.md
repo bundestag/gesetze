@@ -1,6 +1,8 @@
 ---
 Title: Umweltinformationsgesetz
+jurabk: UIG 2005
 layout: default
+origslug: uig_2005
 slug: uig_2005
 
 ---

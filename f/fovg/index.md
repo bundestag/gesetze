@@ -1,6 +1,8 @@
 ---
 Title: Forstvermehrungsgutgesetz
+jurabk: FoVG
 layout: default
+origslug: fovg
 slug: fovg
 
 ---

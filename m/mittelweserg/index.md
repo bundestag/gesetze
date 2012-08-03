@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Grunderwerb für die Kanalisierung der Mittelweser
+jurabk: MittelweserG
 layout: default
+origslug: mittelweserg
 slug: mittelweserg
 
 ---

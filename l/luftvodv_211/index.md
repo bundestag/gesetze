@@ -2,7 +2,9 @@
 Title: Zweihundertelfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
   Straubing)
+jurabk: LuftVODV 211
 layout: default
+origslug: luftvodv_211
 slug: luftvodv_211
 
 ---

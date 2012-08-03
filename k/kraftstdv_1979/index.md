@@ -1,6 +1,8 @@
 ---
 Title: Kraftfahrzeugsteuer-Durchführungsverordnung
+jurabk: KraftStDV 1979
 layout: default
+origslug: kraftstdv_1979
 slug: kraftstdv_1979
 
 ---

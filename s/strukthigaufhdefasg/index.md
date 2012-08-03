@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds
   "Deutsche Einheit"
+jurabk: StruktHiGAufhDEFASG
 layout: default
+origslug: strukthigaufhdefasg
 slug: strukthigaufhdefasg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Anlaufen der inneren Gewässer der Bundesrepublik Deutschland
   aus Seegebieten seewärts der Grenze des deutschen Küstenmeeres und das Auslaufen
+jurabk: AnlBV 2004
 layout: default
+origslug: anlbv_2004
 slug: anlbv_2004
 
 ---

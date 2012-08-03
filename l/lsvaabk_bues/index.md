@@ -4,8 +4,10 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Sc
   am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung
   eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde
   Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe
+jurabk: LSVAAbk Büs
 layout: default
-slug: lsvaabk_b_s
+origslug: lsvaabk_b_s
+slug: lsvaabk_bues
 
 ---
 

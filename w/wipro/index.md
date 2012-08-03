@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über eine Berufsordnung der Wirtschaftsprüfer
+jurabk: WiPrO
 layout: default
+origslug: wipro
 slug: wipro
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch
+jurabk: IntKonnBek 1992
 layout: default
+origslug: intkonnbek_1992
 slug: intkonnbek_1992
 
 ---

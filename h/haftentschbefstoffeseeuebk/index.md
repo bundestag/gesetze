@@ -1,8 +1,10 @@
 ---
 Title: Internationales Übereinkommen über die Haftung und Entschädigung für  Schäden
   bei der Beförderung schädlicher und gefährlicher Stoffe auf See
+jurabk: HaftEntschBefStoffeSeeÜbk
 layout: default
-slug: haftentschbefstoffesee_bk
+origslug: haftentschbefstoffesee_bk
+slug: haftentschbefstoffeseeuebk
 
 ---
 

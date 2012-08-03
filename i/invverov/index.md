@@ -3,7 +3,9 @@ Verordnung zur Konkretisierung der Verhaltensregeln und
 Organisationsregeln nach dem Investmentgesetz
 ---
 Title: ''
+jurabk: InvVerOV
 layout: default
+origslug: invverov
 slug: invverov
 
 ---

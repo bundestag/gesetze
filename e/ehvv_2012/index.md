@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Versteigerung von Emissionsberechtigungen nach dem Zuteilungsgesetz
   2012
+jurabk: EHVV 2012
 layout: default
+origslug: ehvv_2012
 slug: ehvv_2012
 
 ---

@@ -2,8 +2,10 @@
 Title: Gesetz zu den Internationalen Übereinkommen vom 29. November 1969 über die
   zivilrechtliche Haftung für Ölverschmutzungsschäden und vom 18. Dezember 1971 über
   die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden
+jurabk: ÖlHaftG
 layout: default
-slug: _lhaftg
+origslug: _lhaftg
+slug: oelhaftg
 
 ---
 

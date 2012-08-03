@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen
   Dienst bei der Eisenbahn-Unfallkasse
+jurabk: LAP-gehDEUKV
 layout: default
+origslug: lap-gehdeukv
 slug: lap-gehdeukv
 
 ---

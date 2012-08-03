@@ -1,6 +1,8 @@
 ---
 Title: Durchführungsbestimmungen zum Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
+jurabk: GruWErlDBest
 layout: default
+origslug: gruwerldbest
 slug: gruwerldbest
 
 ---

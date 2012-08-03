@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen
   Dienst - Fachrichtung Bahnwesen -
+jurabk: LAP-gtDBahnwesenV
 layout: default
+origslug: lap-gtdbahnwesenv
 slug: lap-gtdbahnwesenv
 
 ---

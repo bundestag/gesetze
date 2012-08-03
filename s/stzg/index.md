@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr
   und Verwendung menschlicher embryonaler Stammzellen
+jurabk: StZG
 layout: default
+origslug: stzg
 slug: stzg
 
 ---

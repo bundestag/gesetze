@@ -5,8 +5,10 @@ Title: Gesetz zu dem Änderungsprotokoll vom 21. Januar 2010 zum Abkommen vom 11
   der Steuern vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und
   der Grundsteuern sowie des dazugehörigen Schlussprotokolls in der Fassung des Zusatzabkommens
   vom 5. November 2002
+jurabk: DBAAbkÄndProtBELG
 layout: default
-slug: dbaabk_ndprotbelg
+origslug: dbaabk_ndprotbelg
+slug: dbaabkaendprotbelg
 
 ---
 

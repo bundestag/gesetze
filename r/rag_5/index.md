@@ -1,7 +1,9 @@
 ---
 Title: Fünftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1962
+jurabk: RAG 5
 layout: default
+origslug: rag_5
 slug: rag_5
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Aussetzung und Ergänzung von Merkmalen nach dem Agrarstatistikgesetz
+jurabk: AgrStatV 1
 layout: default
+origslug: agrstatv_1
 slug: agrstatv_1
 
 ---

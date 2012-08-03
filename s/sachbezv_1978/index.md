@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Wert der Sachbezüge in der Sozialversicherung für das Kalenderjahr
   1994
+jurabk: SachBezV 1978
 layout: default
+origslug: sachbezv_1978
 slug: sachbezv_1978
 
 ---

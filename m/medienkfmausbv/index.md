@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Medienkaufmann Digital und Print/zur
   Medienkauffrau Digital und Print
+jurabk: MedienKfmAusbV
 layout: default
+origslug: medienkfmausbv
 slug: medienkfmausbv
 
 ---

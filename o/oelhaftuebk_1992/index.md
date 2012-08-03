@@ -1,8 +1,10 @@
 ---
 Title: Internationales Übereinkommen von 1992 über die zivilrechtliche Haftung  für
   Ölverschmutzungsschäden
+jurabk: ÖlHaftÜbk 1992
 layout: default
-slug: _lhaft_bk_1992
+origslug: _lhaft_bk_1992
+slug: oelhaftuebk_1992
 
 ---
 
