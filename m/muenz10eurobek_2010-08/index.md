@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“)
 layout: default
 slug: m_nz10eurobek_2010-08
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“) (Münz10EuroBek 2010-08)

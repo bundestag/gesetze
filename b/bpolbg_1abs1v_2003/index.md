@@ -2,6 +2,7 @@
 Title: Verordnung zu § 1 Abs. 1 des Bundespolizeibeamtengesetzes
 layout: default
 slug: bpolbg_1abs1v_2003
+
 ---
 
 # Verordnung zu § 1 Abs. 1 des Bundespolizeibeamtengesetzes (BPolBG§1Abs1V 2003)

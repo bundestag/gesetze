@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssich
   der Landwirte
 layout: default
 slug: adldav
+
 ---
 
 # Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung der Landwirte (AdLDAV)

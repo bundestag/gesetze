@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gebrauchsmustergesetz'
+Title: Gebrauchsmustergesetz
 layout: default
 slug: gebrmg
+
 ---
 
 # Gebrauchsmustergesetz (GebrMG)

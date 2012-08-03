@@ -2,6 +2,7 @@
 Title: Bundesärzteordnung
 layout: default
 slug: b_o
+
 ---
 
 # Bundesärzteordnung (BÄO)

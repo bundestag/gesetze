@@ -3,6 +3,7 @@ Title: Verordnung über den Betrieb der Schleusenanlagen im Bereich des Nord-Ost
   des Achterwehrer Schifffahrtskanals, des Gieselau-Kanals und der Eider
 layout: default
 slug: schleusv
+
 ---
 
 # Verordnung über den Betrieb der Schleusenanlagen im Bereich des Nord-Ostsee-Kanals, des Achterwehrer Schifffahrtskanals, des Gieselau-Kanals und der Eider (SchleusV)

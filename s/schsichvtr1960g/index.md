@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schiffssicherheitsvertrag vom 17. Juni 1960'
+Title: Gesetz zum Schiffssicherheitsvertrag vom 17. Juni 1960
 layout: default
 slug: schsichvtr1960g
+
 ---
 
 # Gesetz zum Schiffssicherheitsvertrag vom 17. Juni 1960 (SchSichVtr1960G)

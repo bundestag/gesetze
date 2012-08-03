@@ -2,6 +2,7 @@
 Title: Verordnung über Fertigpackungen
 layout: default
 slug: fertigpackv_1981
+
 ---
 
 # Verordnung über Fertigpackungen (FertigPackV 1981)

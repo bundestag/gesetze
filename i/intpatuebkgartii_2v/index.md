@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung der Ermächtigung nach Artikel II § 2 
   des Gesetzes über internationale Patentübereinkommen
 layout: default
 slug: intpat_bkgartii_2v
+
 ---
 
 # Verordnung über die Übertragung der Ermächtigung nach Artikel II § 2 Abs. 2 des Gesetzes über internationale Patentübereinkommen (IntPatÜbkGArtII§2V)

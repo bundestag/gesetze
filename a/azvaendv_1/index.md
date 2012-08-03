@@ -2,6 +2,7 @@
 Title: Erste Verordnung zur Änderung der Arbeitszeitverordnung
 layout: default
 slug: azv_ndv_1
+
 ---
 
 # Erste Verordnung zur Änderung der Arbeitszeitverordnung (AZVÄndV 1)

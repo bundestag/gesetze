@@ -3,6 +3,7 @@ Title: Gesetz über das Protokoll von Torquay vom 21. April 1951 und über den B
   der Bundesrepublik Deutschland zum Allgemeinen Zoll- und Handelsabkommen
 layout: default
 slug: gattg
+
 ---
 
 # Gesetz über das Protokoll von Torquay vom 21. April 1951 und über den Beitritt der Bundesrepublik Deutschland zum Allgemeinen Zoll- und Handelsabkommen (GATTG)

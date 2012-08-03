@@ -2,6 +2,7 @@
 Title: Verordnung über die Haftpflichtversicherung für Schausteller
 layout: default
 slug: schauhv
+
 ---
 
 # Verordnung über die Haftpflichtversicherung für Schausteller (SchauHV)

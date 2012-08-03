@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Kaufmann für Tourismus und Fre
   Kauffrau für Tourismus und Freizeit
 layout: default
 slug: tourkfmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit (TourKfmAusbV)

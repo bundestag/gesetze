@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Contr
   Controllerin
 layout: default
 slug: contrprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Controller/Geprüfte Controllerin (ContrPrV)

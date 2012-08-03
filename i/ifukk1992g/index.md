@@ -4,6 +4,7 @@ Title: Gesetz zu der Konstitution und der Konvention der Internationalen Fernmel
   der Internationalen Fernmeldeunion vom 14. Oktober 1994
 layout: default
 slug: ifukk1992g
+
 ---
 
 # Gesetz zu der Konstitution und der Konvention der Internationalen Fernmeldeunion vom 22. Dezember 1992 sowie zu den Änderungen der Konstitution und der Konvention der Internationalen Fernmeldeunion vom 14. Oktober 1994 (IFUKK1992G)

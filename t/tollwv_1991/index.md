@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Tollwut'
+Title: Verordnung zum Schutz gegen die Tollwut
 layout: default
 slug: tollwv_1991
+
 ---
 
 # Verordnung zum Schutz gegen die Tollwut (TollwV 1991)

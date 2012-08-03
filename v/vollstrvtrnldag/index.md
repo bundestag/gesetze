@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Vertrages vom 30. August 1962 zwischen der Bun
   und Handelssachen
 layout: default
 slug: vollstrvtrnldag
+
 ---
 
 # Gesetz zur Ausführung des Vertrages vom 30. August 1962 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen (VollstrVtrNLDAG)

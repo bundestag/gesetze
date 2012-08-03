@@ -2,6 +2,7 @@
 Title: Gesetz über die Verwendung von Verwaltungsdaten für Zwecke der Wirtschaftsstatistiken
 layout: default
 slug: vwdvg_2010
+
 ---
 
 # Gesetz über die Verwendung von Verwaltungsdaten für Zwecke der Wirtschaftsstatistiken (VwDVG 2010)

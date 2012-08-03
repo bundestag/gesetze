@@ -2,6 +2,7 @@
 Title: Verordnung über die Anerkennung von Prüfungen für die Eintragung in die Handwerksrolle
 layout: default
 slug: hwreintrv
+
 ---
 
 # Verordnung über die Anerkennung von Prüfungen für die Eintragung in die Handwerksrolle (HwREintrV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Sicherung der Seefahrt
 layout: default
 slug: seefsichv_1993
+
 ---
 
 # Verordnung über die Sicherung der Seefahrt (SeeFSichV 1993)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr/
   Servicekauffrau im Luftverkehr
 layout: default
 slug: luftservkfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr/zur Servicekauffrau im Luftverkehr (LuftServKfAusbV)

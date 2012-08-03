@@ -3,6 +3,7 @@ Title: Protokoll über die Vorrechte und Immunitäten der Europäischen Organisa
   für Astronomische Forschung in der Südlichen Hemisphäre
 layout: default
 slug: euastroorgvorrprot
+
 ---
 
 # Protokoll über die Vorrechte und Immunitäten der Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre (EuAstroOrgVorRProt)

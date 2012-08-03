@@ -2,6 +2,7 @@
 Title: Ernährungsvorsorgegesetz
 layout: default
 slug: evg
+
 ---
 
 # Ernährungsvorsorgegesetz (EVG)

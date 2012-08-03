@@ -2,6 +2,7 @@
 Title: Gesetz über die Beförderung gefährlicher Güter
 layout: default
 slug: gefahrgutg
+
 ---
 
 # Gesetz über die Beförderung gefährlicher Güter (GefahrgutG)

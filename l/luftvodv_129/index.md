@@ -4,6 +4,7 @@ Title: Hundertneunundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnun
   München)
 layout: default
 slug: luftvodv_129
+
 ---
 
 # Hundertneunundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen München) (LuftVODV 129)

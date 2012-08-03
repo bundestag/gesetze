@@ -2,6 +2,7 @@
 Title: Anwärtersonderzuschlags-Verordnung
 layout: default
 slug: anwsozuschlvaufhv
+
 ---
 
 # Anwärtersonderzuschlags-Verordnung (AnwSoZuschlVAufhV)

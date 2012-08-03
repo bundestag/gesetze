@@ -3,6 +3,7 @@ Title: Verordnung über das Verfahren bei der Genehmigung von Anlagen nach § 7 
   Atomgesetzes
 layout: default
 slug: atvfv
+
 ---
 
 # Verordnung über das Verfahren bei der Genehmigung von Anlagen nach § 7 des Atomgesetzes (AtVfV)

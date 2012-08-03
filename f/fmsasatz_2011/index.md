@@ -2,6 +2,7 @@
 Title: Satzung der Bundesanstalt für Finanzmarktstabilisierung
 layout: default
 slug: fmsasatz_2011
+
 ---
 
 # Satzung der Bundesanstalt für Finanzmarktstabilisierung (FMSASatz 2011)

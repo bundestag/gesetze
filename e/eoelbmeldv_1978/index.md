@@ -2,6 +2,7 @@
 Title: Verordnung über die Meldung der Bestände an Erdöl und Erdölerzeugnissen
 layout: default
 slug: e_lbmeldv_1978
+
 ---
 
 # Verordnung über die Meldung der Bestände an Erdöl und Erdölerzeugnissen (EÖlBMeldV 1978)

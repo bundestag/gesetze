@@ -4,6 +4,7 @@ Title: Gesetz über die Internationalen Übereinkommen betreffend die Krankenver
   der Arbeitnehmer in der Landwirtschaft
 layout: default
 slug: kvarbn_bkg
+
 ---
 
 # Gesetz über die Internationalen Übereinkommen betreffend die Krankenversicherung der Arbeitnehmer in Gewerbe und Handel und der Hausgehilfen sowie die Krankenversicherung der Arbeitnehmer in der Landwirtschaft (KVArbNÜbkG)

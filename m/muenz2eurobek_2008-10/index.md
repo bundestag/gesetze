@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 2 Euro (Gedenkmünze „10 Jahre Wirtschafts- und Währungsunion“)
 layout: default
 slug: m_nz2eurobek_2008-10
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Wirtschafts- und Währungsunion“) (Münz2EuroBek 2008-10)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Vergolder/zur Vergolderin
 layout: default
 slug: vergoldausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Vergolder/zur Vergolderin (VergoldAusbV)

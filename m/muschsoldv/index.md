@@ -2,6 +2,7 @@
 Title: Verordnung über den Mutterschutz für Soldatinnen
 layout: default
 slug: muschsoldv
+
 ---
 
 # Verordnung über den Mutterschutz für Soldatinnen (MuSchSoldV)

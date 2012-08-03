@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Finanzierung der Beendigung des subventionierten
-  Steinkohlenbergbaus zum Jahr 2018'
+Title: Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus
+  zum Jahr 2018
 layout: default
 slug: steinkohlefing
+
 ---
 
 # Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018 (SteinkohleFinG)

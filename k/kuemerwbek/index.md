@@ -4,6 +4,7 @@ Title: Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung 
   Tankerunfällen in der Deutschen Bucht
 layout: default
 slug: k_merwbek
+
 ---
 
 # Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht (KüMErwBek)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Erprobung eines registergestützten Zensus
 layout: default
 slug: zensteg
+
 ---
 
 # Gesetz zur Erprobung eines registergestützten Zensus (ZensTeG)

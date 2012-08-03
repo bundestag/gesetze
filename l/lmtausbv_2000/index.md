@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Lebensmitteltechnik
 layout: default
 slug: lmtausbv_2000
+
 ---
 
 # Verordnung über die Berufsausbildung zur Fachkraft für Lebensmitteltechnik (LMTAusbV 2000)

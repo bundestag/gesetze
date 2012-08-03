@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Elektroanlagenmonteur/zur Elektroanlagenmonteurin
 layout: default
 slug: elekanlausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Elektroanlagenmonteur/zur Elektroanlagenmonteurin (ElekAnlAusbV)

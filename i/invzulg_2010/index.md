@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Investitionszulagengesetz 2010'
+Title: Investitionszulagengesetz 2010
 layout: default
 slug: invzulg_2010
+
 ---
 
 # Investitionszulagengesetz 2010 (InvZulG 2010)

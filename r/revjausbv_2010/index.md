@@ -1,9 +1,10 @@
 [^F1_774173_BJNR063100010]
 Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: revjausbv_2010
+
 ---
 
 #  (RevjAusbV 2010)

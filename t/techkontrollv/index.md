@@ -2,6 +2,7 @@
 Title: Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
 layout: default
 slug: techkontrollv
+
 ---
 
 # Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße (TechKontrollV)

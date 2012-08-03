@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Durchsetzung des Rindfleischetikettierungsrechts'
+Title: Verordnung zur Durchsetzung des Rindfleischetikettierungsrechts
 layout: default
 slug: rifletikettstrv
+
 ---
 
 # Verordnung zur Durchsetzung des Rindfleischetikettierungsrechts (RiFlEtikettStrV)

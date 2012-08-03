@@ -2,6 +2,7 @@
 Title: Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2004
 layout: default
 slug: raag
+
 ---
 
 # Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2004 (RAAG)

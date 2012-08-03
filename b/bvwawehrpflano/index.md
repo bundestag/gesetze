@@ -3,6 +3,7 @@ Title: Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsa
   bei der Ermittlung von Wehrpflichtigen, die sich der Erfassung entziehen
 layout: default
 slug: bvwawehrpflano
+
 ---
 
 # Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsamt bei der Ermittlung von Wehrpflichtigen, die sich der Erfassung entziehen (BVwAWehrpflAnO)

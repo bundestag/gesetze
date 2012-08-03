@@ -3,6 +3,7 @@ Title: Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handh
   von Lasten bei der Arbeit
 layout: default
 slug: lasthandhabv
+
 ---
 
 # Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten bei der Arbeit (LasthandhabV)

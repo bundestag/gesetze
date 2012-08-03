@@ -1,9 +1,10 @@
 [^f774172_01_BJNR072800010]
 Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: pfwirtausbv_2010
+
 ---
 
 #  (PfWirtAusbV 2010)

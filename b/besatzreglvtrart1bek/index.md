@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Bekanntmachung zu Artikel 1 Abs. 2 des Zehnten Teils des
-  Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen'
+Title: Bekanntmachung zu Artikel 1 Abs. 2 des Zehnten Teils des Vertrags zur Regelung
+  aus Krieg und Besatzung entstandener Fragen
 layout: default
 slug: besatzreglvtrart1bek
+
 ---
 
 # Bekanntmachung zu Artikel 1 Abs. 2 des Zehnten Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen (BesatzReglVtrArt1Bek)

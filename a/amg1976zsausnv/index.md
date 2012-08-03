@@ -4,6 +4,7 @@ Title: Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneim
   sowie der Bereitschaftspolizeien der Länder
 layout: default
 slug: amg1976zsausnv
+
 ---
 
 # Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei sowie der Bereitschaftspolizeien der Länder (AMG1976ZSAusnV)

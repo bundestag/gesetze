@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Rebenpflanzgutverordnung'
+Title: Rebenpflanzgutverordnung
 layout: default
 slug: rebpflv_1986
+
 ---
 
 # Rebenpflanzgutverordnung (RebPflV 1986)

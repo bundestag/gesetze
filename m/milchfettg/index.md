@@ -2,6 +2,7 @@
 Title: Gesetz über den Verkehr mit Milch, Milcherzeugnissen und Fetten
 layout: default
 slug: milchfettg
+
 ---
 
 # Gesetz über den Verkehr mit Milch, Milcherzeugnissen und Fetten (MilchFettG)

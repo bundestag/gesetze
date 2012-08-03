@@ -3,6 +3,7 @@ Title: Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerisc
   Straßenfahrzeugen im grenzüberschreitenden Verkehr
 layout: default
 slug: kraftstchev
+
 ---
 
 # Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerischen Straßenfahrzeugen im grenzüberschreitenden Verkehr (KraftStCHEV)

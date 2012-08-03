@@ -2,6 +2,7 @@
 Title: Verordnung über das Verfahren zur Aufstellung des Frequenznutzungsplanes
 layout: default
 slug: freqnpav
+
 ---
 
 # Verordnung über das Verfahren zur Aufstellung des Frequenznutzungsplanes (FreqNPAV)

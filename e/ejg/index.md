@@ -4,6 +4,7 @@ Title: Gesetz zur Umsetzung des Beschlusses (2002/187/JI) des Rates vom 28. Febr
   Kriminalität
 layout: default
 slug: ejg
+
 ---
 
 # Gesetz zur Umsetzung des Beschlusses (2002/187/JI) des Rates vom 28. Februar 2002 über die Errichtung von Eurojust zur Verstärkung der Bekämpfung der schweren Kriminalität (EJG)

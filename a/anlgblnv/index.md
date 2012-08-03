@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950
-  auf das Land Berlin'
+Title: Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin
 layout: default
 slug: anlgblnv
+
 ---
 
 # Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin (AnlGBlnV)

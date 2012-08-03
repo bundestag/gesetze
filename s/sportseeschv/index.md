@@ -3,6 +3,7 @@ Title: Verordnung über den Erwerb von Sportsee- und Sporthochseeschifferscheine
   die Besetzung von Traditionsschiffen
 layout: default
 slug: sportseeschv
+
 ---
 
 # Verordnung über den Erwerb von Sportsee- und Sporthochseeschifferscheinen und die Besetzung von Traditionsschiffen (SportSeeSchV)

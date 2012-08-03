@@ -3,6 +3,7 @@ Title: Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am
   der Deutschen Pfandbriefanstalt auf den Bund
 layout: default
 slug: pfandbr_blg
+
 ---
 
 # Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den Bund (PfandBrÜblG)

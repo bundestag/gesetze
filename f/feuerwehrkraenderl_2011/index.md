@@ -3,6 +3,7 @@ Title: Erlass über die Genehmigung von Änderungen der Satzung und der Verleihu
   des Deutschen Feuerwehr-Ehrenkreuzes
 layout: default
 slug: feuerwehrkr_nderl_2011
+
 ---
 
 # Erlass über die Genehmigung von Änderungen der Satzung und der Verleihungsbedingungen des Deutschen Feuerwehr-Ehrenkreuzes (FeuerwEhrKrÄndErl 2011)

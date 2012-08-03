@@ -3,6 +3,7 @@ Title: Anordnung zur Durchf체hrung des Bundesdisziplinargesetzes f체r den Gesch�
   des Bundesministeriums f체r Gesundheit und Soziale Sicherung
 layout: default
 slug: bdgbmingano
+
 ---
 
 # Anordnung zur Durchf체hrung des Bundesdisziplinargesetzes f체r den Gesch채ftsbereich des Bundesministeriums f체r Gesundheit und Soziale Sicherung (BDGBMinGAnO)

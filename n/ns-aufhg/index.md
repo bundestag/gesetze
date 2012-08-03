@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile
-  in der Strafrechtspflege'
+Title: Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege
 layout: default
 slug: ns-aufhg
+
 ---
 
 # Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege (NS-AufhG)

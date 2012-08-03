@@ -3,6 +3,7 @@ Title: Gesetz über die parlamentarische Beteiligung bei der Entscheidung über 
   Einsatz bewaffneter Streitkräfte im Ausland
 layout: default
 slug: parlbg
+
 ---
 
 # Gesetz über die parlamentarische Beteiligung bei der Entscheidung über den Einsatz bewaffneter Streitkräfte im Ausland (ParlBG)

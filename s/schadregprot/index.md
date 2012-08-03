@@ -2,6 +2,7 @@
 Title: Protokoll über Schadstofffreisetzungs- und -verbringungsregister
 layout: default
 slug: schadregprot
+
 ---
 
 # Protokoll über Schadstofffreisetzungs- und -verbringungsregister (SchadRegProt)

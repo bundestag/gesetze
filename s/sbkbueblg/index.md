@@ -3,6 +3,7 @@ Title: Gesetz über die Überleitung der Staatsbank Berlin (Anlage I Kap. IV Sac
   B Abschn. II Nr. 46 EinigVtr)
 layout: default
 slug: sbkb_blg
+
 ---
 
 # Gesetz über die Überleitung der Staatsbank Berlin (Anlage I Kap. IV Sachgebiet B Abschn. II Nr. 46 EinigVtr) (SBkBÜblG)

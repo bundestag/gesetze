@@ -2,6 +2,7 @@
 Title: Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
 layout: default
 slug: djstiftano
+
 ---
 
 # Anordnung über die Errichtung der "Stiftung Demokratische Jugend" (DJStiftAnO)

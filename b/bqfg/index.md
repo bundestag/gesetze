@@ -2,6 +2,7 @@
 Title: Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen
 layout: default
 slug: bqfg
+
 ---
 
 # Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen (BQFG)

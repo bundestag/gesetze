@@ -2,6 +2,7 @@
 Title: Verordnung des Bundes über leistungsbezogene Besoldungsinstrumente
 layout: default
 slug: blbv
+
 ---
 
 # Verordnung des Bundes über leistungsbezogene Besoldungsinstrumente (BLBV)

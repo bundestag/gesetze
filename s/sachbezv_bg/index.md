@@ -3,6 +3,7 @@ Title: Verordnung über den Wert der Sachbezüge in der Sozialversicherung für 
   1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 layout: default
 slug: sachbezv_bg
+
 ---
 
 # Verordnung über den Wert der Sachbezüge in der Sozialversicherung für das Kalenderjahr 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (SachBezV BG)

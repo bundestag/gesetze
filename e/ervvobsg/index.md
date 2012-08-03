@@ -2,6 +2,7 @@
 Title: Verordnung über den elektronischen Rechtsverkehr beim Bundessozialgericht
 layout: default
 slug: ervvobsg
+
 ---
 
 # Verordnung über den elektronischen Rechtsverkehr beim Bundessozialgericht (ERVVOBSG)

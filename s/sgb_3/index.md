@@ -3,6 +3,7 @@ Title: Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 
   Gesetzes vom 24. März 1997, BGBl. I S. 594)
 layout: default
 slug: sgb_3
+
 ---
 
 # Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594) (SGB 3)

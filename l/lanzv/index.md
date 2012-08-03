@@ -3,6 +3,7 @@ Title: Verordnung zur Konkretisierung der Anzeigepflichten nach § 30h Absatz 2 
   3 und § 30j Absatz 3 Satz 2 des Wertpapierhandelsgesetzes
 layout: default
 slug: lanzv
+
 ---
 
 # Verordnung zur Konkretisierung der Anzeigepflichten nach § 30h Absatz 2 Satz 3 und § 30j Absatz 3 Satz 2 des Wertpapierhandelsgesetzes (LAnzV)

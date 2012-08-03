@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 33 des Beamtenversorgungsgesetzes
 layout: default
 slug: heilvfv
+
 ---
 
 # Verordnung zur Durchführung des § 33 des Beamtenversorgungsgesetzes (HeilvfV)

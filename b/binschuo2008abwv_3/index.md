@@ -2,6 +2,7 @@
 Title: Dritte Verordnung zur vorübergehenden Abweichung von der Binnenschiffsuntersuchungsordnung
 layout: default
 slug: binschuo2008abwv_3
+
 ---
 
 # Dritte Verordnung zur vorübergehenden Abweichung von der Binnenschiffsuntersuchungsordnung (BinSchUO2008AbwV 3)

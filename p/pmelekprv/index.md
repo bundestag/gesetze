@@ -4,6 +4,7 @@ Title: Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr�
   manager electric/electronics)
 layout: default
 slug: pmelekprv
+
 ---
 
 # Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr체fter Prozessmanager Elektrotechnik/Gepr체fte Prozessmanagerin Elektrotechnik (Process manager electric/electronics) (PMElekPrV)

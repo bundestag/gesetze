@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Zweites Gesetz zur Wiedergutmachung nationalsozialistischen
-  Unrechts in der Strafrechtspflege'
+Title: Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der
+  Strafrechtspflege
 layout: default
 slug: nsunrg_he_2
+
 ---
 
 # Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege (NSUnrG HE 2)

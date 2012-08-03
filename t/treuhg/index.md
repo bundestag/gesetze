@@ -2,6 +2,7 @@
 Title: Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens
 layout: default
 slug: treuhg
+
 ---
 
 # Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens (TreuhG)

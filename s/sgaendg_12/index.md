@@ -2,6 +2,7 @@
 Title: Zwölftes Gesetz zur Änderung des Soldatengesetzes
 layout: default
 slug: sg_ndg_12
+
 ---
 
 # Zwölftes Gesetz zur Änderung des Soldatengesetzes (SGÄndG 12)

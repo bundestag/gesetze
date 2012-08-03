@@ -2,6 +2,7 @@
 Title: Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz
 layout: default
 slug: vsgzustv
+
 ---
 
 # Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz (VSGZustV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Aufhebung der Zucker-Mindestlagerabgaben-Verordnung'
+Title: Verordnung zur Aufhebung der Zucker-Mindestlagerabgaben-Verordnung
 layout: default
 slug: zuckmindlgabgvaufhv
+
 ---
 
 # Verordnung zur Aufhebung der Zucker-Mindestlagerabgaben-Verordnung (ZuckMindLgAbgVAufhV)

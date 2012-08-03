@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung des Spitzenverbandes der landwirtschaftlichen
-  Sozialversicherung'
+Title: Gesetz zur Errichtung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 layout: default
 slug: lsvspivg
+
 ---
 
 # Gesetz zur Errichtung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung (LSVSpiVG)

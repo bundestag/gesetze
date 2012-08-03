@@ -3,6 +3,7 @@ Title: Gesetz über die berechnungsrechtliche Behandlung von Investitionszulagen
   preisgebundenen Wohnungsbau
 layout: default
 slug: invzulberg
+
 ---
 
 # Gesetz über die berechnungsrechtliche Behandlung von Investitionszulagen im preisgebundenen Wohnungsbau (InvZulBerG)

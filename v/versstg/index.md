@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Versicherungsteuergesetz'
+Title: Versicherungsteuergesetz
 layout: default
 slug: versstg
+
 ---
 
 # Versicherungsteuergesetz (VersStG)

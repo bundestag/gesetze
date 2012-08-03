@@ -2,6 +2,7 @@
 Title: Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen
 layout: default
 slug: hreggebv
+
 ---
 
 # Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen (HRegGebV)

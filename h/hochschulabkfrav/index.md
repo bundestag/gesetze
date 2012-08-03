@@ -4,6 +4,7 @@ Title: Verordnung zu dem Abkommen vom 19. September 1997 zwischen der Regierung 
   Gründung einer Deutsch-Französischen Hochschule
 layout: default
 slug: hochschulabkfrav
+
 ---
 
 # Verordnung zu dem Abkommen vom 19. September 1997 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die Gründung einer Deutsch-Französischen Hochschule (HochschulAbkFRAV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eisenbahn-Bau- und Betriebsordnung'
+Title: Eisenbahn-Bau- und Betriebsordnung
 layout: default
 slug: ebo
+
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung (EBO)

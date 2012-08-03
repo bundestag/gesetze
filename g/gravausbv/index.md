@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Graveur/zur Graveurin
 layout: default
 slug: gravausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Graveur/zur Graveurin (GravAusbV)

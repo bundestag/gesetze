@@ -2,6 +2,7 @@
 Title: Straßenverkehrs-Zulassungs-Ordnung
 layout: default
 slug: stvzo_2012
+
 ---
 
 # Straßenverkehrs-Zulassungs-Ordnung (StVZO 2012)

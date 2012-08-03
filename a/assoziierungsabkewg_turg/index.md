@@ -4,6 +4,7 @@ Title: Gesetz zu dem Assoziierungsabkommen vom 12. September 1963 zwischen der E
   stehenden Abkommen
 layout: default
 slug: assoziierungsabkewg_turg
+
 ---
 
 # Gesetz zu dem Assoziierungsabkommen vom 12. September 1963 zwischen der Europäischen Wirtschaftsgemeinschaft und der Türkei sowie zu den mit diesem Abkommen in Zusammenhang stehenden Abkommen (AssoziierungsAbkEWG/TURG)

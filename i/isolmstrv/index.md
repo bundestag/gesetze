@@ -3,6 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk
 layout: default
 slug: isolmstrv
+
 ---
 
 # Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk (IsolMstrV)

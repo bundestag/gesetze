@@ -3,6 +3,7 @@ Title: Beschluß des Ministerrates der Deutschen Demokratischen Republik zur soz
   Sicherstellung für aus ihren Funktionen ausscheidende Staatssekretäre
 layout: default
 slug: stsozsbes
+
 ---
 
 # Beschluß des Ministerrates der Deutschen Demokratischen Republik zur sozialen Sicherstellung für aus ihren Funktionen ausscheidende Staatssekretäre (StSozSBes)

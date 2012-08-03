@@ -3,6 +3,7 @@ Title: Verordnung über die Durchführung einer Statistik über die Schlachttier
   Fleischuntersuchung
 layout: default
 slug: flustatv
+
 ---
 
 # Verordnung über die Durchführung einer Statistik über die Schlachttier-  und Fleischuntersuchung (FlUStatV)

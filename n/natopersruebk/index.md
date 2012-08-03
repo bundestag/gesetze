@@ -4,6 +4,7 @@ Title: Übereinkommen über die Rechtsstellung des einem internationalen militä
   Entsendestaaten
 layout: default
 slug: natopersr_bk
+
 ---
 
 # Übereinkommen über die Rechtsstellung des einem internationalen militärischen Hauptquartier der NATO in der Bundesrepublik Deutschland zugeteilten Personals der Entsendestaaten (NATOPersRÜbk)

@@ -4,6 +4,7 @@ Title: Zusatzvereinbarung vom 10. April 1969 zu der Vereinbarung vom 22. Dezembe
   der Republik Österreich über Soziale Sicherheit
 layout: default
 slug: sozsichabkdvbgzvbg_aut
+
 ---
 
 # Zusatzvereinbarung vom 10. April 1969 zu der Vereinbarung vom 22. Dezember 1966 zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit (SozSichAbkDVbgZVbg AUT)

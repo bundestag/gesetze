@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Amtsgehilfen
 layout: default
 slug: bpr_skldgamtsgehano
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Amtsgehilfen (BPräsKldgAmtsgehAnO)

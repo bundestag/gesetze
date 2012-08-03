@@ -2,9 +2,10 @@
 Verordnung über die Einsatzbedingungen des fahrenden Personals im
 interoperablen grenzüberschreitenden Eisenbahnverkehr
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: efpv
+
 ---
 
 #  (EFPV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau
 layout: default
 slug: bankkfm_kfrausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau (BankKfm/KfrAusbV)

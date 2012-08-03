@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zweite Wahlordnung zum Mitbestimmungsgesetz'
+Title: Zweite Wahlordnung zum Mitbestimmungsgesetz
 layout: default
 slug: mitbestgwo_2_2002
+
 ---
 
 # Zweite Wahlordnung zum Mitbestimmungsgesetz (MitbestGWO 2 2002)

@@ -2,6 +2,7 @@
 Title: Verordnung über das Befahren der Bundeswasserstraßen in bestimmten Naturschutzgebieten
 layout: default
 slug: nsgbefv
+
 ---
 
 # Verordnung über das Befahren der Bundeswasserstraßen in bestimmten Naturschutzgebieten (NSGBefV)

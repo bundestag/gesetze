@@ -2,6 +2,7 @@
 Title: Gebührenverordnung zum Satellitendatensicherheitsgesetz
 layout: default
 slug: satdsigebv
+
 ---
 
 # Gebührenverordnung zum Satellitendatensicherheitsgesetz (SatDSiGebV)

@@ -2,6 +2,7 @@
 Title: Gesetz über Medizinprodukte
 layout: default
 slug: mpg
+
 ---
 
 # Gesetz über Medizinprodukte (MPG)

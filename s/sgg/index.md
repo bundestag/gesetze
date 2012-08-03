@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sozialgerichtsgesetz'
+Title: Sozialgerichtsgesetz
 layout: default
 slug: sgg
+
 ---
 
 # Sozialgerichtsgesetz (SGG)

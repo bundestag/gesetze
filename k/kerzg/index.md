@@ -2,6 +2,7 @@
 Title: Gesetz über die religiöse Kindererziehung
 layout: default
 slug: kerzg
+
 ---
 
 # Gesetz über die religiöse Kindererziehung (KErzG)

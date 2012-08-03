@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 8 des Markengesetzes
 layout: default
 slug: markeng_8bek_98-03
+
 ---
 
 # Bekanntmachung zu § 8 des Markengesetzes (MarkenG§8Bek 98-03)

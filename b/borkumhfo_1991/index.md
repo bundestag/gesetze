@@ -2,6 +2,7 @@
 Title: Verordnung für den Schutz-, Sicherheits- und Bauhafen Borkum
 layout: default
 slug: borkumhfo_1991
+
 ---
 
 # Verordnung für den Schutz-, Sicherheits- und Bauhafen Borkum (BorkumHfO 1991)

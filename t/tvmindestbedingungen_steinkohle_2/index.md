@@ -4,6 +4,7 @@ Title: Rechtsnormen des Tarifvertrages zur Regelung der Mindestbedingungen für 
   22. März 2011
 layout: default
 slug: tvmindestbedingungen_steinkohle_2
+
 ---
 
 # Rechtsnormen des Tarifvertrages zur Regelung der Mindestbedingungen für die Arbeitnehmer der Bergbau-Spezialgesellschaften im deutschen Steinkohlenbergbau vom 22. März 2011 (TVMindestbedingungen Steinkohle 2)

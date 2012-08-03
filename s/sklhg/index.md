@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz betreffend die Bestrafung des Sklavenraubes und des
-  Sklavenhandels'
+Title: Gesetz betreffend die Bestrafung des Sklavenraubes und des Sklavenhandels
 layout: default
 slug: sklhg
+
 ---
 
 # Gesetz betreffend die Bestrafung des Sklavenraubes und des Sklavenhandels (SklHG)

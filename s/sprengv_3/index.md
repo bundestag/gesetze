@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Dritte Verordnung zum Sprengstoffgesetz'
+Title: Dritte Verordnung zum Sprengstoffgesetz
 layout: default
 slug: sprengv_3
+
 ---
 
 # Dritte Verordnung zum Sprengstoffgesetz (SprengV 3)

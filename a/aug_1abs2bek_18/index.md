@@ -3,6 +3,7 @@ Title: Achtzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gem�
   1 Abs. 2 des Auslandsunterhaltsgesetzes
 layout: default
 slug: aug_1abs2bek_18
+
 ---
 
 # Achtzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes (AUG§1Abs2Bek 18)

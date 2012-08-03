@@ -3,6 +3,7 @@ Title: Bekanntmachung über das Konkordat zwischen dem Deutschen Reich und dem H
   Stuhl
 layout: default
 slug: rkonkordatbek
+
 ---
 
 # Bekanntmachung über das Konkordat zwischen dem Deutschen Reich und dem Heiligen Stuhl (RKonkordatBek)

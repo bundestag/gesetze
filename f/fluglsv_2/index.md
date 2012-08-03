@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm
 layout: default
 slug: fluglsv_2
+
 ---
 
 # Zweite Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm (FlugLSV 2)

@@ -3,6 +3,7 @@ Title: Dritte Durchführungsverordnung zum Marktstrukturgesetz - fischwirtschaft
   Erzeugnisse
 layout: default
 slug: marktstrgdv_3
+
 ---
 
 # Dritte Durchführungsverordnung zum Marktstrukturgesetz - fischwirtschaftliche Erzeugnisse (MarktStrGDV 3)

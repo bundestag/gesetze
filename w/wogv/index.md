@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wohngeldverordnung'
+Title: Wohngeldverordnung
 layout: default
 slug: wogv
+
 ---
 
 # Wohngeldverordnung (WoGV)

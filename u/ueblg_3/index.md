@@ -2,6 +2,7 @@
 Title: Gesetz über die Stellung des Landes Berlin im Finanzsystem des Bundes
 layout: default
 slug: _blg_3
+
 ---
 
 # Gesetz über die Stellung des Landes Berlin im Finanzsystem des Bundes (ÜblG 3)

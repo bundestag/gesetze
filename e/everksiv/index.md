@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Sicherstellung des Eisenbahnverkehrs'
+Title: Verordnung zur Sicherstellung des Eisenbahnverkehrs
 layout: default
 slug: everksiv
+
 ---
 
 # Verordnung zur Sicherstellung des Eisenbahnverkehrs (EVerkSiV)

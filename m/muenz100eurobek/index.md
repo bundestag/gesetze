@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze "UNESCO Weltkulturerbestadt Quedlinburg")
 layout: default
 slug: m_nz100eurobek
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Weltkulturerbestadt Quedlinburg") (Münz100EuroBek)

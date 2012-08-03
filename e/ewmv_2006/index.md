@@ -2,6 +2,7 @@
 Title: Ernährungswirtschaftsmeldeverordnung
 layout: default
 slug: ewmv_2006
+
 ---
 
 # Ernährungswirtschaftsmeldeverordnung (EWMV 2006)

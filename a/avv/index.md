@@ -2,6 +2,7 @@
 Title: Verordnung über das Europäische Abfallverzeichnis
 layout: default
 slug: avv
+
 ---
 
 # Verordnung über das Europäische Abfallverzeichnis (AVV)

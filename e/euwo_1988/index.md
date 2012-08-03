@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Europawahlordnung'
+Title: Europawahlordnung
 layout: default
 slug: euwo_1988
+
 ---
 
 # Europawahlordnung (EuWO 1988)

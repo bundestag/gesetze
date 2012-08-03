@@ -4,6 +4,7 @@ Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverord
   des Gemeingebrauchs
 layout: default
 slug: wastrggemgebrermv
+
 ---
 
 # Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung, Beschränkung oder Untersagung des Gemeingebrauchs (WaStrGGemGebrErmV)

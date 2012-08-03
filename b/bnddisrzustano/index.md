@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Be
   im Bereich des Bundesnachrichtendienstes
 layout: default
 slug: bnddisrzustano
+
 ---
 
 # Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes (BNDDisRZustAnO)

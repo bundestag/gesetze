@@ -3,6 +3,7 @@ Title: Gesetz über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicher
   land- und forstwirtschaftlicher Betriebe
 layout: default
 slug: grdstvg
+
 ---
 
 # Gesetz über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicherung land- und forstwirtschaftlicher Betriebe (GrdstVG)

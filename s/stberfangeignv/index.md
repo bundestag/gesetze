@@ -3,6 +3,7 @@ Title: Verordnung über die fachliche Eignung für die Berufsausbildung der Fach
   im Bereich der Steuerberatung
 layout: default
 slug: stberfangeignv
+
 ---
 
 # Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten im Bereich der Steuerberatung (StBerFAngEignV)

@@ -5,6 +5,7 @@ Title: Verordnung zur Einführung eines Vordrucks für die Erklärung über die 
   Verkehr
 layout: default
 slug: eg-pkhvv
+
 ---
 
 # Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden Verkehr (EG-PKHVV)

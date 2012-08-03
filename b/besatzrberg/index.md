@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Bereinigung des Besatzungsrechts'
+Title: Gesetz zur Bereinigung des Besatzungsrechts
 layout: default
 slug: besatzrberg
+
 ---
 
 # Gesetz zur Bereinigung des Besatzungsrechts (BesatzRBerG)

@@ -2,6 +2,7 @@
 Title: Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
 layout: default
 slug: bahnvorschranwg
+
 ---
 
 # Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten (BahnVorschrAnwG)

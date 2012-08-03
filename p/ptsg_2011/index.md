@@ -3,6 +3,7 @@ Title: Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikations
   in besonderen Fällen
 layout: default
 slug: ptsg_2011
+
 ---
 
 # Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen (PTSG 2011)

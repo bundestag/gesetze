@@ -3,6 +3,7 @@ Title: Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfon
   Bundesagentur für Arbeit“
 layout: default
 slug: vfbazv
+
 ---
 
 # Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“ (VFBAZV)

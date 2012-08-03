@@ -2,6 +2,7 @@
 Title: Verordnung über die Gebühren nach dem Verbraucherinformationsgesetz
 layout: default
 slug: viggebv
+
 ---
 
 # Verordnung über die Gebühren nach dem Verbraucherinformationsgesetz (VIGGebV)

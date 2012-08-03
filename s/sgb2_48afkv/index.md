@@ -2,6 +2,7 @@
 Title: Verordnung zur Festlegung der Kennzahlen nach § 48a des Zweiten Buches Sozialgesetzbuch
 layout: default
 slug: sgb2_48afkv
+
 ---
 
 # Verordnung zur Festlegung der Kennzahlen nach § 48a des Zweiten Buches Sozialgesetzbuch (SGB2§48aFKV)

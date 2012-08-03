@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung von Kostenermächtigungen und zur Überleitung gebü
   Vorschriften
 layout: default
 slug: kerm_ndg
+
 ---
 
 # Gesetz zur Änderung von Kostenermächtigungen und zur Überleitung gebührenrechtlicher Vorschriften (KErmÄndG)

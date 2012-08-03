@@ -1,9 +1,10 @@
 [^F771547_01_BJNR245000008]
 Verordnung über die Schiffssicherheit in der Binnenschifffahrt
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: binschuo_2008
+
 ---
 
 #  (BinSchUO 2008)

@@ -2,6 +2,7 @@
 Title: Übereinkommen über die Schiffahrt auf dem Bodensee
 layout: default
 slug: bodseesch_bk
+
 ---
 
 # Übereinkommen über die Schiffahrt auf dem Bodensee (BodSeeSchÜbk)

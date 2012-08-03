@@ -4,6 +4,7 @@ Title: Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlas
   im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
 layout: default
 slug: bminfsfjwid_bvtrano_2003
+
 ---
 
 # Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMinFSFJWid/BVtrAnO 2003)

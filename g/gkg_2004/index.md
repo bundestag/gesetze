@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gerichtskostengesetz'
+Title: Gerichtskostengesetz
 layout: default
 slug: gkg_2004
+
 ---
 
 # Gerichtskostengesetz (GKG 2004)

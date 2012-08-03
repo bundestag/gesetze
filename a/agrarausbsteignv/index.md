@@ -3,6 +3,7 @@ Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbil
   zur Fachkraft Agrarservice
 layout: default
 slug: agrarausbsteignv
+
 ---
 
 # Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice (AgrarAusbStEignV)

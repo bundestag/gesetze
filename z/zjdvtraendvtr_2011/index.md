@@ -7,6 +7,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bund
   Deutschland – Körperschaft des öffentlichen Rechts –
 layout: default
 slug: zjdvtr_ndvtr_2011
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –, vertreten durch den Präsidenten und die Vizepräsidenten, zur Änderung des Vertrages vom 27. Januar 2003, in der Fassung des Änderungsvertrages vom 3. März 2008 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts – (ZJDVtrÄndVtr 2011)

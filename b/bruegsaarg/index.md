@@ -4,6 +4,7 @@ Title: Bundesgesetz zur Einführung des Bundesgesetzes zur Regelung der rückers
   - BRüG) im Saarland
 layout: default
 slug: br_gsaarg
+
 ---
 
 # Bundesgesetz zur Einführung des Bundesgesetzes zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger (Bundesrückerstattungsgesetz - BRüG) im Saarland (BRÜGSaarG)

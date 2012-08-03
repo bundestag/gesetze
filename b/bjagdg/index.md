@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesjagdgesetz'
+Title: Bundesjagdgesetz
 layout: default
 slug: bjagdg
+
 ---
 
 # Bundesjagdgesetz (BJagdG)

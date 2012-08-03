@@ -2,9 +2,10 @@
 Verordnung über die Entwicklung und Erprobung der Berufsausbildung in
 der Automatenwirtschaft
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: automerprobv
+
 ---
 
 #  (AutomErprobV)

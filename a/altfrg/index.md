@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung bestimmter Altforderungen'
+Title: Gesetz zur Regelung bestimmter Altforderungen
 layout: default
 slug: altfrg
+
 ---
 
 # Gesetz zur Regelung bestimmter Altforderungen (AltFRG)

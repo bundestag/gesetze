@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Kostenverordnung der Wasser- und Schifffahrtsverwaltung auf
-  dem Gebiet der Binnenschifffahrt'
+Title: Kostenverordnung der Wasser- und Schifffahrtsverwaltung auf dem Gebiet der
+  Binnenschifffahrt
 layout: default
 slug: binschkostv_2002
+
 ---
 
 # Kostenverordnung der Wasser- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt (BinSchKostV 2002)

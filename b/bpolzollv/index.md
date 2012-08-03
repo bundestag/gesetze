@@ -2,6 +2,7 @@
 Title: Verordnung über die Übertragung von Bundespolizeiaufgaben auf die Zollverwaltung
 layout: default
 slug: bpolzollv
+
 ---
 
 # Verordnung über die Übertragung von Bundespolizeiaufgaben auf die Zollverwaltung (BPolZollV)

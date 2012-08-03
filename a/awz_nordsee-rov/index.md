@@ -3,6 +3,7 @@ Title: Verordnung über die Raumordnung in der deutschen ausschließlichen Wirts
   in der Nordsee
 layout: default
 slug: awz_nordsee-rov
+
 ---
 
 # Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee (AWZ Nordsee-ROV)

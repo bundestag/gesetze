@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Erste Verordnung zur Anpassung der Renten in dem in Artikel
-  3 des Einigungsvertrages genannten Gebiet'
+Title: Erste Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
+  genannten Gebiet
 layout: default
 slug: rav_1
+
 ---
 
 # Erste Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (RAV 1)

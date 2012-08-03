@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   der Ungarischen Volksrepublik über die Binnenschiffahrt
 layout: default
 slug: binschabk_hun
+
 ---
 
 # Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Ungarischen Volksrepublik über die Binnenschiffahrt (BinSchAbk HUN)

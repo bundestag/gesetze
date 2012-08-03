@@ -2,6 +2,7 @@
 Title: Zolltarif (Anlage zu § 1 der Zolltarifverordnung vom 24.9.1986 II 896)
 layout: default
 slug: zt_1986
+
 ---
 
 # Zolltarif (Anlage zu § 1 der Zolltarifverordnung vom 24.9.1986 II 896) (ZT 1986)

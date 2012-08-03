@@ -4,6 +4,7 @@ Title: Zweihundertneunte Durchführungsverordnung zur Luftverkehrs-Ordnung (Fest
   Berlin-Schönefeld)
 layout: default
 slug: luftvodv_209
+
 ---
 
 # Zweihundertneunte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Berlin-Schönefeld) (LuftVODV 209)

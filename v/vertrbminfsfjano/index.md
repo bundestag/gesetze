@@ -3,6 +3,7 @@ Title: Anordnung 체ber die Vertretung des Bundes bei Klagen aus dem Beamtenverh�
   im Gesch채ftsbereich des Bundesministeriums f체r Familie, Senioren, Frauen und Jugend
 layout: default
 slug: vertrbminfsfjano
+
 ---
 
 # Anordnung 체ber die Vertretung des Bundes bei Klagen aus dem Beamtenverh채ltnis im Gesch채ftsbereich des Bundesministeriums f체r Familie, Senioren, Frauen und Jugend (VertrBMinFSFJAnO)

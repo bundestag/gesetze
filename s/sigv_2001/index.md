@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur elektronischen Signatur'
+Title: Verordnung zur elektronischen Signatur
 layout: default
 slug: sigv_2001
+
 ---
 
 # Verordnung zur elektronischen Signatur (SigV 2001)

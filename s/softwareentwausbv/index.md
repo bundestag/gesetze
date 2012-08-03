@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Mathematisch-technischen  Softw
   Mathematisch-technischen Softwareentwicklerin
 layout: default
 slug: softwareentwausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Mathematisch-technischen  Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin (SoftwareentwAusbV)

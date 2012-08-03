@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte
 layout: default
 slug: prhaushstatg
+
 ---
 
 # Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte (PrHaushStatG)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik der Verdienste und Arbeitskosten
 layout: default
 slug: verdstatg
+
 ---
 
 # Gesetz über die Statistik der Verdienste und Arbeitskosten (VerdStatG)

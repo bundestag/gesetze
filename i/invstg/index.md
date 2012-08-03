@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Investmentsteuergesetz'
+Title: Investmentsteuergesetz
 layout: default
 slug: invstg
+
 ---
 
 # Investmentsteuergesetz (InvStG)

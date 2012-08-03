@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sonderzuschlagsverordnung'
+Title: Sonderzuschlagsverordnung
 layout: default
 slug: szvaufhv
+
 ---
 
 # Sonderzuschlagsverordnung (SzVAufhV)

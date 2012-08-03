@@ -2,6 +2,7 @@
 Title: Einführungsgesetz zum Aktiengesetz
 layout: default
 slug: aktgeg
+
 ---
 
 # Einführungsgesetz zum Aktiengesetz (AktGEG)

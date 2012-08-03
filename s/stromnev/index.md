@@ -2,6 +2,7 @@
 Title: Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen
 layout: default
 slug: stromnev
+
 ---
 
 # Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen (StromNEV)

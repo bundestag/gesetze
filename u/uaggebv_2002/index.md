@@ -3,6 +3,7 @@ Title: Verordnung über Gebühren und Auslagen für Amtshandlungen der Zulassung
   und der Widerspruchsbehörde bei der Durchführung des Umweltauditgesetzes
 layout: default
 slug: uaggebv_2002
+
 ---
 
 # Verordnung über Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle und der Widerspruchsbehörde bei der Durchführung des Umweltauditgesetzes (UAGGebV 2002)

@@ -3,6 +3,7 @@ Title: Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Eh
   und über die Anerkennung als Ehrenzeichen
 layout: default
 slug: ordenerl
+
 ---
 
 # Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen und über die Anerkennung als Ehrenzeichen (OrdenErl)

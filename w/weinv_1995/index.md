@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Weinverordnung'
+Title: Weinverordnung
 layout: default
 slug: weinv_1995
+
 ---
 
 # Weinverordnung (WeinV 1995)

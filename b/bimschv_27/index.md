@@ -4,6 +4,7 @@ Title: Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionssch
   Verordnung über genehmigungsbedürftige Anlagen)
 layout: default
 slug: bimschv_27
+
 ---
 
 # Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Artikel 1 der Verordnung über Anlagen zur Feuerbestattung und zur Änderung der Verordnung über genehmigungsbedürftige Anlagen) (BImSchV 27)

@@ -2,6 +2,7 @@
 Title: Dreiundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 layout: default
 slug: stvzoausnv_23
+
 ---
 
 # Dreiundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung (StVZOAusnV 23)

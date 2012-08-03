@@ -2,9 +2,10 @@
 Gesetz über den Handel mit Berechtigungen zur Emission von
 Treibhausgasen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: tehg_2011
+
 ---
 
 #  (TEHG 2011)

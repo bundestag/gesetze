@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung
-  Umwelt"'
+Title: Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung Umwelt"
 layout: default
 slug: dbustiftg
+
 ---
 
 # Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung Umwelt" (DBUStiftG)

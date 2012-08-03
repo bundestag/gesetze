@@ -5,6 +5,7 @@ Title: Verordnung über die Berufsausbildung zum Rechtsanwaltsfachangestellten/z
   und zum Patentanwaltsfachangestellten/zur Patentanwaltsfachangestellten
 layout: default
 slug: renopatausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Rechtsanwaltsfachangestellten/zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten/zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten/zur Rechtsanwalts- und Notarfachangestellten und zum Patentanwaltsfachangestellten/zur Patentanwaltsfachangestellten (ReNoPatAusbV)

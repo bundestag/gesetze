@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Landesgesetz zur Beseitigung nationalsozialistischen Unrechts
-  in der Strafrechtspflege'
+Title: Landesgesetz zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege
 layout: default
 slug: nsunrg_rp
+
 ---
 
 # Landesgesetz zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege (NSUnrG RP)

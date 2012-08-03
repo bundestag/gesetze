@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Chirurgiemechaniker/zur Chirurgiemechanikerin
 layout: default
 slug: chirurgmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Chirurgiemechaniker/zur Chirurgiemechanikerin (ChirurgMAusbV)

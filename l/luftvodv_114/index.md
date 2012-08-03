@@ -4,6 +4,7 @@ Title: Einhundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (F
   München)
 layout: default
 slug: luftvodv_114
+
 ---
 
 # Einhundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen München) (LuftVODV 114)

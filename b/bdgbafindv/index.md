@@ -4,6 +4,7 @@ Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundes
   Finanzen
 layout: default
 slug: bdgbafindv
+
 ---
 
 # Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt für Finanzdienstleistungsaufsicht im Geschäftsbereich des Bundesministeriums der Finanzen (BDGBAFinDV)

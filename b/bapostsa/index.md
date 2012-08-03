@@ -4,6 +4,7 @@ Title: Satzung der Bundesanstalt für Post und Telekommunikation Deutsche Bundes
   Deutsche Bundespost)
 layout: default
 slug: bapostsa
+
 ---
 
 # Satzung der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost (Anlage des Gesetzes über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost) (BAPostSa)

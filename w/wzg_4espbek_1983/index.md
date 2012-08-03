@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
 layout: default
 slug: wzg_4espbek_1983
+
 ---
 
 # Bekanntmachung zu § 4 des Warenzeichengesetzes (WZG§4ESPBek 1983)

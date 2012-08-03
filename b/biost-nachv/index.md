@@ -2,9 +2,10 @@
 Verordnung über Anforderungen an eine nachhaltige Herstellung von
 flüssiger Biomasse zur Stromerzeugung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: biost-nachv
+
 ---
 
 #  (BioSt-NachV)

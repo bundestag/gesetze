@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schw
   über deutsche Vermögenswerte in Schweden
 layout: default
 slug: vermabk_swe
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über deutsche Vermögenswerte in Schweden (VermAbk SWE)

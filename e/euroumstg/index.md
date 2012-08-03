@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Umstellung von Schuldverschreibungen auf Euro'
+Title: Gesetz zur Umstellung von Schuldverschreibungen auf Euro
 layout: default
 slug: euroumstg
+
 ---
 
 # Gesetz zur Umstellung von Schuldverschreibungen auf Euro (EuroUmstG)

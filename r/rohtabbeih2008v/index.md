@@ -3,6 +3,7 @@ Title: Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak
   das Erntejahr 2008
 layout: default
 slug: rohtabbeih2008v
+
 ---
 
 # Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für das Erntejahr 2008 (RohTabBeih2008V)

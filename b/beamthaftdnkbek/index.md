@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre
   gegenüber den Angehörigen des Königreichs Dänemark
 layout: default
 slug: beamthaftdnkbek
+
 ---
 
 # Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Königreichs Dänemark (BeamtHaftDNKBek)

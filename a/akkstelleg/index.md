@@ -2,6 +2,7 @@
 Title: Gesetz über die Akkreditierungsstelle
 layout: default
 slug: akkstelleg
+
 ---
 
 # Gesetz über die Akkreditierungsstelle (AkkStelleG)

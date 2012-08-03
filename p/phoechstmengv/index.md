@@ -2,6 +2,7 @@
 Title: Verordnung über Höchstmengen für Phosphate in Wasch- und Reinigungsmitteln
 layout: default
 slug: ph_chstmengv
+
 ---
 
 # Verordnung über Höchstmengen für Phosphate in Wasch- und Reinigungsmitteln (PHöchstMengV)

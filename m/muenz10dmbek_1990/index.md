@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze Kaiser Friedrich I. Barbarossa)
 layout: default
 slug: m_nz10dmbek_1990
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Kaiser Friedrich I. Barbarossa) (Münz10DMBek 1990)

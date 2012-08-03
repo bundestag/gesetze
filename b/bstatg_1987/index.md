@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik für Bundeszwecke
 layout: default
 slug: bstatg_1987
+
 ---
 
 # Gesetz über die Statistik für Bundeszwecke (BStatG 1987)

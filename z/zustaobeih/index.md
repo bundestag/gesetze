@@ -5,6 +5,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der 
   Bundes
 layout: default
 slug: zustaobeih
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Festsetzung von Beihilfen sowie für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis für Versorgungsempfänger des Bundes (ZustAOBeih)

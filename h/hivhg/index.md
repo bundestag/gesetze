@@ -2,6 +2,7 @@
 Title: Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen
 layout: default
 slug: hivhg
+
 ---
 
 # Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen (HIVHG)

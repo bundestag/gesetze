@@ -3,6 +3,7 @@ Title: Verordnung über die Zulässigkeit der Vereinbarung von Vergütungen von 
   Vermittlern mit Angehörigen bestimmter Berufe und Personengruppen
 layout: default
 slug: vermittvergv
+
 ---
 
 # Verordnung über die Zulässigkeit der Vereinbarung von Vergütungen von privaten Vermittlern mit Angehörigen bestimmter Berufe und Personengruppen (VermittVergV)

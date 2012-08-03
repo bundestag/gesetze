@@ -2,6 +2,7 @@
 Title: Anordnung über die Ernennung und Entlassung der Angehörigen der Grenzschutzreserve
 layout: default
 slug: bgsresernano
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Angehörigen der Grenzschutzreserve (BGSResErnAnO)

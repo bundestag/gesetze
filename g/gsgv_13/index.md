@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Dreizehnte Verordnung zum Produktsicherheitsgesetz (Aerosolpackungsverordnung)'
+Title: Dreizehnte Verordnung zum Produktsicherheitsgesetz (Aerosolpackungsverordnung)
 layout: default
 slug: gsgv_13
+
 ---
 
 # Dreizehnte Verordnung zum Produktsicherheitsgesetz (Aerosolpackungsverordnung) (GSGV 13)

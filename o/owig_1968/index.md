@@ -2,6 +2,7 @@
 Title: Gesetz über Ordnungswidrigkeiten
 layout: default
 slug: owig_1968
+
 ---
 
 # Gesetz über Ordnungswidrigkeiten (OWiG 1968)

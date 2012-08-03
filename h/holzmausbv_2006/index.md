@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Holzmechaniker/zur  Holzmechanikerin
 layout: default
 slug: holzmausbv_2006
+
 ---
 
 # Verordnung über die Berufsausbildung zum Holzmechaniker/zur  Holzmechanikerin (HolzMAusbV 2006)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin
 layout: default
 slug: edlstfausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin (EdlStFAusbV)

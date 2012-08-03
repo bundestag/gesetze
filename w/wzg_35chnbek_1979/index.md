@@ -2,6 +2,7 @@
 Title: Bekanntmachung gemäß § 35 des Warenzeichengesetzes
 layout: default
 slug: wzg_35chnbek_1979
+
 ---
 
 # Bekanntmachung gemäß § 35 des Warenzeichengesetzes (WZG§35CHNBek 1979)

@@ -2,6 +2,7 @@
 Title: Viertes Gesetz zur Änderung des Soldatengesetzes
 layout: default
 slug: sg_ndg_4
+
 ---
 
 # Viertes Gesetz zur Änderung des Soldatengesetzes (SGÄndG 4)

@@ -3,9 +3,10 @@ Verordnung über die innerstaatliche und grenzüberschreitende
 Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf
 Binnengewässern
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: ggvseb
+
 ---
 
 #  (GGVSEB)

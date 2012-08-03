@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 15. April 1994 zur Errichtung der Weltha
   und zur Änderung anderer Gesetze
 layout: default
 slug: wto_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 15. April 1994 zur Errichtung der Welthandelsorganisation und zur Änderung anderer Gesetze (WTOÜbkG)

@@ -2,6 +2,7 @@
 Title: Dritte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 layout: default
 slug: begdv_3
+
 ---
 
 # Dritte Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 3)

@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfa
   Bankfachwirtin
 layout: default
 slug: bankfachwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin (BankFachwPrV)

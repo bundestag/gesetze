@@ -2,6 +2,7 @@
 Title: Verordnung über die Vermeidung und Verwertung von Verpackungsabfällen
 layout: default
 slug: verpackv_1998
+
 ---
 
 # Verordnung über die Vermeidung und Verwertung von Verpackungsabfällen (VerpackV 1998)

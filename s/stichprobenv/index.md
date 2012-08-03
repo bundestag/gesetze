@@ -3,6 +3,7 @@ Title: Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichpro
   zum Zensusgesetz 2011
 layout: default
 slug: stichprobenv
+
 ---
 
 # Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis zum Zensusgesetz 2011 (StichprobenV)

@@ -5,6 +5,7 @@ Title: Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesel
   des Gesetzes über Kapitalanlagegesellschaften)
 layout: default
 slug: kagg_gewoergg
+
 ---
 
 # Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung (Zweiter Teil des Gesetzes über den Vertrieb ausländischer Investmentanteile, über die Besteuerung ihrer Erträge sowie zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften) (KAGG/GewOErgG)

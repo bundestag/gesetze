@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre
   gegenüber den Angehörigen der Französischen Republik
 layout: default
 slug: beamthaftfrabek
+
 ---
 
 # Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen der Französischen Republik (BeamtHaftFRABek)

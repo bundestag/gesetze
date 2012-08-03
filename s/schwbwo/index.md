@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wahlordnung Schwerbehindertenvertretungen'
+Title: Wahlordnung Schwerbehindertenvertretungen
 layout: default
 slug: schwbwo
+
 ---
 
 # Wahlordnung Schwerbehindertenvertretungen (SchwbWO)

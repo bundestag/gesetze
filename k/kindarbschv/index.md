@@ -2,6 +2,7 @@
 Title: Verordnung über den Kinderarbeitsschutz
 layout: default
 slug: kindarbschv
+
 ---
 
 # Verordnung über den Kinderarbeitsschutz (KindArbSchV)

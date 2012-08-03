@@ -2,6 +2,7 @@
 Title: Verordnung zur Änderung bergrechtlicher Verordnungen
 layout: default
 slug: bergrv_ndv
+
 ---
 
 # Verordnung zur Änderung bergrechtlicher Verordnungen (BergRVÄndV)

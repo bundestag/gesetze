@@ -3,6 +3,7 @@ Title: Verordnung zur Absenkung der Steuersätze nach § 11 Absatz 2 des Luftver
   im Jahr 2012
 layout: default
 slug: luftvstabsenkv_2012
+
 ---
 
 # Verordnung zur Absenkung der Steuersätze nach § 11 Absatz 2 des Luftverkehrsteuergesetzes im Jahr 2012 (LuftVStAbsenkV 2012)

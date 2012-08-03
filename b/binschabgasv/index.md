@@ -3,6 +3,7 @@ Title: Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in 
   Binnenschifffahrt
 layout: default
 slug: binschabgasv
+
 ---
 
 # Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt (BinSchAbgasV)

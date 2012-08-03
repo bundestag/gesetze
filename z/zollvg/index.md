@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zollverwaltungsgesetz'
+Title: Zollverwaltungsgesetz
 layout: default
 slug: zollvg
+
 ---
 
 # Zollverwaltungsgesetz (ZollVG)

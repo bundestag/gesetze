@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Kaufmann für Verkehrsservice/z
   für Verkehrsservice
 layout: default
 slug: vserviceausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Kaufmann für Verkehrsservice/zur Kauffrau für Verkehrsservice (VServiceAusbV)

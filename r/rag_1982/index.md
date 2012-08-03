@@ -3,6 +3,7 @@ Title: Rentenanpassungsgesetz 1982 (Artikel 1 des Gesetzes über die Anpassung d
   Renten der gesetzlichen Rentenversicherung im Jahr 1982)
 layout: default
 slug: rag_1982
+
 ---
 
 # Rentenanpassungsgesetz 1982 (Artikel 1 des Gesetzes über die Anpassung der Renten der gesetzlichen Rentenversicherung im Jahr 1982) (RAG 1982)

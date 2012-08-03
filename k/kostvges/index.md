@@ -3,6 +3,7 @@ Title: Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinr
   des Bundes
 layout: default
 slug: kostvges
+
 ---
 
 # Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinrichtungen des Bundes (KostVGes)

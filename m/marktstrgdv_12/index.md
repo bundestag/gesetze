@@ -2,6 +2,7 @@
 Title: Zwölfte Durchführungsverordnung zum Marktstrukturgesetz - Forstpflanzen
 layout: default
 slug: marktstrgdv_12
+
 ---
 
 # Zwölfte Durchführungsverordnung zum Marktstrukturgesetz - Forstpflanzen (MarktStrGDV 12)

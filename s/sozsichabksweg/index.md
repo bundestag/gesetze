@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 27. Februar 1976 zwischen der Bundesrepublik D
   und dem Königreich Schweden über Soziale Sicherheit
 layout: default
 slug: sozsichabksweg
+
 ---
 
 # Gesetz zu dem Abkommen vom 27. Februar 1976 zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über Soziale Sicherheit (SozSichAbkSWEG)

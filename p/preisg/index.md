@@ -2,6 +2,7 @@
 Title: Übergangsgesetz über Preisbildung und Preisüberwachung
 layout: default
 slug: preisg
+
 ---
 
 # Übergangsgesetz über Preisbildung und Preisüberwachung (PreisG)

@@ -2,6 +2,7 @@
 Title: Zehnte Verordnung zur Änderung von Rechtsvorschriften zum Güterkraftverkehrsgesetz
 layout: default
 slug: g_kg_ndv_10
+
 ---
 
 # Zehnte Verordnung zur Änderung von Rechtsvorschriften zum Güterkraftverkehrsgesetz (GüKGÄndV 10)

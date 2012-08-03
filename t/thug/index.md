@@ -2,6 +2,7 @@
 Title: Gesetz zur Therapierung und Unterbringung psychisch gestörter Gewalttäter
 layout: default
 slug: thug
+
 ---
 
 # Gesetz zur Therapierung und Unterbringung psychisch gestörter Gewalttäter (ThUG)

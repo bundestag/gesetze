@@ -3,6 +3,7 @@ Title: Sechste Verordnung über die Versicherung von Arbeitnehmern in der hütte
   Zusatzversicherung
 layout: default
 slug: hzvv_6
+
 ---
 
 # Sechste Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung (HZvV 6)

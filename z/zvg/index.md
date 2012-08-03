@@ -2,6 +2,7 @@
 Title: Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
 layout: default
 slug: zvg
+
 ---
 
 # Gesetz über die Zwangsversteigerung und die Zwangsverwaltung (ZVG)

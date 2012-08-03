@@ -3,6 +3,7 @@ Title: Anordnung über die Ausübung der Disziplinarbefugnisse bei Ruhestandsbea
   und Ruhestandsbeamten im Deutschen Patent- und Markenamt
 layout: default
 slug: dpmadiszano
+
 ---
 
 # Anordnung über die Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamtinnen und Ruhestandsbeamten im Deutschen Patent- und Markenamt (DPMADiszAnO)

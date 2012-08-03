@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesberggesetz'
+Title: Bundesberggesetz
 layout: default
 slug: bbergg
+
 ---
 
 # Bundesberggesetz (BBergG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bäcker/zur Bäckerin
 layout: default
 slug: b_ausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Bäcker/zur Bäckerin (BäAusbV 2004)

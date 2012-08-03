@@ -2,6 +2,7 @@
 Title: Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 layout: default
 slug: ifsg
+
 ---
 
 # Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (IfSG)

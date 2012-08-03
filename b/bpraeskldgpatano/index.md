@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der beamteten Patentinhaber auf Hilfsschiffen der Bundeswehr
 layout: default
 slug: bpr_skldgpatano
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Patentinhaber auf Hilfsschiffen der Bundeswehr (BPräsKldgPatAnO)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Pferdewirt
 layout: default
 slug: pfwirtmeistprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Pferdewirt (PfWirtMeistPrV)

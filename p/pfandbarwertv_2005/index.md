@@ -4,6 +4,7 @@ Title: Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothe
   Barwert und dessen Berechnung bei Pfandbriefbanken
 layout: default
 slug: pfandbarwertv_2005
+
 ---
 
 # Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken (PfandBarwertV 2005)

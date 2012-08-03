@@ -2,9 +2,10 @@
 Gesetz zur Ordnung des Wasserhaushalts
 [^f772370_02_BJNR258510009]
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: whg_2009
+
 ---
 
 #  (WHG 2009)

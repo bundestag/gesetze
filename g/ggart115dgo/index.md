@@ -2,6 +2,7 @@
 Title: Geschäftsordnung für das Verfahren nach Artikel 115 d des Grundgesetzes
 layout: default
 slug: ggart115dgo
+
 ---
 
 # Geschäftsordnung für das Verfahren nach Artikel 115 d des Grundgesetzes (GGArt115dGO)

@@ -3,6 +3,7 @@ Title: Anordnung des Bundesministers für Post und Telekommunikation über die F
   von Amtsbezeichnungen
 layout: default
 slug: bmptamtsbezano
+
 ---
 
 # Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung von Amtsbezeichnungen (BMPTAmtsbezAnO)

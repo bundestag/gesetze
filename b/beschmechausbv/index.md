@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Besch
   Verfahrensmechanikerin für Beschichtungstechnik
 layout: default
 slug: beschmechausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik (BeschMechAusbV)

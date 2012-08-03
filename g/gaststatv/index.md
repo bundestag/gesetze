@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Entlastung der Unternehmen des Gastgewerbes
-  von monatlichen Berichtspflichten nach dem Handelsstatistikgesetz'
+Title: Verordnung zur Entlastung der Unternehmen des Gastgewerbes von monatlichen
+  Berichtspflichten nach dem Handelsstatistikgesetz
 layout: default
 slug: gaststatv
+
 ---
 
 # Verordnung zur Entlastung der Unternehmen des Gastgewerbes von monatlichen Berichtspflichten nach dem Handelsstatistikgesetz (GastStatV)

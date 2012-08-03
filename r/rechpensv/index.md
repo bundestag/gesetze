@@ -2,6 +2,7 @@
 Title: Verordnung über die Rechnungslegung von Pensionsfonds
 layout: default
 slug: rechpensv
+
 ---
 
 # Verordnung über die Rechnungslegung von Pensionsfonds (RechPensV)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Umsetzung von Zukunftsinvestitionen der Kommunen und Länder
 layout: default
 slug: zuinvg
+
 ---
 
 # Gesetz zur Umsetzung von Zukunftsinvestitionen der Kommunen und Länder (ZuInvG)

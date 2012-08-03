@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar")
 layout: default
 slug: m_nz100eurobek_2006
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar") (Münz100EuroBek 2006)

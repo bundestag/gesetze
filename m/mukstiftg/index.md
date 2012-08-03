@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz
-  des ungeborenen Lebens"'
+Title: Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen
+  Lebens"
 layout: default
 slug: mukstiftg
+
 ---
 
 # Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen Lebens" (MuKStiftG)

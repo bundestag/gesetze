@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Pachtkreditgesetz'
+Title: Pachtkreditgesetz
 layout: default
 slug: pachtkredg
+
 ---
 
 # Pachtkreditgesetz (PachtkredG)

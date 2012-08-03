@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer
-  Rechtsvorschriften an den EG-Binnenmarkt'
+Title: Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer Rechtsvorschriften
+  an den EG-Binnenmarkt
 layout: default
 slug: ustbmg
+
 ---
 
 # Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer Rechtsvorschriften an den EG-Binnenmarkt (UStBMG)

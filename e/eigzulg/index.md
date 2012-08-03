@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eigenheimzulagengesetz'
+Title: Eigenheimzulagengesetz
 layout: default
 slug: eigzulg
+
 ---
 
 # Eigenheimzulagengesetz (EigZulG)

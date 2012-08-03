@@ -3,6 +3,7 @@ Title: Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bu
   zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
 layout: default
 slug: endlagervlv
+
 ---
 
 # Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle (EndlagerVlV)

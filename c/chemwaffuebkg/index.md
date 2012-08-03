@@ -4,6 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot der Ent
   solcher Waffen
 layout: default
 slug: chemwaff_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot der Entwicklung, Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die Vernichtung solcher Waffen (ChemWaffÜbkG)

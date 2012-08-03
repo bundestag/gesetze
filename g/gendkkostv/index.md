@@ -3,6 +3,7 @@ Title: Kostenverordnung für die Stellungnahmen der Gendiagnostik-Kommission nac
   Gendiagnostikgesetz
 layout: default
 slug: gendkkostv
+
 ---
 
 # Kostenverordnung für die Stellungnahmen der Gendiagnostik-Kommission nach dem Gendiagnostikgesetz (GenDKKostV)

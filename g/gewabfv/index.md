@@ -3,6 +3,7 @@ Title: Verordnung über die Entsorgung von gewerblichen Siedlungsabfällen und v
   Bau- und Abbruchabfällen
 layout: default
 slug: gewabfv
+
 ---
 
 # Verordnung über die Entsorgung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen (GewAbfV)

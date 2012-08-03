@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Holzspielzeugmacher/zur Holzspielzeugmacherin
 layout: default
 slug: holzspielzmausbv_1996
+
 ---
 
 # Verordnung über die Berufsausbildung zum Holzspielzeugmacher/zur Holzspielzeugmacherin (HolzSpielzMAusbV 1996)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Heimarbeitsgesetz'
+Title: Heimarbeitsgesetz
 layout: default
 slug: hag
+
 ---
 
 # Heimarbeitsgesetz (HAG)

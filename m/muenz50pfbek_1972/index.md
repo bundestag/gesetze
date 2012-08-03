@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50
   Pfennig
 layout: default
 slug: m_nz50pfbek_1972
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig (Münz50PfBek 1972)

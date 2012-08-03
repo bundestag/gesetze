@@ -2,6 +2,7 @@
 Title: Verordnung zum DRG-Entgeltkatalog für das Jahr 2012
 layout: default
 slug: drg-ekv_2012
+
 ---
 
 # Verordnung zum DRG-Entgeltkatalog für das Jahr 2012 (DRG-EKV 2012)

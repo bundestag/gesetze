@@ -2,6 +2,7 @@
 Title: Gesetz über die Versorgung der Beamten und Richter des Bundes
 layout: default
 slug: beamtvg
+
 ---
 
 # Gesetz über die Versorgung der Beamten und Richter des Bundes (BeamtVG)

@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staa
   gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtrsn_th2bek
+
 ---
 
 # Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staatsvertrages zwischen dem Freistaat Sachsen und dem Freistaat Thüringen über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtrSN/TH2Bek)

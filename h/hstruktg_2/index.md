@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zweites Gesetz zur Verbesserung der Haushaltsstruktur'
+Title: Zweites Gesetz zur Verbesserung der Haushaltsstruktur
 layout: default
 slug: hstruktg_2
+
 ---
 
 # Zweites Gesetz zur Verbesserung der Haushaltsstruktur (HStruktG 2)

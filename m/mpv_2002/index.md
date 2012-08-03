@@ -2,6 +2,7 @@
 Title: Verordnung über Medizinprodukte
 layout: default
 slug: mpv_2002
+
 ---
 
 # Verordnung über Medizinprodukte (MPV 2002)

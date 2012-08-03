@@ -2,6 +2,7 @@
 Title: Verordnung über die Mündelsicherheit der Pfandbriefe und verwandten Schuldverschreibungen
 layout: default
 slug: m_ndelpfandbrv
+
 ---
 
 # Verordnung über die Mündelsicherheit der Pfandbriefe und verwandten Schuldverschreibungen (MündelPfandBrV)

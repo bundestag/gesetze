@@ -2,6 +2,7 @@
 Title: Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
 layout: default
 slug: schneidwmechmstrv
+
 ---
 
 # Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk (SchneidwMechMstrV)

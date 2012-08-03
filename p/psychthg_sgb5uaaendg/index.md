@@ -4,6 +4,7 @@ Title: Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kin
   und anderer Gesetze
 layout: default
 slug: psychthg_sgb5ua_ndg
+
 ---
 
 # Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches Sozialgesetzbuch und anderer Gesetze (PsychThG/SGB5uaÄndG)

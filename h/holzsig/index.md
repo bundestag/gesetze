@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz gegen den Handel mit illegal eingeschlagenem Holz'
+Title: Gesetz gegen den Handel mit illegal eingeschlagenem Holz
 layout: default
 slug: holzsig
+
 ---
 
 # Gesetz gegen den Handel mit illegal eingeschlagenem Holz (HolzSiG)

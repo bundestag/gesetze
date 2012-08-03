@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung von § 5 Abs. 4 des Finanzverwaltungsgesetzes
 layout: default
 slug: fvg1971_5abs4dv
+
 ---
 
 # Verordnung zur Durchführung von § 5 Abs. 4 des Finanzverwaltungsgesetzes (FVG1971§5Abs4DV)

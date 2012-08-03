@@ -2,6 +2,7 @@
 Title: Verordnung über die Küstenschifffahrt
 layout: default
 slug: k_schv
+
 ---
 
 # Verordnung über die Küstenschifffahrt (KüSchV)

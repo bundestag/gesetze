@@ -3,6 +3,7 @@ Title: Fünftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rente
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1962
 layout: default
 slug: rag_5
+
 ---
 
 # Fünftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1962 (RAG 5)

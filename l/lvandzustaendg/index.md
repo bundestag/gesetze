@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicheru
   in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
 layout: default
 slug: lvandzust_ndg
+
 ---
 
 # Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes (LVANDZustÄndG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Einführung von Vordrucken im Bereich der Beratungshilfe
 layout: default
 slug: berhvv
+
 ---
 
 # Verordnung zur Einführung von Vordrucken im Bereich der Beratungshilfe (BerHVV)

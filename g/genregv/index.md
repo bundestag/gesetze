@@ -2,6 +2,7 @@
 Title: Verordnung über das Genossenschaftsregister
 layout: default
 slug: genregv
+
 ---
 
 # Verordnung über das Genossenschaftsregister (GenRegV)

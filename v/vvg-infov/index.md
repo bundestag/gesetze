@@ -1,9 +1,10 @@
 [^F769932.1_BJNR300400007]
 Verordnung über Informationspflichten bei Versicherungsverträgen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: vvg-infov
+
 ---
 
 #  (VVG-InfoV)

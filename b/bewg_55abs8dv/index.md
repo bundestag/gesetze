@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 55 Abs. 8 des Bewertungsgesetzes
 layout: default
 slug: bewg_55abs8dv
+
 ---
 
 # Verordnung zur Durchführung des § 55 Abs. 8 des Bewertungsgesetzes (BewG§55Abs8DV)

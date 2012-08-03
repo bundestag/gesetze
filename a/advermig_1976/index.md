@@ -3,6 +3,7 @@ Title: Gesetz über die Vermittlung der Annahme als Kind und über das Verbot de
   von Ersatzmüttern
 layout: default
 slug: advermig_1976
+
 ---
 
 # Gesetz über die Vermittlung der Annahme als Kind und über das Verbot der Vermittlung von Ersatzmüttern (AdVermiG 1976)

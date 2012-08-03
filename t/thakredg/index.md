@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung der Aufnahme von Krediten durch die Treuhandanstalt'
+Title: Gesetz zur Regelung der Aufnahme von Krediten durch die Treuhandanstalt
 layout: default
 slug: thakredg
+
 ---
 
 # Gesetz zur Regelung der Aufnahme von Krediten durch die Treuhandanstalt (THAKredG)

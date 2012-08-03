@@ -4,6 +4,7 @@ Title: Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herst
   bei der Herstellung von Produkten menschlicher Herkunft
 layout: default
 slug: amwhv
+
 ---
 
 # Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung von Arzneimitteln und Wirkstoffen und über die Anwendung der Guten fachlichen Praxis bei der Herstellung von Produkten menschlicher Herkunft (AMWHV)

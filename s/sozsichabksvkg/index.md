@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 12. September 2002 zwischen der Bundesrepublik
   und der Slowakischen Republik über Soziale Sicherheit
 layout: default
 slug: sozsichabksvkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 12. September 2002 zwischen der Bundesrepublik Deutschland und der Slowakischen Republik über Soziale Sicherheit (SozSichAbkSVKG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Kapitalausstattung von Pensionsfonds
 layout: default
 slug: pfkaustv
+
 ---
 
 # Verordnung über die Kapitalausstattung von Pensionsfonds (PFKAustV)

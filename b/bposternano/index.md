@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung von Beamten der Deutschen Bu
   und der Bundesdruckerei
 layout: default
 slug: bposternano
+
 ---
 
 # Anordnung über die Ernennung und Entlassung von Beamten der Deutschen Bundespost und der Bundesdruckerei (BPostErnAnO)

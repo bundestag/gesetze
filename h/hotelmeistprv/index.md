@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Hotelm
   Hotelmeisterin
 layout: default
 slug: hotelmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Hotelmeister/Geprüfte Hotelmeisterin (HotelMeistPrV)

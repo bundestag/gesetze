@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gewerbeordnung'
+Title: Gewerbeordnung
 layout: default
 slug: gewo
+
 ---
 
 # Gewerbeordnung (GewO)

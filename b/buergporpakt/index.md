@@ -2,6 +2,7 @@
 Title: Internationaler Pakt über bürgerliche und politische Rechte
 layout: default
 slug: b_rgporpakt
+
 ---
 
 # Internationaler Pakt über bürgerliche und politische Rechte (BürgPoRPakt)

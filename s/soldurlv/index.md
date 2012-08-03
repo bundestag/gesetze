@@ -2,6 +2,7 @@
 Title: Verordnung über den Urlaub der Soldatinnen und Soldaten
 layout: default
 slug: soldurlv
+
 ---
 
 # Verordnung über den Urlaub der Soldatinnen und Soldaten (SoldUrlV)

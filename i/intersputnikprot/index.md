@@ -4,6 +4,7 @@ Title: Protokoll über die Einbringung von Korrekturen in das Abkommen über die
   "INTERSPUTNIK"
 layout: default
 slug: intersputnikprot
+
 ---
 
 # Protokoll über die Einbringung von Korrekturen in das Abkommen über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen "INTERSPUTNIK" (INTERSPUTNIKProt)

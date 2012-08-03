@@ -2,6 +2,7 @@
 Title: Fünfte Verordnung zur Änderung der Approbationsordnung für Ärzte
 layout: default
 slug: _appro_ndv_5
+
 ---
 
 # Fünfte Verordnung zur Änderung der Approbationsordnung für Ärzte (ÄApprOÄndV 5)

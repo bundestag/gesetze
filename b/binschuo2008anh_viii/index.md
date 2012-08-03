@@ -1,8 +1,9 @@
 Verfahrensvorschriften für die Durchführung von Untersuchungen
 ---
-Title: !!python/unicode '(Anhang VIII zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang VIII zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_viii
+
 ---
 
 # (Anhang VIII zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh VIII)

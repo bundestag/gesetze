@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des § 31 des Beamtenversorgungsgesetzes (Be
   von Krankheiten für die beamtenrechtliche Unfallfürsorge)
 layout: default
 slug: beamtvg_31dv
+
 ---
 
 # Verordnung zur Durchführung des § 31 des Beamtenversorgungsgesetzes (Bestimmung von Krankheiten für die beamtenrechtliche Unfallfürsorge) (BeamtVG§31DV)

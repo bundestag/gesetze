@@ -2,6 +2,7 @@
 Title: Gesetz über Meldungen über Marktordnungswaren
 layout: default
 slug: marktonog
+
 ---
 
 # Gesetz über Meldungen über Marktordnungswaren (MarktONOG)

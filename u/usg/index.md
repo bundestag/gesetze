@@ -3,6 +3,7 @@ Title: Gesetz über die Sicherung des Unterhalts der zum Wehrdienst einberufenen
   und ihrer Angehörigen
 layout: default
 slug: usg
+
 ---
 
 # Gesetz über die Sicherung des Unterhalts der zum Wehrdienst einberufenen Wehrpflichtigen und ihrer Angehörigen (USG)

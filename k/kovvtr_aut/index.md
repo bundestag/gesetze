@@ -3,6 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österre
   über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 layout: default
 slug: kovvtr_aut
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter (KOVVtr AUT)

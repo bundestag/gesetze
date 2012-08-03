@@ -2,6 +2,7 @@
 Title: Gesetz über die Vergütung von Vormündern und Betreuern
 layout: default
 slug: vbvg
+
 ---
 
 # Gesetz über die Vergütung von Vormündern und Betreuern (VBVG)

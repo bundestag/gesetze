@@ -2,6 +2,7 @@
 Title: Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz
 layout: default
 slug: wp_ggebv
+
 ---
 
 # Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz (WpÜGGebV)

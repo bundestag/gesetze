@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Investitionszulagengesetz 2007'
+Title: Investitionszulagengesetz 2007
 layout: default
 slug: invzulg_2007
+
 ---
 
 # Investitionszulagengesetz 2007 (InvZulG 2007)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Finanzmarktstabilisierungsfondsgesetzes
 layout: default
 slug: fmstfv
+
 ---
 
 # Verordnung zur Durchführung des Finanzmarktstabilisierungsfondsgesetzes (FMStFV)

@@ -3,6 +3,7 @@ Title: Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour 
   für Wissenschaften und Künste
 layout: default
 slug: pmeritesa_nderl_2010
+
 ---
 
 # Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste (PMeriteSaÄndErl 2010)

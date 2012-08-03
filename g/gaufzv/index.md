@@ -3,6 +3,7 @@ Title: Verordnung zu Art, Inhalt und Umfang von Aufzeichnungen im Sinne des § 9
   3 der Abgabenordnung
 layout: default
 slug: gaufzv
+
 ---
 
 # Verordnung zu Art, Inhalt und Umfang von Aufzeichnungen im Sinne des § 90 Abs. 3 der Abgabenordnung (GAufzV)

@@ -4,6 +4,7 @@ Title: Zweihundertzweite Durchführungsverordnung zur Luftverkehrs-Ordnung (Fest
   Donaueschingen-Villingen)
 layout: default
 slug: luftvodv_202
+
 ---
 
 # Zweihundertzweite Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Donaueschingen-Villingen) (LuftVODV 202)

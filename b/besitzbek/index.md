@@ -2,6 +2,7 @@
 Title: Bekanntmachung über den Sitz des Bundeseisenbahnvermögens
 layout: default
 slug: besitzbek
+
 ---
 
 # Bekanntmachung über den Sitz des Bundeseisenbahnvermögens (BESitzBek)

@@ -2,6 +2,7 @@
 Title: Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen
 layout: default
 slug: podaprv
+
 ---
 
 # Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen (PodAPrV)

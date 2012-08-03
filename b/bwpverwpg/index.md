@@ -2,6 +2,7 @@
 Title: Gesetz über das Personal der Bundeswertpapierverwaltung
 layout: default
 slug: bwpverwpg
+
 ---
 
 # Gesetz über das Personal der Bundeswertpapierverwaltung (BWpVerwPG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Wahlverordnung zum Soldatenbeteiligungsgesetz'
+Title: Wahlverordnung zum Soldatenbeteiligungsgesetz
 layout: default
 slug: sbgwv
+
 ---
 
 # Wahlverordnung zum Soldatenbeteiligungsgesetz (SBGWV)

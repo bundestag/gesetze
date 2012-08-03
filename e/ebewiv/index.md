@@ -2,6 +2,7 @@
 Title: Ernährungsbewirtschaftungsverordnung
 layout: default
 slug: ebewiv
+
 ---
 
 # Ernährungsbewirtschaftungsverordnung (EBewiV)

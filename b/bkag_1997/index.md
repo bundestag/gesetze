@@ -5,6 +5,7 @@ Title: Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und 
   Angelegenheiten)
 layout: default
 slug: bkag_1997
+
 ---
 
 # Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten (Artikel 1 des Gesetzes über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten) (BKAG 1997)

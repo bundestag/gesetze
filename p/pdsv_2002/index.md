@@ -2,6 +2,7 @@
 Title: Verordnung über den Datenschutz bei der geschäftsmäßigen Erbringung von Postdiensten
 layout: default
 slug: pdsv_2002
+
 ---
 
 # Verordnung über den Datenschutz bei der geschäftsmäßigen Erbringung von Postdiensten (PDSV 2002)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Einfuhr-Verbrauchsteuerbefreiungsverordnung'
+Title: Einfuhr-Verbrauchsteuerbefreiungsverordnung
 layout: default
 slug: everbrstbv_1999
+
 ---
 
 # Einfuhr-Verbrauchsteuerbefreiungsverordnung (EVerbrStBV 1999)

@@ -3,6 +3,7 @@ Title: Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen übe
   Änderung der gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtr_sn_th
+
 ---
 
 # Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtr SN/TH)

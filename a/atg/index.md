@@ -3,6 +3,7 @@ Title: Gesetz über die friedliche Verwendung der Kernenergie und den Schutz geg
   ihre Gefahren
 layout: default
 slug: atg
+
 ---
 
 # Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren (AtG)

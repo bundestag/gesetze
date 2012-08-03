@@ -2,6 +2,7 @@
 Title: Verwaltungsanordnung über die Einrichtung des Bundesoberseeamts
 layout: default
 slug: bosaano
+
 ---
 
 # Verwaltungsanordnung über die Einrichtung des Bundesoberseeamts (BOSAAnO)

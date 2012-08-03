@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   von Beamten der Bundeszollverwaltung
 layout: default
 slug: bpr_skldgzollvwano
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung von Beamten der Bundeszollverwaltung (BPräsKldgZollVwAnO)

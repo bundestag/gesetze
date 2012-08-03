@@ -3,6 +3,7 @@ Title: Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an
   Bundeszentralstelle für Auslandsadoption
 layout: default
 slug: ausladmv
+
 ---
 
 # Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an die Bundeszentralstelle für Auslandsadoption (AuslAdMV)

@@ -3,6 +3,7 @@ Title: Erste Durchführungsverordnung zum Gesetz über die Abwicklung der Aufbri
   und die Neugestaltung der Bank für deutsche Industrieobligationen
 layout: default
 slug: indbkgdv_1
+
 ---
 
 # Erste Durchführungsverordnung zum Gesetz über die Abwicklung der Aufbringungsumlage und die Neugestaltung der Bank für deutsche Industrieobligationen (IndBkGDV 1)

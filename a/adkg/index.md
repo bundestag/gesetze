@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung der Akademie der Künste
 layout: default
 slug: adkg
+
 ---
 
 # Gesetz zur Errichtung der Akademie der Künste (AdKG)

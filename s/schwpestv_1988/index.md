@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Schweinepest und die Afrikanische
-  Schweinepest'
+Title: Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest
 layout: default
 slug: schwpestv_1988
+
 ---
 
 # Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest (SchwPestV 1988)

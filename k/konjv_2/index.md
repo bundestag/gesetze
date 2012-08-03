@@ -2,6 +2,7 @@
 Title: Zweite Verordnung über steuerliche Konjunkturmaßnahmen
 layout: default
 slug: konjv_2
+
 ---
 
 # Zweite Verordnung über steuerliche Konjunkturmaßnahmen (KonjV 2)

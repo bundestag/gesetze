@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise'
+Title: Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise
 layout: default
 slug: gassv
+
 ---
 
 # Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise (GasSV)

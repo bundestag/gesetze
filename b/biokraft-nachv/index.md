@@ -2,9 +2,10 @@
 Verordnung über Anforderungen an eine nachhaltige Herstellung von
 Biokraftstoffen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: biokraft-nachv
+
 ---
 
 #  (Biokraft-NachV)

@@ -2,6 +2,7 @@
 Title: Gesetz über Bergmannssiedlungen
 layout: default
 slug: bergmsdlgg
+
 ---
 
 # Gesetz über Bergmannssiedlungen (BergMSdlgG)

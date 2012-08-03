@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und Kanada über die Bei
   von Streitigkeiten bei Direktbeschaffungen
 layout: default
 slug: streitabk_can
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und Kanada über die Beilegung von Streitigkeiten bei Direktbeschaffungen (StreitAbk CAN)

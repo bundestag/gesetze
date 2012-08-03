@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reform des Verfahrens in Familiensachen und in
-  den Angelegenheiten der freiwilligen Gerichtsbarkeit'
+Title: Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten
+  der freiwilligen Gerichtsbarkeit
 layout: default
 slug: fgg-rg
+
 ---
 
 # Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FGG-RG)

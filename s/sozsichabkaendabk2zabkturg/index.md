@@ -4,6 +4,7 @@ Title: Gesetz zu dem Zusatzabkommen vom 2. November 1984 zum Abkommen vom 30. Ap
   Sicherheit und zu der Vereinbarung vom 2. November 1984 zur Durchführung des Abkommens
 layout: default
 slug: sozsichabk_ndabk2zabkturg
+
 ---
 
 # Gesetz zu dem Zusatzabkommen vom 2. November 1984 zum Abkommen vom 30. April 1964 zwischen der Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit und zu der Vereinbarung vom 2. November 1984 zur Durchführung des Abkommens (SozSichAbkÄndAbk2ZAbkTURG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Änderung luftrechtlicher Vorschriften über den Transport
   Güter und die Zulassung von Luftsportgeräten und Flugmodellen
 layout: default
 slug: luftr_ndv_2001
+
 ---
 
 # Verordnung zur Änderung luftrechtlicher Vorschriften über den Transport gefährlicher Güter und die Zulassung von Luftsportgeräten und Flugmodellen (LuftRÄndV 2001)

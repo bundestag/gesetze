@@ -3,6 +3,7 @@ Title: Gesetz über das Verbot der Verwendung von Preisklauseln bei der Bestimmu
   von Geldschulden
 layout: default
 slug: prkg
+
 ---
 
 # Gesetz über das Verbot der Verwendung von Preisklauseln bei der Bestimmung von Geldschulden (PrKG)

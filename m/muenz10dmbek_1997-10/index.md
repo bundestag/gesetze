@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 200. Geburtstag von Heinrich Heine)
 layout: default
 slug: m_nz10dmbek_1997-10
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 200. Geburtstag von Heinrich Heine) (Münz10DMBek 1997-10)

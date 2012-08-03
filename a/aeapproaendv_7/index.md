@@ -2,6 +2,7 @@
 Title: Siebente Verordnung zur Änderung der Approbationsordnung für Ärzte
 layout: default
 slug: _appro_ndv_7
+
 ---
 
 # Siebente Verordnung zur Änderung der Approbationsordnung für Ärzte (ÄApprOÄndV 7)

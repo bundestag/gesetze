@@ -2,6 +2,7 @@
 Title: Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr
 layout: default
 slug: g_kgrkabotagev_2012
+
 ---
 
 # Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr (GüKGrKabotageV 2012)

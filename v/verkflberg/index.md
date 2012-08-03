@@ -3,6 +3,7 @@ Title: Gesetz zur Bereinigung der Rechtsverhältnisse an Verkehrsflächen und an
   öffentlich genutzten privaten Grundstücken
 layout: default
 slug: verkflberg
+
 ---
 
 # Gesetz zur Bereinigung der Rechtsverhältnisse an Verkehrsflächen und anderen öffentlich genutzten privaten Grundstücken (VerkFlBerG)

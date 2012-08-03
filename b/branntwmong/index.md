@@ -2,6 +2,7 @@
 Title: Gesetz über das Branntweinmonopol
 layout: default
 slug: branntwmong
+
 ---
 
 # Gesetz über das Branntweinmonopol (BranntwMonG)

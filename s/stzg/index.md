@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang
-  mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen'
+Title: Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr
+  und Verwendung menschlicher embryonaler Stammzellen
 layout: default
 slug: stzg
+
 ---
 
 # Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen (StZG)

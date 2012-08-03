@@ -3,6 +3,7 @@ Title: Gesetz über den Beitritt der Bundesrepublik Deutschland zur Konvention v
   5. April 1946 der Internationalen Überfischungskonferenz
 layout: default
 slug: _fischkkonvg
+
 ---
 
 # Gesetz über den Beitritt der Bundesrepublik Deutschland zur Konvention vom 5. April 1946 der Internationalen Überfischungskonferenz (ÜFischKKonvG)

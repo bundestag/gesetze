@@ -2,6 +2,7 @@
 Title: Verordnung über Standardzulassungen von Arzneimitteln
 layout: default
 slug: standzv
+
 ---
 
 # Verordnung über Standardzulassungen von Arzneimitteln (StandZV)

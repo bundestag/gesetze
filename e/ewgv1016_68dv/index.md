@@ -4,6 +4,7 @@ Title: Verordnung zur Durchführung der Verordnung Nr. 117/66/EWG und der Verord
   Gelegenheitsverkehr mit Kraftomnibussen (ASOR)
 layout: default
 slug: ewgv1016_68dv
+
 ---
 
 # Verordnung zur Durchführung der Verordnung Nr. 117/66/EWG und der Verordnung (EWG) Nr. 1016/68 und des Übereinkommens über die Personenbeförderung im grenzüberschreitenden Gelegenheitsverkehr mit Kraftomnibussen (ASOR) (EWGV1016/68DV)

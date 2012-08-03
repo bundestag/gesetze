@@ -2,6 +2,7 @@
 Title: Verordnung über die Gewährung von Erschwerniszulagen
 layout: default
 slug: ezulv_1976
+
 ---
 
 # Verordnung über die Gewährung von Erschwerniszulagen (EZulV 1976)

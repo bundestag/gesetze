@@ -2,6 +2,7 @@
 Title: Gesetz zum vorsorgenden Schutz der Bevölkerung gegen Strahlenbelastung
 layout: default
 slug: strvg
+
 ---
 
 # Gesetz zum vorsorgenden Schutz der Bevölkerung gegen Strahlenbelastung (StrVG)

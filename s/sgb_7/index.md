@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung
-  - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)'
+Title: Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1
+  des Gesetzes vom 7. August 1996, BGBl. I S. 1254)
 layout: default
 slug: sgb_7
+
 ---
 
 # Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254) (SGB 7)

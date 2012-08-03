@@ -2,6 +2,7 @@
 Title: Gesetz über die Neuordnung zentraler Einrichtungen des Gesundheitswesens
 layout: default
 slug: gng
+
 ---
 
 # Gesetz über die Neuordnung zentraler Einrichtungen des Gesundheitswesens (GNG)

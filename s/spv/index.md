@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sonderungsplanverordnung'
+Title: Sonderungsplanverordnung
 layout: default
 slug: spv
+
 ---
 
 # Sonderungsplanverordnung (SPV)

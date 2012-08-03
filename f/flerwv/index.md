@@ -3,6 +3,7 @@ Title: Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und 
   Verfahren nach dem Ausgleichsleistungsgesetz
 layout: default
 slug: flerwv
+
 ---
 
 # Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und das Verfahren nach dem Ausgleichsleistungsgesetz (FlErwV)

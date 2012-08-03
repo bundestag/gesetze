@@ -2,6 +2,7 @@
 Title: Sechstes Gesetz zur Änderung des Personenbeförderungsgesetzes
 layout: default
 slug: pbefg_ndg_6
+
 ---
 
 # Sechstes Gesetz zur Änderung des Personenbeförderungsgesetzes (PBefGÄndG 6)

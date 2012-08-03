@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur Freistellung von Versicherungsunternehmen
-  von der Aufsicht nach dem Versicherungsaufsichtsgesetz'
+Title: Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach
+  dem Versicherungsaufsichtsgesetz
 layout: default
 slug: vafreistv
+
 ---
 
 # Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach dem Versicherungsaufsichtsgesetz (VAFreistV)

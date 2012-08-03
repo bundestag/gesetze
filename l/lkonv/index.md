@@ -4,6 +4,7 @@ Title: Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2
   tätigen Lebensmittelkontrolleure
 layout: default
 slug: lkonv
+
 ---
 
 # Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2  Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure (LKonV)

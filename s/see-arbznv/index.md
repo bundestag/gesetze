@@ -3,6 +3,7 @@ Title: Verordnung betreffend die Übersicht über die Arbeitsorganisation und di
   in der Seeschifffahrt
 layout: default
 slug: see-arbznv
+
 ---
 
 # Verordnung betreffend die Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise in der Seeschifffahrt (See-ArbZNV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderu
   Gefangene
 layout: default
 slug: gefbeitrv_1998
+
 ---
 
 # Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene (GefBeitrV 1998)

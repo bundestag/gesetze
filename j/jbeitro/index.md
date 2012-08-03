@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Justizbeitreibungsordnung'
+Title: Justizbeitreibungsordnung
 layout: default
 slug: jbeitro
+
 ---
 
 # Justizbeitreibungsordnung (JBeitrO)

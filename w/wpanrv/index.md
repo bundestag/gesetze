@@ -4,6 +4,7 @@ Title: Verordnung über die Voraussetzungen der Anerkennung von Studiengängen n
   aus Studiengängen nach § 13b der Wirtschaftsprüferordnung
 layout: default
 slug: wpanrv
+
 ---
 
 # Verordnung über die Voraussetzungen der Anerkennung von Studiengängen nach § 8a der Wirtschaftsprüferordnung und über die Anrechnung von Prüfungsleistungen aus Studiengängen nach § 13b der Wirtschaftsprüferordnung (WPAnrV)

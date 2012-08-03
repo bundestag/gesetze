@@ -5,6 +5,7 @@ Title: Gesetz über die nachträgliche Umstellung von Kontoguthaben, über die T
   Versicherung der DDR in Abwicklung"
 layout: default
 slug: kgugeg
+
 ---
 
 # Gesetz über die nachträgliche Umstellung von Kontoguthaben, über die Tilgung von Anteilrechten an der Altguthaben-Ablösungs-Anleihe, zur Änderung lastenausgleichsrechtlicher Bestimmungen und zur Ergänzung des Gesetzes über die Errichtung der "Staatlichen Versicherung der DDR in Abwicklung" (KGUGEG)

@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgari
   Steuern vom Einkommen und vom Vermögen
 layout: default
 slug: dbaabk_bgr
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgarien zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (DBAAbk BGR)

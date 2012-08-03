@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verwaltungsverfahrensgesetz'
+Title: Verwaltungsverfahrensgesetz
 layout: default
 slug: vwvfg
+
 ---
 
 # Verwaltungsverfahrensgesetz (VwVfG)

@@ -4,6 +4,7 @@ Title: Vertrag von Amsterdam zur Änderung des Vertrags über die Europäische U
   Rechtsakte
 layout: default
 slug: euvtr_amst
+
 ---
 
 # Vertrag von Amsterdam zur Änderung des Vertrags über die Europäische Union, der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender Rechtsakte (EUVtr Amst)

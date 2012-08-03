@@ -4,6 +4,7 @@ Title: Verordnung über die Leistungsentgelte für das Arbeitslosengeld, das Tei
   für das Kurzarbeitergeld und das Winterausfallgeld für das Jahr 2004
 layout: default
 slug: sgb3lentgv_2004
+
 ---
 
 # Verordnung über die Leistungsentgelte für das Arbeitslosengeld, das Teilarbeitslosengeld, das Unterhaltsgeld und die Arbeitslosenhilfe sowie die pauschalierten Nettoentgelte für das Kurzarbeitergeld und das Winterausfallgeld für das Jahr 2004 (SGB3LEntgV 2004)

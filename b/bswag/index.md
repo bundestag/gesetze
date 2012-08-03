@@ -2,6 +2,7 @@
 Title: Gesetz über den Ausbau der Schienenwege des Bundes
 layout: default
 slug: bswag
+
 ---
 
 # Gesetz über den Ausbau der Schienenwege des Bundes (BSWAG)

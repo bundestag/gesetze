@@ -4,6 +4,7 @@ Title: Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Ro
   können, durch den Nord-Ostsee-Kanal
 layout: default
 slug: tierseuchschnokanv
+
 ---
 
 # Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal (TierSeuchSchNOKanV)

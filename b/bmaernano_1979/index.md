@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung der Bundesbeamten im Geschä
   des Bundesministeriums für Arbeit und Sozialordnung
 layout: default
 slug: bmaernano_1979
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Bundesbeamten im Geschäftsbereich des Bundesministeriums für Arbeit und Sozialordnung (BMAErnAnO 1979)

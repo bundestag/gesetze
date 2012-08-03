@@ -2,6 +2,7 @@
 Title: Gesetz zur Ablösung des Arznei- und Heilmittelbudgets
 layout: default
 slug: abag
+
 ---
 
 # Gesetz zur Ablösung des Arznei- und Heilmittelbudgets (ABAG)

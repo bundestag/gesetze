@@ -4,6 +4,7 @@ Title: Verordnung zur Überleitung in die im Zweiten Gesetz zur Vereinheitlichun
   künftig wegfallenden Ämter
 layout: default
 slug: besvng2_lv
+
 ---
 
 # Verordnung zur Überleitung in die im Zweiten Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern geregelten Ämter und über die künftig wegfallenden Ämter (BesVNG2ÜlV)

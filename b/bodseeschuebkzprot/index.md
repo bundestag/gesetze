@@ -3,6 +3,7 @@ Title: Zusatzprotokoll zu dem Übereinkommen über die Schiffahrt auf dem Bodens
   1. Juni 1973
 layout: default
 slug: bodseesch_bkzprot
+
 ---
 
 # Zusatzprotokoll zu dem Übereinkommen über die Schiffahrt auf dem Bodensee vom 1. Juni 1973 (BodSeeSchÜbkZProt)

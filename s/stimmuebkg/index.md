@@ -2,6 +2,7 @@
 Title: Gesetz zum Europäischen Übereinkommen vom 16. Mai 1972 über Staatenimmunität
 layout: default
 slug: stimm_bkg
+
 ---
 
 # Gesetz zum Europäischen Übereinkommen vom 16. Mai 1972 über Staatenimmunität (StImmÜbkG)

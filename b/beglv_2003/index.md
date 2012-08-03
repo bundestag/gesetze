@@ -2,6 +2,7 @@
 Title: Verordnung über die zu Beglaubigungen befugten Behörden
 layout: default
 slug: beglv_2003
+
 ---
 
 # Verordnung über die zu Beglaubigungen befugten Behörden (BeglV 2003)

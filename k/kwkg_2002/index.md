@@ -2,6 +2,7 @@
 Title: Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
 layout: default
 slug: kwkg_2002
+
 ---
 
 # Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung (KWKG 2002)

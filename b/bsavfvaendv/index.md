@@ -2,6 +2,7 @@
 Title: Verordnung zur Änderung der Verordnung über Verfahren vor dem Bundessortenamt
 layout: default
 slug: bsavfv_ndv
+
 ---
 
 # Verordnung zur Änderung der Verordnung über Verfahren vor dem Bundessortenamt (BSAVfVÄndV)

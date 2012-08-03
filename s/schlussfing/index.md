@@ -3,6 +3,7 @@ Title: Gesetz zur Errichtung eines Sondervermögens „Vorsorge für Schlusszahl
   für inflationsindexierte Bundeswertpapiere“
 layout: default
 slug: schlussfing
+
 ---
 
 # Gesetz zur Errichtung eines Sondervermögens „Vorsorge für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“ (SchlussFinG)

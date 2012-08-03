@@ -2,6 +2,7 @@
 Title: Verordnung über die Kapitalausstattung von Rückversicherungsunternehmen
 layout: default
 slug: r_ckkapv
+
 ---
 
 # Verordnung über die Kapitalausstattung von Rückversicherungsunternehmen (RückKapV)

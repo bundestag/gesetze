@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs
 layout: default
 slug: ahstatges
+
 ---
 
 # Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs (AHStatGes)

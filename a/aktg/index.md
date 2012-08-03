@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Aktiengesetz'
+Title: Aktiengesetz
 layout: default
 slug: aktg
+
 ---
 
 # Aktiengesetz (AktG)

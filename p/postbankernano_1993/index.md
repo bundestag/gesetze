@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung von Beamten im Bereich der D
   Bundespost POSTBANK
 layout: default
 slug: postbankernano_1993
+
 ---
 
 # Anordnung über die Ernennung und Entlassung von Beamten im Bereich der Deutschen Bundespost POSTBANK (POSTBANKErnAnO 1993)

@@ -4,6 +4,7 @@ Title: Hundertachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Fest
   Karlsruhe/Baden-Baden)
 layout: default
 slug: luftvodv_180
+
 ---
 
 # Hundertachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Karlsruhe/Baden-Baden) (LuftVODV 180)

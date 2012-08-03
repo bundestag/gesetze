@@ -3,6 +3,7 @@ Title: Gesetz zur Anpassung verschiedener Vorschriften über die Finanzbeziehung
   zwischen dem Bund und den Ländern an die Neuregelung der Finanzverfassung
 layout: default
 slug: fanpg
+
 ---
 
 # Gesetz zur Anpassung verschiedener Vorschriften über die Finanzbeziehungen zwischen dem Bund und den Ländern an die Neuregelung der Finanzverfassung (FAnpG)

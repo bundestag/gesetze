@@ -4,6 +4,7 @@ Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
   Pharmazie
 layout: default
 slug: pharmindmstrfortbv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie (PharmIndMstrFortbV)

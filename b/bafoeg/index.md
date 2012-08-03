@@ -2,6 +2,7 @@
 Title: Bundesgesetz über individuelle Förderung der Ausbildung
 layout: default
 slug: baf_g
+
 ---
 
 # Bundesgesetz über individuelle Förderung der Ausbildung (BAföG)

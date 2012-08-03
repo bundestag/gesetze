@@ -3,6 +3,7 @@ Title: Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse
   ökologischen Landbaus
 layout: default
 slug: _kokennzg
+
 ---
 
 # Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus (ÖkoKennzG)

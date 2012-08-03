@@ -2,6 +2,7 @@
 Title: Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
 layout: default
 slug: hav
+
 ---
 
 # Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung (HAV)

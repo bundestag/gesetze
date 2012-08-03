@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und
-  Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)'
+Title: Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel
+  1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)
 layout: default
 slug: sgb_8
+
 ---
 
 # Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163) (SGB 8)

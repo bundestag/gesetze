@@ -1,8 +1,9 @@
 Nationale Sonderbestimmungen
 ---
-Title: !!python/unicode '(Anhang X zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang X zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_x
+
 ---
 
 # (Anhang X zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh X)

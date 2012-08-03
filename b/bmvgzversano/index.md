@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der 
   Versorgung im Dienstbereich des Bundesministers der Verteidigung
 layout: default
 slug: bmvgzversano
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Verteidigung (BMVgZVersAnO)

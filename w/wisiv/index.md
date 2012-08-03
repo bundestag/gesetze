@@ -3,6 +3,7 @@ Title: Verordnung über die Sicherstellung von Leistungen auf dem Gebiet der gew
   Wirtschaft
 layout: default
 slug: wisiv
+
 ---
 
 # Verordnung über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft (WiSiV)

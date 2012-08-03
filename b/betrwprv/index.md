@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Betri
   Betriebswirtin nach dem Berufsbildungsgesetz
 layout: default
 slug: betrwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz (BetrWPrV)

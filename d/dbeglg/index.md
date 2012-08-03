@@ -3,6 +3,7 @@ Title: Dienstrechtliches Begleitgesetz im Zusammenhang mit dem Beschluß des Deu
   Bundestages vom 20. Juli 1991 zur Vollendung der Einheit Deutschlands
 layout: default
 slug: dbeglg
+
 ---
 
 # Dienstrechtliches Begleitgesetz im Zusammenhang mit dem Beschluß des Deutschen Bundestages vom 20. Juli 1991 zur Vollendung der Einheit Deutschlands (DBeglG)

@@ -4,6 +4,7 @@ Title: Gesetz über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordn
   der Rechtsform von Kapitalgesellschaften
 layout: default
 slug: geldwnog
+
 ---
 
 # Gesetz über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens und über die Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften (GeldWNOG)

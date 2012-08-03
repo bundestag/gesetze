@@ -3,6 +3,7 @@ Title: Bekanntmachung über anzuwendende Strafvorschriften bei Verstößen gegen
   Verordnung Nr. 1333/2008 über Lebensmittelzusatzstoffe
 layout: default
 slug: egv1333_2008bek
+
 ---
 
 # Bekanntmachung über anzuwendende Strafvorschriften bei Verstößen gegen die Verordnung Nr. 1333/2008 über Lebensmittelzusatzstoffe (EGV1333/2008Bek)

@@ -3,6 +3,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekäm
   des Terrorismus
 layout: default
 slug: euterror_bkg
+
 ---
 
 # Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus (EuTerrorÜbkG)

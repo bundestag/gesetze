@@ -1,9 +1,10 @@
 [^f771102_01_BJNR085600008]
 Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: friseurausbv_2008
+
 ---
 
 #  (FriseurAusbV 2008)

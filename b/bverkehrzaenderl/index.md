@@ -3,6 +3,7 @@ Title: Erlaß über die Genehmigung einer Änderung der Benennung und der Form d
   der Bundesverkehrswacht"
 layout: default
 slug: bverkehrz_nderl
+
 ---
 
 # Erlaß über die Genehmigung einer Änderung der Benennung und der Form des "Ehrenzeichens der Bundesverkehrswacht" (BVerkEhrZÄndErl)

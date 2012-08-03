@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Verans
   Veranstaltungsfachwirtin
 layout: default
 slug: veranstfachwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin (VeranstFachwPrV)

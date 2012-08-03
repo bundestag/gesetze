@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Produktionsmechaniker- Textil/z
   Produktionsmechanikerin-Textil
 layout: default
 slug: prodmechtextausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Produktionsmechaniker- Textil/zur Produktionsmechanikerin-Textil (ProdMechTextAusbV)

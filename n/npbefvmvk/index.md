@@ -3,6 +3,7 @@ Title: Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken 
   Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern
 layout: default
 slug: npbefvmvk
+
 ---
 
 # Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern (NPBefVMVK)

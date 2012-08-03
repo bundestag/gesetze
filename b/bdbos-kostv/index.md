@@ -3,6 +3,7 @@ Title: Kostenverordnung für Amtshandlungen der Bundesanstalt für den Digitalfu
   Behörden und Organisationen mit Sicherheitsaufgaben
 layout: default
 slug: bdbos-kostv
+
 ---
 
 # Kostenverordnung für Amtshandlungen der Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS-KostV)

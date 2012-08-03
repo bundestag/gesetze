@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Karl Marx)
 layout: default
 slug: m_nz5dmbek_1983-05
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Karl Marx) (Münz5DMBek 1983-05)

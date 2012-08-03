@@ -3,6 +3,7 @@ Title: Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche 
   (Endgültige Verwaltungsabgabe)
 layout: default
 slug: auslwbgdv_13
+
 ---
 
 # Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Endgültige Verwaltungsabgabe) (AuslWBGDV 13)

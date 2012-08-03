@@ -4,6 +4,7 @@ Title: Rahmenabkommen zwischen der Regierung der Bundesrepublik Deutschland und 
   im Gesundheitsbereich
 layout: default
 slug: gesundzaabk_fra
+
 ---
 
 # Rahmenabkommen zwischen der Regierung der Bundesrepublik Deutschland und  der Regierung der Französischen Republik über die grenzüberschreitende  Zusammenarbeit im Gesundheitsbereich (GesundZAAbk FRA)

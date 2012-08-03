@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Mechaniker für Reifen- und Vul
   Mechanikerin für Reifen- und Vulkanisationstechnik
 layout: default
 slug: vulkausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik (VulkAusbV 2004)

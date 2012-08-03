@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Mediengestalter Flexografie
 und zur Mediengestalterin Flexografie
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: flexograusbv_2011
+
 ---
 
 #  (FlexogrAusbV 2011)

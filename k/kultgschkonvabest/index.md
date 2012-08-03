@@ -3,6 +3,7 @@ Title: Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewa
   Konflikten
 layout: default
 slug: kultgschkonvabest
+
 ---
 
 # Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten (KultgSchKonvABest)

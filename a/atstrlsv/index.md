@@ -2,6 +2,7 @@
 Title: Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz
 layout: default
 slug: atstrlsv
+
 ---
 
 # Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz (AtStrlSV)

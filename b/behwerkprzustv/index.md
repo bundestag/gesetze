@@ -4,6 +4,7 @@ Title: Verordnung über die Bestimmung der zuständigen Stelle für die Durchfü
   in Werkstätten für behinderte Menschen
 layout: default
 slug: behwerkprzustv
+
 ---
 
 # Verordnung über die Bestimmung der zuständigen Stelle für die Durchführung der Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen (BehWerkPrZustV)

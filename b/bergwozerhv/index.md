@@ -2,6 +2,7 @@
 Title: Verordnung über die Erhebung der Zinsen für Darlehen des Bundes zum Bergarbeiterwohnungsbau
 layout: default
 slug: bergwozerhv
+
 ---
 
 # Verordnung über die Erhebung der Zinsen für Darlehen des Bundes zum Bergarbeiterwohnungsbau (BergWoZErhV)

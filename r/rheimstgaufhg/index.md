@@ -2,6 +2,7 @@
 Title: Gesetz zur Aufhebung des Reichsheimstättengesetzes
 layout: default
 slug: rheimstgaufhg
+
 ---
 
 # Gesetz zur Aufhebung des Reichsheimstättengesetzes (RHeimstGAufhG)

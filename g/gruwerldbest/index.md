@@ -2,6 +2,7 @@
 Title: Durchführungsbestimmungen zum Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
 layout: default
 slug: gruwerldbest
+
 ---
 
 # Durchführungsbestimmungen zum Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens (GruWErlDBest)

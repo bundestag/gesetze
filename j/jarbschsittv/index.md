@@ -3,6 +3,7 @@ Title: Verordnung über das Verbot der Beschäftigung von Personen unter 18 Jahr
   sittlich gefährdenden Tätigkeiten
 layout: default
 slug: jarbschsittv
+
 ---
 
 # Verordnung über das Verbot der Beschäftigung von Personen unter 18 Jahren mit sittlich gefährdenden Tätigkeiten (JArbSchSittV)

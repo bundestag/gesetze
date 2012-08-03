@@ -2,6 +2,7 @@
 Title: Einheitliche Europäische Akte
 layout: default
 slug: einheua
+
 ---
 
 # Einheitliche Europäische Akte (EinhEuA)

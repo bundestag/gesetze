@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Abgabenordnung'
+Title: Abgabenordnung
 layout: default
 slug: ao_1977
+
 ---
 
 # Abgabenordnung (AO 1977)

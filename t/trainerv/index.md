@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildungsförderung für den Besuch der Traineraka
   Köln
 layout: default
 slug: trainerv
+
 ---
 
 # Verordnung über die Ausbildungsförderung für den Besuch der Trainerakademie Köln (TrainerV)

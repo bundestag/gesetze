@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Bundesdisziplinarrechts'
+Title: Gesetz zur Neuordnung des Bundesdisziplinarrechts
 layout: default
 slug: bdrnog
+
 ---
 
 # Gesetz zur Neuordnung des Bundesdisziplinarrechts (BDRNOG)

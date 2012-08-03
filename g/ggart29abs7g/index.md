@@ -3,6 +3,7 @@ Title: Gesetz über das Verfahren bei sonstigen Änderungen des Gebietsbestandes
   Länder nach Artikel 29 Abs. 7 des Grundgesetzes
 layout: default
 slug: ggart29abs7g
+
 ---
 
 # Gesetz über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes (GGArt29Abs7G)

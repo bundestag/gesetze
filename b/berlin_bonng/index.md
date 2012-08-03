@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages
-  vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands'
+Title: Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni
+  1991 zur Vollendung der Einheit Deutschlands
 layout: default
 slug: berlin_bonng
+
 ---
 
 # Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands (Berlin/BonnG)

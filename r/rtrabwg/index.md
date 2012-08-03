@@ -3,6 +3,7 @@ Title: Gesetz zur Regelung der Rechtsverhältnisse nicht mehr bestehender öffen
   Rechtsträger
 layout: default
 slug: rtrabwg
+
 ---
 
 # Gesetz zur Regelung der Rechtsverhältnisse nicht mehr bestehender öffentlicher Rechtsträger (RTrAbwG)

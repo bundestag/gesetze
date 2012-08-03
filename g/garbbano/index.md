@@ -2,6 +2,7 @@
 Title: Anordnung über den Bau und Betrieb von Garagen
 layout: default
 slug: garbbano
+
 ---
 
 # Anordnung über den Bau und Betrieb von Garagen (GarBBAnO)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Überleitung von Bundesrecht nach Berlin (West)
 layout: default
 slug: _blg_6
+
 ---
 
 # Gesetz zur Überleitung von Bundesrecht nach Berlin (West) (ÜblG 6)

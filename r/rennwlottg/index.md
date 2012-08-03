@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Rennwett- und Lotteriegesetz'
+Title: Rennwett- und Lotteriegesetz
 layout: default
 slug: rennwlottg
+
 ---
 
 # Rennwett- und Lotteriegesetz (RennwLottG)

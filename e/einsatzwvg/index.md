@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung der Weiterverwendung nach Einsatzunfällen
 layout: default
 slug: einsatzwvg
+
 ---
 
 # Gesetz zur Regelung der Weiterverwendung nach Einsatzunfällen (EinsatzWVG)

@@ -2,6 +2,7 @@
 Title: Verordnung über Qualitätsnormen für Bananen
 layout: default
 slug: qnormbanv
+
 ---
 
 # Verordnung über Qualitätsnormen für Bananen (QNormBanV)

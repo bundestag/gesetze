@@ -3,6 +3,7 @@ Title: Richtlinien der Bank deutscher Länder zur Erstellung der Reichsmark-Schl
   und der Umstellungsrechnung der Geldinstitute
 layout: default
 slug: bdlr
+
 ---
 
 # Richtlinien der Bank deutscher Länder zur Erstellung der Reichsmark-Schlußbilanz und der Umstellungsrechnung der Geldinstitute (BDLR)

@@ -2,6 +2,7 @@
 Title: Gesetz über außergerichtliche Rechtsdienstleistungen
 layout: default
 slug: rdg
+
 ---
 
 # Gesetz über außergerichtliche Rechtsdienstleistungen (RDG)

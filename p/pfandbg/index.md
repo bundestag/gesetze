@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Pfandbriefgesetz'
+Title: Pfandbriefgesetz
 layout: default
 slug: pfandbg
+
 ---
 
 # Pfandbriefgesetz (PfandBG)

@@ -2,6 +2,7 @@
 Title: Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften
 layout: default
 slug: weinv
+
 ---
 
 # Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften (WeinV)

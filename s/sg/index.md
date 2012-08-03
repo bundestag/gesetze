@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechtsstellung der Soldaten
 layout: default
 slug: sg
+
 ---
 
 # Gesetz über die Rechtsstellung der Soldaten (SG)

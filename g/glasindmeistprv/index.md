@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Indust
   - Fachrichtung Glas
 layout: default
 slug: glasindmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister - Fachrichtung Glas (GlasIndMeistPrV)

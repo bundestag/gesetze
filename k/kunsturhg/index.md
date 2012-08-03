@@ -2,6 +2,7 @@
 Title: Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie
 layout: default
 slug: kunsturhg
+
 ---
 
 # Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie (KunstUrhG)

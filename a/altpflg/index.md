@@ -2,6 +2,7 @@
 Title: Gesetz über die Berufe in der Altenpflege
 layout: default
 slug: altpflg
+
 ---
 
 # Gesetz über die Berufe in der Altenpflege (AltPflG)

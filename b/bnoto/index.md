@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesnotarordnung'
+Title: Bundesnotarordnung
 layout: default
 slug: bnoto
+
 ---
 
 # Bundesnotarordnung (BNotO)

@@ -2,6 +2,7 @@
 Title: Verordnung über Steuervergünstigungen zur Förderung des Baues von Landarbeiterwohnungen
 layout: default
 slug: larbwov
+
 ---
 
 # Verordnung über Steuervergünstigungen zur Förderung des Baues von Landarbeiterwohnungen (LArbWoV)

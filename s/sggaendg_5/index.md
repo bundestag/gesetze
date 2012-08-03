@@ -2,6 +2,7 @@
 Title: Fünftes Gesetz zur Änderung des Sozialgerichtsgesetzes
 layout: default
 slug: sgg_ndg_5
+
 ---
 
 # Fünftes Gesetz zur Änderung des Sozialgerichtsgesetzes (SGGÄndG 5)

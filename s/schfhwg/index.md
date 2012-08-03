@@ -2,6 +2,7 @@
 Title: Gesetz über das Berufsrecht und die Versorgung im Schornsteinfegerhandwerk
 layout: default
 slug: schfhwg
+
 ---
 
 # Gesetz über das Berufsrecht und die Versorgung im Schornsteinfegerhandwerk (SchfHwG)

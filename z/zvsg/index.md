@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Gleichstellung mit Zusatzversorgungssystemen des
-  Beitrittsgebiets'
+Title: Gesetz zur Gleichstellung mit Zusatzversorgungssystemen des Beitrittsgebiets
 layout: default
 slug: zvsg
+
 ---
 
 # Gesetz zur Gleichstellung mit Zusatzversorgungssystemen des Beitrittsgebiets (ZVsG)

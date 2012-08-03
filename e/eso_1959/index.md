@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eisenbahn-Signalordnung 1959'
+Title: Eisenbahn-Signalordnung 1959
 layout: default
 slug: eso_1959
+
 ---
 
 # Eisenbahn-Signalordnung 1959 (ESO 1959)

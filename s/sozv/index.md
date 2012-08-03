@@ -3,6 +3,7 @@ Title: Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab de
   2002
 layout: default
 slug: sozv
+
 ---
 
 # Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab dem Jahr 2002 (SoZV)

@@ -3,6 +3,7 @@ Title: Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verb
   von Abfällen durch die Bundesrepublik Deutschland
 layout: default
 slug: abfverbrgebv
+
 ---
 
 # Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verbringungen von Abfällen durch die Bundesrepublik Deutschland (AbfVerbrGebV)

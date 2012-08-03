@@ -3,6 +3,7 @@ Title: Verordnung über das Verbot von Sondervergütungen und Begünstigungsvert
   in der Schadenversicherung
 layout: default
 slug: verssovergv
+
 ---
 
 # Verordnung über das Verbot von Sondervergütungen und Begünstigungsverträgen in der Schadenversicherung (VersSoVergV)

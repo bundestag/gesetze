@@ -3,6 +3,7 @@ Title: Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie der
   auf den Binnenschifffahrtsstraßen
 layout: default
 slug: sportbootvermv-bin2000
+
 ---
 
 # Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen (SportbootVermV-Bin2000)

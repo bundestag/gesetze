@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Bekanntmachung der zur Entgegennahme von Patent-, Gebrauchsmuster-,
-  Marken- und Geschmacksmusteranmeldungen befugten Patentinformationszentren'
+Title: Bekanntmachung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken-
+  und Geschmacksmusteranmeldungen befugten Patentinformationszentren
 layout: default
 slug: patinfozbek_2004
+
 ---
 
 # Bekanntmachung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Geschmacksmusteranmeldungen befugten Patentinformationszentren (PatInfoZBek 2004)

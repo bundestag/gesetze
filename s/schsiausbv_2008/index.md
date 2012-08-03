@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zur Fachkraft für Schutz und
 Sicherheit
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: schsiausbv_2008
+
 ---
 
 #  (SchSiAusbV 2008)

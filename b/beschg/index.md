@@ -3,6 +3,7 @@ Title: Gesetz über die Prüfung und Zulassung von Feuerwaffen, Böllern, Gerät
   denen zum Antrieb Munition verwendet wird, sowie von Munition und sonstigen Waffen
 layout: default
 slug: beschg
+
 ---
 
 # Gesetz über die Prüfung und Zulassung von Feuerwaffen, Böllern, Geräten, bei denen zum Antrieb Munition verwendet wird, sowie von Munition und sonstigen Waffen (BeschG)

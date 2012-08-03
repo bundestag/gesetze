@@ -6,6 +6,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   in Verbindung mit dem Dienstrechtlichen Begleitgesetz
 layout: default
 slug: bminbf_bibbwidano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Bildung und Forschung und des Bundesinstituts für Berufsbildung in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung in Verbindung mit dem Dienstrechtlichen Begleitgesetz (BMinBF/BIBBWidAnO)

@@ -2,6 +2,7 @@
 Title: Anordnung über die deutschen Flaggen
 layout: default
 slug: flaggano_1996
+
 ---
 
 # Anordnung über die deutschen Flaggen (FlaggAnO 1996)

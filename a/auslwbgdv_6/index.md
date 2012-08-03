@@ -3,6 +3,7 @@ Title: Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Aus
   (Belgien)
 layout: default
 slug: auslwbgdv_6
+
 ---
 
 # Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Belgien) (AuslWBGDV 6)

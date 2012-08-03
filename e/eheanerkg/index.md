@@ -2,6 +2,7 @@
 Title: Gesetz über die Anerkennung freier Ehen rassisch und politisch Verfolgter
 layout: default
 slug: eheanerkg
+
 ---
 
 # Gesetz über die Anerkennung freier Ehen rassisch und politisch Verfolgter (EheAnerkG)

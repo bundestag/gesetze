@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 18. März 1993 zur Änderung des Zusatzabkomme
   NATO-Truppenstatut und zu weiteren Übereinkünften
 layout: default
 slug: natotrstatzabk_ndabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 18. März 1993 zur Änderung des Zusatzabkommens zum NATO-Truppenstatut und zu weiteren Übereinkünften (NATOTrStatZAbkÄndAbkG)

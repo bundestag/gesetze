@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Maurer- und Betonbauer-Handwerk
 layout: default
 slug: maurerbetonbmstrv
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Maurer- und Betonbauer-Handwerk (MaurerBetonbMstrV)

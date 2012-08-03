@@ -2,6 +2,7 @@
 Title: Gesetz über gebäude- und wohnungsstatistische Erhebungen
 layout: default
 slug: wostatg
+
 ---
 
 # Gesetz über gebäude- und wohnungsstatistische Erhebungen (WoStatG)

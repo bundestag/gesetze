@@ -3,6 +3,7 @@ Title: Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln
   § 311a des Fünften Buches Sozialgesetzbuch
 layout: default
 slug: arznrav_1993-11
+
 ---
 
 # Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach § 311a des Fünften Buches Sozialgesetzbuch (ArznRAV 1993-11)

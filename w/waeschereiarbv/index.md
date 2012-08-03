@@ -3,6 +3,7 @@ Title: Verordnung über zwingende Arbeitsbedingungen für Wäschereidienstleistu
   im Objektkundengeschäft
 layout: default
 slug: w_schereiarbv
+
 ---
 
 # Verordnung über zwingende Arbeitsbedingungen für Wäschereidienstleistungen im Objektkundengeschäft (WäschereiArbV)

@@ -3,6 +3,7 @@ Title: Gesetz zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermö
   und der preußischen Beteiligungen
 layout: default
 slug: rvermvg
+
 ---
 
 # Gesetz zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen (RVermVG)

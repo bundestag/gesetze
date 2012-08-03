@@ -3,6 +3,7 @@ Title: Zweites Gesetz über die Anpassung der Renten aus den gesetzlichen Renten
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1959
 layout: default
 slug: rag_2
+
 ---
 
 # Zweites Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1959 (RAG 2)

@@ -2,6 +2,7 @@
 Title: Gesetz über Partnerschaftsgesellschaften Angehöriger Freier Berufe
 layout: default
 slug: partgg
+
 ---
 
 # Gesetz über Partnerschaftsgesellschaften Angehöriger Freier Berufe (PartGG)

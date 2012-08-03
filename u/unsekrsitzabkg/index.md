@@ -5,6 +5,7 @@ Title: Gesetz zu dem Abkommen vom 20. Juni 1996 zwischen der Regierung der Bunde
   und zur Änderung des Bundesnaturschutzgesetzes
 layout: default
 slug: unsekrsitzabkg
+
 ---
 
 # Gesetz zu dem Abkommen vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens und zur Änderung des Bundesnaturschutzgesetzes (UNSekrSitzAbkG)

@@ -2,6 +2,7 @@
 Title: Gesetz über Agrarstatistiken
 layout: default
 slug: agrstatg
+
 ---
 
 # Gesetz über Agrarstatistiken (AgrStatG)

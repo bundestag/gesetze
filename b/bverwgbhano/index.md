@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, fü
   von Beschäftigten des Bundesverwaltungsgerichts in Angelegenheiten nach den Beihilfevorschriften
 layout: default
 slug: bverwgbhano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesverwaltungsgerichts in Angelegenheiten nach den Beihilfevorschriften (BVerwGBhAnO)

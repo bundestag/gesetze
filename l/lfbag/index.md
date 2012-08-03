@@ -2,6 +2,7 @@
 Title: Gesetz über das Luftfahrt-Bundesamt
 layout: default
 slug: lfbag
+
 ---
 
 # Gesetz über das Luftfahrt-Bundesamt (LFBAG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Preisangabenverordnung'
+Title: Preisangabenverordnung
 layout: default
 slug: pangv
+
 ---
 
 # Preisangabenverordnung (PAngV)

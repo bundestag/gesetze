@@ -3,6 +3,7 @@ Title: Verordnung zur Gleichstellung französischer Prüfungszeugnisse mit Zeugn
   über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
 layout: default
 slug: prfgzfrankrv
+
 ---
 
 # Verordnung zur Gleichstellung französischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen (PrfgZFrankrV)

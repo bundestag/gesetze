@@ -2,6 +2,7 @@
 Title: Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein
 layout: default
 slug: rheinschpersev
+
 ---
 
 # Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersEV)

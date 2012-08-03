@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 8. April 1960 zwischen der Bundesrepublik Deuts
   beiden Ländern bestehenden Problemen (Ausgleichsvertrag)
 layout: default
 slug: ausglvtrnldg
+
 ---
 
 # Gesetz zu dem Vertrag vom 8. April 1960 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Regelung von Grenzfragen und anderen zwischen beiden Ländern bestehenden Problemen (Ausgleichsvertrag) (AusglVtrNLDG)

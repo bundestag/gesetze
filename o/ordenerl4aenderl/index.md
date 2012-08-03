@@ -3,6 +3,7 @@ Title: Erlass über die Genehmigung einer Änderung des Erlasses über die Stift
   Verleihung der Goethe-Medaille
 layout: default
 slug: ordenerl4_nderl
+
 ---
 
 # Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung und Verleihung der Goethe-Medaille (OrdenErl4ÄndErl)

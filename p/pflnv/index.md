@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Neuordnung des Pflegesatzrechts'
+Title: Verordnung zur Neuordnung des Pflegesatzrechts
 layout: default
 slug: pflnv
+
 ---
 
 # Verordnung zur Neuordnung des Pflegesatzrechts (PflNV)

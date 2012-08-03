@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung des Transfusionswesens'
+Title: Gesetz zur Regelung des Transfusionswesens
 layout: default
 slug: tfg
+
 ---
 
 # Gesetz zur Regelung des Transfusionswesens (TFG)

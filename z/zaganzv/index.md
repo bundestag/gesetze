@@ -2,9 +2,10 @@
 Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem
 Zahlungsdiensteaufsichtsgesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: zaganzv
+
 ---
 
 #  (ZAGAnzV)

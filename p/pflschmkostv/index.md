@@ -2,6 +2,7 @@
 Title: Verordnung über die Kosten für die Zulassung und Genehmigung von Pflanzenschutzmitteln
 layout: default
 slug: pflschmkostv
+
 ---
 
 # Verordnung über die Kosten für die Zulassung und Genehmigung von Pflanzenschutzmitteln (PflSchMKostV)

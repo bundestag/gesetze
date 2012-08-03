@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundes-Bodenschutz- und Altlastenverordnung'
+Title: Bundes-Bodenschutz- und Altlastenverordnung
 layout: default
 slug: bbodschv
+
 ---
 
 # Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV)

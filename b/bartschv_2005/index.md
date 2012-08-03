@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz wild lebender Tier- und Pflanzenarten'
+Title: Verordnung zum Schutz wild lebender Tier- und Pflanzenarten
 layout: default
 slug: bartschv_2005
+
 ---
 
 # Verordnung zum Schutz wild lebender Tier- und Pflanzenarten (BArtSchV 2005)

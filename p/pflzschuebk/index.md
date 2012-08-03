@@ -2,6 +2,7 @@
 Title: Internationales Übereinkommen zum Schutz von Pflanzenzüchtungen
 layout: default
 slug: pflzsch_bk
+
 ---
 
 # Internationales Übereinkommen zum Schutz von Pflanzenzüchtungen (PflZSchÜbk)

@@ -3,9 +3,10 @@ Verordnung über die Berufsausbildung zum Mechaniker für
 Karosserieinstandhaltungstechnik und zur Mechanikerin für
 Karosserieinstandhaltungstechnik
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: ktausbv_2008
+
 ---
 
 #  (KTAusbV 2008)

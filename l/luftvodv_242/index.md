@@ -4,6 +4,7 @@ Title: Zweihundertzweiundvierzigste Durchführungsverordnung zur Luftverkehrs-Or
   und vom Flughafen Hamburg)
 layout: default
 slug: luftvodv_242
+
 ---
 
 # Zweihundertzweiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Hamburg) (LuftVODV 242)

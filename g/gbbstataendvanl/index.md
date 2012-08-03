@@ -3,6 +3,7 @@ Title: Statut der GBB Genossenschafts-Holding Berlin (Anlage zur Verordnung zur 
   des Statuts der Genossenschaftsbank Berlin und zu deren Umwandlung)
 layout: default
 slug: gbbstat_ndvanl
+
 ---
 
 # Statut der GBB Genossenschafts-Holding Berlin (Anlage zur Verordnung zur Änderung des Statuts der Genossenschaftsbank Berlin und zu deren Umwandlung) (GBBStatÄndVAnl)

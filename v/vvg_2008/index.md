@@ -2,6 +2,7 @@
 Title: Gesetz über den Versicherungsvertrag
 layout: default
 slug: vvg_2008
+
 ---
 
 # Gesetz über den Versicherungsvertrag (VVG 2008)

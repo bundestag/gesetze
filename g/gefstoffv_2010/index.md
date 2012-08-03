@@ -1,9 +1,10 @@
 [^F774705_01_BJNR164400010]
 Verordnung zum Schutz vor Gefahrstoffen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: gefstoffv_2010
+
 ---
 
 #  (GefStoffV 2010)

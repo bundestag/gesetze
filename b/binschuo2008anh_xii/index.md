@@ -2,9 +2,10 @@ Ergänzende technische Mindestvorschriften auf Binnenwasserstraßen der
 Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein Gemeinschaftszeugnis
 beantragen
 ---
-Title: !!python/unicode '(Anhang XII zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang XII zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_xii
+
 ---
 
 # (Anhang XII zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh XII)

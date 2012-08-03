@@ -4,6 +4,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Verteidigung
 layout: default
 slug: bpr_skldgpfbmvgano
+
 ---
 
 # Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Beamten im Wach- und Pförtnerdienst im Geschäftsbereich des Bundesministers der Verteidigung (BPräsKldgPfBMVgAnO)

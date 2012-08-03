@@ -3,6 +3,7 @@ Title: Gesetz zur Übertragung des Vermögens der Deutschen Ausgleichsbank auf d
   für Wiederaufbau
 layout: default
 slug: dta-v_g
+
 ---
 
 # Gesetz zur Übertragung des Vermögens der Deutschen Ausgleichsbank auf die Kreditanstalt für Wiederaufbau (DtA-VÜG)

@@ -2,6 +2,7 @@
 Title: Mineralölbewirtschaftungs-Verordnung
 layout: default
 slug: min_lbewv_1988
+
 ---
 
 # Mineralölbewirtschaftungs-Verordnung (MinÖlBewV 1988)

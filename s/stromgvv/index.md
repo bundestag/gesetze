@@ -3,6 +3,7 @@ Title: Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haus
   und die Ersatzversorgung mit Elektrizität aus dem Niederspannungsnetz
 layout: default
 slug: stromgvv
+
 ---
 
 # Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Elektrizität aus dem Niederspannungsnetz (StromGVV)

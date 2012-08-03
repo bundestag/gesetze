@@ -2,6 +2,7 @@
 Title: Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher
 layout: default
 slug: pfandlv
+
 ---
 
 # Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher (PfandLV)

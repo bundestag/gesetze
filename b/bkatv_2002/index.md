@@ -3,6 +3,7 @@ Title: Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbu�
   die Anordnung eines Fahrverbots wegen Ordnungswidrigkeiten im Straßenverkehr
 layout: default
 slug: bkatv_2002
+
 ---
 
 # Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbots wegen Ordnungswidrigkeiten im Straßenverkehr (BKatV 2002)

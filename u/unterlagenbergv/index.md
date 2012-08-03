@@ -2,6 +2,7 @@
 Title: Bergverordnung über vermessungstechnische und sicherheitliche Unterlagen
 layout: default
 slug: unterlagenbergv
+
 ---
 
 # Bergverordnung über vermessungstechnische und sicherheitliche Unterlagen (UnterlagenBergV)

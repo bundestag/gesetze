@@ -3,6 +3,7 @@ Title: Verordnung zur Regelung der Rechtsverhältnisse des Personals der Deutsch
   Bundesbank
 layout: default
 slug: bbankpersv
+
 ---
 
 # Verordnung zur Regelung der Rechtsverhältnisse des Personals der Deutschen Bundesbank (BBankPersV)

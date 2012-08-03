@@ -2,6 +2,7 @@
 Title: Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung
 layout: default
 slug: dmbilg
+
 ---
 
 # Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung (DMBilG)

@@ -1,9 +1,10 @@
 [^F772132_1_BJNR117700009]
 Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: kerausbv_2009
+
 ---
 
 #  (KerAusbV 2009)

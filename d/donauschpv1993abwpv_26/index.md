@@ -2,6 +2,7 @@
 Title: Sechsundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung
 layout: default
 slug: donauschpv1993abwpv_26
+
 ---
 
 # Sechsundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung (DonauSchPV1993AbwPV 26)

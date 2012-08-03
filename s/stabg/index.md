@@ -2,6 +2,7 @@
 Title: Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft
 layout: default
 slug: stabg
+
 ---
 
 # Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft (StabG)

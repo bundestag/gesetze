@@ -2,6 +2,7 @@
 Title: Verordnung über die Versteuerung von Wettscheinen im Abrechnungsverfahren
 layout: default
 slug: wettschverstv
+
 ---
 
 # Verordnung über die Versteuerung von Wettscheinen im Abrechnungsverfahren (WettschVerstV)

@@ -2,6 +2,7 @@
 Title: Gesetz gegen Wettbewerbsbeschränkungen
 layout: default
 slug: gwb
+
 ---
 
 # Gesetz gegen Wettbewerbsbeschränkungen (GWB)

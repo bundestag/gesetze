@@ -3,6 +3,7 @@ Title: Verordnung über die Gebühren für Amtshandlungen betreffend Verkaufspro
   für Vermögensanlagen nach dem Vermögensanlagengesetz
 layout: default
 slug: vermverkprospgebv
+
 ---
 
 # Verordnung über die Gebühren für Amtshandlungen betreffend Verkaufsprospekte für Vermögensanlagen nach dem Vermögensanlagengesetz (VermVerkProspGebV)

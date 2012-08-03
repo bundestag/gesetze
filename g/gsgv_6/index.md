@@ -3,6 +3,7 @@ Title: Sechste Verordnung zum Produktsicherheitsgesetz (Verordnung über die Ber
   von einfachen Druckbehältern auf dem Markt)
 layout: default
 slug: gsgv_6
+
 ---
 
 # Sechste Verordnung zum Produktsicherheitsgesetz (Verordnung über die Bereitstellung von einfachen Druckbehältern auf dem Markt) (GSGV 6)

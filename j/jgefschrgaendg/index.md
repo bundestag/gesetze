@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung und Ergänzung des Gesetzes über die Verbreitung ju
   Schriften
 layout: default
 slug: jgefschrg_ndg
+
 ---
 
 # Gesetz zur Änderung und Ergänzung des Gesetzes über die Verbreitung jugendgefährdender Schriften (JgefSchrGÄndG)

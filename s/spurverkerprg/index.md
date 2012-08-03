@@ -3,6 +3,7 @@ Title: Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung vo
   für den spurgeführten Verkehr
 layout: default
 slug: spurverkerprg
+
 ---
 
 # Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung von Techniken für den spurgeführten Verkehr (SpurVerkErprG)

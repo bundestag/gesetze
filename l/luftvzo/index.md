@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Luftverkehrs-Zulassungs-Ordnung'
+Title: Luftverkehrs-Zulassungs-Ordnung
 layout: default
 slug: luftvzo
+
 ---
 
 # Luftverkehrs-Zulassungs-Ordnung (LuftVZO)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung einer Stiftung Bundespräsident-Theodor-Heuss-Haus
 layout: default
 slug: bpr_sthhstiftg
+
 ---
 
 # Gesetz über die Errichtung einer Stiftung Bundespräsident-Theodor-Heuss-Haus (BPräsTHHStiftG)

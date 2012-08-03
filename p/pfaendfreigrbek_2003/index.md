@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 850c der Zivilprozessordnung
 layout: default
 slug: pf_ndfreigrbek_2003
+
 ---
 
 # Bekanntmachung zu § 850c der Zivilprozessordnung (PfändfreiGrBek 2003)

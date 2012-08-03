@@ -4,6 +4,7 @@ Title: Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. F
   von Abfällen durch Schiffe und Luftfahrzeuge
 layout: default
 slug: hohseeeinbrv
+
 ---
 
 # Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge (HohSeeEinbrV)

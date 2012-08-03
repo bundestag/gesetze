@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Luftsicherheits-Schulungsverordnung'
+Title: Luftsicherheits-Schulungsverordnung
 layout: default
 slug: luftsischulv
+
 ---
 
 # Luftsicherheits-Schulungsverordnung (LuftSiSchulV)

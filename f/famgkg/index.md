@@ -2,6 +2,7 @@
 Title: Gesetz über Gerichtskosten in Familiensachen
 layout: default
 slug: famgkg
+
 ---
 
 # Gesetz über Gerichtskosten in Familiensachen (FamGKG)

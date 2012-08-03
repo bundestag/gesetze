@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österr
   über Soziale Sicherheit
 layout: default
 slug: sozsichabk_aut_1995
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit (SozSichAbk AUT 1995)

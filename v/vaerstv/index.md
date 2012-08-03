@@ -3,6 +3,7 @@ Title: Verordnung über die Erstattung von Aufwendungen der Träger der Rentenve
   im Rahmen des Versorgungsausgleichs
 layout: default
 slug: vaerstv
+
 ---
 
 # Verordnung über die Erstattung von Aufwendungen der Träger der Rentenversicherung im Rahmen des Versorgungsausgleichs (VAErstV)

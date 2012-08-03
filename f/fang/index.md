@@ -1,9 +1,10 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts
-  und zur Anpassung der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes
-  und des Angestelltenversicherungs-Neuregelungsgesetzes'
+Title: Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung
+  der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes
+  und des Angestelltenversicherungs-Neuregelungsgesetzes
 layout: default
 slug: fang
+
 ---
 
 # Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes und des Angestelltenversicherungs-Neuregelungsgesetzes (FANG)

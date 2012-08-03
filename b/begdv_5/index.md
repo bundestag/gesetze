@@ -2,6 +2,7 @@
 Title: Fünfte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 layout: default
 slug: begdv_5
+
 ---
 
 # Fünfte Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 5)

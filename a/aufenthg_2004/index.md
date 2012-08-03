@@ -3,9 +3,10 @@ Gesetz
 [^f770910_01_BJNR195010004]
 und die Integration von Ausländern im Bundesgebiet
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: aufenthg_2004
+
 ---
 
 #  (AufenthG 2004)

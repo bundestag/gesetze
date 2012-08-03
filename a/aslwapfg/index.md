@@ -3,6 +3,7 @@ Title: Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung 
   Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
 layout: default
 slug: aslwapfg
+
 ---
 
 # Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz - (ASLwApFG)

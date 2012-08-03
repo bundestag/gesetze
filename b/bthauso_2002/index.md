@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Hausordnung des Deutschen Bundestages'
+Title: Hausordnung des Deutschen Bundestages
 layout: default
 slug: bthauso_2002
+
 ---
 
 # Hausordnung des Deutschen Bundestages (BTHausO 2002)

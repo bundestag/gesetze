@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 layout: default
 slug: bauzausbv_2002
+
 ---
 
 # Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin (BauZAusbV 2002)

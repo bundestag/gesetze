@@ -2,6 +2,7 @@
 Title: Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schweinen
 layout: default
 slug: schwzlpv
+
 ---
 
 # Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schweinen (SchwZLpV)

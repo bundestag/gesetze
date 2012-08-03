@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 20. Oktober 1972 über die International
   zur Verhütung von Zusammenstößen auf See
 layout: default
 slug: seestro1972_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 20. Oktober 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See (SeeStrO1972ÜbkG)

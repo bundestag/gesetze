@@ -4,6 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 1. September 1970 über internationale B
   für diese Beförderungen zu verwenden sind (ATP)
 layout: default
 slug: atpg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 1. September 1970 über internationale Beförderungen leicht verderblicher Lebensmittel und über die besonderen Beförderungsmittel, die für diese Beförderungen zu verwenden sind (ATP) (ATPG)

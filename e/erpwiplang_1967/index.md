@@ -3,6 +3,7 @@ Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermöge
   das Rechnungsjahr 1967
 layout: default
 slug: erpwiplang_1967
+
 ---
 
 # Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1967 (ERPWiPlanG 1967)

@@ -2,6 +2,7 @@
 Title: Verordnung über den Güterkraftverkehr
 layout: default
 slug: g_kvo
+
 ---
 
 # Verordnung über den Güterkraftverkehr (GüKVO)

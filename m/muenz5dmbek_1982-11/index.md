@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Johann Wolfgang von Goethe)
 layout: default
 slug: m_nz5dmbek_1982-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Johann Wolfgang von Goethe) (Münz5DMBek 1982-11)

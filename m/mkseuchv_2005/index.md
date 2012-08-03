@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Maul- und Klauenseuche'
+Title: Verordnung zum Schutz gegen die Maul- und Klauenseuche
 layout: default
 slug: mkseuchv_2005
+
 ---
 
 # Verordnung zum Schutz gegen die Maul- und Klauenseuche (MKSeuchV 2005)

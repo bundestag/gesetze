@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften'
+Title: Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften
 layout: default
 slug: geng
+
 ---
 
 # Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften (GenG)

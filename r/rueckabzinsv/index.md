@@ -3,6 +3,7 @@ Title: Verordnung über die Ermittlung und Bekanntgabe der Sätze zur Abzinsung 
   Rückstellungen
 layout: default
 slug: r_ckabzinsv
+
 ---
 
 # Verordnung über die Ermittlung und Bekanntgabe der Sätze zur Abzinsung von Rückstellungen (RückAbzinsV)

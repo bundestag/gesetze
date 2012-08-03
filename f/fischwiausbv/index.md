@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fischwirt
 layout: default
 slug: fischwiausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fischwirt (FischWiAusbV)

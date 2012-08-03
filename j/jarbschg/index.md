@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutz der arbeitenden Jugend'
+Title: Gesetz zum Schutz der arbeitenden Jugend
 layout: default
 slug: jarbschg
+
 ---
 
 # Gesetz zum Schutz der arbeitenden Jugend (JArbSchG)

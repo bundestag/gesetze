@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Indust
   Industriemeisterin - Fachrichtung Mechatronik
 layout: default
 slug: indmechaausbv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Mechatronik (IndMechaAusbV)

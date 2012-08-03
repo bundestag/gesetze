@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Drittes Zusatzprotokoll zur Satzung des Weltpostvereins'
+Title: Drittes Zusatzprotokoll zur Satzung des Weltpostvereins
 layout: default
 slug: wpostvsazprot_3
+
 ---
 
 # Drittes Zusatzprotokoll zur Satzung des Weltpostvereins (WPostVSaZProt 3)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Schaffung barrierefreier Informationstechnik
-  nach dem Behindertengleichstellungsgesetz'
+Title: Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz
 layout: default
 slug: bitv_2_0
+
 ---
 
 # Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz (BITV 2.0)

@@ -4,6 +4,7 @@ Title: Gesetz betreffend das Abkommen über Wirtschaftliche Zusammenarbeit zwisc
   1949
 layout: default
 slug: marshallplabkg
+
 ---
 
 # Gesetz betreffend das Abkommen über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949 (MarshallplAbkG)

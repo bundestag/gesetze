@@ -2,6 +2,7 @@
 Title: Versicherungsteuer-Durchführungsverordnung
 layout: default
 slug: versstgdb
+
 ---
 
 # Versicherungsteuer-Durchführungsverordnung (VersStGDB)

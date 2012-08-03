@@ -2,6 +2,7 @@
 Title: Versehrtenleibesübungen-Verordnung
 layout: default
 slug: bvg_11adv
+
 ---
 
 # Versehrtenleibesübungen-Verordnung (BVG§11aDV)

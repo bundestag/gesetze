@@ -3,6 +3,7 @@ Title: Gesetz zu dem Zusatzabkommen vom 27. August 2002 zum Abkommen vom 14. Nov
   1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit
 layout: default
 slug: sozsichabk1985zusabkcang
+
 ---
 
 # Gesetz zu dem Zusatzabkommen vom 27. August 2002 zum Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit (SozSichAbk1985ZusAbkCANG)

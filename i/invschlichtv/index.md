@@ -2,6 +2,7 @@
 Title: Verordnung über die Schlichtungsstelle nach § 143c des Investmentgesetzes
 layout: default
 slug: invschlichtv
+
 ---
 
 # Verordnung über die Schlichtungsstelle nach § 143c des Investmentgesetzes (InvSchlichtV)

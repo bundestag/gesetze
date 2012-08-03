@@ -3,6 +3,7 @@ Title: Bestimmungen über die Beförderung von Reisenden und ihrem Gepäck auf S
   zu § 664 des Handelsgesetzbuchs)
 layout: default
 slug: hgbanl
+
 ---
 
 # Bestimmungen über die Beförderung von Reisenden und ihrem Gepäck auf See (Anlage zu § 664 des Handelsgesetzbuchs) (HGBAnl)

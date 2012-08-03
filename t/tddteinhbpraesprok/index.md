@@ -2,6 +2,7 @@
 Title: Proklamation des Bundespräsidenten
 layout: default
 slug: tddteinhbpr_sprok
+
 ---
 
 # Proklamation des Bundespräsidenten (TdDtEinhBPräsProk)

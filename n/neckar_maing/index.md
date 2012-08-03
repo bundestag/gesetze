@@ -4,6 +4,7 @@ Title: Gesetz über die Enteignung von Grundeigentum und über die Beitragsleist
   Aschaffenburg bis Bamberg sowie zum Ausbau der Donau von Passau bis Kelheim
 layout: default
 slug: neckar_maing
+
 ---
 
 # Gesetz über die Enteignung von Grundeigentum und über die Beitragsleistung bei der Kanalisierung des Neckars von Mannheim bis Plochingen und des Mains von Aschaffenburg bis Bamberg sowie zum Ausbau der Donau von Passau bis Kelheim (Neckar/MainG)

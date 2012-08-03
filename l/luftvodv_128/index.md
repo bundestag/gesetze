@@ -4,6 +4,7 @@ Title: Hundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnun
   Leipzig/Halle)
 layout: default
 slug: luftvodv_128
+
 ---
 
 # Hundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Leipzig/Halle) (LuftVODV 128)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Welturheberrechtsabkommen'
+Title: Welturheberrechtsabkommen
 layout: default
 slug: wuabk
+
 ---
 
 # Welturheberrechtsabkommen (WUAbk)

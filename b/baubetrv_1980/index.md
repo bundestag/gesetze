@@ -3,6 +3,7 @@ Title: Verordnung über die Betriebe des Baugewerbes, in denen die ganzjährige 
   zu fördern ist
 layout: default
 slug: baubetrv_1980
+
 ---
 
 # Verordnung über die Betriebe des Baugewerbes, in denen die ganzjährige Beschäftigung zu fördern ist (BaubetrV 1980)

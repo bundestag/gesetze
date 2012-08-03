@@ -2,6 +2,7 @@
 Title: Fünftes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 layout: default
 slug: kovanpg_5
+
 ---
 
 # Fünftes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes (KOVAnpG 5)

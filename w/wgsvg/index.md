@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen
-  Unrechts in der Sozialversicherung'
+Title: Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in
+  der Sozialversicherung
 layout: default
 slug: wgsvg
+
 ---
 
 # Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung (WGSVG)

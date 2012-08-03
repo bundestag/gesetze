@@ -5,6 +5,7 @@ Title: Gesetz zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschl
   in Zivil- und Handelssachen
 layout: default
 slug: zpvtrautag
+
 ---
 
 # Gesetz zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen (ZPVtrAUTAG)

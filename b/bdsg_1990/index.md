@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesdatenschutzgesetz'
+Title: Bundesdatenschutzgesetz
 layout: default
 slug: bdsg_1990
+
 ---
 
 # Bundesdatenschutzgesetz (BDSG 1990)

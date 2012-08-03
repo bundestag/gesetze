@@ -3,6 +3,7 @@ Title: Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelege
   nach der EG-Richtlinie 2003/35/EG
 layout: default
 slug: umwrg
+
 ---
 
 # Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG (UmwRG)

@@ -4,6 +4,7 @@ Title: Vertrag von Nizza zur Änderung des Vertrags über die Europäische Union
   Rechtsakte
 layout: default
 slug: euvtr_nizza
+
 ---
 
 # Vertrag von Nizza zur Änderung des Vertrags über die Europäische Union, der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender Rechtsakte (EUVtr Nizza)

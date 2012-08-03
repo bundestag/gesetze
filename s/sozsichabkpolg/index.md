@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik D
   und der Republik Polen über Soziale Sicherheit
 layout: default
 slug: sozsichabkpolg
+
 ---
 
 # Gesetz zu dem Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit (SozSichAbkPOLG)

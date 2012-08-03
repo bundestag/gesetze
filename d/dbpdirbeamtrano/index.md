@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beam
   im Geschäftsbereich des Direktoriums der Deutschen Bundespost
 layout: default
 slug: dbpdirbeamtrano
+
 ---
 
 # Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Geschäftsbereich des Direktoriums der Deutschen Bundespost (DBPDirBeamtRAnO)

@@ -3,6 +3,7 @@ Title: Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtss
   ihrer Truppen
 layout: default
 slug: natotrstat
+
 ---
 
 # Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen (NATOTrStat)

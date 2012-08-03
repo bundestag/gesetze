@@ -4,6 +4,7 @@ Title: Gesetz betreffend das Abkommen über die Internationale Finanz-Corporatio
   und Entwicklung sowie in der Internationalen Finanz-Corporation
 layout: default
 slug: ifcabkg
+
 ---
 
 # Gesetz betreffend das Abkommen über die Internationale Finanz-Corporation und betreffend Gouverneure und Direktoren in der Internationalen Bank für Wiederaufbau und Entwicklung sowie in der Internationalen Finanz-Corporation (IFCAbkG)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte
 layout: default
 slug: bfag
+
 ---
 
 # Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte (BfAG)

@@ -1,9 +1,10 @@
 [^fn772806_01_BJNR003800010]
 Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: bimschv_1_2010
+
 ---
 
 #  (BImSchV 1 2010)

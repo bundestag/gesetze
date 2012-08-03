@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Wide
   aus dem Beamtenverhältnis im Bereich der  Deutschen Postbank AG
 layout: default
 slug: deutschepostbankagwidano_2006
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in  beihilferechtlichen Angelegenheiten aus dem Beamtenverhältnis im Bereich der  Deutschen Postbank AG (DeutschePostbankAGWidAnO 2006)

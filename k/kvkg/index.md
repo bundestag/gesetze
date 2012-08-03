@@ -3,6 +3,7 @@ Title: Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung
   der gesetzlichen Krankenversicherung
 layout: default
 slug: kvkg
+
 ---
 
 # Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in der gesetzlichen Krankenversicherung (KVKG)

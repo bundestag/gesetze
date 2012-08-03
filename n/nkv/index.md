@@ -4,6 +4,7 @@ Title: Verordnung über nährwertbezogene Angaben bei Lebensmitteln und die Näh
   für Lebensmittel)
 layout: default
 slug: nkv
+
 ---
 
 # Verordnung über nährwertbezogene Angaben bei Lebensmitteln und die Nährwertkennzeichnung von Lebensmitteln (Artikel 1 der Verordnung zur Neuordnung der Nährwertkennzeichnungsvorschriften für Lebensmittel) (NKV)

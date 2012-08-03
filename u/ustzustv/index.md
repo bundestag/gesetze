@@ -3,6 +3,7 @@ Title: Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Au
   ansässiger Unternehmer
 layout: default
 slug: ustzustv
+
 ---
 
 # Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Ausland ansässiger Unternehmer (UStZustV)

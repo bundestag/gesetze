@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Steuerbeamten-Ausbildungsgesetz'
+Title: Steuerbeamten-Ausbildungsgesetz
 layout: default
 slug: stbag
+
 ---
 
 # Steuerbeamten-Ausbildungsgesetz (StBAG)

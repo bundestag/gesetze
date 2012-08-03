@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Rechts
   Rechtsfachwirtin
 layout: default
 slug: rechtsfachwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin (RechtsfachwPrV)

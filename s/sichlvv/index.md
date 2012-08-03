@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung von Aufgaben und Befugnissen eines  Sic
   für die Lebensversicherung an die Protektor  Lebensversicherungs-AG
 layout: default
 slug: sichlvv
+
 ---
 
 # Verordnung über die Übertragung von Aufgaben und Befugnissen eines  Sicherungsfonds für die Lebensversicherung an die Protektor  Lebensversicherungs-AG (SichLVV)

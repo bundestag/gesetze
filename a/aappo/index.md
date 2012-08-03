@@ -2,6 +2,7 @@
 Title: Approbationsordnung für Apotheker
 layout: default
 slug: aappo
+
 ---
 
 # Approbationsordnung für Apotheker (AAppO)

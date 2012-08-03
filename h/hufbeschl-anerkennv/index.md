@@ -5,9 +5,10 @@ Prüfungszeugnissen mit den Prüfungszeugnissen nach der
 Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen
 Anerkennung
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: hufbeschl-anerkennv
+
 ---
 
 #  (HufBeschl-AnerkennV)

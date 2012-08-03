@@ -3,6 +3,7 @@ Title: Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterss
   der Landwirte für 2002
 layout: default
 slug: bgl_2002
+
 ---
 
 # Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2002 (BGL 2002)

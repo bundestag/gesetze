@@ -2,6 +2,7 @@
 Title: Gesetz über Rahmenbedingungen für elektronische Signaturen
 layout: default
 slug: sigg_2001
+
 ---
 
 # Gesetz über Rahmenbedingungen für elektronische Signaturen (SigG 2001)

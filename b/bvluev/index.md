@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbra
   und Lebensmittelsicherheit
 layout: default
 slug: bvl_v
+
 ---
 
 # Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVLÜV)

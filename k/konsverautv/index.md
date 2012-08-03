@@ -3,6 +3,7 @@ Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bun
   Deutschland und der Republik Österreich
 layout: default
 slug: konsverautv
+
 ---
 
 # Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Republik Österreich (KonsVerAUTV)

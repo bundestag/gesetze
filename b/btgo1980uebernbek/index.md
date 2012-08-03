@@ -2,6 +2,7 @@
 Title: Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages
 layout: default
 slug: btgo1980_bernbek
+
 ---
 
 # Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages (BTGO1980ÜbernBek)

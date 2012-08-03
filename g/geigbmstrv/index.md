@@ -3,6 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Geigenbauer-Handwerk
 layout: default
 slug: geigbmstrv
+
 ---
 
 # Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Geigenbauer-Handwerk (GeigbMstrV)

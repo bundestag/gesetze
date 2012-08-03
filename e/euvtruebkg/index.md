@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 19. Juni 1980 über das auf vertragliche
   anzuwendende Recht
 layout: default
 slug: euvtr_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (EuVtrÜbkG)

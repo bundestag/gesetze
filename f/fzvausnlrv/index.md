@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur landesrechtlichen Regelung von Ausnahmen von
-  der Fahrzeug-Zulassungsverordnung'
+Title: Verordnung zur landesrechtlichen Regelung von Ausnahmen von der Fahrzeug-Zulassungsverordnung
 layout: default
 slug: fzvausnlrv
+
 ---
 
 # Verordnung zur landesrechtlichen Regelung von Ausnahmen von der Fahrzeug-Zulassungsverordnung (FZVAusnLRV)

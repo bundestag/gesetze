@@ -4,6 +4,7 @@ Title: Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersach
   nach Niedersachsen
 layout: default
 slug: gr_ndstvtr_mv_nd
+
 ---
 
 # Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete nach Niedersachsen (GrÄndStVtr MV/ND)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Allgemeines Gleichbehandlungsgesetz'
+Title: Allgemeines Gleichbehandlungsgesetz
 layout: default
 slug: agg
+
 ---
 
 # Allgemeines Gleichbehandlungsgesetz (AGG)

@@ -3,6 +3,7 @@ Title: Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestage
   des Bundesrates in Angelegenheiten der Europäischen Union
 layout: default
 slug: intvg
+
 ---
 
 # Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestages und des Bundesrates in Angelegenheiten der Europäischen Union (IntVG)

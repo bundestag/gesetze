@@ -3,6 +3,7 @@ Title: Rechtsnormen des Mindestlohn-Tarifvertrages für Wäschereidienstleistung
   Objektkundengeschäft vom 18. Mai 2009
 layout: default
 slug: tvmindestlohn_w_scherei
+
 ---
 
 # Rechtsnormen des Mindestlohn-Tarifvertrages für Wäschereidienstleistungen im Objektkundengeschäft vom 18. Mai 2009 (TVMindestlohn Wäscherei)

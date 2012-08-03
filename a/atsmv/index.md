@@ -3,6 +3,7 @@ Title: Verordnung über den kerntechnischen Sicherheitsbeauftragten und über di
   von Störfällen und sonstigen Ereignissen
 layout: default
 slug: atsmv
+
 ---
 
 # Verordnung über den kerntechnischen Sicherheitsbeauftragten und über die Meldung von Störfällen und sonstigen Ereignissen (AtSMV)

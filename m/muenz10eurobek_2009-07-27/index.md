@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „100 Jahre Jugendherbergen")
 layout: default
 slug: m_nz10eurobek_2009-07-27
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „100 Jahre Jugendherbergen") (Münz10EuroBek 2009-07-27)

@@ -3,6 +3,7 @@ Title: Gesetz über das Deutsche Rote Kreuz und andere freiwillige Hilfsgesellsc
   im Sinne der Genfer Rotkreuz-Abkommen
 layout: default
 slug: drkg_2008
+
 ---
 
 # Gesetz über das Deutsche Rote Kreuz und andere freiwillige Hilfsgesellschaften im Sinne der Genfer Rotkreuz-Abkommen (DRKG 2008)

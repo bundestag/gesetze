@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols
-  der Akkreditierungsstelle'
+Title: Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle
 layout: default
 slug: symbolvo
+
 ---
 
 # Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle (SymbolVO)

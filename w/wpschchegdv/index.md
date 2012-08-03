@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung und Ergänzung des Gesetzes zum Schutze des 
   der Schweizerischen Eidgenossenschaft
 layout: default
 slug: wpschchegdv
+
 ---
 
 # Verordnung zur Durchführung und Ergänzung des Gesetzes zum Schutze des Wappens der Schweizerischen Eidgenossenschaft (WpSchCHEGDV)

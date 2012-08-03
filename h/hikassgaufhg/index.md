@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz betreffend die Aufhebung des Hilfskassengesetzes'
+Title: Gesetz betreffend die Aufhebung des Hilfskassengesetzes
 layout: default
 slug: hikassgaufhg
+
 ---
 
 # Gesetz betreffend die Aufhebung des Hilfskassengesetzes (HiKassGAufhG)

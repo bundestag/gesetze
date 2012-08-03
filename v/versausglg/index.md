@@ -2,6 +2,7 @@
 Title: Gesetz über den Versorgungsausgleich
 layout: default
 slug: versausglg
+
 ---
 
 # Gesetz über den Versorgungsausgleich (VersAusglG)

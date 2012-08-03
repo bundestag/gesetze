@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Asylbewerberleistungsgesetz'
+Title: Asylbewerberleistungsgesetz
 layout: default
 slug: asylblg
+
 ---
 
 # Asylbewerberleistungsgesetz (AsylbLG)

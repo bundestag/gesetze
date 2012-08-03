@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Grunderwerbsteuergesetz'
+Title: Grunderwerbsteuergesetz
 layout: default
 slug: grestg_1983
+
 ---
 
 # Grunderwerbsteuergesetz (GrEStG 1983)

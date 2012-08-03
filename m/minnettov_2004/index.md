@@ -3,6 +3,7 @@ Title: Verordnung über die Mindestnettobeträge nach dem Altersteilzeitgesetz f
   Jahr 2004
 layout: default
 slug: minnettov_2004
+
 ---
 
 # Verordnung über die Mindestnettobeträge nach dem Altersteilzeitgesetz für das Jahr 2004 (MinNettoV 2004)

@@ -3,6 +3,7 @@ Title: Gesetz zur Bestimmung der Beträge und Beitragszuschüsse in der Alterssi
   der Landwirte für 2000
 layout: default
 slug: blg_2000
+
 ---
 
 # Gesetz zur Bestimmung der Beträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2000 (BLG 2000)

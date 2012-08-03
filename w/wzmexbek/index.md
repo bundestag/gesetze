@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen
-  in Mexiko'
+Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko
 layout: default
 slug: wzmexbek
+
 ---
 
 # Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko (WZMEXBek)

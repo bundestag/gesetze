@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Anlage A zur Donauschiffahrtspolizeiverordnung'
+Title: Anlage A zur Donauschiffahrtspolizeiverordnung
 layout: default
 slug: donauschpvanl_1993
+
 ---
 
 # Anlage A zur Donauschiffahrtspolizeiverordnung (DonauSchPVAnl 1993)

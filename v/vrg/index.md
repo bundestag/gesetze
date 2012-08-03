@@ -2,6 +2,7 @@
 Title: Gesetz zur Förderung von Vorruhestandsleistungen
 layout: default
 slug: vrg
+
 ---
 
 # Gesetz zur Förderung von Vorruhestandsleistungen (VRG)

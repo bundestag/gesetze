@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Aufbewahrung von Schriftgut der Gerichte des Bundes
-  und des Generalbundesanwalts nach Beendigung des Verfahrens'
+Title: Gesetz zur Aufbewahrung von Schriftgut der Gerichte des Bundes und des Generalbundesanwalts
+  nach Beendigung des Verfahrens
 layout: default
 slug: schrag
+
 ---
 
 # Gesetz zur Aufbewahrung von Schriftgut der Gerichte des Bundes und des Generalbundesanwalts nach Beendigung des Verfahrens (SchrAG)

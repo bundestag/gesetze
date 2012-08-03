@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Stromsteuergesetzes
 layout: default
 slug: stromstv
+
 ---
 
 # Verordnung zur Durchführung des Stromsteuergesetzes (StromStV)

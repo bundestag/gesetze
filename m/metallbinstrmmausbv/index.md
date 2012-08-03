@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Metallblasinstrumentenmacher/zur Metallblasinstrumentenmacherin
 layout: default
 slug: metallbinstrmmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Metallblasinstrumentenmacher/zur Metallblasinstrumentenmacherin (MetallbInstrmMAusbV)

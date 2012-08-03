@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 30. März 1967 zwischen der Bundesrepublik Deut
   und dem Königreich Dänemark über Zollerleichterungen im kleinen Grenzverkehr
 layout: default
 slug: grabfertdnkvtrg
+
 ---
 
 # Gesetz zu dem Vertrag vom 30. März 1967 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über Zollerleichterungen im kleinen Grenzverkehr (GrAbfertDNKVtrG)

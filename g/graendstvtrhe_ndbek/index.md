@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertra
   Landesgrenze
 layout: default
 slug: gr_ndstvtrhe_ndbek
+
 ---
 
 # Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtrHE/NDBek)

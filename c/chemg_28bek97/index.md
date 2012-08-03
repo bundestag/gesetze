@@ -2,6 +2,7 @@
 Title: Bekanntmachung zu § 28 des Chemikaliengesetzes
 layout: default
 slug: chemg_28bek97
+
 ---
 
 # Bekanntmachung zu § 28 des Chemikaliengesetzes (ChemG§28Bek97)

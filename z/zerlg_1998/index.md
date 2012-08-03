@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zerlegungsgesetz'
+Title: Zerlegungsgesetz
 layout: default
 slug: zerlg_1998
+
 ---
 
 # Zerlegungsgesetz (ZerlG 1998)

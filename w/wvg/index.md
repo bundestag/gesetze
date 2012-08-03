@@ -2,6 +2,7 @@
 Title: Gesetz über Wasser- und Bodenverbände
 layout: default
 slug: wvg
+
 ---
 
 # Gesetz über Wasser- und Bodenverbände (WVG)

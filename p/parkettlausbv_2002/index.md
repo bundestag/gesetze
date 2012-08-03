@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Parkettleger/zur Parkettlegerin
 layout: default
 slug: parkettlausbv_2002
+
 ---
 
 # Verordnung über die Berufsausbildung zum Parkettleger/zur Parkettlegerin (ParkettlAusbV 2002)

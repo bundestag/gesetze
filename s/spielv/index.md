@@ -2,6 +2,7 @@
 Title: Verordnung über Spielgeräte und andere Spiele mit Gewinnmöglichkeit
 layout: default
 slug: spielv
+
 ---
 
 # Verordnung über Spielgeräte und andere Spiele mit Gewinnmöglichkeit (SpielV)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Bekanntmachung des Organisationserlasses zur Sitzverlagerung
-  des Bundesrechnungshofes'
+Title: Bekanntmachung des Organisationserlasses zur Sitzverlagerung des Bundesrechnungshofes
 layout: default
 slug: brhsitzbek
+
 ---
 
 # Bekanntmachung des Organisationserlasses zur Sitzverlagerung des Bundesrechnungshofes (BRHSitzBek)

@@ -4,6 +4,7 @@ Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Kom
   und den Vereinigten Staaten von Amerika
 layout: default
 slug: studaustkomrv
+
 ---
 
 # Verordnung über die Gewährung von Vorrechten und Befreiungen an die Kommission für den Studenten- und Dozentenaustausch zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika (StudAustKomRV)

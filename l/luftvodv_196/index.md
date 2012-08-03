@@ -4,6 +4,7 @@ Title: Hundertsechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnu
   und vom Verkehrsflughafen Siegerland)
 layout: default
 slug: luftvodv_196
+
 ---
 
 # Hundertsechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Siegerland) (LuftVODV 196)

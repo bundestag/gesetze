@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Abkommen zwischen der Bundesrepublik Deutschland und der
-  Portugiesischen Republik auf dem Gebiet des gewerblichen Rechtsschutzes'
+Title: Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik
+  auf dem Gebiet des gewerblichen Rechtsschutzes
 layout: default
 slug: schutzrabk_prt
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik auf dem Gebiet des gewerblichen Rechtsschutzes (SchutzRAbk PRT)

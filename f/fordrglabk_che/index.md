@@ -4,6 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen 
   ehemalige Deutsche Reich
 layout: default
 slug: fordrglabk_che
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung der Forderungen der Schweizerischen Eidgenossenschaft gegen das ehemalige Deutsche Reich (FordRglAbk CHE)

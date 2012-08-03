@@ -4,6 +4,7 @@ Title: Verordnung über Inhalt, Umfang und Darstellung der Rechnungslegung von S
   zugehörigen Vermögensgegenstände
 layout: default
 slug: invrbv
+
 ---
 
 # Verordnung über Inhalt, Umfang und Darstellung der Rechnungslegung von Sondervermögen und Investmentaktiengesellschaften sowie die Bewertung der einem Investmentvermögen zugehörigen Vermögensgegenstände (InvRBV)

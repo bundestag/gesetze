@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Berufskrankheiten-Verordnung'
+Title: Berufskrankheiten-Verordnung
 layout: default
 slug: bkv
+
 ---
 
 # Berufskrankheiten-Verordnung (BKV)

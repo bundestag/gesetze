@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zwangsverwalterverordnung'
+Title: Zwangsverwalterverordnung
 layout: default
 slug: zwvwv
+
 ---
 
 # Zwangsverwalterverordnung (ZwVwV)

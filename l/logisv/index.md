@@ -2,6 +2,7 @@
 Title: Verordnung über die Unterbringung der Besatzungsmitglieder an Bord von Kauffahrteischiffen
 layout: default
 slug: logisv
+
 ---
 
 # Verordnung über die Unterbringung der Besatzungsmitglieder an Bord von Kauffahrteischiffen (LogisV)

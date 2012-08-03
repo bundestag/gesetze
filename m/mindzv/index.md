@@ -2,6 +2,7 @@
 Title: Verordnung über die Mindestbeitragsrückerstattung in der Lebensversicherung
 layout: default
 slug: mindzv
+
 ---
 
 # Verordnung über die Mindestbeitragsrückerstattung in der Lebensversicherung (MindZV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Pflanzenbeschauverordnung'
+Title: Pflanzenbeschauverordnung
 layout: default
 slug: pflbeschauv_1989
+
 ---
 
 # Pflanzenbeschauverordnung (PflBeschauV 1989)

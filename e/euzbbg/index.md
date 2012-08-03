@@ -3,6 +3,7 @@ Title: Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundest
   in Angelegenheiten der Europäischen Union
 layout: default
 slug: euzbbg
+
 ---
 
 # Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union (EUZBBG)

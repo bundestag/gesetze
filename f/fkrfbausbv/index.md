@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zur Fachkraft im Fahrbetrieb
 layout: default
 slug: fkrfbausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zur Fachkraft im Fahrbetrieb (FKrFBAusbV)

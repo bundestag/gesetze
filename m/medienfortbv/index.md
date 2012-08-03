@@ -2,6 +2,7 @@
 Title: Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Medienwirtschaft
 layout: default
 slug: medienfortbv
+
 ---
 
 # Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Medienwirtschaft (MedienFortbV)

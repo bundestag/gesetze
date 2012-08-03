@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des 
   nach G131 auf das Bundesverwaltungsamt
 layout: default
 slug: bvwazustg131ano
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Rechts nach G131 auf das Bundesverwaltungsamt (BVwAZustG131AnO)

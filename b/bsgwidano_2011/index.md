@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   aus dem Beamten- oder Richterverhältnis
 layout: default
 slug: bsgwidano_2011
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundessozialgerichts aus dem Beamten- oder Richterverhältnis (BSGWidAnO 2011)

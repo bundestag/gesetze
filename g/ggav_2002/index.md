@@ -3,6 +3,7 @@ Title: Verordnung über Ausnahmen von den Vorschriften über die Beförderung ge
   Güter
 layout: default
 slug: ggav_2002
+
 ---
 
 # Verordnung über Ausnahmen von den Vorschriften über die Beförderung gefährlicher Güter (GGAV 2002)

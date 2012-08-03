@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Abkommen zwischen der Bundesrepublik Deutschland und dem
-  Staate Israel'
+Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel
 layout: default
 slug: abk_isr
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel (Abk ISR)

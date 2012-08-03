@@ -2,6 +2,7 @@
 Title: Dritte Verordnung zur Änderung der Makler- und Bauträgerverordnung
 layout: default
 slug: gewo_34cdv_ndv_3
+
 ---
 
 # Dritte Verordnung zur Änderung der Makler- und Bauträgerverordnung (GewO§34cDVÄndV 3)

@@ -3,6 +3,7 @@ Title: Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons �
   gegen Frauen“
 layout: default
 slug: hilfetelefong
+
 ---
 
 # Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“ (HilfetelefonG)

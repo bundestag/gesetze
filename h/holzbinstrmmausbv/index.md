@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Holzblasinstrumentenmacher/zur Holzblasinstrumentenmacherin
 layout: default
 slug: holzbinstrmmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Holzblasinstrumentenmacher/zur Holzblasinstrumentenmacherin (HolzbInstrmMAusbV)

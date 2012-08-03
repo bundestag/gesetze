@@ -2,6 +2,7 @@
 Title: Gesetz über das Seelotswesen
 layout: default
 slug: seelotg
+
 ---
 
 # Gesetz über das Seelotswesen (SeelotG)

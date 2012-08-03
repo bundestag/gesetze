@@ -2,6 +2,7 @@
 Title: Verordnung über die notarielle Fachprüfung
 layout: default
 slug: notfv
+
 ---
 
 # Verordnung über die notarielle Fachprüfung (NotFV)

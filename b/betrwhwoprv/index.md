@@ -3,6 +3,7 @@ Title: Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr�
   Betriebswirt nach der Handwerksordnung und Gepr체fte Betriebswirtin nach der Handwerksordnung
 layout: default
 slug: betrwhwoprv
+
 ---
 
 # Verordnung 체ber die Pr체fung zum anerkannten Fortbildungsabschluss Gepr체fter Betriebswirt nach der Handwerksordnung und Gepr체fte Betriebswirtin nach der Handwerksordnung (BetrWHwOPrV)

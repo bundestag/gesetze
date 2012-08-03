@@ -3,6 +3,7 @@ Title: Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung u
   der knappschaftlichen Rentenversicherung für das Jahr 2011
 layout: default
 slug: rvbeitrsbek_2011
+
 ---
 
 # Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2011 (RVBeitrSBek 2011)

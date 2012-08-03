@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zu Systemdienstleistungen durch Windenergieanlagen'
+Title: Verordnung zu Systemdienstleistungen durch Windenergieanlagen
 layout: default
 slug: sdlwindv
+
 ---
 
 # Verordnung zu Systemdienstleistungen durch Windenergieanlagen (SDLWindV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur arbeitsmedizinischen Vorsorge'
+Title: Verordnung zur arbeitsmedizinischen Vorsorge
 layout: default
 slug: arbmedvv
+
 ---
 
 # Verordnung zur arbeitsmedizinischen Vorsorge (ArbMedVV)

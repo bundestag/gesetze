@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung bewertungsrechtlicher und anderer steuerrechtlicher Vorschriften
 layout: default
 slug: bew_ndg_1971
+
 ---
 
 # Gesetz zur Änderung bewertungsrechtlicher und anderer steuerrechtlicher Vorschriften (BewÄndG 1971)

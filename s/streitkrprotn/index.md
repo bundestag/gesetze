@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Protokollnotiz zu Nummer 3 des Notenwechsels vom 12. September
-  1994'
+Title: Protokollnotiz zu Nummer 3 des Notenwechsels vom 12. September 1994
 layout: default
 slug: streitkrprotn
+
 ---
 
 # Protokollnotiz zu Nummer 3 des Notenwechsels vom 12. September 1994 (StreitkrProtN)

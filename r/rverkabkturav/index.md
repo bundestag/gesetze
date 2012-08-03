@@ -3,6 +3,7 @@ Title: Verordnung zur Ausführung des deutsch-türkischen Abkommens über den Re
   in Zivil- und Handelssachen vom 28. Mai 1929 (Reichsgesetzbl. 1930 II S. 6)
 layout: default
 slug: rverkabkturav
+
 ---
 
 # Verordnung zur Ausführung des deutsch-türkischen Abkommens über den Rechtsverkehr in Zivil- und Handelssachen vom 28. Mai 1929 (Reichsgesetzbl. 1930 II S. 6) (RVerkAbkTURAV)

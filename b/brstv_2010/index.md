@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Branntweinmonopolgesetzes
 layout: default
 slug: brstv_2010
+
 ---
 
 # Verordnung zur Durchführung des Branntweinmonopolgesetzes (BrStV 2010)

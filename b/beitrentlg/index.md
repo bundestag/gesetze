@@ -2,6 +2,7 @@
 Title: Gesetz zur Entlastung der Beiträge in der gesetzlichen Krankenversicherung
 layout: default
 slug: beitrentlg
+
 ---
 
 # Gesetz zur Entlastung der Beiträge in der gesetzlichen Krankenversicherung (BeitrEntlG)

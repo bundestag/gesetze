@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Gesetzes über die Preisstatistik
 layout: default
 slug: preisstatgdv
+
 ---
 
 # Verordnung zur Durchführung des Gesetzes über die Preisstatistik (PreisStatGDV)

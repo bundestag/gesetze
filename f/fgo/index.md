@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Finanzgerichtsordnung'
+Title: Finanzgerichtsordnung
 layout: default
 slug: fgo
+
 ---
 
 # Finanzgerichtsordnung (FGO)

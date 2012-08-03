@@ -3,6 +3,7 @@ Title: Europäisches Übereinkommen über die Zustellung von Schriftstücken in 
   im Ausland
 layout: default
 slug: euauslvwz_bk
+
 ---
 
 # Europäisches Übereinkommen über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland (EuAuslVwZÜbk)

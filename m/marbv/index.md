@@ -2,6 +2,7 @@
 Title: Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamte
 layout: default
 slug: marbv
+
 ---
 
 # Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamte (MArbV)

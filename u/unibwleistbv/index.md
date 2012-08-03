@@ -2,6 +2,7 @@
 Title: Verordnung über Leistungsbezüge und Zulagen an den Universitäten der Bundeswehr
 layout: default
 slug: unibwleistbv
+
 ---
 
 # Verordnung über Leistungsbezüge und Zulagen an den Universitäten der Bundeswehr (UniBwLeistBV)

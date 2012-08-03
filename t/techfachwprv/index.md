@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Techni
   Fachwirt/Geprüfte Technische Fachwirtin
 layout: default
 slug: techfachwprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin (TechFachwPrV)

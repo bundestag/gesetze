@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Rechtsdienstleistungsgesetz'
+Title: Verordnung zum Rechtsdienstleistungsgesetz
 layout: default
 slug: rdv
+
 ---
 
 # Verordnung zum Rechtsdienstleistungsgesetz (RDV)

@@ -2,6 +2,7 @@
 Title: Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen
 layout: default
 slug: publg
+
 ---
 
 # Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen (PublG)

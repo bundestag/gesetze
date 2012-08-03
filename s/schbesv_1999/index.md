@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Schiffsbesetzungsverordnung'
+Title: Schiffsbesetzungsverordnung
 layout: default
 slug: schbesv_1999
+
 ---
 
 # Schiffsbesetzungsverordnung (SchBesV 1999)

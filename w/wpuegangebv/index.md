@@ -4,6 +4,7 @@ Title: Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei 
   und zur Abgabe eines Angebots
 layout: default
 slug: wp_gangebv
+
 ---
 
 # Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots (WpÜGAngebV)

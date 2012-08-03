@@ -3,6 +3,7 @@ Title: Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten d
   Bundesfinanzverwaltung
 layout: default
 slug: bfinvwernano_2009
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten der Bundesfinanzverwaltung (BFinVwErnAnO 2009)

@@ -3,6 +3,7 @@ Title: Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der 
   und Organisationen mit Sicherheitsaufgaben
 layout: default
 slug: bdbosg
+
 ---
 
 # Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOSG)

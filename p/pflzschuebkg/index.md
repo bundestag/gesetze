@@ -3,6 +3,7 @@ Title: Gesetz zu den Internationalen Übereinkommen vom 2. Dezember 1961 zum Sch
   von Pflanzenzüchtungen
 layout: default
 slug: pflzsch_bkg
+
 ---
 
 # Gesetz zu den Internationalen Übereinkommen vom 2. Dezember 1961 zum Schutz von Pflanzenzüchtungen (PflZSchÜbkG)

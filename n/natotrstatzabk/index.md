@@ -4,6 +4,7 @@ Title: Zusatzabkommen zu dem Abkommen zwischen den Parteien des Nordatlantikvert
   stationierten ausländischen Truppen
 layout: default
 slug: natotrstatzabk
+
 ---
 
 # Zusatzabkommen zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen (NATOTrStatZAbk)

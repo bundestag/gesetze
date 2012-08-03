@@ -3,6 +3,7 @@ Title: Beschluß der Volkskammer der Deutschen Demokratischen Republik zum Richt
   - Ordnung über die Bildung und Arbeitsweise der Richterwahlausschüsse -
 layout: default
 slug: rwahlbes
+
 ---
 
 # Beschluß der Volkskammer der Deutschen Demokratischen Republik zum Richtergesetz - Ordnung über die Bildung und Arbeitsweise der Richterwahlausschüsse - (RWahlBes)

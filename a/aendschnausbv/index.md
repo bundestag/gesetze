@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin
 layout: default
 slug: _ndschnausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin (ÄndSchnAusbV)

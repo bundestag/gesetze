@@ -5,6 +5,7 @@ Title: Gesetz zu dem Zweiten Zusatzabkommen vom 2. März 1989 zum Abkommen vom 2
   vom 25. August 1978 zur Durchführung des Abkommens
 layout: default
 slug: sozsichabkzabk2_zvbgcheg
+
 ---
 
 # Gesetz zu dem Zweiten Zusatzabkommen vom 2. März 1989 zum Abkommen vom 25. Februar 1964 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über Soziale Sicherheit und der Zusatzvereinbarung vom 2. März 1989 zur Vereinbarung vom 25. August 1978 zur Durchführung des Abkommens (SozSichAbkZAbk2/ZVbgCHEG)

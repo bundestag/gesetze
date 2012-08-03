@@ -5,6 +5,7 @@ Title: Gesetz zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internatio
   Flugsicherungs-Streckengebühren
 layout: default
 slug: eurocontrol_bk_ndprotg
+
 ---
 
 # Gesetz zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren (EUROCONTROLÜbkÄndProtG)

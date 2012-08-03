@@ -2,6 +2,7 @@
 Title: Grundgesetz für die Bundesrepublik Deutschland
 layout: default
 slug: gg
+
 ---
 
 # Grundgesetz für die Bundesrepublik Deutschland (GG)

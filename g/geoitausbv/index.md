@@ -1,9 +1,10 @@
 [^F774089_01_BJNR069400010]
 Verordnung über die Berufsausbildung in der Geoinformationstechnologie
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: geoitausbv
+
 ---
 
 #  (GeoITAusbV)

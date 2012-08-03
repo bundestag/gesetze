@@ -4,6 +4,7 @@ Title: Zwölftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rent
   (Art. 4 d. Dritten Rentenversicherungs- Änderungsgesetzes - 3. RVÄndG)
 layout: default
 slug: rag_12
+
 ---
 
 # Zwölftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Art. 4 d. Dritten Rentenversicherungs- Änderungsgesetzes - 3. RVÄndG) (RAG 12)

@@ -2,6 +2,7 @@
 Title: Gesetz über Teilzeitarbeit und befristete Arbeitsverträge
 layout: default
 slug: tzbfg
+
 ---
 
 # Gesetz über Teilzeitarbeit und befristete Arbeitsverträge (TzBfG)

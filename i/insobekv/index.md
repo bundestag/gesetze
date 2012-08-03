@@ -2,6 +2,7 @@
 Title: Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet
 layout: default
 slug: insobekv
+
 ---
 
 # Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet (InsoBekV)

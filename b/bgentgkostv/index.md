@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeskostenverordnung zum Gentechnikgesetz'
+Title: Bundeskostenverordnung zum Gentechnikgesetz
 layout: default
 slug: bgentgkostv
+
 ---
 
 # Bundeskostenverordnung zum Gentechnikgesetz (BGenTGKostV)

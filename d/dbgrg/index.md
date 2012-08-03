@@ -2,6 +2,7 @@
 Title: Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft
 layout: default
 slug: dbgrg
+
 ---
 
 # Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft (DBGrG)

@@ -3,6 +3,7 @@ Title: Verordnung zur Übertragung von Verordnungsermächtigungen der Bundesregi
   nach § 31 des Gesetzes über die Deutsche Bundesbank
 layout: default
 slug: bbankge_v
+
 ---
 
 # Verordnung zur Übertragung von Verordnungsermächtigungen der Bundesregierung nach § 31 des Gesetzes über die Deutsche Bundesbank (BBankGEÜV)

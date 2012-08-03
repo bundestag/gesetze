@@ -2,6 +2,7 @@
 Title: Gesetz über die Verweigerung des Kriegsdienstes mit der Waffe aus Gewissensgründen
 layout: default
 slug: kdvg_2003
+
 ---
 
 # Gesetz über die Verweigerung des Kriegsdienstes mit der Waffe aus Gewissensgründen (KDVG 2003)

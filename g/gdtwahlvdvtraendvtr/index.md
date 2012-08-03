@@ -4,6 +4,7 @@ Title: Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung de
   und der Deutschen Demokratischen Republik
 layout: default
 slug: gdtwahlvdvtr_ndvtr
+
 ---
 
 # Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik (GDtWahlVDVtrÄndVtr)

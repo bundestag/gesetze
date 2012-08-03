@@ -4,6 +4,7 @@ Title: Zweihundertachtunddreißigste Durchführungsverordnung zur Luftverkehrs-O
   Flughafen Saarbrücken)
 layout: default
 slug: luftvodv_238
+
 ---
 
 # Zweihundertachtunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Saarbrücken) (LuftVODV 238)

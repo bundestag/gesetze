@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz
 layout: default
 slug: vudat-dv
+
 ---
 
 # Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz (VUDat-DV)

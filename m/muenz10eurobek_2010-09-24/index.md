@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „175 Jahre Eisenbahn in Deutschland“)
 layout: default
 slug: m_nz10eurobek_2010-09-24
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „175 Jahre Eisenbahn in Deutschland“) (Münz10EuroBek 2010-09-24)

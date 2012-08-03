@@ -2,6 +2,7 @@
 Title: Verordnung über die ärztlichen Untersuchungen nach dem Jugendarbeitsschutzgesetz
 layout: default
 slug: jarbschuv
+
 ---
 
 # Verordnung über die ärztlichen Untersuchungen nach dem Jugendarbeitsschutzgesetz (JArbSchUV)

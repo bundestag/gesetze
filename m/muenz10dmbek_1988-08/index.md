@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze Arthur Schopenhauer)
 layout: default
 slug: m_nz10dmbek_1988-08
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Arthur Schopenhauer) (Münz10DMBek 1988-08)

@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 3. März 1973 über den internationalen 
   mit gefährdeten Arten freilebender Tiere und Pflanzen
 layout: default
 slug: artschutz_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 3. März 1973 über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (ArtSchutzÜbkG)

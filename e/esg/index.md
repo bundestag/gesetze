@@ -3,6 +3,7 @@ Title: Gesetz über die Sicherstellung der Versorgung mit Erzeugnissen der Ernä
   und Landwirtschaft sowie der Forst- und Holzwirtschaft
 layout: default
 slug: esg
+
 ---
 
 # Gesetz über die Sicherstellung der Versorgung mit Erzeugnissen der Ernährungs- und Landwirtschaft sowie der Forst- und Holzwirtschaft (ESG)

@@ -3,6 +3,7 @@ Title: Erlaß über die Neufassung des Statuts des "Verdienstordens der Bundesre
   Deutschland"
 layout: default
 slug: verdordenneuferl
+
 ---
 
 # Erlaß über die Neufassung des Statuts des "Verdienstordens der Bundesrepublik Deutschland" (VerdOrdenNeufErl)

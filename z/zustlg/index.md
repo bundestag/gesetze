@@ -2,6 +2,7 @@
 Title: Gesetz zur Erleichterung der Verwaltungsreform in den Ländern
 layout: default
 slug: zustlg
+
 ---
 
 # Gesetz zur Erleichterung der Verwaltungsreform in den Ländern (ZustLG)

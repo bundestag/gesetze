@@ -2,6 +2,7 @@
 Title: Verordnung über die Angabe von Arzneimittelbestandteilen
 layout: default
 slug: ambtangv
+
 ---
 
 # Verordnung über die Angabe von Arzneimittelbestandteilen (AMBtAngV)

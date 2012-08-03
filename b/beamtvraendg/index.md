@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung beamtenversorgungsrechtlicher Vorschriften
 layout: default
 slug: beamtvr_ndg
+
 ---
 
 # Gesetz zur Änderung beamtenversorgungsrechtlicher Vorschriften (BeamtVRÄndG)

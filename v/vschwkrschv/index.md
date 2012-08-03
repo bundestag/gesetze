@@ -2,6 +2,7 @@
 Title: Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit
 layout: default
 slug: vschwkrschv
+
 ---
 
 # Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit (VSchwKrSchV)

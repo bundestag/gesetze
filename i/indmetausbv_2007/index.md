@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung in den industriellen Metallberufen
 layout: default
 slug: indmetausbv_2007
+
 ---
 
 # Verordnung über die Berufsausbildung in den industriellen Metallberufen (IndMetAusbV 2007)

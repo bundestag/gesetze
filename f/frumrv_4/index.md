@@ -3,6 +3,7 @@ Title: Vierte Verordnung über den Umrechnungssatz für französische Franken be
   des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts
 layout: default
 slug: frumrv_4
+
 ---
 
 # Vierte Verordnung über den Umrechnungssatz für französische Franken bei Anwendung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts (FrUmrV 4)

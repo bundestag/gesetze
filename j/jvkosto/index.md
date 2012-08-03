@@ -2,6 +2,7 @@
 Title: Gesetz über Kosten im Bereich der Justizverwaltung
 layout: default
 slug: jvkosto
+
 ---
 
 # Gesetz über Kosten im Bereich der Justizverwaltung (JVKostO)

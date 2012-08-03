@@ -3,6 +3,7 @@ Title: Achte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Ausla
   (Verlängerung der Anmeldefrist)
 layout: default
 slug: auslwbgdv_8
+
 ---
 
 # Achte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Verlängerung der Anmeldefrist) (AuslWBGDV 8)

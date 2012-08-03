@@ -2,6 +2,7 @@
 Title: Erste Verordnung über steuerliche Konjunkturmaßnahmen
 layout: default
 slug: konjv_1
+
 ---
 
 # Erste Verordnung über steuerliche Konjunkturmaßnahmen (KonjV 1)

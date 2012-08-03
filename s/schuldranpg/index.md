@@ -3,6 +3,7 @@ Title: Gesetz zur Anpassung schuldrechtlicher Nutzungsverhältnisse an Grundstü
   im Beitrittsgebiet
 layout: default
 slug: schuldranpg
+
 ---
 
 # Gesetz zur Anpassung schuldrechtlicher Nutzungsverhältnisse an Grundstücken im Beitrittsgebiet (SchuldRAnpG)

@@ -2,6 +2,7 @@
 Title: Fahrschüler-Ausbildungsordnung
 layout: default
 slug: fahrschausbo_2012
+
 ---
 
 # Fahrschüler-Ausbildungsordnung (FahrschAusbO 2012)

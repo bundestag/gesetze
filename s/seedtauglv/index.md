@@ -2,6 +2,7 @@
 Title: Verordnung über die Seediensttauglichkeit
 layout: default
 slug: seedtauglv
+
 ---
 
 # Verordnung über die Seediensttauglichkeit (SeeDTauglV)

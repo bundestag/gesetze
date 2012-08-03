@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Zollverordnung'
+Title: Zollverordnung
 layout: default
 slug: zollv
+
 ---
 
 # Zollverordnung (ZollV)

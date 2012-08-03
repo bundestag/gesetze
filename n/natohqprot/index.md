@@ -3,6 +3,7 @@ Title: Protokoll über die Rechtsstellung der auf Grund des Nordatlantikvertrags
   internationalen militärischen Hauptquartiere
 layout: default
 slug: natohqprot
+
 ---
 
 # Protokoll über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten internationalen militärischen Hauptquartiere (NATOHQProt)

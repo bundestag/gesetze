@@ -3,6 +3,7 @@ Title: Verordnung zur Durchführung des § 6 des Gesetzes zur vorläufigen Regel
   Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen
 layout: default
 slug: rvermvg_6dv
+
 ---
 
 # Verordnung zur Durchführung des § 6 des Gesetzes zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen (RVermVG§6DV)

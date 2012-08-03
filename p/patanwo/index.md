@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Patentanwaltsordnung'
+Title: Patentanwaltsordnung
 layout: default
 slug: patanwo
+
 ---
 
 # Patentanwaltsordnung (PatAnwO)

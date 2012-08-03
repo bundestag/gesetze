@@ -3,6 +3,7 @@ Title: Verordnung zur Aufteilung und Geltendmachung der Haftungsbeträge durch d
   Spitzenverband Bund der Krankenkassen bei Insolvenz oder Schließung einer Krankenkasse
 layout: default
 slug: kkinsov
+
 ---
 
 # Verordnung zur Aufteilung und Geltendmachung der Haftungsbeträge durch den Spitzenverband Bund der Krankenkassen bei Insolvenz oder Schließung einer Krankenkasse (KKInsoV)

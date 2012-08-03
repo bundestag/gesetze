@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung
-  des Fonds "Deutsche Einheit"'
+Title: Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds
+  "Deutsche Einheit"
 layout: default
 slug: strukthigaufhdefasg
+
 ---
 
 # Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds "Deutsche Einheit" (StruktHiGAufhDEFASG)

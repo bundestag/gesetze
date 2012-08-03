@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Investitionszulagengesetz 1996'
+Title: Investitionszulagengesetz 1996
 layout: default
 slug: invzulg_1991
+
 ---
 
 # Investitionszulagengesetz 1996 (InvZulG 1991)

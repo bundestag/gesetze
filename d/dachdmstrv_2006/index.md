@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsa
   in den Teilen I und II der Meisterprüfung im  Dachdecker-Handwerk
 layout: default
 slug: dachdmstrv_2006
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im  Dachdecker-Handwerk (DachdMstrV 2006)

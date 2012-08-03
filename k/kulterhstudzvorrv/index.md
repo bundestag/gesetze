@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die "In
   Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom
 layout: default
 slug: kulterhstudzvorrv
+
 ---
 
 # Verordnung über die Gewährung von Vorrechten und Befreiungen an die "Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom (KultErhStudZVorRV)

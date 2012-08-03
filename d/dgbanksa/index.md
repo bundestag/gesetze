@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Satzung DG BANK AG'
+Title: Satzung DG BANK AG
 layout: default
 slug: dgbanksa
+
 ---
 
 # Satzung DG BANK AG (DGBankSa)

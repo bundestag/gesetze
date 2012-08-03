@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Wehrdisziplinarrechts'
+Title: Gesetz zur Neuordnung des Wehrdisziplinarrechts
 layout: default
 slug: wdneuog
+
 ---
 
 # Gesetz zur Neuordnung des Wehrdisziplinarrechts (WDNeuOG)

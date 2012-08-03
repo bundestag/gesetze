@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Erstes Gesetz zur Reform des Ehe- und Familienrechts'
+Title: Erstes Gesetz zur Reform des Ehe- und Familienrechts
 layout: default
 slug: eherg_1
+
 ---
 
 # Erstes Gesetz zur Reform des Ehe- und Familienrechts (EheRG 1)

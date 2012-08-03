@@ -4,6 +4,7 @@ Title: Sechste Anordnung über die Übertragung von Zuständigkeiten auf dem Geb
   Post- und Fernmeldewesen - 5. Ergänzung der ZOVers -
 layout: default
 slug: bmpzversano_6
+
 ---
 
 # Sechste Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesministers für das Post- und Fernmeldewesen - 5. Ergänzung der ZOVers - (BMPZVersAnO 6)

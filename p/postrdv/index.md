@@ -4,6 +4,7 @@ Title: Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversi
   AG
 layout: default
 slug: postrdv
+
 ---
 
 # Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversicherung und anderer Sozialversicherungsträger durch den Renten Service der Deutschen Post AG (PostRDV)

@@ -3,6 +3,7 @@ Title: Gesetz über den Schutz der Urheberrechte der Angehörigen der Vereinigte
   von Amerika
 layout: default
 slug: urhusag
+
 ---
 
 # Gesetz über den Schutz der Urheberrechte der Angehörigen der Vereinigten Staaten von Amerika (UrhUSAG)

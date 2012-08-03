@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Erstes Gesetz zur Bereinigung des Verwaltungsverfahrensrechts'
+Title: Erstes Gesetz zur Bereinigung des Verwaltungsverfahrensrechts
 layout: default
 slug: vwvfrberg_1
+
 ---
 
 # Erstes Gesetz zur Bereinigung des Verwaltungsverfahrensrechts (VwVfRBerG 1)

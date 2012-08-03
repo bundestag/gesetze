@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Vereinsregisterverordnung'
+Title: Vereinsregisterverordnung
 layout: default
 slug: vrv
+
 ---
 
 # Vereinsregisterverordnung (VRV)

@@ -8,6 +8,7 @@ Title: Vertrag zwischen dem Königreich Belgien, dem Königreich Dänemark, der 
   Wirtschaftsgemeinschaft und zur Europäischen Atomgemeinschaft
 layout: default
 slug: egbeitrvtr_esp_prt
+
 ---
 
 # Vertrag zwischen dem Königreich Belgien, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Griechischen Republik, der Französischen Republik, Irland, der Italienischen Republik, dem Großherzogtum Luxemburg, dem Königreich der Niederlande, dem Vereinigten Königreich Großbritannien und Nordirland (Mitgliedstaaten der Europäischen Gemeinschaften) und dem Königreich Spanien und der Portugiesischen Republik über den Beitritt des Königreichs Spanien und der Portugiesischen Republik zur Europäischen Wirtschaftsgemeinschaft und zur Europäischen Atomgemeinschaft (EGBeitrVtr ESP/PRT)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Rentenanpassungsgesetz 1990'
+Title: Rentenanpassungsgesetz 1990
 layout: default
 slug: rag_1990
+
 ---
 
 # Rentenanpassungsgesetz 1990 (RAG 1990)

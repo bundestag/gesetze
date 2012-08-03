@@ -4,6 +4,7 @@ Title: Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufsso
   und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) -
 layout: default
 slug: bbvlg_1975
+
 ---
 
 # Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit - Art. VI Nr. 1 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) - (BBVLG 1975)

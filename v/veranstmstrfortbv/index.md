@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
   Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik
 layout: default
 slug: veranstmstrfortbv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik (VeranstMstrFortbV)

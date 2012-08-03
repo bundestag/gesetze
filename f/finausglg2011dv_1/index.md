@@ -3,6 +3,7 @@ Title: Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgle
   2011
 layout: default
 slug: finausglg2011dv_1
+
 ---
 
 # Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2011 (FinAusglG2011DV 1)

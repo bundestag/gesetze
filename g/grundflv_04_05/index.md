@@ -4,6 +4,7 @@ Title: Verordnung über die Saldierung von Grundflächen im Wirtschaftsjahr 2004
   landwirtschaftlicher Kulturpflanzen
 layout: default
 slug: grundflv_04_05
+
 ---
 
 # Verordnung über die Saldierung von Grundflächen im Wirtschaftsjahr 2004/2005 im Rahmen der gemeinschaftsrechtlichen Stützungsregelung für Erzeuger bestimmter landwirtschaftlicher Kulturpflanzen (GrundflV 04/05)

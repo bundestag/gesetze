@@ -3,6 +3,7 @@ Title: Verordnung über die pauschale Erstattung von Ausgaben der Träger der Re
   für Leistungen zur Rehabilitation
 layout: default
 slug: rehaerstv
+
 ---
 
 # Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung für Leistungen zur Rehabilitation (RehaErstV)

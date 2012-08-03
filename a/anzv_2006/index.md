@@ -2,6 +2,7 @@
 Title: Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz
 layout: default
 slug: anzv_2006
+
 ---
 
 # Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz (AnzV 2006)

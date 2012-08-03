@@ -2,6 +2,7 @@
 Title: Gesetz über die Berechnung strafrechtlicher Verjährungsfristen
 layout: default
 slug: strverjfrg
+
 ---
 
 # Gesetz über die Berechnung strafrechtlicher Verjährungsfristen (StrVerjFrG)

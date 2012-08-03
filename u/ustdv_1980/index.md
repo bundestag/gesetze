@@ -2,6 +2,7 @@
 Title: Umsatzsteuer-Durchführungsverordnung
 layout: default
 slug: ustdv_1980
+
 ---
 
 # Umsatzsteuer-Durchführungsverordnung (UStDV 1980)

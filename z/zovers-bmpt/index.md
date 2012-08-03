@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der 
   Versorgung im Geschäftsbereich des Bundesministeriums für Post und Telekommunikation
 layout: default
 slug: zovers-bmpt
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich des Bundesministeriums für Post und Telekommunikation (ZOVers-BMPT)

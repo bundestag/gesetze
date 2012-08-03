@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Schutz deutschen Kulturgutes gegen Abwanderung'
+Title: Gesetz zum Schutz deutschen Kulturgutes gegen Abwanderung
 layout: default
 slug: kultgschg
+
 ---
 
 # Gesetz zum Schutz deutschen Kulturgutes gegen Abwanderung (KultgSchG)

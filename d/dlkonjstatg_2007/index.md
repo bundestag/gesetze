@@ -2,6 +2,7 @@
 Title: Gesetz über konjunkturstatistische Erhebungen in bestimmten Dienstleistungsbereichen
 layout: default
 slug: dlkonjstatg_2007
+
 ---
 
 # Gesetz über konjunkturstatistische Erhebungen in bestimmten Dienstleistungsbereichen (DLKonjStatG 2007)

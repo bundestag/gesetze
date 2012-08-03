@@ -3,6 +3,7 @@ Title: Verordnung über die Erfassung und Übermittlung von Daten für die Träg
   Sozialversicherung
 layout: default
 slug: de_v
+
 ---
 
 # Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (DEÜV)

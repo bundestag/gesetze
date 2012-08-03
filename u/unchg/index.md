@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zum Beitritt der Bundesrepublik Deutschland zur Charta
-  der Vereinten Nationen'
+Title: Gesetz zum Beitritt der Bundesrepublik Deutschland zur Charta der Vereinten
+  Nationen
 layout: default
 slug: unchg
+
 ---
 
 # Gesetz zum Beitritt der Bundesrepublik Deutschland zur Charta der Vereinten Nationen (UNChG)

@@ -2,6 +2,7 @@
 Title: Verordnung über Lehrgänge nach dem Tierzuchtgesetz
 layout: default
 slug: tierzg1989lehrgv
+
 ---
 
 # Verordnung über Lehrgänge nach dem Tierzuchtgesetz (TierZG1989LehrgV)

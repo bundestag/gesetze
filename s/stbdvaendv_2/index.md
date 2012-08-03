@@ -3,6 +3,7 @@ Title: Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vors
   über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 layout: default
 slug: stbdv_ndv_2
+
 ---
 
 # Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBDVÄndV 2)

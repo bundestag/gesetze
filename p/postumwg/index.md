@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Umwandlung der Unternehmen der Deutschen Bundespost
-  in die Rechtsform der Aktiengesellschaft'
+Title: Gesetz zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform
+  der Aktiengesellschaft
 layout: default
 slug: postumwg
+
 ---
 
 # Gesetz zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft (PostUmwG)

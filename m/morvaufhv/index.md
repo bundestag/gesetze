@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften
-  im Bereich Zucker'
+Title: Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker
 layout: default
 slug: morvaufhv
+
 ---
 
 # Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker (MORVAufhV)

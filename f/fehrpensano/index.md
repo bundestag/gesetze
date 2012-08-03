@@ -3,6 +3,7 @@ Title: Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und fü
   des Faschismus sowie für deren Hinterbliebene
 layout: default
 slug: fehrpensano
+
 ---
 
 # Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte des Faschismus sowie für deren Hinterbliebene (FEhrPensAnO)

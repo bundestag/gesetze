@@ -2,6 +2,7 @@
 Title: Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel
 layout: default
 slug: amradv
+
 ---
 
 # Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel (AMRadV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Elfte Verordnung zum Produktsicherheitsgesetz (Explosionsschutzverordnung)'
+Title: Elfte Verordnung zum Produktsicherheitsgesetz (Explosionsschutzverordnung)
 layout: default
 slug: gsgv_11
+
 ---
 
 # Elfte Verordnung zum Produktsicherheitsgesetz (Explosionsschutzverordnung) (GSGV 11)

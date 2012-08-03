@@ -2,6 +2,7 @@
 Title: Verordnung über den Erholungsurlaub
 layout: default
 slug: eurlv_ddr
+
 ---
 
 # Verordnung über den Erholungsurlaub (EUrlV DDR)

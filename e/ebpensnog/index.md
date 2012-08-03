@@ -2,6 +2,7 @@
 Title: Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
 layout: default
 slug: ebpensnog
+
 ---
 
 # Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen (EBPensNOG)

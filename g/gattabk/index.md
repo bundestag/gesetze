@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Allgemeines Zoll- und Handelsabkommen von Genf (General Agreement
-  on Tariffs and Trade)'
+Title: Allgemeines Zoll- und Handelsabkommen von Genf (General Agreement on Tariffs
+  and Trade)
 layout: default
 slug: gattabk
+
 ---
 
 # Allgemeines Zoll- und Handelsabkommen von Genf (General Agreement on Tariffs and Trade) (GATTAbk)

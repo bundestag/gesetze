@@ -2,6 +2,7 @@
 Title: Verordnung über das Klageregister nach dem Kapitalanleger- Musterverfahrensgesetz
 layout: default
 slug: klagregv
+
 ---
 
 # Verordnung über das Klageregister nach dem Kapitalanleger- Musterverfahrensgesetz (KlagRegV)

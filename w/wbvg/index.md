@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung von Verträgen über Wohnraum mit Pflege- oder Betreuungsleistungen
 layout: default
 slug: wbvg
+
 ---
 
 # Gesetz zur Regelung von Verträgen über Wohnraum mit Pflege- oder Betreuungsleistungen (WBVG)

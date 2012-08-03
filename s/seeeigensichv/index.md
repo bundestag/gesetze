@@ -2,6 +2,7 @@
 Title: Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren
 layout: default
 slug: seeeigensichv
+
 ---
 
 # Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren (SeeEigensichV)

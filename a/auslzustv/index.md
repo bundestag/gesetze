@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit der Verwaltungsbehörden der Kriegsop
   für Berechtigte im Ausland
 layout: default
 slug: auslzustv
+
 ---
 
 # Verordnung über die Zuständigkeit der Verwaltungsbehörden der Kriegsopferversorgung für Berechtigte im Ausland (AuslZustV)

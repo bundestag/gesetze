@@ -3,6 +3,7 @@ Title: Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Recht
   Gesundheitswesens
 layout: default
 slug: geswzustg
+
 ---
 
 # Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des Gesundheitswesens (GesWZustG)

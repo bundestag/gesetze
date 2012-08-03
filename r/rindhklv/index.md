@@ -2,6 +2,7 @@
 Title: Verordnung über gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
 layout: default
 slug: rindhklv
+
 ---
 
 # Verordnung über gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper (RindHKlV)

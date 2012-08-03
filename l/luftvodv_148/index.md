@@ -4,6 +4,7 @@ Title: Hundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnun
   Hof)
 layout: default
 slug: luftvodv_148
+
 ---
 
 # Hundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Hof) (LuftVODV 148)

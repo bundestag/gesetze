@@ -3,6 +3,7 @@ Title: Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenv
   im Jahre 2003
 layout: default
 slug: gkvstabg_2003
+
 ---
 
 # Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung im Jahre 2003 (GKVStabG 2003)

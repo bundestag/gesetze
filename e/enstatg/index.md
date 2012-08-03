@@ -2,6 +2,7 @@
 Title: Gesetz über Energiestatistik
 layout: default
 slug: enstatg
+
 ---
 
 # Gesetz über Energiestatistik (EnStatG)

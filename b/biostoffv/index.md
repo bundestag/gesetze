@@ -3,6 +3,7 @@ Title: Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit bi
   Arbeitsstoffen
 layout: default
 slug: biostoffv
+
 ---
 
 # Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit biologischen Arbeitsstoffen (BioStoffV)

@@ -2,6 +2,7 @@
 Title: Berufszugangsverordnung für den Straßenpersonenverkehr
 layout: default
 slug: pbzugv
+
 ---
 
 # Berufszugangsverordnung für den Straßenpersonenverkehr (PBZugV)

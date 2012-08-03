@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Fahrlehrer-Ausbildungsordnung'
+Title: Fahrlehrer-Ausbildungsordnung
 layout: default
 slug: fahrlausbo_2012
+
 ---
 
 # Fahrlehrer-Ausbildungsordnung (FahrlAusbO 2012)

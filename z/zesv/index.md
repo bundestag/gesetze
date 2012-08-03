@@ -3,6 +3,7 @@ Title: Verordnung über die Zentrale Ethik-Kommission für Stammzellenforschung 
   über die zuständige Behörde nach dem Stammzellgesetz
 layout: default
 slug: zesv
+
 ---
 
 # Verordnung über die Zentrale Ethik-Kommission für Stammzellenforschung und über die zuständige Behörde nach dem Stammzellgesetz (ZESV)

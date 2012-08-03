@@ -3,6 +3,7 @@ Title: Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundes
   der Justiz bei Klagen aus dem Beamtenverhältnis
 layout: default
 slug: bmjvertrano_2009
+
 ---
 
 # Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministeriums der Justiz bei Klagen aus dem Beamtenverhältnis (BMJVertrAnO 2009)

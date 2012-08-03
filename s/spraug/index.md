@@ -2,6 +2,7 @@
 Title: Gesetz über Sprecherausschüsse der leitenden Angestellten
 layout: default
 slug: spraug
+
 ---
 
 # Gesetz über Sprecherausschüsse der leitenden Angestellten (SprAuG)

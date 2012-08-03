@@ -3,6 +3,7 @@ Title: Verordnung zur Gleichstellung österreichischer Meisterprüfungszeugnisse
   Meisterprüfungszeugnissen im Handwerk
 layout: default
 slug: meistpr_glv
+
 ---
 
 # Verordnung zur Gleichstellung österreichischer Meisterprüfungszeugnisse mit Meisterprüfungszeugnissen im Handwerk (MeistPrÖGlV)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Salmonellose der Rinder'
+Title: Verordnung zum Schutz gegen die Salmonellose der Rinder
 layout: default
 slug: rindsalmv
+
 ---
 
 # Verordnung zum Schutz gegen die Salmonellose der Rinder (RindSalmV)

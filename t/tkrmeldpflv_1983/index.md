@@ -2,6 +2,7 @@
 Title: Verordnung über meldepflichtige Tierkrankheiten
 layout: default
 slug: tkrmeldpflv_1983
+
 ---
 
 # Verordnung über meldepflichtige Tierkrankheiten (TKrMeldpflV 1983)

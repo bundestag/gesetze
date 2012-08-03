@@ -3,6 +3,7 @@ Title: Zweite Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenver
   für die Prüfung überwachungsbedürftiger Anlagen
 layout: default
 slug: t_prkosto1992gebvanpv_2
+
 ---
 
 # Zweite Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen (TÜPrKostO1992GebVAnpV 2)

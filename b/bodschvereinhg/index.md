@@ -2,6 +2,7 @@
 Title: Gesetz zur Vereinheitlichung der Rechtsverhältnisse bei Bodenschätzen
 layout: default
 slug: bodschvereinhg
+
 ---
 
 # Gesetz zur Vereinheitlichung der Rechtsverhältnisse bei Bodenschätzen (BodSchVereinhG)

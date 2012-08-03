@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deu
   Pfennig
 layout: default
 slug: m_nz50pfbek_1950
+
 ---
 
 # Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deutschen Pfennig (Münz50PfBek 1950)

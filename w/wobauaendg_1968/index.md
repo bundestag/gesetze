@@ -2,6 +2,7 @@
 Title: Gesetz zur Fortführung des sozialen Wohnungsbaus
 layout: default
 slug: wobau_ndg_1968
+
 ---
 
 # Gesetz zur Fortführung des sozialen Wohnungsbaus (WoBauÄndG 1968)

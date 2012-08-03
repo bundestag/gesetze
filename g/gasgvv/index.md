@@ -3,6 +3,7 @@ Title: Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haus
   und die Ersatzversorgung mit Gas aus dem Niederdrucknetz
 layout: default
 slug: gasgvv
+
 ---
 
 # Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Gas aus dem Niederdrucknetz (GasGVV)

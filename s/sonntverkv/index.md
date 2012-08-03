@@ -2,6 +2,7 @@
 Title: Verordnung über den Verkauf bestimmter Waren an Sonn- und Feiertagen
 layout: default
 slug: sonntverkv
+
 ---
 
 # Verordnung über den Verkauf bestimmter Waren an Sonn- und Feiertagen (SonntVerkV)

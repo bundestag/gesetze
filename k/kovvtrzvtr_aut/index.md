@@ -4,6 +4,7 @@ Title: Zusatzvertrag zur Durchführung und Ergänzung des Vertrages vom 7. Mai 1
   und Beschäftigung Schwerbeschädigter
 layout: default
 slug: kovvtrzvtr_aut
+
 ---
 
 # Zusatzvertrag zur Durchführung und Ergänzung des Vertrages vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter (KOVVtrZVtr AUT)

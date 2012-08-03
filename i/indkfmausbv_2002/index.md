@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau
 layout: default
 slug: indkfmausbv_2002
+
 ---
 
 # Verordnung über die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau (IndKfmAusbV 2002)

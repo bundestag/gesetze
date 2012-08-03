@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 12. Juli 2001 zwischen der Bundesrepublik Deut
   und der Volksrepublik China über Sozialversicherung
 layout: default
 slug: svabkchng
+
 ---
 
 # Gesetz zu dem Abkommen vom 12. Juli 2001 zwischen der Bundesrepublik Deutschland und der Volksrepublik China über Sozialversicherung (SVAbkCHNG)

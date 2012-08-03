@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Sicherung der Energieversorgung'
+Title: Gesetz zur Sicherung der Energieversorgung
 layout: default
 slug: ensig_1975
+
 ---
 
 # Gesetz zur Sicherung der Energieversorgung (EnSiG 1975)

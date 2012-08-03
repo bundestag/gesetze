@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Allgemeines Eisenbahngesetz'
+Title: Allgemeines Eisenbahngesetz
 layout: default
 slug: aeg
+
 ---
 
 # Allgemeines Eisenbahngesetz (AEG)

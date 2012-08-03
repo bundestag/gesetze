@@ -2,6 +2,7 @@
 Title: Gesetz über den Zivildienst der Kriegsdienstverweigerer
 layout: default
 slug: ersdig
+
 ---
 
 # Gesetz über den Zivildienst der Kriegsdienstverweigerer (ErsDiG)

@@ -1,9 +1,10 @@
 [^F776942_01_BJNR134600012]
 Durchführungsverordnung zum Fahrlehrergesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: fahrlgdv_2012
+
 ---
 
 #  (FahrlGDV 2012)

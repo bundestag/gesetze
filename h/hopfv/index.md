@@ -1,9 +1,10 @@
 [^F771822_01_BJNR015200009]
 Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: hopfv
+
 ---
 
 #  (HopfV)

@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung und Ergänzung des Gesetzes zur Wiedergutmachung nat
   Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland
 layout: default
 slug: bwkauslg_ndg
+
 ---
 
 # Gesetz zur Änderung und Ergänzung des Gesetzes zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland (BWKAuslGÄndG)

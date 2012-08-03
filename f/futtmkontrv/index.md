@@ -3,6 +3,7 @@ Title: Verordnung 체ber die fachlichen Anforderungen an die in der Futtermittel�
   t채tigen Kontrolleure
 layout: default
 slug: futtmkontrv
+
 ---
 
 # Verordnung 체ber die fachlichen Anforderungen an die in der Futtermittel체berwachung t채tigen Kontrolleure (FuttMKontrV)

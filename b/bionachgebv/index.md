@@ -3,6 +3,7 @@ Title: Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Lan
   und Ernährung nach der Biomassestrom-Nachhaltigkeitsverordnung und der Biokraftstoff-Nachhaltigkeitsverordnung
 layout: default
 slug: bionachgebv
+
 ---
 
 # Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach der Biomassestrom-Nachhaltigkeitsverordnung und der Biokraftstoff-Nachhaltigkeitsverordnung (BioNachGebV)

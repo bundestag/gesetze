@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes
 layout: default
 slug: bodsch_tzdv
+
 ---
 
 # Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes (BodSchätzDV)

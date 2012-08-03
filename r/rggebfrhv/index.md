@@ -2,6 +2,7 @@
 Title: Verordnung, betreffend die Gebührenfreiheit in dem Verfahren vor dem Reichsgericht
 layout: default
 slug: rggebfrhv
+
 ---
 
 # Verordnung, betreffend die Gebührenfreiheit in dem Verfahren vor dem Reichsgericht (RGGebFrhV)

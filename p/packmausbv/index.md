@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur
 Packmitteltechnologin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: packmausbv
+
 ---
 
 #  (PackmAusbV)

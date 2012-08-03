@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen
-  Unrechts in der Strafrechtspflege'
+Title: Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der
+  Strafrechtspflege
 layout: default
 slug: g21_by
+
 ---
 
 # Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege (G21 BY)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung von Kostenvorschriften des Atomgesetzes
 layout: default
 slug: atgkost_ndg
+
 ---
 
 # Gesetz zur Änderung von Kostenvorschriften des Atomgesetzes (AtGKostÄndG)

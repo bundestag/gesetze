@@ -2,6 +2,7 @@
 Title: Verordnung über die Eignung der Ausbildungsstätte in der ländlichen Hauswirtschaft
 layout: default
 slug: lhauswausbstv
+
 ---
 
 # Verordnung über die Eignung der Ausbildungsstätte in der ländlichen Hauswirtschaft (LHauswAusbStV)

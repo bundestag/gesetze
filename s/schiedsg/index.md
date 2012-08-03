@@ -2,6 +2,7 @@
 Title: Gesetz über die Schiedsstellen in den Gemeinden
 layout: default
 slug: schiedsg
+
 ---
 
 # Gesetz über die Schiedsstellen in den Gemeinden (SchiedsG)

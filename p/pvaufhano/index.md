@@ -3,6 +3,7 @@ Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der f
   Personenversicherungen der Bürger
 layout: default
 slug: pvaufhano
+
 ---
 
 # Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen Personenversicherungen der Bürger (PVAufhAnO)

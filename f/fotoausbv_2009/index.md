@@ -1,9 +1,10 @@
 [^f772115_01_BJNR105100009]
 Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: fotoausbv_2009
+
 ---
 
 #  (FotoAusbV 2009)

@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur
 Fotomedienfachfrau
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: fotomedfachausbv
+
 ---
 
 #  (FotoMedFachAusbV)

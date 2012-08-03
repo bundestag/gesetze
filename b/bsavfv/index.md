@@ -2,6 +2,7 @@
 Title: Verordnung über Verfahren vor dem Bundessortenamt
 layout: default
 slug: bsavfv
+
 ---
 
 # Verordnung über Verfahren vor dem Bundessortenamt (BSAVfV)

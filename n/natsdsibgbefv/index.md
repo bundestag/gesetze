@@ -3,6 +3,7 @@ Title: Verordnung über das Befahren der Bundeswasserstraßen in dem Naturschutz
   "Dassower See, Inseln Buchhorst und Graswerder (Plönswerder)"
 layout: default
 slug: natsdsibgbefv
+
 ---
 
 # Verordnung über das Befahren der Bundeswasserstraßen in dem Naturschutzgebiet "Dassower See, Inseln Buchhorst und Graswerder (Plönswerder)" (NatSDSIBGBefV)

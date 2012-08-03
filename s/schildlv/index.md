@@ -2,6 +2,7 @@
 Title: Verordnung zur Bekämpfung der San-Jose-Schildlaus
 layout: default
 slug: schildlv
+
 ---
 
 # Verordnung zur Bekämpfung der San-Jose-Schildlaus (SchildlV)

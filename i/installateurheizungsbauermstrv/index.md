@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk
 layout: default
 slug: installateurheizungsbauermstrv
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk (InstallateurHeizungsbauerMstrV)

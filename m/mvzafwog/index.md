@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung
-  im Wohnungswesen'
+Title: Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen
 layout: default
 slug: mvzafwog
+
 ---
 
 # Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen (MVzAFWoG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Übertragung von Zuständigkeiten im Bereich des tec
   Arbeitsschutzes bei Eisenbahnen des Bundes
 layout: default
 slug: ebarbschv
+
 ---
 
 # Verordnung über die Übertragung von Zuständigkeiten im Bereich des technischen Arbeitsschutzes bei Eisenbahnen des Bundes (EBArbSchV)

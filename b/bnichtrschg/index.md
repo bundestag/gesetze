@@ -3,6 +3,7 @@ Title: Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes un
   Verkehrsmitteln
 layout: default
 slug: bnichtrschg
+
 ---
 
 # Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes und öffentlichen Verkehrsmitteln (BNichtrSchG)

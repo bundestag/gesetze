@@ -3,6 +3,7 @@ Title: Zweiter Staatsvertrag zwischen dem Freistaat Sachsen und dem Freistaat Th
   über die Änderung der gemeinsamen Landesgrenze
 layout: default
 slug: gr_ndstvtr_sn_th_2
+
 ---
 
 # Zweiter Staatsvertrag zwischen dem Freistaat Sachsen und dem Freistaat Thüringen über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtr SN/TH 2)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
 layout: default
 slug: nokbefabgv
+
 ---
 
 # Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal (NOKBefAbgV)

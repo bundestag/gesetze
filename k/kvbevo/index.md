@@ -4,6 +4,7 @@ Title: Verordnung zur tarifbezogenen Ermittlung der steuerlich berücksichtigung
   1 Nummer 3 Buchstabe a des Einkommensteuergesetzes
 layout: default
 slug: kvbevo
+
 ---
 
 # Verordnung zur tarifbezogenen Ermittlung der steuerlich berücksichtigungsfähigen Beiträge zum Erwerb eines Krankenversicherungsschutzes im Sinne des § 10 Absatz 1 Nummer 3 Buchstabe a des Einkommensteuergesetzes (KVBEVO)

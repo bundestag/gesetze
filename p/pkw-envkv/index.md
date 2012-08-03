@@ -1,8 +1,9 @@
 Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO
 ---
-Title: !!python/unicode '-Emissionen und Stromverbrauch neuer Personenkraftwagen'
+Title: -Emissionen und Stromverbrauch neuer Personenkraftwagen
 layout: default
 slug: pkw-envkv
+
 ---
 
 # -Emissionen und Stromverbrauch neuer Personenkraftwagen (Pkw-EnVKV)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Beruf der Podologin und des Podologen
 layout: default
 slug: podg
+
 ---
 
 # Gesetz über den Beruf der Podologin und des Podologen (PodG)

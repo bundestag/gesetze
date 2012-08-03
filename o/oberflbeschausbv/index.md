@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin
 layout: default
 slug: oberflbeschausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin (OberflbeschAusbV)

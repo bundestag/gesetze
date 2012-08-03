@@ -3,6 +3,7 @@ Title: Gesetz über Rechtsverhältnisse der Abgeordneten der Volkskammer der Deu
   Demokratischen Republik
 layout: default
 slug: vkabgg
+
 ---
 
 # Gesetz über Rechtsverhältnisse der Abgeordneten der Volkskammer der Deutschen Demokratischen Republik (VKAbgG)

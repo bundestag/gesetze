@@ -2,6 +2,7 @@
 Title: Gesetz über die Erstreckung von gewerblichen Schutzrechten
 layout: default
 slug: erstrg
+
 ---
 
 # Gesetz über die Erstreckung von gewerblichen Schutzrechten (ErstrG)

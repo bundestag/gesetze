@@ -2,6 +2,7 @@
 Title: Verordnung über die Kennzeichnung von Lebensmitteln
 layout: default
 slug: lmkv
+
 ---
 
 # Verordnung über die Kennzeichnung von Lebensmitteln (LMKV)

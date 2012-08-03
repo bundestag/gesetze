@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eichordnung'
+Title: Eichordnung
 layout: default
 slug: eo_1988
+
 ---
 
 # Eichordnung (EO 1988)

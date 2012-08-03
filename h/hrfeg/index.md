@@ -2,6 +2,7 @@
 Title: Gesetz zur Fortentwicklung des Haushaltsrechts von Bund und Ländern
 layout: default
 slug: hrfeg
+
 ---
 
 # Gesetz zur Fortentwicklung des Haushaltsrechts von Bund und Ländern (HRFEG)

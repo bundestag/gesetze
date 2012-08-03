@@ -2,6 +2,7 @@
 Title: Verordnung über die bauliche Nutzung der Grundstücke
 layout: default
 slug: baunvo
+
 ---
 
 # Verordnung über die bauliche Nutzung der Grundstücke (BauNVO)

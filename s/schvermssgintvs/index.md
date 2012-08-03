@@ -3,6 +3,7 @@ Title: Internationale Vorschriften für die Schiffsvermessung (Anlage zu dem Üb
   über ein einheitliches System der Schiffsvermessung)
 layout: default
 slug: schvermssgintvs
+
 ---
 
 # Internationale Vorschriften für die Schiffsvermessung (Anlage zu dem Übereinkommen über ein einheitliches System der Schiffsvermessung) (SchVermssgIntVs)

@@ -2,6 +2,7 @@
 Title: Verordnung über den Versicherungsschutz in der Kraftfahrzeug-Haftpflichtversicherung
 layout: default
 slug: kfzpflvv
+
 ---
 
 # Verordnung über den Versicherungsschutz in der Kraftfahrzeug-Haftpflichtversicherung (KfzPflVV)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zum Schutz gegen die Verschleppung von Tierseuchen
-  im Viehverkehr'
+Title: Verordnung zum Schutz gegen die Verschleppung von Tierseuchen im Viehverkehr
 layout: default
 slug: viehverkv_2007
+
 ---
 
 # Verordnung zum Schutz gegen die Verschleppung von Tierseuchen im Viehverkehr (ViehVerkV 2007)

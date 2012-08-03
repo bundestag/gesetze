@@ -3,6 +3,7 @@ Title: Zehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß 
   2 des Auslandsunterhaltsgesetzes
 layout: default
 slug: aug_1abs2bek_10
+
 ---
 
 # Zehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes (AUG§1Abs2Bek 10)

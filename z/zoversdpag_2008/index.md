@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der 
   Versorgung im Geschäftsbereich der Deutschen Post AG
 layout: default
 slug: zoversdpag_2008
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich der Deutschen Post AG (ZOVersDPAG 2008)

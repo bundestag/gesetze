@@ -3,9 +3,10 @@ Verordnung über die angemessene Eigenkapitalausstattung von
 Zahlungsinstituten und E-Geld-Instituten nach dem
 Zahlungsdiensteaufsichtsgesetz
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: ziev
+
 ---
 
 #  (ZIEV)

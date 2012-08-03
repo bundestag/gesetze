@@ -3,6 +3,7 @@ Title: Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rente
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 layout: default
 slug: rag_6
+
 ---
 
 # Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (RAG 6)

@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 31. August 1990 zwischen der Bundesrepublik Deu
   - Einigungsvertragsgesetz - und der Vereinbarung vom 18. September 1990
 layout: default
 slug: einigvtrg
+
 ---
 
 # Gesetz zu dem Vertrag vom 31. August 1990 zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertragsgesetz - und der Vereinbarung vom 18. September 1990 (EinigVtrG)

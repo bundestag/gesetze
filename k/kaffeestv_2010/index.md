@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Kaffeesteuergesetzes
 layout: default
 slug: kaffeestv_2010
+
 ---
 
 # Verordnung zur Durchführung des Kaffeesteuergesetzes (KaffeeStV 2010)

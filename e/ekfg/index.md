@@ -2,6 +2,7 @@
 Title: Gesetz zur Errichtung eines Sondervermögens „Energie- und Klimafonds“
 layout: default
 slug: ekfg
+
 ---
 
 # Gesetz zur Errichtung eines Sondervermögens „Energie- und Klimafonds“ (EKFG)

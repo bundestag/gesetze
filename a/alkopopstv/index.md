@@ -3,6 +3,7 @@ Title: Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens de
   dem Alkopopsteuergesetz erhobenen Alkopopsteuer
 layout: default
 slug: alkopopstv
+
 ---
 
 # Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach dem Alkopopsteuergesetz erhobenen Alkopopsteuer (AlkopopStV)

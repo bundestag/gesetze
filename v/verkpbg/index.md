@@ -3,6 +3,7 @@ Title: Gesetz zur Beschleunigung der Planungen für Verkehrswege in den neuen L�
   sowie im Land Berlin
 layout: default
 slug: verkpbg
+
 ---
 
 # Gesetz zur Beschleunigung der Planungen für Verkehrswege in den neuen Ländern sowie im Land Berlin (VerkPBG)

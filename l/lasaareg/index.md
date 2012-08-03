@@ -2,6 +2,7 @@
 Title: Gesetz zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
 layout: default
 slug: lasaareg
+
 ---
 
 # Gesetz zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland (LASaarEG)

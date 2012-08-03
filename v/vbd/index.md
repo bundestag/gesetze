@@ -3,6 +3,7 @@ Title: Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehin
   Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
 layout: default
 slug: vbd
+
 ---
 
 # Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehinderte Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz (VBD)

@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Neumann-Gedenkmünze)
 layout: default
 slug: m_nz5dmbek_1978-06
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Neumann-Gedenkmünze) (Münz5DMBek 1978-06)

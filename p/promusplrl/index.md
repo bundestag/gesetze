@@ -2,6 +2,7 @@
 Title: Richtlinien für die Verleihung der PRO MUSICA-Plakette
 layout: default
 slug: promusplrl
+
 ---
 
 # Richtlinien für die Verleihung der PRO MUSICA-Plakette (ProMusPlRL)

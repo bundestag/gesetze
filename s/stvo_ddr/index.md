@@ -2,6 +2,7 @@
 Title: Verordnung über das Verhalten im Straßenverkehr
 layout: default
 slug: stvo_ddr
+
 ---
 
 # Verordnung über das Verhalten im Straßenverkehr (StVO DDR)

@@ -2,6 +2,7 @@
 Title: Fünfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_5_1993
+
 ---
 
 # Fünfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 5 1993)

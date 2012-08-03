@@ -2,6 +2,7 @@
 Title: Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch
 layout: default
 slug: sgb8_ndg_1
+
 ---
 
 # Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch (SGB8ÄndG 1)

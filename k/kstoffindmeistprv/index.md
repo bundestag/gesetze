@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Indust
   Industriemeisterin - Fachrichtung Kunststoff und Kautschuk
 layout: default
 slug: kstoffindmeistprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Kunststoff und Kautschuk (KStoffIndMeistPrV)

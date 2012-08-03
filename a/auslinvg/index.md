@@ -2,6 +2,7 @@
 Title: Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft
 layout: default
 slug: auslinvg
+
 ---
 
 # Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft (AuslInvG)

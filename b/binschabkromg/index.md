@@ -3,6 +3,7 @@ Title: Gesetz zu dem Abkommen vom 22. Oktober 1991 zwischen der Regierung der Bu
   Deutschland und der Regierung von Rumänien über die Schiffahrt auf den Binnenwasserstraßen
 layout: default
 slug: binschabkromg
+
 ---
 
 # Gesetz zu dem Abkommen vom 22. Oktober 1991 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Rumänien über die Schiffahrt auf den Binnenwasserstraßen (BinSchAbkROMG)

@@ -2,9 +2,10 @@
 Verordnung über das Inverkehrbringen und die Aussaat von mit
 bestimmten Pflanzenschutzmitteln behandeltem Maissaatgut
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: maispflschmv
+
 ---
 
 #  (MaisPflSchMV)

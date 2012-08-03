@@ -3,6 +3,7 @@ Title: Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrze
   im Werkverkehr nach dem Einigungsvertrag
 layout: default
 slug: kfzanmverlg
+
 ---
 
 # Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrzeugen im Werkverkehr nach dem Einigungsvertrag (KfzAnmVerlG)

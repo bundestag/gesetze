@@ -3,6 +3,7 @@ Title: Verordnung über die Versorgung mit Hilfsmitteln und über Ersatzleistung
   dem Bundesversorgungsgesetz
 layout: default
 slug: orthv
+
 ---
 
 # Verordnung über die Versorgung mit Hilfsmitteln und über Ersatzleistungen nach dem Bundesversorgungsgesetz (OrthV)

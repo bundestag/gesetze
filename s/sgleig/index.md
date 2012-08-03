@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Gleichstellung von Soldatinnen und Soldaten der
-  Bundeswehr'
+Title: Gesetz zur Gleichstellung von Soldatinnen und Soldaten der Bundeswehr
 layout: default
 slug: sgleig
+
 ---
 
 # Gesetz zur Gleichstellung von Soldatinnen und Soldaten der Bundeswehr (SGleiG)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Arzneimittelpreisverordnung'
+Title: Arzneimittelpreisverordnung
 layout: default
 slug: ampreisv
+
 ---
 
 # Arzneimittelpreisverordnung (AMPreisV)

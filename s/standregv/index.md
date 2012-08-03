@@ -2,6 +2,7 @@
 Title: Verordnung über Standardregistrierungen von Arzneimitteln
 layout: default
 slug: standregv
+
 ---
 
 # Verordnung über Standardregistrierungen von Arzneimitteln (StandRegV)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Satzung der Stiftung "Preußischer Kulturbesitz"
 layout: default
 slug: prkultbsav
+
 ---
 
 # Verordnung über die Satzung der Stiftung "Preußischer Kulturbesitz" (PrKultbSaV)

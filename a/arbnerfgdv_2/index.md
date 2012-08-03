@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zur Durchführung des Gesetzes über Arbeitnehmererfindungen
 layout: default
 slug: arbnerfgdv_2
+
 ---
 
 # Zweite Verordnung zur Durchführung des Gesetzes über Arbeitnehmererfindungen (ArbnErfGDV 2)

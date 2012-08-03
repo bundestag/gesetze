@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachba
   Fachbauleiterin im Tischlerhandwerk
 layout: default
 slug: fachbautischlprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk (FachbauTischlPrV)

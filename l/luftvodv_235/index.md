@@ -4,6 +4,7 @@ Title: Zweihundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-
   und vom Flughafen Nürnberg)
 layout: default
 slug: luftvodv_235
+
 ---
 
 # Zweihundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Nürnberg) (LuftVODV 235)

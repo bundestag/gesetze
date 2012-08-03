@@ -3,6 +3,7 @@ Title: Bekanntmachung, betreffend den gegenseitigen Schutz von Verbandszeichen i
   Deutschen Reich und in Dänemark
 layout: default
 slug: wzdnkbek
+
 ---
 
 # Bekanntmachung, betreffend den gegenseitigen Schutz von Verbandszeichen im Deutschen Reich und in Dänemark (WZDNKBek)

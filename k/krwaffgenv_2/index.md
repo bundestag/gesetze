@@ -3,6 +3,7 @@ Title: Zweite Verordnung über eine Allgemeine Genehmigung nach dem Gesetz über
   Kontrolle von Kriegswaffen
 layout: default
 slug: krwaffgenv_2
+
 ---
 
 # Zweite Verordnung über eine Allgemeine Genehmigung nach dem Gesetz über die Kontrolle von Kriegswaffen (KrWaffGenV 2)

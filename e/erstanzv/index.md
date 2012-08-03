@@ -3,6 +3,7 @@ Title: Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und 
   nach dem Gesetz über das Kreditwesen
 layout: default
 slug: erstanzv
+
 ---
 
 # Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen (ErstAnzV)

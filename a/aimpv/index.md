@@ -2,6 +2,7 @@
 Title: Verordnung über die Meldepflicht bei Aviärer Influenza beim Menschen
 layout: default
 slug: aimpv
+
 ---
 
 # Verordnung über die Meldepflicht bei Aviärer Influenza beim Menschen (AIMPV)

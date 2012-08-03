@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Ernennung und Entlassung der G
   der Reserve
 layout: default
 slug: bgsresoffbpr_sernano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere der Reserve (BGSResOffBPräsErnAnO)

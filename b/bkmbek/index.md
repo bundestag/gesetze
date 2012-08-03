@@ -3,6 +3,7 @@ Title: Bekanntmachung der Bezeichnung der Beauftragten der Bundesregierung für 
   und Medien
 layout: default
 slug: bkmbek
+
 ---
 
 # Bekanntmachung der Bezeichnung der Beauftragten der Bundesregierung für Kultur und Medien (BKMBek)

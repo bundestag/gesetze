@@ -3,6 +3,7 @@ Title: Gesetz über die Aufnahme eines Kredits durch den Bund im Rahmen der von 
   Vereinigten Staaten gewährten Wirtschaftshilfe
 layout: default
 slug: kredaufng
+
 ---
 
 # Gesetz über die Aufnahme eines Kredits durch den Bund im Rahmen der von den Vereinigten Staaten gewährten Wirtschaftshilfe (KredAufnG)

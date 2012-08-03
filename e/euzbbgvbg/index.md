@@ -5,6 +5,7 @@ Title: Vereinbarung zwischen dem Deutschen Bundestag und der Bundesregierung üb
   in Angelegenheiten der Europäischen Union
 layout: default
 slug: euzbbgvbg
+
 ---
 
 # Vereinbarung zwischen dem Deutschen Bundestag und der Bundesregierung über die Zusammenarbeit in Angelegenheiten der Europäischen Union in Ausführung des § 6 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union (EUZBBGVbg)

@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Pflanzenschutz-Sachkundeverordnung'
+Title: Pflanzenschutz-Sachkundeverordnung
 layout: default
 slug: pflschsachkv
+
 ---
 
 # Pflanzenschutz-Sachkundeverordnung (PflSchSachkV)

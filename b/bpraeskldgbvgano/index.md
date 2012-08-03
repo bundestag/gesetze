@@ -2,6 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesverwaltungsgericht
 layout: default
 slug: bpr_skldgbvgano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesverwaltungsgericht (BPräsKldgBVGAnO)

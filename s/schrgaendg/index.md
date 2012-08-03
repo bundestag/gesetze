@@ -4,6 +4,7 @@ Title: Gesetz zur Änderung des Gesetzes über Rechte an eingetragenen Schiffen 
   und die Zwangsverwaltung
 layout: default
 slug: schrg_ndg
+
 ---
 
 # Gesetz zur Änderung des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken, der Schiffsregisterordnung und des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung (SchRGÄndG)

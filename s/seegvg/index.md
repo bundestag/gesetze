@@ -3,6 +3,7 @@ Title: Gesetz über die Vollstreckung von Entscheidungen internationaler Gericht
   dem Gebiet des Seerechts
 layout: default
 slug: seegvg
+
 ---
 
 # Gesetz über die Vollstreckung von Entscheidungen internationaler Gerichte auf dem Gebiet des Seerechts (SeeGVG)

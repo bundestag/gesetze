@@ -3,6 +3,7 @@ Title: Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssys
   von Instituten
 layout: default
 slug: institutsvergv
+
 ---
 
 # Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten (InstitutsVergV)

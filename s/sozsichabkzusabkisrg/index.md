@@ -3,6 +3,7 @@ Title: Gesetz zu dem Zusatzabkommen vom 12. Februar 1995 zum Abkommen vom 17. De
   1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit
 layout: default
 slug: sozsichabkzusabkisrg
+
 ---
 
 # Gesetz zu dem Zusatzabkommen vom 12. Februar 1995 zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit (SozSichAbkZusAbkISRG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Güteprüfung und Bezahlung der Anlieferungsmilch
 layout: default
 slug: milchg_v
+
 ---
 
 # Verordnung über die Güteprüfung und Bezahlung der Anlieferungsmilch (MilchGüV)

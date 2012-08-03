@@ -3,6 +3,7 @@ Title: Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter i
   und Soldaten
 layout: default
 slug: bukg
+
 ---
 
 # Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten (BUKG)

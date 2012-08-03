@@ -2,6 +2,7 @@
 Title: Dritte Verordnung über steuerliche Konjunkturmaßnahmen
 layout: default
 slug: konjv_3
+
 ---
 
 # Dritte Verordnung über steuerliche Konjunkturmaßnahmen (KonjV 3)

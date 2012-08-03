@@ -4,6 +4,7 @@ Title: Bekanntmachung über die Seemannsämter außerhalb des Geltungsbereiches 
   der Bundesrepublik Deutschland
 layout: default
 slug: seemamtsbek_1982
+
 ---
 
 # Bekanntmachung über die Seemannsämter außerhalb des Geltungsbereiches des Grundgesetzes und die mit der Wahrnehmung seemannsamtlicher Aufgaben beauftragten Honorarkonsularbeamten der Bundesrepublik Deutschland (SeemAmtsBek 1982)

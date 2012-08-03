@@ -2,6 +2,7 @@
 Title: Gesetz über die Bestimmung der aktuellen Rentenwerte ab 1.Juli 2008
 layout: default
 slug: rwbestg_2008
+
 ---
 
 # Gesetz über die Bestimmung der aktuellen Rentenwerte ab 1.Juli 2008 (RWBestG 2008)

@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Protokoll (zu der Konvention zum Schutz von Kulturgut bei
-  bewaffneten Konflikten vom 14. Mai 1954)'
+Title: Protokoll (zu der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
+  vom 14. Mai 1954)
 layout: default
 slug: kultgschkonvprot
+
 ---
 
 # Protokoll (zu der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten vom 14. Mai 1954) (KultgSchKonvProt)

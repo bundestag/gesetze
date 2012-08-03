@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Metallbildner-Handwerk
 layout: default
 slug: metallbildmstrv
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbildner-Handwerk (MetallbildMstrV)

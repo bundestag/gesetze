@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesbeamtengesetz'
+Title: Bundesbeamtengesetz
 layout: default
 slug: bbg_2009
+
 ---
 
 # Bundesbeamtengesetz (BBG 2009)

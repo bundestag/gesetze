@@ -2,6 +2,7 @@
 Title: Gesetz über die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft
 layout: default
 slug: sebg
+
 ---
 
 # Gesetz über die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft (SEBG)

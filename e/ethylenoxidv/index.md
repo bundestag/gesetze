@@ -2,6 +2,7 @@
 Title: Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln
 layout: default
 slug: ethylenoxidv
+
 ---
 
 # Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln (EthylenoxidV)

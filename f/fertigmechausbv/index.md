@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Fertigungsmechaniker/zur Fertigungsmechanikerin
 layout: default
 slug: fertigmechausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Fertigungsmechaniker/zur Fertigungsmechanikerin (FertigMechAusbV)

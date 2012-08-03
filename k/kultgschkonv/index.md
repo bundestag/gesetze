@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten'
+Title: Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
 layout: default
 slug: kultgschkonv
+
 ---
 
 # Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten (KultgSchKonv)

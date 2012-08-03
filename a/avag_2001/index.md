@@ -4,6 +4,7 @@ Title: Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführun
   und Vollstreckung in Zivil- und Handelssachen
 layout: default
 slug: avag_2001
+
 ---
 
 # Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von Verordnungen und Abkommen der Europäischen Gemeinschaft auf dem Gebiet der Anerkennung und Vollstreckung in Zivil- und Handelssachen (AVAG 2001)

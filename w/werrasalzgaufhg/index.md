@@ -3,6 +3,7 @@ Title: Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebi
   an der Werra
 layout: default
 slug: werrasalzgaufhg
+
 ---
 
 # Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebiet an der Werra (WerraSalzGAufhG)

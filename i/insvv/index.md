@@ -2,6 +2,7 @@
 Title: Insolvenzrechtliche Vergütungsverordnung
 layout: default
 slug: insvv
+
 ---
 
 # Insolvenzrechtliche Vergütungsverordnung (InsVV)

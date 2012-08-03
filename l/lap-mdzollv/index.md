@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittler
   des Bundes
 layout: default
 slug: lap-mdzollv
+
 ---
 
 # Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes (LAP-mDZollV)

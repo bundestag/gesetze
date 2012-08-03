@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Donauschiffahrtspolizeiverordnung'
+Title: Donauschiffahrtspolizeiverordnung
 layout: default
 slug: donauschpv_1993
+
 ---
 
 # Donauschiffahrtspolizeiverordnung (DonauSchPV 1993)

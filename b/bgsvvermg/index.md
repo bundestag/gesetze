@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet
 layout: default
 slug: bgsvvermg
+
 ---
 
 # Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet (BGSVVermG)

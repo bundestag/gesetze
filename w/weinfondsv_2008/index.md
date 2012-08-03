@@ -2,6 +2,7 @@
 Title: Verordnung über die Erhebung der Abgabe für den Deutschen Weinfonds
 layout: default
 slug: weinfondsv_2008
+
 ---
 
 # Verordnung über die Erhebung der Abgabe für den Deutschen Weinfonds (WeinfondsV 2008)

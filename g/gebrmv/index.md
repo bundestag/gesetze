@@ -2,6 +2,7 @@
 Title: Verordnung zur Ausführung des Gebrauchsmustergesetzes
 layout: default
 slug: gebrmv
+
 ---
 
 # Verordnung zur Ausführung des Gebrauchsmustergesetzes (GebrMV)

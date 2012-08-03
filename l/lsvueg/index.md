@@ -3,6 +3,7 @@ Title: Gesetz zu Übergangsregelungen zur Modernisierung des Rechts der landwirt
   Sozialversicherung
 layout: default
 slug: lsv_g
+
 ---
 
 # Gesetz zu Übergangsregelungen zur Modernisierung des Rechts der landwirtschaftlichen Sozialversicherung (LSVÜG)

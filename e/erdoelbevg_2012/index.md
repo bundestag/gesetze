@@ -2,6 +2,7 @@
 Title: Gesetz über die Bevorratung mit Erdöl und Erdölerzeugnissen
 layout: default
 slug: erd_lbevg_2012
+
 ---
 
 # Gesetz über die Bevorratung mit Erdöl und Erdölerzeugnissen (ErdölBevG 2012)

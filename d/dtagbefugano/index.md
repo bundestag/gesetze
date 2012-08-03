@@ -3,6 +3,7 @@ Title: Anordnung über dienstrechtliche Befugnisse für den Bereich der Deutsche
   AG
 layout: default
 slug: dtagbefugano
+
 ---
 
 # Anordnung über dienstrechtliche Befugnisse für den Bereich der Deutschen Telekom AG (DTAGBefugAnO)

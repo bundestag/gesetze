@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Fischetikettierungsgesetzes
 layout: default
 slug: fischetikettv
+
 ---
 
 # Verordnung zur Durchführung des Fischetikettierungsgesetzes (FischEtikettV)

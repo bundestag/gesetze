@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Thermometermacher/zur Thermometermacherin
 layout: default
 slug: thermmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Thermometermacher/zur Thermometermacherin (ThermMAusbV)

@@ -4,6 +4,7 @@ Title: Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Übe
   Beitrittsgebiets durch den Bund
 layout: default
 slug: aa_gerstv
+
 ---
 
 # Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets durch den Bund (AAÜGErstV)

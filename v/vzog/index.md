@@ -2,6 +2,7 @@
 Title: Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen
 layout: default
 slug: vzog
+
 ---
 
 # Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen (VZOG)

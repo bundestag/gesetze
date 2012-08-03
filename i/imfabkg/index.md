@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen über den Internationalen Währungsfonds in 
   von 1976
 layout: default
 slug: imfabkg
+
 ---
 
 # Gesetz zu dem Übereinkommen über den Internationalen Währungsfonds in der Fassung von 1976 (IMFAbkG)

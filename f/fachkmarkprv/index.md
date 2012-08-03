@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Fachk
   für Marketing/Geprüfte Fachkauffrau für Marketing
 layout: default
 slug: fachkmarkprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Fachkaufmann für Marketing/Geprüfte Fachkauffrau für Marketing (FachkMarkPrV)

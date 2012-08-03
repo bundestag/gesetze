@@ -1,9 +1,10 @@
 [^f771123_01_BJNR094700008]
 Verordnung über die Berufsausbildung zum Seiler und zur Seilerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: seilausbv_2008
+
 ---
 
 #  (SeilAusbV 2008)

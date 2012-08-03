@@ -2,6 +2,7 @@
 Title: Verordnung über die Verschreibungspflicht von Arzneimitteln
 layout: default
 slug: amvv
+
 ---
 
 # Verordnung über die Verschreibungspflicht von Arzneimitteln (AMVV)

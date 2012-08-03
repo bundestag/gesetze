@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz Nr. 207 Zweites Gesetz zur Wiedergutmachung nationalsozialistischen
-  Unrechts in der Strafrechtspflege'
+Title: Gesetz Nr. 207 Zweites Gesetz zur Wiedergutmachung nationalsozialistischen
+  Unrechts in der Strafrechtspflege
 layout: default
 slug: nsunrg_wb_2
+
 ---
 
 # Gesetz Nr. 207 Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege (NSUnrG WB 2)

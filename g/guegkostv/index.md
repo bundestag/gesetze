@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Grundstoff-Kostenverordnung'
+Title: Grundstoff-Kostenverordnung
 layout: default
 slug: g_gkostv
+
 ---
 
 # Grundstoff-Kostenverordnung (GÜGKostV)

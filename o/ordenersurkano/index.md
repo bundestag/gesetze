@@ -3,6 +3,7 @@ Title: Anordnung über die Ausstellung von Ersatzurkunden nach § 9 des Gesetzes
   Titel, Orden und Ehrenzeichen für Berechtigte im Ausland
 layout: default
 slug: ordenersurkano
+
 ---
 
 # Anordnung über die Ausstellung von Ersatzurkunden nach § 9 des Gesetzes über Titel, Orden und Ehrenzeichen für Berechtigte im Ausland (OrdenErsUrkAnO)

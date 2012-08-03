@@ -2,6 +2,7 @@
 Title: Verordnung über die Eichung von Binnenschiffen
 layout: default
 slug: binscheo
+
 ---
 
 # Verordnung über die Eichung von Binnenschiffen (BinSchEO)

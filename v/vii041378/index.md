@@ -6,6 +6,7 @@ Title: Verordnung zur Durchführung der Vereinbarung vom 17. September 2004 zwis
   und auf Schiffen
 layout: default
 slug: vii041378
+
 ---
 
 # Verordnung zur Durchführung der Vereinbarung vom 17. September 2004 zwischen dem Bundesministerium des Innern der Bundesrepublik Deutschland und dem Ministerium des Innern der Tschechischen Republik über die Errichtung vorgeschobener Grenzabfertigungsstellen und die Bestimmung von Strecken für die Grenzabfertigung während der Fahrt in Zügen und auf Schiffen (VII041378)

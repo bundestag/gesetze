@@ -3,6 +3,7 @@ Title: Verordnung über die vom Bund zu tragenden Aufwendungen für die Heil- un
   Versorgungsberechtigter in Versorgungskrankenanstalten der Länder
 layout: default
 slug: koverstv
+
 ---
 
 # Verordnung über die vom Bund zu tragenden Aufwendungen für die Heil- und Krankenbehandlung Versorgungsberechtigter in Versorgungskrankenanstalten der Länder (KOVErstV)

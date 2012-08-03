@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umweltstatistikgesetz'
+Title: Umweltstatistikgesetz
 layout: default
 slug: ustatg_2005
+
 ---
 
 # Umweltstatistikgesetz (UStatG 2005)

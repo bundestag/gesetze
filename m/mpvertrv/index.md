@@ -2,6 +2,7 @@
 Title: Verordnung über Vertriebswege für Medizinprodukte
 layout: default
 slug: mpvertrv
+
 ---
 
 # Verordnung über Vertriebswege für Medizinprodukte (MPVertrV)

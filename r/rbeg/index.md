@@ -2,6 +2,7 @@
 Title: Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch
 layout: default
 slug: rbeg
+
 ---
 
 # Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch (RBEG)

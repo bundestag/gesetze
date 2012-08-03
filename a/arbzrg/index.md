@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Vereinheitlichung und Flexibilisierung des Arbeitszeitrechts'
+Title: Gesetz zur Vereinheitlichung und Flexibilisierung des Arbeitszeitrechts
 layout: default
 slug: arbzrg
+
 ---
 
 # Gesetz zur Vereinheitlichung und Flexibilisierung des Arbeitszeitrechts (ArbZRG)

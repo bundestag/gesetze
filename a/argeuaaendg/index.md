@@ -4,6 +4,7 @@ Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen,
   Aufbau Ost
 layout: default
 slug: argeua_ndg
+
 ---
 
 # Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen, zur Änderung des Erblastentilgungsfonds-Gesetzes und zur Änderung des Investitionsförderungsgesetzes Aufbau Ost (ARGEuaÄndG)

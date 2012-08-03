@@ -2,6 +2,7 @@
 Title: Börsengesetz
 layout: default
 slug: b_rsg_2007
+
 ---
 
 # Börsengesetz (BörsG 2007)

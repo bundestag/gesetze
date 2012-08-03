@@ -3,6 +3,7 @@ Title: Verordnung über die Einreichung zusammengefaßter Monatsausweise nach de
   über das Kreditwesen
 layout: default
 slug: zumonawv
+
 ---
 
 # Verordnung über die Einreichung zusammengefaßter Monatsausweise nach dem Gesetz über das Kreditwesen (ZuMonAwV)

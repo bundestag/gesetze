@@ -3,6 +3,7 @@ Title: Übereinkommen über die Verhütung, Verfolgung und Bestrafung von Straft
   gegen völkerrechtlich geschützte Personen einschließlich Diplomaten
 layout: default
 slug: diplschkonv
+
 ---
 
 # Übereinkommen über die Verhütung, Verfolgung und Bestrafung von Straftaten gegen völkerrechtlich geschützte Personen einschließlich Diplomaten (DiplSchKonv)

@@ -3,6 +3,7 @@ Title: Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren 
   Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes
 layout: default
 slug: arschiedsgaufhg
+
 ---
 
 # Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes (ARSchiedsGAufhG)

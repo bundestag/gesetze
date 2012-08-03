@@ -4,6 +4,7 @@ Title: Zweihundertsiebenunddreißigste Durchführungsverordnung zur Luftverkehrs
   und vom Verkehrsflughafen München)
 layout: default
 slug: luftvodv_237
+
 ---
 
 # Zweihundertsiebenunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen München) (LuftVODV 237)

@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 11 Abs. 3 des Rechtsträger-Abwicklungsgesetzes
 layout: default
 slug: rtrabwg_11abs3dv
+
 ---
 
 # Verordnung zur Durchführung des § 11 Abs. 3 des Rechtsträger-Abwicklungsgesetzes (RTrAbwG§11Abs3DV)

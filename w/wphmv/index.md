@@ -2,6 +2,7 @@
 Title: Verordnung über die Meldepflichten beim Handel mit Wertpapieren und Derivaten
 layout: default
 slug: wphmv
+
 ---
 
 # Verordnung über die Meldepflichten beim Handel mit Wertpapieren und Derivaten (WpHMV)

@@ -2,6 +2,7 @@
 Title: Gesetz über eine Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung
 layout: default
 slug: voz_hlg_1987
+
 ---
 
 # Gesetz über eine Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung (VoZählG 1987)

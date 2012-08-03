@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundesbesoldungsgesetz'
+Title: Bundesbesoldungsgesetz
 layout: default
 slug: bbesg
+
 ---
 
 # Bundesbesoldungsgesetz (BBesG)

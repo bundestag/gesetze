@@ -2,6 +2,7 @@
 Title: Verordnung nach § 60 des Zwölften Buches Sozialgesetzbuch
 layout: default
 slug: bshg_47v
+
 ---
 
 # Verordnung nach § 60 des Zwölften Buches Sozialgesetzbuch (BSHG§47V)

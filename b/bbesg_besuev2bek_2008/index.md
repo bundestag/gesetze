@@ -3,6 +3,7 @@ Title: Bekanntmachung nach § 77 Abs. 2 und 3 des Bundesbesoldungsgesetzes und n
   § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
 layout: default
 slug: bbesg_bes_v2bek_2008
+
 ---
 
 # Bekanntmachung nach § 77 Abs. 2 und 3 des Bundesbesoldungsgesetzes und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung (BBesG/BesÜV2Bek 2008)

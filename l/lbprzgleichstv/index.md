@@ -5,6 +5,7 @@ Title: Verordnung zur Gleichstellung von Zeugnissen über die Laufbahnprüfung f
   im Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte
 layout: default
 slug: lbprzgleichstv
+
 ---
 
 # Verordnung zur Gleichstellung von Zeugnissen über die Laufbahnprüfung für die Laufbahnen des mittleren Postbankdienstes und des mittleren Fernmeldedienstes bei der Deutschen Bundespost mit den Zeugnissen über das Bestehen der Abschlußprüfung im Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte (LbPrZGleichstV)

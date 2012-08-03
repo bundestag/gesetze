@@ -3,6 +3,7 @@ Title: Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei vo
   Polizeibehörden und Nachrichtendiensten von Bund und Ländern
 layout: default
 slug: atdg
+
 ---
 
 # Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern (ATDG)

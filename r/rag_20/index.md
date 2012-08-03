@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Gesetz zur Zwanzigsten Rentenanpassung und zur Verbesserung
-  der Finanzgrundlagen der gesetzlichen Rentenversicherung'
+Title: Gesetz zur Zwanzigsten Rentenanpassung und zur Verbesserung der Finanzgrundlagen
+  der gesetzlichen Rentenversicherung
 layout: default
 slug: rag_20
+
 ---
 
 # Gesetz zur Zwanzigsten Rentenanpassung und zur Verbesserung der Finanzgrundlagen der gesetzlichen Rentenversicherung (RAG 20)

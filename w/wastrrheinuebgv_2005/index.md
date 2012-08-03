@@ -3,6 +3,7 @@ Title: Verordnung über den Übergang des zur Bundeswasserstraße Rhein gehören
   Ginsheimer Altrhein auf die Gemeinde Ginsheim-Gustavsburg
 layout: default
 slug: wastrrhein_bgv_2005
+
 ---
 
 # Verordnung über den Übergang des zur Bundeswasserstraße Rhein gehörenden Altarms Ginsheimer Altrhein auf die Gemeinde Ginsheim-Gustavsburg (WaStrRheinÜbgV 2005)

@@ -4,6 +4,7 @@ Title: Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlas
   für Familie, Senioren, Frauen und Jugend
 layout: default
 slug: bminfsfjwidano
+
 ---
 
 # Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMinFSFJWidAnO)

@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Verordnung zur Feststellung der Gesamtverwaltungskosten der
-  gemeinsamen Einrichtung'
+Title: Verordnung zur Feststellung der Gesamtverwaltungskosten der gemeinsamen Einrichtung
 layout: default
 slug: vkfv
+
 ---
 
 # Verordnung zur Feststellung der Gesamtverwaltungskosten der gemeinsamen Einrichtung (VKFV)

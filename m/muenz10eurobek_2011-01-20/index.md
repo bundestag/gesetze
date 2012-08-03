@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „200. Geburtstag Franz Liszt“)
 layout: default
 slug: m_nz10eurobek_2011-01-20
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200. Geburtstag Franz Liszt“) (Münz10EuroBek 2011-01-20)

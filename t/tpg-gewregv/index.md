@@ -2,6 +2,7 @@
 Title: Verordnung über das Register der Gewebeeinrichtungen nach dem Transplantationsgesetz
 layout: default
 slug: tpg-gewregv
+
 ---
 
 # Verordnung über das Register der Gewebeeinrichtungen nach dem Transplantationsgesetz (TPG-GewRegV)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen
 layout: default
 slug: lwaltschg
+
 ---
 
 # Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen (LwAltschG)

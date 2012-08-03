@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "250. Geburtstag von Wolfgang Amadeus Mozart")
 layout: default
 slug: m_nz10eurobek_2005-11
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "250. Geburtstag von Wolfgang Amadeus Mozart") (Münz10EuroBek 2005-11)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Brenner/zur Brennerin
 layout: default
 slug: brennausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Brenner/zur Brennerin (BrennAusbV)

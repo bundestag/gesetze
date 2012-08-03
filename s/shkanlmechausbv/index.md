@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär
   und Klimatechnik/zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik
 layout: default
 slug: shkanlmechausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik/zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik (SHKAnlMechAusbV)

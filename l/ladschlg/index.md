@@ -2,6 +2,7 @@
 Title: Gesetz über den Ladenschluß
 layout: default
 slug: ladschlg
+
 ---
 
 # Gesetz über den Ladenschluß (LadSchlG)

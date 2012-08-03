@@ -6,6 +6,7 @@ Title: Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung 
   der Europäischen Gemeinschaften
 layout: default
 slug: euvtr_bkprotg
+
 ---
 
 # Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof der Europäischen Gemeinschaften (EuVtrÜbkProtG)

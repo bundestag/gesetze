@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Rahmengesetz zur Vereinheitlichung des Beamtenrechts'
+Title: Rahmengesetz zur Vereinheitlichung des Beamtenrechts
 layout: default
 slug: brrg
+
 ---
 
 # Rahmengesetz zur Vereinheitlichung des Beamtenrechts (BRRG)

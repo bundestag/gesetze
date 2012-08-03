@@ -3,6 +3,7 @@ Title: Anordnung über die Einstellung von Beamtinnen und Beamten in den höhere
   Dienst beim Deutschen Patent- und Markenamt
 layout: default
 slug: dpmahtdano
+
 ---
 
 # Anordnung über die Einstellung von Beamtinnen und Beamten in den höheren technischen Dienst beim Deutschen Patent- und Markenamt (DPMAhtDAnO)

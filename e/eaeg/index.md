@@ -2,6 +2,7 @@
 Title: Einlagensicherungs- und Anlegerentschädigungsgesetz
 layout: default
 slug: eaeg
+
 ---
 
 # Einlagensicherungs- und Anlegerentschädigungsgesetz (EAEG)

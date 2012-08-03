@@ -2,6 +2,7 @@
 Title: Gesetz über die Beaufsichtigung der Versicherungsunternehmen
 layout: default
 slug: vag
+
 ---
 
 # Gesetz über die Beaufsichtigung der Versicherungsunternehmen (VAG)

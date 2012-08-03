@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen
 layout: default
 slug: mbplg
+
 ---
 
 # Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen (MBPlG)

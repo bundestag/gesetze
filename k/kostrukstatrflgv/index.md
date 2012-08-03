@@ -2,6 +2,7 @@
 Title: Verordnung zur Abänderung der Reihenfolge der Kostenstrukturerhebungen
 layout: default
 slug: kostrukstatrflgv
+
 ---
 
 # Verordnung zur Abänderung der Reihenfolge der Kostenstrukturerhebungen (KoStrukStatRflgV)

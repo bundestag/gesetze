@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Aufbereitungsmechaniker/zur Aufbereitungsmechanikerin
 layout: default
 slug: amausbv_2004
+
 ---
 
 # Verordnung über die Berufsausbildung zum Aufbereitungsmechaniker/zur Aufbereitungsmechanikerin (AMAusbV 2004)

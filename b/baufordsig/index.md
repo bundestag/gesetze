@@ -2,6 +2,7 @@
 Title: Gesetz über die Sicherung der Bauforderungen
 layout: default
 slug: baufordsig
+
 ---
 
 # Gesetz über die Sicherung der Bauforderungen (BauFordSiG)

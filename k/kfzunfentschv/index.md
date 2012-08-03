@@ -2,6 +2,7 @@
 Title: Verordnung über den Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen
 layout: default
 slug: kfzunfentschv
+
 ---
 
 # Verordnung über den Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen (KfzUnfEntschV)

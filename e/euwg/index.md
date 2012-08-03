@@ -3,6 +3,7 @@ Title: Gesetz über die Wahl der Abgeordneten des Europäischen Parlaments aus d
   Deutschland
 layout: default
 slug: euwg
+
 ---
 
 # Gesetz über die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland (EuWG)

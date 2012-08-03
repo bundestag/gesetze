@@ -5,6 +5,7 @@ Title: Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführu
   vom 20. August 1990
 layout: default
 slug: gdtwahlvdvtrg
+
 ---
 
 # Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik sowie dem Änderungsvertrag vom 20. August 1990 (GDtWahlVDVtrG)

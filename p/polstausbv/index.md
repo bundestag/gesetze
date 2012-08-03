@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie
 layout: default
 slug: polstausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie (PolstAusbV)

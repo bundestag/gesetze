@@ -4,6 +4,7 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   sowie bei Klagen des Dienstherrn in besoldungsrechtlichen Angelegenheiten
 layout: default
 slug: bvabeszustano
+
 ---
 
 # Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesversicherungsamtes sowie bei Klagen des Dienstherrn in besoldungsrechtlichen Angelegenheiten (BVABesZustAnO)

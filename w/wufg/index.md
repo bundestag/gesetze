@@ -3,6 +3,7 @@ Title: Gesetz zur Regelung der Folgen rechtswidriger Handlungen bei der Währung
   von Mark der Deutschen Demokratischen Republik in Deutsche Mark
 layout: default
 slug: wufg
+
 ---
 
 # Gesetz zur Regelung der Folgen rechtswidriger Handlungen bei der Währungsumstellung von Mark der Deutschen Demokratischen Republik in Deutsche Mark (WUFG)

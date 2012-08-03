@@ -2,6 +2,7 @@
 Title: Gesetz zur Neuordnung der Statistik über die Beherbergung im Reiseverkehr
 layout: default
 slug: beherbstatg_2003
+
 ---
 
 # Gesetz zur Neuordnung der Statistik über die Beherbergung im Reiseverkehr (BeherbStatG 2003)

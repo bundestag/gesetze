@@ -2,6 +2,7 @@
 Title: Gesetz über die Schaffung eines besonderen Arbeitgebers für Hafenarbeiter (Gesamthafenbetrieb)
 layout: default
 slug: ghfbetrg
+
 ---
 
 # Gesetz über die Schaffung eines besonderen Arbeitgebers für Hafenarbeiter (Gesamthafenbetrieb) (GHfBetrG)

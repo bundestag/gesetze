@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 31. Mai 1967 zwischen der Bundesrepublik Deutsc
   deutsch-österreichischen Grenze bei Staustufen und Grenzbrücken ergeben
 layout: default
 slug: grabfertautvtrg_1967
+
 ---
 
 # Gesetz zu dem Vertrag vom 31. Mai 1967 zwischen der Bundesrepublik Deutschland und der Republik Österreich über zoll- und paßrechtliche Fragen die sich an der deutsch-österreichischen Grenze bei Staustufen und Grenzbrücken ergeben (GrAbfertAUTVtrG 1967)

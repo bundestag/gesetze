@@ -3,6 +3,7 @@ Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes für den  Gesch
   des Bundesministeriums für Arbeit und Soziales
 layout: default
 slug: bminasbdgano
+
 ---
 
 # Anordnung zur Durchführung des Bundesdisziplinargesetzes für den  Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BMinASBDGAnO)

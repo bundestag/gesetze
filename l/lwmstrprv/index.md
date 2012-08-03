@@ -2,6 +2,7 @@
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Landwirt/Landwirtin
 layout: default
 slug: lwmstrprv
+
 ---
 
 # Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Landwirt/Landwirtin (LwMstrPrV)

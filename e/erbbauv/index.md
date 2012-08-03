@@ -2,6 +2,7 @@
 Title: Gesetz über das Erbbaurecht
 layout: default
 slug: erbbauv
+
 ---
 
 # Gesetz über das Erbbaurecht (ErbbauV)

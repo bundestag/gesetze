@@ -5,6 +5,7 @@ Title: Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung 
   dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente
 layout: default
 slug: intpat_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente, dem Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens und dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente (IntPatÜbkG)

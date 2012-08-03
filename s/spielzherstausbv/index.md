@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin
 layout: default
 slug: spielzherstausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin (SpielzHerstAusbV)

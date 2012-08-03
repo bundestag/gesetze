@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Drogist/zur Drogistin
 layout: default
 slug: drogistausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Drogist/zur Drogistin (DrogistAusbV)

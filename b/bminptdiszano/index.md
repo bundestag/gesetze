@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Geschäft
   des Bundesministeriums für Post und Telekommunikation
 layout: default
 slug: bminptdiszano
+
 ---
 
 # Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Geschäftsbereich des Bundesministeriums für Post und Telekommunikation (BMinPTDiszAnO)

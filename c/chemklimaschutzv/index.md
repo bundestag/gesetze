@@ -2,9 +2,10 @@
 Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag
 bestimmter fluorierter Treibhausgase
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: chemklimaschutzv
+
 ---
 
 #  (ChemKlimaschutzV)

@@ -3,6 +3,7 @@ Title: Verordnung über die Einrichtung und die Führung des Registers für Pfan
   an Luftfahrzeugen
 layout: default
 slug: luftregv
+
 ---
 
 # Verordnung über die Einrichtung und die Führung des Registers für Pfandrechte an Luftfahrzeugen (LuftRegV)

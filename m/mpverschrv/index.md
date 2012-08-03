@@ -2,6 +2,7 @@
 Title: Verordnung über die Verschreibungspflicht von Medizinprodukten
 layout: default
 slug: mpverschrv
+
 ---
 
 # Verordnung über die Verschreibungspflicht von Medizinprodukten (MPVerschrV)

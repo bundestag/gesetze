@@ -52,7 +52,7 @@ Referentenentwürfe, wenn öffentlich verfügbar, werden vom Fork der
 dieses Repository gestellt.
 
 
-Fehler und bitte um Mithilfe
+Fehler und Bitte um Mithilfe
 ----------------------------
 
 Es wird kein Anspruch auf Korrektheit erhoben. Bitte verlassen Sie sich nur

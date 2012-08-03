@@ -2,6 +2,7 @@
 Title: Verordnung über Sperrbezirke bei Ansteckender Schweinelähmung
 layout: default
 slug: schwkrspbezv
+
 ---
 
 # Verordnung über Sperrbezirke bei Ansteckender Schweinelähmung (SchwKrSpBezV)

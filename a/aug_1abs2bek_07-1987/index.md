@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Ab
   Auslandsunterhaltsgesetzes
 layout: default
 slug: aug_1abs2bek_07-1987
+
 ---
 
 # Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes (AUG§1Abs2Bek 07-1987)

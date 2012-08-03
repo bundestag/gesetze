@@ -2,6 +2,7 @@
 Title: Gesetz zur Reform der Arbeitsförderung
 layout: default
 slug: afrg
+
 ---
 
 # Gesetz zur Reform der Arbeitsförderung (AFRG)

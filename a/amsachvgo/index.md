@@ -4,6 +4,7 @@ Title: Geschäftsordnung der Ausschüsse für Standardzulassungen, Apothekenpfli
   für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln)
 layout: default
 slug: amsachvgo
+
 ---
 
 # Geschäftsordnung der Ausschüsse für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht (Anlage zur Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln) (AMSachvGO)

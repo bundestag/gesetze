@@ -3,6 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Maler- und Lackierer-Handwerk
 layout: default
 slug: mulmstrv
+
 ---
 
 # Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Maler- und Lackierer-Handwerk (MuLMstrV)

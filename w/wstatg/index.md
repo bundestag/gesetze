@@ -4,6 +4,7 @@ Title: Gesetz über die allgemeine und die repräsentative Wahlstatistik bei der
   aus der Bundesrepublik Deutschland
 layout: default
 slug: wstatg
+
 ---
 
 # Gesetz über die allgemeine und die repräsentative Wahlstatistik bei der Wahl zum Deutschen Bundestag und bei der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland (WStatG)

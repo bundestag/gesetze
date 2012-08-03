@@ -2,6 +2,7 @@
 Title: Zweiundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 layout: default
 slug: stvzoausnv_42
+
 ---
 
 # Zweiundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung (StVZOAusnV 42)

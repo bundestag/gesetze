@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil
-  - (Artikel I des Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)'
+Title: Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des
+  Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)
 layout: default
 slug: sgb_1
+
 ---
 
 # Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015) (SGB 1)

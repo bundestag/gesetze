@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umwandlungssteuergesetz'
+Title: Umwandlungssteuergesetz
 layout: default
 slug: umwstg_2006
+
 ---
 
 # Umwandlungssteuergesetz (UmwStG 2006)

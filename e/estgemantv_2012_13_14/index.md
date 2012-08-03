@@ -3,6 +3,7 @@ Title: Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung 
   an der Einkommensteuer für die Jahre 2012, 2013 und 2014
 layout: default
 slug: estgemantv_2012_13_14
+
 ---
 
 # Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2012, 2013 und 2014 (EStGemAntV 2012/13/14)

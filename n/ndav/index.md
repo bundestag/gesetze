@@ -3,6 +3,7 @@ Title: Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen
   für die Gasversorgung in Niederdruck
 layout: default
 slug: ndav
+
 ---
 
 # Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen Nutzung für die Gasversorgung in Niederdruck (NDAV)

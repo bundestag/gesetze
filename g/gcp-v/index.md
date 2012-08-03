@@ -3,6 +3,7 @@ Title: Verordnung über die Anwendung der Guten Klinischen Praxis bei der Durchf
   von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen
 layout: default
 slug: gcp-v
+
 ---
 
 # Verordnung über die Anwendung der Guten Klinischen Praxis bei der Durchführung von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen (GCP-V)

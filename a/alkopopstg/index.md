@@ -3,6 +3,7 @@ Title: Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetr
   (Alkopops) zum Schutz junger Menschen
 layout: default
 slug: alkopopstg
+
 ---
 
 # Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen (AlkopopStG)

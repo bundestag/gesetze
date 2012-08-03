@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Bundeskleingartengesetz'
+Title: Bundeskleingartengesetz
 layout: default
 slug: bkleingg
+
 ---
 
 # Bundeskleingartengesetz (BKleingG)

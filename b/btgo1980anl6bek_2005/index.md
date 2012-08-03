@@ -4,6 +4,7 @@ Title: Bekanntmachung über die Übernahme des Beschlusses des Deutschen  Bundes
   in Immunitätsangelegenheiten
 layout: default
 slug: btgo1980anl6bek_2005
+
 ---
 
 # Bekanntmachung über die Übernahme des Beschlusses des Deutschen  Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und  der Grundsätze in Immunitätsangelegenheiten (BTGO1980Anl6Bek 2005)

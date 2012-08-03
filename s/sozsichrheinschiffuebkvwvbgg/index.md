@@ -3,6 +3,7 @@ Title: Gesetz zu der Verwaltungsvereinbarung vom 26. November 1987 zur Durchfüh
   des Übereinkommens vom 30. November 1979 über die Soziale Sicherheit der Rheinschiffer
 layout: default
 slug: sozsichrheinschiff_bkvwvbgg
+
 ---
 
 # Gesetz zu der Verwaltungsvereinbarung vom 26. November 1987 zur Durchführung des Übereinkommens vom 30. November 1979 über die Soziale Sicherheit der Rheinschiffer (SozSichRheinSchiffÜbkVwVbgG)

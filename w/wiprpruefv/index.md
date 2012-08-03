@@ -2,6 +2,7 @@
 Title: Prüfungsverordnung für Wirtschaftsprüfer nach §§ 14 und 131l der Wirtschaftsprüferordnung
 layout: default
 slug: wiprpr_fv
+
 ---
 
 # Prüfungsverordnung für Wirtschaftsprüfer nach §§ 14 und 131l der Wirtschaftsprüferordnung (WiPrPrüfV)

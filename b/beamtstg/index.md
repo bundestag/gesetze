@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern
 layout: default
 slug: beamtstg
+
 ---
 
 # Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern (BeamtStG)

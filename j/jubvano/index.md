@@ -3,6 +3,7 @@ Title: Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumsz
   an Beamte und Richter des Bundes
 layout: default
 slug: jubvano
+
 ---
 
 # Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes (JubVAnO)

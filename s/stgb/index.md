@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Strafgesetzbuch'
+Title: Strafgesetzbuch
 layout: default
 slug: stgb
+
 ---
 
 # Strafgesetzbuch (StGB)

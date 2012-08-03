@@ -2,6 +2,7 @@
 Title: Bekanntmachung des Wahltages für die Europawahl 2009
 layout: default
 slug: euwahlt2009bek
+
 ---
 
 # Bekanntmachung des Wahltages für die Europawahl 2009 (EuWahlT2009Bek)

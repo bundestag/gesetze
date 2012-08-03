@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Reichsversicherungsordnung'
+Title: Reichsversicherungsordnung
 layout: default
 slug: rvo
+
 ---
 
 # Reichsversicherungsordnung (RVO)

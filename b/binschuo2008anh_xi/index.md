@@ -1,8 +1,9 @@
 Besatzungsvorschriften
 ---
-Title: !!python/unicode '(Anhang XI zur Binnenschiffsuntersuchungsordnung)'
+Title: (Anhang XI zur Binnenschiffsuntersuchungsordnung)
 layout: default
 slug: binschuo2008anh_xi
+
 ---
 
 # (Anhang XI zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh XI)

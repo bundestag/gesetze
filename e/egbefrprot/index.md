@@ -2,6 +2,7 @@
 Title: Protokoll über die Vorrechte und Befreiungen der Europäischen Gemeinschaften
 layout: default
 slug: egbefrprot
+
 ---
 
 # Protokoll über die Vorrechte und Befreiungen der Europäischen Gemeinschaften (EGBefrProt)

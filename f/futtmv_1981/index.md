@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Futtermittelverordnung'
+Title: Futtermittelverordnung
 layout: default
 slug: futtmv_1981
+
 ---
 
 # Futtermittelverordnung (FuttMV 1981)

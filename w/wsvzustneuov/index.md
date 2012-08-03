@@ -3,6 +3,7 @@ Title: Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrts
   an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes
 layout: default
 slug: wsvzustneuov
+
 ---
 
 # Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrtsdirektionen an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes (WSVZustNeuOV)

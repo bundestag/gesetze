@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des Grundsteuergesetzes für den ersten Hauptveranlagungszeitraum
 layout: default
 slug: grstdvo_1937
+
 ---
 
 # Verordnung zur Durchführung des Grundsteuergesetzes für den ersten Hauptveranlagungszeitraum (GrStDVO 1937)

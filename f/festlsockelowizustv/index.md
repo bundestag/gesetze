@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von O
   im Bereich des Festlandsockels
 layout: default
 slug: festlsockelowizustv
+
 ---
 
 # Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Bereich des Festlandsockels (FestLSockelOWiZustV)

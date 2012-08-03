@@ -2,6 +2,7 @@
 Title: Verordnung zur Beauftragung von Luftsportverbänden
 layout: default
 slug: beauftrv
+
 ---
 
 # Verordnung zur Beauftragung von Luftsportverbänden (BeauftrV)

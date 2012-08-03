@@ -3,6 +3,7 @@ Title: Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Str
   und Streckennavigations-Einrichtungen der Flugsicherung
 layout: default
 slug: fsstreckengv
+
 ---
 
 # Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung (FSStreckenGV)

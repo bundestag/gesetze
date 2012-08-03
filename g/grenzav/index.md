@@ -3,6 +3,7 @@ Title: Verordnung über die Ausdehnung des grenznahen Raumes und die der Grenzau
   unterworfenen Gebiete
 layout: default
 slug: grenzav
+
 ---
 
 # Verordnung über die Ausdehnung des grenznahen Raumes und die der Grenzaufsicht unterworfenen Gebiete (GrenzAV)

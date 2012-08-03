@@ -3,9 +3,10 @@ Neununddreißigste Verordnung zur Durchführung des Bundes-
 Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und
 Emissionshöchstmengen
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: bimschv_39
+
 ---
 
 #  (BImSchV 39)

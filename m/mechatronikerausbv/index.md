@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Mechatroniker und zur
 Mechatronikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: mechatronikerausbv
+
 ---
 
 #  (MechatronikerAusbV)

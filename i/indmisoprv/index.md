@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Indust
   Industriemeisterin - Fachrichtung Isolierung (Wärme-, Kälte-, Schall- und Brandschutz)
 layout: default
 slug: indmisoprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Isolierung (Wärme-, Kälte-, Schall- und Brandschutz) (IndMIsoPrV)

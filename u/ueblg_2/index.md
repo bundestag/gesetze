@@ -2,6 +2,7 @@
 Title: Zweites Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund
 layout: default
 slug: _blg_2
+
 ---
 
 # Zweites Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund (ÜblG 2)

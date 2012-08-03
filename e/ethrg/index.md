@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Einrichtung des Deutschen Ethikrats'
+Title: Gesetz zur Einrichtung des Deutschen Ethikrats
 layout: default
 slug: ethrg
+
 ---
 
 # Gesetz zur Einrichtung des Deutschen Ethikrats (EthRG)

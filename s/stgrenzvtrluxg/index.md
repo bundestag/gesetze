@@ -3,6 +3,7 @@ Title: Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik D
   und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze
 layout: default
 slug: stgrenzvtrluxg
+
 ---
 
 # Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze (StGrenzVtrLUXG)

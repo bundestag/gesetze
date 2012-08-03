@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrech
   Bundes
 layout: default
 slug: gno
+
 ---
 
 # Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrechts des Bundes (GnO)

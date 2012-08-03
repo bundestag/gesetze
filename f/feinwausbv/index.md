@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur
 Feinwerkmechanikerin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: feinwausbv
+
 ---
 
 #  (FeinwAusbV)

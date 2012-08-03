@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Altersteilzeitgesetz'
+Title: Altersteilzeitgesetz
 layout: default
 slug: alttzg_1996
+
 ---
 
 # Altersteilzeitgesetz (AltTZG 1996)

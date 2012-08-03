@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten
 layout: default
 slug: vwfangausbv_1999
+
 ---
 
 # Verordnung über die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten (VwFAngAusbV 1999)

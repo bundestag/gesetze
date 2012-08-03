@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Flaggenrechtsverordnung'
+Title: Flaggenrechtsverordnung
 layout: default
 slug: flrv
+
 ---
 
 # Flaggenrechtsverordnung (FlRV)

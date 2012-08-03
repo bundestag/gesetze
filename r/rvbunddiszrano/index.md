@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des  Disz
   im Bereich der Deutschen Rentenversicherung Bund
 layout: default
 slug: rvbunddiszrano
+
 ---
 
 # Anordnung über die Übertragung von Befugnissen auf dem Gebiet des  Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund (RVBundDiszRAnO)

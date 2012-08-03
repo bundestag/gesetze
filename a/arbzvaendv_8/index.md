@@ -2,6 +2,7 @@
 Title: Achte Verordnung zur Änderung der Arbeitszeitverordnung
 layout: default
 slug: arbzv_ndv_8
+
 ---
 
 # Achte Verordnung zur Änderung der Arbeitszeitverordnung (ArbZVÄndV 8)

@@ -3,6 +3,7 @@ Title: Hundertdreiunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnu
   von Warteverfahren)
 layout: default
 slug: luftvodv_133
+
 ---
 
 # Hundertdreiunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Warteverfahren) (LuftVODV 133)

@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Brauer und Mälzer/zur Brauerin
   Mälzerin
 layout: default
 slug: brau_m_lzausbv_2007
+
 ---
 
 # Verordnung über die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin (Brau/MälzAusbV 2007)

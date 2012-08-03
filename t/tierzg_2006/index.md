@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Tierzuchtgesetz'
+Title: Tierzuchtgesetz
 layout: default
 slug: tierzg_2006
+
 ---
 
 # Tierzuchtgesetz (TierZG 2006)

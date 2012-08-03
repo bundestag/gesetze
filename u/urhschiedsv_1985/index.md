@@ -2,6 +2,7 @@
 Title: Verordnung über die Schiedsstelle für Urheberrechtsstreitfälle
 layout: default
 slug: urhschiedsv_1985
+
 ---
 
 # Verordnung über die Schiedsstelle für Urheberrechtsstreitfälle (UrhSchiedsV 1985)

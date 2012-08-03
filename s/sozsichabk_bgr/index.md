@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgari
   über Soziale Sicherheit
 layout: default
 slug: sozsichabk_bgr
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgarien über Soziale Sicherheit (SozSichAbk BGR)

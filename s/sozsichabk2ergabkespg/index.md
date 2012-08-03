@@ -4,6 +4,7 @@ Title: Gesetz zu dem Abkommen vom 4. Dezember 1973 zwischen der Bundesrepublik D
   17. Dezember 1975
 layout: default
 slug: sozsichabk2ergabkespg
+
 ---
 
 # Gesetz zu dem Abkommen vom 4. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit und dem Ergänzungsabkommen vom 17. Dezember 1975 (SozSichAbk2ErgAbkESPG)

@@ -3,6 +3,7 @@ Title: Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatiti
   infizierte Personen
 layout: default
 slug: antidhg
+
 ---
 
 # Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen (AntiDHG)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Textillaborant/zur Textillaborantin
 layout: default
 slug: textlabausbv_2003
+
 ---
 
 # Verordnung über die Berufsausbildung zum Textillaborant/zur Textillaborantin (TextLabAusbV 2003)

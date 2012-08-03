@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuregelung des Asylverfahrens'
+Title: Gesetz zur Neuregelung des Asylverfahrens
 layout: default
 slug: asylvfgng
+
 ---
 
 # Gesetz zur Neuregelung des Asylverfahrens (AsylVfGNG)

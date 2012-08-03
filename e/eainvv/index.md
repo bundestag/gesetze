@@ -3,6 +3,7 @@ Title: Verordnung zum elektronischen Anzeigeverfahren für richtlinienkonforme i
   Investmentvermögen nach dem Investmentgesetz
 layout: default
 slug: eainvv
+
 ---
 
 # Verordnung zum elektronischen Anzeigeverfahren für richtlinienkonforme inländische Investmentvermögen nach dem Investmentgesetz (EAInvV)

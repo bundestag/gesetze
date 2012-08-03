@@ -2,6 +2,7 @@
 Title: Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 layout: default
 slug: bimschv_9
+
 ---
 
 # Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 9)

@@ -3,6 +3,7 @@ Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen
   Verwaltungsdienst des Bundes
 layout: default
 slug: lap-gbautdv
+
 ---
 
 # Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes (LAP-gbautDV)

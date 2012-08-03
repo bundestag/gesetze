@@ -2,6 +2,7 @@
 Title: Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft
 layout: default
 slug: ewgvtr
+
 ---
 
 # Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft (EWGVtr)

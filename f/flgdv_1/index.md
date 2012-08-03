@@ -2,6 +2,7 @@
 Title: Verordnung über die Preismeldung bei Schlachtkörpern und deren Kennzeichnung
 layout: default
 slug: flgdv_1
+
 ---
 
 # Verordnung über die Preismeldung bei Schlachtkörpern und deren Kennzeichnung (FlGDV 1)

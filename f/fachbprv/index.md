@@ -3,6 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachbe
   im Vertrieb/Geprüfte Fachberaterin im Vertrieb
 layout: default
 slug: fachbprv
+
 ---
 
 # Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb (FachbPrV)

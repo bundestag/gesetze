@@ -3,6 +3,7 @@ Title: Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale
   ökologische Marktwirtschaft in der Deutschen Demokratischen Republik
 layout: default
 slug: lanpg
+
 ---
 
 # Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und ökologische Marktwirtschaft in der Deutschen Demokratischen Republik (LAnpG)

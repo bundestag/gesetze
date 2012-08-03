@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistun
   Gesundheitswesen sowie Veranstaltungswirtschaft
 layout: default
 slug: kfldiausbv
+
 ---
 
 # Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft (KflDiAusbV)

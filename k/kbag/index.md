@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung eines Kraftfahrt-Bundesamts
 layout: default
 slug: kbag
+
 ---
 
 # Gesetz über die Errichtung eines Kraftfahrt-Bundesamts (KBAG)

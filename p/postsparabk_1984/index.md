@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postsparkassenabkommen'
+Title: Postsparkassenabkommen
 layout: default
 slug: postsparabk_1984
+
 ---
 
 # Postsparkassenabkommen (PostSparAbk 1984)

@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Feinoptiker/zur Feinoptikerin
 layout: default
 slug: feinoausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Feinoptiker/zur Feinoptikerin (FeinOAusbV)

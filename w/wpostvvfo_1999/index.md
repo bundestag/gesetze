@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Allgemeine Verfahrensordnung des Weltpostvereins'
+Title: Allgemeine Verfahrensordnung des Weltpostvereins
 layout: default
 slug: wpostvvfo_1999
+
 ---
 
 # Allgemeine Verfahrensordnung des Weltpostvereins (WPostVVfO 1999)

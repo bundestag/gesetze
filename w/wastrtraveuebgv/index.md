@@ -3,6 +3,7 @@ Title: Verordnung über den Übergang von zur Bundeswasserstraße Trave gehören
   auf die Hansestadt Lübeck
 layout: default
 slug: wastrtrave_bgv
+
 ---
 
 # Verordnung über den Übergang von zur Bundeswasserstraße Trave gehörenden  Nebenstrecken auf die Hansestadt Lübeck (WaStrTraveÜbgV)

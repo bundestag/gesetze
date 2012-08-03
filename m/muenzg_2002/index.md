@@ -2,6 +2,7 @@
 Title: Münzgesetz
 layout: default
 slug: m_nzg_2002
+
 ---
 
 # Münzgesetz (MünzG 2002)

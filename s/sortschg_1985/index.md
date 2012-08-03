@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Sortenschutzgesetz'
+Title: Sortenschutzgesetz
 layout: default
 slug: sortschg_1985
+
 ---
 
 # Sortenschutzgesetz (SortSchG 1985)

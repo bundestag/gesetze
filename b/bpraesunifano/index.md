@@ -3,6 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und di
   der Soldaten
 layout: default
 slug: bpr_sunifano
+
 ---
 
 # Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldaten (BPräsUnifAnO)

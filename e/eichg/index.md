@@ -2,6 +2,7 @@
 Title: Gesetz über das Meß- und Eichwesen
 layout: default
 slug: eichg
+
 ---
 
 # Gesetz über das Meß- und Eichwesen (EichG)

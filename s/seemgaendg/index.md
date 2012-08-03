@@ -2,6 +2,7 @@
 Title: Gesetz zur Änderung und Ergänzung des Seemannsgesetzes
 layout: default
 slug: seemg_ndg
+
 ---
 
 # Gesetz zur Änderung und Ergänzung des Seemannsgesetzes (SeemGÄndG)

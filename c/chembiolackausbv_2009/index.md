@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie
 und Lack
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: chembiolackausbv_2009
+
 ---
 
 #  (ChemBioLackAusbV 2009)

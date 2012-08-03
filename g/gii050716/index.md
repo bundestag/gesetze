@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 28. März 2000 zwischen der Bundesrepublik Deut
   Kapitalanlagen
 layout: default
 slug: gii050716
+
 ---
 
 # Gesetz zu dem Vertrag vom 28. März 2000 zwischen der Bundesrepublik Deutschland und der Bundesrepublik Nigeria über die Förderung und den gegenseitigen Schutz von Kapitalanlagen (GII050716)

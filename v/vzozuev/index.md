@@ -4,6 +4,7 @@ Title: Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsident
   das Bundesamt zur Regelung offener Vermögensfragen
 layout: default
 slug: vzoz_v
+
 ---
 
 # Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsidenten der Oberfinanzdirektionen in den neuen Ländern nach dem Vermögenszuordnungsgesetz auf das Bundesamt zur Regelung offener Vermögensfragen (VZOZÜV)

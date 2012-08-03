@@ -2,6 +2,7 @@
 Title: Verordnung zur Regelung einer Übergangszahlung an Beamte
 layout: default
 slug: _zv
+
 ---
 
 # Verordnung zur Regelung einer Übergangszahlung an Beamte (ÜZV)

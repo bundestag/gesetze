@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Eichkostenverordnung'
+Title: Eichkostenverordnung
 layout: default
 slug: eich_beglkosto
+
 ---
 
 # Eichkostenverordnung (Eich/BeglKostO)

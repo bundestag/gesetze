@@ -3,6 +3,7 @@ Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des 
   auf das Bundesverwaltungsamt
 layout: default
 slug: bvwadisrzustano
+
 ---
 
 # Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts auf das Bundesverwaltungsamt (BVwADisRZustAnO)

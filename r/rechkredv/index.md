@@ -2,6 +2,7 @@
 Title: Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute
 layout: default
 slug: rechkredv
+
 ---
 
 # Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute (RechKredV)

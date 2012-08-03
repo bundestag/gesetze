@@ -2,6 +2,7 @@
 Title: Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte
 layout: default
 slug: rvg
+
 ---
 
 # Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)

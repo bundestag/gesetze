@@ -3,6 +3,7 @@ Title: Gesetz zur Änderung und Ergänzung der Vorschriften über die Wiedergutm
   nationalsozialistischen Unrechts in der Sozialversicherung
 layout: default
 slug: wgsvg_ndg
+
 ---
 
 # Gesetz zur Änderung und Ergänzung der Vorschriften über die Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung (WGSVGÄndG)

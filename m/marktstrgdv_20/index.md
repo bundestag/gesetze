@@ -2,6 +2,7 @@
 Title: Zwanzigste Durchführungsverordnung zum Marktstrukturgesetz - Damtiere
 layout: default
 slug: marktstrgdv_20
+
 ---
 
 # Zwanzigste Durchführungsverordnung zum Marktstrukturgesetz - Damtiere (MarktStrGDV 20)

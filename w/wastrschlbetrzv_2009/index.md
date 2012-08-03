@@ -3,6 +3,7 @@ Title: Verordnung über die Festsetzung der Schleusenbetriebszeiten an den Bunde
   im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion West
 layout: default
 slug: wastrschlbetrzv_2009
+
 ---
 
 # Verordnung über die Festsetzung der Schleusenbetriebszeiten an den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion West (WaStrSchlBetrZV 2009)

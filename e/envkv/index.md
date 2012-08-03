@@ -3,6 +3,7 @@ Title: Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mi
   Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 layout: default
 slug: envkv
+
 ---
 
 # Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen (EnVKV)

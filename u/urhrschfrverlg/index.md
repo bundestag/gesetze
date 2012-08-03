@@ -2,6 +2,7 @@
 Title: Gesetz zur Verlängerung der Schutzfristen im Urheberrecht
 layout: default
 slug: urhrschfrverlg
+
 ---
 
 # Gesetz zur Verlängerung der Schutzfristen im Urheberrecht (UrhRSchFrVerlG)

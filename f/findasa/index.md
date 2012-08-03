@@ -2,6 +2,7 @@
 Title: Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 layout: default
 slug: findasa
+
 ---
 
 # Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht (FinDASa)

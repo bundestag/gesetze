@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes
 layout: default
 slug: bvg_15dv
+
 ---
 
 # Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes (BVG§15DV)

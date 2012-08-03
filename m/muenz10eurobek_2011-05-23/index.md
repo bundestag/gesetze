@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „125 Jahre Automobil“)
 layout: default
 slug: m_nz10eurobek_2011-05-23
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „125 Jahre Automobil“) (Münz10EuroBek 2011-05-23)

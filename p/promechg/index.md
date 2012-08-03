@@ -3,6 +3,7 @@ Title: Gesetz über projektbezogene Mechanismen nach dem Protokoll von Kyoto zum
   der Vereinten Nationen über Klimaänderungen vom 11. Dezember 1997
 layout: default
 slug: promechg
+
 ---
 
 # Gesetz über projektbezogene Mechanismen nach dem Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen vom 11. Dezember 1997 (ProMechG)

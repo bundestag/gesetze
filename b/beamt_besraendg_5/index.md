@@ -2,6 +2,7 @@
 Title: Fünftes Gesetz zur Änderung beamtenrechtlicher und besoldungsrechtlicher Vorschriften
 layout: default
 slug: beamt_besr_ndg_5
+
 ---
 
 # Fünftes Gesetz zur Änderung beamtenrechtlicher und besoldungsrechtlicher Vorschriften (Beamt/BesRÄndG 5)

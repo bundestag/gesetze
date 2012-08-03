@@ -3,6 +3,7 @@ Title: Verordnung über die Zulassung von Wertpapieren zum regulierten Markt ein
   Wertpapierbörse
 layout: default
 slug: b_rszulv
+
 ---
 
 # Verordnung über die Zulassung von Wertpapieren zum regulierten Markt einer Wertpapierbörse (BörsZulV)

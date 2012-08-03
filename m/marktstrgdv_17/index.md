@@ -2,6 +2,7 @@
 Title: Siebzehnte Durchführungsverordnung zum Marktstrukturgesetz - Trockenfutter
 layout: default
 slug: marktstrgdv_17
+
 ---
 
 # Siebzehnte Durchführungsverordnung zum Marktstrukturgesetz - Trockenfutter (MarktStrGDV 17)

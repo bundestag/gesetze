@@ -3,6 +3,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belg
   über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
 layout: default
 slug: kathilabk_bel
+
 ---
 
 # Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen (KatHiLAbk BEL)

@@ -2,6 +2,7 @@
 Title: Verordnung über Aufzeichnungen über Versuchstiere und deren Kennzeichnung
 layout: default
 slug: verstieraufzkennzv
+
 ---
 
 # Verordnung über Aufzeichnungen über Versuchstiere und deren Kennzeichnung (VersTierAufzKennzV)

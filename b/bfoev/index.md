@@ -2,6 +2,7 @@
 Title: Verordnung zur Durchführung der Berufsförderung von Soldatinnen und  Soldaten
 layout: default
 slug: bf_v
+
 ---
 
 # Verordnung zur Durchführung der Berufsförderung von Soldatinnen und  Soldaten (BföV)

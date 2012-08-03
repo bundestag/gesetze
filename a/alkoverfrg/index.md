@@ -2,6 +2,7 @@
 Title: Gesetz über die Verfrachtung alkoholischer Waren
 layout: default
 slug: alkoverfrg
+
 ---
 
 # Gesetz über die Verfrachtung alkoholischer Waren (AlkoVerfrG)

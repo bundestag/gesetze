@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Umwelthaftungsgesetz'
+Title: Umwelthaftungsgesetz
 layout: default
 slug: umwelthg
+
 ---
 
 # Umwelthaftungsgesetz (UmweltHG)

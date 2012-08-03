@@ -3,6 +3,7 @@ Title: Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen 
   der Bundesrepublik Deutschland in Gewahrsam genommen wurden
 layout: default
 slug: hhg
+
 ---
 
 # Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen außerhalb der Bundesrepublik Deutschland in Gewahrsam genommen wurden (HHG)

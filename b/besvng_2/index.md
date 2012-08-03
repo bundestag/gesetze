@@ -3,6 +3,7 @@ Title: Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts
   Bund und Ländern
 layout: default
 slug: besvng_2
+
 ---
 
 # Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (BesVNG 2)

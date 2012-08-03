@@ -2,6 +2,7 @@
 Title: Gesetz über den Feingehalt der Gold- und Silberwaren
 layout: default
 slug: feingehg
+
 ---
 
 # Gesetz über den Feingehalt der Gold- und Silberwaren (FeinGehG)

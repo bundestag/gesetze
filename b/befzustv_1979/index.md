@@ -3,6 +3,7 @@ Title: Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft
   Ernährung für die Registrierung der Vermehrungsverträge für Saatgut in Drittländern
 layout: default
 slug: befzustv_1979
+
 ---
 
 # Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung für die Registrierung der Vermehrungsverträge für Saatgut in Drittländern (BEFZustV 1979)

@@ -2,6 +2,7 @@
 Title: Verordnung über Lieferbeschränkungen für Kraftstoff in einer Versorgungskrise
 layout: default
 slug: kraftstofflbv
+
 ---
 
 # Verordnung über Lieferbeschränkungen für Kraftstoff in einer Versorgungskrise (KraftstoffLBV)

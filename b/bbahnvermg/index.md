@@ -2,6 +2,7 @@
 Title: Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn
 layout: default
 slug: bbahnvermg
+
 ---
 
 # Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn (BBahnVermG)

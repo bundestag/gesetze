@@ -3,6 +3,7 @@ Title: Gesetz zu dem Internationalen Abkommen vom 26. Oktober 1961 über den Sch
   der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen
 layout: default
 slug: kunstschabkg
+
 ---
 
 # Gesetz zu dem Internationalen Abkommen vom 26. Oktober 1961 über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen (KunstSchAbkG)

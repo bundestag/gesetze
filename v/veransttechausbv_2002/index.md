@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
 layout: default
 slug: veransttechausbv_2002
+
 ---
 
 # Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik (VeranstTechAusbV 2002)

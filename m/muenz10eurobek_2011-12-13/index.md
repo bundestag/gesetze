@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „300. Geburtstag Friedrich II.“)
 layout: default
 slug: m_nz10eurobek_2011-12-13
+
 ---
 
 # Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „300. Geburtstag Friedrich II.“) (Münz10EuroBek 2011-12-13)

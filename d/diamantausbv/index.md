@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Diamantschleifer/zur Diamantschleiferin
 layout: default
 slug: diamantausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Diamantschleifer/zur Diamantschleiferin (DiamantAusbV)

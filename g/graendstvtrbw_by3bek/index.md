@@ -4,6 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Dritten Staa
   Landesgrenze
 layout: default
 slug: gr_ndstvtrbw_by3bek
+
 ---
 
 # Bekanntmachung über den Abschluß und das Inkrafttreten des Dritten Staatsvertrages zwischen dem Freistaat Bayern und dem Land Baden-Württemberg über die Änderung der Landesgrenze (GrÄndStVtrBW/BY3Bek)

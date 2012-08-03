@@ -4,6 +4,7 @@ Title: Verordnung über die Ausdehnung der Vorschriften über die Zulassung der 
   werden, sowie über Verfahrensregelungen der staatlichen Chargenprüfung
 layout: default
 slug: tav
+
 ---
 
 # Verordnung über die Ausdehnung der Vorschriften über die Zulassung der Arzneimittel auf Therapieallergene, die für einzelne Personen auf Grund einer Rezeptur hergestellt werden, sowie über Verfahrensregelungen der staatlichen Chargenprüfung (TAV)

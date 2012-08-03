@@ -4,6 +4,7 @@ Title: Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zu
   Investitionshilfeabgabe
 layout: default
 slug: hbegleitg_1984
+
 ---
 
 # Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der Investitionshilfeabgabe (HBegleitG 1984)

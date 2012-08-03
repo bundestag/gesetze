@@ -3,6 +3,7 @@ Title: Verordnung über die Abgaben in den bundeseigenen Häfen im Geltungsberei
   Seeschifffahrtsstraßen-Ordnung
 layout: default
 slug: bhfabgv
+
 ---
 
 # Verordnung über die Abgaben in den bundeseigenen Häfen im Geltungsbereich der Seeschifffahrtsstraßen-Ordnung (BHfAbgV)

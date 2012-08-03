@@ -2,6 +2,7 @@
 Title: Arbeitsförderungsgesetz
 layout: default
 slug: afg
+
 ---
 
 # Arbeitsförderungsgesetz (AFG)

@@ -3,6 +3,7 @@ Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die ita
   Kulturinstitute
 layout: default
 slug: italkultinstvorrv
+
 ---
 
 # Verordnung über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute (ItalKultInstVorRV)

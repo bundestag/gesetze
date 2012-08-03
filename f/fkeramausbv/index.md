@@ -2,6 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Figurenkeramformer/zur Figurenkeramformerin
 layout: default
 slug: fkeramausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Figurenkeramformer/zur Figurenkeramformerin (FKeramAusbV)

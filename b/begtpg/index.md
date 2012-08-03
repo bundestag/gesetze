@@ -3,6 +3,7 @@ Title: Gesetz über die Bundesnetzagentur für Elektrizität, Gas, Telekommunika
   Post und Eisenbahnen
 layout: default
 slug: begtpg
+
 ---
 
 # Gesetz über die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (BEGTPG)

@@ -3,6 +3,7 @@ Title: Verfahrensverordnung zu Artikel VI des Zweiten Gesetzes zur Änderung des
   (BEG-Schlußgesetz)
 layout: default
 slug: begschlgverfv
+
 ---
 
 # Verfahrensverordnung zu Artikel VI des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) (BEGSchlGVerfV)

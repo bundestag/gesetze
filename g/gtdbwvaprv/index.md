@@ -3,6 +3,7 @@ Title: Verordnung über die Ausbildung und Prüfung für den gehobenen technisch
   in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
 layout: default
 slug: gtdbwvaprv
+
 ---
 
 # Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – (GtDBWVAPrV)

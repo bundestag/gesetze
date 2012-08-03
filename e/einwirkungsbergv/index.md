@@ -2,6 +2,7 @@
 Title: Bergverordnung über Einwirkungsbereiche
 layout: default
 slug: einwirkungsbergv
+
 ---
 
 # Bergverordnung über Einwirkungsbereiche (EinwirkungsBergV)

@@ -5,6 +5,7 @@ Title: Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnunge
   der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 layout: default
 slug: bakredwwsubef_v
+
 ---
 
 # Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik (BAKredWWSUBefÜV)

@@ -4,6 +4,7 @@ Title: Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten d
   des Bundesministeriums für Gesundheit und Soziale Sicherung
 layout: default
 slug: bmingsernano
+
 ---
 
 # Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten der bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung (BMinGSErnAnO)

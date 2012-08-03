@@ -4,6 +4,7 @@ Title: Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wah
   Demokratischen Republik
 layout: default
 slug: gdtwahlvdvtr
+
 ---
 
 # Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik (GDtWahlVDVtr)

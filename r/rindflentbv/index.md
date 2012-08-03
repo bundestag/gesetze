@@ -3,6 +3,7 @@ Title: Verordnung über die Entbeinung von Interventionsrindfleisch zum Zwecke d
   Ausfuhr
 layout: default
 slug: rindflentbv
+
 ---
 
 # Verordnung über die Entbeinung von Interventionsrindfleisch zum Zwecke der Ausfuhr (RindFlEntbV)

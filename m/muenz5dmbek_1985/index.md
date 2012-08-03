@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Europäisches Jahr der Musik 1985)
 layout: default
 slug: m_nz5dmbek_1985
+
 ---
 
 # Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Europäisches Jahr der Musik 1985) (Münz5DMBek 1985)

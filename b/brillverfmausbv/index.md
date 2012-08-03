@@ -3,6 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Brill
   Verfahrensmechanikerin für Brillenoptik
 layout: default
 slug: brillverfmausbv
+
 ---
 
 # Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Brillenoptik/zur Verfahrensmechanikerin für Brillenoptik (BrillVerfMAusbV)

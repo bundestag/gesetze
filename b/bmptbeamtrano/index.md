@@ -3,6 +3,7 @@ Title: Anordnung zur Übertragung von Befugnissen auf dem Gebiete des Beamtenrec
   im Geschäftsbereich des Bundesministers für Post und Telekommunikation
 layout: default
 slug: bmptbeamtrano
+
 ---
 
 # Anordnung zur Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Geschäftsbereich des Bundesministers für Post und Telekommunikation (BMPTBeamtRAnO)

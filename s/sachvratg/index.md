@@ -3,6 +3,7 @@ Title: Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung de
   Entwicklung
 layout: default
 slug: sachvratg
+
 ---
 
 # Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung (SachvRatG)

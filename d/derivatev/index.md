@@ -3,6 +3,7 @@ Title: Verordnung über Risikomanagement und Risikomessung beim Einsatz von Deri
   in Sondervermögen nach dem Investmentgesetz
 layout: default
 slug: derivatev
+
 ---
 
 # Verordnung über Risikomanagement und Risikomessung beim Einsatz von Derivaten in Sondervermögen nach dem Investmentgesetz (DerivateV)

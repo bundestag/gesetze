@@ -4,6 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österre
   finanzielle Fragen und Fragen aus dem sozialen Bereich
 layout: default
 slug: finausglvtr_aut
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich (FinAusglVtr AUT)

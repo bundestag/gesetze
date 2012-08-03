@@ -2,9 +2,10 @@
 Verordnung über die Gewinnung, Abgabe und Verwendung von Samen,
 Eizellen und Embryonen von Zuchttieren
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: samenv
+
 ---
 
 #  (SamEnV)

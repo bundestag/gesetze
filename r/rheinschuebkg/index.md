@@ -3,6 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 20. November 1963 zur Revision der am 17
   1868 in Mannheim unterzeichneten Revidierten Rheinschiffahrtsakte
 layout: default
 slug: rheinsch_bkg
+
 ---
 
 # Gesetz zu dem Übereinkommen vom 20. November 1963 zur Revision der am 17. Oktober 1868 in Mannheim unterzeichneten Revidierten Rheinschiffahrtsakte (RheinSchÜbkG)

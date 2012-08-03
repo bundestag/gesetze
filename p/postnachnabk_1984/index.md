@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Postnachnahmeabkommen'
+Title: Postnachnahmeabkommen
 layout: default
 slug: postnachnabk_1984
+
 ---
 
 # Postnachnahmeabkommen (PostnachnAbk 1984)

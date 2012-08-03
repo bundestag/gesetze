@@ -4,6 +4,7 @@ Title: Gesetz zu dem Vertrag vom 1. Oktober 1971 zwischen der Bundesrepublik Deu
   Strafsachen
 layout: default
 slug: rhivtryugg
+
 ---
 
 # Gesetz zu dem Vertrag vom 1. Oktober 1971 zwischen der Bundesrepublik Deutschland und der Sozialistischen Föderativen Republik Jugoslawien über die Rechtshilfe in Strafsachen (RHiVtrYUGG)

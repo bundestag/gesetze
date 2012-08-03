@@ -3,6 +3,7 @@ Title: Gesetz über die Auflösung der Staatlichen Versicherung der Deutschen De
   Republik in Abwicklung
 layout: default
 slug: svddrauflg
+
 ---
 
 # Gesetz über die Auflösung der Staatlichen Versicherung der Deutschen Demokratischen Republik in Abwicklung (SVDDRAuflG)

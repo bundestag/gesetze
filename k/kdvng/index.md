@@ -1,8 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Neuordnung des Rechts der Kriegsdienstverweigerung
-  und des Zivildienstes'
+Title: Gesetz zur Neuordnung des Rechts der Kriegsdienstverweigerung und des Zivildienstes
 layout: default
 slug: kdvng
+
 ---
 
 # Gesetz zur Neuordnung des Rechts der Kriegsdienstverweigerung und des Zivildienstes (KDVNG)

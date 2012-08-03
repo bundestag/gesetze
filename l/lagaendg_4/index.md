@@ -2,6 +2,7 @@
 Title: Viertes Gesetz zur Änderung des Lastenausgleichsgesetzes
 layout: default
 slug: lag_ndg_4
+
 ---
 
 # Viertes Gesetz zur Änderung des Lastenausgleichsgesetzes (LAGÄndG 4)

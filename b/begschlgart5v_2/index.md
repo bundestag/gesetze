@@ -2,6 +2,7 @@
 Title: Zweite Verordnung zu Artikel V des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes
 layout: default
 slug: begschlgart5v_2
+
 ---
 
 # Zweite Verordnung zu Artikel V des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEGSchlGArt5V 2)

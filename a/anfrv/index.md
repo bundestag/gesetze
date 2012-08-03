@@ -3,6 +3,7 @@ Title: Verordnung zur Verlängerung der Frist für die Stellung von Anträgen na
   1 Abs. 4 sowie § 10 des Vermögenszuordnungsgesetzes
 layout: default
 slug: anfrv
+
 ---
 
 # Verordnung zur Verlängerung der Frist für die Stellung von Anträgen nach § 1 Abs. 4 sowie § 10 des Vermögenszuordnungsgesetzes (AnFrV)

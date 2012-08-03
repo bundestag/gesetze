@@ -1,7 +1,8 @@
 ---
-Title: !!python/unicode 'Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts'
+Title: Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts
 layout: default
 slug: erbstrg
+
 ---
 
 # Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts (ErbStRG)

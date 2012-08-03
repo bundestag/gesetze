@@ -3,6 +3,7 @@ Title: Bekanntmachung über das deutsch-griechische Abkommen über die gegenseit
   Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
 layout: default
 slug: rhigrcabkbek
+
 ---
 
 # Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts (RHiGRCAbkBek)

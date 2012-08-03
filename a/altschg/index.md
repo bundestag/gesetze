@@ -3,6 +3,7 @@ Title: Gesetz über Altschuldenhilfen für Kommunale Wohnungsunternehmen, Wohnun
   und private Vermieter in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 layout: default
 slug: altschg
+
 ---
 
 # Gesetz über Altschuldenhilfen für Kommunale Wohnungsunternehmen, Wohnungsgenossenschaften und private Vermieter in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (AltSchG)

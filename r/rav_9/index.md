@@ -1,8 +1,9 @@
 ---
-Title: !!python/unicode 'Verordnung zur neunten Anpassung der Renten in dem in Artikel
-  3 des Einigungsvertrages genannten Gebiet'
+Title: Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
+  genannten Gebiet
 layout: default
 slug: rav_9
+
 ---
 
 # Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (RAV 9)

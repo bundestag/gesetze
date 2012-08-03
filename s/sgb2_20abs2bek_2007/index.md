@@ -3,6 +3,7 @@ Title: Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 Satz 1
   Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2007
 layout: default
 slug: sgb2_20abs2bek_2007
+
 ---
 
 # Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 Satz 1  des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2007 (SGB2§20Abs2Bek 2007)

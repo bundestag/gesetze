@@ -2,6 +2,7 @@
 Title: Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus
 layout: default
 slug: adenauerhstiftg
+
 ---
 
 # Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus (AdenauerHStiftG)

@@ -2,6 +2,7 @@
 Title: Wertpapiererwerbs- und Übernahmegesetz
 layout: default
 slug: wp_g
+
 ---
 
 # Wertpapiererwerbs- und Übernahmegesetz (WpÜG)

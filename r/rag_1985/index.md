@@ -4,6 +4,7 @@ Title: Rentenanpassungsgesetz 1985 (Artikel 1 des Gesetzes über die Anpassung d
   Unfallversicherung im Jahre 1985)
 layout: default
 slug: rag_1985
+
 ---
 
 # Rentenanpassungsgesetz 1985 (Artikel 1 des Gesetzes über die Anpassung der Renten der gesetzlichen Rentenversicherung und der Geldleistungen der gesetzlichen Unfallversicherung im Jahre 1985) (RAG 1985)

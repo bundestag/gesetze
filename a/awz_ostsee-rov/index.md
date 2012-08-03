@@ -3,6 +3,7 @@ Title: Verordnung über die Raumordnung in der deutschen ausschließlichen Wirts
   in der Ostsee
 layout: default
 slug: awz_ostsee-rov
+
 ---
 
 # Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Ostsee (AWZ Ostsee-ROV)

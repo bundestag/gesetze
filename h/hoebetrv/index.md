@@ -3,6 +3,7 @@ Title: Verordnung über die Höchstbeträge der steuerlich begünstigten Herstel
   von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes
 layout: default
 slug: h_betrv
+
 ---
 
 # Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes (HöBetrV)

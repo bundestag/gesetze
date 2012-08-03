@@ -2,6 +2,7 @@
 Title: Gesetz betreffend die Überleitung von Hypotheken des früheren Rechts
 layout: default
 slug: hyp_berlg
+
 ---
 
 # Gesetz betreffend die Überleitung von Hypotheken des früheren Rechts (HypÜberlG)

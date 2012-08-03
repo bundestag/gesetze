@@ -4,6 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und Spanien über die Ane
   öffentlichen Urkunden in Zivil- und Handelssachen
 layout: default
 slug: vollstrvtr_esp
+
 ---
 
 # Vertrag zwischen der Bundesrepublik Deutschland und Spanien über die Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Vergleichen sowie vollstreckbaren öffentlichen Urkunden in Zivil- und Handelssachen (VollstrVtr ESP)

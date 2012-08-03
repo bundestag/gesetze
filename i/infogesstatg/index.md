@@ -2,6 +2,7 @@
 Title: Gesetz über die Statistik zur Informationsgesellschaft
 layout: default
 slug: infogesstatg
+
 ---
 
 # Gesetz über die Statistik zur Informationsgesellschaft (InfoGesStatG)

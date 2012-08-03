@@ -2,6 +2,7 @@
 Title: Gesetz zur Neuregelung der Kraftfahrzeugsteuer und Änderung anderer Gesetze
 layout: default
 slug: kraftstnrg
+
 ---
 
 # Gesetz zur Neuregelung der Kraftfahrzeugsteuer und Änderung anderer Gesetze (KraftStNRG)

@@ -2,6 +2,7 @@
 Title: Gesetz über den Deutschen Sparkassen- und Giroverband
 layout: default
 slug: sparkgiroverbg
+
 ---
 
 # Gesetz über den Deutschen Sparkassen- und Giroverband (SparkGiroVerbG)

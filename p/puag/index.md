@@ -2,6 +2,7 @@
 Title: Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages
 layout: default
 slug: puag
+
 ---
 
 # Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages (PUAG)

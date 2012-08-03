@@ -2,6 +2,7 @@
 Title: Verordnung über Beiträge zum Schutz einer störungsfreien Frequenznutzung
 layout: default
 slug: fsbeitrv
+
 ---
 
 # Verordnung über Beiträge zum Schutz einer störungsfreien Frequenznutzung (FSBeitrV)

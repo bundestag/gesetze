@@ -2,9 +2,10 @@
 Verordnung über die Berufsausbildung zum Bergbautechnologen/zur
 Bergbautechnologin
 ---
-Title: !!python/unicode ''
+Title: ''
 layout: default
 slug: bergtechausbv
+
 ---
 
 #  (BergtechAusbV)

@@ -2,6 +2,7 @@
 Title: Gesetz zur Gewährung von Konsolidierungshilfen
 layout: default
 slug: konshilfg
+
 ---
 
 # Gesetz zur Gewährung von Konsolidierungshilfen (KonsHilfG)

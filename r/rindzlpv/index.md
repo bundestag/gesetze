@@ -2,6 +2,7 @@
 Title: Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Rindern
 layout: default
 slug: rindzlpv
+
 ---
 
 # Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Rindern (RindZLpV)

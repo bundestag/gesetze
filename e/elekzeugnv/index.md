@@ -4,6 +4,7 @@ Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschul
   in Ausbildungsberufen
 layout: default
 slug: elekzeugnv
+
 ---
 
 # Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für Elektrotechnik in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen (ElekZeugnV)
