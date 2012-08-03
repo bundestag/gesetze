@@ -3,7 +3,9 @@ Gesetz über den Handel mit Berechtigungen zur Emission von
 Treibhausgasen
 ---
 Title: ''
+jurabk: TEHG 2011
 layout: default
+origslug: tehg_2011
 slug: tehg_2011
 
 ---

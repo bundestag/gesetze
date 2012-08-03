@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Verkehr mit Essig und Essigessenz
+jurabk: EssigV
 layout: default
+origslug: essigv
 slug: essigv
 
 ---

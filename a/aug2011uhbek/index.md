@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Feststellung der Gegenseitigkeit für die Geltendmachung
   von Unterhaltsansprüchen nach dem Auslandsunterhaltsgesetz
+jurabk: AUG2011UhBek
 layout: default
+origslug: aug2011uhbek
 slug: aug2011uhbek
 
 ---

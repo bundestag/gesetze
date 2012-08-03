@@ -1,7 +1,9 @@
 ---
 Title: Einhundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Anwendung von Sekundärradar in der Bundesrepublik Deutschland)
+jurabk: LuftVODV 144
 layout: default
+origslug: luftvodv_144
 slug: luftvodv_144
 
 ---

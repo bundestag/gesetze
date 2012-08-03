@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Zimmerer-Handwerk
+jurabk: ZimMstrV 2008
 layout: default
+origslug: zimmstrv_2008
 slug: zimmstrv_2008
 
 ---

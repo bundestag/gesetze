@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Genehmigung der Neufassung der Satzung des Johanniterordens
+jurabk: JohOrdenNFErl
 layout: default
+origslug: johordennferl
 slug: johordennferl
 
 ---

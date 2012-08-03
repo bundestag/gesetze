@@ -1,6 +1,8 @@
 ---
 Title: Vierte Durchführungsverordnung zum Marktstrukturgesetz - Eier und Geflügel
+jurabk: MarktStrGDV 4
 layout: default
+origslug: marktstrgdv_4
 slug: marktstrgdv_4
 
 ---

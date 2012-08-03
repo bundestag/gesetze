@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den höheren vermessungstechnischen
   Verwaltungsdienst
+jurabk: VermhDAusbV
 layout: default
+origslug: vermhdausbv
 slug: vermhdausbv
 
 ---

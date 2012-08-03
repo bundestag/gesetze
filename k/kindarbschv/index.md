@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Kinderarbeitsschutz
+jurabk: KindArbSchV
 layout: default
+origslug: kindarbschv
 slug: kindarbschv
 
 ---

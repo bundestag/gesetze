@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an das Deutsch-Französische
   Jugendwerk
+jurabk: DtFrJWVorRV
 layout: default
+origslug: dtfrjwvorrv
 slug: dtfrjwvorrv
 
 ---

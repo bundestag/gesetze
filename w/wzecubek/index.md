@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Ecuador
+jurabk: WZECUBek
 layout: default
+origslug: wzecubek
 slug: wzecubek
 
 ---

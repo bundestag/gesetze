@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Einrichtung und die Führung des Registers für Pfandrechte
   an Luftfahrzeugen
+jurabk: LuftRegV
 layout: default
+origslug: luftregv
 slug: luftregv
 
 ---

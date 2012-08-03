@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über zusätzliche Entschädigungsleistungen für nuklearen  Schaden
+jurabk: ZusEntschLnuklSchÜbk
 layout: default
-slug: zusentschlnuklsch_bk
+origslug: zusentschlnuklsch_bk
+slug: zusentschlnuklschuebk
 
 ---
 

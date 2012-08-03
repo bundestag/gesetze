@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen
   Post AG
+jurabk: Post-AZV 2003
 layout: default
+origslug: post-azv_2003
 slug: post-azv_2003
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Betonstein- und Terrazzohersteller-Handwerk
+jurabk: BetTerMstrV
 layout: default
+origslug: bettermstrv
 slug: bettermstrv
 
 ---

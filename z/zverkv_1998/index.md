@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Anforderungen an Zusatzstoffe und das Inverkehrbringen von
   Zusatzstoffen für technologische Zwecke
+jurabk: ZVerkV 1998
 layout: default
+origslug: zverkv_1998
 slug: zverkv_1998
 
 ---

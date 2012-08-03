@@ -4,7 +4,9 @@ Title: Richtlinie 2008/74/EG der Kommission vom 18. Juli 2008 zur Änderung der 
   in Bezug auf die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen
   von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und des Zugangs
   zu Reparatur- und Wartungsinformationen für Fahrzeuge
+jurabk: EGRL 74/2008
 layout: default
+origslug: egrl_74_2008
 slug: egrl_74_2008
 
 ---

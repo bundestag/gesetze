@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne
   des § 19 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes
+jurabk: AgNwV
 layout: default
+origslug: agnwv
 slug: agnwv
 
 ---

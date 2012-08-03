@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter
   Milcherzeugnisse
+jurabk: PrLagerhBeihV
 layout: default
+origslug: prlagerhbeihv
 slug: prlagerhbeihv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Vierte Verordnung über die Inkraftsetzung von Änderungen internationaler Vorschriften
   über den Umweltschutz im Seeverkehr
+jurabk: UmwSeeInkrV 4
 layout: default
+origslug: umwseeinkrv_4
 slug: umwseeinkrv_4
 
 ---

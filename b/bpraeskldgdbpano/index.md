@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   von Beamten der Deutschen Bundespost
+jurabk: BPräsKldgDBPAnO
 layout: default
-slug: bpr_skldgdbpano
+origslug: bpr_skldgdbpano
+slug: bpraeskldgdbpano
 
 ---
 

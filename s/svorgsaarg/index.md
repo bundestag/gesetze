@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung der Sozialversicherungsträger im Saarland
+jurabk: SVOrgSaarG
 layout: default
+origslug: svorgsaarg
 slug: svorgsaarg
 
 ---

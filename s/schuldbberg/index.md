@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche
   Demokratische Republik
+jurabk: SchuldBBerG
 layout: default
+origslug: schuldbberg
 slug: schuldbberg
 
 ---

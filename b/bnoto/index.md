@@ -1,6 +1,8 @@
 ---
 Title: Bundesnotarordnung
+jurabk: BNotO
 layout: default
+origslug: bnoto
 slug: bnoto
 
 ---

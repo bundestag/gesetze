@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Einführung des Bundesversorgungsgesetzes im Saarland
+jurabk: BVGSaarEG
 layout: default
+origslug: bvgsaareg
 slug: bvgsaareg
 
 ---

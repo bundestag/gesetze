@@ -2,7 +2,9 @@
 Title: Allgemeine Anordnung über die Übertragung von Zuständigkeiten zur Entscheidung
   über Beschwerden nach der Wehrbeschwerdeordnung im Bereich des Bundesministers der
   Verteidigung
+jurabk: WBOZustAnO
 layout: default
+origslug: wbozustano
 slug: wbozustano
 
 ---

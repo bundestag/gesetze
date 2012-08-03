@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten
   von Amerika über gegenseitige Verteidigungshilfe
+jurabk: VgHilAbk USA
 layout: default
+origslug: vghilabk_usa
 slug: vghilabk_usa
 
 ---

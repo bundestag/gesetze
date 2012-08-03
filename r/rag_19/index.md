@@ -2,7 +2,9 @@
 Title: Neunzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
   und der Altersgelder in der Altershilfe für Landwirte
+jurabk: RAG 19
 layout: default
+origslug: rag_19
 slug: rag_19
 
 ---

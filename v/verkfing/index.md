@@ -1,6 +1,8 @@
 ---
 Title: Verkehrsfinanzgesetz 1955
+jurabk: VerkFinG
 layout: default
+origslug: verkfing
 slug: verkfing
 
 ---

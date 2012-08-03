@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Staatsvertrag vom 16. Dezember 2009 und 26. Januar 2010 über
   die Verteilung von Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln
+jurabk: VsorglastVteilStVtrG
 layout: default
+origslug: vsorglastvteilstvtrg
 slug: vsorglastvteilstvtrg
 
 ---

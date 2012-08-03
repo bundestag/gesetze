@@ -1,6 +1,8 @@
 ---
 Title: Ernährungsbewirtschaftungsverordnung
+jurabk: EBewiV
 layout: default
+origslug: ebewiv
 slug: ebewiv
 
 ---

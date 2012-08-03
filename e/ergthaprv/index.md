@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsverordnung für Ergotherapeutinnen und Ergotherapeuten
+jurabk: ErgThAPrV
 layout: default
+origslug: ergthaprv
 slug: ergthaprv
 
 ---

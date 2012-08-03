@@ -1,7 +1,9 @@
 ---
 Title: Sechste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1
   Abs. 2 des Auslandsunterhaltsgesetzes
+jurabk: AUG§1Abs2Bek 02-1989
 layout: default
+origslug: aug_1abs2bek_02-1989
 slug: aug_1abs2bek_02-1989
 
 ---

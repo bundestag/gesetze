@@ -1,8 +1,10 @@
 ---
 Title: Anordnung zur Übertragung beamtenrechtlicher Befugnisse im Bereich der Deutschen
   Post AG
+jurabk: DPAGÜbertrAnO
 layout: default
-slug: dpag_bertrano
+origslug: dpag_bertrano
+slug: dpaguebertrano
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Anpassung von Arzneimittel-Festbeträgen
+jurabk: FAVO
 layout: default
+origslug: favo
 slug: favo
 
 ---

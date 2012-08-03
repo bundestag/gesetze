@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Aufhebung des Diskontsatz-Überleitungs-Gesetzes
+jurabk: DÜGAufhG
 layout: default
-slug: d_gaufhg
+origslug: d_gaufhg
+slug: duegaufhg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Schutz von Marken und sonstigen Kennzeichen
+jurabk: MarkenG
 layout: default
+origslug: markeng
 slug: markeng
 
 ---

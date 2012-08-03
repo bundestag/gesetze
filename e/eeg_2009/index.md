@@ -1,6 +1,8 @@
 ---
 Title: Gesetz für den Vorrang Erneuerbarer Energien
+jurabk: EEG 2009
 layout: default
+origslug: eeg_2009
 slug: eeg_2009
 
 ---

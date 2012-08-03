@@ -2,8 +2,10 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Polen über
   die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957
   und die Erleichterung seiner Anwendung
+jurabk: EuAuslfÜbkErgVtr POL
 layout: default
-slug: euauslf_bkergvtr_pol
+origslug: euauslf_bkergvtr_pol
+slug: euauslfuebkergvtr_pol
 
 ---
 

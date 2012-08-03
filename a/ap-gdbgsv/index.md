@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Polizeivollzugsdienst
   in der Bundespolizei
+jurabk: AP-gDBGSV
 layout: default
+origslug: ap-gdbgsv
 slug: ap-gdbgsv
 
 ---

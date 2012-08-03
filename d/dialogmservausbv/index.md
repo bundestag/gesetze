@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zur Servicefachkraft für Dialogmarketing
+jurabk: DialogmServAusbV
 layout: default
+origslug: dialogmservausbv
 slug: dialogmservausbv
 
 ---

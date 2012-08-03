@@ -3,8 +3,10 @@ Verordnung über das Inverkehrbringen von Düngemitteln,
 Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 ---
 Title: ''
+jurabk: DüMV 2008
 layout: default
-slug: d_mv_2008
+origslug: d_mv_2008
+slug: duemv_2008
 
 ---
 

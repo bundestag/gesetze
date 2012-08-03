@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung
   für Arbeitsuchende
+jurabk: GrSiDAV
 layout: default
+origslug: grsidav
 slug: grsidav
 
 ---

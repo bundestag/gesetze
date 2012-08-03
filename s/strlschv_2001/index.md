@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Schutz vor Schäden durch ionisierende Strahlen
+jurabk: StrlSchV 2001
 layout: default
+origslug: strlschv_2001
 slug: strlschv_2001
 
 ---

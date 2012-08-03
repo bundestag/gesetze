@@ -1,6 +1,8 @@
 ---
 Title: Sozialgerichtsgesetz
+jurabk: SGG
 layout: default
+origslug: sgg
 slug: sgg
 
 ---

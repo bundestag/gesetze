@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes
+jurabk: ZSG
 layout: default
+origslug: zsg
 slug: zsg
 
 ---

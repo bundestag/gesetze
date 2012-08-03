@@ -1,6 +1,8 @@
 ---
 Title: Erklärungen zur Strafgerichtsbarkeit
+jurabk: StrGerErkl
 layout: default
+origslug: strgererkl
 slug: strgererkl
 
 ---

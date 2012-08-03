@@ -1,6 +1,8 @@
 ---
 Title: Soldatenbeteiligungsgesetz
+jurabk: SBG
 layout: default
+origslug: sbg
 slug: sbg
 
 ---

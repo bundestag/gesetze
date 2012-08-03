@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Übereinkommen des Europarats vom 23. November 2001 über Computerkriminalität
+jurabk: ComKrimÜbkG
 layout: default
-slug: comkrim_bkg
+origslug: comkrim_bkg
+slug: comkrimuebkg
 
 ---
 

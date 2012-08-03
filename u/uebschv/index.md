@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Ermittlung und Verteilung von Überzins und Überschuß in der
   Krankenversicherung
+jurabk: ÜbschV
 layout: default
-slug: _bschv
+origslug: _bschv
+slug: uebschv
 
 ---
 

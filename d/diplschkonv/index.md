@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die Verhütung, Verfolgung und Bestrafung von Straftaten
   gegen völkerrechtlich geschützte Personen einschließlich Diplomaten
+jurabk: DiplSchKonv
 layout: default
+origslug: diplschkonv
 slug: diplschkonv
 
 ---

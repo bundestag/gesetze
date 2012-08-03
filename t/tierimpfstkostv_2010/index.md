@@ -1,6 +1,8 @@
 ---
 Title: Tierimpfstoff-Kostenverordnung
+jurabk: TierImpfStKostV 2010
 layout: default
+origslug: tierimpfstkostv_2010
 slug: tierimpfstkostv_2010
 
 ---

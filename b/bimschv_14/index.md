@@ -1,6 +1,8 @@
 ---
 Title: Vierzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 14
 layout: default
+origslug: bimschv_14
 slug: bimschv_14
 
 ---

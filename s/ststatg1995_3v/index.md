@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einstellung von Erhebungen nach § 3 des Gesetzes über Steuerstatistiken
+jurabk: StStatG1995§3V
 layout: default
+origslug: ststatg1995_3v
 slug: ststatg1995_3v
 
 ---

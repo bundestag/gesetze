@@ -1,7 +1,9 @@
 ---
 Title: Sechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für Flüge nach Sichtflugregeln am Verkehrsflughafen Paderborn-Lippstadt)
+jurabk: LuftVODV 96
 layout: default
+origslug: luftvodv_96
 slug: luftvodv_96
 
 ---

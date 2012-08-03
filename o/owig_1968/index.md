@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Ordnungswidrigkeiten
+jurabk: OWiG 1968
 layout: default
+origslug: owig_1968
 slug: owig_1968
 
 ---

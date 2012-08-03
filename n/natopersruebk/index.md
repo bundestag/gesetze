@@ -2,8 +2,10 @@
 Title: Übereinkommen über die Rechtsstellung des einem internationalen militärischen
   Hauptquartier der NATO in der Bundesrepublik Deutschland zugeteilten Personals der
   Entsendestaaten
+jurabk: NATOPersRÜbk
 layout: default
-slug: natopersr_bk
+origslug: natopersr_bk
+slug: natopersruebk
 
 ---
 

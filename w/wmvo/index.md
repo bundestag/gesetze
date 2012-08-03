@@ -1,6 +1,8 @@
 ---
 Title: Werkstätten-Mitwirkungsverordnung
+jurabk: WMVO
 layout: default
+origslug: wmvo
 slug: wmvo
 
 ---

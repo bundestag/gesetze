@@ -2,7 +2,9 @@
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland den Vereinten
   Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über
   Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
+jurabk: UNSekrSitzAbk
 layout: default
+origslug: unsekrsitzabk
 slug: unsekrsitzabk
 
 ---

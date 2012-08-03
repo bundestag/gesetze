@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung der Beamten der Deutschen Bundesbahn
+jurabk: BBahnErnAnO 1975
 layout: default
+origslug: bbahnernano_1975
 slug: bbahnernano_1975
 
 ---

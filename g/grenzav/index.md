@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausdehnung des grenznahen Raumes und die der Grenzaufsicht
   unterworfenen Gebiete
+jurabk: GrenzAV
 layout: default
+origslug: grenzav
 slug: grenzav
 
 ---

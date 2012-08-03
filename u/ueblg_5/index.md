@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Überleitung von Lasten und Deckungsmitteln vom Saarland auf den
   Bund
+jurabk: ÜblG 5
 layout: default
-slug: _blg_5
+origslug: _blg_5
+slug: ueblg_5
 
 ---
 

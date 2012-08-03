@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Kaiserreich Iran über
   die Liquidation des früheren deutsch-iranischen Verrechnungsverkehrs
+jurabk: VermRglAbk IRN
 layout: default
+origslug: vermrglabk_irn
 slug: vermrglabk_irn
 
 ---

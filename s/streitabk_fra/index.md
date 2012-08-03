@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Französischen Republik
   über die Beilegung von Streitigkeiten bei Direktbeschaffungen
+jurabk: StreitAbk FRA
 layout: default
+origslug: streitabk_fra
 slug: streitabk_fra
 
 ---

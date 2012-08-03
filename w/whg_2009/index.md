@@ -3,7 +3,9 @@ Gesetz zur Ordnung des Wasserhaushalts
 [^f772370_02_BJNR258510009]
 ---
 Title: ''
+jurabk: WHG 2009
 layout: default
+origslug: whg_2009
 slug: whg_2009
 
 ---

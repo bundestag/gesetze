@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Wahl der Vertrauenspersonen der Soldaten
+jurabk: VPWV
 layout: default
+origslug: vpwv
 slug: vpwv
 
 ---

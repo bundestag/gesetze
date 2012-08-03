@@ -1,8 +1,10 @@
 ---
 Title: Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer
   Amtsbezeichnung
+jurabk: BTPräsAmtsbezAnO
 layout: default
-slug: btpr_samtsbezano
+origslug: btpr_samtsbezano
+slug: btpraesamtsbezano
 
 ---
 

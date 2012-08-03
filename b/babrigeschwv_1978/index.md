@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen
   Straßen
+jurabk: BABRiGeschwV 1978
 layout: default
+origslug: babrigeschwv_1978
 slug: babrigeschwv_1978
 
 ---

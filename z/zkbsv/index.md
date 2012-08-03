@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Zentrale Kommission für die Biologische Sicherheit
+jurabk: ZKBSV
 layout: default
+origslug: zkbsv
 slug: zkbsv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Festlegung der Mindestanforderungen an die Züchtung auf Resistenz
   gegen transmissible spongiforme Enzephalopathien bei Schafen
+jurabk: TSEResZV
 layout: default
+origslug: tsereszv
 slug: tsereszv
 
 ---

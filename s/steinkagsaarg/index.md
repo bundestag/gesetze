@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft
+jurabk: SteinKAGSaarG
 layout: default
+origslug: steinkagsaarg
 slug: steinkagsaarg
 
 ---

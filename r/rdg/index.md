@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über außergerichtliche Rechtsdienstleistungen
+jurabk: RDG
 layout: default
+origslug: rdg
 slug: rdg
 
 ---

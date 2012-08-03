@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuständigkeit der Wasser- und Schiffahrtsdirektionen für
   die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
+jurabk: BinSchOWiZustV 1974
 layout: default
+origslug: binschowizustv_1974
 slug: binschowizustv_1974
 
 ---

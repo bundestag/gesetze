@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien
   über die Beilegung von Streitigkeiten bei Direktbeschaffungen
+jurabk: StreitAbk BEL
 layout: default
+origslug: streitabk_bel
 slug: streitabk_bel
 
 ---

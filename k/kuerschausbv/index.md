@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kürschner/zur Kürschnerin in Industrie
   und Handwerk
+jurabk: KürschAusbV
 layout: default
-slug: k_rschausbv
+origslug: k_rschausbv
+slug: kuerschausbv
 
 ---
 

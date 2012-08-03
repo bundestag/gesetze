@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Bereich
   der Deutschen Post AG
+jurabk: DeutschePostAGWidAnO 2008
 layout: default
+origslug: deutschepostagwidano_2008
 slug: deutschepostagwidano_2008
 
 ---

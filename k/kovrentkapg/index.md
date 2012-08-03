@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherstellung der Grundrentenabfindung in der Kriegsopferversorgung
+jurabk: KOVRentKapG
 layout: default
+origslug: kovrentkapg
 slug: kovrentkapg
 
 ---

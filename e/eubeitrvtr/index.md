@@ -7,7 +7,9 @@ Title: Vertrag zwischen dem Königreich Belgien, dem Königreich Dänemark, der 
   der Republik Österreich, der Republik Finnland, dem Königreich Schweden über den
   Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland
   und des Königreichs Schweden zur Europäischen Union
+jurabk: EUBeitrVtr
 layout: default
+origslug: eubeitrvtr
 slug: eubeitrvtr
 
 ---

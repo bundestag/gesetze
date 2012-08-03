@@ -1,6 +1,8 @@
 ---
 Title: Dritte Durchführungsverordnung zum Treuhandgesetz
+jurabk: TreuhGDV 3
 layout: default
+origslug: treuhgdv_3
 slug: treuhgdv_3
 
 ---

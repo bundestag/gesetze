@@ -1,6 +1,8 @@
 ---
 Title: Charta der Vereinten Nationen
+jurabk: UNCh
 layout: default
+origslug: unch
 slug: unch
 
 ---

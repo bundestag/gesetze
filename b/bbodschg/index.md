@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von
   Altlasten
+jurabk: BBodSchG
 layout: default
+origslug: bbodschg
 slug: bbodschg
 
 ---

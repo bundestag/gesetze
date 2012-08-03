@@ -4,7 +4,9 @@ Title: Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates �
   schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und
   -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie
   2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG
+jurabk: EGV 595/2009
 layout: default
+origslug: egv_595_2009
 slug: egv_595_2009
 
 ---

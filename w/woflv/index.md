@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Berechnung der Wohnfläche
+jurabk: WoFlV
 layout: default
+origslug: woflv
 slug: woflv
 
 ---

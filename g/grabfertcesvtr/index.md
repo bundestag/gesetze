@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik
   über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr
+jurabk: GrAbfertCESVtr
 layout: default
+origslug: grabfertcesvtr
 slug: grabfertcesvtr
 
 ---

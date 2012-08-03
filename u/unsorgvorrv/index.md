@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen
   der Vereinten Nationen
+jurabk: UNSOrgVorRV
 layout: default
+origslug: unsorgvorrv
 slug: unsorgvorrv
 
 ---

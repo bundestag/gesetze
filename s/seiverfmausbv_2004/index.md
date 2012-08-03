@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin
   in der Steine- und Erdenindustrie
+jurabk: SEIVerfMAusbV 2004
 layout: default
+origslug: seiverfmausbv_2004
 slug: seiverfmausbv_2004
 
 ---

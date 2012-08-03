@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ahndung nationalsozialistischer Straftaten
+jurabk: NSAhndgG HE
 layout: default
+origslug: nsahndgg_he
 slug: nsahndgg_he
 
 ---

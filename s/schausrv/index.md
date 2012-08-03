@@ -2,7 +2,9 @@
 Schiffsausrüstungsverordnung
 ---
 Title: ''
+jurabk: SchAusrV
 layout: default
+origslug: schausrv
 slug: schausrv
 
 ---

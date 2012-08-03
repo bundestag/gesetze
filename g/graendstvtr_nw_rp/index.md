@@ -1,8 +1,10 @@
 ---
 Title: Staatsvertrag zwischen dem Land Nordrhein-Westfalen und dem Land Rheinland-Pfalz
   über die Änderung der gemeinsamen Landesgrenze
+jurabk: GrÄndStVtr NW/RP
 layout: default
-slug: gr_ndstvtr_nw_rp
+origslug: gr_ndstvtr_nw_rp
+slug: graendstvtr_nw_rp
 
 ---
 

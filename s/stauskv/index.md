@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung von § 89 Abs. 2 der Abgabenordnung
+jurabk: StAuskV
 layout: default
+origslug: stauskv
 slug: stauskv
 
 ---

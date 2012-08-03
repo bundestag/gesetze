@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Verhalten im Straßenverkehr
+jurabk: StVO DDR
 layout: default
+origslug: stvo_ddr
 slug: stvo_ddr
 
 ---

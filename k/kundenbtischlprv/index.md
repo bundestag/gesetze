@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kundenberater/Geprüfte
   Kundenberaterin im Tischlerhandwerk
+jurabk: KundenbTischlPrV
 layout: default
+origslug: kundenbtischlprv
 slug: kundenbtischlprv
 
 ---

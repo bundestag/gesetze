@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Militärseelsorge
+jurabk: MilSeelsG
 layout: default
+origslug: milseelsg
 slug: milseelsg
 
 ---

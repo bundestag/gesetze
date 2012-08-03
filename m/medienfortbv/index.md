@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Medienwirtschaft
+jurabk: MedienFortbV
 layout: default
+origslug: medienfortbv
 slug: medienfortbv
 
 ---

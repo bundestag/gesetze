@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Einrichtung und Führung des Partnerschaftsregisters
+jurabk: PRV
 layout: default
+origslug: prv
 slug: prv
 
 ---

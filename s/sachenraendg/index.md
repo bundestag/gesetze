@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung sachenrechtlicher, grundbuchrechtlicher und anderer Vorschriften
+jurabk: SachenRÄndG
 layout: default
-slug: sachenr_ndg
+origslug: sachenr_ndg
+slug: sachenraendg
 
 ---
 

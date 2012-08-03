@@ -1,6 +1,8 @@
 ---
 Title: Verordnung nach § 6 des Mauergrundstücksgesetzes
+jurabk: MauerV
 layout: default
+origslug: mauerv
 slug: mauerv
 
 ---

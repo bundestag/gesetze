@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Energiedienstleistungen und andere Energieeffizienzmaßnahmen
+jurabk: EDL-G
 layout: default
+origslug: edl-g
 slug: edl-g
 
 ---

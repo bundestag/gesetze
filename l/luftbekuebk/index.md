@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen
+jurabk: LuftBekÜbk
 layout: default
-slug: luftbek_bk
+origslug: luftbek_bk
+slug: luftbekuebk
 
 ---
 

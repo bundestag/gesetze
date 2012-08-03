@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung als Naturpark "Märkische Schweiz"
+jurabk: NatPMSchweizV
 layout: default
+origslug: natpmschweizv
 slug: natpmschweizv
 
 ---

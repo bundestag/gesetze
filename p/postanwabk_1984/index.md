@@ -1,6 +1,8 @@
 ---
 Title: Postanweisungs- und Postreisescheckabkommen
+jurabk: PostAnwAbk 1984
 layout: default
+origslug: postanwabk_1984
 slug: postanwabk_1984
 
 ---

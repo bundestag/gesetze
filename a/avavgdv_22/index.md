@@ -1,7 +1,9 @@
 ---
 Title: Zweiundzwanzigste Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung
   und Arbeitslosenversicherung (Fach- und Führungskräfte aus Entwicklungsländern)
+jurabk: AVAVGDV 22
 layout: default
+origslug: avavgdv_22
 slug: avavgdv_22
 
 ---

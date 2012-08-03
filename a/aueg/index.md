@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Arbeitnehmerüberlassung
+jurabk: AÜG
 layout: default
-slug: a_g
+origslug: a_g
+slug: aueg
 
 ---
 

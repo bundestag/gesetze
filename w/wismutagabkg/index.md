@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 16. Mai 1991 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Union der Sozialistischen Sowjetrepubliken über
   die Beendigung der Tätigkeit der Sowjetisch-Deutschen Aktiengesellschaft Wismut
+jurabk: WismutAGAbkG
 layout: default
+origslug: wismutagabkg
 slug: wismutagabkg
 
 ---

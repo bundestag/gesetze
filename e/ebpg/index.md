@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte
+jurabk: EBPG
 layout: default
+origslug: ebpg
 slug: ebpg
 
 ---

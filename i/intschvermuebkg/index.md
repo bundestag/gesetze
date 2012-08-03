@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni
   1969
+jurabk: IntSchVermÜbkG
 layout: default
-slug: intschverm_bkg
+origslug: intschverm_bkg
+slug: intschvermuebkg
 
 ---
 

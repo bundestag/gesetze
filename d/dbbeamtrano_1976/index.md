@@ -1,7 +1,9 @@
 ---
 Title: Allgemeine Anordnung über die Übertragung von Befugnissen und die Regelung
   von Zuständigkeiten auf dem Gebiet des Beamtenrechts im Bereich der Deutschen Bundesbahn
+jurabk: DBBeamtRAnO 1976
 layout: default
+origslug: dbbeamtrano_1976
 slug: dbbeamtrano_1976
 
 ---

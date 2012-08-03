@@ -2,8 +2,10 @@
 Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten
   für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische
   Assistentinnen und Assistenten
+jurabk: AfögLTAV
 layout: default
-slug: af_gltav
+origslug: af_gltav
+slug: afoegltav
 
 ---
 

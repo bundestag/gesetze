@@ -2,7 +2,9 @@
 Raumordnungsgesetz
 ---
 Title: ''
+jurabk: ROG 2008
 layout: default
+origslug: rog_2008
 slug: rog_2008
 
 ---

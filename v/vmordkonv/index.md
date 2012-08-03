@@ -1,6 +1,8 @@
 ---
 Title: Konvention über die Verhütung und Bestrafung des Völkermordes
+jurabk: VMordKonv
 layout: default
+origslug: vmordkonv
 slug: vmordkonv
 
 ---

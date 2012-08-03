@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verbesserung der betrieblichen Altersversorgung
+jurabk: BetrAVG
 layout: default
+origslug: betravg
 slug: betravg
 
 ---

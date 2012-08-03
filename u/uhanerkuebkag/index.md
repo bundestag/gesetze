@@ -2,8 +2,10 @@
 Title: Gesetz zur Ausführung des Haager Übereinkommens vom 15. April 1958 über die
   Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht
   gegenüber Kindern
+jurabk: UhAnerkÜbkAG
 layout: default
-slug: uhanerk_bkag
+origslug: uhanerk_bkag
+slug: uhanerkuebkag
 
 ---
 

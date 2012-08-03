@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern
+jurabk: BeamtStG
 layout: default
+origslug: beamtstg
 slug: beamtstg
 
 ---

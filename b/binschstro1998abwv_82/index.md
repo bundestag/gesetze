@@ -1,6 +1,8 @@
 ---
 Title: Zweiundachtzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
+jurabk: BinSchStrO1998AbwV 82
 layout: default
+origslug: binschstro1998abwv_82
 slug: binschstro1998abwv_82
 
 ---

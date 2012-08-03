@@ -1,7 +1,9 @@
 ---
 Title: Zusatzprotokoll zum Zweiten Vertrag zwischen der Bundesrepublik Deutschland
   und dem Königreich der Niederlande über Grenzberichtigungen (Zweiter Grenzberichtigungsvertrag)
+jurabk: GrBerichtVtrNLD2ZusProt
 layout: default
+origslug: grberichtvtrnld2zusprot
 slug: grberichtvtrnld2zusprot
 
 ---

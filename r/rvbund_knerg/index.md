@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen
   Rentenversicherung Knappschaft-Bahn-See
+jurabk: RVBund/KnErG
 layout: default
+origslug: rvbund_knerg
 slug: rvbund_knerg
 
 ---

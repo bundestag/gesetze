@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Mechatroniker und zur
 Mechatronikerin
 ---
 Title: ''
+jurabk: MechatronikerAusbV
 layout: default
+origslug: mechatronikerausbv
 slug: mechatronikerausbv
 
 ---

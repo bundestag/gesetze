@@ -2,7 +2,9 @@
 Title: Zweihundertdreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
   Stuttgart)
+jurabk: LuftVODV 230
 layout: default
+origslug: luftvodv_230
 slug: luftvodv_230
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 24. September 1997 zwischen der Bundesrepublik Deutschland
   und der Republik Slowenien über Soziale Sicherheit
+jurabk: SozSichAbkSVNG
 layout: default
+origslug: sozsichabksvng
 slug: sozsichabksvng
 
 ---

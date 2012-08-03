@@ -2,7 +2,9 @@
 Gesetz zum Schutz vor gefährlichen Stoffen
 ---
 Title: ''
+jurabk: ChemG
 layout: default
+origslug: chemg
 slug: chemg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Grenze des Freihafens Cuxhaven
+jurabk: FrHfCuxGrV 2001
 layout: default
+origslug: frhfcuxgrv_2001
 slug: frhfcuxgrv_2001
 
 ---

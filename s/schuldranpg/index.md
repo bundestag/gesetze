@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Anpassung schuldrechtlicher Nutzungsverhältnisse an Grundstücken
   im Beitrittsgebiet
+jurabk: SchuldRAnpG
 layout: default
+origslug: schuldranpg
 slug: schuldranpg
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz über das Washingtoner Übereinkommen betreffend die Beschäftigung der
   Frauen vor und nach der Niederkunft
+jurabk: MuSchÜbkG
 layout: default
-slug: musch_bkg
+origslug: musch_bkg
+slug: muschuebkg
 
 ---
 

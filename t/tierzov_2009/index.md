@@ -2,7 +2,9 @@
 Verordnung über Zuchtorganisationen
 ---
 Title: ''
+jurabk: TierZOV 2009
 layout: default
+origslug: tierzov_2009
 slug: tierzov_2009
 
 ---

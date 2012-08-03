@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen
   nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen
+jurabk: WaStrGAnlErmV
 layout: default
+origslug: wastrganlermv
 slug: wastrganlermv
 
 ---

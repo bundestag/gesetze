@@ -2,7 +2,9 @@
 Verordnung über die Berufsausbildung zum Seiler und zur Seilerin
 ---
 Title: ''
+jurabk: SeilAusbV 2008
 layout: default
+origslug: seilausbv_2008
 slug: seilausbv_2008
 
 ---

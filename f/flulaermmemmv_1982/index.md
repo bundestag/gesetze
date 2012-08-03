@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Memmingen
+jurabk: FluLärmMemmV 1982
 layout: default
-slug: flul_rmmemmv_1982
+origslug: flul_rmmemmv_1982
+slug: flulaermmemmv_1982
 
 ---
 

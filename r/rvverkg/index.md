@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Verkündung von Rechtsverordnungen und Bekanntmachungen
+jurabk: RVVerkG
 layout: default
+origslug: rvverkg
 slug: rvverkg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung der Lotsenordnung für den Oberrhein
+jurabk: ORheinLotsOEV
 layout: default
+origslug: orheinlotsoev
 slug: orheinlotsoev
 
 ---

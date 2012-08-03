@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Schüler- und Kinderspeisung
+jurabk: SchKiSpV
 layout: default
+origslug: schkispv
 slug: schkispv
 
 ---

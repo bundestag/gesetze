@@ -1,6 +1,8 @@
 ---
 Title: Bergverordnung über vermessungstechnische und sicherheitliche Unterlagen
+jurabk: UnterlagenBergV
 layout: default
+origslug: unterlagenbergv
 slug: unterlagenbergv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung eines Zuschlags bei Altersteilzeit
+jurabk: ATZV
 layout: default
+origslug: atzv
 slug: atzv
 
 ---

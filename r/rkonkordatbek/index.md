@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über das Konkordat zwischen dem Deutschen Reich und dem Heiligen
   Stuhl
+jurabk: RKonkordatBek
 layout: default
+origslug: rkonkordatbek
 slug: rkonkordatbek
 
 ---

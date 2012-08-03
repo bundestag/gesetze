@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur
   Drechslerin (Elfenbeinschnitzerin)
+jurabk: DrechslAusbV
 layout: default
+origslug: drechslausbv
 slug: drechslausbv
 
 ---

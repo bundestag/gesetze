@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 2 Euro (Gedenkmünze "Schleswig-Holstein")
+jurabk: Münz2EuroBek 2006
 layout: default
-slug: m_nz2eurobek_2006
+origslug: m_nz2eurobek_2006
+slug: muenz2eurobek_2006
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten  der
   Bundesanstalt für Immobilienaufgaben
+jurabk: BImAZustBek
 layout: default
+origslug: bimazustbek
 slug: bimazustbek
 
 ---

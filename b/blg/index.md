@@ -1,6 +1,8 @@
 ---
 Title: Bundesleistungsgesetz
+jurabk: BLG
 layout: default
+origslug: blg
 slug: blg
 
 ---

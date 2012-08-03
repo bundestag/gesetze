@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt
   gegen Frauen“
+jurabk: HilfetelefonG
 layout: default
+origslug: hilfetelefong
 slug: hilfetelefong
 
 ---

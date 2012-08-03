@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Beruf der Rettungsassistentin und des Rettungsassistenten
+jurabk: RettAssG
 layout: default
+origslug: rettassg
 slug: rettassg
 
 ---

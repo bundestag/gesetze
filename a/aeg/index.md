@@ -1,6 +1,8 @@
 ---
 Title: Allgemeines Eisenbahngesetz
+jurabk: AEG
 layout: default
+origslug: aeg
 slug: aeg
 
 ---

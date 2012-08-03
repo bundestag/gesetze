@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 13. Mai 2002 zwischen der Bundesrepublik Deutschland
   und Kanada über die Rechtshilfe in Strafsachen
+jurabk: RHiVtrCANG
 layout: default
+origslug: rhivtrcang
 slug: rhivtrcang
 
 ---

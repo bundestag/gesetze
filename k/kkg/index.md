@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Kooperation und Information im Kinderschutz
+jurabk: KKG
 layout: default
+origslug: kkg
 slug: kkg
 
 ---

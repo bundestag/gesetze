@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung
   im Jahre 2003
+jurabk: GKVStabG 2003
 layout: default
+origslug: gkvstabg_2003
 slug: gkvstabg_2003
 
 ---

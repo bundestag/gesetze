@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schuhfertiger/zur Schuhfertigerin
+jurabk: SchuhfAusbV 1998
 layout: default
+origslug: schuhfausbv_1998
 slug: schuhfausbv_1998
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz
+jurabk: StVGHBetrÄndV
 layout: default
-slug: stvghbetr_ndv
+origslug: stvghbetr_ndv
+slug: stvghbetraendv
 
 ---
 

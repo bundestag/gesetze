@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den
   Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
   von Beschäftigten des Bundesamts für Justiz in Angelegenheiten nach den Beihilfevorschriften
+jurabk: BfJWidAnO
 layout: default
+origslug: bfjwidano
 slug: bfjwidano
 
 ---

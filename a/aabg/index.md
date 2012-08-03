@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen Krankenversicherung
+jurabk: AABG
 layout: default
+origslug: aabg
 slug: aabg
 
 ---

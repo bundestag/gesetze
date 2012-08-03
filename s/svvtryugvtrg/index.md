@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 10. März 1956 zwischen der Bundesrepublik Deutschland
   und der Föderativen Volksrepublik Jugoslawien über die Regelung gewisser Forderungen
   aus der Sozialversicherung
+jurabk: SVVtrYUGVtrG
 layout: default
+origslug: svvtryugvtrg
 slug: svvtryugvtrg
 
 ---

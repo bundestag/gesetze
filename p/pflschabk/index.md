@@ -1,6 +1,8 @@
 ---
 Title: Internationales Pflanzenschutzabkommen
+jurabk: PflSchAbk
 layout: default
+origslug: pflschabk
 slug: pflschabk
 
 ---

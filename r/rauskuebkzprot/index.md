@@ -1,8 +1,10 @@
 ---
 Title: Zusatzprotokoll zum Europäischen Übereinkommen betreffend Auskünfte über ausländisches
   Recht
+jurabk: RAuskÜbkZProt
 layout: default
-slug: rausk_bkzprot
+origslug: rausk_bkzprot
+slug: rauskuebkzprot
 
 ---
 

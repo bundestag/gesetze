@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes
   über die Beteiligung der Soldaten und der Zivildienstleistenden)
+jurabk: ZDVG
 layout: default
+origslug: zdvg
 slug: zdvg
 
 ---

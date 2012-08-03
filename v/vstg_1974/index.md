@@ -1,6 +1,8 @@
 ---
 Title: Vermögensteuergesetz
+jurabk: VStG 1974
 layout: default
+origslug: vstg_1974
 slug: vstg_1974
 
 ---

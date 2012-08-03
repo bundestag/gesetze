@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Neuordnung des Pflegesatzrechts
+jurabk: PflNV
 layout: default
+origslug: pflnv
 slug: pflnv
 
 ---

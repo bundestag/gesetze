@@ -1,6 +1,8 @@
 ---
 Title: ECE-Regelung Nr. 115 über Nachrüstsysteme für Flüssiggas und Erdgas
+jurabk: ECER 115
 layout: default
+origslug: ecer_115
 slug: ecer_115
 
 ---

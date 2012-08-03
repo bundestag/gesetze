@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Kraftloserklärung von Hypotheken-, Grundschuld- und Rentenschuldbriefen
   in besonderen Fällen
+jurabk: HypKrlosErklG
 layout: default
+origslug: hypkrloserklg
 slug: hypkrloserklg
 
 ---

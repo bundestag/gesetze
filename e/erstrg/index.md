@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Erstreckung von gewerblichen Schutzrechten
+jurabk: ErstrG
 layout: default
+origslug: erstrg
 slug: erstrg
 
 ---

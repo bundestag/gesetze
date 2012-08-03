@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen
+jurabk: EntschG
 layout: default
+origslug: entschg
 slug: entschg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Personalausweise und den elektronischen Identitätsnachweis
+jurabk: PAuswV
 layout: default
+origslug: pauswv
 slug: pauswv
 
 ---

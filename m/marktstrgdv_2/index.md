@@ -1,6 +1,8 @@
 ---
 Title: Zweite Durchführungsverordnung zum Marktstrukturgesetz - Milch
+jurabk: MarktStrGDV 2
 layout: default
+origslug: marktstrgdv_2
 slug: marktstrgdv_2
 
 ---

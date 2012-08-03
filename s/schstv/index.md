@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Schiedsstelle für Arzneimittelversorgung und die Arzneimittelabrechnung
+jurabk: SchStV
 layout: default
+origslug: schstv
 slug: schstv
 
 ---

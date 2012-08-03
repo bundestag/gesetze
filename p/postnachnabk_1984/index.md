@@ -1,6 +1,8 @@
 ---
 Title: Postnachnahmeabkommen
+jurabk: PostnachnAbk 1984
 layout: default
+origslug: postnachnabk_1984
 slug: postnachnabk_1984
 
 ---

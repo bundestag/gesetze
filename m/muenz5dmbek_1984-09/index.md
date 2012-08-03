@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gedenkmünze Felix Mendelssohn Bartholdy)
+jurabk: Münz5DMBek 1984-09
 layout: default
-slug: m_nz5dmbek_1984-09
+origslug: m_nz5dmbek_1984-09
+slug: muenz5dmbek_1984-09
 
 ---
 

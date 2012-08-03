@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Abwassermeister/Geprüfte
   Abwassermeisterin
+jurabk: AbwasserMeistPrV
 layout: default
+origslug: abwassermeistprv
 slug: abwassermeistprv
 
 ---

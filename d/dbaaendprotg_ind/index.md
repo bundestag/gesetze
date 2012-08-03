@@ -3,8 +3,10 @@ Title: Gesetz zu dem Protokoll vom 28. Juni 1984 zur Änderung des am 18. März 
   in Neu-Delhi unterzeichneten Abkommens zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Republik Indien zur Vermeidung der Doppelbesteuerung
   des Einkommens
+jurabk: DBAÄndProtG IND
 layout: default
-slug: dba_ndprotg_ind
+origslug: dba_ndprotg_ind
+slug: dbaaendprotg_ind
 
 ---
 

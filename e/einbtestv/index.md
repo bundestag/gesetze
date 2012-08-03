@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zu Einbürgerungstest und Einbürgerungskurs
+jurabk: EinbTestV
 layout: default
+origslug: einbtestv
 slug: einbtestv
 
 ---

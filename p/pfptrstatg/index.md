@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Übereinkommen vom 19. Juni 1995 zwischen den Vertragsstaaten
   des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden
   Staaten über die Rechtsstellung ihrer Truppen sowie dem Zusatzprotokoll
+jurabk: PfPTrStatG
 layout: default
+origslug: pfptrstatg
 slug: pfptrstatg
 
 ---

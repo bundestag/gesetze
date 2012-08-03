@@ -2,7 +2,9 @@
 Title: Verordnung über die Geltung des Abkommens vom 10. November 1995 zwischen der
   Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms
   der Vereinten Nationen für das Informationszentrum der Vereinten Nationen in Bonn
+jurabk: UNFreiwProgrAbkGeltV
 layout: default
+origslug: unfreiwprograbkgeltv
 slug: unfreiwprograbkgeltv
 
 ---

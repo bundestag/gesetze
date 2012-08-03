@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Ausführung des Halbleiterschutzgesetzes
+jurabk: HalblSchV
 layout: default
+origslug: halblschv
 slug: halblschv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse
   im Bereich des Bundesnachrichtendienstes
+jurabk: BNDDisRZustAnO
 layout: default
+origslug: bnddisrzustano
 slug: bnddisrzustano
 
 ---

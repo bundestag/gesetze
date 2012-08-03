@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Musikfachhändler/zur
 Musikfachhändlerin
 ---
 Title: ''
+jurabk: MusikfachhAusbV
 layout: default
+origslug: musikfachhausbv
 slug: musikfachhausbv
 
 ---

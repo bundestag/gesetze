@@ -4,7 +4,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   für Gesundheit und Soziale Sicherung in Angelegenheiten nach dem Bundesreisekostengesetz,
   dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung
   und nach den Beihilfevorschriften des Bundes
+jurabk: BMinGSZustAnO
 layout: default
+origslug: bmingszustano
 slug: bmingszustano
 
 ---

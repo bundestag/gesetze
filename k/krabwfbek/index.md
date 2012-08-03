@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des
   Fonds "Kreditabwicklungsfonds" in das Schuldbuch des Fonds "Kreditabwicklungsfonds"
+jurabk: KrAbwFBek
 layout: default
+origslug: krabwfbek
 slug: krabwfbek
 
 ---

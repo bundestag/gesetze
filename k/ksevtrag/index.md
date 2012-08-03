@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsgesetz zu dem Vertrag vom 19. November 1990 über konventionelle
   Streitkräfte in Europa (KSE-Vertrag)
+jurabk: KSEVtrAG
 layout: default
+origslug: ksevtrag
 slug: ksevtrag
 
 ---

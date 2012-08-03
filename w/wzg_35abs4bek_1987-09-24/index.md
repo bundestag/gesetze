@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 35 Abs. 4 des Warenzeichengesetzes
+jurabk: WZG§35Abs4Bek 1987-09-24
 layout: default
+origslug: wzg_35abs4bek_1987-09-24
 slug: wzg_35abs4bek_1987-09-24
 
 ---

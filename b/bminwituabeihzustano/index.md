@@ -5,7 +5,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   der Physikalisch-Technischen Bundesanstalt, der Bundesanstalt für Geowissenschaften
   und Rohstoffe, des Bundeskartellamtes und des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
   in Angelegenheiten nach den Beihilfevorschriften des Bundes
+jurabk: BMinWiTuaBeihZustAnO
 layout: default
+origslug: bminwituabeihzustano
 slug: bminwituabeihzustano
 
 ---

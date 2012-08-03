@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gedenkmünze Markgraf Ludwig Wilhelm von Baden)
+jurabk: Münz5DMBek 1955-08
 layout: default
-slug: m_nz5dmbek_1955-08
+origslug: m_nz5dmbek_1955-08
+slug: muenz5dmbek_1955-08
 
 ---
 

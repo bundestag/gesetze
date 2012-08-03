@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Ausbau von Energieleitungen
+jurabk: EnLAG
 layout: default
+origslug: enlag
 slug: enlag
 
 ---

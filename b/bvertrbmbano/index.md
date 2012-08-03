@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers
   für innerdeutsche Beziehungen
+jurabk: BVertrBMBAnO
 layout: default
+origslug: bvertrbmbano
 slug: bvertrbmbano
 
 ---

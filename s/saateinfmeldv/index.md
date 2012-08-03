@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Meldung und Vorführung von Saatgut bei der Einfuhr
+jurabk: SaatEinfMeldV
 layout: default
+origslug: saateinfmeldv
 slug: saateinfmeldv
 
 ---

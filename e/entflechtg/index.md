@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen
+jurabk: EntflechtG
 layout: default
+origslug: entflechtg
 slug: entflechtg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Salmonellose der Rinder
+jurabk: RindSalmV
 layout: default
+origslug: rindsalmv
 slug: rindsalmv
 
 ---

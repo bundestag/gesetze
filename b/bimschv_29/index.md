@@ -1,6 +1,8 @@
 ---
 Title: Neunundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 29
 layout: default
+origslug: bimschv_29
 slug: bimschv_29
 
 ---

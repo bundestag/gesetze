@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 8. Februar 1995 zwischen der Bundesrepublik Deutschland
   und der Republik Venezuela zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
   Steuern vom Einkommen und vom Vermögen
+jurabk: DBAVENG
 layout: default
+origslug: dbaveng
 slug: dbaveng
 
 ---

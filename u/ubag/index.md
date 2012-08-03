@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Umweltbundesamtes
+jurabk: UBAG
 layout: default
+origslug: ubag
 slug: ubag
 
 ---

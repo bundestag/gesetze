@@ -1,8 +1,10 @@
 ---
 Title: Zweites Gesetz zur Änderung dienstrechtlicher Vorschriften (Angehörige des
   öffentlichen Dienstes in Landesparlamenten)
+jurabk: DienstRÄndG 2
 layout: default
-slug: dienstr_ndg_2
+origslug: dienstr_ndg_2
+slug: dienstraendg_2
 
 ---
 

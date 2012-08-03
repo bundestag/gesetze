@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit
+jurabk: PflegeVG
 layout: default
+origslug: pflegevg
 slug: pflegevg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Reform des Vermögensteuerrechts und zur Änderung anderer Steuergesetze
+jurabk: VStRG
 layout: default
+origslug: vstrg
 slug: vstrg
 
 ---

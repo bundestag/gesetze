@@ -2,7 +2,9 @@
 Title: Gesetz zur Durchführung gemeinschaftlicher Vorschriften über Verbote und Beschränkungen
   hinsichtlich der Einfuhr, der Ausfuhr, des Inverkehrbringens oder des Handels mit
   bestimmten Tierfellen oder tierischen Erzeugnissen
+jurabk: KHfEVerbG
 layout: default
+origslug: khfeverbg
 slug: khfeverbg
 
 ---

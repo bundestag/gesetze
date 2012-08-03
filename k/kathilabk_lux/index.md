@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
   über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+jurabk: KatHiLAbk LUX
 layout: default
+origslug: kathilabk_lux
 slug: kathilabk_lux
 
 ---

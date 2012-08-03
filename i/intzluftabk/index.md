@@ -1,6 +1,8 @@
 ---
 Title: Abkommen über die Internationale Zivilluftfahrt
+jurabk: IntZLuftAbk
 layout: default
+origslug: intzluftabk
 slug: intzluftabk
 
 ---

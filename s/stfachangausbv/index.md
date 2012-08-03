@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten
+jurabk: StFachAngAusbV
 layout: default
+origslug: stfachangausbv
 slug: stfachangausbv
 
 ---

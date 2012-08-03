@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Anwendungsverbote für Pflanzenschutzmittel
+jurabk: PflSchAnwV 1992
 layout: default
+origslug: pflschanwv_1992
 slug: pflschanwv_1992
 
 ---

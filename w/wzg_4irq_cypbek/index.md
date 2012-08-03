@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4IRQ/CYPBek
 layout: default
+origslug: wzg_4irq_cypbek
 slug: wzg_4irq_cypbek
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Dreiundfünfzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+jurabk: BEG§172DV 53
 layout: default
+origslug: beg_172dv_53
 slug: beg_172dv_53
 
 ---

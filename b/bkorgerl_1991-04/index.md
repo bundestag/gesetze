@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1991-04
 layout: default
+origslug: bkorgerl_1991-04
 slug: bkorgerl_1991-04
 
 ---

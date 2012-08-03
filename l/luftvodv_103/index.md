@@ -2,7 +2,9 @@
 Title: Einhundertdritte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz
   Kassel)
+jurabk: LuftVODV 103
 layout: default
+origslug: luftvodv_103
 slug: luftvodv_103
 
 ---

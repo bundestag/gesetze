@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung
   an die Entschädigungseinrichtung deutscher Banken GmbH
+jurabk: EntschdtBankV
 layout: default
+origslug: entschdtbankv
 slug: entschdtbankv
 
 ---

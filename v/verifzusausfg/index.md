@@ -4,7 +4,9 @@ Title: Ausführungsgesetz zu dem Übereinkommen vom 5. April 1973 zwischen den N
   Atomenergie-Organisation in Ausführung von Artikel III Abs. 1 und 4 des Vertrages
   vom 1. Juli 1968 über die Nichtverbreitung von Kernwaffen (Verifikationsabkommen)
   sowie zu dem Zusatzprotokoll zu diesem Übereinkommen vom 22. September 1998
+jurabk: VerifZusAusfG
 layout: default
+origslug: verifzusausfg
 slug: verifzusausfg
 
 ---

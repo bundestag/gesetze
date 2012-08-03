@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege
+jurabk: KrPflAPrV 2004
 layout: default
+origslug: krpflaprv_2004
 slug: krpflaprv_2004
 
 ---

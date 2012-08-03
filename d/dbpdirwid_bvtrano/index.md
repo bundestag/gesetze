@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich
   des Direktoriums der Deutschen Bundespost
+jurabk: DBPDirWid/BVtrAnO
 layout: default
+origslug: dbpdirwid_bvtrano
 slug: dbpdirwid_bvtrano
 
 ---

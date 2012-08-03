@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Handelsassistent
   – Einzelhandel/Geprüfte Handelsassistentin – Einzelhandel
+jurabk: HdlAssPrV 2006
 layout: default
+origslug: hdlassprv_2006
 slug: hdlassprv_2006
 
 ---

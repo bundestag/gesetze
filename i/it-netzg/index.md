@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Verbindung der informationstechnischen Netze des Bundes und
   der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –
+jurabk: IT-NetzG
 layout: default
+origslug: it-netzg
 slug: it-netzg
 
 ---

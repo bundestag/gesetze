@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Konkretisierung des Verbotes der Marktmanipulation
+jurabk: MaKonV
 layout: default
+origslug: makonv
 slug: makonv
 
 ---

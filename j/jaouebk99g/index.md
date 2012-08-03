@@ -2,8 +2,10 @@
 Title: Gesetz betreffend das Übereinkommen der Internationalen Arbeitsorganisation
   vom 28. Juni 1951 (Nr. 99) über die Verfahren zur Festsetzung von Mindestlöhnen
   in der Landwirtschaft
+jurabk: JAOÜbk99G
 layout: default
-slug: jao_bk99g
+origslug: jao_bk99g
+slug: jaouebk99g
 
 ---
 

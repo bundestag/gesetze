@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden
   in beamtenrechtlichen Angelegenheiten auf die obersten Gerichte des Bundes im Geschäftsbereich
   des Bundesministeriums der Justiz
+jurabk: BMJGerWidAnO
 layout: default
+origslug: bmjgerwidano
 slug: bmjgerwidano
 
 ---

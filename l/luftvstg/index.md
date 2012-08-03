@@ -1,6 +1,8 @@
 ---
 Title: Luftverkehrsteuergesetz
+jurabk: LuftVStG
 layout: default
+origslug: luftvstg
 slug: luftvstg
 
 ---

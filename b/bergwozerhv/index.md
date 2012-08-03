@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Erhebung der Zinsen für Darlehen des Bundes zum Bergarbeiterwohnungsbau
+jurabk: BergWoZErhV
 layout: default
+origslug: bergwozerhv
 slug: bergwozerhv
 
 ---

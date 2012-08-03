@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Verbote und Beschränkungen des Inverkehrbringens gefährlicher
   Stoffe, Zubereitungen und Erzeugnisse nach dem Chemikaliengesetz
+jurabk: ChemVerbotsV
 layout: default
+origslug: chemverbotsv
 slug: chemverbotsv
 
 ---

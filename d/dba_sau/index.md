@@ -3,7 +3,9 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Saud
   zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und
   vom Vermögen von Luftfahrtunternehmen und der Steuern von den Vergütungen ihrer
   Arbeitnehmer
+jurabk: DBA SAU
 layout: default
+origslug: dba_sau
 slug: dba_sau
 
 ---

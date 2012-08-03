@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale in der
   Nord- und Ostsee
+jurabk: KlWalAbkG
 layout: default
+origslug: klwalabkg
 slug: klwalabkg
 
 ---

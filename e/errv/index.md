@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Errichtung von Truppendienstgerichten
+jurabk: ErrV
 layout: default
+origslug: errv
 slug: errv
 
 ---

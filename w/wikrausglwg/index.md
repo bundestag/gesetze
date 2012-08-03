@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des
   wirtschaftlichen Wachstums in den neuen Ländern
+jurabk: WiKrAusglWG
 layout: default
+origslug: wikrausglwg
 slug: wikrausglwg
 
 ---

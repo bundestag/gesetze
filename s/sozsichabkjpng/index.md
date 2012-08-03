@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 20. April 1998 zwischen der Bundesrepublik Deutschland
   und Japan über Soziale Sicherheit
+jurabk: SozSichAbkJPNG
 layout: default
+origslug: sozsichabkjpng
 slug: sozsichabkjpng
 
 ---

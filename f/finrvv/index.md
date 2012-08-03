@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Finanzrückversicherungsverträge und Verträge ohne hinreichenden
   Risikotransfer
+jurabk: FinRVV
 layout: default
+origslug: finrvv
 slug: finrvv
 
 ---

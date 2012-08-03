@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Rechnungslegung von Pensionsfonds
+jurabk: RechPensV
 layout: default
+origslug: rechpensv
 slug: rechpensv
 
 ---

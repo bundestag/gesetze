@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
+jurabk: ZVG
 layout: default
+origslug: zvg
 slug: zvg
 
 ---

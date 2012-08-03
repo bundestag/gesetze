@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über explosionsgefährliche Stoffe
+jurabk: SprengG 1976
 layout: default
+origslug: sprengg_1976
 slug: sprengg_1976
 
 ---

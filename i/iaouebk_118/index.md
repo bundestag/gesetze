@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen Nr. 118 (der Internationalen Arbeitsorganisation) über die Gleichbehandlung
   von Inländern und Ausländern in der Sozialen Sicherheit
+jurabk: IAOÜbk 118
 layout: default
-slug: iao_bk_118
+origslug: iao_bk_118
+slug: iaouebk_118
 
 ---
 

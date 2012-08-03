@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Rechtsverhältnisse nicht mehr bestehender öffentlicher
   Rechtsträger
+jurabk: RTrAbwG
 layout: default
+origslug: rtrabwg
 slug: rtrabwg
 
 ---

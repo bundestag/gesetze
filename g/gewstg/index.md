@@ -1,6 +1,8 @@
 ---
 Title: Gewerbesteuergesetz
+jurabk: GewStG
 layout: default
+origslug: gewstg
 slug: gewstg
 
 ---

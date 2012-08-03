@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Art, Umfang, Beschaffenheit, Zulassung, Kennzeichnung und Betrieb
   von Anlagen und Geräten für die Flugsicherung
+jurabk: FSMusterzulV
 layout: default
+origslug: fsmusterzulv
 slug: fsmusterzulv
 
 ---

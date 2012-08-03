@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des
   Auslandsunterhaltsgesetzes
+jurabk: AUG§1Abs2Bek 03-1988
 layout: default
+origslug: aug_1abs2bek_03-1988
 slug: aug_1abs2bek_03-1988
 
 ---

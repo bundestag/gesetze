@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und über die
   Ausstattung der Berliner Altbanken mit Ausgleichsforderungen
+jurabk: UErgG
 layout: default
+origslug: uergg
 slug: uergg
 
 ---

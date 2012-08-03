@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 10. April 1997 zwischen der Bundesrepublik Deutschland
   und der Republik Polen über die gegenseitige Hilfeleistung bei Katastrophen oder
   schweren Unglücksfällen
+jurabk: KatHiLAbkPOLG
 layout: default
+origslug: kathilabkpolg
 slug: kathilabkpolg
 
 ---

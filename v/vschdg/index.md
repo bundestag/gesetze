@@ -1,6 +1,8 @@
 ---
 Title: EG-Verbraucherschutzdurchsetzungsgesetz
+jurabk: VSchDG
 layout: default
+origslug: vschdg
 slug: vschdg
 
 ---

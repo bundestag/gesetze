@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 250. Geburtstag von Johann Gottfried Herder)
+jurabk: Münz10DMBek 1994-10
 layout: default
-slug: m_nz10dmbek_1994-10
+origslug: m_nz10dmbek_1994-10
+slug: muenz10dmbek_1994-10
 
 ---
 

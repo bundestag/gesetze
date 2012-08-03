@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland
   und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-,
   Straßen- und Schiffsverkehr
+jurabk: GrAbfertCESVtrG
 layout: default
+origslug: grabfertcesvtrg
 slug: grabfertcesvtrg
 
 ---

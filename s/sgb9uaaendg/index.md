@@ -1,8 +1,10 @@
 ---
 Title: Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation und Teilhabe behinderter
   Menschen
+jurabk: SGB9uaÄndG
 layout: default
-slug: sgb9ua_ndg
+origslug: sgb9ua_ndg
+slug: sgb9uaaendg
 
 ---
 

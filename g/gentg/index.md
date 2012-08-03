@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung der Gentechnik
+jurabk: GenTG
 layout: default
+origslug: gentg
 slug: gentg
 
 ---

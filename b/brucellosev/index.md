@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Schutz gegen die Brucellose der Rinder, Schweine, Schafe und
   Ziegen
+jurabk: BrucelloseV
 layout: default
+origslug: brucellosev
 slug: brucellosev
 
 ---

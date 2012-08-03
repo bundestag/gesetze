@@ -1,6 +1,8 @@
 ---
 Title: Ernährungsvorsorgegesetz
+jurabk: EVG
 layout: default
+origslug: evg
 slug: evg
 
 ---

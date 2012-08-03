@@ -1,6 +1,8 @@
 ---
 Title: Erstes Gesetz zur Reform des Ehe- und Familienrechts
+jurabk: EheRG 1
 layout: default
+origslug: eherg_1
 slug: eherg_1
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über natürliches Mineralwasser, Quellwasser und Tafelwasser
+jurabk: Min/TafelWV
 layout: default
+origslug: min_tafelwv
 slug: min_tafelwv
 
 ---

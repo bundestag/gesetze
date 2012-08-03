@@ -1,7 +1,9 @@
 ---
 Title: Zweite Durchführungs- und Ergänzungsverordnung über die vereinfachte Abwicklung
   von Bausparverträgen
+jurabk: BauSparVetrAbwV 2
 layout: default
+origslug: bausparvetrabwv_2
 slug: bausparvetrabwv_2
 
 ---

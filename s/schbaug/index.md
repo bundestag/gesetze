@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung
+jurabk: SchBauG
 layout: default
+origslug: schbaug
 slug: schbaug
 
 ---

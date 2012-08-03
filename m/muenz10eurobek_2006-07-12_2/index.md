@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "650 Jahre Städtehanse")
+jurabk: Münz10EuroBek 2006-07-12/2
 layout: default
-slug: m_nz10eurobek_2006-07-12_2
+origslug: m_nz10eurobek_2006-07-12_2
+slug: muenz10eurobek_2006-07-12_2
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Zusammenlegung des Bundesamtes für Wirtschaft mit dem Bundesausfuhramt
+jurabk: BAW/BAFAG
 layout: default
+origslug: baw_bafag
 slug: baw_bafag
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung einer Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte
+jurabk: EbertStiftG
 layout: default
+origslug: ebertstiftg
 slug: ebertstiftg
 
 ---

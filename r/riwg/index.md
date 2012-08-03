@@ -1,6 +1,8 @@
 ---
 Title: Richterwahlgesetz
+jurabk: RiWG
 layout: default
+origslug: riwg
 slug: riwg
 
 ---

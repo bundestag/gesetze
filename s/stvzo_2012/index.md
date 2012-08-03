@@ -1,6 +1,8 @@
 ---
 Title: Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZO 2012
 layout: default
+origslug: stvzo_2012
 slug: stvzo_2012
 
 ---

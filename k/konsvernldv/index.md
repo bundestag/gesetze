@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
   Deutschland und dem Königreich der Niederlande
+jurabk: KonsVerNLDV
 layout: default
+origslug: konsvernldv
 slug: konsvernldv
 
 ---

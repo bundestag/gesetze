@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Erleichterung des Ferienreiseverkehrs auf der Straße
+jurabk: FerReiseV 1985
 layout: default
+origslug: ferreisev_1985
 slug: ferreisev_1985
 
 ---

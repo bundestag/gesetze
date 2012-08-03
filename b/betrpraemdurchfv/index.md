@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der einheitlichen Betriebsprämie
+jurabk: BetrPrämDurchfV
 layout: default
-slug: betrpr_mdurchfv
+origslug: betrpr_mdurchfv
+slug: betrpraemdurchfv
 
 ---
 

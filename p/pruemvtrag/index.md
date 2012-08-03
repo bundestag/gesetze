@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsgesetz zum Prümer Vertrag und zum Ratsbeschluss Prüm
+jurabk: PrümVtrAG
 layout: default
-slug: pr_mvtrag
+origslug: pr_mvtrag
+slug: pruemvtrag
 
 ---
 

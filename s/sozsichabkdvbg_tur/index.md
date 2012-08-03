@@ -1,7 +1,9 @@
 ---
 Title: Vereinbarung zur Durchführung des Abkommens vom 30. April 1964 zwischen der
   Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit
+jurabk: SozSichAbkDVbg TUR
 layout: default
+origslug: sozsichabkdvbg_tur
 slug: sozsichabkdvbg_tur
 
 ---

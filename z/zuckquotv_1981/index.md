@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Zuteilung und Änderung von Quoten für Zucker
+jurabk: ZuckQuotV 1981
 layout: default
+origslug: zuckquotv_1981
 slug: zuckquotv_1981
 
 ---

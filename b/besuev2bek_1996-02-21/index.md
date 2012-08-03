@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung der Dienstbezüge und Anwärterbezüge nach § 2 Abs. 1 und § 3
   Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
+jurabk: BesÜV2Bek 1996-02-21
 layout: default
-slug: bes_v2bek_1996-02-21
+origslug: bes_v2bek_1996-02-21
+slug: besuev2bek_1996-02-21
 
 ---
 

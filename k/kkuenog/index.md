@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu Übergangsregelungen zur Neuorganisation der vertragsärztlichen Selbstverwaltung
   und Organisation der Krankenkassen
+jurabk: KKÜNOG
 layout: default
-slug: kk_nog
+origslug: kk_nog
+slug: kkuenog
 
 ---
 

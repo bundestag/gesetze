@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Ausnahmen von den Vorschriften über die Beförderung gefährlicher
   Güter
+jurabk: GGAV 2002
 layout: default
+origslug: ggav_2002
 slug: ggav_2002
 
 ---

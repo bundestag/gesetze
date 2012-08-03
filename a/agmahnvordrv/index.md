@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
+jurabk: AGMahnVordrV
 layout: default
+origslug: agmahnvordrv
 slug: agmahnvordrv
 
 ---

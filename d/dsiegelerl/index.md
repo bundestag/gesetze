@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Dienstsiegel
+jurabk: DSiegelErl
 layout: default
+origslug: dsiegelerl
 slug: dsiegelerl
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Regelung der Rechtsverhältnisse bei baulichen Maßnahmen auf
   ehemals in Anspruch genommenen Grundstücken
+jurabk: WertAusglG
 layout: default
+origslug: wertausglg
 slug: wertausglg
 
 ---

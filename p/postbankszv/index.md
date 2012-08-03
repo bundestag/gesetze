@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der
   Deutschen Postbank AG beschäftigten Beamtinnen und Beamten
+jurabk: PostbankSZV
 layout: default
+origslug: postbankszv
 slug: postbankszv
 
 ---

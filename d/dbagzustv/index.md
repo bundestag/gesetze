@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuständigkeit der Deutsche Bahn Aktiengesellschaft für
   Entscheidungen in Angelegenheiten der zugewiesenen Beamten des Bundeseisenbahnvermögens
+jurabk: DBAGZustV
 layout: default
+origslug: dbagzustv
 slug: dbagzustv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes
+jurabk: PersStdGÄndG
 layout: default
-slug: persstdg_ndg
+origslug: persstdg_ndg
+slug: persstdgaendg
 
 ---
 

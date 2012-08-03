@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 27. September 1996 über die Auslieferung zwischen
   den Mitgliedstaaten der Europäischen Union
+jurabk: EUAuslÜbkG
 layout: default
-slug: euausl_bkg
+origslug: euausl_bkg
+slug: euausluebkg
 
 ---
 

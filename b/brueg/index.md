@@ -1,8 +1,10 @@
 ---
 Title: Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten
   des Deutschen Reichs und gleichgestellter Rechtsträger
+jurabk: BRüG
 layout: default
-slug: br_g
+origslug: br_g
+slug: brueg
 
 ---
 

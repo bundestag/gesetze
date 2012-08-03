@@ -1,7 +1,9 @@
 ---
 Title: Satzung der DSL Bank AG (Anhang des Gesetzes über die Umwandlung der Deutschen
   Siedlungs- und Landesrentenbank in eine Aktiengesellschaft)
+jurabk: DSLBSa
 layout: default
+origslug: dslbsa
 slug: dslbsa
 
 ---

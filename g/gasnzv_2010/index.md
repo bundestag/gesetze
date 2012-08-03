@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Zugang zu Gasversorgungsnetzen
+jurabk: GasNZV 2010
 layout: default
+origslug: gasnzv_2010
 slug: gasnzv_2010
 
 ---

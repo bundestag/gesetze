@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung der Marktordnungsvorschriften über die Verwendung
   von Kasein und Kaseinat zur Herstellung von Käse und Erzeugnissen aus Käse
+jurabk: KaseinVV
 layout: default
+origslug: kaseinvv
 slug: kaseinvv
 
 ---

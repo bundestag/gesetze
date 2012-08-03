@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Belgien
   über den Bau und die Unterhaltung einer Autobahnbrücke über die Our bei Steinebrück
+jurabk: AutobBrVtr BEL
 layout: default
+origslug: autobbrvtr_bel
 slug: autobbrvtr_bel
 
 ---

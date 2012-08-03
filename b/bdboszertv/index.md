@@ -2,7 +2,9 @@
 Title: Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endgeräte
   durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit
   Sicherheitsaufgaben
+jurabk: BDBOSZertV
 layout: default
+origslug: bdboszertv
 slug: bdboszertv
 
 ---

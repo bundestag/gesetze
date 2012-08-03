@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung als Naturpark "Drömling"
+jurabk: NatPDrömlV
 layout: default
-slug: natpdr_mlv
+origslug: natpdr_mlv
+slug: natpdroemlv
 
 ---
 

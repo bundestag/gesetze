@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Jugendschutzgesetzes
+jurabk: JuSchGDV
 layout: default
+origslug: juschgdv
 slug: juschgdv
 
 ---

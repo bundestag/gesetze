@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung
   der Tschechoslowakischen Sozialistischen Republik über den Binnenschiffsverkehr
+jurabk: BinSchAbk CSK
 layout: default
+origslug: binschabk_csk
 slug: binschabk_csk
 
 ---

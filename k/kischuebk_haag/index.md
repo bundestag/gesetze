@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet
   der internationalen Adoption
+jurabk: KiSchÜbk Haag
 layout: default
-slug: kisch_bk_haag
+origslug: kisch_bk_haag
+slug: kischuebk_haag
 
 ---
 

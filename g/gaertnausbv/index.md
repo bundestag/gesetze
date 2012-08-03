@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin
+jurabk: GärtnAusbV
 layout: default
-slug: g_rtnausbv
+origslug: g_rtnausbv
+slug: gaertnausbv
 
 ---
 

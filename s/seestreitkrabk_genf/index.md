@@ -1,7 +1,9 @@
 ---
 Title: II. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten,
   Kranken und Schiffbrüchigen der Streitkräfte zur See
+jurabk: SeeStreitKrAbk Genf
 layout: default
+origslug: seestreitkrabk_genf
 slug: seestreitkrabk_genf
 
 ---

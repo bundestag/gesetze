@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen
   in Entwicklungsländern
+jurabk: EntwHStG
 layout: default
+origslug: entwhstg
 slug: entwhstg
 
 ---

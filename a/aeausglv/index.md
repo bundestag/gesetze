@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr
+jurabk: AEAusglV
 layout: default
+origslug: aeausglv
 slug: aeausglv
 
 ---

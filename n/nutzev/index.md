@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über eine angemessene Gestaltung von Nutzungsentgelten
+jurabk: NutzEV
 layout: default
+origslug: nutzev
 slug: nutzev
 
 ---

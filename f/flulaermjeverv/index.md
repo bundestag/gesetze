@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Jever
+jurabk: FluLärmJeverV
 layout: default
-slug: flul_rmjeverv
+origslug: flul_rmjeverv
+slug: flulaermjeverv
 
 ---
 

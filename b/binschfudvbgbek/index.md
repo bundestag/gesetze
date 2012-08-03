@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung der Regionalen Vereinbarung über den Binnenschiffahrtsfunk
+jurabk: BinSchFuDVbgBek
 layout: default
+origslug: binschfudvbgbek
 slug: binschfudvbgbek
 
 ---

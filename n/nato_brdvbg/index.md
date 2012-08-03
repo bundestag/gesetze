@@ -3,7 +3,9 @@ Title: Vereinbarung zwischen der Nordatlantikvertrags-Organisation und der Regie
   der Bundesrepublik Deutschland über die Durchführung von Teil IV des am 20. September
   1951 in Ottawa unterzeichneten "Übereinkommens über den Status der Nordatlantikvertrags-Organisation,
   der nationalen Vertreter und des internationalen Personals"
+jurabk: NATO/BRDVbg
 layout: default
+origslug: nato_brdvbg
 slug: nato_brdvbg
 
 ---

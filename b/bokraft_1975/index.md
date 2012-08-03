@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr
+jurabk: BOKraft 1975
 layout: default
+origslug: bokraft_1975
 slug: bokraft_1975
 
 ---

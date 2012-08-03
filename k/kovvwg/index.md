@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung der Verwaltungsbehörden der Kriegsopferversorgung
+jurabk: KOVVwG
 layout: default
+origslug: kovvwg
 slug: kovvwg
 
 ---

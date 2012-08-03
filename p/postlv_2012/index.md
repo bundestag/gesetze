@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahnen der Beamtinnen und Beamten im Geltungsbereich
   des Postpersonalrechtsgesetzes
+jurabk: PostLV 2012
 layout: default
+origslug: postlv_2012
 slug: postlv_2012
 
 ---

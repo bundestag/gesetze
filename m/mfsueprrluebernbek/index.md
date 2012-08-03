@@ -2,8 +2,10 @@
 Title: Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine Tätigkeit
   oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale
   Sicherheit der ehemaligen Deutschen Demokratischen Republik
+jurabk: MfSÜPrRLÜbernBek
 layout: default
-slug: mfs_prrl_bernbek
+origslug: mfs_prrl_bernbek
+slug: mfsueprrluebernbek
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Vermarktungsnormen für Eier
+jurabk: EiMarktV
 layout: default
+origslug: eimarktv
 slug: eimarktv
 
 ---

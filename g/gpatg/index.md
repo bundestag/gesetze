@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften
+jurabk: GPatG
 layout: default
+origslug: gpatg
 slug: gpatg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Errichtung eines Europäischen Laboratoriums für Molekularbiologie
+jurabk: EuLabMolBioÜbk
 layout: default
-slug: eulabmolbio_bk
+origslug: eulabmolbio_bk
+slug: eulabmolbiouebk
 
 ---
 

@@ -3,7 +3,9 @@ Title: Gesetz zu dem Allgemeinen Abkommen vom 7. Dezember 1957 zwischen der Bund
   Deutschland und dem Königreich Belgien über Soziale Sicherheit nebst Schlußprotokoll,
   der Ersten, Zweiten und Dritten Zusatzvereinbarung und dem Zusatzprotokoll zu dem
   Abkommen
+jurabk: SozSichAbkBELG
 layout: default
+origslug: sozsichabkbelg
 slug: sozsichabkbelg
 
 ---

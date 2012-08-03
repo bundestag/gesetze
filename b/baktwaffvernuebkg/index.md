@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung,
   Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen
   sowie über die Vernichtung solcher Waffen
+jurabk: BaktWaffVernÜbkG
 layout: default
-slug: baktwaffvern_bkg
+origslug: baktwaffvern_bkg
+slug: baktwaffvernuebkg
 
 ---
 

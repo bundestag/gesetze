@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die elektronische Aktenführung in Ordnungsgeldverfahren beim
   Bundesamt für Justiz
+jurabk: OGAV
 layout: default
+origslug: ogav
 slug: ogav
 
 ---

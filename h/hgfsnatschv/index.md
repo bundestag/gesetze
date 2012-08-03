@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
+jurabk: HgFSNatSchV
 layout: default
+origslug: hgfsnatschv
 slug: hgfsnatschv
 
 ---

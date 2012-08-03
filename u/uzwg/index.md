@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch
   Vollzugsbeamte des Bundes
+jurabk: UZwG
 layout: default
+origslug: uzwg
 slug: uzwg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die erweiterte Zulassung von Schadenersatzansprüchen bei Dienst-
   und Arbeitsunfällen
+jurabk: ErwZulG
 layout: default
+origslug: erwzulg
 slug: erwzulg
 
 ---

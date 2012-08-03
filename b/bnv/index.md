@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten
   auf Zeit
+jurabk: BNV
 layout: default
+origslug: bnv
 slug: bnv
 
 ---

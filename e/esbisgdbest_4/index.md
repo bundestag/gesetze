@@ -2,7 +2,9 @@
 Title: Vierte Durchführungsbestimmung zum Gesetz über das einheitliche sozialistische
   Bildungssystem - Bildung und Erziehung im zweisprachigen Gebiet der Bezirke Cottbus
   und Dresden -
+jurabk: ESBiSGDBest 4
 layout: default
+origslug: esbisgdbest_4
 slug: esbisgdbest_4
 
 ---

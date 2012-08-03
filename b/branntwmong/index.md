@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Branntweinmonopol
+jurabk: BranntwMonG
 layout: default
+origslug: branntwmong
 slug: branntwmong
 
 ---

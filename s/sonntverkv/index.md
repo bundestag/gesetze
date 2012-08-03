@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Verkauf bestimmter Waren an Sonn- und Feiertagen
+jurabk: SonntVerkV
 layout: default
+origslug: sonntverkv
 slug: sonntverkv
 
 ---

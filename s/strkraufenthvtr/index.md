@@ -1,7 +1,9 @@
 ---
 Title: Vertrag über den Aufenthalt ausländischer Streitkräfte in der Bundesrepublik
   Deutschland
+jurabk: StrKrAufenthVtr
 layout: default
+origslug: strkraufenthvtr
 slug: strkraufenthvtr
 
 ---

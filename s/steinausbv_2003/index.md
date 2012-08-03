@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer/zur Steinmetzin
   und Steinbildhauerin
+jurabk: SteinAusbV 2003
 layout: default
+origslug: steinausbv_2003
 slug: steinausbv_2003
 
 ---

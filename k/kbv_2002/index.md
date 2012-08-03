@@ -1,6 +1,8 @@
 ---
 Title: Kleinbetragsverordnung
+jurabk: KBV 2002
 layout: default
+origslug: kbv_2002
 slug: kbv_2002
 
 ---

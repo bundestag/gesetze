@@ -2,7 +2,9 @@
 Title: Gesetz zur Bestimmung der Beitragssätze, der Beitragszahlung des Bundes für
   Kindererziehungszeiten und zur Bestimmung der Umrechnungsfaktoren für den Versorgungsausgleich
   in der gesetzlichen Rentenversicherung für 2002
+jurabk: BSG 2002
 layout: default
+origslug: bsg_2002
 slug: bsg_2002
 
 ---

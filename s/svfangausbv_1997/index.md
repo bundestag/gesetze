@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur
   Sozialversicherungsfachangestellten
+jurabk: SVFAngAusbV 1997
 layout: default
+origslug: svfangausbv_1997
 slug: svfangausbv_1997
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Regelung von Zuständigkeiten im Außenwirtschaftsverkehr
+jurabk: AWZustV 1977
 layout: default
+origslug: awzustv_1977
 slug: awzustv_1977
 
 ---

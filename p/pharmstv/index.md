@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Stoffe mit pharmakologischer Wirkung
+jurabk: PharmStV
 layout: default
+origslug: pharmstv
 slug: pharmstv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Rheinschiffahrtspolizeiverordnung (Anlage zur Verordnung zur Einführung der
   Rheinschiffahrtspolizeiverordnung)
+jurabk: RheinSchPV 1994
 layout: default
+origslug: rheinschpv_1994
 slug: rheinschpv_1994
 
 ---

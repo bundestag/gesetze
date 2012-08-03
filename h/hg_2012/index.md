@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr
   2012
+jurabk: HG 2012
 layout: default
+origslug: hg_2012
 slug: hg_2012
 
 ---

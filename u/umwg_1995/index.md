@@ -1,6 +1,8 @@
 ---
 Title: Umwandlungsgesetz
+jurabk: UmwG 1995
 layout: default
+origslug: umwg_1995
 slug: umwg_1995
 
 ---

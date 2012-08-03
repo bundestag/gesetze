@@ -1,7 +1,9 @@
 ---
 Title: Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der
   Republik Finnland über Soziale Sicherheit
+jurabk: SozSichAbkSchlProt FIN
 layout: default
+origslug: sozsichabkschlprot_fin
 slug: sozsichabkschlprot_fin
 
 ---

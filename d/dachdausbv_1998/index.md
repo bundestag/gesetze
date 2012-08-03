@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Dachdecker/zur Dachdeckerin
+jurabk: DachdAusbV 1998
 layout: default
+origslug: dachdausbv_1998
 slug: dachdausbv_1998
 
 ---

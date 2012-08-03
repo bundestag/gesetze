@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer/zur Behälter-
   und Apparatebauerin
+jurabk: KupfSchmAusbV
 layout: default
+origslug: kupfschmausbv
 slug: kupfschmausbv
 
 ---

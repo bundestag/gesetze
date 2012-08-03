@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Führung des Personalakten der ungedienten Wehrpflichtigen
+jurabk: WPersAV
 layout: default
+origslug: wpersav
 slug: wpersav
 
 ---

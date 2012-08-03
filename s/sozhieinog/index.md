@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Einordnung des Sozialhilferechts in das Sozialgesetzbuch
+jurabk: SozhiEinOG
 layout: default
+origslug: sozhieinog
 slug: sozhieinog
 
 ---

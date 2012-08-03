@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
   Deutschland und der Schweizerischen Eidgenossenschaft
+jurabk: KonsVerCHEV
 layout: default
+origslug: konsverchev
 slug: konsverchev
 
 ---

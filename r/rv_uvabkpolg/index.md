@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 9. Oktober 1975 zwischen der Bundesrepublik Deutschland
   und der Volksrepublik Polen über Renten- und Unfallversicherung nebst der Vereinbarung
   hierzu vom 9. Oktober 1975
+jurabk: RV/UVAbkPOLG
 layout: default
+origslug: rv_uvabkpolg
 slug: rv_uvabkpolg
 
 ---

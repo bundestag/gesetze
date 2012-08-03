@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Seediensttauglichkeit
+jurabk: SeeDTauglV
 layout: default
+origslug: seedtauglv
 slug: seedtauglv
 
 ---

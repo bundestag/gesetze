@@ -1,6 +1,8 @@
 ---
 Title: Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen
+jurabk: ESBO
 layout: default
+origslug: esbo
 slug: esbo
 
 ---

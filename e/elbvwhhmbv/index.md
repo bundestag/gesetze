@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Verwaltung der Elbe und anderer Reichswasserstraßen durch
   die Hansestadt Hamburg
+jurabk: ElbVwHHmbV
 layout: default
+origslug: elbvwhhmbv
 slug: elbvwhhmbv
 
 ---

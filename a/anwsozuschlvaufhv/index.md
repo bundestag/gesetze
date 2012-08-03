@@ -1,6 +1,8 @@
 ---
 Title: Anwärtersonderzuschlags-Verordnung
+jurabk: AnwSoZuschlVAufhV
 layout: default
+origslug: anwsozuschlvaufhv
 slug: anwsozuschlvaufhv
 
 ---

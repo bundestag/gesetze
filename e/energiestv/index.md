@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Energiesteuergesetzes
+jurabk: EnergieStV
 layout: default
+origslug: energiestv
 slug: energiestv
 
 ---

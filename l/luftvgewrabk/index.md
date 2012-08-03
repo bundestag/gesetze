@@ -1,7 +1,9 @@
 ---
 Title: Mehrseitiges Abkommen über gewerbliche Rechte im nichtplanmäßigen Luftverkehr
   in Europa
+jurabk: LuftVGewRAbk
 layout: default
+origslug: luftvgewrabk
 slug: luftvgewrabk
 
 ---

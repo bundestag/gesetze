@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
+jurabk: FahrmAusbV
 layout: default
+origslug: fahrmausbv
 slug: fahrmausbv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der
   Forstwirtschaft
+jurabk: ForstSchAusglG
 layout: default
+origslug: forstschausglg
 slug: forstschausglg
 
 ---

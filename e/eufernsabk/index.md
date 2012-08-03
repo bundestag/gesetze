@@ -1,6 +1,8 @@
 ---
 Title: Europäisches Abkommen zum Schutz von Fernsehsendungen
+jurabk: EuFernsAbk
 layout: default
+origslug: eufernsabk
 slug: eufernsabk
 
 ---

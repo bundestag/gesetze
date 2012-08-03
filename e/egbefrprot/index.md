@@ -1,6 +1,8 @@
 ---
 Title: Protokoll über die Vorrechte und Befreiungen der Europäischen Gemeinschaften
+jurabk: EGBefrProt
 layout: default
+origslug: egbefrprot
 slug: egbefrprot
 
 ---

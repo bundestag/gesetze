@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des § 1 Abs. 1 und 3, des § 30 Abs. 1 und des §
   35 Abs. 1 des Bundesversorgungsgesetzes
+jurabk: VersMedV
 layout: default
+origslug: versmedv
 slug: versmedv
 
 ---

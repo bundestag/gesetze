@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Feinoptiker/zur Feinoptikerin
+jurabk: FeinOAusbV
 layout: default
+origslug: feinoausbv
 slug: feinoausbv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung
+jurabk: DMBilG
 layout: default
+origslug: dmbilg
 slug: dmbilg
 
 ---

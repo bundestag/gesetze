@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zu Systemdienstleistungen durch Windenergieanlagen
+jurabk: SDLWindV
 layout: default
+origslug: sdlwindv
 slug: sdlwindv
 
 ---

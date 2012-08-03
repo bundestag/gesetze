@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen von 1992 über den Schutz der Meeresumwelt des Ostseegebiets
+jurabk: OstSUmwSchÜbk 1992
 layout: default
-slug: ostsumwsch_bk_1992
+origslug: ostsumwsch_bk_1992
+slug: ostsumwschuebk_1992
 
 ---
 

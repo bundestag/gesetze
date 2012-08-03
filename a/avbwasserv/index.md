@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser
+jurabk: AVBWasserV
 layout: default
+origslug: avbwasserv
 slug: avbwasserv
 
 ---

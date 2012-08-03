@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Errichtung eines Beirates für Ausbildungsförderung
+jurabk: BeiratsV
 layout: default
+origslug: beiratsv
 slug: beiratsv
 
 ---

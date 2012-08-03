@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Änderungen von Vorschriften des Zweiten Buches der Reichsversicherungsordnung
   und zur Ergänzung des Sozialgerichtsgesetzes
+jurabk: KARG
 layout: default
+origslug: karg
 slug: karg
 
 ---

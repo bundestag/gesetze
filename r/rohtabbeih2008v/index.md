@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für
   das Erntejahr 2008
+jurabk: RohTabBeih2008V
 layout: default
+origslug: rohtabbeih2008v
 slug: rohtabbeih2008v
 
 ---

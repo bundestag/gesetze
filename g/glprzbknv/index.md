@@ -3,7 +3,9 @@ Title: Verordnung zur Gleichstellung der bei der Bundesknappschaft erworbenen Pr
   über das Bestehen der Prüfung nach dem Tarifvertrag über die Fortbildung von Angestellten
   mit Zeugnissen zur Sozialversicherungsfachwirtin oder zum Sozialversicherungsfachwirt
   – Fachrichtung knappschaftliche Sozialversicherung
+jurabk: GlPrZBKnV
 layout: default
+origslug: glprzbknv
 slug: glprzbknv
 
 ---

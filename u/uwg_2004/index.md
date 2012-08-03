@@ -1,6 +1,8 @@
 ---
 Title: Gesetz gegen den unlauteren Wettbewerb
+jurabk: UWG 2004
 layout: default
+origslug: uwg_2004
 slug: uwg_2004
 
 ---

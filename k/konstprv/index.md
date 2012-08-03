@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstrukteur/Geprüfte
   Konstrukteurin
+jurabk: KonstPrV
 layout: default
+origslug: konstprv
 slug: konstprv
 
 ---

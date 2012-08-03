@@ -1,6 +1,8 @@
 ---
 Title: Fünfunddreißigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 35
 layout: default
+origslug: stvzoausnv_35
 slug: stvzoausnv_35
 
 ---

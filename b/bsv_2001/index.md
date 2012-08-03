@@ -2,7 +2,9 @@
 Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung,
   der Beitragszahlung des Bundes für Kindererziehungszeiten und weiterer Rechengrößen
   der Sozialversicherung für 2001
+jurabk: BSV 2001
 layout: default
+origslug: bsv_2001
 slug: bsv_2001
 
 ---

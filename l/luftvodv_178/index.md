@@ -2,7 +2,9 @@
 Title: Hundertachtundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderflughafen
   Oberpfaffenhofen)
+jurabk: LuftVODV 178
 layout: default
+origslug: luftvodv_178
 slug: luftvodv_178
 
 ---

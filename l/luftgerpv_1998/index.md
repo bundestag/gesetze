@@ -2,7 +2,9 @@
 Title: Verordnung zur Prüfung von Luftfahrtgerät (Artikel 2 der Verordnung zur Änderung
   luftrechtlicher Vorschriften über die Entwicklung, Zulassung, Herstellung und Instandhaltung
   von Luftfahrtgerät)
+jurabk: LuftGerPV 1998
 layout: default
+origslug: luftgerpv_1998
 slug: luftgerpv_1998
 
 ---

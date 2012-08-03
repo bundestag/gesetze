@@ -1,6 +1,8 @@
 ---
 Title: Sechsunddreißigste Verordnung zur vorübergehenden Abweichung von der Rheinschifffahrtspolizeiverordnung
+jurabk: RheinSchPV1994AbwV 36
 layout: default
+origslug: rheinschpv1994abwv_36
 slug: rheinschpv1994abwv_36
 
 ---

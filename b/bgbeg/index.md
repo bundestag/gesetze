@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zum Bürgerlichen Gesetzbuche
+jurabk: BGBEG
 layout: default
+origslug: bgbeg
 slug: bgbeg
 
 ---

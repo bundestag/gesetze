@@ -1,7 +1,9 @@
 ---
 Title: Abkommen über die Rechtsstellung der Flüchtlinge
+jurabk: FlüAbk
 layout: default
-slug: fl_abk
+origslug: fl_abk
+slug: flueabk
 
 ---
 

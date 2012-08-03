@@ -2,7 +2,9 @@
 Title: Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
   genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung
   für 1996
+jurabk: RAV 11
 layout: default
+origslug: rav_11
 slug: rav_11
 
 ---

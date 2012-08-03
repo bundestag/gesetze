@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Förderung der erstmaligen technischen Umstellung von Filmtheatern
   auf digitales Filmabspiel
+jurabk: FilmDigitV
 layout: default
+origslug: filmdigitv
 slug: filmdigitv
 
 ---

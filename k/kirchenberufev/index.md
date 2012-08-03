@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten
   für kirchliche Berufe
+jurabk: KirchenberufeV
 layout: default
+origslug: kirchenberufev
 slug: kirchenberufev
 
 ---

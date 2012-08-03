@@ -2,7 +2,9 @@
 Title: Bekanntmachung der Briefe des Bundespräsidenten vom 19. August 1991 und des
   Bundeskanzlers vom 23. August 1991 über die Bestimmung der 3. Strophe des Liedes
   der Deutschen zur Nationalhymne der Bundesrepublik Deutschland
+jurabk: NHBrfBek
 layout: default
+origslug: nhbrfbek
 slug: nhbrfbek
 
 ---

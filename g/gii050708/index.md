@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 30. Oktober 2003 zwischen der Bundesrepublik Deutschland
   und der Republik Angola über die Förderung und den gegenseitigen Schutz von Kapitalanlagen
+jurabk: GII050708
 layout: default
+origslug: gii050708
 slug: gii050708
 
 ---

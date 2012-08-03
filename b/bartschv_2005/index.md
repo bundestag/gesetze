@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz wild lebender Tier- und Pflanzenarten
+jurabk: BArtSchV 2005
 layout: default
+origslug: bartschv_2005
 slug: bartschv_2005
 
 ---

@@ -3,7 +3,9 @@ Title: Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäische
   und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen 1) und des Basler
   Übereinkommens vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung
   gefährlicher Abfälle und ihrer Entsorgung 2)
+jurabk: AbfVerbrG 2007
 layout: default
+origslug: abfverbrg_2007
 slug: abfverbrg_2007
 
 ---

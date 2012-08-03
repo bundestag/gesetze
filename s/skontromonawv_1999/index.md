@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einreichung von Monatsausweisen durch Skontroführer nach dem
   Gesetz über das Kreditwesen
+jurabk: SkontroMonAwV 1999
 layout: default
+origslug: skontromonawv_1999
 slug: skontromonawv_1999
 
 ---

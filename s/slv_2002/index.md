@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Laufbahnen der Soldatinnen und Soldaten
+jurabk: SLV 2002
 layout: default
+origslug: slv_2002
 slug: slv_2002
 
 ---

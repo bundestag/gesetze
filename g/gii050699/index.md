@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 28. August 1997 zwischen der Bundesrepublik Deutschland
   und der Kirgisischen Republik über die Förderung und den gegenseitigen Schutz von
   Kapitalanlagen
+jurabk: GII050699
 layout: default
+origslug: gii050699
 slug: gii050699
 
 ---

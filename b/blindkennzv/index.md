@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift  bei
   Kleinstmengen
+jurabk: BlindKennzV
 layout: default
+origslug: blindkennzv
 slug: blindkennzv
 
 ---

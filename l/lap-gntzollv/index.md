@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen
   Zolldienst des Bundes
+jurabk: LAP-gntZollV
 layout: default
+origslug: lap-gntzollv
 slug: lap-gntzollv
 
 ---

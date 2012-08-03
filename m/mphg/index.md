@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Berufe in der Physiotherapie
+jurabk: MPhG
 layout: default
+origslug: mphg
 slug: mphg
 
 ---

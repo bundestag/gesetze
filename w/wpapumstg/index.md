@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Börsenzulassung umgestellter Wertpapiere
+jurabk: WPapUmstG
 layout: default
+origslug: wpapumstg
 slug: wpapumstg
 
 ---

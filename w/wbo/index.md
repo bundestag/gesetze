@@ -1,6 +1,8 @@
 ---
 Title: Wehrbeschwerdeordnung
+jurabk: WBO
 layout: default
+origslug: wbo
 slug: wbo
 
 ---

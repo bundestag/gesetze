@@ -1,6 +1,8 @@
 ---
 Title: Mindesturlaubsgesetz für Arbeitnehmer
+jurabk: BUrlG
 layout: default
+origslug: burlg
 slug: burlg
 
 ---

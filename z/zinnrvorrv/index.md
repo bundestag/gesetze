@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an den Internationalen
   Zinnrat nach dem Fünften Internationalen Zinn-Übereinkommen vom 21. Juni 1975
+jurabk: ZinnRVorRV
 layout: default
+origslug: zinnrvorrv
 slug: zinnrvorrv
 
 ---

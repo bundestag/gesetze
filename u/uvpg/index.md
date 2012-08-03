@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Umweltverträglichkeitsprüfung
+jurabk: UVPG
 layout: default
+origslug: uvpg
 slug: uvpg
 
 ---

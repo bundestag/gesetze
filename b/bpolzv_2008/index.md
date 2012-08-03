@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Zuständigkeit der Bundespolizeibehörden
+jurabk: BPolZV 2008
 layout: default
+origslug: bpolzv_2008
 slug: bpolzv_2008
 
 ---

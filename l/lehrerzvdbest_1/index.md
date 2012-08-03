@@ -2,7 +2,9 @@
 Title: Erste Durchführungsbestimmung zur Verordnung über die Pflichten und Rechte
   der Lehrkräfte und Erzieher - Arbeitsordnung für pädagogische Kräfte der Volksbildung
   -
+jurabk: LehrErzVDBest 1
 layout: default
+origslug: lehrerzvdbest_1
 slug: lehrerzvdbest_1
 
 ---

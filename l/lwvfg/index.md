@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen
+jurabk: LwVfG
 layout: default
+origslug: lwvfg
 slug: lwvfg
 
 ---

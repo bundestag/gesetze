@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den automatisierten Datenabruf der Handwerkskammern nach §
   5a Abs. 2 der Handwerksordnung
+jurabk: HwO§5aAbs2V
 layout: default
+origslug: hwo_5aabs2v
 slug: hwo_5aabs2v
 
 ---

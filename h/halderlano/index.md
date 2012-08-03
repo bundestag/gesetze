@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über Halden und Restlöcher
+jurabk: HaldeRlAnO
 layout: default
+origslug: halderlano
 slug: halderlano
 
 ---

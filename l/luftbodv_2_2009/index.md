@@ -2,7 +2,9 @@
 Title: Zweite Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-,
   Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen
   und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung)
+jurabk: LuftBODV 2 2009
 layout: default
+origslug: luftbodv_2_2009
 slug: luftbodv_2_2009
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die vom Bund zu tragenden Aufwendungen für die Heil- und Krankenbehandlung
   Versorgungsberechtigter in Versorgungskrankenanstalten der Länder
+jurabk: KOVErstV
 layout: default
+origslug: koverstv
 slug: koverstv
 
 ---

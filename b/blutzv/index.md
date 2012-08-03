@@ -2,7 +2,9 @@
 Title: Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung
   auf Blutzubereitungen (Artikel 1 der Verordnung über die Einführung der staatlichen
   Chargenprüfung bei Blutzubereitungen)
+jurabk: BlutZV
 layout: default
+origslug: blutzv
 slug: blutzv
 
 ---

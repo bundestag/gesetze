@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Bezugsdauer für das Kurzarbeitergeld
+jurabk: KuArbGeldFristV 2009
 layout: default
+origslug: kuarbgeldfristv_2009
 slug: kuarbgeldfristv_2009
 
 ---

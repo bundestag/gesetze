@@ -1,6 +1,8 @@
 ---
 Title: Internationaler Fernmeldevertrag
+jurabk: FMVtr 1973
 layout: default
+origslug: fmvtr_1973
 slug: fmvtr_1973
 
 ---

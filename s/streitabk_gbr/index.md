@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich
   Großbritannien und Nordirland über die Beilegung von Streitigkeiten bei Direktbeschaffungen
+jurabk: StreitAbk GBR
 layout: default
+origslug: streitabk_gbr
 slug: streitabk_gbr
 
 ---

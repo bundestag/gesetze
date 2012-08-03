@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager
   – Produktionstechnologie/Geprüfte Prozessmanagerin – Produktionstechnologie
+jurabk: ProTechPrV
 layout: default
+origslug: protechprv
 slug: protechprv
 
 ---

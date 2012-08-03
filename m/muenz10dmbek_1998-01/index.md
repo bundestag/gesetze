@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 350 Jahre Westfälischer Friede)
+jurabk: Münz10DMBek 1998-01
 layout: default
-slug: m_nz10dmbek_1998-01
+origslug: m_nz10dmbek_1998-01
+slug: muenz10dmbek_1998-01
 
 ---
 

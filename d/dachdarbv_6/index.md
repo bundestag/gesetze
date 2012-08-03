@@ -1,6 +1,8 @@
 ---
 Title: Sechste Verordnung über zwingende Arbeitsbedingungen im Dachdeckerhandwerk
+jurabk: DachdArbV 6
 layout: default
+origslug: dachdarbv_6
 slug: dachdarbv_6
 
 ---

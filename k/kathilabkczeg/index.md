@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 19. September 2000 zwischen der Bundesrepublik Deutschland
   und der Tschechischen Republik über die gegenseitige Hilfeleistung bei Katastrophen
   und schweren Unglücksfällen
+jurabk: KatHiLAbkCZEG
 layout: default
+origslug: kathilabkczeg
 slug: kathilabkczeg
 
 ---

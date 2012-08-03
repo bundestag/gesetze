@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Errichtung einer Verkehrsinfrastrukturfinanzierungsgesellschaft
   zur Finanzierung von Bundesverkehrswegen
+jurabk: VIFGG
 layout: default
+origslug: vifgg
 slug: vifgg
 
 ---

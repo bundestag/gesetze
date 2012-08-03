@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Holzbearbeitungsmechaniker/zur Holzbearbeitungsmechanikerin
+jurabk: HolzbearbMechAusbV 2004-07
 layout: default
+origslug: holzbearbmechausbv_2004-07
 slug: holzbearbmechausbv_2004-07
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Erhebung der Daten nach § 51b des Zweiten Buches Sozialgesetzbuch
+jurabk: SGB2§51bDatV
 layout: default
+origslug: sgb2_51bdatv
 slug: sgb2_51bdatv
 
 ---

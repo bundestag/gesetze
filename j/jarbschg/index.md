@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz der arbeitenden Jugend
+jurabk: JArbSchG
 layout: default
+origslug: jarbschg
 slug: jarbschg
 
 ---

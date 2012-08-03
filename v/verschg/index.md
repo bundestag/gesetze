@@ -1,6 +1,8 @@
 ---
 Title: Verschollenheitsgesetz
+jurabk: VerschG
 layout: default
+origslug: verschg
 slug: verschg
 
 ---

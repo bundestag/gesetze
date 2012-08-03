@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen
   über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
+jurabk: PrfgZAUTV
 layout: default
+origslug: prfgzautv
 slug: prfgzautv
 
 ---

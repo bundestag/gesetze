@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über nutzungsbezogene Zuschläge bei Verwendung der elektronischen Gesundheitskarte
   außerhalb der Gesetzlichen Krankenversicherung
+jurabk: NutzZG
 layout: default
+origslug: nutzzg
 slug: nutzzg
 
 ---

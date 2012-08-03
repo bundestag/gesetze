@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung
+jurabk: WDOBezV
 layout: default
+origslug: wdobezv
 slug: wdobezv
 
 ---

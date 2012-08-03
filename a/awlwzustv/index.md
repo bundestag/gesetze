@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung von Zuständigkeiten im Außenwirtschaftsverkehr mit
   Erzeugnissen der Ernährungs- und Landwirtschaft
+jurabk: AWLwZustV
 layout: default
+origslug: awlwzustv
 slug: awlwzustv
 
 ---

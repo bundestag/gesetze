@@ -2,7 +2,9 @@
 Verordnung über die Schiffssicherheit in der Binnenschifffahrt
 ---
 Title: ''
+jurabk: BinSchUO 2008
 layout: default
+origslug: binschuo_2008
 slug: binschuo_2008
 
 ---

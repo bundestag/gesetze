@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die zu Beglaubigungen befugten Behörden
+jurabk: BeglV 2003
 layout: default
+origslug: beglv_2003
 slug: beglv_2003
 
 ---

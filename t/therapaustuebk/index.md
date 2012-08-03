@@ -1,8 +1,10 @@
 ---
 Title: Europäisches Übereinkommen über den Austausch therapeutischer Substanzen menschlichen
   Ursprungs
+jurabk: TherapAustÜbk
 layout: default
-slug: therapaust_bk
+origslug: therapaust_bk
+slug: therapaustuebk
 
 ---
 

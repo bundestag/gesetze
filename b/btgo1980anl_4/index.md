@@ -1,7 +1,9 @@
 ---
 Title: Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage
   4 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
+jurabk: BTGO1980Anl 4
 layout: default
+origslug: btgo1980anl_4
 slug: btgo1980anl_4
 
 ---

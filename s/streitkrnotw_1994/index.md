@@ -3,7 +3,9 @@ Title: Notenwechsel vom 12. September 1994 zwischen dem Königreich Belgien, der
   Deutschland, der Französischen Republik, Kanada, dem Königreich der Niederlande,
   dem Königreich Großbritannien und Nordirland und den Vereinigten Staaten von Amerika
   zur Änderung des Notenwechsels vom 25. September 1990 zum NATO-Truppenstatut
+jurabk: StreitkrNotW 1994
 layout: default
+origslug: streitkrnotw_1994
 slug: streitkrnotw_1994
 
 ---

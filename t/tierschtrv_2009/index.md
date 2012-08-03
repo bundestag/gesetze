@@ -4,7 +4,9 @@ der Verordnung (EG) Nr. 1/2005 des Rates
 [^f771804_02_BJNR037500009]
 ---
 Title: ''
+jurabk: TierSchTrV 2009
 layout: default
+origslug: tierschtrv_2009
 slug: tierschtrv_2009
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 20. Oktober 1992 zwischen der Bundesrepublik Deutschland
   und dem Königreich der Niederlande über Grenzberichtigungen (Zweiter Grenzberichtigungsvertrag)
+jurabk: GrBerichtVtrNLD2G
 layout: default
+origslug: grberichtvtrnld2g
 slug: grberichtvtrnld2g
 
 ---

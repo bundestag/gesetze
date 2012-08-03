@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Aussetzung der statistischen Erhebungen im Bereich der Filmwirtschaft
+jurabk: FWiStatV
 layout: default
+origslug: fwistatv
 slug: fwistatv
 
 ---

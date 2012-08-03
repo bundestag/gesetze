@@ -1,6 +1,8 @@
 ---
 Title: Einkommensteuer-Durchführungsverordnung
+jurabk: EStDV 1955
 layout: default
+origslug: estdv_1955
 slug: estdv_1955
 
 ---

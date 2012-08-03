@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Rollladen-  und Jalousiebauer-Handwerk
+jurabk: RollSonnMstrV
 layout: default
+origslug: rollsonnmstrv
 slug: rollsonnmstrv
 
 ---

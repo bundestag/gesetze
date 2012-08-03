@@ -2,7 +2,9 @@
 Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschulen
   für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen mit den Zeugnissen
   über das Bestehen der Abschlußprüfung in Ausbildungsberufen
+jurabk: PrZBrGleichstV
 layout: default
+origslug: przbrgleichstv
 slug: przbrgleichstv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Deutschen Sparkassen- und Giroverband
+jurabk: SparkGiroVerbG
 layout: default
+origslug: sparkgiroverbg
 slug: sparkgiroverbg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Erblastentilgungsfonds
+jurabk: ELFG
 layout: default
+origslug: elfg
 slug: elfg
 
 ---

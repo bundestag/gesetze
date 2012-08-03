@@ -1,6 +1,8 @@
 ---
 Title: Geschäftsordnung für das Verfahren nach Artikel 115 d des Grundgesetzes
+jurabk: GGArt115dGO
 layout: default
+origslug: ggart115dgo
 slug: ggart115dgo
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anwendung der Guten Klinischen Praxis bei der Durchführung
   von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen
+jurabk: GCP-V
 layout: default
+origslug: gcp-v
 slug: gcp-v
 
 ---

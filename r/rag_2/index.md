@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen
   aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1959
+jurabk: RAG 2
 layout: default
+origslug: rag_2
 slug: rag_2
 
 ---

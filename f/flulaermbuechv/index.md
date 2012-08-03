@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Büchel
+jurabk: FluLärmBüchV
 layout: default
-slug: flul_rmb_chv
+origslug: flul_rmb_chv
+slug: flulaermbuechv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
   Deutschland und der Republik Österreich
+jurabk: KonsVerAUTV
 layout: default
+origslug: konsverautv
 slug: konsverautv
 
 ---

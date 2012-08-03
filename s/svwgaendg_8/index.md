@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Weiterentwicklung des Selbstverwaltungsrechts und zur Vereinfachung
   des Wahlverfahrens
+jurabk: SVwGÄndG 8
 layout: default
-slug: svwg_ndg_8
+origslug: svwg_ndg_8
+slug: svwgaendg_8
 
 ---
 

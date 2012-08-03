@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zur Servicekraft für Schutz und
 Sicherheit
 ---
 Title: ''
+jurabk: SchSiServAusbV
 layout: default
+origslug: schsiservausbv
 slug: schsiservausbv
 
 ---

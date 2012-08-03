@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Beleihung der Akkreditierungsstelle nach dem Akkreditierungsstellengesetz
+jurabk: AkkStelleGBV
 layout: default
+origslug: akkstellegbv
 slug: akkstellegbv
 
 ---

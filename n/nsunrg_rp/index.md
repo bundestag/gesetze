@@ -1,6 +1,8 @@
 ---
 Title: Landesgesetz zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege
+jurabk: NSUnrG RP
 layout: default
+origslug: nsunrg_rp
 slug: nsunrg_rp
 
 ---

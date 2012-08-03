@@ -2,7 +2,9 @@
 Title: Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes
   für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich
   des Bundesministeriums der Verteidigung
+jurabk: BMVg-ArbSchGAnwV
 layout: default
+origslug: bmvg-arbschganwv
 slug: bmvg-arbschganwv
 
 ---

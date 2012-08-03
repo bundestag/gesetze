@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten
   gegenüber den Angehörigen des Königreichs Griechenland
+jurabk: BeamtHaftGRCBek
 layout: default
+origslug: beamthaftgrcbek
 slug: beamthaftgrcbek
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Apothekenwesen
+jurabk: ApoG
 layout: default
+origslug: apog
 slug: apog
 
 ---

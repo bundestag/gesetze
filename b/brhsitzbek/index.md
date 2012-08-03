@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung des Organisationserlasses zur Sitzverlagerung des Bundesrechnungshofes
+jurabk: BRHSitzBek
 layout: default
+origslug: brhsitzbek
 slug: brhsitzbek
 
 ---

@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen von Regierungsinspektoranwärterinnen
   und -anwärtern des Bundesversicherungsamts in Prüfungsangelegenheiten
+jurabk: BVAPrZustAnO
 layout: default
+origslug: bvaprzustano
 slug: bvaprzustano
 
 ---

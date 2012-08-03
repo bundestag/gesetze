@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen
   Republik über die Herstellung der Einheit Deutschlands
+jurabk: EinigVtr
 layout: default
+origslug: einigvtr
 slug: einigvtr
 
 ---

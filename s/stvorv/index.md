@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des
   Soldatenversorgungsgesetzes
+jurabk: StVorV
 layout: default
+origslug: stvorv
 slug: stvorv
 
 ---

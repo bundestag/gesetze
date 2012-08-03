@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach Artikel 6 Absatz 3 des Einführungsgesetzes zum Handelsgesetzbuche
+jurabk: IntKonnBek 2009
 layout: default
+origslug: intkonnbek_2009
 slug: intkonnbek_2009
 
 ---

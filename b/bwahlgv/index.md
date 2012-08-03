@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Einsatz von Wahlgeräten bei Wahlen zum Deutschen Bundestag
   und der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
+jurabk: BWahlGV
 layout: default
+origslug: bwahlgv
 slug: bwahlgv
 
 ---

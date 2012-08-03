@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank
+jurabk: ZweckVG
 layout: default
+origslug: zweckvg
 slug: zweckvg
 
 ---

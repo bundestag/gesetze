@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
+jurabk: BASIG
 layout: default
+origslug: basig
 slug: basig
 
 ---

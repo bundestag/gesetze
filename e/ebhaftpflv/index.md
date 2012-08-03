@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Haftpflichtversicherung der Eisenbahnen
+jurabk: EBHaftpflV
 layout: default
+origslug: ebhaftpflv
 slug: ebhaftpflv
 
 ---

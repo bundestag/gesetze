@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zum Zusatzprotokoll vom 15. März 1978 zum Europäischen Übereinkommen
   betreffend Auskünfte über ausländisches Recht
+jurabk: RAuskÜbkZProtG
 layout: default
-slug: rausk_bkzprotg
+origslug: rausk_bkzprotg
+slug: rauskuebkzprotg
 
 ---
 

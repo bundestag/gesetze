@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Gleichstellung von Frauen und Männern in der Bundesverwaltung und
   in den Gerichten des Bundes
+jurabk: BGleiG
 layout: default
+origslug: bgleig
 slug: bgleig
 
 ---

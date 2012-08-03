@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit biologischen
   Arbeitsstoffen
+jurabk: BioStoffV
 layout: default
+origslug: biostoffv
 slug: biostoffv
 
 ---

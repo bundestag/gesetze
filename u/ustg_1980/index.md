@@ -1,6 +1,8 @@
 ---
 Title: Umsatzsteuergesetz
+jurabk: UStG 1980
 layout: default
+origslug: ustg_1980
 slug: ustg_1980
 
 ---

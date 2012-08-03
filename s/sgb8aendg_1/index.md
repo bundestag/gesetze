@@ -1,7 +1,9 @@
 ---
 Title: Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch
+jurabk: SGB8ÄndG 1
 layout: default
-slug: sgb8_ndg_1
+origslug: sgb8_ndg_1
+slug: sgb8aendg_1
 
 ---
 

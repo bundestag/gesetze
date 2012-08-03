@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die notarielle Fachprüfung
+jurabk: NotFV
 layout: default
+origslug: notfv
 slug: notfv
 
 ---

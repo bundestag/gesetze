@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- und Tragegenehmigungen
   für bestimmte Orden und Ehrenzeichen
+jurabk: OrdenG§5Bek 2009
 layout: default
+origslug: ordeng_5bek_2009
 slug: ordeng_5bek_2009
 
 ---

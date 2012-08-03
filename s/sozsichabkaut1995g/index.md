@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Abkommen vom 4. Oktober 1995 zwischen der Bundesrepublik Deutschland
   und der Republik Österreich über Soziale Sicherheit
+jurabk: SozSichAbkAUT1995G
 layout: default
+origslug: sozsichabkaut1995g
 slug: sozsichabkaut1995g
 
 ---

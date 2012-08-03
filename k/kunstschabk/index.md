@@ -1,7 +1,9 @@
 ---
 Title: Internationales Abkommen über den Schutz der ausübenden Künstler, der Hersteller
   von Tonträgern und der Sendeunternehmen
+jurabk: KunstSchAbk
 layout: default
+origslug: kunstschabk
 slug: kunstschabk
 
 ---

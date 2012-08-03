@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden
   Aufenthalten in der Bundesrepublik Deutschland
+jurabk: SkAufG
 layout: default
+origslug: skaufg
 slug: skaufg
 
 ---

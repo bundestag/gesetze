@@ -1,7 +1,9 @@
 ---
 Title: Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des
   Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)
+jurabk: SGB 1
 layout: default
+origslug: sgb_1
 slug: sgb_1
 
 ---

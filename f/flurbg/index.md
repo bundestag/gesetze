@@ -1,6 +1,8 @@
 ---
 Title: Flurbereinigungsgesetz
+jurabk: FlurbG
 layout: default
+origslug: flurbg
 slug: flurbg
 
 ---

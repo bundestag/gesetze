@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur beschleunigten Abwicklung einiger Altforderungen
+jurabk: AltfAbwG
 layout: default
+origslug: altfabwg
 slug: altfabwg
 
 ---

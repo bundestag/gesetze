@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
+jurabk: BauStiftG
 layout: default
+origslug: baustiftg
 slug: baustiftg
 
 ---

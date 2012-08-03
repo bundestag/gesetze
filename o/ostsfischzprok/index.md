@@ -1,7 +1,9 @@
 ---
 Title: Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone
   der Bundesrepublik Deutschland in der Ostsee
+jurabk: OstSFischZProk
 layout: default
+origslug: ostsfischzprok
 slug: ostsfischzprok
 
 ---

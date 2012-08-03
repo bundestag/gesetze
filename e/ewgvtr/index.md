@@ -1,6 +1,8 @@
 ---
 Title: Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft
+jurabk: EWGVtr
 layout: default
+origslug: ewgvtr
 slug: ewgvtr
 
 ---

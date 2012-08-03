@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Auflösung der Urkundenstellen in den Ländern Brandenburg, Mecklenburg-Vorpommern,
   Sachsen, Sachsen-Anhalt und Thüringen
+jurabk: UrkStAuflG
 layout: default
+origslug: urkstauflg
 slug: urkstauflg
 
 ---

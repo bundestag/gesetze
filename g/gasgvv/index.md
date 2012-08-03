@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden
   und die Ersatzversorgung mit Gas aus dem Niederdrucknetz
+jurabk: GasGVV
 layout: default
+origslug: gasgvv
 slug: gasgvv
 
 ---

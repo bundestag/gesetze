@@ -2,7 +2,9 @@
 Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
   und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich
   des Bundesministeriums für Wirtschaft und Technologie
+jurabk: BMWiTWidAnO 1999
 layout: default
+origslug: bmwitwidano_1999
 slug: bmwitwidano_1999
 
 ---

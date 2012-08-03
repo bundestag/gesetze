@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu dem Abkommen vom 26. Januar 1960 über die Internationale Entwicklungsorganisation
+jurabk: IEntwOrgAbkG
 layout: default
+origslug: ientworgabkg
 slug: ientworgabkg
 
 ---

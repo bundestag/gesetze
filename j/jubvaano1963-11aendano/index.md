@@ -1,8 +1,10 @@
 ---
 Title: Anordnung zur Änderung der Ausführungsordnung zur Verordnung über die Gewährung
   von Jubiläumszuwendungen an Beamte und Richter des Bundes
+jurabk: JubVAAnO1963-11ÄndAnO
 layout: default
-slug: jubvaano1963-11_ndano
+origslug: jubvaano1963-11_ndano
+slug: jubvaano1963-11aendano
 
 ---
 

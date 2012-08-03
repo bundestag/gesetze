@@ -1,6 +1,8 @@
 ---
 Title: Luftsicherheitsgesetz
+jurabk: LuftSiG
 layout: default
+origslug: luftsig
 slug: luftsig
 
 ---

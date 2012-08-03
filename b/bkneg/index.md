@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung der Bundesknappschaft
+jurabk: BKnEG
 layout: default
+origslug: bkneg
 slug: bkneg
 
 ---

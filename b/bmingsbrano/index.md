@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung beamtenrechtlicher Befugnisse auf die Einrichtungen
   im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
+jurabk: BMinGSBRAnO
 layout: default
+origslug: bmingsbrano
 slug: bmingsbrano
 
 ---

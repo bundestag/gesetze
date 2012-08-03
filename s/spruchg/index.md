@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das gesellschaftsrechtliche Spruchverfahren
+jurabk: SpruchG
 layout: default
+origslug: spruchg
 slug: spruchg
 
 ---

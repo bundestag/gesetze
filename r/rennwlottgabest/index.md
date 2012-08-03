@@ -1,6 +1,8 @@
 ---
 Title: Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz
+jurabk: RennwLottGABest
 layout: default
+origslug: rennwlottgabest
 slug: rennwlottgabest
 
 ---

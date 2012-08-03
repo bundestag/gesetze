@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zum Beitritt der Bundesrepublik Deutschland zur Charta der Vereinten
   Nationen
+jurabk: UNChG
 layout: default
+origslug: unchg
 slug: unchg
 
 ---

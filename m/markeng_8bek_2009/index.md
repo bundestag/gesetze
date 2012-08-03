@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 8 des Markengesetzes
+jurabk: MarkenG§8Bek 2009
 layout: default
+origslug: markeng_8bek_2009
 slug: markeng_8bek_2009
 
 ---

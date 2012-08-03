@@ -1,6 +1,8 @@
 ---
 Title: Postzeitungsabkommen
+jurabk: PostZtgAbk 1984
 layout: default
+origslug: postztgabk_1984
 slug: postztgabk_1984
 
 ---

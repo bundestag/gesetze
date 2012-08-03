@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle,
   den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte
+jurabk: WahrnV 1994
 layout: default
+origslug: wahrnv_1994
 slug: wahrnv_1994
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Kaffee, Kaffee- und Zichorien-Extrakte
+jurabk: KaffeeV 2001
 layout: default
+origslug: kaffeev_2001
 slug: kaffeev_2001
 
 ---

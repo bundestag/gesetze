@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über personelle Anforderungen für Heime
+jurabk: HeimPersV
 layout: default
+origslug: heimpersv
 slug: heimpersv
 
 ---

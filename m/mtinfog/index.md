@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über ein Informationssystem zur Bewertung medizinischer Technologien
+jurabk: MTInfoG
 layout: default
+origslug: mtinfog
 slug: mtinfog
 
 ---

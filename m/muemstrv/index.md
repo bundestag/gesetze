@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Müller-Handwerk
+jurabk: MüMstrV
 layout: default
-slug: m_mstrv
+origslug: m_mstrv
+slug: muemstrv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiete des
   Wohnungswesens und des Städtebaus
+jurabk: WoStichPrG 1972
 layout: default
+origslug: wostichprg_1972
 slug: wostichprg_1972
 
 ---

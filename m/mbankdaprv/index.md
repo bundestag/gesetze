@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung für den mittleren Bankdienst der
   Deutschen Bundesbank
+jurabk: MBankDAPrV
 layout: default
+origslug: mbankdaprv
 slug: mbankdaprv
 
 ---

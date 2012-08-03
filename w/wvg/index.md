@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Wasser- und Bodenverbände
+jurabk: WVG
 layout: default
+origslug: wvg
 slug: wvg
 
 ---

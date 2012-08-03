@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von
   Bundesautobahnen und Bundesstraßen
+jurabk: BFStrMG
 layout: default
+origslug: bfstrmg
 slug: bfstrmg
 
 ---

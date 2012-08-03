@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Statistik der Überschuldung privater Personen
+jurabk: ÜSchuldStatG
 layout: default
-slug: _schuldstatg
+origslug: _schuldstatg
+slug: ueschuldstatg
 
 ---
 

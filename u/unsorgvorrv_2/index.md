@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die
   Sonderorganisationen der Vereinten Nationen
+jurabk: UNSOrgVorRV 2
 layout: default
+origslug: unsorgvorrv_2
 slug: unsorgvorrv_2
 
 ---

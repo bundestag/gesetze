@@ -2,8 +2,10 @@
 Title: Regelung Nr. 40 - Einheitliche Vorschriften für die Genehmigung der Krafträder
   (Motorräder) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit
   Fremdzündung
+jurabk: FzgTeilÜbkRgl 40
 layout: default
-slug: fzgteil_bkrgl_40
+origslug: fzgteil_bkrgl_40
+slug: fzgteiluebkrgl_40
 
 ---
 

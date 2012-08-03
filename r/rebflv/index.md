@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen
   in den Weinwirtschaftsjahren 1997/98 bis 1999/2000
+jurabk: RebflV
 layout: default
+origslug: rebflv
 slug: rebflv
 
 ---

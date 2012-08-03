@@ -1,7 +1,9 @@
 ---
 Title: Dritte Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät
   (Anerkennung von Prüfstellen zur Musterprüfung von Luftsportgerät)
+jurabk: LuftGerPV1998DV 3
 layout: default
+origslug: luftgerpv1998dv_3
 slug: luftgerpv1998dv_3
 
 ---

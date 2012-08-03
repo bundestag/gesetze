@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Sachkunde zum Betrieb eines Unternehmens der Be- oder Verarbeitung
   von Milch und eines Milchhandelsunternehmens
+jurabk: MilchSachkV
 layout: default
+origslug: milchsachkv
 slug: milchsachkv
 
 ---

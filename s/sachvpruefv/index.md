@@ -2,8 +2,10 @@
 Title: Verordnung über die Prüfung des Jahresabschlusses und des Lageberichts von
   Versicherungsunternehmen, auf die § 341k des Handelsgesetzbuches nicht anzuwenden
   ist, durch einen unabhängigen Sachverständigen
+jurabk: SachvPrüfV
 layout: default
-slug: sachvpr_fv
+origslug: sachvpr_fv
+slug: sachvpruefv
 
 ---
 

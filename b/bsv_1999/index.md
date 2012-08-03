@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
   für 1999 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1999
+jurabk: BSV 1999
 layout: default
+origslug: bsv_1999
 slug: bsv_1999
 
 ---

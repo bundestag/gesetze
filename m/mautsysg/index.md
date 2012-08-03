@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Betrieb elektronischer Mautsysteme
+jurabk: MautSysG
 layout: default
+origslug: mautsysg
 slug: mautsysg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Kosten im Bereich der Justizverwaltung
+jurabk: JVKostO
 layout: default
+origslug: jvkosto
 slug: jvkosto
 
 ---

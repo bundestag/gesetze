@@ -1,7 +1,9 @@
 ---
 Title: Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige
   Finanzplanung
+jurabk: FinPlG
 layout: default
+origslug: finplg
 slug: finplg
 
 ---

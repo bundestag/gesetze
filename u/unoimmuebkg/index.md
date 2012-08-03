@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten
   der Vereinten Nationen
+jurabk: UNOImmÜbkG
 layout: default
-slug: unoimm_bkg
+origslug: unoimm_bkg
+slug: unoimmuebkg
 
 ---
 

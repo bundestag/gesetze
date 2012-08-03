@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 21. Februar 1997 zwischen der Bundesrepublik Deutschland
   und der Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
   Steuern vom Einkommen und vom Vermögen
+jurabk: DBALETG
 layout: default
+origslug: dbaletg
 slug: dbaletg
 
 ---

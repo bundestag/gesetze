@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze „600 Jahre Universität Leipzig“)
+jurabk: Münz10EuroBek 2009-05-29
 layout: default
-slug: m_nz10eurobek_2009-05-29
+origslug: m_nz10eurobek_2009-05-29
+slug: muenz10eurobek_2009-05-29
 
 ---
 

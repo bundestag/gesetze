@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen Nr. 99 (der Internationalen Arbeitsorganisation) über die Verfahren
   zur Festsetzung von Mindestlöhnen in der Landwirtschaft
+jurabk: JAOÜbk 99
 layout: default
-slug: jao_bk_99
+origslug: jao_bk_99
+slug: jaouebk_99
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen Wirtschaftsstruktur"
+jurabk: WiStruktG
 layout: default
+origslug: wistruktg
 slug: wistruktg
 
 ---

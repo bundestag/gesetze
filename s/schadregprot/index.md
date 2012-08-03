@@ -1,6 +1,8 @@
 ---
 Title: Protokoll über Schadstofffreisetzungs- und -verbringungsregister
+jurabk: SchadRegProt
 layout: default
+origslug: schadregprot
 slug: schadregprot
 
 ---

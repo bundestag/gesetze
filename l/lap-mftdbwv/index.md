@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren feuerwehrtechnischen
   Dienst in der Bundeswehr
+jurabk: LAP-mftDBwV
 layout: default
+origslug: lap-mftdbwv
 slug: lap-mftdbwv
 
 ---

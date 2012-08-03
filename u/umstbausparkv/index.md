@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Umstellungsrechnung der Bausparkassen aus Anlaß der Neuordnung
   des Geldwesens
+jurabk: UmstBauSparkV
 layout: default
+origslug: umstbausparkv
 slug: umstbausparkv
 
 ---

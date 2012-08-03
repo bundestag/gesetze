@@ -1,7 +1,9 @@
 ---
 Title: Satzung der Deutsche Postbank AG (Anhang des Gesetzes zur Umwandlung der Unternehmen
   der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
+jurabk: PostbAGSa
 layout: default
+origslug: postbagsa
 slug: postbagsa
 
 ---

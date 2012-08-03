@@ -2,7 +2,9 @@
 Ortsbewegliche-Druckgeräte-Verordnung
 ---
 Title: ''
+jurabk: ODV
 layout: default
+origslug: odv
 slug: odv
 
 ---

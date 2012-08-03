@@ -1,7 +1,9 @@
 ---
 Title: Zulassungsverordnung für Vertragsärzte
+jurabk: ZO-Ärzte
 layout: default
-slug: zo-_rzte
+origslug: zo-_rzte
+slug: zo-aerzte
 
 ---
 

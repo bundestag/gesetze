@@ -1,7 +1,9 @@
 ---
 Title: Dritte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung
+jurabk: GebäudeArbbV 3
 layout: default
-slug: geb_udearbbv_3
+origslug: geb_udearbbv_3
+slug: gebaeudearbbv_3
 
 ---
 

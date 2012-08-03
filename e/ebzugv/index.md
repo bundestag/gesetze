@@ -1,6 +1,8 @@
 ---
 Title: Eisenbahnunternehmer-Berufszugangsverordnung
+jurabk: EBZugV
 layout: default
+origslug: ebzugv
 slug: ebzugv
 
 ---

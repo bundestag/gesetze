@@ -1,6 +1,8 @@
 ---
 Title: Patentanwaltsordnung
+jurabk: PatAnwO
 layout: default
+origslug: patanwo
 slug: patanwo
 
 ---

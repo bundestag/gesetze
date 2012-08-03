@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen
+jurabk: VZOG
 layout: default
+origslug: vzog
 slug: vzog
 
 ---

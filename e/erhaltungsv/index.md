@@ -3,7 +3,9 @@ Verordnung über die Zulassung von Erhaltungssorten und das
 Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten
 ---
 Title: ''
+jurabk: ErhaltungsV
 layout: default
+origslug: erhaltungsv
 slug: erhaltungsv
 
 ---

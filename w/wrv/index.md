@@ -1,6 +1,8 @@
 ---
 Title: Die Verfassung des Deutschen Reichs
+jurabk: WRV
 layout: default
+origslug: wrv
 slug: wrv
 
 ---

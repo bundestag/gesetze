@@ -1,7 +1,9 @@
 ---
 Title: Beschluß des Plenums des Bundesverfassungsgerichts vom 6. Dezember 1978 gemäß
   § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht
+jurabk: BVerfGBes 1978-12-06
 layout: default
+origslug: bverfgbes_1978-12-06
 slug: bverfgbes_1978-12-06
 
 ---

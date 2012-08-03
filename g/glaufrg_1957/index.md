@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Aufruf der Gläubiger der I. G. Farbenindustrie Aktiengesellschaft
   in Abwicklung
+jurabk: GlAufrG 1957
 layout: default
+origslug: glaufrg_1957
 slug: glaufrg_1957
 
 ---

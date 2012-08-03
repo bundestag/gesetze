@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen
+jurabk: StromNZV
 layout: default
+origslug: stromnzv
 slug: stromnzv
 
 ---

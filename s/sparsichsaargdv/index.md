@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des Gesetzes zur Sicherung von Ersparnissen im
   Saarland
+jurabk: SparSichSaarGDV
 layout: default
+origslug: sparsichsaargdv
 slug: sparsichsaargdv
 
 ---

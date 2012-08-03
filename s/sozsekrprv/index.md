@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Sozialsekretär/Geprüfte
   Sozialsekretärin
+jurabk: SozSekrPrV
 layout: default
+origslug: sozsekrprv
 slug: sozsekrprv
 
 ---

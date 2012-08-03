@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung Umwelt"
+jurabk: DBUStiftG
 layout: default
+origslug: dbustiftg
 slug: dbustiftg
 
 ---

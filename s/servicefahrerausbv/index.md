@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin
+jurabk: ServicefahrerAusbV
 layout: default
+origslug: servicefahrerausbv
 slug: servicefahrerausbv
 
 ---

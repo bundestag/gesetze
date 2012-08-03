@@ -2,7 +2,9 @@
 Title: Hundertdreiundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen
   Paderborn-Lippstadt)
+jurabk: LuftVODV 173
 layout: default
+origslug: luftvodv_173
 slug: luftvodv_173
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Reform des öffentlichen Dienstrechts
+jurabk: ReföDG
 layout: default
-slug: ref_dg
+origslug: ref_dg
+slug: refoedg
 
 ---
 

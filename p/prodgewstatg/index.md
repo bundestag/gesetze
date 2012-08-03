@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik im Produzierenden Gewerbe
+jurabk: ProdGewStatG
 layout: default
+origslug: prodgewstatg
 slug: prodgewstatg
 
 ---

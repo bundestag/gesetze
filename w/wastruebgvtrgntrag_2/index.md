@@ -2,8 +2,10 @@
 Title: Zweiter Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang
   der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen
   Verhältnisse der Bundeswasserstraßen)
+jurabk: WaStrÜbgVtrGNtrag 2
 layout: default
-slug: wastr_bgvtrgntrag_2
+origslug: wastr_bgvtrgntrag_2
+slug: wastruebgvtrgntrag_2
 
 ---
 

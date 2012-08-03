@@ -2,7 +2,9 @@
 Title: Verordnung zur Gleichstellung von Prüfungszeugnissen des Staatlichen  Berufskollegs
   Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in  Rheinbach mit den Zeugnissen
   über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
+jurabk: GlPrZRheinbachV
 layout: default
+origslug: glprzrheinbachv
 slug: glprzrheinbachv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Vollzugsordnung zum Weltpostvertrag
+jurabk: WPostVtr1994VollzO
 layout: default
+origslug: wpostvtr1994vollzo
 slug: wpostvtr1994vollzo
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Schaffung eines nationalen Stipendienprogramms
+jurabk: StipG
 layout: default
+origslug: stipg
 slug: stipg
 
 ---

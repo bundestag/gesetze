@@ -1,6 +1,8 @@
 ---
 Title: Bundesbahngesetz
+jurabk: BBahnG
 layout: default
+origslug: bbahng
 slug: bbahng
 
 ---

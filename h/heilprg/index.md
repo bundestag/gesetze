@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung
+jurabk: HeilprG
 layout: default
+origslug: heilprg
 slug: heilprg
 
 ---

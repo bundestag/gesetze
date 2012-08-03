@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Seelotswesen
+jurabk: SeelotG
 layout: default
+origslug: seelotg
 slug: seelotg
 
 ---

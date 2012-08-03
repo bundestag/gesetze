@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1995-05
 layout: default
+origslug: bkorgerl_1995-05
 slug: bkorgerl_1995-05
 
 ---

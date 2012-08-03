@@ -1,6 +1,8 @@
 ---
 Title: Versehrtenleibesübungen-Verordnung
+jurabk: BVG§11aDV
 layout: default
+origslug: bvg_11adv
 slug: bvg_11adv
 
 ---

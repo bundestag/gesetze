@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Höhe der Maut für die Benutzung des Herrentunnels
+jurabk: HerrentunnelMautHV
 layout: default
+origslug: herrentunnelmauthv
 slug: herrentunnelmauthv
 
 ---

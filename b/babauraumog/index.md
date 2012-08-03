@@ -2,7 +2,9 @@
 Title: Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung (Artikel
   1 des Gesetzes über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung
   sowie zur Änderung besoldungsrechtlicher Vorschriften)
+jurabk: BABauRaumOG
 layout: default
+origslug: babauraumog
 slug: babauraumog
 
 ---

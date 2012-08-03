@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über die frühzeitige Benachrichtigung bei nuklearen Unfällen
+jurabk: IAEOBenÜbk
 layout: default
-slug: iaeoben_bk
+origslug: iaeoben_bk
+slug: iaeobenuebk
 
 ---
 

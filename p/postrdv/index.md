@@ -2,7 +2,9 @@
 Title: Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversicherung
   und anderer Sozialversicherungsträger durch den Renten Service der Deutschen Post
   AG
+jurabk: PostRDV
 layout: default
+origslug: postrdv
 slug: postrdv
 
 ---

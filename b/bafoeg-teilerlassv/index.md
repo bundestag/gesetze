@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen
+jurabk: BAföG-TeilerlaßV
 layout: default
-slug: baf_g-teilerla_v
+origslug: baf_g-teilerla_v
+slug: bafoeg-teilerlassv
 
 ---
 

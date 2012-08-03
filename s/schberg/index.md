@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Beschränkung von Grundeigentum für die militärische Verteidigung
+jurabk: SchBerG
 layout: default
+origslug: schberg
 slug: schberg
 
 ---

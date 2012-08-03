@@ -1,7 +1,9 @@
 ---
 Title: Verordnung betreffend die Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise
   in der Seeschifffahrt
+jurabk: See-ArbZNV
 layout: default
+origslug: see-arbznv
 slug: see-arbznv
 
 ---

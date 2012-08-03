@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz von Tieren im Zusammenhang mit der Schlachtung oder Tötung
+jurabk: TierSchlV
 layout: default
+origslug: tierschlv
 slug: tierschlv
 
 ---

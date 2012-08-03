@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung nach § 55 Absatz 1a des Energiesteuergesetzes
+jurabk: EnergieStG§55Abs1aBek 2012
 layout: default
+origslug: energiestg_55abs1abek_2012
 slug: energiestg_55abs1abek_2012
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Landesjagdgesetz Nordrhein-Westfalen
+jurabk: JagdG NW
 layout: default
+origslug: jagdg_nw
 slug: jagdg_nw
 
 ---

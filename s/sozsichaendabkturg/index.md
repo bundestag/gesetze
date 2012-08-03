@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Abkommen vom 28. Mai 1969 zwischen der Bundesrepublik Deutschland
   und der Republik Türkei zur Änderung des Abkommens vom 30. April 1964 über Soziale
   Sicherheit
+jurabk: SozSichÄndAbkTURG
 layout: default
-slug: sozsich_ndabkturg
+origslug: sozsich_ndabkturg
+slug: sozsichaendabkturg
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Mehrseitiges Übereinkommen über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
+jurabk: LuftFzgÜbk
 layout: default
-slug: luftfzg_bk
+origslug: luftfzg_bk
+slug: luftfzguebk
 
 ---
 

@@ -2,7 +2,9 @@
 Title: Verordnung über die Bestimmung der zuständigen Stelle für die berufliche Fortbildung
   zum Geprüften Sozialberater/zur Geprüften Sozialberaterin für ausländische Arbeitnehmer
   und ihre Familien
+jurabk: SozBerFortbZustV
 layout: default
+origslug: sozberfortbzustv
 slug: sozberfortbzustv
 
 ---

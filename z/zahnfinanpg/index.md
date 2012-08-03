@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Anpassung der Finanzierung von Zahnersatz
+jurabk: ZahnFinAnpG
 layout: default
+origslug: zahnfinanpg
 slug: zahnfinanpg
 
 ---

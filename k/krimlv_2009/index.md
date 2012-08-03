@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahnen im kriminalpolizeilichen Vollzugsdienst des
   Bundes
+jurabk: KrimLV 2009
 layout: default
+origslug: krimlv_2009
 slug: krimlv_2009
 
 ---

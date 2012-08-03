@@ -3,8 +3,10 @@ Title: Übereinkommen zur Durchführung des Übereinkommens von Schengen vom 14.
   1985 zwischen den Regierungen der Staaten der Benelux-Wirtschaftsunion, der Bundesrepublik
   Deutschland und der Französischen Republik betreffend den schrittweisen Abbau der
   Kontrollen an den gemeinsamen Grenzen
+jurabk: SchÜbkDÜbk
 layout: default
-slug: sch_bkd_bk
+origslug: sch_bkd_bk
+slug: schuebkduebk
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Bürgerliches Gesetzbuch
+jurabk: BGB
 layout: default
+origslug: bgb
 slug: bgb
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Erhebung agrarstatistischer Daten für die Emissionsberichterstattung
+jurabk: AgrStatEBV 2011
 layout: default
+origslug: agrstatebv_2011
 slug: agrstatebv_2011
 
 ---

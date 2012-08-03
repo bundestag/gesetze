@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ergänzung des Reichssiedlungsgesetzes
+jurabk: RSiedlGErgG 1935
 layout: default
+origslug: rsiedlgergg_1935
 slug: rsiedlgergg_1935
 
 ---

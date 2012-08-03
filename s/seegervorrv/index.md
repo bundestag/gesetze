@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Vorrechte und Immunitäten des Internationalen Seegerichtshofs
+jurabk: SeegerVorRV
 layout: default
+origslug: seegervorrv
 slug: seegervorrv
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Gedenkmünze Europäisches Denkmalschutzjahr 1975)
+jurabk: Münz5DMBek 1975-09
 layout: default
-slug: m_nz5dmbek_1975-09
+origslug: m_nz5dmbek_1975-09
+slug: muenz5dmbek_1975-09
 
 ---
 

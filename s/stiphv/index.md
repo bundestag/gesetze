@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Erreichung der Höchstgrenze nach dem Stipendienprogramm-Gesetz
+jurabk: StipHV
 layout: default
+origslug: stiphv
 slug: stiphv
 
 ---

@@ -3,7 +3,9 @@ Title: Gesetz zu dem Vertrag vom 3. April 1989 zwischen der Bundesrepublik Deuts
   und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze in der
   Sektion III des Grenzabschnittes "Scheibelberg-Bodensee" sowie in einem Teil des
   Grenzabschnittes "Dreieckmark-Dandlbachmündung" und des Grenzabschnittes "Saalach-Scheibelberg"
+jurabk: StGrenzVtrAUT1989G
 layout: default
+origslug: stgrenzvtraut1989g
 slug: stgrenzvtraut1989g
 
 ---

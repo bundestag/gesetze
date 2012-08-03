@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchung
   von Seeunfällen und anderen Vorkommnissen
+jurabk: SUG
 layout: default
+origslug: sug
 slug: sug
 
 ---

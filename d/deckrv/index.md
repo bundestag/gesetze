@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen
+jurabk: DeckRV
 layout: default
+origslug: deckrv
 slug: deckrv
 
 ---

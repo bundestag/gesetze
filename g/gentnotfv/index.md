@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erstellung von außerbetrieblichen Notfallplänen und über
   Informations-, Melde- und Unterrichtungspflichten
+jurabk: GenTNotfV
 layout: default
+origslug: gentnotfv
 slug: gentnotfv
 
 ---

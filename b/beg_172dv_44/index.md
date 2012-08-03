@@ -1,6 +1,8 @@
 ---
 Title: Vierundvierzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+jurabk: BEG§172DV 44
 layout: default
+origslug: beg_172dv_44
 slug: beg_172dv_44
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Anforderungen an die Verwertung und Beseitigung von Altholz
+jurabk: AltholzV
 layout: default
+origslug: altholzv
 slug: altholzv
 
 ---

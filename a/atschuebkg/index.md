@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Übereinkommen vom 26. Oktober 1979 über den physischen Schutz
   von Kernmaterial
+jurabk: AtSchÜbkG
 layout: default
-slug: atsch_bkg
+origslug: atsch_bkg
+slug: atschuebkg
 
 ---
 

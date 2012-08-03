@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung des Bundesaufsichtsamtes für Flugsicherung
+jurabk: BAFG
 layout: default
+origslug: bafg
 slug: bafg
 
 ---

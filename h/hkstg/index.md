@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Heimkehrerstiftung
+jurabk: HKStG
 layout: default
+origslug: hkstg
 slug: hkstg
 
 ---

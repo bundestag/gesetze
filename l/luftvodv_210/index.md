@@ -2,7 +2,9 @@
 Title: Zweihundertzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandesplatz
   Cottbus-Drewitz)
+jurabk: LuftVODV 210
 layout: default
+origslug: luftvodv_210
 slug: luftvodv_210
 
 ---

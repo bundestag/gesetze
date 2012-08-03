@@ -1,6 +1,8 @@
 ---
 Title: Völkerstrafgesetzbuch
+jurabk: VStGB
 layout: default
+origslug: vstgb
 slug: vstgb
 
 ---

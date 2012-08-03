@@ -4,7 +4,9 @@ Title: Bekanntmachung über die Voraussetzungen für die Auszahlung der von Isra
   der Bundesrepublik Deutschland oder die Regierung des Australischen Bundes und über
   die Entschädigungsbeträge, die für die einzelnen Gruppen von Vermögensschäden für
   die Verteilung durch die Bundesrepublik Deutschland zur Verfügung stehen
+jurabk: VermRglISRBek
 layout: default
+origslug: vermrglisrbek
 slug: vermrglisrbek
 
 ---

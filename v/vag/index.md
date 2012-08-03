@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Beaufsichtigung der Versicherungsunternehmen
+jurabk: VAG
 layout: default
+origslug: vag
 slug: vag
 
 ---

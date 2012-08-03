@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung eines Zuschlages für die Berechnung des haftenden
   Eigenkapitals von Kreditinstituten in der Rechtsform der eingetragenen Genossenschaft
+jurabk: ZuschlagV
 layout: default
+origslug: zuschlagv
 slug: zuschlagv
 
 ---

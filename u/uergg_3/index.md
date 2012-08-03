@@ -1,6 +1,8 @@
 ---
 Title: Drittes Umstellungsergänzungsgesetz
+jurabk: UErgG 3
 layout: default
+origslug: uergg_3
 slug: uergg_3
 
 ---

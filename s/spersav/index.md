@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Führung der Personalakten der Soldaten und der ehemaligen
   Soldaten
+jurabk: SPersAV
 layout: default
+origslug: spersav
 slug: spersav
 
 ---

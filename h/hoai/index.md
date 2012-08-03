@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Honorare für Architekten- und Ingenieurleistungen
+jurabk: HOAI
 layout: default
+origslug: hoai
 slug: hoai
 
 ---

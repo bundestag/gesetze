@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Vertrag vom 17. Oktober 2003 zwischen der Bundesrepublik Deutschland
   und der Republik Guatemala über die Förderung und den gegenseitigen Schutz von Kapitalanlagen
+jurabk: GII050725
 layout: default
+origslug: gii050725
 slug: gii050725
 
 ---

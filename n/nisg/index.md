@@ -3,7 +3,9 @@ Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung
 am Menschen
 ---
 Title: ''
+jurabk: NiSG
 layout: default
+origslug: nisg
 slug: nisg
 
 ---

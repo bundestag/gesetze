@@ -1,8 +1,10 @@
 ---
 Title: Erlaß über die Genehmigung einer Änderung der Stiftungsbestimmungen und der
   Verleihungsbedingungen für das Ehrenzeichen des Technischen Hilfswerks
+jurabk: THWEhrZÄndErl
 layout: default
-slug: thwehrz_nderl
+origslug: thwehrz_nderl
+slug: thwehrzaenderl
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Zahlung von Beiträgen zur gesetzlichen Rentenversicherung
+jurabk: RV-BZV
 layout: default
+origslug: rv-bzv
 slug: rv-bzv
 
 ---

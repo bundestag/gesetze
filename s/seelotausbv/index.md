@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Ausbildung und Prüfung der Seelotsen sowie über die Lotsenausweise
+jurabk: SeelotAusbV
 layout: default
+origslug: seelotausbv
 slug: seelotausbv
 
 ---

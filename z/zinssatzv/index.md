@@ -1,6 +1,8 @@
 ---
 Title: Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes
+jurabk: ZinsSatzV
 layout: default
+origslug: zinssatzv
 slug: zinssatzv
 
 ---

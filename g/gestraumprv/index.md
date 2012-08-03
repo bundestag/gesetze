@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Gestaltungsberater
   im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
+jurabk: GestRaumPrV
 layout: default
+origslug: gestraumprv
 slug: gestraumprv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes
   an das Saarland
+jurabk: GGArt104aAbs4SLG
 layout: default
+origslug: ggart104aabs4slg
 slug: ggart104aabs4slg
 
 ---

@@ -2,8 +2,10 @@
 Title: Rechtsnormen des Tarifvertrages zur Regelung der Mindestlöhne für gewerbliche
   Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV
   Mindestlohn)
+jurabk: TVMindestlohnGebäude 2012
 layout: default
-slug: tvmindestlohngeb_ude_2012
+origslug: tvmindestlohngeb_ude_2012
+slug: tvmindestlohngebaeude_2012
 
 ---
 

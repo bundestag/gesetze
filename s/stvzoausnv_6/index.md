@@ -1,6 +1,8 @@
 ---
 Title: Sechste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 6
 layout: default
+origslug: stvzoausnv_6
 slug: stvzoausnv_6
 
 ---

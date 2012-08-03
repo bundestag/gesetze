@@ -1,7 +1,9 @@
 ---
 Title: Kostenverordnung für Amtshandlungen der Bundesanstalt für den Digitalfunk der
   Behörden und Organisationen mit Sicherheitsaufgaben
+jurabk: BDBOS-KostV
 layout: default
+origslug: bdbos-kostv
 slug: bdbos-kostv
 
 ---

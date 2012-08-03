@@ -1,6 +1,8 @@
 ---
 Title: Arbeitsgerichtsgesetz
+jurabk: ArbGG
 layout: default
+origslug: arbgg
 slug: arbgg
 
 ---

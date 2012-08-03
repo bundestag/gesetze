@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuständigkeit der Hauptzollämter zur Verfolgung und Ahndung
   bestimmter Ordnungswidrigkeiten nach dem Waffengesetz und dem Sprengstoffgesetz
+jurabk: WaffGHZAOWiV
 layout: default
+origslug: waffghzaowiv
 slug: waffghzaowiv
 
 ---

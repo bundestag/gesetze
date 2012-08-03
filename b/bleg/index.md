@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung
+jurabk: BLEG
 layout: default
+origslug: bleg
 slug: bleg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Aufhebung der Zucker-Mindestlagerabgaben-Verordnung
+jurabk: ZuckMindLgAbgVAufhV
 layout: default
+origslug: zuckmindlgabgvaufhv
 slug: zuckmindlgabgvaufhv
 
 ---

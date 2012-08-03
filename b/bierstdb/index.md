@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Vorläufigen Biergesetzes
+jurabk: BierStDB
 layout: default
+origslug: bierstdb
 slug: bierstdb
 
 ---

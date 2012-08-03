@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherung der Energieversorgung
+jurabk: EnSiG 1975
 layout: default
+origslug: ensig_1975
 slug: ensig_1975
 
 ---

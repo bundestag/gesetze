@@ -2,7 +2,9 @@
 Title: Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen
   und über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher
   oder besatzungshoheitlicher Grundlage
+jurabk: EALG
 layout: default
+origslug: ealg
 slug: ealg
 
 ---

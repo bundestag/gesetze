@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung
+jurabk: BinSchStrEV 2012
 layout: default
+origslug: binschstrev_2012
 slug: binschstrev_2012
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Unterbringung der Besatzungsmitglieder an Bord von Kauffahrteischiffen
+jurabk: LogisV
 layout: default
+origslug: logisv
 slug: logisv
 
 ---

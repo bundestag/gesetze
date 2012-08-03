@@ -1,6 +1,8 @@
 ---
 Title: Achtundvierzigste Verordnung zur Durchführung des § 172 des  Bundesentschädigungsgesetzes
+jurabk: BEG§172DV 48
 layout: default
+origslug: beg_172dv_48
 slug: beg_172dv_48
 
 ---

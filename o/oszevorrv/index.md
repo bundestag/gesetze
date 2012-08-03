@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Vorrechte und Immunitäten der Organisation für Sicherheit und
   Zusammenarbeit in Europa (OSZE)
+jurabk: OSZEVorRV
 layout: default
+origslug: oszevorrv
 slug: oszevorrv
 
 ---

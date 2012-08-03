@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Absatz von Rindfleisch aus staatlicher Lagerhaltung zu
   pauschal im voraus festgesetzten Preisen zum Zweck der Ausfuhr nach dritten Ländern
+jurabk: RindFlAusfAbsV
 layout: default
+origslug: rindflausfabsv
 slug: rindflausfabsv
 
 ---

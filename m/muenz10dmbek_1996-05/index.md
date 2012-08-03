@@ -2,8 +2,10 @@
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze zum 150. Jahrestag der Gründung des ersten katholischen Gesellenvereins
   in Elberfeld/das Lebenswerk von Adolph Kolping)
+jurabk: Münz10DMBek 1996-05
 layout: default
-slug: m_nz10dmbek_1996-05
+origslug: m_nz10dmbek_1996-05
+slug: muenz10dmbek_1996-05
 
 ---
 

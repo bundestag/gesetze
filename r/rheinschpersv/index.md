@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Schiffspersonal auf dem Rhein
+jurabk: RheinSchPersV
 layout: default
+origslug: rheinschpersv
 slug: rheinschpersv
 
 ---

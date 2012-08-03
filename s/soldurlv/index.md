@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Urlaub der Soldatinnen und Soldaten
+jurabk: SoldUrlV
 layout: default
+origslug: soldurlv
 slug: soldurlv
 
 ---

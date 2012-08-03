@@ -1,6 +1,8 @@
 ---
 Title: Ausbildungs- und Prüfungsverordnung für Rettungsassistentinnen und Rettungsassistenten
+jurabk: RettAssAPrV
 layout: default
+origslug: rettassaprv
 slug: rettassaprv
 
 ---

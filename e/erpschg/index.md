@@ -3,7 +3,9 @@ Title: Gesetz zur Mitübernahme der Schulden und Rechte des ERP-Sondervermögens
   die Bundesschuld und in das Bundesvermögen, über die Zuführung von Mitteln  aus
   dem ERP-Sondervermögen an den Bundeshaushalt sowie über die Einbringung  von ERP-Vermögen
   in die Kreditanstalt für Wiederaufbau
+jurabk: ERPSchG
 layout: default
+origslug: erpschg
 slug: erpschg
 
 ---

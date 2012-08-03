@@ -2,8 +2,10 @@
 Title: Übereinkommen über die Zuständigkeit, das anzuwendende Recht, die Anerkennung,
   Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und
   der Maßnahmen zum Schutz von Kindern
+jurabk: KiSchMaßnÜbk Haag
 layout: default
-slug: kischma_n_bk_haag
+origslug: kischma_n_bk_haag
+slug: kischmassnuebk_haag
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Forstvermehrungsgut-Zulassungsverordnung
+jurabk: FoVZV
 layout: default
+origslug: fovzv
 slug: fovzv
 
 ---

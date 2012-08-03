@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Verhütung der Meeresverschmutzung durch das Einbringen durch
   Schiffe und Luftfahrzeuge
+jurabk: MeerEinbrSchAbk
 layout: default
+origslug: meereinbrschabk
 slug: meereinbrschabk
 
 ---

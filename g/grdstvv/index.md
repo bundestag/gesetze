@@ -1,6 +1,8 @@
 ---
 Title: Grundstücksverkehrsordnung
+jurabk: GrdstVV
 layout: default
+origslug: grdstvv
 slug: grdstvv
 
 ---

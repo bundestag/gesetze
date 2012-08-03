@@ -1,6 +1,8 @@
 ---
 Title: Anlage A zur Donauschiffahrtspolizeiverordnung
+jurabk: DonauSchPVAnl 1993
 layout: default
+origslug: donauschpvanl_1993
 slug: donauschpvanl_1993
 
 ---

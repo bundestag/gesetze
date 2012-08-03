@@ -2,8 +2,10 @@
 Title: Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische
   Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit
   der ehemaligen Deutschen Demokratischen Republik
+jurabk: MfSÜPrRLBek
 layout: default
-slug: mfs_prrlbek
+origslug: mfs_prrlbek
+slug: mfsueprrlbek
 
 ---
 

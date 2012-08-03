@@ -1,6 +1,8 @@
 ---
 Title: Betriebsverordnung für Arzneimittelgroßhandelsbetriebe
+jurabk: AMGrHdlBetrV
 layout: default
+origslug: amgrhdlbetrv
 slug: amgrhdlbetrv
 
 ---

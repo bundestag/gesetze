@@ -1,6 +1,8 @@
 ---
 Title: Deutsches Richtergesetz
+jurabk: DRiG
 layout: default
+origslug: drig
 slug: drig
 
 ---

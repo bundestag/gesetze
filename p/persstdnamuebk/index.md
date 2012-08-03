@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die Erteilung gewisser für das Ausland bestimmter Auszüge
   aus Personenstandsbüchern
+jurabk: PersStdNamÜbk
 layout: default
-slug: persstdnam_bk
+origslug: persstdnam_bk
+slug: persstdnamuebk
 
 ---
 

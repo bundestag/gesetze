@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen
   Sach- und Haftpflichtversicherungen der Bürger
+jurabk: SHVAufhAnO
 layout: default
+origslug: shvaufhano
 slug: shvaufhano
 
 ---

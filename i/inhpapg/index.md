@@ -1,6 +1,8 @@
 ---
 Title: Gesetz betreffend die Inhaberpapiere mit Prämien
+jurabk: InhPapG
 layout: default
+origslug: inhpapg
 slug: inhpapg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Verzeichnis der Zuwiderhandlungen, die in das Aktennachweissystem
   für Zollzwecke aufgenommen werden sollen
+jurabk: FIDEVerzV
 layout: default
+origslug: fideverzv
 slug: fideverzv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Grenzen des Freihafens Hamburg
+jurabk: FrHfHbgGrV 1997
 layout: default
+origslug: frhfhbggrv_1997
 slug: frhfhbggrv_1997
 
 ---

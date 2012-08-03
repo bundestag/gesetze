@@ -2,7 +2,9 @@
 Title: Verordnung über die pauschale Berechnung und die Zahlung der Beiträge zur gesetzlichen
   Rentenversicherung für die Dauer eines auf Grund gesetzlicher Pflicht zu leistenden
   Wehr- und Zivildienstes
+jurabk: RVWZPauschBeitrV
 layout: default
+origslug: rvwzpauschbeitrv
 slug: rvwzpauschbeitrv
 
 ---

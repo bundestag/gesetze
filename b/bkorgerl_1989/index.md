@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1989
 layout: default
+origslug: bkorgerl_1989
 slug: bkorgerl_1989
 
 ---

@@ -2,8 +2,10 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik
   über den Bau einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der Europastraße
   E 49
+jurabk: GrBrückAbk CES
 layout: default
-slug: grbr_ckabk_ces
+origslug: grbr_ckabk_ces
+slug: grbrueckabk_ces
 
 ---
 

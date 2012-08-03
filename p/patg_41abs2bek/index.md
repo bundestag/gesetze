@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 41 Abs. 2 des Patentgesetzes
+jurabk: PatG§41Abs2Bek
 layout: default
+origslug: patg_41abs2bek
 slug: patg_41abs2bek
 
 ---

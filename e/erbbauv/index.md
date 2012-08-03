@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Erbbaurecht
+jurabk: ErbbauV
 layout: default
+origslug: erbbauv
 slug: erbbauv
 
 ---

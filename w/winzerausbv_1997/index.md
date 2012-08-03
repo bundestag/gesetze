@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Winzer/zur Winzerin
+jurabk: WinzerAusbV 1997
 layout: default
+origslug: winzerausbv_1997
 slug: winzerausbv_1997
 
 ---

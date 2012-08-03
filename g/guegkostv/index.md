@@ -1,7 +1,9 @@
 ---
 Title: Grundstoff-Kostenverordnung
+jurabk: GÜGKostV
 layout: default
-slug: g_gkostv
+origslug: g_gkostv
+slug: guegkostv
 
 ---
 

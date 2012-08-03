@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Auswärtigen Dienst
+jurabk: GAD
 layout: default
+origslug: gad
 slug: gad
 
 ---

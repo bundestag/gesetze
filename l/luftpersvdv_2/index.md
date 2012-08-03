@@ -2,7 +2,9 @@
 Title: Zweite Durchführungsverordnung zur Verordnung über Luftfahrtpersonal (Anwendungsbestimmungen
   für die Ausbildung und Prüfung für den Erwerb von  Lizenzen und Berechtigungen für
   Luftfahrer gemäß der Verordnung über  Luftfahrtpersonal)
+jurabk: LuftPersVDV 2
 layout: default
+origslug: luftpersvdv_2
 slug: luftpersvdv_2
 
 ---

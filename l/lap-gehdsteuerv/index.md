@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Steuerdienst
   des Bundes
+jurabk: LAP-gehDSteuerV
 layout: default
+origslug: lap-gehdsteuerv
 slug: lap-gehdsteuerv
 
 ---

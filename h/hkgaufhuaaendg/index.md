@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Aufhebung des Heimkehrergesetzes und zur Änderung anderer Vorschriften
+jurabk: HkGAufhuaÄndG
 layout: default
-slug: hkgaufhua_ndg
+origslug: hkgaufhua_ndg
+slug: hkgaufhuaaendg
 
 ---
 

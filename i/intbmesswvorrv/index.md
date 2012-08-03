@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das internationale
   Büro für das gesetzliche Meßwesen
+jurabk: IntBMeßwVorRV
 layout: default
-slug: intbme_wvorrv
+origslug: intbme_wvorrv
+slug: intbmesswvorrv
 
 ---
 

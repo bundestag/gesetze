@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Niederlassungsbereich von Kreditinstituten
+jurabk: KredInstNdlG
 layout: default
+origslug: kredinstndlg
 slug: kredinstndlg
 
 ---

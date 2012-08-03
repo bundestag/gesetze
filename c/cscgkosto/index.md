@@ -1,7 +1,9 @@
 ---
 Title: Kostenordnung für Maßnahmen nach dem Gesetz zu dem Übereinkommen vom 2. Dezember
   1972 über sichere Container
+jurabk: CSCGKostO
 layout: default
+origslug: cscgkosto
 slug: cscgkosto
 
 ---

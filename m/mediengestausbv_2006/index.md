@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Mediengestalter Bild und  Ton/zur
   Mediengestalterin Bild und Ton
+jurabk: MediengestAusbV 2006
 layout: default
+origslug: mediengestausbv_2006
 slug: mediengestausbv_2006
 
 ---

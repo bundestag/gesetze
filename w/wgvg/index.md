@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung vermögensrechtlicher Angelegenheiten der Wohnungsgenossenschaften
   im Beitrittsgebiet
+jurabk: WGVG
 layout: default
+origslug: wgvg
 slug: wgvg
 
 ---

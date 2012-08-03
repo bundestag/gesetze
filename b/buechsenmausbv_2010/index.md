@@ -3,8 +3,10 @@ Verordnung über die Berufsausbildung zum Büchsenmacher und zur
 Büchsenmacherin
 ---
 Title: ''
+jurabk: BüchsenmAusbV 2010
 layout: default
-slug: b_chsenmausbv_2010
+origslug: b_chsenmausbv_2010
+slug: buechsenmausbv_2010
 
 ---
 

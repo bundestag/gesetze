@@ -1,7 +1,9 @@
 ---
 Title: Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr
   beschäftigten Fahrpersonals
+jurabk: AETR
 layout: default
+origslug: aetr
 slug: aetr
 
 ---

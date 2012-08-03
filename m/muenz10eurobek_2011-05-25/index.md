@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze „150 Jahre Entdeckung des Urvogels Archaeopteryx“)
+jurabk: Münz10EuroBek 2011-05-25
 layout: default
-slug: m_nz10eurobek_2011-05-25
+origslug: m_nz10eurobek_2011-05-25
+slug: muenz10eurobek_2011-05-25
 
 ---
 

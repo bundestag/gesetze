@@ -1,7 +1,9 @@
 ---
 Title: Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für Sicherheitsdienstleistungen
   vom 11. Februar 2011
+jurabk: TVMindestlohn Sicherheit
 layout: default
+origslug: tvmindestlohn_sicherheit
 slug: tvmindestlohn_sicherheit
 
 ---

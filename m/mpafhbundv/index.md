@@ -2,7 +2,9 @@
 Title: Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst
   des Bundes über das Studium „Master of Public Administration“ an der Fachhochschule
   des Bundes für öffentliche Verwaltung
+jurabk: MPAFHBundV
 layout: default
+origslug: mpafhbundv
 slug: mpafhbundv
 
 ---

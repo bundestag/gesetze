@@ -1,6 +1,8 @@
 ---
 Title: Straßenverkehrsgesetz
+jurabk: StVG
 layout: default
+origslug: stvg
 slug: stvg
 
 ---

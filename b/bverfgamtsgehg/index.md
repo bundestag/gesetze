@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Amtsgehalt der Mitglieder des Bundesverfassungsgerichts
+jurabk: BVerfGAmtsGehG
 layout: default
+origslug: bverfgamtsgehg
 slug: bverfgamtsgehg
 
 ---

@@ -3,7 +3,9 @@ Title: Gesetz zu dem Protokoll vom 21. Dezember 1992 zu dem Abkommen vom 11. Aug
   1971 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
   zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und
   vom Vermögen
+jurabk: DBACHE1971Prot1992G
 layout: default
+origslug: dbache1971prot1992g
 slug: dbache1971prot1992g
 
 ---

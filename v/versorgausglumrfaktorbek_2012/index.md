@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der
   Rentenversicherung
+jurabk: VersorgAusglUmrFaktorBek 2012
 layout: default
+origslug: versorgausglumrfaktorbek_2012
 slug: versorgausglumrfaktorbek_2012
 
 ---

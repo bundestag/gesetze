@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Schaumwein- und Zwischenerzeugnissteuergesetzes
+jurabk: SchaumwZwStV 2010
 layout: default
+origslug: schaumwzwstv_2010
 slug: schaumwzwstv_2010
 
 ---

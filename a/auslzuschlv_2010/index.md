@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Gewährung von Auslandszuschlägen
+jurabk: AuslZuschlV 2010
 layout: default
+origslug: auslzuschlv_2010
 slug: auslzuschlv_2010
 
 ---

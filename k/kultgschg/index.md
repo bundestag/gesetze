@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz deutschen Kulturgutes gegen Abwanderung
+jurabk: KultgSchG
 layout: default
+origslug: kultgschg
 slug: kultgschg
 
 ---

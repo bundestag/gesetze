@@ -1,6 +1,8 @@
 ---
 Title: Schlussprotokoll zum Weltpostvertrag
+jurabk: WPostVtr1999SchlProt
 layout: default
+origslug: wpostvtr1999schlprot
 slug: wpostvtr1999schlprot
 
 ---

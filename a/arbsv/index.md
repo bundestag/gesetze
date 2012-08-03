@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Feststellung und Deckung des Arbeitskräftebedarfs nach
   dem Arbeitssicherstellungsgesetz
+jurabk: ArbSV
 layout: default
+origslug: arbsv
 slug: arbsv
 
 ---

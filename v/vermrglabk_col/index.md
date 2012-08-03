@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kolumbien
   über deutsche Vermögenswerte in Kolumbien
+jurabk: VermRglAbk COL
 layout: default
+origslug: vermrglabk_col
 slug: vermrglabk_col
 
 ---

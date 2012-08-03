@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Erhebung von Gebühren durch die Bundesprüfstelle für jugendgefährdende
   Medien
+jurabk: BPjMGebO
 layout: default
+origslug: bpjmgebo
 slug: bpjmgebo
 
 ---

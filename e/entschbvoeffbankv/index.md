@@ -2,8 +2,10 @@
 Title: Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung
   an die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands
   GmbH
+jurabk: EntschBVöffBankV
 layout: default
-slug: entschbv_ffbankv
+origslug: entschbv_ffbankv
+slug: entschbvoeffbankv
 
 ---
 

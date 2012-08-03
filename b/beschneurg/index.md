@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuregelung der geringfügigen Beschäftigungsverhältnisse
+jurabk: BeschNeuRG
 layout: default
+origslug: beschneurg
 slug: beschneurg
 
 ---

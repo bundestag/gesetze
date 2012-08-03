@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Vermögen der Gemeinden, Städte und Landkreise
+jurabk: KVermG
 layout: default
+origslug: kvermg
 slug: kvermg
 
 ---

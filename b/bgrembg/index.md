@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Berufung und Entsendung von Frauen und Männern in Gremien im
   Einflußbereich des Bundes
+jurabk: BGremBG
 layout: default
+origslug: bgrembg
 slug: bgrembg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
+jurabk: FlugMechAusbV
 layout: default
+origslug: flugmechausbv
 slug: flugmechausbv
 
 ---

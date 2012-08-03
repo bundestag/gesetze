@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation
   Deutsche Bundespost
+jurabk: BAPostG
 layout: default
+origslug: bapostg
 slug: bapostg
 
 ---

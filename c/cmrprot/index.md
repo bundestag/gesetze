@@ -1,7 +1,9 @@
 ---
 Title: Protokoll zum Übereinkommen über den Beförderungsvertrag im internationalen
   Straßengüterverkehr
+jurabk: CMRProt
 layout: default
+origslug: cmrprot
 slug: cmrprot
 
 ---

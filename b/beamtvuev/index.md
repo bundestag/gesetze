@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über beamtenversorgungsrechtliche Übergangsregelungen nach Herstellung
   der Einheit Deutschlands
+jurabk: BeamtVÜV
 layout: default
-slug: beamtv_v
+origslug: beamtv_v
+slug: beamtvuev
 
 ---
 

@@ -2,8 +2,10 @@
 Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich
 ---
 Title: ''
+jurabk: EEWärmeG
 layout: default
-slug: eew_rmeg
+origslug: eew_rmeg
+slug: eewaermeg
 
 ---
 

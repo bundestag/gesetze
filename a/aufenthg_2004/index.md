@@ -4,7 +4,9 @@ Gesetz
 und die Integration von Ausländern im Bundesgebiet
 ---
 Title: ''
+jurabk: AufenthG 2004
 layout: default
+origslug: aufenthg_2004
 slug: aufenthg_2004
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz zur Anpassung bestimmter Bedingungen in der Seeschifffahrt an
   den internationalen Standard
+jurabk: SchAnpG 2
 layout: default
+origslug: schanpg_2
 slug: schanpg_2
 
 ---

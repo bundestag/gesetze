@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
+jurabk: SchädlBekAusbV
 layout: default
-slug: sch_dlbekausbv
+origslug: sch_dlbekausbv
+slug: schaedlbekausbv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst
   im Bundesnachrichtendienst
+jurabk: LAP-gDBNDV
 layout: default
+origslug: lap-gdbndv
 slug: lap-gdbndv
 
 ---

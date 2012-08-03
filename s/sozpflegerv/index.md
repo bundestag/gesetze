@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Ausbildungsförderung für soziale Pflegeberufe
+jurabk: SozPflegerV
 layout: default
+origslug: sozpflegerv
 slug: sozpflegerv
 
 ---

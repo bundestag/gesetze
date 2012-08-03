@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des Transfusionswesens
+jurabk: TFG
 layout: default
+origslug: tfg
 slug: tfg
 
 ---

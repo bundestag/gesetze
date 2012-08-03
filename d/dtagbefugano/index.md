@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über dienstrechtliche Befugnisse für den Bereich der Deutschen Telekom
   AG
+jurabk: DTAGBefugAnO
 layout: default
+origslug: dtagbefugano
 slug: dtagbefugano
 
 ---

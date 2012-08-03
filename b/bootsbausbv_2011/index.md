@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Bootsbauer und zur
 Bootsbauerin
 ---
 Title: ''
+jurabk: BootsbAusbV 2011
 layout: default
+origslug: bootsbausbv_2011
 slug: bootsbausbv_2011
 
 ---

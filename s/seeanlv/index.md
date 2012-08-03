@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Anlagen seewärts der Begrenzung des deutschen Küstenmeeres
+jurabk: SeeAnlV
 layout: default
+origslug: seeanlv
 slug: seeanlv
 
 ---

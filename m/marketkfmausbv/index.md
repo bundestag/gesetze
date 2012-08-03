@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Kaufmann für Marketingkommunikation/zur
   Kauffrau für Marketingkommunikation
+jurabk: MarketKfmAusbV
 layout: default
+origslug: marketkfmausbv
 slug: marketkfmausbv
 
 ---

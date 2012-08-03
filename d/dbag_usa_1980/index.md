@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 3. Dezember 1980 zwischen der Bundesrepublik Deutschland
   und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung auf
   dem Gebiet der Nachlaß-, Erbschaft- und Schenkungsteuern
+jurabk: DBAG USA 1980
 layout: default
+origslug: dbag_usa_1980
 slug: dbag_usa_1980
 
 ---

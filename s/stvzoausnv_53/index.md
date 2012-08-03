@@ -1,6 +1,8 @@
 ---
 Title: Dreiundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
+jurabk: StVZOAusnV 53
 layout: default
+origslug: stvzoausnv_53
 slug: stvzoausnv_53
 
 ---

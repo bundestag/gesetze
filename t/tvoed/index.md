@@ -1,7 +1,9 @@
 ---
 Title: Tarifvertrag für den öffentlichen Dienst
+jurabk: TVöD
 layout: default
-slug: tv_d
+origslug: tv_d
+slug: tvoed
 
 ---
 

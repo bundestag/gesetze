@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen Nutzung
   für die Elektrizitätsversorgung in Niederspannung
+jurabk: NAV
 layout: default
+origslug: nav
 slug: nav
 
 ---

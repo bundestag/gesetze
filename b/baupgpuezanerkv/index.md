@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle
   nach dem Bauproduktengesetz
+jurabk: BauPGPÜZAnerkV
 layout: default
-slug: baupgp_zanerkv
+origslug: baupgp_zanerkv
+slug: baupgpuezanerkv
 
 ---
 

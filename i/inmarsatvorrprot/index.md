@@ -1,7 +1,9 @@
 ---
 Title: Protokoll über die Vorrechte und Immunitäten der Internationalen Seefunksatelliten-Organisation
   (INMARSAT)
+jurabk: INMARSATVorRProt
 layout: default
+origslug: inmarsatvorrprot
 slug: inmarsatvorrprot
 
 ---

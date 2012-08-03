@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zur Produktionsfachkraft Chemie
+jurabk: ChemFachAusbV
 layout: default
+origslug: chemfachausbv
 slug: chemfachausbv
 
 ---

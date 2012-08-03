@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen
+jurabk: HIVHG
 layout: default
+origslug: hivhg
 slug: hivhg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation
+jurabk: IntAtomOrgVorRVbg
 layout: default
+origslug: intatomorgvorrvbg
 slug: intatomorgvorrvbg
 
 ---

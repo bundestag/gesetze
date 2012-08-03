@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Personal der Bundeswertpapierverwaltung
+jurabk: BWpVerwPG
 layout: default
+origslug: bwpverwpg
 slug: bwpverwpg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kraftwerker/Geprüfte
   Kraftwerkerin
+jurabk: KraftwPrV
 layout: default
+origslug: kraftwprv
 slug: kraftwprv
 
 ---

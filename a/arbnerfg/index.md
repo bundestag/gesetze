@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Arbeitnehmererfindungen
+jurabk: ArbnErfG
 layout: default
+origslug: arbnerfg
 slug: arbnerfg
 
 ---

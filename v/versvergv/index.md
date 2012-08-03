@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme
   im Versicherungsbereich
+jurabk: VersVergV
 layout: default
+origslug: versvergv
 slug: versvergv
 
 ---

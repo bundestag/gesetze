@@ -1,6 +1,8 @@
 ---
 Title: Erlaß über die Stiftung des "Verdienstordens der Bundesrepublik Deutschland"
+jurabk: VerdOrdenErl
 layout: default
+origslug: verdordenerl
 slug: verdordenerl
 
 ---

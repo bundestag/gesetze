@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren zur Ermittlung des Wertes der von Eigenerzeugern
   selbst verbrauchten Elektrizität
+jurabk: EigenVerbV
 layout: default
+origslug: eigenverbv
 slug: eigenverbv
 
 ---

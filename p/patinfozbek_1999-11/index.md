@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen
   befugten Patentinformationszentren
+jurabk: PatInfoZBek 1999-11
 layout: default
+origslug: patinfozbek_1999-11
 slug: patinfozbek_1999-11
 
 ---

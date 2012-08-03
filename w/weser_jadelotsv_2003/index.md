@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Verwaltung und Ordnung der Seelotsreviere Weser I und Weser
   II/Jade
+jurabk: Weser/JadeLotsV 2003
 layout: default
+origslug: weser_jadelotsv_2003
 slug: weser_jadelotsv_2003
 
 ---

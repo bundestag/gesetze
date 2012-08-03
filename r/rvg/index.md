@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte
+jurabk: RVG
 layout: default
+origslug: rvg
 slug: rvg
 
 ---

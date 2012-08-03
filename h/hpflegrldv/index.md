@@ -2,7 +2,9 @@ Verordnung
 über die Kraftfahrzeug-Haftpflichtversicherung
 ---
 Title: ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
+jurabk: HPflEGRLDV
 layout: default
+origslug: hpflegrldv
 slug: hpflegrldv
 
 ---

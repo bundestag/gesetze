@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Beiträge nach dem Gesetz über die elektromagnetische Verträglichkeit
   von Geräten für die Jahre 1999, 2000, 2001 und 2002
+jurabk: EMVBeitrV 2002
 layout: default
+origslug: emvbeitrv_2002
 slug: emvbeitrv_2002
 
 ---

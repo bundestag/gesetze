@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten
+jurabk: GwG 2008
 layout: default
+origslug: gwg_2008
 slug: gwg_2008
 
 ---

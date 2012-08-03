@@ -1,6 +1,8 @@
 ---
 Title: Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen
+jurabk: KyotoProt
 layout: default
+origslug: kyotoprot
 slug: kyotoprot
 
 ---

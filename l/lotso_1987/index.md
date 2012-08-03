@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Seelotsreviere und ihre Grenzen
+jurabk: LotsO 1987
 layout: default
+origslug: lotso_1987
 slug: lotso_1987
 
 ---

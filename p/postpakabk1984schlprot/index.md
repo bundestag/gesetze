@@ -1,6 +1,8 @@
 ---
 Title: Schlußprotokoll zum Postpaketabkommen
+jurabk: PostPakAbk1984SchlProt
 layout: default
+origslug: postpakabk1984schlprot
 slug: postpakabk1984schlprot
 
 ---

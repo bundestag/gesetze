@@ -1,6 +1,8 @@
 ---
 Title: Bienenseuchen-Verordnung
+jurabk: BienSeuchV
 layout: default
+origslug: bienseuchv
 slug: bienseuchv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen
+jurabk: StrEG
 layout: default
+origslug: streg
 slug: streg
 
 ---

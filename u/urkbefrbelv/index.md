@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bestimmung der Beglaubigungsbehörde nach dem deutsch-belgischen
   Abkommen vom 13. Mai 1975 über die Befreiung öffentlicher Urkunden von der Legalisation
+jurabk: UrkBefrBELV
 layout: default
+origslug: urkbefrbelv
 slug: urkbefrbelv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Eisenbahn-Signalordnung 1959
+jurabk: ESO 1959
 layout: default
+origslug: eso_1959
 slug: eso_1959
 
 ---

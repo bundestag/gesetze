@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Bereinigung von Kriegsfolgengesetzen
+jurabk: KfbG
 layout: default
+origslug: kfbg
 slug: kfbg
 
 ---

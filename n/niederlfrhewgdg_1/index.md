@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft
   über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
+jurabk: NiederlFrhEWGDG 1
 layout: default
+origslug: niederlfrhewgdg_1
 slug: niederlfrhewgdg_1
 
 ---

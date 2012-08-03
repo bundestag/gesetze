@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Probenahmeverfahren und Analysemethoden für die amtliche Düngemittelüberwachung
+jurabk: DüngMProbV
 layout: default
-slug: d_ngmprobv
+origslug: d_ngmprobv
+slug: duengmprobv
 
 ---
 

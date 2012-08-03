@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Albert-Schweitzer-Gedenkmünze)
+jurabk: Münz5DMBek 1975-10
 layout: default
-slug: m_nz5dmbek_1975-10
+origslug: m_nz5dmbek_1975-10
+slug: muenz5dmbek_1975-10
 
 ---
 

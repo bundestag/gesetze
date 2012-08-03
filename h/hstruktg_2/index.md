@@ -1,6 +1,8 @@
 ---
 Title: Zweites Gesetz zur Verbesserung der Haushaltsstruktur
+jurabk: HStruktG 2
 layout: default
+origslug: hstruktg_2
 slug: hstruktg_2
 
 ---

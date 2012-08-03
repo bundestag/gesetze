@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Notrufverbindungen
+jurabk: NotrufV
 layout: default
+origslug: notrufv
 slug: notrufv
 
 ---

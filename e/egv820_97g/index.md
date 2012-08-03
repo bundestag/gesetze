@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Verwendung der zur Durchführung der Rechtsakte der Europäischen
   Gemeinschaft über die Kennzeichnung und Registrierung von Rindern erhobenen Daten
+jurabk: EGV820/97G
 layout: default
+origslug: egv820_97g
 slug: egv820_97g
 
 ---

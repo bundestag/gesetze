@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages
   zwischen dem Saarland und dem Land Rheinland-Pfalz über eine Änderung der gemeinsamen
   Landesgrenze
+jurabk: GrÄndStVtrSL/RPBek
 layout: default
-slug: gr_ndstvtrsl_rpbek
+origslug: gr_ndstvtrsl_rpbek
+slug: graendstvtrsl_rpbek
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
+jurabk: EWRAbkAG
 layout: default
+origslug: ewrabkag
 slug: ewrabkag
 
 ---

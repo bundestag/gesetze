@@ -1,6 +1,8 @@
 ---
 Title: Verwaltungsverfahrensgesetz
+jurabk: VwVfG
 layout: default
+origslug: vwvfg
 slug: vwvfg
 
 ---

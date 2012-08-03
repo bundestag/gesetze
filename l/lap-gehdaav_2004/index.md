@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Auswärtigen
   Dienst
+jurabk: LAP-gehDAAV 2004
 layout: default
+origslug: lap-gehdaav_2004
 slug: lap-gehdaav_2004
 
 ---

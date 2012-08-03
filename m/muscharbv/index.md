@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutze der Mütter am Arbeitsplatz
+jurabk: MuSchArbV
 layout: default
+origslug: muscharbv
 slug: muscharbv
 
 ---

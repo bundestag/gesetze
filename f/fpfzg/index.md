@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Familienpflegezeit
+jurabk: FPfZG
 layout: default
+origslug: fpfzg
 slug: fpfzg
 
 ---

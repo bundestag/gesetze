@@ -1,6 +1,8 @@
 ---
 Title: Fremdrentengesetz
+jurabk: FRG
 layout: default
+origslug: frg
 slug: frg
 
 ---

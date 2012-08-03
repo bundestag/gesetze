@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Festsetzung von Mindestarbeitsbedingungen
+jurabk: MiArbG
 layout: default
+origslug: miarbg
 slug: miarbg
 
 ---

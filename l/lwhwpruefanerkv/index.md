@@ -2,8 +2,10 @@
 Title: Verordnung über die Anforderung an die fachliche Eignung und die Anerkennung
   von Prüfungen zum Nachweis der fachlichen Eignung für die Berufsausbildung in den
   Berufen der Landwirtschaft und der Hauswirtschaft
+jurabk: LwHwPrüfAnerkV
 layout: default
-slug: lwhwpr_fanerkv
+origslug: lwhwpr_fanerkv
+slug: lwhwpruefanerkv
 
 ---
 

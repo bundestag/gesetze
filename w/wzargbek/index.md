@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Argentinien
+jurabk: WZARGBek
 layout: default
+origslug: wzargbek
 slug: wzargbek
 
 ---

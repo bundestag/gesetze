@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Bremen
+jurabk: OFDBremAufgV
 layout: default
+origslug: ofdbremaufgv
 slug: ofdbremaufgv
 
 ---

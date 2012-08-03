@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4IOOCBek
 layout: default
+origslug: wzg_4ioocbek
 slug: wzg_4ioocbek
 
 ---

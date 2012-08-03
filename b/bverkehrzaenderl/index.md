@@ -1,8 +1,10 @@
 ---
 Title: Erlaß über die Genehmigung einer Änderung der Benennung und der Form des "Ehrenzeichens
   der Bundesverkehrswacht"
+jurabk: BVerkEhrZÄndErl
 layout: default
-slug: bverkehrz_nderl
+origslug: bverkehrz_nderl
+slug: bverkehrzaenderl
 
 ---
 

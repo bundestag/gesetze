@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Personalstruktur des Bundesgrenzschutzes
+jurabk: BGSPersG
 layout: default
+origslug: bgspersg
 slug: bgspersg
 
 ---

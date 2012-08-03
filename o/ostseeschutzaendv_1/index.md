@@ -1,8 +1,10 @@
 ---
 Title: Erste Verordnung zu Änderungen der Anlagen III und IV zum Übereinkommen von
   1992 über den Schutz der Meeresumwelt des Ostseegebiets
+jurabk: OstseeschutzÄndV 1
 layout: default
-slug: ostseeschutz_ndv_1
+origslug: ostseeschutz_ndv_1
+slug: ostseeschutzaendv_1
 
 ---
 

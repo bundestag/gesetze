@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfte Fachhauswirtschafterin/Geprüfter
   Fachhauswirtschafter
+jurabk: FachHwirtPrV
 layout: default
+origslug: fachhwirtprv
 slug: fachhwirtprv
 
 ---

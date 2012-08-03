@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Gleichstellung von Soldatinnen und Soldaten der Bundeswehr
+jurabk: SGleiG
 layout: default
+origslug: sgleig
 slug: sgleig
 
 ---

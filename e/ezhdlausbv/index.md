@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung im Einzelhandel in den Ausbildungsberufen
   Verkäufer/Verkäuferin und Kaufmann im Einzelhandel/Kauffrau im Einzelhandel
+jurabk: EzHdlAusbV
 layout: default
+origslug: ezhdlausbv
 slug: ezhdlausbv
 
 ---

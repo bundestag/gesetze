@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Anforderungen in der Prüfung zum anerkannten Abschluss
   Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin
+jurabk: FoMaFüPrV
 layout: default
-slug: fomaf_prv
+origslug: fomaf_prv
+slug: fomafueprv
 
 ---
 

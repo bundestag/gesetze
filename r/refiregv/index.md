@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Form des Refinanzierungsregisters nach dem Kreditwesengesetz
   sowie die Art und Weise der Aufzeichnung
+jurabk: RefiRegV
 layout: default
+origslug: refiregv
 slug: refiregv
 
 ---

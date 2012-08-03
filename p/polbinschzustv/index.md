@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung von Zuständigkeiten im deutsch-polnischen Wechselverkehr
   mit Binnenschiffen
+jurabk: POLBinSchZustV
 layout: default
+origslug: polbinschzustv
 slug: polbinschzustv
 
 ---

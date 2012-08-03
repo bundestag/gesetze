@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung von Zuständigkeiten im deutsch-tschechischen und deutsch-slowakischen
   Wechselverkehr mit Binnenschiffen
+jurabk: TRSLOBinSchZustV
 layout: default
+origslug: trslobinschzustv
 slug: trslobinschzustv
 
 ---

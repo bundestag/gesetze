@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Schutz vor Schäden durch Röntgenstrahlen
+jurabk: RöV 1987
 layout: default
-slug: r_v_1987
+origslug: r_v_1987
+slug: roev_1987
 
 ---
 

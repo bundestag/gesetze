@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfungen zu den anerkannten Abschlüssen Geprüfter Übersetzer/Geprüfte
   Übersetzerin und Geprüfter Dolmetscher/Geprüfte Dolmetscherin
+jurabk: ÜDolmPrV
 layout: default
-slug: _dolmprv
+origslug: _dolmprv
+slug: uedolmprv
 
 ---
 

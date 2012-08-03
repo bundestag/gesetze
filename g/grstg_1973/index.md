@@ -1,6 +1,8 @@
 ---
 Title: Grundsteuergesetz
+jurabk: GrStG 1973
 layout: default
+origslug: grstg_1973
 slug: grstg_1973
 
 ---

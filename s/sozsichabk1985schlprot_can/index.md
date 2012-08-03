@@ -1,7 +1,9 @@
 ---
 Title: Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und Kanada
   über Soziale Sicherheit
+jurabk: SozSichAbk1985SchlProt CAN
 layout: default
+origslug: sozsichabk1985schlprot_can
 slug: sozsichabk1985schlprot_can
 
 ---

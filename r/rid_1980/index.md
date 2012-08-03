@@ -1,7 +1,9 @@
 ---
 Title: Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (Anlage
   C zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF))
+jurabk: RID 1980
 layout: default
+origslug: rid_1980
 slug: rid_1980
 
 ---

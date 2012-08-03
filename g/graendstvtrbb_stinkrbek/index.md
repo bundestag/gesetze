@@ -2,8 +2,10 @@
 Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages
   zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt über die Änderung der
   gemeinsamen Landesgrenze
+jurabk: GrÄndStVtrBB/STInkrBek
 layout: default
-slug: gr_ndstvtrbb_stinkrbek
+origslug: gr_ndstvtrbb_stinkrbek
+slug: graendstvtrbb_stinkrbek
 
 ---
 

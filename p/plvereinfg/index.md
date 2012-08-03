@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Vereinfachung der Planungsverfahren für Verkehrswege
+jurabk: PlVereinfG
 layout: default
+origslug: plvereinfg
 slug: plvereinfg
 
 ---

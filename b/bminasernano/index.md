@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und  Bundesbeamten
   im Geschäftsbereich des Bundesministeriums für Arbeit und  Soziales
+jurabk: BMinASErnAnO
 layout: default
+origslug: bminasernano
 slug: bminasernano
 
 ---

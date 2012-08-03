@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verlängerung der Amtszeit der Jugendvertretungen in den Betrieben
+jurabk: JVertrAmtszVerlG
 layout: default
+origslug: jvertramtszverlg
 slug: jvertramtszverlg
 
 ---

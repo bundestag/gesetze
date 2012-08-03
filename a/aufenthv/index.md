@@ -1,6 +1,8 @@
 ---
 Title: Aufenthaltsverordnung
+jurabk: AufenthV
 layout: default
+origslug: aufenthv
 slug: aufenthv
 
 ---

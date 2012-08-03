@@ -2,7 +2,9 @@
 Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln
 ---
 Title: ''
+jurabk: EMVBG
 layout: default
+origslug: emvbg
 slug: emvbg
 
 ---

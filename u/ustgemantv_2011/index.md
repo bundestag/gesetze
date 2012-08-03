@@ -2,7 +2,9 @@
 Title: Verordnung über die Festsetzung der Länderschlüsselzahlen und die Ermittlung
   der Schlüsselzahlen für die Aufteilung des Gemeindeanteils am Aufkommen der Umsatzsteuer
   nach § 5c des Gemeindefinanzreformgesetzes
+jurabk: UStGemAntV 2011
 layout: default
+origslug: ustgemantv_2011
 slug: ustgemantv_2011
 
 ---

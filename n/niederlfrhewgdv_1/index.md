@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Durchführung von Richtlinien über die Niederlassungsfreiheit
   und den freien Dienstleistungsverkehr in der Europäischen Wirtschaftsgemeinschaft
+jurabk: NiederlFrhEWGDV 1
 layout: default
+origslug: niederlfrhewgdv_1
 slug: niederlfrhewgdv_1
 
 ---

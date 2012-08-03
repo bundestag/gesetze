@@ -1,7 +1,9 @@
 ---
 Title: Siebter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und
   Ehrenzeichen
+jurabk: OrdenErl 7
 layout: default
+origslug: ordenerl_7
 slug: ordenerl_7
 
 ---

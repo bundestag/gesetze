@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Konzessionsabgaben für Strom und Gas
+jurabk: KAV
 layout: default
+origslug: kav
 slug: kav
 
 ---

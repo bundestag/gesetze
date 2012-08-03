@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zur Änderung der Grenze des Freihafens Deggendorf
+jurabk: FrHfGrDEGV 1
 layout: default
+origslug: frhfgrdegv_1
 slug: frhfgrdegv_1
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Beruf des pharmazeutisch-technischen Assistenten
+jurabk: PharmTAG
 layout: default
+origslug: pharmtag
 slug: pharmtag
 
 ---

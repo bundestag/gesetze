@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 800 Jahre Hafen und Hamburg)
+jurabk: Münz10DMBek 1989-10
 layout: default
-slug: m_nz10dmbek_1989-10
+origslug: m_nz10dmbek_1989-10
+slug: muenz10dmbek_1989-10
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts
+jurabk: ErbStRG
 layout: default
+origslug: erbstrg
 slug: erbstrg
 
 ---

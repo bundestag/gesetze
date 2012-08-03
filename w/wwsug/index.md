@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-,
   Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen
   Demokratischen Republik
+jurabk: WWSUG
 layout: default
+origslug: wwsug
 slug: wwsug
 
 ---

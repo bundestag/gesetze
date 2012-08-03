@@ -1,6 +1,8 @@
 ---
 Title: Bundeswasserstraßengesetz
+jurabk: WaStrG
 layout: default
+origslug: wastrg
 slug: wastrg
 
 ---

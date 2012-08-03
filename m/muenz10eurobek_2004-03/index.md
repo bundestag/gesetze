@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze "Bauhaus Dessau")
+jurabk: Münz10EuroBek 2004-03
 layout: default
-slug: m_nz10eurobek_2004-03
+origslug: m_nz10eurobek_2004-03
+slug: muenz10eurobek_2004-03
 
 ---
 

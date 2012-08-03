@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Elterngeld und zur Elternzeit
+jurabk: BEEG
 layout: default
+origslug: beeg
 slug: beeg
 
 ---

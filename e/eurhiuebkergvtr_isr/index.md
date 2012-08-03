@@ -2,8 +2,10 @@
 Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel über die
   Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe
   in Strafsachen und die Erleichterung seiner Anwendung
+jurabk: EuRHiÜbkErgVtr ISR
 layout: default
-slug: eurhi_bkergvtr_isr
+origslug: eurhi_bkergvtr_isr
+slug: eurhiuebkergvtr_isr
 
 ---
 

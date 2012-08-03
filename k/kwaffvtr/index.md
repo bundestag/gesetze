@@ -1,6 +1,8 @@
 ---
 Title: Vertrag über die Nichtverbreitung von Kernwaffen
+jurabk: KWaffVtr
 layout: default
+origslug: kwaffvtr
 slug: kwaffvtr
 
 ---

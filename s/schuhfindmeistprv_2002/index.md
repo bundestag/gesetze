@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Schuhfertigung
+jurabk: SchuhfIndMeistPrV 2002
 layout: default
+origslug: schuhfindmeistprv_2002
 slug: schuhfindmeistprv_2002
 
 ---

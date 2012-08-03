@@ -1,6 +1,8 @@
 ---
 Title: Zollabkommen über Behälter
+jurabk: BehZAbk
 layout: default
+origslug: behzabk
 slug: behzabk
 
 ---

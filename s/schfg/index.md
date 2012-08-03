@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Schornsteinfegerwesen
+jurabk: SchfG
 layout: default
+origslug: schfg
 slug: schfg
 
 ---

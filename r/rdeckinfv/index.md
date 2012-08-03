@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder
+jurabk: RDeckInfV
 layout: default
+origslug: rdeckinfv
 slug: rdeckinfv
 
 ---

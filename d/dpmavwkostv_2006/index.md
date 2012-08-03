@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Verwaltungskosten beim Deutschen Patent- und Markenamt
+jurabk: DPMAVwKostV 2006
 layout: default
+origslug: dpmavwkostv_2006
 slug: dpmavwkostv_2006
 
 ---

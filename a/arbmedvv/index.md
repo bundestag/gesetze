@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur arbeitsmedizinischen Vorsorge
+jurabk: ArbMedVV
 layout: default
+origslug: arbmedvv
 slug: arbmedvv
 
 ---

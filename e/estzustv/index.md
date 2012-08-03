@@ -1,6 +1,8 @@
 ---
 Title: Einkommensteuer-Zuständigkeitsverordnung
+jurabk: EStZustV
 layout: default
+origslug: estzustv
 slug: estzustv
 
 ---

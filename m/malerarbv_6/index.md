@@ -1,6 +1,8 @@
 ---
 Title: Sechste Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk
+jurabk: MalerArbV 6
 layout: default
+origslug: malerarbv_6
 slug: malerarbv_6
 
 ---

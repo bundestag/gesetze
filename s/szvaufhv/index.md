@@ -1,6 +1,8 @@
 ---
 Title: Sonderzuschlagsverordnung
+jurabk: SzVAufhV
 layout: default
+origslug: szvaufhv
 slug: szvaufhv
 
 ---

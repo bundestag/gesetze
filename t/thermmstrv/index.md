@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Thermometermacher-Handwerk
+jurabk: ThermMstrV
 layout: default
+origslug: thermmstrv
 slug: thermmstrv
 
 ---

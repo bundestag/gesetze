@@ -1,6 +1,8 @@
 ---
 Title: Netzausbaubeschleunigungsgesetz Übertragungsnetz
+jurabk: NABEG
 layout: default
+origslug: nabeg
 slug: nabeg
 
 ---

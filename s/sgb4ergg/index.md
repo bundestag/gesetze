@@ -3,7 +3,9 @@ Title: Gesetz zur Einordnung der Vorschriften über die Meldepflichten des Arbei
   in der Kranken- und Rentenversicherung sowie im Arbeitsförderungsrecht und über
   den Einzug des Gesamtsozialversicherungsbeitrags in das Vierte Buch Sozialgesetzbuch
   - Gemeinsame Vorschriften für die Sozialversicherung -
+jurabk: SGB4ErgG
 layout: default
+origslug: sgb4ergg
 slug: sgb4ergg
 
 ---

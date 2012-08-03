@@ -1,6 +1,8 @@
 ---
 Title: Suchdienstedatenschutzgesetz
+jurabk: SDDSG
 layout: default
+origslug: sddsg
 slug: sddsg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Abkommen zum Schutz der Seehunde im Wattenmeer
+jurabk: SeehundWattmSchAbk
 layout: default
+origslug: seehundwattmschabk
 slug: seehundwattmschabk
 
 ---

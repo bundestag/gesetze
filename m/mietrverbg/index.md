@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verbesserung des Mietrechts und zur Begrenzung des Mietanstiegs
   sowie zur Regelung von Ingenieur- und Architektenleistungen
+jurabk: MietRVerbG
 layout: default
+origslug: mietrverbg
 slug: mietrverbg
 
 ---

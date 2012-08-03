@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zu den Verträgen vom 14. September 1994 des Weltpostvereins
+jurabk: WPostVtr1994G
 layout: default
+origslug: wpostvtr1994g
 slug: wpostvtr1994g
 
 ---

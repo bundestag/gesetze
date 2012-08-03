@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kroatien
   über Soziale Sicherheit
+jurabk: SozSichAbk HRV
 layout: default
+origslug: sozsichabk_hrv
 slug: sozsichabk_hrv
 
 ---

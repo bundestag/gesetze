@@ -1,6 +1,8 @@
 ---
 Title: Post-Lizenzgebührenverordnung
+jurabk: PLGebV
 layout: default
+origslug: plgebv
 slug: plgebv
 
 ---

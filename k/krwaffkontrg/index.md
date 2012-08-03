@@ -1,6 +1,8 @@
 ---
 Title: Ausführungsgesetz zu Artikel 26 Abs. 2 des Grundgesetzes
+jurabk: KrWaffKontrG
 layout: default
+origslug: krwaffkontrg
 slug: krwaffkontrg
 
 ---

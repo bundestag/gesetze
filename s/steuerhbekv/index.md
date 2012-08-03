@@ -1,6 +1,8 @@
 ---
 Title: Steuerhinterziehungsbekämpfungsverordnung
+jurabk: SteuerHBekV
 layout: default
+origslug: steuerhbekv
 slug: steuerhbekv
 
 ---

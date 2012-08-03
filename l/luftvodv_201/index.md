@@ -2,7 +2,9 @@
 Title: Zweihunderterste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
   Bremen)
+jurabk: LuftVODV 201
 layout: default
+origslug: luftvodv_201
 slug: luftvodv_201
 
 ---

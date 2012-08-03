@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die strafbefreiende Erklärung
+jurabk: StraBEG
 layout: default
+origslug: strabeg
 slug: strabeg
 
 ---

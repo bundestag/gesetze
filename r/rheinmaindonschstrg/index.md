@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße
   zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse
+jurabk: RheinMainDonSchStrG
 layout: default
+origslug: rheinmaindonschstrg
 slug: rheinmaindonschstrg
 
 ---

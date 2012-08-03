@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen
+jurabk: StromNEV
 layout: default
+origslug: stromnev
 slug: stromnev
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Ausführung des Europäischen Übereinkommens betreffend Auskünfte
   über ausländisches Recht und seines Zusatzprotokolls
+jurabk: EuAuskÜbkG
 layout: default
-slug: euausk_bkg
+origslug: euausk_bkg
+slug: euauskuebkg
 
 ---
 

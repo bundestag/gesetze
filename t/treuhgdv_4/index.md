@@ -1,6 +1,8 @@
 ---
 Title: Vierte Durchführungsverordnung zum Treuhandgesetz
+jurabk: TreuhGDV 4
 layout: default
+origslug: treuhgdv_4
 slug: treuhgdv_4
 
 ---

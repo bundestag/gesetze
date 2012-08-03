@@ -1,7 +1,9 @@
 ---
 Title: Dritte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung
   und Betrieb des Luftfahrtgerätes außerhalb von Luftfahrtunternehmen)
+jurabk: LuftBODV 3 2009
 layout: default
+origslug: luftbodv_3_2009
 slug: luftbodv_3_2009
 
 ---

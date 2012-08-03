@@ -1,6 +1,8 @@
 ---
 Title: Grunderwerbsteuergesetz
+jurabk: GrEStG 1983
 layout: default
+origslug: grestg_1983
 slug: grestg_1983
 
 ---

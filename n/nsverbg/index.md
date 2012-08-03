@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrichtungen
   und der Rechtsverhältnisse an deren Vermögen
+jurabk: NSVerbG
 layout: default
+origslug: nsverbg
 slug: nsverbg
 
 ---

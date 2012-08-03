@@ -2,7 +2,9 @@
 Title: Hundertzweiundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen
   Münster/Osnabrück)
+jurabk: LuftVODV 182
 layout: default
+origslug: luftvodv_182
 slug: luftvodv_182
 
 ---

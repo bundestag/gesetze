@@ -1,6 +1,8 @@
 ---
 Title: Hausordnung des Deutschen Bundestages
+jurabk: BTHausO 2002
 layout: default
+origslug: bthauso_2002
 slug: bthauso_2002
 
 ---

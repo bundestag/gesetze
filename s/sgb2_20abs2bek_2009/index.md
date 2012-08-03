@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Höhe der Regelleistung nach § 20 Absatz 2 Satz 1 des
   Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2009
+jurabk: SGB2§20Abs2Bek 2009
 layout: default
+origslug: sgb2_20abs2bek_2009
 slug: sgb2_20abs2bek_2009
 
 ---

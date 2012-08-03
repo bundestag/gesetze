@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Buchhändler und zur
 Buchhändlerin
 ---
 Title: ''
+jurabk: BuchhdlAusbV 2011
 layout: default
+origslug: buchhdlausbv_2011
 slug: buchhdlausbv_2011
 
 ---

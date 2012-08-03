@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Lieferbeschränkungen für Kraftstoff in einer Versorgungskrise
+jurabk: KraftstoffLBV
 layout: default
+origslug: kraftstofflbv
 slug: kraftstofflbv
 
 ---

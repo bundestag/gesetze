@@ -1,6 +1,8 @@
 ---
 Title: Straßenbaufinanzierungsgesetz
+jurabk: StrFinG
 layout: default
+origslug: strfing
 slug: strfing
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Seefischereiverordnung
+jurabk: SeefiV
 layout: default
+origslug: seefiv
 slug: seefiv
 
 ---

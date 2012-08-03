@@ -1,6 +1,8 @@
 ---
 Title: Wahlverordnung zum Soldatenbeteiligungsgesetz
+jurabk: SBGWV
 layout: default
+origslug: sbgwv
 slug: sbgwv
 
 ---

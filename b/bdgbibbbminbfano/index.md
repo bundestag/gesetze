@@ -2,7 +2,9 @@
 Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes bei dem bundesunmittelbaren
   Bundesinstitut für Berufsbildung im Geschäftsbereich des Bundesministeriums für
   Bildung und Forschung
+jurabk: BDGBIBBBMinBFAnO
 layout: default
+origslug: bdgbibbbminbfano
 slug: bdgbibbbminbfano
 
 ---

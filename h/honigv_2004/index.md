@@ -1,6 +1,8 @@
 ---
 Title: Honigverordnung
+jurabk: HonigV 2004
 layout: default
+origslug: honigv_2004
 slug: honigv_2004
 
 ---

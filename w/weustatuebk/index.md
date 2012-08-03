@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über den Status der Westeuropäischen Union, der nationalen Vertreter
   und des internationalen Personals
+jurabk: WEUStatÜbk
 layout: default
-slug: weustat_bk
+origslug: weustat_bk
+slug: weustatuebk
 
 ---
 

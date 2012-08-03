@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der
   Zuteilungsperiode 2008 bis 2012
+jurabk: ZuV 2012
 layout: default
+origslug: zuv_2012
 slug: zuv_2012
 
 ---

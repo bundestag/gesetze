@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst
   an wissenschaftlichen Bibliotheken des Bundes
+jurabk: LAP-hDBiblV
 layout: default
+origslug: lap-hdbiblv
 slug: lap-hdbiblv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Probenahmeverfahren und Analysemethoden für die amtliche Futtermittelüberwachung
+jurabk: FuttMProbV
 layout: default
+origslug: futtmprobv
 slug: futtmprobv
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zur Vereinheitlichung gewisser Begriffe des materiellen Rechts
   der Erfindungspatente
+jurabk: ErfPatÜbk
 layout: default
-slug: erfpat_bk
+origslug: erfpat_bk
+slug: erfpatuebk
 
 ---
 

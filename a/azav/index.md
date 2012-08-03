@@ -2,7 +2,9 @@
 Title: Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von
   fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung
   nach dem Dritten Buch Sozialgesetzbuch
+jurabk: AZAV
 layout: default
+origslug: azav
 slug: azav
 
 ---

@@ -2,7 +2,9 @@
 Title: Zweihundertsiebenundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
   und vom Flughafen Dresden)
+jurabk: LuftVODV 227
 layout: default
+origslug: luftvodv_227
 slug: luftvodv_227
 
 ---

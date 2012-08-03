@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe
   des Bundes
+jurabk: RsprEinhG
 layout: default
+origslug: rspreinhg
 slug: rspreinhg
 
 ---

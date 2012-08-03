@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des
   Fonds "Deutsche Einheit" in das Schuldbuch des Fonds "Deutsche Einheit"
+jurabk: DEFBek
 layout: default
+origslug: defbek
 slug: defbek
 
 ---

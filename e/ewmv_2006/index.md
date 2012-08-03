@@ -1,6 +1,8 @@
 ---
 Title: Ernährungswirtschaftsmeldeverordnung
+jurabk: EWMV 2006
 layout: default
+origslug: ewmv_2006
 slug: ewmv_2006
 
 ---

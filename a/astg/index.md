@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Besteuerung bei Auslandsbeziehungen
+jurabk: AStG
 layout: default
+origslug: astg
 slug: astg
 
 ---

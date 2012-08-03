@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten im Geschäftsbereich
   des Bundesministeriums des Innern
+jurabk: BMIErnAnO 2005
 layout: default
+origslug: bmiernano_2005
 slug: bmiernano_2005
 
 ---

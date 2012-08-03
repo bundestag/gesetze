@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der Schiffsregisterordnung
+jurabk: SchRegDV
 layout: default
+origslug: schregdv
 slug: schregdv
 
 ---

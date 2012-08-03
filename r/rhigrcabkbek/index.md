@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige
   Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
+jurabk: RHiGRCAbkBek
 layout: default
+origslug: rhigrcabkbek
 slug: rhigrcabkbek
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verwaltungsgerichtsordnung
+jurabk: VwGO
 layout: default
+origslug: vwgo
 slug: vwgo
 
 ---

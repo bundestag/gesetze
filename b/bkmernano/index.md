@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten
   im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
+jurabk: BKMErnAnO
 layout: default
+origslug: bkmernano
 slug: bkmernano
 
 ---

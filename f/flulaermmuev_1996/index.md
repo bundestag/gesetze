@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   München
+jurabk: FluLärmMüV 1996
 layout: default
-slug: flul_rmm_v_1996
+origslug: flul_rmm_v_1996
+slug: flulaermmuev_1996
 
 ---
 

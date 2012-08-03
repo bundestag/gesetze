@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über die zivilrechtliche Haftung bei der Beförderung von Kernmaterial
   auf See
+jurabk: SeeAtHaftÜbk
 layout: default
-slug: seeathaft_bk
+origslug: seeathaft_bk
+slug: seeathaftuebk
 
 ---
 

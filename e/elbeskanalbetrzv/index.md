@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung der Betriebszeiten der Abstiegsbauwerke am
   Elbe-Seitenkanal
+jurabk: ElbeSKanalBetrZV
 layout: default
+origslug: elbeskanalbetrzv
 slug: elbeskanalbetrzv
 
 ---

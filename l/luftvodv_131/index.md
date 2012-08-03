@@ -2,7 +2,9 @@
 Title: Hunderteinunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrslandeplatz
   Dortmund-Wickede)
+jurabk: LuftVODV 131
 layout: default
+origslug: luftvodv_131
 slug: luftvodv_131
 
 ---

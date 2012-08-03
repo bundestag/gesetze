@@ -3,7 +3,9 @@ Verordnung über die Anerkennung europäischer Berufsqualifikationen als
 Laufbahnbefähigung
 ---
 Title: ''
+jurabk: LBAV
 layout: default
+origslug: lbav
 slug: lbav
 
 ---

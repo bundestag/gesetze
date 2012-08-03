@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich
   nach dem Energiesicherungsgesetz
+jurabk: EnSiGEntschV
 layout: default
+origslug: ensigentschv
 slug: ensigentschv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
+jurabk: PflegeArbbV
 layout: default
+origslug: pflegearbbv
 slug: pflegearbbv
 
 ---

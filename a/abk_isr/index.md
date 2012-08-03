@@ -1,6 +1,8 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel
+jurabk: Abk ISR
 layout: default
+origslug: abk_isr
 slug: abk_isr
 
 ---

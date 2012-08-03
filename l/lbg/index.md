@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Landbeschaffung für Aufgaben der Verteidigung
+jurabk: LBG
 layout: default
+origslug: lbg
 slug: lbg
 
 ---

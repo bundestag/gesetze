@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Freigabe der stillgelegten Mittel aus der Steuer für den Selbstverbrauch
   sowie über die Aufhebung der Stillegungspflicht für künftig aufkommende Beträge
+jurabk: SVStFreigG
 layout: default
+origslug: svstfreigg
 slug: svstfreigg
 
 ---

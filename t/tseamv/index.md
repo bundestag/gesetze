@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zum Verbot der Verwendung bestimmter Stoffe zur Vermeidung des Risikos
   der Übertragung transmissibler spongiformer Enzephalopathien durch Arzneimittel
+jurabk: TSEAMV
 layout: default
+origslug: tseamv
 slug: tseamv
 
 ---

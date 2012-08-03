@@ -2,7 +2,9 @@
 Title: Verordnung zur tarifbezogenen Ermittlung der steuerlich berücksichtigungsfähigen
   Beiträge zum Erwerb eines Krankenversicherungsschutzes im Sinne des § 10 Absatz
   1 Nummer 3 Buchstabe a des Einkommensteuergesetzes
+jurabk: KVBEVO
 layout: default
+origslug: kvbevo
 slug: kvbevo
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den deutschen Auslandsrundfunk
+jurabk: RdFunkAuslG
 layout: default
+origslug: rdfunkauslg
 slug: rdfunkauslg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung
+jurabk: BetrWHwOPrV
 layout: default
+origslug: betrwhwoprv
 slug: betrwhwoprv
 
 ---

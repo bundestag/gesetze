@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der
   Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
+jurabk: BinSchSprFunkV 2003
 layout: default
+origslug: binschsprfunkv_2003
 slug: binschsprfunkv_2003
 
 ---

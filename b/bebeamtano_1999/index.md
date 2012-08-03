@@ -1,7 +1,9 @@
 ---
 Title: Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis
   im Bereich des Bundeseisenbahnvermögens
+jurabk: BEBeamtAnO 1999
 layout: default
+origslug: bebeamtano_1999
 slug: bebeamtano_1999
 
 ---

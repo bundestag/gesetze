@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen
+jurabk: GasNEV
 layout: default
+origslug: gasnev
 slug: gasnev
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen
+jurabk: WoBindG
 layout: default
+origslug: wobindg
 slug: wobindg
 
 ---

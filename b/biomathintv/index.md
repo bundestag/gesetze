@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren
+jurabk: BioMatHintV
 layout: default
+origslug: biomathintv
 slug: biomathintv
 
 ---

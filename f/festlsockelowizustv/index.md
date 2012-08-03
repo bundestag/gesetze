@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
   im Bereich des Festlandsockels
+jurabk: FestLSockelOWiZustV
 layout: default
+origslug: festlsockelowizustv
 slug: festlsockelowizustv
 
 ---

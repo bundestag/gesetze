@@ -4,7 +4,9 @@ Title: Gesetz zu dem Abkommen vom 14. November 1985 zwischen der Bundesrepublik 
   sowie zu der Vereinbarung vom 14. Mai 1987 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung von Quebec über Soziale Sicherheit und der Durchführungsvereinbarung
   hierzu
+jurabk: SozSichAbk1985RVbgDVbgCANG
 layout: default
+origslug: sozsichabk1985rvbgdvbgcang
 slug: sozsichabk1985rvbgdvbgcang
 
 ---

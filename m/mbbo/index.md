@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Bau und Betrieb der Magnetschwebebahnen
+jurabk: MbBO
 layout: default
+origslug: mbbo
 slug: mbbo
 
 ---

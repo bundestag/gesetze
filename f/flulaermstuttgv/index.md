@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Stuttgart
+jurabk: FluLärmStuttgV
 layout: default
-slug: flul_rmstuttgv
+origslug: flul_rmstuttgv
+slug: flulaermstuttgv
 
 ---
 

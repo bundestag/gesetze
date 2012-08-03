@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über gesetzliche Handelsklassen für Schaffleisch
+jurabk: HdlKlSchafFlV 1993
 layout: default
+origslug: hdlklschafflv_1993
 slug: hdlklschafflv_1993
 
 ---

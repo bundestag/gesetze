@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen
   auf die Bundesanstalt für Finanzdienstleistungsaufsicht
+jurabk: BAFinBefugV
 layout: default
+origslug: bafinbefugv
 slug: bafinbefugv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Archivdienst
   des Bundes
+jurabk: LAP-ghDArchivV
 layout: default
+origslug: lap-ghdarchivv
 slug: lap-ghdarchivv
 
 ---

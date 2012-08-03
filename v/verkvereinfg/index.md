@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über vereinfachte Verkündungen und Bekanntgaben
+jurabk: VerkVereinfG
 layout: default
+origslug: verkvereinfg
 slug: verkvereinfg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und
   Wattvögel von internationaler Bedeutung
+jurabk: RamsarKonv
 layout: default
+origslug: ramsarkonv
 slug: ramsarkonv
 
 ---

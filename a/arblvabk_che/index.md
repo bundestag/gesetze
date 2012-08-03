@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
   über Arbeitslosenversicherung
+jurabk: ArblVAbk CHE
 layout: default
+origslug: arblvabk_che
 slug: arblvabk_che
 
 ---

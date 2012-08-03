@@ -2,7 +2,9 @@
 Title: Verordnung über den Absatz von Magermilchpulver aus öffentlicher Lagerhaltung
   zur Denaturierung, zur Verarbeitung zu Mischfutter und zur Ausfuhr sowie über die
   Lieferung von Magermilchpulver im Rahmen der Nahrungsmittelhilfe
+jurabk: MMilchPulvAbsV
 layout: default
+origslug: mmilchpulvabsv
 slug: mmilchpulvabsv
 
 ---

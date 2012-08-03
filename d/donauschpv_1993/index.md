@@ -1,6 +1,8 @@
 ---
 Title: Donauschiffahrtspolizeiverordnung
+jurabk: DonauSchPV 1993
 layout: default
+origslug: donauschpv_1993
 slug: donauschpv_1993
 
 ---

@@ -2,8 +2,10 @@
 Title: Übereinkommen über die zivilrechtliche Haftung für die während des  Transports
   gefährlicher Güter auf dem Straßen-, Schienen- und  Binnenschifffahrtsweg verursachten
   Schäden
+jurabk: ZivHaftTrSchÜbk
 layout: default
-slug: zivhafttrsch_bk
+origslug: zivhafttrsch_bk
+slug: zivhafttrschuebk
 
 ---
 

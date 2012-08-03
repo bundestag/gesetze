@@ -2,7 +2,9 @@
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung
   Pharmazie
+jurabk: PharmIndMstrFortbV
 layout: default
+origslug: pharmindmstrfortbv
 slug: pharmindmstrfortbv
 
 ---

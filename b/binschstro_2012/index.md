@@ -1,6 +1,8 @@
 ---
 Title: Binnenschifffahrtsstraßen-Ordnung
+jurabk: BinSchStrO 2012
 layout: default
+origslug: binschstro_2012
 slug: binschstro_2012
 
 ---

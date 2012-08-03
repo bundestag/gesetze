@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung zum Sprengstoffgesetz
+jurabk: SprengV 2
 layout: default
+origslug: sprengv_2
 slug: sprengv_2
 
 ---

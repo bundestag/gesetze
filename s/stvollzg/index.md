@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln
   der Besserung und Sicherung
+jurabk: StVollzG
 layout: default
+origslug: stvollzg
 slug: stvollzg
 
 ---

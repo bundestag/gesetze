@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts
+jurabk: UErgG 2
 layout: default
+origslug: uergg_2
 slug: uergg_2
 
 ---

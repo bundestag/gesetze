@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Europäischen Bürgerinitiative
+jurabk: EBIG
 layout: default
+origslug: ebig
 slug: ebig
 
 ---

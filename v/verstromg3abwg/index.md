@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten Verstromungsgesetz
+jurabk: VerstromG3AbwG
 layout: default
+origslug: verstromg3abwg
 slug: verstromg3abwg
 
 ---

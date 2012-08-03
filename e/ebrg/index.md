@@ -2,7 +2,9 @@
 Gesetz über Europäische Betriebsräte
 ---
 Title: ''
+jurabk: EBRG
 layout: default
+origslug: ebrg
 slug: ebrg
 
 ---

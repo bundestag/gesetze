@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
+jurabk: BfRG
 layout: default
+origslug: bfrg
 slug: bfrg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft
   und Ernährung nach dem Fleischgesetz
+jurabk: FlGGebV
 layout: default
+origslug: flggebv
 slug: flggebv
 
 ---

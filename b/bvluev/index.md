@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz
   und Lebensmittelsicherheit
+jurabk: BVLÜV
 layout: default
-slug: bvl_v
+origslug: bvl_v
+slug: bvluev
 
 ---
 

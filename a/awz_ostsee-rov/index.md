@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone
   in der Ostsee
+jurabk: AWZ Ostsee-ROV
 layout: default
+origslug: awz_ostsee-rov
 slug: awz_ostsee-rov
 
 ---

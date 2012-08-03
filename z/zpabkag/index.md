@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Ausführung des Abkommens über den Zivilprozeß vom 17. Juli 1905
+jurabk: ZPAbkAG
 layout: default
+origslug: zpabkag
 slug: zpabkag
 
 ---

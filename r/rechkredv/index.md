@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute
+jurabk: RechKredV
 layout: default
+origslug: rechkredv
 slug: rechkredv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Interoperabilität des transeuropäischen Eisenbahnsystems
+jurabk: TEIV
 layout: default
+origslug: teiv
 slug: teiv
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Übertragung von liegenschaftsbezogenen Aufgaben und Liegenschaftsgesellschaften
   der Treuhandanstalt
+jurabk: TreuhLÜV
 layout: default
-slug: treuhl_v
+origslug: treuhl_v
+slug: treuhluev
 
 ---
 

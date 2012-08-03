@@ -1,6 +1,8 @@
 ---
 Title: Zweite Wassersicherstellungsverordnung
+jurabk: WasSV 2
 layout: default
+origslug: wassv_2
 slug: wassv_2
 
 ---

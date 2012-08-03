@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Ersetzung zerstörter oder abhanden gekommener gerichtlicher
   oder notarischer Urkunden
+jurabk: UrkErsV
 layout: default
+origslug: urkersv
 slug: urkersv
 
 ---

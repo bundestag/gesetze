@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Schutz von Embryonen
+jurabk: ESchG
 layout: default
+origslug: eschg
 slug: eschg
 
 ---

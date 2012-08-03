@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
   Mark (Fontane-Gedenkmünze)
+jurabk: Münz5DMBek 1969
 layout: default
-slug: m_nz5dmbek_1969
+origslug: m_nz5dmbek_1969
+slug: muenz5dmbek_1969
 
 ---
 

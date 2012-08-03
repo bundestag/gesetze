@@ -1,6 +1,8 @@
 ---
 Title: Arzneimittel-Warnhinweisverordnung
+jurabk: AMWarnV
 layout: default
+origslug: amwarnv
 slug: amwarnv
 
 ---

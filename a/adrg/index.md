@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale
   Beförderung gefährlicher Güter auf der Straße (ADR)
+jurabk: ADRG
 layout: default
+origslug: adrg
 slug: adrg
 
 ---

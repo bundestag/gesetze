@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung der Wertpapierdienstleistungsunternehmen nach §
   36 des Wertpapierhandelsgesetzes
+jurabk: WpDPV 2005
 layout: default
+origslug: wpdpv_2005
 slug: wpdpv_2005
 
 ---

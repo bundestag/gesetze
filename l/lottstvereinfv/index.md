@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
+jurabk: LottStVereinfV
 layout: default
+origslug: lottstvereinfv
 slug: lottstvereinfv
 
 ---

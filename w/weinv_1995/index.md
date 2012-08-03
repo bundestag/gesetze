@@ -1,6 +1,8 @@
 ---
 Title: Weinverordnung
+jurabk: WeinV 1995
 layout: default
+origslug: weinv_1995
 slug: weinv_1995
 
 ---

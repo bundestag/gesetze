@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Graveur/zur Graveurin
+jurabk: GravAusbV
 layout: default
+origslug: gravausbv
 slug: gravausbv
 
 ---

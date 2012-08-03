@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren zur Zulassung von Umweltgutachtern und Umweltgutachterorganisationen
   sowie zur Erteilung von Fachkenntnisbescheinigungen nach dem Umweltauditgesetz
+jurabk: UAGZVV
 layout: default
+origslug: uagzvv
 slug: uagzvv
 
 ---

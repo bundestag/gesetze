@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Strukturreform im Gesundheitswesen
+jurabk: GRG
 layout: default
+origslug: grg
 slug: grg
 
 ---

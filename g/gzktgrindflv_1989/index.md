@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Grundsätze für die Verteilung der deutschen Quote des Gemeinschaftszollkontingents
   1989 für gefrorenes Rindfleisch
+jurabk: GZKtgRindFlV 1989
 layout: default
+origslug: gzktgrindflv_1989
 slug: gzktgrindflv_1989
 
 ---

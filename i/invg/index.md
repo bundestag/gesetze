@@ -1,6 +1,8 @@
 ---
 Title: Investmentgesetz
+jurabk: InvG
 layout: default
+origslug: invg
 slug: invg
 
 ---

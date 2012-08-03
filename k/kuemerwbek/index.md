@@ -2,8 +2,10 @@
 Title: Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung des
   Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von
   Tankerunfällen in der Deutschen Bucht
+jurabk: KüMErwBek
 layout: default
-slug: k_merwbek
+origslug: k_merwbek
+slug: kuemerwbek
 
 ---
 

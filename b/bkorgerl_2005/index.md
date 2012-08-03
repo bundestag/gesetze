@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass der Bundeskanzlerin
+jurabk: BKOrgErl 2005
 layout: default
+origslug: bkorgerl_2005
 slug: bkorgerl_2005
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen Nr. 126 (der Internationalen Arbeitsorganisation) über die Quartierräume
   an Bord von Fischereifahrzeugen
+jurabk: IAOÜbk 126
 layout: default
-slug: iao_bk_126
+origslug: iao_bk_126
+slug: iaouebk_126
 
 ---
 

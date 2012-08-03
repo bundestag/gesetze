@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Baugeräteführer/zur Baugeräteführerin
+jurabk: BaugeräteFAusbV 1997
 layout: default
-slug: bauger_tefausbv_1997
+origslug: bauger_tefausbv_1997
+slug: baugeraetefausbv_1997
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Anhörungsverfahren nach dem Gentechnikgesetz
+jurabk: GenTAnhV
 layout: default
+origslug: gentanhv
 slug: gentanhv
 
 ---

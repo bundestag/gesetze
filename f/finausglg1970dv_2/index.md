@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen
   Bund und Ländern im Ausgleichsjahr 1970
+jurabk: FinAusglG1970DV 2
 layout: default
+origslug: finausglg1970dv_2
 slug: finausglg1970dv_2
 
 ---

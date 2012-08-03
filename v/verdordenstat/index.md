@@ -1,6 +1,8 @@
 ---
 Title: Statut des "Verdienstordens der Bundesrepublik Deutschland"
+jurabk: VerdOrdenStat
 layout: default
+origslug: verdordenstat
 slug: verdordenstat
 
 ---

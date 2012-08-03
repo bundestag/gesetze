@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung der Bundesmonopolverwaltung für Branntwein
+jurabk: BranntwMonVwG
 layout: default
+origslug: branntwmonvwg
 slug: branntwmonvwg
 
 ---

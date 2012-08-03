@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über
   Ausgleichsleistungen an Kreditnehmer
+jurabk: KredAAG
 layout: default
+origslug: kredaag
 slug: kredaag
 
 ---

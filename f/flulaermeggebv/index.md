@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Eggebek
+jurabk: FluLärmEggebV
 layout: default
-slug: flul_rmeggebv
+origslug: flul_rmeggebv
+slug: flulaermeggebv
 
 ---
 

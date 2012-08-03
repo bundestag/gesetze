@@ -1,6 +1,8 @@
 ---
 Title: Schwerbehindertenausweisverordnung
+jurabk: SchwbAwV
 layout: default
+origslug: schwbawv
 slug: schwbawv
 
 ---

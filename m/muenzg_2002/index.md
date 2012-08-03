@@ -1,7 +1,9 @@
 ---
 Title: Münzgesetz
+jurabk: MünzG 2002
 layout: default
-slug: m_nzg_2002
+origslug: m_nzg_2002
+slug: muenzg_2002
 
 ---
 

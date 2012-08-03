@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum Personalrecht der Beschäftigten der früheren Deutschen Bundespost
+jurabk: PostPersRG
 layout: default
+origslug: postpersrg
 slug: postpersrg
 
 ---

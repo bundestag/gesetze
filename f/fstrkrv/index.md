@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Kreuzungsanlagen im Zuge von Bundesfernstraßen
+jurabk: FStrKrV
 layout: default
+origslug: fstrkrv
 slug: fstrkrv
 
 ---

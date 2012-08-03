@@ -2,8 +2,10 @@
 Title: Verordnung über die Übertragung der Ermächtigung nach § 3 Abs. 6 der besonderen
   Bestimmungen zur Einführung der Rechtsvorschriften auf dem Gebiet des gewerblichen
   Rechtsschutzes im Einigungsvertrag
+jurabk: UWG/EinigVtrEÜbV
 layout: default
-slug: uwg_einigvtre_bv
+origslug: uwg_einigvtre_bv
+slug: uwg_einigvtreuebv
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Vollzug von Freiheitsstrafe, Strafarrest, Jugendarrest
   und Disziplinararrest durch Behörden der Bundeswehr
+jurabk: BwVollzO
 layout: default
+origslug: bwvollzo
 slug: bwvollzo
 
 ---

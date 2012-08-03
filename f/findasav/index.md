@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
+jurabk: FinDASaV
 layout: default
+origslug: findasav
 slug: findasav
 
 ---

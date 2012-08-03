@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des öffentlichen Vereinsrechts
+jurabk: VereinsG
 layout: default
+origslug: vereinsg
 slug: vereinsg
 
 ---

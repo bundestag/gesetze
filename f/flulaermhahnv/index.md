@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen
   Flugplatz Hahn
+jurabk: FluLärmHahnV
 layout: default
-slug: flul_rmhahnv
+origslug: flul_rmhahnv
+slug: flulaermhahnv
 
 ---
 

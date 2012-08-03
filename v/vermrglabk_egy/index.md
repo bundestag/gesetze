@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und der Arabischen Republik
   Ägypten über die Regelung gewisser Fragen betreffend deutsches VermÖgen
+jurabk: VermRglAbk EGY
 layout: default
+origslug: vermrglabk_egy
 slug: vermrglabk_egy
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch
   Kranker
+jurabk: PsychKVVerbG
 layout: default
+origslug: psychkvverbg
 slug: psychkvverbg
 
 ---

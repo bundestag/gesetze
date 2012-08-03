@@ -1,6 +1,8 @@
 ---
 Title: Ausfuhrerstattungsverordnung
+jurabk: AusfErstV 1996
 layout: default
+origslug: ausferstv_1996
 slug: ausferstv_1996
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Saatgutbeihilfeverordnung
+jurabk: SaatBeihV 1993
 layout: default
+origslug: saatbeihv_1993
 slug: saatbeihv_1993
 
 ---

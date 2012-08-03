@@ -1,6 +1,8 @@
 ---
 Title: Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes
+jurabk: AufbauhfV
 layout: default
+origslug: aufbauhfv
 slug: aufbauhfv
 
 ---

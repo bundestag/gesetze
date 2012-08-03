@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Vereinheitlichung und Flexibilisierung des Arbeitszeitrechts
+jurabk: ArbZRG
 layout: default
+origslug: arbzrg
 slug: arbzrg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen
+jurabk: MOG
 layout: default
+origslug: mog
 slug: mog
 
 ---

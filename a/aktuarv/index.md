@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die versicherungsmathematische Bestätigung, den Erläuterungsbericht
   und den Angemessenheitsbericht des Verantwortlichen Aktuars
+jurabk: AktuarV
 layout: default
+origslug: aktuarv
 slug: aktuarv
 
 ---

@@ -3,7 +3,9 @@ Verordnung über das erlaubnispflichtige Personal der Flugsicherung und
 seine Ausbildung
 ---
 Title: ''
+jurabk: FSPersAV
 layout: default
+origslug: fspersav
 slug: fspersav
 
 ---

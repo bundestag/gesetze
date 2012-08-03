@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Schiedsstelle für Urheberrechtsstreitfälle
+jurabk: UrhSchiedsV 1985
 layout: default
+origslug: urhschiedsv_1985
 slug: urhschiedsv_1985
 
 ---

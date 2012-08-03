@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge
+jurabk: FSAV 2004
 layout: default
+origslug: fsav_2004
 slug: fsav_2004
 
 ---

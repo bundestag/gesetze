@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Zusammensetzung, die Bestellung der Mitglieder und das
   Verfahren des Beirats bei der Bundesanstalt für Finanzdienstleistungsaufsicht
+jurabk: WpÜGBeirV
 layout: default
-slug: wp_gbeirv
+origslug: wp_gbeirv
+slug: wpuegbeirv
 
 ---
 

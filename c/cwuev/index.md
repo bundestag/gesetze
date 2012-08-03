@@ -1,7 +1,9 @@
 ---
 Title: Ausführungsverordnung zum Chemiewaffenübereinkommen
+jurabk: CWÜV
 layout: default
-slug: cw_v
+origslug: cw_v
+slug: cwuev
 
 ---
 

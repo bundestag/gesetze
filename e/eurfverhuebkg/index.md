@@ -2,8 +2,10 @@
 Title: Gesetz zu dem Europäischen Übereinkommen vom 22. Januar 1965 zur Verhütung
   von Rundfunksendungen, die von Sendestellen außerhalb der staatlichen Hoheitsgebiete
   gesendet werden
+jurabk: EuRFVerhÜbkG
 layout: default
-slug: eurfverh_bkg
+origslug: eurfverh_bkg
+slug: eurfverhuebkg
 
 ---
 

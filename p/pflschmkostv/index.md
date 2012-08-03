@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kosten für die Zulassung und Genehmigung von Pflanzenschutzmitteln
+jurabk: PflSchMKostV
 layout: default
+origslug: pflschmkostv
 slug: pflschmkostv
 
 ---

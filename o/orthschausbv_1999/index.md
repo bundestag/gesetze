@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Orthopädieschuhmacher/zur Orthopädieschuhmacherin
+jurabk: OrthSchAusbV 1999
 layout: default
+origslug: orthschausbv_1999
 slug: orthschausbv_1999
 
 ---

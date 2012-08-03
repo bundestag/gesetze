@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das gerichtliche Verfahren in Binnenschiffahrtssachen
+jurabk: BinSchGerG
 layout: default
+origslug: binschgerg
 slug: binschgerg
 
 ---

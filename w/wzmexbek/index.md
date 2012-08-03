@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko
+jurabk: WZMEXBek
 layout: default
+origslug: wzmexbek
 slug: wzmexbek
 
 ---

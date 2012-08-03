@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Konkretisierung von Anzeige-, Mitteilungs- und Veröffentlichungspflichten
   sowie der Pflicht zur Führung von Insiderverzeichnissen nach dem Wertpapierhandelsgesetz
+jurabk: WpAIV
 layout: default
+origslug: wpaiv
 slug: wpaiv
 
 ---

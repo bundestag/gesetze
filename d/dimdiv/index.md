@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das datenbankgestützte Informationssystem über Medizinprodukte
   des Deutschen Instituts für Medizinische Dokumentation und Information
+jurabk: DIMDIV
 layout: default
+origslug: dimdiv
 slug: dimdiv
 
 ---

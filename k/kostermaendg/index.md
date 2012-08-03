@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung von Kostenermächtigungen, sozialversicherungsrechtlichen
   und anderen Vorschriften
+jurabk: KostErmÄndG
 layout: default
-slug: kosterm_ndg
+origslug: kosterm_ndg
+slug: kostermaendg
 
 ---
 

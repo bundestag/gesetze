@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit
+jurabk: VSchwKrSchV
 layout: default
+origslug: vschwkrschv
 slug: vschwkrschv
 
 ---

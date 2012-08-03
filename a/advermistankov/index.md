@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Anerkennung von Adoptionsvermittlungsstellen in freier
   Trägerschaft sowie die im Adoptionsvermittlungsverfahren zu erstattenden Kosten
+jurabk: AdVermiStAnKoV
 layout: default
+origslug: advermistankov
 slug: advermistankov
 
 ---

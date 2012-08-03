@@ -2,8 +2,10 @@
 Title: Gesetz zu den IAEO-Übereinkommen vom 26. September 1986 über die frühzeitige
   Benachrichtigung bei nuklearen Unfällen sowie über Hilfeleistung bei nuklearen Unfällen
   oder radiologischen Notfällen
+jurabk: IAEOBen/IAEOHiLÜbkG
 layout: default
-slug: iaeoben_iaeohil_bkg
+origslug: iaeoben_iaeohil_bkg
+slug: iaeoben_iaeohiluebkg
 
 ---
 

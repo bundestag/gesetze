@@ -2,7 +2,9 @@
 Title: Dritte Verordnung zur Anpassung der Höhe der Vergütungen nach der Gebührenordnung
   für Ärzte, der Gebührenordnung für Zahnärzte sowie nach der Hebammenhilfe-Gebührenverordnung
   in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+jurabk: GebAV 3
 layout: default
+origslug: gebav_3
 slug: gebav_3
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik
+jurabk: VeranstMstrFortbV
 layout: default
+origslug: veranstmstrfortbv
 slug: veranstmstrfortbv
 
 ---

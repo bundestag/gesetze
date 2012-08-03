@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung über die Freigabe von Mitteln aus den Konjunkturausgleichsrücklagen
   der Haushaltsjahre 1969 und 1970
+jurabk: KonjAusglRFrV 2
 layout: default
+origslug: konjausglrfrv_2
 slug: konjausglrfrv_2
 
 ---

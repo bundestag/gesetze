@@ -1,6 +1,8 @@
 ---
 Title: Allgemeine Verordnung zum Beschussgesetz
+jurabk: BeschussV
 layout: default
+origslug: beschussv
 slug: beschussv
 
 ---

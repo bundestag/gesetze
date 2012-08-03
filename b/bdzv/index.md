@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung eines Zuschlags zu den Dienstbezügen bei begrenzter
   Dienstfähigkeit
+jurabk: BDZV
 layout: default
+origslug: bdzv
 slug: bdzv
 
 ---

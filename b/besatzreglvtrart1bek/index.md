@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung zu Artikel 1 Abs. 2 des Zehnten Teils des Vertrags zur Regelung
   aus Krieg und Besatzung entstandener Fragen
+jurabk: BesatzReglVtrArt1Bek
 layout: default
+origslug: besatzreglvtrart1bek
 slug: besatzreglvtrart1bek
 
 ---

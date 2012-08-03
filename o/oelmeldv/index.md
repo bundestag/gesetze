@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Ermittlung der zum Internationalen Entschädigungsfonds für Ölverschmutzungsschäden
   nach dem Ölschadengesetz beitragspflichtigen Ölmengen
+jurabk: ÖlmeldV
 layout: default
-slug: _lmeldv
+origslug: _lmeldv
+slug: oelmeldv
 
 ---
 

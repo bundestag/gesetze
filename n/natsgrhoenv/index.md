@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Rhön"
+jurabk: NatSGRhönV
 layout: default
-slug: natsgrh_nv
+origslug: natsgrh_nv
+slug: natsgrhoenv
 
 ---
 

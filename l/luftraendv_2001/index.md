@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Änderung luftrechtlicher Vorschriften über den Transport gefährlicher
   Güter und die Zulassung von Luftsportgeräten und Flugmodellen
+jurabk: LuftRÄndV 2001
 layout: default
-slug: luftr_ndv_2001
+origslug: luftr_ndv_2001
+slug: luftraendv_2001
 
 ---
 

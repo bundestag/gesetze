@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle
+jurabk: SymbolVO
 layout: default
+origslug: symbolvo
 slug: symbolvo
 
 ---

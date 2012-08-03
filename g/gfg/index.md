@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen
+jurabk: GFG
 layout: default
+origslug: gfg
 slug: gfg
 
 ---

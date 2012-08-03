@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
   und im fachtheoretischen Teil der Meisterprüfung für das Schuhmacher-Handwerk
+jurabk: SchuhmMstrV
 layout: default
+origslug: schuhmmstrv
 slug: schuhmmstrv
 
 ---

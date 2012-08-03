@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über energiesparenden Wärmeschutz und energiesparende Anlagentechnik
   bei Gebäuden
+jurabk: EnEV 2007
 layout: default
+origslug: enev_2007
 slug: enev_2007
 
 ---

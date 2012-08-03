@@ -1,6 +1,8 @@
 ---
 Title: Weltpostvertrag
+jurabk: WPostVtr 1999
 layout: default
+origslug: wpostvtr_1999
 slug: wpostvtr_1999
 
 ---

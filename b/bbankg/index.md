@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Deutsche Bundesbank
+jurabk: BBankG
 layout: default
+origslug: bbankg
 slug: bbankg
 
 ---

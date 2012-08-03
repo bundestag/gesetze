@@ -3,8 +3,10 @@ Verordnung über das Inverkehrbringen und Befördern von
 Wirtschaftsdünger
 ---
 Title: ''
+jurabk: WDüngV
 layout: default
-slug: wd_ngv
+origslug: wd_ngv
+slug: wduengv
 
 ---
 

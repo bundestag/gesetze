@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten
   gegenüber den Angehörigen von Japan
+jurabk: BeamtHaftJPNBek
 layout: default
+origslug: beamthaftjpnbek
 slug: beamthaftjpnbek
 
 ---

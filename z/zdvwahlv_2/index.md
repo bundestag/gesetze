@@ -1,6 +1,8 @@
 ---
 Title: Zweite Verordnung über die Wahl der Vertrauensmänner der Zivildienstleistenden
+jurabk: ZDVWahlV 2
 layout: default
+origslug: zdvwahlv_2
 slug: zdvwahlv_2
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Finanzgerichtsordnung
+jurabk: FGO
 layout: default
+origslug: fgo
 slug: fgo
 
 ---

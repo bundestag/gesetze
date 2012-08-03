@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Zivildienst der Kriegsdienstverweigerer
+jurabk: ErsDiG
 layout: default
+origslug: ersdig
 slug: ersdig
 
 ---

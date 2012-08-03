@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung über zwingende Arbeitsbedingungen für Bergbauspezialarbeiten
   auf Steinkohlebergwerken
+jurabk: BergbauArbbV 2
 layout: default
+origslug: bergbauarbbv_2
 slug: bergbauarbbv_2
 
 ---

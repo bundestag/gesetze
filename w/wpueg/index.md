@@ -1,7 +1,9 @@
 ---
 Title: Wertpapiererwerbs- und Übernahmegesetz
+jurabk: WpÜG
 layout: default
-slug: wp_g
+origslug: wp_g
+slug: wpueg
 
 ---
 

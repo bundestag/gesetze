@@ -3,7 +3,9 @@ Title: Gemeinsame Erklärung der Regierungen der Bundesrepublik Deutschland und 
   Deutschen Demokratischen Republik zur Regelung offener Vermögensfragen (Anlage III
   des Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen
   Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag)
+jurabk: RegGErkl/EinigVtr
 layout: default
+origslug: reggerkl_einigvtr
 slug: reggerkl_einigvtr
 
 ---

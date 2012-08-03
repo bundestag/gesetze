@@ -1,8 +1,10 @@
 ---
 Title: Erstes Gesetz zur Änderung des Gesetzes über die Errichtung von Rundfunkanstalten
   des Bundesrechts
+jurabk: RdFunkGÄndG 1
 layout: default
-slug: rdfunkg_ndg_1
+origslug: rdfunkg_ndg_1
+slug: rdfunkgaendg_1
 
 ---
 

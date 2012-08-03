@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Berlin-Schönefeld
+jurabk: FluLärmBerlSchV
 layout: default
-slug: flul_rmberlschv
+origslug: flul_rmberlschv
+slug: flulaermberlschv
 
 ---
 

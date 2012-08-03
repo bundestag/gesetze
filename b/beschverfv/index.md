@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Verfahren und die Zulassung von im Inland lebenden Ausländern
   zur Ausübung einer Beschäftigung
+jurabk: BeschVerfV
 layout: default
+origslug: beschverfv
 slug: beschverfv
 
 ---

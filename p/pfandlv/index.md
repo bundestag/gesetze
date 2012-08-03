@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher
+jurabk: PfandLV
 layout: default
+origslug: pfandlv
 slug: pfandlv
 
 ---

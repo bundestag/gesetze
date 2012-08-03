@@ -1,7 +1,9 @@
 ---
 Title: Europäische Übereinkommen über die Rechtshilfe in Strafsachen
+jurabk: EuRHiÜbk
 layout: default
-slug: eurhi_bk
+origslug: eurhi_bk
+slug: eurhiuebk
 
 ---
 

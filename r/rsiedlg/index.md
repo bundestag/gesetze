@@ -1,6 +1,8 @@
 ---
 Title: Reichssiedlungsgesetz
+jurabk: RSiedlG
 layout: default
+origslug: rsiedlg
 slug: rsiedlg
 
 ---

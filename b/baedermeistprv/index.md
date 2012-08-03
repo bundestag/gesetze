@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Meister für
   Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe
+jurabk: BäderMeistPrV
 layout: default
-slug: b_dermeistprv
+origslug: b_dermeistprv
+slug: baedermeistprv
 
 ---
 

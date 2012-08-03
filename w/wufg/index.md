@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Regelung der Folgen rechtswidriger Handlungen bei der Währungsumstellung
   von Mark der Deutschen Demokratischen Republik in Deutsche Mark
+jurabk: WUFG
 layout: default
+origslug: wufg
 slug: wufg
 
 ---

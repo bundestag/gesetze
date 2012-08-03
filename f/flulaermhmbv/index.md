@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Hamburg (Fuhlsbüttel)
+jurabk: FluLärmHmbV
 layout: default
-slug: flul_rmhmbv
+origslug: flul_rmhmbv
+slug: flulaermhmbv
 
 ---
 

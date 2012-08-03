@@ -1,6 +1,8 @@
 ---
 Title: Gesetz gegen mißbräuchliche Inanspruchnahme von Subventionen
+jurabk: SubvG
 layout: default
+origslug: subvg
 slug: subvg
 
 ---

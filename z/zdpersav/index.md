@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst
+jurabk: ZDPersAV
 layout: default
+origslug: zdpersav
 slug: zdpersav
 
 ---

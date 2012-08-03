@@ -4,7 +4,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Wide
   im Geschäftsbereich des  Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
   in  Angelegenheiten nach dem Bundesreisekostengesetz, der Trennungsgeldverordnung,  dem
   Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen
+jurabk: BMinUWidAnO 2007
 layout: default
+origslug: bminuwidano_2007
 slug: bminuwidano_2007
 
 ---

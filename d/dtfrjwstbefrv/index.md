@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Steuerbefreiungen an das Deutsch-Französische
   Jugendwerk
+jurabk: DtFrJWStBefrV
 layout: default
+origslug: dtfrjwstbefrv
 slug: dtfrjwstbefrv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung der Befugnisse der Einleitungsbehörde im Sinne des
   § 35 der Bundesdisziplinarordnung im Bereich der Deutschen Postbank AG
+jurabk: BDO§35DeutschePostbankAGAnO
 layout: default
+origslug: bdo_35deutschepostbankagano
 slug: bdo_35deutschepostbankagano
 
 ---

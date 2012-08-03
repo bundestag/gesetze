@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Umstellung von Schuldverhältnissen und dinglichen Rechten
   im Saarland
+jurabk: SchuldSaarUmstV
 layout: default
+origslug: schuldsaarumstv
 slug: schuldsaarumstv
 
 ---

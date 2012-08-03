@@ -4,7 +4,9 @@ Title: Verordnung zur Durchführung der Vereinbarung vom 17. September 2004 zwis
   des Innern der Tschechischen Republik über die Errichtung vorgeschobener Grenzabfertigungsstellen
   und die Bestimmung von Strecken für die Grenzabfertigung während der Fahrt in Zügen
   und auf Schiffen
+jurabk: VII041378
 layout: default
+origslug: vii041378
 slug: vii041378
 
 ---

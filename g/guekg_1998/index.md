@@ -1,7 +1,9 @@
 ---
 Title: Güterkraftverkehrsgesetz
+jurabk: GüKG 1998
 layout: default
-slug: g_kg_1998
+origslug: g_kg_1998
+slug: guekg_1998
 
 ---
 

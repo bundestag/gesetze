@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Reisekostenvergütung bei Auslandsdienstreisen
+jurabk: ARV 1991
 layout: default
+origslug: arv_1991
 slug: arv_1991
 
 ---

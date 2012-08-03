@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung des Schuldenwesens des Bundes
+jurabk: BSchuWG
 layout: default
+origslug: bschuwg
 slug: bschuwg
 
 ---

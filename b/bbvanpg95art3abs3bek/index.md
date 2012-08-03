@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung zu Artikel 3 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes
   1995
+jurabk: BBVAnpG95Art3Abs3Bek
 layout: default
+origslug: bbvanpg95art3abs3bek
 slug: bbvanpg95art3abs3bek
 
 ---

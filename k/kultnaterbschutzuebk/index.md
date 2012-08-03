@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zum Schutz des Kultur- und Naturerbes der Welt
+jurabk: KultNatErbSchutzÜbk
 layout: default
-slug: kultnaterbschutz_bk
+origslug: kultnaterbschutz_bk
+slug: kultnaterbschutzuebk
 
 ---
 

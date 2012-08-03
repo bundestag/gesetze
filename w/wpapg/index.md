@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Verwahrung und Anschaffung von Wertpapieren
+jurabk: WPapG
 layout: default
+origslug: wpapg
 slug: wpapg
 
 ---

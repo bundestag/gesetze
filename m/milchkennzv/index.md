@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kennzeichnung wärmebehandelter Konsummilch
+jurabk: MilchKennzV
 layout: default
+origslug: milchkennzv
 slug: milchkennzv
 
 ---

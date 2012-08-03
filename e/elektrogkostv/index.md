@@ -1,6 +1,8 @@
 ---
 Title: Kostenverordnung zum Elektro- und Elektronikgerätegesetz
+jurabk: ElektroGKostV
 layout: default
+origslug: elektrogkostv
 slug: elektrogkostv
 
 ---

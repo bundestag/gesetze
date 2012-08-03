@@ -1,6 +1,8 @@
 ---
 Title: Gewerbesteuer-Durchführungsverordnung
+jurabk: GewStDV 1955
 layout: default
+origslug: gewstdv_1955
 slug: gewstdv_1955
 
 ---

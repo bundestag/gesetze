@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Leistungsbezüge und Zulagen an den Universitäten der Bundeswehr
+jurabk: UniBwLeistBV
 layout: default
+origslug: unibwleistbv
 slug: unibwleistbv
 
 ---

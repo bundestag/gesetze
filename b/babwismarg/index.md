@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Bau des Abschnitts Wismar West-Wismar Ost der Bundesautobahn
   A 20 Lübeck-Bundesgrenze (A 11)
+jurabk: BABWismarG
 layout: default
+origslug: babwismarg
 slug: babwismarg
 
 ---

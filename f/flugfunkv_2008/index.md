@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Flugfunkzeugnisse
+jurabk: FlugfunkV 2008
 layout: default
+origslug: flugfunkv_2008
 slug: flugfunkv_2008
 
 ---

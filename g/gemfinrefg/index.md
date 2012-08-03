@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung der Gemeindefinanzen
+jurabk: GemFinRefG
 layout: default
+origslug: gemfinrefg
 slug: gemfinrefg
 
 ---

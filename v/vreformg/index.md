@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Umsetzung des Versorgungsberichts
+jurabk: VReformG
 layout: default
+origslug: vreformg
 slug: vreformg
 
 ---

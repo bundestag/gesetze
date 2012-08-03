@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Ausländerzentralregister
+jurabk: AZRG
 layout: default
+origslug: azrg
 slug: azrg
 
 ---

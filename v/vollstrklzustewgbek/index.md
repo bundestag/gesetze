@@ -2,7 +2,9 @@
 Title: Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel
   zu Entscheidungen von Organen der Europäischen Wirtschaftsgemeinschaft und der Europäischen
   Atomgemeinschaft
+jurabk: VollstrKlZustEWGBek
 layout: default
+origslug: vollstrklzustewgbek
 slug: vollstrklzustewgbek
 
 ---

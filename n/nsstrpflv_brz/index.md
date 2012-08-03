@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege
+jurabk: NSStRpflV BrZ
 layout: default
+origslug: nsstrpflv_brz
 slug: nsstrpflv_brz
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Kündigungsschutzgesetz
+jurabk: KSchG
 layout: default
+origslug: kschg
 slug: kschg
 
 ---

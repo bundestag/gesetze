@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten im Bereich der Deutschen
   Bundespost POSTDIENST
+jurabk: POSTDIENSTErnAnO 1991
 layout: default
+origslug: postdiensternano_1991
 slug: postdiensternano_1991
 
 ---

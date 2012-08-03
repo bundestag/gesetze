@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zum Übereinkommen Nr. 147 der Internationalen Arbeitsorganisation vom
   29. Oktober 1976 über Mindestnormen auf Handelsschiffen
+jurabk: IAOÜbk147G
 layout: default
-slug: iao_bk147g
+origslug: iao_bk147g
+slug: iaouebk147g
 
 ---
 

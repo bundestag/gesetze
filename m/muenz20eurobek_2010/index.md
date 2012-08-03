@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 20 Euro (Goldmünze „Eiche“ der Serie „Deutscher Wald“)
+jurabk: Münz20EuroBek 2010
 layout: default
-slug: m_nz20eurobek_2010
+origslug: m_nz20eurobek_2010
+slug: muenz20eurobek_2010
 
 ---
 

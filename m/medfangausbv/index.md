@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Medizinischen  Fachangestellten/zur
   Medizinischen Fachangestellten
+jurabk: MedFAngAusbV
 layout: default
+origslug: medfangausbv
 slug: medfangausbv
 
 ---

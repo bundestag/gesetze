@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4EUREKA/EFTABek
 layout: default
+origslug: wzg_4eureka_eftabek
 slug: wzg_4eureka_eftabek
 
 ---

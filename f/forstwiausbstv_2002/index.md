@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
   zum Forstwirt/zur Forstwirtin
+jurabk: ForstWiAusbStV 2002
 layout: default
+origslug: forstwiausbstv_2002
 slug: forstwiausbstv_2002
 
 ---

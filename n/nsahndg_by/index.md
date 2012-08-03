@@ -1,6 +1,8 @@
 ---
 Title: Gesetz Nr. 22 zur Ahndung nationalsozialistischer Straftaten
+jurabk: NSAhndG BY
 layout: default
+origslug: nsahndg_by
 slug: nsahndg_by
 
 ---

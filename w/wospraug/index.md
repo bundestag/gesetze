@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zur Durchführung des Sprecherausschußgesetzes
+jurabk: WOSprAuG
 layout: default
+origslug: wospraug
 slug: wospraug
 
 ---

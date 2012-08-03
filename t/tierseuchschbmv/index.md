@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das innergemeinschaftliche Verbringen sowie die Einfuhr und
   Durchfuhr von Tieren und Waren
+jurabk: TierSeuchSchBMV
 layout: default
+origslug: tierseuchschbmv
 slug: tierseuchschbmv
 
 ---

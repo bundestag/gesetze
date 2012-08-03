@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung
   einschließlich des Schutzes der Zivilbevölkerung
+jurabk: ASG
 layout: default
+origslug: asg
 slug: asg
 
 ---

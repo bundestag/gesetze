@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Zwanzigsten Rentenanpassung und zur Verbesserung der Finanzgrundlagen
   der gesetzlichen Rentenversicherung
+jurabk: RAG 20
 layout: default
+origslug: rag_20
 slug: rag_20
 
 ---

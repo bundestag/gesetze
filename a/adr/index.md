@@ -1,7 +1,9 @@
 ---
 Title: Europäisches Übereinkommen über die internationale Beförderung gefährlicher
   Güter auf der Straße
+jurabk: ADR
 layout: default
+origslug: adr
 slug: adr
 
 ---

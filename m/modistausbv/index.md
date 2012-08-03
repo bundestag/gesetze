@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Modisten/zur Modistin
+jurabk: ModistAusbV
 layout: default
+origslug: modistausbv
 slug: modistausbv
 
 ---

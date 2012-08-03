@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fischwirt
+jurabk: FischWiAusbV
 layout: default
+origslug: fischwiausbv
 slug: fischwiausbv
 
 ---

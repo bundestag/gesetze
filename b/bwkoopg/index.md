@@ -1,6 +1,8 @@
 ---
 Title: Kooperationsgesetz der Bundeswehr
+jurabk: BwKoopG
 layout: default
+origslug: bwkoopg
 slug: bwkoopg
 
 ---

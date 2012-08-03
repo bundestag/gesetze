@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Durchführung der Graduiertenförderung
+jurabk: GFDV
 layout: default
+origslug: gfdv
 slug: gfdv
 
 ---

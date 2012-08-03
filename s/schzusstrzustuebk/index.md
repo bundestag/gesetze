@@ -2,8 +2,10 @@
 Title: Internationales Übereinkommen zur Vereinheitlichung von Regeln über die strafgerichtliche
   Zuständigkeit bei Schiffszusammenstößen und anderen mit der Führung eines Seeschiffes
   zusammenhängenden Ereignissen
+jurabk: SchZusStrZustÜbk
 layout: default
-slug: schzusstrzust_bk
+origslug: schzusstrzust_bk
+slug: schzusstrzustuebk
 
 ---
 

@@ -9,7 +9,9 @@ Title: Vertrag zwischen dem Königreich Belgien, der Tschechischen Republik, dem
   dem Königreich Schweden, dem Vereinigten Königreich Großbritannien und Nordirland
   (Mitgliedstaaten der Europäischen Union) und der Republik Bulgarien und Rumänien
   über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union
+jurabk: EUBeitrVtr BGR/ROM
 layout: default
+origslug: eubeitrvtr_bgr_rom
 slug: eubeitrvtr_bgr_rom
 
 ---

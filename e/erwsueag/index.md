@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Ausführung des Haager Übereinkommens vom 13. Januar 2000 über den
   internationalen Schutz von Erwachsenen
+jurabk: ErwSÜAG
 layout: default
-slug: erws_ag
+origslug: erws_ag
+slug: erwsueag
 
 ---
 

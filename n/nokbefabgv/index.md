@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
+jurabk: NOKBefAbgV
 layout: default
+origslug: nokbefabgv
 slug: nokbefabgv
 
 ---

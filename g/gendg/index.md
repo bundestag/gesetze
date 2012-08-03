@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über genetische Untersuchungen bei Menschen
+jurabk: GenDG
 layout: default
+origslug: gendg
 slug: gendg
 
 ---

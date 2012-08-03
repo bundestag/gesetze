@@ -1,7 +1,9 @@
 ---
 Title: Erste Durchführungsverordnung zum Ersten Überleitungsgesetz
+jurabk: ÜblG1DV 1
 layout: default
-slug: _blg1dv_1
+origslug: _blg1dv_1
+slug: ueblg1dv_1
 
 ---
 

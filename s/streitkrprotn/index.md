@@ -1,6 +1,8 @@
 ---
 Title: Protokollnotiz zu Nummer 3 des Notenwechsels vom 12. September 1994
+jurabk: StreitkrProtN
 layout: default
+origslug: streitkrprotn
 slug: streitkrprotn
 
 ---

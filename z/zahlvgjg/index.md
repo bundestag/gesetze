@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Zahlungsverkehr mit Gerichten und Justizbehörden
+jurabk: ZahlVGJG
 layout: default
+origslug: zahlvgjg
 slug: zahlvgjg
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin
+jurabk: SpielzHerstAusbV
 layout: default
+origslug: spielzherstausbv
 slug: spielzherstausbv
 
 ---

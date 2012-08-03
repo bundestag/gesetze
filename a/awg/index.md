@@ -1,6 +1,8 @@
 ---
 Title: Außenwirtschaftsgesetz
+jurabk: AWG
 layout: default
+origslug: awg
 slug: awg
 
 ---

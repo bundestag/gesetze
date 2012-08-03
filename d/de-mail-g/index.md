@@ -1,6 +1,8 @@
 ---
 Title: De-Mail-Gesetz
+jurabk: De-Mail-G
 layout: default
+origslug: de-mail-g
 slug: de-mail-g
 
 ---

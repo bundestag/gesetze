@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Durchführung von Stützungsregelungen und des Integrierten
   Verwaltungs- und Kontrollsystems
+jurabk: InVeKoSV
 layout: default
+origslug: invekosv
 slug: invekosv
 
 ---

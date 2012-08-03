@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des
   ökologischen Landbaus
+jurabk: ÖkoKennzG
 layout: default
-slug: _kokennzg
+origslug: _kokennzg
+slug: oekokennzg
 
 ---
 

@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundeskanzleramtes
   in Angelegenheiten nach dem Bundesreisekostengesetz und der Auslandsreisekostenverordnung
   einschließlich der hierzu ergangenen Verwaltungsvorschriften
+jurabk: BKWid/VtrBRKGuaAnO
 layout: default
+origslug: bkwid_vtrbrkguaano
 slug: bkwid_vtrbrkguaano
 
 ---

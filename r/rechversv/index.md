@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Rechnungslegung von Versicherungsunternehmen
+jurabk: RechVersV
 layout: default
+origslug: rechversv
 slug: rechversv
 
 ---

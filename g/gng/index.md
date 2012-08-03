@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Neuordnung zentraler Einrichtungen des Gesundheitswesens
+jurabk: GNG
 layout: default
+origslug: gng
 slug: gng
 
 ---

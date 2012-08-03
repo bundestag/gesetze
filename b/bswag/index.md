@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Ausbau der Schienenwege des Bundes
+jurabk: BSWAG
 layout: default
+origslug: bswag
 slug: bswag
 
 ---

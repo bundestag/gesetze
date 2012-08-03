@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Errichtung einer Stiftung "Preußischer Kulturbesitz" und zur Übertragung
   von Vermögenswerten des ehemaligen Landes Preußen auf die Stiftung
+jurabk: PrKultbG
 layout: default
+origslug: prkultbg
 slug: prkultbg
 
 ---

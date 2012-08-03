@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Fischetikettierungsgesetzes
+jurabk: FischEtikettV
 layout: default
+origslug: fischetikettv
 slug: fischetikettv
 
 ---

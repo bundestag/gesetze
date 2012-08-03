@@ -2,7 +2,9 @@
 Title: Gesetz zur Durchführung der Verordnungen der Europäischen Gemeinschaft oder
   der Europäischen Union auf dem Gebiet der Gentechnik und über die Kennzeichnung
   ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
+jurabk: EGGenTDurchfG
 layout: default
+origslug: eggentdurchfg
 slug: eggentdurchfg
 
 ---

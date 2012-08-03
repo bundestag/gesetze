@@ -3,7 +3,9 @@ Verordnung über Anforderungen an eine nachhaltige Herstellung von
 flüssiger Biomasse zur Stromerzeugung
 ---
 Title: ''
+jurabk: BioSt-NachV
 layout: default
+origslug: biost-nachv
 slug: biost-nachv
 
 ---

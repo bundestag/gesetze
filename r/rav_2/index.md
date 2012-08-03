@@ -1,7 +1,9 @@
 ---
 Title: Zweite Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen
   in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+jurabk: RAV 2
 layout: default
+origslug: rav_2
 slug: rav_2
 
 ---

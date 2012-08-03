@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Kraftfahrzeughilfe zur beruflichen Rehabilitation
+jurabk: KfzHV
 layout: default
+origslug: kfzhv
 slug: kfzhv
 
 ---

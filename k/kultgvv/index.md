@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Verzeichnis wertvollen Kulturgutes nach dem Kulturgüterrückgabegesetz
+jurabk: KultgVV
 layout: default
+origslug: kultgvv
 slug: kultgvv
 
 ---

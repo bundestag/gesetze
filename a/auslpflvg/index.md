@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und
   Kraftfahrzeuganhänger
+jurabk: AuslPflVG
 layout: default
+origslug: auslpflvg
 slug: auslpflvg
 
 ---

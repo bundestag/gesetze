@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung der Aufnahme von Krediten durch die Treuhandanstalt
+jurabk: THAKredG
 layout: default
+origslug: thakredg
 slug: thakredg
 
 ---

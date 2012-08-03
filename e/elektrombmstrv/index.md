@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
   in den Teilen I und II der Meisterprüfung im Elektromaschinenbauer-Handwerk
+jurabk: ElektroMbMstrV
 layout: default
+origslug: elektrombmstrv
 slug: elektrombmstrv
 
 ---

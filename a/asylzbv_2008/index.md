@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Neufassung der Asylzuständigkeitsbestimmungsverordnung
+jurabk: AsylZBV 2008
 layout: default
+origslug: asylzbv_2008
 slug: asylzbv_2008
 
 ---

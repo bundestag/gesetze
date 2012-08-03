@@ -1,6 +1,8 @@
 ---
 Title: Gerichtskostengesetz
+jurabk: GKG 2004
 layout: default
+origslug: gkg_2004
 slug: gkg_2004
 
 ---

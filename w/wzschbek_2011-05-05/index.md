@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung über den Schutz von Mustern und Marken auf Ausstellungen
+jurabk: WZSchBek 2011-05-05
 layout: default
+origslug: wzschbek_2011-05-05
 slug: wzschbek_2011-05-05
 
 ---

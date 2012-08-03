@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung
   und Angleichung des Rechts der Krankenversicherung im Land Berlin
+jurabk: SKAGEG
 layout: default
+origslug: skageg
 slug: skageg
 
 ---

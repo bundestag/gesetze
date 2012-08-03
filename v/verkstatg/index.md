@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Statistik der See- und Binnenschifffahrt, des Güterkraftverkehrs,
   des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs
+jurabk: VerkStatG
 layout: default
+origslug: verkstatg
 slug: verkstatg
 
 ---

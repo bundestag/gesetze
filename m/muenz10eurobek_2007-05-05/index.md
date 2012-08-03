@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "175. Geburtstag von Wilhelm Busch")
+jurabk: Münz10EuroBek 2007-05-05
 layout: default
-slug: m_nz10eurobek_2007-05-05
+origslug: m_nz10eurobek_2007-05-05
+slug: muenz10eurobek_2007-05-05
 
 ---
 

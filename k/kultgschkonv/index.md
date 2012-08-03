@@ -1,6 +1,8 @@
 ---
 Title: Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
+jurabk: KultgSchKonv
 layout: default
+origslug: kultgschkonv
 slug: kultgschkonv
 
 ---

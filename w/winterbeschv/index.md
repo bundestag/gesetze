@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über ergänzende Leistungen zum Saison-Kurzarbeitergeld und die Aufbringung
   der erforderlichen Mittel zur Aufrechterhaltung der Beschäftigung in den Wintermonaten
+jurabk: WinterbeschV
 layout: default
+origslug: winterbeschv
 slug: winterbeschv
 
 ---

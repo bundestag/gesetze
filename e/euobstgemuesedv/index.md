@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung von EU-Sondermaßnahmen im Sektor Obst und Gemüse
+jurabk: EUObstGemüseDV
 layout: default
-slug: euobstgem_sedv
+origslug: euobstgem_sedv
+slug: euobstgemuesedv
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Mitbestimmung der Arbeitnehmer
+jurabk: MitbestG
 layout: default
+origslug: mitbestg
 slug: mitbestg
 
 ---

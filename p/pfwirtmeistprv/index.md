@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Pferdewirt
+jurabk: PfWirtMeistPrV
 layout: default
+origslug: pfwirtmeistprv
 slug: pfwirtmeistprv
 
 ---

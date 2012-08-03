@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Vereinfachung und Verbilligung der Verwaltung
+jurabk: VwVereinfG
 layout: default
+origslug: vwvereinfg
 slug: vwvereinfg
 
 ---

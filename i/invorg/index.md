@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Vorrang für Investitionen bei Rückübertragungsansprüchen nach
   dem Vermögensgesetz
+jurabk: InVorG
 layout: default
+origslug: invorg
 slug: invorg
 
 ---

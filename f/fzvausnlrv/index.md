@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur landesrechtlichen Regelung von Ausnahmen von der Fahrzeug-Zulassungsverordnung
+jurabk: FZVAusnLRV
 layout: default
+origslug: fzvausnlrv
 slug: fzvausnlrv
 
 ---

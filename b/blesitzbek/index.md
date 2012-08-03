@@ -1,7 +1,9 @@
 ---
 Title: Bekanntmachung über den Dienstsitz der Bundesanstalt für Landwirtschaft und
   Ernährung
+jurabk: BLESitzBek
 layout: default
+origslug: blesitzbek
 slug: blesitzbek
 
 ---

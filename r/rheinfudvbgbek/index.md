@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung der Regionalen Vereinbarung über den Rheinfunkdienst
+jurabk: RheinFuDVbgBek
 layout: default
+origslug: rheinfudvbgbek
 slug: rheinfudvbgbek
 
 ---

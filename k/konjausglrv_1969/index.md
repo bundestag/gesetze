@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bildung von Konjunkturausgleichsrücklagen durch Bund und
   Länder im Haushaltsjahr 1969
+jurabk: KonjAusglRV 1969
 layout: default
+origslug: konjausglrv_1969
 slug: konjausglrv_1969
 
 ---

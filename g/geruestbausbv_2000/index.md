@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Gerüstbauer/zur Gerüstbauerin
+jurabk: GerüstbAusbV 2000
 layout: default
-slug: ger_stbausbv_2000
+origslug: ger_stbausbv_2000
+slug: geruestbausbv_2000
 
 ---
 

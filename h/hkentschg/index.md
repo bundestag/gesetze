@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
+jurabk: HKEntschG
 layout: default
+origslug: hkentschg
 slug: hkentschg
 
 ---

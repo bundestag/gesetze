@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Beruf des Logopäden
+jurabk: LogopG
 layout: default
+origslug: logopg
 slug: logopg
 
 ---

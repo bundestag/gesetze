@@ -1,7 +1,9 @@
 ---
 Title: Übereinkommen zur Regelung bestimmter Fragen in bezug auf Berlin
+jurabk: BerlinÜbk
 layout: default
-slug: berlin_bk
+origslug: berlin_bk
+slug: berlinuebk
 
 ---
 

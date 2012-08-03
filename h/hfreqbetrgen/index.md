@@ -1,6 +1,8 @@
 ---
 Title: Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
+jurabk: HfreqBetrGen
 layout: default
+origslug: hfreqbetrgen
 slug: hfreqbetrgen
 
 ---

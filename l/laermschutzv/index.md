@@ -1,7 +1,9 @@
 ---
 Title: Landeplatz-Lärmschutz-Verordnung
+jurabk: LärmschutzV
 layout: default
-slug: l_rmschutzv
+origslug: l_rmschutzv
+slug: laermschutzv
 
 ---
 

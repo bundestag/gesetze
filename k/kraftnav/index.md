@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung  von
   elektrischer Energie
+jurabk: KraftNAV
 layout: default
+origslug: kraftnav
 slug: kraftnav
 
 ---

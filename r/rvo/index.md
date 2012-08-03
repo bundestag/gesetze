@@ -1,6 +1,8 @@
 ---
 Title: Reichsversicherungsordnung
+jurabk: RVO
 layout: default
+origslug: rvo
 slug: rvo
 
 ---

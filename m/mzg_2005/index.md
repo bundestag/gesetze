@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und
   den Arbeitsmarkt sowie die Wohnsituation der Haushalte
+jurabk: MZG 2005
 layout: default
+origslug: mzg_2005
 slug: mzg_2005
 
 ---

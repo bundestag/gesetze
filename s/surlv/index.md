@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über den Sonderurlaub für Bundesbeamtinnen, Bundesbeamte, Richterinnen
   und Richter des Bundes
+jurabk: SUrlV
 layout: default
+origslug: surlv
 slug: surlv
 
 ---

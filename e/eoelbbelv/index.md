@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Erfüllung der Vorratspflicht mit Beständen an Erdöl und
   Erdölerzeugnissen, die in Belgien lagern
+jurabk: EÖlBBELV
 layout: default
-slug: e_lbbelv
+origslug: e_lbbelv
+slug: eoelbbelv
 
 ---
 

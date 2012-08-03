@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Preisbindung für Bücher
+jurabk: BuchPrG
 layout: default
+origslug: buchprg
 slug: buchprg
 
 ---

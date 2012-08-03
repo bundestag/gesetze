@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung
+jurabk: BismStiftG
 layout: default
+origslug: bismstiftg
 slug: bismstiftg
 
 ---

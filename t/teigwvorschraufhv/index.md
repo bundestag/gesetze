@@ -2,7 +2,9 @@
 Title: Verordnung zur Aufhebung lebensmittelrechtlicher Vorschriften für Teigwaren
   (Artikel 2 der Verordnung zur Änderung der Aromenverordnung und zur Aufhebung lebensmittelrechtlicher
   Vorschriften für Teigwaren)
+jurabk: TeigwVorschrAufhV
 layout: default
+origslug: teigwvorschraufhv
 slug: teigwvorschraufhv
 
 ---

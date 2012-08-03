@@ -2,7 +2,9 @@
 Title: Kostenverordnung für die Registrierung homöopathischer Arzneimittel durch das
   Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz
   und Lebensmittelsicherheit
+jurabk: BGAHomAMKostV
 layout: default
+origslug: bgahomamkostv
 slug: bgahomamkostv
 
 ---

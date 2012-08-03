@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Zentrale Vorsorgeregister
+jurabk: VRegV
 layout: default
+origslug: vregv
 slug: vregv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der  Verordnung
   (EG) Nr. 648/2004 vom 31. März 2004 über Detergenzien
+jurabk: DetergKostV
 layout: default
+origslug: detergkostv
 slug: detergkostv
 
 ---

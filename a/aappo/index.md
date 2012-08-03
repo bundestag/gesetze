@@ -1,6 +1,8 @@
 ---
 Title: Approbationsordnung für Apotheker
+jurabk: AAppO
 layout: default
+origslug: aappo
 slug: aappo
 
 ---

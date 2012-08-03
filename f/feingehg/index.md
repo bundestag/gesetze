@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Feingehalt der Gold- und Silberwaren
+jurabk: FeinGehG
 layout: default
+origslug: feingehg
 slug: feingehg
 
 ---

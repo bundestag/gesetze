@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich
   des Bundesministers für Jugend, Familie und Gesundheit
+jurabk: BMJFGErnAnO 1976
 layout: default
+origslug: bmjfgernano_1976
 slug: bmjfgernano_1976
 
 ---

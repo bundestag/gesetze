@@ -1,7 +1,9 @@
 ---
 Title: Börsengesetz
+jurabk: BörsG 2007
 layout: default
-slug: b_rsg_2007
+origslug: b_rsg_2007
+slug: boersg_2007
 
 ---
 

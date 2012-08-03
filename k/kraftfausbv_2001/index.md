@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
+jurabk: KraftfAusbV 2001
 layout: default
+origslug: kraftfausbv_2001
 slug: kraftfausbv_2001
 
 ---

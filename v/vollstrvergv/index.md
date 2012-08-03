@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Vergütung für Beamte im Vollstreckungsdienst
+jurabk: VollstrVergV
 layout: default
+origslug: vollstrvergv
 slug: vollstrvergv
 
 ---

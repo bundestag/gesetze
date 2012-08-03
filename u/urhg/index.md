@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Urheberrecht und verwandte Schutzrechte
+jurabk: UrhG
 layout: default
+origslug: urhg
 slug: urhg
 
 ---

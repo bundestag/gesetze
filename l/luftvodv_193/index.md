@@ -2,7 +2,9 @@
 Title: Hundertdreiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandesplatz
   Mannheim)
+jurabk: LuftVODV 193
 layout: default
+origslug: luftvodv_193
 slug: luftvodv_193
 
 ---

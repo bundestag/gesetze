@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Bundesfreiwilligendienst
+jurabk: BFDG
 layout: default
+origslug: bfdg
 slug: bfdg
 
 ---

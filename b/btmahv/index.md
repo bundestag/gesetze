@@ -1,6 +1,8 @@
 ---
 Title: Betäubungsmittel-Außenhandelsverordnung
+jurabk: BtMAHV
 layout: default
+origslug: btmahv
 slug: btmahv
 
 ---

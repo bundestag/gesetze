@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der
   Krankenhauspflegesätze
+jurabk: KHG
 layout: default
+origslug: khg
 slug: khg
 
 ---

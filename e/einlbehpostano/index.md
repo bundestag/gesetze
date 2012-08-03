@@ -2,7 +2,9 @@
 Title: Anordnung zur Bestimmung der Einleitungsbehörden bei der Bundesanstalt für
   Post und Telekommunikation Deutsche Bundespost, der Unfallkasse Post und Telekom
   sowie der Museumsstiftung Post und Telekommunikation
+jurabk: EinlBehPostAnO
 layout: default
+origslug: einlbehpostano
 slug: einlbehpostano
 
 ---

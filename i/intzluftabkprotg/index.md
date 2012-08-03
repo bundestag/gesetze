@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7.
   Dezember 1944 über die Internationale Zivilluftfahrt (9. Änderung des Abkommens
   über die Internationale Zivilluftfahrt)
+jurabk: IntZLuftAbkProtG
 layout: default
+origslug: intzluftabkprotg
 slug: intzluftabkprotg
 
 ---

@@ -3,8 +3,10 @@ Title: Gesetz zu dem Übereinkommen der Vereinten Nationen vom 11. April 1980 ü
   Verträge über den internationalen Warenkauf sowie zur Änderung des Gesetzes zu dem
   Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr
   (CMR)
+jurabk: UNWaVtrÜbkG
 layout: default
-slug: unwavtr_bkg
+origslug: unwavtr_bkg
+slug: unwavtruebkg
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben
+jurabk: UVPBergbV
 layout: default
+origslug: uvpbergbv
 slug: uvpbergbv
 
 ---

@@ -3,7 +3,9 @@ Title: Verordnung zu der deutsch-österreichischen Vereinbarung vom 3. Juli 1996
   Juli 1996 über die Errichtung vorgeschobener deutscher Grenzdienststellen auf österreichischem
   Gebiet und vorgeschobener österreichischer Grenzdienststellen auf deutschem Gebiet
   und die zeitweilige österreichische Grenzabfertigung auf deutschem Gebiet
+jurabk: GrAbfertVbgAUTV
 layout: default
+origslug: grabfertvbgautv
 slug: grabfertvbgautv
 
 ---

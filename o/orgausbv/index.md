@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Orgel- und Harmoniumbauer/zur Orgel-
   und Harmoniumbauerin
+jurabk: OrgAusbV
 layout: default
+origslug: orgausbv
 slug: orgausbv
 
 ---

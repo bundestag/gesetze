@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Flughafen Berlin-Tegel
+jurabk: FluLärmBerl-TegelV BE
 layout: default
-slug: flul_rmberl-tegelv_be
+origslug: flul_rmberl-tegelv_be
+slug: flulaermberl-tegelv_be
 
 ---
 

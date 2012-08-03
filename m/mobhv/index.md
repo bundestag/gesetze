@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Teilnahme elektronischer Mobilitätshilfen am Verkehr
+jurabk: MobHV
 layout: default
+origslug: mobhv
 slug: mobhv
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung
   und in der Alterssicherung der Landwirte zum 1. Juli 2010
+jurabk: RWBestV 2010
 layout: default
+origslug: rwbestv_2010
 slug: rwbestv_2010
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk
   für behinderte Kinder"
+jurabk: HiWerkBehKGÄndG
 layout: default
-slug: hiwerkbehkg_ndg
+origslug: hiwerkbehkg_ndg
+slug: hiwerkbehkgaendg
 
 ---
 

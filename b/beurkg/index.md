@@ -1,6 +1,8 @@
 ---
 Title: Beurkundungsgesetz
+jurabk: BeurkG
 layout: default
+origslug: beurkg
 slug: beurkg
 
 ---

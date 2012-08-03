@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berichterstattung von Pensionsfonds gegenüber der Bundesanstalt
   für Finanzdienstleistungsaufsicht
+jurabk: BerPensV
 layout: default
+origslug: berpensv
 slug: berpensv
 
 ---

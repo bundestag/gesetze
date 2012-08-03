@@ -1,6 +1,8 @@
 ---
 Title: Luftsicherheitsgebührenverordnung
+jurabk: LuftSiGebV
 layout: default
+origslug: luftsigebv
 slug: luftsigebv
 
 ---

@@ -4,8 +4,10 @@ Title: Vertrag zwischen dem Königreich Belgien, der Bundesrepublik Deutschland,
   Königreich der Niederlande und der Republik Österreich über die Vertiefung der grenzüberschreitenden
   Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus, der grenzüberschreitenden
   Kriminalität und der illegalen Migration
+jurabk: PrümVtr
 layout: default
-slug: pr_mvtr
+origslug: pr_mvtr
+slug: pruemvtr
 
 ---
 

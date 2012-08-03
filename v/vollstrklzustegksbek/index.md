@@ -2,7 +2,9 @@
 Title: Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel
   zu Entscheidungen der Hohen Behörde und des Gerichtshofes der Europäischen Gemeinschaft
   für Kohle und Stahl
+jurabk: VollstrKlZustEGKSBek
 layout: default
+origslug: vollstrklzustegksbek
 slug: vollstrklzustegksbek
 
 ---

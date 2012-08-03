@@ -1,7 +1,9 @@
 ---
 Title: Vierte Verordnung über zwingende Arbeitsbedingungen für die Abfallwirtschaft
   einschließlich Straßenreinigung und Winterdienst
+jurabk: AbfallArbbV 4
 layout: default
+origslug: abfallarbbv_4
 slug: abfallarbbv_4
 
 ---

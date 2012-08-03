@@ -1,6 +1,8 @@
 ---
 Title: Pflanzenbeschauverordnung
+jurabk: PflBeschauV 1989
 layout: default
+origslug: pflbeschauv_1989
 slug: pflbeschauv_1989
 
 ---

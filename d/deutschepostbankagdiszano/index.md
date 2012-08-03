@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der
   Deutschen Postbank AG
+jurabk: DeutschePostbankAGDiszAnO
 layout: default
+origslug: deutschepostbankagdiszano
 slug: deutschepostbankagdiszano
 
 ---

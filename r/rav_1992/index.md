@@ -3,7 +3,9 @@ Title: Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik Deutschl
   ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre 1992 und zur
   vierten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten
   Gebiet
+jurabk: RAV 1992
 layout: default
+origslug: rav_1992
 slug: rav_1992
 
 ---

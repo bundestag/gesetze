@@ -2,7 +2,9 @@
 Title: Zweihunderteinundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
   (Festlegung von Meldepunkten, Streckenführungen und Reiseflughöhen für Flüge nach
   Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland)
+jurabk: LuftVODV 221
 layout: default
+origslug: luftvodv_221
 slug: luftvodv_221
 
 ---

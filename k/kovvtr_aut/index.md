@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich
   über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
+jurabk: KOVVtr AUT
 layout: default
+origslug: kovvtr_aut
 slug: kovvtr_aut
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten
   des Verfassungsschutzes und über das Bundesamt für Verfassungsschutz
+jurabk: BVerfSchG
 layout: default
+origslug: bverfschg
 slug: bverfschg
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen
   Berlin-Tempelhof
+jurabk: FluLärmTempV
 layout: default
-slug: flul_rmtempv
+origslug: flul_rmtempv
+slug: flulaermtempv
 
 ---
 

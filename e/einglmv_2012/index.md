@@ -2,7 +2,9 @@
 Title: Verordnung über andere und ergänzende Maßstäbe für die Verteilung der Mittel
   für Leistungen zur Eingliederung in Arbeit und der Verwaltungskosten der Grundsicherung
   für Arbeitsuchende im Jahr 2012
+jurabk: EinglMV 2012
 layout: default
+origslug: einglmv_2012
 slug: einglmv_2012
 
 ---

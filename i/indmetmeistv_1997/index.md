@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister/Geprüfte
   Industriemeisterin - Fachrichtung Metall
+jurabk: IndMetMeistV 1997
 layout: default
+origslug: indmetmeistv_1997
 slug: indmetmeistv_1997
 
 ---

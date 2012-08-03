@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
+jurabk: EBPensNOG
 layout: default
+origslug: ebpensnog
 slug: ebpensnog
 
 ---

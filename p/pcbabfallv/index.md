@@ -3,7 +3,9 @@ Title: Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierte
   und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung
   polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane
   und zur Änderung chemikalienrechtlicher Vorschriften)
+jurabk: PCBAbfallV
 layout: default
+origslug: pcbabfallv
 slug: pcbabfallv
 
 ---

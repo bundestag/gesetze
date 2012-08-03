@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Errichtung einer "Stiftung Jüdisches Museum Berlin"
+jurabk: JMBStiftG
 layout: default
+origslug: jmbstiftg
 slug: jmbstiftg
 
 ---

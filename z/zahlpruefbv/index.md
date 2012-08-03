@@ -1,8 +1,10 @@
 ---
 Title: Verordnung über die Prüfung der Jahresabschlüsse der Zahlungsinstitute sowie
   die darüber zu erstellenden Berichte
+jurabk: ZahlPrüfbV
 layout: default
-slug: zahlpr_fbv
+origslug: zahlpr_fbv
+slug: zahlpruefbv
 
 ---
 

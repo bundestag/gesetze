@@ -2,7 +2,9 @@
 Title: Zweites Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten
   Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher
   Dollarbonds ergeben
+jurabk: DollBBerAbk 2
 layout: default
+origslug: dollbberabk_2
 slug: dollbberabk_2
 
 ---

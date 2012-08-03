@@ -1,6 +1,8 @@
 ---
 Title: Biersteuergesetz
+jurabk: BierStG 2009
 layout: default
+origslug: bierstg_2009
 slug: bierstg_2009
 
 ---

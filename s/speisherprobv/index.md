@@ -3,7 +3,9 @@ Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs
 Speiseeishersteller/Speiseeisherstellerin
 ---
 Title: ''
+jurabk: SpEisHErprobV
 layout: default
+origslug: speisherprobv
 slug: speisherprobv
 
 ---

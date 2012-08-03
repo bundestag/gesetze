@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die pauschalierten Nettoentgelte für das Kurzarbeitergeld für
   das Jahr 2012
+jurabk: SGB3EntgV 2012
 layout: default
+origslug: sgb3entgv_2012
 slug: sgb3entgv_2012
 
 ---

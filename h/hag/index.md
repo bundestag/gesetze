@@ -1,6 +1,8 @@
 ---
 Title: Heimarbeitsgesetz
+jurabk: HAG
 layout: default
+origslug: hag
 slug: hag
 
 ---

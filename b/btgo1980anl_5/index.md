@@ -1,7 +1,9 @@
 ---
 Title: Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anlage
   5 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
+jurabk: BTGO1980Anl 5
 layout: default
+origslug: btgo1980anl_5
 slug: btgo1980anl_5
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Eichung von Binnenschiffen
+jurabk: BinSchEO
 layout: default
+origslug: binscheo
 slug: binscheo
 
 ---

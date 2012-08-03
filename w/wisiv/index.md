@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen
   Wirtschaft
+jurabk: WiSiV
 layout: default
+origslug: wisiv
 slug: wisiv
 
 ---

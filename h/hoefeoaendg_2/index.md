@@ -1,7 +1,9 @@
 ---
 Title: Zweites Gesetz zur Änderung der Höfeordnung
+jurabk: HöfeOÄndG 2
 layout: default
-slug: h_feo_ndg_2
+origslug: h_feo_ndg_2
+slug: hoefeoaendg_2
 
 ---
 

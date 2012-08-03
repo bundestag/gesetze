@@ -4,8 +4,10 @@ Title: Gesetz zu den Änderungen vom 22. November 1980, 13. August 1982, 15. Jul
   Januar 1985 der Anlage 3 des Übereinkommens vom 1. September 1970 über internationale
   Beförderungen leicht verderblicher Lebensmittel und über die besonderen Beförderungsmittel,
   die für diese Beförderungen zu verwenden sind
+jurabk: ATPAnl1/3ÄndG
 layout: default
-slug: atpanl1_3_ndg
+origslug: atpanl1_3_ndg
+slug: atpanl1_3aendg
 
 ---
 

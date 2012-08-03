@@ -4,7 +4,9 @@ Title: Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des N
   Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der
   Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen
   militärischen Hauptquartiere
+jurabk: TrZollG
 layout: default
+origslug: trzollg
 slug: trzollg
 
 ---

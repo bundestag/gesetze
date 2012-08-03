@@ -1,7 +1,9 @@
 ---
 Title: Gesetz betreffend die Überleitung von Hypotheken des früheren Rechts
+jurabk: HypÜberlG
 layout: default
-slug: hyp_berlg
+origslug: hyp_berlg
+slug: hypueberlg
 
 ---
 

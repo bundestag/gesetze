@@ -2,7 +2,9 @@
 Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für
   das Holz und Elfenbein verarbeitende Handwerk in  Michelstadt mit den Zeugnissen
   über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
+jurabk: GlPrZMichelstadtV
 layout: default
+origslug: glprzmichelstadtv
 slug: glprzmichelstadtv
 
 ---

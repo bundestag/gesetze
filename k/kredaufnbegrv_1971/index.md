@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Begrenzung der Kreditaufnahme durch Bund und Länder im
   Haushaltsjahr 1971
+jurabk: KredAufnBegrV 1971
 layout: default
+origslug: kredaufnbegrv_1971
 slug: kredaufnbegrv_1971
 
 ---

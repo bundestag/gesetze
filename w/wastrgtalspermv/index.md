@@ -2,7 +2,9 @@
 Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen
   nach dem Bundeswasserstraßengesetz über die Zulassung des Befahrens von Talsperren
   und Speicherbecken mit Wasserfahrzeugen
+jurabk: WaStrGTalspErmV
 layout: default
+origslug: wastrgtalspermv
 slug: wastrgtalspermv
 
 ---

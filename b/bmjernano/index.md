@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich
   des Bundesministers der Justiz
+jurabk: BMJErnAnO
 layout: default
+origslug: bmjernano
 slug: bmjernano
 
 ---

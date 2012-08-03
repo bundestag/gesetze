@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Griechenland
   über Soziale Sicherheit
+jurabk: SozSichAbk GRC
 layout: default
+origslug: sozsichabk_grc
 slug: sozsichabk_grc
 
 ---

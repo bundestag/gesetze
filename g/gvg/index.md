@@ -1,6 +1,8 @@
 ---
 Title: Gerichtsverfassungsgesetz
+jurabk: GVG
 layout: default
+origslug: gvg
 slug: gvg
 
 ---

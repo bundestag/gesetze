@@ -1,6 +1,8 @@
 ---
 Title: Einfuhr-Verbrauchsteuerbefreiungsverordnung
+jurabk: EVerbrStBV 1999
 layout: default
+origslug: everbrstbv_1999
 slug: everbrstbv_1999
 
 ---

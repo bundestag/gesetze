@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über das Register anonymer und pseudonymer Werke
+jurabk: UrhRollV
 layout: default
+origslug: urhrollv
 slug: urhrollv
 
 ---

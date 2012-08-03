@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Wehrdisziplinarrechts
+jurabk: WDNeuOG
 layout: default
+origslug: wdneuog
 slug: wdneuog
 
 ---

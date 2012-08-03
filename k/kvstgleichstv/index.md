@@ -2,7 +2,9 @@
 Title: Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europäischen
   Gemeinschaft für Kohle und Stahl, der Europäischen Atomgemeinschaft und der Europäischen
   Investitionsbank mit dem Bund
+jurabk: KVStGleichstV
 layout: default
+origslug: kvstgleichstv
 slug: kvstgleichstv
 
 ---

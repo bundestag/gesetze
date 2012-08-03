@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Schuhmacher/zur Schuhmacherin
+jurabk: SchuhmAusbV 2004
 layout: default
+origslug: schuhmausbv_2004
 slug: schuhmausbv_2004
 
 ---

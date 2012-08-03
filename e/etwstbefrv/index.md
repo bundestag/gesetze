@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Steuerbefreiungen für die European Transsonic
   Windtunnel GmbH
+jurabk: ETWStBefrV
 layout: default
+origslug: etwstbefrv
 slug: etwstbefrv
 
 ---

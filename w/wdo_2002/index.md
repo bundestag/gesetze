@@ -1,6 +1,8 @@
 ---
 Title: Wehrdisziplinarordnung
+jurabk: WDO 2002
 layout: default
+origslug: wdo_2002
 slug: wdo_2002
 
 ---

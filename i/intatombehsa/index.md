@@ -1,6 +1,8 @@
 ---
 Title: Satzung der Internationalen Atomenergie-Behörde
+jurabk: IntAtomBehSa
 layout: default
+origslug: intatombehsa
 slug: intatombehsa
 
 ---

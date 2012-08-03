@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen
+jurabk: BaustellV
 layout: default
+origslug: baustellv
 slug: baustellv
 
 ---

@@ -3,7 +3,9 @@ Verordnung über die Berufsausbildung zum Medientechnologen Druck und
 zur Medientechnologin Druck
 ---
 Title: ''
+jurabk: DruckerAusbV 2011
 layout: default
+origslug: druckerausbv_2011
 slug: druckerausbv_2011
 
 ---

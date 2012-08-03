@@ -2,7 +2,9 @@
 Title: Gesetz zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik
   Deutschland" (Artikel 1 d. Gesetzes zur Errichtung einer Stiftung "Haus der Geschichte
   der Bundesrepublik Deutschland")
+jurabk: HdGStiftG
 layout: default
+origslug: hdgstiftg
 slug: hdgstiftg
 
 ---

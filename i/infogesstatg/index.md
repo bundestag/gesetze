@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik zur Informationsgesellschaft
+jurabk: InfoGesStatG
 layout: default
+origslug: infogesstatg
 slug: infogesstatg
 
 ---

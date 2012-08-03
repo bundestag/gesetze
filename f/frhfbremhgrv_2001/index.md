@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Grenze des Freihafens Bremerhaven
+jurabk: FrHfBremhGrV 2001
 layout: default
+origslug: frhfbremhgrv_2001
 slug: frhfbremhgrv_2001
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Schaumwein- und Zwischenerzeugnissteuergesetz
+jurabk: SchaumwZwStG 2009
 layout: default
+origslug: schaumwzwstg_2009
 slug: schaumwzwstg_2009
 
 ---

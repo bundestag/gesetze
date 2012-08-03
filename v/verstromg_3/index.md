@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die weitere Sicherung des Einsatzes von Gemeinschaftskohle in der
   Elektrizitätswirtschaft
+jurabk: VerstromG 3
 layout: default
+origslug: verstromg_3
 slug: verstromg_3
 
 ---

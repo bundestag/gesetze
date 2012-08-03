@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Tierpfleger/zur Tierpflegerin
+jurabk: TierpflAusbV 2003
 layout: default
+origslug: tierpflausbv_2003
 slug: tierpflausbv_2003
 
 ---

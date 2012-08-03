@@ -3,7 +3,9 @@ Title: Verordnung über die Beteiligung des Rates, der Kommission und der Behör
   der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens
   über den Europäischen Wirtschaftsraum im Verfahren zur Genehmigung von Freisetzungen
   und Inverkehrbringen sowie im Verfahren bei nachträglichen Maßnahmen nach dem Gentechnikgesetz
+jurabk: GenTBetV
 layout: default
+origslug: gentbetv
 slug: gentbetv
 
 ---

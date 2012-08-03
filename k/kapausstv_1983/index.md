@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Kapitalausstattung von Versicherungsunternehmen
+jurabk: KapAusstV 1983
 layout: default
+origslug: kapausstv_1983
 slug: kapausstv_1983
 
 ---

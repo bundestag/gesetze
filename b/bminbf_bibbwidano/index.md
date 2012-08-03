@@ -4,7 +4,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   für Bildung und Forschung und des Bundesinstituts für Berufsbildung in Angelegenheiten
   nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung
   in Verbindung mit dem Dienstrechtlichen Begleitgesetz
+jurabk: BMinBF/BIBBWidAnO
 layout: default
+origslug: bminbf_bibbwidano
 slug: bminbf_bibbwidano
 
 ---

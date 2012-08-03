@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft
+jurabk: PfandBrAUmwG
 layout: default
+origslug: pfandbraumwg
 slug: pfandbraumwg
 
 ---

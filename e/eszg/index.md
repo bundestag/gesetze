@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über eine einmalige Sonderzahlung
+jurabk: ESZG
 layout: default
+origslug: eszg
 slug: eszg
 
 ---

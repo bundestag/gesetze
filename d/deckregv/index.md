@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Form und den Inhalt der Deckungsregister nach dem Pfandbriefgesetz
   und die Aufzeichnung der Eintragungen
+jurabk: DeckRegV
 layout: default
+origslug: deckregv
 slug: deckregv
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der
   Schiffsleute
+jurabk: HeuerVtrÜbkG
 layout: default
-slug: heuervtr_bkg
+origslug: heuervtr_bkg
+slug: heuervtruebkg
 
 ---
 

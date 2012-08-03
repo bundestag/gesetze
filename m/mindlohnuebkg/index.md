@@ -1,8 +1,10 @@
 ---
 Title: Gesetz betreffend das Internationale Übereinkommen über die Einrichtung von
   Verfahren zur Festsetzung von Mindestlöhnen
+jurabk: MindlohnÜbkG
 layout: default
-slug: mindlohn_bkg
+origslug: mindlohn_bkg
+slug: mindlohnuebkg
 
 ---
 

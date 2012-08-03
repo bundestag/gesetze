@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über bestimmte alkoholhaltige Getränke
+jurabk: SpiritV
 layout: default
+origslug: spiritv
 slug: spiritv
 
 ---

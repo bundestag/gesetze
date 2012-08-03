@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über nicht überführte Leistungen der Sonderversorgungssysteme der
   DDR
+jurabk: SVersLV
 layout: default
+origslug: sverslv
 slug: sverslv
 
 ---

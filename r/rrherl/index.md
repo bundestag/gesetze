@@ -1,7 +1,9 @@
 ---
 Title: Erlaß über die Ernennung der Beamten und die Beendigung des Beamtenverhältnisses
   im Geschäftsbereich des Rechnungshofs des Deutschen Reichs
+jurabk: RRHErl
 layout: default
+origslug: rrherl
 slug: rrherl
 
 ---

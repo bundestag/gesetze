@@ -1,6 +1,8 @@
 ---
 Title: Gebrauchsmustergesetz
+jurabk: GebrMG
 layout: default
+origslug: gebrmg
 slug: gebrmg
 
 ---

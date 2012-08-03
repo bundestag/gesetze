@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zum vorsorgenden Schutz der Bevölkerung gegen Strahlenbelastung
+jurabk: StrVG
 layout: default
+origslug: strvg
 slug: strvg
 
 ---

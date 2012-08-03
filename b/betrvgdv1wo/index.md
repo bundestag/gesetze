@@ -1,7 +1,9 @@
 ---
 Title: Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes (Wahlordnung
   - WO)
+jurabk: BetrVGDV1WO
 layout: default
+origslug: betrvgdv1wo
 slug: betrvgdv1wo
 
 ---

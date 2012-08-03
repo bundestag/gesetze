@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Verkehr mit Milch, Milcherzeugnissen und Fetten
+jurabk: MilchFettG
 layout: default
+origslug: milchfettg
 slug: milchfettg
 
 ---

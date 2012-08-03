@@ -1,6 +1,8 @@
 ---
 Title: Gesetz betreffend die Gesellschaften mit beschränkter Haftung
+jurabk: GmbHG
 layout: default
+origslug: gmbhg
 slug: gmbhg
 
 ---

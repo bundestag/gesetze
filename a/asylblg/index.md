@@ -1,6 +1,8 @@
 ---
 Title: Asylbewerberleistungsgesetz
+jurabk: AsylbLG
 layout: default
+origslug: asylblg
 slug: asylblg
 
 ---

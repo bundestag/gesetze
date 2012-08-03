@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Prämien für die Rodung von Apfel-, Birn-
   und Pfirsichbäumen
+jurabk: ObstbRodV
 layout: default
+origslug: obstbrodv
 slug: obstbrodv
 
 ---

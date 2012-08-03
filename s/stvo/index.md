@@ -1,6 +1,8 @@
 ---
 Title: Straßenverkehrs-Ordnung
+jurabk: StVO
 layout: default
+origslug: stvo
 slug: stvo
 
 ---

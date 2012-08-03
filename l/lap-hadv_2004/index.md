@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Auswärtigen
   Dienst
+jurabk: LAP-hADV 2004
 layout: default
+origslug: lap-hadv_2004
 slug: lap-hadv_2004
 
 ---

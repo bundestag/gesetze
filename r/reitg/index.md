@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen
+jurabk: REITG
 layout: default
+origslug: reitg
 slug: reitg
 
 ---

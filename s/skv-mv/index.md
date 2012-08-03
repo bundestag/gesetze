@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über Inhalt, Form und Frist der Meldungen sowie das Meldeverfahren
   für die Krankenversicherung der Studenten
+jurabk: SKV-MV
 layout: default
+origslug: skv-mv
 slug: skv-mv
 
 ---

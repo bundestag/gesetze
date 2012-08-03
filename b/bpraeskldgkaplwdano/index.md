@@ -2,8 +2,10 @@
 Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
   der beamteten Kapitäne im nautischen Dienst der landwirtschaftlichen Verwaltung
   des Bundes
+jurabk: BPräsKldgKapLwDAnO
 layout: default
-slug: bpr_skldgkaplwdano
+origslug: bpr_skldgkaplwdano
+slug: bpraeskldgkaplwdano
 
 ---
 

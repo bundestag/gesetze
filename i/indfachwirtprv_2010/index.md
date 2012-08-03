@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
   Industriefachwirt und Geprüfte Industriefachwirtin
+jurabk: IndFachwirtPrV 2010
 layout: default
+origslug: indfachwirtprv_2010
 slug: indfachwirtprv_2010
 
 ---

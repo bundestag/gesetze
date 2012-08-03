@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen
+jurabk: JAbschlWUV
 layout: default
+origslug: jabschlwuv
 slug: jabschlwuv
 
 ---

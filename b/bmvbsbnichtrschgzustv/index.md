@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz
   im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+jurabk: BMVBSBNichtrSchGZustV
 layout: default
+origslug: bmvbsbnichtrschgzustv
 slug: bmvbsbnichtrschgzustv
 
 ---

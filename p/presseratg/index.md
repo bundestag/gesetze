@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Gewährleistung der Unabhängigkeit des vom Deutschen Presserat eingesetzten
   Beschwerdeausschusses
+jurabk: PresseratG
 layout: default
+origslug: presseratg
 slug: presseratg
 
 ---

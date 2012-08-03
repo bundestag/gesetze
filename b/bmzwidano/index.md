@@ -3,7 +3,9 @@ Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Wider
   und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz
   einschließlich der hierzu ergangenen Trennungsgeldverordnung von Beschäftigten des
   Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
+jurabk: BMZWidAnO
 layout: default
+origslug: bmzwidano
 slug: bmzwidano
 
 ---

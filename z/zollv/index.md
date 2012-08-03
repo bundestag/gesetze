@@ -1,6 +1,8 @@
 ---
 Title: Zollverordnung
+jurabk: ZollV
 layout: default
+origslug: zollv
 slug: zollv
 
 ---

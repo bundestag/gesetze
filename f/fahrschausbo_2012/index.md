@@ -1,6 +1,8 @@
 ---
 Title: Fahrschüler-Ausbildungsordnung
+jurabk: FahrschAusbO 2012
 layout: default
+origslug: fahrschausbo_2012
 slug: fahrschausbo_2012
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten
+jurabk: HeizkostenV
 layout: default
+origslug: heizkostenv
 slug: heizkostenv
 
 ---

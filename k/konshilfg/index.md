@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Gewährung von Konsolidierungshilfen
+jurabk: KonsHilfG
 layout: default
+origslug: konshilfg
 slug: konshilfg
 
 ---

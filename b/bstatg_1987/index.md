@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Statistik für Bundeszwecke
+jurabk: BStatG 1987
 layout: default
+origslug: bstatg_1987
 slug: bstatg_1987
 
 ---

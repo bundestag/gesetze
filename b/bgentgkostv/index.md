@@ -1,6 +1,8 @@
 ---
 Title: Bundeskostenverordnung zum Gentechnikgesetz
+jurabk: BGenTGKostV
 layout: default
+origslug: bgentgkostv
 slug: bgentgkostv
 
 ---

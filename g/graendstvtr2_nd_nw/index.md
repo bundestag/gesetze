@@ -1,8 +1,10 @@
 ---
 Title: Zweiter Staatsvertrag zwischen den Ländern Niedersachsen und Nordrhein-Westfalen
   über Änderungen der gemeinsamen Landesgrenze
+jurabk: GrÄndStVtr2 ND/NW
 layout: default
-slug: gr_ndstvtr2_nd_nw
+origslug: gr_ndstvtr2_nd_nw
+slug: graendstvtr2_nd_nw
 
 ---
 

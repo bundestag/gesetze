@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über bauliche Mindestanforderungen für Altenheime, Altenwohnheime
   und Pflegeheime für Volljährige
+jurabk: HeimMindBauV
 layout: default
+origslug: heimmindbauv
 slug: heimmindbauv
 
 ---

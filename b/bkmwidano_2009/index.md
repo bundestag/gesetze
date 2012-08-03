@@ -3,7 +3,9 @@ Title: Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlas
   Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
   im Geschäftsbereich der oder des Beauftragten der Bundesregierung für Kultur und
   Medien
+jurabk: BKMWidAnO 2009
 layout: default
+origslug: bkmwidano_2009
 slug: bkmwidano_2009
 
 ---

@@ -2,7 +2,9 @@
 Title: Gesetz über die allgemeine und die repräsentative Wahlstatistik bei der Wahl
   zum Deutschen Bundestag und bei der Wahl der Abgeordneten des Europäischen Parlaments
   aus der Bundesrepublik Deutschland
+jurabk: WStatG
 layout: default
+origslug: wstatg
 slug: wstatg
 
 ---

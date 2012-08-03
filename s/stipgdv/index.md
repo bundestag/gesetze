@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung des Stipendienprogramm-Gesetzes
+jurabk: StipGDV
 layout: default
+origslug: stipgdv
 slug: stipgdv
 
 ---

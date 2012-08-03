@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen zur Vereinheitlichung bestimmter Vorschriften über die Beförderung
   im internationalen Luftverkehr
+jurabk: MontrÜbk
 layout: default
-slug: montr_bk
+origslug: montr_bk
+slug: montruebk
 
 ---
 

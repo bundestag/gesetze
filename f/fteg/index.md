@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen
+jurabk: FTEG
 layout: default
+origslug: fteg
 slug: fteg
 
 ---

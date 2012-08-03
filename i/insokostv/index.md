@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Pauschalierung der sonstigen Kosten für die Erbringung
   von Insolvenzgeld
+jurabk: InsoKostV
 layout: default
+origslug: insokostv
 slug: insokostv
 
 ---

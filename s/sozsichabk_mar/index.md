@@ -1,7 +1,9 @@
 ---
 Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Marokko
   über Soziale Sicherheit
+jurabk: SozSichAbk MAR
 layout: default
+origslug: sozsichabk_mar
 slug: sozsichabk_mar
 
 ---

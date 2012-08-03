@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Einrichtung des Deutschen Ethikrats
+jurabk: EthRG
 layout: default
+origslug: ethrg
 slug: ethrg
 
 ---

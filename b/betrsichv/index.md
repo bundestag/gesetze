@@ -2,7 +2,9 @@
 Title: Verordnung über Sicherheit und Gesundheitsschutz bei der Bereitstellung von
   Arbeitsmitteln und deren Benutzung bei der Arbeit, über Sicherheit beim Betrieb
   überwachungsbedürftiger Anlagen und über die Organisation des betrieblichen Arbeitsschutzes
+jurabk: BetrSichV
 layout: default
+origslug: betrsichv
 slug: betrsichv
 
 ---

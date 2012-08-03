@@ -1,7 +1,9 @@
 Verfahrensvorschriften für die Durchführung von Untersuchungen
 ---
 Title: (Anhang VIII zur Binnenschiffsuntersuchungsordnung)
+jurabk: BinSchUO2008Anh VIII
 layout: default
+origslug: binschuo2008anh_viii
 slug: binschuo2008anh_viii
 
 ---

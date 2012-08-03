@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4INTERELEKTROBek
 layout: default
+origslug: wzg_4interelektrobek
 slug: wzg_4interelektrobek
 
 ---

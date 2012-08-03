@@ -1,6 +1,8 @@
 ---
 Title: Post-Entgeltregulierungsverordnung
+jurabk: PEntgV
 layout: default
+origslug: pentgv
 slug: pentgv
 
 ---

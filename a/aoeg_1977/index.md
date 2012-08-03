@@ -1,6 +1,8 @@
 ---
 Title: Einführungsgesetz zur Abgabenordnung
+jurabk: AOEG 1977
 layout: default
+origslug: aoeg_1977
 slug: aoeg_1977
 
 ---

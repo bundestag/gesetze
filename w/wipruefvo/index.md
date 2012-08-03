@@ -1,8 +1,10 @@
 ---
 Title: Verordnung zur Geschäftsführung der Prüfungsstellen und der Beschwerdeausschüsse
   nach § 106 Abs. 4a des Fünften Buches Sozialgesetzbuch
+jurabk: WiPrüfVO
 layout: default
-slug: wipr_fvo
+origslug: wipr_fvo
+slug: wipruefvo
 
 ---
 

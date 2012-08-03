@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der
   Zuteilungsperiode 2005 bis 2007
+jurabk: ZuV 2007
 layout: default
+origslug: zuv_2007
 slug: zuv_2007
 
 ---

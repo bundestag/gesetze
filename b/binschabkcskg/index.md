@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 26. Januar 1988 zwischen der Regierung der Bundesrepublik
   Deutschland und der Regierung der Tschechoslowakischen Sozialistischen Republik
   über den Binnenschiffsverkehr
+jurabk: BinSchAbkCSKG
 layout: default
+origslug: binschabkcskg
 slug: binschabkcskg
 
 ---

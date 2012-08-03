@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Beleihung der Zulassungsstelle nach dem Umweltauditgesetz
+jurabk: UAGBV
 layout: default
+origslug: uagbv
 slug: uagbv
 
 ---

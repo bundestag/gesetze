@@ -3,8 +3,10 @@ Title: Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deuts
   und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A
   6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung
   einer Grenzbrücke
+jurabk: ABZusGrBrückVtrCESG
 layout: default
-slug: abzusgrbr_ckvtrcesg
+origslug: abzusgrbr_ckvtrcesg
+slug: abzusgrbrueckvtrcesg
 
 ---
 

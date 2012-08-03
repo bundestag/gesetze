@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Bekämpfung der Schwarzarbeit und illegalen Beschäftigung
+jurabk: SchwarzArbG 2004
 layout: default
+origslug: schwarzarbg_2004
 slug: schwarzarbg_2004
 
 ---

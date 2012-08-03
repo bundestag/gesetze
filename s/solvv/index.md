@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die angemessene Eigenmittelausstattung von Instituten, Institutsgruppen
   und Finanzholding-Gruppen
+jurabk: SolvV
 layout: default
+origslug: solvv
 slug: solvv
 
 ---

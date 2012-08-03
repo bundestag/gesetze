@@ -1,7 +1,9 @@
 ---
 Title: Paßgesetz
+jurabk: PaßG 1986
 layout: default
-slug: pa_g_1986
+origslug: pa_g_1986
+slug: passg_1986
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zum Filmförderungsgesetz
+jurabk: FFGV 1993
 layout: default
+origslug: ffgv_1993
 slug: ffgv_1993
 
 ---

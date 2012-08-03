@@ -2,7 +2,9 @@
 Title: Verordnung zur Aussetzung statistischer Erhebungen im Bereich der Jugendhilfe
   im Jahre 1985 nach dem Gesetz über die Durchführung von Statistiken auf dem Gebiet
   der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe
+jurabk: SHStatG1985AussV
 layout: default
+origslug: shstatg1985aussv
 slug: shstatg1985aussv
 
 ---

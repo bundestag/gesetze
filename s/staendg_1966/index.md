@@ -1,8 +1,10 @@
 ---
 Title: Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige
   Finanzplanung
+jurabk: StÄndG 1966
 layout: default
-slug: st_ndg_1966
+origslug: st_ndg_1966
+slug: staendg_1966
 
 ---
 

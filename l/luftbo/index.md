@@ -1,6 +1,8 @@
 ---
 Title: Betriebsordnung für Luftfahrtgerät
+jurabk: LuftBO
 layout: default
+origslug: luftbo
 slug: luftbo
 
 ---

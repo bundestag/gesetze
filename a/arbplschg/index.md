@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst
+jurabk: ArbPlSchG
 layout: default
+origslug: arbplschg
 slug: arbplschg
 
 ---

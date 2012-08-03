@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken für das Verbraucherinsolvenzverfahren
   und das Restschuldbefreiungsverfahren
+jurabk: VbrInsVV
 layout: default
+origslug: vbrinsvv
 slug: vbrinsvv
 
 ---

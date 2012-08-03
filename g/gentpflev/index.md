@@ -3,7 +3,9 @@ Verordnung über die gute fachliche Praxis bei der Erzeugung
 gentechnisch veränderter Pflanzen
 ---
 Title: ''
+jurabk: GenTPflEV
 layout: default
+origslug: gentpflev
 slug: gentpflev
 
 ---

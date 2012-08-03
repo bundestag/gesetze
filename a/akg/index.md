@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen
   Reiches entstandener Schäden
+jurabk: AKG
 layout: default
+origslug: akg
 slug: akg
 
 ---

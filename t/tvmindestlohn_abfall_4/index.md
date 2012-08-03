@@ -2,7 +2,9 @@
 Title: Rechtsnormen des Mindestlohntarifvertrages für die Branche Abfallwirtschaft
   vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009,
   19. August 2010, 16. Juni 2011 und 6. März 2012
+jurabk: TVMindestlohn Abfall 4
 layout: default
+origslug: tvmindestlohn_abfall_4
 slug: tvmindestlohn_abfall_4
 
 ---

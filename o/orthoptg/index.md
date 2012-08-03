@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über den Beruf der Orthoptistin und des Orthoptisten
+jurabk: OrthoptG
 layout: default
+origslug: orthoptg
 slug: orthoptg
 
 ---

@@ -1,7 +1,9 @@
 ---
 Title: Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und
   Hydrographie
+jurabk: BSHKostV 2002
 layout: default
+origslug: bshkostv_2002
 slug: bshkostv_2002
 
 ---

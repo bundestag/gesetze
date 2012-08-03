@@ -1,6 +1,8 @@
 ---
 Title: Zweites Gesetz über die Krankenversicherung der Landwirte
+jurabk: KVLG 1989
 layout: default
+origslug: kvlg_1989
 slug: kvlg_1989
 
 ---

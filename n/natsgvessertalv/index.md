@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet
   von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Vessertal"
+jurabk: NatSGVessertalV
 layout: default
+origslug: natsgvessertalv
 slug: natsgvessertalv
 
 ---

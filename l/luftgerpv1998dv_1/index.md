@@ -1,6 +1,8 @@
 ---
 Title: Erste Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät
+jurabk: LuftGerPV1998DV 1
 layout: default
+origslug: luftgerpv1998dv_1
 slug: luftgerpv1998dv_1
 
 ---

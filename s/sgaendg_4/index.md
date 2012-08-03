@@ -1,7 +1,9 @@
 ---
 Title: Viertes Gesetz zur Änderung des Soldatengesetzes
+jurabk: SGÄndG 4
 layout: default
-slug: sg_ndg_4
+origslug: sg_ndg_4
+slug: sgaendg_4
 
 ---
 

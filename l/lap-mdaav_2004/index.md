@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Auswärtigen
   Dienst
+jurabk: LAP-mDAAV 2004
 layout: default
+origslug: lap-mdaav_2004
 slug: lap-mdaav_2004
 
 ---

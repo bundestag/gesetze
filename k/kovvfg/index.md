@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung
+jurabk: KOVVfG
 layout: default
+origslug: kovvfg
 slug: kovvfg
 
 ---

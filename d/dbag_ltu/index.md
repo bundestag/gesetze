@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 22. Juli 1997 zwischen der Bundesrepublik Deutschland
   und der Republik Litauen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
   Steuern vom Einkommen und vom Vermögen
+jurabk: DBAG LTU
 layout: default
+origslug: dbag_ltu
 slug: dbag_ltu
 
 ---

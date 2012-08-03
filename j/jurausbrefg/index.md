@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Reform der Juristenausbildung
+jurabk: JurAusbRefG
 layout: default
+origslug: jurausbrefg
 slug: jurausbrefg
 
 ---

@@ -2,7 +2,9 @@
 Title: Gesetz zu dem Abkommen vom 29. November 1996 zwischen der Bundesrepublik Deutschland
   und der Republik Estland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
   Steuern vom Einkommen und vom Vermögen
+jurabk: DBAESTG
 layout: default
+origslug: dbaestg
 slug: dbaestg
 
 ---

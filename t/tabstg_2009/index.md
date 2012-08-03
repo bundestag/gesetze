@@ -1,6 +1,8 @@
 ---
 Title: Tabaksteuergesetz
+jurabk: TabStG 2009
 layout: default
+origslug: tabstg_2009
 slug: tabstg_2009
 
 ---

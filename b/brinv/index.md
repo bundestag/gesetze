@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Nebentätigkeit der Richter im Bundesdienst
+jurabk: BRiNV
 layout: default
+origslug: brinv
 slug: brinv
 
 ---

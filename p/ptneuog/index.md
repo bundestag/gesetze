@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Postwesens und der Telekommunikation
+jurabk: PTNeuOG
 layout: default
+origslug: ptneuog
 slug: ptneuog
 
 ---

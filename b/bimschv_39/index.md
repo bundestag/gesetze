@@ -4,7 +4,9 @@ Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und
 Emissionshöchstmengen
 ---
 Title: ''
+jurabk: BImSchV 39
 layout: default
+origslug: bimschv_39
 slug: bimschv_39
 
 ---

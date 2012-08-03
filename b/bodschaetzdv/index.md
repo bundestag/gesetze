@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes
+jurabk: BodSchätzDV
 layout: default
-slug: bodsch_tzdv
+origslug: bodsch_tzdv
+slug: bodschaetzdv
 
 ---
 

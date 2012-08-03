@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über den Abschluß von Unterstützungen der Bürger der ehemaligen Deutschen
   Demokratischen Republik bei Gesundheitsschäden infolge medizinischer Maßnahmen
+jurabk: UntAbschlG
 layout: default
+origslug: untabschlg
 slug: untabschlg
 
 ---

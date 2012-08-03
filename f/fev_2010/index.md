@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Zulassung von Personen zum Straßenverkehr
+jurabk: FeV 2010
 layout: default
+origslug: fev_2010
 slug: fev_2010
 
 ---

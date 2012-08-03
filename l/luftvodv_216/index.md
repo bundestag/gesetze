@@ -2,7 +2,9 @@
 Title: Zweihundertsechzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
   Bremerhaven)
+jurabk: LuftVODV 216
 layout: default
+origslug: luftvodv_216
 slug: luftvodv_216
 
 ---

@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze "50 Jahre Deutsches Fernsehen")
+jurabk: Münz10EuroBek 2002-10
 layout: default
-slug: m_nz10eurobek_2002-10
+origslug: m_nz10eurobek_2002-10
+slug: muenz10eurobek_2002-10
 
 ---
 

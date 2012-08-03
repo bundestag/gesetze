@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zur Fachkraft für Kurier-, Express- und
   Postdienstleistungen
+jurabk: KEPFachAusbV
 layout: default
+origslug: kepfachausbv
 slug: kepfachausbv
 
 ---

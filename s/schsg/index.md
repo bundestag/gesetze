@@ -1,6 +1,8 @@
 ---
 Title: Schiffssicherheitsgesetz
+jurabk: SchSG
 layout: default
+origslug: schsg
 slug: schsg
 
 ---

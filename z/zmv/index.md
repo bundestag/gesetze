@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur barrierefreien Zugänglichmachung von Dokumenten für blinde und
   sehbehinderte Personen im gerichtlichen Verfahren
+jurabk: ZMV
 layout: default
+origslug: zmv
 slug: zmv
 
 ---

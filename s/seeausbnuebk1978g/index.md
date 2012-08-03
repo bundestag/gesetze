@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zu dem Internationalen Übereinkommen vom 7. Juli 1978 über Normen für
   die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
+jurabk: SeeAusbNÜbk1978G
 layout: default
-slug: seeausbn_bk1978g
+origslug: seeausbn_bk1978g
+slug: seeausbnuebk1978g
 
 ---
 

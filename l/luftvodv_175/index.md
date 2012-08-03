@@ -2,7 +2,9 @@
 Title: Hundertfünfundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
   Kassel)
+jurabk: LuftVODV 175
 layout: default
+origslug: luftvodv_175
 slug: luftvodv_175
 
 ---

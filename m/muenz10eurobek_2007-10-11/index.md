@@ -1,8 +1,10 @@
 ---
 Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
   von 10 Euro (Gedenkmünze „800. Geburtstag Elisabeth von Thüringen“)
+jurabk: Münz10EuroBek 2007-10-11
 layout: default
-slug: m_nz10eurobek_2007-10-11
+origslug: m_nz10eurobek_2007-10-11
+slug: muenz10eurobek_2007-10-11
 
 ---
 

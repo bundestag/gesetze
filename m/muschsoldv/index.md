@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Mutterschutz für Soldatinnen
+jurabk: MuSchSoldV
 layout: default
+origslug: muschsoldv
 slug: muschsoldv
 
 ---

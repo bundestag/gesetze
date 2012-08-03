@@ -2,8 +2,10 @@
 Title: Zweite Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen für Deutsche
   aus der sowjetischen Besatzungszone Deutschlands und dem sowjetisch besetzten Sektor
   von Berlin
+jurabk: FlüHGDV 2
 layout: default
-slug: fl_hgdv_2
+origslug: fl_hgdv_2
+slug: fluehgdv_2
 
 ---
 

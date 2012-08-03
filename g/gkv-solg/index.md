@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Stärkung der Solidarität in der gesetzlichen Krankenversicherung
+jurabk: GKV-SolG
 layout: default
+origslug: gkv-solg
 slug: gkv-solg
 
 ---

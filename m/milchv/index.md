@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Milcherzeugnisse
+jurabk: MilchV
 layout: default
+origslug: milchv
 slug: milchv
 
 ---

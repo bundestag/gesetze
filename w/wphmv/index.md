@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Meldepflichten beim Handel mit Wertpapieren und Derivaten
+jurabk: WpHMV
 layout: default
+origslug: wphmv
 slug: wphmv
 
 ---

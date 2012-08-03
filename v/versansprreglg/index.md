@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen
+jurabk: VersAnsprReglG
 layout: default
+origslug: versansprreglg
 slug: versansprreglg
 
 ---

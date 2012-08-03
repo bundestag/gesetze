@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Sicherstellung des Verkehrs
+jurabk: VerkSiG
 layout: default
+origslug: verksig
 slug: verksig
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin
+jurabk: PhysLabAusbV
 layout: default
+origslug: physlabausbv
 slug: physlabausbv
 
 ---

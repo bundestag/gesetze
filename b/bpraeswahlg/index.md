@@ -1,7 +1,9 @@
 ---
 Title: Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung
+jurabk: BPräsWahlG
 layout: default
-slug: bpr_swahlg
+origslug: bpr_swahlg
+slug: bpraeswahlg
 
 ---
 

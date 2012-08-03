@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung des Kinder- und Jugendhilferechts
+jurabk: KJHG
 layout: default
+origslug: kjhg
 slug: kjhg
 
 ---

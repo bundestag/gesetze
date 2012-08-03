@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Geltendmachung von Unterhaltsansprüchen im Verkehr mit ausländischen
   Staaten
+jurabk: AUG 2011
 layout: default
+origslug: aug_2011
 slug: aug_2011
 
 ---

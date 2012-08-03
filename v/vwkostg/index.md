@@ -1,6 +1,8 @@
 ---
 Title: Verwaltungskostengesetz
+jurabk: VwKostG
 layout: default
+origslug: vwkostg
 slug: vwkostg
 
 ---

@@ -2,7 +2,9 @@
 Title: Gesetz betreffend das Abkommen über die Internationale Finanz-Corporation und
   betreffend Gouverneure und Direktoren in der Internationalen Bank für Wiederaufbau
   und Entwicklung sowie in der Internationalen Finanz-Corporation
+jurabk: IFCAbkG
 layout: default
+origslug: ifcabkg
 slug: ifcabkg
 
 ---

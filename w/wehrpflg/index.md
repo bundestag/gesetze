@@ -1,6 +1,8 @@
 ---
 Title: Wehrpflichtgesetz
+jurabk: WehrPflG
 layout: default
+origslug: wehrpflg
 slug: wehrpflg
 
 ---

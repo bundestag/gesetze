@@ -1,7 +1,9 @@
 ---
 Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Rechtsverhältnisse
   der Polizeivollzugsbeamten des Bundes
+jurabk: BPolRZustAnO
 layout: default
+origslug: bpolrzustano
 slug: bpolrzustano
 
 ---

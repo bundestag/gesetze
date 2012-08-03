@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale
   Naturkautschukorganisation
+jurabk: NatKautschOrgVorRV 1989
 layout: default
+origslug: natkautschorgvorrv_1989
 slug: natkautschorgvorrv_1989
 
 ---

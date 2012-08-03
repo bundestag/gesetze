@@ -2,7 +2,9 @@
 Title: Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über steuerrechtliche
   Maßnahmen bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln und bei Überlassung
   von eigenen Aktien an Arbeitnehmer
+jurabk: KapErhStG§8Abs1DV
 layout: default
+origslug: kaperhstg_8abs1dv
 slug: kaperhstg_8abs1dv
 
 ---

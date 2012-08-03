@@ -1,6 +1,8 @@
 ---
 Title: Gesetz über die Bildung und Tätigkeit von Stiftungen
+jurabk: StiftBTG
 layout: default
+origslug: stiftbtg
 slug: stiftbtg
 
 ---

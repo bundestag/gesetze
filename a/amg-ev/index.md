@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Einreichung von Unterlagen in Verfahren für die Zulassung
   und Verlängerung der Zulassung von Arzneimitteln
+jurabk: AMG-EV
 layout: default
+origslug: amg-ev
 slug: amg-ev
 
 ---

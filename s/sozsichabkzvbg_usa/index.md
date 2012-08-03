@@ -2,7 +2,9 @@
 Title: Zusatzvereinbarung zur Vereinbarung vom 21. Juni 1978 zur Durchführung des
   Abkommen vom 7. Januar 1976 zwischen der Bundesrepublik Deutschland und den Vereinigten
   Staaten von Amerika über Soziale Sicherheit
+jurabk: SozSichAbkZVbg USA
 layout: default
+origslug: sozsichabkzvbg_usa
 slug: sozsichabkzvbg_usa
 
 ---

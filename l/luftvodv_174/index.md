@@ -2,7 +2,9 @@
 Title: Hundertvierundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
   von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen
   Westerland/Sylt)
+jurabk: LuftVODV 174
 layout: default
+origslug: luftvodv_174
 slug: luftvodv_174
 
 ---

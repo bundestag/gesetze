@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von
   Tieren an wechselnden Orten
+jurabk: ZirkRegV
 layout: default
+origslug: zirkregv
 slug: zirkregv
 
 ---

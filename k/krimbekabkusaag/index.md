@@ -3,7 +3,9 @@ Title: Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrep
   Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober
   2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung
   schwerwiegender Kriminalität
+jurabk: KrimBekAbkUSAAG
 layout: default
+origslug: krimbekabkusaag
 slug: krimbekabkusaag
 
 ---

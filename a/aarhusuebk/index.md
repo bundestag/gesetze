@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen über den Zugang zu Informationen, die  Öffentlichkeitsbeteiligung
   an Entscheidungsverfahren und den Zugang zu  Gerichten in Umweltangelegenheiten
+jurabk: AarhusÜbk
 layout: default
-slug: aarhus_bk
+origslug: aarhus_bk
+slug: aarhusuebk
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Gesetzes über die Verbreitung jugendgefährdender
   Schriften
+jurabk: JgefSchrGÄndG
 layout: default
-slug: jgefschrg_ndg
+origslug: jgefschrg_ndg
+slug: jgefschrgaendg
 
 ---
 

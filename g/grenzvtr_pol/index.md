@@ -1,7 +1,9 @@
 ---
 Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Polen über
   die Bestätigung der zwischen ihnen bestehenden Grenze
+jurabk: GrenzVtr POL
 layout: default
+origslug: grenzvtr_pol
 slug: grenzvtr_pol
 
 ---

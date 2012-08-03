@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlass des Bundeskanzlers
+jurabk: OrgErl1998
 layout: default
+origslug: orgerl1998
 slug: orgerl1998
 
 ---

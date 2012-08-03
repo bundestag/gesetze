@@ -1,6 +1,8 @@
 ---
 Title: Erste Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
+jurabk: KrWaffKontrGDV 1
 layout: default
+origslug: krwaffkontrgdv_1
 slug: krwaffkontrgdv_1
 
 ---

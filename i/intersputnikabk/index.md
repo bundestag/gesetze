@@ -1,7 +1,9 @@
 ---
 Title: Abkommen über die Schaffung des internationalen Systems und der Organisation
   für kosmische Fernmeldeverbindungen "INTERSPUTNIK"
+jurabk: INTERSPUTNIKAbk
 layout: default
+origslug: intersputnikabk
 slug: intersputnikabk
 
 ---

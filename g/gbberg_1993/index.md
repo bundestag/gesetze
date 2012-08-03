@@ -1,6 +1,8 @@
 ---
 Title: Grundbuchbereinigungsgesetz
+jurabk: GBBerG 1993
 layout: default
+origslug: gbberg_1993
 slug: gbberg_1993
 
 ---

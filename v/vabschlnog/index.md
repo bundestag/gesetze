@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Neuordnung der Versorgungsabschläge
+jurabk: VAbschlNOG
 layout: default
+origslug: vabschlnog
 slug: vabschlnog
 
 ---

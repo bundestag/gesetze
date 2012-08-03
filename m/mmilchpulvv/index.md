@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Durchführung der öffentlichen Lagerhaltung von Magermilchpulver
+jurabk: MMilchPulvV
 layout: default
+origslug: mmilchpulvv
 slug: mmilchpulvv
 
 ---

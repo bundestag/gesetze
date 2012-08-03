@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Bestimmung und Kennzeichnung von Packungsgrößen für Arzneimittel
   in der vertragsärztlichen Versorgung
+jurabk: PackungsV
 layout: default
+origslug: packungsv
 slug: packungsv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Verordnung zur Beförderungserlaubnis
+jurabk: TransgV
 layout: default
+origslug: transgv
 slug: transgv
 
 ---

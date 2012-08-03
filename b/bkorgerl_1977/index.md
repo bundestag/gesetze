@@ -1,6 +1,8 @@
 ---
 Title: Organisationserlaß des Bundeskanzlers
+jurabk: BKOrgErl 1977
 layout: default
+origslug: bkorgerl_1977
 slug: bkorgerl_1977
 
 ---

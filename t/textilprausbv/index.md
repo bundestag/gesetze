@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur  Produktprüferin-Textil
+jurabk: TextilPrAusbV
 layout: default
+origslug: textilprausbv
 slug: textilprausbv
 
 ---

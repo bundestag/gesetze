@@ -1,6 +1,8 @@
 ---
 Title: Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften
+jurabk: GenG
 layout: default
+origslug: geng
 slug: geng
 
 ---

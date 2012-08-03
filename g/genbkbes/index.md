@@ -1,7 +1,9 @@
 ---
 Title: Statut der Genossenschaftsbank Berlin (Anlage zur Anordnung über das Statut
   der Genossenschaftsbank Berlin)
+jurabk: GenBkBES
 layout: default
+origslug: genbkbes
 slug: genbkbes
 
 ---

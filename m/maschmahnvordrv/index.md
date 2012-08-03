@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten,
   die das Verfahren maschinell bearbeiten
+jurabk: MaschMahnVordrV
 layout: default
+origslug: maschmahnvordrv
 slug: maschmahnvordrv
 
 ---

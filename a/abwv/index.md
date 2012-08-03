@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Anforderungen an das Einleiten von Abwasser in Gewässer
+jurabk: AbwV
 layout: default
+origslug: abwv
 slug: abwv
 
 ---

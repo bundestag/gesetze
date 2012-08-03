@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Ausführung des Haager Übereinkommens vom 1. März 1954 über den Zivilprozeß
+jurabk: ZPÜbkHaagG
 layout: default
-slug: zp_bkhaagg
+origslug: zp_bkhaagg
+slug: zpuebkhaagg
 
 ---
 

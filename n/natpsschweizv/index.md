@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über die Festsetzung des Nationalparks Sächsische Schweiz
+jurabk: NatPsSchweizV
 layout: default
+origslug: natpsschweizv
 slug: natpsschweizv
 
 ---

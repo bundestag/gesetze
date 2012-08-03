@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Verbesserung der Personalstruktur in den Streitkräften
+jurabk: StrKrPersStruktG
 layout: default
+origslug: strkrpersstruktg
 slug: strkrpersstruktg
 
 ---

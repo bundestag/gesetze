@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den Bereich
   der Deutschen Post AG
+jurabk: DeutschePostAGZustAnO 2004
 layout: default
+origslug: deutschepostagzustano_2004
 slug: deutschepostagzustano_2004
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
+jurabk: DJStiftAnO
 layout: default
+origslug: djstiftano
 slug: djstiftano
 
 ---

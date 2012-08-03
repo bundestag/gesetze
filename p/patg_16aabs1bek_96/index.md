@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 16a Abs. 1 des Patentgesetzes
+jurabk: PatG§16aAbs1Bek 96
 layout: default
+origslug: patg_16aabs1bek_96
 slug: patg_16aabs1bek_96
 
 ---

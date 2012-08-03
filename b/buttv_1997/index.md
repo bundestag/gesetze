@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Butter und andere Milchstreichfette
+jurabk: ButtV 1997
 layout: default
+origslug: buttv_1997
 slug: buttv_1997
 
 ---

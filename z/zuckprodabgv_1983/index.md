@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die im Rahmen der Produktionsregelung für Zucker zu erhebenden
   Abgaben
+jurabk: ZuckProdAbgV 1983
 layout: default
+origslug: zuckprodabgv_1983
 slug: zuckprodabgv_1983
 
 ---

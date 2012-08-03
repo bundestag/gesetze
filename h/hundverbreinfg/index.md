@@ -1,7 +1,9 @@
 ---
 Title: Gesetz zur Beschränkung des Verbringens oder der Einfuhr gefährlicher Hunde
   in das Inland
+jurabk: HundVerbrEinfG
 layout: default
+origslug: hundverbreinfg
 slug: hundverbreinfg
 
 ---

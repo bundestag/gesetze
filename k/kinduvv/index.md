@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über
   den Unterhalt minderjähriger Kinder
+jurabk: KindUVV
 layout: default
+origslug: kinduvv
 slug: kinduvv
 
 ---

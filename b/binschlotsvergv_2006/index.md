@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße
   Rhein zwischen Iffezheim und Mannheim
+jurabk: BinSchLotsVergV 2006
 layout: default
+origslug: binschlotsvergv_2006
 slug: binschlotsvergv_2006
 
 ---

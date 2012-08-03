@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen
   Altersrente
+jurabk: UnbilligkeitsV
 layout: default
+origslug: unbilligkeitsv
 slug: unbilligkeitsv
 
 ---

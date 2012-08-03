@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Telekommunikationsgebühren
+jurabk: TKGebV
 layout: default
+origslug: tkgebv
 slug: tkgebv
 
 ---

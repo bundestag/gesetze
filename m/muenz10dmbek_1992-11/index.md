@@ -2,8 +2,10 @@
 Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
   Mark (Gedenkmünze 150. Jahrestag der Friedensklasse des Ordens Pour le merite für
   Wissenschaften und Künste)
+jurabk: Münz10DMBek 1992-11
 layout: default
-slug: m_nz10dmbek_1992-11
+origslug: m_nz10dmbek_1992-11
+slug: muenz10dmbek_1992-11
 
 ---
 

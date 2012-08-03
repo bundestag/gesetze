@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über Vertriebswege für Medizinprodukte
+jurabk: MPVertrV
 layout: default
+origslug: mpvertrv
 slug: mpvertrv
 
 ---

@@ -1,6 +1,8 @@
 ---
 Title: Bekanntmachung zu § 4 des Warenzeichengesetzes
+jurabk: WZG§4CSKFINBek
 layout: default
+origslug: wzg_4cskfinbek
 slug: wzg_4cskfinbek
 
 ---

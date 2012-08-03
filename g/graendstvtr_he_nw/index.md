@@ -3,8 +3,10 @@ Title: Staatsvertrag zwischen dem Land Hessen und dem Land Nordrhein-Westfalen �
   Änderungen der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss
   und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land
   Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze)
+jurabk: GrÄndStVtr HE/NW
 layout: default
-slug: gr_ndstvtr_he_nw
+origslug: gr_ndstvtr_he_nw
+slug: graendstvtr_he_nw
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 Title: Dritte Verordnung über die Gewährung von Vorrechten und Befreiungen an die
   Sonderorganisationen der Vereinten Nationen
+jurabk: UNSOrgVorRV 3
 layout: default
+origslug: unsorgvorrv_3
 slug: unsorgvorrv_3
 
 ---

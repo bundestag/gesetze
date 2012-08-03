@@ -1,6 +1,8 @@
 ---
 Title: Gesetz zur Auflösung des Bundesamtes für Zivilschutz
+jurabk: BZSAuflG
 layout: default
+origslug: bzsauflg
 slug: bzsauflg
 
 ---

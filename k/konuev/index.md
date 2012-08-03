@@ -2,8 +2,10 @@
 Title: Verordnung über die Ermittlung der Eigenmittelausstattung von Institutsgruppen
   und Finanzholding-Gruppen bei Verwendung von Konzernabschlüssen und Zwischenabschlüssen
   auf Konzernebene
+jurabk: KonÜV
 layout: default
-slug: kon_v
+origslug: kon_v
+slug: konuev
 
 ---
 

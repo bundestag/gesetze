@@ -1,6 +1,8 @@
 ---
 Title: Verordnung über den Versatz von Abfällen unter Tage
+jurabk: VersatzV
 layout: default
+origslug: versatzv
 slug: versatzv
 
 ---

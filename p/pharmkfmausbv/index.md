@@ -1,7 +1,9 @@
 ---
 Title: Verordnung über die Berufsausbildung zum pharmazeutisch-kaufmännischen Angestellten/zur
   pharmazeutisch-kaufmännischen Angestellten
+jurabk: PharmKfmAusbV
 layout: default
+origslug: pharmkfmausbv
 slug: pharmkfmausbv
 
 ---

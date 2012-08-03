@@ -1,8 +1,10 @@
 ---
 Title: Übereinkommen Nr. 92 (der Internationalen Arbeitsorganisation) über die Quartierräume
   der Besatzung an Bord von Schiffen (Neufassung vom Jahre 1949)
+jurabk: IAOÜbk 92
 layout: default
-slug: iao_bk_92
+origslug: iao_bk_92
+slug: iaouebk_92
 
 ---
 

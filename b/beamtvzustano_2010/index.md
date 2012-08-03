@@ -1,7 +1,9 @@
 ---
 Title: Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Beamtenversorgung
   des Bundes und des Versorgungsausgleichs
+jurabk: BeamtVZustAnO 2010
 layout: default
+origslug: beamtvzustano_2010
 slug: beamtvzustano_2010
 
 ---

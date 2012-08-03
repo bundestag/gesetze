@@ -1,7 +1,9 @@
 ---
 Title: Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bundesweiten
   Ausgleichsmechanismus
+jurabk: AusglMechAV
 layout: default
+origslug: ausglmechav
 slug: ausglmechav
 
 ---

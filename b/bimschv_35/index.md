@@ -1,6 +1,8 @@
 ---
 Title: Fünfunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+jurabk: BImSchV 35
 layout: default
+origslug: bimschv_35
 slug: bimschv_35
 
 ---
