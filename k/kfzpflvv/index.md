@@ -176,6 +176,12 @@ vereinbart werden die Verpflichtung,
     Mittel dazu nicht sicher in der Lage ist;
 
 
+6.  ein mit einem Wechselkennzeichen zugelassenes Fahrzeug nicht auf
+    öffentlichen Wegen oder Plätzen zu benutzen oder benutzen zu lassen,
+    wenn es das nach § 8 Absatz 1a der Fahrzeug-Zulassungsverordnung
+    vorgeschriebene Wechselkennzeichen nicht vollständig trägt.
+
+
 
 
 (2) Gegenüber dem Versicherungsnehmer, dem Halter oder Eigentümer
