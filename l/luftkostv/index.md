@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 346
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.8.2010 I 1224
-
-Änderung durch
-:   Art. 4 G v. 8.5.2012 I 1032 (Nr. 20) textlich nachgewiesen dokumentarisch noch nicht abschließend gearbeitet
+:   Art. 4 G v. 8.5.2012 I 1032
 
 
 ## Eingangsformel
