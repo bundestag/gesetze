@@ -248,10 +248,10 @@ einzubürgern, wenn er
     Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf
     Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen
     Gemeinschaft und ihren Mitgliedstaaten einerseits und der
-    Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit
-    oder eine Aufenthaltserlaubnis für andere als die in den §§ 16, 17,
-    20, 22, 23 Abs. 1, §§ 23a, 24 und 25 Abs. 3 bis 5 des
-    Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
+    Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit,
+    eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die
+    in den §§ 16, 17, 20, 22, 23 Abs. 1, §§ 23a, 24 und 25 Abs. 3 bis 5
+    des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
 
 
 3.  den Lebensunterhalt für sich und seine unterhaltsberechtigten

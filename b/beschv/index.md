@@ -38,7 +38,7 @@ verordnet das Bundesministerium für Wirtschaft und Arbeit:
 ### § 1 Grundsatz
 
 Die Erteilung eines Aufenthaltstitels zum Zwecke der Beschäftigung (§
-17 Satz 1, § 18 Abs. 2 Satz 1, § 19 Abs. 1 Satz 1 des
+17 Satz 1, § 18 Abs. 2 Satz 1, § 19 Abs. 1 Satz 1, § 19a Absatz 1 des
 Aufenthaltsgesetzes) bedarf in den Fällen der §§ 2 bis 16 nicht der
 Zustimmung der Bundesagentur für Arbeit gemäß § 39 des
 Aufenthaltsgesetzes.
@@ -65,15 +65,22 @@ ein Praktikum
 
 
 3.  bis zu einem Jahr im Rahmen eines nachgewiesenen internationalen
-    Austauschprogramms von Verbänden und öffentlich-rechtlichen
-    Einrichtungen oder studentischen Organisationen im Einvernehmen mit
-    der Bundesagentur für Arbeit oder
+    Austauschprogramms von Verbänden, öffentlich-rechtlichen Einrichtungen
+    oder studentischen Organisationen für Studierende oder Absolventen
+    ausländischer Hochschulen im Einvernehmen mit der Bundesagentur für
+    Arbeit,
 
 
 4.  an Fach- und Führungskräfte, die ein Stipendium aus öffentlichen
     deutschen Mitteln, Mitteln der Europäischen Gemeinschaft oder Mitteln
     internationaler zwischenstaatlicher Organisationen erhalten
-    (Regierungspraktikanten).
+    (Regierungspraktikanten) oder
+
+
+5.  während eines Studiums an einer ausländischen Hochschule, das nach dem
+    vierten Semester studienfachbezogen im Einvernehmen mit der
+    Bundesagentur für Arbeit ausgeübt wird; die Dauer des Praktikums darf
+    ein Jahr nicht überschreiten.
 
 
 
@@ -89,6 +96,28 @@ innerhalb eines Zeitraums von zwölf Monaten.
 
 Keiner Zustimmung bedarf die Erteilung einer Niederlassungserlaubnis
 an Hochqualifizierte nach § 19 Abs. 2 des Aufenthaltsgesetzes.
+
+
+### § 3a Blaue Karte EU
+
+Keiner Zustimmung bedarf die Erteilung einer Blauen Karte EU, wenn der
+Ausländer
+
+1.  ein Gehalt nach § 41a Absatz 1 erhält oder
+
+
+2.  einen inländischen Hochschulabschluss besitzt und die Voraussetzungen
+    des § 41a Absatz 2 erfüllt.
+
+
+
+
+
+### § 3b Fachkräfte mit inländischem Hochschulabschluss
+
+Keiner Zustimmung bedarf die Erteilung einer Aufenthaltserlaubnis zur
+Ausübung einer der beruflichen Qualifikation angemessenen
+Beschäftigung an Fachkräfte mit einem inländischen Hochschulabschluss.
 
 
 ### § 4 Führungskräfte
@@ -197,12 +226,18 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
     deutsche Spitzenverband im Einvernehmen mit dem Deutschen Olympischen
     Sportbund die sportliche Qualifikation als Berufssportlerin oder
     Berufssportler oder die fachliche Eignung als Trainerin oder Trainer
-    bestätigt, oder
+    bestätigt,
 
 
 5.  Fotomodelle, Werbetypen, Mannequins oder Dressmen, wenn der
     Arbeitgeber der Bundesagentur für Arbeit die Beschäftigungen vor deren
-    Aufnahme angezeigt hat.
+    Aufnahme angezeigt hat oder
+
+
+6.  Reiseleiter, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im
+    Ausland ausländische Touristengruppen in das Inland begleiten, wenn
+    die Dauer der Tätigkeit drei Monate innerhalb von zwölf Monaten nicht
+    übersteigt.
 
 
 
@@ -315,39 +350,40 @@ Durchführungsgarantien übernommen hat, insbesondere
 ### § 13 Internationaler Straßen- und Schienenverkehr
 
 (1) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
-das Fahrpersonal eines Arbeitgebers mit Sitz im Ausland im
-grenzüberschreitenden Straßenverkehr, soweit
+das Fahrpersonal, das
 
-1.  das Unternehmen diesen Sitz im Hoheitsgebiet eines Mitgliedstaates der
-    Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-    über den Europäischen Wirtschaftsraum hat und dem Arbeitgeber für
-    seine drittstaatsangehörigen Fahrer eine Fahrerbescheinigung
-    ausgestellt wurde nach der Verordnung (EWG) Nr. 881/92 des Rates vom
-    26\. März 1992 über den Zugang zum Güterkraftverkehrsmarkt in der
-    Gemeinschaft für Beförderung aus oder nach einem Mitgliedstaat oder
-    durch einen oder mehrere Mitgliedstaaten (ABl. EG Nr. L 95 S. 1),
-    zuletzt geändert durch die Akte über die Bedingungen des Beitritts der
-    Tschechischen Republik, der Republik Estland, der Republik Zypern, der
-    Republik Lettland, der Republik Litauen, der Republik Ungarn, der
-    Republik Malta, der Republik Polen, der Republik Slowenien und der
-    Slowakischen Republik und die Anpassungen der die Europäischen Union
-    begründenden Verträge - Anhang II: Liste nach Artikel 20 der
-    Beitrittsakte - 8. Verkehrspolitik - C. Straßenverkehr (ABl. EG Nr. L
-    236 S. 449), oder
+1.  im Güterkraftverkehr für einen Arbeitgeber mit Sitz
+
+    a)  im Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union
+        oder eines anderen Vertragsstaates des Abkommens über den Europäischen
+        Wirtschaftsraum Beförderungen im grenzüberschreitenden Verkehr nach
+        Artikel 2 Nummer 2 oder Kabotagebeförderungen nach Artikel 8 Absatz 2
+        der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des
+        Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum
+        Markt des grenzüberschreitenden Güterverkehrs (ABl. L 300 vom
+        14\.11.2009, S. 72) durchführt und für das dem Arbeitgeber eine
+        Fahrerbescheinigung ausgestellt worden ist,
 
 
-2.  das Unternehmen diesen Sitz außerhalb des Hoheitsgebietes eines
-    Mitgliedstaates der Europäischen Union oder eines anderen
-    Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-    hat und das Fahrzeug im Sitzstaat des Arbeitgebers zugelassen ist, für
-    einen Aufenthalt von höchstens drei Monaten innerhalb von zwölf
-    Monaten.
+    b)  außerhalb des Hoheitsgebietes eines Mitgliedstaates der Europäischen
+        Union oder eines anderen Vertragsstaates des Abkommens über den
+        Europäischen Wirtschaftsraum Beförderungen im grenzüberschreitenden
+        Güterverkehr mit einem im Sitzstaat des Arbeitgebers zugelassenen
+        Fahrzeug durchführt, für einen Aufenthalt von höchstens drei Monaten
+        innerhalb von zwölf Monaten,
 
 
 
-Satz 1 gilt im grenzüberschreitenden Linienverkehr mit Omnibussen ohne
-Fahrerbescheinigung auch dann, wenn das Fahrzeug im Inland zugelassen
-ist.
+
+
+2.  im grenzüberschreitenden Personenverkehr auf der Straße für einen
+    Arbeitgeber mit Sitz im Ausland grenzüberschreitende Fahrten mit einem
+    im Sitzstaat des Arbeitgebers zugelassenen Fahrzeug durchführt.
+
+
+
+Satz 1 Nummer 2 gilt im grenzüberschreitenden Linienverkehr mit
+Omnibussen auch dann, wenn das Fahrzeug im Inland zugelassen ist.
 
 (2) Im grenzüberschreitenden Schienenverkehr gelten die Bestimmungen
 des Absatzes 1 Satz 1 ohne Fahrerbescheinigung auch ungeachtet der
@@ -533,8 +569,9 @@ berufskonsularischen Vertretung bis zu einer Geltungsdauer von fünf
 Jahren erteilt werden.
 
 (2) Die Zustimmung zu einem Aufenthaltstitel kann Spezialitätenköchen
-für die Beschäftigung in Spezialitätenrestaurants bis zu einer
-Geltungsdauer von vier Jahren erteilt werden.
+für die Ausübung einer Vollzeitbeschäftigung in
+Spezialitätenrestaurants bis zu einer Geltungsdauer von vier Jahren
+erteilt werden.
 
 (3) Eine erneute Zustimmung zu einem Aufenthaltstitel zur Ausübung
 einer Beschäftigung nach diesem Abschnitt darf den in den Absätzen 1
@@ -544,8 +581,9 @@ Ablauf des früheren Aufenthaltstitels und der Ausreise erteilt werden.
 
 ### § 27 Fachkräfte
 
-Die Zustimmung zu einem Aufenthaltstitel kann zur Ausübung einer der
-beruflichen Qualifikation entsprechenden Beschäftigung erteilt werden
+(1) Die Zustimmung zu einem Aufenthaltstitel kann zur Ausübung einer
+der beruflichen Qualifikation entsprechenden Beschäftigung erteilt
+werden
 
 1.  Fachkräften mit einem anerkannten oder einem deutschen
     Hochschulabschluss vergleichbaren ausländischen Hochschulabschluss,
@@ -556,20 +594,24 @@ beruflichen Qualifikation entsprechenden Beschäftigung erteilt werden
     dem Gebiet der Informations- und Kommunikationstechnologie,
 
 
-3.  Fachkräften mit einem inländischen Hochschulabschluss und
-
-
-4.  Absolventen deutscher Auslandsschulen mit einem anerkannten oder einem
+3.  Absolventen deutscher Auslandsschulen mit einem anerkannten oder einem
     deutschen Hochschulabschluss vergleichbaren ausländischen
-    Hochschulabschluss oder einer im Inland erworbenen qualifizierten
+    Hochschulabschluss und
+
+
+4.  Fachkräften im Anschluss an eine im Inland erworbene qualifizierte
     Berufsausbildung in einem staatlich anerkannten oder vergleichbar
     geregelten Ausbildungsberuf.
 
 
 
-Die Zustimmung wird in den Fällen der Nummern 3 und 4 ohne
-Vorrangprüfung nach § 39 Abs. 2 Satz 1 Nr. 1 des Aufenthaltsgesetzes
-erteilt.
+
+(2) Die Zustimmung zu einer Blauen Karte EU kann erteilt werden, wenn
+der Ausländer die Voraussetzungen nach § 41a Absatz 2 erfüllt.
+
+(3) Die Zustimmung wird in den Fällen des Absatzes 1 Nummer 3 und 4
+und des Absatzes 2 ohne Vorrangprüfung nach § 39 Absatz 2 Satz 1
+Nummer 1 des Aufenthaltsgesetzes erteilt.
 
 
 ### § 28 Leitende Angestellte und Spezialisten
@@ -817,6 +859,36 @@ Ausübung einer Beschäftigung erteilt werden, wenn sie für den
 ausstellenden Staat zur Vorbereitung, Durchführung oder Beendigung des
 nationalen Ausstellungsbeitrages tätig werden.
 
+(5) Die Zustimmung zu einem Aufenthaltstitel zur Beschäftigung kann an
+Personen erteilt werden, die von einem Unternehmen mit Sitz im Ausland
+ordnungsgemäß beschäftigt und auf der Grundlage des Übereinkommens vom
+15\. April 1994 zur Errichtung der Welthandelsorganisation (BGBl. 1994
+II S. 1438, 1441) oder anderer für die Bundesrepublik Deutschland
+völkerrechtlich verbindlicher Freihandelsabkommen der Europäischen
+Union oder der Europäischen Union und ihrer Mitgliedstaaten
+vorübergehend in das Bundesgebiet entsandt werden.
+
+
+## Abschnitt 5a - Entgeltgrenzen für die Erteilung einer Blauen Karte EU
+
+
+
+### § 41a Entgeltgrenze
+
+(1) Die Höhe des Gehalts nach § 19a Absatz 2 Nummer 1 des
+Aufenthaltsgesetzes beträgt zwei Drittel der jährlichen
+Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung. Das
+Bundesministerium des Innern gibt das Mindestgehalt für jedes
+Kalenderjahr jeweils bis zum 31. Dezember des Vorjahres im
+Bundesanzeiger bekannt.
+
+(2) Für Berufe, die zu den Gruppen 21, 221 und 25 der Internationalen
+Standardklassifikation der Berufe (ABl. L 292 vom 10.11.2009, S. 31)
+gehören, beträgt die Höhe des Gehalts nach § 19a Absatz 2 Nummer 1 des
+Aufenthaltsgesetzes 52 Prozent der jährlichen Beitragsbemessungsgrenze
+in der allgemeinen Rentenversicherung. Absatz 1 Satz 4 gilt
+entsprechend.
+
 
 ## Abschnitt 6 - Arbeitsvermittlung und Anwerbung aus dem Ausland
 
@@ -867,6 +939,10 @@ die nach der Ausbildungsordnung festgelegte Ausbildungsdauer und bei
 der Weiterbildung für die Dauer zu erteilen, die nachweislich eines
 von der Bundesagentur für Arbeit geprüften Weiterbildungsplanes zur
 Erreichung des Weiterbildungszieles erforderlich ist.
+
+(3) Bei einer Beschäftigung nach § 26 Absatz 2 wird die erstmalige
+Zustimmung zur Beschäftigung im Zeitraum von drei Jahren ab dem 1.
+August 2012 längstens für ein Jahr erteilt.
 
 
 ### § 46 Übergangsregelungen

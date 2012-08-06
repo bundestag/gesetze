@@ -1116,7 +1116,7 @@ bezeichnen.
 
 (3) Die Ausländerbehörde kann insbesondere in dringenden Fällen, im
 Fall eines Anspruchs auf Erteilung eines Aufenthaltstitels, eines
-öffentlichen Interesses oder in den Fällen des § 18 oder § 19 des
+öffentlichen Interesses oder in den Fällen der §§ 18, 19 oder 19a des
 Aufenthaltsgesetzes der Visumerteilung vor der Beantragung des Visums
 bei der Auslandsvertretung zustimmen (Vorabzustimmung).
 
@@ -1268,8 +1268,9 @@ Menschen, die Kultur und die Gesellschaft, oder solches Wissen
 einzusetzen, um neue Anwendungsmöglichkeiten zu finden.
 
 (2) Der Antrag auf Anerkennung ist schriftlich beim Bundesamt für
-Migration und Flüchtlinge zu stellen. Er hat folgende Angaben zu
-enthalten:
+Migration und Flüchtlinge zu stellen. Bei öffentlichen Einrichtungen
+entfallen die Angaben zu Satz 1 Nummer 4 und 5. Er hat folgende
+Angaben zu enthalten:
 
 1.  Name, Rechtsform und Anschrift der Forschungseinrichtung,
 
@@ -1486,26 +1487,22 @@ bekannt.
 
 (1) Eine Aufnahmevereinbarung muss folgende Angaben enthalten:
 
-1.  die genaue Bezeichnung des Forschungsvorhabens,
-
-
-2.  die Verpflichtung des Ausländers, das Forschungsvorhaben
+1.  die Verpflichtung des Ausländers, das Forschungsvorhaben
     durchzuführen,
 
 
-3.  die Verpflichtung der Forschungseinrichtung, den Ausländer zur
+2.  die Verpflichtung der Forschungseinrichtung, den Ausländer zur
     Durchführung des Forschungsvorhabens aufzunehmen,
 
 
-4.  die Angaben zum wesentlichen Inhalt des Rechtsverhältnisses, das
+3.  die Angaben zum wesentlichen Inhalt des Rechtsverhältnisses, das
     zwischen der Forschungseinrichtung und dem Ausländer begründet werden
     soll, wenn ihm eine Aufenthaltserlaubnis nach § 20 des
     Aufenthaltsgesetzes erteilt wird, insbesondere zum Umfang der
-    Tätigkeit des Ausländers, zum Gehalt, zum Urlaub, zur Arbeitszeit und
-    zur Versicherung, sowie
+    Tätigkeit des Ausländers und zum Gehalt sowie
 
 
-5.  eine Bestimmung, wonach die Aufnahmevereinbarung unwirksam wird, wenn
+4.  eine Bestimmung, wonach die Aufnahmevereinbarung unwirksam wird, wenn
     dem Ausländer keine Aufenthaltserlaubnis nach § 20 des
     Aufenthaltsgesetzes erteilt wird.
 
@@ -1570,14 +1567,25 @@ verlängern lassen, wenn
     und er auf Grund einer Eheschließung oder der Begründung einer
     Lebenspartnerschaft im Bundesgebiet oder der Geburt eines Kindes
     während seines Aufenthalts im Bundesgebiet einen Anspruch auf
-    Erteilung einer Aufenthaltserlaubnis erworben hat oder
+    Erteilung einer Aufenthaltserlaubnis erworben hat,
 
 
 6.  er einen von einem anderen Schengen-Staat ausgestellten
     Aufenthaltstitel besitzt und auf Grund dieses Aufenthaltstitels
     berechtigt ist, sich im Bundesgebiet aufzuhalten, sofern die
     Voraussetzungen eines Anspruchs auf Erteilung eines Aufenthaltstitels
-    erfüllt sind; § 41 Abs. 3 findet Anwendung.
+    erfüllt sind; § 41 Abs. 3 findet Anwendung oder
+
+
+7.  er seit mindestens 18 Monaten eine Blaue Karte EU besitzt, die von
+    einem anderen Mitgliedstaat der Europäischen Union ausgestellt wurde,
+    und er für die Ausübung einer hochqualifizierten Beschäftigung eine
+    Blaue Karte EU beantragt. Gleiches gilt für seine Familienangehörigen,
+    die im Besitz eines Aufenthaltstitels zum Familiennachzug sind, der
+    von demselben Staat ausgestellt wurde wie die Blaue Karte EU des
+    Ausländers. Die Anträge auf die Blaue Karte EU sowie auf die
+    Aufenthaltserlaubnisse zum Familiennachzug sind innerhalb eines Monats
+    nach Einreise in das Bundesgebiet zu stellen.
 
 
 
@@ -1707,13 +1715,14 @@ An Gebühren sind zu erheben
 An Gebühren sind zu erheben 135 Euro.
 
 
-### § 45 Gebühren für die Aufenthaltserlaubnis
+### § 45 Gebühren für die Aufenthaltserlaubnis und die Blaue Karte EU
 
 An Gebühren sind zu erheben
 
 *    *   1.
 
-    *   für die Erteilung einer Aufenthaltserlaubnis
+    *   für die Erteilung einer Aufenthaltserlaubnis oder einer Blauen Karte
+        EU
 
     *
 
@@ -1735,7 +1744,8 @@ An Gebühren sind zu erheben
 
 *    *   2.
 
-    *   für die Verlängerung einer Aufenthaltserlaubnis
+    *   für die Verlängerung einer Aufenthaltserlaubnis oder einer Blauen
+        Karte EU
 
     *
 
@@ -2961,9 +2971,12 @@ Absatz 1 Satz 1 des Aufenthaltsgesetzes nach der Verordnung (EG) Nr.
 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des
 Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom
 15\.6.2002, S. 1). Sie sind in Anlage D14 abgedruckt. Bei der
-Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt-EG und der
-Aufenthaltserlaubnis ist im Feld für Anmerkungen die für die Erteilung
-maßgebliche Rechtsgrundlage einzutragen.
+Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt-EG, der
+Blauen Karte EU und der Aufenthaltserlaubnis ist im Feld für
+Anmerkungen die für die Erteilung maßgebliche Rechtsgrundlage
+einzutragen. Bei Inhabern der Blauen Karte EU ist bei Erteilung der
+Erlaubnis zum Daueraufenthalt-EG im Feld für Anmerkungen „Ehem. Inh.
+der Blauen Karte EU“ einzutragen.
 
 (4) In einer Aufenthaltserlaubnis, die nach § 20 des
 Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser
@@ -5052,7 +5065,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 ### Anlage D14a Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
-(Fundstelle: BGBl. I 2011, 1540 - 1547)
+(Fundstelle: BGBl. I 2011, 1540 - 1547
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## - Vorderseite -
 
@@ -5102,7 +5116,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 ## - Rückseite -
 
 ![bgbl1_2011_j1530-1_0200.jpg](bgbl1_2011_j1530-1_0200.jpg)
+## – Vorderseite –
 
+![bgbl1_2012_j1224-1_0010.jpg](bgbl1_2012_j1224-1_0010.jpg)
+## – Rückseite –
+
+![bgbl1_2012_j1224-1_0020.jpg](bgbl1_2012_j1224-1_0020.jpg)
 Aufenthaltskarte (§ 5 Abs. 2 des Freizügigkeitsgesetzes/EU) und
 Aufenthaltserlaubnis,
 die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21.

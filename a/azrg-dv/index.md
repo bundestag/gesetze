@@ -841,13 +841,14 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 Abschnitt I
 ## Allgemeiner Datenbestand
 
 
 *    *   A
 
-    *[^f756180_02_BJNR069500995BJNE003216310]
+    *[^f756180_02_BJNR069500995BJNE003217310]
    B
 
     *   C
@@ -1231,7 +1232,7 @@ Abschnitt I
 
 *    *   c)
 
-    *[^f756180_03_BJNR069500995BJNE003216310]
+    *[^f756180_03_BJNR069500995BJNE003217310]
    frühere Namen
 
     *   (7)
@@ -1865,7 +1866,7 @@ Abschnitt I
 
     *   Antrag auf einen Aufenthaltstitel gestellt am
 
-    *[^f756180_04_BJNR069500995BJNE003216310]
+    *[^f756180_04_BJNR069500995BJNE003217310]
    (1)
 
 
@@ -2017,7 +2018,7 @@ Abschnitt I
         erteilt am
         befristet bis
 
-    *[^f756180_05_BJNR069500995BJNE003216310]
+    *[^f756180_05_BJNR069500995BJNE003217310]
    (2)
 
     *
@@ -2080,7 +2081,17 @@ Abschnitt I
     *
 
 *    *
-    *   ee)   § 16 Abs. 6
+    *   ee)    § 16 Absatz 5b AufenthG
+        (Arbeitsplatzsuche nach schulischer Berufsausbildung)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+
+*    *
+    *   ff)   § 16 Abs. 6
         AufenthG (inner-
         gemeinschaftlich mobiler Student aus [Staatsangehörigkeitsschlüssel
         des EU-Mitgliedstaates]) erteilt am
@@ -2091,8 +2102,20 @@ Abschnitt I
     *
 
 *    *
-    *   ff)      § 17 AufenthG (sonstige Aus-
-        bildungszwecke) erteilt am
+    *   gg)      § 17 Absatz 1 AufenthG
+        (sonstige betriebliche Ausbildungszwecke)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   hh)    § 17 Absatz 3 AufenthG
+        (Arbeitsplatzsuche nach betrieblicher Berufsausbildung)
+        erteilt am
         befristet bis
 
     *   (2)
@@ -2181,7 +2204,40 @@ Abschnitt I
     *
 
 *    *
-    *   gg)     § 20 Abs. 1 AufenthG
+    *   gg)    § 18c AufenthG
+        (Aufenthaltserlaubnis zur Arbeitsplatzsuche)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   hh)    § 19a AufenthG i. V. m. § 41a Absatz 1 BeschV
+        (Blaue Karte EU, Regelberufe)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   ii)    § 19a AufenthG i. V. m. § 41a Absatz 2 BeschV
+        (Blaue Karte EU, Mangelberufe)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   jj)     § 20 Abs. 1 AufenthG
         (Forscher)
         erteilt am
         befristet bis
@@ -2192,7 +2248,7 @@ Abschnitt I
     *
 
 *    *
-    *   hh)     § 20 Abs. 5 AufenthG
+    *   kk)     § 20 Abs. 5 AufenthG
         (in [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates]
         zugelassener Forscher)
         erteilt am
@@ -2204,7 +2260,7 @@ Abschnitt I
     *
 
 *    *
-    *   ii)     § 21 Abs. 1 AufenthG
+    *   ll)     § 21 Abs. 1 AufenthG
         (selbständige Tätigkeit – wirtschaftliches Interesse)
         erteilt am
         befristet bis
@@ -2215,7 +2271,7 @@ Abschnitt I
     *
 
 *    *
-    *   jj)     § 21 Abs. 2 AufenthG
+    *   mm)     § 21 Abs. 2 AufenthG
         (selbständige Tätigkeit – völkerrechtliche Vergünstigung)
         erteilt am
         befristet bis
@@ -2226,7 +2282,18 @@ Abschnitt I
     *
 
 *    *
-    *   kk)     § 21 Abs. 5 AufenthG
+    *   nn)    § 21 Absatz 2a AufenthG
+        (selbständige Tätigkeit – Absolvent inländischer Hochschule)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   oo)     § 21 Abs. 5 AufenthG
         (freiberufliche Tätigkeit)
         erteilt am
         befristet bis
@@ -2473,7 +2540,8 @@ Abschnitt I
     *
 
 *    *
-    *   ee)   § 30 AufenthG (Ehegattennachzug)
+    *   ee)   § 30 AufenthG (Ehegattennachzug) ohne § 30 Absatz 1 Satz 1
+        Nummer 3g AufenthG
         erteilt am
         befristet bis
 
@@ -2483,7 +2551,18 @@ Abschnitt I
     *
 
 *    *
-    *   ff)      § 32 Abs. 1 Nr. 1 AufenthG (Kindesnachzug zu
+    *   ff)    § 30 Absatz 1 Satz 1 Nummer 3g AufenthG (Ehegattennachzug zu
+        einem Inhaber einer Blauen Karte EU)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   gg)      § 32 Abs. 1 Nr. 1 AufenthG (Kindesnachzug zu
         Asylberechtigten)
         erteilt am
         befristet bis
@@ -2494,7 +2573,18 @@ Abschnitt I
     *
 
 *    *
-    *   gg)     § 32 Abs. 1 Nr. 2 AufenthG
+    *   hh)    § 32 Absatz 1 Nummer 1a AufenthG (Kindernachzug zu einem
+        Inhaber einer Blauen Karte EU)
+        erteilt am
+        befristet bis
+
+    *   (2)
+
+    *
+    *
+
+*    *
+    *   ii)     § 32 Abs. 1 Nr. 2 AufenthG
         (Kindesnachzug im Familienverband)
         erteilt am
         befristet bis
@@ -2505,7 +2595,7 @@ Abschnitt I
     *
 
 *    *
-    *   hh)     § 32 Abs. 2
+    *   jj)     § 32 Abs. 2
         AufenthG
         (Kindesnachzug über 16 Jahren)
         erteilt am
@@ -2517,7 +2607,7 @@ Abschnitt I
     *
 
 *    *
-    *   ii)       § 32 Abs. 2a
+    *   kk)       § 32 Abs. 2a
         AufenthG (Kind eines langfristig Aufenthaltsberechtigten im
         [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates])
         erteilt am
@@ -2529,7 +2619,7 @@ Abschnitt I
     *
 
 *    *
-    *   jj)       § 32 Abs. 3
+    *   ll)       § 32 Abs. 3
         AufenthG (Kindesnachzug unter
         16 Jahren)
         erteilt am
@@ -2541,7 +2631,7 @@ Abschnitt I
     *
 
 *    *
-    *   kk)   § 32 Abs. 4
+    *   mm)   § 32 Abs. 4
         AufenthG (Kindesnachzug im Härtefall)
         erteilt am
         befristet bis
@@ -2552,7 +2642,7 @@ Abschnitt I
     *
 
 *    *
-    *   ll)     § 33 AufenthG
+    *   nn)     § 33 AufenthG
         (Geburt im Bundesgebiet)
         erteilt am
         befristet bis
@@ -2563,7 +2653,7 @@ Abschnitt I
     *
 
 *    *
-    *   mm) § 36 Abs. 1
+    *   oo) § 36 Abs. 1
         AufenthG (Nachzug von Eltern)
         erteilt am
         befristet bis
@@ -2574,7 +2664,7 @@ Abschnitt I
     *
 
 *    *
-    *   nn)     § 36 Abs. 2
+    *   pp)     § 36 Abs. 2
         AufenthG (Nachzug sonstiger Familienangehöriger)
 
     *   (2)
@@ -2861,7 +2951,7 @@ Abschnitt I
     *   § 9 AufenthG
         (allgemein) erteilt am
 
-    *[^f756180_06_BJNR069500995BJNE003216310]
+    *[^f756180_06_BJNR069500995BJNE003217310]
    (2)
 
 
@@ -2875,8 +2965,8 @@ Abschnitt I
 
 *    *   c)
 
-    *   § 19 AufenthG
-        (Hochqualifizierte)
+    *   § 18b AufenthG
+        (Niederlassungserlaubnis für Absolventen deutscher Hochschulen)
         erteilt am
 
     *   (2)
@@ -2884,20 +2974,47 @@ Abschnitt I
 
 *    *   d)
 
-    *   § 21 Abs. 4 AufenthG
-        (3 Jahre selbständige Tätigkeit) erteilt am
+    *   § 19 Absatz 1 AufenthG
+        (Hochqualifizierter ohne Zuordnung nach Absatz 2)
+        erteilt am
 
     *   (2)
 
 
 *    *   e)
 
+    *   § 19 Absatz 2 Nummer 1 AufenthG
+        (Hochqualifizierter Wissenschaftler)
+        erteilt am
+
+    *   (2)
+
+
+*    *   f)
+
+    *   § 19 Absatz 2 Nummer 2 AufenthG
+        (Hochqualifizierte Lehrperson)
+        erteilt am
+
+    *   (2)
+
+
+*    *   g)
+
+    *   § 21 Abs. 4 AufenthG
+        (3 Jahre selbständige Tätigkeit) erteilt am
+
+    *   (2)
+
+
+*    *   h)
+
     *   § 23 Abs. 2 AufenthG (besondere Fälle) erteilt am
 
     *   (3)
 
 
-*    *   f)
+*    *   i)
 
     *   § 26 Abs. 3 AufenthG (Asyl/GFK nach
         3 Jahren) erteilt am
@@ -2905,7 +3022,7 @@ Abschnitt I
     *   (2)
 
 
-*    *   g)
+*    *   j)
 
     *   § 26 Abs. 4 AufenthG (aus humanitären Gründen nach 7 Jahren) erteilt
         am
@@ -2925,14 +3042,14 @@ Abschnitt I
         – Statistisches Bundesamt
 
 
-*    *   h)
+*    *   k)
 
     *   § 28 Abs. 2 AufenthG (Familienangehörige von Deutschen) erteilt am
 
     *   (2)
 
 
-*    *   i)
+*    *   l)
 
     *   § 31 Abs. 3 AufenthG (eigenständiges Aufenthaltsrecht der
         ausländischen Ehegatten) erteilt am
@@ -2940,21 +3057,21 @@ Abschnitt I
     *   (2)
 
 
-*    *   j)
+*    *   m)
 
     *   § 35 AufenthG (Kinder) erteilt am
 
     *   (2)
 
 
-*    *   k)
+*    *   n)
 
     *   § 38 Abs. 1 Nr. 1 (ehemalige Deutsche) erteilt am
 
     *   (2)
 
 
-*    *   l)
+*    *   o)
 
     *   dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte
         Schweizerische Bürger
@@ -2965,7 +3082,7 @@ Abschnitt I
     *
     *
 
-*    *   m)
+*    *   p)
 
     *   dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von
         freizügigkeitsberechtigten Schweizerischen Bürgern
@@ -3048,7 +3165,7 @@ Abschnitt I
     *   Bescheinigung über das Aufenthaltsrecht EU-/EWR-Bürger
         erteilt am
 
-    *[^f756180_07_BJNR069500995BJNE003216310]
+    *[^f756180_07_BJNR069500995BJNE003217310]
    (2)
 
 
@@ -5432,7 +5549,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003216310]
+    *[^f756180_08_BJNR069500995BJNE003217310]
    (7)
 
     *   – Zuspeicherung durch die
@@ -5640,7 +5757,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003216310]
+    *[^f756180_09_BJNR069500995BJNE003217310]
    (2)
 
     *
@@ -6123,7 +6240,7 @@ Abschnitt III
     erhält alle Daten ohne Namensbezug. In einer Dienstvorschrift wird
     geregelt, welche Daten die Verfassungsschutzbehörden des Bundes und
     der Länder, der BND und der MAD nach § 20 des AZR-Gesetzes erhalten.
-[^f756180_01_BJNR069500995BJNE003216310]: [^f756180_02_BJNR069500995BJNE003216310]:     Es bedeuten:               (1) = wenn der Antrag gestellt ist,
+[^f756180_01_BJNR069500995BJNE003217310]: [^f756180_02_BJNR069500995BJNE003217310]:     Es bedeuten:               (1) = wenn der Antrag gestellt ist,
     (2) = wenn die Entscheidung ergangen ist,               (3) = wenn die
     Entscheidung vollziehbar ist,               (4) = wenn die
     Entscheidung vollzogen ist,               (5) = wenn die Tatsache zur
@@ -6133,14 +6250,14 @@ Abschnitt III
     macht.
     Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
     eine Namensänderung gemeldet wird.
-[^f756180_03_BJNR069500995BJNE003216310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_03_BJNR069500995BJNE003217310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^f756180_04_BJNR069500995BJNE003216310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_04_BJNR069500995BJNE003217310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^f756180_05_BJNR069500995BJNE003216310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_05_BJNR069500995BJNE003217310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^f756180_06_BJNR069500995BJNE003216310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_06_BJNR069500995BJNE003217310]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^f756180_07_BJNR069500995BJNE003216310]:     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003216310]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003216310]: 
+[^f756180_07_BJNR069500995BJNE003217310]:     Bei Antrag auf Erteilung eines Visums.
+[^f756180_08_BJNR069500995BJNE003217310]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003217310]: 
