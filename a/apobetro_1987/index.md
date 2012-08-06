@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.12.2008 I 2338
-
-Änderung durch
-:   Art. 1 V v. 5.6.2012 I 1254 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 5.6.2012 I 1254
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
@@ -2521,6 +2518,11 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
 
 
 
+### § 37 (weggefallen)
+
+-
+
+
 ### § 37 Übergangsvorschriften
 
 (1) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach §
@@ -2537,11 +2539,6 @@ erteilt worden ist, ist § 35 Absatz 5 ab dem 1. Juni 2013 anzuwenden;
 bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich
 mindestens den Anforderungen der Klasse A für die lokale Zone und der
 Klasse C für den Umgebungsbereich entsprechen.
-
-
-### § 37 (weggefallen)
-
--
 
 
 ### Anlage 1 (weggefallen)
