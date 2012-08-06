@@ -1679,12 +1679,12 @@ sein.
 
     x)  die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung oder
         anderen gleichwertigen Vor schriften der Moseluferstaaten
-        erforderlichen Kopien des Typgenehmigungsbogens und des Motor
-        parameterprotokolls eines jeden Motors,
+        erforderlichen Kopien des Typgenehmigungsbogens und des
+        Motorparameterprotokolls eines jeden Motors,
 
 
     y)  die Bescheinigung für die nach § 10.02 Nummer 2 Buchstabe a der
-        Rheinschiffsuntersuchungsordnung vorgeschriebenenDrahtseile,
+        Rheinschiffsuntersuchungsordnung vorgeschriebenen Drahtseile,
 
 
     z)  der für Fahrzeuge mit einer Länge über 110,00 m, ausgenommen
@@ -1692,7 +1692,7 @@ sein.
         Rheinschiffsuntersuchungsordnung geforderte Nachweis einer anerkannten
         Klassifikationsgesellschaft über die Schwimmfähigkeit, die Trimmlage
         und die Stabilität der getrennten Schiffsteile, der auch eine Aussage
-        darüber enthalten muss, ab welchem Beladungs zustand die
+        darüber enthalten muss, ab welchem Beladungszustand die
         Schwimmfähigkeit der beiden Teile nicht mehr gegeben ist,
 
 
@@ -2133,7 +2133,7 @@ Behörde mit Auflagen und Bedingungen versehen werden.
 
 3.  Die Kennzeichen nach den Nummern 1 und 2 sind in gut lesbaren und
     dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der
-    Schriftzeichen muß beim Namen, der einheitlichen euro päischen
+    Schriftzeichen muß beim Namen, der einheitlichen europäischen
     Schiffsnummer und der amtlichen Schiffsnummer mindestens 20 cm, bei
     den anderen Zeichen mindestens 15 cm betragen. Die Breite der
     Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen.
@@ -10014,43 +10014,64 @@ na overleggen van het vorige boekje worden afgegeven. Het vorige
 boekje wordt, nadat het op onuitwisbare wijze als "ongeldig" is
 gemerkt, aan de schipper teruggegeven. Het dient gedurende 6 maanden
 na de laatste vermelding van een afgifte aan boord te worden bewaard.
-1\. **Dechets acceptes survenant lors de l'exploitation du bateau:**
-Akzeptierte Schiffsbetriebsabfälle: Ingenomen scheepsbedrijfsafval:
-1\.1 Huiles ueees/Altöl/afgewerkte olie ........... l 1.2 Eau de fond
-de cale/Bilgenwasser/ Bilgewater de/aus/van: ........... l Salle de
-machine arriere/Maschinenraum hinten/maschinekamer achter ...........
-l Salle de machine avant/Maschinenraum vorne/maschinekamer voor
-........... l Autres/Andere/overige ........... l 1.3 Autres dechets
-huileux ou graisseux/ Andere öl- oder fetthaltige Abfälle/ Overig
-oiiehoudend afval p.e./z.B./bv.: Chiffons uses/Altlappen/gebruikte
-poetslappen ........... kg Graisses usees/Altfett/gebruikt vet
-........... kg Filtres uses/Altfilter/gebruikte filters ...........
-pieces/Stck/Stk 1.4 Autres dechets/anderweitige Abfälle/ overig afval
-p.e./z.B./bv.\*2): recipients/Gebinde/ unite/Anzahl/ vepakkingen
-aantaal ........... diluants usages/gebrauchte Lösungsmittel/gebruikte
-oplosmiddelen ........... \*1) \*2) autres/Andere/overige ...........
+1\.                 Dechets acceptes survenant lors de
+**l'exploitation du bateau:**
+Akzeptierte Schiffsbetriebsabfälle:
+Ingenomen scheepsbedrijfsafval:
+1\.1 Huiles ueees/Altöl/afgewerkte olie     ........... l
+1\.2 Eau de fond de cale/Bilgenwasser/
+Bilgewater
+de/aus/van:                            ........... l
+Salle de machine arriere/Maschinenraum
+hinten/maschinekamer achter            ........... l
+Salle de machine avant/Maschinenraum
+vorne/maschinekamer voor               ........... l
+Autres/Andere/overige                  ........... l
+1\.3 Autres dechets huileux ou graisseux/
+Andere öl- oder fetthaltige Abfälle/
+Overig oiiehoudend afval
+p.e./z.B./bv.:
+Chiffons uses/Altlappen/gebruikte
+poetslappen                            ........... kg
+Graisses usees/Altfett/gebruikt vet    ........... kg
+Filtres uses/Altfilter/gebruikte
+filters                                ........... pieces/Stck/Stk
+1\.4 Autres dechets/anderweitige Abfälle/
+overig afval
+p.e./z.B./bv.\*2):
+recipients/Gebinde/     unite/Anzahl/
+vepakkingen             aantaal        ...........
+diluants usages/gebrauchte
+Lösungsmittel/gebruikte oplosmiddelen  ........... \*1) \*2)
+autres/Andere/overige                  ...........
 ....................................................................
 ....................................................................
-2\. **Notes/Bemerkungen/Opmerkingen:**              2.1 Produits
-refuses/Nicht akzeptierte Abfälle/niet geaccepteerde producten
-...........
+2\. **Notes/Bemerkungen/Opmerkingen:**
+2\.1 Produits refuses/Nicht akzeptierte
+Abfälle/niet geaccepteerde producten   ...........
 ....................................................................
 ....................................................................
-2\.2 Autres remarques/Andere Bemerkungen/ andere opmerkingen:
+2\.2 Autres remarques/Andere Bemerkungen/
+andere opmerkingen:
 ....................................................................
 ....................................................................
-Lieu Date Ort ............................ Datum
-.............................. Plaats Datum
-..................................................... Cachet et
-signature de la station de reception Stempel und Unterschrift der
-Annahmestelle Handtekening en stempel van het ontvangstinrichting
+Lieu                                Date
+Ort ............................    Datum
+..............................
+Plaats                              Datum
+.....................................................
+Cachet et signature de la station de reception
+Stempel und Unterschrift der Annahmestelle
+Handtekening en stempel van het ontvangstinrichting
 ----------------------------------------------------------------------
 --
-\*1) Quantites estimees/Mengen geschätzt/Hoeveelheden geschat. \*2)
-Tutes les stations de reception ne sont pas obligees ou autorisees de
-recevoir ces dechets/Nicht alle Annahmestellen sind verpflichtet oder
-berechtigt, diese Abfälle abzunehmen/Niet alle ontvangstinrichtingen
-zijn verpflicht of gerechtigd dit afval in te nemen.
+\*1) Quantites estimees/Mengen geschätzt/Hoeveelheden geschat.
+\*2) Tutes les stations de reception ne sont pas obligees ou
+autorisees de recevoir ces dechets/
+Nicht alle Annahmestellen sind verpflichtet oder berechtigt, diese
+Abfälle abzunehmen/
+Niet alle ontvangstinrichtingen zijn verpflicht of gerechtigd dit
+afval in te nemen.
 
 
 #### Anlage 11
