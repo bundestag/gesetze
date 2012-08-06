@@ -2070,10 +2070,24 @@ Amtspflegschaft, Amtsvormundschaft).
 
 (2) Das Jugendamt überträgt die Ausübung der Aufgaben des Beistands,
 des Amtspflegers oder des Amtsvormunds einzelnen seiner Beamten oder
-Angestellten. Die Übertragung gehört zu den Angelegenheiten der
-laufenden Verwaltung. In dem durch die Übertragung umschriebenen
-Rahmen ist der Beamte oder Angestellte gesetzlicher Vertreter des
-Kindes oder des Jugendlichen.
+Angestellten. Vor der Übertragung der Aufgaben des Amtspflegers oder
+des Amtsvormunds soll das Jugendamt das Kind oder den Jugendlichen zur
+Auswahl des Beamten oder Angestellten mündlich anhören, soweit dies
+nach Alter und Entwicklungsstand des Kindes oder Jugendlichen möglich
+ist. Eine ausnahmsweise vor der Übertragung unterbliebene Anhörung ist
+unverzüglich nachzuholen. Ein vollzeitbeschäftigter Beamter oder
+Angestellter, der nur mit der Führung von Vormundschaften oder
+Pflegschaften betraut ist, soll höchstens 50 und bei gleichzeitiger
+Wahrnehmung anderer Aufgaben entsprechend weniger Vormundschaften oder
+Pflegschaften führen.
+
+(3) Die Übertragung gehört zu den Angelegenheiten der laufenden
+Verwaltung. In dem durch die Übertragung umschriebenen Rahmen ist der
+Beamte oder Angestellte gesetzlicher Vertreter des Kindes oder
+Jugendlichen. Amtspfleger und Amtsvormund haben den persönlichen
+Kontakt zu diesem zu halten sowie dessen Pflege und Erziehung nach
+Maßgabe des § 1793 Absatz 1a und § 1800 des Bürgerlichen Gesetzbuchs
+persönlich zu fördern und zu gewährleisten.
 
 
 #### § 56 Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft
