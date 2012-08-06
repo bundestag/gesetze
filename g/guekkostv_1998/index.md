@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3982
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.10.2004 I 2709
+:   Art. 1 V v. 29.6.2012 I 1454
 
 
 ## Eingangsformel
@@ -65,7 +65,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2004, 2709 - 2710)
+(Fundstelle: BGBl. I 2004, 2709 - 2710;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd. Nr.
 
@@ -83,30 +84,30 @@ Der Bundesrat hat zugestimmt.
 *    *   1.1
 
     *   Erteilung der Erlaubnis für den gewerblichen Güterkraftverkehr oder
-        der Erteilung/Erneuerung der Gemeinschaftslizenz
+        Erteilung/Erneuerung der Gemeinschaftslizenz
 
-    *   120 - 320
+    *   120 - 700
 
 
 *    *   1.2
 
-    *   Ausstellung einer Ausfertigung/beglaubigten Abschrift
+    *   Ausstellung einer Ausfertigung/beglaubigten Kopie
 
-    *   40 - 80
+    *   40 - 160
 
 
 *    *   1.3
 
     *   Berichtigung/Ersatzausstellung der Erlaubnis/Gemeinschaftslizenz oder
-        einer Ausfertigung/beglaubigten Abschrift
+        einer Ausfertigung/beglaubigten Kopie
 
-    *   30 - 60
+    *   40 - 100
 
 
 *    *   1.4
 
-    *   Überprüfung der Berufszugangsvoraussetzungen nach § 13 der
-        Berufszugangsverordnung für den Güterkraftverkehr innerhalb fünf Jahre
+    *   Mitteilung des Ergebnisses der Überprüfung nach § 11 Absatz 2 der
+        Berufszugangsverordnung für den Güterkraftverkehr
 
     *   50 - 180
 
@@ -122,7 +123,7 @@ Der Bundesrat hat zugestimmt.
 *    *   1.6
 
     *   Erteilung einer Fahrerbescheinigung mit Ausfertigung der beglaubigten
-        Abschrift
+        Kopie
 
     *   60 - 120
 
@@ -130,7 +131,7 @@ Der Bundesrat hat zugestimmt.
 *    *   1.7
 
     *   Berichtigung/Ersatzausstellung der Fahrerbescheinigung oder der
-        beglaubigten Abschrift
+        beglaubigten Kopie
 
     *   30 - 60
 
@@ -142,6 +143,34 @@ Der Bundesrat hat zugestimmt.
         Kabotageverkehr
 
     *   20 - 40
+
+
+*    *   1.9
+
+    *   Untersagung der Güterkraftverkehrsgeschäfte nach § 3 Absatz 5b Satz 1
+        des Güterkraftverkehrsgesetzes
+
+    *   100 - 700
+
+
+*    *   1.10
+
+    *   Wiedergestattung der Güterkraftverkehrsgeschäfte auf Antrag nach § 3
+        Absatz 5b Satz 3 des Güterkraftverkehrsgesetzes
+
+    *   250 - 700
+
+
+*    *   1.11
+
+    *   Fristsetzung zur Behebung des vorschriftswidrigen Zustandes nach
+        Artikel 13 Absatz 1 der Verordnung (EG) Nr. 1071/2009 des Europäischen
+        Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung
+        gemeinsamer Regeln für die Zulassung zum Beruf des
+        Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG
+        (ABl. L 300 vom 14.11.2009, S. 51)
+
+    *   50 - 180
 
 
 *    *   **2**
@@ -221,35 +250,32 @@ Der Bundesrat hat zugestimmt.
     *   Ausstellung einer befristeten Genehmigung (Zeitgenehmigung je Lastzug
         und Land):
 
-    *
+    *   80 - 120
+
 
 *    *   4.3.1
 
-    *   gültig bis zu einem Monat
+    *   (weggefallen)
 
-    *   20 - 40
-
+    *
 
 *    *   4.3.2
 
-    *   gültig bis zu drei Monaten
+    *   (weggefallen)
 
-    *   30 - 50
-
+    *
 
 *    *   4.3.3
 
-    *   gültig bis zu sechs Monaten
+    *   (weggefallen)
 
-    *   40 - 60
-
+    *
 
 *    *   4.3.4
 
-    *   gültig bis zu zwölf Monaten
+    *   (weggefallen)
 
-    *   80 - 120
-
+    *
 
 *    *   4.4
 
@@ -260,10 +286,9 @@ Der Bundesrat hat zugestimmt.
 
 *    *   **5**
 
-    *   **Bestätigung von COP-Dokumenten**
+    *   (weggefallen)
 
-    *   10 - 30
-
+    *
 
 *    *   **6**
 
