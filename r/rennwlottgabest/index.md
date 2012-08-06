@@ -16,7 +16,7 @@ Fundstelle
 :   ZBl: 1922, 351
 
 Zuletzt geändert durch
-:   Art. 35 G v. 21.8.2002 I 3322
+:   Art. 2 G v. 29.6.2012 I 1424
 
 
 ## Eingangsformel
@@ -159,9 +159,9 @@ Dem Verein ist vorzuschreiben, auf welchen Plätzen der Rennbahn der
 Totalisator aufgestellt werden darf und welches der Mindestbetrag der
 Wetteinsätze sein soll. Es kann ihm gestattet werden, auch außerhalb
 der Rennbahn Wettannahmestellen für sein eigenes und für andere
-deutsche Totalisatorunternehmungen zu unterhalten. Die näheren
-Bestimmungen für den Betrieb von Wettannahmestellen trifft die nach
-Landesrecht zuständige Behörde.
+Totalisatorunternehmungen zu unterhalten. Die näheren Bestimmungen für
+den Betrieb von Wettannahmestellen trifft die nach Landesrecht
+zuständige Behörde.
 
 
 ##### c) - besondere Bestimmungen für Buchmacher
@@ -211,14 +211,15 @@ Erlaubnis ergeben.
 
 (1) Die Erteilung der Erlaubnis an Vereine und Buchmacher zum Betrieb
 eines Wettunternehmens, die Beschränkung dieser Erlaubnis und ihr
-Widerruf sind öffentlich bekanntzumachen. Außerdem hat die nach
-Landesrecht zuständige Behörde von jeder Erlaubniserteilung der
-Oberfinanzdirektion, in deren Bezirk der Betrieb des Wettunternehmens
-zugelassen ist, Anzeige zu machen. Die Oberfinanzdirektion hat die
-Anzeige an das für die Erhebung der Rennwettsteuer zuständige
-Finanzamt weiterzuleiten. Dieses hat dem für die Veranlagung der
-Buchmacher zur Einkommensteuer zuständigen Finanzamt Mitteilung zu
-machen. Entsprechendes gilt für die Gewerbesteuern. ...
+Widerruf sind im Bundesanzeiger öffentlich bekanntzumachen. Außerdem
+hat die nach Landesrecht zuständige Behörde von jeder
+Erlaubniserteilung der Oberfinanzdirektion, in deren Bezirk der
+Betrieb des Wettunternehmens zugelassen ist, Anzeige zu machen. Die
+Oberfinanzdirektion hat die Anzeige an das für die Erhebung der
+Rennwettsteuer zuständige Finanzamt weiterzuleiten. Dieses hat dem für
+die Veranlagung der Buchmacher zur Einkommensteuer zuständigen
+Finanzamt Mitteilung zu machen. Entsprechendes gilt für die
+Gewerbesteuern. ...
 
 (2) Das Finanzamt hat über die Totalisatorunternehmen nach Muster 1,
 über die zugelassenen Buchmacher und deren Gehilfen nach Muster 2 eine
@@ -567,7 +568,7 @@ die Entrichtung der Wettsteuer nachgewiesen ist (§ 17), zu vermerken.
 (5) Die Erstattungen sind tunlichst zu beschleunigen.
 
 
-## B. - Lotteriesteuer
+## B. - Lotterie- und Sportwettensteuer
 
 
 
@@ -609,7 +610,8 @@ die Gewinne ganz oder teilweise in barem Gelde bestehen.
 
 #### § 29
 
-Die Lotteriesteuer wird von den Finanzämtern verwaltet.
+Die Lotterie- und Sportwettensteuer wird von den Finanzämtern
+verwaltet.
 
 
 ### - - Örtliche Zuständigkeit
@@ -620,8 +622,7 @@ Die Lotteriesteuer wird von den Finanzämtern verwaltet.
 
 (1) Örtlich zuständig ist das Finanzamt, in dessen Bezirk der
 Veranstalter des Lotterieunternehmens, der Ausspielung oder der
-Oddset-Wette (Veranstalter) seinen Wohnsitz hat, oder sofern eine der
-im
+Sportwette (Veranstalter) seinen Wohnsitz hat, oder sofern eine der im
 § 52              AO genannten Personen oder Personenvereinigungen
 Veranstalter ist, das Finanzamt, in dessen Bezirk diese den Ort ihrer
 Leitung hat. Für Ausspielungen auf Jahrmärkten oder bei Gelegenheit
@@ -632,7 +633,7 @@ in dessen Bezirk die Ausspielung stattfinden soll.
 §§ 51, 52, 57 bis 63              AO finden entsprechende Anwendung.
 
 
-### - - Anmeldung inländischer Lotterien und Oddset-Wetten
+### - - Anmeldung von Lotterien und Sportwetten
 
 
 
@@ -675,20 +676,21 @@ auszustellen.
 
 ##### § 31a
 
-(1) Wer Oddset-Wetten veranstalten will, hat dem zuständigen Finanzamt
-spätestens am dreißigsten Tag nach dem Empfang der behördlichen
-Genehmigung schriftlich anzumelden:
-Name, Gewerbe und Wohnung des Veranstalters und Zeitpunkt der Aufnahme
-des Wettbetriebes.
+(1) Wer Sportwetten im Sinne des § 17 Absatz 2 des Rennwett- und
+Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
+unverzüglich anzumelden:
+Name, Gewerbe und Wohnung oder Sitz des Veranstalters und Zeitpunkt
+der Aufnahme des Wettbetriebs.
 
 (2) Die Anmeldung ist in zwei Ausfertigungen einzureichen.
 
-(3) Der Veranstalter hat bis zum 15. Tag nach Ablauf des
-Anmeldezeitraumes eine Steuererklärung nach amtlich vorgeschriebenem
-Vordruck abzugeben, in der er die gemäß § 37 zu entrichtende Steuer
-selbst zu berechnen hat (Steueranmeldung). Die Steueranmeldung muss
-vom Veranstalter eigenhändig unterschrieben sein. Anmeldungszeitraum
-ist der Kalendermonat.
+(3) Der Veranstalter oder sein steuerlicher Beauftragter hat bis zum
+15\. Tag nach Ablauf des Anmeldezeitraumes eine Steuererklärung nach
+amtlich vorgeschriebenem Vordruck abzugeben, in der er die gemäß § 37
+zu entrichtende Steuer selbst zu berechnen hat (Steueranmeldung). Die
+Steueranmeldung muss vom Veranstalter oder sein steuerlicher
+Beauftragter eigenhändig unterschrieben sein. Anmeldungszeitraum ist
+der Kalendermonat.
 
 
 #### b) - bei ungetrennter Preisangabe
@@ -734,7 +736,7 @@ ordentlichen Rechtsmittelverfahren entschieden.
 
 Die Behörde, welche nach den Bestimmungen der Landesgesetze die
 Erlaubnis zur Veranstaltung einer öffentlichen Lotterie, Ausspielung
-oder Oddset-Wette erteilt, hat den Veranstalter auf seine steuerlichen
+oder Sportwette erteilt, hat den Veranstalter auf seine steuerlichen
 Verpflichtungen gemäß §§ 31, 31a und 32 besonders hinzuweisen und von
 der Erteilung der Erlaubnis ohne Verzug dem Finanzamt unter
 Bezeichnung des Unternehmens und seines Zweckes, des Namens und der
@@ -767,34 +769,36 @@ es dem Steuerpflichtigen zurück und leitet die andere der Finanzkasse
 zu. Die Anmeldung wird Beleg zum Sollbuch.
 
 (2) Hat das Finanzamt gemäß § 34 von der beabsichtigten Veranstaltung
-einer Lotterie, Ausspielung oder Oddset-Wette Kenntnis erhalten, ohne
-daß innerhalb der dreißigtägigen Frist die vorgeschriebene Anmeldung
-erfolgt ist, so hat es wegen Festsetzung und Beitreibung der
-Lotteriesteuer, sowie nach den Umständen wegen Einleitung des
-Strafverfahrens das Erforderliche zu veranlassen. Die Vorlegung der
-Lose zur Abstempelung kann im Wege des
+einer Lotterie, Ausspielung oder Sportwette Kenntnis erhalten, ohne
+dass innerhalb der Fristen nach § 31 Absatz 1 oder § 31a Absatz 1 die
+vorgeschriebene Anmeldung erfolgt ist, so hat es wegen Festsetzung und
+Beitreibung der Lotteriesteuer, sowie nach den Umständen wegen
+Einleitung des Strafverfahrens das Erforderliche zu veranlassen. Die
+Vorlegung der Lose zur Abstempelung kann im Wege des
 § 202              AO erzwungen werden. Um einen beabsichtigten
 Vertrieb ungestempelter Lose zu verhindern, kann das Finanzamt die
 Polizeibehörde um Beschlagnahme der Lose ersuchen.
 
 
-### - - Berechnung der Lotteriesteuer
+### - - Berechnung der Lotterie- und Sportwettensteuer
 
 
 
 #### § 37
 
-(1) Bei Berechnung der Lotteriesteuer für im Inland veranstaltete
-Lotterien, Ausspielungen und Oddset-Wetten sind alle für den Erwerb
-eines Loses oder eines Wettscheines an den Veranstalter oder dessen
+(1) Bei der Berechnung der Lotteriesteuer für im Inland veranstaltete
+Lotterien und Ausspielungen und der Sportwettensteuer nach § 17 Absatz
+2 des Rennwett- und Lotteriegesetzes sind alle für den Erwerb eines
+Loses oder eines Wettscheines an den Veranstalter oder dessen
 Beauftragten zu bewirkenden Leistungen dem Preise des Loses oder dem
-Wetteinsatz hinzuzurechnen, insbesondere auch die Schreib- und
-Kollektionsgebühren. Hierher gehört auch der dem Spieler etwa
-besonders in Rechnung gestellte Betrag der Steuer. Da aber Steuer von
-der Steuer nicht erhoben wird, sind bei Berechnung der Steuer nur 5/6
-des Gesamtpreises zugrunde zu legen.
+Wetteinsatz hinzuzurechnen, insbesondere in Rechnung gestellte
+Schreib- und Kollektionsgebühren. Hierher gehört auch der dem Spieler
+etwa besonders in Rechnung gestellte Betrag der Steuer. Da aber
+Lotteriesteuer von der Lotteriesteuer nicht erhoben wird, sind bei
+Berechnung der Lotteriesteuer nur 5/6 des Gesamtpreises zugrunde zu
+legen.
 
-(2) Für inländische Lotterien und Oddset-Wetten ist die Steuer nach
+(2) Für inländische Lotterien und Sportwetten ist die Steuer nach
 Maßgabe des Absatzes 1 derart festzustellen, daß ein sich bei
 Berechnung der Gesamtsteuer ergebender überschießender Centbetrag auf
 den nächsten durch fünf teilbaren Centbetrag nach unten abzurunden
@@ -810,7 +814,7 @@ Loses berechnet. Für die Umrechnung fremder Währungen sind die für die
 Umsatzsteuer geltenden Bestimmungen anzuwenden.
 
 
-### - - Zahlung der Lotteriesteuer
+### - - Zahlung der Lotterie- und Sportwettensteuer
 
 
 
@@ -985,8 +989,8 @@ Vorschriften der
 (1) Die Bestimmungen der §§ 27, 28, 31, 31a Abs. 1 und 2, §§ 32 bis
 36, 37 Abs. 4, §§ 39, 40 bis 44 finden auf die Staatslotterien der
 Länder und auf die von den Ländern oder in deren Auftrag
-veranstalteten Oddset-Wetten keine Anwendung. § 31a Abs. 3 gilt mit
-der Maßgabe, dass auch ein kürzerer Anmeldungszeitraum als der
+veranstalteten Sportwetten keine Anwendung. § 31a Abs. 3 gilt mit der
+Maßgabe, dass auch ein kürzerer Anmeldungszeitraum als der
 Kalendermonat zulässig ist.
 
 (2) Die Verwaltung der Staatslotterien haben spätestens am 15. Tag
@@ -1018,17 +1022,19 @@ zu. Die Anzeige wird Beleg zum Sollbuch.
 
 (1) Die Steueraufsicht über Totalisatorunternehmen betreibende Renn-
 und Pferdezuchtvereine (Vereine), Buchmacher, Veranstalter von
-Lotterien, Ausspielungen und Oddset-Wetten (Veranstalter) ist nicht
-nur bei Festsetzung der Steuer auf Grund der eingereichten
-Nachweisungen und Anmeldungen auszuüben, sondern auch durch Prüfungen
-in den Geschäftsräumen, die der Unterhaltung der Betriebe dienen
-(Büros der Vereine, der Veranstalter, der Buchmacher und deren
-Gehilfen) sowie durch Prüfungen der Totalisatorbetriebe auf den
-Rennplätzen und der Örtlichkeiten, wo Lotterien, Ausspielungen und
-Oddset-Wetten stattfinden.
+Lotterien, Ausspielungen und Sportwetten (Veranstalter) ist nicht nur
+bei Festsetzung der Steuer auf Grund der eingereichten Nachweisungen
+und Anmeldungen auszuüben, sondern auch durch Prüfungen in den
+Geschäftsräumen, die der Unterhaltung der Betriebe dienen (Büros der
+Vereine, der Veranstalter, der Buchmacher und deren Gehilfen) sowie
+durch Prüfungen der Totalisatorbetriebe auf den Rennplätzen und der
+Örtlichkeiten, wo Lotterien, Ausspielungen und Sportwetten
+stattfinden. Wurde ein steuerlicher Beauftragter im Sinne des § 19
+Absatz 3 des Rennwett- und Lotteriegesetzes benannt, gilt Satz 1
+entsprechend.
 
 (2) Staatslotterien und von den Ländern oder in deren Auftrag
-veranstaltete Oddset-Wetten unterliegen der Steueraufsicht nicht.
+veranstaltete Sportwetten unterliegen der Steueraufsicht nicht.
 
 
 ### - - Prüfungsfolge
