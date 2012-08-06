@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1065
 
 Zuletzt geändert durch
-:   Art. 80 G v. 23.12.2003 I 2848
+:   Art. 1a G v. 21.7.2012 I 1601
 
 
 ## § 1 Anwendungsbereich
@@ -82,11 +82,44 @@ von einer anerkannten Beratungsstelle hat beraten lassen.
 ununterbrochener Dauer des Arbeitsverhältnisses.
 
 
+## § 3a Anspruch auf Entgeltfortzahlung bei Spende von Organen oder Geweben
+
+(1) Ist ein Arbeitnehmer durch Arbeitsunfähigkeit infolge der Spende
+von Organen oder Geweben, die nach den §§ 8 und 8a des
+Transplantationsgesetzes erfolgt, an seiner Arbeitsleistung
+verhindert, hat er Anspruch auf Entgeltfortzahlung durch den
+Arbeitgeber für die Zeit der Arbeitsunfähigkeit bis zur Dauer von
+sechs Wochen. § 3 Absatz 1 Satz 2 gilt entsprechend.
+
+(2) Dem Arbeitgeber sind von der gesetzlichen Krankenkasse des
+Empfängers von Organen oder Geweben das an den Arbeitnehmer nach
+Absatz 1 fortgezahlte Arbeitsentgelt sowie die hierauf entfallenden
+vom Arbeitgeber zu tragenden Beiträge zur Sozialversicherung und zur
+betrieblichen Alters- und Hinterbliebenenversorgung auf Antrag zu
+erstatten. Ist der Empfänger von Organen oder Geweben gemäß § 193
+Absatz 3 des Versicherungsvertragsgesetzes bei einem privaten
+Krankenversicherungsunternehmen versichert, erstattet dieses dem
+Arbeitgeber auf Antrag die Kosten nach Satz 1 in Höhe des tariflichen
+Erstattungssatzes. Ist der Empfänger von Organen oder Geweben bei
+einem Beihilfeträger des Bundes beihilfeberechtigt oder
+berücksichtigungsfähiger Angehöriger, erstattet der zuständige
+Beihilfeträger dem Arbeitgeber auf Antrag die Kosten nach Satz 1 zum
+jeweiligen Bemessungssatz des Empfängers von Organen oder Geweben;
+dies gilt entsprechend für sonstige öffentlich-rechtliche Träger von
+Kosten in Krankheitsfällen auf Bundesebene. Unterliegt der Empfänger
+von Organen oder Geweben der Heilfürsorge im Bereich des Bundes oder
+der truppenärztlichen Versorgung, erstatten die zuständigen Träger auf
+Antrag die Kosten nach Satz 1. Mehrere Erstattungspflichtige haben die
+Kosten nach Satz 1 anteilig zu tragen. Der Arbeitnehmer hat dem
+Arbeitgeber unverzüglich die zur Geltendmachung des
+Erstattungsanspruches erforderlichen Angaben zu machen.
+
+
 ## § 4 Höhe des fortzuzahlenden Arbeitsentgelts
 
-(1) Für den in § 3 Abs. 1 bezeichneten Zeitraum ist dem Arbeitnehmer
-das ihm bei der für ihn maßgebenden regelmäßigen Arbeitszeit
-zustehende Arbeitsentgelt fortzuzahlen.
+(1) Für den in § 3 Abs. 1 oder in § 3a Absatz 1 bezeichneten Zeitraum
+ist dem Arbeitnehmer das ihm bei der für ihn maßgebenden regelmäßigen
+Arbeitszeit zustehende Arbeitsentgelt fortzuzahlen.
 
 (1a) Zum Arbeitsentgelt nach Absatz 1 gehören nicht das zusätzlich für
 Überstunden gezahlte Arbeitsentgelt und Leistungen für Aufwendungen
@@ -101,8 +134,8 @@ der Berechnung zugrunde zu legen.
 
 (2) Ist der Arbeitgeber für Arbeitszeit, die gleichzeitig infolge
 eines gesetzlichen Feiertages ausgefallen ist, zur Fortzahlung des
-Arbeitsentgelts nach § 3 verpflichtet, bemißt sich die Höhe des
-fortzuzahlenden Arbeitsentgelts für diesen Feiertag nach § 2.
+Arbeitsentgelts nach § 3 oder nach § 3a verpflichtet, bemißt sich die
+Höhe des fortzuzahlenden Arbeitsentgelts für diesen Feiertag nach § 2.
 
 (3) Wird in dem Betrieb verkürzt gearbeitet und würde deshalb das
 Arbeitsentgelt des Arbeitnehmers im Falle seiner Arbeitsfähigkeit
@@ -215,11 +248,11 @@ Arbeitnehmer das Arbeitsverhältnis aus einem vom Arbeitgeber zu
 vertretenden Grunde kündigt, der den Arbeitnehmer zur Kündigung aus
 wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigt.
 
-(2) Endet das Arbeitsverhältnis vor Ablauf der in § 3 Abs. 1
-bezeichneten Zeit nach dem Beginn der Arbeitsunfähigkeit, ohne daß es
-einer Kündigung bedarf, oder infolge einer Kündigung aus anderen als
-den in Absatz 1 bezeichneten Gründen, so endet der Anspruch mit dem
-Ende des Arbeitsverhältnisses.
+(2) Endet das Arbeitsverhältnis vor Ablauf der in § 3 Abs. 1 oder in §
+3a Absatz 1 bezeichneten Zeit nach dem Beginn der Arbeitsunfähigkeit,
+ohne daß es einer Kündigung bedarf, oder infolge einer Kündigung aus
+anderen als den in Absatz 1 bezeichneten Gründen, so endet der
+Anspruch mit dem Ende des Arbeitsverhältnisses.
 
 
 ## § 9 Maßnahmen der medizinischen Vorsorge und Rehabilitation

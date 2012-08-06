@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18. 1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 1.6.2012 I 1224
+:   Art. 8 G v. 21.7.2012 I 1566
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -2692,8 +2692,8 @@ zulässig, soweit sie erforderlich ist
     b)  für die Entscheidung über den Aufenthalt oder über die
         ausländerrechtliche Zulassung oder Beschränkung einer Erwerbstätigkeit
         des Ausländers Daten über die Zustimmung nach § 4 Abs. 2 Satz 3, § 17
-        Satz 1, § 18 Absatz 2 Satz 1, § 18a Absatz 1 und § 19 Absatz 1 Satz 1
-        des Aufenthaltsgesetzes,
+        Satz 1, § 18 Absatz 2 Satz 1, § 18a Absatz 1, § 19 Absatz 1 Satz 1 und
+        § 19a Absatz 1 des Aufenthaltsgesetzes,
 
 
     c)  für eine Entscheidung über den Aufenthalt des Ausländers Angaben
@@ -2718,9 +2718,10 @@ zulässig, soweit sie erforderlich ist
     des Aufenthaltsgesetzes bezeichneten Mitteilungspflichten, wenn die
     Mitteilung die Erteilung, den Widerruf oder Beschränkungen der
     Zustimmung nach § 4 Abs. 2 Satz 3, § 17 Satz 1, § 18 Absatz 2 Satz 1,
-    § 18a Absatz 1 und § 19 Absatz 1 Satz 1 des Aufenthaltsgesetzes oder
-    eines Versicherungsschutzes oder die Gewährung von Leistungen zur
-    Sicherung des Lebensunterhalts nach dem Zweiten Buch betrifft.
+    § 18a Absatz 1, § 19 Absatz 1 Satz 1 und § 19a Absatz 1 des
+    Aufenthaltsgesetzes oder eines Versicherungsschutzes oder die
+    Gewährung von Leistungen zur Sicherung des Lebensunterhalts nach dem
+    Zweiten Buch betrifft.
 
 
 
@@ -2975,6 +2976,9 @@ Gemeinschaften ist zulässig, soweit
 
 
 
+Die Übermittlung von Sozialdaten unterbleibt, soweit sie zu den in
+Artikel 6 des Vertrages über die Europäische Union enthaltenen
+Grundsätzen in Widerspruch stünde.
 
 (2) Absatz 1 gilt entsprechend für die Übermittlung an Personen oder
 Stellen in einem Drittstaat sowie an über- oder zwischenstaatliche

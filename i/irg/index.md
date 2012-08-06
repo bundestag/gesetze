@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27. 6.1994 I 1537
 
 Zuletzt geändert durch
-:   Art. 1 G v. 18.10.2010 I 1408
+:   Art. 1 G v. 21.7.2012 I 1566
 
 
 ## Erster Teil - Anwendungsbereich
@@ -2149,9 +2149,9 @@ richten sich nach § 14 Abs. 1 Satz 1 Nr. 2 und § 15 Abs. 1 bis 3 des
 Bundeskriminalamtgesetzes.
 
 (4) Als Ersuchen im Sinne der Absätze 1 und 2 gelten auch
-Datenübermittlungen nach den §§ 61a und 92. Datenübermittlungen nach §
-61a sind, soweit sie nicht in völkerrechtlichen Vereinbarungen nach §
-1 Abs. 3 vorgesehen sind, von der Möglichkeit einer Übertragung nach
+Datenübermittlungen nach den §§ 61a und 92c. Datenübermittlungen nach
+§ 61a sind, soweit sie nicht in völkerrechtlichen Vereinbarungen nach
+§ 1 Abs. 3 vorgesehen sind, von der Möglichkeit einer Übertragung nach
 Absatz 2 ausgeschlossen.
 
 
@@ -3761,18 +3761,142 @@ Anwendung.
 (2) Dieser Teil geht den in § 1 Abs. 3 genannten völkerrechtlichen
 Vereinbarungen vor, soweit er abschließende Regelungen enthält.
 
+(3) Die §§ 92 bis 92b finden auch im Rahmen des Rechtshilfeverkehrs
+auf die Staaten Anwendung, welche die Bestimmungen des Schengen-
+Besitzstandes auf Grund eines Assoziierungsübereinkommens mit der
+Europäischen Union über die Umsetzung, Anwendung und Entwicklung des
+Schengen-Besitzstandes anwenden (Schengenassoziierte Staaten).
+
 
 ### Abschnitt 2 - Besondere Formen der Rechtshilfe
 
 
 
-#### § 92 Datenübermittlung ohne Ersuchen
+#### § 92 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
-(1) Soweit eine völkerrechtliche Vereinbarung dies vorsieht, dürfen
-öffentliche Stellen ohne Ersuchen personenbezogene Daten, die den
-Verdacht einer Straftat begründen, an öffentliche Stellen eines
-anderen Mitgliedstaates der Europäischen Union sowie Organe und
-Einrichtungen der Europäischen Gemeinschaften übermitteln, soweit
+(1) Auf ein Ersuchen einer Strafverfolgungsbehörde eines
+Mitgliedstaates der Europäischen Union, das nach Maßgabe des
+Rahmenbeschlusses 2006/960/JI des Rates vom 18. Dezember 2006 über die
+Vereinfachung des Austauschs von Informationen und Erkenntnissen
+zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der
+Europäischen Union (ABl. L 386 vom 29.12.2006, S. 89, L 75 vom
+15\.3.2007, S. 26) gestellt worden ist, können die zuständigen
+Polizeibehörden des Bundes und der Länder Informationen einschließlich
+personenbezogener Daten zum Zweck der Verfolgung von Straftaten
+übermitteln. Die Übermittlung erfolgt unter den gleichen gesetzlichen
+Voraussetzungen wie an eine inländische Polizeibehörde. Die Regelungen
+des § 3 des Bundeskriminalamtgesetzes über den internationalen
+Dienstverkehr der Polizeien des Bundes und der Länder bleiben
+unberührt.
+
+(2) Bei der Übermittlung nach Absatz 1 ist mitzuteilen, dass die
+Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist,
+es sei denn, die für Entscheidungen über Ersuchen nach dem Fünften
+Teil zuständige Bewilligungsbehörde hat ihre Zustimmung zur Verwendung
+als Beweismittel erteilt. Entsprechend entscheidet die für Ersuchen
+nach dem Fünften Teil zuständige Behörde auch über ein Ersuchen um
+nachträgliche Genehmigung der Verwertbarkeit als Beweismittel.
+
+(3) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten nach Absatz 1 ist unzulässig, wenn
+
+1.  hierdurch wesentliche Sicherheitsinteressen des Bundes oder der Länder
+    beeinträchtigt würden,
+
+
+2.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
+    sind und nur durch das Ergreifen von Zwangsmaßnahmen erlangt werden
+    können oder
+
+
+3.  die Übermittlung der Daten unverhältnismäßig wäre oder die Daten für
+    die Zwecke, für die sie übermittelt werden sollen, nicht erforderlich
+    sind.
+
+
+
+
+(4) Die Bewilligung eines Ersuchens nach Absatz 1 kann verweigert
+werden, wenn
+
+1.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
+    sind, jedoch ohne das Ergreifen von Zwangsmaßnahmen erlangt werden
+    können oder
+
+
+2.  hierdurch der Erfolg laufender Ermittlungen oder Leib, Leben oder
+    Freiheit einer Person gefährdet würde oder
+
+
+3.  die Tat, zu deren Verfolgung die Daten übermittelt werden sollen, nach
+    deutschem Recht mit einer Freiheitsstrafe von im Höchstmaß einem Jahr
+    oder weniger bedroht ist.
+
+
+
+
+(5) Als Strafverfolgungsbehörde eines Mitgliedstaates der Europäischen
+Union im Sinne des Absatzes 1 gilt jede von diesem Staat gemäß Artikel
+2 Buchstabe a des Rahmenbeschlusses 2006/960/JI benannte Stelle.
+
+
+#### § 92a Inhalt des Ersuchens
+
+Die Bewilligung eines Ersuchens im Sinne des § 92 Absatz 1 Satz 1 ist
+nur zulässig, wenn das Ersuchen folgende Angaben enthält:
+
+1.  die Bezeichnung und die Anschrift der ersuchenden
+    Strafverfolgungsbehörde,
+
+
+2.  die Bezeichnung der Straftat, zu deren Verfolgung die Daten benötigt
+    werden,
+
+
+3.  die Beschreibung des Sachverhalts der dem Ersuchen zugrunde liegenden
+    Straftat,
+
+
+4.  die Benennung des Zwecks, zu dem die Daten erbeten werden,
+
+
+5.  den Zusammenhang zwischen dem Zweck, zu dem die Informationen oder
+    Erkenntnisse erbeten werden, und der Person, auf die sich diese
+    Informationen beziehen,
+
+
+6.  Einzelheiten zur Identität des Beschuldigten, sofern sich das
+    Ermittlungsverfahren gegen eine bekannte Person richtet, und
+
+
+7.  Gründe für die Annahme, dass sachdienliche Informationen und
+    Erkenntnisse im Inland vorliegen.
+
+
+
+
+
+#### § 92b Verwendung von nach dem Rahmenbeschluss 2006/960/JI übermittelten Informationen einschließlich personenbezogener Daten
+
+Informationen einschließlich personenbezogener Daten, die nach dem
+Rahmenbeschluss 2006/960/JI an eine inländische Polizeibehörde
+übermittelt worden sind, dürfen nur für die Zwecke, für die sie
+übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
+erheblichen Gefahr für die öffentliche Sicherheit verwendet werden.
+Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen
+Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde
+Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung
+der Daten gestellte Bedingungen sind zu beachten.
+
+
+#### § 92c Datenübermittlung ohne Ersuchen
+
+(1) Soweit eine völkerrechtliche Vereinbarung dies vorsieht oder nach
+Maßgabe des Rahmenbeschlusses 2006/960/JI, dürfen öffentliche Stellen
+ohne Ersuchen personenbezogene Daten, die den Verdacht einer Straftat
+begründen, an öffentliche Stellen eines anderen Mitgliedstaates der
+Europäischen Union oder eines Schengen-assoziierten Staates sowie
+Organe und Einrichtungen der Europäischen Union übermitteln, soweit
 
 1.  eine Übermittlung auch ohne Ersuchen an ein deutsches Gericht oder
     eine deutsche Staatsanwaltschaft zulässig wäre und

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 11.5.2011 I 821
 
+Änderung durch
+:   Art. 1 V v. 20.7.2012 I 1639 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 
@@ -2547,6 +2550,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   4-Fluoramfetamin (4-FA, 4-FMP)
+
+    *   (RS)-1-(4-Fluorphenyl)propan-2-amin
+
+
+*    *   -
+
     *   p-Fluorfentanyl
 
     *   N-(4-Fluorphenyl)-N-(1-phenethyl-4-piperidyl)propanamid
@@ -3282,6 +3292,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   chemische Namen (IUPAC)
 
 
+*    *   -
+
+    *   1-Adamantyl(1-pentyl-1H-indol-3-yl)methanon
+
+    *   (Adamantan-1-yl)(1-pentyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
+    *   AM-694
+
+    *   [1-(5-Fluorpentyl)-1
+        H                       -indol-3-yl](2-iodphenyl)methanon
+
+
 *    *   Amfetaminil
 
     *   -
@@ -3329,6 +3355,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   5-Allyl-5-isobutylbarbitursäure
+
+
+*    *   -
+
+    *   Butylon
+
+    *   1-(Benzo[d][1,3]dioxol-5-yl)-2-
+        (methylamino)butan-1-on
 
 
 *    *   -
@@ -3497,6 +3531,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
 
+*    *   -
+
+    *   Ethcathinon
+
+    *   (
+        RS                       )-2-(Ethylamino)-1-
+        phenylpropan-1-on
+
+
 *    *   Ethchlorvynol
 
     *   -
@@ -3541,6 +3584,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin
 
 
+*    *   -
+
+    *   Flephedron (4-Fluormethcathinon, 4-FMC)
+
+    *   1-(4-Fluorphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
+    *   4-Fluormethamfetamin (4-FMA)
+
+    *   1-(4-Fluorphenyl)-N-methylpropan-2-amin
+
+
+*    *   -
+
+    *   p-Fluorphenylpiperazin (p-FPP)
+
+    *   1-(4-Fluorphenyl)piperazin
+
+
+*    *   -
+
+    *   4-Fluortropacocain
+
+    *   3-(4-Fluorbenzoyloxy)tropan
+
+
 *    *   Glutethimid
 
     *   -
@@ -3564,6 +3635,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   JWH-007
+
+    *   (2-Methyl-1-pentyl-1
+        H                       -indol-3-yl)(naphthalin-1-yl)methanon
+
+
+*    *   -
+
+    *   JWH-015
+
+    *   (2-Methyl-1-propyl-1
+        H                       -indol-3-yl)(naphthalin-1-yl)methanon
+
+
+*    *   -
+
     *   JWH-018 (1-Pentyl-3-(1-naphthoyl)indol)
 
     *   (Naphthalin-1-yl)(1-pentyl-1H-indol-3-yl)methanon
@@ -3581,6 +3668,64 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   JWH-073 (1-Butyl-3-(1-naphthoyl)indol)
 
     *   (Naphthalin-1-yl)(1-butyl-1H-indol-3-yl)methanon
+
+
+*    *   -
+
+    *   JWH-081
+
+    *   (4-Methoxynaphthalin-1-yl)(1-
+        pentyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
+    *   JWH-122
+
+    *   (4-Methylnaphthalin-1-yl)(1-pentyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
+    *   JWH-200
+
+    *   [1-(2-Morpholinoethyl)-1
+        H                       -indol-3-yl](naphthalin-1-yl)methanon
+
+
+*    *   -
+
+    *   JWH-203
+
+    *   2-(2-Chlorphenyl)-1-(1-pentyl-1
+        H                       -indol-3-yl)ethanon
+
+
+*    *   -
+
+    *   JWH-210
+
+    *   (4-Ethylnaphthalin-1-yl)(1-pentyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
+    *   JWH-250
+        (1-Pentyl-3-(2-methoxy-phenylacetyl)indol)
+
+    *   2-(2-Methoxyphenyl)-1-(1-pentyl-1
+        H                       -indol-3-yl)ethanon
+
+
+*    *   -
+
+    *   JWH-251
+
+    *   2-(2-Methylphenyl)-1-(1-pentyl-1
+        H                       -indol-3-yl)ethanon
 
 
 *    *   Levamfetamin
@@ -3654,6 +3799,55 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2-Methyl-3-(2-methylphenyl)chinazolin-4(3H)-on
 
 
+*    *   -
+
+    *   Methedron (4-Methoxymethcathinon, PMMC)
+
+    *   1-(4-Methoxyphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
+    *   p-Methoxyethylamfetamin (PMEA)
+
+    *   N-Ethyl-1-(4-methoxyphenyl)propan-2-amin
+
+
+*    *   -
+
+    *   4-Methylamfetamin
+
+    *   1-(4-Methylphenyl)propan-2-amin
+
+
+*    *   -
+
+    *   Methylbenzylpiperazin (MBZP)
+
+    *   1-Benzyl-4-methylpiperazin
+
+
+*    *   -
+
+    *   3,4-Methylendioxypyrovaleron (MDPV)
+
+    *   1-(Benzo[d][1,3]dioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-on
+
+
+*    *   -
+
+    *   4-Methylethcathinon (4-MEC)
+
+    *   2-(Ethylamino)-1-(4-methylphenyl)propan-1-on
+
+
+*    *   -
+
+    *   Methylon (3,4-Methylendioxy-N-methcathinon, MDMC)
+
+    *   1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)propan-1-on
+
+
 *    *   Methyprylon
 
     *   -
@@ -3703,6 +3897,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Moramid-Zwischenprodukt (Premoramid)
 
     *   3-Methyl-4-morpholino-2,2-diphenylbutansäure
+
+
+*    *   -
+
+    *   Naphyron (Naphthylpyrovaleron)
+
+    *   1-(Naphthalin-2-yl)-2-(pyrrolidin-1-yl)pentan-1-on
 
 
 *    *   Nicocodin
@@ -3823,6 +4024,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   RCS-4
+
+    *   (4-Methoxyphenyl)(1-pentyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
     *   delta9-Tetrahydrocannabinol (delta9-THC)
 
     *   6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo(c)chromen-1-ol
@@ -3861,6 +4070,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   Ethyl((1RS,2RS)-2-dimethylamino-1-phenylcyclohex-3-encarboxylat)
+
+
+*    *   -
+
+    *   3-Trifluormethylphenylpiperazin (TFMPP)
+
+    *   1-[3-(Trifluormethyl)phenyl]piperazin
 
 
 *    *   Vinylbital

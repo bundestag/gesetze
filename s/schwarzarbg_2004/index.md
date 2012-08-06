@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.11.2011 I 2258
+:   Art. 7 G v. 21.7.2012 I 1566
 
 
 ## Abschnitt 1 - Zweck
@@ -466,6 +466,127 @@ Ausländerbehörde unverzüglich zu übermitteln.
 (4) Bestehen Anhaltspunkte dafür, dass eine nach § 5 Abs. 1 Satz 4 in
 Verwahrung genommene Urkunde unecht oder verfälscht ist, ist sie an
 die zuständige Polizeivollzugsbehörde zu übermitteln.
+
+Übermittlung personenbezogener
+
+### § 6a Daten an Mitgliedstaaten der Europäischen Union
+
+(1) Die Behörden der Zollverwaltung können personenbezogene Daten, die
+in Zusammenhang mit einem der in § 2 Absatz 1 genannten
+Prüfgegenstände stehen, zum Zweck der Verhütung von Straftaten an eine
+für die Verhütung und Verfolgung zuständige Behörde eines
+Mitgliedstaates der Europäischen Union übermitteln. Dabei ist eine
+Übermittlung personenbezogener Daten ohne Ersuchen nur zulässig, wenn
+im Einzelfall die Gefahr der Begehung einer Straftat im Sinne des
+Artikels 2 Absatz 2 des Rahmenbeschlusses 2002/584/JI des Rates vom
+13\. Juni 2002 über den Europäischen Haftbefehl und die
+Übergabeverfahren zwischen den Mitgliedstaaten (ABl. L 190 vom
+18\.7.2002, S. 1), der zuletzt durch den Rahmenbeschluss 2009/299/JI
+(ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, besteht und
+konkrete Anhaltspunkte dafür vorliegen, dass die Übermittlung dieser
+personenbezogenen Daten dazu beitragen könnte, eine solche Straftat zu
+verhindern.
+
+(2) Die Übermittlung personenbezogener Daten nach Absatz 1 ist nur
+zulässig, wenn das Ersuchen mindestens folgende Angaben enthält:
+
+1.  die Bezeichnung und die Anschrift der ersuchenden Behörde,
+
+
+2.  die Bezeichnung der Straftat, zu deren Verhütung die Daten benötigt
+    werden,
+
+
+3.  die Beschreibung des Sachverhalts, der dem Ersuchen zugrunde liegt,
+
+
+4.  die Benennung des Zwecks, zu dem die Daten erbeten werden,
+
+
+5.  der Zusammenhang zwischen dem Zweck, zu dem die Informationen oder
+    Erkenntnisse erbeten werden, und der Person, auf die sich diese
+    Informationen beziehen,
+
+
+6.  Einzelheiten zur Identität der betroffenen Person, sofern sich das
+    Ersuchen auf eine bekannte Person bezieht, und
+
+
+7.  Gründe für die Annahme, dass sachdienliche Informationen und
+    Erkenntnisse im Inland vorliegen.
+
+
+
+
+(3) Die Datenübermittlung nach Absatz 1 unterbleibt, wenn
+
+1.  hierdurch wesentliche Sicherheitsinteressen des Bundes oder der Länder
+    beeinträchtigt würden,
+
+
+2.  die Übermittlung der Daten unverhältnismäßig wäre oder die Daten für
+    die Zwecke, für die sie übermittelt werden sollen, nicht erforderlich
+    sind,
+
+
+3.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
+    sind und nur durch das Ergreifen von Zwangsmaßnahmen erlangt werden
+    können oder
+
+
+4.  besondere bundesgesetzliche Verwendungsregelungen entgegenstehen; die
+    Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder
+    von Berufs- oder besonderen Amtsgeheimnissen, die nicht auf
+    gesetzlichen Vorschriften beruhen, bleibt unberührt.
+
+
+
+
+(4) Die Übermittlung kann unterbleiben, wenn
+
+1.  die Tat, zu deren Verhütung die Daten übermittelt werden sollen, nach
+    deutschem Recht mit einer Freiheitsstrafe von im Höchstmaß einem Jahr
+    oder weniger bedroht ist,
+
+
+2.  die übermittelten Daten als Beweismittel vor einer Justizbehörde
+    verwendet werden sollen,
+
+
+3.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
+    sind, jedoch ohne das Ergreifen von Zwangsmaßnahmen erlangt werden
+    können, oder
+
+
+4.  der Erfolg laufender Ermittlungen oder Leib, Leben oder Freiheit einer
+    Person gefährdet würde.
+
+
+
+
+(5) Personenbezogene Daten, die nach dem Rahmenbeschluss 2006/960/JI
+des Rates vom 18. Dezember 2006 über die Vereinfachung des Austauschs
+von Informationen und Erkenntnissen zwischen den
+Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
+(ABl. L 386 vom 29.12.2006, S. 89, L 75 vom 15.3.2007, S. 26) an die
+Behörden der Zollverwaltung übermittelt worden sind, dürfen ohne
+Zustimmung des übermittelnden Staates nur für die Zwecke, für die sie
+übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
+erheblichen Gefahr für die öffentliche Sicherheit verwendet werden.
+Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen
+Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde
+Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung
+der Daten gestellte Bedingungen sind zu beachten.
+
+(6) Die Behörden der Zollverwaltung erteilen dem übermittelnden Staat
+auf dessen Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft
+darüber, wie die übermittelten Daten verwendet wurden.
+
+(7) Die Absätze 1 bis 6 finden auch Anwendung auf die Übermittlung von
+personenbezogenen Daten an für die Verhütung und Verfolgung von
+Straftaten zuständige Behörden eines Schengen-assoziierten Staates im
+Sinne von § 91 Absatz 3 des Gesetzes über die internationale
+Rechtshilfe in Strafsachen.
 
 
 ### § 7 Auskunftsansprüche bei anonymen Werbemaßnahmen

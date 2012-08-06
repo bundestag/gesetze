@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 25.6.2012 I 1374
+:   Art. 2 G v. 21.7.2012 I 1566
 
 
 ## Übersicht
@@ -2526,13 +2526,15 @@ entsprechend, soweit die Hilfspersonen (§ 53a) der in § 53 Abs. 1 Satz
 Ton-, Bild- und Datenträgern, Abbildungen und anderen Darstellungen,
 die sich im Gewahrsam dieser Personen oder der Redaktion, des
 Verlages, der Druckerei oder der Rundfunkanstalt befinden, unzulässig.
-Absatz 2 Satz 3 und § 160a Abs. 4 Satz 2 gelten entsprechend; die
-Beschlagnahme ist jedoch auch in diesen Fällen nur zulässig, wenn sie
-unter Berücksichtigung der Grundrechte aus Artikel 5 Abs. 1 Satz 2 des
-Grundgesetzes nicht außer Verhältnis zur Bedeutung der Sache steht und
-die Erforschung des Sachverhaltes oder die Ermittlung des
-Aufenthaltsortes des Täters auf andere Weise aussichtslos oder
-wesentlich erschwert wäre.
+Absatz 2 Satz 3 und § 160a Abs. 4 Satz 2 gelten entsprechend, die
+Beteiligungsregelung in Absatz 2 Satz 3 jedoch nur dann, wenn die
+bestimmten Tatsachen einen dringenden Verdacht der Beteiligung
+begründen; die Beschlagnahme ist jedoch auch in diesen Fällen nur
+zulässig, wenn sie unter Berücksichtigung der Grundrechte aus Artikel
+5 Abs. 1 Satz 2 des Grundgesetzes nicht außer Verhältnis zur Bedeutung
+der Sache steht und die Erforschung des Sachverhaltes oder die
+Ermittlung des Aufenthaltsortes des Täters auf andere Weise
+aussichtslos oder wesentlich erschwert wäre.
 
 
 #### § 98
@@ -13772,7 +13774,8 @@ Auskünfte zu erteilen. Gegen deren Entscheidung kann die Entscheidung
 der Staatsanwaltschaft eingeholt werden. Die Übermittlung
 personenbezogener Daten zwischen Behörden des Polizeidienstes oder
 eine entsprechende Akteneinsicht ist ohne Entscheidung nach Satz 1
-zulässig.
+zulässig, es sei denn, es bestehen Zweifel an der Zulässigkeit der
+Übermittlung oder der Akteneinsicht.
 
 (2) Aus beigezogenen Akten, die nicht Aktenbestandteil sind, dürfen
 Auskünfte nur erteilt werden, wenn der Antragsteller die Zustimmung
@@ -13833,14 +13836,19 @@ bleiben unberührt.
 
 (1) Die Polizeibehörden dürfen nach Maßgabe der Polizeigesetze
 personenbezogene Daten aus Strafverfahren verwenden. Zu den dort
-genannten Zwecken dürfen Strafverfolgungsbehörden an Polizeibehörden
-personenbezogene Daten aus Strafverfahren übermitteln. Die Sätze 1 und
-2 gelten nicht in den Fällen, in denen die Polizei ausschließlich zum
-Schutz privater Rechte tätig wird.
+genannten Zwecken dürfen Strafverfolgungsbehörden und Gerichte an
+Polizeibehörden personenbezogene Daten aus Strafverfahren übermitteln
+oder Akteneinsicht gewähren. Die Sätze 1 und 2 gelten nicht in den
+Fällen, in denen die Polizei ausschließlich zum Schutz privater Rechte
+tätig wird.
 
 (2) Die Verwendung ist unzulässig, soweit besondere bundesgesetzliche
 oder entsprechende landesgesetzliche Verwendungsregelungen
 entgegenstehen.
+
+(3) Hat die Polizeibehörde Zweifel, ob eine Verwendung
+personenbezogener Daten nach dieser Bestimmung zulässig ist, gilt §
+478 Absatz 1 Satz 1 und 2 entsprechend.
 
 
 #### § 482
