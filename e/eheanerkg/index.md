@@ -16,5 +16,5 @@ Fundstelle
 :   BGBl: 1950, 226
 
 Geändert durch
-:   Gesetz zur Änderung des Gesetzes über die Anerkennung freier Ehen rassisch und politisch Verfolgter vom 7. März 1956, Bundesgesetzbl. I S. 104
+:   G v. 7. März 1956 I 104
 
