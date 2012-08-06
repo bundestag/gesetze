@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1177 (1244)
 
-Geändert durch
-:   Art. 1 V v. 6.9.2011 I 1842
-
-Änderung durch
-:   Art. 1 V v. 26.6.2012 I 1393 (Nr. 28) noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 1 V v. 26.6.2012 I 1393
 
 
 ## Eingangsformel
@@ -244,7 +241,8 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2010, 1179 - 1184)
+(Fundstelle: BGBl. I 2010, 1179 - 1184;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   lfd.
@@ -380,9 +378,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *
     *   Marseille
 
-    *   1
+    *   2
 
-    *   (eins)
+    *   (zwei)
 
 
 *    *
@@ -708,9 +706,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Moskau
 
-    *   10
+    *   9
 
-    *   (zehn)
+    *   (neun)
 
 
 *    *
@@ -1153,9 +1151,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Accra
 
-    *   17
+    *   18
 
-    *   (siebzehn)
+    *   (achtzehn)
 
 
 *    *   15
@@ -1220,9 +1218,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Tripolis
 
-    *   16
+    *   17
 
-    *   (sechzehn)
+    *   (siebzehn)
 
 
 *    *   21
@@ -1414,9 +1412,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *
     *   Kapstadt
 
-    *   13
+    *   14
 
-    *   (dreizehn)
+    *   (vierzehn)
 
 
 *    *   37
@@ -1575,9 +1573,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Santo Domingo
 
-    *   12
+    *   13
 
-    *   (zwölf)
+    *   (dreizehn)
 
 
 *    *   7
@@ -1947,9 +1945,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Manama
 
-    *   13
+    *   14
 
-    *   (dreizehn)
+    *   (vierzehn)
 
 
 *    *   5
@@ -2323,9 +2321,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Kathmandu
 
-    *   18
+    *   17
 
-    *   (achtzehn)
+    *   (siebzehn)
 
 
 *    *   30
@@ -2418,9 +2416,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Damaskus
 
-    *   16
+    *   17
 
-    *   (sechzehn)
+    *   (siebzehn)
 
 
 *    *   37
@@ -2582,7 +2580,8 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2010, 1185)
+(Fundstelle: BGBl. I 2010, 1185;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   lfd.
@@ -2610,36 +2609,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   (drei)
 
 
-*    *
-    *
-    *   Tongeren
-
-    *   1
-
-    *   (eins)
-
-
 *    *   2
-
-    *   Frankreich
-
-    *   Le Luc
-
-    *   2
-
-    *   (zwei)
-
-
-*    *
-    *
-    *   Nancy
-
-    *   2
-
-    *   (zwei)
-
-
-*    *   3
 
     *   Italien
 
@@ -2650,7 +2620,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   (drei)
 
 
-*    *   4
+*    *   3
 
     *   Niederlande
 
@@ -2663,7 +2633,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 *    *
     *
-    *   Kerkrade
+    *   Eibergen
 
     *   2
 
