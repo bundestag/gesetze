@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1922, 335, 393
 
-Stand: Zuletzt geändert Art. 119 V v. 31.10.2006 I 2407
+Stand: Zuletzt geändert Art. 1 u. 4 G v. 29.6.2012 I 1424
 
 ## I. - Rennwetten
 
@@ -42,6 +42,15 @@ werden.
 Sicherheit bieten, daß sie die Einnahmen ausschließlich zum Besten der
 Landespferdezucht verwenden.
 
+(4) Eine Erlaubnis für den Betrieb eines Totalisators aus Anlass
+öffentlicher Pferderennen im Ausland und anderer ausländischer
+Leistungsprüfungen für Pferde darf Vereinen erteilt werden, wenn sie
+die Sicherheit bieten, dass sie die Einnahmen daraus ebenfalls
+ausschließlich zum Besten der Landespferdezucht verwenden. Der Betrieb
+von Totalisatoren ist diesen Vereinen auch in Kooperation mit anderen
+Rennvereinen und Totalisatorveranstaltern grenzüberschreitend
+gestattet.
+
 
 #### § 2
 
@@ -65,9 +74,35 @@ verbunden werden.
 #### § 3
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz bestimmt durch Rechtsverordnung mit Zustimmung des
-Bundesrates, unter welchen Voraussetzungen die Erlaubnis nach § 1 Abs.
-1 erteilt werden darf.
+Verbraucherschutz wird ermächtigt, durch Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
+und mit Zustimmung des Bundesrates zum Zweck der Förderung der
+Tierzucht mit Pferden
+
+1.  die näheren Voraussetzungen für das Erteilen einer Erlaubnis nach § 1
+    Absatz 1 oder § 2 Absatz 1 in Verbindung mit Absatz 2,
+
+
+2.  die Tatbestände, auf die sich die Erlaubnis erstreckt,
+
+
+3.  das Verfahren für das Erteilen der Erlaubnis, einschließlich der
+    Aufbewahrungspflichten,
+
+
+4.  das Beurkunden und Aufzeichnen abgeschlossener Wetten durch den
+    Erlaubnisinhaber, einschließlich der Aufbewahrung der Urkunden und
+    Bescheinigungen,
+
+
+5.  die Einzelheiten des Zuweisungsverfahrens und der Begrenzung der Höhe
+    der Zuweisungen auf die Nettokosten nach § 16 Absatz 1 sowie die
+    Zerlegung des zuweisungsfähigen Aufkommens der Buchmachersteuer nach
+    den §§ 11 und 16
+
+
+
+zu regeln.
 
 
 #### § 4
@@ -170,8 +205,7 @@ Euro geahndet werden.
 #### § 10
 
 (1) Von den am Totalisator gewetteten Beträgen hat der Unternehmer des
-Totalisators eine Steuer von sechzehn zwei Drittel vom Hundert an
-das Reich              zu entrichten.
+Totalisators eine Steuer von 5 vom Hundert zu entrichten.
 
 (2) Diese Steuer ist auch dann zu entrichten, wenn ausschließlich
 Mitglieder bestimmter Vereine zum Wetten zugelassen werden.
@@ -183,8 +217,7 @@ Wetteinsätzen.
 #### § 11
 
 (1) Der Buchmacher hat von jeder bei ihm abgeschlossenen Wette eine
-Steuer von sechzehn zwei Drittel vom Hundert des Wetteinsatzes an
-das Reich              zu entrichten.
+Steuer von 5 vom Hundert des Wetteinsatzes zu entrichten.
 
 (2) Die Steuerschuld entsteht, wenn die Wette verbindlich geworden ist
 (§ 4 Abs. 2), spätestens jedoch mit der Entscheidung des Rennens, auf
@@ -222,31 +255,54 @@ zu verwenden sind.
 
 #### § 16
 
-Die Rennvereine, die einen Totalisator betreiben, erhalten bis zu 96
-vom Hundert des Aufkommens der Totalisatorsteuer (§ 10). Sie haben die
-Beträge zu Zwecken der öffentlichen Leistungsprüfungen für Pferde zu
-verwenden. Der
+(1) Die Rennvereine, die einen Totalisator betreiben, erhalten bis zu
+96 vom Hundert des Aufkommens der Totalisatorsteuer (§ 10). Sie haben
+die Beträge zu Zwecken der öffentlichen Leistungsprüfungen für Pferde
+zu verwenden. Der
 Reichsminister für Ernährung und Landwirtschaft              und der
 Reichsminister der Finanzen              setzen die Anteile der
 Rennvereine fest und treffen die erforderlichen Bestimmungen. Die
 Anteile können für die einzelnen Rennvereine verschieden bemessen
 werden.
 
+(2) Absatz 1 findet keine Anwendung auf das Aufkommen der
+Totalisatorsteuer nach § 10, das mittels Erlaubnissen nach § 1 Absatz
+4 erzielt wird.
 
-## II. - Besteuerung von Lotterien, Ausspielungen und Wetten zu festen Odds (Oddset-Wetten)
+
+## II. - Besteuerung von Lotterien, Ausspielungen und Sportwetten
 
 
 
 ### § 17
 
-Im Inland veranstaltete öffentliche Lotterien, Ausspielungen und
-Oddset-Wetten, die nicht Rennwetten nach Abschnitt I dieses Gesetzes
-sind, unterliegen einer Steuer. Eine Lotterie, Ausspielung oder
-Oddset-Wette nach Satz 1 gilt als öffentlich, wenn die für die
-Genehmigung zuständige Behörde sie als genehmigungspflichtig ansieht.
-Die Steuer beträgt zwanzig vom Hundert des planmäßigen Preises
-(Nennwert) sämtlicher Lose oder des Wettscheines entsprechend § 4 Abs.
-1 Satz 1 ausschließlich der Steuer.
+(1) Im Inland veranstaltete öffentliche Lotterien und Ausspielungen
+unterliegen einer Steuer. Eine Lotterie oder Ausspielung nach Satz 1
+gilt als öffentlich, wenn die für die Genehmigung zuständige Behörde
+sie als genehmigungspflichtig ansieht. Die Steuer beträgt 20 vom
+Hundert des planmäßigen Preises (Nennwert) sämtlicher Lose
+ausschließlich der Steuer.
+
+(2) Wetten aus Anlass von Sportereignissen (Sportwetten), die nicht
+als Rennwetten nach Abschnitt I dieses Gesetzes besteuert werden,
+unterliegen einer Steuer, wenn
+
+1.  die Sportwette im Inland veranstaltet wird oder
+
+
+2.  der Spieler eine natürliche Person ist und bei Abschluss des
+    Wettvertrages seinen Wohnsitz oder gewöhnlichen Aufenthalt im
+    Geltungsbereich dieses Gesetzes hat oder, wenn er keine natürliche
+    Person ist, bei Abschluss des Wettvertrages seine Geschäftsleitung
+    oder seinen Sitz im Geltungsbereich dieses Gesetzes hat. Dies gilt
+    nicht, wenn der Spieler sich bei Abschluss des Wettvertrages außerhalb
+    des Geltungsbereiches dieses Gesetzes aufhält und die zur Entstehung
+    des Wettvertrages erforderlichen Handlungen dort vorgenommen werden.
+
+
+
+Die Steuer beträgt 5 vom Hundert des Nennwertes der Wettscheine
+beziehungsweise des Spieleinsatzes.
 
 
 ### § 18
@@ -289,22 +345,76 @@ Von der Besteuerung ausgenommen sind
 
 ### § 19
 
-(1) Steuerschuldner ist der Veranstalter der Lotterie, Ausspielung
-oder der Oddset-Wette. Die Steuerschuld entsteht bei Lotterien oder
-Ausspielungen mit der Genehmigung, spätestens aber in dem Zeitpunkt,
-zu dem die Genehmigung hätte eingeholt werden müssen. Bei Oddset-
-Wetten nach § 17 entsteht die Steuer, wenn die Wette verbindlich
-geworden ist. § 4 Abs. 2 gilt entsprechend.
+(1) Die Steuer für Lotterien und Ausspielungen (§ 17 Absatz 1)
+schuldet der Veranstalter. Die Steuerschuld entsteht mit der
+Genehmigung, spätestens aber in dem Zeitpunkt, zu dem die Genehmigung
+hätte eingeholt werden müssen. Die Steuer für Lotterien und
+Ausspielungen ist von dem Veranstalter zu entrichten, bevor mit dem
+Losabsatz begonnen wird.
 
-(2) Die Steuer für Lotterien und Ausspielungen ist von dem
-Veranstalter zu entrichten, bevor mit dem Losabsatz begonnen wird. Die
-Steuer für Oddset-Wetten ist am 15. Tag nach Ablauf des
-Anmeldungszeitraums fällig.
+(2) Die Steuer für Sportwetten (§ 17 Absatz 2) schuldet der
+Veranstalter. Die Steuerschuld entsteht, wenn die Wette verbindlich
+geworden ist. § 4 Absatz 2 gilt entsprechend. Die Steuer für
+Sportwetten ist am 15. Tag nach Ablauf des Anmeldungszeitraums fällig.
+
+(3) Der Veranstalter nach Absatz 2 hat, soweit er seinen Wohnsitz oder
+seinen Sitz nicht in einem Mitgliedstaat der Europäischen Union oder
+einem Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum hat, einen steuerlichen Beauftragten im Inland zu
+benennen. Steuerlicher Beauftragter kann sein, wer seinen
+Geschäftssitz im Inland hat, gegen dessen steuerliche Zuverlässigkeit
+keine Bedenken bestehen und der – soweit er nach dem Handelsgesetzbuch
+oder der Abgabenordnung dazu verpflichtet ist – ordnungsmäßig
+kaufmännische Bücher führt und rechtzeitig Jahresabschlüsse aufstellt.
+Der steuerliche Beauftragte hat die Pflichten des im Ausland
+ansässigen Veranstalters nach diesem Gesetz als eigene zu erfüllen. Er
+hat die gleichen Rechte und Pflichten wie der Veranstalter. Der
+steuerliche Beauftragte schuldet die Steuer nach Absatz 2 neben dem
+Veranstalter.
+
+(4) Wurde ein steuerlicher Beauftragter im Sinne des Absatzes 3
+benannt, ist das Finanzamt örtlich zuständig, in dessen Bezirk der
+steuerliche Beauftragte seinen Geschäftssitz hat. Ergibt sich für
+Sportwetten keine Zuständigkeit im Inland, kann das Bundesministerium
+der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates ein
+zuständiges Finanzamt bestimmen.
 
 
 ### § 20
 
--
+(1) Der Veranstalter einer Sportwette (§ 17 Absatz 2) ist
+verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer
+Berechnung Aufzeichnungen zu führen. Soweit ein steuerlicher
+Beauftragter gemäß § 19 Absatz 3 benannt ist, hat der Veranstalter
+diesem die Aufzeichnungen nach Satz 1 monatlich zu übermitteln.
+
+(2) Aus den Aufzeichnungen müssen insbesondere zu ersehen sein:
+
+1.  Name und Anschrift des Spielers;
+
+
+2.  Beschreibung der Sportwette, der Art der Sportwette, des
+    Sportereignisses, auf das sich die Sportwette bezieht;
+
+
+3.  vereinbarter Einsatz für die jeweilige Sportwette;
+
+
+4.  Zahlungen des Spielers, auch wenn keine Sportwette zustande gekommen
+    ist;
+
+
+5.  die jeweilige Bemessungsgrundlage für die Steuer;
+
+
+6.  Zeitpunkt der Vereinnahmung des Spieleinsatzes und der
+    Gewinnauszahlung;
+
+
+7.  Höhe der Steuer.
+
+
+
 
 
 ### § 21
@@ -346,13 +456,41 @@ unversteuerter (§ 21) ausländischer Lose oder ausländischer Ausweise
 
 ### § 24
 
--
+(1) Das Gesamtaufkommen der Steuer nach § 17 Absatz 2 wird bis zum
+Jahr 2019 nach den Absätzen 2 und 3 zerlegt.
+
+(2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der
+Steuer nach § 17 Absatz 2 sind nach den folgenden Zerlegungsmaßstäben
+zu ermitteln:
+
+1.  zu 50 vom Hundert entsprechend den Anteilen am im Jahr 2010 erzielten
+    Aufkommen der Steuern nach dem Rennwett- und Lotteriegesetz,
+
+
+2.  zu 50 vom Hundert entsprechend dem Einwohneranteil der Bundesländer.
+
+
+
+Dabei sind jeweils die am 1. Mai beim Statistischen Bundesamt
+verfügbaren neuesten Daten des dem Zerlegungsjahr folgenden Jahres
+zugrunde zu legen.
+
+(3) Die Zerlegung wird von einer für die Finanzverwaltung zuständigen
+obersten Landesbehörde durchgeführt. Dabei sind Abschlagszahlungen
+unter Berücksichtigung des jeweiligen Vorjahresergebnisses
+festzusetzen, die am 15. März, 15. Juni, 15. September und 15.
+Dezember des Jahres zu leisten sind. Bis zur Festsetzung der
+Zerlegungsanteile für das Vorjahr sind die Abschlagszahlungen
+vorläufig in bisheriger Höhe zu entrichten. Das Bundesministerium der
+Finanzen kann durch Rechtsverordnung mit Zustimmung des Bundesrates
+die Aufgabe der Zerlegung einer für die Finanzverwaltung zuständigen
+Finanzbehörde übertragen.
 
 
 ### § 25
 
 (1) Die Bestimmungen zur Ausführung dieses Gesetzes erläßt der
-Reichsminister der Finanzen              ....
+Reichsminister der Finanzen             .
 
 (2) Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach
 den §§ 3 und 4 Abs. 1 Satz 2 zu erlassen, soweit das Bundesministerium
@@ -360,8 +498,28 @@ für Ernährung, Landwirtschaft und Verbraucherschutz von seiner
 Befugnis keinen Gebrauch macht. Sie können diese Befugnis auf oberste
 Landesbehörden übertragen.
 
+(3) Die Länder können über Rechtsverordnungen nach den §§ 3 und 4 und
+nach Absatz 2 hinaus weitergehende Vorschriften über das Veranstalten
+und Vermitteln von Pferdewetten, das Vermitteln von Pferdewetten über
+das Internet und in das Ausland sowie Vorschriften über Regelungen zur
+Spielersperre, Spielwerbung und zum Schutz Minderjähriger erlassen.
+Die landesrechtlichen Vorschriften können auch Regelungen zum Schutz
+der Allgemeinheit, insbesondere die Gefahrenaufklärung der
+Öffentlichkeit, umfassen.
+
 
 ### § 26
 
--
+Die Offenbarung der nach § 30 der Abgabenordnung geschützten
+Verhältnisse des Betroffenen durch die Finanzbehörde gegenüber der
+zuständigen Glücksspielaufsichtsbehörde ist zulässig, soweit es dem
+Verfahren der Glücksspielaufsicht dient.
+
+
+### § 27
+
+Die für Glücksspielaufsicht zuständige Behörde ist verpflichtet,
+erlangte Kenntnisse gegenüber der Finanzbehörde mitzuteilen, soweit
+die Kenntnisse der Durchführung eines Verfahrens in Steuersachen
+dienen.
 
