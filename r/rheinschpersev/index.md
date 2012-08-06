@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 1300
 
+Änderung durch
+:   Art. 2 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
