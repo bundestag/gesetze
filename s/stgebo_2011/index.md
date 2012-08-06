@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 4 V v. 10.5.2012 I 1086
-
-Änderung durch
-:   Art. 5 V v. 26.6.2012 I 1394 (Nr. 28) noch nicht berücksichtigt!
+:   Art. 5 V v. 26.6.2012 I 1394
 
 
 ## Eingangsformel
@@ -1330,7 +1327,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001004308]
+[^F1.774775_01_BJNR009800011BJNE001005308]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -1356,7 +1353,7 @@ Gebühren der Behörden im Landesbereich
 *    *
     *   **1.**
 
-    *   **Fahrerlaubnis und Führerschein**
+    *   **Fahrerlaubnis, Führerschein und Fahrberechtigung**
 
     *
 
@@ -1368,7 +1365,10 @@ Gebühren der Behörden im Landesbereich
         durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines
         Antrags auf Erteilung des Rechts, von einer ausländischen
         Fahrerlaubnis im Inland Gebrauch zu machen, durch die nach § 21 Absatz
-        1 FeV zuständige Behörde
+        1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung einer
+        Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren,
+        der nach Landesrecht anerkannten Rettungsdienste, des Technischen
+        Hilfswerks und sonstiger Einheiten des Katastrophenschutzes
 
     *   5,10
 
@@ -1377,9 +1377,9 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Erteilung einer Fahrerlaubnis oder Fahrerlaubnis zur
-        Fahrgastbeförderung, Erteilung des Rechts, von einer ausländischen
-        Fahrerlaubnis im Inland Gebrauch zu machen, und/oder Ausfertigung des
-        Führerscheins
+        Fahrgastbeförderung, Erteilung einer Fahrberechtigung, Erteilung des
+        Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu
+        machen, und/oder Ausfertigung des Führerscheins
 
     *
 
@@ -1474,6 +1474,17 @@ Gebühren der Behörden im Landesbereich
     *   1,50 bis 10,00
 
 
+*    *   202.10
+
+    *
+    *   Erteilung einer Fahrberechtigung für Mitglieder der Freiwilligen
+        Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des
+        Technischen Hilfswerks und sonstiger Einheiten des
+        Katastrophenschutzes
+
+    *   19,20
+
+
 *    *   203
 
     *
@@ -1509,7 +1520,9 @@ Gebühren der Behörden im Landesbereich
         Fahrerlaubnis zur Fahrgastbeförderung; Versagung der Verlängerung der
         Geltungsdauer einer Fahrerlaubnis oder Fahrerlaubnis zur
         Fahrgastbeförderung; Entziehung, Widerruf oder Rücknahme einer
-        Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Untersagen
+        Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Aberkennung
+        des Rechts oder Feststellung der fehlenden Berechtigung, von einer
+        ausländischen Fahrerlaubnis im Inland Gebrauch zu machen; Untersagen
         des Führens von Fahrzeugen oder Tieren
 
     *   33,20 bis 256,00
@@ -1693,7 +1706,9 @@ Gebühren der Behörden im Landesbereich
     *
     *   Die Gebühren nach Nummern 221.1, 221.2, 221.6 und 221.7 erhöhen sich
         im Falle des Umtauschs des Fahrzeugbriefs in eine
-        Zulassungsbescheinigung Teil II um 5,10 Euro.
+        Zulassungsbescheinigung Teil II um 5,10 Euro. Die Gebühren nach
+        Nummern 221.1 und 221.2 erhöhen sich im Falle der Zuteilung eines
+        Wechselkennzeichens um 6,00 Euro.
 
     *
 
@@ -1763,9 +1778,14 @@ Gebühren der Behörden im Landesbereich
 *    *   222
 
     *
-    *   (aufgehoben)
+    *   Zuteilung und Ausfertigung eines Vordrucks einer
+        Zulassungsbescheinigung Teil II außerhalb eines Zulassungsverfahrens
+        Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 2
+        Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
+        im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
-    *
+    *   10,20
+
 
 *    *   223
 
@@ -1774,7 +1794,7 @@ Gebühren der Behörden im Landesbereich
         außerhalb eines Zulassungsverfahrens einschließlich Erteilung der
         Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV
 
-    *   52,30
+    *   49,70
 
 
 *    *
@@ -1784,6 +1804,15 @@ Gebühren der Behörden im Landesbereich
         im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
     *
+
+*    *   223.1
+
+    *
+    *   Erteilung der Betriebserlaubnis nach § 21 StVZO/Einzelgenehmigung nach
+        § 13 EG-FGV
+
+    *   39,50
+
 
 *    *   224
 
@@ -1881,10 +1910,10 @@ Gebühren der Behörden im Landesbereich
         Die Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich bei
         gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer
         225\.
-        Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich, wenn der Abruf
-        von Daten gemäß § 12 Absatz 2 Satz 4 FZV beim Kraftfahrt-Bundesamt
-        nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht
-        verfügbar sind, um 15,30 Euro.
+        Die Gebühren nach Nummer 227.3 erhöhen sich, wenn der Abruf von Daten
+        gemäß § 12 Absatz 2 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich
+        ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind,
+        um 15,30 Euro.
         Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich im Falle der
         Zuteilung eines Wunschkennzeichens um 10,20 Euro.
         Die Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich im Falle des
@@ -1896,7 +1925,8 @@ Gebühren der Behörden im Landesbereich
 *    *   227.1
 
     *
-    *   Erteilung der Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV
+    *   Erteilung der Betriebserlaubnis nach § 21 StVZO/Einzelgenehmigung nach
+        § 13 EG-FGV
 
     *   39,50
 
@@ -1905,9 +1935,7 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Erteilung der Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV und
-        Zuteilung eines eigenen amtlichen Kennzeichens, Änderung der
-        Erkennungsnummer, Änderung des Betriebszeitraums beim
-        Saisonkennzeichen
+        Zuteilung eines eigenen Kennzeichens
 
     *   55,60
 
@@ -1940,6 +1968,15 @@ Gebühren der Behörden im Landesbereich
         Fahrzeugs innerhalb des Zulassungsbezirks – Halterwechsel –
 
     *   16,00
+
+
+*    *   227.6
+
+    *
+    *   Änderung der Erkennungsnummer oder des Betriebszeitraums beim
+        Saisonkennzeichen
+
+    *   26,30
 
 
 *    *   228
@@ -2235,7 +2272,7 @@ Gebühren der Behörden im Landesbereich
     *   Anordnung zum Führen eines Fahrtenbuches einschließlich der Prüfung
         der Eintragung
 
-    *   21,50 bis 93,10
+    *   21,50 bis 200,00
 
 
 *    *   253
@@ -3142,7 +3179,10 @@ und der Sehteststellen
 *    *   402
 
     *
-    *   Praktische Prüfung für eine Fahrerlaubnis
+    *   Praktische Prüfung für eine Fahrerlaubnis oder eine Fahrberechtigung
+        für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach
+        Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks
+        und sonstiger Einheiten des Katastrophenschutzes
 
     *
 
@@ -3197,7 +3237,11 @@ und der Sehteststellen
 *    *   402.5
 
     *
-    *   Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E
+    *   Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E oder für
+        eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen
+        Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des
+        Technischen Hilfswerks und sonstiger Einheiten des
+        Katastrophenschutzes
 
     *   118,00
 
@@ -3797,7 +3841,7 @@ und der Sehteststellen
 
 *    *
     *
-    *[^F1.774775_02_BJNR009800011BJNE001004308]
+    *[^F1.774775_02_BJNR009800011BJNE001005308]
    Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV
 
     *
@@ -3811,18 +3855,18 @@ und der Sehteststellen
 
     *   Änderungsabnahme nach § 19 Absatz 3 StVZO
 
-    *[^F1.774775_04_BJNR009800011BJNE001004308]
+    *[^F1.774775_04_BJNR009800011BJNE001005308]
    Hauptuntersuchung (HU) nach § 29 StVZO
-[^F1.774775_05_BJNR009800011BJNE001004308]
-[^F1.774775_06_BJNR009800011BJNE001004308]
-[^F1.774775_07_BJNR009800011BJNE001004308]
-[^F1.774775_08_BJNR009800011BJNE001004308]
-[^F1.774775_09_BJNR009800011BJNE001004308]
+[^F1.774775_05_BJNR009800011BJNE001005308]
+[^F1.774775_06_BJNR009800011BJNE001005308]
+[^F1.774775_07_BJNR009800011BJNE001005308]
+[^F1.774775_08_BJNR009800011BJNE001005308]
+[^F1.774775_09_BJNR009800011BJNE001005308]
 
     *   Sicherheitsprüfung (SP) nach § 29 StVZO
 
 
-*    *[^F1.774775_03_BJNR009800011BJNE001004308]
+*    *[^F1.774775_03_BJNR009800011BJNE001005308]
    Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23
         StVZO
 
@@ -4044,11 +4088,7 @@ und der Sehteststellen
         Durchführungs-Richtlinie für die Untersuchung der Abgase
         Wird die Abgasuntersuchung als Teiluntersuchung der Hauptuntersuchung
         durchgeführt, ergibt sich der zulässige Gebührenrahmen durch
-        Multiplikation der festgeschriebenen Gebühren mit 0,7.
-        Kann aus technischen Gründen auf die Messung am Auspuffendrohr nicht
-        verzichtet werden, sind statt der Gebührennummern 413.5.1.3, 413.5.1.5
-        und 413.5.1.7 jeweils die Gebührennummern 413.5.1.2, 413.5.1.4 und
-        413\.5.1.6 anzuwenden.
+        Multiplikation der festgeschriebenen Gebühren mit 0,85.
 
     *
 
@@ -4062,64 +4102,17 @@ und der Sehteststellen
 *    *   413.5.1.1
 
     *
-    *   Kraftfahrzeuge mit Fremdzündungsmotor ohne Katalysator oder mit
-        Katalysator, jedoch ohne lambdageregelte Gemischaufbereitung
+    *   Abgasuntersuchungen mit Abgasmessung am Auspuffendrohr
 
-    *   10,90 bis 32,70
+    *   21,20 bis 98,00
 
 
 *    *   413.5.1.2
 
     *
-    *   Kraftfahrzeuge mit Fremdzündungsmotor mit Katalysator und
-        lambdageregelter Gemischaufbereitung
+    *   Abgasuntersuchungen ohne Abgasmessung am Auspuffendrohr
 
-    *   10,90 bis 32,70
-
-
-*    *   413.5.1.3
-
-    *
-    *   Kraftfahrzeuge mit Fremdzündungsmotor mit On-BoardDiagnosesystem (OBD-
-        System)
-
-    *   6,20 bis 18,40
-
-
-*    *   413.5.1.4
-
-    *
-    *   Kraftfahrzeuge mit Kompressionszündungsmotor ohne
-        On-Board-Diagnosesystem                      (OBD-System)
-
-    *   16,30 bis 98,00
-
-
-*    *   413.5.1.5
-
-    *
-    *   Kraftfahrzeuge mit Kompressionszündungsmotor mit
-        On-Board-Diagnosesystem                      (OBD-System)
-
-    *   9,20 bis 55,20
-
-
-*    *   413.5.1.6
-
-    *
-    *   Kraftfahrzeuge mit alternativen Antrieben oder Kraftstoffen ohne On-
-        Board-Diagnosesystem (OBD-System)
-
-    *   10,90 bis 98,00
-
-
-*    *   413.5.1.7
-
-    *
-    *   Kraftfahrzeuge mit alternativen Antrieben oder Kraftstoffen mit On-
-        Board-Diagnosesystem (OBD-System)
-
-    *   6,20 bis 55,20
+    *   11,95 bis 55,20
 
 
 *    *   413.5.2
@@ -4530,22 +4523,22 @@ und der Sehteststellen
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001004308]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+[^F1.774775_01_BJNR009800011BJNE001005308]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
     EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F1.774775_02_BJNR009800011BJNE001004308]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F1.774775_02_BJNR009800011BJNE001005308]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F1.774775_03_BJNR009800011BJNE001004308]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F1.774775_03_BJNR009800011BJNE001005308]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
     zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F1.774775_04_BJNR009800011BJNE001004308]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F1.774775_04_BJNR009800011BJNE001005308]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -4553,11 +4546,11 @@ und der Sehteststellen
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F1.774775_05_BJNR009800011BJNE001004308]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F1.774775_05_BJNR009800011BJNE001005308]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F1.774775_06_BJNR009800011BJNE001004308]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F1.774775_06_BJNR009800011BJNE001005308]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
@@ -4567,13 +4560,13 @@ und der Sehteststellen
     Nummer 1.2.1.2 der Anlage VIII StVZO genannten Kraftfahrzeugen
     entfällt eine Überprüfung der Abgase nach Nummer 4.8.2 der Anlage
     VIIIa StVZO).
-[^F1.774775_07_BJNR009800011BJNE001004308]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+[^F1.774775_07_BJNR009800011BJNE001005308]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F1.774775_08_BJNR009800011BJNE001004308]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F1.774775_08_BJNR009800011BJNE001005308]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F1.774775_09_BJNR009800011BJNE001004308]: 
+[^F1.774775_09_BJNR009800011BJNE001005308]: 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1318
 
-Änderung durch
-:   Art. 3 V v. 26.6.2012 I 1394 (Nr. 28) noch nicht berücksichtigt!
+Geändert durch
+:   Art. 3 V v. 26.6.2012 I 1394
 
 
 ## Eingangsformel
@@ -3878,26 +3878,30 @@ Kontrolle der Kraftfahrzeuge und
 
 
 
+(zu § 6 Absatz 2)
+Ausbildungsbescheinigung für den theoretischen Mindestunterricht
 
-## Anlage 7.1 (zu § 6 Absatz 2)
+## Anlage 7.1 (§ 2 Abs. 2 Nr. 4 StVG)
 
 (Fundstelle: BGBl. I 2012, 1343)
 
 
 *    *
-    *   Ausbildungsbescheinigung
-        **für den theoretischen Mindestunterricht**
-        (§ 2 Abs. 2 Nr. 4 StVG)
-
-    *   Fahrschule
-
     *
+    *
+        *            *   Fahrschule
+
+
+        *            *
+
+        *            *
+
+        *            *
+
+
+
 
 *    *
-    *
-    *
-    *
-    *
     *
 
 
@@ -4178,21 +4182,45 @@ Mindestunterrichts gemäß § 4 FahrschAusbO
 
     *
 
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
-## Anlage 7.2 (zu § 6 Absatz 2)
+   (zu § 6 Absatz 2)
+Ausbildungsbescheinigung für den praktischen Unterricht der Klassen M,
+A, A1, B, BE, C1, C1E, C, CE und T
 
-   (Fundstelle: BGBl. I 2012, 1344)
+## Anlage 7.2 (§ 2 Abs. 2 Nr. 4 StVG)
+
+(Fundstelle: BGBl. I 2012, 1344)
 
 
 *    *
-    *   Ausbildungsbescheinigung
-        für den praktischen Unterricht der Klassen
-        **M, A, A1, B, BE, C1, C1E, C, CE und T**
-        (§ 2 Abs. 2 Nr. 4 StVG)
+    *
+    *
+        *            *   Fahrschule
 
-    *   Fahrschule
 
+        *            *
+
+        *            *
+
+        *            *
+
+
+
+
+*    *
     *
 
 
@@ -4422,20 +4450,31 @@ Mindestunterrichts gemäß § 4 FahrschAusbO
 
 
 
+(zu § 6 Absatz 2)
+Ausbildungsbescheinigung für den praktischen Unterricht der Klassen
+D1, D1E, D und DE
 
-## Anlage 7.3 (zu § 6 Absatz 2)
+## Anlage 7.3 (§ 2 Abs. 2 Nr. 4 StVG)
 
 (Fundstelle: BGBl. I 2012, 1345)
 
 
 *    *
-    *   Ausbildungsbescheinigung
-        für den praktischen Unterricht der Klassen
-        **D1, D1E, D und DE**
-        (§ 2 Abs. 2 Nr. 4 StVG)
+    *
+    *
+        *            *   Fahrschule
 
-    *   Fahrschule
 
+        *            *
+
+        *            *
+
+        *            *
+
+
+
+
+*    *
     *
 
 
