@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl: 1949, 1
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.7.2010 I 944
+:   Art. 1 G v. 11.7.2012 I 1478
 
 
 ## Eingangsformel
@@ -2409,6 +2409,10 @@ ausgeübt.
     Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein
     Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim
     Landesverfassungsgericht erhoben werden kann;
+
+
+4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als
+    Partei für die Wahl zum Bundestag;
 
 
 5.  in den übrigen in diesem Grundgesetze vorgesehenen Fällen.

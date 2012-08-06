@@ -18,6 +18,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 558
 
+Geändert durch
+:   Art. 1 V v. 11.7.2012 I 1487
+
 [^f775189_01_BJNR055800011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
@@ -296,7 +299,7 @@ Berufsausbildung wesentlich ist.
 
 3.  der Prüfling soll eine Arbeitsaufgabe durchführen und mit
     betriebsüblichen Unterlagen dokumentieren sowie hierüber ein
-    auftragsbezogenes Fachgespräch führen;
+    situatives Fachgespräch führen;
 
 
 4.  die Prüfungszeit einschließlich Dokumentation beträgt insgesamt sieben
@@ -317,7 +320,7 @@ Vorgaben:
     b)  Hilfsstoffe auswählen,
 
 
-    c)  Möbel- und Küchendemontage planen und festlegen,
+    c)  Möbel- und Küchenmontage sowie -demontage planen und festlegen,
 
 
     d)  Installation elektrischer Einrichtungen und Geräte unter Beachtung
@@ -467,8 +470,13 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
+(1) Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
+Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten
+Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
+werden, wenn die Vertragsparteien dies vereinbaren.
+
+(2) Berufsausbildungsverhältnisse, die bis zum 16. Juli 2012 begründet
+worden sind, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
