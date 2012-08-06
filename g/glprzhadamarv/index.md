@@ -17,8 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1487
 
-Änderung durch
-:   Art. 1 V v. 20.6.2012 I 1387 (Nr. 28) noch nicht berücksichtigt!
+Zuletzt geändert durch
+:   Art. 1 V v. 20.6.2012 I 1387
+
+V aufgeh. durch
+:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1387 mWv 2.1.2017
 
 
 
