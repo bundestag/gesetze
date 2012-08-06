@@ -436,7 +436,7 @@ ausgeführt werden:
     Kondensatoren;
 
 
-5.  Beton- und Stahlbetonarbeiten einschließlich Betonschutz und
+5.  Beton- und Stahlbetonarbeiten einschließlich Betonschutz- und
     Betonsanierungsarbeiten sowie Armierungsarbeiten;
 
 
@@ -676,7 +676,7 @@ Nicht erfasst werden Betriebe:
 
 Tätigkeit:
 
--   einfache Bau- und Montagearbeiten nach Anweisung
+-   einfache Bau- und Montagearbeiten nach Anweisung.
 
 
 -   einfache Wartungs- und Pflegearbeiten an Baumaschinen und Geräten nach
@@ -724,7 +724,7 @@ Tätigkeitsbeispiele:
 -   manuelle Erdarbeiten
 
 
--   manuelles Graben von Rohr- und Kabelgräben
+-   manuelles Graben von Rohr- und Kabelgräben.
 
 
 
@@ -734,7 +734,7 @@ Tätigkeitsbeispiele:
 Tätigkeit:
 
 -   fachlich begrenzte Arbeiten (Teilleistungen eines Berufsbildes oder
-    angelernte Spezialtätigkeiten) nach Anweisung
+    angelernte Spezialtätigkeiten) nach Anweisung.
 
 
 
@@ -754,7 +754,7 @@ Regelqualifikation:
 -   Baumaschinistenlehrgang
 
 
--   anderweitig erworbene gleichwertige Fertigkeiten
+-   anderweitig erworbene gleichwertige Fertigkeiten.
 
 
 

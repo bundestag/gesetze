@@ -7671,7 +7671,7 @@ sind.
 
 (1) Die Bundesnetzagentur arbeitet mit den nationalen
 Regulierungsbehörden anderer Mitgliedstaaten, der Kommission und dem
-GEREK auf transparente Weise zusammen, um eine einheit-liche Anwendung
+GEREK auf transparente Weise zusammen, um eine einheitliche Anwendung
 der Bestimmungen der Richtlinie 2002/21/EG und der Einzelrichtlinien
 zu gewährleisten. Sie arbeitet insbesondere mit der Kommission und dem
 GEREK bei der Ermittlung der Maßnahmen zusammen, die zur Bewältigung
