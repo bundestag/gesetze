@@ -16,17 +16,23 @@ Fundstelle
 :   BGBl I: 1951, 166
 
 Zuletzt geändert durch
-:   Art. 1 G v. 6.6.2008 I 994
+:   Art. 2 G v. 12.7.2012 I 1501
 
 
 ## § 1
 
-(1) Über die Gültigkeit der Wahlen zum Bundestag entscheidet
-vorbehaltlich der Beschwerde gemäß Artikel 41 Abs. 2 des Grundgesetzes
-der Bundestag.
+(1) Über die Gültigkeit der Wahlen zum Bundestag und die Verletzung
+von Rechten bei der Vorbereitung oder Durchführung der Wahl, soweit
+sie der Wahlprüfung nach Artikel 41 des Grundgesetzes unterliegen,
+entscheidet vorbehaltlich der Beschwerde gemäß Artikel 41 Abs. 2 des
+Grundgesetzes der Bundestag.
 
 (2) Soweit eine Wahl für ungültig erklärt wird, sind die sich daraus
-ergebenden Folgerungen festzustellen.
+ergebenden Folgerungen festzustellen. Sofern bei der Vorbereitung oder
+Durchführung der Wahl Rechte einer einsprechenden Person oder einer
+Gruppe einsprechender Personen verletzt wurden, stellt der Bundestag
+die Rechtsverletzung fest, wenn er die Wahl nicht für ungültig
+erklärt.
 
 
 ## § 2
@@ -95,7 +101,13 @@ Verhandlungstermin die Schlussentscheidung erfolgen kann.
 (3) Im Rahmen der Vorprüfung ist der Ausschuß berechtigt, Auskünfte
 einzuziehen und nach Absatz 4 Zeugen und Sachverständige vernehmen und
 beeidigen zu lassen, soweit deren Anwesenheit im Verhandlungstermin
-nicht erforderlich ist oder nicht zweckmäßig erscheint.
+nicht erforderlich ist oder nicht zweckmäßig erscheint. Zur Prüfung
+der Feststellung, dass bei der Vorbereitung oder Durchführung der Wahl
+Rechte einer einsprechenden Person oder einer Gruppe einsprechender
+Personen verletzt wurden, führt der Wahlprüfungsausschuss
+Ermittlungen, die über die Einholung von Auskünften hinausgehen, in
+der Regel nur dann durch, wenn eine Auswirkung der Rechtsverletzung
+auf die Verteilung der Sitze im Bundestag nicht auszuschließen ist.
 
 (4) Alle Gerichte und Verwaltungsbehörden haben dem Ausschuß Rechts-
 und Amtshilfe zu leisten. Bei Vernehmung von Zeugen und
@@ -201,9 +213,12 @@ teilnehmen, die der mündlichen Verhandlung beigewohnt haben.
 Der Beschluß des Ausschusses ist schriftlich niederzulegen; er muß dem
 Bundestag eine Entscheidung vorschlagen. Diese muß über die Gültigkeit
 der angefochtenen Wahl und die sich aus einer Ungültigkeit ergebenden
-Folgerungen bestimmen. Der Beschluß hat die wesentlichen Tatsachen und
-Gründe, auf denen die Entscheidung beruht, anzugeben. Wegen der
-Einzelheiten ist eine Bezugnahme auf den Akteninhalt zulässig.
+Folgerungen bestimmen. Wurden bei der Vorbereitung oder Durchführung
+der Wahl Rechte der einsprechenden Person oder der einsprechenden
+Personen verletzt, wird dies in dem Beschluss festgestellt. Der
+Beschluß hat die wesentlichen Tatsachen und Gründe, auf denen die
+Entscheidung beruht, anzugeben. Wegen der Einzelheiten ist eine
+Bezugnahme auf den Akteninhalt zulässig.
 
 
 ## § 12
