@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.7.1993 I 1288, 1594;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.4.2012 I 518
+:   Art. 1 G v. 12.7.2012 I 1501
 
 
 ## Erster Abschnitt - Wahlsystem
@@ -132,19 +132,20 @@ Stimmengleichheit entscheidet das vom Kreiswahlleiter zu ziehende Los.
 
 ### § 6 Wahl nach Landeslisten
 
-(1) Die von der Gesamtzahl der Sitze (§ 1 Absatz 1) auf jedes Land
+(1)
+Die von der Gesamtzahl der Sitze (§ 1 Absatz 1) auf jedes Land
 entfallende Zahl der Sitze wird nach der Zahl der Wähler in jedem Land
 mit demselben Berechnungsverfahren ermittelt, das nach Absatz 2 Satz 2
 bis 7 für die Verteilung der Sitze auf die Landeslisten angewandt
-wird. Von der Zahl der auf das Land entfallenden Abgeordneten wird die
-Zahl der erfolgreichen Wahlkreisbewerber abgezogen, die in Satz 4
-genannt sind. Für die Verteilung der nach Landeslisten zu besetzenden
-Sitze werden die für jede Landesliste abgegebenen Zweitstimmen
-zusammengezählt. Nicht berücksichtigt werden dabei die Zweitstimmen
-derjenigen Wähler, die ihre Erststimme für einen im Wahlkreis
-erfolgreichen Bewerber abgegeben haben, der gemäß § 20 Abs. 3 oder von
-einer Partei vorgeschlagen ist, die nach Absatz 6 bei der
-Sitzverteilung nicht berücksichtigt wird oder für die in dem
+wird.              Von der Zahl der auf das Land entfallenden
+Abgeordneten wird die Zahl der erfolgreichen Wahlkreisbewerber
+abgezogen, die in Satz 4 genannt sind. Für die Verteilung der nach
+Landeslisten zu besetzenden Sitze werden die für jede Landesliste
+abgegebenen Zweitstimmen zusammengezählt. Nicht berücksichtigt werden
+dabei die Zweitstimmen derjenigen Wähler, die ihre Erststimme für
+einen im Wahlkreis erfolgreichen Bewerber abgegeben haben, der gemäß §
+20 Abs. 3 oder von einer Partei vorgeschlagen ist, die nach Absatz 6
+bei der Sitzverteilung nicht berücksichtigt wird oder für die in dem
 betreffenden Land keine Landesliste zugelassen ist.
 
 (2) Die nach Absatz 1 Satz 2 verbleibenden Sitze werden auf die
@@ -254,20 +255,23 @@ und Wahlvorsteher sowie ihre Stellvertreter von der Landesregierung
 oder der von ihr bestimmten Stelle ernannt.
 
 (2) Der Bundeswahlausschuß besteht aus dem Bundeswahlleiter als
-Vorsitzendem und acht von ihm berufenen Wahlberechtigten als
-Beisitzern. Die übrigen Wahlausschüsse bestehen aus dem Wahlleiter als
-Vorsitzendem und sechs von ihm berufenen Wahlberechtigten als
-Beisitzern. Die Wahlvorstände bestehen aus dem Wahlvorsteher als
-Vorsitzendem, seinem Stellvertreter und weiteren drei bis sieben vom
-Wahlvorsteher berufenen Wahlberechtigten als Beisitzern; die
-Landesregierung oder die von ihr bestimmte Stelle kann anordnen, daß
-die Beisitzer des Wahlvorstandes von der Gemeindebehörde und die
-Beisitzer des Wahlvorstandes zur Feststellung des Briefwahlergebnisses
-vom Kreiswahlleiter, im Falle einer Anordnung nach § 8 Abs. 3 von der
-Gemeindebehörde oder von der Kreisverwaltungsbehörde allein oder im
-Einvernehmen mit dem Wahlvorsteher berufen werden. Bei Berufung der
-Beisitzer sind die in dem jeweiligen Bezirk vertretenen Parteien nach
-Möglichkeit zu berücksichtigen.
+Vorsitzendem sowie acht von ihm berufenen Wahlberechtigten als
+Beisitzern und zwei Richtern des Bundesverwaltungsgerichts. Die
+übrigen Wahlausschüsse bestehen aus dem Wahlleiter als Vorsitzendem
+und sechs von ihm berufenen Wahlberechtigten als Beisitzern; in die
+Landeswahlausschüsse sind zudem zwei Richter des
+Oberverwaltungsgerichts des Landes zu berufen. Die Wahlvorstände
+bestehen aus dem Wahlvorsteher als Vorsitzendem, seinem Stellvertreter
+und weiteren drei bis sieben vom Wahlvorsteher berufenen
+Wahlberechtigten als Beisitzern; die Landesregierung oder die von ihr
+bestimmte Stelle kann anordnen, daß die Beisitzer des Wahlvorstandes
+von der Gemeindebehörde und die Beisitzer des Wahlvorstandes zur
+Feststellung des Briefwahlergebnisses vom Kreiswahlleiter, im Falle
+einer Anordnung nach § 8 Abs. 3 von der Gemeindebehörde oder von der
+Kreisverwaltungsbehörde allein oder im Einvernehmen mit dem
+Wahlvorsteher berufen werden. Bei Berufung der Beisitzer sind die in
+dem jeweiligen Bezirk vertretenen Parteien nach Möglichkeit zu
+berücksichtigen.
 
 (3) Niemand darf in mehr als einem Wahlorgan Mitglied sein.
 Wahlbewerber, Vertrauenspersonen für Wahlvorschläge und
@@ -504,19 +508,21 @@ Wahlberechtigten eingereicht werden.
 (2) Parteien, die im Deutschen Bundestag oder einem Landtag seit deren
 letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit
 mindestens fünf Abgeordneten vertreten waren, können als solche einen
-Wahlvorschlag nur einreichen, wenn sie spätestens am neunzigsten Tage
-vor der Wahl dem Bundeswahlleiter ihre Beteiligung an der Wahl
-schriftlich angezeigt haben und der Bundeswahlausschuß ihre
-Parteieigenschaft festgestellt hat. In der Anzeige ist anzugeben,
-unter welchem Namen sich die Partei an der Wahl beteiligen will. Die
-Anzeige muß von mindestens drei Mitgliedern des Bundesvorstandes,
-darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und
-handschriftlich unterzeichnet sein. Hat eine Partei keinen
-Bundesvorstand, so tritt der Vorstand der jeweils obersten
-Parteiorganisation an die Stelle des Bundesvorstandes. Die
+Wahlvorschlag nur einreichen, wenn sie spätestens am
+siebenundneunzigsten Tage vor der Wahl bis 18 Uhr dem Bundeswahlleiter
+ihre Beteiligung an der Wahl schriftlich angezeigt haben und der
+Bundeswahlausschuß ihre Parteieigenschaft festgestellt hat. In der
+Anzeige ist anzugeben, unter welchem Namen sich die Partei an der Wahl
+beteiligen will. Die Anzeige muß von mindestens drei Mitgliedern des
+Bundesvorstandes, darunter dem Vorsitzenden oder seinem
+Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat
+eine Partei keinen Bundesvorstand, so tritt der Vorstand der jeweils
+obersten Parteiorganisation an die Stelle des Bundesvorstandes. Die
 schriftliche Satzung und das schriftliche Programm der Partei sowie
 ein Nachweis über die satzungsgemäße Bestellung des Vorstandes sind
-der Anzeige beizufügen.
+der Anzeige beizufügen. Der Anzeige sollen Nachweise über die
+Parteieigenschaft nach § 2 Absatz 1 Satz 1 des Parteiengesetzes
+beigefügt werden.
 
 (3) Der Bundeswahlleiter hat die Anzeige nach Absatz 2 unverzüglich
 nach Eingang zu prüfen. Stellt er Mängel fest, so benachrichtigt er
@@ -547,7 +553,7 @@ jede Mängelbeseitigung ausgeschlossen. Gegen Verfügungen des
 Bundeswahlleiters im Mängelbeseitigungsverfahren kann der Vorstand den
 Bundeswahlausschuß anrufen.
 
-(4) Der Bundeswahlausschuß stellt spätestens am zweiundsiebzigsten
+(4) Der Bundeswahlausschuß stellt spätestens am neunundsiebzigsten
 Tage vor der Wahl für alle Wahlorgane verbindlich fest,
 
 1.  welche Parteien im Deutschen Bundestag oder in einem Landtag seit
@@ -556,12 +562,23 @@ Tage vor der Wahl für alle Wahlorgane verbindlich fest,
 
 
 2.  welche Vereinigungen, die nach Absatz 2 ihre Beteiligung angezeigt
-    haben, für die Wahl als Parteien anzuerkennen sind. Für die Ablehnung
-    der Anerkennung als Partei für die Wahl ist Zweidrittelmehrheit
+    haben, für die Wahl als Parteien anzuerkennen sind; für die Ablehnung
+    der Anerkennung als Partei für die Wahl ist eine Zweidrittelmehrheit
     erforderlich.
 
 
 
+Die Feststellung ist vom Bundeswahlleiter in der Sitzung des
+Bundeswahlausschusses bekannt zu geben. Sie ist öffentlich bekannt zu
+machen.
+
+(4a) Gegen eine Feststellung nach Absatz 4, die sie an der Einreichung
+von Wahlvorschlägen hindert, kann eine Partei oder Vereinigung binnen
+vier Tagen nach Bekanntgabe Beschwerde zum Bundesverfassungsgericht
+erheben. In diesem Fall ist die Partei oder Vereinigung von den
+Wahlorganen bis zu einer Entscheidung des Bundesverfassungsgerichts,
+längstens bis zum Ablauf des neunundfünfzigsten Tages vor der Wahl wie
+eine wahlvorschlagsberechtigte Partei zu behandeln.
 
 (5) Eine Partei kann in jedem Wahlkreis nur einen Kreiswahlvorschlag
 und in jedem Land nur eine Landesliste einreichen.
@@ -570,7 +587,7 @@ und in jedem Land nur eine Landesliste einreichen.
 ### § 19 Einreichung der Wahlvorschläge
 
 Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem
-Landeswahlleiter spätestens am sechsundsechzigsten Tage vor der Wahl
+Landeswahlleiter spätestens am neunundsechzigsten Tage vor der Wahl
 bis 18 Uhr schriftlich einzureichen.
 
 
@@ -1538,7 +1555,7 @@ insbesondere Rechtsvorschriften über
 7.  den Nachweis der Wahlrechtsvoraussetzungen,
 
 
-8.  das Verfahren nach § 18 Abs. 2 bis 4,
+8.  das Verfahren der Wahlorgane nach § 18 Absatz 2 bis 4a,
 
 
 9.  Einreichung, Inhalt und Form der Wahlvorschläge sowie der
