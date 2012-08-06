@@ -5,10 +5,13 @@ slug: index
 
 ---
 
-<ul>
-{% for p in site.pages|sort:"slug" %}
+<ul class="laws">
+{% for p in site.pages %}
 	{% if p.jurabk %}
-	<li><a href=".{{ p.url|replace:"index.html","" }}">{{ p.jurabk }}: {{ p.Title }}</a></li>
+	<li id="{{ p.slug }}">
+		<a href=".{{ p.url|replace:"index.html","" }}">{{ p.jurabk }}</a>
+		- {{ p.Title }}</a>
+	</li>
 	{% endif %}
 {% endfor %}
 </ul>
