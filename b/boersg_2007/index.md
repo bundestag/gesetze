@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 6.12.2011 I 2481
 
 Änderung durch
-:   Art. 5 G v. 26.6.2012 I 1375 (Nr. 28) noch nicht berücksichtigt
+:   Art. 5 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung
 

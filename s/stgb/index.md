@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 3 G v. 24.2.2012 I 212
-
-Änderung durch
-:   Art. 1 G v. 25.6.2012 I 1374 (Nr. 28) noch nicht berücksichtigt
+:   Art. 1 G v. 25.6.2012 I 1374
 
 
 ## Allgemeiner Teil - 

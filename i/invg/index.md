@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 76 G v. 22.12.2011 I 3044
 
 Änderung durch
-:   Art. 8 G v. 26.6.2012 I 1375 (Nr. 28) noch nicht berücksichtigt
+:   Art. 8 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen

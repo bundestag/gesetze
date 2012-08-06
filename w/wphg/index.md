@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 44 G v. 22.12.2011 I 3044
 
 Änderung durch
-:   Art. 2 G v. 26.6.2012 I 1375 (Nr. 28) noch nicht berücksichtigt
+:   Art. 2 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbar geändert durch
 :   Art. 20 u. 21 G v. 6.12.2011 I 2481
@@ -347,8 +347,13 @@ Herkunftsstaat ist, sind
         zum Handel an einem organisierten Markt im Inland oder in einem
         anderen Mitgliedstaat der Europäischen Union oder einem anderen
         Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-        zugelassen sind, wenn das jährliche Dokument im Sinne des § 10 des
-        Wertpapierprospektgesetzes bei der Bundesanstalt zu hinterlegen ist,
+        zugelassen sind, wenn sie die Bundesrepublik Deutschland als
+        Herkunftsstaat nach § 2b Absatz 1a gewählt haben; wurde kein
+        Herkunftsstaat gewählt, müssen sich diejenigen Emittenten, deren
+        Wertpapiere zum Handel an einem organisierten Markt im Inland
+        zugelassen sind, so behandeln lassen, als hätten sie die
+        Bundesrepublik Deutschland als Herkunftsstaat gewählt, bis sie eine
+        Wahl getroffen haben,
 
 
 
@@ -390,13 +395,15 @@ Herkunftsstaat ist, sind
 
 
 
-und sie die Bundesrepublik Deutschland nach Maßgabe des § 2b als
-Herkunftsstaat gewählt haben. Für Emittenten, die unter Buchstabe a
-fallen, aber keine Wahl getroffen haben, ist die Bundesrepublik
-Deutschland der Herkunftsstaat; das Gleiche gilt für Emittenten, die
-unter Buchstabe c fallen, aber keine Wahl getroffen haben, wenn das
-jährliche Dokument im Sinne des § 10 des Wertpapierprospektgesetzes
-bei der Bundesanstalt zu hinterlegen ist.
+und sie die Bundesrepublik Deutschland nach Maßgabe des § 2b Absatz 1
+als Herkunftsstaat gewählt haben. Für Emittenten, die unter Buchstabe
+a fallen, aber keine Wahl eines Herkunftsstaates getroffen haben, ist
+die Bundesrepublik Deutschland der Herkunftsstaat; Emittenten, die
+unter Buchstabe c fallen, aber keine Wahl getroffen haben und deren
+Wertpapiere zum Handel an einem organisierten Markt im Inland
+zugelassen sind, müssen sich bis sie eine Wahl getroffen haben, so
+behandeln lassen, als ob sie die Bundesrepublik Deutschland als
+Herkunftsstaat gewählt hätten.
 
 (7) Inlandsemittenten sind
 
@@ -652,14 +659,27 @@ Herkunftsstaat gewählt hat. Die Wahl ist mindestens drei Jahre gültig,
 es sei denn, die Finanzinstrumente des Emittenten sind an keinem
 organisierten Markt in einem Mitgliedstaat der Europäischen Union oder
 in einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum mehr zum Handel zugelassen. Die Wahl ist zu
-veröffentlichen und dem Unternehmensregister im Sinne des § 8b des
-Handelsgesetzbuchs zur Speicherung zu übermitteln. Mit der
-Veröffentlichung wird die Wahl wirksam.
+Wirtschaftsraum mehr zum Handel zugelassen. Der Emittent hat die Wahl
+zu veröffentlichen und unverzüglich dem Unternehmensregister gemäß §
+8b des Handelsgesetzbuchs zur Speicherung zu übermitteln; er muss
+gleichzeitig mit der Veröffentlichung diese der Bundesanstalt
+mitteilen. Mit der Veröffentlichung wird die Wahl wirksam.
+
+(1a) Für einen Emittenten im Sinne des § 2 Absatz 6 Nummer 1 Buchstabe
+b kann die Bundesrepublik Deutschland entsprechend § 2 Nummer 13
+Buchstabe c des Wertpapierprospektgesetzes als Herkunftsstaat gewählt
+werden, wenn nicht bereits aufgrund einer früheren Entscheidung des
+Emittenten ein anderer Staat als Herkunftsstaat bestimmt worden ist.
+Der Emittent hat die Wahl zu veröffentlichen und unverzüglich dem
+Unternehmensregister gemäß § 8b des Handelsgesetzbuchs zur Speicherung
+zu übermitteln; er muss gleichzeitig mit der Veröffentlichung diese
+der Bundesanstalt mitteilen. Mit der Veröffentlichung wird die Wahl
+wirksam.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
-zur Veröffentlichung der Wahl des Herkunftsstaates treffen.
+zur Veröffentlichung der Wahl des Herkunftsstaates nach Absatz 1 oder
+Absatz 1a treffen.
 
 
 ## Abschnitt 2 - Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -2619,16 +2639,30 @@ Herkunftsstaat ist, müssen sicherstellen, dass
 
 
 
-(2) Ein Emittent von zugelassenen Schuldtiteln im Sinne von Absatz 1
-Nr. 6, für den die Bundesrepublik Deutschland der Herkunftsstaat ist,
-kann die Gläubigerversammlung in jedem Mitgliedstaat der Europäischen
-Union oder anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum abhalten. Das setzt voraus, dass in dem Staat alle für
-die Ausübung der Rechte erforderlichen Einrichtungen und Informationen
-für die Schuldtitelinhaber verfügbar sind und zur Gläubigerversammlung
-ausschließlich Schuldtitelinhaber mit einer Mindeststückelung von
-50\.000 Euro oder dem am Ausgabetag entsprechenden Gegenwert in einer
-anderen Währung eingeladen werden.
+(2) Ein Emittent von zugelassenen Schuldtiteln im Sinne des Absatzes 1
+Nummer 6, für den die Bundesrepublik Deutschland der Herkunftsstaat
+ist, kann die Gläubigerversammlung in jedem Mitgliedstaat der
+Europäischen Union oder in jedem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum abhalten. Das setzt voraus, dass
+in dem Staat alle für die Ausübung der Rechte erforderlichen
+Einrichtungen und Informationen für die Schuldtitelinhaber verfügbar
+sind und zur Gläubigerversammlung ausschließlich Inhaber von folgenden
+Schuldtiteln eingeladen werden:
+
+1.  Schuldtiteln mit einer Mindeststückelung von 100 000 Euro oder dem am
+    Ausgabetag entsprechenden Gegenwert in einer anderen Währung oder
+
+
+2.  noch ausstehenden Schuldtiteln mit einer Mindeststückelung von 50 000
+    Euro oder dem am Ausgabetag entsprechenden Gegenwert in einer anderen
+    Währung, wenn die Schuldtitel bereits vor dem 31. Dezember 2010 zum
+    Handel an einem organisierten Markt im Inland oder in einem anderen
+    Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+    des Abkommens über den Europäischen Wirtschaftsraum zugelassen worden
+    sind.
+
+
+
 
 (3) Für die Bestimmungen nach Absatz 1 Nr. 1 bis 5 sowie nach § 30b
 Abs. 3 Nr. 1 stehen die Inhaber Aktien vertretender Zertifikate den
@@ -2762,7 +2796,7 @@ organisierten Markt zugelassen sind und ihr Herkunftsstaat für sie
 keine den §§ 30a bis 30c entsprechenden Vorschriften vorsieht.
 
 
-### § 30e Veröffentlichung zusätzlicher Angaben und Übermittlung an das  Unternehmensregister
+### § 30e Veröffentlichung zusätzlicher Angaben und Übermittlung an das Unternehmensregister
 
 (1) Ein Inlandsemittent muss
 
@@ -2790,7 +2824,7 @@ keine den §§ 30a bis 30c entsprechenden Vorschriften vorsieht.
 
 
 2.  die Aufnahme von Anleihen mit Ausnahme staatlicher
-    Schuldverschreibungen im Sinne des § 36 des Börsengesetzes sowie die
+    Schuldverschreibungen im Sinne des § 37 des Börsengesetzes sowie die
     für sie übernommenen Gewährleistungen, sofern er nicht eine
     internationale öffentliche Einrichtung ist, der mindestens ein
     Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat
@@ -5551,12 +5585,7 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 
 3.  wie lange die Informationen nach Absatz 2 im Unternehmensregister
-    allgemein zugänglich bleiben müssen und wann sie zu löschen sind, und
-
-
-4.  eine aufeinander abgestimmte Verfahrensweise, nach der der
-    Jahresfinanzbericht und das jährliche Dokument nach § 10 des
-    Wertpapierprospektgesetzes der Bundesanstalt zur Kenntnis gelangen.
+    allgemein zugänglich bleiben müssen und wann sie zu löschen sind.
 
 
 
@@ -5758,10 +5787,25 @@ folgenden Maßgabe:
 
 #### § 37z Ausnahmen
 
-(1) Die §§ 37v bis 37y finden keine Anwendung auf Unternehmen, die
-ausschließlich zum Handel an einem organisierten Markt zugelassene
-Schuldtitel mit einer Mindeststückelung von 50 000 Euro oder dem am
-Ausgabetag entsprechenden Gegenwert einer anderen Währung begeben.
+(1) Die §§ 37v bis 37y sind nicht anzuwenden auf Unternehmen, die
+ausschließlich
+
+1.  zum Handel an einem organisierten Markt zugelassene Schuldtitel mit
+    einer Mindeststückelung von 100 000 Euro oder dem am Ausgabetag
+    entsprechenden Gegenwert einer anderen Währung begeben oder
+
+
+2.  noch ausstehende bereits vor dem 31. Dezember 2010 zum Handel an einem
+    organisierten Markt im Inland oder in einem anderen Mitgliedstaat der
+    Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum zugelassene Schuldtitel mit einer
+    Mindeststückelung von 50 000 Euro oder dem am Ausgabetag
+    entsprechenden Gegenwert einer anderen Währung begeben haben.
+
+
+
+Die Ausnahmen nach Satz 1 sind auf Emittenten von Wertpapieren im
+Sinne des § 2 Absatz 1 Satz 1 Nummer 2 nicht anzuwenden.
 
 (2) § 37w findet keine Anwendung auf Kreditinstitute, die als
 Inlandsemittenten Wertpapiere begeben, wenn ihre Aktien nicht an einem
@@ -6636,6 +6680,23 @@ Inlandsemittent diese der Bundesanstalt mitzuteilen.
 
 (6) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 5 mit einer
 Geldbuße bis zu zweihunderttausend Euro geahndet werden.
+
+
+### § 41a Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten zur Herkunftsstaatenwahl
+
+(1) Ein Emittent im Sinne des § 2 Absatz 6 Nummer 1 Buchstabe b, für
+den die Bundesrepublik Deutschland am 30. Juni 2012 Herkunftsstaat
+ist, hat diese Tatsache unverzüglich nach dem 30. Juni 2012 zu
+veröffentlichen und unverzüglich dem Unternehmensregister gemäß § 8b
+des Handelsgesetzbuchs zur Speicherung zu übermitteln; er muss
+gleichzeitig mit der Veröffentlichung diese der Bundesanstalt
+mitteilen, § 2b Absatz 1a gilt entsprechend.
+
+(2) Ein Emittent im Sinne des § 2 Absatz 6 Nummer 3 Buchstabe a bis c,
+der die Bundesrepublik Deutschland aufgrund des § 2b Absatz 1 in der
+vor dem 1. Juli 2012 geltenden Fassung als Herkunftsstaat gewählt und
+die Wahl veröffentlicht hat, muss die Veröffentlichung unverzüglich
+nach dem 30. Juni 2012 der Bundesanstalt mitteilen.
 
 
 ### § 42 Übergangsregelung für die Kostenerstattungspflicht nach § 11

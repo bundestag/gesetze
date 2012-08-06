@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 6.12.2011 I 2481
 
 Änderung durch
-:   Art. 4 G v. 26.6.2012 I 1375 (Nr. 28) noch nicht berücksichtigt
+:   Art. 4 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -83,7 +83,8 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2010, 1826 - 1827)
+(Fundstelle: BGBl. I 2010, 1826 - 1827;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nr.
 
@@ -104,11 +105,9 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 *    *   2
 
-    *   Für die Hinterlegung eines jährlichen Dokuments im Sinne des § 10 WpPG
-        (§ 10 Abs. 2 Satz 1 WpPG)
+    *   (weggefallen)
 
-    *   100
-
+    *
 
 *    *   3
 
