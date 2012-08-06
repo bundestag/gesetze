@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 15 G v. 12.4.2012 I 579
+:   Art. 4a G v. 21.7.2012 I 1613
 
 
 
@@ -798,6 +798,18 @@ haben.
 
 
 2.  von einem privaten Krankenversicherungsunternehmen Krankentagegeld
+    beziehen,
+
+
+2a. von einem privaten Krankenversicherungsunternehmen, von einem
+    Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen
+    Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger
+    der Heilfürsorge im Bereich des Bundes, von dem Träger der
+    truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
+    Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
+    Landesrecht dies vorsieht, Leistungen für den Ausfall von
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
     beziehen oder
 
 
@@ -3436,10 +3448,22 @@ Arbeitnehmerinnen und Arbeitnehmern
 1.  während der Teilnahme an einer beruflichen Weiterbildungsmaßnahme mit
     Bezug von Arbeitslosengeld oder Übergangsgeld, wenn diese Leistung
     nicht für eine neben der Beschäftigung durchgeführte Teilzeitmaßnahme
-    gezahlt wird, sowie
+    gezahlt wird,
 
 
-2.  während des Bezugs von Krankengeld.
+2.  während des Bezugs von Krankengeld sowie
+
+
+3.  während der Zeit, in der sie von einem privaten
+    Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes,
+    von einem sonstigen öffentlich-rechtlichen Träger von Kosten in
+    Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im
+    Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung
+    oder von einem öffentlich-rechtlichen Träger von Kosten in
+    Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht,
+    Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
+    einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden
+    Spende von Organen oder Geweben beziehen.
 
 
 
@@ -4920,7 +4944,7 @@ erfüllen sowie darlegen und nachweisen, dass
 
 1.  sich die in der Rahmenfrist zurückgelegten Beschäftigungstage
     überwiegend aus versicherungspflichtigen Beschäftigungen ergeben, die
-    auf nicht mehr als sechs Wochen im Voraus durch Arbeitsvertrag zeit-
+    auf nicht mehr als zehn Wochen im Voraus durch Arbeitsvertrag zeit-
     oder zweckbefristet sind, und
 
 
@@ -4931,8 +4955,8 @@ erfüllen sowie darlegen und nachweisen, dass
 
 
 
-gilt bis zum 1. August 2012, dass die Anwartschaftszeit sechs Monate
-beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
+gilt bis zum 31. Dezember 2014, dass die Anwartschaftszeit sechs
+Monate beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
 
 
 ##### § 143 Rahmenfrist
@@ -7623,10 +7647,13 @@ Arbeitgeber hat der Betriebsvertretung die für die Stellungnahme
 erforderlichen Angaben zu machen.
 
 (3) Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber
-von Heimarbeiterinnen oder Heimarbeitern sowie für Leistungsträger und
-Unternehmen, die Beiträge nach diesem Buch für Bezieherinnen und
-Bezieher von Sozialleistungen oder Krankentagegeld zu entrichten
-haben, gelten die Absätze 1 und 2 entsprechend.
+von Heimarbeiterinnen und Heimarbeitern sowie für Leistungsträger,
+Unternehmen und Stellen, die Beiträge nach diesem Buch für
+Bezieherinnen und Bezieher von Sozialleistungen, Krankentagegeld oder
+Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
+einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden
+Spende von Organen und Geweben zu entrichten haben, gelten die Absätze
+1 und 2 entsprechend.
 
 (4) Nach Beendigung des Vollzuges einer Untersuchungshaft,
 Freiheitsstrafe, Jugendstrafe oder freiheitsentziehenden Maßregel der
@@ -8634,6 +8661,12 @@ Als beitragspflichtige Einnahme gilt bei Personen,
     zugrunde liegende Einkommen nicht zu berücksichtigen,
 
 
+5a. die Krankengeld nach § 44a des Fünften Buches beziehen, das der
+    Leistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen; wird
+    Krankengeld in Höhe der Entgeltersatzleistungen nach diesem Buch
+    gezahlt, gilt Nummer 5,
+
+
 6.  die als Bezieherinnen oder Bezieher von Krankentagegeld
     versicherungspflichtig sind, ein Arbeitsentgelt in Höhe von 70 Prozent
     der für die Erhebung der Beiträge zur gesetzlichen Krankenversicherung
@@ -8641,6 +8674,19 @@ Als beitragspflichtige Einnahme gilt bei Personen,
     Buches). Für den Kalendermonat ist ein Zwölftel und für den
     Kalendertag ein Dreihundertsechzigstel des Arbeitsentgelts zugrunde zu
     legen,
+
+
+6a. die von einem privaten Krankenversicherungsunternehmen, von einem
+    Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen
+    Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger
+    der Heilfürsorge im Bereich des Bundes, von dem Träger der
+    truppenärztlichen Versorgung oder von öffentlich-rechtlichen Trägern
+    von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht
+    dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im
+    Zusammenhang mit einer nach den §§ 8 und 8a des
+    Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+    beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder
+    Arbeitseinkommen,
 
 
 7.  die als Bezieherinnen von Mutterschaftsgeld versicherungspflichtig
@@ -8835,8 +8881,20 @@ Die Beiträge werden getragen
 
 
 
+5a. für Personen, die Krankengeld nach § 44a des Fünften Buches beziehen,
+    vom Leistungsträger,
+
+
 6.  für Personen, die Krankentagegeld beziehen, von privaten
     Krankenversicherungsunternehmen,
+
+
+6a. für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im
+    Zusammenhang mit einer nach den §§ 8 und 8a des
+    Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+    beziehen, von der Stelle, die die Leistung erbringt; wird die Leistung
+    von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig
+    zu tragen,
 
 
 7.  für Personen, die als Bezieherinnen oder Bezieher einer Rente wegen
@@ -8926,7 +8984,13 @@ Pflegekassen, der Verband der privaten Krankenversicherung e. V., die
 Festsetzungsstellen für die Beihilfe, das Bundesversicherungsamt und
 die Bundesagentur durch Vereinbarung regeln.
 
-(5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4a sowie für
+(4b) Die Beiträge für Personen, die Leistungen für den Ausfall von
+Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+beziehen, sind von den Stellen, die die Beiträge zu tragen haben, an
+die Bundesagentur zu zahlen. Absatz 4a Satz 2 gilt entsprechend.
+
+(5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4b sowie für
 die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den
 Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind,
 entsprechend, soweit die Besonderheiten der Beiträge nicht
