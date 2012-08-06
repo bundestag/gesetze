@@ -4745,8 +4745,8 @@ bestand.
 
 (1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines
 Vertrags über die Lieferung von Waren oder über die Erbringung von
-Dienstleistungen eines Tele- oder Mediendienstes (Vertrag im
-elektronischen Geschäftsverkehr), hat er dem Kunden
+Dienstleistungen der Telemedien (Vertrag im elektronischen
+Geschäftsverkehr), hat er dem Kunden
 
 1.  angemessene, wirksame und zugängliche technische Mittel zur Verfügung
     zu stellen, mit deren Hilfe der Kunde Eingabefehler vor Abgabe seiner
@@ -4772,13 +4772,35 @@ Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nr. 3 gelten
 als zugegangen, wenn die Parteien, für die sie bestimmt sind, sie
 unter gewöhnlichen Umständen abrufen können.
 
-(2) Absatz 1 Satz 1 Nr. 1 bis 3 findet keine Anwendung, wenn der
-Vertrag ausschließlich durch individuelle Kommunikation geschlossen
-wird. Absatz 1 Satz 1 Nr. 1 bis 3 und Satz 2 findet keine Anwendung,
-wenn zwischen Vertragsparteien, die nicht Verbraucher sind, etwas
-anderes vereinbart wird.
+(2) Bei einem Vertrag im elektronischen Geschäftsverkehr zwischen
+einem Unternehmer und einem Verbraucher, der eine entgeltliche
+Leistung des Unternehmers zum Gegenstand hat, muss der Unternehmer dem
+Verbraucher die Informationen gemäß Artikel 246 § 1 Absatz 1 Nummer 4
+erster Halbsatz und Nummer 5, 7 und 8 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine
+Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur
+Verfügung stellen. Diese Pflicht gilt nicht für Verträge über die in §
+312b Absatz 1 Satz 2 genannten Finanzdienstleistungen.
 
-(3) Weitergehende Informationspflichten auf Grund anderer Vorschriften
+(3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach
+Absatz 2 Satz 1 so zu gestalten, dass der Verbraucher mit seiner
+Bestellung ausdrücklich bestätigt, dass er sich zu einer Zahlung
+verpflichtet. Erfolgt die Bestellung über eine Schaltfläche, ist die
+Pflicht des Unternehmers aus Satz 1 nur erfüllt, wenn diese
+Schaltfläche gut lesbar mit nichts anderem als den Wörtern
+„zahlungspflichtig bestellen“ oder mit einer entsprechenden
+eindeutigen Formulierung beschriftet ist.
+
+(4) Ein Vertrag nach Absatz 2 Satz 1 kommt nur zustande, wenn der
+Unternehmer seine Pflicht aus Absatz 3 erfüllt.
+
+(5) Absatz 1 Satz 1 Nr. 1 bis 3 und die Absätze 2 bis 4 finden keine
+Anwendung, wenn der Vertrag ausschließlich durch individuelle
+Kommunikation geschlossen wird. Absatz 1 Satz 1 Nr. 1 bis 3 und Satz 2
+findet keine Anwendung, wenn zwischen Vertragsparteien, die nicht
+Verbraucher sind, etwas anderes vereinbart wird.
+
+(6) Weitergehende Informationspflichten auf Grund anderer Vorschriften
 bleiben unberührt. Steht dem Kunden ein Widerrufsrecht gemäß § 355 zu,
 beginnt die Widerrufsfrist abweichend von § 355 Abs. 3 Satz 1 nicht
 vor Erfüllung der in Absatz 1 Satz 1 geregelten Pflichten.
@@ -27791,8 +27813,10 @@ in ihre Aufgaben einzuführen.
 (2) Das Familiengericht hat über die gesamte Tätigkeit des Vormunds
 und des Gegenvormunds die Aufsicht zu führen und gegen
 Pflichtwidrigkeiten durch geeignete Gebote und Verbote einzuschreiten.
-Es kann dem Vormund und dem Gegenvormund aufgeben, eine Versicherung
-gegen Schäden, die sie dem Mündel zufügen können, einzugehen.
+Es hat insbesondere die Einhaltung der erforderlichen persönlichen
+Kontakte des Vormunds zu dem Mündel zu beaufsichtigen. Es kann dem
+Vormund und dem Gegenvormund aufgeben, eine Versicherung gegen
+Schäden, die sie dem Mündel zufügen können, einzugehen.
 
 (3) Das Familiengericht kann den Vormund und den Gegenvormund zur
 Befolgung seiner Anordnungen durch Festsetzung von Zwangsgeld
