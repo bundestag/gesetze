@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1964, 370
 
 Neufassung durch
-:   Bek. v. 10.7.2008 I 1229;
-
-Zuletzt geändert durch
-:   Art. 1 V v. 22.2.2011 I 317
-
-Änderung durch
-:   Art. 2 G v. 8.5.2012 I 1032 (Nr. 20) textlich nachgewiesen dokumentarisch noch nicht abschließend gearbeitet
+:   Bek. v. 10.7.2008 I 1229; zuletzt geändert durch Art. 2 V v. 8.5.2012 I 1032
 
 
 ## Erster Abschnitt - Zulassung des Luftfahrtgeräts und Eintragung der Luftfahrzeuge
