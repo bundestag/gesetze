@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 11.5.2011 I 821
 
+Änderung durch
+:   Art. 2 V v. 20.7.2012 I 1639 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Grundsätze
 
@@ -95,9 +98,11 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
 
 *    *   2a.
 
-    *   (weggefallen)
+    *   Cannabisextrakt (bezogen auf den*
+        9                       -Tetrahydrocannabinol-Gehalt)
 
-    *
+    *   1 000 mg,
+
 
 *    *   3.
 
@@ -107,6 +112,13 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
 
 
 *    *   3a.
+
+    *   Dexamfetamin
+
+    *   600 mg,
+
+
+*    *   3b.
 
     *   Diamorphin
 
@@ -139,6 +151,13 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
     *   Fentanyl
 
     *   500 mg,
+
+
+*    *   7a.
+
+    *   Flunitrazepam
+
+    *   30 mg,
 
 
 *    *   8.
@@ -180,7 +199,7 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
 
     *   Methylphenidat
 
-    *   2 000 mg,
+    *   2 400 mg,
 
 
 *    *   14.
