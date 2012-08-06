@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1875
 
 Zuletzt geändert durch
-:   Art. 16 G v. 6.12.2011 I 2481
-
-Änderung durch
-:   Art. 4 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 26.6.2012 I 1375
 
 
 

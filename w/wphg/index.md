@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 44 G v. 22.12.2011 I 3044
-
-Änderung durch
-:   Art. 2 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 26.6.2012 I 1375
 
 Mittelbar geändert durch
 :   Art. 20 u. 21 G v. 6.12.2011 I 2481

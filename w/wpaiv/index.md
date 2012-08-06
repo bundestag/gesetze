@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3376
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.1.2012 I 121
-
-Änderung durch
-:   Art. 3 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 26.6.2012 I 1375
 
 
 ## Eingangsformel
