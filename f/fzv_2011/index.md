@@ -292,7 +292,8 @@ Antrag erteilt, wenn das Fahrzeug einem genehmigten Typ entspricht
 oder eine Einzelgenehmigung erteilt ist und eine dem
 Pflichtversicherungsgesetz entsprechende Kraftfahrzeug-
 Haftpflichtversicherung besteht. Die Zulassung erfolgt durch Zuteilung
-eines Kennzeichens und Ausfertigung einer Zulassungsbescheinigung.
+eines Kennzeichens, Abstempelung der Kennzeichenschilder und
+Ausfertigung einer Zulassungsbescheinigung.
 
 (2) Ausgenommen von den Vorschriften über das Zulassungsverfahren sind
 
@@ -521,8 +522,8 @@ Verlangen nachzuweisen:
 
 
 3.  bei Vereinigungen:
-    benannter Vertreter mit den Angaben nach Nummer 1 und gegebenenfalls
-    Name der Vereinigung.
+    benannter Vertreter mit den Angaben entsprechend Nummer 1 und
+    gegebenenfalls Name der Vereinigung.
 
 
 
@@ -582,10 +583,15 @@ Fahrzeugdaten anzugeben und auf Verlangen nachzuweisen:
 
 
     d)  die Angabe, dass der Halter von der gesetzlichen Versicherungspflicht
-        befreit ist.
+        befreit ist;
 
 
 
+
+
+5.  Name und Anschrift des Empfangsbevollmächtigten im Sinne des § 46
+    Absatz 2 Satz 2 oder Name und Anschrift des gesetzlichen oder
+    benannten Vertreters.
 
 
 
@@ -768,6 +774,36 @@ besondere Kennzeichen nach Anlage 3; die Erkennungsnummern dieser
 Fahrzeuge bestehen nur aus Zahlen; die Zahlen dürfen nicht mehr als
 sechs Stellen haben.
 
+(1a) Bei der Zulassung von zwei Fahrzeugen auf den gleichen Halter
+oder der Zuteilung des Kennzeichens für zwei zulassungsfreie
+kennzeichenpflichtige Fahrzeuge des gleichen Halters wird im Rahmen
+des Absatzes 1 Satz 1 auf dessen Antrag für diese Fahrzeuge ein
+Wechselkennzeichen zugeteilt, sofern die Fahrzeuge in die gleiche
+Fahrzeugklasse M1, L oder O1 gemäß Anlage XXIX der Straßenverkehrs-
+Zulassungs-Ordnung fallen und Kennzeichenschilder gleicher Anzahl und
+Abmessungen an den Fahrzeugen verwendet werden können.
+Wechselkennzeichen dürfen nicht als Saisonkennzeichen, rote
+Kennzeichen, Kurzzeitkennzeichen oder Ausfuhrkennzeichen ausgeführt
+werden. Das Wechselkennzeichen besteht aus einem den Fahrzeugen
+gemeinsamen Kennzeichenteil und dem jeweiligen fahrzeugbezogenen Teil.
+Absatz 1 Satz 2 bis 4 gilt mit der Maßgabe, dass
+
+1.  Unterscheidungszeichen und der bis auf die letzte Ziffer gleiche Teil
+    der Erkennungsnummer den gemeinsamen Kennzeichenteil bilden und
+
+
+2.  die letzte Ziffer der Erkennungsnummer den jeweiligen
+    fahrzeugbezogenen Teil bildet.
+
+
+
+Ein Wechselkennzeichen darf zur selben Zeit nur an einem der Fahrzeuge
+geführt werden. Ein Fahrzeug, für das ein Wechselkennzeichen zugeteilt
+ist, darf auf öffentlichen Straßen nur in Betrieb gesetzt oder
+abgestellt werden, wenn an ihm das Wechselkennzeichen vollständig mit
+dem gemeinsamen Kennzeichenteil und seinem fahrzeugbezogenen Teil
+angebracht ist. § 16 Absatz 1 bleibt unberührt.
+
 (2) Die Zulassungsbehörde kann die zugeteilte Erkennungsnummer von
 Amts wegen oder auf Antrag ändern und hierzu die Vorführung des
 Fahrzeugs anordnen.
@@ -808,10 +844,13 @@ ausgenommen hiervon sind:
 
 
 6.  besonders emissionsreduzierte Kraftfahrzeuge im Sinne des
-    Kraftfahrzeugsteuergesetzes und
+    Kraftfahrzeugsteuergesetzes,
 
 
-7.  Fahrzeuge mit einem Ausfuhrkennzeichen nach § 19.
+7.  Fahrzeuge mit einem Ausfuhrkennzeichen nach § 19 und
+
+
+8.  Fahrzeuge mit einem Wechselkennzeichen nach § 8 Absatz 1a.
 
 
 
@@ -877,9 +916,11 @@ die Fahrten von der Kraftfahrzeug-Haftpflichtversicherung erfasst
 sind.
 
 (5) Kennzeichen müssen an der Vorder- und Rückseite des Kraftfahrzeugs
-vorhanden und fest angebracht sein. Bei einachsigen Zugmaschinen
-genügt die Anbringung an der Vorderseite, bei Anhängern und bei
-Krafträdern die Anbringung an deren Rückseite.
+vorhanden und fest angebracht sein. Bei Wechselkennzeichen im Sinne
+des § 8 Absatz 1a sind der gemeinsame Kennzeichenteil und der
+fahrzeugbezogene Teil jeweils fest anzubringen. Bei einachsigen
+Zugmaschinen genügt die Anbringung an der Vorderseite, bei Anhängern
+und bei Krafträdern die Anbringung an deren Rückseite.
 
 (6) Die Anbringung und Sichtbarkeit des hinteren Kennzeichens muss
 entsprechen:
@@ -962,13 +1003,13 @@ Zulassungsbescheinigung Teil I einzutragen.
 (12) Unbeschadet des Absatzes 4 dürfen Fahrzeuge auf öffentlichen
 Straßen nur in Betrieb gesetzt werden, wenn das zugeteilte Kennzeichen
 auf einem Kennzeichenschild nach Absatz 1, 2 Satz 1, 2 und 3 Halbsatz
-1, Absatz 5 Satz 1 sowie Absatz 6 bis 8 und 9 Satz 1 ausgestaltet,
-angebracht und beleuchtet ist und die Stempelplakette nach Absatz 3
-Satz 1 und 2 vorhanden ist und keine verwechslungsfähigen oder
-beeinträchtigenden Zeichen und Einrichtungen nach Absatz 11 Satz 1 am
-Fahrzeug angebracht sind. Der Halter darf die Inbetriebnahme eines
-Fahrzeugs nicht anordnen oder zulassen, wenn die Voraussetzungen nach
-Satz 1 nicht vorliegen.
+1, Absatz 5 Satz 1 und 2 sowie Absatz 6 bis 8 und 9 Satz 1
+ausgestaltet, angebracht und beleuchtet ist und die Stempelplakette
+nach Absatz 3 Satz 1 und 2 vorhanden ist und keine
+verwechslungsfähigen oder beeinträchtigenden Zeichen und Einrichtungen
+nach Absatz 11 Satz 1 am Fahrzeug angebracht sind. Der Halter darf die
+Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen, wenn die
+Voraussetzungen nach Satz 1 nicht vorliegen.
 
 (13) Abweichend von Absatz 2 Satz 1 und Absatz 6 Satz 2 und 3 dürfen
 nach § 22a Absatz 1 Nummer 21 der Straßenverkehrs-Zulassungs-Ordnung
@@ -996,12 +1037,11 @@ zugeteilten Prüfzeichen gekennzeichnet sein.
 
 (1) Die Zulassungsbescheinigung Teil I wird nach dem Muster in Anlage
 5 ausgefertigt. Sind für denselben Halter mehrere Anhänger zugelassen,
-kann für den Anhänger abweichend von Satz 1 oder zusätzlich von der
-Zulassungsbehörde auf Antrag ein Verzeichnis der für den Halter
-zugelassenen Anhänger ausgestellt werden. Aus dem Verzeichnis müssen
-Name, Vorname und Anschrift des Halters sowie Marke, Fahrzeugklasse
-und Art des Aufbaus, Leermasse, zulässige Gesamtmasse und bei
-Sattelanhängern auch die Stützlast, die Fahrzeug-
+kann zusätzlich von der Zulassungsbehörde auf Antrag ein Verzeichnis
+der für den Halter zugelassenen Anhänger ausgestellt werden. Aus dem
+Verzeichnis müssen Name, Vorname und Anschrift des Halters sowie
+Marke, Fahrzeugklasse und Art des Aufbaus, Leermasse, zulässige
+Gesamtmasse und bei Sattelanhängern auch die Stützlast, die Fahrzeug-
 Identifizierungsnummer, das Datum der ersten Zulassung und das
 Kennzeichen der Anhänger ersichtlich sein.
 
@@ -1025,10 +1065,10 @@ Zweifelsfällen die Vorlage eines Gutachtens eines amtlich anerkannten
 Sachverständigen für den Kraftfahrzeugverkehr darüber fordern, in
 welche Emissionsklasse das Fahrzeug einzustufen ist.
 
-(5) Die Zulassungsbescheinigung Teil I sowie das Anhängerverzeichnis
-nach Absatz 1 Satz 2 ist vom jeweiligen Fahrer des Kraftfahrzeugs
-mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
-auszuhändigen.
+(5) Die Zulassungsbescheinigung Teil I oder das entsprechende
+Anhängerverzeichnis nach Absatz 1 Satz 2 ist vom jeweiligen Fahrer des
+Kraftfahrzeugs mitzuführen und zuständigen Personen auf Verlangen zur
+Prüfung auszuhändigen.
 
 (6) Wird nach Ausstellung einer neuen Zulassungsbescheinigung Teil I
 für eine in Verlust geratene Bescheinigung diese wieder aufgefunden,
@@ -1244,15 +1284,19 @@ veröffentlichten Standards.
 
 (1) Soll ein zugelassenes Fahrzeug oder ein nicht
 zulassungspflichtiges, aber kennzeichenpflichtiges Fahrzeug außer
-Betrieb gesetzt werden, hat der Halter dies der Zulassungsbehörde
-unter Vorlage der Zulassungsbescheinigung und gegebenenfalls der
-Anhängerverzeichnisse, bei nicht zulassungs- aber
-kennzeichenpflichtigen Fahrzeugen, unter Vorlage des Nachweises über
-die Zuteilung des Kennzeichens oder die Zulassungsbescheinigung Teil I
-unverzüglich anzuzeigen und die Kennzeichen zur Entstempelung
-vorzulegen. Die Zulassungsbehörde vermerkt die Außerbetriebsetzung des
-Fahrzeugs unter Angabe des Datums auf der Zulassungsbescheinigung Teil
-I und gegebenenfalls auf den Anhängerverzeichnissen und händigt die
+Betrieb gesetzt werden, hat der Halter oder der Verfügungsberechtigte
+dies der Zulassungsbehörde unter Vorlage der Zulassungsbescheinigung
+Teil I und, soweit vorhanden, der Anhängerverzeichnisse, bei nicht
+zulassungs- aber kennzeichenpflichtigen Fahrzeugen unter Vorlage des
+Nachweises über die Zuteilung des Kennzeichens oder die
+Zulassungsbescheinigung Teil I, unverzüglich anzuzeigen und die
+Kennzeichen zur Entstempelung vorzulegen; bei Wechselkennzeichen ist
+der fahrzeugbezogene Teil, der die Stempelplakette trägt und, wenn mit
+diesem Kennzeichen kein weiteres Fahrzeug zugelassen bleibt, auch der
+gemeinsame Kennzeichenteil zur Entstempelung vorzulegen. Die
+Zulassungsbehörde vermerkt die Außerbetriebsetzung des Fahrzeugs unter
+Angabe des Datums auf der Zulassungsbescheinigung Teil I und
+gegebenenfalls auf den Anhängerverzeichnissen und händigt die
 vorgelegten Unterlagen sowie die entstempelten Kennzeichenschilder
 wieder aus. Der Halter kann das Kennzeichen zum Zwecke der
 Wiederzulassung befristet reservieren lassen.
@@ -1658,7 +1702,8 @@ nach Anlage 11 Nummer 4 zu erbringen.
 Gewährleistung des Versicherungsschutzes im Rahmen der Kraftfahrzeug-
 Haftpflichtversicherung über
 
-1.  die Zuteilung des Kennzeichens,
+1.  die Zuteilung des Kennzeichens, bei mit einem Wechselkennzeichen
+    zugelassenen Fahrzeug ein Hinweis darauf,
 
 
 2.  Änderungen der Anschrift des Halters,
@@ -1674,7 +1719,9 @@ Haftpflichtversicherung über
 5.  die Änderung der Fahrzeugklasse und
 
 
-6.  die Reservierung des Kennzeichens bei Außerbetriebsetzung
+6.  die Reservierung des Kennzeichens bei Außerbetriebsetzung, bei
+    Wechselkennzeichen zusätzlich ein Hinweis auf das dem
+    Wechselkennzeichen zugehörige andere Kennzeichen
 
 
 
@@ -1881,6 +1928,7 @@ Zentralen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
 3.  das Unterscheidungszeichen und die Erkennungsnummer des zugeteilten
     Kennzeichens und das Datum der Zuteilung, bei Zuteilung eines
     Kennzeichens als Saisonkennzeichen zusätzlich der Betriebszeitraum,
+    bei Zuteilung eines Wechselkennzeichens zusätzlich ein Hinweis darauf,
 
 
 4.  das Unterscheidungszeichen und die Erkennungsnummer von durch
@@ -1908,10 +1956,14 @@ Zentralen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
 
 7.  das Datum der
 
-    a)  Außerbetriebsetzung des Fahrzeugs und
+    a)  Außerbetriebsetzung des Fahrzeugs, bei mit einem Wechselkennzeichen
+        zugelassenen Fahrzeug ein Hinweis darauf, dass es sich um ein
+        Wechselkennzeichen handelt, und
 
 
-    b)  Entstempelung des Kennzeichens,
+    b)  Entstempelung des Kennzeichens, bei mit einem Wechselkennzeichen
+        zugelassenen Fahrzeug auch ausschließlich der Entstempelung des
+        fahrzeugbezogenen Teils,
 
 
 
@@ -2265,7 +2317,8 @@ speichern.
 3.  das Unterscheidungskennzeichen und die Erkennungsnummer des
     zugeteilten Kennzeichens und das Datum der Zuteilung, bei Zuteilung
     eines Kennzeichens als Saisonkennzeichen zusätzlich der
-    Betriebszeitraum,
+    Betriebszeitraum, bei Zuteilung eines Wechselkennzeichens zusätzlich
+    ein Hinweis darauf,
 
 
 4.  das Unterscheidungszeichen und die Erkennungsnummer von durch
@@ -2293,10 +2346,14 @@ speichern.
 
 7.  das Datum der
 
-    a)  Außerbetriebsetzung des Fahrzeugs und
+    a)  Außerbetriebsetzung des Fahrzeugs, bei mit einem Wechselkennzeichen
+        zugelassenen Fahrzeug ein Hinweis darauf, dass es sich um ein
+        Wechselkennzeichen handelt, und
 
 
-    b)  Entstempelung des Kennzeichens,
+    b)  Entstempelung des Kennzeichens, bei mit einem Wechselkennzeichen
+        zugelassenen Fahrzeug auch ausschließlich der Entstempelung des
+        fahrzeugbezogenen Teils,
 
 
 
@@ -2649,7 +2706,9 @@ außerdem zur Aktualisierung des Zentralen Fahrzeugregisters zu
 1.  das Datum der Außerbetriebsetzung,
 
 
-2.  das Kennzeichen und einen Hinweis über dessen Entstempelung,
+2.  das Kennzeichen und einen Hinweis über dessen Entstempelung und bei
+    einem Wechselkennzeichen einen Hinweis darauf, dass es sich um ein
+    Wechselkennzeichen handelt,
 
 
 3.  die Fahrzeug-Identifizierungsnummer,
@@ -2720,6 +2779,7 @@ Versicherungsvertrags übermitteln:
 
     a)  das Kennzeichen und das Datum der Zuteilung, bei Zuteilung eines
         Kennzeichens als Saisonkennzeichen zusätzlich den Betriebszeitraum,
+        bei Wechselkennzeichen zusätzlich ein Hinweis auf dessen Zuteilung,
 
 
     b)  die Fahrzeugklasse, die Art des Aufbaus sowie die Schlüsselnummer des
@@ -3515,11 +3575,11 @@ Behörden vorgenommen werden.
 1.  die zuständigen obersten Landesbehörden oder die von ihnen bestimmten
     oder nach Landesrecht zuständigen Stellen von den Vorschriften der
     Abschnitte 1 bis 5 dieser Verordnung, jedoch nicht von § 12 Absatz 1
-    und 2 Satz 2 und Anlage 2 Nummer 2 Satz 2 und 3, in bestimmten
-    Einzelfällen oder allgemein für bestimmte einzelne Antragsteller;
-    sofern die Ausnahmen erhebliche Auswirkungen auf das Gebiet anderer
-    Länder haben, ergeht die Entscheidung im Einvernehmen mit den
-    zuständigen Behörden dieser Länder,
+    und 2 und § 8 Absatz 1a, in bestimmten Einzelfällen oder allgemein für
+    bestimmte einzelne Antragsteller; sofern die Ausnahmen erhebliche
+    Auswirkungen auf das Gebiet anderer Länder haben, ergeht die
+    Entscheidung im Einvernehmen mit den zuständigen Behörden dieser
+    Länder,
 
 
 2.  die zuständigen obersten Landesbehörden vom Erfordernis der
@@ -3559,7 +3619,8 @@ wer vorsätzlich oder fahrlässig
 
 1.  entgegen
 
-    a)  § 3 Absatz 1 Satz 1, § 4 Absatz 1 oder § 9 Absatz 3 Satz 5,
+    a)  § 3 Absatz 1 Satz 1, § 4 Absatz 1, § 8 Absatz 1a Satz 6 oder § 9
+        Absatz 3 Satz 5,
 
 
     b)  § 10 Absatz 12, auch in Verbindung mit § 16 Absatz 5 Satz 3, § 17
@@ -3608,8 +3669,12 @@ wer vorsätzlich oder fahrlässig
     Betrieb setzen lässt,
 
 
-9.  entgegen § 9 Absatz 3 Satz 5 ein Fahrzeug außerhalb des
-    Betriebszeitraums auf öffentlichen Straßen abstellt,
+8a. entgegen § 8 Absatz 1a Satz 5 ein Wechselkennzeichen zur selben Zeit
+    an mehr als einem Fahrzeug führt,
+
+
+9.  entgegen § 8 Absatz 1a Satz 6 oder § 9 Absatz 3 Satz 5 ein Fahrzeug
+    auf öffentlichen Straßen abstellt,
 
 
 10. entgegen § 11 Absatz 6 oder § 12 Absatz 4 Satz 5 eine Bescheinigung
@@ -3803,7 +3868,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   A
 
-        *[^f774780_02_BJNR013900011BJNE005501140]
+        *[^f774780_02_BJNR013900011BJNE005502140]
    Augsburg
 
 
@@ -3820,6 +3885,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   ABG
 
         *   Altenburger-Land
+
+
+    *        *   ABI
+
+        *   Anhalt-Bitterfeld
 
 
     *        *   AC
@@ -3868,11 +3938,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Amberg-Sulzbach
 
 
-    *        *   ASL
-
-        *   Aschersleben-Staßfurt
-
-
     *        *   ASZ
 
         *   Aue-Schwarzenberg
@@ -3891,11 +3956,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   AZ
 
         *   Alzey-Worms
-
-
-    *        *   AZE
-
-        *   Anhalt-Zerbst
 
 
     *        *   B
@@ -3923,11 +3983,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Böblingen
 
 
-    *        *   BBG
-
-        *   Bernburg
-
-
     *        *   BC
 
         *   Biberach Riß
@@ -3953,6 +4008,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Bitburg-Prüm
 
 
+    *        *   BK
+
+        *   Börde
+
+
     *        *   BL
 
         *   Zollernalbkreis
@@ -3976,11 +4036,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   BO
 
         *   Bochum, Stadt
-
-
-    *        *   BÖ
-
-        *   Bördekreis
 
 
     *        *   BOR
@@ -4013,11 +4068,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   BT
 
         *   Bayreuth\*)
-
-
-    *        *   BTF
-
-        *   Bitterfeld
 
 
     *        *   BÜS
@@ -4088,7 +4138,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   DA
 
-        *[^f774780_03_BJNR013900011BJNE005501140]
+        *[^f774780_03_BJNR013900011BJNE005502140]
    Darmstadt
 
 
@@ -4115,7 +4165,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   DE
 
-        *   Dessau, Stadt
+        *   Dessau-Roßlau, Stadt
 
 
     *        *   DEG
@@ -4496,11 +4546,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Hildburghausen
 
 
-    *        *   HBS
-
-        *   Halberstadt
-
-
     *        *   HD
 
         *   Heidelberg\*)
@@ -4554,6 +4599,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   HI
 
         *   Hildesheim
+
+
+    *        *   HK
+
+        *   Landkreis Heidekreis
 
 
     *        *   HL
@@ -4641,6 +4691,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Hoyerswerda, Stadt\*)
             auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Kamenz
+
+
+    *        *   HZ
+
+        *   Harz
 
 
     *        *   IGB
@@ -4756,11 +4811,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Koblenz, Stadt\*)
             auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Mayen-Koblenz
-
-
-    *        *   KÖT
-
-        *   Köthen
 
 
     *        *   KR
@@ -4966,11 +5016,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Main-Kinzig-Kreis
 
 
-    *        *   ML
-
-        *   Mansfelder Land
-
-
     *        *   MM
 
         *   Memmingen, Stadt\*)
@@ -4992,11 +5037,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Neckar-Odenwald-Kreis
 
 
-    *        *   MQ
-
-        *   Merseburg-Querfurt
-
-
     *        *   MR
 
         *   Marburg-Biedenkopf
@@ -5005,6 +5045,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   MS
 
         *   Münster, Stadt
+
+
+    *        *   MSH
+
+        *   Mansfeld-Südharz
 
 
     *        *   MSP
@@ -5216,11 +5261,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Osterholz
 
 
-    *        *   OK
-
-        *   Ohrekreis
-
-
     *        *   OL
 
         *   Oldenburg (Oldenburg)\*)
@@ -5317,11 +5357,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   PS
 
         *   Pirmasens\*)
-
-
-    *        *   QLB
-
-        *   Quedlinburg
 
 
     *        *   R
@@ -5429,11 +5464,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Saarbrücken, Stadt und Stadtverband außer Völklingen, Stadt (VK)
 
 
-    *        *   SBK
-
-        *   Schönebeck
-
-
     *        *   SC
 
         *   Schwabach, Stadt\*)
@@ -5450,19 +5480,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Segeberg
 
 
-    *        *   SFA
-
-        *   Soltau-Fallingbostel
-
-
     *        *   SG
 
         *   Solingen, Stadt
-
-
-    *        *   SGH
-
-        *   Sangerhausen
 
 
     *        *   SHA
@@ -5503,7 +5523,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   SK
 
-        *   Saalkreis
+        *   Saalekreis
 
 
     *        *   SL
@@ -5514,6 +5534,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   SLF
 
         *   Saalfeld-Rudolstadt
+
+
+    *        *   SLK
+
+        *   Salzlandkreis
 
 
     *        *   SLS
@@ -5810,16 +5835,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Wolfsburg, Stadt
 
 
-    *        *   WR
-
-        *   Wernigerode
-
-
-    *        *   WSF
-
-        *   Weißenfels
-
-
     *        *   WST
 
         *   Ammerland in Westerstede
@@ -5853,6 +5868,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   WW
 
         *   Westerwald in Montabaur
+
+
+    *        *   WZ
+
+        *   Wetzlar, Stadt
 
 
     *        *   Z
@@ -5943,7 +5963,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Ostvorpommern in Anklam
 
-        *   Vorpommern-Greifswalt
+        *   Vorpommern-Greifswald
 
 
     *        *   APD
@@ -5981,6 +6001,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Emsland
 
 
+    *        *   ASL
+
+        *   Aschersleben-Staßfurt
+
+        *   Salzlandkreis
+
+
     *        *   AT
 
         *   Altentreptow
@@ -5993,6 +6020,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Aue
 
         *   Aue-Schwarzenberg
+
+
+    *        *   AZE
+
+        *   Anhalt-Zerbst
+
+        *   Anhalt-Bitterfeld
+
+
+    *        *   BBG
+
+        *   Bernburg
+
+        *   Salzlandkreis
 
 
     *        *   BCH
@@ -6107,6 +6148,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Leipziger Land
 
 
+    *        *   BÖ
+
+        *   Bördekreis
+
+        *   Börde
+
+
     *        *   BOG
 
         *   Bogen
@@ -6175,6 +6223,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Beeskow
 
         *   Oder-Spree
+
+
+    *        *   BTF
+
+        *   Bitterfeld
+
+        *   Anhalt-Bitterfeld
 
 
     *        *   BU
@@ -6426,7 +6481,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Fallingbostel
 
-        *   Soltau-Fallingbostel
+        *   Landkreis Heidekreis
 
 
     *        *   FDB
@@ -6671,7 +6726,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Güstrow
 
-        *   Landkreis Rostock
+        *   Landkreis Roststock
 
 
     *        *   GUN
@@ -6707,6 +6762,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Hammelburg
 
         *   Bad Kissingen
+
+
+    *        *   HBS
+
+        *   Halberstadt
+
+        *   Harz
 
 
     *        *   HC
@@ -6938,6 +7000,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Königshofen i. Grabfeld
 
         *   Rhön-Grabfeld
+
+
+    *        *   KÖT
+
+        *   Köthen
+
+        *   Anhalt-Bitterfeld
 
 
     *        *   KÖZ
@@ -7241,6 +7310,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Unstrut-Hainich-Kreis
 
 
+    *        *   ML
+
+        *   Mansfelder Land
+
+        *   Mansfeld-Südharz
+
+
     *        *   MO
 
         *   Moers
@@ -7260,6 +7336,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Monschau
 
         *   Aachen
+
+
+    *        *   MQ
+
+        *   Merseburg-Querfurt
+
+        *   Saalekreis
 
 
     *        *   MT
@@ -7459,6 +7542,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Hohenlohekreis
 
 
+    *        *   OK
+
+        *   Ohrekreis
+
+        *   Börde
+
+
     *        *   OLD
 
         *   Oldenburg/Holstein
@@ -7583,6 +7673,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Querfurt
 
         *   Merseburg-Querfurt
+
+
+    *        *   QLB
+
+        *   Quedlinburg
+
+        *   Harz
 
 
     *        *   RC
@@ -7746,6 +7843,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Vorpommern-Greifswald und Mecklenburg-Strelitz
 
 
+    *        *   SBK
+
+        *   Schönebeck
+
+        *   Salzlandkreis
+
+
     *        *   SCZ
 
         *   Schleiz
@@ -7802,6 +7906,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Oberallgäu
 
 
+    *        *   SFA
+
+        *   Soltau-Fallingbostel
+
+        *   Landkreis Heidekreis
+
+
     *        *   SFB
 
         *   Senftenberg
@@ -7814,6 +7925,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Staßfurt
 
         *   Aschersleben-Staßfurt
+
+
+    *        *   SGH
+
+        *   Sangerhausen
+
+        *   Mansfeld-Südharz
 
 
     *        *   SLE
@@ -7883,7 +8001,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Soltau
 
-        *   Soltau-Fallingbostel
+        *   Landkreis Heidekreis
 
 
     *        *   SPB
@@ -8250,6 +8368,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Freyung-Grafenau
 
 
+    *        *   WR
+
+        *   Wernigerode
+
+        *   Harz
+
+
     *        *   WRN
 
         *   Waren
@@ -8262,6 +8387,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Wasserburg a. Inn
 
         *   Rosenheim
+
+
+    *        *   WSF
+
+        *   Weißenfels
+
+        *   Burgenlandkreis
 
 
     *        *   WSW
@@ -8290,13 +8422,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Wurzen
 
         *   Muldentalkreis
-
-
-    *        *   WZ
-
-        *   Wetzlar
-
-        *   Lahn-Dill-Kreis
 
 
     *        *   WZL
@@ -8366,18 +8491,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     erfolgt durch die zuständige oberste Landesbehörde oder die nach
     Landesrecht zuständige Stelle. Die Festlegung ist dem Kraftfahrt-
     Bundesamt rechtzeitig anzuzeigen.
-[^f774780_02_BJNR013900011BJNE005501140]:     Stadt- und Landkreis sowie die Staatliche Technische Überwachung
+[^f774780_02_BJNR013900011BJNE005502140]:     Stadt- und Landkreis sowie die Staatliche Technische Überwachung
     Hessen führen das gleiche Unterscheidungskennzeichen. Die Festlegung
     der Gruppen oder Nummerngruppen der Erkennungsnummer nach Anlage 2 für
     deren Behörden oder zusätzlichen Verwaltungsstellen erfolgt durch die
     zuständige oberste Landesbehörde oder die nach Landesrecht zuständige
     Stelle.
-[^f774780_03_BJNR013900011BJNE005501140]: 
+[^f774780_03_BJNR013900011BJNE005502140]: 
 (zu § 8 Absatz 1 Satz 4)
 
 ### Anlage 2 Ausgestaltung, Einteilung und Zuteilung der Buchstaben- und Zahlengruppen für die Erkennungsnummern der Kennzeichen
 
-(Fundstelle: BGBl. I 2011, 185)
+(Fundstelle: BGBl. I 2011, 185;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Zuteilung von Buchstaben
@@ -8405,12 +8531,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
-    Zwei- und dreistellige Erkennungsnummern dürfen nur solchen Fahrzeugen
-    zugeteilt werden, für die eine längere Erkennungsnummer nicht geeignet
-    ist. Dies gilt insbesondere für Importfahrzeuge, bei denen die
-    Anbringung eines anderen, längeren Kennzeichens aus baulichen Gründen
-    nicht in Betracht kommt.
 
 
 
@@ -8613,7 +8733,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ### Anlage 4 Ausgestaltung der Kennzeichen
 
 (Fundstelle: BGBl. I 2011, 188 - 202;
-bzgl. der einzelnen Änderungen vgl. Fußnoten)
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 1
 
@@ -8786,14 +8906,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
     Vorlage eines Gutachtens eines amtlich anerkannten Sachverständigen
     für den Kraftfahrzeugverkehr verlangen. Stellt ein amtlich anerkannter
     Sachverständiger für den Kraftfahrzeugverkehr fest, dass an einem
-    mehrspurigen Kraftfahrzeug die Anbringung eines vorschriftsmäßigen
-    hinteren Kennzeichens nach Nummer 1 Satz 1 Buchstabe a oder b einen
+    Kraftfahrzeug die Anbringung eines vorschriftsmäßigen hinteren
+    Kennzeichens nach Nummer 1 Satz 1 Buchstabe a, b oder c einen
     unverhältnismäßigen Aufwand erfordert oder technisch nicht möglich
     ist, kann die Zulassungsbehörde eine Ausnahme zum Führen eines
     verkleinerten zweizeiligen Kennzeichens nach Nummer 1 Satz 1 Buchstabe
-    c genehmigen; dies gilt nicht, wenn durch nachträgliche Änderungen die
-    Anbringung eines vorschriftsmäßigen Kennzeichens nicht mehr möglich
-    ist.
+    d genehmigen; dies gilt nicht, wenn durch nachträgliche Änderungen
+    oder den Anbau von Zubehör die Anbringung eines vorschriftsmäßigen
+    Kennzeichens nicht mehr möglich ist.
 
 
 **5.** **Anerkennung von Prüfungen aus anderen Mitgliedstaaten der
@@ -8861,6 +8981,62 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
     \* Mindestmaß 8 mm
     \*\* 8 mm bis 10 mm
     \*\*\* 5 mm bis 20 mm
+
+
+
+
+## Abschnitt 2a
+
+## Wechselkennzeichen
+
+Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a und Abschnitt 4 Nummer
+1, 2 und 2a können als Wechselkennzeichen ausgeführt sein. Die
+Wechselkennzeichen bestehen nach Maßgabe des § 8 Absatz 1a aus dem
+gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen Teil. Auf dem
+fahrzeugbezogenen Teil ist unter der letzten Ziffer der
+Erkennungsnummer die Beschriftung des gemeinsamen Kennzeichenteils
+aufzuführen.
+
+1.  einzeiliges Kennzeichen
+
+    ![bgbl1_2012_j0103-1_0010.jpg](bgbl1_2012_j0103-1_0010.jpg)
+    Die übrigen Abmessungen entsprechen denen der Allgemeinen Kennzeichen.
+
+
+
+
+2.  zweizeiliges Kennzeichen
+
+    ![bgbl1_2012_j0103-1_0020.jpg](bgbl1_2012_j0103-1_0020.jpg)
+    Die übrigen Abmessungen entsprechen denen der Allgemeinen Kennzeichen.
+
+
+
+
+3.  Kraftradkennzeichen
+
+    ![bgbl1_2012_j0103-1_0030.jpg](bgbl1_2012_j0103-1_0030.jpg)
+    Die übrigen Abmessungen entsprechen denen der Kraftradkennzeichen.
+
+
+
+
+4.  Ergänzungsbestimmungen
+
+    Mehr als acht Stellen (Buchstaben und Ziffern) auf dem gemeinsamen
+    Kennzeichenteil und dem fahrzeugbezogenen Teil zusammen sind nicht
+    zulässig. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe b
+    ist auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens oben
+    anzubringen. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c
+    ist auf dem vorderen und hinteren gemeinsamen Kennzeichenteil jeweils
+    unten sowie auf dem fahrzeugbezogenen Teil des vorderen Kennzeichens,
+    bei Fahrzeugen der Klasse L, die kein vorderes Kennzeichen führen
+    müssen, auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens unten
+    anzubringen; sie muss einen Durchmesser von 45 mm haben. Die Plakette
+    nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c darf auf dem gemeinsamen
+    Kennzeichenteil bei einzeiligen Kennzeichen auch in der Mitte und bei
+    zweizeiligen Kennzeichen in der oberen Zeile auch in der Mitte
+    angebracht werden.
 
 
 
@@ -9065,11 +9241,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
         6171-1, blau – Euro-Feld) zu verwenden.
 
 
-    b)  Die Zulassungsbehörde kann dem Halter oder Antragsteller gestatten,
-        die Plaketten an den Kennzeichen des Fahrzeugs auf dem vorgesehenen
-        Feld selbst anzubringen. In diesem Fall händigt sie ihm die Plaketten
-        bei der Zuteilung des Kennzeichens mit dem besonderen Fahrzeugschein
-        aus. Die Plaketten sind wie folgt anzubringen:
+    b)  Die Plaketten sind wie folgt anzubringen:
 
         aa) bei den Kennzeichen nach Nummer 1 zwischen dem Unterscheidungszeichen
             und der Erkennungsnummer jeweils unten;

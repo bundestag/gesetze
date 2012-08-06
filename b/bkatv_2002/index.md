@@ -218,8 +218,8 @@ Der Bundesrat hat zugestimmt
 
 ## Anlage Bußgeldkatalog
 
-Fundstelle des Originaltextes: BGBl. I 2001, 3035 - 3067;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2001, 3035 - 3067;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt I
 Fahrlässig begangene Ordnungswidrigkeiten
@@ -4931,11 +4931,13 @@ Fahrlässig begangene Ordnungswidrigkeiten
         Typgenehmigung, Betriebserlaubnis, Zulassung oder außerhalb des auf
         dem Saisonkennzeichen angegebenen Betriebszeitraums oder nach dem auf
         dem Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen
-        angegebenen Ablaufdatum auf einer öffentlichen Straße in Betrieb
-        gesetzt
+        angegebenen Ablaufdatum oder Fahrzeug mit Wechselkennzeichen ohne oder
+        mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen
+        Straße in Betrieb gesetzt
 
     *   § 3 Abs. 1 Satz 1
         § 4 Abs. 1
+        § 8 Abs. 1a Satz 6
         § 9 Abs. 3 Satz 5
         § 16 Abs. 2 Satz 7
         § 19 Abs. 1 Nr. 4 Satz 3
@@ -4958,9 +4960,11 @@ Fahrlässig begangene Ordnungswidrigkeiten
 *    *   177
 
     *   Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen
-        Betriebszeitraums auf einer öffentlichen Straße abgestellt
+        Betriebszeitraums oder mit Wechselkennzeichen ohne oder mit
+        unvollständigem Kennzeichen auf einer öffentlichen Straße abgestellt
 
-    *   § 9 Abs. 3 Satz 5
+    *   § 8 Abs. 1a Satz 6
+        § 9 Abs. 3 Satz 5
         § 48 Nr. 9
 
     *   40 €
