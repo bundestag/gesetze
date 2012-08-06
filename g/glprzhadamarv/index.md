@@ -21,7 +21,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 20.6.2012 I 1387
 
 V aufgeh. durch
-:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1387 mWv 2.1.2017
+:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1387 mWv 1.1.2017
 
 
 

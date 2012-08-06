@@ -219,11 +219,12 @@ Gesamtbelastung für den Konzern nicht geringer ist als die Summe der
 Belastungen der Einzelinstitute. Die Anstalt kann als Bedingung für
 die Anwendung des Ertragsabzugs verlangen, dass die Geschäftsleitung
 an Eides statt versichert, dass die Voraussetzungen für den Abzug
-vorliegen. Aufwendungen für Beitragsverpflichtungen und Erträge aus
-Erstattungen nach dem Restrukturierungsfondsgesetz, auch aus der
-Bildung und Auflösung von Rückstellungen der Kreditinstitute für diese
-Beitragspflichten, werden bei der Ermittlung der Zumutbarkeitsgrenze
-nach Satz 1 nicht berücksichtigt.
+vorliegen. Im Fall des § 1 Absatz 3 Satz 2 ist die Plangewinn- und
+-verlustrechnung maßgeblich. Aufwendungen für Beitragsverpflichtungen
+und Erträge aus Erstattungen nach dem Restrukturierungsfondsgesetz,
+auch aus der Bildung und Auflösung von Rückstellungen der
+Kreditinstitute für diese Beitragspflichten, werden bei der Ermittlung
+der Zumutbarkeitsgrenze nach Satz 1 nicht berücksichtigt.
 
 (2) Die Kreditinstitute haben mindestens einen Jahresbeitrag in Höhe
 von 5 Prozent des nach § 1 Absatz 2 errechneten Jahresbeitrags zu

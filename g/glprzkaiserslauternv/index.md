@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 20.6.2012 I 1388
 
 V aufgeh. durch
-:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1388 mWv 2.10.2016
+:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1388 mWv 1.10.2016
 
 
 
