@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 26.9.2002 I 3830;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.2.2012 I 212
+:   Art. 2 G v. 27.6.2012 I 1421
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -2606,9 +2606,9 @@ Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
 (1) Die zuständigen Behörden arbeiten bis zum 30. Juni 2007 bezogen
 auf das vorangegangene Kalenderjahr Lärmkarten für Ballungsräume mit
-mehr als 250.000 Einwohnern sowie für Hauptverkehrsstraßen mit einem
+mehr als 250 000 Einwohnern sowie für Hauptverkehrsstraßen mit einem
 Verkehrsaufkommen von über sechs Millionen Kraftfahrzeugen pro Jahr,
-Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60.000
+Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60 000
 Zügen pro Jahr und Großflughäfen aus. Gleiches gilt bis zum 30. Juni
 2012 und danach alle fünf Jahre für sämtliche Ballungsräume sowie für
 sämtliche Hauptverkehrsstraßen und Haupteisenbahnstrecken.
@@ -2620,6 +2620,19 @@ Richtlinie 2002/49/EG des Europäischen Parlaments und des Rates vom
 Richtlinie 2002/49/EG an die Kommission zu übermittelnden Daten zu
 enthalten.
 
+(2a) Öffentliche Eisenbahninfrastrukturunternehmen sind verpflichtet,
+den für die Ausarbeitung von Lärmkarten zuständigen Behörden folgende
+für die Erarbeitung von Lärmkarten erforderlichen Daten unentgeltlich
+zur Verfügung zu stellen:
+
+1.  Daten zur Eisenbahninfrastruktur und
+
+
+2.  Daten zum Verkehr der Eisenbahnen auf den Schienenwegen.
+
+
+
+
 (3) Die zuständigen Behörden arbeiten bei der Ausarbeitung von
 Lärmkarten für Grenzgebiete mit den zuständigen Behörden anderer
 Mitgliedstaaten der Europäischen Union zusammen.
@@ -2630,9 +2643,9 @@ Zeitpunkt ihrer Erstellung überprüft und bei Bedarf überarbeitet.
 (5) Die zuständigen Behörden teilen dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit oder einer von ihm benannten Stelle
 zum 30. Juni 2005 und danach alle fünf Jahre die Ballungsräume mit
-mehr als 250.000 Einwohnern, die Hauptverkehrsstraßen mit einem
+mehr als 250 000 Einwohnern, die Hauptverkehrsstraßen mit einem
 Verkehrsaufkommen von über sechs Millionen Kraftfahrzeugen pro Jahr,
-die Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60.000
+die Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60 000
 Zügen pro Jahr und die Großflughäfen mit. Gleiches gilt zum 31.
 Dezember 2008 für sämtliche Ballungsräume sowie sämtliche
 Hauptverkehrsstraßen und Haupteisenbahnstrecken.
@@ -2651,11 +2664,11 @@ geregelt werden für
 
 1.  Orte in der Nähe der Hauptverkehrsstraßen mit einem Verkehrsaufkommen
     von über sechs Millionen Kraftfahrzeugen pro Jahr, der
-    Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60.000
+    Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60 000
     Zügen pro Jahr und der Großflughäfen,
 
 
-2.  Ballungsräume mit mehr als 250.000 Einwohnern.
+2.  Ballungsräume mit mehr als 250 000 Einwohnern.
 
 
 
@@ -2674,6 +2687,11 @@ der Richtlinie 2002/49/EG zu entsprechen und die nach Anhang VI der
 Richtlinie 2002/49/EG an die Kommission zu übermittelnden Daten zu
 enthalten. Ziel dieser Pläne soll es auch sein, ruhige Gebiete gegen
 eine Zunahme des Lärms zu schützen.
+
+(2a) Öffentliche Eisenbahninfrastrukturunternehmen sind verpflichtet,
+an der Aufstellung von Lärmaktionsplänen für Orte in der Nähe der
+Haupteisenbahnstrecken und für Ballungsräume mit Eisenbahnverkehr
+mitzuwirken.
 
 (3) Die Öffentlichkeit wird zu Vorschlägen für Lärmaktionspläne
 gehört. Sie erhält rechtzeitig und effektiv die Möglichkeit, an der
