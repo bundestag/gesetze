@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 24.2.2012 I 206
 
 Änderung durch
-:   Art. 9 G v. 26.6.2012 I 1375 (Nr. 28) noch nicht berücksichtigt
+:   Art. 9 G v. 26.6.2012 I 1375 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
