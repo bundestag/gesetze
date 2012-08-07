@@ -17,6 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2002, Nr 50, 4588
 
-Aufhebungsv v. 16.4.2012 banz, at 24.04.2012 v1 aufgeh. durch
-:   V v. 21.5.2012 BAnz, AT 29.05.2012 V1
+Aufhebungsv v. 16.4.2012 banz at 24.04.2012 v1 aufgeh. durch
+:   V v. 21.5.2012 BAnz AT 29.05.2012 V1
 
