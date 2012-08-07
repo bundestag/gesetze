@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1406
 
-Gändert durch
+Geändert durch
 :   Art. 15 Abs. 71 G v. 5.2.2009 I 160
 
 

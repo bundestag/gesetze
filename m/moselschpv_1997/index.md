@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl II: 1997, 1670 [Anlageband]
 
 Zuletzt geändert durch
-:   Beschluss v. 6.12.2006 iVm Art. 2 V v. 10.7.2007 II 874
+:   Beschlüsse d. Art. 1 iVm Anlage 1 V v. 16.12.2011 II 1318
 
 Änderung durch
-:   Art. 1 iVm Anlage 1 V. 16.12.2011 II 1318 noch nicht berücksichtigt
+:   Art. 6 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
 
 
 ## Inhaltsverzeichnis
@@ -173,6 +173,11 @@ Zuletzt geändert durch
 *    *   § 1.26
 
     *   Sonderrechte der Fahrzeuge der Überwachungsbehörden
+
+
+*    *   § 1.27
+
+    *   Anordnungen, Erlaubnisse und Genehmigungen
 
 
 *    *
@@ -721,7 +726,7 @@ Zuletzt geändert durch
 
 *    *   § 6.29
 
-    *   Reihenfolge der Schleusungen
+    *   Vorrecht auf Schleusung
 
 
 *    *
@@ -857,7 +862,8 @@ Zuletzt geändert durch
 
 *    *   § 8.07
 
-    *   Sprechverbindung auf Verbänden
+    *   Sprechverbindung auf Verbänden sowie Fahrzeugen, deren Länge 110,00 m
+        überschreitet
 
 
 *    *   § 8.08
@@ -877,7 +883,8 @@ Zuletzt geändert durch
 
 *    *   § 8.11
 
-    *   Sicherheit an Bord von Fahrgastschiffen
+    *   Sicherheit an Bord von Fahrzeugen, die für die Beförderung und
+        Übernachtung von mehr als 12 Fahrgästen zugelassen sind
 
 
 *    *   § 8.12
@@ -903,8 +910,7 @@ Zuletzt geändert durch
 
 *    *   § 9.02
 
-    *   Durchfahrt durch die Schleusen Talange und Metz außerhalb der
-        Betriebszeiten
+    *   Durchfahrt durch die Schleuse Metz außerhalb der Betriebszeiten
 
 
 *    *   § 9.03
@@ -1064,16 +1070,6 @@ Zuletzt geändert durch
     *   Muster für das Ölkontrollbuch
 
 
-*    *   Anlage 11:
-
-    *   (ohne Inhalt)
-
-
-*    *   Anlage 12:
-
-    *   (ohne Inhalt)
-
-
 
 
 
@@ -1178,16 +1174,15 @@ m)  "Kleinfahrzeug":
     ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine
     Höchstlänge von weniger als 20,00 m aufweist, ausgenommen
 
-    -   ein Fahrzeug, das gebaut oder eingerichtet ist, um andere Fahrzeuge
-        als Kleinfahrzeuge zu schleppen, zu schieben oder längsseits gekuppelt
-        mitzuführen,
+    -   ein Fahrzeug, das zugelassen ist, Fahrzeuge, die nicht Kleinfahrzeuge
+        sind, zu schleppen, zu schieben oder längsseits gekuppelt mitzuführen,
 
 
     -   ein Fahrzeug, das zur Beförderung von mehr als 12 Fahrgästen
         zugelassen ist,
 
 
-    -   eine Fähre sowie
+    -   eine Fähre oder
 
 
     -   ein Schubleichter;
@@ -1232,25 +1227,25 @@ s)  "Tag":
     der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
 
 
-t)  "weißes Licht", "rotes Licht", "grünes Licht", "gelbes Licht" und
-    "blaues Licht":
+t)  „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und
+    „blaues Licht“:
 
-    ein Licht, dessen Farbe den auf der Mosel geltenden Vorschriften über
-    die Farbe und Lichtstärke der Bordlichter sowie die Zulassung von
-    Signalleuchten in der Rheinschiffahrt entspricht;
-
-
-u)  "starkes Licht", "helles Licht" und "gewöhnliches Licht":
-
-    ein Licht, dessen Stärke den Vorschriften über die Farbe und
-    Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in
-    der Rheinschiffahrt entspricht;
+    ein Licht, dessen Farbe den Anforderungen der Tabelle 2 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
 
 
-v)  "Funkellicht":
+u)  „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“:
 
-    ein Licht mit einer Taktkennung von 40 bis 60 Lichterscheinungen je
-    Minute;
+    ein Licht, dessen Stärke den Anforderungen der Tabelle 1 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
+
+
+v)  „Funkellicht“, „schnelles Funkellicht“:
+
+    ein Licht, dessen Anzahl regelmäßiger Lichterscheinungen als
+    Funkellicht der Anforderung der Zeile 1 und als schnelles Funkellicht
+    den Anforderungen der Zeile 2 oder der Zeile 3 der Tabelle 3 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
 
 
 w)  "kurzer Ton":
@@ -1281,11 +1276,11 @@ z)  "zu Berg":
     die Richtung zu den Quellen der Mosel;
 
 
-aa) "ADNR":
+aa) "ADN":
 
-    die Verordnung über die Beförderung gefährlicher Güter auf dem Rhein,
-    die durch die Verordnung über die Beförderung gefährlicher Güter auf
-    der Mosel eingeführt worden ist.
+    die dem Europäischen Übereinkommen über die internationale Beförderung
+    von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung
+    (ADN) in der jeweils aktuellen Fassung.
 
 
 
@@ -1345,8 +1340,8 @@ aa) "ADNR":
 7.  Der Schiffsführer darf nicht durch Übermüdung, Einwirkung von Alkohol,
     Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein.
 
-    Bei einer Menge von 0,40 mg/l oder mehr Alkohol in der Atemluft oder
-    bei einer Blutalkoholkonzentration von 0,8 oder mehr Promille oder
+    Bei einer Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder
+    bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder
     einer Alkoholmenge im Körper, die zu einer solchen Atem- oder
     Blutalkoholkonzentration führt, ist es dem Schiffsführer verboten, das
     Fahrzeug zu führen.
@@ -1381,8 +1376,8 @@ aa) "ADNR":
     dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten,
     Drogen oder aus einem anderen Grund beeinträchtigt sein.
 
-    Bei einer Menge von 0,40 mg/l oder mehr Alkohol in der Atemluft oder
-    bei einer Blutalkoholkonzentration von 0,8 oder mehr Promille oder
+    Bei einer Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder
+    bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder
     einer Alkoholmenge im Körper, die zu einer solchen Atem- oder
     Blutalkoholkonzentration führt, ist es den in Satz 1 genannten
     Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu
@@ -1439,7 +1434,8 @@ sein.
 1.  Fahrzeuge dürfen nicht tiefer als bis zur Unterkante der
     Einsenkungsmarken abgeladen sein.
 
-    Kanalpenichen dürfen nicht tiefer abgeladen sein als
+    Kanalpenichen (péniches Freycinet) dürfen nicht tiefer abgeladen sein
+    als
 
     -   bis zur Unterkante der Einsenkungsmarken oder bis zur Unterkante der
         Eichplatten oder -marken nach § 2.04 Nr. 1;
@@ -1455,8 +1451,16 @@ sein.
 
 
 
-2.  Während der Fahrt darf die unmittelbare oder mittelbare Sicht durch
-    die Ladung nicht weiter als 350,00 m vor dem Bug eingeschränkt werden.
+2.  Die freie Sicht darf durch die Ladung oder die Trimmlage des Fahrzeugs
+    nicht weiter als 350,00 m vor dem Bug eingeschränkt werden. Wird
+    während der Fahrt die unmittelbare Sicht nach hinten eingeschränkt,
+    kann dies durch ein optisches Hilfsmittel ausgeglichen werden, das in
+    einem ausreichenden Blickfeld ein klares und unverzerrtes Bild
+    liefert. Ist beim Durchfahren von Brücken oder Schleusen infolge der
+    Ladung keine ausreichende unmittelbare Sicht nach vorne möglich, kann
+    dies während der Durchfahrt durch den Einsatz von
+    Flachspiegelperiskopen, Radargeräten oder eines Ausguckes, der in
+    ständiger Verbindung mit dem Steuerhaus steht, ausgeglichen werden.
 
 
 3.  Die Ladung darf die Stabilität des Fahrzeugs und die Festigkeit des
@@ -1517,22 +1521,35 @@ sein.
 
 3.  Diese Voraussetzungen gelten als erfüllt, wenn Bau, Ausrüstung,
     Besatzung und Betrieb der Fahrzeuge entweder den Bestimmungen der
-    Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen
-    Vorschriften der Moseluferstaaten entsprechen und wenn:
+    Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der
+    Binnenschiffsuntersuchungsordnung (Rheinschiffsuntersuchungsordnung)
+    oder anderen gleichwertigen Vorschriften der Moseluferstaaten
+    entsprechen und wenn
 
-    a)  die Fahrzeuge mit einem Rhein-Schiffsattest oder einer als Ersatz
-        zugelassenen Urkunde und einem Bordbuch nach dem Muster des Rheins
-        versehen sind. Die jeweilige Mindestbesatzung muß in das Schiffsattest
-        oder in die als Ersatz zugelassene Urkunde eingetragen sein;
+    a)  die Fahrzeuge mit einem Schiffsattest nach der
+        Rheinschiffsuntersuchungsordnung oder einem Gemeinschaftszeugnis nach
+        der Binnenschiffsuntersuchungsordnung sowie einem Bordbuch nach der
+        Rheinschiffsuntersuchungsordnung oder den dafür als Ersatz
+        zugelassenen Urkunden versehen sind; die jeweilige Mindestbesatzung
+        muss sich aus einer der vorgenannten Urkunden ergeben;
 
 
     b)  die Befähigung der Besatzungsmitglieder mittels eines Dienstbuches
         nach dem Muster des Rheins oder mittels einer in der Verordnung über
         das Führen von Fahrzeugen auf der Mosel vorgesehenen Urkunde
-        nachgewiesen werden kann. Dies gilt nicht für Kleinfahrzeuge.
+        nachgewiesen werden kann; dies gilt nicht für Kleinfahrzeuge.
 
 
 
+
+
+4.  Unbeschadet der Nummer 3 müssen die unter Nummer 44 im Schiffsattest
+    oder in der als Ersatz zugelassenen Urkunde eingetragenen
+    Einzelrettungsmittel für Fahrgäste in einer der Verteilung der
+    Fahrgäste entsprechenden Anzahl für Erwachsene und für Kinder an Bord
+    vorhanden sein, wobei für Kinder bis zu 30 kg Körpergewicht oder 6
+    Jahren Alter nur Feststoffwesten nach in § 10.05 Nummer 2
+    Rheinschiffsuntersuchungsordnung genannten Normen zulässig sind.
 
 
 
@@ -1580,7 +1597,11 @@ sein.
 
 
     c)  das ordnungsgemäß ausgefüllte Bordbuch einschließlich der
-        Bescheinigung nach Anlage K der Rheinschiffsuntersuchungsordnung,
+        Bescheinigung nach Anlage K der Rheinschiffsuntersuchungsordnung oder
+        einer Kopie der Seite mit den Eintragungen der Fahrbeziehungsweise
+        Ruhezeiten aus dem Bordbuch des Schiffes, auf dem die letzte Reise des
+        Besatzungsmitgliedes stattgefunden hat, oder die als Ersatz
+        zugelassene Urkunde,
 
 
     d)  die Bescheinigung über die Ausgabe der Bordbücher,
@@ -1602,8 +1623,9 @@ sein.
         entsprechende Eintragung enthält,
 
 
-    i)  die Bescheinigung über Einbau und Funktion von Radaranlage und
-        Wendeanzeiger,
+    i)  die nach § 7.06 Nummer 1 der jeweils geltenden Fassung der
+        Rheinschiffsuntersuchungsordnung erforderliche Bescheinigung über
+        Einbau und Funktion von Radaranlagen und Wendeanzeiger,
 
 
     k)  ein Sprechfunkzeugnis für die Bedienung von Schiffsfunkstellen gemäß
@@ -1636,8 +1658,8 @@ sein.
     s)  eine Prüfbescheinigung über Krane,
 
 
-    t)  die nach ADNR Nr. 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen
-        Urkunden,
+    t)  die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3
+        erforderlichen Urkunden,
 
 
     u)  bei Containerbeförderung die von einer Schiffsuntersuchungskommission
@@ -1652,44 +1674,73 @@ sein.
         auf der das Baustellenfahrzeug eingesetzt werden darf,
 
 
-    w)  der Ausweis über das Kennzeichen für Kleinfahrzeuge.
+    w)  der Ausweis über das Kennzeichen für Kleinfahrzeuge,
+
+
+    x)  die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung oder
+        anderen gleichwertigen Vor schriften der Moseluferstaaten
+        erforderlichen Kopien des Typgenehmigungsbogens und des
+        Motorparameterprotokolls eines jeden Motors,
+
+
+    y)  die Bescheinigung für die nach § 10.02 Nummer 2 Buchstabe a der
+        Rheinschiffsuntersuchungsordnung vorgeschriebenen Drahtseile,
+
+
+    z)  der für Fahrzeuge mit einer Länge über 110,00 m, ausgenommen
+        Fahrgastschiffe, in § 22a.05 Nummer 2 Buchstabe b des Anhangs II zur
+        Rheinschiffsuntersuchungsordnung geforderte Nachweis einer anerkannten
+        Klassifikationsgesellschaft über die Schwimmfähigkeit, die Trimmlage
+        und die Stabilität der getrennten Schiffsteile, der auch eine Aussage
+        darüber enthalten muss, ab welchem Beladungszustand die
+        Schwimmfähigkeit der beiden Teile nicht mehr gegeben ist,
+
+
+    aa) die von den für den jeweiligen Stromabschnitt zuständigen Behörden
+        erteilten und am 31. Dezember 2009 gültigen Sondererlaubnisse für
+        Fahrzeuge über 110,00 m bis 135,00 m Länge, die nicht die Bedingungen
+        des § 8.01 Nummer 2 oder Nummer 3 erfüllen, sowie die Sondererlaubnis
+        nach § 8.01 Nummer 5.
 
 
 
 
 
-2.  Die Schiffspapiere nach Nummer 1 Buchstabe a und f müssen jedoch nicht
-    mitgeführt werden auf Schubleichtern, auf denen eine Metalltafel nach
-    folgendem Muster angebracht ist:
+2.  Die Schiffspapiere nach Nummer 1 Buchstabe a, e und f müssen jedoch
+    nicht mitgeführt werden auf Schubleichtern, auf denen eine Metalltafel
+    nach folgendem Muster angebracht ist:
+
+    *        *   EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER: ..........
+            SCHIFFSATTEST, GEMEINSCHAFTSZEUGNIS (oder die als Ersatz zugelassene
+            Urkunde):
+            – Nummer: ..........
+            – SUK (oder Behörde, die die als Ersatz zugelassene Urkunde
+            ausgestellt hat): ..........
+            – Gültig bis: ..........
 
 
 
-----------------------------------------------------------------------
-I  AMTLICHE SCHIFFSNUMMER: ......................................... I
-I  SCHIFFSATTEST (oder die als Ersatz zugelassene Urkunde):          I
-I  - Nummer:                                                         I
-I  - SUK (bzw. die Behörde, die die als Ersatz zugelassene Urkunde   I
-I    ausgestellt hat):                                               I
-I  - Gültig bis: ................................................... I
-----------------------------------------------------------------------
+    Sofern der Schubleichter über eine amtliche Schiffsnummer verfügt, ist
+    dieser Begriff auf der Metalltafel anzubringen und die amtliche
+    Schiffsnummer des Schubleichters anzugeben. Die geforderten Angaben
+    müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6
+    mm Höhe eingeschlagen oder eingekörnt sein. Die Metalltafel muss
+    mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und
+    dauerhaft auf der hinteren Steuerbordseite des Schubleichters
+    befestigt sein. Die Übereinstimmung der Angaben auf der Metalltafel
+    mit denen im Schiffsattest oder Gemeinschaftszeugnis des
+    Schubleichters oder der als Ersatz zugelassenen Urkunde muss von einer
+    Schiffsuntersuchungskommission oder durch die Behörde, die die als
+    Ersatz zugelassene Urkunde ausgestellt hat, dadurch bestätigt sein,
+    dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die
+    Schiffspapiere nach Nummer 1 Buchstabe a, e und f muss der Eigentümer
+    des Schubleichters aufbewahren. Auf die Mitführung der Schiffspapiere
+    nach Nummer 1 Buchstabe x kann verzichtet werden, wenn zusätzlich die
+    Typgenehmigungsnummer nach Anlage J Teil I Nummer 1.1.3 der
+    Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen
+    Vorschriften der Moseluferstaaten auf der Metalltafel angebracht ist.
 
-*   Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren
-    Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt
-    sein.
 
-    Die Metalltafel muß mindestens 60 mm hoch und 120 mm lang sein. Sie
-    muß gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des
-    Schubleichters befestigt sein.
-
-    Die Übereinstimmung der Angaben auf der Metalltafel mit denen im
-    Schiffsattest des Schubleichters bzw. der als Ersatz zugelassenen
-    Urkunde muß von einer Schiffsuntersuchungskommission bzw. durch die
-    Behörde, die die als Ersatz zugelassene Urkunde ausgestellt hat,
-    dadurch bestätigt sein, daß ihr Zeichen auf der Metalltafel
-    eingeschlagen ist.
-
-    Die Schiffspapiere nach Nummer 1 Buchstabe a und f muß der Eigentümer
-    des Schubleichters aufbewahren.
 
 
 3.  Auf Baustellenfahrzeugen nach der Rheinschiffsuntersuchungsordnung,
@@ -1750,8 +1801,9 @@ nach § 1.22 Nr. 3, befinden.
 
 
 1.  Es ist verboten, Schiffahrtszeichen (z.B. Tonnen, Schwimmstangen,
-    Baken) zum Festmachen oder Verholen von Fahrzeugen zu benutzen, sie zu
-    beschädigen oder unbrauchbar zu machen.
+    Baken, Wahrschauflöße mit Schifffahrtszeichen) zum Festmachen oder
+    Verholen von Fahrzeugen zu benutzen, sie zu beschädigen oder
+    unbrauchbar zu machen.
 
 
 2.  Hat ein Fahrzeug oder Schwimmkörper ein Schiffahrtszeichen von seinem
@@ -1878,7 +1930,8 @@ nächsten zuständigen Behörde mitteilen.
 
 Der Schiffsführer hat die Anweisungen zu befolgen, die ihm von den
 Bediensteten der zuständigen Behörden für die Sicherheit und
-Leichtigkeit der Schiffahrt erteilt werden.
+Leichtigkeit der Schiffahrt erteilt werden. Dies gilt auch im Falle
+der grenzüberschreitenden Nacheile
 
 
 #### § 1.20 Überwachung
@@ -1998,6 +2051,12 @@ Beachtung dieser Verordnung befreit, sofern die Sicherheit der
 Schiffahrt nicht beeinträchtigt wird.
 
 
+#### § 1.27 Anordnungen, Erlaubnisse und Genehmigungen
+
+Anordnungen, Erlaubnisse und Genehmigungen können von der zuständigen
+Behörde mit Auflagen und Bedingungen versehen werden.
+
+
 ### Kapitel 2 - Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
 
 
@@ -2032,19 +2091,27 @@ Schiffahrt nicht beeinträchtigt wird.
         liegt;
 
 
-    c)  seine amtliche Schiffsnummer, die aus sieben arabischen Ziffern
+    c)  seine einheitliche europäische Schiffsnummer, die aus acht arabischen
+        Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des
+        Landes und der Ausgabestelle dieser einheitlichen europäischen
+        Schiffsnummer. Diese Kennzeichnung ist nur für die Fahrzeuge
+        verbindlich, denen eine einheitliche europäische Schiffsnummer erteilt
+        wurde;
+
+
+    d)  seine amtliche Schiffsnummer, die aus sieben arabischen Ziffern
         besteht, denen gegebenenfalls ein Kleinbuchstabe folgt. Die beiden
         ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle
         dieser amtlichen Schiffsnummer. Diese Kennzeichnung ist nur für die
-        Fahrzeuge verbindlich, deren Heimat- oder Registerort in einem der
-        Rhein- oder Moseluferstaaten oder in Belgien liegt, jedoch nicht für
-        schwimmende Geräte, Fähren, Sport- und Vergnügungsboote und
-        Fahrgastschiffe sowie Fahrzeuge der Überwachungsbehörden und
-        Feuerlöschboote. Die amtliche Schiffsnummer ist nach den unter
-        Buchstabe a aufgeführten Bedingungen anzubringen.
+        Fahrzeuge verbindlich, denen eine amtliche Schiffsnummer erteilt
+        wurde, die noch nicht in eine einheitliche europäische Schiffsnummer
+        umgewandelt wurde.
 
 
 
+    Die einheitliche europäische Schiffsnummer und die amtliche
+    Schiffsnummer sind nach den unter Satz 1 Buchstabe a aufgeführten
+    Bedingungen anzubringen.
 
 
 2.  Darüber hinaus muß - mit Ausnahme der Kleinfahrzeuge und der
@@ -2066,16 +2133,17 @@ Schiffahrt nicht beeinträchtigt wird.
 
 3.  Die Kennzeichen nach den Nummern 1 und 2 sind in gut lesbaren und
     dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der
-    Schriftzeichen muß beim Namen und der amtlichen Schiffsnummer
-    mindestens 20 cm, bei den anderen Zeichen mindestens 15 cm betragen.
-    Die Breite der Schriftzeichen und die Stärke der Striche müssen der
-    Höhe entsprechen. Die Schriftzeichen müssen in heller Farbe auf
-    dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein.
+    Schriftzeichen muß beim Namen, der einheitlichen europäischen
+    Schiffsnummer und der amtlichen Schiffsnummer mindestens 20 cm, bei
+    den anderen Zeichen mindestens 15 cm betragen. Die Breite der
+    Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen.
+    Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in
+    dunkler Farbe auf hellem Grund angebracht sein.
 
 
-4.  Die Kennzeichnung nach Nummer 1 bis 3 kann für Kanalpenichen durch die
-    auf den französischen Kanälen und der Saar vorgeschriebenen oder
-    zugelassenen Kennzeichen ersetzt werden.
+4.  Die Kennzeichnung nach Nummer 1 bis 3 kann für Kanalpenichen (péniches
+    Freycinet) durch die auf den französischen Kanälen und der Saar
+    vorgeschriebenen oder zugelassenen Kennzeichen ersetzt werden.
 
 
 
@@ -2136,19 +2204,20 @@ Kleinfahrzeuge, muß geeicht sein.
     Einsenkungsmarken. Die Einzelheiten über die Festsetzung der größten
     Einsenkung und die Grundsätze für die Anbringung der Einsenkungsmarken
     sind in der Rheinschiffsuntersuchungsordnung oder in anderen
-    gleichwertigen Vorschriften enthalten.
+    gleichwertigen Vorschriften der Moseluferstaaten enthalten.
 
-    Bei Kanalpenichen können die Einsenkungsmarken auf jeder Seite durch
-    mindestens eine Eichplatte oder eine Eichmarke, die nach dem
-    Übereinkommen über die Eichung der Binnenschiffe angebracht sind,
-    ersetzt werden.
+    Bei Kanalpenichen (péniches Freycinet) können die Einsenkungsmarken
+    auf jeder Seite durch mindestens eine Eichplatte oder eine Eichmarke,
+    die nach dem Übereinkommen über die Eichung der Binnenschiffe
+    angebracht sind, ersetzt werden.
 
 
 2.  An allen Fahrzeugen, deren Tiefgang 1 m erreichen kann - mit Ausnahme
-    der Kleinfahrzeuge und Kanalpenichen - müssen Tiefgangsanzeiger
-    angebracht sein. Ihr Nullpunkt muß in der waagerechten Ebene durch den
-    tiefsten Punkt des Schiffskörpers - oder, wenn ein Kiel vorhanden ist,
-    durch dessen tiefsten Punkt - an ihrer Anbringungsstelle liegen.
+    der Kleinfahrzeuge und Kanalpenichen (péniches Freycinet) - müssen
+    Tiefgangsanzeiger angebracht sein. Ihr Nullpunkt muß in der
+    waagerechten Ebene durch den tiefsten Punkt des Schiffskörpers - oder,
+    wenn ein Kiel vorhanden ist, durch dessen tiefsten Punkt - an ihrer
+    Anbringungsstelle liegen.
 
 
 
@@ -2257,10 +2326,11 @@ Begriffsbestimmungen und Anwendungen
 
 2.  Es dürfen nur Signalleuchten verwendet werden,
 
-    a)  deren Gehäuse, Zubehör und Lichtquellen das Zulassungskennzeichen
-        tragen, das in den Vorschriften über die Farbe und Lichtstärke der
-        Bordlichter sowie die Zulassung von Signalleuchten in der
-        Rheinschiffahrt vorgeschrieben ist und
+    a)  deren Gehäuse und Zubehör das Zulassungskennzeichen tragen, das nach
+        der Richtlinie 96/98/EG des Rates vom 20. Dezember 1996 über
+        Schiffsausrüstung (ABl. L 46 vom 17.2.1997, S. 25), die zuletzt durch
+        die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14)
+        geändert worden ist, vorgeschrieben ist, und
 
 
     b)  deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den
@@ -2268,11 +2338,20 @@ Begriffsbestimmungen und Anwendungen
 
 
 
+    Signalleuchten, deren Gehäuse, Zubehör und Lichtquellen den
+    Anforderungen der am 30. November 2009 geltenden
+    Rheinschifffahrtspolizeiverordnung oder der Richtlinie 2006/87/EG des
+    Europäischen Parlaments und des Rates vom 12. Dezember 2006 über die
+    technischen Vorschriften für Binnenschiffe und zur Aufhebung der
+    Richtlinie 82/714/EWG des Rates (ABl. L 389 vom 30.12.2006, S. 1), die
+    zuletzt durch die Richtlinie 2009/46/EG (ABl. L 109 vom 30.4.2009, S.
+    14) geändert worden ist, entsprechen, dürfen weiterhin verwendet
+    werden.
 
 
 3.  Die Nachtbezeichnung stilliegender nicht motorisierter Fahrzeuge
     braucht nicht Nummer 2 zu entsprechen; sie muß jedoch bei klarer Sicht
-    und dunklem Hintergrund eine Tragweite von etwa 1.000,00 m haben.
+    und dunklem Hintergrund eine Tragweite von etwa 1 000,00 m haben.
 
 
 
@@ -2903,7 +2982,7 @@ Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
 Bezeichnung der Kleinfahrzeuge in Fahrt
 
-###### § 3.13 (Anlage 3  Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
+###### § 3.13 (Anlage 3 Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
 
 
 1.  Einzeln fahrende Kleinfahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -2938,8 +3017,8 @@ Bezeichnung der Kleinfahrzeuge in Fahrt
 
 
     e)  die Seitenlichter nach Buchstabe b; diese Lichter können jedoch
-        unmittelbar nebeneinander oder in einer einzigen Laterne am oder nahe
-        am Bug in der Schiffsachse gesetzt sein;
+        unmittelbar nebeneinander oder in einer einzigen Laterne in der
+        Schiffsachse gesetzt sein;
 
         ... nicht darstellbares Bild 19
 
@@ -3010,13 +3089,13 @@ Bezeichnung der Kleinfahrzeuge in Fahrt
 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung
 bestimmter gefährlicher Güter
 
-###### § 3.14 (Anlage 3  Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+###### § 3.14 (Anlage 3 Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
 
-1.  Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADNR
+1.  Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADN
     befördern, müssen außer der anderen nach dieser Verordnung
-    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
-    7\.1.5.0 oder 7.2.5.0 führen:
+    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADN Nr. 7.1.5.0
+    oder 7.2.5.0 führen:
 
     -   bei Nacht:
 
@@ -3031,16 +3110,16 @@ bestimmter gefährlicher Güter
 
 
     Dieses Zeichen muss an einer geeigneten Stelle und so hoch geführt
-    werden, dass sie von allen Seiten sichtbar ist; anstelle des blauen
+    werden, dass es von allen Seiten sichtbar ist; anstelle des blauen
     Kegels kann auch je ein blauer Kegel auf dem Vor- und Hinterschiff in
-    einer Höhe von mindestens 3 m über der Ebene der Einsenkungsmarken
+    einer Höhe von mindestens 3,00 m über der Ebene der Einsenkungsmarken
     geführt werden.
 
 
 2.  Fahrzeuge in Fahrt, die bestimmte gesundheitsschädliche Stoffe nach
-    ADNR befördern, müssen außer der anderen nach dieser Verordnung
-    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
-    7\.1.5.0 oder 7.2.5.0 führen:
+    ADN befördern, müssen außer der anderen nach dieser Verordnung
+    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADN
+    Unterabschnitt 7.1.5.0 oder 7.2.5.0 führen:
 
     -   bei Nacht:
 
@@ -3054,18 +3133,18 @@ bestimmter gefährlicher Güter
 
 
 
-    Diese Zeichen müssen übereinander in einem Abstand von etwa 1 m an
+    Diese Zeichen müssen übereinander in einem Abstand von etwa 1,00 m an
     einer geeigneten Stelle und so hoch geführt werden, dass sie von allen
-    Seiten sichtbar sind; anstelle der zwei blauen Kegel können auch je 2
-    blaue Kegel auf dem Vor- und Hinterschiff, von denen der untere in
-    einer Höhe von mindestens 3 m über der Ebene der Einsenkungsmarken
-    angebracht ist, geführt werden.
+    Seiten sichtbar sind; anstelle der zwei blauen Kegel können auch je
+    zwei blaue Kegel auf dem Vor- und Hinterschiff, von denen der untere
+    in einer Höhe von mindestens 3,00 m über der Ebene der
+    Einsenkungsmarken angebracht ist, geführt werden.
 
 
-3.  Fahrzeuge in Fahrt, die bestimmte explosive Stoffe nach ADNR
-    befördern, müssen außer der anderen nach dieser Verordnung
-    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
-    7\.1.5.0 oder 7.2.5.0 führen:
+3.  Fahrzeuge in Fahrt, die bestimmte explosive Stoffe nach ADN befördern,
+    müssen außer der anderen nach dieser Verordnung vorgeschriebenen
+    Bezeichnung folgende Bezeichnung nach ADN Unterabschnitt 7.1.5.0 oder
+    7\.2.5.0 führen:
 
     -   bei Nacht:
 
@@ -3079,9 +3158,9 @@ bestimmter gefährlicher Güter
 
 
 
-    Diese Zeichen müssen übereinander in einem Abstand von jeweils etwa 1
-    m an einer geeigneten Stelle und so hoch geführt werden, dass sie von
-    allen Seiten sichtbar sind.
+    Diese Zeichen müssen übereinander in einem Abstand von jeweils etwa
+    1,00 m an einer geeigneten Stelle und so hoch geführt werden, dass sie
+    von allen Seiten sichtbar sind.
 
 
 4.  Fährt oder fahren in einem Schubverband oder in einer Zusammenstellung
@@ -3109,8 +3188,8 @@ bestimmter gefährlicher Güter
 
 
 7.  Fahrzeuge, die keine Bezeichnung nach Nummer 1, 2 oder 3 führen
-    müssen, jedoch nach ADNR Nr. 8.1.8 ein Zulassungszeugnis besitzen und
-    die Sicherheitsbestimmungen einhalten, die für ein Fahrzeug nach
+    müssen, jedoch nach ADN Abschnitt 8.1.8 ein Zulassungszeugnis besitzen
+    und die Sicherheitsbestimmungen einhalten, die für ein Fahrzeug nach
     Nummer 1 gelten, können bei der Annäherung an Schleusen die
     Bezeichnung nach Nummer 1 führen, wenn sie zusammen mit einem Fahrzeug
     geschleust werden wollen, das die Bezeichnung nach Nummer 1 führen
@@ -3322,11 +3401,13 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 31
 
 Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
-###### § 3.22 (Anlage 3  Bild 45, 46)
+###### § 3.22 (Anlage 3 Bild 45, 46)
 
 
 1.  Nicht frei fahrende Fähren müssen bei Nacht beim Stilliegen an ihrer
-    Anlegestelle die Lichter nach § 3.16 Nr. 1 führen.
+    Anlegestelle die Lichter nach § 3.16 Nr. 1 führen. Außerdem muss bei
+    Gierfähren am Längsseil bei Nacht der oberste Buchtnachen oder Döpper
+    das Licht nach § 3.16 Nummer 2 führen.
 
     ... nicht darstellbares Bild 45
 
@@ -3349,13 +3430,18 @@ Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen
 
-###### § 3.23 (Anlage 3  Bild 47)
+###### § 3.23 (Anlage 3 Bild 47)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen beim
 Stilliegen bei Nacht führen:
 von allen Seiten sichtbare weiße gewöhnliche Lichter in genügender
-Zahl, um ihre Umrisse zur Fahrwasserseite hin kenntlich zu machen.
+Zahl, um ihre Umrisse zur Fahrwasserseite hin kenntlich zu machen. Die
+in Satz 1 vorgeschriebenen Lichter brauchen nicht geführt zu werden,
+wenn die Voraussetzungen des § 3.20 Nummer 3 Buchstabe b oder
+Buchstabe c erfüllt sind oder wenn die Schwimmkörper und schwimmenden
+Anlagen außerhalb der Fahrrinne an offensichtlich sicherer Stelle
+stillliegen.
 ... nicht darstellbares Bild 47
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 32
 
@@ -3584,11 +3670,13 @@ Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
 Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
-##### § 3.27 (Anlage 3  Bild 56)
+##### § 3.27 (Anlage 3 Bild 56)
 
 Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein
 blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch
-für Feuerlöschboote, wenn sie zur Hilfeleistung eingesetzt werden.
+für Feuerlöschboote, wenn sie zur Hilfeleistung eingesetzt werden, und
+für Wasserrettungsfahrzeuge im Rettungseinsatz mit allgemeiner
+Erlaubnis der zuständigen Behörde.
 ... nicht darstellbare 2 Bilder 56
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 36
 
@@ -3971,15 +4059,15 @@ Schallzeichen
 
 1.  Fahrzeuge dürfen nur dann Radar benutzen, wenn
 
-    a)  sie mit einem für die Binnenschifffahrt geeigneten Radargerät und
-        einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs
-        ausgerüstet sind. Das gilt auch für Inland ECDIS Geräte, die unter
-        Verwendung von Inland ECDIS beim Steuern des Fahrzeugs mit
-        überlagertem Radarbild betrieben werden können (Navigationsmodus). Die
-        Geräte müssen in gutem Betriebszustand sein und einem von der
-        zuständigen Behörde eines Rheinuferstaates oder Belgiens für den Rhein
-        zugelassenen Baumuster entsprechen. Nicht frei fahrende Fähren
-        brauchen jedoch nicht mit einem Gerät zur Anzeige der
+    a)  sie mit einem Radargerät und einem Gerät zur Anzeige der
+        Wendegeschwindigkeit des Fahrzeugs nach § 7.06 Nummer 1
+        Rheinschiffsuntersuchungsordnung ausgerüstet sind. Das gilt auch für
+        Inland ECDIS Geräte, die unter Verwendung von Inland ECDIS beim
+        Steuern des Fahrzeugs mit überlagertem Radarbild betrieben werden
+        können (Navigationsmodus). Die Geräte müssen in gutem Betriebszustand
+        sein und einem von der zuständigen Behörde eines Rheinuferstaates oder
+        Belgiens für den Rhein zugelassenen Baumuster entsprechen. Nicht frei
+        fahrende Fähren brauchen jedoch nicht mit einem Gerät zur Anzeige der
         Wendegeschwindigkeit ausgerüstet zu sein;
 
 
@@ -4342,8 +4430,14 @@ Begegnen  Grundregeln
 ##### § 6.08 Durch Schiffahrtszeichen verbotenes Begegnen
 
 
-1.  Bei der Annäherung an Strecken, die durch das Tafelzeichen A.4 (Anlage
-    7) gekennzeichnet sind, gilt § 6.07.
+1.  Auf Strecken, deren Grenzen durch das Tafelzeichen A.4 (Anlage 7)
+    gekennzeichnet sind, ist das Begegnen und Überholen verboten.
+    (Fundstelle: BGBl. II 2011, 1326)
+    ![bgbl2_2011_j1326_0010.jpg](bgbl2_2011_j1326_0010.jpg)    Das Verbot nach Satz 1 kann auf Fahrzeuge und Verbände ab einer
+    bestimmten Länge oder Breite beschränkt werden; in diesem Fall werden
+    die Länge oder Breite auf einer rechteckigen weißen zusätzlichen Tafel
+    angegeben, die unterhalb des Tafelzeichens A.4 angebracht ist. Im
+    Übrigen gelten die Regelungen des § 6.07 Nummer 1 entsprechend.
 
     ... nicht darstellbares Tafelzeichen A.4
 
@@ -4869,7 +4963,15 @@ zeigen.
         frei bleibt;
 
 
-    b)  die Fähre darf sich nicht länger im Fahrwasser aufhalten, als der
+    b)  Fähren mit Längsseil, die so verankert sind, dass sie das Fahrwasser
+        sperren können, dürfen auf der Fahrwasserseite, die der Verankerung
+        des Seils gegenüberliegt, nur so lange liegen, wie dies zum Ein- und
+        Ausladen unbedingt erforderlich ist; während dieser Zeit können näher
+        kommende Fahrzeuge von der Fähre das Freimachen des Fahrwassers
+        verlangen, indem sie rechtzeitig „einen langen Ton“ geben;
+
+
+    c)  die Fähre darf sich nicht länger im Fahrwasser aufhalten, als der
         Betrieb es erfordert.
 
 
@@ -5129,8 +5231,20 @@ Das Durchfahren der Wehre ist verboten.
     genannten Fahrzeuge.
 
 
-10. Fahrzeuge und Verbände, die eine Bezeichnung nach § 3.14 Nr. 2 oder 3
-    führen, werden allein geschleust.
+10. Fahrzeuge und Verbände, die eine Bezeichnung nach § 3.14 Nummer 2 oder
+    Nummer 3 führen, werden allein geschleust. Davon ausgenommen sind
+    Trockengüterschiffe nach ADN, die ausschließlich Container,
+    Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren
+    Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach ADN
+    Unterabschnitt 7.1.1.18 befördern und die Bezeichnung nach § 3.14
+    Nummer 2 führen. Diese können zusammen oder mit Trockengüterschiffen,
+    die ausschließlich Container, Großpackmittel (IBC), Großverpackungen,
+    Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und
+    ortsbewegliche Tanks nach ADN Unterabschnitt 7.1.1.18 befördern und
+    die Bezeichnung nach § 3.14 Nummer 1 führen, oder mit den in § 3.14
+    Nummer 7 genannten Fahrzeugen geschleust werden. Zwischen Bug und Heck
+    der gemeinsam geschleusten Fahrzeuge muss ein Mindestabstand von 10,00
+    m eingehalten werden.
 
 
 11. Fahrzeuge und Verbände, die die Bezeichnung nach § 3.14 Nr. 1 führen,
@@ -5212,7 +5326,7 @@ Das Durchfahren der Wehre ist verboten.
 
 
 
-##### § 6.29 Reihenfolge der Schleusungen
+##### § 6.29 Vorrecht auf Schleusung
 
 
 1.
@@ -5302,17 +5416,22 @@ Das Durchfahren der Wehre ist verboten.
 5.  Das Vorrecht auf Schleusung nach Nummer 2 Buchstabe b gibt dem
     betreffenden Fahrzeug das Recht, vor anderen auf Schleusung wartenden
     Fahrzeugen geschleust zu werden, sofern das Fahrzeug mit Vorrang
-    weniger als 1.500,00 m von der Schleuse entfernt ist, sei es, daß es
+    weniger als 1 500,00 m von der Schleuse entfernt ist, sei es, daß es
     vom Schleusenpersonal gesichtet wird oder daß es seinen Standort durch
     Sprechfunk mitgeteilt hat. In keinem Fall berechtigt es das Fahrzeug,
-    zu einer vorher festgesetzten Uhrzeit geschleust zu werden.
+    zu einer vorher festgesetzten Uhrzeit geschleust zu werden. Das
+    Vorrecht auf Schleusung nach Nummer 2 Buchstabe b gilt nur in dem
+    Zeitraum von 07:00 Uhr bis 20:00 Uhr. Von dieser zeitlichen
+    Einschränkung sind die Fahrzeuge ausgenommen, die unter Nummer 3
+    Buchstabe a und b fallen und eine Sondergenehmigung der zuständigen
+    Behörde haben.
 
 
 6.  Nach jeder Berg- bzw. Talschleusung von Fahrzeugen, die ihr Vorrecht
     geltend gemacht haben, sind jeweils einmal Fahrzeuge ohne Vorrecht in
     derselben Richtung zu schleusen.
 
-    Gegenüber Fahrzeugen und Schubverbänden von mehr als jeweils 1.500 t
+    Gegenüber Fahrzeugen und Schubverbänden von mehr als jeweils 1 500 t
     Tragfähigkeit, die ihre Fahrt nach einem mit der zuständigen Behörde
     abgestimmten Fahrplan durchführen, kann das Vorrecht von den
     Fahrgastschiffen nur einmal bei jeder Schleuse geltend gemacht werden.
@@ -5391,15 +5510,13 @@ Das Durchfahren der Wehre ist verboten.
 ##### § 6.31 Stillliegende Fahrzeuge
 
 
-1.  Fahrzeuge, die in der Fahrrinne oder deren Nähe, außerhalb der Häfen
-    oder der durch die zuständige Behörde bestimmten Liegestellen
-    stillliegen, müssen bei unsichtigem Wetter während des Stillliegens
-    ihre Sprechfunkanlage auf Empfang geschaltet haben. Sobald sie über
-    Sprechfunk vernehmen, dass sich andere Fahrzeuge nähern, oder sobald
-    und solange sie das in § 6.32 Nr. 2 Buchstabe d oder in § 6.33
-    Buchstabe b vorgeschriebene Schallzeichen eines herankommenden
-    Fahrzeugs vernehmen, müssen sie über Sprechfunk ihre Position
-    mitteilen.
+1.  Fahrzeuge, die in der Fahrrinne oder deren Nähe stillliegen, müssen
+    bei unsichtigem Wetter während des Stillliegens ihre Sprechfunkanlage
+    auf Empfang geschaltet haben. Sobald sie über Sprechfunk vernehmen,
+    dass sich andere Fahrzeuge nähern, oder sobald und solange sie das in
+    § 6.32 Nr. 2 Buchstabe d oder in § 6.33 Buchstabe b vorgeschriebene
+    Schallzeichen eines herankommenden Fahrzeugs vernehmen, müssen sie
+    über Sprechfunk ihre Position mitteilen.
 
 
 2.  Fahrzeuge nach Nummer 1, die Sprechfunk nicht benutzen können, müssen,
@@ -5641,7 +5758,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
     m)  in den oberen und unteren Vorhäfen der Schleusen. Das gilt nicht für
         Fahrzeuge, die auf die Schleusung warten. Die Schleusenaufsicht kann
-        jedoch das Stilliegen bei Nacht und unsichtigem Wetter in den unteren
+        jedoch das Stilliegen bei Nacht oder unsichtigem Wetter in den unteren
         Vorhäfen zulassen, sofern die durchgehende Schiffahrt dadurch nicht
         behindert wird.
 
@@ -5724,12 +5841,11 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 2.  Auf den Abschnitten, auf denen das Festmachen am Ufer nach Nummer 1
     Buchstabe a verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie
-    schwimmende Anlagen nur auf den Strecken festmachen, die durch das
-    Tafelzeichen E.7 (Anlage 7) gekennzeichnet sind, und nur auf der Seite
-    der Wasserstraße, auf der das Tafelzeichen steht.
-
-    ... nicht darstellbares Tafelzeichen E.7
-
+    schwimmende Anlagen nur auf den Strecken festmachen, die durch eines
+    der Tafelzeichen E.7 oder E.7.1 (Anlage 7) gekennzeichnet sind, und
+    nur auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+    (Fundstelle: BGBl. II 2011, 1327)
+    ![bgbl2_2011_j1327_0010.jpg](bgbl2_2011_j1327_0010.jpg)
 
 3.  Bäume, Geländer, Pfähle, Grenzsteine, Säulen, Eisenleitern, Handläufe
     und ähnliche Gegenstände dürfen weder zum Festmachen noch zum Verholen
@@ -5830,8 +5946,8 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
         Bezeichnung führen;
 
 
-    b)  für Fahrzeuge, die diese Bezeichnung nicht führen, jedoch nach ADNR
-        Nr. 8.1.8 ein Zulassungszeugnis besitzen und die
+    b)  für Fahrzeuge, die diese Bezeichnung nicht führen, jedoch nach ADN
+        Abschnitt 8.1.8 ein Zulassungszeugnis besitzen und die
         Sicherheitsbestimmungen einhalten, die für ein Fahrzeug nach § 3.14
         Nr. 1 gelten.
 
@@ -5879,27 +5995,130 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 #### § 8.01 Höchstabmessungen der Fahrzeuge und Verbände
 
-Unbeschadet des § 9.04 dürfen Fahrzeuge und Verbände folgende
-Abmessungen nicht überschreiten:
 
-a)  die Breite eines Fahrzeugs darf 11,45 m nicht überschreiten;
+1.  Unbeschadet des § 9.04 dürfen Fahrzeuge und Verbände folgende
+    Abmessungen nicht überschreiten:
 
+    *        *
+        *   Wasserstraßenbereich
 
-b)  die Länge eines Fahrzeugs, dessen Kiel nach dem 31. Dezember 1962
-    gelegt worden ist, darf 110,00 m nicht überschreiten;
+        *   Fahrzeugart
 
+        *   Länge m
 
-c)  die Gesamtlänge eines Schubverbandes darf 172,10 m nicht
-    überschreiten;
-
-
-d)  die Gesamtlänge eines Schleppverbandes darf 250,00 m nicht
-    überschreiten.
+        *   Breite m
 
 
+    *        *   a
 
-Die zuständige Behörde kann in den Fällen des Satzes 1 Buchstabe a und
-b Ausnahmen zulassen oder für die Fahrt eine Sondererlaubnis erteilen.
+        *   Moselmündung bis Metz
+
+        *   Fahrzeug, ausgenommen Fahrgastschiff
+
+        *   135,00
+
+        *   11,45
+
+
+    *        *   b
+
+        *   Moselmündung bis Metz
+
+        *   Schubverband
+
+        *   172,10
+
+        *   11,45
+
+
+    *        *   c
+
+        *   Moselmündung bis Metz
+
+        *   Schleppverband
+
+        *   250,00
+
+        *   11,45
+
+
+    *        *   d
+
+        *   Moselmündung bis Metz
+
+        *   Fahrgastschiff
+
+        *   110,00
+
+        *   11,45
+
+
+    *        *   e
+
+        *   Moselmündung bis zu Mosel-km 200,100
+
+        *   Fahrgastschiff
+
+        *   135,00
+
+        *   11,45
+
+
+
+
+
+2.  Fahrzeuge, ausgenommen Fahrgastschiffe, mit einer Länge über 110,00 m
+    bis 135,00 m dürfen die Mosel nur befahren, wenn sie in Bau,
+    Ausrüstung und Antrieb den Anforderungen des Kapitels 22a,
+    insbesondere § 22a.05 Nummer 1 und 2, der jeweils geltenden Fassung
+    der Rheinschiffsuntersuchungsordnung entsprechen. Sie müssen einen
+    Eintrag im Schiffsattest unter der Nummer 52 haben, dass sie den
+    besonderen Anforderungen nach § 22a.05 Nummer 2 Buchstabe a bis d
+    Rheinschiffsuntersuchungsordnung genügen.
+
+
+3.  Fahrgastschiffe mit einer Länge über 110,00 m bis 135,00 m dürfen die
+    Mosel nur befahren, wenn sie in Bau, Ausrüstung und Antrieb den
+    Anforderungen des Kapitels 15 in Verbindung mit Kapitel 22a,
+    insbesondere § 22a.05 Nummer 1 und 3, der jeweils geltenden Fassung
+    der Rheinschiffsuntersuchungsordnung entsprechen. Sie müssen einen
+    Eintrag im Schiffsattest unter der Nummer 52 haben, dass sie den
+    besonderen Anforderungen nach § 22a.05 Nummer 3 Buchstabe a bis d
+    Rheinschiffsuntersuchungsordnung genügen.
+
+
+4.  Die von den für den jeweiligen Stromabschnitt zuständigen Behörden
+    erteilten und am 31. Dezember 2009 gültigen Sondererlaubnisse für
+    Fahrzeuge über 110,00 m bis 135,00 m Länge, die nicht die Nummer 2
+    oder Nummer 3 dieser Regelung erfüllen, bleiben mit den aus
+    Sicherheitsgründen erteilten notwendigen Auflagen auf dem jeweiligen
+    Stromabschnitt weiterhin gültig.
+
+
+5.  Die zuständige Behörde kann in den Fällen der Nummer 1 Buchstabe a, d
+    und e Ausnahmen im Hinblick auf die Breite zulassen und für die Fahrt
+    eine Sondererlaubnis erteilen.
+
+
+6.  Die erteilten Sondererlaubnisse sind an Bord mitzuführen und auf
+    Verlangen der Wasserschutzpolizei und den Bediensteten der zuständigen
+    Behörde zur Kontrolle auszuhändigen.
+
+
+7.  Bei der Fahrtplanung ist zu beachten, dass in bestimmten Bereichen,
+    insbesondere im Bereich von Mosel-km 205,680 bis Mosel-km 242,200
+    (deutsch-luxemburgische Strecke), keine Wendemöglichkeiten für Schiffe
+    mit einer Länge von 110,00 m bis 135,00 m bestehen.
+
+
+8.  Alle Fahrzeuge mit einer Länge über 110,00 m bis 135,00 m müssen bei
+    der Benutzung von Schifffahrtsanlagen besondere Vorsicht walten lassen
+    und eine gesteigerte nautische Sorgfalt beachten. Der Maschinenantrieb
+    sowie die Bugstrahlanlage sind nicht über das nautisch erforderliche
+    Maß zu benutzen.
+
+
+
 
 
 #### § 8.01a Fahrgeschwindigkeit
@@ -6006,14 +6225,14 @@ mit ihrer Erlaubnis auf kurzen Strecken fortbewegt werden.
 
 
 
-#### § 8.07 Sprechfunk und Sprechverbindung auf Verbänden
+#### § 8.07 Sprechverbindung auf Verbänden sowie Fahrzeugen, deren Länge 110,00 m überschreitet
 
 
 1.  (ohne Inhalt)
 
 
-2.  Schubverbände, deren Länge 110 m überschreitet, müssen mit der
-    Schleuse Funkverbindung auf den Kanälen des Nautischen
+2.  Schubverbände und Fahrzeuge, deren Länge 110 m überschreitet, müssen
+    mit der Schleuse Funkverbindung auf den Kanälen des Nautischen
     Informationsfunkes, die von den zuständigen Behörden bekanntgemacht
     werden, Verbindung aufnehmen, sobald sie in folgende Moselstrecken
     einfahren:
@@ -6096,16 +6315,20 @@ mit ihrer Erlaubnis auf kurzen Strecken fortbewegt werden.
     Schubverbandes vorhanden sein.
 
 
-4.  Bei gekuppelten Fahrzeugen mit Maschinenantrieb muß zwischen den
+4.  Ist ein Fahrzeug länger als 110,00 m, muss eine Sprechverbindung
+    zwischen dem Steuerstand und dem Bug vorhanden sein.
+
+
+5.  Bei gekuppelten Fahrzeugen mit Maschinenantrieb muß zwischen den
     Steuerständen beider Fahrzeuge eine Sprechverbindung in beiden
     Richtungen bestehen.
 
 
-5.  Bei Schleppverbindungen muß zwischen den Steuerständen aller Fahrzeuge
+6.  Bei Schleppverbindungen muß zwischen den Steuerständen aller Fahrzeuge
     eine Sprechverbindung bestehen.
 
 
-6.  Als Sprechverbindung darf nicht der Verkehrskreis Schiff--Schiff
+7.  Als Sprechverbindung darf nicht der Verkehrskreis Schiff--Schiff
     benutzt werden.
 
 
@@ -6224,10 +6447,10 @@ Schutzvorrichtungen gesichert sein.
 
 
 
-#### § 8.11 Sicherheit an Bord von Fahrgastschiffen
+#### § 8.11 Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als 12 Fahrgästen zugelassen sind
 
-Die nachfolgenden Bestimmungen gelten für Fahrgastschiffe, die für die
-Übernachtung zugelassen sind:
+Für Fahrzeuge, die für die Beförderung und Übernachtung von mehr als
+12 Fahrgästen zugelassen sind, gelten:
 
 a)  an Bord muß sich eine Sicherheitsrolle befinden, die die Aufgaben der
     Besatzung und des Personals bei einem Notfall enthält. Weiterhin
@@ -6294,18 +6517,16 @@ Talfahrer dürfen in die Krümmung nur mit Erlaubnis der
 Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
-#### § 9.02 Durchfahrt durch die Schleusen Talange und Metz außerhalb der Betriebszeiten
+#### § 9.02 Durchfahrt durch die Schleuse Metz außerhalb der Betriebszeiten
 
 
 1.  Außerhalb der der Schiffahrt bekanntgegebenen Betriebszeiten ist für
-    die Durchfahrt durch die Schleusen Talange und Metz eine vorherige
-    Anmeldung erforderlich, der stattgegeben wird, sofern nicht
-    außergewöhnliche Betriebsschwierigkeiten dem entgegenstehen. Für eine
-    Schleusung nach Ende der bekanntgegebenen Betriebszeit und vor der
-    Wiederaufnahme des Betriebs am folgenden Tag muß die Anmeldung
-    spätestens um 16.00 Uhr vorliegen. Sie kann gegebenenfalls
-    fernmündlich an jede der außerhalb der Betriebszeit zu durchfahrenden
-    Moselschleusen zwischen Talange und Neuves-Maisons übermittelt werden.
+    die Durchfahrt durch die Schleuse Metz eine vorherige Anmeldung
+    erforderlich, der stattgegeben wird, sofern nicht außergewöhnliche
+    Betriebsschwierigkeiten dem entgegenstehen. Für eine Schleusung nach
+    Ende der bekanntgegebenen Betriebszeit und vor der Wiederaufnahme des
+    Betriebs am folgenden Tag muß die Anmeldung spätestens um 15.00 Uhr
+    vorliegen.Sie muss dem regionalen Meldezentrum übermittelt werden.
 
 
 2.  Bei der Anmeldung sind anzugeben:
@@ -6331,9 +6552,8 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
     benachrichtigen. Wird die Fahrt unterbrochen, so sind die dann nicht
     mehr betroffenen Schleusen unverzüglich zu benachrichtigen.
 
-    Die Anmeldung wird hinfällig, wenn der angegebene Zeitpunkt des
-    Eintreffens in der Schleuse Talange oder Metz um mehr als eine Stunde
-    überschritten wird.
+    Die Anmeldung wird hinfällig, wenn der Zeitpunkt des Eintreffens in
+    der Schleuse Metz um mehr als eine Stunde überschritten wird.
 
 
 
@@ -6428,12 +6648,13 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 #### § 9.05 Meldepflicht
 
 
-1.  Die Schiffsführer von Fahrzeugen und Verbänden, die dem ADNR
-    unterliegen, Tankschiffen, Seeschiffen und Sondertransporten nach §
-    1\.21 müssen sich vor der Einfahrt in die Moselstrecke zwischen der
-    Schleuse Metz (km 296,88) und der Mündung in den Rhein oder bei
-    Antritt der Fahrt innerhalb dieser Strecke auf dem von der zuständigen
-    Behörde bekannt gegebenen Kanal melden und folgende Angaben machen:
+1.  Die Schiffsführer von Fahrzeugen und Verbänden, die dem ADN
+    unterliegen, Tankschiffen, Kabinenschiffe, Seeschiffen und
+    Sondertransporten nach § 1.21 müssen sich vor der Einfahrt in die
+    Moselstrecke zwischen der Schleuse Metz (km 296,88) und der Mündung in
+    den Rhein oder bei Antritt der Fahrt innerhalb dieser Strecke auf dem
+    von der zuständigen Behörde bekannt gegebenen Kanal melden und
+    folgende Angaben machen:
 
     a)  Schiffsgattung;
 
@@ -6444,7 +6665,8 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
     c)  Standort, Fahrtrichtung;
 
 
-    d)  Amtliche Schiffsnummer; bei Seeschiffen IMO-Nummer;
+    d)  einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer,
+        bei Seeschiffen IMO-Nummer;
 
 
     e)  Tragfähigkeit;
@@ -6468,7 +6690,7 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
     k)  Entladehafen;
 
 
-    l)  bei Gefahrgütern nach ADNR:
+    l)  bei Gefahrgütern nach ADN:
 
         *   die UN-Nummer oder Stoffnummer,
 
@@ -6559,6 +6781,10 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
     in der jeweiligen Fahrtrichtung vor den Schleusen innerhalb der
     Moselstrecke nach Nummer 2 sind mit dem Tafelzeichen B.11 (Anlage 7)
     und einer Zusatztafel "Meldepflicht" gekennzeichnet.
+
+
+8.  Die zuständige Behörde kann für Tagesausflugsschiffe eine Meldepflicht
+    und deren Umfang festlegen.
 
 
 
@@ -6918,7 +7144,7 @@ Im Sinne dieses Kapitels bedeuten:
 3.  Ladungsbereich
 
     a)  "Restladung": flüssig Ladung, die nach dem Löschen ohne Einsatz eines
-        Nachlenzsystems nach ADNR als Rückstand im Ladetank und im
+        Nachlenzsystems nach ADN als Rückstand im Ladetank und im
         Leitungssystem verbleibt sowie Trockenladung, die nach dem Löschen
         ohne den Einsatz von Besen, Kehrmaschinen oder Vakuumreiniger als
         Rückstand im Laderaum verbleibt. Verpackungs- und Stauhilfsmittel sind
@@ -6926,7 +7152,7 @@ Im Sinne dieses Kapitels bedeuten:
 
 
     b)  "Ladungsrückstände": flüssige Ladung, die nicht durch das
-        Nachlenzsystem nach ADNR aus dem Ladetank und dem Leitungssystem
+        Nachlenzsystem nach ADN aus dem Ladetank und dem Leitungssystem
         entfernt werden kann sowie trockene Ladung, die nicht durch den
         Einsatz von Kehrmaschinen oder Besen aus dem Laderaum entfernt werden
         kann.
@@ -6947,7 +7173,7 @@ Im Sinne dieses Kapitels bedeuten:
 
 
     f)  "Feingelenzter Ladetank": ein Ladetank, aus dem die Restladung
-        entfernt worden ist (z.B. durch das Nachlenzsystem nach ADNR), und der
+        entfernt worden ist (z.B. durch das Nachlenzsystem nach ADN), und der
         nur noch Ladungsrückstände enthält.
 
 
@@ -7087,10 +7313,15 @@ halten.
 
 
     b)  bei separater Befüllung der Tanks die Absperrventile innerhalb der
-        Tankverbindungsrohrleitungen geschlossen sind und
+        Tankverbindungsrohrleitungen geschlossen sind,
 
 
     c)  der Bunkervorgang überwacht wird.
+
+
+    d)  eine der Einrichtungen nach § 8.05 Nummer 10
+        Rheinschiffsuntersuchungsordnung oder einer gleichwertigen Vorschrift
+        der Moseluferstaaten genutzt wird.
 
 
 
@@ -7100,8 +7331,10 @@ halten.
     Bunkervorgang verantwortlichen Personen der Bunkerstelle und des
     Fahrzeugs vor Beginn des Bunkervorgangs Folgendes festgelegt haben:
 
-    a)  die Sicherstellung einer Sprechverbindung zwischen Schiff und
-        Bunkerstelle,
+    a)  Die Sicherstellung der Funktionsfähigkeit des Systems nach § 8.05
+        Nummer 11 Rheinschiffsuntersuchungsordnung oder einer gleichwertigen
+        Vorschrift der Moseluferstaaten und einer Sprechverbindung zwischen
+        Schiff und Bunkerstelle,
 
 
     b)  die zu bunkernde Menge je Tank und die Einfüllleistung, insbesondere
@@ -7145,7 +7378,7 @@ mit Mitteln zu reinigen, die nicht in das Gewässer gelangen dürfen.
 
 #### Anlage 1
 
-Fundstelle des Originaltextes: BGBl. II 1999, 484 - 485
+(Fundstelle des Originaltextes: BGBl. II 2011, 1329)
 
 *    *   Unterscheidungsbuchstabe oder -buchstabengruppe des Landes, in welchem
         der Heimat- oder Registerort der Fahrzeuge liegt
@@ -7168,6 +7401,11 @@ Fundstelle des Originaltextes: BGBl. II 1999, 484 - 485
 *    *   BG
 
     *   : Bulgarien
+
+
+*    *   BIH
+
+    *   : Bosnien und Herzegowina
 
 
 *    *   BY
@@ -7220,9 +7458,19 @@ Fundstelle des Originaltextes: BGBl. II 1999, 484 - 485
     *   : Luxemburg
 
 
+*    *   LT
+
+    *   : Litauen
+
+
 *    *   MD
 
-    *   : Republik Moldavien
+    *   : Republik Moldau
+
+
+*    *   MLT
+
+    *   Malta
 
 
 *    *   N
@@ -7260,6 +7508,16 @@ Fundstelle des Originaltextes: BGBl. II 1999, 484 - 485
     *   : Schweden
 
 
+*    *   SI
+
+    *   : Slowenien
+
+
+*    *   SRB
+
+    *   : Serbien
+
+
 *    *   SK
 
     *   : Slowakei
@@ -7268,11 +7526,6 @@ Fundstelle des Originaltextes: BGBl. II 1999, 484 - 485
 *    *   UA
 
     *   : Ukraine
-
-
-*    *   YU
-
-    *   : Jugoslawien
 
 
 
@@ -7419,7 +7672,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *
     § 3.09 Schleppen
 
-        Nr. 3 und 4: Das Fahrzeug als letzte Anhanglänge des Schleppverbandes
+        Nr. 4: Das Fahrzeug als letzte Anhanglänge des Schleppverbandes
 
 
 
@@ -7431,8 +7684,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *
     § 3.09 Schleppen
 
-        Nr. 3 und 4: Mehrere Fahrzeuge als letzte Anhanglänge des
-        Schleppverbandes
+        Nr. 4: Mehrere Fahrzeuge als letzte Anhanglänge des Schleppverbandes
 
 
 
@@ -7645,7 +7897,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *
     § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
 
-        Nr. 1: Bestimmte entzündbare Stoffe nach ADNR
+        Nr. 1: Bestimmte entzündbare Stoffe nach ADN
 
 
 
@@ -7658,7 +7910,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *
     § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
 
-        Nr. 2: Bestimmte gesundheitsschädliche Stoffe nach ADNR
+        Nr. 2: Bestimmte gesundheitsschädliche Stoffe nach ADN
 
 
 
@@ -7670,7 +7922,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *
     § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
 
-        Nr. 3: Bestimmte explosive Stoffe nach ADNR
+        Nr. 3: Bestimmte explosive Stoffe nach ADN
 
 
 
@@ -8842,8 +9094,8 @@ C. Zeichen für Einschränkungen
         ... nicht darstellbares Tafelzeichen
 
 
-    C.4 Es bestehen Beschränkungen; sie sind auf einer zusätzlichen Tafel
-        unter dem Schifffahrtszeichen angegeben.
+    C.4 Es bestehen Schifffahrtsbeschränkungen; sie sind auf einer
+        zusätzlichen Tafel unter dem Schifffahrtszeichen angegeben.
 
         ... nicht darstellbares Tafelzeichen
 
@@ -9085,6 +9337,11 @@ E. Hinweiszeichen
         (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 109)
 
 
+    E.7.1 Erlaubnis zum Festmachen am Ufer für das sofortige Ein- oder Ausladen
+        eines Kraftwagens (§ 7.04 Nr. 2)
+        (Fundstelle: BGBl. II 2011, 1330)
+        ![bgbl2_2011_j1330_0010.jpg](bgbl2_2011_j1330_0010.jpg)
+
     E.8 Hinweis auf eine Wendestelle.
 
         (§§ 6.13 und 7.02 Nr. 1 Buchstabe i)
@@ -9211,6 +9468,13 @@ E.10
         Farbe auf hellem Untergrund angebracht.
 
 
+    E.24 (ohne Inhalt)
+
+
+    E.25 Landstromanschluss vorhanden
+        (Fundstelle: BGBl. II 2011, 1330)
+        ![bgbl2_2011_j1330_0020.jpg](bgbl2_2011_j1330_0020.jpg)
+
 
 
 
@@ -9258,7 +9522,8 @@ Schilder, Pfeile oder Aufschriften ergänzt werden.
 3.  Schilder, die ergänzende Erklärungen oder Hinweise geben. Die Schilder
     werden unter dem Hauptzeichen angebracht.
 
-    Beispiele:
+    (Fundstelle: BGBl. II 2011, 1330)
+    ![bgbl2_2011_j1330_0030.jpg](bgbl2_2011_j1330_0030.jpg)    Beispiele:
 
     ... nicht darstellbare 4 Schilder
 
@@ -9577,7 +9842,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         ... nicht darstellbares Bild 16
 
 
-    B.  Kennzeichnung von Freileitungen                          (falls
+    B.  Bezeichnung von Freileitungen                          (falls
         erforderlich)
 
 
@@ -9625,8 +9890,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 
 #### Anlage 10
 
-(Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
-16\.9.1997, S. 124 - 127)
+(Fundstelle: Anlageband zum BGBl. II Nr. 33, 1331)
 Modele de carnet de controle des huiles usees
 (Article 11.05)
 Muster für das Ölkontrollbuch
@@ -9637,6 +9901,7 @@ Model von het olie-afgifteboekje
 Carnet de controle des huiles usees
 Ölkontrollbuch
 Olie-Afgifteboekje
+Page/Seite/Blz. 1
 No d'ordre:
 Laufende Nr.: ..............
 Volgnummer:
@@ -9644,10 +9909,12 @@ Volgnummer:
 ------------------------------------------
 Typ/Art/Aard                     Nom du bateau/Name des Schiffes/
 Naam van het schip
-Numero officiel:
-Amtliche Schiffsnummer:
-------------------------------------------
-Officieel scheepnummer:
+Numéro européen unique d’identification
+des bateaux ou numéro officiel:
+Einheitliche europäische Schiffsnummer
+der amtliche Schiffsnummer: .......................................
+Uniek Europees scheepsidentificatienummer
+of officieel scheepnummer:
 Lieu de delivrance:
 Ort der Ausstellung:
 ------------------------------------------
@@ -9747,55 +10014,72 @@ na overleggen van het vorige boekje worden afgegeven. Het vorige
 boekje wordt, nadat het op onuitwisbare wijze als "ongeldig" is
 gemerkt, aan de schipper teruggegeven. Het dient gedurende 6 maanden
 na de laatste vermelding van een afgifte aan boord te worden bewaard.
-1\. **Dechets acceptes survenant lors de l'exploitation du bateau:**
-Akzeptierte Schiffsbetriebsabfälle: Ingenomen scheepsbedrijfsafval:
-1\.1 Huiles ueees/Altöl/afgewerkte olie ........... l 1.2 Eau de fond
-de cale/Bilgenwasser/ Bilgewater de/aus/van: ........... l Salle de
-machine arriere/Maschinenraum hinten/maschinekamer achter ...........
-l Salle de machine avant/Maschinenraum vorne/maschinekamer voor
-........... l Autres/Andere/overige ........... l 1.3 Autres dechets
-huileux ou graisseux/ Andere öl- oder fetthaltige Abfälle/ Overig
-oiiehoudend afval p.e./z.B./bv.: Chiffons uses/Altlappen/gebruikte
-poetslappen ........... kg Graisses usees/Altfett/gebruikt vet
-........... kg Filtres uses/Altfilter/gebruikte filters ...........
-pieces/Stck/Stk 1.4 Autres dechets/anderweitige Abfälle/ overig afval
-p.e./z.B./bv.\*2): recipients/Gebinde/ unite/Anzahl/ vepakkingen
-aantaal ........... diluants usages/gebrauchte Lösungsmittel/gebruikte
-oplosmiddelen ........... \*1) \*2) autres/Andere/overige ...........
+1\.                 Dechets acceptes survenant lors de
+**l'exploitation du bateau:**
+Akzeptierte Schiffsbetriebsabfälle:
+Ingenomen scheepsbedrijfsafval:
+1\.1 Huiles ueees/Altöl/afgewerkte olie     ........... l
+1\.2 Eau de fond de cale/Bilgenwasser/
+Bilgewater
+de/aus/van:                            ........... l
+Salle de machine arriere/Maschinenraum
+hinten/maschinekamer achter            ........... l
+Salle de machine avant/Maschinenraum
+vorne/maschinekamer voor               ........... l
+Autres/Andere/overige                  ........... l
+1\.3 Autres dechets huileux ou graisseux/
+Andere öl- oder fetthaltige Abfälle/
+Overig oiiehoudend afval
+p.e./z.B./bv.:
+Chiffons uses/Altlappen/gebruikte
+poetslappen                            ........... kg
+Graisses usees/Altfett/gebruikt vet    ........... kg
+Filtres uses/Altfilter/gebruikte
+filters                                ........... pieces/Stck/Stk
+1\.4 Autres dechets/anderweitige Abfälle/
+overig afval
+p.e./z.B./bv.\*2):
+recipients/Gebinde/     unite/Anzahl/
+vepakkingen             aantaal        ...........
+diluants usages/gebrauchte
+Lösungsmittel/gebruikte oplosmiddelen  ........... \*1) \*2)
+autres/Andere/overige                  ...........
 ....................................................................
 ....................................................................
-2\. **Notes/Bemerkungen/Opmerkingen:**              2.1 Produits
-refuses/Nicht akzeptierte Abfälle/niet geaccepteerde producten
-...........
+2\. **Notes/Bemerkungen/Opmerkingen:**
+2\.1 Produits refuses/Nicht akzeptierte
+Abfälle/niet geaccepteerde producten   ...........
 ....................................................................
 ....................................................................
-2\.2 Autres remarques/Andere Bemerkungen/ andere opmerkingen:
+2\.2 Autres remarques/Andere Bemerkungen/
+andere opmerkingen:
 ....................................................................
 ....................................................................
-Lieu Date Ort ............................ Datum
-.............................. Plaats Datum
-..................................................... Cachet et
-signature de la station de reception Stempel und Unterschrift der
-Annahmestelle Handtekening en stempel van het ontvangstinrichting
+Lieu                                Date
+Ort ............................    Datum
+..............................
+Plaats                              Datum
+.....................................................
+Cachet et signature de la station de reception
+Stempel und Unterschrift der Annahmestelle
+Handtekening en stempel van het ontvangstinrichting
 ----------------------------------------------------------------------
 --
-\*1) Quantites estimees/Mengen geschätzt/Hoeveelheden geschat. \*2)
-Tutes les stations de reception ne sont pas obligees ou autorisees de
-recevoir ces dechets/Nicht alle Annahmestellen sind verpflichtet oder
-berechtigt, diese Abfälle abzunehmen/Niet alle ontvangstinrichtingen
-zijn verpflicht of gerechtigd dit afval in te nemen.
+\*1) Quantites estimees/Mengen geschätzt/Hoeveelheden geschat.
+\*2) Tutes les stations de reception ne sont pas obligees ou
+autorisees de recevoir ces dechets/
+Nicht alle Annahmestellen sind verpflichtet oder berechtigt, diese
+Abfälle abzunehmen/
+Niet alle ontvangstinrichtingen zijn verpflicht of gerechtigd dit
+afval in te nemen.
 
 
 #### Anlage 11
 
-Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
-16\.9.1997, S. 128
-(ohne Inhalt)
+(weggefallen)
 
 
 #### Anlage 12
 
-Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
-16\.9.1997, S. 128
-(ohne Inhalt)
+(weggefallen)
 

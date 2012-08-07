@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 55
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.12.2011 I 2983
+:   Art. 2d G v. 21.7.2012 I 1601
 
 
 ## Eingangsformel
@@ -367,7 +367,13 @@ Kennzeichen nur elektronisch gespeichert und lesbar sein.
 
 12. die Übernahme von Beträgen auf Grund der Überschreitung der
     Belastungsgrenze nach § 62 des Fünften Buches Sozialgesetzbuch, soweit
-    sie anteilig auf die Aufwendungen nach den Nummern 1 bis 11 entfallen.
+    sie anteilig auf die Aufwendungen nach den Nummern 1 bis 11 entfallen,
+
+
+13. Krankenbehandlung nach § 27 Absatz 1a, Krankengeld nach § 44a des
+    Fünften Buches Sozialgesetzbuch sowie die Erstattung von fortgezahltem
+    Arbeitsentgelt nach § 3a Absatz 2 des Entgeltfortzahlungsgesetzes
+    einschließlich der hierauf entfallenden Beiträge.
 
 
 
@@ -1908,8 +1914,9 @@ legen:
 3.  Alters- und Geschlechtsgruppen,
 
 
-4.  für die Ermittlung der standardisierten Krankengeldausgaben die
-    Mitgliedergruppen nach § 267 Absatz 2 Satz 2 des Fünften Buches
+4.  für die Ermittlung der standardisierten Krankengeldausgaben, mit
+    Ausnahme der Ausgaben nach § 44a des Fünften Buches Sozialgesetzbuch,
+    die Mitgliedergruppen nach § 267 Absatz 2 Satz 2 des Fünften Buches
     Sozialgesetzbuch, differenziert nach Alter und Geschlecht.
 
 

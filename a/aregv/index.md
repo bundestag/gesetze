@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2529
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.3.2012 I 489
+:   Art. 2 V v. 20.7.2012 I 1635
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -82,9 +82,9 @@ eines Kalenderjahres bei einer Änderung
 
 
 2.  von nicht beeinflussbaren Kostenanteilen nach § 11 Absatz 2 Satz 1
-    Nummer 1 bis 4, 6 bis 11, 13 und 14, Satz 2 und 3; abzustellen ist
-    dabei auf die jeweils im vorletzten Kalenderjahr entstandenen Kosten;
-    bei Kostenanteilen nach § 11 Absatz 2 Satz 1 Nummer 4, 6 und 8 ist auf
+    Nummer 1 bis 11, 13 und 14, Satz 2 und 3; abzustellen ist dabei auf
+    die jeweils im vorletzten Kalenderjahr entstandenen Kosten; bei
+    Kostenanteilen nach § 11 Absatz 2 Satz 1 Nummer 4 bis 6 und 8 ist auf
     das Kalenderjahr abzustellen, auf das die Erlösobergrenze Anwendung
     finden soll,
 
@@ -128,12 +128,12 @@ Netzbetreiber unter Berücksichtigung der tatsächlichen
 Mengenentwicklung erzielbaren Erlösen wird jährlich auf einem
 Regulierungskonto verbucht. Gleiches gilt für die Differenz zwischen
 den für das Kalenderjahr tatsächlich entstandenen Kosten nach § 11
-Absatz 2 Satz 1 Nummer 4, 6 und 8 sowie den im jeweiligen Kalenderjahr
-entstandenen Kosten nach § 11 Absatz 5, soweit dies in einer
-Festlegung nach § 32 Absatz 1 Nummer 4a vorgesehen ist, und den in der
-Erlösobergrenze diesbezüglich enthaltenen Ansätzen. Darüber hinaus
-wird zusätzlich die Differenz zwischen den für das Kalenderjahr bei
-effizienter Leistungserbringung entstehenden Kosten des
+Absatz 2 Satz 1 Nummer 4 bis 6 und 8 sowie den im jeweiligen
+Kalenderjahr entstandenen Kosten nach § 11 Absatz 5, soweit dies in
+einer Festlegung nach § 32 Absatz 1 Nummer 4a vorgesehen ist, und den
+in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen. Darüber
+hinaus wird zusätzlich die Differenz zwischen den für das Kalenderjahr
+bei effizienter Leistungserbringung entstehenden Kosten des
 Messstellenbetriebs oder der Messung und den in der Erlösobergrenze
 diesbezüglich enthaltenen Ansätzen in das Regulierungskonto
 einbezogen, soweit diese Differenz durch Änderungen der Zahl der
@@ -317,7 +317,8 @@ oder Erlöse aus
 4.  erforderlicher Inanspruchnahme vorgelagerter Netzebenen,
 
 
-5.  (weggefallen)
+5.  der Nachrüstung von Wechselrichtern nach § 10 Absatz 1 der
+    Systemstabilitätsverordnung,
 
 
 6.  genehmigten Investitionsmaßnahmen nach § 23, soweit sie dem Inhalt der
@@ -1085,7 +1086,7 @@ soweit sie nicht die von der Bundesnetzagentur ermittelten Werte
 verwenden.
 
 (3) § 4 Abs. 3 Satz 1 Nr. 2 mit Ausnahme von § 4 Abs. 3 Satz 1 Nr. 2
-in Verbindung mit § 11 Abs. 2 Satz 1 Nr. 4 und 8, § 15 Abs. 1 und 2
+in Verbindung mit § 11 Abs. 2 Satz 1 Nr. 4, 5 und 8, § 15 Abs. 1 und 2
 sowie die §§ 19, 21, 23 Abs. 6 und § 25 finden im vereinfachten
 Verfahren keine Anwendung.
 
@@ -1357,6 +1358,11 @@ Genehmigungen nach § 29 Abs. 1 des Energiewirtschaftsgesetzes treffen
     Erlösobergrenze berücksichtigt werden, sowie zu den Voraussetzungen,
     unter denen Kostenanteile als volatile Kostenanteile im Sinne des § 11
     Absatz 5 gelten,
+
+
+4b. zu der Geltendmachung der Kosten nach § 10 Absatz 1 der
+    Systemstabilitätsverordnung gemäß § 11 Absatz 2 Satz 1 Nummer 5,
+    einschließlich der Verpflichtung zur Anpassung pauschaler Kostensätze,
 
 
 5.  zur Durchführung einer Vergleichbarkeitsrechnung nach § 14 Abs. 1 Nr.

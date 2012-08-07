@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 678
 
 Ano aufgeh. durch
-:   Abschn. II Satz 2 AnO v. 28.2.2006 I 522 mWv 16.3.2006, soweit sie Regelungen für die Beamtinnen und Beamten des Bundessozialgerichts und des Bundesversicherungsamtes enthält.
+:   Abschn. II Satz 2 AnO v. 28.2.2006 I 522 mWv 16.3.2006, soweit sie Regelungen für die Beamtinnen und Beamten des Bundessozialgerichts und des Bundesversicherungsamtes enthält, u. aufgeh. durch Abschn. II Satz 2 AnO v. 11.7.2012 I 1529 mWv 19.7.2012, soweit sie Regelungen für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts für medizinische Dokumentation und Information, des Bundesinstituts für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.
 
 
 ## I.

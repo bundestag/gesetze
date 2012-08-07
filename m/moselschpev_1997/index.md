@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl II: 1997, 1670
 
 Zuletzt geändert durch
-:   Art. 3 § 6 V v. 19.12.2008 I 2868; 2010, 380
+:   Art. 2 V v. 16.12.2011 I 1318
 
 Änderung durch
-:   Art. 2 V v. 16.12.2011 II 1318 noch nicht berücksichtigt
+:   Art. 7 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -164,9 +164,9 @@ Sicherheit und Ordnung dringend geboten ist.
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig
 
-1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3 oder § 7.01 Nr. 3
-    der Moselschiffahrtspolizeiverordnung, auch in Verbindung mit Artikel
-    2 Abs. 9, oder
+1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 1.25 oder §
+    7\.01 Nr. 3 der Moselschiffahrtspolizeiverordnung, auch in Verbindung
+    mit Artikel 2 Abs. 9, oder
 
 
 2.  einer mit einer Erlaubnis nach § 1.23 Satz 1, § 3.28, § 3.29 Nr. 2
@@ -193,8 +193,8 @@ oder fahrlässig
 
 3.  entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die
     Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Menge von
-    0,40 mg/l oder mehr Alkohol in der Atemluft oder eine
-    Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine
+    0,25 mg/l oder mehr Alkohol in der Atemluft oder eine
+    Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine
     Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration
     führt, im Körper befindet,
 
@@ -264,7 +264,8 @@ Geschwindigkeit verantwortliche Person
 
 2.  ein Fahrzeug führt, das entgegen § 1.07 Nr. 1 Satz 1 tiefer als bis
     zur Unterkante der Einsenkungsmarken abgeladen oder auf dem entgegen §
-    1\.07 Nr. 2 die vorgeschriebene Sicht eingeschränkt ist,
+    1\.07 Nummer 2 Satz 1, auch in Verbindung mit Satz 3, die
+    vorgeschriebene Sicht eingeschränkt ist,
 
 
 3.  eine Kanalpeniche führt, die entgegen § 1.07 Nr. 1 Satz 2 tiefer als
@@ -353,9 +354,9 @@ Geschwindigkeit verantwortliche Person
 
 
     b)  das Verhalten oder die Zeichengebung beim Begegnen nach § 6.03, §
-        6\.04, § 6.05 Nr. 1 Satz 2, Nr. 2 bis 4, § 6.07 oder § 6.08 oder beim
-        Überholen nach § 6.03, § 6.09, § 6.10 Nr. 2 bis 5 oder § 6.11
-        Buchstabe a oder b Satz 1,
+        6\.04, § 6.05 Nr. 1 Satz 2, Nr. 2 bis 4, § 6.07 oder § 6.08 Nummer 1
+        Satz 1 oder Satz 3 oder beim Überholen nach § 6.03, § 6.09, § 6.10 Nr.
+        2 bis 5 oder § 6.11 Buchstabe a oder b Satz 1,
 
 
     c)  die Fahrt auf Strecken mit vorgeschriebenem Kurs nach § 6.12,
@@ -390,24 +391,30 @@ Geschwindigkeit verantwortliche Person
 
     j)  das Verhalten beim Durchfahren der Schleusenvorhäfen oder Schleusen
         oder des Schleusenbereiches nach § 6.28 Nr. 2 bis 4 Satz 1, Nr. 5 bis
-        7, Nr. 8 Satz 3, Nr. 9 Satz 1 oder Nr. 12 Satz 2, § 6.28a Nr. 1 Satz 2
-        Buchstabe a bis c, Nr. 2 Buchstabe a oder Nr. 4, § 6.29 Nr. 1
-        Buchstabe b Satz 2 oder 3 oder § 9.03 Nr. 2 Satz 1, Nr. 3 oder 4,
+        7, Nr. 8 Satz 3, Nr. 9 Satz 1, Nummer 10 Satz 4 oder Nr. 12 Satz 2, §
+        6\.28a Nr. 1 Satz 2 Buchstabe a bis c, Nr. 2 Buchstabe a oder Nr. 4, §
+        6\.29 Nr. 1 Buchstabe b Satz 2 oder 3 oder § 9.03 Nr. 2 Satz 1, Nr. 3
+        oder 4,
 
 
     k)  die Fahrt bei unsichtigem Wetter nach § 6.30 Nr. 1 bis 5, § 6.31 Nr. 1
         oder 2 oder § 6.33,
 
 
-    l)  (weggefallen)
+    l)  die Benutzung von Sprechfunk auf Verbänden oder Fahrzeugen mit einer
+        Länge von mehr als 110,00 m nach § 8.07 Nummer 2 oder auf Verbänden
+        nach § 9.04 Nummer 2,
 
 
-    m)  die Benutzung von Sprechfunk auf Verbänden nach § 8.07 Nr. 2 oder 6
-        oder Sprechverbindungen auf Verbänden nach § 8.07 Nr. 3 bis 5 oder §
-        9\.04 Nr. 2 oder
+    m)  Sprechverbindungen auf Verbänden nach § 8.07 Nummer 3, 5 oder Nummer
+        6, jeweils auch in Verbindung mit Nummer 7,
 
 
-    n)  die Schiffahrt bei Hochwasser nach § 10.02 Nr. 1 Buchstabe a Satz 1
+    n)  Sprechverbindungen auf Fahrzeugen mit einer Länge von mehr als 110,00
+        m nach § 8.07 Nummer 4, auch in Verbindung mit Nummer 7, oder
+
+
+    o)  die Schiffahrt bei Hochwasser nach § 10.02 Nr. 1 Buchstabe a Satz 1
         oder 2, Buchstabe b bis e, Nr. 2 oder 3 Satz 1 oder 2
 
 
@@ -458,17 +465,19 @@ oder fahrlässig als Schiffsführer
     Satz 4, eine Anweisung des Schiffsführers des Verbandes nicht befolgt,
 
 
-3.  entgegen § 1.02 Nr. 7 ein Fahrzeug führt, obwohl er eine
-    Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine
-    Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im
-    Körper hat,
-
-
-4.  entgegen § 1.02 Nr. 7 Satz 2 ein Fahrzeug führt, obwohl er eine Menge
-    von 0,40 mg/l oder mehr Alkohol in der Atemluft oder eine
-    Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine
+3.  entgegen § 1.02 Nummer 7 Satz 2 ein Fahrzeug führt, obwohl er eine
+    Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine
+    Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine
     Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration
     führt, im Körper hat,
+
+
+4.  anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2 jemand
+    vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs
+    bestimmt, obwohl er eine Menge von 0,25 mg/l oder mehr Alkohol in der
+    Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille
+    oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder
+    Blutalkoholkonzentration führt,
 
 
 5.  entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln
@@ -486,6 +495,11 @@ oder fahrlässig als Schiffsführer
     des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet oder
     für das entgegen § 1.07 Nr. 4 eine Stabilitätsüberprüfung nicht oder
     nicht rechtzeitig vorgenommen wurde,
+
+
+7a. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 Satz 1
+    vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl
+    oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 
 
 8.  nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1
@@ -534,7 +548,8 @@ oder fahrlässig als Schiffsführer
 17. entgegen § 1.18 Nr. 1 oder 2 eine Maßnahme nicht trifft,
 
 
-18. einer vollziehbaren Anordnung nach § 1.19 zuwiderhandelt,
+18. einer vollziehbaren Anordnung nach § 1.19 Satz 1, auch in Verbindung
+    mit Satz 2, zuwiderhandelt,
 
 
 19. entgegen § 1.20 das Anbordkommen nicht erleichtert,
@@ -562,8 +577,8 @@ oder fahrlässig als Schiffsführer
     nicht gekennzeichnet ist,
 
 
-25. einer Vorschrift des § 3.02 Nr. 1, 2 oder 3 zweiter Halbsatz über
-    Lichter oder Signalleuchten zuwiderhandelt,
+25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter
+    Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
 
 
 26. einer Vorschrift des § 3.03 Nr. 1, 2 oder 3 zweiter Halbsatz, § 3.31
@@ -577,8 +592,9 @@ oder fahrlässig als Schiffsführer
     Anker
 
     a)  bei Nacht während des Stilliegens nach § 3.20 Nr. 1 Satz 1 oder Nr. 2,
-        § 3.21, § 3.22, § 3.23, § 3.24 Satz 1 oder 2 erster Halbsatz, § 3.25
-        Nr. 1 Satz 1 Buchstabe a bis d oder Satz 2, Nr. 2 oder § 3.26 oder
+        § 3.21, § 3.22, § 3.23 Satz 1, § 3.24 Satz 1 oder 2 erster Halbsatz, §
+        3\.25 Nr. 1 Satz 1 Buchstabe a bis d oder Satz 2, Nr. 2 oder § 3.26
+        oder
 
 
     b)  bei Tag während des Stilliegens nach § 3.21, § 3.24 Satz 2 zweiter
@@ -624,16 +640,32 @@ oder fahrlässig als Schiffsführer
 
 
     e)  die Höchstabmessungen der Fahrzeuge oder Schubverbände nach § 8.01
-        Satz 1 oder
+        Nummer 1 oder
 
 
-    f)  die Meldepflicht nach § 9.05 Nr. 1, 2, 3 Satz 2 oder 3 oder Nr. 4 bis
-        6
+    f)  die Meldepflicht nach § 9.05 Nr. 1, 2, 3 Satz 2 oder 3 Nummer 4 bis 6
+        oder Nummer 8
 
 
 
 
     zuwiderhandelt,
+
+
+30a. ein Fahrzeug mit einer Länge von mehr als 110,00 m, ausgenommen ein
+    Fahrgastschiff, führt, obwohl das Fahrzeug nicht den Anforderungen des
+    § 8.01 Nummer 2 entspricht,
+
+
+30b. ein Fahrgastschiff mit einer Länge von mehr als 110,00 m führt, obwohl
+    das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3
+    entspricht,
+
+
+30c. entgegen § 8.01 Nummer 6 nicht sicherstellt, dass die
+    Sondererlaubnisse nach § 8.01 Nummer 4 an Bord mitgeführt oder auf
+    Verlangen der Wasserschutzpolizei oder den Bediensteten der
+    zuständigen Behörde zur Kontrolle ausgehändigt werden,
 
 
 31. entgegen § 8.02 Nr. 1 Satz 1 einen Schubverband schleppt oder
@@ -668,7 +700,9 @@ oder fahrlässig als Schiffsführer
 
 
 39. nicht dafür sorgt, daß die Vorschriften über die Sicherheit an Bord
-    von Fahrgastschiffen nach § 8.11 Buchstabe b bis e eingehalten werden,
+    von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als
+    12 Personen zugelassen sind, nach § 8.11 Buchstabe b bis e eingehalten
+    werden,
 
 
 40. entgegen § 8.12 Nr. 1 an einer nicht zugelassenen Anlegestelle anlegt,
@@ -733,6 +767,12 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 
+1a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt,
+    obwohl die nach § 1.08 Nummer 4 Satz 1 vorgeschriebenen
+    Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der
+    vorgeschriebenen Art an Bord vorhanden sind,
+
+
 2.  nicht dafür sorgt, dass die in § 1.10 Nr. 1 genannten Urkunden oder
     sonstigen Unterlagen sich an Bord befinden oder die in § 1.10 Nr. 3
     Satz 1 zweiter Halbsatz genannten Schiffspapiere im Bereich der
@@ -788,7 +828,8 @@ oder fahrlässig als Eigentümer oder Ausrüster
         zugelassen abgeladen ist,
 
 
-    c)  dessen Sicht entgegen § 1.07 Nr. 2 eingeschränkt wird,
+    c)  dessen Sicht entgegen § 1.07 Nr. 2 Satz 1, auch in Verbindung mit Satz
+        3, eingeschränkt wird,
 
 
     d)  dessen Ladung entgegen § 1.07 Nr. 3 die Stabilität des Fahrzeugs oder
@@ -847,10 +888,21 @@ oder fahrlässig als Eigentümer oder Ausrüster
         geschleppt wird oder
 
 
-    r)  das die nach § 8.01 Satz 1 zulässigen Höchstabmessungen überschreitet,
+    r)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
+        überschreitet,
 
 
 
+
+
+11a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00
+    m, ausgenommen ein Fahrgastschiff, anordnet oder zulässt, obwohl das
+    Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
+
+
+11b. die Inbetriebnahme eines Fahrgastschiffs anordnet oder zulässt, obwohl
+    das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3
+    entspricht,
 
 
 12. anordnet oder zuläßt, daß entgegen § 8.04 Satz 1 an der Spitze des
@@ -866,13 +918,20 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 15. die Inbetriebnahme eines Verbandes anordnet oder zuläßt, obwohl die
-    nach § 8.07 Nr. 3 bis 5 vorgeschriebene Sprechverbindung nicht
+    nach § 8.07 Nummer 3, 5 und 6, jeweils auch in Verbindung mit Nummer
+    7, vorgeschriebene Sprechverbindung nicht besteht,
+
+
+15a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00
+    m anordnet oder zulässt, obwohl die nach § 8.07 Nummer 4, auch in
+    Verbindung mit Nummer 7, vorgeschriebene Sprechverbindung nicht
     besteht, oder
 
 
-16. die Inbetriebnahme eines Fahrzeugs anordnet oder zuläßt, obwohl die
-    Besatzung oder das Personal entgegen § 8.11 Buchstabe b zweiter
-    Halbsatz nicht unterwiesen wurde.
+16. die Inbetriebnahme eines Fahrzeugs, das für die Beförderung und
+    Übernachtung von mehr als zwölf Personen zugelassen ist, anordnet oder
+    zuläßt, obwohl die Besatzung oder das Personal entgegen § 8.11
+    Buchstabe b zweiter Halbsatz nicht unterwiesen wurde.
 
 
 

@@ -74,9 +74,10 @@ einer Anlage oder Einrichtung erhalten soll.
 einer Zuverlässigkeitsüberprüfung absehen, wenn das mit der Anlage
 verbundene Risiko gering ist, dass eine Person unbefugte Handlungen
 begeht, die zu einer Entwendung oder Freisetzung radioaktiver Stoffe
-führen können. Satz 1 gilt für den Umgang mit radioaktiven Stoffen und
+führen können.
+2             Satz 1 gilt für den Umgang mit radioaktiven Stoffen und
 die Beförderung von radioaktiven Stoffen entsprechend.
-2             Die zuständige Behörde teilt dem Antragsberechtigten
+3             Die zuständige Behörde teilt dem Antragsberechtigten
 schriftlich mit, dass keine Zuverlässigkeitsüberprüfung durchgeführt
 wird.
 

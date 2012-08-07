@@ -276,6 +276,9 @@ erteilt als
 2.  Aufenthaltserlaubnis (§ 7),
 
 
+2a. Blaue Karte EU (§ 19a),
+
+
 3.  Niederlassungserlaubnis (§ 9) oder
 
 
@@ -283,6 +286,9 @@ erteilt als
 
 
 
+Die für die Aufenthaltserlaubnis geltenden Rechtsvorschriften werden
+auch auf die Blaue Karte EU angewandt, sofern durch Gesetz oder
+Rechtsverordnung nichts anderes bestimmt ist.
 
 (2) Ein Aufenthaltstitel berechtigt zur Ausübung einer
 Erwerbstätigkeit, sofern es nach diesem Gesetz bestimmt ist oder der
@@ -421,11 +427,12 @@ völkerrechtlichen Gründen als nationales Visum verlängert werden.
 (3) Für längerfristige Aufenthalte ist ein Visum für das Bundesgebiet
 (nationales Visum) erforderlich, das vor der Einreise erteilt wird.
 Die Erteilung richtet sich nach den für die Aufenthaltserlaubnis, die
-Niederlassungserlaubnis und die Erlaubnis zum Daueraufenthalt-EG
-geltenden Vorschriften. Die Dauer des rechtmäßigen Aufenthalts mit
-einem nationalen Visum wird auf die Zeiten des Besitzes einer
-Aufenthaltserlaubnis, Niederlassungserlaubnis oder Erlaubnis zum
-Daueraufenthalt-EG angerechnet.
+Blaue Karte EU, die Niederlassungserlaubnis und die Erlaubnis zum
+Daueraufenthalt-EG geltenden Vorschriften. Die Dauer des rechtmäßigen
+Aufenthalts mit einem nationalen Visum wird auf die Zeiten des
+Besitzes einer Aufenthaltserlaubnis, Blauen Karte EU,
+Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt-EG
+angerechnet.
 
 
 #### § 7 Aufenthaltserlaubnis
@@ -621,7 +628,10 @@ Für Satz 1 Nr. 3 und 4 gilt § 9 Abs. 2 Satz 2 bis 5 entsprechend.
 
 1.  einen Aufenthaltstitel nach Abschnitt 5 besitzt, der nicht auf Grund
     des § 23 Abs. 2 erteilt wurde, oder eine vergleichbare Rechtsstellung
-    in einem anderen Mitgliedstaat der Europäischen Union innehat,
+    in einem anderen Mitgliedstaat der Europäischen Union innehat;
+    Gleiches gilt, wenn er einen solchen Titel oder eine solche
+    Rechtsstellung beantragt hat und über den Antrag noch nicht
+    abschließend entschieden worden ist,
 
 
 2.  in einem Mitgliedstaat der Europäischen Union einen Antrag auf
@@ -670,7 +680,7 @@ Für Satz 1 Nr. 3 und 4 gilt § 9 Abs. 2 Satz 2 bis 5 entsprechend.
 
 #### § 9b Anrechnung von Aufenthaltszeiten
 
-Auf die erforderlichen Zeiten nach § 9a Abs. 2 Satz 1 Nr. 1 werden
+(1) Auf die erforderlichen Zeiten nach § 9a Abs. 2 Satz 1 Nr. 1 werden
 folgende Zeiten angerechnet:
 
 1.  Zeiten eines Aufenthalts außerhalb des Bundesgebiets, in denen der
@@ -720,6 +730,29 @@ diese Zeiten werden bei der Bestimmung der Gesamtdauer des Aufenthalts
 nach § 9a Abs. 2 Satz 1 Nr. 1 nicht angerechnet. In allen übrigen
 Fällen unterbricht die Ausreise aus dem Bundesgebiet den Aufenthalt
 nach § 9a Abs. 2 Satz 1 Nr. 1.
+
+(2) Auf die erforderlichen Zeiten nach § 9a Absatz 2 Satz 1 Nummer 1
+werden die Zeiten angerechnet, in denen der Ausländer eine Blaue Karte
+EU besitzt, die von einem anderen Mitgliedstaat der Europäischen Union
+erteilt wurde, wenn sich der Ausländer
+
+1.  in diesem anderen Mitgliedstaat der Europäischen Union mit einer
+    Blauen Karte EU mindestens 18 Monate aufgehalten hat und
+
+
+2.  bei Antragstellung seit mindestens zwei Jahren als Inhaber der Blauen
+    Karte EU im Bundesgebiet aufhält.
+
+
+
+Nicht angerechnet werden Zeiten, in denen sich der Ausländer nicht in
+der Europäischen Union aufgehalten hat. Diese Zeiten unterbrechen
+jedoch den Aufenthalt nach § 9a Absatz 2 Satz 1 Nummer 1 nicht, wenn
+sie zwölf aufeinanderfolgende Monate nicht überschreiten und innerhalb
+des Zeitraums nach § 9a Absatz 2 Satz 1 Nummer 1 insgesamt 18 Monate
+nicht überschreiten. Die Sätze 1 bis 3 sind entsprechend auf
+Familienangehörige des Ausländers anzuwenden, denen eine
+Aufenthaltserlaubnis nach den §§ 30 oder 32 erteilt wurde.
 
 
 #### § 9c Lebensunterhalt
@@ -1058,22 +1091,36 @@ oder verlängert werden, sofern nicht ein gesetzlicher Anspruch
 besteht. § 9 findet keine Anwendung.
 
 (3) Die Aufenthaltserlaubnis berechtigt zur Ausübung einer
-Beschäftigung, die insgesamt 90 Tage oder 180 halbe Tage im Jahr nicht
-überschreiten darf, sowie zur Ausübung studentischer Nebentätigkeiten.
-Dies gilt nicht während des Aufenthalts zu studienvorbereitenden
-Maßnahmen im ersten Jahr des Aufenthalts, ausgenommen in der
-Ferienzeit und bei einem Aufenthalt nach Absatz 1a.
+Beschäftigung, die insgesamt 120 Tage oder 240 halbe Tage im Jahr
+nicht überschreiten darf, sowie zur Ausübung studentischer
+Nebentätigkeiten. Dies gilt nicht während des Aufenthalts zu
+studienvorbereitenden Maßnahmen im ersten Jahr des Aufenthalts,
+ausgenommen in der Ferienzeit und bei einem Aufenthalt nach Absatz 1a.
 
 (4) Nach erfolgreichem Abschluss des Studiums kann die
-Aufenthaltserlaubnis bis zu einem Jahr zur Suche eines diesem
+Aufenthaltserlaubnis bis zu 18 Monaten zur Suche eines diesem
 Abschluss angemessenen Arbeitsplatzes, sofern er nach den Bestimmungen
-der §§ 18, 19 und 21 von Ausländern besetzt werden darf, verlängert
-werden. Absatz 3 gilt entsprechend. § 9 findet keine Anwendung.
+der §§ 18, 19, 19a und 21 von Ausländern besetzt werden darf,
+verlängert werden. Die Aufenthaltserlaubnis berechtigt während dieses
+Zeitraums zur Ausübung einer Erwerbstätigkeit. § 9 findet keine
+Anwendung.
 
 (5) Einem Ausländer kann eine Aufenthaltserlaubnis zur Teilnahme an
 Sprachkursen, die nicht der Studienvorbereitung dienen, und in
 Ausnahmefällen für den Schulbesuch erteilt werden. Absatz 2 gilt
 entsprechend.
+
+(5a) Dient der Schulbesuch nach Absatz 5 einer qualifizierten
+Berufsausbildung, berechtigt die Aufenthaltserlaubnis zur Ausübung
+einer von der Ausbildung unabhängigen Beschäftigung bis zu zehn
+Stunden je Woche.
+
+(5b) Nach erfolgreichem Abschluss der qualifizierten Berufsausbildung
+kann die Aufenthaltserlaubnis bis zu einem Jahr zur Suche eines diesem
+Abschluss angemessenen Arbeitsplatzes, sofern er nach den Bestimmungen
+der §§ 18 und 21 von Ausländern besetzt werden darf, verlängert
+werden. Die Aufenthaltserlaubnis berechtigt während dieses Zeitraums
+zur Ausübung einer Erwerbstätigkeit. § 9 findet keine Anwendung.
 
 (6) Einem Ausländer, dem von einem anderen Mitgliedstaat der
 Europäischen Union ein Aufenthaltstitel zum Zweck des Studiums erteilt
@@ -1123,7 +1170,7 @@ Aufenthalt zustimmen.
 
 #### § 17 Sonstige Ausbildungszwecke
 
-Einem Ausländer kann eine Aufenthaltserlaubnis zum Zweck der
+(1) Einem Ausländer kann eine Aufenthaltserlaubnis zum Zweck der
 betrieblichen Aus- und Weiterbildung erteilt werden, wenn die
 Bundesagentur für Arbeit nach § 39 zugestimmt hat oder durch
 Rechtsverordnung nach § 42 oder zwischenstaatliche Vereinbarung
@@ -1131,6 +1178,17 @@ bestimmt ist, dass die Aus- und Weiterbildung ohne Zustimmung der
 Bundesagentur für Arbeit zulässig ist. Beschränkungen bei der
 Erteilung der Zustimmung durch die Bundesagentur für Arbeit sind in
 die Aufenthaltserlaubnis zu übernehmen. § 16 Abs. 2 gilt entsprechend.
+
+(2) Handelt es sich um eine qualifizierte Berufsausbildung, berechtigt
+die Aufenthaltserlaubnis zur Ausübung einer von der Berufsausbildung
+unabhängigen Beschäftigung bis zu zehn Stunden je Woche.
+
+(3) Nach erfolgreichem Abschluss der qualifizierten Berufsausbildung
+kann die Aufenthaltserlaubnis bis zu einem Jahr zur Suche eines diesem
+Abschluss angemessenen Arbeitsplatzes, sofern er nach den Bestimmungen
+der §§ 18 und 21 von Ausländern besetzt werden darf, verlängert
+werden. Die Aufenthaltserlaubnis berechtigt während dieses Zeitraums
+zur Ausübung einer Erwerbstätigkeit. § 9 findet keine Anwendung.
 
 
 ### Abschnitt 4 - Aufenthalt zum Zweck der Erwerbstätigkeit
@@ -1169,8 +1227,18 @@ erteilt werden, wenn an der Beschäftigung ein öffentliches,
 insbesondere ein regionales, wirtschaftliches oder
 arbeitsmarktpolitisches Interesse besteht.
 
-(5) Ein Aufenthaltstitel nach Absatz 2 und § 19 darf nur erteilt
-werden, wenn ein konkretes Arbeitsplatzangebot vorliegt.
+(5) Ein Aufenthaltstitel nach Absatz 2, § 19 oder § 19a darf nur
+erteilt werden, wenn ein konkretes Arbeitsplatzangebot vorliegt und
+eine Berufsausübungserlaubnis, soweit diese vorgeschrieben ist,
+erteilt wurde oder ihre Erteilung zugesagt ist.
+
+(6) Die Erteilung oder Verlängerung eines Aufenthaltstitels nach
+Absatz 2, § 19 oder § 19a, der auf Grund dieses Gesetzes, einer
+Rechtsverordnung oder einer zwischenstaatlichen Vereinbarung nicht der
+Zustimmung der Bundesagentur für Arbeit bedarf, kann versagt werden,
+wenn ein Sachverhalt vorliegt, der bei zustimmungspflichtigen
+Beschäftigungen zur Versagung der Zustimmung nach § 40 Absatz 2 Nummer
+3 berechtigen würde.
 
 
 #### § 18a Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der Beschäftigung
@@ -1243,6 +1311,54 @@ Beschäftigung.
 Abs. 3 Satz 1 erteilt werden.
 
 
+#### § 18b Niederlassungserlaubnis für Absolventen deutscher Hochschulen
+
+Einem Ausländer, der sein Studium an einer staatlichen oder staatlich
+anerkannten Hochschule oder vergleichbaren Ausbildungseinrichtung im
+Bundesgebiet erfolgreich abgeschlossen hat, wird eine
+Niederlassungserlaubnis erteilt, wenn
+
+1.  er seit zwei Jahren einen Aufenthaltstitel nach den §§ 18, 18a, 19a
+    oder § 21 besitzt,
+
+
+2.  er einen seinem Abschluss angemessenen Arbeitsplatz innehat,
+
+
+3.  er mindestens 24 Monate Pflichtbeiträge oder freiwillige Beiträge zur
+    gesetzlichen Rentenversicherung geleistet hat oder Aufwendungen für
+    einen Anspruch auf vergleichbare Leistungen einer Versicherungs- oder
+    Versorgungseinrichtung oder eines Versicherungsunternehmens nachweist
+    und
+
+
+4.  die Voraussetzungen des § 9 Absatz 2 Satz 1 Nummer 2 und 4 bis 9
+    vorliegen; § 9 Absatz 2 Satz 2 bis 6 gilt entsprechend.
+
+
+
+
+
+#### § 18c Aufenthaltstitel zur Arbeitsplatzsuche für qualifizierte Fachkräfte
+
+(1) Einem Ausländer, der über einen deutschen oder anerkannten oder
+einem deutschen Hochschulabschluss vergleichbaren ausländischen
+Hochschulabschluss verfügt und dessen Lebensunterhalt gesichert ist,
+kann ein Aufenthaltstitel zur Suche nach einem der Qualifikation
+angemessenen Arbeitsplatz für bis zu sechs Monate erteilt werden. Der
+Aufenthaltstitel berechtigt nicht zur Erwerbstätigkeit.
+
+(2) Eine Verlängerung des Aufenthaltstitels über den in Absatz 1
+genannten Höchstzeitraum hinaus ist ausgeschlossen. Ein
+Aufenthaltstitel nach Absatz 1 kann erneut nur erteilt werden, wenn
+sich der Ausländer nach seiner Ausreise mindestens so lange im Ausland
+aufgehalten hat, wie er sich zuvor auf der Grundlage eines
+Aufenthaltstitels nach Absatz 1 im Bundesgebiet aufgehalten hat.
+
+(3) Absatz 1 findet keine Anwendung auf Ausländer, die sich mit einem
+Aufenthaltstitel zu einem anderen Zweck im Bundesgebiet aufhalten.
+
+
 #### § 19 Niederlassungserlaubnis für Hochqualifizierte
 
 (1) Einem hoch qualifizierten Ausländer kann in besonderen Fällen eine
@@ -1259,19 +1375,130 @@ obersten Landesbehörde oder einer von ihr bestimmten Stelle bedarf.
 
 (2) Hoch qualifiziert nach Absatz 1 sind insbesondere
 
-1.  Wissenschaftler mit besonderen fachlichen Kenntnissen,
+1.  Wissenschaftler mit besonderen fachlichen Kenntnissen oder
 
 
 2.  Lehrpersonen in herausgehobener Funktion oder wissenschaftliche
-    Mitarbeiter in herausgehobener Funktion oder
-
-
-3.  Spezialisten und leitende Angestellte mit besonderer Berufserfahrung,
-    die ein Gehalt in Höhe von mindestens der Beitragsbemessungsgrenze der
-    allgemeinen Rentenversicherung erhalten.
+    Mitarbeiter in herausgehobener Funktion.
 
 
 
+
+
+#### § 19a Blaue Karte EU
+
+(1) Einem Ausländer wird eine Blaue Karte EU nach der Richtlinie
+2009/50/EG des Rates vom 25. Mai 2009 über die Bedingungen für die
+Einreise und den Aufenthalt von Drittstaatsangehörigen zur Ausübung
+einer hochqualifizierten Beschäftigung (ABl. L 155 vom 18.6.2009, S.
+17) zum Zweck einer seiner Qualifikation angemessenen Beschäftigung
+erteilt, wenn
+
+1.  er
+
+    a)  einen deutschen, einen anerkannten ausländischen oder einen einem
+        deutschen Hochschulabschluss vergleichbaren ausländischen
+        Hochschulabschluss besitzt oder
+
+
+    b)  soweit durch Rechtsverordnung nach Absatz 2 bestimmt, eine durch eine
+        mindestens fünfjährige Berufserfahrung nachgewiesene vergleichbare
+        Qualifikation besitzt,
+
+
+
+
+
+2.  die Bundesagentur für Arbeit nach § 39 zugestimmt hat oder durch
+    Rechtsverordnung nach § 42 oder zwischenstaatliche Vereinbarung
+    bestimmt ist, dass die Blaue Karte EU ohne Zustimmung der
+    Bundesagentur für Arbeit nach § 39 erteilt werden kann, und
+
+
+3.  er ein Gehalt erhält, das mindestens dem Betrag entspricht, der durch
+    Rechtsverordnung nach Absatz 2 bestimmt ist.
+
+
+
+
+(2) Das Bundesministerium für Arbeit und Soziales kann durch
+Rechtsverordnung Folgendes bestimmen:
+
+1.  die Höhe des Gehalts nach Absatz 1 Nummer 3,
+
+
+2.  Berufe, in denen die einem Hochschulabschluss vergleichbare
+    Qualifikation durch mindestens fünfjährige Berufserfahrung
+    nachgewiesen werden kann, und
+
+
+3.  Berufe, in denen für Angehörige bestimmter Staaten die Erteilung einer
+    Blauen Karte EU zu versagen ist, weil im Herkunftsland ein Mangel an
+    qualifizierten Arbeitnehmern in diesen Berufsgruppen besteht.
+
+
+
+Rechtsverordnungen nach den Nummern 1 und 2 bedürfen der Zustimmung
+des Bundesrates.
+
+(3) Die Blaue Karte EU wird bei erstmaliger Erteilung auf höchstens
+vier Jahre befristet. Beträgt die Dauer des Arbeitsvertrags weniger
+als vier Jahre, wird die Blaue Karte EU für die Dauer des
+Arbeitsvertrags zuzüglich dreier Monate ausgestellt oder verlängert.
+
+(4) Für jeden Arbeitsplatzwechsel eines Inhabers einer Blauen Karte EU
+ist in den ersten zwei Jahren der Beschäftigung die Erlaubnis durch
+die Ausländerbehörde erforderlich; die Erlaubnis wird erteilt, wenn
+die Voraussetzungen nach Absatz 1 vorliegen.
+
+(5) Eine Blaue Karte EU wird nicht erteilt an Ausländer,
+
+1.  die die Voraussetzungen nach § 9a Absatz 3 Nummer 1 oder 2 erfüllen,
+
+
+2.  die einen Antrag auf Feststellung der Voraussetzungen nach § 60 Absatz
+    5 oder 7 Satz 1 oder nach § 60a Absatz 2 Satz 1 gestellt haben,
+
+
+3.  deren Einreise in einen Mitgliedstaat der Europäischen Union
+    Verpflichtungen unterliegt, die sich aus internationalen Abkommen zur
+    Erleichterung der Einreise und des vorübergehenden Aufenthalts
+    bestimmter Kategorien von natürlichen Personen, die handels- und
+    investitionsbezogene Tätigkeiten ausüben, herleiten,
+
+
+4.  die in einem Mitgliedstaat der Europäischen Union als
+    Saisonarbeitnehmer zugelassen wurden,
+
+
+5.  die im Besitz einer Duldung nach § 60a sind,
+
+
+6.  die unter die Richtlinie 96/71/EG des Europäischen Parlaments und des
+    Rates vom 16. Dezember 1996 über die Entsendung von Arbeitnehmern im
+    Rahmen der Erbringung von Dienstleistungen (ABl. L 18 vom 21.1.1997,
+    S. 1) fallen, für die Dauer ihrer Entsendung nach Deutschland, oder
+
+
+7.  die auf Grund von Übereinkommen zwischen der Europäischen Union und
+    ihren Mitgliedstaaten einerseits und Drittstaaten anderseits ein Recht
+    auf freien Personenverkehr genießen, das dem der Unionsbürger
+    gleichwertig ist.
+
+
+
+
+(6) Dem Inhaber einer Blauen Karte EU ist eine Niederlassungserlaubnis
+zu erteilen, wenn er mindestens 33 Monate eine Beschäftigung nach
+Absatz 1 ausgeübt hat und für diesen Zeitraum Pflichtbeiträge oder
+freiwillige Beiträge zur gesetzlichen Rentenversicherung geleistet hat
+oder Aufwendungen für einen Anspruch auf vergleichbare Leistungen
+einer Versicherungs- oder Versorgungseinrichtung oder eines
+Versicherungsunternehmens nachweist und die Voraussetzungen des § 9
+Absatz 2 Satz 1 Nummer 2 und 4 bis 9 vorliegen. § 9 Absatz 2 Satz 2
+bis 6 gilt entsprechend. Die Frist nach Satz 1 verkürzt sich auf 21
+Monate, wenn der Ausländer deutsche Sprachkenntnisse der Stufe B1
+nachweist.
 
 
 #### § 20 Forschung
@@ -1333,13 +1560,14 @@ wird die Aufenthaltserlaubnis nur erteilt, wenn die Voraussetzungen
 nach Absatz 1 erfüllt sind. § 9 ist nicht anzuwenden.
 
 (6) Eine Aufenthaltserlaubnis nach den Absätzen 1 und 5 Satz 2
-berechtigt zur Aufnahme der Erwerbstätigkeit für das in der
-Aufnahmevereinbarung bezeichnete Forschungsvorhaben und zur Aufnehme
-von Tätigkeiten in der Lehre. Änderungen des Forschungsvorhabens
-während des Aufenthalts führen nicht zum Wegfall dieser Berechtigung.
-Ein Ausländer, der die Voraussetzungen nach Absatz 5 Satz 1 erfüllt,
-darf für einen Zeitraum von drei Monaten innerhalb von zwölf Monaten
-eine Erwerbstätigkeit nach Satz 1 auch ohne Aufenthaltstitel ausüben.
+berechtigt zur Aufnahme der Forschungstätigkeit bei der in der
+Aufnahmevereinbarung bezeichneten Forschungseinrichtung und zur
+Aufnehme von Tätigkeiten in der Lehre. Änderungen des
+Forschungsvorhabens während des Aufenthalts führen nicht zum Wegfall
+dieser Berechtigung. Ein Ausländer, der die Voraussetzungen nach
+Absatz 5 Satz 1 erfüllt, darf für einen Zeitraum von drei Monaten
+innerhalb von zwölf Monaten eine Erwerbstätigkeit nach Satz 1 auch
+ohne Aufenthaltstitel ausüben.
 
 (7) Die Absätze 1 und 5 gelten nicht für Ausländer,
 
@@ -1374,8 +1602,7 @@ eine Erwerbstätigkeit nach Satz 1 auch ohne Aufenthaltstitel ausüben.
 (1) Einem Ausländer kann eine Aufenthaltserlaubnis zur Ausübung einer
 selbständigen Tätigkeit erteilt werden, wenn
 
-1.  ein übergeordnetes wirtschaftliches Interesse oder ein besonderes
-    regionales Bedürfnis besteht,
+1.  ein wirtschaftliches Interesse oder ein regionales Bedürfnis besteht,
 
 
 2.  die Tätigkeit positive Auswirkungen auf die Wirtschaft erwarten lässt
@@ -1387,22 +1614,29 @@ selbständigen Tätigkeit erteilt werden, wenn
 
 
 
-Die Voraussetzungen des Satzes 1 Nr. 1 und 2 sind in der Regel
-gegeben, wenn mindestens 250 000 Euro investiert und fünf
-Arbeitsplätze geschaffen werden. Im Übrigen richtet sich die
-Beurteilung der Voraussetzungen nach Satz 1 insbesondere nach der
-Tragfähigkeit der zu Grunde liegenden Geschäftsidee, den
-unternehmerischen Erfahrungen des Ausländers, der Höhe des
-Kapitaleinsatzes, den Auswirkungen auf die Beschäftigungs- und
-Ausbildungssituation und dem Beitrag für Innovation und Forschung. Bei
-der Prüfung sind die für den Ort der geplanten Tätigkeit fachkundigen
-Körperschaften, die zuständigen Gewerbebehörden, die öffentlich-
-rechtlichen Berufsvertretungen und die für die Berufszulassung
-zuständigen Behörden zu beteiligen.
+Die Beurteilung der Voraussetzungen nach Satz 1 richtet sich
+insbesondere nach der Tragfähigkeit der zu Grunde liegenden
+Geschäftsidee, den unternehmerischen Erfahrungen des Ausländers, der
+Höhe des Kapitaleinsatzes, den Auswirkungen auf die Beschäftigungs-
+und Ausbildungssituation und dem Beitrag für Innovation und Forschung.
+Bei der Prüfung sind die für den Ort der geplanten Tätigkeit
+fachkundigen Körperschaften, die zuständigen Gewerbebehörden, die
+öffentlich-rechtlichen Berufsvertretungen und die für die
+Berufszulassung zuständigen Behörden zu beteiligen.
 
 (2) Eine Aufenthaltserlaubnis zur Ausübung einer selbständigen
 Tätigkeit kann auch erteilt werden, wenn völkerrechtliche
 Vergünstigungen auf der Grundlage der Gegenseitigkeit bestehen.
+
+(2a) Einem Ausländer, der sein Studium an einer staatlichen oder
+staatlich anerkannten Hochschule oder vergleichbaren
+Ausbildungseinrichtung im Bundesgebiet erfolgreich abgeschlossen hat
+oder der als Forscher oder Wissenschaftler eine Aufenthaltserlaubnis
+nach § 18 oder § 20 besitzt, kann eine Aufenthaltserlaubnis zur
+Ausübung einer selbständigen Tätigkeit abweichend von Absatz 1 erteilt
+werden. Die beabsichtigte selbständige Tätigkeit muss einen
+Zusammenhang mit den in der Hochschulausbildung erworbenen Kenntnissen
+oder der Tätigkeit als Forscher oder Wissenschaftler erkennen lassen.
 
 (3) Ausländern, die älter sind als 45 Jahre, soll die
 Aufenthaltserlaubnis nur erteilt werden, wenn sie über eine
@@ -1806,11 +2040,11 @@ Von § 5 Abs. 1 Nr. 2 kann abgesehen werden.
 längstens für den Gültigkeitszeitraum der Aufenthaltserlaubnis des
 Ausländers erteilt werden, zu dem der Familiennachzug stattfindet. Sie
 ist für diesen Zeitraum zu erteilen, wenn der Ausländer, zu dem der
-Familiennachzug stattfindet, eine Aufenthaltserlaubnis nach § 20 oder
-§ 38a besitzt. Die Aufenthaltserlaubnis darf jedoch nicht länger
-gelten als der Pass oder Passersatz des Familienangehörigen. Im
-Übrigen ist die Aufenthaltserlaubnis erstmals für mindestens ein Jahr
-zu erteilen.
+Familiennachzug stattfindet, eine Aufenthaltserlaubnis nach § 20, §
+38a oder eine Blaue Karte EU besitzt. Die Aufenthaltserlaubnis darf
+jedoch nicht länger gelten als der Pass oder Passersatz des
+Familienangehörigen. Im Übrigen ist die Aufenthaltserlaubnis erstmals
+für mindestens ein Jahr zu erteilen.
 
 
 #### § 28 Familiennachzug zu Deutschen
@@ -1863,7 +2097,8 @@ Erwerbstätigkeit.
 (1) Für den Familiennachzug zu einem Ausländer muss
 
 1.  der Ausländer eine Niederlassungserlaubnis, Erlaubnis zum
-    Daueraufenthalt-EG oder Aufenthaltserlaubnis besitzen und
+    Daueraufenthalt-EG, Aufenthaltserlaubnis oder eine Blaue Karte EU
+    besitzen und
 
 
 2.  ausreichender Wohnraum zur Verfügung stehen.
@@ -1932,7 +2167,7 @@ Erwerbstätigkeit,
 
 
 2.  wenn der Ausländer, zu dem der Familiennachzug stattfindet, einen
-    Aufenthaltstitel nach § 20 besitzt oder
+    Aufenthaltstitel nach den §§ 19a oder 20 besitzt oder
 
 
 3.  wenn die eheliche Lebensgemeinschaft seit mindestens zwei Jahren
@@ -1978,13 +2213,16 @@ erteilen, wenn
 
     e)  eine Aufenthaltserlaubnis besitzt, die Ehe bei deren Erteilung bereits
         bestand und die Dauer seines Aufenthalts im Bundesgebiet
-        voraussichtlich über ein Jahr betragen wird oder
+        voraussichtlich über ein Jahr betragen wird,
 
 
     f)  eine Aufenthaltserlaubnis nach § 38a besitzt und die eheliche
         Lebensgemeinschaft bereits in dem Mitgliedstaat der Europäischen Union
         bestand, in dem der Ausländer die Rechtsstellung eines langfristig
-        Aufenthaltsberechtigten innehat.
+        Aufenthaltsberechtigten innehat, oder
+
+
+    g)  eine Blaue Karte EU besitzt.
 
 
 
@@ -2024,12 +2262,15 @@ unbeachtlich, wenn
 3.  bei dem Ehegatten ein erkennbar geringer Integrationsbedarf im Sinne
     einer nach § 43 Abs. 4 erlassenen Rechtsverordnung besteht oder dieser
     aus anderen Gründen nach der Einreise keinen Anspruch nach § 44 auf
-    Teilnahme am Integrationskurs hätte oder
+    Teilnahme am Integrationskurs hätte,
 
 
 4.  der Ausländer wegen seiner Staatsangehörigkeit auch für einen
     Aufenthalt, der kein Kurzaufenthalt ist, visumfrei in das Bundesgebiet
-    einreisen und sich darin aufhalten darf.
+    einreisen und sich darin aufhalten darf oder
+
+
+5.  der Ausländer im Besitz einer Blauen Karte EU ist.
 
 
 
@@ -2118,7 +2359,14 @@ Daueraufenthalt-EG nicht vorliegen.
 Aufenthaltserlaubnis zu erteilen, wenn
 
 1.  der Ausländer eine Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 oder
-    eine Niederlassungserlaubnis nach § 26 Abs. 3 besitzt oder
+    eine Niederlassungserlaubnis nach § 26 Abs. 3 besitzt,
+
+
+1a. der allein personensorgeberechtigte Elternteil eine Blaue Karte EU
+    oder eine Niederlassungserlaubnis nach § 19 besitzt oder die Eltern
+    ihren gewöhnlichen Aufenthalt im Bundesgebiet haben und mindestens ein
+    Elternteil eine Blaue Karte EU oder eine Niederlassungserlaubnis nach
+    § 19 besitzt oder
 
 
 2.  beide Eltern oder der allein personensorgeberechtigte Elternteil eine
@@ -2420,12 +2668,12 @@ will. § 8 Abs. 2 ist nicht anzuwenden.
 
 
 (3) Der Aufenthaltstitel nach Absatz 1 berechtigt nur zur Ausübung
-einer Erwerbstätigkeit, wenn die in § 18 Abs. 2, den §§ 19, 20 oder §
-21 genannten Voraussetzungen erfüllt sind. Wird der Aufenthaltstitel
-nach Absatz 1 für ein Studium oder für sonstige Ausbildungszwecke
-erteilt, sind die §§ 16 und 17 entsprechend anzuwenden. In den Fällen
-des § 17 wird der Aufenthaltstitel ohne Zustimmung der Bundesagentur
-für Arbeit erteilt.
+einer Erwerbstätigkeit, wenn die in § 18 Abs. 2, den §§ 19, 19a, 20
+oder § 21 genannten Voraussetzungen erfüllt sind. Wird der
+Aufenthaltstitel nach Absatz 1 für ein Studium oder für sonstige
+Ausbildungszwecke erteilt, sind die §§ 16 und 17 entsprechend
+anzuwenden. In den Fällen des § 17 wird der Aufenthaltstitel ohne
+Zustimmung der Bundesagentur für Arbeit erteilt.
 
 (4) Eine nach Absatz 1 erteilte Aufenthaltserlaubnis darf nur für
 höchstens zwölf Monate mit einer Nebenbestimmung nach § 39 Abs. 4
@@ -2450,8 +2698,8 @@ zwischenstaatlichen Vereinbarungen, durch ein Gesetz oder durch
 Rechtsverordnung bestimmt ist.
 
 (2) Die Bundesagentur für Arbeit kann der Erteilung einer
-Aufenthaltserlaubnis zur Ausübung einer Beschäftigung nach § 18
-zustimmen, wenn
+Aufenthaltserlaubnis zur Ausübung einer Beschäftigung nach § 18 oder
+einer Blauen Karte EU nach § 19a zustimmen, wenn
 
 1.
     a)  sich durch die Beschäftigung von Ausländern nachteilige Auswirkungen
@@ -2532,10 +2780,21 @@ aus Drittstaaten zu gewähren.
     Buches Sozialgesetzbuch, §§ 10, 10a oder § 11 des
     Schwarzarbeitsbekämpfungsgesetzes oder gegen die §§ 15, 15a oder § 16
     Abs. 1 Nr. 2 des Arbeitnehmerüberlassungsgesetzes schuldhaft verstoßen
-    hat oder
+    hat,
 
 
-2.  wichtige Gründe in der Person des Ausländers vorliegen.
+2.  wichtige Gründe in der Person des Ausländers vorliegen oder
+
+
+3.  die Beschäftigung bei einem Arbeitgeber erfolgen soll, der oder dessen
+    nach Satzung oder Gesetz Vertretungsberechtigter innerhalb der letzten
+    fünf Jahre wegen eines Verstoßes gegen § 404 Absatz 1 oder Absatz 2
+    Nummer 3 des Dritten Buches Sozialgesetzbuch rechtskräftig mit einer
+    Geldbuße belegt oder wegen eines Verstoßes gegen die §§ 10, 10a oder
+    11 des Schwarzarbeitsbekämpfungsgesetzes oder gegen die §§ 15, 15a
+    oder 16 Absatz 1 Nummer 2 des Arbeitnehmerüberlassungsgesetzes
+    rechtskräftig zu einer Geld- oder Freiheitsstrafe verurteilt worden
+    ist.
 
 
 
@@ -2555,7 +2814,8 @@ des § 40 Abs. 1 oder 2 erfüllt ist.
 Rechtsverordnung mit Zustimmung des Bundesrates Folgendes bestimmen:
 
 1.  Beschäftigungen, für die eine Zustimmung der Bundesagentur für Arbeit
-    (§ 17 Satz 1, § 18 Abs. 2 Satz 1, § 19 Abs. 1) nicht erforderlich ist,
+    (§ 17 Satz 1, § 18 Abs. 2 Satz 1, § 19 Abs. 1, § 19a Absatz 1 Nummer
+    2) nicht erforderlich ist,
 
 
 2.  Berufsgruppen, bei denen nach Maßgabe des § 18 eine Beschäftigung
@@ -3313,7 +3573,11 @@ Verordnung (EG) Nr. 810/2009.
 
 3.  sich der Ausländer für einen Zeitraum von zwölf aufeinander folgenden
     Monaten außerhalb des Gebiets aufhält, in dem die Rechtsstellung eines
-    langfristig Aufenthaltsberechtigten erworben werden kann,
+    langfristig Aufenthaltsberechtigten erworben werden kann; der Zeitraum
+    beträgt 24 aufeinanderfolgende Monate bei einem Ausländer, der zuvor
+    im Besitz einer Blauen Karte EU war, und bei seinen
+    Familienangehörigen, die zuvor im Besitz einer Aufenthaltserlaubnis
+    nach den §§ 30, 32, 33 oder 36 waren,
 
 
 4.  sich der Ausländer für einen Zeitraum von sechs Jahren außerhalb des
@@ -3329,11 +3593,16 @@ Verordnung (EG) Nr. 810/2009.
 Auf die in Satz 1 Nr. 3 und 4 genannten Fälle sind die Absätze 2 bis 4
 entsprechend anzuwenden.
 
+(10) Abweichend von Absatz 1 Nummer 7 beträgt die Frist für die Blaue
+Karte EU und die Aufenthaltserlaubnisse nach den §§ 30, 32, 33 oder
+36, die den Familienangehörigen eines Inhabers einer Blauen Karte EU
+erteilt worden sind, zwölf Monate.
+
 
 #### § 52 Widerruf
 
 (1) Der Aufenthaltstitel des Ausländers nach § 4 Absatz 1 Satz 2
-Nummer 1 zweite Alternative, Nummer 2, 3 und 4 kann außer in den
+Nummer 1 zweite Alternative, Nummer 2, 2a, 3 und 4 kann außer in den
 Fällen der Absätze 2 bis 7 nur widerrufen werden, wenn
 
 1.  er keinen gültigen Pass oder Passersatz mehr besitzt,
@@ -3373,13 +3642,13 @@ der mit dem Ausländer in familiärer Gemeinschaft lebenden
 Familienangehörigen widerrufen werden, wenn diesen kein eigenständiger
 Anspruch auf den Aufenthaltstitel zusteht.
 
-(2) Ein nationales Visum und eine Aufenthaltserlaubnis, die zum Zweck
-der Beschäftigung erteilt wurden, sind zu widerrufen, wenn die
-Bundesagentur für Arbeit nach § 41 die Zustimmung zur Ausübung der
-Beschäftigung widerrufen hat. Ein nationales Visum und eine
-Aufenthaltserlaubnis, die nicht zum Zweck der Beschäftigung erteilt
-wurden, sind im Falle des Satzes 1 in dem Umfang zu widerrufen, in dem
-sie die Beschäftigung gestatten.
+(2) Ein nationales Visum, eine Aufenthaltserlaubnis und eine Blaue
+Karte EU, die zum Zweck der Beschäftigung erteilt wurden, sind zu
+widerrufen, wenn die Bundesagentur für Arbeit nach § 41 die Zustimmung
+zur Ausübung der Beschäftigung widerrufen hat. Ein nationales Visum
+und eine Aufenthaltserlaubnis, die nicht zum Zweck der Beschäftigung
+erteilt wurden, sind im Falle des Satzes 1 in dem Umfang zu
+widerrufen, in dem sie die Beschäftigung gestatten.
 
 (3) Eine nach § 16 Abs. 1 zum Zweck des Studiums erteilte
 Aufenthaltserlaubnis kann widerrufen werden, wenn
@@ -4585,13 +4854,17 @@ Höchstsätze nicht übersteigen:
 1.  für die Erteilung einer Aufenthaltserlaubnis: 140 Euro,
 
 
+1a. für die Erteilung einer Blauen Karte EU: 140 Euro,
+
+
 2.  für die Erteilung einer Niederlassungserlaubnis: 260 Euro,
 
 
 2a. für die Erteilung einer Erlaubnis zum Daueraufenthalt-EG: 260 Euro,
 
 
-3.  für die Verlängerung einer Aufenthaltserlaubnis: 100 Euro,
+3.  für die Verlängerung einer Aufenthaltserlaubnis oder einer Blauen
+    Karte EU: 100 Euro,
 
 
 4.  für die Erteilung eines nationalen Visums und die Ausstellung eines
@@ -4860,6 +5133,10 @@ Entscheidung über die Festlegung, Aufhebung oder Verkürzung einer
 Ausreisefrist nach § 59 Absatz 7 die für den Aufenthaltsort zuständige
 Polizeibehörde.
 
+(7) Zur Prüfung des Vorliegens der Voraussetzungen der §§ 18, 18b, 19
+und 19a kann die Ausländerbehörde die Bundesagentur für Arbeit auch
+dann beteiligen, wenn sie deren Zustimmung nicht bedarf.
+
 
 #### § 73 Sonstige Beteiligungserfordernisse im Visumverfahren und bei der Erteilung von Aufenthaltstiteln
 
@@ -5038,8 +5315,9 @@ Aufgaben nach anderen Gesetzen folgende Aufgaben:
 5.  Zusammenarbeit mit den Verwaltungsbehörden der Mitgliedstaaten der
     Europäischen Union als Nationale Kontaktstelle und zuständige Behörde
     nach Artikel 27 der Richtlinie 2001/55/EG, Artikel 25 der Richtlinie
-    2003/109/EG und Artikel 8 Abs. 3 der Richtlinie 2004/114/EG sowie für
-    Mitteilungen nach § 51 Absatz 8a;
+    2003/109/EG, Artikel 8 Abs. 3 der Richtlinie 2004/114/EG und Artikel
+    22 Absatz 1 der Richtlinie 2009/50/EG sowie für Mitteilungen nach § 51
+    Absatz 8a;
 
 
 6.  Führung des Registers nach § 91a;
@@ -5552,10 +5830,13 @@ Ausländerbehörde als erlaubt. Wird der Antrag verspätet gestellt, gilt
 ab dem Zeitpunkt der Antragstellung bis zur Entscheidung der
 Ausländerbehörde die Abschiebung als ausgesetzt.
 
-(4) Beantragt ein Ausländer die Verlängerung seines Aufenthaltstitels
-oder die Erteilung eines anderen Aufenthaltstitels, gilt der bisherige
-Aufenthaltstitel vom Zeitpunkt seines Ablaufs bis zur Entscheidung der
-Ausländerbehörde als fortbestehend.
+(4) Beantragt ein Ausländer vor Ablauf seines Aufenthaltstitels dessen
+Verlängerung oder die Erteilung eines anderen Aufenthaltstitels, gilt
+der bisherige Aufenthaltstitel vom Zeitpunkt seines Ablaufs bis zur
+Entscheidung der Ausländerbehörde als fortbestehend. Wurde der Antrag
+auf Erteilung oder Verlängerung eines Aufenthaltstitels verspätet
+gestellt, kann die Ausländerbehörde zur Vermeidung einer unbilligen
+Härte die Fortgeltungswirkung anordnen.
 
 (5) Dem Ausländer ist eine Bescheinigung über die Wirkung seiner
 Antragstellung (Fiktionsbescheinigung) auszustellen.
@@ -5614,6 +5895,16 @@ Verlangen
 Das Lichtbild und die Fingerabdrücke dürfen in Dokumente nach Satz 1
 eingebracht und von den zuständigen Behörden zur Sicherung und einer
 späteren Feststellung der Identität verarbeitet und genutzt werden.
+
+(6) Ausländer, die im Besitz einer Aufenthaltserlaubnis nach den §§ 18
+oder 18a oder einer Blauen Karte EU sind, sind verpflichtet, der
+zuständigen Ausländerbehörde mitzuteilen, wenn die Beschäftigung, für
+die der Aufenthaltstitel erteilt wurde, vorzeitig beendet wird. Dies
+gilt nicht, wenn der Ausländer eine Beschäftigung aufnehmen darf, ohne
+einer Erlaubnis zu bedürfen, die nur mit einer Zustimmung nach § 39
+Absatz 2 erteilt werden kann. Der Ausländer ist bei Erteilung des
+Aufenthaltstitels über seine Verpflichtung nach Satz 1 zu
+unterrichten.
 
 
 #### § 83 Beschränkung der Anfechtbarkeit
@@ -6446,6 +6737,41 @@ Im Sinne der §§ 91a bis 91d sind
 
 2.  Angaben zum Identitäts- und Reisedokument: Art, Nummer, ausgebende
     Stelle, Ausstellungsdatum und Gültigkeitsdauer.
+
+
+
+
+
+#### § 91f Auskünfte zur Durchführung der Richtlinie 2009/50/EG innerhalb der Europäischen Union
+
+(1) Das Bundesamt für Migration und Flüchtlinge unterrichtet als
+nationale Kontaktstelle im Sinne des Artikels 22 Absatz 1 der
+Richtlinie 2009/50/EG die zuständige Behörde eines anderen
+Mitgliedstaates der Europäischen Union, in dem der Ausländer eine
+Blaue Karte EU besitzt, über den Inhalt und den Tag einer Entscheidung
+über die Erteilung einer Blauen Karte EU. Die Behörde, die die
+Entscheidung getroffen hat, übermittelt der nationalen Kontaktstelle
+unverzüglich die hierfür erforderlichen Angaben. Der nationalen
+Kontaktstelle können die für Unterrichtungen nach Satz 1
+erforderlichen Daten aus dem Ausländerzentralregister durch die
+Ausländerbehörden unter Nutzung der AZR-Nummer automatisiert
+übermittelt werden.
+
+(2) Das Bundesamt für Migration und Flüchtlinge übermittelt den
+zuständigen Organen der Europäischen Union jährlich
+
+1.  die Daten, die nach der Verordnung (EG) Nr. 862/2007 des Europäischen
+    Parlaments und des Rates vom 11. Juli 2007 zu Gemeinschaftsstatistiken
+    über Wanderung und internationalen Schutz und zur Aufhebung der
+    Verordnung (EWG) Nr. 311/76 des Rates über die Erstellung von
+    Statistiken über ausländische Arbeitnehmer (ABl. L 199 vom 31.7.2007,
+    S. 23) im Zusammenhang mit der Erteilung von Blauen Karten EU zu
+    übermitteln sind, sowie
+
+
+2.  ein Verzeichnis der Berufe, für die durch Rechtsverordnung nach § 19a
+    Absatz 2 Nummer 1 ein Gehalt nach Artikel 5 Absatz 5 der Richtlinie
+    2009/50/EG bestimmt wurde.
 
 
 

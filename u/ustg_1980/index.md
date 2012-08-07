@@ -5950,13 +5950,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Lebende Tiere, und zwar
 
-        a)  Pferde einschließlich reinrassiger Zuchttiere, ausgenommen Wildpferde,
+        a)  (weggefallen)
 
 
 
 
-    *   aus Position 0101
-
+    *
 
 *    *
         b)  Maultiere und Maulesel,

@@ -1648,6 +1648,8 @@ Ergebnis, das durch Aktivierung eines Hyperlinks erreicht wird.
 
 (Fundstelle: BGBl. I 2011, 1859)
 
+## Teil 1
+
 Für die Bereitstellung von Informationen in Deutscher Gebärdensprache
 im Internet oder Intranet gelten die folgenden Vorgaben:
 

@@ -173,7 +173,13 @@ vereinbart werden die Verpflichtung,
 
 5.  das Fahrzeug nicht zu führen oder führen zu lassen, wenn der Fahrer
     infolge des Genusses alkoholischer Getränke oder anderer berauschender
-    Mittel dazu nicht sicher in der Lage ist.
+    Mittel dazu nicht sicher in der Lage ist;
+
+
+6.  ein mit einem Wechselkennzeichen zugelassenes Fahrzeug nicht auf
+    öffentlichen Wegen oder Plätzen zu benutzen oder benutzen zu lassen,
+    wenn es das nach § 8 Absatz 1a der Fahrzeug-Zulassungsverordnung
+    vorgeschriebene Wechselkennzeichen nicht vollständig trägt.
 
 
 
@@ -192,7 +198,7 @@ hat, geschädigt wurde.
 (3) Bei Verletzung einer nach Absatz 1 vereinbarten Obliegenheit oder
 wegen Gefahrerhöhung ist die Leistungsfreiheit des Versicherers
 gegenüber dem Versicherungsnehmer und den mitversicherten Personen auf
-den Betrag von höchstens je 5.000 Euro beschränkt. Satz 1 gilt nicht
+den Betrag von höchstens je 5 000 Euro beschränkt. Satz 1 gilt nicht
 gegenüber einem Fahrer, der das Fahrzeug durch eine strafbare Handlung
 erlangt hat.
 

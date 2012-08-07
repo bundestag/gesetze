@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1980
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.1.2011 I 3
-
-Änderung durch
-:   Art. 1 u. 2 V v. 26.6.2012 I 1394 (Nr. 28) noch nicht berücksichtigt!
+:   Art. 2 V v. 26.6.2012 I 1394
 
 
 ## Eingangsformel
@@ -313,11 +310,11 @@ Führer des Mofas.
 
     *   Zugmaschinen mit einer durch die Bauart bestimmten
         Höchstgeschwindigkeit von nicht mehr als 60 km/h und selbstfahrende
-        Arbeitsmaschinen mit einer durch die Bauart bestimmten
-        Höchstgeschwindigkeit von nicht mehr als 40 km/h, die jeweils nach
-        ihrer Bauart zur Verwendung für land- oder forstwirtschaftliche Zwecke
-        bestimmt sind und für solche Zwecke eingesetzt werden (jeweils auch
-        mit Anhängern)
+        Arbeitsmaschinen oder selbstfahrende Futtermischwagen mit einer durch
+        die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40
+        km/h, die jeweils nach ihrer Bauart zur Verwendung für land- oder
+        forstwirtschaftliche Zwecke bestimmt sind und für solche Zwecke
+        eingesetzt werden (jeweils auch mit Anhängern)
 
 
 *    *   Klasse L:
@@ -325,12 +322,13 @@ Führer des Mofas.
     *   Zugmaschinen, die nach ihrer Bauart zur Verwendung für land- oder
         forstwirtschaftliche Zwecke bestimmt sind und für solche Zwecke
         eingesetzt werden, mit einer durch die Bauart bestimmten
-        Höchstgeschwindigkeit von nicht mehr als 32 km/h und Kombinationen aus
+        Höchstgeschwindigkeit von nicht mehr als 40 km/h und Kombinationen aus
         diesen Fahrzeugen und Anhängern, wenn sie mit einer Geschwindigkeit
         von nicht mehr als 25 km/h geführt werden, sowie selbstfahrende
-        Arbeitsmaschinen, Stapler und andere Flurförderzeuge jeweils mit einer
-        durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als
-        25 km/h und Kombinationen aus diesen Fahrzeugen und Anhängern.
+        Arbeitsmaschinen, selbstfahrende Futtermischwagen, Stapler und andere
+        Flurförderzeuge jeweils mit einer durch die Bauart bestimmten
+        Höchstgeschwindigkeit von nicht mehr als 25 km/h und Kombinationen aus
+        diesen Fahrzeugen und Anhängern.
 
 
 
@@ -411,8 +409,8 @@ Fahrerlaubnis der Klassen T und L fallen
 
 1.  Betrieb von Landwirtschaft, Forstwirtschaft, Weinbau, Gartenbau,
     Obstbau, Gemüsebau, Baumschulen, Tierzucht, Tierhaltung, Fischzucht,
-    Teichwirtschaft, Fischerei, Imkerei sowie den Zielen des Natur- und
-    Umweltschutzes dienende Landschaftspflege,
+    Teichwirtschaft, Fischerei, Imkerei, Jagd sowie den Zielen des Natur-
+    und Umweltschutzes dienende Landschaftspflege,
 
 
 2.  Park-, Garten-, Böschungs- und Friedhofspflege,
@@ -626,7 +624,9 @@ sodass dadurch die Eignung ausgeschlossen wird. Bewerber um die
 Fahrerlaubnis der Klasse D oder D1 und der Fahrerlaubnis zur
 Fahrgastbeförderung gemäß § 48 müssen auch die Gewähr dafür bieten,
 dass sie der besonderen Verantwortung bei der Beförderung von
-Fahrgästen gerecht werden.
+Fahrgästen gerecht werden. Der Bewerber hat diese durch die Vorlage
+eines Führungszeugnisses nach § 30 Absatz 5 Satz 1 des
+Bundeszentralregistergesetzes nachzuweisen.
 
 (2) Werden Tatsachen bekannt, die Bedenken gegen die körperliche oder
 geistige Eignung des Fahrerlaubnisbewerbers begründen, kann die
@@ -685,7 +685,7 @@ Absatz 1 und 2 angeordnet werden,
 
 
 5.  bei einer erheblichen Straftat, die im Zusammenhang mit dem
-    Straßenverkehr steht oder bei Straftaten, die im Zusammenhang mit dem
+    Straßenverkehr steht, oder bei Straftaten, die im Zusammenhang mit dem
     Straßenverkehr stehen,
 
 
@@ -936,9 +936,9 @@ Tatsachen die Annahme begründen, dass
 
 1.  Abhängigkeit von Betäubungsmitteln im Sinne des
     Betäubungsmittelgesetzes in der Fassung der Bekanntmachung vom 1. März
-    1994 (BGBl. I S. 358), das zuletzt durch die Verordnung vom 29. Juli
-    2009 (BGBl. I S. 3944) geändert worden ist, in der jeweils geltenden
-    Fassung oder von anderen psychoaktiv wirkenden Stoffen,
+    1994 (BGBl. I S. 358), das zuletzt durch Artikel 1 der Verordnung vom
+    11\. Mai 2011 (BGBl. I S. 821) geändert worden ist, in der jeweils
+    geltenden Fassung oder von anderen psychoaktiv wirkenden Stoffen,
 
 
 2.  Einnahme von Betäubungsmitteln im Sinne des Betäubungsmittelgesetzes
@@ -1022,15 +1022,14 @@ Zweifel an der Identität, darf die Prüfung nicht durchgeführt werden.
 Der Fahrerlaubnisbehörde ist davon Mitteilung zu machen. Der Bewerber
 hat vor der Prüfung dem Sachverständigen oder Prüfer eine
 Ausbildungsbescheinigung nach dem aus Anlage 7.1 zur Fahrschüler-
-Ausbildungsordnung vom 18. August 1998 (BGBl. I S. 2307, 2335), die
-zuletzt durch Artikel 3 der Verordnung vom 18. Juli 2008 (BGBl. I S.
-1338) geändert worden ist, ersichtlichen Muster zu übergeben. Der
-Abschluss der Ausbildung darf nicht länger als zwei Jahre
-zurückliegen. Der Sachverständige oder Prüfer hat die Bescheinigung
-darauf zu überprüfen, ob die in ihr enthaltenen Angaben zum Umfang der
-Ausbildung mindestens dem nach der Fahrschüler-Ausbildungsordnung
-vorgeschriebenen Umfang entsprechen. Ergibt sich dies nicht aus der
-Ausbildungsbescheinigung, darf die Prüfung nicht durchgeführt werden.
+Ausbildungsordnung vom 19. Juni 2012 (BGBl. I S. 1318) ersichtlichen
+Muster zu übergeben. Der Abschluss der Ausbildung darf nicht länger
+als zwei Jahre zurückliegen. Der Sachverständige oder Prüfer hat die
+Bescheinigung darauf zu überprüfen, ob die in ihr enthaltenen Angaben
+zum Umfang der Ausbildung mindestens dem nach der Fahrschüler-
+Ausbildungsordnung vorgeschriebenen Umfang entsprechen. Ergibt sich
+dies nicht aus der Ausbildungsbescheinigung, darf die Prüfung nicht
+durchgeführt werden.
 
 
 #### § 17 Praktische Prüfung
@@ -1103,7 +1102,8 @@ entsprechenden höheren Klasse befähigt ist.
 
 #### § 18 Gemeinsame Vorschriften für die theoretische und die praktische Prüfung
 
-(1) Eine nicht bestandene Prüfung darf nicht vor Ablauf eines
+(1) Bei Täuschungshandlungen gilt die theoretische Prüfung als nicht
+bestanden. Eine nicht bestandene Prüfung darf nicht vor Ablauf eines
 angemessenen Zeitraums (in der Regel nicht weniger als zwei Wochen,
 bei einem Täuschungsversuch mindestens vier Wochen) wiederholt werden.
 
@@ -1256,7 +1256,12 @@ Fahrerlaubnis dieser Klasse aus einem solchen Staat verzichtet.
     B, BE, M, S, L oder T der Nachweis über die Teilnahme an einer
     Unterweisung in lebensrettenden Sofortmaßnahmen, bei einem Antrag auf
     Erteilung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE
-    und oder D1E den Nachweis über die Ausbildung in Erster Hilfe.
+    und oder D1E den Nachweis über die Ausbildung in Erster Hilfe,
+
+
+6.  bei einem Antrag auf Erteilung einer Fahrerlaubnis der Klassen D, D1,
+    DE und D1E ein Führungszeugnis nach § 30 Absatz 5 Satz 1 des
+    Bundeszentralregistergesetzes.
 
 
 
@@ -1550,21 +1555,24 @@ Nummer muss auf dem Internationalen Führerschein vermerkt sein.
 
 (1) Die von den Dienststellen der Bundeswehr, der Bundespolizei und
 der Polizei (§ 73 Absatz 4) erteilten Fahrerlaubnisse berechtigen nur
-zum Führen von Dienstfahrzeugen (Dienstfahrerlaubnisse). Über die
+zum Führen von Dienstfahrzeugen (Dienstfahrerlaubnisse). Bei Erteilung
+der Dienstfahrerlaubnis darf auf die Vorlage des Führungszeugnisses
+nach § 11 Absatz 1 Satz 5 verzichtet werden. Über die
 Dienstfahrerlaubnis der Bundeswehr wird ein Führerschein nach Muster 2
 der Anlage 8, über die der Bundespolizei und der Polizei ein
 Führerschein nach Muster 3 der Anlage 8 ausgefertigt
 (Dienstführerschein). Die Dienstfahrerlaubnis der Bundeswehr wird in
 den aus Muster 2 der Anlage 8 ersichtlichen Klassen erteilt. Der
 Umfang der Berechtigung zum Führen von Dienstfahrzeugen der Bundeswehr
-ergibt sich aus Anlage 10.
+ergibt sich aus Anlage 10. Der Dienstführerschein der Bundeswehr ist
+nur in Verbindung mit dem Dienstausweis gültig.
 
 (2) Der Inhaber der Dienstfahrerlaubnis darf von ihr nur während der
 Dauer des Dienstverhältnisses Gebrauch machen. Bei Beendigung des
 Dienstverhältnisses ist der Dienstführerschein einzuziehen. Wird das
-Dienstverhältnis wieder begründet, ist der Führerschein wieder
-auszuhändigen, sofern die Dienstfahrerlaubnis noch gültig ist. Ist sie
-nicht mehr gültig, kann die Dienstfahrerlaubnis unter den
+Dienstverhältnis wieder begründet, darf ein Dienstführerschein
+ausgehändigt werden, sofern die Dienstfahrerlaubnis noch gültig ist.
+Ist sie nicht mehr gültig, kann die Dienstfahrerlaubnis unter den
 Voraussetzungen des § 24 Absatz 1 neu erteilt werden.
 
 (3) Bei der erstmaligen Beendigung des Dienstverhältnisses nach der
@@ -1701,11 +1709,28 @@ oder EWR-Fahrerlaubnis,
     hatte, oder in dem Staat, in dem sie ihren ordentlichen Wohnsitz
     haben, einem Fahrverbot unterliegen oder der Führerschein nach § 94
     der Strafprozessordnung beschlagnahmt, sichergestellt oder in
-    Verwahrung genommen worden ist oder
+    Verwahrung genommen ist,
 
 
 6.  die zum Zeitpunkt des Erwerbs der ausländischen EU- oder EWR-
-    Fahrerlaubnis Inhaber einer deutschen Fahrerlaubnis waren.
+    Fahrerlaubnis Inhaber einer deutschen Fahrerlaubnis waren,
+
+
+7.  die auf Grund einer Erlaubnis eines Drittstaates zum Führen eines
+    Kraftfahrzeuges, der nicht in der Anlage 11 aufgeführt ist,
+    prüfungsfrei umgetauscht worden ist, oder die auf Grund eines
+    gefälschten Führerscheins eines Drittstaates erteilt wurde, oder
+
+
+8.  die zum Zeitpunkt der Erteilung einer Fahrerlaubnis eines
+    Drittstaates, die in eine ausländische EU- oder EWR-Fahrerlaubnis
+    umgetauscht worden ist, oder zum Zeitpunkt der Erteilung der EU- oder
+    EWR-Fahrerlaubnis auf Grund einer Fahrerlaubnis eines Drittstaates
+    ihren Wohnsitz im Inland hatten, es sei denn, dass sie die
+    ausländische Erlaubnis zum Führen eines Kraftfahrzeuges als
+    Studierende oder Schüler im Sinne des § 7 Absatz 2 in eine
+    ausländische EU- oder EWR-Fahrerlaubnis während eines mindestens
+    sechsmonatigen Aufenthalts umgetauscht haben.
 
 
 
@@ -1768,8 +1793,11 @@ ausländischer Fahrerlaubnisse,
     vorläufig ausgestellten Führerscheins sind,
 
 
-1a. die das nach § 10 Absatz 1 Satz 1 Nummer 3 für die Klassen B und BE
-    vorgeschriebene Mindestalter noch nicht erreicht haben,
+1a. die das nach § 10 Absatz 1 für die Erteilung einer Fahrerlaubnis
+    vorgeschriebene Mindestalter noch nicht erreicht haben und deren
+    Fahrerlaubnis nicht von einem anderen Mitgliedstaat der Europäischen
+    Union oder einem anderen Vertragsstaat des Abkommens über den
+    Europäischen Wirtschaftsraum erteilt worden ist,
 
 
 2.  die zum Zeitpunkt der Erteilung der ausländischen Erlaubnis zum Führen
@@ -1848,6 +1876,11 @@ Kraftfahrzeugen, sind folgende Vorschriften nicht anzuwenden:
 
 
 
+Ist die ausländische Fahrerlaubnis auf das Führen von Kraftfahrzeugen
+ohne Kupplungspedal oder im Falle von Fahrzeugen der Klassen A oder A1
+ohne Schalthebel beschränkt, ist die Fahrerlaubnis auf das Führen
+derartiger Fahrzeuge zu beschränken. § 17 Absatz 6 Satz 2 ist
+entsprechend anzuwenden.
 
 (2) Läuft die Geltungsdauer einer EU- oder EWR-Fahrerlaubnis der
 Klassen A, B oder BE oder einer Unterklasse dieser Klassen, die zum
@@ -1885,6 +1918,23 @@ des Artikels 1 Absatz 1 Buchstabe g des Wiener Übereinkommens vom 24.
 April 1963 über konsularische Beziehungen (BGBl. 1969 II S. 1585) in
 der jeweils geltenden Fassung sowie die zu ihrem Haushalt gehörenden
 Familienmitglieder.
+
+
+#### § 30a Rücktausch von Führerscheinen
+
+(1) Wird ein auf Grund einer deutschen Fahrerlaubnis ausgestellter
+Führerschein in einen Führerschein eines Mitgliedstaates der
+Europäischen Union oder eines anderen Vertragsstaates des Abkommens
+über den Europäischen Wirtschaftsraum umgetauscht, bleibt die
+Fahrerlaubnis unverändert bestehen. Bei einem Rücktausch in einen
+deutschen Führerschein sind in diesem die noch gültigen
+Fahrerlaubnisklassen unverändert zu dokumentieren.
+
+(2) Der Führerschein ist nur gegen Abgabe des ausländischen
+Führerscheins auszuhändigen. Die nach Landesrecht zuständige Behörde
+(Fahrerlaubnisbehörde) sendet den Führerschein unter Angabe der Gründe
+über das Kraftfahrt-Bundesamt an die Behörde zurück, die sie jeweils
+ausgestellt hatte.
 
 
 #### § 31 Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Staat außerhalb des Abkommens über den Europäischen Wirtschaftsraum
@@ -2323,17 +2373,23 @@ Fahrberechtigung oder bei Beschränkungen oder Auflagen sind
 ausländische und im Ausland ausgestellte internationale Führerscheine
 unverzüglich der entscheidenden Behörde vorzulegen; Absatz 1 Satz 2
 gilt entsprechend. Nach einer Entziehung oder der Feststellung der
-fehlenden Fahrberechtigung wird auf dem Führerschein die Ungültigkeit
-der ausländischen Fahrerlaubnis vermerkt. Dies soll in der Regel durch
-die Anbringung eines roten, schräg durchgestrichenen „D“ auf einem
-dafür geeigneten Feld des Führerscheins, im Falle eines EU-
-Kartenführerscheins im Feld 13, und bei internationalen Führerscheinen
-durch Ausfüllung des dafür vorgesehenen Vordrucks erfolgen. Im Falle
-von Beschränkungen oder Auflagen werden diese in den Führerschein
-eingetragen. Die entscheidende Behörde teilt die Aberkennung der
-Fahrberechtigung oder die Feststellung der fehlenden Fahrberechtigung
-in Deutschland der Behörde, die den Führerschein ausgestellt hat, über
-das Kraftfahrt-Bundesamt mit.
+fehlenden Fahrberechtigung wird auf dem Führerschein vermerkt, dass
+von der Fahrerlaubnis im Inland kein Gebrauch gemacht werden darf.
+Dies soll in der Regel durch die Anbringung eines roten, schräg
+durchgestrichenen „D“ auf einem dafür geeigneten Feld des
+Führerscheins, im Falle eines EU-Kartenführerscheins im Feld 13, und
+bei internationalen Führerscheinen durch Ausfüllung des dafür
+vorgesehenen Vordrucks erfolgen. Im Falle von Beschränkungen oder
+Auflagen werden diese in den Führerschein eingetragen. Die
+entscheidende Behörde teilt die Aberkennung der Fahrberechtigung oder
+die Feststellung der fehlenden Fahrberechtigung in Deutschland der
+Behörde, die den Führerschein ausgestellt hat, über das Kraftfahrt-
+Bundesamt mit. Erfolgt die Entziehung durch die erteilende oder eine
+sonstige zuständige ausländische Behörde, sind ausländische und im
+Ausland ausgestellte internationale Führerscheine unverzüglich der
+Fahrerlaubnisbehörde vorzulegen und dort in Verwahrung zu nehmen. Die
+Fahrerlaubnisbehörde sendet die Führerscheine über das Kraftfahrt-
+Bundesamt an die entziehende Stelle zurück.
 
 (3) Ist dem Betroffenen nach § 31 eine deutsche Fahrerlaubnis erteilt
 worden, ist er aber noch im Besitz des ausländischen Führerscheins,
@@ -2389,9 +2445,13 @@ der Bewerber
 
 
 2.  das 21. Lebensjahr – bei Beschränkung der Fahrerlaubnis auf
-    Krankenkraftwagen das 19. Lebensjahr – vollendet hat und die Gewähr
-    dafür bietet, dass er der besonderen Verantwortung bei der Beförderung
-    von Fahrgästen gerecht wird,
+    Krankenkraftwagen das 19. Lebensjahr – vollendet hat,
+
+
+2a. durch Vorlage eines Führungszeugnisses nach § 30 Absatz 5 Satz 1 des
+    Bundeszentralregistergesetzes nachweist, dass er die Gewähr dafür
+    bietet, dass er der besonderen Verantwortung bei der Beförderung von
+    Fahrgästen gerecht wird,
 
 
 3.  seine geistige und körperliche Eignung gemäß § 11 Absatz 9 in
@@ -2765,10 +2825,10 @@ durch Abruf im automatisierten Verfahren
 3.  im Rahmen des § 52 Absatz 2 des Straßenverkehrsgesetzes für Verkehrs-
     und Grenzkontrollen sowie für Straßenkontrollen nur die nach § 49
     Absatz 1 Nummer 1 bis 10 und 13 bis 15 gespeicherten Daten
-    bereitgehalten werden.
 
 
 
+bereitgehalten werden.
 
 (2) Der Abruf darf nur unter Verwendung der Angaben zur Person, der
 Fahrerlaubnisnummer oder der Führerscheinnummer erfolgen.
@@ -3211,10 +3271,11 @@ Straßenverkehrsgesetzes folgende Daten zu speichern:
     mitgeteilt sind,
 
 
-9.  bei einer Versagung, Entziehung oder Aberkennung der Fahrerlaubnis
-    oder einer Feststellung über die fehlende Fahrberechtigung durch eine
-    Fahrerlaubnisbehörde der Grund der Entscheidung und die entsprechende
-    Kennziffer sowie den Tag des Ablaufs der Sperrfrist,
+9.  bei einer Versagung, Entziehung oder Aberkennung des Rechts, von der
+    Fahrerlaubnis im Inland Gebrauch zu machen, oder einer Feststellung
+    über die fehlende Fahrberechtigung durch eine Fahrerlaubnisbehörde der
+    Grund der Entscheidung und die entsprechende Kennziffer sowie den Tag
+    des Ablaufs der Sperrfrist,
 
 
 10. bei einem Verzicht auf die Fahrerlaubnis der Tag des Zugangs der
@@ -4579,7 +4640,8 @@ praktische Ausbildung durchlaufen.
 
 ### Anlage 3 Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
 
-(Fundstelle: BGBl. I 2010, 2018 - 2022)
+(Fundstelle: BGBl. I 2010, 2018 - 2022;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Bei der Umstellung von Fahrerlaubnissen alten Rechts auf die neuen
 Klassen und den Umtausch von Führerscheinen nach den bisherigen
@@ -4666,7 +4728,7 @@ Zulassungs-Ordnung**
 
     *   nach dem 31.12.88
 
-    *[^f774694_40_BJNR198000010BJNE008800000]
+    *[^f774694_40_BJNR198000010BJNE008801308]
    A
         , A1, M, L
 
@@ -4742,7 +4804,7 @@ Zulassungs-Ordnung**
 
     *   nach dem 31.3.80
 
-    *   B, BE, C1, C1E, C, CE, M, S, L
+    *   B, BE, C1, C1E, C, CE, M, S, L, T
 
     *
     *   C 172
@@ -4757,7 +4819,7 @@ Zulassungs-Ordnung**
 
     *   B, BE, C1, C1E, M, S, L
 
-    *[^f774694_41_BJNR198000010BJNE008800000]
+    *[^f774694_41_BJNR198000010BJNE008801308]
    C, CE 79 (L*                        3), T
 
     *   C 172
@@ -5065,7 +5127,7 @@ a) Vor dem 3. Oktober 1990 ausgestellte Führerscheine
 
     *   A, A1, B, BE, C1, C1E, M, S, L
 
-    *[^f774694_42_BJNR198000010BJNE008800000]
+    *[^f774694_42_BJNR198000010BJNE008801308]
    CE 79 (C1E*                      12 000 kg, L*
         3), T
 
@@ -5161,7 +5223,7 @@ a) Vor dem 3. Oktober 1990 ausgestellte Führerscheine
 *    *   D
 
     *
-    *[^f774694_43_BJNR198000010BJNE008800000]
+    *[^f774694_43_BJNR198000010BJNE008801308]
    B, BE, C1, C1E, D1
         , D1E
         3                     ), D
@@ -5391,7 +5453,7 @@ b) Vor dem 1. Juni 1982 ausgestellte Führerscheine
 
 *    *   3
 
-    *   nach dem 31.2.80
+    *   nach dem 31.3.80
 
     *   M, S, L
 
@@ -5405,7 +5467,7 @@ b) Vor dem 1. Juni 1982 ausgestellte Führerscheine
 
     *   A, A1, B, BE, C1, C1E, M, S, L
 
-    *[^f774694_44_BJNR198000010BJNE008800000]
+    *[^f774694_44_BJNR198000010BJNE008801308]
    CE 79 (C1E*                      12 000 kg, L*
         3), T
 
@@ -5520,7 +5582,7 @@ c) Vor dem 1. April 1957 ausgestellte Führerscheine
     *
     *   A, A1, B, BE, C1, C1E, M, S, L
 
-    *[^f774694_45_BJNR198000010BJNE008800000]
+    *[^f774694_45_BJNR198000010BJNE008801308]
    CE 79 (C1E*                      12.000 kg, L*
         3), T
 
@@ -5638,7 +5700,7 @@ d) Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 
 *    *   A1
 
-    *[^f774694_46_BJNR198000010BJNE008800000]
+    *[^f774694_46_BJNR198000010BJNE008801308]
    A
         , A1, M, L
 
@@ -5663,7 +5725,7 @@ d) Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 
     *   B, BE, C1, C1E, M, S, L
 
-    *[^f774694_47_BJNR198000010BJNE008800000]
+    *[^f774694_47_BJNR198000010BJNE008801308]
    CE 79 (C1E*                      12 000 kg, L*
         3), T
 
@@ -5680,7 +5742,7 @@ d) Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 
 *    *   C nach dem 30.9.1995 erteilt
 
-    *   B, BE, C1, C1E, C, M, S, L, T
+    *   B, BE, C1, C1E, C, M, S, L
 
     *   CE 79 (C1E*                      12 000 kg, L*
         3), T
@@ -5696,7 +5758,7 @@ d) Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
     *
     *
 
-*    *   D nach dem 20.9.1988 erteilt
+*    *   D nach dem 30.9.1988 erteilt
 
     *   D1, D1E, D, DE, S
 
@@ -5724,14 +5786,14 @@ d) Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 
 
     § 6 Absatz 2 Satz 1 findet Anwendung
-[^f774694_40_BJNR198000010BJNE008800000]:     nur für in der Land- oder Forstwirtschaft tätige Personen
-[^f774694_41_BJNR198000010BJNE008800000]:     nur für in der Land- oder Forstwirtschaft tätige Personen
-[^f774694_42_BJNR198000010BJNE008800000]:     wenn Fahrerlaubnis zur Fahrgastbeförderung in Kraftomnibussen
-[^f774694_43_BJNR198000010BJNE008800000]:     nur für in der Land- oder Forstwirtschaft tätige Personen
-[^f774694_44_BJNR198000010BJNE008800000]:     nur für in der Land- oder Forstwirtschaft tätige Personen
-[^f774694_45_BJNR198000010BJNE008800000]:     § 6 Absatz 2 Satz 1 findet Anwendung.
-[^f774694_46_BJNR198000010BJNE008800000]:     nur für in der Land- oder Forstwirtschaft tätige Personen.
-[^f774694_47_BJNR198000010BJNE008800000]: 
+[^f774694_40_BJNR198000010BJNE008801308]:     nur für in der Land- oder Forstwirtschaft tätige Personen
+[^f774694_41_BJNR198000010BJNE008801308]:     nur für in der Land- oder Forstwirtschaft tätige Personen
+[^f774694_42_BJNR198000010BJNE008801308]:     wenn Fahrerlaubnis zur Fahrgastbeförderung in Kraftomnibussen
+[^f774694_43_BJNR198000010BJNE008801308]:     nur für in der Land- oder Forstwirtschaft tätige Personen
+[^f774694_44_BJNR198000010BJNE008801308]:     nur für in der Land- oder Forstwirtschaft tätige Personen
+[^f774694_45_BJNR198000010BJNE008801308]:     § 6 Absatz 2 Satz 1 findet Anwendung.
+[^f774694_46_BJNR198000010BJNE008801308]:     nur für in der Land- oder Forstwirtschaft tätige Personen.
+[^f774694_47_BJNR198000010BJNE008801308]: 
 (zu den §§ 11, 13 und 14)
 
 ### Anlage 4 Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
@@ -6238,7 +6300,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Kreislaufabhängige Störungen der Hirntätigkeit
 
     *   ja
-        nach erfolgreicher Therapie und Abklingen des akuten Ergebnisses ohne
+        nach erfolgreicher Therapie und Abklingen des akuten Ereignisses ohne
         Rückfallgefahr
 
     *   nein
@@ -7129,10 +7191,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Goldmann mit mindestens vier Prüfmarken (z. B. III/4, I/4, I/2 und
     I/1) an jeweils mindestens zwölf Orten pro Prüfmarke erfolgen.
 
-    Normales **Stereosehen**                   , geprüft mit einem
-    geeigneten Test (z. B. Random-Dot-Teste). Ausreichendes Kontrast- oder
+    **Stereosehen**                   , geprüft mit einem geeigneten Test
+    (z. B. Random-Dot-Teste). Ausreichendes Kontrast- oder
     Dämmerungssehen, geprüft mit einem standardisierten anerkannten
-    Prüfgerät.
+    Prüfverfahren.
 
 
 2.2 Augenärztliche Untersuchung
@@ -7145,7 +7207,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     ist eine zusätzliche augenärztliche Untersuchung entbehrlich, wenn das
     Farbensehen bereits Gegenstand einer früheren augenärztlichen
     Untersuchung war und hierbei die Anforderungen bei nicht normalem
-    Farbensehen nach den Nummern 2.2.2 und 3.2 erfüllt wurden.
+    Farbensehen nach den Nummern 2.2.2 und 3 laufende Nummer 2 erfüllt
+    wurden.
 
     Über die nach Satz 1 erforderliche Untersuchung ist ein Zeugnis gemäß
     dem Muster dieser Anlage zu erstellen. Es müssen folgende
@@ -7178,12 +7241,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **Gesichtsfeld:**
     Normales Gesichtsfeld beider Augen, wenigstens normales binokulares
     Gesichtsfeld mit einem horizontalen Durchmesser von mindestens 140
-    Grad, insbesondere muss das zentrale Gesichtsfeld bis 30 Grad frei von
-    relevanten Ausfällen sein. Insgesamt sollte das Gesichtsfeld jedes
-    Auges an mindestens 100 Orten geprüft werden. Ergeben sich unklare
-    Defekte oder steht nicht zweifelsfrei fest, dass die
-    Mindestanforderungen erfüllt werden, so hat eine Nachprüfung an einem
-    manuellen Perimeter nach Goldmann mit der Marke III/4 zu erfolgen.
+    Grad, insbesondere muss das zentrale Gesichtsfeld bis 30 Grad normal
+    sein. Insgesamt sollte das Gesichtsfeld jedes Auges an mindestens 100
+    Orten geprüft werden. Ergeben sich unklare Defekte oder steht nicht
+    zweifelsfrei fest, dass die Mindestanforderungen erfüllt werden, so
+    hat eine Nachprüfung an einem manuellen Perimeter nach Goldmann mit
+    der Marke III/4 zu erfolgen.
 
     **Beweglichkeit:**
     Ausschluss bei Doppeltsehen im Gebrauchsblickfeld (d. h. 25 Grad
@@ -7194,6 +7257,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Farbensehen: Bei Rotblindheit oder Rotschwäche mit einem
     Anomalquotienten unter 0,5 ist eine Aufklärung des Betroffenen über
     die mögliche Gefährdung erforderlich.
+
+    **Kontrast- oder Dämmerungssehen, Blendempfindlichkeit:**
+    Ausreichendes **Kontrast- oder Dämmerungssehen**
+    geprüft mit einem standardisierten anerkannten Prüfverfahren
+    einschließlich Prüfung der **Blendempfindlichkeit**
+    .
 
 
 2.3 Nach einer neu eingetretenen relevanten Einschränkung des Sehvermögens
@@ -7248,7 +7317,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *            *   Bei Bewerbern um die
 
-            *[^f774694_71_BJNR198000010BJNE009101308]
+            *[^f774694_71_BJNR198000010BJNE009103666]
    Klassen 1, 1a, 1b, 3, 4, 5
 
             *   Klasse 2
@@ -7259,7 +7328,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *            *   Bei Beidäugigkeit
 
-            *[^f774694_72_BJNR198000010BJNE009101308]
+            *[^f774694_72_BJNR198000010BJNE009103666]
    0,5/0,2
 
             *   0,7/0,5
@@ -7267,7 +7336,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   1,0/0,7
 
 
-        *            *[^f774694_70_BJNR198000010BJNE009101308]
+        *            *[^f774694_70_BJNR198000010BJNE009103666]
    Bei Einäugigkeit
 
             *   0,7
@@ -7300,14 +7369,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   0,4/0,2
 
-            *[^f774694_74_BJNR198000010BJNE009101308]
+            *[^f774694_74_BJNR198000010BJNE009103666]
    0,7/0,2
 
-            *[^f774694_75_BJNR198000010BJNE009101308]
+            *[^f774694_75_BJNR198000010BJNE009103666]
    0,7/0,5
 
 
-        *            *[^f774694_73_BJNR198000010BJNE009101308]
+        *            *[^f774694_73_BJNR198000010BJNE009103666]
    Bei Einäugigkeit
 
             *   0,6
@@ -7363,7 +7432,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   normales Gesichtsfeld eines Auges oder gleichwertiges beidäugiges
                 Gesichtsfeld
 
-            *[^f774694_76_BJNR198000010BJNE009101308]
+            *[^f774694_76_BJNR198000010BJNE009103666]
    normale Gesichtsfelder beider Augen
 
 
@@ -7386,7 +7455,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   keine Anforderungen
 
-            *[^f774694_77_BJNR198000010BJNE009101308]
+            *[^f774694_77_BJNR198000010BJNE009103666]
    normales Stereosehen
 
 
@@ -7431,7 +7500,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Muster
 
 Bescheinigung über die ärztliche Untersuchung
-## (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)
+## **(Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
 der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur
@@ -7440,7 +7509,7 @@ Personenkraftwagen im Linienverkehr oder bei gewerbsmäßigen
 Ausflugsfahrten oder Ferienziel-Reisen nach § 12 Absatz 6 und § 48
 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
-– Vorderseite –
+## – Vorderseite –
 
 **Teil 1**              (verbleibt beim Arzt)
 
@@ -7454,72 +7523,62 @@ Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **2.** **Personalien des Bewerbers**
 
-    *        *   Familienname, Vornamen: ........................................
+    *        *   Familienname, Vornamen: ..........
 
-        *
 
-    *        *   Tag der Geburt: ........................................
+    *        *   Tag der Geburt: ..........
 
-        *
 
-    *        *   Ort der Geburt: ........................................
+    *        *   Ort der Geburt: ..........
 
-        *
 
-    *        *   Wohnort: ........................................
+    *        *   Wohnort: ..........
 
-        *
 
-    *        *   Straße/Hausnummer: ........................................
+    *        *   Straße/Hausnummer: ..........
 
-        *
+
+    *        *   Nummer des Personalausweises: ..........
 
 
 
 
-**3.**
-    *        *   **Untersuchungsbefund vom**
-            ........................................
 
-        *
-        *
+**3.** **Untersuchungsbefund vom**                   ..........
 
-    *        *   Zentrale Tagessehschärfe nach DIN 58220
-            ........................................
+    *        *   Zentrale Tagessehschärfe nach DIN 58220 ..........
 
-        *
 
-    *        *   Farbensehen ........................................
+    *        *   Farbensehen ..........
 
-        *
 
-    *        *   Gesichtsfeld ........................................
+    *        *   Gesichtsfeld ..........
 
-        *
 
-    *        *   Stereosehen ........................................
+    *        *   Stereosehen ..........
 
-        *
+
+    *        *   Kontrast- oder Dämmerungssehen ..........
 
 
 
 
 
 
-   Aufgrund der oben angeführten Untersuchung wurden die Anforderungen
+
+Aufgrund der oben angeführten Untersuchung wurden die Anforderungen
 nach Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung
 
-□ erreicht, ohne Sehhilfe
-□ erreicht, mit Sehhilfe
-□ nicht erreicht
+*              erreicht, ohne Sehhilfe
+*              erreicht, mit Sehhilfe
+*              nicht erreicht
 
 Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der
 Fahrerlaubnis-Verordnung ist erforderlich:
 
+*    *   *                        ja
 
-*    *   □ ja
-
-    *   □ nein
+    *   *                        nein
 
 
 
@@ -7531,7 +7590,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 **Anlage 6**
 (zu den §§ 12, 48 Absatz 4 und 5)
 
-### **Anforderungen an das Sehvermögen**
+## **Anforderungen an das Sehvermögen**
 
 
 1.  Klassen A, A1, B, BE, M, S, L und T
@@ -7553,7 +7612,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
     folgende Mindestanforderungen erfüllt sein:
 
 
-1.2.1 Zentrale Tagesehschärfe:
+1.2.1 Zentrale Tagessehschärfe:
     Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert
     werden. Dabei dürfen folgende Sehschärfenwerte nicht unterschritten
     werden:
@@ -7581,7 +7640,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
 1.3 Die Erteilung der Fahrerlaubnis darf in Ausnahmefällen in Betracht
     gezogen werden, wenn die Anforderungen an das Gesichtsfeld oder die
-    Sehschärfe nicht erfüllt werden. In diesen Fällen sollte der
+    Sehschärfe nicht erfüllt werden. In diesen Fällen muss der
     Fahrzeugführer einer augenärztlichen Begutachtung unterzogen werden,
     um sicherzustellen, dass keine anderen Störungen von Sehfunktionen
     vorliegen. Dabei müssen auch Kontrastsehen oder Dämmerungssehen und
@@ -7614,7 +7673,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
     Zusatzbezeichnung „Betriebsmedizin“, einen Arzt bei einer
     Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes
     oder einen anderen Arzt der öffentlichen Verwaltung.
-    Über die Untersuchung ist eine Bescheinigung gemäß dem Muster dieser
+    Über die Untersuchung ist eine Bescheinigung nach dem Muster dieser
     Anlage zu erstellen.
 
 
@@ -7632,18 +7691,18 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 2.1.2 Übrige Sehfunktionen
     Normales **Farbensehen**                    (geprüft mit einem
     geeigneten Test, beispielsweise Tafeln nach Ishihara oder Velhagen).
-    Normales **Gesichtsfeld**                   , geprüft mit einem
+    Normales **Gesichtsfeld,**                    geprüft mit einem
     automatischen Halbkugelperimeter, das mit einer überschwelligen
     Prüfmethodik das Gesichtsfeld bis 70 Grad nach beiden Seiten und bis
     30 Grad nach oben und unten untersucht. Insgesamt sollte das
     Gesichtsfeld jedes Auges an mindestens 100 Orten geprüft werden.
     Alternativ kann eine Prüfung mit einem manuellen Perimeter nach
-    Goldmann mit mindestens vier Prüfmarken (z. B. III/4, I/4, I/2, I/1)
-    an jeweils mindestens zwölf Orten pro Prüfmarke erfolgen.
-    Normales **Stereosehen**                   , geprüft mit einem
-    geeigneten Test (z. B. Random-Dot-Teste).
-    Ausreichendes Kontrast- oder Dämmerungssehen, geprüft mit einem
-    standardisierten anerkannten Prüfgerät.
+    Goldmann mit mindestens vier Prüfmarken (z. B. III/4, I/4, I/2 und
+    I/1) an jeweils mindestens zwölf Orten pro Prüfmarke erfolgen.
+    **Stereosehen**                   , geprüft mit einem geeigneten Test
+    (z. B. Random-Dot-Teste).
+    Ausreichendes **Kontrast- oder Dämmerungssehen**
+    geprüft mit einem standardisierten anerkannten Prüfverfahren.
 
 
 2.2 Augenärztliche Untersuchung
@@ -7654,16 +7713,16 @@ Fahrerlaubnis-Verordnung ist erforderlich:
     ist eine zusätzliche augenärztliche Untersuchung entbehrlich, wenn das
     Farbensehen bereits Gegenstand einer früheren augenärztlichen
     Untersuchung war und hierbei die Anforderungen bei nicht normalem
-    Farbensehen nach den Nummern 2.2.2 und 3.2 erfüllt wurden. Über die
-    nach Satz 1 erforderliche Untersuchung ist ein Zeugnis gemäß dem
-    Muster dieser Anlage zu erstellen.
+    Farbensehen nach den Nummern 2.2.2 und 3 laufende Nummer 2 erfüllt
+    wurden. Über die nach Satz 1 erforderliche Untersuchung ist ein
+    Zeugnis nach dem Muster dieser Anlage zu erstellen.
     Es müssen folgende Mindestanforderungen erfüllt sein:
 
 
 2.2.1 Zentrale Tagessehschärfe
     Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert
     werden.
-    Dabei dürfen folgende Werte nicht überschritten werden:
+    Dabei dürfen folgende Sehschärfenwerte nicht unterschritten werden:
     Sehschärfe des besseren Auges oder beidäugige Sehschärfe: 0,8,
     Sehschärfe des schlechteren Auges: 0,5.
     Werden diese Werte nur mit Korrektur erreicht, soll die Sehschärfe
@@ -7672,22 +7731,22 @@ Fahrerlaubnis-Verordnung ist erforderlich:
     Äquivalent) ist nicht zulässig; dies gilt nicht für intraokulare
     Linsen oder Kontaktlinsen.
     In Einzelfällen kann unter Berücksichtigung von Fahrerfahrung und
-    Fahrzeugnutzung der Visus des schlechteren Auges für de Klassen C, CE,
-    C1, C1E unter 0,5 liegen, ein
-    Wett                   von 0,1 darf nicht unterschritten werden. Ein
-    augenärztliches Gutachten ist in diesen Fällen erforderlich.
+    Fahrzeugnutzung der Visus des schlechteren Auges für die Klassen C,
+    CE, C1, C1E unter 0,5 liegen, ein Wert von 0,1 darf nicht
+    unterschritten werden. Ein augenärztliches Gutachten ist in diesen
+    Fällen erforderlich.
 
 
 2.2.2 Übrige Sehfunktionen
     **Gesichtsfeld:**                    Normales Gesichtsfeld beider
     Augen, wenigstens normales binokulares Gesichtsfeld mit einem
     horizontalen Durchmesser von mindestens 140 Grad, insbesondere muss
-    das zentrale Gesichtsfeld bis 30 Grad frei von relevanten Ausfällen
-    sein. Insgesamt sollte das Gesichtsfeld jedes Auges an mindestens 100
-    Orten geprüft werden. Ergeben sich unklare Defekte oder steht nicht
-    zweifelsfrei fest, dass die Mindestanforderungen erfüllt werden, so
-    hat eine Nachprüfung an einem manuellen Perimeter nach Goldmann mit
-    der Marke III/4 zu erfolgen.
+    das zentrale Gesichtsfeld bis 30 Grad normal sein. Insgesamt sollte
+    das Gesichtsfeld jedes Auges an mindestens 100 Orten geprüft werden.
+    Ergeben sich unklare Defekte oder steht nicht zweifelsfrei fest, dass
+    die Mindestanforderungen erfüllt werden, so hat eine Nachprüfung an
+    einem manuellen Perimeter nach Goldmann mit der Marke III/4 zu
+    erfolgen.
     **Beweglichkeit:**                    Ausschluss bei Doppeltsehen im
     Gebrauchsblickfeld (d. h. 25 Grad Aufblick, 30 Grad Rechts- und
     Linksblick, 40 Grad Abblick). Ausschluss bei Schielen ohne konstantes
@@ -7695,6 +7754,10 @@ Fahrerlaubnis-Verordnung ist erforderlich:
     **Farbensehen:**                    Bei Rotblindheit oder Rotschwäche
     mit einem Anomalquotienten unter 0,5 ist eine Aufklärung des
     Betroffenen über die mögliche Gefährdung erforderlich.
+    **Kontrast- oder Dämmerungssehen, Blendempfindlichkeit:**
+    Ausreichendes **Kontrast- oder Dämmerungssehen**
+    geprüft mit einem standardisierten anerkannten Prüfverfahren
+    einschließlich Prüfung der **Blendempfindlichkeit**
 
 
 2.3 Nach einer neu eingetretenen relevanten Einschränkung des Sehvermögens
@@ -7715,6 +7778,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
     Dezember 1998 geltenden Fassung):
 
     1   **Sehtest**
+
         Der Sehtest (§ 9a Absatz 1) ist bestanden, wenn die zentrale
         Tagessehschärfe mit oder ohne Sehhilfen mindestens beträgt:
 
@@ -7748,18 +7812,18 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
         *            *   Bei Bewerbern um die
 
-            *[^f774856_87_BJNR198000010BJNE009101308]
+            *[^F777412_03_BJNR198000010BJNE009103666]
    Klassen 1, 1a, 1b, 3, 4, 5
 
             *   Klasse 2
 
-            *   Fahrerlaubnis
-                zur Fahrgastbeförderung
+            *   Fahrerlaubnis zur
+                Fahrgastbeförderung
 
 
         *            *   Bei Beidäugigkeit
 
-            *[^f774856_88_BJNR198000010BJNE009101308]
+            *[^F777412_04_BJNR198000010BJNE009103666]
    0,5/0,2
 
             *   0,7/0,5
@@ -7767,7 +7831,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
             *   1,0/0,7
 
 
-        *            *[^f774856_86_BJNR198000010BJNE009101308]
+        *            *[^F777412_111_BJNR198000010BJNE009103666]
    Bei Einäugigkeit
 
             *   0,7
@@ -7778,6 +7842,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
 
 
+[^F777412_222_BJNR198000010BJNE009103666]
 
 
     2.1.3 Für Inhaber einer Fahrerlaubnis reichen abweichend von der Tabelle
@@ -7800,14 +7865,14 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
             *   0,4/0,2
 
-            *[^f774856_90_BJNR198000010BJNE009101308]
+            *[^F777412_06_BJNR198000010BJNE009103666]
    0,7/0,2
 
-            *[^f774856_91_BJNR198000010BJNE009101308]
+            *[^F777412_07_BJNR198000010BJNE009103666]
    0,7/0,5
 
 
-        *            *[^f774856_89_BJNR198000010BJNE009101308]
+        *            *[^F777412_05_BJNR198000010BJNE009103666]
    Bei Einäugigkeit
 
             *   0,6
@@ -7850,7 +7915,8 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
 
     2.2.1
-        *            *   Bei Bewerbern und Inhabern der
+        *            *   Bei Bewerbern
+                und Inhabern der
 
             *   Klassen 1, 1a, 1b, 3, 4, 5
 
@@ -7863,7 +7929,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
             *   normales Gesichtsfeld eines Auges oder gleichwertiges beidäugiges
                 Gesichtsfeld
 
-            *[^f774856_92_BJNR198000010BJNE009101308]
+            *[^F777412_08_BJNR198000010BJNE009103666]
    normale Gesichtsfelder beider Augen
 
 
@@ -7886,7 +7952,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
             *   keine Anforderungen
 
-            *[^f774856_93_BJNR198000010BJNE009101308]
+            *[^F777412_09_BJNR198000010BJNE009103666]
    normales Stereosehen
 
 
@@ -7895,17 +7961,10 @@ Fahrerlaubnis-Verordnung ist erforderlich:
             *   keine Anforderungen
 
             *   Rotblindheit oder Rotschwäche mit einem Anomalquotienten unter 0,5
-
-                –   bei Fahrerlaubnis zur Fahrgast-
-                    beförderung: unzulässig
-
-
-                –   bei Klasse 2:
-                    Aufklärung des Betroffenen über die durch die Störung des Farbensehens
-                    mögliche Gefährdung ausreichend
-
-
-
+                – bei Fahrerlaubnis zur Fahrgastbeförderung: unzulässig
+                – bei Klasse 2:
+                Aufklärung des Betroffenen über die durch die Störung des Farbensehens
+                mögliche Gefährdung ausreichend
 
 
 
@@ -7928,7 +7987,7 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 ## Muster
 
 Bescheinigung über die ärztliche Untersuchung
-## (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)
+## **(Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
 der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur
@@ -7944,64 +8003,58 @@ Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer
 Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der
 öffentlichen Verwaltung, Anschrift
 
-*    *   Familienname, Vornamen des Bewerbers:
-        ........................................
+*    *   Familienname, Vornamen des Bewerbers: ..........
 
-    *
 
-*    *   Tag der Geburt: ........................................
+*    *   Tag der Geburt: ..........
 
-    *
 
-*    *   Ort der Geburt: ........................................
+*    *   Ort der Geburt: ..........
 
-    *
 
-*    *   Wohnort: ........................................
+*    *   Wohnort: ..........
 
-    *
 
-*    *   Straße/Hausnummer: ........................................
+*    *   Straße/Hausnummer: ..........
 
-    *
 
-*    *   Untersuchungsbefund vom ........................................ über
+*    *   Nummer des Personalausweises: ..........
 
-    *
 
-*    *   — Zentrale Tagessehschärfe nach DIN 58220
-        ........................................
+*    *   Untersuchungsbefund vom .......... über
 
-    *
 
-*    *   — Farbensehen ........................................
+*    *   – Zentrale Tagessehschärfe nach DIN 58220
 
-    *
 
-*    *   — Gesichtsfeld ........................................
+*    *   – Farbensehen
 
-    *
 
-*    *   — Stereosehen ........................................
+*    *   – Kontrast- oder Dämmerungssehen
 
-    *
+
+*    *   – Gesichtsfeld
+
+
+*    *   – Stereosehen
 
 
 
-   Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in
+
+Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in
 Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung geforderten
 Anforderungen
 
-□ erreicht, ohne Sehhilfe
-□ erreicht, mit Sehhilfe
-□ nicht erreicht
+*              erreicht, ohne Sehhilfe
+*              erreicht, mit Sehhilfe
+*              nicht erreicht
 
 Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der
 Fahrerlaubnis-Verordnung ist erforderlich:
 
-*    *   □ ja
+*    *   *                        ja
 
-    *   □ nein
+    *   *                        nein
 
 
 
@@ -8010,10 +8063,11 @@ Das Zeugnis ist zwei Jahre gültig.
 
 Die Identität des Untersuchten wurde geprüft.
 
-*    *   ............................... , den
+
+*    *   .........., den
 
     *
-    *   ........................................
+    *   ..........
         Stempel und Unterschrift des Arztes
         mit den oben stehenden beruflichen Angaben
 
@@ -8023,7 +8077,7 @@ Die Identität des Untersuchten wurde geprüft.
 ## Muster
 
 Zeugnis über die augenärztliche Untersuchung
-## (Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)
+## **(Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
 der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur
@@ -8032,7 +8086,7 @@ Personenkraftwagen im Linienverkehr oder bei gewerbsmäßigen
 Ausflugsfahrten oder Ferienziel-Reisen nach § 12 Absatz 6 und § 48
 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
-– Vorderseite –
+## – Vorderseite –
 
 **Teil 1**              (verbleibt beim Arzt)
 
@@ -8041,69 +8095,57 @@ Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **2.** **Personalien des Bewerbers**
 
-    *        *   Familienname, Vornamen: ........................................
+    *        *   Familienname, Vornamen: ..........
 
-        *
 
-    *        *   Tag der Geburt: ........................................
+    *        *   Tag der Geburt: ..........
 
-        *
 
-    *        *   Ort der Geburt: ........................................
+    *        *   Ort der Geburt: ..........
 
-        *
 
-    *        *   Wohnort: ........................................
+    *        *   Wohnort: ..........
 
-        *
 
-    *        *   Straße/Hausnummer: ........................................
+    *        *   Straße/Hausnummer: ..........
 
-        *
+
+    *        *   Nummer des Personalausweises: ..........
 
 
 
 
-**3.**
-    *        *   **Untersuchungsbefund vom**
-            ........................................
 
-        *
-        *
+**3.** **Untersuchungsbefund vom**                    ..........
 
-    *        *   Zentrale Tagessehschärfe nach DIN 58220
-            ........................................
+    *        *   Zentrale Tagessehschärfe nach DIN 58220 ..........
 
-        *
 
-    *        *   Farbensehen ........................................
+    *        *   Farbensehen ..........
 
-        *
 
-    *        *   Gesichtsfeld ........................................
+    *        *   Gesichtsfeld ..........
 
-        *
 
-    *        *   Stereosehen ........................................
+    *        *   Stereosehen ..........
 
-        *
+
+    *        *   Kontrast- oder Dämmerungssehen ..........
 
 
 
 
 
 
-   Aufgrund der oben angeführten Untersuchung wurden die Anforderungen
+Aufgrund der oben angeführten Untersuchung wurden die Anforderungen
 nach Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung
-
-□ erreicht, ohne Sehhilfe
-□ erreicht, mit Sehhilfe
-□ nicht erreicht
+*              erreicht, ohne Sehhilfe
+*              erreicht, mit Sehhilfe
+*              nicht erreicht
 
 Auflagen/Beschränkungen erforderlich:
-
-□ nein
-□ ja, **
+*              nein
+*              ja **
 
 ## – Rückseite –
 
@@ -8112,7 +8154,7 @@ Auflagen/Beschränkungen erforderlich:
 **Anlage 6**
 (zu den §§ 12, 48 Absatz 4 und 5)
 
-### **Anforderungen an das Sehvermögen**
+## **Anforderungen an das Sehvermögen**
 
 
 1.  Klassen A, A1, B, BE, M, S, L und T
@@ -8134,7 +8176,7 @@ Auflagen/Beschränkungen erforderlich:
     folgende Mindestanforderungen erfüllt sein:
 
 
-1.2.1 Zentrale Tagesehschärfe:
+1.2.1 Zentrale Tagessehschärfe:
     Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert
     werden. Dabei dürfen folgende Sehschärfenwerte nicht unterschritten
     werden:
@@ -8162,7 +8204,7 @@ Auflagen/Beschränkungen erforderlich:
 
 1.3 Die Erteilung der Fahrerlaubnis darf in Ausnahmefällen in Betracht
     gezogen werden, wenn die Anforderungen an das Gesichtsfeld oder die
-    Sehschärfe nicht erfüllt werden. In diesen Fällen sollte der
+    Sehschärfe nicht erfüllt werden. In diesen Fällen muss der
     Fahrzeugführer einer augenärztlichen Begutachtung unterzogen werden,
     um sicherzustellen, dass keine anderen Störungen von Sehfunktionen
     vorliegen. Dabei müssen auch Kontrastsehen oder Dämmerungssehen und
@@ -8219,12 +8261,12 @@ Auflagen/Beschränkungen erforderlich:
     30 Grad nach oben und unten untersucht. Insgesamt sollte das
     Gesichtsfeld jedes Auges an mindestens 100 Orten geprüft werden.
     Alternativ kann eine Prüfung mit einem manuellen Perimeter nach
-    Goldmann mit mindestens vier Prüfmarken (z. B. III/4, I/4, I/2, I/1)
-    an jeweils mindestens zwölf Orten pro Prüfmarke erfolgen.
-    Normales **Stereosehen**                   , geprüft mit einem
-    geeigneten Test (z. B. Random-Dot-Teste).
-    Ausreichendes Kontrast- oder Dämmerungssehen, geprüft mit einem
-    standardisierten anerkannten Prüfgerät.
+    Goldmann mit mindestens vier Prüfmarken (z. B. III/4, I/4, I/2 und
+    I/1) an jeweils mindestens zwölf Orten pro Prüfmarke erfolgen.
+    **Stereosehen**                   , geprüft mit einem geeigneten Test
+    (z. B. Random-Dot-Teste).
+    Ausreichendes **Kontrast- oder Dämmerungssehen**
+    geprüft mit einem standardisierten anerkannten Prüfverfahren.
 
 
 2.2 Augenärztliche Untersuchung
@@ -8235,16 +8277,16 @@ Auflagen/Beschränkungen erforderlich:
     ist eine zusätzliche augenärztliche Untersuchung entbehrlich, wenn das
     Farbensehen bereits Gegenstand einer früheren augenärztlichen
     Untersuchung war und hierbei die Anforderungen bei nicht normalem
-    Farbensehen nach den Nummern 2.2.2 und 3.2 erfüllt wurden. Über die
-    nach Satz 1 erforderliche Untersuchung ist ein Zeugnis gemäß dem
-    Muster dieser Anlage zu erstellen.
+    Farbensehen nach den Nummern 2.2.2 und 3 laufende Nummer 2 erfüllt
+    wurden. Über die nach Satz 1 erforderliche Untersuchung ist ein
+    Zeugnis nach dem Muster dieser Anlage zu erstellen.
     Es müssen folgende Mindestanforderungen erfüllt sein:
 
 
 2.2.1 Zentrale Tagessehschärfe
     Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert
     werden.
-    Dabei dürfen folgende Werte nicht überschritten werden:
+    Dabei dürfen folgende Sehschärfenwerte nicht unterschritten werden:
     Sehschärfe des besseren Auges oder beidäugige Sehschärfe: 0,8,
     Sehschärfe des schlechteren Auges: 0,5.
     Werden diese Werte nur mit Korrektur erreicht, soll die Sehschärfe
@@ -8253,22 +8295,22 @@ Auflagen/Beschränkungen erforderlich:
     Äquivalent) ist nicht zulässig; dies gilt nicht für intraokulare
     Linsen oder Kontaktlinsen.
     In Einzelfällen kann unter Berücksichtigung von Fahrerfahrung und
-    Fahrzeugnutzung der Visus des schlechteren Auges für de Klassen C, CE,
-    C1, C1E unter 0,5 liegen, ein
-    Wett                   von 0,1 darf nicht unterschritten werden. Ein
-    augenärztliches Gutachten ist in diesen Fällen erforderlich.
+    Fahrzeugnutzung der Visus des schlechteren Auges für die Klassen C,
+    CE, C1, C1E unter 0,5 liegen, ein Wert von 0,1 darf nicht
+    unterschritten werden. Ein augenärztliches Gutachten ist in diesen
+    Fällen erforderlich.
 
 
 2.2.2 Übrige Sehfunktionen
     **Gesichtsfeld:**                    Normales Gesichtsfeld beider
     Augen, wenigstens normales binokulares Gesichtsfeld mit einem
     horizontalen Durchmesser von mindestens 140 Grad, insbesondere muss
-    das zentrale Gesichtsfeld bis 30 Grad frei von relevanten Ausfällen
-    sein. Insgesamt sollte das Gesichtsfeld jedes Auges an mindestens 100
-    Orten geprüft werden. Ergeben sich unklare Defekte oder steht nicht
-    zweifelsfrei fest, dass die Mindestanforderungen erfüllt werden, so
-    hat eine Nachprüfung an einem manuellen Perimeter nach Goldmann mit
-    der Marke III/4 zu erfolgen.
+    das zentrale Gesichtsfeld bis 30 Grad normal sein. Insgesamt sollte
+    das Gesichtsfeld jedes Auges an mindestens 100 Orten geprüft werden.
+    Ergeben sich unklare Defekte oder steht nicht zweifelsfrei fest, dass
+    die Mindestanforderungen erfüllt werden, so hat eine Nachprüfung an
+    einem manuellen Perimeter nach Goldmann mit der Marke III/4 zu
+    erfolgen.
     **Beweglichkeit:**                    Ausschluss bei Doppeltsehen im
     Gebrauchsblickfeld (d. h. 25 Grad Aufblick, 30 Grad Rechts- und
     Linksblick, 40 Grad Abblick). Ausschluss bei Schielen ohne konstantes
@@ -8276,6 +8318,11 @@ Auflagen/Beschränkungen erforderlich:
     **Farbensehen:**                    Bei Rotblindheit oder Rotschwäche
     mit einem Anomalquotienten unter 0,5 ist eine Aufklärung des
     Betroffenen über die mögliche Gefährdung erforderlich.
+    **Kontrast- oder Dämmerungssehen, Blendempfindlichkeit:**
+    Ausreichendes **Kontrast- oder Dämmerungssehen**
+    geprüft mit einem standardisierten anerkannten Prüfverfahren
+    einschließlich Prüfung der **Blendempfindlichkeit**
+    .
 
 
 2.3 Nach einer neu eingetretenen relevanten Einschränkung des Sehvermögens
@@ -8329,7 +8376,8 @@ Auflagen/Beschränkungen erforderlich:
 
         *            *   Bei Bewerbern um die
 
-            *   Klassen 1, 1a, 1b, 3, 4, 5
+            *[^F777412_11_BJNR198000010BJNE009103666]
+   Klassen 1, 1a, 1b, 3, 4, 5
 
             *   Klasse 2
 
@@ -8339,14 +8387,16 @@ Auflagen/Beschränkungen erforderlich:
 
         *            *   Bei Beidäugigkeit
 
-            *   0,5/0,2
+            *[^F777412_12_BJNR198000010BJNE009103666]
+   0,5/0,2
 
             *   0,7/0,5
 
             *   1,0/0,7
 
 
-        *            *   Bei Einäugigkeit
+        *            *[^F777412_10_BJNR198000010BJNE009103666]
+   Bei Einäugigkeit
 
             *   0,7
 
@@ -8378,12 +8428,15 @@ Auflagen/Beschränkungen erforderlich:
 
             *   0,4/0,2
 
-            *   0,7/0,2
+            *[^F777412_14_BJNR198000010BJNE009103666]
+   0,7/0,2
 
-            *   0,7/0,5
+            *[^F777412_15_BJNR198000010BJNE009103666]
+   0,7/0,5
 
 
-        *            *   Bei Einäugigkeit
+        *            *[^F777412_13_BJNR198000010BJNE009103666]
+   Bei Einäugigkeit
 
             *   0,6
 
@@ -8425,7 +8478,8 @@ Auflagen/Beschränkungen erforderlich:
 
 
     2.2.1
-        *            *   Bei Bewerbern und Inhabern der
+        *            *   Bei Bewerbern
+                und Inhabern der
 
             *   Klassen 1, 1a, 1b, 3, 4, 5
 
@@ -8438,7 +8492,8 @@ Auflagen/Beschränkungen erforderlich:
             *   normales Gesichtsfeld eines Auges oder gleichwertiges beidäugiges
                 Gesichtsfeld
 
-            *   normale Gesichtsfelder beider Augen
+            *[^F777412_16_BJNR198000010BJNE009103666]
+   normale Gesichtsfelder beider Augen
 
 
         *            *   Beweglichkeit
@@ -8460,7 +8515,8 @@ Auflagen/Beschränkungen erforderlich:
 
             *   keine Anforderungen
 
-            *   normales Stereosehen
+            *[^F777412_17_BJNR198000010BJNE009103666]
+   normales Stereosehen
 
 
         *            *   Farbensehen
@@ -8468,14 +8524,10 @@ Auflagen/Beschränkungen erforderlich:
             *   keine Anforderungen
 
             *   Rotblindheit oder Rotschwäche mit einem Anomalquotienten unter 0,5
-
-                –   bei Fahrerlaubnis zur Fahrgast-
-                    beförderung: unzulässig
-
-
-                –   bei Klasse 2:
-                    Aufklärung des Betroffenen über die durch die Störung des Farbensehens
-                    mögliche Gefährdung ausreichend
+                – bei Fahrerlaubnis zur Fahrgastbeförderung: unzulässig
+                – bei Klasse 2:
+                Aufklärung des Betroffenen über die durch die Störung des Farbensehens
+                mögliche Gefährdung ausreichend
 
 
 
@@ -8484,16 +8536,13 @@ Auflagen/Beschränkungen erforderlich:
 
 
 
-    2.2.2 Wenn wegen Zweifeln an ausreichendem Sehvermögen eine augenärztliche
-        Begutachtung stattfindet, sollte die Untersuchung auch die
-        Dämmerungssehschärfe und die Blendungsempfindlichkeit umfassen. Werden
-        dabei Mängel festgestellt, so ist der Betroffene auf die Gefahren
-        durch geminderte Dämmerungssehschärfe und erhöhte
-        Blendungsempfindlichkeit beim Fahren in der Dämmerung und in der Nacht
-        hinzuweisen.
-
-
-
+2.2.2 Wenn wegen Zweifeln an ausreichendem Sehvermögen eine augenärztliche
+    Begutachtung stattfindet, sollte die Untersuchung auch die
+    Dämmerungssehschärfe und die Blendungsempfindlichkeit umfassen. Werden
+    dabei Mängel festgestellt, so ist der Betroffene auf die Gefahren
+    durch geminderte Dämmerungssehschärfe und erhöhte
+    Blendungsempfindlichkeit beim Fahren in der Dämmerung und in der Nacht
+    hinzuweisen.
 
 
 
@@ -8501,7 +8550,7 @@ Auflagen/Beschränkungen erforderlich:
 ## Muster
 
 Zeugnis über die augenärztliche Untersuchung
-## (Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)
+## **(Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
 der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur
@@ -8514,73 +8563,64 @@ Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **Name des Augenarztes, Anschrift**
 
-*    *   Familienname, Vornamen des Bewerbers:
-        ........................................
+*    *   Familienname, Vornamen des Bewerbers: ..........
 
-    *
 
-*    *   Tag der Geburt: ........................................
+*    *   Tag der Geburt: ..........
 
-    *
 
-*    *   Ort der Geburt: ........................................
+*    *   Ort der Geburt: ..........
 
-    *
 
-*    *   Wohnort: ........................................
+*    *   Wohnort: ..........
 
-    *
 
-*    *   Straße/Hausnummer: ........................................
+*    *   Straße/Hausnummer: ..........
 
-    *
 
-*    *   **Untersuchungsbefund vom**
-        ........................................ über
+*    *   Nummer des Personalausweises: ..........
 
-    *
 
-*    *   — Zentrale Tagessehschärfe nach DIN 58220
-        ........................................
+*    *   **Untersuchungsbefund vom**                       .......... über
 
-    *
 
-*    *   — Farbensehen ........................................
+*    *   – Zentrale Tagessehschärfe nach DIN 58220
 
-    *
 
-*    *   — Gesichtsfeld ........................................
+*    *   – Farbensehen
 
-    *
 
-*    *   — Stereosehen ........................................
+*    *   – Gesichtsfeld
 
-    *
+
+*    *   – Stereosehen
+
+
+*    *   – Kontrast- oder Dämmerungssehen
 
 
 
-   Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in
+
+Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in
 Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung geforderten
 Anforderungen
-
-□ erreicht, ohne Sehhilfe
-□ erreicht, mit Sehhilfe
-□ nicht erreicht
+*              erreicht, ohne Sehhilfe
+*              erreicht, mit Sehhilfe
+*              nicht erreicht
 
 Auflagen/Beschränkungen erforderlich
-
-□ nein
-
-□ ja, **
+*              nein
+*              ja, **
 
 Das Zeugnis ist 2 Jahre gültig.
 
 Die Identität des Untersuchten wurde geprüft.
 
-*    *   ...................... , den
+
+*    *   .......... , den
 
     *
-    *   ........................................
+    *   ..........
         Stempel und Unterschrift des Augenarztes
 
 
@@ -8588,64 +8628,107 @@ Die Identität des Untersuchten wurde geprüft.
 
     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
     als 0,2 besitzt.
-[^f774694_70_BJNR198000010BJNE009101308]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
+[^f774694_70_BJNR198000010BJNE009103666]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
     besseren Auge eine Sehschärfe von 0,3, wenn die Fahrerlaubnis auf
     Krankenfahrstühle beschränkt wird; Fußnote 3 gilt entsprechend.
-[^f774694_71_BJNR198000010BJNE009101308]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
+[^f774694_71_BJNR198000010BJNE009103666]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
     feststeht, dass das Wahrnehmungsvermögen des Bewerbers trotz
     verminderten Sehvermögens zum sicheren Führen eines Kraftfahrzeugs der
     beantragten Klasse noch ausreicht.
-[^f774694_72_BJNR198000010BJNE009101308]:     siehe Fußnote 1 bei 2.1.2
-[^f774694_73_BJNR198000010BJNE009101308]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
+[^f774694_72_BJNR198000010BJNE009103666]:     siehe Fußnote 1 bei 2.1.2
+[^f774694_73_BJNR198000010BJNE009103666]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
     unter 0,5 auf dem schlechteren Auge erforderlich.
-[^f774694_74_BJNR198000010BJNE009101308]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
+[^f774694_74_BJNR198000010BJNE009103666]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
     zulässig bei Beschränkung der Fahrerlaubnis zur Fahrgastbeförderung
     auf Taxen und Mietwagen.
-[^f774694_75_BJNR198000010BJNE009101308]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
+[^f774694_75_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
     Klassen 1, 1a, 1b, 3, 4, 5.
-[^f774694_76_BJNR198000010BJNE009101308]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
-[^f774694_77_BJNR198000010BJNE009101308]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
+[^f774694_76_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
+[^f774694_77_BJNR198000010BJNE009103666]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
     als 0,2 besitzt.
-[^f774694_86_BJNR198000010BJNE009101308]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
+[^f774694_86_BJNR198000010BJNE009103666]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
     besseren Auge eine Sehschärfe von 0,3, wenn die Fahrerlaubnis auf
     Krankenfahrstühle beschränkt wird; Fußnote 3 gilt entsprechend.
-[^f774694_87_BJNR198000010BJNE009101308]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
+[^f774694_87_BJNR198000010BJNE009103666]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
     feststeht, dass das Wahrnehmungsvermögen des Bewerbers trotz
     verminderten Sehvermögens zum sicheren Führen eines Kraftfahrzeugs der
     beantragten Klasse noch ausreicht.
-[^f774694_88_BJNR198000010BJNE009101308]:     siehe Fußnote 1 bei 2.1.2
-[^f774694_89_BJNR198000010BJNE009101308]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
+[^f774694_88_BJNR198000010BJNE009103666]:     siehe Fußnote 1 bei 2.1.2
+[^f774694_89_BJNR198000010BJNE009103666]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
     unter 0,5 auf dem schlechteren Auge erforderlich.
-[^f774694_90_BJNR198000010BJNE009101308]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
+[^f774694_90_BJNR198000010BJNE009103666]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
     zulässig bei Beschränkung der Fahrerlaubnis zur Fahrgastbeförderung
     auf Taxen und Mietwagen.
-[^f774694_91_BJNR198000010BJNE009101308]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
+[^f774694_91_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
     Klassen 1, 1a, 1b, 3, 4, 5.
-[^f774694_92_BJNR198000010BJNE009101308]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
-[^f774694_93_BJNR198000010BJNE009101308]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
+[^f774694_92_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
+[^f774694_93_BJNR198000010BJNE009103666]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
     als 0,2 besitzt.
-[^f774856_86_BJNR198000010BJNE009101308]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
+[^f774856_86_BJNR198000010BJNE009103666]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
     besseren Auge eine Sehschärfe von 0,3, wenn die Fahrerlaubnis auf
     Krankenfahrstühle beschränkt wird; Fußnote 3 gilt entsprechend.
-[^f774856_87_BJNR198000010BJNE009101308]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
+[^f774856_87_BJNR198000010BJNE009103666]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
     feststeht, dass das Wahrnehmungsvermögen des Bewerbers trotz
     verminderten Sehvermögens zum sicheren Führen eines Kraftfahrzeugs der
     beantragten Klasse noch ausreicht.
-[^f774856_88_BJNR198000010BJNE009101308]:     siehe Fußnote 1 bei 2.1.2
-[^f774856_89_BJNR198000010BJNE009101308]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
+[^f774856_88_BJNR198000010BJNE009103666]:     siehe Fußnote 1 bei 2.1.2
+[^f774856_89_BJNR198000010BJNE009103666]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
     unter 0,5 auf dem schlechteren Auge erforderlich.
-[^f774856_90_BJNR198000010BJNE009101308]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
+[^f774856_90_BJNR198000010BJNE009103666]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
     zulässig bei Beschränkung der Fahrerlaubnis zur Fahrgastbeförderung
     auf Taxen und Mietwagen.
-[^f774856_91_BJNR198000010BJNE009101308]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
+[^f774856_91_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
     Klassen 1, 1a, 1b, 3, 4, 5.
-[^f774856_92_BJNR198000010BJNE009101308]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
-[^f774856_93_BJNR198000010BJNE009101308]: 
+[^f774856_92_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
+[^f774856_93_BJNR198000010BJNE009103666]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/126/EG des
+    Europäischen Parlaments und des Rates vom 20. Dezember 2006 über den
+    Führerschein (ABl. L 403 vom 30.12.2006, S. 18) und der Richtlinie
+    2011/94/EU der Kommission vom 28. November 2011 zur Änderung der
+    Richtlinie 2006/126/EG des Europäischen Parlaments und des Rates über
+    den Führerschein (ABl. L 314 vom 29.11.2011, S. 31).
+[^F777412_111_BJNR198000010BJNE009103666]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
+    als 0,2 besitzt.
+[^F777412_222_BJNR198000010BJNE009103666]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
+    besseren Auge eine Sehschärfe von 0,3, wenn die Fahrerlaubnis auf
+    Krankenfahrstühle beschränkt wird; Fußnote 3 gilt entsprechend.
+[^F777412_03_BJNR198000010BJNE009103666]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
+    feststeht, dass das Wahrnehmungsvermögen des Bewerbers trotz
+    verminderten Sehvermögens zum sicheren Führen eines Kraftfahrzeugs der
+    beantragten Klasse noch ausreicht.
+[^F777412_04_BJNR198000010BJNE009103666]:     siehe Fußnote 1 bei 2.1.2
+[^F777412_05_BJNR198000010BJNE009103666]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
+    unter 0,5 auf dem schlechteren Auge erforderlich.
+[^F777412_06_BJNR198000010BJNE009103666]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
+    zulässig bei Beschränkung der Fahrerlaubnis zur Fahrgastbeförderung
+    auf Taxen und Mietwagen.
+[^F777412_07_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
+    Klassen 1, 1a, 1b, 3, 4, 5.
+[^F777412_08_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
+[^F777412_09_BJNR198000010BJNE009103666]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
+    als 0,2 besitzt.
+[^F777412_10_BJNR198000010BJNE009103666]:     Bei Bewerbern um eine Fahrerlaubnis der Klasse 5 genügt auf dem
+    besseren Auge eine Sehschärfe von 0,3, wenn die Fahrerlaubnis auf
+    Krankenfahrstühle beschränkt wird; Fußnote 3 gilt entsprechend.
+[^F777412_11_BJNR198000010BJNE009103666]:     Eine Sehschärfe von 0,5 auf dem besseren Auge genügt nur dann, wenn
+    feststeht, dass das Wahrnehmungsvermögen des Bewerbers trotz
+    verminderten Sehvermögens zum sicheren Führen eines Kraftfahrzeugs der
+    beantragten Klasse noch ausreicht.
+[^F777412_12_BJNR198000010BJNE009103666]:     siehe Fußnote 1 bei 2.1.2
+[^F777412_13_BJNR198000010BJNE009103666]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
+    unter 0,5 auf dem schlechteren Auge erforderlich.
+[^F777412_14_BJNR198000010BJNE009103666]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
+    zulässig bei Beschränkung der Fahrerlaubnis zur Fahrgastbeförderung
+    auf Taxen und Mietwagen.
+[^F777412_15_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
+    Klassen 1, 1a, 1b, 3, 4, 5.
+[^F777412_16_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
+[^F777412_17_BJNR198000010BJNE009103666]: 
 (zu § 16 Absatz 2, § 17 Absatz 2 und 3)
 
 ### Anlage 7 Fahrerlaubnisprüfung
 
-(Fundstelle: BGBl. I 2010, 2045 - 2056; )
+(Fundstelle: BGBl. I 2010, 2045 - 2056;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  **Theoretische Prüfung**
@@ -8886,7 +8969,8 @@ Die Identität des Untersuchten wurde geprüft.
 *   Der Prüfungsstoff bildet die Grundlage für den Fragenkatalog. Der
     Fragenkatalog wird vom Bundesministerium für Verkehr, Bau und
     Stadtentwicklung im Einvernehmen mit den zuständigen obersten
-    Landesbehörden in der jeweils geltenden Fassung im Verkehrsblatt als
+    Landesbehörden in der jeweils geltenden Fassung im Verkehrsblatt oder
+    bei Fragen mit bewegten Situationsdarstellungen im Bundesanzeiger als
     Richtlinie bekannt gemacht.
 
 
@@ -8935,7 +9019,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *[^Fn776494_7_01_BJNR198000010BJNE009201308]
+        *[^Fn776494_7_01_BJNR198000010BJNE009203308]
    10
 
 
@@ -8945,7 +9029,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *   10\*)
+        *   10
 
 
     *        *   B
@@ -8954,7 +9038,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *   10\*)
+        *   10
 
 
     *        *   M
@@ -8963,7 +9047,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *   10\*)
+        *   10
 
 
     *        *   S
@@ -8972,7 +9056,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *   10\*)
+        *   10
 
 
     *        *   L
@@ -8981,7 +9065,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *   10\*)
+        *   10
 
 
     *        *   T
@@ -8990,7 +9074,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   110
 
-        *   10\*)
+        *   10
 
 
     *        *   Mofa
@@ -8999,7 +9083,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   69
 
-        *   7\*)
+        *   7
 
 
 
@@ -9024,8 +9108,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *[^Fn774694_7_02_BJNR198000010BJNE009201308]
-   6
+        *   6
 
 
     *        *   A1
@@ -9034,7 +9117,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *   6\*)
+        *   6
 
 
     *        *   B
@@ -9043,7 +9126,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *   6\*)
+        *   6
 
 
     *        *   M
@@ -9052,7 +9135,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *   6\*)
+        *   6
 
 
     *        *   S
@@ -9061,7 +9144,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *   6\*)
+        *   6
 
 
     *        *   L
@@ -9070,7 +9153,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *   6\*)
+        *   6
 
 
     *        *   T
@@ -9079,7 +9162,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   72
 
-        *   6\*)
+        *   6
 
 
     *        *   C
@@ -9088,7 +9171,8 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   128
 
-        *   10\*)
+        *[^Fn774694_7_02_BJNR198000010BJNE009203308]
+   10
 
 
     *        *   CE
@@ -9097,7 +9181,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   105
 
-        *   10\*)
+        *   10
 
 
     *        *   C1
@@ -9106,7 +9190,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   105
 
-        *   10\*)
+        *   10
 
 
     *        *   D
@@ -9115,7 +9199,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   138
 
-        *   10\*)
+        *   10
 
 
     *        *   D1
@@ -9124,7 +9208,7 @@ Die Identität des Untersuchten wurde geprüft.
 
         *   121
 
-        *   10\*)
+        *   10
 
 
 
@@ -9151,11 +9235,11 @@ Die Identität des Untersuchten wurde geprüft.
 
     Die theoretische Prüfung ist in deutscher Sprache abzulegen und
     erfolgt anhand von Fragen. Für Bewerber, die nicht ausreichend lesen
-    oder schreiben können, besteht über Kopfhörer die Möglichkeit der
-    Audio-Unterstützung in deutscher Sprache.
-
-    Bei Prüfung von Gehörlosen ist ein Gehörlosen-Dolmetscher zuzulassen.
-
+    oder schreiben können, besteht auf Antrag über Kopfhörer die
+    Möglichkeit der Audio-Unterstützung. Der Nachweis hat gegenüber der
+    Fahrerlaubnisbehörde insbesondere durch die Bescheinigung eines Arztes
+    oder durch die Schule zu erfolgen. Bei Prüfung von Gehörlosen ist ein
+    Gehörlosen-Dolmetscher zuzulassen.
     Abweichend von Satz 1 kann die Prüfung auch in folgenden Fremdsprachen
     abgelegt werden:
 
@@ -9385,8 +9469,8 @@ Die Identität des Untersuchten wurde geprüft.
     –   Rückwärtsfahren um eine Ecke nach links
 
 
-    –   zusätzlich bei Klasse C1E
 
+    Zusätzlich bei Klasse C1E
 
     –   Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen
 
@@ -9394,7 +9478,6 @@ Die Identität des Untersuchten wurde geprüft.
 
 
     Summe der zu fahrenden Grundfahraufgaben bei Klasse C1E: zwei
-
     Summe der zu fahrenden Grundfahraufgaben bei Klassen BE, DE und D1E:
     eine
 
@@ -9486,7 +9569,8 @@ Die Identität des Untersuchten wurde geprüft.
 
 2.2 Prüfungsfahrzeuge
 
-    Als Prüfungsfahrzeuge sind zu verwenden:
+    Für die Klassen B, C1, C, D1 und D sind nur linksgelenkte Fahrzeuge
+    zulässig. Als Prüfungsfahrzeuge sind zu verwenden:
 
 
 2.2.1 Für Klasse A ohne Leistungsbeschränkung bei direktem Zugang:
@@ -9974,7 +10058,7 @@ Die Identität des Untersuchten wurde geprüft.
 
 2.3 Prüfungsdauer und Mindestfahrzeit
 
-[^Fn774694_7_03_BJNR198000010BJNE009201308]
+[^Fn774694_7_03_BJNR198000010BJNE009203308]
     Die Prüfungsdauer und die reine Fahrzeit
     betragen mindestens
 
@@ -10188,17 +10272,17 @@ Die Identität des Untersuchten wurde geprüft.
 
 
 
-[^Fn776494_7_01_BJNR198000010BJNE009201308]:     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
+[^Fn776494_7_01_BJNR198000010BJNE009203308]:     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
     Einzelheiten siehe Anlage 1 Nummer 3.2.1, 3.6, 3.7.1 und 3.7.2 zur
     Prüfungsrichtlinie.
-[^Fn774694_7_02_BJNR198000010BJNE009201308]:     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
+[^Fn774694_7_02_BJNR198000010BJNE009203308]:     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
     Einzelheiten siehe Anlage 1 Nummer 3.2.2 bis 3.5, 3.7.1 und 3.7.2 zur
     Prüfungsrichtlinie.
     Fahrzeit ohne Grundfahraufgaben, ohne
     Sicherheits-/Abfahrtkontrolle/Handfertigkeiten, ohne Verbinden und
     Trennen und ohne Vor- und Nachbereitung (z. B. Bekanntgabe des
     Ergebnisses).
-[^Fn774694_7_03_BJNR198000010BJNE009201308]: 
+[^Fn774694_7_03_BJNR198000010BJNE009203308]: 
 (zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3)
 
 ### Anlage 8 Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung
@@ -10789,14 +10873,15 @@ einer zulässigen Gesamtmasse von mehr als 7,5 t.
 Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der
 Achsen.
 
-79 (S1*              25/7 500 kg)
 
-Begrenzung der Klassen D und DE auf Kraftomnibusse mit 24
-Fahrgastplätzen oder maximal 7 500 kg zulässiger Gesamtmasse, auch mit
-Anhänger. Die Angabe S1 steht in dieser Schlüsselung für die Anzahl
-der Sitzplätze, einschließlich Fahrersitz. Die Angabe S1 steht in
-dieser Schlüsselung für die Anzahl der Sitzplätze, einschließlich
-Fahrersitz.
+79 (S1* 25/7 500 kg)
+    Begrenzung der Klassen D und DE auf Kraftomnibusse mit 24
+    Fahrgastplätzen oder maximal 7 500 kg zulässiger Gesamtmasse, auch mit
+    Anhänger. Die Angabe S1 steht in dieser Schlüsselung für die Anzahl
+    der Sitzplätze, einschließlich dem Fahrersitz.
+
+
+
 
 79 (L*              3)
 
@@ -10846,7 +10931,8 @@ b) nationale Schlüsselzahlen
     des Ausbildungsverhältnisses
 
 
-177 Klasse L, auch gültig im Umfang der mitzuführenden Ausnahmegenehmigung
+177 Beschränkungen, Nebenbestimmungen und Zusatzangaben nach
+    mitzuführendem Anhang zum Führerschein
 
 
 178 Auflage zur Klasse D oder D1: Nur Fahrten im Linienverkehr
@@ -10913,7 +10999,7 @@ b) nationale Schlüsselzahlen
             einer solchen Atem- oder Blutalkoholkonzentration führt und
 
 
-        c)  nicht unter der Wirkung einer in der Anlage zu § 24a des
+        c)  nicht unter der Wirkung eines in der Anlage zu § 24a des
             Straßenverkehrsgesetzes genannten berauschenden Mittels steht. Nummer
             2 Buchstabe c gilt nicht, wenn die Substanz aus der bestimmungsgemäßen
             Einnahme eines für einen konkreten Krankheitsfall verschriebenen
@@ -11176,13 +11262,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *[^bjnr198000010bjne010201308_16_BJNR198000010BJNE010201308]
-   Namibia
+*    *   Namibia
+        16)
 
-    *[^bjnr198000010bjne010201308_17_BJNR198000010BJNE010201308]
-   A1, A, B, EB, C1
-        , EC1, C
-        , EC
+    *   A1, A, B, EB, C1
+        17                       ), EC1, C
+        17                       ), EC
 
     *   nein
 
@@ -11200,18 +11285,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Neuseeland
 
-    *[^f774694_14_11_BJNR198000010BJNE010201308]
-   1, 6
+    *   1, 6
+        10                       )
 
-    *   ja
+    *   nein
 
     *   nein
 
 
 *    *   Republik Korea
 
-    *[^f774694_14_2_BJNR198000010BJNE010201308]
-   1, 2
+    *   1, 2
+        1                       )
 
     *   nein
 
@@ -11255,21 +11340,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Fahrerlaubnisse, die im tatsächlichen Herrschafts-
-[^f774694_14_3_BJNR198000010BJNE010201308]
         bereich der Behörden in Taiwan
-        erteilt wurden
+        2                       ) erteilt wurden
 
     *   B/BE
-        1
+        1                       )
 
     *   nein
 
     *   ja
 
 
-*    *[^bjnr198000010bjne010201308_11_BJNR198000010BJNE010201308]
-   Fahrerlaubnisse aus den Australischen Territorien
-        **:**
+*    *   Fahrerlaubnisse aus den Australischen Territorien
+        11 **):**
 
     *
     *
@@ -11277,12 +11360,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Australian Capital Territory
 
-    *[^bjnr198000010bjne010201308_12_BJNR198000010BJNE010201308]
-   C
-        , R
+    *   C
+        12                       ), R
+        12                       )
 
-    *[^f774694_14_8_BJNR198000010BJNE010201308]
-   nein
+    *   nein
+        7                       )
 
     *   nein
 
@@ -11292,6 +11375,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   C, R
 
     *   nein
+        7                       )
 
     *   nein
 
@@ -11299,20 +11383,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Northern Territory
 
     *   C
-        , R
+        12                       ), R
+        12                       )
 
     *   nein
+        7                       )
 
     *   nein
 
 
 *    *   – Queensland
 
-    *[^bjnr198000010bjne010201308_13_BJNR198000010BJNE010201308]
-   C
-        , R
+    *   C
+        13                       ), R
+        13                       )
 
     *   nein
+        7                       )
 
     *   nein
 
@@ -11320,7 +11407,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – South Australia
 
     *   C
-        , R
+        13                       ), R
+        13                       )
 
     *   nein
 
@@ -11330,7 +11418,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Tasmania
 
     *   C
-        , R
+        13                       ), R
+        13                       )
 
     *   nein
 
@@ -11339,9 +11428,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Victoria
 
-    *[^bjnr198000010bjne010201308_14_BJNR198000010BJNE010201308]
-   C
-        , CAR, R
+    *   C
+        14                       ), CAR, R
+        14                       )
 
     *   nein
 
@@ -11351,9 +11440,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Western Australia
 
     *   C
-        , R
+        12                       ), R
 
     *   nein
+        7                       )
 
     *   nein
 
@@ -11459,9 +11549,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Indiana
 
     *   Operator License,
-[^f774694_14_4_BJNR198000010BJNE010201308]
         Chauffeur License
-        ,
+        3                       ),
         Public Passenger Chauffeur License
         3                       ),
         Commercial Driver License,
@@ -11469,6 +11558,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Operator´s License
 
     *   ja
+        7                       )
 
     *   nein
 
@@ -11476,9 +11566,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Iowa
 
     *   C (Noncommercial Operator´s
-[^f774694_14_5_BJNR198000010BJNE010201308]
         License)
-        ,
+        4                       ),
         A (Commercial
         Driver´s License)
         3                       ),
@@ -11519,6 +11608,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Louisiana
 
     *   E
+
+    *   nein
+
+    *   nein
+
+
+*    *   – Maryland
+
+    *   C (Full License und
+        Provisional License)
 
     *   nein
 
@@ -11619,6 +11718,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Oregon
 
     *   C
+        7                       )
 
     *   ja
 
@@ -11672,12 +11772,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Texas
 
-    *[^bjnr198000010bjne010201308_15_BJNR198000010BJNE010201308]
-   C
-        , A
-        , B
+    *   C
+        15                       ), A
+        3                       ), B
+        3                       )
 
     *   nein
+        7                       )
 
     *   nein
 
@@ -11693,9 +11794,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Virginia
 
-    *[^f774694_14_6_BJNR198000010BJNE010201308]
-   NONE, M
-        , A
+    *   NONE, M
+        5                       ), A
         3                       ), B
         3                       ), C
         3                       )
@@ -11707,10 +11807,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Washington State
 
-    *[^f774694_14_9_BJNR198000010BJNE010201308]
-   Driver License
-[^f774694_14_10_BJNR198000010BJNE010201308]
+    *   Driver License
+        8                       )
         Intermediate Driver License
+        9                       )
 
     *   nein
 
@@ -11744,7 +11844,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *   Pkw-Fahrerlaubnisse der Kanadischen Provinzen
+*    *   Fahrerlaubnisse der Kanadischen Provinzen
         1 **):**
 
     *
@@ -11762,8 +11862,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – British Columbia
 
-    *[^f774694_14_7_BJNR198000010BJNE010201308]
-   5, 7 (Novice Driver´s License)
+    *   5, 6, 7 (Novice Driver´s Licence)
+        7                       )
+        10                       )
 
     *   nein
 
@@ -11772,12 +11873,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Manitoba
 
-    *   5, 4 Stage F
+    *   5
+        6                       ), 4 Stage F
+        3                       ), 3 Stage F
         3                       ),
-        3 Stage F
-        3                       ), 2 Stage F
-        3                       ),
-        1 Stage F
+        2 Stage F
+        3                       ), 1 Stage F
         3                       )
 
     *   nein
@@ -11868,53 +11969,91 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    Soweit in der Spalte „(Klasse(n)“ nicht „alle“, sondern nur eine
-    bestimmte Klasse oder bestimmte Klassen genannt sind, erfolgt auf
-    Grund dieser Klasse(n) nur die Erteilung der Klasse B.
-[^f774694_14_2_BJNR198000010BJNE010201308]:     Deutschland unterhält keine diplomatischen Beziehungen zu Taiwan.
-[^f774694_14_3_BJNR198000010BJNE010201308]:     Beinhaltet Pkw-Klasse.
-[^f774694_14_4_BJNR198000010BJNE010201308]:     In den Fällen, in denen die Klasse C mit Restriction Code 2 versehen
-    ist, ist eine prüfungsfreie Erteilung einer deutschen Fahrerlaubnis
-    nicht möglich (Lernführerschein).
-[^f774694_14_5_BJNR198000010BJNE010201308]:     In den Fällen, in denen die Klasse M mit Code 6 versehen ist, ist eine
-    prüfungsfreie Erteilung einer deutschen Fahrerlaubnis nicht möglich
-    (nur Motorradführerschein).
-[^f774694_14_6_BJNR198000010BJNE010201308]:     In den Fällen, in denen eine Klasse 5 Stage L oder Stage A vorliegt,
-    ist eine prüfungsfreie Erteilung einer deutschen Fahrerlaubnis nicht
-    möglich (Lernführerschein).
-[^f774694_14_7_BJNR198000010BJNE010201308]:     Der Nachweis des Sehvermögens gemäß § 12 ist weiterhin erforderlich.
-[^f774694_14_8_BJNR198000010BJNE010201308]:     Sofern die „Driver License“ keinen Hinweis auf spezielle Fahrzeuge
-    enthält, handelt es sich um eine Pkw-Fahrerlaubnis.
-[^f774694_14_9_BJNR198000010BJNE010201308]:     Nur für Inhaber, die das 18. Lebensjahr vollendet haben. Kein Umtausch
-    einer „Instruction Permit“.
-[^f774694_14_10_BJNR198000010BJNE010201308]:     Die Umschreibung der Klasse 6 erfolgt in eine deutsche Fahrerlaubnis
-    der Klasse A beschränkt, sofern der Inhaber das 25. Lebensjahr noch
-    nicht vollendet hat. Im Übrigen wird die Fahrerlaubnis der Klasse A
-    unbeschränkt erteilt.
-[^f774694_14_11_BJNR198000010BJNE010201308]:     Amtl. Anm.: Die australische Klasse C und CAR (Victoria) entspricht
-    der deutschen Klasse B und die australische Klasse R der deutschen
-    Klasse A.
-[^bjnr198000010bjne010201308_11_BJNR198000010BJNE010201308]:     Amtl. Anm.: Auch „Provisional Licence“. Kein Umtausch einer „Learner
-    Licence“.
-[^bjnr198000010bjne010201308_12_BJNR198000010BJNE010201308]:     Amtl. Anm.: Auch „Provisional Licence P2“. Kein Umtausch einer
+1)  Amtliche Anmerkung: Soweit in der Spalte „Klasse(n)“ nicht „alle“,
+    sondern nur eine bestimmte Klasse oder bestimmte Klassen genannt sind,
+    erfolgt aufgrund dieser Klasse(n) nur die Erteilung der Klasse B.
+
+
+2)  Amtliche Anmerkung: Deutschland unterhält keine diplomatischen
+    Beziehungen zu Taiwan.
+
+
+3)  Amtliche Anmerkung: Beinhaltet Pkw-Klasse.
+
+
+4)  Amtliche Anmerkung: In den Fällen, in denen die Klasse C mit
+    Restriction Code 2 versehen ist, ist eine prüfungsfreie Erteilung
+    einer deutschen Fahrerlaubnis nicht möglich (Lernführerschein).
+
+
+5)  Amtliche Anmerkung: In den Fällen, in denen die Klasse M mit Code 6
+    versehen ist, ist eine prüfungsfreie Erteilung einer deutschen
+    Fahrerlaubnis nicht möglich (nur Motorradführerschein).
+
+
+6)  Amtliche Anmerkung: In den Fällen, in denen eine Klasse 5 Stage L oder
+    Stage A vorliegt, ist eine prüfungsfreie Erteilung einer deutschen
+    Fahrerlaubnis nicht möglich (Lernführerschein).
+
+
+7)  Amtliche Anmerkung: Der Nachweis des Sehvermögens gemäß § 12 ist
+    weiterhin erforderlich.
+
+
+8)  Amtliche Anmerkung: Sofern die „Driver License“ keinen Hinweis auf
+    spezielle Fahrzeuge enthält, handelt es sich um eine Pkw-
+    Fahrerlaubnis.
+
+
+9)  Amtliche Anmerkung: Nur für Inhaber, die das 18. Lebensjahr vollendet
+    haben. Kein Umtausch einer „Instruction Permit“.
+
+
+10) Amtliche Anmerkung: Die Umschreibung der Klasse 6 erfolgt in eine
+    deutsche Fahrerlaubnis der Klasse A beschränkt, sofern der Inhaber das
+    25\. Lebensjahr noch nicht vollendet hat. Im Übrigen wird die
+    Fahrerlaubnis der Klasse A unbeschränkt erteilt.
+
+
+11) Amtliche Anmerkung: Die australische Klasse C und CAR (Victoria)
+    entspricht der deutschen Klasse B und die australische Klasse R der
+    deutschen Klasse A.
+
+
+12) Amtliche Anmerkung: Auch „Provisional Licence“. Kein Umtausch einer
+    „Learner Licence“.
+
+
+13) Amtliche Anmerkung: Auch „Provisional Licence P2“. Kein Umtausch einer
     „Learner Permit“ bzw. „Learner Licence“.
-[^bjnr198000010bjne010201308_13_BJNR198000010BJNE010201308]:     Amtl. Anm.: Auch „Probationary Licence P2“. Kein Umtausch einer
-    „Learner Permit“.
-[^bjnr198000010bjne010201308_14_BJNR198000010BJNE010201308]:     Amtl. Anm.: Auch „Provisional License“. Kein Umtausch einer
-    Instruction Permit“.
-[^bjnr198000010bjne010201308_15_BJNR198000010BJNE010201308]:     Amtl. Anm.: Voraussetzung ist, dass das Erteilungsdatum der
-    namibischen Fahrerlaubnis mindestes zwei Jahre vor Antragstellung
+
+
+14) Amtliche Anmerkung: Auch „Probationary Licence P2“. Kein Umtausch
+    einer „Learner Permit“.
+
+
+15) Amtliche Anmerkung: Auch „Provisional License“. Kein Umtausch einer
+    „Instruction Permit“.
+
+
+16) Amtliche Anmerkung: Voraussetzung ist, dass das Erteilungsdatum der
+    namibischen Fahrerlaubnis mindestens zwei Jahre vor Antragstellung
     liegt.
-[^bjnr198000010bjne010201308_16_BJNR198000010BJNE010201308]:     Amtl. Anm.: Die Fahrerlaubnisklassen C1 und C aus Namibia berechtigen
-    auch zum Führen von Bussen. Eine Umschreibung dieser
+
+
+17) Amtliche Anmerkung: Die Fahrerlaubnisklassen C1 und C aus Namibia
+    berechtigen auch zum Führen von Bussen. Eine Umschreibung dieser
     Fahrerlaubnisklassen in die deutsche Fahrerlaubnisklassen D1 bzw. D
-    kann jedoch nicht erfolgen. Die Fahrerlaubnisklasse C 1 aus Namibia
+    kann jedoch nicht erfolgen. Die Fahrerlaubnisklasse C1 aus Namibia
     berechtigt zum Führen von Fahrzeugen mit einer zulässigen Masse von
     nicht mehr als 16 000 kg. Bei der Umschreibung in Deutschland wird
     jedoch nur eine Fahrerlaubnis der Klasse C1 erteilt, auch wenn diese
     nur zum Führen von Fahrzeugen mit einer zulässigen Masse von nicht
     mehr als 7 500 kg berechtigt.
-[^bjnr198000010bjne010201308_17_BJNR198000010BJNE010201308]: 
+
+
+
+
 (zu § 34)
 
 ### Anlage 12 Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)

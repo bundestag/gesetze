@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.10.1997 I 2410
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 15 G v. 22.12.2011 I 3044
+:   Art. 1 V v. 6.7.2012 I 1481
 
 
 ## § 1 Allgemein verbotene Stoffe
@@ -990,6 +990,9 @@ werden.
 
 (20) Anlage 2 Teil C Nummer 26 und 29 in der bis zum 15. August 2010
 geltenden Fassung sind noch bis zum 1. Dezember 2010 anzuwenden.
+
+(21) Bis zum Ablauf des 30. Oktober 2012 ist Anlage 2 Teil A Nummer 12
+in der am 16. Juli 2012 geltenden Fassung weiter anzuwenden.
 
 
 ## § 7
@@ -5780,12 +5783,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        *   aa)
-
-
-
-
-        *   allgemeine Verwendung
+        aa) allgemeine Verwendung
 
 
 
@@ -5819,12 +5817,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        *   bb)
-
-
-
-
-        *   gewerbliche - Verwendung
+        bb) gewerbliche - Verwendung
 
 
 
@@ -6377,7 +6370,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   12
 
     *   Wasserstoffperoxid und andere Wasserstoffperoxid freisetzende
-        Verbindungen oder Gemische wie Carbamid-Peroxid und Zinkperoxid
+        Verbindungen oder Gemische,
+        Carbamidperoxid
+        und Zinkperoxid
 
     *
         a)  Haarbehandlungsmittel
@@ -6386,30 +6381,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *
-        a)  12% Wasserstoffperoxid, anwesend oder freigesetzt
+        a)  12 % H
+            2                             O
+            2
+            (40 Volumenprozent), darin enthalten oder daraus freigesetzt
 
 
 
 
     *
-    *   a), b) c)
-        Enthält Wasserstoffperoxid. Kontakt mit den Augen vermeiden. Sofort
-        Augen spülen, falls das Erzeugnis mit den Augen in Berührung gekommen
-        ist. a) Geeignete Handschuhe tragen.
+    *
+        a)  geeignete Handschuhe tragen
+
+
+
+        a) b) c) e)
+        Enthält Wasserstoffperoxid.
+        Kontakt mit den Augen vermeiden.
+        Sofort Augen spülen, falls das Erzeugnis mit den Augen in Berührung
+        gekommen ist.
 
 
 *    *
-        b)  Hautpflege mittel
+        b)  Hautpflegemittel
 
 
 
 
     *
-        b)  4% Wasserstoffperoxid, anwesend oder freigesetzt
+        b)  4 % H
+            2                             O
+            2                             , darin enthalten oder daraus
+            freigesetzt
 
 
 
 
+    *
+    *
 
 *    *
         c)  Gemische zur Nagelhärtung
@@ -6418,27 +6427,78 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *
-        c)  2% Wasser stoffperoxid, anwesend oder freigesetzt
-
-
-
-
-
-*    *
-        d)  Mundpflegemittel
+        c)  2 % H
+            2                             O
+            2                             , darin enthalten oder daraus
+            freigesetzt
 
 
 
 
     *
-        d)  0,1% Wasserstoffperoxid, anwesend oder freigesetzt
-
-
-
-
+    *
 
 *    *
-        e)  Zahnprothesenreinigungsmittel
+        d)  Mundpflegemittel (einschließlich Mundspülungen, Zahnpasta sowie
+            Zahnaufheller und -bleichmittel)
+
+
+
+
+    *
+        d)  *                              0,1 % H
+            2                             O
+            2                             , darin enthalten oder daraus
+            freigesetzt
+
+
+
+
+    *
+    *
+
+*    *
+        e)  Zahnaufheller und -bleichmittel
+
+
+
+
+    *
+        e)  *                              0,1 %*                              6 %
+            H
+            2                             O
+            2                             , darin enthalten oder daraus
+            freigesetzt
+
+
+
+
+    *
+        e)  Darf nur an Zahnärzte abgegeben werden. In jedem Anwendungszyklus muss
+            die erste Anwendung stets einem Zahnarzt im Sinne der Richtlinie
+            2005/36/EG (ABl. L 255 vom 30.9. 2005, S. 22) vorbehalten sein oder
+            unter dessen direkter Aufsicht erfolgen, soweit ein gleichwertiges
+            Sicherheitsniveau gewährleistet ist. Danach muss das Mittel dem
+            Verbraucher für den verbleibenden Anwendungszyklus bereitgestellt
+            werden.
+            Nicht bei Personen unter
+            18 Jahren anwenden.
+
+
+
+
+    *
+        e)  Darin enthaltene oder daraus freigesetzte H
+            2                             O
+            2                             -Konzentration in Prozent angeben.
+            Nicht bei Personen unter 18 Jahren anwenden.
+            Darf nur an Zahnärzte abgegeben werden. In jedem Anwendungszyklus muss
+            die erste Anwendung stets einem Zahnarzt im Sinne der Richtlinie
+            2005/36/EG (ABl. L 255 vom 30.9. 2005, S. 22) vorbehalten sein oder
+            unter dessen direkter Aufsicht erfolgen, falls ein gleichwertiges
+            Sicherheitsniveau gewährleistet ist. Danach muss das Mittel dem
+            Verbraucher für den verbleibenden Anwendungszyklus bereitgestellt
+            werden.
 
 
 
@@ -11280,7 +11340,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *   Das Mischverhältnis muss auf dem Etikett angegeben werden.
-        Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)        Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
         Bitte folgende Hinweise lesen
         und beachten:
         Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.

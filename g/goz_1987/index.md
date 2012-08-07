@@ -304,7 +304,9 @@ unterrichten.
 ## § 10 Fälligkeit und Abrechnung der Vergütung, Rechnung
 
 (1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine
-dieser Verordnung entsprechende Rechnung erteilt worden ist.
+dieser Verordnung entsprechende Rechnung nach der Anlage 2 erteilt
+worden ist. Künftige Änderungen der Anlage 2 werden durch das
+Bundesministerium für Gesundheit durch Bekanntmachung veröffentlicht.
 
 (2) Die Rechnung muß insbesondere enthalten:
 

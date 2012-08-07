@@ -4524,24 +4524,25 @@ auf die Höhe des Preises für den Endnutzer.
 
 #### § 66b Preisansage
 
-(1) Für sprachgestützte Premium-Dienste hat derjenige, der den vom
-Endnutzer zu zahlenden Preis für die Inanspruchnahme dieses Dienstes
-festlegt, vor Beginn der Entgeltpflichtigkeit dem Endnutzer den für
-die Inanspruchnahme dieses Dienstes zu zahlenden Preis zeitabhängig je
-Minute oder zeitunabhängig je Datenvolumen oder sonstiger
-Inanspruchnahme einschließlich der Umsatzsteuer und sonstiger
-Preisbestandteile anzusagen. Die Preisansage ist spätestens drei
-Sekunden vor Beginn der Entgeltpflichtigkeit unter Hinweis auf den
-Zeitpunkt des Beginns derselben abzuschließen. Ändert sich dieser
-Preis während der Inanspruchnahme des Dienstes, so ist vor Beginn des
-neuen Tarifabschnitts der nach der Änderung zu zahlende Preis
-entsprechend der Sätze 1 und 2 anzusagen mit der Maßgabe, dass die
-Ansage auch während der Inanspruchnahme des Dienstes erfolgen kann.
-Die Sätze 1 bis 3 gelten auch für sprachgestützte Auskunftsdienste und
-für Kurzwahl-Sprachdienste ab einem Preis von 2 Euro pro Minute oder
-pro Inanspruchnahme bei zeitunabhängiger Tarifierung. Die Sätze 1 bis
-3 gelten auch für sprachgestützte Neuartige Dienste ab einem Preis von
-2 Euro pro Minute oder pro Inanspruchnahme bei zeitunabhängiger
+(1) Für sprachgestützte Premium-Dienste und für sprachgestützte
+Betreiberauswahl hat derjenige, der den vom Endnutzer zu zahlenden
+Preis für die Inanspruchnahme dieses Dienstes festlegt, vor Beginn der
+Entgeltpflichtigkeit dem Endnutzer den für die Inanspruchnahme dieses
+Dienstes zu zahlenden Preis zeitabhängig je Minute oder zeitunabhängig
+je Datenvolumen oder sonstiger Inanspruchnahme einschließlich der
+Umsatzsteuer und sonstiger Preisbestandteile anzusagen. Die
+Preisansage ist spätestens drei Sekunden vor Beginn der
+Entgeltpflichtigkeit unter Hinweis auf den Zeitpunkt des Beginns
+derselben abzuschließen. Ändert sich dieser Preis während der
+Inanspruchnahme des Dienstes, so ist vor Beginn des neuen
+Tarifabschnitts der nach der Änderung zu zahlende Preis entsprechend
+der Sätze 1 und 2 anzusagen mit der Maßgabe, dass die Ansage auch
+während der Inanspruchnahme des Dienstes erfolgen kann. Die Sätze 1
+bis 3 gelten auch für sprachgestützte Auskunftsdienste und für
+Kurzwahl-Sprachdienste ab einem Preis von 2 Euro pro Minute oder pro
+Inanspruchnahme bei zeitunabhängiger Tarifierung. Die Sätze 1 bis 3
+gelten auch für sprachgestützte Neuartige Dienste ab einem Preis von 2
+Euro pro Minute oder pro Inanspruchnahme bei zeitunabhängiger
 Tarifierung, soweit nach Absatz 4 nicht etwas Anderes bestimmt ist.
 
 (2) Bei Inanspruchnahme von Rufnummern für sprachgestützte
@@ -4556,9 +4557,9 @@ Auskunftsdienst besteht die Preisansageverpflichtung für das
 weiterzuvermittelnde Gespräch für den Auskunftsdiensteanbieter. Die
 Ansage kann während der Inanspruchnahme des sprachgestützten
 Auskunftsdienstes erfolgen, ist jedoch vor der Weitervermittlung
-vorzunehmen; Absatz 1 Satz 3 gilt entsprechend. Diese Ansage umfasst
-den Preis für Anrufe aus den Festnetzen zeitabhängig je Minute oder
-zeitunabhängig je Datenvolumen oder sonstiger Inanspruchnahme
+vorzunehmen; Absatz 1 Satz 3 und 4 gilt entsprechend. Diese Ansage
+umfasst den Preis für Anrufe aus den Festnetzen zeitabhängig je Minute
+oder zeitunabhängig je Datenvolumen oder sonstiger Inanspruchnahme
 einschließlich der Umsatzsteuer und sonstiger Preisbestandteile sowie
 einen Hinweis auf die Möglichkeit abweichender Preise aus dem
 Mobilfunk.
@@ -4566,7 +4567,7 @@ Mobilfunk.
 (4) Bei sprachgestützten Neuartigen Diensten kann die
 Bundesnetzagentur nach Anhörung der Fachkreise und Verbraucherverbände
 Anforderungen für eine Preisansage festlegen, die von denen des
-Absatzes 1 Satz 5 abweichen, sofern technische Entwicklungen, die
+Absatzes 1 Satz 6 abweichen, sofern technische Entwicklungen, die
 diesen Nummernbereich betreffen, ein solches Verfahren erforderlich
 machen. Die Festlegungen sind von der Bundesnetzagentur zu
 veröffentlichen.
@@ -7671,7 +7672,7 @@ sind.
 
 (1) Die Bundesnetzagentur arbeitet mit den nationalen
 Regulierungsbehörden anderer Mitgliedstaaten, der Kommission und dem
-GEREK auf transparente Weise zusammen, um eine einheit-liche Anwendung
+GEREK auf transparente Weise zusammen, um eine einheitliche Anwendung
 der Bestimmungen der Richtlinie 2002/21/EG und der Einzelrichtlinien
 zu gewährleisten. Sie arbeitet insbesondere mit der Kommission und dem
 GEREK bei der Ermittlung der Maßnahmen zusammen, die zur Bewältigung

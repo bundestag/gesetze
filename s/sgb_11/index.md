@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1015
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 27 G v. 12.4.2012 I 579
+:   Art. 2c G v. 21.7.2012 I 1601
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -3222,7 +3222,21 @@ eines rentenversicherungspflichtigen mitarbeitenden
 Familienangehörigen eines landwirtschaftlichen Unternehmers. Beim
 Krankengeldbezug eines nicht rentenversicherungspflichtigen
 mitarbeitenden Familienangehörigen ist der Zahlbetrag der Leistung der
-Beitragsbemessung zugrunde zu legen.
+Beitragsbemessung zugrunde zu legen. Bei Personen, die Krankengeld
+nach § 44a des Fünften Buches beziehen, wird das der Leistung zugrunde
+liegende Arbeitsentgelt oder Arbeitseinkommen zugrunde gelegt; wird
+dieses Krankengeld nach § 47b des Fünften Buches gezahlt, gelten die
+Sätze 1 bis 3. Bei Personen, die Leistungen für den Ausfall von
+Arbeitseinkünften von einem privaten Krankenversicherungsunternehmen,
+von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-
+rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von
+dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der
+truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
+Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
+Landesrecht dies vorsieht, im Zusammenhang mit einer nach den §§ 8 und
+8a des Transplantationsgesetzes erfolgenden Spende von Organen oder
+Geweben erhalten, wird das diesen Leistungen zugrunde liegende
+Arbeitsentgelt oder Arbeitseinkommen zugrunde gelegt.
 
 (3) Bei landwirtschaftlichen Unternehmern sowie bei mitarbeitenden
 Familienangehörigen wird auf den Krankenversicherungsbeitrag, der nach
@@ -3334,7 +3348,13 @@ Leistungen der Bundesagentur für Arbeit zu zahlen ist, im übrigen von
 den Krankenkassen; die Beiträge werden auch dann von den Krankenkassen
 getragen, wenn das dem Krankengeld zugrunde liegende monatliche
 Arbeitsentgelt ein Siebtel der monatlichen Bezugsgröße nicht
-übersteigt.
+übersteigt. Die Beiträge für Bezieher von Krankengeld nach § 44a des
+Fünften Buches oder für den Ausfall von Arbeitseinkünften im
+Zusammenhang mit einer nach den §§ 8 und 8a des
+Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+sind von der Stelle zu tragen, die die Leistung erbringt; wird die
+Leistung von mehreren Stellen erbracht, sind die Beiträge entsprechend
+anteilig zu tragen.
 
 (3) Die Beiträge für die nach § 21 Nr. 1 bis 5 versicherten
 Leistungsempfänger werden vom jeweiligen Leistungsträger getragen.

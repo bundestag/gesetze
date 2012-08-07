@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.1.1982 I 21;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 1.11.2011 I 2131
-
-Änderung durch
-:   Art. 1 V v. 21.6.2012 I 1391 (Nr. 28) noch nicht berücksichtigt!
+:   Art. 1 V v. 21.6.2012 I 1391
 
 
 ## Anspruch auf Versorgung
@@ -791,7 +788,7 @@ besondere Voraussetzungen der Versorgung geregelt werden.
 ### § 14
 
 Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt
-ist, erhalten monatlich 148 Euro zum Unterhalt eines Führhunds und als
+ist, erhalten monatlich 151 Euro zum Unterhalt eines Führhunds und als
 Beihilfe zu den Aufwendungen für fremde Führung.
 
 
@@ -799,9 +796,9 @@ Beihilfe zu den Aufwendungen für fremde Führung.
 
 Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen
 Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden
-Kosten mit einem monatlichen Pauschbetrag von 19 bis 121 Euro zu
+Kosten mit einem monatlichen Pauschbetrag von 19 bis 124 Euro zu
 ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von
-1,861 Euro mit der auf Grund einer Rechtsverordnung nach § 24a
+1,902 Euro mit der auf Grund einer Rechtsverordnung nach § 24a
 Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten
 Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf
 volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden.
@@ -3015,42 +3012,42 @@ Schädigungsfolgen
 
 *    *   von  30
 
-    *   in Höhe von 124 Euro,
+    *   in Höhe von 127 Euro,
 
 
 *    *   von  40
 
-    *   in Höhe von 170 Euro,
+    *   in Höhe von 174 Euro,
 
 
 *    *   von  50
 
-    *   in Höhe von 228 Euro,
+    *   in Höhe von 233 Euro,
 
 
 *    *   von  60
 
-    *   in Höhe von 289 Euro,
+    *   in Höhe von 295 Euro,
 
 
 *    *   von  70
 
-    *   in Höhe von 400 Euro,
+    *   in Höhe von 409 Euro,
 
 
 *    *   von  80
 
-    *   in Höhe von 484 Euro,
+    *   in Höhe von 495 Euro,
 
 
 *    *   von  90
 
-    *   in Höhe von 582 Euro,
+    *   in Höhe von 595 Euro,
 
 
 *    *   von 100
 
-    *   in Höhe von 652 Euro.
+    *   in Höhe von 666 Euro.
 
 
 
@@ -3059,17 +3056,17 @@ Lebensjahr vollendet haben, bei einem Grad der Schädigungsfolgen
 
 *    *   von 50 und 60
 
-    *   um 25 Euro,
+    *   um 26 Euro,
 
 
 *    *   von 70 und 80
 
-    *   um 31 Euro,
+    *   um 32 Euro,
 
 
 *    *   von mindestens 90
 
-    *   um 38 Euro.
+    *   um 39 Euro.
 
 
 
@@ -3091,32 +3088,32 @@ die in folgenden Stufen gewährt wird:
 
 *    *   Stufe I
 
-    *   75 Euro,
+    *   77 Euro,
 
 
 *    *   Stufe II
 
-    *   156 Euro,
+    *   159 Euro,
 
 
 *    *   Stufe III
 
-    *   231 Euro,
+    *   236 Euro,
 
 
 *    *   Stufe IV
 
-    *   309 Euro,
+    *   316 Euro,
 
 
 *    *   Stufe V
 
-    *   386 Euro,
+    *   394 Euro,
 
 
 *    *   Stufe VI
 
-    *   465 Euro.
+    *   475 Euro.
 
 
 
@@ -3139,22 +3136,22 @@ Schädigungsfolgen
 
 *    *   von  50 oder 60
 
-    *   400 Euro,
+    *   409 Euro,
 
 
 *    *   von  70 oder 80
 
-    *   484 Euro,
+    *   495 Euro,
 
 
 *    *   von  90
 
-    *   582 Euro,
+    *   595 Euro,
 
 
 *    *   von 100
 
-    *   652 Euro.
+    *   666 Euro.
 
 
 
@@ -3169,7 +3166,7 @@ daß
 
 a)  bei Einkünften aus gegenwärtiger Erwerbstätigkeit ein Betrag in Höhe
     von 1,5 vom Hundert sowie bei den übrigen Einkünften ein Betrag in
-    Höhe von 0,65 vom Hundert des Bemessungsbetrags von 27 721 Euro,
+    Höhe von 0,65 vom Hundert des Bemessungsbetrags von 28 539 Euro,
     jeweils auf volle Euro aufgerundet, freibleibt (Freibetrag)
 
     und
@@ -3264,7 +3261,7 @@ Beträge der Ausgleichsrente angegeben werden.
 ### § 33a
 
 (1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner
-einen Zuschlag von 72 Euro monatlich. Den Zuschlag erhalten auch
+einen Zuschlag von 74 Euro monatlich. Den Zuschlag erhalten auch
 Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder
 für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein
 Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen.
@@ -3446,7 +3443,7 @@ Lehrlingsvergütung bis zu 77 Euro monatlich bleibt unberücksichtigt.
 ### § 35
 
 (1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine
-Pflegezulage von 275 Euro (Stufe I) monatlich gezahlt. Hilflos im
+Pflegezulage von 281 Euro (Stufe I) monatlich gezahlt. Hilflos im
 Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von
 häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung
 ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe
@@ -3457,8 +3454,8 @@ nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft
 zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so
 schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche
 Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles
-unter Berücksichtigung des Umfangs der notwendigen Pflege auf 471,
-668, 857, 1 115 oder 1 370 Euro (Stufen II, III, IV, V und VI) zu
+unter Berücksichtigung des Umfangs der notwendigen Pflege auf 481,
+683, 876, 1 139 oder 1 400 Euro (Stufen II, III, IV, V und VI) zu
 erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der
 Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten
 Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach
@@ -3550,8 +3547,8 @@ einzusetzen ist.
 ### § 36
 
 (1) Beim Tod eines rentenberechtigten Beschädigten wird ein
-Bestattungsgeld gewährt. Es beträgt 1 575 Euro, wenn der Tod die Folge
-einer Schädigung ist, sonst 789 Euro. Der Tod gilt stets dann als
+Bestattungsgeld gewährt. Es beträgt 1 609 Euro, wenn der Tod die Folge
+einer Schädigung ist, sonst 806 Euro. Der Tod gilt stets dann als
 Folge einer Schädigung, wenn ein Beschädigter an einem Leiden stirbt,
 das als Folge einer Schädigung rechtsverbindlich anerkannt und für das
 ihm im Zeitpunkt des Todes Rente zuerkannt war.
@@ -3567,7 +3564,7 @@ Zeit des Todes in häuslicher Gemeinschaft gelebt haben. Fehlen solche
 Berechtigte, so wird der Überschuß nicht ausgezahlt.
 
 (3) Stirbt ein nichtrentenberechtigter Beschädigter an den Folgen
-einer Schädigung, so ist ein Bestattungsgeld bis zu 1 575 Euro zu
+einer Schädigung, so ist ein Bestattungsgeld bis zu 1 609 Euro zu
 zahlen, soweit Kosten der Bestattung entstanden sind.
 
 (4) Eine auf Grund anderer gesetzlicher Vorschriften für denselben
@@ -3652,7 +3649,7 @@ Beschädigten verheiratet war, Anspruch auf eine Witwenversorgung hat.
 ### § 40
 
 Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente
-von 391 Euro monatlich.
+von 400 Euro monatlich.
 
 
 ### § 40a
@@ -3787,7 +3784,7 @@ Ausübung einer Erwerbstätigkeit nicht möglich ist. Im Falle des Satzes
 1 Buchstabe a gilt § 29 entsprechend.
 
 (2) Die volle Ausgleichsrente der Witwe oder des hinterbliebenen
-Lebenspartners beträgt monatlich 433 Euro.
+Lebenspartners beträgt monatlich 442 Euro.
 
 (3) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu
 mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Satz
@@ -4007,12 +4004,12 @@ Die Grundrente beträgt monatlich
 
 *    *   bei Halbwaisen
 
-    *   111 Euro,
+    *   113 Euro,
 
 
 *    *   bei Vollwaisen
 
-    *   206 Euro.
+    *   210 Euro.
 
 
 
@@ -4024,12 +4021,12 @@ Die Grundrente beträgt monatlich
 
 *    *   bei Halbwaisen
 
-    *   194 Euro,
+    *   198 Euro,
 
 
 *    *   bei Vollwaisen
 
-    *   269 Euro.
+    *   275 Euro.
 
 
 
@@ -4201,12 +4198,12 @@ oder das 60. Lebensjahr vollendet hat.
 
 *    *   bei einem Elternpaar
 
-    *   530 Euro,
+    *   542 Euro,
 
 
 *    *   bei einem Elternteil
 
-    *   370 Euro.
+    *   378 Euro.
 
 
 
@@ -4217,12 +4214,12 @@ monatlich
 
 *    *   bei einem Elternpaar um
 
-    *   97 Euro,
+    *   99 Euro,
 
 
 *    *   bei einem Elternteil um
 
-    *   72 Euro.
+    *   74 Euro.
 
 
 
@@ -4246,12 +4243,12 @@ monatlich
 
 *    *   bei einem Elternpaar um
 
-    *   300 Euro,
+    *   307 Euro,
 
 
 *    *   bei einem Elternteil um
 
-    *   217 Euro.
+    *   222 Euro.
 
 
 
@@ -4321,7 +4318,7 @@ Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein
 Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es
 beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners,
 die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind
-hinterlassen, 1 575 Euro, in allen übrigen Fällen 789 Euro.
+hinterlassen, 1 609 Euro, in allen übrigen Fällen 806 Euro.
 
 
 ### § 53a Beiträge zur Pflegeversicherung

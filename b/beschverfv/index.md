@@ -47,7 +47,7 @@ Wirtschaft und Arbeit:
 Die Erlaubnis zur Ausübung einer Beschäftigung für Ausländer,
 
 1.  die eine Aufenthaltserlaubnis besitzen, die kein Aufenthaltstitel zum
-    Zwecke der Beschäftigung ist (§§ 17, 18 und 19 des
+    Zwecke der Beschäftigung ist (§§ 17, 18, 19 und 19a des
     Aufenthaltsgesetzes) oder die nicht schon auf Grund des
     Aufenthaltsgesetzes zur Beschäftigung berechtigt (§ 4 Abs. 2 Satz 3
     des Aufenthaltsgesetzes),
@@ -67,18 +67,27 @@ für Arbeit erteilt werden.
 
 #### § 2 Zustimmungsfreie Beschäftigungen nach der Beschäftigungsverordnung
 
-Die Ausübung von Beschäftigungen nach § 2 Nr. 1 und 2, §§ 3, 4 Nr. 1
-bis 3, §§ 5, 7 Nr. 3 bis 5, §§ 9 und 12 der Beschäftigungsverordnung
-kann Ausländern ohne Zustimmung der Bundesagentur für Arbeit erlaubt
-werden.
+Die Ausübung von Beschäftigungen nach § 2 Nr. 1 und 2, §§ 3, 3a, 3b, 4
+Nr. 1 bis 3, §§ 5, 7 Nr. 3 bis 5, §§ 9 und 12 der
+Beschäftigungsverordnung kann Ausländern ohne Zustimmung der
+Bundesagentur für Arbeit erlaubt werden.
 
 
-#### § 3 Beschäftigung von Familienangehörigen
+#### § 3 Familienangehörige
 
-Keiner Zustimmung bedarf die Ausübung einer Beschäftigung von
-Ehegatten, Lebenspartnern, Verwandten und Verschwägerten ersten Grades
-eines Arbeitgebers in dessen Betrieb, wenn der Arbeitgeber mit diesen
-in häuslicher Gemeinschaft lebt.
+Keiner Zustimmung bedarf die Ausübung einer Beschäftigung
+
+1.  von Familienangehörigen einer ausländischen Fachkraft, die nach den §§
+    3b, 4, 5, 27 und 28 der Beschäftigungsverordnung eine Beschäftigung
+    ausüben darf, oder
+
+
+2.  von Ehegatten, Lebenspartnern, Verwandten und Verschwägerten ersten
+    Grades eines Arbeitgebers in dessen Betrieb, wenn der Arbeitgeber mit
+    diesen in häuslicher Gemeinschaft lebt.
+
+
+
 
 
 #### § 3a Ausbildung und Beschäftigung von im Jugendalter eingereisten Ausländern
@@ -206,7 +215,7 @@ einzelnen Falles eine besondere Härte bedeuten würde.
 
 Die Zustimmung zur Ausübung einer Beschäftigung wird ohne Prüfung nach
 § 39 Abs. 2 Satz 1 Nr. 1 des Aufenthaltsgesetzes Familienangehörigen
-eines Ausländers, der nach den §§ 4, 5, 27, 28 und 31 Satz 1 Nr. 1 der
+eines Ausländers, der nach § 31 Satz 1 Nummer 1 der
 Beschäftigungsverordnung eine Beschäftigung ausüben darf, erteilt.
 
 
@@ -317,6 +326,23 @@ Aufenthaltsgestattung oder Duldung besitzen.
 (4) Ist die Zustimmung für ein bestimmtes Beschäftigungsverhältnis
 erteilt worden, erlischt sie mit der Beendigung dieses
 Beschäftigungsverhältnisses.
+
+
+### § 14a Zustimmungsfiktion, Vorabprüfung
+
+(1) Die Zustimmung zur Ausübung einer Beschäftigung gilt als erteilt,
+wenn die Bundesagentur für Arbeit nicht innerhalb von zwei Wochen nach
+der Übermittlung der Zustimmungsanfrage der zuständigen Stelle
+mitteilt, dass die übermittelten Informationen für die Entscheidung
+über die Zustimmung nicht ausreichen oder der Arbeitgeber die
+erforderlichen Auskünfte nicht oder nicht rechtzeitig erteilt hat.
+
+(2) Die Bundesagentur für Arbeit soll bereits vor der Übermittlung der
+Zustimmungsanfrage der Ausübung der Beschäftigung gegenüber der
+zuständigen Stelle zustimmen oder prüfen, ob die arbeitsmarktbezogenen
+Voraussetzungen für eine spätere Zustimmung vorliegen, wenn der
+Arbeitgeber die hierzu erforderlichen Auskünfte erteilt hat und das
+Verfahren dadurch beschleunigt wird.
 
 
 ## Teil 3 - Schlussvorschriften

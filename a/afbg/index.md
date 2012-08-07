@@ -68,18 +68,11 @@ anderweitig nicht zur Verfügung stehen.
 
 
 
-[^F772104_01_BJNR062300996BJNE000409310]
 Liegen keine bundes- oder landesrechtlichen Regelungen vor, ist auch
 die Teilnahme an Fortbildungsmaßnahmen förderfähig, die auf
 gleichwertige Fortbildungsabschlüsse nach den
 Weiterbildungsempfehlungen der Deutschen Krankenhausgesellschaft
-vorbereiten. Darüber hinaus ist im Bereich der ambulanten und
-stationären Altenpflege die Teilnahme an Fortbildungsmaßnahmen
-förderfähig, wenn bei Präsenzlehrgängen die fachlich zuständige
-Landesbehörde am Sitz des Trägers und bei Fernunterrichtslehrgängen
-die Staatliche Zentralstelle für Fernunterricht bestätigt, dass die
-Fortbildung inhaltlich im Wesentlichen einer Fortbildungsregelung
-eines anderen Landes in diesem Bereich entspricht.
+vorbereiten.
 
 (2) Maßnahmen, deren Durchführung öffentlich-rechtlichen Vorschriften
 nicht unterliegt, müssen nach der Dauer der Maßnahme, der Gestaltung
@@ -156,9 +149,6 @@ Abschnitten (Maßnahmeabschnitte) bestehen.
 individuelle Verkürzungen der Maßnahme durch Anrechnung bereits
 absolvierter Aus- oder Fortbildungen bleiben außer Betracht.
 
-    Gemäß Artikel 3 Satz 2 des Gesetzes vom 18. Juni 2009 (BGBl. I S.
-    1314) tritt § 2 Absatz 1 Nummer 2 Satz 3 am 1. Juli 2012 außer Kraft.
-[^F772104_01_BJNR062300996BJNE000409310]: 
 
 ### § 2a Anforderungen an Träger der Maßnahmen
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: 2000, Nr 58, 4897
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.6.2011 BAnz. Nr. 98, 2345
+:   Art. 1 V v. 19.6.2012 BAnz, AT 04.07.2012 V2
 
 
 ## Eingangsformel
@@ -157,12 +157,11 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
         II-13/09),
 
 
-    g)  Gleitflugzeuge (Ultraleichte Segelflugzeuge, dreiachsgesteuert) die
-        "Lufttüchtigkeitsforderungen für Gleitflugzeuge (Ultraleichte
-        Segelflugzeuge, dreiachsgesteuert)" vom 3. Februar 2005 (NfL
-        II-24/05), geändert durch die Bekanntmachung der Änderung der
-        Bekanntmachung von Lufttüchtigkeitsforderungen für Gleitflugzeuge vom
-        12\. Februar 2009 (NfL II-14/09),
+    g)  aerodynamische gesteuerte Luftsportgeräte mit einer höchstzulässigen
+        Leermasse bis 120 kg die "Bekanntmachung von
+        Lufttüchigkeitsanforderungen für aerodynamisch gesteuerte
+        Luftsportgeräte bis 120 kg Leermasse (nicht motorisiert oder
+        motorisiert)" vom 22. März 2012 (NfL II-23/12),
 
 
 

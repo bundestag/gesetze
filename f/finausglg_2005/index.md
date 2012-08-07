@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Das G tritt gem. § 20 mit Ablauf des 31.12.2019 außer Kraft
 Zuletzt geändert durch
-:   Art. 24 G v. 7.12.2011 I 2592
+:   Art. 3 G v. 29.6.2012 I 1424
 
 
 ## Erster Abschnitt - Steuerverteilung zwischen Bund und Ländern sowie unter den Ländern
@@ -264,9 +264,10 @@ zugeflossenen Einnahmen
 
 
 3.  aus der Vermögensteuer, der Erbschaftsteuer, der Kraftfahrzeugsteuer,
-    der Biersteuer, der Rennwett- und Lotteriesteuer mit Ausnahme der
-    Totalisatorsteuer, der Feuerschutzsteuer und der Spielbankabgabe mit
-    Ausnahme der Sonderabgabe und der Troncabgabe;
+    der Biersteuer, der Rennwett- und Lotteriesteuer sowie der Steuer für
+    Sportwetten mit Ausnahme der Totalisatorsteuer, der Feuerschutzsteuer
+    und der Spielbankabgabe mit Ausnahme der Sonderabgabe und der
+    Troncabgabe;
 
 
 4.  nach dem Gesetz zur Regelung der finanziellen Kompensation zugunsten

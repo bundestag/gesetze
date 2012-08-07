@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.4.2012 I 579
-
-Mittelbare änderung durch
-:   Art. 13 Abs. 24 G v. 12.4.2012 I 579 ist berücksichtigt
+:   Art. 2b G v. 21.7.2012 I 1601
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -186,7 +183,9 @@ dieses Buches
         Gesundheit retten,
 
 
-    b)  Blut oder körpereigene Organe, Organteile oder Gewebe spenden,
+    b)  Blut oder körpereigene Organe, Organteile oder Gewebe spenden oder bei
+        denen Voruntersuchungen oder Nachsorgemaßnahmen anlässlich der Spende
+        vorgenommen werden,
 
 
     c)  sich bei der Verfolgung oder Festnahme einer Person, die einer
@@ -8061,6 +8060,10 @@ sind.
 des Unfallversicherungsmodernisierungsgesetzes vom 30. Oktober 2008
 (BGBl. I S. 2130) gilt auch für Versicherungsfälle, die in der Zeit
 vom 1. Mai 2007 bis zum 4. November 2008 eingetreten sind.
+
+(4) § 12a gilt auch für Gesundheitsschäden, die in der Zeit vom 1.
+Dezember 1997 bis zum 31. Juli 2012 eingetreten sind. Ansprüche auf
+Leistungen bestehen in diesen Fällen ab dem 1. August 2012.
 
 
 ### § 214 Geltung auch für frühere Versicherungsfälle

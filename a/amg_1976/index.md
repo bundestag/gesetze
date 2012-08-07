@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.12.2005 I 3394;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 22.12.2011 I 2983
+:   Art. 1 V v. 16.7.2012 I 1534
 
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
@@ -7067,8 +7067,9 @@ Pharmakologisch wirksame Stoffe, die
     37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch
     wirksame Stoffe und ihre Einstufung hinsichtlich der
     Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L
-    15 vom 20.1.2010, S. 1), die zuletzt durch die Verordnung (EU) Nr.
-    363/2011 (ABl. L 100 vom 14.4.2011, S. 28) geändert worden ist, oder
+    15 vom 20.1.2010, S. 1), die zuletzt durch die Durchführungsverordnung
+    (EU) Nr. 466/2012 (ABl. L 143 vom 2.6.2012, S. 2) geändert worden ist,
+    oder
 
 
 2.  nicht im Anhang der Verordnung (EU) Nr. 37/2010

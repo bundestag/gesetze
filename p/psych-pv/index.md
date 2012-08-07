@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2930
 
-Geändert durch
-:   Art. 4 V v. 26.9.1994 I 2750
+V aufgeh. durch
+:   Art. 7 G v. 21.7.2012 I 1613 mWv 1.1.2017
 
 
 ## Eingangsformel

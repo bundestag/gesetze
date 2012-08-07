@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 16.12.2011 II 1300
 
+Änderung durch
+:   Art. 4 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
