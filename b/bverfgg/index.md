@@ -18,7 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 11.8.1993 I 1473;
 
-Stand: zuletzt geändert Art. 2 G v. 24.11.2011 I 2302
+Zuletzt geändert durch
+:   Art. 3 G v. 12.7.2012 I 1501
+
 
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
 
@@ -243,6 +245,11 @@ Das Bundesverfassungsgericht entscheidet
 3.  über Beschwerden gegen Entscheidungen des Bundestages, die die
     Gültigkeit einer Wahl oder den Erwerb oder Verlust der Mitgliedschaft
     eines Abgeordneten beim Bundestag betreffen (Artikel 41 Abs. 2 des
+    Grundgesetzes),
+
+
+3a. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als
+    Partei für die Wahl zum Bundestag (Artikel 93 Absatz 1 Nummer 4c des
     Grundgesetzes),
 
 
@@ -1000,25 +1007,26 @@ Die Vorschriften der §§ 38 und 41 gelten entsprechend.
 #### § 48
 
 (1) Die Beschwerde gegen den Beschluß des Bundestages über die
-Gültigkeit einer Wahl oder den Verlust der Mitgliedschaft im Bundestag
-kann der Abgeordnete, dessen Mitgliedschaft bestritten ist, ein
-Wahlberechtigter, dessen Einspruch vom Bundestag verworfen worden ist,
-wenn ihm mindestens einhundert Wahlberechtigte beitreten, eine
+Gültigkeit einer Wahl, die Verletzung von Rechten bei der Vorbereitung
+oder Durchführung der Wahl, soweit sie der Wahlprüfung nach Artikel 41
+des Grundgesetzes unterliegen, oder den Verlust der Mitgliedschaft im
+Bundestag kann der Abgeordnete, dessen Mitgliedschaft bestritten ist,
+eine wahlberechtigte Person oder eine Gruppe von wahlberechtigten
+Personen, deren Einspruch vom Bundestag verworfen worden ist, eine
 Fraktion oder eine Minderheit des Bundestages, die wenigstens ein
 Zehntel der gesetzlichen Mitgliederzahl umfaßt, binnen einer Frist von
 zwei Monaten seit der Beschlußfassung des Bundestages beim
 Bundesverfassungsgericht erheben; die Beschwerde ist innerhalb dieser
 Frist zu begründen.
 
-(2) Die Wahlberechtigten, die einem Wahlberechtigten als
-Beschwerdeführer beitreten, müssen diese Erklärung persönlich und
-handschriftlich unterzeichnen; neben der Unterschrift sind
-Familienname, Vornamen, Tag der Geburt und Anschrift (Hauptwohnung)
-des Unterzeichners anzugeben.
-
-(3) Das Bundesverfassungsgericht kann von einer mündlichen Verhandlung
+(2) Das Bundesverfassungsgericht kann von einer mündlichen Verhandlung
 absehen, wenn von ihr keine weitere Förderung des Verfahrens zu
 erwarten ist.
+
+(3) Erweist sich bei Prüfung der Beschwerde einer wahlberechtigten
+Person oder einer Gruppe von wahlberechtigten Personen, dass deren
+Rechte verletzt wurden, stellt das Bundesverfassungsgericht diese
+Verletzung fest, wenn es nicht die Wahl für ungültig erklärt.
 
 
 ### Vierter Abschnitt - Verfahren in den Fällen des § 13 Nr. 4
@@ -1840,15 +1848,6 @@ Die Vorschrift des § 79 gilt entsprechend.
 
 #### § 96
 
-(weggefallen)
-
-
-### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13  Nr. 6b
-
-
-
-#### § 97
-
 (1) Aus der Begründung eines Antrags nach Artikel 93 Abs. 2 Satz 1 des
 Grundgesetzes muss sich das Vorliegen der in Artikel 93 Abs. 2 Satz 3
 des Grundgesetzes bezeichneten Voraussetzung ergeben.
@@ -1859,6 +1858,46 @@ bestimmenden Frist Gelegenheit zur Äußerung.
 
 (3) Ein Äußerungsberechtigter nach Absatz 2 kann in jeder Lage des
 Verfahrens beitreten.
+
+
+#### § 96a
+
+(1) Beschwerdeberechtigt sind Vereinigungen und Parteien, denen die
+Anerkennung als wahlvorschlagsberechtigte Partei nach § 18 Absatz 4
+des Bundeswahlgesetzes versagt wurde.
+
+(2) Die Beschwerde ist binnen einer Frist von vier Tagen nach
+Bekanntgabe der Entscheidung in der Sitzung des Bundeswahlausschusses
+nach § 18 Absatz 4 Satz 2 des Bundeswahlgesetzes zu erheben und zu
+begründen.
+
+(3) § 32 findet keine Anwendung.
+
+
+#### § 96b
+
+Dem Bundeswahlausschuss ist Gelegenheit zur Äußerung zu geben.
+
+
+#### § 96c
+
+Das Bundesverfassungsgericht kann ohne Durchführung einer mündlichen
+Verhandlung entscheiden.
+
+
+#### § 96d
+
+Das Bundesverfassungsgericht kann seine Entscheidung ohne Begründung
+bekanntgeben. In diesem Fall ist die Begründung der Beschwerdeführerin
+und dem Bundeswahlausschuss gesondert zu übermitteln.
+
+
+### Siebzehnter Abschnitt - Verfahren in den Fällen des § 13 Nummer 3a
+
+
+
+### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6b
+
 
 
 ## IV. Teil - Verzögerungsbeschwerde

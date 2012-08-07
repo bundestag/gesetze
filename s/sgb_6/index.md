@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 1.6.2012 I 1224
+:   Art. 2a G v. 21.7.2012 I 1601
 
 Stand: Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 2.12.2011 I 2421 ist berücksichtigt
 
@@ -196,7 +196,18 @@ Versicherungspflichtig sind Personen in der Zeit,
     sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
 
 
-3a. (weggefallen)
+3a. für die sie von einem privaten Krankenversicherungsunternehmen, von
+    einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-
+    rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von
+    dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der
+    truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
+    Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das
+    Landesrecht dies vorsieht, Leistungen für den Ausfall von
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+    beziehen, wenn sie im letzten Jahr vor Beginn dieser Zahlung zuletzt
+    versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert
+    sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
 
 
 4.  für die sie Vorruhestandsgeld beziehen, wenn sie unmittelbar vor
@@ -261,8 +272,10 @@ aufgrund dieser Tätigkeit beantragen.
 
 (3) Auf Antrag versicherungspflichtig sind Personen, die
 
-1.  eine der in § 3 Satz 1 Nr. 3 genannten Sozialleistungen beziehen und
-    nicht nach dieser Vorschrift versicherungspflichtig sind,
+1.  eine der in § 3 Satz 1 Nr. 3 genannten Sozialleistungen oder
+    Leistungen für den Ausfall von Arbeitseinkünften nach § 3 Satz 1
+    Nummer 3a beziehen und nicht nach diesen Vorschriften
+    versicherungspflichtig sind,
 
 
 2.  nur deshalb keinen Anspruch auf Krankengeld haben, weil sie nicht in
@@ -5009,6 +5022,21 @@ eines Mitgliedstaates der Europäischen Union, Angehöriger eines
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
 oder Staatsangehöriger der Schweiz war.
 
+(4) Absatz 3 Satz 1 gilt nicht für Berechtigte, die Inhaber
+
+1.  einer in der Bundesrepublik Deutschland ausgestellten Blauen Karte EU
+    nach der Richtlinie 2009/50/EG des Rates vom 25. Mai 2009 über die
+    Bedingungen für die Einreise und den Aufenthalt von
+    Drittstaatsangehörigen zur Ausübung einer hochqualifizierten
+    Beschäftigung (ABl. L 155 vom 18.6.2009, S. 17) oder
+
+
+2.  einer Niederlassungserlaubnis nach § 19 des Aufenthaltsgesetzes
+
+
+
+sind oder waren, und deren Hinterbliebene.
+
 
 #### § 114 Besonderheiten
 
@@ -5058,6 +5086,18 @@ auch bei Waisenrenten, wenn der verstorbene Versicherte Angehöriger
 eines Mitgliedstaates der Europäischen Union, Angehöriger eines
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
 oder Staatsangehöriger der Schweiz war.
+
+(4) Die Absätze 1 und 2 gelten auch für Berechtigte, die Inhaber
+
+1.  einer in der Bundesrepublik Deutschland ausgestellten Blauen Karte EU
+    nach der Richtlinie 2009/50/EG oder
+
+
+2.  einer Niederlassungserlaubnis nach § 19 des Aufenthaltsgesetzes
+
+
+
+sind oder waren, und deren Hinterbliebene.
 
 
 ### Sechster Abschnitt - Durchführung
@@ -7909,12 +7949,28 @@ Beschäftigung behandelt werden.
     205 Euro,
 
 
-2b. (weggefallen)
+2b. bei Personen, die Krankengeld nach § 44a des Fünften Buches beziehen,
+    das der Leistung zugrunde liegende Arbeitsentgelt oder
+    Arbeitseinkommen; wird dieses Krankengeld nach § 47b des Fünften
+    Buches gezahlt, gilt Nummer 2,
 
 
 2c. bei Personen, die Teilarbeitslosengeld oder Teilübergangsgeld
     beziehen, 80 vom Hundert des dieser Leistung zugrunde liegenden
     Arbeitsentgelts,
+
+
+2d. bei Personen, die von einem privaten Krankenversicherungsunternehmen,
+    von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-
+    rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von
+    dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der
+    truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
+    Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
+    Landesrecht dies vorsieht, Leistungen für den Ausfall von
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+    beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder
+    Arbeitseinkommen,
 
 
 3.  bei Beziehern von Vorruhestandsgeld das Vorruhestandsgeld,
@@ -8168,6 +8224,18 @@ Die Beiträge werden getragen
 
     b)  Versorgungskrankengeld, Übergangsgeld oder Arbeitslosengeld beziehen,
         von den Leistungsträgern,
+
+
+    c)  Krankengeld nach § 44a des Fünften Buches beziehen, vom
+        Leistungsträger,
+
+
+    d)  für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im
+        Zusammenhang mit einer nach den §§ 8 und 8a des
+        Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+        erhalten, von der Stelle, die die Leistung erbringt; wird die Leistung
+        von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig
+        zu tragen,
 
 
 
@@ -10544,6 +10612,10 @@ Versicherungsfreiheit nach § 5 Abs. 1 Satz 1 Nr. 2 oder 3 vorlag.
 (6) Personen, die nach § 5 Abs. 1 Satz 1 Nr. 2 in der bis zum 31.
 Dezember 2008 geltenden Fassung versicherungsfrei waren, bleiben in
 dieser Beschäftigung versicherungsfrei.
+
+(7) Personen, die eine Versorgung nach § 6 des
+Streitkräftepersonalstruktur-Anpassungsgesetzes beziehen, sind nicht
+nach § 5 Absatz 4 Nummer 2 versicherungsfrei.
 
 
 ##### § 231 Befreiung von der Versicherungspflicht
@@ -17174,6 +17246,25 @@ viele Monate nachzahlen, wie zur Erfüllung der allgemeinen Wartezeit
 noch erforderlich sind. Beiträge können nur für Zeiten nachgezahlt
 werden, die noch nicht mit Beiträgen belegt sind. Der Antrag kann nur
 bis zum 31. Dezember 2015 gestellt werden.
+
+(3) Versicherte, die
+
+1.  nach § 1 Absatz 4 des Streitkräftepersonalstruktur-Anpassungsgesetzes
+    oder nach § 3 Absatz 2 des Bundeswehrbeamtinnen- und
+    Bundeswehrbeamten-Ausgliederungsgesetzes beurlaubt worden sind und
+
+
+2.  bis zum Erreichen der Regelaltersgrenze die allgemeine Wartezeit nicht
+    erfüllt haben,
+
+
+
+können, wenn zwischen der Beurlaubung und der maßgebenden gesetzlichen
+oder besonderen Altersgrenze weniger als 60 Kalendermonate liegen, auf
+Antrag freiwillige Beiträge für so viele Monate nachzahlen, wie zur
+Erfüllung der allgemeinen Wartezeit noch erforderlich sind.Beiträge
+können nur für Zeiten nachgezahlt werden, die noch nicht mit Beiträgen
+belegt sind.
 
 
 ###### § 283 (weggefallen)

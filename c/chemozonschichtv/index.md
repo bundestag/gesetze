@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.2.2012 I 409;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 41 G v. 24.2.2012 I 212
+:   Art. 5 Abs. 41 G v. 24.2.2012 I 212 (1474)
 
 
 ## § 1 Anwendungsbereich
@@ -362,9 +362,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Absatz 2 Satz 1 einen dort genannten Stoff nicht
 zurücknimmt und die Rücknahme durch einen Dritten nicht sicherstellt.
 
-(5) (nicht belegt)
-
-(6) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
+(5) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Absatz 3 Satz 1 oder Satz 2 eine dort genannte
 Aufzeichnung nicht, nicht richtig oder nicht vollständig führt, nicht

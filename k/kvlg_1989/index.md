@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2557
 
 Zuletzt geändert durch
-:   Art. 5 G v. 12.4.2012 I 579
-
-Mittelbare änderung durch
-:   Art. 8a Nr. 2 G v. 12.4.2012 I 579 ist berücksichtigt
+:   Art. 1b G v. 21.7.2012 I 1601
 
 
 ## Erster Abschnitt - Aufgaben der landwirtschaftlichen Krankenkassen, versicherter Personenkreis
@@ -484,6 +481,23 @@ eine wirksame Ratenzahlungsvereinbarung zu Stande gekommen, hat das
 Mitglied ab diesem Zeitpunkt wieder Anspruch auf Leistungen, solange
 die Raten vertragsgemäß entrichtet werden.
 
+(2b) Für Leistungen im Zusammenhang mit einer nach den §§ 8 und 8a des
+Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+zum Zwecke der Übertragung auf andere gilt § 27 Absatz 1a des Fünften
+Buches Sozialgesetzbuch mit der Maßgabe, dass bei einer Spende durch
+einen landwirtschaftlichen Unternehmer anstelle des Krankengeldes nach
+§ 44a des Fünften Buches Sozialgesetzbuch Betriebshilfe nach § 9
+gewährt wird. Diese Kosten der Leistungen für die Betriebshilfe werden
+der landwirtschaftlichen Krankenkasse von der Krankenkasse, dem
+privaten Krankenversicherungsunternehmen in Höhe des tariflichen
+Erstattungssatzes, dem Beihilfeträger des Bundes oder sonstigen
+öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf
+Bundesebene entsprechend dem Bemessungssatz, dem Träger der
+Heilfürsorge im Bereich des Bundes oder dem Träger der
+truppenärztlichen Versorgung des Empfängers von Organen oder Geweben
+erstattet. Mehrere Erstattungspflichtige haben die Kosten nach Satz 1
+anteilig zu tragen.
+
 (3) Für Wahltarife gilt § 53 des Fünften Buches Sozialgesetzbuch mit
 der Maßgabe, dass Absatz 6 und Absatz 8 Satz 2 und 3 nicht anzuwenden
 sind.
@@ -604,9 +618,9 @@ Arbeitnehmer einen gesetzlichen Anspruch auf Fortzahlung des
 Arbeitsentgelts im Krankheitsfall hätte. Dies gilt nicht für einmalig
 gezahltes Arbeitsentgelt (§ 23a des Vierten Buches Sozialgesetzbuch).
 
-(4) § 44 Abs. 1, § 46 Satz 1, § 47 Abs. 1 Satz 6 und 7, § 48 Abs. 3
-und die §§ 49 bis 51 des Fünften Buches Sozialgesetzbuch gelten
-entsprechend.
+(4) § 44 Abs. 1, § 44a Satz 1, § 46 Satz 1, § 47 Abs. 1 Satz 6 und 7,
+§ 48 Abs. 3 und die §§ 49 bis 51 des Fünften Buches Sozialgesetzbuch
+gelten entsprechend.
 
 
 ### § 14

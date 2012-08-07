@@ -72,6 +72,6 @@ Diese Verordnung tritt am 1. Juni 2012 in Kraft und am 31. Dezember
 
 (Fundstelle: BAnz AT 31.05.2012 V 1)
 
-(Text siehe: TVMindestlohn Abfall 4)
+(Text der Anlage siehe: TVMindestlohn Abfall 4)
 
 

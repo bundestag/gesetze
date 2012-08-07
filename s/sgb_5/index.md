@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 8 G v. 12.4.2012 I 579
-
-Mittelbare änderung durch
-:   Art. 8a Nr. 1 G v. 12.4.2012 I 579 ist berücksichtigt!
+:   Art. 4 G v. 21.7.2012 I 1613
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -964,7 +961,8 @@ Elften Buch sowie mit den Pflegekassen zu regeln.
 
 (5) Auf Leistungen besteht kein Anspruch, wenn sie als Folge eines
 Arbeitsunfalls oder einer Berufskrankheit im Sinne der gesetzlichen
-Unfallversicherung zu erbringen sind.
+Unfallversicherung zu erbringen sind. Dies gilt auch in Fällen des §
+12a des Siebten Buches.
 
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche vom Gemeinsamen
 Bundesausschuss nicht ausgeschlossene Leistungen in der fachlich
@@ -1839,6 +1837,35 @@ Krankenbehandlung gehören auch Leistungen zur Herstellung der
 Zeugungs- oder Empfängnisfähigkeit, wenn diese Fähigkeit nicht
 vorhanden war oder durch Krankheit oder wegen einer durch Krankheit
 erforderlichen Sterilisation verlorengegangen war.
+
+(1a) Spender von Organen oder Geweben (Spender) haben bei einer nach
+den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von
+Organen oder Geweben zum Zwecke der Übertragung auf Versicherte
+(Entnahme bei lebenden Spendern) Anspruch auf Leistungen der
+Krankenbehandlung. Dazu gehören die ambulante und stationäre
+Behandlung der Spender, die medizinisch erforderliche Vor- und
+Nachbetreuung, Leistungen zur medizinischen Rehabilitation sowie die
+Erstattung des Ausfalls von Arbeitseinkünften als Krankengeld nach §
+44a und erforderlicher Fahrkosten; dies gilt auch für Leistungen, die
+über die Leistungen nach dem Dritten Kapitel dieses Gesetzes, auf die
+ein Anspruch besteht, hinausgehen, soweit sie vom Versicherungsschutz
+des Spenders umfasst sind. Zuzahlungen sind von den Spendern nicht zu
+leisten. Zuständig für Leistungen nach den Sätzen 1 und 2 ist die
+Krankenkasse der Empfänger von Organen oder Gewebe (Empfänger). Für
+die Behandlung von Folgeerkrankungen der Spender ist die Krankenkasse
+der Spender zuständig, sofern der Leistungsanspruch nicht nach § 11
+Absatz 5 ausgeschlossen ist. Ansprüche nach diesem Absatz haben auch
+nicht gesetzlich krankenversicherte Personen. Die Krankenkasse der
+Spender ist befugt, die für die Leistungserbringung nach den Sätzen 1
+und 2 erforderlichen personenbezogenen Daten an die Krankenkasse oder
+das private Krankenversicherungsunternehmen der Empfänger zu
+übermitteln; dies gilt auch für personenbezogene Daten von nach dem
+Künstlersozialversicherungsgesetz Krankenversicherungspflichtigen. Die
+nach Satz 7 übermittelten Daten dürfen nur für die Erbringung von
+Leistungen nach den Sätzen 1 und 2 verarbeitet und genutzt werden. Die
+Datenverarbeitung und Nutzung nach den Sätzen 7 und 8 darf nur mit
+schriftlicher Einwilligung der Spender, der eine umfassende
+Information vorausgegangen ist, erfolgen.
 
 (2) Versicherte, die sich nur vorübergehend im Inland aufhalten,
 Ausländer, denen eine Aufenthaltserlaubnis nach § 25 Abs. 4 bis 5 des
@@ -3401,6 +3428,27 @@ Versicherten bleibt § 53 Abs. 6 unberührt.
 Arbeitsunfähigkeit richtet sich nach arbeitsrechtlichen Vorschriften.
 
 
+##### § 44a Krankengeld bei Spende von Organen oder Geweben
+
+Spender von Organen oder Geweben nach § 27 Absatz 1a haben Anspruch
+auf Krankengeld, wenn eine im Rahmen des Transplantationsgesetzes
+erfolgende Spende von Organen oder Geweben an Versicherte sie
+arbeitsunfähig macht. Das Krankengeld wird den Spendern von der
+Krankenkasse der Empfänger in Höhe des vor Beginn der
+Arbeitsunfähigkeit regelmäßig erzielten Nettoarbeitsentgelts oder
+Arbeitseinkommens bis zur Höhe des Betrages der kalendertäglichen
+Beitragsbemessungsgrenze geleistet. Für nach dem
+Künstlersozialversicherungsgesetz versicherungspflichtige Spender ist
+das ausgefallene Arbeitseinkommen im Sinne von Satz 2 aus demjenigen
+Arbeitseinkommen zu berechnen, das der Beitragsbemessung für die
+letzten zwölf Kalendermonate vor Beginn der Arbeitsunfähigkeit im
+Hinblick auf die Spende zugrunde gelegen hat. § 44 Absatz 3, § 47
+Absatz 2 bis 4, die §§ 47b, 49 und 50 gelten entsprechend; Ansprüche
+nach § 44 sind gegenüber Ansprüchen nach dieser Vorschrift
+ausgeschlossen. Ansprüche nach dieser Vorschrift haben auch nicht
+gesetzlich krankenversicherte Personen.
+
+
 ##### § 45 Krankengeld bei Erkrankung des Kindes
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn es nach
@@ -4536,25 +4584,30 @@ Vereinigungen Verträge über die Durchführung von Modellvorhaben nach §
 (3) Werden in einem Modellvorhaben nach § 63 Abs. 1 oder § 64a
 Leistungen außerhalb der für diese Leistungen geltenden Vergütungen
 nach § 85 oder § 87a, der Ausgabenvolumen nach § 84 oder der
-Krankenhausbudgets vergütet, sind die Vergütungen, die Ausgabenvolumen
-oder die Budgets, in denen die Ausgaben für diese Leistungen enthalten
-sind, entsprechend der Zahl und der Risikostruktur der am
-Modellversuch teilnehmenden Versicherten im Verhältnis zur Gesamtzahl
-der Versicherten zu verringern; die Budgets der teilnehmenden
+Krankenhausbudgets vergütet, sind die Vergütungen oder der
+Behandlungsbedarf nach § 87a Absatz 3 Satz 2, die Ausgabenvolumen oder
+die Budgets, in denen die Ausgaben für diese Leistungen enthalten
+sind, entsprechend der Zahl und der Morbiditäts- oder Risikostruktur
+der am Modellversuch teilnehmenden Versicherten sowie dem in den
+Verträgen nach Absatz 1 jeweils vereinbarten Inhalt des
+Modellvorhabens zu bereinigen; die Budgets der teilnehmenden
 Krankenhäuser sind dem geringeren Leistungsumfang anzupassen. Kommt
-eine Einigung der zuständigen Vertragsparteien über die Verringerung
-der Vergütungen, Ausgabenvolumen oder Budgets nach Satz 1 nicht
-zustande, können auch die Krankenkassen oder ihre Verbände, die
-Vertragspartner der Vereinbarung nach Absatz 1 sind, das Schiedsamt
-nach § 89 oder die Schiedsstelle nach § 18a Abs. 1 des
-Krankenhausfinanzierungsgesetzes anrufen. Vereinbaren alle gemäß § 18
-Abs. 2 des Krankenhausfinanzierungsgesetzes an der
+eine Einigung der zuständigen Vertragsparteien über die Bereinigung
+des Behandlungsbedarfs oder der Vergütungen, Ausgabenvolumen oder
+Budgets nach Satz 1 nicht zustande, können auch die Krankenkassen oder
+ihre Verbände, die Vertragspartner der Vereinbarung nach Absatz 1
+sind, das Schiedsamt nach § 89 oder die Schiedsstelle nach § 18a Abs.
+1 des Krankenhausfinanzierungsgesetzes anrufen. Vereinbaren alle gemäß
+§ 18 Abs. 2 des Krankenhausfinanzierungsgesetzes an der
 Pflegesatzvereinbarung beteiligten Krankenkassen gemeinsam ein
-Modellvorhaben, das die gesamten mit dem Budget nach § 12 der
-Bundespflegesatzverordnung oder nach § 3 oder § 4 des
-Krankenhausentgeltgesetzes vergüteten Leistungen eines Krankenhauses
-für Versicherte erfaßt, sind die vereinbarten Entgelte für alle
-Benutzer des Krankenhauses einheitlich zu berechnen.
+Modellvorhaben, das die gesamten nach der Bundespflegesatzverordnung
+oder dem Krankenhausentgeltgesetz vergüteten Leistungen eines
+Krankenhauses für Versicherte erfaßt, sind die vereinbarten Entgelte
+für alle Benutzer des Krankenhauses einheitlich zu berechnen. Bei der
+Ausgliederung nach Satz 1 sind nicht auf die einzelne Leistung
+bezogene, insbesondere periodenfremde, Finanzierungsverpflichtungen in
+Höhe der ausgegliederten Belegungsanteile dem Modellvorhaben
+zuzuordnen.
 
 (4) Die Vertragspartner nach Absatz 1 Satz 1 können Modellvorhaben zur
 Vermeidung einer unkoordinierten Mehrfachinanspruchnahme von
@@ -4621,6 +4674,52 @@ sie jeweils für die Vertreter der Krankenkassen und der
 Kassenärztlichen Vereinigung vorgesehen ist. Das so erweiterte
 Schiedsamt beschließt mit einer Mehrheit von zwei Dritteln der Stimmen
 der Mitglieder.
+
+
+#### § 64b Modellvorhaben zur Versorgung psychisch kranker Menschen
+
+(1) Gegenstand von Modellvorhaben nach § 63 Absatz 1 oder 2 kann auch
+die Weiterentwicklung der Versorgung psychisch kranker Menschen sein,
+die auf eine Verbesserung der Patientenversorgung oder der
+sektorenübergreifenden Leistungserbringung ausgerichtet ist,
+einschließlich der komplexen psychiatrischen Behandlung im häuslichen
+Umfeld. In jedem Land soll unter besonderer Berücksichtigung der
+Kinder- und Jugendpsychiatrie mindestens ein Modellvorhaben nach Satz
+1 durchgeführt werden; dabei kann ein Modellvorhaben auf mehrere
+Länder erstreckt werden. Eine bestehende Verpflichtung der
+Leistungserbringer zur Versorgung bleibt unberührt. § 63 Absatz 3 ist
+für Modellvorhaben nach Satz 1 mit der Maßgabe anzuwenden, dass von
+den Vorgaben der §§ 295, 300, 301 und 302 sowie des § 17d Absatz 9 des
+Krankenhausfinanzierungsgesetzes nicht abgewichen werden darf. § 63
+Absatz 5 Satz 1 gilt nicht. Die Meldung nach Absatz 3 Satz 2 hat vor
+der Vereinbarung zu erfolgen.
+
+(2) Die Modellvorhaben nach Absatz 1 sind im Regelfall auf längstens
+acht Jahre zu befristen. Unter Vorlage des Berichts nach § 65 können
+die Krankenkassen und die Vertragsparteien bei den zuständigen
+Aufsichtsbehörden eine Verlängerung beantragen.
+
+(3) Dem DRG-Institut der Selbstverwaltungspartner nach § 17b Absatz 2
+des Krankenhausfinanzierungsgesetzes sind neben den nach § 21 des
+Krankenhausentgeltgesetzes zu übermittelnden Daten von den
+Vertragsparteien des Modellvorhabens insbesondere auch Informationen
+zur vereinbarten Art und Anzahl der Patientinnen und Patienten, zu
+spezifischen Leistungsinhalten und den der verhandelten Vergütungen
+zugrunde gelegten Kosten sowie zu strukturellen Merkmalen des
+jeweiligen Modellvorhabens einschließlich der Auswertung nach § 65
+mitzuteilen. Über Art und Umfang der zu meldenden Daten sowie zur
+Meldung von Modellvorhaben beim DRG-Institut schließen die
+Selbstverwaltungspartner nach § 17b Absatz 2 des
+Krankenhausfinanzierungsgesetzes bis zum 31. Dezember 2012 eine
+Vereinbarung. § 21 Absatz 4, 5 Satz 1 und 2 sowie Absatz 6 des
+Krankenhausentgeltgesetzes ist für die Vereinbarung und die
+Datenübermittlung entsprechend anzuwenden. Für die Finanzierung der
+Aufgaben des DRG-Instituts gilt § 17d Absatz 5 des
+Krankenhausfinanzierungsgesetzes entsprechend.
+
+(4) Private Krankenversicherungen und der Verband der privaten
+Krankenversicherung können sich an Modellvorhaben nach Absatz 1 und
+deren Finanzierung beteiligen.
 
 
 #### § 65 Auswertung der Modellvorhaben
@@ -6448,10 +6547,27 @@ Ausnahme der Kostenerstattungsleistungen nach § 13 Abs. 2 Satz 6 und
 Ausgaben auf Grund der Mehrkostenregelung nach § 28 Abs. 2 Satz 3 sind
 auf das Ausgabenvolumen nach Satz 2 anzurechnen.
 
-(2a) Vertragsärztliche Leistungen bei der Substitutionsbehandlung der
-Drogenabhängigkeit gemäß den Richtlinien des Gemeinsamen
-Bundesausschusses werden von den Krankenkassen außerhalb der nach
-Absatz 2 vereinbarten Gesamtvergütungen vergütet.
+(2a) Für die Vereinbarung der Vergütungen vertragszahnärztlicher
+Leistungen im Jahr 2013 ermitteln die Landesverbände der Krankenkassen
+und die Ersatzkassen einmalig gemeinsam und einheitlich mit der
+jeweiligen Kassenzahnärztlichen Vereinigung bis zum 31. Dezember 2012
+die durchschnittlichen Punktwerte des Jahres 2012 für zahnärztliche
+Leistungen ohne Zahnersatz, gewichtet nach den gegenüber der
+jeweiligen Kassenzahnärztlichen Vereinigung abgerechneten Punktmengen.
+Soweit Punktwerte für das Jahr 2012 bis zum 30. September 2012 von den
+Partnern der Gesamtverträge nicht vereinbart sind, werden die
+Punktwerte des Jahres 2011 unter Berücksichtigung des Absatzes 3g und
+unter Anwendung der um 0,5 Prozentpunkte verminderten für das Jahr
+2012 nach § 71 Absatz 3 für das gesamte Bundesgebiet festgestellten
+Veränderungsrate zugrunde gelegt. Erfolgt die Vergütung nicht auf der
+Grundlage von vereinbarten Punktwerten, legen die Vertragspartner nach
+Satz 1 für die jeweiligen Leistungsbereiche einen fiktiven Punktwert
+fest, der sich aus dem Verhältnis der abgerechneten Punktmenge zur
+vereinbarten Gesamtvergütung im Jahr 2012 ergibt. Die Partner der
+Gesamtverträge passen die für das Jahr 2012 vereinbarte
+Gesamtvergütung auf der Grundlage der nach den Sätzen 1 bis 3
+festgestellten Punktwerte an und legen diese als Ausgangsbasis für die
+Vertragsverhandlungen für das Jahr 2013 zugrunde.
 
 (2b) Die am 31. Dezember 1992 geltenden Punktwerte für zahnärztliche
 Leistungen bei Zahnersatz einschließlich Zahnkronen und bei
@@ -6498,7 +6614,13 @@ Bundesausschusses nach § 135 Abs. 1 entstehen; dabei ist zu prüfen,
 inwieweit die Mehrausgaben durch Minderausgaben auf Grund eines
 Wegfalls von Leistungen, die auf Grund einer Prüfung nach § 135 Abs. 1
 Satz 2 und 3 nicht mehr zu Lasten der Krankenkassen erbracht werden
-dürfen, ausgeglichen werden können.
+dürfen, ausgeglichen werden können. Die Krankenkassen haben den
+Kassenzahnärztlichen Vereinigungen die Zahl ihrer Versicherten vom 1.
+Juli eines Jahres, die ihren Wohnsitz im Bezirk der jeweiligen
+Kassenzahnärztlichen Vereinigung haben, gegliedert nach den
+Altersgruppen des Vordrucks KM 6 der Statistik über die Versicherten
+in der gesetzlichen Krankenversicherung bis zum 1. Oktober des Jahres
+mitzuteilen.
 
 (3a) Die nach Absatz 3 zu vereinbarenden Veränderungen der
 Gesamtvergütungen als Ausgabenvolumen für die Gesamtheit der zu
@@ -7891,9 +8013,9 @@ ist. Er soll insbesondere Richtlinien beschließen über die
 
 
 7.  Beurteilung der Arbeitsunfähigkeit einschließlich der
-    Arbeitsunfähigkeit der nach § 5 Abs. 1 Nr. 2a und der nach § 10
-    versicherten erwerbsfähigen Hilfebedürftigen im Sinne des Zweiten
-    Buches,
+    Arbeitsunfähigkeit nach § 44a Satz 1 sowie der nach § 5 Abs. 1 Nr. 2a
+    und der nach § 10 versicherten erwerbsfähigen Hilfebedürftigen im
+    Sinne des Zweiten Buches,
 
 
 8.  Verordnung von im Einzelfall gebotenen Leistungen zur medizinischen
@@ -10477,12 +10599,12 @@ findet insoweit keine Anwendung.
 Behandlungstage innerhalb von fünf Tagen vor Beginn der stationären
 Behandlung begrenzt. Die nachstationäre Behandlung darf sieben
 Behandlungstage innerhalb von 14 Tagen, bei Organübertragungen nach §
-9 Abs. 1 des Transplantationsgesetzes drei Monate nach Beendigung der
-stationären Krankenhausbehandlung nicht überschreiten. Die Frist von
-14 Tagen oder drei Monaten kann in medizinisch begründeten
+9 Absatz 2 des Transplantationsgesetzes drei Monate nach Beendigung
+der stationären Krankenhausbehandlung nicht überschreiten. Die Frist
+von 14 Tagen oder drei Monaten kann in medizinisch begründeten
 Einzelfällen im Einvernehmen mit dem einweisenden Arzt verlängert
-werden. Kontrolluntersuchungen bei Organübertragungen nach § 9 Abs. 1
-des Transplantationsgesetzes dürfen vom Krankenhaus auch nach
+werden. Kontrolluntersuchungen bei Organübertragungen nach § 9 Absatz
+2 des Transplantationsgesetzes dürfen vom Krankenhaus auch nach
 Beendigung der nachstationären Behandlung fortgeführt werden, um die
 weitere Krankenbehandlung oder Maßnahmen der Qualitätssicherung
 wissenschaftlich zu begleiten oder zu unterstützen. Eine notwendige
@@ -10727,7 +10849,8 @@ hochspezialisierte Leistungen:
     m)  Kurzdarmsyndrom oder
 
 
-    n)  Versorgung von Patienten vor oder nach Lebertransplantation sowie
+    n)  Versorgung von Patienten vor oder nach Organtransplantation und von
+        lebenden Spendern sowie
 
 
 
@@ -15581,6 +15704,18 @@ solange
 2.  Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder eine
     dieser Leistungen oder nach gesetzlichen Vorschriften Erziehungsgeld
     oder Elterngeld bezogen oder Elternzeit in Anspruch genommen wird,
+
+
+2a. von einem privaten Krankenversicherungsunternehmen, von einem
+    Beihilfeträger des Bundes, von sonstigen öffentlich-rechtlichen
+    Trägern von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger
+    der Heilfürsorge im Bereich des Bundes, von dem Träger der
+    truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
+    Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das
+    Landesrecht dies vorsieht, Leistungen für den Ausfall von
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
+    bezogen werden oder diese beansprucht werden können,
 
 
 3.  von einem Rehabilitationsträger während einer Leistung zur

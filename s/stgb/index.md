@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 3 G v. 24.2.2012 I 212
-
-Änderung durch
-:   Art. 1 G v. 25.6.2012 I 1374 (Nr. 28) noch nicht berücksichtigt
+:   Art. 1 G v. 25.6.2012 I 1374
 
 
 ## Allgemeiner Teil - 
@@ -12752,6 +12749,12 @@ dadurch wichtige öffentliche Interessen gefährdet, wird mit
 Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (3) Der Versuch ist strafbar.
+
+(3a) Beihilfehandlungen einer in § 53 Absatz 1 Satz 1 Nummer 5 der
+Strafprozessordnung genannten Person sind nicht rechtswidrig, wenn sie
+sich auf die Entgegennahme, Auswertung oder Veröffentlichung des
+Geheimnisses oder des Gegenstandes oder der Nachricht, zu deren
+Geheimhaltung eine besondere Verpflichtung besteht, beschränken.
 
 (4) Die Tat wird nur mit Ermächtigung verfolgt. Die Ermächtigung wird
 erteilt

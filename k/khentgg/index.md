@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 21 G v. 12.4.2012 I 579
+:   Art. 3 G v. 21.7.2012 I 1613
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -811,6 +811,19 @@ für die Vertragsparteien nach § 11 insbesondere
 5.  die Erhöhungsrate für Tariferhöhungen nach § 10 Abs. 5 Satz 4,
 
 
+5a. bis zum 31. Oktober jeden Jahres, erstmals für das Jahr 2013, den
+    Veränderungswert nach Maßgabe des § 10 Absatz 6 Satz 5 oder 6 für die
+    Begrenzung der Entwicklung des Basisfallwerts nach § 10 Absatz 4,
+    wobei bereits anderweitig finanzierte Kostensteigerungen zu
+    berücksichtigen sind, soweit dadurch die Veränderungsrate nach § 71
+    Absatz 3 des Fünften Buches Sozialgesetzbuch nicht unterschritten
+    wird; im Falle des § 10 Absatz 6 Satz 6 ist die Veränderungsrate nach
+    § 71 Absatz 3 des Fünften Buches Sozialgesetzbuch unter
+    Berücksichtigung der Gewährleistung der notwendigen medizinischen
+    Versorgung und von Personal- und Sachkostensteigerungen um bis zu ein
+    Drittel dieser Differenz zu erhöhen,
+
+
 6.  bis zum 31. August 2003 den einheitlichen Aufbau der Datensätze und
     das Verfahren für die Übermittlung der Daten nach § 11 Abs. 4 Satz 1.
 
@@ -824,11 +837,13 @@ Bewertungsrelationen nicht umgesetzt werden können und deshalb nach §
 Basisfallwerts umzusetzen sind, in welcher Höhe zu berücksichtigen
 oder auszugleichen sind.
 
-(2) Kommt eine Vereinbarung zu Absatz 1 Satz 1 Nr. 4 bis 6 und Satz 2
-ganz oder teilweise nicht zustande, entscheidet auf Antrag einer
-Vertragspartei die Schiedsstelle nach § 18a Abs. 6 des
-Krankenhausfinanzierungsgesetzes; in den übrigen Fällen gilt § 17b
-Abs. 7 des Krankenhausfinanzierungsgesetzes.
+(2) Kommt eine Vereinbarung zu Absatz 1 Satz 1 Nummer 1 bis 3 ganz
+oder teilweise nicht zustande, gilt § 17b Absatz 7 des
+Krankenhausfinanzierungsgesetzes; in den übrigen Fällen entscheidet
+auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6
+des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1
+Satz 1 Nummer 5a hat die Schiedsstelle bis zum 15. November des
+jeweiligen Jahres zu treffen.
 
 
 ### § 10 Vereinbarung auf Landesebene
@@ -886,10 +901,10 @@ Basisberichtigung zulässig gewesen wäre.
 
 
 5.  die Ausgabenentwicklung insgesamt bei den Leistungsbereichen, die
-    nicht mit Fallpauschalen vergütet werden, soweit diese die
-    Veränderungsrate nach § 71 Abs. 3 Satz 1 in Verbindung mit Abs. 2 des
-    Fünften Buches Sozialgesetzbuch überschreiten; dabei werden die
-    Zuschläge zur Finanzierung der Ausbildungskosten nicht einbezogen,
+    nicht mit Fallpauschalen vergütet werden, soweit diese den
+    Veränderungswert nach § 9 Absatz 1 Satz 1 Nummer 5a überschreiten;
+    dabei werden die Zuschläge zur Finanzierung der Ausbildungskosten
+    nicht einbezogen,
 
 
 6.  absenkend die Summe der sonstigen Zuschläge nach § 7 Absatz 1 Satz 1
@@ -911,11 +926,9 @@ auszugleichen. Für die Anwendung von Satz 1 Nummer 5 ist für das Jahr
 Prozentpunkte verminderte Veränderungsrate maßgeblich.
 
 (4) Die nach Absatz 3 vereinbarte Veränderung des Basisfallwerts darf
-die sich bei Anwendung der Veränderungsrate nach § 71 Abs. 3 Satz 1 in
-Verbindung mit Abs. 2 Satz 3 des Fünften Buches Sozialgesetzbuch
-ergebende Veränderung des Basisfallwerts nicht überschreiten; die
-Veränderungsrate wird nach Maßgabe des Absatzes 6 künftig durch einen
-Veränderungswert ersetzt. Satz 1 gilt nicht, soweit eine Erhöhung des
+die sich bei Anwendung des Veränderungswerts nach § 9 Absatz 1 Satz 1
+Nummer 5a ergebende Veränderung des Basisfallwerts nicht
+überschreiten. Satz 1 gilt nicht, soweit eine Erhöhung des
 Basisfallwerts infolge der Weiterentwicklung des DRG-Vergütungssystems
 oder der Abrechnungsregeln lediglich technisch bedingt ist und nicht
 zu einer Erhöhung der Gesamtausgaben für Krankenhausleistungen führt
@@ -930,29 +943,32 @@ Maßgabe, dass die Obergrenze für die Veränderung des Basisfallwerts
 für 2011 auf die um 0,25 Prozentpunkte und für 2012 auf die um 0,5
 Prozentpunkte verminderte Veränderungsrate begrenzt ist.
 
-(5) Bei der Vereinbarung des Basisfallwerts für das Jahr 2009 sind
+(5) Bei der Vereinbarung des Basisfallwerts für das Jahr 2012 sind
 nach Maßgabe der folgenden Sätze bestimmte Tariferhöhungen für Löhne
-und Gehälter über die Obergrenze nach Absatz 4 Satz 1 hinaus zu
+und Gehälter über die Obergrenze nach Absatz 4 Satz 4 hinaus zu
 berücksichtigen; diese Erhöhung wirkt als Basiserhöhung auch für die
 Folgejahre. Bezogen auf die Personalkosten werden nach Maßgabe des
 Satzes 5 50 Prozent des Unterschieds zwischen der Veränderungsrate
-nach Absatz 4 Satz 1 und der Tarifrate, die sich aus den
-durchschnittlichen Auswirkungen der für die Jahre 2008 und 2009
-jeweils tarifvertraglich vereinbarten Erhöhungen der
-Vergütungstarifverträge und vereinbarter Einmalzahlungen errechnet,
-berücksichtigt. Maßstäbe für die Ermittlung der Tarifrate nach Satz 2
-sind für den nichtärztlichen Personalbereich einerseits und den
-ärztlichen Personalbereich andererseits jeweils diejenige
-tarifvertragliche Vereinbarung, die in dem jeweiligen Bereich für die
-meisten Beschäftigten maßgeblich ist. Die Vertragsparteien auf
-Bundesebene nach § 9 vereinbaren in Höhe des Unterschieds zwischen
-beiden Raten eine Erhöhungsrate. Der Basisfallwert 2009 ohne Abzug
-nach Absatz 3 Satz 1 Nr. 6 ist von den Vertragsparteien um ein Drittel
-dieser Erhöhungsrate zu erhöhen. Ist ein Basisfallwert 2009 bereits
+nach Absatz 4 Satz 4 und der Tarifrate, die sich aus den
+durchschnittlichen Auswirkungen der für das Jahr 2012 tarifvertraglich
+vereinbarten Erhöhungen der Vergütungstarifverträge und vereinbarter
+Einmalzahlungen errechnet, berücksichtigt. Maßstäbe für die Ermittlung
+der Tarifrate nach Satz 2 sind für den nichtärztlichen Personalbereich
+einerseits und den ärztlichen Personalbereich andererseits jeweils
+diejenige tarifvertragliche Vereinbarung, die in dem jeweiligen
+Bereich für die meisten Beschäftigten maßgeblich ist. Die
+Vertragsparteien auf Bundesebene nach § 9 vereinbaren in Höhe des
+Unterschieds zwischen beiden Raten eine Erhöhungsrate. Der
+Basisfallwert 2012 ist von den Vertragsparteien um ein Drittel dieser
+Erhöhungsrate zu erhöhen. Ist ein Basisfallwert 2012 bereits
 vereinbart oder festgesetzt, ist dieser während des Kalenderjahres
-2009 unter Berücksichtigung der Erhöhungsrate neu zu vereinbaren;
+2012 unter Berücksichtigung der Erhöhungsrate neu zu vereinbaren;
 dabei ist zusätzlich zu der Basisanhebung ein Ausgleich infolge der
-verspäteten Erhöhung durchzuführen.
+verspäteten Erhöhung durchzuführen. Abweichend von Satz 6 können die
+Vertragsparteien auf Landesebene die Erhöhungsrate auch bei der
+Vereinbarung des Basisfallwerts für das Jahr 2013 berücksichtigen.
+Voraussetzung dafür ist, dass alle Vertragsparteien dem einvernehmlich
+zustimmen.
 
 (6) Mit dem Ziel, die in Absatz 4 vorgegebene Begrenzung des
 Basisfallwerts durch die Veränderungsrate nach § 71 des Fünften Buches
@@ -962,12 +978,17 @@ eines Orientierungswertes für Krankenhäuser, der die Kostenstrukturen
 und -entwicklungen besser als die Veränderungsrate berücksichtigt. Die
 Systematik für die Ermittlung des Wertes ist bis zum 31. Dezember 2009
 zu entwickeln; die Länder sind einzubeziehen. Der Wert soll erstmals
-zum 30. Juni 2010 ermittelt werden. Das Bundesministerium für
-Gesundheit bestimmt nach Anhörung der Länder durch Rechtsverordnung
-ohne Zustimmung des Bundesrates das Jahr, in dem die Veränderungsrate
-nach Absatz 4 Satz 1 abgelöst wird, sowie den zu finanzierenden Anteil
-des Orientierungswerts (Veränderungswert), der maßgeblich für die
-Begrenzung nach Absatz 4 Satz 1 ist.
+zum 30. Juni 2010 ermittelt werden. Das Statistische Bundesamt
+veröffentlicht den Wert jeweils spätestens bis zum 30. September jeden
+Jahres, erstmals spätestens zum 30. September 2012. Unterschreitet der
+Orientierungswert die Veränderungsrate nach § 71 Absatz 3 des Fünften
+Buches Sozialgesetzbuch, entspricht der Orientierungswert dem
+Veränderungswert. Überschreitet der Orientierungswert die
+Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
+Sozialgesetzbuch, ermitteln die Vertragsparteien auf Bundesebene die
+Differenz zwischen beiden Werten und vereinbaren den Veränderungswert
+gemäß § 9 Absatz 1 Satz 1 Nummer 5a und § 9 Absatz 1 Nummer 5 der
+Bundespflegesatzverordnung.
 
 (7) Soweit in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 die Höhe der Vergütung nach dem Tarifvertrag für den öffentlichen
@@ -1054,15 +1075,15 @@ berechnet das DRG-Institut den einheitlichen Basisfallwert mit den
 Vorjahreswerten für dieses Land. Das Berechnungsergebnis des DRG-
 Instituts ist Grundlage für die Vereinbarung des einheitlichen
 Basisfallwerts und des einheitlichen Basisfallwertkorridors durch die
-Vertragsparteien auf Bundesebene bis zum 30. September jeden Jahres;
-das Berechnungsergebnis ist um die für das folgende Kalenderjahr
+Vertragsparteien auf Bundesebene bis zum 31. Oktober jeden Jahres; das
+Berechnungsergebnis ist um die für das folgende Kalenderjahr
 maßgebliche Veränderungsrate oder den Veränderungswert nach Absatz 4
 Satz 1 zu erhöhen. Kommt eine Vereinbarung nicht zustande, entscheidet
 auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Abs. 6
 des Krankenhausfinanzierungsgesetzes.
 
 (10) Die Vereinbarung des Basisfallwerts oder des angeglichenen
-Basisfallwerts nach Absatz 8 Satz 5 und 6 ist bis zum 31. Oktober
+Basisfallwerts nach Absatz 8 Satz 5 und 6 ist bis zum 30. November
 jeden Jahres zu schließen. Die Vertragsparteien auf Landesebene nehmen
 die Verhandlungen unverzüglich auf, nachdem eine Partei dazu
 schriftlich aufgefordert hat. Die Vereinbarung kommt durch Einigung
@@ -1072,15 +1093,7 @@ zu diesem Zeitpunkt nicht zustande, setzt die Schiedsstelle nach § 13
 den Basisfallwert auf Antrag einer Vertragspartei auf Landesebene
 unverzüglich fest.
 
-(11) In den ab dem 1. Januar 2009 geltenden Basisfallwert sind
-Mehrkosten infolge der Abschaffung des Arztes im Praktikum in Höhe der
-von den Krankenhäusern im Lande nach § 4 Abs. 14 in der bis zum 31.
-Dezember 2008 geltenden Fassung insgesamt abgerechneten Zuschläge
-einzurechnen. In den ab dem 1. Januar 2010 geltenden Basisfallwert
-sind die Finanzierungsbeträge zur Verbesserung der
-Arbeitszeitbedingungen in Höhe der von den Krankenhäusern im Lande
-nach § 4 Abs. 8 insgesamt abgerechneten Zuschläge einzurechnen. Absatz
-4 gilt insoweit nicht.
+(11) (weggefallen)
 
 (12) In den ab dem 1. Januar 2012 geltenden Basisfallwert sind die
 Finanzierungsbeträge für die Neueinstellung von Pflegepersonal in Höhe

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.12.2008 I 2338
-
-Änderung durch
-:   Art. 1 V v. 5.6.2012 I 1254 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 5.6.2012 I 1254
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung

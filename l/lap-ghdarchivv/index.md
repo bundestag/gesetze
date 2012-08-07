@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3187
 
-Zuletzt geänder durch
+Zuletzt geändert durch
 :   Art. 3 Abs. 33 V v. 12.2.2009 I 320
 
 

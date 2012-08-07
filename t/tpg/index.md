@@ -18,8 +18,11 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206
 
-Geändert durch
-:   Art. 3 G v. 17.7.2009 I 1990
+Zuletzt geändert durch
+:   Art. 1 G v. 12.7.2012 I 1504
+
+Änderung durch
+:   Art. 1 G v. 21.7.2012 I 1601 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -56,14 +59,15 @@ Handels mit menschlichen Organen oder Geweben.
 Im Sinne dieses Gesetzes
 
 1.  sind Organe, mit Ausnahme der Haut, alle aus verschiedenen Geweben
-    bestehenden Teile des menschlichen Körpers, die in Bezug auf Struktur,
-    Blutgefäßversorgung und Fähigkeit zum Vollzug physiologischer
-    Funktionen eine funktionale Einheit bilden, einschließlich der
-    Organteile und einzelnen Gewebe eines Organs, die zum gleichen Zweck
-    wie das ganze Organ im menschlichen Körper verwendet werden können,
-    mit Ausnahme solcher Gewebe, die zur Herstellung von Arzneimitteln für
-    neuartige Therapien im Sinne des § 4 Absatz 9 des Arzneimittelgesetzes
-    bestimmt sind;
+    bestehenden, differenzierten Teile des menschlichen Körpers, die in
+    Bezug auf Struktur, Blutgefäßversorgung und Fähigkeit zum Vollzug
+    physiologischer Funktionen eine funktionale Einheit bilden,
+    einschließlich der Organteile und einzelnen Gewebe eines Organs, die
+    unter Aufrechterhaltung der Anforderungen an Struktur und
+    Blutgefäßversorgung zum gleichen Zweck wie das ganze Organ im
+    menschlichen Körper verwendet werden können, mit Ausnahme solcher
+    Gewebe, die zur Herstellung von Arzneimitteln für neuartige Therapien
+    im Sinne des § 4 Absatz 9 des Arzneimittelgesetzes bestimmt sind;
 
 
 2.  sind vermittlungspflichtige Organe die Organe Herz, Lunge, Leber,
@@ -122,26 +126,18 @@ Im Sinne dieses Gesetzes
     ärztliche medizinische Leistungen erbracht werden;
 
 
-10. ist schwerwiegender Zwischenfall jedes unerwünschte Ereignis im
-    Zusammenhang mit der Entnahme, Untersuchung, Aufbereitung, Be- oder
-    Verarbeitung, Konservierung, Aufbewahrung oder Abgabe von Geweben, das
-    die Übertragung einer ansteckenden Krankheit, den Tod oder einen
-    lebensbedrohenden Zustand, eine Behinderung oder einen
-    Fähigkeitsverlust von Patienten zur Folge haben könnte oder einen
-    Krankenhausaufenthalt erforderlich machen oder verlängern könnte oder
-    zu einer Erkrankung führen oder diese verlängern könnte; als
-    schwerwiegender Zwischenfall gilt auch jede fehlerhafte
-    Identifizierung oder Verwechslung von Keimzellen oder Embryonen im
-    Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung;
+10. sind Verfahrensanweisungen schriftliche Anweisungen, die die Schritte
+    eines spezifischen Verfahrens beschreiben, einschließlich der zu
+    verwendenden Materialien und Methoden und des erwarteten Ergebnisses;
 
 
-11. ist schwerwiegende unerwünschte Reaktion eine unbeabsichtigte
-    Reaktion, einschließlich einer übertragbaren Krankheit, beim Spender
-    oder Empfänger im Zusammenhang mit der Entnahme oder der Übertragung
-    von Geweben, die tödlich oder lebensbedrohend verläuft, eine
-    Behinderung oder einen Fähigkeitsverlust zur Folge hat oder einen
-    Krankenhausaufenthalt erforderlich macht oder verlängert oder zu einer
-    Erkrankung führt oder diese verlängert.
+11. ist Rückverfolgbarkeit die Möglichkeit, das Organ in jeder Phase von
+    der Spende bis zur Übertragung oder Verwerfung zu verfolgen und zu
+    identifizieren; dies umfasst auch die Möglichkeit, den Spender, das
+    Entnahmekrankenhaus und den Empfänger im Transplantationszentrum zu
+    identifizieren sowie alle sachdienlichen, nicht personenbezogenen
+    Daten über Produkte und Materialien, mit denen das Organ in Berührung
+    kommt, zu ermitteln und zu identifizieren.
 
 
 
@@ -417,13 +413,31 @@ Föten.
 
 (1) Die Erhebung und Verwendung personenbezogener Daten eines
 möglichen Organ- oder Gewebespenders, eines nächsten Angehörigen oder
-einer Person nach § 4 Abs. 2 Satz 5 oder Abs. 3 und die Übermittlung
-dieser Daten an die nach Absatz 3 Satz 1 auskunftsberechtigten
-Personen ist zulässig, soweit dies zur Klärung, ob eine Organ- oder
-Gewebeentnahme nach § 3 Abs. 1 und 2, § 4 Abs. 1 bis 3 sowie § 9 Abs.
-2 Satz 2 zulässig ist und ob ihr medizinische Gründe entgegenstehen,
-sowie zur Unterrichtung des nächsten Angehörigen nach § 3 Abs. 3 Satz
-1 erforderlich ist.
+einer Person nach § 4 Absatz 2 Satz 5 oder Absatz 3 und die
+Übermittlung dieser Daten an die nach Absatz 3 Satz 1
+auskunftsberechtigten Personen ist zulässig, soweit dies erforderlich
+ist
+
+1.  zur Klärung, ob eine Organ- oder Gewebeentnahme nach § 3 Absatz 1 und
+    2, § 4 Absatz 1 bis 3 sowie § 9 Absatz 3 Satz 2 zulässig ist und ob
+    ihr medizinische Gründe entgegenstehen,
+
+
+2.  zur Unterrichtung der nächsten Angehörigen nach § 3 Absatz 3 Satz 1,
+
+
+3.  zur Organ- und Spendercharakterisierung nach § 10a,
+
+
+4.  zur Rückverfolgung nach § 13 Absatz 1 oder
+
+
+5.  zur Meldung schwerwiegender Zwischenfälle und schwerwiegender
+    unerwünschter Reaktionen auf der Grundlage der Rechtsverordnung nach §
+    13 Absatz 4.
+
+
+
 
 (2) Zur unverzüglichen Auskunft über die nach Absatz 1 erforderlichen
 Daten sind verpflichtet:
@@ -448,10 +462,16 @@ Daten sind verpflichtet:
 
 5.  die Behörden, in deren Gewahrsam oder Mitgewahrsam sich der Leichnam
     des möglichen Organ- oder Gewebespenders befindet oder befunden hat,
-    und
 
 
-6.  die von der Koordinierungsstelle (§ 11) oder einer gewebeentnehmenden
+6.  der Transplantationsbeauftragte des Entnahmekrankenhauses,
+
+
+7.  der verantwortliche Arzt des Transplantationszentrums, in dem das
+    Organ übertragen werden soll oder übertragen worden ist, und
+
+
+8.  die von der Koordinierungsstelle (§ 11) oder einer gewebeentnehmenden
     Gewebeeinrichtung beauftragte Person, soweit sie Auskunft über nach
     Absatz 1 erforderliche Daten erhalten hat.
 
@@ -469,6 +489,9 @@ haben
     Sozialgesetzbuch oder nach anderen gesetzlichen Bestimmungen für die
     Übertragung solcher Organe zugelassen ist oder mit einem solchen
     Krankenhaus zum Zwecke der Entnahme solcher Organe zusammenarbeitet,
+    sowie der Transplantationsbeauftragte des Entnahmekrankenhauses und
+    der verantwortliche Arzt des Transplantationszentrums, in dem das
+    Organ übertragen werden soll oder übertragen worden ist,
 
 
 2.  Ärzte, die die Entnahme von Geweben nach § 3 oder § 4 beabsichtigen
@@ -556,8 +579,8 @@ aufzuklären über
 
 
 5.  die zu erwartende Erfolgsaussicht der Organ- oder Gewebeübertragung
-    und sonstige Umstände, denen er erkennbar eine Bedeutung für die
-    Spende beimisst, sowie über
+    und die Folgen für den Empfänger sowie sonstige Umstände, denen er
+    erkennbar eine Bedeutung für die Spende beimisst, sowie über
 
 
 6.  die Erhebung und Verwendung personenbezogener Daten.
@@ -834,51 +857,150 @@ Benutzung des Registers regeln. In der Rechtsverordnung kann auch eine
 außerhalb des Geltungsbereichs dieses Gesetzes vorgesehen werden.
 
 
-## Abschnitt 4 - Vermittlung und Übertragung bestimmter Organe,  Transplantationszentren, Zusammenarbeit bei der Entnahme von Organen und  Geweben
+## Abschnitt 4 - Entnahme, Vermittlung und Übertragung von Organen, Zusammenarbeit bei der Entnahme von Organen und Geweben
 
 
-### § 9 Zulässigkeit der Organübertragung, Vorrang der Organspende
+### § 9 Zulässigkeit der Organentnahme und -übertragung, Vorrang der Organspende
 
-(1) Die Übertragung von Herz, Niere, Leber, Lunge, Bauchspeicheldrüse
-und Darm darf nur in dafür zugelassenen Transplantationszentren (§ 10)
-vorgenommen werden. Die Übertragung vermittlungspflichtiger Organe ist
-nur zulässig, wenn die Organe durch die Vermittlungsstelle unter
-Beachtung der Regelungen nach § 12 vermittelt worden sind. Sind
-vermittlungspflichtige Organe im Geltungsbereich dieses Gesetzes
-entnommen worden, ist ihre Übertragung darüber hinaus nur zulässig,
-wenn die Entnahme unter Beachtung der Regelungen nach § 11
-durchgeführt wurde.
+(1) Die Entnahme von Organen bei verstorbenen Spendern darf nur in
+Entnahmekrankenhäusern nach § 9a durchgeführt werden.
 
-(2) Die mögliche Entnahme und Übertragung eines
-vermittlungspflichtigen Organs hat Vorrang vor der Entnahme von
-Geweben; sie darf nicht durch eine Gewebeentnahme beeinträchtigt
-werden. Die Entnahme von Geweben bei einem möglichen Spender
-vermittlungspflichtiger Organe nach § 11 Abs. 4 Satz 2 ist erst dann
+(2) Die Übertragung von Organen verstorbener Spender sowie die
+Entnahme und Übertragung von Organen lebender Spender darf nur in
+Transplantationszentren nach § 10 vorgenommen werden. Sind Organe im
+Geltungsbereich dieses Gesetzes entnommen worden, ist ihre Übertragung
+nur zulässig, wenn die Organentnahme nach § 11 Absatz 4 Satz 5 durch
+die Koordinierungsstelle organisiert und unter Beachtung der weiteren
+Regelungen nach § 11 durchgeführt worden ist. Die Übertragung
+vermittlungspflichtiger Organe ist darüber hinaus nur zulässig, wenn
+die Organe durch die Vermittlungsstelle unter Beachtung der Regelungen
+nach § 12 Absatz 3 Satz 1 vermittelt worden sind.
+
+(3) Die mögliche Entnahme und Übertragung eines Organs hat Vorrang vor
+der Entnahme von Geweben; sie darf nicht durch eine Gewebeentnahme
+beeinträchtigt werden. Die Entnahme von Geweben bei einem möglichen
+Spender von Organen nach § 9a Absatz 2 Nummer 1 ist erst dann
 zulässig, wenn eine von der Koordinierungsstelle beauftragte Person
-dokumentiert hat, dass die Entnahme oder Übertragung von
-vermittlungspflichtigen Organen nicht möglich ist oder durch die
-Gewebeentnahme nicht beeinträchtigt wird.
+dokumentiert hat, dass die Entnahme oder Übertragung von Organen nicht
+möglich ist oder durch die Gewebeentnahme nicht beeinträchtigt wird.
+
+
+### § 9a Entnahmekrankenhäuser
+
+(1) Entnahmekrankenhäuser sind die nach § 108 des Fünften Buches
+Sozialgesetzbuch oder nach anderen gesetzlichen Bestimmungen
+zugelassenen Krankenhäuser, die nach ihrer räumlichen und personellen
+Ausstattung in der Lage sind, Organentnahmen von möglichen Spendern
+nach § 3 oder § 4 nach Maßgabe des § 11 Absatz 4 Satz 5 zu
+ermöglichen. Die zuständige Behörde benennt gegenüber der
+Koordinierungsstelle die Entnahmekrankenhäuser, die die
+Voraussetzungen nach Satz 1 erfüllen, und unterrichtet die
+Entnahmekrankenhäuser schriftlich über diese Benennung.
+
+(2) Die Entnahmekrankenhäuser sind verpflichtet,
+
+1.  den endgültigen, nicht behebbaren Ausfall der Gesamtfunktion des
+    Großhirns, des Kleinhirns und des Hirnstamms von Patienten, die nach
+    ärztlicher Beurteilung als Organspender nach § 3 oder § 4 in Betracht
+    kommen, nach § 5 festzustellen und der Koordinierungsstelle nach § 11
+    unverzüglich mitzuteilen; kommen diese Patienten zugleich als
+    Gewebespender nach § 3 oder § 4 in Betracht, ist dies gleichzeitig
+    mitzuteilen,
+
+
+2.  sicherzustellen, dass die Entnahme in einem Operationssaal
+    durchgeführt wird, der dem Stand der medizinischen Wissenschaft und
+    Technik entspricht, um die Qualität und Sicherheit der entnommenen
+    Organe zu gewährleisten,
+
+
+3.  sicherzustellen, dass das von ihnen eingesetzte medizinische Personal
+    für seine Aufgaben qualifiziert ist, und
+
+
+4.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme
+    einzuhalten.
+
+
+
+
+
+### § 9b Transplantationsbeauftragte
+
+(1) Die Entnahmekrankenhäuser bestellen mindestens einen
+Transplantationsbeauftragten, der für die Erfüllung seiner Aufgaben
+fachlich qualifiziert ist. Der Transplantationsbeauftragte ist in
+Erfüllung seiner Aufgaben unmittelbar der ärztlichen Leitung des
+Entnahmekrankenhauses unterstellt. Er ist bei der Wahrnehmung seiner
+Aufgaben unabhängig und unterliegt keinen Weisungen. Der
+Transplantationsbeauftragte ist soweit freizustellen, wie es zur
+ordnungsgemäßen Durchführung seiner Aufgaben erforderlich ist; die
+Entnahmekrankenhäuser stellen organisatorisch sicher, dass der
+Transplantationsbeauftragte seine Aufgaben ordnungsgemäß wahrnehmen
+kann und unterstützen ihn dabei.
+
+(2) Transplantationsbeauftragte sind insbesondere dafür
+verantwortlich, dass
+
+1.  die Entnahmekrankenhäuser ihrer Verpflichtung nach § 9a Absatz 2
+    Nummer 1 nachkommen,
+
+
+2.  die Angehörigen von Spendern nach § 3 oder § 4 in angemessener Weise
+    begleitet werden,
+
+
+3.  die Zuständigkeiten und Handlungsabläufe in den Entnahmekrankenhäusern
+    zur Erfüllung der Verpflichtungen aus diesem Gesetz festgelegt werden
+    sowie
+
+
+4.  das ärztliche und pflegerische Personal im Entnahmekrankenhaus über
+    die Bedeutung und den Prozess der Organspende regelmäßig informiert
+    wird.
+
+
+
+
+(3) Das Nähere, insbesondere zu der erforderlichen Qualifikation und
+organisationsrechtlichen Stellung der Transplantationsbeauftragten
+sowie deren Freistellung von ihren sonstigen Tätigkeiten im
+Entnahmekrankenhaus, wird durch Landesrecht bestimmt. Durch
+Landesrecht können die Voraussetzungen festgelegt werden, nach denen
+mehrere Entnahmekrankenhäuser zur Erfüllung ihrer Verpflichtung nach
+Absatz 1 die Bestellung eines gemeinsamen Transplantationsbeauftragten
+schriftlich vereinbaren können. Dabei ist sicherzustellen, dass der
+Transplantationsbeauftragte seine Aufgaben in jedem der
+Entnahmekrankenhäuser ordnungsgemäß wahrnehmen kann. Im Landesrecht
+können auch Ausnahmen von der Verpflichtung zur Bestellung eines
+Transplantationsbeauftragten vorgesehen werden, soweit und solange die
+Realisierung einer Organentnahme in begründeten Ausnahmefällen wegen
+der Besonderheiten des Entnahmekrankenhauses ausgeschlossen ist. Die
+Ausnahmen können einer Genehmigung durch die zuständige Behörde
+unterworfen werden.
 
 
 ### § 10 Transplantationszentren
 
 (1) Transplantationszentren sind Krankenhäuser oder Einrichtungen an
 Krankenhäusern, die nach § 108 des Fünften Buches Sozialgesetzbuch
-oder nach anderen gesetzlichen Bestimmungen für die Übertragung von in
-§ 9 Abs. 1 Satz 1 genannten Organen zugelassen sind. Bei der Zulassung
-nach § 108 des Fünften Buches Sozialgesetzbuch sind Schwerpunkte für
-die Übertragung dieser Organe zu bilden, um eine bedarfsgerechte,
+oder nach anderen gesetzlichen Bestimmungen für die Übertragung von
+Organen verstorbener Spender sowie für die Entnahme und Übertragung
+von Organen lebender Spender zugelassen sind. Bei der Zulassung nach §
+108 des Fünften Buches Sozialgesetzbuch sind Schwerpunkte für die
+Übertragung dieser Organe zu bilden, um eine bedarfsgerechte,
 leistungsfähige und wirtschaftliche Versorgung zu gewährleisten und
 die erforderliche Qualität der Organübertragung zu sichern.
 
 (2) Die Transplantationszentren sind verpflichtet,
 
-1.  Wartelisten der zur Organübertragung angenommenen Patienten mit den
-    für die Organvermittlung nach § 12 erforderlichen Angaben zu führen
-    sowie unverzüglich über die Annahme eines Patienten zur
-    Organübertragung und seine Aufnahme in die Warteliste zu entscheiden
-    und den behandelnden Arzt darüber zu unterrichten, ebenso über die
-    Herausnahme eines Patienten aus der Warteliste,
+1.  Wartelisten der zur Übertragung von vermittlungspflichtigen Organen
+    angenommenen Patienten mit den für die Organvermittlung nach § 12
+    erforderlichen Angaben zu führen sowie unverzüglich über die Annahme
+    eines Patienten zur Organübertragung und seine Aufnahme in die
+    Warteliste zu entscheiden und den behandelnden Arzt darüber zu
+    unterrichten, ebenso über die Herausnahme eines Patienten aus der
+    Warteliste,
 
 
 2.  über die Aufnahme in die Warteliste nach Regeln zu entscheiden, die
@@ -887,22 +1009,32 @@ die erforderliche Qualität der Organübertragung zu sichern.
     Organübertragung,
 
 
-3.  die auf Grund der §§ 11 und 12 getroffenen Regelungen zur
-    Organentnahme und Organvermittlung einzuhalten,
+3.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme sowie
+    bei vermittlungspflichtigen Organen die auf Grund des § 12 getroffenen
+    Regelungen zur Organvermittlung einzuhalten,
 
 
-4.  jede Organübertragung unverzüglich so zu dokumentieren, dass eine
+4.  vor der Organübertragung festzustellen, dass die Organ- und
+    Spendercharakterisierung nach § 10a abgeschlossen und dokumentiert ist
+    und die Bedingungen für die Konservierung und den Transport
+    eingehalten worden sind,
+
+
+5.  jede Organübertragung unverzüglich so zu dokumentieren, dass eine
     lückenlose Rückverfolgung der Organe vom Empfänger zum Spender
-    ermöglicht wird; bei der Übertragung von vermittlungspflichtigen
-    Organen ist die Kenn-Nummer (§ 13 Abs. 1 Satz 1) anzugeben, um eine
+    ermöglicht wird; bei der Übertragung von Organen verstorbener Spender
+    ist die Kenn-Nummer (§ 13 Abs. 1 Satz 1) anzugeben, um eine
     Rückverfolgung durch die Koordinierungsstelle zu ermöglichen,
 
 
-5.  vor und nach einer Organübertragung Maßnahmen für eine erforderliche
+6.  die durchgeführten Lebendorganspenden aufzuzeichnen,
+
+
+7.  vor und nach einer Organübertragung Maßnahmen für eine erforderliche
     psychische Betreuung der Patienten im Krankenhaus sicherzustellen und
 
 
-6.  nach Maßgabe der Vorschriften des Fünften Buches Sozialgesetzbuch
+8.  nach Maßgabe der Vorschriften des Fünften Buches Sozialgesetzbuch
     Maßnahmen zur Qualitätssicherung, die auch einen Vergleich mit anderen
     Transplantationszentren ermöglichen, im Rahmen ihrer Tätigkeit nach
     diesem Gesetz durchzuführen; dies gilt für die Nachbetreuung von
@@ -910,15 +1042,86 @@ die erforderliche Qualität der Organübertragung zu sichern.
 
 
 
+§ 9a Absatz 2 Nummer 2 und 3 gilt entsprechend.
+
+
+### § 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport
+
+(1) Die von der Koordinierungsstelle beauftragte Person stellt unter
+ärztlicher Beratung und Anleitung sicher, dass die Organe für eine
+Übertragung nur freigegeben werden, wenn nach ärztlicher Beurteilung
+die Organ- und Spendercharakterisierung nach dem Stand der
+medizinischen Wissenschaft und Technik ergeben hat, dass das Organ für
+eine Übertragung geeignet ist. Die sachdienlichen Angaben über den
+Spender, die zur Bewertung seiner Eignung zur Organspende erforderlich
+sind, und die sachdienlichen Angaben über die Merkmale des Organs, die
+zur Beurteilung nach Satz 1 erforderlich sind, werden nach Maßgabe
+einer Rechtsverordnung nach Absatz 4 erhoben, um eine ordnungsgemäße
+Risikobewertung vorzunehmen, die Risiken für den Organempfänger so
+gering wie möglich zu halten und die Organvermittlung zu optimieren.
+Bei der Erhebung dieser Angaben werden, soweit dies möglich und
+angemessen ist, auch die nächsten Angehörigen im Rahmen der
+Unterrichtung nach § 3 Absatz 3 Satz 1 oder der Befragung nach § 4
+Absatz 1 Satz 1 oder weitere Personen, die Angaben zum Organspender
+machen können, befragt. Die Sätze 1 und 2 gelten entsprechend für die
+Erhebung der sachdienlichen Angaben vor der Entnahme und Übertragung
+eines Organs eines lebenden Spenders durch den verantwortlichen Arzt
+des Transplantationszentrums.
+
+(2) Die Koordinierungsstelle stellt sicher, dass die für die Organ-
+und Spendercharakterisierung nach Absatz 1 erforderlichen
+Laboruntersuchungen in Laboren durchgeführt werden, die über
+qualifiziertes Personal und geeignete Einrichtungen und Ausrüstungen
+verfügen. Die Labore verfügen über geeignete Verfahrensanweisungen,
+die gewährleisten, dass die Angaben zur Organ- und
+Spendercharakterisierung der Koordinierungsstelle unverzüglich
+übermittelt werden.
+
+(3) Der Transport von Organen erfolgt unter Beachtung der
+Verfahrensanweisung der Koordinierungsstelle nach § 11 Absatz 1a Satz
+2 Nummer 7. Das Nähere zur Kennzeichnung der Behältnisse für den
+Transport von Organen regelt eine Rechtsverordnung nach Absatz 4.
+
+(4) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
+mit Zustimmung des Bundesrates nach Anhörung der Bundesärztekammer und
+weiterer Sachverständiger Regelungen zur Organ- und
+Spendercharakterisierung und zum Transport von Organen treffen. In der
+Rechtsverordnung können insbesondere Regelungen getroffen werden über
+die Anforderungen an
+
+1.  die Angaben, die nach dem Stand der medizinischen Wissenschaft und
+    Technik bei jeder Organspende erhoben werden müssen,
+
+
+2.  die Angaben, die nach ärztlicher Beurteilung unter Berücksichtigung
+    der Verfügbarkeit der entsprechenden Angaben und der besonderen
+    Umstände des jeweiligen Falles nach dem Stand der medizinischen
+    Wissenschaft und Technik zusätzlich erhoben werden müssen,
+
+
+3.  das Verfahren für die Übermittlung von Angaben über die Organ- und
+    Spendercharakterisierung und
+
+
+4.  die Kennzeichnung der Behältnisse für den Transport von Organen.
+
+
+
+Wenn in einem besonderen Fall, einschließlich einem lebensbedrohlichen
+Notfall, eine Risiko-Nutzen-Analyse ergibt, dass der erwartete Nutzen
+für den Organempfänger größer ist als die Risiken auf Grund
+unvollständiger Daten, kann ein Organ auch dann übertragen werden,
+wenn nicht alle in der Rechtsverordnung nach Satz 2 Nummer 1
+festgelegten Mindestangaben vor der Übertragung vorliegen.
 
 
 ### § 11 Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle
 
-(1) Die Entnahme von vermittlungspflichtigen Organen einschließlich
-der Vorbereitung von Entnahme, Vermittlung und Übertragung ist
-gemeinschaftliche Aufgabe der Transplantationszentren und der anderen
-Krankenhäuser in regionaler Zusammenarbeit. Zur Organisation dieser
-Aufgabe errichten oder beauftragen der Spitzenverband Bund der
+(1) Die Entnahme von Organen verstorbener Spender einschließlich der
+Vorbereitung von Entnahme, Vermittlung und Übertragung ist
+gemeinschaftliche Aufgabe der Transplantationszentren und der
+Entnahmekrankenhäuser in regionaler Zusammenarbeit. Zur Organisation
+dieser Aufgabe errichten oder beauftragen der Spitzenverband Bund der
 Krankenkassen, die Bundesärztekammer und die Deutsche
 Krankenhausgesellschaft oder die Bundesverbände der Krankenhausträger
 gemeinsam eine geeignete Einrichtung (Koordinierungsstelle). Sie muß
@@ -926,17 +1129,89 @@ auf Grund einer finanziell und organisatorisch eigenständigen
 Trägerschaft, der Zahl und Qualifikation ihrer Mitarbeiter, ihrer
 betrieblichen Organisation sowie ihrer sachlichen Ausstattung die
 Gewähr dafür bieten, daß die Maßnahmen nach Satz 1 in Zusammenarbeit
-mit den Transplantationszentren und den anderen Krankenhäusern nach
+mit den Transplantationszentren und den Entnahmekrankenhäusern nach
 den Vorschriften dieses Gesetzes durchgeführt werden. Die
 Transplantationszentren müssen in der Koordinierungsstelle angemessen
-vertreten sein.
+vertreten sein. Der Spitzenverband Bund der Krankenkassen, die
+Bundesärztekammer und die Deutsche Krankenhausgesellschaft oder die
+Bundesverbände der Krankenhausträger gemeinsam haben darauf zu achten,
+dass die Koordinierungsstelle die Voraussetzungen des Satzes 3 erfüllt
+und dabei nach den Grundsätzen der Wirtschaftlichkeit arbeitet. Die
+Koordinierungsstelle hat die grundsätzlichen finanziellen und
+organisatorischen Entscheidungen dem Spitzenverband Bund der
+Krankenkassen, der Bundesärztekammer und der Deutschen
+Krankenhausgesellschaft oder den Bundesverbänden der Krankenhausträger
+gemeinsam unverzüglich vorzulegen. Die Haushaltslegung und die
+finanzielle Eigenständigkeit kann auf Veranlassung des
+Spitzenverbandes Bund der Krankenkassen, der Bundesärztekammer und der
+Deutschen Krankenhausgesellschaft oder der Bundesverbände der
+Krankenhausträger gemeinsam durch unabhängige Sachverständige geprüft
+werden. Die Koordinierungsstelle hat jährlich einen Geschäftsbericht
+zu veröffentlichen. Der Spitzenverband Bund der Krankenkassen, die
+Bundesärztekammer und die Deutsche Krankenhausgesellschaft oder die
+Bundesverbände der Krankenhausträger gemeinsam haben sicherzustellen,
+dass die Koordinierungsstelle die Veröffentlichungspflicht erfüllt.
+
+(1a) Die Koordinierungsstelle hat die Zusammenarbeit zur Organentnahme
+bei verstorbenen Spendern und die Durchführung aller bis zur
+Übertragung erforderlichen Maßnahmen mit Ausnahme der Vermittlung von
+Organen durch die Vermittlungsstelle nach § 12 unter Beachtung der
+Richtlinien nach § 16 zu organisieren, um die vorhandenen
+Möglichkeiten der Organspende wahrzunehmen und durch die Entnahme und
+Bereitstellung geeigneter Spenderorgane die gesundheitlichen Risiken
+der Organempfänger so gering wie möglich zu halten. Hierzu erstellt
+die Koordinierungsstelle geeignete Verfahrensanweisungen unter
+Beachtung der Richtlinien nach § 16, insbesondere
+
+1.  zur Meldung nach § 9a Absatz 2 Nummer 1,
+
+
+2.  zur Überprüfung der Spenderidentität,
+
+
+3.  zur Überprüfung der Einzelheiten der Einwilligung des Spenders nach §
+    3 oder der Zustimmung anderer Personen nach § 4,
+
+
+4.  zur Überprüfung des Abschlusses der Organ- und
+    Spendercharakterisierung nach § 10a Absatz 1,
+
+
+5.  zur Sicherstellung, dass die Angaben zur Organ- und
+    Spendercharakterisierung das Transplantationszentrum, bei
+    vermittlungspflichtigen Organen die Vermittlungsstelle nach § 12,
+    rechtzeitig erreichen,
+
+
+6.  für die Entnahme, Konservierung, Verpackung und Kennzeichnung von
+    Organen,
+
+
+7.  für den Transport der Organe, um ihre Unversehrtheit während des
+    Transports und eine angemessene Transportdauer sicherzustellen,
+
+
+8.  zur Sicherstellung der Rückverfolgung nach § 13 Absatz 1,
+
+
+9.  zur Sicherstellung der unverzüglichen Meldung schwerwiegender
+    Zwischenfälle und schwerwiegender unerwünschter Reaktionen und der in
+    diesem Zusammenhang getroffenen Maßnahmen auf der Grundlage der
+    Rechtsverordnung nach § 13 Absatz 4.
+
+
+
+Die Koordinierungsstelle stellt sicher, dass das von ihr eingesetzte
+medizinische Personal für seine Aufgaben qualifiziert ist. Das Nähere
+zur Erstellung der Verfahrensanweisungen nach Satz 2 regelt der
+Vertrag nach Absatz 2.
 
 (2) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer,
 die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
 Krankenhausträger gemeinsam und die Koordinierungsstelle regeln durch
-Vertrag die Aufgaben der Koordinierungsstelle mit Wirkung für die
-Transplantationscentren und die anderen Krankenhäuser. Der Vertrag
-regelt insbesondere
+Vertrag das Nähere zu den Aufgaben der Koordinierungsstelle mit
+Wirkung für die Transplantationscentren und die Entnahmekrankenhäuser.
+Der Vertrag regelt insbesondere
 
 1.  die Anforderungen an die im Zusammenhang mit einer Organentnahme zum
     Schutz der Organempfänger erforderlichen Maßnahmen sowie die
@@ -953,11 +1228,21 @@ regelt insbesondere
 
 4.  den Ersatz angemessener Aufwendungen der Koordinierungsstelle für die
     Erfüllung ihrer Aufgaben nach diesen Gesetz einschließlich der
-    Abgeltung von Leistungen, die Transplantationszentren und andere
-    Krankenhäuser im Rahmen der Organentnahme erbringen.
+    Abgeltung von Leistungen, die Entnahmekrankenhäuser im Rahmen der
+    Organentnahme erbringen,
+
+
+5.  einen angemessenen pauschalen Zuschlag an die Entnahmekrankenhäuser
+    für die Bestellung von Transplantationsbeauftragten und
+
+
+6.  ein Schlichtungsverfahren bei einer fehlenden Einigung über den Ersatz
+    angemessener Aufwendungen nach Nummer 4.
 
 
 
+Der Vertrag nach Satz 1 bedarf des Einvernehmens mit dem Verband der
+privaten Krankenversicherung.
 
 (3) Der Vertrag nach den Absätzen 1 und 2 sowie seine Änderung bedarf
 der Genehmigung durch das Bundesministerium für Gesundheit und ist im
@@ -966,64 +1251,80 @@ der Vertrag oder seine Änderung den Vorschriften dieses Gesetzes und
 sonstigem Recht entspricht. Der Spitzenverband Bund der Krankenkassen,
 die Bundesärztekammer und die Deutsche Krankenhausgesellschaft oder
 die Bundesverbände der Krankenhausträger gemeinsam überwachen die
-Einhaltung der Vertragsbestimmungen.
+Einhaltung der Vertragsbestimmungen. Zur Erfüllung ihrer Verpflichtung
+nach Satz 3 setzen sie eine Kommission ein, die jeweils aus mindestens
+einem Vertreter des Spitzenverbandes Bund der Krankenkassen, der
+Bundesärztekammer und der Deutschen Krankenhausgesellschaft oder der
+Bundesverbände der Krankenhausträger gemeinsam und zwei Vertretern der
+Länder zusammengesetzt ist. Die Koordinierungsstelle, die
+Transplantationszentren und die Entnahmekrankenhäuser sind
+verpflichtet, der Kommission die erforderlichen Unterlagen zur
+Verfügung zu stellen und die erforderlichen Auskünfte zu erteilen. Die
+Kommission ist verpflichtet, Erkenntnisse über Verstöße gegen dieses
+Gesetz oder gegen auf Grund dieses Gesetzes erlassene
+Rechtsverordnungen an die zuständigen Behörden der Länder
+weiterzuleiten. Das Nähere zur Zusammensetzung der Kommission, zur
+Arbeitsweise und zum Verfahren regelt der Vertrag nach Absatz 2.
 
-(4) Die Transplantationszentren und die anderen Krankenhäuser sind
+(4) Die Transplantationszentren und die Entnahmekrankenhäuser sind
 verpflichtet, untereinander und mit der Koordinierungsstelle zur
-Entnahme vermittlungspflichtiger Organe sowie zur Entnahme von Geweben
-bei möglichen Spendern vermittlungspflichtiger Organe
-zusammenzuarbeiten. Die Krankenhäuser sind verpflichtet, den
-endgültigen, nicht behebbaren Ausfall der Gesamtfunktion des
-Großhirns, des Kleinhirns und des Hirnstamms von Patienten, die nach
-ärztlicher Beurteilung als Spender vermittlungspflichtiger Organe in
-Betracht kommen, dem zuständigen Transplantationszentrum mitzuteilen,
-das die Koordinierungsstelle unterrichtet. Kommen diese Patienten
-zugleich als Gewebespender in Betracht, ist dies gleichzeitig
-mitzuteilen. Das zuständige Transplantationszentrum klärt in
-Zusammenarbeit mit der Koordinierungsstelle, ob die Voraussetzungen
-für eine Organ- oder Gewebeentnahme vorliegen. Hierzu erhebt das
-zuständige Transplantationszentrum die Personalien dieser Patienten
-und weitere für die Durchführung der Organentnahme und -vermittlung
-oder der Gewebeentnahme erforderliche personenbezogene Daten. Die
-Krankenhäuser sind verpflichtet, dem zuständigen
-Transplantationszentrum diese Daten zu übermitteln; dieses übermittelt
-die Daten an die Koordinierungsstelle.
+Entnahme von Organen sowie zur Entnahme von Geweben bei möglichen
+Organspendern nach § 3 oder § 4 zusammenzuarbeiten. Die
+Koordinierungsstelle klärt, ob die Voraussetzungen für eine
+Organentnahme vorliegen. Hierzu erhebt sie die Personalien dieser
+möglichen Organspender und weitere für die Durchführung der
+Organentnahme und -vermittlung erforderliche personenbezogene Daten.
+Die Entnahmekrankenhäuser sind verpflichtet, diese Daten an die
+Koordinierungsstelle zu übermitteln. Die Organentnahme wird durch die
+Koordinierungsstelle organisiert und erfolgt durch die von ihr
+beauftragten Ärzte.
 
-(5) Die Koordinierungsstelle veröffentlicht jährlich einen Bericht,
-der die Tätigkeit jedes Transplantationszentrums im vergangenen
-Kalenderjahr nach einheitlichen Vorgaben darstellt und insbesondere
-folgende, nicht personenbezogene Angaben enthält:
+(5) Die Koordinierungsstelle führt ein Verzeichnis über die
+Entnahmekrankenhäuser nach § 9a und über die Transplantationszentren
+nach § 10. Sie dokumentiert die Tätigkeiten der Entnahmekrankenhäuser
+und der Transplantationszentren und veröffentlicht jährlich einen
+Bericht, der die Tätigkeiten der Entnahmekrankenhäuser und der
+Transplantationszentren im vergangenen Kalenderjahr nach einheitlichen
+Vorgaben darstellt und insbesondere folgende, nicht personenbezogene
+Daten enthält:
 
-1.  Zahl und Art der durchgeführten Organübertragungen nach § 9 und ihre
-    Ergebnisse, getrennt nach Organen von Spendern nach den §§ 3 und 4
-    sowie nach § 8,
+1.  Zahl und Art der durchgeführten Organentnahmen nach § 9 Absatz 1,
+    getrennt nach Organen von Spendern nach den §§ 3 und 4, einschließlich
+    der Zahl und Art der nach der Entnahme verworfenen Organe,
 
 
-2.  die Entwicklung der Warteliste, insbesondere aufgenommene,
-    transplantierte, aus anderen Gründen ausgeschiedene sowie verstorbene
-    Patienten,
+2.  Zahl und Art der durchgeführten Organübertragungen nach § 9 Absatz 2
+    und ihre Ergebnisse, getrennt nach Organen von Spendern nach den §§ 3
+    und 4 sowie nach § 8,
 
 
-3.  die Gründe für die Aufnahme oder Nichtaufnahme in die Warteliste,
+3.  die Entwicklung der Warteliste nach § 10 Absatz 2 Satz 1 Nummer 1,
+    insbesondere aufgenommene, transplantierte, aus anderen Gründen
+    ausgeschiedene sowie verstorbene Patienten,
 
 
-4.  Altersgruppe, Geschlecht, Familienstand und Versichertenstatus der zu
-    den Nummern 1 bis 3 betroffenen Patienten,
+4.  die Gründe für die Aufnahme oder Nichtaufnahme in die Warteliste nach
+    § 10 Absatz 2 Satz 1 Nummer 2,
 
 
-5.  die Nachbetreuung der Spender nach § 8 Abs. 3 Satz 1 und die
+5.  Altersgruppe, Geschlecht, Familienstand und Versichertenstatus der zu
+    den Nummern 2 bis 4 betroffenen Patienten,
+
+
+6.  die Nachbetreuung der Spender nach § 8 Absatz 3 Satz 1 und die
     Dokumentation ihrer durch die Organspende bedingten gesundheitlichen
     Risiken,
 
 
-6.  die durchgeführten Maßnahmen zur Qualitätssicherung nach § 10 Abs. 2
-    Nr. 6.
+7.  die durchgeführten Maßnahmen zur Qualitätssicherung nach § 10 Absatz 2
+    Nummer 8.
 
 
 
 In dem Vertrag nach Absatz 2 können einheitliche Vorgaben für den
-Tätigkeitsbericht und die ihm zugrundeliegenden Angaben der
-Transplantationszentren vereinbart werden.
+Tätigkeitsbericht und die ihm zugrunde liegenden Angaben der
+Entnahmekrankenhäuser und der Transplantationszentren vereinbart
+werden.
 
 (6) (weggefallen)
 
@@ -1039,10 +1340,20 @@ und organisatorisch eigenständigen Trägerschaft, der Zahl und
 Qualifikation ihrer Mitarbeiter, ihrer betrieblichen Organisation
 sowie ihrer sachlichen Ausstattung die Gewähr dafür bieten, daß die
 Organvermittlung nach den Vorschriften dieses Gesetzes erfolgt. Soweit
-sie Organe vermittelt, die außerhalb des Geltungsbereichs dieses
-Gesetzes entnommen werden, muß sie auch gewährleisten, daß die zum
-Schutz der Organempfänger erforderlichen Maßnahmen nach dem Stand der
-Erkenntnisse der medizinischen Wissenschaft durchgeführt werden. Es
+sie Organe vermittelt, die in Ländern entnommen werden, die nicht
+Mitgliedstaaten der Europäischen Union oder andere Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum sind, um die Organe im
+Geltungsbereich dieses Gesetzes zu übertragen, oder die im
+Geltungsbereich dieses Gesetzes entnommen werden, um die Organe in
+Ländern zu übertragen, die nicht Mitgliedstaaten der Europäischen
+Union oder andere Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum sind, muss sie auch gewährleisten, dass die zum Schutz
+der Organempfänger erforderlichen Maßnahmen nach dem Stand der
+Erkenntnisse der medizinischen Wissenschaft durchgeführt und die
+Qualitäts- und Sicherheitsanforderungen erfüllt werden, die den in
+diesem Gesetz und auf Grund dieses Gesetzes erlassener
+Rechtsverordnungen festgelegten Anforderungen gleichwertig sind, und
+dass eine lückenlose Rückverfolgung der Organe sichergestellt ist. Es
 dürfen nur Organe vermittelt werden, die im Einklang mit den am Ort
 der Entnahme geltenden Rechtsvorschriften entnommen worden sind,
 soweit deren Anwendung nicht zu einem Ergebnis führt, das mit
@@ -1065,7 +1376,8 @@ der Transplantationszentren sind dabei als eine einheitliche
 Warteliste zu behandeln. Die Vermittlungsentscheidung ist für jedes
 Organ unter Angabe der Gründe zu dokumentieren und unter Verwendung
 der Kenn-Nummer dem Transplantationszentrum und der
-Koordinierungsstelle zu übermitteln.
+Koordinierungsstelle zu übermitteln, um eine lückenlose Rückverfolgung
+der Organe zu ermöglichen.
 
 (4) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer,
 die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
@@ -1087,9 +1399,18 @@ Transplantationszentren. Der Vertrag regelt insbesondere
     Verfahren zur Einhaltung der Vorschriften des Absatzes 1 Satz 3 und 4,
 
 
+3a. für Organe, die in einem anderen Mitgliedstaat der Europäischen Union
+    oder anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum entnommen werden, um die Organe im Geltungsbereich
+    dieses Gesetzes zu übertragen, oder die im Geltungsbereich dieses
+    Gesetzes entnommen werden, um diese Organe in diesen Staaten zu
+    übertragen, die Anforderungen an die Vermittlung dieser Organe unter
+    Einhaltung der Regelungen dieses Gesetzes und der auf Grund dieses
+    Gesetzes erlassenen Rechtsverordnungen,
+
+
 4.  die Überprüfung von Vermittlungsentscheidungen in regelmäßigen
-    Abständen durch eine von den Vertragspartnern bestimmte
-    Prüfungskommission,
+    Abständen,
 
 
 5.  die Zusammenarbeit und den Erfahrungsaustausch mit der
@@ -1109,6 +1430,8 @@ Transplantationszentren. Der Vertrag regelt insbesondere
 
 
 
+Der Vertrag nach Satz 1 bedarf des Einvernehmens mit dem Verband der
+privaten Krankenversicherung.
 
 (5) Der Vertrag nach den Absätzen 1 und 4 sowie seine Änderung bedarf
 der Genehmigung durch das Bundesministerium für Gesundheit und ist im
@@ -1117,7 +1440,19 @@ der Vertrag oder seine Änderung den Vorschriften dieses Gesetzes und
 sonstigem Recht entspricht. Der Spitzenverband Bund der Krankenkassen,
 die Bundesärztekammer und die Deutsche Krankenhausgesellschaft oder
 die Bundesverbände der Krankenhausträger gemeinsam überwachen die
-Einhaltung der Vertragsbestimmungen.
+Einhaltung der Vertragsbestimmungen. Zur Erfüllung ihrer Verpflichtung
+nach Satz 3 setzen sie eine Kommission ein, die jeweils aus mindestens
+einem Vertreter des Spitzenverbandes Bund der Krankenkassen, der
+Bundesärztekammer und der Deutschen Krankenhausgesellschaft oder der
+Bundesverbände der Krankenhausträger gemeinsam und zwei Vertretern der
+Länder zusammengesetzt ist. Die Vermittlungsstelle und die
+Transplantationszentren sind verpflichtet, der Kommission die
+erforderlichen Unterlagen zur Verfügung zu stellen und die
+erforderlichen Auskünfte zu erteilen. Die Kommission ist verpflichtet,
+Erkenntnisse über Verstöße gegen dieses Gesetz und auf Grund dieses
+Gesetzes erlassene Rechtsverordnungen an die zuständigen Behörden der
+Länder weiterzuleiten. Das Nähere zur Zusammensetzung der Kommission,
+zur Arbeitsweise und zum Verfahren regelt der Vertrag nach Absatz 4.
 
 (6) (weggefallen)
 
@@ -1125,16 +1460,18 @@ Einhaltung der Vertragsbestimmungen.
 ## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung,  Datenschutz, Fristen
 
 
-### § 13 Meldungen, Begleitpapiere vermittlungspflichtiger Organe
+### § 13 Dokumentation, Rückverfolgung, Verordnungsermächtigung zur Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
 
 (1) Die Koordinierungsstelle verschlüsselt in einem mit den
 Transplantationszentren abgestimmten Verfahren die personenbezogenen
 Daten des Organspenders und bildet eine Kenn-Nummer, die
 ausschließlich der Koordinierungsstelle einen Rückschluss auf die
-Person des Organspenders ermöglicht. Die Kenn-Nummer ist in die
-Begleitpapiere für das entnommene Organ aufzunehmen. Die
-Begleitpapiere enthalten daneben alle für die Organübertragung
-erforderlichen medizinischen Angaben. Die Koordinierungsstelle meldet
+Person des Organspenders zulässt, um eine lückenlose Rückverfolgung
+der Organe zu ermöglichen. Die Kenn-Nummer ist in die Begleitpapiere
+für das entnommene Organ aufzunehmen. Die Begleitpapiere enthalten
+daneben alle für die Organübertragung erforderlichen medizinischen
+Angaben, einschließlich der Angaben zur Organ- und
+Spendercharakterisierung nach § 10a. Die Koordinierungsstelle meldet
 das Organ, die Kenn-Nummer und die für die Organvermittlung
 erforderlichen medizinischen Angaben an die Vermittlungsstelle und
 übermittelt nach Entscheidung der Vermittlungsstelle die
@@ -1166,6 +1503,28 @@ Patienten keinen Aufschub, kann sie auch ohne seine vorherige
 Einwilligung erfolgen; die Einwilligung ist unverzüglich nachträglich
 einzuholen.
 
+(4) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
+mit Zustimmung des Bundesrates das Verfahren regeln
+
+1.  für die Übermittlung der Angaben, die für die Sicherstellung der
+    Rückverfolgbarkeit der Organe nach Absatz 1 notwendig sind,
+
+
+2.  für die Meldung, Dokumentation, Untersuchung und Bewertung
+    schwerwiegender Zwischenfälle und schwerwiegender unerwünschter
+    Reaktionen und, soweit beim Organspender gleichzeitig Gewebe entnommen
+    wurde, für die Meldung an die Gewebeeinrichtung, die das Gewebe
+    entgegengenommen hat, sowie
+
+
+3.  zur Sicherstellung der Meldung von Vorfällen bei einer
+    Lebendorganspende, die mit der Qualität und Sicherheit des gespendeten
+    Organs zusammenhängen können, und von schwerwiegenden unerwünschten
+    Reaktionen beim lebenden Spender.
+
+
+
+
 
 ### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen  Versorgung
 
@@ -1177,19 +1536,18 @@ oder unter dessen Verantwortung nach Maßgabe einer Rechtsverordnung
 nach § 16a dokumentiert wird.
 
 
-### § 13b Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter  Reaktionen bei Geweben
+### § 13b Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen bei Geweben
 
 Die Einrichtungen der medizinischen Versorgung haben
 
-1.  jeden schwerwiegenden Zwischenfall, der auf die Entnahme,
-    Untersuchung, Aufbereitung, Be- oder Verarbeitung, Konservierung,
-    Aufbewahrung oder Abgabe einschließlich des Transports der verwendeten
-    Gewebe zurückgeführt werden kann, und
+1.  jeden schwerwiegenden Zwischenfall im Sinne des § 63c Absatz 6 des
+    Arzneimittelgesetzes und
 
 
-2.  jede schwerwiegende unerwünschte Reaktion, die bei oder nach der
-    Übertragung der Gewebe beobachtet wurde und mit der Qualität und
-    Sicherheit der Gewebe im Zusammenhang stehen kann,
+2.  jede schwerwiegende unerwünschte Reaktion im Sinne des § 63c Absatz 7
+    des Arzneimittelgesetzes, die bei oder nach der Übertragung der Gewebe
+    beobachtet wurde und mit der Qualität und Sicherheit der Gewebe im
+    Zusammenhang stehen kann,
 
 
 
@@ -1204,11 +1562,12 @@ mitzuteilen.
 ### § 13c Rückverfolgungsverfahren bei Geweben
 
 (1) Jede Gewebeeinrichtung legt ein Verfahren fest, mit dem sie jedes
-Gewebe, das durch einen schwerwiegenden Zwischenfall oder eine
-schwerwiegende unerwünschte Reaktion beeinträchtigt sein könnte,
-unverzüglich aussondern, von der Abgabe ausschließen und die
-belieferten Einrichtungen der medizinischen Versorgung unterrichten
-kann.
+Gewebe, das durch einen schwerwiegenden Zwischenfall im Sinne des §
+63c Absatz 6 des Arzneimittelgesetzes oder eine schwerwiegende
+unerwünschte Reaktion im Sinne des § 63c Absatz 7 des
+Arzneimittelgesetzes beeinträchtigt sein könnte, unverzüglich
+aussondern, von der Abgabe ausschließen und die belieferten
+Einrichtungen der medizinischen Versorgung unterrichten kann.
 
 (2) Hat eine Gewebeeinrichtung oder eine Einrichtung der medizinischen
 Versorgung den begründeten Verdacht, dass Gewebe eine schwerwiegende
@@ -1236,21 +1595,53 @@ worden ist.
 (2) Die an der Erteilung oder Weitergabe der Auskunft nach § 2 Abs. 4
 beteiligten Personen mit Ausnahme des Erklärenden, die an der
 Stellungnahme nach § 8 Abs. 3 Satz 2, die an der Mitteilung,
-Unterrichtung oder Übermittlung nach § 11 Abs. 4 sowie die an der
-Organ- oder Gewebeentnahme, der Organvermittlung oder -übertragung
-oder der Gewebeabgabe oder -übertragung beteiligten Personen dürfen
-personenbezogene Daten der Spender und der Empfänger nicht offenbaren.
-Dies gilt auch für personenbezogene Daten von Personen, die nach § 3
-Abs. 3 Satz 1 über die beabsichtigte oder nach § 4 oder § 4a über eine
-in Frage kommende Organ- oder Gewebeentnahme unterrichtet worden sind.
-Die im Rahmen dieses Gesetzes erhobenen personenbezogenen Daten dürfen
-für andere als in diesem Gesetz genannte Zwecke nicht verwendet
-werden. Sie dürfen für gerichtliche Verfahren verwendet werden, deren
-Gegenstand die Verletzung des Offenbarungsverbots nach Satz 1 oder 2
-ist. Die in Absatz 1 Satz 1 genannten Stellen haben technische und
+Unterrichtung oder Übermittlung nach § 9a Absatz 2 Nummer 1 und § 11
+Abs. 4 sowie die an der Organ- oder Gewebeentnahme, der
+Organvermittlung oder -übertragung oder der Gewebeabgabe oder
+-übertragung beteiligten Personen dürfen personenbezogene Daten der
+Spender und der Empfänger nicht offenbaren. Dies gilt auch für
+personenbezogene Daten von Personen, die nach § 3 Abs. 3 Satz 1 über
+die beabsichtigte oder nach § 4 oder § 4a über eine in Frage kommende
+Organ- oder Gewebeentnahme unterrichtet worden sind. Die im Rahmen
+dieses Gesetzes erhobenen personenbezogenen Daten dürfen für andere
+als in diesem Gesetz genannte Zwecke nicht verwendet werden. Sie
+dürfen für gerichtliche Verfahren verwendet werden, deren Gegenstand
+die Verletzung des Offenbarungsverbots nach Satz 1 oder 2 ist. Die in
+Absatz 1 Satz 1 genannten Stellen haben technische und
 organisatorische Maßnahmen zu treffen, damit die Daten gegen
 unbefugtes Hinzufügen, Löschen oder Verändern geschützt sind und keine
 unbefugte Weitergabe erfolgt.
+
+(2a) Ärzte und anderes wissenschaftliches Personal des
+Entnahmekrankenhauses, des Transplantationszentrums, der
+Koordinierungsstelle nach § 11 und der Vermittlungsstelle nach § 12
+dürfen personenbezogene Daten, die im Rahmen der Organ- und
+Spendercharakterisierung beim Organ- oder Gewebespender oder im Rahmen
+der Organ- oder Gewebeübertragung beim Organ- oder Gewebeempfänger
+erhoben worden sind, abweichend von Absatz 2 Satz 3 für eigene
+wissenschaftliche Forschungsvorhaben verwenden. Diese Daten dürfen für
+ein bestimmtes Forschungsvorhaben an Dritte und andere als die in Satz
+1 genannten Personen übermittelt und von diesen verwendet werden, wenn
+
+1.  die Daten der betroffenen Person nicht mehr zugeordnet werden können,
+
+
+2.  im Falle, dass der Forschungszweck die Möglichkeit der Zuordnung
+    erfordert, die betroffene Person eingewilligt hat oder
+
+
+3.  im Falle, dass weder auf die Zuordnungsmöglichkeit verzichtet noch die
+    Einwilligung mit verhältnismäßigem Aufwand eingeholt werden kann, das
+    öffentliche Interesse an der Durchführung des Forschungsvorhabens die
+    schützenswerten Interessen der betroffenen Person überwiegt und der
+    Forschungszweck nicht auf andere Weise zu erreichen ist.
+
+
+
+Die personenbezogenen Daten sind, soweit dies nach dem Forschungszweck
+möglich ist und keinen im Verhältnis zu dem angestrebten Schutzzweck
+unverhältnismäßigen Aufwand erfordert, zu anonymisieren oder, solange
+eine Anonymisierung noch nicht möglich ist, zu pseudonymisieren.
 
 (3) Von diesen Vorschriften unberührt bleibt im Falle der Samenspende
 das Recht des Kindes auf Kenntnis der eigenen Abstammung. Im Falle der
@@ -1269,21 +1660,19 @@ Untersuchungsergebnisse nach § 5 Abs. 2 Satz 3 und Abs. 3 Satz 3, zur
 Aufklärung nach § 8 Abs. 2 Satz 4, auch in Verbindung mit § 8a Satz 1
 Nr. 4, § 8b Abs. 1 und 2, § 8c Abs. 1 Nr. 1 Buchstabe b und Abs. 2 und
 3 und zur gutachtlichen Stellungnahme nach § 8 Abs. 3 Satz 2 sowie die
-Dokumentationen der Organentnahme, -vermittlung und -übertragung sind
-mindestens zehn Jahre aufzubewahren. Die in diesen Aufzeichnungen und
-Dokumentationen enthaltenen personenbezogenen Daten sind spätestens
-bis zum Ablauf eines weiteren Jahres zu löschen. Satz 2 ist nicht
-anzuwenden, wenn die dort genannten Daten zusammen mit den in Absatz 2
-genannten Angaben aufbewahrt werden; diese Daten sind spätestens nach
-Ablauf von 30 Jahren zu löschen oder zu anonymisieren.
+Dokumentationen der Organentnahme, -vermittlung und -übertragung und
+die nach § 10a erhobenen Angaben zur Organ- und
+Spendercharakterisierung sind mindestens 30 Jahre aufzubewahren, um
+eine lückenlose Rückverfolgung der Organe zu ermöglichen.
 
-(2) Abweichend von Absatz 1 müssen zum Zwecke der Rückverfolgung die
-nach § 8d Abs. 2 zu dokumentierenden Angaben mindestens 30 Jahre lang
-nach Ablauf des Verfalldatums des Gewebes und die nach § 13a zu
-dokumentierenden Daten mindestens 30 Jahre lang nach der Übertragung
-des Gewebes aufbewahrt werden und unverzüglich verfügbar sein. Nach
-Ablauf der Aufbewahrungsfrist sind die Angaben zu löschen oder zu
-anonymisieren.
+(2) Die nach § 8d Absatz 2 zu dokumentierenden Angaben müssen
+mindestens 30 Jahre lang nach Ablauf des Verfalldatums des Gewebes und
+die nach § 13a zu dokumentierenden Daten mindestens 30 Jahre lang nach
+der Übertragung des Gewebes aufbewahrt werden und unverzüglich
+verfügbar sein.
+
+(3) Nach Ablauf der Aufbewahrungsfrist nach den Absätzen 1 und 2 sind
+die Angaben zu löschen oder zu anonymisieren.
 
 
 ## Abschnitt 5a - Richtlinien zum Stand der Erkenntnisse der  medizinischen Wissenschaft, Verordnungsermächtigung
@@ -1309,12 +1698,13 @@ medizinischen Wissenschaft in Richtlinien fest für
     Ablehnung der Aufnahme,
 
 
-3.  die ärztliche Beurteilung nach § 11 Abs. 4 Satz 2,
+3.  die ärztliche Beurteilung nach § 9a Absatz 2 Nummer 1,
 
 
 4.  die Anforderungen an die im Zusammenhang mit einer Organentnahme zum
     Schutz der Organempfänger erforderlichen Maßnahmen einschließlich
-    ihrer Dokumentation, insbesondere an
+    ihrer Dokumentation ergänzend zu der Organ- und
+    Spendercharakterisierung nach § 10a, insbesondere an
 
     a)  die Untersuchung des Organspenders, der entnommenen Organe und der
         Organempfänger, um die gesundheitlichen Risiken für die
@@ -1328,14 +1718,25 @@ medizinischen Wissenschaft in Richtlinien fest für
         Beschaffenheit zu erhalten,
 
 
+    c)  die Erkennung und Behandlung von Vorfällen bei einer
+        Lebendorganspende, die mit der Qualität und Sicherheit des gespendeten
+        Organs zusammenhängen können, oder von schwerwiegenden unerwünschten
+        Reaktionen beim lebenden Spender, die im Rahmen seiner Nachbetreuung
+        festgestellt werden,
 
 
 
-5.  die Regeln zur Organvermittlung nach § 12 Abs. 3 Satz 1 und
+
+
+5.  die Regeln zur Organvermittlung nach § 12 Abs. 3 Satz 1,
 
 
 6.  die Anforderungen an die im Zusammenhang mit einer Organentnahme und
-    -übertragung erforderlichen Maßnahmen zur Qualitätssicherung.
+    -übertragung erforderlichen Maßnahmen zur Qualitätssicherung und
+
+
+7.  die Anforderungen an die Aufzeichnung der Lebendorganspenden nach § 10
+    Absatz 2 Nummer 6.
 
 
 
@@ -1343,15 +1744,23 @@ Die Einhaltung des Standes der Erkenntnisse der medizinischen
 Wissenschaft wird vermutet, wenn die Richtlinien der Bundesärztekammer
 beachtet worden sind.
 
-(2) Bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 1, 1a
-und 5 sollen Ärzte, die weder an der Entnahme noch an der Übertragung
-von Organen beteiligt sind, noch Weisungen eines Arztes unterstehen,
-der an solchen Maßnahmen beteiligt ist, bei der Erarbeitung der
-Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5 Personen mit der
-Befähigung zum Richteramt und Personen aus dem Kreis der Patienten,
-bei der Erarbeitung von Richtlinien nach Absatz 1 Satz 1 Nr. 5 ferner
-Personen aus dem Kreis der Angehörigen von Organspendern nach § 3 oder
-§ 4 angemessen vertreten sein.
+(2) Die Bundesärztekammer legt das Verfahren für die Erarbeitung der
+Richtlinien nach Absatz 1 und für die Beschlussfassung fest. Bei der
+Erarbeitung der Richtlinien ist die angemessene Beteiligung von
+Sachverständigen der betroffenen Fach- und Verkehrskreise‚
+einschließlich des Spitzenverbandes Bund der Krankenkassen, der
+Deutschen Krankenhausgesellschaft, der Deutschen
+Transplantationsgesellschaft, der Koordinierungsstelle nach § 11, der
+Vermittlungsstelle nach § 12 und der zuständigen Behörden der Länder
+vorzusehen. Darüber hinaus sollen bei der Erarbeitung der Richtlinien
+nach Absatz 1 Satz 1 Nr. 1, 1a und 5 Ärzte, die weder an der Entnahme
+noch an der Übertragung von Organen beteiligt sind, noch Weisungen
+eines Arztes unterstehen, der an solchen Maßnahmen beteiligt ist, bei
+der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5
+Personen mit der Befähigung zum Richteramt und Personen aus dem Kreis
+der Patienten, bei der Erarbeitung von Richtlinien nach Absatz 1 Satz
+1 Nr. 5 ferner Personen aus dem Kreis der Angehörigen von
+Organspendern nach § 3 oder § 4 angemessen vertreten sein.
 
 
 ### § 16a Verordnungsermächtigung
@@ -1542,29 +1951,47 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
 
-4.  entgegen § 9 Abs. 1 ein Organ überträgt,
+4.  entgegen § 9 Absatz 1 oder Absatz 2 Satz 1 oder Satz 3 ein Organ
+    entnimmt oder überträgt,
 
 
-5.  entgegen § 10 Abs. 2 Nr. 4 die Organübertragung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig dokumentiert,
+5.  entgegen § 9 Absatz 2 Satz 2 ein Organ überträgt, ohne dass die
+    Entnahme des Organs durch die Koordinierungsstelle organisiert wurde,
 
 
-6.  entgegen § 13a in Verbindung mit einer Rechtsverordnung nach § 16a
+6.  entgegen § 10 Absatz 2 Nummer 4 nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig feststellt, dass die Organ- und
+    Spendercharakterisierung nach § 10a Absatz 1 abgeschlossen ist oder
+    die Bedingungen für den Transport nach § 10a Absatz 3 Satz 1
+    eingehalten sind,
+
+
+7.  entgegen § 10 Absatz 2 Nummer 5 die Organübertragung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
+
+
+8.  entgegen § 10a Absatz 1 Satz 1 nicht sicherstellt, dass ein Organ nur
+    unter den dort genannten Voraussetzungen für eine Übertragung
+    freigegeben wird,
+
+
+9.  entgegen § 13a in Verbindung mit einer Rechtsverordnung nach § 16a
     Satz 2 Nr. 1 nicht dafür sorgt, dass ein übertragenes Gewebe
     dokumentiert wird,
 
 
-7.  entgegen § 13b Satz 1 in Verbindung mit einer Rechtsverordnung nach §
+10. entgegen § 13b Satz 1 in Verbindung mit einer Rechtsverordnung nach §
     16a Satz 2 Nr. 4 einen Qualitäts- oder Sicherheitsmangel oder eine
     schwerwiegende unerwünschte Reaktion nicht, nicht richtig, nicht
     rechtzeitig oder nicht vollständig dokumentiert oder eine Meldung
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht
+    oder
 
 
-8.  einer Rechtsverordnung nach § 16a Satz 1 oder einer vollziehbaren
-    Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
-    soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist.
+11. einer Rechtsverordnung nach § 10a Absatz 4 Satz 1, § 13 Absatz 4 oder
+    § 16a Satz 1 oder einer vollziehbaren Anordnung auf Grund einer
+    solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung
+    für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 

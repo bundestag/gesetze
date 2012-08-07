@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1346
 
-Änderung durch
-:   Art. 4 V v. 26.6.2012 I 1394 (Nr. 28) noch nicht berücksichtigt!
+Geändert durch
+:   Art. 4 V v. 26.6.2012 I 1394
 
 [^F776942_01_BJNR134600012]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/51/EWG des
     Rates vom 18. Juni 1992 über eine zweite Allgemeine Regelung zur

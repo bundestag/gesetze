@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 179
 
+V aufgeh. durch
+:   § 9 Satz 2 V 7110-6-113 v. 20.6.2012 I 1430 mWv 1.8.2012
+
 Diese Rechtsverordnung ist eine Ausbildungsordnungim Sinne des § 25
 der Handwerksordnung. DieAusbildungsordnung und der damit
 abgestimmte,von der Ständigen Konferenz der Kultusministerder Länder

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2396 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 122 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 27.6.2012 I 1421
 
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
@@ -27,8 +27,8 @@ sowie der Sicherstellung eines wirksamen und unverfälschten
 Wettbewerbs auf der Schiene bei dem Erbringen von
 Eisenbahnverkehrsleistungen und dem Betrieb von
 Eisenbahninfrastrukturen. Dieses Gesetz dient ferner der Umsetzung
-oder Durchführung von Rechtsakten der Europäischen Gemeinschaften im
-Bereich des Eisenbahnrechts.
+oder Durchführung von Rechtsakten der Europäischen Gemeinschaften oder
+der Europäischen Union im Bereich des Eisenbahnrechts.
 
 (2) Dieses Gesetz gilt für Eisenbahnen. Es gilt nicht für andere
 Schienenbahnen wie Magnetschwebebahnen, Straßenbahnen und die nach
@@ -73,16 +73,16 @@ müssen in der Lage sein, die Zugförderung sicherzustellen.
 
 (2a) Grenzüberschreitender Güterverkehr sind Verkehrsleistungen zur
 Beförderung von Gütern, bei denen der Zug mindestens eine Grenze eines
-Mitgliedstaates der Europäischen Gemeinschaften oder eines
-Mitgliedstaates des Abkommens vom 2. Mai 1992 über den Europäischen
-Wirtschaftsraum überquert; der Zug kann erweitert und geteilt werden
-und die verschiedenen Zugabschnitte können unterschiedliche Abfahrts-
-und Bestimmungsorte haben, sofern alle Wagen mindestens eine Grenze
+Mitgliedstaates der Europäischen Union oder eines Mitgliedstaates des
+Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
+überquert; der Zug kann erweitert und geteilt werden und die
+verschiedenen Zugabschnitte können unterschiedliche Abfahrts- und
+Bestimmungsorte haben, sofern alle Wagen mindestens eine Grenze
 überqueren.
 
 (2b) Grenzüberschreitender Personenverkehr sind Verkehrsleistungen zur
 Beförderung von Fahrgästen, bei denen der Zug mindestens eine Grenze
-eines Mitgliedstaates der Europäischen Gemeinschaften oder eines
+eines Mitgliedstaates der Europäischen Union oder eines
 Mitgliedstaates des Abkommens über den Europäischen Wirtschaftsraum
 überquert und der Hauptzweck des Zuges die Beförderung von Fahrgästen
 zwischen Bahnhöfen in verschiedenen Mitgliedstaaten ist; der Zug kann
@@ -193,19 +193,73 @@ Eisenbahnen.
 
 ## § 4 Sicherheitspflichten, Zuständigkeiten des Eisenbahn-Bundesamtes
 
-(1) Die Eisenbahnen sind verpflichtet, ihren Betrieb sicher zu führen
-und die Eisenbahninfrastruktur, Fahrzeuge und Zubehör sicher zu bauen
-und in betriebssicherem Zustand zu halten. Sie sind auch verpflichtet,
-an Maßnahmen des Brandschutzes und der Technischen Hilfeleistung
-mitzuwirken.
+(1) Eisenbahninfrastrukturen und Fahrzeuge müssen den Anforderungen
+der öffentlichen Sicherheit
 
-(2) Baufreigaben, Abnahmen, Prüfungen, Zulassungen, Genehmigungen und
-Überwachungen für Errichtung, Änderung, Unterhaltung und Betrieb der
-Betriebsanlagen und für Schienenfahrzeuge von Eisenbahnen des Bundes
-auf Grund anderer Gesetze und Verordnungen obliegen ausschließlich dem
-Eisenbahn-Bundesamt. § 5 Abs. 5 bleibt unberührt.
+1.  an den Bau zum Zeitpunkt der Inbetriebnahme und
 
-(3) Der Betreiber der Schienenwege muss auch den Betrieb der
+
+2.  an den Betrieb
+
+
+
+genügen.
+
+(2) Ist in einer Rechtsvorschrift für die Inbetriebnahme einer
+Eisenbahninfrastruktur oder eines Fahrzeuges eine Genehmigung
+vorgeschrieben, dann können Eisenbahnen, Halter von
+Eisenbahnfahrzeugen oder Hersteller die Genehmigung zur Inbetriebnahme
+beantragen.
+
+(3) Die Eisenbahnen und Halter von Eisenbahnfahrzeugen sind
+verpflichtet,
+
+1.  ihren Betrieb sicher zu führen,
+
+
+2.  Fahrzeuge und Zubehör in betriebssicherem Zustand zu halten und
+
+
+3.  an Maßnahmen des Brandschutzes und der Technischen Hilfeleistung
+    mitzuwirken.
+
+
+
+Eisenbahnen sind zudem verpflichtet, die Eisenbahninfrastruktur sicher
+zu bauen und in betriebssicherem Zustand zu halten.
+
+(4) Eisenbahnen, die eine Sicherheitsbescheinigung oder eine
+Sicherheitsgenehmigung benötigen, haben ein
+Sicherheitsmanagementsystem nach Artikel 9 Absatz 2 und 3 der
+Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom
+29\. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur
+Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von
+Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG
+über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung
+von Entgelten für die Nutzung von Eisenbahninfrastruktur und die
+Sicherheitsbescheinigung („Richtlinie über die Eisenbahnsicherheit“)
+(ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16), die
+zuletzt durch die Richtlinie 2009/149/EG (ABl. L 313 vom 28.11.2009,
+S. 65) geändert worden ist, einzurichten und über dessen Inhalt
+Aufzeichnungen zu führen. Die übrigen Eisenbahnen haben in geeigneter
+Weise Regelungen zur Erfüllung der Anforderungen der öffentlichen
+Sicherheit festzulegen und über deren Inhalt Aufzeichnungen zu führen.
+
+(5) Im Hinblick auf Errichtung, Änderung, Unterhaltung und Betrieb der
+Betriebsanlagen und der Fahrzeuge von Eisenbahnen des Bundes obliegen
+dem Eisenbahn-Bundesamt
+
+1.  die Erteilung von Baufreigaben, Zulassungen und Genehmigungen,
+
+
+2.  die Abnahmen, Prüfungen und Überwachungen
+
+
+
+auf Grund anderer Gesetze und Verordnungen. § 5 Absatz 5 bleibt
+unberührt.
+
+(6) Der Betreiber der Schienenwege muss auch den Betrieb der
 zugehörigen Steuerungs- und Sicherungssysteme sowie die zugehörigen
 Anlagen zur streckenbezogenen Versorgung mit Fahrstrom zum Gegenstand
 seines Unternehmens machen.
@@ -218,8 +272,9 @@ seines Unternehmens machen.
 1.  dieses Gesetzes und der darauf beruhenden Rechtsverordnungen,
 
 
-2.  des Rechts der Europäischen Gemeinschaften, soweit es Gegenstände
-    dieses Gesetzes oder die Verordnung (EG) Nr. 1371/2007 betrifft,
+2.  des Rechts der Europäischen Gemeinschaften oder der Europäischen
+    Union, soweit es Gegenstände dieses Gesetzes oder die Verordnung (EG)
+    Nr. 1371/2007 betrifft,
 
 
 3.  von zwischenstaatlichen Vereinbarungen, soweit sie Gegenstände dieses
@@ -227,7 +282,7 @@ seines Unternehmens machen.
 
 
 
-sichergestellt.
+überwacht.
 
 (1a) Für die Eisenbahnaufsicht und für Genehmigungen sind, soweit in
 diesem Gesetz nichts anderes bestimmt ist, zuständig
@@ -398,33 +453,11 @@ Sicherheitsbehörde wahr.
 Eisenbahnbetrieb auf Eisenbahninfrastrukturen, die seiner
 Eisenbahnaufsicht unterliegen. Der Bund nimmt die Aufgabe nach Satz 1
 durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung als
-Untersuchungsbehörde wahr, soweit
-
-1.  es sich um einen schweren Unfall im Sinne des Artikels 3 Buchstabe l
-    der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates
-    vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und
-    zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von
-    Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG
-    über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung
-    von Entgelten für die Nutzung von Eisenbahninfrastruktur und die
-    Sicherheitsbescheinigung (ABl. EU Nr. L 164 S. 44, Nr. L 220 S. 16)
-    handelt oder
-
-
-2.  hinreichende Anhaltspunkte dafür vorliegen, dass ein anderes als in
-    Nummer 1 genanntes gefährliches Ereignis zu einem schweren Unfall
-    hätte führen können.
-
-
-
-In den übrigen Fällen nimmt das Eisenbahn-Bundesamt die Aufgabe nach
-Satz 1 als Untersuchungsbehörde wahr. Das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung kann im einzelnen Fall jederzeit
-widerruflich das Eisenbahn-Bundesamt mit Untersuchungshandlungen
-beauftragen. Im Falle der Beauftragung nach Satz 4 hat das Eisenbahn-
-Bundesamt die Befugnisse der Untersuchungsbehörde, soweit diese zur
-Durchführung der beauftragten Untersuchungshandlungen erforderlich
-sind.
+Untersuchungsbehörde wahr. Dieses kann jederzeit widerruflich das
+Eisenbahn-Bundesamt mit Untersuchungshandlungen beauftragen. Im Falle
+der Beauftragung hat das Eisenbahn-Bundesamt die Befugnisse der
+Untersuchungsbehörde, soweit die Befugnisse zur Durchführung der
+beauftragten Untersuchungshandlungen erforderlich sind.
 
 (1g) Die für die Unfalluntersuchung zuständigen Beschäftigten des
 Eisenbahn-Bundesamtes unterstehen bei der Unfalluntersuchung
@@ -440,18 +473,19 @@ Ahndung von Ordnungswidrigkeiten zuständigen Behörden bleiben im
 
 (2) Für den Bund sind zuständig die nach dem
 Bundeseisenbahnverkehrsverwaltungsgesetz bestimmten Behörden, für das
-jeweilige Land die von der Landesregierung bestimmte Behörde. Die
-Landesregierung und das Eisenbahn-Bundesamt können miteinander
-vereinbaren, die Eisenbahnaufsicht und die Befugnis zur Erteilung von
-Genehmigungen ganz oder teilweise dem Eisenbahn-Bundesamt zu
-übertragen. Das Eisenbahn-Bundesamt führt die übertragenen Aufgaben
-nach den Weisungen und für Rechnung des Landes aus. Die
-Landesregierung kann anderen öffentlichen oder privaten Stellen die
-Eisenbahnaufsicht und die Befugnis zur Erteilung von Genehmigungen
-ganz oder teilweise durch Rechtsverordnung übertragen. Aufsichts- und
-Genehmigungsbehörde im Sinne dieses Gesetzes ist auch die Stelle, der
-die Landesregierung nach Satz 4 oder das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung nach dem
+jeweilige Land die von der Landesregierung bestimmte Behörde. Das
+jeweilige Land und der Bund können miteinander vereinbaren, die
+Eisenbahnaufsicht, die Befugnis zur Erteilung von Genehmigungen sowie
+die Untersuchung von Unfällen und gefährlichen Ereignissen ganz oder
+teilweise dem Bund zu übertragen. Der mit den übertragenen Aufgaben
+verbundene Aufwand ist dabei dem Bund zu erstatten. Das Eisenbahn-
+Bundesamt führt die übertragenen Aufgaben nach den Weisungen und für
+Rechnung des Landes aus. Die Landesregierung kann anderen öffentlichen
+oder privaten Stellen die Eisenbahnaufsicht und die Befugnis zur
+Erteilung von Genehmigungen ganz oder teilweise durch Rechtsverordnung
+übertragen. Aufsichts- und Genehmigungsbehörde im Sinne dieses
+Gesetzes ist auch die Stelle, der die Landesregierung nach Satz 4 oder
+das Bundesministerium für Verkehr, Bau und Stadtentwicklung nach dem
 Bundeseisenbahnverkehrsverwaltungsgesetz Aufgaben übertragen hat.
 
 (3) Die Landesregierung bestimmt die Behörde, die zuständig ist für
@@ -540,17 +574,10 @@ insbesondere die Aufgabe,
 
 (2) Die Eisenbahnaufsichtsbehörden können in Wahrnehmung ihrer
 Aufgaben gegenüber denjenigen, die durch die in § 5 Absatz 1 genannten
-Vorschriften verpflichtet werden,
-
-3.  Reiseveranstaltern und Fahrkartenverkäufern im Sinne des Artikels 3
-    Nr. 6 oder Nr. 7 der Verordnung (EG) Nr. 1371/2007, die Fahrkarten für
-    Beförderungen im Schienenpersonenverkehr verkaufen,
-
-
-
-die Maßnahmen treffen, die zur Beseitigung festgestellter Verstöße und
-zur Verhütung künftiger Verstöße gegen die in § 5 Abs. 1 genannten
-Vorschriften erforderlich sind.
+Vorschriften verpflichtet werden, die Maßnahmen treffen, die zur
+Beseitigung festgestellter Verstöße und zur Verhütung künftiger
+Verstöße gegen die in § 5 Absatz 1 genannten Vorschriften erforderlich
+sind.
 
 (3) Die nach § 5 Abs. 1c zuständige Aufsichtsbehörde hat den
 Eisenbahnverkehrsunternehmen gegenüber nur die Befugnisse nach Absatz
@@ -748,17 +775,17 @@ betragen.
 Erteilung, die Änderung oder den Widerruf von Genehmigungen.
 
 (8) Wer nach dem Recht eines anderen Mitgliedstaates der Europäischen
-Gemeinschaften oder eines Mitgliedstaates des Abkommens vom 2. Mai
-1992 über den Europäischen Wirtschaftsraum für Tätigkeiten nach Absatz
-1 Satz 1 Nr. 1 oder 2 zugelassen ist, bedarf dafür im Inland keiner
-Genehmigung nach Absatz 1.
+Union oder eines Mitgliedstaates des Abkommens vom 2. Mai 1992 über
+den Europäischen Wirtschaftsraum für Tätigkeiten nach Absatz 1 Satz 1
+Nr. 1 oder 2 zugelassen ist, bedarf dafür im Inland keiner Genehmigung
+nach Absatz 1.
 
 (9) Eisenbahnen, die nach dem Recht eines Staates, der nicht Mitglied
-der Europäischen Gemeinschaften oder des Abkommens vom 2. Mai 1992
-über den Europäischen Wirtschaftsraum ist, zum Eisenbahnverkehr
-zugelassen sind, bedürfen für das Erbringen von
-Eisenbahnverkehrsleistungen im Inland keiner Genehmigung nach Absatz
-1, sofern dies zwischenstaatlich vereinbart ist.
+der Europäischen Union oder des Abkommens vom 2. Mai 1992 über den
+Europäischen Wirtschaftsraum ist, zum Eisenbahnverkehr zugelassen
+sind, bedürfen für das Erbringen von Eisenbahnverkehrsleistungen im
+Inland keiner Genehmigung nach Absatz 1, sofern dies zwischenstaatlich
+vereinbart ist.
 
 (10) Die von den Absätzen 8 und 9 erfassten Eisenbahnen und Halter von
 Eisenbahnfahrzeugen müssen dem Eisenbahn-Bundesamt vor Aufnahme des
@@ -789,7 +816,7 @@ Widerrufsverfahrens verwendet werden.
 (3) (weggefallen)
 
 
-## § 7a Sicherheitsbescheinigung und nationale Bescheinigung für  Eisenbahnverkehrsunternehmen
+## § 7a Sicherheitsbescheinigung und nationale Bescheinigung für Eisenbahnverkehrsunternehmen
 
 (1) Ohne Sicherheitsbescheinigung dürfen Eisenbahnverkehrsunternehmen
 vorbehaltlich des Absatzes 4 nicht am regelspurigen öffentlichen
@@ -815,21 +842,23 @@ Eisenbahnverkehrsunternehmen den Nachweis erbringt, dass es
 
 
 
-(3) Die Anforderungen an die Einrichtung eines
-Sicherheitsmanagementsystems gelten durch die
-Eisenbahnverkehrsunternehmen als erfüllt, die einen
-Eisenbahnbetriebsleiter bestellt haben, dessen Bestellung durch die
-zuständige Eisenbahnaufsichtsbehörde bestätigt worden ist, soweit es
-sich nicht um Eisenbahnverkehrsunternehmen handelt, die
-grenzüberschreitende Eisenbahnverkehrsleistungen erbringen. Ein
-gesonderter Nachweis über die Erfüllung der Anforderungen nach Absatz
-2 Nr. 1 ist für Eisenbahnverkehrsunternehmen in diesen Fällen nicht
-erforderlich.
+(3) Der Nachweis über die Erfüllung der Anforderungen nach Absatz 2
+Nummer 1 ist abweichend von Absatz 2 nicht erforderlich für
+Eisenbahnverkehrsunternehmen, die
+
+1.  einen Eisenbahnbetriebsleiter bestellt haben, dessen Bestellung durch
+    die zuständige Eisenbahnaufsichtsbehörde bestätigt worden ist, und
+
+
+2.  keine grenzüberschreitenden Eisenbahnverkehrsleistungen erbringen.
+
+
+
 
 (4) Soweit ein Eisenbahnverkehrsunternehmen, das am öffentlichen
 Eisenbahnbetrieb teilzunehmen beabsichtigt, bereits über eine in einem
-anderen Mitgliedstaat der Europäischen Gemeinschaft nach Artikel 10
-der Richtlinie 2004/49/EG für gleichartige Eisenbahnverkehrsleistungen
+anderen Mitgliedstaat der Europäischen Union nach Artikel 10 der
+Richtlinie 2004/49/EG für gleichartige Eisenbahnverkehrsleistungen
 erteilte Sicherheitsbescheinigung verfügt, darf es im Inland nur mit
 einer zusätzlichen nationalen Bescheinigung am öffentlichen
 Eisenbahnbetrieb teilnehmen. Diese Bescheinigung ist auf Antrag für
@@ -915,8 +944,9 @@ Eisenbahninfrastruktur mit Ausnahme von Serviceeinrichtungen oder
 Netzen des Regionalverkehrs, die keinen Anschluss an das Ausland
 haben, betreiben.
 
-(2) Die Sicherheitsgenehmigung ist auf Antrag zu erteilen, wenn der
-Antragsteller den Nachweis erbringt, dass er
+(2) Die Sicherheitsgenehmigung ist auf Antrag für bestimmte
+Schienennetze oder Schienenwege zu erteilen, wenn der Antragsteller
+den Nachweis erbringt, dass er
 
 1.  ein Sicherheitsmanagementsystem eingerichtet hat, das mindestens die
     Anforderungen des Artikels 9 Abs. 2 und 3 der Richtlinie 2004/49/EG
@@ -2469,8 +2499,9 @@ Registers erforderlich ist.
 
 (1) Das Eisenbahn-Bundesamt kann die Wahrnehmung der Aufgaben einer
 benannten Stelle, soweit eine solche nach dem Recht der Europäischen
-Gemeinschaften im Zusammenhang mit dem transeuropäischen
-Hochgeschwindigkeitsbahnsystem vorgesehen ist, Privaten übertragen.
+Gemeinschaften oder der Europäischen Union im Zusammenhang mit dem
+transeuropäischen Hochgeschwindigkeitsbahnsystem vorgesehen ist,
+Privaten übertragen.
 
 (2) Die Übertragung kann nur erfolgen, wenn nachgewiesen ist, dass der
 Private die Kriterien nach Anhang VII der Richtlinie 96/48/EG über die
@@ -2664,8 +2695,8 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
 11. über Gegenstand, Inhalt und Umfang sowie das Verfahren der
     Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb
     einschließlich der Zusammenarbeit mit ausländischen Behörden und
-    Organen der Europäischen Gemeinschaften; in der Rechtsverordnung
-    können insbesondere Regelungen über
+    Organen der Europäischen Union; in der Rechtsverordnung können
+    insbesondere Regelungen über
 
     a)  die Befugnisse und das Untersuchungsverfahren der zuständigen Behörde,
 
@@ -2777,11 +2808,11 @@ Bundesministerium für Wirtschaft und Technologie erlassen.
 ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu
 erlassen
 
-1.  zur Übernahme des Rechts der Europäischen Gemeinschaften, soweit es
-    Gegenstände der Artikel 1 bis 5 des Eisenbahnneuordnungsgesetzes oder
-    des Bundesschienenwegeausbaugesetzes betrifft, in deutsches Recht
-    sowie zur Durchführung solchen Rechtes der Europäischen
-    Gemeinschaften;
+1.  zur Übernahme des Rechts der Europäischen Gemeinschaften oder der
+    Europäischen Union, soweit es Gegenstände der Artikel 1 bis 5 des
+    Eisenbahnneuordnungsgesetzes oder des Bundesschienenwegeausbaugesetzes
+    betrifft, in deutsches Recht sowie zur Durchführung solchen Rechtes
+    der Europäischen Gemeinschaften oder der Europäischen Union;
 
 
 2.  zur Festlegung des Anwendungsbereichs der Verordnung (EWG) Nr. 1191/69
@@ -2798,12 +2829,12 @@ erlassen
 
 (5) Für nichtöffentliche Eisenbahnen gelten die Ermächtigungen nach
 Absatz 1 insoweit, als die Einheit des Eisenbahnwesens es erfordert.
-Die Ermächtigungen nach Absatz 2 und § 24 Abs. 3 gelten für diese
-Eisenbahnen insoweit, als sie die Eisenbahninfrastruktur von
-öffentlichen Eisenbahninfrastrukturunternehmen benutzen. Im übrigen
-werden die Landesregierungen ermächtigt, Rechtsverordnungen für diese
-Unternehmen zu erlassen; die Landesregierungen können die Ermächtigung
-durch Rechtsverordnung übertragen.
+Die Ermächtigung nach Absatz 2 gilt für diese Eisenbahnen insoweit,
+als sie die Eisenbahninfrastruktur von öffentlichen
+Eisenbahninfrastrukturunternehmen benutzen. Im übrigen werden die
+Landesregierungen ermächtigt, Rechtsverordnungen für diese Unternehmen
+zu erlassen; die Landesregierungen können die Ermächtigung durch
+Rechtsverordnung übertragen.
 
 (6) In den Rechtsverordnungen nach Absatz 1 Nr. 1 können zur Regelung
 des bauaufsichtlichen Verfahrens im Einzelnen oder zur Vereinfachung,
@@ -2834,6 +2865,19 @@ Fahrzeugeinstellungsregister nach Artikel 14 der Richtlinien 96/48/EG
 sowie 2001/16/EG dienen, bedürfen nicht der Zustimmung des
 Bundesrates; dabei kann auch das Verhältnis zu den sonstigen der
 Betriebssicherheit dienenden Rechtsverordnungen geregelt werden.
+
+(8) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz und Reaktorsicherheit und dem Bundesministerium für Arbeit
+und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates dem
+Eisenbahn-Bundesamt die Befugnis zum Erlass einer Rechtsverordnung
+nach Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 5 Satz 1
+und Absatz 6, ganz oder teilweise zu übertragen, soweit technische
+Einzelheiten für Planung, Bemessung und Konstruktion ausschließlich
+von Betriebsanlagen der Eisenbahnen des Bundes betroffen sind.
+Rechtsverordnungen des Eisenbahn-Bundesamtes bedürfen nicht der
+Zustimmung des Bundesrates; auf diese Rechtsverordnungen ist Absatz 3
+Satz 1 und 5 nicht anzuwenden.
 
 
 ## § 27 Allgemeine Verwaltungsvorschriften
@@ -2868,7 +2912,7 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
     betreibt,
 
 
-2c. ohne Genehmigung nach § 7d Abs. 1 eine Schulungseinrichtung betreibt,
+2c. (weggefallen)
 
 
 2d. als im Unternehmen Verantwortlicher entgegen § 7f Abs. 1 Satz 1 ohne
@@ -2889,8 +2933,7 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
     gleicher Weise anwendet,
 
 
-5.  als im Unternehmen Verantwortlicher entgegen § 24 Abs. 1 Satz 2 eine
-    Auskunft nicht oder nicht richtig erteilt,
+5.  (weggefallen)
 
 
 6.  einer Rechtsverordnung nach
@@ -2911,14 +2954,14 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
 
 
+7.bis 8. (weggefallen)
 
-7\. bis 8. (weggefallen)
 
 9.  einem Gebot oder Verbot einer die Eisenbahnen betreffenden Verordnung
-    der Europäischen Gemeinschaften oder einer vollziehbaren Anordnung auf
-    Grund einer solchen Verordnung zuwiderhandelt, soweit eine
-    Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf
-    diese Bußgeldvorschrift verweist.
+    der Europäischen Gemeinschaften oder der Europäischen Union oder einer
+    vollziehbaren Anordnung auf Grund einer solchen Verordnung
+    zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 3 für einen
+    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 
@@ -2983,45 +3026,33 @@ soweit es sich handelt um
 ## § 31 Selbstständige Teilnahme am Eisenbahnbetrieb
 
 Für Halter von Eisenbahnfahrzeugen, die mit diesen selbstständig am
-Eisenbahnbetrieb teilnehmen und nicht die Voraussetzungen des § 2 Abs.
-1 und 2 erfüllen, gelten die Vorschriften für nichtöffentliche
-Eisenbahnverkehrsunternehmen entsprechend.
+Eisenbahnbetrieb teilnehmen und nicht die Voraussetzungen des § 2
+Absatz 1 und 2 erfüllen, gelten, wenn nichts anderes bestimmt ist, die
+Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen
+entsprechend.
 
 
 ## § 32 Nichtselbstständige Teilnahme am Eisenbahnbetrieb
 
-(1) Für Halter von Eisenbahnfahrzeugen, die mit diesen
-nichtselbstständig am Eisenbahnbetrieb teilnehmen, gelten, wenn nichts
-anderes bestimmt ist, die Vorschriften für nichtöffentliche
+Für Halter von Eisenbahnfahrzeugen, die mit diesen nichtselbstständig
+am Eisenbahnbetrieb teilnehmen, gelten, wenn nichts anderes bestimmt
+ist, die Vorschriften für nichtöffentliche
 Eisenbahnverkehrsunternehmen entsprechend, soweit sie betreffen
 
-1.  die Verpflichtung, Eisenbahnfahrzeuge und Zubehör sicher zu bauen und
-    in betriebssicherem Zustand zu halten einschließlich der dafür
-    erforderlichen Genehmigungen,
+1.  die Eisenbahnaufsicht,
 
 
-2.  die Eisenbahnaufsicht,
+2.  die Kosten von Amtshandlungen,
 
 
-3.  die Kosten von Amtshandlungen,
-
-
-4.  die Pflicht, sich zu versichern.
+3.  die Pflicht, sich zu versichern.
 
 
 
 
-(2) Die Verpflichtung der betriebsführenden Eisenbahn, ihren Betrieb
-sicher zu führen und die Eisenbahnfahrzeuge und das Zubehör in
-betriebssicherem Zustand zu halten, bleibt unberührt.
 
-(3) Genehmigungen nach Absatz 1 Nr. 1 können auch von der für die
-betriebsführende Eisenbahn zuständigen Behörde erteilt werden.
+## § 33 (weggefallen)
 
-
-## § 33 Hersteller von Eisenbahnfahrzeugen
-
-Die Abnahme eines Fahrzeugs kann auch vom Hersteller beantragt werden.
 
 
 ## § 34 Netzbeirat

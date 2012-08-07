@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1170, 1171
 
 Zuletzt geändert durch
-:   Art. 7 G v. 15.7.2009 I 1939
+:   Art. 15 G v. 21.7.2012 I 1583
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -695,6 +695,16 @@ Verteidigung Arbeitnehmer verpflichten, über die in diesem Gesetz und
 in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und
 Tarifverträgen festgelegten Arbeitszeitgrenzen und -beschränkungen
 hinaus Arbeit zu leisten.
+
+(3a) Das Bundesministerium der Verteidigung kann in seinem
+Geschäftsbereich durch Rechtsverordnung im Einvernehmen mit dem
+Bundesministerium für Arbeit und Soziales für besondere Tätigkeiten
+der Arbeitnehmer bei den Streitkräften Abweichungen von in diesem
+Gesetz sowie von in den auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen bestimmten Arbeitszeitgrenzen und -beschränkungen
+zulassen, soweit die Abweichungen aus zwingenden Gründen erforderlich
+sind und die größtmögliche Sicherheit und der bestmögliche
+Gesundheitsschutz der Arbeitnehmer gewährleistet werden.
 
 (4) Werden Ausnahmen nach Absatz 1 oder 2 zugelassen, darf die
 Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs

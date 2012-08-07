@@ -17,8 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1481
 
-Änderung durch
-:   Art. 1 V v. 20.6.2012 I 1384 (Nr. 28) noch nicht berücksichtigt
+Geändert durch
+:   Art. 1 V v. 20.6.2012 I 1384
+
+V aufgeh. durch
+:   Art. 1 Nr. 2 V v. 20.6.2012 I 1384 mWv 1.10.2016
 
 
 

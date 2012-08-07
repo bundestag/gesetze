@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3376
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.1.2012 I 121
-
-Änderung durch
-:   Art. 3 G v. 26.6.2012 I 1375 (Nr. 28) noch nicht berücksichtigt
+:   Art. 3 G v. 26.6.2012 I 1375
 
 
 ## Eingangsformel
@@ -328,7 +325,7 @@ akzeptierten Sprache oder in englischer Sprache zu veröffentlichen; er
 kann sie zusätzlich auch in deutscher Sprache veröffentlichen.
 
 (4) Sind Wertpapiere eines Inlandsemittenten im Sinne des § 2 Abs. 7
-des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 50.000
+des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000
 Euro oder einem am Ausgabetag entsprechenden Gegenwert in einer
 anderen Währung zum Handel an einem organisierten Markt im Inland oder
 in einem oder mehreren Mitgliedstaaten der Europäischen Union oder in
@@ -340,6 +337,16 @@ Falle der Zulassung in anderen Mitgliedstaaten der Europäischen Union
 oder Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum von den zuständigen Behörden dieser Staaten akzeptiert
 wird.
+
+(5) Absatz 4 gilt entsprechend für Inlandsemittenten im Sinne des § 2
+Absatz 7 des Wertpapierhandelsgesetzes von Wertpapieren mit einer
+Mindeststückelung von 50 000 Euro oder einem am Ausgabetag
+entsprechenden Gegenwert in einer anderen Währung, die bereits vor dem
+31\. Dezember 2010 zum Handel an einem organisierten Markt in einem
+oder mehreren Mitgliedstaaten der Europäischen Union oder in einem
+anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum zugelassen wurden, solange derartige Wertpapiere
+ausstehen.
 
 
 #### § 3c Mitteilung der Veröffentlichung

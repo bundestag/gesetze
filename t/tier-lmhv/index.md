@@ -4374,7 +4374,7 @@ Verwendete Rohstoffe
 
 ### Anlage 7 Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nr. 1 in Verbindung mit Nr. 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
 
-( Fundstelle: BGBl. I 2007, 1858 )
+(Fundstelle: BGBl. I 2007, 1858)
 
 I)  **Betriebsidentifikation und Angaben zu den Tieren:**
 
@@ -4454,11 +4454,13 @@ II) Standarderklärung
     3.  Im Zeitraum von 7 Tagen vor Verbringung der Tiere zur Schlachtung
         bestanden keine Wartezeiten für verabreichte Tierarzneimittel und
         wurden keine sonstigen Behandlungen durchgeführt, ausgenommen
+        .....................................................
         (z. B. Repellentien).
 
 
     4.  Es liegen keine Ergebnisse von Probenanalysen vor, die für den Schutz
         der öffentlichen Gesundheit von Bedeutung sind, ausgenommen
+        ..................................................
         (z. B. Salmonellenstatus).
 
 

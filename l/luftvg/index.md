@@ -16,13 +16,7 @@ Fundstelle
 :   RGBl I: 1922, 681
 
 Neugefasst durch
-:   Bek. v. 10.5.2007 I 698;
-
-Zuletzt geändert durch
-:   Art. 3 G v. 20.4.2012 I 606
-
-Änderung durch
-:   Art. 1 G v. 8.5.2012 I 1032 (Nr. 20) textlich nachgewiesen dokumentarisch noch nicht abschließend gearbeitet
+:   Bek. v. 10.5.2007 I 698; zuletzt geändert durch Art. 1 G v. 8.5.2012 I 1032
 
 
 ## Erster Abschnitt - Luftverkehr

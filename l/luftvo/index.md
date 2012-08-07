@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 652
 
 Neugefasst durch
-:   Bek. v. 27.3.1999 I 580;
-
-Zuletzt geändert durch
-:   Art. 1 G v. 18.1.2010 I 11
-
-Änderung durch
-:   Art. 3 G v. 8.5.2012 I 1032 (Nr. 20) textlich nachgewiesen dokumentarisch noch nicht abschließend gearbeitet
+:   Bek. v. 27.3.1999 I 580; zuletzt geändert durch Art. 3 G v. 8.5..2012 I 1032
 
 
 ## Erster Abschnitt - Pflichten der Teilnehmer am Luftverkehr
