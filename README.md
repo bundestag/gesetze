@@ -3,8 +3,8 @@ Deutsche Bundesgesetze- und verordnungen
 
 Dieses Git Repository enthält alle Deutschen Bundesgesetze und -verordnungen
 im [Markdown-Format](http://daringfireball.net/projects/markdown/). Als Quelle
-dienen die XML-Versionen der Gesetze von [www.gesetze-im-
-internet.de](http://www.gesetze-im-internet.de/).
+dienen die XML-Versionen der Gesetze von
+[www.gesetze-im-internet.de](http://www.gesetze-im-internet.de/).
 
 
 Warum Git?
@@ -47,7 +47,7 @@ Zivilgesellschaft als Pull Request nützlich. Die Änderungen lassen sich
 einfacher im Kontext verstehen, können direkt am Gesetz diskutiert und
 nachvollziehbar verändert werden.
 
-Referentenentwürfe, wenn öffentlich verfügbar, werden vom Fork der
+Offizielle Gesetzesentwürfe, wenn öffentlich verfügbar, werden vom Fork der
 [Bundesregierung](https://github.com/bundesregierung/) als Pull Request an
 dieses Repository gestellt.
 
@@ -66,15 +66,17 @@ fehlerhaftem Markdown. Da fehlerhaftes Markdown immer noch gut lesbar ist,
 führt dies erst bei einer Weiterverarbeitung zu Problemen.
 
 Commits richten sich nach Möglichkeit nach den Veröffentlichungen im
-Bundesgesetzblatt. Das funktioniert nicht immer problemlos und erfordert
-menschliche Unterstützung. Werkzeuge, die das committen des aktuellen Standes
-einfacher machen, müssen gebaut, verbessert und genutzt werden. Mithilfe ist
-erwünscht.
+Bundesgesetzblatt und im Amtlichen Teil des Bundesanzeigers. Das funktioniert
+nicht immer problemlos und erfordert menschliche Unterstützung.
+Werkzeuge, die die Aktualisierung vereinfachen finden sich im
+[gesetze-tools repository](https://github.com/bundestag/gesetze-tools).
+Mithilfe ist erwünscht.
 
 Um die Fähigkeiten von Git optimal zu nutzen, wird es nötig sein Commits, die
 Gesetzesänderungen einbringen, von Commits, die z.B. Korrekturen an der Syntax
 vornehmen oder die README verändern zu unterscheiden. Hier wird um Mithilfe
-bei der Ausarbeitung eines Git-Workflows für dieses Repostiory gebeten.
+bei der [Ausarbeitung eines Git-Workflows](https://github.com/bundestag/gesetze/wiki/Git-Workflow)
+für dieses Repostiory gebeten.
 
 
 Rechtliches
