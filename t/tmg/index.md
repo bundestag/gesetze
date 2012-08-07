@@ -493,6 +493,14 @@ zur Durchführung der Übermittlung im Kommunikationsnetz geschieht und
 die Informationen nicht länger gespeichert werden, als für die
 Übermittlung üblicherweise erforderlich ist.
 
+(3) Der Ausschluss der Verantwortlichkeit (Absatz 1) umfasst auch gewerbliche und
+nichtgewerbliche Betreiber von Funknetzwerken, die sich an einen nicht im Voraus
+namentlich bestimmten Nutzerkreis richten (öffentliche Funknetzwerke).
+
+(4) Der Ausschluss der Verantwortlichkeit (Absatz 1) umfasst auch Ansprüche auf
+Unterlassung.
+
+
 
 ### § 9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
 
