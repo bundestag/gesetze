@@ -109,10 +109,10 @@ Why Git?
 All German citizens can easily find an up-to-date version of their laws online.
 However, the legislation process, the historic evolution and the updates to laws
 are not easily and freely trackable. The reason is that laws are only published
-in their most recent version and changes to laws are not available in a machine-
-readable format.
+in their most recent version and changes to laws are not available in a
+machine-readable format.
 This should change: the current state of laws will be stored in this repository
-under Git version control. This allows to the power of Git to be applied to the
+under Git version control. This allows the power of Git to be applied to the
 legislation process. Integrating the whole history of German law changes in Git
 is the ambitious goal.
 
@@ -135,7 +135,7 @@ like HTML.
 Pull Requests
 -------------
 
-You are encouraged to open pull request. Of course only valid legistation
+You are encouraged to open pull request. Of course only valid legislation
 voted on by the Bundestag will be merged.
 
 However, law change proposals as pull requests coming from parties or
