@@ -125,8 +125,8 @@ A complex markup language like XML reduces the human-readability,
 makes detection of differences harder and contains lots of
 unnecessary syntax.
 
-Markdown is an intuitive formatting of text, that is readable and
-writable by humans without the need of additional tools. That fits
+Markdown is an intuitive formatting of text which is readable and
+writable by humans without the need of additional tools. It fits
 the nature of laws that only need minimal formatting. Furthermore,
 Markdown is machine-formattable and can be converted to other formats
 like HTML.
@@ -138,9 +138,9 @@ Pull Requests
 You are encouraged to open pull request. Of course only valid legistation
 voted on by the Bundestag will be merged.
 
-However, law change proposals as pull requests coming from parties or
+However, law change proposals such as pull requests coming from parties or
 NGOs can be useful to understand context, discuss changes directly where
-they will happen and keep changes accountable.
+they will happen, and keep changes accountable.
 
 Official change proposals from our government will be opened as pull
 requests from the fork of the [Bundesregierung](https://github.com/bundesregierung/)
@@ -154,18 +154,18 @@ There is no guarantuee on correctness. Please only trust official sources.
 
 The source XML is not without mistakes and neither is the conversion to
 Markdown. That's because the source XML uses markup for style and not only
-for semnatics. This makes conversion harder and comes down to faulty
+for semnatics. This makes conversion harder and results in faulty
 Markdown. However, faulty Markdown is still very readable and will only
 cause problems when processed further.
 
 Commits will be based on published changes (Bundesgesetzblatt and Bundesanzeiger).
-That doesn't work without problems and requires human interaction.
-Tools that make updates easier can be found in the
+This process is not without problems and requires human interaction.
+Tools that make this updating easier can be found in the
 [gesetze-tools repository](https://github.com/bundestag/gesetze-tools).
 Help needed.
 
 In order to make the most out of Git we need to distinguish between law change
-commits and commits that fix e.g. syntax mistakes.
+commits and commits that fix things like syntax mistakes.
 Please help shape a [Git Workflow](https://github.com/bundestag/gesetze/wiki/Git-Workflow)
 for this repository.
 
