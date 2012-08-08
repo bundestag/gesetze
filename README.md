@@ -132,15 +132,46 @@ Markdown is machine-formattable and can be converted to other formats
 like HTML.
 
 
-Pull Requests
--------------
+Suggesting Changes
+------------------
 
-You are encouraged to open pull request. Of course only valid legislation
-voted on by the Bundestag will be merged.
+You are encouraged to suggest ("send a pull request") individual
+amendments ("commits"). Of course only valid legislation voted on by
+the Bundestag will be incorporated to the master edition ("merged").
 
-However, law change proposals as pull requests coming from parties or
-NGOs can be useful to understand context, discuss changes directly where
-they will happen and keep changes accountable.
+If you want to suggest a change, first find the relevant piece(s) of
+legislation, make a revision, and finally send your revision through,
+with a cover note which can be used to introduce the change.
+
+You don't need to be a developer or use git to do this; you can do it all
+on github.  Just click the "Edit" link on a file.  Edit the law to be how
+you would like it to be, and when you are done create the commit.  When
+prompted for a "commit message", enter in the reasoning for the amendment:
+
+  - motivation or problems with existing laws
+  - why the existing version of the laws do not address the problem
+  - how the revised law is better
+  - how the new law works in relation to other laws (eg, references to
+    enabling acts or clauses in other laws)
+  - other notes useful for people reading or understanding the history of
+    the law, once the amendment is enacted.
+
+Once you have produced your proposed amendment ("commit"), then you can
+submit it for consideration.  This second step is called the "pull request";
+in the cover note for this request, you can include notes such as:
+
+  - differences between this submission ("pull request") and a previous
+    submission
+  - other notes useful for people reviewing the amendment, but not useful
+    if the amendment is enacted.
+
+Of the two notes, the "commit message" is the most important; it forms the
+logic and reasoning behind the legislation; it clairifies intent and guides
+interpretation of the law.
+
+Law change proposals as pull requests coming from parties or NGOs can be
+useful to understand context, discuss changes directly where they will
+happen and keep changes accountable.
 
 Official change proposals from our government will be opened as pull
 requests from the fork of the [Bundesregierung](https://github.com/bundesregierung/)
