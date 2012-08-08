@@ -113,7 +113,7 @@ in their most recent version and changes to laws are not available in a machine-
 readable format.
 This should change: the current state of laws will be stored in this repository
 under Git version control. This allows to apply the power of Git to the
-legistlation process. Integrating the whole history of German law changes in Git
+legislation process. Integrating the whole history of German law changes in Git
 is the ambitious goal.
 
 
@@ -135,7 +135,7 @@ like HTML.
 Pull Requests
 -------------
 
-You are encouraged to open pull request. Of course only valid legistation
+You are encouraged to open pull request. Of course only valid legislation
 voted on by the Bundestag will be merged.
 
 However, law change proposals as pull requests coming from parties or
