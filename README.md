@@ -135,7 +135,7 @@ like HTML.
 Pull Requests
 -------------
 
-You are encouraged to open pull request. Of course only valid legislation
+You are encouraged to open pull requests. Of course only valid legislation
 voted on by the Bundestag will be merged.
 
 However, law change proposals as pull requests coming from parties or
@@ -147,7 +147,7 @@ requests from the fork of the [Bundesregierung](https://github.com/bundesregieru
 as they become publicy available.
 
 
-Mistakes and call for help
+Mistakes and Call for Help
 --------------------------
 
 There is no guarantee on correctness. Please only trust official sources.
