@@ -173,7 +173,7 @@ for this repository.
 Legal Stuff
 -----------
 
-All laws are offical works and are not under copyright law.
+All laws are official works and are not under copyright law.
 
 
 Contact
