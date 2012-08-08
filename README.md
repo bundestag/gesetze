@@ -150,7 +150,7 @@ as they become publicy available.
 Mistakes and call for help
 --------------------------
 
-There is no guarantuee on correctness. Please only trust official sources.
+There is no guarantee on correctness. Please only trust official sources.
 
 The source XML is not without mistakes and neither is the conversion to
 Markdown. That's because the source XML uses markup for style and not only
