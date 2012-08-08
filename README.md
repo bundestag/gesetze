@@ -113,7 +113,7 @@ in their most recent version and changes to laws are not available in a machine-
 readable format.
 This should change: the current state of laws will be stored in this repository
 under Git version control. This allows to the power of Git to be applied to the
-legistlation process. Integrating the whole history of German law changes in Git
+legislation process. Integrating the whole history of German law changes in Git
 is the ambitious goal.
 
 
