@@ -154,7 +154,7 @@ There is no guarantuee on correctness. Please only trust official sources.
 
 The source XML is not without mistakes and neither is the conversion to
 Markdown. That's because the source XML uses markup for style and not only
-for semnatics. This makes conversion harder and comes down to faulty
+for semantics. This makes conversion harder and comes down to faulty
 Markdown. However, faulty Markdown is still very readable and will only
 cause problems when processed further.
 
