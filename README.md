@@ -1,4 +1,4 @@
-Deutsche Bundesgesetze- und verordnungen
+Deutsche Bundesgesetze und -verordnungen
 ========================================
 
 Dieses Git Repository enthält alle Deutschen Bundesgesetze und -verordnungen
