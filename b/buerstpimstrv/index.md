@@ -330,7 +330,7 @@ nachzuweisen:
 
     d)  Umweltschutz und rationelle Energieverwendung,
 
-        e) berufsbezogene Vorschriften der Arbeitssicherheit und des
+    e)  berufsbezogene Vorschriften der Arbeitssicherheit und des
         Arbeitsschutzes,
 
 
