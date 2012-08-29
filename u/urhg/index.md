@@ -2581,9 +2581,11 @@ eines Leistungsschutzberechtigten geltend gemacht werden, dessen Werk oder
 nach diesem Gesetz geschützter Schutzgegenstand im Presseerzeugnis enthalten
 ist.
 
-(4) Zulässig ist die öffentliche Zugänglichmachung von Presseerzeugnissen,
-soweit sie nicht durch die Anbieter von Suchmaschinen erfolgt. Im Übrigen
-gelten die Vorschriften des Teils 1 Abschnitt 6 entsprechend.
+(4) Zulässig ist die öffentliche Zugänglichmachung von Presseerzeugnissen oder
+Teilen hiervon, soweit sie nicht durch gewerbliche Anbieter von Suchmaschinen
+oder gewerbliche Anbieter von Diensten erfolgt, die Inhalte entsprechend
+aufbereiten. Im Übrigen gelten die Vorschriften des Teils 1 Abschnitt 6
+entsprechend.
 
 
 #### § 87h Beteiligungsanspruch des Urhebers
