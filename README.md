@@ -92,7 +92,7 @@ Twitter: [@bundesgit](https://twitter.com/bundesgit)
 
 
 --------
-(English version)
+(english version)
 
 German Federal Laws and Regulations
 ===================================
