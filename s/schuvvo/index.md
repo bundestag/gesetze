@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3822
 
-Zuletzt geändert durch
-:   Art. 3 G v. 13.12.2001 I 3638
+V aufgeh. durch
+:   § 13 Abs. 2 V 310-4-13 v. 26.7.2012 I 1654 mWv 1.1.1218
 
 
 ## Eingangsformel
