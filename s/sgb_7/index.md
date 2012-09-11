@@ -785,6 +785,28 @@ verursacht worden ist, die generell geeignet sind, eine
 Berufskrankheit der Mutter zu verursachen.
 
 
+#### § 12a Gesundheitsschaden im Zusammenhang mit der Spende von Blut oder körpereigenen Organen, Organteilen oder Gewebe
+
+(1) Als Versicherungsfall im Sinne des § 7 Absatz 1 gilt bei
+Versicherten nach § 2 Absatz 1 Nummer 13 Buchstabe b auch der
+Gesundheitsschaden, der über die durch die Blut-, Organ-, Organteil-
+oder Gewebeentnahme regelmäßig entstehenden Beeinträchtigungen
+hinausgeht und in ursächlichem Zusammenhang mit der Spende steht.
+Werden dadurch Nachbehandlungen erforderlich oder treten Spätschäden
+auf, die als Aus- oder Nachwirkungen der Spende oder des aus der
+Spende resultierenden erhöhten Gesundheitsrisikos anzusehen sind, wird
+vermutet, dass diese hierdurch verursacht worden sind. Dies gilt
+nicht, wenn offenkundig ist, dass der Gesundheitsschaden nicht im
+ursächlichen Zusammenhang mit der Spende steht; eine Obduktion zum
+Zwecke einer solchen Feststellung darf nicht gefordert werden.
+
+(2) Absatz 1 gilt auch bei Gesundheitsschäden im Zusammenhang mit den
+für die Spende von Blut oder körpereigenen Organen, Organteilen oder
+Gewebe erforderlichen Voruntersuchungen sowie Nachsorgemaßnahmen. Satz
+1 findet auch Anwendung, wenn es nach der Voruntersuchung nicht zur
+Spende kommt.
+
+
 #### § 13 Sachschäden bei Hilfeleistungen
 
 Den nach § 2 Abs. 1 Nr. 11 Buchstabe a, Nr. 12 und Nr. 13 Buchstabe a

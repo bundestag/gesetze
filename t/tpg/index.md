@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.7.2012 I 1504
-
-Änderung durch
-:   Art. 1 G v. 21.7.2012 I 1601 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 21.7.2012 I 1601
 
 
 ## Eingangsformel
