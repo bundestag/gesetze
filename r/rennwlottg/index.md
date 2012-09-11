@@ -15,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1922, 335, 393
 
-Stand: Zuletzt geändert Art. 1 u. 4 G v. 29.6.2012 I 1424
+Zuletzt geändert durch
+:   Art. 1 u. 4 G v. 29.6.2012 I 1424
+
 
 ## I. - Rennwetten
 
