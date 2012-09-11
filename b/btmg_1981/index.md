@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.5.2011 I 821
-
-Änderung durch
-:   Art. 1 V v. 20.7.2012 I 1639 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 20.7.2012 I 1639
 
 
 ## Erster Abschnitt - Begriffsbestimmungen

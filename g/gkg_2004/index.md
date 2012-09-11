@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 718
 
 Zuletzt geändert durch
-:   Art. 10 G v. 24.11.2011 I 2302
+:   Art. 7 G v. 21.7.2012 I 1577
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1711,6 +1711,27 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 ## Abschnitt 9 - Schluss- und Übergangsvorschriften
 
+
+
+### § 69b Verordnungsermächtigung
+
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass die von den Gerichten der Länder zu erhebenden
+Verfahrensgebühren über die in den Nummern 1211, 1411, 5111, 5113,
+5211, 5221, 6111, 6211, 7111, 7113 und 8211 des Kostenverzeichnisses
+bestimmte Ermäßigung hinaus weiter ermäßigt werden oder entfallen,
+wenn das gesamte Verfahren nach einer Mediation oder nach einem
+anderen Verfahren der außergerichtlichen Konfliktbeilegung durch
+Zurücknahme der Klage oder des Antrags beendet wird und in der Klage-
+oder Antragsschrift mitgeteilt worden ist, dass eine Mediation oder
+ein anderes Verfahren der außergerichtlichen Konfliktbeilegung
+unternommen wird oder beabsichtigt ist, oder wenn das Gericht den
+Parteien die Durchführung einer Mediation oder eines anderen
+Verfahrens der außergerichtlichen Konfliktbeilegung vorgeschlagen hat.
+Satz 1 gilt entsprechend für die in den Rechtsmittelzügen von den
+Gerichten der Länder zu erhebenden Verfahrensgebühren; an die Stelle
+der Klage- oder Antragsschrift tritt der Schriftsatz, mit dem das
+Rechtsmittel eingelegt worden ist.
 
 
 ### § 70 Rechnungsgebühren
@@ -4089,7 +4110,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *   1640
 
-    *   Verfahren nach § 148 Abs. 1 und 2 .........
+    *   Verfahren nach § 148 Absatz 1 und 2 .......
 
     *   1,0
 

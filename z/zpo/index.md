@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202 (2006 I 431) (2007 I 1781)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 21.7.2012 I 1577
 
 
 ## Buch 1 - Allgemeine Vorschriften
@@ -608,7 +608,11 @@ ausgeschlossen:
 
 7.  in Sachen wegen überlanger Gerichtsverfahren, wenn er in dem
     beanstandeten Verfahren in einem Rechtszug mitgewirkt hat, auf dessen
-    Dauer der Entschädigungsanspruch gestützt wird.
+    Dauer der Entschädigungsanspruch gestützt wird;
+
+
+8.  in Sachen, in denen er an einem Mediationsverfahren oder einem anderen
+    Verfahren der außergerichtlichen Konfliktbeilegung mitgewirkt hat.
 
 
 
@@ -1839,8 +1843,8 @@ Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der
 Prozesskostenhilfe gelten. Das Bundesministerium der Justiz gibt bei
 jeder Neufestsetzung oder jeder Fortschreibung die maßgebenden Beträge
 nach Satz 3 Nummer 1 Buchstabe b und Nummer 2 im Bundesgesetzblatt
-bekannt. \*) Diese Beträge sind, soweit sie nicht volle Euro ergeben,
-bis zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden. Die
+bekannt. Diese Beträge sind, soweit sie nicht volle Euro ergeben, bis
+zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden. Die
 Unterhaltsfreibeträge nach Satz 3 Nr. 2 vermindern sich um eigenes
 Einkommen der unterhaltsberechtigten Person. Wird eine Geldrente
 gezahlt, so ist sie an Stelle des Freibetrages abzusetzen, soweit dies
@@ -1956,14 +1960,6 @@ Monatsraten aufzubringen, und zwar bei einem
 (4) Prozesskostenhilfe wird nicht bewilligt, wenn die Kosten der
 Prozessführung der Partei vier Monatsraten und die aus dem Vermögen
 aufzubringenden Teilbeträge voraussichtlich nicht übersteigen.
------
-
-\*) Zum Stichtag 30. März 2011 ist die letzte Bekanntmachung zu § 115
-    Zivilprozessordnung (Prozesskostenhilfebekanntmachung 2011 - PKHB
-    2011) vom 7. April 2011 (BGBl. I S. 606) gültig.
-
-
-
 
 
 ##### § 116 Partei kraft Amtes; juristische Person; parteifähige Vereinigung
@@ -2810,7 +2806,10 @@ erforderlich ist.
 
 (2) Absatz 1 gilt entsprechend für Verhandlungen, die außerhalb der
 Sitzung vor Richtern beim Amtsgericht oder vor beauftragten oder
-ersuchten Richtern stattfinden.
+ersuchten Richtern stattfinden. Ein Protokoll über eine
+Güteverhandlung oder weitere Güteversuche vor einem Güterichter nach §
+278 Absatz 5 wird nur auf übereinstimmenden Antrag der Parteien
+aufgenommen.
 
 
 ##### § 160 Inhalt des Protokolls
@@ -4061,11 +4060,24 @@ Schriftsatzes (Klageschrift).
 
 
 
-(3) Die Klageschrift soll ferner die Angabe des Wertes des
-Streitgegenstandes enthalten, wenn hiervon die Zuständigkeit des
-Gerichts abhängt und der Streitgegenstand nicht in einer bestimmten
-Geldsumme besteht, sowie eine Äußerung dazu, ob einer Entscheidung der
-Sache durch den Einzelrichter Gründe entgegenstehen.
+(3) Die Klageschrift soll ferner enthalten:
+
+1.  die Angabe, ob der Klageerhebung der Versuch einer Mediation oder
+    eines anderen Verfahrens der außergerichtlichen Konfliktbeilegung
+    vorausgegangen ist, sowie eine Äußerung dazu, ob einem solchen
+    Verfahren Gründe entgegenstehen;
+
+
+2.  die Angabe des Wertes des Streitgegenstandes, wenn hiervon die
+    Zuständigkeit des Gerichts abhängt und der Streitgegenstand nicht in
+    einer bestimmten Geldsumme besteht;
+
+
+3.  eine Äußerung dazu, ob einer Entscheidung der Sache durch den
+    Einzelrichter Gründe entgegenstehen.
+
+
+
 
 (4) Außerdem sind die allgemeinen Vorschriften über die vorbereitenden
 Schriftsätze auch auf die Klageschrift anzuwenden.
@@ -4489,11 +4501,11 @@ Satz 2, Abs. 2 und 3 gilt entsprechend.
 (4) Erscheinen beide Parteien in der Güteverhandlung nicht, ist das
 Ruhen des Verfahrens anzuordnen.
 
-(5) Das Gericht kann die Parteien für die Güteverhandlung vor einen
-beauftragten oder ersuchten Richter verweisen. In geeigneten Fällen
-kann das Gericht den Parteien eine außergerichtliche Streitschlichtung
-vorschlagen. Entscheiden sich die Parteien hierzu, gilt § 251
-entsprechend.
+(5) Das Gericht kann die Parteien für die Güteverhandlung sowie für
+weitere Güteversuche vor einen hierfür bestimmten und nicht
+entscheidungsbefugten Richter (Güterichter) verweisen. Der Güterichter
+kann alle Methoden der Konfliktbeilegung einschließlich der Mediation
+einsetzen.
 
 (6) Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden,
 dass die Parteien dem Gericht einen schriftlichen Vergleichsvorschlag
@@ -4501,6 +4513,16 @@ unterbreiten oder einen schriftlichen Vergleichsvorschlag des Gerichts
 durch Schriftsatz gegenüber dem Gericht annehmen. Das Gericht stellt
 das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen
 Vergleichs durch Beschluss fest. § 164 gilt entsprechend.
+
+
+##### § 278a Mediation, außergerichtliche Konfliktbeilegung
+
+(1) Das Gericht kann den Parteien eine Mediation oder ein anderes
+Verfahren der außergerichtlichen Konfliktbeilegung vorschlagen.
+
+(2) Entscheiden sich die Parteien zur Durchführung einer Mediation
+oder eines anderen Verfahrens der außergerichtlichen
+Konfliktbeilegung, ordnet das Gericht das Ruhen des Verfahrens an.
 
 
 ##### § 279 Mündliche Verhandlung
@@ -17153,21 +17175,7 @@ anzuwenden.
 (Fundstelle: BGBl. I 2005, 3363 - 3378)
 
 
-\*) Die Fassung der Anlage für die Zeit ab 1. Juli 2005 bis zum 30. Juni
-    2011 ergibt sich aus den Bekanntmachungen zu § 850c der
-    Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005 vom 25.
-    Februar 2005 (BGBl I 2005, 493) iVm der
-    Pfändungsfreigrenzenbekanntmachung 2007 vom 22. Januar 2007 (BGBl I
-    2007, 64) und der Pfändungsfreigrenzenbekanntmachung 2009 vom 15. Mai
-    2009 (BGBl I 2009, 1141)).Gem. Bek. v. 9.5.2011 I 825 erhöhen sich die
-    unpfändbaren Beträge nach § 850c Abs. 1 und 2 Satz 2 der
-    Zivilprozessordnung zum 1.7.2011.Im Übrigen ergeben sich die ab dem
-    1\.7.2011 geltenden Pfändungsfreibeträge aus den der Bek. v. 9.5.2011 I
-    825 als Anhang beigefügten Tabellen.  Vgl. auch Hinweise in § 850c
-    ZPO.
-
-    Aktueller Text der Anlage siehe unter "PfändfreiGrBek 2011".
-
+*
 
 
 
