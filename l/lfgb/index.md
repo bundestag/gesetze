@@ -20,10 +20,10 @@ Fundstelle
 :   BGBl I: 2005, 2618 (3007)
 
 Neugefasst durch
-:   Bek. v. 22.8.2011 I 1770
+:   Bek. v. 22.8.2011 I 1770;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 15.3.2012 I 476 und durch Art. 3 G v. 15.3.2012 I 481
+:   Art. 1 V v. 3.8.2012 I 1708
 
 [^F775632_01_BJNR261810005]:     Das Gesetz dient der Umsetzung der in der Anlage zu Fußnote
     1               ) des Gesetzes zur Neuordnung des Lebensmittel- und
@@ -153,8 +153,8 @@ Verordnung (EG) Nr. 178/2002.
 des Artikels 3 Absatz 2 Buchstabe a in Verbindung mit Artikel 2 Absatz
 2 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und
 des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L
-354 vom 31.12.2008, S. 16), die durch die Verordnung (EU) Nr. 238/2010
-(ABl. L 75 vom 23.3.2010, S. 17) geändert worden ist. Den
+354 vom 31.12.2008, S. 16), die zuletzt durch die Verordnung (EU) Nr.
+675/2012 (ABl. L 196 vom 24.7.2012, S. 52) geändert worden ist. Den
 Lebensmittelzusatzstoffen stehen gleich
 
 1.  Stoffe mit oder ohne Nährwert, die üblicherweise weder selbst als
@@ -678,7 +678,7 @@ Zustimmung des Bundesrates,
     Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen
     und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG
     des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die
-    Verordnung (EG) Nr. 256/2009 (ABl. L 81 vom 27.3.2009, S. 3) geändert
+    Verordnung (EU) Nr. 592/2012 (ABl. L 176 vom 6.7.2012, S. 1) geändert
     worden ist, nicht entsprechen.
 
 
@@ -2591,15 +2591,14 @@ erforderlich sind. Sie können insbesondere
 
 
 
-Artikel 54 Absatz 1 und 2 der Verordnung (EG)
-Nr. 882/2004              des Europäischen Parlaments und des Rates
-vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der
-Einhaltung des Lebensmittel- und Futtermittelrechts sowie der
-Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom
-30\.4.2004, S. 1, L 191 vom 28.5.2004, S. 1, L 204 vom 4.8.2007, S.
-29), die zuletzt durch die Verordnung (EG)
-Nr. 596/2009              (ABl. L 188 vom 18.7.2009, S. 14) geändert
-worden ist, über Maßnahmen im Fall eines Verstoßes bleibt unberührt.
+Artikel 54 Absatz 1 und 2 der Verordnung (EG) Nr. 882/2004 des
+Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche
+Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und
+Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und
+Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191 vom 28.5.2004, S. 1,
+L 204 vom 4.8.2007, S. 29), die zuletzt durch die Verordnung (EU) Nr.
+563/2012 (ABl. L 168 vom 28.6.2012, S. 24) geändert worden ist, über
+Maßnahmen im Fall eines Verstoßes bleibt unberührt.
 
 (3) Eine Anordnung nach
 
@@ -2709,11 +2708,11 @@ Parlaments und des Rates vom 29. April 2004 mit spezifischen
 Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139
 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007,
 S. 26, L 46 vom 21.2.2008, S. 50), die zuletzt durch die Verordnung
-(EU) Nr. 558/2010 (ABl. L 159 vom 25.6.2010, S. 18) geändert worden
-ist, vorliegen, die Entnahme von Proben zur Untersuchung auf Trichinen
-und die Kennzeichnung übertragen kann. In der Rechtsverordnung nach
-Satz 1 sind die Voraussetzungen und das Verfahren für die Übertragung
-und die Überwachung der Einhaltung der Vorschriften zu regeln.
+(EU) Nr. 16/2012 (ABl. L 8 vom 12.1.2012, S. 29) geändert worden ist,
+vorliegen, die Entnahme von Proben zur Untersuchung auf Trichinen und
+die Kennzeichnung übertragen kann. In der Rechtsverordnung nach Satz 1
+sind die Voraussetzungen und das Verfahren für die Übertragung und die
+Überwachung der Einhaltung der Vorschriften zu regeln.
 
 
 ### § 40 Information der Öffentlichkeit
@@ -4478,7 +4477,7 @@ bestraft, wer
         Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und
         Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und
         Tierschutz (ABl. L 165 vom 30.4.2004, S. 1), die zuletzt durch die
-        Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14)
+        Verordnung (EU) Nr. 563/2012 (ABl. L 168 vom 28.6.2012, S. 24)
         geändert worden ist, die der Durchführung eines in § 39 Absatz 7
         Nummer 1, 2 oder Nummer 3, soweit sich die Nummer 3 auf § 5 und § 17
         Absatz 1 Satz 1 Nummer 1 bezieht, bezeichneten Verbots dient, oder
@@ -4781,7 +4780,7 @@ bestraft, wer
     Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen
     und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG
     des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die
-    Verordnung (EG) Nr. 256/2009 (ABl. L 81 vom 27.3.2009, S. 3) geändert
+    Verordnung (EU) Nr. 592/2012 (ABl. L 176 vom 6.7.2012, S. 1) geändert
     worden ist, ein Erzeugnis, soweit es sich dabei um ein Lebensmittel
     handelt, verarbeitet oder mit einem anderen Erzeugnis, soweit es sich
     dabei um ein Lebensmittel handelt, mischt,
@@ -4832,9 +4831,9 @@ bestraft, wer
 
 5.  gegen die Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments
     und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe
-    (ABl. L 354 vom 31.12.2008, S. 16), die durch die Verordnung (EU) Nr.
-    238/2010 (ABl. L 75 vom 23.3.2010, S. 17) geändert worden ist,
-    verstößt, indem er
+    (ABl. L 354 vom 31.12.2008, S. 16), die zuletzt durch die Verordnung
+    (EU) Nr. 675/2012 (ABl. L 196 vom 24.7.2012, S. 52) geändert worden
+    ist, verstößt, indem er
 
     a)  entgegen Artikel 4 Absatz 1 einen Lebensmittelzusatzstoff als solchen
         in den Verkehr bringt oder in Lebensmitteln verwendet,

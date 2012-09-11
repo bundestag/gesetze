@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1262
 
+Geändert durch
+:   § 5 Satz 2 V v. 15.8.2012 I 1714
+
 
 
 ## Eingangsformel

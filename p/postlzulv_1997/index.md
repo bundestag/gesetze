@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1833
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 106 G v. 5.2.2009 I 160
+:   Art. 1 V v. 25.7.2012 I 1702
 
 
 ## Eingangsformel
@@ -200,6 +200,32 @@ Leistungen, die der Vorstand bestimmt, vermittelt haben
 (2) Die Höhe der Akquisitionszulage richtet sich nach dem
 wirtschaftlichen Vorteil, den das Unternehmen aus den Verträgen
 erlangt. § 5 Abs. 1 Satz 3 und 4 ist anzuwenden.
+
+
+## § 7a Leistungszulage für Tätigkeiten im Filialvertrieb
+
+(1) Bei der Deutschen Postbank AG beschäftigte Beamte, denen eine
+Tätigkeit im Filialvertrieb zugewiesen ist, können eine monatliche
+Leistungszulage erhalten (Filialzulage).
+
+(2) Die Höhe der Filialzulage entspricht der Höhe der Sonderzahlung,
+die dem Beamten für Dezember 2007 nach § 1 Absatz 2 der
+Postbanksonderzahlungsverordnung vom 15. August 2007 (BGBl. I S. 2121)
+
+1.  zugestanden hat oder
+
+
+2.  im Fall einer Beurlaubung ohne Anspruch auf Dienstbezüge zugestanden
+    hätte.
+
+
+
+
+(3) § 3 ist nicht anzuwenden. § 6 Absatz 1 des
+Bundesbesoldungsgesetzes gilt entsprechend.
+
+(4) Die Filialzulage darf letztmalig für den Monat Juni 2013 gewährt
+werden.
 
 
 ## § 8 Leistungszulage für besondere Arbeitsmengen
