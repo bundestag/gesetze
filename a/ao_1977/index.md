@@ -3602,7 +3602,7 @@ Sinne von Absatz 1 an eine für die Verhütung und Verfolgung von
 Straftaten zuständige öffentliche Stelle eines Mitgliedstaates der
 Europäischen Union übermitteln, wenn im Einzelfall die Gefahr der
 Begehung einer Straftat im Sinne des Artikels 2 Absatz 2 des
-Rahmenbeschlusses 2002/584/Jl des Rates vom 13. Juni 2002 über den
+Rahmenbeschlusses 2002/584/JI des Rates vom 13. Juni 2002 über den
 Europäischen Haftbefehl und die Übergabeverfahren zwischen den
 Mitgliedstaaten (ABl. L 190 vom 18.7.2002, S. 1), der zuletzt durch
 den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24)
@@ -3666,7 +3666,7 @@ wenn
 (7) Als für die Verhütung und Verfolgung von Straftaten zuständige
 öffentliche Stelle eines Mitgliedstaates der Europäischen Union im
 Sinne der Absätze 1 und 3 gilt jede Stelle, die von diesem Staat gemäß
-Artikel 2 Buchstabe a des Rahmenbeschlusses 2006/960/Jl des Rates vom
+Artikel 2 Buchstabe a des Rahmenbeschlusses 2006/960/JI des Rates vom
 18\. Dezember 2006 über die Vereinfachung des Austauschs von
 Informationen und Erkenntnissen zwischen den Strafverfolgungsbehörden
 der Mitgliedstaaten der Europäischen Union (ABl. L 386 vom 29.12.2006,
@@ -3681,7 +3681,7 @@ internationale Rechtshilfe in Strafsachen.
 
 ##### § 117b Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
 
-(1) Daten, die nach dem Rahmenbeschluss 2006/960/Jl an die mit der
+(1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die mit der
 Steuerfahndung betrauten Dienststellen der Finanzbehörden übermittelt
 worden sind, dürfen nur für die Zwecke, für die sie übermittelt
 wurden, oder zur Abwehr einer gegenwärtigen und erheblichen Gefahr für
