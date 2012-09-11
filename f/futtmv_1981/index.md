@@ -875,8 +875,8 @@ Europäischen Union auf Grund des Artikels 17 Absatz 4 der Verordnung
 ## § 16 Zugelassene Futtermittelzusatzstoffe
 
 In der Europäischen Union zugelassene Futtermittelzusatzstoffe sind im
-Gemeinschaftsregister der Futtermittel-Zusatzstoffe nach der
-Verordnung (EG) Nr. 1831/2003 \*) aufgeführt.
+Gemeinschaftsregister der Futtermittelzusatzstoffe nach der Verordnung
+(EG) Nr. 1831/2003 \*) aufgeführt.
 -----
 \*) Amtlicher Hinweis: http://ec.europa.eu/food/food/animalnutrition/f
 eedadditives/registeradditives\_en.htm
