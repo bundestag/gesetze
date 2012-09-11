@@ -1846,6 +1846,10 @@ Die Vorschrift des § 79 gilt entsprechend.
 (weggefallen)
 
 
+### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6b
+
+
+
 #### § 96
 
 (1) Aus der Begründung eines Antrags nach Artikel 93 Abs. 2 Satz 1 des
@@ -1858,6 +1862,10 @@ bestimmenden Frist Gelegenheit zur Äußerung.
 
 (3) Ein Äußerungsberechtigter nach Absatz 2 kann in jeder Lage des
 Verfahrens beitreten.
+
+
+### Siebzehnter Abschnitt - Verfahren in den Fällen des § 13 Nummer 3a
+
 
 
 #### § 96a
@@ -1890,14 +1898,6 @@ Verhandlung entscheiden.
 Das Bundesverfassungsgericht kann seine Entscheidung ohne Begründung
 bekanntgeben. In diesem Fall ist die Begründung der Beschwerdeführerin
 und dem Bundeswahlausschuss gesondert zu übermitteln.
-
-
-### Siebzehnter Abschnitt - Verfahren in den Fällen des § 13 Nummer 3a
-
-
-
-### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6b
-
 
 
 ## IV. Teil - Verzögerungsbeschwerde
