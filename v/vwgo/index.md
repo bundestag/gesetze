@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19. 3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 2 G v. 24.2.2012 I 212
+:   Art. 6 G v. 21.7.2012 I 1577
 
 
 ## Teil I - Gerichtsverfassung
@@ -3602,16 +3602,17 @@ wiederholt angedroht, festgesetzt und vollstreckt werden.
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
-entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der
-beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des
-Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der
-Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des
-Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der
-Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im
-Sinne des § 1062 der Zivilprozeßordnung ist das zuständige
-Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung
-das zuständige Oberverwaltungsgericht.
+einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
+die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
+ausschließen. Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts das
+Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das
+Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die
+Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der
+Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im
+Sinne des § 1065 der Zivilprozeßordnung das zuständige
+Oberverwaltungsgericht.
 
 
 ### § 174

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 4 G v. 15.3.2012 II 178
+:   Art. 3 G v. 21.7.2012 I 1577
 
 
 ## Buch 1 - Allgemeiner Teil
@@ -496,9 +496,14 @@ entgegensteht.
 (1) Ein verfahrenseinleitender Antrag soll begründet werden. In dem
 Antrag sollen die zur Begründung dienenden Tatsachen und Beweismittel
 angegeben sowie die Personen benannt werden, die als Beteiligte in
-Betracht kommen. Urkunden, auf die Bezug genommen wird, sollen in
-Urschrift oder Abschrift beigefügt werden. Der Antrag soll von dem
-Antragsteller oder seinem Bevollmächtigten unterschrieben werden.
+Betracht kommen. Der Antrag soll in geeigneten Fällen die Angabe
+enthalten, ob der Antragstellung der Versuch einer Mediation oder
+eines anderen Verfahrens der außergerichtlichen Konfliktbeilegung
+vorausgegangen ist, sowie eine Äußerung dazu, ob einem solchen
+Verfahren Gründe entgegenstehen. Urkunden, auf die Bezug genommen
+wird, sollen in Urschrift oder Abschrift beigefügt werden. Der Antrag
+soll von dem Antragsteller oder seinem Bevollmächtigten unterschrieben
+werden.
 
 (2) Das Gericht soll den Antrag an die übrigen Beteiligten
 übermitteln.
@@ -568,9 +573,11 @@ Urkundsbeamter der Geschäftsstelle hinzugezogen werden, wenn dies auf
 Grund des zu erwartenden Umfangs des Vermerks, in Anbetracht der
 Schwierigkeit der Sache oder aus einem sonstigen wichtigen Grund
 erforderlich ist. In den Vermerk sind die wesentlichen Vorgänge des
-Termins und der persönlichen Anhörung aufzunehmen. Die Herstellung
-durch Aufzeichnung auf Datenträger in der Form des § 14 Abs. 3 ist
-möglich.
+Termins und der persönlichen Anhörung aufzunehmen. Über den Versuch
+einer gütlichen Einigung vor einem Güterichter nach § 36 Absatz 5 wird
+ein Vermerk nur angefertigt, wenn alle Beteiligten sich einverstanden
+erklären. Die Herstellung durch Aufzeichnung auf Datenträger in der
+Form des § 14 Abs. 3 ist möglich.
 
 
 #### § 29 Beweiserhebung
@@ -736,6 +743,28 @@ geschlossen werden.
 (4) Unrichtigkeiten in der Niederschrift oder in dem Beschluss über
 den Vergleich können entsprechend § 164 der Zivilprozessordnung
 berichtigt werden.
+
+(5) Das Gericht kann die Beteiligten für den Versuch einer gütlichen
+Einigung vor einen hierfür bestimmten und nicht entscheidungsbefugten
+Richter (Güterichter) verweisen. Der Güterichter kann alle Methoden
+der Konfliktbeilegung einschließlich der Mediation einsetzen. Für das
+Verfahren vor dem Güterichter gelten die Absätze 1 bis 4 entsprechend.
+
+
+#### § 36a Mediation, außergerichtliche Konfliktbeilegung
+
+(1) Das Gericht kann einzelnen oder allen Beteiligten eine Mediation
+oder ein anderes Verfahren der außergerichtlichen Konfliktbeilegung
+vorschlagen. In Gewaltschutzsachen sind die schutzwürdigen Belange der
+von Gewalt betroffenen Person zu wahren.
+
+(2) Entscheiden sich die Beteiligten zur Durchführung einer Mediation
+oder eines anderen Verfahrens der außergerichtlichen
+Konfliktbeilegung, setzt das Gericht das Verfahren aus.
+
+(3) Gerichtliche Anordnungs- und Genehmigungsvorbehalte bleiben von
+der Durchführung einer Mediation oder eines anderen Verfahrens der
+außergerichtlichen Konfliktbeilegung unberührt.
 
 
 #### § 37 Grundlage der Entscheidung
@@ -1690,9 +1719,12 @@ einem Beteiligten auferlegen, wenn
     Mitwirkungspflichten das Verfahren erheblich verzögert hat;
 
 
-5.  der Beteiligte einer richterlichen Anordnung zur Teilnahme an einer
-    Beratung nach § 156 Abs. 1 Satz 4 nicht nachgekommen ist, sofern der
-    Beteiligte dies nicht genügend entschuldigt hat.
+5.  der Beteiligte einer richterlichen Anordnung zur Teilnahme an einem
+    kostenfreien Informationsgespräch über Mediation oder über eine
+    sonstige Möglichkeit der außergerichtlichen Konfliktbeilegung nach §
+    156 Absatz 1 Satz 3 oder einer richterlichen Anordnung zur Teilnahme
+    an einer Beratung nach § 156 Absatz 1 Satz 4 nicht nachgekommen ist,
+    sofern der Beteiligte dies nicht genügend entschuldigt hat.
 
 
 
@@ -2890,18 +2922,15 @@ Geschäftsstelle oder in der mündlichen Verhandlung zur Niederschrift
 des Gerichts erklärt werden.
 
 
-##### § 135 Außergerichtliche Streitbeilegung über Folgesachen
+##### § 135 Außergerichtliche Konfliktbeilegung über Folgesachen
 
-(1) Das Gericht kann anordnen, dass die Ehegatten einzeln oder
-gemeinsam an einem kostenfreien Informationsgespräch über Mediation
-oder eine sonstige Möglichkeit der außergerichtlichen Streitbeilegung
+Das Gericht kann anordnen, dass die Ehegatten einzeln oder gemeinsam
+an einem kostenfreien Informationsgespräch über Mediation oder eine
+sonstige Möglichkeit der außergerichtlichen Konfliktbeilegung
 anhängiger Folgesachen bei einer von dem Gericht benannten Person oder
 Stelle teilnehmen und eine Bestätigung hierüber vorlegen. Die
 Anordnung ist nicht selbständig anfechtbar und nicht mit Zwangsmitteln
 durchsetzbar.
-
-(2) Das Gericht soll in geeigneten Fällen den Ehegatten eine
-außergerichtliche Streitbeilegung anhängiger Folgesachen vorschlagen.
 
 
 ##### § 136 Aussetzung des Verfahrens
@@ -3182,11 +3211,10 @@ das Ergebnis einer als Folgesache geführten Unterhaltssache oder
 Güterrechtssache als unbillig, kann das Gericht die Kosten nach
 billigem Ermessen anderweitig verteilen. Es kann dabei auch
 berücksichtigen, ob ein Beteiligter einer richterlichen Anordnung zur
-Teilnahme an einem Informationsgespräch nach § 135 Abs. 1 nicht
-nachgekommen ist, sofern der Beteiligte dies nicht genügend
-entschuldigt hat. Haben die Beteiligten eine Vereinbarung über die
-Kosten getroffen, soll das Gericht sie ganz oder teilweise der
-Entscheidung zugrunde legen.
+Teilnahme an einem Informationsgespräch nach § 135 nicht nachgekommen
+ist, sofern der Beteiligte dies nicht genügend entschuldigt hat. Haben
+die Beteiligten eine Vereinbarung über die Kosten getroffen, soll das
+Gericht sie ganz oder teilweise der Entscheidung zugrunde legen.
 
 (5) Die Vorschriften der Absätze 1 bis 4 gelten auch hinsichtlich der
 Folgesachen, über die infolge einer Abtrennung gesondert zu
@@ -3294,6 +3322,12 @@ Verlegungsgesuch glaubhaft zu machen.
 (3) Das Gericht soll das persönliche Erscheinen der verfahrensfähigen
 Beteiligten zu dem Termin anordnen.
 
+(4) Hat das Gericht ein Verfahren nach Absatz 1 zur Durchführung einer
+Mediation oder eines anderen Verfahrens der außergerichtlichen
+Konfliktbeilegung ausgesetzt, nimmt es das Verfahren in der Regel nach
+drei Monaten wieder auf, wenn die Beteiligten keine einvernehmliche
+Regelung erzielen.
+
 
 #### § 156 Hinwirken auf Einvernehmen
 
@@ -3305,11 +3339,15 @@ dies dem Kindeswohl nicht widerspricht. Es weist auf Möglichkeiten der
 Beratung durch die Beratungsstellen und -dienste der Träger der
 Kinder- und Jugendhilfe insbesondere zur Entwicklung eines
 einvernehmlichen Konzepts für die Wahrnehmung der elterlichen Sorge
-und der elterlichen Verantwortung hin. Das Gericht soll in geeigneten
-Fällen auf die Möglichkeit der Mediation oder der sonstigen
-außergerichtlichen Streitbeilegung hinweisen. Es kann anordnen, dass
-die Eltern an einer Beratung nach Satz 2 teilnehmen. Die Anordnung ist
-nicht selbständig anfechtbar und nicht mit Zwangsmitteln durchsetzbar.
+und der elterlichen Verantwortung hin. Das Gericht kann anordnen, dass
+die Eltern einzeln oder gemeinsam an einem kostenfreien
+Informationsgespräch über Mediation oder über eine sonstige
+Möglichkeit der außergerichtlichen Konfliktbeilegung bei einer von dem
+Gericht benannten Person oder Stelle teilnehmen und eine Bestätigung
+hierüber vorlegen. Es kann ferner anordnen, dass die Eltern an einer
+Beratung nach Satz 2 teilnehmen. Die Anordnungen nach den Sätzen 3 und
+4 sind nicht selbständig anfechtbar und nicht mit Zwangsmitteln
+durchsetzbar.
 
 (2) Erzielen die Beteiligten Einvernehmen über den Umgang oder die
 Herausgabe des Kindes, ist die einvernehmliche Regelung als Vergleich
@@ -3322,7 +3360,9 @@ Umgangsrecht oder die Herausgabe des Kindes betreffen, eine
 einvernehmliche Regelung im Termin nach § 155 Abs. 2 nicht erreicht
 werden, hat das Gericht mit den Beteiligten und dem Jugendamt den
 Erlass einer einstweiligen Anordnung zu erörtern. Wird die Teilnahme
-an einer Beratung oder eine schriftliche Begutachtung angeordnet, soll
+an einer Beratung, an einem kostenfreien Informationsgespräch über
+Mediation oder einer sonstigen Möglichkeit der außergerichtlichen
+Konfliktbeilegung oder eine schriftliche Begutachtung angeordnet, soll
 das Gericht in Kindschaftssachen, die das Umgangsrecht betreffen, den
 Umgang durch einstweilige Anordnung regeln oder ausschließen. Das
 Gericht soll das Kind vor dem Erlass einer einstweiligen Anordnung

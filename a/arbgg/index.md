@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.11.2011 I 2302
+:   Art. 4 G v. 21.7.2012 I 1577
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1513,6 +1513,27 @@ Antrag kann nur innerhalb von sechs Monaten nach der Güteverhandlung
 gestellt werden. Nach Ablauf der Frist ist § 269 Abs. 3 bis 5 der
 Zivilprozeßordnung entsprechend anzuwenden.
 
+(6) Der Vorsitzende kann die Parteien für die Güteverhandlung sowie
+deren Fortsetzung vor einen hierfür bestimmten und nicht
+entscheidungsbefugten Richter (Güterichter) verweisen. Der Güterichter
+kann alle Methoden der Konfliktbeilegung einschließlich der Mediation
+einsetzen.
+
+
+##### § 54a Mediation, außergerichtliche Konfliktbeilegung
+
+(1) Das Gericht kann den Parteien eine Mediation oder ein anderes
+Verfahren der außergerichtlichen Konfliktbeilegung vorschlagen.
+
+(2) Entscheiden sich die Parteien zur Durchführung einer Mediation
+oder eines anderen Verfahrens der außergerichtlichen
+Konfliktbeilegung, ordnet das Gericht das Ruhen des Verfahrens an. Auf
+Antrag einer Partei ist Termin zur mündlichen Verhandlung zu
+bestimmen. Im Übrigen nimmt das Gericht das Verfahren nach drei
+Monaten wieder auf, es sei denn, die Parteien legen übereinstimmend
+dar, dass eine Mediation oder eine außergerichtliche Konfliktbeilegung
+noch betrieben wird.
+
 
 ##### § 55 Alleinentscheidung durch den Vorsitzenden
 
@@ -1544,7 +1565,7 @@ allein
 7.  über die örtliche Zuständigkeit;
 
 
-8.  über die Aussetzung des Verfahrens;
+8.  über die Aussetzung und Anordnung des Ruhens des Verfahrens;
 
 
 9.  wenn nur noch über die Kosten zu entscheiden ist;
@@ -1889,14 +1910,15 @@ Zivilprozeßordnung über die Berufung entsprechend. Die Vorschriften
 über das Verfahren vor dem Einzelrichter finden keine Anwendung.
 
 (7) Die Vorschriften des § 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1,
-der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, der §§ 56 bis 59,
-61 Abs. 2 und 3 und der §§ 62 und 63 über Ablehnung von
-Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien,
-Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen
-Richter, Vorbereitung der streitigen Verhandlung, Verhandlung vor der
-Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils,
-Zwangsvollstreckung und Übersendung von Urteilen in
-Tarifvertragssachen gelten entsprechend.
+der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6,
+des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über
+Ablehnung von Gerichtspersonen, Zustellungen, persönliches Erscheinen
+der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der
+ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche
+Konfliktbeilegung, Vorbereitung der streitigen Verhandlung,
+Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren,
+Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen
+in Tarifvertragssachen gelten entsprechend.
 
 (8) Berufungen in Rechtsstreitigkeiten über das Bestehen, das
 Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind
@@ -2385,14 +2407,14 @@ Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften über
 Prozeßfähigkeit, Prozeßvertretung, Ladungen, Termine und Fristen,
 Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen,
 persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des
-Vorsitzenden und der ehrenamtlichen Richter, Vorbereitung der
-streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme,
-gütliche Erledigung des Verfahrens, Wiedereinsetzung in den vorigen
-Stand und Wiederaufnahme des Verfahrens entsprechend; soweit sich aus
-den §§ 81 bis 84 nichts anderes ergibt. Der Vorsitzende kann ein
-Güteverfahren ansetzen; die für das Urteilsverfahren des ersten
-Rechtszugs maßgebenden Vorschriften über das Güteverfahren gelten
-entsprechend.
+Vorsitzenden und der ehrenamtlichen Richter, Mediation und
+außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen
+Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, gütliche
+Erledigung des Verfahrens, Wiedereinsetzung in den vorigen Stand und
+Wiederaufnahme des Verfahrens entsprechend; soweit sich aus den §§ 81
+bis 84 nichts anderes ergibt. Der Vorsitzende kann ein Güteverfahren
+ansetzen; die für das Urteilsverfahren des ersten Rechtszugs
+maßgebenden Vorschriften über das Güteverfahren gelten entsprechend.
 
 (3) § 48 Abs. 1 findet entsprechende Anwendung.
 
@@ -2503,9 +2525,10 @@ Vorsitzenden findet die Beschwerde nach Maßgabe des § 78 statt.
 ##### § 83a Vergleich, Erledigung des Verfahrens
 
 (1) Die Beteiligten können, um das Verfahren ganz oder zum Teil zu
-erledigen, zur Niederschrift des Gerichts oder des Vorsitzenden einen
-Vergleich schließen, soweit sie über den Gegenstand des Vergleichs
-verfügen können, oder das Verfahren für erledigt erklären.
+erledigen, zur Niederschrift des Gerichts oder des Vorsitzenden oder
+des Güterichters einen Vergleich schließen, soweit sie über den
+Gegenstand des Vergleichs verfügen können, oder das Verfahren für
+erledigt erklären.
 
 (2) Haben die Beteiligten das Verfahren für erledigt erklärt, so ist
 es vom Vorsitzenden des Arbeitsgerichts einzustellen. § 81 Abs. 2 Satz
@@ -2570,11 +2593,12 @@ maßgebenden Vorschriften über die Einlegung der Berufung und ihre
 Begründung, über Prozeßfähigkeit, Ladungen, Termine und Fristen,
 Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen,
 persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des
-Vorsitzenden und der ehrenamtlichen Richter, Vorbereitung der
-streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme,
-gütliche Erledigung des Rechtsstreits, Wiedereinsetzung in den vorigen
-Stand und Wiederaufnahme des Verfahrens sowie die Vorschriften des §
-85 über die Zwangsvollstreckung entsprechend. Für die Vertretung der
+Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation
+und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen
+Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, gütliche
+Erledigung des Rechtsstreits, Wiedereinsetzung in den vorigen Stand
+und Wiederaufnahme des Verfahrens sowie die Vorschriften des § 85 über
+die Zwangsvollstreckung entsprechend. Für die Vertretung der
 Beteiligten gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann
 jederzeit mit Zustimmung der anderen Beteiligten zurückgenommen
 werden; § 81 Abs. 2 Satz 2 und 3 und Absatz 3 ist entsprechend

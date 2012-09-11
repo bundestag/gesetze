@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28. 3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 35 G v. 22.12.2011 I 3044
+:   Art. 8 G v. 21.7.2012 I 1577
 
 
 ## Erster Teil - Gerichtsverfassung
@@ -2996,13 +2996,13 @@ wiederholt angedroht, festgesetzt und vollstreckt werden.
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen
 Unterschiede der beiden Verfahrensarten es nicht ausschließen, die
-Zivilprozessordnung sinngemäß anzuwenden. Die Vorschriften des
-Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der
-Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und
-an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt;
-die Vorschriften über das Verfahren im ersten Rechtszug sind
-entsprechend anzuwenden.
+Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß
+anzuwenden. Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts und des
+Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der
+Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften
+über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
 
 
 ### § 156
