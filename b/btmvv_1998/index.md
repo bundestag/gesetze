@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 74, 80
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.5.2011 I 821
-
-Änderung durch
-:   Art. 2 V v. 20.7.2012 I 1639 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 20.7.2012 I 1639
 
 
 ## § 1 Grundsätze
