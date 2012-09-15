@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.2.2003 I 169;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.3.2012 I 488
+:   Art. 1 V v. 12.7.2012 I 1508
 
 Die Verordnung dient der Umsetzung der Richtlinie 97/52/EG des
 Europäischen Parlaments und des Rates vom 13. Oktober 1997 zur
@@ -401,10 +401,9 @@ werden kann.
 Wettbewerbsbeschränkungen haben bei der Vergabe von Bauaufträgen und
 Baukonzessionen die Bestimmungen des 2. Abschnittes des Teiles A der
 Vergabe- und Vertragsordnung für Bauleistungen (VOB/A) in der Fassung
-der Bekanntmachung vom 31. Juli 2009 (BAnz. Nr. 155a vom 15. Oktober
-2009), geändert durch Bekanntmachung vom 19. Februar 2010 (BAnz. Nr.
-36 vom 5. März 2010, BAnz. S. 940) anzuwenden; für die in § 98 Nr. 6
-des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber
+der Bekanntmachung vom 24. Oktober 2011 (BAnz. Nr. 182a vom 2.
+Dezember 2011; BAnz AT 07.05.2012 B1) anzuwenden; für die in § 98 Nr.
+6 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber
 gilt dies nur hinsichtlich der Bestimmungen, die auf diese
 Auftraggeber Bezug nehmen.
 
