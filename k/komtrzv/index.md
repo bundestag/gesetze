@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2349
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.9.2011 I 1830
+:   Art. 1 V v. 20.8.2012 I 1768
 
 Geltung der v durch
 :   § 2 idF Art. 1 Nr. 2 V v. 1.12.2010 I 1758 über den 31.12.2010 hinaus verlängert
