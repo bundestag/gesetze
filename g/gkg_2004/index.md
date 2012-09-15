@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 718
 
 Zuletzt geändert durch
-:   Art. 7 G v. 21.7.2012 I 1577
+:   Art. 5 G v. 17.8.2012 I 1726
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -87,11 +87,14 @@ Zuletzt geändert durch
 16. nach dem Kapitalanleger-Musterverfahrensgesetz;
 
 
-17. nach dem EG-Verbraucherschutzdurchsetzungsgesetz und
+17. nach dem EG-Verbraucherschutzdurchsetzungsgesetz;
 
 
 18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über
-    die internationale Rechtshilfe in Strafsachen
+    die internationale Rechtshilfe in Strafsachen und
+
+
+19. nach dem Kohlendioxid-Speicherungsgesetz
 
 
 
@@ -1181,7 +1184,8 @@ Zivilprozessordnung:
 
 
 2.  über Beschwerden gegen Entscheidungen der Regulierungsbehörde und über
-    Rechtsbeschwerden (§§ 75 und 86 des Energiewirtschaftsgesetzes),
+    Rechtsbeschwerden (§§ 75 und 86 des Energiewirtschaftsgesetzes oder §
+    35 Absatz 3 und 4 des Kohlendioxid-Speicherungsgesetzes),
 
 
 3.  über Beschwerden gegen Verfügungen der Bundesanstalt für
@@ -1893,14 +1897,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   Abschnitt 3
 
-    *   Revision, Rechtsbeschwerden nach § 74 GWB, § 86 EnWG und § 24 VSchDG
+    *   Revision, Rechtsbeschwerden nach § 74 GWB, § 86 EnWG, § 35 KSpG und §
+        24 VSchDG
 
 
 *    *   Abschnitt 4
 
     *   Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der
-        Revision sowie der Rechtsbeschwerden nach § 74 GWB, § 86 EnWG und § 24
-        VSchDG
+        Revision sowie der Rechtsbeschwerden nach § 74 GWB, § 86 EnWG, § 35
+        KSpG und § 24 VSchDG
 
 
 *    *   Abschnitt 5
@@ -3190,24 +3195,28 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 
 *    *   Vorbemerkung 1.2.2:
-        Dieser Abschnitt ist auf folgende Beschwerdeverfahren anzuwenden:
+        Dieser Abschnitt ist auf Beschwerdeverfahren nach
 
-        1.  Beschwerden nach den §§ 63 und 116 GWB;
-
-
-        2.  Beschwerden nach § 48 WpÜG;
+        1.  den §§ 63 und 116 GWB,
 
 
-        3.  Beschwerdeverfahren nach § 37u Abs. 1 WpHG;
+        2.  § 48 WpÜG,
 
 
-        4.  Beschwerden nach § 75 EnWG;
+        3.  § 37u Absatz 1 WpHG,
 
 
-        5.  Beschwerden nach § 13 VSchDG.
+        4.  § 75 EnWG,
+
+
+        5.  § 13 VSchDG und
+
+
+        6.  § 35 KSpG
 
 
 
+        anzuwenden.
 
 
 *    *   1220
@@ -3301,7 +3310,8 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 *    *
 
 *    *   Abschnitt 3
-        Revision, Rechtsbeschwerden nach § 74 GWB, § 86 EnWG und § 24 VSchDG
+        Revision, Rechtsbeschwerden nach § 74 GWB, § 86 EnWG, § 35 KSpG und §
+        24 VSchDG
 
 
 *    *   1230
@@ -3377,8 +3387,8 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *   Abschnitt 4
         Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der
-        Revision sowie der Rechtsbeschwerden nach § 74 GWB, § 86 EnWG und § 24
-        VSchDG
+        Revision sowie der Rechtsbeschwerden nach § 74 GWB, § 86 EnWG, § 35
+        KSpG und § 24 VSchDG
 
 
 *    *   1240

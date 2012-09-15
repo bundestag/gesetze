@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 666
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 33 G v. 24.2.2012 I 212
+:   Art. 3 G v. 17.8.2012 I 1726
 
 
 ## § 1 Verhältnis zu anderen Vorschriften
@@ -477,6 +477,10 @@ anzuwenden.
     2006/21/EG des Europäischen Parlaments und des Rates vom 15. März 2006
     über die Bewirtschaftung von Abfällen aus der mineralgewinnenden
     Industrie.
+
+
+14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-
+    Speicherungsgesetzes.
 
 
 

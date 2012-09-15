@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.2.2010 I 94
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 15 G v. 24.2.2012 I 212
+:   Art. 2 G v. 17.8.2012 I 1726
 
 
 ## Teil 1 - Allgemeine Vorschriften für die Umweltprüfungen
@@ -2045,6 +2045,39 @@ und 2.
 *    *   1.9.2
 
     *   weniger als 500 t je Tag;
+
+    *
+    *   **A**
+
+
+*    *   **1.10**
+
+    *   Errichtung und Betrieb einer Anlage zur Abscheidung von Kohlendioxid
+        zur dauerhaften Speicherung
+
+    *
+    *
+
+*    *   1.10.1
+
+    *   aus einer Anlage, die nach Spalte 1 UVP-pflichtig ist,
+
+    *   **X**
+
+    *
+
+*    *   1.10.2
+
+    *   mit einer Abscheidungsleistung von 1,5 Mio. t oder mehr pro Jahr,
+        soweit sie nicht unter Nummer 1.10.1 fällt,
+
+    *   **X**
+
+    *
+
+*    *   1.10.3
+
+    *   mit einer Abscheidungsleistung von weniger als 1,5 Mio. t pro Jahr;
 
     *
     *   **A**
@@ -4985,20 +5018,28 @@ und 2.
 
 *    *   **15.**
 
-    *   **Bergbau:**
+    *   Bergbau und dauerhafte Speicherung von Kohlendioxid:
 
     *
     *
 
 *    *   **15.1**
 
-    *   Bergbauliche Vorhaben einschließlich der zu deren Durchführung
-        erforderlichen betriebsplanpflichtigen Maßnahmen dieser Anlage nur
+    *   bergbauliche Vorhaben, ein schließlich der zu ihrer Durchführung
+        erforderlichen betriebsplanpflichtigen Maßnahmen dieser Anlage, nur
         nach Maßgabe der aufgrund des § 57c Nummer 1 des Bundesberggesetzes
         erlassenen Rechtsverordnung;
 
     *
     *
+
+*    *   **15.2**
+
+    *   Errichtung, Betrieb und Stilllegung von Kohlendioxidspeichern;
+
+    *
+    *   **X**
+
 
 *    *   **16.**
 
@@ -5678,7 +5719,52 @@ und 2.
 
     *   5 000 m
         3                        bis weniger als 2 Mio. m
-        3                        Wasser.
+        3                        Wasser;
+
+    *
+    *   **S**
+
+
+*    *   **19.10**
+
+    *   Errichtung und Betrieb einer Kohlendioxidleitung im Sinne des
+        Kohlendioxid-Speicherungsgesetzes, ausgenommen Anlagen, die den
+        Bereich eines Werksgeländes nicht überschreiten, mit
+
+    *
+    *
+
+*    *   19.10.1
+
+    *   einer Länge von mehr als 40 km und einem Durchmesser der Rohrleitung
+        von mehr als 800 mm,
+
+    *   **X**
+
+    *
+
+*    *   19.10.2
+
+    *   einer Länge von mehr als 40 km und einem Durchmesser der Rohrleitung
+        von 150 mm bis zu 800 mm,
+
+    *
+    *   **A**
+
+
+*    *   19.10.3
+
+    *   einer Länge von 2 km bis 40 km und einem Durchmesser der Rohrleitung
+        von mehr als 150 mm,
+
+    *
+    *   **A**
+
+
+*    *   19.10.4
+
+    *   einer Länge von weniger als 2 km und einem Durchmesser der Rohrleitung
+        von mehr als 150 mm.
 
     *
     *   **S**

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 134
 
-Geändert durch
-:   Art. 3 G v. 28.7.2011 I 1634
+Zuletzt geändert durch
+:   Art. 3 G v. 17.8.2012 I 1754
 
 
 ## Eingangsformel
@@ -147,13 +147,13 @@ differenzieren:
 
 3.  solare Strahlungsenergie
 
-    a)  nach § 33 Absatz 1 Nummer 1 bis 3 des Erneuerbare-Energien-Gesetzes
+    a)  nach § 32 Absatz 2 Nummer 1 bis 3 des Erneuerbare-Energien-Gesetzes
         unter Angabe der Annahmen bezüglich des Eigenverbrauchs nach § 33
-        Absatz 2 des Erneuerbare-Energien-Gesetzes,
+        Absatz 2 des Erneuerbare-Energien-Gesetzes in der am 31. März 2012
+        geltenden Fassung,
 
 
-    b)  nach § 32 und § 33 Absatz 1 Nummer 4 des Erneuerbare-Energien-
-        Gesetzes;
+    b)  nach § 32 Absatz 1 und 2 Nummer 4 des Erneuerbare-Energien-Gesetzes;
 
 
 
