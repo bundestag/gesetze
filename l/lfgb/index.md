@@ -2725,7 +2725,7 @@ in den Verkehr gelangt ist, und, wenn dies zur Gefahrenabwehr
 geeigneter ist, auch unter Nennung des Inverkehrbringers, nach Maßgabe
 des Artikels 10 der Verordnung (EG) Nr. 178/2002 informieren. Eine
 Information der Öffentlichkeit in der in Satz 1 genannten Art und
-Weise soll auch erfolgen, wenn
+Weise soll vorbehaltlich des Absatzes 1a auch erfolgen, wenn
 
 1.  der hinreichende Verdacht besteht, dass ein kosmetisches Mittel oder
     ein Bedarfsgegenstand ein Risiko für die menschliche Gesundheit mit
@@ -2733,17 +2733,8 @@ Weise soll auch erfolgen, wenn
 
 
 2.  der hinreichende Verdacht besteht, dass gegen Vorschriften im
-    Anwendungsbereich dieses Gesetzes, die
-
-    a)  dem Schutz der Verbraucherinnen und Verbraucher vor
-        Gesundheitsgefährdungen dienen, verstoßen wurde, oder
-
-
-    b)  dem Schutz der Verbraucherinnen und Verbraucher vor Täuschung dienen,
-        in nicht unerheblichem Ausmaß verstoßen wurde,
-
-
-
+    Anwendungsbereich dieses Gesetzes, die dem Schutz der Verbraucherinnen
+    und Verbraucher vor Gesundheitsgefährdungen dienen, verstoßen wurde,
 
 
 3.  im Einzelfall hinreichende Anhaltspunkte dafür vorliegen, dass von
@@ -2770,17 +2761,42 @@ Weise soll auch erfolgen, wenn
 
 
 
-In den Fällen des Satzes 2 Nummer 2 bis 5 ist eine Information der
+In den Fällen des Satzes 2 Nummer 3 bis 5 ist eine Information der
 Öffentlichkeit zulässig nach Abwägung der Belange der Betroffenen mit
 den Interessen der Öffentlichkeit an der Veröffentlichung.
 
-(2) Eine Information der Öffentlichkeit durch die Behörde ist nur
-zulässig, wenn andere ebenso wirksame Maßnahmen, insbesondere eine
-Information der Öffentlichkeit durch den Lebensmittel- oder
-Futtermittelunternehmer oder den Wirtschaftsbeteiligten, nicht oder
-nicht rechtzeitig getroffen werden oder die Verbraucherinnen und
-Verbraucher nicht erreichen. Unbeschadet des Satzes 1 kann die Behörde
-ihrerseits die Öffentlichkeit auf
+(1a) Die zuständige Behörde informiert die Öffentlichkeit unter
+Nennung der Bezeichnung des Lebensmittels oder Futtermittels sowie
+unter Nennung des Lebensmittel- oder Futtermittelunternehmens, unter
+dessen Namen oder Firma das Lebensmittel oder Futtermittel hergestellt
+oder behandelt oder in den Verkehr gelangt ist, wenn der durch
+Tatsachen, im Falle von Proben nach § 39 Absatz 1 Satz 2 auf der
+Grundlage mindestens zweier unabhängiger Untersuchungen von Stellen
+nach Artikel 12 Absatz 2 der Verordnung (EG) Nr. 882/2004, hinreichend
+begründete Verdacht besteht, dass
+
+1.  in Vorschriften im Anwendungsbereich dieses Gesetzes festgelegte
+    zulässige Grenzwerte, Höchstgehalte oder Höchstmengen überschritten
+    wurden oder
+
+
+2.  gegen sonstige Vorschriften im Anwendungsbereich dieses Gesetzes, die
+    dem Schutz der Verbraucherinnen und Verbraucher vor
+    Gesundheitsgefährdungen oder vor Täuschung oder der Einhaltung
+    hygienischer Anforderungen dienen, in nicht nur unerheblichem Ausmaß
+    oder wiederholt verstoßen worden ist und die Verhängung eines
+    Bußgeldes von mindestens dreihundertfünfzig Euro zu erwarten ist.
+
+
+
+
+(2) Eine Information der Öffentlichkeit nach Absatz 1 durch die
+Behörde ist nur zulässig, wenn andere ebenso wirksame Maßnahmen,
+insbesondere eine Information der Öffentlichkeit durch den
+Lebensmittel- oder Futtermittelunternehmer oder den
+Wirtschaftsbeteiligten, nicht oder nicht rechtzeitig getroffen werden
+oder die Verbraucherinnen und Verbraucher nicht erreichen. Unbeschadet
+des Satzes 1 kann die Behörde ihrerseits die Öffentlichkeit auf
 
 1.  eine Information der Öffentlichkeit oder
 
@@ -2796,10 +2812,11 @@ Voraussetzungen des Satzes 1 auch auf eine Information der
 Interessen der Verbraucherinnen und Verbraucher in ihrem eigenen
 Zuständigkeitsbereich berührt sind.
 
-(3) Bevor die Behörde die Öffentlichkeit informiert, hat sie den
-Hersteller oder den Inverkehrbringer anzuhören, sofern hierdurch die
-Erreichung des mit der Maßnahme verfolgten Zwecks nicht gefährdet
-wird. Satz 1 gilt nicht in einem Fall des Absatzes 2 Satz 2 oder 3.
+(3) Bevor die Behörde die Öffentlichkeit nach den Absätzen 1 und 1a
+informiert, hat sie den Hersteller oder den Inverkehrbringer
+anzuhören, sofern hierdurch die Erreichung des mit der Maßnahme
+verfolgten Zwecks nicht gefährdet wird. Satz 1 gilt nicht in einem
+Fall des Absatzes 2 Satz 2 oder 3.
 
 (4) Stellen sich die von der Behörde an die Öffentlichkeit gegebenen
 Informationen im Nachhinein als falsch oder die zu Grunde liegenden

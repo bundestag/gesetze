@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 269
 
 Zuletzt geändert durch
-:   Art. 10 G v. 26.2.2008 I 215
+:   Art. 2 V v. 25.7.2012 I 1703
 
 
 ## Eingangsformel
@@ -748,7 +748,7 @@ Hiervon ausgenommen sind die Teile der Wulstübergänge.
 
 ## § 26
 
--
+(weggefallen)
 
 
 ## § 27 Beschaffenheit der Fahrzeuge
@@ -835,12 +835,12 @@ Handgriff für Rangierer haben.
 
 ## § 30
 
--
+(weggefallen)
 
 
 ## § 31
 
--
+(weggefallen)
 
 
 ## § 32 Abnahme und Untersuchung der Fahrzeuge
@@ -981,7 +981,7 @@ für leere und beladene Rollwagen ohne Zug- und Stoßeinrichtung.
 
 ## § 37
 
--
+(weggefallen)
 
 
 ## § 38 Fahrordnung

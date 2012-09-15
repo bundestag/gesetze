@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 735
 
 Zuletzt geändert durch
-:   Art. 3 G v. 9.9.2001 I 2331
+:   Art. 2 V v. 14.8.2012 I 1712
 
 
 ## Eingangsformel
@@ -206,6 +206,15 @@ Der Bundesrat hat zugestimmt.
     *   Herstellerbericht je weitere Fertigungsstätte
 
     *   550
+
+
+*    *   6
+
+    *   Sonstige Maßnahmen im Zusammenhang mit Genehmigungen von
+        Verbrennungsmotoren nach Personal- und Sachaufwand je Stunde und
+        Person
+
+    *   40 bis 90
 
 
 
