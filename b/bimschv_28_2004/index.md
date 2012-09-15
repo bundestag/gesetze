@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 614 (1423)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.4.2011 I 605
+:   Art. 1 V v. 14.8.2012 I 1712
 
 Diese Verordnung dient der Umsetzung der Richtlinien 2001/63/EG der
 Kommission vom 17. August 2001 zur Anpassung der Richtlinie 97/68/EG
@@ -52,8 +52,8 @@ der Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom
 Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von
 gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus
 Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG 1998 Nr.
-L 59 S. 1), zuletzt geändert durch die Richtlinie 2004/26/EG vom 21.
-April 2004 (ABl. EU Nr. L 146 S. 1, Nr. L 225 S. 3), soweit sie nicht
+L 59 S. 1), zuletzt geändert durch die Richtlinie 2011/88/EU vom 16.
+November 2011 (ABl. L 305 vom 23.11.2011, S. 1), soweit sie nicht
 ausschließlich von der Bundeswehr oder von Streitkräften, die aufgrund
 völkerrechtlicher Verträge in der Bundesrepublik Deutschland
 stationiert sind, benutzt werden sollen. Diese Verordnung findet keine
@@ -75,9 +75,10 @@ festgelegten Umsetzungsfrist.
 
 (1) Motoren nach § 1 dieser Verordnung dürfen gewerbsmäßig oder im
 Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht
-werden, wenn sie
+werden, wenn
 
-1.  bei Selbstzündungsmotoren der Stufe IIIA nach der Richtlinie 97/68/EG
+1.  sie bei Selbstzündungsmotoren der Stufe IIIA nach der Richtlinie
+    97/68/EG
 
     a)  mit nicht konstanter Drehzahl mit einer Nutzleistung von
 
@@ -134,7 +135,8 @@ werden, wenn sie
     Abschnitt 4.1.2.4 der Richtlinie 97/68/EG einhalten,
 
 
-2.  bei Selbstzündungsmotoren der Stufe IIIB nach der Richtlinie 97/68/EG
+2.  sie bei Selbstzündungsmotoren der Stufe IIIB nach der Richtlinie
+    97/68/EG
 
     a)  mit nicht konstanter Drehzahl mit einer Nutzleistung von
 
@@ -167,8 +169,8 @@ werden, wenn sie
     Abschnitt 4.1.2.5 der Richtlinie 97/68/EG einhalten,
 
 
-3.  bei Selbstzündungsmotoren außer Motoren mit konstanter Drehzahl der
-    Stufe IV nach der Richtlinie 97/68/EG mit einer Nutzleistung von
+3.  sie bei Selbstzündungsmotoren außer Motoren mit konstanter Drehzahl
+    der Stufe IV nach der Richtlinie 97/68/EG mit einer Nutzleistung von
 
     a)  130 kW bis 560 kW ab dem 1. Januar 2014,
 
@@ -182,19 +184,19 @@ werden, wenn sie
     Abschnitt 4.1.2.6 der Richtlinie 97/68/EG einhalten,
 
 
-4.  bei Selbstzündungsmotoren mit einer Nutzleistung von 18 kW bis 560 kW,
-    die mit konstanter Drehzahl betrieben werden, die zulässigen
+4.  sie bei Selbstzündungsmotoren mit einer Nutzleistung von 18 kW bis 560
+    kW, die mit konstanter Drehzahl betrieben werden, die zulässigen
     Emissionsgrenzwerte nach der Tabelle in Anhang I Nr. 4.1.2.3 der
     Richtlinie 97/68/EG ab dem 31. Dezember 2006 einhalten,
 
 
-5.  bei Fremdzündungsmotoren mit einer Nutzleistung bis 19 kW die
+5.  sie bei Fremdzündungsmotoren mit einer Nutzleistung bis 19 kW die
     zulässigen Emissionsgrenzwerte nach der Tabelle in Anhang I Nr.
     4\.2.2.1 der Richtlinie 97/68/ EG ab dem 11. Februar 2005 einhalten
     (Stufe I)
 
 
-6.  und bei
+6.  sie                    und bei
 
     a)  handgehaltenen Fremdzündungsmotoren mit einer Nutzleistung von oder
         unter 19 kW mit einem Hubraum von
@@ -235,13 +237,12 @@ werden, wenn sie
     4\.2.2.2 der Richtlinie 97/68/EG einhalten,
 
 
-7.  sie die Typgenehmigung für einen Motortyp oder eine Motorenfamilie
-    oder das Dokument nach Anhang VII der Richtlinie 97/68/EG vorliegt und
-    wenn
+7.  die Typgenehmigung für einen Motortyp oder eine Motorenfamilie oder
+    das Dokument nach Anhang VII der Richtlinie 97/68/EG vorliegt und wenn
 
 
 8.  sie mit der nach Anhang I Nr. 3 der Richtlinie 97/68/EG erforderlichen
-    EG-Kennzeichnung versehen sind. Motoren, die die Grenzwerte schon vor
+    EG-Kennzeichnung versehen sind; Motoren, die die Grenzwerte schon vor
     den unter den Nummern 1, 2, 3 und 4 genannten Terminen einhalten,
     können entsprechend gekennzeichnet werden.
 
@@ -254,9 +255,49 @@ die Erfüllung der in Absatz 1 genannten Anforderungen um zwei Jahre.
 
 (3) Ein Austauschmotor außer zum Antrieb von Triebwagen und
 Lokomotiven muss den Grenzwerten entsprechen, die von dem zu
-ersetzenden Motor beim ersten Inverkehrbringen einzuhalten waren. Die
-Bezeichnung "Austauschmotor" ist auf einem an dem Motor angebrachten
-Schild oder als Hinweis in das Benutzerhandbuch aufzunehmen.
+ersetzenden Motor beim ersten Inverkehrbringen einzuhalten waren.
+
+(4) Ein Austauschmotor zum Antrieb von Triebwagen und Lokomotiven muss
+den gültigen Grenzwerten für neue Motoren entsprechen.
+
+(5) Weist der Schienenfahrzeugbesitzer nach, dass ein Austauschmotor,
+der den Anforderungen nach Absatz 4 entspricht, nur mit erheblichen
+technischen Schwierigkeiten verwendet werden könnte, kann die
+Genehmigungsbehörde auf Antrag folgende Austauschmotoren für
+Triebwagen und Lokomotiven genehmigen:
+
+1.  Austauschmotoren, die den Emissionsgrenzwerten der Stufe III A der
+    Richtlinie 97/68/EG entsprechen, zum Austausch von Motoren, die
+
+    a)  den Emissionsgrenzwerten der Stufe III A der Richtlinie 97/68/EG nicht
+        genügen oder
+
+
+    b)  zwar den Emissionsgrenzwerten der Stufe III A der Richtlinie 97/68/EG,
+        jedoch nicht den Emissionsgrenzwerten der Stufe III B der Richtlinie
+        97/68/EG genügen;
+
+
+
+
+
+2.  Austauschmotoren, die den Emissionsgrenzwerten der Stufe III A der
+    Richtlinie 97/68/EG nicht genügen, zum Austausch von Motoren für
+    Triebwagen ohne Steuereinrichtung und ohne Eigenantrieb, sofern diese
+    Austauschmotoren die Emissionsgrenzwerte erfüllen, die mindestens den
+    Emissionsgrenzwerten entsprechen, denen die in den vorhandenen
+    Triebwagen desselben Typs genutzten Motoren genügen.
+
+
+
+Der Antragsteller hat seinen Antrag zu begründen und die von der
+Genehmigungsbehörde angeforderten Unterlagen vorzulegen.
+
+(6) An Motoren, die unter die Absätze 3 bis 5 fallen, hat der
+Hersteller eine Kennzeichnung mit dem Schriftzug „AUSTAUSCHMOTOR“ und
+der Referenznummer der Ausnahmegenehmigung, die von der
+Genehmigungsbehörde im Genehmigungsverfahren vergeben wird,
+anzubringen.
 
 
 ## § 3 Ausnahmen
@@ -311,11 +352,11 @@ alle einen unterschiedlichen Hubraum haben.
 (6) Für Motoren, die für die Ausfuhr in Drittländer bestimmt sind,
 findet § 2 Abs. 1 keine Anwendung.
 
-(7) Motoren, die den Begriffsbestimmungen des Anhangs I Buchstabe A
-Ziffern i) und ii) der Richtlinie 97/68/EG entsprechen, können nach
-dem Flexibilitätssystem nach Artikel 2 der Richtlinie 97/68/EG und
-unter Beachtung der Vorschriften nach Anhang XIII der Richtlinie
-97/68/EG in Verkehr gebracht werden.
+(7) Motoren, die den Begriffsbestimmungen des Anhangs I Abschnitt 1
+Buchstabe A Ziffern i, ii und v der Richtlinie 97/68/EG entsprechen,
+können nach dem Flexibilitätssystem nach Artikel 2 der Richtlinie
+97/68/EG und unter Beachtung der Vorschriften nach Anhang XIII der
+Richtlinie 97/68/EG in Verkehr gebracht werden.
 
 
 ## § 4 Typgenehmigung
