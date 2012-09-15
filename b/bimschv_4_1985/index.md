@@ -1,6 +1,6 @@
 ---
-Title: Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Art.
-  1 d. V zur Neufassung und Änderung von Verordnungen zur Durchführung des Bundes-Immissionsschutzgesetzes)
+Title: Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung
+  über genehmigungsbedürftige Anlagen)
 jurabk: BImSchV 4 1985
 layout: default
 origslug: bimschv_4_1985
@@ -8,7 +8,7 @@ slug: bimschv_4_1985
 
 ---
 
-# Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Art. 1 d. V zur Neufassung und Änderung von Verordnungen zur Durchführung des Bundes-Immissionsschutzgesetzes) (BImSchV 4 1985)
+# Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige Anlagen) (BImSchV 4 1985)
 
 Ausfertigungsdatum
 :   1985-07-24
@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 14.3.1997 I 504;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 13 G v. 24.2.2012 I 212
+:   Art. 7 G v. 17.8.2012 I 1726
 
 
 ## § 1 Genehmigungsbedürftige Anlagen
@@ -2575,8 +2575,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   (weggefallen)
 
-    *   oder Schädlingsbekämpfungsmittel oder ihrer Wirkstoffe dienen
-
+    *
 
 *    *   9.11
 
@@ -2855,9 +2854,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   10.2
 
-    *   (weggefallen)
+    *   Anlagen zur Abscheidung von Kohlendioxid aus Anlagen nach Spalte 1 zum
+        Zweck der dauerhaften Speicherung von Kohlendioxid
 
-    *
+    *   –
+
 
 *    *   10.3
 
