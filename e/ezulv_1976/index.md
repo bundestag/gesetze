@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.12.1998 I 3497;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2011 I 2692
+:   Art. 13 G v. 15.8.2012 I 1670
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
