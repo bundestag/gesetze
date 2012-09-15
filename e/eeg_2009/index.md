@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2008, 2074
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 69 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 17.8.2012 I 1754
+
+Mittelbare änderung durch
+:   Art. 5 G v. 17.8.2012 I 1754 ist berücksichtigt
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -154,10 +157,13 @@ Im Sinne dieses Gesetzes ist
 5.  „Inbetriebnahme“ die erstmalige Inbetriebsetzung des Generators der
     Anlage nach Herstellung der technischen Betriebsbereitschaft der
     Anlage, unabhängig davon, ob der Generator mit erneuerbaren Energien,
-    Grubengas oder sonstigen Energieträgern in Betrieb gesetzt wurde; der
-    Austausch des Generators oder sonstiger technischer oder baulicher
-    Teile nach der erstmaligen Inbetriebnahme führt nicht zu einer
-    Änderung des Zeitpunkts der Inbetriebnahme,
+    Grubengas oder sonstigen Energieträgern in Betrieb gesetzt wurde; die
+    technische Betriebsbereitschaft setzt voraus, dass die Anlage fest an
+    dem für den dauerhaften Betrieb vorgesehenen Ort und dauerhaft mit dem
+    für die Erzeugung von Wechselstrom erforderlichen Zubehör installiert
+    wurde; der Austausch des Generators oder sonstiger technischer oder
+    baulicher Teile nach der erstmaligen Inbetriebnahme führt nicht zu
+    einer Änderung des Zeitpunkts der Inbetriebnahme,
 
 
 5a. „KWK-Anlage“ eine KWK-Anlage im Sinne von § 3 Absatz 2 des Kraft-
@@ -179,7 +185,7 @@ Im Sinne dieses Gesetzes ist
     allgemeine Versorgung mit Elektrizität,
 
 
-9.[^F771325_2_BJNR207410008BJNE000403310]
+9.[^F771325_2_BJNR207410008BJNE000404360]
   „Offshore-Anlage“ eine Windenergieanlage, die auf See in einer
     Entfernung von mindestens drei Seemeilen gemessen von der Küstenlinie
     aus seewärts errichtet worden ist. Als Küstenlinie gilt die in der
@@ -216,7 +222,7 @@ Im Sinne dieses Gesetzes ist
 13. „Unternehmen“ die kleinste rechtlich selbständige Einheit,
 
 
-14.[^f1775530_01_BJNR207410008BJNE000403310]
+14.[^f1775530_01_BJNR207410008BJNE000404360]
  „Unternehmen des produzierenden Gewerbes“ jedes Unternehmen, das an
     der zu begünstigenden Abnahmestelle dem Bergbau, der Gewinnung von
     Steinen und Erden oder dem verarbeitenden Gewerbe in entsprechender
@@ -230,9 +236,9 @@ Im Sinne dieses Gesetzes ist
     Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt, Gustav-
     Stresemann-Ring 11, 65189 Wiesbaden; auch zu beziehen über
     www.destatis.de.
-[^f1775530_01_BJNR207410008BJNE000403310]:     Amtlicher Hinweis: Zu beziehen beim Bundesamt für Seeschifffahrt und
+[^f1775530_01_BJNR207410008BJNE000404360]:     Amtlicher Hinweis: Zu beziehen beim Bundesamt für Seeschifffahrt und
     Hydrographie, 20359 Hamburg.
-[^F771325_2_BJNR207410008BJNE000403310]: 
+[^F771325_2_BJNR207410008BJNE000404360]: 
 
 ### § 4 Gesetzliches Schuldverhältnis
 
@@ -686,9 +692,8 @@ Energiewirtschaftsgesetzes.
 Strom aus Anlagen, die ausschließlich erneuerbare Energien oder
 Grubengas einsetzen, mindestens nach Maßgabe der §§ 18 bis 33
 vergüten. Dies gilt nur für Strom, der tatsächlich nach § 8 abgenommen
-oder nach Maßgabe des § 33 Absatz 2 verbraucht worden ist. Auf die zu
-erwartenden Zahlungen sind monatliche Abschläge in angemessenem Umfang
-zu leisten.
+worden ist. Auf die zu erwartenden Zahlungen sind monatliche Abschläge
+in angemessenem Umfang zu leisten.
 
 (2) Die Verpflichtung nach Absatz 1 besteht auch dann, wenn der Strom
 vor der Einspeisung in das Netz zwischengespeichert worden ist. In
@@ -699,9 +704,7 @@ Absatz 1 bei einer Einspeisung des Stroms in das Netz ohne
 Zwischenspeicherung an die Anlagenbetreiberin oder den
 Anlagenbetreiber zahlen müsste. Die Verpflichtung nach Satz 1 besteht
 auch bei einem gemischten Einsatz von erneuerbaren Energien und
-Speichergasen. Satz 1 gilt nicht bei Strom aus solarer
-Strahlungsenergie, wenn für diesen Strom eine Vergütung nach § 33
-Absatz 2 in Anspruch genommen worden ist.
+Speichergasen.
 
 (3) Anlagenbetreiberinnen und Anlagenbetreiber, die den
 Vergütungsanspruch nach Absatz 1 für Strom aus einer Anlage geltend
@@ -735,8 +738,10 @@ Marktwerts nach Nummer 1.1 der Anlage 4 zu diesem Gesetz (
 „MW“             ),
 
 1.  solange Anlagenbetreiberinnen und Anlagenbetreiber von Anlagen zur
-    Erzeugung von Strom aus solarer Strahlungsenergie den Standort und die
-    installierte Leistung der Anlage nicht übermittelt haben an
+    Erzeugung von Strom aus solarer Strahlungsenergie die Anlage nicht als
+    geförderte Anlage im Sinne des § 20a Absatz 5 registriert und den
+    Standort und die installierte Leistung der Anlage nicht übermittelt
+    haben an
 
     a)  die Bundesnetzagentur mittels der von ihr bereitgestellten
         Formularvorgaben oder
@@ -793,7 +798,7 @@ wird, bestimmt sich
     Anlage und
 
 
-2.  bei dem § 33 jeweils anteilig nach der installierten Leistung der
+2.  bei dem § 32 jeweils anteilig nach der installierten Leistung der
     Anlage
 
 
@@ -832,11 +837,29 @@ Vergütung für den jeweils zuletzt in Betrieb gesetzten Generator als
 eine Anlage, wenn sie Strom aus Biogas mit Ausnahme von Biomethan
 erzeugen und das Biogas aus derselben Biogaserzeugungsanlage stammt.
 
+(1a) Unbeschadet von Absatz 1 Satz 1 gelten mehrere Anlagen nach § 32
+Absatz 1 Nummer 2 und 3 unabhängig von den Eigentumsverhältnissen und
+ausschließlich zum Zweck der Ermittlung der Vergütung für den jeweils
+zuletzt in Betrieb gesetzten Generator als eine Anlage, wenn sie
+
+1.  innerhalb derselben Gemeinde errichtet worden sind und
+
+
+2.  innerhalb von 24 aufeinanderfolgenden Kalendermonaten in einem Abstand
+    von bis zu 2 Kilometern in der Luftlinie, gemessen vom äußeren Rand
+    der jeweiligen Anlage, in Betrieb genommen worden sind.
+
+
+
+
 (2) Anlagenbetreiberinnen und -betreiber können Strom aus mehreren
 Generatoren, die gleichartige Erneuerbare Energien oder Grubengas
 einsetzen, über eine gemeinsame Messeinrichtung abrechnen. In diesem
 Fall ist für die Berechnung der Vergütungen vorbehaltlich des Absatzes
-1 die Bemessungsleistung jeder einzelnen Anlage maßgeblich.
+1 die Bemessungsleistung jeder einzelnen Anlage maßgeblich; bei
+Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie ist
+abweichend von dem ersten Halbsatz die installierte Leistung jeder
+einzelnen Anlage maßgeblich.
 
 (3) Wenn Strom aus mehreren Windenergieanlagen, für die sich
 unterschiedliche Vergütungshöhen errechnen, über eine gemeinsame
@@ -883,7 +906,7 @@ für Strom aus
     a)  aus Offshore-Anlagen (§ 31) ab dem Jahr 2018: um 7,0 Prozent und
 
 
-    b)  aus sonstigen Anlagen (§ 29) ab dem Jahr 2013: um 1,5 Prozent.
+    b)  aus sonstigen Anlagen (§§ 29 und 30) ab dem Jahr 2013: um 1,5 Prozent.
 
 
 
@@ -898,100 +921,318 @@ darauffolgenden Kalenderjahres sind die ungerundeten Werte des
 Vorjahres zugrunde zu legen.
 
 
-#### § 20a Absenkung der Vergütung von Strom aus solarer Strahlungsenergie
+#### § 20a Zubaukorridor für geförderte Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie, Veröffentlichung des Zubaus
 
-(1) Die Vergütungen nach den §§ 32 und 33 verringern sich für Strom
-aus Anlagen, die nach dem 31. Dezember 2011 in Betrieb genommen
-werden, nach Maßgabe der Absätze 2 bis 7.
+(1) Der Korridor für den weiteren Zubau von geförderten Anlagen zur
+Erzeugung von Strom aus solarer Strahlungsenergie (Zubaukorridor)
+beträgt 2 500 bis 3 500 Megawatt pro Kalenderjahr.
 
-(2) Die Vergütungen nach den §§ 32 und 33 verringern sich
-vorbehaltlich der Absätze 3 und 4 ab dem Jahr 2012 jährlich zum 1.
-Januar um 9,0 Prozent gegenüber den jeweils am 1. Januar des Vorjahres
-geltenden Vergütungssätzen.
+(2) Die Bundesnetzagentur veröffentlicht auf ihrer Internetseite in
+nicht personenbezogener Form bis zum 31. August 2012 und danach
+monatlich bis zum letzten Tag jedes Kalendermonats
 
-(3) Der Prozentsatz nach Absatz 2 erhöht sich ab dem Jahr 2012, sobald
-die installierte Leistung der zum 30. September des jeweiligen
-Vorjahres innerhalb der vorangegangenen zwölf Monate nach § 17 Absatz
-2 Nummer 1 registrierten Anlagen
-
-1.  3 500 Megawatt überschreitet, um 3,0 Prozentpunkte,
+1.  die im jeweils vorangegangenen Kalendermonat nach § 17 Absatz 2 Nummer
+    1 Buchstabe a oder b registrierten Anlagen einschließlich der Summe
+    der neu installierten Leistung geförderter Anlagen zur Erzeugung von
+    Strom aus solarer Strahlungsenergie und
 
 
-2.  4 500 Megawatt überschreitet, um 6,0 Prozentpunkte,
+2.  die Summe der installierten Leistung aller geförderten Anlagen zur
+    Erzeugung von Strom aus solarer Strahlungsenergie, die am letzten Tag
+    des jeweils vorangegangenen Kalendermonats im Geltungsbereich dieses
+    Gesetzes installiert waren; für die Zwecke dieser Veröffentlichung
+    gelten als geförderte Anlagen auch
+
+    a)  die Anlagen, für die der Standort und die installierte Leistung nach §
+        16 Absatz 2 Satz 2 des Erneuerbare-Energien-Gesetzes in der am 31.
+        Dezember 2011 geltenden Fassung oder nach § 17 Absatz 2 Nummer 1
+        Buchstabe a des Erneuerbare-Energien-Gesetzes in der am 31. März 2012
+        geltenden Fassung an die Bundesnetzagentur übermittelt worden sind,
+        und
 
 
-3.  5 500 Megawatt überschreitet, um 9,0 Prozentpunkte,
-
-
-4.  6 500 Megawatt überschreitet, um 12,0 Prozentpunkte oder
-
-
-5.  7 500 Megawatt überschreitet, um 15,0 Prozentpunkte.
-
-
-
-
-(4) Der Prozentsatz nach Absatz 2 verringert sich ab dem Jahr 2012,
-sobald die installierte Leistung der zum 30. September des jeweiligen
-Vorjahres innerhalb der vorangegangenen zwölf Monate nach § 17 Absatz
-2 Nummer 1 registrierten Anlagen
-
-1.  2 500 Megawatt unterschreitet, um 2,5 Prozentpunkte,
-
-
-2.  2 000 Megawatt unterschreitet, um 5,0 Prozentpunkte oder
-
-
-3.  1 500 Megawatt unterschreitet, um 7,5 Prozentpunkte.
+    b)  die Anlagen, die vor dem 1. Januar 2009 in Betrieb genommen worden
+        sind; die Summe dieser Anlagen ist von der Bundesnetzagentur auf
+        Grundlage der Daten des Statistischen Bundesamtes und der
+        Übertragungsnetzbetreiber zu schätzen.
 
 
 
 
-(5) Die Vergütungen nach den §§ 32 und 33 verringern sich ab dem Jahr
-2012 gegenüber den jeweils am 1. Januar geltenden Vergütungssätzen
-zusätzlich für Strom aus Anlagen, die nach dem 30. Juni des jeweiligen
-Jahres und vor dem 1. Januar des Folgejahres in Betrieb genommen
-werden, wenn die installierte Leistung der nach dem 30. September des
-Vorjahres und vor dem 1. Mai des jeweiligen Jahres nach § 17 Absatz 2
-Nummer 1 registrierten Anlagen mit dem Wert 12 multipliziert und durch
-den Wert 7 geteilt
-
-1.  3 500 Megawatt überschreitet, um 3,0 Prozent,
-
-
-2.  4 500 Megawatt überschreitet, um 6,0 Prozent,
-
-
-3.  5 500 Megawatt überschreitet, um 9,0 Prozent,
-
-
-4.  6 500 Megawatt überschreitet, um 12,0 Prozent oder
-
-
-5.  7 500 Megawatt überschreitet, um 15,0 Prozent.
 
 
 
+(3) Die Bundesnetzagentur veröffentlicht ferner auf ihrer
+Internetseite in nicht personenbezogener Form bis zum
 
-(6) Die Bundesnetzagentur veröffentlicht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit sowie
-dem Bundesministerium für Wirtschaft und Technologie im Bundesanzeiger
-
-1.  jeweils zum 31. Oktober die nach den Absätzen 3 und 4 in Verbindung
-    mit Absatz 2 für das Folgejahr geltenden Prozentsätze und die daraus
-    resultierenden Vergütungen, die jeweils ab dem 1. Januar des
-    Folgejahres gelten,
+1.  31. Oktober 2012 die Summe der installierten Leistung geförderter
+    Anlagen, die nach dem 30. Juni 2012 und vor dem 1. Oktober 2012 nach §
+    17 Absatz 2 Nummer 1 registriert worden sind,
 
 
-2.  jeweils zum 30. Mai den nach Absatz 5 ermittelten Prozentsatz und die
-    daraus resultierenden Vergütungen, die ab dem 1. Juli des jeweiligen
-    Jahres gelten.
+2.  31. Januar 2013 die Summe der installierten Leistung geförderter
+    Anlagen, die nach dem 30. Juni 2012 und vor dem 1. Januar 2013 nach §
+    17 Absatz 2 Nummer 1 registriert worden sind,
+
+
+3.  30. April 2013 die Summe der installierten Leistung geförderter
+    Anlagen, die nach dem 30. Juni 2012 und vor dem 1. April 2013 nach §
+    17 Absatz 2 Nummer 1 registriert worden sind,
+
+
+4.  31. Juli 2013 und danach jeweils bis zum 31. Oktober, 31. Januar, 30.
+    April und 31. Juli jedes Jahres die Summe der installierten Leistung
+    geförderter Anlagen, die innerhalb der jeweils vorangegangenen zwölf
+    Kalendermonate nach § 17 Absatz 2 Nummer 1 registriert worden sind.
 
 
 
 
-(7) § 20 Absatz 1 Satz 3 und Absatz 3 gilt für die Absätze 1 bis 5
+(4) Die Veröffentlichungen nach den Absätzen 2 und 3 erfolgen im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+Reaktorsicherheit sowie dem Bundesministerium für Wirtschaft und
+Technologie. Das Einvernehmen der in Satz 1 genannten Ministerien gilt
+jeweils als erteilt, wenn es von dem betreffenden Ministerium nicht
+binnen einer Kalenderwoche nach Eingang des Ersuchens der
+Bundesnetzagentur verweigert wird.
+
+(5) Geförderte Anlagen sind alle Anlagen zur Erzeugung von Strom aus
+solarer Strahlungsenergie, deren Anlagenbetreiberinnen und
+Anlagenbetreiber bei der Registrierung nach § 17 Absatz 2 Nummer 1
+übermittelt haben, dass sie für den in der Anlage erzeugten Strom ganz
+oder teilweise die Vergütung nach § 16 in Anspruch nehmen oder den
+Strom nach § 33b Nummer 1 oder 2 direkt vermarkten wollen. Bei Anlagen
+mit einer installierten Leistung von mehr als 10 Megawatt gilt nur der
+Anteil bis einschließlich 10 Megawatt als geförderte Anlage; § 19
+Absatz 1 und 1a ist entsprechend anzuwenden.
+
+
+#### § 20b Absenkung der Vergütung für Strom aus solarer Strahlungsenergie
+
+(1) Die Vergütungen nach § 32 verringern sich ab dem 1. Mai 2012
+monatlich zum ersten Kalendertag eines Monats um 1,0 Prozent gegenüber
+den in dem jeweils vorangegangenen Kalendermonat geltenden
+Vergütungssätzen.
+
+(2) Die monatliche Absenkung nach Absatz 1 erhöht sich jeweils zum 1.
+November 2012, 1. Dezember 2012 und 1. Januar 2013, wenn die nach §
+20a Absatz 3 Nummer 1 veröffentlichte Summe der installierten Leistung
+geförderter Anlagen, multipliziert mit dem Faktor 4, den jährlichen
+Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 1 000 Megawatt überschreitet, um 0,4 Prozentpunkte,
+
+
+2.  um mehr als 1 000 Megawatt überschreitet, um 0,8 Prozentpunkte,
+
+
+3.  um mehr als 2 000 Megawatt überschreitet, um 1,2 Prozentpunkte,
+
+
+4.  um mehr als 3 000 Megawatt überschreitet, um 1,5 Prozentpunkte,
+
+
+5.  um mehr als 4 000 Megawatt überschreitet, um 1,8 Prozentpunkte.
+
+
+
+
+(3) Wenn die nach § 20a Absatz 3 Nummer 1 veröffentlichte Summe der
+installierten Leistung geförderter Anlagen, multipliziert mit dem
+Faktor 4, den jährlichen Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 500 Megawatt unterschreitet, verringert sich die monatliche
+    Absenkung nach Absatz 1 jeweils zum 1. November 2012, 1. Dezember 2012
+    und 1. Januar 2013 auf 0,75 Prozent,
+
+
+2.  um bis zu 1 000 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. November 2012, 1.
+    Dezember 2012 und 1. Januar 2013 auf 0,5 Prozent,
+
+
+3.  um bis zu 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. November 2012, 1.
+    Dezember 2012 und 1. Januar 2013 auf Null,
+
+
+4.  um mehr als 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. November 2012, 1.
+    Dezember 2012 und 1. Januar 2013 auf Null, und die Vergütungen nach §
+    32 erhöhen sich einmalig um 1,5 Prozent zum 1. November 2012.
+
+
+
+
+(4) Die monatliche Absenkung nach Absatz 1 erhöht sich jeweils zum 1.
+Februar 2013, 1. März 2013 und 1. April 2013, wenn die nach § 20a
+Absatz 3 Nummer 2 veröffentlichte Summe der installierten Leistung
+geförderter Anlagen, multipliziert mit dem Faktor 2, den jährlichen
+Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 1 000 Megawatt überschreitet, um 0,4 Prozentpunkte,
+
+
+2.  um mehr als 1 000 Megawatt überschreitet, um 0,8 Prozentpunkte,
+
+
+3.  um mehr als 2 000 Megawatt überschreitet, um 1,2 Prozentpunkte,
+
+
+4.  um mehr als 3 000 Megawatt überschreitet, um 1,5 Prozentpunkte,
+
+
+5.  um mehr als 4 000 Megawatt überschreitet, um 1,8 Prozentpunkte.
+
+
+
+
+(5) Wenn die nach § 20a Absatz 3 Nummer 2 veröffentlichte Summe der
+installierten Leistung geförderter Anlagen, multipliziert mit dem
+Faktor 2, den jährlichen Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 500 Megawatt unterschreitet, verringert sich die monatliche
+    Absenkung nach Absatz 1 jeweils zum 1. Februar 2013, 1. März 2013 und
+    1\. April 2013 auf 0,75 Prozent,
+
+
+2.  um bis zu 1 000 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. Februar 2013, 1.
+    März 2013 und 1. April 2013 auf 0,5 Prozent,
+
+
+3.  um bis zu 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. Februar 2013, 1.
+    März 2013 und 1. April 2013 auf Null,
+
+
+4.  um mehr als 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. Februar 2013, 1.
+    März 2013 und 1. April 2013 auf Null, und die Vergütungen nach § 32
+    erhöhen sich einmalig um 1,5 Prozent zum 1. Februar 2013.
+
+
+
+
+(6) Die monatliche Absenkung nach Absatz 1 erhöht sich jeweils zum 1.
+Mai 2013, 1. Juni 2013 und 1. Juli 2013, wenn die nach § 20a Absatz 3
+Nummer 3 veröffentlichte Summe der installierten Leistung geförderter
+Anlagen, dividiert durch den Wert 3 und multipliziert mit dem Faktor
+4, den jährlichen Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 1 000 Megawatt überschreitet, um 0,4 Prozentpunkte,
+
+
+2.  um mehr als 1 000 Megawatt überschreitet, um 0,8 Prozentpunkte,
+
+
+3.  um mehr als 2 000 Megawatt überschreitet, um 1,2 Prozentpunkte,
+
+
+4.  um mehr als 3 000 Megawatt überschreitet, um 1,5 Prozentpunkte,
+
+
+5.  um mehr als 4 000 Megawatt überschreitet, um 1,8 Prozentpunkte.
+
+
+
+
+(7) Wenn die nach § 20a Absatz 3 Nummer 3 veröffentlichte Summe der
+installierten Leistung geförderter Anlagen, dividiert durch den Wert 3
+und multipliziert mit dem Faktor 4, den jährlichen Zubaukorridor nach
+§ 20a Absatz 1
+
+1.  um bis zu 500 Megawatt unterschreitet, verringert sich die monatliche
+    Absenkung nach Absatz 1 jeweils zum 1. Mai 2013, 1. Juni 2013 und 1.
+    Juli 2013 auf 0,75 Prozent,
+
+
+2.  um bis zu 1 000 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. Mai 2013, 1. Juni
+    2013 und 1. Juli 2013 auf 0,5 Prozent,
+
+
+3.  um bis zu 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. Mai 2013, 1. Juni
+    2013 und 1. Juli 2013 auf Null,
+
+
+4.  um mehr als 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 jeweils zum 1. Mai 2013, 1. Juni
+    2013 und 1. Juli 2013 auf Null, und die Vergütungen nach § 32 erhöhen
+    sich einmalig um 1,5 Prozent zum 1. Mai 2013.
+
+
+
+
+(8) Die monatliche Absenkung nach Absatz 1 erhöht sich ab dem 1.
+August 2013 für die jeweils auf eine vorangegangene Veröffentlichung
+nach § 20a Absatz 3 Nummer 4 folgenden drei Kalendermonate, wenn die
+veröffentlichte Summe der installierten Leistung geförderter Anlagen
+den jährlichen Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 1 000 Megawatt überschreitet, um 0,4 Prozentpunkte,
+
+
+2.  um mehr als 1 000 Megawatt überschreitet, um 0,8 Prozentpunkte,
+
+
+3.  um mehr als 2 000 Megawatt überschreitet, um 1,2 Prozentpunkte,
+
+
+4.  um mehr als 3 000 Megawatt überschreitet, um 1,5 Prozentpunkte,
+
+
+5.  um mehr als 4 000 Megawatt überschreitet, um 1,8 Prozentpunkte.
+
+
+
+
+(9) Wenn eine nach § 20a Absatz 3 Nummer 4 veröffentlichte Summe der
+installierten Leistung geförderter Anlagen den jährlichen
+Zubaukorridor nach § 20a Absatz 1
+
+1.  um bis zu 500 Megawatt unterschreitet, verringert sich die monatliche
+    Absenkung nach Absatz 1 für die jeweils auf die vorangegangene
+    Veröffentlichung folgenden drei Kalendermonate auf 0,75 Prozent,
+
+
+2.  um bis zu 1 000 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 für die jeweils auf die
+    vorangegangene Veröffentlichung folgenden drei Kalendermonate auf 0,5
+    Prozent,
+
+
+3.  um bis zu 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 für die jeweils auf die
+    vorangegangene Veröffentlichung folgenden drei Kalendermonate auf
+    Null,
+
+
+4.  um mehr als 1 500 Megawatt unterschreitet, verringert sich die
+    monatliche Absenkung nach Absatz 1 für die jeweils auf die
+    vorangegangene Veröffentlichung folgenden drei Kalendermonate auf
+    Null, und die Vergütungen nach § 32 erhöhen sich einmalig um 1,5
+    Prozent zum ersten Kalendertag des auf die vorangegangene
+    Veröffentlichung folgenden Kalendermonats.
+
+
+
+
+(9a) Wenn die nach § 20a Absatz 2 Nummer 2 veröffentlichte Summe der
+installierten Leistung aller geförderten Anlagen zur Erzeugung von
+Strom aus solarer Strahlungsenergie im Geltungsbereich dieses Gesetzes
+erstmals den Wert 52 000 Megawatt überschreitet, verringern sich die
+Vergütungen nach § 32 abweichend von den Absätzen 1 bis 9 zum ersten
+Kalendertag des auf die Veröffentlichung folgenden Monats auf Null.
+
+(10) Die Bundesnetzagentur veröffentlicht im Bundesanzeiger bis zu den
+in § 20a Absatz 3 festgelegten Zeitpunkten die Vergütungssätze nach §
+32, die sich jeweils aus den Absätzen 1 bis 9a für die folgenden drei
+Kalendermonate ergeben. § 20a Absatz 4 gilt für diese Veröffentlichung
 entsprechend.
+
+(11) § 20 Absatz 1 Satz 3 und Absatz 3 ist entsprechend anzuwenden.
 
 
 #### § 21 Vergütungsbeginn und -dauer
@@ -999,8 +1240,7 @@ entsprechend.
 (1) Die Vergütungen sind ab dem Zeitpunkt zu zahlen, ab dem der
 Generator erstmals Strom ausschließlich aus erneuerbaren Energien oder
 Grubengas erzeugt und in das Netz nach § 8 Absatz 1 oder 2 eingespeist
-hat oder der Strom erstmals nach Maßgabe des § 33 Absatz 2 verbraucht
-worden ist.
+hat.
 
 (2) Die Vergütungen sind jeweils für die Dauer von 20 Kalenderjahren
 zuzüglich des Inbetriebnahmejahres zu zahlen. Beginn der Frist nach
@@ -1318,14 +1558,15 @@ wird und dass keine anderen Stoffe eingesetzt werden, und für Strom
 
 
 
-(6) Bei erstmaliger Inanspruchnahme des Vergütungsanspruchs nach § 16
-und danach jährlich bis zum 28. Februar eines Jahres jeweils für das
-vorangegangene Kalenderjahr sind nachzuweisen
+(6) Bei Inanspruchnahme des Vergütungsanspruchs nach § 16 sind ab dem
+ersten Kalenderjahr, das auf die erstmalige Inanspruchnahme des
+Vergütungsanspruchs nach § 16 oder die erstmalige Direktvermarktung
+nach § 33b Nummer 1 oder 2 folgt, jährlich bis zum 28. Februar eines
+Jahres jeweils für das vorangegangene Kalenderjahr nachzuweisen
 
-1.  die Erfüllung der Voraussetzungen nach Absatz 2 jeweils für das
-    vorangegangene Kalenderjahr durch Gutachten einer Umweltgutachterin
-    oder eines Umweltgutachters mit einer Zulassung für den Bereich
-    Elektrizitätserzeugung aus erneuerbaren Energien,
+1.  die Erfüllung der Voraussetzungen nach Absatz 2 durch Gutachten einer
+    Umweltgutachterin oder eines Umweltgutachters mit einer Zulassung für
+    den Bereich Elektrizitätserzeugung aus erneuerbaren Energien,
 
 
 2.  die Erfüllung der Voraussetzungen nach Absatz 4 Nummer 1 nach Maßgabe
@@ -1339,9 +1580,8 @@ vorangegangene Kalenderjahr sind nachzuweisen
 
 
 4.  die Erfüllung der Voraussetzungen nach Absatz 5 Nummer 1 und der
-    Stromanteil aus flüssiger Biomasse nach Absatz 5 Nummer 3 jeweils für
-    das vorangegangene Kalenderjahr durch Vorlage einer Kopie eines
-    Einsatzstoff-Tagebuchs,
+    Stromanteil aus flüssiger Biomasse nach Absatz 5 Nummer 3 durch
+    Vorlage einer Kopie eines Einsatzstoff-Tagebuchs,
 
 
 5.  die Erfüllung der Voraussetzungen nach Absatz 5 Nummer 2 nach Maßgabe
@@ -1349,6 +1589,16 @@ vorangegangene Kalenderjahr sind nachzuweisen
 
 
 
+Bei der erstmaligen Inanspruchnahme des Vergütungsanspruchs nach § 16
+ist ferner die Eignung der Anlage zur Erfüllung der Voraussetzungen im
+Sinne von Satz 1 Nummer 2, 3 und 5 durch ein Gutachten einer
+Umweltgutachterin oder eines Umweltgutachters mit einer Zulassung für
+den Bereich Elektrizitätserzeugung aus erneuerbaren Energien
+nachzuweisen; die Eignung zur Erfüllung der Voraussetzungen im Sinne
+von Satz 1 Nummer 2 und 5 kann abweichend von dem ersten Halbsatz auch
+durch ein Gutachten einer Umweltgutachterin oder eines
+Umweltgutachters mit einer Zulassung für den Bereich Wärmeversorgung
+nachgewiesen werden.
 
 (7) Der Vergütungsanspruch nach den Absätzen 1 und 2 verringert sich
 in dem jeweiligen Kalenderjahr insgesamt auf den tatsächlichen
@@ -1409,14 +1659,17 @@ nicht mit einer Vergütung nach § 27 kombiniert werden.
 
 
 2.  § 27 Absatz 5 Nummer 2 und 3 einschließlich der Nachweisregelungen
-    nach Absatz 6 Nummer 4 und 5,
+    nach Absatz 6 Satz 1 Nummer 4 und 5,
 
 
 3.  § 27 Absatz 7 Satz 1 hinsichtlich der Rechtsfolgen bei nicht
-    nachgewiesener Einhaltung der Vergütungsvoraussetzungen des § 27a und
+    nachgewiesener Einhaltung der Vergütungsvoraussetzungen des § 27a,
 
 
-4.  § 27 Absatz 8.
+4.  § 27 Absatz 8 und
+
+
+5.  § 27 Absatz 1 Satz 2.
 
 
 
@@ -1454,14 +1707,17 @@ ist, beträgt die Vergütung 25,0 Cent pro Kilowattstunde, wenn
 
 
 2.  § 27 Absatz 5 Nummer 3 einschließlich der Nachweisregelung nach Absatz
-    6 Nummer 4,
+    6 Satz 1 Nummer 4,
 
 
 3.  § 27 Absatz 7 Satz 1 hinsichtlich der Rechtsfolgen bei nicht
-    nachgewiesener Einhaltung der Vergütungsvoraussetzungen des § 27b und
+    nachgewiesener Einhaltung der Vergütungsvoraussetzungen des § 27b,
 
 
-4.  § 27 Absatz 8.
+4.  § 27 Absatz 8 und
+
+
+5.  § 27 Absatz 1 Satz 2.
 
 
 
@@ -1611,20 +1867,23 @@ oder als Europäische Vogelschutzgebiete benannt hat.
 #### § 32 Solare Strahlungsenergie
 
 (1) Für Strom aus Anlagen zur Erzeugung von Strom aus solarer
-Strahlungsenergie beträgt die Vergütung 21,11 Cent pro Kilowattstunde
-abzüglich der Verringerung nach § 20a, wenn die Anlage
+Strahlungsenergie beträgt die Vergütung vorbehaltlich der Absätze 2
+und 3 bis einschließlich einer installierten Leistung von 10 Megawatt
+13,50 Cent pro Kilowattstunde abzüglich der Verringerung nach § 20b,
+wenn die Anlage
 
-1.  an oder auf einer baulichen Anlage angebracht ist, die vorrangig zu
-    anderen Zwecken als der Erzeugung von Strom aus solarer
+1.  in, an oder auf einem Gebäude oder einer sonstigen baulichen Anlage
+    angebracht ist und das Gebäude oder die sonstige bauliche Anlage
+    vorrangig zu anderen Zwecken als der Erzeugung von Strom aus solarer
     Strahlungsenergie errichtet worden ist,
 
 
 2.  auf einer Fläche errichtet worden ist, für die ein Verfahren nach § 38
-    Satz 1 des Baugesetzbuches durchgeführt worden ist, oder
+    Satz 1 des Baugesetzbuchs durchgeführt worden ist, oder
 
 
 3.  im Bereich eines beschlossenen Bebauungsplans im Sinne des § 30 des
-    Baugesetzbuches errichtet worden ist und
+    Baugesetzbuchs errichtet worden ist und
 
     a)  der Bebauungsplan vor dem 1. September 2003 aufgestellt und später
         nicht mit dem Zweck geändert worden ist, eine Anlage zur Erzeugung von
@@ -1635,16 +1894,31 @@ abzüglich der Verringerung nach § 20a, wenn die Anlage
         Anlage errichtet worden ist, ein Gewerbe- oder Industriegebiet im
         Sinne der §§ 8 und 9 der Baunutzungsverordnung ausgewiesen hat, auch
         wenn die Festsetzung nach dem 1. Januar 2010 zumindest auch mit dem
-        Zweck geändert worden ist, eine Anlage zur Erzeugung von Strom aus
-        solarer Strahlungsenergie zu errichten, oder
+        Zweck geändert wurde, eine Anlage zur Erzeugung von Strom aus solarer
+        Strahlungsenergie zu errichten, oder
 
 
     c)  der Bebauungsplan nach dem 1. September 2003 zumindest auch mit dem
         Zweck der Errichtung einer Anlage zur Erzeugung von Strom aus solarer
-        Strahlungsenergie aufgestellt worden ist und sich die Anlage auf
-        Flächen befindet, die längs von Autobahnen oder Schienenwegen liegen,
-        und sie in einer Entfernung bis zu 110 Metern, gemessen vom äußeren
-        Rand der befestigten Fahrbahn, errichtet worden ist.
+        Strahlungsenergie aufgestellt worden ist und sich die Anlage
+
+        aa) auf Flächen befindet, die längs von Autobahnen oder Schienenwegen
+            liegen, und sie in einer Entfernung bis zu 110 Metern, gemessen vom
+            äußeren Rand der befestigten Fahrbahn, errichtet worden ist,
+
+
+        bb) auf Flächen befindet, die zum Zeitpunkt des Beschlusses über die
+            Aufstellung oder Änderung des Bebauungsplans bereits versiegelt waren,
+            oder
+
+
+        cc) auf Konversionsflächen aus wirtschaftlicher, verkehrlicher,
+            wohnungsbaulicher oder militärischer Nutzung befindet und diese
+            Flächen zum Zeitpunkt des Beschlusses über die Aufstellung oder
+            Änderung des Bebauungsplans nicht rechtsverbindlich als
+            Naturschutzgebiet im Sinne des § 23 des Bundesnaturschutzgesetzes oder
+            als Nationalpark im Sinne des § 24 des Bundesnaturschutzgesetzes
+            festgesetzt worden sind.
 
 
 
@@ -1652,101 +1926,149 @@ abzüglich der Verringerung nach § 20a, wenn die Anlage
 
 
 
-(2) Abweichend von Absatz 1 beträgt die Vergütung 22,07 Cent pro
-Kilowattstunde abzüglich der Verringerung nach § 20a, wenn die Anlage
-im Bereich eines beschlossenen Bebauungsplans im Sinne des § 30 des
-Baugesetzbuches errichtet worden ist, der nach dem 1. September 2003
-zumindest auch mit dem Zweck der Errichtung einer Anlage zur Erzeugung
-von Strom aus solarer Strahlungsenergie aufgestellt worden ist, und
-sich die Anlage
-
-1.  auf Flächen befindet, die zum Zeitpunkt des Beschlusses über die
-    Aufstellung oder Änderung des Bebauungsplans bereits versiegelt waren,
-    oder
-
-
-2.  auf Konversionsflächen aus wirtschaftlicher, verkehrlicher,
-    wohnungsbaulicher oder militärischer Nutzung befindet und diese
-    Flächen zum Zeitpunkt des Beschlusses über die Aufstellung oder
-    Änderung des Bebauungsplans nicht
-
-    a)  als Naturschutzgebiet im Sinne des § 23 des Bundesnaturschutzgesetzes
-        oder
-
-
-    b)  als Nationalpark im Sinne des § 24 des Bundesnaturschutzgesetzes
 
 
 
-    rechtsverbindlich festgesetzt worden sind.
+(2) Für Strom aus Anlagen zur Erzeugung von Strom aus solarer
+Strahlungsenergie, die ausschließlich in, an oder auf einem Gebäude
+oder einer Lärmschutzwand angebracht sind, beträgt die Vergütung,
+jeweils abzüglich der Verringerung nach § 20b,
+
+1.  bis einschließlich einer installierten Leistung von 10 Kilowatt 19,50
+    Cent pro Kilowattstunde,
+
+
+2.  bis einschließlich einer installierten Leistung von 40 Kilowatt 18,50
+    Cent pro Kilowattstunde,
+
+
+3.  bis einschließlich einer installierten Leistung von 1 Megawatt 16,50
+    Cent pro Kilowattstunde und
+
+
+4.  bis einschließlich einer installierten Leistung von 10 Megawatt 13,50
+    Cent pro Kilowattstunde.
 
 
 
 
-(3) Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie, die
+(3) Für Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie,
+die ausschließlich in, an oder auf einem Gebäude angebracht sind, das
+kein Wohngebäude ist und das im Außenbereich nach § 35 des
+Baugesetzbuchs errichtet wurde, gilt Absatz 2 nur, wenn
+
+1.  nachweislich vor dem 1. April 2012
+
+    a)  für das Gebäude der Bauantrag oder der Antrag auf Zustimmung gestellt
+        oder die Bauanzeige erstattet worden ist,
+
+
+    b)  im Fall einer nicht genehmigungsbedürftigen Errichtung, die nach
+        Maßgabe des Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu
+        bringen ist, für das Gebäude die erforderliche Kenntnisgabe an die
+        Behörde erfolgt ist oder
+
+
+    c)  im Fall einer sonstigen nicht genehmigungsbedürftigen, insbesondere
+        genehmigungs-, anzeige- und verfahrensfreien Errichtung mit der
+        Bauausführung des Gebäudes begonnen worden ist,
+
+
+
+
+
+2.  das Gebäude im räumlich-funktionalen Zusammenhang mit einer nach dem
+    31\. März 2012 errichteten Hofstelle eines land- oder
+    forstwirtschaftlichen Betriebes steht oder
+
+
+3.  das Gebäude der dauerhaften Stallhaltung von Tieren dient und von der
+    zuständigen Baubehörde genehmigt worden ist;
+
+
+
+im Übrigen ist Absatz 1 Nummer 1 anzuwenden.
+
+(4) Gebäude sind selbstständig benutzbare, überdeckte bauliche
+Anlagen, die von Menschen betreten werden können und vorrangig dazu
+bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.
+Wohngebäude sind Gebäude, die nach ihrer Zweckbestimmung überwiegend
+dem Wohnen dienen, einschließlich Wohn-, Alten- und Pflegeheimen sowie
+ähnlichen Einrichtungen.
+
+(5) Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie, die
 Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie auf
 Grund eines technischen Defekts, einer Beschädigung oder eines
-Diebstahls am selben Standort ersetzen, gelten abweichend von § 3
-Nummer 5 als zu dem Zeitpunkt in Betrieb genommen, zu dem die
+Diebstahls an demselben Standort ersetzen, gelten abweichend von § 3
+Nummer 5 bis zur Höhe der vor der Ersetzung an demselben Standort
+installierten Leistung von Anlagen zur Erzeugung von Strom aus solarer
+Strahlungsenergie als zu dem Zeitpunkt in Betrieb genommen, zu dem die
 ersetzten Anlagen in Betrieb genommen worden sind. Der
 Vergütungsanspruch für die nach Satz 1 ersetzten Anlagen entfällt
 endgültig.
 
 
-#### § 33 Solare Strahlungsenergie in, an oder auf Gebäuden
+#### § 33 Marktintegrationsmodell für Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
 
-(1) Für Strom aus Anlagen zur Erzeugung von Strom aus solarer
-Strahlungsenergie, die ausschließlich in, an oder auf einem Gebäude
-oder einer Lärmschutzwand angebracht sind, beträgt die Vergütung
+(1) Die Vergütung nach § 32 Absatz 2, auch in Verbindung mit Absatz 3,
+ist für Strom aus Anlagen ab einer installierten Leistung von mehr als
+10 Kilowatt bis einschließlich einer installierten Leistung von 1
+Megawatt in jedem Kalenderjahr begrenzt auf 90 Prozent der insgesamt
+in diesem Kalenderjahr in der Anlage erzeugten Strommenge. Soweit die
+nach Satz 1 nicht vergütungsfähige Strommenge nicht in der Form des §
+33b Nummer 3 direkt vermarktet wird, besteht der Anspruch auf
+Vergütung nach § 32 Absatz 2, auch in Verbindung mit Absatz 3, nur für
+die in dem Kalenderjahr jeweils zuerst eingespeiste Strommenge. Die
+Begrenzung nach Satz 1 ist im gesamten Kalenderjahr bei den
+monatlichen Abschlägen nach § 16 Absatz 1 Satz 3 zu berücksichtigen.
 
-1.  bis einschließlich einer installierten Leistung von 30 Kilowatt 28,74
-    Cent pro Kilowattstunde,
+(2) Für den Strom, der über die vergütungsfähige Strommenge nach
+Absatz 1 hinaus in einem Kalenderjahr eingespeist wird, verringert
+sich die Vergütung auf den tatsächlichen Monatsmittelwert des
+Marktwerts für Strom aus solarer Strahlungsenergie nach Nummer 2.4.2
+der Anlage 4 zu diesem Gesetz („
+MW
+Solar             “). Soweit Anlagen nach Absatz 1 nicht mit
+technischen Einrichtungen nach § 6 Absatz 1 Nummer 2 ausgestattet
+sind, verringert sich die Vergütung abweichend von Satz 1 auf den
+tatsächlichen Jahresmittelwert des Marktwerts für Strom aus solarer
+Strahlungsenergie („
+MW
+Solar(a)             “); § 17 Absatz 1 bleibt hiervon unberührt. Sind
+die Werte „
+MW
+Solar             “ oder „
+MW
+Solar(a)             “ kleiner Null, werden sie mit dem Wert Null
+festgesetzt.
 
+(3) Der Wert „
+MW
+Solar(a)             “ ist der Quotient aus der Summe der nach Nummer
+2\.4.2 der Anlage 4 zu diesem Gesetz für die Monate Januar bis Dezember
+eines Kalenderjahres berechneten tatsächlichen Monatsmittelwerte des
+Marktwerts für Strom aus solarer Strahlungsenergie („
+MW
+Solar             “) und dem Wert 12.
 
-2.  bis einschließlich einer installierten Leistung von 100 Kilowatt 27,33
-    Cent pro Kilowattstunde,
+(4) Anlagenbetreiberinnen und Anlagenbetreiber dürfen Strom aus einer
+Anlage zur Erzeugung von Strom aus solarer Strahlungsenergie nur mit
+Strom aus anderen Anlagen über eine gemeinsame Messeinrichtung
+abrechnen, soweit alle Anlagen jeweils derselben Begrenzung der
+vergütungsfähigen Strommenge nach Absatz 1 Satz 1 unterliegen. Bei
+Verstößen gegen Satz 1 verringert sich der Vergütungsanspruch für den
+gesamten Strom, der über die gemeinsame Messeinrichtung abgerechnet
+wird, auf den Wert „
+MW
+Solar(a)             “; dies gilt bis zum Ablauf des ersten
+Kalendermonats, der auf die Beendigung des Verstoßes folgt.
 
-
-3.  bis einschließlich einer installierten Leistung von 1 Megawatt 25,86
-    Cent pro Kilowattstunde und
-
-
-4.  ab einer installierten Leistung von mehr als 1 Megawatt 21,56 Cent pro
-    Kilowattstunde,
-
-
-
-jeweils abzüglich der Verringerung nach § 20a. § 32 Absatz 3 gilt
-entsprechend.
-
-(2) Für Strom aus Anlagen nach Absatz 1 mit einer installierten
-Leistung bis einschließlich 500 Kilowatt besteht ein Anspruch auf
-Vergütung, soweit die Anlagenbetreiberin, der Anlagenbetreiber oder
-Dritte den Strom in unmittelbarer räumlicher Nähe zur Anlage selbst
-verbrauchen, dies nachweisen und der Strom nicht durch ein Netz
-durchgeleitet wird. Für diesen Strom verringert sich die Vergütung
-nach Absatz 1
-
-1.  um 16,38 Cent pro Kilowattstunde für den Anteil dieses Stroms, der 30
-    Prozent der im selben Jahr durch die Anlage erzeugten Strommenge nicht
-    übersteigt, und
-
-
-2.  um 12,00 Cent pro Kilowattstunde für den Anteil dieses Stroms, der 30
-    Prozent der im selben Jahr durch die Anlage erzeugten Strommenge
-    übersteigt.
-
-
-
-Verringert sich die Vergütung nach Satz 2 auf einen Wert kleiner Null,
-entfällt der Vergütungsanspruch nach Satz 1. Die Sätze 1 und 2 gelten
-vorbehaltlich einer Rechtsverordnung auf Grund von § 64f Nummer 2a nur
-für Strom aus Anlagen, die vor dem 1. Januar 2014 in Betrieb genommen
-wurden.
-
-(3) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen,
-die von Menschen betreten werden können und vorrangig dazu bestimmt
-sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.
+(5) Anlagenbetreiberinnen und Anlagenbetreiber müssen die Strommenge,
+die in ihrer Anlage insgesamt in einem Kalenderjahr erzeugt wird,
+gegenüber dem Netzbetreiber bis zum 28. Februar des Folgejahres
+nachweisen; andernfalls gilt die insgesamt in dem jeweiligen
+Kalenderjahr aus der Anlage tatsächlich in das Netz eingespeiste
+Strommenge als erzeugte Strommenge im Sinne von Absatz 1 Satz 1.
 
 
 ## Teil 3a - Direktvermarktung
@@ -1780,7 +2102,7 @@ erfolgen:
 
 
 2.  als Direktvermarktung zum Zweck der Verringerung der EEG-Umlage durch
-    ein Elektrizitätsversorgungsunternehmen nach § 39 oder
+    ein Elektrizitätsversorgungsunternehmen nach § 39 Absatz 1 oder
 
 
 3.  als sonstige Direktvermarktung.
@@ -2085,6 +2407,14 @@ bis 33 verpflichtet.
 der Prämien verpflichtet, die Netzbetreiber nach den §§ 33g und 33i
 gezahlt haben.
 
+(1b) Übertragungsnetzbetreiber sind verpflichtet, Netzbetreibern 50
+Prozent der notwendigen Kosten zu ersetzen, die ihnen durch eine
+effiziente Nachrüstung von Anlagen zur Erzeugung von Strom aus solarer
+Strahlungsenergie entstehen, wenn die Netzbetreiber auf Grund einer
+Verordnung nach § 12 Absatz 3a und § 49 Absatz 4 des
+Energiewirtschaftsgesetzes zu der Nachrüstung verpflichtet sind. § 8
+Absatz 4 ist entsprechend anzuwenden.
+
 (2) Netzbetreiber sind verpflichtet, vermiedene Netzentgelte nach § 18
 der Stromnetzentgeltverordnung, die nach § 18 Absatz 1 Satz 3 Nummer 1
 der Stromnetzentgeltverordnung nicht an Anlagenbetreiberinnen und
@@ -2117,8 +2447,7 @@ die Zahlungspflicht ergibt sich aus einer vertraglichen Vereinbarung.
     vergüteten Strommengen zu speichern,
 
 
-2.  die Zahlungen von Vergütungen nach § 16 einschließlich der Vergütung
-    nach § 33 Absatz 2 zu speichern,
+2.  die Zahlungen von Vergütungen nach § 16 zu speichern,
 
 
 3.  die Zahlungen von Prämien nach den §§ 33g und 33i zu speichern,
@@ -2155,6 +2484,16 @@ als es diesem durchschnittlichen Anteil entspricht, haben gegen die
 anderen Übertragungsnetzbetreiber einen Anspruch auf Abnahme und
 Vergütung nach den §§ 16 bis 33, bis auch diese Netzbetreiber eine
 Strommenge abnehmen, die dem Durchschnittswert entspricht.
+Übertragungsnetzbetreiber, die, bezogen auf die gesamte von
+Elektrizitätsversorgungsunternehmen im Bereich des jeweiligen
+Übertragungsnetzbetreibers im vorangegangenen Kalenderjahr gelieferte
+Strommenge, einen höheren Anteil der Prämien nach § 35 Absatz 1a zu
+vergüten oder einen höheren Anteil der Kosten nach § 35 Absatz 1b zu
+ersetzen haben, als es dem durchschnittlichen Anteil aller
+Übertragungsnetzbetreiber entspricht, haben gegen die anderen
+Übertragungsnetzbetreiber einen Anspruch auf Erstattung der Prämien
+oder Kosten, bis die Prämien- oder Kostenbelastung aller
+Übertragungsnetzbetreiber dem Durchschnittswert entspricht.
 
 
 #### § 37 Vermarktung und EEG-Umlage
@@ -2180,27 +2519,48 @@ Umlage sind monatliche Abschläge in angemessenem Umfang zu entrichten.
 (3) Letztverbraucherinnen und Letztverbraucher stehen
 Elektrizitätsversorgungsunternehmen gleich, wenn sie Strom
 verbrauchen, der nicht von einem Elektrizitätsversorgungsunternehmen
-geliefert wird, sofern dieser
+geliefert wird. Betreibt die Letztverbraucherin oder der
+Letztverbraucher die Stromerzeugungsanlage als Eigenerzeuger und
+verbraucht den erzeugten Strom selbst, so entfällt für diesen Strom
+der Anspruch der Übertragungsnetzbetreiber auf Zahlung der EEG-Umlage
+nach Absatz 2 oder Satz 1, sofern der Strom
 
-1.  von einer dritten Person geliefert wird oder
-
-
-2.  durch ein Netz durchgeleitet wird, es sei denn,
-
-    a)  der Strom wird zur Speicherung in einem elektrischen, chemischen,
-        mechanischen oder physikalischen Speicher aus dem Netz entnommen und
-        zeitlich verzögert wieder in dasselbe Netz eingespeist oder
+1.  nicht durch ein Netz durchgeleitet wird oder
 
 
-    b)  die Letztverbraucherin oder der Letztverbraucher betreibt die
-        Stromerzeugungsanlage als Eigenerzeuger und verbraucht den erzeugten
-        Strom selbst im räumlichen Zusammenhang zu der Stromerzeugungsanlage.
+2.  im räumlichen Zusammenhang zu der Stromerzeugungsanlage verbraucht
+    wird.
 
 
 
 
+(4) Für Strom, der zum Zweck der Zwischenspeicherung an einen
+elektrischen, chemischen, mechanischen oder physikalischen
+Stromspeicher geliefert oder geleitet wird, entfällt der Anspruch der
+Übertragungsnetzbetreiber auf Zahlung der EEG-Umlage nach Absatz 2
+oder 3, wenn dem Stromspeicher Energie ausschließlich zur
+Wiedereinspeisung von Strom in das Netz entnommen wird. Satz 1 gilt
+auch für Strom, der zur Erzeugung von Speichergas eingesetzt wird, das
+in das Erdgasnetz eingespeist wird, wenn das Speichergas unter
+Berücksichtigung der Anforderungen nach § 27c Absatz 1 Nummer 1 und 2
+zur Stromerzeugung eingesetzt und der Strom tatsächlich in das Netz
+eingespeist wird.
 
-
+(5) Elektrizitätsversorgungsunternehmen, die ihrer Pflicht zur Zahlung
+der EEG-Umlage nach Absatz 2 nicht rechtzeitig nachgekommen sind,
+müssen diese Geldschuld nach § 352 Absatz 2 des Handelsgesetzbuchs ab
+Eintritt der Fälligkeit verzinsen. Satz 1 ist entsprechend anzuwenden,
+wenn die Fälligkeit nicht eintreten konnte, weil das
+Elektrizitätsversorgungsunternehmen die von ihm gelieferten
+Strommengen entgegen § 49 nicht oder nicht rechtzeitig dem
+Übertragungsnetzbetreiber gemeldet hat; ausschließlich zum Zweck der
+Verzinsung gilt in diesem Fall die Geldschuld für die Zahlung der EEG-
+Umlage auf die nach § 49 mitzuteilende Strommenge eines Jahres
+spätestens am 1. August des Folgejahres als fällig. Die Sätze 1 und 2
+sind auf Letztverbraucherinnen und Letztverbraucher, die keine
+Verbraucher im Sinne des § 13 des Bürgerlichen Gesetzbuchs sind und
+nach Absatz 3 Satz 1 Elektrizitätsversorgungsunternehmen gleichstehen,
+für die verbrauchten Strommengen entsprechend anzuwenden.
 
 
 #### § 38 Nachträgliche Korrekturen
@@ -2256,7 +2616,13 @@ pro Kilowattstunde, höchstens jedoch in Höhe der EEG-Umlage, wenn
     bei der Berechnung der Anteile nach Halbsatz 1 darf Strom im Sinne der
     §§ 23 bis 33 nur bis zu der Höhe des aggregierten Bedarfs der gesamten
     belieferten Letztverbraucherinnen und Letztverbraucher, bezogen auf
-    jedes 15-Minuten-Intervall, berücksichtigt werden,
+    jedes 15-Minuten-Intervall, berücksichtigt werden; bei der Berechnung
+    der Anteile nach dem ersten Halbsatz darf Strom aus Anlagen zur
+    Erzeugung von Strom aus solarer Strahlungsenergie, die nach dem 31.
+    März 2012 in Betrieb genommen worden sind, ferner nur berücksichtigt
+    werden, soweit die Strommenge, die nach § 33 Absatz 1 dem Grunde nach
+    in dem Kalenderjahr vergütungsfähig ist, nicht überschritten worden
+    ist,
 
 
 2.  die Elektrizitätsversorgungsunternehmen ihrem regelverantwortlichen
@@ -2309,6 +2675,48 @@ Soweit Strom nicht nach Satz 1 angerechnet werden darf, gilt dies bei
 der jeweiligen Strommenge für den gesamten Kalendermonat, in dem die
 Voraussetzungen nach Satz 1 ganz oder teilweise nicht erfüllt sind.
 
+(3) Die EEG-Umlage verringert sich ferner für
+Elektrizitätsversorgungsunternehmen in einem Kalendermonat um 2,0 Cent
+pro Kilowattstunde, höchstens jedoch in Höhe der EEG-Umlage, wenn
+
+1.  der Strom, den sie in diesem Kalendermonat an ihre gesamten
+    Letztverbraucherinnen und Letztverbraucher liefern,
+
+    a)  ausschließlich Strom aus Anlagen zur Erzeugung von Strom aus solarer
+        Strahlungsenergie ist und für diesen Strom dem Grunde nach ein
+        Vergütungsanspruch nach § 16 besteht, der nicht nach § 17 verringert
+        ist; § 33 Absatz 1 ist nicht anzuwenden,
+
+
+    b)  von den Letztverbraucherinnen und Letztverbrauchern in unmittelbarer
+        räumlicher Nähe zur Anlage verbraucht und nicht durch ein Netz
+        durchgeleitet wird und
+
+
+    c)  nach § 33a Absatz 2 an Dritte veräußert und nicht nach § 8 abgenommen
+        worden ist und
+
+
+
+
+
+2.  die Elektrizitätsversorgungsunternehmen ihrem regelverantwortlichen
+    Übertragungsnetzbetreiber die erstmalige Inanspruchnahme der
+    Verringerung der EEG-Umlage vor Beginn des vorangegangenen
+    Kalendermonats übermittelt haben.
+
+
+
+
+(4) Die Übertragungsnetzbetreiber müssen unverzüglich, spätestens
+jedoch ab dem 1. September 2012, bundesweit einheitliche Verfahren für
+die vollständig automatisierte elektronische Übermittlung der Daten
+nach Absatz 1 Nummer 2 oder Absatz 3 Nummer 2 zur Verfügung stellen,
+die den Vorgaben des Bundesdatenschutzgesetzes genügen. Für den
+elektronischen Datenaustausch nach Maßgabe des
+Bundesdatenschutzgesetzes ist ein einheitliches Datenformat
+vorzusehen.
+
 
 ### Abschnitt 2 - Besondere Ausgleichsregelung für stromintensive Unternehmen und Schienenbahnen
 
@@ -2340,7 +2748,7 @@ Begrenzung nur, soweit es nachweist, dass und inwieweit
         betragen hat,
 
 
-    b)[^f1775530_02_BJNR207410008BJNE004201310]
+    b)[^f1775530_02_BJNR207410008BJNE004202360]
   das Verhältnis der von dem Unternehmen zu tragenden Stromkosten zur
         Bruttowertschöpfung des Unternehmens nach der Definition des
         Statistischen Bundesamtes, Fachserie 4, Reihe 4.3, Wiesbaden 2007
@@ -2365,13 +2773,14 @@ Begrenzung nur, soweit es nachweist, dass und inwieweit
 die Stromlieferungsverträge und die Stromrechnungen für das letzte
 abgeschlossene Geschäftsjahr sowie die Bescheinigung einer
 Wirtschaftsprüferin, eines Wirtschaftsprüfers, einer
-Wirtschaftsprüfungsgesellschaft, einer vereidigten Buchprüferin oder
-eines vereidigten Buchprüfers auf Grundlage des Jahresabschlusses für
-das letzte abgeschlossene Geschäftsjahr nachzuweisen. Für die
-Bescheinigungen nach Satz 1 gelten § 319 Absatz 2 bis 4, § 319b Absatz
-1, § 320 Absatz 2 und § 323 des Handelsgesetzbuches entsprechend. Die
-Voraussetzung nach Absatz 1 Nummer 2 ist durch die Bescheinigung der
-Zertifizierungsstelle nachzuweisen.
+Wirtschaftsprüfungsgesellschaft, einer vereidigten Buchprüferin, eines
+vereidigten Buchprüfers oder einer Buchprüfungsgesellschaft auf
+Grundlage des Jahresabschlusses für das letzte abgeschlossene
+Geschäftsjahr nachzuweisen. Für die Bescheinigungen nach Satz 1 gelten
+§ 319 Absatz 2 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des
+Handelsgesetzbuches entsprechend. Die Voraussetzung nach Absatz 1
+Nummer 2 ist durch die Bescheinigung der Zertifizierungsstelle
+nachzuweisen.
 
 (2a) Unternehmen, die nach dem 30. Juni des Vorjahres neu gegründet
 wurden, können abweichend von Absatz 1 Daten über ein
@@ -2440,7 +2849,7 @@ Handelsgesetzbuches zu prüfen.
     Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt, Gustav-
     Stresemann-Ring 11, 65189 Wiesbaden; auch zu beziehen über
     www.destatis.de.
-[^f1775530_02_BJNR207410008BJNE004201310]: 
+[^f1775530_02_BJNR207410008BJNE004202360]: 
 
 #### § 42 Schienenbahnen
 
@@ -2524,8 +2933,7 @@ unverzüglich zur Verfügung zu stellen. § 38 gilt entsprechend.
 Anlagenbetreiberinnen und -betreiber sind verpflichtet, dem
 Netzbetreiber
 
-1.  den Standort und die installierte Leistung der Anlage sowie die
-    Strommenge nach § 33 Abs. 2 mitzuteilen,
+1.  den Standort und die installierte Leistung der Anlage mitzuteilen,
 
 
 2.  bei Biomasseanlagen nach den §§ 27 bis 27b die Art und Menge der
@@ -2553,17 +2961,24 @@ verpflichtet,
     geleisteten Vergütungszahlungen nach § 16, die Prämien nach den §§ 33g
     und 33i, die von den Anlagenbetreiberinnen und Anlagenbetreibern
     erhaltenen Meldungen nach § 33d Absatz 2 (jeweils gesondert für die
-    verschiedenen Formen der Direktvermarktung nach § 33b) und die von
-    ihnen erhaltenen Angaben nach § 46 sowie die sonstigen für den
-    bundesweiten Ausgleich erforderlichen Angaben unverzüglich, nachdem
-    sie verfügbar sind, zusammengefasst zu übermitteln und
+    verschiedenen Formen der Direktvermarktung nach § 33b), die Kosten für
+    die Nachrüstung nach § 35 Absatz 1b in Verbindung mit einer Verordnung
+    nach § 12 Absatz 3a und § 49 Absatz 4 des Energiewirtschaftsgesetzes,
+    die Anzahl der nachgerüsteten Anlagen und die von ihnen erhaltenen
+    Angaben nach § 46 sowie die sonstigen für den bundesweiten Ausgleich
+    erforderlichen Angaben unverzüglich, nachdem sie verfügbar sind,
+    zusammengefasst zu übermitteln und
 
 
 2.  bis zum 31. Mai eines Jahres mittels Formularvorlagen, die der
     Übertragungsnetzbetreiber auf seiner Internetseite zur Verfügung
     stellt, in elektronischer Form die Endabrechnung für das Vorjahr
     sowohl für jede einzelne Anlage als auch zusammengefasst vorzulegen; §
-    19 Abs. 2 und 3 gilt entsprechend.
+    19 Abs. 2 und 3 gilt entsprechend; bis zum 31. Mai eines Jahres ist
+    dem vorgelagerten Übertragungsnetzbetreiber ein Nachweis über die nach
+    § 35 Absatz 1b Satz 1 zu ersetzenden Kosten vorzulegen; spätere
+    Änderungen der Ansätze sind dem Übertragungsnetzbetreiber unverzüglich
+    mitzuteilen und bei der nächsten Abrechnung zu berücksichtigen.
 
 
 
@@ -2605,9 +3020,10 @@ entsprechend.
 
 (3) Die Übertragungsnetzbetreiber sind weiterhin verpflichtet,
 
-1.  die Daten für die Berechnung der Marktprämie nach Maßgabe der Nummer 3
-    der Anlage 4 zu diesem Gesetz in nicht personenbezogener Form zu
-    veröffentlichen,
+1.  die Daten für die Berechnung der Marktprämie und den Wert „
+    MW
+    Solar(a)                   ” nach Maßgabe der Nummer 3 der Anlage 4 zu
+    diesem Gesetz in nicht personenbezogener Form zu veröffentlichen,
 
 
 2.  die Daten für den Ausgleichsmechanismus nach Maßgabe des § 7 der
@@ -3078,12 +3494,12 @@ Energiewirtschaftsgesetzes treffen
     3, jeweils insbesondere zu Verfahren, Fristen und Datenformaten,
 
 
-4.  zur Berücksichtigung von Strom aus solarer Strahlungsenergie, der nach
-    § 33 Absatz 2 selbst verbraucht wird, bei den
-    Veröffentlichungspflichten nach § 48 und bei der Berechnung des
-    tatsächlichen Monatsmittelwerts des Marktwerts von Strom aus solarer
-    Strahlungsenergie nach Nummer 2.4.2.4 der Anlage 4 zu diesem Gesetz,
-    jeweils insbesondere zu Berechnung oder Abschätzung der Strommengen.
+4.  zur Berücksichtigung von Strom aus solarer Strahlungsenergie, der
+    selbst verbraucht wird, bei den Veröffentlichungspflichten nach § 48
+    und bei der Berechnung des tatsächlichen Monatsmittelwerts des
+    Marktwerts von Strom aus solarer Strahlungsenergie nach Nummer 2.4.2.4
+    der Anlage 4 zu diesem Gesetz, jeweils insbesondere zu Berechnung oder
+    Abschätzung der Strommengen.
 
 
 
@@ -3172,20 +3588,22 @@ Fachaufsicht über die Bundesnetzagentur.
 ### § 63a Gebühren und Auslagen
 
 (1) Für Amtshandlungen nach diesem Gesetz und den auf diesem Gesetz
-beruhenden Rechtsverordnungen werden zur Deckung des
-Verwaltungsaufwands Gebühren und Auslagen erhoben. Die
-gebührenpflichtigen Tatbestände und die Gebührensätze sind durch
-Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen. Dabei
-können feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze
-vorgesehen und die Erstattung von Auslagen auch abweichend vom
-Verwaltungskostengesetz geregelt werden.
+beruhenden Rechtsverordnungen sowie für die Nutzung des
+Herkunftsnachweisregisters werden Gebühren und Auslagen erhoben. Für
+die Nutzung des Herkunftsnachweisregisters finden die Vorschriften der
+Abschnitte 2 und 3 des Verwaltungskostengesetzes entsprechende
+Anwendung.
 
-(2) Zum Erlass von Rechtsverordnungen nach Absatz 1 Satz 2 und 3 sind
-ermächtigt
+(2) Die gebührenpflichtigen Tatbestände und die Gebührensätze sind
+durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
+Dabei können feste Sätze, auch in Form von Zeitgebühren, oder
+Rahmensätze vorgesehen und die Erstattung von Auslagen auch abweichend
+vom Verwaltungskostengesetz geregelt werden. Zum Erlass der
+Rechtsverordnungen sind ermächtigt
 
 1.  das Bundesministerium für Wirtschaft und Technologie für
-    Amtshandlungen der Bundesnetzagentur nach § 61 Absatz 2 oder 3 in
-    Verbindung mit § 65 des Energiewirtschaftsgesetzes,
+    Amtshandlungen der Bundesnetzagentur nach § 61 Absatz 2 oder 3 dieses
+    Gesetzes in Verbindung mit § 65 des Energiewirtschaftsgesetzes,
 
 
 2.  das Bundesministerium für Ernährung, Landwirtschaft und
@@ -3194,16 +3612,25 @@ ermächtigt
     der Finanzen für Amtshandlungen der Bundesanstalt für Landwirtschaft
     und Ernährung im Zusammenhang mit der Anerkennung von Systemen oder
     mit der Anerkennung und Überwachung einer unabhängigen Kontrollstelle
-    nach der Rechtsverordnung auf Grund des § 64b,
+    nach der Rechtsverordnung auf Grund des § 64b; insoweit werden die
+    Gebühren zur Deckung des Verwaltungsaufwands erhoben,
 
 
 3.  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
     für Amtshandlungen der zuständigen Behörde im Zusammenhang mit der
     Ausstellung, Anerkennung, Übertragung oder Entwertung von
-    Herkunftsnachweisen nach der Rechtsverordnung auf Grund des § 64d. Das
-    Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann
-    die Ermächtigung durch Rechtsverordnung ohne Zustimmung des
-    Bundesrates auf das Umweltbundesamt übertragen.
+    Herkunftsnachweisen sowie für die Nutzung des
+    Herkunftsnachweisregisters nach der Rechtsverordnung auf Grund des §
+    64d; das Bundesministerium für Umwelt, Naturschutz und
+    Reaktorsicherheit kann die Ermächtigung durch Rechtsverordnung ohne
+    Zustimmung des Bundesrates auf das Umweltbundesamt übertragen,
+
+
+4.  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im
+    Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
+    für Amtshandlungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+    im Zusammenhang mit der Begrenzung der EEG-Umlage nach den §§ 40 bis
+    43\.
 
 
 
@@ -3622,31 +4049,7 @@ ohne Zustimmung des Bundesrates zu regeln:
     Tageszeiten oder an Zeiten bestimmter Börsenpreise angeknüpft werden,
 
 
-2a. im Anwendungsbereich der Vergütung von Strom aus Anlagen nach § 33
-    Absatz 1, den die Anlagenbetreiberin, der Anlagenbetreiber oder Dritte
-    in unmittelbarer räumlicher Nähe zur Anlage verbrauchen, abweichend
-    von § 33 Absatz 2
-
-    a)  die zeitliche Geltung der Vergütung und die Vergütungsdauer,
-
-
-    b)  die Vergütungshöhe; hierbei kann auch die Unterscheidung nach
-        Eigenverbrauchsanteilen abweichend festgesetzt oder aufgehoben werden,
-        und es können für verschiedene Bemessungsleistungen oder für Anlagen
-        mit verschiedener installierter Leistung verschiedene Vergütungen
-        festgesetzt werden,
-
-
-    c)  Vergütungsvoraussetzungen, insbesondere technische Anforderungen an
-        die Anlagen oder an die Messeinrichtungen sowie sonstige Anforderungen
-        an die Erzeugung, Messung, Speicherung oder Nutzung des Stroms aus
-        diesen Anlagen,
-
-
-    d)  den Nachweis der Voraussetzungen nach Buchstabe c,
-
-
-
+2a. (weggefallen)
 
 
 3.  für die Berechnung der Marktprämie nach § 33g die Höhe der
@@ -3771,16 +4174,32 @@ ohne Zustimmung des Bundesrates zu regeln:
 
 
 
-### § 64g Gemeinsame Vorschriften für die Verordnungsermächtigungen
+### § 64g Verordnungsermächtigung zu Vergütungsbedingungen auf Konversionsflächen
 
-(1) Die Rechtsverordnungen auf Grund von den §§ 64a, 64b, 64c, 64d und
-64f bedürfen der Zustimmung des Bundestages. Abweichend von Satz 1
-bedürfen Änderungen der auf Grund von § 64b erlassenen Biomassestrom-
-Nachhaltigkeitsverordnung nicht der Zustimmung des Bundestages, wenn
-die Änderungen der Umsetzung von verbindlichen Beschlüssen der
-Europäischen Kommission nach Artikel 17 Absatz 3 Unterabsatz 2,
-Artikel 18 Absatz 3 Unterabsatz 3 und Absatz 4 Unterabsatz 1 bis 4
-sowie Artikel 19 Absatz 7 und 8 der Richtlinie 2009/28/EG dienen.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Vergütungsbedingungen von Anlagen zur
+Erzeugung von Strom aus solarer Strahlungsenergie auf
+Konversionsflächen aus wirtschaftlicher, verkehrlicher,
+wohnungsbaulicher oder militärischer Nutzung abweichend von § 32
+Absatz 1 und unter Berücksichtigung energiewirtschaftlicher,
+netztechnischer, naturschutzfachlicher und finanzieller Belange zu
+verbessern und hierbei insbesondere einen angemessenen Vergütungssatz
+ab einer installierten Leistung von mehr als 10 Megawatt für Anlagen
+auf geeigneten Flächen festzulegen. Zu diesem Zweck können in der
+Verordnung auch die geeigneten Flächen festgelegt werden.
+
+
+### § 64h Gemeinsame Vorschriften für die Verordnungsermächtigungen
+
+(1) Die Rechtsverordnungen auf Grund von den §§ 64a, 64b, 64c, 64d,
+64f und 64g bedürfen der Zustimmung des Bundestages. Abweichend von
+Satz 1 bedürfen Änderungen der auf Grund von § 64b erlassenen
+Biomassestrom-Nachhaltigkeitsverordnung nicht der Zustimmung des
+Bundestages, wenn die Änderungen der Umsetzung von verbindlichen
+Beschlüssen der Europäischen Kommission nach Artikel 17 Absatz 3
+Unterabsatz 2, Artikel 18 Absatz 3 Unterabsatz 3 und Absatz 4
+Unterabsatz 1 bis 4 sowie Artikel 19 Absatz 7 und 8 der Richtlinie
+2009/28/EG dienen.
 
 (2) Wenn Rechtsverordnungen nach Absatz 1 der Zustimmung des
 Bundestages bedürfen, kann diese Zustimmung davon abhängig gemacht
@@ -3788,8 +4207,8 @@ werden, dass dessen Änderungswünsche übernommen werden. Übernimmt der
 Verordnungsgeber die Änderungen, ist eine erneute Beschlussfassung
 durch den Bundestag nicht erforderlich. Hat sich der Bundestag nach
 Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung
-nicht mit ihr befasst, gilt im Fall der §§ 64a, 64b, 64c und 64f
-Nummer 1, 2, 3 und 7 seine Zustimmung zu der unveränderten
+nicht mit ihr befasst, gilt im Fall der §§ 64a, 64b, 64c, 64f Nummer
+1, 2, 3 und 7 und 64g seine Zustimmung zu der unveränderten
 Rechtsverordnung als erteilt.
 
 (3) Die Ermächtigungen zum Erlass von Rechtsverordnungen auf Grund von
@@ -3810,22 +4229,36 @@ vor.
 
 Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 berichtet der Bundesregierung bis zum 31. Dezember 2012 und dann
-jährlich über den Ausbau der erneuerbaren Energien, die Erreichung der
-Ziele nach § 1 Absatz 2 und die sich daraus ergebenden
-Herausforderungen. Auf Grundlage des Berichts nach Satz 1 und auf
-Grundlage des Berichts des Bundesministeriums für Wirtschaft und
-Technologie nach § 63 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes
-berichtet die Bundesregierung dem Bundestag und legt erforderliche
-Handlungsempfehlungen vor.
+jährlich über
+
+1.  den Ausbau der erneuerbaren Energien,
+
+
+2.  die Erreichung der Ziele nach § 1 Absatz 2 und
+
+
+3.  die Herausforderungen, die sich aus den Nummern 1 und 2 ergeben.
+
+
+
+Auf Grundlage des Berichts nach Satz 1 und auf Grundlage des Berichts
+des Bundesministeriums für Wirtschaft und Technologie nach § 63 Absatz
+1 Satz 1 des Energiewirtschaftsgesetzes berichtet die Bundesregierung
+dem Bundestag und legt erforderliche Handlungsempfehlungen vor. Im
+Hinblick auf § 20b Absatz 9a über den erreichten und den weiteren
+Ausbau der Stromerzeugung aus solarer Strahlungsenergie legt die
+Bundesregierung rechtzeitig vor Erreichung des Gesamtausbauziels einen
+Vorschlag für eine Neugestaltung der bisherigen Regelung vor.
 
 
 ### § 66 Übergangsbestimmungen
 
-(1) Für Strom aus Anlagen, die vor dem 1. Januar 2012 in Betrieb
-genommen worden sind, sind unbeschadet des § 23 Absatz 2 bis 4 die
-Vorschriften des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008
-(BGBl. I S. 2074) in der am 31. Dezember 2011 geltenden Fassung mit
-folgenden Maßgaben anzuwenden:
+(1) Für Strom aus Anlagen, die nach dem am 31. Dezember 2011 geltenden
+Inbetriebnahmebegriff vor dem 1. Januar 2012 in Betrieb genommen
+worden sind, sind unbeschadet des § 23 Absatz 2 bis 4 die Vorschriften
+des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S.
+2074) in der am 31. Dezember 2011 geltenden Fassung mit folgenden
+Maßgaben anzuwenden:
 
 1.  Die technischen Vorgaben nach § 6 Absatz 1 müssen ab dem 1. Juli 2012
     von Anlagenbetreiberinnen und Anlagenbetreibern von Anlagen zur
@@ -3878,14 +4311,22 @@ folgenden Maßgaben anzuwenden:
     würde.
 
 
-6.  § 16 Absatz 1 Satz 2 und 3 sowie Absatz 2 Satz 2 bis 4 ist ergänzend
-    zu § 16 Absatz 1 und 3 des Erneuerbare-Energien-Gesetzes in der am 31.
-    Dezember 2011 geltenden Fassung anzuwenden. Anstelle des § 16 Absatz 2
-    Satz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011
-    geltenden Fassung ist § 17 Absatz 2 Nummer 2 mit der Maßgabe
-    anzuwenden, dass an die Stelle des Vergütungsanspruchs nach § 16 der
-    Vergütungsanspruch des Erneuerbare-Energien-Gesetzes in der für die
-    jeweilige Anlage maßgeblichen Fassung tritt.
+5a. § 12 ist für Strom aus Anlagen und KWK-Anlagen, die bereits vor dem 1.
+    Januar 2012 in Betrieb genommen worden sind, ab dem 1. Juli 2012 mit
+    der Maßgabe anzuwenden, dass die Entschädigung 100 Prozent der
+    entgangenen Einnahmen zuzüglich der zusätzlichen Aufwendungen und
+    abzüglich der ersparten Aufwendungen beträgt.
+
+
+6.  § 16 Absatz 1 Satz 2 und 3, Absatz 2 Satz 2 bis 4 sowie ab dem 1. Juli
+    2012 Absatz 3 letzter Halbsatz ist ergänzend zu § 16 Absatz 1 und 3
+    des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011
+    geltenden Fassung anzuwenden. Anstelle des § 16 Absatz 2 Satz 1 des
+    Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden
+    Fassung ist § 17 Absatz 2 Nummer 2 mit der Maßgabe anzuwenden, dass an
+    die Stelle des Vergütungsanspruchs nach § 16 der Vergütungsanspruch
+    des Erneuerbare-Energien-Gesetzes in der für die jeweilige Anlage
+    maßgeblichen Fassung tritt.
 
 
 7.  Für Strom aus Deponiegas, Klärgas oder Biomasse ist anstelle der
@@ -3941,13 +4382,43 @@ folgenden Maßgaben anzuwenden:
     anzuwenden.
 
 
-12. § 32 Absatz 3 findet auch Anwendung auf Anlagen zur Erzeugung von
+12. § 32 Absatz 5 findet auch Anwendung auf Anlagen zur Erzeugung von
     Strom aus solarer Strahlungsenergie, die vor dem 1. Januar 2012 in
-    Betrieb genommen worden sind.
+    Betrieb genommen worden sind. Soweit Anlagen zur Erzeugung von Strom
+    aus solarer Strahlungsenergie vor dem 1. Januar 2012 durch Anlagen zur
+    Erzeugung von Strom aus solarer Strahlungsenergie auf Grund eines
+    technischen Defekts, einer Beschädigung oder eines Diebstahls an
+    demselben Standort ersetzt worden sind, gelten diese mit Wirkung ab
+    dem 1. Januar 2012 abweichend von § 3 Nummer 5 bis zur Höhe der vor
+    der Ersetzung an demselben Standort installierten Leistung von Anlagen
+    zur Erzeugung von Strom aus solarer Strahlungsenergie als zu dem
+    Zeitpunkt in Betrieb genommen, zu dem die ersetzten Anlagen in Betrieb
+    genommen worden sind.
 
 
 13. § 27a Absatz 1, 3, 4 und 5 ist auf Anlagen, die vor dem 1. Januar 2012
     in Betrieb genommen worden sind, entsprechend anzuwenden.
+
+
+14. Für jeden Kalendermonat, in dem Anlagenbetreiberinnen und
+    Anlagenbetreiber ganz oder teilweise Verpflichtungen im Rahmen einer
+    Nachrüstung zur Sicherung der Systemstabilität auf Grund einer
+    Verordnung nach § 12 Absatz 3a und § 49 Absatz 4 des
+    Energiewirtschaftsgesetzes nach Ablauf der von den Netzbetreibern nach
+    Maßgabe der Rechtsverordnung gesetzten Frist nicht nachgekommen sind,
+    verringert sich
+
+    a)  der Vergütungsanspruch oder der Anspruch auf die Marktprämie nach §
+        33g für Anlagen, die mit einer technischen Einrichtung nach § 6 Absatz
+        1 Nummer 2 ausgestattet sind, auf Null oder
+
+
+    b)  der in einem Kalenderjahr entstandene Vergütungsanspruch für Anlagen,
+        die nicht mit einer technischen Einrichtung nach § 6 Absatz 1 Nummer 2
+        ausgestattet sind, um ein Zwölftel.
+
+
+
 
 
 
@@ -4013,18 +4484,19 @@ am 31. Dezember 2011 geltenden Fassung, wenn sie oder er dies
 verlangt, bevor der Netzbetreiber zum ersten Mal eine Vergütung für
 Strom aus dieser Anlage gezahlt hat.
 
-(7) Netzbetreiber dürfen im Rahmen des § 11 Anlagen nach § 6 Absatz 2
-in Verbindung mit Absatz 3 erst regeln, sobald eine Rechtsverordnung
-auf Grund von § 64f Nummer 1 ein pauschaliertes Verfahren zur
-Ermittlung der entgangenen Einnahmen festgelegt hat.
+(7) Anlagenbetreiberinnen und Anlagenbetreiber von Anlagen zur
+Erzeugung von Strom aus solarer Strahlungsenergie müssen die
+Anforderungen nach § 6 Absatz 2 in Verbindung mit Absatz 3 erst nach
+dem 31. Dezember 2012 einhalten. Netzbetreiber dürfen diese Anlagen
+vor dem 1. Januar 2013 nicht nach § 11 regeln.
 
 (8) Auf Strom, den Elektrizitätsversorgungsunternehmen nach dem 31.
 Dezember 2011 und vor dem 1. Januar 2013 an Letztverbraucherinnen und
-Letztverbraucher liefern, findet § 39 mit der Maßgabe Anwendung, dass
-die Elektrizitätsversorgungsunternehmen ihrem regelverantwortlichen
-Übertragungsnetzbetreiber die Inanspruchnahme der Verringerung der
-EEG-Umlage abweichend von § 39 Absatz 1 Nummer 2 bis zum 29. Februar
-2012 mitgeteilt haben müssen.
+Letztverbraucher liefern, findet § 39 Absatz 1 mit der Maßgabe
+Anwendung, dass die Elektrizitätsversorgungsunternehmen ihrem
+regelverantwortlichen Übertragungsnetzbetreiber die Inanspruchnahme
+der Verringerung der EEG-Umlage abweichend von § 39 Absatz 1 Nummer 2
+bis zum 29. Februar 2012 mitgeteilt haben müssen.
 
 (9) Bis zu dem Tag, an dem das Umweltbundesamt oder die auf Grund
 einer Rechtsverordnung gemäß § 64d Nummer 7 betraute oder beliehene
@@ -4041,12 +4513,14 @@ dem 1. Januar 2013 erzeugt worden ist.
 
 (11) Der Vergütungsanspruch für Strom aus Anlagen zur Erzeugung von
 Strom aus solarer Strahlungsenergie auf Konversionsflächen im Sinne
-des § 32 Absatz 2 Nummer 2 besteht auch für Anlagen auf den in § 32
-Absatz 2 Nummer 2 Buchstabe a und b genannten Flächen, wenn die
-sonstigen Voraussetzungen des § 32 Absatz 2 erfüllt, die Anlagen vor
-dem 1. Januar 2014 in Betrieb genommen und der Beschluss über die
-Aufstellung oder Änderung des Bebauungsplans vor dem 30. Juni 2011
-gefasst worden sind.
+des § 32 Absatz 1 Nummer 3 Buchstabe c Doppelbuchstabe cc besteht auch
+auf Flächen, die rechtsverbindlich als Naturschutzgebiet im Sinne des
+§ 23 des Bundesnaturschutzgesetzes oder als Nationalpark im Sinne des
+§ 24 des Bundesnaturschutzgesetzes festgesetzt worden sind, wenn die
+sonstigen Voraussetzungen des § 32 Absatz 1 Nummer 3 erfüllt sind, die
+Anlagen vor dem 1. Januar 2014 in Betrieb genommen worden sind und der
+Beschluss über die Aufstellung oder Änderung des Bebauungsplans vor
+dem 30. Juni 2011 gefasst worden ist.
 
 (12) § 57 gilt auch für Anwendungsfragen zu dem Erneuerbare-Energien-
 Gesetz in der am 31. Dezember 2011 geltenden Fassung.
@@ -4128,9 +4602,10 @@ liefern, in einem Kalendermonat auf Null, wenn
         aa) nach § 33b Nummer 2 direkt vermarktet wird oder
 
 
-        bb) nach § 33a Absatz 2 an Dritte veräußert und nicht tatsächlich nach § 8
-            abgenommen oder nach Maßgabe des § 33 Absatz 2 verbraucht worden ist
-            und
+        bb) nach § 33a Absatz 2 des Erneuerbare-Energien-Gesetzes in der am 31.
+            März 2012 geltenden Fassung an Dritte veräußert und nicht tatsächlich
+            nach § 8 abgenommen oder nach Maßgabe des § 33 Absatz 2 verbraucht
+            worden ist und
 
 
 
@@ -4156,10 +4631,108 @@ liefern, in einem Kalendermonat auf Null, wenn
 
 
 
+(17) Für Strom aus Biomasseanlagen, die vor dem 1. Januar 2009 in
+Betrieb genommen worden sind, besteht der Anspruch auf Vergütung
+abweichend von den Vergütungsbestimmungen des Erneuerbare-Energien-
+Gesetzes in der für die jeweilige Anlage maßgeblichen Fassung bis
+einschließlich einer Bemessungsleistung von 20 Megawatt mit Wirkung
+vom 1. April 2012 auch, wenn die installierte Leistung der Anlage 20
+Megawatt überschreitet.
+
+(18) Für Strom aus Anlagen zur Erzeugung von Strom aus solarer
+Strahlungsenergie, die vor dem 1. April 2012 in Betrieb genommen
+worden sind, gilt nach dem 31. Dezember 2013 § 33 Absatz 4; im Übrigen
+gilt das Erneuerbare-Energien-Gesetz in der am 31. März 2012 geltenden
+Fassung. Satz 1 gilt auch für Strom aus Anlagen zur Erzeugung von
+Strom aus solarer Strahlungsenergie in, an oder auf Gebäuden oder
+Lärmschutzwänden, die nach dem 31. März 2012 und vor dem 1. Juli 2012
+nach § 3 Nummer 5 in Betrieb genommen worden sind, wenn für die Anlage
+vor dem 24. Februar 2012 nachweislich ein schriftliches oder
+elektronisches Netzanschlussbegehren unter Angabe des genauen
+Standorts und der zu installierenden Leistung der Anlage gestellt
+worden ist.
+
+(18a) Für Strom aus Anlagen zur Erzeugung von Strom aus solarer
+Strahlungsenergie nach § 32 Absatz 1, die nach dem 31. März 2012 und
+vor dem 1. Juli 2012 nach § 3 Nummer 5 in Betrieb genommen worden
+sind, gilt nach dem 31. Dezember 2013 § 33 Absatz 4 und im Übrigen,
+unabhängig von der installierten Leistung und vorbehaltlich des
+Absatzes 11, das Erneuerbare-Energien-Gesetz in der am 31. März 2012
+geltenden Fassung, wenn
+
+1.  zur Errichtung der Anlagen ein Bebauungsplan erforderlich ist und der
+    Beschluss über die letzte Änderung des Bebauungsplans, in dessen
+    Geltungsbereich die Anlagen errichtet worden sind, oder, soweit noch
+    keine Änderung dieses Bebauungsplans erfolgt ist, der Beschluss über
+    dessen Aufstellung vor dem 1. März 2012 gefasst worden ist oder
+
+
+2.  in den Fällen des § 32 Absatz 1 Nummer 2 kein Verfahren zur
+    Aufstellung oder Änderung eines Bebauungsplans durchgeführt worden ist
+    und der Antrag auf Einleitung eines Verfahrens nach § 38 Satz 1 des
+    Baugesetzbuchs vor dem 1. März 2012 gestellt worden ist.
+
+
+
+Für Strom aus Anlagen nach § 32 Absatz 1 Nummer 3 Buchstabe c
+Doppelbuchstabe cc, die nach dem 30. Juni 2012 und vor dem 1. Oktober
+2012 nach § 3 Nummer 5 in Betrieb genommen worden sind, ist Satz 1
+entsprechend anzuwenden mit der Maßgabe, dass die Vergütung 15,95 Cent
+pro Kilowattstunde beträgt; werden diese Anlagen nach § 17 Absatz 2
+Nummer 1 registriert, gelten sie abweichend von § 20a Absatz 5 Satz 2
+unabhängig von der installierten Leistung als geförderte Anlagen im
+Sinne des § 20a Absatz 5 Satz 1.
+
+(19) Für Strom aus Anlagen zur Erzeugung von Strom aus solarer
+Strahlungsenergie, die nach dem 31. März 2012 und vor dem 1. Januar
+2014 in Betrieb genommen worden sind, findet § 33 erst ab dem 1.
+Januar 2014 Anwendung. Satz 1 gilt nicht für Anlagen, die in den
+Anwendungsbereich der Absätze 18 Satz 2 und 18a fallen; auf diese
+Anlagen findet § 33 Absatz 1 bis 3 und 5 keine Anwendung.
+
+(20) Für Anlagen, die nach dem 31. Dezember 2011 und vor dem 1. April
+2012 nach § 3 Nummer 5 in der am 31. März 2012 geltenden Fassung in
+Betrieb genommen worden sind, bestimmt sich der
+Inbetriebnahmezeitpunkt weiterhin nach § 3 Nummer 5 in der am 31. März
+2012 geltenden Fassung.
+
+(21) Für Strom aus Biomasseanlagen, die vor dem 1. Januar 2012 in
+Betrieb genommen worden sind und nach § 9 des Treibhausgas-
+Emissionshandelsgesetzes für die Handelsperiode 2013 bis 2020 eine
+Zuteilung kostenloser Berechtigungen erhalten, ist
+
+1.  § 46 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember
+    2011 geltenden Fassung mit der Maßgabe anzuwenden, dass
+    Anlagenbetreiberinnen und Anlagenbetreiber dem Netzbetreiber
+    zusätzlich die Anzahl der für die Wärmeproduktion der Anlage
+    zugeteilten kostenlosen Berechtigungen mitteilen müssen, und
+
+
+2.  § 66 Absatz 1 Nummer 3 und 5 des Erneuerbare-Energien-Gesetzes in der
+    am 31. Dezember 2011 geltenden Fassung mit der Maßgabe anzuwenden,
+    dass für die Erhöhung der Vergütung nach § 66 Absatz 1 Nummer 3 Satz 1
+    und 3 sowie für die Vergütung nach § 66 Absatz 1 Nummer 5 Satz 2 die
+    Anrechnung nach Anlage 3 Nummer VI des Erneuerbare-Energien-Gesetzes
+    in der am 31. Dezember 2011 geltenden Fassung entsprechend gilt.
+
+
+
+Für Strom aus Biomasseanlagen, die vor dem 1. Januar 2009 in Betrieb
+genommen worden sind und die die Erhöhung der Mindestvergütung nach §
+8 Absatz 3 Satz 1 des Erneuerbare-Energien-Gesetzes in der am 31.
+Dezember 2008 geltenden Fassung in Anspruch nehmen, gilt die
+Anrechnung nach Anlage 3 Nummer VI des Erneuerbare-Energien-Gesetzes
+in der am 31. Dezember 2011 geltenden Fassung entsprechend.
+
+(22) § 37 Absatz 5 ist nicht auf Geldschulden anzuwenden, die vor dem
+1\. Januar 2011 fällig geworden sind oder erstmals als fällig gegolten
+haben.
+
 
 ### Anlage 1 Gasaufbereitungs-Bonus
 
-(Fundstelle: BGBl. I 2011, 1661)
+(Fundstelle: BGBl. I 2011, 1661; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 
 **1.** **Anspruchsvoraussetzungen**
@@ -4211,7 +4784,7 @@ liefern, in einem Kalendermonat auf Null, wenn
 
 
 
-    Für Gasaufbereitungsanlagen gilt § 19 Absatz 1 entsprechend.
+    Für Gasaufbereitungsanlagen gilt § 19 Absatz 1 Satz 1 entsprechend.
 
 
 
@@ -4219,7 +4792,8 @@ liefern, in einem Kalendermonat auf Null, wenn
 
 ### Anlage 2 Erzeugung in Kraft-Wärme-Kopplung
 
-(Fundstelle: BGBl. I 2011, 1662 - 1663)
+(Fundstelle: BGBl. I 2011, 1662 - 1663; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 **1.** **Voraussetzungen der Erzeugung in Kraft-Wärme-Kopplung**
@@ -4363,6 +4937,29 @@ liefern, in einem Kalendermonat auf Null, wenn
 
 
 
+**5.** **Biomasseanlagen mit Entnahme- oder
+    Anzapfkondensationsanlagentechnologie**
+
+    Abweichend von den Nummern 1 und 2 wird Strom aus Biomasseanlagen mit
+    Entnahme- oder Anzapfkondensationsanlagentechnologie in Kraft-Wärme-
+    Kopplung im Sinne des § 27 Absatz 4 Nummer 1 erzeugt, wenn von der
+    höchstens erreichbaren Nutzwärme im Sinne von § 3 Absatz 6 des Kraft-
+    Wärme-Kopplungsgesetzes in dem jeweiligen Kalenderjahr mindestens
+
+    a)  25 Prozent bis zum Ende des ersten auf die erstmalige Erzeugung von
+        Strom in der Anlage folgenden Kalenderjahres und danach
+
+
+    b)  60 Prozent
+
+
+
+    im Sinne der Nummer 1 Buchstabe b oder c genutzt wird. Die Nummern
+    2\.2, 3 und 4 gelten entsprechend; Nummer 2.2 gilt auch für den
+    Nachweis des nach Satz 1 Buchstabe a und b geforderten Anteils der
+    Nutzwärmenutzung.
+
+
 
 
 
@@ -4457,7 +5054,8 @@ Fußnote)
 
 ### Anlage 4 Höhe der Marktprämie
 
-(Fundstelle: BGBl. I 2011, 1663 - 1666)
+(Fundstelle: BGBl. I 2011, 1663 - 1666; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 **1.** **Berechnung der Marktprämie**
@@ -4905,6 +5503,14 @@ Fußnote)
         verfügbar sind, sind sie unter Berücksichtigung der Daten nach Nummer
         3\.1 zu berechnen und bis zu diesem Datum in nicht personenbezogener
         Form zu veröffentlichen.
+
+
+    3.6. Die Übertragungsnetzbetreiber müssen ferner bis zum 31. Januar eines
+        Jahres für das jeweils vorangegangene Kalenderjahr den Wert „
+        MW
+        Solar(a)                         “ auf einer gemeinsamen Internetseite
+        in einheitlichem Format in nicht personenbezogener Form
+        veröffentlichen.
 
 
 

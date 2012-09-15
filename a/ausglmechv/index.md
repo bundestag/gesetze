@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2101
 
-Geändert durch
-:   Art. 2 G v. 28.7.2011 I 1634
+Zuletzt geändert durch
+:   Art. 2 G v. 17.8.2012 I 1754
 
 
 ## Eingangsformel
@@ -102,6 +102,9 @@ des Erneuerbare-Energien-Gesetzes gilt entsprechend.
 
 1a. Zahlungen von Prämien nach § 33g oder § 33i oder § 35 Absatz 1a des
     Erneuerbare-Energien-Gesetzes,
+
+
+1b. Zahlungen nach § 35 Absatz 1b des Erneuerbare-Energien-Gesetzes,
 
 
 2.  Rückzahlungen nach Absatz 6,
