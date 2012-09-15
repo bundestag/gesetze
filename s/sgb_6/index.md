@@ -17262,7 +17262,7 @@ bis zum 31. Dezember 2015 gestellt werden.
 können, wenn zwischen der Beurlaubung und der maßgebenden gesetzlichen
 oder besonderen Altersgrenze weniger als 60 Kalendermonate liegen, auf
 Antrag freiwillige Beiträge für so viele Monate nachzahlen, wie zur
-Erfüllung der allgemeinen Wartezeit noch erforderlich sind.Beiträge
+Erfüllung der allgemeinen Wartezeit noch erforderlich sind. Beiträge
 können nur für Zeiten nachgezahlt werden, die noch nicht mit Beiträgen
 belegt sind.
 
