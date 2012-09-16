@@ -56,6 +56,6 @@ tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft.
 
 ### Anlage zum Vierten Gesetz zur Änderung des Zollgesetzes vom 9. September 1964
 
-(Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl. I 1964, 806)
+(Fundstelle: BGBl. I 1964, 806)
 
+![bgbl1_1964_j0806_0010.jpg](bgbl1_1964_j0806_0010.jpg)

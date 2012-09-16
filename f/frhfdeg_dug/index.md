@@ -89,24 +89,24 @@ Kalendermonats in Kraft.
 
 ## Anlage 1 (zu § 1 Abs. 2 und 4 des Gesetzes)
 
-(Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl. I 1989, 1543)
+(Fundstelle: BGBl. I 1989, 1543)
 
+![bgbl1_1989_j1543_0010.jpg](bgbl1_1989_j1543_0010.jpg)
 
 ## Anlage 2 (zu § 1 Abs. 4 des Gesetzes)
 
-(Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl. I 1989, 1544)
+(Fundstelle: BGBl. I 1989, 1544)
 
+![bgbl1_1989_j1544_0010.jpg](bgbl1_1989_j1544_0010.jpg)
 
 ## Anlage 3 (zu § 1 Abs. 3 und 4 des Gesetzes)
 
-(Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl. I 1989, 1545)
+(Fundstelle: BGBl. I 1989, 1545)
 
+![bgbl1_1989_j1545_0010.jpg](bgbl1_1989_j1545_0010.jpg)
 
 ## Anlage 4 (zu § 1 Abs. 4 des Gesetzes)
 
-(Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl. I 1989, 1546)
+(Fundstelle: BGBl. I 1989, 1546)
 
+![bgbl1_1989_j1546_0010.jpg](bgbl1_1989_j1546_0010.jpg)
