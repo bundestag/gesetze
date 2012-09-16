@@ -36,6 +36,49 @@ im Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Wirtschaft und Technologie:
 
 
+## § 1 Anwendungsbereich, Zuständigkeit, Betriebssitz
+
+(1) Die Vorschriften dieser Verordnung gelten für die Durchführung der
+Durchführungsverordnung (EU) Nr. 585/2011 der Kommission vom 17. Juni
+2011 mit befristeten Sondermaßnahmen zur Stützung des Sektors Obst und
+Gemüse (ABl. L 160 vom 18.06.2011, S. 71).
+
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
+ist zuständig für die Durchführung dieser Verordnung, soweit
+
+1.  sie sich auf den in Absatz 1 genannten Rechtsakt hinsichtlich der der
+    Bundesrepublik Deutschland gegenüber den Organen der Europäischen
+    Union obliegenden Mitteilungspflichten bezieht und
+
+
+
+
+2.  für die Anerkennung gemeinnütziger Einrichtungen oder wohltätiger
+    Stiftungen nach Artikel 103d Absatz 4 Buchstabe a der Verordnung (EG)
+    Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame
+    Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte
+    landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO)
+    (ABl. L 299 vom 16.11.2007, S. 1).
+
+
+
+Im Übrigen sind für die Durchführung des in Absatz 1 genannten
+Rechtsaktes und dieser Verordnung die nach Landesrecht zuständigen
+Stellen (Landesstellen) zuständig.
+
+(3) Für Antragsteller im Sinne des Artikels 5 Absatz 1 Satz 1 der
+Durchführungsverordnung (EU) Nr. 585/2011 (Nichtmitglieder) ist die
+Landesstelle des Landes zuständig, in dem das Nichtmitglied seinen
+Betriebssitz hat.
+
+(4) Der für die Bestimmung der zuständigen Stelle maßgebliche
+Betriebssitz ist der Ort, der im Zuständigkeitsbereich des Finanzamts
+liegt, das für die Festsetzung der Einkommensteuer des Nichtmitglieds
+zuständig ist. Bei Körperschaften, Personenvereinigungen und
+Vermögensmassen ist die Landesstelle zuständig, in deren Bezirk sich
+die Geschäftsleitung befindet.
+
+
 ## § 2 Marktrücknahmen von Nichtmitgliedern
 
 Nichtmitglieder haben die Marktrücknahmen im Sinne des Artikels 5
