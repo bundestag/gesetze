@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl II: 1997, 1670 [Anlageband]
 
 Zuletzt geändert durch
-:   Beschlüsse d. Art. 1 iVm Anlage 1 V v. 16.12.2011 II 1318
-
-Änderung durch
-:   Art. 6 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+:   Art. 6 V v. 21.6.2012 II 618
 
 
 ## Inhaltsverzeichnis
@@ -1522,9 +1519,9 @@ sein.
 3.  Diese Voraussetzungen gelten als erfüllt, wenn Bau, Ausrüstung,
     Besatzung und Betrieb der Fahrzeuge entweder den Bestimmungen der
     Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der
-    Binnenschiffsuntersuchungsordnung (Rheinschiffsuntersuchungsordnung)
-    oder anderen gleichwertigen Vorschriften der Moseluferstaaten
-    entsprechen und wenn
+    Binnenschiffsuntersuchungsordnung in der jeweils geltenden und
+    anzuwendenden Fassung (Rheinschiffsuntersuchungsordnung) oder anderen
+    gleichwertigen Vorschriften der Moseluferstaaten entsprechen und wenn
 
     a)  die Fahrzeuge mit einem Schiffsattest nach der
         Rheinschiffsuntersuchungsordnung oder einem Gemeinschaftszeugnis nach
@@ -1552,7 +1549,62 @@ sein.
     Rheinschiffsuntersuchungsordnung genannten Normen zulässig sind.
 
 
+5.  Sind die nach § 11.02 Nummer 4 der Rheinschiffsuntersuchungsordnung
+    geforderten Geländer umlegbar oder wegnehmbar, dürfen sie nur bei
+    stillliegenden Fahrzeugen geöffnet oder teilweise entfernt werden und
+    nur bei folgenden Betriebszuständen:
 
+    a)  zum An- und Vonbordgehen an den hierfür vorgesehenen Stellen,
+
+
+    b)  beim Einsatz des Schwenkbaumes in seinem Schwenkbereich,
+
+
+    c)  beim Festmachen und Lösen von Seilen im Pollerbereich,
+
+
+    d)  bei Fahrzeugen, die an senkrechten Ufern liegen, an der dem Ufer
+        zugekehrten Seite, wenn keine Absturzgefahr besteht,
+
+
+    e)  bei Fahrzeugen, die Bord an Bord liegen, an den sich berührenden
+        Stellen, wenn keine Absturzgefahr besteht, oder
+
+
+    f)  wenn die Be- und Entladearbeiten oder der Baubetrieb unverhältnismäßig
+        behindert würden.
+
+
+
+    Sind Betriebszustände nach Satz 1 nicht mehr vorhanden, sind die
+    Geländer sofort wieder zu schließen oder zu setzen.
+
+
+6.  Die Mitglieder der Besatzung und die sonstigen Personen an Bord müssen
+    Rettungswesten nach § 10.05 Nummer 2 der
+    Rheinschiffsuntersuchungsordnung tragen
+
+    a)  beim An- und Vonbordgehen, sofern Absturzgefahr ins Wasser besteht,
+
+
+    b)  bei Aufenthalt im Beiboot,
+
+
+    c)  bei Arbeiten außenbords oder
+
+
+    d)  bei Aufenthalt und Arbeit an Deck und im Gangbord, sofern
+        Schanzkleider von mindestens 90 cm Höhe nicht vorhanden oder Geländer
+        nach Nummer 5 nicht durchgehend gesetzt sind.
+
+
+
+
+
+
+Außenbordarbeiten dürfen nur bei stillliegenden Schiffen durchgeführt
+werden und nur, wenn durch den übrigen Schiffsverkehr keine Gefährdung
+zu erwarten ist.
 
 
 #### § 1.09 Besetzung des Ruders
@@ -3783,31 +3835,39 @@ Notzeichen
 
 Hinweis auf das Verbot, das Fahrzeug zu betreten
 
-##### § 3.31 (Anlage 3  Bild 60)
+##### § 3.31 (Anlage 3: Bild 60)
 
 
 1.  Sofern es nicht an Bord beschäftigten Personen durch andere
-    Vorschriften verboten ist, das Fahrzeug zu betreten, muß dieses Verbot
-    angezeigt werden durch
+    Vorschriften verboten ist, das Fahrzeug zu betreten, muss dieses
+    Verbot angezeigt werden durch
 
-    runde weiße Tafeln mit rotem Rand, rotem Schrägstrich und einem
-    schwarzen Sinnbild des Fußgängers.
+    *        *   runde weiße Symbole mit rotem Rand, rotem Schrägstrich und einem
+            schwarzen Sinnbild der abwehrenden Hand.
 
-    ... nicht darstellbares Bild 60
+        *            ![bgbl2_2012_j0623_0010.jpg](bgbl2_2012_j0623_0010.jpg)
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 38
+    *        *
 
-    Die Tafeln sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
-    Abweichend von § 3.03 Nr. 3 muß ihr Durchmesser etwa 0,60 m betragen.
-
-
-2.  Die Tafeln müssen erforderlichenfalls beleuchtet werden, damit sie bei
-    Nacht deutlich sichtbar sind.
+    *        *   Die Symbole sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
+            Ihr Durchmesser muss etwa 0,60 m betragen.
 
 
 
 
-Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu
+
+2.  Die Symbole müssen erforderlichenfalls beleuchtet werden, damit sie
+    bei Nacht deutlich sichtbar sind.
+
+
+3.  Die Symbole, die nach der am 31. August 2012 gültigen Fassung der
+    Moselschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
+    zum 31. August 2016 verwendet werden.
+
+
+
+
+Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu
 verwenden
 
 ##### § 3.32 (Anlage 3: Bild 61)
@@ -3818,26 +3878,33 @@ verwenden
     a)  zu rauchen,
 
 
-    b)  ungeschütztes Licht oder Feuer zu verwenden, muss dieses Verbot
-        angezeigt werden durch
-
-        runde weiße Tafeln mit rotem Rand und rotem Schrägstrich, auf denen
-        eine brennende Zigarette abgebildet ist.
-
-        ... nicht darstellbares Bild 61
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 39
-
-        Die Tafeln sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
-
-        Abweichend von § 3.03 Nr. 3 muss ihr Durchmesser etwa 0,60 m betragen.
+    b)  ungeschütztes Licht oder Feuer zu verwenden,
 
 
 
+    das Fahrzeug zu betreten, muss dieses Verbot angezeigt werden durch
+
+    *        *   runde weiße Symbole mit rotem Rand und rotem Schrägstrich, auf denen
+            ein brennendes Streichholz abgebildet ist.
+
+        *            ![bgbl2_2012_j0624_0010.jpg](bgbl2_2012_j0624_0010.jpg)
+
+    *        *
+
+    *        *   Die Symbole sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
+            Ihr Durchmesser muss etwa 0,60 m betragen.
 
 
-2.  Die Tafeln müssen erforderlichenfalls beleuchtet werden, damit sie bei
-    Nacht deutlich sichtbar sind.
+
+
+
+2.  Die Symbole müssen erforderlichenfalls beleuchtet werden, damit sie
+    bei Nacht deutlich sichtbar sind.
+
+
+3.  Die Symbole, die nach der am 31. August 2012 gültigen Fassung der
+    Moselschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
+    zum 31. August 2016 verwendet werden.
 
 
 
@@ -5688,6 +5755,16 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
     oder behindert. Dabei sind insbesondere Wind- und
     Wasserstandsschwankungen sowie Sog und Wellenschlag zu
     berücksichtigen.
+
+
+5.  Fahrzeuge dürfen nur über sichere Zugänge betreten oder verlassen
+    werden. Sind geeignete Landanlagen vorhanden, dürfen keine anderen
+    Einrichtungen benutzt werden. Sind Abstände zwischen Fahrzeug und Land
+    vorhanden, müssen Landstege nach § 10.02 Nummer 2 Buchstabe d der
+    Rheinschiffsuntersuchungsordnung ausgelegt und sicher befestigt sein;
+    deren Geländer müssen gesetzt sein. Wird das Beiboot als Zugang
+    benutzt und ist ein Höhenunterschied zwischen Beiboot und Deck zu
+    überwinden, ist ein geeigneter, sicherer Aufstieg zu benutzen.
 
 
 
@@ -8285,25 +8362,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-... nicht darstellbare 2 Bilder 60
 
-*
-    § 3.31 Verbot, das Fahrzeug zu betreten
+*    *   Nachtbezeichnung
 
+    *   Bild
 
-
-
+    *   Tagbezeichnung
 
 
-... nicht darstellbare 2 Bilder 61
-(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 92)
+*    *        ![bgbl2_2012_j0624_0020.jpg](bgbl2_2012_j0624_0020.jpg)
+    *   60
 
-*
-    § 3.32 Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu
-        verwenden.
+    *        ![bgbl2_2012_j0624_0030.jpg](bgbl2_2012_j0624_0030.jpg)
+
+*    *   § 3.31 Verbot, das Fahrzeug zu betreten
 
 
 
+
+*    *   Nachtbezeichnung
+
+    *   Bild
+
+    *   Tagbezeichnung
+
+
+*    *        ![bgbl2_2012_j0624_0040.jpg](bgbl2_2012_j0624_0040.jpg)
+    *   60
+
+    *        ![bgbl2_2012_j0624_0050.jpg](bgbl2_2012_j0624_0050.jpg)
+
+*    *   § 3.32 Verbot zu rauchen, ungeschütztes Licht oder Feuer zu verwenden
 
 
 

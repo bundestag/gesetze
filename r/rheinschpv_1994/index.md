@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl II: 1994, 3816 [Anlageband]
 
 Zuletzt geändert durch
-:   Beschlüsse v. 29.5.2008 (Protokoll 21), v. 27.11.2008 (Protokoll 9), v. 3.12.2009 (Protokoll 18), v. 8./9.12.2010 (Protokoll 24) und v. 8./9.12.2010 (Protokoll 25) iVm Art. 1 Nr. 7, 8, 11, 14 und 15 V v. 16.12.2011 II 1300
-
-Änderung durch
-:   Art. 3 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+:   Art. 3 V v. 21.6.2012 II 618
 
 
 ## Inhaltsverzeichnis
