@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 1300
 
-Änderung durch
-:   Art. 2 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+Geändert durch
+:   Art. 2 V v. 21.6.2012 II 618
 
 
 ## Eingangsformel
@@ -146,7 +146,7 @@ gesetzt:
 12. Beschluss vom 3. Dezember 2009 zur Änderung der
     Rheinschifffahrtspolizeiverordnung – Anlage 2 Abschnitt A zu Protokoll
     20 –, mit Ausnahme der Änderungen zu § 11.02 Nummer 3 Tabelle Nummer
-    3\.1 Buchstabe e Doppelbuchstabe bb und § 12.01 Nummer 1 Satzteil vor
+    3\.5 Buchstabe e Doppelbuchstabe bb und § 12.01 Nummer 1 Satzteil vor
     Buchstabe a und Buchstabe l, Nummer 3 zweiter Spiegelstrich und Nummer
     6 Buchstabe c erster und zweiter Spiegelstrich;
 
@@ -524,7 +524,8 @@ untersagt, auf dem Rhein ein Fahrzeug zu führen,
 
 
 3.  wenn die Gültigkeit des Rheinpatentes nach § 7.20 Nummer 1 Buchstabe a
-    Satzteil vor Satz 2 der Schiffspersonalverordnung-Rhein ruht,
+    Satzteil vor Satz 2, auch in Verbindung mit § 7.24 Nummer 3 Satz 3,
+    oder Buchstabe b der Schiffspersonalverordnung-Rhein ruht,
 
 
 4.  wenn die Gültigkeit des als gleichwertig anerkannten
@@ -721,7 +722,7 @@ Es werden aufgehoben:
 
 
 
-3,  Verordnung zur Einführung der Verordnung über Sicherheitspersonal in
+3.  Verordnung zur Einführung der Verordnung über Sicherheitspersonal in
     der Fahrgastschifffahrt vom 19. September 2005 (BGBl. 2005 II S.
     1090), die zuletzt durch Artikel 3 § 1 der Verordnung vom 19. Dezember
     2008 (BGBl. I S. 2868; 2010 I S. 380) geändert worden ist,
@@ -729,7 +730,7 @@ Es werden aufgehoben:
 
 
 
-4,  Verordnung vom 25. November 2004 über Sicherheitspersonal in der
+4.  Verordnung vom 25. November 2004 über Sicherheitspersonal in der
     Fahrgastschifffahrt (BGBl. 2005 II S. 1090, 1093),
 
 
