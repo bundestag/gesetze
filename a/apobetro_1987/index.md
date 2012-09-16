@@ -2337,11 +2337,6 @@ Behältnisses vorsehen.
 
 
 
-### § 36
-
-(weggefallen)
-
-
 ### § 36 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das
@@ -2534,11 +2529,6 @@ erteilt worden ist, ist § 35 Absatz 5 ab dem 1. Juni 2013 anzuwenden;
 bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich
 mindestens den Anforderungen der Klasse A für die lokale Zone und der
 Klasse C für den Umgebungsbereich entsprechen.
-
-
-### § 37 (weggefallen)
-
--
 
 
 ### Anlage 1 (weggefallen)

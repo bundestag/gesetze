@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2011-12-16
 
 Fundstelle
-:   BGBl I: 2012, 2
+:   BGBl I: 2012, 2 (1717)
 
 
 ## Eingangsformel

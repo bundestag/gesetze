@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 769
 
 Zuletzt geändert durch
-:   § 38 Abs. 7 V v. 16.12.2011; 2012 I 2
+:   § 38 Abs. 7 V v. 16.12.2011; 2012 I 2 (1717)
 
 
 ## Eingangsformel
@@ -62,7 +62,7 @@ Im Sinne dieser Verordnung sind
 
     a)  Binnenschifffahrtsstraßen-Ordnung
 
-        Binnenschifffahrtsstraßen-Ordnung (Anlage zu Artikel 1 Absatz 1 der
+        Binnenschifffahrtsstraßen-Ordnung (Anlage zu § 1 Absatz 1 der
         Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom
         16\. Dezember 2011 (BGBl. 2012 I S. 2)) in der jeweils geltenden und
         anzuwendenden Fassung,
