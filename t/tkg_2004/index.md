@@ -8955,9 +8955,45 @@ Rechte und Verpflichtungen nach diesem Gesetz im Sinne der §§ 126 und
 (6) § 48 Abs. 2 Nr. 2 gilt für Geräte, die ab dem 1. Januar 2005 in
 Verkehr gebracht werden.
 
-(7) Bis zum Erlass eines Frequenznutzungsplanes nach § 54 erfolgt die
-Frequenzzuteilung nach Maßgabe der Bestimmungen des geltenden
-Frequenzbereichszuweisungsplanes.
+(7) Warteschleifen dürfen bis zum Inkrafttreten von § 66g nur
+eingesetzt werden, wenn eine der folgenden Voraussetzungen erfüllt
+ist:
+
+1.  der Anruf erfolgt zu einer entgeltfreien Rufnummer,
+
+
+2.  der Anruf erfolgt zu einer ortsgebundenen Rufnummer oder einer
+    Rufnummer, die die Bundesnetzagentur den ortsgebundenen Rufnummern
+    nach § 66g Absatz 3 gleichgestellt hat,
+
+
+3.  der Anruf erfolgt zu einer Rufnummer für mobile Dienste (015, 016 oder
+    017),
+
+
+4.  für den Anruf gilt ein Festpreis pro Verbindung,
+
+
+5.  der Anruf ist für die Dauer der Warteschleife für den Anrufer
+    kostenfrei, soweit es sich nicht um Kosten handelt, die, bei Anrufen
+    aus dem Ausland, für die Herstellung der Verbindung im Ausland
+    entstehen, oder
+
+
+6.  unabhängig von der vom Angerufenen verwendeten Rufnummer oder der
+    grundsätzlichen Tarifierung des Anrufs sind mindestens zwei Minuten
+    der Verbindung ab Rufaufbau für den Anrufer kostenfrei; wird die
+    Warteschleife innerhalb dieser Zeit durch Bearbeitung beendet, endet
+    die Kostenfreiheit ab dem Zeitpunkt der Bearbeitung.
+
+
+
+Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Satz
+1 Warteschleifen einsetzt. Die Ordnungswidrigkeit kann mit einer
+Geldbuße bis zu hunderttausend Euro geahndet werden. Die Geldbuße soll
+den wirtschaftlichen Vorteil, den der Täter aus der Ordnungswidrigkeit
+gezogen hat, übersteigen. Reicht der in Satz 3 genannte Betrag hierfür
+nicht aus, so kann er überschritten werden.
 
 (8) Auf Verleihungen nach § 2 Abs. 1 des Gesetzes über
 Fernmeldeanlagen in der Fassung der Bekanntmachung vom 3. Juli 1989
