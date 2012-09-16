@@ -18,9 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 35 G v. 20.12.2011 I 2854
 
-Mittelbare änderung durch
-:   Art. 3 G v. 23.11.2011 I 2298 ist nicht berücksichtigt
-
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
 
