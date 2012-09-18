@@ -6751,7 +6751,7 @@ Jahren.
 4.  ohne Zustimmung oder gegen ihren geäußerten Willen,
 
 
-dazu bewegt, sexuelle Handlungen des Täters oder eines Dritten an sich zu
+dazu bringt, sexuelle Handlungen des Täters oder eines Dritten an sich zu
 dulden oder an dem Täter oder einem Dritten vorzunehmen, wird mit
 Freiheitsstrafe nicht unter einem Jahr bestraft.
 
