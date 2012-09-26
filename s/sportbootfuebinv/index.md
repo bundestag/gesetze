@@ -641,8 +641,7 @@ fahrlässig
 1.  ein Sportboot ohne Fahrerlaubnis nach § 2 Abs. 1 führt,
 
 
-2.  entgegen § 2 Abs. 4 Satz 1 das Führen eines Sportbootes anordnet oder
-    zuläßt,
+2.  entgegen § 2 Abs. 3 einen Befähigungsnachweis nicht mitführt,
 
 
 3.  entgegen § 2 Abs. 4 Satz 1 das Führen eines Sportbootes anordnet oder
