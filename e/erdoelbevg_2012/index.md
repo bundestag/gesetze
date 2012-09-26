@@ -757,7 +757,7 @@ Stimmen einzuräumen.
 (2) Die weiteren Stimmen sind entsprechend der nach Absatz 1
 maßgeblichen Mindestmenge zu staffeln. Diese Mindestmenge soll so
 festgelegt werden, dass das Stimmrecht der Mitglieder ihren Anteil am
-Beitragsaufkommen angemessen berücksichtigt. Gleich-zeitig sind
+Beitragsaufkommen angemessen berücksichtigt. Gleichzeitig sind
 berechtigte Minderheitsinteressen zu schützen und ist dem Erfordernis,
 arbeitsfähige Mehrheiten zu bilden, Rechnung zu tragen.
 

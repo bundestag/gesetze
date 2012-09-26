@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 788
 
 Zuletzt geändert durch
-:   Art. 11 G v. 24.11.2011 I 2302
+:   Art. 6 G v. 17.8.2012 I 1726
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -3274,7 +3274,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3102
 
     *   Verfahrensgebühr für Verfahren vor den Sozialgerichten, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG) .
+        Betragsrahmengebühren entstehen (§ 3 RVG).
 
     *   40,00 bis 460,00 EUR
 
@@ -3368,7 +3368,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3106
 
     *   Terminsgebühr in Verfahren vor den Sozialgerichten, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG) .
+        Betragsrahmengebühren entstehen (§ 3 RVG).
 
     *   20,00 bis 380,00 EUR
 
@@ -3468,7 +3468,10 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         8.  in Beschwerde- und Rechtsbeschwerdeverfahren nach dem EnWG,
 
 
-        9.  in Beschwerde- und Rechtsbeschwerdeverfahren nach dem VSchDG.
+        9.  in Beschwerde- und Rechtsbeschwerdeverfahren nach dem VSchDG und
+
+
+        10. in Beschwerde- und Rechtsbeschwerdeverfahren nach dem KSpG.
 
 
 
@@ -3699,7 +3702,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3213
 
     *   Terminsgebühr in Verfahren vor dem Bundessozialgericht, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG) .
+        Betragsrahmengebühren entstehen (§ 3 RVG).
 
     *   40,00 bis 700,00 EUR
 
@@ -4078,7 +4081,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3321
 
     *   Verfahrensgebühr für das Verfahren über einen Antrag auf Versagung
-        oder Widerruf der Restschuldbefreiung .
+        oder Widerruf der Restschuldbefreiung.
 
     *   0,5
 
@@ -4185,7 +4188,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Verfahrensgebühr für Verfahren auf Vollstreckbarerklärung der durch
         Rechtsmittelanträge nicht angefochtenen Teile eines Urteils (§§ 537,
-        558 ZPO) .
+        558 ZPO).
 
     *   0,5
 
@@ -4268,7 +4271,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Vorzeitige Beendigung des Auftrags im Fall der Nummern 3324 bis 3327,
         3334 und 3335:
-        Die Gebühren 3324 bis 3327, 3334 und 3335 betragen.................
+        Die Gebühren 3324 bis 3327, 3334 und 3335 betragen .................
 
     *   0,5
 
@@ -4342,7 +4345,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 *    *   3402
 
-    *   Terminsgebühr in dem in Nummer 3401 genannten Fall .
+    *   Terminsgebühr in dem in Nummer 3401 genannten Fall.
 
     *   in Höhe der einem Verfahrensbevollmächtigten zustehenden Terminsgebühr
 
@@ -4350,7 +4353,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3403
 
     *   Verfahrensgebühr für sonstige Einzeltätigkeiten, soweit in Nummer 3406
-        nichts anderes bestimmt ist ..
+        nichts anderes bestimmt ist.
 
     *   0,8
 
@@ -5659,7 +5662,7 @@ Strafsachen
 
 
 
-        6.  sonstige Tätigkeiten in der Strafvollstreckung................
+        6.  sonstige Tätigkeiten in der Strafvollstreckung ................
 
 
 
@@ -5716,7 +5719,7 @@ Strafsachen
 *    *   4304
 
     *   Gebühr für den als Kontaktperson beigeordneten Rechtsanwalt (§ 34a
-        EGGVG) .
+        EGGVG).
 
     *
     *   3 000,00 EUR
@@ -6337,7 +6340,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 5 und bis 8
         Stunden an der Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6204 .
+        Zusätzliche Gebühr neben der Gebühr 6204.
 
     *
     *   108,00 EUR
@@ -6347,7 +6350,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 8 Stunden an der
         Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6204 .
+        Zusätzliche Gebühr neben der Gebühr 6204.
 
     *
     *   216,00 EUR
@@ -6382,7 +6385,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 5 und bis 8
         Stunden an der Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6208 .
+        Zusätzliche Gebühr neben der Gebühr 6208.
 
     *
     *   108,00 EUR
@@ -6392,7 +6395,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 8 Stunden an der
         Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6208 .
+        Zusätzliche Gebühr neben der Gebühr 6208.
 
     *
     *   216,00 EUR
@@ -6427,7 +6430,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 5 und bis 8
         Stunden an der Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6212 .
+        Zusätzliche Gebühr neben der Gebühr 6212.
 
     *
     *   114,00 EUR
@@ -6437,7 +6440,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 8 Stunden an der
         Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6212 .
+        Zusätzliche Gebühr neben der Gebühr 6212.
 
     *
     *   228,00 EUR
@@ -6803,7 +6806,7 @@ Auslagen
 *    *   7003
 
     *   Fahrtkosten für eine Geschäftsreise bei Benutzung eines eigenen
-        Kraftfahrzeugs für jeden gefahrenen Kilometer .
+        Kraftfahrzeugs für jeden gefahrenen Kilometer.
 
     *   0,30 EUR
 

@@ -349,17 +349,19 @@ darf nur aus wichtigen Gründen abgelehnt werden.
 
 
 
-(2) Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen
-auch diejenigen Deutschen im Sinne des Artikels 116 Abs. 1 des
+(2)
+Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen auch
+diejenigen Deutschen im Sinne des Artikels 116 Abs. 1 des
 Grundgesetzes, die am Wahltag außerhalb der Bundesrepublik Deutschland
 leben, sofern sie nach dem 23. Mai 1949 und vor ihrem Fortzug
 mindestens drei Monate ununterbrochen in der Bundesrepublik
 Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich
-aufgehalten haben. Als Wohnung oder gewöhnlicher Aufenthalt im Sinne
-von Satz 1 gilt auch eine frühere Wohnung oder ein früherer Aufenthalt
-in dem in Artikel 3 des Einigungsvertrages genannten Gebiet. Bei
-Rückkehr eines nach Satz 1 Wahlberechtigten in die Bundesrepublik
-Deutschland gilt die Dreimonatsfrist des Absatzes 1 Nr. 2 nicht.
+aufgehalten haben.              Als Wohnung oder gewöhnlicher
+Aufenthalt im Sinne von Satz 1 gilt auch eine frühere Wohnung oder ein
+früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages
+genannten Gebiet. Bei Rückkehr eines nach Satz 1 Wahlberechtigten in
+die Bundesrepublik Deutschland gilt die Dreimonatsfrist des Absatzes 1
+Nr. 2 nicht.
 
 (3) Wohnung im Sinne des Gesetzes ist jeder umschlossene Raum, der zum
 Wohnen oder Schlafen benutzt wird. Wohnwagen und Wohnschiffe sind

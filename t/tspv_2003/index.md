@@ -17,7 +17,7 @@ Fundstelle
 :   VkBl: 2003, 230
 
 Geändert durch
-:   § 38 Abs. 8 V v. 16.12.2011; 2012 I 21
+:   § 38 Abs. 8 V v. 16.12.2011; 2012 I 2 (1717)
 
 
 
@@ -78,7 +78,7 @@ bedeuten
 
 1.  Binnenschifffahrtsstraßen-Ordnung:
 
-    Anlage zu Artikel 1 Absatz 1 der Verordnung zur Einführung der
+    Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der
     Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I
     S. 2) in der jeweils geltenden und anzuwendenden Fassung,
 

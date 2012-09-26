@@ -13,7 +13,7 @@ slug: graendstvtr_bb_sn
 # Staatsvertrag zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze) (GrÄndStVtr BB/SN)
 
 Ausfertigungsdatum
-:   1998-04-21
+:   1998-05-15
 
 Fundstelle
 :   BGBl I: 2010, 1360

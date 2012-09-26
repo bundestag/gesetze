@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2008, 2450
 
 Geändert durch
-:   § 39 Abs. 2 V v. 16.12.2011; 2012 I 2
+:   § 38 Abs. 2 V v. 16.12.2011; 2012 I 2 (1717)
 
 Stand: Inkraft gem. Art. 1 V v. 19.12.2008 I 2868 mWv 1.1.2009
 [^F771547_01_BJNR245000008]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/87/EG des
@@ -232,7 +232,7 @@ bedeuten
 
 2.  Binnenschifffahrtsstraßen-Ordnung
 
-    Anlage zu Artikel 1 Absatz 1 der Verordnung zur Einführung der
+    Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der
     Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I
     S. 2) in der jeweils geltenden und anzuwendenden Fassung,
 

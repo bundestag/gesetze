@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2970
 
 Zuletzt geändert durch
-:   Art. 1 G v. 7.12.2011 I 2576
-
-Hinweis: mittelbare änderung durch
-:   Art. 6 Nr. 1 Buchst. b DBuchst. bb u. cc u. Art. 6 Nr. 3 Buchst. a G v. 7.12.2011 I 2576 ist berücksichtigt
+:   Art. 2 G v. 20.8.2012 I 1798
 
 
 ## Erster Abschnitt - Zusammenarbeit, Aufgaben der Verfassungsschutzbehörden
@@ -244,13 +241,13 @@ nach § 9 des Bundesdatenschutzgesetzes. Die Führung von Textdateien
 oder Dateien, die weitere als die in Satz 2 genannten Daten enthalten,
 ist unter den Voraussetzungen dieses Paragraphen nur zulässig für eng
 umgrenzte Anwendungsgebiete zur Aufklärung von sicherheitsgefährdenden
-oder geheimdienstlichen Tätigkeiten für eine fremde Macht oder von
-Bestrebungen, die darauf gerichtet sind, Gewalt anzuwenden oder
-Gewaltanwendung vorzubereiten. Die Zugriffsberechtigung ist auf
-Personen zu beschränken, die unmittelbar mit Arbeiten in diesem
-Anwendungsgebiet betraut sind; in der Dateianordnung (§ 14) ist die
-Erforderlichkeit der Aufnahme von Textzusätzen in der Datei zu
-begründen.
+oder geheimdienstlichen Tätigkeiten für eine fremde Macht, von
+rechtsextremistischen Bestrebungen oder von Bestrebungen, die darauf
+gerichtet sind, Gewalt anzuwenden oder Gewaltanwendung vorzubereiten.
+Die Zugriffsberechtigung ist auf Personen zu beschränken, die
+unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind; in
+der Dateianordnung (§ 14) ist die Erforderlichkeit der Aufnahme von
+Textzusätzen in der Datei zu begründen.
 
 
 ### § 7 Weisungsrechte des Bundes

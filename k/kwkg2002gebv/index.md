@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1231
 
-Geändert durch
-:   Art. 1 V v. 23.2.2009 I 402
+Zuletzt geändert durch
+:   Art. 1 V v. 3.9.2012 I 1875
 
 
 
@@ -36,12 +36,16 @@ Ausfuhrkontrolle nach dem Kraft-Wärme-Kopplungsgesetz werden Gebühren
 und Auslagen erhoben.
 
 (2) Die Gebührensätze für die Zulassung von Kraft-Wärme-
-Kopplungsanlagen, die ab dem 1. Januar 2009 in Dauerbetrieb gegangen
-sind, für die Zulassung des Neu- und Ausbaus von Wärmenetzen und für
-die Ausstellung von Herkunftsnachweisen für Strom aus hocheffizienter
-Kraft-Wärme-Kopplung ergeben sich aus Anlage 1. Für die Zulassung von
-Kraft-Wärme-Kopplungsanlagen, die bis zum 31. Dezember 2008 in
-Dauerbetrieb genommen wurden, gilt Anlage 2.
+Kopplungsanlagen, die ab dem 19. Juli 2012 in Dauerbetrieb gegangen
+sind, für die Zulassung des Neu- und Ausbaus von Wärmenetzen, deren
+Inbetriebnahme ab dem 1. Januar 2012 erfolgt ist, für die Zulassung
+des Neu- und Ausbaus von Kältenetzen, für die Zulassung des Neu- und
+Ausbaus von Wärme- und Kältespeichern und für die Ausstellung von
+Herkunftsnachweisen für Strom aus hocheffizienter Kraft-Wärme-Kopplung
+ergeben sich aus Anlage 1. Für die Zulassung von Kraft-Wärme-
+Kopplungsanlagen, die bis zum 18. Juli 2012 in Dauerbetrieb gegangen
+sind und für die Zulassung von Wärmenetzen, deren Inbetriebnahme bis
+zum 31. Dezember 2011 erfolgt ist, ist Anlage 2 anzuwenden.
 
 (3) Hinsichtlich der Auslagen gilt § 10 des Verwaltungskostengesetzes.
 Auslagen für Telekommunikationsleistungen werden nicht erhoben.
@@ -78,7 +82,162 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage 1 Gebührenverzeichnis
 
-(Fundstelle: BGBl I 2009, 402)
+(Fundstelle: BGBl. I 2012, 1875 - 1876)
+
+
+*    *   Amtshandlungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+
+    *   Gebührensatz
+
+
+*    *   1.
+
+    *   Bearbeitung eines Antrags auf Zulassung von Kraft-Wärme-
+        Kopplungsanlagen (KWK-Anlagen) gemäß § 6 des Kraft-Wärme-
+        Kopplungsgesetzes
+
+    *
+
+*    *
+    *   a)
+
+    *[^F1_778162_BJNR123100002BJNE000700140]
+   KWK-Anlagen bis 50 Kilowatt elektrischer Leistung
+
+    *   100 Euro
+
+
+*    *
+    *   b)
+
+    *   KWK-Anlagen mit mehr als 50 Kilowatt elektrischer Leistung
+
+    *   0,2 %
+        der maßgeblichen
+        KWK-Zuschläge
+        maximal 30 000 Euro
+
+
+*    *
+    *
+    *   Berechnung der für die Gebührenfestlegung maßgeblichen KWK-Zuschläge:
+
+
+*    *
+    *
+    *   Diese ergeben sich aus der Multiplikation folgender Faktoren:
+
+    *
+
+*    *
+    *
+    *   Faktor 1:
+
+    *   Maximale elektrische Leistung der KWK-Anlage in Kilowatt
+
+    *
+
+*    *
+    *
+    *   Faktor 2:
+
+    *   Maximum der zuschlagsberechtigten Vollbenutzungsstunden gemäß § 7 des
+        Kraft-Wärme-Kopplungsgesetzes
+
+    *
+
+*    *
+    *
+    *   Faktor 3:
+
+    *   Zuschlagssätze (nach Leistungsanteilen gestaffelt) in Cent je
+        Kilowattstunde gemäß § 7 des Kraft-Wärme-Kopplungsgesetzes
+
+    *
+
+*    *   2.
+
+    *   Bearbeitung eines Antrags auf Zulassung des Neu- und Ausbaus von
+        Wärme- und Kältenetzen gemäß § 6a des Kraft-Wärme-Kopplungsgesetzes
+
+    *
+        *            *   0,2 %
+                der in der Zulassung
+                festgelegten Zuschläge
+
+
+        *            *   mindestens
+
+            *   100 Euro
+
+
+
+
+        *            *   maximal
+
+            *   20 000 Euro
+
+
+
+
+
+*    *   3.
+
+    *[^F2_778162_BJNR123100002BJNE000700140]
+   Bearbeitung eines Antrags auf Zulassung des Neu- und Ausbaus von
+        Wärme- und Kältespeichern gemäß § 6b des Kraft-Wärme-Kopplungsgesetzes
+
+    *   25 Euro für Speicher bis 5 m
+        3                       ,
+        100 Euro für Speicher
+        über 5 m
+        3                        bis 200 m
+        3                       ,
+        0,2 % der in der Zulassung
+        festgelegten Zuschläge
+        für Speicher ab 200 m
+        3
+
+        *            *   maximal
+
+            *   10 000 Euro
+
+
+
+
+
+*    *   4.
+
+    *   Bearbeitung eines Antrags auf Ausstellung eines Herkunftsnachweises
+        für Strom aus hocheffizienter Kraft-Wärme-Kopplung gemäß § 9a des
+        Kraft-Wärme-Kopplungsgesetzes
+
+    *   200 Euro
+
+
+*    *
+
+
+
+   Es werden keine Gebühren für die Zulassung von Kraft-Wärme-
+    Kopplungsanlagen bis 50 Kilowatt elektrischer Leistung erhoben, wenn
+    die Zulassung für diese Anlagen in Form der Allgemeinverfügung
+    (Typengenehmigung) gemäß § 6 Absatz 6 des Kraft-Wärme-
+    Kopplungsgesetzes durch das Bundesamt für Wirtschaft und
+    Ausfuhrkontrolle erteilt wird.
+[^F1_778162_BJNR123100002BJNE000700140]:     Es werden keine Gebühren für die Zulassung von Wärme- und
+    Kältespeichern bis 5 Kubikmeter Wasseräquivalent erhoben, wenn die
+    Zulassung für diese Anlagen in Form der Allgemeinverfügung
+    (Typengenehmigung) gemäß § 6b Absatz 5 des Kraft-Wärme-
+    Kopplungsgesetzes durch das Bundesamt für Wirtschaft und
+    Ausfuhrkontrolle erteilt wird.
+[^F2_778162_BJNR123100002BJNE000700140]: 
+(zu § 1 Absatz 2 Satz 2)
+
+## Anlage 2 Gebührenverzeichnis
+
+(Fundstelle: BGBl. I 2009, 402;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Amtshandlungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
@@ -96,7 +255,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 *    *
     *   a)
 
-    *[^F1_771916_BJNR123100002BJNE000600377]
+    *[^F1_771916_BJNR123100002BJNE000601140]
    Anlagen bis 50 Kilowatt elektrischer Leistung
 
     *   75 Euro
@@ -200,12 +359,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     (Typengenehmigung) gemäß § 6 Absatz 6 des Kraft-Wärme-
     Kopplungsgesetzes durch das Bundesamt für Wirtschaft und
     Ausfuhrkontrolle erteilt wird.
-[^F1_771916_BJNR123100002BJNE000600377]: 
+[^F1_771916_BJNR123100002BJNE000601140]: 
 (zu § 1 Absatz 2 Satz 2)
 
-## Anlage 2 Gebührenverzeichnis
+## Anlage 3 Gebührenverzeichnis
 
-(Fundstelle des Originaltextes: BGBl. I 2002, 1231;
+(Fundstelle: BGBl. I 2002, 1231;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 

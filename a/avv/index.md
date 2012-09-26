@@ -3451,7 +3451,7 @@ Kapitel des Verzeichnisses
 
 *    *   12 01 10\*
 
-    *   synthetische Bearbeitungsöle Abfall-Abfallbezeichnung Schlüssel
+    *   synthetische Bearbeitungsöle
 
 
 *    *   12 01 12\*

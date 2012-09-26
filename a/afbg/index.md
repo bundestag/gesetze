@@ -286,13 +286,13 @@ Fortbildungsplan abweicht, wird nur gefördert, wenn er
 
 
 3.  einen im Fortbildungsplan angegebenen Maßnahmeabschnitt, der nicht
-    mehr angeboten wird, weitgehend ersetzt und die geänderte
-    Gesamtmaßnahme weiterhin die Fördervoraussetzungen des § 2 Absatz 3
-    erfüllt und die Förderungshöchstdauer nach § 11 Absatz 1 nicht
-    überschritten wird.
+    mehr angeboten wird, weitgehend ersetzt
 
 
 
+und die geänderte Gesamtmaßnahme weiterhin die Fördervoraussetzungen
+des § 2 Absatz 3 erfüllt und die Förderungshöchstdauer nach § 11
+Absatz 1 nicht überschritten wird.
 
 (3) Die Vorbereitung auf ein weiteres Fortbildungsziel im Sinne von §
 2 Absatz 1 Nummer 2 wird gefördert, wenn dem Teilnehmer oder der
@@ -473,7 +473,7 @@ absolviert und er oder sie sich um einen erfolgreichen Abschluss
 bemüht. Er oder sie muss bis zum letzten Unterrichtstag der Maßnahme
 die Voraussetzungen für die Zulassung zur Prüfung erfüllen können. Der
 Teilnehmer oder die Teilnehmerin ist verpflichtet, nach der Hälfte der
-Laufzeit der Maßnahme, spätestens nach sechs Monaten, einen Nachweis
+Laufzeit der Maßnahme, spätestens nach sechs Monaten einen Nachweis
 des Bildungsträgers über die regelmäßige Teilnahme an der Maßnahme zu
 erbringen. Bei längeren Maßnahmen, Maßnahmen mit mehreren
 Maßnahmeabschnitten oder in besonderen Fällen können darüber hinaus
@@ -535,11 +535,10 @@ Kalendermonaten gefördert (Förderungshöchstdauer). Abweichend von Satz
     lebenden Angehörigen übernommen werden kann, oder
 
 
-2.  andere besondere Umstände des Einzelfalles
+2.  andere besondere Umstände des Einzelfalles dies rechtfertigen oder
 
 
 
-dies rechtfertigen oder
 
 3.  die längere Dauer der Vorbereitung auf das Fortbildungsziel rechtlich
     vorgeschrieben ist.
@@ -666,7 +665,7 @@ Darlehensbeträge für bereits abgelaufene Monate sind mit dem für den
 nächsten Monat fälligen Betrag, sonst unverzüglich, zu zahlen. Das
 Darlehen nach § 12 Absatz 1 ist mit Ausnahme der Kosten für die
 Prüfungsgebühr bis zu der im Bescheid angegebenen Höhe, in der Regel
-höchstens bis zu einem Betrag von 4 000 Euro, unbar in einem Betrag zu
+höchstens bis zu einem Betrag von 4 000 Euro unbar in einem Betrag zu
 zahlen. Die Erstattung der Prüfungsgebühr erfolgt nach Maßgabe des §
 24 Absatz 1 Satz 4. Über die Auszahlung höherer Darlehen trifft die
 Kreditanstalt für Wiederaufbau mit dem Darlehensnehmer oder der
@@ -1051,7 +1050,7 @@ Sozialgesetzbuch gilt entsprechend für denjenigen oder diejenige, der
 oder die Leistungen zu erstatten hat und den jeweiligen Ehegatten oder
 Lebenspartner des Antragstellers oder der Antragstellerin.
 
-(3) Öffentliche und nichtöffentliche Stellen dürfen personenbezogene
+(3) Öffentliche und nicht öffentliche Stellen dürfen personenbezogene
 Informationen, die zur Durchführung dieses Gesetzes erforderlich sind,
 den für die Durchführung dieses Gesetzes zuständigen Behörden auf
 deren Verlangen übermitteln, soweit hierdurch schutzwürdige Belange
@@ -1281,7 +1280,7 @@ folgende Erhebungsmerkmale:
     Teilnehmerin, Monat und Jahr des Beginns und Endes des
     Bewilligungszeitraums sowie Art, Zusammensetzung und Höhe des
     Unterhaltsbeitrages während der Maßnahme nach § 12 Absatz 2 sowie
-    während der Prüfungsvorbereitungsphase nach § 12 Absatz 3, gegliedert
+    während der Prüfungsvorbereitungsphase nach § 12 Absatz 3 gegliedert
     nach Monaten, Höhe und Zusammensetzung des Einkommens nach § 21 und
     den Freibetrag nach § 23 Absatz 1 Satz 2 sowie, wenn eine
     Vermögensanrechnung erfolgt, die Höhe des Vermögens nach § 27 und des
@@ -1325,7 +1324,7 @@ entsprechend.
 
 ### § 28 Aufbringung der Mittel
 
-(1) Die Ausgaben nach diesem Gesetz, einschließlich der Erstattung an
+(1) Die Ausgaben nach diesem Gesetz einschließlich der Erstattung an
 die Kreditanstalt für Wiederaufbau nach § 14 Absatz 2 werden vom Bund
 zu 78 vom Hundert und von den Ländern zu 22 vom Hundert getragen.
 

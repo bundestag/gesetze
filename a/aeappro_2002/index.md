@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2405
 
 Zuletzt geändert durch
-:   Art. 30 G v. 6.12.2011 I 2515
+:   Art. 4 V v. 17.7.2012 I 1539
 
 
 ## Eingangsformel
@@ -76,11 +76,11 @@ und patientenbezogen durchgeführt. Sie soll
 
 
 auf der Basis des aktuellen Forschungsstandes vermitteln. Die
-Ausbildung soll auch Gesichtspunkte ärztlicher Qualitätssicherung
-beinhalten und die Bereitschaft zur Zusammenarbeit mit anderen Ärzten
-und mit Angehörigen anderer Berufe des Gesundheitswesens fördern. Das
-Erreichen dieser Ziele muss von der Universität regelmäßig und
-systematisch bewertet werden.
+Ausbildung soll auch Gesichtspunkte ärztlicher Gesprächsführung sowie
+ärztlicher Qualitätssicherung beinhalten und die Bereitschaft zur
+Zusammenarbeit mit anderen Ärzten und mit Angehörigen anderer Berufe
+des Gesundheitswesens fördern. Das Erreichen dieser Ziele muss von der
+Universität regelmäßig und systematisch bewertet werden.
 
 (2) Die ärztliche Ausbildung umfasst
 
@@ -227,12 +227,13 @@ wissenschaftlichen und methodischen Kenntnissen durch den Vortrag von
 Lehrkräften.
 
 (7) Die Studierenden weisen durch Bescheinigungen nach dem Muster der
-Anlage 2 zu dieser Verordnung ihre regelmäßige und erfolgreiche
-Teilnahme an den in Absatz 1 Satz 2 und 3 und Absatz 2 Satz 5
-genannten praktischen Übungen, Seminaren und gegenstandsbezogenen
-Studiengruppen sowie den regelmäßigen Besuch der die praktischen
-Übungen vorbereitenden oder begleitenden Vorlesungen nach, soweit
-deren Besuch von der Universität in einer Studienordnung
+Anlage 2 oder durch eine zusammenfassende Bescheinigung nach dem
+Muster der Anlage 2a oder 2b zu dieser Verordnung ihre regelmäßige und
+erfolgreiche Teilnahme an den in Absatz 1 Satz 2 und 3 und Absatz 2
+Satz 5 genannten praktischen Übungen, Seminaren und
+gegenstandsbezogenen Studiengruppen sowie den regelmäßigen Besuch der
+die praktischen Übungen vorbereitenden oder begleitenden Vorlesungen
+nach, soweit deren Besuch von der Universität in einer Studienordnung
 vorgeschrieben ist. In der Studienordnung werden auch die
 Voraussetzungen für die Feststellung der regelmäßigen und
 erfolgreichen Teilnahme an diesen Unterrichtsveranstaltungen geregelt.
@@ -289,7 +290,17 @@ Ausbildungsabschnitte von je 16 Wochen
 Die letzten beiden Monate des Studiums dienen der Nachbereitung der
 praktischen Ausbildung. Absätze 2 bis 6 finden hierauf keine
 Anwendung. Fehlzeiten in den letzten beiden Monaten werden
-angerechnet.
+angerechnet. Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder
+75 Prozent der wöchentlichen Ausbildungszeit absolviert werden. Die
+Gesamtdauer der Ausbildung verlängert sich entsprechend. Die
+Universitäten stellen sicher, dass bis zum Beginn des Praktischen
+Jahres im Oktober 2015 10 Prozent und bis zum Beginn des Praktischen
+Jahres im Oktober 2017  20 Prozent der Studierenden an der jeweiligen
+Universität den Ausbildungsabschnitt nach Satz 4 Nummer 3 in der
+Allgemeinmedizin absolvieren können. Bis zum Beginn des Praktischen
+Jahres im Oktober 2019 stellen die Universitäten sicher, dass alle
+Studierenden der jeweiligen Universität den Ausbildungsabschnitt nach
+Satz 4 Nummer 3 in der Allgemeinmedizin absolvieren können.
 
 (2) Die Ausbildung nach Absatz 1 wird in den Krankenhäusern der
 Universität oder in anderen von der Universität im Einvernehmen mit
@@ -303,8 +314,9 @@ geeignete Einrichtungen der ambulanten ärztlichen Krankenversorgung in
 der Regel für die Dauer von höchstens acht Wochen einbeziehen.
 
 (3) Auf die Ausbildung nach Absatz 1 werden Fehlzeiten bis zu
-insgesamt 20 Ausbildungstagen angerechnet. Bei einer darüber
-hinausgehenden Unterbrechung aus wichtigem Grund sind bereits
+insgesamt 30 Ausbildungstagen angerechnet, davon bis zu insgesamt 20
+Ausbildungstagen innerhalb eines Ausbildungsabschnitts. Bei einer
+darüber hinausgehenden Unterbrechung aus wichtigem Grund sind bereits
 abgeleistete Teile des Praktischen Jahres anzurechnen, soweit sie
 nicht länger als zwei Jahre zurückliegen.
 
@@ -414,7 +426,8 @@ Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen.
 (1) Der dreimonatige Krankenpflegedienst (§ 1 Abs. 2 Satz 1 Nr. 3) ist
 vor Beginn des Studiums oder während der unterrichtsfreien Zeiten des
 Studiums vor der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
-in einem Krankenhaus abzuleisten. Er hat den Zweck, den
+in einem Krankenhaus oder einer Rehabilitationseinrichtung mit einem
+vergleichbaren Pflegeaufwand abzuleisten. Er hat den Zweck, den
 Studienanwärter oder Studierenden in Betrieb und Organisation eines
 Krankenhauses einzuführen und ihn mit den üblichen Verrichtungen der
 Krankenpflege vertraut zu machen. Der Krankenpflegedienst kann in drei
@@ -426,17 +439,27 @@ Abschnitten zu jeweils einem Monat abgeleistet werden.
     oder in vergleichbaren Einrichtungen,
 
 
-2.  eine krankenpflegerische Tätigkeit im Rahmen eines sozialen Jahres
-    nach den Vorschriften des Gesetzes zur Förderung eines freiwilligen
-    sozialen Jahres,
+2.  eine krankenpflegerische Tätigkeit im Rahmen eines freiwilligen
+    sozialen Jahres nach den Vorschriften des Gesetzes zur Förderung eines
+    freiwilligen sozialen Jahres oder nach den Vorschriften des
+    Jugendfreiwilligendienstegesetzes,
 
 
-3.  eine krankenpflegerische Tätigkeit im Rahmen eines Zivildienstes nach
+3.  eine krankenpflegerische Tätigkeit im Rahmen des
+    Bundesfreiwilligendienstes nach den Vorschriften des
+    Bundesfreiwilligendienstgesetzes,
+
+
+4.  eine krankenpflegerische Tätigkeit im Rahmen eines Zivildienstes nach
     den Vorschriften des Zivildienstgesetzes,
 
 
-4.  eine Ausbildung als Hebamme oder Entbindungspfleger, in der
-    Krankenpflege, Kinderkrankenpflege oder Krankenpflegehilfe.
+5.  eine erfolgreich abgeschlossene Ausbildung als Hebamme oder
+    Entbindungspfleger, als Rettungsassistentin oder Rettungsassistent, in
+    der Krankenpflege, Kinderkrankenpflege oder Altenpflege sowie eine
+    erfolgreich abgeschlossene landesrechtlich geregelte Ausbildung von
+    mindestens einjähriger Dauer in der Krankenpflegehilfe oder
+    Altenpflegehilfe.
 
 
 
@@ -463,7 +486,8 @@ Krankenversorgung vertraut zu machen.
     ärztlichen Praxis,
 
 
-2.  für die Dauer von zwei Monaten in einem Krankenhaus und
+2.  für die Dauer von zwei Monaten in einem Krankenhaus oder in einer
+    stationären Rehabilitationseinrichtung und
 
 
 3.  für die Dauer eines Monats wahlweise in einer der in Nummer 1 oder
@@ -517,9 +541,9 @@ die Zulassung beantragt wird, im Benehmen mit der nach Satz 1, 2 oder
 (1) Über die Zulassung zu einem Prüfungsabschnitt nach § 1 Abs. 2 Satz
 1 Nr. 5 entscheidet die nach Landesrecht zuständige Stelle.
 
-(2) Die Studierenden haben sich zu den einzelnen Prüfungsabschnitten
-jeweils im letzten Studienhalbjahr der Studienzeit zu melden, die § 1
-Abs. 3 als Voraussetzung für das Ablegen der Prüfung bestimmt.
+(2) Die Studierenden können sich zu den einzelnen Prüfungsabschnitten
+jeweils frühestens im letzten Studienhalbjahr der Studienzeit melden,
+die § 1 Abs. 3 als Voraussetzung für das Ablegen der Prüfung bestimmt.
 
 (3) Der Antrag auf Zulassung ist schriftlich in der von der nach
 Landesrecht zuständigen Stelle vorgeschriebenen Form zu stellen und
@@ -541,16 +565,16 @@ muss dieser bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
         der Studienzeiten an seine Stelle tretenden Unterlagen,
 
 
-    d)  die Bescheinigungen über die erfolgreiche Teilnahme an den nach dieser
-        Verordnung vorgeschriebenen Unterrichtsveranstaltungen,
-
-        e)
-
+    d)  die Bescheinigungen oder eine zusammenfassende Bescheinigung über die
+        erfolgreiche Teilnahme an den nach dieser Verordnung vorgeschriebenen
+        Unterrichtsveranstaltungen,
 
 
+    e)  die Nachweise über die Teilnahme an einer Ausbildung in erster Hilfe
+        (§ 5) und über die Ableistung des Krankenpflegedienstes (§ 6);
 
-    die Nachweise über die Teilnahme an einer Ausbildung in erster Hilfe
-    (§ 5) und über die Ableistung des Krankenpflegedienstes (§ 6);
+
+
 
 
 2.  bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
@@ -562,8 +586,9 @@ muss dieser bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
         der Studienzeiten an seine Stelle tretenden Unterlagen,
 
 
-    c)  die Bescheinigungen über die erfolgreiche Teilnahme an den nach dieser
-        Verordnung vorgeschriebenen Unterrichtsveranstaltungen,
+    c)  die Bescheinigungen oder eine zusammenfassende Bescheinigung über die
+        erfolgreiche Teilnahme an den nach dieser Verordnung vorgeschriebenen
+        Unterrichtsveranstaltungen,
 
 
     d)  das Zeugnis über das Bestehen des Ersten Abschnitts der Ärztlichen
@@ -725,12 +750,13 @@ Die Anrechnung ist auf dem Zeugnis über die Ärztliche Prüfung nach dem
 Muster der Anlage 12 zu dieser Verordnung zu vermerken.
 
 
-### § 14 Schriftliche Prüfungen
+### § 14 Schriftliche Prüfung
 
 (1) In der schriftlichen Prüfung hat der Prüfling unter Aufsicht
 schriftlich gestellte Aufgaben zu lösen. Er hat dabei anzugeben,
 welche der mit den Aufgaben vorgelegten Antworten er für zutreffend
-hält.
+hält. Die schriftliche Prüfung kann auch rechnergestützt durchgeführt
+werden.
 
 (2) Die Prüfungsaufgaben müssen auf die für den Arzt allgemein
 erforderlichen Kenntnisse abgestellt sein und zuverlässige
@@ -847,7 +873,7 @@ mit, welche Prüflinge den Ersten Abschnitt der Ärztlichen Prüfung
 bestanden haben.
 
 
-### § 15 Mündlich-praktische Prüfungen
+### § 15 Mündlich-praktische Prüfung
 
 (1) Der mündlich-praktische Teil des Ersten und Zweiten Abschnitts der
 Ärztlichen Prüfung wird jeweils vor einer Prüfungskommission abgelegt.
@@ -1252,7 +1278,7 @@ Leistungsnachweise zu erbringen:
 2.  Geschichte, Theorie, Ethik der Medizin,
 
 
-3.  Gesundheitsökonomie, Gesundheitssystem, Öffentliche Gesundheitspflege,
+3.  Gesundheitsökonomie, Gesundheitssystem, Öffentliches Gesundheitswesen,
 
 
 4.  Infektiologie, Immunologie,
@@ -1282,7 +1308,10 @@ Leistungsnachweise zu erbringen:
 12. Rehabilitation, Physikalische Medizin, Naturheilverfahren,
 
 
-13. Palliativmedizin.
+13. Palliativmedizin,
+
+
+14. Schmerzmedizin.
 
 
 
@@ -1294,7 +1323,9 @@ Querschnittsbereiche beträgt mindestens 868 Stunden. Der
 Leistungsnachweis nach Satz 5 Nummer 13 ist erstmals zum Beginn des
 Praktischen Jahres im August 2013 oder bei der Meldung zum Zweiten
 Abschnitt der Ärztlichen Prüfung für den Prüfungstermin ab Oktober
-2014 vorzulegen.
+2014 vorzulegen. Der Leistungsnachweis nach Satz 5 Nummer 14 ist
+erstmals bei der Anmeldung zum Zweiten Abschnitt der Ärztlichen
+Prüfung für den Prüfungstermin ab Oktober 2016 vorzulegen.
 
 (2) Die Universitäten können unter Beibehaltung der Gesamtstundenzahl
 die Kataloge nach Absatz 1 Satz 4 und 5 an die medizinisch-
@@ -1350,8 +1381,9 @@ Querschnittsbereichen einzuschließen.
 (2) In der Prüfung hat der Prüfling fallbezogen zu zeigen, dass er die
 während des Studiums erworbenen Kenntnisse in der Praxis anzuwenden
 weiß und über die für den Arzt erforderlichen fächerübergreifenden
-Grundkenntnisse und über die notwendigen Fähigkeiten und Fertigkeiten
-verfügt. Er hat insbesondere nachzuweisen, dass er
+Grundkenntnisse und über die notwendigen Fähigkeiten und Fertigkeiten,
+auch in der ärztlichen Gesprächsführung verfügt. Er hat insbesondere
+nachzuweisen, dass er
 
 1.  die Technik der Anamneseerhebung, der klinischen Untersuchungsmethoden
     und die Technik der grundlegenden Laboratoriumsmethoden beherrscht und
@@ -1648,6 +1680,17 @@ dahingehend abweicht, dass
 
 
 
+
+(1a) Die nach Landesrecht zuständige Stelle kann im Vorgriff auf die
+ab dem 1. Januar 2014 geltende Rechtslage einen Modellstudiengang
+zulassen, der von den Vorschriften dieser Verordnung dahingehend
+abweicht, dass von den Prüfungsabschnitten, die in § 1 Absatz 2 Nummer
+5 in der ab dem 1. Januar 2014 geltenden Fassung vorgesehen sind, der
+Erste Abschnitt der Ärztlichen Prüfung nicht abgelegt werden muss. In
+diesem Fall kann der Zweite Abschnitt der Ärztlichen Prüfung nach der
+Approbationsordnung für Ärzte in der ab dem 1. Januar 2014 geltenden
+Fassung frühestens nach einem Medizinstudium von fünf Jahren abgelegt
+werden.
 
 (2) Die Zulassung als Modellstudiengang setzt voraus, dass
 
@@ -1977,6 +2020,662 @@ Ort, Datum
 
 
 
+(zu § 2 Absatz 7 Satz 1)
+
+### Anlage 2a Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
+
+(Fundstelle: BGBl. I 2012, 1546)
+
+
+*    *   Name, Vorname
+
+
+*    *   Geburtsdatum
+
+
+*    *   Geburtsort
+
+
+
+hat an nachstehenden Unterrichtsveranstaltungen regelmäßig und mit
+Erfolg teilgenommen und die in Verbindung mit diesen Veranstaltungen
+in der Studienordnung ggf. weiter dazu vorgeschriebenen
+Veranstaltungen regelmäßig besucht:
+
+
+*    *   Unterrichtsveranstaltung
+
+    *   Semester
+
+    *   von
+
+    *   bis
+
+
+*    *   1.
+
+    *   Praktikum der Physik für Mediziner
+
+    *
+    *
+    *
+
+*    *   2.
+
+    *   Praktikum der Chemie für Mediziner
+
+    *
+    *
+    *
+
+*    *   3.
+
+    *   Praktikum der Biologie für Mediziner
+
+    *
+    *
+    *
+
+*    *   4.
+
+    *   Praktikum der Physiologie
+
+    *
+    *
+    *
+
+*    *   5.
+
+    *   Praktikum der Biochemie/Molekularbiologie
+
+    *
+    *
+    *
+
+*    *   6.
+
+    *   Kursus der makroskopischen Anatomie
+
+    *
+    *
+    *
+
+*    *   7.
+
+    *   Kursus der mikroskopischen Anatomie
+
+    *
+    *
+    *
+
+*    *   8.
+
+    *   Kursus der Medizinischen Psychologie und Medizinischen Soziologie
+
+    *
+    *
+    *
+
+*    *   9.
+
+    *   Seminar Physiologie
+
+    *
+    *
+    *
+
+*    *   10.
+
+    *   Seminar Biochemie/Molekularbiologie
+
+    *
+    *
+    *
+
+*    *   11.
+
+    *   Seminar Anatomie
+
+    *
+    *
+    *
+
+*    *   12.
+
+    *   Seminar der Medizinischen Psychologie und Medizinischen Soziologie
+
+    *
+    *
+    *
+
+*    *   13.
+
+    *   Praktikum zur Einführung in die Klinische Medizin (mit
+        Patientenvorstellung)
+
+    *
+    *
+    *
+
+*    *   14.
+
+    *   Praktikum der Berufsfelderkundung
+
+    *
+    *
+    *
+
+*    *   15.
+
+    *   Praktikum der medizinischen Terminologie
+
+    *
+    *
+    *
+
+*    *   16.
+
+    *   Wahlfach:
+        mit der Note
+
+    *
+    *
+    *
+
+*    *   17.
+
+    *   weitere Seminare:
+
+    *
+    *
+    *
+
+
+
+*    *   Ort, Datum
+        **
+
+
+*    *   Siegel/Stempel
+
+
+*    *
+
+*    *
+
+*    *   (Unterschrift Studiendekan)
+
+
+
+(zu § 2 Absatz 7 Satz 1)
+
+### Anlage 2b Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
+
+(Fundstelle: BGBl. I 2012, 1547 – 1548)
+
+
+*    *   Name, Vorname
+
+
+*    *   Geburtsdatum
+
+
+*    *   Geburtsort
+
+
+
+hat die folgenden Leistungsnachweise an der **
+(Universität) mit den nachstehenden
+Ergebnissen erbracht:
+
+
+*    *   Leistungsnachweis
+
+    *   Semester
+
+    *   von
+
+    *   bis
+
+    *   Benotung
+
+
+*    *   **Fächer:**
+
+    *
+    *
+    *
+    *
+
+*    *   1.
+
+    *   Allgemeinmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   2.
+
+    *   Anästhesiologie
+
+    *
+    *
+    *
+    *
+
+*    *   3.
+
+    *   Arbeitsmedizin, Sozialmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   4.
+
+    *   Augenheilkunde
+
+    *
+    *
+    *
+    *
+
+*    *   5.
+
+    *   Chirurgie
+
+    *
+    *
+    *
+    *
+
+*    *   6.
+
+    *   Dermatologie, Venerologie
+
+    *
+    *
+    *
+    *
+
+*    *   7.
+
+    *   Frauenheilkunde, Geburtshilfe
+
+    *
+    *
+    *
+    *
+
+*    *   8.
+
+    *   Hals-Nasen-Ohrenheilkunde
+
+    *
+    *
+    *
+    *
+
+*    *   9.
+
+    *   Humangenetik
+
+    *
+    *
+    *
+    *
+
+*    *   10.
+
+    *   Hygiene, Mikrobiologie, Virologie
+
+    *
+    *
+    *
+    *
+
+*    *   11.
+
+    *   Innere Medizin
+
+    *
+    *
+    *
+    *
+
+*    *   12.
+
+    *   Kinderheilkunde
+
+    *
+    *
+    *
+    *
+
+*    *   13.
+
+    *   Klinische Chemie, Laboratoriumsdiagnostik
+
+    *
+    *
+    *
+    *
+
+*    *   14.
+
+    *   Neurologie
+
+    *
+    *
+    *
+    *
+
+*    *   15.
+
+    *   Orthopädie
+
+    *
+    *
+    *
+    *
+
+*    *   16.
+
+    *   Pathologie
+
+    *
+    *
+    *
+    *
+
+*    *   17.
+
+    *   Pharmakologie, Toxikologie
+
+    *
+    *
+    *
+    *
+
+*    *   18.
+
+    *   Psychiatrie und Psychotherapie
+
+    *
+    *
+    *
+    *
+
+*    *   19.
+
+    *   Psychosomatische Medizin und Psychotherapie
+
+    *
+    *
+    *
+    *
+
+*    *   20.
+
+    *   Rechtsmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   21.
+
+    *   Urologie
+
+    *
+    *
+    *
+    *
+
+*    *   davon fächerübergreifende Leistungsnachweise:
+
+    *
+    *
+    *
+    *
+
+*    *   **
+
+    *
+    *
+    *
+    *
+
+*    *   **
+
+    *
+    *
+    *
+    *
+
+*    *   **
+
+    *
+    *
+    *
+    *
+
+*    *   **Querschnittsbereiche:**
+
+    *
+    *
+    *
+    *
+
+*    *   1.
+
+    *   Epidemiologie, medizinische Biometrie und
+        medizinische Informatik
+
+    *
+    *
+    *
+    *
+
+*    *   2.
+
+    *   Geschichte, Theorie, Ethik der Medizin
+
+    *
+    *
+    *
+    *
+
+*    *   3.
+
+    *   Gesundheitsökonomie, Gesundheitssystem,
+        Öffentliches Gesundheitswesen
+
+    *
+    *
+    *
+    *
+
+*    *   4.
+
+    *   Infektiologie, Immunologie
+
+    *
+    *
+    *
+    *
+
+*    *   5.
+
+    *   Klinisch-pathologische Konferenz
+
+    *
+    *
+    *
+    *
+
+*    *   6.
+
+    *   Klinische Umweltmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   7.
+
+    *   Medizin des Alterns und des alten Menschen
+
+    *
+    *
+    *
+    *
+
+*    *   8.
+
+    *   Notfallmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   9.
+
+    *   Klinische Pharmakologie/Pharmakotherapie
+
+    *
+    *
+    *
+    *
+
+*    *   10.
+
+    *   Prävention, Gesundheitsförderung
+
+    *
+    *
+    *
+    *
+
+*    *   11.
+
+    *   Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz
+
+    *
+    *
+    *
+    *
+
+*    *   12.
+
+    *   Rehabilitation, Physikalische Medizin, Natur-
+        heilverfahren
+
+    *
+    *
+    *
+    *
+
+*    *   13.
+
+    *   Palliativmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   14.
+
+    *   Schmerzmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   **Blockpraktika:**
+
+    *
+    *
+    *
+    *
+
+*    *   1.
+
+    *   Innere Medizin
+
+    *
+    *
+    *
+    *
+
+*    *   2.
+
+    *   Chirurgie
+
+    *
+    *
+    *
+    *
+
+*    *   3.
+
+    *   Kinderheilkunde
+
+    *
+    *
+    *
+    *
+
+*    *   4.
+
+    *   Frauenheilkunde
+
+    *
+    *
+    *
+    *
+
+*    *   5.
+
+    *   Allgemeinmedizin
+
+    *
+    *
+    *
+    *
+
+*    *   **Wahlfach:** **
+
+    *
+    *
+    *
+    *
+
+
+
+*    *   Ort, Datum
+        **
+
+
+*    *   Siegel/Stempel
+
+
+*    *
+
+*    *
+
+*    *   (Unterschrift Studiendekan)
+
+
+
 
 ### Anlage 3 (zu § 2 Abs. 8 Satz 2)
 
@@ -2216,63 +2915,108 @@ angeboten werden, insbesondere in Betracht:
 
 
 
-(zu § 3 Abs. 5, § 10 Abs. 5)
+(zu § 3 Absatz 5, § 10 Absatz 5)
 
 ### Anlage 4 Bescheinigung über das Praktische Jahr
 
-(Fundstelle des Originaltextes: BGBl. I 2002, 2423)
+(Fundstelle: BGBl. I 2012, 1549)
+
 Der/Die Studierende der Medizin
-----------------------------------------------------------------------
----------
-I Name, Vorname
-I
-I Geburtsdatum
-I
-I Geburtsort
-I
-----------------------------------------------------------------------
----------
+
+
+*    *   Name, Vorname
+
+
+*    *   Geburtsdatum
+
+
+*    *   Geburtsort
+
+
+
 hat regelmäßig und ordnungsgemäß an der unter meiner Leitung in
-der/dem
-unten bezeichneten Klinik/Krankenhaus, der Einrichtung der ambulanten
-Krankenversorgung oder der ärztlichen Praxis durchgeführten Ausbildung
-teilgenommen. Die Ausbildung erfolgte auf der Abteilung/in der
-Praxis für
-....................................................................
-......................................................................
-.........
-......................................................................
-.........
+der/dem unten bezeichneten Klinik/Krankenhaus, der Einrichtung der
+ambulanten Krankenversorgung oder der ärztlichen Praxis durchgeführten
+Ausbildung teilgenommen. Die Ausbildung erfolgte auf der Abteilung/in
+der Praxis für
+
+*    *   **
+
+
+
+
+Die Ausbildung wurde in
+
+
+*   Vollzeit
+
+
+*   Teilzeit mit einem Umfang von **                    % der
+    wöchentlichen Ausbildungszeit
+
+
+
+durchgeführt.
+
 Dauer der Ausbildung
-----------------------------------------------------------------------
----------
-I von:                          bis:
-I
-----------------------------------------------------------------------
----------
+
+
+*    *   von:
+
+    *   bis:
+
+
+
 Fehlzeiten:
-() nein
-() ja   von:                    bis:
-() Das Krankenhaus bzw. die Einrichtung der ambulanten
-Krankenversorgung oder
-die ärztliche Praxis ist zur Ausbildung bestimmt worden von der
-Universität
-......................................................................
-......
-......................................................................
-......
-() Die Ausbildung ist an einem Krankenhaus der Universität
-durchgeführt
-worden.
-Ort, Datum
-......................................................................
-.........
-......................................................  Siegel/Stempel
-......................................................................
-.........
-......................................................................
-.........
-(Unterschrift der für die Ausbildung verantwortlichen Ärzte)
+
+*   nein
+
+
+*
+    *        *   ja   von:
+
+        *   bis:
+
+
+
+
+
+*   Das Krankenhaus bzw. die Einrichtung der ambulanten Krankenversorgung
+    oder die ärztliche Praxis ist zur Ausbildung bestimmt worden von der
+    Universität
+
+    *        *
+
+    *        *
+
+    *        *
+
+
+
+
+*   Die Ausbildung ist an einem Krankenhaus der Universität durchgeführt
+    worden.
+
+
+
+
+
+*    *   Ort, Datum
+
+
+*    *   Siegel/Stempel
+
+
+*    *
+
+*    *
+    *
+
+*    *
+
+*    *   (Unterschrift der für die Ausbildung verantwortlichen Ärzte)
+
+
 
 (zu § 6 Abs. 4 Satz 2)
 
@@ -2317,13 +3061,14 @@ Name des Krankenhauses
 
 ### Anlage 6 Zeugnis über die Tätigkeit als Famulus
 
-(Fundstelle des Originaltextes: BGBl. I 2002, 2425)
+(Fundstelle: BGBl. I 2002, 2425; bzgl. einzelner Änderungen vgl.
+Fußnote)
 Der/Die Studierende der Medizin
 ...............................................
 ..................................... geboren am
 ..............................
-in ...................................... ist nach bestandenem Ersten
-Abschnitt
+in .................................... ist nach Bestehen des Ersten
+Abschnitts
 der Ärztlichen Prüfung vom ........ bis zum
 ...................................
 in der unten bezeichneten Einrichtung unter meiner Aufsicht und

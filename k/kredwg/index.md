@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776;
 
 Zuletzt geändert durch
-:   Art.9 G v. 26.6.2012 I 1375
+:   Art. 9 G v. 26.6.2012 I 1375
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

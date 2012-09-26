@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.10.2002 I 4197;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 24.7.2010 I 977
+:   Art. 1 V v. 1.8.2012 I 1706
 
 Die Verordnung wurde als Art. 1 V v. 14.3.1985 I 580 auf Grund des
 Art. 1 § 1 des Gesetzes zur Regelung der Preisangaben vom 3.12.1984 I

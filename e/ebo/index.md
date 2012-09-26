@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1967, 1563
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.3.2008 I 467
+:   Art. 1 V v. 25.7.2012 I 1703
 
 
 ## Eingangsformel
@@ -1836,7 +1836,7 @@ Vorschrift in Absatz 6.
 
 ### § 41
 
--
+(weggefallen)
 
 
 ### § 42 Rangieren, Hemmschuhe
@@ -1872,7 +1872,7 @@ nicht besonders gesichert sind.
 
 ### § 44
 
--
+(weggefallen)
 
 
 ### § 45 Besetzen der Triebfahrzeuge und Züge
@@ -1933,7 +1933,7 @@ einfachen Verhältnissen von ihm festgestellt wird.
 
 ### § 46
 
--
+(weggefallen)
 
 
 ## Fünfter Abschnitt - Personal

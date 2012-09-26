@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl II: 1994, 3816
 
 Zuletzt geändert durch
-:   Art. 9 V v. 16.12.2011 II 1300
-
-Änderung durch
-:   Art. 4 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+:   Art. 4 V v. 21.6.2012 II 618
 
 
 ## Eingangsformel
@@ -81,16 +78,8 @@ jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
 
-## Art 1a Vorschriften über die Schiffsuntersuchung
+## Art 1a (weggefallen)
 
-§ 1.03 Nr. 4 Satz 1, § 1.08 Nr. 3, § 1.10 Nr. 1 Buchstabe c und w und
-Nr. 3, § 2.04 Nr. 1 Satz 3, § 8.03 Nr. 2, § 15.05 Nr. 1 Satz 1 und §
-15\.06 Nr. 1 Buchstabe d und Nr. 2 Buchstabe a der Anlage und die nach
-Artikel 2 Abs. 2 erlassenen Rechtsverordnungen sind mit der Maßgabe
-anzuwenden, dass sich die Angabe „Rheinschiffsuntersuchungsordnung“
-auf die in § 1 Abs. 8 der Binnenschiffsuntersuchungsordnung vom 6.
-Dezember 2008 (BGBl. I S. 2450) bezeichneten Vorschriften in der
-jeweils anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
@@ -163,8 +152,8 @@ Sicherheit und Ordnung dringend geboten ist.
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig
 
-1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 7.01 Nr. 3, §
-    9\.08 Nr. 5 Satz 3 oder § 11.01 Nr. 2 oder 3 Satz 2 der
+1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 7.01 Nr. 3
+    oder § 11.01 Nummer 2 Satz 3 oder Nummer 3 Satz 2 der
     Rheinschiffahrtspolizeiverordnung, auch in Verbindung mit Artikel 2
     Abs. 9, oder
 
@@ -383,8 +372,8 @@ Geschwindigkeit verantwortliche Person
 
     j)  das Verhalten beim Durchfahren der Schleusenvorhäfen oder Schleusen
         nach § 6.28 Nr. 1, 2, 3 Satz 1, 3 oder 4, Nr. 4 bis 7 oder 8 Satz 1,
-        11 oder 12 Satz 2, § 6.28a Nr. 1 Buchstabe a bis c, Nr. 2 Buchstabe a
-        oder Nr. 4,
+        Nummer 9 Satz 4 oder Nummer 11 oder 12 Satz 2, § 6.28a Nr. 1 Buchstabe
+        a bis c, Nr. 2 Buchstabe a oder Nr. 4,
 
 
     k)  die Fahrt bei unsichtigem Wetter nach § 6.30 Nr. 1 bis 5, § 6.31 Nr. 1
@@ -408,13 +397,11 @@ Geschwindigkeit verantwortliche Person
 
 
     p)  die Fahrregeln in den Streckenabschnitten Lorch-St. Goar,
-        Moselmündung, Duisburg-Ruhrort oder Wesel nach § 9.07 Nr. 2 Buchstabe
-        a, b Satz 1 oder 2, Nr. 3, 4 oder 5,
+        Moselmündung, Duisburg-Ruhrort oder Wesel nach § 9.07 Nummer 3
+        Buchstabe a, b Satz 1 oder Satz 2, Nummer 4, 5 oder Nummer 6,
 
 
-    q)  die Nachtschiffahrt auf der Strecke Bingen-St. Goar nach § 9.07 Nummer
-        3 Buchstabe a, b Satz 1 oder Satz 2, Nummer 4, 5 oder Nummer 6 Satz 1
-        oder
+    q)  die Nachtschiffahrt auf der Strecke Bingen-St. Goar nach § 9.08 oder
 
 
     r)  die Schiffahrt bei Hochwasser nach § 10.01 Nr. 1 oder 2 oder bei
@@ -468,8 +455,9 @@ Geschwindigkeit verantwortliche Person
     rechtzeitig macht oder eine Angabe nicht wiederholt oder
 
 
-28. einer Vorschrift des § 9.09 Nr. 2 über die Begegnung mit anderen
-    Schubverbänden zuwiderhandelt.
+28. einer Vorschrift des § 9.09 Nr. 2 über die Begegnung von
+    Schubverbänden, gekuppelten Fahrzeugen oder Fahrzeugen mit einer Länge
+    von mehr als 110 m zuwiderhandelt.
 
 
 
@@ -518,7 +506,7 @@ oder fahrlässig als Schiffsführer
     nicht rechtzeitig vorgenommen wurde,
 
 
-5a. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 Satz 1
+5a. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4
     vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl
     oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 
@@ -648,8 +636,7 @@ oder fahrlässig als Schiffsführer
     c)  das Stilliegen nach § 7.01, das Liegeverbot nach § 7.02 Nr. 1, das
         Ankern nach § 7.03 Nr. 1, das Festmachen nach § 7.04 Nummer 1, auch in
         Verbindung mit Nummer 2, oder Nummer 3, die Benutzung der Liegestellen
-        nach § 7.05 oder § 7.06 oder die Mindestabstände nach § 7.07 Nr. 1
-        oder § 14.11 Nr. 3 bis 5,
+        nach § 7.05 oder § 7.06 oder die Mindestabstände nach § 7.07 Nr. 1,
 
 
     d)  die Wache oder Aufsicht nach § 7.08 Nr. 1 Satz 1, Nr. 2 oder 3,
@@ -717,13 +704,13 @@ oder fahrlässig als Schiffsführer
     vorgeschriebene Maßnahme nicht trifft,
 
 
-38. ein Fahrzeug führt, das die nach § 11.01 Nr. 1, 4 oder 5 zulässigen
+38. ein Fahrzeug führt, das die nach § 11.01 Nr. 1 oder 5 zulässigen
     Höchstabmessungen überschreitet,
 
 
-38a. oberhalb von Mannheim ein Fahrzeug mit einer Länge von mehr als 110,00
-    m führt, das den Anforderungen nach § 11.01 Nummer 2 Satz 1 nicht
-    entspricht,
+38a. oberhalb von Mannheim ein Fahrzeug, ausgenommen ein Fahrgastschiff,
+    mit einer Länge über 110,00 m führt, das den Anforderungen nach §
+    11\.01 Nummer 2 Satz 1 nicht entspricht,
 
 
 38b. oberhalb von Mannheim ein Fahrgastschiff mit einer Länge von über
@@ -731,12 +718,17 @@ oder fahrlässig als Schiffsführer
     nicht entspricht,
 
 
-39. einer Vorschrift des § 14.01 Nr. 2 oder 3 über das Stilliegen auf den
-    Reeden zuwiderhandelt,
+38c. ein Fahrzeug mit einer Länge über 110 m führt, das den Anforderungen
+    nach § 11.01 Nummer 4 nicht entspricht,
 
 
-40. entgegen § 15.04 Nr. 1 nicht sicherstellt, daß Abfälle in der
-    vorgeschriebenen Weise gesammelt werden oder Behälter nicht lagert,
+39. einer Vorschrift des § 14.01 Nr. 2 oder 3, jeweils auch in Verbindung
+    mit Nummer 4, über das Stilliegen auf den Reeden zuwiderhandelt,
+
+
+40. entgegen § 15.04 Nummer 1 nicht sicherstellt, dass Schiffsabfälle oder
+    Bilgenwasser in der vorgeschriebenen Weise gesammelt werden, oder
+    Behälter nicht oder nicht in der vorgeschriebenen Weise lagert,
 
 
 41. ein Fahrzeug ohne das nach § 15.05 Nr. 1 Satz 1 vorgeschriebene
@@ -916,27 +908,32 @@ oder fahrlässig als Eigentümer oder Ausrüster
         geschleppt wird oder
 
 
-    s)  das die nach § 11.01 zulässigen Höchstabmessungen überschreitet,
+    s)  das die nach § 11.01 Nummer 1 oder 5 zulässigen Höchstabmessungen
+        überschreitet,
 
 
 
 
 
 10a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt,
-    obwohl die nach § 1.08 Nummer 4 Satz 1 vorgeschriebenen
-    Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der
-    vorgeschriebenen Art an Bord vorhanden sind,
+    obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel
+    nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art
+    an Bord vorhanden sind,
 
 
 10b. die Inbetriebnahme eines Fahrzeugs, ausgenommen ein Fahrgastschiff,
-    mit einer Länge von mehr als 110,00 m für die Fahrt oberhalb von
-    Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01
-    Nummer 2 Satz 1 nicht entspricht,
+    mit einer Länge über 110,00 m für die Fahrt oberhalb von Mannheim
+    anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 2
+    Satz 1 nicht entspricht,
 
 
-10c. die Inbetriebnahme eines Fahrgastschiffs mit einer Länge von mehr als
-    110,00 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt,
-    das den Anforderungen nach § 11.01 Nummer 2 Satz 2 nicht entspricht,
+10c. die Inbetriebnahme eines Fahrgastschiffs mit einer Länge über 110,00 m
+    für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den
+    Anforderungen nach § 11.01 Nummer 2 Satz 2 nicht entspricht,
+
+
+10d. die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, das den
+    Anforderungen nach § 11.01 Nummer 4 nicht entspricht,
 
 
 11. anordnet oder zuläßt, daß entgegen § 8.03 Nr. 1 an der Spitze des

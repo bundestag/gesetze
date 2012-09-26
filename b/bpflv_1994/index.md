@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2750
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 2 G v. 12.4.2012 I 579
+:   Art. Art. 2 G v. 21.7.2012 I 1613
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -558,9 +558,62 @@ Krankenhausfinanzierungsgesetzes möglich. Dabei bleiben Ausgleiche und
 Berichtigungen für vorhergehende Pflegesatzzeiträume außer Ansatz.
 
 
-### § 9
+### § 9 Vereinbarung auf Bundesebene
 
-(aufgehoben)
+(1) Der Spitzenverband Bund der Krankenkassen und der Verband der
+privaten Krankenversicherung gemeinsam vereinbaren mit der Deutschen
+Krankenhausgesellschaft (Vertragsparteien auf Bundesebene) mit Wirkung
+für die Vertragsparteien nach § 11 insbesondere
+
+1.  einen Katalog nach § 17d Absatz 1 des Krankenhausfinanzierungsgesetzes
+    mit insbesondere tagesbezogenen Entgelten einschließlich der
+    Bewertungsrelationen sowie in geeigneten Fällen Regelungen zu Zu- oder
+    Abschlägen, die nach Über- oder Unterschreitung erkrankungstypischer
+    Behandlungszeiten vorzunehmen sind,
+
+
+2.  einen Katalog ergänzender Zusatzentgelte nach § 17d Absatz 2 Satz 2
+    des Krankenhausfinanzierungsgesetzes einschließlich der
+    Vergütungshöhe,
+
+
+3.  die Abrechnungsbestimmungen für die Entgelte nach den Nummern 1 und 2
+    sowie die Regelungen zu Zu- und Abschlägen,
+
+
+4.  Empfehlungen für die Kalkulation und die krankenhausindividuelle
+    Vergütung von Leistungen und neuen Untersuchungs- und
+    Behandlungsmethoden, für die nach § 6 gesonderte Entgelte vereinbart
+    werden können,
+
+
+5.  bis zum 31. Oktober jeden Jahres, erstmals für das Jahr 2013, den
+    Veränderungswert nach Maßgabe des § 10 Absatz 6 Satz 5 oder 6 des
+    Krankenhausentgeltgesetzes für die Begrenzung der Entwicklung des
+    Basisentgeltwerts nach § 10 Absatz 3, wobei bereits anderweitig
+    finanzierte Kostensteigerungen zu berücksichtigen sind, soweit dadurch
+    die Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
+    Sozialgesetzbuch nicht unterschritten wird; im Falle des § 10 Absatz 6
+    Satz 6 des Krankenhausentgeltgesetzes ist die Veränderungsrate nach §
+    71 Absatz 3 des Fünften Buches Sozialgesetzbuch um 40 Prozent dieser
+    Differenz zu erhöhen,
+
+
+6.  den einheitlichen Aufbau der Datensätze und das Verfahren für die
+    Übermittlung der Daten nach § 11 Absatz 4 Satz 1 sowie die
+    Weiterentwicklung der Abschnitte E1 bis E3 und B1 und B2 nach der
+    Anlage dieser Verordnung.
+
+
+
+
+(2) Kommt eine Vereinbarung zu Absatz 1 Nummer 1 bis 3 ganz oder
+teilweise nicht zustande, gilt § 17d Absatz 6 des
+Krankenhausfinanzierungsgesetzes. In den übrigen Fällen entscheidet
+auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6
+des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1
+Nummer 5 hat die Schiedsstelle bis zum 15. November des jeweiligen
+Jahres zu treffen.
 
 
 ## Dritter Abschnitt - Entgeltarten und Abrechnung

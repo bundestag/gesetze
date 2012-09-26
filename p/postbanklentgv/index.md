@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2938
 
+Geändert durch
+:   Art. 2 V v. 25.7.2012 I 1702
+
 
 ## Eingangsformel
 
@@ -171,13 +174,13 @@ Altersteilzeit zugrunde gelegt wird.
 in denen der Beamtin oder dem Beamten keine Bezüge zugestanden haben.
 Die Minderung beträgt ein Zwölftel für jeden Kalendermonat, in dem sie
 oder er nicht mindestens 15 Kalendertage in einem aktiven
-Beamtenverhältnis gestanden und Bezüge erhalten hat. Der Zahlung von
-Bezügen steht die Zahlung von Mutterschaftsgeld nach dem
-Mutterschutzgesetz gleich. Für die Dauer einer Elternzeit unterbleibt
-die Minderung bis zur Vollendung des zwölften Lebensmonats des Kindes.
-Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen, die die
-Beamtin oder der Beamte zu vertreten hat, weniger als drei Monate
-bestanden, ist der Faktor 0,5 nach Absatz 2 anzuwenden.
+Beamtenverhältnis gestanden und Bezüge erhalten hat. Die Sätze 1 und 2
+sind nicht anzuwenden auf Zeiten nach der Mutterschutz- und
+Elternzeitverordnung, im Fall von Elternzeit ohne Dienstbezüge jedoch
+nur auf die Zeit bis zur Vollendung des zwölften Lebensmonats des
+Kindes. Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen,
+die die Beamtin oder der Beamte zu vertreten hat, weniger als drei
+Monate bestanden, ist der Faktor 0,5 nach Absatz 2 anzuwenden.
 
 
 ## § 5 Zielbewertung
@@ -283,8 +286,8 @@ dem Beamten wahrnimmt, eröffnet ihr oder ihm die Leistungsbeurteilung
 innerhalb von acht Wochen nach Ablauf des Beurteilungszeitraums im
 Rahmen eines Gesprächs. Dies kann auch durch eine Beauftragte oder
 einen Beauftragten geschehen. Zur Vorbereitung auf das Gespräch erhält
-sie oder er mindestens zwei Wochen vorher die hierzu erforderlichen
-Informationen. § 6 Abs. 2 Satz 7 und 8 gilt entsprechend.
+sie oder er mindestens zwei Wochen vorher den Entwurf der
+Leistungsbeurteilung. § 6 Abs. 2 Satz 7 und 8 gilt entsprechend.
 
 (3) § 5 Abs. 3 gilt entsprechend.
 
@@ -328,9 +331,22 @@ Entscheidung.
 
 (5) Die Einigungskommission tritt auf Verlangen einer Seite
 unverzüglich auch dann zusammen, wenn in einem Zeitraum von zwei
-Wochen nach einem Zielvereinbarungsgespräch nach § 4 Abs. 2 Satz 1
+Wochen nach einem Zielvereinbarungsgespräch nach § 6 Abs. 2 Satz 1
 keine Zielvereinbarung geschlossen wird. Die Absätze 1 bis 4 gelten
 entsprechend.
+
+
+## § 8a Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
+
+Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die
+Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen
+von ihr oder ihm nicht zu vertretenden Gründen im Beurteilungszeitraum
+weniger als drei Monate aktiven Dienst verrichtet hat. In diesem Fall
+gilt die im vorangegangenen Beurteilungszeitraum zuerkannte Ziel- oder
+Leistungsbewertungsstufe nach § 4 Absatz 1 als erreicht. Ist im
+vorangegangenen Beurteilungszeitraum keine Zielbewertung oder
+Leistungsbeurteilung erfolgt, so gilt die Leistungsbewertungsstufe
+„Erfüllt stets die Anforderungen“ als erreicht.
 
 
 ## § 9 Übergangsregelung

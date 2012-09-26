@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.11.2009 I 3701
 
-Geändert durch
-:   Art. 13 u. 14 G v. 19.11.2010 I 1552
+Zuletzt geändert durch
+:   Art. 10, 11 u. 12 G v. 15.8.2012 I 1670
 
 
 ## § 1
@@ -163,22 +163,22 @@ Besoldungsgruppen
 
 *    *   A 2 bis A 4
 
-    *   10,78 Euro,
+    *   11,14 Euro,
 
 
 *    *   A 5 bis A 8
 
-    *   12,74 Euro,
+    *   13,16 Euro,
 
 
 *    *   A 9 bis A 12
 
-    *   17,48 Euro,
+    *   18,06 Euro,
 
 
 *    *   A 13 bis A 16
 
-    *   24,09 Euro.
+    *   24,88 Euro.
 
 
 
@@ -194,14 +194,14 @@ Fachschulen des Bundes
 
     *   im gehobenen Dienst
 
-    *   23,93 Euro,
+    *   24,72 Euro,
 
 
 *    *   2.
 
     *   im höheren Dienst
 
-    *   27,96 Euro.
+    *   28,88 Euro.
 
 
 

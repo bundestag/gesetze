@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2011 I 3057
+:   Art. 5 G v. 21.7.2012 I 1577
 
 
 ## Erster Teil - Gerichtsverfassung
@@ -3994,13 +3994,14 @@ festsetzen. Das Zwangsgeld kann wiederholt festgesetzt werden.
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
-entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der
-beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des
-Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der
-Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts das Landessozialgericht, an die Stelle des
-Bundesgerichtshofs das Bundessozialgericht und an die Stelle der
-Zivilprozessordnung das Sozialgerichtsgesetz tritt.
+einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
+die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
+ausschließen. Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts das
+Landessozialgericht, an die Stelle des Bundesgerichtshofs das
+Bundessozialgericht und an die Stelle der Zivilprozessordnung das
+Sozialgerichtsgesetz tritt.
 
 
 ### § 203

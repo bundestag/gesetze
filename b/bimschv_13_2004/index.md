@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1717 (2847)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.1.2009 I 129
+:   Art. 8 G v. 17.8.2012 I 1726
 
 Die Verordnung dient der Umsetzung der Richtlinie 2001/80/EG des
 Europäischen Parlaments und des Rates vom 23. Oktober 2001 zur
@@ -1815,6 +1815,24 @@ Wird eine Anlage wesentlich geändert, finden die Anforderungen der §§
 werden sollen, sowie auf die Anlagenteile und Verfahrensschritte, auf
 die sich die Änderung auswirken wird, sofort Anwendung. Für die
 Anforderungen ist die Gesamtleistung der Anlage maßgeblich.
+
+
+### § 9a Anlagen zur Abscheidung und Kompression von Kohlendioxid
+
+(1) Vor der erstmaligen Genehmigung der Errichtung oder des Betriebs
+einer Anlage zur Erzeugung von Strom mit einer elektrischen
+Nennleistung von 300 Megawatt oder mehr hat der Betreiber zu prüfen,
+ob geeignete Kohlendioxidspeicher zur Verfügung stehen und ob der
+Zugang zu Anlagen für den Transport des Kohlendioxids sowie die
+Nachrüstung von Anlagen für die Abscheidung und Kompression von
+Kohlendioxid technisch möglich und wirtschaftlich zumutbar sind. Dies
+gilt entsprechend für die Änderung oder Erweiterung einer Anlage um
+eine elektrische Nennleistung von 300 Megawatt oder mehr.
+
+(2) Sind die in Absatz 1 genannten Voraussetzungen erfüllt, hat der
+Betreiber auf dem Betriebsgelände eine hinreichend große Fläche für
+die Nachrüstung der errichteten Anlage mit den für die Abscheidung und
+Kompression von Kohlendioxid erforderlichen Anlagen freizuhalten.
 
 
 ### § 10 Begrenzung von Emissionen bei Lagerungs- und Transportvorgängen

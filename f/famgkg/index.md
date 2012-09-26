@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2666
 
 Zuletzt geändert durch
-:   Art. 10 G v. 23.5.2011 I 898
+:   Art. 7a G v. 21.7.2012 I 1577
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1162,6 +1162,28 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 
 ### Abschnitt 9 - Schluss- und Übergangsvorschriften
+
+
+#### § 61a Verordnungsermächtigung
+
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass die von den Gerichten der Länder zu erhebenden
+Verfahrensgebühren in solchen Verfahren, die nur auf Antrag
+eingeleitet werden, über die im Kostenverzeichnis für den Fall der
+Zurücknahme des Antrags vorgesehene Ermäßigung hinaus weiter ermäßigt
+werden oder entfallen, wenn das gesamte Verfahren oder bei
+Verbundverfahren nach § 44 eine Folgesache nach einer Mediation oder
+nach einem anderen Verfahren der außergerichtlichen Konfliktbeilegung
+durch Zurücknahme des Antrags beendet wird und in der Antragsschrift
+mitgeteilt worden ist, dass eine Mediation oder ein anderes Verfahren
+der außergerichtlichen Konfliktbeilegung unternommen wird oder
+beabsichtigt ist, oder wenn das Gericht den Beteiligten die
+Durchführung einer Mediation oder eines anderen Verfahrens der
+außergerichtlichen Konfliktbeilegung vorgeschlagen hat. Satz 1 gilt
+entsprechend für die im Beschwerdeverfahren von den
+Oberlandesgerichten zu erhebenden Verfahrensgebühren; an die Stelle
+der Antragsschrift tritt der Schriftsatz, mit dem die Beschwerde
+eingelegt worden ist.
 
 
 #### § 62 Rechnungsgebühren

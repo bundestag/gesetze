@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 958
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.12.2011 I 2451
+:   Art. 1 V v. 28.8.2012 I 1815
 
 
 ## Eingangsformel
@@ -240,9 +240,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
 (Fundstelle: BGBl. I 2007, 2777 - 2782;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
+**Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003**
 ##
+
 
 *    *   Nr.
 
@@ -390,7 +390,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *
     *
     *
-    *[^F769643_01_BJNR095800004BJNE001104308]
+    *[^F769643_01_BJNR095800004BJNE001105308]
    Theoretische Versorgungsfläche je zugeteilte Frequenz
 
     *
@@ -872,9 +872,9 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
 
 
-
-Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
+**Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004**
 ##
+
 
 *    *   Nr.
 
@@ -1034,7 +1034,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
     *
     *
     *   Theoretische Versorgungsfläche je
-[^F769643_02_BJNR095800004BJNE001104308]
+[^F769643_02_BJNR095800004BJNE001105308]
         zugeteilte Frequenz
 
     *
@@ -1691,7 +1691,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
     *
     *
     *   Theoretische Versorgungsfläche je
-[^bjnr095800004bjne001103308_01_BJNR095800004BJNE001104308]
+[^bjnr095800004bjne001103308_01_BJNR095800004BJNE001105308]
         zuget. Frequenz
 
     *
@@ -2433,7 +2433,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
     *
     *
     *   Theoretische Versorgungsfläche je
-[^bjnr095800004bjne001103308_02_BJNR095800004BJNE001104308]
+[^bjnr095800004bjne001103308_02_BJNR095800004BJNE001105308]
         zuget. Frequenz
 
     *
@@ -3369,7 +3369,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
     *
     *
     *   Theoretische Versorgungsfläche je
-[^bjnr095800004bjne001103308_03_BJNR095800004BJNE001104308]
+[^bjnr095800004bjne001103308_03_BJNR095800004BJNE001105308]
         zuget. Frequenz
 
     *
@@ -4087,7 +4087,1169 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
 
 
 
-[^F769643_01_BJNR095800004BJNE001104308]:     Theoretische Versorgungsfläche:               Die Theoretische
+## **Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2008**
+
+
+*    *   Nr.
+
+    *   Funkdienst/
+        Funkanwendung
+
+    *   Nutzergruppen
+
+    *   Bezugseinheit
+
+    *   Jahresbeitrag je Bezugseinheit
+        (in Euro)
+
+
+*    *   TKG
+
+    *   EMVG
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *   1.
+
+    *   Öffentlicher
+        Mobilfunk
+
+    *
+    *
+    *
+    *
+
+*    *   1.1
+
+    *
+    *   GSM
+
+    *   Netz
+
+    *   380 277,98
+
+    *   16 383,81
+
+
+*    *   1.2
+
+    *
+    *   (entfällt)
+
+    *
+    *
+    *
+
+*    *   1.3
+
+    *
+    *   Funkruf
+
+    *   Frequenz
+
+    *   43 817,79
+
+    *   0,00
+
+
+*    *   1.4
+
+    *
+    *   (entfällt)
+
+    *
+    *
+    *
+
+*    *   1.5
+
+    *
+    *   UMTS
+
+    *   Netz
+
+    *   196 761,81
+
+    *   216 098,25
+
+
+*    *   2.
+
+    *   Rundfunkdienst
+
+    *
+    *
+    *
+    *
+
+*    *   2.1
+
+    *   Ton-Rundfunk
+
+    *
+    *
+    *
+    *
+
+*    *   2.1.1
+
+    *
+    *   LW
+
+    *   Frequenz
+
+    *   4 791,65
+
+    *   25 192,67
+
+
+*    *   2.1.2
+
+    *
+    *   MW
+
+    *   Frequenz
+
+    *   951,17
+
+    *   4 726,55
+
+
+*    *   2.1.3
+
+    *
+    *   KW
+
+    *   Frequenz
+
+    *   20,76
+
+    *   97,60
+
+
+*    *   2.1.4
+
+    *
+    *   digitale MW
+
+    *   Frequenz
+
+    *   4 915,19
+
+    *   381,14
+
+
+*    *   2.1.5
+
+    *
+    *   digitale LW
+
+    *   Frequenz
+
+    *   33 397,35
+
+    *   0,00
+
+
+*    *   2.1.6
+
+    *
+    *   digitale KW
+
+    *   Frequenz
+
+    *   0,00
+
+    *   188,61
+
+
+*    *   2.1.7
+
+    *
+    *   Nichtöffentliche Funkanlagen
+        im UKW-Rundfunkbereich
+
+    *   Frequenz
+
+    *   89,80
+
+    *   8,76
+
+
+*    *
+    *
+    *
+    *   Theoretische Versorgungsfläche je
+[^F777542_01_BJNR095800004BJNE001105308]
+        zugeteilte Frequenz
+
+    *
+    *
+
+*    *   2.1.8
+
+    *
+    *   UKW
+
+    *   je angefangene 10 km
+        2
+
+    *   1,26
+
+    *   1,03
+
+
+*    *   2.1.9
+
+    *
+    *   T-DAB
+
+    *   je angefangene 10 km
+        2
+
+    *   4,67
+
+    *   0,15
+
+
+*    *   2.2
+
+    *   Fernseh-Rundfunk
+
+    *
+    *
+    *
+    *
+
+*    *   2.2.1
+
+    *
+    *   Fernseh-Rundfunk
+
+    *   je angefangene 10 km
+        2
+
+    *   4,84
+
+    *   40,09
+
+
+*    *   2.2.2
+
+    *
+    *   DVB-T
+
+    *   je angefangene 10 km
+        2
+
+    *   4,42
+
+    *   2,86
+
+
+*    *   3.
+
+    *   Feste Funkdienste/
+        Normalfrequenz- und Zeitzeichenfunk
+
+    *
+    *
+    *
+    *
+
+*    *   3.1
+
+    *
+    *   Punkt-zu-Punkt-Richtfunk
+
+    *   Sendefunkanlage
+
+    *   1,48
+
+    *   0,38
+
+
+*    *   3.2
+
+    *
+    *   WLL-PMP-Richtfunk
+
+    *   Sendefunkanlage
+
+    *   41,62
+
+    *   0,00
+
+
+*    *   3.3
+
+    *
+    *   gebietsbezogene Richtfunkzuteilungen
+
+    *   Sendefunkanlage
+
+    *   65,30
+
+    *   0,24
+
+
+*    *   3.4
+
+    *
+    *   fester Funkdienst unter 30 MHz, Normalfrequenz- und Zeitzeichenfunk
+
+    *   Frequenz
+
+    *   52,90
+
+    *   33,92
+
+
+*    *   3.5
+
+    *
+    *   Punkt-zu-Mehrpunkt-Richtfunk (außer WLL-PMP-Richtfunk)
+
+    *   Sendefunkanlage
+
+    *   34,47
+
+    *   1,38
+
+
+*    *   4.
+
+    *   Nichtöffentlicher mobiler Landfunk (nömL)
+
+    *
+    *
+    *
+    *
+
+*    *   4.1
+
+    *
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk,
+        nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke,
+        Funkanlagen für Hilfszwecke, Fernwirkfunk
+
+    *   Sendefunkanlage
+
+    *   4,01
+
+    *   2,45
+
+
+*    *   4.2
+
+    *
+    *   (entfällt)
+
+    *
+    *
+    *
+
+*    *   4.3
+
+    *
+    *   (entfällt)
+
+    *
+    *
+    *
+
+*    *   4.4
+
+    *
+    *   Grundstücks-Personenruf
+        (Netze ohne Quittungssender)
+
+    *   Netz mit ……
+        Rufempfängern
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   2
+
+
+
+
+    *   4,19
+
+    *   0,20
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   5
+
+
+
+
+    *   8,39
+
+    *   0,41
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   10
+
+
+
+
+    *   16,77
+
+    *   0,82
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   50
+
+
+
+
+    *   33,54
+
+    *   1,64
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   150
+
+
+
+
+    *   67,08
+
+    *   3,27
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   400
+
+
+
+
+    *   134,16
+
+    *   6,55
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   1 000
+
+
+
+
+    *   268,32
+
+    *   13,10
+
+
+*    *
+    *
+    *
+    *
+        *            *   mehr als
+
+            *   1 000
+
+
+
+
+    *   402,49
+
+    *   19,65
+
+
+*    *   4.5
+
+    *
+    *   Grundstücks-Personenruf
+        (Netze mit Quittungssender)
+
+    *   Netz mit ……
+        Rufempfängern
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   2
+
+
+
+
+    *   6,06
+
+    *   0,62
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   5
+
+
+
+
+    *   12,12
+
+    *   1,23
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   10
+
+
+
+
+    *   24,24
+
+    *   2,46
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   50
+
+
+
+
+    *   48,48
+
+    *   4,93
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   150
+
+
+
+
+    *   96,96
+
+    *   9,86
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   400
+
+
+
+
+    *   193,91
+
+    *   19,72
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   1 000
+
+
+
+
+    *   290,87
+
+    *   29,58
+
+
+*    *
+    *
+    *
+    *
+        *            *   mehr als
+
+            *   1 000
+
+
+
+
+    *   387,83
+
+    *   39,44
+
+
+*    *   4.6
+
+    *
+    *   grundstücksüberschreitender Personenruf
+
+    *   Netz mit ……
+        Rufempfängern
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   2
+
+
+
+
+    *   29,94
+
+    *   0,00
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   5
+
+
+
+
+    *   59,88
+
+    *   0,00
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   10
+
+
+
+
+    *   119,77
+
+    *   0,00
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   50
+
+
+
+
+    *   239,53
+
+    *   0,00
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   150
+
+
+
+
+    *   479,06
+
+    *   0,00
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   400
+
+
+
+
+    *   958,12
+
+    *   0,00
+
+
+*    *
+    *
+    *
+    *
+        *            *   bis zu
+
+            *   1 000
+
+
+
+
+    *   1 437,18
+
+    *   0,00
+
+
+*    *   4.7
+
+    *
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
+        vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung,
+        vorübergehende Einrichtung einer Bild-, Ton- oder
+        Meldeübertragungsstrecke
+
+    *   Sendefunkanlage
+
+    *   5,28
+
+    *   14,34
+
+
+*    *   4.8
+
+    *
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
+        Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk
+        des Reportagefunks
+
+    *   Sendefunkanlage
+
+    *   15,58
+
+    *   0,89
+
+
+*    *   4.9
+
+    *
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
+        für Hörgeschädigte
+
+    *
+    *   kein Beitrag
+
+    *   kein Beitrag
+
+
+*    *   5.
+
+    *   Flugfunkdienst
+
+    *
+    *
+    *
+    *
+
+*    *   5.1
+
+    *
+    *   stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen
+
+    *   Funkstelle
+
+    *   511,58
+
+    *   135,52
+
+
+*    *   5.2
+
+    *
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk
+        (bewegliche Funkstellen)
+
+    *   Funkstelle
+
+    *   9,98
+
+    *   28,53
+
+
+*    *   5.3
+
+    *
+    *   mobiler Flugfunk
+        (sonstige Bodenfunkstellen)
+
+    *   Funkstelle
+
+    *   0,00
+
+    *   31,25
+
+
+*    *   6.
+
+    *   Amateurfunkdienst
+
+    *   Amateurfunk
+
+    *   Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst
+
+    *   4,39
+
+    *   22,81
+
+
+*    *   7.
+
+    *   Seefunkdienst/
+        Binnenschifffahrtsfunk
+
+    *   Seefunk/Binnenschifffahrtsfunk
+
+    *   Funkstelle
+
+    *   22,66
+
+    *   1,56
+
+
+*    *   8.
+
+    *   Nichtnavigatorischer Ortungsfunkdienst
+
+    *
+    *
+    *
+    *
+
+*    *   8.1
+
+    *
+    *   nichtnavigatorischer Ortungsfunk kleiner Leistung (bis 50 Watt
+        Strahlungsleistung (ERP)),
+        Wetterhilfenfunk
+
+    *   Sendefunkanlage
+
+    *   0,26
+
+    *   0,89
+
+
+*    *   8.2
+
+    *
+    *   nichtnavigatorischer Ortungsfunk hoher Leistung (größer als 50 Watt
+        Strahlungsleistung (ERP))
+
+    *   Sendefunkanlage
+
+    *   80,76
+
+    *   0,00
+
+
+*    *   9.
+
+    *   Sonstige Funkanwendungen
+
+    *
+    *
+    *
+    *
+
+*    *   9.1
+
+    *
+    *   Demonstrationsfunk
+
+    *   Sendefunkanlage
+
+    *   1,76
+
+    *   19,82
+
+
+*    *   9.2
+
+    *
+    *   Versuchsfunk
+
+    *   Zuteilung
+
+    *   0,00
+
+    *   21,52
+
+
+*    *   10.
+
+    *   Bahnfunk
+
+    *
+    *
+    *
+    *
+
+*    *   10.1
+
+    *
+    *   analoger Eisenbahn-Betriebsfunk (ortsfeste Frequenznutzung)
+
+    *   Sendefunkanlage
+
+    *   51,63
+
+    *   4,15
+
+
+*    *   10.2
+
+    *
+    *   analoger Eisenbahn-Betriebsfunk (mobile Frequenznutzung)
+
+    *   Sendefunkanlage
+
+    *   7,11
+
+    *   3,22
+
+
+*    *   10.3
+
+    *
+    *   digitaler Eisenbahn-Betriebsfunk in GSM-R-Technik
+
+    *   pro Sektor und
+        Frequenzpaar
+
+    *   53,85
+
+    *   30,66
+
+
+*    *   11.
+
+    *   Bündelfunk
+
+    *
+    *
+    *
+    *
+
+*    *   11.1
+
+    *
+    *   Bündelfunk
+        (bis 25 kHz Bandbreite)
+
+    *   pro Sektor und
+        Frequenzpaar
+        je 12,5 kHz Bandbreite oder pro Frequenz im
+        Direct-Mode-Betrieb
+        je 12,5 kHz Bandbreite
+
+    *   80,04
+
+    *   14,17
+
+
+*    *   11.2
+
+    *
+    *   Bündelfunk
+        (größer als 25 kHz Bandbreite)
+
+    *   pro Sektor und
+        Frequenzpaar
+        je 12,5 kHz Bandbreite
+
+    *   2,13
+
+    *   0,00
+
+
+*    *   12.
+
+    *   Satellitenfunk
+
+    *
+    *
+    *
+    *
+
+*    *   12.1
+
+    *
+    *   koordinierungsrelevante
+        Satellitenfunkverbindung
+
+    *   Frequenz
+
+    *   650,18
+
+    *   49,95
+
+
+*    *   12.2
+
+    *
+    *   nicht koordinierungsrelevante
+        Satellitenfunkverbindung
+
+    *   Frequenz
+
+    *   53,84
+
+    *   1,16
+
+
+*    *   12.3
+
+    *
+    *   Satellitenfunknetz
+
+    *   Frequenz
+
+    *   545,88
+
+    *   171,17
+
+
+*    *   12.4
+
+    *
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
+        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+
+    *   Satellitensystem
+
+    *   9 489,57
+
+    *   0,00
+
+
+
+
+*    *   Neue Nutzergruppen
+        gemäß § 1 Absatz 2 Satz 4
+
+    *   Jahr der
+        ersten Frequenzzuteilung
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 450 MHz
+
+    *   2010
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 800 MHz
+
+    *   2010
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 900 MHz
+
+    *   2010
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 1,8 GHz
+
+    *   2010
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 2,0 GHz
+
+    *   2010
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 2,6 GHz
+
+    *   2010
+
+
+*    *   drahtloser Netzzugang im Frequenzbereich 3,5 GHz
+
+    *   2010
+
+
+
+[^F769643_01_BJNR095800004BJNE001105308]:     Theoretische Versorgungsfläche:               Die Theoretische
     Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des
     Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen
     Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen
@@ -4126,7 +5288,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
     berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition
     von hinreichend kleinen Flächenelementen, in denen die
     Mindestnutzfeldstärke erreicht wird.
-[^F769643_02_BJNR095800004BJNE001104308]:     Theoretische Versorgungsfläche:               Die Theoretische
+[^F769643_02_BJNR095800004BJNE001105308]:     Theoretische Versorgungsfläche:               Die Theoretische
     Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des
     Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen
     Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen
@@ -4165,7 +5327,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2004
     berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition
     von hinreichend kleinen Flächenelementen, in denen die
     Mindestnutzfeldstärke erreicht wird.
-[^bjnr095800004bjne001103308_01_BJNR095800004BJNE001104308]:     **                             Definition zur Berechnung der
+[^bjnr095800004bjne001103308_01_BJNR095800004BJNE001105308]:     **                             Definition zur Berechnung der
     Theoretischen Versorgungsfläche für das Beitragsjahr 2005:
     Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur
     Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den
@@ -4227,7 +5389,7 @@ des günstigeren Betrages.
 
 
 
-[^bjnr095800004bjne001103308_02_BJNR095800004BJNE001104308]: **                             Definition zur Berechnung der
+[^bjnr095800004bjne001103308_02_BJNR095800004BJNE001105308]: **                             Definition zur Berechnung der
 Theoretischen Versorgungsfläche für das Beitragsjahr 2006:
 Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur
 Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den
@@ -4275,7 +5437,7 @@ Mindestnutzfeldstärke erreicht wird.
 
 
 
-[^bjnr095800004bjne001103308_03_BJNR095800004BJNE001104308]: **                             Definition zur Berechnung der
+[^bjnr095800004bjne001103308_03_BJNR095800004BJNE001105308]: **                             Definition zur Berechnung der
 Theoretischen Versorgungsfläche für das Beitragsjahr 2007:
 Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur
 Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den
@@ -4323,4 +5485,44 @@ Mindestnutzfeldstärke erreicht wird.
 
 
 
+[^F777542_01_BJNR095800004BJNE001105308]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
+2008:              Die theoretische Versorgungsfläche ist eine
+Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
+Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R
+P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit
+176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
+internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden
+1995 und Maastricht 2002 und für DVB-T Chester 1997.
+Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
+für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
+eines Kanals im Band II in analoger Übertragungstechnik (UKW-
+Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
+Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
+Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
+für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
+A.1.50, Position „Medianwert für die minimale äquivalente
+Feldstärke“). In Gleichwellennetzen werden theoretische
+Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
+Auf der Basis der oben genannten Ausbreitungskurven wird für eine
+Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
+gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
+jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
+Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
+jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische
+Versorgungsfläche einer Sendeanlage in Quadratkilometern.
+Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
+Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
+Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
+Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
+der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
+Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
+kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
+zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
+der Richtlinie 5 R 22 zu finden sind.              Für Sender, die im
+Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
+Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
+Die theoretische Versorgungsfläche entsteht durch Addition von
+hinreichend kleinen Flächenelementen, in denen die
+Mindestnutzfeldstärke erreicht wird.
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 1300 (Anlageband)
 
+Geändert durch
+:   Anlage 1 iVm Art. 1 V v. 21.6.2012 II 618
+
 
 ## Inhaltsverzeichnis
 
@@ -83,7 +86,7 @@ Fundstelle
     *
 
 *    *   Abschnitt 1
-        Befähigung der Besatzungsmitglieder ****
+        Befähigung der Besatzungsmitglieder
 
 
 *    *
@@ -1771,9 +1774,9 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
     b)  die für die Betriebsform A1 beziehungsweise A2 bestimmten
-        Besatzungsmitglieder unmittelbar vor dem Wechsel eine
-        achtbeziehungsweise sechsstündige ununterbrochene Ruhezeit eingehalten
-        und nachgewiesen haben.
+        Besatzungsmitglieder unmittelbar vor dem Wechsel eine acht-
+        beziehungsweise sechsstündige ununterbrochene Ruhezeit eingehalten und
+        nachgewiesen haben.
 
 
 
@@ -4289,8 +4292,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
     *        *   Maschinist oder
-            Matrosen-Motorwart
-            ……
+            Matrosen-Motorwart ……
 
         *   1
 
@@ -4388,8 +4390,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
     *        *   Maschinist oder
-            Matrosen-Motorwart
-            …
+            Matrosen-Motorwart …
 
         *   1
 
@@ -4503,8 +4504,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
     *        *   Maschinist oder
-            Matrosen-Motorwart
-            …
+            Matrosen-Motorwart …
 
         *   1
 
@@ -4553,7 +4553,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 *   kann für die ununterbrochene Dauer von höchstens drei Monaten in einem
     Kalenderjahr um einen Leichtmatrosen, der eine Schifferberufsschule
     besucht, vermindert werden. Die Zeiten der Verminderung müssen
-    mindestens um einen Monat unter brochen sein. Der Besuch der
+    mindestens um einen Monat unterbrochen sein. Der Besuch der
     Schifferberufsschule muss durch eine an Bord befindliche Bescheinigung
     der Schifferberufsschule, in der die Zeiten des Schulbesuches
     angegeben sind, nachgewiesen werden. Diese Bestimmungen gelten nicht
@@ -6491,16 +6491,24 @@ Die Fahrzeit und die Streckenfahrten, die vor Inkrafttreten dieser
 Verordnung geleistet wurden, werden nach Maßgabe der bisherigen
 Vorschriften angerechnet.
 
+(Muster)
 
-#### Anlage A1 (Muster) Bordbuch
+#### Anlage A1 Bordbuch
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 35 - 37)
 
 
+(Muster)
 
-#### Anlage A2 (Muster) Schifferdienstbuch
+#### Anlage A2 Schifferdienstbuch
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 38 - 59)
 
 
 
 #### Anlage A3 Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord in Anwendung des § 3.10 dieser Verordnung
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 60 - 61)
 
 ## A. Anforderungen an den Fahrtenschreiber
 
@@ -6695,12 +6703,18 @@ einzuhalten:
 
 
 
+(Muster)
 
-#### Anlage A4 (Muster) Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
+#### Anlage A4 Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 62)
 
 
+(Muster)
 
-#### Anlage A5 (Muster) Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
+#### Anlage A5 Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 63)
 
 
 *    *   **Staat**
@@ -6756,6 +6770,8 @@ einzuhalten:
 
 
 #### Anlage B1 Mindestanforderungen an die Tauglichkeit
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 64)
 
 
 **I.** **Sehvermögen**
@@ -6878,44 +6894,74 @@ einzuhalten:
 
 
 
+(Muster)
 
-#### Anlage B2 (Muster) Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
+#### Anlage B2 Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
 
-
-
-#### Anlage B3 (Muster) Bescheid zur Tauglichkeit
-
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 65 - 66)
 
 
-#### Anlage C1 (Muster) Bescheinigung Sachkundiger für Fahrgastschifffahrt
+(Muster)
+
+#### Anlage B3 Bescheid zur Tauglichkeit
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 67)
 
 
+(Muster)
 
-#### Anlage C2 (Muster) Bescheinigung Ersthelfer in der Fahrgastschifffahrt
+#### Anlage C1 Bescheinigung Sachkundiger für Fahrgastschifffahrt
 
-
-
-#### Anlage C3 (Muster) Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
-
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 68)
 
 
-#### Anlage C4 (Muster) Bescheinigungsbuch für die Fahrgastschifffahrt
+(Muster)
+
+#### Anlage C2 Bescheinigung Ersthelfer in der Fahrgastschifffahrt
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 69)
 
 
+(Muster)
 
-#### Anlage D1 (Muster) Rheinpatent
+#### Anlage C3 Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
 
-
-
-#### Anlage D2 (Muster) Vorläufiges Rheinpatent
-
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 70)
 
 
-#### Anlage D3 (Muster) Streckenzeugnis
+(Muster)
+
+#### Anlage C4 Bescheinigungsbuch für die Fahrgastschifffahrt
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 71 - 80)
 
 
+(Muster)
 
-#### Anlage D4 (Muster) Radarpatent
+#### Anlage D1 Rheinpatent
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 81)
+
+
+(Muster)
+
+#### Anlage D2 Vorläufiges Rheinpatent
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 82)
+
+
+(Muster)
+
+#### Anlage D3 Streckenzeugnis
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 83)
+
+
+(Muster)
+
+#### Anlage D4 Radarpatent
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 84)
 
 
 
@@ -7073,6 +7119,35 @@ einzuhalten:
 
     *   Schiffsführer-
         zeugnis/ Vaarbewijs B
+
+
+*    *   BG
+
+    *   Schifferpatent für die Binnenschifffahrt
+
+    *
+        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
+            D3 der Verordnung über das Schiffspersonal auf dem Rhein auf der
+            Strecke zwischen den Schleusen Iffezheim (Rhein-km 335,92) und der
+            Spyck’schen Fähre (Rhein-km 857,40) gültig,
+
+
+        –   der Inhaber muss bei Vollendung des 50. Lebensjahres einen Bescheid
+            zur Tauglichkeit gemäß dem Muster B3 der Verordnung über das
+            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
+            Verordnung zu erneuern ist,
+
+
+
+
+    *   Bulgarian Maritime Administration (BMA)
+        Ruse 7000
+        20 Pristanistna St.
+        stw\_rs@marad.bg
+        Tel.: +359 82 815 815
+        Fax: +359 82 824 009
+
+    *   Muster
 
 
 
@@ -7278,9 +7353,13 @@ einzuhalten:
 
 #### Anlage D6 Als gleichwertig anerkannte Befähigungszeugnisse für die Radarfahrt
 
+   (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 98 - 101)
+
 
 
 #### Anlage D7 Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 102 - 103)
 
 
 *    *   **Vorbemerkung:**
@@ -8136,6 +8215,8 @@ einzuhalten:
 
 
 #### Anlage D8 Prüfungsprogramm für den Erwerb eines Radarpatentes
+
+(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 104 - 105)
 
 
 *    *   **TEIL A — Theoretischer Teil**

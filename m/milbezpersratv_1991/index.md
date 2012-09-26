@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1991, 424
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.8.2001 I 2289
+:   Art. 1 V v. 21.8.2012 I 1804
+
+V aufgeh. durch
+:   Art. 3 Abs. 2 Satz 2 V 51-3-5 v. 21.8.2012 I 1804 mWv 1.4.2013
 
 
 ## Eingangsformel
@@ -41,10 +44,10 @@ entsprechenden militärischen Dienststellen gebildet:
 3.  Sanitätsführungskommando,
 
 
-4.  Luftwaffenunterstützungskommando,
+4.  (aufgehoben),
 
 
-5.  Marineunterstützungskommando,
+5.  (aufgehoben),
 
 
 6.  Heeresamt,
@@ -62,7 +65,7 @@ entsprechenden militärischen Dienststellen gebildet:
 10. Heeresführungskommando,
 
 
-11. Heeresunterstützungskommando,
+11. (aufgehoben),
 
 
 12. Luftwaffenführungskommando.

@@ -19,10 +19,7 @@ Fundstelle
 :   BGBl I: 1997, 1650
 
 Zuletzt geändert durch
-:   Art. 2 G v. 6.6.2009 I 1226
-
-Änderung durch
-:   Art. 3 G v. 21.7.2012 I 1566 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 21.7.2012 I 1566
 
 Mittelbare änderung durch
 :   Art. 6 Nr. 1 G v. 6.6.2009 I 1226 ist berücksichtigt
