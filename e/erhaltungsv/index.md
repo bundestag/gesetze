@@ -1,8 +1,6 @@
-[^F1_772396_BJNR210710009]
-Verordnung über die Zulassung von Erhaltungssorten und das
-Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten
 ---
-Title: ''
+Title: Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen
+  von Saat- und Pflanzgut von Erhaltungssorten
 jurabk: ErhaltungsV
 layout: default
 origslug: erhaltungsv
@@ -10,7 +8,7 @@ slug: erhaltungsv
 
 ---
 
-#  (ErhaltungsV)
+# Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten (ErhaltungsV)
 
 Ausfertigungsdatum
 :   2009-07-21

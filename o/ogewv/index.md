@@ -1,7 +1,5 @@
-[^f775454_01_BJNR142900011]
-Verordnung zum Schutz der Oberflächengewässer
 ---
-Title: ''
+Title: Verordnung zum Schutz der Oberflächengewässer
 jurabk: OGewV
 layout: default
 origslug: ogewv
@@ -9,7 +7,7 @@ slug: ogewv
 
 ---
 
-#  (OGewV)
+# Verordnung zum Schutz der Oberflächengewässer (OGewV)
 
 Ausfertigungsdatum
 :   2011-07-20

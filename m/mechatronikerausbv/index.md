@@ -1,8 +1,5 @@
-[^f775582_01_BJNR151600011]
-Verordnung über die Berufsausbildung zum Mechatroniker und zur
-Mechatronikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
 jurabk: MechatronikerAusbV
 layout: default
 origslug: mechatronikerausbv
@@ -10,7 +7,7 @@ slug: mechatronikerausbv
 
 ---
 
-#  (MechatronikerAusbV)
+# Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin (MechatronikerAusbV)
 
 Ausfertigungsdatum
 :   2011-07-21

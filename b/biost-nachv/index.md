@@ -1,8 +1,6 @@
-[^f772432_01_BJNR217400009]
-Verordnung über Anforderungen an eine nachhaltige Herstellung von
-flüssiger Biomasse zur Stromerzeugung
 ---
-Title: ''
+Title: Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger
+  Biomasse zur Stromerzeugung
 jurabk: BioSt-NachV
 layout: default
 origslug: biost-nachv
@@ -10,7 +8,7 @@ slug: biost-nachv
 
 ---
 
-#  (BioSt-NachV)
+# Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Biomasse zur Stromerzeugung (BioSt-NachV)
 
 Ausfertigungsdatum
 :   2009-07-23

@@ -1,8 +1,5 @@
-[^F771330_01_BJNR146800008]
-Verordnung über die Berufsausbildung zum Metallbauer und zur
-Metallbauerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin
 jurabk: MetallbAusbV 2008
 layout: default
 origslug: metallbausbv_2008
@@ -10,7 +7,7 @@ slug: metallbausbv_2008
 
 ---
 
-#  (MetallbAusbV 2008)
+# Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin (MetallbAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

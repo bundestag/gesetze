@@ -1,8 +1,6 @@
-[^F1.771609_01_BJNR223500008]
-Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen
-Gepäck von Reisenden
 ---
-Title: ''
+Title: Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck
+  von Reisenden
 jurabk: EF-VO 2008
 layout: default
 origslug: ef-vo_2008
@@ -10,7 +8,7 @@ slug: ef-vo_2008
 
 ---
 
-#  (EF-VO 2008)
+# Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden (EF-VO 2008)
 
 Ausfertigungsdatum
 :   2008-11-24

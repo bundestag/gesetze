@@ -1,7 +1,5 @@
-[^F1_772974_BJNR026700010]
-Verordnung über Informationspflichten für Dienstleistungserbringer
 ---
-Title: ''
+Title: Verordnung über Informationspflichten für Dienstleistungserbringer
 jurabk: DLInfoV
 layout: default
 origslug: dlinfov
@@ -9,7 +7,7 @@ slug: dlinfov
 
 ---
 
-#  (DLInfoV)
+# Verordnung über Informationspflichten für Dienstleistungserbringer (DLInfoV)
 
 Ausfertigungsdatum
 :   2010-03-12

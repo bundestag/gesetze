@@ -1,8 +1,6 @@
-[^F770901_01_BJNR065500008]
-Verordnung über die gute fachliche Praxis bei der Erzeugung
-gentechnisch veränderter Pflanzen
 ---
-Title: ''
+Title: Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter
+  Pflanzen
 jurabk: GenTPflEV
 layout: default
 origslug: gentpflev
@@ -10,7 +8,7 @@ slug: gentpflev
 
 ---
 
-#  (GenTPflEV)
+# Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen (GenTPflEV)
 
 Ausfertigungsdatum
 :   2008-04-07

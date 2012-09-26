@@ -1,7 +1,5 @@
-[^f772201_01_BJNR137400009]
-Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 jurabk: PharmAusbV 2009
 layout: default
 origslug: pharmausbv_2009
@@ -9,7 +7,7 @@ slug: pharmausbv_2009
 
 ---
 
-#  (PharmAusbV 2009)
+# Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin (PharmAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-06-10

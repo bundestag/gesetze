@@ -1,9 +1,6 @@
-[^F771333_1_BJNR144200008]
-Verordnung über die Berufsausbildung zum Mechaniker für
-Karosserieinstandhaltungstechnik und zur Mechanikerin für
-Karosserieinstandhaltungstechnik
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Mechaniker für Karosserieinstandhaltungstechnik
+  und zur Mechanikerin für Karosserieinstandhaltungstechnik
 jurabk: KTAusbV 2008
 layout: default
 origslug: ktausbv_2008
@@ -11,7 +8,7 @@ slug: ktausbv_2008
 
 ---
 
-#  (KTAusbV 2008)
+# Verordnung über die Berufsausbildung zum Mechaniker für Karosserieinstandhaltungstechnik und zur Mechanikerin für Karosserieinstandhaltungstechnik (KTAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

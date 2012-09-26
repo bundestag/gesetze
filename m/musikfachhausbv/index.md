@@ -1,8 +1,5 @@
-[^F771963_01_BJNR065400009]
-Verordnung über die Berufsausbildung zum Musikfachhändler/zur
-Musikfachhändlerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 jurabk: MusikfachhAusbV
 layout: default
 origslug: musikfachhausbv
@@ -10,7 +7,7 @@ slug: musikfachhausbv
 
 ---
 
-#  (MusikfachhAusbV)
+# Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin (MusikfachhAusbV)
 
 Ausfertigungsdatum
 :   2009-03-24

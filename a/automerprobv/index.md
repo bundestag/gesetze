@@ -1,8 +1,5 @@
-[^f770588_01_BJNR000200008]
-Verordnung über die Entwicklung und Erprobung der Berufsausbildung in
-der Automatenwirtschaft
 ---
-Title: ''
+Title: Verordnung über die Entwicklung und Erprobung der Berufsausbildung in der Automatenwirtschaft
 jurabk: AutomErprobV
 layout: default
 origslug: automerprobv
@@ -10,7 +7,7 @@ slug: automerprobv
 
 ---
 
-#  (AutomErprobV)
+# Verordnung über die Entwicklung und Erprobung der Berufsausbildung in der Automatenwirtschaft (AutomErprobV)
 
 Ausfertigungsdatum
 :   2008-01-08

@@ -1,7 +1,5 @@
-[^F772101_01_BJNR103900009]
-Verordnung über Zuchtorganisationen
 ---
-Title: ''
+Title: Verordnung über Zuchtorganisationen
 jurabk: TierZOV 2009
 layout: default
 origslug: tierzov_2009
@@ -9,7 +7,7 @@ slug: tierzov_2009
 
 ---
 
-#  (TierZOV 2009)
+# Verordnung über Zuchtorganisationen (TierZOV 2009)
 
 Ausfertigungsdatum
 :   2009-04-29

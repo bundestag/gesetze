@@ -1,8 +1,5 @@
-[^F774045_01_BJNR067700010]
-Verordnung über die Berufsausbildung zum Büchsenmacher und zur
-Büchsenmacherin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
 jurabk: BüchsenmAusbV 2010
 layout: default
 origslug: b_chsenmausbv_2010
@@ -10,7 +7,7 @@ slug: buechsenmausbv_2010
 
 ---
 
-#  (BüchsenmAusbV 2010)
+# Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin (BüchsenmAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-05-26

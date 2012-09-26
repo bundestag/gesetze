@@ -1,7 +1,5 @@
-[^F772132_1_BJNR117700009]
-Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin
 jurabk: KerAusbV 2009
 layout: default
 origslug: kerausbv_2009
@@ -9,7 +7,7 @@ slug: kerausbv_2009
 
 ---
 
-#  (KerAusbV 2009)
+# Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin (KerAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-05-27

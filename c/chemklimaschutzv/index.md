@@ -1,8 +1,6 @@
-[^F771263.1_BJNR113900008]
-Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag
-bestimmter fluorierter Treibhausgase
 ---
-Title: ''
+Title: Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter
+  fluorierter Treibhausgase
 jurabk: ChemKlimaschutzV
 layout: default
 origslug: chemklimaschutzv
@@ -10,7 +8,7 @@ slug: chemklimaschutzv
 
 ---
 
-#  (ChemKlimaschutzV)
+# Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase (ChemKlimaschutzV)
 
 Ausfertigungsdatum
 :   2008-07-02

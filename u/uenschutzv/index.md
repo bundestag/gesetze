@@ -1,7 +1,5 @@
-[^F776051_01_BJNR006900012]
-Verordnung zum Schutz von Übertragungsnetzen
 ---
-Title: ''
+Title: Verordnung zum Schutz von Übertragungsnetzen
 jurabk: ÜNSchutzV
 layout: default
 origslug: _nschutzv
@@ -9,7 +7,7 @@ slug: uenschutzv
 
 ---
 
-#  (ÜNSchutzV)
+# Verordnung zum Schutz von Übertragungsnetzen (ÜNSchutzV)
 
 Ausfertigungsdatum
 :   2012-01-06

@@ -1,8 +1,5 @@
-[^f772170_01_BJNR120100009]
-Verordnung über die Berufsausbildung zum Industrieelektriker/zur
-Industrieelektrikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin
 jurabk: IndElekAusbV
 layout: default
 origslug: indelekausbv
@@ -10,7 +7,7 @@ slug: indelekausbv
 
 ---
 
-#  (IndElekAusbV)
+# Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin (IndElekAusbV)
 
 Ausfertigungsdatum
 :   2009-05-28

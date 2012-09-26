@@ -1,7 +1,5 @@
-[^BJNR071400008_01]
-Fleischgesetz
 ---
-Title: ''
+Title: Fleischgesetz
 jurabk: FlG
 layout: default
 origslug: flg
@@ -9,7 +7,7 @@ slug: flg
 
 ---
 
-#  (FlG)
+# Fleischgesetz (FlG)
 
 Ausfertigungsdatum
 :   2008-04-09

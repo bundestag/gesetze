@@ -1,8 +1,6 @@
-[^F768771_01_BJNR278500007]
-Verordnung über die vertraglich gebundenen Vermittler und das
-öffentliche Register nach § 2 Abs. 10 Satz 6 des Kreditwesengesetzes
 ---
-Title: ''
+Title: Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register
+  nach § 2 Abs. 10 Satz 6 des Kreditwesengesetzes
 jurabk: KWGVermV
 layout: default
 origslug: kwgvermv
@@ -10,7 +8,7 @@ slug: kwgvermv
 
 ---
 
-#  (KWGVermV)
+# Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 6 des Kreditwesengesetzes (KWGVermV)
 
 Ausfertigungsdatum
 :   2007-12-04

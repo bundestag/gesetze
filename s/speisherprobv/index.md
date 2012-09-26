@@ -1,8 +1,5 @@
-[^f771080_01_BJNR083000008]
-Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs
-Speiseeishersteller/Speiseeisherstellerin
 ---
-Title: ''
+Title: Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs Speiseeishersteller/Speiseeisherstellerin
 jurabk: SpEisHErprobV
 layout: default
 origslug: speisherprobv
@@ -10,7 +7,7 @@ slug: speisherprobv
 
 ---
 
-#  (SpEisHErprobV)
+# Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs Speiseeishersteller/Speiseeisherstellerin (SpEisHErprobV)
 
 Ausfertigungsdatum
 :   2008-05-13

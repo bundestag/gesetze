@@ -1,8 +1,6 @@
-[^F775557_01_BJNR141200011]
-Verordnung zum Schutz vor schädlichen Wirkungen künstlicher
-ultravioletter Strahlung
 ---
-Title: ''
+Title: Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter
+  Strahlung
 jurabk: UVSV
 layout: default
 origslug: uvsv
@@ -10,7 +8,7 @@ slug: uvsv
 
 ---
 
-#  (UVSV)
+# Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter Strahlung (UVSV)
 
 Ausfertigungsdatum
 :   2011-07-20

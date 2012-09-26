@@ -1,7 +1,5 @@
-[^F772013_01_BJNR122600009]
-Gesetz zum Schengener Informationssystem der zweiten Generation
 ---
-Title: ''
+Title: Gesetz zum Schengener Informationssystem der zweiten Generation
 jurabk: SISIIG
 layout: default
 origslug: sisiig
@@ -9,7 +7,7 @@ slug: sisiig
 
 ---
 
-#  (SISIIG)
+# Gesetz zum Schengener Informationssystem der zweiten Generation (SISIIG)
 
 Ausfertigungsdatum
 :   2009-06-06

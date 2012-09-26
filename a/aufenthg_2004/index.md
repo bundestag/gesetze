@@ -1,9 +1,7 @@
 Gesetz
 über den Aufenthalt, die Erwerbstätigkeit
-[^f770910_01_BJNR195010004]
-und die Integration von Ausländern im Bundesgebiet
 ---
-Title: ''
+Title: und die Integration von Ausländern im Bundesgebiet
 jurabk: AufenthG 2004
 layout: default
 origslug: aufenthg_2004
@@ -11,7 +9,7 @@ slug: aufenthg_2004
 
 ---
 
-#  (AufenthG 2004)
+# und die Integration von Ausländern im Bundesgebiet (AufenthG 2004)
 
 Ausfertigungsdatum
 :   2004-07-30

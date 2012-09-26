@@ -1,7 +1,5 @@
-[^F771714_1_BJNR298610008]
-Raumordnungsgesetz
 ---
-Title: ''
+Title: Raumordnungsgesetz
 jurabk: ROG 2008
 layout: default
 origslug: rog_2008
@@ -9,7 +7,7 @@ slug: rog_2008
 
 ---
 
-#  (ROG 2008)
+# Raumordnungsgesetz (ROG 2008)
 
 Ausfertigungsdatum
 :   2008-12-22

@@ -1,8 +1,6 @@
-[^f775169_01_BJNR059000011]
-Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck
-und zur Medientechnologin Siebdruck
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur
+  Medientechnologin Siebdruck
 jurabk: SiebdrAusbV 2011
 layout: default
 origslug: siebdrausbv_2011
@@ -10,7 +8,7 @@ slug: siebdrausbv_2011
 
 ---
 
-#  (SiebdrAusbV 2011)
+# Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck (SiebdrAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-04-07

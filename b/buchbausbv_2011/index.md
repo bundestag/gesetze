@@ -1,8 +1,5 @@
-[^f775271_01_BJNR096600011]
-Verordnung über die Berufsausbildung zum Buchbinder und zur
-Buchbinderin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin
 jurabk: BuchbAusbV 2011
 layout: default
 origslug: buchbausbv_2011
@@ -10,7 +7,7 @@ slug: buchbausbv_2011
 
 ---
 
-#  (BuchbAusbV 2011)
+# Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin (BuchbAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-05-20

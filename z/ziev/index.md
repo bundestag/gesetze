@@ -1,9 +1,6 @@
-[^F772647_01_BJNR364300009]
-Verordnung über die angemessene Eigenkapitalausstattung von
-Zahlungsinstituten und E-Geld-Instituten nach dem
-Zahlungsdiensteaufsichtsgesetz
 ---
-Title: ''
+Title: Verordnung über die angemessene Eigenkapitalausstattung von Zahlungsinstituten
+  und E-Geld-Instituten nach dem Zahlungsdiensteaufsichtsgesetz
 jurabk: ZIEV
 layout: default
 origslug: ziev
@@ -11,7 +8,7 @@ slug: ziev
 
 ---
 
-#  (ZIEV)
+# Verordnung über die angemessene Eigenkapitalausstattung von Zahlungsinstituten und E-Geld-Instituten nach dem Zahlungsdiensteaufsichtsgesetz (ZIEV)
 
 Ausfertigungsdatum
 :   2009-10-15

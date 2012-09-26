@@ -1,8 +1,6 @@
-[^F1_771332.01_BJNR154500008]
-Verordnung über die Berufsausbildung zum Mechaniker und zur
-Mechanikerin für Land- und Baumaschinentechnik
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Mechaniker und zur Mechanikerin für
+  Land- und Baumaschinentechnik
 jurabk: LandBauMTAusbV 2008
 layout: default
 origslug: landbaumtausbv_2008
@@ -10,7 +8,7 @@ slug: landbaumtausbv_2008
 
 ---
 
-#  (LandBauMTAusbV 2008)
+# Verordnung über die Berufsausbildung zum Mechaniker und zur Mechanikerin für Land- und Baumaschinentechnik (LandBauMTAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

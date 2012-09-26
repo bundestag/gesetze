@@ -1,8 +1,5 @@
-[^F772072_01_BJNR100000009]
-Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter
-Brennelemente
 ---
-Title: ''
+Title: Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente
 jurabk: AtAV 2009
 layout: default
 origslug: atav_2009
@@ -10,7 +7,7 @@ slug: atav_2009
 
 ---
 
-#  (AtAV 2009)
+# Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente (AtAV 2009)
 
 Ausfertigungsdatum
 :   2009-04-30

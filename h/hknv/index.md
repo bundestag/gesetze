@@ -1,7 +1,5 @@
-[^F775902_01_BJNR244700011]
-Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien
 ---
-Title: ''
+Title: Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien
 jurabk: HkNV
 layout: default
 origslug: hknv
@@ -9,13 +7,16 @@ slug: hknv
 
 ---
 
-#  (HkNV)
+# Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien (HkNV)
 
 Ausfertigungsdatum
 :   2011-11-28
 
 Fundstelle
 :   BGBl I: 2011, 2447
+
+Geändert durch
+:   Art. 4 G v. 17.8.2012 I 1754
 
 [^F775902_01_BJNR244700011]:     Diese Verordnung dient der Umsetzung der Richtlinie 2009/28/EG des
     Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung
@@ -274,12 +275,12 @@ Technologie
 
 
 (2) Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung die
-zur Deckung des Verwaltungsaufwands für Amtshandlungen des
-Umweltbundesamtes im Zusammenhang mit der Ausstellung, Anerkennung,
-Übertragung und Entwertung von Herkunftsnachweisen gebührenpflichtigen
-Tatbestände und Gebührensätze sowie die erstattungsfähigen Auslagen
-gemäß § 63a Absatz 1 Satz 2 und 3 des Erneuerbare-Energien-Gesetzes zu
-bestimmen.
+für Amtshandlungen des Umweltbundesamtes im Zusammenhang mit der
+Ausstellung, Anerkennung, Übertragung und Entwertung von
+Herkunftsnachweisen sowie für die Nutzung des
+Herkunftsnachweisregisters gebührenpflichtigen Tatbestände und
+Gebührensätze sowie die erstattungsfähigen Auslagen gemäß § 63a des
+Erneuerbare-Energien-Gesetzes zu bestimmen.
 
 
 ## § 7 Übergangsbestimmungen

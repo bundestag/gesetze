@@ -1,7 +1,5 @@
-[^f772414_01_BJNR215700009]
-Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
 jurabk: AgrarAusbV
 layout: default
 origslug: agrarausbv
@@ -9,7 +7,7 @@ slug: agrarausbv
 
 ---
 
-#  (AgrarAusbV)
+# Verordnung über die Berufsausbildung zur Fachkraft Agrarservice (AgrarAusbV)
 
 Ausfertigungsdatum
 :   2009-07-23

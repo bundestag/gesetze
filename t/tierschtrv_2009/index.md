@@ -1,9 +1,6 @@
-[^f771804_01_BJNR037500009]
-Verordnung zum Schutz von Tieren beim Transport und zur Durchführung
-der Verordnung (EG) Nr. 1/2005 des Rates
-[^f771804_02_BJNR037500009]
 ---
-Title: ''
+Title: Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung
+  (EG) Nr. 1/2005 des Rates
 jurabk: TierSchTrV 2009
 layout: default
 origslug: tierschtrv_2009
@@ -11,7 +8,7 @@ slug: tierschtrv_2009
 
 ---
 
-#  (TierSchTrV 2009)
+# Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates (TierSchTrV 2009)
 
 Ausfertigungsdatum
 :   2009-02-11

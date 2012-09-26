@@ -1,7 +1,5 @@
-[^fn772806_01_BJNR003800010]
-Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 ---
-Title: ''
+Title: Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 jurabk: BImSchV 1 2010
 layout: default
 origslug: bimschv_1_2010
@@ -9,7 +7,7 @@ slug: bimschv_1_2010
 
 ---
 
-#  (BImSchV 1 2010)
+# Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 1 2010)
 
 Ausfertigungsdatum
 :   2010-01-26

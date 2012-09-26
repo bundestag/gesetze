@@ -1,9 +1,6 @@
-[^F772944_01_BJNR014000010]
-Verordnung über das datenbankgestützte Informationssystem über
-Arzneimittel des Deutschen Instituts für Medizinische Dokumentation
-und Information
 ---
-Title: ''
+Title: Verordnung über das datenbankgestützte Informationssystem über Arzneimittel
+  des Deutschen Instituts für Medizinische Dokumentation und Information
 jurabk: DIMDIAMV
 layout: default
 origslug: dimdiamv
@@ -11,7 +8,7 @@ slug: dimdiamv
 
 ---
 
-#  (DIMDIAMV)
+# Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Deutschen Instituts für Medizinische Dokumentation und Information (DIMDIAMV)
 
 Ausfertigungsdatum
 :   2010-02-24

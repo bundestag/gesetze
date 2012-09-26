@@ -1,8 +1,6 @@
-[^F771544_01_BJNR221500008]
-Verordnung über Mittel zum Tätowieren einschließlich bestimmter
-vergleichbarer Stoffe und Zubereitungen aus Stoffen
 ---
-Title: ''
+Title: Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer
+  Stoffe und Zubereitungen aus Stoffen
 jurabk: TätoV
 layout: default
 origslug: t_tov
@@ -10,7 +8,7 @@ slug: taetov
 
 ---
 
-#  (TätoV)
+# Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen (TätoV)
 
 Ausfertigungsdatum
 :   2008-11-13

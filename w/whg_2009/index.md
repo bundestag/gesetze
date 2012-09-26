@@ -1,8 +1,5 @@
-[^f772370_01_BJNR258510009]
-Gesetz zur Ordnung des Wasserhaushalts
-[^f772370_02_BJNR258510009]
 ---
-Title: ''
+Title: Gesetz zur Ordnung des Wasserhaushalts
 jurabk: WHG 2009
 layout: default
 origslug: whg_2009
@@ -10,7 +7,7 @@ slug: whg_2009
 
 ---
 
-#  (WHG 2009)
+# Gesetz zur Ordnung des Wasserhaushalts (WHG 2009)
 
 Ausfertigungsdatum
 :   2009-07-31

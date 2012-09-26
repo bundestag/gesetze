@@ -1,8 +1,5 @@
-[^F771329_1_BJNR141300008]
-Verordnung über die Berufsausbildung zum Elektroniker und zur
-Elektronikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Elektroniker und zur Elektronikerin
 jurabk: ElektronAusbV 2008
 layout: default
 origslug: elektronausbv_2008
@@ -10,7 +7,7 @@ slug: elektronausbv_2008
 
 ---
 
-#  (ElektronAusbV 2008)
+# Verordnung über die Berufsausbildung zum Elektroniker und zur Elektronikerin (ElektronAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25
