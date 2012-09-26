@@ -1,8 +1,5 @@
-[^f772162_01_BJNR124000009]
-Verordnung über die Berufsausbildung zum Bergbautechnologen/zur
-Bergbautechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin
 jurabk: BergtechAusbV
 layout: default
 origslug: bergtechausbv
@@ -10,7 +7,7 @@ slug: bergtechausbv
 
 ---
 
-#  (BergtechAusbV)
+# Verordnung über die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin (BergtechAusbV)
 
 Ausfertigungsdatum
 :   2009-06-04

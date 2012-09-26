@@ -1,8 +1,5 @@
-[^f771150_01_BJNR103400008]
-Verordnung über die Berufsausbildung zum Produktionstechnologen/zur
-Produktionstechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin
 jurabk: ProdTechAusbV
 layout: default
 origslug: prodtechausbv
@@ -10,7 +7,7 @@ slug: prodtechausbv
 
 ---
 
-#  (ProdTechAusbV)
+# Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin (ProdTechAusbV)
 
 Ausfertigungsdatum
 :   2008-06-16

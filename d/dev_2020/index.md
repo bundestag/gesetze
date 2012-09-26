@@ -1,8 +1,6 @@
-[^f772437_01_BJNR211800009]
-Verordnung über die Erhebung von Daten zur Einbeziehung des
-Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel
 ---
-Title: ''
+Title: Verordnung über die Erhebung von Daten zur Einbeziehung des Luftverkehrs sowie
+  weiterer Tätigkeiten in den Emissionshandel
 jurabk: DEV 2020
 layout: default
 origslug: dev_2020
@@ -10,7 +8,7 @@ slug: dev_2020
 
 ---
 
-#  (DEV 2020)
+# Verordnung über die Erhebung von Daten zur Einbeziehung des Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel (DEV 2020)
 
 Ausfertigungsdatum
 :   2009-07-22

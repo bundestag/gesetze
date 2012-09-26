@@ -1,7 +1,5 @@
-[^F771822_01_BJNR015200009]
-Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
 ---
-Title: ''
+Title: Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
 jurabk: HopfV
 layout: default
 origslug: hopfv
@@ -9,7 +7,7 @@ slug: hopfv
 
 ---
 
-#  (HopfV)
+# Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts (HopfV)
 
 Ausfertigungsdatum
 :   2009-01-27

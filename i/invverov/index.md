@@ -1,8 +1,6 @@
-[^F1_775469_BJNR128800011]
-Verordnung zur Konkretisierung der Verhaltensregeln und
-Organisationsregeln nach dem Investmentgesetz
 ---
-Title: ''
+Title: Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln
+  nach dem Investmentgesetz
 jurabk: InvVerOV
 layout: default
 origslug: invverov
@@ -10,7 +8,7 @@ slug: invverov
 
 ---
 
-#  (InvVerOV)
+# Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Investmentgesetz (InvVerOV)
 
 Ausfertigungsdatum
 :   2011-06-28

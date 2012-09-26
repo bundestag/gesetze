@@ -1,11 +1,7 @@
-[^F0771943_01_BJNR048500009]
-Verordnung über die Gleichstellung von außerhalb des
-Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen
-Prüfungszeugnissen mit den Prüfungszeugnissen nach der
-Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen
-Anerkennung
 ---
-Title: ''
+Title: Verordnung über die Gleichstellung von außerhalb des Anwendungsbereichs des
+  Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen mit den Prüfungszeugnissen
+  nach der Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen Anerkennung
 jurabk: HufBeschl-AnerkennV
 layout: default
 origslug: hufbeschl-anerkennv
@@ -13,7 +9,7 @@ slug: hufbeschl-anerkennv
 
 ---
 
-#  (HufBeschl-AnerkennV)
+# Verordnung über die Gleichstellung von außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen mit den Prüfungszeugnissen nach der Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen Anerkennung (HufBeschl-AnerkennV)
 
 Ausfertigungsdatum
 :   2009-03-10

@@ -1,8 +1,6 @@
-[^F771334_1_BJNR152300008]
-Verordnung über die Berufsausbildung zum Karosserie- und
-Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker
+  und zur Karosserie- und Fahrzeugbaumechanikerin
 jurabk: KarFahrzbMAusbV 2008
 layout: default
 origslug: karfahrzbmausbv_2008
@@ -10,7 +8,7 @@ slug: karfahrzbmausbv_2008
 
 ---
 
-#  (KarFahrzbMAusbV 2008)
+# Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin (KarFahrzbMAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

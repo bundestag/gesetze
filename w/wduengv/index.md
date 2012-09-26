@@ -1,8 +1,5 @@
-[^F774435_01_BJNR106200010]
-Verordnung über das Inverkehrbringen und Befördern von
-Wirtschaftsdünger
 ---
-Title: ''
+Title: Verordnung über das Inverkehrbringen und Befördern von Wirtschaftsdünger
 jurabk: WDüngV
 layout: default
 origslug: wd_ngv
@@ -10,7 +7,7 @@ slug: wduengv
 
 ---
 
-#  (WDüngV)
+# Verordnung über das Inverkehrbringen und Befördern von Wirtschaftsdünger (WDüngV)
 
 Ausfertigungsdatum
 :   2010-07-21

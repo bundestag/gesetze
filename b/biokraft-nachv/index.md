@@ -1,8 +1,5 @@
-[^F772617_01_BJNR318200009]
-Verordnung über Anforderungen an eine nachhaltige Herstellung von
-Biokraftstoffen
 ---
-Title: ''
+Title: Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen
 jurabk: Biokraft-NachV
 layout: default
 origslug: biokraft-nachv
@@ -10,7 +7,7 @@ slug: biokraft-nachv
 
 ---
 
-#  (Biokraft-NachV)
+# Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen (Biokraft-NachV)
 
 Ausfertigungsdatum
 :   2009-09-30

@@ -1,8 +1,5 @@
-[^f775243_01_BJNR069800011]
-Verordnung über die Berufsausbildung zum Augenoptiker und zur
-Augenoptikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin
 jurabk: AugenoptAusbV
 layout: default
 origslug: augenoptausbv
@@ -10,7 +7,7 @@ slug: augenoptausbv
 
 ---
 
-#  (AugenoptAusbV)
+# Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin (AugenoptAusbV)
 
 Ausfertigungsdatum
 :   2011-04-26

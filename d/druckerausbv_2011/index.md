@@ -1,8 +1,6 @@
-[^f775170_01_BJNR057000011]
-Verordnung über die Berufsausbildung zum Medientechnologen Druck und
-zur Medientechnologin Druck
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin
+  Druck
 jurabk: DruckerAusbV 2011
 layout: default
 origslug: druckerausbv_2011
@@ -10,7 +8,7 @@ slug: druckerausbv_2011
 
 ---
 
-#  (DruckerAusbV 2011)
+# Verordnung über die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck (DruckerAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-04-07

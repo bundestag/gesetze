@@ -1,7 +1,5 @@
-[^F774705_01_BJNR164400010]
-Verordnung zum Schutz vor Gefahrstoffen
 ---
-Title: ''
+Title: Verordnung zum Schutz vor Gefahrstoffen
 jurabk: GefStoffV 2010
 layout: default
 origslug: gefstoffv_2010
@@ -9,7 +7,7 @@ slug: gefstoffv_2010
 
 ---
 
-#  (GefStoffV 2010)
+# Verordnung zum Schutz vor Gefahrstoffen (GefStoffV 2010)
 
 Ausfertigungsdatum
 :   2010-11-26

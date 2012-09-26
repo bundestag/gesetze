@@ -1,7 +1,5 @@
-[^f774780_01_BJNR013900011]
-Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr
 ---
-Title: ''
+Title: Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr
 jurabk: FZV 2011
 layout: default
 origslug: fzv_2011
@@ -9,7 +7,7 @@ slug: fzv_2011
 
 ---
 
-#  (FZV 2011)
+# Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (FZV 2011)
 
 Ausfertigungsdatum
 :   2011-02-03

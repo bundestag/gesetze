@@ -1,8 +1,5 @@
-[^F772692_BJNR368000009]
-Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-
-Institute
 ---
-Title: ''
+Title: Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute
 jurabk: RechZahlV
 layout: default
 origslug: rechzahlv
@@ -10,7 +7,7 @@ slug: rechzahlv
 
 ---
 
-#  (RechZahlV)
+# Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute (RechZahlV)
 
 Ausfertigungsdatum
 :   2009-11-02

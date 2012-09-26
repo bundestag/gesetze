@@ -1,8 +1,6 @@
-[^F775453_01_BJNR135000011]
-Zweite Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung
-über die Sicherheit von Spielzeug)
 ---
-Title: ''
+Title: Zweite Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über
+  die Sicherheit von Spielzeug)
 jurabk: GPSGV 2
 layout: default
 origslug: gpsgv_2
@@ -10,7 +8,7 @@ slug: gpsgv_2
 
 ---
 
-#  (GPSGV 2)
+# Zweite Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über die Sicherheit von Spielzeug) (GPSGV 2)
 
 Ausfertigungsdatum
 :   2011-07-07

@@ -1,7 +1,5 @@
-[^F772203_01_BJNR129200009]
-Verordnung über die Kehrung und Überprüfung von Anlagen
 ---
-Title: ''
+Title: Verordnung über die Kehrung und Überprüfung von Anlagen
 jurabk: KÜO
 layout: default
 origslug: k_o
@@ -9,7 +7,7 @@ slug: kueo
 
 ---
 
-#  (KÜO)
+# Verordnung über die Kehrung und Überprüfung von Anlagen (KÜO)
 
 Ausfertigungsdatum
 :   2009-06-16

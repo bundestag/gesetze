@@ -1,7 +1,5 @@
-[^f771102_01_BJNR085600008]
-Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 jurabk: FriseurAusbV 2008
 layout: default
 origslug: friseurausbv_2008
@@ -9,7 +7,7 @@ slug: friseurausbv_2008
 
 ---
 
-#  (FriseurAusbV 2008)
+# Verordnung über die Berufsausbildung zum Friseur/zur Friseurin (FriseurAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-05-21

@@ -1,7 +1,5 @@
-[^F772725_01_BJNR378300009]
-Verordnung zur Durchführung des Batteriegesetzes
 ---
-Title: ''
+Title: Verordnung zur Durchführung des Batteriegesetzes
 jurabk: BattGDV
 layout: default
 origslug: battgdv
@@ -9,7 +7,7 @@ slug: battgdv
 
 ---
 
-#  (BattGDV)
+# Verordnung zur Durchführung des Batteriegesetzes (BattGDV)
 
 Ausfertigungsdatum
 :   2009-11-12

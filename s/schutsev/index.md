@@ -1,9 +1,7 @@
-[^f771926_01_BJNR106000009]
-Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und
-Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen
-zu Sicherheitszwecken betrieben werden
 ---
-Title: ''
+Title: Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende-
+  und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken
+  betrieben werden
 jurabk: SchuTSEV
 layout: default
 origslug: schutsev
@@ -11,7 +9,7 @@ slug: schutsev
 
 ---
 
-#  (SchuTSEV)
+# Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden (SchuTSEV)
 
 Ausfertigungsdatum
 :   2009-05-13

@@ -1,8 +1,5 @@
-[^F775279_01_BJNR105800011]
-Verordnung über die Berufsausbildung zum Bootsbauer und zur
-Bootsbauerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Bootsbauer und zur Bootsbauerin
 jurabk: BootsbAusbV 2011
 layout: default
 origslug: bootsbausbv_2011
@@ -10,7 +7,7 @@ slug: bootsbausbv_2011
 
 ---
 
-#  (BootsbAusbV 2011)
+# Verordnung über die Berufsausbildung zum Bootsbauer und zur Bootsbauerin (BootsbAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-06-08

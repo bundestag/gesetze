@@ -1,7 +1,5 @@
-[^F1_774693_BJNR151300010]
-Verordnung zum Schutz des Grundwassers
 ---
-Title: ''
+Title: Verordnung zum Schutz des Grundwassers
 jurabk: GrwV 2010
 layout: default
 origslug: grwv_2010
@@ -9,7 +7,7 @@ slug: grwv_2010
 
 ---
 
-#  (GrwV 2010)
+# Verordnung zum Schutz des Grundwassers (GrwV 2010)
 
 Ausfertigungsdatum
 :   2010-11-09

@@ -1,10 +1,8 @@
-[^F770262_01_BJNR307500007]
-Verordnung über die für Staatsangehörige eines Mitgliedstaates der
-Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum oder der Schweiz geltenden
-Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks
 ---
-Title: ''
+Title: Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen
+  Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+  oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen
+  Handwerks
 jurabk: EU/EWRHwV
 layout: default
 origslug: eu_ewrhwv
@@ -12,7 +10,7 @@ slug: eu_ewrhwv
 
 ---
 
-#  (EU/EWRHwV)
+# Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks (EU/EWRHwV)
 
 Ausfertigungsdatum
 :   2007-12-20

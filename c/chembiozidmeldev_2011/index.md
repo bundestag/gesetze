@@ -1,8 +1,5 @@
-[^F775370_01_BJNR108500011]
-Verordnung über die Meldung von Biozid-Produkten nach dem
-Chemikaliengesetz
 ---
-Title: ''
+Title: Verordnung über die Meldung von Biozid-Produkten nach dem Chemikaliengesetz
 jurabk: ChemBiozidMeldeV 2011
 layout: default
 origslug: chembiozidmeldev_2011
@@ -10,7 +7,7 @@ slug: chembiozidmeldev_2011
 
 ---
 
-#  (ChemBiozidMeldeV 2011)
+# Verordnung über die Meldung von Biozid-Produkten nach dem Chemikaliengesetz (ChemBiozidMeldeV 2011)
 
 Ausfertigungsdatum
 :   2011-06-14

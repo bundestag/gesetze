@@ -1,7 +1,5 @@
-[^f772200_01_BJNR136000009]
-Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
 jurabk: ChemikAusbV 2009
 layout: default
 origslug: chemikausbv_2009
@@ -9,7 +7,7 @@ slug: chemikausbv_2009
 
 ---
 
-#  (ChemikAusbV 2009)
+# Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin (ChemikAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-06-10

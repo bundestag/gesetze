@@ -1,7 +1,5 @@
-[^F777237_01_BJNR136600012]
-Gesetz zur Errichtung eines Nationalen Waffenregisters
 ---
-Title: ''
+Title: Gesetz zur Errichtung eines Nationalen Waffenregisters
 jurabk: NWRG
 layout: default
 origslug: nwrg
@@ -9,7 +7,7 @@ slug: nwrg
 
 ---
 
-#  (NWRG)
+# Gesetz zur Errichtung eines Nationalen Waffenregisters (NWRG)
 
 Ausfertigungsdatum
 :   2012-06-25

@@ -1,7 +1,5 @@
-[^f775901_01_BJNR154810996]
-Gesetz über Europäische Betriebsräte
 ---
-Title: ''
+Title: Gesetz über Europäische Betriebsräte
 jurabk: EBRG
 layout: default
 origslug: ebrg
@@ -9,7 +7,7 @@ slug: ebrg
 
 ---
 
-#  (EBRG)
+# Gesetz über Europäische Betriebsräte (EBRG)
 
 Ausfertigungsdatum
 :   1996-10-28

@@ -1,9 +1,6 @@
-[^f772147_01_BJNR138900009]
-Verordnung über die innerstaatliche und grenzüberschreitende
-Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf
-Binnengewässern
 ---
-Title: ''
+Title: Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher
+  Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern
 jurabk: GGVSEB
 layout: default
 origslug: ggvseb
@@ -11,7 +8,7 @@ slug: ggvseb
 
 ---
 
-#  (GGVSEB)
+# Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern (GGVSEB)
 
 Ausfertigungsdatum
 :   2009-06-17

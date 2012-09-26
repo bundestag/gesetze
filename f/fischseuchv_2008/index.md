@@ -1,7 +1,5 @@
-[^F771564_01_BJNR231510008]
-Fischseuchenverordnung
 ---
-Title: ''
+Title: Fischseuchenverordnung
 jurabk: FischSeuchV 2008
 layout: default
 origslug: fischseuchv_2008
@@ -9,7 +7,7 @@ slug: fischseuchv_2008
 
 ---
 
-#  (FischSeuchV 2008)
+# Fischseuchenverordnung (FischSeuchV 2008)
 
 Ausfertigungsdatum
 :   2008-11-24

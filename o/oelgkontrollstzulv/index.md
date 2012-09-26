@@ -1,8 +1,5 @@
-[^f776729_01_BJNR104400012]
-Verordnung über die Zulassung von Kontrollstellen nach dem Öko-
-Landbaugesetz
 ---
-Title: ''
+Title: Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz
 jurabk: ÖLGKontrollStZulV
 layout: default
 origslug: _lgkontrollstzulv
@@ -10,7 +7,7 @@ slug: oelgkontrollstzulv
 
 ---
 
-#  (ÖLGKontrollStZulV)
+# Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz (ÖLGKontrollStZulV)
 
 Ausfertigungsdatum
 :   2012-05-07

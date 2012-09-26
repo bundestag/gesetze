@@ -1,9 +1,6 @@
-[^f775244_01_BJNR095300011]
-Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann
-für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau
-für Privat- und Geschäftsreisen)
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat-
+  und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)
 jurabk: ReiseKfmAusbV 2011
 layout: default
 origslug: reisekfmausbv_2011
@@ -11,7 +8,7 @@ slug: reisekfmausbv_2011
 
 ---
 
-#  (ReiseKfmAusbV 2011)
+# Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) (ReiseKfmAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-05-19

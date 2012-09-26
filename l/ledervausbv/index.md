@@ -1,8 +1,5 @@
-[^f775010_01_BJNR025500011]
-Verordnung über die Berufsausbildung zur Fachkraft für
-Lederverarbeitung
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zur Fachkraft für Lederverarbeitung
 jurabk: LederVAusbV
 layout: default
 origslug: ledervausbv
@@ -10,7 +7,7 @@ slug: ledervausbv
 
 ---
 
-#  (LederVAusbV)
+# Verordnung über die Berufsausbildung zur Fachkraft für Lederverarbeitung (LederVAusbV)
 
 Ausfertigungsdatum
 :   2011-02-14

@@ -1,8 +1,6 @@
-[^f775189_01_BJNR055800011]
-Verordnung über die Berufsausbildung zur Fachkraft für Möbel-, Küchen-
-und Umzugsservice
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und
+  Umzugsservice
 jurabk: MKUServAusbV
 layout: default
 origslug: mkuservausbv
@@ -10,7 +8,7 @@ slug: mkuservausbv
 
 ---
 
-#  (MKUServAusbV)
+# Verordnung über die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und Umzugsservice (MKUServAusbV)
 
 Ausfertigungsdatum
 :   2011-04-06

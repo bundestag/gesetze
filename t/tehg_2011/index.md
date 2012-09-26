@@ -1,8 +1,5 @@
-[^F775521_01_BJNR147510011]
-Gesetz über den Handel mit Berechtigungen zur Emission von
-Treibhausgasen
 ---
-Title: ''
+Title: Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen
 jurabk: TEHG 2011
 layout: default
 origslug: tehg_2011
@@ -10,7 +7,7 @@ slug: tehg_2011
 
 ---
 
-#  (TEHG 2011)
+# Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen (TEHG 2011)
 
 Ausfertigungsdatum
 :   2011-07-21

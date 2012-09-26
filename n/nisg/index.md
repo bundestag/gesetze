@@ -1,8 +1,5 @@
-[^f1.772363_01_BJNR243310009]
-Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung
-am Menschen
 ---
-Title: ''
+Title: Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen
 jurabk: NiSG
 layout: default
 origslug: nisg
@@ -10,7 +7,7 @@ slug: nisg
 
 ---
 
-#  (NiSG)
+# Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen (NiSG)
 
 Ausfertigungsdatum
 :   2009-07-29

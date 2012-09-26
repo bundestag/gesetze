@@ -1,7 +1,5 @@
-[^f771123_01_BJNR094700008]
-Verordnung über die Berufsausbildung zum Seiler und zur Seilerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Seiler und zur Seilerin
 jurabk: SeilAusbV 2008
 layout: default
 origslug: seilausbv_2008
@@ -9,7 +7,7 @@ slug: seilausbv_2008
 
 ---
 
-#  (SeilAusbV 2008)
+# Verordnung über die Berufsausbildung zum Seiler und zur Seilerin (SeilAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-05-22

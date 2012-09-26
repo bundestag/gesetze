@@ -1,9 +1,6 @@
-[^f774264_01_BJNR106510010]
-Neununddreißigste Verordnung zur Durchführung des Bundes-
-Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und
-Emissionshöchstmengen
 ---
-Title: ''
+Title: Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+  Verordnung über Luftqualitätsstandards und Emissionshöchstmengen
 jurabk: BImSchV 39
 layout: default
 origslug: bimschv_39
@@ -11,7 +8,7 @@ slug: bimschv_39
 
 ---
 
-#  (BImSchV 39)
+# Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und Emissionshöchstmengen (BImSchV 39)
 
 Ausfertigungsdatum
 :   2010-08-02

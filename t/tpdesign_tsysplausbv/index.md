@@ -1,9 +1,7 @@
-[^f775417_01_BJNR121500011]
-Verordnung über die Berufsausbildung zum Technischen Produktdesigner
-und zur Technischen Produktdesignerin sowie zum Technischen
-Systemplaner und zur Technischen Systemplanerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur
+  Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen
+  Systemplanerin
 jurabk: TPDesign/TSysPlAusbV
 layout: default
 origslug: tpdesign_tsysplausbv
@@ -11,7 +9,7 @@ slug: tpdesign_tsysplausbv
 
 ---
 
-#  (TPDesign/TSysPlAusbV)
+# Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen Systemplanerin (TPDesign/TSysPlAusbV)
 
 Ausfertigungsdatum
 :   2011-06-21

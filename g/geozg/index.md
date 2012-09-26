@@ -1,7 +1,5 @@
-[^F771806.01_BJNR027800009]
-Gesetz über den Zugang zu digitalen Geodaten
 ---
-Title: ''
+Title: Gesetz über den Zugang zu digitalen Geodaten
 jurabk: GeoZG
 layout: default
 origslug: geozg
@@ -9,7 +7,7 @@ slug: geozg
 
 ---
 
-#  (GeoZG)
+# Gesetz über den Zugang zu digitalen Geodaten (GeoZG)
 
 Ausfertigungsdatum
 :   2009-02-10

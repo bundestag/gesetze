@@ -1,8 +1,6 @@
-[^BJNR117800011_01]
-Verordnung über die Berufsausbildung zum Textilgestalter und zur
-Textilgestalterin im Handwerk
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Textilgestalter und zur Textilgestalterin
+  im Handwerk
 jurabk: TextilGestAusbV
 layout: default
 origslug: textilgestausbv
@@ -10,7 +8,7 @@ slug: textilgestausbv
 
 ---
 
-#  (TextilGestAusbV)
+# Verordnung über die Berufsausbildung zum Textilgestalter und zur Textilgestalterin im Handwerk (TextilGestAusbV)
 
 Ausfertigungsdatum
 :   2011-06-17

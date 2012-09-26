@@ -1,8 +1,6 @@
-[^Fn775076_01_BJNR044000011]
-Verordnung über die Berufsausbildung zum Mediengestalter Flexografie
-und zur Mediengestalterin Flexografie
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Mediengestalter Flexografie und zur
+  Mediengestalterin Flexografie
 jurabk: FlexogrAusbV 2011
 layout: default
 origslug: flexograusbv_2011
@@ -10,7 +8,7 @@ slug: flexograusbv_2011
 
 ---
 
-#  (FlexogrAusbV 2011)
+# Verordnung über die Berufsausbildung zum Mediengestalter Flexografie und zur Mediengestalterin Flexografie (FlexogrAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-03-15

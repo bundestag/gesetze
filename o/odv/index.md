@@ -1,7 +1,5 @@
-[^F1_775826_BJNR234910011]
-Ortsbewegliche-Druckgeräte-Verordnung
 ---
-Title: ''
+Title: Ortsbewegliche-Druckgeräte-Verordnung
 jurabk: ODV
 layout: default
 origslug: odv
@@ -9,7 +7,7 @@ slug: odv
 
 ---
 
-#  (ODV)
+# Ortsbewegliche-Druckgeräte-Verordnung (ODV)
 
 Ausfertigungsdatum
 :   2011-11-29
