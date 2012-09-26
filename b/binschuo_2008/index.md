@@ -1,7 +1,5 @@
-[^F771547_01_BJNR245000008]
-Verordnung über die Schiffssicherheit in der Binnenschifffahrt
 ---
-Title: ''
+Title: Verordnung über die Schiffssicherheit in der Binnenschifffahrt
 jurabk: BinSchUO 2008
 layout: default
 origslug: binschuo_2008
@@ -9,7 +7,7 @@ slug: binschuo_2008
 
 ---
 
-#  (BinSchUO 2008)
+# Verordnung über die Schiffssicherheit in der Binnenschifffahrt (BinSchUO 2008)
 
 Ausfertigungsdatum
 :   2008-12-06

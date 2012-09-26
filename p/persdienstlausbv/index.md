@@ -1,8 +1,6 @@
-[^F770813_01_BJNR023300008]
-Verordnung über die Berufsausbildung zum
-Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Personaldienstleistungskaufmann/zur
+  Personaldienstleistungskauffrau
 jurabk: PersDienstLAusbV
 layout: default
 origslug: persdienstlausbv
@@ -10,7 +8,7 @@ slug: persdienstlausbv
 
 ---
 
-#  (PersDienstLAusbV)
+# Verordnung über die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau (PersDienstLAusbV)
 
 Ausfertigungsdatum
 :   2008-02-13

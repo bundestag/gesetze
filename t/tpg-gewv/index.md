@@ -1,9 +1,6 @@
-[^f770878_01_BJNR051200008]
-Verordnung über die Anforderungen an Qualität und Sicherheit der
-Entnahme von Geweben und deren Übertragung nach dem
-Transplantationsgesetz
 ---
-Title: ''
+Title: Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von
+  Geweben und deren Übertragung nach dem Transplantationsgesetz
 jurabk: TPG-GewV
 layout: default
 origslug: tpg-gewv
@@ -11,7 +8,7 @@ slug: tpg-gewv
 
 ---
 
-#  (TPG-GewV)
+# Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von Geweben und deren Übertragung nach dem Transplantationsgesetz (TPG-GewV)
 
 Ausfertigungsdatum
 :   2008-03-26

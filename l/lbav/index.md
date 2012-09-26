@@ -1,8 +1,5 @@
-[^F772704_01_BJNR382400009]
-Verordnung über die Anerkennung europäischer Berufsqualifikationen als
-Laufbahnbefähigung
 ---
-Title: ''
+Title: Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung
 jurabk: LBAV
 layout: default
 origslug: lbav
@@ -10,7 +7,7 @@ slug: lbav
 
 ---
 
-#  (LBAV)
+# Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung (LBAV)
 
 Ausfertigungsdatum
 :   2009-11-23

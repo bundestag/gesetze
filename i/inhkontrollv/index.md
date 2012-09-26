@@ -1,8 +1,6 @@
-[^F771967_01_BJNR056210009]
-Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und §
-104 des Versicherungsaufsichtsgesetzes
 ---
-Title: ''
+Title: Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des
+  Versicherungsaufsichtsgesetzes
 jurabk: InhKontrollV
 layout: default
 origslug: inhkontrollv
@@ -10,7 +8,7 @@ slug: inhkontrollv
 
 ---
 
-#  (InhKontrollV)
+# Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes (InhKontrollV)
 
 Ausfertigungsdatum
 :   2009-03-20

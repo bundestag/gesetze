@@ -1,7 +1,5 @@
-[^F776942_01_BJNR134600012]
-Durchführungsverordnung zum Fahrlehrergesetz
 ---
-Title: ''
+Title: Durchführungsverordnung zum Fahrlehrergesetz
 jurabk: FahrlGDV 2012
 layout: default
 origslug: fahrlgdv_2012
@@ -9,7 +7,7 @@ slug: fahrlgdv_2012
 
 ---
 
-#  (FahrlGDV 2012)
+# Durchführungsverordnung zum Fahrlehrergesetz (FahrlGDV 2012)
 
 Ausfertigungsdatum
 :   2012-06-19

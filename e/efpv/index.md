@@ -1,8 +1,6 @@
-[^F772497_01_BJNR295700009]
-Verordnung über die Einsatzbedingungen des fahrenden Personals im
-interoperablen grenzüberschreitenden Eisenbahnverkehr
 ---
-Title: ''
+Title: Verordnung über die Einsatzbedingungen des fahrenden Personals im interoperablen
+  grenzüberschreitenden Eisenbahnverkehr
 jurabk: EFPV
 layout: default
 origslug: efpv
@@ -10,7 +8,7 @@ slug: efpv
 
 ---
 
-#  (EFPV)
+# Verordnung über die Einsatzbedingungen des fahrenden Personals im interoperablen grenzüberschreitenden Eisenbahnverkehr (EFPV)
 
 Ausfertigungsdatum
 :   2009-08-24

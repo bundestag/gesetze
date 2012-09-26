@@ -1,9 +1,6 @@
-[^F774777_01_BJNR012600011]
-Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre
-Anhänger sowie für Systeme, Bauteile und selbstständige technische
-Einheiten für diese Fahrzeuge
 ---
-Title: ''
+Title: Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie
+  für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge
 jurabk: EG-FGV 2011
 layout: default
 origslug: eg-fgv_2011
@@ -11,7 +8,7 @@ slug: eg-fgv_2011
 
 ---
 
-#  (EG-FGV 2011)
+# Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge (EG-FGV 2011)
 
 Ausfertigungsdatum
 :   2011-02-03

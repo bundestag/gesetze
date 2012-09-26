@@ -1,7 +1,5 @@
-[^F769932.1_BJNR300400007]
-Verordnung über Informationspflichten bei Versicherungsverträgen
 ---
-Title: ''
+Title: Verordnung über Informationspflichten bei Versicherungsverträgen
 jurabk: VVG-InfoV
 layout: default
 origslug: vvg-infov
@@ -9,7 +7,7 @@ slug: vvg-infov
 
 ---
 
-#  (VVG-InfoV)
+# Verordnung über Informationspflichten bei Versicherungsverträgen (VVG-InfoV)
 
 Ausfertigungsdatum
 :   2007-12-18

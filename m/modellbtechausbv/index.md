@@ -1,8 +1,6 @@
-[^f772144_01_BJNR118700009]
-Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur
-Technischen Modellbauerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen
+  Modellbauerin
 jurabk: ModellBTechAusbV
 layout: default
 origslug: modellbtechausbv
@@ -10,7 +8,7 @@ slug: modellbtechausbv
 
 ---
 
-#  (ModellBTechAusbV)
+# Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin (ModellBTechAusbV)
 
 Ausfertigungsdatum
 :   2009-05-27

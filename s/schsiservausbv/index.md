@@ -1,8 +1,5 @@
-[^f771113_01_BJNR094000008]
-Verordnung über die Berufsausbildung zur Servicekraft für Schutz und
-Sicherheit
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zur Servicekraft für Schutz und Sicherheit
 jurabk: SchSiServAusbV
 layout: default
 origslug: schsiservausbv
@@ -10,7 +7,7 @@ slug: schsiservausbv
 
 ---
 
-#  (SchSiServAusbV)
+# Verordnung über die Berufsausbildung zur Servicekraft für Schutz und Sicherheit (SchSiServAusbV)
 
 Ausfertigungsdatum
 :   2008-05-21

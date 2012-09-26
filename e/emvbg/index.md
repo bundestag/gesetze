@@ -1,7 +1,5 @@
-[^f770791_01_BJNR022000008]
-Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln
 ---
-Title: ''
+Title: Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln
 jurabk: EMVBG
 layout: default
 origslug: emvbg
@@ -9,7 +7,7 @@ slug: emvbg
 
 ---
 
-#  (EMVBG)
+# Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln (EMVBG)
 
 Ausfertigungsdatum
 :   2008-02-26

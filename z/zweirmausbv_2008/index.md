@@ -1,8 +1,5 @@
-[^F771331_1_BJNR156000008]
-Verordnung über die Berufsausbildung zum Zweiradmechaniker und zur
-Zweiradmechanikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Zweiradmechaniker und zur Zweiradmechanikerin
 jurabk: ZweirMAusbV 2008
 layout: default
 origslug: zweirmausbv_2008
@@ -10,7 +7,7 @@ slug: zweirmausbv_2008
 
 ---
 
-#  (ZweirMAusbV 2008)
+# Verordnung über die Berufsausbildung zum Zweiradmechaniker und zur Zweiradmechanikerin (ZweirMAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

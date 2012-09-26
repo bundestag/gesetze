@@ -1,8 +1,6 @@
-[^F771494_01_BJNR205300008]
-Verordnung über die Gewinnung, Abgabe und Verwendung von Samen,
-Eizellen und Embryonen von Zuchttieren
 ---
-Title: ''
+Title: Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und
+  Embryonen von Zuchttieren
 jurabk: SamEnV
 layout: default
 origslug: samenv
@@ -10,7 +8,7 @@ slug: samenv
 
 ---
 
-#  (SamEnV)
+# Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren (SamEnV)
 
 Ausfertigungsdatum
 :   2008-10-14

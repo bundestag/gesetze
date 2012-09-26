@@ -1,8 +1,5 @@
-[^F1_774090_BJNR043600010]
-Verordnung über die Berufsausbildung zum Papiertechnologen/zur
-Papiertechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
 jurabk: PapTechAusbV 2010
 layout: default
 origslug: paptechausbv_2010
@@ -10,7 +7,7 @@ slug: paptechausbv_2010
 
 ---
 
-#  (PapTechAusbV 2010)
+# Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin (PapTechAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-04-20

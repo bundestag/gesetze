@@ -1,8 +1,5 @@
-[^F774046_01_BJNR042100010]
-Verordnung über die Berufsausbildung zum Milchtechnologen/zur
-Milchtechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin
 jurabk: MilchTAusbV
 layout: default
 origslug: milchtausbv
@@ -10,7 +7,7 @@ slug: milchtausbv
 
 ---
 
-#  (MilchTAusbV)
+# Verordnung über die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin (MilchTAusbV)
 
 Ausfertigungsdatum
 :   2010-04-09

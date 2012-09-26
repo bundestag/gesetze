@@ -1,7 +1,5 @@
-[^F771315_1_BJNR165800008]
-Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich
 ---
-Title: ''
+Title: Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich
 jurabk: EEWärmeG
 layout: default
 origslug: eew_rmeg
@@ -9,7 +7,7 @@ slug: eewaermeg
 
 ---
 
-#  (EEWärmeG)
+# Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich (EEWärmeG)
 
 Ausfertigungsdatum
 :   2008-08-07

@@ -1,7 +1,5 @@
-[^BJNR017180980.1]
-Gesetz zum Schutz vor gefährlichen Stoffen
 ---
-Title: ''
+Title: Gesetz zum Schutz vor gefährlichen Stoffen
 jurabk: ChemG
 layout: default
 origslug: chemg
@@ -9,7 +7,7 @@ slug: chemg
 
 ---
 
-#  (ChemG)
+# Gesetz zum Schutz vor gefährlichen Stoffen (ChemG)
 
 Ausfertigungsdatum
 :   1980-09-16

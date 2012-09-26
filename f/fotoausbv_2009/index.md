@@ -1,7 +1,5 @@
-[^f772115_01_BJNR105100009]
-Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin
 jurabk: FotoAusbV 2009
 layout: default
 origslug: fotoausbv_2009
@@ -9,7 +7,7 @@ slug: fotoausbv_2009
 
 ---
 
-#  (FotoAusbV 2009)
+# Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin (FotoAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-05-12

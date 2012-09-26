@@ -1,8 +1,6 @@
-[^f771569_01_BJNR252400008]
-Verordnung über das Inverkehrbringen von Düngemitteln,
-Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 ---
-Title: ''
+Title: Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten
+  und Pflanzenhilfsmitteln
 jurabk: DüMV 2008
 layout: default
 origslug: d_mv_2008
@@ -10,7 +8,7 @@ slug: duemv_2008
 
 ---
 
-#  (DüMV 2008)
+# Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln (DüMV 2008)
 
 Ausfertigungsdatum
 :   2008-12-16

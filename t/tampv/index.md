@@ -1,10 +1,7 @@
-[^F772940_01_BJNR013000010]
-Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es
-sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt
-sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur
-Anwendung der Tierarzneimittelprüfrichtlinien
 ---
-Title: ''
+Title: Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es sich um
+  Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, und zur Ablösung
+  der Allgemeinen Verwaltungsvorschrift zur Anwendung der Tierarzneimittelprüfrichtlinien
 jurabk: TamPV
 layout: default
 origslug: tampv
@@ -12,7 +9,7 @@ slug: tampv
 
 ---
 
-#  (TamPV)
+# Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur Anwendung der Tierarzneimittelprüfrichtlinien (TamPV)
 
 Ausfertigungsdatum
 :   2010-02-18

@@ -1,8 +1,5 @@
-[^F774598_01_BJNR138300010]
-Verordnung zur Bekämpfung des Kartoffelkrebses und der
-Kartoffelzystennematoden
 ---
-Title: ''
+Title: Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden
 jurabk: KartKrebs/KartZystV
 layout: default
 origslug: kartkrebs_kartzystv
@@ -10,7 +7,7 @@ slug: kartkrebs_kartzystv
 
 ---
 
-#  (KartKrebs/KartZystV)
+# Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden (KartKrebs/KartZystV)
 
 Ausfertigungsdatum
 :   2010-10-06

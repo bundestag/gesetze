@@ -1,8 +1,5 @@
-[^f770929_01_BJNR045700008]
-Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur
-Fotomedienfachfrau
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau
 jurabk: FotoMedFachAusbV
 layout: default
 origslug: fotomedfachausbv
@@ -10,7 +7,7 @@ slug: fotomedfachausbv
 
 ---
 
-#  (FotoMedFachAusbV)
+# Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau (FotoMedFachAusbV)
 
 Ausfertigungsdatum
 :   2008-03-19

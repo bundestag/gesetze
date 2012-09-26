@@ -1,7 +1,5 @@
-[^F774052_01_BJNR037700010]
-Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
 ---
-Title: ''
+Title: Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
 jurabk: WasgefStAnlV
 layout: default
 origslug: wasgefstanlv
@@ -9,7 +7,7 @@ slug: wasgefstanlv
 
 ---
 
-#  (WasgefStAnlV)
+# Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen (WasgefStAnlV)
 
 Ausfertigungsdatum
 :   2010-03-31

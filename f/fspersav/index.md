@@ -1,8 +1,6 @@
-[^f771489_01_BJNR193100008]
-Verordnung über das erlaubnispflichtige Personal der Flugsicherung und
-seine Ausbildung
 ---
-Title: ''
+Title: Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine
+  Ausbildung
 jurabk: FSPersAV
 layout: default
 origslug: fspersav
@@ -10,7 +8,7 @@ slug: fspersav
 
 ---
 
-#  (FSPersAV)
+# Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung (FSPersAV)
 
 Ausfertigungsdatum
 :   2008-10-10

@@ -1,7 +1,5 @@
-[^F775902_01_BJNR244700011]
-Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien
 ---
-Title: ''
+Title: Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien
 jurabk: HkNV
 layout: default
 origslug: hknv
@@ -9,7 +7,7 @@ slug: hknv
 
 ---
 
-#  (HkNV)
+# Verordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien (HkNV)
 
 Ausfertigungsdatum
 :   2011-11-28

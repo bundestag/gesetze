@@ -1,8 +1,6 @@
-[^f614410_01_BJNR614410011]
-Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
-für Fahrzeuge und Fahrzeugkombinationen mit Überlänge
 ---
-Title: ''
+Title: Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge
+  und Fahrzeugkombinationen mit Überlänge
 jurabk: LKWÜberlStVAusnV
 layout: default
 origslug: lkw_berlstvausnv
@@ -10,7 +8,7 @@ slug: lkwueberlstvausnv
 
 ---
 
-#  (LKWÜberlStVAusnV)
+# Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge (LKWÜberlStVAusnV)
 
 Ausfertigungsdatum
 :   2011-12-19

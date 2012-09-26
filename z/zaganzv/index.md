@@ -1,8 +1,5 @@
-[^F772649_01_BJNR360300009]
-Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem
-Zahlungsdiensteaufsichtsgesetz
 ---
-Title: ''
+Title: Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz
 jurabk: ZAGAnzV
 layout: default
 origslug: zaganzv
@@ -10,7 +7,7 @@ slug: zaganzv
 
 ---
 
-#  (ZAGAnzV)
+# Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz (ZAGAnzV)
 
 Ausfertigungsdatum
 :   2009-10-15

@@ -1,8 +1,5 @@
-[^F771335_01_BJNR145500008]
-Verordnung über die Berufsausbildung zum Systemelektroniker und zur
-Systemelektronikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Systemelektroniker und zur Systemelektronikerin
 jurabk: SystElektronAusbV 2008
 layout: default
 origslug: systelektronausbv_2008
@@ -10,7 +7,7 @@ slug: systelektronausbv_2008
 
 ---
 
-#  (SystElektronAusbV 2008)
+# Verordnung über die Berufsausbildung zum Systemelektroniker und zur Systemelektronikerin (SystElektronAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

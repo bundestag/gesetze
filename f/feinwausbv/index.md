@@ -1,8 +1,5 @@
-[^F774326_01_BJNR088800010]
-Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur
-Feinwerkmechanikerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin
 jurabk: FeinwAusbV
 layout: default
 origslug: feinwausbv
@@ -10,7 +7,7 @@ slug: feinwausbv
 
 ---
 
-#  (FeinwAusbV)
+# Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin (FeinwAusbV)
 
 Ausfertigungsdatum
 :   2010-07-07

@@ -1,7 +1,5 @@
-[^F774089_01_BJNR069400010]
-Verordnung über die Berufsausbildung in der Geoinformationstechnologie
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung in der Geoinformationstechnologie
 jurabk: GeoITAusbV
 layout: default
 origslug: geoitausbv
@@ -9,7 +7,7 @@ slug: geoitausbv
 
 ---
 
-#  (GeoITAusbV)
+# Verordnung über die Berufsausbildung in der Geoinformationstechnologie (GeoITAusbV)
 
 Ausfertigungsdatum
 :   2010-05-30

@@ -1,7 +1,5 @@
-[^F771469_01_BJNR191310008]
-Schiffsausrüstungsverordnung
 ---
-Title: ''
+Title: Schiffsausrüstungsverordnung
 jurabk: SchAusrV
 layout: default
 origslug: schausrv
@@ -9,7 +7,7 @@ slug: schausrv
 
 ---
 
-#  (SchAusrV)
+# Schiffsausrüstungsverordnung (SchAusrV)
 
 Ausfertigungsdatum
 :   2008-10-01

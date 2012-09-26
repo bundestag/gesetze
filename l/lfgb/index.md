@@ -1,9 +1,5 @@
-[^F775632_01_BJNR261810005]
-Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch
-[^F775632_02_BJNR261810005]
-[^F775632_03_BJNR261810005]
 ---
-Title: ''
+Title: Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch
 jurabk: LFGB
 layout: default
 origslug: lfgb
@@ -11,7 +7,7 @@ slug: lfgb
 
 ---
 
-#  (LFGB)
+# Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch (LFGB)
 
 Ausfertigungsdatum
 :   2005-09-01

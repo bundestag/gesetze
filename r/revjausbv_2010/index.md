@@ -1,7 +1,5 @@
-[^F1_774173_BJNR063100010]
-Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin
 jurabk: RevjAusbV 2010
 layout: default
 origslug: revjausbv_2010
@@ -9,7 +7,7 @@ slug: revjausbv_2010
 
 ---
 
-#  (RevjAusbV 2010)
+# Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin (RevjAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-05-18

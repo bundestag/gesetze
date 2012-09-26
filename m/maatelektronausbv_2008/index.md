@@ -1,9 +1,6 @@
-[^F771336_01_BJNR149000008]
-Verordnung über die Berufsausbildung zum Elektroniker für Maschinen
-und Antriebstechnik und zur Elektronikerin für Maschinen und
-Antriebstechnik
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik
+  und zur Elektronikerin für Maschinen und Antriebstechnik
 jurabk: MaATElektronAusbV 2008
 layout: default
 origslug: maatelektronausbv_2008
@@ -11,7 +8,7 @@ slug: maatelektronausbv_2008
 
 ---
 
-#  (MaATElektronAusbV 2008)
+# Verordnung über die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik und zur Elektronikerin für Maschinen und Antriebstechnik (MaATElektronAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25

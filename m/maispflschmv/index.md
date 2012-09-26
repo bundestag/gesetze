@@ -1,8 +1,6 @@
-[^BJNR50230009_01_BJNR502300009]
-Verordnung über das Inverkehrbringen und die Aussaat von mit
-bestimmten Pflanzenschutzmitteln behandeltem Maissaatgut
 ---
-Title: ''
+Title: Verordnung über das Inverkehrbringen und die Aussaat von mit bestimmten Pflanzenschutzmitteln
+  behandeltem Maissaatgut
 jurabk: MaisPflSchMV
 layout: default
 origslug: maispflschmv
@@ -10,7 +8,7 @@ slug: maispflschmv
 
 ---
 
-#  (MaisPflSchMV)
+# Verordnung über das Inverkehrbringen und die Aussaat von mit bestimmten Pflanzenschutzmitteln behandeltem Maissaatgut (MaisPflSchMV)
 
 Ausfertigungsdatum
 :   2009-02-11

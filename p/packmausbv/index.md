@@ -1,8 +1,5 @@
-[^F775272_01_BJNR098800011]
-Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur
-Packmitteltechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
 jurabk: PackmAusbV
 layout: default
 origslug: packmausbv
@@ -10,7 +7,7 @@ slug: packmausbv
 
 ---
 
-#  (PackmAusbV)
+# Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin (PackmAusbV)
 
 Ausfertigungsdatum
 :   2011-05-20

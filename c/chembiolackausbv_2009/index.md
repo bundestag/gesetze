@@ -1,8 +1,5 @@
-[^f772199_01_BJNR160000009]
-Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie
-und Lack
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack
 jurabk: ChemBioLackAusbV 2009
 layout: default
 origslug: chembiolackausbv_2009
@@ -10,7 +7,7 @@ slug: chembiolackausbv_2009
 
 ---
 
-#  (ChemBioLackAusbV 2009)
+# Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack (ChemBioLackAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-06-25

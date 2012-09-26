@@ -1,8 +1,5 @@
-[^F1_774781_BJNR184900010]
-Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-[^F1_774781_01_BJNR184900010]
 ---
-Title: ''
+Title: Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 jurabk: BImSchV 10 2010
 layout: default
 origslug: bimschv_10_2010
@@ -10,7 +7,7 @@ slug: bimschv_10_2010
 
 ---
 
-#  (BImSchV 10 2010)
+# Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (BImSchV 10 2010)
 
 Ausfertigungsdatum
 :   2010-12-08

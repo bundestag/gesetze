@@ -1,7 +1,5 @@
-[^BJNR217900011_01]
-Gesetz über die Bereitstellung von Produkten auf dem Markt
 ---
-Title: ''
+Title: Gesetz über die Bereitstellung von Produkten auf dem Markt
 jurabk: ProdSG 2011
 layout: default
 origslug: prodsg_2011
@@ -9,7 +7,7 @@ slug: prodsg_2011
 
 ---
 
-#  (ProdSG 2011)
+# Gesetz über die Bereitstellung von Produkten auf dem Markt (ProdSG 2011)
 
 Ausfertigungsdatum
 :   2011-11-08

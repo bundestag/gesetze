@@ -1,8 +1,6 @@
-[^F1_774136_BJNR059300010]
-Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur
-Technischen Konfektionärin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen
+  Konfektionärin
 jurabk: TKonfAusbV 2010
 layout: default
 origslug: tkonfausbv_2010
@@ -10,7 +8,7 @@ slug: tkonfausbv_2010
 
 ---
 
-#  (TKonfAusbV 2010)
+# Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin (TKonfAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-05-04

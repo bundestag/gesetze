@@ -1,8 +1,5 @@
-[^f772302_01_BJNR174700009]
-Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes
-Werkfeuerwehrmann/Werkfeuerwehrfrau
 ---
-Title: ''
+Title: Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau
 jurabk: WerkfeuerwErprobV
 layout: default
 origslug: werkfeuerwerprobv
@@ -10,7 +7,7 @@ slug: werkfeuerwerprobv
 
 ---
 
-#  (WerkfeuerwErprobV)
+# Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau (WerkfeuerwErprobV)
 
 Ausfertigungsdatum
 :   2009-07-07
