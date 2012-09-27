@@ -557,7 +557,7 @@ eine Verwertungsgesellschaft geltend gemacht werden.
 
 (2) Der Urheber kann durch letztwillige Verfügung bestimmen, dass das Urheberrecht eines Werkes an
 
-1.  den Ehegatten oder frühere Lebenspartner oder
+1.  den Ehegatten, seinen Lebenspartner oder frühere Lebenspartner oder
 
 
 2.  an einen oder mehrere Nachkommen
