@@ -4077,7 +4077,7 @@ Bundesrepublik Deutschland oder gegen Verfassungsgrundsätze einsetzt.
 (4) Die Tat wird nur mit Ermächtigung des Bundespräsidenten verfolgt.
 
 
-##### § 90a Verunglimpfung des Staates und seiner Symbole
+##### § 90a Verunglimpfung des Staates
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten von 
 Schriften (§ 11 Abs. 3) die Bundesrepublik Deutschland oder eines 
