@@ -79,8 +79,8 @@ Schöpfungen.
 Übersetzungen und andere Bearbeitungen eines Werkes, die persönliche
 geistige Schöpfungen des Bearbeiters sind, werden unbeschadet des
 Urheberrechts am bearbeiteten Werk wie selbständige Werke geschützt.
-Die nur unwesentliche Bearbeitung eines nicht geschützten Werkes der
-Musik wird nicht als selbständiges Werk geschützt.
+Die nur unwesentliche Bearbeitung eines Werkes wird nicht als
+selbständiges Werk geschützt.
 
 
 #### § 4 Sammelwerke und Datenbankwerke
@@ -101,9 +101,10 @@ Bestandteil des Datenbankwerkes.
 
 #### § 5 Amtliche Werke
 
-(1) Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie
-Entscheidungen und amtlich verfaßte Leitsätze zu Entscheidungen
-genießen keinen urheberrechtlichen Schutz.
+(1) Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen 
+einschließlich amtlich verfasster Leitsätze zu Entscheidungen und alle sonstigen 
+amtlichen Werke genießen keinen urheberrechtlichen Schutz. Amtlich verfasste Leitsätze 
+sollen als solche gekennzeichnet werden.
 
 (2) Das gleiche gilt für andere amtliche Werke, die im amtlichen
 Interesse zur allgemeinen Kenntnisnahme veröffentlicht worden sind,
@@ -111,14 +112,7 @@ mit der Einschränkung, daß die Bestimmungen über Änderungsverbot und
 Quellenangabe in § 62 Abs. 1 bis 3 und § 63 Abs. 1 und 2 entsprechend
 anzuwenden sind.
 
-(3) Das Urheberrecht an privaten Normwerken wird durch die Absätze 1
-und 2 nicht berührt, wenn Gesetze, Verordnungen, Erlasse oder amtliche
-Bekanntmachungen auf sie verweisen, ohne ihren Wortlaut wiederzugeben.
-In diesem Fall ist der Urheber verpflichtet, jedem Verleger zu
-angemessenen Bedingungen ein Recht zur Vervielfältigung und
-Verbreitung einzuräumen. Ist ein Dritter Inhaber des ausschließlichen
-Rechts zur Vervielfältigung und Verbreitung, so ist dieser zur
-Einräumung des Nutzungsrechts nach Satz 2 verpflichtet.
+(3) (weggefallen)
 
 
 #### § 6 Veröffentlichte und erschienene Werke
@@ -126,13 +120,8 @@ Einräumung des Nutzungsrechts nach Satz 2 verpflichtet.
 (1) Ein Werk ist veröffentlicht, wenn es mit Zustimmung des
 Berechtigten der Öffentlichkeit zugänglich gemacht worden ist.
 
-(2) Ein Werk ist erschienen, wenn mit Zustimmung des Berechtigten
-Vervielfältigungsstücke des Werkes nach ihrer Herstellung in
-genügender Anzahl der Öffentlichkeit angeboten oder in Verkehr
-gebracht worden sind. Ein Werk der bildenden Künste gilt auch dann als
-erschienen, wenn das Original oder ein Vervielfältigungsstück des
-Werkes mit Zustimmung des Berechtigten bleibend der Öffentlichkeit
-zugänglich ist.
+(2) Ein Werk gilt auch dann als erschienen, wenn es mit Zustimmung 
+des Berechtigten der Öffentlichkeit über ein Datennetz zugänglich gemacht worden ist.
 
 
 ### Abschnitt 3 - Der Urheber
@@ -228,6 +217,8 @@ veröffentlichen ist.
 öffentlich mitzuteilen oder zu beschreiben, solange weder das Werk
 noch der wesentliche Inhalt oder eine Beschreibung des Werkes mit
 seiner Zustimmung veröffentlicht ist.
+Der Inhalt eines veröffentlichten Werkes darf ohne Zustimmung des Urhebers
+öffentlich beschrieben werden.
 
 
 ##### § 13 Anerkennung der Urheberschaft
@@ -316,12 +307,11 @@ anderen handelt.
 Vervielfältigungsstücke des Werkes der Öffentlichkeit anzubieten oder
 in Verkehr zu bringen.
 
-(2) Sind das Original oder Vervielfältigungsstücke des Werkes mit
-Zustimmung des zur Verbreitung Berechtigten im Gebiet der Europäischen
-Union oder eines anderen Vertragsstaates des Abkommens über den
-Europäischen Wirtschaftsraum im Wege der Veräußerung in Verkehr
-gebracht worden, so ist ihre Weiterverbreitung mit Ausnahme der
-Vermietung zulässig.
+(2) Sind körperliche oder unkörperliche Vervielfältigungen des Werkes oder das Original 
+mit Zustimmung des zur Verbreitung Berechtigten im Gebiet der Europäischen Union oder 
+eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum im 
+Wege der Veräußerung in Verkehr gebracht worden, so ist ihre Weiterverbreitung oder 
+Weitergabe mit Ausnahme der Vermietung zulässig.
 
 (3) Vermietung im Sinne der Vorschriften dieses Gesetzes ist die
 zeitlich begrenzte, unmittelbar oder mittelbar Erwerbszwecken dienende
@@ -337,6 +327,22 @@ von Originalen oder Vervielfältigungsstücken
 
 
 
+
+(4) Das Recht zur Weitergabe unkörperlicher Vervielfältigungen des Werkes schränkt das 
+ausschließliche Recht des Urhebers gemäß § 16 (Vervielfältigungsrecht) nicht ein. Die 
+Zahl der Vervielfältigungen des Werkes darf sich durch die Weitergabe nicht erhöhen. 
+Wenn durch die Weitergabe eine zusätzliche Vervielfältigung entsteht, ist die 
+ursprüngliche Vervielfältigung unbrauchbar zu machen.
+
+(5) Das Recht zur Weitergabe unkörperlicher Vervielfältigungen des Werkes kann durch 
+vertragliche Regelungen nicht ausgeschlossen werden. Dies gilt auch im Rahmen von 
+Lizenzverträgen, die im Zusammenhang mit dem Inverkehrbringen von Vervielfältigungen 
+eines Werkes geschlossen werden.17 Technische Maßnahmen, die geeignet sind die Weitergabe 
+unkörperlicher Vervielfältigungen des Werkes zu erschwert sind nur zulässig, wenn deren 
+Verkehrsfähigkeit gewährleistet bleibt.
+
+(6) Das Recht zur Weitergabe unkörperlicher Vervielfältigungen des Werkes schließt nicht 
+das Recht zur Bereitstellung über einen Online-Dienst ein.
 
 
 ##### § 18 Ausstellungsrecht
@@ -639,6 +645,10 @@ Gesetz zustehenden Rechte, soweit nichts anderes bestimmt ist.
 einzelne oder alle Nutzungsarten zu nutzen (Nutzungsrecht). Das
 Nutzungsrecht kann als einfaches oder ausschließliches Recht sowie
 räumlich, zeitlich oder inhaltlich beschränkt eingeräumt werden.
+Der Urheber kann ein eingeräumtes ausschließliches Nutzungsrecht nach
+fünf Jahren gegenüber dem Inhaber zurückrufen. Das Rückrufsrecht schließt
+das Ausstellungsrecht nicht ein, es sei denn, der Urheber hat sich dies
+bei der Veräußerung des Originals ausdrücklich ausbedungen.
 
 (2) Das einfache Nutzungsrecht berechtigt den Inhaber, das Werk auf
 die erlaubte Art zu nutzen, ohne dass eine Nutzung durch andere
@@ -650,7 +660,10 @@ nutzen und Nutzungsrechte einzuräumen. Es kann bestimmt werden, dass
 die Nutzung durch den Urheber vorbehalten bleibt. § 35 bleibt
 unberührt.
 
-(4) (weggefallen)
+(4) Der Urheber kann ein Nutzungsrecht für noch nicht bekannte Nutzungsarten
+gegenüber dem Inhaber zurückrufen. Bekannt ist eine Nutzungsart, wenn sie zum
+Zeitpunkt des Vertragsschlusses technisch realisierbar ist und sich aus der Sicht
+beider Vertragspartner als wirtschaftlich bedeutsam darstellt.
 
 (5) Sind bei der Einräumung eines Nutzungsrechts die Nutzungsarten
 nicht ausdrücklich einzeln bezeichnet, so bestimmt sich nach dem von
@@ -817,9 +830,8 @@ Erfüllung der sich aus dem Vertrag mit dem Urheber ergebenden
 Verpflichtungen des Veräußerers, wenn der Urheber der Übertragung des
 Nutzungsrechts nicht im Einzelfall ausdrücklich zugestimmt hat.
 
-(5) Der Urheber kann auf das Rückrufsrecht und die Haftung des
-Erwerbers im Voraus nicht verzichten. Im Übrigen können der Inhaber
-des Nutzungsrechts und der Urheber Abweichendes vereinbaren.
+(5) Der Urheber kann auf das Erfordernis seiner Zustimmung, sein
+Rückrufsrecht und die Haftung des Erwerbers im Voraus nicht verzichten.
 
 
 ##### § 35 Einräumung weiterer Nutzungsrechte
@@ -872,6 +884,10 @@ Vergütungsregeln enthält. Er gilt als angenommen, wenn ihm nicht
 innerhalb von drei Monaten nach Empfang des Vorschlages schriftlich
 widersprochen wird.
 
+(5) Gemeinsame Vergütungsregeln einschließlich solcher, die vor
+Schlichtungsstellen getroffen werden, sind von den Beteiligten auf Anfrage
+kostenlos zugänglich zu machen, wenn sie nicht in geeigneter Form kostenlos
+über das Internet allgemein zugänglich sind.
 
 ##### § 36a Schlichtungsstelle
 
@@ -1183,15 +1199,17 @@ Wiedergabe der Werke zulässig.
 
 #### § 45a Behinderte Menschen
 
-(1) Zulässig ist die nicht Erwerbszwecken dienende Vervielfältigung
-eines Werkes für und deren Verbreitung ausschließlich an Menschen,
+(1) Zulässig ist die nicht Erwerbszwecken dienende Vervielfältigung, 
+Verbreitung und öffentliche Wiedergabe eines Werkes 
+für und deren Verbreitung ausschließlich an Menschen,
 soweit diesen der Zugang zu dem Werk in einer bereits verfügbaren Art
 der sinnlichen Wahrnehmung auf Grund einer Behinderung nicht möglich
 oder erheblich erschwert ist, soweit es zur Ermöglichung des Zugangs
 erforderlich ist.
 
-(2) Für die Vervielfältigung und Verbreitung ist dem Urheber eine
-angemessene Vergütung zu zahlen; ausgenommen ist die Herstellung
+(2) Für die Vervielfältigung, Verbreitung und öffentliche
+Wiedergabe ist dem Urheber eine angemessene Vergütung zu zahlen;
+ausgenommen ist die Herstellung
 lediglich einzelner Vervielfältigungsstücke. Der Anspruch kann nur
 durch eine Verwertungsgesellschaft geltend gemacht werden.
 
@@ -1204,12 +1222,10 @@ von Sprachwerken oder von Werken der Musik von geringem Umfang, von
 einzelnen Werken der bildenden Künste oder einzelnen Lichtbildwerken
 als Element einer Sammlung, die Werke einer größeren Anzahl von
 Urhebern vereinigt und die nach ihrer Beschaffenheit nur für den
-Unterrichtsgebrauch in Schulen, in nichtgewerblichen Einrichtungen der
+Unterrichtsgebrauch in Schulen und Hochschulen, in nichtgewerblichen Einrichtungen der
 Aus- und Weiterbildung oder in Einrichtungen der Berufsbildung oder
-für den Kirchengebrauch bestimmt ist. Die öffentliche
-Zugänglichmachung eines für den Unterrichtsgebrauch an Schulen
-bestimmten Werkes ist stets nur mit Einwilligung des Berechtigten
-zulässig. In den Vervielfältigungsstücken oder bei der öffentlichen
+für den Kirchengebrauch bestimmt ist. In den Vervielfältigungsstücken
+oder bei der öffentlichen
 Zugänglichmachung ist deutlich anzugeben, wozu die Sammlung bestimmt
 ist.
 
@@ -1257,9 +1273,9 @@ Urheber eine angemessene Vergütung gezahlt wird.
 
 (1) Zulässig ist
 
-1.  die Vervielfältigung und Verbreitung von Reden über Tagesfragen in
-    Zeitungen, Zeitschriften sowie in anderen Druckschriften oder
-    sonstigen Datenträgern, die im Wesentlichen den Tagesinteressen
+1.  die Vervielfältigung und Verbreitung öffentliche Wiedergabe von Reden über 
+    Tagesfragen in Zeitungen, Zeitschriften sowie in anderen Druckschriften oder
+    und über Datennetze oder auf Datenträgern, die im Wesentlichen den Tagesinteressen
     Rechnung tragen, wenn die Reden bei öffentlichen Versammlungen
     gehalten oder durch öffentliche Wiedergabe im Sinne von § 19a oder §
     20 veröffentlicht worden sind, sowie die öffentliche Wiedergabe
@@ -1340,15 +1356,18 @@ ist. Zulässig ist dies insbesondere, wenn
 
 (1) Zulässig ist die öffentliche Wiedergabe eines veröffentlichten
 Werkes, wenn die Wiedergabe keinem Erwerbszweck des Veranstalters
-dient, die Teilnehmer ohne Entgelt zugelassen werden und im Falle des
+dient, die Teilnehmer ohne Entgelt oder gegen anteilige 
+Beteiligung an den Kosten zugelassen werden und im Falle des
 Vortrags oder der Aufführung des Werkes keiner der ausübenden Künstler
 (§ 73) eine besondere Vergütung erhält. Für die Wiedergabe ist eine
-angemessene Vergütung zu zahlen. Die Vergütungspflicht entfällt für
-Veranstaltungen der Jugendhilfe, der Sozialhilfe, der Alten- und
-Wohlfahrtspflege, der Gefangenenbetreuung sowie für
-Schulveranstaltungen, sofern sie nach ihrer sozialen oder
-erzieherischen Zweckbestimmung nur einem bestimmt abgegrenzten Kreis
-von Personen zugänglich sind. Dies gilt nicht, wenn die Veranstaltung
+angemessene Vergütung zu zahlen. Die Vergütungspflicht entfällt für 
+Veranstaltungen der Jugendhilfe, der Sozialhilfe, der Alten- und 
+Wohlfahrtspflege, der Gefangenenbetreuung, für Schulveranstaltungen 
+und Veranstaltungen von Kindertagesbetreuungseinrichtungen und von 
+Einrichtungen zur Betreuung von Schülerinnen und Schülern nach Schulschluss,
+sofern hauptsächlich Personen unter 18 Jahren mitwirken oder die Veranstaltung
+nach ihrer sozialen oder erzieherischen Zweckbestimmung nur einem bestimmt
+abgegrenzten Kreis von Personen zugänglich sind. Dies gilt nicht, wenn die Veranstaltung
 dem Erwerbszweck eines Dritten dient; in diesem Fall hat der Dritte
 die Vergütung zu zahlen.
 
@@ -1357,27 +1376,26 @@ auch bei einem Gottesdienst oder einer kirchlichen Feier der Kirchen
 oder Religionsgemeinschaften. Jedoch hat der Veranstalter dem Urheber
 eine angemessene Vergütung zu zahlen.
 
-(3) Öffentliche bühnenmäßige Darstellungen, öffentliche
-Zugänglichmachungen und Funksendungen eines Werkes sowie öffentliche
-Vorführungen eines Filmwerks sind stets nur mit Einwilligung des
-Berechtigten zulässig.
+(3) Öffentliche Zugänglichmachungen und Funksendungen eines Werkes
+sowie öffentliche Vorführungen eines Filmwerkes sind stets nur mit
+Einwilligung des Berechtigten zulässig.
 
 
 #### § 52a Öffentliche Zugänglichmachung für Unterricht und Forschung
 
 (1) Zulässig ist,
 
-1.  veröffentlichte kleine Teile eines Werkes, Werke geringen Umfangs
-    sowie einzelne Beiträge aus Zeitungen oder Zeitschriften zur
-    Veranschaulichung im Unterricht an Schulen, Hochschulen,
-    nichtgewerblichen Einrichtungen der Aus- und Weiterbildung sowie an
-    Einrichtungen der Berufsbildung ausschließlich für den bestimmt
-    abgegrenzten Kreis von Unterrichtsteilnehmern oder
+1.  veröffentlichte Teile eines Werkes, Werke geringen Umfangs 
+    sowie einzelne Beiträge aus Zeitungen oder Zeitschriften zur 
+    Veranschaulichung im Unterricht an Schulen, Hochschulen, 
+    nichtgewerblichen Einrichtungen der Aus- und Weiterbildung 
+    sowie an Einrichtungen der Berufsbildung ausschließlich 
+    für einen bestimmt abgegrenzten Kreis von Personen oder
 
 
-2.  veröffentlichte Teile eines Werkes, Werke geringen Umfangs sowie
-    einzelne Beiträge aus Zeitungen oder Zeitschriften ausschließlich für
-    einen bestimmt abgegrenzten Kreis von Personen für deren eigene
+2.  veröffentlichte Teile eines Werkes, Werke geringen Umfangs sowie
+    einzelne Beiträge aus Zeitungen oder Zeitschriften ausschließlich für
+    einen bestimmt abgegrenzten Kreis von Personen zu Zwecken der
     wissenschaftliche Forschung
 
 
@@ -1386,9 +1404,7 @@ Berechtigten zulässig.
 geboten und zur Verfolgung nicht kommerzieller Zwecke gerechtfertigt
 ist.
 
-(2) Die öffentliche Zugänglichmachung eines für den
-Unterrichtsgebrauch an Schulen bestimmten Werkes ist stets nur mit
-Einwilligung des Berechtigten zulässig. Die öffentliche
+(2) Die öffentliche
 Zugänglichmachung eines Filmwerkes ist vor Ablauf von zwei Jahren nach
 Beginn der üblichen regulären Auswertung in Filmtheatern im
 Geltungsbereich dieses Gesetzes stets nur mit Einwilligung des
@@ -1404,11 +1420,13 @@ Verwertungsgesellschaft geltend gemacht werden.
 
 #### § 52b Wiedergabe von Werken an elektronischen Leseplätzen in öffentlichen Bibliotheken, Museen und Archiven
 
-Zulässig ist, veröffentlichte Werke aus dem Bestand öffentlich
+Zulässig ist, veröffentlichte Werke aus dem Bestand von Schulen,
+nichtgewerblichen Einrichtungen der Aus- und Weiterbildung
+einschließlich Einrichtungen der Berufsbildung, öffentlich
 zugänglicher Bibliotheken, Museen oder Archive, die keinen unmittelbar
 oder mittelbar wirtschaftlichen oder Erwerbszweck verfolgen,
 ausschließlich in den Räumen der jeweiligen Einrichtung an eigens
-dafür eingerichteten elektronischen Leseplätzen zur Forschung und für
+dafür eingerichteten elektronischen Leseplätzen zur Forschung, Ausbildung und für
 private Studien zugänglich zu machen, soweit dem keine vertraglichen
 Regelungen entgegenstehen. Es dürfen grundsätzlich nicht mehr
 Exemplare eines Werkes an den eingerichteten elektronischen
@@ -1500,9 +1518,7 @@ zugänglich gemacht worden sind, zum eigenen Gebrauch
 
 
 herzustellen oder herstellen zu lassen, wenn und soweit die
-Vervielfältigung zu diesem Zweck geboten ist. Die Vervielfältigung
-eines Werkes, das für den Unterrichtsgebrauch an Schulen bestimmt ist,
-ist stets nur mit Einwilligung des Berechtigten zulässig.
+Vervielfältigung zu diesem Zweck geboten ist.
 
 (4) Die Vervielfältigung
 
@@ -1804,6 +1820,18 @@ zugänglichen Bibliotheken, Bildungseinrichtungen oder Museen in
 inhaltlichem und zeitlichem Zusammenhang mit einer Ausstellung oder
 zur Dokumentation von Beständen herausgegeben werden und mit denen
 kein eigenständiger Erwerbszweck verfolgt wird.
+
+(3) Museen, die vorwiegend öffentlich finanziert sind oder
+nichtkommerziellen kulturellen Zwecken dienen, dürfen öffentlich ausgestellte
+oder zur öffentlichen Ausstellung bestimmte Werke in öffentlich zugänglichen
+Internetdatenbanken ergänzend zu Text-Metadaten als Beleg visuell in einer
+dem Medium angemessener Form präsentieren, solange gewährleistet ist, dass
+die Präsentation Urheberrechtsverletzungen keinen Vorschub leistet. Dazu genügt
+in der Regel, dass die Qualität der Wiedergabe das für die Belegfunktion notwenige
+Maß nicht übersteigt. Sofern die Belegfunktion aufgrund der Art des Werkes ein Maß
+an Qualität erfordert, das auch andere Nutzungen erlaubt, sind der Umfang der Wiedergabe 
+zu beschränken oder geeignete Kopierschutztechniken einzusetzen, die ein Schutzniveau 
+bieten, das dem üblichen Schutzniveau vergleichbarer kommerzieller Angebote entspricht.
 
 
 #### § 59 Werke an öffentlichen Plätzen
@@ -2913,9 +2941,12 @@ die Abmahnung berechtigt ist, kann der Ersatz der erforderlichen
 Aufwendungen verlangt werden.
 
 (2) Der Ersatz der erforderlichen Aufwendungen für die Inanspruchnahme
-anwaltlicher Dienstleistungen für die erstmalige Abmahnung beschränkt
-sich in einfach gelagerten Fällen mit einer nur unerheblichen
-Rechtsverletzung außerhalb des geschäftlichen Verkehrs auf 100 Euro.
+anwaltlicher Dienstleistungen für die erstmalige Abmahnung beschränkt
+sich auch in solchen Fällen auf 100 Euro, in denen veröffentlichte Werke
+im Umfang normaler persönlicher Nutzung über ein Peer-to-Peer Netzwerk
+bereitgestellt oder abgerufen werden. Dies gilt nicht, wenn die Rechtsverletzung
+den Rahmen privater Nutzung im Sinne einer mengenmäßigen Beschränkung auf
+wenige Titel übersteigt.
 
 
 ##### § 98 Anspruch auf Vernichtung, Rückruf und Überlassung
@@ -4239,9 +4270,7 @@ Zweifel auch auf diesen Zeitraum. Im Fall des Satzes 1 ist eine
 angemessene Vergütung zu zahlen.
 
 
-#### § 137k Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung
-
-§ 52a ist mit Ablauf des 31. Dezember 2012 nicht mehr anzuwenden.
+#### § 137k (weggefallen)
 
 
 #### § 137l Übergangsregelung für neue Nutzungsarten
