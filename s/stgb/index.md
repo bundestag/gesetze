@@ -4079,33 +4079,15 @@ Bundesrepublik Deutschland oder gegen Verfassungsgrundsätze einsetzt.
 
 ##### § 90a Verunglimpfung des Staates und seiner Symbole
 
-(1) Wer öffentlich, in einer Versammlung oder durch Verbreiten von
-Schriften (§ 11 Abs. 3)
+(1) Wer öffentlich, in einer Versammlung oder durch Verbreiten von 
+Schriften (§ 11 Abs. 3) die Bundesrepublik Deutschland oder eines 
+ihrer Länder oder ihre verfassungsmäßige Ordnung beschimpft oder 
+böswillig verächtlich macht wird mit Freiheitsstrafe bis zu drei 
+Jahren oder mit Geldstrafe bestraft.
 
-1.  die Bundesrepublik Deutschland oder eines ihrer Länder oder ihre
-    verfassungsmäßige Ordnung beschimpft oder böswillig verächtlich macht
-    oder
-
-
-2.  die Farben, die Flagge, das Wappen oder die Hymne der Bundesrepublik
-    Deutschland oder eines ihrer Länder verunglimpft,
-
-
-
-wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
-bestraft.
-
-(2) Ebenso wird bestraft, wer eine öffentlich gezeigte Flagge der
-Bundesrepublik Deutschland oder eines ihrer Länder oder ein von einer
-Behörde öffentlich angebrachtes Hoheitszeichen der Bundesrepublik
-Deutschland oder eines ihrer Länder entfernt, zerstört, beschädigt,
-unbrauchbar oder unkenntlich macht oder beschimpfenden Unfug daran
-verübt. Der Versuch ist strafbar.
-
-(3) Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe,
-wenn der Täter sich durch die Tat absichtlich für Bestrebungen gegen
-den Bestand der Bundesrepublik Deutschland oder gegen
-Verfassungsgrundsätze einsetzt.
+(2) Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe, 
+wenn der Täter sich durch die Tat absichtlich für Bestrebungen gegen den 
+Bestand der Bundesrepublik Deutschland oder gegen Verfassungsgrundsätze einsetzt.
 
 
 ##### § 90b Verfassungsfeindliche Verunglimpfung von Verfassungsorganen
