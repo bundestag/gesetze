@@ -1,4 +1,4 @@
 ---
 
 ---
-[{% for p in site.pages %}["{{ p.url }}", "{{ p.Title|replace:'"','\"' }}"],{% endfor %}false]
+[{% for p in site.pages %}["{{ p.url }}", "{{ p.Title|escape }}"],{% endfor %}false]
