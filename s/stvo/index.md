@@ -3950,7 +3950,7 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
 
     *
     *   **Ge- oder Verbot**
-        Die nachfolgenden Zeichen 276 und 277 verbieten Kraftfahrzeugführern
+        Die nachfolgenden Zeichen 276 und 277 verbieten Führern von mehrspurigen Kraftfahrzeugen
         das Überholen von mehrspurigen Kraftfahrzeugen und Krafträdern mit
         Beiwagen.
         **Erläuterung**
