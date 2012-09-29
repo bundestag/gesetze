@@ -6409,19 +6409,7 @@ auf die in § 77 Abs. 2 bezeichneten Angehörigen über. § 77 Abs. 2 bis
 
 
 
-#### § 166 Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigungen
-
-(1) Wer öffentlich oder durch Verbreiten von Schriften (§ 11 Abs. 3)
-den Inhalt des religiösen oder weltanschaulichen Bekenntnisses anderer
-in einer Weise beschimpft, die geeignet ist, den öffentlichen Frieden
-zu stören, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
-Geldstrafe bestraft.
-
-(2) Ebenso wird bestraft, wer öffentlich oder durch Verbreiten von
-Schriften (§ 11 Abs. 3) eine im Inland bestehende Kirche oder andere
-Religionsgesellschaft oder Weltanschauungsvereinigung, ihre
-Einrichtungen oder Gebräuche in einer Weise beschimpft, die geeignet
-ist, den öffentlichen Frieden zu stören.
+#### § 166 (weggefallen)
 
 
 #### § 167 Störung der Religionsausübung
