@@ -230,11 +230,8 @@ und die in den Buchstaben B und E der Anlage aufgeführten Vorschriften
 in Rechtsakten der Europäischen Gemeinschaft in der jeweils
 angegebenen Fassung.
 
-[^f776202_02_BJNR181700002BJNE000302305]
-Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen
-Gemeinschaften
 
-### § 3 
+### § 3 Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften
 
 Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin
 genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs-

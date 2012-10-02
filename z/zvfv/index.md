@@ -63,10 +63,8 @@ Diese Verordnung tritt am 1. September 2012 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
-[^F777837_01_BJNR182200012BJNE000700000]
-Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 
-## Anlage 1 
+## Anlage 1 Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 
 (Fundstelle: BGBl. I 2012, 1823 - 1826)
 
@@ -77,11 +75,8 @@ Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
     drucktechnischen Gründen 91 Prozent des Dokuments.
 [^F777837_01_BJNR182200012BJNE000700000]: 
 (zu § 2 Nummer 2)
-[^F777837_02_BJNR182200012BJNE000800000]
-Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses
-insbesondere wegen gewöhnlicher Geldforderungen
 
-## Anlage 2 
+## Anlage 2 Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses insbesondere wegen gewöhnlicher Geldforderungen
 
 (Fundstelle: BGBl. I 2012, 1827 - 1836)
 
@@ -98,11 +93,8 @@ insbesondere wegen gewöhnlicher Geldforderungen
     drucktechnischen Gründen 91 Prozent des Dokuments.
 [^F777837_02_BJNR182200012BJNE000800000]: 
 (zu § 2 Nummer 1)
-[^F777837_03_BJNR182200012BJNE000900000]
-Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses wegen
-Unterhaltsforderungen
 
-## Anlage 3 
+## Anlage 3 Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses wegen Unterhaltsforderungen
 
 (Fundstelle: BGBl. I 2012, 1837 - 1847)
 

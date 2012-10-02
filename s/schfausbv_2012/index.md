@@ -1,8 +1,5 @@
-[^F1_777313_BJNR143000012]
-Verordnung über die Berufsausbildung zum Schornsteinfeger und zur
-Schornsteinfegerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
 jurabk: SchfAusbV 2012
 layout: default
 origslug: schfausbv_2012
@@ -10,7 +7,7 @@ slug: schfausbv_2012
 
 ---
 
-#  (SchfAusbV 2012)
+# Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin (SchfAusbV 2012)
 
 Ausfertigungsdatum
 :   2012-06-20

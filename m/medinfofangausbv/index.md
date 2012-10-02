@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur
-  Fachangestellten für Medien- und Informations\*/dienste
+  Fachangestellten für Medien- und Informations*/dienste
 jurabk: MedInfoFAngAusbV
 layout: default
 origslug: medinfofangausbv
@@ -8,7 +8,7 @@ slug: medinfofangausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations\*/dienste (MedInfoFAngAusbV)
+# Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations*/dienste (MedInfoFAngAusbV)
 
 Ausfertigungsdatum
 :   1998-06-03

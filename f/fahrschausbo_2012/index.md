@@ -1536,11 +1536,8 @@ Der Bundesrat hat zugestimmt.
 
 
 (zu § 4)
-[^f776948_04_BJNR131800012BJNE001800000]
-Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D
-(18 Doppelstunden) und D1 (10 Doppelstunden)
 
-## Anlage 2.5 
+## Anlage 2.5 Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1329 - 1330)
 
