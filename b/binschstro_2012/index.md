@@ -23,7 +23,6 @@ Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die
 zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 81) geändert worden ist, sind beachtet worden.
 
-[^BJNR000210012BJNE000100000_01]
 
 ## Inhaltsverzeichnis 
 
@@ -8522,10 +8521,8 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 
-[^BJNR000210012BJNE008300000_01]
-Kreuzen
 
-##### § 6.03a 
+##### § 6.03a Kreuzen
 
 
 1.  Kreuzen sich die Kurse zweier Fahrzeuge so, dass die Gefahr eines
@@ -8544,10 +8541,8 @@ Kreuzen
     gegenüber anzuwenden.
 [^BJNR000210012BJNE008300000_01]: 
 Allgemeine Bestimmungen für das Begegnen
-[^BJNR000210012BJNE008400000_01]
-(Anlage 3: Bild 63)
 
-##### § 6.04 
+##### § 6.04 (Anlage 3: Bild 63)
 
 
 1.  Beim Begegnen muss der Bergfahrer unter Berücksichtigung der örtlichen
@@ -8620,10 +8615,8 @@ Allgemeine Bestimmungen für das Begegnen
     einen Verband im Sinne des § 6.02 Nummer 1 Satz 1 noch ist sie ihm
     gegenüber anzuwenden.
 [^BJNR000210012BJNE008400000_01]: 
-[^BJNR000210012BJNE008500000_01]
-Ausnahmen von den allgemeinen Bestimmungen für das Begegnen
 
-##### § 6.05 
+##### § 6.05 Ausnahmen von den allgemeinen Bestimmungen für das Begegnen
 
 
 1.  Abweichend von § 6.04 kann
@@ -8691,10 +8684,8 @@ Ausnahmen von den allgemeinen Bestimmungen für das Begegnen
 
 (ohne Inhalt)
 
-[^BJNR000210012BJNE008700000_01]
-Begegnen im engen Fahrwasser
 
-##### § 6.07 
+##### § 6.07 Begegnen im engen Fahrwasser
 
 
 1.  Um nach Möglichkeit ein Begegnen auf einer Strecke oder an einer
@@ -8831,10 +8822,8 @@ Begegnen im engen Fahrwasser
 
 
 
-[^BJNR000210012BJNE009000000_01]
-Verhalten und Zeichengebung der Fahrzeuge beim Überholen
 
-##### § 6.10 
+##### § 6.10 Verhalten und Zeichengebung der Fahrzeuge beim Überholen
 
 
 1.  Der Überholende darf an Backbord oder an Steuerbord des
@@ -8905,10 +8894,8 @@ Verhalten und Zeichengebung der Fahrzeuge beim Überholen
     einen Verband im Sinne des § 6.02 Nummer 1 Satz 1 noch ist sie ihm
     gegenüber anzuwenden.
 [^BJNR000210012BJNE009000000_01]: 
-[^BJNR000210012BJNE009100000_01]
-Überholverbot durch Schifffahrtszeichen
 
-##### § 6.11 
+##### § 6.11 Überholverbot durch Schifffahrtszeichen
 
 Unbeschadet des § 6.08 Nummer 1 besteht
 
@@ -8942,10 +8929,8 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 
 #### Abschnitt III. - Weitere Regeln für die Fahrt
 
-[^BJNR000210012BJNE009200000_02]
-Fahrt auf Strecken mit vorgeschriebenem Kurs
 
-##### § 6.12 
+##### § 6.12 Fahrt auf Strecken mit vorgeschriebenem Kurs
 
 
 1.  Auf einer Strecke, die mit einem der Tafelzeichen B.1, B.2a, B.2b,

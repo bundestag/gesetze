@@ -401,10 +401,8 @@ auslösenden Anlass. Unter gleichwertigen Prüfverfahren ist dasjenige
 auszuwählen, bei dessen Anwendung die Versorgung am wenigsten
 beeinträchtigt wird.
 
-[^F775309_02_BJNR092800011BJNE001200000]
-Anerkennung von Sachverständigen
 
-## § 11 
+## § 11 Anerkennung von Sachverständigen
 
 (1) Sachverständige im Sinne dieser Verordnung sind Personen, die von
 der zuständigen Behörde für die Überprüfung der technischen Sicherheit

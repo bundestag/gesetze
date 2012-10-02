@@ -189,7 +189,6 @@ Krankenhausfinanzierungsgesetzes vereinbart worden sind.
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 4 - 124)
 
 
-[^bjnr519010011bjne000600000_01_BJNR519010011BJNE000600000]
 Zusatzentgelte-Katalog
 
 ## Anlage 2 - Liste -
@@ -829,6 +828,7 @@ Zusatzentgelte-Katalog
 
 
 **Fußnoten:**
+[^bjnr519010011bjne000600000_01_BJNR519010011BJNE000600000]
 
     Die jeweiligen Definitionen (OPS-Kodes und -Texte) sowie die fehlenden
     differenzierten €-Beträge sind in Anlage 5 aufgeführt.
@@ -1291,7 +1291,6 @@ Krankenhausleistung erbracht werden dürfen.
     geltende Entgelt der L90B nach Teil 1 c) der FPV 2011 der Höhe nach
     weiter zu erheben.
 [^bjnr519010011bjne000800000_02_BJNR519010011BJNE000800000]: 
-[^bjnr519010011bjne000900311_01_BJNR519010011BJNE000900311]
 Zusatzentgelte-Katalog
 
 ## Anlage 4 - Liste -
@@ -1659,6 +1658,7 @@ Krankenhausleistungen erbracht werden dürfen.
 
 
 **Fußnoten:**
+[^bjnr519010011bjne000900311_01_BJNR519010011BJNE000900311]
 
     Die jeweiligen Definitionen (OPS-Kodes und -Texte) sind in Anlage 6
     aufgeführt.

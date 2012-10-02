@@ -1,8 +1,6 @@
-[^f776346_01_BJNR049400012]
-Verordnung über die Berufsausbildung zum Schilder- und
-Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Schilder- und Lichtreklamehersteller
+  und zur Schilder- und Lichtreklameherstellerin
 jurabk: SchLichtReklAusbV
 layout: default
 origslug: schlichtreklausbv
@@ -10,7 +8,7 @@ slug: schlichtreklausbv
 
 ---
 
-#  (SchLichtReklAusbV)
+# Verordnung über die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin (SchLichtReklAusbV)
 
 Ausfertigungsdatum
 :   2012-03-26

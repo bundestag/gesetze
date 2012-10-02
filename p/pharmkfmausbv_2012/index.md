@@ -1,8 +1,6 @@
-[^F777503_01_BJNR145600012]
-Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen
-Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten
+  und zur Pharmazeutisch-kaufmännischen Angestellten
 jurabk: PharmKfmAusbV 2012
 layout: default
 origslug: pharmkfmausbv_2012
@@ -10,7 +8,7 @@ slug: pharmkfmausbv_2012
 
 ---
 
-#  (PharmKfmAusbV 2012)
+# Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten (PharmKfmAusbV 2012)
 
 Ausfertigungsdatum
 :   2012-07-03

@@ -1,5 +1,5 @@
 ---
-Title: Düngegesetz \*)
+Title: Düngegesetz
 jurabk: DüngG
 layout: default
 origslug: d_ngg
@@ -7,7 +7,7 @@ slug: duengg
 
 ---
 
-# Düngegesetz \*) (DüngG)
+# Düngegesetz (DüngG)
 
 Ausfertigungsdatum
 :   2009-01-09

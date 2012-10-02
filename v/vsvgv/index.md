@@ -1,12 +1,9 @@
-[^f777502_01_BJNR150900012]
-Vergabeverordnung für die Bereiche Verteidigung und Sicherheit zur
-Umsetzung der Richtlinie 2009/81/EG des Europäischen Parlaments und
-des Rates vom 13. Juli 2009 über die Koordinierung der Verfahren zur
-Vergabe bestimmter Bau-, Liefer- und Dienstleistungsaufträge in den
-Bereichen Verteidigung und Sicherheit und zur Änderung der Richtlinien
-2004/17/EG und 2004/18/EG
 ---
-Title: ''
+Title: Vergabeverordnung für die Bereiche Verteidigung und Sicherheit zur Umsetzung
+  der Richtlinie 2009/81/EG des Europäischen Parlaments und des Rates vom 13. Juli
+  2009 über die Koordinierung der Verfahren zur Vergabe bestimmter Bau-, Liefer- und
+  Dienstleistungsaufträge in den Bereichen Verteidigung und Sicherheit und zur Änderung
+  der Richtlinien 2004/17/EG und 2004/18/EG
 jurabk: VSVgV
 layout: default
 origslug: vsvgv
@@ -14,7 +11,7 @@ slug: vsvgv
 
 ---
 
-#  (VSVgV)
+# Vergabeverordnung für die Bereiche Verteidigung und Sicherheit zur Umsetzung der Richtlinie 2009/81/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Koordinierung der Verfahren zur Vergabe bestimmter Bau-, Liefer- und Dienstleistungsaufträge in den Bereichen Verteidigung und Sicherheit und zur Änderung der Richtlinien 2004/17/EG und 2004/18/EG (VSVgV)
 
 Ausfertigungsdatum
 :   2012-07-12

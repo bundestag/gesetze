@@ -1,9 +1,6 @@
-[^F777052_01_BJNR120600012]
-Verordnung über die Berufsausbildung zum Fachangestellten für
-Arbeitsmarktdienstleistungen und zur Fachangestellten für
-Arbeitsmarktdienstleistungen
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen
+  und zur Fachangestellten für Arbeitsmarktdienstleistungen
 jurabk: ArbMDFAngAusbV
 layout: default
 origslug: arbmdfangausbv
@@ -11,7 +8,7 @@ slug: arbmdfangausbv
 
 ---
 
-#  (ArbMDFAngAusbV)
+# Verordnung über die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen (ArbMDFAngAusbV)
 
 Ausfertigungsdatum
 :   2012-05-24

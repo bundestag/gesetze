@@ -1,9 +1,6 @@
-[^f776769_01_BJNR116800012]
-Verordnung über die Berufsausbildung zum Verfahrensmechaniker für
-Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für
-Kunststoff- und Kautschuktechnik
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff-
+  und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
 jurabk: KStoffVerfMAusbV 2012
 layout: default
 origslug: kstoffverfmausbv_2012
@@ -11,7 +8,7 @@ slug: kstoffverfmausbv_2012
 
 ---
 
-#  (KStoffVerfMAusbV 2012)
+# Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik (KStoffVerfMAusbV 2012)
 
 Ausfertigungsdatum
 :   2012-05-21

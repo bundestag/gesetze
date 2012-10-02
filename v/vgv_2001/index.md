@@ -616,7 +616,6 @@ in der Bekanntmachung festgelegt ist.
 ### § 24 (Inkrafttreten, Außerkrafttreten)
 
 
-[^f775203_02_BJNR011000001BJNE003100360]
 
 ### Anlage 1 
 
@@ -940,6 +939,7 @@ in der Bekanntmachung festgelegt ist.
     *
 
 
+[^f775203_02_BJNR011000001BJNE003100360]
 
    Teil A entspricht Anhang VI, Teil B Anhang VII zur Verordnung (EG) Nr.
     213/2008 der Kommission vom 28. November 2007 zur Änderung der

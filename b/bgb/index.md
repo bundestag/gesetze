@@ -3751,11 +3751,8 @@ Mehraufwendungen verlangen, die er für das erfolglose Angebot sowie
 für die Aufbewahrung und Erhaltung des geschuldeten Gegenstands machen
 musste.
 
-[^BJNR001950896BJNG023401377_001]
-Gestaltung rechtsgeschäftlicher Schuldverhältnisse durch Allgemeine
-Geschäftsbedingungen
 
-### Abschnitt 2 - 
+### Abschnitt 2 - Gestaltung rechtsgeschäftlicher Schuldverhältnisse durch Allgemeine Geschäftsbedingungen
 
 [^BJNR001950896BJNG023401377_001]:     **Amtlicher Hinweis:**              Dieser Abschnitt dient auch der
     Umsetzung der Richtlinie 93/13/EWG des Rates vom 5. April 1993 über
@@ -11954,10 +11951,8 @@ nur der im § 645 Abs. 1 bestimmte Anspruch zu.
 (2) Ist eine solche Überschreitung des Anschlags zu erwarten, so hat
 der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
 
-[^BJNR001950896BJNE066703377_001]
-Anwendung des Kaufrechts
 
-###### § 651 
+###### § 651 Anwendung des Kaufrechts
 
 Auf einen Vertrag, der die Lieferung herzustellender oder zu
 erzeugender beweglicher Sachen zum Gegenstand hat, finden die
@@ -11975,10 +11970,8 @@ nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
     Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
     Nr. L 171 S. 12).
 
-[^BJNR001950896BJNG005802377_001]
-Reisevertrag
 
-##### Untertitel 2 - 
+##### Untertitel 2 - Reisevertrag
 
 
 [^BJNR001950896BJNG005802377_001]:     **Amtlicher Hinweis:**              Dieser Untertitel dient der
