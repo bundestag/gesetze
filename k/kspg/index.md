@@ -1,7 +1,5 @@
-[^F1_777603_BJNR172610012]
-Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid
 ---
-Title: ''
+Title: Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid
 jurabk: KSpG
 layout: default
 origslug: kspg
@@ -9,7 +7,7 @@ slug: kspg
 
 ---
 
-#  (KSpG)
+# Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid (KSpG)
 
 Ausfertigungsdatum
 :   2012-08-17
