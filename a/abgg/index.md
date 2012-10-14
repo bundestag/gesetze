@@ -1425,7 +1425,7 @@ Gesetzes liegen, werden bei der Berechnung des Zeitraumes, für den
 (1) Die Ausübung des Mandats steht im Mittelpunkt der Tätigkeit eines
 Mitglieds des Bundestages. Unbeschadet dieser Verpflichtung bleiben
 Tätigkeiten beruflicher oder anderer Art neben dem Mandat
-grundsätzlich nach $ 44a (6) AbgG genehmigungsfähig.
+grundsätzlich nach § 44a (6) AbgG genehmigungsfähig.
 
 (2) Für die Ausübung des Mandats darf ein Mitglied des Bundestages
 keine anderen als die gesetzlich vorgesehenen Zuwendungen oder andere
