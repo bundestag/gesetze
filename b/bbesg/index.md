@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.6.2009 I 1434
 
 Zuletzt geändert durch
-:   Art. 1 G v. 15.3.2012 I 462
+:   3 G v. 15.8.2012 I 1670
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -393,10 +393,43 @@ jeweilige Zulagenvorschrift keinen anderweitigen Ausgleich vorsieht.
 
 ### § 14 Anpassung der Besoldung
 
-Die Besoldung wird entsprechend der Entwicklung der allgemeinen
+(1) Die Besoldung wird entsprechend der Entwicklung der allgemeinen
 wirtschaftlichen und finanziellen Verhältnisse und unter
 Berücksichtigung der mit den Dienstaufgaben verbundenen Verantwortung
 durch Gesetz regelmäßig angepasst.
+
+(2) Ab 1. März 2012 gelten unter Berücksichtigung einer Erhöhung
+
+1.  des Grundgehaltes,
+
+
+2.  des Familienzuschlages mit Ausnahme der Erhöhungsbeträge für die
+    Besoldungsgruppen A 2 bis A 5,
+
+
+3.  der Amtszulagen
+
+
+
+um jeweils 3,3 vom Hundert die Monatsbeträge der Anlagen IV, V und IX
+dieses Gesetzes sowie in den Fällen des § 76 die Monatsbeträge der
+Anlagen 1 und 2 des Besoldungsüberleitungsgesetzes.
+
+(3) Ab 1. März 2012 gelten für den Auslandszuschlag unter
+Berücksichtigung einer Erhöhung
+
+1.  der Ober- und Untergrenzen der Grundgehaltsspannen um 3,3 vom Hundert
+    und
+
+
+2.  der Monatsbeträge der Zonenstufen um 2,64 vom Hundert
+
+
+
+die Monatsbeträge der Anlage VI.
+
+(4) Ab 1. März 2012 gelten unter Berücksichtigung einer Erhöhung der
+Anwärtergrundbeträge um 50 Euro die Monatsbeträge der Anlage VIII.
 
 
 ### § 14a Versorgungsrücklage
@@ -1781,6 +1814,105 @@ Absatzes 6 oder des Absatzes 7 nicht nebeneinander gewährt.
 31\. Dezember 2014 zu prüfen.
 
 
+### § 43b Verpflichtungsprämie für Soldaten auf Zeit
+
+(1) Zur Sicherstellung der Deckung des Personalbedarfs der Bundeswehr
+kann eine Prämie für die Verpflichtung zum Dienst als Soldat auf Zeit
+(Verpflichtungsprämie) gewährt werden, wenn die sich aus der
+militärischen Personalplanung im Rahmen des Haushaltsplans ergebenden
+personellen Zielvorgaben seit mindestens sechs Monaten zu nicht mehr
+als 90 vom Hundert erfüllt werden können und keine Anhaltspunkte dafür
+bestehen, dass der vorgenannte Schwellenwert innerhalb der nächsten
+sechs Monate überschritten wird. Die Verpflichtungsprämie kann für
+bestimmte Laufbahnen oder bestimmte militärische Fachtätigkeiten,
+gegebenenfalls regional begrenzt, vorgesehen werden. Die Einzelheiten
+legt das Bundesministerium der Verteidigung für höchstens zwölf Monate
+fest; die Festlegung kann, auch mehrmals, um bis zu zwölf Monate
+verlängert werden.
+
+(2) Die Verpflichtungsprämie beträgt 1 000 Euro für jedes Jahr der
+Verpflichtungsdauer. Der Anspruch entsteht mit der Festsetzung der
+Dienstzeit
+
+1.  bei einer Erstverpflichtung nach Ablauf der für die Berufung in das
+    Dienstverhältnis als Soldat auf Zeit festgesetzten Bewährungszeit,
+
+
+2.  bei einer Weiterverpflichtung, wenn die Verpflichtungserklärung im
+    Regelungszeitraum nach Absatz 1 Satz 3 abgegeben wurde.
+
+
+
+Wird die Dienstzeit stufenweise festgesetzt, ist die
+Verpflichtungsprämie anteilig entsprechend der jeweils festgesetzten
+Dienstzeit zu zahlen. Die Prämienfestsetzung ist dem Soldaten
+schriftlich mitzuteilen.
+
+(3) Die Verpflichtungsprämie wird nicht gewährt
+
+1.  neben einem Personalgewinnungszuschlag nach § 43,
+
+
+2.  neben einer Prämie nach § 43a,
+
+
+3.  neben einem Zuschlag nach § 53 Absatz 1 Satz 5,
+
+
+4.  neben einer Verpflichtungsprämie nach § 85a sowie
+
+
+5.  für Zeiträume, für die eine Verpflichtungsprämie nach § 85a in der bis
+    zum 31. Dezember 2012 geltenden Fassung oder für die eine
+    Weiterverpflichtungsprämie nach § 8i des Wehrsoldgesetzes gewährt
+    worden ist.
+
+
+
+
+(4) Die Verpflichtungsprämie ist zurückzuzahlen, wenn
+
+1.  das Dienstverhältnis vor Ablauf der für den Anspruch auf die
+    Verpflichtungsprämie nach Absatz 2 maßgebenden Verpflichtungsdauer
+    nach § 54 Absatz 2 Nummer 2 oder Nummer 3 des Soldatengesetzes oder
+    nach § 55 des Soldatengesetzes beendet wird, im Fall des § 55 Absatz 2
+    des Soldatengesetzes aber nur, wenn der Soldat die Dienstunfähigkeit
+    vorsätzlich oder grob fahrlässig herbeigeführt hat,
+
+
+2.  der Soldat nach § 28 Absatz 5 oder Absatz 7 des Soldatengesetzes
+    beurlaubt wird,
+
+
+3.  ein Wechsel in eine Verwendung erfolgt, für die keine
+    Verpflichtungsprämie gezahlt wird.
+
+
+
+Es ist der Betrag zu belassen, der für jeden angefangenen
+Kalendermonat der anspruchsbegründenden Verpflichtungsdauer vor
+Eintritt eines in Satz 1 genannten Tatbestandes bereits geleistet
+worden ist. Im Fall des Satzes 1 Nummer 2 ist nur der Betrag
+zurückzuzahlen, der jeweils auf einen vollen Kalendermonat der
+Beurlaubung ohne Geld- und Sachbezüge entfällt. Bei Inanspruchnahme
+von Elternzeit nach § 28 Absatz 7 des Soldatengesetzes besteht eine
+Rückzahlungsverpflichtung nur, wenn Zeiten der Elternzeit nicht nach §
+40 Absatz 4 des Soldatengesetzes zur Verlängerung der Dienstzeit
+führen. Von der Rückforderung kann aus Billigkeitsgründen ganz oder
+teilweise abgesehen werden.
+
+(5) Wird vor Zahlung der Verpflichtungsprämie ein Verfahren
+eingeleitet, das voraussichtlich zur Beendigung des
+Dienstverhältnisses aus einem der in Absatz 4 Satz 1 aufgeführten
+Gründe führen wird, so wird die Zahlung bis zum Abschluss dieses
+Verfahrens ausgesetzt.
+
+(6) Bis zum 31. Dezember 2016 prüft das Bundesministerium der
+Verteidigung unter Beteiligung des Bundesministeriums des Innern und
+des Bundesministeriums der Finanzen die Anwendung und die Wirkung der
+Verpflichtungsprämie.
+
+
 ### § 44 Stellenzulage für hauptamtliche Lehrkräfte
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
@@ -2769,34 +2901,9 @@ in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt.
     ersetzt.
 
 
-### § 79 Umwandlung der Sonderzahlung
+### § 79 (weggefallen)
 
-Ab 1. Januar 2012 erhöhen sich um 2,44 vom Hundert der bis dahin
-geltenden Beträge
-
-1.  das Grundgehalt nach diesem Gesetz und das Grundgehalt nach dem
-    Besoldungsüberleitungsgesetz,
-
-
-2.  der Familienzuschlag mit Ausnahme des Anrechnungsbetrages nach § 39
-    Absatz 2 Satz 1,
-
-
-3.  die Ober- und Untergrenzen der Grundgehaltsspannen für den
-    Auslandszuschlag,
-
-
-4.  der Anwärtergrundbetrag und
-
-
-5.  die in Anlage IX in Beträgen ausgewiesenen Amts- und Stellenzulagen.
-
-
-
-Unter Berücksichtigung dieser Erhöhung gelten die Monatsbeträge der
-Anlagen IV, V, VI, VIII und IX dieses Gesetzes sowie in den Fällen des
-§ 76 die Monatsbeträge der Anlagen 1 und 2 des
-Besoldungsüberleitungsgesetzes.
+-
 
 
 ### § 80 Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte der Bundespolizei
@@ -3539,7 +3646,7 @@ Wahrnehmung der Schulleiterfunktion nicht schon durch die Einstufung
 berücksichtigt worden ist; sie wird nicht neben einer Amtszulage oder
 einer anderen Stellenzulage gewährt.
 
-[^f772096_18_BJNR011740975BJNE025001310]
+[^f772096_18_BJNR011740975BJNE025002360]
 **13b.  Zulage für Kanzler an großen Botschaften**
 
 Beamten des Auswärtigen Dienstes der Besoldungsgruppe A 13 wird
@@ -3741,9 +3848,9 @@ Bundesrates.
 
 **Besoldungsgruppe A 2**
 
-[^f772096_19_BJNR011740975BJNE025001310]
+[^f772096_19_BJNR011740975BJNE025002360]
 Aufseher
-[^f772096_20_BJNR011740975BJNE025001310]
+[^f772096_20_BJNR011740975BJNE025002360]
 
 Oberamtsgehilfe
 
@@ -3752,76 +3859,76 @@ Oberbetriebsgehilfe
 Schaffner
 
 Wachtmeister
-[^f772096_21_BJNR011740975BJNE025001310]
+[^f772096_21_BJNR011740975BJNE025002360]
 
 **Besoldungsgruppe A 3**
 
-[^f772096_22_BJNR011740975BJNE025001310]
+[^f772096_22_BJNR011740975BJNE025002360]
 Hauptamtsgehilfe
-[^f772096_25_BJNR011740975BJNE025001310]
+[^f772096_25_BJNR011740975BJNE025002360]
 
 Hauptbetriebsgehilfe
 
-[^f772096_23_BJNR011740975BJNE025001310]
+[^f772096_23_BJNR011740975BJNE025002360]
 Oberaufseher
 
 Oberschaffner
 
 Oberwachtmeister
-[^f772096_24_BJNR011740975BJNE025001310]
-[^f772096_26_BJNR011740975BJNE025001310]
+[^f772096_24_BJNR011740975BJNE025002360]
+[^f772096_26_BJNR011740975BJNE025002360]
 
-[^f772096_27_BJNR011740975BJNE025001310]
+[^f772096_27_BJNR011740975BJNE025002360]
 Grenadier, Flieger, Matrose
 
-[^f772096_28_BJNR011740975BJNE025001310]
+[^f772096_28_BJNR011740975BJNE025002360]
 Gefreiter
 
 **Besoldungsgruppe A 4**
 
-[^f772096_29_BJNR011740975BJNE025001310]
+[^f772096_29_BJNR011740975BJNE025002360]
 Amtsmeister
 
 Betriebsmeister
 
-[^f772096_30_BJNR011740975BJNE025001310]
+[^f772096_30_BJNR011740975BJNE025002360]
 Hauptaufseher
 
 Hauptschaffner
 
 Hauptwachtmeister
-[^f772096_32_BJNR011740975BJNE025001310]
+[^f772096_32_BJNR011740975BJNE025002360]
 
 Oberwart
-[^f772096_31_BJNR011740975BJNE025001310]
+[^f772096_31_BJNR011740975BJNE025002360]
 
 Triebwagenführer
 
 Obergefreiter
 
-[^f772096_33_BJNR011740975BJNE025001310]
+[^f772096_33_BJNR011740975BJNE025002360]
 Hauptgefreiter
 
 **Besoldungsgruppe A 5**
 
-[^f772096_36_BJNR011740975BJNE025001310]
+[^f772096_36_BJNR011740975BJNE025002360]
 Betriebsassistent
-[^f772096_38_BJNR011740975BJNE025001310]
+[^f772096_38_BJNR011740975BJNE025002360]
 
 Erster Hauptwachtmeister
-[^f772096_39_BJNR011740975BJNE025001310]
+[^f772096_39_BJNR011740975BJNE025002360]
 
 Hauptwart
 
 Justizvollstreckungsassistent
 
-[^f772096_34_BJNR011740975BJNE025001310]
+[^f772096_34_BJNR011740975BJNE025002360]
 Kriminaloberwachtmeister
 
 Kriminalwachtmeister
-[^f772096_35_BJNR011740975BJNE025001310]
+[^f772096_35_BJNR011740975BJNE025002360]
 
-[^f772096_37_BJNR011740975BJNE025001310]
+[^f772096_37_BJNR011740975BJNE025002360]
 Oberamtsmeister
 
 Oberbetriebsmeister
@@ -3835,7 +3942,7 @@ Polizeiwachtmeister
 Stabsgefreiter
 
 Oberstabsgefreiter
-[^f772096_41_BJNR011740975BJNE025001310]
+[^f772096_41_BJNR011740975BJNE025002360]
 
 Unteroffizier
 
@@ -3845,20 +3952,20 @@ Fahnenjunker
 
 Seekadett
 
-[^f772096_40_BJNR011740975BJNE025001310]
+[^f772096_40_BJNR011740975BJNE025002360]
 **Besoldungsgruppe A 6**
 
-[^f772096_46_BJNR011740975BJNE025001310]
+[^f772096_46_BJNR011740975BJNE025002360]
 Betriebsassistent
 
 Erster Hauptwachtmeister
-[^f772096_47_BJNR011740975BJNE025001310]
+[^f772096_47_BJNR011740975BJNE025002360]
 
 Hauptwart
 
 Justizvollstreckungssekretär
 
-[^f772096_42_BJNR011740975BJNE025001310]
+[^f772096_42_BJNR011740975BJNE025002360]
 Lokomotivführer
 
 Oberamtsmeister
@@ -3871,16 +3978,16 @@ Sekretär
 
 Werkmeister
 
-[^f772096_43_BJNR011740975BJNE025001310]
+[^f772096_43_BJNR011740975BJNE025002360]
 Stabsunteroffizier
 
 Obermaat
 
-[^f772096_44_BJNR011740975BJNE025001310]
-[^f772096_45_BJNR011740975BJNE025001310]
+[^f772096_44_BJNR011740975BJNE025002360]
+[^f772096_45_BJNR011740975BJNE025002360]
 **Besoldungsgruppe A 7**
 
-[^f772096_51_BJNR011740975BJNE025001310]
+[^f772096_51_BJNR011740975BJNE025002360]
 Brandmeister
 
 Justizvollstreckungsobersekretär
@@ -3891,24 +3998,24 @@ Krankenschwester
 
 Kriminalmeister
 
-[^f772096_48_BJNR011740975BJNE025001310]
+[^f772096_48_BJNR011740975BJNE025002360]
 Oberlokomotivführer
 
-[^f772096_53_BJNR011740975BJNE025001310]
+[^f772096_53_BJNR011740975BJNE025002360]
 Obersekretär
-[^f772096_54_BJNR011740975BJNE025001310]
+[^f772096_54_BJNR011740975BJNE025002360]
 
 Oberwerkmeister
-[^f772096_55_BJNR011740975BJNE025001310]
+[^f772096_55_BJNR011740975BJNE025002360]
 
 Polizeimeister
 
-[^f772096_52_BJNR011740975BJNE025001310]
+[^f772096_52_BJNR011740975BJNE025002360]
 Stationspfleger
 
 Stationsschwester
 
-[^f772096_50_BJNR011740975BJNE025001310]
+[^f772096_50_BJNR011740975BJNE025002360]
 Stabsunteroffizier
 
 Obermaat
@@ -3921,7 +4028,7 @@ Fähnrich
 
 Fähnrich zur See
 
-[^f772096_49_BJNR011740975BJNE025001310]
+[^f772096_49_BJNR011740975BJNE025002360]
 Oberfeldwebel
 
 Oberbootsmann
@@ -3932,7 +4039,7 @@ Abteilungspfleger
 
 Abteilungsschwester
 
-[^f772096_56_BJNR011740975BJNE025001310]
+[^f772096_56_BJNR011740975BJNE025002360]
 Gerichtsvollzieher
 
 Hauptlokomotivführer
@@ -3949,7 +4056,7 @@ Oberbrandmeister
 
 Polizeiobermeister
 
-[^f772096_57_BJNR011740975BJNE025001310]
+[^f772096_57_BJNR011740975BJNE025002360]
 Hauptfeldwebel
 
 Hauptbootsmann
@@ -3960,7 +4067,7 @@ Oberfähnrich zur See
 
 **Besoldungsgruppe A 9**
 
-[^f772096_60_BJNR011740975BJNE025001310]
+[^f772096_60_BJNR011740975BJNE025002360]
 Amtsinspektor
 
 Betriebsinspektor
@@ -3969,7 +4076,7 @@ Hauptbrandmeister
 
 Inspektor
 
-[^f772096_58_BJNR011740975BJNE025001310]
+[^f772096_58_BJNR011740975BJNE025002360]
 Kapitän
 
 Konsulatssekretär
@@ -3980,9 +4087,9 @@ Kriminalkommissar
 
 Obergerichtsvollzieher
 
-[^f772096_63_BJNR011740975BJNE025001310]
+[^f772096_63_BJNR011740975BJNE025002360]
 Oberin
-[^f772096_64_BJNR011740975BJNE025001310]
+[^f772096_64_BJNR011740975BJNE025002360]
 
 Oberpfleger
 
@@ -3994,12 +4101,12 @@ Polizeihauptmeister
 
 Polizeikommissar
 
-[^f772096_61_BJNR011740975BJNE025001310]
+[^f772096_61_BJNR011740975BJNE025002360]
 Stabsfeldwebel
 
 Stabsbootsmann
 
-[^f772096_59_BJNR011740975BJNE025001310]
+[^f772096_59_BJNR011740975BJNE025002360]
 Oberstabsfeldwebel
 
 Oberstabsbootsmann
@@ -4008,8 +4115,8 @@ Leutnant
 
 Leutnant zur See
 
-[^f772096_62_BJNR011740975BJNE025001310]
-[^f772096_65_BJNR011740975BJNE025001310]
+[^f772096_62_BJNR011740975BJNE025002360]
+[^f772096_65_BJNR011740975BJNE025002360]
 **Besoldungsgruppe A 10**
 
 Konsulatssekretär Erster Klasse
@@ -4020,32 +4127,32 @@ Oberinspektor
 
 Polizeioberkommissar
 
-[^f772096_66_BJNR011740975BJNE025001310]
+[^f772096_66_BJNR011740975BJNE025002360]
 Seekapitän
 
 Oberleutnant
 
 Oberleutnant zur See
 
-[^f772096_67_BJNR011740975BJNE025001310]
+[^f772096_67_BJNR011740975BJNE025002360]
 **Besoldungsgruppe A 11**
 
 Amtmann
 
-[^f772096_69_BJNR011740975BJNE025001310]
+[^f772096_69_BJNR011740975BJNE025002360]
 Kanzler
 
-[^f772096_68_BJNR011740975BJNE025001310]
+[^f772096_68_BJNR011740975BJNE025002360]
 Kriminalhauptkommissar
 
 Polizeihauptkommissar
 
-[^f772096_70_BJNR011740975BJNE025001310]
+[^f772096_70_BJNR011740975BJNE025002360]
 Seeoberkapitän
 
 Fachlehrer
 
-[^f772096_71_BJNR011740975BJNE025001310]
+[^f772096_71_BJNR011740975BJNE025002360]
 – mit abgeschlossener Ingenieur- oder Fachhochschulausbildung, wenn
 sie vorgeschrieben ist oder, beim Fehlen laufbahnrechtlicher
 Vorschriften, gefordert wird –
@@ -4056,16 +4163,16 @@ Kapitänleutnant
 
 **Besoldungsgruppe A 12**
 
-[^f772096_72_BJNR011740975BJNE025001310]
+[^f772096_72_BJNR011740975BJNE025002360]
 Amtsanwalt
 
 Amtsrat
 
-[^f772096_74_BJNR011740975BJNE025001310]
+[^f772096_74_BJNR011740975BJNE025002360]
 Kanzler Erster Klasse
-[^f772096_75_BJNR011740975BJNE025001310]
+[^f772096_75_BJNR011740975BJNE025002360]
 
-[^f772096_73_BJNR011740975BJNE025001310]
+[^f772096_73_BJNR011740975BJNE025002360]
 Kriminalhauptkommissar
 
 Polizeihauptkommissar
@@ -4075,25 +4182,25 @@ Rechnungsrat
 – als Prüfungsbeamter bei einem Rechnungshof –
 
 Seehauptkapitän
-[^f772096_76_BJNR011740975BJNE025001310]
+[^f772096_76_BJNR011740975BJNE025002360]
 
 Fachlehrer
 
-[^f772096_77_BJNR011740975BJNE025001310]
+[^f772096_77_BJNR011740975BJNE025002360]
 – mit abgeschlossener Ingenieur- oder Fachhochschulausbildung, wenn
 sie vorgeschrieben ist oder, beim Fehlen laufbahnrechtlicher
 Vorschriften, gefordert wird –
 
 Konrektor
 
-[^f772096_78_BJNR011740975BJNE025001310]
+[^f772096_78_BJNR011740975BJNE025002360]
 – als der ständige Vertreter des Leiters einer Grundschule,
 Hauptschule oder Grund- und Hauptschule mit mehr als 180 bis zu 360
 Schülern –
 
 Lehrer
 
-[^f772096_79_BJNR011740975BJNE025001310]
+[^f772096_79_BJNR011740975BJNE025002360]
 – als Leiter einer Grundschule, Hauptschule oder Grund- und
 Hauptschule mit bis zu 80 Schülern –
 
@@ -4109,7 +4216,7 @@ Westfalen bei entsprechender Verwendung –
 – mit der Befähigung für das Lehramt an Haupt- und Realschulen, an
 Mittelschulen in Sachsen, an Sekundarschulen in Sachsen-Anhalt oder an
 Regelschulen in Thüringen bei einer entsprechenden Verwendung –
-[^f772096_80_BJNR011740975BJNE025001310]
+[^f772096_80_BJNR011740975BJNE025002360]
 
 – mit der Befähigung für das Lehramt der Primarstufe bei
 entsprechender Verwendung –
@@ -4122,7 +4229,7 @@ I bei entsprechender Verwendung –
 
 – mit der Lehramtsbefähigung für die Sekundarstufe I und die
 Sekundarstufe II bei entsprechender Verwendung –
-[^f772096_81_BJNR011740975BJNE025001310]
+[^f772096_81_BJNR011740975BJNE025002360]
 
 Zweiter Konrektor
 
@@ -4133,7 +4240,7 @@ Hauptmann
 
 Kapitänleutnant
 
-[^f772096_92_BJNR011740975BJNE025001310]
+[^f772096_92_BJNR011740975BJNE025002360]
 **Besoldungsgruppe A 13**
 
 Akademischer Rat
@@ -4141,19 +4248,19 @@ Akademischer Rat
 – als wissenschaftlicher oder künstlerischer Mitarbeiter an einer
 Hochschule –
 
-[^f772096_82_BJNR011740975BJNE025001310]
+[^f772096_82_BJNR011740975BJNE025002360]
 Arzt
 
 Erster Kriminalhauptkommissar
 
 Erster Polizeihauptkommissar
 
-[^f772096_0103_BJNR011740975BJNE025001310]
+[^f772096_0103_BJNR011740975BJNE025002360]
 Geschäftsführer einer gemeinsamen Einrichtung (Jobcenter)
 
-[^f772096_83_BJNR011740975BJNE025001310]
+[^f772096_83_BJNR011740975BJNE025002360]
 Kanzler Erster Klasse
-[^f772096_84_BJNR011740975BJNE025001310]
+[^f772096_84_BJNR011740975BJNE025002360]
 
 Konservator
 
@@ -4165,10 +4272,10 @@ Landesanwalt
 
 Legationsrat
 
-[^f772096_93_BJNR011740975BJNE025001310]
+[^f772096_93_BJNR011740975BJNE025002360]
 Oberamtsanwalt
 
-[^f772096_94_BJNR011740975BJNE025001310]
+[^f772096_94_BJNR011740975BJNE025002360]
 Oberamtsrat
 
 Oberrechnungsrat
@@ -4180,12 +4287,12 @@ Pfarrer
 Rat
 
 Seehauptkapitän
-[^f772096_85_BJNR011740975BJNE025001310]
+[^f772096_85_BJNR011740975BJNE025002360]
 
-[^f772096_86_BJNR011740975BJNE025001310]
+[^f772096_86_BJNR011740975BJNE025002360]
 Fachschuloberlehrer – im Bundesdienst –
-[^f772096_87_BJNR011740975BJNE025001310]
-[^f772096_91_BJNR011740975BJNE025001310]
+[^f772096_87_BJNR011740975BJNE025002360]
+[^f772096_91_BJNR011740975BJNE025002360]
 
 Hauptlehrer
 
@@ -4197,7 +4304,7 @@ Konrektor
 – als der ständige Vertreter des Leiters einer Grundschule,
 Hauptschule oder Grund- und Hauptschule mit mehr als 360 Schülern –
 
-[^f772096_88_BJNR011740975BJNE025001310]
+[^f772096_88_BJNR011740975BJNE025002360]
 – als der ständige Vertreter des Leiters einer Hauptschule mit
 Realschul- oder Aufbauzug oder mit einer schulformunabhängigen
 Orientierungsstufe mit mehr als 180 Schülern –
@@ -4207,15 +4314,15 @@ Lehrer
 – mit fachwissenschaftlicher Ausbildung in zwei Fächern, wenn sich die
 Lehrbefähigung auf Haupt- und Realschulen oder Gymnasien erstreckt,
 bei einer dieser Befähigung entsprechenden Verwendung –
-[^f772096_97_BJNR011740975BJNE025001310]
+[^f772096_97_BJNR011740975BJNE025002360]
 
-[^f772096_89_BJNR011740975BJNE025001310]
+[^f772096_89_BJNR011740975BJNE025002360]
 – mit fachwissenschaftlicher Ausbildung von mindestens acht Semestern
 Dauer in zwei Fächern, wenn sich die Lehrbefähigung auf Grund-, Haupt-
 und Realschulen erstreckt, bei einer dieser Befähigung entsprechenden
 Verwendung –
 
-[^f772096_101_BJNR011740975BJNE025001310]
+[^f772096_101_BJNR011740975BJNE025002360]
 – mit der Befähigung für das Lehramt an Grund-, Haupt- und Realschulen
 in Niedersachsen bei überwiegender Verwendung in der Sekundarstufe I –
 
@@ -4224,20 +4331,20 @@ und den entsprechenden Jahrgangsstufen der Gesamtschulen in Nordrhein-
 Westfalen bei überwiegender Verwendung im Bereich der Sekundarstufe I
 –
 
-[^f772096_98_BJNR011740975BJNE025001310]
+[^f772096_98_BJNR011740975BJNE025002360]
 – mit der Befähigung für das Lehramt an Haupt- und Realschulen, an
 Mittelschulen in Sachsen, an Sekundarschulen in Sachsen-Anhalt oder an
 Regelschulen in Thüringen bei einer entsprechenden Verwendung –
-[^f772096_99_BJNR011740975BJNE025001310]
+[^f772096_99_BJNR011740975BJNE025002360]
 
-[^f772096_95_BJNR011740975BJNE025001310]
+[^f772096_95_BJNR011740975BJNE025002360]
 – mit der Befähigung für das Lehramt der Sekundarstufe I bei
 entsprechender Verwendung –
 
 – mit der Lehramtsbefähigung für die Primarstufe und die Sekundarstufe
 I bei überwiegender Verwendung in der Sekundarstufe I –
 
-[^f772096_100_BJNR011740975BJNE025001310]
+[^f772096_100_BJNR011740975BJNE025002360]
 – mit der Lehramtsbefähigung für die Sekundarstufe I und die
 Sekundarstufe II bei entsprechender Verwendung –
 
@@ -4253,14 +4360,14 @@ als 180 bis zu 360 Schülern –
 
 Studienrat
 
-[^f772096_90_BJNR011740975BJNE025001310]
+[^f772096_90_BJNR011740975BJNE025002360]
 – im höheren Dienst des Bundes –
 
 – mit der Befähigung für das Lehramt an Gymnasien oder an beruflichen
 Schulen bei einer der jeweiligen Befähigung entsprechenden Verwendung
 –
 
-[^f772096_102_BJNR011740975BJNE025001310]
+[^f772096_102_BJNR011740975BJNE025002360]
 – mit der Befähigung für das Lehramt an Gymnasien und Gesamtschulen
 bei Verwendung am Gymnasium oder an einer Gesamtschule mit gymnasialer
 Oberstufe –
@@ -4272,7 +4379,7 @@ entsprechender Verwendung –
 Sekundarstufe II bei Verwendung an beruflichen Schulen oder an Schulen
 mit dem Bildungsgang zum Erwerb der allgemeinen Hochschulreife –
 
-[^f772096_96_BJNR011740975BJNE025001310]
+[^f772096_96_BJNR011740975BJNE025002360]
 Stabshauptmann
 
 Stabskapitänleutnant
@@ -4294,23 +4401,23 @@ Akademischer Oberrat
 – als wissenschaftlicher oder künstlerischer Mitarbeiter an einer
 Hochschule –
 
-[^f772096_103_BJNR011740975BJNE025001310]
+[^f772096_103_BJNR011740975BJNE025002360]
 Arzt
 
-[^f772096_104_BJNR011740975BJNE025001310]
+[^f772096_104_BJNR011740975BJNE025002360]
 Chefarzt
 
-[^f772096_0112_BJNR011740975BJNE025001310]
+[^f772096_0112_BJNR011740975BJNE025002360]
 Geschäftsführer einer gemeinsamen Einrichtung (Jobcenter)
 
 Konsul Erster Klasse
 
 Landesanwalt
 
-[^f772096_105_BJNR011740975BJNE025001310]
+[^f772096_105_BJNR011740975BJNE025002360]
 Legationsrat Erster Klasse
 
-[^f772096_106_BJNR011740975BJNE025001310]
+[^f772096_106_BJNR011740975BJNE025002360]
 Mitglied der Geschäftsführung einer Agentur für Arbeit
 
 Oberarzt
@@ -4325,17 +4432,17 @@ Pfarrer
 
 Fachschuldirektor
 
-[^f772096_107_BJNR011740975BJNE025001310]
+[^f772096_107_BJNR011740975BJNE025002360]
 – als Leiter einer Bundeswehrfachschule mit Lehrgängen, die zu einem
 Abschluss führen, der dem der Realschule entspricht –
 
 Fachschuloberlehrer
 
-[^f772096_108_BJNR011740975BJNE025001310]
+[^f772096_108_BJNR011740975BJNE025002360]
 – als der ständige Vertreter des Direktors einer Fachschule als Leiter
 einer Fachschule des Bundes mit beruflichem Unterricht mit bis zu 360
 Unterrichtsteilnehmern –
-[^f772096_109_BJNR011740975BJNE025001310]
+[^f772096_109_BJNR011740975BJNE025002360]
 
 – als Stufenleiter Sekundarstufe I bei einer Bundeswehrfachschule –
 
@@ -4350,14 +4457,14 @@ schulformunabhängigen Orientierungsstufe mit mehr als 360 Schülern –
 
 Oberstudienrat
 
-[^f772096_110_BJNR011740975BJNE025001310]
+[^f772096_110_BJNR011740975BJNE025002360]
 – im höheren Dienst des Bundes –
 
 – mit der Befähigung für das Lehramt an Gymnasien oder an beruflichen
 Schulen bei einer der jeweiligen Befähigung entsprechenden Verwendung
 –
 
-[^f772096_111_BJNR011740975BJNE025001310]
+[^f772096_111_BJNR011740975BJNE025002360]
 – mit der Befähigung für das Lehramt an Gymnasien und Gesamtschulen
 bei Verwendung am Gymnasium oder an einer Gesamtschule mit gymnasialer
 Oberstufe –
@@ -4433,31 +4540,31 @@ Akademischer Direktor
 – als wissenschaftlicher oder künstlerischer Mitarbeiter an einer
 Hochschule –
 
-[^f772096_112_BJNR011740975BJNE025001310]
+[^f772096_112_BJNR011740975BJNE025002360]
 Botschafter
 
 Botschaftsrat
 
-[^f772096_113_BJNR011740975BJNE025001310]
+[^f772096_113_BJNR011740975BJNE025002360]
 Bundesbankdirektor
 
-[^f772096_114_BJNR011740975BJNE025001310]
+[^f772096_114_BJNR011740975BJNE025002360]
 Chefarzt
 
 Dekan
 
 Direktor
 
-[^f772096_116_BJNR011740975BJNE025001310]
+[^f772096_116_BJNR011740975BJNE025002360]
 Generalkonsul
 
-[^f772096_122_BJNR011740975BJNE025001310]
+[^f772096_122_BJNR011740975BJNE025002360]
 Gesandter
 
-[^f772096_0123_BJNR011740975BJNE025001310]
+[^f772096_0123_BJNR011740975BJNE025002360]
 Geschäftsführer einer gemeinsamen Einrichtung (Jobcenter)
 
-[^f772096_115_BJNR011740975BJNE025001310]
+[^f772096_115_BJNR011740975BJNE025002360]
 Geschäftsführer oder vorsitzendes Mitglied der Geschäftsführung einer
 Agentur für Arbeit
 
@@ -4465,7 +4572,7 @@ Hauptkonservator
 
 Hauptkustos
 
-[^f772096_117_BJNR011740975BJNE025001310]
+[^f772096_117_BJNR011740975BJNE025002360]
 Mitglied der Geschäftsführung einer Agentur für Arbeit
 
 Museumsdirektor und Professor
@@ -4478,10 +4585,10 @@ Vortragender Legationsrat
 
 Direktor einer Fachschule
 
-[^f772096_118_BJNR011740975BJNE025001310]
+[^f772096_118_BJNR011740975BJNE025002360]
 – als Leiter einer Fachschule des Bundes mit beruflichem Unterricht
 mit bis zu 360 Unterrichtsteilnehmern –
-[^f772096_119_BJNR011740975BJNE025001310]
+[^f772096_119_BJNR011740975BJNE025002360]
 
 Realschulrektor
 
@@ -4504,7 +4611,7 @@ Schulamtsdirektor
 
 Studiendirektor
 
-[^f772096_120_BJNR011740975BJNE025001310]
+[^f772096_120_BJNR011740975BJNE025002360]
 – als Fachberater in der Schulaufsicht, als Fachleiter oder
 Seminarlehrer an Studienseminaren oder Seminarschulen oder zur
 Koordinierung schulfachlicher Aufgaben –
@@ -4554,7 +4661,7 @@ beruflichem Unterricht mit mehr als 360 Unterrichtsteilnehmern,
 zur Koordinierung schulfachlicher Aufgaben –
 
 Oberstleutnant
-[^f772096_121_BJNR011740975BJNE025001310]
+[^f772096_121_BJNR011740975BJNE025002360]
 
 Fregattenkapitän
 
@@ -4574,15 +4681,15 @@ Abteilungsdirektor
 
 Abteilungspräsident
 
-[^f772096_123_BJNR011740975BJNE025001310]
+[^f772096_123_BJNR011740975BJNE025002360]
 Botschafter
 
 Botschaftsrat Erster Klasse
 
-[^f772096_124_BJNR011740975BJNE025001310]
+[^f772096_124_BJNR011740975BJNE025002360]
 Bundesbankdirektor
 
-[^f772096_125_BJNR011740975BJNE025001310]
+[^f772096_125_BJNR011740975BJNE025002360]
 Chefarzt
 
 Direktor der Bundesstelle für Flugunfalluntersuchung
@@ -4596,22 +4703,22 @@ Kulturbesitz
 Direktor des Staatlichen Instituts für Musikforschung der Stiftung
 Preußischer Kulturbesitz
 
-[^f772096_128_BJNR011740975BJNE025001310]
+[^f772096_128_BJNR011740975BJNE025002360]
 Direktor einer Wehrtechnischen Dienststelle
 
-[^f772096_0138_BJNR011740975BJNE025001310]
+[^f772096_0138_BJNR011740975BJNE025002360]
 Direktor eines Prüfungsamtes des Bundes
 
-[^f772096_130_BJNR011740975BJNE025001310]
+[^f772096_130_BJNR011740975BJNE025002360]
 Generalkonsul
 
-[^f772096_131_BJNR011740975BJNE025001310]
+[^f772096_131_BJNR011740975BJNE025002360]
 Gesandter
 
-[^f772096_0137_BJNR011740975BJNE025001310]
+[^f772096_0137_BJNR011740975BJNE025002360]
 Geschäftsführer einer gemeinsamen Einrichtung (Jobcenter)
 
-[^f772096_127_BJNR011740975BJNE025001310]
+[^f772096_127_BJNR011740975BJNE025002360]
 Geschäftsführer oder vorsitzendes Mitglied der Geschäftsführung einer
 Agentur für Arbeit
 
@@ -4619,22 +4726,22 @@ Landeskonservator
 
 Leitender Akademischer Direktor
 
-[^f772096_132_BJNR011740975BJNE025001310]
+[^f772096_132_BJNR011740975BJNE025002360]
 – als wissenschaftlicher oder künstlerischer Mitarbeiter an einer
 Hochschule –
 
-[^f772096_126_BJNR011740975BJNE025001310]
+[^f772096_126_BJNR011740975BJNE025002360]
 Leitender Dekan
 
-[^f772096_135_BJNR011740975BJNE025001310]
+[^f772096_135_BJNR011740975BJNE025002360]
 Leitender Direktor
 
 Ministerialrat
 
-[^f772096_129_BJNR011740975BJNE025001310]
+[^f772096_129_BJNR011740975BJNE025002360]
 – bei einer obersten Bundesbehörde und beim Bundeseisenbahnvermögen –
 
-[^f772096_133_BJNR011740975BJNE025001310]
+[^f772096_133_BJNR011740975BJNE025002360]
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten) –
 
 Mitglied der Geschäftsführung einer Regionaldirektion der
@@ -4650,7 +4757,7 @@ Senatsrat
 
 Vortragender Legationsrat Erster Klasse
 
-[^f772096_136_BJNR011740975BJNE025001310]
+[^f772096_136_BJNR011740975BJNE025002360]
 Kanzler einer Universität der Bundeswehr
 
 Leitender Regierungsschuldirektor
@@ -4672,7 +4779,7 @@ Oberstudiendirektor
 
 – als Leiter
 
-[^f772096_134_BJNR011740975BJNE025001310]
+[^f772096_134_BJNR011740975BJNE025002360]
 einer beruflichen Schule mit mehr als 360 Schülern,
 
 eines Gymnasiums im Aufbau mit
@@ -4723,12 +4830,12 @@ mindestens in Besoldungsgruppe B 5 eingestuft ist –
 – beim Bundesinstitut für Berufsbildung als Leiter der
 Zentralabteilung
 
-[^f772096_144_BJNR011740975BJNE025001310]
+[^f772096_144_BJNR011740975BJNE025002360]
 Direktor bei der Bundesanstalt für Immobilienaufgaben
 
 Direktor bei der Bundesmonopolverwaltung für Branntwein
 
-[^f772096_146_BJNR011740975BJNE025001310]
+[^f772096_146_BJNR011740975BJNE025002360]
 – als der ständige Vertreter des Präsidenten –
 
 Direktor bei der Fachhochschule des Bundes für öffentliche Verwaltung
@@ -4759,6 +4866,12 @@ Direktor bei einem Regionalträger der gesetzlichen Rentenversicherung
 Geschäftsführung, wenn der Erste Direktor in Besoldungsgruppe B 3
 eingestuft ist –
 
+Direktor
+8             )
+
+– bei einem Amt der Bundeswehr, dessen Leiter in Besoldungsgruppe B 9
+eingestuft ist
+
 Direktor beim Bundesamt für Informationsmanagement und
 Informationstechnik der Bundeswehr
 
@@ -4776,7 +4889,7 @@ Direktor der Eisenbahn-Unfallkasse
 
 – als Geschäftsführer –
 
-[^f772096_0148_BJNR011740975BJNE025001310]
+[^f772096_0148_BJNR011740975BJNE025002360]
 Direktor eines Prüfungsamtes des Bundes
 
 Direktor eines Rechtsberaterzentrums der Bundeswehr
@@ -4785,7 +4898,7 @@ Direktor eines Rechtsberaterzentrums der Bundeswehr
 
 Direktor und Professor
 
-[^f772096_137_BJNR011740975BJNE025001310]
+[^f772096_137_BJNR011740975BJNE025002360]
 – als Leiter einer wissenschaftlichen Forschungseinrichtung –
 
 – bei einer wissenschaftlichen Forschungseinrichtung oder in einem
@@ -4795,17 +4908,17 @@ Gruppe (Unterabteilung) oder eines großen oder bedeutenden
 Laboratoriums, soweit sein Leiter nicht einem Unterabteilungsleiter
 oder Gruppenleiter unmittelbar unterstellt ist –
 
-[^f772096_0147_BJNR011740975BJNE025001310]
+[^f772096_0147_BJNR011740975BJNE025002360]
 Geschäftsführer einer gemeinsamen Einrichtung (Jobcenter)
 
-[^f772096_138_BJNR011740975BJNE025001310]
+[^f772096_138_BJNR011740975BJNE025002360]
 Leitender Regierungsdirektor
-[^f772096_139_BJNR011740975BJNE025001310]
+[^f772096_139_BJNR011740975BJNE025002360]
 
 – in Hamburg bei einem Senatsamt oder einer Fachbehörde –
 
 Ministerialrat
-[^f772096_140_BJNR011740975BJNE025001310]
+[^f772096_140_BJNR011740975BJNE025002360]
 
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten) –
 
@@ -4813,19 +4926,19 @@ Mitglied der Geschäftsführung einer Regionaldirektion der
 Bundesagentur für Arbeit
 
 Senatsrat
-[^f772096_142_BJNR011740975BJNE025001310]
+[^f772096_142_BJNR011740975BJNE025002360]
 
 – in Berlin und Bremen bei einer obersten Landesbehörde –
 
-[^f772096_143_BJNR011740975BJNE025001310]
+[^f772096_143_BJNR011740975BJNE025002360]
 Vizepräsident
 
 – als der ständige Vertreter eines durch Bundesrecht in
 Besoldungsgruppe B 5 eingestuften Leiters einer Dienststelle oder
 sonstigen Einrichtung –
 
-[^f772096_141_BJNR011740975BJNE025001310]
-[^f772096_145_BJNR011740975BJNE025001310]
+[^f772096_141_BJNR011740975BJNE025002360]
+[^f772096_145_BJNR011740975BJNE025002360]
 **Besoldungsgruppe B 3**
 
 Abteilungsdirektor
@@ -4843,11 +4956,21 @@ Abteilung –
 
 Abteilungsdirektor beim Amt für den Militärischen Abschirmdienst
 
-[^f772096_147_BJNR011740975BJNE025001310]
+[^f772096_147_BJNR011740975BJNE025002360]
 Botschafter
 
-[^f772096_148_BJNR011740975BJNE025001310]
+[^f772096_148_BJNR011740975BJNE025002360]
 Bundesbankdirektor
+
+Direktor
+
+– als Beauftragter für die Rechtsausbildung in den Streitkräften beim
+Zentrum Innere Führung –
+
+– als Rechtsberater beim Inspekteur einer Teilstreitkraft oder eines
+militärischen Organisationsbereiches, des Befehlshabers des
+Einsatzführungskommandos der Bundeswehr, des Befehlshabers des
+Multinational Joint Headquarters –
 
 Direktor bei der Bundesagentur für Arbeit
 
@@ -4865,7 +4988,7 @@ Nationalbibliothek in Frankfurt am Main –
 – als der ständige Vertreter des Generaldirektors der Deutschen
 Nationalbibliothek in Leipzig –
 
-[^f772096_161_BJNR011740975BJNE025001310]
+[^f772096_161_BJNR011740975BJNE025002360]
 Direktor bei der Bundesanstalt für Immobilienaufgaben
 
 Direktor bei der Führungsakademie der Bundeswehr
@@ -4893,13 +5016,20 @@ Direktor bei einer Wehrtechnischen Dienststelle
 
 – als Leiter des Musterprüfwesens für Luftfahrtgerät der Bundeswehr –
 
-[^f772096_149_BJNR011740975BJNE025001310]
+[^f772096_149_BJNR011740975BJNE025002360]
 Direktor beim/bei der ...
 
 – als Leiter einer Hauptabteilung oder einer gleich zu bewertenden,
 besonders großen und besonders bedeutenden Abteilung bei einer
 Bundesoberbehörde oder einer vergleichbaren Bundesanstalt, wenn der
 Leiter mindestens in Besoldungsgruppe B 8 eingestuft ist –
+
+– als ständiger Vertreter des Leiters der Abteilung Personalgewinnung
+im Bundesamt für das Personalmanagement der Bundeswehr –
+
+– als Leiter einer Abteilung, Unterabteilung oder Gruppe oder als
+Leiter einer Sonderorganisation bei einem Amt der Bundeswehr, dessen
+Leiter in Besoldungsgruppe B 9 eingestuft ist –
 
 Direktor beim Bundesarchiv
 
@@ -4910,7 +5040,7 @@ Direktor beim Bundesinstitut für Berufsbildung
 
 – als Leiter einer Abteilung –
 
-[^f772096_150_BJNR011740975BJNE025001310]
+[^f772096_150_BJNR011740975BJNE025002360]
 Direktor beim Bundesnachrichtendienst
 
 Direktor der Stiftung Flucht, Vertreibung, Versöhnung
@@ -4921,25 +5051,25 @@ Direktor des Bundesaufsichtsamtes für Flugsicherung
 
 Direktor des Bundesinstituts für Sportwissenschaft
 
-[^f772096_169_BJNR011740975BJNE025001310]
+[^f772096_169_BJNR011740975BJNE025002360]
 – als Geschäftsführender Direktor –
 
 Direktor des Bundesinstituts für Kultur und Geschichte der Deutschen
 im östlichen Europa
 
-[^f772096_151_BJNR011740975BJNE025001310]
+[^f772096_151_BJNR011740975BJNE025002360]
 Direktor einer Wehrtechnischen Dienststelle
 
 Direktor in der Bundespolizei
 
 – als Leiter einer Abteilung des Bundespolizeipräsidiums –
 
-[^f772096_168_BJNR011740975BJNE025001310]
+[^f772096_168_BJNR011740975BJNE025002360]
 – im Bundesministerium des Innern –
 
 Direktor und Professor
 
-[^f772096_152_BJNR011740975BJNE025001310]
+[^f772096_152_BJNR011740975BJNE025002360]
 – als Leiter einer wissenschaftlichen Forschungseinrichtung –
 
 – als Mitglied des Präsidiums der Bundesanstalt für Materialforschung
@@ -4954,7 +5084,7 @@ Abteilung, eines großen Fachbereichs oder eines großen Instituts –
 
 Direktor und Professor bei der Bundesagentur für Arbeit
 
-[^f772096_162_BJNR011740975BJNE025001310]
+[^f772096_162_BJNR011740975BJNE025002360]
 – als Leiter eines großen und bedeutenden Forschungsbereiches beim
 Institut für Arbeitsmarkt- und Berufsforschung –
 
@@ -4988,23 +5118,23 @@ Rentenversicherung
 – als Geschäftsführer oder Vorsitzender der Geschäftsführung bei
 höchstens 900 000 Versicherten und laufenden Rentenfällen –
 
-[^f772096_154_BJNR011740975BJNE025001310]
+[^f772096_154_BJNR011740975BJNE025002360]
 Generalkonsul
 
-[^f772096_155_BJNR011740975BJNE025001310]
+[^f772096_155_BJNR011740975BJNE025002360]
 Gesandter
 
-[^f772096_0173_BJNR011740975BJNE025001310]
+[^f772096_0173_BJNR011740975BJNE025002360]
 Geschäftsführer einer gemeinsamen Einrichtung (Jobcenter)
 
 Kurator der Museumsstiftung Post und Telekommunikation
 
-[^f772096_159_BJNR011740975BJNE025001310]
+[^f772096_159_BJNR011740975BJNE025002360]
 Leitender Ministerialrat
 
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten)
 
-[^f772096_167_BJNR011740975BJNE025001310]
+[^f772096_167_BJNR011740975BJNE025002360]
 als Leiter einer Abteilung,
 
 als Leiter einer Unterabteilung oder als Leiter einer auf Dauer
@@ -5012,7 +5142,7 @@ eingerichteten Gruppe von Referaten,
 
 als ständiger Vertreter eines Abteilungsleiters, soweit kein
 Unterabteilungsleiter oder Gruppenleiter vorhanden ist
-[^f772096_170_BJNR011740975BJNE025001310]
+[^f772096_170_BJNR011740975BJNE025002360]
 –
 
 Leitender Postdirektor
@@ -5026,13 +5156,13 @@ Leitender Postdirektor
 – bei der Bundesanstalt für Post und Telekommunikation Deutsche
 Bundespost –
 
-[^f772096_156_BJNR011740975BJNE025001310]
+[^f772096_156_BJNR011740975BJNE025002360]
 Leitender Regierungsdirektor
-[^f772096_157_BJNR011740975BJNE025001310]
+[^f772096_157_BJNR011740975BJNE025002360]
 
 – in Hamburg bei einem Senatsamt oder einer Fachbehörde –
 
-[^f772096_163_BJNR011740975BJNE025001310]
+[^f772096_163_BJNR011740975BJNE025002360]
 Leitender Senatsrat
 
 – in Berlin bei einer obersten Landesbehörde
@@ -5047,10 +5177,10 @@ Unterabteilungsleiter vorhanden ist
 
 Ministerialrat
 
-[^f772096_153_BJNR011740975BJNE025001310]
+[^f772096_153_BJNR011740975BJNE025002360]
 – bei einer obersten Bundesbehörde und beim Bundeseisenbahnvermögen –
-[^f772096_158_BJNR011740975BJNE025001310]
-[^f772096_160_BJNR011740975BJNE025001310]
+[^f772096_158_BJNR011740975BJNE025002360]
+[^f772096_160_BJNR011740975BJNE025002360]
 
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten), soweit
 nicht einem in Besoldungsgruppe B 3 oder B 4 eingestuften
@@ -5061,7 +5191,7 @@ Ministerialrat als Mitglied des Bundesrechnungshofes
 Mitglied der Geschäftsführung einer Regionaldirektion der
 Bundesagentur für Arbeit
 
-[^f772096_172_BJNR011740975BJNE025001310]
+[^f772096_172_BJNR011740975BJNE025002360]
 Präsident einer Bundespolizeidirektion
 
 Präsident eines Landesversorgungsamtes
@@ -5080,7 +5210,7 @@ Senatsrat
 einem in Besoldungsgruppe B 3 oder B 4 eingestuften Gruppenleiter
 unterstellt –
 
-[^f772096_164_BJNR011740975BJNE025001310]
+[^f772096_164_BJNR011740975BJNE025002360]
 Vizepräsident
 
 – als der ständige Vertreter eines durch Bundesrecht in
@@ -5089,15 +5219,15 @@ oder sonstigen Einrichtung –
 
 Vizepräsident des Bundesausgleichsamtes
 
-[^f772096_171_BJNR011740975BJNE025001310]
+[^f772096_171_BJNR011740975BJNE025002360]
 Vorsitzendes Mitglied der Geschäftsführung einer Regionaldirektion der
 Bundesagentur für Arbeit
 
 Vortragender Legationsrat Erster Klasse
-[^f772096_165_BJNR011740975BJNE025001310]
+[^f772096_165_BJNR011740975BJNE025002360]
 
 Oberst
-[^f772096_166_BJNR011740975BJNE025001310]
+[^f772096_166_BJNR011740975BJNE025002360]
 
 Kapitän zur See
 
@@ -5129,7 +5259,7 @@ Information
 Direktor des Zentrums für Informationsverarbeitung und
 Informationstechnik
 
-[^f772096_173_BJNR011740975BJNE025001310]
+[^f772096_173_BJNR011740975BJNE025002360]
 Direktor einer Wehrtechnischen Dienststelle
 
 Direktor und Professor des Deutschen Historischen Instituts in Paris
@@ -5148,6 +5278,10 @@ Erster Direktor beim Bundesinstitut für Berufsbildung
 
 – als Leiter des Forschungsbereichs und als der ständige Vertreter des
 Präsidenten –
+
+Erster Direktor beim Zentrum für Geoinformationswesen der Bundeswehr
+
+– als ständiger Vertreter des Amtschefs –
 
 Erster Direktor der Unfallkasse des Bundes
 
@@ -5168,10 +5302,10 @@ Leitender Ministerialrat
 
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten)
 
-[^f772096_174_BJNR011740975BJNE025001310]
+[^f772096_174_BJNR011740975BJNE025002360]
 als Leiter einer Abteilung,
 
-[^f772096_175_BJNR011740975BJNE025001310]
+[^f772096_175_BJNR011740975BJNE025002360]
 als Leiter einer Unterabteilung oder als Leiter einer auf Dauer
 eingerichteten Gruppe von Referaten unter einem in Besoldungsgruppe B
 7 eingestuften Beamten,
@@ -5195,7 +5329,7 @@ als der ständige Vertreter eines in Besoldungsgruppe B 7 eingestuften
 Beamten, soweit kein Unterabteilungsleiter vorhanden ist
 –
 
-[^f772096_180_BJNR011740975BJNE025001310]
+[^f772096_180_BJNR011740975BJNE025002360]
 Präsident der Bundesmonopolverwaltung für Branntwein
 
 Präsident der Bundespolizeiakademie
@@ -5207,10 +5341,10 @@ Präsident des Bundessortenamtes
 
 Präsident des Luftfahrt-Bundesamtes
 
-[^f772096_181_BJNR011740975BJNE025001310]
+[^f772096_181_BJNR011740975BJNE025002360]
 Präsident einer Bundespolizeidirektion
 
-[^f772096_179_BJNR011740975BJNE025001310]
+[^f772096_179_BJNR011740975BJNE025002360]
 Präsident einer Universität der Bundeswehr
 
 Präsident eines Landesversorgungsamtes
@@ -5225,7 +5359,7 @@ eingestuften Regierungspräsidenten –
 
 Senatsdirektor
 
-[^f772096_177_BJNR011740975BJNE025001310]
+[^f772096_177_BJNR011740975BJNE025002360]
 – in Bremen bei einer obersten Landesbehörde als Leiter einer
 besonders bedeutenden Abteilung –
 
@@ -5238,20 +5372,20 @@ B 7 eingestuften Leiter eines Amtes unmittelbar unterstellt ist,
 als Leiter eines bedeutenden Amtes
 3             ) –
 
-[^f772096_176_BJNR011740975BJNE025001310]
+[^f772096_176_BJNR011740975BJNE025002360]
 Vizepräsident
 
 – als der ständige Vertreter eines durch Bundesrecht in
 Besoldungsgruppe B 8 eingestuften Leiters einer Dienststelle oder
 sonstigen Einrichtung –
 
-[^f772096_178_BJNR011740975BJNE025001310]
+[^f772096_178_BJNR011740975BJNE025002360]
 Vizepräsident des Bundesamtes für Bevölkerungsschutz und
 Katastrophenhilfe
 
 **Besoldungsgruppe B 5**
 
-[^f772096_182_BJNR011740975BJNE025001310]
+[^f772096_182_BJNR011740975BJNE025002360]
 Bundesbankdirektor
 
 Direktor bei der Deutschen Rentenversicherung Knappschaft-Bahn-See
@@ -5267,12 +5401,12 @@ eingestuft ist –
 
 Direktor und Professor bei der Bundesagentur für Arbeit
 
-[^f772096_185_BJNR011740975BJNE025001310]
+[^f772096_185_BJNR011740975BJNE025002360]
 – als Direktor des Instituts für Arbeitsmarkt- und Berufsforschung –
 
 Direktor und Professor der Stiftung Jüdisches Museum Berlin
 
-[^f772096_183_BJNR011740975BJNE025001310]
+[^f772096_183_BJNR011740975BJNE025002360]
 Erster Direktor beim Bundesamt für Wehrtechnik und Beschaffung
 
 Erster Direktor eines Regionalträgers der gesetzlichen
@@ -5292,7 +5426,7 @@ Inspekteur der Bereitschaftspolizeien der Länder
 
 Ministerialdirigent
 
-[^f772096_184_BJNR011740975BJNE025001310]
+[^f772096_184_BJNR011740975BJNE025002360]
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten) als
 Leiter einer Abteilung –
 
@@ -5307,7 +5441,7 @@ Organisationen mit Sicherheitsaufgaben
 
 Präsident der Bundesfinanzakademie
 
-[^f772096_188_BJNR011740975BJNE025001310]
+[^f772096_188_BJNR011740975BJNE025002360]
 Präsident der Fachhochschule des Bundes für öffentliche Verwaltung
 
 Präsident des Bundesamtes für Familie und zivilgesellschaftliche
@@ -5317,9 +5451,9 @@ Präsident des Bundesamtes für Naturschutz
 
 Präsident des Bundessprachenamtes
 
-[^f772096_189_BJNR011740975BJNE025001310]
+[^f772096_189_BJNR011740975BJNE025002360]
 Präsident einer Bundespolizeidirektion
-[^f772096_190_BJNR011740975BJNE025001310]
+[^f772096_190_BJNR011740975BJNE025002360]
 
 Präsident einer Wasser- und Schifffahrtsdirektion
 
@@ -5353,17 +5487,17 @@ Senatsdirigent
 – in Berlin bei einer obersten Landesbehörde als Leiter einer
 Abteilung –
 
-[^f772096_186_BJNR011740975BJNE025001310]
+[^f772096_186_BJNR011740975BJNE025002360]
 Vorsitzendes Mitglied der Geschäftsführung einer Regionaldirektion der
 Bundesagentur für Arbeit
 
-[^f772096_187_BJNR011740975BJNE025001310]
+[^f772096_187_BJNR011740975BJNE025002360]
 **Besoldungsgruppe B 6**
 
-[^f772096_191_BJNR011740975BJNE025001310]
+[^f772096_191_BJNR011740975BJNE025002360]
 Botschafter
 
-[^f772096_192_BJNR011740975BJNE025001310]
+[^f772096_192_BJNR011740975BJNE025002360]
 Bundesbankdirektor
 
 Bundesdisziplinaranwalt
@@ -5388,14 +5522,24 @@ Direktor beim Bundesrechnungshof
 
 Direktor und Professor bei der Bundesagentur für Arbeit
 
-[^f772096_200_BJNR011740975BJNE025001310]
+[^f772096_200_BJNR011740975BJNE025002360]
 – als Direktor des Instituts für Arbeitsmarkt- und Berufsforschung –
 
 Erster Direktor bei der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen
 
-[^f772096_193_BJNR011740975BJNE025001310]
+Erster Direktor bei einem Amt der Bundeswehr, dessen Leiter in
+Besoldungsgruppe B 9 eingestuft ist
+
+– als Leiter einer großen und bedeutenden Abteilung oder als
+Geschäftsführender Beamter –
+
+[^f772096_193_BJNR011740975BJNE025002360]
 Erster Direktor beim Bundesnachrichtendienst
+
+Erster Direktor beim Planungsamt der Bundeswehr
+
+– als ständiger Vertreter des Amtschefs –
 
 Erster Direktor der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
@@ -5404,16 +5548,16 @@ Erster Direktor der Deutschen Rentenversicherung Knappschaft-Bahn-See
 Erster Direktor eines Regionalträgers der gesetzlichen
 Rentenversicherung
 
-[^f772096_201_BJNR011740975BJNE025001310]
+[^f772096_201_BJNR011740975BJNE025002360]
 – als Geschäftsführer oder Vorsitzender der Geschäftsführung bei mehr
 als 3,7 Millionen Versicherten und laufenden Rentenfällen –
 
 Generaldirektor der Deutschen Nationalbibliothek
 
-[^f772096_194_BJNR011740975BJNE025001310]
+[^f772096_194_BJNR011740975BJNE025002360]
 Generalkonsul
 
-[^f772096_195_BJNR011740975BJNE025001310]
+[^f772096_195_BJNR011740975BJNE025002360]
 Gesandter
 
 Militärgeneraldekan
@@ -5424,10 +5568,10 @@ Ministerialdirigent
 
 – bei einer obersten Bundesbehörde
 
-[^f772096_196_BJNR011740975BJNE025001310]
+[^f772096_196_BJNR011740975BJNE025002360]
 als Leiter einer Abteilung,
 
-[^f772096_197_BJNR011740975BJNE025001310]
+[^f772096_197_BJNR011740975BJNE025002360]
 als Leiter einer Unterabteilung,
 
 als der ständige Vertreter eines in Besoldungsgruppe B 9 eingestuften
@@ -5439,10 +5583,10 @@ auf Dauer eingerichteten Gruppe –
 
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten)
 
-[^f772096_198_BJNR011740975BJNE025001310]
+[^f772096_198_BJNR011740975BJNE025002360]
 als Leiter einer großen oder bedeutenden Abteilung,
 
-[^f772096_199_BJNR011740975BJNE025001310]
+[^f772096_199_BJNR011740975BJNE025002360]
 als Leiter einer Hauptabteilung
 –
 
@@ -5462,6 +5606,9 @@ Bundesfinanzverwaltung
 Präsident des Bundesamtes für Bauwesen und Raumordnung
 
 Präsident des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
+
+Präsident des Bundesamtes für Familie und zivilgesellschaftliche
+Aufgaben
 
 Präsident des Bundesamtes für Güterverkehr
 
@@ -5527,7 +5674,7 @@ Vizepräsident des Bundesnachrichtendienstes
 
 Vizepräsident des Bundesversicherungsamtes
 
-[^f772096_202_BJNR011740975BJNE025001310]
+[^f772096_202_BJNR011740975BJNE025002360]
 Vorsitzendes Mitglied der Geschäftsführung einer Regionaldirektion der
 Bundesagentur für Arbeit
 
@@ -5549,9 +5696,13 @@ Ministerialdirigent
 Leiters der Abteilung Personal-, Sozial- und Zentralangelegenheiten im
 Bundesministerium der Verteidigung –
 
+– im Bundesministerium der Verteidigung als ständiger Vertreter des
+Leiters einer großen oder bedeutenden Abteilung oder als Leiter des
+Stabes Organisation und Revision –
+
 – bei einer obersten Landesbehörde (ausgenommen Stadtstaaten)
 
-[^f772096_203_BJNR011740975BJNE025001310]
+[^f772096_203_BJNR011740975BJNE025002360]
 als Leiter einer großen oder bedeutenden Abteilung, soweit nicht einem
 Hauptabteilungsleiter unterstellt,
 
@@ -5564,6 +5715,8 @@ Präsident der Bundesanstalt für Landwirtschaft und Ernährung
 
 Präsident des Amtes für den Militärischen Abschirmdienst
 
+Präsident des Bildungszentrums der Bundeswehr
+
 Präsident des Bundesamtes für Informationsmanagement und
 Informationstechnik der Bundeswehr
 
@@ -5574,6 +5727,8 @@ Präsident des Bundesamtes für Wehrverwaltung
 Präsident des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 
 Präsident des Bundesinstituts für Berufsbildung
+
+Präsident des Planungsamtes der Bundeswehr
 
 Präsident einer Wehrbereichsverwaltung
 
@@ -5602,9 +5757,14 @@ Senatsdirigent
 – in Berlin bei einer obersten Landesbehörde als Leiter einer
 bedeutenden Abteilung –
 
+Vizepräsident
+
+– eines Amtes der Bundeswehr, dessen Leiter in Besoldungsgruppe B 9
+eingestuft ist –
+
 Vizepräsident beim Bundesamt für Wehrtechnik und Beschaffung
 
-[^f772096_206_BJNR011740975BJNE025001310]
+[^f772096_206_BJNR011740975BJNE025002360]
 Vorsitzendes Mitglied der Geschäftsführung einer Regionaldirektion der
 Bundesagentur für Arbeit
 
@@ -5616,8 +5776,8 @@ Generalstabsarzt
 
 Admiralstabsarzt
 
-[^f772096_204_BJNR011740975BJNE025001310]
-[^f772096_205_BJNR011740975BJNE025001310]
+[^f772096_204_BJNR011740975BJNE025002360]
+[^f772096_205_BJNR011740975BJNE025002360]
 **Besoldungsgruppe B 8**
 
 Direktor bei der Deutschen Rentenversicherung Bund
@@ -5646,18 +5806,26 @@ Regierungspräsident
 
 **Besoldungsgruppe B 9**
 
-[^f772096_207_BJNR011740975BJNE025001310]
+[^f772096_207_BJNR011740975BJNE025002360]
 Botschafter
 
-[^f772096_208_BJNR011740975BJNE025001310]
+[^f772096_208_BJNR011740975BJNE025002360]
 Bundesbankdirektor
 
 Direktor beim Bundesverfassungsgericht
 
 Ministerialdirektor
 
-[^f772096_210_BJNR011740975BJNE025001310]
+[^f772096_210_BJNR011740975BJNE025002360]
 – bei einer obersten Bundesbehörde als Leiter einer Abteilung –
+
+Präsident des Bundesamtes für Ausrüstung, Informationstechnik und
+Nutzung der Bundeswehr
+
+Präsident des Bundesamtes für Infrastruktur, Umweltschutz und
+Dienstleistungen der Bundeswehr
+
+Präsident des Bundesamtes für das Personalmanagement der Bundeswehr
 
 Präsident des Bundesamtes für Verfassungsschutz
 
@@ -5681,7 +5849,7 @@ Generaloberstabsarzt
 
 Admiraloberstabsarzt
 
-[^f772096_209_BJNR011740975BJNE025001310]
+[^f772096_209_BJNR011740975BJNE025002360]
 **Besoldungsgruppe B 10**
 
 Direktor des Bundesrates
@@ -5695,7 +5863,7 @@ Bundesregierung –
 
 Präsident der Deutschen Rentenversicherung Bund
 
-[^f772096_211_BJNR011740975BJNE025001310]
+[^f772096_211_BJNR011740975BJNE025002360]
 General
 
 Admiral
@@ -5704,16 +5872,16 @@ Admiral
 
 Präsident des Bundesrechnungshofes
 
-[^f772096_212_BJNR011740975BJNE025001310]
+[^f772096_212_BJNR011740975BJNE025002360]
 Staatssekretär
 
-[^f772096_17_BJNR011740975BJNE025001310]:     Gemäß Artikel 2a Nummer 8 in Verbindung mit Artikel 17 Absatz 10 des
+[^f772096_17_BJNR011740975BJNE025002360]:     Gemäß Artikel 2a Nummer 8 in Verbindung mit Artikel 17 Absatz 10 des
     Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) werden am 1. Januar 2011
     in Vorbemerkung Nummer 6 Absatz 4 in Buchstabe a die Zahl „235,83“
     durch die Zahl „241,59“, in Buchstabe b die Zahl „188,67“ durch die
     Zahl „193,27“ und in Buchstabe c die Zahl „150,93“ durch die Zahl
     „154,62“ ersetzt.
-[^f772096_18_BJNR011740975BJNE025001310]:     Vorbemerkung Nummer 13b gilt gemäß Artikel 2 Nummer 62 Buchstabe e in
+[^f772096_18_BJNR011740975BJNE025002360]:     Vorbemerkung Nummer 13b gilt gemäß Artikel 2 Nummer 62 Buchstabe e in
     Verbindung mit Artikel 17 Absatz 9 des Gesetzes vom 5. Februar 2009
     (BGBl. I S. 160) ab 1. Juli 2010 in folgender Fassung:  **„13b. Zulage
     für Kanzler an großen Botschaften**                  Beamten des
@@ -5731,233 +5899,233 @@ Staatssekretär
     Zulage wird nicht neben einer Zulage für die Wahrnehmung befristeter
     Funktionen gewährt."
     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_19_BJNR011740975BJNE025001310]:     Erhält als Führer von Kraftwagen eine Stellenzulage nach Anlage IX.
-[^f772096_20_BJNR011740975BJNE025001310]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
+[^f772096_19_BJNR011740975BJNE025002360]:     Erhält als Führer von Kraftwagen eine Stellenzulage nach Anlage IX.
+[^f772096_20_BJNR011740975BJNE025002360]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
     Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage
     nach der Fußnote 1 nicht zu.
-[^f772096_21_BJNR011740975BJNE025001310]:     Im Landesbereich auch als Eingangsamt, wenn der Amtsinhaber im
+[^f772096_21_BJNR011740975BJNE025002360]:     Im Landesbereich auch als Eingangsamt, wenn der Amtsinhaber im
     Sitzungsdienst der Gerichte eingesetzt ist. Dieser Amtsinhaber erhält
     eine Amtszulage nach Anlage IX.
-[^f772096_22_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_23_BJNR011740975BJNE025001310]:     Im Justizdienst auch als Eingangsamt.
-[^f772096_24_BJNR011740975BJNE025001310]:     Als Eingangsamt, wenn der Beamte nach Maßgabe der Laufbahnvorschriften
+[^f772096_22_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_23_BJNR011740975BJNE025002360]:     Im Justizdienst auch als Eingangsamt.
+[^f772096_24_BJNR011740975BJNE025002360]:     Als Eingangsamt, wenn der Beamte nach Maßgabe der Laufbahnvorschriften
     die Laufbahnbefähigung in einer Laufbahnprüfung erworben hat oder eine
     abgeschlossene förderliche Berufsausbildung oder eine mindestens
     dreijährige Tätigkeit bei öffentlich-rechtlichen Dienstherren
     nachweist.
-[^f772096_25_BJNR011740975BJNE025001310]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
+[^f772096_25_BJNR011740975BJNE025002360]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
     Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage
     nach der Fußnote 2 nicht zu.
-[^f772096_26_BJNR011740975BJNE025001310]:     In diese Besoldungsgruppe gehören auch alle Soldaten des untersten
+[^f772096_26_BJNR011740975BJNE025002360]:     In diese Besoldungsgruppe gehören auch alle Soldaten des untersten
     Mannschaftsdienstgrades, für die der Bundespräsident besondere
     Dienstgradbezeichnungen festgesetzt hat.
-[^f772096_27_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_28_BJNR011740975BJNE025001310]:     Erhält im Landesbereich eine Amtszulage nach Anlage IX, wenn er im
+[^f772096_27_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_28_BJNR011740975BJNE025002360]:     Erhält im Landesbereich eine Amtszulage nach Anlage IX, wenn er im
     Sitzungsdienst der Gerichte eingesetzt ist.
-[^f772096_29_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_30_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_31_BJNR011740975BJNE025001310]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
+[^f772096_29_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_30_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_31_BJNR011740975BJNE025002360]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
     Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage
     nach der Fußnote 2 nicht zu.
-[^f772096_32_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_33_BJNR011740975BJNE025001310]:     Während der Ausbildung.
-[^f772096_34_BJNR011740975BJNE025001310]:     Erhält das Grundgehalt der 1. Stufe der Besoldungsgruppe A 4.
-[^f772096_35_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_36_BJNR011740975BJNE025001310]:     Erhält im Landesbereich eine Amtszulage nach Anlage IX, wenn er im
+[^f772096_32_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_33_BJNR011740975BJNE025002360]:     Während der Ausbildung.
+[^f772096_34_BJNR011740975BJNE025002360]:     Erhält das Grundgehalt der 1. Stufe der Besoldungsgruppe A 4.
+[^f772096_35_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_36_BJNR011740975BJNE025002360]:     Erhält im Landesbereich eine Amtszulage nach Anlage IX, wenn er im
     Sitzungsdienst der Gerichte eingesetzt ist.
-[^f772096_37_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 6.
-[^f772096_38_BJNR011740975BJNE025001310]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
+[^f772096_37_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 6.
+[^f772096_38_BJNR011740975BJNE025002360]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
     Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage
     nach der Fußnote 3 nicht zu.
-[^f772096_39_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_40_BJNR011740975BJNE025001310]:     Die Gesamtzahl der Plan Stellen für Oberstabsgefreite beträgt bis zu
+[^f772096_39_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_40_BJNR011740975BJNE025002360]:     Die Gesamtzahl der Plan Stellen für Oberstabsgefreite beträgt bis zu
     50 vom Hundert der in der Besoldungsgruppe A 5 insgesamt für
     Mannschaftsdienstgrade ausgebrachten Plan Stellen.
-[^f772096_41_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_42_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 7.
-[^f772096_43_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_44_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_45_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 5. Für bis zu 20 v. H. der
+[^f772096_41_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_42_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 7.
+[^f772096_43_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_44_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_45_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 5. Für bis zu 20 v. H. der
     Gesamtzahl der Plan Stellen des einfachen Dienstes.
-[^f772096_46_BJNR011740975BJNE025001310]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
+[^f772096_46_BJNR011740975BJNE025002360]:     Beamte in der Laufbahn des Justizwachtmeisterdienstes erhalten eine
     Amtszulage nach Anlage IX.
-[^f772096_47_BJNR011740975BJNE025001310]:     Auch als Eingangsamt.
-[^f772096_48_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_49_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 6.
-[^f772096_50_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_51_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_52_BJNR011740975BJNE025001310]:     Auch als Eingangsamt für Laufbahnen des mittleren technischen
+[^f772096_47_BJNR011740975BJNE025002360]:     Auch als Eingangsamt.
+[^f772096_48_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_49_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 6.
+[^f772096_50_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_51_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_52_BJNR011740975BJNE025002360]:     Auch als Eingangsamt für Laufbahnen des mittleren technischen
     Dienstes.
-[^f772096_53_BJNR011740975BJNE025001310]:     Als Eingangsamt für die Laufbahn des mittleren allgemeinen
+[^f772096_53_BJNR011740975BJNE025002360]:     Als Eingangsamt für die Laufbahn des mittleren allgemeinen
     Vollzugsdienstes bei den Justizvollzugsanstalten.
-[^f772096_54_BJNR011740975BJNE025001310]:     Als Eingangsamt für die Laufbahn des Werkdienstes bei den
+[^f772096_54_BJNR011740975BJNE025002360]:     Als Eingangsamt für die Laufbahn des Werkdienstes bei den
     Justizvollzugsanstalten.
-[^f772096_55_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_56_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_57_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_58_BJNR011740975BJNE025001310]:     Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben,
+[^f772096_55_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_56_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_57_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_58_BJNR011740975BJNE025002360]:     Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben,
     nach Maßgabe sachgerechter Bewertung bis zu 30 v. H. der Stellen für
     Unteroffiziere der Besoldungsgruppe A 9; erhält eine Amtszulage nach
     Anlage IX.
-[^f772096_59_BJNR011740975BJNE025001310]:     Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben,
+[^f772096_59_BJNR011740975BJNE025002360]:     Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben,
     können nach Maßgabe sachgerechter Bewertung jeweils bis zu 30 v. H.
     der Stellen mit einer Amtszulage nach Anlage IX ausgestattet werden.
-[^f772096_60_BJNR011740975BJNE025001310]:     Die Gesamtzahl der Plan Stellen für Stabsfeldwebel/Stabsbootsmänner
+[^f772096_60_BJNR011740975BJNE025002360]:     Die Gesamtzahl der Plan Stellen für Stabsfeldwebel/Stabsbootsmänner
     und Oberstabsfeldwebel/Oberstabsbootsmänner beträgt bis zu 40 v. H.
     der in den Besoldungsgruppen A 8 und A 9 insgesamt für Unteroffiziere
     ausgebrachten Plan Stellen.
-[^f772096_61_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_62_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_63_BJNR011740975BJNE025001310]:     Erhält bei Bestellung zum Mitglied der Krankenhausbetriebsleitung für
+[^f772096_61_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_62_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_63_BJNR011740975BJNE025002360]:     Erhält bei Bestellung zum Mitglied der Krankenhausbetriebsleitung für
     die Dauer dieser Tätigkeit eine Stellenzulage nach Anlage IX.
-[^f772096_64_BJNR011740975BJNE025001310]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
-[^f772096_65_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_66_BJNR011740975BJNE025001310]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
-[^f772096_67_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 12.
-[^f772096_68_BJNR011740975BJNE025001310]:     Im Auswärtigen Dienst.
-[^f772096_69_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_70_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_71_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_72_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 11.
-[^f772096_73_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 13.
-[^f772096_74_BJNR011740975BJNE025001310]:     Im Auswärtigen Dienst.
-[^f772096_75_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_76_BJNR011740975BJNE025001310]:     In diese Besoldungsgruppe können nur Beamte eingestuft werden, die
+[^f772096_64_BJNR011740975BJNE025002360]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
+[^f772096_65_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_66_BJNR011740975BJNE025002360]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
+[^f772096_67_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 12.
+[^f772096_68_BJNR011740975BJNE025002360]:     Im Auswärtigen Dienst.
+[^f772096_69_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_70_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_71_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_72_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 11.
+[^f772096_73_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 13.
+[^f772096_74_BJNR011740975BJNE025002360]:     Im Auswärtigen Dienst.
+[^f772096_75_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_76_BJNR011740975BJNE025002360]:     In diese Besoldungsgruppe können nur Beamte eingestuft werden, die
     nach Abschluss der Ingenieur- oder Fachhochschulausbildung eine
     achtjährige Lehrtätigkeit oder eine dreijährige Dienstzeit seit
     Anstellung als Fachlehrer in der Besoldungsgruppe A 11 verbracht
     haben.
-[^f772096_77_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_78_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX; diese wird nach zehnjährigem
+[^f772096_77_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_78_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX; diese wird nach zehnjährigem
     Bezug beim Verbleiben in dieser Besoldungsgruppe auch nach Beendigung
     der zulageberechtigenden Verwendung gewährt.
-[^f772096_79_BJNR011740975BJNE025001310]:     Lehrer an Regelschulen in Thüringen führen die Amtsbezeichnung
+[^f772096_79_BJNR011740975BJNE025002360]:     Lehrer an Regelschulen in Thüringen führen die Amtsbezeichnung
     Regelschullehrer, an Sekundarschulen in Sachsen-Anhalt die
     Amtsbezeichnung Sekundarschullehrer.
-[^f772096_80_BJNR011740975BJNE025001310]:     Soweit nicht in dem Amt des Studienrats.
-[^f772096_81_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 14.
-[^f772096_82_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 12.
-[^f772096_83_BJNR011740975BJNE025001310]:     Im Auswärtigen Dienst.
-[^f772096_84_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_85_BJNR011740975BJNE025001310]:     Mit der Befähigung für das Lehramt an Realschulen.
-[^f772096_86_BJNR011740975BJNE025001310]:     Erhält als der ständige Vertreter eines Fachschuldirektors oder als
+[^f772096_80_BJNR011740975BJNE025002360]:     Soweit nicht in dem Amt des Studienrats.
+[^f772096_81_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 14.
+[^f772096_82_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 12.
+[^f772096_83_BJNR011740975BJNE025002360]:     Im Auswärtigen Dienst.
+[^f772096_84_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_85_BJNR011740975BJNE025002360]:     Mit der Befähigung für das Lehramt an Realschulen.
+[^f772096_86_BJNR011740975BJNE025002360]:     Erhält als der ständige Vertreter eines Fachschuldirektors oder als
     Fachvorsteher eine Amtszulage nach Anlage IX.
-[^f772096_87_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_88_BJNR011740975BJNE025001310]:     Gilt nur für Lehrer, deren Ausbildung vor dem 1. August 1973 geregelt
+[^f772096_87_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_88_BJNR011740975BJNE025002360]:     Gilt nur für Lehrer, deren Ausbildung vor dem 1. August 1973 geregelt
     war.
-[^f772096_89_BJNR011740975BJNE025001310]:     Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen
+[^f772096_89_BJNR011740975BJNE025002360]:     Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen
     Schulen.
-[^f772096_90_BJNR011740975BJNE025001310]:     Als Eingangsamt.
-[^f772096_91_BJNR011740975BJNE025001310]:     Für Beamte des gehobenen technischen Dienstes können für Funktionen,
+[^f772096_90_BJNR011740975BJNE025002360]:     Als Eingangsamt.
+[^f772096_91_BJNR011740975BJNE025002360]:     Für Beamte des gehobenen technischen Dienstes können für Funktionen,
     die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe
     sachgerechter Bewertung bis zu 20 v. H. der für technische Beamte
     ausgebrachten Stellen der Besoldungsgruppe A 13 mit einer Amtszulage
     nach Anlage IX ausgestattet werden.
-[^f772096_92_BJNR011740975BJNE025001310]:     Für Funktionen eines Amtsanwalts bei einer Staatsanwaltschaft, die
+[^f772096_92_BJNR011740975BJNE025002360]:     Für Funktionen eines Amtsanwalts bei einer Staatsanwaltschaft, die
     sich von denen der Besoldungsgruppe A 13 abheben, können nach Maßgabe
     sachgerechter Bewertung bis zu 20 v. H. der Stellen für
     Oberamtsanwälte mit einer Amtszulage nach Anlage IX ausgestattet
     werden.
-[^f772096_93_BJNR011740975BJNE025001310]:     Für Beamte der Rechtspflegerlaufbahn können für Funktionen der
+[^f772096_93_BJNR011740975BJNE025002360]:     Für Beamte der Rechtspflegerlaufbahn können für Funktionen der
     Rechtspfleger bei Gerichten, Notariaten und Staatsanwaltschaften, die
     sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe
     sachgerechter Bewertung bis zu 20 v. H. der für Rechtspfleger
     ausgebrachten Stellen der Besoldungsgruppe A 13 mit einer Amtszulage
     nach Anlage IX ausgestattet werden.
-[^f772096_94_BJNR011740975BJNE025001310]:     Für dieses Amt dürfen höchstens 40 v. H. der Stellen für stufenbezogen
+[^f772096_94_BJNR011740975BJNE025002360]:     Für dieses Amt dürfen höchstens 40 v. H. der Stellen für stufenbezogen
     ausgebildete planmäßige „Lehrer“ in der Sekundarstufe I (Klassen 5 bis
     10), davon an Hauptschulen höchstens 10 v. H. der für diese Beamten an
     Hauptschulen vorhandenen Stellen, ausgewiesen werden. Dem Amtsinhaber
     kann bei Übertragung der Funktion des Schulleiters, des ständigen
     Vertreters des Schulleiters oder des Zweiten Konrektors die
     entsprechende Amtsbezeichnung verliehen werden.
-[^f772096_95_BJNR011740975BJNE025001310]:     Für Funktionen in der Laufbahn der Offiziere des militärfachlichen
+[^f772096_95_BJNR011740975BJNE025002360]:     Für Funktionen in der Laufbahn der Offiziere des militärfachlichen
     Dienstes nach Maßgabe sachgerechter Bewertung für bis zu 3 v. H. der
     Gesamtzahl der für Offiziere in dieser Laufbahn ausgebrachten Plan
     Stellen.
-[^f772096_96_BJNR011740975BJNE025001310]:     Gilt nur für Lehrer in Hessen mit der Befähigung für das Lehramt an
+[^f772096_96_BJNR011740975BJNE025002360]:     Gilt nur für Lehrer in Hessen mit der Befähigung für das Lehramt an
     Hauptschulen und Realschulen nach dem hessischen Gesetz über das
     Lehramt an öffentlichen Schulen in der jeweils geltenden Fassung sowie
     für Lehrer an Gymnasien, deren Ausbildung vor dem 1. Juli 1975
     geregelt war.
-[^f772096_97_BJNR011740975BJNE025001310]:     Lehrer an Regelschulen in Thüringen führen die Amtsbezeichnung
+[^f772096_97_BJNR011740975BJNE025002360]:     Lehrer an Regelschulen in Thüringen führen die Amtsbezeichnung
     Regelschullehrer, an Sekundarschulen in Sachsen-Anhalt die
     Amtsbezeichnung Sekundarschullehrer.
-[^f772096_98_BJNR011740975BJNE025001310]:     Für dieses Amt dürfen höchstens 35 v. H. der Plan Stellen für die
+[^f772096_98_BJNR011740975BJNE025002360]:     Für dieses Amt dürfen höchstens 35 v. H. der Plan Stellen für die
     genannten Lehrer, davon im Hauptschulbereich oder in entsprechenden
     schulischen Bildungsgängen höchstens 10 v. H. der dort für diese
     Lehrer vorhandenen Plan Stellen, ausgewiesen werden.
-[^f772096_99_BJNR011740975BJNE025001310]:     Soweit nicht in dem Amt des Studienrats.
-[^f772096_100_BJNR011740975BJNE025001310]:     Für dieses Amt dürfen höchstens 40 v. H. der Plan Stellen für die
+[^f772096_99_BJNR011740975BJNE025002360]:     Soweit nicht in dem Amt des Studienrats.
+[^f772096_100_BJNR011740975BJNE025002360]:     Für dieses Amt dürfen höchstens 40 v. H. der Plan Stellen für die
     genannten Lehrer, davon im Hauptschulbereich oder in entsprechenden
     schulischen Bildungsgängen höchstens 10 v. H. der dort für diese
     Lehrer vorhandenen Plan Stellen, ausgewiesen werden.
-[^f772096_101_BJNR011740975BJNE025001310]:     Für dieses Amt dürfen höchstens 33 v. H. der Plan Stellen für die
+[^f772096_101_BJNR011740975BJNE025002360]:     Für dieses Amt dürfen höchstens 33 v. H. der Plan Stellen für die
     Sekundarstufe I an Gesamtschulen ausgewiesen werden.
-[^f772096_102_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 14, A 15, A 16, B 2, B 3.
-[^f772096_0103_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 13.
-[^f772096_103_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16.
-[^f772096_104_BJNR011740975BJNE025001310]:     Führt während der Verwendung als Leiter einer Botschaft oder
+[^f772096_102_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 14, A 15, A 16, B 2, B 3.
+[^f772096_0103_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 13.
+[^f772096_103_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16.
+[^f772096_104_BJNR011740975BJNE025002360]:     Führt während der Verwendung als Leiter einer Botschaft oder
     Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.
-[^f772096_105_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 15.
-[^f772096_106_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_107_BJNR011740975BJNE025001310]:     Mit der Befähigung für das Lehramt an Realschulen.
-[^f772096_108_BJNR011740975BJNE025001310]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer
+[^f772096_105_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 15.
+[^f772096_106_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_107_BJNR011740975BJNE025002360]:     Mit der Befähigung für das Lehramt an Realschulen.
+[^f772096_108_BJNR011740975BJNE025002360]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer
     mit Teilzeitunterricht als einer.
-[^f772096_109_BJNR011740975BJNE025001310]:     Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen
+[^f772096_109_BJNR011740975BJNE025002360]:     Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen
     Schulen.
-[^f772096_110_BJNR011740975BJNE025001310]: [^f772096_111_BJNR011740975BJNE025001310]:     Durch die Inanspruchnahme dieses Amtes darf die Zahl der Plan Stellen
+[^f772096_110_BJNR011740975BJNE025002360]: [^f772096_111_BJNR011740975BJNE025002360]:     Durch die Inanspruchnahme dieses Amtes darf die Zahl der Plan Stellen
     gemäß Fußnote                             21             ) zur
     Besoldungsgruppe A 13 nicht überschritten werden.
     Soweit nicht in den Besoldungsgruppen A 13, A 15, A 16, B 2, B 3.
-[^f772096_0112_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.
-[^f772096_112_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.
-[^f772096_113_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 14, A 16.
-[^f772096_114_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 16.
-[^f772096_115_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
-[^f772096_116_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 14.
-[^f772096_117_BJNR011740975BJNE025001310]:     Erhält eine Amtszulage nach Anlage IX.
-[^f772096_118_BJNR011740975BJNE025001310]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer
+[^f772096_0112_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.
+[^f772096_112_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.
+[^f772096_113_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 14, A 16.
+[^f772096_114_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 16.
+[^f772096_115_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
+[^f772096_116_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 14.
+[^f772096_117_BJNR011740975BJNE025002360]:     Erhält eine Amtszulage nach Anlage IX.
+[^f772096_118_BJNR011740975BJNE025002360]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer
     mit Teilzeitunterricht als einer.
-[^f772096_119_BJNR011740975BJNE025001310]:     Höchstens 30 v. H. der Gesamtzahl der planmäßigen Beamten in der
+[^f772096_119_BJNR011740975BJNE025002360]:     Höchstens 30 v. H. der Gesamtzahl der planmäßigen Beamten in der
     Laufbahn der Studienräte.
-[^f772096_120_BJNR011740975BJNE025001310]:     Auf herausgehobenen Dienstposten.
-[^f772096_121_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
-[^f772096_122_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 16, B 2, B 3.
-[^f772096_0123_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.
-[^f772096_123_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.
-[^f772096_124_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 14, A 15.
-[^f772096_125_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_126_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 15.
-[^f772096_127_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 3, B 4.
-[^f772096_128_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
-[^f772096_129_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
-[^f772096_130_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
-[^f772096_131_BJNR011740975BJNE025001310]:     Nur in Stellen von besonderer Bedeutung.
-[^f772096_132_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
-[^f772096_133_BJNR011740975BJNE025001310]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer
+[^f772096_120_BJNR011740975BJNE025002360]:     Auf herausgehobenen Dienstposten.
+[^f772096_121_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
+[^f772096_122_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 16, B 2, B 3.
+[^f772096_0123_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.
+[^f772096_123_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.
+[^f772096_124_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 14, A 15.
+[^f772096_125_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_126_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 15.
+[^f772096_127_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 3, B 4.
+[^f772096_128_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
+[^f772096_129_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
+[^f772096_130_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
+[^f772096_131_BJNR011740975BJNE025002360]:     Nur in Stellen von besonderer Bedeutung.
+[^f772096_132_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
+[^f772096_133_BJNR011740975BJNE025002360]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer
     mit Teilzeitunterricht als einer.
-[^f772096_134_BJNR011740975BJNE025001310]:     Bei der Bundesanstalt für Post und Telekommunikation Deutsche
+[^f772096_134_BJNR011740975BJNE025002360]:     Bei der Bundesanstalt für Post und Telekommunikation Deutsche
     Bundespost dürfen bei der Erstbesetzung der Fachbereichsleiter-
     Dienstposten fünf Ämter der Besoldungsgruppe B 2 zugeordnet werden.
-[^f772096_135_BJNR011740975BJNE025001310]:     Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und
+[^f772096_135_BJNR011740975BJNE025002360]:     Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und
     soweit nicht in den Besoldungsgruppen W 2, W 3.
-[^f772096_136_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, B 2, B 3.
-[^f772096_0137_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe B 2.
-[^f772096_0138_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in eine höhere oder niedrigere
+[^f772096_136_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, B 2, B 3.
+[^f772096_0137_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe B 2.
+[^f772096_0138_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in eine höhere oder niedrigere
     Besoldungsgruppe eingestuften Amt zugeordnet ist.
-[^f772096_137_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
-[^f772096_138_BJNR011740975BJNE025001310]:     In Hamburg darf bei den genannten Behörden die Zahl der Plan Stellen
+[^f772096_137_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
+[^f772096_138_BJNR011740975BJNE025002360]:     In Hamburg darf bei den genannten Behörden die Zahl der Plan Stellen
     für Leitende Regierungsdirektoren in den Besoldungsgruppen B 2 und B 3
     zusammen 60 v. H. der Gesamtzahl der bei diesen Behörden für Leitende
     Regierungsdirektoren ausgebrachten Plan Stellen nicht überschreiten.
-[^f772096_139_BJNR011740975BJNE025001310]:     In einem Land darf die Zahl der Plan Stellen für Leitende
+[^f772096_139_BJNR011740975BJNE025002360]:     In einem Land darf die Zahl der Plan Stellen für Leitende
     Ministerialräte in der Besoldungsgruppe B 3 und für Ministerialräte in
     den Besoldungsgruppen B 2 und B 3 zusammen 60 v. H. der Gesamtzahl der
     für Leitende Ministerialräte in der Besoldungsgruppe B 3 und für
     Ministerialräte ausgebrachten Plan Stellen nicht überschreiten.
-[^f772096_140_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_141_BJNR011740975BJNE025001310]: [^f772096_142_BJNR011740975BJNE025001310]:     a) In Berlin darf die Zahl der Plan Stellen für Leitende Senatsräte in
+[^f772096_140_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_141_BJNR011740975BJNE025002360]: [^f772096_142_BJNR011740975BJNE025002360]:     a) In Berlin darf die Zahl der Plan Stellen für Leitende Senatsräte in
     der Besoldungsgruppe B 3 und für Senatsräte in den Besoldungsgruppen B
     2 und B 3 zusammen 60 v. H. der Gesamtzahl der für Leitende Senatsräte
     in der Besoldungsgruppe B 3 und für Senatsräte ausgebrachten Plan
@@ -5970,47 +6138,47 @@ Staatssekretär
     angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der
     Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in
     der Amtsbezeichnung führt.
-[^f772096_143_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe B 3.
-[^f772096_144_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_145_BJNR011740975BJNE025001310]:     Der am 1. Januar 2006 im Amt befindliche Direktor bei der
+[^f772096_143_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe B 3.
+[^f772096_144_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_145_BJNR011740975BJNE025002360]:     Der am 1. Januar 2006 im Amt befindliche Direktor bei der
     Bundesmonopolverwaltung für Branntwein erhält weiterhin Dienstbezüge
     aus der Besoldungsgruppe B 3.
-[^f772096_146_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 3.
-[^f772096_0147_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe A 16.
-[^f772096_0148_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
-[^f772096_147_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
-[^f772096_148_BJNR011740975BJNE025001310]:     Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die
+[^f772096_146_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 3.
+[^f772096_0147_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe A 16.
+[^f772096_0148_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
+[^f772096_147_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
+[^f772096_148_BJNR011740975BJNE025002360]:     Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die
     Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber
     angehört; die Amtsinhaber beim Bundesamt für Verfassungsschutz sind
     berechtigt, die Amtsbezeichnung „Direktor“ zu führen.
-[^f772096_149_BJNR011740975BJNE025001310]:     Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Direktor“ zu
+[^f772096_149_BJNR011740975BJNE025002360]:     Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Direktor“ zu
     führen.
-[^f772096_150_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 4.
-[^f772096_151_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe
+[^f772096_150_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 4.
+[^f772096_151_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe
     eingestuften Amt zugeordnet ist.
-[^f772096_152_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
-[^f772096_153_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
-[^f772096_154_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
-[^f772096_155_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
-[^f772096_156_BJNR011740975BJNE025001310]:     In Hamburg darf bei den genannten Behörden die Zahl der Plan Stellen
+[^f772096_152_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
+[^f772096_153_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
+[^f772096_154_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
+[^f772096_155_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
+[^f772096_156_BJNR011740975BJNE025002360]:     In Hamburg darf bei den genannten Behörden die Zahl der Plan Stellen
     für Leitende Regierungsdirektoren in den Besoldungsgruppen B 2 und B 3
     zusammen 60 v. H. der Gesamtzahl der bei diesen Behörden für Leitende
     Regierungsdirektoren ausgebrachten Plan Stellen nicht überschreiten.
-[^f772096_157_BJNR011740975BJNE025001310]:     Beim Bund darf die Zahl der Plan Stellen 75 v. H. der Gesamtzahl der
+[^f772096_157_BJNR011740975BJNE025002360]:     Beim Bund darf die Zahl der Plan Stellen 75 v. H. der Gesamtzahl der
     für Ministerialräte ausgebrachten Plan Stellen nicht überschreiten.
-[^f772096_158_BJNR011740975BJNE025001310]:     In einem Land darf die Zahl der Plan Stellen für Leitende
+[^f772096_158_BJNR011740975BJNE025002360]:     In einem Land darf die Zahl der Plan Stellen für Leitende
     Ministerialräte in der Besoldungsgruppe B 3 und für Ministerialräte in
     den Besoldungsgruppen B 2 und B 3 zusammen 60 v. H. der Gesamtzahl der
     für Leitende Ministerialräte in der Besoldungsgruppe B 3 und für
     Ministerialräte ausgebrachten Plan Stellen nicht überschreiten.
-[^f772096_159_BJNR011740975BJNE025001310]:     Der Leiter des Präsidialbüros des Präsidenten des Deutschen
+[^f772096_159_BJNR011740975BJNE025002360]:     Der Leiter des Präsidialbüros des Präsidenten des Deutschen
     Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages
     zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt
     der Besoldungsgruppe B 6.
-[^f772096_160_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe B 2.
-[^f772096_161_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht dem Amt „Direktor und Professor“ in der
+[^f772096_160_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe B 2.
+[^f772096_161_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht dem Amt „Direktor und Professor“ in der
     Besoldungsgruppe B 2 zugeordnet ist.
-[^f772096_162_BJNR011740975BJNE025001310]: [^f772096_163_BJNR011740975BJNE025001310]:     a) In Berlin darf die Zahl der Plan Stellen für Leitende Senatsräte in
+[^f772096_162_BJNR011740975BJNE025002360]: [^f772096_163_BJNR011740975BJNE025002360]:     a) In Berlin darf die Zahl der Plan Stellen für Leitende Senatsräte in
     der Besoldungsgruppe B 3 und für Senatsräte in den Besoldungsgruppen B
     2 und B 3 zusammen 60 v. H. der Gesamtzahl der für Leitende Senatsräte
     in der Besoldungsgruppe B 3 und für Senatsräte ausgebrachten Plan
@@ -6023,92 +6191,92 @@ Staatssekretär
     angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der
     Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in
     der Amtsbezeichnung führt.
-[^f772096_164_BJNR011740975BJNE025001310]:     Höchstens 75 v. H. der Gesamtzahl der bei einer obersten Bundesbehörde
+[^f772096_164_BJNR011740975BJNE025002360]:     Höchstens 75 v. H. der Gesamtzahl der bei einer obersten Bundesbehörde
     für diese Ämter ausgebrachten Plan Stellen.
-[^f772096_165_BJNR011740975BJNE025001310]: [^f772096_166_BJNR011740975BJNE025001310]:     a) Im Ministerium höchstens 75 v. H. der Gesamtzahl der für diese
+[^f772096_165_BJNR011740975BJNE025002360]: [^f772096_166_BJNR011740975BJNE025002360]:     a) Im Ministerium höchstens 75 v. H. der Gesamtzahl der für diese
     Ämter ausgebrachten Plan Stellen,               b) außerhalb des
     Ministeriums höchstens 21 v. H. der Gesamtzahl der für diese
     Dienstgrade ausgebrachten Plan Stellen.
     Soweit die Funktion nicht einem in eine höhere oder niedrigere
     Besoldungsgruppe eingestuften Amt zugeordnet ist.
-[^f772096_167_BJNR011740975BJNE025001310]:     Höchstens 75 v. H. der Gesamtzahl der im Bundesministerium des Innern
+[^f772096_167_BJNR011740975BJNE025002360]:     Höchstens 75 v. H. der Gesamtzahl der im Bundesministerium des Innern
     für Leitende Polizeidirektoren in der Bundespolizei und Direktoren in
     der Bundespolizei ausgebrachten Plan Stellen.
-[^f772096_168_BJNR011740975BJNE025001310]:     Der am 1. Januar 2000 im Amt befindliche Stelleninhaber erhält
+[^f772096_168_BJNR011740975BJNE025002360]:     Der am 1. Januar 2000 im Amt befindliche Stelleninhaber erhält
     weiterhin Dienstbezüge aus der Besoldungsgruppe B 4.
-[^f772096_169_BJNR011740975BJNE025001310]:     Dieses Amt kann auch mehr als einem Beamten übertragen werden, soweit
+[^f772096_169_BJNR011740975BJNE025002360]:     Dieses Amt kann auch mehr als einem Beamten übertragen werden, soweit
     es in großen und bedeutenden Abteilungen erforderlich ist, die
     Stellvertreterfunktion aufzuteilen.
-[^f772096_170_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7.
-[^f772096_171_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 4, B 5.
-[^f772096_172_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 2.
-[^f772096_0173_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
-[^f772096_173_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in eine höhere oder niedrigere
+[^f772096_170_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7.
+[^f772096_171_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5.
+[^f772096_172_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 2.
+[^f772096_0173_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
+[^f772096_173_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in eine höhere oder niedrigere
     Besoldungsgruppe eingestuften Amt zugeordnet ist.
-[^f772096_174_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe
+[^f772096_174_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe
     eingestuften Amt zugeordnet ist.
-[^f772096_175_BJNR011740975BJNE025001310]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die
+[^f772096_175_BJNR011740975BJNE025002360]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die
     Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber
     angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der
     Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in
     der Amtsbezeichnung führt.
-[^f772096_176_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe B 5.
-[^f772096_177_BJNR011740975BJNE025001310]:     Das Amt steht nur für den ersten Amtsinhaber zur Verfügung.
-[^f772096_178_BJNR011740975BJNE025001310]:     Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und
+[^f772096_176_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe B 5.
+[^f772096_177_BJNR011740975BJNE025002360]:     Das Amt steht nur für den ersten Amtsinhaber zur Verfügung.
+[^f772096_178_BJNR011740975BJNE025002360]:     Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und
     soweit nicht in den Besoldungsgruppen W 2, W 3.
-[^f772096_179_BJNR011740975BJNE025001310]:     Der am 1. Januar 2006 im Amt befindliche Präsident der
+[^f772096_179_BJNR011740975BJNE025002360]:     Der am 1. Januar 2006 im Amt befindliche Präsident der
     Bundesmonopolverwaltung für Branntwein erhält weiterhin Dienstbezüge
     aus der Besoldungsgruppe B 6.
-[^f772096_180_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 3, B 5.
-[^f772096_181_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
-[^f772096_182_BJNR011740975BJNE025001310]:     Nur für den Leiter des Projektbereichs.
-[^f772096_183_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe
+[^f772096_180_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 3, B 5.
+[^f772096_181_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
+[^f772096_182_BJNR011740975BJNE025002360]:     Nur für den Leiter des Projektbereichs.
+[^f772096_183_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe
     eingestuften Amt zugeordnet ist.
-[^f772096_184_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe B 6.
-[^f772096_185_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 3, B 6, B 7.
-[^f772096_186_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_187_BJNR011740975BJNE025001310]:     Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und
+[^f772096_184_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe B 6.
+[^f772096_185_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 3, B 6, B 7.
+[^f772096_186_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_187_BJNR011740975BJNE025002360]:     Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und
     soweit nicht in den Besoldungsgruppen W 2, W 3.
-[^f772096_188_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 3, B 4.
-[^f772096_189_BJNR011740975BJNE025001310]:     Der erste Stelleninhaber dieses Amtes bei der Bundespolizeidirektion
+[^f772096_188_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 3, B 4.
+[^f772096_189_BJNR011740975BJNE025002360]:     Der erste Stelleninhaber dieses Amtes bei der Bundespolizeidirektion
     in Berlin erhält Dienstbezüge aus der Besoldungsgruppe B 6, soweit ihm
     bisher ein Amt dieser Besoldungsgruppe übertragen war.
-[^f772096_190_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
-[^f772096_191_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
-[^f772096_192_BJNR011740975BJNE025001310]:     Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Erster Direktor“
+[^f772096_190_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
+[^f772096_191_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
+[^f772096_192_BJNR011740975BJNE025002360]:     Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Erster Direktor“
     zu führen.
-[^f772096_193_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
-[^f772096_194_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
-[^f772096_195_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht dem Amt des Ministerialdirektors in
+[^f772096_193_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
+[^f772096_194_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
+[^f772096_195_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht dem Amt des Ministerialdirektors in
     Besoldungsgruppe B 9 zugeordnet ist.
-[^f772096_196_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht dem Amt des Ministerialrats in
+[^f772096_196_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht dem Amt des Ministerialrats in
     Besoldungsgruppe B 3 zugeordnet ist.
-[^f772096_197_BJNR011740975BJNE025001310]:     Soweit nicht einem Hauptabteilungsleiter unterstellt, auch in
+[^f772096_197_BJNR011740975BJNE025002360]:     Soweit nicht einem Hauptabteilungsleiter unterstellt, auch in
     Besoldungsgruppe B 7.
-[^f772096_198_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in Besoldungsgruppe B 7 eingestuften
+[^f772096_198_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in Besoldungsgruppe B 7 eingestuften
     Amt zugeordnet ist.
-[^f772096_199_BJNR011740975BJNE025001310]:     Soweit nicht in der Besoldungsgruppe B 5.
-[^f772096_200_BJNR011740975BJNE025001310]:     Für die am 31. Dezember 2000 vorhandenen Ersten Direktoren einer
+[^f772096_199_BJNR011740975BJNE025002360]:     Soweit nicht in der Besoldungsgruppe B 5.
+[^f772096_200_BJNR011740975BJNE025002360]:     Für die am 31. Dezember 2000 vorhandenen Ersten Direktoren einer
     Landesversicherungsanstalt – als Geschäftsführer der
     Landesversicherungsanstalten Baden und Württemberg – gelten die durch
     Artikel 1 Nummer 23 Buchstabe t Doppelbuchstabe bb des Sechsten
     Besoldungsänderungsgesetzes vom 14. Dezember 2001 (BGBl. I S. 3702)
     gestrichenen Ämter weiter.
-[^f772096_201_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 3, B 5, B 7.
-[^f772096_202_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht einem in Besoldungsgruppe B 6 eingestuften
+[^f772096_201_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 3, B 5, B 7.
+[^f772096_202_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht einem in Besoldungsgruppe B 6 eingestuften
     Amt zugeordnet ist.
-[^f772096_203_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_204_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_205_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen B 3, B 5, B 6.
-[^f772096_206_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.
-[^f772096_207_BJNR011740975BJNE025001310]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.
-[^f772096_208_BJNR011740975BJNE025001310]:     (weggefallen)
-[^f772096_209_BJNR011740975BJNE025001310]:     Soweit die Funktion nicht dem Amt des Ministerialdirigenten in
+[^f772096_203_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_204_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_205_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen B 3, B 5, B 6.
+[^f772096_206_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.
+[^f772096_207_BJNR011740975BJNE025002360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.
+[^f772096_208_BJNR011740975BJNE025002360]:     (weggefallen)
+[^f772096_209_BJNR011740975BJNE025002360]:     Soweit die Funktion nicht dem Amt des Ministerialdirigenten in
     Besoldungsgruppe B 6 zugeordnet ist.
-[^f772096_210_BJNR011740975BJNE025001310]:     Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach
+[^f772096_210_BJNR011740975BJNE025002360]:     Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach
     Anlage IX.
-[^f772096_211_BJNR011740975BJNE025001310]:     Im Bundesbereich.
-[^f772096_212_BJNR011740975BJNE025001310]: 
+[^f772096_211_BJNR011740975BJNE025002360]:     Im Bundesbereich.
+[^f772096_212_BJNR011740975BJNE025002360]: 
 
 ### Anlage II Bundesbesoldungsordnung W
 
@@ -6757,12 +6925,12 @@ Präsident des Bundesverwaltungsgerichts
 
 ### Anlage IV
 
-(Fundstelle: BGBl. I 2011, 2844 - 2845)
+(Fundstelle: BGBl. I 2012, 1673 - 1674)
 
 **1. Bundesbesoldungsordnung A**
 
 
-*    *   Besoldungsgruppe
+*    *   Besoldungs-gruppe
 
     *   Grundgehalt
         (Monatsbeträge in Euro)
@@ -6787,296 +6955,296 @@ Präsident des Bundesverwaltungsgerichts
 
 *    *   A 2
 
-    *   1 744,80
+    *   1 802,38
 
-    *   1 785,58
+    *   1 844,50
 
-    *   1 827,44
+    *   1 887,75
 
-    *   1 858,81
+    *   1 920,15
 
-    *   1 891,25
+    *   1 953,66
 
-    *   1 923,68
+    *   1 987,16
 
-    *   1 956,09
+    *   2 020,64
 
-    *   1 988,52
+    *   2 054,14
 
 
 *    *   A 3
 
-    *   1 814,88
+    *   1 874,77
 
-    *   1 857,76
+    *   1 919,07
 
-    *   1 900,65
+    *   1 963,37
 
-    *   1 935,17
+    *   1 999,03
 
-    *   1 969,70
+    *   2 034,70
 
-    *   2 004,21
+    *   2 070,35
 
-    *   2 038,73
+    *   2 106,01
 
-    *   2 073,24
+    *   2 141,66
 
 
 *    *   A 4
 
-    *   1 854,65
+    *   1 915,85
 
-    *   1 905,88
+    *   1 968,77
 
-    *   1 957,14
+    *   2 021,73
 
-    *   1 997,94
+    *   2 063,87
 
-    *   2 038,73
+    *   2 106,01
 
-    *   2 079,53
+    *   2 148,15
 
-    *   2 120,32
+    *   2 190,29
 
-    *   2 157,99
+    *   2 229,20
 
 
 *    *   A 5
 
-    *   1 869,27
+    *   1 930,96
 
-    *   1 933,08
+    *   1 996,87
 
-    *   1 984,33
+    *   2 049,81
 
-    *   2 034,55
+    *   2 101,69
 
-    *   2 084,77
+    *   2 153,57
 
-    *   2 136,02
+    *   2 206,51
 
-    *   2 186,22
+    *   2 258,37
 
-    *   2 235,39
+    *   2 309,16
 
 
 *    *   A 6
 
-    *   1 911,11
+    *   1 974,18
 
-    *   1 985,39
+    *   2 050,91
 
-    *   2 060,70
+    *   2 128,70
 
-    *   2 118,23
+    *   2 188,13
 
-    *   2 177,85
+    *   2 249,72
 
-    *   2 235,39
+    *   2 309,16
 
-    *   2 299,20
+    *   2 375,07
 
-    *   2 354,64
+    *   2 432,34
 
 
 *    *   A 7
 
-    *   2 010,49
+    *   2 076,84
 
-    *   2 076,39
+    *   2 144,91
 
-    *   2 163,23
+    *   2 234,62
 
-    *   2 252,13
+    *   2 326,45
 
-    *   2 338,95
+    *   2 416,14
 
-    *   2 426,82
+    *   2 506,91
 
-    *   2 492,72
+    *   2 574,98
 
-    *   2 558,61
+    *   2 643,04
 
 
 *    *   A 8
 
-    *   2 131,83
+    *   2 202,18
 
-    *   2 211,34
+    *   2 284,31
 
-    *   2 323,26
+    *   2 399,93
 
-    *   2 436,23
+    *   2 516,63
 
-    *   2 549,20
+    *   2 633,32
 
-    *   2 627,65
+    *   2 714,36
 
-    *   2 707,15
+    *   2 796,49
 
-    *   2 785,61
+    *   2 877,54
 
 
 *    *   A 9
 
-    *   2 307,56
+    *   2 383,71
 
-    *   2 386,02
+    *   2 464,76
 
-    *   2 509,46
+    *   2 592,27
 
-    *   2 634,98
+    *   2 721,93
 
-    *   2 758,40
+    *   2 849,43
 
-    *   2 842,10
+    *   2 935,89
 
-    *   2 926,83
+    *   3 023,42
 
-    *   3 009,46
+    *   3 108,77
 
 
 *    *   A 10
 
-    *   2 475,97
+    *   2 557,68
 
-    *   2 583,72
+    *   2 668,98
 
-    *   2 739,58
+    *   2 829,99
 
-    *   2 894,39
+    *   2 989,90
 
-    *   3 049,21
+    *   3 149,83
 
-    *   3 156,97
+    *   3 261,15
 
-    *   3 264,69
+    *   3 372,42
 
-    *   3 372,45
+    *   3 483,74
 
 
 *    *   A 11
 
-    *   2 842,10
+    *   2 935,89
 
-    *   3 002,15
+    *   3 101,22
 
-    *   3 161,13
+    *   3 265,45
 
-    *   3 321,19
+    *   3 430,79
 
-    *   3 431,02
+    *   3 544,24
 
-    *   3 540,85
+    *   3 657,70
 
-    *   3 650,69
+    *   3 771,16
 
-    *   3 760,52
+    *   3 884,62
 
 
 *    *   A 12
 
-    *   3 047,13
+    *   3 147,69
 
-    *   3 236,46
+    *   3 343,26
 
-    *   3 426,83
+    *   3 539,92
 
-    *   3 616,16
+    *   3 735,49
 
-    *   3 747,97
+    *   3 871,65
 
-    *   3 877,67
+    *   4 005,63
 
-    *   4 008,43
+    *   4 140,71
 
-    *   4 141,28
+    *   4 277,94
 
 
 *    *   A 13
 
-    *   3 573,27
+    *   3 691,19
 
-    *   3 751,10
+    *   3 874,89
 
-    *   3 927,89
+    *   4 057,51
 
-    *   4 105,71
+    *   4 241,20
 
-    *   4 228,10
+    *   4 367,63
 
-    *   4 351,54
+    *   4 495,14
 
-    *   4 473,91
+    *   4 621,55
 
-    *   4 594,21
+    *   4 745,82
 
 
 *    *   A 14
 
-    *   3 674,75
+    *   3 796,02
 
-    *   3 903,82
+    *   4 032,65
 
-    *   4 133,96
+    *   4 270,38
 
-    *   4 363,04
+    *   4 507,02
 
-    *   4 520,98
+    *   4 670,17
 
-    *   4 679,99
+    *   4 834,43
 
-    *   4 837,94
+    *   4 997,59
 
-    *   4 996,94
+    *   5 161,84
 
 
 *    *   A 15
 
-    *   4 491,70
+    *   4 639,93
 
-    *   4 698,82
+    *   4 853,88
 
-    *   4 856,77
+    *   5 017,04
 
-    *   5 014,72
+    *   5 180,21
 
-    *   5 172,68
+    *   5 343,38
 
-    *   5 329,58
+    *   5 505,46
 
-    *   5 486,49
+    *   5 667,54
 
-    *   5 642,34
+    *   5 828,54
 
 
 *    *   A 16
 
-    *   4 955,09
+    *   5 118,61
 
-    *   5 195,69
+    *   5 367,15
 
-    *   5 377,70
+    *   5 555,16
 
-    *   5 559,71
+    *   5 743,18
 
-    *   5 740,68
+    *   5 930,12
 
-    *   5 923,75
+    *   6 119,23
 
-    *   6 105,74
+    *   6 307,23
 
-    *   6 285,67
+    *   6 493,10
 
 
 
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,60 Euro;
+Beamte des mittleren Dienstes sowie für Unteroffiziere um 19,21 Euro;
 es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
+gehobenen Dienstes sowie für Offiziere um 8,38 Euro.
 
 **2. Bundesbesoldungsordnung B**
 
@@ -7089,57 +7257,57 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 
 *    *   B 1
 
-    *   5 642,34
+    *   5 828,54
 
 
 *    *   B 2
 
-    *   6 554,50
+    *   6 770,80
 
 
 *    *   B 3
 
-    *   6 940,48
+    *   7 169,52
 
 
 *    *   B 4
 
-    *   7 344,25
+    *   7 586,61
 
 
 *    *   B 5
 
-    *   7 807,66
+    *   8 065,31
 
 
 *    *   B 6
 
-    *   8 248,04
+    *   8 520,23
 
 
 *    *   B 7
 
-    *   8 672,72
+    *   8 958,92
 
 
 *    *   B 8
 
-    *   9 117,29
+    *   9 418,16
 
 
 *    *   B 9
 
-    *   9 668,56
+    *   9 987,62
 
 
 *    *   B 10
 
-    *   11 380,93
+    *   11 756,50
 
 
 *    *   B 11
 
-    *   11 823,41
+    *   12 213,58
 
 
 
@@ -7155,17 +7323,17 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 
 *    *   W 1
 
-    *   3 926,84
+    *   4 056,43
 
 
 *    *   W 2
 
-    *   4 478,10
+    *   4 625,88
 
 
 *    *   W 3
 
-    *   5 425,82
+    *   5 604,87
 
 
 
@@ -7173,7 +7341,7 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 **4. Bundesbesoldungsordnung R**
 
 
-*    *   Besoldungsgruppe
+*    *   Besoldungs-gruppe
 
     *   Grundgehalt
         (Monatsbeträge in Euro)
@@ -7198,82 +7366,82 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 
 *    *   R 1
 
-    *   3 573,27
+    *   3 691,19
 
-    *   3 917,43
+    *   4 046,71
 
-    *   4 262,62
+    *   4 403,29
 
-    *   4 568,07
+    *   4 718,82
 
-    *   4 872,47
+    *   5 033,26
 
-    *   5 177,91
+    *   5 348,78
 
-    *   5 481,26
+    *   5 662,14
 
-    *   5 788,79
+    *   5 979,82
 
 
 *    *   R 2
 
-    *   4 342,11
+    *   4 485,40
 
-    *   4 564,93
+    *   4 715,57
 
-    *   4 786,69
+    *   4 944,65
 
-    *   5 090,04
+    *   5 258,01
 
-    *   5 395,48
+    *   5 573,53
 
-    *   5 699,88
+    *   5 887,98
 
-    *   6 005,32
+    *   6 203,50
 
-    *   6 310,78
+    *   6 519,04
 
 
 
 
 *    *   R 3
 
-    *   6 940,48
+    *   7 169,52
 
 
 *    *   R 4
 
-    *   7 344,25
+    *   7 586,61
 
 
 *    *   R 5
 
-    *   7 807,66
+    *   8 065,31
 
 
 *    *   R 6
 
-    *   8 248,04
+    *   8 520,23
 
 
 *    *   R 7
 
-    *   8 672,72
+    *   8 958,92
 
 
 *    *   R 8
 
-    *   9 117,29
+    *   9 418,16
 
 
 *    *   R 9
 
-    *   9 668,56
+    *   9 987,62
 
 
 *    *   R 10
 
-    *   11 870,49
+    *   12 262,22
 
 
 
@@ -7281,9 +7449,9 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 
 ### Anlage V
 
-(Fundstelle: BGBl. I 2011, 2846)
+(Fundstelle: BGBl. I 2012, 1675)
 
-## Familienzuschlag
+## **Familienzuschlag**
 
 ### (Monatsbeträge in Euro)
 
@@ -7298,30 +7466,30 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 
 *    *   Besoldungsgruppen A 2 bis A 8
 
-    *   113,96
+    *   117,72
 
-    *   216,29
+    *   223,43
 
 
-*    *   übrige Besoldungsgruppen
+*    *   Übrige Besoldungsgruppen
 
-    *   119,68
+    *   123,64
 
-    *   222,01
+    *   229,35
 
 
 
 Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 102,33 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 318,84 Euro.
+zweite zu berücksichtigende Kind um 105,71 Euro, für das dritte und
+jedes weitere zu berücksichtigende Kind um 329,36 Euro.
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
 berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,37
 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
-in den Besoldungsgruppen A 2 bis A 3 um je 26,84 Euro,
-in der Besoldungsgruppe A 4 um je 21,47 Euro und
-in der Besoldungsgruppe A 5 um je 16,10 Euro.
+– in den Besoldungsgruppen A 2 und A 3 um je 26,84 Euro,
+– in der Besoldungsgruppe A 4 um je 21,47 Euro und
+– in der Besoldungsgruppe A 5 um je 16,10 Euro.
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
 niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
 zusätzlich gewährt.
@@ -7331,28 +7499,26 @@ zusätzlich gewährt.
 
 *    *   – in den Besoldungsgruppen A 2 bis A 8:
 
-    *   100,85 Euro
+    *   104,18 Euro
 
 
 *    *   – in den Besoldungsgruppen A 9 bis A 12:
 
-    *   107,07 Euro
+    *   110,60 Euro
 
 
 
 
 ### Anlage VI
 
-(Fundstelle: BGBl. 2011, 2847)
+(Fundstelle: BGBl. I 2012, 1676)
 
-## Auslandszuschlag (§ 53)
+## **Auslandszuschlag (§ 53)**
 
-### VI.1 (Monatsbeträge in Euro)VI.2
+### VI.1 (Monatsbeträge in Euro) VI.2
 
 
-*    *   Grund-
-        gehalts-
-        spanne
+*    *   Grundgehaltsspanne
 
     *   1
 
@@ -7386,66 +7552,95 @@ zusätzlich gewährt.
 
 
 *    *
-    *   1 876,12
+    *   1 938,03
 
-    *   2 124,12
+    *   2 194,22
 
-    *   2 405,93
+    *   2 485,33
 
-    *   2 726,09
+    *   2 816,05
 
-    *   3 089,91
+    *   3 191,88
 
-    *   3 503,25
+    *   3 618,86
 
-    *   3 972,91
+    *   4 104,02
 
-    *   4 506,54
+    *   4 655,26
 
-    *   5 112,86
+    *   5 281,58
 
-    *   5 801,79
+    *   5 993,25
 
-    *   6 584,56
+    *   6 801,85
 
-    *   7 473,93
+    *   7 720,57
 
-    *   8 484,48
-
-    *   9 632,69
-
-
-*    *   von – bis
-
-    *   1 876,11
-
-    *   2 124,11
-
-    *   2 405,92
-
-    *   2 726,08
-
-    *   3 089,90
-
-    *   3 503,24
-
-    *   3 972,90
-
-    *   4 506,53
-
-    *   5 112,85
-
-    *   5 801,78
-
-    *   6 584,55
-
-    *   7 473,92
-
-    *   8 484,47
-
-    *   9 632,68
+    *   8 764,47
 
     *
+
+*    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   bis
+
+    *   ab
+
+
+*    *   1 938,02
+
+    *   2 194,21
+
+    *   2 485,32
+
+    *   2 816,04
+
+    *   3 191,87
+
+    *   3 618,85
+
+    *   4 104,01
+
+    *   4 655,25
+
+    *   5 281,57
+
+    *   5 993,24
+
+    *   6 801,84
+
+    *   7 720,56
+
+    *   8 764,46
+
+    *   9 950,56
+
+    *   9 950,57
+
 
 *    *   Zonenstufe
 
@@ -7467,772 +7662,770 @@ zusätzlich gewährt.
 
 *    *   1
 
-    *   669,11
+    *   686,77
 
-    *   725,04
+    *   744,18
 
-    *   785,03
+    *   805,75
 
-    *   852,14
+    *   874,64
 
-    *   924,35
+    *   948,75
 
-    *   1 004,68
+    *   1 031,20
 
-    *   1 092,12
+    *   1 120,95
 
-    *   1 188,74
+    *   1 220,12
 
-    *   1 295,50
+    *   1 329,70
 
-    *   1 414,48
+    *   1 451,82
 
-    *   1 544,64
+    *   1 585,42
 
-    *   1 599,55
+    *   1 641,78
 
-    *   1 657,52
+    *   1 701,28
 
-    *   1 719,54
+    *   1 764,94
 
-    *   1 785,65
+    *   1 832,79
 
 
 *    *   2
 
-    *   744,36
+    *   764,01
 
-    *   804,35
+    *   825,58
 
-    *   869,43
+    *   892,38
 
-    *   940,61
+    *   965,44
 
-    *   1 018,92
+    *   1 045,82
 
-    *   1 105,36
+    *   1 134,54
 
-    *   1 198,90
+    *   1 230,55
 
-    *   1 302,63
+    *   1 337,02
 
-    *   1 416,51
+    *   1 453,91
 
-    *   1 542,60
+    *   1 583,32
 
-    *   1 680,90
+    *   1 725,28
 
-    *   1 743,95
+    *   1 789,99
 
-    *   1 811,07
+    *   1 858,88
 
-    *   1 882,25
+    *   1 931,94
 
-    *   1 958,51
+    *   2 010,21
 
 
 *    *   3
 
-    *   818,59
+    *   840,20
 
-    *   883,67
+    *   907,00
 
-    *   953,83
+    *   979,01
 
-    *   1 030,10
+    *   1 057,29
 
-    *   1 114,50
+    *   1 143,92
 
-    *   1 206,03
+    *   1 237,87
 
-    *   1 306,70
+    *   1 341,20
 
-    *   1 416,51
+    *   1 453,91
 
-    *   1 537,53
+    *   1 578,12
 
-    *   1 670,73
+    *   1 714,84
 
-    *   1 816,16
+    *   1 864,11
 
-    *   1 888,35
+    *   1 938,20
 
-    *   1 964,61
+    *   2 016,48
 
-    *   2 045,97
+    *   2 099,98
 
-    *   2 131,38
+    *   2 187,65
 
 
 *    *   4
 
-    *   892,82
+    *   916,39
 
-    *   962,99
+    *   988,41
 
-    *   1 038,24
+    *   1 065,65
 
-    *   1 119,59
+    *   1 149,15
 
-    *   1 209,06
+    *   1 240,98
 
-    *   1 306,70
+    *   1 341,20
 
-    *   1 413,46
+    *   1 450,78
 
-    *   1 530,40
+    *   1 570,80
 
-    *   1 658,53
+    *   1 702,32
 
-    *   1 798,86
+    *   1 846,35
 
-    *   1 952,40
+    *   2 003,94
 
-    *   2 032,75
+    *   2 086,41
 
-    *   2 118,16
+    *   2 174,08
 
-    *   2 208,67
+    *   2 266,98
 
-    *   2 304,25
+    *   2 365,08
 
 
 *    *   5
 
-    *   968,07
+    *   993,63
 
-    *   1 042,31
+    *   1 069,83
 
-    *   1 122,64
+    *   1 152,28
 
-    *   1 209,06
+    *   1 240,98
 
-    *   1 303,64
+    *   1 338,06
 
-    *   1 407,37
+    *   1 444,52
 
-    *   1 520,23
+    *   1 560,36
 
-    *   1 643,27
+    *   1 686,65
 
-    *   1 778,53
+    *   1 825,48
 
-    *   1 926,98
+    *   1 977,85
 
-    *   2 088,67
+    *   2 143,81
 
-    *   2 177,14
+    *   2 234,62
 
-    *   2 271,72
+    *   2 331,69
 
-    *   2 371,37
+    *   2 433,97
 
-    *   2 478,14
+    *   2 543,56
 
 
 *    *   6
 
-    *   1 042,31
+    *   1 069,83
 
-    *   1 121,63
+    *   1 151,24
 
-    *   1 206,03
+    *   1 237,87
 
-    *   1 298,56
+    *   1 332,84
 
-    *   1 399,23
+    *   1 436,17
 
-    *   1 508,04
+    *   1 547,85
 
-    *   1 627,01
+    *   1 669,96
 
-    *   1 757,17
+    *   1 803,56
 
-    *   1 899,53
+    *   1 949,68
 
-    *   2 055,11
+    *   2 109,36
 
-    *   2 224,93
+    *   2 283,67
 
-    *   2 321,54
+    *   2 382,83
 
-    *   2 425,27
+    *   2 489,30
 
-    *   2 534,07
+    *   2 600,97
 
-    *   2 651,01
+    *   2 721,00
 
 
 *    *   7
 
-    *   1 117,56
+    *   1 147,06
 
-    *   1 200,94
+    *   1 232,64
 
-    *   1 290,42
+    *   1 324,49
 
-    *   1 388,03
+    *   1 424,67
 
-    *   1 493,80
+    *   1 533,24
 
-    *   1 608,71
+    *   1 651,18
 
-    *   1 734,80
+    *   1 780,60
 
-    *   1 871,06
+    *   1 920,46
 
-    *   2 020,55
+    *   2 073,89
 
-    *   2 183,24
+    *   2 240,88
 
-    *   2 361,19
+    *   2 423,53
 
-    *   2 466,96
+    *   2 532,09
 
-    *   2 578,81
+    *   2 646,89
 
-    *   2 697,79
+    *   2 769,01
 
-    *   2 823,88
+    *   2 898,43
 
 
 *    *   8
 
-    *   1 191,78
+    *   1 223,24
 
-    *   1 280,26
+    *   1 314,06
 
-    *   1 374,82
+    *   1 411,12
 
-    *   1 477,53
+    *   1 516,54
 
-    *   1 588,37
+    *   1 630,30
 
-    *   1 709,38
+    *   1 754,51
 
-    *   1 841,58
+    *   1 890,20
 
-    *   1 984,95
+    *   2 037,35
 
-    *   2 140,53
+    *   2 197,04
 
-    *   2 311,37
+    *   2 372,39
 
-    *   2 497,46
+    *   2 563,39
 
-    *   2 611,34
+    *   2 680,28
 
-    *   2 732,36
+    *   2 804,49
 
-    *   2 860,48
+    *   2 936,00
 
-    *   2 996,74
+    *   3 075,85
 
 
 *    *   9
 
-    *   1 267,03
+    *   1 300,48
 
-    *   1 359,58
+    *   1 395,47
 
-    *   1 459,22
+    *   1 497,74
 
-    *   1 567,01
+    *   1 608,38
 
-    *   1 683,96
+    *   1 728,42
 
-    *   1 811,07
+    *   1 858,88
 
-    *   1 948,34
+    *   1 999,78
 
-    *   2 098,84
+    *   2 154,25
 
-    *   2 261,54
+    *   2 321,24
 
-    *   2 439,50
+    *   2 503,90
 
-    *   2 633,72
+    *   2 703,25
 
-    *   2 755,75
+    *   2 828,50
 
-    *   2 885,90
+    *   2 962,09
 
-    *   3 023,19
+    *   3 103,00
 
-    *   3 169,62
+    *   3 253,30
 
 
 *    *   10
 
-    *   1 341,26
+    *   1 376,67
 
-    *   1 438,89
+    *   1 476,88
 
-    *   1 543,63
+    *   1 584,38
 
-    *   1 656,50
+    *   1 700,23
 
-    *   1 778,53
+    *   1 825,48
 
-    *   1 911,74
+    *   1 962,21
 
-    *   2 055,11
+    *   2 109,36
 
-    *   2 211,72
+    *   2 270,11
 
-    *   2 382,54
+    *   2 445,44
 
-    *   2 567,63
+    *   2 635,42
 
-    *   2 768,97
+    *   2 842,07
 
-    *   2 900,14
+    *   2 976,70
 
-    *   3 038,43
+    *   3 118,64
 
-    *   3 185,89
+    *   3 270,00
 
-    *   3 342,49
+    *   3 430,73
 
 
 *    *   11
 
-    *   1 415,50
+    *   1 452,87
 
-    *   1 518,20
+    *   1 558,28
 
-    *   1 627,01
+    *   1 669,96
 
-    *   1 745,98
+    *   1 792,07
 
-    *   1 874,11
+    *   1 923,59
 
-    *   2 012,41
+    *   2 065,54
 
-    *   2 162,91
+    *   2 220,01
 
-    *   2 325,61
+    *   2 387,01
 
-    *   2 502,55
+    *   2 568,62
 
-    *   2 695,75
+    *   2 766,92
 
-    *   2 905,24
+    *   2 981,94
 
-    *   3 044,54
+    *   3 124,92
 
-    *   3 191,98
+    *   3 276,25
 
-    *   3 349,60
+    *   3 438,03
 
-    *   3 516,38
+    *   3 609,21
 
 
 *    *   12
 
-    *   1 490,74
+    *   1 530,10
 
-    *   1 597,51
+    *   1 639,68
 
-    *   1 711,42
+    *   1 756,60
 
-    *   1 835,47
+    *   1 883,93
 
-    *   1 968,68
+    *   2 020,65
 
-    *   2 113,08
+    *   2 168,87
 
-    *   2 269,68
+    *   2 329,60
 
-    *   2 439,50
+    *   2 503,90
 
-    *   2 623,55
+    *   2 692,81
 
-    *   2 823,88
+    *   2 898,43
 
-    *   3 041,48
+    *   3 121,78
 
-    *   3 188,95
+    *   3 273,14
 
-    *   3 345,53
+    *   3 433,85
 
-    *   3 512,31
+    *   3 605,03
 
-    *   3 689,24
+    *   3 786,64
 
 
 *    *   13
 
-    *   1 564,98
+    *   1 606,30
 
-    *   1 676,83
+    *   1 721,10
 
-    *   1 795,81
+    *   1 843,22
 
-    *   1 923,94
+    *   1 974,73
 
-    *   2 063,25
+    *   2 117,72
 
-    *   2 213,75
+    *   2 272,19
 
-    *   2 376,46
+    *   2 439,20
 
-    *   2 553,39
+    *   2 620,80
 
-    *   2 744,56
+    *   2 817,02
 
-    *   2 952,01
+    *   3 029,94
 
-    *   3 177,75
+    *   3 261,64
 
-    *   3 333,34
+    *   3 421,34
 
-    *   3 499,09
+    *   3 591,47
 
-    *   3 675,00
+    *   3 772,02
 
-    *   3 862,12
+    *   3 964,08
 
 
 *    *   14
 
-    *   1 640,23
+    *   1 683,53
 
-    *   1 756,15
+    *   1 802,51
 
-    *   1 880,21
+    *   1 929,85
 
-    *   2 013,43
+    *   2 066,58
 
-    *   2 158,84
+    *   2 215,83
 
-    *   2 314,42
+    *   2 375,52
 
-    *   2 483,22
+    *   2 548,78
 
-    *   2 666,26
+    *   2 736,65
 
-    *   2 864,55
+    *   2 940,17
 
-    *   3 080,13
+    *   3 161,45
 
-    *   3 314,01
+    *   3 401,50
 
-    *   3 477,73
+    *   3 569,54
 
-    *   3 652,64
+    *   3 749,07
 
-    *   3 837,71
+    *   3 939,03
 
-    *   4 034,98
+    *   4 141,50
 
 
 *    *   15
 
-    *   1 714,46
+    *   1 759,72
 
-    *   1 835,47
+    *   1 883,93
 
-    *   1 963,60
+    *   2 015,44
 
-    *   2 102,90
+    *   2 158,42
 
-    *   2 253,41
+    *   2 312,90
 
-    *   2 415,09
+    *   2 478,85
 
-    *   2 591,01
+    *   2 659,41
 
-    *   2 780,16
+    *   2 853,56
 
-    *   2 985,57
+    *   3 064,39
 
-    *   3 208,26
+    *   3 292,96
 
-    *   3 450,27
+    *   3 541,36
 
-    *   3 623,14
+    *   3 718,79
 
-    *   3 806,18
+    *   3 906,66
 
-    *   4 001,43
+    *   4 107,07
 
-    *   4 207,84
+    *   4 318,93
 
 
 *    *   16
 
-    *   1 788,69
+    *   1 835,91
 
-    *   1 914,79
+    *   1 965,34
 
-    *   2 047,99
+    *   2 102,06
 
-    *   2 192,40
+    *   2 250,28
 
-    *   2 347,98
+    *   2 409,97
 
-    *   2 516,78
+    *   2 583,22
 
-    *   2 697,79
+    *   2 769,01
 
-    *   2 894,04
+    *   2 970,44
 
-    *   3 106,57
+    *   3 188,58
 
-    *   3 336,39
+    *   3 424,47
 
-    *   3 585,52
+    *   3 680,18
 
-    *   3 767,54
+    *   3 867,00
 
-    *   3 959,73
+    *   4 064,27
 
-    *   4 164,12
+    *   4 274,05
 
-    *   4 380,73
+    *   4 496,38
 
 
 *    *   17
 
-    *   1 863,94
+    *   1 913,15
 
-    *   1 994,10
+    *   2 046,74
 
-    *   2 132,40
+    *   2 188,70
 
-    *   2 281,87
+    *   2 342,11
 
-    *   2 443,57
+    *   2 508,08
 
-    *   2 617,45
+    *   2 686,55
 
-    *   2 804,56
+    *   2 878,60
 
-    *   3 007,93
+    *   3 087,34
 
-    *   3 227,58
+    *   3 312,79
 
-    *   3 464,51
+    *   3 555,97
 
-    *   3 721,79
+    *   3 820,05
 
-    *   3 911,94
+    *   4 015,22
 
-    *   4 113,28
+    *   4 221,87
 
-    *   4 326,83
+    *   4 441,06
 
-    *   4 554,61
+    *   4 674,85
 
 
 *    *   18
 
-    *   1 938,18
+    *   1 989,35
 
-    *   2 072,40
+    *   2 127,11
 
-    *   2 216,80
+    *   2 275,32
 
-    *   2 371,37
+    *   2 433,97
 
-    *   2 538,14
+    *   2 605,15
 
-    *   2 718,12
+    *   2 789,88
 
-    *   2 912,34
+    *   2 989,23
 
-    *   3 121,82
+    *   3 204,24
 
-    *   3 347,56
+    *   3 435,94
 
-    *   3 592,64
+    *   3 687,49
 
-    *   3 858,05
+    *   3 959,90
 
-    *   4 056,33
+    *   4 163,42
 
-    *   4 266,83
+    *   4 379,47
 
-    *   4 490,54
+    *   4 609,09
 
-    *   4 727,48
+    *   4 852,29
 
 
 *    *   19
 
-    *   2 013,43
+    *   2 066,58
 
-    *   2 151,71
+    *   2 208,52
 
-    *   2 301,20
+    *   2 361,95
 
-    *   2 460,85
+    *   2 525,82
 
-    *   2 632,70
+    *   2 702,20
 
-    *   2 818,79
+    *   2 893,21
 
-    *   3 019,12
+    *   3 098,82
 
-    *   3 234,70
+    *   3 320,10
 
-    *   3 468,58
+    *   3 560,15
 
-    *   3 720,77
+    *   3 819,00
 
-    *   3 994,31
+    *   4 099,76
 
-    *   4 200,74
+    *   4 311,64
 
-    *   4 420,38
+    *   4 537,08
 
-    *   4 653,25
+    *   4 776,10
 
-    *   4 900,34
+    *   5 029,71
 
 
 *    *   20
 
-    *   2 087,66
+    *   2 142,77
 
-    *   2 231,03
+    *   2 289,93
 
-    *   2 384,58
+    *   2 447,53
 
-    *   2 550,34
+    *   2 617,67
 
-    *   2 728,29
+    *   2 800,32
 
-    *   2 919,46
+    *   2 996,53
 
-    *   3 125,89
+    *   3 208,41
 
-    *   3 348,59
+    *   3 436,99
 
-    *   3 589,59
+    *   3 684,36
 
-    *   3 848,90
+    *   3 950,51
 
-    *   4 130,57
+    *   4 239,62
 
-    *   4 345,13
+    *   4 459,84
 
-    *   4 573,93
+    *   4 694,68
 
-    *   4 815,95
+    *   4 943,09
 
-    *   5 073,22
-
-
+    *   5 207,15
 
 
-*    *   Zonen-
-        stufe
 
-    *   Monats-
-        beträge
+
+*    *   Zonenstufe
+
+    *   Monatsbeträge
         in Euro
 
 
 *    *   1
 
-    *   129,15
+    *   132,56
 
 
 *    *   2
 
-    *   142,36
+    *   146,12
 
 
 *    *   3
 
-    *   155,58
+    *   159,69
 
 
 *    *   4
 
-    *   168,79
+    *   173,25
 
 
 *    *   5
 
-    *   183,04
+    *   187,87
 
 
 *    *   6
 
-    *   196,26
+    *   201,44
 
 
 *    *   7
 
-    *   209,48
+    *   215,01
 
 
 *    *   8
 
-    *   222,69
+    *   228,57
 
 
 *    *   9
 
-    *   235,91
+    *   242,14
 
 
 *    *   10
 
-    *   249,14
+    *   255,72
 
 
 *    *   11
 
-    *   262,36
+    *   269,29
 
 
 *    *   12
 
-    *   275,57
+    *   282,85
 
 
 *    *   13
 
-    *   288,80
+    *   296,42
 
 
 *    *   14
 
-    *   302,01
+    *   309,98
 
 
 *    *   15
 
-    *   315,23
+    *   323,55
 
 
 *    *   16
 
-    *   328,46
+    *   337,13
 
 
 *    *   17
 
-    *   341,68
+    *   350,70
 
 
 *    *   18
 
-    *   354,89
+    *   364,26
 
 
 *    *   19
 
-    *   369,12
+    *   378,86
 
 
 *    *   20
 
-    *   382,35
+    *   392,44
 
 
 
@@ -8240,9 +8433,9 @@ zusätzlich gewährt.
 
 ### Anlage VIII
 
-(Fundstelle: BGBl. 2011, 2848)
+(Fundstelle: BGBl. I 2012, 1677)
 
-## Anwärtergrundbetrag
+## **Anwärtergrundbetrag**
 
 ### (Monatsbeträge in Euro)
 
@@ -8255,45 +8448,87 @@ zusätzlich gewährt.
 
 *    *   A 2 bis A 4
 
-    *   830,56
+    *   880,56
 
 
 *    *   A 5 bis A 8
 
-    *   953,99
+    *   1 003,99
 
 
 *    *   A 9 bis A 11
 
-    *   1 008,38
+    *   1 058,38
 
 
 *    *   A 12
 
-    *   1 151,69
+    *   1 201,69
 
 
 *    *   A 13 oder R 1
 
-    *   1 219,68
+    *   1 269,68
+
+
+
+
+### Anlage VIII
+
+(Fundstelle: BGBl. I 2012, 1692)
+
+## **Anwärtergrundbetrag**
+
+### (Monatsbeträge in Euro)
+
+
+*    *   Eingangsamt, in das der Anwärter nach Abschluss
+        des Vorbereitungsdienstes unmittelbar eintritt
+
+    *   Grundbetrag
+
+
+*    *   A 2 bis A 4
+
+    *   920,56
+
+
+*    *   A 5 bis A 8
+
+    *   1 043,99
+
+
+*    *   A 9 bis A 11
+
+    *   1 098,38
+
+
+*    *   A 12
+
+    *   1 241,69
+
+
+*    *   A 13 oder R 1
+
+    *   1 309,68
 
 
 
 
 ### Anlage IX
 
-(Fundstelle: BGBl. I 2011, 2849 - 2851;
+(Fundstelle: BGBl. I 2012, 1678 - 1680;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
+## **Amtszulagen, Stellenzulagen, Zulagen, Vergütungen**
 
-(Monatsbeträge)
 ### – in der Reihenfolge der Gesetzesstellen –
 
 
 *    *   Dem Grunde nach geregelt in
 
-    *   Betrag in Euro,
+    *   Monatsbeträge
+        in Euro,
         Vomhundertsatz, Bruchteil
 
 
@@ -8402,35 +8637,47 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
+    *   Buchstabe a
+
+    *
+    *
+    *   96,63
+
+
+*    *
+    *
+    *   Buchstabe b
+
+    *
+    *
+    *   161,06
+
+
+*    *
+    *
+    *   Buchstabe c
+
+    *
+    *
+    *   230,86
+
+
+*    *
+    *   Absatz 2
+
+    *
+    *
+    *
+
+*    *
+    *
     *   Nummer 1
 
     *   Buchstabe a
 
     *
     *
-    *
-
-*    *
-    *
-    *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
-
-    *
-    *
-    *   245,86
-
-
-*    *
-    *
-    *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
-
-    *
-    *
-    *   271,47
+    *   144,95
 
 
 *    *
@@ -8440,126 +8687,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-    *
-
-*    *
-    *
-    *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
-
-    *
-    *
-    *   210,00
+    *   107,38
 
 
 *    *
     *
-    *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
-
-    *
-    *
-    *   235,61
-
-
-*    *
-    *
-    *
-    *   Buchstabe c
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Beamte des gehobenen und des höheren Dienstes und Offiziere der
-        Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen
-        Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes
-        ab Besoldungsgruppe A 13
-
-    *
-    *
-    *   271,47
-
-
-*    *
-    *
-    *   Nummer 2 und 3
-
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Beamte des mittleren Dienstes und
-        Unteroffiziere der Besoldungsgruppen A 5 bis A 9
-
-    *
-    *
-    *   169,03
-
-
-*    *
-    *
-    *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12
-        sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A
-        13
-
-    *
-    *
-    *   189,51
-
-
-*    *
-    *
-    *   Nummer 4
+    *   Nummer 2
 
     *   Buchstabe a
 
     *
     *
-    *
-
-*    *
-    *
-    *
-    *   Doppelbuchstabe aa
-
-    *
-    *
-    *   271,47
-
-
-*    *
-    *
-    *
-    *   Doppelbuchstabe bb
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
-
-    *
-    *
-    *   210,00
+    *   107,38
 
 
 *    *
@@ -8569,69 +8708,98 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-    *
-
-*    *
-    *
-    *
-    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
-
-    *
-    *
-    *   169,03
+    *   42,94
 
 
 *    *
     *
+    *   Nummer 3
+
     *
     *
-    *
-    *
+    *   69,79
+
 
 *    *
     *
-    *   Nummer 5 und 6
+    *   Nummer 4 und 5
 
     *
     *
-    *
-    *
+    *   64,42
+
 
 *    *
     *
-    *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Nummer 6
+
+    *   Buchstabe a
 
     *
     *
-    *   107,56
+    *   107,38
 
 
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Buchstabe b
 
     *
     *
-    *   169,03
+    *   107,38
+
+
+*    *
+    *
+    *   Nummer 7
+
+    *   Buchstabe a
+
+    *
+    *
+    *   107,38
 
 
 *    *
     *
     *
-    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes ab
-        Besoldungsgruppe A 13
+    *   Buchstabe b
 
     *
     *
-    *   235,61
+    *   42,94
+
+
+*    *
+    *
+    *   Nummer 8
+
+    *   Buchstabe a
+
+    *
+    *
+    *   134,22
+
+
+*    *
+    *
+    *
+    *   Buchstabe b
+
+    *
+    *
+    *   69,79
+
+
+*    *
+    *
+    *   Nummer 9
+
+    *
+    *
+    *
+    *   64,42
 
 
 *    *   Nummer 6
@@ -8671,15 +8839,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-    *   338,05
-
-
-*    *
-    *
-    *   Buchstabe d
-
-    *
-    *
     *   309,23
 
 
@@ -8714,7 +8873,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         oder, bei festen
         Gehältern, des
         Grundgehalts der
-[^f774667_05_BJNR011740975BJNE012744310]
+[^f777572_03_BJNR011740975BJNE025700310]
         Besoldungsgruppe
 
 
@@ -9230,14 +9389,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-    *   240,42
+    *   248,35
 
 
 *    *   Nummer 21
 
     *
     *
-    *   201,67
+    *   208,33
 
 
 *    *   Nummer 25
@@ -9295,7 +9454,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   34,76
+    *   35,91
 
 
 *    *
@@ -9307,72 +9466,72 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   3
 
-    *   64,13
+    *   66,25
 
 
 *    *   A 3
 
     *   1, 5
 
-    *   64,13
+    *   66,25
 
 
 *    *
     *   2
 
-    *   34,76
+    *   35,91
 
 
 *    *
     *   7
 
-    *   32,38
+    *   33,45
 
 
 *    *   A 4
 
     *   1, 4
 
-    *   64,13
+    *   66,25
 
 
 *    *
     *   2
 
-    *   34,76
+    *   35,91
 
 
 *    *
     *   5
 
-    *   6,98
+    *   7,21
 
 
 *    *   A 5
 
     *   3
 
-    *   34,76
+    *   35,91
 
 
 *    *
     *   4, 6
 
-    *   64,13
+    *   66,25
 
 
 *    *   A 6
 
     *   6
 
-    *   34,76
+    *   35,91
 
 
 *    *   A 7
 
     *   2
 
-    *   43,18
+    *   44,60
 
 
 *    *
@@ -9392,14 +9551,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   55,62
+    *   57,46
 
 
 *    *   A 9
 
     *   2, 3, 6
 
-    *   258,81
+    *   267,35
 
 
 *    *
@@ -9418,47 +9577,47 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7, 8
 
-    *   150,33
+    *   155,29
 
 
 *    *   A 13
 
     *   6
 
-    *   120,22
+    *   124,19
 
 
 *    *
     *   7
 
-    *   180,34
+    *   186,29
 
 
 *    *
     *   11, 12, 13
 
-    *   263,04
+    *   271,72
 
 
 *    *   A 14
 
     *   5
 
-    *   180,34
+    *   186,29
 
 
 *    *   A 15
 
     *   7
 
-    *   180,34
+    *   186,29
 
 
 *    *   B 10
 
     *   1
 
-    *   416,73
+    *   430,48
 
 
 *    *   **Bundesbesoldungsordnung R**
@@ -9487,7 +9646,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         oder, bei festen
         Gehältern, des
         Grundgehalts der
-[^f774667_06_BJNR011740975BJNE012744310]
         Besoldungsgruppe
 
 
@@ -9614,7 +9772,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1, 2
 
-    *   199,38
+    *   205,96
 
 
 *    *
@@ -9623,7 +9781,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 bis 8, 10
 
-    *   199,38
+    *   205,96
 
 
 *    *
@@ -9632,7 +9790,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   199,38
+    *   205,96
 
 
 *    *
@@ -9641,12 +9799,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   398,68
+    *   411,84
 
 
 
     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
     Dezember 1975 (BGBl. I S. 3091).
-[^f774667_05_BJNR011740975BJNE012744310]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
-[^f774667_06_BJNR011740975BJNE012744310]: 
+[^f777572_03_BJNR011740975BJNE025700310]: 
