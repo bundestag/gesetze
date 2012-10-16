@@ -746,8 +746,8 @@ an Seeämter für Zwecke der Seeunfalluntersuchung erteilt werden.
 
 *    *   9.
 
-    *   für die Abnahme der Wiederholung Wiederholung der theoretischen oder
-        praktischen Teilprüfung Funkbetriebszeugnis SRC
+    *   für die Abnahme der Wiederholung der theoretischen oder praktischen
+        Teilprüfung Funkbetriebszeugnis SRC
 
     *   18,00 Euro,
 

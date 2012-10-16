@@ -455,9 +455,8 @@ entsprechend.
 die von dem oder der Vorsitzenden sowie mindestens einem weiteren
 Mitglied des Wahlvorstandes unterschrieben wird. Die Niederschrift muß
 die Zahl der abgegebenen gültigen und ungültigen Stimmzettel, die auf
-jeden Bewerber und jede Bewerberin entfallenen Stimmenzahlen
-Stimmenzahlen sowie die Namen der gewählten Bewerber und Bewerberinnen
-enthalten.
+jeden Bewerber und jede Bewerberin entfallenen Stimmenzahlen sowie die
+Namen der gewählten Bewerber und Bewerberinnen enthalten.
 
 
 #### § 14 Benachrichtigung der Gewählten und Annahme der Wahl
@@ -556,7 +555,7 @@ trifft Vorkehrungen, daß die Wähler und Wählerinnen ihre Stimme
 unbeobachtet abgeben können; § 9 Abs. 4 gilt entsprechend. Der Wähler
 oder die Wählerin übergibt den Wahlumschlag, in den der Stimmzettel
 eingelegt ist, der Wahlleitung. Diese legt den Wahlumschlag in
-Gegenwart des Wählers oder der Wählerin ungeöffnet in in einen dafür
+Gegenwart des Wählers oder der Wählerin ungeöffnet in einen dafür
 bestimmten Behälter und hält den Namen des Wählers oder der Wählerin
 in einer Liste fest. Unverzüglich nach Beendigung der Wahlhandlung
 zählt er öffentlich die Stimmen aus und stellt das Ergebnis fest.

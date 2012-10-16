@@ -4276,8 +4276,8 @@ einen höheren räumlichen Versorgungsgrad mit den entsprechenden
 Telekommunikationsdiensten gewährleistet.
 
 (6) Verpflichtungen, die Antragsteller im Laufe eines Versteigerungs-
-oder Ausschreibungsverfahrens eingegangen sind, werden werden
-Bestandteile der Frequenzzuteilung.
+oder Ausschreibungsverfahrens eingegangen sind, werden Bestandteile
+der Frequenzzuteilung.
 
 (7) Bei einem Versteigerungsverfahren nach Absatz 4 oder einem
 Ausschreibungsverfahren nach Absatz 5 kann die in § 55 Abs. 4 genannte

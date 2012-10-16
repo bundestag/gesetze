@@ -77,7 +77,7 @@ und Amtsbezeichnungen:
 
     *   Hauptbrandmeisterin/ Hauptbrandmeister
 
-    *   im zweiten zweiten Beförderungsamt.
+    *   im zweiten Beförderungsamt.
 
 
 

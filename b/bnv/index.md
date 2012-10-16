@@ -406,10 +406,10 @@ zu entrichten.
 
 ### § 13 Festsetzung des Entgelts
 
-(1) Das zu zahlende Entgelt wird von der für die Genehmigung nach nach
-§ 9 Abs. 1 zuständigen oder der von ihr mit seiner Berechnung
-beauftragten Stelle nach dem Ende der Inanspruchnahme, mindestens
-jedoch halbjährlich festgesetzt. Ist die Höhe des Entgelts bereits im
+(1) Das zu zahlende Entgelt wird von der für die Genehmigung nach § 9
+Abs. 1 zuständigen oder der von ihr mit seiner Berechnung beauftragten
+Stelle nach dem Ende der Inanspruchnahme, mindestens jedoch
+halbjährlich festgesetzt. Ist die Höhe des Entgelts bereits im
 Zeitpunkt der Genehmigung zu übersehen, so soll das Entgelt zugleich
 mit der Genehmigung festgesetzt werden. Das Entgelt wird einen Monat
 nach der Festsetzung fällig, im Falle des Satzes 2 einen Monat nach

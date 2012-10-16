@@ -257,5 +257,5 @@ Die Stiftung führt ein Dienstsiegel.
 
 ## § 13 Inkrafttreten
 
-Dieses Gesetz tritt am Tage nach der Verkündung in in Kraft.
+Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

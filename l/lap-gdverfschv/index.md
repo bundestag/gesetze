@@ -55,8 +55,8 @@ und Amtsbezeichnungen:
 
     *   in der Probezeit bis zur Anstellung
 
-    *   Regierungsinspektorin zur zur Anstellung (z. A.)/ Regierungsinspektor
-        zur Anstellung (z. A.),
+    *   Regierungsinspektorin zur Anstellung (z. A.)/ Regierungsinspektor zur
+        Anstellung (z. A.),
 
 
 *    *   3.

@@ -226,7 +226,7 @@ werden
 
 Unterlagen, die aus den in Satz 1 Nr. 2 aufgeführten Gründen nicht
 vernichtet wurden, sind in jedem Fall spätestens nach Ablauf von drei
-Jahren seit iher Entstehung zu vernichten, es sei denn, sie würden
+Jahren seit ihrer Entstehung zu vernichten, es sei denn, sie würden
 inzwischen zu dem in Satz 1 Nr. 1 aufgeführten Zweck benötigt.
 
 (3) Die Befugnisse zur Erhebung personenbezogener Informationen nach
