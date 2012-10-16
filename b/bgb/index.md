@@ -12003,7 +12003,7 @@ Bürgerlichen Gesetzbuche bestimmten Angaben enthalten.
 (4) Der Reiseveranstalter kann den Reisepreis nur erhöhen, wenn dies
 mit genauen Angaben zur Berechnung des neuen Preises im Vertrag
 vorgesehen ist und damit einer Erhöhung der Beförderungskosten, der
-Abgaben für bestimmte Leistungen, die Hafen- oder Flughafengebühren,
+Abgaben für bestimmte Leistungen, wie Hafen- oder Flughafengebühren,
 oder einer Änderung der für die betreffende Reise geltenden
 Wechselkurse Rechnung getragen wird. Eine Preiserhöhung, die ab dem
 20\. Tage vor dem vereinbarten Abreisetermin verlangt wird, ist
@@ -12011,7 +12011,7 @@ unwirksam. § 309 Nr. 1 bleibt unberührt.
 
 (5) Der Reiseveranstalter hat eine Änderung des Reisepreises nach
 Absatz 4, eine zulässige Änderung einer wesentlichen Reiseleistung
-oder eine zulässig Absage der Reise dem Reisenden unverzüglich nach
+oder eine zulässige Absage der Reise dem Reisenden unverzüglich nach
 Kenntnis von dem Änderungs- oder Absagegrund zu erklären. Im Falle
 einer Erhöhung des Reisepreises um mehr als fünf vom Hundert oder
 einer erheblichen Änderung einer wesentlichen Reiseleistung kann der
