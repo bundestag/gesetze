@@ -475,22 +475,30 @@ mindestens folgende Anforderungen erfüllen:
 
 4.  Das Standardmaterial von
 
-    a)  Obstpflanzen muss einer Sorte oder Pflanzengruppe nach § 3a Abs. 1 Nr.
-        2 des Saatgutverkehrsgesetzes,
+    a)  Obstpflanzen muss
+
+        aa) einer Sorte oder Pflanzengruppe nach § 3a Absatz 1 Nummer 2 Buchstabe
+            a des Saatgutverkehrsgesetzes zugehören oder
 
 
-    b)  Gemüsepflanzen muss einer Sorte nach § 3a Abs. 1 Nr. 3 des
-        Saatgutverkehrsgesetzes oder
+        bb) über eine Bezeichnung und Beschreibung verfügen, die dem
+            Bundessortenamt vorgelegt worden ist,
+
+
+
+
+
+    b)  Gemüsepflanzen muss einer Sorte nach § 3a Absatz 1 Nummer 3 des
+        Saatgutverkehrsgesetzes zugehören,
 
 
     c)  Zierpflanzen, das mit einer Bezugnahme auf eine Sorte oder
         Pflanzengruppe in Verkehr gebracht wird, muss einer Sorte oder
-        Pflanzengruppe nach § 3a Abs. 1 Nr. 2 des Saatgutverkehrsgesetzes
+        Pflanzengruppe nach § 3a Absatz 1 Nummer 2 des Saatgutverkehrsgesetzes
+        zugehören.
 
 
 
-
-    zugehören.
 
 
 5.  Das Standardmaterial darf keine Mängel aufweisen, die seinen
@@ -499,7 +507,9 @@ mindestens folgende Anforderungen erfüllen:
 
 
 
-(5) (weggefallen)
+(5) Das Bundessortenamt macht die Sorten oder Pflanzengruppen nach
+Absatz 4 Nummer 4 Buchstabe a, deren Bezeichnungen und Beschreibungen
+ihm vorgelegt worden sind, bekannt.
 
 
 ### Unterabschnitt 2 - Anerkanntes Anbaumaterial von Kern- und Steinobst
