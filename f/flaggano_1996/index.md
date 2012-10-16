@@ -113,8 +113,34 @@ Der Bundespräsident
 
 ## Anhang 1 Flaggen der Bundesrepublik Deutschland
 
-(Inhalt: nicht darstellbare Abbildungen,
-Fundstelle: BGBl. I 1996, S. 1730)
+(Fundstelle: BGBl. I 1996, S. 1730)
+
+
+*    *        ![bgbl1_1996_j1730_0010.jpg](bgbl1_1996_j1730_0010.jpg)
+
+*    *   Standarte des Bundespräsidenten
+
+
+*    *
+
+*    *        ![bgbl1_1996_j1730_0020.jpg](bgbl1_1996_j1730_0020.jpg)
+    *        ![bgbl1_1996_j1730_0030.jpg](bgbl1_1996_j1730_0030.jpg)
+
+*    *   Bundesflagge
+
+    *   Bundesdienstflagge
+
+
+*    *
+
+*    *        ![bgbl1_1996_j1730_0040.jpg](bgbl1_1996_j1730_0040.jpg)
+    *        ![bgbl1_1996_j1730_0050.jpg](bgbl1_1996_j1730_0050.jpg)
+
+*    *   Bundesflagge in Bannerform
+
+    *   Bundesdienstflagge in Bannerform
+
+
 
 
 ## Anhang 2
@@ -298,6 +324,39 @@ sie die Vertretung ausüben.
 
 ## Anhang 3 Flaggen für Dienstkraftfahrzeuge
 
-(Inhalt: nicht darstellbare Abbildungen,
-Fundstelle: BGBl. I 1996, S. 1732)
+
+*    *        ![bgbl1_1996_j1732_0010.jpg](bgbl1_1996_j1732_0010.jpg)
+    *        ![bgbl1_1996_j1732_0020.jpg](bgbl1_1996_j1732_0020.jpg)
+
+*    *   Muster I
+
+    *   Muster II
+
+
+*    *
+
+*    *        ![bgbl1_1996_j1732_0030.jpg](bgbl1_1996_j1732_0030.jpg)
+    *        ![bgbl1_1996_j1732_0040.jpg](bgbl1_1996_j1732_0040.jpg)
+
+*    *   Muster III
+
+    *   Muster IV
+
+
+*    *
+
+*    *        ![bgbl1_1996_j1732_0050.jpg](bgbl1_1996_j1732_0050.jpg)
+    *        ![bgbl1_1996_j1732_0060.jpg](bgbl1_1996_j1732_0060.jpg)
+
+*    *   Muster V
+
+    *   Muster VI
+
+
+*    *
+    *
+
+*    *   Maßangaben in Zentimetern
+
+
 
