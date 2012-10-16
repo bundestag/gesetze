@@ -1730,7 +1730,7 @@ zu erwarten ist.
 
 
     x)  die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung oder
-        anderen gleichwertigen Vor schriften der Moseluferstaaten
+        anderen gleichwertigen Vorschriften der Moseluferstaaten
         erforderlichen Kopien des Typgenehmigungsbogens und des
         Motorparameterprotokolls eines jeden Motors,
 
