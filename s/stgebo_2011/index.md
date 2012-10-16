@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 5 V v. 26.6.2012 I 1394
+:   Art. 1 V v. 31.8.2012 I 1889
 
 
 ## Eingangsformel
@@ -341,7 +341,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   111.1
 
     *
-    *   einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung für
+    *   einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung
+        (Mehrphasen-Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für
         Fahrzeugtypen bei Vorlage aller relevanten Systemgenehmigungen nach
         Einzelrichtlinien
 
@@ -351,19 +352,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   111.1.1
 
     *
-    *   einer EG-Typgenehmigung für Fahrzeugtypen ohne Vorlage aller
-        relevanten Systemgenehmigungen nach Einzelrichtlinien
+    *   einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte
+        Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen ohne
+        Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien
 
-    *   2 812,00 bis 4 857,00
+    *   785,00 bis 4 853,00
 
 
 *    *   111.2
 
     *
-    *   einer Allgemeinen Betriebserlaubnis (ABE) oder Allgemeinen
+    *   einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen
         Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie einer Erlaubnis
-        oder Genehmigung für technische Einheiten oder für Fahrzeugtypen
-        hinsichtlich eines Bauteils oder Fahrzeugmerkmals (Systemgenehmigung),
+        oder Genehmigung für selbstständige technische Einheiten,
         Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder
         Genehmigungssachverhalt
 
@@ -414,8 +415,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   112.1.3
 
     *
-    *   zu einer EG-Typgenehmigung für einen Fahrzeugtyp ohne Vorlage aller
-        relevanten Systemgenehmigungen nach Einzelrichtlinien
+    *   zu einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte
+        Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für einen Fahrzeugtyp
+        ohne Vorlage aller relevanten Systemgenehmigungen nach
+        Einzelrichtlinien
 
     *   169,00 bis 2 429,00
 
@@ -423,12 +426,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   112.2
 
     *
-    *   zu einer Allgemeinen Betriebserlaubnis (ABE) oder Allgemeinen
+    *   zu einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen
         Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie zu einer
-        Erlaubnis oder Genehmigung für technische Einheiten oder für
-        Fahrzeugtypen hinsichtlich eines Bauteils oder Fahrzeugmerkmals
-        (Systemgenehmigung), Autorisierung sowie nach Anlagen zur StVZO; je
-        Erlaubnis- oder Genehmigungssachverhalt
+        Erlaubnis oder Genehmigung für selbstständige technische Einheiten,
+        Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder
+        Genehmigungssachverhalt
 
     *
 
@@ -496,13 +498,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   **1a.**
 
-    *   **Anerkennung und Akkreditierung von Stellen zur Prüfung, Inspektion
-        und Begutachtung von Fahrzeugen und Fahrzeugteilen, Akkreditierung von
-        Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von
-        Fahrzeugen und Fahrzeugteilen, behördliche Bewertung von
-        qualitätssichernden Maßnahmen, Anfangsbewertung und Überprüfung der
-        Übereinstimmung der Produktion, Zertifizierung von Qualitäts- und
-        Sicherheitsmanagement-Systemen**
+    *   **Anerkennung von Stellen zur Prüfung von Fahrzeugen und
+        Fahrzeugteilen, Anerkennung von Stellen zur Kontrolle des
+        Qualitätsmanagements bei der Herstellung von Fahrzeugen und
+        Fahrzeugteilen, behördliche Bewertung von Maßnahmen zum Qualitäts- und
+        Sicherheitsmanagement bei der Produktion von Fahrerkarte, Führerschein
+        und Zulassungsbescheinigung, Anfangsbewertung und Überprüfung der
+        Übereinstimmung der Produktion**
 
     *
 
@@ -557,15 +559,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   116
 
     *
-    *   Akkreditierung von Stellen zur Prüfung/Inspektion/Begutachtung von
-        Fahrzeugen und Fahrzeugteilen
+    *   Anerkennung von Stellen als Technischer Dienst im
+        Genehmigungsverfahren nach EG-FGV
 
     *
 
 *    *   116.1
 
     *
-    *   Akkreditierung (ohne Begutachtung und Reisezeit)
+    *   Anerkennung (ohne Begutachtung und Reisezeit)
 
     *   7 669,00 bis 41 517,00
 
@@ -573,7 +575,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   116.2
 
     *
-    *   Nachtrag zur Akkreditierung (ohne Begutachtung und Reisezeit)
+    *   Nachtrag zur Anerkennung (ohne Begutachtung und Reisezeit)
 
     *   4 090,00 bis 20 758,00
 
@@ -597,7 +599,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   116.5
 
     *
-    *   Re-Akkreditierung (ohne Begutachtung und Reisezeit)
+    *   Re-Anerkennung (ohne Begutachtung und Reisezeit)
 
     *   2 556,00 bis 9 715,00
 
@@ -605,15 +607,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   117
 
     *
-    *   Akkreditierung von Stellen zur Kontrolle des Qualitätsmanagements bei
-        der Herstellung von Fahrzeugen und Fahrzeugteilen
+    *   Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der
+        Herstellung von Fahrzeugen und Fahrzeugteilen
 
     *
 
 *    *   117.1
 
     *
-    *   Akkreditierung (ohne Begutachtung und Reisezeit)
+    *   Anerkennung (ohne Begutachtung und Reisezeit)
 
     *   7 158,00 bis 20 452,00
 
@@ -621,7 +623,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   117.2
 
     *
-    *   Nachtrag zur Akkreditierung (ohne Begutachtung und Reisezeit)
+    *   Nachtrag zur Anerkennung (ohne Begutachtung und Reisezeit)
 
     *   3 579,00 bis 7 669,00
 
@@ -645,7 +647,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   117.5
 
     *
-    *   Re-Akkreditierung (ohne Begehung und Reisezeit)
+    *   Re-Anerkennung (ohne Begehung und Reisezeit)
 
     *   4 090,00 bis 10 226,00
 
@@ -662,16 +664,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119
 
     *
-    *   Anfangsbewertung von Fertigungsstätten im Rahmen des Verfahrens für
-        Typgenehmigungen, Bewertung von qualitätssichernden Maßnahmen bei der
-        Umsetzung von speziellen Richtlinien
+    *   Bewertung der qualitätssichernden Maßnahmen bei Herstellern im Rahmen
+        des Typgenehmigungsverfahrens (Anfangsbewertung und laufende
+        Konformitätsprüfungen)
 
     *
 
 *    *   119.1
 
     *
-    *   Herstellerbericht für Unternehmen mit einer Fertigungsstätte
+    *   Konformitätsbericht für Unternehmen mit einer Fertigungsstätte
 
     *   716,00
 
@@ -679,7 +681,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119.2
 
     *
-    *   Herstellerbericht je weitere Fertigungsstätte
+    *   Konformitätsbericht je weitere Fertigungsstätte
 
     *   562,00
 
@@ -687,7 +689,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119.3
 
     *
-    *   Erstmalige Verifizierung (ohne Audit und Reisezeit)
+    *   Vorprüfung gemäß Recyclingrichtlinie
 
     *   1 278,00 bis 8 181,00
 
@@ -695,8 +697,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119.4
 
     *
-    *   Verifizierung im Wiederholungsfall/Überwachung (ohne Audit und
-        Reisezeit)
+    *   Verlängerung der Vorprüfungsbescheinigung
 
     *   614,00 bis 2 965,00
 
@@ -707,7 +708,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bewertung der an Herstellung oder Verteilung von
         Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln oder
         Plaketten und Prüfmarken oder anderen Dokumenten beteiligten
-        Unternehmen (ohne Audit und Reisezeit)
+        Unternehmen
 
     *   2 659,00 bis 3 477,00
 
@@ -715,7 +716,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119.6
 
     *
-    *   Bewertung von Überwachungsorganisationen (ohne Audit und Reisezeit)
+    *   Bewertung von Überwachungsorganisationen
 
     *   5 062,00 bis 6 442,00
 
@@ -726,7 +727,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Überwachung der an Herstellung oder Verteilung von
         Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln oder
         Plaketten und Prüfmarken oder anderen Dokumenten beteiligten
-        Unternehmen (ohne Audit und Reisezeit)
+        Unternehmen
 
     *   1 483,00 bis 1 892,00
 
@@ -734,7 +735,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119.8
 
     *
-    *   Überwachung von Überwachungsorganisationen (ohne Audit und Reisezeit)
+    *   Überwachung von Überwachungsorganisationen
 
     *   1 892,00 bis 2 914,00
 
@@ -742,54 +743,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   119.9
 
     *
-    *   Stundensatz für Audit für Maßnahmen nach den Gebührennummern 119.3 bis
-        119\.8
+    *   (weggefallen)
 
-    *   84,40
-
+    *
 
 *    *   120
 
     *
-    *   Zertifizierung von Qualitätsmanagement-Systemen im Rahmen des
-        Verfahrens für Typgenehmigungen und qualitätssichernden Maßnahmen bei
-        der Umsetzung von speziellen Richtlinien
+    *   Zulassung zur Selbstprüfung für Hersteller von Kleinserienfahrzeugen
 
     *
 
 *    *   120.1
 
     *
-    *   Zertifizierung (ohne Audit und Reisezeit)
+    *   Feststellen der Eignung und Zulassung zur Selbstprüfung (ohne
+        Begutachtung von Prüfverfahren)
 
-    *   1 790,00 bis 10 788,00
+    *   3 120,00
 
 
 *    *   120.2
 
     *
-    *   Überwachung (ohne Audit und Reisezeit) sowie Überwachung mit
-        Zertifikatserweiterung (ohne Audit und Reisezeit)
+    *   Überwachung (ohne Begutachtung von Prüfverfahren)
 
-    *   818,00 bis 5 931,00
+    *   1 270,00
 
 
 *    *   120.3
 
     *
-    *   Re-Zertifizierung (ohne Audit und Reisezeit) sowie Re-
-        Zertifizierung                      mit Zertifikatserweiterung (ohne
-        Audit und Reisezeit)
+    *   Begutachtung je Prüfverfahren
 
-    *   1 278,00 bis 7 209,00
+    *   195,00
 
 
 *    *   120.4
 
     *
-    *   Stundensatz für Audit nach den Gebührennummern 120.1 bis 120.3
+    *   Stundensatz für Nachträge, Erweiterungen oder Änderungen der Urkunde
+        in Sprache oder Format
 
-    *   84,40
+    *   97,10
 
 
 *    *   121
@@ -832,7 +828,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Aufstellung oder Berichtigung von Erfassungsunterlagen für das
         Zentrale Fahrzeugregister (ZFZR)
         – bei Fahrzeugen ohne Zulassungsbescheinigung Teil II
-        – bei der Ausgabe der roten Kennzeichen
+        – bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichen
         – bei Berichtigung der Erfassungsunterlagen bei Halterwechsel
 
     *   2,60
@@ -907,48 +903,60 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Auskunft über ein Kraftfahrzeug oder einen Anhänger
 
-    *   10,20
+    *
+
+*    *   141.1
+
+    *
+    *   – im automatisierten Verfahren
+
+    *   0,10
+
+
+*    *   141.2
+
+    *
+    *   – im teilautomatisierten Verfahren (digitalisierte, formatgerechte
+        Anfragen)
+
+    *   4,00
+
+
+*    *   141.3
+
+    *
+    *   – im schriftlichen Verfahren
+
+    *   5,10
 
 
 *    *   142
 
     *
-    *   Auskunft über ein Kraftfahrzeug oder einen Anhänger an die
-        Auskunftsstelle nach § 8a des Pflichtversicherungsgesetzes
+    *   Sammelauskünfte im Rahmen von Rückrufaktionen
 
     *
 
 *    *   142.1
 
     *
-    *   – im automatisierten Abrufverfahren gemäß § 36 Absatz 3a StVG
+    *   – bei erstmaliger Durchführung
 
-    *   0,30
+    *   1 500,00 bis 5 000,00
 
 
 *    *   142.2
 
     *
-    *   – in anderen Verfahren
+    *   – im Wiederholungsfall
 
-    *   3,10
-
-
-*    *   143
-
-    *
-    *   Auskunft über ein Kraftfahrzeug oder einen Anhänger an
-        Fahrzeughersteller oder Importeure von Fahrzeugen oder deren
-        Rechtsnachfolger gemäß § 35 Absatz 2 Nummer 1a StVG im automatisierten
-        Verfahren
-
-    *   0,10
+    *   1 000,00 bis 4 000,00
 
 
 *    *   144
 
     *
-    *   Auskunft über den Verbleib eines Fahrzeugs
+    *   Schriftliche Auskunft über den Verbleib eines Fahrzeugs
 
     *   6,10
 
@@ -958,7 +966,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Auskunft aus dem Verkehrszentralregister an eine Behörde in
         Fahrerlaubnisangelegenheiten und sonstigen in § 30 Absatz 1 Nummer 3,
-        Absatz 2 und 4 StVG aufgeführten Verwaltungsmaßnahmen, sofern sie
+        Absatz 2, 4 und 4a StVG aufgeführten Verwaltungsmaßnahmen, sofern sie
         durch einen Antragsteller veranlasst werden
 
     *   3,30
@@ -1288,7 +1296,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuteilung eines Zertifikats für eine Fahrzeugeinheit als eine
         Komponente des digitalen Kontrollgeräts
 
-    *   1,30
+    *   1,20
 
 
 *    *   182.2
@@ -1297,7 +1305,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuteilung eines kryptographischen Schlüssels für einen Weg- und
         Geschwindigkeitsgeber als eine Komponente des digitalen Kontrollgeräts
 
-    *   0,80
+    *   0,65
 
 
 *    *
@@ -1327,7 +1335,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001005308]
+[^F1.774775_01_BJNR009800011BJNE001007140]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -3841,7 +3849,7 @@ und der Sehteststellen
 
 *    *
     *
-    *[^F1.774775_02_BJNR009800011BJNE001005308]
+    *[^F1.774775_02_BJNR009800011BJNE001007140]
    Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV
 
     *
@@ -3855,18 +3863,18 @@ und der Sehteststellen
 
     *   Änderungsabnahme nach § 19 Absatz 3 StVZO
 
-    *[^F1.774775_04_BJNR009800011BJNE001005308]
+    *[^F1.774775_04_BJNR009800011BJNE001007140]
    Hauptuntersuchung (HU) nach § 29 StVZO
-[^F1.774775_05_BJNR009800011BJNE001005308]
-[^F1.774775_06_BJNR009800011BJNE001005308]
-[^F1.774775_07_BJNR009800011BJNE001005308]
-[^F1.774775_08_BJNR009800011BJNE001005308]
-[^F1.774775_09_BJNR009800011BJNE001005308]
+[^F1.774775_05_BJNR009800011BJNE001007140]
+[^F1.774775_06_BJNR009800011BJNE001007140]
+[^F1.774775_07_BJNR009800011BJNE001007140]
+[^F1.774775_08_BJNR009800011BJNE001007140]
+[^F1.774775_09_BJNR009800011BJNE001007140]
 
     *   Sicherheitsprüfung (SP) nach § 29 StVZO
 
 
-*    *[^F1.774775_03_BJNR009800011BJNE001005308]
+*    *[^F1.774775_03_BJNR009800011BJNE001007140]
    Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23
         StVZO
 
@@ -4523,22 +4531,22 @@ und der Sehteststellen
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001005308]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+[^F1.774775_01_BJNR009800011BJNE001007140]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
     EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F1.774775_02_BJNR009800011BJNE001005308]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F1.774775_02_BJNR009800011BJNE001007140]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F1.774775_03_BJNR009800011BJNE001005308]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F1.774775_03_BJNR009800011BJNE001007140]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
     zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F1.774775_04_BJNR009800011BJNE001005308]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F1.774775_04_BJNR009800011BJNE001007140]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -4546,11 +4554,11 @@ und der Sehteststellen
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F1.774775_05_BJNR009800011BJNE001005308]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F1.774775_05_BJNR009800011BJNE001007140]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F1.774775_06_BJNR009800011BJNE001005308]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F1.774775_06_BJNR009800011BJNE001007140]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
@@ -4560,13 +4568,13 @@ und der Sehteststellen
     Nummer 1.2.1.2 der Anlage VIII StVZO genannten Kraftfahrzeugen
     entfällt eine Überprüfung der Abgase nach Nummer 4.8.2 der Anlage
     VIIIa StVZO).
-[^F1.774775_07_BJNR009800011BJNE001005308]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+[^F1.774775_07_BJNR009800011BJNE001007140]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F1.774775_08_BJNR009800011BJNE001005308]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F1.774775_08_BJNR009800011BJNE001007140]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F1.774775_09_BJNR009800011BJNE001005308]: 
+[^F1.774775_09_BJNR009800011BJNE001007140]: 
