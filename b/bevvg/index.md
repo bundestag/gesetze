@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2394
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 124 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 12.9.2012 I 1884
 
 
 ## § 1 Zuständige Behörden
@@ -157,6 +157,11 @@ Bundeseisenbahnvermögens im Sinne des § 3 Abs. 1 Nr. 2 des Gesetzes
 zur Zusammenführung und Neugliederung der Bundeseisenbahnen
 wahrgenommen worden sind, gehen diese Aufgaben mit der Errichtung des
 Eisenbahn-Bundesamts auf dieses Amt über.
+
+(1a) Das Eisenbahn-Bundesamt ist die Sicherheitsbehörde nach § 5
+Absatz 1e Satz 2 des Allgemeinen Eisenbahngesetzes, die mit den
+Aufgaben der Eisenbahnsicherheit im Sinne des Rechts der Europäischen
+Gemeinschaften oder der Europäischen Union betraut ist.
 
 (2) Im Planfeststellungsverfahren hat das Eisenbahn-Bundesamt die
 Pläne für den Bau neuer oder die Änderung bestehender Betriebsanlagen

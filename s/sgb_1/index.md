@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 3015
 
-Stand: Zuletzt geändert Art. 13 Abs. 14 G v. 12.4.2012 I 579
+Stand: Zuletzt geändert Art. 1b G v. 10.9.2012 I 1878
 
 ## Erster Abschnitt - Aufgaben des Sozialgesetzbuchs und soziale Rechte
 
@@ -1377,8 +1377,8 @@ entspricht.
 2.  Mutterschaftsgeld nach § 13 Abs. 1 des Mutterschutzgesetzes, soweit
     das Mutterschaftsgeld nicht aus einer Teilzeitbeschäftigung während
     der Elternzeit herrührt, bis zur Höhe des Erziehungsgeldes nach § 5
-    Abs. 1 des Bundeserziehungsgeldgesetzes oder des Elterngeldes nach § 2
-    des Bundeselterngeld- und Elternzeitgesetzes, soweit es die
+    Abs. 1 des Bundeserziehungsgeldgesetzes oder des Elterngeldes nach dem
+    Bundeselterngeld- und Elternzeitgesetz, soweit es die
     anrechnungsfreien Beträge nach § 10 des Bundeselterngeld- und
     Elternzeitgesetzes nicht übersteigt,
 
