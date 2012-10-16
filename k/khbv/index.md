@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.3.1987 I 1045
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.6.2011 I 1041
+:   Art. 5 G v. 21.7.2012 I 1613
 
 
 ## § 1 Anwendungsbereich
