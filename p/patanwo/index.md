@@ -1053,7 +1053,7 @@ befriedigt ist. Dies gilt nicht, soweit die Vorenthaltung der
 Handakten oder einzelner Schriftstücke nach den Umständen unangemessen
 wäre.
 
-(3) Handakten im Sinne der Absätze 2 und 3 dieser Bestimmung sind nur
+(4) Handakten im Sinne der Absätze 2 und 3 dieser Bestimmung sind nur
 die Schriftstücke, die der Patentanwalt aus Anlaß seiner beruflichen
 Tätigkeit von dem Auftraggeber oder für ihn erhalten hat, nicht aber
 der Briefwechsel zwischen dem Patentanwalt und seinem Auftraggeber und
