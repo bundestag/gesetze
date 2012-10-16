@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 427
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.12.2010 BAnz 2010 Nr. 194, 4262
+:   Art. 2 V v. 14.9.2012 I 2017
 
 
 ## § 1 Geltungsbereich
