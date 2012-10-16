@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2011-12-16
 
 Fundstelle
-:   BGBl I: 2012, 2 [Anlageband]
+:   BGBl I: 2012, 2 (1666) [Anlageband]
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -9131,12 +9131,18 @@ Schleppverbandes hineinzufahren.
     *        *   Die benutzte Hauptwasserstraße trifft auf eine von Steuerbord
             einmündende Nebenwasserstraße.
 
-        *            ![bgbl1_2012_j0001_0116_ab1.jpg](bgbl1_2012_j0001_0116_ab1.jpg)
+        *   E.9b
+
+
+    *        *            ![bgbl1_2012_j1666-1_0020.jpg](bgbl1_2012_j1666-1_0020.jpg)
 
     *        *   Die benutzte Hauptwasserstraße trifft auf eine von Backbord
             einmündende Nebenwasserstraße.
 
-        *            ![bgbl1_2012_j0001_0117_ab1.jpg](bgbl1_2012_j0001_0117_ab1.jpg)
+        *   E.9c
+
+
+    *        *            ![bgbl1_2012_j1666-1_0040.jpg](bgbl1_2012_j1666-1_0040.jpg)
 
     *        *   Die benutzte Nebenwasserstraße trifft auf eine von beiden Seiten
             einmündende Hauptwasserstraße.
@@ -11437,7 +11443,7 @@ durchgeführt werden, muss bei Tag und bei Nacht außer der nach dieser
 Verordnung vorgeschriebenen Bezeichnung führen:
 
 *    *   eine weiß-blaue Flagge
-        (Flagge „Alpha“ des inter-
+        (Flagge „Alpha“ des Inter-
         nationalen Signalbuchs).
 
     *        ![bgbl1_2012_j0001_0200_ab1.jpg](bgbl1_2012_j0001_0200_ab1.jpg)
@@ -19355,7 +19361,7 @@ Abladetiefen nicht überschreiten:
     *
     *   Solltiefe im unteren Schleusenkanal der Schleuse Bremen bis zur
         Eisenbahnbrücke in Bremen (ohne Kleine Weser) 2,50 m, bezogen auf
-        Seekarten-Null
+        Seekartennull
 
 
 *    *   1.1.4
@@ -19364,7 +19370,7 @@ Abladetiefen nicht überschreiten:
     *
     *
     *   Solltiefe im unteren Schleusenkanal der Kleinschifffahrtsschleuse 2,00
-        m, bezogen auf Seekarten-Null
+        m, bezogen auf Seekartennull
 
 
 *    *   2.
@@ -36972,7 +36978,8 @@ werden.
     *
     *
 
-*    *
+*    *   A.11
+
     *   Verbot der Einfahrt, die Vorbereitungen zur
         Fortsetzung der Fahrt sind jedoch zu treffen
         (§ 6.28a Nummer 2 Satz 1 Buchstabe c)
@@ -37775,12 +37782,53 @@ werden.
 
 *    *   E.5.9
 
-    *   Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der
-        Schubschifffahrt,
-        das die Bezeichnung nach § 3.14 Nummer 1 führen muss
-        (§ 7.06 Nummer 1)
+    *   Die benutzte Hauptwasserstraße trifft auf eine von beiden Seiten
+        einmündende Nebenwasserstraße
+        (§ 6.16 Nummer 1 Satz 3 und 4)
 
-    *        ![bgbl1_2012_j0001_0390_ab1.jpg](bgbl1_2012_j0001_0390_ab1.jpg)
+    *
+        a)            ![bgbl1_2012_j1666-1_0050.jpg](bgbl1_2012_j1666-1_0050.jpg)
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die benutzte Hauptwasserstraße trifft auf eine von Steuerbord
+        einmündende Nebenwasserstraße
+        (§ 6.16 Nummer 1 Satz 3 und 5)
+
+    *
+        b)            ![bgbl1_2012_j1666-1_0060.jpg](bgbl1_2012_j1666-1_0060.jpg)
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die benutzte Hauptwasserstraße trifft auf eine von Backbord
+        einmündende Nebenwasserstraße
+        (§ 6.16 Nummer 1 Satz 3 und 6)
+
+    *
+        c)            ![bgbl1_2012_j1666-1_0070.jpg](bgbl1_2012_j1666-1_0070.jpg)
+
+
+
 
 *    *
     *
