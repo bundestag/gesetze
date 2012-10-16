@@ -508,7 +508,7 @@ dem Richter mit.
 
 ##### § 26 Widerruf der Strafaussetzung
 
-(1) Der Richter widerruft die Aussetzung der Jugendstrafe, wenn der
+(1) Das Gericht widerruft die Aussetzung der Jugendstrafe, wenn der
 Jugendliche
 
 1.  in der Bewährungszeit eine Straftat begeht und dadurch zeigt, daß die
@@ -528,9 +528,11 @@ Jugendliche
 
 Satz 1 Nr. 1 gilt entsprechend, wenn die Tat in der Zeit zwischen der
 Entscheidung über die Strafaussetzung und deren Rechtskraft begangen
-worden ist.
+worden ist. Wurde die Jugendstrafe nachträglich durch Beschluss
+ausgesetzt, ist auch § 57 Absatz 5 Satz 2 des Strafgesetzbuches
+entsprechend anzuwenden.
 
-(2) Der Richter sieht jedoch von dem Widerruf ab, wenn es ausreicht,
+(2) Das Gericht sieht jedoch von dem Widerruf ab, wenn es ausreicht,
 
 1.  weitere Weisungen oder Auflagen zu erteilen,
 
@@ -547,7 +549,7 @@ worden ist.
 
 (3) Leistungen, die der Jugendliche zur Erfüllung von Weisungen,
 Auflagen, Zusagen oder Anerbieten (§ 23) erbracht hat, werden nicht
-erstattet. Der Richter kann jedoch, wenn er die Strafaussetzung
+erstattet. Das Gericht kann jedoch, wenn es die Strafaussetzung
 widerruft, Leistungen, die der Jugendliche zur Erfüllung von Auflagen
 oder entsprechenden Anerbieten erbracht hat, auf die Jugendstrafe
 anrechnen.
@@ -1309,15 +1311,18 @@ beanstandet worden sind.
 
 (1) Die Aussetzung der Jugendstrafe zur Bewährung wird im Urteil oder,
 solange der Strafvollzug noch nicht begonnen hat, nachträglich durch
-Beschluß angeordnet. Für den nachträglichen Beschluß ist der Richter
-zuständig, der in der Sache im ersten Rechtszug erkannt hat; der
-Staatsanwalt und der Jugendliche sind zu hören.
+Beschluß angeordnet. Ist die Entscheidung über die Aussetzung nicht im
+Urteil vorbehalten worden, so ist für den nachträglichen Beschluss das
+Gericht zuständig, das in der Sache im ersten Rechtszug erkannt hat;
+die Staatsanwaltschaft und der Jugendliche sind zu hören.
 
-(2) Hat der Richter die Aussetzung im Urteil abgelehnt, so ist ihre
-nachträgliche Anordnung nur zulässig, wenn seit Erlaß des Urteils
-Umstände hervorgetreten sind, die allein oder in Verbindung mit den
-bereits bekannten Umständen eine Aussetzung der Jugendstrafe zur
-Bewährung rechtfertigen.
+(2) Hat das Gericht die Entscheidung über die Aussetzung nicht einem
+nachträglichen Beschluss vorbehalten oder die Aussetzung im Urteil
+oder in einem nachträglichen Beschluss abgelehnt, so ist ihre
+nachträgliche Anordnung nur zulässig, wenn seit Erlaß des Urteils oder
+des Beschlusses Umstände hervorgetreten sind, die allein oder in
+Verbindung mit den bereits bekannten Umständen eine Aussetzung der
+Jugendstrafe zur Bewährung rechtfertigen.
 
 (3) Kommen Weisungen oder Auflagen (§ 23) in Betracht, so ist der
 Jugendliche in geeigneten Fällen zu befragen, ob er Zusagen für seine
@@ -1399,9 +1404,102 @@ und Auflagen nachkommen will. Auch der Erziehungsberechtigte und der
 gesetzliche Vertreter sollen den Bewährungsplan unterzeichnen.
 
 
-###### § 61
+###### § 61 Vorbehalt der nachträglichen Entscheidung über die Aussetzung
 
-(weggefallen)
+(1) Das Gericht kann im Urteil die Entscheidung über die Aussetzung
+der Jugendstrafe zur Bewährung ausdrücklich einem nachträglichen
+Beschluss vorbehalten, wenn
+
+1.  nach Erschöpfung der Ermittlungsmöglichkeiten die getroffenen
+    Feststellungen noch nicht die in § 21 Absatz 1 Satz 1 vorausgesetzte
+    Erwartung begründen können und
+
+
+2.  auf Grund von Ansätzen in der Lebensführung des Jugendlichen oder
+    sonstiger bestimmter Umstände die Aussicht besteht, dass eine solche
+    Erwartung in absehbarer Zeit (§ 61a Absatz 1) begründet sein wird.
+
+
+
+
+(2) Ein entsprechender Vorbehalt kann auch ausgesprochen werden, wenn
+
+1.  in der Hauptverhandlung Umstände der in Absatz 1 Nummer 2 genannten
+    Art hervorgetreten sind, die allein oder in Verbindung mit weiteren
+    Umständen die in § 21 Absatz 1 Satz 1 vorausgesetzte Erwartung
+    begründen könnten,
+
+
+2.  die Feststellungen, die sich auf die nach Nummer 1 bedeutsamen
+    Umstände beziehen, aber weitere Ermittlungen verlangen und
+
+
+3.  die Unterbrechung oder Aussetzung der Hauptverhandlung zu erzieherisch
+    nachteiligen oder unverhältnismäßigen Verzögerungen führen würde.
+
+
+
+
+(3)
+Wird im Urteil der Vorbehalt ausgesprochen, gilt § 16a entsprechend.
+Der Vorbehalt ist in die Urteilsformel aufzunehmen. Die Urteilsgründe
+müssen die dafür bestimmenden Umstände anführen. Bei der Verkündung
+des Urteils ist der Jugendliche über die Bedeutung des Vorbehalts und
+seines Verhaltens in der Zeit bis zu der nachträglichen Entscheidung
+zu belehren.
+
+
+###### § 61a Frist und Zuständigkeit für die vorbehaltene Entscheidung
+
+(1) Die vorbehaltene Entscheidung ergeht spätestens sechs Monate nach
+Eintritt der Rechtskraft des Urteils. Das Gericht kann mit dem
+Vorbehalt eine kürzere Höchstfrist festsetzen. Aus besonderen Gründen
+und mit dem Einverständnis des Verurteilten kann die Frist nach Satz 1
+oder 2 durch Beschluss auf höchstens neun Monate seit Eintritt der
+Rechtskraft des Urteils verlängert werden.
+
+(2) Zuständig für die vorbehaltene Entscheidung ist das Gericht, in
+dessen Urteil die zugrunde liegenden tatsächlichen Feststellungen
+letztmalig geprüft werden konnten.
+
+
+###### § 61b Weitere Entscheidungen bei Vorbehalt der Entscheidung über die Aussetzung
+
+(1) Das Gericht kann dem Jugendlichen für die Zeit zwischen Eintritt
+der Rechtskraft des Urteils und dem Ablauf der nach § 61a Absatz 1
+maßgeblichen Frist Weisungen und Auflagen erteilen; die §§ 10, 15
+Absatz 1 und 2, § 23 Absatz 1 Satz 1 bis 3, Absatz 2 gelten
+entsprechend. Das Gericht soll den Jugendlichen für diese Zeit der
+Aufsicht und Betreuung eines Bewährungshelfers unterstellen; darauf
+soll nur verzichtet werden, wenn ausreichende Betreuung und
+Überwachung durch die Jugendgerichtshilfe gewährleistet sind. Im
+Übrigen sind die §§ 24 und 25 entsprechend anzuwenden. Bewährungshilfe
+und Jugendgerichtshilfe arbeiten eng zusammen. Dabei dürfen sie
+wechselseitig auch personenbezogene Daten über den Verurteilten
+übermitteln, soweit dies für eine sachgemäße Erfüllung der Betreuungs-
+und Überwachungsaufgaben der jeweils anderen Stelle erforderlich ist.
+Für die Entscheidungen nach diesem Absatz gelten § 58 Absatz 1 Satz 1,
+2 und 4, Absatz 3 Satz 1 und § 59 Absatz 2 und 5 entsprechend. Die
+Vorschriften des § 60 sind sinngemäß anzuwenden.
+
+(2) Ergeben sich vor Ablauf der nach § 61a Absatz 1 maßgeblichen Frist
+hinreichende Gründe für die Annahme, dass eine Aussetzung der
+Jugendstrafe zur Bewährung abgelehnt wird, so gelten § 453c der
+Strafprozessordnung und § 58 Absatz 2 und 3 Satz 1 entsprechend.
+
+(3) Wird die Jugendstrafe zur Bewährung ausgesetzt, so wird die Zeit
+vom Eintritt der Rechtskraft des Urteils, in dem die Aussetzung einer
+nachträglichen Entscheidung vorbehalten wurde, bis zum Eintritt der
+Rechtskraft der Entscheidung über die Aussetzung auf die nach § 22
+bestimmte Bewährungszeit angerechnet.
+
+(4) Wird die Aussetzung abgelehnt, so kann das Gericht Leistungen, die
+der Jugendliche zur Erfüllung von Weisungen, Auflagen, Zusagen oder
+Anerbieten erbracht hat, auf die Jugendstrafe anrechnen. Das Gericht
+hat die Leistungen anzurechnen, wenn die Rechtsfolgen der Tat
+andernfalls das Maß der Schuld übersteigen würden.
+Im Hinblick auf Jugendarrest, der nach § 16a verhängt wurde (§ 61
+Absatz 3 Satz 1), gilt § 26 Absatz 3 Satz 3 entsprechend.
 
 
 ##### Fünfter Unterabschnitt - Verfahren bei Aussetzung der Verhängung der Jugendstrafe
@@ -1591,6 +1689,27 @@ Staatsanwalt ferner familiengerichtliche Maßnahmen sowie ihre Änderung
 und Aufhebung mit, soweit nicht für das Familiengericht erkennbar ist,
 daß schutzwürdige Interessen des Beschuldigten oder des sonst von der
 Mitteilung Betroffenen an dem Ausschluß der Übermittlung überwiegen.
+
+
+###### § 70a Belehrungen
+
+(1) Vorgeschriebene Belehrungen des Jugendlichen müssen in einer Weise
+erfolgen, die seinem Entwicklungs- und Bildungsstand entspricht. Sie
+sind auch an seine anwesenden Erziehungsberechtigten und gesetzlichen
+Vertreter zu richten und müssen dabei in einer Weise erfolgen, die es
+diesen ermöglicht, ihrer Verantwortung im Hinblick auf den Gegenstand
+der Belehrung gerecht zu werden. Sind Erziehungsberechtigte und
+gesetzliche Vertreter bei der Belehrung des Jugendlichen über die
+Bedeutung vom Gericht angeordneter Rechtsfolgen nicht anwesend, muss
+ihnen die Belehrung darüber schriftlich erteilt werden.
+
+(2) Sind bei einer Belehrung über die Bedeutung der Aussetzung einer
+Jugendstrafe zur Bewährung oder über die Bedeutung des Vorbehalts
+einer diesbezüglichen nachträglichen Entscheidung auch jugendliche
+oder heranwachsende Mitangeklagte anwesend, die nur zu
+Erziehungsmaßregeln oder Zuchtmitteln verurteilt werden, soll die
+Belehrung auch ihnen ein Verständnis von der Bedeutung der
+Entscheidung vermitteln.
 
 
 ###### § 71 Vorläufige Anordnungen über die Erziehung
@@ -2038,9 +2157,13 @@ den Beschluß, der die Aussetzung des Strafrestes anordnet, hat
 aufschiebende Wirkung.
 
 
-###### § 89
+###### § 89 Jugendstrafe bei Vorbehalt der Entscheidung über die Aussetzung
 
--
+Hat das Gericht die Entscheidung über die Aussetzung der Jugendstrafe
+einem nachträglichen Beschluss vorbehalten, darf die Jugendstrafe vor
+Ablauf der nach § 61a Absatz 1 maßgeblichen Frist nicht vollstreckt
+werden. Dies gilt nicht, wenn die Aussetzung zuvor in einem auf Grund
+des Vorbehalts ergangenen Beschluss abgelehnt wurde.
 
 
 ###### § 89a Unterbrechung und Vollstreckung der Jugendstrafe neben Freiheitsstrafe
@@ -2380,12 +2503,24 @@ unterbleiben.
 deren Auswahl und Anordnung dem Familiengericht zu überlassen. § 53
 Satz 2 gilt entsprechend.
 
-(5) Entscheidungen, die nach einer Aussetzung der Jugendstrafe zur
-Bewährung erforderlich werden, sind dem Jugendrichter zu übertragen,
-in dessen Bezirk sich der Jugendliche aufhält. Das gleiche gilt für
-Entscheidungen nach einer Aussetzung der Verhängung der Jugendstrafe
-mit Ausnahme der Entscheidungen über die Festsetzung der Strafe und
-die Tilgung des Schuldspruchs (§ 30).
+(5) Dem Jugendrichter, in dessen Bezirk sich der Jugendliche aufhält,
+sind folgende Entscheidungen zu übertragen:
+
+1.  Entscheidungen, die nach einer Aussetzung der Jugendstrafe zur
+    Bewährung erforderlich werden;
+
+
+2.  Entscheidungen, die nach einer Aussetzung der Verhängung der
+    Jugendstrafe erforderlich werden, mit Ausnahme der Entscheidungen über
+    die Festsetzung der Strafe und die Tilgung des Schuldspruchs (§ 30);
+
+
+3.  Entscheidungen, die nach dem Vorbehalt einer nachträglichen
+    Entscheidung über die Aussetzung der Jugendstrafe erforderlich werden,
+    mit Ausnahme der vorbehaltenen Entscheidung selbst (§ 61a).
+
+
+
 
 
 ## Dritter Teil - Heranwachsende
@@ -2553,13 +2688,14 @@ psychiatrischen Krankenhaus zu erwarten ist.
 
 (1) Von den Vorschriften über das Jugendstrafverfahren (§§ 43 bis 81a)
 sind im Verfahren gegen einen Heranwachsenden die §§ 43, 47a, 50 Abs.
-3 und 4, § 68 Nr. 1 und 4 sowie die §§ 72a bis 73 und § 81a
-entsprechend anzuwenden. Die Jugendgerichtshilfe und in geeigneten
-Fällen auch die Schule werden von der Einleitung und dem Ausgang des
-Verfahrens unterrichtet. Sie benachrichtigen den Staatsanwalt, wenn
-ihnen bekannt wird, daß gegen den Beschuldigten noch ein anderes
-Strafverfahren anhängig ist. Die Öffentlichkeit kann ausgeschlossen
-werden, wenn dies im Interesse des Heranwachsenden geboten ist.
+3 und 4, § 68 Nr. 1 und 4, § 70a Absatz 1 Satz 3, Absatz 2 sowie die
+§§ 72a bis 73 und § 81a entsprechend anzuwenden. Die
+Jugendgerichtshilfe und in geeigneten Fällen auch die Schule werden
+von der Einleitung und dem Ausgang des Verfahrens unterrichtet. Sie
+benachrichtigen den Staatsanwalt, wenn ihnen bekannt wird, daß gegen
+den Beschuldigten noch ein anderes Strafverfahren anhängig ist. Die
+Öffentlichkeit kann ausgeschlossen werden, wenn dies im Interesse des
+Heranwachsenden geboten ist.
 
 (2) Wendet der Richter Jugendstrafrecht an (§ 105), so gelten auch die
 §§ 45, 47 Abs. 1 Satz 1 Nr. 1, 2 und 3, Abs. 2, 3, §§ 52, 52a, 54 Abs.
