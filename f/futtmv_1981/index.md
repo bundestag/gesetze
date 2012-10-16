@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.5.2007 I 770;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 16.7.2012 I 1535
+:   Art. 1 V v. 21.9.2012 I 2064
 
 Diese Verordnung dient in der bis zum 10. November 2004 geltenden
 Fassung der Umsetzung der in der Fassung der Bekanntmachung der
@@ -573,9 +573,9 @@ Im Sinne dieser Verordnung sind:
     Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der
     Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des
     Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung
-    2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1), die
-    zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom
-    21\.10.2010, S. 4) geändert worden ist,
+    2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom
+    22\.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010
+    (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist,
 
 
 2.  Pelztier: Pelztier im Sinne des Artikels 3 Absatz 2 Buchstabe e der
@@ -900,8 +900,8 @@ eedadditives/registeradditives\_en.htm
 unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG des
 Europäischen Parlaments und des Rates vom 7. Mai 2002 über
 unerwünschte Stoffe in der Tierernährung (ABl. L 140 vom 30.5.2002, S.
-10), die zuletzt durch die Verordnung (EU) Nr. 277/2012 (ABl. L 91 vom
-29\.3.2012, S. 1) geändert worden ist, festgesetzten Höchstgehalt
+10), die zuletzt durch die Verordnung (EU) Nr. 744/2012 (ABl. L 219
+vom 17.8.2012, S. 5) geändert worden ist, festgesetzten Höchstgehalt
 überschreitet,
 
 1.  in den Verkehr zu bringen,
@@ -1037,8 +1037,8 @@ des Europäischen Parlaments und des Rates vom 23. Februar 2005 über
 Höchstgehalte an Pestizidrückständen in oder auf Lebens- und
 Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung
 der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1),
-die zuletzt durch die Verordnung (EU) Nr. 310/2011 (ABl. L 86 vom
-1\.4.2011, S. 1) geändert worden ist, bezeichnetes Futtermittel, das
+die zuletzt durch die Verordnung (EU) Nr. 592/2012 (ABl. L 176 vom
+6\.7.2012, S. 1) geändert worden ist, bezeichnetes Futtermittel, das
 mit einem in Spalte 1 des Anhangs VII der Verordnung (EG) Nr. 396/2005
 genannten Wirkstoff als Begasungsmittel nach der Ernte behandelt
 worden ist und dessen Gehalt an einem dieser Wirkstoffe deshalb den
@@ -1124,6 +1124,21 @@ Zwecke der Herstellung eines Einzelfuttermittels oder
 Mischfuttermittels unter direkter Einwirkung der Verbrennungsgase
 trocknen, müssen von der zuständigen Behörde zugelassen worden sein.
 
+(2a) Betriebe, die aus Fetten pflanzlichen oder tierischen Ursprungs,
+Ölen pflanzlichen oder tierischen Ursprungs oder Fettsäuren
+pflanzlichen oder tierischen Ursprungs hergestellte Fette, Öle,
+Fettsäuren, mit Glycerin veresterte Fettsäuren, Mono- und Diglyceride
+von Fettsäuren oder Salze von Fettsäuren, die sie jeweils nicht selbst
+hergestellt haben, als Einzelfuttermittel lose in den Verkehr bringen,
+müssen von der zuständigen Behörde zugelassen worden sein. Satz 1 gilt
+nicht für dort bezeichnete Betriebe, die nach Artikel 10 Nummer 3 Satz
+1 in Verbindung mit Anhang II Abschnitt Einrichtungen und Ausrüstungen
+Nummer 10 der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments
+und des Rates vom 12. Januar 2005 mit Vorschriften für die
+Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008,
+S. 71), die zuletzt durch die Verordnung (EU) Nr. 225/2012 (ABl. L 77
+vom 16.3.2012, S. 1) geändert worden ist, der Zulassung bedürfen.
+
 (3) Sofern
 
 1.  Antioxidantien, für die nach dem Anhang der jeweiligen EG-
@@ -1207,6 +1222,53 @@ dass
 
 
 
+(2a) Zulassungsbedürftige Betriebe nach § 28 Absatz 2a werden auf
+Antrag für die beabsichtigte Tätigkeit von der zuständigen Behörde
+zugelassen, wenn der Inverkehrbringer sich mit dem Antrag
+verpflichtet, ein Verzeichnis nach Maßgabe der folgenden Sätze zu
+führen und fünf Jahre aufzubewahren. In dem Verzeichnis sind die von
+ihm erworbenen in Satz 3 bezeichneten Stoffe, die als als Erzeugnis zu
+dienen bestimmt gekennzeichnet sind, unter Angabe des Tages des
+Erwerbes sowie unter Angabe der Menge aufzuzeichnen. Stoffe im Sinne
+des Satzes 2 sind
+
+1.  aus Fetten pflanzlichen oder tierischen Ursprungs, Ölen pflanzlichen
+    oder tierischen Ursprungs oder Fettsäuren pflanzlichen oder tierischen
+    Ursprungs hergestellte
+
+    a)  Fette,
+
+
+    b)  Öle,
+
+
+    c)  Fettsäuren,
+
+
+    d)  mit Glycerin veresterte Fettsäuren,
+
+
+    e)  Mono- und Diglyceride von Fettsäuren und
+
+
+    f)  Salze von Fettsäuren und
+
+
+
+
+
+2.  Fischöl, auch gehärtet.
+
+
+
+Soweit der Inverkehrbringer in Satz 3 bezeichnete Stoffe erwirbt, die
+als nicht als Erzeugnis zu dienen bestimmt gekennzeichnet sind, sind
+diese Stoffe unter Angabe des Tages des Erwerbes sowie unter Angabe
+der Menge zusätzlich in dem Verzeichnis nach Satz 1 aufzuzeichnen, um
+einen Abgleich der Aufzeichnungen nach Satz 2 zu ermöglichen. Die
+Aufbewahrungsfrist beginnt mit dem Ablauf des Jahres, in dem die
+jeweilige Aufzeichnung gemacht worden ist.
+
 (3) Zulassungsbedürftige Betriebe nach § 28 Abs. 3 Satz 2 Nr. 1 werden
 auf Antrag von der für den Betriebsort zuständigen Behörde zugelassen.
 Der Vertreter des Herstellers nach § 28 Abs. 3 Satz 2 Nr. 1 hat mit
@@ -1226,8 +1288,8 @@ dem Antrag
 
 (4) (weggefallen)
 
-(5) Die Zulassung nach den Absätzen 1 bis 3 ist zu versagen, wenn
-Tatsachen die Annahme rechtfertigen, dass
+(5) Die Zulassung nach den Absätzen 1, 2, 2a und 3 ist zu versagen,
+wenn Tatsachen die Annahme rechtfertigen, dass
 
 1.  der Betriebsinhaber die erforderliche Zuverlässigkeit oder
 
@@ -1258,7 +1320,7 @@ diese zur Erfüllung der Zulassungsvoraussetzungen erforderlich sind.
 
 (8) Die zuständige Behörde kann zur Erfüllung der sich
 
-1.  aus Absatz 1 Satz 1 und Absatz 3 Satz 2 Nr. 2,
+1.  aus Absatz 1 Satz 1, Absatz 2a und 3 Satz 2 Nummer 2,
 
 
 2.  aus Artikel 13 Abs. 1 und 2 Satz 1 bis 3 und Artikel 16 der Verordnung
@@ -1490,6 +1552,19 @@ ist zu widerrufen, wenn
 
 
 
+(2a) Die Zulassung von Betrieben nach § 29 Absatz 2a Satz 1 ist
+zurückzunehmen, wenn eine der Voraussetzungen nach § 29 Absatz 5 nicht
+gegeben war. Sie ist zu widerrufen, wenn
+
+1.  nachträglich eine Voraussetzung nach § 29 Absatz 5 weggefallen ist
+    oder
+
+
+2.  eine der in § 29 Absatz 2a aufgeführten Pflichten nicht erfüllt wird.
+
+
+
+
 (3) Die Zulassung von Betrieben nach § 29 Abs. 3 ist zurückzunehmen,
 wenn eine Voraussetzung nach § 29 Abs. 5 nicht gegeben war. Sie ist zu
 widerrufen, wenn
@@ -1630,8 +1705,8 @@ Volksrepublik China ist verboten.
 Teil I des Anhangs der Entscheidung 2002/994/EG der Kommission vom 20.
 Dezember 2002 über Schutzmaßnahmen betreffend aus China eingeführte
 Erzeugnisse tierischen Ursprungs (ABl. L 348 vom 21.12.2002, S. 154),
-die zuletzt durch die Entscheidung 2009/799/EG (ABl. L 285 vom
-31\.10.2009, S. 42) geändert worden ist, genannt sind, gestattet.
+die zuletzt durch den Durchführungsbeschluss 2012/482/EU (ABl. L 226
+vom 22.8.2012, S. 5) geändert worden ist, genannt sind, gestattet.
 
 (3) Abweichend von Absatz 1 ist ferner die Einfuhr von Erzeugnissen,
 die in Teil II des Anhangs der Entscheidung 2002/994/EG genannt sind,
@@ -2082,10 +2157,22 @@ oder fahrlässig
     bringt,
 
 
-9.  ohne Zulassung nach § 28 Abs. 1 oder 2 Futtermittel dekontaminiert
-    oder Grünfutter, Lebensmittel oder Lebensmittelreste zum Zweck der
-    Herstellung eines Einzelfuttermittels oder Mischfuttermittels
-    trocknet,
+9.  ohne Zulassung nach
+
+    a)  § 28 Absatz 1 Futtermittel dekontaminiert,
+
+
+    b)  § 28 Absatz 2 Grünfutter, Lebensmittel oder Lebensmittelreste zum
+        Zwecke der Herstellung eines Einzelfuttermittels oder
+        Mischfuttermittels trocknet,
+
+
+    c)  § 28 Absatz 2a Fette, Öle, Fettsäuren, mit Glycerin veresterte
+        Fettsäuren, Mono- und Diglyceride von Fettsäuren oder Salze von
+        Fettsäuren lose in den Verkehr bringt,
+
+
+
 
 
 10. einer vollziehbaren Anordnung nach § 29 Abs. 8 Satz 1 oder § 31 Abs. 6
@@ -2153,10 +2240,9 @@ geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
 Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates
 vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl.
-L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die durch die
-Verordnung (EG) Nr. 219/2009 des Europäischen Parlaments und des Rates
-vom 11. März 2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden
-ist, verstößt, indem er vorsätzlich oder fahrlässig
+L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die zuletzt durch
+die Verordnung (EU) Nr. 225/2012 (ABl. L 77 vom 16.3.2012, S. 1)
+geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  entgegen Artikel 5
 
@@ -2164,11 +2250,14 @@ ist, verstößt, indem er vorsätzlich oder fahrlässig
         auf Verlangen der zuständigen Behörde,
 
 
-    b)  Abs. 2 die Bestimmungen des Anhangs II Abschnitt Einrichtungen und
-        Ausrüstungen Nr. 7 Satz 1, Abschnitt Herstellung Nr. 2 oder 5 Satz 2,
-        Abschnitt Qualitätskontrolle Nr. 4 Satz 1, Abschnitt Lagerung und
-        Beförderung Nr. 1 Halbsatz 1 oder Nr. 3 oder Abschnitt Dokumentation
-        Nr. 1 oder
+    b)  Absatz 2 die Bestimmungen des Anhangs II Abschnitt Einrichtungen und
+        Ausrüstungen Nummer 7 Satz 1 oder Nummer 10, Abschnitt Herstellung
+        Nummer 2, 5 Satz 2, Nummer 7 oder Nummer 8, Abschnitt
+        Qualitätskontrolle Nummer 4 Satz 1, Abschnitt Dioxinüberwachung Nummer
+        1, auch in Verbindung mit Nummer 2 Buchstabe a, b, c, d, e Satz 1 oder
+        Buchstabe f, Nummer 5 oder Nummer 7, Abschnitt Lagerung und
+        Beförderung Nummer 1 erster Halbsatz, Nummer 3 oder Nummer 7 Satz 1, 2
+        oder Satz 3 oder Abschnitt Dokumentation Nummer 1 oder
 
 
     c)  Abs. 5 die Bestimmungen des Anhangs III Abschnitt Vorschriften für
@@ -2205,10 +2294,10 @@ Europäischen Parlaments und des Rates und zur Aufhebung der
 Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission,
 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates,
 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung
-2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1), die
-zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom
-21\.10.2010, S. 4) geändert worden ist, verstößt, indem er vorsätzlich
-oder fahrlässig
+2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom
+22\.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010
+(ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist, verstößt, indem
+er vorsätzlich oder fahrlässig
 
 1.  entgegen Artikel 4 Absatz 2 Unterabsatz 1 Buchstabe a als
     Futtermittelunternehmer, der ein Futtermittel in den Verkehr bringt,
@@ -2314,8 +2403,10 @@ oder fahrlässig
     von Lebens- und Futtermitteln, deren Ursprung oder Herkunft Japan ist,
     nach dem Unfall im Kernkraftwerk Fukushima und zur Aufhebung der
     Durchführungsverordnung (EU) Nr. 961/2011 (ABl. L 92 vom 30.3.2012, S.
-    16) als Futtermittelunternehmer oder als sein Vertreter eine Meldung
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+    16), die durch die Durchführungsverordnung (EU) Nr. 561/2012 (ABl. L
+    168 vom 28.6.2012, S. 17) geändert worden ist, als
+    Futtermittelunternehmer oder als sein Vertreter eine Meldung nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 
@@ -2330,6 +2421,30 @@ September 2007 erstmals in den Verkehr gebracht werden.
 (2) Für den in Anhang I Abschnitt VI Nummer 11 der Richtlinie
 2002/32/EG bezeichneten Stoff sind die §§ 23, 24 und 26 Satz 1 erst ab
 dem 1. Januar 2012 anzuwenden.
+
+(3) Betriebe nach § 28 Absatz 2a, die am 16. September 2012 bereits
+aus Fetten pflanzlichen oder tierischen Ursprungs, Ölen pflanzlichen
+oder tierischen Ursprungs oder Fettsäuren pflanzlichen oder tierischen
+Ursprungs hergestellte Fette, Öle, Fettsäuren, mit Glycerin veresterte
+Fettsäuren, Mono- und Diglyceride von Fettsäuren oder Salze von
+Fettsäuren, die sie jeweils nicht selbst hergestellt haben, als
+Einzelfuttermittel lose in den Verkehr bringen, gelten als vorläufig
+zugelassen. Die vorläufige Zulassung erlischt,
+
+1.  wenn sie die Zulassung nicht bis zum 1. Januar 2013 beantragt haben
+    und
+
+
+2.  im Fall rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit
+    der Entscheidung über den Antrag.
+
+
+
+Der Antrag ist innerhalb von sechs Monaten nach Eingang bei der
+zuständigen Behörde zu bescheiden. Abweichend von Satz 3 kann der
+Antrag auch später beschieden werden, wenn die zuständige Behörde dem
+Antragsteller eine Frist zur Beibringung erforderlicher Unterlagen
+eingeräumt hat, die nach dem in Satz 3 genannten Zeitpunkt abläuft.
 
 
 ## § 37a Technische Festlegungen
