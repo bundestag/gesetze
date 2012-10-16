@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.8.2011 I 1813
 
+Geändert durch
+:   Art. 10 G v. 21.7.2012 I 1583
+
 
 ## Kapitel 1 - Allgemeines
 
@@ -34,6 +37,10 @@ Diese Verordnung gilt für
 
 2.  Soldatinnen und Soldaten, die Wehrdienst nach Abschnitt 7 des
     Wehrpflichtgesetzes leisten,
+
+
+2a. Soldatinnen und Soldaten im Reservewehrdienstverhältnis nach dem
+    Reservistinnen- und Reservistengesetz,
 
 
 3.  Soldatinnen und Soldaten, die auf Grund freiwilliger Verpflichtung
@@ -421,23 +428,7 @@ Laufbahnzuordnung erhalten, wenn die Verwendung keine andere
 Laufbahnzuordnung erfordert.
 
 
-### § 7 Dienstgradbezeichnung der früheren Soldatinnen und früheren Soldaten
-
-Frühere Soldatinnen und frühere Soldaten dürfen ihren in der
-Bundeswehr erworbenen Dienstgrad mit dem Zusatz „der Reserve“ oder „d.
-R.“ weiterführen, wenn
-
-1.  ihnen ihr Dienstgrad nicht nur vorläufig oder zeitweilig verliehen
-    worden ist und
-
-
-2.  sie nicht berechtigt sind, diesen Dienstgrad mit dem Zusatz „außer
-    Dienst“ oder „a. D.“ zu führen.
-
-
-
-Während eines erneuten Wehrdienstverhältnisses entfällt der Zusatz
-nach Satz 1.
+### § 7 (weggefallen)
 
 
 ## Kapitel 2 - Laufbahngruppe der Mannschaften
@@ -890,7 +881,7 @@ voraus.
 
 Zum Oberstabsfeldwebel dürfen nur Soldatinnen und Soldaten im
 Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten und
-die in § 1 Satz 1 Nummer 3 bis 7 genannten Soldatinnen und Soldaten
+die in § 1 Satz 1 Nummer 2a bis 7 genannten Soldatinnen und Soldaten
 befördert werden.
 
 
@@ -1817,9 +1808,10 @@ fünf Jahre und sechs Monate im Dienstgrad Hauptmann, zulässig.
 
 #### § 43 Beförderung, Zulassung zu einer Laufbahn der Reserve und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 
-(1) Die in § 1 Satz 1 Nummer 2 genannten Soldatinnen und Soldaten
-werden nach den Vorschriften über die Beförderung von Soldatinnen und
-Soldaten im Dienstverhältnis eines Berufssoldaten oder Soldaten auf
+(1) Die in § 1 Satz 1 Nummer 2 und 2a genannten Soldatinnen und
+Soldaten werden nach den Vorschriften über die Beförderung von
+Soldatinnen und Soldaten im Dienstverhältnis einer Berufssoldatin,
+eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf
 Zeit befördert.
 
 (2) Die in § 1 Satz 1 Nummer 2 bis 6 genannten Soldatinnen und

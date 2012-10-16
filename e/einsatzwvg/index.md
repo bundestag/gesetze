@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2861 (2962)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 5.12.2011 I 2458
+:   Art. 6 G v. 21.7.2012 I 1583
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -855,17 +855,12 @@ Arbeitgeber erhalten.
 
 (5) Ist eine Person, die nach Absatz 1 Satz 4 als Einsatzgeschädigte
 gilt, an den Folgen eines Einsatzunfalls der in § 31a des
-Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 16.
-März 1999 (BGBl. I S. 322, 847, 2033), das zuletzt durch Artikel 6 des
-Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) geändert worden ist,
-bezeichneten Art verstorben und hat sie eine einmalige
-Unfallentschädigung nach Absatz 4 oder eine entsprechende Leistung vom
-vormaligen Dienstherrn oder öffentlichen Arbeitgeber nicht erhalten,
-wird ihren Hinterbliebenen eine einmalige Unfallentschädigung nach
-Maßgabe des § 43 Abs. 2 des Beamtenversorgungsgesetzes in der Fassung
-der Bekanntmachung vom 16. März 1999 (BGBl. I S. 322, 847, 2033), das
-zuletzt durch Artikel 6 des Gesetzes vom 19. Juli 2006 (BGBl. I S.
-1652) geändert worden ist, gewährt.
+Beamtenversorgungsgesetzes bezeichneten Art verstorben und hat sie
+eine einmalige Unfallentschädigung nach Absatz 4 oder eine
+entsprechende Leistung vom vormaligen Dienstherrn oder öffentlichen
+Arbeitgeber nicht erhalten, wird ihren Hinterbliebenen eine einmalige
+Unfallentschädigung nach Maßgabe des § 43 Abs. 2 des
+Beamtenversorgungsgesetzes gewährt.
 
 
 ## Abschnitt 7 - Schlussvorschriften
@@ -904,6 +899,59 @@ für eine Wiedereinstellung auch dann, wenn das Dienst- oder
 Arbeitsverhältnis nach dem 18. Dezember 2007 geendet hat oder beendet
 worden ist und die Geschädigten sich zu diesem Zeitpunkt bei Anwendung
 des Absatzes 1 in der Schutzzeit befunden hätten.
+
+(4) Ist der Anspruch auf eine einmalige Unfallentschädigung nach § 20
+Absatz 4 oder Absatz 5 in der Zeit vom 1. Dezember 2002 bis zum 12.
+Dezember 2011 entstanden, beträgt die Entschädigung
+
+1.
+    *        *   nach § 20 Absatz 4
+
+        *   150 000 Euro,
+
+
+
+
+
+2.
+    *        *   nach § 20 Absatz 5 dieses
+            Gesetzes in Verbindung mit
+            § 43 Absatz 2 Nummer 1 des
+            Beamtenversorgungsgesetzes
+
+        *   100 000 Euro,
+
+
+
+
+
+3.
+    *        *   nach § 20 Absatz 5 dieses
+            Gesetzes in Verbindung mit
+            § 43 Absatz 2 Nummer 2 des
+            Beamtenversorgungsgesetzes
+
+        *   40 000 Euro,
+
+
+
+
+
+4.
+    *        *   nach § 20 Absatz 5 dieses
+            Gesetzes in Verbindung mit
+            § 43 Absatz 2 Nummer 3 des
+            Beamtenversorgungsgesetzes
+
+        *   20 000 Euro.
+
+
+
+
+
+
+Aus gleichem Anlass bereits gewährte Leistungen nach § 20 Absatz 4
+oder Absatz 5 sind anzurechnen.
 
 
 ### § 23 Zuständiger Geschäftsbereich

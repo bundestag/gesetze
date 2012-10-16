@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 16.9.2009 I 3054;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 15.3.2012 I 462
+:   Art. 14 G v. 21.7.2012 I 1583
 
 
 ## Erster Teil - Einleitende Vorschriften
@@ -127,7 +127,7 @@ Volksarmee.
 
 
 
-### Abschnitt I - Berufsförderung und Dienstzeitversorgung der Soldaten auf Zeit, Berufsförderung der Grundwehrdienst nach § 5 oder freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes Leistenden
+### Abschnitt I - Berufsförderung und Dienstzeitversorgung der Soldaten auf Zeit, Berufsförderung der freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes Leistenden
 
 
 
@@ -152,15 +152,14 @@ das zivile Erwerbsleben verhelfen.
 
 
 2.  die Teilnahme an dienstzeitbegleitenden Bildungs- und
-    Eingliederungsmaßnahmen (§§ 4 und 7 Absatz 2),
+    Eingliederungsmaßnahmen (§§ 4, 5 Absatz 1a und § 7 Absatz 2),
 
 
 3.  den Besuch von Lehrgängen an einer Bundeswehrfachschule (§ 5),
 
 
-4.  die Förderung der beruflichen Bildung am Ende und nach der
-    Wehrdienstzeit in öffentlichen und privaten Bildungseinrichtungen (§
-    5) und
+4.  die Förderung der beruflichen Bildung in öffentlichen und privaten
+    Bildungseinrichtungen (§ 5) und
 
 
 5.  Hilfen zur Eingliederung in das zivile Erwerbsleben (§§ 7 bis 10).
@@ -168,32 +167,31 @@ das zivile Erwerbsleben verhelfen.
 
 
 
-(3) Als Berufsförderung der Grundwehrdienst (§ 5 des
-Wehrpflichtgesetzes), freiwilligen zusätzlichen Wehrdienst im
-Anschluss an den Grundwehrdienst nach § 6b des Wehrpflichtgesetzes
-oder freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes
-Leistenden kann die Teilnahme an dienstzeitbegleitenden Bildungs- und
-Eingliederungsmaßnahmen nach Absatz 2 Nr. 2 gewährt werden. § 3a
-Absatz 1 Satz 2 gilt entsprechend.
+(3) Als Berufsförderung der freiwilligen Wehrdienst nach Abschnitt 7
+des Wehrpflichtgesetzes Leistenden können die Teilnahme an
+dienstzeitbegleitenden Bildungs- und Eingliederungsmaßnahmen (§§ 4 und
+7 Absatz 2) sowie Hilfen zur Eingliederung in das zivile Erwerbsleben
+(§ 7 Absatz 1 und 5) gewährt werden. § 3a Absatz 1 Satz 2 gilt
+entsprechend.
 
 (4) Die Dienstzeitversorgung der Soldaten auf Zeit umfasst
 
-1.  Übergangsgebührnisse,
+1.  die Übergangsgebührnisse,
 
 
-2.  Ausgleichsbezüge,
+2.  die Ausgleichsbezüge,
 
 
-3.  Übergangsbeihilfe,
+3.  die Übergangsbeihilfe,
 
 
-4.  Unterschiedsbetrag nach § 47 Absatz 1 Satz 2.
+4.  den Unterhaltsbeitrag für Soldaten auf Zeit,
 
 
-5.  (weggefallen)
+5.  den Unterschiedsbetrag nach § 47 Absatz 1 Satz 2,
 
 
-6.  Einmalzahlungen nach § 89b.
+6.  die Einmalzahlungen nach § 89b.
 
 
 
@@ -223,26 +221,27 @@ bestimmt und ein einvernehmlicher Förderungsplan erstellt werden.
 ##### § 4
 
 (1) Während der Wehrdienstzeit bieten die für die Berufsförderung
-zuständigen Stellen (Berufsförderungsdienste) Bildungsmaßnahmen an, an
-denen Soldaten auf Zeit und Grundwehrdienst , freiwilligen
-zusätzlichen Wehrdienst oder freiwilligen Wehrdienst nach Abschnitt 7
-des Wehrpflichtgesetzes Leistende unentgeltlich teilnehmen können.
+zuständigen Stellen (Berufsförderungsdienste) interne
+Bildungsmaßnahmen an, an denen Soldaten auf Zeit oder freiwilligen
+Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes Leistende
+unentgeltlich teilnehmen können.
 
-(2) Ist nach dem Förderungsplan im Sinne des § 3a Absatz 2 vorgesehen,
-dass ein bestimmtes schulisches oder fachberufliches Bildungsziel
-schon im Rahmen der dienstzeitbegleitenden Förderung erreicht werden
-soll, und kann dieses Bildungsziel nicht oder nicht planmäßig durch
-Teilnahme an internen Maßnahmen erreicht werden, kann im Einzelfall
-ausnahmsweise die Teilnahme an Bildungsmaßnahmen anderer Anbieter
-gefördert werden.
+(2) Ist für Soldaten auf Zeit mit einer Wehrdienstzeit von weniger als
+vier Jahren und für freiwilligen Wehrdienst nach Abschnitt 7 des
+Wehrpflichtgesetzes Leistende im Förderungsplan im Sinne des § 3a
+Absatz 2 vorgesehen, dass ein bestimmtes schulisches oder berufliches
+Bildungsziel im Rahmen der dienstzeitbegleitenden Förderung erreicht
+werden soll, und kann dieses Bildungsziel nicht oder nicht planmäßig
+durch Teilnahme an internen Maßnahmen erreicht werden, kann im
+Einzelfall ausnahmsweise die Teilnahme an Bildungsmaßnahmen anderer
+Anbieter gefördert werden.
 
 (3) Auf die dienstzeitbegleitende Förderung nach den Absätzen 1 und 2
-besteht kein Anspruch. Die Einrichtung interner sowie die Förderung
-externer Bildungsmaßnahmen steht unter dem Vorbehalt ausreichend
+besteht kein Anspruch. Sie steht unter dem Vorbehalt ausreichend
 verfügbarer Haushaltsmittel.
 
 
-#### 4. - Förderung der schulischen und beruflichen Bildung der Soldaten auf Zeit am Ende und nach der Wehrdienstzeit
+#### 4. - Förderung der schulischen und beruflichen Bildung der Soldaten auf Zeit
 
 
 
@@ -250,9 +249,19 @@ verfügbarer Haushaltsmittel.
 
 (1) Soldaten auf Zeit, die nicht Inhaber eines Eingliederungsscheins
 sind, haben Anspruch auf Förderung ihrer schulischen und beruflichen
-Bildung am Ende und nach der Wehrdienstzeit, wenn sie für die Dauer
-von mindestens vier Jahren in das Dienstverhältnis eines Soldaten auf
-Zeit berufen worden sind. Die Förderung wird auf Antrag gewährt.
+Bildung nach der Wehrdienstzeit, wenn sie für die Dauer von mindestens
+vier Jahren in das Dienstverhältnis eines Soldaten auf Zeit berufen
+worden sind. Die Förderung wird auf Antrag gewährt. Die Förderung
+beruflicher Erfahrungszeiten ist ausgeschlossen.
+
+(1a) Sieht der Förderungsplan nach § 3a Absatz 2 vor, dass ein
+bestimmtes schulisches oder berufliches Bildungsziel schon während der
+Dienstzeit erreicht werden soll, und kann dieses Bildungsziel nicht
+oder nicht planmäßig durch Teilnahme an internen Maßnahmen erreicht
+werden, so kann die Teilnahme an Bildungsmaßnahmen nach Absatz 1
+gefördert werden, wenn dienstliche Gründe dem nicht entgegenstehen.
+Eine zeitliche Anrechnung auf den Anspruch nach Absatz 4 findet
+während der Dienstzeit nicht statt.
 
 (2) Schulische Maßnahmen sind grundsätzlich an einer
 Bundeswehrfachschule zu durchlaufen.
@@ -267,93 +276,101 @@ bewilligt worden, kann die Förderung der schulischen oder beruflichen
 Bildung bis zur Dauer des Zeitraums gewährt werden, für den
 Übergangsgebührnisse zustehen.
 
-(4) Die Dauer der Förderung am Ende und nach der Wehrdienstzeit
-beträgt insgesamt bei einer Wehrdienstzeit von
+(4) Die Dauer der Förderung nach der Wehrdienstzeit beträgt nach einer
+Wehrdienstzeit von
 
 *    *   1.
 
-    *   vier und weniger als sechs Jahren
+    *   4 und weniger als
+        5 Jahren
 
-    *   bis zu sieben Monaten,
+    *   bis zu 12 Monate,
 
 
 *    *   2.
 
-    *   sechs und weniger als acht Jahren
+    *   5 und weniger als
+        6 Jahren
 
-    *   bis zu 15 Monaten,
+    *   bis zu 18 Monate,
 
 
 *    *   3.
 
-    *   acht und weniger als zwölf Jahren
+    *   6 und weniger als
+        7 Jahren
 
-    *   bis zu 36 Monaten und
+    *   bis zu 24 Monate,
 
 
 *    *   4.
 
-    *   zwölf und mehr Jahren
+    *   7 und weniger als
+        8 Jahren
 
-    *   bis zu 60 Monaten.
-
-
-
-Der Förderungsanspruch kann auf Antrag ausnahmsweise teilweise bis zur
-Hälfte ohne Freistellung vom militärischen Dienst vorgezogen in der
-Dienstzeit erfüllt werden, wenn dadurch für die Umsetzung des
-Förderungsplanes oder die Eingliederung erhebliche Nachteile vermieden
-werden können.
-
-(5) Von der Gesamtförderungsdauer nach Absatz 4 besteht
-
-*    *   1.
-
-    *   in den Fällen der Nummer 2
-
-    *   in den letzten drei Monaten,
+    *   bis zu 30 Monate,
 
 
-*    *   2.
+*    *   5.
 
-    *   in den Fällen der Nummer 3
+    *   8 und weniger als
+        9 Jahren
 
-    *   in den letzten 15 Monaten und
-
-
-*    *   3.
-
-    *   in den Fällen der Nummer 4
-
-    *   in den letzten 24 Monaten
+    *   bis zu 36 Monate,
 
 
+*    *   6.
 
-der Wehrdienstzeit Rechtsanspruch auf Freistellung vom militärischen
-Dienst (Förderung am Ende der Wehrdienstzeit). Diese Förderungszeiten
-unterliegen nach Maßgabe der Absätze 6 bis 10 der Minderung;
-vermindern sie sich oder entfallen sie vollständig, führt dies auch
-zur entsprechenden Herabsetzung der Gesamtförderungsdauer nach Absatz
-4\. Die verbleibenden Förderungszeiten nach Absatz 4 sollen in
-unmittelbarem Anschluss an das Dienstzeitende, können aber noch
+    *   9 und weniger als
+        10 Jahren
+
+    *   bis zu 42 Monate,
+
+
+*    *   7.
+
+    *   10 und weniger als
+        11 Jahren
+
+    *   bis zu 48 Monate,
+
+
+*    *   8.
+
+    *   11 und weniger als
+        12 Jahren
+
+    *   bis zu 54 Monate und
+
+
+*    *   9.
+
+    *   12 und mehr Jahren
+
+    *   bis zu 60 Monate.
+
+
+
+
+(5) Die Förderungszeiten nach Absatz 4 werden nach Maßgabe der Absätze
+6 bis 8 und 10 vermindert. Die Förderungszeiten nach Absatz 4 sollen
+in unmittelbarem Anschluss an das Dienstzeitende, können aber noch
 innerhalb von sechs Jahren danach genutzt werden.
 
-(6) Die Förderungszeiten nach Absatz 5 Satz 1 Nummer 1 am Ende der
-Wehrdienstzeit entfallen vollständig und die Förderungszeiten nach
-Absatz 5 Satz 1 Nummer 2 und 3 vermindern sich um neun Monate, wenn
-die militärfachliche Ausbildung zum Bestehen einer Abschlussprüfung in
-einem anerkannten Ausbildungsberuf, zu einem vergleichbaren bundes-
-oder landesrechtlich geregelten Berufsabschluss, einer Laufbahnprüfung
-im mittleren Dienst oder einem Abschluss nach den Empfehlungen der
-Deutschen Krankenhausgesellschaft geführt hat. Hat die zum Bestehen
-der Abschlussprüfung nach Satz 1 führende Maßnahme der militärischen
-Ausbildung weniger als zwölf Monate gedauert, beschränkt sich die
-Minderung auf drei Monate.
+(6) Die Förderungszeiten nach Absatz 4 vermindern sich um neun Monate,
+wenn die militärfachliche Ausbildung zum Bestehen einer
+Abschlussprüfung in einem anerkannten Ausbildungsberuf, zu einem
+vergleichbaren bundes- oder landesrechtlich geregelten
+Berufsabschluss, einer Laufbahnprüfung im mittleren Dienst oder einem
+Abschluss nach den Empfehlungen der Deutschen Krankenhausgesellschaft
+geführt hat. Hat die zum Bestehen der Abschlussprüfung nach Satz 1
+führende Maßnahme der militärischen Ausbildung weniger als zwölf
+Monate gedauert, beschränkt sich die Minderung auf drei Monate.
 
-(7) Die Förderungszeiten nach Absatz 5 entfallen oder vermindern sich
-ferner um sechs Monate, wenn der Soldat im Rahmen der
-militärfachlichen Ausbildung eine Fortbildungsmaßnahme öffentlicher
-oder privater Träger abgeschlossen hat, die
+(7) Die Förderungszeiten nach Absatz 4 vermindern sich ferner um sechs
+Monate, wenn der Soldat im Rahmen der militärfachlichen Ausbildung
+eine Fortbildungsmaßnahme öffentlicher oder privater Träger
+abgeschlossen hat, die
 
 1.  einen Abschluss nach einem nach § 4 des Berufsbildungsgesetzes oder
     nach § 25 der Handwerksordnung anerkannten Ausbildungsberuf, einen
@@ -374,48 +391,114 @@ oder privater Träger abgeschlossen hat, die
 
 
 
-Die Förderungszeiträume nach Absatz 5 werden unabhängig vom Erreichen
+Die Förderungszeiträume nach Absatz 4 werden unabhängig vom Erreichen
 des Abschlusses im Umfang der tatsächlichen Teilnahme bis zu sechs
 Monaten gemindert, es sei denn, die Teilnahme musste aus dienstlichen
 Gründen vor Erreichen des Abschlusses beendet werden. Dies gilt auch,
 wenn bereits ein Minderungstatbestand nach Absatz 6 erfüllt ist.
 
-(8) Die Förderungszeiten nach Absatz 5 entfallen oder vermindern sich
-ferner um sechs Monate, wenn die militärische Ausbildung zum Erwerb
-der Fahrlehrerlaubnis, des Bildungsabschlusses der mittleren Reife,
-eines diesem gleichwertigen oder eines höherwertigen schulischen
-Abschlusses geführt hat.
+(8) Die Förderungszeiten nach Absatz 4 vermindern sich ferner um sechs
+Monate, wenn die militärische Ausbildung zum Erwerb der
+Fahrlehrerlaubnis, des Hauptschul- oder eines diesem mindestens
+gleichwertigen schulischen Abschlusses geführt hat.
 
-(9) Für Soldaten auf Zeit in der Laufbahngruppe der Offiziere
-entfallen die Förderungszeiten am Ende der Wehrdienstzeit nach Absatz
-5 vollständig, wenn sie mit einem nach den Laufbahnvorschriften
-geforderten Hochschulabschluss im Sinne des § 1 des
-Hochschulrahmengesetzes in die Bundeswehr eingestellt worden sind oder
-im Rahmen ihrer militärischen Ausbildung einen solchen
-Hochschulabschluss auf Kosten des Bundes erworben haben. Die
-Förderungszeiten nach der Wehrdienstzeit belaufen sich für die
-Offiziere, die den Hochschulabschluss auf Kosten des Bundes erworben
-haben, in den Fällen nach Absatz 4 Nummer 3 auf zwölf und in den
-Fällen nach Absatz 4 Nummer 4 auf 24 Monate. Satz 1 gilt ebenso für
-die Unteroffiziere des Militärmusikdienstes, die im Rahmen ihrer
-militärfachlichen Ausbildung eine Hochschule besuchen und das
-vorgegebene Studienziel erreichen.
+(9) Für Soldaten auf Zeit in den Laufbahnen der Offiziere, die einen
+Hochschulabschluss im Sinne des § 1 des Hochschulrahmengesetzes auf
+Kosten des Bundes erworben haben, beträgt die Dauer der Förderung
+zwölf Monate in den Fällen des Absatzes 4 Nummer 1 bis 8 und 24 Monate
+in den Fällen des Absatzes 4 Nummer 9. Für Offiziere, die mit einem
+nach den Laufbahnvorschriften geforderten Hochschulabschluss im Sinne
+des § 1 des Hochschulrahmengesetzes in die Bundeswehr eingestellt
+worden sind, und für Unteroffiziere des Militärmusikdienstes, die im
+Rahmen ihrer militärfachlichen Ausbildung eine Hochschule besucht und
+das vorgegebene Studienziel erreicht haben, beträgt die Dauer der
+Förderung nach einer Dienstzeit von
+
+*    *   1.
+
+    *   4 und weniger als
+        5 Jahren
+
+    *   bis zu 7 Monate,
+
+
+*    *   2.
+
+    *   5 und weniger als
+        6 Jahren
+
+    *   bis zu 10 Monate,
+
+
+*    *   3.
+
+    *   6 und weniger als
+        7 Jahren
+
+    *   bis zu 12 Monate,
+
+
+*    *   4.
+
+    *   7 und weniger als
+        8 Jahren
+
+    *   bis zu 17 Monate,
+
+
+*    *   5.
+
+    *   8 und weniger als
+        9 Jahren
+
+    *   bis zu 21 Monate,
+
+
+*    *   6.
+
+    *   9 und weniger als
+        10 Jahren
+
+    *   bis zu 25 Monate,
+
+
+*    *   7.
+
+    *   10 und weniger als
+        11 Jahren
+
+    *   bis zu 29 Monate,
+
+
+*    *   8.
+
+    *   11 und weniger als
+        12 Jahren
+
+    *   bis zu 33 Monate und
+
+
+*    *   9.
+
+    *   12 und mehr Jahren
+
+    *   bis zu 36 Monate.
+
+
+
 
 (10) Für die Teilnahme an Hochschulstudiengängen im Sinne des § 1 des
 Hochschulrahmengesetzes im Rahmen der militärischen Ausbildung der
 Offiziere und der Unteroffiziere des Militärmusikdienstes werden die
-Förderungszeiten nach Absatz 5 auch dann im Umfang der Dauer der
+Förderungszeiten nach Absatz 4 auch dann im Umfang der Dauer der
 tatsächlichen Teilnahme vermindert, wenn der vorgesehene Abschluss
 nicht erreicht wurde, es sei denn, die Teilnahme musste aus
 dienstlichen Gründen vor Erreichen des Abschlusses beendet werden.
 
-(11) Die sich aus den Absätzen 1 bis 10 ergebenden Fälligkeiten der
-Förderungsansprüche können zur Vermeidung förderungsplanerischer
-Härten ausnahmsweise auch durch Gewährung ergänzender Zeiten der
-Freistellung vom militärischen Dienst an den terminlich gebundenen
-Beginn der im Einzelfall zur Förderung gewählten Bildungsmaßnahme
-angepasst werden. Der ergänzende Freistellungszeitraum verkürzt gemäß
-§ 11 Absatz 2 Satz 3 den Bezugszeitraum der Übergangsgebührnisse.
+(11) Soweit es zur Umsetzung des Förderungsplans erforderlich ist,
+kann ausnahmsweise eine Freistellung vom militärischen Dienst gewährt
+werden. Der Freistellungszeitraum verkürzt nach § 11 Absatz 2 Satz 3
+den Bezugszeitraum der Übergangsgebührnisse.
 
 (12) Das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Behörde der Bundeswehrverwaltung kann auf Antrag zum Ausgleich von
@@ -423,10 +506,6 @@ Störungen im Förderungsverlauf die Förderung der Teilnahme an einer
 bewilligten Bildungsmaßnahme über die nach Absatz 4 vorgesehenen
 Zeiträume hinaus verlängern. Die Verlängerung kommt grundsätzlich nur
 einmal in dem im Einzelfall notwendigen Umfang in Betracht.
-Förderungszeiträume nach Absatz 5, die aus vom Förderungsberechtigten
-nicht zu vertretenden Gründen nicht am Ende der Wehrdienstzeit genutzt
-werden konnten, können im notwendigen Umfang zu
-Verlängerungszeiträumen erklärt werden.
 
 
 ##### § 6
@@ -438,8 +517,8 @@ Bund übernommen. Die Kosten des Besuchs einer Bundeswehrfachschule
 werden auf diese Kostenhöchstbeträge in pauschalierter Form
 angerechnet.
 
-(2) Für Lern- und Lernhilfsmittel kann die Förderung auf Pauschbeträge
-begrenzt werden.
+(2) Das Bundesministerium der Verteidigung kann für die Förderung
+Pauschalbeträge festsetzen.
 
 (3) Für die reisekosten- und trennungsgeldrechtliche Abfindung der
 Förderungsberechtigten sind das Bundesreisekostengesetz und die
@@ -457,43 +536,47 @@ Berufsförderungsverordnung nichts anderes bestimmt ist.
 
 ###### § 7
 
-(1) Soldaten auf Zeit werden innerhalb der Berufsförderung der
-Bundeswehr bei der Erlangung eines ihrem Qualifikationsprofil
+(1) Soldaten auf Zeit und freiwilligen Wehrdienst nach Abschnitt 7 des
+Wehrpflichtgesetzes Leistenden werden innerhalb der Berufsförderung
+der Bundeswehr bei der Erlangung eines ihrem Qualifikationsprofil
 entsprechenden Arbeitsplatzes unterstützt. Hierzu gehört auch die
-vermittlerische Betreuung der Soldaten auf Zeit durch den
-Berufsförderungsdienst der Bundeswehr.
+vermittlerische Betreuung durch den Berufsförderungsdienst der
+Bundeswehr.
 
 (2) Es sind rechtzeitig die Maßnahmen einzuleiten oder durchzuführen,
 die eine Arbeitsaufnahme im Anschluss an das Dienstverhältnis
-erleichtern (Eingliederungsmaßnahmen). Außerhalb und
-erforderlichenfalls vor der Förderung einer schulischen oder
-beruflichen Bildungsmaßnahme kann die Teilnahme an
-Berufsorientierungs- oder Berufsvorbereitungsmaßnahmen sowie
+erleichtern (Eingliederungsmaßnahmen). Vor oder nach der Förderung
+einer schulischen oder beruflichen Bildungsmaßnahme kann innerhalb von
+sieben Jahren nach dem Dienstzeitende die Teilnahme an
+Berufsorientierungs- oder Berufsvorbereitungsmaßnahmen und an
 Bewerbertrainingsprogrammen mit den gleichen Leistungen wie für die
-Teilnahme an Bildungsmaßnahmen nach § 4 gefördert werden.
+Teilnahme an Bildungsmaßnahmen nach § 4 gefördert werden. Satz 2 gilt
+für Soldaten auf Zeit, die keinen Anspruch auf Förderung der
+schulischen und beruflichen Bildung nach § 5 Absatz 4 haben, mit der
+Maßgabe, dass die Maßnahme innerhalb von einem Jahr beginnen muss.
 
-(3) Angehörige der Laufbahngruppe der Mannschaften und Unteroffiziere
-mit einer Verpflichtungsdauer von mindestens zwölf Jahren, die nicht
-auf Grund ihrer zivilberuflichen Vorbildung mit höherem Dienstgrad
-eingestellt wurden und die während ihrer Dienstzeit keine
-zivilberuflich anerkannte militärfachliche Aus- oder Weiterbildung im
-Sinne des § 5 Absatz 6 und 7 oder die Fahrlehrerlaubnis oder eine
-Ausbildung als Unteroffizier des Militärmusikdienstes erhalten, haben
-einen Anspruch auf Freistellung vom militärischen Dienst zur Teilnahme
-an maximal drei Berufsorientierungspraktika mit einer Dauer von
-jeweils höchstens vier Wochen. Die Teilnahme an den
-Berufsorientierungspraktika soll in den letzten drei Dienstjahren vor
-dem Beginn des Rechtsanspruchs auf Berufsförderung nach § 5 erfolgen.
+(3) Soldaten auf Zeit mit einer Verpflichtungsdauer von mindestens
+zwölf Jahren, die nicht auf Grund ihrer zivilberuflichen Vorbildung
+mit höherem Dienstgrad eingestellt wurden oder die während ihrer
+Dienstzeit keine zivilberuflich anerkannte militärfachliche Aus- oder
+Weiterbildung im Sinne des § 5 Absatz 6 bis 9 erhalten haben, haben
+Anspruch auf Teilnahme an höchstens drei Berufsorientierungspraktika
+mit einer Dauer von jeweils höchstens einem Monat unter Freistellung
+vom militärischen Dienst. Ein Praktikum kann in mehrere Abschnitte
+aufgeteilt werden, soweit es zur Umsetzung des Förderungsplans
+zweckmäßig ist.
 
 (4) Soldaten auf Zeit mit einer Verpflichtungsdauer von mindestens
 vier Jahren, die keinen Anspruch nach Absatz 3, aber einen erhöhten
 Berufsorientierungsbedarf haben, kann Freistellung vom militärischen
 Dienst zur Teilnahme an einem Berufsorientierungspraktikum mit einer
-Dauer von höchstens vier Wochen gewährt werden.
+Dauer von höchstens einem Monat gewährt werden. Absatz 3 Satz 2 gilt
+entsprechend.
 
-(5) Für frühere Soldaten auf Zeit, die ihre volle berufliche
-Leistungsfähigkeit erst nach einer Einarbeitungszeit erlangen können,
-kann ein Einarbeitungszuschuss gewährt werden.
+(5) Für frühere Soldaten auf Zeit und für freiwilligen Wehrdienst nach
+Abschnitt 7 des Wehrpflichtgesetzes Leistende, die ihre volle
+berufliche Leistungsfähigkeit erst nach einer Einarbeitungszeit
+erlangen können, kann ein Einarbeitungszuschuss gewährt werden.
 
 (6) Bewirbt sich ein Soldat auf Zeit, dessen Dienstzeit für einen
 Zeitraum von zwölf oder mehr Jahren festgesetzt worden ist, bis zum
@@ -826,59 +909,101 @@ als Soldat auf Zeit berufen wird.
 
 *    *   1.
 
-    *   vier und weniger als sechs Jahren
+    *   4 und weniger als
+        5 Jahren
 
-    *
-    *   für sieben Monate,
+    *   für 12 Monate,
 
 
 *    *   2.
 
-    *   sechs und weniger als acht Jahren
+    *   5 und weniger als
+        6 Jahren
 
-    *
-    *   für ein Jahr,
+    *   für 18 Monate,
 
 
 *    *   3.
 
-    *   acht und weniger als zwölf Jahren
+    *   6 und weniger als
+        7 Jahren
 
-    *
-    *   für ein Jahr und neun Monate,
+    *   für 24 Monate,
 
 
 *    *   4.
 
-    *   zwölf und mehr Jahren
+    *   7 und weniger als
+        8 Jahren
 
-    *
-    *   für drei Jahre.
+    *   für 30 Monate,
+
+
+*    *   5.
+
+    *   8 und weniger als
+        9 Jahren
+
+    *   für 36 Monate,
+
+
+*    *   6.
+
+    *   9 und weniger als
+        10 Jahren
+
+    *   für 42 Monate,
+
+
+*    *   7.
+
+    *   10 und weniger als
+        11 Jahren
+
+    *   für 48 Monate,
+
+
+*    *   8.
+
+    *   11 und weniger als
+        12 Jahren
+
+    *   für 54 Monate und
+
+
+*    *   9.
+
+    *   12 und mehr Jahren
+
+    *   für 60 Monate.
 
 
 
-Soldaten auf Zeit, deren Förderungsanspruch sich nach § 5 Absatz 9
-Satz 2 bestimmt, erhalten Übergangsgebührnisse nach Satz 1 Nummer 3
-für ein Jahr und nach Satz 1 Nummer 4 für zwei Jahre. Die Gewährung
-ergänzender Zeiten der Freistellung vom militärischen Dienst nach § 5
-Absatz 11 führt zu einer entsprechenden Verkürzung der Bezugszeiträume
-der Übergangsgebührnisse nach den Sätzen 1 und 2.
+Soldaten auf Zeit mit einem Förderungsanspruch nach § 5 Absatz 9
+erhalten Übergangsgebührnisse entsprechend den dort festgelegten
+Förderungszeiten. Die Gewährung einer Freistellung vom militärischen
+Dienst nach § 5 Absatz 11 führt zu einer entsprechenden Verkürzung der
+Bezugszeiträume nach den Sätzen 1 und 2. Die Bezugszeiträume verkürzen
+sich ferner um den Umfang einer Minderung nach Maßgabe des § 5 Absatz
+6 bis 8 und 10.
 
-(3) Die Übergangsgebührnisse betragen 75 vom Hundert der Dienstbezüge
+(3) Die Übergangsgebührnisse betragen 50 vom Hundert der Dienstbezüge
 des letzten Monats; war ein Soldat auf Zeit im letzten Monat ohne
 Dienstbezüge beurlaubt oder teilzeitbeschäftigt, gelten als
 Dienstbezüge die dem letzten Dienstgrad entsprechenden Dienstbezüge.
 Bei der Berechnung ist der Familienzuschlag (§ 47 Absatz 1 Satz 1) bis
 zur Stufe 1 zugrunde zu legen. Die Übergangsgebührnisse erhöhen sich
-auf 90 vom Hundert der Dienstbezüge des letzten Monats, wenn und
+um einen Bildungszuschuss, der auf Antrag gewährt wird, wenn und
 solange während des Bezugszeitraums an einer nach § 5 geförderten
-Bildungsmaßnahme in Vollzeitform teilgenommen wird. Der jeweilige
-Bemessungssatz der Übergangsgebührnisse vermindert sich um 15 vom
-Hundert der Dienstbezüge des letzten Monats, wenn und solange während
-des Bezugszeitraums Erwerbseinkommen, das kein Erwerbseinkommen aus
-einer Verwendung im Sinne des § 53 Absatz 6 ist, oder Einkünfte auf
-Grund einer Bildungsmaßnahme erzielt werden, die höher sind als der
-Betrag dieser Verminderung.
+Bildungsmaßnahme in Vollzeitform teilgenommen wird; in diesem Fall
+beträgt der Bildungszuschuss 50 vom Hundert der Dienstbezüge des
+letzten Monats. Liegen die Voraussetzungen des Satzes 3 nicht vor,
+erhöhen sich die Übergangsgebührnisse auf Antrag um einen
+Versorgungszuschuss in Höhe von 25 vom Hundert der Dienstbezüge des
+letzten Monats. Erwerbseinkommen, das kein Erwerbseinkommen aus einer
+Verwendung im Sinne des § 53 Absatz 6 ist, oder Einkünfte auf Grund
+einer Bildungsmaßnahme werden auf den Bildungs- oder
+Versorgungszuschuss angerechnet.
 
 (4) Wird die Förderungsdauer nach § 5 Absatz 12 zu Gunsten einer
 Vollzeitausbildung verlängert, sind für die Zeit der Verlängerung
@@ -891,22 +1016,30 @@ des Bundes unter Berücksichtigung des Familienzuschlages bis zur Stufe
 1; ein Einkommen aus der Bildungsmaßnahme ist anzurechnen.
 
 (5) Übergangsgebührnisse können den Soldaten auf Zeit, die nach einer
-Dienstzeit von mindestens vier Jahren auf eigenen Antrag entlassen
-worden sind, in den Grenzen der Absätze 2 und 3 in dem zeitlichen und
-finanziellen Umfang bewilligt werden, wie es übergangsweise zur
-Sicherung des Lebensunterhalts notwendig ist.
+Dienstzeit von mindestens vier Jahren auf eigenen Antrag nach § 55
+Absatz 3 des Soldatengesetzes entlassen worden sind, in den Grenzen
+der Absätze 2 und 3 in dem zeitlichen und finanziellen Umfang
+bewilligt werden, wie es übergangsweise zur Sicherung des
+Lebensunterhalts notwendig ist.
 
-(6) Die Übergangsgebührnisse werden grundsätzlich in Monatsbeträgen
-wie die Dienstbezüge gezahlt. Die Zahlung kann auf Antrag längstens
-für sechs Jahre aufgeschoben oder unterbrochen werden, wenn dadurch
-Nachteile für die Umsetzung des Förderungsplans oder für die
-Eingliederung vermieden werden können. Beim Tod des Berechtigten ist
-der noch nicht ausgezahlte Betrag dem überlebenden Ehegatten oder
-seinen Abkömmlingen weiterzuzahlen. Sind Anspruchsberechtigte nach
-Satz 3 nicht vorhanden, sind die Übergangsgebührnisse den Eltern
-weiterzuzahlen. Sind Personen vorhanden, die Anspruch auf Witwen- oder
-Waisengeld oder Unterhaltsbeitrag nach § 42a haben, sind die Sätze 3
-und 4 nicht anzuwenden.
+(6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die
+Dienstbezüge gezahlt. Die Zahlung kann auf Antrag längstens für sechs
+Jahre aufgeschoben oder unterbrochen werden, wenn dadurch Nachteile
+für die Umsetzung des Förderungsplans oder für die Eingliederung
+vermieden werden können. Soweit es der Eingliederung in das zivile
+Erwerbsleben dient, kann die für die Zahlung von Übergangsgebührnissen
+zuständige Stelle in begründeten Einzelfällen, insbesondere zur
+Schaffung oder Verbesserung einer Existenzgrundlage, die Zahlung für
+den gesamten Anspruchszeitraum oder für mehrere Monate in einer Summe
+zulassen; für diesen Zeitraum gilt der Anspruch auf
+Übergangsgebührnisse mit der Zahlung als abgegolten. Beim Tod des
+Berechtigten ist der noch nicht ausgezahlte Betrag dem überlebenden
+Ehegatten oder seinen Abkömmlingen weiterzuzahlen. Sind
+Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die
+Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen
+vorhanden, die Anspruch auf Witwen- oder Waisengeld oder
+Unterhaltsbeitrag nach § 42a haben, sind die Sätze 4 und 5 nicht
+anzuwenden.
 
 (7) Übergangsgebührnisse stehen für einen Zeitraum nicht zu, für den
 Versorgungskrankengeld nach § 16 des Bundesversorgungsgesetzes oder
@@ -943,7 +1076,7 @@ wenn das Beamtenverhältnis nach der Ernennung zum Beamten auf
 Lebenszeit endet.
 
 (2) Stirbt ein ehemaliger Soldat auf Zeit, der einen Anspruch auf
-Ausgleichsbezüge hat, ist § 11 Absatz 6 Satz 3 und 4 mit der Maßgabe
+Ausgleichsbezüge hat, ist § 11 Absatz 6 Satz 4 und 5 mit der Maßgabe
 entsprechend anzuwenden, dass den anspruchsberechtigten
 Hinterbliebenen vom Ersten des auf den Sterbemonat folgenden Monats an
 Übergangsgebührnisse für einen Zeitraum zu zahlen sind, für den sie
@@ -972,44 +1105,161 @@ nach einer Dienstzeit von
 
 *    *   1.
 
-    *   weniger als 18 Monaten
+    *   weniger als
+        18 Monaten
 
-    *   das Eineinhalbfache,
+    *   das 1,5fache,
 
 
 *    *   2.
 
-    *   18 Monaten und weniger als zwei Jahren
+    *   18 Monaten und
+        weniger als 2 Jahren
 
-    *   das Einvierfünftelfache,
+    *   das 1,8fache,
 
 
 *    *   3.
 
-    *   zwei und weniger als vier Jahren
+    *   2 und weniger als
+        4 Jahren
 
-    *   das Zweifache,
+    *   das 2fache,
 
 
 *    *   4.
 
-    *   vier und weniger als acht Jahren
+    *   4 und weniger als
+        5 Jahren
 
-    *   das Vierfache,
+    *   das 4fache,
 
 
 *    *   5.
 
-    *   acht bis einschließlich 20 Jahren
+    *   5 und weniger als
+        6 Jahren
 
-    *   das Sechsfache,
+    *   das 4,5fache,
 
 
 *    *   6.
 
-    *   mehr als 20 Jahren
+    *   6 und weniger als
+        7 Jahren
 
-    *   das Achtfache.
+    *   das 5fache,
+
+
+*    *   7.
+
+    *   7 und weniger als
+        8 Jahren
+
+    *   das 5,5fache,
+
+
+*    *   8.
+
+    *   8 und weniger als
+        9 Jahren
+
+    *   das 6fache,
+
+
+*    *   9.
+
+    *   9 und weniger als
+        10 Jahren
+
+    *   das 6,5fache,
+
+
+*    *   10.
+
+    *   10 und weniger als
+        11 Jahren
+
+    *   das 7fache,
+
+
+*    *   11.
+
+    *   11 und weniger als
+        12 Jahren
+
+    *   das 7,5fache,
+
+
+*    *   12.
+
+    *   12 und weniger als
+        13 Jahren
+
+    *   das 8fache,
+
+
+*    *   13.
+
+    *   13 und weniger als
+        14 Jahren
+
+    *   das 8,5fache,
+
+
+*    *   14.
+
+    *   14 und weniger als
+        15 Jahren
+
+    *   das 9fache,
+
+
+*    *   15.
+
+    *   15 und weniger als
+        16 Jahren
+
+    *   das 9,5fache,
+
+
+*    *   16.
+
+    *   16 und weniger als
+        17 Jahren
+
+    *   das 10fache,
+
+
+*    *   17.
+
+    *   17 und weniger als
+        18 Jahren
+
+    *   das 10,5fache,
+
+
+*    *   18.
+
+    *   18 und weniger als
+        19 Jahren
+
+    *   das 11fache,
+
+
+*    *   19.
+
+    *   19 und weniger als
+        20 Jahren
+
+    *   das 11,5fache und
+
+
+*    *   20.
+
+    *   20 und mehr Jahren
+
+    *   das 12fache
 
 
 
@@ -1050,7 +1300,7 @@ der nach Absatz 2 gewährten Übergangsbeihilfe ist nicht zulässig.
 bewilligt, so wird die Übergangsbeihilfe in dem entsprechenden Umfang
 gewährt.
 
-(7) Die in § 11 Absatz 6 Satz 3 genannten Hinterbliebenen eines
+(7) Die in § 11 Absatz 6 Satz 4 genannten Hinterbliebenen eines
 Soldaten auf Zeit, der nach einer Wehrdienstzeit von mehr als sechs
 Monaten verstorben ist, erhalten die Übergangsbeihilfe, die dem
 Verstorbenen nach Absatz 2 zugestanden hätte, wenn im Zeitpunkt seines
@@ -1261,6 +1511,27 @@ In den Fällen des § 25 Absatz 4 Satz 3 des Soldatengesetzes ist § 13b
 Absatz 1 Satz 1 entsprechend anzuwenden hinsichtlich der Zeit, um die
 die Zeit des Dienstverhältnisses bis zum Ende der Amtszeit kürzer ist
 als die festgesetzte Dienstzeit.
+
+
+##### e) - Unterhaltsbeitrag für Soldaten auf Zeit
+
+
+
+###### § 13e
+
+Einem früheren Soldaten auf Zeit, dessen Dienstverhältnis nach einer
+Gesamtdienstzeit von mehr als 20 Jahren wegen Ablaufs der Zeit, für
+die der Soldat auf Zeit in das Dienstverhältnis eines Soldaten auf
+Zeit berufen worden ist, oder wegen Dienstunfähigkeit endet, nachdem
+seine Dienstzeit auf mehr als 20 Jahre festgesetzt wurde, kann nach
+Beendigung der Zahlung der Übergangsgebührnisse nach § 11 ein
+Unterhaltsbeitrag bis zur Höhe von 75 vom Hundert der
+Mindestversorgung eines Soldaten im Ruhestand nach § 26 Absatz 7 Satz
+2 bewilligt werden. Die wirtschaftlichen Verhältnisse des früheren
+Soldaten auf Zeit sind angemessen zu berücksichtigen. Der
+Unterhaltsbeitrag entfällt spätestens ab dem Zeitpunkt, ab dem ein
+Anspruch auf eine Rente aus der gesetzlichen Rentenversicherung auf
+Grund der durchgeführten Nachversicherung besteht.
 
 
 ### Abschnitt II - Dienstzeitversorgung der Berufssoldaten
@@ -1496,20 +1767,30 @@ Die Absätze 1 und 2 gelten entsprechend.
 ###### § 21
 
 Die ruhegehaltfähige Dienstzeit nach § 20 erhöht sich um die Zeit, die
-ein Soldat im Ruhestand zurückgelegt hat
 
-1.  in einer seine Arbeitskraft voll beanspruchenden entgeltlichen
-    Beschäftigung als Berufssoldat, Beamter, Richter oder in einem
-    Amtsverhältnis im Sinne des § 20 Absatz 3 Satz 1 Nummer 1 und 2, ohne
-    einen neuen Versorgungsanspruch zu erlangen,
+1.  ein Soldat im Ruhestand zurückgelegt hat
 
-
-2.  in einer Tätigkeit im Sinne des § 64 Absatz 1 Satz 1 Nummer 3.
+    a)  in einer seine Arbeitskraft voll beanspruchenden entgeltlichen
+        Beschäftigung als Berufssoldat, Beamter, Richter oder in einem
+        Amtsverhältnis im Sinne des § 20 Absatz 3 Satz 1 Nummer 1 und 2, ohne
+        einen neuen Versorgungsanspruch zu erlangen,
 
 
+    b)  in einer Tätigkeit im Sinne des § 64 Absatz 1 Satz 1 Nummer 3,
 
-§ 20 Absatz 1 Satz 2 Nummer 2 und 3 und Absatz 2 gilt entsprechend,
-für die Anwendung des Satzes 1 Nummer 1 außerdem § 64 Absatz 2 Satz 2.
+
+
+
+
+2.  im einstweiligen Ruhestand zurückgelegt worden ist, bis zu drei
+    Jahren, wenn die Versetzung in den einstweiligen Ruhestand nach dem
+    31\. Dezember 2011 erfolgt ist.
+
+
+
+§ 20 Absatz 1 Satz 2 Nummer 2 und 3 sowie Absatz 2 gilt entsprechend.
+Für die Anwendung des Satzes 1 Nummer 1 Buchstabe a gilt außerdem § 64
+Absatz 2 Satz 2 entsprechend.
 
 
 ###### § 22
@@ -2255,31 +2536,57 @@ und 3 gelten entsprechend.
 
 ##### § 39
 
-(1) Einem Berufssoldaten, dessen Dienstverhältnis vor dem vollendeten
-45\. Lebensjahr wegen Dienstunfähigkeit infolge Wehrdienstbeschädigung
-endet, wird auf Antrag die Förderung der schulischen oder beruflichen
-Bildung in dem Umfang gewährt, wie sie einem Soldaten auf Zeit mit
-einer Wehrdienstzeit von zwölf Jahren nach der Wehrdienstzeit zusteht.
-Endet das Dienstverhältnis eines Berufssoldaten vor dem vollendeten
-40\. Lebensjahr wegen Dienstunfähigkeit infolge Wehrdienstbeschädigung,
-ist auf Antrag auch der Zulassungsschein zu erteilen. Beruht die
-Dienstunfähigkeit nicht auf einer Wehrdienstbeschädigung, können die
-Leistungen nach den Sätzen 1 und 2 gewährt werden. Die Sätze 1 und 2
-gelten entsprechend für einen Berufssoldaten, dessen Dienstverhältnis
-wegen Überschreitens der für Offiziere in Verwendungen als
-Flugzeugführer oder Waffensystemoffizier in strahlgetriebenen
-Kampfflugzeugen im Soldatengesetz festgesetzten besonderen
-Altersgrenze endet; ihm können zudem auch die Leistungen nach den §§
-3a, 4 und 7 Absatz 1, 2, 4 und 5 gewährt werden. § 5 Absatz 9 Satz 1
-gilt entsprechend.
+(1) Einem Berufssoldaten, dessen Dienstverhältnis vor Vollendung des
+45\. Lebensjahres wegen Dienstunfähigkeit infolge einer
+Wehrdienstbeschädigung endet, wird auf Antrag die Förderung der
+schulischen oder beruflichen Bildung in dem Umfang gewährt, wie sie
+einem Soldaten auf Zeit mit einer Wehrdienstzeit von acht Jahren
+zusteht.
 
-(2) § 5 sowie bei der Anwendung des Absatzes 1 Satz 2 auch die §§ 4, 9
-und 10 gelten entsprechend.
+(2) Die Förderungszeiten betragen
 
-(3) Für die Dauer der Teilnahme an einer nach Absatz 1 geförderten
-Bildungsmaßnahme in Vollzeitform wird ein Zuschlag zum Ruhegehalt in
-Höhe von 15 vom Hundert der jeweils ruhegehaltfähigen Dienstbezüge
-gewährt; Einkommen aus der Bildungsmaßnahme ist anzurechnen.
+1.  24 Monate bei einem Offizier, der einen Hochschulabschluss im Sinne
+    des § 1 des Hochschulrahmengesetzes auf Kosten des Bundes erworben
+    hat,
+
+
+2.  36 Monate
+
+    a)  bei einem Offizier, der mit einem nach den Laufbahnvorschriften
+        geforderten Hochschulabschluss im Sinne des § 1 des
+        Hochschulrahmengesetzes eingestellt worden ist, und
+
+
+    b)  bei einem Unteroffizier des Militärmusikdienstes, der im Rahmen seiner
+        militärfachlichen Ausbildung eine Hochschule besucht und das
+        vorgegebene Studienziel erreicht hat.
+
+
+
+
+
+
+
+(3) Endet das Dienstverhältnis vor Vollendung des 40. Lebensjahres
+wegen Dienstunfähigkeit infolge Wehrdienstbeschädigung, ist auf Antrag
+auch der Zulassungsschein zu erteilen. Beruht die Dienstunfähigkeit
+nicht auf einer Wehrdienstbeschädigung, können die Leistungen nach
+Satz 1 sowie den Absätzen 1 und 2 gewährt werden.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend für einen Offizier, der
+wegen Überschreitens der besonderen Altersgrenze nach § 45 Absatz 2
+Nummer 6 des Soldatengesetzes in den Ruhestand versetzt wird. Zudem
+können ihm auch die Leistungen nach den §§ 3a, 4 Absatz 1 und 3 sowie
+§ 7 Absatz 1, 2, 4 und 5 gewährt werden.
+
+(5) § 5 gilt entsprechend. Bei der Anwendung des Absatzes 3 Satz 1
+gelten auch § 4 Absatz 1 und 3 sowie die §§ 9 und 10 entsprechend.
+
+(6) Für die Dauer der Teilnahme an einer nach den Absätzen 1 und 2
+geförderten Bildungsmaßnahme in Vollzeitform wird ein Zuschlag zum
+Ruhegehalt in Höhe von 15 vom Hundert der jeweils ruhegehaltfähigen
+Dienstbezüge gewährt; Einkommen aus der Bildungsmaßnahme ist
+anzurechnen.
 
 
 ##### § 40
@@ -2422,7 +2729,7 @@ Wahrscheinlichkeit anzunehmen ist.
 
 (2) Vom Ersten des Monats an, der dem in Absatz 1 bestimmten Zeitpunkt
 folgt, erhalten die Personen, die im Falle des Todes des Verschollenen
-nach § 11 Absatz 6 Satz 3 oder Satz 4 oder nach § 11a Absatz 2
+nach § 11 Absatz 6 Satz 4 oder Satz 5 oder nach § 11a Absatz 2
 Übergangsgebührnisse, nach § 12 Absatz 7 eine Übergangsbeihilfe, nach
 § 42 eine Unterstützung, nach § 43 Witwen- oder Waisengeld oder einen
 Unterhaltsbeitrag erhalten würden, diese Bezüge. Ist ein Soldat auf
@@ -2496,7 +2803,7 @@ an die Stelle des Witwengeldes das Witwergeld.
 
 
 Satz 1 Nummer 3 gilt auch bei Weiterzahlung an die Hinterbliebenen (§
-11 Absatz 6 Satz 3 und 4, § 11a Absatz 2), außer für die Anwendung des
+11 Absatz 6 Satz 4 und 5, § 11a Absatz 2), außer für die Anwendung des
 § 53.
 
 (2) Wegen der Unterhaltsbeiträge für Hinterbliebene (§ 43) gilt § 63
@@ -3445,7 +3752,7 @@ Betrag anzurechnen, der ansonsten zu zahlen wäre. Der Auflösung der
 Ehe steht die Nichtigerklärung gleich.
 
 (4) Absatz 1 Satz 1 Nummer 1 und 2 und die Absätze 2 und 3 gelten
-nicht in den Fällen des § 11 Absatz 6 Satz 3 und des § 11a Absatz 2.
+nicht in den Fällen des § 11 Absatz 6 Satz 4 und des § 11a Absatz 2.
 
 
 #### 14. - Anzeigepflicht
@@ -3466,7 +3773,7 @@ Gewährung einer Versorgung unverzüglich anzuzeigen.
 
 
 2.  den Bezug von Versorgungskrankengeld (§ 11 Absatz 7) und den Bezug und
-    jede Änderung von Einkünften nach § 11 Absatz 3 Satz 4 und den §§ 22
+    jede Änderung von Einkünften nach § 11 Absatz 3 Satz 5 und den §§ 22
     und 26 Absatz 8, den §§ 26a, 37 und 43 sowie den §§ 53 bis 55b und 59
     Absatz 2,
 
@@ -5349,7 +5656,7 @@ Amtszulagen, Stellenzulagen und Ausgleichszulagen. Zu den
 Dienstbezügen im Sinne des § 11a Absatz 1 Satz 2 gehören auch
 Amtszulagen. Für die Berechnung der Übergangsgebührnisse nach § 11 und
 der Ausgleichsbezüge nach § 11a sind die Dienstbezüge mit dem Faktor
-0,9951 zu multiplizieren.
+0,9901 zu multiplizieren.
 
 
 ### 1b. - Anpassung der Versorgungsbezüge
@@ -5851,7 +6158,7 @@ als Unterbrechung des Dienstverhältnisses; die Zeit im Ruhestand ist
 nicht ruhegehaltfähig. Das höhere Ruhegehalt wird gezahlt.
 
 
-### 7. - Übergangsregelungen für vor dem 1. Juli 1997 bewilligte Freistellungen oder eingetretene Versorgungsfälle
+### 7. - Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle
 
 
 
@@ -6400,6 +6707,85 @@ werden die Bezüge und Bezügebestandteile nach den Absätzen 1 bis 3 mit
 Ausnahme der Bezüge nach Absatz 1 Nummer 1 Buchstabe b und Nummer 2
 sowie nach Absatz 2 Nummer 2 in Verbindung mit Absatz 1 Nummer 2 um
 2,44 vom Hundert erhöht.
+
+
+### 13. - Übergangsregelungen aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
+
+
+
+#### § 101
+
+Ist der Anspruch auf eine einmalige Unfallentschädigung nach § 63 oder
+auf eine einmalige Entschädigung nach § 63a in der Zeit vom 1.
+Dezember 2002 bis zum 12. Dezember 2011 entstanden, beträgt die
+Entschädigung
+
+1.
+    *        *   nach § 63 Absatz 3
+            Nummer 1 und § 63a Absatz 1
+
+        *   150 000 Euro,
+
+
+
+
+
+2.
+    *        *   nach § 63 Absatz 3
+            Nummer 2 und
+            § 63a Absatz 3 Nummer 1
+
+        *   100 000 Euro,
+
+
+
+
+
+3.
+    *        *   nach § 63 Absatz 3
+            Nummer 3 und
+            § 63a Absatz 3 Nummer 2
+
+        *   40 000 Euro,
+
+
+
+
+
+4.
+    *        *   nach § 63 Absatz 3
+            Nummer 4 und
+            § 63a Absatz 3 Nummer 3
+
+        *   20 000 Euro.
+
+
+
+
+
+
+Aus gleichem Anlass bereits gewährte Leistungen nach § 63 oder § 63a
+sind anzurechnen. Die Sätze 1 und 2 gelten für die einmalige
+Entschädigung nach § 63e entsprechend.
+
+
+### 14. - Übergangsregelungen aus Anlass des Bundeswehrreform-Begleitgesetzes
+
+
+
+#### § 102
+
+(1) Für die bei Inkrafttreten des Bundeswehrreform-Begleitgesetzes
+vorhandenen Versorgungsempfänger sowie die Soldaten, die vor dem
+Inkrafttreten des Bundeswehrreform-Begleitgesetzes in das
+Dienstverhältnis eines Soldaten auf Zeit berufen worden sind oder die
+ihren Dienst als freiwilligen Wehrdienst nach Abschnitt 7 des
+Wehrpflichtgesetzes Leistende angetreten haben, gilt weiterhin das
+bisherige Recht.
+
+(2) § 5 Absatz 8, § 6 Absatz 2, die §§ 7 und 11 Absatz 6, die §§ 11a
+und 12 Absatz 7 sowie die §§ 21, 44, 45, 59, 89a und 101 sind
+anzuwenden.
 
 Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 1146)

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2093
 
 Zuletzt geändert durch
-:   Art. 20 G v. 24.11.2011 I 2302
+:   Art. 13 G v. 21.7.2012 I 1583
 
 
 ## Einleitende Bestimmungen
@@ -592,6 +592,12 @@ Disziplinarmaßnahme zulässig.
 (3) Eine einfache Disziplinarmaßnahme steht der Beförderung eines im
 Übrigen bewährten Soldaten nicht entgegen.
 
+(4) Gegen Soldaten in einem Wehrdienstverhältnis nach dem
+Reservistinnen- und Reservistengesetz kann außerhalb einer Aktivierung
+nach § 8 des Reservistinnen- und Reservistengesetzes oder einer
+Zuziehung nach § 9 des Reservistinnen- und Reservistengesetzes nur ein
+Verweis verhängt werden.
+
 
 ##### § 23 Verweis, strenger Verweis
 
@@ -1111,22 +1117,22 @@ Maßgabe anzuwenden:
     errichtet ist, zu dem der Vorgesetzte, der die angefochtene
     Disziplinarmaßnahme verhängt oder die angefochtene Maßnahme oder
     Entscheidung getroffen hat, zum Zeitpunkt des Beschwerdeanlasses
-    gehört. Hat der Bundesminister der Verteidigung oder einer der in § 22
-    der Wehrbeschwerdeordnung genannten Disziplinarvorgesetzten über die
-    Beschwerde entschieden, ist das Bundesverwaltungsgericht zuständig.
-    Die angefochtene Disziplinarmaßnahme, Maßnahme oder Entscheidung
-    unterliegt der Prüfung des Wehrdienstgerichts in vollem Umfang; das
-    Gericht trifft zugleich die in der Sache erforderliche Entscheidung. §
-    40 Abs. 4 Satz 7 gilt entsprechend.
+    gehört. Hat der Bundesminister der Verteidigung oder der
+    Generalinspekteur der Bundeswehr über die Beschwerde entschieden, ist
+    das Bundesverwaltungsgericht zuständig. Die angefochtene
+    Disziplinarmaßnahme, Maßnahme oder Entscheidung unterliegt der Prüfung
+    des Wehrdienstgerichts in vollem Umfang; das Gericht trifft zugleich
+    die in der Sache erforderliche Entscheidung. § 40 Abs. 4 Satz 7 gilt
+    entsprechend.
 
 
 5.  Gegen die Rücknahme einer förmlichen Anerkennung, gegen Maßnahmen nach
     § 20 und gegen Disziplinararrest ist nur die Beschwerde an das
     Truppendienstgericht zulässig. Richtet sich die Beschwerde in diesen
     Fällen gegen eine Maßnahme oder Entscheidung des Bundesministers der
-    Verteidigung oder der in § 22 der Wehrbeschwerdeordnung genannten
-    Disziplinarvorgesetzten, entscheidet das Bundesverwaltungsgericht.
-    Nummer 4 Satz 4 und 5 ist entsprechend anzuwenden.
+    Verteidigung oder des Generalinspekteurs der Bundeswehr, entscheidet
+    das Bundesverwaltungsgericht. Nummer 4 Satz 4 und 5 ist entsprechend
+    anzuwenden.
 
 
 6.  Die Entscheidung über die Beschwerde darf die Disziplinarmaßname nicht
@@ -1571,9 +1577,11 @@ frühere Soldaten, die noch zu Dienstleistungen herangezogen werden
 können, dürfen nur die in Satz 1 genannten gerichtlichen
 Disziplinarmaßnahmen verhängt werden.
 
-(3) Gerichtliche Disziplinarmaßnahmen gegen Angehörige der Reserve
-sowie gegen nicht wehrpflichtige frühere Soldaten, die noch zu
-Dienstleistungen herangezogen werden können, sind:
+(3) Gerichtliche Disziplinarmaßnahmen gegen Soldaten in einem
+Wehrdienstverhältnis nach dem Reservistinnen- und Reservistengesetz,
+gegen Angehörige der Reserve sowie gegen nicht wehrpflichtige frühere
+Soldaten, die noch zu Dienstleistungen herangezogen werden können,
+sind:
 
 1.  Dienstgradherabsetzung und
 
@@ -1582,6 +1590,10 @@ Dienstleistungen herangezogen werden können, sind:
 
 
 
+Für Soldaten im Ruhestand und frühere Soldaten, die als Soldaten im
+Ruhestand gelten (§ 1 Absatz 3), die in ein Wehrdienstverhältnis nach
+dem Reservistinnen- und Reservistengesetz berufen werden, bleibt
+Absatz 2 Satz 1 unberührt.
 
 (4) Wegen desselben Dienstvergehens dürfen nur Kürzung der
 Dienstbezüge und Beförderungsverbot nebeneinander verhängt werden. Sie

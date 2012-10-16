@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3822
 
-Geändert durch
-:   Art. 3 Abs. 15 G v. 14.8.2006 I 1897
+Zuletzt geändert durch
+:   Art. 11 G v. 21.7.2012 I 1583
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -254,7 +254,11 @@ und in vertretbarem Rahmen möglich, sollen zusätzliche Veranstaltungen
 angeboten werden, die den räumlichen und zeitlichen Bedürfnissen von
 Soldatinnen und Soldaten mit Familienpflichten entsprechen.
 Möglichkeiten der Kinderbetreuung sollen im Bedarfsfall angeboten
-werden.
+werden. Im Einzelfall können auf Antrag für die Dauer der Teilnahme an
+dienstlichen Maßnahmen der Aus-, Fort- und Weiterbildung zusätzlich
+anfallende unabwendbare Kinderbetreuungskosten erstattet werden. Das
+Nähere regelt das Bundesministerium der Verteidigung durch
+Rechtsverordnung ohne Zustimmung des Bundesrates.
 
 (3) Dem mit der Personalführung und Personalbearbeitung beauftragten
 Personal sowie dem Personal in Funktionen mit Vorgesetzten- und

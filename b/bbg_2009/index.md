@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 2 G v. 15.3.2012 I 462
+:   Art. 4 G v. 21.7.2012 I 1583
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -2059,10 +2059,22 @@ Lebenszeit oder Beamte auf Lebenszeit sind:
 6.  (weggefallen)
 
 
-7.  die Präsidentin oder den Präsidenten des Bundeskriminalamtes und
+7.  die Präsidentin oder den Präsidenten des Bundeskriminalamtes,
 
 
-8.  die Präsidentin oder den Präsidenten des Bundespolizeipräsidiums.
+8.  die Präsidentin oder den Präsidenten des Bundespolizeipräsidiums,
+
+
+9.  die Präsidentin oder den Präsidenten des Bundesamtes für das
+    Personalmanagement der Bundeswehr,
+
+
+10. die Präsidentin oder den Präsidenten des Bundesamtes für Ausrüstung,
+    Informationstechnik und Nutzung der Bundeswehr und
+
+
+11. die Präsidentin oder den Präsidenten des Bundesamtes für
+    Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr.
 
 
 
