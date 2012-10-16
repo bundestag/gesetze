@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30. 5.2005 I 1482
 
 Zuletzt geändert durch
-:   Art. 6 G v. 15.3.2012 I 462
+:   Art. 9 G v. 21.7.2012 I 1583
 
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
@@ -57,8 +57,7 @@ einer einheitlichen Befehlsbefugnis in kritischer Lage begründet
 werden.
 
 (4) Disziplinarvorgesetzter ist, wer Disziplinarbefugnis über Soldaten
-seines Befehlsbereichs hat. Das Nähere regelt die
-Wehrdisziplinarordnung.
+hat. Das Nähere regelt die Wehrdisziplinarordnung.
 
 
 #### § 2 Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung
@@ -161,13 +160,8 @@ entsprechender Rechtsvorschriften ruhen, einen Dienst nach § 51 Abs. 6
 oder § 54 Abs. 4 leistet.
 
 
-#### § 4a Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
+#### § 4a (weggefallen)
 
-Soldaten der Bundeswehr kann nach ihrem Ausscheiden aus dem Wehrdienst
-genehmigt werden, außerhalb eines Wehrdienstverhältnisses die Uniform
-der Soldaten mit dem Abzeichen des Dienstgrades, den zu führen sie
-berechtigt sind, und mit der für ausgeschiedene Soldaten vorgesehenen
-Kennzeichnung zu tragen. Näheres regelt eine Rechtsverordnung.
 
 
 #### § 5 Gnadenrecht
@@ -266,6 +260,10 @@ begangen würde. Befolgt der Untergebene den Befehl trotzdem, so trifft
 ihn eine Schuld nur, wenn er erkennt oder wenn es nach den ihm
 bekannten Umständen offensichtlich ist, dass dadurch eine Straftat
 begangen wird.
+
+(3) Im Verhältnis zu Personen, die befugt sind, dienstliche
+Anordnungen zu erteilen, die keinen Befehl darstellen, gelten § 62
+Absatz 1 und § 63 des Bundesbeamtengesetzes entsprechend.
 
 
 #### § 12 Kameradschaft
@@ -1712,8 +1710,8 @@ Dienstverhältnisses fest.
 
 
 
-In den Fällen der Nummer 2 kann das Bundesministerium der Verteidigung
-wegen besonderer Härte eine Ausnahme zulassen.
+In den Fällen des Satzes 1 Nummer 2 kann das Bundesministerium der
+Verteidigung wegen besonderer Härte eine Ausnahme zulassen.
 
 (3) Der Berufssoldat kann jederzeit seine Entlassung verlangen; soweit
 seine militärische Ausbildung mit einem Studium oder einer
@@ -1985,9 +1983,8 @@ Grundgesetzes ein Grundrecht verwirkt hat. § 52 gilt entsprechend.
 (1) Das Dienstverhältnis eines Soldaten auf Zeit endet mit dem Ablauf
 der Zeit, für die er in das Dienstverhältnis berufen ist. Das
 Dienstverhältnis endet auch mit Ablauf des Monats, in dem das
-Erlöschen des Rechts aus dem Eingliederungsschein (§ 9 Abs. 3 Satz 2
-Nr. 1 bis 3 des Soldatenversorgungsgesetzes) unanfechtbar festgestellt
-worden ist.
+Erlöschen des Rechts aus dem Eingliederungsschein (§ 9 Absatz 5 des
+Soldatenversorgungsgesetzes) unanfechtbar festgestellt worden ist.
 
 (2) Das Dienstverhältnis endet ferner durch
 
@@ -2134,27 +2131,33 @@ und gegen ihn auf eine der in § 48 Satz 1 bezeichneten Strafen,
 Maßregeln oder Nebenfolgen erkannt wird.
 
 
-## Dritter Abschnitt - Rechtsstellung der Soldaten, die nach Maßgabe des Wehrpflichtgesetzes Wehrdienst leisten
+## Dritter Abschnitt - Wehrdienst nach dem Wehrpflichtgesetz; Reservewehrdienstverhältnis
 
 
 
-### § 58 Regelung durch Gesetz; Form der Beförderung
+### § 58 Wehrdienst nach dem Wehrpflichtgesetz
 
 (1) Die Begründung der Wehrpflicht, die Heranziehung der
 Wehrpflichtigen zum Wehrdienst und die Beendigung ihres Wehrdienstes
 regelt das Wehrpflichtgesetz.
 
-(2) Die Beförderung eines Soldaten, der nach Maßgabe des
-Wehrpflichtgesetzes Wehrdienst leistet, wird mit der dienstlichen
-Bekanntgabe an den Soldaten, jedoch nicht vor dem in der
-Ernennungsverfügung bestimmten Tag wirksam. § 42 Abs. 2 Satz 2 gilt
-entsprechend. Die Sätze 1 und 2 gelten entsprechend für diejenigen,
-die zu den in § 60 genannten Dienstleistungen herangezogen werden.
+(2) Die Beförderung eines Soldaten, der Wehrdienst nach dem
+Wehrpflichtgesetz leistet, wird mit der dienstlichen Bekanntgabe an
+den Soldaten, jedoch nicht vor dem in der Ernennungsverfügung
+bestimmten Tag wirksam. § 42 Abs. 2 Satz 2 gilt entsprechend. Die
+Sätze 1 und 2 gelten entsprechend für diejenigen, die zu den in § 60
+genannten Dienstleistungen herangezogen werden.
 
 
 ### § 58a
 
 (weggefallen)
+
+
+### § 58a Reservewehrdienstverhältnis
+
+Die Rechtsstellung der Soldaten in einem Reservewehrdienstverhältnis
+wird durch das Reservistinnen- und Reservistengesetz geregelt.
 
 
 ## Vierter Abschnitt - Dienstleistungspflicht
@@ -2788,8 +2791,13 @@ seiner Dienstpflichten nach § 75 Abs. 1 Satz 2 Nr. 5 entlassen wird.
 diese Folgen nicht hat, gilt der Verlust des Dienstgrades als nicht
 eingetreten.
 
-(3) Ein Soldat verliert seinen Dienstgrad ferner, wenn er als
-Kriegsdienstverweigerer anerkannt wird.
+(3) Ein Dienstleistungspflichtiger verliert seinen Dienstgrad ferner,
+wenn er als Kriegsdienstverweigerer anerkannt wird, im Fall der
+Entlassung nach § 75 Absatz 1 Satz 2 Nummer 6 mit Beendigung des
+Wehrdienstverhältnisses. Er verliert seinen Dienstgrad auch, wenn
+gegen ihn durch ein deutsches Gericht auf eine der in § 38 Absatz 1
+bezeichneten Strafen, Maßregeln und Nebenfolgen erkannt worden ist.
+Die §§ 53 und 57 bleiben unberührt.
 
 
 ### 5. - Überwachung und Durchsetzung der Dienstleistungspflicht
@@ -3302,20 +3310,16 @@ Rechtsverordnungen über
 1.  die Regelung des Vorgesetztenverhältnisses nach § 1 Abs. 3,
 
 
-2.  die Berechtigung zum Tragen der Uniform außerhalb eines
-    Wehrdienstverhältnisses nach § 4a,
+2.  die Unteroffizierprüfungen und die Offizierprüfungen nach § 27 Abs. 7,
 
 
-3.  die Unteroffizierprüfungen und die Offizierprüfungen nach § 27 Abs. 7,
+3.  die Ausgestaltung des Personalaktenwesens nach § 29,
 
 
-4.  die Ausgestaltung des Personalaktenwesens nach § 29,
+4.  die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
 
 
-5.  die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
-
-
-6.  die verwendungsbezogenen Mindestdienstzeiten nach § 46 Abs. 3.
+5.  die verwendungsbezogenen Mindestdienstzeiten nach § 46 Abs. 3.
 
 
 

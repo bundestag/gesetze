@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.1.2009 I 81
 
 Zuletzt geändert durch
-:   Art. 19 G v. 24.11.2011 I 2302
+:   Art. 12 G v. 21.7.2012 I 1583
 
 
 ## § 1 Beschwerderecht
@@ -317,11 +317,10 @@ sowie die Notwendigkeit der Hinzuziehung eines Bevollmächtigten kann
 durch Anrufung des Truppendienstgerichts angefochten werden. § 17
 Absatz 4 gilt entsprechend. Der Vorsitzende der Truppendienstkammer
 entscheidet hierüber endgültig durch Beschluss. Erlässt der
-Bundesminister der Verteidigung oder der Inspekteur einer
-Teilstreitkraft oder ein Vorgesetzter in vergleichbarer Dienststellung
-den Beschwerdebescheid, gelten die Sätze 1 bis 3 entsprechend mit der
-Maßgabe, dass das Bundesverwaltungsgericht an die Stelle des
-Truppendienstgerichts tritt.
+Bundesminister der Verteidigung oder der Generalinspekteur der
+Bundeswehr den Beschwerdebescheid, gelten die Sätze 1 bis 3
+entsprechend mit der Maßgabe, dass das Bundesverwaltungsgericht an die
+Stelle des Truppendienstgerichts tritt.
 
 (6) § 140 Absatz 8 und § 142 der Wehrdisziplinarordnung gelten
 entsprechend.
@@ -471,11 +470,10 @@ Bundesverwaltungsgericht durch den Bundeswehrdisziplinaranwalt
 vertreten.
 
 
-## § 22 Entscheidungen der Inspekteure
+## § 22 Entscheidungen des Generalinspekteurs der Bundeswehr
 
-Für die Entscheidungen der Inspekteure der Teilstreitkräfte und der
-Vorgesetzten in vergleichbaren Dienststellungen über weitere
-Beschwerden gilt § 21 Absatz 1, 2 und 3 Satz 2 entsprechend.
+Für die Entscheidungen des Generalinspekteurs der Bundeswehr über
+weitere Beschwerden gilt § 21 Absatz 1, 2 und 3 Satz 2 entsprechend.
 
 
 ## § 22a Rechtsbeschwerde

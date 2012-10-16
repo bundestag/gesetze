@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 15.8.2011 I 1730
 
+Zuletzt geändert durch
+:   Art. 8 G v. 21.7.2012 I 1583
+
 
 ## Abschnitt 1 - Wehrpflicht
 
@@ -1450,7 +1453,7 @@ Stellen die ihnen zuvor übermittelte Datei zu löschen.
 ### § 25 Personalakten ungedienter Wehrpflichtiger
 
 Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten
-die §§ 29 und 93 Absatz 2 Nummer 4 des Soldatengesetzes entsprechend.
+die §§ 29 und 93 Absatz 2 Nummer 3 des Soldatengesetzes entsprechend.
 
 
 ### (XXXX) §§ 26 und 27 (weggefallen)
@@ -2151,7 +2154,8 @@ jederzeit zu entlassen.
 (3) Im Fall des § 55 Absatz 3 kann die Soldatin oder der Soldat
 entlassen werden, wenn eine anderweitige Verwendung nicht möglich ist.
 
-(4) Die §§ 29a und 29b gelten entsprechend.
+(4) Die §§ 29a, 29b sowie 30 Absatz 1 Satz 2, Absatz 2 und 3 gelten
+entsprechend.
 
 
 ### § 62 Übergangsvorschrift
