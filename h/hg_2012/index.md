@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2938
 
+Geändert durch
+:   Art. 1 u. 2 G v. 13.9.2012 I 1902
+
 
 ## Abschnitt 1 - Allgemeine Ermächtigungen
 
@@ -23,7 +26,7 @@ Fundstelle
 ### § 1 Feststellung des Haushaltsplans
 
 (1) Der diesem Gesetz als Anlage beigefügte Bundeshaushaltsplan für
-das Haushaltsjahr 2012 wird in Einnahmen und Ausgaben auf 306 200 000
+das Haushaltsjahr 2012 wird in Einnahmen und Ausgaben auf 312 700 000
 000 Euro festgestellt.
 
 (2) Der dem Kapitel 6002 des Bundeshaushaltsplans für das
@@ -35,7 +38,7 @@ Einnahmen und Ausgaben auf 780 000 000 Euro festgestellt.
 ### § 2 Kreditermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung
-von Ausgaben für das Haushaltsjahr 2012 Kredite bis zur Höhe von 26
+von Ausgaben für das Haushaltsjahr 2012 Kredite bis zur Höhe von 32
 100 000 000 Euro aufzunehmen.
 
 (2) Dem Kreditrahmen nach Absatz 1 wachsen die Beträge zur Tilgung von
@@ -4093,6 +4096,3613 @@ Kreditfinanzierungsplan
     *   **26 100 000**
 
     *   **48 400 000**
+
+
+
+
+### (XXXX) Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2012
+
+(Fundstelle: BGBl. I 2012, 1903 - 1913)
+
+
+*    *   **Teil I:**
+
+    *   **Haushaltsübersicht**
+
+
+*    *
+    *   –
+
+    *   Einnahmen
+
+
+*    *
+    *   –
+
+    *   Ausgaben
+
+
+*    *
+    *   –
+
+    *   Verpflichtungsermächtigungen und deren Fälligkeiten
+
+
+*    *
+    *   –
+
+    *   Flexibilisierte Ausgaben nach § 5 des Haushaltsgesetzes (unverändert)
+
+
+*    *
+    *
+    *
+
+*    *   **Teil II:**
+
+    *   **Berechnung der zulässigen Kreditaufnahme nach § 5 des Artikel
+        115-Gesetzes sowie der Verordnung über das Verfahren zur Bestimmung
+        der Konjunkturkomponente nach § 5 des Artikel 115-Gesetzes**
+
+
+*    *
+    *
+    *
+
+*    *   **Teil III:**
+
+    *   **Finanzierungsübersicht**
+
+
+*    *
+    *
+    *
+
+*    *   **Teil IV:**
+
+    *   **Kreditfinanzierungsplan**
+
+
+
+## Nachtrag zum Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Einnahmen**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Bisherige
+        Gesamt-
+        einnahmen
+
+    *   Neue
+        Gesamt-
+        **einnahmen**
+
+    *   Gesamt-
+        einnahmen
+
+    *   gegenüber 2011
+        mehr (+)
+        weniger (–)
+
+
+*    *   2012
+
+    *   **2012**
+
+    *   2011
+
+
+*    *   1 000 €
+
+    *   **1 000 €**
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *
+    *   Es treten hinzu:
+
+    *
+    *
+    *
+    *
+
+*    *   01
+
+    *   Bundespräsident und Bundespräsidialamt
+        ...
+
+    *   193
+
+    *   **193**
+
+    *   193
+
+    *   –
+
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   1 688
+
+    *   **1 688**
+
+    *   1 666
+
+    *   +22
+
+
+*    *   03
+
+    *   Bundesrat
+        ...
+
+    *   51
+
+    *   **51**
+
+    *   84
+
+    *   –33
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   3 123
+
+    *   **3 123**
+
+    *   3 130
+
+    *   –7
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   110 323
+
+    *   **110 323**
+
+    *   110 342
+
+    *   –19
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   415 702
+
+    *   **415 702**
+
+    *   425 489
+
+    *   –9 787
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   441 502
+
+    *   **441 502**
+
+    *   414 855
+
+    *   +26 647
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   221 395
+
+    *   **221 395**
+
+    *   357 293
+
+    *   –135 898
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   374 892
+
+    *   **374 892**
+
+    *   323 178
+
+    *   +51 714
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+        ...
+
+    *   58 687
+
+    *   **58 687**
+
+    *   61 716
+
+    *   –3 029
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   6 308 111
+
+    *   **5 630 164**
+
+    *   6 293 426
+
+    *   –663 262
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   6 042 073
+
+    *   **6 042 073**
+
+    *   6 640 622
+
+    *   –598 549
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   323 592
+
+    *   **323 592**
+
+    *   223 685
+
+    *   +99 907
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   92 352
+
+    *   **92 352**
+
+    *   83 006
+
+    *   +9 346
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz
+        und Reaktorsicherheit
+        ...
+
+    *   353 587
+
+    *   **353 587**
+
+    *   366 823
+
+    *   –13 236
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   62 207
+
+    *   **62 207**
+
+    *   67 088
+
+    *   –4 881
+
+
+*    *   19
+
+    *   Bundesverfassungsgericht
+        ...
+
+    *   40
+
+    *   **40**
+
+    *   40
+
+    *   –
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   354
+
+    *   **354**
+
+    *   191
+
+    *   +163
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   660 259
+
+    *   **660 259**
+
+    *   637 830
+
+    *   +22 429
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   126 496
+
+    *   **126 496**
+
+    *   118 596
+
+    *   +7 900
+
+
+*    *   32
+
+    *   Bundesschuld
+        ...
+
+    *   27 544 579
+
+    *   **33 467 526**
+
+    *   49 714 693
+
+    *   –16 247 167
+
+
+*    *   60
+
+    *   Allgemeine Finanzverwaltung
+        ...
+
+    *   263 058 794
+
+    *   **264 313 794**
+
+    *   239 956 054
+
+    *   +24 357 740
+
+
+*    *
+    *   **Einnahmen**
+
+    *   **306 200 000**
+
+    *   **312 700 000**
+
+    *   **305 800 000**
+
+    *   **+6 900 000**
+
+
+
+
+Zu Spalte 4: Darin enthalten sind
+    – Steuereinnahmen in Höhe von 252 223 000 T€,
+    – Einnahmen aus Krediten in Höhe von 32 100 000 T€ sowie
+    – sonstige Einnahmen in Höhe von 28 377 000 T€.
+
+
+
+
+## Nachtrag zum Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Einnahmen**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Steuern und steuer-
+        ähnliche Abgaben
+
+    *   Verwaltungs-
+        einnahmen
+
+    *   Übrige
+        Einnahmen
+
+
+*    *   2012
+
+    *   2012
+
+    *   2012
+
+
+*    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   7
+
+    *   8
+
+    *   9
+
+
+*    *
+    *   Es treten hinzu:
+
+    *
+    *
+    *
+
+*    *   01
+
+    *   Bundespräsident und Bundespräsidialamt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   03
+
+    *   Bundesrat
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   –
+
+    *   –
+
+    *   –677 947
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz
+        und Reaktorsicherheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   19
+
+    *   Bundesverfassungsgericht
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   32
+
+    *   Bundesschuld
+        ...
+
+    *   –
+
+    *   –20 000
+
+    *   5 942 947
+
+
+*    *   60
+
+    *   Allgemeine Finanzverwaltung
+        ...
+
+    *   3 034 000
+
+    *   –1 857 000
+
+    *   78 000
+
+
+*    *
+    *   **Summe Nachtrag 2012**
+
+    *   **3 034 000**
+
+    *   **–1 877 000**
+
+    *   **5 343 000**
+
+
+*    *
+    *   **Bisherige Summe Haushalt 2012**
+
+    *   **249 552 000**
+
+    *   **19 448 886**
+
+    *   **37 199 114**
+
+
+*    *
+    *   **Neue Summe Haushalt 2012**
+
+    *   **252 586 000**
+
+    *   **17 571 886**
+
+    *   **42 542 114**
+
+
+*    *
+    *   **Summe Haushalt 2011**
+
+    *   **229 540 000**
+
+    *   **16 844 240**
+
+    *   **59 415 760**
+
+
+*    *
+    *   **gegenüber 2011 mehr(+)/weniger(–)**
+
+    *   **+23 046 000**
+
+    *   **+727 646**
+
+    *   **–16 873 646**
+
+
+
+## Nachtrag zum Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Ausgaben**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Bisherige
+        Gesamt-
+        ausgaben
+
+    *   Neue
+        Gesamt-
+        **ausgaben**
+
+    *   Gesamt-
+        ausgaben
+
+    *   gegenüber 2011
+        mehr (+)
+        weniger (–)
+
+
+*    *   2012
+
+    *   **2012**
+
+    *   2011
+
+
+*    *   1 000 €
+
+    *   **1 000 €**
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *
+    *   Es treten hinzu:
+
+    *
+    *
+    *
+    *
+
+*    *   01
+
+    *   Bundespräsident und Bundespräsidialamt
+        ...
+
+    *   30 742
+
+    *   **30 742**
+
+    *   29 876
+
+    *   +866
+
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   693 986
+
+    *   **693 986**
+
+    *   681 783
+
+    *   +12 203
+
+
+*    *   03
+
+    *   Bundesrat
+        ...
+
+    *   21 739
+
+    *   **21 739**
+
+    *   21 342
+
+    *   +397
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   1 937 410
+
+    *   **1 962 410**
+
+    *   1 841 955
+
+    *   +120 455
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   3 323 724
+
+    *   **3 323 724**
+
+    *   3 103 654
+
+    *   +220 070
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   5 490 317
+
+    *   **5 490 317**
+
+    *   5 402 239
+
+    *   +88 078
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   508 256
+
+    *   **508 256**
+
+    *   493 085
+
+    *   +15 171
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   4 605 224
+
+    *   **4 605 224**
+
+    *   4 459 629
+
+    *   +145 595
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   6 107 983
+
+    *   **6 107 983**
+
+    *   6 116 865
+
+    *   –8 882
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+        ...
+
+    *   5 280 066
+
+    *   **5 280 066**
+
+    *   5 491 558
+
+    *   –211 492
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   126 460 940
+
+    *   **126 130 940**
+
+    *   131 292 668
+
+    *   –5 161 728
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   25 934 138
+
+    *   **25 934 138**
+
+    *   25 247 970
+
+    *   +686 168
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   31 871 857
+
+    *   **31 871 857**
+
+    *   31 548 954
+
+    *   +322 903
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   14 485 382
+
+    *   **14 485 382**
+
+    *   15 777 246
+
+    *   –1 291 864
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz
+        und Reaktorsicherheit
+        ...
+
+    *   1 590 524
+
+    *   **1 590 524**
+
+    *   1 635 879
+
+    *   –45 355
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   6 787 220
+
+    *   **6 789 720**
+
+    *   6 471 041
+
+    *   +318 679
+
+
+*    *   19
+
+    *   Bundesverfassungsgericht
+        ...
+
+    *   29 952
+
+    *   **29 952**
+
+    *   24 971
+
+    *   +4 981
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   122 747
+
+    *   **122 747**
+
+    *   124 543
+
+    *   –1 796
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   6 382 910
+
+    *   **6 382 910**
+
+    *   6 219 120
+
+    *   +163 790
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   12 941 224
+
+    *   **12 941 224**
+
+    *   11 646 033
+
+    *   +1 295 191
+
+
+*    *   32
+
+    *   Bundesschuld
+        ...
+
+    *   38 321 321
+
+    *   **35 758 973**
+
+    *   37 172 319
+
+    *   –1 413 346
+
+
+*    *   60
+
+    *   Allgemeine Finanzverwaltung
+        ...
+
+    *   13 272 338
+
+    *   **22 637 186**
+
+    *   10 997 270
+
+    *   +11 639 916
+
+
+*    *
+    *   **Ausgaben**
+
+    *   **306 200 000**
+
+    *   **312 700 000**
+
+    *   **305 800 000**
+
+    *   **+6 900 000**
+
+
+
+## Nachtrag zum Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Ausgaben**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Summe
+        Spalten 8 bis 14
+
+    *   Personal-
+        ausgaben
+
+    *   Sächliche
+        Verwaltungs-
+        ausgaben
+
+    *   Militärische
+        Beschaffungen,
+        Anlagen usw.
+
+
+*    *   2012
+
+    *   2012
+
+    *   2012
+
+    *   2012
+
+
+*    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+
+*    *
+    *   Es treten hinzu:
+
+    *
+    *
+    *
+    *
+
+*    *   01
+
+    *   Bundespräsident und Bundespräsidialamt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   03
+
+    *   Bundesrat
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   25 000
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   –330 000
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   2 500
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   19
+
+    *   Bundesverfassungsgericht
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   32
+
+    *   Bundesschuld
+        ...
+
+    *   –2 562 348
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   60
+
+    *   Allgemeine Finanzverwaltung
+        ...
+
+    *   9 364 848
+
+    *   600 000
+
+    *   –
+
+    *   –
+
+
+*    *
+    *   **Summe Nachtrag 2012**
+
+    *   **6 500 000**
+
+    *   **600 000**
+
+    *   **–**
+
+    *   **–**
+
+
+*    *
+    *   **Bisherige Summe Haushalt 2012**
+
+    *   **306 200 000**
+
+    *   **27 896 629**
+
+    *   **11 340 756**
+
+    *   **10 673 178**
+
+
+*    *
+    *   **Neue Summe Haushalt 2012**
+
+    *   **312 700 000**
+
+    *   **28 496 629**
+
+    *   **11 340 756**
+
+    *   **10 673 178**
+
+
+*    *
+    *   **Summe Haushalt 2011**
+
+    *   **305 800 000**
+
+    *   **27 798 556**
+
+    *   **10 163 562**
+
+    *   **10 428 980**
+
+
+*    *
+    *   **gegenüber 2011 mehr(+)/weniger(–)**
+
+    *   **+6 900 000**
+
+    *   **+698 073**
+
+    *   **+1 177 194**
+
+    *   **+244 198**
+
+
+
+## Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Ausgaben**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Schulden-
+        dienst
+
+    *   Zuweisungen
+        und Zuschüsse
+        (ohne
+        Investitionen)
+
+    *   Ausgaben
+        für
+        Investitionen
+
+    *   Besondere
+        Finanzierungs-
+        ausgaben
+
+
+*    *   2012
+
+    *   2012
+
+    *   2012
+
+    *   2012
+
+
+*    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   11
+
+    *   12
+
+    *   13
+
+    *   14
+
+
+*    *
+    *   Es treten hinzu:
+
+    *
+    *
+    *
+    *
+
+*    *   01
+
+    *   Bundespräsident und Bundespräsidialamt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   03
+
+    *   Bundesrat
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   –
+
+    *   –
+
+    *   28 000
+
+    *   –3 000
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   –
+
+    *   –330 000
+
+    *   –
+
+    *   –
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz
+        und Reaktorsicherheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   –
+
+    *   2 500
+
+    *   –
+
+    *   –
+
+
+*    *   19
+
+    *   Bundesverfassungsgericht
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   32
+
+    *   Bundesschuld
+        ...
+
+    *   –2 562 348
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   60
+
+    *   Allgemeine Finanzverwaltung
+        ...
+
+    *   –
+
+    *   –
+
+    *   8 764 848
+
+    *   –
+
+
+*    *
+    *   **Summe Nachtrag 2012**
+
+    *   **–2 562 348**
+
+    *   **–327 500**
+
+    *   **8 792 848**
+
+    *   **–3 000**
+
+
+*    *
+    *   **Bisherige Summe Haushalt 2012**
+
+    *   **36 768 857**
+
+    *   **192 903 337**
+
+    *   **26 856 814**
+
+    *   **–239 571**
+
+
+*    *
+    *   **Neue Summe Haushalt 2012**
+
+    *   **34 206 509**
+
+    *   **192 575 837**
+
+    *   **35 649 662**
+
+    *   **–242 571**
+
+
+*    *
+    *   **Summe Haushalt 2011**
+
+    *   **35 343 160**
+
+    *   **190 893 160**
+
+    *   **32 330 082**
+
+    *   **–1 157 500**
+
+
+*    *
+    *   **gegenüber 2011 mehr(+)/weniger(–)**
+
+    *   **–1 136 651**
+
+    *   **+1 682 677**
+
+    *   **+3 319 580**
+
+    *   **+914 929**
+
+
+
+## Nachtrag zum Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Verpflichtungsermächtigungen und deren Fälligkeiten**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Verpflich-
+        tungs-
+        ermächti-
+        gung
+        2012
+
+    *   von dem Gesamtbetrag (Spalte 3) dürfen fällig werden
+
+
+*    *   2013
+
+    *   2014
+
+    *   2015
+
+    *   Folgejahre
+
+    *   in künftigen
+        Haushalts-
+        jahren
+
+
+*    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+
+*    *
+    *   Es treten hinzu:
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   95 000
+
+    *   13 000
+
+    *   14 000
+
+    *   15 000
+
+    *   53 000
+
+    *   –
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   17 500
+
+    *   5 000
+
+    *   5 000
+
+    *   5 000
+
+    *   2 500
+
+    *   –
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   60
+
+    *   Allgemeine Finanzverwaltung
+        ...
+
+    *   600 000
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   –
+
+    *   600 000
+
+
+*    *
+    *   **Summe Nachtrag 2012**
+
+    *   **712 500**
+
+    *   **18 000**
+
+    *   **19 000**
+
+    *   **20 000**
+
+    *   **55 500**
+
+    *   **600 000**
+
+
+*    *
+    *   **Bisherige Summe Haushalt 2012**
+
+    *   **44 249 996**
+
+    *   **12 819 252**
+
+    *   **9 080 090**
+
+    *   **6 499 614**
+
+    *   **6 444 011**
+
+    *   **9 407 029**
+
+
+*    *
+    *   **Neue Summe Haushalt 2012**
+
+    *   **44 962 496**
+
+    *   **12 837 252**
+
+    *   **9 099 090**
+
+    *   **6 519 614**
+
+    *   **6 499 511**
+
+    *   **10 007 029**
+
+
+
+## Nachtrag zum Gesamtplan – Teil I: Haushaltsübersicht
+
+### **Flexibilisierte Ausgaben nach § 5 des Haushaltsgesetzes**
+
+
+*    *   Epl.
+
+    *   Bezeichnung
+
+    *   Kapitel
+
+    *   Bisheriger
+        Betrag für
+
+    *   Neuer
+        **Betrag für**
+
+    *
+    *   gegenüber 2011
+        mehr (+)
+        weniger (–)
+
+
+*    *   2012
+
+    *   **2012**
+
+    *   2011
+
+
+*    *   1 000 €
+
+    *   **1 000 €**
+
+    *   1 000 €
+
+    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+
+*    *   01
+
+    *   Bundespräsident und Bundespräsidialamt
+        ...
+
+    *   01, 03, 04
+
+    *   21 101
+
+    *   **21 101**
+
+    *   20 375
+
+    *   +726
+
+
+*    *   02
+
+    *   Deutscher Bundestag
+        ...
+
+    *   01, 03
+
+    *   258 216
+
+    *   **258 216**
+
+    *   250 249
+
+    *   +7 967
+
+
+*    *   03
+
+    *   Bundesrat
+        ...
+
+    *   01
+
+    *   16 066
+
+    *   **16 066**
+
+    *   15 908
+
+    *   +158
+
+
+*    *   04
+
+    *   Bundeskanzlerin und Bundeskanzleramt
+        ...
+
+    *   01, 02, 03, 05, 06, 07, 08, 09
+
+    *   248 245
+
+    *   **248 245**
+
+    *   244 886
+
+    *   +3 359
+
+
+*    *   05
+
+    *   Auswärtiges Amt
+        ...
+
+    *   01, 03, 04, 11
+
+    *   1 040 738
+
+    *   **1 040 738**
+
+    *   991 186
+
+    *   +49 552
+
+
+*    *   06
+
+    *   Bundesministerium des Innern
+        ...
+
+    *   01, 07, 08, 10, 11, 12, 15, 16, 17, 18, 23, 25, 26, 28, 29, 33, 35
+
+    *   3 251 613
+
+    *   **3 251 613**
+
+    *   3 221 834
+
+    *   +29 779
+
+
+*    *   07
+
+    *   Bundesministerium der Justiz
+        ...
+
+    *   01, 02, 03, 04, 05, 06, 07, 08, 10
+
+    *   339 525
+
+    *   **339 525**
+
+    *   339 852
+
+    *   –327
+
+
+*    *   08
+
+    *   Bundesministerium der Finanzen
+        ...
+
+    *   01, 03, 04, 05, 12
+
+    *   2 233 900
+
+    *   **2 233 900**
+
+    *   2 180 648
+
+    *   +53 252
+
+
+*    *   09
+
+    *   Bundesministerium für Wirtschaft und Technologie
+        ...
+
+    *   01, 13, 14, 15, 16, 17, 18
+
+    *   660 600
+
+    *   **660 600**
+
+    *   656 164
+
+    *   +4 436
+
+
+*    *   10
+
+    *   Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+
+    *   01, 08, 09, 13, 14, 15, 16
+
+    *   350 001
+
+    *   **350 001**
+
+    *   373 983
+
+    *   –23 982
+
+
+*    *   11
+
+    *   Bundesministerium für Arbeit und Soziales
+        ...
+
+    *   01, 04, 05, 06, 07
+
+    *   194 166
+
+    *   **194 166**
+
+    *   191 434
+
+    *   +2 732
+
+
+*    *   12
+
+    *   Bundesministerium für Verkehr, Bau und Stadtentwicklung
+        ...
+
+    *   01, 03, 05, 08, 11, 12, 14, 16, 21, 27, 28
+
+    *   912 603
+
+    *   **912 603**
+
+    *   906 953
+
+    *   +5 650
+
+
+*    *   14
+
+    *   Bundesministerium der Verteidigung
+        ...
+
+    *   01, 03, 04, 07, 09
+
+    *   2 056 193
+
+    *   **2 056 193**
+
+    *   5 497 687
+
+    *   –3 441 494
+
+
+*    *   15
+
+    *   Bundesministerium für Gesundheit
+        ...
+
+    *   01, 04, 05, 06, 10, 11
+
+    *   258 002
+
+    *   **258 002**
+
+    *   248 158
+
+    *   +9 844
+
+
+*    *   16
+
+    *   Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+        ...
+
+    *   01, 05, 06, 07
+
+    *   234 518
+
+    *   **234 518**
+
+    *   242 588
+
+    *   –8 070
+
+
+*    *   17
+
+    *   Bundesministerium für Familie, Senioren, Frauen und Jugend
+        ...
+
+    *   01, 03, 04, 06
+
+    *   100 235
+
+    *   **100 235**
+
+    *   106 088
+
+    *   –5 853
+
+
+*    *   19
+
+    *   Bundesverfassungsgericht
+        ...
+
+    *   01
+
+    *   25 130
+
+    *   **25 130**
+
+    *   20 133
+
+    *   +4 997
+
+
+*    *   20
+
+    *   Bundesrechnungshof
+        ...
+
+    *   01, 03
+
+    *   85 017
+
+    *   **85 017**
+
+    *   90 886
+
+    *   –5 869
+
+
+*    *   23
+
+    *   Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+        ...
+
+    *   01
+
+    *   71 604
+
+    *   **71 604**
+
+    *   52 240
+
+    *   +19 364
+
+
+*    *   30
+
+    *   Bundesministerium für Bildung und Forschung
+        ...
+
+    *   01, 02
+
+    *   112 422
+
+    *   **112 422**
+
+    *   106 058
+
+    *   +6 364
+
+
+*    *
+    *   **Summe**
+
+    *
+    *   **12 469 895**
+
+    *   **12 469 895**
+
+    *   **15 757 310**
+
+    *   **–3 287 415**
+
+
+
+## Nachtrag zum Gesamtplan – Teil II:
+
+Berechnung der zulässigen Kreditaufnahme
+nach § 5 des Artikel 115-Gesetzes sowie der Verordnung über das
+Verfahren
+### **zur Bestimmung der Konjunkturkomponente nach § 5 des Artikel
+115-Gesetzes**
+
+
+*    *   Komponenten zur Berechnung der zulässigen Kreditaufnahme
+
+    *   Bisheriger Betrag
+        für 2012
+
+    *   Neuer Betrag
+        für 2012
+
+
+*    *   Millionen €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   1.
+
+    *   Maximal zulässige strukturelle Nettokreditaufnahme (in % des BIP)
+        (Basis 2010: 2,21 %, Abbauschritt: : 0,31 % p.a.)
+
+    *   1,591
+
+    *   1,591
+
+
+*    *   2.
+
+    *   Nominales Bruttoinlandsprodukt des der Haushaltsaufstellung
+        vorangegangenen Jahres
+        ...
+
+    *   2 476 800
+
+    *   2 476 800
+
+
+*    *   3.
+
+    *   Maximal zulässige strukturelle Nettokreditaufnahme
+        ...
+        (Produkt aus 1. und 2.)
+
+    *   39 412
+
+    *   39 412
+
+
+*    *   4.
+
+    *   Saldo der finanziellen Transaktionen
+        (Differenz aus 4a. und 4b.)
+
+    *   4 254 ****
+
+    *   –4 933
+
+
+*    *   4a.
+
+    *   Finanzielle Transaktionen: Einnahmen
+        ...
+
+    *   6 908
+
+    *   6 408
+
+
+*    *   4b.
+
+    *   Finanzielle Transaktionen: Ausgaben
+        ...
+
+    *   2 654
+
+    *   11 341
+
+
+*    *   5.
+
+    *   Konjunkturkomponente
+        ...
+        (Produkt aus [5a. + 5b.] und 5c.)
+
+    *   –5 333
+
+    *   –5 873
+
+
+*    *   5a.
+
+    *   Nominale Produktionslücke
+        ...
+
+    *   –33 296
+
+    *   –33 296
+
+
+*    *   5b.
+
+    *   Anpassung an tatsächliche wirtschaftliche Entwicklung
+        ...
+        (erwarteter nominaler BIP-Zuwachs 2012 gegenüber 2011 zum Zeitpunkt
+        der Aufstellung des Nachtragshaushalts [+2,3 %] gegenüber jener zum
+        Zeitpunkt der Aufstellung des Haushalts [+2,4 %])
+
+    *   –
+
+    *   –3 375
+
+
+*    *   5c.
+
+    *   Budgetsensitivität (ohne Einheit)
+        ...
+
+    *   0,16
+
+    *   0,16
+
+
+*    *   6.
+
+    *   Abbauverpflichtung aus dem Kontrollkonto
+        ...
+
+    *   –
+
+    *   –
+
+
+*    *   **7.**
+
+    *   **Zulässige Nettokreditaufnahme**
+        (Differenz aus 3. und 4. und 5. und 6.)
+
+    *   **40 491**
+
+    *   **50 218**
+
+
+
+Datengrundlage: Aktuelle gesamtwirtschaftliche Vorausschätzungen der
+Bundesregierung.
+Differenzen durch Rundung möglich.
+
+## Nachtrag zum Gesamtplan – Teil III:
+
+### **Finanzierungsübersicht**
+
+
+*    *   Finanzierungsübersicht
+
+    *   Bisheriger Betrag
+        für 2012
+
+    *   Für 2012
+        treten hinzu
+
+    *   Neuer Betrag
+        für 2012
+
+
+*    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   **1.**
+
+    *   **Berechnung des Finanzierungssaldos**
+
+    *   ****
+
+    *   ****
+
+    *   ****
+
+
+*    *   1.1
+
+    *   Einnahmen
+        ...
+
+    *   279 737 000
+
+    *   500 000
+
+    *   280 237 000
+
+
+*    *
+    *   (ohne Einnahmen aus Krediten vom Kreditmarkt, Entnahmen aus Rücklagen,
+        Einnahmen aus kassenmäßigen Überschüssen und Münzeinnahmen)
+
+    *
+    *
+    *
+
+*    *
+    *   davon:
+
+    *
+    *
+    *
+
+*    *
+    *   Steuereinnahmen
+        ...
+
+    *   249 189 000
+
+    *   3 034 000
+
+    *   252 223 000
+
+
+*    *
+    *   Verwaltungseinnahmen
+        ...
+
+    *   30 548 000
+
+    *   –2 171 000
+
+    *   28 377 000
+
+
+*    *   1.2
+
+    *   Ausgaben
+        ...
+
+    *   306 200 000
+
+    *   6 500 000
+
+    *   312 700 000
+
+
+*    *
+    *   (ohne Ausgaben zur Schuldentilgung am Kreditmarkt, Zuführungen an
+        Rücklagen und Ausgaben zur Deckung eines kassenmäßigen Fehlbetrages)
+
+    *
+    *
+    *
+
+*    *
+    *   **Negativer Finanzierungssaldo (Finanzierungsdefizit)**
+
+    *   **–26 463 000**
+
+    *   **–6 000 000**
+
+    *   **–32 463 000**
+
+
+*    *   **2.**
+
+    *   **Deckung des Finanzierungssaldos**
+
+    *
+    *
+    *
+
+*    *   2.1
+
+    *   Münzeinnahmen
+        ...
+
+    *   363 000
+
+    *   –
+
+    *   363 000
+
+
+*    *   2.2
+
+    *   Nettoneuverschuldung (Nettokreditaufnahme) am Kreditmarkt
+        ...
+
+    *   26 100 000
+
+    *   6 000 000
+
+    *   32 100 000
+
+
+*    *
+    *   **Summe**
+
+    *   **26 463 000**
+
+    *   **6 000 000**
+
+    *   **32 463 000**
+
+
+
+## Nachtrag zum Gesamtplan – Teil IV:
+
+### **Kreditfinanzierungsplan**
+
+
+*    *   Kreditfinanzierungsplan
+
+    *   Bisheriger Betrag
+        für 2012
+
+    *   Für 2012
+        treten hinzu
+
+    *   Neuer Betrag
+        für 2012
+
+
+*    *   1 000 €
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   **1.**
+
+    *   **Einnahmen**
+
+    *   ****
+
+    *   ****
+
+    *   ****
+
+
+*    *   1.1
+
+    *   Einnahmen aus Krediten (Bruttokreditaufnahme)
+        ...
+
+    *   (260 394 411)
+
+    *   (–5 846 857)
+
+    *   (254 547 554)
+
+
+*    *   1.1.1
+
+    *   Laufzeit mehr als vier Jahre
+        ...
+
+    *   126 465 747
+
+    *   –4 576 883
+
+    *   121 888 864
+
+
+*    *   1.1.2
+
+    *   Laufzeit ein bis vier Jahre
+        ...
+
+    *   65 301 752
+
+    *   –9 798 226
+
+    *   55 503 526
+
+
+*    *   1.1.3
+
+    *   Laufzeit weniger als ein Jahr
+        ...
+
+    *   68 626 912
+
+    *   8 528 252
+
+    *   77 155 164
+
+
+*    *   1.2.
+
+    *   Sonstige Einnahmen zur Schuldentilgung
+        ...
+
+    *   (–)
+
+    *   (4)
+
+    *   (4)
+
+
+*    *   1.2.1
+
+    *   Bundesbankmehrgewinn (Kap. 6002 Tit. 121 04)
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   1.2.2
+
+    *   Länderbeiträge zur Tilgung kommunaler Altschulden
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   1.2.3
+
+    *   Spenden
+        ...
+
+    *   –
+
+    *   4
+
+    *   4
+
+
+*    *   ****
+
+    *   **Einnahmen**
+
+    *   **260 394 411**
+
+    *   **–5 846 853**
+
+    *   **254 547 558**
+
+
+*    *   **2.**
+
+    *   **Ausgaben zur Tilgung von Krediten**
+
+    *   ****
+
+    *   ****
+
+    *   ****
+
+
+*    *   2.1
+
+    *   Laufzeit mehr als vier Jahre
+        ...
+
+    *   88 721 962
+
+    *   –628 365
+
+    *   88 093 597
+
+
+*    *   2.2
+
+    *   Laufzeit ein bis vier Jahre
+        ...
+
+    *   67 718 373
+
+    *   91 719
+
+    *   67 810 092
+
+
+*    *   2.3
+
+    *   Laufzeit weniger als ein Jahr
+        ...
+
+    *   87 788 621
+
+    *   –11 387 685
+
+    *   76 400 936
+
+
+*    *
+    *   **Ausgaben**
+
+    *   **244 228 956**
+
+    *   **–11 924 331**
+
+    *   **232 304 625**
+
+
+*    *   **3.**
+
+    *   **Herleitung der Nettokreditaufnahme**
+
+    *   ****
+
+    *   ****
+
+    *   ****
+
+
+*    *   3.1
+
+    *   Bruttokreditaufnahme (aus 1.1)
+        ...
+
+    *   260 394 411
+
+    *   –5 846 857
+
+    *   254 547 554
+
+
+*    *   3.2
+
+    *   Sonstige Einnahmen zur Schuldentilgung (aus 1.2)
+        ...
+
+    *   *–*
+        (260 394 411)
+
+    *   *4*
+        (–5 846 853)
+
+    *   *4*
+        (254 547 558)
+
+
+*    *   3.3
+
+    *   Tilgung von Krediten (aus 2.)
+        ...
+
+    *   *–244 228 956*
+        (16 165 455)
+
+    *   *11 924 331*
+        (6 077 478)
+
+    *   *–232 304 625*
+        (22 242 933)
+
+
+*    *   3.4
+
+    *   Eigenbestandsveränderung (Marktpflege)
+        ...
+
+    *   *662 145*
+        (16 827 600)
+
+    *   *–1 926 916*
+        (4 150 562)
+
+    *   *–1 264 771*
+        (20 978 162)
+
+
+*    *   3.5
+
+    *   Selbstbewirtschaftungsmittel
+
+    *
+    *
+    *
+
+*    *   3.5.1
+
+    *   Nicht kassenwirksame, NKA-erhöhende Haushaltsausgaben zur Finanzierung
+        von Auszahlungen zur Verrechnung auf Selbstbewirtschaftungskonten
+        ...
+
+    *   1 900 000
+
+    *   –
+
+    *   1 900 000
+
+
+*    *   3.5.2
+
+    *   Kassenwirksame, nicht NKA-relevante Kreditaufnahme zur Finanzierung
+        von Auszahlungen an Dritte aus Selbstbewirtschaftungskonten
+        ...
+
+    *   –1 800 000
+
+    *   –
+
+    *   –1 800 000
+
+
+*    *   3.6
+
+    *   Sondervermögen „Schlusszahlungsvorsorge“
+
+    *
+    *
+    *
+
+*    *   3.6.1
+
+    *   Nicht kassenwirksame, NKA-erhöhende Haushaltsausgaben zur Finanzierung
+        der Zuführungen zum Sondervermögen
+        ...
+
+    *   1 519 830
+
+    *   –133 780
+
+    *   1 386 050
+
+
+*    *   3.6.2
+
+    *   Kassenwirksame, nicht NKA-relevante Kreditaufnahme zur Finanzierung
+        von Auszahlungen aus dem Sondervermögen
+        ...
+
+    *   –
+
+    *   –
+
+    *   –
+
+
+*    *   3.7
+
+    *   Sondervermögen „Kinderbetreuungsausbau“
+        Kassenwirksame, nicht NKA-relevante Kreditaufnahme zur Finanzierung
+        von Auszahlungen aus dem Sondervermögen
+        ...
+
+    *   –347 430
+
+    *   –2
+
+    *   –347 432
+
+
+*    *   3.8
+
+    *   Umbuchungen zum Haushaltsausgleich gemäß dem Haushaltsvermerk zu Kap.
+        3201
+        ...
+
+    *   8 000 000
+
+    *   1 983 220
+
+    *   9 983 220
+
+
+*    *   ****
+
+    *   **Nettokreditaufnahme**
+
+    *   **26 100 000**
+
+    *   **6 000 000**
+
+    *   **32 100 000**
 
 
 
