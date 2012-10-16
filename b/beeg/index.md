@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2748
 
 Zuletzt geändert durch
-:   Art. 10 G v. 23.11.2011 I 2298
-
-Mittelbare änderung durch
-:   Art. 3 G v. 23.11.2011 I 2298 ist berücksichtigt
+:   Art. 1 G v. 10.9.2012 I 1878
 
 
 ## Abschnitt 1 - Elterngeld
@@ -58,7 +55,7 @@ Voraussetzungen des Absatzes 1 Nr. 1 zu erfüllen,
     Entwicklungshelfer-Gesetzes ist oder als Missionar oder Missionarin
     der Missionswerke und -gesellschaften, die Mitglieder oder
     Vereinbarungspartner des Evangelischen Missionswerkes Hamburg, der
-    Arbeitsgemeinschaft Evangelikaler Missionen e.V., des Deutschen
+    Arbeitsgemeinschaft Evangelikaler Missionen e. V., des Deutschen
     katholischen Missionsrates oder der Arbeitsgemeinschaft pfingstlich-
     charismatischer Missionen sind, tätig ist oder
 
@@ -111,12 +108,11 @@ Berechtigten Elterngeld nicht in Anspruch genommen wird.
 und Erziehung des Kindes aus einem wichtigen Grund nicht sofort
 aufgenommen werden kann oder wenn sie unterbrochen werden muss.
 
-(6) Eine Person ist nicht voll erwerbstätig, wenn ihre wöchentliche
-Arbeitszeit 30 Wochenstunden im Durchschnitt des Monats nicht
-übersteigt, sie eine Beschäftigung zur Berufsbildung ausübt oder sie
-eine geeignete Tagespflegeperson im Sinne des § 23 des Achten Buches
-Sozialgesetzbuch ist und nicht mehr als fünf Kinder in Tagespflege
-betreut.
+(6) Eine Person ist nicht voll erwerbstätig, wenn ihre Arbeitszeit 30
+Wochenstunden im Durchschnitt des Monats nicht übersteigt, sie eine
+Beschäftigung zur Berufsbildung ausübt oder sie eine geeignete
+Tagespflegeperson im Sinne des § 23 des Achten Buches Sozialgesetzbuch
+ist und nicht mehr als fünf Kinder in Tagespflege betreut.
 
 (7) Ein nicht freizügigkeitsberechtigter Ausländer oder eine nicht
 freizügigkeitsberechtigte Ausländerin ist nur anspruchsberechtigt,
@@ -175,177 +171,369 @@ mehr als 500 000 Euro beträgt.
 
 ### § 2 Höhe des Elterngeldes
 
-(1) Elterngeld wird in Höhe von 67 Prozent des in den zwölf
-Kalendermonaten vor dem Monat der Geburt des Kindes durchschnittlich
-erzielten monatlichen Einkommens aus Erwerbstätigkeit bis zu einem
-Höchstbetrag von 1 800 Euro monatlich für volle Monate gezahlt, in
-denen die berechtigte Person kein Einkommen aus Erwerbstätigkeit
-erzielt. Als Einkommen aus Erwerbstätigkeit ist die Summe der
-positiven im Inland zu versteuernden Einkünfte aus Land- und
-Forstwirtschaft, Gewerbebetrieb, selbstständiger Arbeit und
-nichtselbstständiger Arbeit nach § 2 Abs. 1 Satz 1 Nr. 1 bis 4 des
-Einkommensteuergesetzes nach Maßgabe der Absätze 7 bis 9 zu
-berücksichtigen.
+(1) Elterngeld wird in Höhe von 67 Prozent des Einkommens aus
+Erwerbstätigkeit vor der Geburt des Kindes gewährt. Es wird bis zu
+einem Höchstbetrag von 1 800 Euro monatlich für volle Monate gezahlt,
+in denen die berechtigte Person kein Einkommen aus Erwerbstätigkeit
+hat. Das Einkommen aus Erwerbstätigkeit errechnet sich nach Maßgabe
+der §§ 2c bis 2f aus der um die Abzüge für Steuern und Sozialabgaben
+verminderten Summe der positiven Einkünfte aus
 
-(2) In den Fällen, in denen das durchschnittlich erzielte monatliche
-Einkommen aus Erwerbstätigkeit vor der Geburt geringer als 1 000 Euro
-war, erhöht sich der Prozentsatz von 67 Prozent um 0,1 Prozentpunkte
-für je 2 Euro, um die das maßgebliche Einkommen den Betrag von 1 000
-Euro unterschreitet, auf bis zu 100 Prozent. In den Fällen, in denen
-das durchschnittlich erzielte monatliche Einkommen aus
-Erwerbstätigkeit vor der Geburt höher als 1 200 Euro war, sinkt der
-Prozentsatz von 67 Prozent um 0,1 Prozentpunkte für je 2 Euro, um die
-das maßgebliche Einkommen den Betrag von 1 200 Euro überschreitet, auf
-bis zu 65 Prozent.
+1.  nichtselbständiger Arbeit nach § 2 Absatz 1 Satz 1 Nummer 4 des
+    Einkommensteuergesetzes sowie
+
+
+2.  Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
+    nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes,
+
+
+
+die im Inland zu versteuern sind und die die berechtigte Person
+durchschnittlich monatlich im Bemessungszeitraum nach § 2b oder in
+Monaten der Bezugszeit nach § 2 Absatz 3 hat.
+
+(2) In den Fällen, in denen das Einkommen aus Erwerbstätigkeit vor der
+Geburt geringer als 1 000 Euro war, erhöht sich der Prozentsatz von 67
+Prozent um 0,1 Prozentpunkte für je 2 Euro, um die dieses Einkommen
+den Betrag von 1 000 Euro unterschreitet, auf bis zu 100 Prozent. In
+den Fällen, in denen das Einkommen aus Erwerbstätigkeit vor der Geburt
+höher als 1 200 Euro war, sinkt der Prozentsatz von 67 Prozent um 0,1
+Prozentpunkte für je 2 Euro, um die dieses Einkommen den Betrag von 1
+200 Euro überschreitet, auf bis zu 65 Prozent.
 
 (3) Für Monate nach der Geburt des Kindes, in denen die berechtigte
-Person ein Einkommen aus Erwerbstätigkeit erzielt, das
-durchschnittlich geringer ist als das nach Absatz 1 berücksichtigte
-durchschnittlich erzielte Einkommen aus Erwerbstätigkeit vor der
-Geburt, wird Elterngeld in Höhe des nach Absatz 1 oder 2 maßgeblichen
-Prozentsatzes des Unterschiedsbetrages dieser durchschnittlich
-erzielten monatlichen Einkommen aus Erwerbstätigkeit gezahlt. Als vor
-der Geburt des Kindes durchschnittlich erzieltes monatliches Einkommen
-aus Erwerbstätigkeit ist dabei höchstens der Betrag von 2 700 Euro
-anzusetzen.
+Person ein Einkommen aus Erwerbstätigkeit hat, das durchschnittlich
+geringer ist als das Einkommen aus Erwerbstätigkeit vor der Geburt,
+wird Elterngeld in Höhe des nach Absatz 1 oder 2 maßgeblichen
+Prozentsatzes des Unterschiedsbetrages dieser Einkommen aus
+Erwerbstätigkeit gezahlt. Als Einkommen aus Erwerbstätigkeit vor der
+Geburt ist dabei höchstens der Betrag von 2 770 Euro anzusetzen.
 
-(4) Lebt die berechtigte Person mit zwei Kindern, die das dritte
-Lebensjahr noch nicht vollendet haben, oder mit drei oder mehr
-Kindern, die das sechste Lebensjahr noch nicht vollendet haben, in
-einem Haushalt, so wird das nach den Absätzen 1 bis 3 und 5 zustehende
-Elterngeld um 10 Prozent, mindestens um 75 Euro, erhöht. Zu
-berücksichtigen sind alle Kinder, für die die berechtigte Person die
-Voraussetzungen des § 1 Abs. 1 und 3 erfüllt und für die sich das
-Elterngeld nicht nach Absatz 6 erhöht. Für angenommene Kinder und
-Kinder im Sinne von § 1 Abs. 3 Satz 1 Nr. 1 gilt als Alter des Kindes
-der Zeitraum seit der Aufnahme des Kindes bei der berechtigten Person.
-Die Altersgrenze nach Satz 1 beträgt bei behinderten Kindern im Sinne
-von § 2 Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch jeweils 14
-Jahre. Der Anspruch auf den Erhöhungsbetrag endet mit dem Ablauf des
-Monats, in dem eine der in Satz 1 genannten Anspruchsvoraussetzungen
-entfallen ist.
-
-(5) Elterngeld wird mindestens in Höhe von 300 Euro gezahlt. Dies gilt
-auch, wenn in dem nach Absatz 1 Satz 1 maßgeblichen Zeitraum vor der
-Geburt des Kindes kein Einkommen aus Erwerbstätigkeit erzielt worden
-ist. Der Betrag nach Satz 1 wird nicht zusätzlich zu dem Elterngeld
-nach den Absätzen 1 bis 3 gezahlt.
-
-(6) Bei Mehrlingsgeburten erhöht sich das nach den Absätzen 1 bis 5
-zustehende Elterngeld um je 300 Euro für das zweite und jedes weitere
-Kind.
-
-(7) Als Einkommen aus nichtselbstständiger Arbeit ist der um die auf
-die Einnahmen aus nichtselbstständiger Arbeit entfallenden Steuern und
-die aufgrund dieser Erwerbstätigkeit geleisteten Pflichtbeiträge zur
-Sozialversicherung in Höhe des gesetzlichen Anteils der beschäftigten
-Person einschließlich der Beiträge zur Arbeitsförderung verminderte
-Überschuss der Einnahmen in Geld oder Geldeswert über die mit einem
-Zwölftel des Pauschbetrags nach § 9a Abs. 1 Satz 1 Nr. 1 Buchstabe a
-des Einkommensteuergesetzes anzusetzenden Werbungskosten zu
-berücksichtigen. Im Lohnsteuerabzugsverfahren als sonstige Bezüge
-behandelte Einnahmen werden nicht berücksichtigt. Als auf die
-Einnahmen entfallende Steuern gelten die abgeführte Lohnsteuer
-einschließlich Solidaritätszuschlag und Kirchensteuer, im Falle einer
-Steuervorauszahlung der auf die Einnahmen entfallende monatliche
-Anteil. Grundlage der Einkommensermittlung sind die entsprechenden
-monatlichen Lohn- und Gehaltsbescheinigungen des Arbeitgebers.
-Kalendermonate, in denen die berechtigte Person vor der Geburt des
-Kindes ohne Berücksichtigung einer Verlängerung des
-Auszahlungszeitraums nach § 6 Satz 2 Elterngeld für ein älteres Kind
-bezogen hat, bleiben bei der Bestimmung der zwölf für die
-Einkommensermittlung vor der Geburt des Kindes zu Grunde zu legenden
-Kalendermonate unberücksichtigt. Unberücksichtigt bleiben auch
-Kalendermonate, in denen die berechtigte Person Mutterschaftsgeld nach
-der Reichsversicherungsordnung oder dem Gesetz über die
-Krankenversicherung der Landwirte bezogen hat oder in denen während
-der Schwangerschaft wegen einer maßgeblich auf die Schwangerschaft
-zurückzuführenden Erkrankung Einkommen aus Erwerbstätigkeit ganz oder
-teilweise weggefallen ist. Das Gleiche gilt für Kalendermonate, in
-denen die berechtigte Person Wehrdienst nach Maßgabe des
-Wehrpflichtgesetzes oder des Vierten Abschnitts des Soldatengesetzes
-oder Zivildienst nach Maßgabe des Zivildienstgesetzes geleistet hat,
-wenn dadurch Erwerbseinkommen ganz oder teilweise weggefallen ist.
-
-(8) Als Einkommen aus Land- und Forstwirtschaft, Gewerbebetrieb und
-selbstständiger Arbeit ist der um die auf dieses Einkommen
-entfallenden Steuern und die aufgrund dieser Erwerbstätigkeit
-geleisteten Pflichtbeiträge zur gesetzlichen Sozialversicherung
-einschließlich der Beiträge zur Arbeitsförderung verminderte Gewinn zu
-berücksichtigen. Grundlage der Einkommensermittlung ist der Gewinn,
-wie er sich aus einer mindestens den Anforderungen des § 4 Abs. 3 des
-Einkommensteuergesetzes entsprechenden Berechnung ergibt. Kann der
-Gewinn danach nicht ermittelt werden, ist von den Einnahmen eine
-Betriebsausgabenpauschale in Höhe von 20 Prozent abzuziehen. Als auf
-den Gewinn entfallende Steuern gilt im Falle einer Steuervorauszahlung
-der auf die Einnahmen entfallende monatliche Anteil der
-Einkommensteuer einschließlich Solidaritätszuschlag und Kirchensteuer.
-Auf Antrag der berechtigten Person ist Absatz 7 Satz 5 und 6
-entsprechend anzuwenden.
-
-(9) Ist die dem zu berücksichtigenden Einkommen aus Land- und
-Forstwirtschaft, Gewerbebetrieb und selbstständiger Arbeit zu Grunde
-liegende Erwerbstätigkeit sowohl während des gesamten für die
-Einkommensermittlung vor der Geburt des Kindes maßgeblichen Zeitraums
-als auch während des gesamten letzten abgeschlossenen steuerlichen
-Veranlagungszeitraums ausgeübt worden, gilt abweichend von Absatz 8
-als vor der Geburt des Kindes durchschnittlich erzieltes monatliches
-Einkommen aus dieser Erwerbstätigkeit der durchschnittlich monatlich
-erzielte Gewinn, wie er sich aus dem für den Veranlagungszeitraum
-ergangenen Steuerbescheid ergibt. Dies gilt nicht, wenn im
-Veranlagungszeitraum die Voraussetzungen des Absatzes 7 Satz 5 und 6
-vorgelegen haben. Ist in dem für die Einkommensermittlung vor der
-Geburt des Kindes maßgeblichen Zeitraum zusätzlich Einkommen aus
-nichtselbstständiger Arbeit erzielt worden, ist Satz 1 nur anzuwenden,
-wenn die Voraussetzungen der Sätze 1 und 2 auch für die dem Einkommen
-aus nichtselbstständiger Arbeit zu Grunde liegende Erwerbstätigkeit
-erfüllt sind; in diesen Fällen gilt als vor der Geburt
-durchschnittlich erzieltes monatliches Einkommen nach Absatz 7 das in
-dem dem Veranlagungszeitraum nach Satz 1 zu Grunde liegenden
-Gewinnermittlungszeitraum durchschnittlich erzielte monatliche
-Einkommen aus nichtselbstständiger Arbeit. Als auf den Gewinn
-entfallende Steuern ist bei Anwendung von Satz 1 der auf die Einnahmen
-entfallende monatliche Anteil der im Steuerbescheid festgesetzten
-Einkommensteuer einschließlich Solidaritätszuschlag und Kirchensteuer
-anzusetzen.
+(4) Elterngeld wird mindestens in Höhe von 300 Euro gezahlt. Dies gilt
+auch, wenn die berechtigte Person vor der Geburt des Kindes kein
+Einkommen aus Erwerbstätigkeit hat.
 
 
-### § 3 Anrechnung von anderen Leistungen
+### § 2a Geschwisterbonus und Mehrlingszuschlag
 
-(1) Mutterschaftsgeld, das der Mutter nach der
-Reichsversicherungsordnung oder dem Gesetz über die
-Krankenversicherung der Landwirte für die Zeit ab dem Tag der Geburt
-zusteht, wird mit Ausnahme des Mutterschaftsgeldes nach § 13 Abs. 2
-des Mutterschutzgesetzes auf das ihr zustehende Elterngeld nach § 2
-angerechnet. Das Gleiche gilt für Mutterschaftsgeld, das der Mutter im
-Bezugszeitraum des Elterngeldes für die Zeit vor dem Tag der Geburt
-eines weiteren Kindes zusteht. Die Sätze 1 und 2 gelten auch für den
-Zuschuss zum Mutterschaftsgeld nach § 14 des Mutterschutzgesetzes
-sowie für Dienstbezüge, Anwärterbezüge und Zuschüsse, die nach
-beamten- oder soldatenrechtlichen Vorschriften für die Zeit der
-Beschäftigungsverbote zustehen. Stehen die Leistungen nach den Sätzen
-1 bis 3 nur für einen Teil des Lebensmonats des Kindes zu, sind sie
-nur auf den entsprechenden Teil des Elterngeldes anzurechnen.
+(1) Lebt die berechtigte Person in einem Haushalt mit
 
-(2) Soweit Berechtigte an Stelle des vor der Geburt des Kindes
-erzielten Einkommens aus Erwerbstätigkeit nach der Geburt andere
-Einnahmen erzielen, die nach ihrer Zweckbestimmung dieses Einkommen
-aus Erwerbstätigkeit ganz oder teilweise ersetzen, werden diese
-Einnahmen auf das für das ersetzte Einkommen zustehende Elterngeld
-angerechnet, soweit letzteres den Betrag von 300 Euro übersteigt;
-dieser Betrag erhöht sich bei Mehrlingsgeburten um je 300 Euro für das
-zweite und jedes weitere Kind. Absatz 1 Satz 4 ist entsprechend
-anzuwenden.
+1.  zwei Kindern, die noch nicht drei Jahre alt sind, oder
 
-(3) Dem Elterngeld vergleichbare Leistungen, auf die eine nach § 1
-berechtigte Person außerhalb Deutschlands oder gegenüber einer
-zwischen- oder überstaatlichen Einrichtung Anspruch hat, werden auf
-das Elterngeld angerechnet, soweit sie für denselben Zeitraum zustehen
-und die auf der Grundlage des Vertrages zur Gründung der Europäischen
-Gemeinschaft erlassenen Verordnungen nicht anzuwenden sind. Solange
-kein Antrag auf die in Satz 1 genannten vergleichbaren Leistungen
-gestellt wird, ruht der Anspruch auf Elterngeld bis zur möglichen Höhe
-der vergleichbaren Leistung.
+
+2.  drei oder mehr Kindern, die noch nicht sechs Jahre alt sind,
+
+
+
+wird das Elterngeld um 10 Prozent, mindestens jedoch um 75 Euro erhöht
+(Geschwisterbonus). Zu berücksichtigen sind alle Kinder, für die die
+berechtigte Person die Voraussetzungen des § 1 Absatz 1 und 3 erfüllt
+und für die sich das Elterngeld nicht nach Absatz 4 erhöht.
+
+(2) Für angenommene Kinder, die noch nicht 14 Jahre alt sind, gilt als
+Alter des Kindes der Zeitraum seit der Aufnahme des Kindes in den
+Haushalt der berechtigten Person. Dies gilt auch für Kinder, die die
+berechtigte Person entsprechend § 1 Absatz 3 Satz 1 Nummer 1 mit dem
+Ziel der Annahme als Kind in ihren Haushalt aufgenommen hat. Für
+Kinder mit Behinderung im Sinne von § 2 Absatz 1 Satz 1 des Neunten
+Buches Sozialgesetzbuch liegt die Altersgrenze nach Absatz 1 Satz 1
+bei 14 Jahren.
+
+(3) Der Anspruch auf den Geschwisterbonus endet mit Ablauf des Monats,
+in dem eine der in Absatz 1 genannten Anspruchsvoraussetzungen
+entfällt.
+
+(4) Bei Mehrlingsgeburten erhöht sich das Elterngeld um je 300 Euro
+für das zweite und jedes weitere Kind (Mehrlingszuschlag). Dies gilt
+auch, wenn ein Geschwisterbonus nach Absatz 1 gezahlt wird.
+
+
+### § 2b Bemessungszeitraum
+
+(1) Für die Ermittlung des Einkommens aus nichtselbstständiger
+Erwerbstätigkeit im Sinne von § 2c vor der Geburt sind die zwölf
+Kalendermonate vor dem Monat der Geburt des Kindes maßgeblich. Bei der
+Bestimmung des Bemessungszeitraums nach Satz 1 bleiben Kalendermonate
+unberücksichtigt, in denen die berechtigte Person
+
+1.  ohne Berücksichtigung einer Verlängerung des Auszahlungszeitraums nach
+    § 6 Satz 2 Elterngeld für ein älteres Kind bezogen hat,
+
+
+2.  während der Schutzfristen nach § 3 Absatz 2 oder § 6 Absatz 1 des
+    Mutterschutzgesetzes nicht beschäftigt werden durfte oder
+    Mutterschaftsgeld nach der Reichsversicherungsordnung oder dem Gesetz
+    über die Krankenversicherung der Landwirte bezogen hat,
+
+
+3.  eine Krankheit hatte, die maßgeblich durch eine Schwangerschaft
+    bedingt war, oder
+
+
+4.  Wehrdienst nach dem Wehrpflichtgesetz in der bis zum 31. Mai 2011
+    geltenden Fassung oder nach dem Vierten Abschnitt des Soldatengesetzes
+    oder Zivildienst nach dem Zivildienstgesetz geleistet hat
+
+
+
+und in den Fällen der Nummern 3 und 4 dadurch ein geringeres Einkommen
+aus Erwerbstätigkeit hatte.
+
+(2) Für die Ermittlung des Einkommens aus selbstständiger
+Erwerbstätigkeit im Sinne von § 2d vor der Geburt sind die jeweiligen
+steuerlichen Gewinnermittlungszeiträume maßgeblich, die dem letzten
+abgeschlossenen steuerlichen Veranlagungszeitraum vor der Geburt des
+Kindes zugrunde liegen. Haben in einem Gewinnermittlungszeitraum die
+Voraussetzungen des Absatzes 1 Satz 2 vorgelegen, sind auf Antrag die
+Gewinnermittlungszeiträume maßgeblich, die dem diesen Ereignissen
+vorangegangenen abgeschlossenen steuerlichen Veranlagungszeitraum
+zugrunde liegen.
+
+(3) Abweichend von Absatz 1 ist für die Ermittlung des Einkommens aus
+nichtselbstständiger Erwerbstätigkeit vor der Geburt der steuerliche
+Veranlagungszeitraum maßgeblich, der den Gewinnermittlungszeiträumen
+nach Absatz 2 zugrunde liegt, wenn die berechtigte Person in den
+Zeiträumen nach Absatz 1 oder Absatz 2 Einkommen aus selbstständiger
+Erwerbstätigkeit hatte. Haben im Bemessungszeitraum nach Satz 1 die
+Voraussetzungen des Absatzes 1 Satz 2 vorgelegen, ist Absatz 2 Satz 2
+mit der zusätzlichen Maßgabe anzuwenden, dass für die Ermittlung des
+Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt
+der vorangegangene steuerliche Veranlagungszeitraum maßgeblich ist.
+
+
+### § 2c Einkommen aus nichtselbstständiger Erwerbstätigkeit
+
+(1) Der monatlich durchschnittlich zu berücksichtigende Überschuss der
+Einnahmen aus nichtselbstständiger Arbeit in Geld oder Geldeswert über
+ein Zwölftel des Arbeitnehmer-Pauschbetrags, vermindert um die Abzüge
+für Steuern und Sozialabgaben nach den §§ 2e und 2f, ergibt das
+Einkommen aus nichtselbstständiger Erwerbstätigkeit. Nicht
+berücksichtigt werden Einnahmen, die im Lohnsteuerabzugsverfahren als
+sonstige Bezüge behandelt werden. Maßgeblich ist der Arbeitnehmer-
+Pauschbetrag nach § 9a Satz 1 Nummer 1 Buchstabe a des
+Einkommensteuergesetzes in der am 1. Januar des Kalenderjahres vor der
+Geburt des Kindes für dieses Jahr geltenden Fassung.
+
+(2) Grundlage der Ermittlung der Einnahmen sind die Angaben in den für
+die maßgeblichen Monate erstellten Lohn- und Gehaltsbescheinigungen
+des Arbeitgebers.
+
+(3) Grundlage der Ermittlung der nach den §§ 2e und 2f erforderlichen
+Abzugsmerkmale für Steuern und Sozialabgaben sind die Angaben in der
+Lohn- und Gehaltsbescheinigung, die für den letzten Monat im
+Bemessungszeitraum mit Einnahmen nach Absatz 1 erstellt wurde. Soweit
+sich in den Lohn- und Gehaltsbescheinigungen des Bemessungszeitraums
+eine Angabe zu einem Abzugsmerkmal geändert hat, ist die von der
+Angabe nach Satz 1 abweichende Angabe maßgeblich, wenn sie in der
+überwiegenden Zahl der Monate des Bemessungszeitraums gegolten hat.
+
+
+### § 2d Einkommen aus selbstständiger Erwerbstätigkeit
+
+(1) Die monatlich durchschnittlich zu berücksichtigende Summe der
+positiven Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und
+selbstständiger Arbeit (Gewinneinkünfte), vermindert um die Abzüge für
+Steuern und Sozialabgaben nach den §§ 2e und 2f, ergibt das Einkommen
+aus selbstständiger Erwerbstätigkeit.
+
+(2) Bei der Ermittlung der im Bemessungszeitraum zu berücksichtigenden
+Gewinneinkünfte sind die entsprechenden im Einkommensteuerbescheid
+ausgewiesenen Gewinne anzusetzen. Ist kein Einkommensteuerbescheid zu
+erstellen, werden die Gewinneinkünfte in entsprechender Anwendung des
+Absatzes 3 ermittelt.
+
+(3) Grundlage der Ermittlung der in den Bezugsmonaten zu
+berücksichtigenden Gewinneinkünfte ist eine Gewinnermittlung, die
+mindestens den Anforderungen des § 4 Absatz 3 des
+Einkommensteuergesetzes entspricht. Als Betriebsausgaben sind 25
+Prozent der zugrunde gelegten Einnahmen oder auf Antrag die damit
+zusammenhängenden tatsächlichen Betriebsausgaben anzusetzen.
+
+(4) Soweit nicht in § 2c Absatz 3 etwas anderes bestimmt ist, sind bei
+der Ermittlung der nach § 2e erforderlichen Abzugsmerkmale für Steuern
+die Angaben im Einkommensteuerbescheid maßgeblich. § 2c Absatz 3 Satz
+2 gilt entsprechend.
+
+
+### § 2e Abzüge für Steuern
+
+(1) Als Abzüge für Steuern sind Beträge für die Einkommensteuer, den
+Solidaritätszuschlag und, wenn die berechtigte Person
+kirchensteuerpflichtig ist, die Kirchensteuer zu berücksichtigen. Die
+Abzüge für Steuern werden einheitlich für Einkommen aus
+nichtselbstständiger und selbstständiger Erwerbstätigkeit auf
+Grundlage einer Berechnung anhand des am 1. Januar des Kalenderjahres
+vor der Geburt des Kindes für dieses Jahr geltenden
+Programmablaufplans für die maschinelle Berechnung der vom Arbeitslohn
+einzubehaltenden Lohnsteuer, des Solidaritätszuschlags und der
+Maßstabsteuer für die Kirchenlohnsteuer im Sinne von § 39b Absatz 6
+des Einkommensteuergesetzes nach den Maßgaben der Absätze 2 bis 5
+ermittelt.
+
+(2) Bemessungsgrundlage für die Ermittlung der Abzüge für Steuern ist
+die monatlich durchschnittlich zu berücksichtigende Summe der
+Einnahmen nach § 2c, soweit sie von der berechtigten Person zu
+versteuern sind, und der Gewinneinkünfte nach § 2d. Bei der Ermittlung
+der Abzüge für Steuern nach Absatz 1 werden folgende Pauschalen
+berücksichtigt:
+
+1.  der Arbeitnehmer-Pauschbetrag nach § 9a Satz 1 Nummer 1 Buchstabe a
+    des Einkommensteuergesetzes, wenn die berechtigte Person von ihr zu
+    versteuernde Einnahmen hat, die unter § 2c fallen, und
+
+
+2.  eine Vorsorgepauschale
+
+    a)  mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b
+        und c des Einkommensteuergesetzes, falls die berechtigte Person von
+        ihr zu versteuernde Einnahmen nach § 2c hat, ohne in der gesetzlichen
+        Rentenversicherung oder einer vergleichbaren Einrichtung
+        versicherungspflichtig gewesen zu sein, oder
+
+
+    b)  mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a
+        bis c des Einkommensteuergesetzes in allen übrigen Fällen,
+
+
+
+    wobei die Höhe der Teilbeträge ohne Berücksichtigung der besonderen
+    Regelungen zur Berechnung der Beiträge nach § 55 Absatz 3 und § 58
+    Absatz 3 des Elften Buches Sozialgesetzbuch bestimmt wird.
+
+
+
+
+(3) Als Abzug für die Einkommensteuer ist der Betrag anzusetzen, der
+sich unter Berücksichtigung der Steuerklasse und des Faktors nach §
+39f des Einkommensteuergesetzes nach § 2c Absatz 3 ergibt; die
+Steuerklasse VI bleibt unberücksichtigt. War die berechtigte Person im
+Bemessungszeitraum nach § 2b in keine Steuerklasse eingereiht oder ist
+ihr nach § 2d zu berücksichtigender Gewinn höher als ihr nach § 2c zu
+berücksichtigender Überschuss der Einnahmen über ein Zwölftel des
+Arbeitnehmer-Pauschbetrags, ist als Abzug für die Einkommensteuer der
+Betrag anzusetzen, der sich unter Berücksichtigung der Steuerklasse IV
+ohne Berücksichtigung eines Faktors nach § 39f des
+Einkommensteuergesetzes ergibt.
+
+(4) Als Abzug für den Solidaritätszuschlag ist der Betrag anzusetzen,
+der sich nach den Maßgaben des Solidaritätszuschlagsgesetzes 1995 für
+die Einkommensteuer nach Absatz 3 ergibt. Freibeträge für Kinder
+werden nach den Maßgaben des § 3 Absatz 2a des
+Solidaritätszuschlagsgesetzes 1995 berücksichtigt.
+
+(5) Als Abzug für die Kirchensteuer ist der Betrag anzusetzen, der
+sich unter Anwendung eines Kirchensteuersatzes von 8 Prozent für die
+Einkommensteuer nach Absatz 3 ergibt. Freibeträge für Kinder werden
+nach den Maßgaben des § 51a Absatz 2a des Einkommensteuergesetzes
+berücksichtigt.
+
+(6) Vorbehaltlich der Absätze 2 bis 5 werden Freibeträge und
+Pauschalen nur berücksichtigt, wenn sie ohne weitere Voraussetzung
+jeder berechtigten Person zustehen.
+
+
+### § 2f Abzüge für Sozialabgaben
+
+(1) Als Abzüge für Sozialabgaben sind Beträge für die gesetzliche
+Sozialversicherung oder für eine vergleichbare Einrichtung sowie für
+die Arbeitsförderung zu berücksichtigen. Die Abzüge für Sozialabgaben
+werden einheitlich für Einkommen aus nichtselbstständiger und
+selbstständiger Erwerbstätigkeit anhand folgender
+Beitragssatzpauschalen ermittelt:
+
+1.  9 Prozent für die Kranken- und Pflegeversicherung, falls die
+    berechtigte Person in der gesetzlichen Krankenversicherung nach § 5
+    Absatz 1 Nummer 1 bis 12 des Fünften Buches Sozialgesetzbuch
+    versicherungspflichtig gewesen ist,
+
+
+2.  10 Prozent für die Rentenversicherung, falls die berechtigte Person in
+    der gesetzlichen Rentenversicherung oder einer vergleichbaren
+    Einrichtung versicherungspflichtig gewesen ist, und
+
+
+3.  2 Prozent für die Arbeitsförderung, falls die berechtigte Person nach
+    dem Dritten Buch Sozialgesetzbuch versicherungspflichtig gewesen ist.
+
+
+
+
+(2) Bemessungsgrundlage für die Ermittlung der Abzüge für
+Sozialabgaben ist die monatlich durchschnittlich zu berücksichtigende
+Summe der Einnahmen nach § 2c und der Gewinneinkünfte nach § 2d.
+Einnahmen aus Beschäftigungen im Sinne des § 8, des § 8a oder des § 20
+Absatz 3 Satz 1 des Vierten Buches Sozialgesetzbuch werden nicht
+berücksichtigt. Für Einnahmen aus Beschäftigungsverhältnissen im Sinne
+des § 20 Absatz 2 des Vierten Buches Sozialgesetzbuch ist der Betrag
+anzusetzen, der sich nach § 344 Absatz 4 des Dritten Buches
+Sozialgesetzbuch für diese Einnahmen ergibt, wobei der Faktor im Sinne
+des § 163 Absatz 10 Satz 2 des Sechsten Buches Sozialgesetzbuch unter
+Zugrundelegung der Beitragssatzpauschalen nach Absatz 1 bestimmt wird.
+
+(3) Andere Maßgaben zur Bestimmung der sozialversicherungsrechtlichen
+Beitragsbemessungsgrundlagen werden nicht berücksichtigt.
+
+
+### § 3 Anrechnung von anderen Einnahmen
+
+(1) Auf das der berechtigten Person nach § 2 oder nach § 2 in
+Verbindung mit § 2a zustehende Elterngeld werden folgende Einnahmen
+angerechnet:
+
+1.  Mutterschaftsleistungen in Form des Mutterschaftsgeldes nach der
+    Reichsversicherungsordnung oder nach dem Gesetz über die
+    Krankenversicherung der Landwirte mit Ausnahme des Mutterschaftsgeldes
+    nach § 13 Absatz 2 des Mutterschutzgesetzes oder des Zuschusses zum
+    Mutterschaftsgeld nach § 14 des Mutterschutzgesetzes, die der
+    berechtigten Person für die Zeit ab dem Tag der Geburt des Kindes
+    zustehen,
+
+
+2.  Dienst- und Anwärterbezüge sowie Zuschüsse, die der berechtigten
+    Person nach beamten- oder soldatenrechtlichen Vorschriften für die
+    Zeit eines Beschäftigungsverbots ab dem Tag der Geburt des Kindes
+    zustehen,
+
+
+3.  dem Elterngeld vergleichbare Leistungen, auf die eine nach § 1
+    berechtigte Person außerhalb Deutschlands oder gegenüber einer über-
+    oder zwischenstaatlichen Einrichtung Anspruch hat,
+
+
+4.  Elterngeld, das der berechtigten Person für ein älteres Kind zusteht,
+    sowie
+
+
+5.  Einnahmen, die der berechtigten Person als Ersatz für Erwerbseinkommen
+    zustehen und
+
+    a)  die nicht bereits für die Berechnung des Elterngeldes nach § 2
+        berücksichtigt werden oder
+
+
+    b)  bei deren Berechnung das Elterngeld nicht berücksichtigt wird.
+
+
+
+    Stehen der berechtigten Person die Einnahmen nur für einen Teil des
+    Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil
+    des Elterngeldes anzurechnen. Für jeden Kalendermonat, in dem
+    Einnahmen nach Satz 1 Nummer 4 oder Nummer 5 im Bemessungszeitraum
+    bezogen worden sind, wird der Anrechnungsbetrag um ein Zwölftel
+    gemindert.
+
+
+
+
+(2) Bis zu einem Betrag von 300 Euro ist das Elterngeld von der
+Anrechnung nach Absatz 1 frei, soweit nicht Einnahmen nach Absatz 1
+Satz 1 Nummer 1 bis 3 auf das Elterngeld anzurechnen sind. Dieser
+Betrag erhöht sich bei Mehrlingsgeburten um je 300 Euro für das zweite
+und jedes weitere Kind.
+
+(3) Solange kein Antrag auf die in Absatz 1 Satz 1 Nummer 3 genannten
+vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf
+Elterngeld bis zur möglichen Höhe der vergleichbaren Leistung.
 
 
 ### § 4 Bezugszeitraum
@@ -365,20 +553,20 @@ Eltern können die jeweiligen Monatsbeträge abwechselnd oder
 gleichzeitig beziehen.
 
 (3) Ein Elternteil kann mindestens für zwei und höchstens für zwölf
-Monate Elterngeld beziehen. Lebensmonate des Kindes, in denen nach § 3
-Abs. 1 oder 3 anzurechnende Leistungen zustehen, gelten als Monate,
-für die die berechtigte Person Elterngeld bezieht. Ein Elternteil kann
-abweichend von Satz 1 für 14 Monate Elterngeld beziehen, wenn eine
-Minderung des Einkommens aus Erwerbstätigkeit erfolgt und mit der
-Betreuung durch den anderen Elternteil eine Gefährdung des Kindeswohls
-im Sinne von § 1666 Abs. 1 und 2 des Bürgerlichen Gesetzbuchs
-verbunden wäre oder die Betreuung durch den anderen Elternteil
-unmöglich ist, insbesondere weil er wegen einer schweren Krankheit
-oder Schwerbehinderung sein Kind nicht betreuen kann; für die
-Feststellung der Unmöglichkeit der Betreuung bleiben wirtschaftliche
-Gründe und Gründe einer Verhinderung wegen anderweitiger Tätigkeiten
-außer Betracht. Elterngeld für 14 Monate steht einem Elternteil auch
-zu, wenn
+Monate Elterngeld beziehen. Lebensmonate des Kindes, in denen einem
+Elternteil nach § 3 Absatz 1 Nummer 1 bis 3 anzurechnende Einnahmen
+zustehen, gelten als Monate, für die dieser Elternteil Elterngeld
+bezieht. Ein Elternteil kann abweichend von Satz 1 für 14 Monate
+Elterngeld beziehen, wenn eine Minderung des Einkommens aus
+Erwerbstätigkeit erfolgt und mit der Betreuung durch den anderen
+Elternteil eine Gefährdung des Kindeswohls im Sinne von § 1666 Abs. 1
+und 2 des Bürgerlichen Gesetzbuchs verbunden wäre oder die Betreuung
+durch den anderen Elternteil unmöglich ist, insbesondere weil er wegen
+einer schweren Krankheit oder Schwerbehinderung sein Kind nicht
+betreuen kann; für die Feststellung der Unmöglichkeit der Betreuung
+bleiben wirtschaftliche Gründe und Gründe einer Verhinderung wegen
+anderweitiger Tätigkeiten außer Betracht. Elterngeld für 14 Monate
+steht einem Elternteil auch zu, wenn
 
 1.  ihm die elterliche Sorge oder zumindest das
     Aufenthaltsbestimmungsrecht allein zusteht oder er eine einstweilige
@@ -432,9 +620,9 @@ Das Elterngeld wird im Laufe des Monats gezahlt, für den es bestimmt
 ist. Die einer Person zustehenden Monatsbeträge werden auf Antrag in
 jeweils zwei halben Monatsbeträgen ausgezahlt, so dass sich der
 Auszahlungszeitraum verdoppelt. Die zweite Hälfte der jeweiligen
-Monatsbeträge wird beginnend mit dem Monat gezahlt, der auf den letzen
-Monat folgt, für den der berechtigten Person ein Monatsbetrag der
-ersten Hälfte gezahlt wurde.
+Monatsbeträge wird beginnend mit dem Monat gezahlt, der auf den
+letzten Monat folgt, für den der berechtigten Person ein Monatsbetrag
+der ersten Hälfte gezahlt wurde.
 
 
 ### § 7 Antragstellung
@@ -444,17 +632,12 @@ nur für die letzten drei Monate vor Beginn des Monats geleistet, in
 dem der Antrag auf Elterngeld eingegangen ist.
 
 (2) In dem Antrag ist anzugeben, für welche Monate Elterngeld
-beantragt wird. Die im Antrag getroffene Entscheidung kann bis zum
-Ende des Bezugszeitraums ohne Angabe von Gründen einmal geändert
-werden. In Fällen besonderer Härte, insbesondere bei Eintritt einer
-schweren Krankheit, Schwerbehinderung oder Tod eines Elternteils oder
-eines Kindes oder bei erheblich gefährdeter wirtschaftlicher Existenz
-der Eltern nach Antragstellung ist bis zum Ende des Bezugszeitraums
-einmal eine weitere Änderung zulässig. Eine Änderung kann rückwirkend
-nur für die letzten drei Monate vor Beginn des Monats verlangt werden,
-in dem der Änderungsantrag eingegangen ist. Sie ist außer in den
-Fällen besonderer Härte unzulässig, soweit Monatsbeträge bereits
-ausgezahlt sind. Im Übrigen finden die für die Antragstellung
+beantragt wird. Die im Antrag getroffenen Entscheidungen können bis
+zum Ende des Bezugszeitraums geändert werden. Eine Änderung kann
+rückwirkend nur für die letzten drei Monate vor Beginn des Monats
+verlangt werden, in dem der Änderungsantrag eingegangen ist. Sie ist
+außer in den Fällen besonderer Härte unzulässig, soweit Monatsbeträge
+bereits ausgezahlt sind. Im Übrigen finden die für die Antragstellung
 geltenden Vorschriften auch auf den Änderungsantrag Anwendung.
 
 (3) Der Antrag ist außer in den Fällen des § 4 Abs. 3 Satz 3 und 4 und
@@ -477,27 +660,28 @@ verbleibenden Monate Elterngeld erhalten.
 
 (1) Soweit im Antrag Angaben zum voraussichtlichen Einkommen aus
 Erwerbstätigkeit gemacht wurden, ist nach Ablauf des Bezugszeitraums
-das in dieser Zeit tatsächlich erzielte Einkommen aus Erwerbstätigkeit
+für diese Zeit das tatsächliche Einkommen aus Erwerbstätigkeit
 nachzuweisen.
 
-(2) Elterngeld wird in den Fällen, in denen nach den Angaben im Antrag
-im Bezugszeitraum voraussichtlich kein Einkommen aus Erwerbstätigkeit
-erzielt wird, unter dem Vorbehalt des Widerrufs für den Fall gezahlt,
-dass entgegen den Angaben im Antrag Einkommen aus Erwerbstätigkeit
-erzielt wird. In den Fällen, in denen zum Zeitpunkt der Antragstellung
-der Steuerbescheid der berechtigten Person oder einer anderen nach § 1
-Absatz 1, 3 oder 4 anspruchsberechtigten Person für den letzten
-abgeschlossenen Veranlagungszeitraum nicht vorliegt und nach den
-Angaben im Antrag die Beträge nach § 1 Absatz 8 voraussichtlich nicht
-überschritten werden, wird Elterngeld unter dem Vorbehalt des
-Widerrufs für den Fall gezahlt, dass entgegen den Angaben im Antrag
-die Beträge nach § 1 Absatz 8 überschritten werden.
+(2) Elterngeld wird in den Fällen, in denen die berechtigte Person
+nach ihren Angaben im Antrag im Bezugszeitraum voraussichtlich kein
+Einkommen aus Erwerbstätigkeit haben wird, unter dem Vorbehalt des
+Widerrufs für den Fall gezahlt, dass sie entgegen ihren Angaben im
+Antrag Einkommen aus Erwerbstätigkeit hat. In den Fällen, in denen zum
+Zeitpunkt der Antragstellung der Steuerbescheid der berechtigten
+Person oder einer anderen nach § 1 Absatz 1, 3 oder 4
+anspruchsberechtigten Person für den letzten abgeschlossenen
+Veranlagungszeitraum nicht vorliegt und nach den Angaben im Antrag die
+Beträge nach § 1 Absatz 8 voraussichtlich nicht überschritten werden,
+wird Elterngeld unter dem Vorbehalt des Widerrufs für den Fall
+gezahlt, dass entgegen den Angaben im Antrag die Beträge nach § 1
+Absatz 8 überschritten werden.
 
-(3) Kann das vor der Geburt des Kindes erzielte Einkommen aus
-Erwerbstätigkeit nicht ermittelt werden oder wird nach den Angaben im
+(3) Kann das Einkommen aus Erwerbstätigkeit vor der Geburt nicht
+ermittelt werden oder hat die berechtigte Person nach den Angaben im
 Antrag im Bezugszeitraum voraussichtlich Einkommen aus
-Erwerbstätigkeit erzielt, wird Elterngeld bis zum Nachweis des
-tatsächlich erzielten Einkommens aus Erwerbstätigkeit vorläufig unter
+Erwerbstätigkeit, wird Elterngeld bis zum Nachweis des tatsächlich zu
+berücksichtigenden Einkommens aus Erwerbstätigkeit vorläufig unter
 Berücksichtigung des glaubhaft gemachten Einkommens aus
 Erwerbstätigkeit gezahlt. Das Gleiche gilt in Fällen, in denen zum
 Zeitpunkt der Antragstellung der Steuerbescheid der berechtigten
@@ -512,30 +696,34 @@ werden kann, ob die Beträge nach § 1 Absatz 8 überschritten werden.
 Soweit es zum Nachweis des Einkommens aus Erwerbstätigkeit oder der
 wöchentlichen Arbeitszeit erforderlich ist, hat der Arbeitgeber der
 nach § 12 zuständigen Behörde für bei ihm Beschäftigte das
-Arbeitsentgelt, die abgezogene Lohnsteuer und den Arbeitnehmeranteil
-der Sozialversicherungsbeiträge sowie die Arbeitszeit auf Verlangen zu
-bescheinigen. Für die in Heimarbeit Beschäftigten und die ihnen
-Gleichgestellten (§ 1 Abs. 1 und 2 des Heimarbeitsgesetzes) tritt an
-die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister.
+Arbeitsentgelt, die für die Ermittlung der nach den §§ 2e und 2f
+erforderlichen Abzugsmerkmale für Steuern und Sozialabgaben sowie die
+Arbeitszeit auf Verlangen zu bescheinigen das Gleiche gilt für
+ehemalige Arbeitgeber. Für die in Heimarbeit Beschäftigten und die
+ihnen Gleichgestellten (§ 1 Absatz 1 und 2 des Heimarbeitsgesetzes)
+tritt an die Stelle des Arbeitgebers der Auftraggeber oder
+Zwischenmeister.
 
 
 ### § 10 Verhältnis zu anderen Sozialleistungen
 
 (1) Das Elterngeld und vergleichbare Leistungen der Länder sowie die
-nach § 3 auf das Elterngeld angerechneten Leistungen bleiben bei
+nach § 3 auf das Elterngeld angerechneten Einnahmen bleiben bei
 Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist,
 bis zu einer Höhe von insgesamt 300 Euro im Monat als Einkommen
 unberücksichtigt.
 
 (2) Das Elterngeld und vergleichbare Leistungen der Länder sowie die
-nach § 3 auf das Elterngeld angerechneten Leistungen dürfen bis zu
+nach § 3 auf das Elterngeld angerechneten Einnahmen dürfen bis zu
 einer Höhe von 300 Euro nicht dafür herangezogen werden, um auf
 Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch
 besteht, zu versagen.
 
-(3) In den Fällen des § 6 Satz 2 bleibt das Elterngeld nur bis zu
-einer Höhe von 150 Euro als Einkommen unberücksichtigt und darf nur
-bis zu einer Höhe von 150 Euro nicht dafür herangezogen werden, um auf
+(3) Bei Ausübung der Verlängerungsoption nach § 6 Satz 2 bleibt das
+Elterngeld nur bis zur Hälfte des Anrechnungsfreibetrags, der nach
+Abzug der anderen nach Absatz 1 nicht zu berücksichtigenden Einnahmen
+für das Elterngeld verbleibt, als Einkommen unberücksichtigt und darf
+nur bis zu dieser Höhe nicht dafür herangezogen werden, um auf
 Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch
 besteht, zu versagen.
 
@@ -546,11 +734,16 @@ Mehrlingsgeburten mit der Zahl der geborenen Kinder.
 (5) Die Absätze 1 bis 4 gelten nicht bei Leistungen nach dem Zweiten
 Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch und § 6a des
 Bundeskindergeldgesetzes. Bei den in Satz 1 bezeichneten Leistungen
-bleibt das Elterngeld in Höhe des nach § 2 Absatz 1 berücksichtigten
-durchschnittlich erzielten Einkommens aus Erwerbstätigkeit vor der
-Geburt bis zu 300 Euro im Monat als Einkommen unberücksichtigt. In den
-Fällen des § 6 Satz 2 verringern sich die Beträge nach Satz 2 um die
-Hälfte.
+bleiben das Elterngeld und vergleichbare Leistungen der Länder sowie
+die nach § 3 auf das Elterngeld angerechneten Einnahmen in Höhe des
+nach § 2 Absatz 1 berücksichtigten Einkommens aus Erwerbstätigkeit vor
+der Geburt bis zu 300 Euro im Monat als Einkommen unberücksichtigt. In
+den Fällen des § 6 Satz 2 verringern sich die Beträge nach Satz 2 um
+die Hälfte.
+
+(6) Die Absätze 1 bis 4 gelten entsprechend, soweit für eine
+Sozialleistung ein Kostenbeitrag erhoben werden kann, der
+einkommensabhängig ist.
 
 
 ### § 11 Unterhaltspflichten
@@ -698,14 +891,14 @@ oder von beiden Elternteilen gemeinsam genommen werden. Satz 1 gilt in
 den Fällen des Absatzes 1 Satz 1 Nr. 1 Buchstabe b und c entsprechend.
 
 (4) Der Arbeitnehmer oder die Arbeitnehmerin darf während der
-Elternzeit nicht mehr als 30 Wochenstunden erwerbstätig sein. Eine im
-Sinne des § 23 des Achten Buches Sozialgesetzbuch geeignete
-Tagespflegeperson kann bis zu fünf Kinder in Tagespflege betreuen,
-auch wenn die wöchentliche Betreuungszeit 30 Stunden übersteigt.
-Teilzeitarbeit bei einem anderen Arbeitgeber oder selbstständige
-Tätigkeit nach Satz 1 bedürfen der Zustimmung des Arbeitgebers. Dieser
-kann sie nur innerhalb von vier Wochen aus dringenden betrieblichen
-Gründen schriftlich ablehnen.
+Elternzeit nicht mehr als 30 Wochenstunden im Durchschnitt des Monats
+erwerbstätig sein. Eine im Sinne des § 23 des Achten Buches
+Sozialgesetzbuch geeignete Tagespflegeperson kann bis zu fünf Kinder
+in Tagespflege betreuen, auch wenn die wöchentliche Betreuungszeit 30
+Stunden übersteigt. Teilzeitarbeit bei einem anderen Arbeitgeber oder
+selbstständige Tätigkeit nach Satz 1 bedürfen der Zustimmung des
+Arbeitgebers. Dieser kann sie nur innerhalb von vier Wochen aus
+dringenden betrieblichen Gründen schriftlich ablehnen.
 
 (5) Der Arbeitnehmer oder die Arbeitnehmerin kann eine Verringerung
 der Arbeitszeit und ihre Ausgestaltung beantragen. Über den Antrag
@@ -784,17 +977,22 @@ Mutterschutzfrist des § 6 Abs. 1 des Mutterschutzgesetzes
 anschließende Elternzeit nicht rechtzeitig verlangen, können sie dies
 innerhalb einer Woche nach Wegfall des Grundes nachholen.
 
-(3) Die Elternzeit kann vorzeitig beendet oder im Rahmen des § 15 Abs.
-2 verlängert werden, wenn der Arbeitgeber zustimmt. Die vorzeitige
-Beendigung wegen der Geburt eines weiteren Kindes oder wegen eines
-besonderen Härtefalles im Sinne des § 7 Abs. 2 Satz 3 kann der
-Arbeitgeber nur innerhalb von vier Wochen aus dringenden betrieblichen
-Gründen schriftlich ablehnen. Die Arbeitnehmerin kann ihre Elternzeit
-nicht wegen der Mutterschutzfristen des § 3 Abs. 2 und § 6 Abs. 1 des
-Mutterschutzgesetzes vorzeitig beenden; dies gilt nicht während ihrer
-zulässigen Teilzeitarbeit. Eine Verlängerung kann verlangt werden,
-wenn ein vorgesehener Wechsel in der Anspruchsberechtigung aus einem
-wichtigen Grund nicht erfolgen kann.
+(3) Die Elternzeit kann vorzeitig beendet oder im Rahmen des § 15
+Absatz 2 verlängert werden, wenn der Arbeitgeber zustimmt. Die
+vorzeitige Beendigung wegen der Geburt eines weiteren Kindes oder in
+Fällen besonderer Härte, insbesondere bei Eintritt einer schweren
+Krankheit, Schwerbehinderung oder Tod eines Elternteils oder eines
+Kindes der berechtigten Person oder bei erheblich gefährdeter
+wirtschaftlicher Existenz der Eltern nach Inanspruchnahme der
+Elternzeit, kann der Arbeitgeber unbeschadet von Satz 3 nur innerhalb
+von vier Wochen aus dringenden betrieblichen Gründen schriftlich
+ablehnen. Die Elternzeit kann zur Inanspruchnahme der Schutzfristen
+des § 3 Absatz 2 und des § 6 Absatz 1 des Mutterschutzgesetzes auch
+ohne Zustimmung des Arbeitgebers vorzeitig beendet werden; in diesen
+Fällen soll die Arbeitnehmerin dem Arbeitgeber die Beendigung der
+Elternzeit rechtzeitig mitteilen. Eine Verlängerung der Elternzeit
+kann verlangt werden, wenn ein vorgesehener Wechsel der
+Anspruchsberechtigten aus einem wichtigen Grund nicht erfolgen kann.
 
 (4) Stirbt das Kind während der Elternzeit, endet diese spätestens
 drei Wochen nach dem Tod des Kindes.
@@ -931,48 +1129,37 @@ Fortentwicklung ist eine laufende Erhebung zum Bezug von Elterngeld
 als Bundesstatistik durchzuführen. Die Erhebung erfolgt zentral beim
 Statistischen Bundesamt.
 
-(2) Die Statistik erfasst nach Maßgabe des Absatzes 3 vierteljährlich
-für die vorangegangenen drei Kalendermonate erstmalig zum 31. März
-2007 folgende Erhebungsmerkmale:
+(2) Die Statistik erfasst vierteljährlich zum jeweils letzten Tag des
+aktuellen und der vorangegangenen zwei Kalendermonate erstmalig zum
+31\. März 2013 für Elterngeld beziehende Personen folgende
+Erhebungsmerkmale:
 
-1.  Bewilligung oder Ablehnung des Antrags,
-
-
-2.  Monat und Jahr des ersten Leistungsbezugs,
+1.  Art der Berechtigung nach § 1,
 
 
-3.  Monat und Jahr des letzten Leistungsbezugs,
+2.  Grundlagen der Berechnung des zustehenden Monatsbetrags nach Art und
+    Höhe (§ 2 Absatz 1, 2, 3 oder 4, § 2a Absatz 1 oder 4, § 2c oder §
+    2d),
 
 
-4.  Art der Berechtigung nach § 1,
+3.  Höhe des zustehenden Monatsbetrags ohne die Berücksichtigung der
+    Einnahmen nach § 3 und der Ausübung der Verlängerungsmöglichkeit (§
+    6),
 
 
-5.  Grundlagen der Berechnung des zustehenden Monatsbetrags (§ 2 Abs. 1,
-    2, 3, 4, 5 oder 6),
+4.  Art und Höhe der Einnahmen nach § 3,
 
 
-6.  Höhe des ersten vollen zustehenden Monatsbetrags,
+5.  Ausübung der Verlängerungsmöglichkeit (§ 6),
 
 
-7.  Höhe des letzten zustehenden Monatsbetrags,
+6.  Höhe des ausgezahlten Monatsbetrags,
 
 
-8.  tatsächliche Bezugsdauer des Elterngeldes,
+7.  Geburtstag des Kindes,
 
 
-9.  Art und Höhe anderer angerechneter Leistungen nach § 3,
-
-
-10. Ausübung der Verlängerungsmöglichkeit (§ 6),
-
-
-11. Inanspruchnahme und Anzahl der Partnermonate (§ 4 Abs. 2 und 3),
-
-
-12. Geburtstag des Kindes,
-
-
-13. für die Antragstellerin oder den Antragsteller:
+8.  für die Antragstellerin oder den Antragsteller:
 
     a)  Geschlecht, Geburtsjahr und -monat,
 
@@ -995,9 +1182,9 @@ für die vorangegangenen drei Kalendermonate erstmalig zum 31. März
 
 
 
-(3) Die Angaben nach Absatz 2 Nr. 1, 2, 4 bis 6 und 8 bis 13 sind für
-das Jahr 2007 für jeden Antrag, nach Absatz 2 Nr. 2 bis 13 ab 2008 für
-jeden beendeten Leistungsbezug zu melden.
+(3) Die Angaben nach Absatz 2 Nummer 2, 3 und 6 sind für jeden
+Lebensmonat des Kindes, bezogen auf den Zeitraum des Leistungsbezugs,
+zu melden.
 
 (4) Hilfsmerkmale sind:
 
@@ -1014,19 +1201,19 @@ jeden beendeten Leistungsbezug zu melden.
 
 
 
-### § 23 Auskunftspflicht; Datenübermittlung
+### § 23 Auskunftspflicht; Datenübermittlung an das Statistische Bundesamt
 
 (1) Für die Erhebung nach § 22 besteht Auskunftspflicht. Die Angaben
 nach § 22 Abs. 4 Nr. 2 sind freiwillig. Auskunftspflichtig sind die
 nach § 12 Abs. 1 zuständigen Stellen.
 
 (2) Der Antragsteller oder die Antragstellerin ist gegenüber den nach
-§ 12 Abs. 1 zuständigen Stellen zu den Erhebungsmerkmalen nach § 22
-Abs. 2 auskunftspflichtig. Die zuständigen Stellen nach § 12 Abs. 1
-dürfen die Angaben nach § 22 Abs. 2 Nr. 13, soweit sie für den Vollzug
-dieses Gesetzes nicht erforderlich sind, nur durch technische und
-organisatorische Maßnahmen getrennt von den übrigen Daten nach § 22
-Abs. 2 und nur für die Übermittlung an das Statistische Bundesamt
+§ 12 Absatz 1 zuständigen Stellen zu den Erhebungsmerkmalen nach § 22
+Absatz 2 auskunftspflichtig. Die zuständigen Stellen nach § 12 Absatz
+1 dürfen die Angaben nach § 22 Absatz 2 Nummer 7, soweit sie für den
+Vollzug dieses Gesetzes nicht erforderlich sind, nur durch technische
+und organisatorische Maßnahmen getrennt von den übrigen Daten nach §
+22 Absatz 2 und nur für die Übermittlung an das Statistische Bundesamt
 verwenden und haben diese unverzüglich nach Übermittlung an das
 Statistische Bundesamt zu löschen.
 
@@ -1035,17 +1222,54 @@ elektronisch bis zum Ablauf von 30 Arbeitstagen nach Ablauf des
 Berichtszeitraums an das Statistische Bundesamt zu übermitteln.
 
 
-### § 24 Übermittlung
+### § 24 Übermittlung von Tabellen mit statistischen Ergebnissen durch das Statistische Bundesamt
 
-An die fachlich zuständigen obersten Bundes- oder Landesbehörden
-dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
-und für Zwecke der Planung, jedoch nicht für die Regelung von
-Einzelfällen, vom Statistischen Bundesamt Tabellen mit statistischen
-Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen
-einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen
-einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie
-nicht differenzierter als auf Regierungsbezirksebene, im Falle der
+Zur Verwendung gegenüber den gesetzgebenden Körperschaften und zu
+Zwecken der Planung, jedoch nicht zur Regelung von Einzelfällen,
+übermittelt das Statistische Bundesamt Tabellen mit statistischen
+Ergebnissen, auch soweit Tabellenfelder nur einen einzigen Fall
+ausweisen, an die fachlich zuständigen obersten Bundes- oder
+Landesbehörden. Tabellen, deren Tabellenfelder nur einen einzigen Fall
+ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht
+differenzierter als auf Regierungsbezirksebene, im Falle der
 Stadtstaaten auf Bezirksebene, aufbereitet sind.
+
+
+### § 24a Übermittlung von Einzelangaben durch das Statistische Bundesamt
+
+(1) Zur Abschätzung von Auswirkungen der Änderungen dieses Gesetzes im
+Rahmen der Zwecke nach § 24 übermittelt das Statistische Bundesamt auf
+Anforderung des fachlich zuständigen Bundesministeriums diesem oder
+von ihm beauftragten Forschungseinrichtungen Einzelangaben ab dem Jahr
+2007 ohne Hilfsmerkmale mit Ausnahme des Merkmals nach § 22 Absatz 4
+Nummer 3 für die Entwicklung und den Betrieb von
+Mikrosimulationsmodellen. Die Einzelangaben dürfen nur im hierfür
+erforderlichen Umfang und mittels eines sicheren Datentransfers
+übermittelt werden.
+
+(2) Bei der Verarbeitung und Nutzung der Daten nach Absatz 1 ist das
+Statistikgeheimnis nach § 16 des Bundesstatistikgesetzes zu wahren.
+Dafür ist die Trennung von statistischen und nichtstatistischen
+Aufgaben durch Organisation und Verfahren zu gewährleisten. Die nach
+Absatz 1 übermittelten Daten dürfen nur für die Zwecke verwendet
+werden, für die sie übermittelt wurden. Die übermittelten Einzeldaten
+sind nach dem Erreichen des Zweckes zu löschen, zu dem sie übermittelt
+wurden.
+
+(3) Personen, die Empfängerinnen und Empfänger von Einzelangaben nach
+Absatz 1 Satz 1 sind, unterliegen der Pflicht zur Geheimhaltung nach §
+16 Absatz 1 und 10 des Bundesstatistikgesetzes. Personen, die
+Einzelangaben nach Absatz 1 Satz 1 erhalten sollen, müssen Amtsträger
+oder für den öffentlichen Dienst besonders Verpflichtete sein.
+Personen, die Einzelangaben erhalten sollen und die nicht Amtsträger
+oder für den öffentlichen Dienst besonders Verpflichtete sind, sind
+vor der Übermittlung zur Geheimhaltung zu verpflichten. § 1 Absatz 2,
+3 und 4 Nummer 2 des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I
+S. 469, 547), das durch § 1 Nummer 4 des Gesetzes vom 15. August 1974
+(BGBl. I S. 1942) geändert worden ist, gilt in der jeweils geltenden
+Fassung entsprechend. Die Empfängerinnen und Empfänger von
+Einzelangaben dürfen aus ihrer Tätigkeit gewonnene Erkenntnisse nur
+für die in Absatz 1 genannten Zwecke verwenden.
 
 
 ### § 25 Bericht
@@ -1062,16 +1286,15 @@ vor. Er darf keine personenbezogenen Daten enthalten.
 trifft, ist bei der Ausführung des Ersten Abschnitts das Erste Kapitel
 des Zehnten Buches Sozialgesetzbuch anzuwenden.
 
-(2) § 331 des Dritten Buches Sozialgesetzbuch gilt entsprechend.
+(2) § 328 Absatz 3 und § 331 des Dritten Buches Sozialgesetzbuch
+gelten entsprechend.
 
 
 ### § 27 Übergangsvorschrift
 
-(1) Für die vor dem 1. Januar 2007 geborenen oder mit dem Ziel der
-Adoption aufgenommenen Kinder sind die Vorschriften des Ersten und
-Dritten Abschnitts des Bundeserziehungsgeldgesetzes in der bis zum 31.
-Dezember 2006 geltenden Fassung weiter anzuwenden; ein Anspruch auf
-Elterngeld besteht in diesen Fällen nicht.
+(1) Für die vor dem 1. Januar 2013 geborenen oder mit dem Ziel der
+Adoption aufgenommenen Kinder sind die Vorschriften dieses Gesetzes in
+der bis zum 31. Dezember 2012 geltenden Fassung weiter anzuwenden.
 
 (1a) Bei der Ermittlung des Überschusses der Einnahmen über die
 Werbungskosten nach § 2 Absatz 7 Satz 1 ist für die vor dem 1. Januar
@@ -1079,17 +1302,7 @@ Werbungskosten nach § 2 Absatz 7 Satz 1 ist für die vor dem 1. Januar
 9a Satz 1 Nummer 1 Buchstabe a des Einkommensteuergesetzes in der am
 4\. November 2011 geltenden Fassung anzuwenden.
 
-(2) Der Zweite Abschnitt ist in den in Absatz 1 genannten Fällen mit
-der Maßgabe anzuwenden, dass es bei der Prüfung des § 15 Abs. 1 Satz 1
-Nr. 1 Buchstabe b auf den Zeitpunkt der Geburt oder der Aufnahme des
-Kindes nicht ankommt. Ein vor dem 1. Januar 2007 zustehender Anspruch
-auf Elternzeit kann bis zum 31. Dezember 2008 geltend gemacht werden.
-
-(3) In den Fällen des Absatzes 1 ist § 18 Abs. 2 Satz 1 Nr. 2 des
-Bundeserziehungsgeldgesetzes in der bis zum 31. Dezember 2006
-geltenden Fassung weiter anzuwenden.
-
-(4) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder
-sind § 8 Abs. 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis
+(2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder
+sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis
 zum 31. Dezember 2006 geltenden Fassung weiter anzuwenden.
 
