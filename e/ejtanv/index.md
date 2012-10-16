@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3520
 
-Geändert durch
-:   Art. 1 V v. 7.7.2006 I 1450
+Zuletzt geändert durch
+:   Art. 2 V v. 26.9.2012 I 2093
 
 Diese Verordnung dient der Umsetzung des Beschlusses 2003/48/JI des
 Rates vom 19. Dezember 2002 über die Anwendung besonderer Maßnahmen im
@@ -38,10 +38,12 @@ Der Generalbundesanwalt beim Bundesgerichtshof ist nationale Eurojust-
 Anlaufstelle für Terrorismusfragen nach Artikel 12 Abs. 1 des
 Beschlusses 2002/187/JI des Rates vom 28. Februar 2002 über die
 Errichtung von Eurojust zur Verstärkung der Bekämpfung der schweren
-Kriminalität (ABl. EG Nr. L 63 S. 1) und Artikel 2 Abs. 2 des
-Beschlusses 2005/671/JI des Rates vom 20. September 2005 über den
-Informationsaustausch und die Zusammenarbeit betreffend terroristische
-Straftaten (ABl. EU Nr. L 253 S. 22) (nationale Anlaufstelle).
+Kriminalität (ABl. L 63 vom 6.3.2002, S. 1), der durch den Beschluss
+2009/426/JI (ABl. L 138 vom 4.6.2009, S. 14) geändert worden ist, und
+Artikel 2 Abs. 2 des Beschlusses 2005/671/JI des Rates vom 20.
+September 2005 über den Informationsaustausch und die Zusammenarbeit
+betreffend terroristische Straftaten (ABl. EU Nr. L 253 S. 22)
+(nationale Anlaufstelle).
 
 
 ## § 2 Verarbeitung der durch den Generalbundesanwalt erhobenen Informationen
@@ -124,17 +126,6 @@ worden ist. Satz 3 gilt nicht, wenn sich die Informationen auf eine
 terroristische Vereinigung im Sinne von Artikel 2 des
 Rahmenbeschlusses 2002/475/JI beziehen.
 
-(3) Absatz 2 Satz 1 findet erst Anwendung, wenn das nationale
-Eurojust-Mitglied mitteilt, dass ein Verlust der übermittelten
-Informationen bei Eurojust nicht zu besorgen ist. Das nationale
-Eurojust-Mitglied ist in regelmäßigen Abständen vom
-Generalbundesanwalt zu ersuchen, ob eine Mitteilung nach Satz 1
-erfolgen kann. Bis zu einer Mitteilung nach Satz 1 sind die nach § 2
-Abs. 1 Satz 1 gespeicherten Informationen in dieser Datei nach ihrer
-Übermittlung an Eurojust zu sperren; bei einem Verlust der
-Informationen bei Eurojust darf eine erneute Übermittlung an Eurojust
-erfolgen.
-
 
 ## § 6 Aufsicht
 
@@ -145,11 +136,7 @@ Bundesministeriums der Justiz.
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 
-Die Verordnung tritt am Tag nach der Verkündung in Kraft. § 5 Abs. 3
-tritt an dem Tag außer Kraft, an dem das nationale Eurojust-Mitglied
-mitteilt, dass keinerlei Verlust der übermittelten Informationen bei
-Eurojust zu besorgen ist. Das Bundesministerium der Justiz gibt den
-Tag des Außerkrafttretens des § 5 Abs. 3 im Bundesgesetzblatt bekannt.
+Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
