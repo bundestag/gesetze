@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1974, 1062
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.3.2010 I 398
+:   Art. 1 V v. 30.8.2012 I 1888
 
 
 ## Eingangsformel
@@ -273,6 +273,8 @@ erforderlich für
         San Marino
 
         Schweiz
+
+        Serbien
 
         Vatikanstadt;
 
