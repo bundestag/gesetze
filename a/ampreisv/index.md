@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 2147
 
 Zuletzt geändert durch
-:   Art. 8 u. 9 G v. 22.12.2010 I 2262
+:   Art. 1 V v. 17.9.2012 I 2063
 
 
 ## Eingangsformel
