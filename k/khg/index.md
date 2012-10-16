@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 10.4.1991 I 886;
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 1 G v. 12.4.2012 I 579
+:   Art. 1 G v. 21.7.2012 I 1613
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -1171,6 +1171,21 @@ Kosten dieser Begleitforschung werden mit dem DRG-Systemzuschlag nach
 Absatz 5 finanziert. Die Begleitforschung ist mit dem
 Bundesministerium für Gesundheit abzustimmen. Erste Ergebnisse sind im
 Jahr 2005 zu veröffentlichen.
+
+(9) Die Vertragsparteien nach Absatz 2 vergeben im Jahr 2012 einen
+gemeinsamen Forschungsauftrag mit dem Ziel, insbesondere die
+Leistungsentwicklung und bestehende Einflussgrößen zu untersuchen
+sowie gemeinsame Lösungsvorschläge zu erarbeiten und deren
+Auswirkungen auf die Qualität der Versorgung und die finanziellen
+Auswirkungen zu bewerten. Dabei sind insbesondere Alternativen zu der
+Berücksichtigung zusätzlicher Leistungen beim Landesbasisfallwert zu
+prüfen. Möglichkeiten der Stärkung qualitätsorientierter Komponenten
+in der Leistungssteuerung sind zu entwickeln. Zudem beauftragen sie
+mit dem in Satz 1 genannten Ziel das DRG-Institut, insbesondere die
+Daten nach § 21 des Krankenhausentgeltgesetzes auszuwerten. Die Kosten
+für die Aufgaben nach den Sätzen 1 bis 3 werden mit dem DRG-
+Systemzuschlag nach Absatz 5 finanziert. Die Ergebnisse sind bis zum
+30\. Juni 2013 zu veröffentlichen.
 
 
 ### § 17c Prüfung der Abrechnung von Pflegesätzen
