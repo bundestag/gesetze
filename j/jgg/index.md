@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.12.1974 I 3427;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 6.12.2011 I 2554
+:   Art. 1 G v. 4.9.2012 I 1854
 
 
 ## Erster Teil - Anwendungsbereich
@@ -2420,7 +2420,9 @@ Heranwachsende wegen eines Teils der Straftaten bereits rechtskräftig
 nach allgemeinem Strafrecht verurteilt worden ist.
 
 (3) Das Höchstmaß der Jugendstrafe für Heranwachsende beträgt zehn
-Jahre.
+Jahre. Handelt es sich bei der Tat um Mord und reicht das Höchstmaß
+nach Satz 1 wegen der besonderen Schwere der Schuld nicht aus, so ist
+das Höchstmaß 15 Jahre.
 
 
 #### § 106 Milderung des allgemeinen Strafrechts für Heranwachsende; Sicherungsverwahrung

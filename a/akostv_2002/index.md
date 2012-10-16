@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4161 (2002 I 750)
 
-Geändert durch
-:   Art. 3 Abs. 1 G v. 21.12.2007 I 3189
+Zuletzt geändert durch
+:   Art. 1 V v. 31.8.2012 I 1866
 
 
 ## Eingangsformel

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 318
 
+Geändert durch
+:   Art. 2 V v. 28.8.2012 I 1858
+
 
 ## Eingangsformel
 
@@ -274,10 +277,11 @@ und nicht weisungsgebunden.
 
 (3) Werden für eine Prüfung zwei Prüfende bestellt, legt das
 Prüfungsamt fest, wer Erstprüferin oder Erstprüfer und wer
-Zweitprüferin oder Zweitprüfer ist. Die Prüfenden und die Mitglieder
-der Prüfungskommissionen bewerten unabhängig voneinander die Prüfung.
-Die Zweitprüferin oder der Zweitprüfer soll Kenntnis von der Bewertung
-der Erstprüferin oder des Erstprüfers haben.
+Zweitprüferin oder Zweitprüfer ist. Bei Modulprüfungen kann auf diese
+Festlegung verzichtet werden. Die Prüfenden und die Mitglieder der
+Prüfungskommissionen bewerten unabhängig voneinander die Prüfung. Die
+Zweitprüferin oder der Zweitprüfer soll Kenntnis von der Bewertung der
+Erstprüferin oder des Erstprüfers haben.
 
 (4) Für eine Modulprüfung wird grundsätzlich eine Prüferin oder ein
 Prüfer bestellt. Die Prüfenden sollen haupt- oder nebenamtliche
@@ -295,7 +299,7 @@ Lehrkraft der Hochschule sein.
 
 (6) Eine Prüfungskommission für die mündliche Abschlussprüfung besteht
 aus einer oder einem Angehörigen des höheren Dienstes als Vorsitzenden
-oder Vor-sitzendem und zwei weiteren Mitgliedern. Ein Mitglied der
+oder Vorsitzendem und zwei weiteren Mitgliedern. Ein Mitglied der
 Prüfungskommission muss haupt- oder nebenamtliche Lehrkraft der
 Hochschule sein, ein weiteres Mitglied soll Ausbildungsverantwortliche
 oder Ausbildungsverantwortlicher sein.
@@ -430,8 +434,8 @@ Einzelprüfung durchgeführt.
 nachweisen, dass sie die Inhalte der absolvierten Module der
 Vertiefungsstudien zueinander in Beziehung setzen können und dass ihre
 Kenntnisse und Fähigkeiten den Anforderungen des gehobenen
-Bankdienstes genügen. Die Prüfung soll als Gruppenprüfung durchgeführt
-werden. Eine Gruppe soll aus zwei bis vier Personen bestehen.
+Bankdienstes genügen. Die Prüfung kann als Gruppenprüfung durchgeführt
+werden. Eine Gruppe soll aus höchstens vier Personen bestehen.
 
 (6) Die Prüfung ist hochschulöffentlich, wenn keine oder keiner der zu
 Prüfenden widerspricht. Zu einer Prüfung sollen nicht mehr als zehn
@@ -660,15 +664,18 @@ anzuhören.
 ### § 17 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb eines Monats
-nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Bei
+nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Nach
+Vorgabe des Prüfungsamtes kann eine Modulprüfung auch dann in Form
+einer mündlichen Prüfung wiederholt werden, wenn die nicht bestandene
+Modulprüfung in einer anderen Form durchgeführt wurde. Bei
 Modulprüfungen in Form von Praktikumsberichten, Vermerken,
 Seminararbeiten, Präsentationen oder vergleichbaren Prüfungsformen,
 die die Erstellung schriftlicher Ausarbeitungen über eine
 Bearbeitungszeit von mehreren Wochen einschließen, kann die
 Wiederholung nach Vorgabe des Prüfungsamtes auch durch die Möglichkeit
-zur Nachbesserung oder eine mündliche Prüfung erfolgen. Nach einer
-erfolglosen Wiederholung ist das Studium beendet, wenn ein Bestehen
-der Laufbahnprüfung (§ 18 Absatz 1) nicht mehr möglich ist.
+zur Nachbesserung erfolgen. Nach einer erfolglosen Wiederholung ist
+das Studium beendet, wenn ein Bestehen der Laufbahnprüfung (§ 18
+Absatz 1) nicht mehr möglich ist.
 
 (2) Wenn die Bachelorarbeit mit einer Rangpunktzahl von weniger als
 5,00 bewertet worden ist, kann sie einmal wiederholt werden. Das
