@@ -132,7 +132,7 @@ GmbH vor, löscht das Registergericht den Zusatz "im Aufbau" in der
 bisherigen Firma der Gesellschaft. Außerdem sind die Höhe des
 Stammkapitals und die Geschäftsführer einzutragen. Ferner ist
 einzutragen, welche Vertretungsbefugnis die Geschäftsführer haben. Der
-Gesellschaftsvertrag und und seine Änderungen bedürfen zu ihrer
+Gesellschaftsvertrag und seine Änderungen bedürfen zu ihrer
 Wirksamkeit keiner Bestätigung durch die nach dem Bergrecht für die
 Bestätigung des Gesellschaftsvertrages zuständigen Behörde.
 

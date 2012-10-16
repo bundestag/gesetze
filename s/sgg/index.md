@@ -3678,7 +3678,7 @@ Gerichtsverfahrens (§ 202 Satz 2).
 ##### § 184
 
 (1) Kläger und Beklagte, die nicht zu den in § 183 genannten Personen
-gehören, haben für jede Streitsache eine Gebühr zu zu entrichten. Die
+gehören, haben für jede Streitsache eine Gebühr zu entrichten. Die
 Gebühr entsteht, sobald die Streitsache rechtshängig geworden ist; sie
 ist für jeden Rechtszug zu zahlen. Soweit wegen derselben Streitsache
 ein Mahnverfahren (§ 182a) vorausgegangen ist, wird die Gebühr für das

@@ -2982,7 +2982,7 @@ Erfordernis kann abgesehen werden, wenn geeignete Personen nicht
 vorhanden sind, die diese Voraussetzungen erfüllen. Der in Satz 2
 genannte ehrenamtliche Richter und dessen Stellvertreter werden auf
 Vorschlag der für die Landwirtschaft zuständigen obersten
-Landesbehörde für die Dauer von von fünf Jahren ernannt.
+Landesbehörde für die Dauer von fünf Jahren ernannt.
 
 (3) Die anderen ehrenamtlichen Richter und ihre Stellvertreter müssen
 Inhaber eines landwirtschaftlichen Betriebes sein. Sie können

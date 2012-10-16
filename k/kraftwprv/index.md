@@ -114,7 +114,7 @@ zuzulassen, wer Folgendes nachweist:
     zweijährige Berufspraxis im Fahrbetrieb eines Kraftwerks oder
 
 
-2.  eine mit Erfolg abgelegte Abschlussprüfung zum Maschinist für für
+2.  eine mit Erfolg abgelegte Abschlussprüfung zum Maschinist für
     Wärmekraftwerke und danach eine mindestens zweijährige Berufspraxis im
     Fahrbetrieb eines Kraftwerks oder
 

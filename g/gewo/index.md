@@ -3139,11 +3139,11 @@ erlassen.
 
 
     b)  alkoholischen Getränken; zugelassen sind Bier und Wein in fest
-        verschlossenen Behältnissen, alkoholische Getränke im im Sinne von §
-        67 Abs. 1 Nr. 1 zweiter und dritter Halbsatz und alkoholische
-        Getränke, die im Rahmen und für die Dauer einer Veranstaltung von
-        einer ortsfesten Betriebsstätte zum Verzehr an Ort und Stelle
-        verabreicht werden;
+        verschlossenen Behältnissen, alkoholische Getränke im Sinne von § 67
+        Abs. 1 Nr. 1 zweiter und dritter Halbsatz und alkoholische Getränke,
+        die im Rahmen und für die Dauer einer Veranstaltung von einer
+        ortsfesten Betriebsstätte zum Verzehr an Ort und Stelle verabreicht
+        werden;
 
 
     c)  (weggefallen)

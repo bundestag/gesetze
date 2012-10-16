@@ -3606,8 +3606,7 @@ gesundheitlich geschädigt, ist der Luftfrachtführer verpflichtet, den
 daraus entstehenden Schaden zu ersetzen.
 
 (2) In den Fällen des Absatzes 1 haftet der Luftfrachtführer für jeden
-Fluggast nur bis zu einem Betrag von 113 100 Rechnungseinheiten
-Rechnungseinheiten, wenn
+Fluggast nur bis zu einem Betrag von 113 100 Rechnungseinheiten, wenn
 
 1.  der Schaden nicht durch sein rechtswidriges und schuldhaftes Handeln
     oder Unterlassen oder das rechtswidrige und schuldhafte Handeln oder

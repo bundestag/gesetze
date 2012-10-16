@@ -1839,8 +1839,8 @@ Wirtschaftsprüferordnung über die Kündigung des Auftrags ist
 entsprechend anzuwenden.
 
 (2) Auf das Prüfungsverfahren sind § 57a Abs. 5, Abs. 6 Satz 1 bis 4
-und 6 bis bis 9 sowie Abs. 8, §§ 57b bis 57e Abs. 1, Abs. 2 Satz 1 bis
-7 und Abs. 3, § 66a Abs. 1 Satz 1, Abs. 3 Satz 1 bis 3, Abs. 5 Satz 1,
+und 6 bis 9 sowie Abs. 8, §§ 57b bis 57e Abs. 1, Abs. 2 Satz 1 bis 7
+und Abs. 3, § 66a Abs. 1 Satz 1, Abs. 3 Satz 1 bis 3, Abs. 5 Satz 1,
 Abs. 6 Satz 5 und § 66b der Wirtschaftsprüferordnung entsprechend
 anzuwenden. Soweit dies zur Durchführung der Qualitätskontrolle
 erforderlich ist, ist die Pflicht zur Verschwiegenheit nach § 62 Abs.

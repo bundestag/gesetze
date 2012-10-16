@@ -3360,7 +3360,7 @@ oder eine Pflegesachleistung nach den Vorschriften des Elften Buches
 Sozialgesetzbuch oder in den Fällen des § 276 Abs. 3a vergleichbare
 Leistungen von einem privaten Versicherungsunternehmen erhalten.
 
-(2) Als  Einkünfte gelten alle Bezüge in Geld oder Geldeswert, die dem
+(2) Als Einkünfte gelten alle Bezüge in Geld oder Geldeswert, die dem
 Berechtigten und seinem nicht dauernd von ihm getrennt lebenden
 Ehegatten sowie seinen Kindern im Sinne des Absatzes 1 Nr. 2 nach
 Abzug der Aufwendungen verbleiben, die nach den Grundsätzen des
@@ -3401,22 +3401,21 @@ hiervon gelten jedoch folgende Ausnahmen:
     b)  Personen, die infolge Unfalls erwerbsbeschränkt sind, folgende
         Freibeträge:
 
+        bei einer Erwerbsbeschränkung
+
+        -   von 30 bis 60 v.H. = 45 Euro monatlich,
+
+
+        -   über 60 bis 80 v.H. = 48 Euro monatlich,
+
+
+        -   über 80 v.H. = 53 Euro monatlich;
 
 
 
 
 
 
-*    *   bei einer Erwerbsbeschränkung
-
-
-*    *   - von 30 bis 60 v.H. = 45 Euro monatlich,
-
-
-*    *   - über 60 bis 80 v.H. = 48 Euro monatlich,
-
-
-*    *   - über  80 v.H. = 53 Euro monatlich;
 
 
 
@@ -3426,8 +3425,8 @@ hiervon gelten jedoch folgende Ausnahmen:
         sind, daß sie nicht ohne fremde Wartung und Pflege bestehen können,
         ein Freibetrag von 39 Euro monatlich, es sei denn, sie erhalten
         Pflegegeld oder eine Pflegesachleistung nach den Vorschriften des
-        Elften Buches Sozialgesetzbuch oder vergleichbare Leistungen von von
-        einem privaten Versicherungsunternehmen;
+        Elften Buches Sozialgesetzbuch oder vergleichbare Leistungen von einem
+        privaten Versicherungsunternehmen;
 
 
     d)  Eltern oder Elternteilen, die eine Elternrente nach dem

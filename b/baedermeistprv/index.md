@@ -102,10 +102,9 @@ Bäderbetriebe".
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte
 Abschlußprüfung in den anerkannten Ausbildungsberufen Fachangestellter
-für für Bäderbetriebe oder Schwimmeistergehilfe und danach eine
-mindestens zweijährige Berufspraxis, die wesentliche Bezüge zu den
-Aufgaben eines Meisters für Bäderbetriebe gemäß § 1 Abs. 2 hat,
-nachweist.
+für Bäderbetriebe oder Schwimmeistergehilfe und danach eine mindestens
+zweijährige Berufspraxis, die wesentliche Bezüge zu den Aufgaben eines
+Meisters für Bäderbetriebe gemäß § 1 Abs. 2 hat, nachweist.
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden,
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft

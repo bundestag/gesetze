@@ -105,7 +105,7 @@ Tätigkeiten
 
 2.  die §§ 5, 6, 14, 17 bis 25, 26 Abs. 2, die §§ 30 bis 32a, 33 Abs. 3
     sowie die §§ 34 bis 39 und die sich hierauf beziehenden Straf- und
-    Bußgeldvorschriften für die nach nach § 2 Abs. 3 der Stoffgruppe B
+    Bußgeldvorschriften für die nach § 2 Abs. 3 der Stoffgruppe B
     zugeordneten explosionsgefährlichen Stoffe,
 
 

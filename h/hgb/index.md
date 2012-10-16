@@ -12679,7 +12679,7 @@ Der Spediteur hat Handlungen und Unterlassungen seiner Leute in
 gleichem Umfang zu vertreten wie eigene Handlungen und Unterlassungen,
 wenn die Leute in Ausübung ihrer Verrichtungen handeln. Gleiches gilt
 für Handlungen und Unterlassungen anderer Personen, deren er sich bei
-bei Erfüllung seiner Pflicht, die Versendung zu besorgen, bedient.
+Erfüllung seiner Pflicht, die Versendung zu besorgen, bedient.
 
 
 #### § 463 Verjährung

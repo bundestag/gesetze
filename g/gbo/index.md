@@ -424,7 +424,7 @@ grundbuchführenden Stellen aufbewahrt werden, gilt § 12 entsprechend.
 3.  die Entscheidungen über Ersuchen des Gerichts um Eintragung oder
     Löschung des Vermerks über die Eröffnung des Insolvenzverfahrens und
     über die Verfügungsbeschränkungen nach der Insolvenzordnung oder des
-    Vermerks über die Einleitung eines Zwangsversteigerungs- und und
+    Vermerks über die Einleitung eines Zwangsversteigerungs- und
     Zwangsverwaltungsverfahrens;
 
 

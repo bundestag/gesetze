@@ -588,8 +588,8 @@ auf. Es soll den Bescheid entsprechend ändern oder spricht die
 Verpflichtung aus, den Antragsteller unter Beachtung der
 Rechtsauffassung des Gerichts zu bescheiden.
 
-(5) Auf das Verfahren sind die Vorschriften des § 217 Abs. 4, des des
-§ 218 Abs. 1, des § 221 Abs. 2 und 3, des § 222 Abs. 1 und 2 sowie der
+(5) Auf das Verfahren sind die Vorschriften des § 217 Abs. 4, des §
+218 Abs. 1, des § 221 Abs. 2 und 3, des § 222 Abs. 1 und 2 sowie der
 §§ 227 und 228 des Baugesetzbuchs sinngemäß anzuwenden. Im übrigen
 gelten die bei Klagen in bürgerlichen Rechtsstreitigkeiten
 anzuwendenden Vorschriften entsprechend. § 78 der Zivilprozeßordnung
