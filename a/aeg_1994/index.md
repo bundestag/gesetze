@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2396 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.6.2012 I 1421
+:   Art. 1 G v. 12.9.2012 I 1884
 
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
@@ -214,13 +214,10 @@ beantragen.
 (3) Die Eisenbahnen und Halter von Eisenbahnfahrzeugen sind
 verpflichtet,
 
-1.  ihren Betrieb sicher zu führen,
+1.  ihren Betrieb sicher zu führen und
 
 
-2.  Fahrzeuge und Zubehör in betriebssicherem Zustand zu halten und
-
-
-3.  an Maßnahmen des Brandschutzes und der Technischen Hilfeleistung
+2.  an Maßnahmen des Brandschutzes und der Technischen Hilfeleistung
     mitzuwirken.
 
 
@@ -240,12 +237,19 @@ von Entgelten für die Nutzung von Eisenbahninfrastruktur und die
 Sicherheitsbescheinigung („Richtlinie über die Eisenbahnsicherheit“)
 (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16), die
 zuletzt durch die Richtlinie 2009/149/EG (ABl. L 313 vom 28.11.2009,
-S. 65) geändert worden ist, einzurichten und über dessen Inhalt
-Aufzeichnungen zu führen. Die übrigen Eisenbahnen haben in geeigneter
-Weise Regelungen zur Erfüllung der Anforderungen der öffentlichen
-Sicherheit festzulegen und über deren Inhalt Aufzeichnungen zu führen.
+S. 65) geändert worden ist, einzurichten und über dessen Inhalt in
+nicht personenbezogener Form Aufzeichnungen zu führen. Die übrigen
+Eisenbahnen haben in geeigneter Weise Regelungen zur Erfüllung der
+Anforderungen der öffentlichen Sicherheit festzulegen und über deren
+Inhalt in nicht personenbezogener Form Aufzeichnungen zu führen.
 
-(5) Im Hinblick auf Errichtung, Änderung, Unterhaltung und Betrieb der
+(5) Die Eisenbahnen haben von ihnen nicht mehr verwendete
+Aufzeichnungen über das System nach Absatz 4 Satz 1 und 2 unverzüglich
+als solche zu kennzeichnen. Die Eisenbahnen sind verpflichtet, die
+Aufzeichnungen ab dem Tag der Kennzeichnung fünf Jahre lang
+aufzubewahren.
+
+(6) Im Hinblick auf Errichtung, Änderung, Unterhaltung und Betrieb der
 Betriebsanlagen und der Fahrzeuge von Eisenbahnen des Bundes obliegen
 dem Eisenbahn-Bundesamt
 
@@ -259,11 +263,73 @@ dem Eisenbahn-Bundesamt
 auf Grund anderer Gesetze und Verordnungen. § 5 Absatz 5 bleibt
 unberührt.
 
-(6) Der Betreiber der Schienenwege muss auch den Betrieb der
+(7) Der Betreiber der Schienenwege muss auch den Betrieb der
 zugehörigen Steuerungs- und Sicherungssysteme sowie die zugehörigen
 Anlagen zur streckenbezogenen Versorgung mit Fahrstrom zum Gegenstand
 seines Unternehmens machen.
 
+
+## § 4a Instandhaltung
+
+(1) Die Eisenbahnen und Halter von Eisenbahnfahrzeugen sind für die
+Instandhaltung jedes ihrer Eisenbahnfahrzeuge zuständig (für die
+Instandhaltung zuständige Stelle). Sie können die Aufgabe nach Satz 1
+auf die für die Instandhaltung zuständige Stelle eines Dritten
+übertragen.
+
+(2) Unbeschadet der Verantwortung der Eisenbahnen und Halter von
+Eisenbahnfahrzeugen für den sicheren Betrieb sind die für die
+Instandhaltung zuständigen Stellen verpflichtet, die von ihnen zur
+Instandhaltung übernommenen Eisenbahnfahrzeuge in betriebssicherem
+Zustand zu halten.
+
+(3) Zur Instandhaltung haben die zuständigen Stellen, die eine
+Instandhaltungsstellen-Bescheinigung benötigen, ein
+Instandhaltungssystem einzurichten und über dessen Inhalt in nicht
+personenbezogener Form Aufzeichnungen zu führen. Das
+Instandhaltungssystem richtet sich nach den Anforderungen des Artikels
+4 der Verordnung (EU) Nr. 445/2011 der Kommission vom 10. Mai 2011
+über ein System zur Zertifizierung von für die Instandhaltung von
+Güterwagen zuständigen Stellen und zur Änderung der Verordnung (EG)
+Nr. 653/2007 (ABl. L 122 vom 11.5.2011, S. 22). Die Instandhaltung
+richtet sich nach
+
+1.  den Instandhaltungsunterlagen jedes Eisenbahnfahrzeuges nach Artikel 4
+    Absatz 1 Buchstabe b der Verordnung (EU) Nr. 445/2011 und
+
+
+2.  den anwendbaren Anforderungen, einschließlich der einschlägigen
+    Regelungen zur Fahrzeuginstandhaltung und der technischen
+    Spezifikationen für die Interoperabilität.
+
+
+
+
+(4) Die übrigen Stellen für die Instandhaltung von
+Eisenbahnfahrzeugen, die keine Instandhaltungsstellen-Bescheinigung
+benötigen, haben in geeigneter Weise Regelungen zur Erfüllung der
+Anforderungen der öffentlichen Sicherheit festzulegen und über deren
+Inhalt in nicht personenbezogener Form Aufzeichnungen zu führen.
+
+(5) Die in den Absätzen 3 und 4 genannten Stellen haben von ihnen
+nicht mehr verwendete Aufzeichnungen über das System nach Absatz 3
+Satz 1 und Absatz 4 unverzüglich als solche zu kennzeichnen. Die
+Stellen sind verpflichtet, die Aufzeichnungen ab dem Tag der
+Kennzeichnung fünf Jahre lang aufzubewahren.
+
+[^F777703_02_BJNR239600993BJNE006800311]
+(6) Die in den Absätzen 3 und 4 genannten Stellen haben die
+Instandhaltungsunterlagen jedes Eisenbahnfahrzeuges so lange
+aufzubewahren, wie das Eisenbahnfahrzeug als solches verwendet werden
+kann. Die zu den Instandhaltungsunterlagen zählenden
+Instandhaltungsnachweise jedes Eisenbahnfahrzeuges sind dabei nach DIN
+27201-2:2012-02
+aufzubewahren.
+
+    Amtlicher Hinweis: Diese DIN-Norm ist im Beuth-Verlag GmbH, Berlin,
+    erschienen und beim Deutschen Patent- und Markenamt in München
+    archivmäßig gesichert niedergelegt.
+[^F777703_02_BJNR239600993BJNE006800311]: 
 
 ## § 5 Eisenbahnaufsicht
 
@@ -342,29 +408,30 @@ Aufsicht unterliegende Eisenbahninfrastruktur benutzen.
 
 (1d) Dem Bund obliegt unbeschadet des § 25b die Wahrnehmung der
 Aufgaben der benannten Stelle, soweit eine solche nach dem Recht der
-Europäischen Gemeinschaften im Zusammenhang mit dem
+Europäischen Gemeinschaften oder der Europäischen Union im
+Zusammenhang mit dem interoperablen Eisenbahnsystem einzurichten ist.
+Hierzu wird bei der für die Eisenbahnaufsicht nach Absatz 2 Satz 1
+zuständigen Bundesbehörde eine benannte Stelle eingerichtet.
 
-1.  konventionellen Eisenbahnsystem und
+(1e) Dem Bund obliegt für die regelspurigen Eisenbahnen, die Halter
+von Eisenbahnfahrzeugen und die für die Instandhaltung zuständigen
+Stellen
 
-
-2.  transeuropäischen Hochgeschwindigkeitsbahnsystem
-
-
-
-einzurichten ist. Hierzu wird bei der für die Eisenbahnaufsicht nach
-Absatz 2 Satz 1 zuständigen Bundesbehörde eine benannte Stelle
-eingerichtet.
-
-(1e) Dem Bund obliegt für regelspurige Eisenbahnen
-
-1.  die Genehmigung der Inbetriebnahme struktureller Teilsysteme im Sinne
-    des Rechts der Europäischen Gemeinschaften im Zusammenhang mit dem
-    konventionellen Eisenbahnsystem und dem transeuropäischen
-    Hochgeschwindigkeitsbahnsystem;
+1.  die Genehmigung der Inbetriebnahme struktureller Teilsysteme und Teile
+    von diesen im Sinne des Rechts der Europäischen Gemeinschaften oder
+    der Europäischen Union;
 
 
-2.  die Erteilung von Sicherheitsbescheinigungen und
-    Sicherheitsgenehmigungen;
+2.  die Erteilung von
+
+    a)  Sicherheitsbescheinigungen und Sicherheitsgenehmigungen sowie
+
+
+    b)  Instandhaltungsstellen-Bescheinigungen und Bescheinigungen für
+        Instandhaltungsfunktionen;
+
+
+
 
 
 3.  die Anerkennung von Schulungseinrichtungen und die Überwachung deren
@@ -377,11 +444,13 @@ eingerichtet.
     einer Sicherheitsbescheinigung oder Sicherheitsgenehmigung bedürfen;
 
 
-5.  die Eisenbahnaufsicht über das Herstellen und das Inverkehrbringen von
-    Teilen von Teilsystemen, die Interoperabilitätskomponenten im Sinne
-    des Rechts der Europäischen Gemeinschaften im Zusammenhang mit dem
-    konventionellen Eisenbahnsystem und dem transeuropäischen
-    Hochgeschwindigkeitsbahnsystem sind;
+4a. die Eisenbahnaufsicht über Halter nach § 32, deren Eisenbahnfahrzeuge
+    im Fahrzeugeinstellungsregister nach § 25a eingetragen sein müssen;
+
+
+5.  die Eisenbahnaufsicht über das Inverkehrbringen von
+    Interoperabilitätskomponenten im Sinne des Rechts der Europäischen
+    Gemeinschaften oder der Europäischen Union;
 
 
 6.  die Überwachung der von öffentlichen Eisenbahnen festgelegten Regeln,
@@ -391,9 +460,8 @@ eingerichtet.
 
 
 7.  die Führung eines behördlichen Fahrzeugeinstellungsregisters, soweit
-    dieses nach dem Recht der Europäischen Gemeinschaften im Zusammenhang
-    mit dem konventionellen Eisenbahnsystem und dem transeuropäischen
-    Hochgeschwindigkeitsbahnsystem einzurichten ist;
+    dieses nach dem Recht der Europäischen Gemeinschaften oder der
+    Europäischen Union einzurichten ist;
 
 
 8.  in den Fällen, in denen das Eisenbahnverkehrsunternehmen über eine
@@ -441,7 +509,11 @@ eingerichtet.
 
     für die Erteilung von Triebfahrzeugführerscheinen und Bescheinigungen
     und deren Überwachung sowie die Führung jeweils eines Registers
-    hierüber.
+    hierüber;
+
+
+9.  das Genehmigen von Ausnahmen von der Anwendung bestimmter technischer
+    Spezifikationen für die Interoperabilität.
 
 
 
@@ -665,6 +737,10 @@ Reiseveranstalter oder Fahrkartenverkäufer verkauft. Soweit das
 Eisenbahn-Bundesamt nicht selbst zuständige Eisenbahnaufsichtsbehörde
 ist, leitet es eine Beschwerde unverzüglich an die zuständige
 Eisenbahnaufsichtsbehörde weiter.
+
+(8a) Die Eisenbahnaufsichtsbehörde kann natürliche oder juristische
+Personen des Privatrechts beauftragen, an der Erfüllung der Aufgaben
+mitzuwirken.
 
 (9) Die Eisenbahnaufsichtsbehörden können ihre Anordnungen nach den
 für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
@@ -1073,6 +1149,77 @@ bestätigen.
 Eisenbahnbetriebes, die die Betriebssicherheit berühren, sind der
 zuständigen Eisenbahnaufsichtsbehörde 14 Tage vor Inbetriebnahme
 anzuzeigen.
+
+
+## § 7g Bescheinigungen betreffend die Instandhaltung
+
+(1) Wer als für die Instandhaltung von Güterwagen zuständige Stelle
+tätig werden will, bedarf einer Instandhaltungsstellen-Bescheinigung.
+Satz 1 gilt nicht für das Instandhalten von Güterwagen, die nur
+
+1.  auf nichtöffentlichen oder nichtregelspurigen Eisenbahninfrastrukturen
+    oder
+
+
+2.  für historische oder touristische Zwecke
+
+
+
+eingesetzt werden.
+
+(2) Die Sicherheitsbehörde erteilt die Instandhaltungsstellen-
+Bescheinigung auf Antrag, wenn der Antragsteller nachweist, dass er
+ein Instandhaltungssystem eingerichtet hat, das mindestens die
+Anforderungen nach Artikel 4 der Verordnung (EU) Nr. 445/2011 erfüllt,
+soweit sich nicht aus einer Rechtsverordnung auf Grund des § 26 Absatz
+1 Satz 1 Nummer 19 ergänzende Anforderungen ergeben.
+
+(3) Eine Bescheinigung für Instandhaltungsfunktionen kann beantragen,
+wer nach Artikel 4 Absatz 1 Buchstabe b bis d der Verordnung (EU) Nr.
+445/2011 folgende Funktionen oder Teile davon wahrnehmen will:
+
+1.  die Instandhaltungsentwicklungsfunktion,
+
+
+2.  die Fuhrpark-Instandhaltungsmanagementfunktion oder
+
+
+3.  die Instandhaltungserbringungsfunktion.
+
+
+
+Die Sicherheitsbehörde erteilt die Bescheinigung nach Satz 1 auf
+Antrag, wenn der Antragsteller nachweist, dass er die Voraussetzungen
+nach Anhang I der Verordnung (EU) Nr. 445/2011 erfüllt.
+
+(4) Wer von einer zuständigen Zertifizierungsstelle in einem
+Mitgliedstaat der Europäischen Union eine Bescheinigung entsprechend
+Absatz 1 oder 3 erhalten hat, bedarf in der Bundesrepublik Deutschland
+keiner weiteren Bescheinigung. Entsprechendes gilt für erteilte
+Bescheinigungen nach Artikel 15 ATMF – Anhang G zum Übereinkommen vom
+9\. Mai 1980 über den internationalen Eisenbahnverkehr – COTIF – (BGBl.
+1985 II S. 130) in der Fassung des Protokolls vom 3. Juni 1999
+betreffend die Änderung des Übereinkommens vom 9. Mai 1980 über den
+internationalen Eisenbahnverkehr – COTIF – (BGBl. 2002 II S. 2140).
+
+
+## § 7h Kosten
+
+(1) Für Amtshandlungen sowie Prüfungen und Untersuchungen des
+Eisenbahn-Bundesamtes, der benannten Stellen, der nach § 7d
+anerkannten Personen und Stellen und der Regulierungsbehörde nach
+diesem Gesetz, dem Bundeseisenbahnverkehrsverwaltungsgesetz oder nach
+den auf Grund dieser Gesetze erlassenen Rechtsverordnungen werden
+Kosten erhoben. Die Gebührensätze sind so zu bemessen, dass der mit
+den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird.
+Bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen für den
+Gebührenschuldner angemessen berücksichtigt werden.
+
+(2) Im Falle des Einsatzes von Verwaltungshelfern nach § 5a Absatz 8a
+wird dem Antragsteller die voraussichtliche Höhe der Kosten vorab
+mitgeteilt. Ihm ist die Möglichkeit einzuräumen, seinen Antrag
+zurückzunehmen oder einzuschränken.
 
 
 ## § 8 Geschäftsführung der Eisenbahnen
@@ -2473,16 +2620,17 @@ nach Satz 1 festgelegten Besetzungszeiten bleibt unberührt.
 
 ## § 25a Fahrzeugeinstellungsregister
 
-(1) Zweck des Fahrzeugeinstellungsregisters ist es, den in Artikel 14
-Abs. 4 der Richtlinie 2001/16/EG des Europäischen Parlaments und des
-Rates vom 19. März 2001 über die Interoperabilität des konventionellen
-Eisenbahnsystems (ABl. EG Nr. L 110 S. 1), die zuletzt durch Artikel 2
-der Richtlinie 2007/32/EG der Kommission vom 1. Juni 2007 (ABl. EU Nr.
-L 141 S. 63) geändert worden ist, genannten Einrichtungen
-Informationen über Fahrzeuge, deren Inbetriebnahme genehmigt worden
-ist, zu ermöglichen. Hierzu gehören insbesondere Angaben zu den
+(1) Zweck des Fahrzeugeinstellungsregisters ist es, den in Artikel 33
+Absatz 1 Satz 2 Buchstabe c der Richtlinie 2008/57/EG des Europäischen
+Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität
+des Eisenbahnsystems in der Gemeinschaft (ABl. L 191 vom 18.7.2008, S.
+1), die zuletzt durch die Richtlinie 2011/18/EU (ABl. L 57 vom
+2\.3.2011, S. 21) geändert worden ist, genannten Einrichtungen sowie
+den zuständigen Eisenbahnaufsichtsbehörden der Länder Informationen
+über Eisenbahnfahrzeuge bereitzustellen, deren Inbetriebnahme
+genehmigt worden ist. Hierzu gehören insbesondere Angaben zu den
 Voraussetzungen der Inbetriebnahme und des Betriebs sowie zum
-jeweiligen Halter.
+jeweiligen Halter und zur für die Instandhaltung zuständigen Stelle.
 
 (2) Das Register kann elektronisch geführt werden. Auskünfte aus dem
 Register können im Wege des automatisierten Abrufs über das Internet
@@ -2500,17 +2648,12 @@ Registers erforderlich ist.
 (1) Das Eisenbahn-Bundesamt kann die Wahrnehmung der Aufgaben einer
 benannten Stelle, soweit eine solche nach dem Recht der Europäischen
 Gemeinschaften oder der Europäischen Union im Zusammenhang mit dem
-transeuropäischen Hochgeschwindigkeitsbahnsystem vorgesehen ist,
-Privaten übertragen.
+Hochgeschwindigkeitsbahnsystem vorgesehen ist, Privaten übertragen.
 
 (2) Die Übertragung kann nur erfolgen, wenn nachgewiesen ist, dass der
-Private die Kriterien nach Anhang VII der Richtlinie 96/48/EG über die
-Interoperabilität des transeuropäischen
-Hochgeschwindigkeitsbahnsystems des Rates vom 23. Juli 1996 (ABl. EG
-Nr. L 235 S. 6), die zuletzt durch Artikel 1 der Richtlinie 2007/32/EG
-der Kommission vom 1. Juni 2007 (ABl. EU Nr. L 141 S. 63) geändert
-worden ist, erfüllt und somit die Gewähr dafür bietet, dass er die
-Aufgaben der benannten Stelle ordnungsgemäß wahrnehmen wird.
+Private die Kriterien nach Anhang VIII der Richtlinie 2008/57/EG
+erfüllt und somit die Gewähr dafür bietet, dass er die Aufgaben der
+benannten Stelle ordnungsgemäß wahrnehmen wird.
 
 
 ## § 26 Rechtsverordnungen
@@ -2572,9 +2715,10 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
 1c. über die Einzelheiten der Führung des Fahrzeugeinstellungsregisters,
     insbesondere über die in dem Register zu speichernden Angaben sowie
     über die Datenerhebung und Datenübermittlung; gespeichert werden
-    dürfen nur Angaben zur Identifizierung des Halters und zur
-    Beschaffenheit, Ausrüstung, Kennzeichnung sowie sonstigen rechtlichen
-    und tatsächlichen Verhältnissen des Fahrzeugs;
+    dürfen nur Angaben zur Identifizierung des Halters und der für die
+    Instandhaltung zuständigen Stelle sowie zur Beschaffenheit,
+    Ausrüstung, Kennzeichnung sowie zu den sonstigen rechtlichen und
+    tatsächlichen Verhältnissen des Eisenbahnfahrzeuges;
 
 
 1d. über die näheren Voraussetzungen und das Verfahren für die Übertragung
@@ -2656,9 +2800,8 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
     Vermögensschäden zu versichern;
 
 
-9.  über die gebührenpflichtigen Amtshandlungen des Eisenbahn-Bundesamtes,
-    der benannten Stellen, der nach § 7d anerkannten Personen und Stellen
-    und der Regulierungsbehörde sowie über die Gebührensätze;
+9.  über die kostenpflichtigen Amtshandlungen sowie Prüfungen und
+    Untersuchungen gemäß § 7h Absatz 1;
 
 
 10. über die Fachbereiche, in denen Sachverständige tätig sein können,
@@ -2748,15 +2891,26 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
 
 
 18. über gemeinsame Sicherheitsziele, die die einzelnen Bereiche des
-    Eisenbahnsystems und das Gesamtsystem mindestens erreichen müssen.
+    Eisenbahnsystems und das Gesamtsystem mindestens erreichen müssen;
+
+
+19. über die Anforderungen an eine für die Instandhaltung zuständige
+    Stelle und das Verfahren für die Erteilung von Bescheinigungen nach §
+    7g.
 
 
 
 Im Falle des Satzes 1 Nr. 1a kann eine Rechtsverordnung auch zum
-Schutz der Rechte der Reisenden erlassen werden. In Rechtsverordnungen
-nach Satz 1 Nr. 9 können Gebühren nach festen Sätzen im Sinne des § 4
-des Verwaltungskostengesetzes auch als nach feststehenden
-Stundensätzen vorgesehene Gebühren (Zeitgebühren) festgelegt werden.
+Schutz der Rechte der Reisenden erlassen werden.
+
+(1a) In Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 9 können die
+Gebühren nach festen Sätzen im Sinne des § 4 des
+Verwaltungskostengesetzes auch als nach feststehenden Stundensätzen
+vorgesehene Gebühren (Zeitgebühren) festgelegt werden. Ferner können
+die Kostenbefreiung, die Kostengläubigerschaft, die
+Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die
+Kostenerhebung abweichend von den Vorschriften des
+Verwaltungskostengesetzes geregelt werden.
 
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des
 Fahrpersonals sowie des Personals, das unmittelbar in der
@@ -2858,13 +3012,27 @@ verzichtet wird.
 
 (7) Rechtsverordnungen nach Absatz 1 oder 2, die ausschließlich der
 Umsetzung der im Amtsblatt der Europäischen Union veröffentlichten
-technischen Spezifikationen für die Interoperabilität im Sinne des
-Kapitels II der Richtlinien 96/48/EG sowie 2001/16/EG oder
-ausschließlich der Umsetzung der Spezifikationen für das
-Fahrzeugeinstellungsregister nach Artikel 14 der Richtlinien 96/48/EG
-sowie 2001/16/EG dienen, bedürfen nicht der Zustimmung des
-Bundesrates; dabei kann auch das Verhältnis zu den sonstigen der
-Betriebssicherheit dienenden Rechtsverordnungen geregelt werden.
+
+1.  technischen Spezifikationen für die Interoperabilität im Sinne des
+    Kapitels II der Richtlinie 2008/57/EG,
+
+
+2.  Spezifikationen für das Fahrzeugeinstellungsregister nach Artikel 33
+    der Richtlinie 2008/57/EG,
+
+
+3.  Spezifikationen für das Europäische Register genehmigter Fahrzeugtypen
+    nach Artikel 34 der Richtlinie 2008/57/EG oder
+
+
+4.  Spezifikationen für das Infrastrukturregister nach Artikel 35 der
+    Richtlinie 2008/57/EG
+
+
+
+dienen, bedürfen nicht der Zustimmung des Bundesrates; dabei kann auch
+das Verhältnis zu den sonstigen der Betriebssicherheit dienenden
+Rechtsverordnungen geregelt werden.
 
 (8) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
@@ -2921,6 +3089,9 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
 
 2e. als im Unternehmen Verantwortlicher entgegen § 7f Abs. 3 eine Anzeige
     nicht, nicht richtig oder nicht rechtzeitig erstattet,
+
+
+2f. ohne Bescheinigung nach § 7g Absatz 1 Satz 1 tätig wird,
 
 
 3.  ohne Genehmigung nach § 12 Abs. 3 Satz 1 Eisenbahnverkehrsleistungen
@@ -3165,10 +3336,11 @@ Satz 1 gilt nur, sofern die Genehmigung bis zum 1. Mai 2006 beantragt
 wird.
 
 (4) Eisenbahnen, die ab dem 30. April 2005 nicht mehr von der
-Versicherungspflicht nach § 1 der Eisenbahnhaftpflichtverordnung gemäß
-§ 1 Abs. 2 Nr. 2 dieser Verordnung freigestellt sind, haben den
-Nachweis über das Bestehen einer Versicherung der nach § 5 zuständigen
-Aufsichtsbehörde bis zum 1. November 2005 vorzulegen.
+Versicherungspflicht nach § 1 der
+Eisenbahnhaftpflichtverordnung             gemäß § 1 Abs. 2 Nr. 2
+dieser Verordnung freigestellt sind, haben den Nachweis über das
+Bestehen einer Versicherung der nach § 5 zuständigen Aufsichtsbehörde
+bis zum 1. November 2005 vorzulegen.
 
 (5) Eisenbahnverkehrsunternehmen, die am 30. April 2005 bereits am
 Eisenbahnbetrieb teilnehmen, haben die Sicherheitsbescheinigung bis
@@ -3218,6 +3390,30 @@ Genehmigungsverpflichtung ausgenommen ist, hat die Genehmigung nach §
 im Falle rechtzeitiger Antragstellung bis zum Eintritt der
 Unanfechtbarkeit der Entscheidung über den Antrag als vorläufig
 erteilt.
+
+(5f) Die für die Instandhaltung von Güterwagen zuständigen Stellen,
+die am 31. Mai 2012 bereits tätig sind, haben die
+Instandhaltungsstellen-Bescheinigungen nach § 7g bis zum Ablauf des
+31\. Januar 2013 zu beantragen. Die Instandhaltungsstellen-
+Bescheinigung gilt im Falle rechtzeitiger Antragstellung bis zum
+Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag als
+vorläufig erteilt, längstens bis zum 31. Mai 2013. Keiner
+Instandhaltungsstellen-Bescheinigung bedürfen
+
+1.  Eisenbahnen, die am 31. Mai 2012 über eine Sicherheitsbescheinigung
+    oder Sicherheitsgenehmigung verfügen, für deren Gültigkeitsdauer oder
+
+
+2.  für die Instandhaltung von Güterwagen zuständigen Stellen, die am 31.
+    Mai 2012 über eine Bescheinigung auf der Grundlage der von der
+    Bundesrepublik Deutschland am 14. Mai 2009 gezeichneten
+    Absichtserklärung zur Festlegung der Grundsätze eines gemeinsamen
+    Systems zur Zertifizierung von für die Instandhaltung von Güterwagen
+    zuständigen Stellen verfügen, für deren Gültigkeitsdauer, längstens
+    bis zum 31. Mai 2015.
+
+
+
 
 (6) § 23 ist nur auf Anträge, die nach dem 30. April 2005 gestellt
 werden, anzuwenden.

@@ -99,9 +99,9 @@ Pflegesätze nach § 10 müssen medizinisch leistungsgerecht sein und
 einem Krankenhaus bei wirtschaftlicher Betriebsführung ermöglichen,
 den Versorgungsauftrag zu erfüllen. Die Abgrenzungsverordnung in der
 durch Artikel 3 der Verordnung vom 9. Dezember 1997 (BGBl. I S. 2874)
-geänderten Fassung und und die Psychiatrie-Personalverordnung in der
-durch Artikel 4 der Verordnung vom 26. September 1994 (BGBl. I S.
-2750) geänderten Fassung sind anzuwenden. Der Grundsatz der
+geänderten Fassung und die Psychiatrie-Personalverordnung in der durch
+Artikel 4 der Verordnung vom 26. September 1994 (BGBl. I S. 2750)
+geänderten Fassung sind anzuwenden. Der Grundsatz der
 Beitragssatzstabilität ist nach den Vorgaben des § 6 zu beachten.
 
 (2) Bei der Bemessung des Budgets und der tagesgleichen Pflegesätze (§

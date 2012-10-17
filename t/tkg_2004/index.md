@@ -4276,8 +4276,8 @@ einen höheren räumlichen Versorgungsgrad mit den entsprechenden
 Telekommunikationsdiensten gewährleistet.
 
 (6) Verpflichtungen, die Antragsteller im Laufe eines Versteigerungs-
-oder Ausschreibungsverfahrens eingegangen sind, werden werden
-Bestandteile der Frequenzzuteilung.
+oder Ausschreibungsverfahrens eingegangen sind, werden Bestandteile
+der Frequenzzuteilung.
 
 (7) Bei einem Versteigerungsverfahren nach Absatz 4 oder einem
 Ausschreibungsverfahren nach Absatz 5 kann die in § 55 Abs. 4 genannte
@@ -4689,7 +4689,12 @@ Bundesnetzagentur ihre Erkenntnisse den für den Vollzug der
 Gewerbeordnung zuständigen Stellen mit.
 
 
-#### § 66g Wegfall des Entgeltanspruchs
+#### § 66g Warteschleifen
+
+Tritt am 1.6.2013 in Kraft
+
+
+#### § 66h Wegfall des Entgeltanspruchs
 
 Der Endnutzer ist zur Zahlung eines Entgelts nicht verpflichtet, wenn
 und soweit
@@ -4730,7 +4735,7 @@ und soweit
 
 
 
-#### § 66h Auskunftsanspruch, Datenbank für (0)900er Rufnummern
+#### § 66i Auskunftsanspruch, Datenbank für (0)900er Rufnummern
 
 (1) Jeder, der ein berechtigtes Interesse daran hat, kann in Textform
 von der Bundesnetzagentur Auskunft über den Namen und die
@@ -4766,7 +4771,7 @@ Auskunftsverpflichteten haben die Angabe bei ihren Kunden zu erheben
 und aktuell zu halten.
 
 
-#### § 66i R-Gespräche
+#### § 66j R-Gespräche
 
 (1) Auf Grund von Telefonverbindungen, bei denen dem Angerufenen das
 Verbindungsentgelt in Rechnung gestellt wird (R-Gespräche), dürfen
@@ -4785,7 +4790,7 @@ abgeleiteten Zuteilung. Die Bundesnetzagentur stellt die Sperr-Liste
 Anbietern von R-Gesprächsdiensten zum Abruf bereit.
 
 
-#### § 66j Rufnummernübermittlung
+#### § 66k Rufnummernübermittlung
 
 (1) Anbieter von Telekommunikationsdiensten, die Teilnehmern den
 Aufbau von abgehenden Verbindungen ermöglichen, müssen sicherstellen,
@@ -4808,14 +4813,14 @@ dürfen von Teilnehmern nicht als zusätzliche Rufnummer aufgesetzt und
 in das öffentliche Telekommunikationsnetz übermittelt werden.
 
 
-#### § 66k Internationaler entgeltfreier Telefondienst
+#### § 66l Internationaler entgeltfreier Telefondienst
 
 Anrufe bei (00)800er-Rufnummern müssen für den Anrufer unentgeltlich
 sein. Die Erhebung eines Entgelts für die Inanspruchnahme eines
 Endgerätes bleibt unbenommen.
 
 
-#### § 66l Umgehungsverbot
+#### § 66m Umgehungsverbot
 
 Die Vorschriften der §§ 66a bis 66l oder die auf Grund des § 45n
 Absatz 4 Nummer 1 im Rahmen einer Rechtsverordnung erlassenen

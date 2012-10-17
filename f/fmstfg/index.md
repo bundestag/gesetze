@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1982
 
 Zuletzt geändert durch
-:   Art. 1 G v. 24.2.2012 I 206
+:   Art. 2a G v. 13.9.2012 I 1914
 
 
 ## § 1 Errichtung des Fonds
@@ -1243,9 +1243,19 @@ und 8a Absatz 4 Satz 1 Nummer 1 und 1a dieses Gesetzes und von
 Maßnahmen nach den §§ 1 und 4 des Rettungsübernahmegesetzes Kredite
 bis zur Höhe von 70 Milliarden Euro aufzunehmen. Die
 Kreditermächtigung ist in Höhe von 30 Milliarden Euro gesperrt. Die
-Aufhebung der Sperre bedarf der Einwilligung des Gremiums nach § 10a.
-Das Gremium unterrichtet den Haushaltsausschuss des Deutschen
-Bundestages unverzüglich.
+Aufhebung der Sperre bedarf der Einwilligung des Haushaltsausschusses
+des Deutschen Bundestages. Soweit nicht nur der Inhalt der Beratung,
+sondern auch die Tatsache der Beratung und der Beschlussfassung an
+sich geheim gehalten werden muss, um die Erreichung des Ziels der
+Finanzmarktstabilisierung nicht von vornherein unmöglich zu machen,
+bedarf die Aufhebung der Sperre abweichend von Satz 3 der Einwilligung
+durch das Gremium nach § 10a. Die Bundesregierung kann dieses
+Erfordernis geltend machen, das Gremium kann der Annahme dieses
+Erfordernisses unverzüglich mit Mehrheit widersprechen. In diesem Fall
+entscheidet der Haushaltsausschuss. Sofern gemäß Satz 4 das Gremium
+nach § 10a über die Einwilligung entscheidet, unterrichtet das Gremium
+den Haushaltsausschuss des Deutschen Bundestages nach Fortfall des
+Grundes für die Geheimhaltung unverzüglich über die Einwilligung.
 
 (2) Dem Kreditrahmen nach Absatz 1 wachsen die Beträge aus getilgten
 Krediten wieder zu.

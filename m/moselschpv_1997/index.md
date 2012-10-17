@@ -1730,7 +1730,7 @@ zu erwarten ist.
 
 
     x)  die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung oder
-        anderen gleichwertigen Vor schriften der Moseluferstaaten
+        anderen gleichwertigen Vorschriften der Moseluferstaaten
         erforderlichen Kopien des Typgenehmigungsbogens und des
         Motorparameterprotokolls eines jeden Motors,
 
@@ -1740,7 +1740,7 @@ zu erwarten ist.
 
 
     z)  der für Fahrzeuge mit einer Länge über 110,00 m, ausgenommen
-        Fahrgastschiffe, in § 22a.05 Nummer 2 Buchstabe b des Anhangs II zur
+        Fahrgastschiffe, in § 22a.05 Nummer 2 Buchstabe b der
         Rheinschiffsuntersuchungsordnung geforderte Nachweis einer anerkannten
         Klassifikationsgesellschaft über die Schwimmfähigkeit, die Trimmlage
         und die Stabilität der getrennten Schiffsteile, der auch eine Aussage

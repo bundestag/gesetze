@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 505
 
 Zuletzt geändert durch
-:   Art. 49 G v. 20.12.2011 I 2854
+:   Art. 1c G v. 10.9.2012 I 1878
 
 
 ## Eingangsformel
@@ -85,8 +85,8 @@ folgende Leistungen der sozialen Sicherung:
     e)  Übergangsgeld (§§ 49 ff. SGB VII, §§ 20 ff. SGB VI);
 
 
-    f)  Elterngeld (§ 2 des Bundeselterngeld- und Elternzeitgesetzes), soweit
-        es die nach § 10 des Bundeselterngeld- und Elternzeitgesetzes
+    f)  Elterngeld nach dem Bundeselterngeld- und Elternzeitgesetz, soweit es
+        die nach § 10 des Bundeselterngeld- und Elternzeitgesetzes
         anrechnungsfreien Beträge übersteigt;
 
 

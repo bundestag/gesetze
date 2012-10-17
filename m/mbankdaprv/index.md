@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1717
 
+Geändert durch
+:   Art. 3 V v. 28.8.2012 I 1858
+
 
 ## Eingangsformel
 
@@ -110,9 +113,10 @@ Bundesbank vom 6. Dezember 2002, die zuletzt durch Vereinbarung vom
 der Internetseite der Deutschen Bundesbank veröffentlicht ist, ist zu
 berücksichtigen.
 
-(2) Über die Gewährung von Erleichterungen im Auswahlverfahren, bei
-Leistungstests und in der schriftlichen Abschlussprüfung entscheidet
-die oberste Dienstbehörde oder eine von ihr bestimmte Stelle. In der
+(2) Über die Gewährung von Erleichterungen im Auswahlverfahren und in
+der schriftlichen Abschlussprüfung entscheidet die oberste
+Dienstbehörde oder eine von ihr bestimmte Stelle. Bei Leistungstests
+entscheidet die Ausbildungsleiterin oder der Ausbildungsleiter. In der
 mündlichen Abschlussprüfung entscheidet die oder der Vorsitzende der
 Prüfungskommission.
 
@@ -370,7 +374,8 @@ Deutschen Bundesbank durchgeführt; Teile der berufspraktischen
 Ausbildung können in anderen Stellen durchgeführt werden, sofern dies
 den Ausbildungszielen dient.
 
-(4) Am Ende jedes Ausbildungsabschnitts erstellt die oder der
+(4) Am Ende jedes vor Beginn der schriftlichen Abschlussprüfung
+beendeten Ausbildungsabschnitts erstellt die oder der
 Ausbildungsbeauftragte unter Beteiligung der Ausbildenden für jede
 Anwärterin und jeden Anwärter eine dienstliche Bewertung, die die
 wesentlichen Leistungs-, Eignungs- und Befähigungsmerkmale enthält und
@@ -388,7 +393,7 @@ der Ausbildungsleiter ein zusammenfassendes Zeugnis, in dem die
 Rangpunkte und Noten der Leistungstests und der dienstlichen
 Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl
 (Ausbildungsrangpunktzahl) aufzuführen sind. Die Anwärterin oder der
-Anwärter erhält spätestens einen Monat vor Beginn der Abschlussprüfung
+Anwärter erhält spätestens zwei Wochen vor Beginn der Abschlussprüfung
 eine Ausfertigung des zusammenfassenden Zeugnisses.
 
 
@@ -465,12 +470,12 @@ Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
 ### § 15 Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer eine
-Ausbildungsrangpunktzahl von mindestens 5 erreicht hat. Über eine
-Nichtzulassung ist die Anwärterin oder der Anwärter spätestens einen
-Monat vor Beginn der schriftlichen Abschlussprüfung zu informieren.
-Bei Nichtzulassung wird der Vorbereitungsdienst auf Antrag der
-Anwärterin oder des Anwärters verlängert; § 22 Absatz 2 und 3 gilt
-entsprechend.
+Ausbildungsrangpunktzahl von mindestens 5 erreicht hat. Über die
+Zulassung oder Nichtzulassung ist die Anwärterin oder der Anwärter
+spätestens zwei Wochen vor Beginn der schriftlichen Abschlussprüfung
+zu informieren. Bei Nichtzulassung kann der Vorbereitungsdienst auf
+Antrag der Anwärterin oder des Anwärters verlängert werden; § 22
+Absatz 2 und 3 gilt entsprechend.
 
 (2) Die schriftliche Abschlussprüfung besteht aus je einer Klausur in
 folgenden Fächern:
@@ -556,8 +561,10 @@ der Abschlussprüfung als nicht begonnen. Die Genehmigung darf nur
 erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung soll
 die Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches
 Attest vorgelegt wird. Auf Verlangen der obersten Dienstbehörde oder
-einer von ihr bestimmten Stelle ist ein amtsärztliches Attest
-vorzulegen.
+einer von ihr bestimmten Stelle ist ein amtsärztliches Attest oder das
+Attest einer Ärztin oder eines Arztes, die oder der von der obersten
+Dienstbehörde oder einer von ihr bestimmten Stelle beauftragt worden
+ist, vorzulegen.
 
 (3) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
 entscheidet, ob der versäumte Teil der Abschlussprüfung nachgeholt
@@ -575,7 +582,8 @@ mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung
 der Abschlussprüfung unter dem Vorbehalt einer abweichenden
 Entscheidung der obersten Dienstbehörde oder einer von ihr bestimmten
 Stelle gestattet werden. Bei einem erheblichen Verstoß können sie von
-der weiteren Teilnahme an der Abschlussprüfung ausgeschlossen werden.
+der weiteren Teilnahme an dem betreffenden Teil der Abschlussprüfung
+ausgeschlossen werden.
 
 (2) Über das Vorliegen und die Folgen einer Täuschung, eines
 Täuschungsversuchs, eines Mitwirkens daran oder eines sonstigen
@@ -692,7 +700,7 @@ Ausbildungsplan auf. In dem Plan sind die abzuleistenden
 Ausbildungsabschnitte und die zu erbringenden Leistungstests
 enthalten.
 
-(3) Spätestens einen Monat vor der Wiederholung erstellt die
+(3) Spätestens zwei Wochen vor der Wiederholung erstellt die
 Ausbildungsleiterin oder der Ausbildungsleiter ein neues
 zusammenfassendes Zeugnis nach § 11, das die in der Wiederholungsfrist
 erbrachten Leistungen einschließt.

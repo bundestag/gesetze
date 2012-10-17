@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2512
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 52 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 13.9.2012 I 1914
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -32,7 +32,11 @@ inhaltsgleiche Schuldverschreibungen aus Gesamtemissionen
 im Sinne des Pfandbriefgesetzes sowie nicht für Schuldverschreibungen,
 deren Schuldner der Bund, ein Sondervermögen des Bundes, ein Land oder
 eine Gemeinde ist oder für die der Bund, ein Sondervermögen des
-Bundes, ein Land oder eine Gemeinde haftet.
+Bundes, ein Land oder eine Gemeinde haftet. Für nach deutschem Recht
+begebene Schuldverschreibungen, deren Schuldner ein anderer
+Mitgliedstaat des Euro-Währungsgebiets ist, gelten die besonderen
+Vorschriften der §§ 4a bis 4i und 4k des Bundesschuldenwesengesetzes
+entsprechend.
 
 
 ### § 2 Anleihebedingungen
@@ -577,13 +581,13 @@ ausschließlich das Landgericht, in dessen Bezirk der Schuldner seinen
 Sitz hat, oder mangels eines Sitzes im Inland das Landgericht
 Frankfurt am Main; § 246 Absatz 3 Satz 2 bis 6 des Aktiengesetzes gilt
 entsprechend. Vor einer rechtskräftigen Entscheidung des Gerichts darf
-der angefochtene Beschluss nicht vollzogen werden, es sei denn, das
-nach Satz 3 zuständige Gericht stellt auf Antrag des Schuldners nach
-Maßgabe des § 246a des Aktiengesetzes fest, dass die Erhebung der
+der angefochtene Beschluss nicht vollzogen werden, es sei denn, ein
+Senat des dem nach Satz 3 zuständigen Gericht im zuständigen Rechtszug
+übergeordneten Oberlandesgerichts stellt auf Antrag des Schuldners
+nach Maßgabe des § 246a des Aktiengesetzes fest, dass die Erhebung der
 Klage dem Vollzug des angefochtenen Beschlusses nicht entgegensteht; §
-246a Absatz 1 Satz 1, Absatz 2, 3 Satz 2, 3 und 6, Absatz 4 des
-Aktiengesetzes gilt entsprechend. Gegen den Beschluss findet die
-sofortige Beschwerde statt. Die Rechtsbeschwerde ist ausgeschlossen.
+246a Absatz 1 Satz 1 und 2, Absatz 2 und 3 Satz 1 bis 4 und 6, Absatz
+4 des Aktiengesetzes gilt entsprechend.
 
 
 ### § 21 Vollziehung von Beschlüssen

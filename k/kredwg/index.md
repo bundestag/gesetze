@@ -10006,9 +10006,9 @@ auf zusammengefasster Basis zuständige Stelle.
 (3) Die in die Zusammenfassung einbezogenen Unternehmen mit Sitz im
 Ausland haben der Bundesanstalt auf Verlangen die nach diesem Gesetz
 zulässigen Prüfungen zu gestatten, insbesondere die Überprüfung der
-Richtigkeit der für die Zusammenfassung nach nach § 10a Abs. 6 bis 11,
-§ 13b Abs. 3 und § 25 Abs. 2 und 3 übermittelten Daten, soweit dies
-zur Erfüllung der Aufgaben der Bundesanstalt erforderlich und nach dem
+Richtigkeit der für die Zusammenfassung nach § 10a Abs. 6 bis 11, §
+13b Abs. 3 und § 25 Abs. 2 und 3 übermittelten Daten, soweit dies zur
+Erfüllung der Aufgaben der Bundesanstalt erforderlich und nach dem
 Recht des anderen Staates zulässig ist. Dies gilt auch für nicht in
 die Zusammenfassung einbezogene Tochterunternehmen mit Sitz im
 Ausland.

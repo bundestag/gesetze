@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 1761
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.3.2012 I 450
+:   Art. 1 V v. 12.9.2012 I 2016
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -159,8 +159,8 @@ des Europäischen Parlaments und des Rates aufgeführten Abfällen, die
 zur Verwertung bestimmt sind, in bestimmte Staaten, für die der OECD-
 Beschluss über die Kontrolle der grenzüberschreitenden Verbringung von
 Abfällen nicht gilt (ABl. L 316 vom 4.12.2007, S. 6), die zuletzt
-durch die Verordnung (EU) Nr. 661/2011 (ABl. L 181 vom 9.7.2011, S.
-22) geändert worden ist, verstößt, indem er vorsätzlich oder
+durch die Verordnung (EU) Nr. 674/2012 (ABl. L 196 vom 24.7.2012, S.
+12) geändert worden ist, verstößt, indem er vorsätzlich oder
 fahrlässig
 
 1.  entgegen Artikel 1 in Verbindung mit Spalte a des Anhangs Abfälle

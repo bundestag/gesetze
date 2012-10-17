@@ -1062,7 +1062,7 @@ es nach folgendem Muster zu führen:
     *
     *   6.
 
-    *   Sofern die Schusswaffe nicht einem einem Erwerber nach § 21 Abs. 1 des
+    *   Sofern die Schusswaffe nicht einem Erwerber nach § 21 Abs. 1 des
         Waffengesetzes überlassen wird, die Bezeichnung der
         Erwerbsberechtigung unter Angabe der ausstellenden Behörde und des
         Ausstellungsdatums

@@ -318,15 +318,14 @@ Absatz 1 aus wichtigem Grund Ausnahmen vorsieht.
 Sportanglerfahrzeugen und Bäderbooten, müssen so gebaut und instand
 gehalten werden, dass sie hinsichtlich des Schiffskörpers, der
 Maschinen sowie der elektrischen und der Steuer-, Regel- und
-Überwachungseinrichtungen Überwachungseinrichtungen den Vorschriften
-einer nach der Richtlinie 2009/15/EG des Europäischen Parlaments und
-des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen
-für Schiffsüberprüfungs- und -besichtigungsorganisationen und die
-einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.5.2009, S.
-47) in der jeweils geltenden Fassung anerkannten
-Klassifikationsgesellschaft, mit der die See-Berufsgenossenschaft ein
-Auftragsverhältnis im Sinne des Artikels 6 Abs. 2 dieser Richtlinie
-begründet hat, entsprechen.
+Überwachungseinrichtungen den Vorschriften einer nach der Richtlinie
+2009/15/EG des Europäischen Parlaments und des Rates vom 23. April
+2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs-
+und -besichtigungsorganisationen und die einschlägigen Maßnahmen der
+Seebehörden (ABl. L 131 vom 28.5.2009, S. 47) in der jeweils geltenden
+Fassung anerkannten Klassifikationsgesellschaft, mit der die See-
+Berufsgenossenschaft ein Auftragsverhältnis im Sinne des Artikels 6
+Abs. 2 dieser Richtlinie begründet hat, entsprechen.
 
 
 ## § 6a Dampfkessel

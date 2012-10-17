@@ -410,7 +410,7 @@ Vorschriften nicht entgegenstehen.
 
 *    *   1.
 
-    *   für die Zulassung zur zur Führerscheinprüfung
+    *   für die Zulassung zur Führerscheinprüfung
 
     *   12,00 Euro,
 

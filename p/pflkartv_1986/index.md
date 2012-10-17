@@ -411,9 +411,9 @@ getrennt zu lagern sind.
 
 ### § 8 Anforderungen an den Feldbestand und an die Beschaffenheit des Pflanzgutes
 
-(1) Die Anforderungen an den Feldbestand ergeben sich aus aus Anlage
-1\. Die Anforderungen an die Beschaffenheit des Pflanzgutes ergeben
-sich aus Anlage 2.
+(1) Die Anforderungen an den Feldbestand ergeben sich aus Anlage 1.
+Die Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich
+aus Anlage 2.
 
 (2) Stellt sich vor dem Inverkehrbringen des Pflanzgutes zu
 gewerblichen Zwecken an den Letztverbraucher heraus, dass ein Teil des

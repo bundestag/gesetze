@@ -127,7 +127,7 @@ Hier sind einzutragen:
     vorhanden sind;
 
 
-4.  in in Unterspalte e: die Wirtschaftsart des Grundstücks (z.B. Acker,
+4.  in Unterspalte e: die Wirtschaftsart des Grundstücks (z.B. Acker,
     Wiese, Garten, Wohnhaus mit Hofraum, Wohnhaus mit Garten, unbebauter
     Hofraum) und die Lage (Straße, Hausnummer oder die sonstige
     ortsübliche Bezeichnung).

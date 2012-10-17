@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2861 (2962)
 
-Zuletzt geändert durch
-:   Art. 3 G v. 5.12.2011 I 2458
+Neugefasst durch
+:   Bek. v. 4.9.2012 I 2070
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -39,8 +39,8 @@ Einsatzgeschädigte im Sinne dieses Gesetzes sind
     deutschen Dienststellen im Ausland eingestellten Ortskräfte, sowie
 
 
-5.  Helferinnen und Helfer des Technischen Hilfswerks nach § 2 Abs. 1 des
-    THW-Gesetzes,
+5.  Helferinnen und Helfer des Technischen Hilfswerks nach § 2 Absatz 1
+    des THW-Gesetzes,
 
 
 
@@ -56,16 +56,17 @@ Ausübung einer Tätigkeit, die öffentlichen Belangen oder dienstlichen
 Interessen dient, beurlaubt worden sind und bei oder infolge dieser
 Tätigkeit einen Einsatzunfall nach § 1 erlitten haben.
 
-(2) Einsatzgeschädigte nach § 1 Nr. 1, die zugleich unter § 1 Nr. 2, 3
-oder 4 fallen, gelten für die Anwendung dieses Gesetzes ausschließlich
-als Einsatzgeschädigte nach § 1 Nr. 1, wenn sie den Einsatzunfall in
-einem Wehrdienstverhältnis erlitten haben. Haben Einsatzgeschädigte
-nach § 1 Nr. 1 bis 4 den Einsatzunfall in einem Dienstverhältnis nach
-dem THW-Gesetz erlitten, sind auf sie die für Einsatzgeschädigte nach
-§ 1 Nr. 5 geltenden Vorschriften anzuwenden.
+(2) Einsatzgeschädigte nach § 1 Nummer 1, die zugleich unter § 1
+Nummer 2, 3 oder 4 fallen, gelten für die Anwendung dieses Gesetzes
+ausschließlich als Einsatzgeschädigte nach § 1 Nummer 1, wenn sie den
+Einsatzunfall in einem Wehrdienstverhältnis erlitten haben. Haben
+Einsatzgeschädigte nach § 1 Nummer 1 bis 4 den Einsatzunfall in einem
+Dienstverhältnis nach dem THW-Gesetz erlitten, sind auf sie die für
+Einsatzgeschädigte nach § 1 Nummer 5 geltenden Vorschriften
+anzuwenden.
 
-(3) § 63c Abs. 6 des Soldatenversorgungsgesetzes und § 31a Abs. 4 des
-Beamtenversorgungsgesetzes gelten entsprechend.
+(3) § 63c Absatz 6 des Soldatenversorgungsgesetzes und § 31a Absatz 4
+des Beamtenversorgungsgesetzes gelten entsprechend.
 
 
 ### § 3 Berufliche Qualifizierung
@@ -143,17 +144,17 @@ in das Arbeitsleben zu erreichen.
 
 (2) Während der Schutzzeit dürfen
 
-1.  Einsatzgeschädigte nach § 1 Nr. 1 bis 3 oder 5, die in einem
+1.  Einsatzgeschädigte nach § 1 Nummer 1 bis 3 oder 5, die in einem
     öffentlich-rechtlichen Dienstverhältnis zum Bund stehen, wegen durch
     den Einsatzunfall bedingter Dienstunfähigkeit nur auf eigenen Antrag
-    in den Ruhestand versetzt oder entlassen werden, wobei § 34 Abs. 1
-    Satz 1 Nr. 2 des Bundesbeamtengesetzes bei mangelnder Bewährung wegen
-    allein fehlender gesundheitlicher Eignung, die auf dem Einsatzunfall
-    beruht, nicht anzuwenden ist, und
+    in den Ruhestand versetzt oder entlassen werden, wobei § 34 Absatz 1
+    Satz 1 Nummer 2 des Bundesbeamtengesetzes bei mangelnder Bewährung
+    wegen allein fehlender gesundheitlicher Eignung, die auf dem
+    Einsatzunfall beruht, nicht anzuwenden ist, und
 
 
-2.  die Arbeitsverhältnisse von Einsatzgeschädigten nach § 1 Nr. 4 oder 5
-    mit dem Bund nicht wegen der durch den Einsatzunfall bedingten
+2.  die Arbeitsverhältnisse von Einsatzgeschädigten nach § 1 Nummer 4 oder
+    5 mit dem Bund nicht wegen der durch den Einsatzunfall bedingten
     Arbeitsunfähigkeit gekündigt werden.
 
 
@@ -178,19 +179,19 @@ Lebensjahr vollendet.
 
 (4) Die Feststellungen nach Absatz 3 Satz 1 und 3 trifft die Stelle,
 die für die Kündigung, Entlassung oder Versetzung in den Ruhestand
-zuständig ist. Für Einsatzgeschädigte nach § 1 Nr. 5 trifft die
+zuständig ist. Für Einsatzgeschädigte nach § 1 Nummer 5 trifft die
 Feststellung die Bundesanstalt Technisches Hilfswerk.
 
 
 ### § 5 Einbeziehung in Personalauswahlentscheidungen
 
-(1) Der Bezug von Leistungen nach § 4 Abs. 1 darf nicht zur
-Beeinträchtigung des Werdegangs der Einsatzgeschädigten nach § 1 Nr. 1
-bis 4 führen. Diese sind während der Schutzzeit in
+(1) Der Bezug von Leistungen nach § 4 Absatz 1 darf nicht zur
+Beeinträchtigung des Werdegangs der Einsatzgeschädigten nach § 1
+Nummer 1 bis 4 führen. Diese sind während der Schutzzeit in
 Personalauswahlentscheidungen einzubeziehen.
 
-(2) Absatz 1 gilt bei Einsatzgeschädigten nach § 2 Abs. 2 Satz 1 auch
-für deren zivilberuflichen Werdegang beim Bund.
+(2) Absatz 1 gilt bei Einsatzgeschädigten nach § 2 Absatz 2 Satz 1
+auch für deren zivilberuflichen Werdegang beim Bund.
 
 
 ## Abschnitt 2 - Regelungen für Soldatinnen und Soldaten sowie frühere Soldatinnen und frühere Soldaten
@@ -198,13 +199,13 @@ für deren zivilberuflichen Werdegang beim Bund.
 
 ### § 6 Wehrdienstverhältnis besonderer Art
 
-(1) Endet das Wehrdienstverhältnis Einsatzgeschädigter nach § 1 Nr. 1,
-die nicht in einem auf Lebenszeit begründeten Wehrdienstverhältnis
+(1) Endet das Wehrdienstverhältnis Einsatzgeschädigter nach § 1 Nummer
+1, die nicht in einem auf Lebenszeit begründeten Wehrdienstverhältnis
 stehen, während der Schutzzeit durch Zeitablauf oder wäre es aus
 diesem Grund zu beenden, treten sie zu diesem Zeitpunkt in ein
 Wehrdienstverhältnis besonderer Art ein, wenn sie dem nicht
-schriftlich widersprechen. § 75 Abs. 6 des Soldatengesetzes und § 29a
-des Wehrpflichtgesetzes sind nicht anzuwenden.
+schriftlich widersprechen. § 75 Absatz 6 des Soldatengesetzes und §
+29a des Wehrpflichtgesetzes sind nicht anzuwenden.
 
 (2) Das Wehrdienstverhältnis besonderer Art begründet die
 Rechtsstellung einer Soldatin auf Zeit oder eines Soldaten auf Zeit.
@@ -215,15 +216,15 @@ sozialversicherungsrechtlichen Status.
 (3) Das Wehrdienstverhältnis besonderer Art endet
 
 1.  durch eine Berufung in das Dienstverhältnis einer Berufssoldatin oder
-    eines Berufssoldaten nach § 7 Abs. 1,
+    eines Berufssoldaten nach § 7 Absatz 1,
 
 
 2.  durch eine Berufung in das Dienstverhältnis einer Beamtin oder eines
-    Beamten nach § 8 Abs. 1 Satz 1 Nr. 1,
+    Beamten nach § 8 Absatz 1 Satz 1 Nummer 1,
 
 
 3.  durch eine Einstellung als Arbeitnehmerin oder Arbeitnehmer nach § 8
-    Abs. 1 Satz 1 Nr. 2 mit dem Beginn des Arbeitsverhältnisses oder
+    Absatz 1 Satz 1 Nummer 2 mit dem Beginn des Arbeitsverhältnisses oder
 
 
 4.  mit Ablauf des Monats, in dem die oder der Einsatzgeschädigte das 65.
@@ -238,7 +239,7 @@ sozialversicherungsrechtlichen Status.
     7 gestellt wird,
 
 
-2.  bei Nichtbewährung in der Probezeit nach § 7 Abs. 1 Satz 1 oder
+2.  bei Nichtbewährung in der Probezeit nach § 7 Absatz 1 Satz 1 oder
 
 
 3.  durch Entlassung auf entsprechenden schriftlichen Antrag der Soldatin
@@ -247,13 +248,13 @@ sozialversicherungsrechtlichen Status.
 
 
 
-(5) Einsatzgeschädigte nach § 1 Nr. 1, deren nicht auf Lebenszeit
+(5) Einsatzgeschädigte nach § 1 Nummer 1, deren nicht auf Lebenszeit
 begründetes Wehrdienstverhältnis durch Zeitablauf geendet hat oder aus
 diesem Grund beendet worden ist und deren gesundheitliche Schädigung
 erst danach erkannt worden ist, sind auf schriftlichen Antrag in ein
 Wehrdienstverhältnis besonderer Art einzustellen. Die §§ 37 und 38 des
 Soldatengesetzes gelten ungeachtet der Voraussetzungen der
-körperlichen Eignung nach § 37 Abs. 1 Nr. 3 des Soldatengesetzes
+körperlichen Eignung nach § 37 Absatz 1 Nummer 3 des Soldatengesetzes
 entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
@@ -264,7 +265,7 @@ entsprechend. Satz 1 gilt nicht, wenn
     das Arbeitsleben nicht behindert,
 
 
-3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Abs. 1
+3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Absatz 1
     erwarten lässt,
 
 
@@ -284,7 +285,7 @@ höheren Dienstgrad.
 
 (6) Der Antrag nach Absatz 5 Satz 1 ist innerhalb einer
 Ausschlussfrist von zwei Jahren nach Eintritt des Einsatzunfalls zu
-stellen. Bei einer Erkrankung, die nach § 63c Abs. 2 des
+stellen. Bei einer Erkrankung, die nach § 63c Absatz 2 des
 Soldatenversorgungsgesetzes als Einsatzunfall gilt, beginnt die
 Ausschlussfrist im Zeitpunkt der erstmaligen ärztlichen Diagnose der
 Erkrankung, sofern die oder der Einsatzgeschädigte zu diesem Zeitpunkt
@@ -304,23 +305,24 @@ gestellt werden.
 
 ### § 7 Weiterverwendung als Berufssoldatin oder Berufssoldat
 
-(1) Einsatzgeschädigte nach § 1 Nr. 1, deren Erwerbsfähigkeit infolge
-des Einsatzunfalls am Ende der Schutzzeit um mindestens 30 Prozent
-gemindert ist, sind ungeachtet der in § 39 des Soldatengesetzes
-genannten Voraussetzungen auf schriftlichen Antrag in das
-Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten zu
+(1) Einsatzgeschädigte nach § 1 Nummer 1, deren Erwerbsfähigkeit
+infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
+Prozent gemindert ist, sind ungeachtet der in § 39 des
+Soldatengesetzes genannten Voraussetzungen auf schriftlichen Antrag in
+das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten zu
 berufen, sofern sie sich in einer an das Ende der Schutzzeit
 anschließenden Probezeit von sechs Monaten bewährt haben. Endet das
-Wehrdienstverhältnis Einsatzgeschädigter nach § 1 Nr. 1, die nicht in
-einem auf Lebenszeit begründeten Wehrdienstverhältnis stehen, während
-der Probezeit durch Zeitablauf oder wäre es aus diesem Grund zu
-beenden, treten sie zu diesem Zeitpunkt in ein Wehrdienstverhältnis
+Wehrdienstverhältnis Einsatzgeschädigter nach § 1 Nummer 1, die nicht
+in einem auf Lebenszeit begründeten Wehrdienstverhältnis stehen,
+während der Probezeit durch Zeitablauf oder wäre es aus diesem Grund
+zu beenden, treten sie zu diesem Zeitpunkt in ein Wehrdienstverhältnis
 besonderer Art nach § 6 ein. In den Fällen des Satzes 2 gelten die §§
-37 und 38 des Soldatengesetzes entsprechend. § 37 Abs. 1 Nr. 3 des
-Soldatengesetzes gilt in den Fällen der Sätze 1 und 2 mit der Maßgabe,
-dass an die Stelle der körperlichen Eignung die Dienstfähigkeit tritt.
+37 und 38 des Soldatengesetzes entsprechend. § 37 Absatz 1 Nummer 3
+des Soldatengesetzes gilt in den Fällen der Sätze 1 und 2 mit der
+Maßgabe, dass an die Stelle der körperlichen Eignung die
+Dienstfähigkeit tritt.
 
-(2) Absatz 1 gilt nicht für Einsatzgeschädigte nach § 1 Nr. 1, die
+(2) Absatz 1 gilt nicht für Einsatzgeschädigte nach § 1 Nummer 1, die
 
 1.  aus einem früheren öffentlich-rechtlichen Dienstverhältnis bereits in
     den Ruhestand getreten waren oder versetzt worden waren oder
@@ -332,13 +334,13 @@ dass an die Stelle der körperlichen Eignung die Dienstfähigkeit tritt.
 
 
 
-(3) Für Mannschaften gilt als Altersgrenze im Sinne des § 45 Abs. 2
+(3) Für Mannschaften gilt als Altersgrenze im Sinne des § 45 Absatz 2
 des Soldatengesetzes die Vollendung des 54. Lebensjahres.
 
 
 ### § 8 Weiterverwendung als Beamtin, Beamter, Arbeitnehmerin oder Arbeitnehmer
 
-(1) Einsatzgeschädigte nach § 1 Nr. 1, die nicht in einem auf
+(1) Einsatzgeschädigte nach § 1 Nummer 1, die nicht in einem auf
 Lebenszeit begründeten Wehrdienstverhältnis stehen und deren
 Erwerbsfähigkeit infolge des Einsatzunfalls am Ende der Schutzzeit um
 mindestens 30 Prozent gemindert ist, sind auf schriftlichen Antrag
@@ -359,14 +361,15 @@ mindestens 30 Prozent gemindert ist, sind auf schriftlichen Antrag
 § 7 des Bundesbeamtengesetzes bleibt unberührt. Die Zuordnung zur
 jeweiligen Laufbahn richtet sich nach der spätestens während der
 Schutzzeit erworbenen Laufbahnbefähigung. Der Anspruch nach Satz 1
-setzt voraus, dass die Einsatzgeschädigten nach § 1 Nr. 1 nicht
-bereits nach § 7 Abs. 1 berufen worden sind und kein Fall des § 7 Abs.
-2 vorliegt. Bei Einstellungen nach Satz 1 Nr. 2 gilt § 6 Abs. 3 Nr. 3
-für andere als das dort bezeichnete Wehrdienstverhältnis entsprechend.
+setzt voraus, dass die Einsatzgeschädigten nach § 1 Nummer 1 nicht
+bereits nach § 7 Absatz 1 berufen worden sind und kein Fall des § 7
+Absatz 2 vorliegt. Bei Einstellungen nach Satz 1 Nummer 2 gilt § 6
+Absatz 3 Nummer 3 für andere als das dort bezeichnete
+Wehrdienstverhältnis entsprechend.
 
 (2) Mit erfolgreichem Abschluss der Probezeit ist das
-Beamtenverhältnis auf Probe unter den Voraussetzungen des § 11 Abs. 1
-des Bundesbeamtengesetzes in ein Beamtenverhältnis auf Lebenszeit
+Beamtenverhältnis auf Probe unter den Voraussetzungen des § 11 Absatz
+1 des Bundesbeamtengesetzes in ein Beamtenverhältnis auf Lebenszeit
 umzuwandeln. Bei mangelnder Bewährung ist die Beamtin auf Probe oder
 der Beamte auf Probe zu entlassen. Dies gilt nicht bei mangelnder
 Bewährung wegen allein fehlender gesundheitlicher Eignung, die auf dem
@@ -375,15 +378,15 @@ Probe dienstfähig ist. Die Ernennung erfolgt im Eingangsamt der
 Laufbahn. Die laufbahnrechtlichen Bestimmungen für die Einstellung in
 ein höheres Amt als das Eingangsamt gelten entsprechend. Im Falle der
 Einstellung als Arbeitnehmerin oder Arbeitnehmer nach Absatz 1 Satz 1
-Nr. 2 richten sich Art und Inhalt der zu übertragenden Tätigkeiten
+Nummer 2 richten sich Art und Inhalt der zu übertragenden Tätigkeiten
 nach der individuellen Eignung und den tatsächlichen
 Beschäftigungsmöglichkeiten.
 
-(3) Für Einsatzgeschädigte nach § 2 Abs. 2 Satz 1 gilt Absatz 1 mit
+(3) Für Einsatzgeschädigte nach § 2 Absatz 2 Satz 1 gilt Absatz 1 mit
 der Maßgabe, dass ein Statuswechsel nur erfolgt, wenn eine
 unbefristete Weiterverwendung im bisherigen Status nicht möglich ist.
-Einsatzgeschädigte nach § 1 Nr. 1, die Beamtinnen oder Beamte anderer
-Dienstherren, Richterinnen oder Richter der Länder sowie
+Einsatzgeschädigte nach § 1 Nummer 1, die Beamtinnen oder Beamte
+anderer Dienstherren, Richterinnen oder Richter der Länder sowie
 Arbeitnehmerinnen oder Arbeitnehmer anderer öffentlicher Arbeitgeber
 sind, haben einen Weiterbeschäftigungsanspruch nach Absatz 1 nur dann,
 wenn sie aufgrund der gesundheitlichen Schädigung nicht in ihrem
@@ -397,7 +400,7 @@ können.
 Ansprüche auf Berufsförderung und Dienstzeitversorgung nach Abschnitt
 I des Zweiten Teils des Soldatenversorgungsgesetzes.
 
-(2) Die Versorgung Einsatzgeschädigter nach § 1 Nr. 1, die sich in
+(2) Die Versorgung Einsatzgeschädigter nach § 1 Nummer 1, die sich in
 einer Schutzzeit nach § 4 befinden und nicht nach § 7 oder § 8
 weiterverwendet werden, sowie ihrer Hinterbliebenen richtet sich nach
 dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
@@ -419,36 +422,36 @@ dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
 
 
 3.  Durch ein Wehrdienstverhältnis besonderer Art nach § 6 ist der
-    Anspruch auf Freistellung vom militärischen Dienst nach § 5 Abs. 5 des
-    Soldatenversorgungsgesetzes unabhängig von seiner Dauer abgegolten und
-    die Gesamtförderungsdauer nach § 5 Abs. 4 des
+    Anspruch auf Freistellung vom militärischen Dienst nach § 5 Absatz 5
+    des Soldatenversorgungsgesetzes unabhängig von seiner Dauer abgegolten
+    und die Gesamtförderungsdauer nach § 5 Absatz 4 des
     Soldatenversorgungsgesetzes entsprechend herabgesetzt.
 
 
 4.  Endet die Schutzzeit nach § 4 bei einer Soldatin auf Zeit oder einem
     Soldaten auf Zeit vor Ablauf der Zeit, für die sie oder er in das
     Dienstverhältnis berufen ist, und wurden während der Schutzzeit
-    berufliche Qualifikationen im Sinne des § 5 Abs. 6 bis 10 des
+    berufliche Qualifikationen im Sinne des § 5 Absatz 6 bis 10 des
     Soldatenversorgungsgesetzes erworben, vermindern sich der Anspruch auf
-    Freistellung vom militärischen Dienst nach § 5 Abs. 5 des
+    Freistellung vom militärischen Dienst nach § 5 Absatz 5 des
     Soldatenversorgungsgesetzes und die Gesamtförderungsdauer nach § 5
-    Abs. 4 des Soldatenversorgungsgesetzes entsprechend.
+    Absatz 4 des Soldatenversorgungsgesetzes entsprechend.
 
 
 5.  § 42 des Soldatenversorgungsgesetzes ist auf die Hinterbliebenen der
-    Einsatzgeschädigten nach § 1 Nr. 1, die während der Schutzzeit nach §
-    4 verstorben sind, unbeachtlich einer Wehrdienstzeit von mindestens
+    Einsatzgeschädigten nach § 1 Nummer 1, die während der Schutzzeit nach
+    § 4 verstorben sind, unbeachtlich einer Wehrdienstzeit von mindestens
     sechs Jahren und hinsichtlich der Dauer unbeachtlich des Anspruchs auf
     Übergangsgebührnisse entsprechend anzuwenden.
 
 
-6.  § 62 Abs. 1 des Soldatenversorgungsgesetzes gilt entsprechend für
-    Einsatzgeschädigte nach § 1 Nr. 1, deren Wehrdienstverhältnis
-    besonderer Art anders als durch eine Berufung nach § 7 Abs. 1 oder § 8
-    Abs. 1 Satz 1 Nr. 1 oder durch eine Einstellung nach § 8 Abs. 1 Satz 1
-    Nr. 2 geendet hat, und für die Hinterbliebenen der Einsatzgeschädigten
-    nach § 1 Nr. 1, die während des Wehrdienstverhältnisses besonderer Art
-    verstorben sind.
+6.  § 62 Absatz 1 des Soldatenversorgungsgesetzes gilt entsprechend für
+    Einsatzgeschädigte nach § 1 Nummer 1, deren Wehrdienstverhältnis
+    besonderer Art anders als durch eine Berufung nach § 7 Absatz 1 oder §
+    8 Absatz 1 Satz 1 Nummer 1 oder durch eine Einstellung nach § 8 Absatz
+    1 Satz 1 Nummer 2 geendet hat, und für die Hinterbliebenen der
+    Einsatzgeschädigten nach § 1 Nummer 1, die während des
+    Wehrdienstverhältnisses besonderer Art verstorben sind.
 
 
 
@@ -463,13 +466,13 @@ dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
 Zeitablauf endet, verlängert sich um die Dauer der restlichen
 Schutzzeit.
 
-(2) Einsatzgeschädigte nach § 1 Nr. 2 in einem Beamtenverhältnis auf
-Zeit, deren gesundheitliche Schädigung erst nach Ende ihres
+(2) Einsatzgeschädigte nach § 1 Nummer 2 in einem Beamtenverhältnis
+auf Zeit, deren gesundheitliche Schädigung erst nach Ende ihres
 Dienstverhältnisses erkannt worden ist, sind auf schriftlichen Antrag
 in ihrem ehemaligen Geschäftsbereich unter den Voraussetzungen des § 7
 des Bundesbeamtengesetzes unter erneuter Verleihung ihres zuletzt
 wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen.
-§ 6 Abs. 6 gilt entsprechend. Satz 1 gilt nicht, wenn
+§ 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -479,13 +482,13 @@ wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen.
     das Arbeitsleben nicht behindert,
 
 
-3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Abs. 1
+3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Absatz 1
     erwarten lässt,
 
 
-4.  Einsatzversorgung nach § 37 Abs. 3 des Beamtenversorgungsgesetzes oder
-    nach § 63f des Soldatenversorgungsgesetzes gewährt wird oder wurde
-    oder
+4.  Einsatzversorgung nach § 37 Absatz 3 des Beamtenversorgungsgesetzes
+    oder nach § 63f des Soldatenversorgungsgesetzes gewährt wird oder
+    wurde oder
 
 
 5.  eine Einstellung nach Satz 1 bereits zu einem inzwischen wieder
@@ -496,12 +499,12 @@ wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen.
 
 (3) Das Beamtenverhältnis auf Widerruf endet
 
-1.  durch eine Berufung in ein Beamtenverhältnis auf Probe nach § 11 Abs.
-    3 Satz 1,
+1.  durch eine Berufung in ein Beamtenverhältnis auf Probe nach § 11
+    Absatz 3 Satz 1,
 
 
 2.  durch eine Einstellung als Arbeitnehmerin oder Arbeitnehmer nach § 11
-    Abs. 3 Satz 6 mit dem Beginn des Arbeitsverhältnisses oder
+    Absatz 3 Satz 6 mit dem Beginn des Arbeitsverhältnisses oder
 
 
 3.  mit Ablauf des Monats, in dem die oder der Einsatzgeschädigte das 65.
@@ -513,7 +516,7 @@ wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen.
 (4) Das Beamtenverhältnis auf Widerruf nach Absatz 2 ist zu beenden,
 wenn
 
-1.  kein Antrag auf Weiterverwendung nach § 11 Abs. 3 gestellt wird, mit
+1.  kein Antrag auf Weiterverwendung nach § 11 Absatz 3 gestellt wird, mit
     dem Ende der Schutzzeit,
 
 
@@ -521,7 +524,7 @@ wenn
     Beamtenverhältnis verlangt oder
 
 
-3.  ein Fall des § 34 Abs. 1 Satz 1 Nr. 1 des Bundesbeamtengesetzes
+3.  ein Fall des § 34 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes
     vorliegt.
 
 
@@ -530,7 +533,7 @@ wenn
 
 ### § 11 Weiterverwendung nach der Schutzzeit
 
-(1) Einsatzgeschädigte nach § 1 Nr. 2, die sich in einem
+(1) Einsatzgeschädigte nach § 1 Nummer 2, die sich in einem
 Beamtenverhältnis auf Zeit befinden und deren Erwerbsfähigkeit infolge
 des Einsatzunfalls bei Beendigung der Schutzzeit um mindestens 30
 Prozent gemindert ist, sind auf schriftlichen Antrag unter den
@@ -541,7 +544,7 @@ gesundheitlichen Gründen zur Erfüllung der mit dem neuen Amt
 verbundenen Dienstpflichten dauernd unfähig sind. Die Zuordnung zur
 jeweiligen Laufbahn richtet sich nach der spätestens im Rahmen der
 Schutzzeit erworbenen Laufbahnbefähigung. Mit erfolgreichem Abschluss
-der Probezeit ist unter den Voraussetzungen des § 11 Abs. 1 des
+der Probezeit ist unter den Voraussetzungen des § 11 Absatz 1 des
 Bundesbeamtengesetzes das Beamtenverhältnis auf Probe unter Verleihung
 eines Amtes in ein Beamtenverhältnis auf Lebenszeit umzuwandeln. Bei
 mangelnder Bewährung ist die Beamtin oder der Beamte zu entlassen.
@@ -559,7 +562,7 @@ sofern es nicht zuvor durch Zeitablauf geendet hat. Bis zum Ende der
 Schutzzeit können sich die in Satz 1 genannten Personen statt für die
 Berufung in ein Beamtenverhältnis auch für eine Weiterverwendung als
 Arbeitnehmerin oder Arbeitnehmer mit einer Probezeit von sechs Monaten
-entscheiden. § 8 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Satz 6 gilt
+entscheiden. § 8 Absatz 1 Satz 1 Nummer 2 und Absatz 2 Satz 6 gilt
 entsprechend.
 
 (2) Das Beamtenverhältnis Einsatzgeschädigter, die sich in einem
@@ -573,11 +576,11 @@ verbundenen Dienstpflichten dauernd unfähig sind und sich in einer an
 das Ende der Schutzzeit anschließenden weiteren Probezeit von sechs
 Monaten bewährt haben. § 11 des Bundesbeamtengesetzes bleibt
 unberührt. Wurde die Probezeit infolge des Einsatzunfalls während der
-Schutzzeit verlängert, verlängert sich die Frist des § 11 Abs. 2 Satz
-1 des Bundesbeamtengesetzes entsprechend.
+Schutzzeit verlängert, verlängert sich die Frist des § 11 Absatz 2
+Satz 1 des Bundesbeamtengesetzes entsprechend.
 
 (3) Einsatzgeschädigte Beamtinnen auf Widerruf und einsatzgeschädigte
-Beamte auf Widerruf nach § 10 Abs. 2 Satz 1, deren Erwerbsfähigkeit
+Beamte auf Widerruf nach § 10 Absatz 2 Satz 1, deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
 Prozent gemindert ist, sind auf schriftlichen Antrag unter den
 Voraussetzungen des § 7 des Bundesbeamtengesetzes in das
@@ -588,7 +591,7 @@ zur Erfüllung der mit dem neuen Amt verbundenen Dienstpflichten
 dauernd unfähig sind. Die Zuordnung zur jeweiligen Laufbahn richtet
 sich nach der spätestens während der Schutzzeit erworbenen
 Laufbahnbefähigung. Mit erfolgreichem Abschluss der Probezeit ist
-unter den Voraussetzungen des § 11 Abs. 1 des Bundesbeamtengesetzes
+unter den Voraussetzungen des § 11 Absatz 1 des Bundesbeamtengesetzes
 das Beamtenverhältnis auf Probe unter Verleihung eines Amtes in ein
 Beamtenverhältnis auf Lebenszeit umzuwandeln. Bei mangelnder Bewährung
 ist die Beamtin auf Probe oder der Beamte auf Probe zu entlassen. Dies
@@ -601,10 +604,11 @@ Eingangsamt gelten entsprechend. Bis zum Ende der Schutzzeit können
 sich die in Satz 1 genannten Personen statt für die Berufung in ein
 Beamtenverhältnis auch für eine Weiterverwendung als Arbeitnehmerin
 oder Arbeitnehmer mit einer Probezeit von sechs Monaten entscheiden. §
-8 Abs. 1 Satz 1 Nr. 2 und § 8 Abs. 2 Satz 6 gelten entsprechend.
-
-(4) Die Absätze 1 und 2 gelten für Einsatzgeschädigte nach § 1 Nr. 3
+8 Absatz 1 Satz 1 Nummer 2 und § 8 Absatz 2 Satz 6 gelten
 entsprechend.
+
+(4) Die Absätze 1 und 2 gelten für Einsatzgeschädigte nach § 1 Nummer
+3 entsprechend.
 
 
 ## Abschnitt 4 - Regelungen für Arbeitnehmerinnen und Arbeitnehmer sowie frühere Arbeitnehmerinnen und frühere Arbeitnehmer
@@ -612,18 +616,18 @@ entsprechend.
 
 ### § 12 Verlängerung von Arbeitsverhältnissen, erneute Einstellung
 
-(1) Befristete Arbeitsverhältnisse Einsatzgeschädigter nach § 1 Nr. 4
-werden bis zum Ende der Schutzzeit verlängert. Leistungen im Sinne des
-§ 4 Abs. 1 sind sachliche Gründe einer weiteren Befristung von
+(1) Befristete Arbeitsverhältnisse Einsatzgeschädigter nach § 1 Nummer
+4 werden bis zum Ende der Schutzzeit verlängert. Leistungen im Sinne
+des § 4 Absatz 1 sind sachliche Gründe einer weiteren Befristung von
 Arbeitsverträgen.
 
-(2) Einsatzgeschädigte nach § 1 Nr. 4, die während eines befristeten
-Arbeitsverhältnisses einen Einsatzunfall erlitten haben und deren
-gesundheitliche Schädigung erst nach Ablauf der Befristung erkannt
-worden ist, sind auf schriftlichen Antrag in ihrem ehemaligen
+(2) Einsatzgeschädigte nach § 1 Nummer 4, die während eines
+befristeten Arbeitsverhältnisses einen Einsatzunfall erlitten haben
+und deren gesundheitliche Schädigung erst nach Ablauf der Befristung
+erkannt worden ist, sind auf schriftlichen Antrag in ihrem ehemaligen
 Geschäftsbereich in ein befristetes Arbeitsverhältnis im Sinne von
 Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. §
-6 Abs. 6 gilt entsprechend. Satz 1 gilt nicht, wenn
+6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -633,7 +637,7 @@ Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. §
     das Arbeitsleben nicht behindert,
 
 
-3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Abs. 1
+3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Absatz 1
     erwarten lässt,
 
 
@@ -655,8 +659,8 @@ Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. §
 (1) Soweit während der Schutzzeit nach § 4 das Entgelt im
 Krankheitsfall einschließlich Entgeltersatzleistungen nach dem Siebten
 Buch Sozialgesetzbuch die Höhe des bisherigen monatlichen
-Nettoentgelts unterschreitet, erhalten Einsatzgeschädigte nach § 1 Nr.
-4 vom Arbeitgeber einen Ausgleichsbetrag in Höhe des
+Nettoentgelts unterschreitet, erhalten Einsatzgeschädigte nach § 1
+Nummer 4 vom Arbeitgeber einen Ausgleichsbetrag in Höhe des
 Unterschiedsbetrages zwischen dem Entgelt im Krankheitsfall
 einschließlich Entgeltersatzleistungen nach dem Siebten Buch
 Sozialgesetzbuch und dem Nettoentgelt.
@@ -678,13 +682,13 @@ Buch Sozialgesetzbuch zu berücksichtigen. Der Zusatzbeitrag nach § 242
 des Fünften Buches Sozialgesetzbuch in der ab dem 1. Januar 2009
 geltenden Fassung bleibt unberücksichtigt. Satz 2 gilt für Versicherte
 eines privaten Krankenversicherungsunternehmens, das die
-Voraussetzungen nach § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch
-erfüllt, entsprechend mit der Maßgabe, dass als
-Krankenversicherungsbeitrag nur der nach § 257 Abs. 2 des Fünften
+Voraussetzungen nach § 257 Absatz 2a des Fünften Buches
+Sozialgesetzbuch erfüllt, entsprechend mit der Maßgabe, dass als
+Krankenversicherungsbeitrag nur der nach § 257 Absatz 2 des Fünften
 Buches Sozialgesetzbuch zuschussfähige Betrag und als
-Pflegeversicherungsbeitrag nur der nach § 61 Abs. 2 des Elften Buches
-Sozialgesetzbuch zuschussfähige Betrag zu berücksichtigen ist. Entgelt
-sind das Tabellenentgelt und die sonstigen in Monatsbeträgen
+Pflegeversicherungsbeitrag nur der nach § 61 Absatz 2 des Elften
+Buches Sozialgesetzbuch zuschussfähige Betrag zu berücksichtigen ist.
+Entgelt sind das Tabellenentgelt und die sonstigen in Monatsbeträgen
 festgelegten Entgeltbestandteile zuzüglich des Durchschnitts der nicht
 in Monatsbeträgen festgelegten Entgeltbestandteile der dem
 Einsatzunfall vorangegangenen drei Kalendermonate. Ausgenommen hiervon
@@ -696,23 +700,23 @@ Beschäftigung im Ausland gezahlt werden, bleiben außer Ansatz.
 
 ### § 14 Weiterbeschäftigung einsatzgeschädigter Arbeitnehmerinnen und einsatzgeschädigter Arbeitnehmer nach der Schutzzeit
 
-Einsatzgeschädigte nach § 1 Nr. 4, deren Erwerbsfähigkeit infolge
+Einsatzgeschädigte nach § 1 Nummer 4, deren Erwerbsfähigkeit infolge
 eines Einsatzunfalls am Ende der Schutzzeit um mindestens 30 Prozent
 gemindert ist, haben, wenn sie infolge des Einsatzunfalls nicht mehr
 in der Lage sind, die geschuldete Arbeitsleistung zu erbringen, einen
 Anspruch auf Weiterbeschäftigung zu geänderten Bedingungen, sofern sie
-über ein Maß an gesundheitlicher Eignung im Sinne des § 8 Abs. 1 Satz
-1 Nr. 2 verfügen. In Bezug auf Art und Inhalt der zu übertragenden
-Tätigkeiten gilt § 8 Abs. 2 Satz 6 entsprechend. Führt die
-Weiterbeschäftigung zu einer niedrigeren Entgeltgruppe, wird der
+über ein Maß an gesundheitlicher Eignung im Sinne des § 8 Absatz 1
+Satz 1 Nummer 2 verfügen. In Bezug auf Art und Inhalt der zu
+übertragenden Tätigkeiten gilt § 8 Absatz 2 Satz 6 entsprechend. Führt
+die Weiterbeschäftigung zu einer niedrigeren Entgeltgruppe, wird der
 Unterschiedsbetrag zwischen dem jeweiligen Tabellenentgelt der
 bisherigen und der neuen Entgeltgruppe als persönliche Zulage gezahlt.
 
 
 ### § 15 Befristete Arbeitsverhältnisse
 
-Einsatzgeschädigte nach § 1 Nr. 4, deren Erwerbsfähigkeit infolge des
-Einsatzunfalls am Ende der Schutzzeit um mindestens 30 Prozent
+Einsatzgeschädigte nach § 1 Nummer 4, deren Erwerbsfähigkeit infolge
+des Einsatzunfalls am Ende der Schutzzeit um mindestens 30 Prozent
 gemindert ist, können eine an das befristete Arbeitsverhältnis
 unmittelbar anschließende Weiterverwendung entsprechend § 8
 beanspruchen. Erfolgt die Weiterverwendung in einem Arbeitsverhältnis,
@@ -724,7 +728,7 @@ gilt § 14 Satz 3 entsprechend.
 
 ### § 16 Beschäftigungsanspruch für einsatzgeschädigte Helferinnen und Helfer des Technischen Hilfswerks
 
-(1) Einsatzgeschädigte nach § 1 Nr. 5, die in keinem
+(1) Einsatzgeschädigte nach § 1 Nummer 5, die in keinem
 Beschäftigungsverhältnis stehen oder deren Beschäftigungsverhältnis
 aufgrund ihrer Einsatzschädigung endet und deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
@@ -744,24 +748,24 @@ Prozent gemindert ist, sind auf schriftlichen Antrag
 
 
 Der Anspruch nach Satz 1 setzt voraus, dass die oder der
-Einsatzgeschädigte nach § 1 Nr. 5 nicht bereits aus einem früheren
-öffentlich-rechtlichen Dienstverhältnis in den Ruhestand getreten war
-oder versetzt worden war und sie oder er nicht die für ihr oder sein
+Einsatzgeschädigte nach § 1 Nummer 5 nicht bereits aus einem früheren
+öffentlich-rechtlichen Dienstverhältnis in den Ruhestand getreten oder
+versetzt worden war und sie oder er nicht die für ihr oder sein
 Beschäftigungsverhältnis geltende Regelaltersgrenze erreicht oder
-überschritten hat. § 8 Abs. 2 und 3 gilt entsprechend.
+überschritten hat. § 8 Absatz 2 und 3 gilt entsprechend.
 
-(2) Absatz 1 gilt auch für Einsatzgeschädigte nach § 1 Nr. 5, die zum
-Zeitpunkt des Einsatzunfalls in einem Beschäftigungsverhältnis
+(2) Absatz 1 gilt auch für Einsatzgeschädigte nach § 1 Nummer 5, die
+zum Zeitpunkt des Einsatzunfalls in einem Beschäftigungsverhältnis
 gestanden haben und deren gesundheitliche Schädigung erst nach
 Beendigung dieses Beschäftigungsverhältnisses erkannt worden ist. § 6
-Abs. 6 und § 10 Abs. 2 gelten entsprechend.
+Absatz 6 und § 10 Absatz 2 gelten entsprechend.
 
 
 ### § 17 Erstattungsanspruch
 
 Soweit ein Dienstherr oder Arbeitgeber das Beschäftigungsverhältnis
-mit einer oder einem Einsatzgeschädigten nach § 1 Nr. 5 nach Maßgabe
-der §§ 4 und 5 fortführt, ohne nach diesen Vorschriften hierzu
+mit einer oder einem Einsatzgeschädigten nach § 1 Nummer 5 nach
+Maßgabe der §§ 4 und 5 fortführt, ohne nach diesen Vorschriften hierzu
 verpflichtet zu sein, hat er Anspruch auf Erstattung der ihm durch die
 Weiterbeschäftigung während der Schutzzeit entstehenden
 Mehraufwendungen durch die Bundesanstalt Technisches Hilfswerk.
@@ -769,21 +773,21 @@ Mehraufwendungen durch die Bundesanstalt Technisches Hilfswerk.
 
 ### § 18 Entschädigung
 
-(1) Einsatzgeschädigte nach § 1 Nr. 5 erhalten von der Bundesanstalt
-Technisches Hilfswerk auf Antrag für die Dauer der Schutzzeit eine
-Entschädigung in Höhe
+(1) Einsatzgeschädigte nach § 1 Nummer 5 erhalten von der
+Bundesanstalt Technisches Hilfswerk auf Antrag für die Dauer der
+Schutzzeit eine Entschädigung in Höhe
 
 1.  des Verletztengeldes nach § 47 des Siebten Buches Sozialgesetzbuch,
     wenn ihr Dienstherr oder Arbeitgeber das Dienst- oder
     Arbeitsverhältnis aufgrund des Einsatzunfalls beendet,
 
 
-2.  des Verdienstausfalls nach § 3 Abs. 3 Satz 2 und 3 des THW-Gesetzes,
+2.  des Verdienstausfalls nach § 3 Absatz 3 Satz 2 und 3 des THW-Gesetzes,
     der ihnen als beruflich selbstständigen Helferinnen oder Helfern
     infolge des Einsatzunfalls entsteht, oder
 
 
-3.  der nach § 3 Abs. 4 des THW-Gesetzes fortzugewährenden Leistungen,
+3.  der nach § 3 Absatz 4 des THW-Gesetzes fortzugewährenden Leistungen,
     soweit ihnen Leistungen der Bundesagentur für Arbeit, Sozialhilfe
     sowie sonstige Unterstützungen oder Bezüge aus öffentlichen Mitteln
     infolge des Einsatzunfalls nicht fortgewährt werden.
@@ -791,9 +795,9 @@ Entschädigung in Höhe
 
 
 
-(2) Beeinträchtigt der Bezug von Leistungen nach § 4 Abs. 1 den
-beruflichen Werdegang von Einsatzgeschädigten nach § 1 Nr. 5, erhalten
-diese einen angemessenen Ausgleich ihrer Nachteile von der
+(2) Beeinträchtigt der Bezug von Leistungen nach § 4 Absatz 1 den
+beruflichen Werdegang von Einsatzgeschädigten nach § 1 Nummer 5,
+erhalten diese einen angemessenen Ausgleich ihrer Nachteile von der
 Bundesanstalt Technisches Hilfswerk.
 
 
@@ -803,8 +807,8 @@ Bundesanstalt Technisches Hilfswerk.
 ### § 19 Vorübergehend im Auswärtigen Dienst verwendete Beschäftigte des Bundes
 
 (1) Für Einsatzgeschädigte, die den Einsatzunfall während einer
-zeitlich befristeten Verwendung im Auswärtigen Dienst nach § 13 Abs. 1
-des Gesetzes über den Auswärtigen Dienst erlitten haben, gelten die
+zeitlich befristeten Verwendung im Auswärtigen Dienst nach § 13 Absatz
+1 des Gesetzes über den Auswärtigen Dienst erlitten haben, gelten die
 Vorschriften dieses Gesetzes mit der Maßgabe, dass sie in dem
 Geschäftsbereich wieder eingestellt werden, dem sie vor der Verwendung
 im Auswärtigen Dienst angehört haben.
@@ -828,10 +832,10 @@ Arbeitsverhältnis weiterverwendet werden können, haben Ansprüche nach
 § 3. Sie haben mit Beendigung ihres bisherigen Dienst- oder
 Arbeitsverhältnisses einen Weiterverwendungsanspruch gegen den Bund.
 Für die Einstellung und die Rechtsstellung der Betroffenen gelten je
-nach Art des bisherigen Dienstverhältnisses § 10 Abs. 2, §§ 11, 12
-Abs. 2, §§ 14 und 15 entsprechend. Ab der Einstellung beim Bund gelten
-die in Satz 1 genannten Personen als Einsatzgeschädigte nach § 1 Nr. 2
-bis 4.
+nach Art des bisherigen Dienstverhältnisses § 10 Absatz 2, §§ 11, 12
+Absatz 2, §§ 14 und 15 entsprechend. Ab der Einstellung beim Bund
+gelten die in Satz 1 genannten Personen als Einsatzgeschädigte nach §
+1 Nummer 2 bis 4.
 
 (2) Absatz 1 gilt nicht im Falle geringfügiger gesundheitlicher
 Schädigungen.
@@ -855,17 +859,12 @@ Arbeitgeber erhalten.
 
 (5) Ist eine Person, die nach Absatz 1 Satz 4 als Einsatzgeschädigte
 gilt, an den Folgen eines Einsatzunfalls der in § 31a des
-Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 16.
-März 1999 (BGBl. I S. 322, 847, 2033), das zuletzt durch Artikel 6 des
-Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) geändert worden ist,
-bezeichneten Art verstorben und hat sie eine einmalige
-Unfallentschädigung nach Absatz 4 oder eine entsprechende Leistung vom
-vormaligen Dienstherrn oder öffentlichen Arbeitgeber nicht erhalten,
-wird ihren Hinterbliebenen eine einmalige Unfallentschädigung nach
-Maßgabe des § 43 Abs. 2 des Beamtenversorgungsgesetzes in der Fassung
-der Bekanntmachung vom 16. März 1999 (BGBl. I S. 322, 847, 2033), das
-zuletzt durch Artikel 6 des Gesetzes vom 19. Juli 2006 (BGBl. I S.
-1652) geändert worden ist, gewährt.
+Beamtenversorgungsgesetzes bezeichneten Art verstorben und hat sie
+eine einmalige Unfallentschädigung nach Absatz 4 oder eine
+entsprechende Leistung vom vormaligen Dienstherrn oder öffentlichen
+Arbeitgeber nicht erhalten, wird ihren Hinterbliebenen eine einmalige
+Unfallentschädigung nach Maßgabe des § 43 Absatz 2 des
+Beamtenversorgungsgesetzes gewährt.
 
 
 ## Abschnitt 7 - Schlussvorschriften
@@ -873,9 +872,9 @@ zuletzt durch Artikel 6 des Gesetzes vom 19. Juli 2006 (BGBl. I S.
 
 ### § 21 Umzüge aus gesundheitlichen Gründen
 
-Wird die Zusage der Umzugskostenvergütung nach § 4 Abs. 2 Nr. 3 des
-Bundesumzugskostengesetzes wegen des Gesundheitszustandes infolge des
-Einsatzunfalls erteilt, ist § 8 des Bundesumzugskostengesetzes
+Wird die Zusage der Umzugskostenvergütung nach § 4 Absatz 2 Nummer 3
+des Bundesumzugskostengesetzes wegen des Gesundheitszustandes infolge
+des Einsatzunfalls erteilt, ist § 8 des Bundesumzugskostengesetzes
 entsprechend anzuwenden.
 
 
@@ -904,6 +903,59 @@ für eine Wiedereinstellung auch dann, wenn das Dienst- oder
 Arbeitsverhältnis nach dem 18. Dezember 2007 geendet hat oder beendet
 worden ist und die Geschädigten sich zu diesem Zeitpunkt bei Anwendung
 des Absatzes 1 in der Schutzzeit befunden hätten.
+
+(4) Ist der Anspruch auf eine einmalige Unfallentschädigung nach § 20
+Absatz 4 oder Absatz 5 in der Zeit vom 1. Dezember 2002 bis zum 12.
+Dezember 2011 entstanden, beträgt die Entschädigung
+
+1.
+    *        *   nach § 20 Absatz 4
+
+        *   150 000 Euro,
+
+
+
+
+
+2.
+    *        *   nach § 20 Absatz 5 dieses
+            Gesetzes in Verbindung mit
+            § 43 Absatz 2 Nummer 1 des
+            Beamtenversorgungsgesetzes
+
+        *   100 000 Euro,
+
+
+
+
+
+3.
+    *        *   nach § 20 Absatz 5 dieses
+            Gesetzes in Verbindung mit
+            § 43 Absatz 2 Nummer 2 des
+            Beamtenversorgungsgesetzes
+
+        *   40 000 Euro,
+
+
+
+
+
+4.
+    *        *   nach § 20 Absatz 5 dieses
+            Gesetzes in Verbindung mit
+            § 43 Absatz 2 Nummer 3 des
+            Beamtenversorgungsgesetzes
+
+        *   20 000 Euro.
+
+
+
+
+
+
+Aus gleichem Anlass bereits gewährte Leistungen nach § 20 Absatz 4
+oder Absatz 5 sind anzurechnen.
 
 
 ### § 23 Zuständiger Geschäftsbereich

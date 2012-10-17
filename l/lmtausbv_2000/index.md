@@ -195,7 +195,7 @@ insbesondere in Betracht:
 
 
 2.  Umrüsten, in Betrieb nehmen und Bedienen einer
-    Verpackungsmaschine/-anlage sowie Steuern und und Überwachen des
+    Verpackungsmaschine/-anlage sowie Steuern und Überwachen des
     Verpackungsprozesses und
 
 

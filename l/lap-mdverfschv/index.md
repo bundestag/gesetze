@@ -55,8 +55,8 @@ und Amtsbezeichnungen:
 
     *   in der Probezeit bis zur Anstellung
 
-    *   Regierungssekretärin zur zur Anstellung (z. A.)/ Regierungssekretär
-        zur Anstellung (z. A.)
+    *   Regierungssekretärin zur Anstellung (z. A.)/ Regierungssekretär zur
+        Anstellung (z. A.)
 
 
 *    *   3.

@@ -121,7 +121,7 @@ Die Angabe nach Absatz 2 Nr. 4 ist in engem räumlichen Zusammenhang
 mit der Angabe nach Absatz 2 Nr. 1 anzubringen. Bei Konsummilch, die
 in zur Wiederverwendung bestimmten Flaschen abgegeben wird, brauchen
 abweichend von Satz 1 die Angaben nach Absatz 2 Nr. 1 und 3 nicht in
-in einem Sichtfeld mit der Mengenkennzeichnung nach § 16 Abs. 1 des
+einem Sichtfeld mit der Mengenkennzeichnung nach § 16 Abs. 1 des
 Eichgesetzes angebracht zu werden; bei der Kennzeichnung können die
 Abkürzungen
 

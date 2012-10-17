@@ -100,7 +100,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 *    *   b)
 
-    *   für den jeweiligen Ehegatten (§ 269a Abs. 3 des des Gesetzes)
+    *   für den jeweiligen Ehegatten (§ 269a Abs. 3 des Gesetzes)
 
 
 *    *

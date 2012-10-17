@@ -1318,7 +1318,7 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 Die Enteignung ist zulässig, soweit sie zur Ausführung eines nach den
 §§ 28, 29 festgestellten oder genehmigten Bauvorhabens notwendig ist.
-Der festgestellte Plan oder die Plangenehmigung ist ist dem
+Der festgestellte Plan oder die Plangenehmigung ist dem
 Enteignungsverfahren zugrunde zu legen und für die Enteignungsbehörde
 bindend. Im übrigen gelten die Enteignungsgesetze der Länder.
 

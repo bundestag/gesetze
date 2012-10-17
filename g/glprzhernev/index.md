@@ -21,7 +21,7 @@ Geändert durch
 :   Art. 1 V v. 20.6.2012 I 1384
 
 V aufgeh. durch
-:   Art. 1 Nr. 2 V v. 20.6.2012 I 1384 mWv 1.10.2016
+:   § 3 Abs. 1 idF d. Art. 1 Nr. 2 V v. 20.6.2012 I 1384 mWv 1.10.2016
 
 
 
@@ -117,7 +117,7 @@ die Verordnung vom 4. August 1998 (BGBl. I S. 2086), gelten fort.
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
 und am 1. Oktober 2016 außer Kraft.
 
-(2) -
+(2)
 
 
 ## Schlussformel

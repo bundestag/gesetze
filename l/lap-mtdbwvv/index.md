@@ -1151,7 +1151,7 @@ bewertet:
 
 *    *   ausreichend (4) 7 bis 5 Punkte
 
-    *   eine Leistung, die zwar Mängel aufweist,  aber im Ganzen den
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
         Anforderungen noch entspricht,
 
 
@@ -1159,7 +1159,7 @@ bewertet:
 
     *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
         lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in in absehbarer Zeit behoben werden könnten,
+        Mängel in absehbarer Zeit behoben werden könnten,
 
 
 *    *   ungenügend (6) 1 bis 0 Punkte

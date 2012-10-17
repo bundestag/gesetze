@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl II: 1997, 1670
 
 Zuletzt geändert durch
-:   Art. 2 V v. 16.12.2011 I 1318
-
-Änderung durch
-:   Art. 7 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+:   Art. 7 V v. 21.6.2012 II 618
 
 
 ## Eingangsformel
@@ -83,15 +80,8 @@ jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
 
-## Art 1a Vorschriften über die Schiffsuntersuchung
+## Art 1a (weggefallen)
 
-§ 1.08 Nr. 3, § 1.10 Nr. 1 Buchstabe c und Nr. 3, § 1.21 Nr. 4, § 2.04
-Nr. 1 Satz 3 und § 11.05 Nr. 1 Satz 1 der Anlage und die nach Artikel
-2 Abs. 2 erlassenen Rechtsverordnungen sind mit der Maßgabe
-anzuwenden, dass sich die Angabe „Rheinschiffsuntersuchungsordnung“
-auf die in § 1 Abs. 8 der Binnenschiffsuntersuchungsordnung vom 6.
-Dezember 2008 (BGBl. I S. 2450) bezeichneten Vorschriften in der
-jeweils anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
@@ -164,7 +154,7 @@ Sicherheit und Ordnung dringend geboten ist.
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig
 
-1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 1.25 oder §
+1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 1.27 oder §
     7\.01 Nr. 3 der Moselschiffahrtspolizeiverordnung, auch in Verbindung
     mit Artikel 2 Abs. 9, oder
 
@@ -197,6 +187,15 @@ oder fahrlässig
     Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine
     Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration
     führt, im Körper befindet,
+
+
+3a. entgegen § 1.08 Nummer 6 Satz 1 in den dort genannten Fällen keine
+    Rettungsweste trägt,
+
+
+3b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt, obwohl
+    das Schiff nicht stillliegt oder zu erwarten ist, dass die Arbeiten
+    durch den übrigen Schiffsverkehr gefährdet werden,
 
 
 4.  entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen
@@ -401,9 +400,9 @@ Geschwindigkeit verantwortliche Person
         oder 2 oder § 6.33,
 
 
-    l)  die Benutzung von Sprechfunk auf Verbänden oder Fahrzeugen mit einer
-        Länge von mehr als 110,00 m nach § 8.07 Nummer 2 oder auf Verbänden
-        nach § 9.04 Nummer 2,
+    l)  die Benutzung von Sprechfunk auf Schubverbänden oder Fahrzeugen mit
+        einer Länge von mehr als 110,00 m nach § 8.07 Nummer 2 oder auf
+        Schubverbänden nach § 9.04 Nummer 2,
 
 
     m)  Sprechverbindungen auf Verbänden nach § 8.07 Nummer 3, 5 oder Nummer
@@ -497,9 +496,13 @@ oder fahrlässig als Schiffsführer
     nicht rechtzeitig vorgenommen wurde,
 
 
-7a. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 Satz 1
+7a. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4
     vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl
     oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
+
+
+7b. der Vorschrift des § 1.08 Nummer 5 über das Öffnen, Entfernen oder
+    Setzen von Geländern zuwiderhandelt,
 
 
 8.  nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1
@@ -629,18 +632,19 @@ oder fahrlässig als Schiffsführer
     b)  die Radarfahrt nach § 6.32 Nr. 1 Satz 1 oder Nr. 2,
 
 
-    c)  das Stilliegen nach § 7.01, das Liegeverbot nach § 7.02 Nr. 1
-        Buchstabe a bis l Satz 1 oder Buchstabe m Satz 1, das Ankern nach §
-        7\.03 Nr. 1, das Festmachen nach § 7.04 Nr. 1 oder 3, die Benutzung der
-        Liegestellen nach § 7.05 oder § 7.06 oder die Mindestabstände nach §
-        7\.07 Nr. 1,
+    c)  das Stilliegen oder das Betreten der Fahrzeuge nach § 7.01, das
+        Liegeverbot nach § 7.02 Nr. 1 Buchstabe a bis l Satz 1 oder Buchstabe
+        m Satz 1, das Ankern nach § 7.03 Nr. 1, das Festmachen nach § 7.04
+        Nummer 1, auch in Verbindung mit Nummer 2, oder Nummer 3, die
+        Benutzung der Liegestellen nach § 7.05 oder § 7.06 oder die
+        Mindestabstände nach § 7.07 Nr. 1,
 
 
     d)  die Wache oder Aufsicht nach § 7.08 Nr. 1 Satz 1, Nr. 2 oder 3,
 
 
-    e)  die Höchstabmessungen der Fahrzeuge oder Schubverbände nach § 8.01
-        Nummer 1 oder
+    e)  die Höchstabmessungen der Fahrzeuge, Schubverbände oder
+        Schleppverbände nach § 8.01 Nummer 1 oder
 
 
     f)  die Meldepflicht nach § 9.05 Nr. 1, 2, 3 Satz 2 oder 3 Nummer 4 bis 6
@@ -768,9 +772,9 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 1a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt,
-    obwohl die nach § 1.08 Nummer 4 Satz 1 vorgeschriebenen
-    Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der
-    vorgeschriebenen Art an Bord vorhanden sind,
+    obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel
+    nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art
+    an Bord vorhanden sind,
 
 
 2.  nicht dafür sorgt, dass die in § 1.10 Nr. 1 genannten Urkunden oder

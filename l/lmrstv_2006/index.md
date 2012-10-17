@@ -19,6 +19,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 7.2.2012 I 190
 
+Geändert durch
+:   Art. 1 V v. 12.9.2012 I 2014
+
 
 ## Eingangsformel
 
@@ -184,8 +187,9 @@ Artikel 3 Absatz 1 in Verbindung mit Anhang III
 
 
 
-4.  Abschnitt VIII Kapitel III Teil D Nummer 1 ein dort genanntes
-    Fischereierzeugnis nicht oder nicht richtig einfriert,
+4.  Abschnitt VIII Kapitel III Teil D Nummer 1 in Verbindung mit Nummer 2
+    nicht sicherstellt, dass ein Rohstoff oder ein Enderzeugnis einer dort
+    genannten Gefrierbehandlung unterzogen wird,
 
 
 4a. Abschnitt VIII Kapitel IV Teil B Nummer 1 Satz 1
@@ -309,6 +313,11 @@ fahrlässig
 
 
 
+
+
+1a. entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang II Abschnitt IV
+    Nummer 2 nicht dafür sorgt, dass der zuständigen Behörde eine dort
+    genannte Information zur Verfügung gestellt wird,
 
 
 2.  entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang III Abschnitt I
@@ -487,15 +496,24 @@ fahrlässig
         oder nicht rechtzeitig lagert,
 
 
-    b)  Kapitel V Teil D Satz 1 nicht sicherstellt, dass ein
+    b)  Kapitel III Teil D Nummer 4 Buchstabe a ein dort genanntes
+        Fischereierzeugnis in den Verkehr bringt,
+
+
+    c)  Kapitel III Teil D Nummer 4 Buchstabe b Satz 1 nicht sicherstellt,
+        dass ein dort genanntes Fischereierzeugnis von einem dort genannten
+        Fanggrund oder von einer dort genannten Fischzucht stammt,
+
+
+    d)  Kapitel V Teil D Satz 1 nicht sicherstellt, dass ein
         Fischereierzeugnis einer Sichtkontrolle unterzogen wird,
 
 
-    c)  Kapitel VII Nummer 2 Halbsatz 1 ein Fischereierzeugnis nicht richtig
+    e)  Kapitel VII Nummer 2 Halbsatz 1 ein Fischereierzeugnis nicht richtig
         lagert oder
 
 
-    d)  Kapitel VIII Nummer 1 Buchstabe b Halbsatz 1 ein Fischereierzeugnis
+    f)  Kapitel VIII Nummer 1 Buchstabe b Halbsatz 1 ein Fischereierzeugnis
         nicht auf der dort genannten Temperatur hält,
 
 
@@ -680,8 +698,9 @@ Nr. 2075/2005 einen Schlachtkörper zerschneidet.
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Artikel 6 Unterabsatz 2 der Verordnung (EG)
-Nr. 669/2009 das dort genannte Dokument nicht, nicht richtig, nicht
-vollständig oder nicht rechtzeitig übermittelt.
+Nr. 669/2009 als Lebensmittelunternehmer oder als sein Vertreter das
+dort genannte Dokument nicht, nicht richtig, nicht vollständig oder
+nicht rechtzeitig übermittelt.
 
 
 ## § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1135/2009
@@ -697,8 +716,9 @@ einführt.
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Artikel 3 Absatz 6 der Verordnung (EG) Nr.
-1151/2009 eine Meldung nicht, nicht richtig, nicht vollständig oder
-nicht rechtzeitig macht.
+1151/2009 als Lebensmittelunternehmer oder als sein Vertreter eine
+Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+macht.
 
 
 ## § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1152/2009
@@ -710,68 +730,81 @@ Nr. 1152/2009 das dort genannte Dokument nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig übermittelt.
 
 
-## § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 961/2011
+## § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 931/2011
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 3 Absatz 1 in Verbindung mit Absatz 3
+Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 931/2011 nicht
+sicherstellt, dass der zuständigen Behörde eine dort genannte
+Information zur Verfügung gestellt wird.
+
+
+## § 13 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 284/2012
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 4 der Verordnung (EU) Nr. 961/2011
-die Ankunft einer Sendung nicht, nicht richtig, nicht vollständig oder
-nicht rechtzeitig mitteilt.
+oder fahrlässig entgegen Artikel 9 der Verordnung (EU) Nr. 284/2012
+als Lebensmittelunternehmer oder als sein Vertreter eine Mitteilung
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
-## § 13 Verweisungen auf Vorschriften der Europäischen Gemeinschaft
+## § 14 Verweisungen auf Vorschriften der Europäischen Gemeinschaft
 
 Verweisungen in dieser Verordnung auf Rechtsakte der Europäischen
 Gemeinschaft beziehen sich auf die in der Anlage jeweils angegebene
 Fassung.
 
 
-## § 14 Inkrafttreten; Außerkrafttreten
+## § 15 Inkrafttreten; Außerkrafttreten
 
 (Inkrafttreten; Außerkrafttreten)
 
+(zu § 14)
 
-## Anlage (zu § 13) Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft
+## Anlage Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
 
-(Fundstelle: BGBl. I 2012, 196)
+(Fundstelle: BGBl. I 2012, 2014 - 2015)
 
 
 1.  Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates
     vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung
-    bestimmter transmissibler spongiformer Enzephalopathien (ABl. EG Nr. L
-    147 S. 1), die zuletzt durch die Verordnung (EU) Nr. 189/2011 (ABl. L
-    53 vom 26.2.2011, S. 56) geändert worden ist,
+    bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147
+    vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) Nr.
+    189/2011 (ABl. L 53 vom 26.2.2011, S. 56) geändert worden ist,
 
 
 2.  Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates
-    vom 29. April 2004 über Lebensmittelhygiene (ABl. EU Nr. L 139 S. 1,
-    Nr. L 226 S. 3, 2008 Nr. L 46 S. 51), die zuletzt durch die Verordnung
-    (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden
-    ist,
+    vom 29. April 2004 über Lebensmittelhygiene (ABl. L 139 vom 30.4.2004,
+    S. 1, L 226 vom 25.6.2004, S. 3, L 204 vom 4.8.2007, S. 26, L 46 vom
+    21\.2.2008, S. 51, L 58 vom 3.3.2009, S. 3), die zuletzt durch die
+    Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109)
+    geändert worden ist,
 
 
 3.  Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates
     vom 29. April 2004 mit spezifischen Hygienevorschriften für
     Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L
-    226 vom 25.6.2004, S. 22, L 46 vom 21.2.2008, S. 50, L 119 vom
-    13\.5.2010, S. 26), die zuletzt durch die Verordnung (EU) Nr. 150/2011
-    (ABl. L 46 vom 19.2.2011, S. 14) geändert worden ist,
+    226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom
+    21\.2.2008, S. 50, L 77 vom 24.3.2010, S. 59, L 119 vom 13.5.2010, S.
+    26), die zuletzt durch die Verordnung (EU) Nr. 16/2012 (ABl. L 8 vom
+    12\.1.2012, S. 29) geändert worden ist,
 
 
 4.  Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates
     vom 29. April 2004 mit besonderen Verfahrensvorschriften für die
     amtliche Überwachung von zum menschlichen Verzehr bestimmten
-    Erzeugnissen tierischen Ursprungs (ABl. EU Nr. L 139 S. 206, Nr. L 226
-    S. 83, 2008 Nr. L 46 S. 51), die zuletzt durch die
-    Durchführungsverordnung (EU) Nr. 739/2011 (ABl. L 196 vom 28.7.2011,
-    S. 3) geändert worden ist,
+    Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206, L
+    226 vom 25.6.2004, S. 83, L 204 vom 4.8.2007, S. 26, L 46 vom
+    21\.2.2008, S. 51), die zuletzt durch die Durchführungsverordnung (EU)
+    Nr. 739/2011 (ABl. L 196 vom 28.7.2011, S. 3) geändert worden ist,
 
 
 5.  Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005
     über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom
     22\.12.2005, S. 1, L 278 vom 10.10.2006, S. 32), die zuletzt durch die
-    Verordnung (EU) Nr. 365/2010 (ABl. L 107 vom 29.4.2010, S. 9) geändert
-    worden ist,
+    Verordnung (EU) Nr. 1086/2011 (ABl. L 281 vom 28.10.2011, S. 7)
+    geändert worden ist,
 
 
 6.  Verordnung (EG) Nr. 2074/2005 der Kommission vom 5. Dezember 2005 zur
@@ -782,16 +815,16 @@ Fassung.
     Europäischen Parlaments und des Rates vorgesehenen amtlichen
     Kontrollen, zur Abweichung von der Verordnung (EG) Nr. 852/2004 des
     Europäischen Parlaments und des Rates und zur Änderung der
-    Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 (ABl. EU Nr. L
-    338 S. 27), die zuletzt durch die Verordnung (EG) Nr. 1250/2008 (ABl.
-    L 337 vom 16.12.2008, S. 31) geändert worden ist,
+    Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 (ABl. L 338 vom
+    22\.12.2005, S. 27), die zuletzt durch die Durchführungsverordnung (EU)
+    Nr. 809/2011 (ABl. L 207 vom 12.8.2011, S. 1) geändert worden ist,
 
 
 7.  Verordnung (EG) Nr. 2075/2005 der Kommission vom 5. Dezember 2005 mit
     spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf
-    Trichinen (ABl. EU Nr. L 338 S. 60), zuletzt geändert durch die
-    Verordnung (EG) Nr. 1245/2007 der Kommission vom 24. Oktober 2007
-    (ABl. EU Nr. L 281 S. 19),
+    Trichinen (ABl. L 338 vom 22.12.2005, S. 60), die zuletzt durch die
+    Durchführungsverordnung (EU) Nr. 1109/2011 (ABl. L 287 vom 4.11.2011,
+    S. 23) geändert worden ist,
 
 
 8.  Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur
@@ -799,9 +832,10 @@ Fassung.
     Parlaments und des Rates im Hinblick auf verstärkte amtliche
     Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel
     nicht tierischen Ursprungs und zur Änderung der Entscheidung
-    2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11), die zuletzt durch die
-    Verordnung (EU) Nr. 187/2011 (ABl. L 53 vom 26.2.2011, S. 45) geändert
-    worden ist,
+    2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11, L 132 vom 19.5.2011, S.
+    19, L 287 vom 4.11.2011, S. 42), die zuletzt durch die
+    Durchführungsverordnung (EU) Nr. 514/2012 (ABl. L 158 vom 19.6.2012,
+    S. 2) geändert worden ist,
 
 
 9.  Verordnung (EG) Nr. 1135/2009 der Kommission vom 25. November 2009 mit
@@ -822,14 +856,25 @@ Fassung.
     Sondervorschriften für die Einfuhr bestimmter Lebensmittel aus
     bestimmten Drittländern wegen des Risikos einer Aflatoxin-
     Kontamination und zur Aufhebung der Entscheidung 2006/504/EG (ABl. L
-    313 vom 28.11.2009, S. 40),
+    313 vom 28.11.2009, S. 40, L 249 vom 27.9.2011, S. 21), die durch die
+    Durchführungsverordnung (EU) Nr. 274/2012 (ABl. L 90 vom 28.3.2012, S.
+    14) geändert worden ist,
 
 
-12. Verordnung (EU) Nr. 961/2011 der Kommission vom 27. September 2011 zum
-    Erlass von Sondervorschriften für die Einfuhr von Lebens- und
+12. Durchführungsverordnung (EU) Nr. 931/2011 der Kommission vom 19.
+    September 2011 über die mit der Verordnung (EG) Nr. 178/2002 des
+    Europäischen Parlaments und des Rates festgelegten
+    Rückverfolgbarkeitsanforderungen an Lebensmittel tierischen Ursprungs
+    (ABl. L 242 vom 20.9.2011, S. 2, L 327 vom 9.12.2011, S. 70),
+
+
+13. Durchführungsverordnung (EU) Nr. 284/2012 der Kommission vom 29. März
+    2012 mit Sondervorschriften für die Einfuhr von Lebens- und
     Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall
-    im Kernkraftwerk Fukushima und zur Aufhebung der Verordnung (EU) Nr.
-    297/2011 (ABl. L 252 vom 28.9.2011, S. 10).
+    im Kernkraftwerk Fukushima und zur Aufhebung der
+    Durchführungsverordnung (EU) Nr. 961/2011 (ABl. L 92 vom 30.3.2012, S.
+    16), die durch die Durchführungsverordnung (EU) Nr. 561/2012 (ABl. L
+    168 vom 28.6.2012, S. 17) geändert worden ist.
 
 
 

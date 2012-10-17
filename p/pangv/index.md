@@ -380,8 +380,8 @@ dieser Vorschrift entsprechen.
 
 (2) Neben dem Eingang der Gaststätte ist ein Preisverzeichnis
 anzubringen, aus dem die Preise für die wesentlichen angebotenen
-Speisen und und Getränke ersichtlich sind. Ist der Gaststättenbetrieb
-Teil eines Handelsbetriebes, so genügt das Anbringen des
+Speisen und Getränke ersichtlich sind. Ist der Gaststättenbetrieb Teil
+eines Handelsbetriebes, so genügt das Anbringen des
 Preisverzeichnisses am Eingang des Gaststättenteils.
 
 (3) In Beherbergungsbetrieben ist beim Eingang oder bei der

@@ -1988,8 +1988,8 @@ obersten Landesgesundheitsbehörde öffentlich empfohlenen Schutzimpfung
 oder einer Impfung nach § 17 Abs. 4 des Soldatengesetzes dürfen
 Impfstoffe verwendet werden, die Mikroorganismen enthalten, welche von
 den Geimpften ausgeschieden und von anderen Personen aufgenommen
-werden können.  Das Grundrecht der körperlichen Unversehrtheit
-(Artikel 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
+werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel
+2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
 
 ### § 22 Impfausweis

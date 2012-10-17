@@ -5752,8 +5752,8 @@ wird bestraft, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 69a Absatz 1 oder 3, jeweils auch in Verbindung mit Absatz
     4, entgegen § 69b Absatz 1, auch in Verbindung mit Absatz 3, entgegen
-    entgegen § 69d Abs. 1, auch in Verbindung mit Abs. 2, entgegen § 69e
-    Abs. 1, auch in Verbindung mit Abs. 3, entgegen § 69f Abs. 1, auch in
+    § 69d Abs. 1, auch in Verbindung mit Abs. 2, entgegen § 69e Abs. 1,
+    auch in Verbindung mit Abs. 3, entgegen § 69f Abs. 1, auch in
     Verbindung mit Abs. 4, entgegen § 69g Abs. 1, auch in Verbindung mit
     Abs. 5, entgegen § 69h Abs. 1, auch in Verbindung mit Abs. 5, entgegen
     § 69i Abs. 1, auch in Verbindung mit Abs. 7, entgegen § 69j Abs. 1,

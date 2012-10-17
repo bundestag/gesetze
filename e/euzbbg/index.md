@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 311
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.9.2009 I 3026
+:   Art. 2 G v. 13.9.2012 II 1006
 
 
 ## Eingangsformel
@@ -88,7 +88,19 @@ Gesetzes sind insbesondere:
 13. Interinstitutionelle Vereinbarungen der Organe der Europäischen Union,
 
 
-14. Haushalts- und Finanzplanung der Europäischen Union.
+14. Haushalts- und Finanzplanung der Europäischen Union,
+
+
+15. Entwürfe zu völkerrechtlichen Verträgen und sonstigen Vereinbarungen,
+    wenn sie in einem Ergänzungs- oder sonstigen besonderen Näheverhältnis
+    zum Recht der Europäischen Union stehen,
+
+
+16. Beratungsgegenstände, Vorschläge und Initiativen, die im Rahmen des
+    Vertrags über Stabilität, Koordinierung und Steuerung in der
+    Wirtschafts- und Währungsunion (Fiskalvertrag) und sonstiger, die
+    Wirtschafts- und Währungsunion betreffenden völkerrechtlichen Verträge
+    und Vereinbarungen behandelt werden.
 
 
 
@@ -100,6 +112,11 @@ Verteidigungspolitik.
 Initiativen der Europäischen Union, bei denen eine Mitwirkung des
 Bundestages nach dem Integrationsverantwortungsgesetz vom 22.
 September 2009 (BGBl. I S. 3022) erforderlich ist.
+
+(3) Unterrichtungspflichten nach diesem Gesetz gelten insbesondere
+auch für die Eurogruppe, Eurogipfel und Treffen der Mitgliedstaaten im
+Rahmen von Absatz 1 Nummer 15 und 16 sowie für alle diese jeweils
+vorbereitenden Arbeitsgruppen und Ausschüsse.
 
 
 ## § 4 Grundsätze der Unterrichtung
@@ -237,10 +254,9 @@ vorliegende vorbereitende Papiere der Europäischen Kommission und des
 Rates zur Verfügung. Dies gilt auch für inoffizielle Dokumente (non
 papers).
 
-(4) Über die Sitzungen der Eurogruppe, des Politischen und
-Sicherheitspolitischen Komitees sowie des Wirtschafts- und
-Finanzausschusses unterrichtet die Bundesregierung die zuständigen
-Ausschüsse des Bundestages mündlich.
+(4) Über die Sitzungen des Politischen und Sicherheitspolitischen
+Komitees unterrichtet die Bundesregierung die zuständigen Ausschüsse
+des Bundestages mündlich.
 
 (5) Vor Tagungen des Europäischen Rates und des Rates unterrichtet die
 Bundesregierung den Bundestag schriftlich und mündlich zu jedem

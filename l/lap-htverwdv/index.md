@@ -69,7 +69,7 @@ und Amtsbezeichnungen:
 
 *    *   2.
 
-    *   in der Probezeit bis bis zur Anstellung
+    *   in der Probezeit bis zur Anstellung
 
     *   Baurätin zur Anstellung (z. A.)/Baurat zur Anstellung (z. A.),
 
