@@ -1,6 +1,6 @@
-Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO
 ---
-Title: -Emissionen und Stromverbrauch neuer Personenkraftwagen
+Title: Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO 2 -Emissionen
+  und Stromverbrauch neuer Personenkraftwagen
 jurabk: Pkw-EnVKV
 layout: default
 origslug: pkw-envkv
@@ -8,7 +8,7 @@ slug: pkw-envkv
 
 ---
 
-# -Emissionen und Stromverbrauch neuer Personenkraftwagen (Pkw-EnVKV)
+# Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch neuer Personenkraftwagen (Pkw-EnVKV)
 
 Ausfertigungsdatum
 :   2004-05-28
@@ -252,9 +252,8 @@ Im Sinne dieser Verordnung
 
 
 
-Hinweis auf Kraftstoffverbrauch, CO
 
-## § 3 -Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
+## § 3 Hinweis auf Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
 
 (1) Wer einen neuen Personenkraftwagen ausstellt oder zum Kauf oder
 Leasing anbietet, hat dafür Sorge zu tragen, dass
@@ -295,9 +294,8 @@ Personenkraftwagen liefern, auf Anforderung unverzüglich und
 unentgeltlich die Angaben zu übermitteln, die erforderlich sind, um
 den Hinweis und den Aushang nach Absatz 1 zu erstellen.
 
-CO
 
-## § 3a -Effizienzklassen
+## § 3a CO 2 -Effizienzklassen
 
 (1) Der Hersteller hat die CO
 2             -Effizienz des Fahrzeugs durch Angabe einer CO
@@ -471,9 +469,8 @@ den Klassen insgesamt überprüfen und gegebenenfalls die
 Energieverbrauchskennzeichnung für Personenkraftwagen durch Änderung
 dieser Verordnung anpassen.
 
-Leitfaden zu Kraftstoffverbrauch, CO
 
-## § 4 -Emissionen und Stromverbrauch
+## § 4 Leitfaden zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch
 
 (1) Die Hersteller bestimmen eine Stelle, die in ihrem Auftrag einen
 einheitlichen Leitfaden über den Kraftstoffverbrauch, die CO
@@ -656,10 +653,8 @@ folgenden Kalendermonats in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3 Abs. 1 Nr. 1)                  Hinweis auf Kraftstoffverbrauch
-und CO
 
-## Anlage 1 -Emissionen und Stromverbrauch
+## Anlage 1 (zu § 3 Abs. 1 Nr. 1) Hinweis auf Kraftstoffverbrauch und CO 2 -Emissionen und Stromverbrauch
 
 (Fundstelle: BGBl. I 2011, 1760 - 1765)
 
@@ -976,10 +971,8 @@ Effizienzklasse A +++**
     Bundesanzeiger die Bezugsquelle bekannt geben, über die das Formblatt
     unentgeltlich elektronisch bezogen werden kann.
 [^F775581_02_BJNR103700004BJNE001201140]: 
-(zu § 3 Abs. 1 Nr. 2)                  Aushang am Verkaufsort über
-Kraftstoffverbrauch, CO
 
-## Anlage 2 -Emissionen und den Stromverbrauch
+## Anlage 2 (zu § 3 Abs. 1 Nr. 2) Aushang am Verkaufsort über Kraftstoffverbrauch, CO 2 -Emissionen und den Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1042;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1120,10 +1113,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 4 Abs. 2 Satz 1)                  Leitfaden über
-Kraftstoffverbrauch, CO
 
-## Anlage 3 -Emissionen und Stromverbrauch
+## Anlage 3 (zu § 4 Abs. 2 Satz 1) Leitfaden über Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1043;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1234,9 +1225,8 @@ folgende Angaben:
 
 Der Leitfaden soll das Format DIN A4 nicht überschreiten.
 
-(zu § 5)                  Angaben über Kraftstoffverbrauch und CO
 
-## Anlage 4 -Emissionen in der Werbung
+## Anlage 4 (zu § 5) Angaben über Kraftstoffverbrauch und CO 2 -Emissionen in der Werbung
 
 (Fundstelle: BGBl. I 2004, 1044;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
