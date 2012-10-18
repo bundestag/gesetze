@@ -810,17 +810,15 @@ als im Unternehmen Verantwortlicher
 
 
 
-(zu § 1)
 
-### Anlage 1 Geltungsbereich der Verordnung
+### Anlage 1 (zu § 1) Geltungsbereich der Verordnung
 
 (Fundstelle: BGBl. I 2007, 1312)
 
 ( ... nicht darstellbare topographische Karte )
 
-(zu § 4)
 
-### Anlage 2 Umsetzung von Entscheidungen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
+### Anlage 2 (zu § 4) Umsetzung von Entscheidungen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
 
 (Fundstelle: BGBl. I 2008, 1093 - 1095,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1070,9 +1068,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 9 Abs. 3)
 
-### Anlage 3 Maßnahmen, die als umfangreiche Erneuerung oder Umrüstung einzustufen sind
+### Anlage 3 (zu § 9 Abs. 3) Maßnahmen, die als umfangreiche Erneuerung oder Umrüstung einzustufen sind
 
 (Fundstelle: BGBl. I 2007, 1315 - 1317)
 

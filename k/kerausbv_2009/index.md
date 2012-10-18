@@ -676,9 +676,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 4 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Keramiker und zur Keramikerin
+## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Keramiker und zur Keramikerin
 
 (Fundstelle: BGBl. I 2009, 1181 -1186)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

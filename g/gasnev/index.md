@@ -1270,9 +1270,8 @@ Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 6 Abs. 5 Satz 1)
 
-### Anlage 1 Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
+### Anlage 1 (zu § 6 Abs. 5 Satz 1) Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 2207 - 2208)
 
@@ -1619,9 +1618,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 12 Satz 1)
 
-### Anlage 2 Haupt- und Nebenkostenstellen
+### Anlage 2 (zu § 12 Satz 1) Haupt- und Nebenkostenstellen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2209
 

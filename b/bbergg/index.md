@@ -8655,10 +8655,8 @@ treten die §§ 32, 65 bis 68, 122 Abs. 4, §§ 123, 125 Abs. 4, § 129
 Abs. 2, § 131 Abs. 2, §§ 141 und 176 Abs. 3 Satz 2 und 3 am Tage nach
 der Verkündung des Gesetzes in Kraft.
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
-(BGBl. II 1990, 889, 1003)
 
-#### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1003) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

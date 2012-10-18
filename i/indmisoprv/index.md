@@ -730,9 +730,8 @@ können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 Diese Verordnung tritt am 1. September 1993 in Kraft.
 
-(zu § 7 Absatz 3)
 
-## Anlage Muster
+## Anlage (zu § 7 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 1993, 1123 - 1124,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

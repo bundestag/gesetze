@@ -297,9 +297,8 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 Der Bundesminister der Justiz
 
-Formblatt
 
-## Anlage (Muster)
+## Anlage Formblatt (Muster)
 
 (Fundstelle: BGBl. I 1987, 772;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

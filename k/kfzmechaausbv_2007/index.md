@@ -725,9 +725,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugmechatroniker/zur Kraftfahrzeugmechatronikerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugmechatroniker/zur Kraftfahrzeugmechatronikerin
 
 (Fundstelle: BGBl. I 2007, 1506 - 1516)
 

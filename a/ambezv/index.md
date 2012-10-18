@@ -62,9 +62,8 @@ den bisherigen Bezeichnungen in den Verkehr gebracht werden.
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
-(zu § 3)
 
-## Anlage Synonym- und Verweisregister
+## Anlage (zu § 3) Synonym- und Verweisregister
 
 (Inhalt: 3 nicht erfasste Anlagenbände (insges. 2839 Seiten),
 Fundstelle: BGBl. I 2001, 3751

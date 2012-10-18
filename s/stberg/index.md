@@ -5023,9 +5023,8 @@ Kraft.
 (2) § 166 Abs. 2 tritt am Tage nach der Verkündung des Gesetzes in
 Kraft.
 
-(zu § 146 Satz 1)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 146 Satz 1) Gebührenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3434 u. 3435)
 

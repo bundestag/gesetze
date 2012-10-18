@@ -366,9 +366,8 @@ Parlaments und des Rates über die Umwelthaftung zur Vermeidung und
 Sanierung von Umweltschäden vom 10. Mai 2007 (BGBl. I S. 666)
 anzuwenden.
 
-(zu § 3 Abs. 1)
 
-## Anlage 1 Berufliche Tätigkeiten
+## Anlage 1 (zu § 3 Abs. 1) Berufliche Tätigkeiten
 
 
 1.  Betrieb von Anlagen, für den eine Genehmigung gemäß der Richtlinie
@@ -485,9 +484,8 @@ anzuwenden.
 
 
 
-(zu § 3 Abs. 3 Nr. 3)
 
-## Anlage 2 Internationale Abkommen
+## Anlage 2 (zu § 3 Abs. 3 Nr. 3) Internationale Abkommen
 
 
 a)  Internationales Übereinkommen vom 27. November 1992 über die
@@ -517,9 +515,8 @@ e)  Übereinkommen vom 10. Oktober 1989 über die zivilrechtliche Haftung
 
 
 
-(zu § 3 Abs. 3 Nr. 5)
 
-## Anlage 3 Internationale Übereinkünfte
+## Anlage 3 (zu § 3 Abs. 3 Nr. 5) Internationale Übereinkünfte
 
 
 a)  Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber

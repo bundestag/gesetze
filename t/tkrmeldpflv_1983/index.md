@@ -65,9 +65,8 @@ nicht rechtzeitig erstattet.
 ## § 5 (Inkrafttreten)
 
 
-(zu § 1)
 
-## Anlage Meldepflichtige Tierkrankheiten/Erregernachweise
+## Anlage (zu § 1) Meldepflichtige Tierkrankheiten/Erregernachweise
 
 (Fundstelle: BGBl. I 2011, 253 - 254;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

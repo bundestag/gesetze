@@ -335,9 +335,8 @@ Dezember 2012 außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Absatz 4)
 
-## Anlage 1 Anzahl der Kehrungen und Überprüfungen
+## Anlage 1 (zu § 1 Absatz 4) Anzahl der Kehrungen und Überprüfungen
 
 (Fundstelle: BGBl. I 2009, 1295 - 1296)
 
@@ -608,9 +607,8 @@ Der Bundesrat hat zugestimmt.
 (Fundstelle: BGBl. I 2011, 1078 - 1082)
 
 
-(zu § 6)
 
-## Anlage 3 Gebührenverzeichnis
+## Anlage 3 (zu § 6) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 1301 - 1304; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1661,9 +1659,8 @@ vgl. Fußnote)
 
 
 
-(zu § 7)
 
-## Anlage 4 Begriffsbestimmungen
+## Anlage 4 (zu § 7) Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2009, 1305 - 1306; bzgl. einzelner Änderungen
 vgl. Fußnote)

@@ -406,9 +406,8 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-(zu § 6)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
+## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
 
 (Fundstelle: BGBl. I 1999, 1000 - 1008)
 

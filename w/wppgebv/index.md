@@ -76,9 +76,8 @@ beträgt in den Fällen der Sätze 1 bis 3 mindestens 50 Euro.
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
-(zu § 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2010, 1826 - 1827;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

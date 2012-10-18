@@ -837,7 +837,7 @@ nachzuholen.
 Der Bundesrat hat zugestimmt.
 
 
-### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger \*)
+### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

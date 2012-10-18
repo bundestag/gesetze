@@ -536,9 +536,8 @@ entgegenstehen, bleibt unberührt.
 ## Abschnitt 4 - (Inkrafttreten, Außerkrafttreten)
 
 
-(zu § 12 Absatz 1)
 
-### Anlage Untersuchung wild lebender Tiere, ausgenommen Fledermäuse, zur Kontrolle des Impferfolges
+### Anlage (zu § 12 Absatz 1) Untersuchung wild lebender Tiere, ausgenommen Fledermäuse, zur Kontrolle des Impferfolges
 
 (Fundstelle: BGBl. I 2010, 1319)
 

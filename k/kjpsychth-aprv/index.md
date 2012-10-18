@@ -933,9 +933,8 @@ Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3 Abs. 1)
 
-### Anlage 1 Theoretische Ausbildung
+### Anlage 1 (zu § 3 Abs. 1) Theoretische Ausbildung
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 1998, 3768)

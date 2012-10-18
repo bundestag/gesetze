@@ -552,9 +552,8 @@ befinden.
 ### Unterabschnitt 2 - Posten der Passivseite
 
 
-Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1),
 
-#### § 21 Verbindlichkeiten gegenüber Kunden (Nr. 2)
+#### § 21 Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1), Verbindlichkeiten gegenüber Kunden (Nr. 2)
 
 (1) Als Verbindlichkeiten gegenüber Kreditinstituten sind alle Arten
 von Verbindlichkeiten aus Bankgeschäften sowie alle Verbindlichkeiten
@@ -1433,18 +1432,15 @@ entsprechend anzuwenden.
 
 (Inkrafttreten, Aufhebung von Rechtsvorschriften)
 
-\*Fe Jahresbilanz \*/ zum ..........................
 
-### Formblatt 1 der .............................................
+### Formblatt 1 *Fe Jahresbilanz */ zum .......................... der .............................................
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1998, 3672 - 3675;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
 
-(Kontoform)
-Gewinn- und Verlustrechnung
 
-### Formblatt 2 der ................................................ für die Zeit vom ............... bis ...............
+### Formblatt 2 (Kontoform) Gewinn- und Verlustrechnung der ................................................ für die Zeit vom ............... bis ...............
 
 (Fundstelle: BGBl. I 1998, S. 3676 - 3678;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2548,10 +2544,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(Staffelform)
-Gewinn- und Verlustrechnung
 
-### Formblatt 3 der ................................................ für die Zeit vom ............... bis ...............
+### Formblatt 3 (Staffelform) Gewinn- und Verlustrechnung der ................................................ für die Zeit vom ............... bis ...............
 
 (Fundstelle: BGBl. I 1998, S. 3679 - 3681;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

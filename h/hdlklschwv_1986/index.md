@@ -230,9 +230,8 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(zu § 2 Absatz 5 Nummer 2)
 
-## Anlage 2 Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
+## Anlage 2 (zu § 2 Absatz 5 Nummer 2) Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
 
 (Fundstelle: BGBl. I 2011, 1917)
 
@@ -297,9 +296,8 @@ Messlinie im Kotelettquerschnitt zwischen der zweit- und drittletzten
 Rippe
 
 ![bgbl1_2011_j1914-1_0010.jpg](bgbl1_2011_j1914-1_0010.jpg)
-(zu § 2 Absatz 5 Nummer 3)
 
-## Anlage 3 Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
+## Anlage 3 (zu § 2 Absatz 5 Nummer 3) Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
 
 (Fundstelle: BGBl. I 2011, 1918)
 

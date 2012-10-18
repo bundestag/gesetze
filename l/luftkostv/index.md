@@ -183,9 +183,8 @@ mehr als ein Zehntel überschreiten.
 
 Der Bundesminister für Verkehr
 
-Gebührenverzeichnis
 
-## Anlage (zu § 2 Absatz 1)
+## Anlage Gebührenverzeichnis (zu § 2 Absatz 1)
 
 (Fundstelle: BGBl. I 2010, 1225 - 1242)
 

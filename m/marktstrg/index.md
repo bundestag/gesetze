@@ -527,9 +527,8 @@ Landesregierungen übertragen.
 Dieses Gesetz tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-(zu § 1 Abs. 2)
 
-## Anlage Liste der Erzeugnisse, für die Erzeugergemeinschaften gebildet und anerkannt werden können
+## Anlage (zu § 1 Abs. 2) Liste der Erzeugnisse, für die Erzeugergemeinschaften gebildet und anerkannt werden können
 
 Fundstelle des Originaltextes: BGBl. I 1990, 1861 - 1862;
 bzgl. der einzelnen Änderungen vgl. Fußnote

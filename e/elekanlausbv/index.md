@@ -335,9 +335,8 @@ erbracht sind.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Elektroanlagenmonteur/zur Elektroanlagenmonteurin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroanlagenmonteur/zur Elektroanlagenmonteurin
 
 (Fundstelle: BGBl. I 1997, S. 1365 - 1370)
 

@@ -5804,16 +5804,14 @@ II.2 Schallsignale der Fahrzeuge
 
 
 
-Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung
 
-### Anlage III (zu § 1 Abs. 5)
+### Anlage III Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung (zu § 1 Abs. 5)
 
 (Inhalt: nicht darstellbare kartographische Karte;
 Fundstelle: BGBl. I 1998, 3264)
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1108)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

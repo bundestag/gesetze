@@ -1,7 +1,6 @@
-Vorschriften für Signallichter, Radarausrüstungen, Wendeanzeiger sowie
-Kompasse und Steuerkurstransmitter
 ---
-Title: (Anhang IX zur Binnenschiffsuntersuchungsordnung)
+Title: Vorschriften für Signallichter, Radarausrüstungen, Wendeanzeiger sowie Kompasse
+  und Steuerkurstransmitter (Anhang IX zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh IX
 layout: default
 origslug: binschuo2008anh_ix
@@ -9,7 +8,7 @@ slug: binschuo2008anh_ix
 
 ---
 
-# (Anhang IX zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IX)
+# Vorschriften für Signallichter, Radarausrüstungen, Wendeanzeiger sowie Kompasse und Steuerkurstransmitter (Anhang IX zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IX)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -7088,10 +7087,8 @@ durch die anerkannte Fachfirma der zuständigen Behörde übersandt.
 
 
 
-Muster der Zusammenstellung der Prüfinstitute, der zugelassenen Geräte
-sowie der zugelassenen Einbaufirmen
 
-## Teil VI - nach Teil IV und Teil V
+## Teil VI - Muster der Zusammenstellung der Prüfinstitute, der zugelassenen Geräte sowie der zugelassenen Einbaufirmen nach Teil IV und Teil V
 
 
 ## A. Zuständige Prüfbehörden
@@ -7262,10 +7259,8 @@ sowie der zugelassenen Einbaufirmen
     *
 
 
-   Anerkannte Fachfirmen für den Einbau oder Austausch von Radaranlagen
-und Wendeanzeigern
 
-## D. nach Teil V § 3
+## D. Anerkannte Fachfirmen für den Einbau oder Austausch von Radaranlagen und Wendeanzeigern nach Teil V § 3
 
 
 *    *   Anmerkung:

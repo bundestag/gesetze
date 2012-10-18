@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über die Grundqualifikation und Weiterbildung der Fahrer  bestimmter
+Title: Gesetz über die Grundqualifikation und Weiterbildung der Fahrer bestimmter
   Kraftfahrzeuge für den Güterkraft- oder Personenverkehr
 jurabk: BKrFQG
 layout: default
@@ -8,7 +8,7 @@ slug: bkrfqg
 
 ---
 
-# Gesetz über die Grundqualifikation und Weiterbildung der Fahrer  bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr (BKrFQG)
+# Gesetz über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr (BKrFQG)
 
 Ausfertigungsdatum
 :   2006-08-14

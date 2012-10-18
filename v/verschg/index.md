@@ -18,9 +18,8 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 55 G v. 17.12.2008 I 2586
 
-Voraussetzungen der Todeserklärung.
 
-## Abschnitt I - Lebens- und Todesvermutungen
+## Abschnitt I - Voraussetzungen der Todeserklärung. Lebens- und Todesvermutungen
 
 
 
@@ -718,16 +717,15 @@ Gesetzes gleich.
 
 
 
-## Abschnitt VI - 
+## Abschnitt VI -
 
 
 
 ### (XXXX) §§ 55 bis 58 (weggefallen)
 
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 953)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 953)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

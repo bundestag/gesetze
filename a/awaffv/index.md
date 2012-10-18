@@ -2162,9 +2162,8 @@ Diese Verordnung tritt am 1. Dezember 2003 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 15 Abs. 2 Nr. 2)
 
-### Anlage Waffen- und Munitionsarten
+### Anlage (zu § 15 Abs. 2 Nr. 2) Waffen- und Munitionsarten
 
 ( Fundstelle: BGBl. I 2008, 438 - 439 )
 

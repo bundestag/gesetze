@@ -2174,10 +2174,8 @@ Juli 2003 für gefährdete Bezirke geltenden Vorschriften anzuwenden.
 ### § 26 (Inkrafttreten)
 
 
-(zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc
-Dreifachbuchstabe aaa)
 
-### Anlage Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung
+### Anlage (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc Dreifachbuchstabe aaa) Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung
 
 (Fundstelle: BGBl. I 2011, 1975)
 

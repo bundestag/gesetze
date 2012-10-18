@@ -45,9 +45,8 @@ Gesundheitsvorschriften übertragen ist. Soweit er Aufgaben nach dieser
 Verordnung zu erfüllen hat, untersteht er der zuständigen
 Gesundheitsbehörde.
 
-Auskunfts- und Meldepflichten
 
-## § 2 (Zu Artikel 37 Abs. 1 und Artikel 85 der Internationalen Gesundheitsvorschriften)
+## § 2 Auskunfts- und Meldepflichten (Zu Artikel 37 Abs. 1 und Artikel 85 der Internationalen Gesundheitsvorschriften)
 
 (1) Soweit die Allgemeine Erklärung für Luftfahrzeuge verlangt wird,
 nimmt die für die polizeiliche Kontrolle des grenzüberschreitenden
@@ -60,9 +59,8 @@ Person an Bord eines Luftfahrzeugs befindet oder daß das Luftfahrzeug
 als seuchenverdächtig anzusehen ist, so ist die zuständige
 Gesundheitsbehörde zu unterrichten.
 
-Maßnahmen bei der Ankunft
 
-## § 3 (Zu den Artikeln 39, 40 Abs. 1, Artikeln 42, 58, 63 und 80 der Internationalen Gesundheitsvorschriften)
+## § 3 Maßnahmen bei der Ankunft (Zu den Artikeln 39, 40 Abs. 1, Artikeln 42, 58, 63 und 80 der Internationalen Gesundheitsvorschriften)
 
 (1) Ein Luftfahrzeug, das aus einem Infektionsgebiet kommt oder eine
 infizierte Person an Bord hat, darf im Geltungsbereich dieser
@@ -86,9 +84,8 @@ Wasser ist, wenn es die Gesundheitsbehörde für verseucht hält, zu
 desinfizieren und zu entfernen; danach sind die Wasserbehälter zu
 desinfizieren.
 
-Nachweis des Pockenschutzes
 
-## § 4 (Zu Artikel 78 der Internationalen Gesundheitsvorschriften)
+## § 4 Nachweis des Pockenschutzes (Zu Artikel 78 der Internationalen Gesundheitsvorschriften)
 
 (1) Eine Person, die sich innerhalb eines Zeitraums von vierzehn Tagen
 vor ihrer Ankunft in einem Land, das ganz oder zum Teil

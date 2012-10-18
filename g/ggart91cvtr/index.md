@@ -236,9 +236,8 @@ IT-Planungsrats übertragen werden.
 
 ## Abschnitt II - Gemeinsame Standards und Sicherheitsanforderungen, Informationsaustausch
 
-Festlegung von
 
-### § 3 IT-Interoperabilitäts- und IT-Sicherheitsstandards
+### § 3 Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards
 
 (1)
 1             Für den im Rahmen ihrer Aufgabenerfüllung notwendigen
@@ -315,9 +314,8 @@ auf der Grundlage dieses Vertrages geschlossenen Vereinbarungen für
 die übrigen Vertragspartner vorbehaltlich der Regelung des § 7 Absatz
 2 unberührt.
 
-Inkrafttreten,
 
-### § 7 Außerkrafttreten, Übergangsregelung
+### § 7 Inkrafttreten, Außerkrafttreten, Übergangsregelung
 
 (1)
 1             Dieser Vertrag tritt am 1. April 2010 in Kraft.

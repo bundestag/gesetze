@@ -342,9 +342,8 @@ Gleichzeitig tritt die Betriebsanlagenverordnung vom 12. Januar 1994
 (VkBl. 1994 S. 249), die zuletzt durch die Verordnung vom 31. März
 2004 {VkBl. 2004 S. 287) geändert worden ist, außer Kraft.
 
-(zu § 2 Absatz 3, § 3 Absatz 2 und § 4 Absatz 4)
 
-## Anlage Schilder zur Kennzeichnung der Verbote
+## Anlage (zu § 2 Absatz 3, § 3 Absatz 2 und § 4 Absatz 4) Schilder zur Kennzeichnung der Verbote
 
 (Fundstelle: VkBl. 2010, 286 - 287)
 

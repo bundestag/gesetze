@@ -214,9 +214,8 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 Der Bundesrat hat zugestimmt
 
-(zu § 1 Abs. 1)
 
-## Anlage Bußgeldkatalog
+## Anlage (zu § 1 Abs. 1) Bußgeldkatalog
 
 (Fundstelle: BGBl. I 2001, 3035 - 3067;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6959,10 +6958,8 @@ Abschnitt II
 
 
 
-(zu Nr. 11 der Anlage)
-Tabelle 1
 
-## Anhang Geschwindigkeitsüberschreitungen
+## Anhang (zu Nr. 11 der Anlage) Tabelle 1 Geschwindigkeitsüberschreitungen
 
 Fundstelle: BGBl. I 2001, 3068 - 3069;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -7493,10 +7490,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu Nr. 12 der Anlage)
-Tabelle 2
 
-## Anhang Nichteinhalten des Abstandes von einem vorausfahrenden Fahrzeug
+## Anhang (zu Nr. 12 der Anlage) Tabelle 2 Nichteinhalten des Abstandes von einem vorausfahrenden Fahrzeug
 
 Fundstelle: BGBl. I 2009, 17 - 18
 
@@ -7660,10 +7655,8 @@ Fundstelle: BGBl. I 2009, 17 - 18
 
 
 
-(zu Nrn. 198 und 199 der Anlage)
-Tabelle 3
 
-## Anhang Überschreiten der zulässigen Achslast oder des zulässigen Gesamtgewichts von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen sowie der Anhängelast hinter Kraftfahrzeugen
+## Anhang (zu Nrn. 198 und 199 der Anlage) Tabelle 3 Überschreiten der zulässigen Achslast oder des zulässigen Gesamtgewichts von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen sowie der Anhängelast hinter Kraftfahrzeugen
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 3071)
 
@@ -7845,10 +7838,8 @@ Tabelle 3
 
 
 
-(zu § 3 Abs. 3)
-Tabelle 4
 
-## Anhang Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder Sachbeschädigung
+## Anhang (zu § 3 Abs. 3) Tabelle 4 Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder Sachbeschädigung
 
 (Fundstelle: BGBl. I 2009, 19 - 20;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

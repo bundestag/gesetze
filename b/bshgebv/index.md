@@ -191,9 +191,8 @@ Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Dezember 2001
 (BGBl. I S. 4081), die durch Artikel 2 der Verordnung vom 19.
 September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
-(zu § 2 Absatz 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
 
 
 *    *   Lfd. Nr.
@@ -884,9 +883,8 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
 
 
-zur Anlage
 
-## Anhang 1 Katalog Geräte Bordprüfung
+## Anhang 1 zur Anlage Katalog Geräte Bordprüfung
 
 
 *    *   Gerätebezeichnung
@@ -1013,9 +1011,8 @@ zur Anlage
 
 
 
-zur Anlage
 
-## Anhang 2 Zuordnung von Geräten zu Aufwandskategorien
+## Anhang 2 zur Anlage Zuordnung von Geräten zu Aufwandskategorien
 
 **Kategorie A**
 

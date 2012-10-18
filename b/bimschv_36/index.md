@@ -233,9 +233,8 @@ DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth
 Verlag GmbH, Berlin, erschienen und in der Deutschen
 Nationalbibliothek archivmäßig gesichert hinterlegt.
 
-(zu § 4)
 
-## Anlage Nachweis der Einhaltung der Normen
+## Anlage (zu § 4) Nachweis der Einhaltung der Normen
 
 (Fundstelle: BGBl. I 2011, 1106 - 1107)
 

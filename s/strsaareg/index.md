@@ -19,9 +19,8 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 G v. 8.12.2010 I 1864
 
-Allgemeine Grundsätze
 
-## Erster Teil - Allgemeines Abgabenrecht
+## Erster Teil - Allgemeine Grundsätze Allgemeines Abgabenrecht
 
 
 

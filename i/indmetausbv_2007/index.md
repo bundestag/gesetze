@@ -1552,9 +1552,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu den §§ 8, 12, 16, 20 und 24)
 
-### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
+### Anlage 1 (zu den §§ 8, 12, 16, 20 und 24) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
 
 (Fundstelle: BGBl. I 2007, 1610 - 1612)
 **Gemeinsame Kernqualifikationen**
@@ -1949,9 +1948,8 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-(zu § 8)
 
-### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
+### Anlage 2 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
 
 (Fundstelle: BGBl. I 2007, 1613 - 1622)
 Teil A: Sachliche Gliederung der berufsspezifischen
@@ -3433,9 +3431,8 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-(zu § 12)
 
-### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
+### Anlage 3 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
 
 (Fundstelle: BGBl. I 2007, 1623 - 1636)
 Teil A: Sachliche Gliederung der berufsspezifischen
@@ -5333,11 +5330,10 @@ Teil B: Zeitliche Gliederung ****
 *    *
 
 
-   (zu § 16)
 
-### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
+### Anlage 4 (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
 
-(Fundstelle: BGBl. I 2007, 1637 - 1648)
+   (Fundstelle: BGBl. I 2007, 1637 - 1648)
 Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen ****
 
@@ -7059,9 +7055,8 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-(zu § 20)
 
-### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
+### Anlage 5 (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
 
 (Fundstelle: BGBl. I 2007, 1649 - 1661)
 Ausbildungsrahmenplan
@@ -8859,9 +8854,8 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-(zu § 24)
 
-### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
+### Anlage 6 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
 
 (Fundstelle: BGBl. I 2007, 1662 - 1672)
 Teil A: Sachliche Gliederung der berufsspezifischen

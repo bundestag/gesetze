@@ -1568,11 +1568,10 @@ Beeinträchtigung der Erwerbsfähigkeit
 
 
 
-   Erhöhung der monatlichen Mindestbeträge der Rente
 
-#### § 21b (§ 32 Abs. 2 des Bundesentschädigungsgesetzes)
+#### § 21b Erhöhung der monatlichen Mindestbeträge der Rente (§ 32 Abs. 2 des Bundesentschädigungsgesetzes)
 
-(Fundstelle: BGBl. I 1983, 1318;
+   (Fundstelle: BGBl. I 1983, 1318;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Der monatliche Mindestbetrag der Rente beträgt
@@ -2011,9 +2010,8 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 (2) § 2 tritt mit Wirkung vom 18. September 1965 außer Kraft.
 
-(zu den §§ 13 und 14 der 2. DV-BEG)
 
-### Anlage Besoldungsübersicht
+### Anlage (zu den §§ 13 und 14 der 2. DV-BEG) Besoldungsübersicht
 
 (Fundstelle: BGBl. I 1983, 1318 - 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

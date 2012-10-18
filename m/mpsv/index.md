@@ -460,7 +460,7 @@ dieser Bekanntmachung.
 
 
 
-### § 19 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige  Bundesbehörde
+### § 19 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige Bundesbehörde
 
 Die zuständige Bundesoberbehörde informiert das Bundesministerium für
 Gesundheit unverzüglich über alle eingehenden Meldungen, die

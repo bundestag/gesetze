@@ -258,9 +258,8 @@ Ausbildungszeit gewährt werden.
 #### 2. - Die Ausbildung bei einem Patentanwalt oder bei einem Patentassessor
 
 
-Persönliche Voraussetzungen der Ausbildungsbefugnis,
 
-##### § 10 Aufsicht über ausbildende Patentassessoren
+##### § 10 Persönliche Voraussetzungen der Ausbildungsbefugnis, Aufsicht über ausbildende Patentassessoren
 
 (1) Patentanwälte und Patentassessoren dürfen eine Ausbildung erst
 dann übernehmen, wenn sie fünf Jahre lang als Patentanwalt oder als

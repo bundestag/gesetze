@@ -523,9 +523,8 @@ Höherer Dienst
 [^f776036_06_BJNR009000012BJNE001100000]:     Eingangsamt des höheren nichttechnischen und des höheren technischen
     Postverwaltungsdienstes.
 [^f776036_07_BJNR009000012BJNE001100000]: 
-(zu § 8 Absatz 1 und 3)
 
-## Anlage 2 Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
+## Anlage 2 (zu § 8 Absatz 1 und 3) Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
 
 (Fundstelle: BGBl. I 2012, 95)
 

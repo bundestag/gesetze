@@ -445,9 +445,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 7 Abs. 2)
 
-## Anlage Ergänzende Warnhinweise
+## Anlage (zu § 7 Abs. 2) Ergänzende Warnhinweise
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4437;
 bzgl. der einzelnen Änderungen vgl. Fußnoten

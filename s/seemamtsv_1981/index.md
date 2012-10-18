@@ -407,18 +407,14 @@ bestimmt.
 Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung
 
-(zu § 2)
-Muster des Seefahrtbuches
 
-### Anlage 1 im Format DIN A 6
+### Anlage 1 (zu § 2) Muster des Seefahrtbuches im Format DIN A 6
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1981, 1150 - 1153)
 
-(zu § 8)
-Muster der Musterrolle
 
-### Anlage 2 im Format DIN A 4
+### Anlage 2 (zu § 8) Muster der Musterrolle im Format DIN A 4
 
 Fundstelle des Originaltextes: BGBl. I 1981, 1154 - 1156
 Titelblatt
@@ -560,10 +556,8 @@ einzutragen. Vollendet das Besatzungsmitglied das 18. Lebensjahr, so
 ist der
 Zusatz zu streichen.
 
-(zu § 11 Abs. 3)
-Muster einer Beilage zur Musterrolle
 
-### Anlage 3 im Format DIN A 4
+### Anlage 3 (zu § 11 Abs. 3) Muster einer Beilage zur Musterrolle im Format DIN A 4
 
 
 *    *   <Fundstelle des Originaltextes: BGBl. I 1981, 1157>
@@ -699,9 +693,8 @@ Muster einer Beilage zur Musterrolle
     einzutragen. Vollendet das Besatzungsmitglied das 18. Lebensjahr, so
     ist der Zusatz zu streichen.
 [^BJNR011460981BJNE003400328_001]: 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1110)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1110)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

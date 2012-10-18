@@ -1449,9 +1449,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(§ 21 Abs. 1)
 
-## Anhang 2 Ausschleusungs- und Wartezeiten
+## Anhang 2 (§ 21 Abs. 1) Ausschleusungs- und Wartezeiten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1387 - 1401
 

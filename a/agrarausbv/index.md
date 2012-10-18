@@ -569,9 +569,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 3)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
+## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
 
 (Fundstelle: BGBl. I 2009, 2161 - 2164)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

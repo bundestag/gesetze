@@ -449,9 +449,8 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-(zu § 4 Abs. 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
+## Anlage (zu § 4 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
 
 (Fundstelle: BGBl. I 2002, 2615 - 2621)
 

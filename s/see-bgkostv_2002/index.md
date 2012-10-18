@@ -148,9 +148,8 @@ gelten die Vorschriften der Bundeshaushaltsordnung entsprechend.
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-(zu § 2 Abs. 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I S. 2005, 324 - 335
 

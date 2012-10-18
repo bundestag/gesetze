@@ -390,9 +390,8 @@ eine erneute Sachkundeprüfung bestanden hat.
 
 § 3 Abs. 3 ist erst ab dem 1. November 2009 anzuwenden.
 
-(zu § 7 Abs. 1 und § 12 Abs. 1)
 
-## Anlage 1 Sachkundeprüfung
+## Anlage 1 (zu § 7 Abs. 1 und § 12 Abs. 1) Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2008, 2193 - 2194;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -656,9 +655,8 @@ B.  Verwiegung/Schnittführung
 
 
 
-(zu § 7 Abs. 2 und § 15 Abs. 1)
 
-## Anlage 2 Inhalt des Ausbildungskurses
+## Anlage 2 (zu § 7 Abs. 2 und § 15 Abs. 1) Inhalt des Ausbildungskurses
 
 (Fundstelle: BGBl. I 2008, 2195)
 Der Ausbildungskurs setzt sich aus einem praktischen und einem

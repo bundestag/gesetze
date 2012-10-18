@@ -879,9 +879,8 @@ Diese Verordnung tritt am 22. Mai 2007 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Abs. 3 Satz 2)
 
-### Anlage 1 Inhaltliche Anforderungen an die Sachkundeprüfung
+### Anlage 1 (zu § 1 Abs. 3 Satz 2) Inhaltliche Anforderungen an die Sachkundeprüfung
 
 
 *
@@ -1260,9 +1259,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 3 Abs. 8)
 
-### Anlage 2 Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung "Geprüfter Versicherungsfachmann/-frau IHK" nach § 34d Abs. 2 Nr. 4 / § 34e Abs. 2 der Gewerbeordnung
+### Anlage 2 (zu § 3 Abs. 8) Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung "Geprüfter Versicherungsfachmann/-frau IHK" nach § 34d Abs. 2 Nr. 4 / § 34e Abs. 2 der Gewerbeordnung
 
 Herr/Frau
 ....................................................................

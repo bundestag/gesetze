@@ -1,6 +1,6 @@
 ---
-Title: Verordnung zur Übertragung der Ermächtigung zum Erlass einer  Kostenverordnung
-  für Amtshandlungen des Bundesamtes für Verbraucherschutz und  Lebensmittelsicherheit
+Title: Verordnung zur Übertragung der Ermächtigung zum Erlass einer Kostenverordnung
+  für Amtshandlungen des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
   nach dem EG-Verbraucherschutzdurchsetzungsgesetz
 jurabk: VSchDGErÜbV
 layout: default
@@ -9,7 +9,7 @@ slug: vschdgeruebv
 
 ---
 
-# Verordnung zur Übertragung der Ermächtigung zum Erlass einer  Kostenverordnung für Amtshandlungen des Bundesamtes für Verbraucherschutz und  Lebensmittelsicherheit nach dem EG-Verbraucherschutzdurchsetzungsgesetz (VSchDGErÜbV)
+# Verordnung zur Übertragung der Ermächtigung zum Erlass einer Kostenverordnung für Amtshandlungen des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit nach dem EG-Verbraucherschutzdurchsetzungsgesetz (VSchDGErÜbV)
 
 Ausfertigungsdatum
 :   2006-12-29

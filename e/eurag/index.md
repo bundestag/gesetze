@@ -1019,9 +1019,8 @@ weitere Verfahren nach dem bis zu diesem Tag geltenden Recht.
 in verwaltungsrechtlichen Anwaltssachen nach diesem Gesetz werden nach
 den bis zu diesem Tag geltenden Bestimmungen fortgeführt.
 
-zu § 1
 
-### Anlage Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
+### Anlage zu § 1 Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2075;
 bzgl. der einzelnen Änderungen vgl. Fußnote

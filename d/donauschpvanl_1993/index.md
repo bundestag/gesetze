@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 5 V v. 8.10.1998 I 3148
 
 
-## Inhaltsverzeichnis \*)
+## Inhaltsverzeichnis
 
 
 *    *   **Erster Teil**
@@ -4117,7 +4117,7 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
 
 
 
-##### § 6.04 Begegnen  Grundregeln
+##### § 6.04 Begegnen Grundregeln
 
 
 1.  Beim Begegnen müssen die Bergfahrer unter Berücksichtigung der
@@ -4187,7 +4187,7 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
 
 
 
-##### § 6.05 Begegnen  Ausnahmen von den Grundregeln
+##### § 6.05 Begegnen Ausnahmen von den Grundregeln
 
 
 1.  Abweichend von § 6.04 können
@@ -4345,7 +4345,7 @@ getreidelt wird, freigelassen werden.
 
 
 
-##### § 6.09 Überholen  Allgemeine Bestimmungen
+##### § 6.09 Überholen Allgemeine Bestimmungen
 
 
 1.  Das Überholen ist nur gestattet, nachdem sich der Überholende
@@ -4817,7 +4817,7 @@ Buchstabe b führen.
 
 
 
-##### § 6.24 Durchfahren von Brücken und Wehren  Allgemeines
+##### § 6.24 Durchfahren von Brücken und Wehren Allgemeines
 
 
 1.  Ist in einer Brücken- oder Wehröffnung das Fahrwasser nicht

@@ -1481,9 +1481,8 @@ Diese Verordnung tritt am 1. Oktober 2007 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu den §§ 3 und 9)
 
-### Anlage 1 Anforderungen an Wohngebäude
+### Anlage 1 (zu den §§ 3 und 9) Anforderungen an Wohngebäude
 
 (Fundstelle: BGBl. I 2009, 960 - 964)
 
@@ -2245,9 +2244,8 @@ Umfassungsfläche bezogenen Transmissionswärmeverlusts
     Geändert durch DIN V 4108-6 Berichtigung 1 2004-03.
 [^f771304_02_BJNR151900007BJNE003501377]:     Geändert durch DIN V 4108-6 Berichtigung 1 2004-03.
 [^f771304_04_BJNR151900007BJNE003501377]: 
-(zu den §§ 4 und 9)
 
-### Anlage 2 Anforderungen an Nichtwohngebäude
+### Anlage 2 (zu den §§ 4 und 9) Anforderungen an Nichtwohngebäude
 
 (Fundstelle: BGBl. I 2009, 965 - 973)
 
@@ -3897,9 +3895,8 @@ Berechnungen des Jahres-Primärenergiebedarfs
     Nettogrundfläche des Gebäudes.
 [^f771304_06_BJNR151900007BJNE003601377]:     Nutzungen nach Tabelle 4 der DIN V 18599-10 : 2007-02
 [^f771304_13_BJNR151900007BJNE003601377]: 
-(zu den §§ 8 und 9)
 
-### Anlage 3 Anforderungen bei Änderung von Außenbauteilen und bei Errichtung kleiner Gebäude; Randbedingungen und Maßgaben für die Bewertung bestehender Wohngebäude
+### Anlage 3 (zu den §§ 8 und 9) Anforderungen bei Änderung von Außenbauteilen und bei Errichtung kleiner Gebäude; Randbedingungen und Maßgaben für die Bewertung bestehender Wohngebäude
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1544 - 1548;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4434,9 +4431,8 @@ Einbau, Ersatz und Erneuerung von Bauteilen
 [^f771304_10_BJNR151900007BJNE003701377]:     Geändert durch DIN V 4108-6 Berichtigung 1 2004-03.
 [^f771304_11_BJNR151900007BJNE003701377]:     Geändert durch DIN V 4108-6 Berichtigung 1 2004-03.
 [^f771304_12_BJNR151900007BJNE003701377]: 
-(zu § 6)
 
-### Anlage 4 Anforderungen an die Dichtheit und den Mindestluftwechsel
+### Anlage 4 (zu § 6) Anforderungen an die Dichtheit und den Mindestluftwechsel
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1549;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4508,9 +4504,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 13 Absatz 2)
 
-### Anlage 4a Anforderungen an die Inbetriebnahme von Heizkesseln und sonstigen Wärmeerzeugersystemen
+### Anlage 4a (zu § 13 Absatz 2) Anforderungen an die Inbetriebnahme von Heizkesseln und sonstigen Wärmeerzeugersystemen
 
 (Fundstelle: BGBl. I 2009, 975)
 In Fällen des § 13 Absatz 2 sind der Einbau und die Aufstellung zum
@@ -4655,45 +4650,39 @@ Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen
 
 
 
-(zu § 16)
 
-### Anlage 6 Muster Energieausweis Wohngebäude
+### Anlage 6 (zu § 16) Muster Energieausweis Wohngebäude
 
 (Fundstelle: BGBl. I 2009, 977 - 980)
 
 
 
 
-(zu § 16)
 
-### Anlage 7 Muster Energieausweis Nichtwohngebäude
+### Anlage 7 (zu § 16) Muster Energieausweis Nichtwohngebäude
 
 (Fundstelle: BGBl. I 2009, 981 - 984)
 
 
 
 
-(zu § 16)
 
-### Anlage 8 Muster Aushang Energieausweis auf der Grundlage des Energiebedarfs
+### Anlage 8 (zu § 16) Muster Aushang Energieausweis auf der Grundlage des Energiebedarfs
 
 (Fundstelle: BGBl. I 2009, 985)
 
-(zu § 16)
 
-### Anlage 9 Muster Aushang Energieausweis auf der Grundlage des Energieverbrauchs
+### Anlage 9 (zu § 16) Muster Aushang Energieausweis auf der Grundlage des Energieverbrauchs
 
 (Fundstelle: BGBl. I 2009, 986)
 
-(zu § 20)
 
-### Anlage 10 Muster Modernisierungsempfehlungen
+### Anlage 10 (zu § 20) Muster Modernisierungsempfehlungen
 
 (Fundstelle: BGBl. I 2009, 987)
 
-(zu § 21 Abs. 2 Nr. 2)
 
-### Anlage 11 Anforderungen an die Inhalte der Fortbildung
+### Anlage 11 (zu § 21 Abs. 2 Nr. 2) Anforderungen an die Inhalte der Fortbildung
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1562 - 1563;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

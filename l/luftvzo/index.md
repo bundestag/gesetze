@@ -4383,9 +4383,8 @@ anzugleichen.
 Der Nachweis der Zusatzbezeichnung "Flugmedizin" gemäß § 24e Abs. 3
 Nr. 1 ist bis zum 30. April 2009 zu erbringen.
 
-(zu § 14 Abs. 1 und § 19 Abs. 1)
 
-### Anlage 1 Vorschriften über den Eintragungsschein und das Lufttüchtigkeitszeugnis sowie die Kennzeichnung von Luftfahrzeugen
+### Anlage 1 (zu § 14 Abs. 1 und § 19 Abs. 1) Vorschriften über den Eintragungsschein und das Lufttüchtigkeitszeugnis sowie die Kennzeichnung von Luftfahrzeugen
 
 (Fundstelle: BGBl. I 2008, 1264 - 1265)
 
@@ -4746,9 +4745,8 @@ Fundstelle: BGBl. I 2008, 1274)
 (Inhalt: nicht darstellbare Abbildung eines Gleitsegels,
 Fundstelle: BGBl. I 2008, 1274)
 
-(zu § 32)
 
-### Anlage 2 Angaben zum Antrag auf Registrierung einer Ausbildungseinrichtung
+### Anlage 2 (zu § 32) Angaben zum Antrag auf Registrierung einer Ausbildungseinrichtung
 
 (Fundstelle: BGBl. I 2008, 1275)
 
@@ -4851,17 +4849,15 @@ Fundstelle: BGBl. I 2008, 1274)
 
 
 
-(zu § 24a Abs. 1)
 
-### Anlage 3 Muster Tauglichkeitszeugnis
-
+### Anlage 3 (zu § 24a Abs. 1) Muster Tauglichkeitszeugnis
 
 
 
 
-(zu § 28a)
 
-### Anlage 4 Besondere Anerkennungsverfahren
+
+### Anlage 4 (zu § 28a) Besondere Anerkennungsverfahren
 
 
 *    *
@@ -5294,9 +5290,8 @@ IR = Instrument rating.
     Flugzeuge herkömmlicher Bauart gelten alle Flugzeuge, außer solche
     nach JAR 25 und Ultraleichtflugzeuge.
 
-(zu § 48c Abs. 1)
 
-### Anlage 5 Zu berücksichtigende Informationen gemäß § 48c Abs. 1
+### Anlage 5 (zu § 48c Abs. 1) Zu berücksichtigende Informationen gemäß § 48c Abs. 1
 
 (Fundstelle: BGBl. I 2008, 1280)
 

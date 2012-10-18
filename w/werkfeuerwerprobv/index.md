@@ -513,9 +513,8 @@ werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 Diese Verordnung tritt am 1. August 2009 in Kraft und mit Ausnahme des
 § 11 am 31. Juli 2016 außer Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Werkfeuerwehrmann/zur Werkfeuerwehrfrau
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Werkfeuerwehrmann/zur Werkfeuerwehrfrau
 
 (Fundstelle: BGBl. I 2009, 1750 - 1759)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

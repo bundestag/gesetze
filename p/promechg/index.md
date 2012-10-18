@@ -719,13 +719,8 @@ eine Angabe nicht richtig oder nicht vollständig macht.
 einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit
 einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in
-Marrakesch vom 29. Oktober bis 10. November 2001
-Addendum
-Teil Zwei
-Von der Konferenz der Vertragsparteien ergriffene Maßnahmen
 
-### Anhang Band II
+### Anhang Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in Marrakesch vom 29. Oktober bis 10. November 2001 Addendum Teil Zwei Von der Konferenz der Vertragsparteien ergriffene Maßnahmen Band II
 
 Inhalt
 

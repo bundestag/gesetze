@@ -428,9 +428,8 @@ anfallenden Personal- und Sachkosten werden der FMSA gemäß § 11 Satz 3
 des Restrukturierungsfondsgesetzes aus den Mitteln des
 Restrukturierungsfonds erstattet.
 
-Haushaltsführung,
 
-### § 11 Wirtschaftsführung, Rechnungslegung, Revision
+### § 11 Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
 
 (1) Das Rechnungsjahr und das Geschäftsjahr der FMSA, des Fonds und
 des Restrukturierungsfonds sind jeweils das Kalenderjahr.

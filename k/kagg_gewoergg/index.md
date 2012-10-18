@@ -20,7 +20,7 @@ Fundstelle
 
 
 
-## Art 1 - 
+## Art 1 -
 
 -
 
@@ -163,7 +163,7 @@ Anschaffungsgeschäft im Sinne der §§ 17 und 18 des
 Kapitalverkehrsteuergesetzes.
 
 
-## Art 3 - 
+## Art 3 -
 
 Der Bundesminister der Justiz, der Bundesminister für Wirtschaft und
 der Bundesminister der Finanzen werden ermächtigt, das Gesetz über
@@ -172,12 +172,12 @@ neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und
 dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
-## Art 4 - 
+## Art 4 -
 
 -
 
 
-## Art 5 - 
+## Art 5 -
 
 -
 

@@ -14743,7 +14743,7 @@ Rentenwerts ergeben würde.
 -
 
 
-##### § 255g Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2007 bis  zum 1. Juli 2010
+##### § 255g Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2007 bis zum 1. Juli 2010
 
 (1) Bei der Bestimmung des aktuellen Rentenwerts zum 1. Juli 2007 ist
 § 68 Abs. 4 Satz 4 mit der Maßgabe anzuwenden, dass das Gesamtvolumen
@@ -49740,10 +49740,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 918
 
 -
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III
-(BGBl. II 1990, 889, 1060)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1060) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

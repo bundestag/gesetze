@@ -201,9 +201,8 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 3 Abs. 3 zuwiderhandelt.
 
-(zu den §§ 1 und 5 Abs. 1)
 
-## Anlage 1 Vollständiges Anwendungsverbot
+## Anlage 1 (zu den §§ 1 und 5 Abs. 1) Vollständiges Anwendungsverbot
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
@@ -448,9 +447,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
 
 
-(zu den §§ 2, 4 und 5 Abs. 2)
 
-## Anlage 2 Eingeschränktes Anwendungsverbot
+## Anlage 2 (zu den §§ 2, 4 und 5 Abs. 2) Eingeschränktes Anwendungsverbot
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1535)
 
@@ -614,9 +612,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
 
 
-(zu den §§ 3 und 4)
 
-## Anlage 3 Anwendungsbeschränkungen
+## Anlage 3 (zu den §§ 3 und 4) Anwendungsbeschränkungen
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1536 - 1537;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1061,11 +1058,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-   (zu § 3a)
 
-## Anlage 4 Besondere Abgabebedingungen
+## Anlage 4 (zu § 3a) Besondere Abgabebedingungen
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1538
+   Fundstelle des Originaltextes: BGBl. I 2003, 1538
 
 *    *   Nummer
 

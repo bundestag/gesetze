@@ -345,9 +345,8 @@ Juli 2013 außer Kraft; die zu diesem Zeitpunkt bestehenden
 Berufsausbildungsverhältnisse werden nach den Vorschriften dieser
 Verordnung zu Ende geführt.
 
-(zu § 7)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugservicemechaniker/zur Kraftfahrzeugservicemechanikerin
+## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugservicemechaniker/zur Kraftfahrzeugservicemechanikerin
 
 
 *    *   (Fundstelle: BGBl. I 2004, 1060 - 1066)

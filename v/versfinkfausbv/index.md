@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und  Finanzen/zur
+Title: Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur
   Kauffrau für Versicherungen und Finanzen
 jurabk: VersFinKfAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: versfinkfausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und  Finanzen/zur Kauffrau für Versicherungen und Finanzen (VersFinKfAusbV)
+# Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen (VersFinKfAusbV)
 
 Ausfertigungsdatum
 :   2006-05-17
@@ -615,9 +615,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(zu § 4 Abs. 1)
 
-## Anlage 1 Liste der zu vermittelnden Produkte gemäß § 4 Abs. 1 Nr. 4
+## Anlage 1 (zu § 4 Abs. 1) Liste der zu vermittelnden Produkte gemäß § 4 Abs. 1 Nr. 4
 
 (Fundstelle: BGBl. I 2006, 1191)
 
@@ -705,12 +704,8 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Versicherungen und Finanzen/zur Kauffrau für Versicherungen und
-Finanzen
 
-## Anlage 2 - Sachliche Gliederung -
+## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1192 - 1198)
 
@@ -1764,12 +1759,8 @@ Finanzen
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum  Kaufmann für
-Versicherungen und Finanzen/zur Kauffrau  für Versicherungen und
-Finanzen
 
-## Anlage 3 - Zeitliche Gliederung -
+## Anlage 3 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1199 - 1201)
 

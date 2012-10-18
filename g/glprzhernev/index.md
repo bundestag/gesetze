@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der  staatlich anerkannten
+Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der staatlich anerkannten
   Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in
   handwerklichen Ausbildungsberufen
 jurabk: GlPrZHerneV
@@ -9,7 +9,7 @@ slug: glprzhernev
 
 ---
 
-# Verordnung zur Gleichstellung von Prüfungszeugnissen der  staatlich anerkannten Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen (GlPrZHerneV)
+# Verordnung zur Gleichstellung von Prüfungszeugnissen der staatlich anerkannten Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen (GlPrZHerneV)
 
 Ausfertigungsdatum
 :   2007-07-19

@@ -1197,9 +1197,8 @@ Diese Verordnung tritt am 1. August 1994 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 9)
 
-## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Schiffsmechaniker/zur Schiffsmechanikerin
+## Anlage 1 (zu § 9) Ausbildungsrahmenplan für die Berufsausbildung zum Schiffsmechaniker/zur Schiffsmechanikerin
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2066 - 2076
 
@@ -2745,12 +2744,8 @@ in § 8 Nr. 6 bis 11, 17 und 18 aufgeführten Teilen des
 Ausbildungsberufsbildes Fertigkeiten und Kenntnisse in
 überbetrieblichen Ausbildungsstätten vermittelt werden.
 
-(zu § 14)
-Berufsbildungsstelle Seeschiffahrt e.V.
-Zeugnis über die Abschlußprüfung zum Schiffsmechaniker/zur
-Schiffsmechanikerin
 
-## Anlage 2 Certificate of Final Examination of Ship Mechanic
+## Anlage 2 (zu § 14) Berufsbildungsstelle Seeschiffahrt e.V. Zeugnis über die Abschlußprüfung zum Schiffsmechaniker/zur Schiffsmechanikerin Certificate of Final Examination of Ship Mechanic
 
 (Inhalt: nicht erfaßtes Muster eines Zeugnisses über die
 Abschlußprüfung zum Schiffsmechaniker/zur Schiffsmechanikerin,

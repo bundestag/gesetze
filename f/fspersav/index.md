@@ -2137,10 +2137,8 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 (1) Diese Verordnung tritt am 17. Oktober 2008 in Kraft.
 
-(zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs. 5
-und 8)
 
-### Anlage 1 Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
+### Anlage 1 (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs. 5 und 8) Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
 
 (Fundstelle: BGBl. I 2008, 1949 - 1957)
 
@@ -3534,9 +3532,8 @@ und 8)
     (ADS) und Ozeankontrolle (OCN) werden zurzeit in Deutschland nicht
     genutzt. Deshalb sind hierfür keine Ausbildungskurse beschrieben.
 [^f771489_02_BJNR193100008BJNE005200000]: 
-(zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3)
 
-### Anlage 2 Betriebliche Ausbildung für Fluglotsen
+### Anlage 2 (zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3) Betriebliche Ausbildung für Fluglotsen
 
 (Fundstelle: BGBl. I 2008, 1958 - 1959)
 
@@ -3688,9 +3685,8 @@ und 8)
 
 
 
-(zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6)
 
-### Anlage 3 Einstufungstabelle für Sprachkompetenz
+### Anlage 3 (zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6) Einstufungstabelle für Sprachkompetenz
 
 (Fundstelle: BGBl. I 2008, 1960 - 1961)
 Die in § 10 Abs. 2 und 3 und § 34 Abs. 4 festgelegten Anforderungen an
@@ -3945,9 +3941,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 5 Abs. 2)
 
-### Anlage 4 Anforderungen an Lizenzscheine
+### Anlage 4 (zu § 5 Abs. 2) Anforderungen an Lizenzscheine
 
 (Fundstelle: BGBl. I 2008, 1962)
 
@@ -4022,9 +4017,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)
 
-### Anlage 5 Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+### Anlage 5 (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3) Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
 (Fundstelle: BGBl. I 2008, 1963 - 1968)
 
@@ -4936,9 +4930,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)
 
-### Anlage 6 Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+### Anlage 6 (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3) Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
 
 (Fundstelle: BGBl. I 2008, 1969 - 1970)
 
@@ -5105,9 +5098,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)
 
-### Anlage 7 Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+### Anlage 7 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4) Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
 (Fundstelle: BGBl. I 2008, 1971)
 
@@ -5240,9 +5232,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)
 
-### Anlage 8 Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+### Anlage 8 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4) Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
 
 (Fundstelle: BGBl. I 2008, 1972)
 
@@ -5344,9 +5335,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)
 
-### Anlage 9 Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
+### Anlage 9 (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2) Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
 
 ( Fundstelle: BGBl. I 2008, 1973 - 1974 )
 
@@ -5596,9 +5586,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-(zu § 7 Abs. 2 und 6, § 47 Abs. 11)
 
-### Anlage 10 Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
+### Anlage 10 (zu § 7 Abs. 2 und 6, § 47 Abs. 11) Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
 
 (Fundstelle: BGBl. I 2008, 1975 - 1979)
 

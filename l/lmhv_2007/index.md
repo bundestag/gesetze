@@ -322,9 +322,8 @@ oder fahrlässig
 
 
 
-(zu § 4 Abs. 1 Satz 1)
 
-## Anlage 1 Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
+## Anlage 1 (zu § 4 Abs. 1 Satz 1) Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
 
 ( Fundstelle: BGBl. I 2008, 107 )
 
@@ -363,9 +362,8 @@ oder fahrlässig
 
 
 
-(zu § 5 Abs. 1 Satz 1)
 
-## Anlage 2 Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
+## Anlage 2 (zu § 5 Abs. 1 Satz 1) Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
 
 ( Fundstelle: BGBl. I 2007, 1821 )
 
@@ -460,9 +458,8 @@ oder fahrlässig
 
 
 
-(zu § 6)
 
-## Anlage 3 Traditionelle Lebensmittel
+## Anlage 3 (zu § 6) Traditionelle Lebensmittel
 
 ( Fundstelle: BGBl. I 2007, 1822 - 1823 )
 
@@ -611,10 +608,8 @@ oder fahrlässig
 
 
 
-Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben
-der Alm- oder Alpwirtschaft
 
-## Anlage 3a (zu § 6a)
+## Anlage 3a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft (zu § 6a)
 
 (Fundstelle : BGBl. I 2010, 612 - 613)
 
@@ -673,9 +668,8 @@ der Alm- oder Alpwirtschaft
 
 
 
-(zu § 7 Abs. 1 und 3)
 
-## Anlage 4 Hygienische Anforderungen an die Beförderung von Ölen und Fetten in Seeschiffen
+## Anlage 4 (zu § 7 Abs. 1 und 3) Hygienische Anforderungen an die Beförderung von Ölen und Fetten in Seeschiffen
 
 ( Fundstelle: BGBl. I 2007, 1824 - 1827 )
 Bei der Beförderung von Ölen und Fetten in Seeschiffen sind folgende

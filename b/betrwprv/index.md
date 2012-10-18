@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Betriebswirt/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Betriebswirt/Geprüfte
   Betriebswirtin nach dem Berufsbildungsgesetz
 jurabk: BetrWPrV
 layout: default
@@ -8,7 +8,7 @@ slug: betrwprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz (BetrWPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz (BetrWPrV)
 
 Ausfertigungsdatum
 :   2006-07-12

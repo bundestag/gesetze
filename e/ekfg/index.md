@@ -178,9 +178,8 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 6 Satz 3)
 
-## Anlage Wirtschaftsplan des Energie- und Klimafonds
+## Anlage (zu § 6 Satz 3) Wirtschaftsplan des Energie- und Klimafonds
 
 (Fundstelle: BGBl. I 2010, 1809 - 1813)
 

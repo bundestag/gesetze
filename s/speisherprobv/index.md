@@ -485,9 +485,8 @@ Verordnung zu Ende geführt werden.
 Diese Verordnung tritt am 1. August 2008 in Kraft und mit Ausnahme des
 § 10 am 31. Juli 2013 außer Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Speiseeishersteller/zur Speiseeisherstellerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Speiseeishersteller/zur Speiseeisherstellerin
 
 (Fundstelle: BGBl. I 2008, 833 - 837)
 

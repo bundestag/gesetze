@@ -483,9 +483,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2011 in Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und Umzugsservice
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und Umzugsservice
 
 (Fundstelle: BGBl. I 2011, 561 - 565)
 

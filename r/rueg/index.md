@@ -2630,9 +2630,8 @@ sind.
 
 -
 
-(zu § 39)
 
-### Anlage Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
+### Anlage (zu § 39) Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
 
 (Fundstelle: BGBl. I 1991, 1675)
 

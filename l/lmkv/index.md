@@ -916,9 +916,8 @@ zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 geltenden Vorschriften gekennzeichnet worden sind, dürfen weiter in
 den Verkehr gebracht werden.
 
-(zu § 6 Abs. 4 Nr. 1)
 
-### Anlage 1 Zutaten, die mit dem Namen ihrer Klasse angegeben werden können, wenn sie Zutat eines anderen Lebensmittels sind
+### Anlage 1 (zu § 6 Abs. 4 Nr. 1) Zutaten, die mit dem Namen ihrer Klasse angegeben werden können, wenn sie Zutat eines anderen Lebensmittels sind
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2471;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1120,9 +1119,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 6 Abs. 4 Nr. 2)
 
-### Anlage 2 Klassen von Zutaten, bei denen die aufgeführten Bezeichnungen verwendet werden müssen
+### Anlage 2 (zu § 6 Abs. 4 Nr. 2) Klassen von Zutaten, bei denen die aufgeführten Bezeichnungen verwendet werden müssen
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2472
 
@@ -1195,9 +1193,8 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2472
 
 
 
-(zu § 3 Abs. 1 Nr. 3, § 5 Abs. 3 und § 6 Abs. 2, 5a und 6)
 
-### Anlage 3 Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können
+### Anlage 3 (zu § 3 Abs. 1 Nr. 3, § 5 Abs. 3 und § 6 Abs. 2, 5a und 6) Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3012 u. 3013 )
 
@@ -1379,9 +1376,8 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2473
 
 
 
-(zu § 9a)
 
-### Anlage 5 Kennzeichnung bestimmter Lebensmittel, die Glycyrrhizinsäure oder deren Ammoniumsalz enthalten
+### Anlage 5 (zu § 9a) Kennzeichnung bestimmter Lebensmittel, die Glycyrrhizinsäure oder deren Ammoniumsalz enthalten
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1402
 

@@ -10444,9 +10444,8 @@ abzuhelfen.
 
 (weggefallen)
 
-Straf- und Bußgeldvorschriften,
 
-## Achter Teil - Straf- und Bußgeldverfahren
+## Achter Teil - Straf- und Bußgeldvorschriften, Straf- und Bußgeldverfahren
 
 
 
@@ -11502,12 +11501,8 @@ nach Maßgabe dieses Gesetzes eingeschränkt.
 
 (Inkrafttreten)
 
-(zu § 60)
-Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von
-juristischen Personen des öffentlichen Rechts, geistliche
-Genossenschaften und Kapitalgesellschaften
 
-### Anlage 1 (nur aus steuerlichen Gründen notwendige Bestimmungen)
+### Anlage 1 (zu § 60) Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts, geistliche Genossenschaften und Kapitalgesellschaften (nur aus steuerlichen Gründen notwendige Bestimmungen)
 
 ## § 1
 

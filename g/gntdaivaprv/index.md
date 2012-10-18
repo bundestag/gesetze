@@ -946,9 +946,8 @@ und inneren Verwaltung des Bundes vom 12. Juli 2001 (BGBl. I S. 1578),
 die zuletzt durch § 56 Absatz 8 der Verordnung vom 12. Februar 2009
 (BGBl. I S. 284) geändert worden ist, außer Kraft.
 
-(zu § 21 Absatz 1)
 
-### Anlage Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
+### Anlage (zu § 21 Absatz 1) Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
 
 (Fundstelle: BGBl. I 2010, 1221)
 

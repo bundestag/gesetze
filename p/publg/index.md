@@ -355,9 +355,8 @@ erteilt wird.
 (4) Der festgestellte Jahresabschluß ist der Jahresabschluß im Sinne
 der für die Rechtsform des Unternehmens geltenden Vorschriften.
 
-Offenlegung des Jahresabschlusses und des Lageberichts
 
-### § 9 Prüfung durch den Betreiber des Bundesanzeigers
+### § 9 Offenlegung des Jahresabschlusses und des Lageberichts Prüfung durch den Betreiber des Bundesanzeigers
 
 (1) Die gesetzlichen Vertreter des Unternehmens haben für dieses den
 Jahresabschluß und die sonst in § 325 Abs. 1 des Handelsgesetzbuchs

@@ -500,9 +500,8 @@ Satz 2 genannten Verordnung weiter anzuwenden.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 3)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Bestattungsfachkraft
+## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Bestattungsfachkraft
 
 (Fundstelle: BGBl. I 2007, 676 - 679)
 

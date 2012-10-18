@@ -615,7 +615,7 @@ der Kategorie O, Nummern 1C350, 1C450 und 5A901 sowie für
 Datenverarbeitungsprogramme und Technologie.
 
 
-### 2. Titel - Verfahrens- und Meldevorschriften nach den §§ 26  und 46 Abs. 3 AWG
+### 2. Titel - Verfahrens- und Meldevorschriften nach den §§ 26 und 46 Abs. 3 AWG
 
 
 
@@ -624,7 +624,7 @@ Datenverarbeitungsprogramme und Technologie.
 -
 
 
-#### 1. Untertitel - Genehmigungsfreie Ausfuhr und Wiederausfuhr aus dem Gemeinschaftsgebiet \*)
+#### 1. Untertitel - Genehmigungsfreie Ausfuhr und Wiederausfuhr aus dem Gemeinschaftsgebiet
 
 \*)
 Das Zollverfahren für die Ausfuhr und die Wiederausfuhr von Waren aus
@@ -1571,7 +1571,7 @@ entsprechend anwendbar.
 -
 
 
-### 2. Titel - Verfahrens- und Meldevorschriften nach § 26 AWG bei der Einfuhr in das Wirtschaftsgebiet aus Drittländern \*)
+### 2. Titel - Verfahrens- und Meldevorschriften nach § 26 AWG bei der Einfuhr in das Wirtschaftsgebiet aus Drittländern
 
 
 *   Das Zollverfahren für die Einfuhr von Waren in das Gemeinschaftsgebiet
@@ -2145,7 +2145,7 @@ Wirtschaftsgebiets erteilte Einfuhrgenehmigungen müssen in Papierform
 vorgelegt und abgeschrieben werden.
 
 
-#### 4. Untertitel - Sonderregelungen nach § 10 Abs. 4 und § 26  AWG
+#### 4. Untertitel - Sonderregelungen nach § 10 Abs. 4 und § 26 AWG
 
 
 
@@ -3993,11 +3993,8 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen.
 ### Kapitel VIIe - Besondere Beschränkungen gegen Irak
 
 
-Beschränkungen aufgrund der Resolutionen 1483 (2003) vom 7. Juli 2003
-und 1546 (2004) vom 8. Juni 2004 des Sicherheitsrats der Vereinten
-Nationen
 
-#### § 69e (Kapitel VII der Charta)
+#### § 69e Beschränkungen aufgrund der Resolutionen 1483 (2003) vom 7. Juli 2003 und 1546 (2004) vom 8. Juni 2004 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta)
 
 (1) Der Verkauf, die Ausfuhr und die Durchfuhr von in Teil I Abschnitt
 A der Ausfuhrliste (Anlage AL) erfassten Gütern nach Irak vom
@@ -4025,10 +4022,8 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen.
 ### Kapitel VIIf - Besondere Beschränkungen gegen die Demokratische Republik Kongo
 
 
-Beschränkungen aufgrund der Resolution 1493 (2003) des Sicherheitsrats
-der Vereinten Nationen vom 28. Juli 2003
 
-#### § 69f (Kapital VII der Charta)
+#### § 69f Beschränkungen aufgrund der Resolution 1493 (2003) des Sicherheitsrats der Vereinten Nationen vom 28. Juli 2003 (Kapital VII der Charta)
 
 (1) Der Verkauf, die Ausfuhr und die Durchfuhr von in Teil I Abschnitt
 A der Ausfuhrliste (Anlage AL) erfassten Gütern in die Demokratische
@@ -4245,7 +4240,7 @@ genannten Güter vornehmen.
 (8) (weggefallen)
 
 
-### Kapitel VIIj - Besondere Beschränkungen gegen \*A Cote d'Ivoire
+### Kapitel VIIj - Besondere Beschränkungen gegen *A Cote d'Ivoire
 
 
 
@@ -5860,9 +5855,8 @@ wird bestraft, wer vorsätzlich oder fahrlässig
 
 -
 
-Ausfuhrliste
 
-### Anlage AL - zur Außenwirtschaftsverordnung -
+### Anlage AL Ausfuhrliste - zur Außenwirtschaftsverordnung -
 
 (Fundstelle: BAnz. 2010 Nr. 58a (Beilage)
 
@@ -6216,25 +6210,18 @@ Fundstelle des Originaltextes: Beilage zum BAnz. 2002 Nr. 59a v.
 
 -
 
-zur AWV
-Vermögen Gebietsansässiger in fremden Wirtschaftsgebieten
-Blatt 1 Meldung nach § 56a der Außenwirtschaftsverordnung
 
-### Anlage K 3 Blatt 2 Stand und Zusammensetzung des Vermögens
+### Anlage K 3 zur AWV Vermögen Gebietsansässiger in fremden Wirtschaftsgebieten Blatt 1 Meldung nach § 56a der Außenwirtschaftsverordnung Blatt 2 Stand und Zusammensetzung des Vermögens
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4433 - 4434)
 
-zur AWV
-Vermögen Gebietsfremder im Wirtschaftsgebiet
-Blatt 1 Meldung nach § 58a der Außenwirtschaftsverordnung
 
-### Anlage K 4 Blatt 2 Stand und Zusammensetzung des Vermögens
+### Anlage K 4 zur AWV Vermögen Gebietsfremder im Wirtschaftsgebiet Blatt 1 Meldung nach § 58a der Außenwirtschaftsverordnung Blatt 2 Stand und Zusammensetzung des Vermögens
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4435 - 4436)
 
-Zahlungsauftrag im Außenwirtschaftsverkehr
 
-### Anlage Z 1 Meldung nach §§ 59 ff. der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 1 Zahlungsauftrag im Außenwirtschaftsverkehr Meldung nach §§ 59 ff. der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle: BAnz. 2009 Nr. 164 v. 30.10.2009, S. 3738 - 3740)
 
@@ -6248,103 +6235,73 @@ Zahlungsauftrag im Außenwirtschaftsverkehr
 
 -
 
-Zahlungen im Außenwirtschaftsverkehr
 
-### Anlage Z 4 Meldung nach §§ 59 ff. Außenwirtschaftsverordnung (AWV)
+### Anlage Z 4 Zahlungen im Außenwirtschaftsverkehr Meldung nach §§ 59 ff. Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2005 Nr. 244a v. 24.12.2005, S. 11 u.
 12)
 
-Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit
-gebietsfremden Banken
 
-### Anlage Z 5 Meldung nach § 62 Abs. 1, 2 und 5 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 5 Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit gebietsfremden Banken Meldung nach § 62 Abs. 1, 2 und 5 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 14)
 
-Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit
-gebietsfremden Nichtbanken
 
-### Anlage Z 5a Meldung nach § 62 Abs. 1, 3 und 5 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 5a Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit gebietsfremden Nichtbanken Meldung nach § 62 Abs. 1, 3 und 5 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 15 - 18)
 
-zur AWV
-Forderungen und Verbindlichkeiten gegenüber Gebietsfremden aus
-derivativen Finanzinstrumenten
 
-### Anlage Z 5b Meldung nach § 62 Abs. 1 und 4 der Außenwirtschaftsverordnung
+### Anlage Z 5b zur AWV Forderungen und Verbindlichkeiten gegenüber Gebietsfremden aus derivativen Finanzinstrumenten Meldung nach § 62 Abs. 1 und 4 der Außenwirtschaftsverordnung
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4437)
 
-Einnahmen und Ausgaben der Seeschifffahrt
 
-### Anlage Z 8 Meldung nach § 67 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 8 Einnahmen und Ausgaben der Seeschifffahrt Meldung nach § 67 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2005 Nr. 244a v. 24.12.2005, S. 13 u.
 14)
 
-Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr
 
-### Anlage Z 10 Meldung nach § 59 Abs. 1 und § 69 Abs. 2 Nr. 1 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 10 Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr Meldung nach § 59 Abs. 1 und § 69 Abs. 2 Nr. 1 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 21 - 22)
 
-zur AWV
-Meldungen der Geldinstitute
-Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr
 
-### Anlage Z 11 Meldung nach § 69 Abs. 2 Nr. 2 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 11 zur AWV Meldungen der Geldinstitute Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr Meldung nach § 69 Abs. 2 Nr. 2 der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle des Originaltextes: Beilage zum BAnz. 2007 Nr. 242b v.
 29\.12.2007, S. 8 bis 9;
 
-zur AWV
-Meldungen der Geldinstitute
-Zahlungseingänge/Zahlungsausgänge im Reiseverkehr:
-Karten-Umsätze
 
-### Anlage Z 12 Meldung nach § 69 Abs. 2 Nr. 4a der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 12 zur AWV Meldungen der Geldinstitute Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze Meldung nach § 69 Abs. 2 Nr. 4a der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4438)
 
-zur AWV
-Zahlungseingänge/Zahlungsausgänge im Reiseverkehr:
-Sorten und Fremdwährungsreiseschecks
 
-### Anlage Z 13 Meldung nach § 69 Abs. 2 Nr. 4b der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 13 zur AWV Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks Meldung nach § 69 Abs. 2 Nr. 4b der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4439)
 
-zur AWV
-Meldungen der Geldinstitute
-Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr
-(ohne Wertpapierzinsen)
 
-### Anlage Z 14 Meldung nach § 69 Abs. 2 Nr. 3 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 14 zur AWV Meldungen der Geldinstitute Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen) Meldung nach § 69 Abs. 2 Nr. 3 der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle des Originaltextes: Beilage zum BAnz. 2007 Nr. 242b v.
 29\.12.2007, S. 11 bis 12;
 
-zur AWV
-Meldungen der Geldinstitute
-Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr
-(ohne Wertpapierzinsen)
 
-### Anlage Z 15 Meldung nach § 69 Abs. 2 Nr. 3 der Außenwirtschaftsverordnung (AWV)
+### Anlage Z 15 zur AWV Meldungen der Geldinstitute Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen) Meldung nach § 69 Abs. 2 Nr. 3 der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle des Originaltextes: Beilage zum BAnz. 2007 Nr. 242b v.
 29\.12.2007, S. 13 bis 14;
 
-zur Außenwirtschaftsverordnung
-Leistungsverzeichnis
 
-### Anlage LV der Deutschen Bundesbank für die Zahlungsbilanz
+### Anlage LV zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4440 - 4447)
 

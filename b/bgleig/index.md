@@ -166,7 +166,7 @@ Männern besetzt sein. Ist dies aus triftigen Gründen nicht möglich,
 sind die Gründe aktenkundig zu machen.
 
 
-### § 8 Auswahlentscheidungen  bei Einstellung, beruflichem Aufstieg, Vergabe von Ausbildungsplätzen
+### § 8 Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg, Vergabe von Ausbildungsplätzen
 
 Sind Frauen in einzelnen Bereichen unterrepräsentiert, hat die
 Dienststelle sie bei der Vergabe von Ausbildungsplätzen, Einstellung,

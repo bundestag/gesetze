@@ -706,9 +706,8 @@ Pflanzenschutzgesetzes endet am 31. Dezember 2003.
 
 (Inkrafttreten)
 
-(zu § 4 Abs. 1 und § 7 Abs. 2 Satz 1)
 
-### Anlage 1 Beschaffenheit der Pflanzenschutzgeräte
+### Anlage 1 (zu § 4 Abs. 1 und § 7 Abs. 2 Satz 1) Beschaffenheit der Pflanzenschutzgeräte
 
 Fundstelle des Originaltextes: BGBl. I 2005, 740
 
@@ -787,9 +786,8 @@ Zugehörigkeit zum Gerätetyp anzugeben und das Baujahr zu kennzeichnen.
 Zerstäuber sind so zu kennzeichnen, dass Bauart, Größe und wichtige
 Betriebsdaten erkennbar sind.
 
-(zu § 6 Abs. 2)
 
-### Anlage 2 Gebrauchsanleitung
+### Anlage 2 (zu § 6 Abs. 2) Gebrauchsanleitung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 741
 
@@ -899,9 +897,8 @@ Zu prüfende Teile
 
 
 
-(zu § 7 Abs. 4 Satz 1)
 
-### Anlage 4 Muster der Prüfplakette
+### Anlage 4 (zu § 7 Abs. 4 Satz 1) Muster der Prüfplakette
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2005, 742)
@@ -910,9 +907,8 @@ Kontrollwerkstätte durchgeführt, so treten an die Stelle der Wörter
 "Amtliche Kontrollstelle" die Wörter "Amtlich anerkannte
 Kontrollwerkstätte".
 
-(zu § 1c Abs. 5)
 
-### Anlage 5 Anerkennungsbescheinigung
+### Anlage 5 (zu § 1c Abs. 5) Anerkennungsbescheinigung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 743
 Die Versuchseinrichtung

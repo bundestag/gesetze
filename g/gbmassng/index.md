@@ -619,7 +619,7 @@ Entscheidung des Grundbuchamts zunächst bei dem Amtsgericht
 nachzusuchen ist, unberührt.
 
 
-## Siebenter Abschnitt - 
+## Siebenter Abschnitt -
 
 
 

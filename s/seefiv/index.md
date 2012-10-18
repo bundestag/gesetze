@@ -324,9 +324,8 @@ handelt, wer als Kapitän vorsätzlich oder fahrlässig
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
-(zu § 2 Abs. 1)
 
-## Anlage 1 Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
+## Anlage 1 (zu § 2 Abs. 1) Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
 
 
 *    *   Kabeljau
@@ -443,9 +442,8 @@ für Landwirtschaft und Ernährung
 Im Auftrag
 (hellgrün mit schwarzem Aufdruck, Format DIN A6) ****
 
-(zu § 4 Abs. 1)
 
-## Anlage 3 Verzeichnis der verbindlichen Anlandeorte
+## Anlage 3 (zu § 4 Abs. 1) Verzeichnis der verbindlichen Anlandeorte
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1488;
 bzgl. der einzelnen Änderungen vgl. Fußnote

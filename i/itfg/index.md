@@ -153,9 +153,8 @@ Das Sondervermögen wird mit Tilgung seiner Verbindlichkeiten
 aufgelöst. Die Auflösung ist im Bundesanzeiger bekannt zu geben. Ein
 verbleibendes Vermögen fällt dem Bund zu.
 
-(zu § 3 Absatz 2)
 
-## Anlage Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
+## Anlage (zu § 3 Absatz 2) Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
 
 (Fundstelle: BGBl. I 2009, 419 - 427)
 
@@ -2180,11 +2179,10 @@ verbleibendes Vermögen fällt dem Bund zu.
     *
 
 
-   (Nachtrag)
 
-## Anlage Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
+## Anlage (Nachtrag) Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
 
-(Fundstelle: BGBl. I 2009; 1578 - 1579)
+   (Fundstelle: BGBl. I 2009; 1578 - 1579)
 Wirtschaftsplan
 ## **des Sondervermögens „Investitions- und Tilgungsfonds“**
 

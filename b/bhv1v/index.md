@@ -861,9 +861,8 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 § 3 Abs. 1 Satz 3 ist mit Ablauf des 31. Dezember 2005 nicht mehr
 anzuwenden.
 
-(zu § 1 Abs. 2 Nr. 1 Buchstabe a und b)
 
-### Anlage 1 Voraussetzungen, unter denen ein Rinderbestand als frei von einer BHV1-Infektion gilt
+### Anlage 1 (zu § 1 Abs. 2 Nr. 1 Buchstabe a und b) Voraussetzungen, unter denen ein Rinderbestand als frei von einer BHV1-Infektion gilt
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3527 - 3528
 
@@ -1135,9 +1134,8 @@ nachfolgenden Anforderungen erfüllt sind:
 
 
 
-(zu § 3 Abs. 1 Satz 1)
 
-### Anlage 2 Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rindes
+### Anlage 2 (zu § 3 Abs. 1 Satz 1) Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rindes
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3529
 Das (Die) Zucht-/Nutzrind(er) mit der (den) Ohrmarkennummer(n) 1)
@@ -1185,9 +1183,8 @@ zuständigen Behörde              ...................................
 
 
 
-(zu § 3 Abs. 1 Satz 1)
 
-### Anlage 3 Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rinderbestandes
+### Anlage 3 (zu § 3 Abs. 1 Satz 1) Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rinderbestandes
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3530
 Der Bestand (Die Bestände) 1)

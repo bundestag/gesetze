@@ -329,9 +329,8 @@ entstanden sind.
 Verordnung in der bis zum 31. Juli 2009 geltenden Fassung weiter
 anzuwenden.
 
-(zu § 10 Absatz 1)
 
-## Anlage Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft
+## Anlage (zu § 10 Absatz 1) Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft
 
 
 1.  Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine

@@ -61,12 +61,8 @@ vorgeschriebenen Arbeitsbedingungen zu gewähren.
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
 2013 außer Kraft.
 
-(zu § 1)
-Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im
-Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet
-der Bundesrepublik Deutschland
 
-## Anlage (TV Mindestlohn)
+## Anlage (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 
 (Fundstelle: BAnz. 2011, 4623 - 4624)
 

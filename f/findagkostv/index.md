@@ -1072,9 +1072,8 @@ weiter anzuwenden.
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 
-(zu § 2 Abs. 1)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl I 2006, 312 - 323;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

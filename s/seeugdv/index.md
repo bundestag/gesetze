@@ -214,9 +214,8 @@ Verordnung.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 7)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 7) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2002, 1827;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -258,9 +257,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1107)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1107)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

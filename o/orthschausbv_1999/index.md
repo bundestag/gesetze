@@ -376,9 +376,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Orthopädieschuhmacher/zur Orthopädieschuhmacherin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Orthopädieschuhmacher/zur Orthopädieschuhmacherin
 
 (Fundstelle: BGBl. I 1999, 792 - 796)
 

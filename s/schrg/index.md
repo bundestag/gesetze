@@ -1241,9 +1241,8 @@ gleichen Rang. § 25 Abs. 2, §§ 26, 27, 65 gelten sinngemäß.
 
 Dieses Gesetz tritt am 1. Januar 1941 in Kraft;
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 954)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 954)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

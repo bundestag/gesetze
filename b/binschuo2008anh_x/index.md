@@ -1,6 +1,5 @@
-Nationale Sonderbestimmungen
 ---
-Title: (Anhang X zur Binnenschiffsuntersuchungsordnung)
+Title: Nationale Sonderbestimmungen (Anhang X zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh X
 layout: default
 origslug: binschuo2008anh_x
@@ -8,7 +7,7 @@ slug: binschuo2008anh_x
 
 ---
 
-# (Anhang X zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh X)
+# Nationale Sonderbestimmungen (Anhang X zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh X)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -2857,12 +2856,12 @@ maximal 5 Jahre. In der Fahrtauglichkeitsbescheinigung ist im Feld
 Text in Bearbeitung
 
 
-#### Anlage 1 zur Dienstanweisung Nr. 1 des Anhang X \*% Ermittlung der Seilkräfte
+#### Anlage 1 zur Dienstanweisung Nr. 1 des Anhang X *% Ermittlung der Seilkräfte
 
 Text in Bearbeitung
 
 
-#### Anlage 2 zur Dienstanweisung Nr. 1 des Anhang X \*% Querwiderstandsbeiwert
+#### Anlage 2 zur Dienstanweisung Nr. 1 des Anhang X *% Querwiderstandsbeiwert
 
 Text in Bearbeitung
 
@@ -2872,12 +2871,12 @@ Text in Bearbeitung
 Text in Bearbeitung
 
 
-#### Muster Nr. 1 Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren \*% zu Anhang X § 3.07 Nr. 1
+#### Muster Nr. 1 Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren *% zu Anhang X § 3.07 Nr. 1
 
 Text in Bearbeitung
 
 
-#### Muster Nr. 2 Muster des Abnahmeprotokolls für kleine Fahrgastschiffe zur Beförderung von maximal 12 Fahrgästen \*% zu Anhang X § 7.02 Nr. 2
+#### Muster Nr. 2 Muster des Abnahmeprotokolls für kleine Fahrgastschiffe zur Beförderung von maximal 12 Fahrgästen *% zu Anhang X § 7.02 Nr. 2
 
 Text in Bearbeitung
 

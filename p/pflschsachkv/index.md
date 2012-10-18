@@ -382,9 +382,8 @@ mit § 22 Abs. 4 Satz 2, des Pflanzenschutzgesetzes nähere Vorschriften
 
 Diese Verordnung tritt am 1. Juli 1988 in Kraft.
 
-Abschlusszeugnisse
 
-## Anlage 1 (zu § 1 Abs. 2 und § 3 Abs. 1 und 2)
+## Anlage 1 Abschlusszeugnisse (zu § 1 Abs. 2 und § 3 Abs. 1 und 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 886 - 887;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -428,9 +427,8 @@ Berufsausbildung zum pharmazeutisch-kaufmännischen Angestellten/zur
 pharmazeutisch-kaufmännischen Angestellten vom 3. März 1993 (BGBl. I
 S. 292).
 
-(zu § 1 Absatz 3, § 1a Absatz 4, § 1b Absatz 2 und § 3 Absatz 1)
 
-## Anlage 2 Sachkundenachweis
+## Anlage 2 (zu § 1 Absatz 3, § 1a Absatz 4, § 1b Absatz 2 und § 3 Absatz 1) Sachkundenachweis
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 887;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

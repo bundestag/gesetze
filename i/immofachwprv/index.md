@@ -460,9 +460,8 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
-(zu § 6 Abs. 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Abs. 3) Muster
 
 ( Fundstelle: BGBl. I 2008, 121 )
 
@@ -511,9 +510,8 @@ bestanden.
 
 
 
-(zu § 6 Abs. 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Abs. 3) Muster
 
 ( Fundstelle: BGBl. I 2008, 122 )
 

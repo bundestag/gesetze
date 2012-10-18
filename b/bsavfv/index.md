@@ -539,9 +539,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 578 - 579
 
 
 
-(zu § 2 Absatz 3, §§ 12 bis 14)
 
-### Anlage 2 Gebührenverzeichnis
+### Anlage 2 (zu § 2 Absatz 3, §§ 12 bis 14) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009 3233 - 3239;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2198,9 +2197,8 @@ gebildet:
 
     Soweit nichts anderes angegeben.
 [^F772611_01_BJNR000230986BJNE002407377]: 
-(zu § 12 Absatz 1 und § 13 Absatz 6)
 
-### Anlage 3 Gebührenverzeichnis für Erhaltungssorten
+### Anlage 3 (zu § 12 Absatz 1 und § 13 Absatz 6) Gebührenverzeichnis für Erhaltungssorten
 
 (Fundstelle: BGBl. I 2012, 451 - 452)
 

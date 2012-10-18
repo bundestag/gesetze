@@ -53,9 +53,8 @@ ausgenommen wegen fehlender Zuständigkeit, abgelehnt, so werden
 Gebühren nach Maßgabe des § 15 Absatz 2 des Verwaltungskostengesetzes
 erhoben.
 
-(zu § 2 Absatz 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 649 - 650)
 

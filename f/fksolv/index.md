@@ -705,9 +705,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 9 Abs. 1 Nr. 1)
 
-## Anlage 1 Übersichtsbogen zur Berechnung der Finanzkonglomerate-Solvabilität - Gesamtübersicht (FSG) -
+## Anlage 1 (zu § 9 Abs. 1 Nr. 1) Übersichtsbogen zur Berechnung der Finanzkonglomerate-Solvabilität - Gesamtübersicht (FSG) -
 
 (Fundstelle: BGBl. I 2008, 1380 - 1382)
 
@@ -1180,12 +1179,8 @@ Satz 3 FkSolV).
 zwei Mitgliedern des Vorstands oder anderen Zeichnungsberechtigten des
 übergeordneten Finanzkonglomeratsunternehmens zu unterschreiben.
 [^f771200_17_BJNR268800005BJNE001501377]: 
-(zu § 9 Abs. 1 Nr. 1a)
-Meldevordruck zur Ermittlung der Eigenmittel und
-Solvabilitätsanforderungen des Finanzkonglomerats auf der Grundlage
-eines Konzernabschlusses
 
-## Anlage 1a – Konsolidierte Berechnung Finanzkonglomerat (FSKFK) –
+## Anlage 1a (zu § 9 Abs. 1 Nr. 1a) Meldevordruck zur Ermittlung der Eigenmittel und Solvabilitätsanforderungen des Finanzkonglomerats auf der Grundlage eines Konzernabschlusses – Konsolidierte Berechnung Finanzkonglomerat (FSKFK) –
 
 (Fundstelle: BGBl. I 2008, 1383 - 1386)
 
@@ -2107,14 +2102,8 @@ gegenüber Unternehmen der Versicherungsbranche entsprechend.
 [^f771200_49_BJNR268800005BJNE002401377]: Diese Position ist die Summe der Positionen 201 und 202 sowie 205 bis
 210 abzüglich der Positionen 203 und 204.
 [^f771200_50_BJNR268800005BJNE002401377]: 
-(zu § 9 Abs. 1 Nr. 2)
-Meldevordruck zur Erfassung der Eigenmittel und
-Solvabilitätsanforderungen einer Institutsgruppe oder Finanzholding-
-Gruppe als Teilgruppe des Finanzkonglomerats, für die eine Berechnung
-nach § 10a Abs. 6 oder Abs. 7 des Kreditwesengesetzes in Verbindung
-mit der Solvabilitätsverordnung vorliegt
 
-## Anlage 2 - Konsolidierte Berechnung Banken (FSKBB) -
+## Anlage 2 (zu § 9 Abs. 1 Nr. 2) Meldevordruck zur Erfassung der Eigenmittel und Solvabilitätsanforderungen einer Institutsgruppe oder Finanzholding-Gruppe als Teilgruppe des Finanzkonglomerats, für die eine Berechnung nach § 10a Abs. 6 oder Abs. 7 des Kreditwesengesetzes in Verbindung mit der Solvabilitätsverordnung vorliegt - Konsolidierte Berechnung Banken (FSKBB) -
 
 (Fundstelle: BGBl. I 2008, 1387 - 1389)
 
@@ -2812,14 +2801,8 @@ mit der Solvabilitätsverordnung vorliegt
     203 zzgl. Pos. 204.
 [^f771200_62_BJNR268800005BJNE001601377]:     Der Betrag ergibt sich wie folgt: Pos. 147 abzgl. Pos. 205.
 [^f771200_63_BJNR268800005BJNE001601377]: 
-(zu § 9 Abs. 1 Nr. 3)
-Meldevordruck zur Erfassung der Eigenmittel und
-Solvabilitätsanforderungen einer Versicherungsgruppe als Teilgruppe
-des Finanzkonglomerats, für die eine Berechnung der
-Versicherungsgruppen-Solvabilität auf der Grundlage des konsolidierten
-Abschlusses vorliegt
 
-## Anlage 3 - Konsolidierte Berechnung Versicherungsunternehmen (FSKBV) -
+## Anlage 3 (zu § 9 Abs. 1 Nr. 3) Meldevordruck zur Erfassung der Eigenmittel und Solvabilitätsanforderungen einer Versicherungsgruppe als Teilgruppe des Finanzkonglomerats, für die eine Berechnung der Versicherungsgruppen-Solvabilität auf der Grundlage des konsolidierten Abschlusses vorliegt - Konsolidierte Berechnung Versicherungsunternehmen (FSKBV) -
 
 (Fundstelle: BGBl. I 2008, 1390 - 1391)
 
@@ -3229,14 +3212,8 @@ Abschlusses vorliegt
     Beteiligungsprozentsatzes (Position 006) mit der Summe der
     Solvabilitätsanforderungen (Position 206).
 [^f771200_73_BJNR268800005BJNE001701377]: 
-(zu § 9 Abs. 1 Nr. 4)
-Meldevordruck zur Erfassung der Eigenmittel und
-Solvabilitätsanforderungen einzelner Finanzkonglomeratsunternehmen der
-Banken- und Wertpapierdienstleistungsbranche auf der Grundlage der
-Einzelabschlüsse, soweit sie nicht bereits in der Berechnung nach §
-10a des Kreditwesengesetzes (Anlage 1a oder 2) erfasst wurden
 
-## Anlage 4 - Einzelabschluss Banken (FSEAB) -
+## Anlage 4 (zu § 9 Abs. 1 Nr. 4) Meldevordruck zur Erfassung der Eigenmittel und Solvabilitätsanforderungen einzelner Finanzkonglomeratsunternehmen der Banken- und Wertpapierdienstleistungsbranche auf der Grundlage der Einzelabschlüsse, soweit sie nicht bereits in der Berechnung nach § 10a des Kreditwesengesetzes (Anlage 1a oder 2) erfasst wurden - Einzelabschluss Banken (FSEAB) -
 
 (Fundstelle: BGBl. I 2008, 1392 - 1394)
 
@@ -3927,18 +3904,8 @@ Einzelabschlüsse, soweit sie nicht bereits in der Berechnung nach §
 [^f771200_84_BJNR268800005BJNE001801377]:     Die Eigenmittelausstattung des einzelnen Unternehmens ergibt sich aus:
     Pos. 146 abzgl. Pos. 205.
 [^f771200_85_BJNR268800005BJNE001801377]: 
-(zu § 9 Abs. 1 Nr. 5)
-Meldevordruck zur Erfassung der Eigenmittel und
-Solvabilitätsanforderungen
-a) einer Versicherungsgruppe als Teilgruppe des Finanzkonglomerats,
-sofern die Versicherungsgruppen-Solvabilität auf der Grundlage der
-Einzelabschlüsse zu berechnen war, oder
-b) einzelner Finanzkonglomeratsunternehmen der Versicherungsbranche,
-sofern keine Berechnung nach Buchstabe a vorzunehmen war und eine
-Berechnung ihrer Solvabilität auf der Grundlage der Einzelabschlüsse
-vorliegt oder vorzunehmen ist
 
-## Anlage 5 - Einzelabschluss Versicherungsunternehmen (FSEAV) -
+## Anlage 5 (zu § 9 Abs. 1 Nr. 5) Meldevordruck zur Erfassung der Eigenmittel und Solvabilitätsanforderungen a) einer Versicherungsgruppe als Teilgruppe des Finanzkonglomerats, sofern die Versicherungsgruppen-Solvabilität auf der Grundlage der Einzelabschlüsse zu berechnen war, oder b) einzelner Finanzkonglomeratsunternehmen der Versicherungsbranche, sofern keine Berechnung nach Buchstabe a vorzunehmen war und eine Berechnung ihrer Solvabilität auf der Grundlage der Einzelabschlüsse vorliegt oder vorzunehmen ist - Einzelabschluss Versicherungsunternehmen (FSEAV) -
 
 (Fundstelle: BGBl. I 2008, 1395 - 1396)
 
@@ -4216,13 +4183,8 @@ vorliegt oder vorzunehmen ist
     Beteiligungsprozentsatzes (Position 006) mit der Summe der
     Solvabilitätsanforderungen (Position 200).
 [^f771200_103_BJNR268800005BJNE001901377]: 
-(zu § 9 Abs. 1 Nr. 6)
-Meldevordruck zur Erfassung der in die Berechnung der
-Finanzkonglomerate-Solvabilität einbezogenen
-Finanzkonglomeratsunternehmen der Banken- und
-Wertpapierdienstleistungsbranche sowie der Versicherungsbranche
 
-## Anlage 6 - Unternehmen (FSU) -
+## Anlage 6 (zu § 9 Abs. 1 Nr. 6) Meldevordruck zur Erfassung der in die Berechnung der Finanzkonglomerate-Solvabilität einbezogenen Finanzkonglomeratsunternehmen der Banken- und Wertpapierdienstleistungsbranche sowie der Versicherungsbranche - Unternehmen (FSU) -
 
 (Fundstelle: BGBl. I 2008, 1397 - 1398)
 
@@ -4561,12 +4523,8 @@ Wertpapierdienstleistungsbranche sowie der Versicherungsbranche
     Finanzkonglomerat zählen: in diesem Fall ist das unbeaufsichtigte
     Unternehmen hier zu erfassen).
 [^f771200_121_BJNR268800005BJNE002001377]: 
-(zu § 9 Abs. 1 Nr. 7)
-Meldevordruck zur Erfassung der Anteile an den in die Berechnung
-einbezogenen Finanzkonglomeratsunternehmen der Banken- und
-Wertpapierdienstleistungsbranche sowie der Versicherungsbranche
 
-## Anlage 7 - Anteile (FSA) -
+## Anlage 7 (zu § 9 Abs. 1 Nr. 7) Meldevordruck zur Erfassung der Anteile an den in die Berechnung einbezogenen Finanzkonglomeratsunternehmen der Banken- und Wertpapierdienstleistungsbranche sowie der Versicherungsbranche - Anteile (FSA) -
 
 (Fundstelle: BGBl. I 2008, 1399 - 1400)
 
@@ -4834,12 +4792,8 @@ Wertpapierdienstleistungsbranche sowie der Versicherungsbranche
 Die Sätze 1 und 2 der Fußnote 14 zum Meldevordruck FSU gelten
 entsprechend.
 [^f771200_127_BJNR268800005BJNE002101377]: 
-(zu § 9 Abs. 1 Nr. 8)
-Meldevordruck zur Erfassung der finanzkonglomeratsangehörigen
-Unternehmen und Gruppen, für die vom Abzug branchenübergreifender
-Beteiligungen abgesehen werden kann
 
-## Anlage 8 - Abzug branchenübergreifender Beteiligungen (FSABB) -
+## Anlage 8 (zu § 9 Abs. 1 Nr. 8) Meldevordruck zur Erfassung der finanzkonglomeratsangehörigen Unternehmen und Gruppen, für die vom Abzug branchenübergreifender Beteiligungen abgesehen werden kann - Abzug branchenübergreifender Beteiligungen (FSABB) -
 
 (Fundstelle: BGBl. I 2008, 1401 - 1403)
 

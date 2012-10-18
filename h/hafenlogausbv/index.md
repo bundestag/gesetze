@@ -348,9 +348,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Hafenlogistik
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Hafenlogistik
 
 (Fundstelle: BGBl. I 2006, 216 - 219)
 

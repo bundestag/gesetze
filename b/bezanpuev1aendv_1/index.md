@@ -26,7 +26,7 @@ Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 1990 II S. 885, 1145, 1235) verordnet die Bundesregierung:
 
 
-## Art 1 - 
+## Art 1 -
 
 -
 

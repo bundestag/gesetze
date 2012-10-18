@@ -2814,90 +2814,78 @@ sind. § 83 in der seit dem 24. Februar 1999 geltenden Fassung ist auch
 auf Kopien und Ausdrucke von Protokollen anzuwenden, die vor diesem
 Zeitpunkt hergestellt worden sind.
 
-(zu § 22)
 
-### Anlage 1 (Grundbuchblatt)
+### Anlage 1 (zu § 22) (Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 5 - 15)
 
-(zu § 31)
 
-### Anlage 2a (Unübersichtliches Grundbuchblatt)
+### Anlage 2a (zu § 31) (Unübersichtliches Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines unübersichtlichen
 Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 16 - 26; bzgl. der
 einzelnen Änderungen vgl. Fußnote)
 
-(zu § 31)
 
-### Anlage 2b (Neues Grundbuchblatt)
+### Anlage 2b (zu § 31) (Neues Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines neuen Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 28 - 36)
 
-(zu § 52 Abs. 1)
 
-### Anlage 3 (Hypothekenbrief)
+### Anlage 3 (zu § 52 Abs. 1) (Hypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 37)
 
-(zu § 52 Abs. 1)
 
-### Anlage 4 (Teilhypothekenbrief)
+### Anlage 4 (zu § 52 Abs. 1) (Teilhypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Teilhypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 38)
 
-(zu § 52 Abs. 1)
 
-### Anlage 5 (Hypothekenbrief über eine Gesamthypothek)
+### Anlage 5 (zu § 52 Abs. 1) (Hypothekenbrief über eine Gesamthypothek)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes über eine
 Gesamthypothek,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 39)
 
-(zu § 52 Abs. 1)
 
-### Anlage 6 (Gemeinschaftlicher Hypothekenbrief)
+### Anlage 6 (zu § 52 Abs. 1) (Gemeinschaftlicher Hypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 40)
 
-(zu § 52 Abs. 1)
 
-### Anlage 7 (Grundschuldbrief)
+### Anlage 7 (zu § 52 Abs. 1) (Grundschuldbrief)
 
 (Inhalt: nicht darstellbares Muster eines Grundschuldbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 41)
 
-(zu § 52 Abs. 1)
 
-### Anlage 8 (Rentenschuldbrief)
+### Anlage 8 (zu § 52 Abs. 1) (Rentenschuldbrief)
 
 (Inhalt: nicht darstellbares Muster eines Rentenschuldbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 42)
 
-(zu § 58)
 
-### Anlage 9 (Erbbaugrundbuch)
+### Anlage 9 (zu § 58) (Erbbaugrundbuch)
 
 (Inhalt: nicht darstellbares Muster eines Erbbaugrundbuchs,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 44)
 
-(zu § 69 Abs. 4)
 
-### Anlage 10a (In Papierform geführtes Grundbuch)
+### Anlage 10a (zu § 69 Abs. 4) (In Papierform geführtes Grundbuch)
 
 (Inhalt: nicht darstellbares Muster eines in Papierform geführtes
 Grundbuchblatts
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 54 - 62)
 
-(zu § 69 Abs. 4)
 
-### Anlage 10b (Maschinell geführtes Grundbuchblatt)
+### Anlage 10b (zu § 69 Abs. 4) (Maschinell geführtes Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines maschinell geführtes
 Grundbuchblatts

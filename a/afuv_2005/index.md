@@ -631,9 +631,8 @@ Verordnung gelten die in § 12 Abs. 3 und 4 der Verordnung zur
 Durchführung des Gesetzes über den Amateurfunk vom 13. März 1967
 (BGBl. I S. 284) festgelegten Richtwerte.
 
-(zu § 1 Nr. 6)
 
-## Anlage 1 Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
+## Anlage 1 (zu § 1 Nr. 6) Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
 
 (Fundstelle: BGBl. I 2006, 2071 - 2073)
 
@@ -1486,9 +1485,8 @@ Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.
 
 
 
-(zu § 1 Nr. 7 und § 18)
 
-## Anlage 2 Gebührenverzeichnis
+## Anlage 2 (zu § 1 Nr. 7 und § 18) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2005, 250)
 

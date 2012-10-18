@@ -367,9 +367,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Bäderbetriebe
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Bäderbetriebe
 
 (Fundstelle: BGBl. I 1997, 743 - 746)
 

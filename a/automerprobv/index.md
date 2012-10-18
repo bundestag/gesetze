@@ -762,9 +762,8 @@ Wirtschafts- und Sozialkunde als Teil 1 der Abschlussprüfung nach §
 Diese Verordnung tritt am 1. August 2008 in Kraft und am 31. Juli 2013
 außer Kraft.
 
-(zu § 5)
 
-## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Automatenservice
+## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Automatenservice
 
 (Fundstelle: BGBl. I 2008, 7 - 10)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1226,9 +1225,8 @@ Fähigkeiten**
 
 
 
-(zu § 5)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Automatenfachmann/zur Automatenfachfrau
+## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Automatenfachmann/zur Automatenfachfrau
 
 (Fundstelle: BGBl. I 2008, 11 - 17)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

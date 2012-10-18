@@ -202,9 +202,8 @@ zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
 -
 
-(zu § 2)
 
-## Anlage 4 Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
+## Anlage 4 (zu § 2) Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
 
 (Fundstelle: BGBl. I 2011, 1997)
 
@@ -232,9 +231,8 @@ zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
 
 
-(zu § 3)
 
-## Anlage 5 Zusatzstoffe
+## Anlage 5 (zu § 3) Zusatzstoffe
 
 (Fundstelle: BGBl. I 2006, 1135 - 1137
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -2012,9 +2012,8 @@ Sachkenntnis nach § 6 Absatz 1 Nummer 1 als erbracht.
 
 (weggefallen)
 
-(zu § 1 Abs. 1)
 
-### Anlage I nicht verkehrsfähige Betäubungsmittel)
+### Anlage I (zu § 1 Abs. 1) nicht verkehrsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1180 - 1186;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3246,9 +3245,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Abs. 1)
 
-### Anlage II (verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
+### Anlage II (zu § 1 Abs. 1) (verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1187 - 1189;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4126,9 +4124,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Abs. 1)
 
-### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
+### Anlage III (zu § 1 Abs. 1) verkehrsfähige und verschreibungsfähige Betäubungsmittel
 
 (Fundstelle: BGBl. I 2001, 1189 - 1195;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

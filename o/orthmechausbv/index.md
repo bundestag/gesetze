@@ -423,9 +423,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Orthopädiemechaniker und Bandagisten/zur Orthopädiemechanikerin und Bandagistin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Orthopädiemechaniker und Bandagisten/zur Orthopädiemechanikerin und Bandagistin
 
 (Fundstelle: BGBl. I 1996, 850 - 856)
 

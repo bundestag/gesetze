@@ -75,10 +75,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für
-den Verkehrsflughafen Münster/Osnabrück)
 
-## Anlage 1 Lärmschutzbereich
+## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Münster/Osnabrück) Lärmschutzbereich
 
 (Fundstelle des Originaltextes: BGBl. I 1995, 272 - 273)
 

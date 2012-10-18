@@ -47,9 +47,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1)
 
-## Anlage Formular für die Übermittlung eines Antrags auf Prozesskostenhilfe
+## Anlage (zu § 1) Formular für die Übermittlung eines Antrags auf Prozesskostenhilfe
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3539 - 3541
 ----------------------------------------------------------------------
@@ -217,9 +216,8 @@ Ort:
 Datum:
 Unterschrift:
 
-(zu § 1)
 
-## Anlage Formular für Anträge auf Prozesskostenhilfe in einem anderen Mitgliedstaat der Europäischen Union
+## Anlage (zu § 1) Formular für Anträge auf Prozesskostenhilfe in einem anderen Mitgliedstaat der Europäischen Union
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3542 - 3547
 ----------------------------------------------------------------------

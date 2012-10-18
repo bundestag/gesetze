@@ -22,9 +22,8 @@ Zuletzt geändert durch
 ## Teil 1 - Anwendungsbereich
 
 
-Anwendungsbereich
 
-### § 1 (Zu Artikel 1, Artikel 17, Artikel 86 und Artikel 34 des Römischen Statuts)
+### § 1 Anwendungsbereich (Zu Artikel 1, Artikel 17, Artikel 86 und Artikel 34 des Römischen Statuts)
 
 (1) Der Internationale Strafgerichtshof ergänzt die deutsche
 Strafgerichtsbarkeit. Die Bundesrepublik Deutschland arbeitet nach
@@ -41,9 +40,8 @@ seiner Anklagebehörde, der Kanzlei und der Angehörigen dieser Organe.
 ## Teil 2 - Überstellung
 
 
-Grundsatz
 
-### § 2 (Zu Artikel 89 Abs. 1, Artikel 91 Abs. 2 und 3 des Römischen Statuts)
+### § 2 Grundsatz (Zu Artikel 89 Abs. 1, Artikel 91 Abs. 2 und 3 des Römischen Statuts)
 
 (1) Personen, um deren Überstellung der Gerichtshof in Übereinstimmung
 mit dem Römischen Statut ersucht hat und die sich im Inland aufhalten,
@@ -56,10 +54,8 @@ zuständigen Stellen des Staates, in dem eine vom Gerichtshof verhängte
 Freiheitsstrafe vollstreckt werden soll (Vollstreckungsstaat),
 vollzogen werden.
 
-Überstellungsersuchen und früheres Strafverfahren vor dem Gerichtshof
-oder in einem ausländischen Staat
 
-### § 3 (Zu Artikel 89 Abs. 2 Satz 1 des Römischen Statuts)
+### § 3 Überstellungsersuchen und früheres Strafverfahren vor dem Gerichtshof oder in einem ausländischen Staat (Zu Artikel 89 Abs. 2 Satz 1 des Römischen Statuts)
 
 Macht der Verfolgte während des Überstellungsverfahrens geltend, wegen
 der Tat, derentwegen der Gerichtshof um Überstellung ersucht, schon
@@ -74,9 +70,8 @@ entscheidet. Der Verfolgte wird nicht überstellt, wenn der Gerichtshof
 entscheidet, dass die Durchführung eines Strafverfahrens nicht
 zulässig ist.
 
-Überstellungsersuchen und Auslieferungsersuchen
 
-### § 4 (Zu Artikel 90 des Römischen Statuts)
+### § 4 Überstellungsersuchen und Auslieferungsersuchen (Zu Artikel 90 des Römischen Statuts)
 
 (1) Ersucht ein ausländischer Staat um Auslieferung einer Person wegen
 einer der Gerichtsbarkeit des Gerichtshofes unterliegenden Tat, kann
@@ -122,9 +117,8 @@ des Auslieferungsersuchens sprechen, deutlich überwiegen.
 (7) Der Gerichtshof wird in allen Fällen über die Entscheidung über
 das Auslieferungsersuchen unterrichtet.
 
-Überstellungsunterlagen
 
-### § 5 (Zu Artikel 91 Abs. 2 und 3, Artikel 111 des Römischen Statuts)
+### § 5 Überstellungsunterlagen (Zu Artikel 91 Abs. 2 und 3, Artikel 111 des Römischen Statuts)
 
 (1) Die Überstellung an den Gerichtshof ist nur zulässig, wenn die in
 Artikel 91 Abs. 2 des Römischen Statuts (Überstellung zur
@@ -192,9 +186,8 @@ der Sache befasst wurde.
 (3) Solange der Aufenthalt des Verfolgten nicht bekannt ist, richtet
 sich die Zuständigkeit nach dem Sitz der Bundesregierung.
 
-Fahndungsmaßnahmen
 
-### § 9 (Zu Artikel 59 Abs. 1 des Römischen Statuts)
+### § 9 Fahndungsmaßnahmen (Zu Artikel 59 Abs. 1 des Römischen Statuts)
 
 (1) Nach Eingang eines Ersuchens des Gerichtshofes um Festnahme und
 Überstellung nach Artikel 89 Abs. 1 des Römischen Statuts oder
@@ -209,9 +202,8 @@ gesonderten Ersuchens des Gerichtshofes. Zuständig für die
 Ausschreibung zur Festnahme ist die Staatsanwaltschaft bei dem
 Oberlandesgericht.
 
-Überstellungshaft
 
-### § 10 (Zu Artikel 59 Abs. 1 des Römischen Statuts)
+### § 10 Überstellungshaft (Zu Artikel 59 Abs. 1 des Römischen Statuts)
 
 Nach Eingang des Festnahme- und Überstellungsersuchens, dem im Falle
 einer Überstellung zur Strafverfolgung die in Artikel 91 Abs. 2 des
@@ -220,9 +212,8 @@ Strafvollstreckung die in Artikel 91 Abs. 3 des Römischen Statuts
 bezeichneten Unterlagen beigefügt sind, wird gegen den Verfolgten die
 Überstellungshaft angeordnet.
 
-Vorläufige Überstellungshaft
 
-### § 11 (Zu Artikel 59 Abs. 1, Artikel 92 des Römischen Statuts)
+### § 11 Vorläufige Überstellungshaft (Zu Artikel 59 Abs. 1, Artikel 92 des Römischen Statuts)
 
 (1) Liegen ein Ersuchen des Gerichtshofes um vorläufige Festnahme und
 die in Artikel 92 Abs. 2 des Römischen Statuts bezeichneten Unterlagen
@@ -317,9 +308,8 @@ Festnahme mitzuteilen.
 (3) Liegt ein Überstellungshaftbefehl vor, so ist er dem Verfolgten
 unverzüglich bekannt zu geben. Der Verfolgte erhält eine Abschrift.
 
-Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls
 
-### § 14 (Zu Artikel 59 Abs. 2 des Römischen Statuts)
+### § 14 Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls (Zu Artikel 59 Abs. 2 des Römischen Statuts)
 
 (1) Wird der Verfolgte auf Grund eines Überstellungshaftbefehls
 ergriffen, so ist er unverzüglich, spätestens am Tag nach der
@@ -416,10 +406,8 @@ führt unverzüglich die Entscheidung des Oberlandesgerichts herbei; die
 Beteiligung des Gerichtshofes richtet sich nach Artikel 59 Abs. 4 bis
 6 des Römischen Statuts. § 14 Abs. 5 bis 7 gilt entsprechend.
 
-Haftentscheidungen, Aussetzung des Vollzuges des
-Überstellungshaftbefehls
 
-### § 16 (Zu Artikel 59 Abs. 4 bis 6 des Römischen Statuts)
+### § 16 Haftentscheidungen, Aussetzung des Vollzuges des Überstellungshaftbefehls (Zu Artikel 59 Abs. 4 bis 6 des Römischen Statuts)
 
 (1) Über Einwendungen des Verfolgten gegen den Überstellungshaftbefehl
 oder gegen dessen Vollzug entscheidet das Oberlandesgericht.
@@ -582,9 +570,8 @@ das Oberlandesgericht nach Bewilligung der Überstellung den Vollzug
 an, sofern nicht gewichtige Gründe gegen die Inhaftnahme sprechen und
 die Durchführung der Überstellung auf andere Weise gewährleistet ist.
 
-Spezialität
 
-### § 25 (Zu Artikel 101 des Römischen Statuts)
+### § 25 Spezialität (Zu Artikel 101 des Römischen Statuts)
 
 (1) Der Gerichtshof kann nach Maßgabe des Artikels 101 Abs. 2 des
 Römischen Statuts einen an ihn überstellten Verfolgten auch wegen
@@ -652,9 +639,8 @@ wegen der Tat die Überstellung an den Gerichtshof zulässig wäre.
 Absatz 1 Satz 2 ist entsprechend anzuwenden. Für das Verfahren gelten
 die §§ 19 bis 23 entsprechend.
 
-Vorübergehende Überstellung
 
-### § 27 (Zu Artikel 89 Abs. 4 des Römischen Statuts)
+### § 27 Vorübergehende Überstellung (Zu Artikel 89 Abs. 4 des Römischen Statuts)
 
 (1) Wird die bewilligte Überstellung aufgeschoben, weil im Inland
 gegen den Verfolgten ein Strafverfahren geführt wird oder eine
@@ -807,9 +793,8 @@ bestellen.
 Strafprozessordnung mit Ausnahme der dortigen §§ 140, 141 Abs. 1 bis 3
 und § 142 Abs. 2 gelten entsprechend.
 
-Vereinfachte Überstellung
 
-### § 32 (Zu Artikel 92 Abs. 3 Satz 2 des Römischen Statuts)
+### § 32 Vereinfachte Überstellung (Zu Artikel 92 Abs. 3 Satz 2 des Römischen Statuts)
 
 (1) Die Überstellung einer Person, gegen die ein
 Überstellungshaftbefehl besteht und um deren Festnahme und
@@ -852,9 +837,8 @@ Oberlandesgericht dies zur Klärung einer Rechtsfrage beantragt.
 ## Teil 3 - Durchbeförderung
 
 
-Grundsatz
 
-### § 34 (Zu Artikel 89 Abs. 3 des Römischen Statuts)
+### § 34 Grundsatz (Zu Artikel 89 Abs. 3 des Römischen Statuts)
 
 Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen
 Einverständnis der Staat, aus dem der Verfolgte an den Gerichtshof
@@ -863,9 +847,8 @@ Vollstreckungsstaat ersucht hat, werden zur Strafverfolgung oder zur
 Strafvollstreckung nach Maßgabe des Statuts und dieses Gesetzes durch
 das Bundesgebiet befördert.
 
-Durchbeförderungsunterlagen
 
-### § 35 (Zu Artikel 89 Abs. 3 des Römischen Statuts)
+### § 35 Durchbeförderungsunterlagen (Zu Artikel 89 Abs. 3 des Römischen Statuts)
 
 (1) Eine Durchbeförderung an den Gerichtshof nach Artikel 89 Abs. 3
 des Römischen Statuts zur Strafverfolgung oder Strafvollstreckung ist
@@ -911,9 +894,8 @@ Ersuchen ergibt.
 (3) Ist eine Zuständigkeit nach Absatz 2 Nr. 2 nicht begründet, so ist
 das Oberlandesgericht Frankfurt am Main zuständig.
 
-Durchbeförderungsverfahren
 
-### § 37 (Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)
+### § 37 Durchbeförderungsverfahren (Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)
 
 (1) Erscheint die Durchbeförderung zulässig, so wird der Verfolgte zu
 ihrer Sicherung in Haft gehalten.
@@ -986,9 +968,8 @@ vorangegangenen vorübergehenden Überstellung an den Überstellungsstaat
 entsprechend anwendbar, sofern der Umstand der späteren
 Rücküberstellung bei der ersten Durchbeförderung erkennbar war.
 
-Unvorhergesehene Zwischenlandung
 
-### § 39 (Zu Artikel 89 Abs. 3 Buchstabe e des Römischen Statuts)
+### § 39 Unvorhergesehene Zwischenlandung (Zu Artikel 89 Abs. 3 Buchstabe e des Römischen Statuts)
 
 (1) Im Falle einer unvorhergesehenen Zwischenlandung im Inland
 unterrichtet die Stelle, der die Zwischenlandung zuerst bekannt und
@@ -1021,9 +1002,8 @@ sowie dieses Gesetzes geleistet. Vollstreckt werden auch Anordnungen
 des Verfalls nach Artikel 77 Abs. 2 Buchstabe b des Römischen Statuts
 sowie Entscheidungen nach Artikel 75 des Römischen Statuts.
 
-Vollstreckung von Freiheitsstrafen
 
-### § 41 (Zu Artikel 77 Abs. 1, Artikel 103 Abs. 1 und 2, Artikel 105, Artikel 106, Artikel 110 des Römischen Statuts)
+### § 41 Vollstreckung von Freiheitsstrafen (Zu Artikel 77 Abs. 1, Artikel 103 Abs. 1 und 2, Artikel 105, Artikel 106, Artikel 110 des Römischen Statuts)
 
 (1) Freiheitsstrafen werden vollstreckt, wenn
 
@@ -1090,9 +1070,8 @@ Bund entsprechend einer mit den Ländern zu schließenden Vereinbarung
 getragen. Dies gilt nicht, soweit Kosten nach dem Statut oder anderen
 Bestimmungen vom Gerichtshof übernommen werden.
 
-Flucht und Spezialität
 
-### § 42 (Zu Artikel 108, Artikel 111 des Römischen Statuts)
+### § 42 Flucht und Spezialität (Zu Artikel 108, Artikel 111 des Römischen Statuts)
 
 (1) Entweicht der Verurteilte oder entzieht er sich sonst dem Vollzug,
 erlässt die nach § 46 Abs. 1 zuständige Stelle Haftbefehl und ergreift
@@ -1119,9 +1098,8 @@ des Römischen Statuts zuvor zugestimmt hat und die Auslieferung nach
 den im Verhältnis zum ersuchenden Staat anwendbaren
 Auslieferungsvorschriften zulässig ist.
 
-Vollstreckung von Geldstrafen
 
-### § 43 (Zu Artikel 77 Abs. 2 Buchstabe a, Artikel 109 Abs. 1 des Römischen Statuts)
+### § 43 Vollstreckung von Geldstrafen (Zu Artikel 77 Abs. 2 Buchstabe a, Artikel 109 Abs. 1 des Römischen Statuts)
 
 (1) Geldstrafen werden vollstreckt, wenn
 
@@ -1171,9 +1149,8 @@ Römischen Statuts verhängten Geldstrafe eine Freiheitsstrafe
 festsetzt, finden auf die Vollstreckung der Freiheitsstrafe die §§ 41
 und 42 Anwendung.
 
-Vollstreckung von Verfallsanordnungen
 
-### § 44 (Zu Artikel 77 Abs. 2 Buchstabe b, Artikel 109 Abs. 2 des Römischen Statuts)
+### § 44 Vollstreckung von Verfallsanordnungen (Zu Artikel 77 Abs. 2 Buchstabe b, Artikel 109 Abs. 2 des Römischen Statuts)
 
 (1) Anordnungen nach Artikel 77 Abs. 2 Buchstabe b des Römischen
 Statuts (Verfallsanordnungen) werden vollstreckt, wenn
@@ -1240,9 +1217,8 @@ Herausgabe an den Verletzten die Stellungnahme des Gerichtshofes
 eingeholt wird; die Herausgabe unterbleibt, soweit sich der
 Gerichtshof in seiner Stellungnahme gegen sie ausspricht.
 
-Vollstreckung von Wiedergutmachungsanordnungen
 
-### § 45 (Zu Artikel 75 Abs. 2, Artikel 109 des Römischen Statuts)
+### § 45 Vollstreckung von Wiedergutmachungsanordnungen (Zu Artikel 75 Abs. 2, Artikel 109 des Römischen Statuts)
 
 Wiedergutmachungsanordnungen, die auf die Zahlung einer Geldsumme
 gerichtet sind, werden vollstreckt, wenn
@@ -1319,9 +1295,8 @@ Beistand zu bestellen ist, wenn
 ## Teil 5 - Sonstige Rechtshilfe
 
 
-Grundsatz
 
-### § 47 (Zu Artikel 93 Abs. 1, Artikel 96 Abs. 1 und 2 des Römischen Statuts)
+### § 47 Grundsatz (Zu Artikel 93 Abs. 1, Artikel 96 Abs. 1 und 2 des Römischen Statuts)
 
 (1) Vorbehaltlich § 58 Abs. 2 wird dem Gerichtshof auf Ersuchen
 sonstige Rechtshilfe nach Maßgabe des Römischen Statuts und dieses
@@ -1541,9 +1516,8 @@ auch nicht verwertet werden, wenn die Person verpflichtet war, vor dem
 Gerichtshof Angaben zu machen, sie nach deutschem Recht aber die
 Angaben hätte verweigern können.
 
-Vorübergehende Übergabe
 
-### § 54 (Zu Artikel 93 Abs. 1 und 7 des Römischen Statuts)
+### § 54 Vorübergehende Übergabe (Zu Artikel 93 Abs. 1 und 7 des Römischen Statuts)
 
 Wer sich im Inland in Untersuchungs- oder Strafhaft befindet oder auf
 Grund der Anordnung einer freiheitsentziehenden Maßregel der Besserung
@@ -1672,9 +1646,8 @@ dass an die Stelle der Frist des Absatzes 5 von zwei Monaten eine
 Frist von einem Monat tritt. Ferner finden § 14 Abs. 5, §§ 18, 20 Abs.
 2, § 37 Abs. 4 und 5 Satz 1, 2 und 4 entsprechende Anwendung.
 
-Schutz von Personen
 
-### § 56 (Zu Artikel 93 Abs. 1 Buchstabe j des Römischen Statuts)
+### § 56 Schutz von Personen (Zu Artikel 93 Abs. 1 Buchstabe j des Römischen Statuts)
 
 Die Vorschriften zum Schutz von Opfern von Straftaten und zum Schutz
 von Personen, die an einem deutschen Strafverfahren beteiligt sind,
@@ -1682,9 +1655,8 @@ finden auf mutmaßliche Geschädigte einer der Gerichtsbarkeit des
 Gerichtshofes unterliegenden Straftat oder auf Zeugen in einem
 Verfahren vor dem Gerichtshof entsprechende Anwendung.
 
-Zustellungen
 
-### § 57 (Zu Artikel 58 Abs. 7 Satz 4, Artikel 93 Abs. 1 Buchstabe d des Römischen Statuts)
+### § 57 Zustellungen (Zu Artikel 58 Abs. 7 Satz 4, Artikel 93 Abs. 1 Buchstabe d des Römischen Statuts)
 
 (1) Für das Verfahren bei Zustellungen gelten die Vorschriften der
 Zivilprozessordnung entsprechend.
@@ -1752,10 +1724,8 @@ wurden, so dürfen die Informationen dem Gerichtshof nicht übermittelt
 werden, solange die Zustimmung des Urhebers nach Artikel 73 Satz 1 des
 Römischen Statuts nicht vorliegt. Der Gerichtshof ist zu unterrichten.
 
-Telekommunikationsüberwachung und sonstige Maßnahmen ohne Wissen des
-Betroffenen
 
-### § 59 (Zu Artikel 93 Abs. 1 Buchstabe l des Römischen Statuts)
+### § 59 Telekommunikationsüberwachung und sonstige Maßnahmen ohne Wissen des Betroffenen (Zu Artikel 93 Abs. 1 Buchstabe l des Römischen Statuts)
 
 (1) Die Anordnung der Überwachung der Telekommunikation (§ 100a der
 Strafprozessordnung) und die Übermittlung der durch die Überwachung
@@ -1786,9 +1756,8 @@ erlangten Erkenntnisse sind nur zulässig, wenn
 Strafprozessordnung bezeichneten Maßnahmen ohne Wissen des Betroffenen
 angeordnet. Absatz 1 gilt entsprechend.
 
-Anwesenheit bei Rechtshilfehandlungen
 
-### § 60 (Zu Artikel 99 Abs. 1 des Römischen Statuts)
+### § 60 Anwesenheit bei Rechtshilfehandlungen (Zu Artikel 99 Abs. 1 des Römischen Statuts)
 
 Angehörigen und Bevollmächtigten des Gerichtshofes sowie anderen im
 Ersuchen des Gerichtshofes genannten Personen wird auf Ersuchen die
@@ -1802,9 +1771,8 @@ Voraussetzungen der Strafprozessordnung vorliegen. Aufzeichnungen, die
 nach Satz 3 angefertigt worden sind, dürfen in einem deutschen
 Strafverfahren nicht verwertet werden.
 
-Gerichtliche Anhörungen
 
-### § 61 (Zu Artikel 3 Abs. 2 des Römischen Statuts)
+### § 61 Gerichtliche Anhörungen (Zu Artikel 3 Abs. 2 des Römischen Statuts)
 
 (1) Auf Ersuchen des Gerichtshofes wird diesem gestattet, gerichtliche
 Anhörungen im Inland durchzuführen.
@@ -1812,9 +1780,8 @@ Anhörungen im Inland durchzuführen.
 (2) Auf die Vollstreckung einer Geldstrafe nach Artikel 71 Abs. 1 des
 Römischen Statuts findet § 43 entsprechende Anwendung.
 
-Unmittelbare Erledigung durch den Gerichtshof
 
-### § 62 (Zu Artikel 99 Abs. 4 Buchstabe b des Römischen Statuts)
+### § 62 Unmittelbare Erledigung durch den Gerichtshof (Zu Artikel 99 Abs. 4 Buchstabe b des Römischen Statuts)
 
 Auf besonderes Ersuchen wird Angehörigen und Bevollmächtigten des
 Gerichtshofes in Absprache mit den zuständigen deutschen Behörden
@@ -1825,9 +1792,8 @@ Römischen Statuts bewilligt werden. Die Anordnung und Durchführung von
 Zwangsmaßnahmen bleibt in allen Fällen den zuständigen deutschen
 Behörden vorbehalten und richtet sich nach deutschem Recht.
 
-Einleitung eines deutschen Strafverfahrens
 
-### § 63 (Zu Artikel 70 Abs. 4 des Römischen Statuts)
+### § 63 Einleitung eines deutschen Strafverfahrens (Zu Artikel 70 Abs. 4 des Römischen Statuts)
 
 Ersucht der Gerichtshof nach Artikel 70 Abs. 4 Buchstabe b des
 Römischen Statuts um Einleitung eines Strafverfahrens gegen eine
@@ -1842,9 +1808,8 @@ Akten sind zurückzugeben, sofern der Gerichtshof darum ersucht.
 ## Teil 6 - Ausgehende Ersuchen
 
 
-Form und Inhalt der Ersuchen
 
-### § 64 (Zu Artikel 93 Abs. 10, Artikel 96 Abs. 4 des Römischen Statuts)
+### § 64 Form und Inhalt der Ersuchen (Zu Artikel 93 Abs. 10, Artikel 96 Abs. 4 des Römischen Statuts)
 
 An den Gerichtshof nach Artikel 93 Abs. 10 Buchstabe a des Römischen
 Statuts gerichtete Ersuchen um Rechtshilfe oder Überstellung sowie die
@@ -1997,10 +1962,8 @@ Gerichtshofes richten sich nach § 14 Abs. 1 Satz 1 Nr. 2 des
 Bundeskriminalamtgesetzes und § 15 Abs. 1 bis 3 des
 Bundeskriminalamtgesetzes.
 
-Deutsches Strafverfahren und früheres Strafverfahren vor dem
-Gerichtshof
 
-### § 69 (Zu Artikel 20 Abs. 2, Artikel 70 Abs. 2 des Römischen Statuts)
+### § 69 Deutsches Strafverfahren und früheres Strafverfahren vor dem Gerichtshof (Zu Artikel 20 Abs. 2, Artikel 70 Abs. 2 des Römischen Statuts)
 
 (1) Niemand darf wegen eines in Artikel 5 des Römischen Statuts
 bezeichneten Verbrechens oder einer in Artikel 70 Abs. 1 des Römischen
@@ -2020,9 +1983,8 @@ anhängig, bedarf es zur Einstellung eines Gerichtsbeschlusses.
 Strafverfolgungsmaßnahmen wird die Entscheidung des Gerichtshofes zur
 Schuld- und Straffrage zu Grunde gelegt.
 
-Benachrichtigung
 
-### § 70 (Zu Artikel 27 des Römischen Statuts)
+### § 70 Benachrichtigung (Zu Artikel 27 des Römischen Statuts)
 
 Richtet sich ein Ersuchen des Gerichtshofes um Überstellung oder
 sonstige Rechtshilfe gegen ein Mitglied des Deutschen Bundestages oder
@@ -2036,9 +1998,8 @@ Durchführung des Verfahrens vor dem Gerichtshof oder des
 Überstellungsverfahrens infolge der Unterrichtung nicht gefährdet
 wird.
 
-Kosten
 
-### § 71 (Zu Artikel 100, Artikel 107 Abs. 2 des Römischen Statuts)
+### § 71 Kosten (Zu Artikel 100, Artikel 107 Abs. 2 des Römischen Statuts)
 
 Auf die Erstattung der vom Gerichtshof zu tragenden Kosten der
 Rechtshilfe kann verzichtet werden.

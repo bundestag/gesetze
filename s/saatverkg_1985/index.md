@@ -3248,9 +3248,8 @@ Juni 2000. Die Zulassungen können nach § 36 Abs. 2 verlängert werden.
 
 (Inkrafttreten)
 
-Auszug aus EinigVtr Anlage I Kapitel VI Sachgebiet A Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1010)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1010)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

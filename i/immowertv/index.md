@@ -626,9 +626,8 @@ geändert worden ist, außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 20)
 
-### Anlage 1 Barwertfaktoren für die Kapitalisierung
+### Anlage 1 (zu § 20) Barwertfaktoren für die Kapitalisierung
 
 (Fundstelle: BGBl. I 2010, 645 - 648)
 
@@ -5128,9 +5127,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 20)
 
-### Anlage 2 Barwertfaktoren für die Abzinsung
+### Anlage 2 (zu § 20) Barwertfaktoren für die Abzinsung
 
 (Fundstelle: BGBl. I 2010, 649 - 652)
 

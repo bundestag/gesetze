@@ -26,9 +26,8 @@ Zuletzt geändert durch
 
 -
 
-Mischgetränke
 
-## § 22 (zu § 53 Abs. 3 des Gesetzes)
+## § 22 Mischgetränke (zu § 53 Abs. 3 des Gesetzes)
 
 Durch Vermischen von Wein, Schaumwein und Schaumwein mit zugesetzter
 Kohlensäure, Perlwein oder Perlwein mit zugesetzter Kohlensäure mit

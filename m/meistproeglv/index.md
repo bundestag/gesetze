@@ -47,9 +47,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1)
 
-## Anlage Aufstellung der gleichgestellten Meisterprüfungszeugnisse
+## Anlage (zu § 1) Aufstellung der gleichgestellten Meisterprüfungszeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 1997, 143
 

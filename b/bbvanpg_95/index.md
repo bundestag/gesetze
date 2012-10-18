@@ -261,7 +261,7 @@ der einmaligen Zahlung nach diesen Vorschriften gleich, auch wenn die
 Regelungen im einzelnen nicht übereinstimmen.
 
 
-### Art 3 - Anpassung von Erschwerniszulagen und der  Mehrarbeitsvergütung
+### Art 3 - Anpassung von Erschwerniszulagen und der Mehrarbeitsvergütung
 
 (1)
 

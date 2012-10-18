@@ -315,9 +315,8 @@ der Schadstoffgruppe 4 an, wenn
 
 
 
-Plakettenmuster
 
-## Anhang 1 (zu § 2 Abs. 1 und § 3 Abs. 1)
+## Anhang 1 Plakettenmuster (zu § 2 Abs. 1 und § 3 Abs. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 2220)
 
@@ -371,9 +370,8 @@ dem Farbregister RAL 840-HR, herausgegeben vom RAL Deutsches Institut
 für Gütesicherung und Kennzeichnung e.V., Siegburger Str. 39, 53757
 St. Augustin, zu entnehmen.
 
-Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen
 
-## Anhang 2 (zu § 2 Abs. 2)
+## Anhang 2 Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2221 - 2224;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -902,9 +900,8 @@ den Schadstoffgruppen 1 und 4 wie folgt zugeordnet:
 Elektromotor, Brennstoffzellenfahrzeuge) werden der Schadstoffgruppe 4
 zugeordnet.
 
-Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1
 
-## Anhang 3 (zu § 2 Abs. 3)
+## Anhang 3 Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1 (zu § 2 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2225;
 bzgl. der einzelnen Änderungen vgl. Fußnote

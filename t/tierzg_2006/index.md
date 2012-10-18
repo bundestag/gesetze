@@ -1659,9 +1659,8 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
 
-(zu § 3 Abs. 1 und § 8 Abs. 1 Nr. 1)
 
-### Anlage 1 Anforderungen an die Anerkennung von Zuchtorganisationen
+### Anlage 1 (zu § 3 Abs. 1 und § 8 Abs. 1 Nr. 1) Anforderungen an die Anerkennung von Zuchtorganisationen
 
 ( Fundstelle des Originaltextes: BGBl. I 2006, 3307;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -1746,12 +1745,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
-   (zu § 4 Abs. 1 Nr. 7 Buchstabe b sowie Nr. 8 Buchstabe a und § 6 Abs.
-2)
 
-### Anlage 2 Anforderungen an Zuchtbücher und Zuchtregister und an die Eintragung in Zuchtbücher und Zuchtregister
+### Anlage 2 (zu § 4 Abs. 1 Nr. 7 Buchstabe b sowie Nr. 8 Buchstabe a und § 6 Abs. 2) Anforderungen an Zuchtbücher und Zuchtregister und an die Eintragung in Zuchtbücher und Zuchtregister
 
-( Fundstelle des Originaltextes: BGBl. I 2006, 3308;
+   ( Fundstelle des Originaltextes: BGBl. I 2006, 3308;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 *    *
@@ -1868,12 +1865,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
-   (zu § 7 Abs. 1 und 4 Nr. 2, § 8 Abs. 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 2
-Buchstabe a und § 19 Abs. 1 Satz 3)
 
-### Anlage 3 Anforderungen an Leistungsprüfungen und Zuchtwertschätzung
+### Anlage 3 (zu § 7 Abs. 1 und 4 Nr. 2, § 8 Abs. 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 2 Buchstabe a und § 19 Abs. 1 Satz 3) Anforderungen an Leistungsprüfungen und Zuchtwertschätzung
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 3309)
+   (Fundstelle des Originaltextes: BGBl. I 2006, 3309)
 
 *    *   Tiere
 
@@ -1954,11 +1949,10 @@ Buchstabe a und § 19 Abs. 1 Satz 3)
 
 
 
-   (zu § 12 Satz 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 4 und § 15 Abs. 4)
 
-### Anlage 4 Anforderungen an Zuchtbescheinigungen und Herkunftsbescheinigungen
+### Anlage 4 (zu § 12 Satz 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 4 und § 15 Abs. 4) Anforderungen an Zuchtbescheinigungen und Herkunftsbescheinigungen
 
-(Fundstelle: BGBl. I 2006, 3310)
+   (Fundstelle: BGBl. I 2006, 3310)
 
 *    *   Tiere
 
@@ -2080,9 +2074,8 @@ Buchstabe a und § 19 Abs. 1 Satz 3)
 
 
 
-(zu § 19 Abs. 1 Nr. 1 sowie Nr. 2 Buchstabe b)
 
-### Anlage 5 Anforderungen an Bescheinigungen für Tiere, Samen, Eizellen und Embryonen bei der Drittlandseinfuhr
+### Anlage 5 (zu § 19 Abs. 1 Nr. 1 sowie Nr. 2 Buchstabe b) Anforderungen an Bescheinigungen für Tiere, Samen, Eizellen und Embryonen bei der Drittlandseinfuhr
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3311 - 3313)
 

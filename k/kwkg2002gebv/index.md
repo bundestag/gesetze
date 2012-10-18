@@ -78,9 +78,8 @@ Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1 Absatz 2 Satz 1)
 
-## Anlage 1 Gebührenverzeichnis
+## Anlage 1 (zu § 1 Absatz 2 Satz 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 1875 - 1876)
 
@@ -232,9 +231,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Kopplungsgesetzes durch das Bundesamt für Wirtschaft und
     Ausfuhrkontrolle erteilt wird.
 [^F2_778162_BJNR123100002BJNE000700140]: 
-(zu § 1 Absatz 2 Satz 2)
 
-## Anlage 2 Gebührenverzeichnis
+## Anlage 2 (zu § 1 Absatz 2 Satz 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 402;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -360,9 +358,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Kopplungsgesetzes durch das Bundesamt für Wirtschaft und
     Ausfuhrkontrolle erteilt wird.
 [^F1_771916_BJNR123100002BJNE000601140]: 
-(zu § 1 Absatz 2 Satz 2)
 
-## Anlage 3 Gebührenverzeichnis
+## Anlage 3 (zu § 1 Absatz 2 Satz 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2002, 1231;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

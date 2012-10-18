@@ -353,9 +353,8 @@ den §§ 17, 17b Absatz 1 Nummer 4 und den §§ 18 bis 30 des
 Tierseuchengesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung
 erforderlich sind, bleibt unberührt.
 
-(zu § 1)
 
-## Anlage 1 Voraussetzungen, unter denen ein Rinderbestand als BVDV-unverdächtig gilt
+## Anlage 1 (zu § 1) Voraussetzungen, unter denen ein Rinderbestand als BVDV-unverdächtig gilt
 
 (Fundstelle: BGBl. I 2010, 1324)
 
@@ -438,9 +437,8 @@ soweit die nachfolgenden Anforderungen erfüllt sind:
 
 
 
-(zu § 4 Abs. 4)
 
-## Anlage 2 Amtstierärztliche Bescheinigung über die BVDV-Unverdächtigkeit eines Rinderbestandes
+## Anlage 2 (zu § 4 Abs. 4) Amtstierärztliche Bescheinigung über die BVDV-Unverdächtigkeit eines Rinderbestandes
 
 (Fundstelle: BGBl. I 2010, 1325)
 [^F771622.1_BJNR246110008BJNE001101377]

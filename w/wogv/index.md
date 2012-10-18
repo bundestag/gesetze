@@ -397,9 +397,8 @@ abzusetzen.
 
 (4) (weggefallen)
 
-Anlage
 
-### Anlage (zu § 1 Abs. 3)
+### Anlage Anlage (zu § 1 Abs. 3)
 
 (Fundestelle: BGBl. I 2008, 2487 - 2519)
 [^f771614_01_BJNR020650971BJNE002413308]

@@ -275,34 +275,8 @@ eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-(zu § 4)
 
-### Anlage 1 Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
-
-Fundstelle des Originaltextes: BGBl. I 2002, 1795
-
-Beschluss des Rates vom 18. Juni 1998 über den Abschluss des Abkommens
-zwischen der Europäischen Gemeinschaft und Australien über die
-gegenseitige Anerkennung der Konformitätsbewertung, der Bescheinigung
-und der Kennzeichnungen (98/508/EG) (ABl. EG Nr. L 229 S. 1)
-Beschluss des Rates vom 18. Juni 1998 über den Abschluss des Abkommens
-zwischen der Europäischen Gemeinschaft und Neuseeland über die
-gegenseitige Anerkennung der Konformitätsbewertung (98/509/EG) (ABl.
-EG Nr. L 229 S. 61)
-Beschluss des Rates vom 20. Juni 1998 über den Abschluss des Abkommens
-zwischen der Europäischen Gemeinschaft und Kanada über die
-gegenseitige Anerkennung (98/566/EG) (ABl. EG Nr. L 280 S. 1)
-Beschluss des Rates vom 22. Juni 1998 über den Abschluss des Abkommens
-zwischen der Europäischen Gemeinschaft und den Vereinigten Staaten von
-Amerika über die gegenseitige Anerkennung (1999/78/EG) (ABl. EG Nr. L
-31 S. 1)
-Beschluss des Rates vom 27. September 2001 über den Abschluss des
-Abkommens zwischen der Europäischen Gemeinschaft und Japan über die
-gegenseitige Anerkennung (2001/747/EG) (ABl. EG Nr. L 284 S. 1)
-
-(zu § 7)
-
-### Anlage 2 Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor elektromagnetische Verträglichkeit
+### Anlage 1 (zu § 4) Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1795
 
@@ -325,9 +299,32 @@ Beschluss des Rates vom 27. September 2001 über den Abschluss des
 Abkommens zwischen der Europäischen Gemeinschaft und Japan über die
 gegenseitige Anerkennung (2001/747/EG) (ABl. EG Nr. L 284 S. 1)
 
-(zu § 10)
 
-### Anlage 3 Gebühren und Auslagen für die Anerkennung von benannten Stellen und Konformitätsbewertungsstellen für Drittstaaten
+### Anlage 2 (zu § 7) Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor elektromagnetische Verträglichkeit
+
+Fundstelle des Originaltextes: BGBl. I 2002, 1795
+
+Beschluss des Rates vom 18. Juni 1998 über den Abschluss des Abkommens
+zwischen der Europäischen Gemeinschaft und Australien über die
+gegenseitige Anerkennung der Konformitätsbewertung, der Bescheinigung
+und der Kennzeichnungen (98/508/EG) (ABl. EG Nr. L 229 S. 1)
+Beschluss des Rates vom 18. Juni 1998 über den Abschluss des Abkommens
+zwischen der Europäischen Gemeinschaft und Neuseeland über die
+gegenseitige Anerkennung der Konformitätsbewertung (98/509/EG) (ABl.
+EG Nr. L 229 S. 61)
+Beschluss des Rates vom 20. Juni 1998 über den Abschluss des Abkommens
+zwischen der Europäischen Gemeinschaft und Kanada über die
+gegenseitige Anerkennung (98/566/EG) (ABl. EG Nr. L 280 S. 1)
+Beschluss des Rates vom 22. Juni 1998 über den Abschluss des Abkommens
+zwischen der Europäischen Gemeinschaft und den Vereinigten Staaten von
+Amerika über die gegenseitige Anerkennung (1999/78/EG) (ABl. EG Nr. L
+31 S. 1)
+Beschluss des Rates vom 27. September 2001 über den Abschluss des
+Abkommens zwischen der Europäischen Gemeinschaft und Japan über die
+gegenseitige Anerkennung (2001/747/EG) (ABl. EG Nr. L 284 S. 1)
+
+
+### Anlage 3 (zu § 10) Gebühren und Auslagen für die Anerkennung von benannten Stellen und Konformitätsbewertungsstellen für Drittstaaten
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 1796 - 1798;
 bzgl. der einzelnen Änderungn vgl. Fußnote )

@@ -164,9 +164,8 @@ zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass Kenntnisse, Fertigkeiten und Erfahrungen
 erworben worden sind, die eine Zulassung zur Prüfung rechtfertigen.
 
-Prüfungsanforderungen
 
-## § 4 Qualifikationsbereich Übersetzen
+## § 4 Prüfungsanforderungen Qualifikationsbereich Übersetzen
 
 (1) Im Handlungsbereich "Schriftliches Übersetzen" ist in folgenden
 Qualifikationsschwerpunkten zu prüfen:
@@ -218,9 +217,8 @@ insgesamt nicht länger als 50 Minuten dauern.
 nach erfolgreichem Abschluss der Prüfung in den Handlungsbereichen
 "Schriftliches Übersetzen" und "Texte verfassen" durchzuführen.
 
-Prüfungsanforderungen
 
-## § 5 Qualifikationsbereich Dolmetschen
+## § 5 Prüfungsanforderungen Qualifikationsbereich Dolmetschen
 
 Im Handlungsbereich "Mündliche Wiedergabe von Rede- und Textteilen"
 ist in folgenden Qualifikationsschwerpunkten zu prüfen:

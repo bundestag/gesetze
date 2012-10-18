@@ -196,9 +196,8 @@ Auslagen abgesehen werden, wenn ihre Erhebung unbillig wäre.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 2 Absatz 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2011, 1360 - 1362)
 

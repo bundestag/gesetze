@@ -156,9 +156,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3)
 
-## Anlage 1 Berechnung der Beurteilungspegel an Straßen
+## Anlage 1 (zu § 3) Berechnung der Beurteilungspegel an Straßen
 
 Fundstelle des Originaltextes: BGBl. I 1990, 1037 - 1044
 Der Beurteilungspegel L
@@ -447,9 +446,8 @@ r,ges              aus zwei Beurteilungspegeln L
 r,1              und L
 r,2
 ![pdf_grafik_bimschv16_b0222.jpg](pdf_grafik_bimschv16_b0222.jpg)
-(zu § 3)
 
-## Anlage 2 Berechnung der Beurteilungspegel bei Schienenwegen
+## Anlage 2 (zu § 3) Berechnung der Beurteilungspegel bei Schienenwegen
 
 Fundstelle des Originaltextes: BGBl. I 1990, 1045 - 1052
 Der Beurteilungspegel

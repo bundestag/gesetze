@@ -84,9 +84,8 @@ unanfechtbaren Bescheid vorbehalten hat.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 2)
 
-## Anlage Verzeichnis der Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
+## Anlage (zu § 2) Verzeichnis der Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
 
 (Fundstelle: BGBl. I 2010, 81)
 

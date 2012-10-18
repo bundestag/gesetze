@@ -32,7 +32,7 @@ Februar 1993 (BGBl. I S. 278) geändert worden ist, verordnet der
 Bundesminister für Gesundheit:
 
 
-## Art 1 - 
+## Art 1 -
 
 (weggefallen)
 
@@ -58,21 +58,21 @@ Gesetzes wird ab 1. Januar 1997 von monatlich auf vierteljährlich
 verlängert.
 
 
-## Art 3 - 
+## Art 3 -
 
 (weggefallen)
 
 
-## Art 4 - 
+## Art 4 -
 
 (weggefallen)
 
 
-## Art 5 - 
+## Art 5 -
 
 
 
-## Art 6 - 
+## Art 6 -
 
 (weggefallen)
 
@@ -87,7 +87,7 @@ Artikel 10 des Gesetzes vom 7. August 1996 (BGBl. I S. 1254) geändert
 worden ist, wird auf jährlich verlängert.
 
 
-## Art 8 bis 12 - 
+## Art 8 bis 12 -
 
 (weggefallen)
 

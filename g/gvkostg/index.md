@@ -419,9 +419,8 @@ sind.
 
 (weggefallen)
 
-(zu § 9)
 
-### Anlage Kostenverzeichnis
+### Anlage (zu § 9) Kostenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2001, 634 - 637;
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -62,9 +62,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft. § 1 tritt
 am 1. Januar 2006 für neu in den Verkehr kommende Fahrzeuge außer
 Kraft.
 
-(zu § 1 Satz 2)
 
-## Anlage Anforderungen an Bremsvorwarnsysteme
+## Anlage (zu § 1 Satz 2) Anforderungen an Bremsvorwarnsysteme
 
 
 *

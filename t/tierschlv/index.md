@@ -744,9 +744,8 @@ treten in Kraft
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 12 Abs. 1, Anlage 3 Teil II Nr. 3.7)
 
-### Anlage 1 Umrechnungsschlüssel für Großvieheinheiten
+### Anlage 1 (zu § 12 Abs. 1, Anlage 3 Teil II Nr. 3.7) Umrechnungsschlüssel für Großvieheinheiten
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 411)
 
@@ -809,9 +808,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 13 Abs. 3)
 
-### Anlage 2 Höchstdauer zwischen Betäuben und Entblutungsschnitt
+### Anlage 2 (zu § 13 Abs. 3) Höchstdauer zwischen Betäuben und Entblutungsschnitt
 
 Fundstelle des Originaltextes: BGBl. I 1997, 411
 
@@ -868,9 +866,8 @@ Fundstelle des Originaltextes: BGBl. I 1997, 411
 
 
 
-(zu § 13 Abs. 6)
 
-### Anlage 3 Betäubungs- und Tötungsverfahren
+### Anlage 3 (zu § 13 Abs. 6) Betäubungs- und Tötungsverfahren
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 412 - 415;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

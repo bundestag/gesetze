@@ -870,9 +870,8 @@ die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin
+## Anlage (zu § 4)   Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin
 
 (Fundstelle: BGBl. I 2008, 1566 - 1577)
 

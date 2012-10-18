@@ -4186,9 +4186,8 @@ Satz 1 Nummer 2 und 3, jeweils Buchstabe a und b, gilt nicht, soweit
 die aufgeführten Tanks als ortsbewegliche Druckgeräte nach ODV mit der
 Pi-Kennzeichnung versehen sind.
 
-(zu § 35)
 
-## Anlage 1 Gefährliche Güter, für deren innerstaatliche und grenzüberschreitende Beförderung § 35 gilt
+## Anlage 1 (zu § 35) Gefährliche Güter, für deren innerstaatliche und grenzüberschreitende Beförderung § 35 gilt
 
 (Fundstelle: BGBl. I 2011, 2760 - 2772)
 

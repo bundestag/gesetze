@@ -760,9 +760,8 @@ Fassung.
 
 (Inkrafttreten; Außerkrafttreten)
 
-(zu § 14)
 
-## Anlage Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+## Anlage (zu § 14) Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
 
 (Fundstelle: BGBl. I 2012, 2014 - 2015)
 

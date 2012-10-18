@@ -2076,9 +2076,8 @@ anzuwenden.
 ### § 48 (Inkrafttreten, Außerkrafttreten)
 
 
-(zu § 12 Absatz 2, § 13 Absatz 2, § 14 Absatz 2 und § 17 Absatz 3)
 
-### Anlage 1 Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
+### Anlage 1 (zu § 12 Absatz 2, § 13 Absatz 2, § 14 Absatz 2 und § 17 Absatz 3) Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
 (Fundstelle: BGBl. I 2010, 220)
 
@@ -2154,9 +2153,8 @@ anzuwenden.
 
 
 
-(zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2)
 
-### Anlage 2 Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
+### Anlage 2 (zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2) Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
 (Fundstelle: BGBl. I 2010, 221)
 
@@ -2192,9 +2190,8 @@ anzuwenden.
 
 
 
-(zu § 25 Absatz 1)
 
-### Anlage 3 Muster für Kontrollbücher
+### Anlage 3 (zu § 25 Absatz 1) Muster für Kontrollbücher
 
 (Fundstelle: BGBl. I 2010, 222)
 ### **A. Viehhandelskontrollbuch**
@@ -2415,11 +2412,10 @@ anzuwenden.
 
 
 
-   (zu § 27 Absatz 3 und 4)
 
-### Anlage 4 Ohrmarken zur Rinderkennzeichnung
+### Anlage 4 (zu § 27 Absatz 3 und 4) Ohrmarken zur Rinderkennzeichnung
 
-(Fundstelle: BGBl. I 2010, 223 - 224)
+   (Fundstelle: BGBl. I 2010, 223 - 224)
 **1. Ohrmarke (Vorderseite/Lochteil)**
 
 *    *        ![bgbl1_2010_j0203-1_0010.jpg](bgbl1_2010_j0203-1_0010.jpg)
@@ -2525,9 +2521,8 @@ anzuwenden.
     15 = Sachsen-Anhalt               16 = Thüringen
     siehe 1. Ohrmarke (Vorderseite/Lochteil)
 [^f772935_21_BJNR127400007BJNE005601377]: 
-(zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2)
 
-### Anlage 5 Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
+### Anlage 5 (zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2) Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
 
 (Fundstelle: BGBl. I 2010, 225 - 226)
 Der auf dem Vorderteil einer Ohrmarke anzubringende und der auf dem
@@ -2969,9 +2964,8 @@ aufzubauen:
 
 
 
-(zu § 28 und § 32 Absatz 1)
 
-### Anlage 6 Rasseschlüssel
+### Anlage 6 (zu § 28 und § 32 Absatz 1) Rasseschlüssel
 
 (Fundstelle: BGBl. I 2010, 227)
 
@@ -3493,9 +3487,8 @@ aufzubauen:
 
 
 
-(zu § 32 Absatz 1)
 
-### Anlage 8 Bestandsregister für Rinderhaltungen
+### Anlage 8 (zu § 32 Absatz 1) Bestandsregister für Rinderhaltungen
 
 (Fundstelle: BGBl. I 2010, 229)
 Seite: …
@@ -3646,9 +3639,8 @@ Seite: …
     Ursprungsland bei nicht im Inland geborenen Tieren; ursprüngliche
     Kennzeichnung von aus Drittländern stammenden Tieren u. a.
 [^f772935_23_BJNR127400007BJNE006001377]: 
-(zu § 34 Absatz 3 und 4)
 
-### Anlage 9 Ohrmarken zur Kennzeichnung von Schafen und Ziegen
+### Anlage 9 (zu § 34 Absatz 3 und 4) Ohrmarken zur Kennzeichnung von Schafen und Ziegen
 
 (Fundstelle: BGBl. I 2010, 230 - 231)
 **Nummer 1**
@@ -3837,9 +3829,8 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
     13 = Mecklenburg-Vorpommern               14 = Sachsen
     15 = Sachsen-Anhalt               16 = Thüringen
 
-(zu § 36 Absatz 1)
 
-### Anlage 10 Begleitpapier
+### Anlage 10 (zu § 36 Absatz 1) Begleitpapier
 
 (Fundstelle: BGBl. I 2010, 232)
 
@@ -3951,9 +3942,8 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 [^f772935_25_BJNR127400007BJNE006201377]:     Nicht Zutreffendes streichen.
 [^f772935_26_BJNR127400007BJNE006201377]:     Nicht zutreffende Tierart streichen.
 [^f772935_27_BJNR127400007BJNE006201377]: 
-(zu § 37 Absatz 1)
 
-### Anlage 11 Bestandsregister
+### Anlage 11 (zu § 37 Absatz 1) Bestandsregister
 
 (Fundstelle: BGBl. I 2010, 232)
 Seite: ...
@@ -4147,9 +4137,8 @@ der zuständigen Behörde
 [^f772935_29_BJNR127400007BJNE006302377]:     Ersatz der Angaben durch Vorlage des Zuchtbuches mit diesen Angaben
     möglich.
 [^f772935_30_BJNR127400007BJNE006302377]: 
-(zu § 42 Absatz 1)
 
-### Anlage 12 Bestandsregister für Schweinehaltungen
+### Anlage 12 (zu § 42 Absatz 1) Bestandsregister für Schweinehaltungen
 
 (Fundstelle: BGBl. I 2010, 235)
 Seite: …

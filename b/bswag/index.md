@@ -246,9 +246,8 @@ gelten die §§ 9, 9a und 10 entsprechend.
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Bedarfsplan für die Bundesschienenwege
+## Anlage (zu § 1) Bedarfsplan für die Bundesschienenwege
 
 (Fundstelle: BGBl. I 2004, 2322 - 2323)
 

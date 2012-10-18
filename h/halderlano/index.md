@@ -1204,9 +1204,8 @@ b)  § 21 der Anordnung vom 24. April 1974 über die Rechte, Pflichten und
 **Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen
 Demokratischen Republik**
 
-zu § 3 vorstehender Anordnung
 
-### Anlage 1 Begriffsbestimmungen
+### Anlage 1 zu § 3 vorstehender Anordnung Begriffsbestimmungen
 
 Im Sinne dieser Anordnung gelten folgende Begriffsbestimmungen:
 
@@ -1443,9 +1442,8 @@ Im Sinne dieser Anordnung gelten folgende Begriffsbestimmungen:
 
 
 
-zu § 12 Abs. 3 vorstehender Anordnung
 
-### Anlage 2 Richtwerte für den Sicherheitsabstand (S)
+### Anlage 2 zu § 12 Abs. 3 vorstehender Anordnung Richtwerte für den Sicherheitsabstand (S)
 
 
 a)  Von der Haldenunterkante ergibt sich der Sicherheitsabstand in
@@ -1509,9 +1507,8 @@ d)  Von der Oberkante von Restlöchern im Festgestein beträgt der
 
 
 
-zu § 16 Abs. 1 Buchst. c vorstehender Anordnung
 
-### Anlage 3 Grundsätze für zeichnerische Unterlagen
+### Anlage 3 zu § 16 Abs. 1 Buchst. c vorstehender Anordnung Grundsätze für zeichnerische Unterlagen
 
 
 1.  In der rechten unteren Blattecke der zeichnerischen Unterlagen sind
@@ -1633,9 +1630,8 @@ zu § 16 Abs. 1 Buchst. c vorstehender Anordnung
 
 
 
-zu § 14 Abs. 3 vorstehender Anordnung
 
-### Anlage 4 Verbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
+### Anlage 4 zu § 14 Abs. 3 vorstehender Anordnung Verbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
 
 -------------------------------------------
 I                                         I
@@ -1655,9 +1651,8 @@ Farbe zu gestalten. \*)
 \*) Das Verbotsschild wird von DEWAG Signograph Leipzig gefertigt und
 ist in den DEWAG-Industrieläden erhältlich.
 
-Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 885, 1202)
+### Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 885, 1202)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

@@ -1105,10 +1105,8 @@ Euro geahndet werden.
 [^F771404_03_BJNR010460957BJNE004108310]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um
     die Differenz des Tabellensatzes vom zweiten zum dritten Kind erhöht.
 [^F771404_04_BJNR010460957BJNE004108310]: 
-Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1147)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1147) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

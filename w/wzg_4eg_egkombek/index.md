@@ -41,7 +41,7 @@ Der Bundesminister der Justiz
 Fundstelle: BGBl. I 1980, 449)
 
 
-## Anlage 2 \*Fe Kennzeichen der Kommission der Europäischen Gemeinschaften \*/
+## Anlage 2 *Fe Kennzeichen der Kommission der Europäischen Gemeinschaften */
 
 (Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1980, 450)

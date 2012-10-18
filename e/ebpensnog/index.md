@@ -141,10 +141,8 @@ Anwendung.
 ## (XXXX) §§ 7 bis 9 (weggefallen)
 
 
-Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 995)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 995) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

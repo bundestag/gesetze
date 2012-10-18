@@ -312,7 +312,7 @@ Einleitung der Betriebsratswahl im Betrieb beschäftigt sind und die
 übrigen Voraussetzungen für die Wählbarkeit erfüllen.
 
 
-#### § 9 Zahl der Betriebsratsmitglieder \*)
+#### § 9 Zahl der Betriebsratsmitglieder
 
 Der Betriebsrat besteht in Betrieben mit in der Regel
 5 bis 20 wahlberechtigten Arbeitnehmern aus einer Person,
@@ -468,7 +468,7 @@ Arbeitnehmern können der Wahlvorstand und der Arbeitgeber die
 Anwendung des vereinfachten Wahlverfahrens vereinbaren.
 
 
-#### § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter \*)
+#### § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter
 
 (1) Der Betriebsrat soll sich möglichst aus Arbeitnehmern der
 einzelnen Organisationsbereiche und der verschiedenen
@@ -690,7 +690,7 @@ Fällen des § 13 Abs. 2 Nr. 1 und 2 endet die Amtszeit mit der
 Bekanntgabe des Wahlergebnisses des neu gewählten Betriebsrats.
 
 
-#### § 21a Übergangsmandat \*)
+#### § 21a Übergangsmandat
 
 (1) Wird ein Betrieb gespalten, so bleibt dessen Betriebsrat im Amt
 und führt die Geschäfte für die ihm bislang zugeordneten Betriebsteile
@@ -1364,7 +1364,7 @@ Gewerkschaften rechtzeitig schriftlich mitzuteilen.
 
 
 
-#### § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht \*)
+#### § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht
 
 (1) Bestehen in einem Unternehmen mehrere Betriebsräte, so ist ein
 Gesamtbetriebsrat zu errichten.

@@ -5018,9 +5018,8 @@ anderes bestimmt ist.
 
 (Inkrafttreten)
 
-Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1142)
+### Anhang EV Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1142)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

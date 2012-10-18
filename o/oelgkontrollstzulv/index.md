@@ -529,9 +529,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2)
 
-## Anlage 1 Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
+## Anlage 1 (zu § 2) Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
 
 (Fundstelle: BGBl. I 2012, 1049)
 
@@ -594,9 +593,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 8)
 
-## Anlage 2 Zuteilung der alphanumerischen Identifikationsnummer
+## Anlage 2 (zu § 8) Zuteilung der alphanumerischen Identifikationsnummer
 
 (Fundstelle: BGBl. I 2012, 1050)
 
@@ -723,9 +721,8 @@ zuzuteilen:
 
 
 
-(zu § 10)
 
-## Anlage 3 Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
+## Anlage 3 (zu § 10) Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
 
 (Fundstelle: BGBl. I 2012, 1051 - 1061)
 
@@ -2421,9 +2418,8 @@ zuzuteilen:
 
 
 
-(zu § 11)
 
-## Anlage 4 Anforderungen an das Kontrollstellenpersonal
+## Anlage 4 (zu § 11) Anforderungen an das Kontrollstellenpersonal
 
 (Fundstelle: BGBl. I 2011, 1062 - 1064)
 

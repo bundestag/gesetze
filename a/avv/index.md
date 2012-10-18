@@ -164,9 +164,8 @@ Länder haben solche Entscheidungen jeweils bis zum 31. Dezember des
 Jahres an das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit zur Weiterleitung an die Kommission zu melden.
 
-(zu § 2 Abs. 1)
 
-## Anlage Abfallverzeichnis
+## Anlage (zu § 2 Abs. 1) Abfallverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3380 - 3406;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -502,9 +502,8 @@ Diese Verordnung tritt am 1. August 1986 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
-(zu § 6)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Betonstein- und Terrazzohersteller/zur Betonstein- und Terrazzoherstellerin, zum Betonfertigteilbauer/zur Betonfertigteilbauerin
+## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Betonstein- und Terrazzohersteller/zur Betonstein- und Terrazzoherstellerin, zum Betonfertigteilbauer/zur Betonfertigteilbauerin
 
 (Fundstelle: BGBl. I 1985, 1909 - 1914)
 
@@ -1273,10 +1272,8 @@ Der Bundesminister für Wirtschaft
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
-und Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 998, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

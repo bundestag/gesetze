@@ -1,6 +1,5 @@
-Besatzungsvorschriften
 ---
-Title: (Anhang XI zur Binnenschiffsuntersuchungsordnung)
+Title: Besatzungsvorschriften (Anhang XI zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh XI
 layout: default
 origslug: binschuo2008anh_xi
@@ -8,7 +7,7 @@ slug: binschuo2008anh_xi
 
 ---
 
-# (Anhang XI zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh XI)
+# Besatzungsvorschriften (Anhang XI zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh XI)
 
 Ausfertigungsdatum
 :   2008-12-06

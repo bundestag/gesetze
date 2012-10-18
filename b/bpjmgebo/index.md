@@ -70,9 +70,8 @@ Die Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 3) Gebührenverzeichnis
 
 Teil 1
 Ablehnende Entscheidungen

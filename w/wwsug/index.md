@@ -91,7 +91,7 @@ Ausbildungsordnungen und vor allem eine umgehende Sicherstellung der
 Ausbildung der Jugendlichen.
 
 
-## Art 3 bis 20 - 
+## Art 3 bis 20 -
 
 
 
@@ -570,7 +570,7 @@ freiwillig versicherte Mitglieder gilt § 240 Abs. 3 des Fünften Buches
 Sozialgesetzbuch entsprechend.
 
 
-## Art 26 und 27 - 
+## Art 26 und 27 -
 
 
 
@@ -593,7 +593,7 @@ sind im Einvernehmen mit dem Bundesminister der Finanzen und nach
 Anhörung der Deutschen Bundesbank zu erlassen.
 
 
-## Art 29 und 30 - 
+## Art 29 und 30 -
 
 
 
@@ -601,7 +601,7 @@ Anhörung der Deutschen Bundesbank zu erlassen.
 
 
 
-## Art 32 und 33 - 
+## Art 32 und 33 -
 
 
 

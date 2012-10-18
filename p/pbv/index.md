@@ -424,7 +424,7 @@ Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1 Gliederung der Bilanz \*)
+## Anlage 1 Gliederung der Bilanz
 
 (Fundstelle: BGBl. I 1995, 1532 - 1534;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -34,7 +34,7 @@ beschlossen:
 
 
 
-## Art III - Anwendung der Übergangsvorschriften des Art  II des 1. BesVNG auf Versorgungsempfänger
+## Art III - Anwendung der Übergangsvorschriften des Art II des 1. BesVNG auf Versorgungsempfänger
 
 
 

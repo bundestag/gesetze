@@ -1642,10 +1642,8 @@ Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach seiner
 Verkündung in Kraft. Die §§ 7 bis 15 treten am 1. Januar 1975 in
 Kraft.
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1024)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1024) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

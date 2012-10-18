@@ -414,9 +414,8 @@ Fundstelle: BGBl. I 1997, S. 1545 - 1551)
 
 
 
-(zu § 4 Abs. 1 und 2)
 
-## Anlage II Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
+## Anlage II (zu § 4 Abs. 1 und 2) Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 

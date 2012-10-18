@@ -77,11 +77,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesminister des Innern
 
-(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für
-den militärischen Flugplatz Memmingen in der Fassung der Ersten
-Änderungsverordnung vom 28. Juli 1992)
 
-## Anlage 1 Lärmschutzbereich - Erste Änderung
+## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Memmingen in der Fassung der Ersten Änderungsverordnung vom 28. Juli 1992) Lärmschutzbereich - Erste Änderung
 
 (Fundstelle des Originaltextes: BGBl. I 1992, 1469 - 1473)
 

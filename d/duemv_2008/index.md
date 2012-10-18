@@ -1142,9 +1142,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Nr. 11, § 3 Abs. 1, § 6 Abs. 3, § 7 Abs. 2, 3)
 
-## Anlage 1 Definition von Düngemitteltypen
+## Anlage 1 (zu § 1 Nr. 11, § 3 Abs. 1, § 6 Abs. 3, § 7 Abs. 2, 3) Definition von Düngemitteltypen
 
 (Fundstelle: BGBl. I 2008, 2531 - 2554; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -4124,10 +4123,8 @@ werden.
 
 
 
-(zu § 1 Nr. 11, § 3 Abs. 1, 2, § 4 Abs. 1, 2, § 6 Abs. 1, 2, 5, 6, 7,
-§ 7 Abs. 2, 4, § 9 Abs. 2)
 
-## Anlage 2 Tabellen
+## Anlage 2 (zu § 1 Nr. 11, § 3 Abs. 1, 2, § 4 Abs. 1, 2, § 6 Abs. 1, 2, 5, 6, 7, § 7 Abs. 2, 4, § 9 Abs. 2) Tabellen
 
 (Fundstelle: BGBl. I 2008, 2555 - 2581)
 ### **Vorbemerkungen und Hinweise zu Anlage 2**

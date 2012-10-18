@@ -258,9 +258,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1)
 
-## Anlage Pflanzenartspezifische Vorgaben
+## Anlage (zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1) Pflanzenartspezifische Vorgaben
 
 ( Fundstelle: BGBl. I 2008, 658 )
 ### Gentechnisch veränderter Mais

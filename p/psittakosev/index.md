@@ -544,9 +544,8 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 -
 
-(zu § 4)
 
-### Anlage Nachweisbuch über Aufnahme, Erwerb, Abgabe und Behandlung von Papageien und Sittichen
+### Anlage (zu § 4) Nachweisbuch über Aufnahme, Erwerb, Abgabe und Behandlung von Papageien und Sittichen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3536 - 3537
 (Titelseite)

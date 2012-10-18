@@ -944,7 +944,7 @@ Durchführung der Untersuchungen gilt § 21 Abs. 1 Satz 2 bis 5 und Abs.
 von der zuständigen Behörde bestimmte Stelle durchzuführen.
 
 
-#### Unterabschnitt 4 - Verwertung von Fermentationsrückständen  und Komposten
+#### Unterabschnitt 4 - Verwertung von Fermentationsrückständen und Komposten
 
 
 
@@ -1267,9 +1267,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 9 Abs. 1, 3 und 4)
 
-### Anlage 1 Handelspapiere
+### Anlage 1 (zu § 9 Abs. 1, 3 und 4) Handelspapiere
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1746 - 1747
 
@@ -1402,9 +1401,8 @@ Gewichts (in Kilogramm) oder der Tierzahl:
 
 
 
-(zu § 9 Abs. 5)
 
-### Anlage 2 Muster für Aufzeichnungen
+### Anlage 2 (zu § 9 Abs. 5) Muster für Aufzeichnungen
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1748;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1548,9 +1546,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 21 Abs. 1)
 
-### Anlage 3 Probenahme
+### Anlage 3 (zu § 21 Abs. 1) Probenahme
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1749 - 1750)
 
@@ -1704,9 +1701,8 @@ Einzelprobe nicht eingehalten zu werden.
 
 
 
-(zu § 23 Abs. 1)
 
-### Anlage 4 Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen  zugelassenen tierischen Nebenprodukte, soweit die  Fermentationsrückstände und Komposte aus den Anlagen zur  Verwertung auf Böden bestimmt sind
+### Anlage 4 (zu § 23 Abs. 1) Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen zugelassenen tierischen Nebenprodukte, soweit die Fermentationsrückstände und Komposte aus den Anlagen zur Verwertung auf Böden bestimmt sind
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1751
 
@@ -1737,9 +1733,8 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1751
 
 
 
-(zu § 26 Abs. 1)
 
-### Anlage 5 Nummernschlüssel für die Betriebsart
+### Anlage 5 (zu § 26 Abs. 1) Nummernschlüssel für die Betriebsart
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1752;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

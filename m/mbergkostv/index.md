@@ -60,9 +60,8 @@ Gebühr höchstens 75 vom Hundert der Widerspruchsgebühr.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1 Satz 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Satz 2) Gebührenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2999)
 

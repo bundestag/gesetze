@@ -69,7 +69,7 @@ Gebühren Dritten auferlegen können.
 Diese Verordnung tritt mit Wirkung vom 26. Juni 2004 in Kraft.
 
 
-## Anlage 1 Gebührentatbestände für die Bearbeitung von Anträgen auf Registrierung  von Anwählprogrammen über Mehrwertdienste-Rufnummern nach § 66 in Verbindung  mit § 142 Abs. 1 Nr. 3, 5 und 6 des Telekommunikationsgesetzes
+## Anlage 1 Gebührentatbestände für die Bearbeitung von Anträgen auf Registrierung von Anwählprogrammen über Mehrwertdienste-Rufnummern nach § 66 in Verbindung mit § 142 Abs. 1 Nr. 3, 5 und 6 des Telekommunikationsgesetzes
 
 (Fundstelle: BGBl. I 2007, 1478)
 
@@ -159,7 +159,7 @@ Neben den ausgewiesenen Gebührensätzen werden Auslagen entsprechend
 dem Verwaltungskostengesetz (VwKostG) gesondert erhoben.
 
 
-## Anlage 2 Gebührentatbestände für die einzelfallbezogene Koordinierung, Anmeldung,  Übertragung und Notifizierung von Satellitensystemen nach § 56 in Verbindung  mit § 142 Abs. 1 Nr. 4, 5 und 6 des Telekommunikationsgesetzes
+## Anlage 2 Gebührentatbestände für die einzelfallbezogene Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 56 in Verbindung mit § 142 Abs. 1 Nr. 4, 5 und 6 des Telekommunikationsgesetzes
 
 (Fundstelle: BGBl. I 2007, 1479)
 
@@ -303,7 +303,7 @@ beantragte Satellitenfunknetz von der ITU zur Deckung des dortigen
 Verwaltungsaufwandes erhoben werden.
 
 
-## Anlage 3 Gebührentatbestände für die Entscheidung über die Übertragung von  Wegerechten nach § 69 in Verbindung mit § 142 Abs. 1 Nr. 7 des  Telekommunikationsgesetzes
+## Anlage 3 Gebührentatbestände für die Entscheidung über die Übertragung von Wegerechten nach § 69 in Verbindung mit § 142 Abs. 1 Nr. 7 des Telekommunikationsgesetzes
 
 (Fundstelle: BGBl. I 2007, 1480)
 

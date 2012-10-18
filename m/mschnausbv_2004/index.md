@@ -356,9 +356,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 6)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Maßschneider/zur Maßschneiderin
+## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Maßschneider/zur Maßschneiderin
 
 (Fundstelle: BGBl. 2004, 574 - 579)
 

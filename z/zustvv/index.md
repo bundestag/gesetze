@@ -104,30 +104,26 @@ Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Nr. 1)
 
-## Anlage 1 Zustellungsurkunde
+## Anlage 1 (zu § 1 Nr. 1) Zustellungsurkunde
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2004, 620 u. 621)
 
-(zu § 1 Nr. 2)
 
-## Anlage 2 Innerer Umschlag
+## Anlage 2 (zu § 1 Nr. 2) Innerer Umschlag
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2002, 674)
 
-(zu § 1 Nr. 3)
 
-## Anlage 3 Äußerer Umschlag/Auftrag
+## Anlage 3 (zu § 1 Nr. 3) Äußerer Umschlag/Auftrag
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2002, 675)
 
-(zu § 1 Nr. 4)
 
-## Anlage 4 Benachrichtigung
+## Anlage 4 (zu § 1 Nr. 4) Benachrichtigung
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2002, 676)

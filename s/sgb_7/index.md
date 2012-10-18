@@ -8965,9 +8965,8 @@ Bundesversicherungsamt die Berufsgenossenschaften zum 1. Januar 2011.
 Zusammenhang mit den Absätzen 1 bis 3 haben keine aufschiebende
 Wirkung.
 
-(zu § 114)
 
-### Anlage 1 Gewerbliche Berufsgenossenschaften
+### Anlage 1 (zu § 114) Gewerbliche Berufsgenossenschaften
 
 
 1.  Berufsgenossenschaft Rohstoffe und chemische Industrie,
@@ -8999,9 +8998,8 @@ Wirkung.
 
 
 
-(zu § 114)
 
-### Anlage 2 Landwirtschaftliche Berufsgenossenschaften
+### Anlage 2 (zu § 114) Landwirtschaftliche Berufsgenossenschaften
 
 1\.
 

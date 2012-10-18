@@ -35,9 +35,8 @@ Vergleichsstücke auf dem Gebiet der Bundesrepublik Deutschland bilden.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage 1 Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 30. Juni 2011
+## Anlage 1 (zu § 1) Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 30. Juni 2011
 
 (Fundstelle: BGBl. I 2012, 312 - 384)
 

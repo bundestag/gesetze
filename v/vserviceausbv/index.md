@@ -334,11 +334,8 @@ ist die Prüfung nicht bestanden.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Verkehrsservice/zur Kauffrau für Verkehrsservice
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Verkehrsservice/zur Kauffrau für Verkehrsservice - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, S. 1586 - 1591)
 
@@ -1207,11 +1204,8 @@ Verkehrsservice/zur Kauffrau für Verkehrsservice
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Verkehrsservice/zur Kauffrau für Verkehrsservice
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Verkehrsservice/zur Kauffrau für Verkehrsservice - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, S. 1592 - 1594)
 

@@ -455,9 +455,8 @@ Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 1 Nr. 1, Abs 2 und 3)
 
-## Anlage 1 Bestimmung der potenziellen Erosionsgefährdung durch Wasser
+## Anlage 1 (zu § 2 Abs. 1 Nr. 1, Abs 2 und 3) Bestimmung der potenziellen Erosionsgefährdung durch Wasser
 
 (Fundstelle: BGBl. I 2009, 396)
 
@@ -527,9 +526,8 @@ Der Bundesrat hat zugestimmt.
     DIN 19708 Abschnitt 4.5 standortspezifisch zu ermitteln und
     anzuwenden.
 [^F07771814_03_BJNR277800004BJNE001000377]: 
-(zu § 2 Abs. 1 Nr. 2 und Abs 4)
 
-## Anlage 2 Bestimmung der potenziellen Erosionsgefährdung durch Wind
+## Anlage 2 (zu § 2 Abs. 1 Nr. 2 und Abs 4) Bestimmung der potenziellen Erosionsgefährdung durch Wind
 
 (Fundstelle: BGBl. I 2009, 397)
 
@@ -1416,9 +1414,8 @@ Werte verwendet werden.
 
 
 
-(zu § 3 Absatz 1 Satz 6)
 
-## Anlage 4 Kulturen mit positiver oder neutraler Veränderung des Humusvorrates
+## Anlage 4 (zu § 3 Absatz 1 Satz 6) Kulturen mit positiver oder neutraler Veränderung des Humusvorrates
 
 **Fruchtarten**
 

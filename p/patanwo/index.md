@@ -3866,9 +3866,8 @@ in verwaltungsrechtlichen Patentanwaltssachen werden nach den bis zu
 diesem Tag geltenden Bestimmungen einschließlich der kostenrechtlichen
 Regelungen fortgeführt.
 
-(zu § 146 Satz 1 und § 148 Satz 1)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 146 Satz 1 und § 148 Satz 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2006, 3430 - 3432;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

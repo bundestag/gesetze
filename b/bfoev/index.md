@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Durchführung der Berufsförderung von Soldatinnen und  Soldaten
+Title: Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 jurabk: BföV
 layout: default
 origslug: bf_v
@@ -7,7 +7,7 @@ slug: bfoev
 
 ---
 
-# Verordnung zur Durchführung der Berufsförderung von Soldatinnen und  Soldaten (BföV)
+# Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten (BföV)
 
 Ausfertigungsdatum
 :   2006-10-23

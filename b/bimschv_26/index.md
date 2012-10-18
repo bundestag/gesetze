@@ -253,9 +253,8 @@ Kalendermonats in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2)
 
-## Anhang 1 Hochfrequenzanlagen
+## Anhang 1 (zu § 2) Hochfrequenzanlagen
 
 
 *    *   Frequenz (f)
@@ -304,9 +303,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 3)
 
-## Anhang 2 Niederfrequenzanlagen
+## Anhang 2 (zu § 3) Niederfrequenzanlagen
 
 
 *    *   Frequenz

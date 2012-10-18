@@ -190,7 +190,7 @@ Grundsätze. Bei der Erfüllung der Pflichten sind die in Abschnitt C
 der Anlage genannten Bestimmungen zugrunde zu legen.
 
 
-## § 5 Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften \*)
+## § 5 Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften
 
 (1) Soweit die in Abschnitt D der Anlage genannten Regelungen der
 Europäischen Gemeinschaften durch Verpflichtung der Mitgliedstaaten
@@ -400,7 +400,7 @@ Flaggenstaats.
 Rechtsvorschriften Genannten bleibt unberührt.
 
 
-## § 11 Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften \*)
+## § 11 Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften
 
 (1) Die im Sinne des § 10 Abs. 2 zuständigen Behörden des Bundes haben
 - hinsichtlich der schiffahrtspolizeilichen Vollzugsaufgaben
@@ -463,7 +463,7 @@ Umfang gegen internationale Schiffssicherheitsregelungen hinsichtlich
 der Sicherheitsorganisation verstoßen wird.
 
 
-## § 14 Überprüfung von Schiffen unter ausländischer Flagge \*)
+## § 14 Überprüfung von Schiffen unter ausländischer Flagge
 
 (1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt
 unter Beachtung der allgemeinen Regeln des Völkerrechts und der
@@ -504,9 +504,8 @@ der völkerrechtlich als verbindlich angenommenen und aufgrund
 innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich in
 Kraft getretenen schiffsbezogenen Regelungen zu ändern.
 
-zum Schiffssicherheitsgesetz
 
-## Anlage Internationaler schiffsbezogener Sicherheitsstandard
+## Anlage zum Schiffssicherheitsgesetz Internationaler schiffsbezogener Sicherheitsstandard
 
 (Fundstelle: BGBl. I 2005, 2986 - 3006;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

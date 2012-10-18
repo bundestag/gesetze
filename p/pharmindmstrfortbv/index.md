@@ -1016,9 +1016,8 @@ vom 19. Mai 1989 (BGBl. I S. 982), die zuletzt durch Artikel 22 der
 Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
 außer Kraft.
 
-(zu § 7 Absatz 6)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2010, 1256)
 
@@ -1084,11 +1083,10 @@ Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie vom
     *
 
 
-   (zu § 7 Absatz 6)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 6) Muster
 
-(Fundstelle: BGBl. I 2010, 1257 - 1258)
+   (Fundstelle: BGBl. I 2010, 1257 - 1258)
 
 
 *    *

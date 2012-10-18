@@ -366,9 +366,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft .
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Produktionsmechaniker-Textil/zur Produktionsmechanikerin-Textil
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Produktionsmechaniker-Textil/zur Produktionsmechanikerin-Textil
 
 (Fundstelle: BGBl. I 2005, 1280 - 1284)
 

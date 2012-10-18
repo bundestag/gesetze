@@ -46,9 +46,8 @@ Amtshandlungen unter Hinweis auf das bevorstehende Inkrafttreten
 dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten
 ist.
 
-(zu § 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 999)
 

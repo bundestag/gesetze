@@ -952,9 +952,8 @@ können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
-(zu § 7 Abs. 5)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 2006, 81;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -985,9 +984,8 @@ Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
 
-(zu § 7 Abs. 5)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 2006, 82 - 83;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

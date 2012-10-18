@@ -848,10 +848,8 @@ Soweit in Gesetzen oder Verordnungen des Bundesrechts auf Vorschriften
 des Maß- und Gewichtsgesetzes verwiesen wird, beziehen sich diese
 Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes.
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III
-(BGBl. II 1990, 889, 1001)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1001) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

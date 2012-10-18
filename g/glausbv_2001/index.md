@@ -533,9 +533,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-(zu § 4 Abs 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
+## Anlage (zu § 4 Abs 1) Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
 
 (Fundstelle: BGBl. I 2001, 1555 - 1561)
 

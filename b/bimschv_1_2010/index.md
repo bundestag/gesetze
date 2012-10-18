@@ -1750,9 +1750,8 @@ zuletzt durch Artikel 4 der Verordnung vom 14. August 2003 (BGBl I
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 12)
 
-### Anlage 1 Messöffnung
+### Anlage 1 (zu § 12) Messöffnung
 
 (Fundstelle: BGBl. I 2010, 50)
 
@@ -1778,10 +1777,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz
-2)
 
-### Anlage 2 Anforderungen an die Durchführung der Messungen im Betrieb
+### Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2) Anforderungen an die Durchführung der Messungen im Betrieb
 
 (Fundstelle: BGBl. I 2010, 51 - 53)
 
@@ -2187,9 +2184,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 2 Nummer 11, § 6)
 
-### Anlage 3 Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
+### Anlage 3 (zu § 2 Nummer 11, § 6) Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
 
 (Fundstelle: BGBl. I 2010, 54)
 
@@ -2255,10 +2251,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2
-Nummer 2, Absatz 6)
 
-### Anlage 4 Anforderungen bei der Typprüfung
+### Anlage 4 (zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6) Anforderungen bei der Typprüfung
 
 (Fundstelle: BGBl. I 2010, 55 - 56)
 

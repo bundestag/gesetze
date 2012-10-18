@@ -3664,9 +3664,8 @@ Bescheinigung des Herstellers bestätigt wird.
 
 (Inkrafttreten, abgelöste Vorschrift)
 
-(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 1 Vorschriften über die Bauart von Röntgenstrahlern, die zur Anwendung von Röntgenstrahlung am Tier bestimmt sind (Röntgenstrahler in Röntgeneinrichtungen für tiermedizinische Zwecke, soweit sie nicht nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht sind)
+### Anlage 1 (zu § 8 Abs. 1 Satz 1) Vorschriften über die Bauart von Röntgenstrahlern, die zur Anwendung von Röntgenstrahlung am Tier bestimmt sind (Röntgenstrahler in Röntgeneinrichtungen für tiermedizinische Zwecke, soweit sie nicht nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht sind)
 
 (Fundstelle: BGBl. I 2003, 63; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3689,9 +3688,8 @@ Einführer angegebenen maximalen Betriebsbedingungen
 
 
 
-(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 2 Vorschriften über die Bauart von Röntgenstrahlern und Röntgeneinrichtungen, die zur Anwendung in den in § 30 bezeichneten Fällen bestimmt sind (Röntgeneinrichtungen für nichtmedizinische Zwecke), und von Störstrahlern (§ 5 Abs. 3)
+### Anlage 2 (zu § 8 Abs. 1 Satz 1) Vorschriften über die Bauart von Röntgenstrahlern und Röntgeneinrichtungen, die zur Anwendung in den in § 30 bezeichneten Fällen bestimmt sind (Röntgeneinrichtungen für nichtmedizinische Zwecke), und von Störstrahlern (§ 5 Abs. 3)
 
 (Fundstelle: BGBl. I 2003, 632 - 633; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3866,9 +3864,8 @@ Fußnote)
 
 
 
-(zu § 31a)
 
-### Anlage 3 Gewebe-Wichtungsfaktoren
+### Anlage 3 (zu § 31a) Gewebe-Wichtungsfaktoren
 
 Fundstelle des Originaltextes: BGBl. I 2003, 634
 
@@ -3959,9 +3956,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 634
 
 
 
-(zu § 38 Abs. 1 Satz 3)
 
-### Anlage 4 Ärztliche Bescheinigung nach § 38 der Röntgenverordnung
+### Anlage 4 (zu § 38 Abs. 1 Satz 3) Ärztliche Bescheinigung nach § 38 der Röntgenverordnung
 
 (Fundstelle: BGBl. I 2003, 635; bzgl. einzelner Änderungen vgl.
 Fußnote)

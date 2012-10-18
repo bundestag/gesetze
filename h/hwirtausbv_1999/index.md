@@ -506,9 +506,8 @@ Vorschriften über die Abschlußprüfung Anwendung.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter/zur Hauswirtschafterin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter/zur Hauswirtschafterin
 
 (Fundstelle: BGBl. I 1998, 1499 - 1505)
 

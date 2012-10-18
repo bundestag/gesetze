@@ -83,9 +83,8 @@ geändert durch die Verordnung (EG) Nr. 2557/2001 der Kommission vom
 Abfallverbringungsgebührenverordnung vom 17. Dezember 2003 (BGBl. I S.
 2749) in der vor dem 12. Juli 2007 geltenden Fassung anzuwenden.
 
-(zu § 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2) Gebührenverzeichnis
 
 
 *    *

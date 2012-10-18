@@ -65,9 +65,8 @@ auch im Land Berlin.
 
 Diese Verordnung tritt mit Wirkung vom 18. September 1965 in Kraft.
 
-zu § 1
 
-## Anlage Verzeichnis der Konzentrationslager und ihrer Außenkommandos gemäß § 42 Abs. 2 BEG
+## Anlage zu § 1 Verzeichnis der Konzentrationslager und ihrer Außenkommandos gemäß § 42 Abs. 2 BEG
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 234 - 254;
 bezgl. der einzelnen Änderungen vgl. Fußnote)

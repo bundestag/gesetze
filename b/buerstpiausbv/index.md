@@ -484,9 +484,8 @@ Diese Verordnung tritt am 1. August 1985 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bürsten- und Pinselmacher/zur Bürsten- und Pinselmacherin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Bürsten- und Pinselmacher/zur Bürsten- und Pinselmacherin
 
 (Fundstelle: BGBl. I 1984, 1561 - 1565)
 
@@ -1098,10 +1097,8 @@ Der Bundesminister für Wirtschaft
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
-und Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 998, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

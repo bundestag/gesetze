@@ -1120,9 +1120,8 @@ folgenden Kalendermonats in Kraft.
 Abs. 3 des Ernährungssicherstellungsgesetzes nur nach Maßgabe des
 Artikels 80a des Grundgesetzes angewendet werden.
 
-(zu § 1 Abs. 1)
 
-### Anlage Bewirtschaftete Erzeugnisse
+### Anlage (zu § 1 Abs. 1) Bewirtschaftete Erzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 1979, 61
 

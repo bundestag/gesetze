@@ -338,9 +338,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Holzbearbeitungsmechaniker/ zur Holzbearbeitungsmechanikerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Holzbearbeitungsmechaniker/ zur Holzbearbeitungsmechanikerin
 
 (Fundstelle: BGBl. I 2004, 1648 - 1653)
 

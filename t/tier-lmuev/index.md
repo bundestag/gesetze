@@ -598,9 +598,8 @@ Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz
 Bekanntmachung vom 30. Juni 2003 (BGBl. I S. 1242, 1585) in der bis
 zum 6. September 2005 geltenden Fassung weiter anzuwenden.
 
-(zu § 8)
 
-## Anlage 1 Stempel zur Kennzeichnung der Genusstauglichkeit
+## Anlage 1 (zu § 8) Stempel zur Kennzeichnung der Genusstauglichkeit
 
 (Fundstelle: BGBl. I 2007, 1868-1969;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -654,11 +653,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-   (zu § 9)
 
-## Anlage 2 Grenzwerte für die Aufhebung der Anordnung nach Anhang IV Kapitel II Nr. 2 Satz 1 der Verordnung (EG) Nr. 854/2004
+## Anlage 2 (zu § 9) Grenzwerte für die Aufhebung der Anordnung nach Anhang IV Kapitel II Nr. 2 Satz 1 der Verordnung (EG) Nr. 854/2004
 
-(Fundstelle: BGBl. I 2007, 1870)
+   (Fundstelle: BGBl. I 2007, 1870)
 
 *    *
     *   Keimzahl

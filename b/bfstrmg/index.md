@@ -576,9 +576,8 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
 
-(zu § 14)
 
-## Anlage Mautsätze
+## Anlage (zu § 14) Mautsätze
 
 (Fundstelle: BGBl. I 2011, 1383)
 

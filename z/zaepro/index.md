@@ -1484,9 +1484,8 @@ Diese Prüfungsordnung tritt am 1. Mai 1955 in Kraft.
 
 Der Bundesminister des Innern
 
-(zu § 19 Abs. 4)
 
-### Anlage 1 (Muster 1)
+### Anlage 1 (zu § 19 Abs. 4) (Muster 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 424)
 Zeugnis
@@ -1531,9 +1530,8 @@ Monate abgehaltenen Kursus der technischen Propädeutik entfällt die
 Angabe
 des Halbjahres.
 
-(zu § 24 Abs. 1 S. 1)
 
-### Anlage 2 (Muster 2)
+### Anlage 2 (zu § 24 Abs. 1 S. 1) (Muster 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 425)
 Zeugnis
@@ -1568,9 +1566,8 @@ Der Vorsitzende des Prüfungsausschusses
 sind
 die Worte "und das Gesamtergebnis ..." zu streichen.
 
-(zu § 24 Abs. 1 letzter Satz)
 
-### Anlage 2a (Muster 2 a)
+### Anlage 2a (zu § 24 Abs. 1 letzter Satz) (Muster 2 a)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 426;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1612,9 +1609,8 @@ Der Vorsitzende des Prüfungsausschusses
 das
 Gesamtergebnis ..." zu streichen.
 
-(zu § 31 Abs. 2)
 
-### Anlage 3 (Muster 3)
+### Anlage 3 (zu § 31 Abs. 2) (Muster 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 427)
 Zeugnis
@@ -1651,9 +1647,8 @@ Der Vorsitzende des Prüfungsausschusses
 sind
 die Worte "und das Gesamtergebnis ..." zu streichen.
 
-(zu § 31 Abs. 2)
 
-### Anlage 3a (Muster 3 a)
+### Anlage 3a (zu § 31 Abs. 2) (Muster 3 a)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 428;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1698,9 +1693,8 @@ Der Vorsitzende des Prüfungsausschusses
 das
 Gesamtergebnis ..." zu streichen.
 
-(zu § 36 Abs. 2)
 
-### Anlage 4 (Muster 4)
+### Anlage 4 (zu § 36 Abs. 2) (Muster 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1955, 50)
 **Praktikantenschein**
@@ -1731,9 +1725,8 @@ besucht
 (Unterschrift des Leiters der Klinik
 - Poliklinik - oder des Kursus)
 
-(zu § 58 Abs 3)
 
-### Anlage 5 (Muster 5)
+### Anlage 5 (zu § 58 Abs 3) (Muster 5)
 
 (Fundstelle des Originaltextes: BGBl. I 1955, 51)
 Der

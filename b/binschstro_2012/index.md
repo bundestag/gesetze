@@ -24,7 +24,7 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 81) geändert worden ist, sind beachtet worden.
 
 
-## Inhaltsverzeichnis 
+## Inhaltsverzeichnis
 
 
 *    *   **Erster Teil**
@@ -5336,9 +5336,8 @@ lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
 
 
 
-Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen;
 
-#### § 1.12 Schifffahrtshindernisse
+#### § 1.12 Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen; Schifffahrtshindernisse
 
 
 1.  Ein Gegenstand, der eine Gefährdung, eine Beschädigung, eine
@@ -5415,9 +5414,8 @@ dies unverzüglich der nächsten Dienststelle der Wasser- und
 Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der
 Wasserschutzpolizei mitteilen.
 
-Verbot des Einbringens von Gegenständen und
 
-#### § 1.15 anderen Stoffen in die Wasserstraße
+#### § 1.15 Verbot des Einbringens von Gegenständen und anderen Stoffen in die Wasserstraße
 
 
 1.  Es ist verboten, einen festen Gegenstand oder anderen Stoff, der
@@ -5621,9 +5619,8 @@ beeinträchtigen kann, bedarf der Erlaubnis der zuständigen Behörde.
 Die Erlaubnis ist mit den zur Gewährleistung der Sicherheit und
 Leichtigkeit des Schiffsverkehrs erforderlichen Auflagen zu versehen.
 
-Sonderregelung für Fahrzeuge
 
-#### § 1.24 im öffentlichen Dienst und für Wasserrettungsfahrzeuge
+#### § 1.24 Sonderregelung für Fahrzeuge im öffentlichen Dienst und für Wasserrettungsfahrzeuge
 
 
 1.  Ein Fahrzeug der Wasser- und Schifffahrtsverwaltung des Bundes, der
@@ -5934,9 +5931,8 @@ ein Kleinfahrzeug, muss geeicht sein.
 
 #### Abschnitt I. - Allgemeines
 
-Begriffsbestimmungen und Anwendungen
 
-##### § 3.01 (Anlage 3: Bild 1)
+##### § 3.01 Begriffsbestimmungen und Anwendungen (Anlage 3: Bild 1)
 
 
 1.  In diesem Kapitel gelten als
@@ -6145,9 +6141,8 @@ Begriffsbestimmungen und Anwendungen
 
 ##### Titel A. - Bezeichnung während der Fahrt
 
-Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
-###### § 3.08 (Anlage 3: Bild 2, 3)
+###### § 3.08 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb (Anlage 3: Bild 2, 3)
 
 
 1.  Ein einzeln fahrendes Fahrzeug mit Maschinenantrieb muss bei Nacht
@@ -6202,9 +6197,8 @@ Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
 
 
-Bezeichnung der Schleppverbände in Fahrt
 
-###### § 3.09 (Anlage 3: Bild 4, 5, 6, 7, 8, 9, 10)
+###### § 3.09 Bezeichnung der Schleppverbände in Fahrt (Anlage 3: Bild 4, 5, 6, 7, 8, 9, 10)
 
 
 1.  An der Spitze eines Schleppverbandes in Fahrt muss das Fahrzeug mit
@@ -6396,9 +6390,8 @@ Bezeichnung der Schleppverbände in Fahrt
 
 
 
-Bezeichnung der Schubverbände in Fahrt
 
-###### § 3.10 (Anlage 3: Bild 11, 12, 13, 14)
+###### § 3.10 Bezeichnung der Schubverbände in Fahrt (Anlage 3: Bild 11, 12, 13, 14)
 
 
 1.  Ein Schubverband in Fahrt muss bei Nacht führen:
@@ -6515,9 +6508,8 @@ Bezeichnung der Schubverbände in Fahrt
     *        ![bgbl1_2012_j0001_0019_ab1.jpg](bgbl1_2012_j0001_0019_ab1.jpg)
 
 
-   Bezeichnung gekuppelter Fahrzeuge in Fahrt
 
-###### § 3.11 (Anlage 3: Bild 15, 16)
+###### § 3.11 Bezeichnung gekuppelter Fahrzeuge in Fahrt (Anlage 3: Bild 15, 16)
 
 
 1.  Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
@@ -6559,9 +6551,8 @@ Bezeichnung der Schubverbände in Fahrt
 
 
 
-Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
-###### § 3.12 (Anlage 3: Bild 17)
+###### § 3.12 Bezeichnung der Fahrzeuge unter Segel in Fahrt (Anlage 3: Bild 17)
 
 
 1.  Ein Fahrzeug unter Segel in Fahrt muss bei Nacht führen:
@@ -6587,9 +6578,8 @@ Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
 
 
-Bezeichnung der Kleinfahrzeuge in Fahrt
 
-###### § 3.13 (Anlage 3: Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
+###### § 3.13 Bezeichnung der Kleinfahrzeuge in Fahrt (Anlage 3: Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
 
 
 1.  Ein einzeln fahrendes Kleinfahrzeug mit Maschinenantrieb muss bei
@@ -6761,10 +6751,8 @@ Bezeichnung der Kleinfahrzeuge in Fahrt
 
 
 
-   Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung
-bestimmter gefährlicher Güter
 
-###### § 3.14 (Anlage 3: Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+###### § 3.14 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter (Anlage 3: Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
 
 1.  Ein Fahrzeug in Fahrt, das bestimmte entzündbare Stoffe nach Kapitel
@@ -6978,12 +6966,8 @@ bestimmter gefährlicher Güter
 
 
 
-Bezeichnung der Fahrzeuge in Fahrt,
-die zur Beförderung von mehr als zwölf Fahrgästen zugelassen sind
-und deren Schiffskörper eine größte Länge von weniger als 20,00 m
-aufweist
 
-###### § 3.15 (Anlage 3: Bild 33)
+###### § 3.15 Bezeichnung der Fahrzeuge in Fahrt, die zur Beförderung von mehr als zwölf Fahrgästen zugelassen sind und deren Schiffskörper eine größte Länge von weniger als 20,00 m aufweist (Anlage 3: Bild 33)
 
 Ein Fahrzeug, das zur Beförderung von mehr als zwölf Fahrgästen
 zugelassen ist und dessen Schiffskörper eine größte Länge von weniger
@@ -6997,9 +6981,8 @@ als 20,00 m aufweist, muss in Fahrt bei Tag
 
    führen. Satz 1 gilt nicht für eine Fähre.
 
-Bezeichnung der Fähren in Fahrt
 
-###### § 3.16 (Anlage 3: Bild 34, 35, 36)
+###### § 3.16 Bezeichnung der Fähren in Fahrt (Anlage 3: Bild 34, 35, 36)
 
 
 1.  Eine nicht frei fahrende Fähre in Fahrt muss bei Nacht führen:
@@ -7056,12 +7039,10 @@ Bezeichnung der Fähren in Fahrt
 
 
 
-   Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang
-besitzen
 
-###### § 3.17 (Anlage 3: Bild 37)
+###### § 3.17 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen (Anlage 3: Bild 37)
 
-Ein Fahrzeug, dem die zuständige Behörde zur Durchfahrt durch eine
+   Ein Fahrzeug, dem die zuständige Behörde zur Durchfahrt durch eine
 Stelle, an der eine bestimmte Reihenfolge gilt, einen Vorrang
 eingeräumt hat, muss in Fahrt außer der anderen nach dieser Verordnung
 vorgeschriebenen Bezeichnung bei Tag
@@ -7073,9 +7054,8 @@ vorgeschriebenen Bezeichnung bei Tag
 
 
 
-   Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
-###### § 3.18 (Anlage 3: Bild 38)
+###### § 3.18 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt (Anlage 3: Bild 38)
 
 
 1.  Ein manövrierunfähiges Fahrzeug in Fahrt muss zusätzlich zu der
@@ -7113,9 +7093,8 @@ vorgeschriebenen Bezeichnung bei Tag
 
 
 
-Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
-###### § 3.19 (Anlage 3: Bild 39)
+###### § 3.19 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt (Anlage 3: Bild 39)
 
 Unbeschadet der besonderen Auflagen, die nach § 1.21 festgelegt werden
 können, muss ein Schwimmkörper oder eine schwimmende Anlage in Fahrt
@@ -7131,9 +7110,8 @@ bei Nacht
 
 ##### Titel B. - Bezeichnung beim Stillliegen
 
-   Bezeichnung der Fahrzeuge beim Stillliegen
 
-###### § 3.20 (Anlage 3: Bild 40, 41)
+###### § 3.20 Bezeichnung der Fahrzeuge beim Stillliegen (Anlage 3: Bild 40, 41)
 
 
 1.  Mit Ausnahme eines Kleinfahrzeugs und der in den §§ 3.22 und 3.25
@@ -7191,10 +7169,8 @@ bei Nacht
 
 
 
-Zusätzliche Bezeichnung stillliegender Fahrzeuge bei Beförderung
-bestimmter gefährlicher Güter
 
-###### § 3.21 (Anlage 3: Bild 42, 43, 44)
+###### § 3.21 Zusätzliche Bezeichnung stillliegender Fahrzeuge bei Beförderung bestimmter gefährlicher Güter (Anlage 3: Bild 42, 43, 44)
 
 Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort
 genannten Fahrzeugen, Schubverbänden und gekuppelten Fahrzeugen auch
@@ -7214,9 +7190,8 @@ beim Stillliegen zu führen.
     *        ![bgbl1_2012_j0001_0062_ab1.jpg](bgbl1_2012_j0001_0062_ab1.jpg)
 
 
-   Bezeichnung der Fähren, die an ihrer Anlegestelle stillliegen
 
-###### § 3.22 (Anlage 3: Bild 45, 46)
+###### § 3.22 Bezeichnung der Fähren, die an ihrer Anlegestelle stillliegen (Anlage 3: Bild 45, 46)
 
 
 1.  Eine nicht frei fahrende Fähre muss während des Betriebes bei Nacht
@@ -7247,12 +7222,10 @@ beim Stillliegen zu führen.
 
 
 
-   Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim
-Stillliegen
 
-###### § 3.23 (Anlage 3: Bild 47)
+###### § 3.23 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stillliegen (Anlage 3: Bild 47)
 
-Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
+   Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, muss ein Schwimmkörper oder eine schwimmende Anlage
 beim Stillliegen bei Nacht
 
@@ -7271,10 +7244,8 @@ durch die Schifffahrt gefährdet ist, kann die zuständige Behörde für
 einzelne Schwimmkörper oder schwimmende Anlagen das Stillliegen ohne
 Beleuchtung zulassen.
 
-Bezeichnung bestimmter
-stillliegender Fischereifahrzeuge und der Netze oder Ausleger
 
-###### § 3.24 (Anlage 3: Bild 48)
+###### § 3.24 Bezeichnung bestimmter stillliegender Fischereifahrzeuge und der Netze oder Ausleger (Anlage 3: Bild 48)
 
 
 1.  Ein Fischereifahrzeug, ein Kleinfahrzeug eingeschlossen, das seine
@@ -7315,10 +7286,8 @@ stillliegender Fischereifahrzeuge und der Netze oder Ausleger
 
 
 
-Bezeichnung schwimmender Geräte
-bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 
-###### § 3.25 (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
+###### § 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
 
 
 1.  Ein schwimmendes Gerät bei der Arbeit oder ein Fahrzeug, das in der
@@ -7493,11 +7462,8 @@ bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 
 
 
-Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper
-und schwimmenden Anlagen, deren Anker die Schifffahrt gefährden
-können, und ihrer Anker
 
-###### § 3.26 (Anlage 3: Bild 53, 54, 55)
+###### § 3.26 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schifffahrt gefährden können, und ihrer Anker (Anlage 3: Bild 53, 54, 55)
 
 
 1.  Ein stillliegendes Fahrzeug, dessen Anker so ausgeworfen sind, dass
@@ -7569,11 +7535,10 @@ können, und ihrer Anker
 
 #### Abschnitt III. - Sonstige Bezeichnung
 
-   Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
-##### § 3.27 (Anlage 3: Bild 56)
+##### § 3.27 Bezeichnung der Fahrzeuge der Überwachungsbehörden (Anlage 3: Bild 56)
 
-Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und
+   Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und
 bei Tag ein blaues Funkellicht zeigen, um sich kenntlich zu machen.
 Dies gilt auch für ein Feuerlöschboot oder für ein
 Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz sowie
@@ -7586,12 +7551,10 @@ Bundeskriminalamtes.
 
 
 
-   Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der
-Wasserstraße ausführen
 
-##### § 3.28 (Anlage 3: Bild 57)
+##### § 3.28 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen (Anlage 3: Bild 57)
 
-Ein in Fahrt befindliches Fahrzeug, das in der Wasserstraße Arbeiten,
+   Ein in Fahrt befindliches Fahrzeug, das in der Wasserstraße Arbeiten,
 Peilungen oder andere Messungen ausführt, kann mit Erlaubnis der
 zuständigen Behörde bei Nacht und bei Tag zusätzlich zu der anderen
 nach dieser Verordnung vorgeschriebenen Bezeichnung führen:
@@ -7622,9 +7585,8 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 
 
-Schutz gegen Sog und Wellenschlag
 
-##### § 3.29 (Anlage 3: Bild 58)
+##### § 3.29 Schutz gegen Sog und Wellenschlag (Anlage 3: Bild 58)
 
 
 1.  Ein in Fahrt befindliches oder stillliegendes Fahrzeug, ein in Fahrt
@@ -7681,9 +7643,8 @@ Schutz gegen Sog und Wellenschlag
 
 
 
-Notzeichen
 
-##### § 3.30 (Anlage 3: Bild 59)
+##### § 3.30 Notzeichen (Anlage 3: Bild 59)
 
 
 1.  Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
@@ -7717,9 +7678,8 @@ Notzeichen
 
 
 
-Hinweis auf das Verbot, das Fahrzeug zu betreten
 
-##### § 3.31 (Anlage 3: Bild 60)
+##### § 3.31 Hinweis auf das Verbot, das Fahrzeug zu betreten (Anlage 3: Bild 60)
 
 
 1.  Sofern es nicht an Bord beschäftigten Personen durch andere
@@ -7757,10 +7717,8 @@ Hinweis auf das Verbot, das Fahrzeug zu betreten
 
 
 
-Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu
-verwenden
 
-##### § 3.32 (Anlage 3: Bild 61)
+##### § 3.32 Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu verwenden (Anlage 3: Bild 61)
 
 
 1.  Sofern es durch andere Vorschriften verboten ist, an Bord
@@ -7807,9 +7765,8 @@ verwenden
 
 
 
-Hinweis auf das Verbot des Stillliegens nebeneinander
 
-##### § 3.33 (Anlage 3: Bild 62)
+##### § 3.33 Hinweis auf das Verbot des Stillliegens nebeneinander (Anlage 3: Bild 62)
 
 
 1.  Sofern das seitliche Stillliegen in der Nähe eines Fahrzeugs durch
@@ -8540,9 +8497,8 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
     einen Verband im Sinne des § 6.02 Nummer 1 Satz 1 noch ist sie ihm
     gegenüber anzuwenden.
 [^BJNR000210012BJNE008300000_01]: 
-Allgemeine Bestimmungen für das Begegnen
 
-##### § 6.04 (Anlage 3: Bild 63)
+##### § 6.04 Allgemeine Bestimmungen für das Begegnen (Anlage 3: Bild 63)
 
 
 1.  Beim Begegnen muss der Bergfahrer unter Berücksichtigung der örtlichen
@@ -9087,16 +9043,14 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 
 
 
-Verbot des Hineinfahrens in
 
-##### § 6.15 die Abstände zwischen Teilen eines Schleppverbandes
+##### § 6.15 Verbot des Hineinfahrens in die Abstände zwischen Teilen eines Schleppverbandes
 
 Es ist verboten, in die Abstände zwischen den Teilen eines
 Schleppverbandes hineinzufahren.
 
-Überqueren der Wasserstraße;
 
-##### § 6.16 Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen
+##### § 6.16 Überqueren der Wasserstraße; Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen
 
 
 1.  Ein Fahrzeug darf
@@ -9463,12 +9417,10 @@ Schleppverbandes hineinzufahren.
 
 
 
-   Vorbeifahrt an schwimmenden Geräten
-bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen
 
-##### § 6.22a (Anlage 3: Bild 50a, 50b, 52)
+##### § 6.22a Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen (Anlage 3: Bild 50a, 50b, 52)
 
-Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der
+   Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der
 Seite vorbeizufahren, an dem es
 
 
@@ -11434,9 +11386,8 @@ Schutzvorrichtungen gesichert sein.
 
 
 
-Bezeichnung beim Einsatz von Tauchern
 
-#### § 8.12 (Anlage 3: Bild 64)
+#### § 8.12 Bezeichnung beim Einsatz von Tauchern (Anlage 3: Bild 64)
 
 Eine Stelle oder ein Fahrzeug, von der oder dem aus Taucherarbeiten
 durchgeführt werden, muss bei Tag und bei Nacht außer der nach dieser
@@ -22951,9 +22902,8 @@ hiervon zulassen.
 
 (keine besonderen Vorschriften)
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 20.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 20.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -23010,9 +22960,8 @@ andere Weisung erteilen.
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 20.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 20.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -25817,9 +25766,8 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
 
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 21.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 21.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 
 1.  Ein Fahrzeug mit einer Breite von mehr als 5,05 m darf die Schleuse
@@ -26103,9 +26051,8 @@ Bezeichnung nach § 8.12 führen.
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 21.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 21.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -28285,9 +28232,8 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
 
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 22.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 22.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 Bei erhöhter Wasserführung wird die Schifffahrt an den Staustufen
 Grütz und Garz über die Nadelwehre geführt.
@@ -28550,9 +28496,8 @@ Bezeichnung nach § 8.12 führen.
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 22.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 22.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -30316,9 +30261,8 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
 
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 23.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 23.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 Auf dem **Finowkanal**              beträgt die lichte
 Durchfahrtsbreite der Schleusenbrücke Schöpfurth (FiK-km 67,56) 5,10
@@ -30496,9 +30440,8 @@ Bezeichnung nach § 8.12 führen.
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 23.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 23.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -31831,9 +31774,8 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
 
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 24.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 24.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -31988,9 +31930,8 @@ Bezeichnung nach § 8.12 führen.
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 24.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 24.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -32576,9 +32517,8 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
 
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 25.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 25.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 
 1.  Bei der Fahrt zu Tal müssen bei einem Wasserstand von mehr als
@@ -32688,9 +32628,8 @@ Satz 1 gilt nicht für ein Kleinfahrzeug.
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 25.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 25.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -33802,9 +33741,8 @@ zuständige Behörde wieder aufgenommen werden.
 Abweichend von § 6.24 Nummer 2 Buchstabe a können zusätzlich zum
 Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 26.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 26.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -33904,9 +33842,8 @@ Durchfahren der Brücken, Sperrwerke,
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 26.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 26.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -34357,9 +34294,8 @@ eingestellt werden.
 
 (keine besonderen Vorschriften)
 
-Durchfahren der Brücken, Sperrwerke,
 
-#### § 27.18 Wehre, Schleusen und einzelner Stromstrecken
+#### § 27.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -34413,9 +34349,8 @@ Durchfahren der Brücken, Sperrwerke,
 
 (keine besonderen Vorschriften)
 
-Verhaltenspflichten des Schiffsführers,
 
-#### § 27.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+#### § 27.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -34542,10 +34477,8 @@ Es ist verboten, die Außenhaut eines Fahrzeugs mit Öl anzustreichen
 oder mit Mitteln zu reinigen, die nicht in das Gewässer gelangen
 dürfen.
 
-Unterscheidungsbuchstabe oder -buchstabengruppe des Staates,
-in dem der Heimat- oder Registerort des Fahrzeugs liegt
 
-#### Anlage 1 (nur Hinweis)
+#### Anlage 1 Unterscheidungsbuchstabe oder -buchstabengruppe des Staates, in dem der Heimat- oder Registerort des Fahrzeugs liegt (nur Hinweis)
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 213)
 

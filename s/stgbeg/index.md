@@ -1080,10 +1080,8 @@ etwas anderes ergibt.
 Strafrecht der Bundesrepublik Deutschland schon vor dem Wirksamwerden
 des Beitritts gegolten hat.
 
-Vollstreckungs- und Verfolgungsverjährung für in der Deutschen
-Demokratischen Republik verfolgte und abgeurteilte Taten;
 
-### Art 315a Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
+### Art 315a Vollstreckungs- und Verfolgungsverjährung für in der Deutschen Demokratischen Republik verfolgte und abgeurteilte Taten; Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
 
 (1) Soweit die Verjährung der Verfolgung oder der Vollstreckung nach
 dem Recht der Deutschen Demokratischen Republik bis zum Wirksamwerden
@@ -1380,10 +1378,8 @@ Artikel 313 treten einen Monat nach der Verkündung in Kraft.
 
 (4) bis (6)
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III
-(BGBl. II 1990, 889, 957)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 957) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

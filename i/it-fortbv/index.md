@@ -447,9 +447,8 @@ Teilen 3 und 4 dieser Verordnung durchführen.
 ### Abschnitt 1 - Gemeinsame Vorschriften für die Prüfung der operativen Professionals
 
 
-Zulassungsvoraussetzungen
 
-#### § 2 (Operative Professionals)
+#### § 2 Zulassungsvoraussetzungen (Operative Professionals)
 
 (1) Zur Prüfung der operativen Professionals ist zuzulassen, wer
 Folgendes nachweist:
@@ -481,9 +480,8 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er Qualifikationen erworben hat, die die Zulassung zur
 Prüfung rechtfertigen.
 
-Gliederung der Prüfung
 
-#### § 3 (Operative Professionals)
+#### § 3 Gliederung der Prüfung (Operative Professionals)
 
 Die Prüfung für die operativen Professionals gliedert sich jeweils in
 die Prüfungsteile:
@@ -1049,7 +1047,7 @@ thematisiert wird:
 
 
 
-#### § 11 Ziel der Prüfung und  Bezeichnung des Abschlusses
+#### § 11 Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften
 IT-Projektleiter/zur Geprüften IT-Projektleiterin (Certified IT
@@ -1756,7 +1754,7 @@ h)  qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken
 
 
 
-#### § 19 Prüfungsinhalte im Prüfungsteil  "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
+#### § 19 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen
 schriftlich zu bearbeiten:
@@ -1975,7 +1973,7 @@ letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen.
 
 
-#### § 24 Durchführung der Prüfung im  Prüfungsteil "Strategische Prozesse"
+#### § 24 Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
 
 (1) Im Prüfungsteil "Strategische Prozesse" soll der
 Prüfungsteilnehmer/die Prüfungsteilnehmerin eine Fallstudie (Business-
@@ -2056,7 +2054,7 @@ d)  Durchführen von strategischen Allianzen und Fusionen, Bilden von
 
 
 
-#### § 26 Durchführung  der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
+#### § 26 Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
 
 (1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll im
 Prüfungsteil "Strategisches Personalmanagement" ein
@@ -2673,9 +2671,8 @@ Prüfungsteil "Strategische Prozesse" das doppelte Gewicht gegenüber
 den
 beiden anderen Prüfungsteilen.
 
-(zu § 2 Absatz 2)
 
-### Anlage 5 Spezialistenprofile in der IT-Fortbildung
+### Anlage 5 (zu § 2 Absatz 2) Spezialistenprofile in der IT-Fortbildung
 
 (Fundstelle: BGBl I 2010, 1010 - 1029)
 

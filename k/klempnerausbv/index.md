@@ -428,9 +428,8 @@ Diese Verordnung tritt am 1. August 1989 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Klempner/zur Klempnerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Klempner/zur Klempnerin
 
 (Fundstelle: BGBl. I 1989, 423 - 432)
 
@@ -1697,12 +1696,10 @@ Der Bundesminister für Wirtschaft
 
 
 
-   Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 998)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
-Abschnitt III
+   Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 

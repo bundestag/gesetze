@@ -445,7 +445,7 @@ das Mitführen oder Aufbewahren von Ladungstagebüchern oder die
 Eintragungen in das Ladungstagebuch zuwiderhandelt.
 
 
-## § 5 Zuwiderhandlungen gegen Vorschriften der Anlage IV zu dem  MARPOL-Übereinkommen
+## § 5 Zuwiderhandlungen gegen Vorschriften der Anlage IV zu dem MARPOL-Übereinkommen
 
 Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als
 Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher
@@ -453,7 +453,7 @@ entgegen Anlage IV Regel 11 Abs. 1 des MARPOL-Übereinkommens Abwasser
 einleitet.
 
 
-## § 6 Zuwiderhandlungen gegen Vorschriften der Anlage V zu dem  MARPOL-Übereinkommen
+## § 6 Zuwiderhandlungen gegen Vorschriften der Anlage V zu dem MARPOL-Übereinkommen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Vorschrift der Anlage V Regel 3 Abs. 1 Buchstabe a oder b Halbsatz 2,
@@ -482,7 +482,7 @@ einer Vorschrift der Anlage V Regel 9 Abs. 3 des MARPOL-Übereinkommens
 Eintragungen in das Mülltagebuch zuwiderhandelt.
 
 
-## § 7 Zuwiderhandlungen gegen Vorschriften der Anlage VI zu dem  MARPOL-Übereinkommen
+## § 7 Zuwiderhandlungen gegen Vorschriften der Anlage VI zu dem MARPOL-Übereinkommen
 
 (1) Ordnungswidrig handelt, wer als Schiffsführer oder sonst für den
 Schiffsbetrieb Verantwortlicher gegen die Anlage VI des MARPOL-

@@ -63,9 +63,8 @@ vorgeschriebenen Arbeitsbedingungen zu gewähren.
 Diese Verordnung tritt am 1. August 2012 in Kraft und am 30. Juni 2013
 außer Kraft.
 
-(zu § 1)
 
-## Anlage Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011
+## Anlage (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011
 
 (Fundstelle: BAnz AT 20.07.2012 V1)
 

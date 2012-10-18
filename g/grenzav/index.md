@@ -68,9 +68,8 @@ Der Grenzaufsicht unterworfen sind:
 
 (2)
 
-(zu § 1)
 
-## Anlage 1 Rückwärtige Begrenzungslinie des grenznahen Raumes
+## Anlage 1 (zu § 1) Rückwärtige Begrenzungslinie des grenznahen Raumes
 
 (Fundstelle: BGBl. I 1993, 1133 - 1134;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -212,9 +211,8 @@ B 104 in Strasburg. Von dort aus folgt sie der B 104 über Pasewalk –
 das Stadtgebiet von Pasewalk gehört zum grenznahen Raum – bis zum
 Schnittpunkt mit der deutsch-polnischen Grenze in Linken.
 
-(zu § 2)
 
-## Anlage 2 Gebiete, die der Grenzaufsicht unterworfen sind
+## Anlage 2 (zu § 2) Gebiete, die der Grenzaufsicht unterworfen sind
 
 (Fundstelle: BGBl. I 1993, 1135 - 1136;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -411,9 +411,8 @@ Diese Verordnung tritt am 26. Juli 2011 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3 Satz 1)
 
-## Anlage 1 Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
+## Anlage 1 (zu § 3 Satz 1) Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
 
 (Fundstelle: BGBl. I 2011, 1433 - 1435)
 
@@ -868,9 +867,8 @@ Oberflächenwasserkörper am ähnlichsten ist.
     Schichtung an der tiefsten Stelle des Sees über mindestens 3 Monate
     stabil bleibt.
 [^f775454_04_BJNR142900011BJNE001700000]: 
-(zu § 4 Absatz 1)
 
-## Anlage 2 Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen
+## Anlage 2 (zu § 4 Absatz 1) Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen
 
 (Fundstelle: BGBl. I 2011, 1436)
 
@@ -987,9 +985,8 @@ Oberflächenwasserkörper am ähnlichsten ist.
 
 
 
-(zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4)
 
-## Anlage 3 Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
+## Anlage 3 (zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4) Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
 (Fundstelle: BGBl. I 2011, 1437 - 1438)
 
@@ -1521,9 +1518,8 @@ Oberflächenwasserkörper am ähnlichsten ist.
     zu bestimmen.
 [^f775454_06_BJNR142900011BJNE001900000]:     Altersstruktur fakultativ.
 [^f775454_07_BJNR142900011BJNE001900000]: 
-(zu § 5 Absatz 1 Satz 2, Absatz 2 Satz 2, § 9 Absatz 2 Satz 1)
 
-## Anlage 4 Einstufung des ökologischen Zustands und des ökologischen Potenzials
+## Anlage 4 (zu § 5 Absatz 1 Satz 2, Absatz 2 Satz 2, § 9 Absatz 2 Satz 1) Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
 (Fundstelle: BGBl. I 2011, 1439 - 1447)
 
@@ -2644,9 +2640,8 @@ Physikalisch-chemische und chemische Qualitätskomponenten
 
 
 
-(zu § 2 Nummer 6, § 5 Absatz 4 Satz 2 und 3, § 9 Absatz 2 Satz 1)
 
-## Anlage 5 Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
+## Anlage 5 (zu § 2 Nummer 6, § 5 Absatz 4 Satz 2 und 3, § 9 Absatz 2 Satz 1) Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
 
 (Fundstelle: BGBl. I 2011, 1448 - 1452)
 
@@ -4361,9 +4356,8 @@ h. die gelöste Phase einer Wasserprobe, die durch Filtration durch
 einen 0,45 µm-Filter oder eine gleichwertige Vorbehandlung gewonnen
 wird.
 [^f775454_12_BJNR142900011BJNE002100000]: 
-(zu § 5 Absatz 4 Satz 2 und Absatz 5)
 
-## Anlage 6 Allgemeine physikalisch-chemische Qualitätskomponenten
+## Anlage 6 (zu § 5 Absatz 4 Satz 2 und Absatz 5) Allgemeine physikalisch-chemische Qualitätskomponenten
 
 (Fundstelle: BGBl. I 2011, 1453 - 1456)
 
@@ -5645,10 +5639,8 @@ wird.
     Seenkette) können die Gesamtphosphorkonzentrationen bis zu 0,1 mg/l im
     Sommermittel betragen.
 [^f775454_65_BJNR142900011BJNE002200000]: 
-(zu § 2 Nummer 4 und 5, § 6 Satz 1, § 9 Absatz 2 Satz 2, § 11 Absatz 1
-Satz 1 und 2)
 
-## Anlage 7 Umweltqualitätsnormen zur Beurteilung des chemischen Zustands
+## Anlage 7 (zu § 2 Nummer 4 und 5, § 6 Satz 1, § 9 Absatz 2 Satz 2, § 11 Absatz 1 Satz 1 und 2) Umweltqualitätsnormen zur Beurteilung des chemischen Zustands
 
 (Fundstelle: BGBl. I 2011, 1457 - 1460)
 
@@ -6593,9 +6585,8 @@ Nummerierung).
 200-784-6) und 1,1-Dichlor-2,2-bis-(p-chlorphenyl)ethan (CAS-Nr.
 72-54-8; EU-Nr. 200-783-0).
 
-(zu § 8 Absatz 1 und 2 Satz 2)
 
-## Anlage 8 Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
+## Anlage 8 (zu § 8 Absatz 1 und 2 Satz 2) Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
 
 (Fundstelle: BGBl. I 2011, 1461 - 1462)
 
@@ -6733,9 +6724,8 @@ Nummerierung).
     Deutschen Patent- und Markenamt in München archivmäßig gesichert
     niedergelegt.
 [^f775454_81_BJNR142900011BJNE002400000]: 
-(zu § 9 Absatz 1 Satz 1 und Absatz 2 Satz 1)
 
-## Anlage 9 Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz; zusätzliche Überwachungsanforderungen
+## Anlage 9 (zu § 9 Absatz 1 Satz 1 und Absatz 2 Satz 1) Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz; zusätzliche Überwachungsanforderungen
 
 (Fundstelle: BGBl. I 2011, 1463 - 1466)
 
@@ -7324,9 +7314,8 @@ wurden.
 
 
 
-(zu § 7 Absatz 2 Satz 1, § 10 )
 
-## Anlage 10 Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Kennzeichnung von Oberflächenwasserkörpern
+## Anlage 10 (zu § 7 Absatz 2 Satz 1, § 10 ) Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Kennzeichnung von Oberflächenwasserkörpern
 
 (Fundstelle: BGBl. I 2011, 1467 - 1468)
 
@@ -7520,9 +7509,8 @@ wurden.
 
 
 
-(zu § 11 Absatz 1 Satz 1 und Absatz 2 Satz 2)
 
-## Anlage 11 Ermittlung langfristiger Trends
+## Anlage 11 (zu § 11 Absatz 1 Satz 1 und Absatz 2 Satz 2) Ermittlung langfristiger Trends
 
 (Fundstelle: BGBl. I 2011, 1469)
 

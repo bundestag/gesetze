@@ -70,7 +70,7 @@ mittellos ist.
 ihm auch derjenige, zu dessen Gunsten der Antrag gestellt ist.
 
 
-## Art II - 
+## Art II -
 
 
 

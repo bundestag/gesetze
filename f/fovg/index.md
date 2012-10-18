@@ -1076,9 +1076,8 @@ Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen,
 treten am Tage nach der Verkündung in Kraft. Im Übrigen tritt dieses
 Gesetz am 1. Januar 2003 in Kraft.
 
-(zu § 2 Nr. 1)
 
-### Anlage Liste der Baumarten und künstlichen Hybriden, die der Richtlinie 1999/105/EG unterliegen
+### Anlage (zu § 2 Nr. 1) Liste der Baumarten und künstlichen Hybriden, die der Richtlinie 1999/105/EG unterliegen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1666
 

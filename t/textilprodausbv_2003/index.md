@@ -352,9 +352,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-(zu § 7)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil
+## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil
 
 (Fundstelle: BGBl. I 2003, 968 - 972)
 

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Erhebung von Daten zur Aufstellung des nationalen  Zuteilungsplans
+Title: Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans
   für die Zuteilungsperiode 2008 bis 2012
 jurabk: DEV 2012
 layout: default
@@ -8,7 +8,7 @@ slug: dev_2012
 
 ---
 
-# Verordnung über die Erhebung von Daten zur Aufstellung des nationalen  Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012 (DEV 2012)
+# Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012 (DEV 2012)
 
 Ausfertigungsdatum
 :   2006-07-11

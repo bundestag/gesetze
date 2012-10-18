@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 131 G v. 19.4.2006 I 866
 
 
-## Art 1 - 
+## Art 1 -
 
 
 
@@ -227,9 +227,8 @@ Verwaltungsvorschriften über die Verschollenheitsliste zu erlassen.
 
 -
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 953)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 953)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

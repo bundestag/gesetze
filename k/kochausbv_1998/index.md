@@ -290,9 +290,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Koch/zur Köchin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Koch/zur Köchin
 
 (Fundstelle: BGBl. I 1998, 366 - 369)
 

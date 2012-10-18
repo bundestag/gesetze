@@ -45,9 +45,8 @@ Erhebung der Gebühr abgesehen werden.
 
 Diese Verordnung tritt am 1. Mai 2008 in Kraft.
 
-(zu § 1 Satz 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Satz 1) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 763 )
 

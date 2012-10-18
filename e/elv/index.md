@@ -221,9 +221,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 2 Nr. 1 Buchstabe c)
 
-## Anlage 1 Allgemein verwendbare Extraktionslösungsmittel
+## Anlage 1 (zu § 2 Abs. 2 Nr. 1 Buchstabe c) Allgemein verwendbare Extraktionslösungsmittel
 
 Fundstelle des Originaltextes: BGBl. I 1991, 2102;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -236,9 +235,8 @@ Aceton; darf nicht bei der Raffinierung von Oliventresteröl verwendet
 werden
 Distickstoffmonoxid
 
-(zu § 2 Abs. 2 Nr. 2 und § 3)
 
-## Anlage 2 Beschränkt verwendbare Extraktionslösungsmittel
+## Anlage 2 (zu § 2 Abs. 2 Nr. 2 und § 3) Beschränkt verwendbare Extraktionslösungsmittel
 
 (Fundstelle: BGBl. I 1993, 2304;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -368,9 +366,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 2 Abs. 2 Nr. 3 und § 3)
 
-## Anlage 3 Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
+## Anlage 3 (zu § 2 Abs. 2 Nr. 3 und § 3) Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
 
 (Fundstelle: BGBl. I 1991, 2103;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -455,9 +452,8 @@ Abs. 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
 
 
 
-(zu § 4 Satz 1 und 2)
 
-## Anlage 4 Reinheitskriterien für Extraktionslösungsmittel
+## Anlage 4 (zu § 4 Satz 1 und 2) Reinheitskriterien für Extraktionslösungsmittel
 
 
 *    *   Stoff
@@ -480,9 +476,8 @@ Extraktionslösungsmittel dürfen auch keine toxikologisch bedenklichen
 Mengen anderer Stoffe enthalten. In einem Kilogramm Ethylmethylketon
 darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
 
-(zu § 2a und § 3 Abs. 2)
 
-## Anlage 5 Technische Hilfsstoffe
+## Anlage 5 (zu § 2a und § 3 Abs. 2) Technische Hilfsstoffe
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 302)
 

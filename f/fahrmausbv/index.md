@@ -356,9 +356,8 @@ das Gesamtergebnis einbezogen.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 6)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
+## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
 
 (Fundstelle: BGBl. I 2004, 996 - 1001)
 

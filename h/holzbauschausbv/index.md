@@ -1195,9 +1195,8 @@ Abschlussprüfung/Gesellenprüfung nach § 9 dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung im Holz- und Bautenschutzgewerbe
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung im Holz- und Bautenschutzgewerbe
 
 (Fundstelle: BGBl. I 2007, 617 - 627)
 

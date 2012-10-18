@@ -2212,11 +2212,8 @@ die Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Baumschule
 
-## Anlage 1a - sachliche Gliederung -
+## Anlage 1a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 387 - 392)
 
@@ -3142,11 +3139,8 @@ Gärtnerin für die Fachrichtung Baumschule
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Baumschule
 
-## Anlage 1b - zeitliche Gliederung -
+## Anlage 1b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 393 - 395)
 
@@ -3917,11 +3911,8 @@ Gärtnerin für die Fachrichtung Baumschule
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Friedhofsgärtnerei
 
-## Anlage 2a - sachliche Gliederung -
+## Anlage 2a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 396 - 401)
 
@@ -4817,11 +4808,8 @@ Gärtnerin für die Fachrichtung Friedhofsgärtnerei
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Friedhofsgärtnerei
 
-## Anlage 2b - zeitliche Gliederung -
+## Anlage 2b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 402 - 404)
 
@@ -5601,11 +5589,8 @@ Gärtnerin für die Fachrichtung Friedhofsgärtnerei
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Garten- und Landschaftsbau
 
-## Anlage 3a - sachliche Gliederung -
+## Anlage 3a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 405 - 410)
 
@@ -6566,11 +6551,8 @@ Landschaftsbau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Garten- und Landschaftsbau
 
-## Anlage 3b - zeitliche Gliederung -
+## Anlage 3b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 411 - 413)
 
@@ -7298,11 +7280,8 @@ Gärtnerin für die Fachrichtung Garten- und Landschaftsbau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Gemüsebau
 
-## Anlage 4a - sachliche Gliederung -
+## Anlage 4a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 414 - 419)
 
@@ -8196,11 +8175,8 @@ Gärtnerin für die Fachrichtung Gemüsebau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Gemüsebau
 
-## Anlage 4b - zeitliche Gliederung -
+## Anlage 4b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 420 - 422)
 
@@ -8965,11 +8941,8 @@ Gärtnerin für die Fachrichtung Gemüsebau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Obstbau
 
-## Anlage 5a - sachliche Gliederung -
+## Anlage 5a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 423 - 428)
 
@@ -9850,11 +9823,8 @@ Gärtnerin für die Fachrichtung Obstbau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Obstbau
 
-## Anlage 5b - zeitliche Gliederung -
+## Anlage 5b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 429 - 431)
 
@@ -10616,11 +10586,8 @@ Gärtnerin für die Fachrichtung Obstbau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Staudengärtnerei
 
-## Anlage 6a - sachliche Gliederung -
+## Anlage 6a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 432 - 437)
 
@@ -11504,11 +11471,8 @@ Gärtnerin für die Fachrichtung Staudengärtnerei
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Staudengärtnerei
 
-## Anlage 6b - zeitliche Gliederung -
+## Anlage 6b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 438 - 440)
 
@@ -12273,11 +12237,8 @@ Gärtnerin für die Fachrichtung Staudengärtnerei
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Zierpflanzenbau
 
-## Anlage 7a - sachliche Gliederung -
+## Anlage 7a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 441 - 446)
 
@@ -13188,11 +13149,8 @@ Gärtnerin für die Fachrichtung Zierpflanzenbau
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
-Gärtnerin für die Fachrichtung Zierpflanzenbau
 
-## Anlage 7b - zeitliche Gliederung -
+## Anlage 7b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 447 - 449)
 

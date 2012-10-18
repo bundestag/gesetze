@@ -357,9 +357,8 @@ Erklärung auf dem Lieferschein verpflichtet, die entfallenen Angaben
 dem Käufer der Erhaltungsmischung auf Verlangen schriftlich oder auf
 elektronischem Wege unverzüglich mitzuteilen.
 
-(zu § 2 Nummer 6 und 7)
 
-## Anlage Ursprungsgebiete und Produktionsräume
+## Anlage (zu § 2 Nummer 6 und 7) Ursprungsgebiete und Produktionsräume
 
 (Fundstelle: BGBl. I 2011, 2644 - 2645)
 

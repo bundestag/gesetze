@@ -118,9 +118,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Das Bundesaufsichtsamt für das Kreditwesen
 
-(zur Länderrisikoverordnung)
 
-## Anlage Meldung zum Auslandskreditvolumen gemäß § 25 Abs. 3 KWG
+## Anlage (zur Länderrisikoverordnung) Meldung zum Auslandskreditvolumen gemäß § 25 Abs. 3 KWG
 
 ( Inhalt: nicht darstellbares Muster eines Vordrucks,
 Fundstelle: BGBl. I 2003, 1604 - 1605;

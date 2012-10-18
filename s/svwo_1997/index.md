@@ -2090,7 +2090,7 @@ Niederschrift ist vom Vorsitzenden des Wahlausschusses und vom
 Vorsitzenden der Vertreterversammlung zu unterzeichnen.
 
 
-### Zweiter Abschnitt - Wahl der  Vorsitzenden der Verwaltungsräte
+### Zweiter Abschnitt - Wahl der Vorsitzenden der Verwaltungsräte
 
 
 
@@ -2486,9 +2486,8 @@ Diese Verordnung tritt am 1. Oktober 1997 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 15 Abs. 1 und § 65 Abs. 1)
 
-### Anlage 1 Vorschlagsliste für die Wahl einer Vertreterversammlung
+### Anlage 1 (zu § 15 Abs. 1 und § 65 Abs. 1) Vorschlagsliste für die Wahl einer Vertreterversammlung
 
 (Fundstelle: BGBl. I 1998, 1894 - 1897;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2776,9 +2775,8 @@ Alle Angaben sind in Maschinenschrift oder in anderer gut leserlicher
 Schrift (vorzugsweise Druckbuchstaben) einzusetzen. Unterschriften
 sind eigenhändig zu vollziehen.
 
-(zu § 15 Abs. 1)
 
-### Anlage 2 Vorschlagsliste für die Wahl eines Verwaltungsrates
+### Anlage 2 (zu § 15 Abs. 1) Vorschlagsliste für die Wahl eines Verwaltungsrates
 
 (Fundstelle: BGBl. I 1998, 1898 - 1901;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3079,9 +3077,8 @@ sind eigenhändig zu vollziehen.
 
 (weggefallen)
 
-(zu § 15 Abs. 1 und § 65 Abs. 1)
 
-### Anlage 4 Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung
+### Anlage 4 (zu § 15 Abs. 1 und § 65 Abs. 1) Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 15 u. 16;
@@ -3179,9 +3176,8 @@ vollziehen.
 
 
 
-(zu § 15 Abs. 1)
 
-### Anlage 5 Unterstützerliste bei Trägern der Unfallversicherung
+### Anlage 5 (zu § 15 Abs. 1) Unterstützerliste bei Trägern der Unfallversicherung
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 17 u. 18;
@@ -3277,9 +3273,8 @@ vollziehen.
 
 
 
-(zu § 15 Abs. 4 und § 65 Abs. 2)
 
-### Anlage 6 Zustimmungserklärung von Bewerberinnen/Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates
+### Anlage 6 (zu § 15 Abs. 4 und § 65 Abs. 2) Zustimmungserklärung von Bewerberinnen/Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates
 
 (Fundstelle: BGBl. I 1998, 1902)
 ............................. 1)
@@ -3310,9 +3305,8 @@ stimme ich zu.
 
 (weggefallen)
 
-(zu § 15 Abs. 4)
 
-### Anlage 8 Erklärung des Listenvertreters über das Wahlrecht
+### Anlage 8 (zu § 15 Abs. 4) Erklärung des Listenvertreters über das Wahlrecht
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 21)
@@ -3357,9 +3351,8 @@ Person des Listenunterzeichners vorliegen.
 ......................................................................
 .........
 
-(zu § 41 Abs. 1)
 
-### Anlage 9 Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten)
+### Anlage 9 (zu § 41 Abs. 1) Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 22 bis 23;
@@ -3458,9 +3451,8 @@ herbeiführt oder das Ergebnis verfälscht, wird nach § 107 a in
 Verbindung mit § 108d des Strafgesetzbuches mit Freiheitsstrafe bis zu
 fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
-(zu § 41 Abs. 1)
 
-### Anlage 10 Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber)
+### Anlage 10 (zu § 41 Abs. 1) Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 24 u. 25;
@@ -3565,9 +3557,8 @@ fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
 (weggefallen)
 
-(zu § 41 Abs. 4)
 
-### Anlage 12 Stimmzettelumschlag
+### Anlage 12 (zu § 41 Abs. 4) Stimmzettelumschlag
 
 Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 28;
@@ -3642,9 +3633,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 41 Abs. 4)
 
-### Anlage 13 Wahlbriefumschlag
+### Anlage 13 (zu § 41 Abs. 4) Wahlbriefumschlag
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 29;
@@ -3713,9 +3703,8 @@ I
 
 
 
-(zu § 3 Abs. 9 i.V.m. § 58 Abs. 5)
 
-### Anlage 14 Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung
+### Anlage 14 (zu § 3 Abs. 9 i.V.m. § 58 Abs. 5) Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 30 bis 36;
@@ -4179,9 +4168,8 @@ Beschlüsse des Wahlausschusses; besondere Vorfälle
 
 (weggefallen)
 
-(zu § 77 Abs. 3 Satz 1)
 
-### Anlage 18 Vorschlagsliste für die Wahl eines - ehrenamtlichen - Vorstandes
+### Anlage 18 (zu § 77 Abs. 3 Satz 1) Vorschlagsliste für die Wahl eines - ehrenamtlichen - Vorstandes
 
 (Fundstelle: BGBl. I 1998, 1904 - 1906;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4379,9 +4367,8 @@ Vertreterversammlung, für die sie gelten sollen) 8)
 
 
 
-(zu § 77 Abs. 3 Satz 1)
 
-### Anlage 19 Zustimmungserklärung von Bewerbern für die Wahl eines - ehrenamtlichen - Vorstandes
+### Anlage 19 (zu § 77 Abs. 3 Satz 1) Zustimmungserklärung von Bewerbern für die Wahl eines - ehrenamtlichen - Vorstandes
 
 (Fundstelle: BGBl. I 1998, 1907)
 ............................... 1)

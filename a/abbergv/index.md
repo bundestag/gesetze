@@ -1514,9 +1514,8 @@ Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu den §§ 11 und 12)
 
-## Anhang 1 Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
+## Anhang 1 (zu den §§ 11 und 12) Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1476 - 1479;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2079,9 +2078,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 12)
 
-## Anhang 2 Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
+## Anhang 2 (zu § 12) Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1480 - 1481;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2266,9 +2264,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 13)
 
-## Anhang 3 Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 1 und 2 im Bereich des Festlandsockels und der Küstengewässer
+## Anhang 3 (zu § 13) Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 1 und 2 im Bereich des Festlandsockels und der Küstengewässer
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1482 - 1484
 
@@ -2598,9 +2595,8 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1482 - 1484
 
 
 
-(zu § 19)
 
-## Anhang 4 Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
+## Anhang 4 (zu § 19) Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
@@ -2849,9 +2845,8 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
 
 
-(zu § 22a Abs. 2)
 
-## Anhang 5 Abfallbewirtschaftungsplan
+## Anhang 5 (zu § 22a Abs. 2) Abfallbewirtschaftungsplan
 
 (Fundstelle des Originaltextes: BGBl. I 2008, 87)
 
@@ -2957,9 +2952,8 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
 
 
-(zu § 22a Abs. 3 Satz 1)
 
-## Anhang 6 Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
+## Anhang 6 (zu § 22a Abs. 3 Satz 1) Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 88 )
 
@@ -3065,9 +3059,8 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
 
 
-(zu § 22a Abs. 3 Satz 4)
 
-## Anhang 7 Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
+## Anhang 7 (zu § 22a Abs. 3 Satz 4) Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 89 )
 

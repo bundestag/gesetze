@@ -26,7 +26,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Erster Abschnitt - 
+## Erster Abschnitt -
 
 
 
@@ -597,10 +597,8 @@ Kraft.
 
 (2)
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1029)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1029) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

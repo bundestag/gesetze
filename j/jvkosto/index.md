@@ -375,9 +375,8 @@ verzinst.
 
 -
 
-Schlußbestimmungen
 
-## Art II - Außerkrafttreten landesrechtlicher Vorschriften
+## Art II - Schlußbestimmungen Außerkrafttreten landesrechtlicher Vorschriften
 
 
 
@@ -435,9 +434,8 @@ landesrechtlichen Gebührenvorschriften in Kraft.
 
 Der Reichsminister der Justiz
 
-(zu § 2 Abs. 1)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3426 - 3427;
 bezgl. der einzelnen Änderungen vgl. Fußnote)

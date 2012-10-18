@@ -475,9 +475,8 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 (2)
 
-(zu § 3 Abs. 2)
 
-### Anlage 1 Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
+### Anlage 1 (zu § 3 Abs. 2) Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
 
 (Fundstelle: BGBl. I 1998, 2146 - 2152)
 
@@ -1323,11 +1322,10 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 
-   (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)
 
-### Anlage 2 Teil 1 Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+### Anlage 2 Teil 1 (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3) Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
 
-Fundstelle des Originaltextes: BGBl. I 1998, 2153
+   Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
 *    *   bisher zugeteilter Kennbuchstabe
 
@@ -1540,9 +1538,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
 
 
-(zu § 7 Abs. 3)
 
-### Anlage 2 Teil 2 Kennbuchstaben, die nicht mehr zugeteilt werden
+### Anlage 2 Teil 2 (zu § 7 Abs. 3) Kennbuchstaben, die nicht mehr zugeteilt werden
 
 (Fundstelle: BGBl. I 1998, 2154)
 
@@ -1591,9 +1588,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
 
 
-(zu § 7 Abs. 1)
 
-### Anlage 3 Muster für das Prüfzeichen
+### Anlage 3 (zu § 7 Abs. 1) Muster für das Prüfzeichen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2155
 

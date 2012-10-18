@@ -552,9 +552,8 @@ werden.
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
-(zu § 7 Absatz 6)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2012, 1471)
 
@@ -613,9 +612,8 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 
 
-(zu § 7 Absatz 6)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2012, 1472 - 1473)
 

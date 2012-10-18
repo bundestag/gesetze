@@ -659,9 +659,8 @@ gilt das Ergebnis der letzten Prüfung.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 2 Absatz 2)
 
-## Anlage 1 Spezialistenprofile in der Elektrotechnik
+## Anlage 1 (zu § 2 Absatz 2) Spezialistenprofile in der Elektrotechnik
 
 (Fundstelle: BGBl. I 2009, 2846 - 2849)
 Die Spezialistenprofile beschreiben die inhaltlichen Standards, die
@@ -1132,9 +1131,8 @@ Elektrotechnik**
 
 
 
-(zu § 7 Absatz 4)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 4) Muster
 
 (Fundstelle: BGBl. I 2009, 2850)
 
@@ -1199,11 +1197,10 @@ vom 10. August 2009 (BGBl. I S. 2841)
     *
 
 
-   (zu § 7 Absatz 4)
 
-## Anlage 3 Muster
+## Anlage 3 (zu § 7 Absatz 4) Muster
 
-(Fundstelle: BGBl. I 2009, 2851)
+   (Fundstelle: BGBl. I 2009, 2851)
 
 *    *
     *   ......................................................

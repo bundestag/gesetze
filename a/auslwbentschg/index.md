@@ -508,9 +508,8 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Dieses Gesetz tritt am ersten Tage des zweiten Monats nach seiner
 Verkündung in Kraft.
 
-(§ 9 Abs. 1)
 
-### Anlage Verzeichnis nach § 9 Abs. 1
+### Anlage (§ 9 Abs. 1) Verzeichnis nach § 9 Abs. 1
 
 (Fundstelle: BGBl. Teil III 4139-3, S. 148)
 

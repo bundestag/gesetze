@@ -116,7 +116,7 @@ durchgeführt wurden, angemessen zu berücksichtigen.
 ausgestellt werden, ist auf höchstens fünf Jahre zu befristen.
 
 
-## Abschnitt 2 - Anforderungen an die Verfahren der  Konformitätsbewertung
+## Abschnitt 2 - Anforderungen an die Verfahren der Konformitätsbewertung
 
 
 

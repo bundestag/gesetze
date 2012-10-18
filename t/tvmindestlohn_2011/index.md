@@ -346,10 +346,8 @@ Einstellungsortes. Ist der Mindestlohn der auswärtigen Arbeitsstelle
 höher, so haben sie Anspruch auf diesen Mindestlohn, solange sie auf
 dieser Arbeitsstelle tätig sind.
 
-Betrieblicher Geltungsbereich des Bundesrahmentarifvertrages für das
-Baugewerbe (BRTV)
 
-## Anhang 1 in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Dezember 2011 geltenden Fassung:
+## Anhang 1 Betrieblicher Geltungsbereich des Bundesrahmentarifvertrages für das Baugewerbe (BRTV) in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Dezember 2011 geltenden Fassung:
 
 (Fundstelle: BAnz. 2011, 3867 - 3868)
 

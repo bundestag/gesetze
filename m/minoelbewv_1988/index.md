@@ -507,9 +507,8 @@ Technologie durch Rechtsverordnung bestimmt.
 
 (3) § 9 Abs. 2 und 5 ist mit dem Inkrafttreten anwendbar.
 
-zur Mineralölbewirtschaftungs-Verordnung
 
-### Anlage Liste der Produkte gemäß § 1 Abs. 1
+### Anlage zur Mineralölbewirtschaftungs-Verordnung Liste der Produkte gemäß § 1 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1988, 534
 Rohöl

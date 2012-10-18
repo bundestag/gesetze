@@ -11045,7 +11045,7 @@ Entscheidung über den Antrag auf Zulassung oder Registrierung nach §
 der bisherigen Form in den Verkehr gebracht werden.
 
 
-### Vierzehnter Unterabschnitt - 
+### Vierzehnter Unterabschnitt -
 
 
 
@@ -11072,7 +11072,7 @@ Zulassung nach § 21 Abs. 1 besitzt, muss keinen neuen Antrag nach §
 20b Abs. 1, § 20c Abs. 1 oder § 21a Abs. 1 stellen.
 
 
-### Fünfzehnter Unterabschnitt - 
+### Fünfzehnter Unterabschnitt -
 
 
 
@@ -11156,7 +11156,7 @@ Erlaubnis beantragt hat, darf diese Tätigkeit bis zur Entscheidung
 über den Antrag weiter ausüben.
 
 
-### Siebzehnter Unterabschnitt - 
+### Siebzehnter Unterabschnitt -
 
 
 

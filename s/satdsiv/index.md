@@ -111,9 +111,8 @@ Flussdiagramm dargestellt.
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 2 Abs. 2 Nr. 1)
 
-## Anlage 1 Bodenstationsnegativliste
+## Anlage 1 (zu § 2 Abs. 2 Nr. 1) Bodenstationsnegativliste
 
 ( Fundstelle: BGBl. I 2008, 509 )
 Staatsgebiet Armenien
@@ -138,9 +137,8 @@ Staatsgebiet Turkmenistan
 Staatsgebiet Usbekistan
 Staatsgebiet Weißrussland
 
-(zu § 2 Abs. 2 Nr. 2)
 
-## Anlage 2 Gebietspositivliste
+## Anlage 2 (zu § 2 Abs. 2 Nr. 2) Gebietspositivliste
 
 ( Fundstelle: BGBl. I 2008, 509 )
 Antarktischer Kontinent und angrenzende Meere (alle Gebiete südlich
@@ -149,9 +147,8 @@ von –60° geographischer Breite)
 Nordpolarer Teil der Arktis (alle Gebiete nördlich von 84°
 geographischer Breite)
 
-(zu § 2 Abs. 2 Nr. 2 Buchstabe a)
 
-## Anlage 3 Gebietsnegativliste
+## Anlage 3 (zu § 2 Abs. 2 Nr. 2 Buchstabe a) Gebietsnegativliste
 
 ( Fundstelle: BGBl. I 2008, 509 )
 Staatsgebiet Afghanistan
@@ -175,9 +172,8 @@ Staatsgebiet Tschad
 Staatsgebiet Usbekistan
 Westsahara
 
-(zu § 2 Abs. 2 Nr. 2 Buchstabe b)
 
-## Anlage 4 Empfängerpositivliste
+## Anlage 4 (zu § 2 Abs. 2 Nr. 2 Buchstabe b) Empfängerpositivliste
 
 ( Fundstelle: BGBl. I 2008, 510 )
 
@@ -218,9 +214,8 @@ Westsahara
 
 
 
-(zu § 2 Abs. 1 und 2)
 
-## Anlage 5 Übersicht über den Prüfablauf
+## Anlage 5 (zu § 2 Abs. 1 und 2) Übersicht über den Prüfablauf
 
 ( Fundstelle: BGBl. I 2008, 511 )
 ![bgbl1_2008_j0508-1_0010.jpg](bgbl1_2008_j0508-1_0010.jpg)

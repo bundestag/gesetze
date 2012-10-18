@@ -1248,9 +1248,8 @@ Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
 
 
 
-(zu § 9 Abs. 1 und 2)
 
-### Anlage 2 Abtrennung und Raumbedarf
+### Anlage 2 (zu § 9 Abs. 1 und 2) Abtrennung und Raumbedarf
 
 (Fundstelle: BGBl. I 2009, 384 - 385)
 
@@ -1446,9 +1445,8 @@ Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
 
 
 
-(zu § 19 Abs. 1)
 
-### Anlage 3 Durchführung der Nämlichkeitskontrolle bei Tieren
+### Anlage 3 (zu § 19 Abs. 1) Durchführung der Nämlichkeitskontrolle bei Tieren
 
 (Fundstelle: BGBl. I 2009, 385)
 
