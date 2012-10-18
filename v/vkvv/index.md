@@ -198,9 +198,8 @@ noch nicht bindend festgestellte Daten beschränkt werden.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 2)
 
-### Anlage Bereichsnummern
+### Anlage (zu § 2 Abs. 2) Bereichsnummern
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3290 u. 3291
 

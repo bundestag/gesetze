@@ -38,9 +38,8 @@ bis 6 dieser Verordnung vorgegeben.
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und tritt
 am 31. Dezember 2012 außer Kraft.
 
-Anlagen
 
-## (XXXX) (zu § 1)
+## (XXXX) Anlagen (zu § 1)
 
 
 *    *   Anlage 1
@@ -189,9 +188,8 @@ Krankenhausfinanzierungsgesetzes vereinbart worden sind.
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 4 - 124)
 
 
-Zusatzentgelte-Katalog
 
-## Anlage 2 - Liste -
+## Anlage 2 Zusatzentgelte-Katalog - Liste -
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 125 - 126)
 
@@ -1291,9 +1289,8 @@ Krankenhausleistung erbracht werden dürfen.
     geltende Entgelt der L90B nach Teil 1 c) der FPV 2011 der Höhe nach
     weiter zu erheben.
 [^bjnr519010011bjne000800000_02_BJNR519010011BJNE000800000]: 
-Zusatzentgelte-Katalog
 
-## Anlage 4 - Liste -
+## Anlage 4 Zusatzentgelte-Katalog - Liste -
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 130 - 131)
 
@@ -1686,16 +1683,14 @@ Krankenhausleistungen erbracht werden dürfen.
     Satz 3 KHEntgG bis zum Beginn des Wirksamwerdens der neuen
     Budgetvereinbarung der Höhe nach weiter zu erheben.
 [^bjnr519010011bjne000900311_07_BJNR519010011BJNE000900311]: 
-Zusatzentgelte-Katalog
 
-## Anlage 5 - Definition und differenzierte Beträge -
+## Anlage 5 Zusatzentgelte-Katalog - Definition und differenzierte Beträge -
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 132 - 157)
 
 
-Zusatzentgelte-Katalog
 
-## Anlage 6 - Definition -
+## Anlage 6 Zusatzentgelte-Katalog - Definition -
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 158 - 166)
 

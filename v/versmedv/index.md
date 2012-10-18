@@ -125,9 +125,8 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-zu § 2
 
-## Anlage der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
+## Anlage zu § 2 der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 57 vom 15. Dezember 2008,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

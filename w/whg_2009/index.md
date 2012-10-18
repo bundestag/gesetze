@@ -4184,9 +4184,8 @@ vorläufig gesicherte Überschwemmungsgebiete gelten als festgesetzte
 oder vorläufig gesicherte Überschwemmungsgebiete im Sinne von § 76
 Absatz 2 oder Absatz 3.
 
-(zu § 3 Nummer 11)
 
-### Anlage 1 Kriterien zur Bestimmung des Standes der Technik
+### Anlage 1 (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle: BGBl. I 2009, 2614;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

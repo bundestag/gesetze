@@ -3461,9 +3461,8 @@ IV. Stufe 4
 
 
 
-(zu § 12)
 
-### Anhang VI Arbeitsmedizinische Präventionsmaßnahmen
+### Anhang VI (zu § 12) Arbeitsmedizinische Präventionsmaßnahmen
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 270;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

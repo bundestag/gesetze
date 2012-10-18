@@ -116,9 +116,8 @@ Gleichzeitig tritt die Tierimpfstoff-Kostenverordnung vom 15. Mai 1998
 (BGBl. I S. 941), die zuletzt durch Artikel 3 § 8 des Gesetzes vom 22.
 Juni 2004 (BGBl. I S. 1248) geändert worden ist, außer Kraft.
 
-(zu § 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2010, 1638 - 1642; bzgl. einzelner Änderungen
 vgl. Fußnote)

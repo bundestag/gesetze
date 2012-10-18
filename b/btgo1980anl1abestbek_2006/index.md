@@ -1,5 +1,5 @@
 ---
-Title: Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für  Mitglieder
+Title: Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für Mitglieder
   des Deutschen Bundestages
 jurabk: BTGO1980Anl1ABestBek 2006
 layout: default
@@ -8,7 +8,7 @@ slug: btgo1980anl1abestbek_2006
 
 ---
 
-# Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für  Mitglieder des Deutschen Bundestages (BTGO1980Anl1ABestBek 2006)
+# Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für Mitglieder des Deutschen Bundestages (BTGO1980Anl1ABestBek 2006)
 
 Ausfertigungsdatum
 :   2005-12-30

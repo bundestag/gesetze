@@ -162,9 +162,8 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
 ## § 5 (weggefallen)
 
 
-(zu § 1)
 
-## Anlage I. Fleischigkeitsklassen
+## Anlage (zu § 1) I. Fleischigkeitsklassen
 
 (Fundstelle: BGBl. I 2008, 2197)
 

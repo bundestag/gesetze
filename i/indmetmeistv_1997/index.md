@@ -990,9 +990,8 @@ können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 7 Abs. 5)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 1997, 2930;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1021,9 +1020,8 @@ Datum .......................
 Unterschrift ................
 (Siegel der zuständigen Stelle)
 
-(zu § 7 Abs. 5)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 1997, 2931 - 2932;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

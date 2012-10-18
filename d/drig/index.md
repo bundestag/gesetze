@@ -2550,15 +2550,8 @@ Bezeichnung "Staatsanwalt".
 Dieses Gesetz tritt am 1. Juli 1962 in Kraft. Die §§ 114 und 116
 treten jedoch bereits am Tage nach der Verkündung in Kraft.
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III
-und IV
-(BGBl. II 1990, 889, 929, 939)
-Abschnitt III
-- Maßgaben für die beigetretenen fünf Länder (Art. 1 Abs. 1 EinigVtr)
--
-Abschnitt IV
 
-#### Anhang EV - Maßgaben für das Land Berlin -
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 929, 939) Abschnitt III - Maßgaben für die beigetretenen fünf Länder (Art. 1 Abs. 1 EinigVtr) - Abschnitt IV - Maßgaben für das Land Berlin -
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

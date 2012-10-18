@@ -33,10 +33,8 @@ beschlossen:
 ## Art II - Übergangs- und Schlußvorschriften zum Zehnten Buch Sozialgesetzbuch sowie weitere Änderungen von Gesetzen
 
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet D Abschnitt III
-(BGBl. II 1990, 889, 1032)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1032) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

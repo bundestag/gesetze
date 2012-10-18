@@ -1,7 +1,6 @@
-Eingeschränkte technische Vorschriften für Fahrzeuge auf
-Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
 ---
-Title: (Anhang IV zur Binnenschiffsuntersuchungsordnung)
+Title: Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen
+  der Zonen 3 außerhalb des Rheins und 4 (Anhang IV zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh IV
 layout: default
 origslug: binschuo2008anh_iv
@@ -9,7 +8,7 @@ slug: binschuo2008anh_iv
 
 ---
 
-# (Anhang IV zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IV)
+# Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4 (Anhang IV zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IV)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -312,7 +311,7 @@ Fahrgastschiffe müssen auf Wasserstrassen der Zone 4 nicht mit einem
 zweiten unabhängigen Antriebssystem ausgerüstet sein.
 
 
-## Teil III - 
+## Teil III -
 
 
 ### Kapitel 5 - Übergangs- und Sonderbestimmungen

@@ -130,9 +130,8 @@ Amtshandlung galt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1 Absatz 1)
 
-## Anhang 1 Gebührenverzeichnis
+## Anhang 1 (zu § 1 Absatz 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2011, 3110 - 3111)
 

@@ -140,9 +140,8 @@ Im Sinne dieses Gesetzes sind
 
 zu verstehen.
 
-Zulassung der Zwangs-
 
-### Abschnitt 2 - vollstreckung aus ausländischen Titeln
+### Abschnitt 2 - Zulassung der Zwangs- vollstreckung aus ausländischen Titeln
 
 
 

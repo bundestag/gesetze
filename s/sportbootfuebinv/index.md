@@ -905,9 +905,8 @@ Fundstelle des Originaltextes: BGBl. I 2000, 649
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1111)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1111)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

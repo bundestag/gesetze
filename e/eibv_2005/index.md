@@ -938,9 +938,8 @@ findet § 21 Abs. 7 auf Häfen keine Anwendung.
 anderes ergibt, gegenüber jedem Zugangsberechtigten in gleicher Weise
 zu berechnen.
 
-(zu den §§ 3 und 21)
 
-## Anlage 1 Für die Zugangsberechtigten zu erbringende Leistungen
+## Anlage 1 (zu den §§ 3 und 21) Für die Zugangsberechtigten zu erbringende Leistungen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1574
 
@@ -997,9 +996,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1574
 
 
 
-(zu § 4 Abs. 2)
 
-## Anlage 2 Inhalt der Schienennetz-Benutzungsbedingungen
+## Anlage 2 (zu § 4 Abs. 2) Inhalt der Schienennetz-Benutzungsbedingungen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1575
 

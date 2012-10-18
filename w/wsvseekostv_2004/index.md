@@ -108,9 +108,8 @@ zu legen.
 
 Diese Verordnung tritt am 1. Oktober 2004 in Kraft.
 
-(zu § 1 Abs 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Abs 1) Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2365 - 2372, 2804;
 bezüglich einzelner Änderungen vgl. Fußnote

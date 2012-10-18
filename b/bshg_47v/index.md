@@ -465,7 +465,7 @@ entsprechenden Fachrichtung, ein Psychologe oder sonstige
 sachverständige Personen gehört werden.
 
 
-## Abschnitt III - 
+## Abschnitt III -
 
 (weggefallen)
 

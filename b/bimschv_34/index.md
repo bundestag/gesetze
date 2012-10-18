@@ -1,5 +1,5 @@
 ---
-Title: Vierunddreißigste Verordnung zur Durchführung des  Bundes-Immissionsschutzgesetzes
+Title: Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
   (Verordnung über die Lärmkartierung)
 jurabk: BImSchV 34
 layout: default
@@ -8,7 +8,7 @@ slug: bimschv_34
 
 ---
 
-# Vierunddreißigste Verordnung zur Durchführung des  Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung) (BImSchV 34)
+# Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung) (BImSchV 34)
 
 Ausfertigungsdatum
 :   2006-03-06

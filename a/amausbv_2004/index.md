@@ -605,9 +605,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Aufbereitungsmechaniker/zur Aufbereitungsmechanikerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Aufbereitungsmechaniker/zur Aufbereitungsmechanikerin
 
 
 *    *   (Fundstelle BGBl. I 2004, 164 - 179)

@@ -751,12 +751,8 @@ Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung
 Der Bundesminister für Jugend, Familie und Gesundheit
 
-Teil A bis Teil F
-zur
-Verordnung über die Krankenfürsorge auf Kauffahrteischiffen
-vom 25. April 1972
 
-### Anlage \*Ku Anlageband zum Bundesgesetzbl. I Nr. 38 vom 29. April 1972 \*KE
+### Anlage Teil A bis Teil F zur Verordnung über die Krankenfürsorge auf Kauffahrteischiffen vom 25. April 1972 *Ku Anlageband zum Bundesgesetzbl. I Nr. 38 vom 29. April 1972 *KE
 
 (Inhalt: nicht darstellbare Tabellen, Muster und Skizze,
 Fundstelle Anlage Teil A: BGBl. I 2007, 2222,
@@ -766,9 +762,8 @@ Fundstelle Anlage Teil D und E: BGBl. I 1972 Nr. 38, Anlageband;
 Fundstelle Anlage Teil F: BGBl. I 2007, 2242 - 2243;
 bezgl. der einzelnen Änderungen vgl. Fußnote)
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1109)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1109)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -471,9 +471,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 3)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
+## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
 
 (Fundstelle: BGBl. I 2007, 189 - 192 (1202))              >
 

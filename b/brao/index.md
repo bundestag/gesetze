@@ -4887,9 +4887,8 @@ Regelungen fortgeführt.
 ### (XXXX) §§ 227a und 227b (weggefallen)
 
 
-(zu § 193 Satz 1 und § 195 Satz 1)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 193 Satz 1 und § 195 Satz 1) Gebührenverzeichnis
 
 ## Gliederung
 

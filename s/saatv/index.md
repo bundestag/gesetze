@@ -2383,9 +2383,8 @@ und § 40 Absatz 7 Satz 1 Nummer 1 sind bis zum Ablauf des 30. Juni
 
 -
 
-(zu § 4 Abs. 1 Satz 1)
 
-### Anlage 1 Termin für den Antrag auf Anerkennung von Saatgut
+### Anlage 1 (zu § 4 Abs. 1 Satz 1) Termin für den Antrag auf Anerkennung von Saatgut
 
 (Fundstelle: BGBl. I 2006, 361;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2579,9 +2578,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 6 Satz 1)
 
-### Anlage 2 Anforderungen an den Feldbestand
+### Anlage 2 (zu § 6 Satz 1) Anforderungen an den Feldbestand
 
 (Fundstelle: BGBl. I 2006, 362 - 371;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4700,17 +4698,15 @@ Sortengruppen von Roter Rübe:
 
 
 
-(zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 1, §§ 23, 26 Abs. 3 Satz 2)
 
-### Anlage 3 Anforderungen an die Beschaffenheit des Saatgutes
+### Anlage 3 (zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 1, §§ 23, 26 Abs. 3 Satz 2) Anforderungen an die Beschaffenheit des Saatgutes
 
 (Inhalt: nicht darstellbare Tabellen;
 Fundstelle: BGBl. I 2006, 372 - 384;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-(zu § 11 Abs. 2, § 20 Abs. 2, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5)
 
-### Anlage 4 Größe der Partien und Proben
+### Anlage 4 (zu § 11 Abs. 2, § 20 Abs. 2, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5) Größe der Partien und Proben
 
 (Fundstelle: BGBl. I 2006, 385 - 386;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5231,9 +5227,8 @@ worden ist, sowie bei Saatgutträgern 7 500 Körner oder Knäuel.
 
 
 
-(zu § 29 Absatz 3 und 7 und §§ 31 und 43 Absatz 1a und 2)
 
-### Anlage 5 Angaben auf dem Etikett und dem Einleger
+### Anlage 5 (zu § 29 Absatz 3 und 7 und §§ 31 und 43 Absatz 1a und 2) Angaben auf dem Etikett und dem Einleger
 
 (Fundstelle: BGBl. I 2006, 387 - 388;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5472,9 +5467,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu §§ 40 und 42 Abs. 1)
 
-### Anlage 6 Kleinpackungen Höchstmengen und Kennzeichnung
+### Anlage 6 (zu §§ 40 und 42 Abs. 1) Kleinpackungen Höchstmengen und Kennzeichnung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 389 - 390;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6010,9 +6004,8 @@ Localite et pays
 Delete as necessary
 Rayer la mention inutile
 
-(zu §§ 46, 47 und 48 Abs. 3 Nr. 3)
 
-### Anlage 8 Etiketten und Einleger
+### Anlage 8 (zu §§ 46, 47 und 48 Abs. 3 Nr. 3) Etiketten und Einleger
 
 Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
 

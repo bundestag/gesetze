@@ -2084,9 +2084,8 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 (2) Es treten außer Kraft
 die §§ 2, 13a und 18a mit Wirkung vom 18. September 1965.
 
-(zu § 10 der 1. DV-BEG)
 
-### Anlage 1 Besoldungsübersicht
+### Anlage 1 (zu § 10 der 1. DV-BEG) Besoldungsübersicht
 
 (Fundstelle: BGBl. I 1983, 1315 -1317;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4424,9 +4423,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 11 der 1.DV-BEG)
 
-### Anlage 2 Besoldungsübersicht
+### Anlage 2 (zu § 11 der 1.DV-BEG) Besoldungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1966, 299
 

@@ -1063,9 +1063,8 @@ Wer entgegen dieser Vorschrift in Kenntnis der Sachlage zu Ehren
 zahlt, verliert den Rückgriff gegen diejenigen, die sonst frei
 geworden wären.
 
-Ausfertigung mehrerer Stücke eines Wechsels,
 
-### Neunter Abschnitt - Wechselabschriften
+### Neunter Abschnitt - Ausfertigung mehrerer Stücke eines Wechsels, Wechselabschriften
 
 
 

@@ -274,9 +274,8 @@ Gebühren erst mit Beendigung der Amtshandlung fällig.
 
 Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
-(zu § 2 Abs. 1)
 
-## Anlage Kostenverzeichnis
+## Anlage (zu § 2 Abs. 1) Kostenverzeichnis
 
 (Fundstelle: BGBl. I 2006, 1589 - 1591; bzgl. der einzelnen Änderung
 vgl. Fußnote)

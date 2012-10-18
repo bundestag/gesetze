@@ -318,9 +318,8 @@ ungenügend bewertet, ist die Prüfung nicht bestanden.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bodenleger/zur Bodenlegerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bodenleger/zur Bodenlegerin
 
 (Fundstelle: BGBl. I 2002, 1864 - 1868)
 

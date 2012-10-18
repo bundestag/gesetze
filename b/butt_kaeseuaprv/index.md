@@ -284,9 +284,8 @@ bleiben unberührt.
 ## § 10 (Inkrafttreten, Außerkrafttreten)
 
 
-(zu § 4 Absatz 1 Satz 2)
 
-## Anlage I Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
+## Anlage I (zu § 4 Absatz 1 Satz 2) Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
 
 (Fundstelle: BGBl. I 2011, 1024)
 
@@ -317,9 +316,8 @@ bleiben unberührt.
 
 
 
-(zu § 6 Absatz 1 Satz 1)
 
-## Anlage II Liste für repräsentative Preisermittlung der ZMP
+## Anlage II (zu § 6 Absatz 1 Satz 1) Liste für repräsentative Preisermittlung der ZMP
 
 (Fundstelle: BGBl. I 2011, 1024)
 

@@ -363,9 +363,8 @@ Zahlungen beauftragen.
 Zahlung der Lotsabgaben aus Gründen des öffentlichen Interesses ganz
 oder teilweise befreien.
 
-(zu § 1 Absatz 1)
 
-## Anlage 1 Verzeichnis und Tabelle der Lotsabgaben
+## Anlage 1 (zu § 1 Absatz 1) Verzeichnis und Tabelle der Lotsabgaben
 
 (Fundstelle: BGBl. I 2009, 100 - 110;
 bezgl. einzelner Änderungen vgl. Fußnote)

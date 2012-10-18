@@ -128,10 +128,8 @@ Die Länder können mit Wirkung ab dem 1. Januar 2007 die Vorschriften
 der §§ 6a, 6c, 6e und 6f sowie die Vorschriften, zu deren Erlass § 6e
 ermächtigt, durch Landesrecht ersetzen.
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1098)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

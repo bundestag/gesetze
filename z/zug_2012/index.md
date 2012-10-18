@@ -1355,9 +1355,8 @@ dem 1. Januar 2008
 
 
 
-(zu § 9 Abs. 3 und § 12 Abs. 1)
 
-### Anhang 2 Vergleichbarkeit von Anlagen
+### Anhang 2 (zu § 9 Abs. 3 und § 12 Abs. 1) Vergleichbarkeit von Anlagen
 
 (Fundstelle: BGBl. I 2007, 1798;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1623,9 +1622,8 @@ II) Sofern die Anlage als gemeinsame Anlage aus mehreren, ansonsten
 
 
 
-(zu § 3 Abs. 2 Nr. 8 in Verbindung mit § 8 und § 9)
 
-### Anhang 4 Vollbenutzungsstunden
+### Anhang 4 (zu § 3 Abs. 2 Nr. 8 in Verbindung mit § 8 und § 9) Vollbenutzungsstunden
 
 (Fundstelle: BGBl. I 2007, 1800 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1830,9 +1828,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 4 Abs. 3)
 
-### Anhang 5 Anteilige Kürzung der Zuteilungsmenge entsprechend dem Effizienzstandard der Anlage
+### Anhang 5 (zu § 4 Abs. 3) Anteilige Kürzung der Zuteilungsmenge entsprechend dem Effizienzstandard der Anlage
 
 ( Fundstelle: BGBl. I 2007, 1802 - 1803 )
 

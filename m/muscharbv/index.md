@@ -170,9 +170,8 @@ gefährdet, ist nach § 21 Abs. 3, 4 des Mutterschutzgesetzes strafbar.
 Handlung das Leben oder die Gesundheit einer Frau gefährdet, ist nach
 § 27 Abs. 2 bis 4 des Chemikaliengesetzes strafbar.
 
-(zu § 1 Abs. 1)
 
-## Anlage 1 Nicht erschöpfende Liste der chemischen Gefahrstoffe und biologischen Arbeitsstoffe, der physikalischen Schadfaktoren sowie der Verfahren und Arbeitsbedingungen nach § 1 Abs. 1
+## Anlage 1 (zu § 1 Abs. 1) Nicht erschöpfende Liste der chemischen Gefahrstoffe und biologischen Arbeitsstoffe, der physikalischen Schadfaktoren sowie der Verfahren und Arbeitsbedingungen nach § 1 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1997, 784;
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -288,9 +287,8 @@ C.  Arbeitsbedingungen
 
 
 
-(zu § 4 Abs. 1)
 
-## Anlage 2 Nicht erschöpfende Liste der chemischen Gefahrstoffe und biologischen Arbeitsstoffe, der physikalischen Schadfaktoren und der Arbeitsbedingungen nach § 4 Abs. 1
+## Anlage 2 (zu § 4 Abs. 1) Nicht erschöpfende Liste der chemischen Gefahrstoffe und biologischen Arbeitsstoffe, der physikalischen Schadfaktoren und der Arbeitsbedingungen nach § 4 Abs. 1
 
 Fundstelle des Originaltexte BGBl. I 1997, 785;
 bzgl. der einzelnen Änderungen vgl. Fußnote

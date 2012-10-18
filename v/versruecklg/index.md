@@ -131,7 +131,7 @@ Mittel der bundesunmittelbaren Sozialversicherungsträger erfolgt auf
 der Grundlage von Beschlüssen der Selbstverwaltungsorgane.
 
 
-### § 7a Entnahme von Mitteln durch die Bundesanstalt für  Finanzdienstleistungsaufsicht
+### § 7a Entnahme von Mitteln durch die Bundesanstalt für Finanzdienstleistungsaufsicht
 
 Die von der Bundesanstalt für Finanzdienstleistungsaufsicht in das
 Sondervermögen eingezahlten Mittel werden in voller Höhe
@@ -220,7 +220,7 @@ Das Sondervermögen gilt nach Auszahlung seines Vermögens (§ 7) als
 aufgelöst.
 
 
-## Abschnitt 2 - Sondervermögen  "Versorgungsfonds des Bundes"
+## Abschnitt 2 - Sondervermögen "Versorgungsfonds des Bundes"
 
 
 

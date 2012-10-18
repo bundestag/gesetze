@@ -91,9 +91,8 @@ sind.
 (3) Nach der Aufnahme wird der Gefangene alsbald ärztlich untersucht
 und dem Leiter der Anstalt oder der Aufnahmeabteilung vorgestellt.
 
-Behandlungsuntersuchung.
 
-#### § 6 Beteiligung des Gefangenen
+#### § 6 Behandlungsuntersuchung. Beteiligung des Gefangenen
 
 (1) Nach dem Aufnahmeverfahren wird damit begonnen, die Persönlichkeit
 und die Lebensverhältnisse des Gefangenen zu erforschen. Hiervon kann
@@ -1951,9 +1950,8 @@ angeordnet werden, wenn die Verfehlung mit den zu beschränkenden oder
 zu entziehenden Befugnissen im Zusammenhang steht. Dies gilt nicht bei
 einer Verbindung mit Arrest.
 
-Vollzug der Disziplinarmaßnahmen.
 
-#### § 104 Aussetzung zur Bewährung
+#### § 104 Vollzug der Disziplinarmaßnahmen. Aussetzung zur Bewährung
 
 (1) Disziplinarmaßnahmen werden in der Regel sofort vollstreckt.
 

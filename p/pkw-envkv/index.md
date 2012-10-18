@@ -656,8 +656,8 @@ folgenden Kalendermonats in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3 Abs. 1 Nr. 1)
-Hinweis auf Kraftstoffverbrauch und CO
+(zu § 3 Abs. 1 Nr. 1)                  Hinweis auf Kraftstoffverbrauch
+und CO
 
 ## Anlage 1 -Emissionen und Stromverbrauch
 
@@ -976,8 +976,8 @@ Effizienzklasse A +++**
     Bundesanzeiger die Bezugsquelle bekannt geben, über die das Formblatt
     unentgeltlich elektronisch bezogen werden kann.
 [^F775581_02_BJNR103700004BJNE001201140]: 
-(zu § 3 Abs. 1 Nr. 2)
-Aushang am Verkaufsort über Kraftstoffverbrauch, CO
+(zu § 3 Abs. 1 Nr. 2)                  Aushang am Verkaufsort über
+Kraftstoffverbrauch, CO
 
 ## Anlage 2 -Emissionen und den Stromverbrauch
 
@@ -1120,8 +1120,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 4 Abs. 2 Satz 1)
-Leitfaden über Kraftstoffverbrauch, CO
+(zu § 4 Abs. 2 Satz 1)                  Leitfaden über
+Kraftstoffverbrauch, CO
 
 ## Anlage 3 -Emissionen und Stromverbrauch
 
@@ -1234,8 +1234,7 @@ folgende Angaben:
 
 Der Leitfaden soll das Format DIN A4 nicht überschreiten.
 
-(zu § 5)
-Angaben über Kraftstoffverbrauch und CO
+(zu § 5)                  Angaben über Kraftstoffverbrauch und CO
 
 ## Anlage 4 -Emissionen in der Werbung
 

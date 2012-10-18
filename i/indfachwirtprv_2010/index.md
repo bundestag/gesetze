@@ -617,9 +617,8 @@ Industriefachwirt/Geprüfte Industriefachwirtin vom 8. März 1988 (BGBl.
 I S. 222), die zuletzt durch Artikel 30 der Verordnung vom 25. August
 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
 
-(zu § 7 Absatz 6)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2010, 838)
 
@@ -687,9 +686,8 @@ Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833)
 
 
 
-(zu § 7 Absatz 6)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2010, 839 - 840)
 

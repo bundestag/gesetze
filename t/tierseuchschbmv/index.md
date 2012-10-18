@@ -2537,9 +2537,8 @@ bestimmt ist. Satz 1 gilt nicht für Bekanntmachungen nach § 16 Satz 2.
 
 (Inkrafttreten)
 
-(zu § 4)
 
-### Anlage 1 \*Fe Waren, deren gewerbsmäßiges innergemeinschaftliches Verbringen oder deren gewerbsmäßige Einfuhr vor Aufnahme der Tätigkeit anzuzeigen sind \*/
+### Anlage 1 (zu § 4) *Fe Waren, deren gewerbsmäßiges innergemeinschaftliches Verbringen oder deren gewerbsmäßige Einfuhr vor Aufnahme der Tätigkeit anzuzeigen sind */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1015;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2562,9 +2561,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 6 Abs. 1)
 
-### Anlage 2 \*Fe Anforderungen an Transportmittel und -behältnisse \*/
+### Anlage 2 (zu § 6 Abs. 1) *Fe Anforderungen an Transportmittel und -behältnisse */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1016
 
@@ -2714,9 +2712,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1016
 
 
 
-(zu § 8 Abs. 1 und 4)
 
-### Anlage 3 \*Fe Innergemeinschaftliches Verbringen von Tieren und Waren und deren Einfuhr aus EWR-Staaten nach unionsrechtlich festgelegten Anforderungen \*/
+### Anlage 3 (zu § 8 Abs. 1 und 4) *Fe Innergemeinschaftliches Verbringen von Tieren und Waren und deren Einfuhr aus EWR-Staaten nach unionsrechtlich festgelegten Anforderungen */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1017 - 1025;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3403,9 +3400,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1)
 
-### Anlage 4 \*Fe Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf \*/
+### Anlage 4 (zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1) *Fe Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1026;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -3480,9 +3476,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 9a)
 
-### Anlage 5 \*Fe Tiere, deren innergemeinschaftliches Verbringen unter bestimmten Voraussetzungen verboten ist \*/
+### Anlage 5 (zu § 9a) *Fe Tiere, deren innergemeinschaftliches Verbringen unter bestimmten Voraussetzungen verboten ist */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1027)
 
@@ -3548,9 +3543,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 13 Abs. 3)
 
-### Anlage 6 \*Fe Voraussetzungen für die Zulassung nichtöffentlicher Schlachtstätten \*/
+### Anlage 6 (zu § 13 Abs. 3) *Fe Voraussetzungen für die Zulassung nichtöffentlicher Schlachtstätten */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1028
 
@@ -3618,9 +3612,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1028
 
 
 
-(zu § 15)
 
-### Anlage 7 \*Fe Zulassungsbedürftige Betriebe \*/
+### Anlage 7 (zu § 15) *Fe Zulassungsbedürftige Betriebe */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
@@ -3931,9 +3924,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
 
 
-(zu § 18)
 
-### Anlage 8 Kennzeichnungsmethoden
+### Anlage 8 (zu § 18) Kennzeichnungsmethoden
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1032 - 1033;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -4125,10 +4117,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 22 Abs. 1, 3 und 4, §§ 23a, 24a Abs. 1, §§ 26 und § 27 Abs. 1
-Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1)
 
-### Anlage 9 \*Fe Einfuhr von Tieren und Waren nach unionsrechtlich festgelegten Anforderungen \*/
+### Anlage 9 (zu § 22 Abs. 1, 3 und 4, §§ 23a, 24a Abs. 1, §§ 26 und § 27 Abs. 1 Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1) *Fe Einfuhr von Tieren und Waren nach unionsrechtlich festgelegten Anforderungen */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1034 - 1038;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4411,9 +4401,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4)
 
-### Anlage 9a \*Fe Einfuhr von Gegenständen nach unionsrechtlich festgelegten Anforderungen \*/
+### Anlage 9a (zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4) *Fe Einfuhr von Gegenständen nach unionsrechtlich festgelegten Anforderungen */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1039
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4437,9 +4426,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 25 Abs. 1 und 3)
 
-### Anlage 9b \*Fe Verbot der Einfuhr von Tieren auf Grund des Unionsrecht \*/
+### Anlage 9b (zu § 25 Abs. 1 und 3) *Fe Verbot der Einfuhr von Tieren auf Grund des Unionsrecht */
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 585, 586;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4547,9 +4535,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 25 Abs. 2 und 3)
 
-### Anlage 10 \*Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht \*/
+### Anlage 10 (zu § 25 Abs. 2 und 3) *Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1041;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4654,9 +4641,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 29 Abs. 1)
 
-### Anlage 10a \*Fe Durchführung der Dokumentenprüfung bei Tieren \*/
+### Anlage 10a (zu § 29 Abs. 1) *Fe Durchführung der Dokumentenprüfung bei Tieren */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1042;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -4720,9 +4706,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1)
 
-### Anlage 11 \*Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Tieren \*/
+### Anlage 11 (zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1) *Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Tieren */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
 
@@ -4906,9 +4891,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
 
 
 
-(zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2)
 
-### Anlage 12 \*Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Waren \*/
+### Anlage 12 (zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2) *Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Waren */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1045
 
@@ -4959,9 +4943,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1045
 
 
 
-(zu § 37 Abs. 1 Satz 2)
 
-### Anlage 13 \*Fe Waren, deren Durchfuhr bei Erfüllung bestimmter Voraussetzungen ohne Genehmigung zulässig ist \*/
+### Anlage 13 (zu § 37 Abs. 1 Satz 2) *Fe Waren, deren Durchfuhr bei Erfüllung bestimmter Voraussetzungen ohne Genehmigung zulässig ist */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1046;
 bzgl. der einzelnen Änderungen vgl. Fußnote

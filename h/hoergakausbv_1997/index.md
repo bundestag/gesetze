@@ -406,9 +406,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Ausbildung zum Hörgeräteakustiker/zur Hörgeräteakustikerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Ausbildung zum Hörgeräteakustiker/zur Hörgeräteakustikerin
 
 (Fundstelle: BGBl. I 1997, 1022 - 1031)
 

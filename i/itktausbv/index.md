@@ -1760,12 +1760,8 @@ Vorschriften vereinbaren.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
-Telekommunikationssystem-Elektroniker/zur Informations- und
-Telekommunikationssystem-Elektronikerin
 
-### Anlage 1 Teil A - Sachliche Gliederung -
+### Anlage 1 Teil A (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Elektroniker/zur Informations- und Telekommunikationssystem-Elektronikerin - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1752 - 1758)
 
@@ -2917,12 +2913,8 @@ Telekommunikationssystem-Elektronikerin
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
-Telekommunikationssystem-Elektroniker/zur Informations- und
-Telekommunikationssystem-Elektronikerin
 
-### Anlage 1 Teil B - Zeitliche Gliederung -
+### Anlage 1 Teil B (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Elektroniker/zur Informations- und Telekommunikationssystem-Elektronikerin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1759 - 1760)
 
@@ -3231,11 +3223,8 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(zu § 11)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Fachinformatiker/zur Fachinformatikerin
 
-### Anlage 2 Teil A - Sachliche Gliederung -
+### Anlage 2 Teil A (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1761 - 1770)
 
@@ -4889,11 +4878,8 @@ Fachinformatiker/zur Fachinformatikerin
 
 
 
-(zu § 11)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Fachinformatiker/zur Fachinformatikerin
 
-### Anlage 2 Teil B - Zeitliche Gliederung -
+### Anlage 2 Teil B (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1771 - 1774)
 
@@ -5601,12 +5587,8 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(zu § 17)
-Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
-Telekommunikationssystem-Kaufmann/zur Informations- und
-Telekommunikationssystem-Kauffrau
 
-### Anlage 3 Teil A - Sachliche Gliederung -
+### Anlage 3 Teil A (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1775 - 1782)
 
@@ -6771,12 +6753,8 @@ Telekommunikationssystem-Kauffrau
 
 
 
-(zu § 17)
-Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
-Telekommunikationssystem-Kaufmann/zur Informations- und
-Telekommunikationssystem-Kauffrau
 
-### Anlage 3 Teil B - Zeitliche Gliederung -
+### Anlage 3 Teil B (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1783 - 1784)
 
@@ -7100,11 +7078,8 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(zu § 23)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Informatikkaufmann/zur Informatikkauffrau
 
-### Anlage 4 Teil A - Sachliche Gliederung -
+### Anlage 4 Teil A (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Informatikkaufmann/zur Informatikkauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1785 - 1796)
 
@@ -8936,11 +8911,8 @@ Informatikkaufmann/zur Informatikkauffrau
 
 
 
-(zu § 23)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Informatikkaufmann/zur Informatikkauffrau
 
-### Anlage 4 Teil B - Zeitliche Gliederung -
+### Anlage 4 Teil B (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Informatikkaufmann/zur Informatikkauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1797 - 1799)
 

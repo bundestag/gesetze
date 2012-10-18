@@ -562,10 +562,8 @@ Fassung, wird der Jahresdurchschnitt ermittelt.
 
 -
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet K Abschnitt III
-(BGBl. II 1990, 889, 1069)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet K Abschnitt III (BGBl. II 1990, 889, 1069) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

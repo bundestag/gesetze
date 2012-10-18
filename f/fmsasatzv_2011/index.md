@@ -42,9 +42,8 @@ Gleichzeitig tritt die Verordnung über die Satzung der Bundesanstalt
 für Finanzmarktstabilisierung vom 5. Juli 2010 (BGBl. I S. 874) außer
 Kraft.
 
-(zu § 1)
 
-## Anlage Satzung der Bundesanstalt für Finanzmarktstabilisierung
+## Anlage (zu § 1) Satzung der Bundesanstalt für Finanzmarktstabilisierung
 
 (Fundstelle: BGBl. I 2011, 272 - 275)
 

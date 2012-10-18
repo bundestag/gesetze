@@ -298,9 +298,8 @@ Absatz 1 des Arzneimittelgesetzes genannten Tierarten bestimmt und vor
 dem 1. Januar 2010 in Verkehr gebracht worden ist, noch bis zum 1.
 Januar 2012 ohne Verschreibung abgegeben werden.
 
-(zu § 1 Nr. 1 und § 5)
 
-## Anlage 1 Stoffe und Zubereitungen nach § 1 Nr. 1
+## Anlage 1 (zu § 1 Nr. 1 und § 5) Stoffe und Zubereitungen nach § 1 Nr. 1
 
 Die Anlage enthält unter grundsätzlicher Verwendung der INN-
 Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und
@@ -3142,9 +3141,8 @@ in die Gebärmutter und im Rahmen der Veterinärmedizin zusätzlich in
 Scheide und Euter der Tiere**
 **Zuclopenthixol**              und seine Ester
 
-(zu § 6)
 
-## Anlage 2 Stoffe nach § 6
+## Anlage 2 (zu § 6) Stoffe nach § 6
 
 Die Anlage enthält unter grundsätzlicher Verwendung der INN-
 Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe.

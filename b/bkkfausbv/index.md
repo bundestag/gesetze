@@ -385,11 +385,8 @@ Prüfung vorgenommen worden ist.
 
 Diese Verordnung tritt am 1. August 1991 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Bürokommunikation/zur Kauffrau für Bürokommunikation
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1991, 439 - 444)
 
@@ -1204,11 +1201,8 @@ Bürokommunikation/zur Kauffrau für Bürokommunikation
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Bürokommunikation/zur Kauffrau für Bürokommunikation
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1991, 445 - 446)
 A.

@@ -3498,7 +3498,7 @@ folgende Regelaltersgrenzen zugrunde zu legen:
 
 
 
-##### Erster Titel - Renten wegen Alters und Renten wegen  Todes
+##### Erster Titel - Renten wegen Alters und Renten wegen Todes
 
 
 

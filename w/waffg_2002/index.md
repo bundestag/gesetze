@@ -3306,9 +3306,8 @@ Bundesbehörden und die Deutsche Bundesbank erlassen die
 Verwaltungsvorschriften für ihren Geschäftsbereich im Einvernehmen mit
 dem Bundesministerium des Innern.
 
-(zu § 1 Abs. 4)
 
-### Anlage 1 Begriffsbestimmungen
+### Anlage 1 (zu § 1 Abs. 4) Begriffsbestimmungen
 
 ( Fundstelle: BGBl. I 2002, 3994 - 3998;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -3868,9 +3867,8 @@ einer Gesamtlänge von 28 cm.
 4\.1
 lange Einzellader-Schusswaffen mit glattem Lauf/glatten Läufen.
 
-(zu § 2 Abs. 2 bis 4)
 
-### Anlage 2 Waffenliste
+### Anlage 2 (zu § 2 Abs. 2 bis 4) Waffenliste
 
 (Fundstelle: BGBl. I 2002, 3999 - 4002;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -23,7 +23,7 @@ Zuletzt geändert durch
 
 
 
-### Art 1 bis 6 - 
+### Art 1 bis 6 -
 
 
 
@@ -40,7 +40,7 @@ Betriebe auf den 1. Januar 1977 und bei der Festsetzung von Steuern,
 bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
 
 
-### Art 8 bis 38 - 
+### Art 8 bis 38 -
 
 
 
@@ -48,7 +48,7 @@ bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
 
 
 
-### Art 39 bis 96 - 
+### Art 39 bis 96 -
 
 
 
@@ -1230,7 +1230,7 @@ Betriebe und Einrichtungen zu verrechnen.
 (weggefallen)
 
 
-### Art 98 - 
+### Art 98 -
 
 Soweit in Rechtsvorschriften auf Vorschriften verwiesen wird, die
 durch dieses Gesetz aufgehoben werden, treten an deren Stelle die
@@ -1277,7 +1277,7 @@ erlassen werden, bedürfen, außer wenn sie die Biersteuer betreffen,
 nicht der Zustimmung des Bundesrates.
 
 
-### Art 100 - 
+### Art 100 -
 
 -
 

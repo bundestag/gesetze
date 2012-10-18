@@ -68,11 +68,8 @@ einem Kartenteil, festgelegt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1)
-Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in
-der Ostsee
 
-## Anlage (Textteil und Kartenteil)
+## Anlage (zu § 1) Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Ostsee (Textteil und Kartenteil)
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 78, S. 3861 vom 18.
 Dezember 2009, S. 1 - 31, gesonderte Karte)

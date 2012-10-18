@@ -192,9 +192,8 @@ Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354
 vom 31.12.2008, S. 16) einen Lebensmittelzusatzstoff in den Verkehr
 bringt.
 
-(zu § 2)
 
-## Anlage 1 Den Zusatzstoffen gleichgestellte Stoffe
+## Anlage 1 (zu § 2) Den Zusatzstoffen gleichgestellte Stoffe
 
 (Fundstelle: BGBl. I 1998, 271;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -368,9 +367,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 3 Abs. 1)
 
-## Anlage 2 Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
+## Anlage 2 (zu § 3 Abs. 1) Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 271 - 289;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3614,9 +3612,8 @@ Liste A
 
 -
 
-(zu § 4)
 
-## Anlage 4 Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
+## Anlage 4 (zu § 4) Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1568 - 1570;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

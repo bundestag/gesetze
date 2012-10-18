@@ -1151,9 +1151,8 @@ Juni 2010 in der am 26. März 2010 geltenden Fassung anzuwenden.
 
 (Inkrafttreten)
 
-(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 1 Anforderungen an den Feldbestand
+### Anlage 1 (zu § 8 Abs. 1 Satz 1) Anforderungen an den Feldbestand
 
 (Inhalt: nicht darstellbare Tabelle zu Nr. 1 bis 3.1.3;
 Fundstelle: BGBl. I 2004, 2927 - 2928)
@@ -1186,9 +1185,8 @@ Fundstelle: BGBl. I 2004, 2927 - 2928)
 
 
 
-(zu § 8 Abs. 1 Satz 2, § 15 Abs. 2, § 29 Abs. 2 Satz 2)
 
-### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
+### Anlage 2 (zu § 8 Abs. 1 Satz 2, § 15 Abs. 2, § 29 Abs. 2 Satz 2) Anforderungen an die Beschaffenheit des Pflanzgutes
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2929
 
@@ -1345,9 +1343,8 @@ Fundstelle des Originaltextes: BGBl. I 2004, 2929
 
 
 
-(zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3)
 
-### Anlage 3 Größe der Partien und Proben
+### Anlage 3 (zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3) Größe der Partien und Proben
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
 
@@ -1430,9 +1427,8 @@ Fundstelle des Originaltextes: BGBl. I 2004, 2930
 
 
 
-(zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a)
 
-### Anlage 4 Angaben auf dem Etikett
+### Anlage 4 (zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a) Angaben auf dem Etikett
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2930;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1515,9 +1511,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 33)
 
-### Anlage 5 Größensortierung
+### Anlage 5 (zu § 33) Größensortierung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
 

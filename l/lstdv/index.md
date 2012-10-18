@@ -240,7 +240,7 @@ Dienstverhältnis gesondert aufzuzeichnen.
 (aufgehoben)
 
 
-## § 5 Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der  betrieblichen Altersversorgung
+## § 5 Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
 
 (1) Der Arbeitgeber hat bei Durchführung einer kapitalgedeckten
 betrieblichen Altersversorgung über einen Pensionsfonds, eine

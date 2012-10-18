@@ -484,9 +484,8 @@ Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Büchsenmacher-Ausbildungsverordnung vom 6. April 1989 (BGBl. I S.
 682) außer Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
 
 (Fundstelle: BGBl. I 2010, 680 - 686)
 

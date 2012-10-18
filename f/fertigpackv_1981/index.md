@@ -1447,9 +1447,8 @@ gelten als Herstellerzeichen im Sinne dieser Verordnung.
 
 -
 
-(zu § 1)
 
-### Anlage 1 Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
+### Anlage 1 (zu § 1) Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
 
 ( Fundstelle: BGBl. I 2008, 1081)
 
@@ -1596,9 +1595,8 @@ gelten als Herstellerzeichen im Sinne dieser Verordnung.
 
 (weggefallen)
 
-(zu § 34 Abs. 1)
 
-### Anlage 4a Verfahren zur Prüfung der Füllmengen nach Gewicht oder Volumen gekennzeichneter Fertigpackungen durch die zuständigen Behörden
+### Anlage 4a (zu § 34 Abs. 1) Verfahren zur Prüfung der Füllmengen nach Gewicht oder Volumen gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 484 - 487;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2235,9 +2233,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 34 Abs. 1)
 
-### Anlage 4b Verfahren zur Prüfung der Füllmengen nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen durch die zuständigen Behörden
+### Anlage 4b (zu § 34 Abs. 1) Verfahren zur Prüfung der Füllmengen nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 488 - 489)
 
@@ -2483,9 +2480,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 34 Abs. 2)
 
-### Anlage 5 Verfahren zur Prüfung von Maßbehältnissen durch die zuständigen Behörden
+### Anlage 5 (zu § 34 Abs. 2) Verfahren zur Prüfung von Maßbehältnissen durch die zuständigen Behörden
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 490)
 
@@ -2776,10 +2772,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III
-(BGBl. II 1990, 889, 1002)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

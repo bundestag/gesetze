@@ -230,9 +230,8 @@ unbillig wäre.
 
 (Inkrafttreten, Außerkrafttreten)
 
-(zu § 2 Abs. 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2005, 747 - 750;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

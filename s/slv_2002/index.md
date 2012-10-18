@@ -1967,9 +1967,8 @@ erhalten.
 
 -
 
-(zu § 3)
 
-### Anlage Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffiziere und der Offiziere
+### Anlage (zu § 3) Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffiziere und der Offiziere
 
 (Fundstelle: BGBl. I 2011, 1829)
 

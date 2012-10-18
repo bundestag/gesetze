@@ -674,7 +674,7 @@ die benannten Stellen nach Absatz 1 Nr. 1 sowie die Entscheidungen
 nach Absatz 3 mit.
 
 
-## Teil 1b - Besondere Vorschriften für Messgeräte der Richtlinie  2004/22/EG des Europäischen Parlaments und des Rates vom 31. März 2004 über  Messgeräte
+## Teil 1b - Besondere Vorschriften für Messgeräte der Richtlinie 2004/22/EG des Europäischen Parlaments und des Rates vom 31. März 2004 über Messgeräte
 
 
 
@@ -1960,7 +1960,7 @@ vorgesehen sein, welche die Zusammengehörigkeit der Teile erkennen
 lassen.
 
 
-## Teil 8 - 
+## Teil 8 -
 
 
 
@@ -2920,9 +2920,8 @@ des auf die Verkündung folgenden dritten Kalendermonats in Kraft.
 (2) § 29 Abs. 4, Anlage 1 Abschnitt 1 Teil 1 und Anlage 15 Abschnitt 1
 Teil 1 treten am Tage nach der Verkündung in Kraft.
 
-(zu § 8)
 
-### Anhang A Ausnahmen von der Eichpflicht
+### Anhang A (zu § 8) Ausnahmen von der Eichpflicht
 
 (Fundstelle: BGBl. I 1988, 1675 - 1677;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3208,9 +3207,8 @@ Von der Eichpflicht ausgenommen sind
 
 
 
-(zu den §§ 12 und 14)
 
-### Anhang B Besondere Gültigkeitsdauer der Eichung
+### Anhang B (zu den §§ 12 und 14) Besondere Gültigkeitsdauer der Eichung
 
 (Fundstelle: BGBl. I 1988, 1678 - 1680;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4000,9 +3998,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 -
 
-(zu den §§ 5, 7d, 13, 24, 25, 34, 35, 59, 68 und 72)
 
-### Anhang D Verzeichnis der Stempel und Zeichen
+### Anhang D (zu den §§ 5, 7d, 13, 24, 25, 34, 35, 59, 68 und 72) Verzeichnis der Stempel und Zeichen
 
 (Fundstelle: BGBl. I 1988, 1682 - 1684;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4204,9 +4201,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 7k)
 
-### Anlage 1 Geräte zur Messung von Längen und ihrer Kombinationen
+### Anlage 1 (zu § 7k) Geräte zur Messung von Längen und ihrer Kombinationen
 
 (Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 3 -
 5;
@@ -4945,10 +4941,8 @@ Fläche
 
 
 
-(zu § 7k)
-Ausschankmaße
 
-### Anlage 2 EG-Anforderungen
+### Anlage 2 (zu § 7k) Ausschankmaße EG-Anforderungen
 
 Fundstelle des Originaltextes: BGBl. I 2007, 82
 
@@ -6029,11 +6023,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 7k)
-Messanlagen für die kontinuierliche und dynamische Messung von Mengen
-von Flüssigkeiten außer Wasser
 
-### Anlage 5 EG-Anforderungen
+### Anlage 5 (zu § 7k) Messanlagen für die kontinuierliche und dynamische Messung von Mengen von Flüssigkeiten außer Wasser EG-Anforderungen
 
 Fundstelle des Originaltextes: BGBl. I 2007, 82 - 84
 
@@ -6228,9 +6219,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 82 - 84
 
 
 
-(zu § 7k)
 
-### Anlage 6 Wasserzähler
+### Anlage 6 (zu § 7k) Wasserzähler
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 84 - 86)
 
@@ -9419,9 +9409,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 7k)
 
-### Anlage 10 Selbsttätige Waagen
+### Anlage 10 (zu § 7k) Selbsttätige Waagen
 
 (Fundstelle: BGBl. I 1988 Nr. 43, Anlageband S. 42 - 48,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14115,9 +14104,8 @@ Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 81 -
 
 
 
-(zu § 7k)
 
-### Anlage 18 Meßgeräte im Straßenverkehr
+### Anlage 18 (zu § 7k) Meßgeräte im Straßenverkehr
 
 (Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 83
 - 90,
@@ -16080,9 +16068,8 @@ Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 91
 
 
 
-(zu § 7k)
 
-### Anlage 20 Meßgeräte für Elektrizität
+### Anlage 20 (zu § 7k) Meßgeräte für Elektrizität
 
 (Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 92
 - 96,
@@ -17845,9 +17832,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 7k)
 
-### Anlage 22 Messgeräte für thermische Energie
+### Anlage 22 (zu § 7k) Messgeräte für thermische Energie
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 100 - 102)
 
@@ -19145,10 +19131,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III
-(BGBl. II 1990, 889, 1002)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

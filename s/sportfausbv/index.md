@@ -412,11 +412,8 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 3 Abs. 1 Satz 1)
-Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur
-Sportfachfrau
 
-## Anlage 1 - Sachliche Gliederung -
+## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur Sportfachfrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2007, 1245 - 1249)
 
@@ -1057,11 +1054,8 @@ Sportfachfrau
 
 
 
-(zu § 3 Abs. 1 Satz 2)
-Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur
-Sportfachfrau
 
-## Anlage 2 - Zeitliche Gliederung -
+## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur Sportfachfrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2007, 1250 - 1251)
 Während der gesamten Ausbildungszeit sind schwerpunktmäßig die

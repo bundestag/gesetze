@@ -781,9 +781,8 @@ Wanderfalke
 
 
 
-(zu § 4 Abs. 1)
 
-## Anlage 6 Aufnahme- und Auslieferungsbuch
+## Anlage 6 (zu § 4 Abs. 1) Aufnahme- und Auslieferungsbuch
 
 
 *    *   Lfd. Nr.

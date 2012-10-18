@@ -2112,9 +2112,8 @@ worden sind.
 Die Regelungen des Therapieunterbringungsgesetzes zur
 Rechtsanwaltsvergütung bleiben unberührt.
 
-(zu § 2 Abs. 2)
 
-### Anlage 1 Vergütungsverzeichnis
+### Anlage 1 (zu § 2 Abs. 2) Vergütungsverzeichnis
 
 (Fundstelle: BGBl. I 2004, 803 - 831;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -443,9 +443,8 @@ Diese Verordnung tritt am 1. August 1990 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Diamantschleifer/zur Diamantschleiferin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Diamantschleifer/zur Diamantschleiferin
 
 (Fundstelle: BGBl. I 1989, 2036 - 2041)
 
@@ -1246,9 +1245,8 @@ Der Bundesminister für Wirtschaft
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

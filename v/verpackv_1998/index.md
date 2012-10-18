@@ -979,7 +979,7 @@ erstmals zum 1. Mai 2009 für die im Jahr 2008 ab dem 5. April 2008 in
 Verkehr gebrachten Verpackungen zu hinterlegen ist.
 
 
-### § 17 \*)
+### § 17
 
 (weggefallen)
 
@@ -1225,9 +1225,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 13 Abs. 2)
 
-### Anhang II Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
+### Anhang II (zu § 13 Abs. 2) Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
 
 ( Fundstelle des Originaltextes: BGBl. I 2000, 1344 - 1345;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -1323,9 +1322,8 @@ Geltungsbereich der Verordnung niedergelassen, so geht die
 Verpflichtung zur Bereithaltung dieser Unterlagen auf denjenigen über,
 der das Produkt im Geltungsbereich der Verordnung in Verkehr bringt.
 
-(zu § 13 Abs. 3)
 
-### Anhang III Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
+### Anhang III (zu § 13 Abs. 3) Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 1572 - 1573;
 bzgl. der einzelnen Änderungen vgl. Fußnote )

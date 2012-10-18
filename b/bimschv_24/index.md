@@ -123,9 +123,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 2 und § 3 Abs. 1, 3 und 4)
 
-## Anlage Berechnung der erforderlichen bewerteten Schalldämm-Maße
+## Anlage (zu § 2 Abs. 2 und § 3 Abs. 1, 3 und 4) Berechnung der erforderlichen bewerteten Schalldämm-Maße
 
 (Fundstelle: BGBl. I 1997, 173)
 

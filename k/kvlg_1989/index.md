@@ -2033,10 +2033,8 @@ Buches Sozialgesetzbuch ohne Sitzung in schriftlicher Abstimmung
 erfolgen. Die beschlossene Satzungsänderung ist der zuständigen
 Aufsichtsbehörde bis zum 30. April 2009 zur Genehmigung vorzulegen.
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III
-(BGBl. II 1990, 889, 1055)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III (BGBl. II 1990, 889, 1055) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

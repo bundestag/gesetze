@@ -1179,7 +1179,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-## Anlage 2 Nicht abgeteilte Darreichungsformen zur oralen Anwendung\*) (Mengenangaben in ml oder g)
+## Anlage 2 Nicht abgeteilte Darreichungsformen zur oralen Anwendung*) (Mengenangaben in ml oder g)
 
 (Fundstelle: BGBl. I 1993, 1561;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2499,9 +2499,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Abgeteilte Darreichungsformen zur Injektion oder Infusion\*)
 
-## Anlage 4 (Stückzahl, soweit nicht anders angegeben)
+## Anlage 4 Abgeteilte Darreichungsformen zur Injektion oder Infusion*) (Stückzahl, soweit nicht anders angegeben)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 1563;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -3237,9 +3236,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-Dermatika und Topika zur lokalen oder systemischen Anwendung
 
-## Anlage 5 (Mengenangaben in ml oder g, soweit nicht anders angegeben)
+## Anlage 5 Dermatika und Topika zur lokalen oder systemischen Anwendung (Mengenangaben in ml oder g, soweit nicht anders angegeben)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 1564;
 bzgl. der einzelnen Änderungen vgl. Fußnote

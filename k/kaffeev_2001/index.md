@@ -214,9 +214,8 @@ werden.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 und § 2)
 
-## Anlage Bezeichnungen und Begriffsbestimmungen
+## Anlage (zu § 1 und § 2) Bezeichnungen und Begriffsbestimmungen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3109
 

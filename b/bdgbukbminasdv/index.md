@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren
-  Körperschaften mit Dienstherrnfähigkeit im  Geschäftsbereich des Bundesministeriums
+  Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums
   für Arbeit und Soziales
 jurabk: BDGBuKBMinASDV
 layout: default
@@ -9,7 +9,7 @@ slug: bdgbukbminasdv
 
 ---
 
-# Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im  Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BDGBuKBMinASDV)
+# Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BDGBuKBMinASDV)
 
 Ausfertigungsdatum
 :   2006-07-13

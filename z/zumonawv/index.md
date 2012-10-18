@@ -98,23 +98,20 @@ erforderlich ist.
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
-(Original DIN A3)
 
-## Anlage 1 Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
+## Anlage 1 (Original DIN A3) Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1999, 363 - 364)
 
-(Original DIN A3)
 
-## Anlage 2 Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
+## Anlage 2 (Original DIN A3) Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1999, 365 - 366)
 
-(Original DIN A3)
 
-## Anlage 3 Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
+## Anlage 3 (Original DIN A3) Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1999, 367 - 368)

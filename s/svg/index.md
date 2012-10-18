@@ -2984,7 +2984,7 @@ Anspruch auf Schadenersatz wegen vorsätzlicher unerlaubter Handlung
 besteht.
 
 
-#### 7. - 
+#### 7. -
 
 
 
@@ -2993,7 +2993,7 @@ besteht.
 -
 
 
-#### 8. - 
+#### 8. -
 
 
 
@@ -3142,7 +3142,7 @@ mit folgenden Maßgaben anzuwenden:
 
 
 
-#### 9a. - 
+#### 9a. -
 
 
 
@@ -4764,7 +4764,7 @@ gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, so
 wird die Leistung vom Beginn des Antragsmonats an gewährt.
 
 
-#### 6. - 
+#### 6. -
 
 
 
@@ -6787,10 +6787,8 @@ bisherige Recht.
 und 12 Absatz 7 sowie die §§ 21, 44, 45, 59, 89a und 101 sind
 anzuwenden.
 
-Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1146)
 
-#### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1146) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

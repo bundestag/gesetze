@@ -379,9 +379,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bogenmacher/zur Bogenmacherin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bogenmacher/zur Bogenmacherin
 
 (Fundstelle: BGBl. I 1997, 81 - 84)
 

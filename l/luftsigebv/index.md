@@ -129,9 +129,8 @@ Der Bundesrat hat zugestimmt.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1) Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2007, 945 - 946
 

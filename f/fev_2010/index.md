@@ -4472,9 +4472,8 @@ August 2009 (BGBl. I S. 2631) geändert worden ist, außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 5 Absatz 2)
 
-### Anlage 1 Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas nach § 5 Absatz 2 durch Fahrlehrer
+### Anlage 1 (zu § 5 Absatz 2) Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas nach § 5 Absatz 2 durch Fahrlehrer
 
 (Fundstelle: BGBl. I 2010, 2015)
 
@@ -4590,9 +4589,8 @@ praktische Ausbildung durchlaufen.
 
 
 
-(zu § 5 Absatz 2 und 4)
 
-### Anlage 2 Ausbildungs- und Prüfbescheinigungen für Mofas
+### Anlage 2 (zu § 5 Absatz 2 und 4) Ausbildungs- und Prüfbescheinigungen für Mofas
 
 (Fundstelle: BGBl. I 2010, 2016 - 2017)
 
@@ -4636,11 +4634,10 @@ praktische Ausbildung durchlaufen.
 
 
 
-   (zu § 6 Absatz 7)
 
-### Anlage 3 Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
+### Anlage 3 (zu § 6 Absatz 7) Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
 
-(Fundstelle: BGBl. I 2010, 2018 - 2022;
+   (Fundstelle: BGBl. I 2010, 2018 - 2022;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Bei der Umstellung von Fahrerlaubnissen alten Rechts auf die neuen
@@ -5794,9 +5791,8 @@ d) Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 [^f774694_45_BJNR198000010BJNE008801308]:     § 6 Absatz 2 Satz 1 findet Anwendung.
 [^f774694_46_BJNR198000010BJNE008801308]:     nur für in der Land- oder Forstwirtschaft tätige Personen.
 [^f774694_47_BJNR198000010BJNE008801308]: 
-(zu den §§ 11, 13 und 14)
 
-### Anlage 4 Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
+### Anlage 4 (zu den §§ 11, 13 und 14) Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
 
 (Fundstelle: BGBl. I 2010, 2023 - 2029;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7064,9 +7060,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu den §§ 12, 48 Absatz 4 und 5)
 
-### Anlage 6 Anforderungen an das Sehvermögen
+### Anlage 6 (zu den §§ 12, 48 Absatz 4 und 5) Anforderungen an das Sehvermögen
 
 (Fundstelle: BGBl. I 2010, 2034 - 2044;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8723,9 +8718,8 @@ Die Identität des Untersuchten wurde geprüft.
     Klassen 1, 1a, 1b, 3, 4, 5.
 [^F777412_16_BJNR198000010BJNE009103666]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
 [^F777412_17_BJNR198000010BJNE009103666]: 
-(zu § 16 Absatz 2, § 17 Absatz 2 und 3)
 
-### Anlage 7 Fahrerlaubnisprüfung
+### Anlage 7 (zu § 16 Absatz 2, § 17 Absatz 2 und 3) Fahrerlaubnisprüfung
 
 (Fundstelle: BGBl. I 2010, 2045 - 2056;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10283,9 +10277,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Trennen und ohne Vor- und Nachbereitung (z. B. Bekanntgabe des
     Ergebnisses).
 [^Fn774694_7_03_BJNR198000010BJNE009203308]: 
-(zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3)
 
-### Anlage 8 Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung
+### Anlage 8 (zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3) Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung
 
 (Fundstelle: BGBl. I 2010, 2057 - 2062)
 
@@ -10491,11 +10484,10 @@ Farbe: grün; Material: Neobond — 200 g/m
     *
 
 
-   (zu § 48a)
 
-### Anlage 8a Muster der Prüfungsbescheinigung zum „Begleiteten Fahren ab 17 Jahre“
+### Anlage 8a (zu § 48a) Muster der Prüfungsbescheinigung zum „Begleiteten Fahren ab 17 Jahre“
 
-(Fundstelle: BGBl. I 2010, 2063;
+   (Fundstelle: BGBl. I 2010, 2063;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorbemerkungen:
@@ -10505,9 +10497,8 @@ Verfahrens, insbesondere der Einsatz maschineller Datenverarbeitung,
 dies erfordern.
 
 
-(zu § 25b Absatz 2)
 
-### Anlage 8b Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
+### Anlage 8b (zu § 25b Absatz 2) Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
 
 (Fundstelle: BGBl. I 2010, 2064 - 2083)
 
@@ -10540,9 +10531,8 @@ dies erfordern.
 
 
 
-(zu § 25b Absatz 3)
 
-### Anlage 8c Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968
+### Anlage 8c (zu § 25b Absatz 3) Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968
 
 (Fundstelle: BGBl. I 2010, 2084 - 2089;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -10650,9 +10640,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
-(zu § 25 Absatz 3)
 
-### Anlage 9 Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
+### Anlage 9 (zu § 25 Absatz 3) Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
 
 (Fundstelle: BGBl. I 2010, 2090 - 2093;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11018,9 +11007,8 @@ Die Schlüsselzahlen 171 bis 175 sowie 178 und 179 dürfen nur bei der
 Umstellung von Fahrerlaubnissen, die bis zum 31. Dezember 1998 erteilt
 worden sind, verwendet werden.
 
-(zu den §§ 26 und 27)
 
-### Anlage 10 Dienstfahrerlaubnisse der Bundeswehr
+### Anlage 10 (zu den §§ 26 und 27) Dienstfahrerlaubnisse der Bundeswehr
 
 (Fundstelle: BGBl. I 2010, 2094)
 
@@ -11162,9 +11150,8 @@ Umfang der Berechtigung zum Führen von Dienstfahrzeugen
 
     § 6 Absatz 2 Satz 1 findet Anwendung.
 [^f774694_14_1_BJNR198000010BJNE010100000]: 
-(zu § 31)
 
-### Anlage 11 Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis
+### Anlage 11 (zu § 31) Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis
 
 (Fundstelle: BGBl. I 2010, 2095 - 2097;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12054,9 +12041,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 34)
 
-### Anlage 12 Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
+### Anlage 12 (zu § 34) Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
 
 (Fundstelle: BGBl. I 2010, 2098 - 2099;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12241,9 +12227,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Körperverletzung in Abschnitt A oder B ist die Einordnung des der Tat
     zugrunde liegenden Verkehrsverstoßes maßgebend.
 [^f774694_14_13_BJNR198000010BJNE010301308]: 
-(zu § 40)
 
-### Anlage 13 Punktbewertung nach dem Punktsystem
+### Anlage 13 (zu § 40) Punktbewertung nach dem Punktsystem
 
 (Fundstelle: BGBl. I 2010, 2100 - 2102)
 
@@ -12646,9 +12631,8 @@ bewerten:
 
 
 
-(zu § 66 Absatz 2)
 
-### Anlage 14 Voraussetzungen für die amtliche Anerkennung als Begutachtungsstelle für Fahreignung
+### Anlage 14 (zu § 66 Absatz 2) Voraussetzungen für die amtliche Anerkennung als Begutachtungsstelle für Fahreignung
 
 (Fundstelle: BGBl. I 2010, 2103)
 
@@ -12715,9 +12699,8 @@ klinischen Psychologie, Arbeitspsychologie) und mindestens eine
 einjährige Praxis in der Begutachtung der Eignung von Kraftfahrern in
 einer Begutachtungsstelle für Fahreignung.
 
-(zu § 11 Absatz 5)
 
-### Anlage 15 Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
+### Anlage 15 (zu § 11 Absatz 5) Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
 
 (Fundstelle: BGBl. I 2010, 2104 - 2105)
 

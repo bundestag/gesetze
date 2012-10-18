@@ -3415,9 +3415,8 @@ oder zu verkürzen.
 
 (Inkrafttreten)
 
-(zu § 19a Abs. 1)
 
-### Anhang 1 Grundsätze der Guten Laborpraxis (GLP)
+### Anhang 1 (zu § 19a Abs. 1) Grundsätze der Guten Laborpraxis (GLP)
 
 (Fundstelle des Originaltextes: BGBl. I 2008, 1173 - 1183)
 
@@ -4855,12 +4854,8 @@ Grundsätze der Guten Laborpraxis (GLP)
 
 
 
-(zu § 19b Abs. 1)
-Landessiegel/Coloured Logo
-Gute Laborpraxis/Good Laboratory Practice
-GLP-Bescheinigung/Statement of GLP Compliance
 
-### Anhang 2 (gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
+### Anhang 2 (zu § 19b Abs. 1) Landessiegel/Coloured Logo Gute Laborpraxis/Good Laboratory Practice GLP-Bescheinigung/Statement of GLP Compliance (gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
 
 (Fundstelle: BGBl. I 2008, 1184)
 Eine GLP-Inspektion zur Überwachung      Assessment of conformity with
@@ -4907,9 +4902,8 @@ Name and function of responsible person)
 (Name und Adresse der GLP-Überwachungsbehörde/
 Name and address of the GLP Monitoring Authority)
 
-Auszug aus EinigVtr Anlage I Kapitel XII Sachgebiet E Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1118)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XII Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1118)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

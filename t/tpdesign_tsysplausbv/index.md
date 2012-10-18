@@ -1950,9 +1950,8 @@ Produktdesigner/zur Technischen Produktdesignerin vom 24. Juni 2005
 Zeitpunkt bestehenden Berufsausbildungsverhältnisse werden nach den
 Vorschriften dieser Verordnung zu Ende geführt.
 
-(zu § 4 Absatz 1 Satz 1)
 
-### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+### Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 (Fundstelle: BGBl. I 2011, 1227 - 1232)
 
@@ -2873,9 +2872,8 @@ Fähigkeiten**
 
 
 
-(zu § 4 Absatz 1 Satz 2)
 
-### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+### Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 (Fundstelle: BGBl. I 2011, 1233 - 1243)
 
@@ -4652,9 +4650,8 @@ ausarbeiten
 
 
 
-(zu § 14 Absatz 1 Satz 1)
 
-### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+### Anlage 3 (zu § 14 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1244 - 1250)
 
@@ -5726,9 +5723,8 @@ Fähigkeiten**
 
 
 
-(zu § 14 Absatz 1 Satz 2)
 
-### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+### Anlage 4 (zu § 14 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1251 - 1261)
 

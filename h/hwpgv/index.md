@@ -304,9 +304,8 @@ Gleichzeitig treten außer Kraft:
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet A Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1201)
+### Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1201)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

@@ -1353,9 +1353,8 @@ Fassung weiter anzuwenden. Wildursprungsscheine, die nach Form und
 Inhalt dem Muster der Anlage 8a nicht entsprechen, können bis zum 20.
 November 2011 weiterverwendet werden.
 
-(zu § 3 Abs. 1 Satz 1 Nr. 1 und 2)
 
-### Anlage 1 Anforderungen an die Abgabe kleiner Mengen von Fischereierzeugnissen oder von lebenden Muscheln
+### Anlage 1 (zu § 3 Abs. 1 Satz 1 Nr. 1 und 2) Anforderungen an die Abgabe kleiner Mengen von Fischereierzeugnissen oder von lebenden Muscheln
 
 ( Fundstelle: BGBl. I 2007, 1835 )
 
@@ -1464,9 +1463,8 @@ November 2011 weiterverwendet werden.
 
 
 
-(zu § 3 Abs. 1 Satz 1 Nr. 3)
 
-### Anlage 2 Anforderungen an die Abgabe kleiner Mengen von Eiern
+### Anlage 2 (zu § 3 Abs. 1 Satz 1 Nr. 3) Anforderungen an die Abgabe kleiner Mengen von Eiern
 
 ( Fundstelle: BGBl. I 2007, 1836 )
 Beim Umgang mit Eiern sind folgende Anforderungen einzuhalten:
@@ -1483,9 +1481,8 @@ Beim Umgang mit Eiern sind folgende Anforderungen einzuhalten:
 
 
 
-(zu § 3 Abs. 1 Satz 1 Nr. 4)
 
-### Anlage 3 Anforderungen an die Abgabe kleiner Mengen von Fleisch von Geflügel oder Hasentieren
+### Anlage 3 (zu § 3 Abs. 1 Satz 1 Nr. 4) Anforderungen an die Abgabe kleiner Mengen von Fleisch von Geflügel oder Hasentieren
 
 ( Fundstelle: BGBl. I 2007, 1836 )
 Fleisch von Geflügel oder Hasentieren darf nur in Räumen gewonnen oder
@@ -1519,10 +1516,8 @@ behandelt werden, in denen
 vorhanden sind oder die unmittelbar an einen Raum angrenzen, in dem
 diese Einrichtungen vorhanden sind.
 
-(zu § 3 Abs. 1 Satz 1 Nr. 5, § 4 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Satz
-1)
 
-### Anlage 4 Anforderungen an die Abgabe kleiner Mengen von erlegtem Wild oder Fleisch von erlegtem Wild
+### Anlage 4 (zu § 3 Abs. 1 Satz 1 Nr. 5, § 4 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Satz 1) Anforderungen an die Abgabe kleiner Mengen von erlegtem Wild oder Fleisch von erlegtem Wild
 
 (Fundstelle: BGBl. I 2007, 1837;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1655,9 +1650,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 7 Satz 1)
 
-### Anlage 5 Anforderungen an die Herstellung oder Behandlung von Lebensmitteln tierischen Ursprungs im Einzelhandel
+### Anlage 5 (zu § 7 Satz 1) Anforderungen an die Herstellung oder Behandlung von Lebensmitteln tierischen Ursprungs im Einzelhandel
 
 (Fundstelle: BGBl. I 2007, 1838 - 1842;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4370,9 +4364,8 @@ Verwendete Rohstoffe
 [^f758238_11_BJNR182800007BJNE003000000]:     Zutreffendes bitte ankreuzen und ggf. Art der hergestellten Eiprodukte
     ergänzen.
 [^f758238_12_BJNR182800007BJNE003000000]: 
-(zu § 10 Abs. 1)
 
-### Anlage 7 Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nr. 1 in Verbindung mit Nr. 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
+### Anlage 7 (zu § 10 Abs. 1) Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nr. 1 in Verbindung mit Nr. 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
 
 (Fundstelle: BGBl. I 2007, 1858)
 
@@ -4496,9 +4489,8 @@ II) Standarderklärung
 
     Angabe der Tierart.
 [^f758238_13_BJNR182800007BJNE003100000]: 
-(zu § 12 Abs. 1)
 
-### Anlage 8 Muster
+### Anlage 8 (zu § 12 Abs. 1) Muster
 
 ( Fundstelle: BGBl. I 2007, 1859 - 1860 )
 Begleitschein
@@ -4715,9 +4707,8 @@ Verordnung (EG) Nr. 853/2004**
 
     Nicht Zutreffendes streichen.
 [^f758238_31_BJNR182800007BJNE003200000]: 
-(zu § 2b Absatz 2, § 4 Absatz 3 und § 25)
 
-### Anlage 8a Wildursprungsschein für Untersuchung auf Trichinen im Falle der Trichinenprobenahme durch den Jäger (§ 6 Absatz 2 der Tierische Lebensmittel-Überwachungsverordnung)
+### Anlage 8a (zu § 2b Absatz 2, § 4 Absatz 3 und § 25) Wildursprungsschein für Untersuchung auf Trichinen im Falle der Trichinenprobenahme durch den Jäger (§ 6 Absatz 2 der Tierische Lebensmittel-Überwachungsverordnung)
 
 (Fundstelle: BGBl. I 2010, 216)
 
@@ -4817,9 +4808,8 @@ Verordnung (EG) Nr. 853/2004**
 
     Zutreffendes ankreuzen
 [^F774166_02_BJNR182800007BJNE004200377]: 
-(zu § 13a)
 
-### Anlage 8b Gebiet, in dem abweichend von Artikel 3 Absatz 1 in Verbindung mit Anhang III Abschnitt V Kapitel III Nummer 1 Satz 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 Hackfleisch aus nicht gekühltem Fleisch hergestellt und in den Verkehr gebracht werden darf
+### Anlage 8b (zu § 13a) Gebiet, in dem abweichend von Artikel 3 Absatz 1 in Verbindung mit Anhang III Abschnitt V Kapitel III Nummer 1 Satz 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 Hackfleisch aus nicht gekühltem Fleisch hergestellt und in den Verkehr gebracht werden darf
 
 (Fundstelle : BGBl. I 2010, 617)
 
@@ -4851,10 +4841,8 @@ Verordnung (EG) Nr. 853/2004**
 
 
 
-(zu § 17 Abs. 2 Satz 1 Nr. 1 und 2, § 18 Abs. 1 und 2 und § 21 Abs. 3
-Nr. 4)
 
-### Anlage 9 Anforderungen an Vorzugsmilch
+### Anlage 9 (zu § 17 Abs. 2 Satz 1 Nr. 1 und 2, § 18 Abs. 1 und 2 und § 21 Abs. 3 Nr. 4) Anforderungen an Vorzugsmilch
 
 ( Fundstelle: BGBl. I 2007, 1861 - 1863 )
 ## Kapitel I

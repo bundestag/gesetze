@@ -391,9 +391,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin
 
 (Fundstelle: BGBl. I 1997, 88 - 92)
 

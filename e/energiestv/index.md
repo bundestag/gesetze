@@ -256,7 +256,7 @@ ausschließlich nach dem Steuersatz des § 2 Absatz 3 Satz 1 Nummer 1
 Buchstabe b des Gesetzes versteuert.
 
 
-## - - Zu § 2 Abs. 3 und 4, § 27 Abs. 1, § 48 Abs. 1,  § 52 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
+## - - Zu § 2 Abs. 3 und 4, § 27 Abs. 1, § 48 Abs. 1, § 52 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
 
 
 
@@ -6271,9 +6271,8 @@ Ausfuhrförmlichkeiten ist in den Fällen des Satzes 1 Nummer 2 ab dem
 1\. Januar 2011 der Artikel 793c der Zollkodex-Durchführungsverordnung
 in der bis zum 31. Dezember 2010 geltenden Fassung weiter anzuwenden.
 
-(zu den §§ 55, 74 und 84a)
 
-#### Anlage 1 Verzicht auf förmliche Einzelerlaubnis
+#### Anlage 1 (zu den §§ 55, 74 und 84a) Verzicht auf förmliche Einzelerlaubnis
 
 (Fundstelle: BGBl. I 2011, 1902 - 1904;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -6676,9 +6675,8 @@ erlaubt:
 
 
 
-(zu § 94 Absatz 3)
 
-#### Anlage 1a Nachweis der Einhaltung der Normen
+#### Anlage 1a (zu § 94 Absatz 3) Nachweis der Einhaltung der Normen
 
 (Fundstelle: BGBl. I 2011, 1905)
 
@@ -6746,9 +6744,8 @@ geltenden Norm zu untersuchen:
 
 
 
-(zu § 110 Satz 1 Nr. 7)
 
-#### Anlage 2 Verfahren zur Bestimmung des Rotfarbstoffgehalts in leichtem Heizöl oder in Gemischen von leichtem Heizöl mit nicht gekennzeichnetem Gasöl mittels Hochdruckflüssigkeitschromatographie (HPLC-Verfahren)
+#### Anlage 2 (zu § 110 Satz 1 Nr. 7) Verfahren zur Bestimmung des Rotfarbstoffgehalts in leichtem Heizöl oder in Gemischen von leichtem Heizöl mit nicht gekennzeichnetem Gasöl mittels Hochdruckflüssigkeitschromatographie (HPLC-Verfahren)
 
 (Fundstelle: BGBl. I 2006, 1796 - 1797)
 
@@ -6995,9 +6992,8 @@ geltenden Norm zu untersuchen:
     für normgerechte Erzeugnisse im DIN Deutsches Institut für Normung
     e.V., Burggrafenstraße 6, 10787 Berlin.
 
-(zu § 110 Satz 1 Nr. 8)
 
-#### Anlage 3 Harmonisiertes Euromarker - Referenzanalyseverfahren der Gemeinschaft zur  Ermittlung des Markierstoffs Solvent Yellow 124 in Gasölen
+#### Anlage 3 (zu § 110 Satz 1 Nr. 8) Harmonisiertes Euromarker - Referenzanalyseverfahren der Gemeinschaft zur Ermittlung des Markierstoffs Solvent Yellow 124 in Gasölen
 
 (Fundstelle: BGBl. I 2006, 1798 - 1800)
 
@@ -7434,9 +7430,8 @@ geltenden Norm zu untersuchen:
 
 
 
-(zu § 110 Satz 1 Nr. 9)
 
-#### Anlage 4 Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen
+#### Anlage 4 (zu § 110 Satz 1 Nr. 9) Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen
 
 (Fundstelle: BGBl. I 2006, 1801)
 

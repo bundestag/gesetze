@@ -579,9 +579,8 @@ Betriebsinhabers in anonymisierter Form, dem Bundesministerium bis zum
 31\. August 2008 die Summe der für jede Region ermittelten gesonderten
 Beträge nach § 5 Absatz 4b.
 
-(zu § 4 Abs. 1)
 
-## Anlage 1 Aufteilung der angepassten nationalen Obergrenze auf die Regionen
+## Anlage 1 (zu § 4 Abs. 1) Aufteilung der angepassten nationalen Obergrenze auf die Regionen
 
 (Fundstelle: BGBl. I 2010, 1726)
 
@@ -658,9 +657,8 @@ Beträge nach § 5 Absatz 4b.
 
 
 
-(zu § 4 Absatz 3d)
 
-## Anlage 1a Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
+## Anlage 1a (zu § 4 Absatz 3d) Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
 
 (Fundstelle: BGBl. I 2010, 1726)
 
@@ -736,9 +734,8 @@ Beträge nach § 5 Absatz 4b.
 
 
 
-(zu § 5 Abs. 3 Nr. 2)
 
-## Anlage 2 Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
+## Anlage 2 (zu § 5 Abs. 3 Nr. 2) Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
 
 (Fundstelle: BGBl. I 2010, 1727)
 
@@ -845,10 +842,8 @@ Beträge nach § 5 Absatz 4b.
 
 
 
-(zu § 6 Abs. 1)
-Berechnungsverfahren
 
-## Anlage 3 zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
+## Anlage 3 (zu § 6 Abs. 1) Berechnungsverfahren zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
 
 (Fundstelle: BGBl. I 2010, 1727)
 Berechnungsformel: Y

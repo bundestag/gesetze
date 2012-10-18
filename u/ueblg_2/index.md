@@ -100,7 +100,7 @@ Wartestandsbeamten zu sorgen
 (§ 36a Abs. 1 der Reichshaushaltsordnung).
 
 
-## Art III - Gemeinsame Bestimmungen zu den Art  I und II
+## Art III - Gemeinsame Bestimmungen zu den Art I und II
 
 
 

@@ -684,9 +684,8 @@ erfüllen.
 
 -
 
-(zu § 3 Abs. 2)
 
-### Anlage 1 Bescheinigung über die Unterrichtung nach § 34a Abs. 1 Satz 3 Nr. 3, Satz 4 Gewerbeordnung
+### Anlage 1 (zu § 3 Abs. 2) Bescheinigung über die Unterrichtung nach § 34a Abs. 1 Satz 3 Nr. 3, Satz 4 Gewerbeordnung
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1384
 Herr
@@ -726,9 +725,8 @@ und Deeskalationstechniken in Konfliktsituationen,
 ------------
 \*) Nichtzutreffendes streichen.
 
-(zu § 4)
 
-### Anlage 2 Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungsgewerbetreibende (80 Unterrichtsstunden)
+### Anlage 2 (zu § 4) Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungsgewerbetreibende (80 Unterrichtsstunden)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1385
 
@@ -839,9 +837,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1385
 
 
 
-(zu § 4)
 
-### Anlage 3 Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungspersonal (40 Unterrichtsstunden)
+### Anlage 3 (zu § 4) Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungspersonal (40 Unterrichtsstunden)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1386
 
@@ -944,9 +941,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1386
 
 
 
-(zu § 5c Abs. 6)
 
-### Anlage 4 Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfung nach § 34a Abs. 1 Satz 5 der Gewerbeordnung
+### Anlage 4 (zu § 5c Abs. 6) Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfung nach § 34a Abs. 1 Satz 5 der Gewerbeordnung
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1387
 Herr/Frau

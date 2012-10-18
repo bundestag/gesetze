@@ -493,9 +493,8 @@ Leistungen erbracht sind.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum/zur Glasbläser/zur Glasbläserin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Glasbläser/zur Glasbläserin
 
 (Fundstelle: BGBl. I 1998, 1615 - 1619)
 

@@ -571,10 +571,8 @@ Zuständige Behörde im Sinne dieser Verordnung ist das Umweltbundesamt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1
-und § 6)
 
-### Anlage 1 Privilegierte Flüge
+### Anlage 1 (zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1 und § 6) Privilegierte Flüge
 
 (Fundstelle BGBl. I 2009, 2123)
 
@@ -662,9 +660,8 @@ und § 6)
 
 
 
-(zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8)
 
-### Anlage 2 Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
+### Anlage 2 (zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8) Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
 
 (Fundstelle BGBl. I 2009, 2124 - 2125)
 ## Teil 1

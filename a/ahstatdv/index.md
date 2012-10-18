@@ -1728,9 +1728,8 @@ laufenden Kalenderjahr der in Satz 1 genannte Schwellenwert
 
 -
 
-(zu § 31)
 
-### Anlage Befreiungsliste
+### Anlage (zu § 31) Befreiungsliste
 
 Fundstelle des Originaltextes: BGBl. I 1989, 220 - 226;
 bzgl. der einzelnen Änderungen vgl. Fußnote.

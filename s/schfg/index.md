@@ -1449,7 +1449,7 @@ Mahnverfahren gleich.
 (gestrichen)
 
 
-#### § 59 Anwendung der Anlage I des Einigungsvertrages \*)
+#### § 59 Anwendung der Anlage I des Einigungsvertrages
 
 (1) Die §§ 1 Abs. 2, 13 Abs. 1 Nr. 2, 3 und 4 lassen Anlage I Kapitel
 V Sachgebiet B Abschnitt III Nr. 3 Buchstabe e des Einigungsvertrages
@@ -1524,10 +1524,8 @@ des 31. Juli 1994 nicht mehr anzuwenden.
 
 -
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1000)
 
-#### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1000) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

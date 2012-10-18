@@ -85,7 +85,7 @@ Protokolls von Cartagena über die biologische Sicherheit zum
 Mitgliedstaaten zuständig sind.
 
 
-## § 2 Aufgaben des Bundesministeriums für Ernährung, Landwirtschaft und  Verbraucherschutz
+## § 2 Aufgaben des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz ist Anlaufstelle im Sinne des Artikels 19 Abs. 1
@@ -490,9 +490,8 @@ bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 2 und 3 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen
 Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(zu § 3a Abs. 4 Satz 2)
 
-## Anlage Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
+## Anlage (zu § 3a Abs. 4 Satz 2) Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
 
 Fundstelle des Originaltextes: BGBl. I 2008, 506
 

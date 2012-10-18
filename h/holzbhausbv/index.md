@@ -363,9 +363,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Holzbildhauer/zur Holzbildhauerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Holzbildhauer/zur Holzbildhauerin
 
 (Fundstelle: BGBl. I 1997, S. 96 - 99)
 

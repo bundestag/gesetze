@@ -418,9 +418,8 @@ die Verordnung über die Berufsausbildung zum Technischen
 Konfektionär/zur Technischen Konfektionärin vom 3. Februar 1997 (BGBl.
 I S. 226, 2212) außer Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin
 
 (Fundstelle: BGBl. I 2010, 596 - 600)
 

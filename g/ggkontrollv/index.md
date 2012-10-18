@@ -199,9 +199,8 @@ Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem
 Bundesministerium für Verkehr, Bau und Stadtentwicklung zur
 Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
-(zu § 3 Abs. 3 Satz 1)
 
-## Anlage 1 Prüfliste
+## Anlage 1 (zu § 3 Abs. 3 Satz 1) Prüfliste
 
 (Fundstelle: BGBl. I 2005, 3107)
 1\. Ort der Kontrolle                   2. Datum             3. Zeit
@@ -332,9 +331,8 @@ die/der die Kontrolle
 
 (weggefallen)
 
-(zu § 3 Abs. 7)
 
-## Anlage 3 Verstöße
+## Anlage 3 (zu § 3 Abs. 7) Verstöße
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
 
@@ -542,9 +540,8 @@ dieser Verordnung angegeben) angewandt.
 
 (weggefallen)
 
-(zu § 5 Abs. 1)
 
-## Anlage 5 Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
+## Anlage 5 (zu § 5 Abs. 1) Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 

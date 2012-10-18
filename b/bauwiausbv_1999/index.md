@@ -5536,9 +5536,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-(zu § 6)
 
-### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Hochbaufacharbeiter/zur Hochbaufacharbeiterin
+### Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Hochbaufacharbeiter/zur Hochbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1132 - 1145;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7277,9 +7276,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 12)
 
-### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Ausbaufacharbeiter/zur Ausbaufacharbeiterin
+### Anlage 2 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Ausbaufacharbeiter/zur Ausbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1146 - 1168)
 
@@ -10200,9 +10198,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 18)
 
-### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Tiefbaufacharbeiter/zur Tiefbaufacharbeiterin
+### Anlage 3 (zu § 18) Ausbildungsrahmenplan für die Berufsausbildung zum Tiefbaufacharbeiter/zur Tiefbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1169 - 1189)
 
@@ -12831,9 +12828,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 24)
 
-### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Maurer/zur Maurerin
+### Anlage 4 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Maurer/zur Maurerin
 
 (Fundstelle: BGBl. I 1999, 1190 - 1192)
 
@@ -13207,9 +13203,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 29)
 
-### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Beton- und Stahlbetonbauer/zur Beton- und Stahlbetonbauerin
+### Anlage 5 (zu § 29) Ausbildungsrahmenplan für die Berufsausbildung zum Beton- und Stahlbetonbauer/zur Beton- und Stahlbetonbauerin
 
 (Fundstelle: BGBl. I 1999, 1193 - 1195)
 
@@ -13539,9 +13534,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 34)
 
-### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Feuerungs- und Schornsteinbauer/zur Feuerungs- und Schornsteinbauerin
+### Anlage 6 (zu § 34) Ausbildungsrahmenplan für die Berufsausbildung zum Feuerungs- und Schornsteinbauer/zur Feuerungs- und Schornsteinbauerin
 
 (Fundstelle: BGBl. I 1999, 1196 - 1198)
 
@@ -13903,9 +13897,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 37b)
 
-### Anlage 6a Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerkmechaniker für Abbruch und Betontrenntechnik/zur Bauwerksmechanikerin für Abbruch und Betontrenntechnik
+### Anlage 6a (zu § 37b) Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerkmechaniker für Abbruch und Betontrenntechnik/zur Bauwerksmechanikerin für Abbruch und Betontrenntechnik
 
 (Fundstelle: BGBl. I 2004, 539 - 541;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14255,9 +14248,8 @@ Kenntnisse aus den laufenden Nummern 7 bis 10 zu ergänzen und zu
 vertiefen.
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-(zu § 39)
 
-### Anlage 7 Ausbildungsrahmenplan für die Berufsausbildung zum Zimmerer/zur Zimmerin
+### Anlage 7 (zu § 39) Ausbildungsrahmenplan für die Berufsausbildung zum Zimmerer/zur Zimmerin
 
 (Fundstelle: BGBl. I 1999, 1199 - 1201)
 
@@ -14617,9 +14609,8 @@ vertiefen.
 
 
 
-(zu § 44)
 
-### Anlage 8 Ausbildungsrahmenplan für die Berufsausbildung zum Stukkateur/zur Stukkateurin
+### Anlage 8 (zu § 44) Ausbildungsrahmenplan für die Berufsausbildung zum Stukkateur/zur Stukkateurin
 
 (Fundstelle: BGBl. I 1999, 1202 - 1204)
 
@@ -15003,9 +14994,8 @@ vertiefen.
 
 
 
-(zu § 49)
 
-### Anlage 9 Ausbildungsrahmenplan für die Berufsausbildung zum Fliesen-, Platten- und Mosaikleger/zur Fliesen-, Platten- und Mosaiklegerin
+### Anlage 9 (zu § 49) Ausbildungsrahmenplan für die Berufsausbildung zum Fliesen-, Platten- und Mosaikleger/zur Fliesen-, Platten- und Mosaiklegerin
 
 (Fundstelle: BGBl. I 1999, 1205 - 1207)
 
@@ -15324,9 +15314,8 @@ vertiefen.
 
 
 
-(zu § 54)
 
-### Anlage 10 Ausbildungsrahmenplan für die Berufsausbildung zum Estrichleger/zur Estrichlegerin
+### Anlage 10 (zu § 54) Ausbildungsrahmenplan für die Berufsausbildung zum Estrichleger/zur Estrichlegerin
 
 (Fundstelle: BGBl. I 1999, 1208 - 1210)
 
@@ -15675,9 +15664,8 @@ vertiefen.
 
 
 
-(zu § 59)
 
-### Anlage 11 Ausbildungsrahmenplan für die Berufsausbildung zum Wärme-, Kälte- und Schallschutzisolierer/zur Wärme-, Kälte- und Schallschutzisoliererin
+### Anlage 11 (zu § 59) Ausbildungsrahmenplan für die Berufsausbildung zum Wärme-, Kälte- und Schallschutzisolierer/zur Wärme-, Kälte- und Schallschutzisoliererin
 
 (Fundstelle: BGBl. I 1999, 1211 - 1213)
 
@@ -16082,9 +16070,8 @@ vertiefen.
 
 
 
-(zu § 64)
 
-### Anlage 12 Ausbildungsrahmenplan für die Berufsausbildung zum Trockenbaumonteur/zur Trockenbaumonteurin
+### Anlage 12 (zu § 64) Ausbildungsrahmenplan für die Berufsausbildung zum Trockenbaumonteur/zur Trockenbaumonteurin
 
 (Fundstelle: BGBl. I 1999, 1214 - 1216)
 
@@ -16430,9 +16417,8 @@ vertiefen.
 
 
 
-(zu § 69)
 
-### Anlage 13 Ausbildungsrahmenplan für die Berufsausbildung zum Straßenbauer/zur Straßenbauerin
+### Anlage 13 (zu § 69) Ausbildungsrahmenplan für die Berufsausbildung zum Straßenbauer/zur Straßenbauerin
 
 (Fundstelle: BGBl. I 1999, 1217 - 1219)
 
@@ -16792,9 +16778,8 @@ vertiefen.
 
 
 
-(zu § 74)
 
-### Anlage 14 Ausbildungsrahmenplan für die Berufsausbildung zum Rohrleitungsbauer/zur Rohrleitungsbauerin
+### Anlage 14 (zu § 74) Ausbildungsrahmenplan für die Berufsausbildung zum Rohrleitungsbauer/zur Rohrleitungsbauerin
 
 (Fundstelle: BGBl. I 1999, 1220 - 1222)
 
@@ -17157,9 +17142,8 @@ vertiefen.
 
 
 
-(zu § 79)
 
-### Anlage 15 Ausbildungsrahmenplan für die Berufsausbildung zum Kanalbauer/zur Kanalbauerin
+### Anlage 15 (zu § 79) Ausbildungsrahmenplan für die Berufsausbildung zum Kanalbauer/zur Kanalbauerin
 
 (Fundstelle: BGBl. I 1999, 1223 - 1225)
 
@@ -17524,9 +17508,8 @@ vertiefen.
 
 
 
-(zu § 84)
 
-### Anlage 16 Ausbildungsrahmenplan für die Berufsausbildung zum Brunnenbauer/zur Brunnenbauerin
+### Anlage 16 (zu § 84) Ausbildungsrahmenplan für die Berufsausbildung zum Brunnenbauer/zur Brunnenbauerin
 
 (Fundstelle: BGBl. I 1999, 1226 - 1228)
 
@@ -17960,9 +17943,8 @@ vertiefen.
 
 
 
-(zu § 89)
 
-### Anlage 17 Ausbildungsrahmenplan für die Berufsausbildung zum Spezialtiefbauer/zur Spezialtiefbauerin
+### Anlage 17 (zu § 89) Ausbildungsrahmenplan für die Berufsausbildung zum Spezialtiefbauer/zur Spezialtiefbauerin
 
 (Fundstelle: BGBl. I 1999, 1229 - 1232)
 
@@ -18410,9 +18392,8 @@ vertiefen.
 
 
 
-(zu § 94)
 
-### Anlage 18 Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
+### Anlage 18 (zu § 94) Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
 
 (Fundstelle: BGBl. I 1999, 1233 - 1235)
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 284 V v. 31.10.2006 I 2407
 
 
-## Abschnitt I - 
+## Abschnitt I -
 
 
 
@@ -342,7 +342,7 @@ Bundesbahn.
 entsprechend.
 
 
-## Abschnitt VI - 
+## Abschnitt VI -
 
 
 
@@ -361,7 +361,7 @@ entsprechend.
 -
 
 
-## Abschnitt VII - 
+## Abschnitt VII -
 
 
 

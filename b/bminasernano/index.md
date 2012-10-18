@@ -1,6 +1,6 @@
 ---
-Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und  Bundesbeamten
-  im Geschäftsbereich des Bundesministeriums für Arbeit und  Soziales
+Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten
+  im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 jurabk: BMinASErnAnO
 layout: default
 origslug: bminasernano
@@ -8,7 +8,7 @@ slug: bminasernano
 
 ---
 
-# Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und  Bundesbeamten im Geschäftsbereich des Bundesministeriums für Arbeit und  Soziales (BMinASErnAnO)
+# Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BMinASErnAnO)
 
 Ausfertigungsdatum
 :   2006-02-28

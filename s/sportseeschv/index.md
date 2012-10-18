@@ -1499,9 +1499,8 @@ I
 -----------------------------------
 ------------------------------------
 
-(zu § 11 Abs. 2)
 
-## Anlage 4 Regelbesatzung von Traditionsschiffen mit Inhabern von nautischen und technischen Befähigungsnachweisen
+## Anlage 4 (zu § 11 Abs. 2) Regelbesatzung von Traditionsschiffen mit Inhabern von nautischen und technischen Befähigungsnachweisen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 403;
 bzgl. der einzelnen Änderungen vgl. Fußnote

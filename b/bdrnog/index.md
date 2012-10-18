@@ -17,11 +17,11 @@ Fundstelle
 
 Stand: Zuletzt geändert Art. 15 Abs. 33 G v. 5.2.2009 I 160
 
-## Art I - 
+## Art I -
 
 
 
-## Art II - 
+## Art II -
 
 
 
@@ -154,7 +154,7 @@ erstreckt sich nicht auf die Vorgänge, die der Festsetzung und dem
 Nachweis der Dienstbezüge dienen.
 
 
-## Art IV - 
+## Art IV -
 
 
 

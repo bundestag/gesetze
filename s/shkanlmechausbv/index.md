@@ -465,9 +465,8 @@ bis zum 31. Juli 2004 weiter anzuwenden.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-(zu § 7)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker für Sanitär- Heizungs- und Klimatechnik/zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik
+## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker für Sanitär- Heizungs- und Klimatechnik/zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik
 
 
 *    *   (Fundstelle: BGBl. I 2003, 1015 - 1026)

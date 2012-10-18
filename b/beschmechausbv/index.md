@@ -335,9 +335,8 @@ vereinbaren.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
 
 (Fundstelle: BGBl. I 1999, 1600 - 1606)
 

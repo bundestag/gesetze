@@ -599,9 +599,8 @@ Anwendung der bisherigen Vorschriften vereinbart werden.
 
 Diese Verordnung tritt am 1. April 2011 in Kraft.
 
-(zu § 13 Absatz 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 13 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2011, 516)
 
@@ -669,9 +668,8 @@ und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
 
 
 
-(zu § 13 Absatz 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 13 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2011, 517)
 

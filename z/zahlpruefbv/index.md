@@ -536,9 +536,8 @@ betrifft.
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
-(zu § 23)
 
-### Anlage Datenübersicht für Zahlungsinstitute
+### Anlage (zu § 23) Datenübersicht für Zahlungsinstitute
 
 (Fundstelle: BGBl. I 2009, 3654 - 3657)
 Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro

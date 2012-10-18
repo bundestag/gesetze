@@ -1181,10 +1181,8 @@ im Monat nicht übersteigen.
 (4) Die besonderen Vergütungen nach den Absätzen 1 und 2 dürfen den
 Gesamtbetrag von 613,55 Euro im Monat nicht übersteigen.
 
-Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1144)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1144) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

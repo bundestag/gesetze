@@ -488,9 +488,8 @@ Zwischenprüfung noch nicht abgelegt wurde.
 
 Diese Verordnung tritt am 1. August 2010 in Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Segelmacher und zur Segelmacherin
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Segelmacher und zur Segelmacherin
 
 (Fundstelle: BGBl. I 2010, 567 - 572)
 

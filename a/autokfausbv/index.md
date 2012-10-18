@@ -352,11 +352,8 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Automobilkaufmann/zur Automobilkauffrau
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Automobilkaufmann/zur Automobilkauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 1148 - 1155)
 
@@ -1616,11 +1613,8 @@ Automobilkaufmann/zur Automobilkauffrau
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Automobilkaufmann/zur Automobilkauffrau
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Automobilkaufmann/zur Automobilkauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 1156 - 1158)
 

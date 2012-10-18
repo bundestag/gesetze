@@ -471,9 +471,8 @@ Der wasserlösliche Anteil (Abdampfrückstand) soll 3 Masse-% nicht
 
 
 
-(zu § 4 Abs. 4)
 
-## Anlage 3 Probenahme und Analytik
+## Anlage 3 (zu § 4 Abs. 4) Probenahme und Analytik
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2837 - 2838
 
@@ -1242,9 +1241,8 @@ verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen
 und beim Deutschen Patentamt in München archivmäßig gesichert
 niedergelegt.
 
-(zu § 4 Abs. 3 Satz 2)
 
-## Anlage 4 Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
+## Anlage 4 (zu § 4 Abs. 3 Satz 2) Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2843 - 2847;
 bzgl. der einzelnen Änderungen vgl. Fußnote

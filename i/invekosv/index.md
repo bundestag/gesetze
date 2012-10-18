@@ -1090,9 +1090,8 @@ ersetzten oder geänderten Vorschriften dieser Verordnung sind
 
 in der am 31. Dezember 2011 geltenden Fassung weiter anzuwenden.
 
-(zu § 3 Satz 3 und § 7 Absatz 8a)
 
-### Anlage 1 Flächenidentifikator (16 Stellen)
+### Anlage 1 (zu § 3 Satz 3 und § 7 Absatz 8a) Flächenidentifikator (16 Stellen)
 
 (Fundstelle: BGBl. I 2005, 3724)
 

@@ -2676,9 +2676,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 29)
 
-### Anlage Vorschriften zur Bildung von Schwankungsrückstellungen
+### Anlage (zu § 29) Vorschriften zur Bildung von Schwankungsrückstellungen
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3396 - 3398;
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -697,9 +697,8 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 4 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Chemikanten/zur Chemikantin
+## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Chemikanten/zur Chemikantin
 
 (Fundstelle: BGBl. I 2009, 1364 - 1373)
 **Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1**

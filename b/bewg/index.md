@@ -1941,7 +1941,7 @@ Sachwertverfahrens (§§ 83 bis 90) zu ermitteln.
 
 
 
-###### § 77 Mindestwert \*)
+###### § 77 Mindestwert
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
 sein als der Wert, mit dem der Grund und Boden allein als unbebautes
@@ -5664,9 +5664,8 @@ Dezember 2011 (BGBl. I S. 2592) sind auf Bewertungsstichtage nach dem
 Artikels 10 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) sind
 auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
-(zu § 51)
 
-### Anlage 1 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+### Anlage 1 (zu § 51) Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2619 - 2620)
 
@@ -6155,9 +6154,8 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
-Mietwohngrundstücke
 
-### Anlage 3 Vervielfältiger
+### Anlage 3 Mietwohngrundstücke Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 264)
 
@@ -6685,10 +6683,8 @@ Mietwohngrundstücke
 
 
 
-Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
-Jahresrohmiete bis zu 50 v. H.
 
-### Anlage 4 Vervielfältiger
+### Anlage 4 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der Jahresrohmiete bis zu 50 v. H. Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 265)
 
@@ -7216,10 +7212,8 @@ Jahresrohmiete bis zu 50 v. H.
 
 
 
-Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
-Jahresrohmiete von mehr als 50 v. H.
 
-### Anlage 5 Vervielfältiger
+### Anlage 5 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der Jahresrohmiete von mehr als 50 v. H. Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 266)
 
@@ -7637,9 +7631,8 @@ Jahresrohmiete von mehr als 50 v. H.
 
 
 
-Geschäftsgrundstücke
 
-### Anlage 6 Vervielfältiger
+### Anlage 6 Geschäftsgrundstücke Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 267)
 
@@ -8169,9 +8162,8 @@ Geschäftsgrundstücke
 
 
 
-Einfamilienhäuser
 
-### Anlage 7 Vervielfältiger
+### Anlage 7 Einfamilienhäuser Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 268)
 
@@ -8589,9 +8581,8 @@ Einfamilienhäuser
 
 
 
-Zweifamilienhäuser
 
-### Anlage 8 Vervielfältiger
+### Anlage 8 Zweifamilienhäuser Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 269)
 
@@ -9013,9 +9004,8 @@ Zweifamilienhäuser
 ### Anlage 9 (weggefallen)
 
 
-(zu § 13)
 
-### Anlage 9a Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
+### Anlage 9a (zu § 13) Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
 
 (Fundstelle: BGBl. I 1992, 1860 u. 1861;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -9606,9 +9596,8 @@ nachschüssige Zahlungsweise.
 ### (XXXX) Anlagen 10 bis 13 (weggefallen)
 
 
-(zu § 163 Abs. 3, § 164 Abs. 2 und 4)
 
-### Anlage 14 Landwirtschaftliche Nutzung
+### Anlage 14 (zu § 163 Abs. 3, § 164 Abs. 2 und 4) Landwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3043 - 3059)
 
@@ -18100,9 +18089,8 @@ nachschüssige Zahlungsweise.
 
 
 
-(zu § 163 Abs. 4 und § 164 Abs. 2)
 
-### Anlage 15 Forstwirtschaftliche Nutzung
+### Anlage 15 (zu § 163 Abs. 4 und § 164 Abs. 2) Forstwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3060;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -18253,11 +18241,10 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 
-   (zu § 164 Abs. 4)
 
-### Anlage 15a Forstwirtschaftliche Nutzung
+### Anlage 15a (zu § 164 Abs. 4) Forstwirtschaftliche Nutzung
 
-(Fundstelle: BGBl. I 2008, 3061)
+   (Fundstelle: BGBl. I 2008, 3061)
 
 
 *    *   6
@@ -18624,9 +18611,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 163 Abs. 5 und § 164 Abs. 2 und 4)
 
-### Anlage 16 Weinbauliche Nutzung
+### Anlage 16 (zu § 163 Abs. 5 und § 164 Abs. 2 und 4) Weinbauliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18693,9 +18679,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 163 Abs. 6 und § 164 Abs. 2 und 4)
 
-### Anlage 17 Gärtnerische Nutzung
+### Anlage 17 (zu § 163 Abs. 6 und § 164 Abs. 2 und 4) Gärtnerische Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18800,9 +18785,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 163 Abs. 7 und § 164 Abs. 2 und 4)
 
-### Anlage 18 Sondernutzungen
+### Anlage 18 (zu § 163 Abs. 7 und § 164 Abs. 2 und 4) Sondernutzungen
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18866,9 +18850,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 169)
 
-### Anlage 19 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+### Anlage 19 (zu § 169) Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2621 - 2622)
 
@@ -19285,9 +19268,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 169 Abs. 5)
 
-### Anlage 20 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+### Anlage 20 (zu § 169 Abs. 5) Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
 (Fundstelle: BGBl. I 2008, 3065)
 
@@ -19336,11 +19318,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 185 Abs. 3 Satz 1,
-§ 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und
-§ 195 Abs. 2 Satz 2 und Abs. 3 Satz 3)
 
-### Anlage 21 Vervielfältiger
+### Anlage 21 (zu § 185 Abs. 3 Satz 1, § 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und § 195 Abs. 2 Satz 2 und Abs. 3 Satz 3) Vervielfältiger
 
 (Fundstelle: BGBl. I 2008, 3066 - 3068)
 
@@ -21916,9 +21895,8 @@ Vervielfältiger nach folgender Formel zu bilden:
 
 
 
-(zu § 185 Abs. 3 Satz 3, § 190 Abs. 2 Satz 2)
 
-### Anlage 22 Wirtschaftliche Gesamtnutzungsdauer
+### Anlage 22 (zu § 185 Abs. 3 Satz 3, § 190 Abs. 2 Satz 2) Wirtschaftliche Gesamtnutzungsdauer
 
 (Fundstelle: BGBl. I 2008, 3069)
 
@@ -22157,9 +22135,8 @@ Vervielfältiger nach folgender Formel zu bilden:
 **Teileigentum**              ist in Abhängigkeit von der baulichen
 Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
 
-(zu § 187 Abs. 2 Satz 2)
 
-### Anlage 23 Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
+### Anlage 23 (zu § 187 Abs. 2 Satz 2) Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
 
 (Fundstelle: BGBl. I 2008, 3070)
 
@@ -22228,9 +22205,8 @@ Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
 
 
 
-(zu § 190 Abs. 1 Satz 4 und 5)
 
-### Anlage 24 Ermittlung des Gebäuderegelherstellungswerts
+### Anlage 24 (zu § 190 Abs. 1 Satz 4 und 5) Ermittlung des Gebäuderegelherstellungswerts
 
 (Fundstelle: BGBl. I 2008, 3071 - 3076;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -24318,9 +24294,8 @@ Decken.
 
 
 
-(zu § 191 Abs. 2)
 
-### Anlage 25 Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Abs. 1 Nr. 1 BewG und Wohnungseigentum nach § 181 Abs. 1 Nr. 3 BewG
+### Anlage 25 (zu § 191 Abs. 2) Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Abs. 1 Nr. 1 BewG und Wohnungseigentum nach § 181 Abs. 1 Nr. 3 BewG
 
 (Fundstelle: BGBl. I 2008, 3077)
 
@@ -24614,9 +24589,8 @@ BewG**
 
 
 
-(zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)
 
-### Anlage 26 Abzinsungsfaktoren
+### Anlage 26 (zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2) Abzinsungsfaktoren
 
 (Fundstelle: BGBl. I 2008, 3078 - 3080;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

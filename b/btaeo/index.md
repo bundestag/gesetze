@@ -1009,9 +1009,8 @@ Identitätsnachweis vorzulegen.
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 keine Anwendung.
 
-(zu § 4 Abs. 1a Satz 1, 2 und 3)
 
-## Anlage Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+## Anlage (zu § 4 Abs. 1a Satz 1, 2 und 3) Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 2882 - 2885)
 

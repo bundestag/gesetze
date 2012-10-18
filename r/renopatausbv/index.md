@@ -486,9 +486,8 @@ vom 24. August 1971 (BGBl. I S. 1394) außer Kraft.
 
 Der Bundesminister der Justiz
 
-(zu § 9)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Rechtsanwaltsfachangestellten/zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten/zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten/zur Rechtsanwalts- und Notarfachangestellten und zum Patentanwaltsfachangestellten/zur Patentanwaltsfachangestellten
+## Anlage (zu § 9) Ausbildungsrahmenplan für die Berufsausbildung zum Rechtsanwaltsfachangestellten/zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten/zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten/zur Rechtsanwalts- und Notarfachangestellten und zum Patentanwaltsfachangestellten/zur Patentanwaltsfachangestellten
 
 (Fundstelle: BGBl. I 1987, 2396 - 2414;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2999,9 +2998,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

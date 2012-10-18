@@ -1579,11 +1579,8 @@ Verordnung.
 (Fundstelle: BGBl. I 2005, 1893
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-(zu § 3)
-Digitales Tachographensystem im Straßenverkehr
-Policy für die Bundesrepublik Deutschland
 
-### Anlage 2 Version 1.2 in der Fassung vom 18. April 2007
+### Anlage 2 (zu § 3) Digitales Tachographensystem im Straßenverkehr Policy für die Bundesrepublik Deutschland Version 1.2 in der Fassung vom 18. April 2007
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 61 - 82 )
 
@@ -4051,9 +4048,8 @@ Anhang B
     die rechtsverbindliche.
 [^f770348_03_BJNR188210005BJNE002801301]:     Vgl. Digital Tachograph System European Root Policy, V 2.0.
 [^f770348_04_BJNR188210005BJNE002801301]: 
-(zu § 4)
 
-### Anlage 3 Beschreibung der Speicherkarten
+### Anlage 3 (zu § 4) Beschreibung der Speicherkarten
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++
 Fundstelle des Originaltextes: BGBl. I 2005, 1914 - 1916

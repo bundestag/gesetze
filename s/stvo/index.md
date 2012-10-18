@@ -2812,9 +2812,8 @@ bis zum 31. August 2019 gültig.
 Lichtzeichen für Radfahrer müssen Radfahrer bis zum 31. August 2012
 weiterhin die Lichtzeichen für Fußgänger beachten.
 
-(zu § 40 Absatz 6 und 7)
 
-### Anlage 1 Allgemeine und Besondere Gefahrzeichen
+### Anlage 1 (zu § 40 Absatz 6 und 7) Allgemeine und Besondere Gefahrzeichen
 
 (Fundstelle: BGBl. I 2009, 2636 - 2639)
 
@@ -3012,9 +3011,8 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
 
 
 
-(zu § 41 Absatz 1)
 
-### Anlage 2 Vorschriftzeichen
+### Anlage 2 (zu § 41 Absatz 1) Vorschriftzeichen
 
 (Fundstelle: BGBl. I 2009, 2640 - 2655)
 
@@ -4383,9 +4381,8 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
 
 
 
-(zu § 42 Absatz 2)
 
-### Anlage 3 Richtzeichen
+### Anlage 3 (zu § 42 Absatz 2) Richtzeichen
 
 (Fundstelle: BGBl. I 2009, 2656 - 2669)
 
@@ -5532,9 +5529,8 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
 
 
 
-(zu 43 Absatz 3)
 
-### Anlage 4 Verkehrseinrichtungen
+### Anlage 4 (zu 43 Absatz 3) Verkehrseinrichtungen
 
 (Fundstelle: BGBl. I 2009, 2670 - 2672)
 
@@ -5691,12 +5687,10 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
 
 
 
-   Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1104)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1104) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
-Abschnitt III
+   Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 ...

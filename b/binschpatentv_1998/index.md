@@ -596,7 +596,7 @@ Fähren, berechtigen auch
 
 
 
-### § 8 Besondere Fahrerlaubnisarten  Elbschifferpatent, Donaukapitänspatent
+### § 8 Besondere Fahrerlaubnisarten Elbschifferpatent, Donaukapitänspatent
 
 (1) (weggefallen)
 
@@ -687,7 +687,7 @@ eingetragen. Der Inhaber eines Befähigungszeugnisses nach § 5 oder § 6
 Abs. 1 hat darin eingetragene Auflagen zu beachten.
 
 
-### § 11 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis  Fahrzeit, Fahrleistungen
+### § 11 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Fahrzeit, Fahrleistungen
 
 (1) Der Bewerber muß eine Fahrzeit als Mitglied einer Decksmannschaft
 
@@ -755,7 +755,7 @@ Führen
 erforderlich wäre.
 
 
-### § 12 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis  Streckenfahrten
+### § 12 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Streckenfahrten
 
 (1) Soll sich die Fahrerlaubnis der Klassen A bis E auf Wasserstraßen
 nach Anlage 9 oder Teilstrecken davon erstrecken, muß der Bewerber die
@@ -1443,10 +1443,8 @@ Vorschriften angerechnet.
 
 (2)
 
-Muster des Schifferpatentes
-(85 mm X 54 mm - Grundfarbe blau,
 
-### Anlage 1 entsprechend ISO-Norm 78.10)
+### Anlage 1 Muster des Schifferpatentes (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3080
 ----------------------------------------------------------------------
@@ -1518,10 +1516,8 @@ I
 ----------------------------------------------------------------------
 --
 
-Muster des Schifferpatentes C
-(85 mm X 54 mm - Grundfarbe blau,
 
-### Anlage 2 entsprechend ISO-Norm 78.10)
+### Anlage 2 Muster des Schifferpatentes C (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3081
 ----------------------------------------------------------------------
@@ -1593,10 +1589,8 @@ I
 ----------------------------------------------------------------------
 --
 
-Muster des Feuerlöschbootpatentes
-(85 mm X 54 mm - Grundfarbe blau,
 
-### Anlage 3 entsprechend ISO-Norm 78.10)
+### Anlage 3 Muster des Feuerlöschbootpatentes (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3082
 ----------------------------------------------------------------------
@@ -1668,10 +1662,8 @@ I
 ----------------------------------------------------------------------
 --
 
-Sportschifferzeugnis
-(85 mm x 54 mm - Grundfarbe blau,
 
-### Anlage 4 entsprechend ISO-Norm 78.10)
+### Anlage 4 Sportschifferzeugnis (85 mm x 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3083
 ----------------------------------------------------------------------
@@ -1743,10 +1735,8 @@ I
 ----------------------------------------------------------------------
 --
 
-Fährführerschein
-(85 mm x 54 mm - Grundfarbe blau,
 
-### Anlage 5 entsprechend ISO-Norm 78.10)
+### Anlage 5 Fährführerschein (85 mm x 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3084;
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -407,9 +407,8 @@ außer Kraft:
 
 
 
-(zu § 1)
 
-### Anlage Zeichen, Farben und Beschriftungen für Karten und Lagerisse der Bergbauberechtigungen
+### Anlage (zu § 1) Zeichen, Farben und Beschriftungen für Karten und Lagerisse der Bergbauberechtigungen
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl I 1982, 1557)

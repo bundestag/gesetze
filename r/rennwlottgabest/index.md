@@ -498,7 +498,7 @@ Auf Antrag kann die Vorlegung und Prüfung in den Geschäftsräumen des
 Vereins oder des Buchmachers geschehen.
 
 
-##### f) - \*Ku Nachzahlung \*KE
+##### f) - *Ku Nachzahlung *KE
 
 
 
@@ -507,7 +507,7 @@ Vereins oder des Buchmachers geschehen.
 -
 
 
-#### - - \*Ku Wettscheine \*KE
+#### - - *Ku Wettscheine *KE
 
 
 
@@ -1279,7 +1279,7 @@ dem Abschluß zu vermerken, daß die Rückstände in das neue Sollbuch
 vollständig und richtig übertragen worden sind.
 
 
-### - - - \*Ku Wettsteuerzeichenbuch \*KE
+### - - - *Ku Wettsteuerzeichenbuch *KE
 
 
 
@@ -1370,9 +1370,8 @@ Sollbuchs vorgeschriebenen Zeitpunkt einzusenden ist.
 
 Der Reichsminister der Finanzen
 
-Muster 1 bis Muster 14
 
-#### Anlage Zentralbl. 1922 S. 361 bis 371
+#### Anlage Muster 1 bis Muster 14 Zentralbl. 1922 S. 361 bis 371
 
 -
 

@@ -301,9 +301,8 @@ beziehen sollen, insbesondere aus folgenden Gebieten lösen:
 
 
 
-Gesellenprüfung zum Metallbildner/zur Metallbildnerin
 
-## § 8 Fachrichtung Gürtler- und Metalldrücktechnik
+## § 8 Gesellenprüfung zum Metallbildner/zur Metallbildnerin Fachrichtung Gürtler- und Metalldrücktechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -469,9 +468,8 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
 Leistungen erbracht sind.
 
-Gesellenprüfung zum Metallbildner/zur Metallbildnerin
 
-## § 9 Fachrichtung Ziseliertechnik
+## § 9 Gesellenprüfung zum Metallbildner/zur Metallbildnerin Fachrichtung Ziseliertechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -632,9 +630,8 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
 Leistungen erbracht sind.
 
-Gesellenprüfung zum Metallbildner/zur Metallbildnerin
 
-## § 10 Fachrichtung Goldschlagtechnik
+## § 10 Gesellenprüfung zum Metallbildner/zur Metallbildnerin Fachrichtung Goldschlagtechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -780,9 +777,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metallbildner/zur Metallbildnerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Metallbildner/zur Metallbildnerin
 
 (Fundstelle: BGBl. I 1998, S. 1011 - 1019)
 

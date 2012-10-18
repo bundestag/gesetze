@@ -508,7 +508,7 @@ Technik nach § 3 Abs. 2 des Patentgesetzes, wenn die in § 4 Abs. 2
 genannten Voraussetzungen erfüllt sind.
 
 
-## Art IV bis VI - 
+## Art IV bis VI -
 
 
 
@@ -520,7 +520,7 @@ dieses Gesetzes sind § 28 der Patentanwaltsordnung und § 28 der
 Bundesrechtsanwaltsordnung nicht anzuwenden.
 
 
-## Art VIII u. IX - 
+## Art VIII u. IX -
 
 
 

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über den elektronischen Rechtsverkehr beim  Bundesarbeitsgericht
+Title: Verordnung über den elektronischen Rechtsverkehr beim Bundesarbeitsgericht
 jurabk: ERVVOBAG
 layout: default
 origslug: ervvobag
@@ -7,7 +7,7 @@ slug: ervvobag
 
 ---
 
-# Verordnung über den elektronischen Rechtsverkehr beim  Bundesarbeitsgericht (ERVVOBAG)
+# Verordnung über den elektronischen Rechtsverkehr beim Bundesarbeitsgericht (ERVVOBAG)
 
 Ausfertigungsdatum
 :   2006-03-09

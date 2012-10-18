@@ -4170,7 +4170,7 @@ sei denn, daß der Verfolgte diese Staatsangehörigkeit erst nach
 Beendigung der Verfolgung erworben hat.
 
 
-## Fünfter Abschnitt - 
+## Fünfter Abschnitt -
 
 
 

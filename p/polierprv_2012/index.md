@@ -688,9 +688,8 @@ Nummer 17 und Artikel 2 § 1 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und §
 4 Nummer 8 der Verordnung vom 15. April 1999 (BGBl. I S. 711) geändert
 worden ist, außer Kraft.
 
-(zu § 2 Absatz 2)
 
-## Anlage 1 Profil des Werkpoliers und der Werkpolierin
+## Anlage 1 (zu § 2 Absatz 2) Profil des Werkpoliers und der Werkpolierin
 
 (Fundstelle: BGBl. I 2012, 1931)
 
@@ -810,9 +809,8 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
 
 
 
-(zu § 7 Absatz 7)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 7) Muster
 
 (Fundstelle: BGBl. I 2012, 1932)
 
@@ -868,9 +866,8 @@ September 2012 (BGBl. I S. 1926) bestanden.
 
 
 
-(zu § 7 Absatz 7)
 
-## Anlage 3 Muster
+## Anlage 3 (zu § 7 Absatz 7) Muster
 
 (Fundstelle: BGBl. I 2012, 1933 - 1934)
 

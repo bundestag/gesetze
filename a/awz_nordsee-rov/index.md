@@ -66,11 +66,8 @@ und einem Kartenteil, festgelegt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1)
-Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in
-der Nordsee
 
-## Anlage (Textteil und Kartenteil)
+## Anlage (zu § 1) Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Nordsee (Textteil und Kartenteil)
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 61, S. 3107 vom 25.
 September 2009, S. 1 - 34, gesonderte Karte)

@@ -568,9 +568,8 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
 
 (2) § 15 tritt am 29. November 2008 in Kraft.
 
-(zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)
 
-## Anlage 1 Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
+## Anlage 1 (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2) Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
 
 (Fundstelle: BGBl. I 2012, 186 - 187)
 
@@ -792,9 +791,8 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
 
 
 
-(zu § 18)
 
-## Anlage 2 Gebührenverzeichnis
+## Anlage 2 (zu § 18) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 188)
 

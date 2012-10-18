@@ -468,9 +468,8 @@ Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)
 
-## Anlage 1 Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
+## Anlage 1 (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3) Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
 
 (Fundstelle: BGBl. I 2011, 1416 - 1418)
 
@@ -981,9 +980,8 @@ Wirkungsfunktion mit Parametern festgelegt:
 
 
 
-(zu § 3 Absatz 2 Nummer 1)
 
-## Anlage 3 UV-Schutzbrillen
+## Anlage 3 (zu § 3 Absatz 2 Nummer 1) UV-Schutzbrillen
 
 (Fundstelle: BGBl. I 2011, 1419 )
 
@@ -993,9 +991,8 @@ Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und
 beim Deutschen Patent- und Markenamt archivmäßig gesichert
 niedergelegt), erfüllen.
 
-(zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)
 
-## Anlage 4 Geräte- und Betriebsbuch
+## Anlage 4 (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2) Geräte- und Betriebsbuch
 
 (Fundstelle: BGBl. I 2011, 1420 - 1422)
 
@@ -1480,9 +1477,8 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
     Äquivalenzbescheinigungen sind dem Geräte- und Betriebsbuch als Anlage
     beizufügen.
 [^F775557_04_BJNR141200011BJNE001700000]: 
-(zu § 4 Absatz 1 bis 3)
 
-## Anlage 5 Dosierungsplan
+## Anlage 5 (zu § 4 Absatz 1 bis 3) Dosierungsplan
 
 (Fundstelle: BGBl. I 2011, 1423)
 
@@ -1695,9 +1691,8 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 
     Ausschlusskriterium: UV-Bestrahlungsgerät sollte nicht genutzt werden.
 [^F5_775557_BJNR141200011BJNE001800000]: 
-(zu § 5 Absatz 1 Satz 1)
 
-## Anlage 6 Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
+## Anlage 6 (zu § 5 Absatz 1 Satz 1) Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
 
 (Fundstelle: BGBl. I 2011, 1424 - 1425)
 
@@ -1859,9 +1854,8 @@ fachlich korrektes Beratungsgespräch zu führen und auf Kundenfragen
 zur UV-Bestrahlung und zu den damit verbundenen gesundheitlichen
 Risiken zu antworten.
 
-(zu § 7 Absatz 1)
 
-## Anlage 7 Hinweise im Geschäftsraum und in der Kabine
+## Anlage 7 (zu § 7 Absatz 1) Hinweise im Geschäftsraum und in der Kabine
 
 (Fundstelle: BGBl. I 2011, 1426)
 
@@ -1993,9 +1987,8 @@ Aus Gründen des Gesundheitsschutzes wird empfohlen:
 Bei Bedarf/Bei Interesse können Sie gerne eine persönliche Beratung
 von unserem qualifizierten Fachpersonal erhalten.
 
-(zu § 7 Absatz 4)
 
-## Anlage 8 Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
+## Anlage 8 (zu § 7 Absatz 4) Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
 
 (Fundstelle: BGBl. I 2011, 1427 - 1428)
 

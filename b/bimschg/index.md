@@ -3761,7 +3761,7 @@ Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht
 abgewichen werden.
 
 
-### Anlage (zu § 3 Abs. 6) \*% Kriterien zur Bestimmung des Standes der Technik
+### Anlage (zu § 3 Abs. 6) *% Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3855;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -684,9 +684,8 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
-(zu § 7 Abs. 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Abs. 3) Muster
 
 (Fundstelle: BGBl. I 2008, 114,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -737,9 +736,8 @@ bestanden.
 
 
 
-(zu § 7 Abs. 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Abs. 3) Muster
 
 (Fundstelle: BGBl. I 2008, 115 - 116,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

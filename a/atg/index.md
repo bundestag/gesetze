@@ -3659,9 +3659,8 @@ Freigrenze ist die Aktivität oder Menge, bis zu der es für den Umgang
 einer Genehmigung oder Anzeige nach diesem Gesetz oder einer darauf
 beruhenden Rechtsverordnung nicht bedarf.
 
-(zu § 7 Absatz 1a)
 
-### Anlage 3 Elektrizitätsmengen nach § 7 Absatz 1a
+### Anlage 3 (zu § 7 Absatz 1a) Elektrizitätsmengen nach § 7 Absatz 1a
 
 (Fundstelle: BGBl. I 2010, 1815; bzgl. einzelner Änderungen vgl.
 Fußnote)

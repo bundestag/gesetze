@@ -298,11 +298,8 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im
-Luftverkehr/zur Servicekauffrau im Luftverkehr
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im Luftverkehr/zur Servicekauffrau im Luftverkehr - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, 613 - 617)
 
@@ -992,11 +989,8 @@ Luftverkehr/zur Servicekauffrau im Luftverkehr
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im
-Luftverkehr/zur Servicekauffrau im Luftverkehr
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im Luftverkehr/zur Servicekauffrau im Luftverkehr - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, 618 - 620)
 

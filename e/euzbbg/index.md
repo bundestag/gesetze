@@ -438,9 +438,8 @@ Rechnung.
 Weitere Einzelheiten werden in der Vereinbarung zwischen dem Deutschen
 Bundestag und der Bundesregierung geregelt.
 
-(zu § 7 Absatz 1)
 
-## Anlage Berichtsbogen
+## Anlage (zu § 7 Absatz 1) Berichtsbogen
 
 (Fundstelle: BGBl. I 2009, 3029)
 

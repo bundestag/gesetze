@@ -639,9 +639,8 @@ den Verkehr gebracht werden.
 
 -
 
-(zu § 4 Abs. 1)
 
-### Anlage 1 Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
+### Anlage 1 (zu § 4 Abs. 1) Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1260)
 Zuständige Stelle: ............................
@@ -688,9 +687,8 @@ gewähren.
 (Ort, Datum)                           (Unterschrift des
 Antragstellers)
 
-(zu § 5 Abs. 2)
 
-### Anlage 2 Bewertungsschema für Deutschen Weinbrand
+### Anlage 2 (zu § 5 Abs. 2) Bewertungsschema für Deutschen Weinbrand
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1261)
 
@@ -898,9 +896,8 @@ Antragstellers)
 
 
 
-(zu § 5 Abs. 3 Nr. 1)
 
-### Anlage 3 Abkürzungen der Bundesländer
+### Anlage 3 (zu § 5 Abs. 3 Nr. 1) Abkürzungen der Bundesländer
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
@@ -978,9 +975,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
 
 
-(zu § 9 und § 9a Abs. 2)
 
-### Anlage 4 Spirituosen mit geographischen Angaben
+### Anlage 4 (zu § 9 und § 9a Abs. 2) Spirituosen mit geographischen Angaben
 
 ( Fundstelle des Originaltextes: BGBl. I 2003, 1263;
 bzgl. der einzelnen Änderungen vgl. Fußnote )

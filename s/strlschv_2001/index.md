@@ -7170,9 +7170,8 @@ Anwendungsbereich dieser Verordnung anfallen.
 
 (6) (weggefallen)
 
-(zu §§ 8, 12, 17, 21)
 
-#### Anlage I Genehmigungsfreie Tätigkeiten
+#### Anlage I (zu §§ 8, 12, 17, 21) Genehmigungsfreie Tätigkeiten
 
 (Fundstelle: BGBl. I 2001, 1766;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7242,9 +7241,8 @@ deren
 
 
 
-(zu §§ 9, 14, 107)
 
-#### Anlage II Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
+#### Anlage II (zu §§ 9, 14, 107) Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1767
 
@@ -7331,10 +7329,8 @@ Abs. 2
 
 
 
-(zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71,
-105, 106, 107, 117)
 
-#### Anlage III Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
+#### Anlage III (zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71, 105, 106, 107, 117) Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
 
 (Fundstelle: BGBl. I 2001, 1768 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -29836,9 +29832,8 @@ Freigabe zugrunde gelegt werden:
 
 
 
-(zu § 29)
 
-#### Anlage IV Festlegungen zur Freigabe
+#### Anlage IV (zu § 29) Festlegungen zur Freigabe
 
 (Fundstelle: BGBl. I 2001, 1802 - 1803;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30172,9 +30167,8 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
-(zu § 25)
 
-#### Anlage V Voraussetzungen für die Bauartzulassung von Vorrichtungen
+#### Anlage V (zu § 25) Voraussetzungen für die Bauartzulassung von Vorrichtungen
 
 (Fundstelle: BGBl. I 2001, 1804;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30266,9 +30260,8 @@ normalen Betriebsbedingungen nicht überschreiten.
 
 
 
-(zu §§ 3, 47, 49, 55, 95, 117)
 
-#### Anlage VI Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
+#### Anlage VI (zu §§ 3, 47, 49, 55, 95, 117) Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1805 - 1807
 
@@ -30689,9 +30682,8 @@ T
     für dieses Organ oder Gewebe und ein Wichtungsfaktor von 0,025 für die
     mittlere Organdosis der restlichen Organe oder Gewebe gesetzt werden.
 [^BJNR171410001BJNE012400305_002]: 
-(zu §§ 29 und 47)
 
-#### Anlage VII Annahmen bei der Ermittlung der Strahlenexposition
+#### Anlage VII (zu §§ 29 und 47) Annahmen bei der Ermittlung der Strahlenexposition
 
 (Fundstelle: BGBl. I 2001, 1808 - 1825;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38165,9 +38157,8 @@ Anlage VII Teil D Nr. 1.1 und 2)
 
 
 
-(zu §§ 61, 62, 63)
 
-#### Anlage VIII Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
+#### Anlage VIII (zu §§ 61, 62, 63) Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
 
 (Fundstelle: BGBl. I 2001, 1826;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38220,9 +38211,8 @@ Nächste Beurteilung oder Untersuchung:
 Ort, Datum           Unterschrift         Stempel mit Anschrift des
 Arztes nach § 64 Abs. 1 Satz 1
 
-(zu § 68)
 
-#### Anlage IX Strahlenzeichen
+#### Anlage IX (zu § 68) Strahlenzeichen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1827
 
@@ -38230,9 +38220,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 1827
 Kennzeichen: schwarz
 Untergrund:  gelb
 
-(zu §§ 72 bis 79)
 
-#### Anlage X Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
+#### Anlage X (zu §§ 72 bis 79) Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1828 - 1831;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39812,9 +39801,8 @@ zu enthalten:
 
 
 
-(zu §§ 93, 95, 96)
 
-#### Anlage XI Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
+#### Anlage XI (zu §§ 93, 95, 96) Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
 
 (Fundstelle: BGBl. I 2001, 1832;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39877,9 +39865,8 @@ Arbeiten in
 
 
 
-(zu §§ 97 bis 102)
 
-#### Anlage XII Verwertung und Beseitigung überwachungsbedürftiger Rückstände
+#### Anlage XII (zu §§ 97 bis 102) Verwertung und Beseitigung überwachungsbedürftiger Rückstände
 
 (Fundstelle: BGBl. I 2001, 1833 - 1834;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -40204,9 +40191,8 @@ verwenden. Im Fall des § 98 Abs. 2 Satz 2 sind die Dosiskoeffizienten
 aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b vom 28.
 August 2001 Teil I und III zu verwenden.
 
-(zu §§ 51 und 53)
 
-#### Anlage XIII Information der Bevölkerung
+#### Anlage XIII (zu §§ 51 und 53) Information der Bevölkerung
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1835
 
@@ -40330,9 +40316,8 @@ Die Information muss sich erstrecken auf:
 
 
 
-(zu § 48 Abs. 4))
 
-#### Anlage XIV Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
+#### Anlage XIV (zu § 48 Abs. 4)) Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1836;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -40378,9 +40363,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu §§ 70, 70a und 71)
 
-#### Anlage XV Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
+#### Anlage XV (zu §§ 70, 70a und 71) Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
 
 (... nicht darstellbares Standarderfassungsblatt;
 Fundstelle: BGBl. I 2005, 2404;

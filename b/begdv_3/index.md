@@ -335,9 +335,8 @@ Lebensaltersstufen gegliedert, ausweist.
 
 (2) § 14 findet Anwendung.
 
-Erhöhung des monatlichen Höchstbetrages der Rente
 
-##### § 22a (§ 83 Abs. 2 des Bundesentschädigungsgesetzes)
+##### § 22a Erhöhung des monatlichen Höchstbetrages der Rente (§ 83 Abs. 2 des Bundesentschädigungsgesetzes)
 
 (Fundstelle: BGBl. I 1983, 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1618,9 +1617,8 @@ Beruf nicht mehr als 50 vom Hundert arbeitsfähig ist, frühestens
 jedoch vom 1. November 1953 an. Bei Frauen tritt an Stelle des 65. das
 60\. Lebensjahr.
 
-Erhöhung des monatlichen Höchstbetrages der Rente
 
-##### § 33a (§ 95 Abs. 1 des Bundesentschädigungsgesetzes)
+##### § 33a Erhöhung des monatlichen Höchstbetrages der Rente (§ 95 Abs. 1 des Bundesentschädigungsgesetzes)
 
 (Fundstelle: BGBl. I 1983, 1321;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4622,16 +4620,14 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 §§ 16, 18 und 31
 mit Wirkung vom 18. September 1965.
 
-zu den §§ 12 und 21 der 3.DV-BEG
 
-### Anlage 1 Einkommensübersicht
+### Anlage 1 zu den §§ 12 und 21 der 3.DV-BEG Einkommensübersicht
 
 (Inhalt: nicht darstellbare Tabelle
 Fundstelle: BGBl. I 1983, 118 bis 119)
 
-zu § 13 der 3.DV-BEG
 
-### Anlage 2 Besoldungsübersicht Kapitalentschädigung
+### Anlage 2 zu § 13 der 3.DV-BEG Besoldungsübersicht Kapitalentschädigung
 
 Fundstelle des Originaltextes: BGBl. I 1966, 309
 
@@ -4916,9 +4912,8 @@ Fundstelle des Originaltextes: BGBl. I 1966, 309
 
 
 
-zu § 14 der 3.DV-BEG
 
-### Anlage 3 Besoldungsübersicht
+### Anlage 3 zu § 14 der 3.DV-BEG Besoldungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1966, 310
 
@@ -5017,9 +5012,8 @@ Fundstelle des Originaltextes: BGBl. I 1966, 310
 
 
 
-zu den §§ 15 und 17 der 3. DV-BEG
 
-### Anlage 4 Besoldungsübersicht
+### Anlage 4 zu den §§ 15 und 17 der 3. DV-BEG Besoldungsübersicht
 
 (Fundstelle: BGBl. I 1983, 1323 - 1326;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7721,9 +7715,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 22 der 3. DV-BEG)
 
-### Anlage 5a Besoldungsübersicht Rente
+### Anlage 5a (zu § 22 der 3. DV-BEG) Besoldungsübersicht Rente
 
 (Fundstelle des Originaltextes: BGBl. I 1966, 313 bis 315)
 
@@ -9363,9 +9356,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 22 der 3.DV-BEG)
 
-### Anlage 5b Besoldungsübersicht Rente
+### Anlage 5b (zu § 22 der 3.DV-BEG) Besoldungsübersicht Rente
 
 Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
 
@@ -10266,9 +10258,8 @@ Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
 
 
 
-zu § 22 der 3. DV-BEG
 
-### Anlage 5c Besoldungsübersicht Rente
+### Anlage 5c zu § 22 der 3. DV-BEG Besoldungsübersicht Rente
 
 (Fundstelle: BGBl. I 1983, 1326 - 1330;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

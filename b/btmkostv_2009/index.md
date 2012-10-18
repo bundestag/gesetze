@@ -102,9 +102,8 @@ oder, wenn kein Antrag erforderlich ist, beendet worden ist.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage 1 Gebührenverzeichnis
+## Anlage 1 (zu § 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 1676 - 1677)
 

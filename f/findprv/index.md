@@ -917,9 +917,8 @@ Anwendung.
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
-(zu § 7 Absatz 4)
 
-### Anlage 1 Muster
+### Anlage 1 (zu § 7 Absatz 4) Muster
 
 (Fundstelle: BGBl. I 2012, 281)
 
@@ -972,9 +971,8 @@ Februar 2012 (BGBl. I S. 274) bestanden.
 
 
 
-(zu § 7 Absatz 4)
 
-### Anlage 2 Muster
+### Anlage 2 (zu § 7 Absatz 4) Muster
 
 (Fundstelle: BGBl. I 2012, 282)
 
@@ -1125,9 +1123,8 @@ Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
 [^f1775540_01_BJNR027400012BJNE002100000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .......................
 
-(zu § 14 Absatz 3)
 
-### Anlage 3 Muster
+### Anlage 3 (zu § 14 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 283)
 
@@ -1180,9 +1177,8 @@ Februar 2012 (BGBl. I S. 274) bestanden.
 
 
 
-(zu § 14 Absatz 3)
 
-### Anlage 4 Muster
+### Anlage 4 (zu § 14 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 284 - 285)
 

@@ -4301,7 +4301,7 @@ b)  Enthält das Abtriebserzeugnis Weingeist, so ist es zu vernichten oder
 
 
 
-##### 6. - \*Ku Ausländischer Wein \*KE
+##### 6. - *Ku Ausländischer Wein *KE
 
 
 
@@ -4380,9 +4380,8 @@ oder unter amtlicher Aufsicht zu vernichten. Er darf auch zunächst
 unter amtlichen Verschluß genommen werden, um später dem Betrieb
 wieder zugeführt oder amtlich vernichtet zu werden.
 
-Störungen und Gefährdungen der Sicherungsmaßnahmen.
 
-##### 11. - Störungen im Gange amtlicher Meßuhren
+##### 11. - Störungen und Gefährdungen der Sicherungsmaßnahmen. Störungen im Gange amtlicher Meßuhren
 
 
 
@@ -5085,7 +5084,7 @@ Abfertigungsantrag geändert wird.
 (weggefallen)
 
 
-#### 6. Ausführung der Abnahme - 
+#### 6. Ausführung der Abnahme -
 
 
 
@@ -5490,7 +5489,7 @@ das durchschnittliche Jahresbrennrecht dieser Abzugstufe, gilt der
 zuletzt festgesetzte Betriebsabzug.
 
 
-#### § 213d Ermittlung des Betriebsabzugs bei der Nutzungsüberlassung von  Brennrechten, der Zusammenlegung von Brennereien sowie der Übertragung von  Brennrechten nach § 42 Abs. 1, 3 und § 42a des Gesetzes
+#### § 213d Ermittlung des Betriebsabzugs bei der Nutzungsüberlassung von Brennrechten, der Zusammenlegung von Brennereien sowie der Übertragung von Brennrechten nach § 42 Abs. 1, 3 und § 42a des Gesetzes
 
 (1) Wird nach § 42a des Gesetzes das Brennrecht einer Brennerei auf
 Antrag ganz oder teilweise einer oder mehreren anderen Brennereien
@@ -5593,7 +5592,7 @@ gezahltes Übernahmegeld zurückzuzahlen. § 217 Abs. 2 ist entsprechend
 anzuwenden.
 
 
-### 5. - \*Ku Angaben der Zollstellen \*KE
+### 5. - *Ku Angaben der Zollstellen *KE
 
 
 

@@ -1295,7 +1295,7 @@ versicherten Angehörigen Leistungen längstens für einen Monat nach dem
 Tode des Mitglieds.
 
 
-### Dritter Abschnitt - Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter  Gesundheitsgefahren, Förderung der Selbsthilfe
+### Dritter Abschnitt - Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter Gesundheitsgefahren, Förderung der Selbsthilfe
 
 
 
@@ -10510,7 +10510,7 @@ Kosten zu bestimmen.
 
 
 
-#### § 115 Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen,  Krankenhäusern und Vertragsärzten
+#### § 115 Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen, Krankenhäusern und Vertragsärzten
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam und die Kassenärztlichen Vereinigungen schließen mit der
@@ -13988,7 +13988,7 @@ verringern. Ergänzende Morbiditätskriterien sollen berücksichtigt
 werden.
 
 
-### Zwölfter Abschnitt. - Beziehungen zu Leistungserbringern in  Staaten, in denen die Verordnung (EWG) Nr. 1408/71 anzuwenden ist
+### Zwölfter Abschnitt. - Beziehungen zu Leistungserbringern in Staaten, in denen die Verordnung (EWG) Nr. 1408/71 anzuwenden ist
 
 
 
@@ -17139,7 +17139,7 @@ beitragspflichtigen Einnahme nach § 163 Absatz 10 Satz 1 bis 5 und 8
 des Sechsten Buches entsprechend.
 
 
-##### § 227 Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die  gesetzliche Krankenversicherung und bisher nicht Versicherter
+##### § 227 Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die gesetzliche Krankenversicherung und bisher nicht Versicherter
 
 Für die nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen gilt § 240
 entsprechend.
@@ -18540,11 +18540,11 @@ Jugendhilfe von der jeweiligen Krankenkasse verlangen, die
 Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
 
 
-#### Erster Titel - 
+#### Erster Titel -
 
 
 
-### Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem  Gesundheitsfonds
+### Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds
 
 
 

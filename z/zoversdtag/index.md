@@ -317,9 +317,8 @@ Satz 2 BeamtVG) - vorbehalten sind:
 
 Diese Anordnung tritt am 1. Januar 1997 in Kraft.
 
-(zu Abschnitt I Abs. 2)
 
-## Anlage Standorte der Ressorts Versorgungsservice (Rs VeS) der Deutschen Telekom AG mit Arbeitsbezirken
+## Anlage (zu Abschnitt I Abs. 2) Standorte der Ressorts Versorgungsservice (Rs VeS) der Deutschen Telekom AG mit Arbeitsbezirken
 
 (... nicht darstellbare Karte der Bundesrepublik Deutschland;
 Fundstelle: BGBl. I 1997, 2291)

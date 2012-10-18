@@ -2409,7 +2409,7 @@ erlassen über
 
 
 
-### § 26a Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das  Unternehmensregister
+### § 26a Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das Unternehmensregister
 
 Ein Inlandsemittent hat die Gesamtzahl der Stimmrechte am Ende eines
 jeden Kalendermonats, in dem es zu einer Zu- oder Abnahme von
@@ -2589,7 +2589,7 @@ landeseinheitliche gesetzlich anerkannte Feiertage sind.
 Kalender der Handelstage zur Verfügung.
 
 
-## Abschnitt 5a - Notwendige Informationen für die Wahrnehmung von  Rechten aus Wertpapieren
+## Abschnitt 5a - Notwendige Informationen für die Wahrnehmung von Rechten aus Wertpapieren
 
 
 
@@ -2782,7 +2782,7 @@ spätestens aber zum Zeitpunkt der Einberufung des Beschlussorgans
 mitteilen.
 
 
-### § 30d Vorschriften für Emittenten aus der Europäischen Union und dem  Europäischen Wirtschaftsraum
+### § 30d Vorschriften für Emittenten aus der Europäischen Union und dem Europäischen Wirtschaftsraum
 
 Die Vorschriften der §§ 30a bis 30c finden auch Anwendung auf
 Emittenten, für die nicht die Bundesrepublik Deutschland, sondern ein
@@ -3663,7 +3663,7 @@ nach § 31 Abs. 1 Satz 1 Nr. 1 zu gefährden, sind von dem Verbot nach
 Absatz 1 ausgenommen.
 
 
-### § 31e Erbringung von Wertpapierdienstleistungen und  Wertpapiernebendienstleistungen über ein anderes  Wertpapierdienstleistungsunternehmen
+### § 31e Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen über ein anderes Wertpapierdienstleistungsunternehmen
 
 Erhält ein Wertpapierdienstleistungsunternehmen über ein anderes
 Wertpapierdienstleistungsunternehmen einen Auftrag,
@@ -3893,7 +3893,7 @@ diesen Größen liegt, nach Maßgabe der Absätze 1 bis 3 zu einem der
 quotierten Preise ausführen.
 
 
-### § 32d Zugang zu Quotes, Geschäftsbedingungen bei systematischer  Internalisierung
+### § 32d Zugang zu Quotes, Geschäftsbedingungen bei systematischer Internalisierung
 
 (1) Ein systematischer Internalisierer im Sinne des § 32 Satz 1 hat
 den Zugang zu den von ihm veröffentlichten Quotes in objektiver und
@@ -5180,7 +5180,7 @@ Finanztermingeschäften sind nur verbindlich, wenn beide Vertragsteile
 Kaufleute oder juristische Personen des öffentlichen Rechts sind.
 
 
-## Abschnitt 10 - Märkte für Finanzinstrumente mit Sitz außerhalb  der Europäischen Union
+## Abschnitt 10 - Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union
 
 
 
@@ -5303,7 +5303,7 @@ dieses elektronische Handelssystem ohne Erlaubnis gewähren.
 -
 
 
-## Abschnitt 11 - Überwachung von Unternehmensabschlüssen,  Veröffentlichung von Finanzberichten
+## Abschnitt 11 - Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten
 
 
 
@@ -5517,7 +5517,7 @@ bis 58 des Wertpapiererwerbs- und Übernahmegesetzes gelten
 entsprechend.
 
 
-### Unterabschnitt 2 - Veröffentlichung und Übermittlung von  Finanzberichten an das Unternehmensregister
+### Unterabschnitt 2 - Veröffentlichung und Übermittlung von Finanzberichten an das Unternehmensregister
 
 
 

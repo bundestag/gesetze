@@ -458,9 +458,8 @@ Diese Verordnung tritt am 1. September 1970 in Kraft.
 Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung
 
-(zu § 2 Abs. 1 der Verordnung)
 
-## Anlage 1 Erkrankungen, gesundheitliche Schäden und Schwächen, die die Seediensttauglichkeit ausschließen
+## Anlage 1 (zu § 2 Abs. 1 der Verordnung) Erkrankungen, gesundheitliche Schäden und Schwächen, die die Seediensttauglichkeit ausschließen
 
 
 1.  Allgemeine Körperschwäche;
@@ -614,10 +613,8 @@ Der Bundesminister für Arbeit und Sozialordnung
 
 
 
-(zu § 7 Abs. 1 der Verordnung)
-Muster des Seediensttauglichkeitszeugnisses
 
-## Anlage 2 - Umschlag im Format DIN A7 -
+## Anlage 2 (zu § 7 Abs. 1 der Verordnung) Muster des Seediensttauglichkeitszeugnisses - Umschlag im Format DIN A7 -
 
 Fundstelle des Originaltextes: BGBl I 1970, 1247
 See-Berufsgenossenschaft
@@ -645,10 +642,8 @@ Ohne gültiges Seediensttauglichkeitszeugnis darf kein Seemann
 anmustern.
 Es ist deshalb sorgfältig zu verwahren.
 
-(zu § 7 Abs. 1 der Verordnung)
-Muster für die Anlage zum Seediensttauglichkeitszeugnis
 
-## Anlage 3 im Format DIN A5
+## Anlage 3 (zu § 7 Abs. 1 der Verordnung) Muster für die Anlage zum Seediensttauglichkeitszeugnis im Format DIN A5
 
 Fundstelle des Originaltextes: BGBl. I 1970, 1247 - 1248
 Titelblatt
@@ -712,9 +707,8 @@ Gründe einer Einschränkung der Geltungsdauer des
 Seediensttauglichkeitszeugnisses oder des Fahrtgebiets mit Ort, Tag,
 Unterschrift des Arztes und Dienststempel)
 
-(zu § 7 Abs. 1 der Verordnung)
 
-## Anlage 4 Muster der Siegelmarke
+## Anlage 4 (zu § 7 Abs. 1 der Verordnung) Muster der Siegelmarke
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle des Originaltextes: BGBl. I 1970, 1249)
@@ -750,9 +744,8 @@ des
 ermächtigten Arztes
 \*) Nichtzutreffendes streichen.
 
-(zu § 14 Abs. 3 der Verordnung)
 
-## Anlage 6 Muster einer Bescheinigung zur Vorlage zum Erwerb von Befähigungszeugnissen
+## Anlage 6 (zu § 14 Abs. 3 der Verordnung) Muster einer Bescheinigung zur Vorlage zum Erwerb von Befähigungszeugnissen
 
 Fundstelle des Originaltextes: BGBl. I 1970, 1251
 See-Berufsgenossenschaft
@@ -788,9 +781,8 @@ Ausstellungsort und -tag             Unterschrift und Dienststempel
 des
 ermächtigten Arztes
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1109)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1109)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

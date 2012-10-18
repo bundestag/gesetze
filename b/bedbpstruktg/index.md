@@ -67,7 +67,7 @@ Sozialangelegenheiten des Direktoriums der Deutschen Bundespost oder
 dessen nachgeordneten Bereich angehört hat.
 
 
-## § 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des  Bundeseisenbahnvermögens
+## § 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des Bundeseisenbahnvermögens
 
 (1) Beamtinnen und Beamte des Bundeseisenbahnvermögens, die von
 Umstrukturierungsmaßnahmen bei der Deutsche Bahn Aktiengesellschaft

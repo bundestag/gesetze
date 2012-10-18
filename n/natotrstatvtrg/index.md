@@ -139,7 +139,7 @@ Artikels 75 Abs. 1 Buchstabe b des Zusatzabkommens ist jede
 Staatsanwaltschaft im Geltungsbereich dieses Gesetzes zuständig.
 
 
-#### Art 4a - 
+#### Art 4a -
 
 Die in Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-
 Truppenstatuts geregelte Zusammenarbeit in strafrechtlichen
@@ -484,7 +484,7 @@ Umfang gewährt werden, wenn der Anspruch dem Grunde nach
 gerechtfertigt ist.
 
 
-#### Art 14 - 
+#### Art 14 -
 
 Für Anträge, die einen Anspruch auf Ersatzleistung wegen
 Manöverschäden (§ 76 des Bundesleistungsgesetzes) zum Gegenstand
@@ -521,7 +521,7 @@ haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
 
 
 
-#### Art 15 - 
+#### Art 15 -
 
 -
 
@@ -530,7 +530,7 @@ haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
 
 
 
-#### Art 16 u. 17 - 
+#### Art 16 u. 17 -
 
 -
 
@@ -680,7 +680,7 @@ der Straße erforderlichen Bedingungen festzulegen.
 Beteiligten vorauszugehen.
 
 
-#### Art 23 - 
+#### Art 23 -
 
 Ist eine Straße, deren Baulastträger nicht der Bund ist, in das gemäß
 Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu vereinbarende
@@ -700,7 +700,7 @@ die Ersparnis von Aufwendungen zu berücksichtigen.
 
 
 
-#### Art 24 - 
+#### Art 24 -
 
 -
 

@@ -575,9 +575,8 @@ entsprechend § 4 Abs. 1, § 5 Abs. 1 und § 6 Abs. 1.
 2) Benennung der Prüfungsfächer in der jeweiligen Fachrichtung
 entsprechend § 7 Abs. 1, § 8 Abs. 1 und § 9 Abs. 1.
 
-Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

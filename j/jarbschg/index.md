@@ -1096,9 +1096,8 @@ Gemeinschaft aufgenommen, so muß er
 Anforderungen die Unterkunft (Absatz 1 Nr. 1) und die Pflege bei
 Erkrankungen (Absatz 1 Nr. 2) genügen müssen.
 
-Züchtigungsverbot,
 
-#### § 31 Verbot der Abgabe von Alkohol und Tabak
+#### § 31 Züchtigungsverbot, Verbot der Abgabe von Alkohol und Tabak
 
 (1) Wer Jugendliche beschäftigt oder im Rahmen eines
 Rechtsverhältnisses im Sinne des § 1 beaufsichtigt, anweist oder

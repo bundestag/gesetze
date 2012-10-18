@@ -349,7 +349,7 @@ Soweit nicht ein Gesetz etwas anderes vorschreibt, werden die
 Eintragungen ihrem ganzen Inhalt nach veröffentlicht.
 
 
-#### § 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen  Union
+#### § 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen Union
 
 (1) Die zum Handelsregister einzureichenden Dokumente sowie der Inhalt
 einer Eintragung können zusätzlich in jeder Amtssprache eines
@@ -3891,9 +3891,8 @@ einer Restlaufzeit von einem Jahr oder weniger sind § 253 Abs. 1 Satz
 #### Dritter Unterabschnitt - Aufbewahrung und Vorlage
 
 
-Aufbewahrung von Unterlagen
 
-##### § 257 Aufbewahrungsfristen
+##### § 257 Aufbewahrung von Unterlagen Aufbewahrungsfristen
 
 (1) Jeder Kaufmann ist verpflichtet, die folgenden Unterlagen geordnet
 aufzubewahren:
@@ -4610,9 +4609,8 @@ Berufsausbildung Beschäftigten.
 (6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen
 nach anderen Gesetzen bleiben unberührt.
 
-Vorschriften zu einzelnen Posten der Bilanz
 
-###### § 268 Bilanzvermerke
+###### § 268 Vorschriften zu einzelnen Posten der Bilanz Bilanzvermerke
 
 (1) Die Bilanz darf auch unter Berücksichtigung der vollständigen oder
 teilweisen Verwendung des Jahresergebnisses aufgestellt werden. Wird
@@ -6192,9 +6190,8 @@ zulässig. Sie sind im Konzernanhang anzugeben und zu begründen. Ihr
 Einfluß auf die Vermögens-, Finanz- und Ertragslage des Konzerns ist
 anzugeben.
 
-Anzuwendende Vorschriften
 
-###### § 298 Erleichterungen
+###### § 298 Anzuwendende Vorschriften Erleichterungen
 
 (1) Auf den Konzernabschluß sind, soweit seine Eigenart keine
 Abweichung bedingt oder in den folgenden Vorschriften nichts anderes
@@ -6246,9 +6243,8 @@ Konzernanhang anzugeben.
 ##### Vierter Titel - Vollkonsolidierung
 
 
-Konsolidierungsgrundsätze
 
-###### § 300 Vollständigkeitsgebot
+###### § 300 Konsolidierungsgrundsätze Vollständigkeitsgebot
 
 (1) In dem Konzernabschluß ist der Jahresabschluß des
 Mutterunternehmens mit den Jahresabschlüssen der Tochterunternehmen
@@ -8247,9 +8243,8 @@ Vereinfachungen gewährt werden.
 (5) Die Absätze 3 und 4 sind auf Pensionsfonds (§ 112 Abs. 1 des
 Versicherungsaufsichtsgesetzes) entsprechend anzuwenden.
 
-Straf- und Bußgeldvorschriften
 
-#### Sechster Unterabschnitt - Ordnungsgelder
+#### Sechster Unterabschnitt - Straf- und Bußgeldvorschriften Ordnungsgelder
 
 
 
@@ -10090,7 +10085,7 @@ von Ordnungsgeld nach § 335 anzuhalten. § 335 Abs. 1 Satz 2 ist
 entsprechend anzuwenden.
 
 
-###### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf  Pensionsfonds
+###### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
 
 Die Strafvorschriften des § 341m, die Bußgeldvorschrift des § 341n
 sowie die Ordnungsgeldvorschrift des § 341o gelten auch für
@@ -16001,7 +15996,7 @@ nach den Umständen des Falles in geeigneter Weise wahrzunehmen.
 -
 
 
-### Sechster Abschnitt - 
+### Sechster Abschnitt -
 
 
 

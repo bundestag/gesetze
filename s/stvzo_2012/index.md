@@ -7443,9 +7443,8 @@ München archivmäßig gesichert niedergelegt.
 ### (XXXX) Anlage I bis VII (weggefallen)
 
 
-(§ 29 Absatz 1 bis 4, 7, 9, 11 und 13)
 
-### Anlage VIII Untersuchung der Fahrzeuge
+### Anlage VIII (§ 29 Absatz 1 bis 4, 7, 9, 11 und 13) Untersuchung der Fahrzeuge
 
 (Fundstelle: BGBl. I 2012, 734 - 740;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8428,9 +8427,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2)
 
-### Anlage VIIIa Durchführung der Hauptuntersuchung
+### Anlage VIIIa (§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2) Durchführung der Hauptuntersuchung
 
 (Fundstelle: BGBl. I 2012, 1105 - 1114)
 
@@ -10470,9 +10468,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Abgasverhaltens verzichtet werden, wenn die Prüfung über das OBD-
     System ohne Beanstandung bleibt.
 [^f1776594_02_01_BJNR067910012BJNE012301308]: 
-(Anlage VIII Nummer 3.1 und 3.2)
 
-### Anlage VIIIb Anerkennung von Überwachungsorganisationen
+### Anlage VIIIb (Anlage VIII Nummer 3.1 und 3.2) Anerkennung von Überwachungsorganisationen
 
 (Fundstelle: BGBl. I 2012, 748 - 751;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10845,9 +10842,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(Anlage VIII Nummer 3.1.1.1 und 3.2)
 
-### Anlage VIIIc Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Sicherheitsprüfungen und/oder Untersuchungen der Abgase sowie Schulung der verantwortlichen Personen und Fachkräfte
+### Anlage VIIIc (Anlage VIII Nummer 3.1.1.1 und 3.2) Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Sicherheitsprüfungen und/oder Untersuchungen der Abgase sowie Schulung der verantwortlichen Personen und Fachkräfte
 
 (Fundstelle: BGBl. I 2012, 752 - 755;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11287,9 +11283,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(Anlage VIII Nummer 4)
 
-### Anlage VIIId Untersuchungsstellen zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase und wiederkehrenden Gasanlagenprüfungen
+### Anlage VIIId (Anlage VIII Nummer 4) Untersuchungsstellen zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase und wiederkehrenden Gasanlagenprüfungen
 
 (Fundstelle: BGBl. I 2012, 756 - 761;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12153,9 +12148,8 @@ Abweichungen nach 4.2:
 
 
 
-(zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3)
 
-### Anlage VIIIe Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen
+### Anlage VIIIe (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3) Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen
 
 (Fundstelle: BGBl. I 2012, 1115 - 1118)
 
@@ -12538,9 +12532,8 @@ Abweichungen nach 4.2:
 
 
 
-(zu § 29 Absatz 2, 3, 5 bis 8)
 
-### Anlage IX Prüfplakette für die Untersuchung von Kraftfahrzeugen und Anhängern
+### Anlage IX (zu § 29 Absatz 2, 3, 5 bis 8) Prüfplakette für die Untersuchung von Kraftfahrzeugen und Anhängern
 
 (Fundstelle: BGBl. I 2012, 762)
 
@@ -12690,9 +12683,8 @@ Vorgeschriebene Abmessungen der Prüfplakette:
 ### Anlage IXa (weggefallen)
 
 
-(§ 29 Absatz 2 bis 8)
 
-### Anlage IXb Prüfmarke und SP-Schild für die Durchführung von Sicherheitsprüfungen
+### Anlage IXb (§ 29 Absatz 2 bis 8) Prüfmarke und SP-Schild für die Durchführung von Sicherheitsprüfungen
 
 (Fundstelle: BGBl. I 2012, 765 - 768)
 
@@ -13246,9 +13238,8 @@ Vorgeschriebene Abmessungen der Prüfplakette:
 
 
 
-(zu § 35e Absatz 4, §§ 35f, 35i)
 
-### Anlage X Fahrgasttüren, Notausstiege, Gänge und Anordnung von Fahrgastsitzen in Kraftomnibussen
+### Anlage X (zu § 35e Absatz 4, §§ 35f, 35i) Fahrgasttüren, Notausstiege, Gänge und Anordnung von Fahrgastsitzen in Kraftomnibussen
 
 (Fundstelle: BGBl. I 2012, 769 - 776)
 
@@ -14024,25 +14015,20 @@ Vorgeschriebene Abmessungen der Prüfplakette:
     erfüllt, wenn Öffnungen von 0,35 m Höhe und 1,55 m Breite bei
     Ausrundungsradien von 25 cm vorhanden sind.
 [^f776225_27_BJNR067910012BJNE013000000]: 
-(zu § 47a)
 
-### Anlage XI (weggefallen)
-
-
-(zu § 47a)
-
-### Anlage XIa (weggefallen)
+### Anlage XI (zu § 47a) (weggefallen)
 
 
-(zu § 47a Absatz 2 und § 47b Absatz 2)
 
-### Anlage XIb (weggefallen)
+### Anlage XIa (zu § 47a) (weggefallen)
 
 
-(§ 34 Absatz 4 Nummer 2 Buchstabe d, Absatz 5 Nummer 2 Buchstabe b und
-Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)
 
-### Anlage XII Bedingungen für die Gleichwertigkeit von Luftfederungen und bestimmten anderen Federungssystemen an der (den) Antriebsachse(n) des Fahrzeugs
+### Anlage XIb (zu § 47a Absatz 2 und § 47b Absatz 2) (weggefallen)
+
+
+
+### Anlage XII (§ 34 Absatz 4 Nummer 2 Buchstabe d, Absatz 5 Nummer 2 Buchstabe b und Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b) Bedingungen für die Gleichwertigkeit von Luftfederungen und bestimmten anderen Federungssystemen an der (den) Antriebsachse(n) des Fahrzeugs
 
 (Fundstelle: BGBl. I 2012, 778 - 779)
 
@@ -14182,9 +14168,8 @@ Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)
 
 
 
-(§ 34a Absatz 3)
 
-### Anlage XIII Zulässige Zahl von Sitzplätzen und Stehplätzen in Kraftomnibussen
+### Anlage XIII (§ 34a Absatz 3) Zulässige Zahl von Sitzplätzen und Stehplätzen in Kraftomnibussen
 
 (Fundstelle: BGBl. I 2012, 780)
 
@@ -14225,9 +14210,8 @@ b)  Das für die Gepäckbeförderung zu berücksichtigende Gewicht kann sowohl
 
 
 
-(zu § 48)
 
-### Anlage XIV Emissionsklassen für Kraftfahrzeuge
+### Anlage XIV (zu § 48) Emissionsklassen für Kraftfahrzeuge
 
 (Fundstelle: BGBl. I 2012, 781 - 786;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14953,9 +14937,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 49 Absatz 3)
 
-### Anlage XV Zeichen „Geräuscharmes Kraftfahrzeug“
+### Anlage XV (zu § 49 Absatz 3) Zeichen „Geräuscharmes Kraftfahrzeug“
 
 (Fundstelle: BGBl. I 2012, 787)
 
@@ -14974,9 +14957,8 @@ Das Zeichen ist an der Fahrzeugvorderseite sichtbar und fest
 anzubringen; es darf zusätzlich auch an der Fahrzeugrückseite
 angebracht sein.
 
-(zu § 47 Absatz 2 Satz 2)
 
-### Anlage XVI Maßnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen
+### Anlage XVI (zu § 47 Absatz 2 Satz 2) Maßnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen
 
 (Fundstelle: BGBl. I 2012, 788 - 802)
 
@@ -16907,9 +16889,8 @@ Nummer der Genehmigung
 [^f776225_31_BJNR067910012BJNE013800000]:     Toleranz angeben.
 [^f776225_32_BJNR067910012BJNE013800000]:     Nichtzutreffendes streichen.
 [^F776225_T5_01_BJNR067910012BJNE013800000]: 
-(zu § 41a Absatz 5 und 6)
 
-### Anlage XVII Gassystemeinbauprüfungen und sonstige Gasanlagenprüfungen
+### Anlage XVII (zu § 41a Absatz 5 und 6) Gassystemeinbauprüfungen und sonstige Gasanlagenprüfungen
 
 (Fundstelle: BGBl. I 2012, 803)
 
@@ -17033,9 +17014,8 @@ Nummer der Genehmigung
 
 
 
-(zu § 41a Absatz 7 und Anlage VIII Nummer 3.1.1.2)
 
-### Anlage XVIIa Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder von wiederkehrenden und sonstigen Gasanlagenprüfungen sowie Schulung der verantwortlichen Personen und Fachkräfte
+### Anlage XVIIa (zu § 41a Absatz 7 und Anlage VIII Nummer 3.1.1.2) Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder von wiederkehrenden und sonstigen Gasanlagenprüfungen sowie Schulung der verantwortlichen Personen und Fachkräfte
 
 (Fundstelle: BGBl. I 2012, 804 - 806)
 
@@ -17374,9 +17354,8 @@ Nummer der Genehmigung
 
 
 
-(zu § 57b Absatz 1)
 
-### Anlage XVIII Prüfung der Fahrtschreiber und Kontrollgeräte
+### Anlage XVIII (zu § 57b Absatz 1) Prüfung der Fahrtschreiber und Kontrollgeräte
 
 (Fundstelle: BGBl. I 2012, 807 - 809)
 
@@ -17696,9 +17675,8 @@ Datum, Unterschrift, Firmenstempel
 
     Nichtzutreffendes streichen.
 [^F776225_T5_02_BJNR067910012BJNE014100000]: 
-(zu § 57b Absatz 1)
 
-### Anlage XVIIIa Durchführung der Prüfungen von Fahrtschreibern und Kontrollgeräten
+### Anlage XVIIIa (zu § 57b Absatz 1) Durchführung der Prüfungen von Fahrtschreibern und Kontrollgeräten
 
 (Fundstelle: BGBl. I 2012, 810 - 813)
 
@@ -18157,9 +18135,8 @@ Datum, Unterschrift, Firmenstempel
 
 
 
-(zu § 57b Absatz 3 und 4)
 
-### Anlage XVIIIb Prüfstellen für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte
+### Anlage XVIIIb (zu § 57b Absatz 3 und 4) Prüfstellen für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte
 
 (Fundstelle: BGBl. I 2012, 814)
 
@@ -18284,9 +18261,8 @@ Datum, Unterschrift, Firmenstempel
 
 
 
-(zu § 57b Absatz 3 und 4)
 
-### Anlage XVIIIc Anerkennung von Fahrtschreiber- oder Kontrollgeräteherstellern und von Fahrzeugherstellern oder Fahrzeugimporteuren zur Durchführung von Prüfungen
+### Anlage XVIIIc (zu § 57b Absatz 3 und 4) Anerkennung von Fahrtschreiber- oder Kontrollgeräteherstellern und von Fahrzeugherstellern oder Fahrzeugimporteuren zur Durchführung von Prüfungen
 
 (Fundstelle: BGBl. I 2012, 815 - 816)
 
@@ -18436,9 +18412,8 @@ Datum, Unterschrift, Firmenstempel
 
 
 
-(zu § 57b Absatz 3 und 4)
 
-### Anlage XVIIId Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen sowie Schulung der mit der Prüfung beauftragten Fachkräfte
+### Anlage XVIIId (zu § 57b Absatz 3 und 4) Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen sowie Schulung der mit der Prüfung beauftragten Fachkräfte
 
 (Fundstelle: BGBl. I 2012, 817 - 819)
 
@@ -18783,9 +18758,8 @@ Datum, Unterschrift, Firmenstempel
 
 
 
-(§ 19 Absatz 3 Nummer 4)
 
-### Anlage XIX Teilegutachten
+### Anlage XIX (§ 19 Absatz 3 Nummer 4) Teilegutachten
 
 (Fundstelle: BGBl. I 2012, 820)
 
@@ -18872,9 +18846,8 @@ Datum, Unterschrift, Firmenstempel
 ### Anlage XX (weggefallen)
 
 
-(§ 49 Absatz 3)
 
-### Anlage XXI Kriterien für lärmarme Kraftfahrzeuge
+### Anlage XXI (§ 49 Absatz 3) Kriterien für lärmarme Kraftfahrzeuge
 
 (Fundstelle: BGBl. I 2012, 822 - 824)
 
@@ -19091,9 +19064,8 @@ Datum, Unterschrift, Firmenstempel
 ### Anlage XXII (weggefallen)
 
 
-(zu § 47)
 
-### Anlage XXIII Maßnahmen gegen die Verunreinigung der Luft durch Gase und Partikel von Kraftfahrzeugen mit Fremdzündungsmotoren und Selbstzündungsmotoren (Definition schadstoffarmer Personenkraftwagen)
+### Anlage XXIII (zu § 47) Maßnahmen gegen die Verunreinigung der Luft durch Gase und Partikel von Kraftfahrzeugen mit Fremdzündungsmotoren und Selbstzündungsmotoren (Definition schadstoffarmer Personenkraftwagen)
 
 (Fundstelle: BGBl. I 2012, 826 - 887)
 
@@ -35712,9 +35684,8 @@ Hauptmerkmale des Motors
 [^F776225_914_BJNR067910012BJNE015000000]:     Kennzeichnung angeben
 [^F776225_912_BJNR067910012BJNE015000000]:     Beschreibung und Skizzen
 [^F776225_913_BJNR067910012BJNE015000000]: 
-(zu § 47)
 
-### Anlage XXIV Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- und Selbstzündungsmotoren
+### Anlage XXIV (zu § 47) Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- und Selbstzündungsmotoren
 
 (Fundstelle: BGBl. I 2012, 888 - 897)
 
@@ -37224,9 +37195,8 @@ Abgasreinigungssysteme
 [^F776225_98_BJNR067910012BJNE015100000]:     Bei kennfeldgesteuerten Zündungen Zündkennfeld oder charakteristische
     Punkte.
 [^F776225_910_BJNR067910012BJNE015100000]: 
-(zu § 47)
 
-### Anlage XXV Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- oder Selbstzündungsmotoren
+### Anlage XXV (zu § 47) Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- oder Selbstzündungsmotoren
 
 (Fundstelle: BGBl. I 2012, 898 - 899)
 
@@ -37448,9 +37418,8 @@ Abgasreinigungssysteme
 
 
 
-(zu § 47 Absatz 3a)
 
-### Anlage XXVI Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Kraftfahrzeugen mit Selbstzündungsmotor
+### Anlage XXVI (zu § 47 Absatz 3a) Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Kraftfahrzeugen mit Selbstzündungsmotor
 
 (Fundstelle: BGBl. I 2012, 900 - 915)
 
@@ -39670,9 +39639,8 @@ Ort, Datum, Unterschrift der verantwortlichen Person nach § 29 Absatz
     erfüllen.
 [^f776225_81_BJNR067910012BJNE015300000]:     Nichtzutreffendes ist zu streichen.
 [^f776225_82_BJNR067910012BJNE015300000]: 
-(zu § 48 Absatz 2 und Anlage XIV Nummer 3.4)
 
-### Anlage XXVII Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Nutzfahrzeugen sowie von mobilen Maschinen und Geräten mit Selbstzündungsmotor
+### Anlage XXVII (zu § 48 Absatz 2 und Anlage XIV Nummer 3.4) Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Nutzfahrzeugen sowie von mobilen Maschinen und Geräten mit Selbstzündungsmotor
 
 (Fundstelle: BGBl. I 2012, 916 - 929)
 
@@ -41323,9 +41291,8 @@ StVZO für die Untersuchung der Abgase verantwortlichen Person
 
     Nichtzutreffendes ist zu streichen.
 [^F776225_111_BJNR067910012BJNE015400000]: 
-(§ 35a Absatz 8)
 
-### Anlage XXVIII Beispiel für einen Warnhinweis vor der Verwendung einer nach hinten gerichteten Rückhalteeinrichtung für Kinder auf Beifahrerplätzen mit Airbag
+### Anlage XXVIII (§ 35a Absatz 8) Beispiel für einen Warnhinweis vor der Verwendung einer nach hinten gerichteten Rückhalteeinrichtung für Kinder auf Beifahrerplätzen mit Airbag
 
 (Fundstelle: BGBl. I 2012, 930)
 
@@ -41335,9 +41302,8 @@ Sitz, Kindersitz und Umrandung des Airbags sind schwarz.
 Das Wort Airbag und der Airbag sind weiß.
 Der Durchmesser des Piktogramms beträgt mindestens 60 mm.
 
-(zu § 20 Absatz 3a Satz 4)
 
-### Anlage XXIX EG-Fahrzeugklassen
+### Anlage XXIX (zu § 20 Absatz 3a Satz 4) EG-Fahrzeugklassen
 
 (Fundstelle: BGBl. I 2012, 931 - 935)
 
@@ -43782,9 +43748,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ### (XXXX) Muster 1 bis 2c (weggefallen)
 
 
-(§ 20)
 
-### Muster 2d Vorbemerkungen
+### Muster 2d (§ 20) Vorbemerkungen
 
 (Fundstelle: BGBl. I 2012, 949 - 951)
 

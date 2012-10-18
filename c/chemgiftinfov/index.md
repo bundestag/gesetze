@@ -39,10 +39,8 @@ und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
 
 
 
-Mitteilungspflicht beim Inverkehrbringen von Zubereitungen und Biozid-
-Produkten
 
-## § 2 (§ 16e Abs. 1 des Chemikaliengesetzes)
+## § 2 Mitteilungspflicht beim Inverkehrbringen von Zubereitungen und Biozid-Produkten (§ 16e Abs. 1 des Chemikaliengesetzes)
 
 (1) Die Mitteilung nach § 16e Abs. 1 des Chemikaliengesetzes hat
 
@@ -76,9 +74,8 @@ vergebene Mitteilungsnummer angibt.
 Angaben nach den Absätzen 1 und 2 auch auf einem anderen geeigneten
 Datenträger zulassen.
 
-Ärztliche Mitteilungspflicht bei Vergiftungen
 
-## § 3 (§ 16e Abs. 2 des Chemikaliengesetzes)
+## § 3 Ärztliche Mitteilungspflicht bei Vergiftungen (§ 16e Abs. 2 des Chemikaliengesetzes)
 
 (1) Die Mitteilung nach § 16e Abs. 2 des Chemikaliengesetzes hat unter
 Verwendung des Formblattes nach Anlage 3 zu erfolgen und muß zumindest

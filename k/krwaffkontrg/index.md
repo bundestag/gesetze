@@ -1224,9 +1224,8 @@ Genehmigungen als erteilt.
 
 (Inkrafttreten)
 
-(zu § 1 Abs. 1)
 
-### Anlage Kriegswaffenliste
+### Anlage (zu § 1 Abs. 1) Kriegswaffenliste
 
 Fundstelle des Originaltextes: BGBl. I 1990, 2515 - 2519;
 bzgl. der einzelnen Änderungen vgl. Fußnote

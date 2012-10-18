@@ -590,9 +590,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 6)
 
-## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Modenäher/zur Modenäherin
+## Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Modenäher/zur Modenäherin
 
 (Fundstelle: BGBl. I 1997, 266 - 269)
 
@@ -1246,11 +1245,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 
 
-   (zu § 6)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Modeschneider/zur Modeschneiderin
+## Anlage 2 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Modeschneider/zur Modeschneiderin
 
-(Fundstelle: BGBl. I 1997, 270 - 271)
+   (Fundstelle: BGBl. I 1997, 270 - 271)
 
 *    *   Lfd. Nr.
 

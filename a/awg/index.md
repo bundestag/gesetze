@@ -1686,9 +1686,8 @@ Gesetz, soweit der Anwendungsbereich dieses Gesetzes reicht.
 ### § 52 (Inkrafttreten)
 
 
-Einfuhrliste
 
-### Anlage - Anlage zum Außenwirtschaftsgesetz -
+### Anlage Einfuhrliste - Anlage zum Außenwirtschaftsgesetz -
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 197a, S. 3 - 181)
 

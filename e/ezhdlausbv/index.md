@@ -945,11 +945,8 @@ fortgeführt wird.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 8)
-Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer/zur
-Verkäuferin - Sachliche Gliederung -
 
-### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer/zur Verkäuferin - Zeitliche Gliederung -
+### Anlage 1 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer/zur Verkäuferin - Sachliche Gliederung - Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer/zur Verkäuferin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 1812 - 1819)
 
@@ -2307,9 +2304,8 @@ Verkäuferin - Sachliche Gliederung -
 
 
 
-(zu § 13)
 
-### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Einzelhandel/zur Kauffrau im Einzelhandel - Sachliche Gliederung -
+### Anlage 2 (zu § 13) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Einzelhandel/zur Kauffrau im Einzelhandel - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 1820 - 1832)
 

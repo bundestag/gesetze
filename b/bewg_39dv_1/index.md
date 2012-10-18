@@ -51,9 +51,8 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-(zu § 1 Nr. 1)
 
-## Anlage 1 Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung
+## Anlage 1 (zu § 1 Nr. 1) Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 938 - 945)
 **A. Vorbemerkungen**
@@ -3430,9 +3429,8 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 
-(zu § 1 Nr. 2)
 
-## Anlage 2 Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
+## Anlage 2 (zu § 1 Nr. 2) Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 946 - 947)
 **A. Vorbemerkungen**

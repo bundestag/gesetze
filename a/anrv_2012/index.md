@@ -119,9 +119,8 @@ anzurechnende Einkommen nach dem Bundesversorgungsgesetz vom 11. Juli
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2)
 
-## Anlage Tabelle über das anzurechnende Einkommen und die zustehende Ausgleichs- und Elternrente für die Zeit ab 1. Juli 2012 in Euro
+## Anlage (zu § 2) Tabelle über das anzurechnende Einkommen und die zustehende Ausgleichs- und Elternrente für die Zeit ab 1. Juli 2012 in Euro
 
 (Fundstelle: BGBl. I 2012, 1442 - 1449)
 

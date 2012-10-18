@@ -695,53 +695,40 @@ Diese Verordnung tritt am 31. Dezember 2006 in Kraft.
 
 -
 
-(zu § 3 Abs. 1)
-Anzeige nach § 10 Abs. 4a Satz 4 KWG
 
-## Anlage 2 (Nicht realisierte Reserven)
+## Anlage 2 (zu § 3 Abs. 1) Anzeige nach § 10 Abs. 4a Satz 4 KWG (Nicht realisierte Reserven)
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3256)
 
-(zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1)
 
-## Anlage 3 Aktivische Beteiligungsanzeige
+## Anlage 3 (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1) Aktivische Beteiligungsanzeige
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3257 - 3259;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-(zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1)
 
-## Anlage 4 Anlage für komplexe Beteiligungsstrukturen
+## Anlage 4 (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1) Anlage für komplexe Beteiligungsstrukturen
 
 (Inhalt: nicht darstellbares Muster einer Anlage,
 Fundstelle: BGBl. I 2006, 3260)
 
-(zu § 8 Abs. 1 und 2)
 
-## Anlage 5 Passivische Beteiligungsanzeige
+## Anlage 5 (zu § 8 Abs. 1 und 2) Passivische Beteiligungsanzeige
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3261 - 3263;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-(zu § 11 Abs. 1)
-Nebentätigkeiten von Geschäftsleitern und Personen, die die Geschäfte
-einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-
-Gesellschaft  tatsächlich führen
 
-## Anlage 6 (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 1 KWG)
+## Anlage 6 (zu § 11 Abs. 1) Nebentätigkeiten von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 1 KWG)
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3264)
 
-(zu § 11 Abs. 2)
-Beteiligungen von Geschäftsleitern und Personen, die die Geschäfte
-einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-
-Gesellschaft tatsächlich führen
 
-## Anlage 7 (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 2 KWG)
+## Anlage 7 (zu § 11 Abs. 2) Beteiligungen von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 2 KWG)
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3265 - 3266)

@@ -49,13 +49,8 @@ ergeben sich aus dem anliegenden Gebührenverzeichnis.
 Verwaltungskostengesetzes erhoben. Erreichen die Auslagen nicht die
 Höhe von 5 Euro, werden sie nicht erhoben.
 
-Nutzung von Anlage(blätter)n,
-Gebührenbefreiung und -ermäßigung
-bei Ein-, Durch- oder Ausfuhren oder dem
-Verbringen aus Drittstaaten nach dem Fünften Kapitel
-des Bundesnaturschutzgesetzes, der Verordnung
 
-## § 2 (EG) Nr. 338/97 sowie der Verordnung (EG) Nr. 865/2006
+## § 2 Nutzung von Anlage(blätter)n, Gebührenbefreiung und -ermäßigung bei Ein-, Durch- oder Ausfuhren oder dem Verbringen aus Drittstaaten nach dem Fünften Kapitel des Bundesnaturschutzgesetzes, der Verordnung (EG) Nr. 338/97 sowie der Verordnung (EG) Nr. 865/2006
 
 (1) Auf Antrag des Kostenschuldners ist eine Gebührenbefreiung zu
 gewähren, wenn die Exemplare für Zwecke der wissenschaftlichen
@@ -127,9 +122,8 @@ eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen
 gerichteten Widerspruchs kann eine Gebühr bis zur Höhe von zehn
 Prozent des streitigen Betrages erhoben werden.
 
-(zu § 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2011, 1947 - 1949)
 

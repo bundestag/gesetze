@@ -278,7 +278,7 @@ Bemessung der konkreten Gebühr nach § 9 Abs. 1 des
 Verwaltungskostengesetzes.
 
 
-## § 10 Gebührenermäßigung  und -befreiung auf Antrag
+## § 10 Gebührenermäßigung und -befreiung auf Antrag
 
 Die nach § 2 zu erhebenden Gebühren können auf Antrag des
 Kostenschuldners bis auf ein Viertel der vorgesehenen Gebühr ermäßigt

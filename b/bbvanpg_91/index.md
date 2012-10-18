@@ -73,7 +73,7 @@ Soldatenversorgungsgesetzes.
 -
 
 
-## Art 3 bis 9 - 
+## Art 3 bis 9 -
 
 
 

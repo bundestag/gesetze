@@ -1632,9 +1632,8 @@ vorliegen.
 
 (Inkrafttreten)
 
-(zu § 2 Absatz 2)
 
-### Anlage Beschreibung der vorgeschlagenen Bundestagswahlkreise
+### Anlage (zu § 2 Absatz 2) Beschreibung der vorgeschlagenen Bundestagswahlkreise
 
 (Fundstelle: BGBl. I 2012, 519 - 578)
 

@@ -726,9 +726,8 @@ Ende geführt werden.
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
-(zu § 9 Abs. 5)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 9 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 2006, 72;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -757,9 +756,8 @@ Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
 
-(zu § 9 Abs. 5)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 9 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 2006, 73;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

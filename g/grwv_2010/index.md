@@ -617,9 +617,8 @@ I S. 542) außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Absatz 1 und 3, § 3 Absatz 2)
 
-## Anlage 1 Beschreibung der Grundwasserkörper
+## Anlage 1 (zu § 2 Absatz 1 und 3, § 3 Absatz 2) Beschreibung der Grundwasserkörper
 
 (Fundstelle: BGBl. I 2010, 1519 - 1520)
 
@@ -776,10 +775,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 3 Absatz 1, § 5 Absatz 1 und 2, § 7 Absatz 2 Nummer 1, § 10
-Absatz 2 Satz 4 Nummer 1)
 
-## Anlage 2 Schwellenwerte
+## Anlage 2 (zu § 3 Absatz 1, § 5 Absatz 1 und 2, § 7 Absatz 2 Nummer 1, § 10 Absatz 2 Satz 4 Nummer 1) Schwellenwerte
 
 (Fundstelle: BGBl. I 2010, 1521)
 
@@ -913,9 +910,8 @@ Absatz 2 Satz 4 Nummer 1)
     Pflanzenschutzmittel und Biozide, einschließlich der relevanter
     Stoffwechsel-, Abbau- und Reaktionsprodukte.
 [^F4_774693_BJNR151300010BJNE002000000]: 
-(zu § 9 Absatz 1)
 
-## Anlage 3 Überwachung des mengenmäßigen Grundwasserzustands
+## Anlage 3 (zu § 9 Absatz 1) Überwachung des mengenmäßigen Grundwasserzustands
 
 (Fundstelle: BGBl. I 2010, 1522)
 
@@ -973,9 +969,8 @@ Absatz 2 Satz 4 Nummer 1)
 
 
 
-(zu § 9 Absatz 1 und 2)
 
-## Anlage 4 Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
+## Anlage 4 (zu § 9 Absatz 1 und 2) Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
 
 (Fundstelle: BGBl. I 2010, 1523 - 1524)
 
@@ -1138,9 +1133,8 @@ Absatz 2 Satz 4 Nummer 1)
 
 
 
-(zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)
 
-## Anlage 5 Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
+## Anlage 5 (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2) Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
 
 (Fundstelle: BGBl. I 2010, 1525 - 1526)
 
@@ -1270,9 +1264,8 @@ Absatz 2 Satz 4 Nummer 1)
 [^F7_774693_BJNR151300010BJNE002300000]:     Ausgabe Mai 2010, erschienen im Beuth-Verlag GmbH, Berlin, und beim
     Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 [^F8_774693_BJNR151300010BJNE002300000]: 
-(zu § 10 Absatz 1)
 
-## Anlage 6 Ermittlung steigender Trends, Ermittlung der Trendumkehr
+## Anlage 6 (zu § 10 Absatz 1) Ermittlung steigender Trends, Ermittlung der Trendumkehr
 
 (Fundstelle: BGBl. I 2010, 1527)
 
@@ -1336,9 +1329,8 @@ Absatz 2 Satz 4 Nummer 1)
 
 
 
-(zu § 13 Absatz 1)
 
-## Anlage 7 Liste gefährlicher Schadstoffe und Schadstoffgruppen
+## Anlage 7 (zu § 13 Absatz 1) Liste gefährlicher Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1528)
 
@@ -1392,9 +1384,8 @@ Absatz 2 Satz 4 Nummer 1)
 
 
 
-(zu § 13 Absatz 2)
 
-## Anlage 8 Liste sonstiger Schadstoffe und Schadstoffgruppen
+## Anlage 8 (zu § 13 Absatz 2) Liste sonstiger Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1529)
 

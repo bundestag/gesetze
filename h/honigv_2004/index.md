@@ -197,9 +197,8 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
-(zu den §§ 1, 3 und 4)
 
-## Anlage 1 Begriffsbestimmungen, Verkehrsbezeichnungen
+## Anlage 1 (zu den §§ 1, 3 und 4) Begriffsbestimmungen, Verkehrsbezeichnungen
 
 Abschnitt I
 Allgemeines
@@ -302,9 +301,8 @@ folgende Honigarten unterschieden:
 
 
 
-(zu den §§ 2 und 4)
 
-## Anlage 2 Anforderungen an die Beschaffenheit
+## Anlage 2 (zu den §§ 2 und 4) Anforderungen an die Beschaffenheit
 
 Abschnitt I
 Allgemeine Anforderungen

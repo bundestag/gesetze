@@ -171,30 +171,26 @@ berücksichtigt.
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
 2012 außer Kraft.
 
-(zu § 1 Absatz 3 Satz 5)
 
-## Anlage 1 Verteilung der Eingliederungsmittel (ohne Mittel für Leistungen zur Beschäftigungsförderung nach § 16e SGB II\*)
+## Anlage 1 (zu § 1 Absatz 3 Satz 5) Verteilung der Eingliederungsmittel (ohne Mittel für Leistungen zur Beschäftigungsförderung nach § 16e SGB II*)
 
 (Fundstelle: BAnz. 2011, 4446 - 4449)
 
 
-(zu § 1 Absatz 4 Satz 4)
 
-## Anlage 2 Verteilung der Eingliederungsmittel für Leistungen zur Beschäftigungsförderung nach § 16e SGB II\*)
+## Anlage 2 (zu § 1 Absatz 4 Satz 4) Verteilung der Eingliederungsmittel für Leistungen zur Beschäftigungsförderung nach § 16e SGB II*)
 
 (Fundstelle: BAnz. 2011, 4449 - 4452)
 
 
-(zu § 2 Absatz 4 Satz 4)
 
-## Anlage 3 Verteilung der Verwaltungsmittel auf die zugelassenen kommunalen Träger bzw. die Bundesagentur für Arbeit
+## Anlage 3 (zu § 2 Absatz 4 Satz 4) Verteilung der Verwaltungsmittel auf die zugelassenen kommunalen Träger bzw. die Bundesagentur für Arbeit
 
 (Fundstelle: BAnz. 2011, 4452 - 4455)
 
 
-(zu § 2 Absatz 5 Satz 4)
 
-## Anlage 4 Verteilung der auf die Bundesagentur für Arbeit entfallenden Verwaltungsmittel (nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit)
+## Anlage 4 (zu § 2 Absatz 5 Satz 4) Verteilung der auf die Bundesagentur für Arbeit entfallenden Verwaltungsmittel (nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit)
 
 (Fundstelle: BAnz. 2011, 4456 - 4458)
 

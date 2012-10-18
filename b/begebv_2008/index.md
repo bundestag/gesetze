@@ -146,9 +146,8 @@ Diese Verordnung tritt am 1. Mai 2008 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 1)
 
-## Anlage 1 Gebührenverzeichnis
+## Anlage 1 (zu § 2 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2008, 548 - 564;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8345,9 +8344,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
-(zu § 2 Abs. 1 i. V. m. § 7 Abs. 2)
 
-## Anlage 3 Gebührenverzeichnis
+## Anlage 3 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 2) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 579 - 593 )
 ## Abschnitt 1
@@ -12375,9 +12373,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
-(zu § 2 Abs. 1 i. V. m. § 7 Abs. 3)
 
-## Anlage 4 Gebührenverzeichnis
+## Anlage 4 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 3) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 594 - 610 )
 ## Teil I
@@ -16494,9 +16491,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
-(zu § 2 Abs. 1 i. V. m. § 7 Abs. 4)
 
-## Anlage 5 Gebührenverzeichnis
+## Anlage 5 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 4) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 611 - 627 )
 ## Teil I
@@ -20662,9 +20658,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
-(zu § 2 Abs. 1 i. V. m. § 7 Abs. 5)
 
-## Anlage 6 Gebührenverzeichnis
+## Anlage 6 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 5) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 628 - 644 )
 ## Teil I

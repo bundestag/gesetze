@@ -396,7 +396,7 @@ Bilanzierungsrichtlinien.
 
 
 
-### II. bis V. - 
+### II. bis V. -
 
 
 
@@ -1985,9 +1985,8 @@ Passiva
 
 
 
-(zu Teil D)
 
-#### Anlage Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
+#### Anlage (zu Teil D) Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
 
 Für die Berechnung der Alterungsrückstellung, der Rückstellung für das
 Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der

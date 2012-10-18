@@ -1340,10 +1340,8 @@ folgenden Kalendermonats in Kraft.
 
 Der Bundesminister für Verkehr
 
-Bild 1, 2 und 3
-(Zu den §§ 9 und 22)
 
-## Anlage 1 Umgrenzung des lichten Raumes
+## Anlage 1 Bild 1, 2 und 3 (Zu den §§ 9 und 22) Umgrenzung des lichten Raumes
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 280 - 281)
@@ -1552,9 +1550,8 @@ Fundstelle des Originaltextes: BGBl. I 1972, 282
 
 
 
-(zu den §§ 9 und 10)
 
-## Anlage 3 Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
+## Anlage 3 (zu den §§ 9 und 10) Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
 
 (Fundstelle: BGBl. I 1972, 283 - 284)
 
@@ -2486,31 +2483,26 @@ Fundstelle des Originaltextes: BGBl. I 1972, 282
 
 
 
-(zu § 21)
 
-## Anlage 4 Radsatz
+## Anlage 4 (zu § 21) Radsatz
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl I 1972, 285)
 
-(zu § 21)
 
-## Anlage 5 Räder
+## Anlage 5 (zu § 21) Räder
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 286)
 
-(zu § 25)
 
-## Anlage 6 Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+## Anlage 6 (zu § 25) Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 287)
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1099)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

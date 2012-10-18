@@ -6627,7 +6627,7 @@ nicht gestützt werden, wenn das Gesetz für Bewertungsrügen ein
 Spruchverfahren vorsieht.
 
 
-###### § 244 Bestätigung anfechtbarer Hauptversammlungsbeschlüsse\*.
+###### § 244 Bestätigung anfechtbarer Hauptversammlungsbeschlüsse*.
 
 Die Anfechtung kann nicht mehr geltend gemacht werden, wenn die
 Hauptversammlung den anfechtbaren Beschluß durch einen neuen Beschluß

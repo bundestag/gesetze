@@ -331,11 +331,8 @@ Verordnung.
 
 Diese Verordnung tritt am 1. August 1991 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Bürokaufmann/zur
-Bürokauffrau
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1991, 428 - 433)
 ----------------------------------------------------------------------
@@ -836,11 +833,8 @@ I                            I    beachten
 ----------------------------------------------------------------------
 ---------
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Bürokaufmann/zur
-Bürokauffrau
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1991, 434 - 435)
 A.

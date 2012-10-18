@@ -603,9 +603,8 @@ gilt das Ergebnis der letzten Prüfung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 3 Abs. 2)
 
-## Anlage 1 Spezialistenprofile in der Mikrotechnologie
+## Anlage 1 (zu § 3 Abs. 2) Spezialistenprofile in der Mikrotechnologie
 
 Die im Bereich der beruflichen Fortbildung angesiedelten
 Spezialistenprofile bilden das Verbindungsglied zwischen der Ebene der

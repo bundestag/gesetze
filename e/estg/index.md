@@ -23745,9 +23745,8 @@ nach § 10a Absatz 4 festgestellten Beträge zu erlassen.
 
 
 
-(zu § 4d Absatz 1)
 
-### Anlage 1 Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen
+### Anlage 1 (zu § 4d Absatz 1) Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen
 
 (Fundstelle: BGBl. I 2009, 3530)
 
@@ -23987,9 +23986,8 @@ nach § 10a Absatz 4 festgestellten Beträge zu erlassen.
 
 
 
-(zu § 43b)
 
-### Anlage 2 Gesellschaften im Sinne der Richtlinie 90/435/EWG
+### Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie 90/435/EWG
 
 (Fundstelle: BGBl. I 2009, 3530 - 3532)
 

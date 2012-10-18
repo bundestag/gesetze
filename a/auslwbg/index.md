@@ -2627,9 +2627,8 @@ Ergänzung des Wertpapierbereinigungsgesetzes vom 12. Juli 1951
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
-(§ 1 Abs. 1)
 
-### Anlage 1 Verzeichnis der Auslandsbonds
+### Anlage 1 (§ 1 Abs. 1) Verzeichnis der Auslandsbonds
 
 (Fundstelle: BGBl. Teil III 4139 - 2, S. 118 - 128;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

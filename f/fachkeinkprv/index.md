@@ -287,7 +287,7 @@ Qualifikationsschwerpunkte geprüft werden:
 
 
 
-## § 6 Handlungsspezifische  Qualifikationen
+## § 6 Handlungsspezifische Qualifikationen
 
 (1) Im Prüfungsbereich "Einkauf" soll der Prüfungsteilnehmer/die
 Prüfungsteilnehmerin nachweisen, dass er/sie die zentralen Aufgaben

@@ -370,9 +370,8 @@ Anwendung der Vorschriften dieser Verordnung.
 Diese Verordnung tritt am 1. August 2002 in Kraft. ...; § 9 bleibt
 unberührt.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
 
 
 *    *   (Fundstelle: BGBl. I 2002, 2702 - 2708)

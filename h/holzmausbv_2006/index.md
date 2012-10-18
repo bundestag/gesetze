@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Holzmechaniker/zur  Holzmechanikerin
+Title: Verordnung über die Berufsausbildung zum Holzmechaniker/zur Holzmechanikerin
 jurabk: HolzMAusbV 2006
 layout: default
 origslug: holzmausbv_2006
@@ -7,7 +7,7 @@ slug: holzmausbv_2006
 
 ---
 
-# Verordnung über die Berufsausbildung zum Holzmechaniker/zur  Holzmechanikerin (HolzMAusbV 2006)
+# Verordnung über die Berufsausbildung zum Holzmechaniker/zur Holzmechanikerin (HolzMAusbV 2006)
 
 Ausfertigungsdatum
 :   2006-01-25
@@ -515,9 +515,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Holzmechaniker/zur Holzmechanikerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Holzmechaniker/zur Holzmechanikerin
 
 (Fundstelle: BGBl. I 2006, 259 - 264)
 

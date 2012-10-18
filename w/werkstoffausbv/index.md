@@ -770,9 +770,8 @@ vereinbaren.
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin
 
 (Fundstelle: BGBl. I 1996, 778 - 788)
 

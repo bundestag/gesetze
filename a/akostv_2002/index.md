@@ -69,9 +69,8 @@ Sprachenliste (Anlage 4).
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage 1 Gebührenverzeichnis (GebV)
+## Anlage 1 (zu § 1) Gebührenverzeichnis (GebV)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
@@ -815,9 +814,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
 
 
-(zu § 2 Abs. 1)
 
-## Anlage 2 Wertermittlungsvorschriften
+## Anlage 2 (zu § 2 Abs. 1) Wertermittlungsvorschriften
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4168 - 4170;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1269,9 +1267,8 @@ In nichtvermögensrechtlichen Angelegenheiten ist der Wert nach Absatz
 2 zu bestimmen. In Angelegenheiten, die die Annahme eines
 Minderjährigen betreffen, beträgt der Wert stets 2.500 Euro.
 
-(zu § 2 Abs. 2)
 
-## Anlage 3 Wertgebührentabelle
+## Anlage 3 (zu § 2 Abs. 2) Wertgebührentabelle
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4171
 
@@ -1387,9 +1384,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4171
 
 
 
-(zu § 4)
 
-## Anlage 4 Sprachenliste
+## Anlage 4 (zu § 4) Sprachenliste
 
 Fundstelle des Originaltextes: BGBl. I 4172
 

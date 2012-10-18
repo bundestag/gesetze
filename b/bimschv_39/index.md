@@ -1496,9 +1496,8 @@ verwiesen wird, sind bei der Beuth Verlag GmbH Berlin erschienen. Die
 DIN-, DIN EN- sowie DIN ISO-Normen sind bei dem Deutschen Patent- und
 Markenamt in München archivmäßig gesichert niedergelegt.
 
-(zu den §§ 13, 14 und 18)
 
-### Anlage 1 Datenqualitätsziele
+### Anlage 1 (zu den §§ 13, 14 und 18) Datenqualitätsziele
 
 (Fundstelle: BGBl. I 2010, 1077 - 1078)
 
@@ -1853,9 +1852,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 [^f774264_04_BJNR106510010BJNE003800000]:     Eine Stichprobe pro Woche, gleichmäßig verteilt über das Jahr, oder
     acht Wochen gleichmäßig verteilt über das Jahr.
 [^f774264_05_BJNR106510010BJNE003800000]: 
-(zu § 12)
 
-### Anlage 2 Festlegung der Anforderungen für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft innerhalb eines Gebiets oder Ballungsraums
+### Anlage 2 (zu § 12) Festlegung der Anforderungen für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft innerhalb eines Gebiets oder Ballungsraums
 
 (Fundstelle: BGBl. I 2010, 1079 - 1080)
 
@@ -2112,9 +2110,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
     Exposition gegenüber PM                            2,5
     eingehalten wird.
 
-(zu den §§ 2, 3, 13, 14 und 21)
 
-### Anlage 3 Beurteilung der Luftqualität und Lage der Probenahmestellen für Messungen von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
+### Anlage 3 (zu den §§ 2, 3, 13, 14 und 21) Beurteilung der Luftqualität und Lage der Probenahmestellen für Messungen von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
 
 (Fundstelle: BGBl. I 2010, 1081 - 1082)
 
@@ -2318,9 +2315,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 
-(zu § 13)
 
-### Anlage 4 Messungen an Messstationen für den ländlichen Hintergrund (konzentrationsunabhängig)
+### Anlage 4 (zu § 13) Messungen an Messstationen für den ländlichen Hintergrund (konzentrationsunabhängig)
 
 (Fundstelle: BGBl. I 2010, 1083)
 
@@ -2401,9 +2397,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 
-(zu den §§ 14 und 15)
 
-### Anlage 5 Kriterien für die Festlegung der Mindestzahl der Probenahmestellen für ortsfeste Messungen der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10, PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
+### Anlage 5 (zu den §§ 14 und 15) Kriterien für die Festlegung der Mindestzahl der Probenahmestellen für ortsfeste Messungen der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10, PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
 
 (Fundstelle: BGBl. I 2010, 1084 - 1085)
 
@@ -2750,9 +2745,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
     städtische Hintergrundquellen in Ballungsräumen und städtischen
     Gebieten muss die Anforderungen von Abschnitt B erfüllen.
 
-(zu den §§ 1, 16 und 19)
 
-### Anlage 6 Referenzmethoden für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol, Kohlenmonoxid und Ozon
+### Anlage 6 (zu den §§ 1, 16 und 19) Referenzmethoden für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol, Kohlenmonoxid und Ozon
 
 (Fundstelle: BGBl. I 2010, 1086 - 1087)
 
@@ -2888,9 +2882,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 
-(zu § 9)
 
-### Anlage 7 Zielwerte und langfristige Ziele für Ozon
+### Anlage 7 (zu § 9) Zielwerte und langfristige Ziele für Ozon
 
 (Fundstelle: BGBl. I 2010, 1088 - 1089)
 
@@ -3102,9 +3095,8 @@ Schutz der Vegetation: gültige Daten für drei Jahre.
 
 
 
-(zu § 18)
 
-### Anlage 8 Kriterien zur Einstufung von Probenahmestellen für die Beurteilung der Ozonwerte und zur Bestimmung ihrer Standorte
+### Anlage 8 (zu § 18) Kriterien zur Einstufung von Probenahmestellen für die Beurteilung der Ozonwerte und zur Bestimmung ihrer Standorte
 
 (Fundstelle: BGBl. I 2010, 1090 - 1091)
 Für ortsfeste Messstationen gelten folgende Kriterien:
@@ -3255,9 +3247,8 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
     repräsentativ sein, die nicht in ihrer unmittelbaren Nähe gelegen
     sind.
 [^f774264_14_BJNR106510010BJNE004500000]: 
-(zu § 18)
 
-### Anlage 9 Kriterien zur Bestimmung der Mindestzahl von Probenahmestellen für die ortsfesten Messungen von Ozonwerten
+### Anlage 9 (zu § 18) Kriterien zur Bestimmung der Mindestzahl von Probenahmestellen für die ortsfesten Messungen von Ozonwerten
 
 (Fundstelle: BGBl. I 2010, 1092)
 
@@ -3380,9 +3371,8 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 [^f774264_15_BJNR106510010BJNE004600000]: [^f774264_16_BJNR106510010BJNE004600000]:     Eine Station je 25 000 km                            2              in
     orographisch stark gegliedertem Gelände wird empfohlen.
 
-(zu § 18)
 
-### Anlage 10 Messung von Ozonvorläuferstoffen
+### Anlage 10 (zu § 18) Messung von Ozonvorläuferstoffen
 
 (Fundstelle: BGBl. I 2010, 1093)
 
@@ -3491,9 +3481,8 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 
 
 
-(zu den §§ 21 und 28)
 
-### Anlage 11 Immissionsgrenzwerte zum Schutz der menschlichen Gesundheit
+### Anlage 11 (zu den §§ 21 und 28) Immissionsgrenzwerte zum Schutz der menschlichen Gesundheit
 
 (Fundstelle: BGBl. I 2010, 1094)
 
@@ -3682,9 +3671,8 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 [^f774264_18_BJNR106510010BJNE004800000]:     Die Toleranzmarge gilt nur im Zusammenhang mit einer nach § 21 dieser
     Verordnung gewährten Fristverlängerung.
 [^f774264_19_BJNR106510010BJNE004800000]: 
-(zu den §§ 5, 15, 27, 28 und 35)
 
-### Anlage 12 Nationales Ziel, auf das die Exposition reduziert werden soll, Ziel- und Immissionsgrenzwert für PM2,5
+### Anlage 12 (zu den §§ 5, 15, 27, 28 und 35) Nationales Ziel, auf das die Exposition reduziert werden soll, Ziel- und Immissionsgrenzwert für PM2,5
 
 (Fundstelle: BGBl. I 2010, 1095)
 
@@ -3839,9 +3827,8 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 
 
 
-(zu den §§ 27 und 34)
 
-### Anlage 13 Erforderlicher Inhalt von Luftreinhalteplänen
+### Anlage 13 (zu den §§ 27 und 34) Erforderlicher Inhalt von Luftreinhalteplänen
 
 (Fundstelle: BGBl. I 2010, 1096)
 
@@ -3958,9 +3945,8 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 
 
 
-(zu § 30)
 
-### Anlage 14 Unterrichtung der Öffentlichkeit
+### Anlage 14 (zu § 30) Unterrichtung der Öffentlichkeit
 
 (Fundstelle: BGBl. I 2010, 1097)
 
@@ -4060,9 +4046,8 @@ zuständigen Behörden die erforderlichen Maßnahmen, um die
 Bereitstellung dieser Angaben sicherzustellen, soweit dies keinen
 unverhältnismäßigen Aufwand erfordert.
 
-(zu § 20)
 
-### Anlage 15 Festlegung der Anforderungen an die Beurteilung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren innerhalb eines Gebiets oder Ballungsraums
+### Anlage 15 (zu § 20) Festlegung der Anforderungen an die Beurteilung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren innerhalb eines Gebiets oder Ballungsraums
 
 (Fundstelle: BGBl. I 2010, 1098)
 
@@ -4144,9 +4129,8 @@ unverhältnismäßigen Aufwand erfordert.
 
 
 
-(zu § 20)
 
-### Anlage 16 Standort und Mindestanzahl der Probenahmestellen für die Messung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel und Benzo[a]pyren
+### Anlage 16 (zu § 20) Standort und Mindestanzahl der Probenahmestellen für die Messung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel und Benzo[a]pyren
 
 (Fundstelle: BGBl. I 2010, 1099 - 1100)
 
@@ -4402,9 +4386,8 @@ unverhältnismäßigen Aufwand erfordert.
     ]pyren auch eine verkehrsnahe Messstation einzubeziehen, ohne dadurch
     die Zahl der Probenahmestellen zu erhöhen.
 
-(zu § 20)
 
-### Anlage 17 Datenqualitätsziele und Anforderungen an Modelle zur Bestimmung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren
+### Anlage 17 (zu § 20) Datenqualitätsziele und Anforderungen an Modelle zur Bestimmung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren
 
 (Fundstelle: BGBl. I 2010, 1101 - 1102)
 
@@ -4624,9 +4607,8 @@ unverhältnismäßigen Aufwand erfordert.
     Messverfahren und Messergebnissen — Teil 6: Anwendung von
     Genauigkeitswerten in der Praxis; Ausgabedatum: 08.2002
 
-(zu § 20)
 
-### Anlage 18 Referenzmethoden für die Beurteilung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel, Quecksilber und Benzo[a]pyren
+### Anlage 18 (zu § 20) Referenzmethoden für die Beurteilung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel, Quecksilber und Benzo[a]pyren
 
 (Fundstelle: BGBl. I 2010, 1103)
 

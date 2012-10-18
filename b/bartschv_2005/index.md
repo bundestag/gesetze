@@ -691,10 +691,8 @@ Die nach Landesrecht zuständigen Behörden können nach § 2 Abs. 1 Satz
 14 Abs. 1 Satz 2 unter den jeweils genannten Voraussetzungen Ausnahmen
 auch allgemein zulassen.
 
-(zu § 1)
-Schutzstatus wild lebender Tier- und Pflanzenarten \*)
 
-### Anlage 1 Erläuterungen zur Anlage 1
+### Anlage 1 (zu § 1) Schutzstatus wild lebender Tier- und Pflanzenarten Erläuterungen zur Anlage 1
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 264 - 285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7455,9 +7453,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 2 Abs. 3 Nr. 2)
 
-### Anlage 2 Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
+### Anlage 2 (zu § 2 Abs. 3 Nr. 2) Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8081,9 +8078,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 5 Nr. 2)
 
-### Anlage 3 Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
+### Anlage 3 (zu § 5 Nr. 2) Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -8130,10 +8126,8 @@ gelten:
 
 
 
-(zu § 6 Abs. 1 Satz 2)
-Muster für das Aufnahme- und Auslieferungsbuch
 
-### Anlage 4 nach § 6 Abs. 1 Satz 2
+### Anlage 4 (zu § 6 Abs. 1 Satz 2) Muster für das Aufnahme- und Auslieferungsbuch nach § 6 Abs. 1 Satz 2
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -8156,9 +8150,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
 
 
-(zu § 7 Abs. 2)
 
-### Anlage 5 Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
+### Anlage 5 (zu § 7 Abs. 2) Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 290 - 291)
 
@@ -8593,17 +8586,15 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
 
 
-(zu § 12 Satz 1 und
 
-### Anlage 6 § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
+### Anlage 6 (zu § 12 Satz 1 und § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
 
 Fundstelle des Originaltextes: BGBl. I 2005, 292 - 316
 
 (Inhalt: nicht darstellbare Tabelle)
 
-(zu § 15 Abs. 3 Satz 1)
 
-### Anlage 7 Anforderungen an die Beschriftung von Ringen
+### Anlage 7 (zu § 15 Abs. 3 Satz 1) Anforderungen an die Beschriftung von Ringen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 317
 

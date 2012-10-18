@@ -469,9 +469,8 @@ eine Tafelsüße abgibt.
 begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
-(zu § 3 Abs. 1 und § 7)
 
-## Anlage 1 Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
+## Anlage 1 (zu § 3 Abs. 1 und § 7) Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
 
 (Fundstelle: BGBl. I 1998, 234 - 239;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3310,9 +3309,8 @@ Lebensmittel, zugelassen sind
 
 
 
-(zu § 4 Abs. 1 und § 7)
 
-## Anlage 2 Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
+## Anlage 2 (zu § 4 Abs. 1 und § 7) Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 240 - 243;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4581,9 +4579,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     mit Aspartam oder Acesulfam-K dürfen die für Aspertam oder Acesulfam-K
     jeweils vorgeschriebenen Höchstmengen nicht überschritten werden.
 [^bjnr023100998bjne001203310_e_BJNR023100998BJNE001203310]: 
-(zu § 5 Abs. 1 und § 7)
 
-## Anlage 3 Allgemein zugelassene Zusatzstoffe
+## Anlage 3 (zu § 5 Abs. 1 und § 7) Allgemein zugelassene Zusatzstoffe
 
 Fundstelle des Originaltextes: BGBl. I 1998, 244;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -4656,9 +4653,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 5 Abs. 1 und § 7)
 
-## Anlage 4 Begrenzt zugelassene Zusatzstoffe
+## Anlage 4 (zu § 5 Abs. 1 und § 7) Begrenzt zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1521 - 1536;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10835,9 +10831,8 @@ Teil B
 [^BJNR023100998BJNE001405310-1_BJNR023100998BJNE001407310]:     Bei Kombinationen von E 950, E 951, E 957 und E 959 sind die
     Einzelhöchstmengen anteilig zu reduzieren.
 [^BJNR023100998BJNE001405310-2_BJNR023100998BJNE001407310]: 
-(zu § 5 Abs. 1 und § 7)
 
-## Anlage 5 Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind
+## Anlage 5 (zu § 5 Abs. 1 und § 7) Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind
 
 (Fundstelle: BGBl. I 2000, 1537 - 1545;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13234,9 +13229,8 @@ Antioxidationsmittel für bestimmte Lebensmittel
 [^f770809_13_BJNR023100998BJNE001505310]:     Bei gemeinsamer Verwendung von Gallaten, TBHQ, BHA und BHT sind die
     Einzelmengen prozentual zu reduzieren.
 [^f770809_02_BJNR023100998BJNE001505310]: 
-(zu § 6 und § 7)
 
-## Anlage 6 In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe
+## Anlage 6 (zu § 6 und § 7) In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1545 - 1549;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14430,9 +14424,8 @@ Erzeugnis darf nicht mehr als 75 mg/l betragen.
 
 
 
-(zu § 6a)
 
-## Anlage 6a Zusatzstoffe, die für Trinkwasser zugelassen sind
+## Anlage 6a (zu § 6a) Zusatzstoffe, die für Trinkwasser zugelassen sind
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1399 - 1400)
 
@@ -14607,9 +14600,8 @@ Erzeugnis darf nicht mehr als 75 mg/l betragen.
 
 
 
-(zu § 5 Abs. 1)
 
-## Anlage 7 Zusatzstoffe für bestimmte technologische Zwecke
+## Anlage 7 (zu § 5 Abs. 1) Zusatzstoffe für bestimmte technologische Zwecke
 
 Fundstelle des Originaltextes: BGBl. I 1998, 268 - 269;
 bzgl. der einzelnen Änderungen vgl. Fußnote

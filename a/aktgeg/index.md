@@ -777,9 +777,8 @@ im Land Berlin.
 
 Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 960)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

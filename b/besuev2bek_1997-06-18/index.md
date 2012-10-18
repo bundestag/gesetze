@@ -36,9 +36,8 @@ ergebenden Dienst- und Anwärterbezüge für die Zeit ab 1. September
 
 Der Bundesminister des Innern
 
-(Anlage IV des BBesG)
 
-## Anlage IA Gültig ab 1. Juli 1997
+## Anlage IA (Anlage IV des BBesG) Gültig ab 1. Juli 1997
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1412 - 1414
 
@@ -975,11 +974,10 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1412 - 1414
 
 
 
-   (Anlage V des BBesG)
 
-## Anlage IB Gültig ab 1. Juli 1997
+## Anlage IB (Anlage V des BBesG) Gültig ab 1. Juli 1997
 
-(Fundstelle des Originaltextes: BGBl. I 1997, 1415)
+   (Fundstelle des Originaltextes: BGBl. I 1997, 1415)
 
 *    *   **Familienzuschlag**
         (Monatsbeträge in DM)
@@ -1031,9 +1029,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage IX des BBesG)
 
-## Anlage IC Gültig ab 1. Juli 1997
+## Anlage IC (Anlage IX des BBesG) Gültig ab 1. Juli 1997
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1416 - 1418)
 
@@ -2282,9 +2279,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage IV des BBesG)
 
-## Anlage IIA Gültig ab 1. September 1997
+## Anlage IIA (Anlage IV des BBesG) Gültig ab 1. September 1997
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1419 - 1421)
 
@@ -3268,9 +3264,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage V des BBesG)
 
-## Anlage IIB Gültig ab 1. September 1997
+## Anlage IIB (Anlage V des BBesG) Gültig ab 1. September 1997
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1422)
 
@@ -3324,9 +3319,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage VIII des BBesG)
 
-## Anlage IIC Gültig ab 1. September 1997
+## Anlage IIC (Anlage VIII des BBesG) Gültig ab 1. September 1997
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1422
 
@@ -3425,9 +3419,8 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
 
 
 
-(Anlage IX des BBesG)
 
-## Anlage IID Gültig ab 1. September 1997
+## Anlage IID (Anlage IX des BBesG) Gültig ab 1. September 1997
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1423 - 1425)
 

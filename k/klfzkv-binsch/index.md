@@ -585,9 +585,8 @@ genannten Verordnungen treten außer Kraft:
 
 
 
-(zu § 4 Abs. 1 Satz 2)
 
-### Anlage 1 Liste der amtlichen Kennzeichen
+### Anlage 1 (zu § 4 Abs. 1 Satz 2) Liste der amtlichen Kennzeichen
 
 Fundstelle des Originaltextes: BGBl. I 1995, 230
 

@@ -453,9 +453,8 @@ geltend gemacht wurden, ist auch hierüber zu berichten.
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 
-(zu § 5 Abs. 6)
 
-## Anlage Fragebogen gemäß § 5 Abs. 6 WpDPV
+## Anlage (zu § 5 Abs. 6) Fragebogen gemäß § 5 Abs. 6 WpDPV
 
 (Fundstelle: BGBl. I 2007, 2503 - 2504)
 Wertpapierdienstleistungsunternehmen:

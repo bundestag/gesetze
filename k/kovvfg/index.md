@@ -268,7 +268,7 @@ Berechnungsgrundlagen nicht bindend.
 (weggefallen)
 
 
-## VIII. - \*Ku Kosten und \*KE Auslagen
+## VIII. - *Ku Kosten und *KE Auslagen
 
 
 

@@ -362,10 +362,8 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen
-Assistenten
 
-## Abschnitt 2 - - Erster Prüfungsabschnitt -
+## Abschnitt 2 - Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen Assistenten - Erster Prüfungsabschnitt -
 
 
 
@@ -474,10 +472,8 @@ bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
 (3) Die Prüfung soll für jedes Fach nicht länger als sechs Stunden
 dauern.
 
-Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen
-Assistenten
 
-## Abschnitt 3 - - Zweiter Prüfungsabschnitt -
+## Abschnitt 3 - Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen Assistenten - Zweiter Prüfungsabschnitt -
 
 
 

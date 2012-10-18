@@ -464,9 +464,8 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
-(zu § 6 Absatz 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 306)
 
@@ -519,9 +518,8 @@ Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) bestanden.
 
 
 
-(zu § 6 Absatz 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 307)
 

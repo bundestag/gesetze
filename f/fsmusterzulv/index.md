@@ -234,9 +234,8 @@ zugelassen im Sinne dieser Verordnung.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 6 Abs. 1)
 
-## Anlage (Muster)
+## Anlage (zu § 6 Abs. 1) (Muster)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 29
 (Muster)                                (Seite 1)

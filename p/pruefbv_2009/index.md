@@ -1426,9 +1426,8 @@ Finanzgeschäften“.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 60)
 
-### Anlage 1 SON01
+### Anlage 1 (zu § 60) SON01
 
 (Fundstelle: BGBl. 2009, 3807 - 3811)
 Datenübersicht für Kreditinstitute und
@@ -2987,9 +2986,8 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     aufzunehmen.
 [^f772713_19_BJNR379300009BJNE006500000]:     Nettoposition (erhaltene ./. zurückgezahlte).
 [^f772713_20_BJNR379300009BJNE006500000]: 
-(zu § 60)
 
-### Anlage 2 SON02
+### Anlage 2 (zu § 60) SON02
 
 (Fundstelle: BGBl. 2009, 3812 - 3815)
 ## Ergänzende Datenübersicht für Bausparkassen
@@ -4608,9 +4606,8 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     Abschlussgebühr aufgelöst wurden, zum abgeschlossenen Neugeschäft des
     Berichtsjahres.
 [^f772713_30_BJNR379300009BJNE006600000]: 
-(zu § 60)
 
-### Anlage 3 SON03
+### Anlage 3 (zu § 60) SON03
 
 (Fundstelle: BGBl. 2009, 3816)
 Ergänzungen zur Datenübersicht
@@ -4836,11 +4833,10 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 
 
 
-   (zu § 60)
 
-### Anlage 4 SON04
+### Anlage 4 (zu § 60) SON04
 
-(Fundstelle: BGBl. 2009, 3817 - 3818)
+   (Fundstelle: BGBl. 2009, 3817 - 3818)
 Datenübersicht für Finanzdienstleistungsinstitute
 ## der Gruppen IIIa und IIIb
 
@@ -5272,9 +5268,8 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 [^f772713_34_BJNR379300009BJNE006800000]:     Sofern das geprüfte Institut übergeordnetes Institut ist.
 [^f772713_35_BJNR379300009BJNE006800000]:     Nettoposition (erhaltene ./. zurückgezahlte).
 [^f772713_36_BJNR379300009BJNE006800000]: 
-(zu § 60)
 
-### Anlage 5 SON05
+### Anlage 5 (zu § 60) SON05
 
 (Fundstelle: BGBl. 2009, 3818)
 Datenübersicht für Institute,

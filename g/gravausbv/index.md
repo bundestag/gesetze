@@ -446,9 +446,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Graveur/zur Graveurin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Graveur/zur Graveurin
 
 (Fundstelle: BGBl. I 1998, S. 1023 - 1027)
 

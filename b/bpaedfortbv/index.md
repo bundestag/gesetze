@@ -586,9 +586,8 @@ Berufspädagoge (IHK)/Berufspädagogin (IHK) können bis zum 31. Dezember
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
-(zu § 11 Absatz 5)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 11 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2932)
 
@@ -639,9 +638,8 @@ Berufspädagogin vom 21. August 2009 (BGBl. I S. 2927)
 
 
 
-(zu § 11 Absatz 5)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 11 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2933)
 

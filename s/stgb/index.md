@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 25.6.2012 I 1374
 
 
-## Allgemeiner Teil - 
+## Allgemeiner Teil -
 
 
 
@@ -741,7 +741,7 @@ Verantwortlichkeit frei.
 
 
 
-##### Freiheitsstrafe - 
+##### Freiheitsstrafe -
 
 
 
@@ -761,7 +761,7 @@ Freiheitsstrafe von längerer Dauer nach vollen Monaten und Jahren
 bemessen.
 
 
-##### Geldstrafe - 
+##### Geldstrafe -
 
 
 
@@ -838,7 +838,7 @@ Uneinbringlichkeit an die Stelle der Vermögensstrafe tritt
 zwei Jahre, ihr Mindestmaß ein Monat.
 
 
-##### Nebenstrafe - 
+##### Nebenstrafe -
 
 
 
@@ -870,7 +870,7 @@ die Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der
 Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist.
 
 
-##### Nebenfolgen - 
+##### Nebenfolgen -
 
 
 
@@ -1584,9 +1584,8 @@ Bewährungszeit um die bereits abgelaufene Bewährungszeit, jedoch nicht
 auf weniger als ein Jahr. Wird die Gesamtstrafe nicht zur Bewährung
 ausgesetzt, so gilt § 56f Abs. 3 entsprechend.
 
-Verwarnung mit Strafvorbehalt
 
-#### Fünfter Titel - Absehen von Strafe
+#### Fünfter Titel - Verwarnung mit Strafvorbehalt Absehen von Strafe
 
 
 
@@ -1719,7 +1718,7 @@ erwartenden Taten sowie zu dem Grad der von ihm ausgehenden Gefahr
 außer Verhältnis steht.
 
 
-##### Freiheitsentziehende Maßregeln - 
+##### Freiheitsentziehende Maßregeln -
 
 
 
@@ -2168,7 +2167,7 @@ entsprechend.
 gesetzten Frist auf, wenn ihr Zweck erreicht ist.
 
 
-##### Führungsaufsicht - 
+##### Führungsaufsicht -
 
 
 
@@ -2547,7 +2546,7 @@ nicht, wenn die Führungsaufsicht unbefristet ist (§ 68c Abs. 2 Satz 1
 oder Abs. 3).
 
 
-##### Entziehung der Fahrerlaubnis - 
+##### Entziehung der Fahrerlaubnis -
 
 
 
@@ -2653,7 +2652,7 @@ Entziehung der Fahrerlaubnis und die Sperre in den ausländischen
 Führerscheinen vermerkt.
 
 
-##### Berufsverbot - 
+##### Berufsverbot -
 
 
 
@@ -2749,7 +2748,7 @@ oder Zusagen erbracht hat, werden nicht erstattet.
 Berufsverbot für erledigt.
 
 
-##### Gemeinsame Vorschriften - 
+##### Gemeinsame Vorschriften -
 
 
 
@@ -3110,7 +3109,7 @@ dieser Vorschriften dem Vertretenen zugerechnet. § 14 Abs. 3 gilt
 entsprechend.
 
 
-##### Gemeinsame Vorschriften - 
+##### Gemeinsame Vorschriften -
 
 
 
@@ -3583,7 +3582,7 @@ aufhält, aus dem seine Auslieferung oder Überstellung nicht erreicht
 werden kann.
 
 
-## Besonderer Teil - 
+## Besonderer Teil -
 
 
 

@@ -1,5 +1,5 @@
 ---
-Title: Achtes Gesetz zur Änderung des Versicherungsaufsichtsgesetzes sowie zur  Änderung
+Title: Achtes Gesetz zur Änderung des Versicherungsaufsichtsgesetzes sowie zur Änderung
   des Finanzdienstleistungsaufsichtsgesetzes und anderer Vorschriften
 jurabk: VAGÄndG 8
 layout: default
@@ -8,7 +8,7 @@ slug: vagaendg_8
 
 ---
 
-# Achtes Gesetz zur Änderung des Versicherungsaufsichtsgesetzes sowie zur  Änderung des Finanzdienstleistungsaufsichtsgesetzes und anderer Vorschriften (VAGÄndG 8)
+# Achtes Gesetz zur Änderung des Versicherungsaufsichtsgesetzes sowie zur Änderung des Finanzdienstleistungsaufsichtsgesetzes und anderer Vorschriften (VAGÄndG 8)
 
 Ausfertigungsdatum
 :   2007-05-28

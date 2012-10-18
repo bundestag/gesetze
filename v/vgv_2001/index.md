@@ -617,7 +617,7 @@ in der Bekanntmachung festgelegt ist.
 
 
 
-### Anlage 1 
+### Anlage 1
 
 (Fundstelle: BGBl. I 2011, 802 - 803)
 

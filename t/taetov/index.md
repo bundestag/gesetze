@@ -234,9 +234,8 @@ Diese Verordnung tritt am 1. Mai 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Satz 2 Nr. 2)
 
-## Anlage 1 Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
+## Anlage 1 (zu § 1 Satz 2 Nr. 2) Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
 
 (Fundstelle: BGBl. I 2008, 2217 - 2218)
 
@@ -486,11 +485,10 @@ Der Bundesrat hat zugestimmt.
     *
 
 
-   (zu § 1 Satz 2 Nr. 3)
 
-## Anlage 2 Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
+## Anlage 2 (zu § 1 Satz 2 Nr. 3) Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
 
-(Fundstelle: BGBl. I 2008, 2219)
+   (Fundstelle: BGBl. I 2008, 2219)
 
 *    *   CI-Name
 

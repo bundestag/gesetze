@@ -632,9 +632,8 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 4 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
+## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 
 (Fundstelle: BGBl. I 2009, 1378 - 1386)
 **Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1**

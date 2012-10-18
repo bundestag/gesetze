@@ -1254,9 +1254,8 @@ Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die
 Nummern 2008 und 2009 des Kostenverzeichnisses in der bis zum 27.
 Dezember 2010 geltenden Fassung anzuwenden.
 
-(zu § 3 Abs. 2)
 
-#### Anlage 1 Kostenverzeichnis
+#### Anlage 1 (zu § 3 Abs. 2) Kostenverzeichnis
 
 (Fundstelle: BGBl. I 2008, 2677 - 2690; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

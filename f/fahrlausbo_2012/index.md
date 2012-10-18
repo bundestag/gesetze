@@ -156,9 +156,8 @@ Gleichzeitig tritt die Fahrlehrer-Ausbildungsordnung vom 18. August
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Absatz 1)
 
-## Anlage Rahmenplan für die Fahrlehrerausbildung an Fahrlehrerausbildungsstätten
+## Anlage (zu § 2 Absatz 1) Rahmenplan für die Fahrlehrerausbildung an Fahrlehrerausbildungsstätten
 
 (Fundstelle: BGBl. I 2012, 1309 - 1317)
 

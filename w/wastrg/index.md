@@ -1797,9 +1797,8 @@ soweit der Plan noch nicht außer Kraft getreten ist.
 
 (Inkrafttreten)
 
-(zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2)
 
-### Anlage 1 Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
+### Anlage 1 (zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2) Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 
 Fundstelle des Originaltextes: BGBl. I 2007, 977 - 984;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2630,9 +2629,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 14e Abs. 1)
 
-### Anlage 2 Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+### Anlage 2 (zu § 14e Abs. 1) Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
 Fundstelle des Originaltextes: BGBl. I 2007, 985
 
@@ -2674,10 +2672,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 985
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III
-(BGBl. II 1990, 889, 1111)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1111) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

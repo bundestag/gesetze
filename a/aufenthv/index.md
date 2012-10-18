@@ -5122,23 +5122,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## – Rückseite –
 
 ![bgbl1_2012_j1224-1_0020.jpg](bgbl1_2012_j1224-1_0020.jpg)
-Aufenthaltskarte (§ 5 Abs. 2 des Freizügigkeitsgesetzes/EU) und
-Aufenthaltserlaubnis,
-die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21.
-Juni 1999
-zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten
-einerseits und der
 
-### Anlage D15 Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen
+### Anlage D15 Aufenthaltskarte (§ 5 Abs. 2 des Freizügigkeitsgesetzes/EU) und Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen
 
 (Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2110 - 2111)
 - Vorderseite -
 ![bgbl1_2007_j1970_0560.jpg](bgbl1_2007_j1970_0560.jpg)
 – Rückseite –
 ![bgbl1_2007_j1970_0570.jpg](bgbl1_2007_j1970_0570.jpg)
-Bescheinigung des Daueraufenthalts und Daueraufenthaltskarte
 
-### Anlage D16 (§ 5 Abs. 6 des Freizügigkeitsgesetzes/EU)
+### Anlage D16 Bescheinigung des Daueraufenthalts und Daueraufenthaltskarte (§ 5 Abs. 6 des Freizügigkeitsgesetzes/EU)
 
 (Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2112 - 2113)
 - Vorderseite -

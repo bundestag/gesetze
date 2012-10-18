@@ -547,9 +547,8 @@ h)  die Bestimmungs-, Meß- und Berechnungsverfahren für die Angaben unter
 
 
 
-Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1227)
+## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1227)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

@@ -50,9 +50,8 @@ Bundesanzeiger bekannt gegeben.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Mautverzeichnis
+## Anlage (zu § 1) Mautverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2003, 836
 

@@ -513,23 +513,20 @@ fahrlässig
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-(zu § 4 Abs. 2, § 9 Abs. 4)
 
-### Anlage 1 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+### Anlage 1 (zu § 4 Abs. 2, § 9 Abs. 4) UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4575
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
 
-(zu § 4 Abs. 3 Nr. 1, § 14)
 
-### Anlage 2 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+### Anlage 2 (zu § 4 Abs. 3 Nr. 1, § 14) UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4576
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
 
-(zu § 9 Abs. 1)
 
-### Anlage 3 Prüfungsprogramm
+### Anlage 3 (zu § 9 Abs. 1) Prüfungsprogramm
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
 
@@ -1044,11 +1041,10 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
 
 
 
-   (zu § 9 Abs. 3)
 
-### Anlage 4 Vorschriften für den Prüfungsverlauf
+### Anlage 4 (zu § 9 Abs. 3) Vorschriften für den Prüfungsverlauf
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4579
+   Fundstelle des Originaltextes: BGBl. I 2002, 4579
 
 
 1.  Der Bewerber muss sich auf Verlangen vor Beginn der Prüfung durch

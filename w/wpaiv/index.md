@@ -183,7 +183,7 @@ Netze dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren angewendet werden.
 
 
-## Abschnitt 3 - Veröffentlichung und Mitteilung von Informationen,  Insiderverzeichnisse
+## Abschnitt 3 - Veröffentlichung und Mitteilung von Informationen, Insiderverzeichnisse
 
 
 
@@ -357,7 +357,7 @@ Medien, an die die Information gesandt wurde, sowie des genauen
 Zeitpunkts der Versendung an die Medien mitgeteilt werden.
 
 
-### Unterabschnitt 2 - Veröffentlichung und Mitteilung von  Insiderinformationen
+### Unterabschnitt 2 - Veröffentlichung und Mitteilung von Insiderinformationen
 
 
 
@@ -670,7 +670,7 @@ Netze dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren angewendet werden.
 
 
-### Unterabschnitt 3 - Veröffentlichung und Mitteilung von  Geschäften
+### Unterabschnitt 3 - Veröffentlichung und Mitteilung von Geschäften
 
 
 
@@ -902,7 +902,7 @@ aktualisierten Datensatz neu. Nach Fristablauf sind die Daten zu
 löschen.
 
 
-### Unterabschnitt 5 - Veröffentlichung und Mitteilung bei  Veränderungen des Stimmrechtsanteils
+### Unterabschnitt 5 - Veröffentlichung und Mitteilung bei Veränderungen des Stimmrechtsanteils
 
 
 
@@ -1063,10 +1063,8 @@ Wertpapierhandelsgesetzes hat neben den Angaben des Absatzes 1 Nummer
 letzte Veröffentlichung nach § 26a des Wertpapierhandelsgesetzes
 zugrunde zu legen.
 
-Berechnung des
-Stimmrechtsanteils für die Mitteilung
 
-#### § 17a nach § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
+#### § 17a Berechnung des Stimmrechtsanteils für die Mitteilung nach § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
 
 In die Berechnung des Stimmrechtsanteils nach § 25a Absatz 2 des
 Wertpapierhandelsgesetzes sind nicht einzubeziehen:
@@ -1121,7 +1119,7 @@ Bundesanstalt nach § 26 Abs. 2 des Wertpapierhandelsgesetzes gilt §
 3c.
 
 
-### Unterabschnitt 6 - Veröffentlichung und Inhalt von  Finanzberichten
+### Unterabschnitt 6 - Veröffentlichung und Inhalt von Finanzberichten
 
 
 

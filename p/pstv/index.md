@@ -2521,9 +2521,8 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 11)
 
-### Anlage 1 Datenfelder in den Personenstandsregistern
+### Anlage 1 (zu § 11) Datenfelder in den Personenstandsregistern
 
 (Fundstelle: BGBl. I 2008, 2282 - 2297)
 

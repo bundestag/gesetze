@@ -87,9 +87,8 @@ festgesetzt.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1 Abs. 1)
 
-## Anlage 1 Aufteilung des ersten Erhöhungsbetrags auf die Regionen
+## Anlage 1 (zu § 1 Abs. 1) Aufteilung des ersten Erhöhungsbetrags auf die Regionen
 
 
 *    *   Region
@@ -164,9 +163,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 
-(zu § 1 Abs. 2)
 
-## Anlage 2 Aufteilung des zweiten Erhöhungsbetrags auf die Regionen
+## Anlage 2 (zu § 1 Abs. 2) Aufteilung des zweiten Erhöhungsbetrags auf die Regionen
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 3039)
 
@@ -241,9 +239,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 
-(zu § 1 Abs. 3)
 
-## Anlage 3 Aufteilung des dritten Erhöhungsbetrags und des zusätzlichen Betrags auf die Regionen
+## Anlage 3 (zu § 1 Abs. 3) Aufteilung des dritten Erhöhungsbetrags und des zusätzlichen Betrags auf die Regionen
 
 ( Fundstelle: BGBl. I 2008, 2411 )
 
@@ -318,9 +315,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 
-(zu § 1 Absatz 4)
 
-## Anlage 4 Aufteilung des vierten Erhöhungsbetrags auf die Regionen
+## Anlage 4 (zu § 1 Absatz 4) Aufteilung des vierten Erhöhungsbetrags auf die Regionen
 
 (Fundstelle: BGBl. I 2009, 3556)
 
@@ -395,9 +391,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 
-(zu § 1 Absatz 5)
 
-## Anlage 5 Aufteilung des fünften Erhöhungsbetrags auf die Regionen
+## Anlage 5 (zu § 1 Absatz 5) Aufteilung des fünften Erhöhungsbetrags auf die Regionen
 
 (Fundstelle: BGBl. I 2009, 3557)
 

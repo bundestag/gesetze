@@ -1092,9 +1092,8 @@ Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 
-(zu § 2 Abs. 2)
 
-### Anlage 1 Stoffgebiete des Studiums der Pharmazie
+### Anlage 1 (zu § 2 Abs. 2) Stoffgebiete des Studiums der Pharmazie
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1716 - 1718
 
@@ -1250,9 +1249,8 @@ Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme;
 Seminarveranstaltungen im Block K finden in Form von Hauptseminaren
 statt.
 
-(zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3)
 
-### Anlage 2 Bescheinigung
+### Anlage 2 (zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 über die Teilnahme an der Veranstaltung .............................
@@ -1269,9 +1267,8 @@ Siegel                    .........., den .......................
 (Unterschrift des verantwortlichen
 Professors/Dozenten)
 
-(zu § 6 Abs. 4 Nr. 4)
 
-### Anlage 3 Bescheinigung
+### Anlage 3 (zu § 6 Abs. 4 Nr. 4) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 über die Teilnahme an der Veranstaltung .............................
@@ -1293,9 +1290,8 @@ Professors/Dozenten)
 
 (weggefallen)
 
-(zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)
 
-### Anlage 5 Bescheinigung über die praktische Ausbildung
+### Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3) Bescheinigung über die praktische Ausbildung
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
 Herr/Frau........................... ist in der Zeit vom
@@ -1320,9 +1316,8 @@ Verantwortlichen)
 ----------
 \*) Nichtzutreffendes streichen.
 
-(zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3)
 
-### Anlage 6 Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
+### Anlage 6 (zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3) Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
 Herr/Frau
@@ -1337,9 +1332,8 @@ Siegel/Stempel
 .....................................
 (Unterschrift)
 
-(zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3)
 
-### Anlage 7 Bescheinigung über die Tätigkeit als Famulus
+### Anlage 7 (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3) Bescheinigung über die Tätigkeit als Famulus
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1501)
 Herr/Frau
@@ -1364,9 +1358,8 @@ Apothekers)
 --------
 \*) Nichtzutreffendes streichen.
 
-(zu § 4 Abs. 4 Satz 1)
 
-### Anlage 8 Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
+### Anlage 8 (zu § 4 Abs. 4 Satz 1) Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1720
 
@@ -1428,9 +1421,8 @@ und Gemeinden sowie auf internationaler Ebene;
 Pharmazeutische Organisationen und Einrichtungen;
 Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 
-(zu § 11 Abs. 6 Satz 1)
 
-### Anlage 9 Niederschrift über die mündliche Prüfung im Zweiten/Dritten \*) Abschnitt der Pharmazeutischen Prüfung in dem Fach .......................
+### Anlage 9 (zu § 11 Abs. 6 Satz 1) Niederschrift über die mündliche Prüfung im Zweiten/Dritten Abschnitt der Pharmazeutischen Prüfung in dem Fach .......................
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1503;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1528,9 +1520,8 @@ der ausstellenden Behörde
 .....................................
 (Unterschrift)
 
-(zu § 17 Abs. 2 Satz 3)
 
-### Anlage 12 Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
+### Anlage 12 (zu § 17 Abs. 2 Satz 3) Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
@@ -1565,9 +1556,8 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 
 
-(zu § 17 Abs. 3)
 
-### Anlage 13 Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 13 (zu § 17 Abs. 3) Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
@@ -1654,9 +1644,8 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 
 
-(zu § 18 Abs. 3)
 
-### Anlage 14 Prüfungsstoff des Zweiten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 14 (zu § 18 Abs. 3) Prüfungsstoff des Zweiten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
@@ -1829,9 +1818,8 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
 
 
-(zu § 19 Abs. 3)
 
-### Anlage 15 Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 15 (zu § 19 Abs. 3) Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
@@ -1920,9 +1908,8 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
 
 
-(zu § 21 Satz 1)
 
-### Anlage 16 Approbationsurkunde
+### Anlage 16 (zu § 21 Satz 1) Approbationsurkunde
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1508)
 Herrn/Frau ........................, geboren am

@@ -2009,7 +2009,7 @@ geteilt wird.
 -
 
 
-## Abschnitt VI - 
+## Abschnitt VI -
 
 
 
@@ -2743,7 +2743,7 @@ Ausbildungsförderung.
 Auskunftspflichtig sind die Ämter für Ausbildungsförderung.
 
 
-## Abschnitt X - 
+## Abschnitt X -
 
 
 

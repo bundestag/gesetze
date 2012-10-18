@@ -294,11 +294,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann/zur
-Bankkauffrau
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 53 - 56)
 
@@ -982,11 +979,8 @@ Bankkauffrau
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann/zur
-Bankkauffrau
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 57 - 58)
 

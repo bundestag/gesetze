@@ -2338,7 +2338,7 @@ Bewilligungshindernisse geltend zu machen, der Überprüfung im
 Verfahren nach § 33.
 
 
-### Abschnitt 2 - Auslieferung an einen Mitgliedstaat der  Europäischen Union
+### Abschnitt 2 - Auslieferung an einen Mitgliedstaat der Europäischen Union
 
 
 
@@ -2633,7 +2633,7 @@ Vernehmung des Verfolgten als Beschuldigter zu bewilligen.
 Mitgliedstaates die Anwesenheit zu gestatten.
 
 
-### Abschnitt 3 - Durchlieferung an einen Mitgliedstaat der  Europäischen Union
+### Abschnitt 3 - Durchlieferung an einen Mitgliedstaat der Europäischen Union
 
 
 

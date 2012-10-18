@@ -1467,7 +1467,7 @@ Konzernabschlüsse für das nach dem 31. Dezember 2005 beginnende
 Geschäftsjahr anzuwenden.
 
 
-## Vierundzwanzigster Abschnitt - Übergangsvorschriften zum Gesetz  über elektronische Handelsregister und Genossenschaftsregister sowie das  Unternehmensregister
+## Vierundzwanzigster Abschnitt - Übergangsvorschriften zum Gesetz über elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister
 
 
 

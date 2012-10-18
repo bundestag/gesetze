@@ -1,7 +1,6 @@
-Bekanntmachung
 ---
-Title: über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro
-  (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+  von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
 jurabk: Münz100EuroBek 2007
 layout: default
 origslug: m_nz100eurobek_2007
@@ -9,7 +8,7 @@ slug: muenz100eurobek_2007
 
 ---
 
-# über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck") (Münz100EuroBek 2007)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck") (Münz100EuroBek 2007)
 
 Ausfertigungsdatum
 :   2007-09-07

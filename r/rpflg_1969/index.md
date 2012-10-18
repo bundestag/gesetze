@@ -1649,14 +1649,8 @@ wenn eine Verkündung nicht stattgefunden hat, der Geschäftsstelle
 Dieses Gesetz tritt am 1. Juli 1970 in Kraft; § 31 Abs. 2 Satz 2 tritt
 am Tage nach der Verkündung in Kraft.
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III
-und IV
-(BGBl. II 1990, 889, 927, 941)
-Abschnitt III
-- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-Abschnitt IV
 
-### Anhang EV - Sonderregelung für das Land Berlin -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 927, 941) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin -
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

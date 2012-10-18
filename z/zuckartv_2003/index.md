@@ -192,9 +192,8 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
-(zu den §§ 1 bis 4)
 
-## Anlage 1 Bezeichnungen und Begriffsbestimmungen
+## Anlage 1 (zu den §§ 1 bis 4) Bezeichnungen und Begriffsbestimmungen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 
@@ -482,9 +481,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 
 
 
-(zu § 2 Abs. 3 und § 4)
 
-## Anlage 2 Analysemethoden
+## Anlage 2 (zu § 2 Abs. 3 und § 4) Analysemethoden
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2102
 

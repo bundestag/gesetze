@@ -2811,10 +2811,8 @@ Vergleichsberechnung zu berücksichtigen sind. Die Übergangszahlung ist
 zurückzuzahlen, wenn der Beamte vor Ablauf eines Jahres aus dem
 Beamtenverhältnis ausscheidet und er dies zu vertreten hat.
 
-Konkurrenzregelung beim Grundgehalt für den vom
-Besoldungsüberleitungsgesetz
 
-### § 76 erfassten Personenkreis
+### § 76 Konkurrenzregelung beim Grundgehalt für den vom Besoldungsüberleitungsgesetz erfassten Personenkreis
 
 Ansprüche auf Grundgehalt nach der Anlage IV sind neben Ansprüchen auf
 Grundgehalt nach den Anlagen 1 oder 2 des

@@ -509,7 +509,7 @@ werden, nachdem der Tod des möglichen Organ- oder Gewebespenders nach
 § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist.
 
 
-## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden  Spendern
+## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden Spendern
 
 
 ### § 8 Entnahme von Organen und Geweben
@@ -1454,7 +1454,7 @@ zur Arbeitsweise und zum Verfahren regelt der Vertrag nach Absatz 4.
 (6) (weggefallen)
 
 
-## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung,  Datenschutz, Fristen
+## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung, Datenschutz, Fristen
 
 
 ### § 13 Dokumentation, Rückverfolgung, Verordnungsermächtigung zur Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
@@ -1523,7 +1523,7 @@ mit Zustimmung des Bundesrates das Verfahren regeln
 
 
 
-### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen  Versorgung
+### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen Versorgung
 
 Die Einrichtungen der medizinischen Versorgung haben dafür zu sorgen,
 dass für Zwecke der Rückverfolgung oder für Zwecke der Risikoerfassung
@@ -1672,7 +1672,7 @@ verfügbar sein.
 die Angaben zu löschen oder zu anonymisieren.
 
 
-## Abschnitt 5a - Richtlinien zum Stand der Erkenntnisse der  medizinischen Wissenschaft, Verordnungsermächtigung
+## Abschnitt 5a - Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft, Verordnungsermächtigung
 
 
 ### § 16 Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft bei Organen

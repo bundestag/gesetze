@@ -1,7 +1,6 @@
-Verordnung
-über die Kraftfahrzeug-Haftpflichtversicherung
 ---
-Title: ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
+Title: Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge
+  und Kraftfahrzeuganhänger
 jurabk: HPflEGRLDV
 layout: default
 origslug: hpflegrldv
@@ -9,7 +8,7 @@ slug: hpflegrldv
 
 ---
 
-# ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger (HPflEGRLDV)
+# Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger (HPflEGRLDV)
 
 Ausfertigungsdatum
 :   1974-05-08

@@ -492,9 +492,8 @@ diese Wahlgeräte nicht anzuwenden.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 2)
 
-### Anlage 1 Richtlinien für die Bauart von Wahlgeräten
+### Anlage 1 (zu § 2) Richtlinien für die Bauart von Wahlgeräten
 
 Fundstelle des Originaltextes: BGBl. I 1999, 753 - 755
 

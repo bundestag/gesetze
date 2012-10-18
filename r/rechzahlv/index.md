@@ -894,9 +894,8 @@ die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz
 
 Diese Verordnung tritt mit Wirkung vom 31. Oktober 2009 in Kraft.
 
-(zu § 2)
 
-### Anlage 1 Formblatt 1
+### Anlage 1 (zu § 2) Formblatt 1
 
 (Fundstelle: BGBl. I 2009, 3687 - 3688;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2273,11 +2272,10 @@ der .....................
     *
 
 
-   (zu § 2)
 
-### Anlage 2 Formblatt 2
+### Anlage 2 (zu § 2) Formblatt 2
 
-(Fundstelle: BGBl. I 2009, 3689 - 3691;
+   (Fundstelle: BGBl. I 2009, 3689 - 3691;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Gewinn- und Verlustrechnung**

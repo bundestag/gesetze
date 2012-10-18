@@ -411,9 +411,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
 
 (Fundstelle: BGBl. I 2005, 901 - 905)
 **Abschnitt I: Pflichtqualifikationen gemäß § 3 Abs. 1 Nr. 1**

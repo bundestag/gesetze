@@ -70,8 +70,7 @@ Neunten Buches Sozialgesetzbuch erbracht werden.
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 31.
 März 2013 außer Kraft.
 
-(zu § 1)
 
-## Anlage Rechtsnormen des Mindestlohn-Tarifvertrages für Wäschereidienstleistungen im Objektkundengeschäft vom 18. Mai 2009
+## Anlage (zu § 1) Rechtsnormen des Mindestlohn-Tarifvertrages für Wäschereidienstleistungen im Objektkundengeschäft vom 18. Mai 2009
 
 (Fundstelle: BAnz. 2009, Nr. 160 S. 3634)

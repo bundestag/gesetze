@@ -50,9 +50,8 @@ Erzeugnisse des Weinsektors:
 
 -
 
-Landweingebiete
 
-### § 2 (zu § 3 Absatz 2 Satz 1 Nummer 2 des Weingesetzes)
+### § 2 Landweingebiete (zu § 3 Absatz 2 Satz 1 Nummer 2 des Weingesetzes)
 
 Für die Bezeichnung von Landwein werden folgende Gebiete festgelegt:
 
@@ -145,9 +144,8 @@ Für die Bezeichnung von Landwein werden folgende Gebiete festgelegt:
 ## Abschnitt 2 - Anbauregeln
 
 
-Genehmigung von Neuanpflanzungen
 
-### § 3 (zu § 7 Absatz 2 Nummer 1 und 3 des Weingesetzes)
+### § 3 Genehmigung von Neuanpflanzungen (zu § 7 Absatz 2 Nummer 1 und 3 des Weingesetzes)
 
 (1) Die Genehmigung für eine Neuanpflanzung nach § 7 Absatz 1 Nummer 1
 bis 3 Buchstabe a des Weingesetzes darf nur erteilt werden, wenn
@@ -187,9 +185,8 @@ derartigen Flächen desselben Nutzungsberechtigten nicht größer als ein
 Ar sind und nicht in unmittelbarem räumlichen Zusammenhang mit einer
 weinbergmäßig bepflanzten Fläche stehen.
 
-Anbaueignung von Rebflächen
 
-### § 4 (zu § 7 Absatz 2 Nummer 1 und 2 des Weingesetzes)
+### § 4 Anbaueignung von Rebflächen (zu § 7 Absatz 2 Nummer 1 und 2 des Weingesetzes)
 
 (1) Eine Fläche ist für die Erzeugung von Qualitätswein b.A. geeignet,
 wenn zu erwarten ist, dass auf der Fläche in den in Anlage 1
@@ -208,9 +205,8 @@ Volumenprozent (50°Oe) und bei der Rebsorte Blauer Spätburgunder ein
 Mindestgehalt an natürlichem Alkohol von 6,7 Volumenprozent (55°Oe)
 erreicht wird.
 
-Vermarktungsnachweis
 
-### § 5 (zu § 7 Absatz 2 Nummer 1 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
+### § 5 Vermarktungsnachweis (zu § 7 Absatz 2 Nummer 1 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
 
 (1) Die Vermarktung des auf der Fläche und den sonstigen Rebflächen
 desselben Nutzungsberechtigten erzeugten Weines gilt insbesondere als
@@ -248,9 +244,8 @@ ist die Genehmigung mit dem Vorbehalt zu versehen, dass sie widerrufen
 werden kann, wenn die Nachweise nicht spätestens zwei Jahre nach
 Erteilung der Genehmigung erbracht werden.
 
-Verfahren
 
-### § 6 (zu § 7 Absatz 2 Nummer 1 und 4 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
+### § 6 Verfahren (zu § 7 Absatz 2 Nummer 1 und 4 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
 
 (1) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass
 vor einer Entscheidung über die Eignung der Fläche für die Erzeugung
@@ -267,9 +262,8 @@ der Fläche ergeben, zu berücksichtigen.
 (Versuchsgenehmigung) ist entsprechend dem Zweck des Weinbauversuches
 zu befristen.
 
-Ausnahmen
 
-### § 7 (zu § 7 Absatz 2 Nummer 3 des Weingesetzes)
+### § 7 Ausnahmen (zu § 7 Absatz 2 Nummer 3 des Weingesetzes)
 
 (1) In Ausnahmefällen, insbesondere wenn die Form des Geländes es
 erfordert, zur Erhaltung der Weinbaustruktur oder zur Schaffung einer
@@ -309,16 +303,15 @@ erfolgt:
 
 
 
-Anbaueignungsprüfung von Rebsorten
 
-### § 7a (zu § 7 Absatz 3 i.V.m. § 54 Absatz 1 des Weingesetzes)
+### § 7a Anbaueignungsprüfung von Rebsorten (zu § 7 Absatz 3 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
 Die Landesregierungen können durch Rechtsverordnung zur Sicherung der
 Qualität die Voraussetzungen und das Verfahren für die Prüfung der
 Anbaueignung von Rebsorten regeln.
 
 
-### § 8 Umstrukturierung und Umstellung\*%(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
+### § 8 Umstrukturierung und Umstellung*%(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
 
 (1) Die Landesregierungen erlassen durch Rechtsverordnung unter
 Beachtung der maßgeblichen Rechtsakte der Europäischen Gemeinschaft
@@ -359,9 +352,8 @@ Rebflächen.
 
 (weggefallen)
 
-Hektarertragsregelung
 
-### § 10 (zu § 12 Absatz 1 Nummer 1, 2 und 5 und Absatz 2 und § 33 Nummer 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
+### § 10 Hektarertragsregelung (zu § 12 Absatz 1 Nummer 1, 2 und 5 und Absatz 2 und § 33 Nummer 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Für die Umrechnung der Mengen nach § 9 Absatz 2 Satz 2 in
 Verbindung mit § 2 Nummer 8 und nach § 9a Absatz 1 Satz 2 des
@@ -402,9 +394,8 @@ Ablauf des Weinwirtschaftsjahres, das der Besitzeinweisung oder dem
 Abschluss der Arbeiten zur wertgleichen Abfindung folgt, als
 Ertragsrebfläche im Sinne des § 2 Nummer 7 des Weingesetzes gelten.
 
-Destillation
 
-### § 10a (zu § 12 Absatz 1 Nummer 6 und § 30 Satz 1 Nummer 2 des Weingesetzes)
+### § 10a Destillation (zu § 12 Absatz 1 Nummer 6 und § 30 Satz 1 Nummer 2 des Weingesetzes)
 
 (1) Die Destillation von Wein, der nach § 11 Absatz 1 Satz 1 des
 Weingesetzes zu destillieren ist, darf nur in einer nach den §§ 52 und
@@ -440,9 +431,8 @@ lesbar die Worte "Wein - nur zur Destillation nach § 11 Absatz 1 Satz
 ## Abschnitt 3 - Verarbeitung
 
 
-Behandlungsverfahren und Behandlungsstoffe
 
-### § 11 (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+### § 11 Behandlungsverfahren und Behandlungsstoffe (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
 
 (1) Bei den zur Herstellung von weinhaltigen Getränken bestimmten
 Erzeugnissen dürfen vorbehaltlich des Absatzes 5 nur die nach Artikel
@@ -626,17 +616,15 @@ Menge von höchstens 250 Milligramm je Liter zugesetzt werden. Ein in
 Satz 1 genanntes Erzeugnis darf, wenn es in den Verkehr gebracht wird,
 Rückstände von Dimethyldicarbonat (E 242) nicht aufweisen.
 
-Reinheitsanforderungen
 
-### § 12 (zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)
+### § 12 Reinheitsanforderungen (zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)
 
 Bei der Herstellung von Erzeugnissen dürfen die in Anlage 5 genannten
 Stoffe nur zugesetzt werden, wenn sie den dort aufgeführten
 Reinheitsanforderungen entsprechen.
 
-Behandlungsverfahren und Gehalt an Stoffen
 
-### § 13 (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+### § 13 Behandlungsverfahren und Gehalt an Stoffen (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
 
 (1) Solange und soweit nicht auf Grund anderer Rechtsvorschriften
 etwas Abweichendes bestimmt ist, dürfen Erzeugnisse, wenn sie in den
@@ -786,7 +774,7 @@ Gehalt an Chinarindearoma, Chinin oder seinen Salzen, als Chinin
 berechnet, aufweisen, der in einem Liter 300 Milligramm übersteigt.
 
 
-### § 14 Hygienische Anforderungen\*%(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)
+### § 14 Hygienische Anforderungen*%(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)
 
 Erzeugnisse dürfen nur unter Beachtung der Anforderungen des § 3 der
 Lebensmittelhygiene-Verordnung gewerbsmäßig verarbeitet, befördert,
@@ -835,9 +823,8 @@ vorgenommen werden.
 nach Maßgabe des Anhangs II Abschnitt A Nummer 4 der Verordnung (EG)
 Nr. 606/2009 zugelassen.
 
-Süßung
 
-### § 16 (zu § 15 Nummer 2 und 3, § 22 Absatz 2 Nummer 1 des Weingesetzes)
+### § 16 Süßung (zu § 15 Nummer 2 und 3, § 22 Absatz 2 Nummer 1 des Weingesetzes)
 
 (1) Qualitätswein b.A. darf nach Maßgabe des Anhangs I D Nummer 1 und
 3 der Verordnung (EG) Nr. 606/2009 nur mit Traubenmost gesüßt werden.
@@ -853,9 +840,8 @@ Roséwein nur Traubenmost aus Rotweintrauben und zur Süßung von Rotling
 Traubenmost derselben Art, Traubenmost aus Weißweintrauben oder
 Traubenmost aus Rotweintrauben verwendet werden.
 
-Restzuckergehalt bei Landwein
 
-### § 16a (zu § 22 Absatz 2 Nummer 1 des Weingesetzes)
+### § 16a Restzuckergehalt bei Landwein (zu § 22 Absatz 2 Nummer 1 des Weingesetzes)
 
 Der Restzuckergehalt darf bei einem unter der Bezeichnung Landwein in
 Verkehr gebrachten Wein nicht den für die Angabe „halbtrocken“
@@ -863,18 +849,16 @@ höchstzulässigen Wert übersteigen. Satz 1 gilt nicht für einen unter
 der Bezeichnung „Landwein Neckar“, „Landwein Rhein-Neckar“, „Landwein
 Oberrhein“ oder „Landwein Rhein“ in Verkehr gebrachten Landwein.
 
-Umrechnung von Oechslegraden in Volumenprozent Alkohol
 
-### § 17 (zu § 15 Nummer 7 des Weingesetzes)
+### § 17 Umrechnung von Oechslegraden in Volumenprozent Alkohol (zu § 15 Nummer 7 des Weingesetzes)
 
 Die Ermittlung des natürlichen Alkoholgehalts in Volumenprozent (%vol)
 aus den Oechslegraden
 (Grad Oe) erfolgt nach der in der Anlage 8 aufgeführten Tabelle. Für
 andere Umrechnungen ist die Tabelle nicht anzuwenden.
 
-Weitere Verarbeitungsregeln
 
-### § 18 (zu § 15 Nummer 3 und § 16 Absatz 2 des Weingesetzes)
+### § 18 Weitere Verarbeitungsregeln (zu § 15 Nummer 3 und § 16 Absatz 2 des Weingesetzes)
 
 (1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder
 Europäischen Union nichts anderes bestimmt ist, dürfen Weißweintrauben
@@ -1031,10 +1015,8 @@ Weinbauzone B zu ermitteln ist, nicht unterschreiten.
 ## Abschnitt 4 - Qualitätswein b.A.
 
 
-Herstellen von Qualitätswein b.A. außerhalb des bestimmten
-Anbaugebietes
 
-### § 19 (zu § 17 Absatz 2 Nummer 1 des Weingesetzes)
+### § 19 Herstellen von Qualitätswein b.A. außerhalb des bestimmten Anbaugebietes (zu § 17 Absatz 2 Nummer 1 des Weingesetzes)
 
 Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder
 Qualitätslikörwein b.A. darf nach Maßgabe des Artikels 6 Absatz 4
@@ -1054,9 +1036,8 @@ einem benachbarten Land liegt.
 
 -
 
-Qualitätsprüfung
 
-### § 21 (zu § 21 Absatz 1 Nummer 1 i.V.m. § 54 Absatz 1 des Weingesetzes)
+### § 21 Qualitätsprüfung (zu § 21 Absatz 1 Nummer 1 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Eine Prüfungsnummer wird einem Qualitätswein b.A. zugeteilt, wenn
 
@@ -1102,9 +1083,8 @@ Gesamtalkoholgehalt, sofern der festgestellte vorhandene oder
 potenzielle natürliche Alkoholgehalt nach § 15 Absatz 2 erhöht worden
 ist, einen bestimmten Wert nicht übersteigt.
 
-Antrag auf Erteilung einer Prüfungsnummer
 
-### § 22 (zu § 21 Absatz 1 Nummer 1 und 3 des Weingesetzes)
+### § 22 Antrag auf Erteilung einer Prüfungsnummer (zu § 21 Absatz 1 Nummer 1 und 3 des Weingesetzes)
 
 (1) Eine Prüfungsnummer kann beantragen:
 
@@ -1169,9 +1149,8 @@ Stelle erlassene Verwaltungsakt nicht angefochten wird. Absatz 4 Satz
 Aufbewahrung der Probe anordnen, wenn sie eine erneute Untersuchung
 des Erzeugnisses eingeleitet hat.
 
-Untersuchungsbefund
 
-### § 23 (zu § 21 Absatz 1 Nummer 3 i.V.m. § 54 Absatz 1 des Weingesetzes)
+### § 23 Untersuchungsbefund (zu § 21 Absatz 1 Nummer 3 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Mit dem Antrag auf Erteilung einer Prüfungsnummer ist unbeschadet
 des § 22 Absatz 5 von dem abgefüllten Erzeugnis ein
@@ -1212,9 +1191,8 @@ zurückgenommen oder widerrufen werden, wenn das Labor
 
 hat.
 
-Prüfungsverfahren
 
-### § 24 (zu § 16 Absatz 2 Satz 1, § 17 Absatz 2 Nummer 2 und § 21 Absatz 1 Nummer 3 und 6 des Weingesetzes)
+### § 24 Prüfungsverfahren (zu § 16 Absatz 2 Satz 1, § 17 Absatz 2 Nummer 2 und § 21 Absatz 1 Nummer 3 und 6 des Weingesetzes)
 
 (1) Die zuständige Stelle hat eine Sinnenprüfung zu veranlassen,
 sofern nicht bereits auf Grund der vorliegenden Unterlagen der Antrag
@@ -1286,9 +1264,8 @@ nicht für diese Teilmenge.
 (EG) Nr. 607/2009 hergestellte Sekt b.A. in mehreren Teilmengen
 degorgiert, ist Absatz 4 entsprechend anzuwenden.
 
-Zuständige Stelle
 
-### § 25 (zu § 21 Absatz 1 Nummer 3 des Weingesetzes)
+### § 25 Zuständige Stelle (zu § 21 Absatz 1 Nummer 3 des Weingesetzes)
 
 (1) Die zuständige Stelle des Landes, in dem die bei der Herstellung
 des Erzeugnisses verwendeten Weintrauben geerntet worden sind, trifft
@@ -1300,9 +1277,8 @@ zuständigen Stelle des Landes, aus dem der größte Anteil stammt.
 (2) Bei den nach Absatz 1 zuständigen Stellen können zur Mitwirkung an
 den Prüfungen Kommissionen bestellt werden.
 
-Prüfungsbescheid
 
-### § 26 (zu § 21 Absatz 1 Nummer 3 und § 24 Absatz 2 Nummer 1 des Weingesetzes)
+### § 26 Prüfungsbescheid (zu § 21 Absatz 1 Nummer 3 und § 24 Absatz 2 Nummer 1 des Weingesetzes)
 
 (1) Die zuständige Stelle erteilt dem Antragsteller über das Ergebnis
 der Prüfung einen Prüfungsbescheid mit einer Prüfungsnummer für die
@@ -1333,9 +1309,8 @@ ist der amtlichen Prüfungsnummer der gemäß Anlage 11 abgekürzte Name
 des Landes voranzustellen, in dem die für die Erteilung der
 Prüfungsnummer zuständige Stelle ihren Sitz hat.
 
-Rücknahme der Prüfungsnummer
 
-### § 27 (zu § 17 Absatz 2 Nummer 2 und § 21 Absatz 1 Nummer 3 und 5 des Weingesetzes)
+### § 27 Rücknahme der Prüfungsnummer (zu § 17 Absatz 2 Nummer 2 und § 21 Absatz 1 Nummer 3 und 5 des Weingesetzes)
 
 (1) Die Entscheidung über die Erteilung der Prüfungsnummer kann
 insbesondere zurückgenommen werden, wenn
@@ -1368,9 +1343,8 @@ zusammen mit dem Widerruf der Prüfungsnummer über die Herabstufung des
 Weines zu entscheiden. Soweit der Wein die Erzeugungsstufe noch nicht
 verlassen hat, ist § 24 Absatz 2 Satz 2 entsprechend anzuwenden.
 
-Ausnahmen
 
-### § 28 (zu § 16 Absatz 2 Satz 1, § 21 Absatz 2, § 24 Absatz 2, § 29 Absatz 1 Satz 1 Nummer 1 und § 30 Satz 1 Nummer 2 des Weingesetzes)
+### § 28 Ausnahmen (zu § 16 Absatz 2 Satz 1, § 21 Absatz 2, § 24 Absatz 2, § 29 Absatz 1 Satz 1 Nummer 1 und § 30 Satz 1 Nummer 2 des Weingesetzes)
 
 Abweichend von § 19 Absatz 1 und § 20 Absatz 1 des Weingesetzes dürfen
 die beantragte Prüfungsnummer und die Bezeichnung Qualitätswein b.A.,
@@ -1394,9 +1368,8 @@ gekennzeichnetes Erzeugnis erst nach der Zuteilung der Prüfungsnummer
 und, soweit es sich um Prädikatswein handelt, erst nach der
 Zuerkennung des Prädikats in den Verkehr gebracht werden.
 
-Qualitätsprüfung bestimmter Qualitätsschaumweine
 
-### § 28a (zu § 21 Absatz 1 Nummer 1, 3, 5 und 6 des Weingesetzes)
+### § 28a Qualitätsprüfung bestimmter Qualitätsschaumweine (zu § 21 Absatz 1 Nummer 1, 3, 5 und 6 des Weingesetzes)
 
 Wird für einen in § 19 Absatz 2 des Weingesetzes genannten
 Qualitätsschaumwein ein Antrag auf Zuteilung einer amtlichen
@@ -1409,9 +1382,8 @@ und 3, § 24 Absatz 1 Satz 1, 2, 3 Nummer 2 und 3 und Absatz 5, §§ 25,
 ## Abschnitt 5 - Bezeichnung und Aufmachung
 
 
-Eintragung von Lagen und Bereichen
 
-### § 29 (zu § 23 Absatz 3 des Weingesetzes)
+### § 29 Eintragung von Lagen und Bereichen (zu § 23 Absatz 3 des Weingesetzes)
 
 (1) Eine Lage darf in die Weinbergsrolle nur eingetragen werden, wenn
 sie insgesamt mindestens fünf Hektar groß ist. Abweichend davon kann
@@ -1459,9 +1431,8 @@ muss einen geografischen Bezug aufweisen.
 einbezogen werden, wenn die Voraussetzungen nach § 2 Nummer 23 des
 Weingesetzes erfüllt sind.
 
-Auszeichnungen und ähnliche Angaben
 
-### § 30 (zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
+### § 30 Auszeichnungen und ähnliche Angaben (zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Eine bei einem im Inland durchgeführten Wettbewerb erhaltene
 Auszeichnung oder ein Gütezeichen darf nur in der Kennzeichnung
@@ -1568,18 +1539,16 @@ und Gütezeichen der Deutschen Landwirtschaftsgesellschaft e. V. sowie
 der von den Landesregierungen anerkannten Auszeichnungen und
 Gütezeichen im Bundesanzeiger.
 
-Wein für religiöse Zwecke
 
-### § 31 (zu § 24 Absatz 2 des Weingesetzes)
+### § 31 Wein für religiöse Zwecke (zu § 24 Absatz 2 des Weingesetzes)
 
 Die Bezeichnungen "Abendmahlswein", "Messwein", "Koscherer Wein" oder
 "Koscherer Passahwein" dürfen nur im geschäftlichen Verkehr mit der
 jeweiligen Kirche oder Religionsgemeinschaft und nach deren besonderen
 Vorschriften gebraucht werden.
 
-Angabe von Weinarten; Reifeangaben
 
-### § 32 (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)
+### § 32 Angabe von Weinarten; Reifeangaben (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)
 
 (1) Bei inländischem Qualitätswein b.A. darf die Bezeichnung
 
@@ -1697,9 +1666,8 @@ der Verordnung (EG) Nr. 607/2009 nur zulässig, wenn
 Eine Kennzeichnung mit mehreren Angaben nach Anhang XVI der genannten
 Verordnung ist nicht zulässig.
 
-Classic
 
-### § 32a (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 32a Classic (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 Die Bezeichnung "Classic" darf nur verwendet werden, wenn es sich um
 Qualitätswein der Weinart Weißwein oder Rotwein handelt und
@@ -1752,9 +1720,8 @@ Qualitätswein der Weinart Weißwein oder Rotwein handelt und
 
 
 
-Selection
 
-### § 32b (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 32b Selection (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 Die Bezeichnung "Selection" darf nur verwendet werden, wenn es sich um
 Qualitätswein der Weinart Weißwein oder Rotwein handelt und
@@ -1824,9 +1791,8 @@ Qualitätswein der Weinart Weißwein oder Rotwein handelt und
 
 
 
-Weitere Bestimmungen für Classic und Selection
 
-### § 32c (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 Nummer 1 bis 3, dieser i.V.m. § 54 Absatz 1 des Weingesetzes)
+### § 32c Weitere Bestimmungen für Classic und Selection (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 Nummer 1 bis 3, dieser i.V.m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Die in §§ 32a und 32b genannten Bezeichnungen dürfen ferner nur
 verwendet werden, wenn
@@ -1939,9 +1905,8 @@ vor dem 1. Januar 2001 abgegeben werden.
 Jahres abgegeben werden. Als verwendete Trauben im Sinne des Satzes 1
 gelten nicht die zur Süßung verwendeten Erzeugnisse.
 
-Abweichungen; Ausnahmen
 
-### § 32d (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 32d Abweichungen; Ausnahmen (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 (1) Abweichend von
 
@@ -2001,9 +1966,8 @@ bezeichnet werden darf, ist § 32c Absatz 5 nicht anzuwenden.
 Vorschriften als "Classic" oder "Selection" gekennzeichnet ist, darf
 noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
-Liebfrau(en)milch; Hock
 
-### § 33 (zu § 24 Absatz 2 des Weingesetzes)
+### § 33 Liebfrau(en)milch; Hock (zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Weißer Qualitätswein der bestimmten Anbaugebiete Nahe, Pfalz,
 Rheingau und Rheinhessen darf als "Liebfrauenmilch" oder
@@ -2035,9 +1999,8 @@ Geschmacksangabe „lieblich“ zulässigen Spanne liegt.
 
 (5) (weggefallen)
 
-Verwendung bestimmter Behältnisse
 
-### § 33a (zu § 24 Absatz 2 Nummer 4 i. V. m. § 54 Absatz 1 des Weingesetzes)
+### § 33a Verwendung bestimmter Behältnisse (zu § 24 Absatz 2 Nummer 4 i. V. m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Die Landesregierungen von Baden-Württemberg und Bayern können für
 in ihrem Gebiet hergestellte Qualitätsweine b.A., die in Flaschen der
@@ -2062,9 +2025,8 @@ geeigneter Verschluss verwendet werden.
 Absatz 1 der Verordnung (EG) Nr. 607/2009 bezeichneten Aufmachung in
 Verkehr gebracht werden.
 
-Riesling-Hochgewächs; Der Neue; primeur
 
-### § 34 (zu § 24 Absatz 2 des Weingesetzes)
+### § 34 Riesling-Hochgewächs; Der Neue; primeur (zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Weißer Qualitätswein darf als "Riesling-Hochgewächs" nur
 bezeichnet werden, wenn
@@ -2099,9 +2061,8 @@ Bezeichnung primeur nur verwendet werden, wenn er nicht vor dem
 dritten Donnerstag des Monats November des Erntejahres an
 Endverbraucher abgegeben wird.
 
-Crémant, Winzersekt
 
-### § 34a (zu § 24 Absatz 2, auch i. V. m. § 54 Absatz 1 des Weingesetzes)
+### § 34a Crémant, Winzersekt (zu § 24 Absatz 2, auch i. V. m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Bei einem Sekt b.A. darf die Angabe „Crémant“ nur gebraucht
 werden, wenn
@@ -2169,9 +2130,8 @@ Verkehr gebracht werden, wenn folgende Anforderungen erfüllt sind:
 
 
 
-Steillage; Terrassenlage
 
-### § 34b (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
+### § 34b Steillage; Terrassenlage (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
 
 (1) Bei inländischem Landwein, Qualitätswein und Prädikatswein darf
 die Angabe "Steillage" oder "Steillagenwein" in Anwendung von Artikel
@@ -2220,9 +2180,8 @@ Rebfläche stammen, die
 (3) Die Bezeichnungen nach den Absätzen 1 und 2 dürfen nicht
 gleichzeitig verwendet werden.
 
-Teilweise gegorener Traubenmost
 
-### § 34c (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
+### § 34c Teilweise gegorener Traubenmost (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
 
 (1) Bei einem teilweise gegorenen Traubenmost, der zum unmittelbaren
 Verbrauch bestimmt ist, ist in Ergänzung der Bezeichnung nach Anhang
@@ -2275,9 +2234,8 @@ darf die Bezeichnung „Federrotling“ verwendet werden.
 
 -
 
-Vorgeschriebene Angaben
 
-### § 36 (zu § 24 Absatz 2 des Weingesetzes)
+### § 36 Vorgeschriebene Angaben (zu § 24 Absatz 2 des Weingesetzes)
 
 Weinhaltige Getränke müssen als weinhaltiges Getränk bezeichnet
 werden. Abweichend von Satz 1 darf ein weinhaltiges Getränk, das durch
@@ -2286,9 +2244,8 @@ Kohlensäure mit kohlensäurehaltigem Wasser hergestellt wird, als
 Schorle oder bei Verwendung von Wein als Weinschorle bezeichnet
 werden.
 
-Zugelassene und verbotene Angaben
 
-### § 37 (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 37 Zugelassene und verbotene Angaben (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 (1) Die Worte Kabinett, Spätlese, Auslese, Beerenauslese,
 Trockenbeerenauslese und Eiswein dürfen im geschäftlichen Verkehr
@@ -2309,9 +2266,8 @@ Angabe durch eine Rechtsvorschrift des Herstellungslandes zugelassen
 ist, gilt diese Voraussetzung nur als erfüllt, wenn die Angabe auch
 für den Verkehr innerhalb des Herstellungslandes zulässig ist.
 
-Angaben zum Betrieb und zur Abfüllung
 
-### § 38 (zu § 24 Absatz 2 des Weingesetzes)
+### § 38 Angaben zum Betrieb und zur Abfüllung (zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Eine Angabe zum Betrieb ist bei Federweißer, Landwein,
 Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder
@@ -2408,9 +2364,8 @@ Cocktails die Angabe des Herstellers, Einführers oder Abfüllers
 vorgeschrieben, so ist neben dem Namen (Firma) der Ort des Betriebs
 oder der Hauptniederlassung anzugeben.
 
-Geografische Angaben
 
-### § 39 (zu § 24 Absatz 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
+### § 39 Geografische Angaben (zu § 24 Absatz 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
 (1) Wird zur Bezeichnung eines Qualitätsweines b.A. der Name
 
@@ -2545,9 +2500,8 @@ Landweingebietes gekennzeichnet sein, in dem das von der Eintragung
 nach Artikel 118i der Verordnung (EG) Nr. 1234/2007 erfasste
 abgegrenzte Gebiet liegt.
 
-Angabe kleinerer geografischer Einheiten
 
-### § 40 (zu § 24 Absatz 2 des Weingesetzes)
+### § 40 Angabe kleinerer geografischer Einheiten (zu § 24 Absatz 2 des Weingesetzes)
 
 Bei Qualitätswein b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein
 b.A., der gesüßt worden ist, darf der Name einer Lage, eines Bereichs,
@@ -2559,9 +2513,8 @@ einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als
 anderen kleineren geografischen Einheiten und alle zur Herstellung
 verwendeten Trauben aus dem bestimmten Anbaugebiet stammen.
 
-Geschmacksangaben
 
-### § 41 (zu § 24 Absatz 2 des Weingesetzes)
+### § 41 Geschmacksangaben (zu § 24 Absatz 2 des Weingesetzes)
 
 Bei Perlwein und Perlwein mit zugesetzter Kohlensäure dürfen nur die
 Geschmacksangaben
@@ -2579,9 +2532,8 @@ Geschmacksangaben
 
 verwendet werden.
 
-Rebsortenangaben
 
-### § 42 (zu § 24 Absatz 2 des Weingesetzes)
+### § 42 Rebsortenangaben (zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Bei Landwein, Qualitätswein b.A., Qualitätsperlwein b.A. oder
 Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer
@@ -2696,9 +2648,8 @@ unzulässig:
 
 (4) (weggefallen)
 
-Jahrgangsangaben
 
-### § 43 (zu § 24 Absatz 2 des Weingesetzes)
+### § 43 Jahrgangsangaben (zu § 24 Absatz 2 des Weingesetzes)
 
 Bei Landwein, Qualitätswein b.A., Qualitätsperlwein b.A. oder
 Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name des
@@ -2708,9 +2659,8 @@ des genannten Artikels einschließlich der zur Süßung verwendeten
 Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung
 verwendeten Erzeugnisse aus anderen Jahrgängen stammen.
 
-Kumulierungsverbot
 
-### § 44 (zu § 24 Absatz 2 des Weingesetzes)
+### § 44 Kumulierungsverbot (zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Artikel 61 Absatz 1 und Artikel 62 Absatz 1 Buchstabe c Ziffer i
 der Verordnung (EG) Nr. 607/2009 dürfen bei Landwein, Qualitätswein
@@ -2729,9 +2679,8 @@ Erzeugnisses aus der kleineren geografischen Einheit als dem
 bestimmten Anbaugebiet, von der Rebsorte und aus dem Jahrgang stammen,
 mit denen das Erzeugnis bezeichnet wird.
 
-Verwendung von Kennziffern
 
-### § 45 (zu § 24 Absatz 2 des Weingesetzes)
+### § 45 Verwendung von Kennziffern (zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Eine nach Artikel 56 Absatz 2, 3 oder 4 der Verordnung (EG) Nr.
 607/2009 erforderliche Angabe kann nach Maßgabe des Artikels 56 Absatz
@@ -2744,11 +2693,8 @@ ist.
 Kennziffer unter Voranstellung des Buchstabens „D“ und der Angabe des
 Landes mit der Abkürzung gemäß Anlage 11.
 
-Angabe des Alkoholgehalts bei weinhaltigen Getränken, aromatisiertem
-Wein, aromatisierten weinhaltigen Getränken und aromatisierten
-weinhaltigen Cocktails
 
-### § 46 (zu § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)
+### § 46 Angabe des Alkoholgehalts bei weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails (zu § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)
 
 (1) Bei weinhaltigen Getränken, aromatisiertem Wein und aromatisierten
 weinhaltigen Getränken sowie bei aromatisierten weinhaltigen Cocktails
@@ -2763,9 +2709,8 @@ bis 0,3 Volumenprozent nach oben oder unten zulässig. Die Abweichung
 gilt unbeschadet der Toleranzen, die sich aus der für die Bestimmung
 des Alkoholgehalts verwendeten Analysenmethode ergeben.
 
-Zusatzstoffangaben; Angabe bei erhöhtem Koffeingehalt
 
-### § 46a (zu § 24 Absatz 2 Nummer 1 und Absatz 3 Nummer 4 des Weingesetzes)
+### § 46a Zusatzstoffangaben; Angabe bei erhöhtem Koffeingehalt (zu § 24 Absatz 2 Nummer 1 und Absatz 3 Nummer 4 des Weingesetzes)
 
 (1) Bei weinhaltigen Getränken ist der Gehalt an
 
@@ -2804,10 +2749,8 @@ Angabe "erhöhter Koffeingehalt", gefolgt von der Angabe des
 Koffeingehaltes in Klammern in Milligramm pro 100 Milliliter, in
 demselben Sichtfeld wie die Verkehrsbezeichnung anzubringen.
 
-Zutaten, die allergische oder andere Unverträglichkeitsreaktionen
-auslösen können
 
-### § 46b (zu § 24 Absatz 3 Nummer 4 und 5 des Weingesetzes)
+### § 46b Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können (zu § 24 Absatz 3 Nummer 4 und 5 des Weingesetzes)
 
 (1) Erzeugnisse mit einem vorhandenen Alkoholgehalt von mehr als 1,2
 Volumenprozent, die Zutaten im Sinne der Anlage 12 enthalten, dürfen
@@ -2855,9 +2798,8 @@ sind die Zutaten wie folgt kenntlich zu machen:
 
 (4) Bei den übrigen Erzeugnissen gilt Absatz 3 Nummer 2 entsprechend.
 
-Alkoholfreier und alkoholreduzierter Wein
 
-### § 47 (zu § 26 Absatz 3 Satz 1 des Weingesetzes)
+### § 47 Alkoholfreier und alkoholreduzierter Wein (zu § 26 Absatz 3 Satz 1 des Weingesetzes)
 
 (1) Getränke, die nicht Erzeugnisse im Sinne des Weingesetzes sind,
 dürfen hergestellt und in den Verkehr gebracht werden, wenn sie
@@ -3007,9 +2949,8 @@ Traubenmostkonzentrat nicht zugesetzt worden sind.
 
 -
 
-Art der Aufmachung
 
-### § 49 (zu § 21 Absatz 1 Nummer 4 und § 24 Absatz 3 Nummer 5 des Weingesetzes)
+### § 49 Art der Aufmachung (zu § 21 Absatz 1 Nummer 4 und § 24 Absatz 3 Nummer 5 des Weingesetzes)
 
 (1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder in dieser
 Verordnung nichts anderes bestimmt ist, sind vorgeschriebene
@@ -3050,9 +2991,8 @@ Werbung darf eine Marke (Wort- oder Bildzeichen) neben der
 Weinbezeichnung nur verwendet werden, wenn sie von der Weinbezeichnung
 deutlich abgehoben ist.
 
-Angabe des Loses
 
-### § 50 (zu § 24 Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 5 des Weingesetzes)
+### § 50 Angabe des Loses (zu § 24 Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 5 des Weingesetzes)
 
 (1) Erzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie
 mit einer Angabe gekennzeichnet sind, aus der das Los zu ersehen ist,
@@ -3432,9 +3372,8 @@ der Anwendung der Umrechnungsfaktoren beim abgebenden Weinbaubetrieb
 keine Überschreitung des Hektarertrages im Sinne des § 9 des
 Weingesetzes für das Erntejahr 2010 ergibt.
 
-(zu § 4)
 
-### Anlage 1 Mindestmostgewichte der Vergleichsrebsorten
+### Anlage 1 (zu § 4) Mindestmostgewichte der Vergleichsrebsorten
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 854)
 
@@ -3781,10 +3720,8 @@ Weingesetzes für das Erntejahr 2010 ergibt.
 
 
 
-(zu § 11 Absatz 4 Satz 1 Nummer 3 Buchstabe b und Satz 2 Nummer 1
-Buchstabe b)
 
-### Anlage 2 Stoffe, die bei der Herstellung bestimmter Erzeugnisse zugesetzt werden dürfen
+### Anlage 2 (zu § 11 Absatz 4 Satz 1 Nummer 3 Buchstabe b und Satz 2 Nummer 1 Buchstabe b) Stoffe, die bei der Herstellung bestimmter Erzeugnisse zugesetzt werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 855)
 
@@ -3999,9 +3936,8 @@ Cocktails dürfen nur
 
 
 
-(zu § 11 Absatz 4 Satz 2 Nummer 3)
 
-### Anlage 3 Süßungsmittel, die bei der Herstellung weinhaltiger Getränke zugesetzt werden dürfen
+### Anlage 3 (zu § 11 Absatz 4 Satz 2 Nummer 3) Süßungsmittel, die bei der Herstellung weinhaltiger Getränke zugesetzt werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 856)
 
@@ -4060,9 +3996,8 @@ Süßungsmittel nur
 
 zugesetzt werden.
 
-(zu § 11 Absatz 5)
 
-### Anlage 4 Farbstoffe, die bei der Herstellung bestimmter Erzeugnisse zugesetzt werden dürfen
+### Anlage 4 (zu § 11 Absatz 5) Farbstoffe, die bei der Herstellung bestimmter Erzeugnisse zugesetzt werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 857)
 
@@ -4547,9 +4482,8 @@ G.  Bei der Herstellung von aromatisierten weinhaltigen Cocktails dürfen
 
 
 
-(zu § 12)
 
-### Anlage 5 Reinheitsanforderungen
+### Anlage 5 (zu § 12) Reinheitsanforderungen
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 858 - 859)
 
@@ -4749,9 +4683,8 @@ Saccharose darf zur Alkoholerhöhung nur verwendet werden, wenn sie
 technisch rein und nicht färbend ist; sie muss in der Trockensubstanz
 mindestens 99,5 vom Hundert vergärbaren Zucker enthalten.
 
-(zu § 13 Absatz 1 Nummer 1)
 
-### Anlage 6 Gehalt an Stoffen
+### Anlage 6 (zu § 13 Absatz 1 Nummer 1) Gehalt an Stoffen
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 860 - 861)
 
@@ -5314,9 +5247,8 @@ mindestens 99,5 vom Hundert vergärbaren Zucker enthalten.
 
 
 
-(zu § 13 Absatz 1 Nummer 2)
 
-### Anlage 7 Gehalt an Stoffen
+### Anlage 7 (zu § 13 Absatz 1 Nummer 2) Gehalt an Stoffen
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 862)
 
@@ -5490,9 +5422,8 @@ aromatisierte weinhaltige Cocktails, soweit die zu ihrer Herstellung
 verwendeten Erzeugnisse aus der Ernte 2000 oder früheren Ernten
 stammen.
 
-(zu § 13 Absatz 2)
 
-### Anlage 7a Stoffe
+### Anlage 7a (zu § 13 Absatz 2) Stoffe
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 863 - 865)
 
@@ -6664,9 +6595,8 @@ stammen.
 
 
 
-(zu § 17)
 
-### Anlage 8 Tabelle zur Ermittlung des natürlichen Alkoholgehalts in Volumenprozent aus dem Oechslegrad
+### Anlage 8 (zu § 17) Tabelle zur Ermittlung des natürlichen Alkoholgehalts in Volumenprozent aus dem Oechslegrad
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 866)
 
@@ -7172,11 +7102,10 @@ stammen.
 
 
 
-   (zu § 22 Absatz 1 und § 24 Absatz 1)
 
-### Anlage 9 Prüfungsantrag/Sinnenprüfung
+### Anlage 9 (zu § 22 Absatz 1 und § 24 Absatz 1) Prüfungsantrag/Sinnenprüfung
 
-(Fundstelle des Originaltextes: BGBl. I 2009, 867 - 868;
+   (Fundstelle des Originaltextes: BGBl. I 2009, 867 - 868;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt I.
@@ -7426,9 +7355,8 @@ Abschnitt II.
 
 
 
-(zu § 22 Absatz 5 und § 23 Absatz 1)
 
-### Anlage 10 Untersuchungsbefund
+### Anlage 10 (zu § 22 Absatz 5 und § 23 Absatz 1) Untersuchungsbefund
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 869)
 
@@ -7509,9 +7437,8 @@ Der Untersuchungsbefund muss folgende Angaben enthalten:
 
 
 
-(zu § 26 Absatz 2 und § 45 Absatz 2)
 
-### Anlage 11 Abkürzungen der Bundesländer bei der Angabe von Kennziffern
+### Anlage 11 (zu § 26 Absatz 2 und § 45 Absatz 2) Abkürzungen der Bundesländer bei der Angabe von Kennziffern
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 870)
 
@@ -7598,9 +7525,8 @@ Der Untersuchungsbefund muss folgende Angaben enthalten:
 
 
 
-(zu § 46b)
 
-### Anlage 12 Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können
+### Anlage 12 (zu § 46b) Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 871)
 

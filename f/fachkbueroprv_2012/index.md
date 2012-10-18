@@ -376,9 +376,8 @@ die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
 Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für
 Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 
-(zu § 6 Absatz 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 271)
 
@@ -436,9 +435,8 @@ Berufsbildungsgesetzes nachgewiesen.
 
 
 
-(zu § 6 Absatz 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 272 - 273)
 

@@ -527,9 +527,8 @@ die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-(zu § 3)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Karosserieinstandhaltungstechnik/zur Mechanikerin für Karosserieinstandhaltungstechnik
+## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Karosserieinstandhaltungstechnik/zur Mechanikerin für Karosserieinstandhaltungstechnik
 
 (Fundstelle: BGBl. I 2008, 1446 - 1454)
 

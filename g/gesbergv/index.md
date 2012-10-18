@@ -1397,9 +1397,8 @@ geregelt sind oder ihr widersprechen.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2)
 
-### Anlage 1 Einteilung der Eignungsgruppen
+### Anlage 1 (zu § 2) Einteilung der Eignungsgruppen
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1760
 
@@ -1522,9 +1521,8 @@ ist grundsätzlich die Eignungsgruppe 1, 2, 3 oder 4 anzugeben; die
 Untergruppen (1.1 bis 1.3, 2.11 bis 2.25) sind zu verwenden, soweit
 dies zur Kennzeichnung von Staublungenveränderungen erforderlich ist.
 
-(zu § 2)
 
-### Anlage 2 Nachuntersuchungen
+### Anlage 2 (zu § 2) Nachuntersuchungen
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1761
 
@@ -1741,9 +1739,8 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1761
 Nachuntersuchungen und deren Fristen nach anderen Rechtsvorschriften
 bleiben unberührt.
 
-(zu § 3)
 
-### Anlage 3 Rahmen für arbeitsmedizinische Vorsorgeuntersuchungen
+### Anlage 3 (zu § 3) Rahmen für arbeitsmedizinische Vorsorgeuntersuchungen
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1762
 
@@ -1809,9 +1806,8 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1762
 
 
 
-(zu § 3)
 
-### Anlage 4 Ärztliche Bescheinigung über arbeitsmedizinische Erst- und Nachuntersuchungen
+### Anlage 4 (zu § 3) Ärztliche Bescheinigung über arbeitsmedizinische Erst- und Nachuntersuchungen
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1762
 
@@ -1870,9 +1866,8 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1762
 
 
 
-(zu § 4)
 
-### Anlage 5 Allgemein zulassungspflichtige Stoffe nach § 4 Abs. 1 Nr. 2 Buchstabe b
+### Anlage 5 (zu § 4) Allgemein zulassungspflichtige Stoffe nach § 4 Abs. 1 Nr. 2 Buchstabe b
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1763;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1936,9 +1931,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 5)
 
-### Anlage 6 Ermittlung der persönlichen Staubbelastungswerte nach § 5 Abs. 1
+### Anlage 6 (zu § 5) Ermittlung der persönlichen Staubbelastungswerte nach § 5 Abs. 1
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1764)
 
@@ -2128,9 +2122,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 7)
 
-### Anlage 7 Zuordnung der Betriebspunkte zu Staubbelastungsstufen nach § 7 Abs. 1
+### Anlage 7 (zu § 7) Zuordnung der Betriebspunkte zu Staubbelastungsstufen nach § 7 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765
 
@@ -2181,9 +2174,8 @@ In den Fällen der Anlage 6 Nr. 2.2 oder 2.3 sind die
 Konzentrationswerte für den Quarzfeinstaub mit dem Faktor 0,7 oder 0,3
 umzurechnen.
 
-(zu § 8)
 
-### Anlage 8 Höchstzulässige zeitliche Abstände für Wiederholungsmessungen nach § 8 Abs. 2 Satz 2
+### Anlage 8 (zu § 8) Höchstzulässige zeitliche Abstände für Wiederholungsmessungen nach § 8 Abs. 2 Satz 2
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2265,9 +2257,8 @@ Die Wiederholungsmessungen sind längstens durchzuführen:
 
 
 
-(zu § 9)
 
-### Anlage 9 Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1 Satz 1 Nr. 2
+### Anlage 9 (zu § 9) Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1 Satz 1 Nr. 2
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1766
 
@@ -2315,9 +2306,8 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1766
 
 
 
-(zu § 10)
 
-### Anlage 10 Staubgrenzwerte für fibrogene Grubenstäube nach § 10 Abs. 2 Satz 1
+### Anlage 10 (zu § 10) Staubgrenzwerte für fibrogene Grubenstäube nach § 10 Abs. 2 Satz 1
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1766)
 Es gelten folgende Staubgrenzwerte

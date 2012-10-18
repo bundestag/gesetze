@@ -2445,10 +2445,8 @@ bestimmt ist, kann von den in diesem Gesetz und auf Grund dieses
 Gesetzes getroffenen Regelungen des Verwaltungsverfahrens durch
 Landesrecht nicht abgewichen werden.
 
-(zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2
-Nummer 1)
 
-### Anlage 1 Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
+### Anlage 1 (zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1) Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
 (Fundstelle: BGBl. I 2012, 1746 - 1748)
 
@@ -2787,9 +2785,8 @@ Auswahlentscheidungen nach § 7 Absatz 3 nicht beeinträchtigt wird.
 
 
 
-(zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1)
 
-### Anlage 2 Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
+### Anlage 2 (zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1) Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
 
 (Fundstelle: BGBl. I 2012, 1749 - 1750)
 

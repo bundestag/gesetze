@@ -452,9 +452,8 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 Leben oder die Gesundheit von Beschäftigten gefährdet, ist nach § 26
 Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
-Anforderungen an Arbeitsstätten nach § 3 Abs. 1
 
-## Anhang Inhaltsübersicht
+## Anhang Anforderungen an Arbeitsstätten nach § 3 Abs. 1 Inhaltsübersicht
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2182 - 2188;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

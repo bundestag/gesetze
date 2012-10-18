@@ -311,10 +311,8 @@ erlassen worden sind oder erlassen werden, gelten im Land Berlin nach
 (2) Tarifverträge, die vor dem Inkrafttreten dieses Gesetzes
 abgeschlossen sind, unterliegen diesem Gesetz.
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1023)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1023) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

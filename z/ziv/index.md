@@ -714,9 +714,8 @@ des Inkrafttretens im Bundesgesetzblatt bekannt.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 15)
 
-### Anlage Liste der verbundenen Einrichtungen
+### Anlage (zu § 15) Liste der verbundenen Einrichtungen
 
 Folgende Einrichtungen sind als "mit der Regierung verbundene
 Einrichtungen, die als Behörde handeln oder deren Funktion durch einen

@@ -66,9 +66,8 @@ Arbeitsbedingungen zu gewähren.
 Diese Verordnung tritt am 1. Juni 2012 in Kraft und am 31. Dezember
 2012 außer Kraft.
 
-(zu § 1)
 
-## Anlage Rechtsnormen des Mindestlohntarifvertrags für die Branche der Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011 und 6. März 2012
+## Anlage (zu § 1) Rechtsnormen des Mindestlohntarifvertrags für die Branche der Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011 und 6. März 2012
 
 (Fundstelle: BAnz AT 31.05.2012 V 1)
 

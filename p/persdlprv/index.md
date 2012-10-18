@@ -465,9 +465,8 @@ Berufsbildungsgesetzes nachgewiesen wurde.
 
 Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 
-(zu § 6 Absatz 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2010, 1039)
 
@@ -523,9 +522,8 @@ bestanden.
 
 
 
-(zu § 6 Absatz 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2010, 1040)
 

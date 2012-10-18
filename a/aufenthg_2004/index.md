@@ -1,7 +1,6 @@
-Gesetz
-über den Aufenthalt, die Erwerbstätigkeit
 ---
-Title: und die Integration von Ausländern im Bundesgebiet
+Title: Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern
+  im Bundesgebiet
 jurabk: AufenthG 2004
 layout: default
 origslug: aufenthg_2004
@@ -9,7 +8,7 @@ slug: aufenthg_2004
 
 ---
 
-# und die Integration von Ausländern im Bundesgebiet (AufenthG 2004)
+# Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (AufenthG 2004)
 
 Ausfertigungsdatum
 :   2004-07-30
@@ -1675,9 +1674,8 @@ bestimmte Stelle zur Wahrung politischer Interessen der Bundesrepublik
 Deutschland die Aufnahme erklärt hat. Im Falle des Satzes 2 berechtigt
 die Aufenthaltserlaubnis zur Ausübung einer Erwerbstätigkeit.
 
-Aufenthaltsgewährung durch die obersten Landesbehörden;
 
-#### § 23 Aufnahme bei besonders gelagerten politischen Interessen
+#### § 23 Aufenthaltsgewährung durch die obersten Landesbehörden; Aufnahme bei besonders gelagerten politischen Interessen
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder
 humanitären Gründen oder zur Wahrung politischer Interessen der

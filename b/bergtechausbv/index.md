@@ -681,9 +681,8 @@ vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 3 Absatz 1 Satz 1)
 
-## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Sachliche Gliederung –
+## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1244 - 1248)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1468,9 +1467,8 @@ und Fähigkeiten in der Fachrichtung Tiefbohrtechnik**
 
 
 
-(zu § 3 Absatz 1 Satz 2)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Zeitliche Gliederung –
+## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1249 - 1262)
 **Abschnitt 1**

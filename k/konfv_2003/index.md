@@ -174,9 +174,8 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
-(zu den §§ 1 bis 4)
 
-## Anlage 1 Erzeugnisse
+## Anlage 1 (zu den §§ 1 bis 4) Erzeugnisse
 
 (Fundstelle: BGBl. I 2003, 2153 - 2154;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -408,9 +407,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 2 Abs. 1 und § 4)
 
-## Anlage 2 Ausgangserzeugnisse
+## Anlage 2 (zu § 2 Abs. 1 und § 4) Ausgangserzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2155
 
@@ -532,9 +530,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2155
 
 
 
-(zu § 2 Abs. 2)
 
-## Anlage 3 Zutaten
+## Anlage 3 (zu § 2 Abs. 2) Zutaten
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2156
 

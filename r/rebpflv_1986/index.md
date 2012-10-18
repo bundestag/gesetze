@@ -765,9 +765,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
-(zu § 4 Abs. 3, § 6 Satz 1)
 
-### Anlage 1 Anforderungen an den Rebenbestand
+### Anlage 1 (zu § 4 Abs. 3, § 6 Satz 1) Anforderungen an den Rebenbestand
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1440 - 1441)
 
@@ -908,9 +907,8 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 
 
-(zu § 6 Satz 2)
 
-### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
+### Anlage 2 (zu § 6 Satz 2) Anforderungen an die Beschaffenheit des Pflanzgutes
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
@@ -1056,9 +1054,8 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
 
 
-(zu § 11 Abs. 1, § 16, § 21 Abs. 1)
 
-### Anlage 3 Verpackung
+### Anlage 3 (zu § 11 Abs. 1, § 16, § 21 Abs. 1) Verpackung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1442)
 
@@ -1151,9 +1148,8 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
 
 
-(zu § 17 Abs. 2, § 19 Abs. 4)
 
-### Anlage 4 Angaben auf dem Etikett
+### Anlage 4 (zu § 17 Abs. 2, § 19 Abs. 4) Angaben auf dem Etikett
 
 Fundstelle des Originaltextes: BGBl. I 1986, 213;
 bzgl. der einzelnen Änderungen vgl. Fußnote

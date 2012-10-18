@@ -52,9 +52,8 @@ vorbehalten hat.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1 Absatz 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Absatz 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 3534)
 

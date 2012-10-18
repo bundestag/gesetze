@@ -408,11 +408,8 @@ deren Basis die erste Prüfung vorgenommen worden ist.
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten
-für Bürokommunikation/zur Fachangestellten für Bürokommunikation
 
-## Anlage I - Sachliche Gliederung -
+## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 510 - 515)
 
@@ -1122,11 +1119,8 @@ für Bürokommunikation/zur Fachangestellten für Bürokommunikation
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten
-für Bürokommunikation/zur Fachangestellten für Bürokommunikation
 
-## Anlage II - Zeitliche Gliederung -
+## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 516 - 518)
 **A.**

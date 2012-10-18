@@ -1792,9 +1792,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv
 15\.8.2007
 
-(zu § 5 Abs. 1)
 
-## Anlage 2 Zugelassene Zusatzstoffe
+## Anlage 2 (zu § 5 Abs. 1) Zugelassene Zusatzstoffe
 
 
 1.  Die in § 1a Abs. 1 der Verordnung über vitaminisierte Lebensmittel
@@ -1825,9 +1824,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 5b Abs. 1)
 
-## Anlage 3 Analysenmethoden
+## Anlage 3 (zu § 5b Abs. 1) Analysenmethoden
 
 Die anzuwendende Methode ist aus der nachstehenden Aufstellung zu
 ersehen. Die Beschreibung der Analysenmethoden ergibt sich aus der

@@ -374,10 +374,8 @@ anzuwenden, die den bis zum 31. März 2008 geltenden Mustern
 entsprechen und dem Verbraucher vor dem 1. Oktober 2008 in Textform
 mitgeteilt worden sind.
 
-(zu § 9)
-Muster
 
-### Anlage 1 für den Sicherungsschein
+### Anlage 1 (zu § 9) Muster für den Sicherungsschein
 
 (Fundstelle: BGBl. I 2002, 3008)
 

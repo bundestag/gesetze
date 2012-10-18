@@ -313,9 +313,8 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
 
 (Fundstelle: BGBl. I 2002, 419 - 423)
 

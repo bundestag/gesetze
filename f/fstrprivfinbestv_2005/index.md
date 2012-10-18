@@ -41,9 +41,8 @@ Bundesfernstraßen).
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Privatfinanzierte Abschnitte von Bundesfernstraßen
+## Anlage (zu § 1) Privatfinanzierte Abschnitte von Bundesfernstraßen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1686
 

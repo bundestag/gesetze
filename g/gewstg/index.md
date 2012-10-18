@@ -1135,7 +1135,7 @@ Abs. 1 des Umsatzsteuergesetzes) aus der Tätigkeit unmittelbar für den
 Absatzmarkt im Erhebungszeitraum 25 000 Euro nicht übersteigen.
 
 
-## Abschnitt III - 
+## Abschnitt III -
 
 
 

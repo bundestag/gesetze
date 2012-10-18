@@ -108,9 +108,8 @@ Bundesgesetzblatt bekanntzugeben.
 
 Der Bundesminister für Verkehr
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1106)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

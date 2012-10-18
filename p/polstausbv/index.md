@@ -409,9 +409,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie
 
 (Fundstelle: BGBl. I 1997, 249 - 253)
 

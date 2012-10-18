@@ -356,9 +356,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
 
 (Fundstelle: BGBl. I 2001, 1479 - 1485)
 
