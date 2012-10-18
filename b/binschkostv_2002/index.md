@@ -121,9 +121,8 @@ werden. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-(zu § 1 Abs. 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Abs. 2) Gebührenverzeichnis
 
 
 *    *   Laufende

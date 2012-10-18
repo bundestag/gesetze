@@ -81,7 +81,7 @@ und Reaktorsicherheit wahrnimmt, untersteht es den fachlichen
 Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
 
-## Art 2 und 3 - 
+## Art 2 und 3 -
 
 
 

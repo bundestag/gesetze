@@ -267,10 +267,8 @@ beziehen sollen, insbesondere aus folgenden Gebieten lösen:
 
 
 
-Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
-Glockengießerin
 
-## § 8 Fachrichtung Zinngußtechnik
+## § 8 Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und Glockengießerin Fachrichtung Zinngußtechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -402,10 +400,8 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
 Leistungen erbracht sind.
 
-Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
-Glockengießerin
 
-## § 9 Fachrichtung Kunst- und Glockengußtechnik
+## § 9 Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und Glockengießerin Fachrichtung Kunst- und Glockengußtechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -551,10 +547,8 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
 Leistungen erbracht sind.
 
-Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
-Glockengießerin
 
-## § 10 Fachrichtung Metallgußtechnik
+## § 10 Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und Glockengießerin Fachrichtung Metallgußtechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -696,9 +690,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metall- und Glockengießer/zur Metall- und Glockengießerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Metall- und Glockengießer/zur Metall- und Glockengießerin
 
 (Fundstelle: BGBl. I 1998, S. 1000 - 1006)
 

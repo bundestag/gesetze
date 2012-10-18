@@ -50,9 +50,8 @@ die Verordnung über die pauschalierten Nettoentgelte für das
 Kurzarbeitergeld für das Jahr 2011 vom 7. Dezember 2010 (BGBl. I S.
 1833) außer Kraft.
 
-(zu § 1)
 
-## Anlage 1 Pauschaliertes Nettoentgelt
+## Anlage 1 (zu § 1) Pauschaliertes Nettoentgelt
 
 (Fundstelle: BGBl. I 2011, 2697 - 2704)
 
@@ -4552,11 +4551,10 @@ Kurzarbeitergeld für das Jahr 2011 vom 7. Dezember 2010 (BGBl. I S.
     *
 
 
-   (zu § 2)
 
-## Anlage 2 Programmablaufplan zur maschinellen Berechnung von Kurzarbeitergeld nach dem SGB III (gültig ab dem 1. Januar 2012)
+## Anlage 2 (zu § 2) Programmablaufplan zur maschinellen Berechnung von Kurzarbeitergeld nach dem SGB III (gültig ab dem 1. Januar 2012)
 
-(Fundstelle: BGBl. I 2011, 2705 - 2709)
+   (Fundstelle: BGBl. I 2011, 2705 - 2709)
 
 
 

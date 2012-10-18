@@ -102,9 +102,8 @@ Tierschutzkommission teilnehmen.
 Die Tierschutzkommission kann zu ihren Beratungen weitere
 Sachverständige heranziehen.
 
-Ehrenamtliche Tätigkeit
 
-## § 8 Verfahrensbestimmungen
+## § 8 Ehrenamtliche Tätigkeit Verfahrensbestimmungen
 
 (1) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus.
 

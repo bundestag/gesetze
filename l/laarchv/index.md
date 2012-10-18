@@ -239,9 +239,8 @@ Der Bundesminister des Innern
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1988, 163)
 
-(zu § 6 Abs. 2)
 
-## Anlage 2 Abgabeliste für negativ beschiedene oder sonstwie abgeschlossene FG-Akten
+## Anlage 2 (zu § 6 Abs. 2) Abgabeliste für negativ beschiedene oder sonstwie abgeschlossene FG-Akten
 
 Fundstelle des Originaltextes: BGBl. I 1988, 164
 
@@ -267,11 +266,10 @@ Fundstelle des Originaltextes: BGBl. I 1988, 164
 
 
 
-   (zu § 6 Abs. 2)
 
-## Anlage 3 Abgabeliste für Sachakten
+## Anlage 3 (zu § 6 Abs. 2) Abgabeliste für Sachakten
 
-Fundstelle des Originaltextes: BGBl. I 1988, 165
+   Fundstelle des Originaltextes: BGBl. I 1988, 165
 
 *    *   Lfd. Nr.
 

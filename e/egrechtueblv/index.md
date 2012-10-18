@@ -144,9 +144,8 @@ Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1)
 
-## Anlage 1 Liste der Rechtsakte der Europäischen Gemeinschaften, die nach § 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gemäß den von den zuständigen Organen der Europäischen Gemeinschaften erlassenen Ausnahmeregelungen mit folgenden Maßgaben anzuwenden sind:
+## Anlage 1 (zu § 1) Liste der Rechtsakte der Europäischen Gemeinschaften, die nach § 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gemäß den von den zuständigen Organen der Europäischen Gemeinschaften erlassenen Ausnahmeregelungen mit folgenden Maßgaben anzuwenden sind:
 
 
 *
@@ -332,9 +331,8 @@ folgende Kontrollmittel zu verwenden:
 
 
 
-(zu § 2 Nr. 1)
 
-## Anlage 2 Liste des Bundesrechts, das gemäß § 2 Nr. 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zeitlichen Maßgaben unterliegt
+## Anlage 2 (zu § 2 Nr. 1) Liste des Bundesrechts, das gemäß § 2 Nr. 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zeitlichen Maßgaben unterliegt
 
 
 *
@@ -542,9 +540,8 @@ folgende Kontrollmittel zu verwenden:
 
 
 
-(zu § 2 Nr. 2)
 
-## Anlage 3 Liste des Bundesrechts, das gemäß § 2 Nr. 2 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet mit folgenden Maßgaben anzuwenden ist
+## Anlage 3 (zu § 2 Nr. 2) Liste des Bundesrechts, das gemäß § 2 Nr. 2 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet mit folgenden Maßgaben anzuwenden ist
 
 Fundstelle: BGBl. I 1990, 2921 - 2926;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1376,9 +1373,8 @@ bedeuten würde. Sie darf nur für einen Schwefelgehalt bis zu höchstens
 Dezember 1994 zu befristen. Die Bewilligung ist im Hinblick auf eine
 rasche Verwirklichung des Verordnungsziels mit Auflagen zu versehen.
 
-(zu § 4 Abs. 1 Satz 1)
 
-## Anlage 4 Liste der Erzeugnisse gemäß § 4 Abs. 1 Satz 1
+## Anlage 4 (zu § 4 Abs. 1 Satz 1) Liste der Erzeugnisse gemäß § 4 Abs. 1 Satz 1
 
 Erzeugnisse im Sinne des § 4 Abs. 1 Satz 1 sind die Erzeugnisse, die
 den in folgenden Teilen der Anlagen genannten Vorschriften
@@ -1413,11 +1409,8 @@ unterliegen:
 
 
 
-zu Anlage 1
-Anordnung über die Liefermengen von Kuhmilch für den Zeitraum vom 1.
-Juli 1990 bis 31. März 1991
 
-## Anhang 1 Vom 22. August 1990
+## Anhang 1 zu Anlage 1 Anordnung über die Liefermengen von Kuhmilch für den Zeitraum vom 1. Juli 1990 bis 31. März 1991 Vom 22. August 1990
 
 § 1
 (1) Die Liefermengen von Kuhmilch für landwirtschaftliche Unternehmen
@@ -1553,12 +1546,8 @@ Berlin den 22. August 1990
 
 
 
-zu Anlage 1
-Zweite Durchführungsbestimmung über die Bildung der
-Landeskontrollverbände und Erhebung einer Mitverantwortungsabgabe für
-Milch und Milcherzeugnisse
 
-## Anhang 2 Vom 21. September 1990
+## Anhang 2 zu Anlage 1 Zweite Durchführungsbestimmung über die Bildung der Landeskontrollverbände und Erhebung einer Mitverantwortungsabgabe für Milch und Milcherzeugnisse Vom 21. September 1990
 
 Auf der Grundlage des § 5 des Tierzuchtgesetzes vom 17. Dezember 1980
 (GBl. I Nr. 35), des § 6 des Marktorganisationsgesetzes vom 6. Juli

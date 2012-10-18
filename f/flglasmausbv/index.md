@@ -383,9 +383,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1991 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Flachglasmechaniker/zur Flachglasmechanikerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Flachglasmechaniker/zur Flachglasmechanikerin
 
 (Fundstelle: BGBl. I 1991, 41 - 44)
 

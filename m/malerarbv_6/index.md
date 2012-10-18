@@ -65,9 +65,8 @@ vorgeschriebenen Arbeitsbedingungen zu gewähren.
 Diese Verordnung tritt am 1. Juni 2012 in Kraft und am 30. April 2013
 außer Kraft.
 
-(zu § 1)
 
-## Anlage Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk vom 25. November 2011 in der Fassung des Änderungstarifvertrags vom 8. Februar 2012 (TV Mindestlohn)
+## Anlage (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk vom 25. November 2011 in der Fassung des Änderungstarifvertrags vom 8. Februar 2012 (TV Mindestlohn)
 
 (Fundstelle: BAnz AT 31.05.2012 V2)
 

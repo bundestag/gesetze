@@ -75,7 +75,7 @@ die gemäß § 157a des Versicherungsaufsichtsgesetzes von der laufenden
 Aufsicht freigestellt sind, nicht anzuwenden.
 
 
-### Erster Unterabschnitt - Bilanz und Gewinn- und  Verlustrechnungen
+### Erster Unterabschnitt - Bilanz und Gewinn- und Verlustrechnungen
 
 
 
@@ -459,7 +459,7 @@ Berechnung gebildet wird.
 Erläuterungen gemäß Absatz 1 Nr. 2 und 3.
 
 
-#### § 10 Zusätzliche formgebundene Erläuterungen der  Lebensversicherungsunternehmen
+#### § 10 Zusätzliche formgebundene Erläuterungen der Lebensversicherungsunternehmen
 
 Lebensversicherungsunternehmen haben zusätzlich folgende formgebundene
 Erläuterungen zu erstellen:
@@ -791,7 +791,7 @@ Versicherungsaufsichtsgesetzes sind, ist das Gutachten mindestens zum
 Abschlussstichtag eines jeden dritten Geschäftsjahres vorzulegen.
 
 
-### Vierter Unterabschnitt - Ergänzende Vorschrift für den  internen jährlichen Bericht der ausländischen Versicherungsunternehmen
+### Vierter Unterabschnitt - Ergänzende Vorschrift für den internen jährlichen Bericht der ausländischen Versicherungsunternehmen
 
 
 
@@ -863,7 +863,7 @@ genannten, für das gesamte Versicherungsgeschäft einzureichen:
 
 
 
-### § 19 Vierteljährliche Zwischenberichte durch besondere  Versicherungsunternehmen
+### § 19 Vierteljährliche Zwischenberichte durch besondere Versicherungsunternehmen
 
 (1) Lebensversicherungsunternehmen haben die vierteljährlichen Angaben
 gemäß Nachweisung 601 vorzulegen.

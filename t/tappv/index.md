@@ -1301,7 +1301,7 @@ Einrichtungen abgeleistet. Der Zeitpunkt der Ableistung wird von der
 Universität festgelegt.
 
 
-### Unterabschnitt 1 - Die Ausbildung in Kontrolltätigkeiten,  -methoden und -techniken für den Lebensmittelbereich einschließlich der  Überprüfung von Frischfleisch
+### Unterabschnitt 1 - Die Ausbildung in Kontrolltätigkeiten, -methoden und -techniken für den Lebensmittelbereich einschließlich der Überprüfung von Frischfleisch
 
 
 
@@ -1366,7 +1366,7 @@ Behandlung der Schlachttiere zu informieren.
 2 Bescheinigungen nach den Anlagen 6 und 7.
 
 
-### Unterabschnitt 2 - Die Ausbildung in der kurativen  tierärztlichen Praxis oder in einer Tierklinik
+### Unterabschnitt 2 - Die Ausbildung in der kurativen tierärztlichen Praxis oder in einer Tierklinik
 
 
 
@@ -1479,7 +1479,7 @@ Die Studierenden erhalten über die Ausbildung eine Bescheinigung nach
 Anlage 11.
 
 
-### Unterabschnitt 4 - Die praktische Ausbildung im öffentlichen  Veterinärwesen
+### Unterabschnitt 4 - Die praktische Ausbildung im öffentlichen Veterinärwesen
 
 
 
@@ -1756,9 +1756,8 @@ die Stelle des 1. Oktober 2006 der 1. Oktober 2007 tritt.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 1, 2 und 3)
 
-### Anlage 1 Fachgebiete und Gesamtstundenzahlen \*)
+### Anlage 1 (zu § 2 Abs. 1, 2 und 3) Fachgebiete und Gesamtstundenzahlen
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1841 - 1842)
 

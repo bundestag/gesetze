@@ -55,9 +55,8 @@ Ein- und Ausgang im Regelfall keinen besonderen zollamtlichen
 
 (2)
 
-(zu § 1 Abs. 1)
 
-## Anlage 1 Alter Freihafen
+## Anlage 1 (zu § 1 Abs. 1) Alter Freihafen
 
 (Fundstelle: BGBl. I 2008, 50 u. 51)
 
@@ -173,9 +172,8 @@ nach Osten und folgt dort dem weiten Bogen des Maschenzauns – diesen
 im Freihafen belassend – nach Südosten bis an die Eisenbahnbrücke über
 die Norderelbe.
 
-(zu § 1 Abs. 2)
 
-## Anlage 2 Waltershof
+## Anlage 2 (zu § 1 Abs. 2) Waltershof
 
 (Fundstelle: BGBl. I 2008, 2746 u. 2747)
 

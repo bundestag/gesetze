@@ -318,16 +318,14 @@ Diese Verordnung tritt am 1. Januar 1956 in Kraft.
 
 Der Bundesminister für Verkehr
 
-(zu § 16)
 
-### Anlage A Seelotsenanwärterausweis
+### Anlage A (zu § 16) Seelotsenanwärterausweis
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. II 1955, 924)
 
-(zu § 16)
 
-### Anlage B Seelotsenausweis
+### Anlage B (zu § 16) Seelotsenausweis
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. II 1955, 925)

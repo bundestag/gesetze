@@ -2081,9 +2081,8 @@ oder § 13g Absatz 1 oder Absatz 2 zuwiderhandelt.
 
 (Inkrafttreten)
 
-(zu § 11)
 
-### Anlage 1 Vorratsschutz, lebende Teile von Pflanzen und Pflanzenerzeugnisse
+### Anlage 1 (zu § 11) Vorratsschutz, lebende Teile von Pflanzen und Pflanzenerzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2000, 439;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2133,9 +2132,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 11)
 
-### Anlage 2 Vorratsschutz, Schadorganismen
+### Anlage 2 (zu § 11) Vorratsschutz, Schadorganismen
 
 Fundstelle des Originaltextes: BGBl. I 2000, 439
 
@@ -2264,9 +2262,8 @@ Muster eines Stempels
 (... nicht darstellbares Muster
 Fundstelle: BGBl. I 2005, 2923)
 
-(zu § 13q)
 
-### Anlage 5 Kennzeichnung für behandeltes Holz nach § 13q
+### Anlage 5 (zu § 13q) Kennzeichnung für behandeltes Holz nach § 13q
 
 (Fundstelle: BGBl. I 2011, 2933)
 

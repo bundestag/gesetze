@@ -61,9 +61,8 @@ vorgeschriebenen Arbeitsbedingungen zu gewähren.
 Diese Verordnung tritt am 1. November 2011 in Kraft und am 31. März
 2013 außer Kraft.
 
-(zu § 1)
 
-## Anlage Rechtsnormen des Tarifvertrages zur Regelung der Mindestbedingungen für die Arbeitnehmer der Bergbau-Spezialgesellschaften im deutschen Steinkohlenbergbau vom 22. März 2011
+## Anlage (zu § 1) Rechtsnormen des Tarifvertrages zur Regelung der Mindestbedingungen für die Arbeitnehmer der Bergbau-Spezialgesellschaften im deutschen Steinkohlenbergbau vom 22. März 2011
 
 (Fundstelle: BAnz. 2011, 3801 - 3803)
 

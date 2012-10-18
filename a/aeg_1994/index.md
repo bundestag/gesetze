@@ -3464,9 +3464,8 @@ ihrer am 28. Mai 2009 geltenden Fassung anzuwenden.
 
 (2) § 14g ist ab dem 1. Januar 2010 anzuwenden.
 
-(zu § 18e Abs. 1)
 
-## Anlage Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+## Anlage (zu § 18e Abs. 1) Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
 (Fundstelle: BGBl I 2006, 2835)
 

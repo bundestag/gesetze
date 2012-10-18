@@ -2393,9 +2393,8 @@ dem 1. Januar 2011 zur Stromerzeugung eingesetzt wird.
 
 (2) Im Übrigen tritt diese Verordnung am 24. August 2009 in Kraft.
 
-(zu § 8 Absatz 3)
 
-### Anlage 1 Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
+### Anlage 1 (zu § 8 Absatz 3) Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
 
 (Fundstelle: BGBl. I 2009, 2192 - 2194;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2893,9 +2892,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 8 Absatz 4)
 
-### Anlage 2 Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
+### Anlage 2 (zu § 8 Absatz 4) Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
 
 (Fundstelle: BGBl. I 2009, 2195 - 2198;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3770,21 +3768,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 18 Absatz 2)
 
-### Anlage 3 Muster eines Nachhaltigkeitsnachweises
+### Anlage 3 (zu § 18 Absatz 2) Muster eines Nachhaltigkeitsnachweises
 
 (Fundstelle: BGBl. I 2009, 2199)
 
-(zu § 24 Absatz 1)
 
-### Anlage 4 Muster eines Nachhaltigkeits-Teilnachweises
+### Anlage 4 (zu § 24 Absatz 1) Muster eines Nachhaltigkeits-Teilnachweises
 
 (Fundstelle: BGBl. I 2009, 2201)
 
-(zu § 33 Absatz 1, § 43 Absatz 1)
 
-### Anlage 5 Inhaltliche Anforderungen an Zertifizierungssysteme
+### Anlage 5 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
 
 (Fundstelle: BGBl. I 2009, 2201 - 2202;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -160,25 +160,22 @@ nach § 5 zuwiderhandelt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu den §§ 1 und 3 Absatz 1)
 
-## Anlage 1 Wirkstoffe
+## Anlage 1 (zu den §§ 1 und 3 Absatz 1) Wirkstoffe
 
 (Fundstelle: BAnz 2009, 520)
 1 Clothianidin
 2 Imidacloprid
 3 Thiamethoxam
 
-(zu den §§ 2 und 3 Absatz 2)
 
-## Anlage 2 Wirkstoffe
+## Anlage 2 (zu den §§ 2 und 3 Absatz 2) Wirkstoffe
 
 (Fundstelle: BAnz 2009, 520)
 1 Methiocarb
 
-(zu § 2 Absatz 1)
 
-## Anlage 3 Messmethode
+## Anlage 3 (zu § 2 Absatz 1) Messmethode
 
 (Fundstelle: BAnz 2009, 520)
 Der Abrieb des mit einem Pflanzenschutzmittel behandelten

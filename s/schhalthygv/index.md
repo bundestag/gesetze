@@ -496,9 +496,8 @@ Diese Verordnung tritt am 12. Juni 1999 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3 Abs. 1)
 
-### Anlage 1 Allgemeine Anforderungen an Schweinehaltungen gemäß § 3 Abs. 1
+### Anlage 1 (zu § 3 Abs. 1) Allgemeine Anforderungen an Schweinehaltungen gemäß § 3 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1255
 
@@ -544,9 +543,8 @@ Anforderungen an den Betrieb
 
 
 
-(zu § 3 Abs. 2)
 
-### Anlage 2 Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Abs. 2
+### Anlage 2 (zu § 3 Abs. 2) Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Abs. 2
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1256
 
@@ -704,9 +702,8 @@ Dung und flüssige Abgänge
 
 
 
-(zu § 3 Abs. 3)
 
-### Anlage 3 Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Abs. 3
+### Anlage 3 (zu § 3 Abs. 3) Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Abs. 3
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1257
 
@@ -875,9 +872,8 @@ Der Tierbesitzer hat sicherzustellen, daß
 
 
 
-(zu § 4 Abs. 1)
 
-### Anlage 4 Allgemeine Anforderungen an Freilandhaltungen gemäß § 4 Abs. 1
+### Anlage 4 (zu § 4 Abs. 1) Allgemeine Anforderungen an Freilandhaltungen gemäß § 4 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1258;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1015,9 +1011,8 @@ Reinigung und Desinfektion
 
 
 
-(zu § 4 Abs. 2)
 
-### Anlage 5 Zusätzliche Anforderungen an Freilandhaltungen mit Betriebsgrößen nach § 4 Abs. 2
+### Anlage 5 (zu § 4 Abs. 2) Zusätzliche Anforderungen an Freilandhaltungen mit Betriebsgrößen nach § 4 Abs. 2
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1259
 
@@ -1119,9 +1114,8 @@ Ausstallung/Einstallung von Schweinen; Absonderung
 
 
 
-(zu § 8 Abs. 2)
 
-### Anlage 6 Grenzwerte für besondere Untersuchungen
+### Anlage 6 (zu § 8 Abs. 2) Grenzwerte für besondere Untersuchungen
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 1260)
 

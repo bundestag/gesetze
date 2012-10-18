@@ -1366,9 +1366,8 @@ Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 6 Abs. 5 Satz 1)
 
-### Anlage 1 Betriebsgewöhnliche Nutzungsdauern
+### Anlage 1 (zu § 6 Abs. 5 Satz 1) Betriebsgewöhnliche Nutzungsdauern
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 2236 - 2237;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1749,9 +1748,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 13)
 
-### Anlage 2 Haupt- und Nebenkostenstellen
+### Anlage 2 (zu § 13) Haupt- und Nebenkostenstellen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
 
@@ -1946,9 +1944,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
 
 
 
-(zu § 14 Abs. 3)
 
-### Anlage 3 Kostenträger
+### Anlage 3 (zu § 14 Abs. 3) Kostenträger
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2240
 
@@ -1992,9 +1989,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2240
 
 
 
-(zu § 16 Abs. 2)
 
-### Anlage 4 Gleichzeitigkeitsfunktion und -grad
+### Anlage 4 (zu § 16 Abs. 2) Gleichzeitigkeitsfunktion und -grad
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
@@ -2065,9 +2061,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
 
 
-(zu § 28 Abs. 2 Nr. 6)
 
-### Anlage 5 Absatzstruktur
+### Anlage 5 (zu § 28 Abs. 2 Nr. 6) Absatzstruktur
 
 (Fundstelle: BGBl. I 2005, 2242)
 

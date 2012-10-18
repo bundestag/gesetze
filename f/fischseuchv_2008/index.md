@@ -1037,9 +1037,8 @@ innerhalb von sechs Monaten nach dem 29. November 2008 erfolgt ist.
 der Bekanntmachung vom 20. Dezember 2005 (BGBl. I S. 3563)
 zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
 
-(zu den §§ 2, 7, 10, 11, 12, 15, 16)
 
-### Anlage 1 Liste der Seuchen
+### Anlage 1 (zu den §§ 2, 7, 10, 11, 12, 15, 16) Liste der Seuchen
 
 (Fundstelle: BGBl. I 2008, 2324)
 

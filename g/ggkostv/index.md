@@ -75,9 +75,8 @@ Diese Verordnung tritt am Ersten des auf die Verkündung folgenden
 
 Der Bundesrat hat zugestimmt.
 
-(zu Artikel 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu Artikel 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3562 - 3569;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -383,10 +383,8 @@ erhält. Dies gilt nicht für einmalig gezahltes Arbeitsentgelt.
 ### (XXXX) §§ 94 bis 118 (weggefallen)
 
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt II
-(BGBl. II 1990, 889, 1055)
 
-### Anhang EV - Änderungen oder Ergänzungen des Bundesrechts  -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt II (BGBl. II 1990, 889, 1055) - Änderungen oder Ergänzungen des Bundesrechts -
 
 Abschnitt II
 Bundesrecht wird wie folgt geändert oder ergänzt:

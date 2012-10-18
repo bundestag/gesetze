@@ -43,9 +43,8 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Hauptbewertungsstützpunkte der weinbaulichen Nutzung
+## Anlage (zu § 1) Hauptbewertungsstützpunkte der weinbaulichen Nutzung
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 1191 - 1198)
 **A. Vorbemerkungen**

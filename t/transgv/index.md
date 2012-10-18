@@ -325,9 +325,8 @@ entgegen § 5 Satz 1 einen Dritten beauftragt.
 
 Der Bundesrat hat zugestimmt.
 
-Anhang zur Beförderungserlaubnisverordnung
 
-### Anhang Fachkunde der für die Leitung und Beaufsichtigung eines Sammlungs- oder Beförderungsbetriebes verantwortlichen Personen
+### Anhang Anhang zur Beförderungserlaubnisverordnung Fachkunde der für die Leitung und Beaufsichtigung eines Sammlungs- oder Beförderungsbetriebes verantwortlichen Personen
 
 Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
 

@@ -210,16 +210,14 @@ Diese Verordnung tritt am 1. September 1978 in Kraft.
 
 Der Bundesminister für Verkehr
 
-(zu § 4 Abs. 1)
 
-## Anlage 1 Ausweis für Überseelotsen
+## Anlage 1 (zu § 4 Abs. 1) Ausweis für Überseelotsen
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 1978, 1517)
 
-(zu § 4 Abs. 1)
 
-## Anlage 2 Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
+## Anlage 2 (zu § 4 Abs. 1) Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 1978, 1518)

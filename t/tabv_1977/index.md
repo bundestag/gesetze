@@ -1634,9 +1634,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-zu § 2 Abs. 1
 
-## Anlage 2 Verbotene Geruchs- und Geschmacksstoffe
+## Anlage 2 zu § 2 Abs. 1 Verbotene Geruchs- und Geschmacksstoffe
 
 (Fundstelle: BGBl. I 1977, 2837)
 

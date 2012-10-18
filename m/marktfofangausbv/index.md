@@ -324,12 +324,8 @@ ist die Prüfung nicht bestanden.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten
-für Markt- und Sozialforschung/zur Fachangestellten für Markt- und
-Sozialforschung
 
-## Anlage 1 - Sachliche Gliederung -
+## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Markt- und Sozialforschung/zur Fachangestellten für Markt- und Sozialforschung - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 831 - 834)
 
@@ -887,12 +883,8 @@ Sozialforschung
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten
-für Markt- und Sozialforschung/zur Fachangestellten für Markt- und
-Sozialforschung
 
-## Anlage 2 - Zeitliche Gliederung -
+## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Markt- und Sozialforschung/zur Fachangestellten für Markt- und Sozialforschung - Zeitliche Gliederung -
 
 Fundstelle des Originaltextes: BGBl. I 2006, 835 - 836
 

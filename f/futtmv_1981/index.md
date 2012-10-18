@@ -2488,9 +2488,8 @@ anzuwenden.
 ## (XXXX) Anlage 1a und 2 (weggefallen)
 
 
-(zu § 11 Absatz 1 Satz 1)
 
-## Anlage 2a Verzeichnis der für Diätfuttermittel festgesetzten Verwendungszwecke
+## Anlage 2a (zu § 11 Absatz 1 Satz 1) Verzeichnis der für Diätfuttermittel festgesetzten Verwendungszwecke
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 832 - 838;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2534,9 +2533,8 @@ Vorbemerkungen
 Fundstelle: BGBl. I 2007, 832 - 838;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-(zu § 13 Abs. 3 Satz 1)
 
-## Anlage 2b Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von  Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für Heimtiere  ersetzt
+## Anlage 2b (zu § 13 Abs. 3 Satz 1) Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für Heimtiere ersetzt
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 839 - 840)
 
@@ -2664,9 +2662,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 -
 
-(zu § 13 Absatz 1 und 2)
 
-## Anlage 4 Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln
+## Anlage 4 (zu § 13 Absatz 1 und 2) Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 841 - 842;
 bzgl. der einzelnen Änderungen vgl Fußnote)
@@ -2962,9 +2959,8 @@ Verwendete Abkürzungen
 
 -
 
-(zu § 29 Abs. 2)
 
-## Anlage 7a Anforderungen und Pflichten für Betriebe gemäß § 28 Abs. 2
+## Anlage 7a (zu § 29 Abs. 2) Anforderungen und Pflichten für Betriebe gemäß § 28 Abs. 2
 
 Fundstelle des Originaltextes: BGBl. I 2007, 892
 
@@ -3054,9 +3050,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 892
 
 
 
-(zu § 34c Absatz 2)
 
-## Anlage 8 Liste der nach Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EG) Nr. 1135/2009 in Deutschland für Futtermittel benannten Kontrollstellen
+## Anlage 8 (zu § 34c Absatz 2) Liste der nach Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EG) Nr. 1135/2009 in Deutschland für Futtermittel benannten Kontrollstellen
 
 (Fundstelle: BGBl. I 2010, 1000)
 
@@ -3145,9 +3140,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 892
 
 
 
-(zu § 34d Absatz 2)
 
-## Anlage 9 Liste der nach Artikel 5 Absatz 4 der Verordnung (EU) Nr. 258/2010 in Deutschland für Futtermittel benannten Kontrollstellen
+## Anlage 9 (zu § 34d Absatz 2) Liste der nach Artikel 5 Absatz 4 der Verordnung (EU) Nr. 258/2010 in Deutschland für Futtermittel benannten Kontrollstellen
 
 
 *    *   Land

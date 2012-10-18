@@ -513,7 +513,7 @@ Einführungsseminaren für Lehrgangsleiter in den Lehrgangsabschnitten
 nach § 13 Absatz 3 teilgenommen hat.
 
 
-## Vierter Abschnitt - 
+## Vierter Abschnitt -
 
 
 ### § 15 Fortbildung
@@ -575,7 +575,7 @@ Fortbildungslehrgänge nach Absatz 2 dürfen vom Träger nur Lehrkräfte
 nach § 14 Absatz 2 eingesetzt werden.
 
 
-## Fünfter Abschnitt - 
+## Fünfter Abschnitt -
 
 
 ### § 16 Inhalt der Registrierung nach § 39 Absatz 3 des Fahrlehrergesetzes
@@ -744,9 +744,8 @@ ist, außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Absatz 1)
 
-### Anlage 1.1 Unbefristeter Fahrlehrerschein
+### Anlage 1.1 (zu § 2 Absatz 1) Unbefristeter Fahrlehrerschein
 
 (Fundstelle: BGBl. I 2012, 1353 - 1356)
 
@@ -761,9 +760,8 @@ entsprechen und gut bedruckt und beschriftet werden können.
 
 
 
-(zu § 2 Absatz 1)
 
-### Anlage 1.2 Befristeter Fahrlehrerschein der Klasse BE
+### Anlage 1.2 (zu § 2 Absatz 1) Befristeter Fahrlehrerschein der Klasse BE
 
 (Fundstelle: BGBl. I 2012, 1357)
 
@@ -775,9 +773,8 @@ Abriebfestigkeit und der Doppelfalzzahl, mindestens dem Leinwandpapier
 entsprechen und gut bedruckt und beschriftet werden können.
 
 
-(zu § 3)
 
-### Anlage 2 Unterrichtsräume
+### Anlage 2 (zu § 3) Unterrichtsräume
 
 (Fundstelle: BGBl. I 2012, 1358)
 

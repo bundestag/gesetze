@@ -1218,9 +1218,8 @@ gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3)
 
-## Anlage 1 Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
+## Anlage 1 (zu § 3) Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 10 - 11;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1619,9 +1618,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1
 
-## Anlage 2 Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
+## Anlage 2 zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1 Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 1998, 12 - 21;
@@ -2871,9 +2869,8 @@ zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1
 
 
 
-(zu § 4 Abs. 2 bis 4, § 6 Nr. 2 und § 8 Abs. 1, 1a und 1b)
 
-## Anlage 3 Stoffe und Erzeugnisse für die Herstellung von Lebensmittelbedarfsgegenständen
+## Anlage 3 (zu § 4 Abs. 2 bis 4, § 6 Nr. 2 und § 8 Abs. 1, 1a und 1b) Stoffe und Erzeugnisse für die Herstellung von Lebensmittelbedarfsgegenständen
 
 (Fundstelle: BGBl. I 2003, 489 - 516;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13863,9 +13860,8 @@ und Additiven**
 
 
 
-(zu § 5)
 
-## Anlage 4 Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
+## Anlage 4 (zu § 5) Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 31;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13909,9 +13905,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 6 Nr. 3)
 
-## Anlage 5 Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
+## Anlage 5 (zu § 6 Nr. 3) Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
 
 
 *    *   (Fundstelle: BGBl. I 1998, 31;
@@ -13992,11 +13987,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-   (zu § 6 Nr. 4)
 
-## Anlage 5a Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
+## Anlage 5a (zu § 6 Nr. 4) Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
 
-Fundstelle des (Originaltextes: BGBl. I 2000, 850;
+   Fundstelle des (Originaltextes: BGBl. I 2000, 850;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd.Nr.
@@ -14054,9 +14048,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3)
 
-## Anlage 6 Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
+## Anlage 6 (zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3) Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 32;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14136,9 +14129,8 @@ Oberfläche des Deckels werden unter den gleichen Bedingungen getrennt
 geprüft. Die Summe der beiden so festgestellten Werte wird je nach
 Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
-(zu § 9)
 
-## Anlage 7 Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
+## Anlage 7 (zu § 9) Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
 
 (Fundstelle des Originaltextes: BGBl. 1998, 32; bzgl. der einzelnen
 Änderungen vgl. Fußnote)
@@ -14198,9 +14190,8 @@ Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
    -
 
-(zu § 10 Abs. 3)
 
-## Anlage 9 Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
+## Anlage 9 (zu § 10 Abs. 3) Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 33;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14256,9 +14247,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 11)
 
-## Anlage 10 Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
+## Anlage 10 (zu § 11) Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
 
 (Fundstelle: BGBl. I 1998, 34 - 35;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14559,9 +14549,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 10 Abs. 1 Satz 2)
 
-## Anlage 12 Angaben in der schriftlichen Erklärung nach
+## Anlage 12 (zu § 10 Abs. 1 Satz 2) Angaben in der schriftlichen Erklärung nach
 
 
 1.  Name und Anschrift des Herstellers oder des für das erstmalige
@@ -14634,9 +14623,8 @@ ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion
 Veränderungen bei der Migration bewirken oder wenn neue
 wissenschaftliche Erkenntnisse vorliegen.
 
-(zu § 4 Absatz 3 Satz 2 Nummer 2)
 
-## Anlage 13 Vorläufiges Verzeichnis der Additive
+## Anlage 13 (zu § 4 Absatz 3 Satz 2 Nummer 2) Vorläufiges Verzeichnis der Additive
 
 (Fundstelle: BGBl. I 2009, 3135 - 3137;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

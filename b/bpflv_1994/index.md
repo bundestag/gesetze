@@ -1082,9 +1082,8 @@ Budgets für das Jahr 2006 ist die Berichtigung einer Fehlschätzung
 nach § 17a Abs. 4 Satz 4 des Krankenhausfinanzierungsgesetzes zu
 berücksichtigen.
 
-(zu § 17 Abs. 4)
 
-### Anlage 1 Leistungs- und Kalkulationsaufstellung
+### Anlage 1 (zu § 17 Abs. 4) Leistungs- und Kalkulationsaufstellung
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67, S. 27 - 43;
@@ -1141,9 +1140,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 1421
 Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67, S. 45 - 46;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-zur Leistungs- und Kalkulationsaufstellung
 
-### Anhang 3 Gesonderter Ausweis für ausländische Patienten nach § 3 Abs. 4
+### Anhang 3 zur Leistungs- und Kalkulationsaufstellung Gesonderter Ausweis für ausländische Patienten nach § 3 Abs. 4
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2880;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1179,9 +1177,8 @@ ausländische Patienten nach § 3 Abs. 4 sind in gesonderten Abschnitten
 
 
 
-(zu § 17 Abs. 4)
 
-### Anlage 2 Ergänzende Kalkulationsaufstellung für nicht oder teilweise geförderte Krankenhäuser
+### Anlage 2 (zu § 17 Abs. 4) Ergänzende Kalkulationsaufstellung für nicht oder teilweise geförderte Krankenhäuser
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67 S. 47 - 50;

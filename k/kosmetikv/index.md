@@ -999,9 +999,8 @@ in der am 16. Juli 2012 geltenden Fassung weiter anzuwenden.
 
 (Inkrafttreten)
 
-(zu § 1)
 
-## Anlage 1 Stoffe, die bei dem Herstellen oder Behandeln von kosmetischen Mitteln nicht verwendet werden dürfen \*)
+## Anlage 1 (zu § 1) Stoffe, die bei dem Herstellen oder Behandeln von kosmetischen Mitteln nicht verwendet werden dürfen
 
 (Fundstelle: BGBl. I 1997, 2417 - 2422;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12804,9 +12803,8 @@ Spalte d nicht überschreiten.
 
 
 
-(zu § 3)
 
-## Anlage 3 Farbstoffe für kosmetische Mittel
+## Anlage 3 (zu § 3) Farbstoffe für kosmetische Mittel
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2433 - 2440;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -16075,11 +16073,10 @@ Teil B
 
 
 
-   (zu § 3b)
 
-## Anlage 7 Ultraviolett-Filter für kosmetische Mittel
+## Anlage 7 (zu § 3b) Ultraviolett-Filter für kosmetische Mittel
 
-(Fundstelle des Originaltextes: BGBl. I 1997, 2445 - 2446;
+   (Fundstelle des Originaltextes: BGBl. I 1997, 2445 - 2446;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Teil A
@@ -16418,11 +16415,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-   (zu § 3c)
 
-## Anlage 7a Verzeichnis der validierten Alternativen zum Tierversuch
+## Anlage 7a (zu § 3c) Verzeichnis der validierten Alternativen zum Tierversuch
 
-(Fundstelle des Originaltextes: BGBl. I 2005, 3480;
+   (Fundstelle des Originaltextes: BGBl. I 2005, 3480;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 In diesem Anhang sind die vom Europäischen Zentrum für die Validierung
@@ -16450,23 +16446,20 @@ vollständig oder nur teilweise ersetzen kann.
 
 
 
-(zu § 4 Abs. 2 und § 5 Abs. 1)
 
-## Anlage 8 Hinweissymbol auf bestimmte Angaben
+## Anlage 8 (zu § 4 Abs. 2 und § 5 Abs. 1) Hinweissymbol auf bestimmte Angaben
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1997, 2447 - 2448)
 
-(zu § 5 Abs. 2a)
 
-## Anlage 8a Symbol für die Angabe der Verwendungsdauer nach dem Öffnen
+## Anlage 8a (zu § 5 Abs. 2a) Symbol für die Angabe der Verwendungsdauer nach dem Öffnen
 
 ( Nicht darstellbare Abbildung;
 Fundstelle Originaltextes: BGBl. I 2004, 2585 )
 
-(zu § 5a Abs. 5)
 
-## Anlage 9 Verfahren zur Erteilung einer Registriernummer für einen Bestandteil eines kosmetischen Mittels
+## Anlage 9 (zu § 5a Abs. 5) Verfahren zur Erteilung einer Registriernummer für einen Bestandteil eines kosmetischen Mittels
 
 Fundstelle des Originaltextes: BGBl. I 1996, 2191 - 2192
 

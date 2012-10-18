@@ -845,9 +845,8 @@ handelt, wer vorsätzlich oder fahrlässig
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
-(zu § 5 Abs. 3)
 
-## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
+## Anlage 1 (zu § 5 Abs. 3) Ort und Anmeldung für die Lotsenanforderung
 
 Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3705 u. BAnz 2008,
 Nr. 64, 1513

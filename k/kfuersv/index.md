@@ -95,10 +95,8 @@ ausgeschlossen.
 durchgeführt, ist die Leistung für den jeweiligen Abschnitt
 festzustellen.
 
-Leistungen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur
-Förderung der Arbeitsaufnahme,
 
-### § 2 Leistungen an Arbeitgeber
+### § 2 Leistungen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur Förderung der Arbeitsaufnahme, Leistungen an Arbeitgeber
 
 (1) Hilfen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur
 Förderung der Arbeitsaufnahme sind insbesondere

@@ -609,9 +609,8 @@ Geschmacksmustergesetzes, sind in dem Antrag anzugeben:
 (4) Bei der Zahlung der Aufrechterhaltungsgebühr sind die Absätze 1
 und 2 entsprechend anzuwenden.
 
-Schutzverweigerung
 
-### § 17a bei internationalen Eintragungen
+### § 17a Schutzverweigerung bei internationalen Eintragungen
 
 Der Inhaber einer internationalen Eintragung nach § 66 des
 Geschmacksmustergesetzes kann zu der Mitteilung über die
@@ -795,16 +794,14 @@ geltenden Fassung.
 
 (2) § 23 tritt am 1. Januar 2005 außer Kraft.
 
-(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 1 Einteilung der Klassen und Unterklassen
+### Anlage 1 (zu § 8 Abs. 1 Satz 1) Einteilung der Klassen und Unterklassen
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 19, S. 765 vom 15. April
 2009, S. 2 - 13)
 
-(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 2 Warenliste
+### Anlage 2 (zu § 8 Abs. 1 Satz 1) Warenliste
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 19, S. 765 vom 15. April
 2009, S. 14 - 91)

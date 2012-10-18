@@ -1,7 +1,7 @@
 ---
-Title: Allgemeine Anordnung über die Übertragung von Zuständigkeiten im  Widerspruchsverfahren
-  und über die Vertretung bei Klagen aus dem Beamten- oder  Wehrdienstverhältnis im
-  Geschäftsbereich des Bundesministeriums der  Verteidigung
+Title: Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren
+  und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im
+  Geschäftsbereich des Bundesministeriums der Verteidigung
 jurabk: BMVgWidAnO 2006
 layout: default
 origslug: bmvgwidano_2006
@@ -9,7 +9,7 @@ slug: bmvgwidano_2006
 
 ---
 
-# Allgemeine Anordnung über die Übertragung von Zuständigkeiten im  Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder  Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der  Verteidigung (BMVgWidAnO 2006)
+# Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der Verteidigung (BMVgWidAnO 2006)
 
 Ausfertigungsdatum
 :   2006-01-16

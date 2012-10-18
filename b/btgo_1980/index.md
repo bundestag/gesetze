@@ -678,9 +678,8 @@ Mitglieder des Bundestages die Aussprache über seine Ausführungen
 eröffnet. In dieser Aussprache dürfen keine Sachanträge gestellt
 werden.
 
-Feststellung der Beschlußfähigkeit
 
-### § 45 Folgen der Beschlußunfähigkeit
+### § 45 Feststellung der Beschlußfähigkeit Folgen der Beschlußunfähigkeit
 
 (1) Der Bundestag ist beschlußfähig, wenn mehr als die Hälfte seiner
 Mitglieder im Sitzungssaal anwesend ist.

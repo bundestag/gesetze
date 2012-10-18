@@ -374,9 +374,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Oberflächenbeschichter/ zur Oberflächenbeschichterin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Oberflächenbeschichter/ zur Oberflächenbeschichterin
 
 (Fundstelle: BGBl. I 2005, 1152 - 1159)
 

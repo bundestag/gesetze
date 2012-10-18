@@ -284,9 +284,8 @@ des § 1 Abs. 5 vorliegen.
 (4) Der Antrag kann bis zum Beginn des allgemeinen Prüfungstermins
 zurückgenommen werden.
 
-Festsetzung der Haftungssumme.
 
-#### § 5 Zulassung von Sicherheiten
+#### § 5 Festsetzung der Haftungssumme. Zulassung von Sicherheiten
 
 (1) Das Gericht setzt durch Beschluß die Summe fest, die zur
 Errichtung des Fonds einzuzahlen ist (Haftungssumme).
@@ -1186,9 +1185,8 @@ Sobald nach einer ersten Verteilung ein weiterer hinreichender Betrag
 der Haftungssumme verfügbar wird, soll eine weitere Verteilung
 erfolgen.
 
-Aufhebung des Verfahrens.
 
-#### § 29 Nachtragsverteilung
+#### § 29 Aufhebung des Verfahrens. Nachtragsverteilung
 
 (1) Das Gericht beschließt die Aufhebung des Verteilungsverfahrens,
 wenn die Haftungssumme verteilt ist oder wenn nur noch Anteile nach §
@@ -1771,9 +1769,8 @@ Anspruch gegen den Fonds vor dem Gericht geltend machen kann, das den
 Fonds verwaltet, und wenn der Fonds für den Anspruch tatsächlich zur
 Verfügung steht und frei transferierbar ist.
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 960)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

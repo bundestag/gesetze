@@ -368,9 +368,8 @@ Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
-(zu § 5 Abs. 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 5 Abs. 3) Muster
 
 Fundstelle des Originaltextes: BGBl. I 2006, 57
 ......................................................................
@@ -398,9 +397,8 @@ Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
 
-(zu § 5 Abs. 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 5 Abs. 3) Muster
 
 Fundstelle des Originaltextes: BGBl. I 2006, 58
 ......................................................................

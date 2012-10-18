@@ -862,9 +862,8 @@ Meister/ Geprüfte Meisterin für Lagerwirtschaft vom 15. Oktober 1991
 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und § 4 Nummer 7 der Verordnung
 vom 15. April 1999 (BGBl. I S. 711) geändert worden ist, außer Kraft.
 
-(zu § 7 Absatz 5)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Absatz 5) Muster
 
 (Fundstelle: BGBl. I 2010, 32)
 
@@ -922,9 +921,8 @@ bestanden.
 
 
 
-(zu § 7 Absatz 5)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 5) Muster
 
 (Fundstelle: BGBl. I 2010, 33 - 34)
 

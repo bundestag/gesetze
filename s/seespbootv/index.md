@@ -1316,9 +1316,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 
 
 
-(zu § 6 Abs. 1)
 
-### Anlage 2 Untersuchungsumfang
+### Anlage 2 (zu § 6 Abs. 1) Untersuchungsumfang
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3467
 
@@ -1989,9 +1988,8 @@ I
 ++) Prüfungsnachweis
 +++) baumustergeprüft
 
-(zu § 15 Abs. 2)
 
-### Anlage 4 Besetzung von gewerbsmäßig genutzten Sportbooten
+### Anlage 4 (zu § 15 Abs. 2) Besetzung von gewerbsmäßig genutzten Sportbooten
 
 Fundstelle des Originaltextes: BGBl. I 2010, 574
 

@@ -257,9 +257,8 @@ Versorgungsbezug verzichten.
 
 -
 
-(zu § 1 Abs. 1)
 
-## Anlage Verzeichnis der zum Beamtenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften
+## Anlage (zu § 1 Abs. 1) Verzeichnis der zum Beamtenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften
 
 (Fundstelle: BGBl. I 1993, 372;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

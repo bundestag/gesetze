@@ -485,9 +485,8 @@ Gentechnikgesetzes; diesen Entscheidungen ist eine deutsche
 
 (Inkrafttreten)
 
-(zu § 4)
 
-### Anlage Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
+### Anlage (zu § 4) Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 3227 - 3228;
 bzgl. der einzelnen Änderungen vgl. Fußnote )

@@ -1527,9 +1527,8 @@ vorsätzlich oder fahrlässig
 
 (2) Die §§ 26 und 28 sind ab dem 13. Dezember 2010 anzuwenden.
 
-(zu § 2 Absatz 1)
 
-### Anlage Anforderungen an gewerbsmäßige Geflügelhaltungen
+### Anlage (zu § 2 Absatz 1) Anforderungen an gewerbsmäßige Geflügelhaltungen
 
 (Fundstelle: BGBl. I 2009, 762 - 763)
 ## Abschnitt 1

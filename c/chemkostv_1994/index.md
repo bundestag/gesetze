@@ -107,9 +107,8 @@ werden Kosten nicht erhoben.
 
 -
 
-Anlage (zu § 1 Abs. 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage Anlage (zu § 1 Abs. 1) Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 1994, 2120;
 bzgl. der einzelnen Änderungen vgl. Fußnote

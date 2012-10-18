@@ -1889,7 +1889,7 @@ befassten Mitarbeiter um die für das Ausgleichsjahr für die
 Bescheiderteilung berechneten Gebühren zu verringern.
 
 
-## Siebter Abschnitt - Weiterentwicklung des  Risikostrukturausgleichs ab 2009
+## Siebter Abschnitt - Weiterentwicklung des Risikostrukturausgleichs ab 2009
 
 
 

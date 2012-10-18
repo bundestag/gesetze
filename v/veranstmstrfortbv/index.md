@@ -611,9 +611,8 @@ Ablauf des 31. Dezember 2017 weiter anzuwenden.
 Diese Verordnung tritt am 1. September 2009 in Kraft und am 31.
 Dezember 2015 außer Kraft.
 
-(zu § 6 Absatz 4)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Absatz 4) Muster
 
 (Fundstelle: BGBl. 2009, 2925)
 
@@ -678,9 +677,8 @@ Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik vom
 
 
 
-(zu § 6 Absatz 4)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Absatz 4) Muster
 
 (Fundstelle: BGBl. 2009, 2926)
 

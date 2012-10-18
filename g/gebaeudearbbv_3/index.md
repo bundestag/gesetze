@@ -60,12 +60,8 @@ Arbeitsbedingungen zu gewähren.
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Oktober
 2013 außer Kraft.
 
-(zu § 1)
-Rechtsnormen des Tarifvertrages zur Regelung der Mindestlöhne für
-gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der
-Bundesrepublik Deutschland
 
-## Anlage (TV Mindestlohn)
+## Anlage (zu § 1) Rechtsnormen des Tarifvertrages zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 
 (Fundstelle: BAnz 2011, 4621 - 4623)
 

@@ -75,9 +75,8 @@ anzuwenden.
 
 -
 
-Internationales Insolvenzrecht.
 
-## Dritter Teil - Übergangs- und Schlußvorschriften
+## Dritter Teil - Internationales Insolvenzrecht. Übergangs- und Schlußvorschriften
 
 
 

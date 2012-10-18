@@ -92,7 +92,7 @@ und unter Verwendung von Formblättern, soweit nichts anderes bestimmt
 ist.
 
 
-### Abschnitt 1 - Nachweis über die Zulässigkeit  der vorgesehenen Entsorgung
+### Abschnitt 1 - Nachweis über die Zulässigkeit der vorgesehenen Entsorgung
 
 
 
@@ -476,7 +476,7 @@ Entsorgung auch dann einen Sammelentsorgungsnachweis nach den Absätzen
 (6) Der Sammelentsorgungsnachweis nach Absatz 1 ist nicht übertragbar.
 
 
-### Abschnitt 2 - Nachweisführung über die durchgeführte  Entsorgung
+### Abschnitt 2 - Nachweisführung über die durchgeführte Entsorgung
 
 
 
@@ -639,7 +639,7 @@ entsprechender Anwendung von § 11 Abs. 3 und 4 der für das jeweilige
 Land, in dem gesammelt wurde, zuständigen Behörde zuzuleiten.
 
 
-### Abschnitt 3, Sonderfälle - 
+### Abschnitt 3, Sonderfälle -
 
 
 
@@ -1751,7 +1751,7 @@ b)  **Verzeichnis der Abfälle nach § 9 Abs. 3 Satz 2**
 
 
 
-### Anlage 3 Vorgaben für strukturierte Nachrichten/Schnittstellen nach  § 18 Abs. 1
+### Anlage 3 Vorgaben für strukturierte Nachrichten/Schnittstellen nach § 18 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2329 - 2330
 

@@ -935,9 +935,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 9)
 
-### Anlage Ausbildungsrahmenplan für die Berufsausbildung im Gastgewerbe
+### Anlage (zu § 9) Ausbildungsrahmenplan für die Berufsausbildung im Gastgewerbe
 
 (Fundstelle: BGBl. I 1998, S. 357 - 363)
 

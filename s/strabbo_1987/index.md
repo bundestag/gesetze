@@ -2538,16 +2538,14 @@ spätestens zu folgenden Zeitpunkten entsprechen
 
 Der Bundesminister für Verkehr
 
-(zu § 20)
 
-### Anlage 1 Kennzeichnung und Sicherung von Bahnübergängen
+### Anlage 1 (zu § 20) Kennzeichnung und Sicherung von Bahnübergängen
 
 (Inhalt: nicht darstellbare Verkehrszeichen,
 Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 2)
 
-(zu § 36)
 
-### Anlage 2 Grenzwerte für Bremsungen
+### Anlage 2 (zu § 36) Grenzwerte für Bremsungen
 
 (Fundstelle: BGBl. I 1987, Anlageband zu Nr. 58, S. 3)
 Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge
@@ -2749,16 +2747,14 @@ auf geradem ebenem Gleis.
 
 
 
-(zu § 47 Abs. 2 Nr. 2)
 
-### Anlage 3 Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
+### Anlage 3 (zu § 47 Abs. 2 Nr. 2) Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 4)
 
-(zu den §§ 21, 40, 51)
 
-### Anlage 4 Signale
+### Anlage 4 (zu den §§ 21, 40, 51) Signale
 
 Fundstelle des Originaltextes: Anlageband zu BGBl. I 1987, Nr. 58
 

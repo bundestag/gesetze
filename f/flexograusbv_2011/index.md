@@ -533,9 +533,8 @@ Flexografin vom 26. Mai 1997 (BGBl. I S. 1247), die durch Artikel 1
 der Verordnung vom 19. September 2000 (BGBl. I S. 1407) geändert
 worden ist, außer Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Flexografie und zur Mediengestalterin Flexografie
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Flexografie und zur Mediengestalterin Flexografie
 
 (Fundstelle: BGBl. I 2011, 443 - 448)
 

@@ -3850,9 +3850,8 @@ außer Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-(zu § 8 Absatz 1 Satz 3)
 
-### Anlage 1 Unterscheidungszeichen der Verwaltungsbezirke
+### Anlage 1 (zu § 8 Absatz 1 Satz 3) Unterscheidungszeichen der Verwaltungsbezirke
 
 (Fundstelle: BGBl. I 2011, 167 - 184;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8496,9 +8495,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuständige oberste Landesbehörde oder die nach Landesrecht zuständige
     Stelle.
 [^f774780_03_BJNR013900011BJNE005502140]: 
-(zu § 8 Absatz 1 Satz 4)
 
-### Anlage 2 Ausgestaltung, Einteilung und Zuteilung der Buchstaben- und Zahlengruppen für die Erkennungsnummern der Kennzeichen
+### Anlage 2 (zu § 8 Absatz 1 Satz 4) Ausgestaltung, Einteilung und Zuteilung der Buchstaben- und Zahlengruppen für die Erkennungsnummern der Kennzeichen
 
 (Fundstelle: BGBl. I 2011, 185;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8533,9 +8531,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 8 Absatz 1 Satz 5)
 
-### Anlage 3 Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundespolizei, der Wasser- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
+### Anlage 3 (zu § 8 Absatz 1 Satz 5) Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundespolizei, der Wasser- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
 
 (Fundstelle: BGBl. I 2011, 186 - 187)
 
@@ -8725,10 +8722,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 10 Absatz 2, § 16 Absatz 5, § 17 Absatz 2, § 19 Absatz 1 Nummer
-3)
 
-### Anlage 4 Ausgestaltung der Kennzeichen
+### Anlage 4 (zu § 10 Absatz 2, § 16 Absatz 5, § 17 Absatz 2, § 19 Absatz 1 Nummer 3) Ausgestaltung der Kennzeichen
 
 (Fundstelle: BGBl. I 2011, 188 - 202;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9326,9 +9321,8 @@ anzuwenden.
 
 
 
-(zu § 11 Absatz 1)
 
-### Anlage 5 Zulassungsbescheinigung Teil I
+### Anlage 5 (zu § 11 Absatz 1) Zulassungsbescheinigung Teil I
 
 (Fundstelle: BGBl. I 2011, 203 - 205)
 
@@ -9457,9 +9451,8 @@ anzuwenden.
 
 ![bgbl1_2011_j0139-1_0300.jpg](bgbl1_2011_j0139-1_0300.jpg)
 ![bgbl1_2011_j0139-1_0310.jpg](bgbl1_2011_j0139-1_0310.jpg)
-(zu § 11 Absatz 3)
 
-### Anlage 6 Zulassungsbescheinigung Teil I für Fahrzeuge der Bundeswehr
+### Anlage 6 (zu § 11 Absatz 3) Zulassungsbescheinigung Teil I für Fahrzeuge der Bundeswehr
 
 (Fundstelle: BGBl. I 2011, 206 - 207)
 
@@ -9471,9 +9464,8 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 
 ![bgbl1_2011_j0139-1_0320.jpg](bgbl1_2011_j0139-1_0320.jpg)
 ![bgbl1_2011_j0139-1_0330.jpg](bgbl1_2011_j0139-1_0330.jpg)
-(zu § 12 Absatz 2)
 
-### Anlage 7 Zulassungsbescheinigung Teil II
+### Anlage 7 (zu § 12 Absatz 2) Zulassungsbescheinigung Teil II
 
 (Fundstelle: BGBl. I 2011, 208 - 209)
 
@@ -9539,9 +9531,8 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 
 
 ![bgbl1_2011_j0139-1_0340.jpg](bgbl1_2011_j0139-1_0340.jpg)
-(zu § 15)
 
-### Anlage 8 Verwertungsnachweis
+### Anlage 8 (zu § 15) Verwertungsnachweis
 
 (Fundstelle: BGBl. I 2011, 210 - 213)
 
@@ -9684,9 +9675,8 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 
 ![bgbl1_2011_j0139-1_0350.jpg](bgbl1_2011_j0139-1_0350.jpg)
 ![bgbl1_2011_j0139-1_0360.jpg](bgbl1_2011_j0139-1_0360.jpg)
-(zu § 16 Absatz 2 Satz 1)
 
-### Anlage 9 Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
+### Anlage 9 (zu § 16 Absatz 2 Satz 1) Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
 
 (Fundstelle: BGBl. I 2011, 214)
 
@@ -9709,11 +9699,10 @@ werden.
     *
 
 
-   (zu § 16 Absatz 3 Satz 1)
 
-### Anlage 10 Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
+### Anlage 10 (zu § 16 Absatz 3 Satz 1) Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
 
-(Fundstelle: BGBl. I 2011, 215)
+   (Fundstelle: BGBl. I 2011, 215)
 
 Breite 74 mm, Höhe 105 mm, Farbe hellrot, schwarzer Druck
 (Typendruck).
@@ -9741,11 +9730,10 @@ werden.
     *
 
 
-   (zu § 19 Absatz 1 Nummer 1, § 23 Absatz 3 und 4, § 25 Absatz 1)
 
-### Anlage 11 Bescheinigungen zum Versicherungsschutz
+### Anlage 11 (zu § 19 Absatz 1 Nummer 1, § 23 Absatz 3 und 4, § 25 Absatz 1) Bescheinigungen zum Versicherungsschutz
 
-(Fundstelle: BGBl. I 2011, 216 - 218)
+   (Fundstelle: BGBl. I 2011, 216 - 218)
 
 
 **1.** **Versicherungsbestätigung**
@@ -9787,9 +9775,8 @@ werden.
 
 
 
-(zu § 27 Absatz 1 Satz 4)
 
-### Anlage 12 Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
+### Anlage 12 (zu § 27 Absatz 1 Satz 4) Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
 
 (Fundstelle: BGBl. I 2011, 219 - 220)
 

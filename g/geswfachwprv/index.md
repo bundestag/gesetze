@@ -530,9 +530,8 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
-(zu § 6 Absatz 2)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Absatz 2) Muster
 
 (Fundstelle: BGBl. I 2011, 1683)
 
@@ -586,9 +585,8 @@ vom 21. Juli 2011 (BGBl. I S. 1679) bestanden.
 
 
 
-(zu § 6 Absatz 2)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Absatz 2) Muster
 
 (Fundstelle: BGBl. I 2011, 1684)
 

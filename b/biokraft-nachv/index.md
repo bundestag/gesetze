@@ -2335,9 +2335,8 @@ Diese Verordnung ist nicht auf Biokraftstoffe anzuwenden, die vor dem
 
 (2) Im Übrigen tritt diese Verordnung am 2. November 2009 in Kraft.
 
-(zu § 8 Absatz 3)
 
-### Anlage 1 Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
+### Anlage 1 (zu § 8 Absatz 3) Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
 
 (Fundstelle: BGBl. I 2009, 3200 - 3202;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -2847,9 +2846,8 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 
-(zu § 8 Absatz 4)
 
-### Anlage 2 Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
+### Anlage 2 (zu § 8 Absatz 4) Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
 
 (Fundstelle: BGBl. I 2009, 3203 - 3208;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -4189,23 +4187,20 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 
-(zu § 18 Absatz 2)
 
-### Anlage 3 Muster eines Nachhaltigkeitsnachweises
+### Anlage 3 (zu § 18 Absatz 2) Muster eines Nachhaltigkeitsnachweises
 
 (Fundstelle: BGBl. I 2009, 3209)
 
 ![bgbl1_2009_j3182-1_0010.jpg](bgbl1_2009_j3182-1_0010.jpg)
-(zu § 24 Absatz 1)
 
-### Anlage 4 Muster eines Nachhaltigkeits-Teilnachweises
+### Anlage 4 (zu § 24 Absatz 1) Muster eines Nachhaltigkeits-Teilnachweises
 
 (Fundstelle: BGBl. I 2009, 3210 - 3208)
 
 ![bgbl1_2009_j3182-1_0020.jpg](bgbl1_2009_j3182-1_0020.jpg)
-(zu § 33 Absatz 1, § 43 Absatz 1)
 
-### Anlage 5 Inhaltliche Anforderungen an Zertifizierungssysteme
+### Anlage 5 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
 
 (Fundstelle: BGBl. I 2009, 3211 - 3212;
 bzgl. einzelner Änderungen vgl. Fußnote)

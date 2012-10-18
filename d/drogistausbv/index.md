@@ -400,11 +400,8 @@ Verordnung.
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur
-Drogistin
 
-## Anlage 1 - Sachliche Gliederung -
+## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur Drogistin - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 1200 - 1212;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2130,10 +2127,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 3)
-Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin
 
-## Anlage 2 - Zeitliche Gliederung -
+## Anlage 2 (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 1213 - 1215)
 

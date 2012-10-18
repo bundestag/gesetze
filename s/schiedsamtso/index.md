@@ -31,7 +31,7 @@ Bundesausschüssen der Ärzte, Zahnärzte und Krankenkassen mit
 Zustimmung des Bundesrates verordnet:
 
 
-## Erster Abschnitt - Gemeinsame Vorschriften für die Schiedsämter für die vertragsärztliche und für die vertragszahnärztliche Versorgung\*.
+## Erster Abschnitt - Gemeinsame Vorschriften für die Schiedsämter für die vertragsärztliche und für die vertragszahnärztliche Versorgung*.
 
 
 

@@ -1,7 +1,7 @@
 ---
-Title: Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der  Bundesrepublik
-  Deutschland und dem Amt des Hohen Flüchtlingskommissars der  Vereinten Nationen
-  über das Büro des Hohen Flüchtlingskommissars der Vereinten  Nationen in Deutschland
+Title: Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik
+  Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über
+  das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland
 jurabk: UNHCRBüroAbkV
 layout: default
 origslug: unhcrb_roabkv
@@ -9,7 +9,7 @@ slug: unhcrbueroabkv
 
 ---
 
-# Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der  Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der  Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten  Nationen in Deutschland (UNHCRBüroAbkV)
+# Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland (UNHCRBüroAbkV)
 
 Ausfertigungsdatum
 :   2007-02-22

@@ -339,9 +339,8 @@ Diese Verordnung tritt am 1. August 1986 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Leuchtröhrenglasbläser/zur Leuchtröhrenglasbläserin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Leuchtröhrenglasbläser/zur Leuchtröhrenglasbläserin
 
 (Fundstelle: BGBl. I 1985, 2294 - 2297)
 
@@ -871,9 +870,8 @@ Der Bundesminister für Wirtschaft
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

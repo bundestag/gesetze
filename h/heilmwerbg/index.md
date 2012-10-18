@@ -565,9 +565,8 @@ Werbematerial, das den Vorschriften des § 4 nicht entspricht, jedoch
 den Vorschriften des Gesetzes in der bis zum 10. September 1998
 geltenden Fassung, darf noch bis zum 31. März 1999 verwendet werden.
 
-(zu § 12)
 
-## Anlage Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
+## Anlage (zu § 12) Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2599
 

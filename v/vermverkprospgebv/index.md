@@ -90,9 +90,8 @@ geltenden Fassung weiter anzuwenden.
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
-(zu § 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 1216 — 1217)
 

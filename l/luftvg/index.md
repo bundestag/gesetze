@@ -3540,7 +3540,7 @@ Pflichtversicherung des Versicherungsvertragsgesetzes. § 114 des
 Versicherungsvertragsgesetzes gilt nicht.
 
 
-### 2. Unterabschnitt - Haftung für Personen und Gepäck, die im  Luftfahrzeug befördert werden; Haftung für verspätete Beförderung
+### 2. Unterabschnitt - Haftung für Personen und Gepäck, die im Luftfahrzeug befördert werden; Haftung für verspätete Beförderung
 
 
 
@@ -4891,9 +4891,8 @@ b)  an Flugplätzen nach § 27d Absatz 4 durch ausländische
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1106)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

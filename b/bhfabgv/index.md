@@ -190,9 +190,8 @@ oder -befreiung erforderlichen Unterlagen vorzulegen.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu den §§ 2 und 6)
 
-## Anlage Hafengeld und Pauschalen
+## Anlage (zu den §§ 2 und 6) Hafengeld und Pauschalen
 
 (Fundstelle: BGBl. I 2008, 2154)
 (1) Das Hafengeld beträgt

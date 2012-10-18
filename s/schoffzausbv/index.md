@@ -679,7 +679,7 @@ Anforderungen des Abschnittes A-V/2 Abs. 5 des STCW-Codes abgeschossen
 haben.
 
 
-## § 18e Zusätzliche Anforderungen für die Ausbildung und Befähigung von Kapitänen, Offizieren, Schiffsleuten und sonstigem Personal auf  Fahrgastschiffen, die keine Ro-Ro-Fahrgastschiffe sind
+## § 18e Zusätzliche Anforderungen für die Ausbildung und Befähigung von Kapitänen, Offizieren, Schiffsleuten und sonstigem Personal auf Fahrgastschiffen, die keine Ro-Ro-Fahrgastschiffe sind
 
 (1) Für den Erwerb des Befähigungsnachweises für den Dienst auf
 Fahrgastschiffen, die keine Ro-Ro-Fahrgastschiffe sind, müssen
@@ -1154,9 +1154,8 @@ bleiben unberührt.
 
 -
 
-(zu § 10 Abs. 4 und § 18 Abs. 2)
 
-## Anlage 1 Anforderungen für den Nachweis der fachlichen Eignung für den Erwerb der Befähigungszeugnissen nach § 3 Abs. 2
+## Anlage 1 (zu § 10 Abs. 4 und § 18 Abs. 2) Anforderungen für den Nachweis der fachlichen Eignung für den Erwerb der Befähigungszeugnissen nach § 3 Abs. 2
 
 Für den Erwerb der Befähigungszeugnisse zum Offizier und zum Kapitän
 auf Schiffen mit einer Bruttoraumzahl bis zu 500 in der Nationalen
@@ -1189,9 +1188,8 @@ folgenden Gebieten nachzuweisen:
 
 
 
-(zu § 18 Abs. 2)
 
-## Anlage 2 Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb von Befähigungszeugnissen nach § 4
+## Anlage 2 (zu § 18 Abs. 2) Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb von Befähigungszeugnissen nach § 4
 
 (Fundstelle des Originaltextes: BGBl. I 1992, 34 - 37, 227)
 Die nach § 18 Abs. 2 notwendigen Kenntnisse und Fertigkeiten müssen
@@ -2807,11 +2805,10 @@ an nach Landesrecht eingerichteten Ausbildungsstätten.
 
 
 
-   (zu § 15 Abs. 4 und § 18 Abs. 2)
 
-## Anlage 3 Anforderungen für den Nachweis der fachlichen Eignung für den Erwerb der Befähigungszeugnisse nach § 5 Abs. 2
+## Anlage 3 (zu § 15 Abs. 4 und § 18 Abs. 2) Anforderungen für den Nachweis der fachlichen Eignung für den Erwerb der Befähigungszeugnisse nach § 5 Abs. 2
 
-Für den Erwerb des Befähigungszeugnisses für Schiffsmaschinisten auf
+   Für den Erwerb des Befähigungszeugnisses für Schiffsmaschinisten auf
 Schiffen mit einer Antriebsleistung bis zu 750 Kilowatt sind die
 notwendigen Kenntnisse und Fertigkeiten auf den folgenden Gebieten
 nachzuweisen:
@@ -2847,9 +2844,8 @@ nachzuweisen:
 ## (XXXX) Anlagen 4 bis 12 (weggefallen)
 
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1109)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1109)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

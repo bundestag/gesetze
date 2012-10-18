@@ -1265,9 +1265,8 @@ Berichterstattung nicht nach § 21 Absatz 3 zu erfolgen hat.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 19)
 
-#### Anlage 1 Datenübersicht für Kapitalanlagegesellschaften und selbstverwaltende Investmentaktiengesellschaften
+#### Anlage 1 (zu § 19) Datenübersicht für Kapitalanlagegesellschaften und selbstverwaltende Investmentaktiengesellschaften
 
 (Fundstelle: BGBl. I 2008, 2479 - 2481)
 Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro
@@ -1870,9 +1869,8 @@ Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro
     außerordentliche Abschreibungen. Zu erfassen sind hier alle Steuern
     außer Steuern vom Einkommen und vom Ertrag.
 [^F8_771632_BJNR246700008BJNE004800000]: 
-(zu § 25 Absatz 1 Nummer 14)
 
-#### Anlage 2 Berechnung der Portfolioumschlagsrate
+#### Anlage 2 (zu § 25 Absatz 1 Nummer 14) Berechnung der Portfolioumschlagsrate
 
 (Fundstelle: BGBl. I 2008, 2482)
 Die Portfolioumschlagsrate eines Sondervermögens oder einer

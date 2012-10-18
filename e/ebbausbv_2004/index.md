@@ -544,9 +544,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
 
 (Fundstelle: BGBl. I 2004, 1630 - 1637)
 

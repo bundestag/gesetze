@@ -105,9 +105,8 @@ einem Viertel der vorgesehenen Gebühr ermäßigt werden.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1 Absatz 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Absatz 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2011, 2728 - 2731)
 

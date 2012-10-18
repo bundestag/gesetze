@@ -8329,7 +8329,7 @@ Vorbehalte seitens der für den interessierten Erwerber zuständigen
 Behörde zu vermerken.
 
 
-## VIb. - Meldungen an die Kommission der Europäischen  Gemeinschaften und die zuständigen Behörden der anderen Mitgliedstaaten
+## VIb. - Meldungen an die Kommission der Europäischen Gemeinschaften und die zuständigen Behörden der anderen Mitgliedstaaten
 
 
 

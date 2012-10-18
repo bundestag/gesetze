@@ -621,9 +621,8 @@ Musikalienhändler/Musikalienhändlerin sind nicht mehr anzuwenden.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 4 Absatz 1 Satz 1)
 
-## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+## Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
 (Fundstelle: BGBl. I 2009, 658 - 665)
 ## – Sachliche Gliederung –
@@ -1871,9 +1870,8 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
-(zu § 4 Absatz 1 Satz 2)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+## Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
 (Fundstelle: BGBl. I 2009, 666 - 667)
 ## – Zeitliche Gliederung –

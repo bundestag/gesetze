@@ -348,7 +348,7 @@ Ermächtigung nach Satz 1 durch Rechtsverordnung ohne Zustimmung des
 Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
 
-### § 12a Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft  und Technik zur Gewinnung von Blut und Blutbestandteilen
+### § 12a Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen
 
 (1) Die Bundesärztekammer kann den allgemein anerkannten Stand der
 Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung

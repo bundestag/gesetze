@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Controller/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte
   Controllerin
 jurabk: ContrPrV
 layout: default
@@ -8,7 +8,7 @@ slug: contrprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Controller/Geprüfte Controllerin (ContrPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin (ContrPrV)
 
 Ausfertigungsdatum
 :   2006-07-12

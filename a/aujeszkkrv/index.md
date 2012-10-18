@@ -634,9 +634,8 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 (Inkrafttreten)
 
-(zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3)
 
-### Anlage 1 Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
+### Anlage 1 (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3) Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3615 - 3616;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -870,9 +869,8 @@ aufrechterhalten, wenn die nachfolgenden Anforderungen erfüllt sind:
 
 
 
-(zu § 2)
 
-### Anlage 2 Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als  frei von der Aujeszkyschen Krankheit
+### Anlage 2 (zu § 2) Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als frei von der Aujeszkyschen Krankheit
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3617
 

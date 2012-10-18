@@ -1810,9 +1810,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu den §§ 8, 12, 16, 20, 24 und 28)
 
-### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Elektroberufen
+### Anlage 1 (zu den §§ 8, 12, 16, 20, 24 und 28) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Elektroberufen
 
 (Fundstelle: BGBl. I 2007, 1691 - 1694)
 Gemeinsame Kernqualifikationen ****
@@ -2307,9 +2306,8 @@ Gemeinsame Kernqualifikationen ****
 
 
 
-(zu § 8)
 
-### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Gebäude- und Infrastruktursysteme/zur Elektronikerin für Gebäude- und Infrastruktursysteme
+### Anlage 2 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Gebäude- und Infrastruktursysteme/zur Elektronikerin für Gebäude- und Infrastruktursysteme
 
 (Fundstelle: BGBl. I 2007, 1695 - 1705)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -3907,9 +3905,8 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-(zu § 12)
 
-### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Betriebstechnik/zur Elektronikerin für Betriebstechnik
+### Anlage 3 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Betriebstechnik/zur Elektronikerin für Betriebstechnik
 
 (Fundstelle: BGBl. I 2007, 1706 - 1717)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -5542,11 +5539,10 @@ Fachqualifikationen**
 *    *
 
 
-   (zu § 16)
 
-### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Automatisierungstechnik/zur Elektronikerin für Automatisierungstechnik
+### Anlage 4 (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Automatisierungstechnik/zur Elektronikerin für Automatisierungstechnik
 
-(Fundstelle: BGBl. I 2007, 1718 - 1728)
+   (Fundstelle: BGBl. I 2007, 1718 - 1728)
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -7122,9 +7118,8 @@ Fachqualifikationen**
 
 
 
-(zu § 20)
 
-### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Geräte und Systeme/zur Elektronikerin für Geräte und Systeme
+### Anlage 5 (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Geräte und Systeme/zur Elektronikerin für Geräte und Systeme
 
 (Fundstelle: BGBl. I 2007, 1729 - 1739)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -8553,9 +8548,8 @@ Fachqualifikationen**
 
 
 
-(zu § 24)
 
-### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Systeminformatiker/zur Systeminformatikerin
+### Anlage 6 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Systeminformatiker/zur Systeminformatikerin
 
 (Fundstelle: BGBl. I 2007, 1740 - 1749)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -9946,9 +9940,8 @@ Fachqualifikationen**
 
 
 
-(zu § 28)
 
-### Anlage 7 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für luftfahrttechnische Systeme/zur Elektronikerin für luftfahrttechnische Systeme
+### Anlage 7 (zu § 28) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für luftfahrttechnische Systeme/zur Elektronikerin für luftfahrttechnische Systeme
 
 (Fundstelle: BGBl. I 2007, 1750 - 1760)
 Teil A: Sachliche Gliederung der berufsspezifischen

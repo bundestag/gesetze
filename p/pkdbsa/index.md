@@ -3980,7 +3980,7 @@ welchem die Leistung verlangt werden kann. § 12 Abs. 2 und 3 des
 Versicherungsvertragsgesetzes gilt entsprechend.
 
 
-### 3. - Finanzierung der Versicherungsleistungen,  Altersvorsorgezulage
+### 3. - Finanzierung der Versicherungsleistungen, Altersvorsorgezulage
 
 
 
@@ -4426,7 +4426,7 @@ Hinterbliebenenrenten aus den übergeleiteten
 Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
 
-## VI. - Bestimmungen über die Abwicklung von  Versicherungsverhältnissen
+## VI. - Bestimmungen über die Abwicklung von Versicherungsverhältnissen
 
 
 
@@ -4508,11 +4508,11 @@ Anlage XV festgesetzten Versicherungsbedingungen. Die Anlage ist
 Bestandteil dieser Satzung.
 
 
-## VII. - Gemeinsame Bestimmungen für die Versicherten der  Abteilungen A und A 2000
+## VII. - Gemeinsame Bestimmungen für die Versicherten der Abteilungen A und A 2000
 
 
 
-### 1. - Pflichten der Versicherten und Hinterbliebenen,  Auskunftsanspruch und Rechte bei ruhendem Arbeitsverhältnis
+### 1. - Pflichten der Versicherten und Hinterbliebenen, Auskunftsanspruch und Rechte bei ruhendem Arbeitsverhältnis
 
 
 

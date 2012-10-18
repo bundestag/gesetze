@@ -685,9 +685,8 @@ sind.
 
 -
 
-Auszug aus EinigVtr Anlage I Kap. XVI Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1136)
+### Anhang EV Auszug aus EinigVtr Anlage I Kap. XVI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1136)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

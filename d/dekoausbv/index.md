@@ -318,9 +318,8 @@ vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1995 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Dekorvorlagenhersteller/zur Dekorvorlagenherstellerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Dekorvorlagenhersteller/zur Dekorvorlagenherstellerin
 
 (Fundstelle: BGBl. I 1994, 3830 - 3832)
 

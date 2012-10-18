@@ -613,12 +613,8 @@ anzuwenden.
 (1) Diese Verordnung tritt am 1. Juli 2009 in Kraft und mit Ablauf des
 31\. Juli 2015 außer Kraft.
 
-(zu § 4 )
-Ausbildungsrahmenplan
-für die Berufsausbildung zum Kaufmann im Einzelhandel/zur Kauffrau im
-Einzelhandel
 
-## Anlage – Sachliche Gliederung –
+## Anlage (zu § 4 ) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Einzelhandel/zur Kauffrau im Einzelhandel – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 675 - 687)
 **Abschnitt I: Fertigkeiten, Kenntnisse und Fähigkeiten in den

@@ -226,10 +226,8 @@ entsprechend anzuwenden.
 ## (XXXX) §§ 9 und 10 (weggefallen)
 
 
-(zu § 4 Abs. 1 Nr. 1)
-Allgemeine Anzeigepflicht nach §§ 25 und 30 Abs. 2 MPG
 
-## Anlage 1 General Obligation to Notify pursuant to §§ 25 and 30 (2) Medical Devices Act, MPG
+## Anlage 1 (zu § 4 Abs. 1 Nr. 1) Allgemeine Anzeigepflicht nach §§ 25 und 30 Abs. 2 MPG General Obligation to Notify pursuant to §§ 25 and 30 (2) Medical Devices Act, MPG
 
 Fundstelle des Originaltextes: BGBl. I 2007, 1069 - 1073
 Formblatt für Medizinprodukte, außer In-vitro-Diagnostika
@@ -902,10 +900,8 @@ Rhineland-Palatinate                Armed Forces
 
 
 
-(zu § 4 Abs. 1 Nr. 1)
-Allgemeine Anzeigepflicht nach §§ 25 und 30 Abs. 2 MPG
 
-## Anlage 2 General Obligation to Notify pursuant to §§ 25 and 30 (2) Medical Devices Act, MPG
+## Anlage 2 (zu § 4 Abs. 1 Nr. 1) Allgemeine Anzeigepflicht nach §§ 25 und 30 Abs. 2 MPG General Obligation to Notify pursuant to §§ 25 and 30 (2) Medical Devices Act, MPG
 
 Fundstelle des Originaltextes: BGBl. I 2007, 1074 - 1078
 Formblatt für In-vitro-Diagnostika
@@ -1489,10 +1485,8 @@ Rhineland-Palatinate                Armed Forces
 
 
 
-(zu § 4 Abs. 1 Nr. 2)
-Informationen über Bescheinigungen nach § 18 MPG
 
-## Anlage 3 Information relating to Certificates pursuant to § 18 Medical Devices Act, MPG
+## Anlage 3 (zu § 4 Abs. 1 Nr. 2) Informationen über Bescheinigungen nach § 18 MPG Information relating to Certificates pursuant to § 18 Medical Devices Act, MPG
 
 Fundstelle des Originaltextes: BGBl. I 2007, 1079 - 1084
 ----------------------------------------------------------------------
@@ -2136,12 +2130,8 @@ Rhineland-Palatinate                Armed Forces
 
 
 
-(zu § 4 Abs. 1 Nr. 3)
-Klinische Prüfung nach § 20 Abs. 6 MPG
-Leistungsbewertungsprüfung nach § 24 Abs. 2 MPG
-Clinical Investigation according to § 20 (6) Medical Devices Act, MPG
 
-## Anlage 4 Performance Evaluation according to § 24 (2) Medical Devices Act, MPG
+## Anlage 4 (zu § 4 Abs. 1 Nr. 3) Klinische Prüfung nach § 20 Abs. 6 MPG Leistungsbewertungsprüfung nach § 24 Abs. 2 MPG Clinical Investigation according to § 20 (6) Medical Devices Act, MPG Performance Evaluation according to § 24 (2) Medical Devices Act, MPG
 
 (Fundstelle: BGBl. I 2010, 544 - 550)
 
@@ -2416,11 +2406,8 @@ knowledge.
 
 
 
-(zu § 4 Abs. 1 Nr. 4)
-Mitteilung zur Klassifizierung eines Medizinproduktes oder Abgrenzung
-zu Nicht-Medizinprodukten
 
-## Anlage 5 Notice on the Classification of a Medical Device or Demarcation from other Products
+## Anlage 5 (zu § 4 Abs. 1 Nr. 4) Mitteilung zur Klassifizierung eines Medizinproduktes oder Abgrenzung zu Nicht-Medizinprodukten Notice on the Classification of a Medical Device or Demarcation from other Products
 
 (Fundstelle: BGBl. I 2010, 551 - 554)
 

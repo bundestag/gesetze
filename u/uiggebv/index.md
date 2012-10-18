@@ -59,9 +59,8 @@ widerrufen, werden keine Kosten erhoben.
 
 -
 
-(zu § 1 Abs. 1)
 
-## Anlage Kostenverzeichnis
+## Anlage (zu § 1 Abs. 1) Kostenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 3709)
 

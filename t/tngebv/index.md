@@ -75,9 +75,8 @@ Gebührenbescheid noch nicht unanfechtbar geworden ist.
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
 
-(zu § 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3003 - 3005;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

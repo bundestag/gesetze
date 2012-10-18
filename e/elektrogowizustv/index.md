@@ -1,6 +1,6 @@
 ---
-Title: Verordnung zur Bestimmung der für die Verfolgung und Ahndung von  Ordnungswidrigkeiten
-  nach § 23 Abs. 1 Nr. 2, 4, 8 und 9 des Elektro- und  Elektronikgerätegesetzes zuständigen
+Title: Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+  nach § 23 Abs. 1 Nr. 2, 4, 8 und 9 des Elektro- und Elektronikgerätegesetzes zuständigen
   Verwaltungsbehörde
 jurabk: ElektroGOWiZustV
 layout: default
@@ -9,7 +9,7 @@ slug: elektrogowizustv
 
 ---
 
-# Verordnung zur Bestimmung der für die Verfolgung und Ahndung von  Ordnungswidrigkeiten nach § 23 Abs. 1 Nr. 2, 4, 8 und 9 des Elektro- und  Elektronikgerätegesetzes zuständigen Verwaltungsbehörde (ElektroGOWiZustV)
+# Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 23 Abs. 1 Nr. 2, 4, 8 und 9 des Elektro- und Elektronikgerätegesetzes zuständigen Verwaltungsbehörde (ElektroGOWiZustV)
 
 Ausfertigungsdatum
 :   2006-07-10

@@ -1844,10 +1844,8 @@ der Unterzeichnung. Der Untersuchungstierarzt darf durch einen
 amtlichen Inspektor ersetzt werden, falls die einschlägigen
 Rechtsvorschriften dies vorsehen.
 
-(zu § 7 Absatz 1, § 9 Absatz 1 Satz 1, § 10 Absatz 2 und § 11 Absatz 3
-Satz 1)
 
-### Anlage 3 Durchführung der Nämlichkeitskontrolle
+### Anlage 3 (zu § 7 Absatz 1, § 9 Absatz 1 Satz 1, § 10 Absatz 2 und § 11 Absatz 3 Satz 1) Durchführung der Nämlichkeitskontrolle
 
 (Fundstelle: BGBl. I 2011, S. 1878)
 
@@ -1884,10 +1882,8 @@ Satz 1)
 
 
 
-(zu § 7 Absatz 1, § 8 Absatz 3 und 4, § 9 Absatz 5 Satz 2 und § 10
-Absatz 5)
 
-### Anlage 4 Durchführung der Warenuntersuchung
+### Anlage 4 (zu § 7 Absatz 1, § 8 Absatz 3 und 4, § 9 Absatz 5 Satz 2 und § 10 Absatz 5) Durchführung der Warenuntersuchung
 
 (Fundstelle: BGBl. I 2011, S. 1879 - 1887)
 

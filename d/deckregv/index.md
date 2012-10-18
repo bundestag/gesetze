@@ -116,7 +116,7 @@ technische und organisatorische Maßnahmen ist sicherzustellen, dass
 der ursprüngliche Inhalt weiterhin feststellbar bleibt.
 
 
-## Teil 2 - Zusätzliche Anforderungen bei elektronischer  Registerführung
+## Teil 2 - Zusätzliche Anforderungen bei elektronischer Registerführung
 
 
 

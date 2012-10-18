@@ -1,8 +1,7 @@
-Technische Mindestvorschriften für Schiffe auf dem Rhein und auf
-Binnenwasserstraßen der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein
-Schiffsattest beantragen
 ---
-Title: (Anhang II zur Binnenschiffsuntersuchungsordnung)
+Title: Technische Mindestvorschriften für Schiffe auf dem Rhein und auf Binnenwasserstraßen
+  der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein Schiffsattest beantragen (Anhang
+  II zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh II
 layout: default
 origslug: binschuo2008anh_ii
@@ -10,7 +9,7 @@ slug: binschuo2008anh_ii
 
 ---
 
-# (Anhang II zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh II)
+# Technische Mindestvorschriften für Schiffe auf dem Rhein und auf Binnenwasserstraßen der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein Schiffsattest beantragen (Anhang II zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh II)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -1563,7 +1562,7 @@ Anlagen
 
 
 
-## Teil I - 
+## Teil I -
 
 
 ### Kapitel 1 - Allgemeines
@@ -14308,7 +14307,7 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
 
-## Teil IV - 
+## Teil IV -
 
 
 ### Kapitel 24 - Übergangs- und Schlussbestimmungen
@@ -19417,11 +19416,8 @@ sein als die Darstellungen in dieser Anlage, vorausgesetzt, dass die
 Bedeutung nicht verändert wird und keine Unterschiede und Anpassungen
 die Bedeutung unverständlich machen.
 
-- gilt nur für Fahrzeuge mit Schiffsattest -
-Emission von gasförmigen Schadstoffen und luftverunreinigenden
-Partikeln
 
-#### Anlage J - Ergänzende Bestimmungen und Muster von Bescheinigungen -
+#### Anlage J - gilt nur für Fahrzeuge mit Schiffsattest - Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln - Ergänzende Bestimmungen und Muster von Bescheinigungen -
 
 ## Inhalt
 

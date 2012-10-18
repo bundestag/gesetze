@@ -690,17 +690,15 @@ Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
 -
 
-(zu § 11 Abs. 1 Satz 1)
 
-## Anlage 2 Meldevordruck LV 1
+## Anlage 2 (zu § 11 Abs. 1 Satz 1) Meldevordruck LV 1
 
 ...
 (nicht darstellbare Abbildung des "Meldevordrucks LV 1"
 Fundstelle: BGBl. I 2006, 3124 - 3129)
 
-(zu § 11 Abs. 1 Satz 1)
 
-## Anlage 3 Meldevordruck LV 2
+## Anlage 3 (zu § 11 Abs. 1 Satz 1) Meldevordruck LV 2
 
 ...
 (nicht darstellbare Abbildung des "Meldevordrucks LV 2"

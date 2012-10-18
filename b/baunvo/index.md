@@ -1219,7 +1219,7 @@ zugelassen werden können.
 
 
 
-### § 25 Fortführung eingeleiteter Verfahren \*)
+### § 25 Fortführung eingeleiteter Verfahren
 
 Für Bauleitpläne, deren Aufstellung oder Änderung bereits eingeleitet
 ist, sind die dieser Verordnung entsprechenden bisherigen Vorschriften

@@ -325,30 +325,26 @@ wird auf die Aufsichtsbehörde übertragen.
 
 Der Bundesminister für Verkehr
 
-(zu § 2 Abs. 8)
 
-## Anlage 1 Bereich Nordsee
+## Anlage 1 (zu § 2 Abs. 8) Bereich Nordsee
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 939)
 
-(zu § 2 Abs. 8)
 
-## Anlage 2 Bereich Ostsee, Teil 1
+## Anlage 2 (zu § 2 Abs. 8) Bereich Ostsee, Teil 1
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 940)
 
-(zu § 2 Abs. 8)
 
-## Anlage 3 Bereich Ostsee, Teil 2
+## Anlage 3 (zu § 2 Abs. 8) Bereich Ostsee, Teil 2
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 941)
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1108)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

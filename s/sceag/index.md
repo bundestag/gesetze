@@ -61,7 +61,7 @@ nicht in Frage kommen, als investierende Mitglieder zugelassen werden
 können.
 
 
-## Abschnitt 2 - Gründung einer Europäischen Genossenschaft durch  Verschmelzung
+## Abschnitt 2 - Gründung einer Europäischen Genossenschaft durch Verschmelzung
 
 
 

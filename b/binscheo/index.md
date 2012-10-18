@@ -1063,9 +1063,8 @@ Fundstelle: BGBl. I 1983, 322 - 323)
 (Inhalt: nicht darstellbares Muster einer Eichplakette für Sportboote,
 Fundstelle: BGBl. I 1983, 324)
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1110)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1110)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

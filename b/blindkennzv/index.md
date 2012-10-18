@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift  bei
-  Kleinstmengen
+Title: Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift bei Kleinstmengen
 jurabk: BlindKennzV
 layout: default
 origslug: blindkennzv
@@ -8,7 +7,7 @@ slug: blindkennzv
 
 ---
 
-# Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift  bei Kleinstmengen (BlindKennzV)
+# Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift bei Kleinstmengen (BlindKennzV)
 
 Ausfertigungsdatum
 :   2006-07-14

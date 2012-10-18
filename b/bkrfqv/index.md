@@ -253,9 +253,8 @@ insbesondere
 
 
 
-(zu § 1 Abs. 2, § 2 Abs. 2, § 4 Abs. 1)
 
-## Anlage 1 Liste der Kenntnisbereiche
+## Anlage 1 (zu § 1 Abs. 2, § 2 Abs. 2, § 4 Abs. 1) Liste der Kenntnisbereiche
 
 
 1   Verbesserung des rationellen Fahrverhaltens auf der Grundlage der
@@ -454,9 +453,8 @@ Fahrerlaubnisklassen D1, D1E, D, DE
 
 
 
-(zu § 1 Abs. 2 Satz 1)
 
-## Anlage 2 Prüfungen zum Erwerb der Grundqualifikation
+## Anlage 2 (zu § 1 Abs. 2 Satz 1) Prüfungen zum Erwerb der Grundqualifikation
 
 
 1.  Die theoretische Prüfung besteht aus einer schriftlichen Prüfung zu

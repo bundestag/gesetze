@@ -162,10 +162,8 @@ Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Abs. 1)
-Öko-Kennzeichen
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 1 Abs. 1) Öko-Kennzeichen Muster
 
 (Inhalt: nicht darstellbares Muster Öko-Kennzeichen;
 Fundstelle: BGBl. I 2002, 591)
@@ -210,10 +208,8 @@ b)  Das Öko-Kennzeichen ist in der Version mit Verlauf zu verwenden
 
 
 
-(zu § 3 Abs. 1)
-Formblattmuster für die Anzeige
 
-## Anlage 2 VERPFLICHTENDE ANGABEN!
+## Anlage 2 (zu § 3 Abs. 1) Formblattmuster für die Anzeige VERPFLICHTENDE ANGABEN!
 
 (nicht darstellbares Formblatt;
 Fundstelle: BGBl. I 2005, 3384 - 3385)

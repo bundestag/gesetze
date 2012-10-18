@@ -3327,9 +3327,8 @@ Empfehlungen können bei den Landeswahlleitern angefordert werden.
 
 (weggefallen)
 
-(zu § 17 Abs. 5)
 
-### Anlage 2 Antrag auf Eintragung in das Wählerverzeichnis für Deutsche
+### Anlage 2 (zu § 17 Abs. 5) Antrag auf Eintragung in das Wählerverzeichnis für Deutsche
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2558 - 2563;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4089,9 +4088,8 @@ Wohnung gemeldet sind, dürfen den Antrag nicht stellen.
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebiets des früheren Berlin (Ost)).
 [^BJNR014530988BJNE010506160_01]: 
-(zu § 17a Abs. 2)
 
-### Anlage 2A Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger
+### Anlage 2A (zu § 17a Abs. 2) Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2564 - 2566;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5259,9 +5257,8 @@ Ort, Datum                                  Die Gemeindebehörde
     Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen
     einsetzen.
 [^BJNR014530988BJNE010806160_04]: 
-(zu § 19 Abs. 2)
 
-### Anlage 6 Bekanntmachung für Deutsche zur Wahl zum Europäischen Parlament
+### Anlage 6 (zu § 19 Abs. 2) Bekanntmachung für Deutsche zur Wahl zum Europäischen Parlament
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2579;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5318,9 +5315,8 @@ Berlin (Ost)).
 Vertretung die Anschriften und Dienststunden der berufs-
 konsularischen Vertretungen im betreffenden Staat angefügt werden.
 
-(zu § 19 Abs. 3)
 
-### Anlage 6A Bekanntmachung für Staatsangehörige der übrigen Mitgliedstaaten der Europäischen Union (Unionsbürger) zur Wahl zum Europäischen Parlament in der Bundesrepublik Deutschland
+### Anlage 6A (zu § 19 Abs. 3) Bekanntmachung für Staatsangehörige der übrigen Mitgliedstaaten der Europäischen Union (Unionsbürger) zur Wahl zum Europäischen Parlament in der Bundesrepublik Deutschland
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2580;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6278,9 +6274,8 @@ Funktion                 Funktion                  Funktion
 
 
 
-(zu § 32 Abs. 3)
 
-### Anlage 14 Formblatt für eine Unterstützungsunterschrift
+### Anlage 14 (zu § 32 Abs. 3) Formblatt für eine Unterstützungsunterschrift
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2591 - 2592
 
@@ -6430,9 +6425,8 @@ Ort, Datum                                        Die Gemeindebehörde
 
 
 
-(zu § 32 Abs. 3)
 
-### Anlage 14A Versicherung an Eides statt zum Nachweis der Wahlberechtigung eines Unionsbürgers zur Vorlage bei der Gemeindebehörde (Bescheinigung des Wahlrechts für Unterstützungsunterschriften)
+### Anlage 14A (zu § 32 Abs. 3) Versicherung an Eides statt zum Nachweis der Wahlberechtigung eines Unionsbürgers zur Vorlage bei der Gemeindebehörde (Bescheinigung des Wahlrechts für Unterstützungsunterschriften)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2593;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6540,9 +6534,8 @@ I
     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides
     statt wird hingewiesen.
 [^BJNR014530988BJNE014003160_01]: 
-(zu § 32 Abs. 4 Nr. 1)
 
-### Anlage 15 Zustimmungserklärung mit den Versicherungen an Eides statt von Bewerbern und Ersatzbewerbern eines Wahlvorschlags 1)
+### Anlage 15 (zu § 32 Abs. 4 Nr. 1) Zustimmungserklärung mit den Versicherungen an Eides statt von Bewerbern und Ersatzbewerbern eines Wahlvorschlags 1)
 
 ( Fundstelle: BGBl. I 2003, 2594; bzgl. der einzelnen Änderungen vgl.
 Fußnote )
@@ -6896,9 +6889,8 @@ i.A.
 2) Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides
 statt wird hingewiesen.
 
-(zu § 78a)
 
-### Anlage 16C Bescheinigung über den Nichtausschluss von der Wählbarkeit für Deutsche zur Wahlbewerbung in einem anderen Mitgliedstaat der Europäischen Union für die Wahl zum Europäischen Parlament
+### Anlage 16C (zu § 78a) Bescheinigung über den Nichtausschluss von der Wählbarkeit für Deutsche zur Wahlbewerbung in einem anderen Mitgliedstaat der Europäischen Union für die Wahl zum Europäischen Parlament
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2600
 Herr/Frau
@@ -7367,9 +7359,8 @@ Unterschrift                             Unterschrift
 
 
 
-(zu § 32 Abs. 4 Nr. 3)
 
-### Anlage 19 Versicherung an Eides statt
+### Anlage 19 (zu § 32 Abs. 4 Nr. 3) Versicherung an Eides statt
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2607;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7420,9 +7411,8 @@ Versicherung an Eides statt wird hingewiesen.
 3) Die Bezeichnung des Wahlvorschlagsberechtigten muss mit der
 Bezeichnung auf dem Wahlvorschlag übereinstimmen.
 
-(zu § 34 Abs. 6 und 8)
 
-### Anlage 20 Niederschrift über die Sitzung des Landeswahlausschusses/Bundeswahlausschusses zur Entscheidung über die Zulassung der eingereichten Wahlvorschläge
+### Anlage 20 (zu § 34 Abs. 6 und 8) Niederschrift über die Sitzung des Landeswahlausschusses/Bundeswahlausschusses zur Entscheidung über die Zulassung der eingereichten Wahlvorschläge
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2608 - 2610
 Ort, Datum
@@ -7588,9 +7578,8 @@ Die Beisitzer
 \*) Nur auszufüllen in der Niederschrift über die Sitzung des
 Bundeswahlausschusses.
 
-(zu § 36 Abs. 1)
 
-### Anlage 21 Erklärung über den Ausschluss von der Verbindung von Wahlvorschlägen
+### Anlage 21 (zu § 36 Abs. 1) Erklärung über den Ausschluss von der Verbindung von Wahlvorschlägen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2611
 Bundeswahlleiter
@@ -7809,9 +7798,8 @@ SL = Saarland, SN = Sachsen, ST = Sachsen-Anhalt, SH = Schleswig-
 Holstein,
 TH = Thüringen
 
-(zu § 41 Abs. 1)
 
-### Anlage 23 Wahlbekanntmachung
+### Anlage 23 (zu § 41 Abs. 1) Wahlbekanntmachung
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2613 - 2614;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8410,10 +8398,8 @@ auf andere Weise kenntlich zu machen. Alte Zahlenangaben nicht
 löschen oder radieren.
 9) Nach dem Muster der Anlage 24 zur Europawahlordnung.
 
-(zu § 65 Abs. 3, § 68 Abs. 6, § 69 Abs. 1 und 4, § 70 Abs. 1 und 4 und
-§ 71 Abs. 1)
 
-### Anlage 26 Zusammenstellung der endgültigen Ergebnisse der Wahl zum Europäischen Parlament
+### Anlage 26 (zu § 65 Abs. 3, § 68 Abs. 6, § 69 Abs. 1 und 4, § 70 Abs. 1 und 4 und § 71 Abs. 1) Zusammenstellung der endgültigen Ergebnisse der Wahl zum Europäischen Parlament
 
 (Inhalt: nicht darstellbare Tabelle über Wahlergebnisse,
 Fundstelle: BGBl. I 2003, 2622)

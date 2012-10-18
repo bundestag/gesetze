@@ -57,7 +57,7 @@ bekannt gemachten jeweils geltenden Fassung zu Grunde zu legen. Absatz
 für Steuern und dem Empfänger darüber Einvernehmen besteht.
 
 
-## § 3 Erstmalige Zuteilung der Identifikationsnummer nach § 139b Abs. 6 der  Abgabenordnung
+## § 3 Erstmalige Zuteilung der Identifikationsnummer nach § 139b Abs. 6 der Abgabenordnung
 
 (1) Jede Meldebehörde übermittelt dem Bundeszentralamt für Steuern für
 jeden zum Ablauf des 30. Juni 2007 in ihrem Zuständigkeitsbereich mit

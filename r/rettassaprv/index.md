@@ -424,9 +424,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 
-(zu § 1 Abs. 1)
 
-## Anlage 1 Theoretische und praktische Ausbildung
+## Anlage 1 (zu § 1 Abs. 1) Theoretische und praktische Ausbildung
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1969 - 1971
 
@@ -1130,9 +1129,8 @@ Fundstelle des Originaltextes: BGBl. I 1989, 1969 - 1971
 
 
 
-(zu § 1 Abs. 2)
 
-## Anlage 2 Ergänzungslehrgang für Krankenschwestern, Krankenpfleger, Kinderkrankenschwestern, Kinderkrankenpfleger
+## Anlage 2 (zu § 1 Abs. 2) Ergänzungslehrgang für Krankenschwestern, Krankenpfleger, Kinderkrankenschwestern, Kinderkrankenpfleger
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1972 - 1973
 

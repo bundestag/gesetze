@@ -416,9 +416,8 @@ des Rates benötigt.
 die nach Absatz 2 erforderlichen Auskünfte zu erteilen und Unterlagen
 vorzulegen.
 
-(zu § 2 Nr. 4)
 
-## Anlage 1 Verzeichnis der Bodenabfertigungsdienste
+## Anlage 1 (zu § 2 Nr. 4) Verzeichnis der Bodenabfertigungsdienste
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
@@ -604,9 +603,8 @@ Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
 
 
-(zu § 7)
 
-## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+## Anlage 2 (zu § 7) Auswahl-Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -797,9 +795,8 @@ des Flugplatzunternehmens die Auswahlentscheidung. Die
 Auswahlentscheidung ist dem Nutzerausschuß, dem Flugplatzunternehmer
 sowie den Bewerbern bekanntzugeben.
 
-(zu § 8)
 
-## Anlage 3 Anforderungen für die Erbringung von Bodenabfertigungsdiensten
+## Anlage 3 (zu § 8) Anforderungen für die Erbringung von Bodenabfertigungsdiensten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2890 - 2892;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1042,9 +1039,8 @@ Selbstabfertigern angemessene Kautionen oder Sicherheiten verlangen
 sowie Finanzierungs- oder Zahlungsbedingungen geltend machen, ohne daß
 hierdurch Marktzugangshindernisse entstehen.
 
-(zu § 5)
 
-## Anlage 4 Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
+## Anlage 4 (zu § 5) Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2892 - 2893
 Die Geschäftsordnung, die sich der Nutzerausschuß eines Flugplatzes

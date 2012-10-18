@@ -556,9 +556,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Seiler/zur Seilerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Seiler/zur Seilerin
 
 (Fundstelle: BGBl. I 2008, 951 - 956)
 

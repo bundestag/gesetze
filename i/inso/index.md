@@ -548,9 +548,8 @@ persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört,
 bei der ein persönlich haftender Gesellschafter eine natürliche Person
 ist.
 
-Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren\*.
 
-#### § 20 Hinweis auf Restschuldbefreiung
+#### § 20 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren*. Hinweis auf Restschuldbefreiung
 
 (1) Ist der Antrag zulässig, so hat der Schuldner dem Insolvenzgericht
 die Auskünfte zu erteilen, die zur Entscheidung über den Antrag
@@ -6821,9 +6820,8 @@ wesentlichen Änderungen in dem ausländischen Verfahren und über alle
 ihm bekannten weiteren ausländischen Insolvenzverfahren über das
 Vermögen des Schuldners.
 
-Zuständiges Insolvenzgericht.
 
-#### § 348 Zusammenarbeit der Insolvenzgerichte
+#### § 348 Zuständiges Insolvenzgericht. Zusammenarbeit der Insolvenzgerichte
 
 (1) Für die Entscheidungen nach den §§ 344 bis 346 ist ausschließlich
 das Insolvenzgericht zuständig, in dessen Bezirk die Niederlassung

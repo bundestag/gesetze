@@ -5489,7 +5489,7 @@ der Aufforderung zur Abgabe von Geboten angemeldet worden ist.
 Schiffshypothek, so gilt Absatz 3 Satz 1 entsprechend.
 
 
-##### § 325a Feststellungswirkung des Musterentscheids \*)
+##### § 325a Feststellungswirkung des Musterentscheids
 
 Für die weitergehenden Wirkungen des Musterentscheids gelten die
 Vorschriften des Kapitalanleger-Musterverfahrensgesetzes.
@@ -11818,9 +11818,8 @@ Rechtsnachfolge nachweisenden öffentlichen oder öffentlich
 beglaubigten Urkunde nicht erforderlich, wenn der Rechtsnachfolger als
 Gläubiger im Grundbuch eingetragen ist.
 
-Schadensersatzpflicht bei der
 
-#### § 799a Vollstreckung aus Urkunden durch andere Gläubiger
+#### § 799a Schadensersatzpflicht bei der Vollstreckung aus Urkunden durch andere Gläubiger
 
 Hat sich der Eigentümer eines Grundstücks in Ansehung einer Hypothek
 oder Grundschuld in einer Urkunde nach § 794 Abs. 1 Nr. 5 der
@@ -17170,7 +17169,7 @@ anzuwenden.
 (2) § 1086 gilt entsprechend.
 
 
-##### Anlage (zu § 850c) \*)
+##### Anlage (zu § 850c)
 
 (Fundstelle: BGBl. I 2005, 3363 - 3378)
 
@@ -27857,14 +27856,8 @@ anzuwenden.
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III
-und IV
-(BGBl. II 1990, 889, 927, 940)
-Abschnitt III
-- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-Abschnitt IV
 
-##### Anhang EV - Sonderregelung für das Land Berlin -
+##### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 927, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin -
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

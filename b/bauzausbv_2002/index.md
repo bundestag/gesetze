@@ -624,9 +624,8 @@ Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 
 (Fundstelle: BGBl. I 2002, 2625 - 2630)
 

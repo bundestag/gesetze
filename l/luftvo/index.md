@@ -920,7 +920,7 @@ Erlaubnis kann mit Auflagen verbunden werden. Wolkenflüge mit
 Luftsportgeräten sind nicht erlaubt.
 
 
-### § 15 Erlaubnisbedürftige Außenstarts und Außenlandungen nach § 25 des  Luftverkehrsgesetzes
+### § 15 Erlaubnisbedürftige Außenstarts und Außenlandungen nach § 25 des Luftverkehrsgesetzes
 
 (1) Starts und Landungen von Luftfahrzeugen außerhalb der für sie
 genehmigten Flugplätze bedürfen der Erlaubnis der örtlich zuständigen
@@ -2084,21 +2084,18 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 (weggefallen)
 
-(zu §§ 17 und 19 Abs. 7 LuftVO)
 
-### Anlage 1 Vorschriften über die von Luftfahrzeugen zu führenden Lichter
+### Anlage 1 (zu §§ 17 und 19 Abs. 7 LuftVO) Vorschriften über die von Luftfahrzeugen zu führenden Lichter
 
 (Text: siehe LuftVOAnl 1)
 
-(zu § 21 LuftVO)
 
-### Anlage 2 Signale und Zeichen
+### Anlage 2 (zu § 21 LuftVO) Signale und Zeichen
 
 (Text: siehe LuftVOAnl 2)
 
-(zu §§ 31 und 37)
 
-### Anlage 3 Halbkreis-Flughöhen
+### Anlage 3 (zu §§ 31 und 37) Halbkreis-Flughöhen
 
 Sofern nach § 31 Abs. 2 und § 37 Abs. 3 der Luftverkehrs-Ordnung die
 Benutzung von Halbkreis-Flughöhen vorgeschrieben ist, hat der
@@ -2780,9 +2777,8 @@ jeweiligen mißweisenden Kurs über Grund entsprechen:
 
 
 
-(zu § 10 Abs. 2 LuftVO)
 
-### Anlage 4 Luftraumklassifizierung und Flugverkehrsdienste
+### Anlage 4 (zu § 10 Abs. 2 LuftVO) Luftraumklassifizierung und Flugverkehrsdienste
 
 
 *    *   Klassen
@@ -2919,10 +2915,8 @@ jeweiligen mißweisenden Kurs über Grund entsprechen:
     Sichtflugregeln.
 [^BJNR006520963BJNE006902310_001_BJNR006520963BJNE006904305]:     FVK = Flugverkehrskontrolle.
 [^BJNR006520963BJNE006902310_002_BJNR006520963BJNE006904305]: 
-(zu § 4 Abs. 2 bis 4, § 26 Abs. 1, § 26a Abs. 2 und § 28 Abs. 1 und 2
-LuftVO)
 
-### Anlage 5 Bedingungen für Flüge nach Instrumenten- und Sichtflugregeln
+### Anlage 5 (zu § 4 Abs. 2 bis 4, § 26 Abs. 1, § 26a Abs. 2 und § 28 Abs. 1 und 2 LuftVO) Bedingungen für Flüge nach Instrumenten- und Sichtflugregeln
 
 
 *    *   Klassen
@@ -3100,9 +3094,8 @@ LuftVO)
 
 (weggefallen)
 
-(zu § 5b LuftVO)
 
-### Anlage 6 Verzeichnis von meldepflichtigen Ereignissen bei Betrieb, Instandhaltung und Herstellung von Luftfahrzeugen
+### Anlage 6 (zu § 5b LuftVO) Verzeichnis von meldepflichtigen Ereignissen bei Betrieb, Instandhaltung und Herstellung von Luftfahrzeugen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1676 - 1682
 
@@ -4336,9 +4329,8 @@ spezifische Systeme nach Abschnitt B Nr. 2 meldepflichtig sind
 
 
 
-(zu § 5b LuftVO)
 
-### Anlage 7 Verzeichnis der meldepflichtigen Ereignisse im Zusammenhang mit Flugnavigationsdiensten
+### Anlage 7 (zu § 5b LuftVO) Verzeichnis der meldepflichtigen Ereignisse im Zusammenhang mit Flugnavigationsdiensten
 
 Fundstelle des Originaltextes: BGBl I 2005, 1683
 

@@ -18,10 +18,8 @@ Fundstelle
 Geändert durch
 :   Art. 67 Nr. 3 G v. 21.12.2000 I 1983
 
-Zehntes Buch (X)
-Verwaltungsverfahren, Schutz der Sozialdaten,
 
-## Art I - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
+## Art I - Zehntes Buch (X) Verwaltungsverfahren, Schutz der Sozialdaten, Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
 
 
 
@@ -29,7 +27,7 @@ Verwaltungsverfahren, Schutz der Sozialdaten,
 
 
 
-### Erster Abschnitt - 
+### Erster Abschnitt -
 
 
 

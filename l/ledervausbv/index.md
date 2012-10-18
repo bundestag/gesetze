@@ -416,9 +416,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2011 in Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Lederverarbeitung
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Lederverarbeitung
 
 (Fundstelle: BGBl. I 2011, 258 - 261)
 

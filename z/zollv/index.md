@@ -1998,9 +1998,8 @@ zuwiderhandelt, indem er vorsätzlich oder fahrlässig
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
 
-(zu § 14 Abs. 3, § 27 Abs. 3 Satz 3)
 
-## Anlage 1 Küstengebiet
+## Anlage 1 (zu § 14 Abs. 3, § 27 Abs. 3 Satz 3) Küstengebiet
 
 (Fundstelle: BGBl. I 1993, 2460;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2341,9 +2340,8 @@ von mindestens 10, höchstens 12 Kompaßstrichen - je 5 oder 6 Strich
 von recht achteraus nach jeder Seite des Schiffes - wirft. Das Licht
 muß auf eine Entfernung von mindestens 1 sm sichtbar sein.
 
-(zu § 28)
 
-## Anlage 3 Halte- und Bordezeichen
+## Anlage 3 (zu § 28) Halte- und Bordezeichen
 
 (Fundstelle: BGBl. I 1993, S. 2462)
 

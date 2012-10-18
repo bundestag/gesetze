@@ -1899,9 +1899,8 @@ Gesetzes vom 27. April 2002 (BGBl. I S. 1467), außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9)
 
-### Anlage 1 Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
+### Anlage 1 (zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9) Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2420
 
@@ -1968,9 +1967,8 @@ III. Praktikum der medizinischen Terminologie
 
 mit einer Gesamtstundenzahl von insgesamt mindestens 630 Stunden.
 
-(zu § 2 Abs. 7 Satz 1)
 
-### Anlage 2 Bescheinigung
+### Anlage 2 (zu § 2 Abs. 7 Satz 1) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2421;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2020,9 +2018,8 @@ Ort, Datum
 
 
 
-(zu § 2 Absatz 7 Satz 1)
 
-### Anlage 2a Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
+### Anlage 2a (zu § 2 Absatz 7 Satz 1) Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2012, 1546)
 
@@ -2207,9 +2204,8 @@ Veranstaltungen regelmäßig besucht:
 
 
 
-(zu § 2 Absatz 7 Satz 1)
 
-### Anlage 2b Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
+### Anlage 2b (zu § 2 Absatz 7 Satz 1) Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2012, 1547 – 1548)
 
@@ -2915,9 +2911,8 @@ angeboten werden, insbesondere in Betracht:
 
 
 
-(zu § 3 Absatz 5, § 10 Absatz 5)
 
-### Anlage 4 Bescheinigung über das Praktische Jahr
+### Anlage 4 (zu § 3 Absatz 5, § 10 Absatz 5) Bescheinigung über das Praktische Jahr
 
 (Fundstelle: BGBl. I 2012, 1549)
 
@@ -3018,9 +3013,8 @@ Fehlzeiten:
 
 
 
-(zu § 6 Abs. 4 Satz 2)
 
-### Anlage 5 Zeugnis über den Krankenpflegedienst
+### Anlage 5 (zu § 6 Abs. 4 Satz 2) Zeugnis über den Krankenpflegedienst
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2424)
 ----------------------------------------------------------------------
@@ -3057,9 +3051,8 @@ Name des Krankenhauses
 .........
 (Unterschrift des Leiters des Pflegedienstes)
 
-(zu § 7 Abs. 4 Satz 2)
 
-### Anlage 6 Zeugnis über die Tätigkeit als Famulus
+### Anlage 6 (zu § 7 Abs. 4 Satz 2) Zeugnis über die Tätigkeit als Famulus
 
 (Fundstelle: BGBl. I 2002, 2425; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3090,9 +3083,8 @@ Einrichtung, bei             ausbildenden
 öffentlicher Stelle          Arztes/Ärzte
 Siegel)
 
-(zu § 15 Abs. 8, § 41 Abs. 2 Nr. 9)
 
-### Anlage 7 Niederschrift über den mündlich-praktischen Teil des Ersten Abschnitts der Ärztlichen Prüfung
+### Anlage 7 (zu § 15 Abs. 8, § 41 Abs. 2 Nr. 9) Niederschrift über den mündlich-praktischen Teil des Ersten Abschnitts der Ärztlichen Prüfung
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2426;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3146,9 +3138,8 @@ Vorsitzenden der
 Mitglieds/der weiteren Mitglieder      Prüfungskommission)
 der Prüfungskommission)
 
-(zu § 15 Abs. 8)
 
-### Anlage 8 Niederschrift über den mündlich-praktischen Teil des Zweiten Abschnitts der Ärztlichen Prüfung
+### Anlage 8 (zu § 15 Abs. 8) Niederschrift über den mündlich-praktischen Teil des Zweiten Abschnitts der Ärztlichen Prüfung
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2427;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3206,9 +3197,8 @@ Sonstige Bemerkungen:
 Vorsitzenden der
 Mitglieder der Prüfungskommission)     Prüfungskommission)
 
-(zu § 23 Abs. 2 Satz 1, § 41 Abs. 2 Nr. 9)
 
-### Anlage 9 Anzahl und Verteilung der Prüfungsfragen im Ersten Abschnitt der Ärztlichen Prüfung
+### Anlage 9 (zu § 23 Abs. 2 Satz 1, § 41 Abs. 2 Nr. 9) Anzahl und Verteilung der Prüfungsfragen im Ersten Abschnitt der Ärztlichen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2428
 
@@ -3251,9 +3241,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 2428
 
 
 
-(zu § 23 Abs. 2 Satz 2, § 41 Abs. 2 Nr. 9)
 
-### Anlage 10 Prüfungsstoff für den Ersten Abschnitt der Ärztlichen Prüfung
+### Anlage 10 (zu § 23 Abs. 2 Satz 2, § 41 Abs. 2 Nr. 9) Prüfungsstoff für den Ersten Abschnitt der Ärztlichen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2429
 
@@ -3468,9 +3457,8 @@ Siegel oder Stempel
 
 (weggefallen)
 
-(zu § 40 Satz 1)
 
-### Anlage 14 Approbationsurkunde
+### Anlage 14 (zu § 40 Satz 1) Approbationsurkunde
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2434)
 Herr/Frau
@@ -3489,9 +3477,8 @@ Siegel
 ........................................
 (Unterschrift)
 
-(zu § 29 Abs. 3 Satz 2)
 
-### Anlage 15 Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
+### Anlage 15 (zu § 29 Abs. 3 Satz 2) Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2435
 

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte
   Pharmareferentin
 jurabk: PharmRefPrV
 layout: default
@@ -8,7 +8,7 @@ slug: pharmrefprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte Pharmareferentin (PharmRefPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin (PharmRefPrV)
 
 Ausfertigungsdatum
 :   2007-06-26
@@ -773,9 +773,8 @@ Unterschrift(en) ...............................
 \*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
 ............
 
-(zu § 2 Abs. 1 Nr. 3)
 
-## Anlage 3 Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf  die  Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte  Pharmareferentin
+## Anlage 3 (zu § 2 Abs. 1 Nr. 3) Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
 
 (Fundstelle: BGBl. I 2007, 1198 - 1201)
 

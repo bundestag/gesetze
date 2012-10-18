@@ -25,9 +25,8 @@ Auf Grund des § 125 Abs. 3 des Gesetzes über die Angelegenheiten der
 freiwilligen Gerichtsbarkeit in der Fassung der Verordnung vom 10.
 August 1937 (Reichsgesetzbl. I S. 900) bestimme ich folgendes:
 
-Einrichtung des Handelsregisters,
 
-## I. - Örtliche und sachliche Zuständigkeit
+## I. - Einrichtung des Handelsregisters, Örtliche und sachliche Zuständigkeit
 
 
 
@@ -395,9 +394,8 @@ Archivierung von Handelsregisterblättern zuständigen Stelle verfügbar
 gehalten werden, soweit landesrechtliche Vorschriften nicht
 entgegenstehen.
 
-Verfahren bei Anmeldung,
 
-## III. - Eintragung und Bekanntmachung
+## III. - Verfahren bei Anmeldung, Eintragung und Bekanntmachung
 
 
 
@@ -752,7 +750,7 @@ Die Abteilungen A und B werden in getrennten Registern nach den
 beigegebenen Mustern geführt.
 
 
-### Abteilung A - 
+### Abteilung A -
 
 
 
@@ -940,7 +938,7 @@ angemeldet, so ist bei der Eintragung in Abteilung B auf das bisherige
 Registerblatt in der Spalte "Bemerkungen" zu verweisen und umgekehrt.
 
 
-### Abteilung B - 
+### Abteilung B -
 
 
 
@@ -1222,9 +1220,8 @@ werden, wenn dies dazu dient, die Erhaltung und die Abrufbarkeit der
 Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht
 verändert werden.
 
-Anforderungen an Anlagen und Programme,
 
-#### § 49 Sicherung der Anlagen, Programme und Daten
+#### § 49 Anforderungen an Anlagen und Programme, Sicherung der Anlagen, Programme und Daten
 
 (1) Hinsichtlich der Anforderungen an die für das elektronisch
 geführte Handelsregister verwendeten Anlagen und Programme, deren
@@ -1352,9 +1349,8 @@ Der Reichsminister der Justiz
 
 -
 
-(zu § 33 Abs. 3)
 
-#### Anlage 3 Muster für Bekanntmachungen
+#### Anlage 3 (zu § 33 Abs. 3) Muster für Bekanntmachungen
 
 (Fundstelle: BGBl. I 2008, 2040)
 Amtsgericht Charlottenburg – Registergericht –,

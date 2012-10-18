@@ -167,9 +167,8 @@ Grenzwertverschärfung nach Anlage 2 Nr. 7 aufheben.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 3 Abs. 1)
 
-## Anlage 1 Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
+## Anlage 1 (zu § 3 Abs. 1) Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
 
 (Fundstelle: BGBl. I 2009, 1062)
 
@@ -494,9 +493,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
-(zu § 3 Abs. 1)
 
-## Anlage 2 Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
+## Anlage 2 (zu § 3 Abs. 1) Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
 
 (Fundstelle: BGBl. I 2009, 1063)
 
@@ -627,9 +625,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 [^f771926_02_BJNR106000009BJNE001100000]: [^f771926_03_BJNR106000009BJNE001100000]:     **             V/m).
     Dies entspricht einer äquivalenten Strahlungsleistung von 33 dB(pW).
 [^f771926_04_BJNR106000009BJNE001100000]: 
-(zu § 3 Abs. 1)
 
-## Anlage 3 Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
+## Anlage 3 (zu § 3 Abs. 1) Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
 
 **Inhalt**
 

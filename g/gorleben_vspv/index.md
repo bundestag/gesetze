@@ -538,10 +538,8 @@ zehn Jahre nach ihrer Verkündung außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-Karte "Planungsgebiet"
-Karte "Flurübersicht"
 
-## Anlage 37 Liegenschaftskarten
+## Anlage Karte "Planungsgebiet" Karte "Flurübersicht" 37 Liegenschaftskarten
 
 Karte "Planungsgebiet"
 Karte "Flurübersicht"

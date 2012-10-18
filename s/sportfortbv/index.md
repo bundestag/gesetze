@@ -618,9 +618,8 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
 
-(zu § 7 Absatz 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2010, 1495)
 
@@ -682,9 +681,8 @@ bestanden.
 
 
 
-(zu § 7 Absatz 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2010, 1495)
 

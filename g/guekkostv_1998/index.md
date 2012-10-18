@@ -61,9 +61,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Abs. 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2004, 2709 - 2710;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

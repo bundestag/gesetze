@@ -575,9 +575,8 @@ der tatsächliche Durchsatz auf das Jahr hochzurechnen.
 
 Der Bundesrat hat zugestimmt.
 
-(zu §§ 3 und 5)
 
-## Anlage 1 Bestimmung des Wirkungsgrades und der Dichtheit von Gasrückführungssystemen gemäß der VDI-Richtlinie: VDI 4205 Blatt 4, Ausgabe August 2005
+## Anlage 1 (zu §§ 3 und 5) Bestimmung des Wirkungsgrades und der Dichtheit von Gasrückführungssystemen gemäß der VDI-Richtlinie: VDI 4205 Blatt 4, Ausgabe August 2005
 
 (Fundstelle: BGBl. I 2002, 1571; bzgl. der einzelnen Änderungen vgl.
 Fußnote)

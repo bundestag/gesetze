@@ -7471,10 +7471,8 @@ dieses Gesetzes gemäß Artikel 87 Abs. 2 seiner Verfassung beschließt.
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III
-(BGBl. II 1990, 889, 920)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 920) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

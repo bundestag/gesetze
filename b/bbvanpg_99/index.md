@@ -30,7 +30,7 @@ beschlossen:
 
 
 
-### Art 1 bis 4 - 
+### Art 1 bis 4 -
 
 (weggefallen)
 
@@ -39,7 +39,7 @@ beschlossen:
 
 
 
-### Art 5 bis 8 - 
+### Art 5 bis 8 -
 
 
 

@@ -585,10 +585,8 @@ gebracht werden.
 Vorschriften dieser Verordnung entsprechen, dürfen noch bis zum 30.
 Oktober 2012 in Verkehr gebracht werden.
 
-(zu § 2 Nummer 2 Buchstabe c, § 4 Absatz 2 Nummer 6 und § 5 Absatz 3
-Nummer 4 und Absatz 6)
 
-## Anlage 1 
+## Anlage 1 (zu § 2 Nummer 2 Buchstabe c, § 4 Absatz 2 Nummer 6 und § 5 Absatz 3 Nummer 4 und Absatz 6)
 
 (Fundstelle: BGBl. I 2009, 3222)
 **Vitamine und Mineralstoffe,**

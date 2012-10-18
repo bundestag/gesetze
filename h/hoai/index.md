@@ -8985,9 +8985,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 3 Absatz 1)
 
-### Anlage 1 Beratungsleistungen
+### Anlage 1 (zu § 3 Absatz 1) Beratungsleistungen
 
 (Fundstelle: BGBl. I 2009, 2758 - 2774)
 
@@ -13623,9 +13622,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 3 Absatz 3)
 
-### Anlage 2 Besondere Leistungen
+### Anlage 2 (zu § 3 Absatz 3) Besondere Leistungen
 
 (Fundstelle: BGBl. I 2009, 2775 - 2781)
 
@@ -14420,9 +14418,8 @@ Inhaltsübersicht
     Leistungsprogramm Grundleistung. In diesem Fall entfallen die
     Grundleistungen dieser Leistungsphase.
 [^f772278_03_BJNR273200009BJNE006100000]: 
-(zu § 5 Absatz 4 Satz 2)
 
-### Anlage 3 Objektlisten
+### Anlage 3 (zu § 5 Absatz 4 Satz 2) Objektlisten
 
 (Fundstelle: BGBl. I 2009, 2782 - 2789)
 
@@ -15354,9 +15351,8 @@ Inhaltsübersicht
 
 
 
-(zu § 18 Absatz 1)
 
-### Anlage 4 Leistungen im Leistungsbild Flächennutzungsplan
+### Anlage 4 (zu § 18 Absatz 1) Leistungen im Leistungsbild Flächennutzungsplan
 
 (Fundstelle: BGBl. I 2009, 2790 - 2791)
 
@@ -15502,9 +15498,8 @@ aufgestellten Fassung für die Vorlage zur Genehmigung durch die höhere
 Verwaltungsbehörde in einer farbigen oder vervielfältigungsfähigen
 Schwarz-Weiß-Ausfertigung nach den Landesregelungen.
 
-(zu § 19 Absatz 1)
 
-### Anlage 5 Leistungen im Leistungsbild Bebauungsplan
+### Anlage 5 (zu § 19 Absatz 1) Leistungen im Leistungsbild Bebauungsplan
 
 (Fundstelle: BGBl. I 2009, 2792)
 
@@ -15642,9 +15637,8 @@ aufgestellten Fassung und seiner Begründung für die Anzeige oder
 Genehmigung in einer farbigen oder vervielfältigungsfähigen Schwarz-
 Weiß- Ausfertigung nach den Landesregelungen.
 
-(zu § 23 Absatz 1)
 
-### Anlage 6 Leistungen im Leistungsbild Landschaftsplan
+### Anlage 6 (zu § 23 Absatz 1) Leistungen im Leistungsbild Landschaftsplan
 
 (Fundstelle: BGBl. I 2009, 2793 - 2794)
 
@@ -15815,9 +15809,8 @@ d)  Hinweise auf landschaftliche Folgeplanungen und -maßnahmen sowie
 Darstellen des Landschaftsplans in der vorgeschriebenen Fassung in
 Text und Karte mit Erläuterungsbericht.
 
-(zu § 24 Absatz 1)
 
-### Anlage 7 Leistungen im Leistungsbild Grünordnungsplan
+### Anlage 7 (zu § 24 Absatz 1) Leistungen im Leistungsbild Grünordnungsplan
 
 (Fundstelle: BGBl. I 2009, 2795 - 2796)
 
@@ -16039,9 +16032,8 @@ c)  Hinweise auf weitere Aufgaben von Naturschutz und Landschaftspflege
 Darstellen des Grünordnungsplans in der vorgeschriebenen Fassung in
 Text und Karte mit Begründung.
 
-(zu § 25 Absatz 1)
 
-### Anlage 8 Leistungen im Leistungsbild Landschaftsrahmenplan
+### Anlage 8 (zu § 25 Absatz 1) Leistungen im Leistungsbild Landschaftsrahmenplan
 
 (Fundstelle: BGBl. I 2009, 2797)
 
@@ -16187,9 +16179,8 @@ Darstellen des Landschaftsrahmenplans in der vorgeschriebenen Fassung
 in Text und Karte mit Erläuterungsbericht nach erfolgter Abstimmung
 des Entwurfs mit dem Auftraggeber gemäß Leistungsphase 3.
 
-(zu § 26 Absatz 1)
 
-### Anlage 9 Leistungen im Leistungsbild Landschaftspflegerischer Begleitplan
+### Anlage 9 (zu § 26 Absatz 1) Leistungen im Leistungsbild Landschaftspflegerischer Begleitplan
 
 (Fundstelle: BGBl. I 2009, 2798 - 2799)
 
@@ -16331,9 +16322,8 @@ c)  Kostenschätzung
 Darstellen des landschaftspflegerischen Begleitplans in der
 vorgeschriebenen Fassung in Text und Karte.
 
-(zu § 27)
 
-### Anlage 10 Leistungen im Leistungsbild Pflege- und Entwicklungsplan
+### Anlage 10 (zu § 27) Leistungen im Leistungsbild Pflege- und Entwicklungsplan
 
 (Fundstelle: BGBl. I 2009, 2800)
 
@@ -16424,9 +16414,8 @@ e)  Abstimmen der Konzepte mit dem Auftraggeber;
 Darstellen des Pflege- und Entwicklungsplans in der vorgeschriebenen
 Fassung in Text und Karte.
 
-(zu den §§ 33 und 38 Absatz 2)
 
-### Anlage 11 Leistungen im Leistungsbild Gebäude und raumbildende Ausbauten sowie im Leistungsbild Freianlagen
+### Anlage 11 (zu den §§ 33 und 38 Absatz 2) Leistungen im Leistungsbild Gebäude und raumbildende Ausbauten sowie im Leistungsbild Freianlagen
 
 (Fundstelle: BGBl. I 2009, 2801 - 2803)
 
@@ -16745,9 +16734,8 @@ d)  systematische Zusammenstellung der zeichnerischen Darstellungen und
 
 
 
-(zu § 42 Absatz 1 und § 46 Absatz 2)
 
-### Anlage 12 Leistungen im Leistungsbild Ingenieurbauwerke und im Leistungsbild Verkehrsanlagen
+### Anlage 12 (zu § 42 Absatz 1 und § 46 Absatz 2) Leistungen im Leistungsbild Ingenieurbauwerke und im Leistungsbild Verkehrsanlagen
 
 (Fundstelle: BGBl. I 2009, 2804 - 2806)
 
@@ -17089,9 +17077,8 @@ d)  systematische Zusammenstellung der zeichnerischen Darstellungen und
 
 
 
-(zu § 49 Absatz 1)
 
-### Anlage 13 Leistungen im Leistungsbild Tragwerksplanung
+### Anlage 13 (zu § 49 Absatz 1) Leistungen im Leistungsbild Tragwerksplanung
 
 (Fundstelle: BGBl. I 2009, 2807)
 
@@ -17233,9 +17220,8 @@ c)  Aufstellen von Leistungsbeschreibungen als Ergänzung zu den
 
 
 
-(zu § 53 Absatz 1)
 
-### Anlage 14 Leistungen im Leistungsbild Technische Ausrüstung
+### Anlage 14 (zu § 53 Absatz 1) Leistungen im Leistungsbild Technische Ausrüstung
 
 (Fundstelle: BGBl. I 2009, 2808 - 2809)
 

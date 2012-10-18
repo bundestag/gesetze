@@ -804,9 +804,8 @@ Bestimmungen nichts anderes ergibt.
 (2) § 2 Abs. 1 Nr. 10 gilt nur insoweit, als § 55 Abs. 1 Satz 1
 Buchstabe c des Bundesversorgungsgesetzes nicht entgegensteht.
 
-zu § 3
 
-### Anlage Vorschriften zur Bestimmung des Wertes von Sachbezügen
+### Anlage zu § 3 Vorschriften zur Bestimmung des Wertes von Sachbezügen
 
 -
 

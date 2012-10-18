@@ -1142,9 +1142,8 @@ zuständige Behörde oder Stelle.
 
 -
 
-(zu § 5)
 
-## Anlage 1 Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
+## Anlage 1 (zu § 5) Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
 
 (Fundstelle: BGBl. I 1998, 3030 - 3035,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2128,9 +2127,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 9)
 
-## Anlage 2 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
+## Anlage 2 (zu § 9) Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3036 - 3039;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2867,9 +2865,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-(zu § 13 Abs. 4a)
 
-## Anlage 3 Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
+## Anlage 3 (zu § 13 Abs. 4a) Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2281 - 2284;
 bzgl. der einzelnen Änderungen vgl. Fußnote

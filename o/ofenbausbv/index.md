@@ -393,9 +393,8 @@ Ausbildungsverhältnisse nicht mehr anzuwenden.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(zu § 5)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum  Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
+## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
 
 (Fundstelle: BGBl. I 2006, 821 - 827)
 

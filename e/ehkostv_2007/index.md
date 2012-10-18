@@ -77,9 +77,8 @@ oder nach Beginn der sachlichen Bearbeitung zurückgenommen wird.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1 Abs. 1)
 
-## Anhang Gebührenverzeichnis
+## Anhang (zu § 1 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2004, 2274 - 2275;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

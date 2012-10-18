@@ -324,9 +324,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung Fachkraft für Lebensmitteltechnik
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung Fachkraft für Lebensmitteltechnik
 
 (Fundstelle: BGBl. I 2000, 118 - 120)
 

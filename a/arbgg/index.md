@@ -1348,7 +1348,7 @@ durch wen die Unterlagen in ein elektronisches Dokument übertragen
 worden sind.
 
 
-##### § 47 Sondervorschriften über Ladung und Einlassung \*)
+##### § 47 Sondervorschriften über Ladung und Einlassung
 
 (1) Die Klageschrift muß mindestens eine Woche vor dem Termin
 zugestellt sein.

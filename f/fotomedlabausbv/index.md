@@ -348,9 +348,8 @@ ausreichende Leistungen erbracht sind.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienlaboranten/zur Fotomedienlaborantin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienlaboranten/zur Fotomedienlaborantin
 
 (Fundstelle: BGBl. I 1997, 3179 - 3181)
 

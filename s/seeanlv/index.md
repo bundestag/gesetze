@@ -665,9 +665,8 @@ zum Ablauf des 30. Januar 2012 geltenden Fassung vor dem 31. Januar
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 13 Absatz 3)
 
-## Anhang Anforderungen an Sicherheitsleistungen
+## Anhang (zu § 13 Absatz 3) Anforderungen an Sicherheitsleistungen
 
 
 1.  Die Genehmigungsbehörde entscheidet über Art, Umfang und Höhe der

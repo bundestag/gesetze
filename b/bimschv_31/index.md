@@ -865,9 +865,8 @@ Buchstabe a entbunden, sofern die Gesamtemissionen der Anlage die
 Werte nicht überschreiten, die bei Einhaltung der Anforderungen nach §
 4 Nr. 1 Buchstabe a und b erzielt worden wären.
 
-(zu § 1)
 
-### Anhang I Liste der Anlagen
+### Anhang I (zu § 1) Liste der Anlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2187 - 2188
 
@@ -1312,9 +1311,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2187 - 2188
 
 
 
-(zu § 1)
 
-### Anhang II Liste der Tätigkeiten
+### Anhang II (zu § 1) Liste der Tätigkeiten
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
 
@@ -1602,9 +1600,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
 
 
 
-(zu §§ 3 und 4)
 
-### Anhang III Spezielle Anforderungen
+### Anhang III (zu §§ 3 und 4) Spezielle Anforderungen
 
 (Fundstelle: BGBl. I 2001, 2192 - 2202;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3941,9 +3938,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 4)
 
-### Anhang IV Reduzierungsplan
+### Anhang IV (zu § 4) Reduzierungsplan
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2203 bis 2205)
 
@@ -4541,9 +4537,8 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
 
 
 
-(zu den §§ 5 und 6)
 
-### Anhang V Lösemittelbilanz
+### Anhang V (zu den §§ 5 und 6) Lösemittelbilanz
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
@@ -4804,9 +4799,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
 
 
-(zu den §§ 5 und 6)
 
-### Anhang VI Anforderungen an die Durchführung der Überwachung
+### Anhang VI (zu den §§ 5 und 6) Anforderungen an die Durchführung der Überwachung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2208)
 

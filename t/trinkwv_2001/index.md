@@ -1634,9 +1634,8 @@ Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(zu § 5 Absatz 2 und 3)
 
-### Anlage 1 Mikrobiologische Parameter
+### Anlage 1 (zu § 5 Absatz 2 und 3) Mikrobiologische Parameter
 
 (Fundstelle: BGBl. I 2011, 2384)
 
@@ -1702,9 +1701,8 @@ Anforderungen an Trinkwasser,
 
 
 
-(zu § 6 Absatz 2)
 
-### Anlage 2 Chemische Parameter
+### Anlage 2 (zu § 6 Absatz 2) Chemische Parameter
 
 (Fundstelle: BGBl. I 2011, 2385 - 2387)
 
@@ -2043,9 +2041,8 @@ Chemische Parameter, deren Konzentration im Verteilungsnetz
 
 
 
-(zu § 7)
 
-### Anlage 3 Indikatorparameter
+### Anlage 3 (zu § 7) Indikatorparameter
 
 (Fundstelle: BGBl. I 2011, 2388 - 2390)
 
@@ -2431,9 +2428,8 @@ Installation
 
 
 
-(zu den §§ 14 und 19)
 
-### Anlage 4 Umfang und Häufigkeit von Untersuchungen
+### Anlage 4 (zu den §§ 14 und 19) Umfang und Häufigkeit von Untersuchungen
 
 (Fundstelle: BGBl. I 2011, 2391 - 2393)
 
@@ -2708,9 +2704,8 @@ Installation
 
 
 
-(zu § 15 Absatz 1, 2 und 4)
 
-### Anlage 5 Spezifikationen für die Analyse der Parameter
+### Anlage 5 (zu § 15 Absatz 1, 2 und 4) Spezifikationen für die Analyse der Parameter
 
 (Fundstelle: BGBl. I 2011, 2394 - 2396)
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 14.12.2001 I 3714
 
 
-## Erster Abschnitt - 
+## Erster Abschnitt -
 
 
 
@@ -68,7 +68,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
 nach Maßgabe der §§ 2 und 3 eingeschränkt.
 
 
-## Zweiter Abschnitt - 
+## Zweiter Abschnitt -
 
 
 
@@ -119,7 +119,7 @@ Ausfuhrkontrolle (BAFA).
 
 
 
-## Dritter Abschnitt - 
+## Dritter Abschnitt -
 
 
 

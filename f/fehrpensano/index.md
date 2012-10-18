@@ -144,9 +144,8 @@ die höhere gezahlt.
 
 Der Staatssekretär für Arbeit und Löhne
 
-Auszug aus EinigVtr Anlage II Kapitel VIII Sachgebiet H Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 885, 1214)
+## Anhang EV Auszug aus EinigVtr Anlage II Kapitel VIII Sachgebiet H Abschnitt III (BGBl. II 1990, 885, 1214)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

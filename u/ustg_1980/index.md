@@ -5711,9 +5711,8 @@ entsprechend anzuwenden.
 
 (2) Absatz 1 gilt sinngemäß bei einer Änderung dieses Gesetzes.
 
-(zu § 4 Nr. 4a)
 
-### Anlage 1 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
+### Anlage 1 (zu § 4 Nr. 4a) Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
 
 (Fundstelle: BGBl. I 2006, 2896 - 2897)
 
@@ -5928,9 +5927,8 @@ entsprechend anzuwenden.
 Die Gegenstände dürfen nicht für die Lieferung auf der
 Einzelhandelsstufe aufgemacht sein.
 
-(zu § 12 Abs. 2 Nr. 1 und 2)
 
-### Anlage 2 Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
+### Anlage 2 (zu § 12 Abs. 2 Nr. 1 und 2) Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
 
 (Fundstelle: BGBl. I 2006, 2897 - 2901;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6896,9 +6894,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 13b Absatz 2 Nummer 7)
 
-### Anlage 3 Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
+### Anlage 3 (zu § 13b Absatz 2 Nummer 7) Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
 
 (Fundstelle: BGBl. I 2010, 1787)
 

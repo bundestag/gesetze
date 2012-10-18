@@ -3655,9 +3655,8 @@ Arbeitnehmerinnen und Arbeitnehmer, deren Arbeitsverhältnis in der
 Schlechtwetterzeit nicht aus witterungsbedingten Gründen gekündigt
 werden kann.
 
-Kurzarbeitergeld für
 
-###### § 103 Heimarbeiterinnen und Heimarbeiter
+###### § 103 Kurzarbeitergeld für Heimarbeiterinnen und Heimarbeiter
 
 (1) Anspruch auf Kurzarbeitergeld haben auch Heimarbeiterinnen und
 Heimarbeiter, wenn sie ihren Lebensunterhalt ausschließlich oder
@@ -11249,9 +11248,8 @@ geltenden Fassung weiterhin anzuwenden, soweit in den
 Bemessungszeitraum Zeiten des Bezugs von Winterausfallgeld oder einer
 Winterausfallgeld-Vorausleistung fallen.
 
-Siebtes Gesetz zur Änderung des Dritten Buches
 
-#### § 439 Sozialgesetzbuch und anderer Gesetze
+#### § 439 Siebtes Gesetz zur Änderung des Dritten Buches Sozialgesetzbuch und anderer Gesetze
 
 Ist ein Anspruch auf Arbeitslosengeld mit einer dem Lebensalter der
 oder des Arbeitslosen entsprechenden Höchstanspruchsdauer nach § 127

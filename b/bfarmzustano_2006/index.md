@@ -1,8 +1,8 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden
-  und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Bundesinstituts
-  für Arzneimittel und Medizinprodukte in  Angelegenheiten nach dem Bundesreisekostengesetz
-  und dem  Bundesumzugskostengesetz einschließlich der hierzu ergangenen  Trennungsgeldverordnung
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
+  und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesinstituts
+  für Arzneimittel und Medizinprodukte in Angelegenheiten nach dem Bundesreisekostengesetz
+  und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung
 jurabk: BfArMZustAnO 2006
 layout: default
 origslug: bfarmzustano_2006
@@ -10,7 +10,7 @@ slug: bfarmzustano_2006
 
 ---
 
-# Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Bundesinstituts für Arzneimittel und Medizinprodukte in  Angelegenheiten nach dem Bundesreisekostengesetz und dem  Bundesumzugskostengesetz einschließlich der hierzu ergangenen  Trennungsgeldverordnung (BfArMZustAnO 2006)
+# Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesinstituts für Arzneimittel und Medizinprodukte in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung (BfArMZustAnO 2006)
 
 Ausfertigungsdatum
 :   2006-04-21

@@ -651,9 +651,8 @@ bisherigen Vorschriften beantragt werden.
 
 Diese Verordnung tritt am 1. November 2007 in Kraft.
 
-(zu § 6 Abs. 3)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Abs. 3) Muster
 
 (Fundstelle: BGBl. I 2007, 2490;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -720,11 +719,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 
-   (zu § 6 Abs. 3)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Abs. 3) Muster
 
-(Fundstelle: BGBl. I 2007, 2491;
+   (Fundstelle: BGBl. I 2007, 2491;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   ......................................................................

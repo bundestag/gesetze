@@ -2165,9 +2165,8 @@ Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
 
 
-(zu § 8 Absatz 8, § 11 Absatz 3)
 
-### Anhang I Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
+### Anhang I (zu § 8 Absatz 8, § 11 Absatz 3) Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
 (Fundstelle: BGBl. I 2010, 1660 - 1673)
 
@@ -4065,9 +4064,8 @@ Bundesanstalt für Materialforschung und -prüfung.
 
     Nummer im Register des Chemical Abstracts Service (CAS).
 [^F1a_774705_BJNR164400010BJNE002601308]: 
-(zu § 16 Absatz 2)
 
-### Anhang II Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Zubereitungen und Erzeugnisse
+### Anhang II (zu § 16 Absatz 2) Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Zubereitungen und Erzeugnisse
 
 (Fundstelle: BGBl. I 2010, 1674 - 1676)
 

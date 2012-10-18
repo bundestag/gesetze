@@ -467,9 +467,8 @@ Ausländerbehörde unverzüglich zu übermitteln.
 Verwahrung genommene Urkunde unecht oder verfälscht ist, ist sie an
 die zuständige Polizeivollzugsbehörde zu übermitteln.
 
-Übermittlung personenbezogener
 
-### § 6a Daten an Mitgliedstaaten der Europäischen Union
+### § 6a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
 (1) Die Behörden der Zollverwaltung können personenbezogene Daten, die
 in Zusammenhang mit einem der in § 2 Absatz 1 genannten

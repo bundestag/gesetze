@@ -436,9 +436,8 @@ dritte Ausbildungsjahr fortgesetzt werden.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-(zu § 3)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Servicekraft für Schutz und Sicherheit
+## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Servicekraft für Schutz und Sicherheit
 
 (Fundstelle: BGBl. I 2008, 943 - 946)
 

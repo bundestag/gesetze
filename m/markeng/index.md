@@ -3363,9 +3363,8 @@ kann Widerspruch nicht erhoben werden.
 (4) Im übrigen sind auf Umwandlungsanträge die Vorschriften dieses
 Gesetzes für die Anmeldung von Marken anzuwenden.
 
-Gemeinschaftsmarkengerichte,
 
-#### § 125e Gemeinschaftsmarkenstreitsachen
+#### § 125e Gemeinschaftsmarkengerichte, Gemeinschaftsmarkenstreitsachen
 
 (1) Für alle Klagen, für die nach der Verordnung über die
 Gemeinschaftsmarke die Gemeinschaftsmarkengerichte im Sinne des

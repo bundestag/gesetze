@@ -825,9 +825,8 @@ anzuwenden.
 
 Diese Verordnung tritt am 15. Oktober 2003 in Kraft.
 
-(zu § 11 Abs. 1 Satz 2)
 
-### Anlage 1 Standards für die Einreichung von Sequenzprotokollen
+### Anlage 1 (zu § 11 Abs. 1 Satz 2) Standards für die Einreichung von Sequenzprotokollen
 
 (Fundstelle: BGBl. I 2003, 1708 - 1725;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3736,11 +3735,10 @@ Zu verwendende Symbole
 
 
 
-   (zu § 12)
 
-### Anlage 2 Standards für die Einreichung von Zeichnungen
+### Anlage 2 (zu § 12) Standards für die Einreichung von Zeichnungen
 
-(Fundstelle: BGBl. I 2003, 1726 - 1727;
+   (Fundstelle: BGBl. I 2003, 1726 - 1727;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A. Schriftliche Einreichung

@@ -72,10 +72,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für
-den Verkehrsflughafen Paderborn/Lippstadt)
 
-## Anlage 1 Lärmschutzbereich
+## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Paderborn/Lippstadt) Lärmschutzbereich
 
 (Fundstelle des Originaltextes: BGBl. I 1995, 277)
 

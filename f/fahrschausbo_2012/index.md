@@ -390,9 +390,8 @@ außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 4)
 
-## Anlage 1 Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
+## Anlage 1 (zu § 4) Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
 
 (Fundstelle: BGBl. I 2012, 1322 - 1323)
 
@@ -864,9 +863,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 4)
 
-## Anlage 2.1 Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A1 (4 Doppelstunden), in der Klasse M (2 Doppelstunden)
+## Anlage 2.1 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A1 (4 Doppelstunden), in der Klasse M (2 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1324 - 1325)
 
@@ -1077,9 +1075,8 @@ Der Bundesrat hat zugestimmt.
     Gilt nicht für M.
 [^f776948_01_BJNR131800012BJNE001400000]:     Nicht für A1, M.
 [^f776948_02_BJNR131800012BJNE001400000]: 
-(zu § 4)
 
-## Anlage 2.2 Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen B und S (2 Doppelstunden)
+## Anlage 2.2 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen B und S (2 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1326)
 
@@ -1192,9 +1189,8 @@ Der Bundesrat hat zugestimmt.
 
     Gilt nicht für Klasse S.
 [^f776948_03_BJNR131800012BJNE001500000]: 
-(zu § 4)
 
-## Anlage 2.3 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
+## Anlage 2.3 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1327)
 
@@ -1439,9 +1435,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 4)
 
-## Anlage 2.4 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse CE (4 Doppelstunden)
+## Anlage 2.4 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse CE (4 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1328)
 
@@ -1535,9 +1530,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 4)
 
-## Anlage 2.5 Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
+## Anlage 2.5 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1329 - 1330)
 
@@ -1971,9 +1965,8 @@ Der Bundesrat hat zugestimmt.
     Bei Erweiterung von Klasse D1 auf Klasse D 8 Doppelstunden
     klassenspezifischer Stoff.
 [^f776948_04_BJNR131800012BJNE001800000]: 
-(zu § 4)
 
-## Anlage 2.6 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse L (2 Doppelstunden)
+## Anlage 2.6 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse L (2 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1331)
 
@@ -2044,9 +2037,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 4)
 
-## Anlage 2.7 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse T (6 Doppelstunden)
+## Anlage 2.7 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse T (6 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1332)
 
@@ -2205,9 +2197,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 4 Absatz 4)
 
-## Anlage 2.8 Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
+## Anlage 2.8 (zu § 4 Absatz 4) Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
 
 (Fundstelle: BGBl. I 2012, 1333)
 
@@ -2318,9 +2309,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 5 Absatz 1)
 
-## Anlage 3 Sachgebiete für den praktischen Unterricht für alle Klassen
+## Anlage 3 (zu § 5 Absatz 1) Sachgebiete für den praktischen Unterricht für alle Klassen
 
 (Fundstelle: BGBl. I 2012, 1334 - 1338)
 
@@ -3319,9 +3309,8 @@ Der Bundesrat hat zugestimmt.
 [^f776948_06_BJNR131800012BJNE002200000]:     Gilt auch für Klasse S, soweit Helmpflicht besteht.
 [^f776948_07_BJNR131800012BJNE002200000]:     Gilt nicht für Klasse S.
 [^f776948_08_BJNR131800012BJNE002200000]: 
-(zu § 5 Absatz 3)
 
-## Anlage 4 Die besonderen Ausbildungsfahrten für die Klassen A1, A, B, BE, C1, C1E, C und CE
+## Anlage 4 (zu § 5 Absatz 3) Die besonderen Ausbildungsfahrten für die Klassen A1, A, B, BE, C1, C1E, C und CE
 
 (Fundstelle: BGBl. I 2012, 1339)
 
@@ -3462,9 +3451,8 @@ Der Bundesrat hat zugestimmt.
     Vor Ablauf der zweijährigen Frist nach § 6 Absatz 2 Satz 1 der
     Fahrerlaubnis-Verordnung.
 [^f776948_09_BJNR131800012BJNE002300000]: 
-(zu § 5 Absatz 4)
 
-## Anlage 5 Praktische Mindestausbildung in den Klassen D1, D, D1E und DE
+## Anlage 5 (zu § 5 Absatz 4) Praktische Mindestausbildung in den Klassen D1, D, D1E und DE
 
 (Fundstelle: BGBl. I 2012, 1340)
 
@@ -3638,13 +3626,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-(zu § 5 Absatz 5)
-Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und T
-Funktions- und Sicherheitskontrolle
-sowie entsprechende Handfertigkeiten
-Kontrolle der Kraftfahrzeuge und
 
-## Anlage 6 Anhänger auf Verkehrs- und Betriebssicherheit
+## Anlage 6 (zu § 5 Absatz 5) Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und T Funktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit
 
 (Fundstelle: BGBl. I 2012, 1341 - 1342)
 
@@ -3875,10 +3858,8 @@ Kontrolle der Kraftfahrzeuge und
 
 
 
-(zu § 6 Absatz 2)
-Ausbildungsbescheinigung für den theoretischen Mindestunterricht
 
-## Anlage 7.1 (§ 2 Abs. 2 Nr. 4 StVG)
+## Anlage 7.1 (zu § 6 Absatz 2) Ausbildungsbescheinigung für den theoretischen Mindestunterricht (§ 2 Abs. 2 Nr. 4 StVG)
 
 (Fundstelle: BGBl. I 2012, 1343)
 
@@ -4193,13 +4174,10 @@ Mindestunterrichts gemäß § 4 FahrschAusbO
     *
 
 
-   (zu § 6 Absatz 2)
-Ausbildungsbescheinigung für den praktischen Unterricht der Klassen M,
-A, A1, B, BE, C1, C1E, C, CE und T
 
-## Anlage 7.2 (§ 2 Abs. 2 Nr. 4 StVG)
+## Anlage 7.2 (zu § 6 Absatz 2) Ausbildungsbescheinigung für den praktischen Unterricht der Klassen M, A, A1, B, BE, C1, C1E, C, CE und T (§ 2 Abs. 2 Nr. 4 StVG)
 
-(Fundstelle: BGBl. I 2012, 1344)
+   (Fundstelle: BGBl. I 2012, 1344)
 
 
 *    *
@@ -4447,11 +4425,8 @@ A, A1, B, BE, C1, C1E, C, CE und T
 
 
 
-(zu § 6 Absatz 2)
-Ausbildungsbescheinigung für den praktischen Unterricht der Klassen
-D1, D1E, D und DE
 
-## Anlage 7.3 (§ 2 Abs. 2 Nr. 4 StVG)
+## Anlage 7.3 (zu § 6 Absatz 2) Ausbildungsbescheinigung für den praktischen Unterricht der Klassen D1, D1E, D und DE (§ 2 Abs. 2 Nr. 4 StVG)
 
 (Fundstelle: BGBl. I 2012, 1345)
 

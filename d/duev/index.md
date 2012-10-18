@@ -831,9 +831,8 @@ entstanden sind.
 
 -
 
-(zu § 3 Abs. 2 Satz 1 Nr. 1)
 
-## Anlage 1 Stickstoffgehalt pflanzlicher Erzeugnisse
+## Anlage 1 (zu § 3 Abs. 2 Satz 1 Nr. 1) Stickstoffgehalt pflanzlicher Erzeugnisse
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 228 - 232)
 
@@ -2331,9 +2330,8 @@ entstanden sind.
 
 
 
-(zu § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe a)
 
-## Anlage 2 Voraussichtliche Stickstoff-Lieferung während des Pflanzenwachstums aus der  Vorkultur
+## Anlage 2 (zu § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe a) Voraussichtliche Stickstoff-Lieferung während des Pflanzenwachstums aus der Vorkultur
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 233)
 
@@ -2476,9 +2474,8 @@ entstanden sind.
 
 
 
-(zu § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe b)
 
-## Anlage 3 Mindestwerte für pflanzenbauliche Stickstoff-Wirksamkeit zugeführter  Wirtschaftsdünger im Jahr der Aufbringung in Prozent des ausgebrachten  Gesamtstickstoffs 1) bei langjähriger Anwendung
+## Anlage 3 (zu § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe b) Mindestwerte für pflanzenbauliche Stickstoff-Wirksamkeit zugeführter Wirtschaftsdünger im Jahr der Aufbringung in Prozent des ausgebrachten Gesamtstickstoffs 1) bei langjähriger Anwendung
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 234)
 
@@ -2543,9 +2540,8 @@ entstanden sind.
 
 
 
-(zu § 3 Abs. 10)
 
-## Anlage 4 Geräte zum Ausbringen von Düngemitteln, die nicht den allgemein anerkannten  Regeln der Technik entsprechen
+## Anlage 4 (zu § 3 Abs. 10) Geräte zum Ausbringen von Düngemitteln, die nicht den allgemein anerkannten Regeln der Technik entsprechen
 
 Fundstelle des Originaltextes: BGBl. I 2007, 234
 
@@ -2568,9 +2564,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 234
 
 
 
-(zu § 4 Abs. 3)
 
-## Anlage 5 Nährstoffanfall bei landwirtschaftlichen Nutztieren
+## Anlage 5 (zu § 4 Abs. 3) Nährstoffanfall bei landwirtschaftlichen Nutztieren
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 235 - 237)
 
@@ -3496,9 +3491,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 234
 
 
 
-(zu § 4 Abs. 3, § 5 Abs. 1, 2 und 3, Anlagen 7 und 8)
 
-## Anlage 6 Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
+## Anlage 6 (zu § 4 Abs. 3, § 5 Abs. 1, 2 und 3, Anlagen 7 und 8) Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 238)
 
@@ -3672,10 +3666,8 @@ Fundstelle des Originaltextes: BGBl. I 2007, 234
 
 
 
-(zu § 5 Abs. 1, § 7 Abs. 1 Nr. 3)
-Jährlicher betrieblicher Nährstoffvergleich
 
-## Anlage 7 für Stickstoff (N) oder Phosphat \*A (P(tief)2O(tief)5) (Nährstoff unterstreichen) für das Düngejahr ...
+## Anlage 7 (zu § 5 Abs. 1, § 7 Abs. 1 Nr. 3) Jährlicher betrieblicher Nährstoffvergleich für Stickstoff (N) oder Phosphat *A (P(tief)2O(tief)5) (Nährstoff unterstreichen) für das Düngejahr ...
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 239;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3784,10 +3776,8 @@ I bilanzen)              I           I
 
 
 
-(zu § 5 Abs. 1, § 6 Abs. 1, § 7 Abs. 1 Nr. 3)
-Mehrjähriger betrieblicher Nährstoffvergleich
 
-## Anlage 8 gleitende Mittelwerte für Stickstoff (3 Jahre) und Phosphat \*A (P(tief)2O(tief)5)(6 Jahre)
+## Anlage 8 (zu § 5 Abs. 1, § 6 Abs. 1, § 7 Abs. 1 Nr. 3) Mehrjähriger betrieblicher Nährstoffvergleich gleitende Mittelwerte für Stickstoff (3 Jahre) und Phosphat *A (P(tief)2O(tief)5)(6 Jahre)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 240)
 

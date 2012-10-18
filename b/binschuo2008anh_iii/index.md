@@ -1,7 +1,6 @@
-Zusätzliche technische Vorschriften für Fahrzeuge auf
-Binnenwasserstraßen der Zonen 1 und 2
 ---
-Title: (Anhang III zur Binnenschiffsuntersuchungsordnung)
+Title: Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der
+  Zonen 1 und 2 (Anhang III zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh III
 layout: default
 origslug: binschuo2008anh_iii
@@ -9,7 +8,7 @@ slug: binschuo2008anh_iii
 
 ---
 
-# (Anhang III zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh III)
+# Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2 (Anhang III zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh III)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -1032,7 +1031,7 @@ bescheinigen.
 
 
 
-## Teil 4 - 
+## Teil 4 -
 
 
 ### Kapitel 11 - Übergangs- und Sonderbestimmungen

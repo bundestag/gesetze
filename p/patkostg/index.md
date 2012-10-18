@@ -435,9 +435,8 @@ geltenden Fassung gezahlt werden können, wird die Frist zur Zahlung
 bis zum Ende der Aufschiebungsfrist nach § 21 Abs. 1 Satz 1 des
 Geschmacksmustergesetzes verlängert.
 
-(zu § 2 Abs. 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3659 - 3666;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

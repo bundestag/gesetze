@@ -356,9 +356,8 @@ Der Bundesrat hat zugestimmt.
 ## Anlage 2 (weggefallen)
 
 
-(zu § 10 Abs. 1)
 
-## Anlage 3 Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Wartungsmängeln
+## Anlage 3 (zu § 10 Abs. 1) Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Wartungsmängeln
 
 Fundstelle des Originaltextes: BGBl. I 2003, 781;
 bzgl. der einzelnen Änderungen vgl. Fußnote

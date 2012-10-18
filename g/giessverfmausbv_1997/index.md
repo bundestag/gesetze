@@ -1171,9 +1171,8 @@ Anwendung der Vorschriften in dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 6)
 
-## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Gießereimechaniker/zur Gießereimechanikerin
+## Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Gießereimechaniker/zur Gießereimechanikerin
 
 (Fundstelle: BGBl. I 1997, 1267 - 1285)
 
@@ -3912,9 +3911,8 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 
 
-(zu § 6)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie
+## Anlage 2 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie
 
 (Fundstelle: BGBl. I 1997, 1286 - 1303)
 **I. Berufliche Grundbildung**

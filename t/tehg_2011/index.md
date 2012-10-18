@@ -1633,12 +1633,8 @@ bleibt dieses Gesetz auf ihn hinsichtlich des Zuteilungsverfahrens
 nach § 11 mit Ausnahme der Zuteilungsentscheidung nach § 11 Absatz 6
 anwendbar.
 
-(zu § 1, § 2 Absatz 1 bis 3 Satz 1, Absatz 4 Satz 1,
-Absatz 5 Nummer 3, § 3 Absatz 1 Nummer 2, 5, 9 und 12,
-§ 4 Absatz 1 Satz 1, § 7 Absatz 2 Satz 1 Nummer 1,
-§ 24, § 27 Absatz 1 Satz 2 und § 28 Absatz 1 Nummer 4)
 
-### Anhang 1 Einbezogene Tätigkeiten und Treibhausgase
+### Anhang 1 (zu § 1, § 2 Absatz 1 bis 3 Satz 1, Absatz 4 Satz 1, Absatz 5 Nummer 3, § 3 Absatz 1 Nummer 2, 5, 9 und 12, § 4 Absatz 1 Satz 1, § 7 Absatz 2 Satz 1 Nummer 1, § 24, § 27 Absatz 1 Satz 2 und § 28 Absatz 1 Nummer 4) Einbezogene Tätigkeiten und Treibhausgase
 
 (Fundstelle: BGBl. I 2011, 1488 - 1491)
 
@@ -2203,10 +2199,8 @@ Teil 2
 
 
 
-(zu § 5 Absatz 1, § 6 Absatz 1 Satz 2, Absatz 2 Satz 2,
-§ 13 Absatz 4, § 30 Absatz 2 Satz 1 und § 32 Absatz 1 Nummer 1)
 
-### Anhang 2 Anforderungen an die Vorlage und Genehmigung von Überwachungsplänen nach den §§ 6 und 13 sowie an die Ermittlung von Emissionen und die Berichterstattung nach § 5
+### Anhang 2 (zu § 5 Absatz 1, § 6 Absatz 1 Satz 2, Absatz 2 Satz 2, § 13 Absatz 4, § 30 Absatz 2 Satz 1 und § 32 Absatz 1 Nummer 1) Anforderungen an die Vorlage und Genehmigung von Überwachungsplänen nach den §§ 6 und 13 sowie an die Ermittlung von Emissionen und die Berichterstattung nach § 5
 
 (Fundstelle: BGBl. I 2011, 1492)
 
@@ -2297,9 +2291,8 @@ Abweichend von Satz 2 haben Luftfahrzeugbetreiber die Emissionen des
 Jahres 2012 nach der Entscheidung
 2007/589/EG              der Kommission zu ermitteln.
 
-(zu § 5 Absatz 2)
 
-### Anhang 3 Anforderungen an die Verifizierung
+### Anhang 3 (zu § 5 Absatz 2) Anforderungen an die Verifizierung
 
 (Fundstelle: BGBl. I 2011, 1493 - 1494)
 
@@ -2500,9 +2493,8 @@ Teil 2
 
 
 
-(zu § 21 Absatz 1)
 
-### Anhang 4 Anforderungen an sachverständige Stellen
+### Anhang 4 (zu § 21 Absatz 1) Anforderungen an sachverständige Stellen
 
 (Fundstelle: BGBl. I 2011, 1495)
 
@@ -2534,9 +2526,8 @@ Die sachverständige Stelle muss
 
 
 
-(zu § 27 Absatz 4 und § 28 Absatz 1 Nummer 5 Buchstabe e)
 
-### Anhang 5 Berechnung der spezifischen Emissionsminderung sowie des Ausgleichsbetrages bei Nichterfüllung der Selbstverpflichtung nach § 27 Absatz 4
+### Anhang 5 (zu § 27 Absatz 4 und § 28 Absatz 1 Nummer 5 Buchstabe e) Berechnung der spezifischen Emissionsminderung sowie des Ausgleichsbetrages bei Nichterfüllung der Selbstverpflichtung nach § 27 Absatz 4
 
 (Fundstelle: BGBl. I 2011, 1496 - 1497)
 

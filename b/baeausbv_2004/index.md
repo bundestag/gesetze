@@ -387,9 +387,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-(zu § 6)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
+## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
 
 (Fundstelle: BGBl. I 2004, 635 - 641)
 

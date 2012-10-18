@@ -239,17 +239,15 @@ fachlichen Geltungsbereich begründen.
 Diese Verordnung tritt am 1. Dezember 2011 in Kraft und am 31.
 Dezember 2013 außer Kraft.
 
-(zu § 1)
 
-## Anlage 1 Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
+## Anlage 1 (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 
 (Fundstelle: BAnz. 2011, 3866 - 3869)
 
 (Text der Anlage siehe: TVMindestlohn 2011)
 
-(zu § 2 Absatz 1)
 
-## Anlage 2 Fachliche Geltungsbereiche
+## Anlage 2 (zu § 2 Absatz 1) Fachliche Geltungsbereiche
 
 (Fundstelle: BAnz. 2011, 3869 - 3871)
 
@@ -762,9 +760,8 @@ Freileitungs-, Ortsnetz- und Kabelbaues mit Ausnahme des
 Zentralheizungs- und Lüftungsbaues sowie der Arbeitsstellen auf
 Schiffen auf Fahrt.
 
-(zu § 2 Absatz 2 Buchstabe a)
 
-## Anlage 3 Liste der Mitgliedsverbände von Gesamtmetall in der Fassung vom 1. Februar 2006
+## Anlage 3 (zu § 2 Absatz 2 Buchstabe a) Liste der Mitgliedsverbände von Gesamtmetall in der Fassung vom 1. Februar 2006
 
 (Fundstelle: BAnz. 2011, 3871)
 
@@ -808,9 +805,8 @@ Unternehmensverband Saarland e.V.
 
 Verband der Metall- und Elektroindustrie Osnabrück-Emsland e.V.
 
-(zu § 2 Absatz 4 Nummer 1, 5 und 6)
 
-## Anlage 4 Fachliche Geltungsbereiche
+## Anlage 4 (zu § 2 Absatz 4 Nummer 1, 5 und 6) Fachliche Geltungsbereiche
 
 (Fundstelle: BAnz. 2011, 3871 - 3872)
 

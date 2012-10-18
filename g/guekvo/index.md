@@ -59,9 +59,8 @@ bzw. Erlaubnis nach dieser Verordnung voraus.
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 885, 1223)
+## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 885, 1223)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:

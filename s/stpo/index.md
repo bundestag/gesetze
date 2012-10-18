@@ -7490,7 +7490,7 @@ Die durch das Verfahren über den Antrag veranlaßten Kosten sind in den
 Fällen der §§ 174 und 176 Abs. 2 dem Antragsteller aufzuerlegen.
 
 
-### Dritter Abschnitt - 
+### Dritter Abschnitt -
 
 (weggefallen)
 
@@ -14370,14 +14370,8 @@ hierüber diese Stelle im Einvernehmen mit der Staatsanwaltschaft, die
 die personenbezogenen Daten zur Eintragung in das Verfahrensregister
 mitgeteilt hat.
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III
-und IV
-(BGBl. II 1990, 889, 933, 940)
-Abschnitt III
-- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-Abschnitt IV
 
-#### Anhang EV - Sonderregelung für das Land Berlin -
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 933, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin -
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

@@ -378,9 +378,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Naturwerksteinmechaniker/zur Naturwerksteinmechanikerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Naturwerksteinmechaniker/zur Naturwerksteinmechanikerin
 
 (Fundstelle: BGBl. I 2003, 703 - 708)
 

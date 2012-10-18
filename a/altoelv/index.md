@@ -428,9 +428,8 @@ abgelöst.
 
 (Inkrafttreten)
 
-(zu § 2 Abs. 2 und § 4 Abs. 3 und 6)
 
-### Anlage 1 Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
+### Anlage 1 (zu § 2 Abs. 2 und § 4 Abs. 3 und 6) Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1372
 
@@ -564,9 +563,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 1372
 
 
 
-(zu § 5 Abs. 3)
 
-### Anlage 2 Probenahme und Untersuchung von Altöl
+### Anlage 2 (zu § 5 Abs. 3) Probenahme und Untersuchung von Altöl
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1373 - 1374)
 
@@ -842,9 +840,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 1372
 
 
 
-(zu § 6 Abs. 1 und 2)
 
-### Anlage 3 Erklärung über die Entsorgung von Altölen
+### Anlage 3 (zu § 6 Abs. 1 und 2) Erklärung über die Entsorgung von Altölen
 
 (Inhalt: nicht darstellbares Formblatt,
 Fundstelle: BGBl. I 2002, 1375;

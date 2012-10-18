@@ -4328,11 +4328,8 @@ sie durch Beschluss eine vorläufige Untersagung ausgesprochen werden.
 (2) Für das weitere Verfahren gelten § 111 Abs. 2 bis § 120a
 sinngemäß.
 
-Die Kosten in dem berufsgerichtlichen Verfahren und in dem Verfahren
-bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge.
-Die Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten.
 
-### Vierter Abschnitt - Die Tilgung
+### Vierter Abschnitt - Die Kosten in dem berufsgerichtlichen Verfahren und in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge. Die Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten. Die Tilgung
 
 
 
@@ -5120,9 +5117,8 @@ Verkündung folgenden Kalendermonats in Kraft.
 (2) Die §§ 14, 48, 54, 131 Abs. 4 treten am Tage der Verkündung in
 Kraft.
 
-(zu § 122 Satz 1)
 
-### Anlage Gebührenverzeichnis
+### Anlage (zu § 122 Satz 1) Gebührenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3436 - 3438)
 
@@ -5451,10 +5447,8 @@ Kraft.
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1000)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1000) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

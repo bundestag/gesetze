@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Mediengestalter Digital und  Print/zur
+Title: Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print/zur
   Mediengestalterin Digital und Print
 jurabk: Dig/PrintMedAusbV 2007
 layout: default
@@ -8,7 +8,7 @@ slug: dig_printmedausbv_2007
 
 ---
 
-# Verordnung über die Berufsausbildung zum Mediengestalter Digital und  Print/zur Mediengestalterin Digital und Print (Dig/PrintMedAusbV 2007)
+# Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print/zur Mediengestalterin Digital und Print (Dig/PrintMedAusbV 2007)
 
 Ausfertigungsdatum
 :   2007-05-02
@@ -1441,9 +1441,8 @@ anzuwenden.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Digital und Print/zur Mediengestalterin Digital und Print
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Digital und Print/zur Mediengestalterin Digital und Print
 
 (Fundstelle: BGBl. I 2007, 635 - 653)
 

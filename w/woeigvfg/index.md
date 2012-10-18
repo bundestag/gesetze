@@ -193,33 +193,29 @@ Seite des Grundbuchblatts anzubringen.
 
 (Inkrafttreten)
 
-(zu § 9)
 
-## Anlage 1 (Wohnungs- und Teileigentumsgrundbuch)
+## Anlage 1 (zu § 9) (Wohnungs- und Teileigentumsgrundbuch)
 
 (Inhalt: nicht darstellbares Muster eines Wohnungs- und
 Teileigentumsgrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 70 - 76)
 
-(zu § 9)
 
-## Anlage 2 (Erste Abteilung eines gemeinschaftlichen Wohnungsgrundbuchs)
+## Anlage 2 (zu § 9) (Erste Abteilung eines gemeinschaftlichen Wohnungsgrundbuchs)
 
 (Inhalt: nicht darstellbares Muster der Ersten Abteilung eines
 gemeinschaftlichen Wohnungsgrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 77)
 
-(zu § 9)
 
-## Anlage 3 (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
+## Anlage 3 (zu § 9) (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
 
 (Inhalt: nicht darstellbares Muster einer Aufschrift und
 Bestandsverzeichnis eines Wohnungserbbaugrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 78 - 80)
 
-(zu § 9)
 
-## Anlage 4 (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
+## Anlage 4 (zu § 9) (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 81)

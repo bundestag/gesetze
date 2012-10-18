@@ -343,9 +343,8 @@ Leistungen erbracht sind.
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Film- und Videoeditor/zur Film- und Videoeditorin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Film- und Videoeditor/zur Film- und Videoeditorin
 
 (Fundstelle: BGBl. I 1996, S. 128 - 132)
 

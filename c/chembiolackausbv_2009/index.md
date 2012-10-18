@@ -1992,9 +1992,8 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 4 Absatz 1)
 
-### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten/zur Chemielaborantin
+### Anlage 1 (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten/zur Chemielaborantin
 
 (Fundstelle: BGBl. I 2009, 1611 - 1622)
 **Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1**
@@ -3941,9 +3940,8 @@ Nummer 1.1**
 [^f772199_05_BJNR160000009BJNE002900000]:     Nur in Verbindung mit der Qualifikationseinheit lfd. Nummer 18 dieser
     Anlage zu vermitteln.
 [^f772199_06_BJNR160000009BJNE002900000]: 
-(zu § 11 Absatz 1)
 
-### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten/zur Biologielaborantin
+### Anlage 2 (zu § 11 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten/zur Biologielaborantin
 
 (Fundstelle: BGBl. I 2009, 1623 - 1632)
 **Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1**
@@ -5522,9 +5520,8 @@ Nummer 1.1**
 [^f772199_09_BJNR160000009BJNE003000000]:     Nur in Verbindung mit der Qualifikationseinheit lfd. Nummer 16 dieser
     Anlage zu vermitteln.
 [^f772199_10_BJNR160000009BJNE003000000]: 
-(zu § 18 Absatz 1)
 
-### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten/zur Lacklaborantin
+### Anlage 3 (zu § 18 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten/zur Lacklaborantin
 
 (Fundstelle: BGBl. I 2009, 1633 - 1645)
 **Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1**

@@ -4744,9 +4744,8 @@ die Ausführung der Vorschriften über den Datenschutz auch dann
 dieser Vorschriften vorliegen oder wenn der Empfänger die
 personenbezogenen Informationen nicht in Dateien verarbeitet.
 
-Auskunft an ausländische
 
-### § 150c sowie über- und zwischenstaatliche Stellen
+### § 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
 
 (1) Ersuchen von Stellen eines anderen Staates sowie von über- und
 zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem
@@ -5062,11 +5061,8 @@ Fassung anzuwenden.
 #### (XXXX) Anlage 1 bis 3 (weggefallen)
 
 
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiete A, B und C,
-jeweils Abschnitt III
-(BGBl. II 1990, 889, 1020, 1026, 1028, 1030)
 
-#### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiete A, B und C, jeweils Abschnitt III (BGBl. II 1990, 889, 1020, 1026, 1028, 1030) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

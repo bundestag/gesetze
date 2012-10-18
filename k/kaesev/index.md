@@ -1365,9 +1365,8 @@ berechtigt zu sein.
 
 (Inkrafttreten)
 
-(zu § 7)
 
-### Anlage 1 Standardsorten
+### Anlage 1 (zu § 7) Standardsorten
 
 (Inhalt: nicht darstellbare Tabellen,
 Fundstelle des Originaltextes BGBl. I 1986, 423 - 427;
@@ -1378,9 +1377,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 -
 
-(zu § 8)
 
-### Anlage 1b Geographische Herkunftsbezeichnung
+### Anlage 1b (zu § 8) Geographische Herkunftsbezeichnung
 
 (Fundstelle: BGBl. I 1993, 2443 - 2444)
 
@@ -1586,9 +1584,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 12)
 
-### Anlage 2 Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
+### Anlage 2 (zu § 12) Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1705)
 
@@ -1682,9 +1679,8 @@ Schmelzkäsezubereitungen aus Frischkäse.
 
 -
 
-(zu § 11 Abs. 9)
 
-### Anlage 4 Bestimmungen über die Durchführung von Käseprüfungen
+### Anlage 4 (zu § 11 Abs. 9) Bestimmungen über die Durchführung von Käseprüfungen
 
 Fundstelle des Originaltextes: BGBl. I 1986, 431
 
@@ -1904,9 +1900,8 @@ Die Artikel 1 und 2 gelten nicht für die Standardsorte Emmentaler.
 Jeder zu prüfende Käselaib dieser Standardsorte muß am Tage der
 Güteprüfung mindestens 75 Tage alt sein.
 
-(zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1)
 
-### Anlage 5 Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21 \*)
+### Anlage 5 (zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1) Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21
 
 Fundstelle des Originaltextes: BGBl. I 1986, 432-433
 ....................., den ..............
@@ -1955,9 +1950,8 @@ gesundheitliche Nachprüfung notwendigen Menge .......................
 (Ort)                 (Datum)             (Unterschrift des
 Nachweisführenden)
 
-(zu § 21 Abs. 2 S 1 Nr. 4)
 
-### Anlage 6 Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
+### Anlage 6 (zu § 21 Abs. 2 S 1 Nr. 4) Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
 
 Fundstelle des Originaltextes: BGBl. I 1986, 433 - 434
 Herkunftsland:

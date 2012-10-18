@@ -390,9 +390,8 @@ Berufsgrundbildungsjahres vorgesehen ist.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-(zu § 6)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
+## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
 
 (Fundstelle: BGBl. I 2003, 1086 - 1092)
 

@@ -20,7 +20,7 @@ Geändert durch
 :   Art. 127 G v. 19.4.2006 I 866
 
 
-## Art 1 bis 7 - 
+## Art 1 bis 7 -
 
 
 

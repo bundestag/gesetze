@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Gebühren und Auslagen für Amtshandlungen der  Bundesnetzagentur
+Title: Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur
   nach dem Energiewirtschaftsgesetz
 jurabk: EnWGKostV
 layout: default
@@ -8,7 +8,7 @@ slug: enwgkostv
 
 ---
 
-# Verordnung über die Gebühren und Auslagen für Amtshandlungen der  Bundesnetzagentur nach dem Energiewirtschaftsgesetz (EnWGKostV)
+# Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz (EnWGKostV)
 
 Ausfertigungsdatum
 :   2006-03-14
@@ -66,9 +66,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 2) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2006, 541;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

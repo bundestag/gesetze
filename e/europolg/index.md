@@ -26,7 +26,7 @@ Stand: Art. 2 §§ 1 bis 8 treten gem. Art. 3 Abs. 1 Satz 2 an dem Tage in Kraft
 -
 
 
-## Art 2 - 
+## Art 2 -
 
 
 

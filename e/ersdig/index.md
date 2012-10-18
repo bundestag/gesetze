@@ -31,9 +31,8 @@ Zuletzt geändert durch
 Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben,
 die dem Allgemeinwohl dienen, vorrangig im sozialen Bereich.
 
-Aussetzung der Verpflichtung
 
-### § 1a zur Ableistung des Zivildienstes
+### § 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
 
 (1) Die Einberufungsanordnungen des Bundesministeriums für Familie,
 Senioren, Frauen und Jugend können vorsehen, dass Einberufungen
@@ -3053,9 +3052,8 @@ Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt
 worden sind, ist § 16 Abs. 1 Satz 1 in der bis dahin gültigen Fassung
 weiterhin anzuwenden.
 
-Übergangsvorschrift aus Anlass des Gesetzes
 
-### § 83 zur Einführung eines Bundesfreiwilligendienstes
+### § 83 Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes
 
 (1) Die Amtszeiten des derzeitigen Bundesbeauftragten und des
 derzeitigen Beirats für den Zivildienst enden am 31. Dezember 2011.

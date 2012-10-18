@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Durchführung einer Statistik über die Schlachttier-  und
+Title: Verordnung über die Durchführung einer Statistik über die Schlachttier- und
   Fleischuntersuchung
 jurabk: FlUStatV
 layout: default
@@ -8,7 +8,7 @@ slug: flustatv
 
 ---
 
-# Verordnung über die Durchführung einer Statistik über die Schlachttier-  und Fleischuntersuchung (FlUStatV)
+# Verordnung über die Durchführung einer Statistik über die Schlachttier- und Fleischuntersuchung (FlUStatV)
 
 Ausfertigungsdatum
 :   2006-09-28

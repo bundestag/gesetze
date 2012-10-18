@@ -95,9 +95,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-Liste der Therapieallergene
 
-## Anhang (Erläuterungen in Klammern)
+## Anhang Liste der Therapieallergene (Erläuterungen in Klammern)
 
 ( Fundstelle: BGBl. I 2008, 2178)
 Spezies aus der Familie Poaceae außer Poa mays (Süßgräser außer Mais)

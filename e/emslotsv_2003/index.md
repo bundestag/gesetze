@@ -655,9 +655,8 @@ handelt, wer vorsätzlich oder fahrlässig
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
-(zu § 5 Abs. 3)
 
-## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
+## Anlage 1 (zu § 5 Abs. 3) Ort und Anmeldung für die Lotsenanforderung
 
 Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
 
@@ -733,12 +732,10 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
 
 
 
-   (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
-Bescheinigung
 
-## Anlage 2 zum Nachweis der Befreiung von der Lotsenannahmepflicht \*)
+## Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3) Bescheinigung zum Nachweis der Befreiung von der Lotsenannahmepflicht
 
-Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1512
+   Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1512
 Bescheinigung
 zum Nachweis der Voraussetzungen zur Befreiung von der
 Lotsenannahmepflicht \*)

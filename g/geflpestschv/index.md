@@ -4244,10 +4244,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 8 Abs. 3, § 10 Abs. 3, § 11 Abs. 1, § 15 Abs. 5, § 20 Abs. 1, §
-21 Abs. 3, § 47 Abs. 1, § 48 Abs. 2)
 
-### Anlage 1 Liste der gehaltenen Vögel seltener Rassen
+### Anlage 1 (zu § 8 Abs. 3, § 10 Abs. 3, § 11 Abs. 1, § 15 Abs. 5, § 20 Abs. 1, § 21 Abs. 3, § 47 Abs. 1, § 48 Abs. 2) Liste der gehaltenen Vögel seltener Rassen
 
 (Fundstelle: BGBl. I 2007, 2377)
 

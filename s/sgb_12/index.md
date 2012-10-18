@@ -5498,9 +5498,8 @@ folgt fortgeschrieben:
 
 
 
-(zu § 28)
 
-### Anlage Regelbedarfsstufen nach § 28 in Euro
+### Anlage (zu § 28) Regelbedarfsstufen nach § 28 in Euro
 
 
 *    *   gültig ab

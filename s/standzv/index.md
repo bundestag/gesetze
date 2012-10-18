@@ -67,9 +67,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
-(zu § 1)
 
-## Anlage Standardzulassungen
+## Anlage (zu § 1) Standardzulassungen
 
 (Inhalt: Nicht erfasster Anlageband,
 Fundstelle: Anlageband I zu BGBl I Nr. 47 v. 8.12.1982,

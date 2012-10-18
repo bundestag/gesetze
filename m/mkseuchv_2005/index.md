@@ -3813,9 +3813,8 @@ Bürgerlichen Gesetzbuchs keine Anwendung.
 
 -
 
-(zu § 15 Abs. 2 Nr. 1)
 
-### Anlage 1 Bescheinigung für den Versand von Tieren empfänglicher Arten oder von diesen Tieren gewonnenen Erzeugnissen aus einem Sperrgebiet im Sinne der MKS-Verordnung
+### Anlage 1 (zu § 15 Abs. 2 Nr. 1) Bescheinigung für den Versand von Tieren empfänglicher Arten oder von diesen Tieren gewonnenen Erzeugnissen aus einem Sperrgebiet im Sinne der MKS-Verordnung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3597 - 3598
 Ausstellende Behörde:
@@ -3911,9 +3910,8 @@ Amtsbezeichnung des Unterzeichners)             -----
 
 
 
-(zu § 18 Abs. 2 Nr. 3)
 
-### Anlage 2 Bescheinigung für den Versand von Tieren empfänglicher Arten aus einem Impfgebiet im Sinne der MKS-Verordnung
+### Anlage 2 (zu § 18 Abs. 2 Nr. 3) Bescheinigung für den Versand von Tieren empfänglicher Arten aus einem Impfgebiet im Sinne der MKS-Verordnung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3599
 Ausstellende Behörde:
@@ -3985,9 +3983,8 @@ Amtsbezeichnung des Unterzeichners)             -----
 
 
 
-(zu § 24 Abs. 6 Nr. 3 Buchstabe a)
 
-### Anlage 3 Bescheinigung für den Versand von Tieren empfänglicher Arten aus gefährdeten Bezirken im Sinne der MKS-Verordnung
+### Anlage 3 (zu § 24 Abs. 6 Nr. 3 Buchstabe a) Bescheinigung für den Versand von Tieren empfänglicher Arten aus gefährdeten Bezirken im Sinne der MKS-Verordnung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3600
 Ausstellende Behörde:

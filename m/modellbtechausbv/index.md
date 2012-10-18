@@ -1015,9 +1015,8 @@ Zwischenprüfung abgelegt wurde.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-(zu § 4 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
+## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
 
 (Fundstelle: BGBl. I 2009, 1193 - 1200)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

@@ -320,9 +320,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister des Innern
 
-(zu § 4)
 
-## Anlage Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
+## Anlage (zu § 4) Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
 
 Fundstelle des Originaltextes: BGBl. I 1980, 666
 Der Phosphatgehalt in Wasch- und Reinigungsmitteln ist wie folgt zu

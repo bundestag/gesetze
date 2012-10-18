@@ -2174,11 +2174,8 @@ fahrlässig
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3
-Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5
-Buchstabe c, § 23 Absatz 4 Satz 2)
 
-### Anhang 1 Anwendung besonderer Zuteilungsregeln
+### Anhang 1 (zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3 Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5 Buchstabe c, § 23 Absatz 4 Satz 2) Anwendung besonderer Zuteilungsregeln
 
 (Fundstelle: BGBl. I 2011, 1938- 1939)
 
@@ -2445,9 +2442,8 @@ Zuordnung der Eingangsströme und Emissionen
 
 
 
-(zu § 7 Absatz 3)
 
-### Anhang 2 Anforderungen an die sachverständigen Stellen und die Prüfung
+### Anhang 2 (zu § 7 Absatz 3) Anforderungen an die sachverständigen Stellen und die Prüfung
 
 (Fundstelle: BGBl. I 2011, 1940 - 1941)
 

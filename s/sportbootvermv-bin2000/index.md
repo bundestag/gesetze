@@ -1242,9 +1242,8 @@ Die Fahrtauglichkeitsbescheinigung ist gültig bis
 ........................
 Untersuchungsort        Datum                    Unterschrift
 
-(zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b)
 
-## Anlage 4 Charterbescheinigung und Einweisung
+## Anlage 4 (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b) Charterbescheinigung und Einweisung
 
 Fundstelle des Originaltextes: BGBl. I 20030, 2527 -2529;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1821,9 +1820,8 @@ I
 
 
 
-(zu § 9 Abs. 2 Nr. 1)
 
-## Anlage 5 Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
+## Anlage 5 (zu § 9 Abs. 2 Nr. 1) Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
 
 (Fundstelle: BGBl I 2009, 889 - 892)
 
@@ -2280,9 +2278,8 @@ I
 
 
 
-(zu § 9 Abs. 2 Nr. 2)
 
-## Anlage 6 Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
+## Anlage 6 (zu § 9 Abs. 2 Nr. 2) Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2533;
 bzgl. der einzelnen Änderungen vgl. Fußnote

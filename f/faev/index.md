@@ -433,9 +433,8 @@ fahrlässig
 (3) Fährprüfungsbücher auf Grund einer nach Absatz 2 außer Kraft
 tretenden Vorschrift dürfen aufgebraucht werden.
 
-Fährprüfungsbuch
 
-## Anlage (zu § 4 Abs. 1)
+## Anlage Fährprüfungsbuch (zu § 4 Abs. 1)
 
 (Inhalt: Nicht darstellbare Formulare,
 Fundstelle: BGBl. I 1995, 756 - 766)

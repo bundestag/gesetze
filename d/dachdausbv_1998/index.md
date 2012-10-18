@@ -646,9 +646,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Dachdecker/zur Dachdeckerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Dachdecker/zur Dachdeckerin
 
 (Fundstelle: BGBl. I 1998, 922 - 931)
 

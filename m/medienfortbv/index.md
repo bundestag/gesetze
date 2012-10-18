@@ -2621,9 +2621,8 @@ der bisherigen Vorschriften beantragt werden.
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
-(zu § 8 Absatz 5)
 
-### Anlage 1 Muster
+### Anlage 1 (zu § 8 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2911,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2682,9 +2681,8 @@ bestanden.
 
 
 
-(zu § 8 Absatz 5)
 
-### Anlage 2 Muster
+### Anlage 2 (zu § 8 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2912 - 2913,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2890,9 +2888,8 @@ bestanden:
     Präsentation und des Fachgesprächs ein arithmetisches Mittel nach
     Punkten zu bilden.
 [^f772424_02_BJNR289400009BJNE002801308]: 
-(zu § 15 Absatz 5)
 
-### Anlage 3 Muster
+### Anlage 3 (zu § 15 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2914,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2943,9 +2940,8 @@ bestanden.
 
 
 
-(zu § 15 Absatz 5)
 
-### Anlage 4 Muster
+### Anlage 4 (zu § 15 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2915 - 2916,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3151,9 +3147,8 @@ bestanden:
     Präsentation und des Fachgesprächs ein arithmetisches Mittel nach
     Punkten zu bilden.
 [^f772424_04_BJNR289400009BJNE003001308]: 
-(zu § 22 Absatz 5)
 
-### Anlage 5 Muster
+### Anlage 5 (zu § 22 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2917,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3204,9 +3199,8 @@ bestanden.
 
 
 
-(zu § 22 Absatz 5)
 
-### Anlage 6 Muster
+### Anlage 6 (zu § 22 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2918 - 2919,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

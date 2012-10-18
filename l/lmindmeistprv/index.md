@@ -858,9 +858,8 @@ Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach
 arbeitspädagogischen Eignung durch die Prüfung am ..........
 in .......... vor .......... erbracht.
 
-Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1135)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

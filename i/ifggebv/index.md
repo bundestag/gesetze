@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Gebühren und Auslagen nach dem  Informationsfreiheitsgesetz
+Title: Verordnung über die Gebühren und Auslagen nach dem Informationsfreiheitsgesetz
 jurabk: IFGGebV
 layout: default
 origslug: ifggebv
@@ -7,7 +7,7 @@ slug: ifggebv
 
 ---
 
-# Verordnung über die Gebühren und Auslagen nach dem  Informationsfreiheitsgesetz (IFGGebV)
+# Verordnung über die Gebühren und Auslagen nach dem Informationsfreiheitsgesetz (IFGGebV)
 
 Ausfertigungsdatum
 :   2006-01-02
@@ -49,9 +49,8 @@ werden.
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2006 in Kraft.
 
-(zu § 1 Abs. 1)
 
-## Anlage Gebühren- und Auslagenverzeichnis
+## Anlage (zu § 1 Abs. 1) Gebühren- und Auslagenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2006, 7
 

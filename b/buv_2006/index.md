@@ -1,6 +1,6 @@
 ---
-Title: Verordnung zur Regelung der Unfallverhütung in Unternehmen und bei  Personen,
-  für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr. 2 bis 7 und  Abs. 3 des
+Title: Verordnung zur Regelung der Unfallverhütung in Unternehmen und bei Personen,
+  für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr. 2 bis 7 und Abs. 3 des
   Siebten Buches Sozialgesetzbuch Unfallversicherungsträger ist
 jurabk: BUV 2006
 layout: default
@@ -9,7 +9,7 @@ slug: buv_2006
 
 ---
 
-# Verordnung zur Regelung der Unfallverhütung in Unternehmen und bei  Personen, für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr. 2 bis 7 und  Abs. 3 des Siebten Buches Sozialgesetzbuch Unfallversicherungsträger ist (BUV 2006)
+# Verordnung zur Regelung der Unfallverhütung in Unternehmen und bei Personen, für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr. 2 bis 7 und Abs. 3 des Siebten Buches Sozialgesetzbuch Unfallversicherungsträger ist (BUV 2006)
 
 Ausfertigungsdatum
 :   2006-04-06
@@ -76,9 +76,8 @@ Unfallverhütungsvorschriften.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1 Nr. 1)
 
-## Anhang 1 Regelungen für den betriebsärztlichen und sicherheitstechnischen Dienst
+## Anhang 1 (zu § 1 Nr. 1) Regelungen für den betriebsärztlichen und sicherheitstechnischen Dienst
 
 (Fundstelle: BGBl. I 2006, 1115 - 1119)
 In Unternehmen und bei Personen, für die die Unfallkasse des Bundes
@@ -753,9 +752,8 @@ erreicht werden, dass
 
 
 
-(zu Anhang 1)
 
-## Anlage Betriebsartenverzeichnis für die Zuordnung der Unternehmen der Tabelle des Abschnitts I Abs. 3
+## Anlage (zu Anhang 1) Betriebsartenverzeichnis für die Zuordnung der Unternehmen der Tabelle des Abschnitts I Abs. 3
 
 (Fundstelle: BGBl. I 2006, 1120 - 1121)
 
@@ -1120,9 +1118,8 @@ erreicht werden, dass
 
 
 
-(zu § 1 Nr. 2)
 
-## Anhang 2 Regelungen über die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern
+## Anhang 2 (zu § 1 Nr. 2) Regelungen über die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1122
 
@@ -1183,9 +1180,8 @@ beim Bundesministerium des Innern eingerichtet.
 
 
 
-(zu § 1 Nr. 3)
 
-## Anhang 3 Regelungen über die Bestellung von Sicherheitsbeauftragten gemäß § 22 des Siebten Buches Sozialgesetzbuch
+## Anhang 3 (zu § 1 Nr. 3) Regelungen über die Bestellung von Sicherheitsbeauftragten gemäß § 22 des Siebten Buches Sozialgesetzbuch
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1123
 
@@ -1261,9 +1257,8 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1123
 
 
 
-(zu § 1 Nr. 4)
 
-## Anhang 4 Regelungen über die Erfassung und Auswertung des Unfallgeschehens der Beamtinnen und Beamten
+## Anhang 4 (zu § 1 Nr. 4) Regelungen über die Erfassung und Auswertung des Unfallgeschehens der Beamtinnen und Beamten
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1124
 
@@ -1312,16 +1307,14 @@ anonymisierter Form.
 
 
 
-(zu Anhang 4)
 
-## Anlage 1 Unfallanzeige Beamte
+## Anlage 1 (zu Anhang 4) Unfallanzeige Beamte
 
 Fundstelle: BGBl. I 2006, 1125
 ... nicht darstellbare Abbildung einer Unfallanzeige für Beamte
 
-(zu Anhang 4)
 
-## Anlage 2 Erläuterungen zur Unfallanzeige Beamte
+## Anlage 2 (zu Anhang 4) Erläuterungen zur Unfallanzeige Beamte
 
 (Fundstelle: BGBl. I 2006, 1126)
 

@@ -70,9 +70,8 @@ Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1) Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2648 - 2649;
 bzgl. der einzelnen Änderungen vgl. Fußnote

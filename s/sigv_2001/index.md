@@ -824,9 +824,8 @@ Anbieterakkreditierung nach § 15 des Signaturgesetzes zu bestätigen.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft; ...
 
-(zu § 11 Abs. 3, § 15 Abs. 5 und § 16 Abs. 2)
 
-## Anlage 1 Vorgaben für die Prüfung von Produkten für qualifizierte elektronische Signaturen
+## Anlage 1 (zu § 11 Abs. 3, § 15 Abs. 5 und § 16 Abs. 2) Vorgaben für die Prüfung von Produkten für qualifizierte elektronische Signaturen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3081 - 3082
 
@@ -997,9 +996,8 @@ II. Zu § 15 Abs. 5 dieser Verordnung und nach § 17 Abs. 1 und 3 Nr. 1 des
 
 
 
-(zu § 12)
 
-## Anlage 2 Kosten
+## Anlage 2 (zu § 12) Kosten
 
 (Fundstelle: BGBl. I 2001, 3083 - 3084)
 

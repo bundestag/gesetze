@@ -781,9 +781,8 @@ Diese Verordnung tritt am 7. Oktober 1996 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-zur Entsorgungsfachbetriebeverordnung
 
-### Anhang Fachkunde der für die Leitung und Beaufsichtigung eines Entsorgungsfachbetriebes verantwortlichen Personen
+### Anhang zur Entsorgungsfachbetriebeverordnung Fachkunde der für die Leitung und Beaufsichtigung eines Entsorgungsfachbetriebes verantwortlichen Personen
 
 Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
 

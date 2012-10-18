@@ -2222,23 +2222,20 @@ Der Bundesminister für Verkehr
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1991, Nr. 30 Anlageband S. 2 - 5)
 
-(zu § 9)
 
-### Anlage 2 Ermittlung der Grenzlinie
+### Anlage 2 (zu § 9) Ermittlung der Grenzlinie
 
 (Inhalt: nicht erfaßte Tabellen und Formeln,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 6 - 9)
 
-(zu § 9)
 
-### Anlage 3 Ermittlung der Grenzlinie bei Oberleitung
+### Anlage 3 (zu § 9) Ermittlung der Grenzlinie bei Oberleitung
 
 (Inhalt: nicht erfaßte Tabellen,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 10 - 12)
 
-(zu § 10)
 
-### Anlage 4 Gleisabstand
+### Anlage 4 (zu § 10) Gleisabstand
 
 (Inhalt: nicht darstellbare Tabellen,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 13 - 14)
@@ -2249,52 +2246,44 @@ Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 13 - 14)
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 15 - 19)
 
-(zu § 21)
 
-### Anlage 6 Räder und Radsätze
+### Anlage 6 (zu § 21) Räder und Radsätze
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 20 - 21)
 
-(zu § 22)
 
-### Anlage 7 Bezugslinie G1
+### Anlage 7 (zu § 22) Bezugslinie G1
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 22- 23)
 
-(zu § 22)
 
-### Anlage 8 Bezugslinie G2
+### Anlage 8 (zu § 22) Bezugslinie G2
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 24 - 25)
 
-(zu § 22)
 
-### Anlage 9 Einschränkung der Fahrzeugmaße
+### Anlage 9 (zu § 22) Einschränkung der Fahrzeugmaße
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 26)
 
-(zu § 24)
 
-### Anlage 10 Zug- und Stoßeinrichtungen
+### Anlage 10 (zu § 24) Zug- und Stoßeinrichtungen
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 27)
 
-(zu § 25)
 
-### Anlage 11 Freizuhaltende Räume an den Fahrzeugenden
+### Anlage 11 (zu § 25) Freizuhaltende Räume an den Fahrzeugenden
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 28)
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1099)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

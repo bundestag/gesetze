@@ -247,9 +247,8 @@ oder einer Entziehungskur zu unterziehen. Hat der Jugendliche das
 sechzehnte Lebensjahr vollendet, so soll dies nur mit seinem
 Einverständnis geschehen.
 
-Laufzeit und nachträgliche Änderung von Weisungen;
 
-##### § 11 Folgen der Zuwiderhandlung
+##### § 11 Laufzeit und nachträgliche Änderung von Weisungen; Folgen der Zuwiderhandlung
 
 (1) Der Richter bestimmt die Laufzeit der Weisungen. Die Laufzeit darf
 zwei Jahre nicht überschreiten; sie soll bei einer Weisung nach § 10
@@ -595,9 +594,8 @@ der Aufsicht und Leitung eines Bewährungshelfers unterstellt. Die §§
 23, 24 Abs. 1 Satz 1 und 2, Abs. 2 und 3 und die §§ 25, 28 Abs. 2 Satz
 1 sind entsprechend anzuwenden.
 
-Verhängung der Jugendstrafe;
 
-##### § 30 Tilgung des Schuldspruchs
+##### § 30 Verhängung der Jugendstrafe; Tilgung des Schuldspruchs
 
 (1) Stellt sich vor allem durch schlechte Führung des Jugendlichen
 während der Bewährungszeit heraus, daß die in dem Schuldspruch
@@ -2884,9 +2882,8 @@ geltenden Fassung entsprechend anzuwenden.
 
 Dieses Gesetz tritt am 1. Oktober 1953 in Kraft.
 
-Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 957)
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 957)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

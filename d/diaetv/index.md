@@ -1920,9 +1920,8 @@ Mindesthaltbarkeitsdatum abverkauft werden.
 
 -
 
-(zu § 7 Abs. 1, §§ 7a und 7b)
 
-### Anlage 2 Zusatzstoffe und andere Stoffe, die diätetischen Lebensmitteln zu ernährungsphysiologischen oder diätetischen Zwecken zugesetzt werden dürfen
+### Anlage 2 (zu § 7 Abs. 1, §§ 7a und 7b) Zusatzstoffe und andere Stoffe, die diätetischen Lebensmitteln zu ernährungsphysiologischen oder diätetischen Zwecken zugesetzt werden dürfen
 
 (Fundstelle: BGBl. I 2005, 1177 - 1183;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3392,9 +3391,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 9)
 
-### Anlage 3 Für diätetische Lebensmittel als Kochsalzersatz zugelassene Zusatzstoffe
+### Anlage 3 (zu § 9) Für diätetische Lebensmittel als Kochsalzersatz zugelassene Zusatzstoffe
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1184
 
@@ -3416,9 +3414,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1184
 
 
 
-(zu § 11a)
 
-### Anlage 4 Amtliche Bescheinigung für das Verbringen von jodiertem Kochsalzersatz, von anderen diätetischen Lebensmitteln mit einem Zusatz von Jodverbindungen oder von diätetischen Lebensmitteln, die zur Verwendung als bilanzierte Diät bestimmt sind
+### Anlage 4 (zu § 11a) Amtliche Bescheinigung für das Verbringen von jodiertem Kochsalzersatz, von anderen diätetischen Lebensmitteln mit einem Zusatz von Jodverbindungen oder von diätetischen Lebensmitteln, die zur Verwendung als bilanzierte Diät bestimmt sind
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1185)
 Herkunftsland:
@@ -4849,10 +4846,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
     Säuglingsanfangsnahrung im Sinne von § 14c Absatz 3 Nummer 2 der
     Diätverordnung verwendet werden.
 [^bjnr004150963bjne005905360_01_BJNR004150963BJNE005905360]: 
-(zu § 14c Abs. 2 und 3 und § 22a Abs. 2 Nr. 1 Buchstabe f)
-Grundzusammensetzung von
 
-### Anlage 10 Säuglingsanfangsnahrung nach Zubereitung gemäß Hinweisen des Herstellers
+### Anlage 10 (zu § 14c Abs. 2 und 3 und § 22a Abs. 2 Nr. 1 Buchstabe f) Grundzusammensetzung von Säuglingsanfangsnahrung nach Zubereitung gemäß Hinweisen des Herstellers
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3267 - 3271 )
 Die angegebenen Werte beziehen sich auf das entweder verzehrfertig in
@@ -5692,10 +5687,8 @@ zubereitete Erzeugnis.
     Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ (5 mg/100
     kcal) nicht überschreiten.
 [^f770229_09_BJNR004150963BJNE006002310]: 
-(zu § 14c Abs. 4 und § 22a Abs. 2 Nr. 1 Buchstabe f)
-Grundzusammensetzung
 
-### Anlage 11 von Folgenahrung nach Zubereitung gemäß Hinweisen des Herstellers
+### Anlage 11 (zu § 14c Abs. 4 und § 22a Abs. 2 Nr. 1 Buchstabe f) Grundzusammensetzung von Folgenahrung nach Zubereitung gemäß Hinweisen des Herstellers
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3271 - 3274 )
 Die angegebenen Werte beziehen sich auf das entweder verzehrfertig in
@@ -6444,11 +6437,8 @@ zubereitete Erzeugnis.
     Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ (5 mg/100
     kcal) nicht überschreiten.
 [^f770229_15_BJNR004150963BJNE006102310]: 
-(zu § 14c Abs. 2 und 4; Anlagen 10 und 11 jeweils Nr. 2.1, 2.2 und
-2\.3)
-Unverzichtbare und bedingt unverzichtbare
 
-### Anlage 12 Aminosäuren in Muttermilch, ausgedrückt in mg je 100 kJ und 100 kcal
+### Anlage 12 (zu § 14c Abs. 2 und 4; Anlagen 10 und 11 jeweils Nr. 2.1, 2.2 und 2.3) Unverzichtbare und bedingt unverzichtbare Aminosäuren in Muttermilch, ausgedrückt in mg je 100 kJ und 100 kcal
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3274 )
 
@@ -6550,10 +6540,8 @@ Unverzichtbare und bedingt unverzichtbare
 
 -
 
-(zu § 22a Abs. 3 Nr. 2 Buchstabe b und c)
-Nährwert- und gesundheitsbezogene Angaben für
 
-### Anlage 15 Säuglingsanfangsnahrung und Voraussetzungen, die eine entsprechende Angabe rechtfertigen
+### Anlage 15 (zu § 22a Abs. 3 Nr. 2 Buchstabe b und c) Nährwert- und gesundheitsbezogene Angaben für Säuglingsanfangsnahrung und Voraussetzungen, die eine entsprechende Angabe rechtfertigen
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3275 )
 
@@ -6671,10 +6659,8 @@ Nährwert- und gesundheitsbezogene Angaben für
 
 
 
-(zu § 22a Absatz 4)
-Referenzwerte für die Nährwertkennzeichnung
 
-### Anlage 16 von Lebensmitteln, die für Säuglinge und Kleinkinder bestimmt sind
+### Anlage 16 (zu § 22a Absatz 4) Referenzwerte für die Nährwertkennzeichnung von Lebensmitteln, die für Säuglinge und Kleinkinder bestimmt sind
 
 ( Fundstelle: BGBl. I 2007, 3276;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -6862,9 +6848,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
-(zu § 14a Abs. 2, § 21a Abs. 4 Nr. 2, § 21a Abs. 6 Nr. 1)
 
-### Anlage 17 Wesentliche Bestandteile von Lebensmitteln für kalorienarme Ernährung
+### Anlage 17 (zu § 14a Abs. 2, § 21a Abs. 4 Nr. 2, § 21a Abs. 6 Nr. 1) Wesentliche Bestandteile von Lebensmitteln für kalorienarme Ernährung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1203 - 1204
 Die Angaben beziehen sich auf gebrauchsfertige Erzeugnisse, die als
@@ -7129,9 +7114,8 @@ gebrauchsfertig gemacht werden.
 
 
 
-(zu § 14d Abs. 3)
 
-### Anlage 18 Höchstmengen für Vitamine, Mineralstoffe und Spurenelemente, wenn sie Beikost zugesetzt werden
+### Anlage 18 (zu § 14d Abs. 3) Höchstmengen für Vitamine, Mineralstoffe und Spurenelemente, wenn sie Beikost zugesetzt werden
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1205
 
@@ -7256,9 +7240,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1205
 [^BJNR004150963BJNE007101310_004]:     Dieser Grenzwert gilt für die in § 1 Abs. 3 Nr. 2 Buchstabe d
     genannten Erzeugnisse.
 [^BJNR004150963BJNE007101310_005]: 
-(zu § 14d Abs. 4, § 22b Abs. 2 Nr. 2)
 
-### Anlage 19 Grundzusammensetzung von Getreidebeikost
+### Anlage 19 (zu § 14d Abs. 4, § 22b Abs. 2 Nr. 2) Grundzusammensetzung von Getreidebeikost
 
 (Fundstelle: BGBl. I 2005, 1206 - 1207;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7427,9 +7410,8 @@ als in § 1 Abs. 3 Nr. 2 Buchstabe b genannter Getreidebeikost
 zugesetzt
 wird.
 
-(zu § 14d Abs. 5, § 22b Abs. 2 Nr. 2)
 
-### Anlage 20 Grundzusammensetzung von anderer Beikost als Getreidebeikost
+### Anlage 20 (zu § 14d Abs. 5, § 22b Abs. 2 Nr. 2) Grundzusammensetzung von anderer Beikost als Getreidebeikost
 
 ( Fundstelle des Originaltextes: BGBl. I 2005, 1208 - 1209;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -7613,9 +7595,8 @@ zubereitete Erzeugnis.
 
     RE = all-trans Retinoläquivalent.
 [^BJNR004150963BJNE007302310_01]: 
-(zu § 22b Abs. 4)
 
-### Anlage 21 Referenzwerte für die Kennzeichnung des Nährwertes von Beikost für Säuglinge und Kleinkinder
+### Anlage 21 (zu § 22b Abs. 4) Referenzwerte für die Kennzeichnung des Nährwertes von Beikost für Säuglinge und Kleinkinder
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1210
 
@@ -7701,9 +7682,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1210
 
 
 
-(zu § 14 Abs. 1 Nr. 1 Buchstabe b)
 
-### Anlage 22 Spezifische Rückstandshöchstgehalte für Schädlingsbekämpfungsmittel oder deren Metaboliten in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder
+### Anlage 22 (zu § 14 Abs. 1 Nr. 1 Buchstabe b) Spezifische Rückstandshöchstgehalte für Schädlingsbekämpfungsmittel oder deren Metaboliten in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
@@ -7742,9 +7722,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
 
 
-(zu § 14 Abs. 1 Nr. 1 Buchstabe c)
 
-### Anlage 23 Schädlingsbekämpfungsmittel, die bei landwirtschaftlichen Erzeugnissen, die zur Herstellung von Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder bestimmt sind, als nicht angewendet gelten, wenn die speziellen Rückstandshöchstgehalte nicht überschritten werden
+### Anlage 23 (zu § 14 Abs. 1 Nr. 1 Buchstabe c) Schädlingsbekämpfungsmittel, die bei landwirtschaftlichen Erzeugnissen, die zur Herstellung von Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder bestimmt sind, als nicht angewendet gelten, wenn die speziellen Rückstandshöchstgehalte nicht überschritten werden
 
 (Fundstelle: BGBl. I 2005, 1212)
 
@@ -7825,9 +7804,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
 
 
-(zu § 14c Abs. 3)
 
-### Anlage 24 Spezifikation für Proteingehalt und -quelle sowie Proteinverarbeitung und -qualität bei der Herstellung von Säuglingsanfangsnahrung mit einem Proteingehalt von weniger als 0,56 g/100 kJ (2,25 g/100 kcal) auf Basis von Molkenproteinhydrolysaten aus Kuhmilchprotein
+### Anlage 24 (zu § 14c Abs. 3) Spezifikation für Proteingehalt und -quelle sowie Proteinverarbeitung und -qualität bei der Herstellung von Säuglingsanfangsnahrung mit einem Proteingehalt von weniger als 0,56 g/100 kJ (2,25 g/100 kcal) auf Basis von Molkenproteinhydrolysaten aus Kuhmilchprotein
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 3276 - 3277;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -90,9 +90,8 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 Der Bundesminister für Verkehr
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1110)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1110)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

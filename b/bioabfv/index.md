@@ -4790,9 +4790,8 @@ Der Bundesrat hat zugestimmt.
     Selbstverlag, Köln; archivmäßig gesichert niedergelegt bei der
     Deutschen Nationalbibliothek in Leipzig.
 [^f776421_17_BJNR295500998BJNE001801360]: 
-Vorgaben zur Analytik
 
-## Anhang 3 (zu § 4 Absatz 9) (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
+## Anhang 3 (zu § 4 Absatz 9) Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
 
 (Fundstelle: BGBl. I 1998, 2979 - 2981;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

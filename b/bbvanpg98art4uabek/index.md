@@ -44,9 +44,8 @@ worden ist, werden bekanntgemacht
 
 Der Bundesminister des Innern
 
-(Anlage IV des BBesG)
 
-## Anlage 1 Gültig ab 1. Januar 1998
+## Anlage 1 (Anlage IV des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle: BGBl. I 1998, 2400 - 2402)
 
@@ -951,11 +950,10 @@ Der Bundesminister des Innern
 
 
 
-   (Anlage V des BBesG)
 
-## Anlage 2 Gültig ab 1. Januar 1998
+## Anlage 2 (Anlage V des BBesG) Gültig ab 1. Januar 1998
 
-Fundstelle des Originaltextes: BGBl. I 1998, 2403
+   Fundstelle des Originaltextes: BGBl. I 1998, 2403
 
 ## Familienzuschlag (Monatsbeträge in DM)
 
@@ -1007,9 +1005,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage VIa des BBesG)
 
-## Anlage 3a Gültig ab 1. Januar 1998
+## Anlage 3a (Anlage VIa des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
@@ -1371,9 +1368,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
 
 
-(Anlage VIb des BBesG)
 
-## Anlage 3b Gültig ab 1. Januar 1998
+## Anlage 3b (Anlage VIb des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
@@ -1735,9 +1731,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
 
 
-(Anlage VIc des BBesG)
 
-## Anlage 3c Gültig ab 1. Januar 1998
+## Anlage 3c (Anlage VIc des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
@@ -2099,9 +2094,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
 
 
-(Anlage VId des BBesG)
 
-## Anlage 3d Gültig ab 1. Januar 1998
+## Anlage 3d (Anlage VId des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
@@ -2464,9 +2458,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
 
 
-(Anlage VIe des BBesG)
 
-## Anlage 3e Gültig ab 1. Januar 1998
+## Anlage 3e (Anlage VIe des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
@@ -2829,9 +2822,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
 
 
-(Anlage VIf des BBesG)
 
-## Anlage 3f Gültig ab 1. Januar 1998
+## Anlage 3f (Anlage VIf des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
@@ -3191,11 +3183,10 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
 
 
-   (Anlage VIg des BBesG)
 
-## Anlage 3g Gültig ab 1. Januar 1998
+## Anlage 3g (Anlage VIg des BBesG) Gültig ab 1. Januar 1998
 
-Fundstelle des Originaltextes: BGBl. I 1998, 2407
+   Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
 ## Auslandszuschlag (§ 55 Abs. 5)  (Monatsbeträge in DM)
 
@@ -3553,11 +3544,10 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
 
 
-   (Anlage VIh des BBesG)
 
-## Anlage 3h Gültig ab 1. Januar 1998
+## Anlage 3h (Anlage VIh des BBesG) Gültig ab 1. Januar 1998
 
-Fundstelle des Originaltextes: BGBl. I 1998, 2407
+   Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
 ## Auslandszuschlag (§ 55 Abs. 5)  (Monatsbeträge in DM)
 
@@ -3915,11 +3905,10 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
 
 
-   (Anlage VIi des BBesG)
 
-## Anlage 3i Gültig ab 1. Januar 1998
+## Anlage 3i (Anlage VIi des BBesG) Gültig ab 1. Januar 1998
 
-Fundstelle des Originaltextes: BGBl. I 1998, 2408
+   Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
 ## Auslandskinderzuschlag (§ 56)  (Monatsbeträge in DM je Kind)
 
@@ -3993,9 +3982,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
 
 
-(Anlage VIII des BBesG)
 
-## Anlage 4 Gültig ab 1. Januar 1998
+## Anlage 4 (Anlage VIII des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
@@ -4088,9 +4076,8 @@ in DM)
 
 
 
-(Anlage IX des BBesG)
 
-## Anlage 5 Gültig ab 1. Januar 1998
+## Anlage 5 (Anlage IX des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2409 - 2411)
 
@@ -5428,9 +5415,8 @@ in DM)
 
 
 
-(Anlage IV des BBesG)
 
-## Anlage 6 Gültig ab 1. Januar 1998
+## Anlage 6 (Anlage IV des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2412 - 2414)
 
@@ -6429,9 +6415,8 @@ in DM)
 
 
 
-(Anlage V des BBesG)
 
-## Anlage 7 Gültig ab 1. Januar 1998
+## Anlage 7 (Anlage V des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
 
@@ -6489,9 +6474,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage VIII des BBesG)
 
-## Anlage 8 Gültig ab 1. Januar 1998
+## Anlage 8 (Anlage VIII des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
 
@@ -6586,9 +6570,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage IX des BBesG)
 
-## Anlage 9 Gültig ab 1. Januar 1998
+## Anlage 9 (Anlage IX des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2416 - 2418)
 
@@ -7870,9 +7853,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage IV des BBesG)
 
-## Anlage 10 Gültig ab 1. September 1998
+## Anlage 10 (Anlage IV des BBesG) Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
 
@@ -8869,9 +8851,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
 
 
 
-(Anlage V des BBesG)
 
-## Anlage 11 Gültig ab 1. September 1998
+## Anlage 11 (Anlage V des BBesG) Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
@@ -8931,9 +8912,8 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-(Anlage VIII des BBesG)
 
-## Anlage 12 Gültig ab 1. September 1998
+## Anlage 12 (Anlage VIII des BBesG) Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
@@ -9032,9 +9012,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
 
 
-(Anlage IX des BBesG)
 
-## Anlage 13 Gültig ab 1. September 1998
+## Anlage 13 (Anlage IX des BBesG) Gültig ab 1. September 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2423 - 2425)
 

@@ -99,9 +99,8 @@ Ablauf des 31. Dezember 2014 außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 2 Satz 2)
 
-## Anlage Verdichtung der Bundeswaldinventur
+## Anlage (zu § 2 Satz 2) Verdichtung der Bundeswaldinventur
 
 Das Stichprobengrundnetz im 4 x 4 km-Quadratverband ist wie folgt zu
 verdichten:

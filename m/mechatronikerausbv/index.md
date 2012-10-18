@@ -482,9 +482,8 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Mechatroniker/zur
 Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
-(zu § 3 Absatz 1 Satz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
+## Anlage (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
 
 (Fundstelle: BGBl. I 2011, 1519 - 1525)
 

@@ -2396,10 +2396,8 @@ Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen
 werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 1105)
 
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1105) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

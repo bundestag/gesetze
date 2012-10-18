@@ -437,9 +437,8 @@ weniger als 5 Euro betragen.
 
 Diese Verordnung tritt am 1. Oktober 2009 in Kraft.
 
-(zu § 6 Absatz 1)
 
-## Anlage Gebührentarif für Untersuchungen
+## Anlage (zu § 6 Absatz 1) Gebührentarif für Untersuchungen
 
 (Fundstelle: BGBl. I 2009, 3005 - 3013)
 

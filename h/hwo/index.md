@@ -4268,7 +4268,7 @@ Verfahrens eine handwerkliche Tätigkeit ist.
 
 
 
-#### § 119 \*)
+#### § 119
 
 (1) Die bei Inkrafttreten dieses Gesetzes vorhandene Berechtigung
 eines Gewerbetreibenden, ein Handwerk als stehendes Gewerbe
@@ -4948,9 +4948,8 @@ Nr.
 
 Text siehe: HwWahlO
 
-zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)
 
-#### Anlage D Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
+#### Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung) Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3110 - 3111;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -5173,9 +5172,8 @@ IV. In das Verzeichnis der Unternehmer nach § 90 Abs. 3 und 4 der
 
 
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 
-#### Anhang EV (BGBl. II 1990, 889, 998)
+#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -618,9 +618,8 @@ zum 24. November 2005 nach den bis zum 12. November 2004 geltenden
 Vorschriften gekennzeichnet und auch nach dem 24. November 2005 noch
 bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
-(zu § 7 Abs. 1 und 3, § 8 Abs. 2)
 
-### Anlage 1 Bestimmungen für die Durchführung von Butterprüfungen
+### Anlage 1 (zu § 7 Abs. 1 und 3, § 8 Abs. 2) Bestimmungen für die Durchführung von Butterprüfungen
 
 Fundstelle des Originaltextes: BGBl. I 1997, 148 - 150;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -907,9 +906,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 -------
 \*) Zu beziehen bei Beuth Verlag GmbH, 10772 Berlin.
 
-(zu § 12 Abs. 3)
 
-### Anlage 2 Muster der Bescheinigung über Markenbutter
+### Anlage 2 (zu § 12 Abs. 3) Muster der Bescheinigung über Markenbutter
 
 Fundstelle des Originaltextes: BGBl. I 1997, 150;
 ( bzgl. der einzelnen Änderungen vgl. Fußnote

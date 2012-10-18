@@ -1719,9 +1719,8 @@ Diese Verordnung tritt am 1. April 1982 in Kraft.
 
 Der Bundesminister der Finanzen
 
-Tabelle A
 
-### Anlage 1 (Beratungstabelle)
+### Anlage 1 Tabelle A (Beratungstabelle)
 
 (Fundstelle: BGBl. I 2001, 766)
 
@@ -2005,9 +2004,8 @@ Tabelle A
 
 
 
-Tabelle B
 
-### Anlage 2 (Abschlusstabelle)
+### Anlage 2 Tabelle B (Abschlusstabelle)
 
 (Fundstelle: BGBl. I 2001, 767)
 
@@ -2351,9 +2349,8 @@ Tabelle B
 
 
 
-Tabelle C
 
-### Anlage 3 (Buchführungstabelle)
+### Anlage 3 Tabelle C (Buchführungstabelle)
 
 (Fundstelle: BGBl. I 2001, 768)
 
@@ -3304,9 +3301,8 @@ Teil b
 
 
 
-Tabelle E
 
-### Anlage 5 (Rechtsbehelfstabelle)
+### Anlage 5 Tabelle E (Rechtsbehelfstabelle)
 
 (Fundstelle: BGBl. I 2001, 771)
 

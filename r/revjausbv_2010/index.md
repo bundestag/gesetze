@@ -548,9 +548,8 @@ die Revierjäger-Ausbildungsverordnung vom 26. April 1982 (BGBl. I S.
 554), die durch Artikel 6 der Verordnung vom 19. Oktober 2007 (BGBl. I
 S. 2461) geändert worden ist, außer Kraft.
 
-(zu § 3 Absatz 1)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Revierjäger/zur Revierjägerin
+## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Revierjäger/zur Revierjägerin
 
 (Fundstelle: BGBl. I 2010, 634 - 638)
 

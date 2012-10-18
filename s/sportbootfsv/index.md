@@ -665,9 +665,8 @@ BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
 Auflagen nach § 2 Abs. 3 Sportbootführerscheinverordnung-
 See/Conditions:
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1108)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

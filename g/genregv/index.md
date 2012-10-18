@@ -555,9 +555,8 @@ folgenden Nummern 1 bis 8 eingetragen.
 
 -
 
-(zu § 25)
 
-### Anlage 1 Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
+### Anlage 1 (zu § 25) Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
 
 (Fundstelle: BGBl. I 2006, 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -715,9 +714,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 25)
 
-### Anlage 2 Inhalt des Genossenschaftsregisters als fortlaufender Text
+### Anlage 2 (zu § 25) Inhalt des Genossenschaftsregisters als fortlaufender Text
 
 (Fundstelle: BGBl. I 2006, 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

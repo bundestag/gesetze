@@ -339,11 +339,8 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Investmentfondskaufmann/zur Investmentfondskauffrau
 
-## Anlage 1 - Sachliche Gliederung -
+## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 721 - 725)
 
@@ -1159,11 +1156,8 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 
 
-(zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Investmentfondskaufmann/zur Investmentfondskauffrau
 
-## Anlage 2 - Zeitliche Gliederung -
+## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 726 - 727)
 

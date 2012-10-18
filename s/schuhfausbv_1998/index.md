@@ -328,9 +328,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schuhfertiger/zur Schuhfertigerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Schuhfertiger/zur Schuhfertigerin
 
 (Fundstelle: BGBl. I 1998, S. 912 - 914)
 

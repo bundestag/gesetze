@@ -578,9 +578,8 @@ Fall keine Anwendung.
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
 
-(zu § 7 Abs. 6)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Abs. 6) Muster
 
 (Fundstelle: BGBl. I 2008, 1756;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -642,9 +641,8 @@ August 2008 (BGBl. I S. 1752), die durch Artikel 34 der Verordnung vom
 
 
 
-(zu § 7 Abs. 6)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Abs. 6) Muster
 
 (Fundstelle: BGBl. I 2008, 1757;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

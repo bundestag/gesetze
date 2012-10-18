@@ -95,9 +95,8 @@ sich aus dem Gebührenverzeichnis der Anlage zu dieser Verordnung.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1 Absatz 4)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1 Absatz 4) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 266)
 

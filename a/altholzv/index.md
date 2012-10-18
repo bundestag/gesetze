@@ -565,9 +565,8 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(zu § 3 Abs. 1)
 
-## Anhang I Verfahren für die stoffliche Verwertung von Altholz
+## Anhang I (zu § 3 Abs. 1) Verfahren für die stoffliche Verwertung von Altholz
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
@@ -648,9 +647,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
 
 
-(zu § 3 Abs. 1)
 
-## Anhang II Grenzwerte für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
+## Anhang II (zu § 3 Abs. 1) Grenzwerte für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
@@ -716,9 +714,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
 
 
-(zu § 5 Abs. 1)
 
-## Anhang III Zuordnung gängiger Altholzsortimente im Regelfall
+## Anhang III (zu § 5 Abs. 1) Zuordnung gängiger Altholzsortimente im Regelfall
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
@@ -1014,9 +1011,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 
 
-(zu § 6)
 
-## Anhang IV Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
+## Anhang IV (zu § 6) Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
 (Fundstelle: BGBl. I 2002, 3309 - 3313)
 
@@ -1745,9 +1741,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 
 
-(zu § 7)
 
-## Anhang V Untersuchung von Altholz zur energetischen Verwertung
+## Anhang V (zu § 7) Untersuchung von Altholz zur energetischen Verwertung
 
 Die Probenahme nach § 7 ist von Personen durchzuführen, die über die
 für die Durchführung der Probenahme erforderliche Fachkunde verfügen.
@@ -1759,9 +1754,8 @@ entnommenen Altholzprobe sind Altholzanteile nicht zugelassener
 Altholzkategorien entsprechend den Vorgaben nach § 5 auszusortieren
 und deren Masse festzustellen.
 
-(zu § 11)
 
-## Anhang VI Anlieferungsschein für Altholz
+## Anhang VI (zu § 11) Anlieferungsschein für Altholz
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3314 - 3315
 ----------------------------------------------------------------------

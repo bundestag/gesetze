@@ -326,9 +326,8 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Textilreiniger/zur Textilreinigerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Textilreiniger/zur Textilreinigerin
 
 (Fundstelle: BGBl. I 2002, 1926 - 1930)
 

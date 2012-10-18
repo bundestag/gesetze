@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Fachkaufmann
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann
   für Marketing/Geprüfte Fachkauffrau für Marketing
 jurabk: FachkMarkPrV
 layout: default
@@ -8,7 +8,7 @@ slug: fachkmarkprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Fachkaufmann für Marketing/Geprüfte Fachkauffrau für Marketing (FachkMarkPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann für Marketing/Geprüfte Fachkauffrau für Marketing (FachkMarkPrV)
 
 Ausfertigungsdatum
 :   2006-03-28
@@ -347,9 +347,8 @@ werden.
 
 Diese Verordnung tritt am 1. Mai 2006 in Kraft.
 
-(zu § 6 Abs. 2)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 6 Abs. 2) Muster
 
 (Fundstelle: BGBl. I 2006, 591)
 .......................................................
@@ -374,9 +373,8 @@ Datum .................................
 Unterschrift(en) ......................
 (Siegel der zuständigen Stelle)
 
-(zu § 6 Abs. 2)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 6 Abs. 2) Muster
 
 (Fundstelle: BGBl. I 2006, 592)
 .......................................................

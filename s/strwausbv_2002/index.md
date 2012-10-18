@@ -396,9 +396,8 @@ Fassung weiter anzuwenden.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Straßenwärter/zur Straßenwärterin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Straßenwärter/zur Straßenwärterin
 
 (Fundstelle: BGBl. I 2002, 2607 - 2611)
 

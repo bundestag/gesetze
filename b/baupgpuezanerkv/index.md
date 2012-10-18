@@ -339,9 +339,8 @@ Bericht ist vom Leiter der Zertifizierungsstelle oder seinem
 Stellvertreter zu unterzeichnen. Der Bericht ist unabhängig von der
 Notwendigkeit eines Konformitätszertifikats zu erstellen.
 
-Antrag auf Anerkennung,
 
-## Abschnitt 3 - Widerruf und Erlöschen
+## Abschnitt 3 - Antrag auf Anerkennung, Widerruf und Erlöschen
 
 
 

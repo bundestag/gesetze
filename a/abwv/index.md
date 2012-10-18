@@ -256,9 +256,8 @@ Wert 0,7 und bei Leuchtbakterien der Wert 15 einzusetzen.
 aufgrund eines behördlich anerkannten Überwachungsverfahrens
 ermittelt.
 
-(zu § 4)
 
-## Anlage Analysen- und Messverfahren
+## Anlage (zu § 4) Analysen- und Messverfahren
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1111 - 1117)
 

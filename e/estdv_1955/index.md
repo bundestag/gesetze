@@ -2205,9 +2205,8 @@ erstmals für den Veranlagungszeitraum 2013 anzuwenden.
 ### (XXXX) Anlagen 2 bis 4 (weggefallen)
 
 
-(zu § 81 Abs. 3 Nr. 1)
 
-### Anlage 5 Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1
+### Anlage 5 (zu § 81 Abs. 3 Nr. 1) Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1
 
 (Fundstelle: BGBl. I 2000, 733)
 
@@ -2238,9 +2237,8 @@ dienenden Anlagen und Einrichtungen gehören:
 
 
 
-(zu § 81 Abs. 3 Nr. 2)
 
-### Anlage 6 Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
+### Anlage 6 (zu § 81 Abs. 3 Nr. 2) Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
 
 (Fundstelle: BGBl. I 2000, 733)
 

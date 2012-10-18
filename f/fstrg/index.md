@@ -1587,9 +1587,8 @@ die Verträge erstmals nach Inkrafttreten dieses Gesetzes kündbar sind.
 
 -
 
-(zu § 17e Abs. 1)
 
-## Anlage Bundesfernstraßen mit erstinstanzlicher Zuständigkeit des  Bundesverwaltungsgerichts
+## Anlage (zu § 17e Abs. 1) Bundesfernstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
 (Fundstelle: BGBl I 2007, 1220 u. 1221)
 
@@ -1901,9 +1900,8 @@ bestehenden Straßennetz verbunden sind.
 
 
 
-Auszug aus EinigVtr Anlage I Kap. XI Sachgebiet F Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1111)
+## Anhang EV Auszug aus EinigVtr Anlage I Kap. XI Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1111)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

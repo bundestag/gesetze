@@ -871,9 +871,8 @@ Industriemeisterin – Fachrichtung Kraftverkehr vom 25. August 1982
 (BGBl. I S. 1245), die zuletzt durch Artikel 14 der Verordnung vom 25.
 August 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
 
-(zu § 7 Absatz 6)
 
-## Anlage 1 Muster
+## Anlage 1 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2012, 292)
 
@@ -927,9 +926,8 @@ bestanden.
 
 
 
-(zu § 7 Absatz 6)
 
-## Anlage 2 Muster
+## Anlage 2 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2012, 293 - 294)
 

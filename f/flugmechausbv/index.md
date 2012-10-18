@@ -291,9 +291,8 @@ Prüfungsstücke anfertigen. Hierfür kommen insbesondere in Betracht:
 
 
 
-Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
 
-## § 8 Fachrichtung Triebwerkstechnik
+## § 8 Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin Fachrichtung Triebwerkstechnik
 
 (1) Die Abschlußprüfung in der Fachrichtung Triebwerkstechnik
 erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und
@@ -444,9 +443,8 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Fertigung und Instandhaltung mindestens
 ausreichende Leistungen erbracht sind.
 
-Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
 
-## § 9 Fachrichtung Instandhaltungstechnik
+## § 9 Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin Fachrichtung Instandhaltungstechnik
 
 (1) Die Abschlußprüfung in der Fachrichtung Instandhaltungstechnik
 erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und
@@ -587,9 +585,8 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Fertigung und Instandhaltung mindestens
 ausreichende Leistungen erbracht sind.
 
-Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
 
-## § 10 Fachrichtung Fertigungstechnik
+## § 10 Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin Fachrichtung Fertigungstechnik
 
 (1) Die Abschlußprüfung in der Fachrichtung Fertigungstechnik
 erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und
@@ -743,9 +740,8 @@ Anwendung der Verordnung in der am 28. Mai 2004 geltenden Fassung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-(zu § 4)
 
-## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
+## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
 
 (Fundstelle: BGBl. I 1997, 1470 - 1478)
 

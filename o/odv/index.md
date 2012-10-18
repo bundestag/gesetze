@@ -1759,9 +1759,8 @@ Rechtsvorschriften der Mitgliedstaaten über Druckgeräte (ABl. L 181
 vom 9.7.1997, S. 1) vorgesehenen Kennzeichen versehen sind, dürfen
 weiter verwendet werden.
 
-(zu § 1 Absatz 1)
 
-### Anlage 1 Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
+### Anlage 1 (zu § 1 Absatz 1) Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
 
 (Fundstelle: BGBl. I 2011, 2361)
 
@@ -1820,9 +1819,8 @@ ADR/RID ausgenommen sind, sowie ortsbewegliche Druckgeräte, die
 aufgrund der besonderen Vorschriften in Kapitel 3.3 ADR/RID von den
 Bau- und Prüfvorschriften für Verpackungen ausgenommen sind.
 
-(zu § 1 Absatz 2)
 
-### Anlage 2 Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
+### Anlage 2 (zu § 1 Absatz 2) Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
 
 (Fundstelle: BGBl. I 2011, 2362)
 

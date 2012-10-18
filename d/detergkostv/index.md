@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der  Verordnung
+Title: Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der Verordnung
   (EG) Nr. 648/2004 vom 31. März 2004 über Detergenzien
 jurabk: DetergKostV
 layout: default
@@ -8,7 +8,7 @@ slug: detergkostv
 
 ---
 
-# Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der  Verordnung (EG) Nr. 648/2004 vom 31. März 2004 über Detergenzien (DetergKostV)
+# Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der Verordnung (EG) Nr. 648/2004 vom 31. März 2004 über Detergenzien (DetergKostV)
 
 Ausfertigungsdatum
 :   2007-05-05
@@ -57,9 +57,8 @@ Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 1)
 
-## Anlage Gebührenverzeichnis
+## Anlage (zu § 1) Gebührenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 657)
 

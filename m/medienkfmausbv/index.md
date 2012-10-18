@@ -386,11 +386,8 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Medienkaufmann
-Digital und Print/zur Medienkauffrau Digital und Print
 
-## Anlage 1 - Sachliche Gliederung -
+## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 801 - 805)
 
@@ -1138,11 +1135,8 @@ Digital und Print/zur Medienkauffrau Digital und Print
 
 
 
-(zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Medienkaufmann
-Digital und Print/zur Medienkauffrau Digital und Print
 
-## Anlage 2 - Zeitliche Gliederung -
+## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print - Zeitliche Gliederung -
 
 Fundstelle des Originaltextes: BGBl. I 2006, 806 - 807
 

@@ -67,9 +67,8 @@ Für die bis zum 10. August 2007 entstandenen Gebühren für
 Amtshandlungen nach dem Projekt-Mechanismen-Gesetz gilt diese
 Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
 
-(zu § 1 Abs. 1)
 
-## Anhang Gebührenverzeichnis
+## Anhang (zu § 1 Abs. 1) Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2008, 1831)
 
