@@ -121,6 +121,15 @@ personenbezogene Daten übermittelt werden müssen.
 Sperrung abhandengekommener Personalausweise mit eingeschaltetem
 elektronischen Identitätsnachweis dient.
 
+(6a) Die Sperrsumme ist ein eindeutiges Merkmal, das aus dem
+Sperrkennwort, dem Familiennamen, den Vornamen und dem Tag der
+Geburt eines Ausweisinhabers errechnet wird. Es dient der
+Übermittlung einer Sperrung vom Sperrnotruf oder einer
+Personalausweisbehörde an den Sperrlistenbetreiber. Mit Hilfe der
+Sperrsumme ermittelt der Sperrlistenbetreiber anhand der
+Referenzliste den Sperrschlüssel eines zu sperrenden elektronischen
+Identitätsnachweises.
+
 (7) Sperrmerkmale eines Personalausweises sind dienste- und
 kartenspezifische Zeichenfolgen, die ausschließlich der Erkennung
 abhandengekommener Personalausweise durch den Diensteanbieter dienen,
@@ -462,10 +471,10 @@ Zeitpunkt der Beantragung des Ausweises zehn Jahre oder älter ist.
 ### § 10 Ausschaltung; Einschaltung; Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises
 
 (1) Die antragstellende Person hat bei der Aushändigung des
-Personalausweises schriftlich gegenüber der Personalausweisbehörde zu
+Personalausweises gegenüber der Personalausweisbehörde zu
 erklären, ob sie den elektronischen Identitätsnachweis nutzen will.
 Der Personalausweisinhaber kann diese Erklärung jederzeit während der
-Gültigkeitsdauer des Personalausweises durch schriftliche Erklärung
+Gültigkeitsdauer des Personalausweises durch Erklärung
 gegenüber der Personalausweisbehörde abändern. Will die
 antragstellende Person den elektronischen Identitätsnachweis nicht
 nutzen, schaltet die Personalausweisbehörde diese Funktion aus. Wird
@@ -555,8 +564,7 @@ schriftlich über die Maßnahmen zu unterrichten, die erforderlich sind,
 um die Sicherheit der Nutzung des elektronischen Identitätsnachweises
 zu gewährleisten.
 
-(4) Die Unterrichtung nach den Absätzen 2 und 3 ist von der
-antragstellenden Person schriftlich zu bestätigen.
+(4) (weggefallen)
 
 (5) Personalausweisbehörden, die Kenntnis von dem Abhandenkommen eines
 Ausweises erlangen, haben die zuständige Personalausweisbehörde, die
@@ -745,7 +753,7 @@ ist, sind zur Überprüfung, ob ein gesperrter oder abgelaufener
 Personalausweis vorliegt, immer zu übermitteln. Folgende weitere Daten
 können übermittelt werden:
 
-1.  Familienname,
+1.  Familienname und Geburtsname,
 
 
 2.  Vornamen,
@@ -834,8 +842,9 @@ Datenkategorien beschränkt. Der Personalausweisinhaber kann die
 
 
 
-(2) Eine Speicherung des Sperrkennworts ist ausschließlich im
-Personalausweisregister nach § 23 Abs. 3 Nr. 12 zulässig.
+(2) Eine Speicherung des Sperrkennworts und der Sperrsumme ist
+ausschließlich im Personalausweisregister nach § 23 Abs. 3
+Nr. 12 zulässig.
 
 (3) Eine zentrale, alle Sperrkennwörter oder alle Sperrmerkmale
 umfassende Speicherung ist unzulässig.
@@ -888,8 +897,9 @@ anzugeben.
 1.  der angegebene Zweck nicht rechtswidrig ist,
 
 
-2.  der Zweck nicht in der geschäftsmäßigen Übermittlung der Daten besteht
-    und keine Anhaltspunkte für die geschäftsmäßige oder unberechtigte
+2.  der Zweck nicht ausschließlich in der geschäftsmäßigen
+    Übermittlung der Daten besteht und keine Anhaltspunkte für die
+    ausschließlich geschäftsmäßige oder unberechtigte
     Übermittlung der Daten vorliegen,
 
 
@@ -1001,7 +1011,7 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 11. Seriennummer,
 
 
-12. Sperrkennwort,
+12. Sperrkennwort und Sperrsumme,
 
 
 13. letzter Tag der Gültigkeitsdauer,
@@ -1336,7 +1346,7 @@ festsetzen.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 6, 7
 und 8 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen
-des Absatzes 1 Nr. 5 und des Absatzes 2 Nr. 2, 3 und 5 mit einer
+des Absatzes 1 Nr. 5 und des Absatzes 2 Nr. 1, 2 und 4 mit einer
 Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen mit
 einer Geldbuße bis zu fünftausend Euro geahndet werden.
 

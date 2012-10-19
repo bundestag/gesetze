@@ -75,7 +75,10 @@ Regelung in § 26 Abs. 1 oder sonstiger Rechtsvorschriften,
         allgemeine Zwecke zu veröffentlichen und darzustellen,
 
 
-
+    d)  Einzelangaben nach Maßgabe dieses Gesetzes oder einer anderen
+        Rechtsvorschrift für wissenschaftliche Zwecke bereitzustellen. Die
+        Zuständigkeit der Länder, diese Aufgabe ebenfalls wahrzunehmen, bleibt
+        unberührt.
 
 
 2.
@@ -95,7 +98,7 @@ Regelung in § 26 Abs. 1 oder sonstiger Rechtsvorschriften,
 3.  im Auftrag oberster Bundesbehörden Statistiken nach § 8 zu erstellen,
 
 
-4.  Statistiken anderer Staaten, der Europäischen Gemeinschaften und
+4.  Statistiken anderer Staaten, der Europäischen Union und
     internationaler Organisationen zusammenzustellen und ihre Ergebnisse
     für allgemeine Zwecke zu veröffentlichen und darzustellen,
 
@@ -180,13 +183,13 @@ Bundesamt in Grundsatzfragen zu beraten.
 
 1.  die Bundesministerien mit zehn Sitzen sowie der Bundesrechnungshof,
     die Deutsche Bundesbank und der Bundesbeauftragte für den Datenschutz
-    mit je einem Sitz,
+    und die Informationsfreiheit mit je einem Sitz,
 
 
 2.  die statistischen Ämter der Länder mit je einem Sitz,
 
 
-3.  das Statistische Amt der Europäischen Gemeinschaften mit einem Sitz,
+3.  das Statistische Amt der Europäischen Union mit einem Sitz,
 
 
 4.  die kommunalen Spitzenverbände mit je einem Sitz,
@@ -408,7 +411,7 @@ Rechtsvorschrift bleiben unberührt.
 
 (1) Die eine Bundesstatistik anordnende Rechtsvorschrift muß die
 Erhebungsmerkmale, die Hilfsmerkmale, die Art der Erhebung, den
-Berichtszeitraum, den Berichtszeitpunkt, die Periodizität und den
+Berichtszeitraum oder den Berichtszeitpunkt, die Periodizität und den
 Kreis der zu Befragenden bestimmen.
 
 (2) Laufende Nummern und Ordnungsnummern zur Durchführung von
@@ -428,16 +431,17 @@ technischen Durchführung von Bundesstatistiken dienen. Für andere
 Zwecke dürfen sie nur verwendet werden, soweit Absatz 2 oder ein
 sonstiges Gesetz es zulassen.
 
-(2) Der Name der Gemeinde und die Blockseite dürfen für die regionale
-Zuordnung der Erhebungsmerkmale genutzt werden. Die übrigen Teile der
-Anschrift dürfen für die Zuordnung zu Blockseiten für einen Zeitraum
-bis zu vier Jahren nach Abschluß der jeweiligen Erhebung genutzt
-werden. Besondere Regelungen in einer eine Bundesstatistik anordnenden
-Rechtsvorschrift bleiben unberührt.
+(2) Der Name der Gemeinde, Blockseite und die geografische Gitterzelle
+dürfen für die regionale Zuordnung der Erhebungsmerkmale genutzt werden.
+Die übrigen Teile der Anschrift dürfen für die Zuordnung zu Blockseiten und
+geografischen Gitterzellen für einen Zeitraum bis zu vier Jahren nach Abschluss
+der jeweiligen Erhebung genutzt werden. Besondere Regelungen in einer eine Bundesstatistik anordnenden Rechtsvorschrift bleiben unberührt.
 
 (3) Blockseite ist innerhalb eines Gemeindegebiets die Seite mit
 gleicher Straßenbezeichnung von der durch Straßeneinmündungen oder
-vergleichbare Begrenzungen umschlossenen Fläche.
+vergleichbare Begrenzungen umschlossenen Fläche. Eine geografische
+Gitterzelle ist eine Gebietseinheit, die bezogen auf eine vorgegebene
+Kartenprojektion quadratisch und mindestens 1 Hektar groß ist.
 
 
 ## § 11 Erhebungsvordrucke
@@ -458,9 +462,18 @@ ihrer Durchführung verwendeten Hilfsmerkmale sind auf den
 Erhebungsvordrucken anzugeben.
 
 
-## § 11a
+## § 11a Elektronische Datenübermittlung
 
-(weggefallen)
+(1) Soweit Stellen, die Aufgaben der öffentlichen Verwaltung wahrnehmen,
+Daten mittels standardisierter elektronischer Datenaustauschformate übermitteln,
+sind diese auch bei der Übermittlung der für eine Bundesstatistik zu erhebenden
+Daten zu verwenden. Ansonsten sind elektronische Verfahren nach Absprache
+der statistischen Ämter mit den betroffenen Stellen zu verwenden.
+
+(2) Werden Betrieben und Unternehmen für die Übermittlung der für eine
+Bundesstatistik zu erhebenden Daten elektronische Verfahren zur Verfügung
+gestellt, sind diese verpflichtet, diese Verfahren zu nutzen. Zur Vermeidung
+unbilliger Härten kann die zuständige Stelle auf Antrag eine Ausnahme zulassen.
 
 
 ## § 12 Trennung und Löschung der Hilfsmerkmale
@@ -534,9 +547,9 @@ und Erhebungsmerkmale aus Wirtschafts- und Umweltstatistiken bei
 Unternehmen, Betrieben und Arbeitsstätten sowie aus allgemein
 zugänglichen Quellen verwendet werden:
 
-1.  Namen und Anschriften der Erhebungseinheiten, bei Unternehmen auch
-    ihrer Teile sowie ihrer Bevollmächtigten für die statistische
-    Auskunftserteilung einschließlich der
+1.  Namen und Anschriften sowie die Geokoordinaten der Erhebungseinheiten,
+    bei Unternehmen auch ihrer Teile sowie ihrer Bevollmächtigten für die
+    statistische Auskunftserteilung einschließlich der
     Telekommunikationsanschlußnummern, bei Betrieben auch des
     Unternehmenssitzes und der Hauptverwaltung sowie Namen der Inhaber
     oder Leiter der Betriebe,
@@ -814,20 +827,20 @@ Die zu Befragenden sind schriftlich oder elektronisch zu unterrichten
 
 
 
-## § 18 Statistische Erhebungen der Europäischen Gemeinschaften
+## § 18 Statistische Erhebungen der Europäischen Union
 
 (1) Die Bundesstatistiken betreffenden Vorschriften dieses Gesetzes
 finden vorbehaltlich der Regelungen in Absatz 2 entsprechende
 Anwendung auf die durch unmittelbar geltende Rechtsakte der
-Europäischen Gemeinschaften angeordneten Erhebungen, soweit sich aus
-den Rechtsakten der Europäischen Gemeinschaften nichts anderes ergibt.
+Europäischen Union angeordneten Erhebungen, soweit sich aus
+den Rechtsakten der Europäischen Union nichts anderes ergibt.
 
 (2) Soweit die Merkmale der durch unmittelbar geltende Rechtsakte der
-Europäischen Gemeinschaften angeordneten Erhebungen nicht mit den
+Europäischen Union angeordneten Erhebungen nicht mit den
 Merkmalen einer eine Bundesstatistik anordnenden Rechtsvorschrift
 übereinstimmen oder diesen Merkmalen gleichgestellt sind, sind die
 Auskünfte freiwillig, es sei denn, die Rechtsakte der Europäischen
-Gemeinschaften sehen eine Auskunftspflicht ausdrücklich vor.
+Union sehen eine Auskunftspflicht ausdrücklich vor.
 
 
 ## § 19 Supra- und internationale Aufgaben des Statistischen Bundesamtes
@@ -838,8 +851,8 @@ Programmen und Rechtsvorschriften sowie an der methodischen und
 technischen Vorbereitung und Harmonisierung von Statistiken sowie der
 Aufstellung Volkswirtschaftlicher Gesamtrechnungen und sonstiger
 Gesamtsysteme statistischer Daten für Zwecke der Europäischen
-Gemeinschaften und internationaler Organisationen mitzuwirken und die
-Ergebnisse an die Europäischen Gemeinschaften und internationalen
+Union und internationaler Organisationen mitzuwirken und die
+Ergebnisse an die Europäischen Union und internationalen
 Organisationen weiterzuleiten.
 
 
@@ -872,9 +885,8 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 15 Abs. 1 Satz 2, Abs. 2 und 3 Satz 1 eine Auskunft nicht, nicht
 richtig, nicht vollständig oder nicht rechtzeitig erteilt.
 
-(2) Ordnungswidrig handelt auch, wer entgegen § 11 Abs. 1 die
-Antworten nicht auf den Erhebungsvordrucken in der vorgegebenen Form
-erteilt.
+(2) Ordnungswidrig handelt auch, wer entgegen § 11 Absatz 1 und
+§ 11a Absatz 2 die Auskünfte nicht in der vorgegebenen Form erteilt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.

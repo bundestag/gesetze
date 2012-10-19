@@ -1078,8 +1078,8 @@ Grundgesetzes
 
 
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nr. 4 und
-5 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nr. 5 und
+6 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des
 Absatzes 1 mit einer Geldbuße bis zu dreißigtausend Euro und in den
 übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
 werden.
@@ -1087,7 +1087,7 @@ werden.
 (5) In den Fällen der Absätze 2 und 3 kann der Versuch der
 Ordnungswidrigkeit geahndet werden.
 
-(6) In den Fällen des Absatzes 2 Nr. 1 und 3 kann die Tat auch dann
+(6) In den Fällen des Absatzes 2 Nr. 2 und 4 kann die Tat auch dann
 geahndet werden, wenn sie im Ausland begangen wird.
 
 

@@ -2795,7 +2795,10 @@ ein angemessener Datenschutzstandard nicht gewährleistet ist.
 (8) Dem Betroffenen wird auf Antrag schriftlich über den ihn
 betreffenden Inhalt des Verkehrszentralregisters und über die Punkte
 unentgeltlich Auskunft erteilt. Der Antragsteller hat dem Antrag einen
-Identitätsnachweis beizufügen.
+Identitätsnachweis beizufügen. Die Auskunft kann elektronisch erteilt
+werden, wenn der Antrag unter Nutzung des elektronischen
+Identitätsnachweises nach § 18 des Personalausweisgesetzes gestellt
+wird. Hinsichtlich der Protokollierung gilt § 30a Absatz 3 entsprechend.
 
 (9) Übermittlungen von Daten aus dem Verkehrszentralregister sind nur
 auf Ersuchen zulässig, es sei denn, auf Grund besonderer
@@ -4704,7 +4707,7 @@ erlassen
 
 ### § 64 Gemeinsame Vorschriften
 
-Die Meldebehörden haben dem Kraftfahrt-Bundesamt bei der Änderung des
+(1) Die Meldebehörden haben dem Kraftfahrt-Bundesamt bei der Änderung des
 Geburtsnamens oder des Vornamens einer Person, die das 14. Lebensjahr
 vollendet hat, für den in Satz 2 genannten Zweck neben dem bisherigen
 Namen folgende weitere Daten zu übermitteln:
@@ -4741,6 +4744,12 @@ neue Name bei der Eintragung zu vermerken. Eine Mitteilung nach Satz 1
 darf nur für den in Satz 2 genannten Zweck verwendet werden. Enthalten
 die Register keine Eintragung über diese Person, ist die Mitteilung
 vom Kraftfahrt-Bundesamt unverzüglich zu vernichten.
+
+(2) Unbeschadet anderer landesrechtlicher Regelungen können durch
+Landesrecht Aufgaben der Zulassung von Kraftfahrzeugen auf die für
+das Meldewesen zuständigen Behörden übertragen werden, soweit kein
+neues Kennzeichen erteilt werden muss oder sich die technischen Daten
+des Fahrzeugs nicht ändern.
 
 
 ### § 65 Übergangsbestimmungen

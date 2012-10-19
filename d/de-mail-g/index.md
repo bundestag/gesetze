@@ -43,8 +43,8 @@ dienen, bleiben unberührt.
 
 ### § 2 Zuständige Behörde
 
-Zuständige Behörde nach diesem Gesetz und der Rechtsverordnung nach §
-24 ist das Bundesamt für Sicherheit in der Informationstechnik.
+Zuständige Behörde nach diesem Gesetz ist das Bundesamt für Sicherheit
+in der Informationstechnik.
 
 
 ## Abschnitt 2 - Pflichtangebote und optionale Angebote des Diensteanbieters
@@ -235,13 +235,21 @@ Empfänger (Ende-zu-Ende-Verschlüsselung) bleibt hiervon unberührt.
 (4) Der Sender kann eine sichere Anmeldung nach § 4 für den Abruf der
 Nachricht durch den Empfänger bestimmen.
 
-(5) Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen,
-seine sichere Anmeldung im Sinne von § 4 in der Nachricht so
-bestätigen zu lassen, dass die Unverfälschtheit der Bestätigung
-jederzeit nachprüfbar ist. Um dieses dem Empfänger der Nachricht
-kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter des
-Senders die Verwendung der sicheren Anmeldung nach § 4 durch eine
-qualifizierte elektronische Signatur.
+(5) Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen, seine
+sichere Anmeldung im Sinne von § 4 in der Nachricht so bestätigen zu lassen,
+dass die Unverfälschtheit der Bestätigung jederzeit nachprüfbar ist. Um
+dieses dem Empfänger der Nachricht kenntlich zu machen, bestätigt der
+akkreditierte Diensteanbieter des Senders die Verwendung der sicheren
+Anmeldung nach § 4. Hierzu versieht er die Nachricht mit einer qualifizierten
+elektronischen Signatur; sind der Nachricht ein oder mehrere Dokumente als
+Anhänge beigefügt, bezieht sich die qualifizierte elektronische Signatur auch
+auf diese. Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen,
+dass durch Auswahl eines Feldes mit der Bezeichnung „schriftformwahrend für
+die Kommunikation mit Behörden“ in seinem De-Mail-Konto diese Versandart
+ausgelöst wird. Er muss den Nutzer vor Versand der Nachricht darüber
+informieren, dass der Inhalt dieser Nachricht dem Absender auf Dauer
+rechtlich zugeordnet werden kann. Die Tatsache, dass der Nutzer diese
+Versandart genutzt hat, muss sich aus der Nachricht ergeben.
 
 (6) Der akkreditierte Diensteanbieter mit Ausnahme der Diensteanbieter
 nach § 19 ist verpflichtet, elektronische Nachrichten nach den
@@ -404,11 +412,14 @@ Diensteanbieter fortgeführt wird oder die zuständige Behörde die
 Löschung aus dem Verzeichnisdienst anordnet. Weitere Gründe für eine
 Löschung können vertraglich vereinbart werden.
 
-(3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst auf
-ein Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt
-nicht als Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des
+(3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst auf ein
+Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt nicht als
+Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des
 Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
-Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung.
+Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung. Der
+akkreditierte Diensteanbieter muss auf ausdrückliches Verlangen die
+Entscheidung des Nutzers, den Zugang eröffnen zu wollen, veröffentlichen.
+
 
 (4) § 47 des Telekommunikationsgesetzes gilt entsprechend.
 

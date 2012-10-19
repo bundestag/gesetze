@@ -2472,20 +2472,33 @@ von der Finanzbehörde übermittelte elektronische Dokument nicht
 bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen
 Format oder als Schriftstück zu übermitteln.
 
-(3) Eine durch Gesetz für Anträge, Erklärungen oder Mitteilungen an
-die Finanzbehörden angeordnete Schriftform kann, soweit nicht durch
-Gesetz etwas anderes bestimmt ist, durch die elektronische Form
-ersetzt werden. In diesem Fall ist das elektronische Dokument mit
-einer qualifizierten elektronischen Signatur nach dem Signaturgesetz
-zu versehen. Die Signierung mit einem Pseudonym ist nicht zulässig.
+(3) Eine durch Gesetz für Anträge, Erklärungen oder Mitteilungen an die
+Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas
+anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der
+elektronischen Form genügt ein elektronisches Dokument, das mit einer
+qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist.
+Die Signierung mit einem Pseudonym ist nicht zulässig. Die Schriftform kann
+auch ersetzt werden
+
+	1. durch unmittelbare Abgabe der Erklärung in einem von der Behörde in
+	einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung
+	gestellten elektronischen Formular;
+
+	2. durch Versendung eines elektronischen Dokuments an die Behörde mit der
+	Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes.
+
+In den Fällen des Satzes 4 Nummer 1 muss ein sicherer Identitätsnachweis nach
+§ 18 des Personalausweisgesetzes erfolgen.
 
 (4) Eine durch Gesetz für Verwaltungsakte oder sonstige Maßnahmen der
-Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz
-etwas anderes bestimmt ist, durch die elektronische Form ersetzt
-werden. In diesem Fall ist das elektronische Dokument mit einer
-qualifizierten elektronischen Signatur nach dem Signaturgesetz zu
-versehen. Für von der Finanzbehörde aufzunehmende Niederschriften gilt
-Satz 1 nur, wenn dies durch Gesetz ausdrücklich zugelassen ist.
+Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas
+anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der
+elektronischen Form genügt ein elektronisches Dokument, das mit einer
+qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist.
+Die Schriftform kann auch ersetzt werden durch Versendung einer De-Mail-
+Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes durch die Finanzbehörde. Für
+von der Finanzbehörde aufzunehmende Niederschriften gelten die Sätze 1 und 3
+nur, wenn dies durch Gesetz ausdrücklich zugelassen ist.
 
 (5) Ist ein elektronisches Dokument Gegenstand eines Beweises, wird
 der Beweis durch Vorlegung oder Übermittlung der Datei angetreten;
@@ -10133,24 +10146,23 @@ gegeben sei. § 110 Abs. 2 gilt für den Fall höherer Gewalt sinngemäß.
 
 #### § 357 Einlegung des Einspruchs
 
-(1) Der Einspruch ist schriftlich einzureichen oder zur Niederschrift
-zu erklären. Es genügt, wenn aus dem Schriftstück hervorgeht, wer den
-Einspruch eingelegt hat. Einlegung durch Telegramm ist zulässig.
+(1) Der Einspruch ist schriftlich oder elektronisch einzureichen oder zur
+Niederschrift zu erklären. Es genügt, wenn aus dem Schriftstück hervorgeht,
+wer den Einspruch eingelegt hat. Einlegung durch Telegramm ist zulässig.
 Unrichtige Bezeichnung des Einspruchs schadet nicht.
 
-(2) Der Einspruch ist bei der Behörde anzubringen, deren
-Verwaltungsakt angefochten wird oder bei der ein Antrag auf Erlass
-eines Verwaltungsakts gestellt worden ist. Ein Einspruch, der sich
-gegen die Feststellung von Besteuerungsgrundlagen oder gegen die
-Festsetzung eines Steuermessbetrags richtet, kann auch bei der zur
-Erteilung des Steuerbescheids zuständigen Behörde angebracht werden.
-Ein Einspruch, der sich gegen einen Verwaltungsakt richtet, den eine
-Behörde auf Grund gesetzlicher Vorschrift für die zuständige
-Finanzbehörde erlassen hat, kann auch bei der zuständigen
-Finanzbehörde angebracht werden. Die schriftliche Anbringung bei einer
-anderen Behörde ist unschädlich, wenn der Einspruch vor Ablauf der
-Einspruchsfrist einer der Behörden übermittelt wird, bei der er nach
-den Sätzen 1 bis 3 angebracht werden kann.
+(2) Der Einspruch ist bei der Behörde anzubringen, deren Verwaltungsakt
+angefochten wird oder bei der ein Antrag auf Erlass eines Verwaltungsakts
+gestellt worden ist. Ein Einspruch, der sich gegen die Feststellung von
+Besteuerungsgrundlagen oder gegen die Festsetzung eines Steuermessbetrags
+richtet, kann auch bei der zur Erteilung des Steuerbescheids zuständigen
+Behörde angebracht werden. Ein Einspruch, der sich gegen einen Verwaltungsakt
+richtet, den eine Behörde auf Grund gesetzlicher Vorschrift für die
+zuständige Finanzbehörde erlassen hat, kann auch bei der zuständigen
+Finanzbehörde angebracht werden. Die schriftliche oder elektronische
+Anbringung bei einer anderen Behörde ist unschädlich, wenn der Einspruch vor
+Ablauf der Einspruchsfrist einer der Behörden übermittelt wird, bei der er
+nach den Sätzen 1 bis 3 angebracht werden kann.
 
 (3) Bei der Einlegung soll der Verwaltungsakt bezeichnet werden, gegen
 den der Einspruch gerichtet ist. Es soll angegeben werden, inwieweit

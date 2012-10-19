@@ -1205,6 +1205,10 @@ Betrieb des Fahrzeugs auf öffentlichen Straßen untersagen. Der Halter
 darf die Inbetriebnahme eines Fahrzeugs, dessen Betrieb nach Satz 5
 untersagt wurde, nicht anordnen oder zulassen.
 
+(1a) Der Mitteilungspflicht nach Absatz 1 Satz 1 Nummer 1 wird auch genügt,
+wenn diese Änderungen über eine Meldebehörde mitgeteilt werden, soweit bei
+der Meldebehörde ein solches Verfahren eröffnet ist.
+
 (2) Wer einen Personenkraftwagen verwendet
 
 1.  für eine Personenbeförderung, die dem Personenbeförderungsgesetz

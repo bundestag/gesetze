@@ -1060,13 +1060,32 @@ Zustimmung des gesetzlichen Vertreters.
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet.
 
-(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit
-nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die
-elektronische Form ersetzt werden. In diesem Fall ist das
-elektronische Dokument mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen. Die Signierung mit einem
-Pseudonym, das die Identifizierung der Person des
-Signaturschlüsselinhabers nicht ermöglicht, ist nicht zulässig.
+(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht
+durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische
+Form ersetzt werden. Der elektronischen Form genügt ein elektronisches
+Dokument, das mit einer qualifizierten elektronischen Signatur nach dem
+Signaturgesetz versehen ist. Die Signierung mit einem Pseudonym, das die
+Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar
+durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch
+ersetzt werden
+
+	1. durch unmittelbare Abgabe der Erklärung in einem von der Behörde in
+	einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung
+	gestellten elektronischen Formular;
+
+
+	2. bei Anträgen und Anzeigen durch Versendung eines elektronischen
+	Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-
+	Gesetzes;
+
+
+	3. bei Verwaltungsakten oder sonstigen Maßnahmen der Behörden durch
+	Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes
+	durch die Behörde.
+
+
+In den Fällen des Satzes 4 Nummer 1 muss ein sicherer Identitätsnachweis nach
+§ 18 des Personalausweisgesetzes erfolgen.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie
 zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter

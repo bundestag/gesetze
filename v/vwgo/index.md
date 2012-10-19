@@ -1522,8 +1522,8 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 #### § 70
 
 (1) Der Widerspruch ist innerhalb eines Monats, nachdem der
-Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich
-oder zur Niederschrift bei der Behörde zu erheben, die den
+Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
+elektronisch oder zur Niederschrift bei der Behörde zu erheben, die den
 Verwaltungsakt erlassen hat. Die Frist wird auch durch Einlegung bei
 der Behörde, die den Widerspruchsbescheid zu erlassen hat, gewahrt.
 

@@ -193,13 +193,29 @@ zuständige Behörde ist unverzüglich zu unterrichten.
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet.
 
-(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit
-nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die
-elektronische Form ersetzt werden. In diesem Fall ist das
-elektronische Dokument mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen. Die Signierung mit einem
-Pseudonym, das die Identifizierung der Person des
-Signaturschlüsselinhabers nicht ermöglicht, ist nicht zulässig.
+(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht
+durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische
+Form ersetzt werden. Der elektronischen Form genügt ein elektronisches
+Dokument, das mit einer qualifizierten elektronischen Signatur nach dem
+Signaturgesetz versehen ist. Die Signierung mit einem Pseudonym, das die
+Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar
+durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch
+ersetzt werden
+
+    1. durch unmittelbare Abgabe der Erklärung in einem von der Behörde
+    in einem Eingabegerät oder über öffentlich zugängliche Netze zur
+    Verfügung gestellten elektronischen Formular;
+
+    2. bei Anträgen und Anzeigen durch Versendung eines elektronischen
+    Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des
+    De-Mail-Gesetzes;
+
+    3. bei Verwaltungsakten oder sonstigen Maßnahmen der Behörden
+    durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des
+    De-Mail-Gesetzes durch die Behörde.
+
+In den Fällen des Satzes 4 Nummer 1 muss ein sicherer Identitätsnachweis
+nach § 18 des Personalausweisgesetzes erfolgen.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie
 zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter
@@ -977,6 +993,22 @@ demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie
 von dem Schriftführer zu unterschreiben.
 
 
+#### § 27a Öffentliche Bekanntmachung im Internet
+
+(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche
+Bekanntmachung  angeordnet, soll die Behörde deren Inhalt zusätzlich im
+Internet veröffentlichen. Dies  wird dadurch bewirkt, dass der Inhalt der
+Bekanntmachung auf einer Internetseite der  Behörde oder ihres
+Verwaltungsträgers zugänglich gemacht wird. Bezieht sich die  Bekanntmachung
+auf zur Einsicht auszulegende Unterlagen, sollen auch diese über  das Internet
+zugänglich gemacht werden. Soweit durch Rechtsvorschrift nichts ande- res
+geregelt ist, ist der Inhalt der zur Einsicht ausgelegten Unterlagen
+maßgeblich.
+
+(2) In der öffentlichen oder ortsüblichen Bekanntmachung ist die Internetseite
+anzugeben.
+
+
 #### § 28 Anhörung Beteiligter
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
@@ -1224,6 +1256,10 @@ für das Ausgangsdokument enthalten.
 
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
+
+(7) Jede Behörde soll von Urkunden, die sie selbst ausgestellt hat, auf
+Verlangen ein elektronisches Dokument nach Absatz 4 Nummer 4a oder eine
+elektronische Abschrift fertigen und beglaubigen.
 
 
 #### § 34 Beglaubigung von Unterschriften

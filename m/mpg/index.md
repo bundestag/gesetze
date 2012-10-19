@@ -904,7 +904,7 @@ genannten Institutionen unverzüglich anzuzeigen.
 (1) Die Benennung erlischt mit Fristablauf, mit der Einstellung des
 Betriebs der Benannten Stelle oder durch Verzicht. Die Einstellung
 oder der Verzicht sind der zuständigen Behörde unverzüglich
-schriftlich mitzuteilen.
+schriftlich oder elektronisch mitzuteilen.
 
 (2) Die zuständige Behörde nimmt die Benennung zurück, soweit
 nachträglich bekannt wird, dass eine Benannte Stelle bei der Benennung
