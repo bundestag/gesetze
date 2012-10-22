@@ -612,7 +612,8 @@ oder unbegründet hält.
 pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für
 erforderlich hält. Sie kann insbesondere
 
-1.  Auskünfte jeder Art einholen,
+1.  Auskünfte jeder Art, auch elektronisch und als elektronisches
+    Dokument, einholen,
 
 
 2.  Beteiligte anhören, Zeugen und Sachverständige vernehmen oder die
@@ -626,7 +627,8 @@ erforderlich hält. Sie kann insbesondere
 4.  den Augenschein einnehmen.
 
 
-
+Urkunden und Akten können auch in elektronischer Form beigezogen
+werden, es sei denn, durch Rechtsvorschrift ist etwas anderes bestimmt.
 
 (2) Die Beteiligten sollen bei der Ermittlung des Sachverhalts
 mitwirken. Sie sollen insbesondere ihnen bekannte Tatsachen und
@@ -818,10 +820,14 @@ einer diplomatischen oder berufskonsularischen Vertretung der
 Bundesrepublik Deutschland im Ausland erfolgen; weitere Ausnahmen kann
 die Behörde, die die Akten führt, gestatten.
 
-(5) Soweit die Akteneinsicht zu gestatten ist, können die Beteiligten
-Auszüge oder Abschriften selbst fertigen oder sich Ablichtungen durch
-die Behörde erteilen lassen. Die Behörde kann Ersatz ihrer
-Aufwendungen in angemessenem Umfang verlangen.
+(5) Soweit die Akteneinsicht zu gestatten ist, können die Beteiligten Auszüge
+oder Abschriften selbst fertigen oder sich Ablichtungen durch die Behörde
+erteilen lassen. Soweit die Akteneinsicht in eine elektronische Akte zu
+gestatten ist, kann die Behörde Akteneinsicht gewähren, indem sie Unterlagen
+ganz oder teilweise ausdruckt, elektronische Dokumente auf einem Bildschirm
+wiedergibt, elektronische Dokumente zur Verfügung stellt oder den
+elektronischen Zugriff auf den Inhalt der Akte gestattet. Die Behörde kann
+Ersatz ihrer Aufwendungen in angemessenem Umfang verlangen.
 
 
 #### Zweiter Titel - Fristen, Termine, Wiedereinsetzung
@@ -1018,6 +1024,11 @@ für das Ausgangsdokument enthalten.
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
 
+(7) Soweit eine Behörde über die technischen Möglichkeiten verfügt, kann sie
+von Urkunden, die sie selbst ausgestellt hat, auf Verlangen ein
+elektronisches Dokument nach Absatz 4 Nummer 4 Buchstabe a oder eine
+elektronische Abschrift fertigen und beglaubigen.
+
 
 ##### § 30 Beglaubigung von Unterschriften
 
@@ -1144,14 +1155,15 @@ verlangt. Ein elektronischer Verwaltungsakt ist unter denselben
 Voraussetzungen schriftlich zu bestätigen; § 36a Abs. 2 des Ersten
 Buches findet insoweit keine Anwendung.
 
-(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die
-erlassende Behörde erkennen lassen und die Unterschrift oder die
-Namenswiedergabe des Behördenleiters, seines Vertreters oder seines
-Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
-Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
-Form verwendet, muss auch das der Signatur zugrunde liegende
-qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen.
+(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende
+Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des
+Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird
+für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform
+angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur
+zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges
+qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im
+Falle des § 36a Absatz 2 Satz 4 Nummer 3 des Ersten Buches muss die Signatur
+des Diensteanbieters die erlassende Behörde erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 36a Abs. 2 des Ersten
 Buches erforderliche Signatur durch Rechtsvorschrift die dauerhafte
@@ -2125,8 +2137,12 @@ angewendeten Verfahren,
 
 
 
-    Übermitteln im Sinne dieses Gesetzbuches ist auch das Bekanntgeben
-    nicht gespeicherter Sozialdaten,
+    Übermitteln im Sinne dieses Gesetzbuches ist auch das Bekanntgeben nicht
+    gespeicherter Sozialdaten; das Senden von Sozialdaten durch eine DeMail-
+    Nachricht an die jeweiligen akkreditierten Diensteanbieter – zur
+    kurzfristigen automatisierten Entschlüsselung zum Zweck der Überprüfung
+    auf Schadsoftware und zum Zweck der Weiterleitung an den Adressaten der
+    De-Mail-Nachricht – ist kein Übermitteln,
 
 
 4.  Sperren das vollständige oder teilweise Untersagen der weiteren

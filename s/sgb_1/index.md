@@ -1069,23 +1069,31 @@ Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar
 durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch
 ersetzt werden
 
-	1. durch unmittelbare Abgabe der Erklärung in einem von der Behörde in
-	einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung
-	gestellten elektronischen Formular;
+1. durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular,
+   das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche
+   Netze zur Verfügung gestellt wird;
 
+2. bei Anträgen und Anzeigen durch Versendung eines elektronischen Dokuments
+   an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
 
-	2. bei Anträgen und Anzeigen durch Versendung eines elektronischen
-	Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-
-	Gesetzes;
+3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen
+   Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach § 5
+   Absatz 5 des De-Mail- Gesetzes, bei der die Signatur des Diensteanbieters
+   die Behörde erkennen lässt.
 
+In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich
+zugängliche Netze ein sicherer Identitätsnachweis nach § 18 des
+Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes
+erfolgen; in der Kommunikation zwischen dem Versicherten und seiner
+Krankenkasse kann die Identität auch mit der elektronischen Gesundheitskarte
+nach § 291 Absatz 2a Satz 4 des Fünften Buch Sozialgesetzbuch elektronisch
+nachgewiesen werden.
 
-	3. bei Verwaltungsakten oder sonstigen Maßnahmen der Behörden durch
-	Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes
-	durch die Behörde.
-
-
-In den Fällen des Satzes 4 Nummer 1 muss ein sicherer Identitätsnachweis nach
-§ 18 des Personalausweisgesetzes erfolgen.
+(2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars
+vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht
+die Anordnung der Schriftform bewirkt. Bei einer für die elektronische
+Versendung an die Behörde bestimmten Fassung des Formulars entfällt das
+Unterschriftsfeld.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie
 zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter

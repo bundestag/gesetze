@@ -3321,6 +3321,25 @@ beantragte Erteilung kann aus den Gründen nach Satz 1 versagt werden,
 bis die ausstehende Zahlung eingegangen ist.
 
 
+#### § 32d Elektronische Veröffentlichungen, Veröffentlichungen der Europäischen Union
+
+(1) Unbeschadet der Regelungen von § 15 Absatz 1 des E-Government-Gesetzes
+kann eine durch Verordnung des Bundesministeriums für Verkehr, Bau und
+Stadtentwicklung bestimmte Pflicht zur Publikation in den Nachrichten für
+Luftfahrer oder im Luftfahrthandbuch der Bundesrepublik Deutschland
+zusätzlich oder ausschließlich durch eine elektronische Ausgabe erfüllt
+werden, wenn diese über öffentlich zugängliche Netze angeboten wird. In
+diesem Fall gilt § 15 Absatz 2 und 3 des E-Government-Gesetzes entsprechend.
+
+(2) Soweit in Rechtsakten der Europäischen Union technische
+Zulassungsspezifikationen und Nachweise ausschließlich in englischer Sprache
+in Kraft gesetzt werden, gelten diese Vorschriften innerhalb der
+Bundesrepublik Deutschland auch ohne amtliche deutsche Übersetzung. Satz 1
+gilt auch für technische Anweisungen und Beschlüsse des Rates der
+Internationalen Zivilluftfahrt-Organisation, auf die in einem Rechtsakt der
+Europäischen Union Bezug genommen wird.
+
+
 ## Zweiter Abschnitt - Haftpflicht
 
 

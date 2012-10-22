@@ -955,13 +955,12 @@ Unversehrtheit und Zurechenbarkeit der Daten gewährleisten.
 ##### § 36 Antrag und Mitteilungspflichten
 
 (1) Ausbildende haben unverzüglich nach Abschluss des
-Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu
-beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine
-Kopie der Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen
+Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu beantragen.
+Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der
+Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen
 Ausbildungsplan im Sinne von § 11 Absatz 1 Satz 2 Nummer 1, der der
 zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden.
-Eine Ausfertigung der Vertragsniederschrift ist beizufügen. Entsprechendes
-gilt bei Änderungen des wesentlichen Vertragsinhalts.
+Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
 (2) Ausbildende und Auszubildende sind verpflichtet, den zuständigen
 Stellen die zur Eintragung nach § 34 erforderlichen Tatsachen auf

@@ -780,11 +780,13 @@ Unternehmensbeteiligungen nach § 10 Abs. 1 Satz 4.
 ### § 25 Verfahren
 
 (1) Eine Genehmigung nach § 3 Abs. 1, eine Zulassung nach § 11 Abs. 1
-und eine Erlaubnis nach § 10 Abs. 2 Satz 1, § 19 Abs. 1 Satz 1 und 2
-sowie nach § 20 Satz 1 setzen jeweils einen schriftlichen Antrag
-voraus. Eine Meldung nach § 10 Abs. 1 Satz 1 hat schriftlich zu
-erfolgen. Einem Antrag oder einer Meldung sind die zur Prüfung der
-Erteilungsvoraussetzungen notwendigen Unterlagen beizufügen.
+und eine Erlaubnis nach § 10 Abs. 2 Satz 1 und 2 sowie nach § 20 Satz 1
+setzen jeweils einen schriftlichen Antrag voraus. Eine Meldung nach § 10
+Abs. 1 Satz 1 hat schriftlich zu erfolgen. Eine Erlaubnis nach § 19 Absatz 1
+Satz 1 und 2 sowie nach § 20 Satz 1 setzt einen schriftlichen oder
+elektronischen Antrag voraus. Einem Antrag oder einer Meldung sind die
+zur Prüfung der Erteilungsvoraussetzungen notwendigen Unterlagen
+beizufügen.
 
 (2) Zur Feststellung der Eignung eines Verfahrens nach § 4 Abs. 1 Nr.
 2 und 3 sowie § 12 Abs. 1 Nr. 3 ist das Bundesamt für Sicherheit in
@@ -792,8 +794,8 @@ der Informationstechnik frühzeitig zu beteiligen. Das Bundesamt für
 Sicherheit in der Informationstechnik stellt dem Antragsteller
 Unterlagen zum Umfang und Ablauf der Prüfung zur Verfügung.
 
-(3) Verwaltungsakte nach diesem Gesetz sind schriftlich zu erlassen
-und zuzustellen.
+(3) Verwaltungsakte nach diesem Gesetz sind schriftlich oder elektronisch
+zu erlassen.
 
 
 ### § 26 Gebühren und Auslagen
@@ -1003,4 +1005,3 @@ erfüllt.
 der Verkündung in Kraft.
 
 (2) Im Übrigen tritt dieses Gesetz am 1. Dezember 2007 in Kraft.
-

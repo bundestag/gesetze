@@ -929,8 +929,8 @@ Aufgaben nach § 24 Abs. 1 Anordnungen erlassen, die an bestimmte
 Personen oder an einen bestimmten Personenkreis gerichtet sind und ein
 Gebot oder Verbot enthalten (Strompolizeiliche Verfügungen).
 
-(2) Strompolizeiliche Verfügungen können mündlich, schriftlich oder
-durch Zeichen erlassen werden. Sie müssen inhaltlich hinreichend
+(2) Strompolizeiliche Verfügungen können mündlich, schriftlich, elektronisch
+oder durch Zeichen erlassen werden. Sie müssen inhaltlich hinreichend
 bestimmt sein. Schriftlich erlassene Verfügungen sind zu begründen.
 
 (3) Ist der nach § 25 Verantwortliche nicht oder nicht rechtzeitig zu

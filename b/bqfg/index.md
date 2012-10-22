@@ -184,7 +184,7 @@ entsprechende Absicht sprechen.
 
 (1) Antragsberechtigt ist jede Person, die im Ausland einen
 Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat. Der Antrag
-ist schriftlich bei der zuständigen Stelle zu stellen.
+ist bei der zuständigen Stelle zu stellen.
 
 (2) Die zuständige Stelle bestätigt der Antragstellerin oder dem
 Antragsteller innerhalb eines Monats den Eingang des Antrags
@@ -553,6 +553,7 @@ Verordnungen wird eine Bundesstatistik durchgeführt.
 Kalenderjahr folgende Erhebungsmerkmale:
 
 1.  Staatsangehörigkeit, Geschlecht, Datum der Antragstellung,
+    Wohnort des Antragstellers,
 
 
 2.  Ausbildungsstaat, deutscher Referenzberuf oder deutsche

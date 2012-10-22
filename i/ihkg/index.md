@@ -133,52 +133,49 @@ jährlich nach den Grundsätzen einer sparsamen und wirtschaftlichen
 Finanzgebarung unter pfleglicher Behandlung der Leistungsfähigkeit der
 Kammerzugehörigen aufzustellen und auszuführen.
 
-(3) Als Beiträge erhebt die Industrie- und Handelskammer Grundbeiträge
-und Umlagen. Der Grundbeitrag kann gestaffelt werden; dabei sollen
-insbesondere Art, Umfang  und Leistungskraft des Gewerbebetriebes
-berücksichtigt werden. Nicht in das Handelsregister eingetragene
-natürliche Personen und Personengesellschaften, deren Gewerbeertrag
+(3) Als Beiträge erhebt die Industrie- und Handelskammer Grundbeiträge und
+Umlagen. Der Grundbeitrag kann gestaffelt werden; dabei sollen insbesondere
+Art, Umfang  und Leistungskraft des Gewerbebetriebes berücksichtigt werden.
+Natürliche Personen und Personengesellschaften, die nicht in das
+Handelsregister eingetragen sind, und eingetragene Vereine, wenn nach Art
+oder Umfang ein in kaufmännischer Weise eingerichteter Geschäftsbetrieb nicht
+erforderlich ist, sind vom Beitrag freigestellt, soweit ihr Gewerbeertrag
 nach dem Gewerbesteuergesetz oder, soweit für das Bemessungsjahr ein
-Gewerbesteuermessbetrag nicht festgesetzt wird, deren nach dem
-Einkommensteuergesetz ermittelter Gewinn aus Gewerbebetrieb 5.200 Euro
-nicht übersteigt, sind vom Beitrag freigestellt. Die in Satz 3
-genannten natürlichen Personen sind, soweit sie in den letzten fünf
-Wirtschaftsjahren vor ihrer Betriebseröffnung weder Einkünfte aus
-Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger Arbeit
-erzielt haben, noch an einer Kapitalgesellschaft mittelbar oder
-unmittelbar zu mehr als einem Zehntel beteiligt waren, für das
-Geschäftsjahr einer Industrie- und Handelskammer, in dem die
-Betriebseröffnung erfolgt, und für das darauf folgende Jahr von der
-Umlage und vom Grundbeitrag sowie für das dritte und vierte Jahr von
-der Umlage befreit, wenn ihr Gewerbeertrag oder Gewinn aus
-Gewerbebetrieb 25.000 Euro nicht übersteigt. Wenn nach dem Stand der
-zum Zeitpunkt der Verabschiedung der Wirtschaftssatzung vorliegenden
-Bemessungsgrundlagen zu besorgen ist, dass bei einer Industrie- und
-Handelskammer die Zahl der Beitragspflichtigen, die einen Beitrag
-entrichten, durch die in den Sätzen 3 und 4 genannten
-Freistellungsregelungen auf weniger als 55 vom Hundert aller ihr
-zugehörigen Gewerbetreibenden sinkt, kann die Vollversammlung für das
-betreffende Geschäftsjahr eine entsprechende Herabsetzung der dort
-genannten Grenzen für den Gewerbeertrag oder den Gewinn aus
-Gewerbebetrieb beschließen. Wird für das Bemessungsjahr ein
-Gewerbesteuermeßbetrag festgesetzt, ist Bemessungsgrundlage für die
-Umlage der Gewerbeertrag nach dem Gewerbesteuergesetz, andernfalls der
-nach dem Einkommensteuer- oder Körperschaftsteuergesetz ermittelte
-Gewinn aus Gewerbebetrieb. Bei natürlichen Personen und bei
-Personengesellschaften ist die Bemessungsgrundlage um einen Freibetrag
-in Höhe von 15.340 Euro zu kürzen. Die Kammerzugehörigen sind
-verpflichtet, der Kammer Auskunft über die zur Festsetzung der
-Beiträge erforderlichen Grundlagen zu geben, soweit diese nicht
-bereits nach § 9 erhoben worden sind; die Kammer ist berechtigt, die
+Gewerbesteuermessbetrag nicht festgesetzt wird, ihr nach dem
+Einkommensteuergesetz ermittelter Gewinn aus Gewerbebetrieb 5 200 Euro nicht
+übersteigt. Die in Satz 3 genannten natürlichen Personen sind, soweit sie in
+den letzten fünf Wirtschaftsjahren vor ihrer Betriebseröffnung weder
+Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger
+Arbeit erzielt haben, noch an einer Kapitalgesellschaft mittelbar oder
+unmittelbar zu mehr als einem Zehntel beteiligt waren, für das Geschäftsjahr
+einer Industrie- und Handelskammer, in dem die Betriebseröffnung erfolgt, und
+für das darauf folgende Jahr von der Umlage und vom Grundbeitrag sowie für
+das dritte und vierte Jahr von der Umlage befreit, wenn ihr Gewerbeertrag
+oder Gewinn aus Gewerbebetrieb 25.000 Euro nicht übersteigt. Wenn nach dem
+Stand der zum Zeitpunkt der Verabschiedung der Wirtschaftssatzung
+vorliegenden Bemessungsgrundlagen zu besorgen ist, dass bei einer Industrie-
+und Handelskammer die Zahl der Beitragspflichtigen, die einen Beitrag
+entrichten, durch die in den Sätzen 3 und 4 genannten Freistellungsregelungen
+auf weniger als 55 vom Hundert aller ihr zugehörigen Gewerbetreibenden sinkt,
+kann die Vollversammlung für das betreffende Geschäftsjahr eine entsprechende
+Herabsetzung der dort genannten Grenzen für den Gewerbeertrag oder den Gewinn
+aus Gewerbebetrieb beschließen. Wird für das Bemessungsjahr ein
+Gewerbesteuermeßbetrag festgesetzt, ist Bemessungsgrundlage für die Umlage
+der Gewerbeertrag nach dem Gewerbesteuergesetz, andernfalls der nach dem
+Einkommensteuer- oder Körperschaftsteuergesetz ermittelte Gewinn aus
+Gewerbebetrieb. Bei natürlichen Personen und bei Personengesellschaften ist
+die Bemessungsgrundlage um einen Freibetrag in Höhe von 15.340 Euro zu
+kürzen. Die Kammerzugehörigen sind verpflichtet, der Kammer Auskunft über die
+zur Festsetzung der Beiträge erforderlichen Grundlagen zu geben, soweit diese
+nicht bereits nach § 9 erhoben worden sind; die Kammer ist berechtigt, die
 sich hierauf beziehenden Geschäftsunterlagen einzusehen.
-Kapitalgesellschaften, deren gewerbliche Tätigkeit sich in der
-Funktion eines persönlich haftenden Gesellschafters in nicht mehr als
-einer Personenhandelsgesellschaft erschöpft, kann ein ermäßigter
-Grundbeitrag eingeräumt werden, sofern beide Gesellschaften derselben
-Kammer zugehören. Gleiches gilt für Gesellschaften mit Sitz im Bezirk
-einer Kammer, deren sämtliche Anteile von einem im Handelsregister
-eingetragenen Unternehmen mit Sitz in derselben Kammer gehalten
-werden.
+Kapitalgesellschaften, deren gewerbliche Tätigkeit sich in der Funktion eines
+persönlich haftenden Gesellschafters in nicht mehr als einer
+Personenhandelsgesellschaft erschöpft, kann ein ermäßigter Grundbeitrag
+eingeräumt werden, sofern beide Gesellschaften derselben Kammer zugehören.
+Gleiches gilt für Gesellschaften mit Sitz im Bezirk einer Kammer, deren
+sämtliche Anteile von einem im Handelsregister eingetragenen Unternehmen mit
+Sitz in derselben Kammer gehalten werden.
 
 (4) Natürliche und juristische Personen und Personengesellschaften,
 die in der Handwerksrolle oder in dem Verzeichnis nach § 19 der
@@ -436,7 +433,7 @@ zulässig, soweit nicht die für die beteiligten Kammern oder
 Zusammenschlüsse geltenden besonderen Rechtsvorschriften dies
 ausschließen oder beschränken.
 
-(4) Die Regelungen dieses Gesetzes in § 1 Abs. 3a, § 3 Abs. 2, 6, 7a
+(4) Die Regelungen dieses Gesetzes in § 1 Abs. 3a, § 3 Absatz. 1, 2, 6, 7a
 und 8, § 4 Satz 1 und 2 Nr. 1 bis 5, 7 und 8 sowie in den §§ 6 und 7
 sind auf öffentlich-rechtliche Zusammenschlüsse entsprechend
 anzuwenden.
@@ -534,14 +531,7 @@ Industrie- und Handelskammern keine Anwendung.
 
 
 8.  die Befugnis der Industrie- und Handelskammern zur Führung eines
-    Dienstsiegels,
-
-
-9.  Zuständigkeit und Verfahren für die Bestellung von Ausschußmitgliedern
-    gemäß
-    § 8 Abs. 2 Satz 2.
-
-
+    Dienstsiegels.
 
 
 (2) Vor der Entscheidung über Maßnahmen nach Absatz 1 Nr. 1 und 2 sind

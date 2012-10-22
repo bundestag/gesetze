@@ -36,12 +36,7 @@ nicht zur Schiffsbesatzung.
 
 ### § 1a
 
-Soweit durch dieses Gesetz oder auf dessen Grundlage Schriftform
-angeordnet ist oder Zeugnisse, Bescheinigungen oder andere Dokumente
-auszuhändigen, mitzuführen oder vorzulegen sind, ist die elektronische
-Form ausgeschlossen, sofern nicht in diesem Gesetz oder in den zur
-seiner Durchführung erlassenen Rechtsverordnungen eine abweichende
-Regelung getroffen ist.
+(weggefallen)
 
 
 ### § 2

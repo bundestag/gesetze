@@ -3156,11 +3156,12 @@ Nr. L 46 S. 1) wird bestimmt:
 
 4.  die Luftfahrtunternehmen haben ihren Passagieren sowie dem Luftfahrt-
     Bundesamt auf Verlangen die für die Abwicklung von Ansprüchen und zur
-    Entgegennahme von Beschwerden verantwortliche Stelle im Unternehmen
-    mit allen notwendigen Kontaktangaben schriftlich mitzuteilen. Das
-    Luftfahrt-Bundesamt kann diese Angaben an Personen und Stellen, die
-    ein berechtigtes Interesse nachweisen, weitergeben. Die Verfolgung von
-    Ansprüchen und Beschwerden muss in deutscher Sprache möglich sein.
+    Entgegennahme von Beschwerden verantwortliche Stelle im Unternehmen mit allen
+    notwendigen Kontaktangaben schriftlich oder elektronisch mitzuteilen. Das
+    Luftfahrt-Bundesamt kann diese Angaben an Personen und Stellen, die ein
+    berechtigtes Interesse nachweisen, weitergeben. Die Verfolgung von Ansprüchen
+    und Beschwerden muss in deutscher Sprache möglich sein.
+
 
 
 

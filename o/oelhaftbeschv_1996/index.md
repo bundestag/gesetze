@@ -168,11 +168,7 @@ eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene
 
 ## § 4a
 
-Soweit durch diese Rechtsverordnung Schriftform angeordnet ist oder
-Zeugnisse, Bescheinigungen oder andere Dokumente ausgestellt werden,
-deren Ausstellung schriftlich zu beantragen ist, sie auszuhändigen,
-vorzulegen oder mitzuführen sind, ist die elektronische Form
-ausgeschlossen.
+(weggefallen)
 
 
 ## § 5 Pflichten des Eigentümers

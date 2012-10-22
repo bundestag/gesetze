@@ -431,17 +431,18 @@ technischen Durchführung von Bundesstatistiken dienen. Für andere
 Zwecke dürfen sie nur verwendet werden, soweit Absatz 2 oder ein
 sonstiges Gesetz es zulassen.
 
-(2) Der Name der Gemeinde, Blockseite und die geografische Gitterzelle
-dürfen für die regionale Zuordnung der Erhebungsmerkmale genutzt werden.
-Die übrigen Teile der Anschrift dürfen für die Zuordnung zu Blockseiten und
-geografischen Gitterzellen für einen Zeitraum bis zu vier Jahren nach Abschluss
-der jeweiligen Erhebung genutzt werden. Besondere Regelungen in einer eine Bundesstatistik anordnenden Rechtsvorschrift bleiben unberührt.
+(2) Der Name der Gemeinde, die Blockseite und die geografische Gitterzelle
+dürfen für die regionale Zuordnung der Erhebungsmerkmale genutzt werden. Die
+übrigen Teile der Anschrift dürfen für die Zuordnung zu Blockseiten und
+geografischen Gitterzellen für einen Zeitraum von bis zu vier Jahren nach
+Abschluss der jeweiligen Erhebung genutzt werden. Besondere Regelungen in
+einer eine Bundesstatistik anordnenden Rechtsvorschrift bleiben unberührt.
 
-(3) Blockseite ist innerhalb eines Gemeindegebiets die Seite mit
-gleicher Straßenbezeichnung von der durch Straßeneinmündungen oder
-vergleichbare Begrenzungen umschlossenen Fläche. Eine geografische
-Gitterzelle ist eine Gebietseinheit, die bezogen auf eine vorgegebene
-Kartenprojektion quadratisch und mindestens 1 Hektar groß ist.
+(3) Blockseite ist innerhalb eines Gemeindegebiets die Seite mit gleicher
+Straßenbezeichnung von der durch Straßeneinmündungen oder vergleichbare
+Begrenzungen umschlossenen Fläche. Eine geografische Gitterzelle ist eine
+Gebietseinheit, die bezogen auf eine vorgegebene Kartenprojektion quadratisch
+ist und mindestens 1 Hektar groß ist.
 
 
 ## § 11 Erhebungsvordrucke
@@ -464,16 +465,17 @@ Erhebungsvordrucken anzugeben.
 
 ## § 11a Elektronische Datenübermittlung
 
-(1) Soweit Stellen, die Aufgaben der öffentlichen Verwaltung wahrnehmen,
-Daten mittels standardisierter elektronischer Datenaustauschformate übermitteln,
-sind diese auch bei der Übermittlung der für eine Bundesstatistik zu erhebenden
-Daten zu verwenden. Ansonsten sind elektronische Verfahren nach Absprache
-der statistischen Ämter mit den betroffenen Stellen zu verwenden.
+(1) Soweit Stellen, die Aufgaben der öffentlichen Verwaltung wahrnehmen, Daten
+mittels standardisierter elektronischer Datenaustauschformate übermitteln,
+sinddiese auch bei der Übermittlung der für eine Bundesstatistik zu
+erhebenden Daten zu verwenden. Ansonsten sind elektronische Verfahren nach
+Absprache der statistischen Ämter mit den betroffenen Stellen zu verwenden.
 
 (2) Werden Betrieben und Unternehmen für die Übermittlung der für eine
 Bundesstatistik zu erhebenden Daten elektronische Verfahren zur Verfügung
-gestellt, sind diese verpflichtet, diese Verfahren zu nutzen. Zur Vermeidung
-unbilliger Härten kann die zuständige Stelle auf Antrag eine Ausnahme zulassen.
+gestellt, sind sie verpflichtet, diese Verfahren zu nutzen. Zur Vermeidung
+unbilliger Härten kann die zuständige Stelle auf Antrag eine Ausnahme
+zulassen.
 
 
 ## § 12 Trennung und Löschung der Hilfsmerkmale
@@ -547,12 +549,11 @@ und Erhebungsmerkmale aus Wirtschafts- und Umweltstatistiken bei
 Unternehmen, Betrieben und Arbeitsstätten sowie aus allgemein
 zugänglichen Quellen verwendet werden:
 
-1.  Namen und Anschriften sowie die Geokoordinaten der Erhebungseinheiten,
-    bei Unternehmen auch ihrer Teile sowie ihrer Bevollmächtigten für die
-    statistische Auskunftserteilung einschließlich der
-    Telekommunikationsanschlußnummern, bei Betrieben auch des
-    Unternehmenssitzes und der Hauptverwaltung sowie Namen der Inhaber
-    oder Leiter der Betriebe,
+1. Namen und Anschriften sowie die Geokoordinaten der Erhebungseinheiten, bei
+   Unternehmen auch ihrer Teile sowie ihrer Bevollmächtigten für die statistische
+   Auskunftserteilung einschließlich der Telekommunikationsanschlußnummern, bei
+   Betrieben auch des Unternehmenssitzes und der Hauptverwaltung sowie Namen der
+   Inhaber oder Leiter der Betriebe,
 
 
 2.  Rechtsform bei Unternehmen,
@@ -885,8 +886,14 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 15 Abs. 1 Satz 2, Abs. 2 und 3 Satz 1 eine Auskunft nicht, nicht
 richtig, nicht vollständig oder nicht rechtzeitig erteilt.
 
-(2) Ordnungswidrig handelt auch, wer entgegen § 11 Absatz 1 und
-§ 11a Absatz 2 die Auskünfte nicht in der vorgegebenen Form erteilt.
+(2) Ordnungswidrig handelt, wer
+
+    1. entgegen § 11 Absatz 1 eine Antwort nicht in der vorgeschriebenen Weise
+    erteilt oder
+
+    2. entgegen § 11a Absatz 2 Satz 1 ein dort genanntes Verfahren nicht
+    nutzt.
+
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
