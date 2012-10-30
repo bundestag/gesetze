@@ -114,7 +114,7 @@ Es handelt sich um insgesamt 310 Fragen, davon
 aus den Themenfeldern des Rahmencurriculums zum Einbürgerungskurs
 • „Leben in der Demokratie“,
 • „Geschichte und Verantwortung“,
-• „Mensch und Gesellschaft,
+• „Mensch und Gesellschaft“,
 und
 10 landesbezogene Fragen (Teil II),
 die nur für das jeweilige Bundesland zu beantworten sind.
