@@ -4689,7 +4689,7 @@ Bundesnetzagentur ihre Erkenntnisse den für den Vollzug der
 Gewerbeordnung zuständigen Stellen mit.
 
 
-#### § 66g Warteschleifen
+#### § 66g (zukünftig in Kraft)
 
 Tritt am 1.6.2013 in Kraft
 
