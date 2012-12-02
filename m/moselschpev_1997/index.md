@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1997, 1670
 
 Zuletzt geändert durch
-:   Art. 7 V v. 21.6.2012 II 618
+:   Art. 7 V v. 21.6.2012 II 618 (1144)
 
 
 ## Eingangsformel
