@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202 (2006 I 431) (2007 I 1781)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.7.2012 I 1577
+:   Art. 2 G v. 19.10.2012 I 2182
 
 
 ## Buch 1 - Allgemeine Vorschriften
@@ -392,21 +392,28 @@ die Anlage im Ausland belegen ist.
 
 ##### § 32b Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen
 
-(1) \*) Für Klagen, mit denen
+(1) Für Klagen, in denen
 
-1.  der Ersatz eines auf Grund falscher, irreführender oder unterlassener
-    öffentlicher Kapitalmarktinformationen verursachten Schadens oder
+1.  ein Schadensersatzanspruch wegen falscher, irreführender oder
+    unterlassener öffentlicher Kapitalmarktinformation,
 
 
-2.  ein Erfüllungsanspruch aus Vertrag, der auf einem Angebot nach dem
+2.  ein Schadensersatzanspruch wegen Verwendung einer falschen oder
+    irreführenden öffentlichen Kapitalmarktinformation oder wegen
+    Unterlassung der gebotenen Aufklärung darüber, dass eine öffentliche
+    Kapitalmarktinformation falsch oder irreführend ist, oder
+
+
+3.  ein Erfüllungsanspruch aus Vertrag, der auf einem Angebot nach dem
     Wertpapiererwerbs- und Übernahmegesetz beruht,
 
 
 
 geltend gemacht wird, ist das Gericht ausschließlich am Sitz des
 betroffenen Emittenten, des betroffenen Anbieters von sonstigen
-Vermögensanlagen oder der Zielgesellschaft zuständig. Dies gilt nicht,
-wenn sich dieser Sitz im Ausland befindet.
+Vermögensanlagen oder der Zielgesellschaft zuständig, wenn sich dieser
+Sitz im Inland befindet und die Klage zumindest auch gegen den
+Emittenten, den Anbieter oder die Zielgesellschaft gerichtet wird.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 die in Absatz 1 genannten Klagen einem Landgericht für die Bezirke
@@ -2646,7 +2653,11 @@ Sachverständige zum Gegenstand haben.
 ##### § 145 Prozesstrennung
 
 (1) Das Gericht kann anordnen, dass mehrere in einer Klage erhobene
-Ansprüche in getrennten Prozessen verhandelt werden.
+Ansprüche in getrennten Prozessen verhandelt werden. Eine
+Prozesstrennung ist nur zulässig, wenn eine gemeinsame Verhandlung und
+Entscheidung der erhobenen Ansprüche zu einer verzögerten Erledigung
+eines wesentlichen Teils des Rechtsstreits führen würde. Die
+Entscheidung ergeht durch Beschluss und ist zu begründen.
 
 (2) Das Gleiche gilt, wenn der Beklagte eine Widerklage erhoben hat
 und der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch

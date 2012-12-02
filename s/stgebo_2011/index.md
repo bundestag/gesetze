@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 1 V v. 31.8.2012 I 1889
+:   Art. 6 V v. 19.10.2012 I 2232
 
 
 ## Eingangsformel
@@ -1335,7 +1335,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001007140]
+[^F1.774775_01_BJNR009800011BJNE001009308]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -1723,10 +1723,10 @@ Gebühren der Behörden im Landesbereich
 *    *   221.1
 
     *
-    *   Zulassung, Änderung der Erkennungsnummer, Änderung des
-        Betriebszeitraums beim Saisonkennzeichen, Wechsel der Kennzeichenart,
-        wobei in diesen Fällen eine erneute Zulassungsgebühr oder eine Gebühr
-        nach Nummer 221.2, 221.6 oder 221.7 nicht zusätzlich anfällt
+    *   Zulassung, Änderung des Kennzeichens, Änderung des Betriebszeitraums
+        beim Saisonkennzeichen, Wechsel der Kennzeichenart, wobei in diesen
+        Fällen eine erneute Zulassungsgebühr oder eine Gebühr nach Nummer
+        221\.2, 221.6 oder 221.7 nicht zusätzlich anfällt
 
     *   26,30
 
@@ -2400,7 +2400,7 @@ Gebühren der Behörden im Landesbereich
 *    *   265
 
     *
-    *   Ausstellen eines Parkausweises für Anwohner
+    *   Ausstellen eines Parkausweises für Bewohner
 
     *   10,20 bis 30,70 pro Jahr
 
@@ -3849,7 +3849,7 @@ und der Sehteststellen
 
 *    *
     *
-    *[^F1.774775_02_BJNR009800011BJNE001007140]
+    *[^F1.774775_02_BJNR009800011BJNE001009308]
    Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV
 
     *
@@ -3863,18 +3863,18 @@ und der Sehteststellen
 
     *   Änderungsabnahme nach § 19 Absatz 3 StVZO
 
-    *[^F1.774775_04_BJNR009800011BJNE001007140]
+    *[^F1.774775_04_BJNR009800011BJNE001009308]
    Hauptuntersuchung (HU) nach § 29 StVZO
-[^F1.774775_05_BJNR009800011BJNE001007140]
-[^F1.774775_06_BJNR009800011BJNE001007140]
-[^F1.774775_07_BJNR009800011BJNE001007140]
-[^F1.774775_08_BJNR009800011BJNE001007140]
-[^F1.774775_09_BJNR009800011BJNE001007140]
+[^F1.774775_05_BJNR009800011BJNE001009308]
+[^F1.774775_06_BJNR009800011BJNE001009308]
+[^F1.774775_07_BJNR009800011BJNE001009308]
+[^F1.774775_08_BJNR009800011BJNE001009308]
+[^F1.774775_09_BJNR009800011BJNE001009308]
 
     *   Sicherheitsprüfung (SP) nach § 29 StVZO
 
 
-*    *[^F1.774775_03_BJNR009800011BJNE001007140]
+*    *[^F1.774775_03_BJNR009800011BJNE001009308]
    Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23
         StVZO
 
@@ -4531,22 +4531,22 @@ und der Sehteststellen
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001007140]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+[^F1.774775_01_BJNR009800011BJNE001009308]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
     EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F1.774775_02_BJNR009800011BJNE001007140]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F1.774775_02_BJNR009800011BJNE001009308]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F1.774775_03_BJNR009800011BJNE001007140]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F1.774775_03_BJNR009800011BJNE001009308]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
     zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F1.774775_04_BJNR009800011BJNE001007140]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F1.774775_04_BJNR009800011BJNE001009308]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -4554,11 +4554,11 @@ und der Sehteststellen
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F1.774775_05_BJNR009800011BJNE001007140]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F1.774775_05_BJNR009800011BJNE001009308]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F1.774775_06_BJNR009800011BJNE001007140]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F1.774775_06_BJNR009800011BJNE001009308]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
@@ -4568,13 +4568,13 @@ und der Sehteststellen
     Nummer 1.2.1.2 der Anlage VIII StVZO genannten Kraftfahrzeugen
     entfällt eine Überprüfung der Abgase nach Nummer 4.8.2 der Anlage
     VIIIa StVZO).
-[^F1.774775_07_BJNR009800011BJNE001007140]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+[^F1.774775_07_BJNR009800011BJNE001009308]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F1.774775_08_BJNR009800011BJNE001007140]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F1.774775_08_BJNR009800011BJNE001009308]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F1.774775_09_BJNR009800011BJNE001007140]: 
+[^F1.774775_09_BJNR009800011BJNE001009308]: 

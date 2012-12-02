@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2557
 
 Zuletzt geändert durch
-:   Art. 1b G v. 21.7.2012 I 1601
+:   Art. 9 G v. 23.10.2012 I 2246
 
 
 ## Erster Abschnitt - Aufgaben der landwirtschaftlichen Krankenkassen, versicherter Personenkreis
@@ -506,21 +506,29 @@ sind.
 ### § 9 Betriebshilfe
 
 (1) Nach § 2 versicherungspflichtige landwirtschaftliche Unternehmer
-erhalten anstelle von Krankengeld Betriebshilfe nach Maßgabe der
-folgenden Absätze.
+erhalten anstelle von Krankengeld oder Mutterschaftsgeld Betriebshilfe
+nach Maßgabe der folgenden Absätze.
 
 (2) Betriebshilfe wird während der Krankenhausbehandlung des
 landwirtschaftlichen Unternehmers oder während einer medizinischen
-Kurmaßnahme nach § 23 Abs. 2 oder 4, § 24, § 40 Abs. 1 oder 2 oder §
-41 des Fünften Buches Sozialgesetzbuch gewährt, wenn in dem
-Unternehmen keine Arbeitnehmer und keine versicherungspflichtigen
-mitarbeitenden Familienangehörigen ständig beschäftigt werden.
-Betriebshilfe wird für längstens drei Monate gewährt, soweit die
-Satzung nicht längere Zeiten vorsieht.
+Vorsorge- oder Rehabilitationsleistung nach § 23 Abs. 2 oder 4, § 24,
+§ 40 Abs. 1 oder 2 oder § 41 des Fünften Buches Sozialgesetzbuch
+gewährt, wenn in dem Unternehmen keine Arbeitnehmer und keine
+versicherungspflichtigen mitarbeitenden Familienangehörigen ständig
+beschäftigt werden. Betriebshilfe wird für längstens drei Monate
+gewährt, soweit die Satzung nicht längere Zeiten vorsieht.
 
 (3) Die Satzung kann bestimmen, daß Betriebshilfe während einer
 Krankheit auch gewährt wird, wenn die Bewirtschaftung des Unternehmens
 gefährdet ist.
+
+(3a) Die Satzung kann bestimmen, dass anstelle von Mutterschaftsgeld
+Betriebshilfe während der Schwangerschaft und bis zum Ablauf von acht
+Wochen nach der Entbindung, nach Mehrlings- und Frühgeburten bis zum
+Ablauf von zwölf Wochen nach der Entbindung, gewährt wird, wenn die
+Bewirtschaftung des Unternehmens gefährdet ist. Bei Frühgeburten und
+sonstigen vorzeitigen Entbindungen ist § 6 Absatz 1 Satz 2 des
+Mutterschutzgesetzes entsprechend anzuwenden.
 
 (4) Die Satzung kann die Betriebshilfe erstrecken auf
 
@@ -545,14 +553,15 @@ Unternehmer Haushaltshilfe gewährt wird, wenn dem Versicherten, dem
 Ehegatten oder dem Lebenspartner des Versicherten oder dem
 versicherten mitarbeitenden Familienangehörigen, letzterem, sofern er
 die Aufgaben des versicherten landwirtschaftlichen Unternehmers
-ständig wahrnimmt, wegen Krankheit oder einer medizinischen
-Kurmaßnahme nach § 23 Abs. 2 oder 4, § 24, § 40 Abs. 1 oder 2 oder §
-41 des Fünften Buches Sozialgesetzbuch die Weiterführung des Haushalts
-nicht möglich und diese auf andere Weise nicht sicherzustellen ist.
+ständig wahrnimmt, wegen Krankheit, einer medizinischen Vorsorge- oder
+Rehabilitationsleistung nach § 23 Absatz 2 oder 4, den §§ 24, 40
+Absatz 1 oder 2 oder § 41 des Fünften Buches Sozialgesetzbuch,
+Schwangerschaft oder Entbindung die Weiterführung des Haushalts nicht
+möglich und diese auf andere Weise nicht sicherzustellen ist.
 
 (2) Für die sonstigen in der landwirtschaftlichen Krankenversicherung
-Versicherten mit eigenem Haushalt gilt § 38 des Fünften Buches
-Sozialgesetzbuch.
+Versicherten mit eigenem Haushalt gelten die §§ 24h und 38 des Fünften
+Buches Sozialgesetzbuch.
 
 
 ### § 11 Ersatzkraft bei Betriebs- und Haushaltshilfe
@@ -623,9 +632,40 @@ gezahltes Arbeitsentgelt (§ 23a des Vierten Buches Sozialgesetzbuch).
 gelten entsprechend.
 
 
-### § 14
+### § 14 Mutterschaftsgeld
 
--
+(1) Mutterschaftsgeld nach § 24i des Fünften Buches Sozialgesetzbuch
+erhalten
+
+1.  versicherungspflichtige mitarbeitende Familienangehörige, die
+    rentenversicherungspflichtig sind, und
+
+
+2.  sonstige Mitglieder, die die Voraussetzungen des § 24i Absatz 2 des
+    Fünften Buches Sozialgesetzbuch erfüllen.
+
+
+
+
+(2) Mutterschaftsgeld in Höhe des Krankengeldes erhalten unter den
+Voraussetzungen des § 24i Absatz 3 und 4 des Fünften Buches
+Sozialgesetzbuch
+
+1.  versicherungspflichtige mitarbeitende Familienangehörige, die
+    rentenversicherungspflichtig sind, jedoch die Voraussetzungen für den
+    Bezug des Mutterschaftsgeldes nach § 24i Absatz 2 des Fünften Buches
+    Sozialgesetzbuch nicht erfüllen,
+
+
+2.  mitarbeitende Familienangehörige, die nicht
+    rentenversicherungspflichtig sind, und
+
+
+3.  die in § 2 Absatz 1 Nummer 6 in Verbindung mit § 5 Absatz 1 Nummer 2
+    des Fünften Buches Sozialgesetzbuch genannten Personen.
+
+
+
 
 
 ## Dritter Abschnitt - Beziehungen der Krankenkassen zu den Leistungserbringern

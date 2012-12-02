@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2748
 
 Zuletzt geändert durch
-:   Art. 1 G v. 10.9.2012 I 1878
+:   Art. 10 G v. 23.10.2012 I 2246
 
 
 ## Abschnitt 1 - Elterngeld
@@ -262,8 +262,8 @@ unberücksichtigt, in denen die berechtigte Person
 
 2.  während der Schutzfristen nach § 3 Absatz 2 oder § 6 Absatz 1 des
     Mutterschutzgesetzes nicht beschäftigt werden durfte oder
-    Mutterschaftsgeld nach der Reichsversicherungsordnung oder dem Gesetz
-    über die Krankenversicherung der Landwirte bezogen hat,
+    Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem
+    Zweiten Gesetz über die Krankenversicherung der Landwirte bezogen hat,
 
 
 3.  eine Krankheit hatte, die maßgeblich durch eine Schwangerschaft
@@ -480,8 +480,8 @@ Beitragsbemessungsgrundlagen werden nicht berücksichtigt.
 Verbindung mit § 2a zustehende Elterngeld werden folgende Einnahmen
 angerechnet:
 
-1.  Mutterschaftsleistungen in Form des Mutterschaftsgeldes nach der
-    Reichsversicherungsordnung oder nach dem Gesetz über die
+1.  Mutterschaftsleistungen in Form des Mutterschaftsgeldes nach dem
+    Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die
     Krankenversicherung der Landwirte mit Ausnahme des Mutterschaftsgeldes
     nach § 13 Absatz 2 des Mutterschutzgesetzes oder des Zuschusses zum
     Mutterschaftsgeld nach § 14 des Mutterschutzgesetzes, die der
@@ -1294,13 +1294,26 @@ gelten entsprechend.
 
 (1) Für die vor dem 1. Januar 2013 geborenen oder mit dem Ziel der
 Adoption aufgenommenen Kinder sind die Vorschriften dieses Gesetzes in
-der bis zum 31. Dezember 2012 geltenden Fassung weiter anzuwenden.
+der bis zum 16. September 2012 geltenden Fassung weiter anzuwenden.
+Soweit das Gesetz in der bis zum 16. September 2012 geltenden Fassung
+Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem
+Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt,
+gelten die betreffenden Regelungen für Mutterschaftsgeld nach dem
+Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die
+Krankenversicherung der Landwirte entsprechend.
 
 (1a) Bei der Ermittlung des Überschusses der Einnahmen über die
 Werbungskosten nach § 2 Absatz 7 Satz 1 ist für die vor dem 1. Januar
 2012 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder §
 9a Satz 1 Nummer 1 Buchstabe a des Einkommensteuergesetzes in der am
 4\. November 2011 geltenden Fassung anzuwenden.
+
+(1b) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch
+Sozialgesetzbuch oder nach dem Zweiten Gesetz über die
+Krankenversicherung der Landwirte in Bezug nimmt, gelten die
+betreffenden Regelungen für Mutterschaftsgeld nach der
+Reichsversicherungsordnung oder nach dem Gesetz über die
+Krankenversicherung der Landwirte entsprechend.
 
 (2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder
 sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis

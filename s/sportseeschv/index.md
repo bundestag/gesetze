@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 3.3.1998 I 394;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.4.2010 I 399
+:   Art. 7 V v. 2.10.2012 I 2102
 
 
 ## § 1 Anwendungsbereich
@@ -625,6 +625,15 @@ unterrichtet. Über die Wiederaushändigung des
 Sportküstenschifferscheins, des Sportseeschifferscheins oder des
 Sporthochseeschifferscheins entscheidet die Wasser- und
 Schiffahrtsdirektion Nordwest.
+
+(1a) Wird ein Fahrverbot nach § 8a der
+Sportbootführerscheinverordnung-See ausgesprochen, so ist gleichzeitig
+ein entsprechendes Fahrverbot gegen den Inhaber eines
+Sportküstenschifferscheins, eines Sportseeschifferscheins und eines
+Sporthochseeschifferscheins zu verhängen; die jeweilige Urkunde ist
+vom Inhaber unverzüglich bei der Wasser- und Schifffahrtsdirektion
+Nordwest zu hinterlegen, die hiervon die Zentrale Verwaltungsstelle
+unterrichtet.
 
 (2) Ein Sportküstenschifferschein, Sportseeschifferschein,
 Sporthochseeschifferschein, Zusatzeintrag oder Befähigungsnachweis für

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 3457
 
 Zuletzt geändert durch
-:   Art. 34 G v. 8.11.2011 I 2178
+:   Art. 5 V v. 2.10.2012 I 2102
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -355,21 +355,23 @@ Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 Inbetriebnahme auf der Innenseite deutlich sicht- und lesbar Name und
 Wohnsitz oder Sitz des Unternehmers und die von der Zulassungsbehörde
 festgesetzte höchstzulässige Anzahl der zu befördernden Personen
-anbringen. Er muss bis zu diesem Zeitpunkt an den Außenseiten des Bugs
-der Sportboote die deutlich sicht- und lesbaren, mindestens zehn
-Zentimeter hohen Buchstaben des amtlichen Kraftfahrzeugkennzeichens
-des Ortes der Zulassungsbehörde und eine von der Zulassungsbehörde
-bestimmte Nummer anbringen. Die Sätze 1 und 2 gelten nicht für
-vermietete Sportboote, die aufgrund anderer schifffahrtspolizeilicher
-Vorschriften des Bundes oder der Länder gekennzeichnet sind. Für die
-Bezeichnung der vermieteten Sportboote mit ihrem Namen und dem Namen
-des Heimathafens gelten die Vorschriften des Flaggenrechtsgesetzes in
-der Fassung der Bekanntmachung vom 26. Oktober 1994 (BGBl. I S. 3140),
-zuletzt geändert durch Artikel 25 des Gesetzes vom 15. Dezember 2001
-(BGBl. I S. 3762), und der Flaggenrechtsverordnung vom 4. Juli 1990
-(BGBl. I S. 1389), zuletzt geändert durch Artikel 442 der Verordnung
-vom 29. Oktober 2001 (BGBl. I S. 2785), in der jeweils geltenden
-Fassung.
+anbringen. Er muss bis zu diesem Zeitpunkt in mindestens zehn
+Zentimeter hohen lateinischen Buchstaben und arabischen Ziffern
+dauerhaft in heller Farbe auf dunklem Grund oder dunkler Farbe auf
+hellem Grund an den beiden Bug- oder Heckseiten oder am Spiegelheck
+der Sportboote die Buchstaben des Unterscheidungszeichens für den
+Verwaltungsbezirk des Ortes der Zulassungsbehörde und eine von der
+Zulassungsbehörde bestimmte Nummer anbringen. Die Sätze 1 und 2 gelten
+nicht für vermietete Sportboote, die aufgrund anderer
+schifffahrtspolizeilicher Vorschriften des Bundes oder der Länder
+gekennzeichnet sind. Für die Bezeichnung der vermieteten Sportboote
+mit ihrem Namen und dem Namen des Heimathafens gelten die Vorschriften
+des Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26.
+Oktober 1994 (BGBl. I S. 3140), zuletzt geändert durch Artikel 25 des
+Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762), und der
+Flaggenrechtsverordnung vom 4. Juli 1990 (BGBl. I S. 1389), zuletzt
+geändert durch Artikel 442 der Verordnung vom 29. Oktober 2001 (BGBl.
+I S. 2785), in der jeweils geltenden Fassung.
 
 (2) An vermieteten Wassermotorrädern muss der Unternehmer vor
 Inbetriebnahme deutlich sicht- und lesbar Name und Wohnsitz oder Sitz
@@ -454,13 +456,13 @@ Sportbootes zu Ausbildungszwecken erforderlich ist und der Gebrauch
 des Sportbootes unter der Aufsicht einer Person erfolgt, die
 mindestens 18 Jahre alt und Schwimmer ist.
 
-(3) Ein Sportboot, dessen größte nicht überschreitbare Nutzleistung an
-der Schraubenwelle mehr als 3,68 Kilowatt beträgt, darf der
-Unternehmer im Inland nur an Personen übergeben, die über die nach § 1
-der Sportbootführerscheinverordnung-See vom 20. Dezember 1973 (BGBl. I
-S. 1988), die zuletzt durch Artikel 434 der Verordnung vom 29. Oktober
-2001 (BGBl. I S. 2785) geändert worden ist, in der jeweils geltenden
-Fassung erforderliche Fahrerlaubnis verfügen.
+(3) Ein Sportboot, das mit einem Motorantrieb ausgerüstet ist, oder
+ein Wassermotorrad darf der Unternehmer nur an Personen übergeben, die
+nach der Sportbootführerscheinverordnung-See in der Fassung der
+Bekanntmachung vom 19. März 2003 (BGBl. I S. 367), die zuletzt durch
+Artikel 2 der Verordnung vom 2. Oktober 2012 (BGBl. I S. 2102)
+geändert worden ist, in der jeweils geltenden Fassung zum Führen eines
+Sportbootes oder Wassermotorrads berechtigt sind.
 
 (4) Kleine Sportboote dürfen nicht bei Nacht, unsichtigem Wetter,
 Sturm oder aufziehendem Gewitter zur umgehenden Benutzung übergeben

@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 2001, 1006, 1008
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.10.2007 I 2494
+:   Art. 6 V v. 10.10.2012 I 2113
 
-Stand: Aufhebung der Befristung gem. Art. 2 V v. 22.10.2007 I 2494 ist berücksichtigt
 Diese Verordnung dient der Umsetzung der Richtlinie 98/57/EG desRates
 vom 20. Juli 1998 zur Bekämpfung von Ralstonia solanacearum(Smith)
 Yabuuchi et al. (ABl. EG Nr. L 235 S. 1).
@@ -979,12 +978,18 @@ unberührt.
 
 ### § 14 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 Abs. 1 oder 3 Satz 1, auch in Verbindung mit Satz 2, eine
     Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
     erstattet,
+
+
+1a. einer vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1, § 6 Absatz 4
+    Satz 1 oder Absatz 5 Satz 3, § 8 Absatz 3, § 9 Absatz 3 oder § 10
+    Absatz 7 Satz 2, auch in Verbindung mit § 11 Absatz 7 Satz 2,
+    zuwiderhandelt,
 
 
 2.  entgegen § 6 Abs. 1 Satz 1, 2 oder 3 Nr. 1 oder 2, oder Abs. 2 Satz 1,
@@ -1050,27 +1055,16 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 12. entgegen § 11 Abs. 4 Satz 1 Nr. 1 Buchstabe a oder Nr. 2 Buchstabe a
-    Kartoffeln oder Tomatenpflanzen erzeugt oder
+    Kartoffeln oder Tomatenpflanzen erzeugt,
 
 
 13. ohne Genehmigung nach § 11 Abs. 5 Satz 1 Nr. 2 Bewässerungs- und
-    Beregnungsmaßnahmen durchführt.
+    Beregnungsmaßnahmen durchführt oder
+
+
+14. einer vollziehbaren Auflage nach § 11 Absatz 5 Satz 2 oder § 13 Absatz
+    3 Satz 3 zuwiderhandelt.
 
 
 
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  einer vollziehbaren Anordnung nach § 3 Abs. 1 Satz 1, § 6 Abs. 4 Satz
-    1 oder Abs. 5 Satz 3, § 8 Abs. 3, § 9 Abs. 3, § 10 Abs. 7 Satz 2, auch
-    in Verbindung mit § 11 Abs. 7 Satz 2, oder
-
-
-2.  einer vollziehbaren Auflage nach § 11 Abs. 5 Satz 2 oder § 13 Abs. 3
-    Satz 3
-
-
-
-zuwiderhandelt.
 

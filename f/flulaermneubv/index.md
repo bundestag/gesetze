@@ -3818,8 +3818,7 @@ Der Bundesminister des Innern
 
 
 
-## Anlage 2 (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Neuburg a.d. Donau)
+## Anlage 2 (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Neuburg a. d. Donau)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1983, 1367 - 1368)
-
+   (Fundstelle: BGBl. I 1983, 1367 - 1368)
+![bgbl1_1983_j1367_0010.jpg](bgbl1_1983_j1367_0010.jpg)![bgbl1_1983_j1368_0010.jpg](bgbl1_1983_j1368_0010.jpg)

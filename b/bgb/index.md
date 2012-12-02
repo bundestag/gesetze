@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 10.5.2012 I 1084
+:   Art. 7 G v. 19.10.2012 I 2182
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -2525,6 +2525,14 @@ Monate nach dem Ende der Hemmung ein.
 6.  die Zustellung der Streitverkündung,
 
 
+6a. die Zustellung der Anmeldung zu einem Musterverfahren für darin
+    bezeichnete Ansprüche, soweit diesen der gleiche Lebenssachverhalt
+    zugrunde liegt wie den Feststellungszielen des Musterverfahrens und
+    wenn innerhalb von drei Monaten nach dem rechtskräftigen Ende des
+    Musterverfahrens die Klage auf Leistung oder Feststellung der in der
+    Anmeldung bezeichneten Ansprüche erhoben wird,
+
+
 7.  die Zustellung des Antrags auf Durchführung eines selbständigen
     Beweisverfahrens,
 
@@ -2578,8 +2586,8 @@ des Gerichts oder der sonst mit dem Verfahren befassten Stelle. Die
 Hemmung beginnt erneut, wenn eine der Parteien das Verfahren weiter
 betreibt.
 
-(3) Auf die Frist nach Absatz 1 Nr. 9, 12 und 13 finden die §§ 206,
-210 und 211 entsprechende Anwendung.
+(3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§
+206, 210 und 211 entsprechende Anwendung.
 
 
 ##### § 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht

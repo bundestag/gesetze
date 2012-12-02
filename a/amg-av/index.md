@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2775
 
+Geändert durch
+:   Art. 9 G v. 19.10.2012 I 2192
+
 
 
 ## Eingangsformel
@@ -32,7 +35,7 @@ Landwirtschaft:
 
 Zweck dieser Verordnung ist die Festlegung von Regelungen zur
 elektronischen Anzeige von Verdachtsfällen schwerwiegender
-Nebenwirkungen von Arzneimitteln gemäß den Anzeigepflichten nach § 63b
+Nebenwirkungen von Arzneimitteln gemäß den Anzeigepflichten nach 63h
 des Arzneimittelgesetzes und § 13 der GCP-Verordnung
 (Einzelfallberichte).
 

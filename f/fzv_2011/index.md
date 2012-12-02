@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 139
 
 Zuletzt geändert durch
-:   Art. 3 V v. 10.5.2012 I 1086
+:   Art. 1 V v. 19.10.2012 I 2232
 
 [^f774780_01_BJNR013900011]:     Diese Verordnung dient der Umsetzung der Richtlinie 1999/37/EG des
     Rates vom 29. April 1999 über Zulassungsdokumente für Fahrzeuge (ABl.
@@ -316,7 +316,9 @@ Ausfertigung einer Zulassungsbescheinigung.
     f)  vierrädrige Leichtkraftfahrzeuge,
 
 
-    g)  Elektronische Mobilitätshilfen,
+    g)  Elektronische Mobilitätshilfen im Sinne des § 1 Absatz 1 der
+        Mobilitätshilfenverordnung vom 16. Juli 2009 (BGBl. I S. 2097) in der
+        jeweils geltenden Fassung,
 
 
 
@@ -326,9 +328,8 @@ Ausfertigung einer Zulassungsbescheinigung.
 
     a)  Anhänger in land- oder forstwirtschaftlichen Betrieben, wenn die
         Anhänger nur für land- oder forstwirtschaftliche Zwecke verwendet und
-        mit einer Geschwindigkeit von nicht mehr als
-        25 km/h                          hinter Zugmaschinen oder
-        selbstfahrenden Arbeitsmaschinen mitgeführt werden,
+        mit einer Geschwindigkeit von nicht mehr als 25 km/h hinter
+        Zugmaschinen oder selbstfahrenden Arbeitsmaschinen mitgeführt werden,
 
 
     b)  Wohnwagen und Packwagen im Schaustellergewerbe, die von Zugmaschinen
@@ -343,16 +344,18 @@ Ausfertigung einer Zulassungsbescheinigung.
     d)  Arbeitsmaschinen,
 
 
-    e)  Spezialanhänger zur Beförderung von Sportgeräten oder Tieren für
-        Sportzwecke, wenn die Anhänger ausschließlich für solche Beförderungen
-        verwendet werden,
+    e)  Spezialanhänger zur Beförderung von Sportgeräten, Tieren für
+        Sportzwecke oder Rettungsbooten des Rettungsdienstes oder
+        Katastrophenschutzes, wenn die Anhänger ausschließlich für solche
+        Beförderungen verwendet werden,
 
 
     f)  einachsige Anhänger hinter Krafträdern, Kleinkrafträdern und
         motorisierten Krankenfahrstühlen,
 
 
-    g)  Anhänger für Feuerlöschzwecke,
+    g)  Anhänger für den Einsatzzweck der Feuerwehren und des
+        Katastrophenschutzes,
 
 
     h)  land- oder forstwirtschaftliche Arbeitsgeräte,
@@ -538,7 +541,7 @@ einem Typ entspricht, für den eine EG-Typgenehmigung vorliegt, durch
 Vorlage der Übereinstimmungsbescheinigung zu führen. Der Nachweis,
 dass das Fahrzeug einem Typ entspricht, für den eine nationale
 Typgenehmigung vorliegt, ist durch Vorlage der Zulassungsbescheinigung
-Teil II, in der eine Typ- sowie Varianten-/Versions schlüsselnummer
+Teil II, in der eine Typ- sowie Varianten-/Versionsschlüsselnummer
 nach § 20 Absatz 3a Satz 6 der Straßenverkehrs-Zulassungs-Ordnung
 eingetragen ist, oder durch die nach § 20 Absatz 3a Satz 1 der
 Straßenverkehrs-Zulassungs-Ordnung vorgeschriebene Datenbestätigung zu
@@ -551,11 +554,7 @@ die Bescheinigung über die Einzelgenehmigung vorzulegen.
 (4) Im Antrag sind zur Speicherung in den Fahrzeugregistern folgende
 Fahrzeugdaten anzugeben und auf Verlangen nachzuweisen:
 
-1.  regelmäßiger Standort des Fahrzeugs, sofern dieser nicht mit dem
-    Wohnsitz oder Sitz des Halters identisch ist;
-
-
-2.  die Verwendung des Fahrzeugs als Taxi, als Mietwagen, zur Vermietung
+1.  die Verwendung des Fahrzeugs als Taxi, als Mietwagen, zur Vermietung
     an Selbstfahrer, im freigestellten Schülerverkehr, als Kraftomnibus
     oder Oberleitungsomnibus im Linienverkehr oder eine sonstige
     Verwendung, soweit sie nach § 13 Absatz 2 dieser Verordnung oder einer
@@ -564,12 +563,12 @@ Fahrzeugdaten anzugeben und auf Verlangen nachzuweisen:
     Zulassungsbescheinigung Teil I einzutragen ist;
 
 
-3.  Name und Anschrift des Verfügungsberechtigten über die
+2.  Name und Anschrift des Verfügungsberechtigten über die
     Zulassungsbescheinigung Teil II, sofern eine solche ausgefertigt
     worden ist;
 
 
-4.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+3.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
 
     a)  Name und Anschrift oder Schlüsselnummer des Versicherers,
 
@@ -587,7 +586,7 @@ Fahrzeugdaten anzugeben und auf Verlangen nachzuweisen:
 
 
 
-5.  Name und Anschrift des Empfangsbevollmächtigten im Sinne des § 46
+4.  Name und Anschrift des Empfangsbevollmächtigten im Sinne des § 46
     Absatz 2 Satz 2 oder Name und Anschrift des gesetzlichen oder
     benannten Vertreters.
 
@@ -728,15 +727,22 @@ Wirtschaftsraum in Betrieb waren, ist vor der Zulassung eine
 Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
 durchzuführen, wenn bei Anwendung der Anlage VIII Abschnitt 2 der
 Straßenverkehrs-Zulassungs-Ordnung zwischenzeitlich eine Untersuchung
-hätte stattfinden müssen. Der Antragsteller hat nachzuweisen, wann das
-Fahrzeug in einem Mitgliedstaat der Europäischen Union oder in einem
-anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum erstmals in Betrieb genommen worden ist. Kann dieser
-Nachweis nicht erbracht werden, ist vor der Zulassung eine
-Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
-durchzuführen. Die Sätze 1 bis 3 gelten entsprechend für die
-Durchführung einer vorgeschriebenen Abgasuntersuchung nach § 47a der
-Straßenverkehrs-Zulassungs-Ordnung.
+hätte stattfinden müssen. Satz 1 gilt nicht, wenn eine Untersuchung im
+Sinne der Richtlinie 2009/40/EG des Europäischen Parlaments und des
+Rates vom 6. Mai 2009 über die technische Überwachung der
+Kraftfahrzeuge und Kraftfahrzeuganhänger (Neufassung) (ABl. L 141 vom
+6\.6.2009, S. 12) in der jeweils geltenden Fassung in einem anderen
+Mitgliedstaat der Europäischen Union oder in einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in
+dem das Fahrzeug in Betrieb war, nachgewiesen wird. Hinsichtlich der
+Frist für die nächste Hauptuntersuchung gilt Abschnitt 2 der Anlage
+VIII der Straßenverkehrs-Zulassungs-Ordnung. Der Antragsteller hat
+nachzuweisen, wann das Fahrzeug in einem Mitgliedstaat der
+Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum erstmals in Betrieb genommen
+worden ist. Kann dieser Nachweis nicht erbracht werden, ist vor der
+Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-
+Ordnung durchzuführen.
 
 (2) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung
 einzuziehen und mindestens sechs Monate aufzubewahren. Sie hat das
@@ -756,19 +762,26 @@ wurde.
 einem Staat außerhalb der Europäischen Union oder des Europäischen
 Wirtschaftsraums in Betrieb waren, ist vor der Zulassung in jedem Fall
 eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
-und, sofern vorgeschrieben, eine Abgasuntersuchung nach § 47a der
-Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
+durchzuführen.
 
 
 ### § 8 Zuteilung von Kennzeichen
 
-(1) Die Zulassungsbehörde teilt dem Fahrzeug ein Kennzeichen zu. Es
-besteht aus einem Unterscheidungszeichen für den Verwaltungsbezirk und
-einer Erkennungsnummer. Die Unterscheidungszeichen sind nach Maßgabe
-der Anlage 1 zu vergeben. Die Erkennungsnummer wird nach Anlage 2
-bestimmt. Fahrzeuge der Bundes- und Landesorgane, des Diplomatischen
-Corps und bevorrechtigter Internationaler Organisationen erhalten
-besondere Kennzeichen nach Anlage 3; die Erkennungsnummern dieser
+(1) Die nach Landesrecht zuständige Behörde (Zulassungsbehörde) teilt
+dem Fahrzeug ein Kennzeichen zu, um eine Identifizierung des Halters
+zu ermöglichen. Das Kennzeichen besteht aus einem
+Unterscheidungszeichen (ein bis drei Buchstaben) für den
+Verwaltungsbezirk, in dem das Fahrzeug zugelassen ist, und einer auf
+das einzelne Fahrzeug bezogenen Erkennungsnummer. Die
+Zeichenkombination der Erkennungsnummer sowie die Kombination aus
+Unterscheidungszeichen und Erkennungsnummer dürfen nicht gegen die
+guten Sitten verstoßen. Die Erkennungsnummer bestimmt sich nach Anlage
+2\. Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der
+Bundesfinanzverwaltung, der Bundespolizei, der Wasser- und
+Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches
+Hilfswerk, der Bundeswehr, des Diplomatischen Corps und
+bevorrechtigter Internationaler Organisationen können besondere
+Kennzeichen nach Anlage 3 erhalten; die Erkennungsnummern dieser
 Fahrzeuge bestehen nur aus Zahlen; die Zahlen dürfen nicht mehr als
 sechs Stellen haben.
 
@@ -802,9 +815,23 @@ abgestellt werden, wenn an ihm das Wechselkennzeichen vollständig mit
 dem gemeinsamen Kennzeichenteil und seinem fahrzeugbezogenen Teil
 angebracht ist. § 16 Absatz 1 bleibt unberührt.
 
-(2) Die Zulassungsbehörde kann die zugeteilte Erkennungsnummer von
-Amts wegen oder auf Antrag ändern und hierzu die Vorführung des
-Fahrzeugs anordnen.
+(2) Die Unterscheidungszeichen der Verwaltungsbezirke werden auf
+Antrag der Länder vom Bundesministerium für Verkehr, Bau und
+Stadtentwicklung festgelegt oder aufgehoben. Die Buchstabenkombination
+des Unterscheidungszeichens darf nicht gegen die guten Sitten
+verstoßen. Es kann auch die Festlegung von mehr als einem
+Unterscheidungszeichen für einen Verwaltungsbezirk beantragt werden.
+Für die am 1. November 2012 bestehenden Verwaltungsbezirke dürfen nur
+die Unterscheidungszeichen beantragt werden, die bis zum 25. Oktober
+2012 vergeben worden sind. Die Festlegung und Aufhebung der
+Unterscheidungszeichen wird im Bundesanzeiger veröffentlicht.
+Kennzeichen, deren Unterscheidungszeichen aufgehoben sind, dürfen bis
+zur Außerbetriebsetzung des betroffenen Fahrzeugs weitergeführt
+werden.
+
+(3) Die Zulassungsbehörde kann das zugeteilte Kennzeichen von Amts
+wegen oder auf Antrag ändern und hierzu die Vorführung des Fahrzeugs
+anordnen.
 
 
 ### § 9 Besondere Kennzeichen
@@ -814,7 +841,12 @@ der Straßenverkehrs-Zulassungs-Ordnung vorliegt, ein
 Oldtimerkennzeichen zugeteilt. Dieses Kennzeichen besteht aus einem
 Unterscheidungszeichen und einer Erkennungsnummer nach § 8 Absatz 1.
 Es wird als Oldtimerkennzeichen durch den Kennbuchstaben „H“ hinter
-der Erkennungsnummer ausgewiesen.
+der Erkennungsnummer ausgewiesen. Die nach Landesrecht zuständige
+Behörde (Zulassungsbehörde) kann im Einzelfall bei der Berechnung des
+in § 2 Nummer 22 geforderten Mindestzeitraums bestimmte vor dem
+Zeitpunkt des erstmaligen Inverkehrbringens liegende Zeiten, in denen
+das Fahrzeug außerhalb des öffentlichen Straßenverkehrs in Betrieb
+genommen wurde, anrechnen.
 
 (2) Bei Fahrzeugen, deren Halter von der Kraftfahrzeugsteuer befreit
 ist, ist abweichend von § 10 Absatz 1 ein Kennzeichen mit grüner
@@ -842,10 +874,10 @@ ausgenommen hiervon sind:
 
 
 6.  besonders emissionsreduzierte Kraftfahrzeuge im Sinne des
-    Kraftfahrzeugsteuergesetzes,
+    Kraftfahrzeugsteuergesetzes und
 
 
-7.  Fahrzeuge mit einem Ausfuhrkennzeichen nach § 19 und
+7.  (weggefallen)
 
 
 8.  Fahrzeuge mit einem Wechselkennzeichen nach § 8 Absatz 1a.
@@ -854,9 +886,7 @@ ausgenommen hiervon sind:
 
 Ein grünes Kennzeichen ist auch für Anhänger zuzuteilen, wenn dies für
 Zwecke der Sonderregelung für Kraftfahrzeuganhänger gemäß § 10 des
-Kraftfahrzeugsteuergesetzes beantragt wird. Das grüne Kennzeichen
-besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer
-jeweils nach § 8 Absatz 1. Die Zuteilung ist in der
+Kraftfahrzeugsteuergesetzes beantragt wird. Die Zuteilung ist in der
 Zulassungsbescheinigung Teil I zu vermerken.
 
 (3) Auf Antrag wird einem Fahrzeug ein Saisonkennzeichen zugeteilt. Es
@@ -866,7 +896,9 @@ Der Betriebszeitraum wird auf volle Monate bemessen; er muss
 mindestens zwei Monate und darf höchstens elf Monate umfassen. Der
 Betriebszeitraum ist von der Zulassungsbehörde in der
 Zulassungsbescheinigung Teil I in Klammern hinter dem Kennzeichen zu
-vermerken. Das Fahrzeug darf auf öffentlichen Straßen nur während des
+vermerken. Ein Saisonkennzeichen ist auch Fahrzeugen, deren Halter von
+der Kraftfahrzeugsteuer befreit sind, nach Maßgabe des Absatzes 2
+zuzuteilen. Das Fahrzeug darf auf öffentlichen Straßen nur während des
 angegebenen Betriebszeitraums in Betrieb genommen oder abgestellt
 werden. § 16 Absatz 1 bleibt unberührt. Saisonkennzeichen gelten
 außerhalb des Betriebszeitraums bei Fahrten zur Abmeldung und bei
@@ -904,14 +936,16 @@ beschaffen sein und so befestigt werden, dass sie bei einem Entfernen
 zerstört wird.
 
 (4) Fahrten, die im Zusammenhang mit dem Zulassungsverfahren stehen,
-insbesondere Fahrten zur Anbringung der Stempelplakette und
-Rückfahrten nach Entfernung der Stempelplakette sowie Fahrten zur
-Durchführung einer Hauptuntersuchung, Sicherheitsprüfung oder einer
-Abgasuntersuchung dürfen innerhalb des Zulassungsbezirks und eines
-angrenzenden Bezirks mit ungestempelten Kennzeichen durchgeführt
-werden, wenn die Zulassungsbehörde vorab ein solches zugeteilt hat und
-die Fahrten von der Kraftfahrzeug-Haftpflichtversicherung erfasst
-sind.
+insbesondere Fahrten zur Anbringung der Stempelplakette sowie Fahrten
+zur Durchführung einer Hauptuntersuchung oder einer Sicherheitsprüfung
+dürfen innerhalb des Zulassungsbezirks und eines angrenzenden Bezirks
+mit ungestempelten Kennzeichen durchgeführt werden, wenn die
+Zulassungsbehörde vorab ein solches zugeteilt hat und die Fahrten von
+der Kraftfahrzeug-Haftpflichtversicherung erfasst sind. Rückfahrten
+nach Entfernung der Stempelplakette dürfen mit dem bisher zugeteilten
+Kennzeichen bis zum Ablauf des Tages der Außerbetriebsetzung des
+Fahrzeugs durchgeführt werden, wenn sie von der Kraftfahrzeug-
+Haftpflichtversicherung erfasst sind.
 
 (5) Kennzeichen müssen an der Vorder- und Rückseite des Kraftfahrzeugs
 vorhanden und fest angebracht sein. Bei Wechselkennzeichen im Sinne
@@ -923,27 +957,41 @@ und bei Krafträdern die Anbringung an deren Rückseite.
 (6) Die Anbringung und Sichtbarkeit des hinteren Kennzeichens muss
 entsprechen:
 
-1.  bei Fahrzeugen mit mindestens vier Rädern den Anforderungen der
-    Richtlinie 70/222/EWG des Rates vom 20. März 1970 zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten über die Anbringungsstellen und
-    die Anbringung der amtlichen Kennzeichen an der Rückseite von
-    Kraftfahrzeugen und Kraftfahrzeuganhängern (ABl. L 76 vom 6.4.1970, S.
-    25) in der jeweils geltenden Fassung,
+1.  bei Fahrzeugen (Kraftfahrzeugen und ihren Anhängern) nach Maßgabe der
+    Richtlinie 2007/46/EG sowie Fahrzeugen, die nach den Baumerkmalen
+    ihres Fahrgestells diesen Fahrzeugen gleichzusetzen sind, den
+    Anforderungen der Verordnung (EU) Nr. 1003/2010 der Kommission vom 8.
+    November 2010 über die Typgenehmigung der Anbringungsstelle und der
+    Anbringung der hinteren amtlichen Kennzeichen an Kraftfahrzeugen und
+    Kraftfahrzeuganhängern und zur Durchführung der Verordnung (EG) Nr.
+    661/2009 des Europäischen Parlaments und des Rates über die
+    Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von
+    Systemen, Bauteilen und selbstständigen technischen Einheiten für
+    diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit (ABl. L 291
+    vom 9.11.2010, S. 22) in der jeweils geltenden Fassung,
 
 
-2.  bei zwei- oder dreirädrigen Kraftfahrzeugen den Anforderungen der
-    Richtlinie 93/94/EWG des Rates vom 29. Oktober 1993 über die
-    Anbringungsstelle des amtlichen Kennzeichens an der Rückseite von
-    zweirädrigen oder dreirädrigen Kraftfahrzeugen (ABl. L 311 vom
-    14\.12.1993, S. 83) in der jeweils geltenden Fassung und
+2.  bei Fahrzeugen (zwei- oder dreirädrige Kraftfahrzeuge) nach Maßgabe
+    der Richtlinie 2002/24/EG sowie Fahrzeugen, die nach den Baumerkmalen
+    ihres Fahrgestells diesen Fahrzeugen gleichzusetzen sind, den
+    Anforderungen der Richtlinie 2009/62/EG des Europäischen Parlaments
+    und des Rates vom 13. Juli 2009 über die Anbringungsstelle des
+    amtlichen Kennzeichens an der Rückseite von zweirädrigen oder
+    dreirädrigen Kraftfahrzeugen (ABl. L 198 vom 30.7.2009, S. 20) in der
+    jeweils geltenden Fassung und
 
 
-3.  bei land- oder forstwirtschaftlichen Zugmaschinen den Anforderungen
-    der Richtlinie 74/151/EWG des Rates vom 28. März 1974 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über bestimmte Bestandteile
-    und Merkmale von land- oder forstwirtschaftlichen Zugmaschinen auf
-    Rädern (ABl. L 84 vom 28.3.1974, S. 25) in der jeweils geltenden
-    Fassung.
+3.  bei Fahrzeugen nach Maßgabe der Richtlinie 2003/37/EG sowie
+    Fahrzeugen, die nach den Baumerkmalen ihres Fahrgestells diesen
+    Fahrzeugen gleichzusetzen sind, den Anforderungen der Richtlinie
+    2009/63/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009
+    über bestimmte Bestandteile und Merkmale von land- oder
+    forstwirtschaftlichen Zugmaschinen auf Rädern (ABl. L 214 vom
+    19\.8.2009, S. 23) in der jeweils geltenden Fassung,
+
+
+4.  bei allen anderen als den unter den Nummern 1 bis 3 genannten
+    Fahrzeugen wahlweise den Anforderungen von Nummer 1 oder Nummer 3.
 
 
 
@@ -957,8 +1005,15 @@ für die Genehmigung der Beleuchtungseinrichtungen für das hintere
 Kennzeichenschild von Kraftfahrzeugen (mit Ausnahme von Krafträdern)
 und ihren Anhängern (VkBl. 2004 S. 613) in der jeweils geltenden
 Fassung entspricht und die das ganze Kennzeichen auf 20 m lesbar
-macht. Die Beleuchtungseinrichtung darf kein Licht unmittelbar nach
-hinten austreten lassen.
+macht. Für Krafträder gilt die Richtlinie 97/24/EG des Europäischen
+Parlaments und des Rates vom 17. Juni 1997 über bestimmte Bauteile und
+Merkmale von zweirädrigen oder dreirädrigen Kraftfahrzeugen (ABl. L
+226 vom 18.8.1997, S. 1) oder die ECE-Regelung Nr. 53 über
+einheitliche Bedingungen für die Genehmigung von Krafträdern
+hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen
+(VkBl. 2005 S. 778) in der jeweils geltenden Fassung. Die
+Beleuchtungseinrichtung darf kein Licht unmittelbar nach hinten
+austreten lassen.
 
 (7) Das vordere Kennzeichen darf bis zu einem Vertikalwinkel von 30
 Grad gegen die Fahrtrichtung geneigt sein; der untere Rand darf nicht
@@ -1009,7 +1064,7 @@ nach Absatz 11 Satz 1 am Fahrzeug angebracht sind. Der Halter darf die
 Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen, wenn die
 Voraussetzungen nach Satz 1 nicht vorliegen.
 
-(13) Abweichend von Absatz 2 Satz 1 und Absatz 6 Satz 2 und 3 dürfen
+(13) Abweichend von Absatz 2 Satz 1 und Absatz 6 Satz 2 bis 4 dürfen
 nach § 22a Absatz 1 Nummer 21 der Straßenverkehrs-Zulassungs-Ordnung
 bauartgenehmigte Beleuchtungseinrichtungen für hintere transparente
 Kennzeichen oder Beleuchtungseinrichtungen, die mit dem Kennzeichen
@@ -1236,22 +1291,20 @@ Zulassungsbezirk, hat er unter Vorlage der Zulassungsbescheinigung bei
 der neuen Zulassungsbehörde die Zuteilung eines neuen Kennzeichens und
 Ausstellung einer neuen Zulassungsbescheinigung Teil I unverzüglich zu
 beantragen. Die bisherigen Kennzeichen sind zur Entstempelung
-vorzulegen. Wird der regelmäßige Standort des Fahrzeugs für mehr als
-drei Monate an einen vom Wohnsitz oder Sitz des Halters abweichenden
-Ort verlegt, ist dies der Zulassungsbehörde ebenfalls unverzüglich
-mitzuteilen. Kommt er diesen Pflichten nicht nach, kann die
+vorzulegen. Kommt er diesen Pflichten nicht nach, kann die
 Zulassungsbehörde für die Zeit bis zur Erfüllung der Pflichten den
 Betrieb des Fahrzeugs auf öffentlichen Straßen untersagen.
 
 (4) Tritt ein Wechsel in der Person des Halters ein, hat der bisherige
 Halter oder Eigentümer dies unverzüglich der Zulassungsbehörde zum
-Zwecke der Berichtigung der Fahrzeugregister mitzuteilen. Die
-Mitteilung muss das Kennzeichen des Fahrzeugs, Namen, Vornamen und
-vollständige Anschrift des Erwerbers sowie dessen Bestätigung
-enthalten, dass die Zulassungsbescheinigung und die
-Kennzeichenschilder übergeben wurden. Der Erwerber hat unverzüglich
-bei der für seinen Wohnsitz oder Sitz zuständigen Zulassungsbehörde
-unter Angabe der Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 des
+Zweck der Berichtigung des Fahrzeugregisters mitzuteilen; die
+Mitteilung ist entbehrlich, wenn der Erwerber seiner Pflicht nach Satz
+3 bereits nachgekommen ist. Die Mitteilung muss das Kennzeichen des
+Fahrzeugs, Namen, Vornamen und vollständige Anschrift des Erwerbers
+sowie dessen Bestätigung, dass die Zulassungsbescheinigung übergeben
+wurde, enthalten. Der Erwerber hat unverzüglich bei der für seinen
+Wohnsitz oder Sitz zuständigen Zulassungsbehörde unter Angabe der
+Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 des
 Straßenverkehrsgesetzes und unter Vorlage des Versicherungsnachweises
 nach § 23 die Ausfertigung einer neuen Zulassungsbescheinigung und,
 sofern dem Fahrzeug bisher ein Kennzeichen von einer anderen
@@ -1297,7 +1350,7 @@ Angabe des Datums auf der Zulassungsbescheinigung Teil I und
 gegebenenfalls auf den Anhängerverzeichnissen und händigt die
 vorgelegten Unterlagen sowie die entstempelten Kennzeichenschilder
 wieder aus. Der Halter kann das Kennzeichen zum Zwecke der
-Wiederzulassung befristet reservieren lassen.
+Wiederzulassung befristet bis zu zwölf Monaten reservieren lassen.
 
 (2) Soll ein nach Absatz 1 außer Betrieb gesetztes Fahrzeug wieder zum
 Verkehr zugelassen werden, ist die Zulassungsbescheinigung vorzulegen,
@@ -1311,13 +1364,12 @@ Zulassungs-Ordnung unterzogen werden, wenn bei Anwendung der Anlage
 VIII Abschnitt 2 der Straßenverkehrs-Zulassungs-Ordnung
 zwischenzeitlich eine Untersuchung hätte stattfinden müssen. Satz 3
 gilt entsprechend für eine Sicherheitsprüfung nach § 29 der
-Straßenverkehrs-Zulassungs-Ordnung und für eine vorgeschriebene
-Abgasuntersuchung nach § 47a der Straßenverkehrs-Zulassungs-Ordnung.
-Sind die Fahrzeug- und Halterdaten im Zentralen Fahrzeugregister
-bereits gelöscht worden und kann die Übereinstimmungsbescheinigung,
-die Datenbestätigung oder die Bescheinigung über die Einzelgenehmigung
-des unveränderten Fahrzeugs nicht anderweitig erbracht werden, ist §
-21 der Straßenverkehrs-Zulassungs-Ordnung entsprechend anzuwenden.
+Straßenverkehrs-Zulassungs-Ordnung. Sind die Fahrzeug- und Halterdaten
+im Zentralen Fahrzeugregister bereits gelöscht worden und kann die
+Übereinstimmungsbescheinigung, die Datenbestätigung oder die
+Bescheinigung über die Einzelgenehmigung des unveränderten Fahrzeugs
+nicht anderweitig erbracht werden, ist § 21 der Straßenverkehrs-
+Zulassungs-Ordnung entsprechend anzuwenden.
 
 
 ### § 15 Verwertungsnachweis
@@ -1361,23 +1413,35 @@ Beschriftung auf weißem rot gerandetem Grund (rotes Kennzeichen)
 führen. § 31 Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung bleibt
 unberührt.
 
-(2) Auf Antrag hat eine Zulassungsbehörde bei Bedarf für Zwecke nach
-Absatz 1 ein Kurzzeitkennzeichen zuzuteilen und einen Fahrzeugschein
-für Fahrzeuge mit Kurzzeitkennzeichen nach dem Muster in Anlage 9
-auszugeben. Der Empfänger hat die geforderten Angaben zum Fahrzeug vor
-Antritt der ersten Fahrt vollständig und in dauerhafter Schrift in den
-Fahrzeugschein einzutragen. Der Fahrzeugschein ist bei jeder Fahrt
-mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
-auszuhändigen. Das Kurzzeitkennzeichen besteht aus einem
-Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8
-Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und
-beginnt mit „03“ oder „04“. Das Kurzzeitkennzeichen enthält außerdem
-ein Ablaufdatum, das längstens auf fünf Tage ab der Zuteilung zu
-bemessen ist. Das Kurzzeitkennzeichen darf nur an einem Fahrzeug
-verwendet werden. Nach Ablauf der Gültigkeit des Kurzzeitkennzeichens
-darf ein Fahrzeug auf öffentlichen Straßen nicht mehr in Betrieb
-gesetzt werden. Der Halter darf im Falle des Satzes 7 die
-Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen.
+(2) Auf Antrag hat die örtlich zuständige Zulassungsbehörde bei Bedarf
+ein Kurzzeitkennzeichen zuzuteilen und einen auf den Antragsteller
+ausgestellten Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
+nach dem Muster der Anlage 9 auszugeben. Der Antragsteller hat die
+geforderten Angaben zum Fahrzeug unverzüglich vollständig und in
+dauerhafter Schrift in den Fahrzeugschein einzutragen. Der
+Antragsteller darf das Kurzzeitkennzeichen
+
+1.  nur für die Durchführung von Fahrten im Sinne des Absatzes 1 mit dem
+    eingetragenen Fahrzeug verwenden und
+
+
+2.  keiner anderen Person zur Nutzung an einem anderen Fahrzeug
+    überlassen.
+
+
+
+Der Fahrzeugschein ist bei jeder Fahrt mitzuführen und zuständigen
+Personen auf Verlangen zur Prüfung auszuhändigen. Das
+Kurzzeitkennzeichen besteht aus einem Unterscheidungszeichen und einer
+Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die
+Erkennungsnummer nur aus Ziffern und beginnt mit „03“ oder „04“. Das
+Kurzzeitkennzeichen enthält außerdem ein Ablaufdatum, das längstens
+auf fünf Tage ab der Zuteilung zu bemessen ist. Das
+Kurzzeitkennzeichen darf nur an einem Fahrzeug verwendet werden. Nach
+Ablauf der Gültigkeit des Kurzzeitkennzeichens darf ein Fahrzeug auf
+öffentlichen Straßen nicht mehr in Betrieb gesetzt werden. Der Halter
+darf im Falle des Satzes 7 die Inbetriebnahme eines Fahrzeugs nicht
+anordnen oder zulassen.
 
 (3) Rote Kennzeichen und besondere Fahrzeugscheinhefte für Fahrzeuge
 mit roten Kennzeichen nach Anlage 10 können durch die örtlich
@@ -1419,8 +1483,8 @@ die Erkennungsnummer nur aus Ziffern und beginnt mit „05“.
 
 (4) Mit dem Antrag auf Zuteilung eines Kurzzeitkennzeichens oder eines
 roten Kennzeichens sind vom Antragsteller zum Zwecke der Speicherung
-in den Fahrzeugregistern die in § 6 Absatz 1 Satz 2 bezeichneten
-Halterdaten und die in § 6 Absatz 4 Nummer 4 bezeichneten Daten zur
+in den Fahrzeugregistern seine in § 6 Absatz 1 Satz 2 bezeichneten
+Daten und die in § 6 Absatz 4 Nummer 3 bezeichneten Daten zur
 Kraftfahrzeug-Haftpflichtversicherung sowie bei Kurzzeitkennzeichen
 zusätzlich das Ende des Versicherungsschutzes mitzuteilen und auf
 Verlangen nachzuweisen.
@@ -1434,8 +1498,8 @@ werden. Der Halter darf die Inbetriebnahme eines Fahrzeugs nicht
 anordnen oder zulassen, wenn die Voraussetzungen nach Satz 1 und 3
 nicht vorliegen.
 
-(6) Die §§ 29, 47a und 57b der Straßenverkehrs-Zulassungs-Ordnung
-finden keine Anwendung.
+(6) Die §§ 29 und 57b der Straßenverkehrs-Zulassungs-Ordnung finden
+keine Anwendung.
 
 
 ### § 17 Fahrten zur Teilnahme an Veranstaltungen für Oldtimer
@@ -1451,10 +1515,12 @@ Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung bleibt unberührt.
 
 (2) Für die Zuteilung und Verwendung der roten Oldtimerkennzeichen
 findet § 16 Absatz 3 bis 5 entsprechend mit der Maßgabe Anwendung,
-dass das Kennzeichen nur an den Fahrzeugen verwendet werden darf, für
-die es ausgegeben worden ist. Das rote Oldtimerkennzeichen besteht aus
-einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach §
-8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und
+dass ein Fahrzeugscheinheft für rote Oldtimerkennzeichen nach dem
+Muster der Anlage 10a ausgegeben wird und dass das Kennzeichen nur an
+den Fahrzeugen verwendet werden darf, für die es ausgegeben worden
+ist. Das rote Oldtimerkennzeichen besteht aus einem
+Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8
+Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und
 beginnt mit „07“. Es ist nach § 10 in Verbindung mit Anlage 4
 Abschnitt 1 und 7 auszugestalten und anzubringen. Fahrzeuge mit rotem
 Oldtimerkennzeichen dürfen im Übrigen nur nach Maßgabe des § 10 Absatz
@@ -1529,7 +1595,7 @@ zugelassen ist, mit folgender Maßgabe anzuwenden:
 (2) Bei der Zuteilung eines Ausfuhrkennzeichens sind der
 Zulassungsbehörde zur Speicherung in den Fahrzeugregistern neben den
 in § 6 Absatz 1 Satz 2 bezeichneten Halterdaten die in § 6 Absatz 4
-Nummer 4 bezeichneten Daten zur Kraftfahrzeug-Haftpflichtversicherung
+Nummer 3 bezeichneten Daten zur Kraftfahrzeug-Haftpflichtversicherung
 und das Ende des Versicherungsverhältnisses sowie die zur Ausstellung
 der Zulassungsbescheinigung erforderlichen Fahrzeugdaten und bei
 Personenkraftwagen die vom Hersteller aufgebrachte Farbe des Fahrzeugs
@@ -1545,8 +1611,9 @@ anderen Staat verbracht werden, ist die Zuteilung dieses Kennzeichens
 unter Vorlage der Zulassungsbescheinigung und der nach § 8 zugeteilten
 Kennzeichen zur Entstempelung zu beantragen. Die bisherige
 Zulassungsbescheinigung Teil I ist einzuziehen. Die
-Zulassungsbescheinigung Teil II ist fortzuschreiben. Die Absätze 1 bis
-3 sind entsprechend anzuwenden.
+Zulassungsbescheinigung Teil II ist fortzuschreiben. § 12 Absatz 4 ist
+entsprechend anzuwenden. Die Absätze 1 bis 3 sind entsprechend
+anzuwenden.
 
 
 ## Abschnitt 4 - Teilnahme ausländischer Fahrzeuge am Straßenverkehr
@@ -1597,8 +1664,8 @@ erforderliche Übersetzung oder den Internationalen Zulassungsschein
 nach Absatz 2 mitzuführen und zuständigen Personen auf Verlangen zur
 Prüfung auszuhändigen.
 
-(6) Als vorübergehend im Sinne des Absatzes 1 gilt ein Zeitraum bis zu
-einem Jahr. Die Frist beginnt
+(6) Als vorübergehend im Sinne der Absätze 1 und 2 gilt ein Zeitraum
+bis zu einem Jahr. Die Frist beginnt
 
 1.  bei Zulassungsbescheinigungen mit dem Tag des Grenzübertritts und
 
@@ -1662,36 +1729,106 @@ jede Verwaltungsbehörde nach § 46 Absatz 1 zuständig.
 Pflichtversicherungsgesetz entsprechende Kraftfahrzeug-
 Haftpflichtversicherung besteht, ist bei der Zulassungsbehörde durch
 eine Versicherungsbestätigung zu erbringen. Eine
-Versicherungsbestätigung ist auch vorzulegen, wenn das Fahrzeug nach
+Versicherungsbestätigung ist auch zu erbringen, wenn das Fahrzeug nach
 Außerbetriebsetzung nach Maßgabe des § 14 Absatz 2 wieder zum Verkehr
 zugelassen werden soll.
 
-(2) Solange ein Fahrzeug im Sinne des § 13 Absatz 2 Satz 2
-gewerbsmäßig vermietet wird, muss der Zulassungsbehörde eine gültige
-Versicherungsbestätigung für ein Mietfahrzeug für Selbstfahrer
-vorliegen. Eine Versicherungsbestätigung, die zur Erlangung eines
-Kurzzeitkennzeichens erteilt wird, muss das Ende des
-Versicherungsverhältnisses oder die Dauer des
-Versicherungsverhältnisses angeben.
+(2) Die Versicherungsbestätigung ist, ausgenommen bei
+Ausfuhrkennzeichen, vom Versicherer durch eine
+Gemeinschaftseinrichtung der Versicherer an die Zulassungsbehörde
+elektronisch zu übermitteln oder zum Abruf im automatisierten
+Verfahren durch die Zulassungsbehörde bereitzuhalten. Das zulässige
+Datenformat wird vom Kraftfahrt-Bundesamt im Bundesanzeiger sowie
+zusätzlich im Verkehrsblatt veröffentlicht. Die
+Versicherungsbestätigung muss folgende Daten zur Kraftfahrzeug-
+Haftpflichtversicherung enthalten:
 
-(3) Die Versicherungsbestätigung ist grundsätzlich vom Versicherer an
-die Zulassungsbehörde elektronisch zu übermitteln oder zum Abruf durch
-die Zulassungsbehörde bereitzuhalten, wenn diese hierfür einen Zugang
-eingerichtet hat. Übermittlung und Bereithaltung zum Abruf können auch
-durch eine Gemeinschaftseinrichtung der Versicherer erfolgen. Das
-zulässige Datenformat wird vom Kraftfahrt-Bundesamt im Bundesanzeiger
-sowie zusätzlich im Verkehrsblatt veröffentlicht. Bei elektronischer
-Übermittlung dürfen keine Bestätigungen nach Anlage 11 ausgestellt
-werden. Wird die Versicherungsbestätigung nicht elektronisch vom
-Versicherer an die Zulassungsbehörde übermittelt oder zum Abruf
-bereitgehalten, hat der Versicherer sie dem Versicherungsnehmer nach
-dem Muster in Anlage 11 Nummer 1, für Hersteller von Fahrzeugen auch
-nach dem Muster in Anlage 11 Nummer 2 zu erteilen.
+1.  den Namen und die Anschrift oder die Schlüsselnummer des Versicherers,
 
-(4) Ein Halter, der nach § 2 Absatz 1 Nummer 5 des
+
+2.  die Nummer des Versicherungsscheins oder der Versicherungsbestätigung
+    und
+
+
+3.  den Namen und die Anschrift des Versicherungsnehmers.
+
+
+
+Darüber hinaus darf die Versicherungsbestätigung folgende Daten
+enthalten, wenn deren Übermittlung an die Zulassungsbehörde zur
+Überwachung des Versicherungsschutzes der Fahrzeuge im Einzelfall
+erforderlich ist:
+
+1.  den Namen und die Anschrift des Halters, falls dieser nicht mit dem
+    Versicherungsnehmer identisch ist, oder der Hinweis, dass das Fahrzeug
+    auf einen nicht namentlich benannten Halter zugelassen werden darf,
+
+
+2.  den Verwendungszweck nach § 6 Absatz 4 Nummer 1,
+
+
+3.  den Beginn des Versicherungsschutzes, soweit dieser nicht ab dem Tag
+    der Zulassung gewährt werden soll,
+
+
+4.  die Angabe, für welche Kennzeichenarten die Versicherungsbestätigung
+    gelten soll,
+
+
+5.  bei Saisonkennzeichen dessen maximaler Gültigkeitszeitraum,
+
+
+6.  bei Kurzzeitkennzeichen den Gültigkeitszeitraum,
+
+
+7.  bei roten Kennzeichen das Datum des Endes des Versicherungsschutzes,
+
+
+8.  die Fahrzeugbeschreibung,
+
+
+9.  das Kennzeichen des Fahrzeugs und
+
+
+10. die Angabe, ob der Versicherungsschutz auch für Fahrten mit
+    ungestempelten Kennzeichen und für Rückfahrten nach Entstempelung
+    gelten soll.
+
+
+
+
+(3) Ein Halter, der nach § 2 Absatz 1 Nummer 5 des
 Pflichtversicherungsgesetzes der Versicherungspflicht nicht
 unterliegt, hat den Nachweis darüber durch Vorlage einer Bescheinigung
-nach Anlage 11 Nummer 4 zu erbringen.
+zu erbringen. Der Nachweis kann auch entsprechend Absatz 2 Satz 1
+elektronisch erfolgen. Das zulässige Datenformat wird vom Kraftfahrt-
+Bundesamt im Bundesanzeiger sowie zusätzlich im Verkehrsblatt
+veröffentlicht. Die Bescheinigung muss folgende Daten enthalten:
+
+1.  die Angabe, dass der Halter nach § 2 Absatz 1 Nummer 5 des
+    Pflichtversicherungsgesetzes der Versicherungspflicht nicht
+    unterliegt,
+
+
+2.  den Namen und die Anschrift der Einrichtung, die für den
+    Haftpflichtschadenausgleich zuständig ist, sowie den Namen der Deckung
+    erhaltenden juristischen Person,
+
+
+3.  die Art des Fahrzeugs,
+
+
+4.  den Hersteller des Fahrgestells,
+
+
+5.  die Fahrzeug-Identifizierungsnummer und
+
+
+6.  das Kennzeichen des Fahrzeugs, soweit dieses der für den
+    Haftpflichtschadenausgleich zuständigen Einrichtung bekannt ist.
+
+
+
 
 
 ### § 24 Mitteilungspflichten der Zulassungsbehörde
@@ -1734,19 +1871,58 @@ Standards zu übermitteln.
 
 ### § 25 Maßnahmen und Pflichten bei fehlendem Versicherungsschutz
 
-(1) Der Versicherer kann zur Beendigung seiner Haftung nach § 3 Nummer
-5 des Pflichtversicherungsgesetzes der zuständigen Zulassungsbehörde
-Anzeige nach dem Muster in Anlage 11 Nummer 5 erstatten, wenn eine dem
+(1) Der Versicherer kann zur Beendigung seiner Haftung nach § 117
+Absatz 2 des Versicherungsvertragsgesetzes der zuständigen
+Zulassungsbehörde Anzeige erstatten, wenn eine dem
 Pflichtversicherungsgesetz entsprechende Kraftfahrzeug-
-Haftpflichtversicherung nicht oder nicht mehr besteht. Die Anzeige
-kann auch entsprechend § 23 Absatz 3 Satz 1 bis 4 vorgenommen werden.
-Eine Anzeige ist zu unterlassen, wenn der Zulassungsbehörde die
+Haftpflichtversicherung nicht oder nicht mehr besteht. Die Anzeige ist
+vom Versicherer entsprechend § 23 Absatz 2 Satz 1 zu übermitteln. Sie
+muss folgende Daten enthalten:
+
+1.  den Namen und die Anschrift des Versicherers,
+
+
+2.  die Schlüsselnummer des Versicherers,
+
+
+3.  den Namen und die Anschrift des Versicherungsnehmers,
+
+
+4.  das Kennzeichen des Fahrzeugs,
+
+
+5.  die Fahrzeug-Identifizierungsnummer,
+
+
+6.  die Angabe, ob das Versicherungsverhältnis nicht oder nicht mehr
+    besteht.
+
+
+
+Darüber hinaus darf die Anzeige folgende Daten enthalten, wenn deren
+Übermittlung an die Zulassungsbehörde zur Prüfung dieser Anzeige im
+Einzelfall erforderlich ist:
+
+1.  die Nummer des Versicherungsscheines,
+
+
+2.  den Namen und die Anschrift des Halters, falls dieser nicht mit dem
+    Versicherungsnehmer identisch ist,
+
+
+3.  die Kennzeichenart.
+
+
+
+Das zulässige Datenformat wird vom Kraftfahrt-Bundesamt im
+Bundesanzeiger sowie zusätzlich im Verkehrsblatt veröffentlicht. Eine
+Anzeige ist zu unterlassen, wenn der Zulassungsbehörde die
 Versicherungsbestätigung über den Abschluss einer neuen dem
 Pflichtversicherungsgesetz entsprechenden Kraftfahrzeug-
 Haftpflichtversicherung zugegangen ist und dies dem Versicherer nach §
 24 Absatz 1 Nummer 3 mitgeteilt worden ist. Eine
 Versicherungsbestätigung für die Zuteilung eines Kurzzeitkennzeichens
-gilt gleichzeitig auch als Anzeige zur Beendigung der Haftung. Satz 4
+gilt gleichzeitig auch als Anzeige zur Beendigung der Haftung. Satz 7
 gilt entsprechend, wenn in der Versicherungsbestätigung für die
 Zuteilung eines roten Kennzeichens ein befristeter Versicherungsschutz
 ausgewiesen ist oder wenn die Zuteilung des roten Kennzeichens
@@ -1913,10 +2089,10 @@ Bescheinigung ein.
 (1) Bei Fahrzeugen, denen ein Kennzeichen zugeteilt ist, sind im
 Zentralen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
 
-1.  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 1 bis 3 und Absatz
-    7 mitzuteilenden Fahrzeugdaten sowie die errechnete Nutzlast des
-    Fahrzeugs (technisch zulässige Gesamtmasse minus Masse des in Betrieb
-    befindlichen Fahrzeugs),
+1.  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 1, 2 und 4 und
+    Absatz 7 mitzuteilenden Fahrzeugdaten sowie die errechnete Nutzlast
+    des Fahrzeugs (technisch zulässige Gesamtmasse minus Masse des in
+    Betrieb befindlichen Fahrzeugs),
 
 
 2.  weitere Angaben, soweit deren Eintragung in den Fahrzeugdokumenten
@@ -1934,18 +2110,9 @@ Zentralen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
     jeweiligen Zuteilung,
 
 
-5.  Monat und Jahr des auf die Ausstellung der Zulassungsbescheinigung
-    folgenden Termins
-
-    a)  für die Anmeldung zur Hauptuntersuchung und Sicherheitsprüfung nach §
-        29 der Straßenverkehrs-Zulassungs-Ordnung und
-
-
-    b)  zur Durchführung der Abgasuntersuchung nach § 47a der Straßenverkehrs-
-        Zulassungs-Ordnung,
-
-
-
+5.  Monat und Jahr des auf die Ausfertigung der Zulassungsbescheinigung
+    folgenden Termins für die Anmeldung zur Hauptuntersuchung und
+    Sicherheitsprüfung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung,
 
 
 6.  bei Zuteilung eines grünen Kennzeichens ein Hinweis darauf sowie das
@@ -2015,7 +2182,7 @@ Zentralen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
 
 19. folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
 
-    a)  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 4 mitzuteilenden
+    a)  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 3 mitzuteilenden
         Daten,
 
 
@@ -2079,18 +2246,9 @@ Zentralen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
     Veräußerung des Fahrzeugs und das Datum der Veräußerung,
 
 
-25. bei Verlegung des
-
-    a)  Wohnsitzes des Halters in den Bezirk einer anderen Zulassungsbehörde
-        und Zuteilung eines neuen Kennzeichens: das neue Kennzeichen dieses
-        Zulassungsbezirks und das Datum der Zuteilung und
-
-
-    b)  regelmäßigen Standortes des Fahrzeugs: der neue Standort und das Datum
-        der Verlegung des Standortes,
-
-
-
+25. bei Verlegung des Wohnsitzes des Halters in den Bezirk einer anderen
+    Zulassungsbehörde und Zuteilung eines neuen Kennzeichens: das neue
+    Kennzeichen dieses Zulassungsbezirks und das Datum der Zuteilung,
 
 
 26. folgende Daten über frühere Angaben und Ereignisse:
@@ -2304,8 +2462,8 @@ speichern.
 (1) Bei Fahrzeugen, denen ein Kennzeichen zugeteilt ist, sind im
 örtlichen Fahrzeugregister folgende Fahrzeugdaten zu speichern:
 
-1.  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 1 bis 3 und Absatz
-    7 mitzuteilenden Fahrzeugdaten,
+1.  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 1, 2 und 4 und
+    Absatz 7 mitzuteilenden Fahrzeugdaten,
 
 
 2.  weitere Angaben, soweit deren Eintragung in der
@@ -2324,18 +2482,9 @@ speichern.
     der jeweiligen Zuteilung,
 
 
-5.  Monat und Jahr des auf die Ausstellung der Zulassungsbescheinigung
-    folgenden Termins
-
-    a)  für die Anmeldung zur Hauptuntersuchung und Sicherheitsprüfung nach §
-        29 der Straßenverkehrs-Zulassungs-Ordnung und
-
-
-    b)  zur Durchführung der Abgasuntersuchung nach § 47a der Straßenverkehrs-
-        Zulassungs-Ordnung,
-
-
-
+5.  Monat und Jahr des auf die Ausfertigung der Zulassungsbescheinigung
+    folgenden Termins für die Anmeldung zur Hauptuntersuchung und
+    Sicherheitsprüfung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung,
 
 
 6.  bei Zuteilung eines grünen Kennzeichens ein Hinweis darauf sowie das
@@ -2406,7 +2555,7 @@ speichern.
 
 19. folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
 
-    a)  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 4 mitzuteilenden
+    a)  die der Zulassungsbehörde nach § 6 Absatz 4 Nummer 3 mitzuteilenden
         Daten,
 
 
@@ -2470,18 +2619,9 @@ speichern.
     Veräußerung des Fahrzeugs und das Datum der Veräußerung,
 
 
-25. bei Verlegung des
-
-    a)  Wohnsitzes des Halters in den Bezirk einer anderen Zulassungsbehörde
-        und Zuteilung eines neuen Kennzeichens: das neue Kennzeichen dieses
-        Zulassungsbezirks und das Datum der Zuteilung und
-
-
-    b)  regelmäßigen Standortes des Fahrzeugs: der neue Standort und das Datum
-        der Verlegung des Standortes,
-
-
-
+25. bei Verlegung des Wohnsitzes des Halters in den Bezirk einer anderen
+    Zulassungsbehörde und Zuteilung eines neuen Kennzeichens: das neue
+    Kennzeichen dieses Zulassungsbezirks und das Datum der Zuteilung,
 
 
 26. folgende Daten über frühere Angaben und Ereignisse:
@@ -2614,7 +2754,7 @@ des sonstigen Abhandenkommens sowie Hinweise darauf zu speichern, dass
 nach dem abhandengekommenen Gegenstand gefahndet wird und dass im
 Falle des Verlustes eines Kennzeichens im Sinne des Satzes 1 Buchstabe
 b bis d dieses nicht vor dessen Wiederauffinden, sonst nicht vor
-Ablauf von fünf Jahren seit Fahndungsbeginn wieder zugeteilt werden
+Ablauf von zehn Jahren seit Fahndungsbeginn wieder zugeteilt werden
 darf. Bei Diebstahl oder sonstigem Abhandenkommen von nicht
 ausgefertigten Zulassungsbescheinigungen Teil I und Teil II ist
 jeweils die Dokumentennummer zu speichern. Wurde in den Vordruck für
@@ -2789,7 +2929,11 @@ Versicherungsvertrags übermitteln:
         Krafträdern zusätzlich den Hubraum,
 
 
-    d)  den Familiennamen, die Vornamen und die Anschrift des Halters,
+    d)  bei natürlichen Personen den Familiennamen, die Vornamen und die
+        Anschrift des Halters, bei juristischen Personen den Namen oder die
+        Bezeichnung und die Anschrift, bei Vereinigungen den Familiennamen,
+        die Vornamen und die Anschrift des benannten Vertreters sowie
+        erforderlichenfalls den Namen der Vereinigung,
 
 
     e)  einen Hinweis über das Vorliegen eines Versicherer- und
@@ -2800,13 +2944,13 @@ Versicherungsvertrags übermitteln:
         Beendigung des Versicherungsverhältnisses,
 
 
-    g)  einen Hinweis über die Einleitung von Maßnahmen zum Verbleib des
-        Fahrzeugs oder Kennzeichens, jedoch nur nach Eingang einer Anzeige im
-        Sinne des Buchstaben f,
+    g)  einen Hinweis über die Einleitung von Maßnahmen und Angaben zum
+        Verbleib des Fahrzeugs oder Kennzeichens, jedoch nur nach Eingang
+        einer Anzeige im Sinne des Buchstaben f,
 
 
-    h)  das Datum der Außerbetriebsetzung des Fahrzeugs und die Reservierung
-        des Kennzeichens bei Außerbetriebsetzung,
+    h)  das Datum der Außerbetriebsetzung des Fahrzeugs und das Ablaufdatum
+        der Reservierung des Kennzeichens bei Außerbetriebsetzung,
 
 
     i)  den Namen und die Anschrift oder Schlüsselnummer des Versicherers,
@@ -2816,10 +2960,13 @@ Versicherungsvertrags übermitteln:
 
 
     k)  einen Hinweis über den Eingang der Versicherungsbestätigung über eine
-        neue Versicherung sowie
+        neue Versicherung,
 
 
-    l)  den Beginn des Versicherungsschutzes,
+    l)  den Beginn des Versicherungsschutzes sowie
+
+
+    m)  Verwendung des Fahrzeugs nach § 6 Absatz 4 Nummer 1.
 
 
 
@@ -3050,9 +3197,9 @@ Straßenverkehrsgesetzes dürfen folgende Daten bereitgehalten werden:
     Identifizierungsnummer oder des Familiennamens, Vornamens, Ordens-
     oder Künstlernamens, Geburtsnamens, Datums und Ortes der Geburt oder
     im Falle einer juristischen Person, Behörde oder Vereinigung des
-    Namens oder der Bezeichnung des Halters oder unter Verwendung der
-    Anschrift des Halters die in § 30 genannten Fahrzeugdaten und die in §
-    32 genannten Halterdaten,
+    Namens oder der Bezeichnung des Halters erforderlichenfalls in
+    Verbindung mit der Anschrift des Halters die in § 30 genannten
+    Fahrzeugdaten und die in § 32 genannten Halterdaten,
 
 
 2.  für Anfragen unter Verwendung eines Teils des Kennzeichens:
@@ -3081,8 +3228,8 @@ bereitgehalten werden:
     Identifizierungsnummer oder des Familiennamens, Vornamens, Ordens-
     oder Künstlernamens, Geburtsnamens, Datums und Ortes der Geburt oder
     im Falle einer juristischen Person, Behörde oder Vereinigung des
-    Namens oder der Bezeichnung des Halters oder unter Verwendung der
-    Anschrift des Halters:
+    Namens oder der Bezeichnung des Halters erforderlichenfalls in
+    Verbindung mit der Anschrift des Halters:
 
     a)  die in § 30 Absatz 1 Nummer 1, 3, 5 bis 17 und 19 Buchstabe c, Nummer
         20 und 21 Buchstabe a bis e sowie Nummer 25 bis 27, Absatz 2 Nummer 1
@@ -3133,10 +3280,10 @@ bereitgehalten werden:
 (4) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
 Zentralen Fahrzeugregister nach § 36 Absatz 2a des
 Straßenverkehrsgesetzes dürfen die nach § 32 Absatz 1 in Verbindung
-mit Daten nach § 6 Absatz 7 Nummer 1 und 7 Buchstabe c bis e
-gespeicherten Halterdaten und die nach § 30 Absatz 1 Nummer 9
-gespeicherten Fahrzeugdaten bereitgehalten werden, soweit sie für die
-Ermittlung des Schuldners und der Höhe der Mautgebühr nach dem
+mit § 6 Absatz 7 Nummer 1 und 7 Buchstabe c bis e gespeicherten
+Halterdaten und die nach § 30 Absatz 1 Nummer 9 gespeicherten
+Fahrzeugdaten bereitgehalten werden, soweit sie für die Ermittlung des
+Schuldners und der Höhe der Mautgebühr nach dem
 Fernstraßenbauprivatfinanzierungsgesetz in der Fassung der
 Bekanntmachung vom 6. Januar 2006 (BGBl. I S. 49) in der jeweils
 geltenden Fassung erforderlich sind. Die Daten nach Satz 1 werden für
@@ -3375,31 +3522,15 @@ unter Verwendung des Kennzeichens oder der Fahrzeug-
 Identifizierungsnummer dürfen:
 
 1.  für Verwaltungsmaßnahmen nach § 37 Absatz 1 Buchstabe a des
-    Straßenverkehrsgesetzes
-
-    a)  die in § 39 Absatz 3 Nummer 2 genannten Daten und wenn eine erweiterte
-        Auskunft erforderlich ist, zusätzlich
-
-
-    b)  Daten über Fahrzeugklasse, Marke, Typ und bei Personenkraftwagen Farbe
-        des Fahrzeugs, Tag der ersten Zulassung, die von der Zulassungsbehörde
-        aufgebrachte Nummer der Zulassungsbescheinigung Teil I, die Nummer der
-        Zulassungsbescheinigung Teil II, das Datum und die Bezeichnung des
-        Arbeitsganges der letzten Veränderung und Hinweis auf den Diebstahl
-        oder das sonstige Abhandenkommen eines Fahrzeugs oder des
-        Kennzeichens, bei Fahrzeugen mit Versicherungskennzeichen außerdem
-        Beginn und Ende des Versicherungsverhältnisses und
-
-
-
+    Straßenverkehrsgesetzes die in § 39 Absatz 2 Nummer 1 Buchstabe a
+    genannten Daten und
 
 
 2.  für Maßnahmen wegen Zuwiderhandlungen und Straftaten, zur Abwehr von
     Gefahren für die öffentliche Sicherheit sowie zur Überwachung des
     Versicherungsschutzes nach § 37 Absatz 1 Buchstabe b bis d und Absatz
-    1a des Straßenverkehrsgesetzes die in § 39 Absatz 3 Nummer 1 und 2
-    sowie, falls eine erweiterte Auskunft erforderlich ist, zusätzlich die
-    in Nummer 1 Buchstabe b genannten Daten
+    1a des Straßenverkehrsgesetzes die in § 39 Absatz 2 Nummer 1 Buchstabe
+    a und b genannten Daten
 
 
 
@@ -3443,7 +3574,9 @@ nachdem das Fahrzeug außer Betrieb gesetzt wurde, zu löschen.
 (2) Die bei der Ausgabe von roten Kennzeichen im Zentralen
 Fahrzeugregister gespeicherten Daten sind vorbehaltlich des Absatzes 5
 sieben Jahre nach Rückgabe oder Entstempelung des Kennzeichens zu
-löschen.
+löschen. Die bei der Ausgabe von Kurzzeitkennzeichen im Zentralen
+Fahrzeugregister gespeicherten Daten sind sieben Jahre nach Ablauf der
+Gültigkeit des Kennzeichens zu löschen.
 
 (3) Bei Fahrzeugen mit Ausfuhrkennzeichen sind die Daten im Zentralen
 Fahrzeugregister vorbehaltlich des Absatzes 5 sieben Jahre nach Ablauf
@@ -3458,11 +3591,10 @@ Fahrzeugs, des Kennzeichens oder der Zulassungsbescheinigung Teil II
 sind bei deren Wiederauffinden, sonst nach Ende der Fahndungsmaßnahmen
 zu löschen.
 
-(6) Die Daten über Kennzeichen nach § 30 Absatz 1 Nummer 4 und Absatz
-6 sind im Zentralen Fahrzeugregister spätestens ein Jahr nach Rückgabe
-oder Entziehung des jeweiligen Kennzeichens zu löschen. Bei Diebstahl
-oder sonstigem Abhandenkommen des Kennzeichens gilt Absatz 5
-entsprechend.
+(6) Die Daten über Kennzeichen nach § 30 Absatz 6 sind im Zentralen
+Fahrzeugregister spätestens ein Jahr nach Rückgabe oder Entziehung des
+jeweiligen Kennzeichens zu löschen. Bei Diebstahl oder sonstigem
+Abhandenkommen des Kennzeichens gilt Absatz 5 entsprechend.
 
 
 ### § 45 Löschung der Daten im örtlichen Fahrzeugregister
@@ -3538,17 +3670,17 @@ solchen des Aufenthaltsortes des Antragstellers oder Betroffenen, bei
 juristischen Personen, Gewerbetreibenden und Selbständigen mit festem
 Betriebssitz oder Behörden die Behörde des Sitzes oder des Ortes der
 beteiligten Niederlassung oder Dienststelle. Besteht im Inland kein
-Sitz, keine Niederlassung oder keine Dienststelle, so ist die Behörde
-des Wohnorts oder des Aufenthaltsorts eines Empfangsberechtigten
-zuständig. Anträge können mit Zustimmung der örtlich zuständigen
-Verwaltungsbehörde von einer gleichgeordneten auswärtigen Behörde, mit
-Zustimmung der zuständigen obersten Landesbehörden oder der von ihnen
-bestimmten oder nach Landesrecht zuständigen Stellen auch in einem
-anderen Land, behandelt und erledigt werden. Verlangt die
-Verkehrssicherheit ein sofortiges Eingreifen, so kann an Stelle der
-örtlich zuständigen Behörde jede ihr gleichgeordnete Behörde mit
-derselben Wirkung Maßnahmen auf Grund dieser Verordnung vorläufig
-treffen.
+Wohnsitz, kein Sitz, keine Niederlassung oder keine Dienststelle, so
+ist die Behörde des Wohnorts oder des Aufenthaltsorts eines
+Empfangsberechtigten zuständig. Anträge können mit Zustimmung der
+örtlich zuständigen Verwaltungsbehörde von einer gleichgeordneten
+auswärtigen Behörde, mit Zustimmung der zuständigen obersten
+Landesbehörden oder der von ihnen bestimmten oder nach Landesrecht
+zuständigen Stellen auch in einem anderen Land, behandelt und erledigt
+werden. Verlangt die Verkehrssicherheit ein sofortiges Eingreifen, so
+kann an Stelle der örtlich zuständigen Behörde jede ihr
+gleichgeordnete Behörde mit derselben Wirkung Maßnahmen auf Grund
+dieser Verordnung vorläufig treffen.
 
 (3) Die Zuständigkeiten der Verwaltungsbehörden auf Grund dieser
 Verordnung werden für die Dienstbereiche der Bundeswehr, der
@@ -3625,7 +3757,7 @@ wer vorsätzlich oder fahrlässig
         Absatz 2 Satz 4 oder § 19 Absatz 1 Nummer 3 Satz 5 oder
 
 
-    c)  § 16 Absatz 2 Satz 7, § 19 Absatz 1 Nummer 4 Satz 3 oder § 27 Absatz
+    c)  § 16 Absatz 2 Satz 8, § 19 Absatz 1 Nummer 4 Satz 3 oder § 27 Absatz
         7, auch in Verbindung mit § 28 Satz 5,
 
 
@@ -3634,7 +3766,7 @@ wer vorsätzlich oder fahrlässig
 
 
 2.  entgegen § 3 Absatz 4, § 4 Absatz 6, § 5 Absatz 2 Satz 2, § 10 Absatz
-    12 Satz 2, § 13 Absatz 1 Satz 6, § 16 Absatz 2 Satz 8 oder Absatz 5
+    12 Satz 2, § 13 Absatz 1 Satz 6, § 16 Absatz 2 Satz 9 oder Absatz 5
     Satz 4, § 17 Absatz 2 Satz 5 oder § 19 Absatz 1 Nummer 3 Satz 6 oder
     Nummer 4 Satz 4 die Inbetriebnahme eines Fahrzeugs auf öffentlichen
     Straßen anordnet oder zulässt,
@@ -3648,7 +3780,7 @@ wer vorsätzlich oder fahrlässig
     nicht, nicht richtig oder nicht vollständig kennzeichnet,
 
 
-5.  entgegen § 4 Absatz 5 Satz 1, § 11 Absatz 5, § 16 Absatz 2 Satz 3 oder
+5.  entgegen § 4 Absatz 5 Satz 1, § 11 Absatz 5, § 16 Absatz 2 Satz 4 oder
     Absatz 3 Satz 4, auch in Verbindung mit § 17 Absatz 2 Satz 1, § 20
     Absatz 5 oder § 26 Absatz 1 Satz 6 ein dort genanntes Dokument nicht
     mitführt oder auf Verlangen nicht aushändigt,
@@ -3701,7 +3833,15 @@ wer vorsätzlich oder fahrlässig
     fertigt,
 
 
-16. entgegen § 16 Absatz 2 Satz 6 ein Kurzzeitkennzeichen an nicht nur
+15a. entgegen § 16 Absatz 2 Satz 3 Nummer 1 das Kurzzeitkennzeichen
+    verwendet,
+
+
+15b. entgegen § 16 Absatz 2 Satz 3 Nummer 2 das Kurzzeitkennzeichen einer
+    anderen Person überlässt,
+
+
+16. entgegen § 16 Absatz 2 Satz 7 ein Kurzzeitkennzeichen an nicht nur
     einem Fahrzeug verwendet,
 
 
@@ -3743,16 +3883,26 @@ erhältlich.
 Ordnung in der bis zum 28. Februar 2007 geltenden Fassung der
 Zulassungspflicht oder dem Zulassungsverfahren nicht unterworfen waren
 und die vor dem 1. März 2007 erstmals in Verkehr kamen, bleiben
-weiterhin zulassungsfrei.
+weiterhin zulassungsfrei, war für diese Fahrzeuge auch keine
+Betriebserlaubnis erforderlich, bedürfen sie keiner Genehmigung nach §
+2 Nummer 4 bis 6.
 
 (2) Kennzeichen, die vor dem 1. März 2007 nach Maßgabe der
 Straßenverkehrs-Zulassungs-Ordnung zugeteilt worden sind, bleiben
 gültig.
 
-(3) Folgende vor dem 1. März 2007 ausgefertigte Fahrzeugdokumente
-gelten als Fahrzeugdokumente im Sinne dieser Verordnung fort:
+(2a) Unterscheidungszeichen nach Maßgabe der Anlage 1 Nummer 1 in der
+bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gelten
+als beantragt und festgelegt im Sinne des § 8 Absatz 2 Satz 1 und 5.
+Unterscheidungszeichen nach Maßgabe der Anlage 1 Nummer 2 in der bis
+zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gelten als
+aufgehoben im Sinne des § 8 Absatz 2 Satz 1 und 5.
 
-1.  Fahrzeugscheine und Anhängerscheine, die
+(3) Folgende Fahrzeugdokumente gelten als Fahrzeugdokumente im Sinne
+dieser Verordnung fort:
+
+1.  vor dem 1. März 2007 ausgefertigte Fahrzeugscheine und
+    Anhängerscheine, die
 
     a)  den Mustern 2, 2a, 2b, 3 und 3a der Straßenverkehrs-Zulassungs-Ordnung
         in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9232-1,
@@ -3801,21 +3951,28 @@ gelten als Fahrzeugdokumente im Sinne dieser Verordnung fort:
 6.  Zulassungsbescheinigungen Teil I (Fahrzeugscheine) der Bundeswehr, die
     dem Muster 2c der Straßenverkehrs-Zulassungs-Ordnung in der Fassung
     der Verordnung vom 24. September 2004 (BGBl. I S. 2374) entsprechen
-    und ab 1. Oktober 2005 ausgefertigt worden sind.
+    und ab 1. Oktober 2005 ausgefertigt worden sind;
+
+
+7.  Zulassungsbescheinigungen Teil I, die den Mustern in Anlage 5 und
+    Anlage 6 in der bis zum 31. Oktober 2012 geltenden Fassung dieser
+    Verordnung entsprechen;
+
+
+8.  Fahrzeugscheine und Fahrzeugscheinhefte für Fahrzeuge mit roten
+    Oldtimerkennzeichen nach § 17, die in der bis zum 31. Oktober 2012
+    geltenden Fassung dieser Verordnung ausgefertigt worden sind.
 
 
 
-Vordrucke für Zulassungsbescheinigungen, die den in Satz 1 Nummer 4
-bis 6 benannten Mustern entsprechen, dürfen noch bis zum 31. März 2008
+Vordrucke für Zulassungsbescheinigungen, die den in Satz 1 Nummer 7
+benannten Mustern entsprechen, dürfen noch bis zum 30. Juni 2013
 aufgebraucht werden.
 
-(4) Vordrucke, die den Mustern 6, 6a, 7 und 9 der Straßenverkehrs-
-Zulassungs-Ordnung in der Fassung der Verordnung vom 24. September
-2004 (BGBl. I S. 2374) entsprechen, dürfen noch bis zum 31. März 2008
-aufgebraucht werden.
+(4) (weggefallen)
 
 (5) Die Vorschriften über die Speicherung der Daten nach § 30 Absatz 1
-Nummer 1 in Verbindung mit § 6 Absatz 4 Nummer 1 bis 3, nach § 30
+Nummer 1 in Verbindung mit § 6 Absatz 4 Nummer 1 und 2, nach § 30
 Absatz 1 Nummer 1 in Verbindung mit § 6 Absatz 7 Nummer 2 hinsichtlich
 der Nummer und des Datums der Erteilung der Genehmigung, nach § 30
 Absatz 1 Nummer 1 in Verbindung mit § 6 Absatz 7 Nummer 7 Buchstabe d
@@ -3835,6 +3992,13 @@ anzuwenden.
 
 (7) § 47 Absatz 1 Nummer 2 ist ab dem 1. September 2008 anzuwenden.
 
+(8) § 8 Absatz 2 ist für die Dauer der Sonderregelung zur Verwaltung
+der Kraftfahrzeugsteuer durch Organleihe nach § 18a des
+Finanzverwaltungsgesetzes in der Fassung der Bekanntmachung vom 4.
+April 2006 (BGBl. I S. 846, 1202), das zuletzt durch Artikel 17 des
+Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) geändert worden ist,
+im Einvernehmen mit dem Bundesministerium der Finanzen anzuwenden.
+
 
 ### § 51 Inkrafttreten, Außerkrafttreten
 
@@ -3851,4650 +4015,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
-### Anlage 1 (zu § 8 Absatz 1 Satz 3) Unterscheidungszeichen der Verwaltungsbezirke
+### Anlage 1 (aufgehoben)
 
-(Fundstelle: BGBl. I 2011, 167 - 184;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-**1.** **Gültige Unterscheidungszeichen**
-
-    *        *
-        *   **Kreis**
-
-
-    *        *   A
-
-        *[^f774780_02_BJNR013900011BJNE005502140]
-   Augsburg
-
-
-    *        *   AA
-
-        *   Ostalbkreis
-
-
-    *        *   AB
-
-        *   Aschaffenburg\*)
-
-
-    *        *   ABG
-
-        *   Altenburger-Land
-
-
-    *        *   ABI
-
-        *   Anhalt-Bitterfeld
-
-
-    *        *   AC
-
-        *   Aachen
-
-
-    *        *   AIC
-
-        *   Aichach-Friedberg
-
-
-    *        *   AK
-
-        *   Altenkirchen Westerwald
-
-
-    *        *   AM
-
-        *   Amberg Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Amberg-Sulzbach
-
-
-    *        *   AN
-
-        *   Ansbach\*)
-
-
-    *        *   ANA
-
-        *   Annaberg
-
-
-    *        *   AÖ
-
-        *   Altötting
-
-
-    *        *   AP
-
-        *   Weimarer-Land
-
-
-    *        *   AS
-
-        *   Amberg-Sulzbach
-
-
-    *        *   ASZ
-
-        *   Aue-Schwarzenberg
-
-
-    *        *   AUR
-
-        *   Aurich
-
-
-    *        *   AW
-
-        *   Ahrweiler
-
-
-    *        *   AZ
-
-        *   Alzey-Worms
-
-
-    *        *   B
-
-        *   Berlin
-
-
-    *        *   BA
-
-        *   Bamberg\*)
-
-
-    *        *   BAD
-
-        *   Baden-Baden, Stadt
-
-
-    *        *   BAR
-
-        *   Barnim
-
-
-    *        *   BB
-
-        *   Böblingen
-
-
-    *        *   BC
-
-        *   Biberach Riß
-
-
-    *        *   BGL
-
-        *   Berchtesgadener Land
-
-
-    *        *   BI
-
-        *   Bielefeld, Stadt
-
-
-    *        *   BIR
-
-        *   Birkenfeld Nahe Kreis, Idar-Oberstein, Stadt\*)
-
-
-    *        *   BIT
-
-        *   Bitburg-Prüm
-
-
-    *        *   BK
-
-        *   Börde
-
-
-    *        *   BL
-
-        *   Zollernalbkreis
-
-
-    *        *   BLK
-
-        *   Burgenlandkreis
-
-
-    *        *   BM
-
-        *   Rhein-Erft-Kreis
-
-
-    *        *   BN
-
-        *   Bonn, Stadt
-
-
-    *        *   BO
-
-        *   Bochum, Stadt
-
-
-    *        *   BOR
-
-        *   Borken
-
-
-    *        *   BOT
-
-        *   Bottrop, Stadt
-
-
-    *        *   BRA
-
-        *   Wesermarsch
-
-
-    *        *   BRB
-
-        *   Brandenburg, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Potsdam-
-            Mittelmark
-
-
-    *        *   BS
-
-        *   Braunschweig, Stadt
-
-
-    *        *   BT
-
-        *   Bayreuth\*)
-
-
-    *        *   BÜS
-
-        *   Konstanz, Gemeinde Büsingen am Hochrhein
-
-
-    *        *   BZ
-
-        *   Bautzen
-
-
-    *        *   C
-
-        *   Chemnitz, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Chemnitzer Land
-
-
-    *        *   CB
-
-        *   Cottbus\*)
-
-
-    *        *   CE
-
-        *   Celle
-
-
-    *        *   CHA
-
-        *   Cham
-
-
-    *        *   CLP
-
-        *   Cloppenburg
-
-
-    *        *   CO
-
-        *   Coburg\*)
-
-
-    *        *   COC
-
-        *   Cochem-Zell
-
-
-    *        *   COE
-
-        *   Coesfeld
-
-
-    *        *   CUX
-
-        *   Cuxhaven
-
-
-    *        *   CW
-
-        *   Calw
-
-
-    *        *   D
-
-        *   Düsseldorf, Stadt
-
-
-    *        *   DA
-
-        *[^f774780_03_BJNR013900011BJNE005502140]
-   Darmstadt
-
-
-    *        *   DAH
-
-        *   Dachau
-
-
-    *        *   DAN
-
-        *   Lüchow-Dannenberg
-
-
-    *        *   DAU
-
-        *   Daun, Kreis
-
-
-    *        *   DD
-
-        *   Dresden, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Meißen
-
-
-    *        *   DE
-
-        *   Dessau-Roßlau, Stadt
-
-
-    *        *   DEG
-
-        *   Deggendorf
-
-
-    *        *   DEL
-
-        *   Delmenhorst, Stadt
-
-
-    *        *   DGF
-
-        *   Dingolfing-Landau
-
-
-    *        *   DH
-
-        *   Diepholz\*)
-
-
-    *        *   DL
-
-        *   Döbeln
-
-
-    *        *   DLG
-
-        *   Dillingen a. d. Donau
-
-
-    *        *   DM
-
-        *   Demmin
-
-
-    *        *   DN
-
-        *   Düren
-
-
-    *        *   DO
-
-        *   Dortmund, Stadt
-
-
-    *        *   DON
-
-        *   Donau-Ries in Donauwörth
-
-
-    *        *   DU
-
-        *   Duisburg, Stadt
-
-
-    *        *   DÜW
-
-        *   Bad Dürkheim Weinstraße
-
-
-    *        *   DW
-
-        *   Weißeritzkreis
-
-
-    *        *   DZ
-
-        *   Delitzsch
-
-
-    *        *   E
-
-        *   Essen, Stadt
-
-
-    *        *   EA
-
-        *   Eisenach, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Wartburgkreis
-
-
-    *        *   EBE
-
-        *   Ebersberg
-
-
-    *        *   ED
-
-        *   Erding
-
-
-    *        *   EE
-
-        *   Elbe-Elster
-
-
-    *        *   EF
-
-        *   Erfurt, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Sömmerda
-
-
-    *        *   EI
-
-        *   Eichstätt
-
-
-    *        *   EIC
-
-        *   Eichsfeld
-
-
-    *        *   EL
-
-        *   Emsland
-
-
-    *        *   EM
-
-        *   Emmendingen
-
-
-    *        *   EMD
-
-        *   Emden, Stadt
-
-
-    *        *   EMS
-
-        *   Rhein-Lahn-Kreis
-
-
-    *        *   EN
-
-        *   Ennepe-Ruhr-Kreis
-
-
-    *        *   ER
-
-        *   Erlangen, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Erlangen-
-            Höchstadt
-
-
-    *        *   ERB
-
-        *   Odenwaldkreis
-
-
-    *        *   ERH
-
-        *   Erlangen-Höchstadt
-
-
-    *        *   ES
-
-        *   Esslingen Neckar
-
-
-    *        *   ESW
-
-        *   Werra-Meißner-Kreis
-
-
-    *        *   EU
-
-        *   Euskirchen
-
-
-    *        *   F
-
-        *   Frankfurt/Main, Stadt
-
-
-    *        *   FB
-
-        *   Wetteraukreis in Friedberg Hessen
-
-
-    *        *   FD
-
-        *   Fulda
-
-
-    *        *   FDS
-
-        *   Freudenstadt
-
-
-    *        *   FF
-
-        *   Frankfurt (Oder), Stadt
-
-
-    *        *   FFB
-
-        *   Fürstenfeldbruck
-
-
-    *        *   FG
-
-        *   Freiberg
-
-
-    *        *   FL
-
-        *   Flensburg
-
-
-    *        *   FN
-
-        *   Bodenseekreis
-
-
-    *        *   FO
-
-        *   Forchheim
-
-
-    *        *   FR
-
-        *   Freiburg Breisgau\*)
-
-
-    *        *   FRG
-
-        *   Freyung-Grafenau
-
-
-    *        *   FRI
-
-        *   Friesland
-
-
-    *        *   FS
-
-        *   Freising
-
-
-    *        *   FT
-
-        *   Frankenthal Pfalz, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Bad Dürkheim
-
-
-    *        *   FÜ
-
-        *   Fürth\*)
-
-
-    *        *   G
-
-        *   Gera, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Greiz
-
-
-    *        *   GAP
-
-        *   Garmisch-Partenkirchen
-
-
-    *        *   GC
-
-        *   Chemnitzer Land in Glauchau
-
-
-    *        *   GE
-
-        *   Gelsenkirchen, Stadt
-
-
-    *        *   GER
-
-        *   Germersheim
-
-
-    *        *   GF
-
-        *   Gifhorn
-
-
-    *        *   GG
-
-        *   Groß-Gerau
-
-
-    *        *   GI
-
-        *   Gießen
-
-
-    *        *   GL
-
-        *   Rheinisch-Bergischer-Kreis
-
-
-    *        *   GM
-
-        *   Oberbergischer Kreis
-
-
-    *        *   GÖ
-
-        *   Göttingen\*)
-
-
-    *        *   GP
-
-        *   Göppingen
-
-
-    *        *   GR
-
-        *   Görlitz, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde des Niederschlesischen
-            Oberlausitzkreises
-
-
-    *        *   GRZ
-
-        *   Greiz
-
-
-    *        *   GS
-
-        *   Goslar
-
-
-    *        *   GT
-
-        *   Gütersloh
-
-
-    *        *   GTH
-
-        *   Gotha
-
-
-    *        *   GZ
-
-        *   Günzburg
-
-
-    *        *   H
-
-        *   Hannover\*)
-
-
-    *        *   HA
-
-        *   Hagen, Stadt
-
-
-    *        *   HAL
-
-        *   Halle, Stadt
-
-
-    *        *   HAM
-
-        *   Hamm, Stadt
-
-
-    *        *   HAS
-
-        *   Haßberge
-
-
-    *        *   HB
-
-        *   Hansestadt Bremen\*)
-
-
-    *        *   HBN
-
-        *   Hildburghausen
-
-
-    *        *   HD
-
-        *   Heidelberg\*)
-
-
-    *        *   HDH
-
-        *   Heidenheim Brenz
-
-
-    *        *   HE
-
-        *   Helmstedt
-
-
-    *        *   HEF
-
-        *   Hersfeld-Rotenburg
-
-
-    *        *   HEI
-
-        *   Dithmarschen
-
-
-    *        *   HER
-
-        *   Herne, Stadt
-
-
-    *        *   HF
-
-        *   Herford
-
-
-    *        *   HG
-
-        *   Hochtaunuskreis
-
-
-    *        *   HGW
-
-        *   Hansestadt Greifswald
-
-
-    *        *   HH
-
-        *   Freie und Hansestadt Hamburg
-
-
-    *        *   HI
-
-        *   Hildesheim
-
-
-    *        *   HK
-
-        *   Landkreis Heidekreis
-
-
-    *        *   HL
-
-        *   Hansestadt Lübeck
-
-
-    *        *   HM
-
-        *   Hameln-Pyrmont
-
-
-    *        *   HN
-
-        *   Heilbronn Neckar\*)
-
-
-    *        *   HO
-
-        *   Hof\*)
-
-
-    *        *   HOL
-
-        *   Holzminden
-
-
-    *        *   HOM
-
-        *   Saarpfalz-Kreis außer Stadt St. Ingbert (IGB)
-
-
-    *        *   HP
-
-        *   Bergstraße
-
-
-    *        *   HR
-
-        *   Schwalm-Eder-Kreis
-
-
-    *        *   HRO
-
-        *   Hansestadt Rostock
-
-
-    *        *   HS
-
-        *   Heinsberg
-
-
-    *        *   HSK
-
-        *   Hochsauerlandkreis
-
-
-    *        *   HST
-
-        *   Hansestadt Stralsund, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Vorpommern-Rügen
-
-
-    *        *   HU
-
-        *   Hanau
-
-
-    *        *   HVL
-
-        *   Havelland
-
-
-    *        *   HWI
-
-        *   Hansestadt Wismar
-
-
-    *        *   HX
-
-        *   Höxter
-
-
-    *        *   HY
-
-        *   Hoyerswerda, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Kamenz
-
-
-    *        *   HZ
-
-        *   Harz
-
-
-    *        *   IGB
-
-        *   St. Ingbert, Stadt
-
-
-    *        *   IK
-
-        *   Ilm-Kreis
-
-
-    *        *   IN
-
-        *   Ingolstadt, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Eichstätt
-
-
-    *        *   IZ
-
-        *   Steinburg
-
-
-    *        *   J
-
-        *   Jena, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Saale-Holzlandkreis
-
-
-    *        *   JL
-
-        *   Jerichower Land
-
-
-    *        *   K
-
-        *   Köln, Stadt
-
-
-    *        *   KA
-
-        *   Karlsruhe\*)
-
-
-    *        *   KB
-
-        *   Waldeck-Frankenberg
-
-
-    *        *   KC
-
-        *   Kronach
-
-
-    *        *   KE
-
-        *   Kempten (Allgäu), Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Oberallgäu
-
-
-    *        *   KEH
-
-        *   Kelheim
-
-
-    *        *   KF
-
-        *   Kaufbeuren, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Ostallgäu
-
-
-    *        *   KG
-
-        *   Bad Kissingen
-
-
-    *        *   KH
-
-        *   Bad Kreuznach\*)
-
-
-    *        *   KI
-
-        *   Kiel
-
-
-    *        *   KIB
-
-        *   Donnersbergkreis
-
-
-    *        *   KL
-
-        *   Kaiserslautern\*)
-
-
-    *        *   KLE
-
-        *   Kleve
-
-
-    *        *   KM
-
-        *   Kamenz
-
-
-    *        *   KN
-
-        *   Konstanz
-
-
-    *        *   KO
-
-        *   Koblenz, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Mayen-Koblenz
-
-
-    *        *   KR
-
-        *   Krefeld, Stadt
-
-
-    *        *   KS
-
-        *   Kassel\*)
-
-
-    *        *   KT
-
-        *   Kitzingen
-
-
-    *        *   KU
-
-        *   Kulmbach
-
-
-    *        *   KÜN
-
-        *   Hohenlohekreis
-
-
-    *        *   KUS
-
-        *   Kusel
-
-
-    *        *   KYF
-
-        *   Kyffhäuserkreis
-
-
-    *        *   L
-
-        *   Leipzig\*)
-
-
-    *        *   LA
-
-        *   Landshut\*)
-
-
-    *        *   LAU
-
-        *   Nürnberger Land
-
-
-    *        *   LB
-
-        *   Ludwigsburg
-
-
-    *        *   LD
-
-        *   Landau, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Südliche
-            Weinstraße
-
-
-    *        *   LDK
-
-        *   Lahn-Dill-Kreis in Wetzlar, Kreis
-
-
-    *        *   LDS
-
-        *   Dahme-Spreewald
-
-
-    *        *   LER
-
-        *   Leer
-
-
-    *        *   LEV
-
-        *   Leverkusen, Stadt
-
-
-    *        *   LG
-
-        *   Lüneburg
-
-
-    *        *   LI
-
-        *   Lindau (Bodensee)
-
-
-    *        *   LIF
-
-        *   Lichtenfels
-
-
-    *        *   LIP
-
-        *   Lippe
-
-
-    *        *   LL
-
-        *   Landsberg a. Lech
-
-
-    *        *   LM
-
-        *   Limburg-Weilburg
-
-
-    *        *   LÖ
-
-        *   Lörrach
-
-
-    *        *   LOS
-
-        *   Oder-Spree
-
-
-    *        *   LRO
-
-        *   Landkreis Rostock
-
-
-    *        *   LU
-
-        *   Ludwigshafen Rhein
-
-
-    *        *   LWL
-
-        *   Ludwigslust
-
-
-    *        *   M
-
-        *   München\*)
-
-
-    *        *   MA
-
-        *   Mannheim, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Rhein-Neckar-Kreis
-
-
-    *        *   MB
-
-        *   Miesbach
-
-
-    *        *   MD
-
-        *   Magdeburg, Stadt
-
-
-    *        *   ME
-
-        *   Mettmann
-
-
-    *        *   MEI
-
-        *   Meißen
-
-
-    *        *   MEK
-
-        *   Mittlerer Erzgebirgskreis
-
-
-    *        *   MG
-
-        *   Mönchengladbach, Stadt
-
-
-    *        *   MH
-
-        *   Mülheim a. d. Ruhr, Stadt
-
-
-    *        *   MI
-
-        *   Minden-Lübbecke
-
-
-    *        *   MIL
-
-        *   Miltenberg
-
-
-    *        *   MK
-
-        *   Märkischer Kreis
-
-
-    *        *   MKK
-
-        *   Main-Kinzig-Kreis
-
-
-    *        *   MM
-
-        *   Memmingen, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Unterallgäu
-
-
-    *        *   MN
-
-        *   Unterallgäu
-
-
-    *        *   MOL
-
-        *   Märkisch-Oderland
-
-
-    *        *   MOS
-
-        *   Neckar-Odenwald-Kreis
-
-
-    *        *   MR
-
-        *   Marburg-Biedenkopf
-
-
-    *        *   MS
-
-        *   Münster, Stadt
-
-
-    *        *   MSH
-
-        *   Mansfeld-Südharz
-
-
-    *        *   MSP
-
-        *   Main-Spessart
-
-
-    *        *   MST
-
-        *   Mecklenburg-Strelitz
-
-
-    *        *   MTK
-
-        *   Main-Taunus-Kreis
-
-
-    *        *   MTL
-
-        *   Muldentalkreis
-
-
-    *        *   MÜ
-
-        *   Mühldorf a. Inn
-
-
-    *        *   MÜR
-
-        *   Müritz
-
-
-    *        *   MW
-
-        *   Mittweida
-
-
-    *        *   MYK
-
-        *   Mayen-Koblenz
-
-
-    *        *   MZ
-
-        *   Mainz\*)
-
-
-    *        *   MZG
-
-        *   Merzig-Wadern
-
-
-    *        *   N
-
-        *   Nürnberg, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Nürnberger Land
-
-
-    *        *   NB
-
-        *   Neubrandenburg, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Mecklenburg-
-            Strelitz
-
-
-    *        *   ND
-
-        *   Neuburg-Schrobenhausen
-
-
-    *        *   NDH
-
-        *   Nordhausen
-
-
-    *        *   NE
-
-        *   Rhein-Kreis Neuss
-
-
-    *        *   NEA
-
-        *   Neustadt a. d. Aisch
-
-
-    *        *   NES
-
-        *   Rhön-Grabfeld
-
-
-    *        *   NEW
-
-        *   Neustadt a. d. Waldnaab
-
-
-    *        *   NF
-
-        *   Nordfriesland
-
-
-    *        *   NI
-
-        *   Nienburg (Weser)
-
-
-    *        *   NK
-
-        *   Neunkirchen Saar
-
-
-    *        *   NM
-
-        *   Neumarkt i. d. OPf.
-
-
-    *        *   NMS
-
-        *   Neumünster, Stadt
-
-
-    *        *   NOH
-
-        *   Grafschaft Bentheim
-
-
-    *        *   NOL
-
-        *   Niederschlesischer Oberlausitzkreis
-
-
-    *        *   NOM
-
-        *   Northeim
-
-
-    *        *   NR
-
-        *   Neuwied Rhein\*)
-
-
-    *        *   NU
-
-        *   Neu-Ulm
-
-
-    *        *   NW
-
-        *   Neustadt Weinstraße, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Bad Dürkheim
-
-
-    *        *   NWM
-
-        *   Nordwestmecklenburg
-
-
-    *        *   OA
-
-        *   Oberallgäu
-
-
-    *        *   OAL
-
-        *   Ostallgäu
-
-
-    *        *   OB
-
-        *   Oberhausen, Stadt
-
-
-    *        *   OD
-
-        *   Stormarn
-
-
-    *        *   OE
-
-        *   Olpe
-
-
-    *        *   OF
-
-        *   Offenbach am Main\*)
-
-
-    *        *   OG
-
-        *   Ortenaukreis
-
-
-    *        *   OH
-
-        *   Ostholstein
-
-
-    *        *   OHA
-
-        *   Osterode am Harz
-
-
-    *        *   OHV
-
-        *   Oberhavel
-
-
-    *        *   OHZ
-
-        *   Osterholz
-
-
-    *        *   OL
-
-        *   Oldenburg (Oldenburg)\*)
-
-
-    *        *   OPR
-
-        *   Ostprignitz-Ruppin
-
-
-    *        *   OS
-
-        *   Osnabrück\*)
-
-
-    *        *   OSL
-
-        *   Oberspreewald-Lausitz
-
-
-    *        *   P
-
-        *   Potsdam, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Potsdam-
-            Mittelmark
-
-
-    *        *   PA
-
-        *   Passau\*)
-
-
-    *        *   PAF
-
-        *   Pfaffenhofen a. d. Ilm
-
-
-    *        *   PAN
-
-        *   Rottal-Inn
-
-
-    *        *   PB
-
-        *   Paderborn
-
-
-    *        *   PCH
-
-        *   Parchim
-
-
-    *        *   PE
-
-        *   Peine
-
-
-    *        *   PF
-
-        *   Pforzheim\*)
-
-
-    *        *   PI
-
-        *   Pinneberg
-
-
-    *        *   PIR
-
-        *   Sächsische Schweiz
-
-
-    *        *   PL
-
-        *   Plauen, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Vogtlandkreis
-
-
-    *        *   PLÖ
-
-        *   Plön Holstein
-
-
-    *        *   PM
-
-        *   Potsdam-Mittelmark
-
-
-    *        *   PR
-
-        *   Prignitz
-
-
-    *        *   PS
-
-        *   Pirmasens\*)
-
-
-    *        *   R
-
-        *   Regensburg\*)
-
-
-    *        *   RA
-
-        *   Rastatt
-
-
-    *        *   RD
-
-        *   Rendsburg-Eckernförde
-
-
-    *        *   RE
-
-        *   Recklinghausen
-
-
-    *        *   REG
-
-        *   Regen
-
-
-    *        *   RG
-
-        *   Riesa-Großenhain
-
-
-    *        *   RH
-
-        *   Roth
-
-
-    *        *   RO
-
-        *   Rosenheim\*)
-
-
-    *        *   ROW
-
-        *   Rotenburg (Wümme)
-
-
-    *        *   RP
-
-        *   Rhein-Pfalz-Kreis
-
-
-    *        *   RS
-
-        *   Remscheid, Stadt
-
-
-    *        *   RT
-
-        *   Reutlingen
-
-
-    *        *   RÜD
-
-        *   Rheingau-Taunus-Kreis
-
-
-    *        *   RÜG
-
-        *   Rügen
-
-
-    *        *   RV
-
-        *   Ravensburg
-
-
-    *        *   RW
-
-        *   Rottweil
-
-
-    *        *   RZ
-
-        *   Herzogtum Lauenburg
-
-
-    *        *   S
-
-        *   Stuttgart, Stadt
-
-
-    *        *   SAD
-
-        *   Schwandorf
-
-
-    *        *   SAW
-
-        *   Altmarkkreis Salzwedel
-
-
-    *        *   SB
-
-        *   Saarbrücken, Stadt und Stadtverband außer Völklingen, Stadt (VK)
-
-
-    *        *   SC
-
-        *   Schwabach, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Roth
-
-
-    *        *   SDL
-
-        *   Stendal
-
-
-    *        *   SE
-
-        *   Segeberg
-
-
-    *        *   SG
-
-        *   Solingen, Stadt
-
-
-    *        *   SHA
-
-        *   Schwäbisch Hall
-
-
-    *        *   SHG
-
-        *   Schaumburg in Stadthagen
-
-
-    *        *   SHK
-
-        *   Saale-Holzlandkreis
-
-
-    *        *   SHL
-
-        *   Suhl, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Hildburghausen
-
-
-    *        *   SI
-
-        *   Siegen-Wittgenstein
-
-
-    *        *   SIG
-
-        *   Sigmaringen
-
-
-    *        *   SIM
-
-        *   Rhein-Hunsrück-Kreis
-
-
-    *        *   SK
-
-        *   Saalekreis
-
-
-    *        *   SL
-
-        *   Schleswig-Flensburg
-
-
-    *        *   SLF
-
-        *   Saalfeld-Rudolstadt
-
-
-    *        *   SLK
-
-        *   Salzlandkreis
-
-
-    *        *   SLS
-
-        *   Saarlouis
-
-
-    *        *   SM
-
-        *   Schmalkalden-Meiningen
-
-
-    *        *   SN
-
-        *   Schwerin, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Parchim
-
-
-    *        *   SO
-
-        *   Soest
-
-
-    *        *   SÖM
-
-        *   Sömmerda
-
-
-    *        *   SOK
-
-        *   Saale-Orla-Kreis
-
-
-    *        *   SON
-
-        *   Sonneberg
-
-
-    *        *   SP
-
-        *   Speyer, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Ludwigshafen
-            Rhein
-
-
-    *        *   SPN
-
-        *   Spree-Neiße
-
-
-    *        *   SR
-
-        *   Straubing\*)
-
-
-    *        *   ST
-
-        *   Steinfurt
-
-
-    *        *   STA
-
-        *   Starnberg
-
-
-    *        *   STD
-
-        *   Stade
-
-
-    *        *   STL
-
-        *   Stollberg
-
-
-    *        *   SU
-
-        *   Rhein-Sieg-Kreis
-
-
-    *        *   SÜW
-
-        *   Südliche Weinstraße
-
-
-    *        *   SW
-
-        *   Schweinfurt\*)
-
-
-    *        *   SZ
-
-        *   Salzgitter, Stadt
-
-
-    *        *   TBB
-
-        *   Main-Tauber-Kreis
-
-
-    *        *   TF
-
-        *   Teltow-Fläming
-
-
-    *        *   TIR
-
-        *   Tirschenreuth
-
-
-    *        *   TO
-
-        *   Torgau-Oschatz
-
-
-    *        *   TÖL
-
-        *   Bad Tölz-Wolfratshausen
-
-
-    *        *   TR
-
-        *   Trier, Stadt und Trier-Saarburg
-
-
-    *        *   TS
-
-        *   Traunstein
-
-
-    *        *   TÜ
-
-        *   Tübingen
-
-
-    *        *   TUT
-
-        *   Tuttlingen
-
-
-    *        *   UE
-
-        *   Uelzen
-
-
-    *        *   UH
-
-        *   Unstrut-Hainich-Kreis
-
-
-    *        *   UL
-
-        *   Ulm Donau\*)
-
-
-    *        *   UM
-
-        *   Uckermark
-
-
-    *        *   UN
-
-        *   Unna
-
-
-    *        *   V
-
-        *   Vogtlandkreis
-
-
-    *        *   VB
-
-        *   Vogelsbergkreis
-
-
-    *        *   VEC
-
-        *   Vechta
-
-
-    *        *   VER
-
-        *   Verden
-
-
-    *        *   VG
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   VIE
-
-        *   Viersen
-
-
-    *        *   VK
-
-        *   Völklingen, Stadt
-
-
-    *        *   VR
-
-        *   Vorpommern-Rügen
-
-
-    *        *   VS
-
-        *   Schwarzwald-Baar-Kreis
-
-
-    *        *   W
-
-        *   Wuppertal, Stadt
-
-
-    *        *   WAF
-
-        *   Warendorf
-
-
-    *        *   WAK
-
-        *   Wartburgkreis
-
-
-    *        *   WB
-
-        *   Wittenberg
-
-
-    *        *   WE
-
-        *   Weimar, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Weimarer-Land
-
-
-    *        *   WEN
-
-        *   Weiden i. d. OPf., Stadt
-
-
-    *        *   WES
-
-        *   Wesel
-
-
-    *        *   WF
-
-        *   Wolfenbüttel
-
-
-    *        *   WHV
-
-        *   Wilhelmshaven, Stadt
-
-
-    *        *   WI
-
-        *   Wiesbaden, Stadt
-
-
-    *        *   WIL
-
-        *   Bernkastel-Wittlich
-
-
-    *        *   WL
-
-        *   Harburg
-
-
-    *        *   WM
-
-        *   Weilheim-Schongau in Weilheim i. OB.
-
-
-    *        *   WN
-
-        *   Rems-Murr-Kreis
-
-
-    *        *   WND
-
-        *   St. Wendel
-
-
-    *        *   WO
-
-        *   Worms, Stadt
-
-
-    *        *   WOB
-
-        *   Wolfsburg, Stadt
-
-
-    *        *   WST
-
-        *   Ammerland in Westerstede
-
-
-    *        *   WT
-
-        *   Waldshut in Waldshut-Tiengen
-
-
-    *        *   WTM
-
-        *   Wittmund
-
-
-    *        *   WÜ
-
-        *   Würzburg\*)
-
-
-    *        *   WUG
-
-        *   Weißenburg-Gunzenhausen
-
-
-    *        *   WUN
-
-        *   Wunsiedel i. Fichtelgebirge
-
-
-    *        *   WW
-
-        *   Westerwald in Montabaur
-
-
-    *        *   WZ
-
-        *   Wetzlar, Stadt
-
-
-    *        *   Z
-
-        *   Zwickau\*)
-
-
-    *        *   ZI
-
-        *   Löbau-Zittau
-
-
-    *        *   ZW
-
-        *   Zweibrücken, Stadt\*)
-            auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Pirmasens
-
-
-
-
-
-**2.** **Noch gültige Unterscheidungszeichen, die – bedingt durch Gebiets-
-    und Verwaltungsreformen – nicht mehr zugeteilt werden und auslaufen**
-
-    *        *
-        *   **früherer Verwaltungsbezirk (Kreis)**
-
-        *   **Abwicklung durch Zulassungsbehörde des Kreises**
-
-
-    *        *   AE
-
-        *   Auerbach
-
-        *   Vogtlandkreis
-
-
-    *        *   AH
-
-        *   Ahaus
-
-        *   Borken
-
-
-    *        *   AIB
-
-        *   Bad Aibling
-
-        *   Rosenheim
-
-
-    *        *   AL
-
-        *   Altena
-
-        *   Märkischer Kreis
-
-
-    *        *   ALF
-
-        *   Alfeld Leine
-
-        *   Hildesheim
-
-
-    *        *   ALS
-
-        *   Vogelsbergkreis in Alsfeld Oberhessen
-
-        *   Vogelsbergkreis
-
-
-    *        *   ALZ
-
-        *   Alzenau i. UFr.
-
-        *   Aschaffenburg
-
-
-    *        *   ANG
-
-        *   Angermünde
-
-        *   Uckermark
-
-
-    *        *   ANK
-
-        *   Ostvorpommern in Anklam
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   APD
-
-        *   Apolda
-
-        *   Weimarer-Land
-
-
-    *        *   AR
-
-        *   Arnsberg
-
-        *   Hochsauerlandkreis
-
-
-    *        *   ARN
-
-        *   Arnstadt
-
-        *   Ilm-Kreis
-
-
-    *        *   ART
-
-        *   Artern
-
-        *   Kyffhäuserkreis
-
-
-    *        *   ASD
-
-        *   Aschendorf-Hümmling in Papenburg-Aschendorf
-
-        *   Emsland
-
-
-    *        *   ASL
-
-        *   Aschersleben-Staßfurt
-
-        *   Salzlandkreis
-
-
-    *        *   AT
-
-        *   Altentreptow
-
-        *   Demmin
-
-
-    *        *   AU
-
-        *   Aue
-
-        *   Aue-Schwarzenberg
-
-
-    *        *   AZE
-
-        *   Anhalt-Zerbst
-
-        *   Anhalt-Bitterfeld
-
-
-    *        *   BBG
-
-        *   Bernburg
-
-        *   Salzlandkreis
-
-
-    *        *   BCH
-
-        *   Buchen Odenwald
-
-        *   Neckar-Odenwald-Kreis
-
-
-    *        *   BE
-
-        *   Beckum
-
-        *   Warendorf
-
-
-    *        *   BED
-
-        *   Brand-Erbisdorf
-
-        *   Freiberg
-
-
-    *        *   BEI
-
-        *   Beilngries
-
-        *   Eichstätt
-
-
-    *        *   BEL
-
-        *   Belzig
-
-        *   Potsdam-Mittelmark
-
-
-    *        *   BER
-
-        *   Bernau
-
-        *   Barnim
-
-
-    *        *   BF
-
-        *   Steinfurt in Burgsteinfurt
-
-        *   Steinfurt
-
-
-    *        *   BGD
-
-        *   Berchtesgaden
-
-        *   Berchtesgadener Land
-
-
-    *        *   BH
-
-        *   Bühl Baden
-
-        *   Rastatt
-
-
-    *        *   BID
-
-        *   Biedenkopf
-
-        *   Marburg-Biedenkopf
-
-
-    *        *   BIN
-
-        *   Bingen/Rhein
-
-        *   Mainz-Bingen
-
-
-    *        *   BIW
-
-        *   Bischofswerda
-
-        *   Bautzen
-
-
-    *        *   BK
-
-        *   Backnang
-
-        *   Rems-Murr-Kreis
-
-
-    *        *   BKS
-
-        *   Bernkastel in Bernkastel-Kues
-
-        *   Bernkastel-Wittlich
-
-
-    *        *   BLB
-
-        *   Wittgenstein in Berleburg
-
-        *   Siegen-Wittgenstein
-
-
-    *        *   BNA
-
-        *   Borna
-
-        *   Leipziger Land
-
-
-    *        *   BÖ
-
-        *   Bördekreis
-
-        *   Börde
-
-
-    *        *   BOG
-
-        *   Bogen
-
-        *   Straubing-Bogen und Deggendorf
-
-
-    *        *   BOH
-
-        *   Bocholt, Stadt
-
-        *   Borken
-
-
-    *        *   BR
-
-        *   Bruchsal
-
-        *   Karlsruhe
-
-
-    *        *   BRG
-
-        *   Burg
-
-        *   Jerichower Land
-
-
-    *        *   BRI
-
-        *   Brilon
-
-        *   Hochsauerlandkreis
-
-
-    *        *   BRK
-
-        *   Bad Brückenau
-
-        *   Bad Kissingen
-
-
-    *        *   BRL
-
-        *   Blankenburg in Braunlage
-
-        *   Goslar
-
-
-    *        *   BRV
-
-        *   Bremervörde
-
-        *   Rotenburg (Wümme)
-
-
-    *        *   BSB
-
-        *   Bersenbrück
-
-        *   Osnabrück
-
-
-    *        *   BSK
-
-        *   Beeskow
-
-        *   Oder-Spree
-
-
-    *        *   BTF
-
-        *   Bitterfeld
-
-        *   Anhalt-Bitterfeld
-
-
-    *        *   BU
-
-        *   Burgdorf
-
-        *   Region Hannover
-
-
-    *        *   BÜD
-
-        *   Büdingen Oberhessen
-
-        *   Wetteraukreis
-
-
-    *        *   BÜR
-
-        *   Büren
-
-        *   Paderborn
-
-
-    *        *   BÜZ
-
-        *   Bützow
-
-        *   Landkreis Rostock
-
-
-    *        *   BUL
-
-        *   Burglengenfeld
-
-        *   Schwandorf
-
-
-    *        *   BZA
-
-        *   Bergzabern
-
-        *   Südliche Weinstraße
-
-
-    *        *   CA
-
-        *   Calau
-
-        *   Oberspreewald-Lausitz
-
-
-    *        *   CAS
-
-        *   Castrop-Rauxel, Stadt
-
-        *   Recklinghausen
-
-
-    *        *   CLZ
-
-        *   Zellerfeld in Clausthal-Zellerfeld
-
-        *   Goslar
-
-
-    *        *   CR
-
-        *   Crailsheim
-
-        *   Schwäbisch Hall
-
-
-    *        *   DBR
-
-        *   Bad Doberan
-
-        *   Landkreis Rostock
-
-
-    *        *   DI
-
-        *   Dieburg
-
-        *   Darmstadt-Dieburg
-
-
-    *        *   DIL
-
-        *   Dillkreis in Dillenburg
-
-        *   Lahn-Dill-Kreis
-
-
-    *        *   DIN
-
-        *   Dinslaken
-
-        *   Wesel
-
-
-    *        *   DIZ
-
-        *   Unterlahnkreis in Diez
-
-        *   Rhein-Lahn-Kreis
-
-
-    *        *   DKB
-
-        *   Dinkelsbühl
-
-        *   Ansbach
-
-
-    *        *   DS
-
-        *   Donaueschingen
-
-        *   Schwarzwald-Baar-Kreis
-
-
-    *        *   DT
-
-        *   Lippe in Detmold
-
-        *   Lippe
-
-
-    *        *   DUD
-
-        *   Duderstadt
-
-        *   Göttingen
-
-
-    *        *   EB
-
-        *   Eilenburg
-
-        *   Delitzsch
-
-
-    *        *   EBN
-
-        *   Ebern
-
-        *   Haßberge
-
-
-    *        *   EBS
-
-        *   Ebermannstadt
-
-        *   Forchheim
-
-
-    *        *   ECK
-
-        *   Eckernförde
-
-        *   Rendsburg-Eckernförde
-
-
-    *        *   EG
-
-        *   Eggenfelden
-
-        *   Rottal-Inn, Passau und Dingolfing-Landau
-
-
-    *        *   EH
-
-        *   Eisenhüttenstadt, Stadt und Kreis
-
-        *   Oder-Spree
-
-
-    *        *   EHI
-
-        *   Ehingen Donau
-
-        *   Alb-Donau-Kreis
-
-
-    *        *   EIH
-
-        *   Eichstätt
-
-        *   Eichstätt
-
-
-    *        *   EIL
-
-        *   Eisleben
-
-        *   Mansfelder Land
-
-
-    *        *   EIN
-
-        *   Einbeck
-
-        *   Northeim
-
-
-    *        *   EIS
-
-        *   Eisenberg
-
-        *   Saale-Holzland-Kreis
-
-
-    *        *   ERK
-
-        *   Erkelenz
-
-        *   Heinsberg
-
-
-    *        *   ESA
-
-        *   Eisenach
-
-        *   Wartburgkreis
-
-
-    *        *   ESB
-
-        *   Eschenbach i. d. OPf.
-
-        *   Neustadt a. d. Waldnaab
-
-
-    *        *   EUT
-
-        *   Eutin
-
-        *   Ostholstein
-
-
-    *        *   EW
-
-        *   Eberswalde
-
-        *   Barnim
-
-
-    *        *   FAL
-
-        *   Fallingbostel
-
-        *   Landkreis Heidekreis
-
-
-    *        *   FDB
-
-        *   Friedberg
-
-        *   Aichach-Friedberg
-
-
-    *        *   FEU
-
-        *   Feuchtwangen
-
-        *   Ansbach
-
-
-    *        *   FH
-
-        *   Main-Taunus-Kreis in Frankfurt Main-Höchst
-
-        *   Main-Taunus-Kreis
-
-
-    *        *   FI
-
-        *   Finsterwalde
-
-        *   Elbe-Elster
-
-
-    *        *   FKB
-
-        *   Frankenberg Eder
-
-        *   Waldeck-Frankenberg
-
-
-    *        *   FLÖ
-
-        *   Flöha
-
-        *   Freiberg
-
-
-    *        *   FOR
-
-        *   Forst
-
-        *   Spree-Neiße
-
-
-    *        *   FRW
-
-        *   Bad Freienwalde
-
-        *   Märkisch-Oderland
-
-
-    *        *   FTL
-
-        *   Freital
-
-        *   Weißeritzkreis
-
-
-    *        *   FÜS
-
-        *   Füssen
-
-        *   Ostallgäu
-
-
-    *        *   FW
-
-        *   Fürstenwalde
-
-        *   Oder-Spree
-
-
-    *        *   FZ
-
-        *   Fritzlar-Homberg in Fritzlar
-
-        *   Schwalm-Eder-Kreis
-
-
-    *        *   GA
-
-        *   Gardelegen
-
-        *   Altmarkkreis Salzwedel
-
-
-    *        *   GAN
-
-        *   Gandersheim in Bad Gandersheim
-
-        *   Northeim
-
-
-    *        *   GD
-
-        *   Schwäbisch Gmünd
-
-        *   Ostalbkreis
-
-
-    *        *   GDB
-
-        *   Gadebusch
-
-        *   Nordwestmecklenburg
-
-
-    *        *   GEL
-
-        *   Geldern
-
-        *   Kleve
-
-
-    *        *   GEM
-
-        *   Gemünden a. Main
-
-        *   Main-Spessart
-
-
-    *        *   GEO
-
-        *   Gerolzhofen
-
-        *   Schweinfurt
-
-
-    *        *   GHA
-
-        *   Geithain
-
-        *   Leipziger Land
-
-
-    *        *   GHC
-
-        *   Gräfenhainichen
-
-        *   Wittenberg
-
-
-    *        *   GK
-
-        *   Geilenkirchen-Heinsberg
-
-        *   Heinsberg
-
-
-    *        *   GLA
-
-        *   Gladbeck, Stadt
-
-        *   Recklinghausen
-
-
-    *        *   GMN
-
-        *   Grimmen
-
-        *   Vorpommern-Rügen
-
-
-    *        *   GN
-
-        *   Gelnhausen
-
-        *   Main-Kinzig-Kreis
-
-
-    *        *   GNT
-
-        *   Genthin
-
-        *   Jerichower Land
-
-
-    *        *   GOA
-
-        *   Sankt Goar
-
-        *   Rhein-Hunsrück-Kreis
-
-
-    *        *   GOH
-
-        *   Sankt Goarshausen
-
-        *   Rhein-Lahn-Kreis
-
-
-    *        *   GRA
-
-        *   Grafenau
-
-        *   Freyung-Grafenau
-
-
-    *        *   GRH
-
-        *   Großenhain
-
-        *   Riesa-Großenhain
-
-
-    *        *   GRI
-
-        *   Griesbach i. Rottal
-
-        *   Passau und Rottal-Inn
-
-
-    *        *   GRM
-
-        *   Grimma
-
-        *   Muldentalkreis
-
-
-    *        *   GRS
-
-        *   Gransee
-
-        *   Oberhavel
-
-
-    *        *   GUB
-
-        *   Guben
-
-        *   Spree-Neiße
-
-
-    *        *   GÜ
-
-        *   Güstrow
-
-        *   Landkreis Roststock
-
-
-    *        *   GUN
-
-        *   Gunzenhausen
-
-        *   Weißenburg-Gunzenhausen
-
-
-    *        *   GV
-
-        *   Grevenbroich
-
-        *   Rhein-Kreis Neuss
-
-
-    *        *   GVM
-
-        *   Grevesmühlen
-
-        *   Nordwestmecklenburg
-
-
-    *        *   GW
-
-        *   Greifswald
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   HAB
-
-        *   Hammelburg
-
-        *   Bad Kissingen
-
-
-    *        *   HBS
-
-        *   Halberstadt
-
-        *   Harz
-
-
-    *        *   HC
-
-        *   Hainichen
-
-        *   Mittweida
-
-
-    *        *   HCH
-
-        *   Hechingen
-
-        *   Zollernalbkreis
-
-
-    *        *   HDL
-
-        *   Haldensleben
-
-        *   Ohrekreis
-
-
-    *        *   HEB
-
-        *   Hersbruck
-
-        *   Nürnberger Land
-
-
-    *        *   HET
-
-        *   Hettstedt
-
-        *   Mansfelder Land
-
-
-    *        *   HGN
-
-        *   Hagenow
-
-        *   Ludwigslust
-
-
-    *        *   HHM
-
-        *   Hohenmölsen
-
-        *   Weißenfels
-
-
-    *        *   HIG
-
-        *   Heiligenstadt
-
-        *   Eichsfeld
-
-
-    *        *   HIP
-
-        *   Hilpoltstein
-
-        *   Roth
-
-
-    *        *   HMÜ
-
-        *   Münden
-
-        *   Göttingen
-
-
-    *        *   HÖS
-
-        *   Höchstadt a. d. Aisch
-
-        *   Erlangen-Höchstadt
-
-
-    *        *   HOG
-
-        *   Hofgeismar
-
-        *   Kassel
-
-
-    *        *   HOH
-
-        *   Hofheim i. UFr.
-
-        *   Haßberge
-
-
-    *        *   HOR
-
-        *   Horb Neckar
-
-        *   Freudenstadt
-
-
-    *        *   HOT
-
-        *   Hohenstein-Ernstthal
-
-        *   Chemnitzer Land
-
-
-    *        *   HÜN
-
-        *   Hünfeld
-
-        *   Fulda
-
-
-    *        *   HUS
-
-        *   Husum
-
-        *   Nordfriesland
-
-
-    *        *   HV
-
-        *   Havelberg
-
-        *   Stendal
-
-
-    *        *   HW
-
-        *   Halle
-
-        *   Gütersloh
-
-
-    *        *   HZ
-
-        *   Herzberg
-
-        *   Elbe-Elster
-
-
-    *        *   IL
-
-        *   Ilmenau
-
-        *   Ilm-Kreis
-
-
-    *        *   ILL
-
-        *   Illertissen
-
-        *   Neu-Ulm
-
-
-    *        *   IS
-
-        *   Iserlohn, Stadt und Kreis
-
-        *   Märkischer Kreis
-
-
-    *        *   JB
-
-        *   Jüterbog
-
-        *   Teltow-Fläming
-
-
-    *        *   JE
-
-        *   Jessen
-
-        *   Wittenberg
-
-
-    *        *   JEV
-
-        *   Friesland in Jever
-
-        *   Friesland
-
-
-    *        *   JÜL
-
-        *   Jülich
-
-        *   Düren
-
-
-    *        *   KAR
-
-        *   Main-Spessart in Karlstadt
-
-        *   Main-Spessart
-
-
-    *        *   KEL
-
-        *   Kehl
-
-        *   Ortenaukreis
-
-
-    *        *   KEM
-
-        *   Kemnath
-
-        *   Tirschenreuth
-
-
-    *        *   KK
-
-        *   Kempen-Krefeld in Kempen
-
-        *   Viersen
-
-
-    *        *   KLZ
-
-        *   Klötze
-
-        *   Altmarkkreis Salzwedel und Ohrekreis
-
-
-    *        *   KÖN
-
-        *   Königshofen i. Grabfeld
-
-        *   Rhön-Grabfeld
-
-
-    *        *   KÖT
-
-        *   Köthen
-
-        *   Anhalt-Bitterfeld
-
-
-    *        *   KÖZ
-
-        *   Kötzting
-
-        *   Cham
-
-
-    *        *   KRU
-
-        *   Krumbach
-
-        *   Günzburg
-
-
-    *        *   KW
-
-        *   Königs Wusterhausen
-
-        *   Dahme-Spreewald
-
-
-    *        *   KY
-
-        *   Kyritz
-
-        *   Ostprignitz-Ruppin
-
-
-    *        *   L
-
-        *   Lahn-Dill-Kreis in Wetzlar
-
-        *   Gießen und Lahn-Dill-Kreis
-
-
-    *        *   LAN
-
-        *   Landau a. d. Isar
-
-        *   Dingolfing-Landau und Deggendorf
-
-
-    *        *   LAT
-
-        *   Vogelsbergkreis in Lauterbach Hessen
-
-        *   Vogelsbergkreis
-
-
-    *        *   LBS
-
-        *   Lobenstein
-
-        *   Saale-Orla-Kreis
-
-
-    *        *   LBZ
-
-        *   Lübz
-
-        *   Parchim
-
-
-    *        *   LC
-
-        *   Luckau
-
-        *   Dahme-Spreewald
-
-
-    *        *   LE
-
-        *   Lemgo
-
-        *   Lippe
-
-
-    *        *   LEO
-
-        *   Leonberg Württemberg
-
-        *   Böblingen
-
-
-    *        *   LF
-
-        *   Laufen
-
-        *   Berchtesgadener Land
-
-
-    *        *   LH
-
-        *   Lüdinghausen
-
-        *   Coesfeld
-
-
-    *        *   LIB
-
-        *   Bad Liebenwerda
-
-        *   Elbe-Elster
-
-
-    *        *   LIN
-
-        *   Lingen in Lingen (Ems)
-
-        *   Emsland
-
-
-    *        *   LK
-
-        *   Lübbecke
-
-        *   Minden-Lübbecke
-
-
-    *        *   LN
-
-        *   Lübben
-
-        *   Dahme-Spreewald
-
-
-    *        *   LÖB
-
-        *   Löbau
-
-        *   Löbau-Zittau
-
-
-    *        *   LOH
-
-        *   Lohr a. Main
-
-        *   Main-Spessart
-
-
-    *        *   LP
-
-        *   Lippstadt
-
-        *   Soest
-
-
-    *        *   LR
-
-        *   Lahr Schwarzwald
-
-        *   Ortenaukreis
-
-
-    *        *   LS
-
-        *   Märkischer Kreis in Lüdenscheid
-
-        *   Märkischer Kreis
-
-
-    *        *   LSZ
-
-        *   Bad Langensalza
-
-        *   Unstrut-Hainich
-
-
-    *        *   LÜD
-
-        *   Lüdenscheid
-
-        *   Märkischer Kreis
-
-
-    *        *   LÜN
-
-        *   Lünen, Stadt
-
-        *   Unna
-
-
-    *        *   LUK
-
-        *   Luckenwalde
-
-        *   Teltow-Fläming
-
-
-    *        *   MAB
-
-        *   Marienberg
-
-        *   Mittleres Erzgebirge
-
-
-    *        *   MAI
-
-        *   Mainburg
-
-        *   Kelheim und Landshut
-
-
-    *        *   MAK
-
-        *   Marktredwitz, Stadt
-
-        *   Wunsiedel i. Fichtelgebirge
-
-
-    *        *   MAL
-
-        *   Mallersdorf
-
-        *   Straubing-Bogen, Rottal-Inn und Dingolfing-Landau
-
-
-    *        *   MAR
-
-        *   Marktheidenfeld
-
-        *   Main-Spessart
-
-
-    *        *   MC
-
-        *   Malchin
-
-        *   Demmin
-
-
-    *        *   MED
-
-        *   Süderdithmarschen in Meldorf Holstein
-
-        *   Dithmarschen
-
-
-    *        *   MEG
-
-        *   Melsungen
-
-        *   Schwalm-Eder
-
-
-    *        *   MEL
-
-        *   Melle
-
-        *   Osnabrück
-
-
-    *        *   MEP
-
-        *   Meppen
-
-        *   Emsland
-
-
-    *        *   MER
-
-        *   Merseburg
-
-        *   Merseburg-Querfurt
-
-
-    *        *   MES
-
-        *   Hochsauerlandkreis in Meschede
-
-        *   Hochsauerlandkreis
-
-
-    *        *   MET
-
-        *   Mellrichstadt
-
-        *   Rhön-Grabfeld
-
-
-    *        *   MGH
-
-        *   Bad Mergentheim
-
-        *   Main-Tauber-Kreis
-
-
-    *        *   MGN
-
-        *   Meiningen
-
-        *   Schmalkalden-Meiningen
-
-
-    *        *   MHL
-
-        *   Mühlhausen
-
-        *   Unstrut-Hainich-Kreis
-
-
-    *        *   ML
-
-        *   Mansfelder Land
-
-        *   Mansfeld-Südharz
-
-
-    *        *   MO
-
-        *   Moers
-
-        *   Wesel
-
-
-    *        *   MOD
-
-        *   Ostallgäu in Marktoberdorf
-
-        *   Ostallgäu
-
-
-    *        *   MON
-
-        *   Monschau
-
-        *   Aachen
-
-
-    *        *   MQ
-
-        *   Merseburg-Querfurt
-
-        *   Saalekreis
-
-
-    *        *   MT
-
-        *   Westerwald in Montabaur
-
-        *   Westerwald
-
-
-    *        *   MÜB
-
-        *   Münchberg
-
-        *   Hof
-
-
-    *        *   MÜL
-
-        *   Müllheim Baden
-
-        *   Breisgau-Hochschwarzwald
-
-
-    *        *   MÜN
-
-        *   Münsingen Württemberg
-
-        *   Reutlingen
-
-
-    *        *   MY
-
-        *   Mayen
-
-        *   Mayen-Koblenz
-
-
-    *        *   NAB
-
-        *   Nabburg
-
-        *   Schwandorf
-
-
-    *        *   NAI
-
-        *   Naila
-
-        *   Hof
-
-
-    *        *   NAU
-
-        *   Nauen
-
-        *   Havelland
-
-
-    *        *   NEB
-
-        *   Nebra
-
-        *   Burgenlandkreis
-
-
-    *        *   NEC
-
-        *   Neustadt b. Coburg, Stadt
-
-        *   Coburg
-
-
-    *        *   NEN
-
-        *   Neunburg vorm Wald
-
-        *   Schwandorf
-
-
-    *        *   NEU
-
-        *   Hochschwarzwald in Titisee-Neustadt
-            im Schwarzwald
-
-        *   Breisgau-Hochschwarzwald
-
-
-    *        *   NH
-
-        *   Neuhaus
-
-        *   Sonneberg
-
-
-    *        *   NIB
-
-        *   Süd Tondern in Niebüll Schleswig
-
-        *   Nordfriesland
-
-
-    *        *   NMB
-
-        *   Naumburg
-
-        *   Burgenlandkreis
-
-
-    *        *   NÖ
-
-        *   Nördlingen, Stadt und Kreis
-
-        *   Donau-Ries
-
-
-    *        *   NOR
-
-        *   Norden
-
-        *   Aurich
-
-
-    *        *   NP
-
-        *   Neuruppin
-
-        *   Ostprignitz-Ruppin
-
-
-    *        *   NRÜ
-
-        *   Neustadt am Rübenberge
-
-        *   Region Hannover
-
-
-    *        *   NT
-
-        *   Nürtingen
-
-        *   Esslingen
-
-
-    *        *   NVP
-
-        *   Nordvorpommern
-
-        *   Vorpommern-Rügen
-
-
-    *        *   NY
-
-        *   Niesky
-
-        *   Niederschlesischer Oberlausitzkreis
-
-
-    *        *   NZ
-
-        *   Neustrelitz
-
-        *   Mecklenburg-Strelitz
-
-
-    *        *   OBB
-
-        *   Obernburg a. Main
-
-        *   Miltenberg
-
-
-    *        *   OBG
-
-        *   Osterburg
-
-        *   Stendal
-
-
-    *        *   OC
-
-        *   Bördekreis in Oschersleben
-
-        *   Bördekreis
-
-
-    *        *   OCH
-
-        *   Ochsenfurt
-
-        *   Würzburg
-
-
-    *        *   ÖHR
-
-        *   Öhringen
-
-        *   Hohenlohekreis
-
-
-    *        *   OK
-
-        *   Ohrekreis
-
-        *   Börde
-
-
-    *        *   OLD
-
-        *   Oldenburg/Holstein
-
-        *   Ostholstein
-
-
-    *        *   OP
-
-        *   Rhein-Wupperkreis in Opladen
-
-        *   Rheinisch-Bergischer-Kreis
-
-
-    *        *   OR
-
-        *   Oranienburg
-
-        *   Oberhavel
-
-
-    *        *   OTT
-
-        *   Land Hadeln in Otterndorf
-
-        *   Cuxhaven
-
-
-    *        *   OTW
-
-        *   Ottweiler
-
-        *   Neunkirchen
-
-
-    *        *   OVI
-
-        *   Oberviechtach
-
-        *   Schwandorf
-
-
-    *        *   OVL
-
-        *   Obervogtland in Klingenthal und Oelsnitz
-
-        *   Vogtlandkreis
-
-
-    *        *   OVP
-
-        *   Ostvorpommern
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   OZ
-
-        *   Oschatz
-
-        *   Torgau-Oschatz
-
-
-    *        *   PAR
-
-        *   Parsberg
-
-        *   Neumarkt i. d. OPf.
-
-
-    *        *   PEG
-
-        *   Pegnitz
-
-        *   Bayreuth
-
-
-    *        *   PER
-
-        *   Perleberg
-
-        *   Prignitz
-
-
-    *        *   PK
-
-        *   Pritzwalk
-
-        *   Prignitz
-
-
-    *        *   PN
-
-        *   Pößneck
-
-        *   Saale-Orla-Kreis
-
-
-    *        *   PRÜ
-
-        *   Prüm Eifel
-
-        *   Bitburg-Prüm
-
-
-    *        *   PW
-
-        *   Pasewalk
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   PZ
-
-        *   Prenzlau
-
-        *   Uckermark
-
-
-    *        *   QFT
-
-        *   Querfurt
-
-        *   Merseburg-Querfurt
-
-
-    *        *   QLB
-
-        *   Quedlinburg
-
-        *   Harz
-
-
-    *        *   RC
-
-        *   Reichenbach
-
-        *   Vogtlandkreis
-
-
-    *        *   RDG
-
-        *   Ribnitz-Damgarten
-
-        *   Vorpommern-Rügen
-
-
-    *        *   REH
-
-        *   Rehau
-
-        *   Hof
-
-
-    *        *   REI
-
-        *   Berchtesgadener Land in Bad Reichenhall
-
-        *   Berchtesgadener Land
-
-
-    *        *   RI
-
-        *   Grafschaft Schaumburg in Rinteln
-
-        *   Schaumburg
-
-
-    *        *   RID
-
-        *   Riedenburg
-
-        *   Kelheim
-
-
-    *        *   RIE
-
-        *   Riesa
-
-        *   Riesa-Großenhain
-
-
-    *        *   RL
-
-        *   Rochlitz
-
-        *   Mittweida
-
-
-    *        *   RM
-
-        *   Röbel/Müritz
-
-        *   Müritz
-
-
-    *        *   RN
-
-        *   Rathenow
-
-        *   Havelland
-
-
-    *        *   ROD
-
-        *   Roding
-
-        *   Cham
-
-
-    *        *   ROF
-
-        *   Rotenburg Fulda
-
-        *   Hersfeld-Rotenburg
-
-
-    *        *   ROK
-
-        *   Rockenhausen
-
-        *   Donnersbergkreis
-
-
-    *        *   ROL
-
-        *   Rottenburg a. d. Laaber
-
-        *   Landshut und Kelheim
-
-
-    *        *   ROS
-
-        *   Rostock
-
-        *   Landkreis Rostock
-
-
-    *        *   ROT
-
-        *   Rothenburg ob der Tauber, Stadt und Kreis
-
-        *   Ansbach
-
-
-    *        *   RSL
-
-        *   Roßlau
-
-        *   Anhalt-Zerbst
-
-
-    *        *   RU
-
-        *   Rudolstadt
-
-        *   Saalfeld-Rudolstadt
-
-
-    *        *   RY
-
-        *   Rheydt, Stadt
-
-        *   Stadt Mönchengladbach
-
-
-    *        *   SAB
-
-        *   Saarburg Bz. Trier
-
-        *   Trier-Saarburg
-
-
-    *        *   SÄK
-
-        *   Säckingen
-
-        *   Waldshut
-
-
-    *        *   SAN
-
-        *   Stadtsteinach
-
-        *   Kulmbach
-
-
-    *        *   SBG
-
-        *   Strasburg
-
-        *   Vorpommern-Greifswald und Mecklenburg-Strelitz
-
-
-    *        *   SBK
-
-        *   Schönebeck
-
-        *   Salzlandkreis
-
-
-    *        *   SCZ
-
-        *   Schleiz
-
-        *   Saale-Orla-Kreis
-
-
-    *        *   SDH
-
-        *   Sondershausen
-
-        *   Kyffhäuserkreis
-
-
-    *        *   SDT
-
-        *   Schwedt/Oder
-
-        *   Uckermark
-
-
-    *        *   SEB
-
-        *   Sebnitz
-
-        *   Sächsische Schweiz
-
-
-    *        *   SEE
-
-        *   Seelow
-
-        *   Märkisch-Oderland
-
-
-    *        *   SEF
-
-        *   Scheinfeld
-
-        *   Neustadt a. d. Aisch-Bad Winsheim
-
-
-    *        *   SEL
-
-        *   Selb, Stadt
-
-        *   Wunsiedel i. Fichtelgebirge
-
-
-    *        *   SF
-
-        *   Oberallgäu in Sonthofen
-
-        *   Oberallgäu
-
-
-    *        *   SFA
-
-        *   Soltau-Fallingbostel
-
-        *   Landkreis Heidekreis
-
-
-    *        *   SFB
-
-        *   Senftenberg
-
-        *   Oberspreewald-Lausitz
-
-
-    *        *   SFT
-
-        *   Staßfurt
-
-        *   Aschersleben-Staßfurt
-
-
-    *        *   SGH
-
-        *   Sangerhausen
-
-        *   Mansfeld-Südharz
-
-
-    *        *   SLE
-
-        *   Schleiden
-
-        *   Euskirchen
-
-
-    *        *   SLG
-
-        *   Saulgau Württemberg
-
-        *   Sigmaringen
-
-
-    *        *   SLN
-
-        *   Schmölln
-
-        *   Altenburger-Land
-
-
-    *        *   SLÜ
-
-        *   Schlüchtern
-
-        *   Main-Kinzig-Kreis
-
-
-    *        *   SLZ
-
-        *   Bad Salzungen
-
-        *   Wartburgkreis
-
-
-    *        *   SMÜ
-
-        *   Schwabmünchen
-
-        *   Augsburg
-
-
-    *        *   SNH
-
-        *   Sinsheim Elsenz
-
-        *   Rhein-Neckar-Kreis
-
-
-    *        *   SOB
-
-        *   Schrobenhausen
-
-        *   Neuburg-Schrobenhausen
-
-
-    *        *   SOG
-
-        *   Schongau
-
-        *   Weilheim-Schongau
-
-
-    *        *   SOL
-
-        *   Soltau
-
-        *   Landkreis Heidekreis
-
-
-    *        *   SPB
-
-        *   Spremberg
-
-        *   Spree-Neiße
-
-
-    *        *   SPR
-
-        *   Springe
-
-        *   Region Hannover
-
-
-    *        *   SRB
-
-        *   Strausberg
-
-        *   Märkisch-Oderland
-
-
-    *        *   SRO
-
-        *   Stadtroda
-
-        *   Saale-Holzlandkreis
-
-
-    *        *   STB
-
-        *   Sternberg
-
-        *   Parchim
-
-
-    *        *   STE
-
-        *   Staffelstein
-
-        *   Lichtenfels
-
-
-    *        *   STH
-
-        *   Schaumburg-Lippe in Stadthagen
-
-        *   Schaumburg
-
-
-    *        *   STO
-
-        *   Stockach Baden
-
-        *   Konstanz
-
-
-    *        *   SUL
-
-        *   Sulzbach-Rosenberg
-
-        *   Amberg-Sulzbach
-
-
-    *        *   SWA
-
-        *   Rheingau-Taunus-Kreis in Bad Schwalbach
-
-        *   Rheingau-Taunus-Kreis
-
-
-    *        *   SY
-
-        *   Grafschaft Hoya in Syke
-
-        *   Diepholz
-
-
-    *        *   SZB
-
-        *   Schwarzenberg
-
-        *   Aue-Schwarzenberg
-
-
-    *        *   TE
-
-        *   Tecklenburg
-
-        *   Steinfurt
-
-
-    *        *   TET
-
-        *   Teterow
-
-        *   Landkreis Rostock
-
-
-    *        *   TG
-
-        *   Torgau
-
-        *   Torgau-Oschatz
-
-
-    *        *   TÖN
-
-        *   Eiderstedt in Tönning Nordseebad
-
-        *   Nordfriesland
-
-
-    *        *   TP
-
-        *   Templin
-
-        *   Uckermark
-
-
-    *        *   TT
-
-        *   Tettnang Württemberg
-
-        *   Bodenseekreis
-
-
-    *        *   ÜB
-
-        *   Überlingen Bodensee
-
-        *   Bodenseekreis
-
-
-    *        *   UEM
-
-        *   Ueckermünde
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   UER
-
-        *   Uecker-Randow
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   UFF
-
-        *   Uffenheim
-
-        *   Neustadt a. d. Aisch-Bad Windsheim
-
-
-    *        *   USI
-
-        *   Usingen, Taunus
-
-        *   Hochtaunuskreis
-
-
-    *        *   VAI
-
-        *   Vaihingen Enz
-
-        *   Ludwigsburg
-
-
-    *        *   VIB
-
-        *   Vilsbiburg
-
-        *   Landshut, Rottal-Inn und Dingolfing-Landau
-
-
-    *        *   VIT
-
-        *   Viechtach
-
-        *   Regen
-
-
-    *        *   VL
-
-        *   Villingen Schwarzwald
-
-        *   Schwarzwald-Baar-Kreis
-
-
-    *        *   VOF
-
-        *   Vilshofen
-
-        *   Passau und Deggendorf
-
-
-    *        *   VOH
-
-        *   Vohenstrauß
-
-        *   Neustadt a. d. Waldnaab
-
-
-    *        *   WA
-
-        *   Waldeck in Korbach
-
-        *   Waldeck-Frankenberg
-
-
-    *        *   WAN
-
-        *   Wanne-Eickel, Stadt
-
-        *   Stadt Herne
-
-
-    *        *   WAR
-
-        *   Warburg
-
-        *   Höxter
-
-
-    *        *   WAT
-
-        *   Wattenscheid, Stadt
-
-        *   Stadt Bochum
-
-
-    *        *   WBS
-
-        *   Worbis
-
-        *   Eichsfeld
-
-
-    *        *   WD
-
-        *   Wiedenbrück
-
-        *   Gütersloh
-
-
-    *        *   WDA
-
-        *   Werdau
-
-        *   Zwickauer Land
-
-
-    *        *   WEB
-
-        *   Oberwesterwaldkreis in Westerburg Westerwald
-
-        *   Westerwald
-
-
-    *        *   WEG
-
-        *   Wegscheid
-
-        *   Passau
-
-
-    *        *   WEL
-
-        *   Oberlahnkreis in Weilburg
-
-        *   Limburg-Weilburg
-
-
-    *        *   WEM
-
-        *   Wesermünde in Bremerhaven
-
-        *   Cuxhaven
-
-
-    *        *   WER
-
-        *   Wertingen
-
-        *   Dillingen a. d. Donau
-
-
-    *        *   WG
-
-        *   Wangen Allgäu
-
-        *   Ravensburg
-
-
-    *        *   WIS
-
-        *   Wismar
-
-        *   Nordwestmecklenburg
-
-
-    *        *   WIT
-
-        *   Witten, Stadt
-
-        *   Ennepe-Ruhr-Kreis
-
-
-    *        *   WIZ
-
-        *   Witzenhausen
-
-        *   Werra-Meißner-Kreis
-
-
-    *        *   WK
-
-        *   Wittstock
-
-        *   Ostprignitz-Ruppin
-
-
-    *        *   WLG
-
-        *   Wolgast
-
-        *   Vorpommern-Greifswald
-
-
-    *        *   WMS
-
-        *   Wolmirstedt
-
-        *   Ohrekreis
-
-
-    *        *   WOH
-
-        *   Wolfhagen Bz. Kassel
-
-        *   Kassel
-
-
-    *        *   WOL
-
-        *   Wolfach
-
-        *   Ortenaukreis
-
-
-    *        *   WOR
-
-        *   Wolfratshausen
-
-        *   Bad Tölz-Wolfratshausen
-
-
-    *        *   WOS
-
-        *   Wolfstein
-
-        *   Freyung-Grafenau
-
-
-    *        *   WR
-
-        *   Wernigerode
-
-        *   Harz
-
-
-    *        *   WRN
-
-        *   Waren
-
-        *   Müritz
-
-
-    *        *   WS
-
-        *   Wasserburg a. Inn
-
-        *   Rosenheim
-
-
-    *        *   WSF
-
-        *   Weißenfels
-
-        *   Burgenlandkreis
-
-
-    *        *   WSW
-
-        *   Weißwasser
-
-        *   Niederschlesischer Oberlausitzkreis
-
-
-    *        *   WTL
-
-        *   Wittlage
-
-        *   Osnabrück
-
-
-    *        *   WÜM
-
-        *   Waldmünchen
-
-        *   Cham
-
-
-    *        *   WUR
-
-        *   Wurzen
-
-        *   Muldentalkreis
-
-
-    *        *   WZL
-
-        *   Wanzleben
-
-        *   Bördekreis
-
-
-    *        *   ZE
-
-        *   Zerbst
-
-        *   Anhalt-Zerbst
-
-
-    *        *   ZEL
-
-        *   Zell Mosel
-
-        *   Cochem-Zell
-
-
-    *        *   ZIG
-
-        *   Ziegenhain Bz. Kassel
-
-        *   Schwalm-Eder-Kreis
-
-
-    *        *   ZP
-
-        *   Zschopau
-
-        *   Mittleres Erzgebirge
-
-
-    *        *   ZR
-
-        *   Zeulenroda
-
-        *   Greiz
-
-
-    *        *   ZS
-
-        *   Zossen
-
-        *   Teltow-Fläming
-
-
-    *        *   ZZ
-
-        *   Zeitz
-
-        *   Burgenlandkreis
-
-
-
-
-
-
-
-    Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die
-    Festlegung der Gruppen oder Nummerngruppen der Erkennungsnummer nach
-    Anlage 2 für deren Behörden oder zusätzliche Verwaltungsstellen
-    erfolgt durch die zuständige oberste Landesbehörde oder die nach
-    Landesrecht zuständige Stelle. Die Festlegung ist dem Kraftfahrt-
-    Bundesamt rechtzeitig anzuzeigen.
-[^f774780_02_BJNR013900011BJNE005502140]:     Stadt- und Landkreis sowie die Staatliche Technische Überwachung
-    Hessen führen das gleiche Unterscheidungskennzeichen. Die Festlegung
-    der Gruppen oder Nummerngruppen der Erkennungsnummer nach Anlage 2 für
-    deren Behörden oder zusätzlichen Verwaltungsstellen erfolgt durch die
-    zuständige oberste Landesbehörde oder die nach Landesrecht zuständige
-    Stelle.
-[^f774780_03_BJNR013900011BJNE005502140]: 
 
 ### Anlage 2 (zu § 8 Absatz 1 Satz 4) Ausgestaltung, Einteilung und Zuteilung der Buchstaben- und Zahlengruppen für die Erkennungsnummern der Kennzeichen
 
@@ -8532,9 +4055,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage 3 (zu § 8 Absatz 1 Satz 5) Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundespolizei, der Wasser- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
+### Anlage 3 (zu § 8 Absatz 1 Satz 5) Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der Bundesfinanzverwaltung, der Bundespolizei, der Wasser- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
 
-(Fundstelle: BGBl. I 2011, 186 - 187)
+(Fundstelle: BGBl. I 2011, 186 - 187;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** **Unterscheidungszeichen Bund**
@@ -8542,9 +4066,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   BD
 
         *   Dienstfahrzeuge des Bundestages, des Bundesrates, des
-            Bundespräsidialamtes, der Bundesregierung und des
-            Bundesverfassungsgerichts
-            (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt)
+            Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der
+            Bundesfinanzverwaltung und des Bundesverfassungsgerichts
+            (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 16
+            Kfz-Zulassungsstelle bei der „Bundesfinanzdirektion Südwest“ –
+            Dienstort Offenbach)
 
 
     *        *   BG
@@ -8604,14 +4130,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   BBL
 
-        *   Brandenburg Landesregierung und Landtag
-            (Zulassungsbehörde Potsdam, Stadt)
+        *   Brandenburg Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Potsdam, Stadt; für die Polizei Innenministerium
+            Zentraldienst der Polizei Brandenburg)
 
 
     *        *   BWL
 
-        *   Baden-Württemberg Landesregierung und Landtag
-            (Zulassungsbehörde Stuttgart, Stadt)
+        *   Baden-Württemberg Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Stuttgart, Stadt; für die Polizei Innenministerium
+            Baden-Württemberg – Landespolizeipräsidium)
 
 
     *        *   BYL
@@ -8640,7 +4168,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   LSA
 
-        *   Sachsen-Anhalt Landesregierung und Landtag
+        *   Sachsen-Anhalt Landesregierung, Landtag und Polizei
             (Zulassungsbehörde Magdeburg, Stadt)
 
 
@@ -8652,7 +4180,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   MVL
 
-        *   Mecklenburg-Vorpommern Landesregierung und Landtag
+        *   Mecklenburg-Vorpommern Landesregierung (einschließlich Landespolizei)
+            und Landtag
             (Zulassungsbehörde Schwerin, Stadt)
 
 
@@ -8664,25 +4193,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   NRW
 
-        *   Nordrhein-Westfalen Landesregierung und Landtag
-            (Zulassungsbehörde Düsseldorf, Stadt)
+        *   Nordrhein-Westfalen Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Düsseldorf, Stadt; für die Polizei Landesamt für
+            Zentrale Polizeiliche Dienste des Landes NRW, Duisburg)
 
 
     *        *   RPL
 
-        *   Rheinland-Pfalz Landesregierung und Landtag
+        *   Rheinland-Pfalz Landesregierung, Landtag und Polizei
             (Zulassungsbehörde Mainz, Stadt)
 
 
     *        *   SAL
 
-        *   Saarland Landesregierung und Landtag
-            (Zulassungsbehörde Saarbrücken, Stadt und Stadtverband)
+        *   Saarland Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Stadt Saarbrücken, Stadt und Regionalverband; für
+            die Polizei Landespolizeipräsidium – Direktion LPP 4 Zentrale Dienste
+            – LPP 4.8 Kraftfahrzeugtechnik)
 
 
     *        *   SH
 
-        *   Schleswig-Holstein Landesregierung und Landtag
+        *   Schleswig-Holstein Landesregierung, Landtag und Polizei
             (Zulassungsbehörde Kiel, Stadt)
 
 
@@ -8695,14 +4227,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**3.** **Unterscheidungszeichen Diplomatisches Corps und bevorrechtigte
-    Internationale Organisationen**
+**3.** **Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter
+    Internationaler Organisationen**
 
-    *        *   0
+    *        *   0; B oder BN
 
-        *   Fahrzeuge des Diplomatischen Corps und bevorrechtigter Internationaler
-            Organisationen
-            (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt)
+        *   Diplomatischen Vertretungen oder Internationalen Organisationen und in
+            Abhängigkeit vom Status der bevorrechtigten Person
+            (Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt)
+
+
+    *        *   Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats
+
+        *   Berufskonsularische Vertretungen und in Abhängigkeit vom Status der
+            bevorrechtigten Person
+            (Zulassungsbehörde am Sitz des Konsulats)
 
 
 
@@ -8754,12 +4293,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    Verkleinerte zweizeilige Kennzeichen sind nur für Leichtkrafträder
-    sowie für Zugmaschinen mit einer bauartbedingten Höchstgeschwindigkeit
-    von nicht mehr als 40 km/h und Anhänger mit einer bauartbedingten
-    Höchstgeschwindigkeit von nicht mehr als 40 km/h, wenn diese mit einem
-    Geschwindigkeitsschild für die betreffende Geschwindigkeit
-    gekennzeichnet sind, zuzuteilen.
+    Verkleinerte zweizeilige Kennzeichen dürfen nur für Leichtkrafträder
+    sowie für Fahrzeuge nach § 10 Absatz 6 Nummer 3 zugeteilt werden.
 
 
 **2.** **Schrift**
@@ -8986,13 +4521,17 @@ Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a und Abschnitt 4 Nummer
 1, 2 und 2a können als Wechselkennzeichen ausgeführt sein. Die
 Wechselkennzeichen bestehen nach Maßgabe des § 8 Absatz 1a aus dem
 gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen Teil. Auf dem
-fahrzeugbezogenen Teil ist unter der letzten Ziffer der
-Erkennungsnummer die Beschriftung des gemeinsamen Kennzeichenteils
-aufzuführen.
+gemeinsamen Kennzeichenteil ist oberhalb der Stempelplakette, bei
+Kraftradkennzeichen rechts neben der Stempelplakette die geprägte
+Kennzeichnung „W“ (Schrifthöhe 20 mm, Schriftbreite 25 mm)
+anzubringen. Auf dem fahrzeugbezogenen Teil ist unter der letzten
+Ziffer der Erkennungsnummer die Beschriftung des gemeinsamen
+Kennzeichenteils in schwarzer Schrift mit einer sich bei Ablösung
+selbstzerstörenden Sicherheitsfolie aufzuführen.
 
 1.  einzeiliges Kennzeichen
 
-    ![bgbl1_2012_j0103-1_0010.jpg](bgbl1_2012_j0103-1_0010.jpg)
+    ![bgbl1_2012_j2232-1_0010.jpg](bgbl1_2012_j2232-1_0010.jpg)
     Die übrigen Abmessungen entsprechen denen der Allgemeinen Kennzeichen.
 
 
@@ -9000,7 +4539,7 @@ aufzuführen.
 
 2.  zweizeiliges Kennzeichen
 
-    ![bgbl1_2012_j0103-1_0020.jpg](bgbl1_2012_j0103-1_0020.jpg)
+    ![bgbl1_2012_j2232-1_0020.jpg](bgbl1_2012_j2232-1_0020.jpg)
     Die übrigen Abmessungen entsprechen denen der Allgemeinen Kennzeichen.
 
 
@@ -9008,7 +4547,7 @@ aufzuführen.
 
 3.  Kraftradkennzeichen
 
-    ![bgbl1_2012_j0103-1_0030.jpg](bgbl1_2012_j0103-1_0030.jpg)
+    ![bgbl1_2012_j2232-1_0030.jpg](bgbl1_2012_j2232-1_0030.jpg)
     Die übrigen Abmessungen entsprechen denen der Kraftradkennzeichen.
 
 
@@ -9016,20 +4555,17 @@ aufzuführen.
 
 4.  Ergänzungsbestimmungen
 
-    Mehr als acht Stellen (Buchstaben und Ziffern) auf dem gemeinsamen
-    Kennzeichenteil und dem fahrzeugbezogenen Teil zusammen sind nicht
-    zulässig. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe b
-    ist auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens oben
-    anzubringen. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c
-    ist auf dem vorderen und hinteren gemeinsamen Kennzeichenteil jeweils
-    unten sowie auf dem fahrzeugbezogenen Teil des vorderen Kennzeichens,
-    bei Fahrzeugen der Klasse L, die kein vorderes Kennzeichen führen
-    müssen, auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens unten
-    anzubringen; sie muss einen Durchmesser von 45 mm haben. Die Plakette
-    nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c darf auf dem gemeinsamen
-    Kennzeichenteil bei einzeiligen Kennzeichen auch in der Mitte und bei
-    zweizeiligen Kennzeichen in der oberen Zeile auch in der Mitte
-    angebracht werden.
+    Mehr als acht Stellen (Buchstaben und Ziffern – ohne Kennbuchstabe „H“
+    und Kennzeichnung „W“ –) auf dem gemeinsamen Kennzeichenteil und dem
+    fahrzeugbezogenen Teil zusammen sind nicht zulässig. Die Plakette nach
+    Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist auf dem fahrzeugbezogenen
+    Teil des hinteren Kennzeichens oben anzubringen. Die Plakette nach
+    Abschnitt 1 Nummer 6 Satz 1 Buchstabe c ist auf dem vorderen und
+    hinteren gemeinsamen Kennzeichenteil jeweils unten sowie auf dem
+    fahrzeugbezogenen Teil des vorderen Kennzeichens, bei Fahrzeugen der
+    Klasse L, die kein vorderes Kennzeichen führen müssen, auf dem
+    fahrzeugbezogenen Teil des hinteren Kennzeichens unten anzubringen;
+    sie muss einen Durchmesser von 45 mm haben.
 
 
 
@@ -9250,8 +4786,8 @@ aufzuführen.
 
 
 
-    c)  Die Vorschriften bezüglich der Plaketten nach Abschnitt 1 Nummer 6
-        Satz 1 Buchstabe a und b sind nicht anzuwenden.
+    c)  Die Vorschrift bezüglich der Plakette nach Abschnitt 1 Nummer 6 Satz 1
+        Buchstabe b ist nicht anzuwenden.
 
 
 
@@ -9278,9 +4814,8 @@ aufzuführen.
 Oldtimerkennzeichen
 
 Die Kennzeichen sind entsprechend Abschnitt 2, jedoch in roter Schrift
-und rotem Rand auszuführen. Die Vorschriften bezüglich der Plaketten
-gemäß Abschnitt 1 Nummer 6 Satz 1 Buchstabe a und b sind nicht
-anzuwenden.
+und rotem Rand auszuführen. Die Vorschrift bezüglich der Plakette nach
+Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist nicht anzuwenden.
 
 ## Abschnitt 8
 
@@ -9306,7 +4841,7 @@ anzuwenden.
 
     Die Vorschriften bezüglich der verkleinerten Mittelschrift (Abschnitt
     1 Nummer 2.2.3), des Euro-Feldes (Abschnitt 1 Nummer 3) sowie der
-    Plaketten (Abschnitt 1 Nummer 6 Satz 1 Buchstabe a und b) sind nicht
+    Plakette (Abschnitt 1 Satz 1 Nummer 6 Satz 1 Buchstabe b) sind nicht
     anzuwenden. Das Feld mit dem Ablaufdatum besteht aus einem roten
     Untergrund (RAL 2002) mit schwarzer Beschriftung (RAL 9005). Die obere
     Zahl kennzeichnet den Tag, die mittlere Zahl den Monat und die untere
@@ -9324,7 +4859,8 @@ anzuwenden.
 
 ### Anlage 5 (zu § 11 Absatz 1) Zulassungsbescheinigung Teil I
 
-(Fundstelle: BGBl. I 2011, 203 - 205)
+(Fundstelle: BGBl. I 2011, 203 - 205;
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 ## Vorbemerkungen
 
@@ -9450,11 +4986,12 @@ anzuwenden.
 
 
 ![bgbl1_2011_j0139-1_0300.jpg](bgbl1_2011_j0139-1_0300.jpg)
-![bgbl1_2011_j0139-1_0310.jpg](bgbl1_2011_j0139-1_0310.jpg)
+![bgbl1_2012_BJNR013900011BJNE005901308_0010.jpg](bgbl1_2012_BJNR013900011BJNE005901308_0010.jpg)
 
 ### Anlage 6 (zu § 11 Absatz 3) Zulassungsbescheinigung Teil I für Fahrzeuge der Bundeswehr
 
-(Fundstelle: BGBl. I 2011, 206 - 207)
+(Fundstelle: BGBl. I 2011, 206 - 207;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Vorbemerkungen
 
@@ -9462,8 +4999,8 @@ Format: Breite 210 mm, Höhe 8 1/3 Zoll (207 mm)
 
 Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 
-![bgbl1_2011_j0139-1_0320.jpg](bgbl1_2011_j0139-1_0320.jpg)
-![bgbl1_2011_j0139-1_0330.jpg](bgbl1_2011_j0139-1_0330.jpg)
+![bgbl1_2012_j2232-1_0040.jpg](bgbl1_2012_j2232-1_0040.jpg)
+![bgbl1_2012_BJNR013900011BJNE006001308_0010.jpg](bgbl1_2012_BJNR013900011BJNE006001308_0010.jpg)
 
 ### Anlage 7 (zu § 12 Absatz 2) Zulassungsbescheinigung Teil II
 
@@ -9676,9 +5213,150 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 ![bgbl1_2011_j0139-1_0350.jpg](bgbl1_2011_j0139-1_0350.jpg)
 ![bgbl1_2011_j0139-1_0360.jpg](bgbl1_2011_j0139-1_0360.jpg)
 
+### Anlage 10a (zu § 17 Absatz 2 Satz 1) Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen
+
+(Fundstelle: BGBl. I 2012, 2241)
+
+Seite 1
+
+*    *   Fahrzeugscheinheft
+        für Oldtimerfahrzeuge mit roten Kennzeichen nach
+        § 17 FZV
+
+
+*    *   Das vorstehende Kennzeichen ist
+
+
+*    *
+
+*    *   **
+        Vorname, Name, Firma
+        **
+        Straße und Hausnummer
+        **
+        Postleitzahl, Wohnort/Firmensitz
+
+
+*    *
+
+*    *   für die in der Auflistung beschriebenen **
+        Fahrzeuge zu den in den nachfolgenden Hinweisen genannten Zwecken
+        zugeteilt worden.
+
+
+*    *
+
+*    *   **
+        Ort, Datum
+        **
+        Name der Zulassungsbehörde
+        **
+        Unterschrift
+
+
+
+
+Seiten 2 ff.
+
+*    *   lfd Nr.
+
+    *   Fahrzeugklasse
+
+    *   Fahrzeug-
+        hersteller
+
+    *   FIN
+
+    *   Hubraum
+
+    *   Erst-
+        zulassung
+
+    *   Zul.
+        Gesamtmasse in kg
+
+    *   Zul. max. Achslast in kg
+
+    *   max.
+        km/h
+
+
+*    *   Vorne
+
+    *   Mitte
+
+    *   Hinten
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   letzte Seite
+
+*    *   Hinweise
+        Rote Kennzeichen zur wiederkehrenden Verwendung für Oldtimer-Fahrzeuge
+
+
+*    *
+
+*    *   Zwecke
+        Das rote Kennzeichen zur wiederkehrenden Verwendung wurde aufgrund der
+        Vorschriften des § 17 der Fahrzeug-Zulassungsverordnung (FZV)
+        zugeteilt für:
+        a) Probefahrten:
+        Fahrten zur Feststellung und zum Nachweis der Gebrauchsfähigkeit des
+        Fahrzeugs
+        b) Überführungsfahrten:
+        Fahrten, die in der Hauptsache der Überführung des Fahrzeugs an einen
+        anderen Ort dienen
+        c) An- und Abfahrten sowie Teilnahme an Veranstaltungen, die der
+        Darstellung von Oldtimer-Fahrzeugen und der Pflege des
+        kraftfahrzeugtechnischen Kulturgutes dienen
+        d) Fahrten zum Zwecke der Wartung und der Reparatur des Fahrzeugs
+
+
+
+
+
 ### Anlage 9 (zu § 16 Absatz 2 Satz 1) Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
 
-(Fundstelle: BGBl. I 2011, 214)
+(Fundstelle: BGBl. I 2011, 214;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Breite 74 mm, Höhe 105 mm, Farbe hellrot, schwarzer Druck (Typendruck)
 
@@ -9731,49 +5409,18 @@ werden.
 
 
 
-### Anlage 11 (zu § 19 Absatz 1 Nummer 1, § 23 Absatz 3 und 4, § 25 Absatz 1) Bescheinigungen zum Versicherungsschutz
+### Anlage 11 (zu § 23 Absatz 3)
 
-   (Fundstelle: BGBl. I 2011, 216 - 218)
+   (Fundstelle: BGBl. I 2012, 2242)
 
-
-**1.** **Versicherungsbestätigung**
-
-    (Format DIN A6, Farbe: Untergrund weiß, Druck schwarz)
-
-
-
-**2.** **Versicherungsbestätigung für Hersteller**
-
-    ![bgbl1_2011_j0139-1_0420.jpg](bgbl1_2011_j0139-1_0420.jpg)
-
-**3.** **Versicherungsbestätigung bei Ausfuhrkennzeichen**
-
-    Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für
-    ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechende
-    Haftpflichtversicherung:
-
-    Format DIN A6, Farbe: Untergrund gelb, Druck schwarz, drei
-    Ausfertigungen.
-
-    Die Bestätigung enthält die Daten zur Kraftfahrzeug-
-    Haftpflichtversicherung, zum Kennzeichen, zur Fahrzeugbeschreibung und
-    zum Versicherungsnehmer sowie zusätzlich das Datum des Endes des
-    Versicherungsschutzes.
-
-
-**4.** **Nachweis für eine Befreiung des Halters von der
-    Versicherungspflicht**
-
-    ![bgbl1_2011_j0139-1_0430.jpg](bgbl1_2011_j0139-1_0430.jpg)
-
-**5.** **Anzeige über einen Wegfall des Versicherungsschutzes nach § 25
-    Absatz 1 Satz 1**
-
-    (Format DIN A6, Farbe: Untergrund weiß, Druck schwarz)
-
-    ![bgbl1_2011_j0139-1_0440.jpg](bgbl1_2011_j0139-1_0440.jpg)
-
-
+Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für
+ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechende
+Haftpflichtversicherung: Format DIN A6, Farbe: Untergrund gelb, Druck
+schwarz, drei Ausfertigungen
+Die Bestätigung enthält die Daten zur Kraftfahrzeug-
+Haftpflichtversicherung, zum Kennzeichen, zur Fahrzeugbeschreibung und
+zum Versicherungsnehmer sowie zusätzlich das Datum des Endes des
+Versicherungsschutzes.
 
 
 ### Anlage 12 (zu § 27 Absatz 1 Satz 4) Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge

@@ -8487,6 +8487,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Luft/Boden-Schießplatz Nordhorn)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1978, 1749)
+   (Fundstelle: BGBl I 1978, 1747 - 1748)
 
+![bgbl1_1978_j1747_0010.jpg](bgbl1_1978_j1747_0010.jpg)![bgbl1_1978_j1748_0010.jpg](bgbl1_1978_j1748_0010.jpg)

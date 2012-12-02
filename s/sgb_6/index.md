@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 2a G v. 21.7.2012 I 1601
+:   Art. 14 G v. 23.10.2012 I 2246
 
 Stand: Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 2.12.2011 I 2421 ist berücksichtigt
 
@@ -7055,7 +7055,18 @@ soweit dies erforderlich ist, um
 7.  das Zusammentreffen von Renten aus eigener Versicherung und
     Hinterbliebenenrenten und Arbeitsentgelt festzustellen, um die
     ordnungsgemäße Berechnung und Zahlung von Beiträgen der Rentner zur
-    gesetzlichen Krankenversicherung überprüfen zu können.
+    gesetzlichen Krankenversicherung überprüfen zu können,
+
+
+8.  es den Trägern der Rentenversicherung zu ermöglichen, überlebende
+    Ehegatten oder Lebenspartner auf das Bestehen eines Leistungsanspruchs
+    hinzuweisen,
+
+
+9.  es den Trägern der Rentenversicherung zu ermöglichen, die
+    unrechtmäßige Erbringung von Witwenrenten und Witwerrenten sowie
+    Erziehungsrenten nach Eheschließung oder Begründung einer
+    Lebenspartnerschaft zu vermeiden.
 
 
 
@@ -9295,10 +9306,35 @@ Sterbefall zusätzlich der Sterbetag des Verstorbenen mitzuteilen. Die
 Datenstelle der Träger der Rentenversicherung übermittelt die Daten
 einer erstmaligen Erfassung oder Änderung taggleich an die zuständige
 Einzugsstelle nach § 28i des Vierten Buches, soweit diese bekannt ist.
-Sind der Datenstelle der Träger der Deutschen Rentenversicherung Daten
-von Personen übermittelt worden, die sie nicht für die Erfüllung ihrer
-Aufgaben nach Satz 1 benötigt, sind diese von ihr unverzüglich zu
-löschen.
+Sind der Datenstelle der Träger der Rentenversicherung Daten von
+Personen übermittelt worden, die sie nicht für die Erfüllung ihrer
+Aufgaben nach Satz 1 benötigt, sind diese Daten von ihr unverzüglich
+zu löschen.
+
+(2a) Die zuständigen Meldebehörden haben der Datenstelle der Träger
+der Rentenversicherung zur Wahrnehmung ihrer Aufgaben
+
+1.  nach § 150 Absatz 1 Satz 1 Nummer 8 zusätzlich zur
+    Sterbefallmitteilung den Familiennamen oder den
+    Lebenspartnerschaftsnamen, den Vornamen, den Tag, den Monat und das
+    Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung
+    des überlebenden Ehegatten oder Lebenspartners des Verstorbenen,
+
+
+2.  nach § 150 Absatz 1 Satz 1 Nummer 9 bei einer Eheschließung oder einer
+    Begründung einer Lebenspartnerschaft eines Einwohners unverzüglich das
+    Datum dieser Eheschließung oder dieser Begründung einer
+    Lebenspartnerschaft
+
+
+
+mitzuteilen. Die Datenstelle der Träger der Rentenversicherung hat
+diese Daten an den zuständigen Träger der Rentenversicherung zu
+übermitteln und anschließend bei sich unverzüglich zu löschen. Stellt
+die Datenstelle der Träger der Rentenversicherung in den Fällen des
+Satzes 1 Nummer 2 fest, dass der Einwohner keine Witwenrente oder
+Witwerrente und keine Erziehungsrente bezieht, übermittelt sie die
+Daten nicht an den zuständigen Träger der Rentenversicherung.
 
 (3) Die Handwerkskammern haben den Regionalträgern Anmeldungen,
 Änderungen und Löschungen in der Handwerksrolle mitzuteilen. Die

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 326
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.7.2011 I 1394 iVm Bek. v. 13.12.2011 I 2710
-
-Änderung durch
-:   Art. 1 V v. 8.9.2012 I 1935 (Nr. 44) noch nicht berücksichtigt
+:   Art. 1 V v. 8.9.2012 I 1935
 
 
 ## Eingangsformel
@@ -9175,7 +9172,7 @@ Behandlung sind:
 
 
 
-### Anlage 8 (zu § 22 Absatz 4) Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähigeArzneimittel
+### Anlage 8 (zu § 22 Absatz 4) Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähige Arzneimittel
 
 (Fundstelle: BGBl. I 2012, 1991 - 1992)
 

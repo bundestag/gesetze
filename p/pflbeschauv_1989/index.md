@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.4.2000 I 337;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.12.2011 I 2927
+:   Art. 2 V v. 10.10.2012 I 2113
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -1975,96 +1975,97 @@ beteiligt hat.
 
 ### § 15 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
+(1) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 1a Abs. 1 oder Abs. 2 das Auftreten oder den Verdacht des
-    Auftretens eines Schadorganismus nicht anzeigt,
+1.  entgegen § 1a Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, eine
+    Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    erstattet,
 
 
-1a. entgegen
+2.  entgegen
 
     a)  § 1b Satz 1 oder
 
 
-    b)  § 8 Abs. 2 Satz 2
-
+    b)  § 8 Absatz 2 Satz 2
 
 
 
     eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig erstattet oder die Untersuchung einer Sendung nicht
+    rechtzeitig erstattet oder eine Untersuchung einer Sendung nicht
     ermöglicht,
 
 
-1b. entgegen § 2 Schadorganismen einführt,
+3.  entgegen § 2 einen Schadorganismus einführt,
 
 
-2.  entgegen § 3 Abs. 1 oder 2 Satz 1, § 4 Satz 1, § 5 oder § 7 Abs. 1
-    Pflanzen, Pflanzenerzeugnisse oder sonstige Gegenstände einführt,
+4.  entgegen § 3 Absatz 1 oder Absatz 2 Satz 1, § 4 Satz 1, § 5 Satz 1
+    oder § 7 Absatz 1 eine Pflanze, ein Pflanzenerzeugnis oder einen
+    sonstigen Gegenstand einführt,
 
 
-3.  entgegen § 3 Abs. 3 Teile einer Sendung einführt,
+5.  entgegen § 3 Absatz 3 einen Teil einer Sendung einführt,
 
 
-3a. (weggefallen)
+6.  einer vollziehbaren Anordnung nach § 4a Absatz 1 Satz 1, 2 oder Satz 4
+    oder Absatz 2 Satz 2 oder § 13g zuwiderhandelt,
 
 
-3b. entgegen § 7a Satz 1, auch in Verbindung mit Satz 2, eine Angabe oder
-    Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    macht,
+7.  entgegen § 7a Satz 1 eine Angabe nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
 
 
-3c. entgegen § 7b Satz 1, auch in Verbindung mit Satz 2, eine Angabe oder
-    Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    macht,
+8.  entgegen § 7b Satz 1, auch in Verbindung mit Satz 2, eine Mitteilung
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht
+    oder die zuständige Behörde nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig unterrichtet,
 
 
-3d. entgegen § 7b Satz 3 ein Verpackungsmaterial nicht oder nicht für die
-    vorgeschriebene Dauer aufbewahrt,
-
-
-3e. entgegen § 12 Abs. 4 oder § 13c Abs. 5 Satz 1 ein
+9.  entgegen § 12 Absatz 4 oder § 13c Absatz 5 Satz 1 ein
     Pflanzengesundheitszeugnis oder einen Pflanzenpass verwendet,
 
 
-4.  entgegen § 13a Abs. 1 oder § 13h Abs. 1 Schadorganismen verbringt,
+10. entgegen § 13a Absatz 1 oder § 13h Absatz 1 einen Schadorganismus
+    verbringt,
 
 
-5.  entgegen § 13a Abs. 2, 3 Satz 1 oder Abs. 5, §§ 13b, 13c Abs. 1 Satz
-    1, § 13h Abs. 2 oder 3, §§ 13i oder 13j Abs. 1 Satz 1 Pflanzen,
-    Pflanzenerzeugnisse oder sonstige Gegenstände verbringt,
+11. entgegen § 13a Absatz 2, 3 Satz 1 oder Absatz 5, den §§ 13b, 13c
+    Absatz 1 Satz 1, § 13h Absatz 2 oder Absatz 3, § 13i oder § 13j Absatz
+    1 Satz 1 eine Pflanze, ein Pflanzenerzeugnis, Saatgut oder einen
+    sonstigen Gegenstand verbringt,
 
 
-6.  entgegen § 13a Abs. 4 Teile einer Sendung verbringt,
+12. entgegen § 13a Absatz 4 einen Teil einer Sendung verbringt,
 
 
-7.  entgegen § 13n Abs. 3 Satz 2 eine Anzeige nicht, nicht richtig oder
+13. entgegen § 13n Absatz 3 Satz 2 eine Anzeige nicht, nicht richtig oder
     nicht rechtzeitig erstattet,
 
 
-7a. entgegen § 13p Absatz 1 Holz oder aus Holz hergestelltes
-    Verpackungsmaterial in Verkehr bringt,
+14. ohne Registrierung nach § 13p Absatz 1 Holz in Verkehr bringt oder
+    eine aus Holz hergestellte Verpackung kennzeichnet oder hölzernes
+    Verpackungsmaterial ausbessert oder aufarbeitet,
 
 
-7b. entgegen § 13q Absatz 1 Satz 2 Holz oder aus Holz hergestelltes
-    Verpackungsmaterial kennzeichnet,
+15. entgegen § 13q Absatz 1 Satz 2 eine aus Holz hergestellte Verpackung
+    kennzeichnet oder
 
 
-8.  entgegen § 14a Abs. 4 Satz 1 eine Pflanze, ein Pflanzenerzeugnis,
-    einen sonstigen Gegenstand oder einen Schadorganismus lagert,
-    untersucht oder behandelt.
+16. entgegen § 14a Absatz 4 Satz 1 eine Pflanze, ein Pflanzenerzeugnis
+    oder einen sonstigen Gegenstand lagert, untersucht oder behandelt.
 
 
 
 
-(2) Die Vorschriften des Absatz 1 Nr. 1a Buchstabe b, Nr. 1b bis 3
-gelten nach Maßgabe des § 13 auch für die Durchfuhr.
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe b des
+Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen § 7b Satz 3 ein Verpackungsmaterial nicht oder nicht für die
+vorgeschriebene Dauer aufbewahrt.
 
-(3) Ordnungswidrig im Sinne des § 40 Absatz 1 Nummer 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 4a Absatz 1 oder Absatz 2 Satz 2 oder 4
-oder § 13g Absatz 1 oder Absatz 2 zuwiderhandelt.
+(3) Die Vorschriften des Absatzes 1 Nummer 2 Buchstabe b, Nummer 3, 4,
+5 oder Nummer 7 gelten auch für die Durchfuhr im Sinne des § 13 Satz
+1\.
 
 
 ### § 16

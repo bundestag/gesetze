@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1997, 1670 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 6 V v. 21.6.2012 II 618
+:   Art. 6 V v. 21.6.2012 II 618 (1144)
 
 
 ## Inhaltsverzeichnis
@@ -3845,7 +3845,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
-    das Fahrzeug zu betreten, muss dieses Verbot angezeigt werden durch
+    muss dieses Verbot angezeigt werden durch
 
     *        *   runde weiße Symbole mit rotem Rand und rotem Schrägstrich, auf denen
             ein brennendes Streichholz abgebildet ist.

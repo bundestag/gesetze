@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1995, 226
 
 Zuletzt geändert durch
-:   Art. 30 G v. 8.11.2011 I 2178
+:   Art. 3 V v. 2.10.2012 I 2102
 
 
 ## Eingangsformel
@@ -409,7 +409,7 @@ mitzuteilen, wenn sich
 1.  sein Name oder seine Anschrift,
 
 
-2.  die im Antrag zu § 7 Abs. 2 Satz 1 Nummer 3 Buchstabe b, d oder f
+2.  die im Antrag zu § 7 Absatz 2 Satz 1 Nummer 3 Buchstabe c, e und g
     gemachten Angaben oder
 
 

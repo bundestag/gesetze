@@ -4738,6 +4738,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Brüggen in der Fassung der Ersten Änderungsverordnung vom 5. Juni 1986)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1986, 858 - 859)
+   (Fundstelle: BGBl I 1986, 858 - 859)
 
+![bgbl1_1986_j0858_0010.jpg](bgbl1_1986_j0858_0010.jpg)![bgbl1_1986_j0859_0010.jpg](bgbl1_1986_j0859_0010.jpg)

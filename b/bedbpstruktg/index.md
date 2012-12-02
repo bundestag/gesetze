@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 2378 (2426)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 5.9.2010 I 1288, 1404
+:   Art. 3 G v. 21.11.2012 I 2299
 
 
 ## § 1 Geltungsbereich

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 2142
 
 Zuletzt geändert durch
-:   Art. 6 V v. 22.10.2003 I 2085
+:   Art. 5 V v. 19.10.2012 I 2232
 
 
 ## Eingangsformel
@@ -156,29 +156,8 @@ nicht erforderlich ist.
     Einigungsvertrages (BGBl. 1990 II S. 885, 1103),
 
 
-3.  ein nach den §§ 12 oder 18 der Verordnung über die EG-Typgenehmigung
-    für Fahrzeuge und Fahrzeugteile für die in Anlage 1 genannten
-    Fahrzeugteile anerkanntes oder akkreditiertes Prüflaboratorium,
-
-
-4.  ein für gleiche oder vergleichbare Fahrzeugteile für die Prüfungen
-    nach Einzelrichtlinien nach Anhang IV und im Verfahren nach Artikel 14
-    der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur
-    Angleichung der Rechtsvorschriften der Mitgliedstaaten über die
-    Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl.
-    EG Nr. L 42 S. 1), zuletzt geändert durch die Richtlinie 98/14/EG der
-    Kommission vom 6. Februar 1998 (ABl. EG Nr. L 91 S. 1), die in der
-    jeweils geltenden Fassung, soweit diese durch Rechtsverordnung des
-    Bundesministeriums für Verkehr umgesetzt worden ist, vom Kraftfahrt-
-    Bundesamt anerkannter oder akkreditierter Technischer Dienst,
-
-
-5.  ein für gleiche oder vergleichbare Fahrzeugteile für die Prüfungen
-    nach Einzelrichtlinien nach Anhang I und im Verfahren nach Artikel 14
-    der Richtlinie 92/61/EWG des Rates vom 30. Juni 1992 über die
-    Betriebserlaubnis für zwei- oder dreirädrige Kraftfahrzeuge (ABl. EG
-    Nr. L 225 S. 72) vom Kraftfahrt-Bundesamt anerkannter oder
-    akkreditierter Technischer Dienst.
+3.  ein nach § 30 der EG-Fahrzeuggenehmigungsverordnung anerkannter
+    Technischer Dienst.
 
 
 

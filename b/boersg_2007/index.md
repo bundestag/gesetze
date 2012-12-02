@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1330, 1351
 
 Zuletzt geändert durch
-:   Art. 5 G v. 26.6.2012 I 1375
+:   Art. 2 G v. 6.11.2012 I 2286
 
 Dieses Gesetz dient der Umsetzung
 
@@ -908,6 +908,14 @@ geeignete Vorkehrungen, die eine wirksame und dauerhafte Überwachung
 der Pflichten nach Satz 1 gewährleisten. Die Aufgaben der
 Handelsüberwachungsstelle nach § 7 bleiben unberührt.
 
+(5a) Die Geschäftsführung ist zuständige Behörde im Sinne des Artikels
+23 Absatz 1 der Verordnung (EU) Nr. 236/2012 des Europäischen
+Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und
+bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012,
+S. 1), sofern Finanzinstrumente betroffen sind, die an einem
+regulierten Markt oder im Freiverkehr dieser Börse gehandelt werden. §
+10 Absatz 1 Satz 3 und 4 ist insoweit nicht anwendbar.
+
 (6) Die Geschäftsführung nimmt die ihr nach diesem Gesetz zugewiesenen
 Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
@@ -1345,6 +1353,9 @@ verpflichtet, diese Maßnahmen zu veröffentlichen. Nähere Bestimmungen
 
 (2) Widerspruch und Anfechtungsklage gegen die Aussetzung des Handels
 haben keine aufschiebende Wirkung.
+
+(3) Für Maßnahmen nach Artikel 23 Absatz 1 der Verordnung (EU) Nr.
+236/2012 gelten Absatz 1 Satz 2 und Absatz 2 entsprechend.
 
 
 ### § 26 Verleitung zu Börsenspekulationsgeschäften

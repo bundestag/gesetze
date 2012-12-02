@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 26.6.2012 I 1375
+:   Art. 3 G v. 6.11.2012 I 2286
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -9016,14 +9016,19 @@ ist. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
 (2) Der Prüfer hat auch zu prüfen, ob das Institut seinen
 Verpflichtungen nach den §§ 24c und 25c bis 25h, dem Geldwäschegesetz
-und der Verordnung (EG) Nr. 1781/2006 nachgekommen ist. Bei
+und der Verordnung (EG) Nr. 1781/2006 nachgekommen ist. Zudem hat er
+die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und
+sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der
+Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates
+vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit
+Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei
 Instituten, die das Depotgeschäft betreiben, hat er dieses Geschäft
 besonders zu prüfen, soweit es nicht nach § 36 Abs. 1 Satz 2 des
 Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch
 auf die Einhaltung des § 128 des Aktiengesetzes über
 Mitteilungspflichten und des § 135 des Aktiengesetzes über die
 Ausübung des Stimmrechts zu erstrecken. Über die Prüfungen nach den
-Sätzen 1 und 2 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3
+Sätzen 1 bis 3 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3
 gilt entsprechend.
 
 (3) Der Prüfer hat unverzüglich der Bundesanstalt und der Deutschen

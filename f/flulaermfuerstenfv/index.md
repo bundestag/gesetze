@@ -3595,9 +3595,9 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Fürstenfeldbruck in der Fassung der Ersten Änderungsverordnung vom 24. Mai 1988)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl. I 1988, 717 - 718)
------
-Die topographische Karte im Maßstab 1:50.000 wird - Abonnenten des
+   (Fundstelle: BGBl I 1988, 717 - 718)
+
+![bgbl1_1988_j0717_0010.jpg](bgbl1_1988_j0717_0010.jpg)![bgbl1_1988_j0718_0010.jpg](bgbl1_1988_j0718_0010.jpg)
+\*) Die topographische Karte im Maßstab 1:50 000 wird - Abonnenten des
 Bundesgesetzblattes Teil I kostenlos - auf Anforderung übersandt.
 

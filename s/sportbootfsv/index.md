@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.3.2003 I 367;
 
 Geändert durch
-:   Art. 1 G v. 27.8.2007 I 2193
+:   Art. 2 V v. 2.10.2012 I 2102
 
 
 ## § 1 Fahrerlaubnis
@@ -52,10 +52,18 @@ Wassermotorrad. Keiner Erlaubnis bedürfen
     gewährleistet ist,
 
 
-3.  Führer von Sportbooten, wenn die Sportboote keinen Motorantrieb haben
-    oder mit einem Motorantrieb ausgerüstet sind, dessen größte nicht
-    überschreitbare Nutzleistung an der Propellerwelle 3,68 Kilowatt oder
-    weniger beträgt.
+3.  Personen, bei denen das zu führende Sportboot keine Antriebsmaschine
+    hat,
+
+
+4.  Personen, bei denen das zu führende Sportboot mit einer
+    Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare
+    Nutzleistung 3,68 Kilowatt oder weniger beträgt,
+
+
+5.  Personen ab 16 Jahren, bei denen das zu führende Sportboot mit einer
+    Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare
+    Nutzleistung 11,03 Kilowatt oder weniger beträgt.
 
 
 
@@ -130,8 +138,22 @@ worden ist. Als unzuverlässig kann auch eine Person angesehen werden,
 
 
 (4) Zur Feststellung oder Überprüfung der Eignung des Bewerbers kann
-die Vorlage amts- oder fachärztlicher Zeugnisse oder Gutachten oder
-eines Führungszeugnisses nach § 30 des Bundeszentralregistergesetzes
+die Vorlage
+
+1.  amts- oder fachärztlicher Zeugnisse oder Gutachten,
+
+
+2.  eines Sportbootführerscheins-Binnen, der durch Prüfung erworben worden
+    und zum Zeitpunkt der Antragstellung auf den Sportbootführerschein-See
+    nicht älter als zwölf Monate ist, oder
+
+
+3.  eines Führungszeugnisses nach § 30 des Bundeszentralregistergesetzes
+
+
+
+verlangt werden. Bestehen nachträglich Zweifel an der Tauglichkeit,
+kann die Vorlage aktueller amts- oder fachärztlicher Zeugnisse
 verlangt werden.
 
 (5) Bewerbern, die beschränkt tauglich sind oder die nach Absatz 3
@@ -152,12 +174,17 @@ erteilt oder erteilt hat.
 Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung
 nachzuweisen, die aus einem theoretischen und einem praktischen Teil
 besteht. Im theoretischen Prüfungsteil muss der Bewerber nachweisen,
-dass er mindestens ausreichende Kenntnisse der maßgebenden
-schifffahrtspolizeilichen, nautischen und technischen Vorschriften für
-das sichere Führen eines Sportbootes auf den Seeschifffahrtsstraßen
-hat. Im praktischen Prüfungsteil muss der Bewerber nachweisen, dass er
-die zur sicheren Führung eines Sportbootes notwendigen Fahrmanöver
-beherrscht und die insoweit erforderlichen Fertigkeiten besitzt.
+dass er über ausreichendes Wissen der maßgeblichen
+schifffahrtspolizeilichen Vorschriften verfügt und die erforderlichen
+nautischen, seemännischen und technischen Grundkenntnisse für das
+sichere Führen eines Sportbootes auf den Seeschifffahrtsstraßen hat.
+Grundzüge des Umwelt- und Naturschutzes werden ergänzend geprüft. Im
+praktischen Prüfungsteil muss der Bewerber nachweisen, dass er die zur
+sicheren Führung eines Sportbootes notwendigen Fahrmanöver und
+Fertigkeiten beherrscht und zur Anwendung des theoretischen Wissens
+fähig ist. Wird die Prüfung aus wichtigem Grund nicht an einem Tag
+abgeschlossen, muss der fehlende Prüfungsteil spätestens innerhalb
+eines Jahres nachgeholt werden.
 
 
 ## § 4 Beauftragung
@@ -194,20 +221,32 @@ Erklärungen und Unterlagen enthalten:
     Farbunterscheidungsvermögen, das vom untersuchenden Arzt unmittelbar
     dem Vorsitzenden des zuständigen Prüfungsausschusses in einem
     verschlossenen Umschlag und in Abschrift dem Antragsteller zuzuleiten
-    ist,
+    ist, oder einen Sportbootführerschein-Binnen, wenn dieser durch
+    Prüfung erworben worden und zum Zeitpunkt der Antragstellung nicht
+    älter als zwölf Monate ist,
 
 
 4.  eine Erklärung, dass die Erteilung eines Führungszeugnisses nach § 30
     Abs. 5 des Bundeszentralregistergesetzes zur Vorlage beim
-    Prüfungsausschuss beantragt worden ist,
+    Prüfungsausschuss beantragt worden ist, wenn kein gültiger amtlicher
+    Kraftfahrzeugführerschein nach § 2 Absatz 1 des
+    Straßenverkehrsgesetzes und der Fahrerlaubnis-Verordnung vorgelegt
+    werden kann,
 
 
 5.  eine Erklärung, ob dem Bewerber die Fahrerlaubnis für Sportboote
     bereits einmal entzogen worden ist,
 
 
-6.  bei Bewerbern, die das 18. Lebensjahr noch nicht vollendet haben, die
-    Zustimmung des gesetzlichen Vertreters (§ 2 Abs. 1).
+6.  soweit erforderlich, eine ärztliche Bescheinigung einer Legasthenie
+    oder Unterlagen, wie Atteste, ärztliche Bescheinigungen,
+    Schulzeugnisse oder Gutachten, die zur Glaubhaftmachung nicht
+    ausreichender Deutschkenntnisse geeignet sind,
+
+
+7.  soweit erteilt, eine Fotokopie des amtlichen Sportbootführerscheins-
+    Binnen, der am Prüfungstag vor Beginn der Prüfung im Original
+    vorzulegen ist.
 
 
 
@@ -215,7 +254,7 @@ Erklärungen und Unterlagen enthalten:
 (2) Der Bewerber wird erst dann zur Prüfung zugelassen, wenn die nach
 Absatz 1 beizufügenden Unterlagen und das Führungszeugnis nach Absatz
 1 Nr. 4 vorliegen. Die Zulassung zur Prüfung darf frühestens drei
-Monate vor Vollendung des 16 Lebensjahres erfolgen.
+Monate vor Vollendung des 16. Lebensjahres erfolgen.
 
 (3) Der Antrag auf Zulassung zu einer Nachprüfung des theoretischen
 oder praktischen Prüfungsteils oder beider Prüfungsteile nach
@@ -249,7 +288,7 @@ oder zurücknehmen.
 Prüfungsausschüsse Berlin, Hamburg, Kiel, Lübeck und Rostock. Die
 Wasser- und Schifffahrtsdirektion Nordwest ist zuständig für die
 Prüfungsausschüsse Aurich, Bremen, Düsseldorf, Hannover, Leipzig,
-Meersburg/Bodensee, München und Wiesbaden.
+Bodensee, München und Wiesbaden.
 
 (2) Die Prüfung wird von dem Vorsitzenden des Prüfungsausschusses oder
 dessen Stellvertreter, einem von den beauftragten Verbänden und einem
@@ -554,7 +593,7 @@ vorsätzlich oder fahrlässig
     aushändigt,
 
 
-5.  einer vollstreckbaren Auflage nach § 2 Abs. 3 zuwiderhandelt oder
+5.  einer vollstreckbaren Auflage nach § 2 Absatz 5 zuwiderhandelt oder
 
 
 6.  entgegen § 8 Abs. 5 Satz 2 oder 3 nach der Entziehung der

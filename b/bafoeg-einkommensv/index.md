@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 505
 
 Zuletzt geändert durch
-:   Art. 1c G v. 10.9.2012 I 1878
+:   Art. 4 G v. 23.10.2012 I 2246
 
 
 ## Eingangsformel
@@ -58,11 +58,9 @@ folgende Leistungen der sozialen Sicherung:
 
 
 2.  nach dem Fünften, Sechsten und Siebten Buch Sozialgesetzbuch (SGB V,
-    SGB VI, SGB VII), der Reichsversicherungsordnung (RVO), dem Gesetz
-    über die Krankenversicherung der Landwirte (KVLG), dem Zweiten Gesetz
-    über die Versicherung der Landwirte (KVLG - 1989), dem
-    Mutterschutzgesetz (MuSchG), dem Bundeselterngeld- und
-    Elternzeitgesetz (BEEG),
+    SGB VI, SGB VII), dem Zweiten Gesetz über die Versicherung der
+    Landwirte (KVLG - 1989), dem Mutterschutzgesetz (MuSchG), dem
+    Bundeselterngeld- und Elternzeitgesetz (BEEG),
 
     a)  Krankengeld (§§ 44ff. SGB V, §§ 12ff. KVLG - 1989),
 
@@ -72,11 +70,11 @@ folgende Leistungen der sozialen Sicherung:
         des Versicherten (§ 38 Abs. 4 SGB V);
 
 
-    c)  Mutterschaftsgeld (§§ 200ff. RVO, §§ 29ff. KVLG, § 13 MuSchG) und
-        Zuschuß zum Mutterschaftsgeld (§ 14 MuSchG), soweit sie das
-        Erziehungsgeld nach dem Bundeserziehungsgeldgesetz oder das nach § 10
-        des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreie
-        Elterngeld oder vergleichbare Leistungen der Länder übersteigen,
+    c)  Mutterschaftsgeld (§ 24i SGB V, § 13 MuSchG) und Zuschuß zum
+        Mutterschaftsgeld (§ 14 MuSchG), soweit sie das Erziehungsgeld nach
+        dem Bundeserziehungsgeldgesetz oder das nach § 10 des
+        Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreie Elterngeld
+        oder vergleichbare Leistungen der Länder übersteigen,
 
 
     d)  Verletztengeld (§§ 45 ff. SGB VII);

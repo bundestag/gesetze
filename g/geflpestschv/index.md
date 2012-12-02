@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2348
 
 Zuletzt geändert durch
-:   Art. 16 V v. 13.12.2011 I 2720
+:   Art. 2 V v. 3.10.2012 I 2108
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2005/94/EG des
 Rates vom 20. Dezember 2005 mit Gemeinschaftsmaßnahmen zur Bekämpfung
@@ -202,8 +202,7 @@ Register sind unverzüglich einzutragen:
 
 Werden in Gefangenschaft gehaltene Vögel anderer Arten zu
 Erwerbszwecken gehalten, gelten die Sätze 1 und 2 Nr. 1 bis 3 und 5
-entsprechend. Satz 3 findet keine Anwendung, soweit der Tierhalter
-nach § 4 der Psittakose-Verordnung Buch führt.
+entsprechend.
 
 (3) Jede Person, die gewerbsmäßig im Rahmen der Ein- oder Ausstallung
 von Geflügel tätig ist, hat den Namen und die Anschrift des jeweiligen

@@ -3809,6 +3809,24 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich in der Fassung der Zweiten Änderungsverordnung vom 23. Mai 1996)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1996, 765)
+   (Fundstelle: BGBl I 1996, 764 - 765)
 
+1 : 50 000
+Lärmschutzbereich
+für den militärischen Flugplatz Nörvenich
+– Zweite Änderung –
+(Gesetz zum Schutz gegen Fluglärm vom 30. März 1971, BGBl. I S. 282)
+
+![bgbl1_1996_j0764_0010.jpg](bgbl1_1996_j0764_0010.jpg)
+Das rechtwinklige Koordinatengitter entspricht dem Gauß-Krüger-System
+mit 3° breitem Meridianstreifen. Es zeigt zugleich die Begrenzung der
+zugehörigen Blätter der Deutschen Grundkarte 1 : 5 000.
+
+Kartengrundlage:
+Topographische Karte 1 : 50 000
+(mit Genehmigung des Landesvermessungsamts Nordrhein-Westfalen)
+
+Gravur der Lärmschutzgrenzen und Druck:
+Landesvermessungsamt Nordrhein-Westfalen, 1996
+
+![bgbl1_1996_j0765_0010.jpg](bgbl1_1996_j0765_0010.jpg)

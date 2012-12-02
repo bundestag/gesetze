@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 572
 
 Zuletzt geändert durch
-:   § 38 Abs. 3 V v. 16.12.2011; 2012 I 2 (1717)
+:   Art. 4 V v. 2.10.2012 I 2102
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -421,6 +421,8 @@ Nummer 3 gilt nicht auf der Eder- und der Diemeltalsperre.
 (4) Das Unternehmen darf ein Sportboot
 
 1.  mit einer Länge von weniger als 15 m nur an Personen vermieten, die
+    nach der Sportbootführerscheinverordnung-Binnen zum Führen eines
+    Sportbootes berechtigt sind,
 
     a)  über die nach der Sportbootführerscheinverordnung-Binnen erforderliche
         Fahrerlaubnis verfügen, wobei deren § 3 Abs. 1 Nr. 1 nicht anzuwenden

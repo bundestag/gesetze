@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 1322
 
 Zuletzt geändert durch
-:   Art. 4a V v. 16.3.2010 I 282
+:   Art. 5 V v. 10.10.2012 I 2113
 
 Diese Verordnung dient der Umsetzung folgender Rechtsakte:
 1\.  Richtlinie 91/682/EWG des Rates vom 19. Dezember 1991 über das
@@ -1078,7 +1078,7 @@ Saatgutverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Abs. 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig erstattet.

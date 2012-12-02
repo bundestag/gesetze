@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 6.12.2011 I 2628
 
+Mittelbare änderung durch
+:   Art. 8 G v. 19.10.2012 I 2182 ist berücksichtigt
+
 Neufassung durch
 :   Art. 1 G v. 5.4.1965 I 213 udB "Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (Pflichtversicherungsgesetz)"
 

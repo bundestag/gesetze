@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2081
 
 Zuletzt geändert durch
-:   Art. 4 V v. 3.11.2006 I 2523
+:   Art. 8 G v. 19.10.2012 I 2192
 
 
 ## Eingangsformel
@@ -304,15 +304,15 @@ Chargenbezeichnung aufweist. Mit dem Etikett kann das frühere Datum,
 nicht aber die bereits vorhandene Chargenbezeichnung überdeckt werden.
 
 (8) Bei Prüfpräparaten, die durch die zuständige Bundesoberbehörde
-zugelassene Arzneimittel sind oder für die die Kommission der
-Europäischen Gemeinschaften oder der Rat der Europäischen Union eine
-Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der
-Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates
-vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die
-Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur
-Errichtung einer Europäischen Arzneimittel-Agentur (ABl. EU Nr. L 136
-S. 1) erteilt hat, und die ohne zusätzliche Herstellungsmaßnahmen zur
-Verwendung in der klinischen Prüfung bestimmt sind, kann auf besondere
+zugelassene Arzneimittel sind oder für die die Europäische
+Gemeinschaft oder die Europäische Union eine Genehmigung für das
+Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr.
+726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004
+zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und
+Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer
+Europäischen Arzneimittel-Agentur (ABl. EU Nr. L 136 S. 1) erteilt
+hat, und die ohne zusätzliche Herstellungsmaßnahmen zur Verwendung in
+der klinischen Prüfung bestimmt sind, kann auf besondere
 Kennzeichnungen auf den Behältnissen und den äußeren Umhüllungen nach
 den Absätzen 2 bis 7 verzichtet werden, soweit es das Konzept der
 klinischen Prüfung erlaubt. Angaben nach Absatz 1 können auch in einem
@@ -366,11 +366,11 @@ folgenden Angaben und Unterlagen beigefügt werden:
     diesbezüglichen Informationen in den weiteren Unterlagen verweist,
 
 
-3.  vom Hauptprüfer oder vom Leiter der klinischen Prüfung sowie vom
-    Sponsor oder seinem Vertreter unterzeichneter Prüfplan unter Angabe
-    des vollständigen Titels und des Arbeitstitels der klinischen Prüfung,
-    der EudraCT-Nummer, des Prüfplancodes des Sponsors, der Fassung und
-    des Datums,
+3.  vom Prüfer oder vom Leiter der klinischen Prüfung sowie vom Sponsor
+    oder seinem Vertreter unterzeichneter Prüfplan unter Angabe des
+    vollständigen Titels und des Arbeitstitels der klinischen Prüfung, der
+    EudraCT-Nummer, des Prüfplancodes des Sponsors, der Fassung und des
+    Datums,
 
 
 4.  Name oder Firma und Anschrift des Sponsors und, sofern vorhanden,
@@ -380,8 +380,8 @@ folgenden Angaben und Unterlagen beigefügt werden:
 
 
 5.  Namen und Anschriften der Einrichtungen, die als Prüfstelle oder
-    Prüflabor in die klinische Prüfung eingebunden sind, sowie der
-    Hauptprüfer und des Leiters der klinischen Prüfung,
+    Prüflabor in die klinische Prüfung eingebunden sind, sowie der Prüfer
+    und des Leiters der klinischen Prüfung,
 
 
 6.  Angabe der Berufe von Prüfern, die nicht Arzt sind, der
@@ -465,14 +465,16 @@ folgenden Angaben und Unterlagen beigefügt werden:
 6.  Lebensläufe oder andere geeignete Qualifikationsnachweise der Prüfer,
 
 
+6a. Angaben zur Qualifikation der Mitglieder der Prüfgruppe sowie über
+    ihre Erfahrungen mit der Durchführung klinischer Prüfungen,
+
+
 7.  Angaben zu möglichen wirtschaftlichen und anderen Interessen der
     Prüfer im Zusammenhang mit den Prüfpräparaten,
 
 
 8.  Angaben zur Eignung der Prüfstelle, insbesondere zur Angemessenheit
-    der dort vorhandenen Mittel und Einrichtungen sowie des zur
-    Durchführung der klinischen Prüfung zur Verfügung stehenden Personals
-    und zu Erfahrungen in der Durchführung ähnlicher klinischer Prüfungen,
+    der dort vorhandenen Mittel und Einrichtungen,
 
 
 9.  Informationen und Unterlagen, die die betroffenen Personen erhalten,
@@ -497,7 +499,9 @@ folgenden Angaben und Unterlagen beigefügt werden:
 
 
 13. Nachweis einer Versicherung nach § 40 Abs. 1 Satz 3 Nr. 8 und Abs. 3
-    des Arzneimittelgesetzes,
+    des Arzneimittelgesetzes oder in Fällen des § 40 Absatz 1b des
+    Arzneimittelgesetzes der Nachweis des Bestehens einer anderweitigen
+    Versicherung für Prüfer und Sponsor,
 
 
 14. hinsichtlich der Vergütung der Prüfer und der Entschädigung der
@@ -526,6 +530,10 @@ folgenden Angaben und Unterlagen beigefügt werden:
 
 
 
+
+(3a) Die nach den Absätzen 2 und 3 erforderlichen Angaben oder
+vorzulegenden Unterlagen für die Prüfer sind entsprechend für ihre
+Stellvertreter beizufügen und vorzulegen.
 
 (4) Der zuständigen Bundesoberbehörde ist ferner vorzulegen:
 
@@ -598,25 +606,24 @@ folgenden Angaben und Unterlagen beigefügt werden:
 Zusammenfassung der Merkmale des Arzneimittels (SmPC) vorgelegt
 werden, wenn es sich bei dem Prüfpräparat um ein Arzneimittel handelt,
 das in einem Mitgliedstaat der Europäischen Union zugelassen ist oder
-für das die Kommission der Europäischen Gemeinschaften oder der Rat
-der Europäischen Union eine Genehmigung für das Inverkehrbringen gemäß
-Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr. 726/2004 des
-Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung
-von Gemeinschaftsverfahren für die Genehmigung und Überwachung von
-Human- und Tierarzneimitteln und zur Errichtung einer Europäischen
-Arzneimittel-Agentur (ABl. EU Nr. L 136 S. 1) erteilt hat und das in
-der klinischen Prüfung gemäß der Zusammenfassung der Merkmale des
-Arzneimittels (SmPC) angewendet werden soll. Soll das zugelassene
-Arzneimittel abweichend von der Zusammenfassung der Merkmale des
-Arzneimittels (SmPC) angewendet werden, und handelt es sich dabei
-ausschließlich um eine Abweichung von dem zugelassenen
-Anwendungsgebiet, so sind in der Regel keine zusätzlichen Daten zu
-Qualität, zu den Ergebnissen der pharmakologisch-toxikologischen
-Prüfung und zu klinischen Ergebnissen vorzulegen; bei anderen
-Abweichungen sind in Abhängigkeit von der Art der Abweichung
-zusätzliche Daten zu Qualität, zu den Ergebnissen der pharmakologisch-
-toxikologischen Prüfung und zu klinischen Ergebnissen nur dann
-vorzulegen, wenn die in der Zusammenfassung der Merkmale des
+für das die Europäische Gemeinschaft oder die Europäische Union eine
+Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der
+Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates
+vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die
+Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur
+Errichtung einer Europäischen Arzneimittel-Agentur (ABl. EU Nr. L 136
+S. 1) erteilt hat und das in der klinischen Prüfung gemäß der
+Zusammenfassung der Merkmale des Arzneimittels (SmPC) angewendet
+werden soll. Soll das zugelassene Arzneimittel abweichend von der
+Zusammenfassung der Merkmale des Arzneimittels (SmPC) angewendet
+werden, und handelt es sich dabei ausschließlich um eine Abweichung
+von dem zugelassenen Anwendungsgebiet, so sind in der Regel keine
+zusätzlichen Daten zu Qualität, zu den Ergebnissen der
+pharmakologisch-toxikologischen Prüfung und zu klinischen Ergebnissen
+vorzulegen; bei anderen Abweichungen sind in Abhängigkeit von der Art
+der Abweichung zusätzliche Daten zu Qualität, zu den Ergebnissen der
+pharmakologisch-toxikologischen Prüfung und zu klinischen Ergebnissen
+nur dann vorzulegen, wenn die in der Zusammenfassung der Merkmale des
 Arzneimittels (SmPC) enthaltenen Angaben für die im Prüfplan
 vorgesehenen Anwendungsbedingungen nicht ausreichend sind. Wird das
 zugelassene Arzneimittel oder sein Wirkstoff von einem anderen als dem
@@ -728,24 +735,24 @@ bereits genehmigten Antrags unverändert zu Grunde liegen. Diese
 Fristverkürzung gilt nicht bei klinischen Prüfungen der in Absatz 4
 genannten Arzneimittel.
 
-(4) Bei klinischen Prüfungen von Gentransfer-Arzneimitteln,
-somatischen Zelltherapeutika oder Arzneimitteln, die aus einem
-gentechnisch veränderten Organismus oder einer Kombination von
+(4) Bei klinischen Prüfungen von Arzneimitteln für neuartige Therapien
+oder Arzneimitteln, die aus einem gentechnisch veränderten Organismus
+oder einer Kombination von gentechnisch veränderten Organismen
+bestehen oder solche enthalten, verlängert sich die Frist des § 42
+Abs. 2 Satz 8 Halbsatz 1 des Arzneimittelgesetzes auf höchstens 90
+Tage; eine weitere Verlängerung der Frist auf insgesamt höchstens 180
+Tage tritt ein, wenn die zuständige Bundesoberbehörde zur Vorbereitung
+ihrer Entscheidung Sachverständige beizieht oder Gutachten anfordert.
+Für die Prüfung xenogener Arzneimittel gibt es keine zeitliche
+Begrenzung für den Genehmigungszeitraum. Bei Prüfpräparaten, die aus
+einem gentechnisch veränderten Organismus oder einer Kombination von
 gentechnisch veränderten Organismen bestehen oder solche enthalten,
-verlängert sich die Frist des § 42 Abs. 2 Satz 8 Halbsatz 1 des
-Arzneimittelgesetzes auf höchstens 90 Tage; eine weitere Verlängerung
-der Frist auf insgesamt höchstens 180 Tage tritt ein, wenn die
-zuständige Bundesoberbehörde zur Vorbereitung ihrer Entscheidung
-Sachverständige beizieht oder Gutachten anfordert. Für die Prüfung
-xenogener Zelltherapeutika gibt es keine zeitliche Begrenzung für den
-Genehmigungszeitraum. Bei Prüfpräparaten, die aus einem gentechnisch
-veränderten Organismus oder einer Kombination von gentechnisch
-veränderten Organismen bestehen oder solche enthalten, entscheidet die
-zuständige Bundesoberbehörde im Benehmen mit dem Bundesamt für
-gesundheitlichen Verbraucherschutz und Lebensmittelsicherheit; die
-Genehmigung der klinischen Prüfung durch die zuständige
-Bundesoberbehörde umfasst die Genehmigung der Freisetzung dieser
-gentechnisch veränderten Organismen im Rahmen der klinischen Prüfung.
+entscheidet die zuständige Bundesoberbehörde im Benehmen mit dem
+Bundesamt für gesundheitlichen Verbraucherschutz und
+Lebensmittelsicherheit; die Genehmigung der klinischen Prüfung durch
+die zuständige Bundesoberbehörde umfasst die Genehmigung der
+Freisetzung dieser gentechnisch veränderten Organismen im Rahmen der
+klinischen Prüfung.
 
 (5) Zur Vorbereitung ihrer Entscheidung kann die zuständige
 Bundesoberbehörde die im Antrag nach § 42 Abs. 2 Satz 1 und 2 des
@@ -791,12 +798,12 @@ klinischen Prüfung, die geeignet sind,
 
 darf der Sponsor nur vornehmen, wenn diese Änderungen von der
 zuständigen Ethik-Kommission zustimmend bewertet wurden, soweit sie
-die Angaben und Unterlagen nach § 7 Abs. 2 oder 3 betreffen, und wenn
-sie von der zuständigen Bundesoberbehörde genehmigt wurden, soweit sie
-die Angaben und Unterlagen nach § 7 Abs. 2 oder 4 betreffen. Die
-zustimmende Bewertung ist bei der zuständigen Ethik-Kommission, die
-Genehmigung ist bei der zuständigen Bundesoberbehörde zu beantragen.
-Der Antrag ist zu begründen.
+die Angaben und Unterlagen nach § 7 Absatz 2, 3 oder 3a betreffen, und
+wenn sie von der zuständigen Bundesoberbehörde genehmigt wurden,
+soweit sie die Angaben und Unterlagen nach § 7 Abs. 2 oder 4
+betreffen. Die zustimmende Bewertung ist bei der zuständigen Ethik-
+Kommission, die Genehmigung ist bei der zuständigen Bundesoberbehörde
+zu beantragen. Der Antrag ist zu begründen.
 
 (2) Die zuständige Ethik-Kommission hat eine Entscheidung über den
 ordnungsgemäßen Antrag auf zustimmende Bewertung der Änderungen
@@ -838,19 +845,19 @@ klinische Prüfung zustimmend bewertet hat, die Einbeziehung der
 jeweiligen zusätzlichen Prüfstelle zustimmend bewertet. Dem Antrag auf
 Erteilung der zustimmenden Bewertung sind die auf die zusätzlichen
 Prüfstellen bezogenen Angaben nach § 7 Abs. 2 Nr. 5 und 8, Abs. 3 Nr.
-4, 6 bis 8, 13, 14, 16 und 18 beizufügen. Jede Ethik-Kommission, die
-nach Landesrecht für einen Prüfer zuständig ist, der in einer
-zusätzlichen Prüfstelle für die Durchführung der klinischen Prüfung
-verantwortlich ist, erhält eine Kopie des ursprünglichen Antrags und
-der Unterlagen auf zustimmende Bewertung der klinischen Prüfung, der
-zustimmenden Bewertung der in Satz 1 genannten Ethik-Kommission und
-des Antrags auf zustimmende Bewertung der Einbeziehung der
-zusätzlichen Prüfstelle. Die federführende Ethik-Kommission setzt sich
-mit ihr ins Benehmen. Die zustimmende Bewertung gilt als erteilt, wenn
-die federführende Ethik-Kommission dem Sponsor nicht innerhalb von 30
-Tagen nach Eingang des ordnungsgemäßen Antrags begründete Bedenken
-übermittelt. Die federführende Ethik-Kommission unterrichtet die
-zuständige Bundesoberbehörde über die Bewertung.
+4, 6 bis 8, 13, 14, 16, 18 und Absatz 3a beizufügen. Jede Ethik-
+Kommission, die nach Landesrecht für einen Prüfer zuständig ist, der
+in einer zusätzlichen Prüfstelle für die Durchführung der klinischen
+Prüfung verantwortlich ist, erhält eine Kopie des ursprünglichen
+Antrags und der Unterlagen auf zustimmende Bewertung der klinischen
+Prüfung, der zustimmenden Bewertung der in Satz 1 genannten Ethik-
+Kommission und des Antrags auf zustimmende Bewertung der Einbeziehung
+der zusätzlichen Prüfstelle. Die federführende Ethik-Kommission setzt
+sich mit ihr ins Benehmen. Die zustimmende Bewertung gilt als erteilt,
+wenn die federführende Ethik-Kommission dem Sponsor nicht innerhalb
+von 30 Tagen nach Eingang des ordnungsgemäßen Antrags begründete
+Bedenken übermittelt. Die federführende Ethik-Kommission unterrichtet
+die zuständige Bundesoberbehörde über die Bewertung.
 
 
 ### § 11 Maßnahmen zum Schutz vor unmittelbarer Gefahr
@@ -907,8 +914,7 @@ Prüfung die folgenden Angaben bei:
     Vertreters,
 
 
-7.  Name und Anschrift des Leiters der klinischen Prüfung sowie des
-    Hauptprüfers,
+7.  Name und Anschrift des Leiters der klinischen Prüfung,
 
 
 8.  Name und Anschrift der Prüflaboratorien und anderer Einrichtungen, die
@@ -999,31 +1005,33 @@ sind vor ihrer Übermittlung unter Verwendung des Identifizierungscodes
 der betroffenen Person zu pseudonymisieren.
 
 (2) Der Sponsor hat über jeden ihm bekannt gewordenen Verdachtsfall
-einer unerwarteten schwerwiegenden Nebenwirkung unverzüglich,
-spätestens aber innerhalb von 15 Tagen nach Bekanntwerden, die
-zuständige Ethik-Kommission, die zuständige Bundesoberbehörde und die
-zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union
-und anderer Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum, in deren Hoheitsgebiet die klinische Prüfung
-durchgeführt wird, sowie die an der klinischen Prüfung beteiligten
-Prüfer zu unterrichten. Personenbezogene Daten sind vor ihrer
-Übermittlung unter Verwendung des Identifizierungscodes der
-betroffenen Person zu pseudonymisieren.
+einer unerwarteten schwerwiegenden Nebenwirkung durch in dieser oder
+einer anderen klinischen Prüfung des Sponsors verwendete und denselben
+Wirkstoff enthaltende Prüfpräparate unverzüglich, spätestens aber
+innerhalb von 15 Tagen nach Bekanntwerden, die zuständige Ethik-
+Kommission, die zuständige Bundesoberbehörde und die zuständigen
+Behörden anderer Mitgliedstaaten der Europäischen Union und anderer
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum,
+in deren Hoheitsgebiet die klinische Prüfung durchgeführt wird, sowie
+die an der klinischen Prüfung beteiligten Prüfer zu unterrichten.
+Personenbezogene Daten sind vor ihrer Übermittlung unter Verwendung
+des Identifizierungscodes der betroffenen Person zu pseudonymisieren.
 
 (3) Der Sponsor hat bei jedem ihm bekannt gewordenen Verdachtsfall
-einer unerwarteten schwerwiegenden Nebenwirkung, die zu einem
-Todesfall geführt hat oder lebensbedrohlich ist, unverzüglich,
-spätestens aber innerhalb von sieben Tagen nach Bekanntwerden, der
-zuständigen Ethik-Kommission, der zuständigen Bundesoberbehörde und
-den zuständigen Behörden anderer Mitgliedstaaten der Europäischen
-Union und anderer Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum, in deren Hoheitsgebiet die klinische Prüfung
-durchgeführt wird, sowie den an der Prüfung beteiligten Prüfern alle
-für die Bewertung wichtigen Informationen und innerhalb von höchstens
-acht weiteren Tagen die weiteren relevanten Informationen zu
-übermitteln. Personenbezogene Daten sind vor ihrer Übermittlung unter
-Verwendung des Identifizierungscodes der betroffenen Person zu
-pseudonymisieren.
+einer unerwarteten schwerwiegenden Nebenwirkung durch in dieser oder
+einer anderen klinischen Prüfung des Sponsors verwendete und denselben
+Wirkstoff enthaltende Prüfpräparate, die zu einem Todesfall geführt
+hat oder lebensbedrohlich ist, unverzüglich, spätestens aber innerhalb
+von sieben Tagen nach Bekanntwerden, der zuständigen Ethik-Kommission,
+der zuständigen Bundesoberbehörde und den zuständigen Behörden anderer
+Mitgliedstaaten der Europäischen Union und anderer Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum, in deren
+Hoheitsgebiet die klinische Prüfung durchgeführt wird, sowie den an
+der Prüfung beteiligten Prüfern alle für die Bewertung wichtigen
+Informationen und innerhalb von höchstens acht weiteren Tagen die
+weiteren relevanten Informationen zu übermitteln. Personenbezogene
+Daten sind vor ihrer Übermittlung unter Verwendung des
+Identifizierungscodes der betroffenen Person zu pseudonymisieren.
 
 (4) Der Sponsor unterrichtet unverzüglich, spätestens aber innerhalb
 von 15 Tagen nach Bekanntwerden, die zuständige Bundesoberbehörde, die
@@ -1094,6 +1102,16 @@ der klinischen Prüfung eine Zusammenfassung des Berichts über die
 klinische Prüfung, der alle wesentlichen Ergebnisse der klinischen
 Prüfung abdeckt.
 
+(9a) Sofern eine klinische Prüfung mit Arzneimitteln durchgeführt
+wird, die aus einem gentechnisch veränderten Organismus oder einer
+Kombination von gentechnisch veränderten Organismen bestehen oder
+solche enthalten, muss der Sponsor die zuständige Bundesoberbehörde
+unmittelbar nach Abschluss der klinischen Prüfung über die Ergebnisse
+in Bezug auf die Gefahren für die menschliche Gesundheit oder die
+Umwelt informieren. Der Bericht nach Absatz 9 muss auch alle
+Ergebnisse enthalten, die sich aus der Besonderheit dieser
+Arzneimittelgruppe ergeben können.
+
 (10) Der Sponsor stellt sicher, dass die wesentlichen Unterlagen der
 klinischen Prüfung einschließlich der Prüfbögen nach der Beendigung
 oder dem Abbruch der Prüfung mindestens zehn Jahre aufbewahrt werden.
@@ -1105,9 +1123,9 @@ bleiben unberührt.
 
 (1) Die zuständige Bundesoberbehörde unterrichtet die für die
 Überwachung zuständigen Behörden, die zuständige Ethik-Kommission
-sowie die Kommission der Europäischen Gemeinschaften unverzüglich und
-unter Angabe von Gründen über die Anordnung von Abhilfemaßnahmen nach
-§ 42a Abs. 5 des Arzneimittelgesetzes.
+sowie die Europäische Kommission unverzüglich und unter Angabe von
+Gründen über die Anordnung von Abhilfemaßnahmen nach § 42a Abs. 5 des
+Arzneimittelgesetzes.
 
 (2) Die zuständige Bundesoberbehörde übermittelt der für die
 Überwachung jeweils zuständigen Behörde auf Ersuchen alle hierfür
@@ -1136,11 +1154,24 @@ Datenbank für klinische Prüfungen (EudraCT-Datenbank), insbesondere
 
 
 6.  Angaben über durchgeführte Inspektionen zur Überprüfung der
-    Übereinstimmung mit der Guten Klinischen Praxis.
+    Übereinstimmung mit der Guten Klinischen Praxis,
+
+
+7.  Angaben über die Ergebnisse klinischer Prüfungen.
 
 
 
-Personenbezogene Daten werden nicht übermittelt.
+Für klinische Prüfungen mit Arzneimitteln, die aus einem gentechnisch
+veränderten Organismus oder einer Kombination von gentechnisch
+veränderten Organismen bestehen oder solche enthalten, werden die
+Angaben nach Satz 1 auch an das öffentlich zugängliche GMO-Register
+der Europäischen Kommission übermittelt. Personenbezogene Daten werden
+an die Datenbank nur im Falle einer klinischen Prüfung mit
+Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder
+einer Kombination von gentechnisch veränderten Organismen bestehen
+oder solche enthalten, übermittelt, soweit diese Daten für die Abwehr
+von Gefahren für die Gesundheit Dritter oder für die Umwelt in ihrem
+Wirkungsgefüge erforderlich sind.
 
 (4) Auf Anfrage der zuständigen Behörden anderer Mitgliedstaaten der
 Europäischen Union und anderer Vertragsstaaten des Abkommens über den
@@ -1183,13 +1214,13 @@ den Unterlagen nach § 7 oder § 10 oder mit den Unterlagen nach § 22
 Abs. 2 Nr. 3 des Arzneimittelgesetzes werden durch die zuständige
 Bundesoberbehörde durchgeführt.
 
-(2) Die Inspektionen erfolgen im Namen der Europäischen Gemeinschaft.
-Ihre Ergebnisse werden von den anderen Mitgliedstaaten der
-Europäischen Union anerkannt. Die zuständige Behörde oder
-Bundesoberbehörde kann die zuständigen Behörden anderer
-Mitgliedstaaten um Unterstützung bei der Durchführung von Inspektionen
-bitten und ihrerseits bei von diesen Behörden initiierten Inspektionen
-Unterstützung leisten. Absatz 1 gilt entsprechend.
+(2) Die Inspektionen erfolgen im Namen der Europäischen Union. Ihre
+Ergebnisse werden von den anderen Mitgliedstaaten der Europäischen
+Union anerkannt. Die zuständige Behörde oder Bundesoberbehörde kann
+die zuständigen Behörden anderer Mitgliedstaaten um Unterstützung bei
+der Durchführung von Inspektionen bitten und ihrerseits bei von diesen
+Behörden initiierten Inspektionen Unterstützung leisten. Absatz 1 gilt
+entsprechend.
 
 (3) Vorbehaltlich der zwischen der Europäischen Union und Drittländern
 getroffenen Vereinbarungen kann die zuständige Bundesoberbehörde einen

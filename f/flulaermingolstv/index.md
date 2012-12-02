@@ -3738,6 +3738,7 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Ingolstadt in der Fassung der ersten Änderungsverordnung vom 7. März 1988)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl. I 1988, 220 - 221)
+   (Fundstelle: BGBl I 1988, 220 - 221)
 
+![bgbl1_1988_j0220_0010.jpg](bgbl1_1988_j0220_0010.jpg)
+![bgbl1_1988_j0221_0010.jpg](bgbl1_1988_j0221_0010.jpg)

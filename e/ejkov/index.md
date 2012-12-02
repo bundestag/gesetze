@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über Koordinierung der Zusammenarbeit mit Eurojust
+Title: Verordnung über die Koordinierung der Zusammenarbeit mit Eurojust
 jurabk: EJKoV
 layout: default
 origslug: ejkov
@@ -7,7 +7,7 @@ slug: ejkov
 
 ---
 
-# Verordnung über Koordinierung der Zusammenarbeit mit Eurojust (EJKoV)
+# Verordnung über die Koordinierung der Zusammenarbeit mit Eurojust (EJKoV)
 
 Ausfertigungsdatum
 :   2012-09-26

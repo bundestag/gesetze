@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 26.6.2012 I 1375
-
-Mittelbar geändert durch
-:   Art. 20 u. 21 G v. 6.12.2011 I 2481
+:   Art. 1 G v. 6.11.2012 I 2286
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -46,11 +43,10 @@ Abschluss von Finanztermingeschäften, auf Finanzanalysen sowie auf
 Veränderungen der Stimmrechtsanteile von Aktionären an börsennotierten
 Gesellschaften.
 
-(2) Die Vorschriften des dritten und vierten Abschnitts sowie die §§
-30h, 30i, 34b und 34c sind auch anzuwenden auf Handlungen und
-Unterlassungen, die im Ausland vorgenommen werden, sofern sie
-Finanzinstrumente betreffen, die an einer inländischen Börse gehandelt
-werden.
+(2) Die Vorschriften des dritten und vierten Abschnitts sowie die die
+§§ 34b und 34c sind auch anzuwenden auf Handlungen und Unterlassungen,
+die im Ausland vorgenommen werden, sofern sie Finanzinstrumente
+betreffen, die an einer inländischen Börse gehandelt werden.
 
 (3) Die Vorschriften des dritten und vierten Abschnitts sowie die §§
 34b und 34c sind nicht anzuwenden auf Geschäfte, die aus geld- oder
@@ -799,18 +795,7 @@ Bundesanstalt vorübergehend:
 1.  den Handel mit einzelnen oder mehreren Finanzinstrumenten untersagen,
     insbesondere
 
-    a)  ein Verbot von Geschäften in Derivaten anordnen, deren Wert sich
-        unmittelbar oder mittelbar vom Preis von Aktien oder Schuldtiteln, die
-        von Zentralregierungen, Regionalregierungen und örtlichen
-        Gebietskörperschaften von Mitgliedstaaten der Europäischen Union,
-        deren gesetzliche Währung der Euro ist, ausgegeben wurden, ableitet,
-        soweit diese an einer inländischen Börse zum Handel im regulierten
-        Markt zugelassen sind, bei wirtschaftlicher Betrachtungsweise in
-        Struktur und Wirkung einem Leerverkauf in diesen Aktien oder
-        Schuldtiteln entsprechen und nicht zur Reduktion eines bestehenden
-        oder im unmittelbaren zeitlichen Zusammenhang mit dem Geschäft in
-        einem Derivat übernommenen Marktrisiko führen, wobei § 37 des
-        Börsengesetzes insoweit nicht anzuwenden ist, oder
+    a)  (weggefallen)
 
 
     b)  ein Verbot des Erwerbs von Rechten aus Währungsderivaten im Sinne des
@@ -1377,11 +1362,15 @@ Kapitalanlagegesellschaften und Betreiber von außerbörslichen Märkten,
 an denen Finanzinstrumente gehandelt werden, haben bei der
 Feststellung von Tatsachen, die den Verdacht begründen, dass mit einem
 Geschäft über Finanzinstrumente gegen ein Verbot oder Gebot nach § 14,
-§ 20a, § 30h oder § 30j verstoßen wird, diese unverzüglich der
-Bundesanstalt mitzuteilen. Sie dürfen andere Personen als staatliche
-Stellen und solche, die auf Grund ihres Berufs einer gesetzlichen
-Verschwiegenheitspflicht unterliegen, von der Anzeige oder von einer
-daraufhin eingeleiteten Untersuchung nicht in Kenntnis setzen.
+§ 20a dieses Gesetzes oder die Artikel 12, 13 oder 14 der Verordnung
+(EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14.
+März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default
+Swaps (ABl. L 86 vom 24.3.2012, S. 1), verstoßen wird, diese
+unverzüglich der Bundesanstalt mitzuteilen. Sie dürfen andere Personen
+als staatliche Stellen und solche, die auf Grund ihres Berufs einer
+gesetzlichen Verschwiegenheitspflicht unterliegen, von der Anzeige
+oder von einer daraufhin eingeleiteten Untersuchung nicht in Kenntnis
+setzen.
 
 (2) Die Bundesanstalt hat Anzeigen nach Absatz 1 unverzüglich an die
 zuständigen Aufsichtsbehörden derjenigen organisierten Märkte
@@ -2885,233 +2874,56 @@ Verletzung der Vorschriften dieses Abschnitts gestützt werden.
 ## Abschnitt 5b - Leerverkäufe und Geschäfte in Derivaten
 
 
-### § 30h Verbot ungedeckter Leerverkäufe in Aktien und bestimmten Schuldtiteln
+### § 30h Überwachung von Leerverkäufen
 
-(1) Es ist verboten, ungedeckte Leerverkäufe in
+(1) Die Bundesanstalt ist zuständige Behörde im Sinne der Verordnung
+(EU) Nr. 236/2012. § 15 Absatz 5a des Börsengesetzes bleibt unberührt.
+Soweit in der Verordnung (EU) Nr. 236/2012 nichts Abweichendes
+geregelt ist, gelten die Vorschriften der Abschnitte 1 und 2 dieses
+Gesetzes, mit Ausnahme des § 7 Absatz 4 Satz 5 bis 8, des § 8 Absatz 1
+Satz 3 und des § 9, entsprechend.
 
-1.  Aktien oder
+(2) Die Bundesanstalt übt die ihr nach Absatz 1 Satz 1 in Verbindung
+mit der Verordnung (EU) Nr. 236/2012 übertragenen Befugnisse aus,
+soweit dies für die Wahrnehmung ihrer Aufgaben und die Überwachung der
+Einhaltung der in der Verordnung (EU) Nr. 236/2012 geregelten
+Pflichten erforderlich ist. Für die Zwecke des Artikels 9 Absatz 4
+Satz 2 der Verordnung (EU) Nr. 236/2012 beaufsichtigt die
+Bundesanstalt die entsprechenden Internetseiten des Bundesanzeigers.
 
+(3) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
+nach Absatz 2, auch in Verbindung mit der Verordnung (EU) Nr.
+236/2012, haben keine aufschiebende Wirkung.
 
-2.  Schuldtiteln, die von Zentralregierungen, Regionalregierungen und
-    örtlichen Gebietskörperschaften von Mitgliedstaaten der Europäischen
-    Union, deren gesetzliche Währung der Euro ist, ausgegeben wurden,
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
+über
 
-
-
-die an einer inländischen Börse zum Handel im regulierten Markt
-zugelassen sind, zu tätigen. § 37 des Börsengesetzes ist insoweit
-nicht anzuwenden. Dies gilt nicht für Aktien von Unternehmen mit Sitz
-im Ausland, sofern die Aktien nicht ausschließlich an einer
-inländischen Börse zum Handel im regulierten Markt zugelassen sind.
-Ein ungedeckter Leerverkauf liegt vor, wenn der Verkäufer der in Satz
-1 genannten Wertpapiere am Ende des Tages, an welchem das jeweilige
-Geschäft abgeschlossen wurde,
-
-1.  nicht Eigentümer sämtlicher verkauften Wertpapiere ist und
-
-
-2.  keinen schuldrechtlich oder sachenrechtlich unbedingt durchsetzbaren
-    Anspruch auf Übereignung einer entsprechenden Anzahl von Wertpapieren
-    gleicher Gattung hat.
-
-
+1.  Art, Umfang und Form von Mitteilungen und Veröffentlichungen von
+    Netto-Leerverkaufspositionen nach den Artikeln 5 bis 8 der Verordnung
+    (EU) Nr. 236/2012,
 
 
-(2) Ausgenommen von den Verboten nach Absatz 1 sind Geschäfte von
-Wertpapierdienstleistungsunternehmen oder vergleichbaren Unternehmen
-mit Sitz im Ausland, soweit sie
-
-1.  im Wege des Eigenhandels mit Aktien oder Schuldtiteln im Sinne des
-    Absatzes 1 handeln und regelmäßig und dauerhaft anbieten, diese zu
-    selbst gestellten Preisen zu kaufen oder zu verkaufen, oder
-
-
-2.  regelmäßig und dauerhaft Kundenaufträge erfüllen und die hieraus
-    entstehenden Positionen absichern
-
-
-
-und das jeweils zugrunde liegende Geschäft zur Erfüllung dieser
-Tätigkeit erforderlich ist. Ausgenommen sind daneben auch Geschäfte,
-welche Handelsteilnehmer zur Erfüllung eines zu einem festen oder
-bestimmbaren Preis abgeschlossenen Geschäfts in Finanzinstrumenten mit
-einem Kunden (Festpreisgeschäft) vereinbaren. Der Bundesanstalt ist
-die Absicht der Aufnahme einer Tätigkeit nach Satz 1 unverzüglich
-unter Angabe der jeweils betroffenen Finanzinstrumente anzuzeigen.
-
-(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf,
-
-1.  nähere Bestimmungen über Inhalt, Art, Umfang und Form der
-    Anzeigepflicht des Absatzes 2 Satz 3 erlassen und
-
-
-2.  für bestimmte Geschäfte Ausnahmen vom Verbot des Absatzes 1 vorsehen.
-
-
-
-Das Bundesministerium der Finanzen kann die Ermächtigung des Satzes 1
-Nummer 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf
-die Bundesanstalt übertragen.
-
-
-### § 30i Mitteilungs- und Veröffentlichungspflichten für Inhaber von Netto-Leerverkaufspositionen
-
-(1) Netto-Leerverkaufspositionen, die eine Höhe von 0,2 Prozent der
-ausgegebenen Aktien eines Unternehmens, welche an einer inländischen
-Börse zum Handel im regulierten Markt zugelassen sind, erreichen,
-überschreiten oder unterschreiten, sind bis zum Ablauf des nächsten
-Handelstages im Sinne des § 30 Absatz 1 durch ihren Inhaber der
-Bundesanstalt, auf zwei Nachkommastellen gerundet, gemäß Absatz 3
-mitzuteilen. Netto-Leerverkaufspositionen, die eine Höhe von 0,5
-Prozent erreichen, überschreiten oder unterschreiten, sind durch den
-Inhaber zusätzlich zu der Mitteilung nach Satz 1 innerhalb der in Satz
-1 bezeichneten Frist im Bundesanzeiger zu veröffentlichen. Sobald die
-Höhe einer Netto-Leerverkaufsposition den in Satz 1 genannten
-Schwellenwert zuzüglich 0,1 Prozent oder einem Vielfachen davon
-erreicht, überschreitet oder unterschreitet, hat der Inhaber innerhalb
-der in Satz 1 bezeichneten Frist
-
-1.  in den Fällen des Satzes 1 eine weitere Mitteilung gemäß Absatz 3
+1a. die Beaufsichtigung der Internetseiten des Bundesanzeigers für die
+    Zwecke des Artikels 9 Absatz 4 Satz 2 der Verordnung (EU) Nr. 236/2012
     sowie
 
 
-2.  in den Fällen des Satzes 2 eine weitere Mitteilung und
-    Veröffentlichung im Bundesanzeiger
+2.  Art, Umfang und Form der Mitteilungen, Übermittlungen und
+    Benachrichtigungen gemäß Artikel 17 Absatz 5, 6 und 8 bis 10 der
+    Verordnung (EU) Nr. 236/2012
 
 
 
-vorzunehmen.
-
-(2) Eine Netto-Leerverkaufsposition liegt vor, wenn eine Saldierung
-aller durch ihren Inhaber gehaltenen Finanzinstrumente ergibt, dass
-sein ökonomisches Gesamtinteresse an den ausgegebenen Aktien des
-Unternehmens einer Leerverkaufsposition in Aktien entspricht. Inhaber
-der Netto-Leerverkaufsposition sind die Rechtsträger oder die
-Sondervermögen, welche die saldierten Finanzinstrumente halten. Die
-Mitteilung für ein Sondervermögen hat durch denjenigen zu erfolgen,
-dem die Verwaltung des Sondervermögens obliegt oder der sie
-tatsächlich durchführt.
-
-(3) Die Mitteilungen nach Absatz 1 Satz 1 und 3 sind über einen von
-der Bundesanstalt vorgegebenen Meldeweg vorzunehmen.
-
-(4) Ausgenommen von den Pflichten nach den Absätzen 1 bis 3 sind
-Netto-Leerverkaufspositionen von Wertpapierdienstleistungsunternehmen
-oder vergleichbaren Unternehmen mit Sitz im Ausland, soweit sie
-
-1.  im Wege des Eigenhandels mit Aktien im Sinne von Absatz 1 handeln und
-    regelmäßig und dauerhaft anbieten, diese zu selbst gestellten Preisen
-    zu kaufen oder zu verkaufen, oder
-
-
-2.  regelmäßig und dauerhaft Kundenaufträge erfüllen und die hieraus
-    entstehenden Positionen absichern
-
-
-
-und das jeweils zugrunde liegende Geschäft zur Erfüllung dieser
-Tätigkeit erforderlich ist. Der Bundesanstalt ist die Absicht der
-Aufnahme einer Tätigkeit nach Satz 1 unverzüglich unter Angabe der
-jeweils betroffenen Finanzinstrumente anzuzeigen.
-
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf,
-
-1.  nähere Bestimmungen über Inhalt, Art, Umfang und Form der Mitteilung
-    und Veröffentlichung, die Berechnung der Netto-Leerverkaufsposition
-    und über die zulässigen Datenträger und Übertragungswege erlassen,
-
-
-2.  zulassen, dass die Mitteilungen oder Veröffentlichungen der
-    Verpflichteten auf deren Kosten durch einen geeigneten Dritten
-    erfolgen, und Einzelheiten hierzu festlegen.
-
-
+erlassen.
 
 Das Bundesministerium der Finanzen kann die Ermächtigung des Satzes 1
 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Bundesanstalt übertragen.
 
 
-### § 30j Verbot von bestimmten Kreditderivaten
+### (XXXX) §§ 30i und 30j (weggefallen)
 
-(1) Es ist für Sicherungsnehmer verboten, Kreditderivate im Sinne des
-§ 2 Absatz 2 Nummer 4 im Inland zu begründen oder rechtsgeschäftlich
-in solche einzutreten, soweit
-
-1.  im Rahmen eines solchen Geschäfts der Sicherungsgeber dem
-    Sicherungsnehmer bei Eintritt eines vorab spezifizierten
-    Kreditereignisses eine Ausgleichszahlung zu leisten hat, unabhängig
-    davon, ob die Ausgleichszahlung in Höhe des Nominalwertes gegen
-    physische Lieferung einer Referenzverbindlichkeit, in Form eines
-    Differenzausgleichs zu dem Restwert einer Referenzverbindlichkeit nach
-    Eintritt des Kreditereignisses oder als fest vereinbarter Betrag
-    erfolgt (Credit Default Swap), auch soweit dieser in eine Credit
-    Linked Note oder einen Total Return Swap eingebettet ist, und
-
-
-2.  als Referenzverbindlichkeit zumindest auch eine Verbindlichkeit von
-    Zentralregierungen, Regionalregierungen und örtlichen
-    Gebietskörperschaften von Mitgliedstaaten der Europäischen Union,
-    deren gesetzliche Währung der Euro ist, dient.
-
-
-
-
-(2) Ausgenommen von dem Verbot nach Absatz 1 sind Geschäfte, bei denen
-durch den Abschluss des Kreditderivats nach Absatz 1 bei
-wirtschaftlicher Betrachtungsweise eine nicht nur unwesentliche
-Reduktion des Risikos aus
-
-1.  einer bestehenden oder im unmittelbaren zeitlichen Zusammenhang mit
-    dem Abschluss des Kreditderivats übernommenen Position in einer
-    Referenzverbindlichkeit des Kreditderivats nach Absatz 1 oder
-
-
-2.  einer sonstigen bestehenden oder im unmittelbaren zeitlichen
-    Zusammenhang mit dem Abschluss des Kreditderivats übernommenen
-    Position in einem anderen Finanzinstrument oder in einer sonstigen
-    bestehenden Verbindlichkeit, die an Wert verlieren kann, wenn sich die
-    Bonität des Schuldners der Referenzverbindlichkeit nach Absatz 1
-    Nummer 2 verschlechtert,
-
-
-
-bewirkt werden soll.
-
-(3) Ausgenommen von dem Verbot nach Absatz 1 sind zudem Geschäfte von
-Wertpapierdienstleistungsunternehmen oder vergleichbaren Unternehmen
-mit Sitz im Ausland, soweit
-
-1.  sie im Wege des Eigenhandels mit Kreditderivaten im Sinne von Absatz 1
-    handeln und regelmäßig und dauerhaft anbieten, diese zu selbst
-    gestellten Preisen zu kaufen oder zu verkaufen, und
-
-
-2.  das jeweils zugrunde liegende Geschäft zur Erfüllung dieser Tätigkeit
-    erforderlich ist.
-
-
-
-Der Bundesanstalt ist die Absicht der Aufnahme einer Tätigkeit nach
-Satz 1 unverzüglich unter Angabe der jeweils betroffenen
-Kreditderivate nach Absatz 1 anzuzeigen.
-
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf,
-
-1.  nähere Bestimmungen über Inhalt, Art, Umfang und Form der
-    Anzeigepflicht des Absatzes 3 Satz 2 erlassen und
-
-
-2.  für bestimmte Geschäfte Ausnahmen vom Verbot des Absatzes 1 vorsehen.
-
-
-
-Das Bundesministerium der Finanzen kann die Ermächtigung des Satzes 1
-durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
-Bundesanstalt übertragen.
 
 
 ## Abschnitt 6 - Verhaltenspflichten, Organisationspflichten, Transparenzpflichten
@@ -3744,6 +3556,12 @@ Störungen der Marktintegrität mitzuteilen; bei Anhaltspunkten für
 einen Verstoß gegen § 14 oder § 20a ist die Bundesanstalt unverzüglich
 zu unterrichten und bei ihren Untersuchungen umfassend zu
 unterstützen.
+
+(4) Der Betreiber eines multilateralen Handelssystems hat der
+Bundesanstalt unverzüglich mitzuteilen, wenn bei einem an seinem
+multilateralen Handelssystem gehandelten Finanzinstrument ein
+signifikanter Kursverfall im Sinne des Artikels 23 der Verordnung (EU)
+Nr. 236/2012 eintritt.
 
 
 ### § 31g Vor- und Nachhandelstransparenz für multilaterale Handelssysteme
@@ -4763,6 +4581,12 @@ anzuzeigenden Mitarbeiter sowie die ihnen zugeordneten
 Beschwerdeanzeigen nach Absatz 1 und die Anordnungen nach Absatz 4
 eine interne Datenbank.
 
+(5a) Die Absätze 1 bis 5 sind nicht anzuwenden auf diejenigen
+Mitarbeiter eines Wertpapierdienstleistungsunternehmens, die
+ausschließlich in einer Zweigniederlassung im Sinne des § 24a des
+Kreditwesengesetzes oder in mehreren solcher Zweigniederlassungen
+tätig sind.
+
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, die näheren
 Anforderungen an
@@ -4832,37 +4656,38 @@ Bundesanzeiger zu veröffentlichen.
 ### § 36 Prüfung der Meldepflichten und Verhaltensregeln
 
 (1) Unbeschadet des § 35 ist die Einhaltung der Meldepflichten nach §
-9, der in diesem Abschnitt geregelten Pflichten und der sich aus der
-Verordnung (EG) Nr. 1287/2006 ergebenden Pflichten einmal jährlich
-durch einen geeigneten Prüfer zu prüfen. Bei Kreditinstituten, die das
-Depotgeschäft im Sinne von § 1 Abs. 1 Satz 2 Nr. 5 des
-Kreditwesengesetzes betreiben, hat der Prüfer auch dieses Geschäft
-besonders zu prüfen; diese Prüfung hat sich auch auf die Einhaltung
-des § 128 des Aktiengesetzes über Mitteilungspflichten und des § 135
-des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken.
-Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung, mit
-Ausnahme der Prüfung der Einhaltung der Anforderungen nach § 34a, auch
-in Verbindung mit einer Rechtsverordnung nach § 34a Abs. 5, ganz oder
-teilweise absehen, soweit dies aus besonderen Gründen, insbesondere
-wegen der Art und des Umfangs der betriebenen Geschäfte angezeigt ist.
-Das Wertpapierdienstleistungsunternehmen hat den Prüfer jeweils
-spätestens zum Ablauf des Geschäftsjahres zu bestellen, auf das sich
-die Prüfung erstreckt. Bei Kreditinstituten, die einem
-genossenschaftlichen Prüfungsverband angehören oder durch die
-Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden,
-wird die Prüfung durch den zuständigen Prüfungsverband oder die
-zuständige Prüfungsstelle, soweit hinsichtlich letzterer das
-Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber
-hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie
-Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich
-des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen. Der
-Prüfer hat unverzüglich nach Beendigung der Prüfung der Bundesanstalt
-und der Deutschen Bundesbank einen Prüfungsbericht einzureichen.
-Soweit Prüfungen nach Satz 4 von genossenschaftlichen
-Prüfungsverbänden oder Prüfungsstellen von Sparkassen- und
-Giroverbänden durchgeführt werden, haben die Prüfungsverbände oder
-Prüfungsstellen den Prüfungsbericht nur auf Anforderung der
-Bundesanstalt oder der Deutschen Bundesbank einzureichen.
+9, der Anzeigepflichten nach § 10, der in diesem Abschnitt geregelten
+Pflichten sowie der sich aus der Verordnung (EG) Nr. 1287/2006
+ergebenden Pflichten einmal jährlich durch einen geeigneten Prüfer zu
+prüfen. Bei Kreditinstituten, die das Depotgeschäft im Sinne von § 1
+Abs. 1 Satz 2 Nr. 5 des Kreditwesengesetzes betreiben, hat der Prüfer
+auch dieses Geschäft besonders zu prüfen; diese Prüfung hat sich auch
+auf die Einhaltung des § 128 des Aktiengesetzes über
+Mitteilungspflichten und des § 135 des Aktiengesetzes über die
+Ausübung des Stimmrechts zu erstrecken. Die Bundesanstalt kann auf
+Antrag von der jährlichen Prüfung, mit Ausnahme der Prüfung der
+Einhaltung der Anforderungen nach § 34a, auch in Verbindung mit einer
+Rechtsverordnung nach § 34a Abs. 5, ganz oder teilweise absehen,
+soweit dies aus besonderen Gründen, insbesondere wegen der Art und des
+Umfangs der betriebenen Geschäfte angezeigt ist. Das
+Wertpapierdienstleistungsunternehmen hat den Prüfer jeweils spätestens
+zum Ablauf des Geschäftsjahres zu bestellen, auf das sich die Prüfung
+erstreckt. Bei Kreditinstituten, die einem genossenschaftlichen
+Prüfungsverband angehören oder durch die Prüfungsstelle eines
+Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch
+den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle,
+soweit hinsichtlich letzterer das Landesrecht dies vorsieht,
+vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer,
+vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und
+Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes
+über ausreichende Kenntnisse verfügen. Der Prüfer hat unverzüglich
+nach Beendigung der Prüfung der Bundesanstalt und der Deutschen
+Bundesbank einen Prüfungsbericht einzureichen. Soweit Prüfungen nach
+Satz 4 von genossenschaftlichen Prüfungsverbänden oder Prüfungsstellen
+von Sparkassen- und Giroverbänden durchgeführt werden, haben die
+Prüfungsverbände oder Prüfungsstellen den Prüfungsbericht nur auf
+Anforderung der Bundesanstalt oder der Deutschen Bundesbank
+einzureichen.
 
 (2) Das Wertpapierdienstleistungsunternehmen hat vor Erteilung des
 Prüfungsauftrags der Bundesanstalt den Prüfer anzuzeigen. Die
@@ -4878,11 +4703,11 @@ Sparkassen- und Giroverbandes geprüft werden.
 Wertpapierdienstleistungsunternehmen Bestimmungen über den Inhalt der
 Prüfung treffen, die vom Prüfer zu berücksichtigen sind. Sie kann
 insbesondere Schwerpunkte für die Prüfungen festlegen. Bei
-schwerwiegenden Verstößen gegen die Meldepflichten nach § 9 oder die
-in diesem Abschnitt geregelten Pflichten hat der Prüfer die
-Bundesanstalt unverzüglich zu unterrichten. Die Bundesanstalt kann an
-den Prüfungen teilnehmen. Hierfür ist der Bundesanstalt der Beginn der
-Prüfung rechtzeitig mitzuteilen.
+schwerwiegenden Verstößen gegen die Pflichten, deren Einhaltung nach
+Absatz 1 Satz 1 zu prüfen ist, hat der Prüfer die Bundesanstalt
+unverzüglich zu unterrichten. Die Bundesanstalt kann an den Prüfungen
+teilnehmen. Hierfür ist der Bundesanstalt der Beginn der Prüfung
+rechtzeitig mitzuteilen.
 
 (4) Die Bundesanstalt kann die Prüfung nach Absatz 1 auch ohne
 besonderen Anlass anstelle des Prüfers selbst oder durch Beauftragte
@@ -4894,12 +4719,11 @@ die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 über Art, Umfang und Zeitpunkt der Prüfung nach Absatz 1 erlassen,
 soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich
 ist, insbesondere um Missständen im Handel mit Finanzinstrumenten
-entgegenzuwirken, um auf die Einhaltung der Meldepflichten nach § 9
-und der in diesem Abschnitt geregelten Pflichten hinzuwirken und um zu
-diesem Zweck einheitliche Unterlagen zu erhalten. Das
-Bundesministerium der Finanzen kann die Ermächtigung durch
-Rechtsverordnung auf die Bundesanstalt für
-Finanzdienstleistungsaufsicht übertragen.
+entgegenzuwirken, um auf die Einhaltung der der Prüfung nach Absatz 1
+Satz 1 unterliegenden Pflichten hinzuwirken und um zu diesem Zweck
+einheitliche Unterlagen zu erhalten. Das Bundesministerium der
+Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
+Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 
 ### § 36a Unternehmen, organisierte Märkte und multilaterale Handelssysteme mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
@@ -6047,8 +5871,7 @@ entsprechendes ausländisches Verbot gleich.
     l)  § 30f Abs. 2,
 
 
-    m)  § 30i Absatz 1 Satz 1 oder Satz 3 Nummer 1 jeweils auch in Verbindung
-        mit einer Rechtsverordnung nach § 30i Absatz 5 Satz 1 Nummer 1,
+    m)  (weggefallen)
 
 
     n)  § 37v Abs. 1 Satz 3, auch in Verbindung mit § 37y, jeweils auch in
@@ -6103,8 +5926,7 @@ entsprechendes ausländisches Verbot gleich.
         30e Abs. 2 oder entgegen § 30f Abs. 2,
 
 
-    f)  § 30i Absatz 1 Satz 2 oder Satz 3 Nummer 2 jeweils auch in Verbindung
-        mit einer Rechtsverordnung nach § 30i Absatz 5 Satz 1 Nummer 1,
+    f)  (weggefallen)
 
 
     g)  § 37v Abs. 1 Satz 2 in Verbindung mit einer Rechtsverordnung nach §
@@ -6180,11 +6002,10 @@ entsprechendes ausländisches Verbot gleich.
     nicht sicherstellt, dass eine dort genannte Stelle bestimmt ist,
 
 
-14a. entgegen § 30h Absatz 1 Satz 1 einen ungedeckten Leerverkauf tätigt,
+14a. (weggefallen)
 
 
-14b. entgegen § 30j Absatz 1 Kreditderivate begründet oder
-    rechtsgeschäftlich in solche eintritt,
+14b. (weggefallen)
 
 
 15. entgegen § 31 Abs. 1 Nr. 2 einen Interessenkonflikt nicht, nicht
@@ -6202,7 +6023,7 @@ entsprechendes ausländisches Verbot gleich.
 
 
     c)  § 31 Absatz 3a Satz 4 in Verbindung mit Satz 1 ein Vermögensanlagen-
-        Informationsblatt.
+        Informationsblatt
 
 
 
@@ -6247,7 +6068,7 @@ entsprechendes ausländisches Verbot gleich.
 
 19a. entgegen § 34 Absatz 2a Satz 1 in Verbindung mit einer
     Rechtsverordnung nach § 34 Absatz 4 Satz 1 ein Protokoll nicht, nicht
-    richtig oder nicht rechtzeitig anfertigt,
+    richtig, nicht vollständig oder nicht rechtzeitig anfertigt,
 
 
 19b. entgegen § 34 Absatz 2a Satz 2 eine Ausfertigung des Protokolls nicht,
@@ -6269,11 +6090,26 @@ entsprechendes ausländisches Verbot gleich.
     nicht vollständig oder nicht rechtzeitig erstattet,
 
 
-22. (zukünftig in Kraft)
+22. entgegen § 34d Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1,
+    jeweils in Verbindung mit einer Rechtsverordnung nach § 34d Absatz 6
+    Satz 1 Nummer 2, einen Mitarbeiter mit einer dort genannten Tätigkeit
+    betraut,
 
 
-23. entgegen § 36 Abs. 1 Satz 4 einen Prüfer nicht oder nicht rechtzeitig
-    bestellt,
+23. entgegen
+
+    a)  § 34d Absatz 1 Satz 2 oder Satz 3, Absatz 2 Satz 2 oder Satz 3 oder
+        Absatz 3 Satz 2 oder Satz 3, jeweils auch in Verbindung mit einer
+        Rechtsverordnung nach § 34d Absatz 6 Satz 1 Nummer 1, oder
+
+
+    b)  § 34d Absatz 1 Satz 4 in Verbindung mit einer Rechtsverordnung nach §
+        34d Absatz 6 Satz 1 Nummer 1
+
+
+
+    eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet oder
 
 
 24. entgegen § 37v Abs. 1 Satz 4, § 37w Abs. 1 Satz 4 oder § 37x Abs. 1
@@ -6349,6 +6185,36 @@ indem er vorsätzlich oder leichtfertig
 
 
 
+(2d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
+236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
+über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl.
+L 86 vom 24.3.2012, S. 1) verstößt, indem er vorsätzlich oder
+leichtfertig
+
+1.  entgegen Artikel 5 Absatz 1, Artikel 7 Absatz 1 oder Artikel 8 Absatz
+    1, jeweils auch in Verbindung mit Artikel 9 Absatz 1 Unterabsatz 1
+    oder Artikel 10, eine Meldung nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig macht,
+
+
+2.  entgegen Artikel 6 Absatz 1, auch in Verbindung mit Artikel 9 Absatz 1
+    Unterabsatz 1 oder Artikel 10, eine Einzelheit nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig offenlegt,
+
+
+3.  entgegen Artikel 12 Absatz 1 oder Artikel 13 Absatz 1 eine Aktie oder
+    einen öffentlichen Schuldtitel leer verkauft,
+
+
+4.  entgegen Artikel 14 Absatz 1 eine Transaktion vornimmt, oder
+
+
+5.  entgegen Artikel 15 Absatz 1 nicht sicherstellt, dass er über ein dort
+    genanntes Verfahren verfügt.
+
+
+
+
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  einer vollziehbaren Anordnung nach
@@ -6408,7 +6274,8 @@ indem er vorsätzlich oder leichtfertig
     1, ein Wertpapier nutzt,
 
 
-10. (zukünftig in Kraft)
+10. entgegen § 36 Absatz 1 Satz 4 einen Prüfer nicht oder nicht
+    rechtzeitig bestellt,
 
 
 11. entgegen § 36 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht
@@ -6423,22 +6290,27 @@ indem er vorsätzlich oder leichtfertig
 
 
 
-(3a) (weggefallen)
+(3a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
+236/2012 verstößt, indem er vorsätzlich oder fahrlässig einer
+vollziehbaren Anordnung nach Artikel 18 Absatz 2 Satz 2 oder Satz 3,
+Artikel 19 Absatz 2, Artikel 20 Absatz 2 oder Artikel 21 Absatz 1 oder
+Artikel 23 Absatz 1 zuwiderhandelt.
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
 und 2, des Absatzes 2 Nummer 2 Buchstabe e und f, Nummer 5 Buchstabe
 a, Nummer 7 und 11 mit einer Geldbuße bis zu einer Million Euro, in
-den Fällen des Absatzes 2 Nummer 2 Buchstabe g bis i sowie Nummer 14a
-und 14b mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
-Fällen des Absatzes 1 Nummer 3 und 5, des Absatzes 2 Nummer 1, 2
-Buchstabe a, c und m bis q, Nummer 3, 4 und 5 Buchstabe c bis i,
-Nummer 6, 16a, 17b, 17c, 18, 22 und 25, des Absatzes 2b Nummer 5 und 6
-und des Absatzes 3 Nummer 1 Buchstabe b, Nummer 3 und 12 mit einer
-Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 2
-Nummer 2 Buchstabe d, Nummer 5 Buchstabe b, Nummer 12 bis 14 und
-Nummer 16 und 17a und des Absatzes 3 Nummer 1 Buchstabe c mit einer
-Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer
-Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+den Fällen des Absatzes 2 Nummer 2 Buchstabe g bis i sowie des
+Absatzes 2d Nummer 3 bis 5 sowie Nummer 14a und 14b mit einer Geldbuße
+bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 3
+und 5, des Absatzes 2 Nummer 1, 2 Buchstabe a, c und n bis q, Nummer
+3, 4 und 5 Buchstabe c bis i, Nummer 6, 16a, 17b, 17c, 18, 22 und 25,
+des Absatzes 2b Nummer 5 und 6, des Absatzes 2d Nummer 1 und 2 und des
+Absatzes 3 Nummer 1 Buchstabe b, Nummer 3 und 12 mit einer Geldbuße
+bis zu zweihunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2
+Buchstabe d, Nummer 5 Buchstabe b, Nummer 12 bis 14 und Nummer 16 und
+17a und des Absatzes 3 Nummer 1 Buchstabe c mit einer Geldbuße bis zu
+hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu
+fünfzigtausend Euro geahndet werden.
 
 (5) Die Bestimmungen des Absatzes 2 Nr. 2 Buchstabe a, Nr. 10
 Buchstabe b, Nr. 15, 16, 18 bis 21, des Absatzes 2a sowie des Absatzes

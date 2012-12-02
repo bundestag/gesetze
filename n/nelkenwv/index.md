@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 1149
 
 Zuletzt geändert durch
-:   Art. 3 Nr. 5 V v. 27.10.1999 I 2070
+:   Art. 14 V v. 10.10.2012 I 2113
 
 
 ## Eingangsformel
@@ -66,26 +66,25 @@ Schadorganismen besteht.
 
 ## § 5
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
-Pflanzenschutzgesetzes vom 15. September 1986 (BGBl. I S. 1505)
-handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 Abs. 1 die Meldung nicht, nicht unverzüglich, nicht
     richtig oder nicht vollständig erstattet,
 
 
-2.  entgegen § 2 Nelken nicht in der vorgeschriebenen Weise behandelt oder
+2.  entgegen § 2 Nelken nicht in der vorgeschriebenen Weise behandelt,
 
 
-3.  entgegen § 3 Nelkenwickler züchtet oder hält oder mit ihnen arbeitet.
+3.  entgegen § 3 Nelkenwickler züchtet oder hält oder mit ihnen arbeitet
+    oder
+
+
+4.  einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage
+    zuwiderhandelt.
 
 
 
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes vom 15. September 1986 handelt, wer vorsätzlich
-oder fahrlässig einer mit einer Genehmigung nach § 4 verbundenen
-vollziehbaren Auflage zuwiderhandelt.
 
 
 ## § 6

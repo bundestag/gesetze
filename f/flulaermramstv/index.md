@@ -7398,6 +7398,5 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Ramstein)
 
-   (Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl I 1983, 1053 - 1054)
-
+   (Fundstelle: BGBl. I 1983, 1053 - 1054)
+![bgbl1_1983_j1053_0010.jpg](bgbl1_1983_j1053_0010.jpg)![bgbl1_1983_j1054_0010.jpg](bgbl1_1983_j1054_0010.jpg)

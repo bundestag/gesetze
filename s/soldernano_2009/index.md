@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2110
 
 Zuletzt geändert durch
-:   AnO v. 20.6.2011 I 1198
+:   AnO v. 26.10.2012 I 2280
 
 
 ## Eingangsformel
