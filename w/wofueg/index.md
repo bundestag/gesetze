@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2098, 2100
 
+Geändert durch
+:   Art. 3 G v. 9.11.2012 I 2291
+
 
 
 ## § 1 Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus gewährten Darlehen des Bundes
@@ -72,12 +75,13 @@ Fassung weiter anzuwenden.
 
 
 sind das Wohnungsbindungsgesetz in der Fassung der Bekanntmachung vom
-13\. September 2001 (BGBl. I S. 2404) die Neubaumietenverordnung 1970
-in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S.
-2203), zuletzt geändert durch Artikel 4 der Verordnung vom 25.
-November 2003 (BGBl. I S. 2346), und die Zweite Berechnungsverordnung
-in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S.
-2178), zuletzt geändert durch Artikel 3 der Verordnung vom 25.
-November 2003 (BGBl. I S. 2346), weiter anzuwenden, soweit diese
-Vorschriften am 31. Dezember 2006 Anwendung finden.
+13\. September 2001 (BGBl. I S. 2404), das zuletzt durch Artikel 2 des
+Gesetzes vom 9. November 2012 (BGBl. I S. 2291) geändert worden ist,
+die Neubaumietenverordnung 1970 in der Fassung der Bekanntmachung vom
+12\. Oktober 1990 (BGBl. I S. 2203), zuletzt geändert durch Artikel 4
+der Verordnung vom 25. November 2003 (BGBl. I S. 2346), und die Zweite
+Berechnungsverordnung in der Fassung der Bekanntmachung vom 12.
+Oktober 1990 (BGBl. I S. 2178), zuletzt geändert durch Artikel 3 der
+Verordnung vom 25. November 2003 (BGBl. I S. 2346), weiter anzuwenden,
+soweit diese Vorschriften am 31. Dezember 2006 Anwendung finden.
 

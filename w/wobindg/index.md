@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.9.2001 I 2404;
 
 Zuletzt geändert durch
-:   Art. 87 V v. 31.10.2006 I 2407
+:   Art. 2 G v. 9.11.2012 I 2291
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -930,7 +930,8 @@ b)  wenn die zuständige Stelle eine Freistellung von der Zweckbindung der
     Bergarbeiterwohnung unter den Voraussetzungen des § 6 Abs. 3 oder 4
     des Gesetzes zur Förderung des Bergarbeiterwohnungsbaus im
     Kohlenbergbau zugunsten von Wohnberechtigten im Sinne des
-    Wohnungsbindungsgesetzes ausgesprochen hat.
+    Wohnungsbindungsgesetzes oder entsprechender landesrechtlicher
+    Vorschriften ausgesprochen hat.
 
 
 
@@ -939,8 +940,9 @@ b)  wenn die zuständige Stelle eine Freistellung von der Zweckbindung der
 Bergarbeiterwohnungsbaus im Kohlenbergbau bezeichneten Wohnungen die
 Zweckbindung zugunsten von Wohnungsberechtigten im Kohlenbergbau
 beendet, so sind hinsichtlich der Zweckbindung die Vorschriften der §§
-4 bis 7 dieses Gesetzes anzuwenden; der Verfügungsberechtigte darf die
-Wohnung jedoch auch einem Wohnungsberechtigten im Sinne des § 4 Abs. 1
+4 bis 7 dieses Gesetzes oder entsprechende landesrechtliche
+Vorschriften anzuwenden; der Verfügungsberechtigte darf die Wohnung
+jedoch auch einem Wohnungsberechtigten im Sinne des § 4 Abs. 1
 Buchstabe a bis c des Gesetzes zur Förderung des
 Bergarbeiterwohnungsbaus im Kohlenbergbau vermieten oder überlassen.
 
