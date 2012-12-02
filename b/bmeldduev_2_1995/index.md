@@ -396,13 +396,16 @@ Pflichten.
 eines Einwohners aus sonstigen Gründen oder nach einer Namensänderung,
 einer Änderung der Anschrift, einer Änderung des Geschlechts, einer
 Änderung des Doktorgrades oder einer Änderung des Tages oder Ortes der
-Geburt oder im Sterbefall übermitteln die Meldebehörden der
-Datenstelle der Träger der Rentenversicherung zur Vermeidung
-unrechtmäßiger Erbringung von Geldleistungen und zur Aktualisierung
-von Versicherten- und Mitgliederbeständen oder zum Zwecke der
-Aktualisierung der bei den Trägern der Deutschen Rentenversicherung
-gespeicherten Daten unverzüglich folgende Daten in automatisierter
-Form (Rentenversicherungsmitteilung):
+Geburt einer Eheschließung oder Begründung einer Lebenspartnerschaft
+oder im Sterbefall übermitteln die Meldebehörden der Datenstelle der
+Träger der Rentenversicherung nach § 150 Absatz 1 sowie § 196 Absatz 2
+und 2a des Sechsten Buches Sozialgesetzbuch zur Ermittlung möglicher
+Leistungsansprüche, zur Vermeidung unrechtmäßiger Erbringung von
+Geldleistungen und zur Aktualisierung von Versicherten- und
+Mitgliederbeständen oder zum Zwecke der Aktualisierung der bei den
+Trägern der Deutschen Rentenversicherung gespeicherten Daten
+unverzüglich folgende Daten in automatisierter Form
+(Rentenversicherungsmitteilung):
 
 *    *   1.
 
@@ -466,6 +469,15 @@ Form (Rentenversicherungsmitteilung):
 
 *    *   9.
 
+    *   Datum der letzten Eheschließung
+        oder der letzten Begründung einer
+        Lebenspartnerschaft
+
+    *   1402,
+
+
+*    *   10.
+
     *   Sterbetag
 
     *   1901.
@@ -478,6 +490,82 @@ Form (Rentenversicherungsmitteilung):
 Kindes nach Absatz 1 eine Mitteilung über die Mutter mit den
 entsprechenden Daten nach Absatz 1 sowie bei Mehrlingsgeburten die
 Anzahl der geborenen Kinder, sonst die Zahl 1 (Geburtsmitteilung).
+
+(3) Im Sterbefall übermitteln die Meldebehörden der Datenstelle der
+Träger der Rentenversicherung zusätzlich zu den Daten nach Absatz 1:
+
+*    *   1.
+
+    *   Ehegatte – Familienname
+
+    *   1501 bis 1502,
+
+
+*    *   2.
+
+    *   Ehegatte – Vorname
+
+    *   1503,
+
+
+*    *   3.
+
+    *   Ehegatte – Tag der Geburt
+
+    *   1505,
+
+
+*    *   4.
+
+    *   Ehegatte – gegenwärtige
+        Anschrift der alleinigen Wohnung
+
+    *   1508 bis 1510,
+
+
+*    *
+    *   oder der Hauptwohnung
+
+    *   1512 bis 1514
+
+
+*    *   5.
+
+    *   Lebenspartner – Familienname
+        (mit Namensbestandteilen)
+
+    *   1517 bis 1518,
+
+
+*    *   6.
+
+    *   Lebenspartner – Vorname
+
+    *   1519,
+
+
+*    *   7.
+
+    *   Lebenspartner – Tag der Geburt
+
+    *   1521,
+
+
+*    *   8.
+
+    *   Lebenspartner – gegenwärtige
+        Anschrift der alleinigen Wohnung
+
+    *   1524 bis 1526
+
+
+*    *
+    *   oder der Hauptwohnung
+
+    *   1528 bis 1530.
+
+
+
 
 
 ## § 5a Datenübermittlungen an das Bundeszentralregister
@@ -984,16 +1072,24 @@ Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative vom 7. März
 
 ## § 6 Verfahren der Datenübermittlungen
 
-(1) Die Daten der Meldebehörden werden in der Regel auf
-Magnetbandkassette, Magnetband oder Diskette übermittelt. Die
-Datenträger sind vom Empfänger innerhalb eines Monats nach Eingang
-gelöscht zurückzusenden. Eine Rücksendepflicht besteht nicht für
-Disketten; diese sind innerhalb der Frist nach Satz 2 zu löschen oder
-zu vernichten. Die Übermittlung auf anderen als in dieser Verordnung
-vorgesehenen Datenträgern, mit anderen Codes oder im Wege der
-Datenübertragung ist nur zulässig, wenn über die Einzelheiten des
-Verfahrens zwischen der Meldebehörde und dem Empfänger Einvernehmen
-besteht. § 11 bleibt unberührt.
+(1) Regelmäßige Datenübermittlungen der Meldebehörden erfolgen durch
+
+1.  Datenübertragung über verwaltungseigene Kommunikationsnetze oder das
+    Internet,
+
+
+2.  das Übersenden von Daten auf CD oder DVD oder
+
+
+3.  die Weitergabe in schriftlicher Form.
+
+
+
+Hierzu gelten die Verfahrensregelungen dieser Verordnung. Übersandte
+CDs oder DVDs sind innerhalb eines Monats nach Eingang zu löschen oder
+zu vernichten. Abweichungen sind zulässig, wenn über die Einzelheiten
+des Verfahrens zwischen der Meldebehörde und dem Empfänger
+Einvernehmen besteht. § 11 bleibt unberührt.
 
 (2) Die Datenübermittlungen erfolgen
 
@@ -1041,19 +1137,14 @@ bekannt gemachten jeweils geltenden Fassung zu Grunde zu legen.
 
 ## § 7 Übermittlung auf maschinell lesbaren Datenträgern
 
-(1) Soweit Datenübermittlungen auf maschinell lesbaren Datenträgern
-durchgeführt werden, finden die in der Anlage 7 unter Angabe des
-Monats ihrer jeweiligen Ausgabe bezeichneten DIN-Normen Anwendung. Sie
-sind vom DIN Deutsches Institut für Normung e.V., Burggrafenstraße 6,
-10787 Berlin, herausgegeben, bei der Beuth Verlag GmbH,
-Burggrafenstraße 4-10, 10787 Berlin, beziehbar und bei dem
-Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann zugänglich
-und archivmäßig gesichert niedergelegt.
+(1) (weggefallen)
 
-(2) Soweit Daten auf Magnetbandkassetten oder Magnetbändern
-übermittelt werden, sind die Datenübermittlungen im 8-Bit-Code - ARV 8
-- nach DIN 66303, Code-Tabelle 1, und nach DIN 66004 Teil 3
-durchzuführen.
+(2) Für die Datenübermittlung von Daten aus dem Meldewesen gelten die
+Vorgaben des Datensatzes für das Meldewesen (§ 1 Absatz 3). Daten sind
+nach den Vorgaben des Datensatzes für das Meldewesen unter Verwendung
+des Zeichensatzes nach ISO/IEC 10646:2003 in UTF-8 Kodierung in
+lateinischer Schrift zu übermitteln. Für CDs und DVDs gelten die
+Spezifikationen der ISO 9660 oder ISO 13346.
 
 (3) Den zu übersendenden Datenträgern ist ein Begleitschreiben
 beizufügen, das die Bezeichnung der Datenübermittlung nach dieser
@@ -1077,129 +1168,40 @@ Verordnung und außerdem Angaben enthalten muß über
 6.  die Anzahl der Datensätze je Datenträger,
 
 
-7.  den Code.
+7.  (weggefallen)
 
 
 
 Eine Zweitausfertigung des Begleitschreibens ist gesondert zu
 versenden.
 
-(4) Die für die Datenübermittlung nach § 6 Abs. 1 bestimmten Daten
-sind in der Weise zu sichern, daß sie auf einem Datenträger dupliziert
-und für die Dauer von drei Monaten bei der absendenden Meldebehörde
-bereitgehalten werden.
+(4) (weggefallen)
 
 
-## § 8 Übermittlung durch Übersendung von Magnetbandkassetten
+## § 8 (weggefallen)
 
-(1) Bei Datenübermittlungen durch Übersendung von Magnetbandkassetten
-sind
-
-1.  Magnetbandkassetten nach DIN EN 29661 zu verwenden und zu beschriften,
+-
 
 
-2.  die Magnetbandkassetten mit Kennsätzen zu versehen; Kennsätze und
-    Dateianordnungen der auf Magnetbandkassetten übermittelten Daten
-    richten sich nach Magnetbandkassettenaufbau DIN 66229 in Verbindung
-    mit DIN 66029-3 und nach den Anlagen 8, 9 und 11b.
+## § 9 (weggefallen)
+
+-
 
 
+## § 10 Übermittlung durch Übersendung von CDs oder DVDs
 
+(1) Bei Datenübermittlungen durch CD sind in der Regel CDs DIN EN
+30149 zu verwenden. Die Formate sowie die Beschriftung der CDs oder
+DVDs und die Codierung der Daten sind mit dem Empfänger einvernehmlich
+zu regeln. § 6 Abs. 1 Satz 4 bleibt unberührt.
 
-(2) Die Meldebehörden haben jede zu versendende Magnetbandkassette mit
-einem Etikett mit folgenden Angaben zu versehen:
-
-1.  absendende Stelle,
-
-
-2.  Bandkennzeichen,
-
-
-3.  Dateiname,
-
-
-4.  empfangende Stelle,
-
-
-5.  laufende Nummer der Magnetbandkassette und die Gesamtzahl der zusammen
-    mit ihr übersandten weiteren Magnetbandkassetten,
-
-
-6.  Erstellungsdatum.
-
-
-
-Die Magnetbandkassetten sind in festen Behältern verschlossen zu
-versenden. Mehrere zusammengehörende Magnetbandkassetten sind zusammen
-zu versenden.
-
-
-## § 9 Übermittlung durch Übersendung von Magnetbändern
-
-(1) Bei Datenübermittlungen durch Übersendung von Magnetbändern sind
-
-1.  Magnetbänder nach DIN EN 21864 zu verwenden,
-
-
-2.  die Magnetbänder nach DIN 66015 oder nach DIN EN 25652 zu beschriften,
-
-
-3.  die Magnetbänder mit Kennsätzen zu versehen; Kennsätze und
-    Dateianordnungen der auf Magnetbändern übermittelten Daten richten
-    sich nach Magnetbandaufbau DIN 66029 und nach den Anlagen 8, 9 und
-    11b.
-
-
-
-
-(2) Die Meldebehörden haben jedes zu versendende Magnetband mit einem
-Magnetbandaufkleber oder einer einschiebbaren Magnetbandetikette mit
-folgenden Angaben zu versehen:
-
-1.  absendende Stelle,
-
-
-2.  Bandkennzeichen,
-
-
-3.  Dateiname,
-
-
-4.  empfangende Stelle,
-
-
-5.  laufende Nummer des Magnetbandes und die Gesamtzahl der zusammen mit
-    ihm übersandten weiteren Magnetbänder,
-
-
-6.  Erstellungsdatum,
-
-
-7.  Zeichendichte.
-
-
-
-Die Magnetbänder sind ohne Schreibringe zu versenden. Sie sind gegen
-Abwicklung zu sichern und in festen Behältern verschlossen zu
-versenden. Mehrere zusammengehörende Magnetbänder sind zusammen zu
-versenden.
-
-
-## § 10 Übermittlung durch Übersendung von Disketten
-
-(1) Bei Datenübermittlungen durch Disketten sind in der Regel
-Disketten DIN EN 29529 zu verwenden. Die Formate sowie die
-Beschriftung der Disketten und die Codierung der Daten sind mit dem
-Empfänger einvernehmlich zu regeln. § 6 Abs. 1 Satz 4 bleibt
-unberührt.
-
-(2) Die Meldebehörden haben jede zu versendende Diskette mit einem
+(2) Die Meldebehörden haben jede zu versendende CD oder DVD mit einem
 Aufkleber mit folgenden Angaben zu versehen:
 
 1.  absendende Stelle,
 
 
-2.  Diskettenkennzeichen,
+2.  CD- oder DVD-Kennzeichen,
 
 
 3.  Dateiname,
@@ -1208,16 +1210,16 @@ Aufkleber mit folgenden Angaben zu versehen:
 4.  empfangende Stelle,
 
 
-5.  laufende Nummer der Diskette und die Gesamtzahl der zusammen mit ihr
-    übersandten weiteren Disketten,
+5.  laufende Nummer der CD oder DVD und die Gesamtzahl der zusammen mit
+    ihr übersandten weiteren CDs oder DVDs,
 
 
 6.  Erstellungsdatum.
 
 
 
-Die Diskette ist in ihrer Tasche mit einer Schutzpackung zu versenden.
-Zusammengehörende Disketten sind zusammen zu versenden.
+Die CD oder DVD ist in einer Schutzpackung zu versenden.
+Zusammengehörende CDs oder DVDs sind zusammen zu versenden.
 
 
 ## § 11 Datenübermittlung durch Datenübertragung
@@ -1761,15 +1763,16 @@ Leerzeichen
 
 ## Anlage 4b
 
-(Fundstelle des Originaltextes: BGBl. I 1998, 3269 - 3271)
+(Fundstelle: BGBl. I 1998, 3269 - 3271;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Seite 1
 ----------------------------------------------------------------------
 ---------
 I          Satzbeschreibung            I Stand
-I                                      I 16. Oktober 1998
+I                                      I 01. November 2012
 ----------------------------------------------------------------------
 ---------
-Dateiname        I Satzbezeichnung                          I Satzart
+Dateiname        I Satzbeschreibung                         I Satzart
 NSM              I KBA - Namensänderungssatz                I KBO
 ----------------------------------------------------------------------
 ---------
@@ -1791,11 +1794,7 @@ I          I                 I     I     I       I        I fahrt-
 I          I                 I     I     I       I        I Bundesamt
 3 I Satzart  I Satzart         I   9 I  11 I     3 I   a    I Inhalt:
 KBO
-4 I Datum    I Datum           I  12 I  19 I     8 I   n    I
-Erstellungs-
-I          I                 I     I     I       I        I datum der
-I          I                 I     I     I       I        I Datei
-TTMMJJJJ
+4 I Datum    I Datum           I  12 I  19 I     8 I   n    I TTMMJJ
 5 I Absender I Absenderangaben I  20 I 137 I   118 I   a    I Inhalt
 in der
 I          I des Zulieferers I     I     I       I        I Folge:
@@ -1803,19 +1802,19 @@ I          I                 I     I     I       I        I 1.
 Bezeichnung
 I          I                 I     I     I       I        I    des
 I          I                 I     I     I       I        I
-Absenders,
+Absenders
 I          I                 I     I     I       I        I 2.
 Anschrift -
-I          I                 I     I     I       I        I    Straße,
+I          I                 I     I     I       I        I    Straße
 I          I                 I     I     I       I        I 3.
 Anschrift -
 I          I                 I     I     I       I        I
-Hausnummer,
+Hausnummer
 I          I                 I     I     I       I        I 4.
 Anschrift -
 I          I                 I     I     I       I        I    Post-
 I          I                 I     I     I       I        I
-leitzahl,
+leitzahl
 I          I                 I     I     I       I        I 5.
 Anschrift -
 I          I                 I     I     I       I        I    Ort.
@@ -1829,15 +1828,8 @@ I          I                 I     I     I       I        I
 voneinander
 I          I                 I     I     I       I        I zu
 trennen.
-6 I Code     I Zeichensatz     I 138 I 142 I     5 I   n    I Inhalt:
-66303
-I          I                 I     I     I       I        I bzw. 66003
-7 I Reserve  I Reservefeld     I 143 I 635 I   493 I   a    I
+6 I Reserve  I Reserve         I 138 I 635 I   498 I   a    I
 Leerzeichen
-I          I                 I     I     I       I        I
-I          I                 I     I     I       I        I
-I          I                 I     I     I       I        I
-I          I                 I     I     I       I        I
 ----------------------------------------------------------------------
 ---------
 Seite 2
@@ -2013,161 +2005,9 @@ einzutragen.
 (weggefallen)
 
 
-## Anlage 7 Zusammenstellung der für die Datenübermittlung anzuwendenden DIN-Normen
+## (XXXX) Anlagen 7 bis 9 (weggefallen)
 
-(Fundstelle des Originaltextes: Anlageband zum BGBl. I 1995 Nr. 41 v.
-9\.8.1995, S. 19;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *   Lfd. Nr.
-
-    *   DIN-Norm
-
-    *   Titel
-
-    *   Ausgabe
-
-
-*    *   1
-
-    *   DIN EN 21 864
-
-    *   Informationsverarbeitung; unbeschriebenes 12,7 mm (0,5in) breites
-        Magnetband für den Datenaustausch bei 32, 126 und 356 Flußwechsel/mm
-        (800, 3200 und 9042 Flußwechsel/in)
-
-    *   05.94
-
-
-*    *   2
-
-    *   DIN 66 015
-
-    *   Auf 9 Spuren mit Richtungstaktschrift beschriebenes Magnetband zur
-        Speicherung digitaler Daten; Bitdichte 63 bit/mm
-
-    *   12.77
-
-
-*    *   3
-
-    *   DIN EN 29 661
-
-    *   Informationsverarbeitung; Magnetbandkassette 12,7 mm 18 Spuren, 1491
-        Datenbytes/mm
-
-    *   03.94
-
-
-*    *   4
-
-    *   DIN EN 29 529 Teil 1
-
-    *   Informationsverarbeitungssysteme; Datenaustausch auf 90 mm (3,5in)
-        Diskette mit modifizierter Wechseltaktschrift mit 15916
-        Flußwechsel/rad auf 80 Spuren auf jeder Seite; Teil 1: Maße,
-        physikalische und magnetische Eigenschaften
-
-    *   09.92
-
-
-*    *   5
-
-    *   DIN EN 29 529 Teil 2
-
-    *   Informationsverarbeitungssysteme; Datenaustausch auf 90 mm (3,5in)
-        Diskette mit modifizierter Wechseltaktschrift mit 15916
-        Flußwechsel/rad auf 80 Spuren auf jeder Seite; Teil 2: Spurformat
-
-    *   09.92
-
-
-*    *   6
-
-    *   DIN 66 029
-
-    *   Kennsätze und Dateianordnung auf Magnetbändern für den Datenaustausch
-
-    *   09.87
-
-
-*    *   7
-
-    *   DIN EN 29 293
-
-    *   Informationsverarbeitung; Kennsätze und Dateianordnung auf Disketten
-        zum Informationsaustausch
-
-    *   12.91
-
-
-*    *   8
-
-    *   DIN 66 303
-
-    *   Informationsverarbeitung; 8-Bit-Code - ARV 8 -
-
-    *   11.86
-
-
-*    *   9
-
-    *   DIN 66 003
-
-    *   Informationsverarbeitung; 7-Bit-Code
-
-    *   06.74
-
-
-*    *   10
-
-    *   DIN 66 004 Teil 3 (Magnetband)
-
-    *   Informationsverarbeitung; Codierung auf Datenträgern; Darstellung des
-        7-Bit-Code und des 8-Bit-Code auf Magnetband 12
-
-    *   01.83
-
-
-*    *   11
-
-    *   DIN 66 229
-
-    *   Informationstechnik: Kennsätze und Dateianordnung auf
-        Magnetbandkassetten für den Datenaustausch
-
-    *   07.97
-
-
-*    *   12
-
-    *   DIN EN 25 652
-
-    *   Auf 9 Spuren im GCR-Verfahren beschriebenes Magnetband zur Speicherung
-        digitaler Daten; Zeichendichte: 246 Zeichen/mm
-
-    *   05.92
-
-
-
-
-
-## Anlage 8
-
-( Inhalt: Nicht erfaßte Hinweise zur Magnetbandkassettenorganisation
-für die Übermittlung von Daten an die Kreiswehrersatzämter nach § 2
-Fundstelle: Anlageband zum BGBl. I 1995 Nr. 41 v. 9.8.1995 S. 21 - 24;
-bzgl. der einzelnen Änderungen vgl. Fußnote )
-
-
-## Anlage 9
-
-( Inhalt: Nicht erfaßte Hinweise zur Magnetbandkassettenorganisation
-für die Übermittlung von Daten an die Bundesagentur für Arbeit nach §
-3,
-Fundstelle: Anlageband zum BGBl. I 1995 Nr. 41 v. 9.8.1995, S. 25 -
-28;
-bzgl. der einzelnen Änderungen vgl. Fußnote )
+-
 
 
 ## Anlage 10
@@ -2185,248 +2025,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 -
 
 
-## Anlage 11b
+## Anlage 11b (weggefallen)
 
-Fundstelle des Originaltextes: BGBl. I 1998, 3276 - 3279
-Seite 1
-Magnetbandkassettenorganisation
-für die Übermittlung von Daten an das Kraftfahrt-Bundesamt nach § 5b
-----------------------------------------------------------------------
----------
-Kennsätze auf der               I DIN 66 229, Ausbaustufe in
-Verbindung mit
-Magnetbandkassette              I DIN 66 029-3
-I Es gelten folgende Feldinhalte:
-I VOL1:
-I 1. Bandkennzeichen: Eintragung nach
-I    der Systematik des jeweiligen Eigentümers,
-I 2. Zugriffsvermerk: Leerzeichen,
-I 3. Eigentümerkennzeichen: Eintragung, die
-I    eine Identifizierung des jeweiligen
-I    Eigentümers zuläßt;
-I HDR1/EOF1/EOV1:
-I 1. Dateiname:
-I    St.  5- 7: NSM,
-I    St.  8-12: Rechenzentrumskennung,
-I    St. 13-21: Leerzeichen,
-I 2. Dateizugriffsvermerk: Leerzeichen;
-I HDR2/EOF2/EOV2:
-I 1. Satzformat: fest (F),
-I 2. Blocklänge: 1905,
-I 3. Satzlänge: 635,
-I 4. Pufferverschiebung: 00.
-----------------------------------------------------------------------
----------
-Dateianordnung                  I Eine Datei auf einer
-Magnetbandkassette
-Dateianordnung                  I Eine Datei auf einer
-Magnetbandkassette
-I oder auf mehreren Magnetbandkassetten
-I (Mehrkassettendatei)
-----------------------------------------------------------------------
----------
-Reihenfolge der Datensätze      I Datensätze unsortiert
-----------------------------------------------------------------------
----------
-Seite 2
-----------------------------------------------------------------------
----------
-I           Dateibeschreibung         I Stand
-I                                     I 16. Oktober 1998
-I                                     I
-----------------------------------------------------------------------
----------
-Dateibezeichnung                    I Dateiname
-Übermittlungsdatei an das           I NSM
-Kraftfahrt-Bundesamt                I
-I
-----------------------------------------------------------------------
----------
-Dateiinhalt                         I Dateiart
-Namensänderungsmitteilungen         I
-I
-----------------------------------------------------------------------
----------
-Datenträger                         I Eigentümerkennzeichen  I
-Kennsatzstufe
-Magnetbandkassette                  I                        I 3
-----------------------------------------------------------------------
----------
-Dateikennwerte
-----------------------------------------------------------------------
----------
-Satzformat        I Satzlänge      I Blocklänge              I
-Dateiumfang
-fest (F)          I 635 Bytes      I 1905 Bytes              I
-----------------------------------------------------------------------
----------
-Speicherungsform  I                     Dateischlüssel\*)
-seriell
-I------------------------------------------------------------
-I Bezeichnung    I Position     I Länge    I Format
-I                I              I          I
-----------------------------------------------------------------------
----------
-Sortierung
-unsortiert
-----------------------------------------------------------------------
----------
-Sicherungsmaßnahmen
-----------------------------------------------------------------------
----------
-Sperrfrist,            I Sicherungszyklus\*)  I Zahl\*)        I
-Zugriffsvermerk
-kein Verfallsdatum     I                     I Sicherungs-   I
-unbeschränkter
-I                     I bestände      I Zugriff
-I                     I               I
-----------------------------------------------------------------------
----------
-Bemerkungen:
-1\. Zugelassen ist eine Datei auf einer Magnetbandkassette oder
-mehreren Magnetbandkassetten gemäß ISO 9661.
-2\. Die Daten sind im 8-Bit-Code - ARV 8 - nach DIN 66 303, Code-
-Tabelle 1,
-und nach DIN 66 004 Teil 4 darzustellen.
-----------------------------------------------------------------------
----------
-Benutzerkennsätze/Datensätze
-----------------------------------------------------------------------
----------
-Lfd. Nr. I   Satzbezeichnung    I  Satzart   I  Satzlänge  I
-Bemerkungen
-----------------------------------------------------------------------
----------
-1     I Namensänderungs-     I    KBO     I     635     I Vorlaufsatz
-I mitteilungen         I            I             I (erster Satz der
-I                      I            I             I Datei)
-I                      I    KB1     I     635     I Namensänderungs-
-I                      I    oder    I             I mitteilungssatz
-I                      I    KB2     I             I
-I                      I            I             I
-I                      I            I             I
-I                      I            I             I
-I                      I            I             I
-I                      I            I             I
-----------------------------------------------------------------------
----------
-\*) Nicht ausfüllen für Datenübermittlungen.
-Seite 3
-Magnetbandorganisation
-für die Übermittlung von Daten an das Kraftfahrt-Bundesamt nach § 5b
-----------------------------------------------------------------------
----------
-Kennsätze auf dem Magnetband    I DIN 66 029, Kennsatzstufe 3
-I Es gelten folgende Feldinhalte:
-I VOL1:
-I 1. Bandkennzeichen: Eintragung nach
-I    der Systematik des jeweiligen Eigentümers,
-I 2. Zugriffsvermerk: Leerzeichen,
-I 3. Eigentümerkennzeichen: Eintragung, die
-I    eine Identifizierung des jeweiligen
-I    Eigentümers zuläßt;
-I HDR1/EOF1/EOV1:
-I 1. Dateiname:
-I    St.  5- 7: NSM,
-I    St.  8-12: Rechenzentrumskennung,
-I    St. 13-21: Leerzeichen,
-I 2. Dateizugriffsvermerk: Leerzeichen;
-I HDR2/EOF2/EOV2:
-I 1. Satzformat: fest (F),
-I 2. Blocklänge: 1905,
-I 3. Satzlänge: 635,
-I 4. Pufferverschiebung: 00.
-----------------------------------------------------------------------
----------
-Dateianordnung                  I Eine Datei auf einem Magnetband oder
-auf
-I mehreren Magnetbändern (Mehrbanddatei)
-----------------------------------------------------------------------
----------
-Reihenfolge der Datensätze      I Datensätze unsortiert
-----------------------------------------------------------------------
----------
-Seite 4
-----------------------------------------------------------------------
----------
-I           Dateibeschreibung         I Stand
-I                                     I 16. Oktober 1998
-I                                     I
-----------------------------------------------------------------------
----------
-Dateibezeichnung                    I Dateiname
-Übermittlungsdatei an das           I NSM
-Kraftfahrt-Bundesamt                I
-I
-----------------------------------------------------------------------
----------
-Dateiinhalt                         I Dateiart
-Namensänderungsmitteilungen         I
-I
-----------------------------------------------------------------------
----------
-Datenträger                         I Eigentümerkennzeichen   I
-Kennsatzstufe
-Magnetband                          I                         I 3
-----------------------------------------------------------------------
----------
-Dateikennwerte
-----------------------------------------------------------------------
----------
-Satzformat        I Satzlänge      I Blocklänge               I
-Dateiumfang
-fest (F)          I 635 Bytes      I 1905 Bytes               I
-----------------------------------------------------------------------
----------
-Speicherungsform  I                     Dateischlüssel\*)
-seriell
-I------------------------------------------------------------
-I Bezeichnung    I Position     I Länge     I Format
-I                I              I           I
-----------------------------------------------------------------------
----------
-Sortierung
-unsortiert
-----------------------------------------------------------------------
----------
-Sicherungsmaßnahmen
-----------------------------------------------------------------------
----------
-Sperrfrist        I Sicherungs-    I Zahl\*)                   I
-Zugriffsvermerk
-I zyklus\*)       I Sicherungsbestände       I unbeschränkter
-I                I                          I Zugriff
-I                I                          I
-----------------------------------------------------------------------
----------
-Bemerkungen:
-1\. Zugelassen ist eine Datei auf einem Magnetband oder mehreren
-Magnetbändern
-gemäß DIN 66 015 oder DIN 66 282.
-2\. Die Daten sind im 8-Bit-Code - ARV 8 - nach DIN 66 303, Code
-Tabelle 1,
-und nach DIN 66 004 Teil 3 darzustellen.
-----------------------------------------------------------------------
----------
-Benutzerkennsätze/Datensätze
-----------------------------------------------------------------------
----------
-Lfd. Nr. I   Satzbezeichnung    I  Satzart   I  Satzlänge  I
-Bemerkungen
-----------------------------------------------------------------------
----------
-1     I Namensänderungs-     I    KBO     I     635     I Vorlaufsatz
-I mitteilungen         I            I             I (erster Satz der
-I                      I            I             I Datei)
-I                      I    KB1     I     635     I Namensänderungs-
-I                      I    oder    I             I mitteilungssatz
-I                      I    KB2     I             I
-I                      I            I             I
-I                      I            I             I
-I                      I            I             I
-I                      I            I             I
-I                      I            I             I
-----------------------------------------------------------------------
----------
-\*) Nicht ausfüllen für Datenübermittlungen.
+-
 
