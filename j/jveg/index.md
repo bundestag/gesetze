@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 776
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 3 G v. 30.7.2009 I 2449
+:   Art. 5 G v. 19.10.2012 I 2182
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -667,15 +667,15 @@ Zustimmung und die Ablehnung der Zustimmung sind unanfechtbar.
 (5) Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 ist die Vergütung unabhängig davon zu gewähren, ob ein ausreichender
 Betrag an die Staatskasse gezahlt ist. Im Fall des Absatzes 2 genügt
-die Erklärung eines Beteiligten (§ 8 des Kapitalanleger-
-Musterverfahrensgesetzes). Die Absätze 3 und 4 sind nicht anzuwenden.
-Die Anhörung der übrigen Beteiligten kann dadurch ersetzt werden, dass
-die Vergütungshöhe, für die die Zustimmung des Gerichts erteilt werden
-soll, öffentlich bekannt gemacht wird. Die öffentliche Bekanntmachung
-wird durch Eintragung in das Klageregister nach § 2 des
-Kapitalanleger-Musterverfahrensgesetzes bewirkt. Zwischen der
-öffentlichen Bekanntmachung und der Entscheidung über die Zustimmung
-müssen mindestens vier Wochen liegen.
+die Erklärung eines Beteiligten des Musterverfahrens. Die Absätze 3
+und 4 sind nicht anzuwenden. Die Anhörung der übrigen Beteiligten des
+Musterverfahrens kann dadurch ersetzt werden, dass die Vergütungshöhe,
+für die die Zustimmung des Gerichts erteilt werden soll, öffentlich
+bekannt gemacht wird. Die öffentliche Bekanntmachung wird durch
+Eintragung in das Klageregister nach § 4 des Kapitalanleger-
+Musterverfahrensgesetzes bewirkt. Zwischen der öffentlichen
+Bekanntmachung und der Entscheidung über die Zustimmung müssen
+mindestens vier Wochen liegen.
 
 (6) Hat sich eine Partei oder ein Beteiligter dem Gericht gegenüber
 mit einem bestimmten Stundensatz nach § 9 oder bei schriftlichen

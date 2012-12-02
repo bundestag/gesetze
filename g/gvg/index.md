@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9. 5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 7.12.2011 I 2582
+:   Art. 3 G v. 19.10.2012 I 2182
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -1446,8 +1446,11 @@ Streitgegenstandes ausschließlich zuständig
     Amtshandlungen;
 
 
-3.  für Schadensersatzansprüche auf Grund falscher, irreführender oder
-    unterlassener öffentlicher Kapitalmarktinformationen;
+3.  für Ansprüche, die auf eine falsche, irreführende oder unterlassene
+    öffentliche Kapitalmarktinformation, auf die Verwendung einer falschen
+    oder irreführenden öffentlichen Kapitalmarktinformation oder auf die
+    Unterlassung der gebotenen Aufklärung darüber, dass eine öffentliche
+    Kapitalmarktinformation falsch oder irreführend ist, gestützt werden;
 
 
 4.  für Verfahren nach
@@ -2160,7 +2163,8 @@ gemacht wird:
 5.  auf Grund des Gesetzes gegen den unlauteren Wettbewerb;
 
 
-6.  aus den §§ 44 bis 47 des Börsengesetzes.
+6.  aus den §§ 21, 22 und 24 des Wertpapierprospektgesetzes oder den §§ 20
+    bis 22 des Vermögensanlagengesetzes.
 
 
 
