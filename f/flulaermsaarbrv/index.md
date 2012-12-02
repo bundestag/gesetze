@@ -1839,6 +1839,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Saarbrücken)
 
-(Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl I 1977, 772
+Fundstelle: BGBl I 1977, 771 - 772
 
+![bgbl1_1977_j0771_0010.jpg](bgbl1_1977_j0771_0010.jpg)![bgbl1_1977_j0772_0010.jpg](bgbl1_1977_j0772_0010.jpg)

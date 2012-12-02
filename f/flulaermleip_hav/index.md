@@ -1783,7 +1783,23 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Leipzig/Halle)
 
-   (Inhalt: nicht darstellbare topographische Karte nebst
-Zeichenerklärung,
-Fundstelle: BGBl. I 1996, 578 - 579)
+   (Fundstelle: BGBl I 1996, 578 - 579)
 
+1 : 50 000
+Lärmschutzbereich
+für den Verkehrsflughafen Leipzig/Halle
+(Gesetz zum Schutz gegen Fluglärm vom 30. März 1971, BGBl. I S. 282)
+
+![bgbl1_1996_j0578_0010.jpg](bgbl1_1996_j0578_0010.jpg)
+Das rechtwinklige Koordinatengitter entspricht dem Gauß-Krüger-System
+mit 3° breitem Meridianstreifen.
+
+Kartengrundlage:
+Topographische Karte 1 : 50 000 (SerieM745)
+Vervielfältigung der Kartengrundlage mit Genehmigung des Deutschen
+Militärgeographischen Dienstes (DMG) – Lizenz BQ0001-7
+
+Gravur der Lärmschutzgrenzen und Druck:
+Institut für Angewandte Geodäsie, Frankfurt am Main, 1995
+
+![bgbl1_1996_j0579_0010.jpg](bgbl1_1996_j0579_0010.jpg)

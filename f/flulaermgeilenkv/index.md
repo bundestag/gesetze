@@ -1770,6 +1770,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Geilenkirchen)
 
-(Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1982, 1471)
+(Fundstelle: BGBl I 1982, 1471)
 
+![bgbl1_1982_j1471_0010.jpg](bgbl1_1982_j1471_0010.jpg)

@@ -3898,6 +3898,5 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Büchel in der Fassung der Zweiten Änderungsverordnung vom 9. Oktober 1991)
 
-   (Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl I 1991, 1981 - 1982)
-
+   (Fundstelle: BGBl. I 1991, 1981 - 1982)
+![bgbl1_1991_j1981_0010.jpg](bgbl1_1991_j1981_0010.jpg)![bgbl1_1991_j1982_0010.jpg](bgbl1_1991_j1982_0010.jpg)
