@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 3066
 
 Zuletzt geändert durch
-:   § 38 Abs. 4 V v. 16.12.2011; 2012 I 2
+:   Art. 6 V v. 2.10.2012 I 2102
 
 § 1 Nr. 1 und § 5 Abs. 1 Nr. 1 und 2, § 7 Abs. 2, die §§ 9, 30 Abs. 2
 Nr. 1 und Anlage 9 dieser Verordnung dienen der Umsetzung der
@@ -232,9 +232,9 @@ Fahrerlaubnis (Absatz 1) ist oder gegen den das Ruhen der Erlaubnis (§
     kann,
 
 
-2.  das nur mit Muskelkraft angetrieben wird oder mit einer
-    Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung nicht
-    mehr als 3,68 Kilowatt beträgt.
+2.  das nur mit Muskelkraft oder unter Segel angetrieben wird oder mit
+    einer Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung
+    nicht mehr als 11,03 Kilowatt beträgt.
 
 
 

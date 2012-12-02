@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2 (1666) [Anlageband]
 
+Geändert durch
+:   Art. 9 V v. 2.10.2012 I 2102
+
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
 Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -25903,9 +25906,21 @@ Bezeichnung nach § 8.12 führen.
     Kanzleramtssteg (km 14,10) bis zur Oberbaumbrücke (km 20,70) -
     einschließlich Spreekanal - ist
 
-    a)  der Verkehr eines Kleinfahrzeugs ohne Maschinenantrieb oder eines
-        Kleinfahrzeugs mit Antriebsmaschine, deren größte Nutzleistung weniger
-        als 3,69 kW beträgt, und
+    a)  der Verkehr von Kleinfahrzeugen,
+
+        aa) die ohne Maschinenantrieb fahren oder mit einer Antriebsmaschine,
+            deren größte Nutzleistung weniger als 3,69 kW beträgt, ausgestattet
+            sind,
+
+
+        bb) die Sportfahrzeuge sind und nach der Sportbootführerscheinverordnung-
+            Binnen vom 22. März 1989 (BGBl. I S. 536), die zuletzt durch Artikel 1
+            der Verordnung vom 2. Oktober 2012 (BGBl. I S. 2102) geändert worden
+            ist, in der jeweils geltenden Fassung ohne Fahrerlaubnis geführt
+            werden dürfen,
+
+
+
 
 
     b)  das Schleppen oder gekuppelte Mitführen von Kleinfahrzeugen, die

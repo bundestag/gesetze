@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2 (1717)
 
+Geändert durch
+:   Art. 8 V v. 2.10.2012 I 2102
+
 
 ## Eingangsformel
 
@@ -78,7 +81,7 @@ Es verordnen
 
 ### § 1 Anwendungsbereich
 
-[^F775802_01_BJNR000200012BJNE000200000]
+[^F775802_01_BJNR000200012BJNE000201308]
 (1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung
 gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 6.
 Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden und
@@ -89,18 +92,18 @@ Diemeltalsperre.
 
 (2) Die §§ 1.07, 1.10 Nummer 1 Buchstabe a, b, c, e, f, h bis l, s,
 Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01,
-2\.03, 4.05 Nummer 1 bis 3, § 4.06 Satz 1, § 6.32 Nummer 1 und § 28.01
-– soweit die Regelungen zum Ölkontrollbuch betroffen sind – gelten
-auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf
-Wasserstraßen der Zonen 1 und 2 nach Anhang I der
-Binnenschiffsuntersuchungsordnung.
+2\.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 6.32 Nummer 1 und
+§ 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung
+und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die
+Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der
+Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
 
     Die Anlage zu dieser Verordnung wird als Anlageband zu dieser Ausgabe
     des Bundesgesetzblatts ausgegeben. Abonnenten des Bundesgesetzblatts
     Teil I wird der Anlageband auf Anforderung gemäß den Bezugsbedingungen
     des Verlags übersandt. Außerhalb des Abonnements erfolgt die Lieferung
     gegen Kostenerstattung.
-[^F775802_01_BJNR000200012BJNE000200000]: 
+[^F775802_01_BJNR000200012BJNE000201308]: 
 
 ### § 2 Zuständige Behörden
 
