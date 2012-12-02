@@ -4644,7 +4644,8 @@ Verabschiedung des Arbeitsprogrammes nach Artikel 26 der Verordnung
     der §§ 10, 10a und 22 des Pflanzenschutzgesetzes in der Fassung der
     Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512), das
     zuletzt durch Artikel 4 des Gesetzes vom 2. November 2011 (BGBl. I S.
-    2162) geändert worden, ist in Verbindung mit der Pflanzenschutz-
+    2162) geändert
+    worden, ist                    in Verbindung mit der Pflanzenschutz-
     Sachkundeverordnung vom 28. Juli 1987 (BGBl. I S. 1752), die zuletzt
     durch Artikel 27 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515)
     geändert worden ist, gewesen sind, gelten die Ausbildungs- und
