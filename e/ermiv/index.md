@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2641
 
+Geändert durch
+:   Art. 5 V v. 25.10.2012 I 2270
+
 
 ## § 1 Anwendungsbereich
 
@@ -180,8 +183,9 @@ eindeutig identifiziert werden kann.
 
 ## § 4 Anforderungen an Saatgut von Erhaltungsmischungen
 
-Saatgut von Erhaltungsmischungen darf nur in den Verkehr gebracht
-werden, wenn
+(1) Saatgut von Erhaltungsmischungen darf nur innerhalb des
+Ursprungsgebietes in den Verkehr gebracht werden, in dem sich der
+Entnahmeort der Erhaltungsmischung befindet, wenn
 
 1.  eine Genehmigung nach § 3 Absatz 1 erteilt worden ist,
 
@@ -224,11 +228,10 @@ werden, wenn
         sind,
 
 
-    b)  das Saatgut der Arten, die unter die Richtlinie
-        66/401/EWG                          fallen, die Anforderungen an
-        Handelssaatgut nach Anhang II Abschnitt III in Verbindung mit den
-        Spalten 4 bis 15 der Tabelle in Abschnitt I Nummer 2 Buchstabe A des
-        Anhangs II der Richtlinie 66/401/EWG erfüllt,
+    b)  das Saatgut der Arten, die unter die Richtlinie 66/401/EWG fallen, die
+        Anforderungen an Handelssaatgut nach Anhang II Abschnitt III in
+        Verbindung mit den Spalten 4 bis 15 der Tabelle in Abschnitt I Nummer
+        2 Buchstabe A des Anhangs II der Richtlinie 66/401/EWG erfüllt,
 
 
     c)  die Vermehrung der jeweiligen Bestandteile der Mischung nicht über
@@ -243,6 +246,15 @@ Im Falle des Satzes 1 Nummer 4 Buchstaben c ist die Vermehrung auch
 dann zulässig, wenn sich eine Vermehrungsfläche unmittelbar an der
 Grenze zweier benachbarter Produktionsräume befindet und in den
 benachbarten Produktionsraum hinein erstreckt.
+
+(2) Saatgut von Erhaltungsmischungen oder von deren Komponenten darf
+darüber hinaus bis zum 1. März 2020 auch in den unmittelbar an das
+Ursprungsgebiet der jeweiligen Erhaltungsmischung angrenzenden
+Ursprungsgebieten in den Verkehr gebracht werden, sofern für einzelne
+Komponenten einer aus diesen angrenzenden Ursprungsgebieten stammenden
+Erhaltungsmischung Saatgut nicht in ausreichender Menge zur Verfügung
+steht und Saatgut anderer Arten aus den betroffenen angrenzenden
+Ursprungsgebieten nicht als Ersatz in Frage kommt.
 
 
 ## § 5 Überwachung durch Sichtkontrollen und Prüfungen
@@ -262,6 +274,50 @@ Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
 Für die Probenahme gelten die Vorschriften nach Artikel 7 Absatz 2 in
 Verbindung mit Anlage 3 der Richtlinie 66/401/EWG. Die zuständige
 Behörde hat die Durchführung der Überwachung aufzuzeichnen.
+
+
+## § 5a Gestattung des Inverkehrbringens
+
+(1) Saatgut von Erhaltungsmischungen darf nur in den Verkehr gebracht
+werden, wenn der Erhaltungsmischung eine Prüfbescheinigung eines
+anerkannten Zertifizierungsunternehmens beigefügt ist. In der
+Bescheinigung hat das anerkannte Zertifizierungsunternehmen zu
+bestätigen, dass die betroffene Saatgutpartie unter Einbeziehung des
+anerkannten Zertifizierungsunternehmens hergestellt wurde und den
+Anforderungen des § 4 entspricht.
+
+(2) Die zuständige Behörde erkennt auf Antrag ein
+Zertifizierungsunternehmen an, wenn
+
+1.  das eingesetzte Personal über die für die Durchführung der Prüfung
+    erforderlichen Kenntnisse und Fähigkeiten sowie über die erforderliche
+    Zuverlässigkeit verfügt,
+
+
+2.  das Unternehmen die Gewähr dafür bietet, die Prüfung durchführen zu
+    können,
+
+
+3.  eine angemessene Kontrolldichte sichergestellt ist und
+
+
+4.  das Unternehmen kein wirtschaftliches Interesse am Ergebnis der
+    Prüfung hat.
+
+
+
+
+(3) Das Zertifizierungsunternehmen hat die fachlichen Kenntnisse und
+Fähigkeiten des eingesetzten Personals durch geeignete Zeugnisse und
+Bescheinigungen nachzuweisen. Das Zertifizierungsunternehmen ist
+verpflichtet, Änderungen hinsichtlich des weiteren Vorliegens der
+Voraussetzungen nach Absatz 2 unverzüglich der zuständigen Behörde
+anzuzeigen. Die zuständige Behörde widerruft die Anerkennung, wenn die
+Voraussetzungen nach Absatz 2 nicht mehr vorliegen. Die zuständige
+Behörde kann die Anerkennung widerrufen, wenn gegen die Pflichten nach
+Satz 2 verstoßen wird. Im Übrigen bleiben die
+verwaltungsverfahrensrechtlichen Bestimmungen über Rücknahme und
+Widerruf unberührt.
 
 
 ## § 6 Verschließung
