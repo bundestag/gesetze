@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   eBAnz: 2008, AT82 V1
 
-Geändert durch
-:   Art. 1 V v. 19.12.2008 I 2865
+Zuletzt geändert durch
+:   Art. 8 V v. 10.10.2012 I 2113
 
 V tritt gem. § 10 satz 2 am 11.1.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 10 satz 2 mit zustimmung des bundesrates aufgeh. durch
 :   Art. 1 Nr. 5 V v. 19.12.2008 I 2865; dadurch ist die Geltung dieser V über den 11.1.2009 hinaus verlängert worden.
@@ -393,7 +393,7 @@ Pflanzenschutzes vorschreiben oder verbieten.
 
 ## § 9 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 4 eine Anzeige nicht, nicht richtig, nicht vollständig oder
@@ -418,27 +418,21 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 6.  entgegen § 6 Abs. 2 Satz 1 Nr. 2 auch in Verbindung mit § 8a Abs. 2
     Satz 1 eine Maschine nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig reinigt oder
+    nicht rechtzeitig reinigt,
 
 
 7.  entgegen § 6 Abs. 2 Satz 1 Nr. 3 auch in Verbindung mit § 8a Abs. 2
-    Satz 1 Maisdurchwuchs nicht oder nicht rechtzeitig beseitigt.
+    Satz 1 Maisdurchwuchs nicht oder nicht rechtzeitig beseitigt,
+
+
+8.  einer vollziehbaren Anordnung nach § 6 Absatz 4, § 7 Absatz 2 oder §
+    8a Absatz 5 zuwiderhandelt oder
+
+
+9.  einer vollziehbaren Auflage nach § 8 Absatz 6 zuwiderhandelt.
 
 
 
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  einer vollziehbaren Anordnung nach § 6 Abs. 4, § 7 Abs. 2 oder § 8a
-    Abs. 5 oder
-
-
-2.  einer vollziehbaren Auflage nach § 8 Abs. 6
-
-
-
-zuwiderhandelt.
 
 
 ## § 10 Inkrafttreten

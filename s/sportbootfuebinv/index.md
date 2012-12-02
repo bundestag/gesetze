@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 536 (1102)
 
 Zuletzt geändert durch
-:   § 38 Abs. 5 V v. 16.12.2011; 2012 I 2
+:   Art. 1 V v. 2.10.2012 I 2102
 
 
 ## Eingangsformel
@@ -53,13 +53,7 @@ Im Sinne dieser Verordnung sind
 
 (1) Wer ein Sportboot mit Antriebsmaschine oder unter Segel auf den
 Binnenschiffahrtsstraßen führen will, bedarf einer Fahrerlaubnis für
-die jeweilige Antriebsart. Dies gilt abweichend von § 2 der Verordnung
-zur Anwendung und Ergänzung der Sportbootführerscheinverordnung-Binnen
-sowie der Binnenschifferpatentverordnung vom 5. Juni 1990 der
-Senatsverwaltung für Arbeit, Verkehr und Betriebe des Landes Berlin
-(GVBl. S. 1276) auf Binnenschiffahrtsstraßen im Land Berlin auch für
-Führer von Sportbooten mit Wohnsitz im Geltungsbereich dieser
-Verordnung außerhalb des Landes Berlin.
+die jeweilige Antriebsart.
 
 (2) Die Fahrerlaubnis wird, unbeschadet des § 4, durch den
 Sportbootführerschein-Binnen nach dieser Verordnung nachgewiesen
@@ -81,7 +75,7 @@ Antriebsart fortbewegt. In diesem Fall ist Führer allein der
 Beaufsichtigende.
 
 (5) Die Erlaubnis zum Führen eines Sportbootes kann auf Segelboote
-oder Segelsurfbretter beschränkt werden.
+beschränkt werden.
 
 
 ## § 3 Ausnahmen
@@ -102,7 +96,9 @@ oder Segelsurfbretter beschränkt werden.
     anwenden;
 
 
-2.  (weggefallen)
+2.  Personen ab 16 Jahren, wenn das zu führende Sportboot mit einer
+    Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare
+    Nutzleistung 11,03 Kilowatt oder weniger beträgt.
 
 
 
@@ -173,17 +169,58 @@ Befähigungsnachweise und Berechtigungsscheine wird im Verkehrsblatt -
 Amtsblatt des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 der Bundesrepublik Deutschland - veröffentlicht.
 
-(4) Eine Fahrerlaubnis nach dieser Verordnung ist erforderlich für das
-Führen von Sportbooten
-
-1.  unter Segel nur auf den Binnenschifffahrtsstraßen nach Anlage 2,
-
-
-2.  mit Antriebsmaschine, deren größte Nutzleistung mehr als 3,68 Kilowatt
-    beträgt.
+(4) Eine Fahrerlaubnis nach dieser Verordnung ist für das Führen von
+Sportbooten unter Segel nur auf den in der Anlage 2 aufgeführten
+Binnenschifffahrtsstraßen erforderlich. Satz 1 gilt nicht für
+Sportboote, die als Segelsurfbretter geführt werden.
 
 
+## § 3a Fahrerlaubnispflicht auf dem Rhein
 
+(1) Zum Führen eines Sportbootes auf dem Rhein bedürfen Personen ab 16
+Jahren keiner Fahrerlaubnis, soweit das Sportboot
+
+1.  keine Antriebsmaschine hat oder
+
+
+2.  mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht
+    überschreitbare Nutzleistung 3,68 Kilowatt beträgt.
+
+
+
+
+(2) Bei einer größeren Nutzleistung als 3,68 Kilowatt ist für das
+Führen eines Sportbootes mit Antriebsmaschine auf dem Rhein
+erforderlich
+
+1.  eine Fahrerlaubnis nach § 2 Absatz 1,
+
+
+2.  ein Befähigungszeugnis, das den nationalen Vorschriften der
+    Rheinuferstaaten und Belgiens für Binnengewässer entspricht, oder
+
+
+3.  , soweit der Schiffsführer seinen Wohnsitz nicht im Inland hat und
+    sein Aufenthalt im Geltungsbereich dieser Verordnung nicht länger als
+    ein Jahr andauert,
+
+    a)  ein im Staat des Wohnsitzes amtlich vorgeschriebener
+        Befähigungsnachweis für das Führen von Sportbooten auf Binnengewässern
+        oder
+
+
+    b)  ein Internationales Zertifikat im Sinne der Resolution Nr. 40 ECE für
+        die jeweilige Antriebsart, sofern diese Resolution im Wohnsitzstaat
+        angewendet wird.
+
+
+
+
+
+
+Das Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt die
+Staaten nach Satz 1 Nummer 3 Buchstabe b im Verkehrsblatt oder
+Bundesanzeiger bekannt.
 
 
 ## § 4 Fortgeltung anderer Befähigungsnachweise
@@ -234,9 +271,22 @@ vorgeschriebene Fahrerlaubnis.
 
 
 (2) Untauglich zum Führen eines Sportbootes ist insbesondere, wer
-nicht über ein ausreichendes Seh- oder Hörvermögen verfügt. Bestehen
-Zweifel an der Tauglichkeit, kann die Vorlage amts- oder
-fachärztlicher Zeugnisse verlangt werden.
+nicht über ein ausreichendes Seh-, Hör- oder
+Farbunterscheidungsvermögen verfügt. Zur Feststellung oder Überprüfung
+der Tauglichkeit des Bewerbers kann die Vorlage
+
+1.  amts- oder fachärztlicher Zeugnisse oder
+
+
+2.  eines Sportbootführerscheins-See, der durch Prüfung erworben worden
+    und zum Zeitpunkt der Antragstellung auf den Sportbootführerschein-
+    Binnen nicht älter als zwölf Monate ist,
+
+
+
+verlangt werden. Bestehen nachträglich Zweifel an der Tauglichkeit,
+kann die Vorlage aktueller amts- oder fachärztlicher Zeugnisse
+verlangt werden.
 
 (3) Bewerbern, die bedingt tauglich sind, kann die Fahrerlaubnis unter
 Auflagen erteilt werden. Tritt eine Einschränkung der Tauglichkeit
@@ -271,11 +321,22 @@ Prüfungsausschuß (§ 11 Abs. 2) zu richten:
     Bewerber ohne Kopfbedeckung im Halbprofil zeigt,
 
 
-2.  ein ärztliches Zeugnis über ein ausreichendes Seh- und Hörvermögen; in
-    den Richtlinien nach § 11 Abs. 1 Satz 3 kann auch bestimmt werden, in
-    welchen Fällen der Nachweis über ein ausreichendes Sehvermögen auch
-    mit einer Sehtestbescheinigung einer amtlich anerkannten Sehteststelle
-    geführt werden kann.
+2.  ein ärztliches Zeugnis über ein ausreichendes Seh-, Hör- und
+    Farbunterscheidungsvermögen oder ein Sportbootführerschein-See nach §
+    5 Absatz 2 Satz 2 Nummer 2; in den Richtlinien nach § 11 Abs. 1 Satz 3
+    kann auch bestimmt werden, in welchen Fällen der Nachweis über ein
+    ausreichendes Sehvermögen auch mit einer Sehtestbescheinigung einer
+    amtlich anerkannten Sehteststelle geführt werden kann,
+
+
+3.  soweit erteilt, eine Fotokopie des amtlichen Sportbootführerscheins-
+    See,
+
+
+4.  soweit erforderlich, eine ärztliche Bescheinigung einer Legasthenie
+    oder Unterlagen, wie Atteste, ärztliche Bescheinigungen,
+    Schulzeugnisse oder Gutachten, die zur Glaubhaftmachung nicht
+    ausreichender Deutschkenntnisse geeignet sind.
 
 
 
@@ -287,27 +348,27 @@ vorzulegen, wenn er keinen gültigen amtlichen
 Kraftfahrzeugführerschein nachweist.
 
 (4) Der Bewerber wird zur Prüfung zugelassen, wenn die Voraussetzungen
-nach § 5 Abs. 1 Nr. 1 bis 3 sowie nach den Absätzen 2 und 3 erfüllt
-und die Gebühren nach § 12 Abs. 1 Nr. 1 oder 2 und 3 bezahlt sind.
+nach § 5 Absatz 1 Nummer 1 bis 3 sowie nach den Absätzen 2 und 3
+erfüllt und die im Einzelfall anfallenden Gebühren nach § 12 Absatz 1
+Nummer 1 bis 6 bezahlt sind.
 
 
 ## § 7 Prüfung
 
-(1) Der Bewerber hat in einer Prüfung nachzuweisen, daß er
-
-1.  über ausreichende Kenntnisse der für das Führen eines Sportbootes
-    maßgebenden Vorschriften und die zu seiner sicheren Führung auf den
-    Binnenschiffahrtsstraßen erforderlichen nautischen und technischen
-    Kenntnisse verfügt (theoretischer Teil) und
-
-
-2.  zu ihrer praktischen Anwendung fähig ist (praktischer Teil).
-
-
-
-Wird die Prüfung aus wichtigem Grund nicht an einem Tag abgeschlossen,
-muss der fehlende Prüfungsteil spätestens innerhalb eines Jahres
-nachgeholt werden.
+(1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung
+nachzuweisen, die aus einem theoretischen und einem praktischen Teil
+besteht. Im theoretischen Prüfungsteil muss der Bewerber nachweisen,
+dass er über ausreichendes Wissen der maßgeblichen
+schifffahrtspolizeilichen Vorschriften verfügt und die erforderlichen
+nautischen, seemännischen und technischen Grundkenntnisse für das
+sichere Führen eines Sportbootes auf den Binnenschifffahrtsstraßen
+hat. Grundzüge des Umwelt- und Naturschutzes werden ergänzend geprüft.
+Im praktischen Prüfungsteil muss der Bewerber nachweisen, dass er die
+zur sicheren Führung eines Sportbootes notwendigen Fahrmanöver und
+Fertigkeiten beherrscht und zur Anwendung des theoretischen Wissens
+fähig ist. Wird die Prüfung aus wichtigem Grund nicht an einem Tag
+abgeschlossen, muss der fehlende Prüfungsteil spätestens innerhalb
+eines Jahres nachgeholt werden.
 
 (2) Der Vorsitzende des Prüfungsausschusses oder sein Stellvertreter
 bestimmt den Prüfungstermin und beruft die Prüfungskommission, die aus
@@ -426,7 +487,7 @@ hat, eine Geldbuße festgesetzt worden ist. Davon ist in der Regel
 auszugehen, wenn die Geldbuße wegen einer Ordnungswidrigkeit
 festgesetzt worden ist, weil der Betroffene mehrfach
 
-1.  mit einer Blutalkoholkonzentration von 0,8 Promille oder mehr ein
+1.  mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr ein
     Sportboot geführt hat,
 
 
@@ -545,81 +606,123 @@ Schiffahrtsdirektion Mitte in Hannover die Aufgaben nach Satz 1 und §
 
 (1) An Kosten (Gebühren und Auslagen) werden erhoben:
 
+*    *
+    *
+    *   Euro
+
+
 *    *   1.
 
-    *   für die Abnahme der Prüfung eines Bewerbers (§ 7 Abs. 1)
+    *   für die Zulassung zur Prüfung
 
-    *   DM 75,-
+    *   15,00,
 
 
 *    *   2.
 
-    *   für die Abnahme nur des
+    *   für die Abnahme der theoretischen Gesamtprüfung
 
-    *
-
-*    *
-    *   a)
-
-    *   theoretischen
-
-    *   DM 37,50
-
-
-*    *
-    *   b)
-
-    *   praktischen Prüfungsteils (§ 7 Abs. 3 Satz 2, § 7 Abs. 4)
-
-    *   DM 37,50
+    *   21,00,
 
 
 *    *   3.
 
-    *   für die Erteilung der Fahrerlaubnis und die Ausstellung des
-        Sportbootführerscheins (§ 7 Abs. 4 Satz 1) oder einer
-        Ersatzausfertigung (§ 9 Satz 1)
+    *   für die Abnahme der theoretischen Motorprüfung
 
-    *   DM 30,-
+    *   18,00,
 
 
 *    *   4.
 
-    *   für die Erteilung einer Fahrerlaubnis ohne Prüfung (§ 8)
+    *   für die Abnahme der theoretischen Segelprüfung
 
-    *   DM 20,-
+    *   9,00,
 
 
 *    *   5.
 
-    *   für nachträglich erteilte Auflagen (§ 5 Abs. 3 Satz 2)
+    *   für die Abnahme der praktischen Prüfung
 
-    *   DM 11,50
+    *   21,00,
 
 
 *    *   6.
 
-    *   für die Ablehnung eines Antrages
+    *   für die Erteilung der Fahrerlaubnis
 
-    *   DM 19,-
+    *   15,00,
 
 
 *    *   7.
 
-    *   für die Entziehung der Fahrerlaubnis (§ 10 Abs. 1 Nr. 2) oder die
-        Anordnung über das Ruhen der Fahrerlaubnis (§ 10a Abs. 2 Satz 1, Abs.
-        5 Satz 1 und 2)
+    *   für die nachträgliche Erteilung von Auflagen
 
-    *   DM 85,- bis DM 250,-
+    *   8,00,
 
 
 *    *   8.
 
-    *   Reisekosten der Prüfer
+    *   für die Erteilung einer Fahrerlaubnis ohne Prüfung
+
+    *   21,00,
+
+
+*    *   9.
+
+    *   für die Erteilung einer Ersatzausfertigung
+
+    *   21,00,
+
+
+*    *   10.
+
+    *   für die Ablehnung eines Antrages aus anderen Gründen als
+        Unzuständigkeit
+
+    *   die für die beantragte
+        Handlung vorgesehene Gebühr
+        ermäßigt sich um ein Viertel,
+
+
+*    *   11.
+
+    *   für die Entziehung der Fahrerlaubnis (§ 10 Absatz 1) oder die
+        Anordnung über das Ruhen der Fahrerlaubnis (§ 10a Absatz 1 oder 5)
+
+    *   45,00 bis 135,00,
+
+
+*    *   12.
+
+    *   für die vollständige oder teilweise Zurückweisung eines Widerspruchs
+        gegen eine Sachentscheidung, soweit die Erfolglosigkeit des
+        Widerspruchs nicht nur auf der Unbeachtlichkeit der Verletzung einer
+        Verfahrens- oder Formvorschrift nach § 45 des
+        Verwaltungsverfahrensgesetzes beruht
+
+    *   bis zu 100 Prozent der Gebühr
+        für die angegriffene Amtshandlung,
+        mindestens jedoch 15,00,
+
+
+*    *   13.
+
+    *   in den Fällen der Zurücknahme eines Widerspruchs gegen eine
+        Sachentscheidung nach Beginn der sachlichen Bearbeitung, jedoch vor
+        deren Beendigung
+
+    *   bis zu 100 Prozent
+        der Widerspruchsgebühr,
+        mindestens 15,00,
+
+
+*    *   14.
+
+    *   Reisekosten der Prüfer nach Maßgabe des Bundesreisekostengesetzes,
 
     *
 
-*    *   9.
+*    *   15.
 
     *   Kosten für die Bereitstellung von Prüfungsräumen.
 
@@ -627,7 +730,7 @@ Schiffahrtsdirektion Mitte in Hannover die Aufgaben nach Satz 1 und §
 
 
 
-   (2) Die Kosten nach Absatz 1 Nr. 7 werden von der nach § 11 Abs. 3
+   (2) Die Kosten nach Absatz 1 Nummer 11 werden von der nach § 11 Abs. 3
 zuständigen Wasser- und Schiffahrtsdirektion, im übrigen von den
 beauftragten Verbänden festgesetzt und eingezogen.
 
@@ -665,9 +768,9 @@ fahrlässig
 
 ## § 14 Übergangsregelung
 
-Bis zum 31. März 2007 dürfen für den Sportbootführerschein-Binnen noch
-Vordrucke nach dem am 31. März 2006 geltenden Muster weiterverwendet
-werden.
+Bis zum 1. Oktober 2014 dürfen für das Ausstellen des
+Sportbootführerscheins-Binnen noch Vordrucke nach dem am 1. Mai 2012
+geltenden Muster weiterverwendet werden.
 
 
 ## § 15 Inkrafttreten
@@ -677,136 +780,8 @@ Diese Verordnung tritt am 1. April 1989 in Kraft; ...
 
 ## Anlage 1 (zu § 2 Abs. 2)
 
-Fundstelle des Originaltextes: BGBl. I 2000, 647 - 648;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2012, 2105)
 
-*    *   BUNDESREPUBLIK DEUTSCHLAND
-
-
-*    *   FEDERAL REPUBLIK OF GERMANY
-
-
-*    *
-
-*    *   ... (Bundesadler)
-
-
-*    *
-
-*    *   INTERNATIONALES ZERTIFIKAT
-
-
-*    *   FÜR FÜHRER VON SPORT- UND FREIZEITFAHRZEUGEN
-
-
-*    *   in Übereinstimmung mit der Resolution Nr. 40 der Hauptarbeitsgruppe
-
-
-*    *   "Binnenschifffahrt"
-
-
-*    *   Wirtschaftskommission der Vereinten Nationen für Europa
-
-
-*    *   INTERNATIONAL CERTIFICATE
-
-
-*    *   FOR OPERATORS
-
-
-*    *   OF PLEASURE CRAFT
-
-
-*    *   IN INLAND WATERS
-
-
-*    *   In conformity with resolution No. 40 of the
-
-
-*    *   Working Party on Inland Water Transport
-
-
-*    *   United Nations Economic Commission for Europe
-
-
-
-Fahrerlaubnis/Licence/Permis de navigation/Vaarbewijs
-Dem Inhaber (Angaben umstehend) wird hiermit im Auftrage des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung der
-Bundesrepublik Deutschland die Fahrerlaubnis (§ 2 Abs. 1 und 5 der
-Sportbootsführerscheinverordnung-Binnen) zum Führen von Sportbooten
-mit einer Länge von weniger als 15 Metern mit Antriebsmaschine unter
-Segel als Segelsurfbrett\* auf den Binnenschifffahrtsstraßen erteilt.
-On behalf of the Federal Ministry of Transport, Building and Urban
-Affairs of the Federal Republic of Germany, the holder (personal data
-overleaf) is herewith granted the licence (§ 2 paras. 1 and 5 of the
-Ordinance on Pleasure Craft Skipper's Licence) to operate
-motorizedsailing\* pleasure craft/sailboard\* with a length of less
-than 15 metres on inland waterways.
-Le titulaire du present permis (donnees personnelles au verso) est
-autorise, au nom du Ministere federal des Transports, de la
-Construction et des Affaires urbaines de la Republique federale d'
-Allemagne et conformement au § 2, alineas 1 et 5, du reglement relatif
-au permis de navigation pour la conduite des bateaux de plaisance sur
-les voies navigables interieures, a conduire des bateaux de plaisance
-motorises/a voile des planches a voile\* d' une longueur inferieure a
-15 metres sur les voies de navigation interieure.
-Hierbij wordt de houder (personalia ommestaand) in opdracht van het
-Bondsminister van Verkeer, Bouwbeleid en Stadsontwikkeling van de
-Bondsrepubliek Duitsland het vaarbewijs (§ 2, lid 1 en 5 van het
-Besluit vaarbewijzen binnenvaart) tot het besturen van
-pleziervaartuigen met een lengte van minder dan 15 m met een
-aandrijfmotor onder zeil als zeilplank\* op vaarwegen ob de
-binnenwateren verleend.
------
-\* Siehe Innenseite/See inside/Voir page interieure/Zie binnensijde
-BUNDESREPUBLIK DEUTSCHLAND
-... (Bundesadler)
-SPORTBOOT-FÜHRERSCHEIN BINNEN
-......................................................................
-.........
-(Eigenhändige Unterschrift des Inhabers/Holders Signature)
-......................................................................
-.........
-(Vor- und Zuname/Name and Surname)
-......................................................................
-.........
-(Geburtsland und -ort/Country and Place of Birth)
-......................................................................
-.........
-(Geburtsdatum/Date of Birth)
-......................................................................
-.........
-(Staatsangehörigkeit/Nationality)
-......................................................................
-.........
-(Anschrift/Address)
-......................................................................
-.........
-(Anschrift/Address)
-\* Nichtzutreffendes bitte streichen
-\* Cancel if not applicable
-ZERTIFIKAT/CERTIFICATE Nr. 000000-A
-Gültig für/Valid For
-Binnenschifffahrtsstraßen/Inland Waters
-Sportboote mit  Antriebsmaschine unter Segel als Segelsurfbrett\*
-motorized sailing\* pleasure craft/sailboard\*
-Länge/Length < 15 m
-... (Lichtbild des Inhabers)
-.......................................................
-(Ort und Datum der Ausstellung/Place und Date of Issue)
-Ausgestellt durch/Issued by:
-Deutscher Motoryachtverband e.V.
-Deutscher Segler-Verband e.V.
-....................................
-... (Stempel)
-(Unterschrift/Signature)
-Ermächtigt durch/Authorized by:
-Bundesministerium für Verkehr, Bau und Stadtentwicklung
-Auflagen/conditions
-nach § 5 Abs. 3: der Sportbootführerscheinverordnung-Binnen
-Raum für weitere amtliche Eintragungen
-Bundesdruckerei
 
 
 ## Anlage 2 (zu § 3 Abs. 4 Nr. 1)

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 1203
 
 Zuletzt geändert durch
-:   Art. 3 § 10 G v. 13.12.2007 I 2930
+:   Art. 9 V v. 10.10.2012 I 2113
 
 
 ## Eingangsformel
@@ -134,38 +134,33 @@ Bekämpfung der Reblaus zu treffen.
 
 ## § 7 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 die Anzeige nicht, nicht richtig oder nicht rechtzeitig
     erstattet,
 
 
+1a. einer vollziehbaren Anordnung nach § 2 oder § 4 Absatz 3 Nummer 1
+    zuwiderhandelt,
+
+
 2.  entgegen § 3 Abs. 1 Pflanzgut von Rebe in eine nicht befallene
     Gemeinde oder einen nicht befallenen Ortsteil verbringt,
 
 
-3.  entgegen § 4 Abs. 1 Wurzelreben anbaut oder
+3.  entgegen § 4 Abs. 1 Wurzelreben anbaut,
 
 
 4.  entgegen § 5 Abs. 1 die Reblaus züchtet oder hält oder mit ihr
-    arbeitet.
+    arbeitet oder
+
+
+5.  einer mit einer Genehmigung nach § 5 Absatz 2 verbundenen
+    vollziehbaren Auflage zuwiderhandelt.
 
 
 
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  einer vollziehbaren Anordnung nach § 2 oder § 4 Abs. 3 Nr. 1 oder
-
-
-2.  einer mit einer Genehmigung nach § 5 Abs. 2 verbundenen vollziehbaren
-    Auflage
-
-
-
-zuwiderhandelt.
 
 
 ## § 8 Inkrafttreten

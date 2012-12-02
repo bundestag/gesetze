@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1383
 
-Geändert durch
-:   Art. 2 Abs. 84 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 7 V v. 10.10.2012 I 2113
 
 [^F774598_01_BJNR138300010]:     Diese Verordnung dient der Umsetzung der Richtlinie 2007/33/EG des
     Rates vom 11. Juni 2007 zur Bekämpfung von Kartoffelnematoden und zur
@@ -536,7 +536,7 @@ Untersuchungen durch die zuständige Behörde zu dulden.
 
 ### § 16 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Absatz 1 Nummer 1 Buchstabe a des
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 einen Schadorganismus züchtet, hält oder mit ihm
@@ -564,6 +564,10 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     Geräte gereinigt werden,
 
 
+6a. einer vollziehbaren Anordnung nach § 12 Absatz 1 Satz 2
+    zuwiderhandelt,
+
+
 7.  entgegen § 13 Absatz 2 oder Absatz 3 Pflanzkartoffeln oder dort
     genannte Pflanzen anpflanzt,
 
@@ -578,10 +582,6 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-
-(2) Ordnungswidrig im Sinne des § 40 Absatz 1 Nummer 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 12 Absatz 1 Satz 2 zuwiderhandelt.
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten

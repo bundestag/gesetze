@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2412
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.10.2011 I 2153
+:   Art. 1 V v. 11.10.2012 I 2122
 
 
 ## Eingangsformel
@@ -10675,16 +10675,30 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bis zum Ende der Intensiv-Therapie
+        *   Im ersten Jahr nach Diagnosestellung (Erstdiagnose oder Rezidiv;
+            insbesondere während der Induktionstherapie, Konsolidierungstherapie,
+            Erhaltungstherapie) beträgt der GdS 100.
+            Nach dem ersten Jahr
 
-        *   100
+            –   bei unvollständiger klinischer Remission: Der GdS beträgt weiterhin
+                100,
 
+
+            –   bei kompletter klinischer Remission unabhängig von der durchgeführten
+                Therapie: Der GdS beträgt 80 für die Dauer von drei Jahren
+                (Heilungsbewährung).
+
+
+
+
+        *
 
     *        *
-        *   danach für die Dauer von drei Jahren (Heilungsbewährung)
+        *   Danach ist der GdS nach den verbliebenen Auswirkungen (insbesondere
+            chronische Müdigkeit, Sterilität, Neuropathien, Beeinträchtigung der
+            Entwicklung und kognitiver Funktionen) zu bewerten.
 
-        *   60
-
+        *
 
     *        *
         *

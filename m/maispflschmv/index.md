@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2009, Nr 23, 519
 
-Geändert durch
-:   Art. 1 V v. 29.7.2009 I 2341
+Zuletzt geändert durch
+:   Art. 3 V v. 10.10.2012 I 2113
 
 Diese v tritt gem. § 7 abs. 2 am 12.8.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 7 abs. 2 aufgeh. durch
 :   Art. 1 Nr. 3 V v. 29.7.2009 I 2341; dadurch ist die Geltung dieser V über den 12.8.2009 hinaus verlängert worden.
@@ -139,21 +139,9 @@ verhindern.
 
 ## § 6 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Absatz 1 Nummer 1 Buchstabe b des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1 Absatz 1 oder § 2 Absatz 1 Maissaatgut einführt oder in
-    Verkehr bringt,
-
-
-2.  entgegen § 3 Absatz 1, 2 oder 3 Satz 1 Maissaatgut aussät.
-
-
-
-
-(2) Ordnungswidrig im Sinne des § 40 Absatz 1 Nummer 2 Buchstabe c
-handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung
-nach § 5 zuwiderhandelt.
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
+vollziehbaren Anordnung nach § 5 zuwiderhandelt.
 
 
 ## § 7 Inkrafttreten

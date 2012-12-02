@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 629
 
 Zuletzt geändert durch
-:   Art. 3 Nr. 2 V v. 27.10.1999 I 2070
+:   Art. 12 V v. 10.10.2012 I 2113
 
 
 ## Eingangsformel
@@ -146,9 +146,8 @@ zu erlassen und diese Befugnis weiter zu übertragen.
 
 ## § 10
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
-Pflanzenschutzgesetzes vom 15. September 1986 (BGBl. I S. 1505)
-handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 die Meldung nicht, nicht unverzüglich, nicht richtig oder
     nicht vollständig erstattet,
@@ -170,19 +169,18 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 6.  entgegen § 5 Abs. 1 Satz 2 Pflanzen nicht in der vorgeschriebenen
-    Weise behandelt oder verarbeitet oder
+    Weise behandelt oder verarbeitet,
 
 
 7.  entgegen § 7 die San-Jose-Schildlaus züchtet oder hält oder mit ihr
-    arbeitet.
+    arbeitet oder
+
+
+8.  einer mit einer Genehmigung nach § 8 verbundenen vollziehbaren Auflage
+    zuwiderhandelt.
 
 
 
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes vom 15. September 1986 handelt, wer vorsätzlich
-oder fahrlässig einer mit einer Genehmigung nach § 8 verbundenen
-vollziehbaren Auflage zuwiderhandelt.
 
 
 ## § 11

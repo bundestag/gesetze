@@ -16,7 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 882
 
-Stand: Geändert durch Art. 4 V v. 19.10.2007 I 2461
+V aufgeh. durch
+:   § 11 Satz 2 V 7110-3-187 v. 4.10.2012 I 2109 mWv 1.1.2013
 
 
 ## Eingangsformel
