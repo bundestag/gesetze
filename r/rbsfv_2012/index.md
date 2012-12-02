@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2090
 
+V aufgeh. durch
+:   § 3 Satz 2 V 860-12-1-2 v. 18.10.2012 I 2173 mWv 1.1.2013
+
 
 ## Eingangsformel
 
