@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.10.1994 I 3068;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 26.4.2006 I 984
+:   Art. 5 G v. 19.10.2012 I 2192
 
 
 ## § 1
@@ -43,10 +43,10 @@ Zuletzt geändert durch
 
 
 (2) Andere Mittel im Sinne des Absatzes 1 Nr. 2 sind kosmetische
-Mittel im Sinne des § 4 des Lebensmittel- und
-Bedarfsgegenständegesetzes. Gegenstände im Sinne des Absatzes 1 Nr. 2
-sind auch Gegenstände zur Körperpflege im Sinne des § 5 Abs. 1 Nr. 4
-des Lebensmittel- und Bedarfsgegenständegesetzes.
+Mittel im Sinne des § 2 Absatz 5 Satz 1 des Lebensmittel- und
+Futtermittelgesetzbuches. Gegenstände im Sinne des Absatzes 1 Nr. 2
+sind auch Gegenstände zur Körperpflege im Sinne des § 2 Absatz 6
+Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
 
 (3) Eine Werbung im Sinne dieses Gesetzes ist auch das Ankündigen oder
 Anbieten von Werbeaussagen, auf die dieses Gesetz Anwendung findet.
@@ -63,6 +63,19 @@ sind.
 Handel mit Arzneimitteln auf das Bestellformular und die dort
 aufgeführten Angaben, soweit diese für eine ordnungsgemäße Bestellung
 notwendig sind.
+
+(7) Das Gesetz findet ferner keine Anwendung auf Verkaufskataloge und
+Preislisten für Arzneimittel, wenn die Verkaufskataloge und
+Preislisten keine Angaben enthalten, die über die zur Bestimmung des
+jeweiligen Arzneimittels notwendigen Angaben hinausgehen.
+
+(8) Das Gesetz findet ferner keine Anwendung auf die auf Anforderung
+einer Person erfolgende Übermittlung der nach den §§ 10 bis 11a des
+Arzneimittelgesetzes für Arzneimittel vorgeschriebenen vollständigen
+Informationen und des öffentlichen Beurteilungsberichts für
+Arzneimittel nach § 34 Absatz 1a Satz 1 Nummer 2 des
+Arzneimittelgesetzes und auf die Bereitstellung dieser Informationen
+im Internet.
 
 
 ## § 2
@@ -173,16 +186,15 @@ Arzneimittelgesetz registriert sind, muss folgenden Hinweis enthalten:
 (spezifiziertes Anwendungsgebiet/spezifizierte Anwendungsgebiete)
 ausschließlich auf Grund langjähriger Anwendung".
 
-(1a) Bei Arzneimitteln, die nur einen arzneilich wirksamen Bestandteil
-enthalten, muß der Angabe nach Absatz 1 Nr. 2 die Bezeichnung dieses
-Bestandteils mit dem Hinweis: "Wirkstoff:" folgen; dies gilt nicht,
-wenn in der Angabe nach Absatz 1 Nr. 2 die Bezeichnung des Wirkstoffs
-enthalten ist.
+(1a) Bei Arzneimitteln, die nur einen Wirkstoff enthalten, muß der
+Angabe nach Absatz 1 Nr. 2 die Bezeichnung dieses Bestandteils mit dem
+Hinweis: "Wirkstoff:" folgen; dies gilt nicht, wenn in der Angabe nach
+Absatz 1 Nr. 2 die Bezeichnung des Wirkstoffs enthalten ist.
 
 (2) Die Angaben nach den Absätzen 1 und 1a müssen mit denjenigen
 übereinstimmen, die nach § 11 oder § 12 des Arzneimittelgesetzes für
 die Packungsbeilage vorgeschrieben sind. Können die in § 11 Abs. 1
-Satz 1 Nr. 3 Buchstabe a und c und Nr. 5 des Arzneimittelgesetzes
+Satz 1 Nr. 3 Buchstabe a und Nr. 5 des Arzneimittelgesetzes
 vorgeschriebenen Angaben nicht gemacht werden, so können sie
 entfallen.
 
@@ -335,7 +347,14 @@ werben.
 
 Unzulässig ist die Werbung, Arzneimittel im Wege des Teleshopping oder
 bestimmte Arzneimittel im Wege der Einzeleinfuhr nach § 73 Abs. 2 Nr.
-6a oder § 73 Abs. 3 des Arzneimittelgesetzes zu beziehen.
+6a oder § 73 Abs. 3 des Arzneimittelgesetzes zu beziehen. Die
+Übersendung von Listen nicht zugelassener oder nicht registrierter
+Arzneimittel, deren Einfuhr aus einem anderen Mitgliedstaat oder aus
+einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum nur ausnahmsweise zulässig ist, an Apotheker oder
+Betreiber einer tierärztlichen Hausapotheke ist zulässig, soweit die
+Listen nur Informationen über die Bezeichnung, die Packungsgrößen, die
+Wirkstärke und den Preis dieses Arzneimittels enthalten.
 
 
 ## § 9
@@ -352,7 +371,8 @@ Tier beruht (Fernbehandlung).
 Zahnärzten, Tierärzten, Apothekern und Personen, die mit diesen
 Arzneimitteln erlaubterweise Handel treiben, geworben werden.
 
-(2) Für Arzneimittel, die dazu bestimmt sind, bei Menschen die
+(2) Für Arzneimittel, die psychotrope Wirkstoffe mit der Gefahr der
+Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die
 Schlaflosigkeit oder psychische Störungen zu beseitigen oder die
 Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht
 geworben werden.
@@ -363,50 +383,37 @@ geworben werden.
 (1) Außerhalb der Fachkreise darf für Arzneimittel, Verfahren,
 Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
-1.  mit Gutachten, Zeugnissen, wissenschaftlichen oder fachlichen
-    Veröffentlichungen sowie mit Hinweisen darauf,
+1.  (weggefallen)
 
 
-2.  mit Angaben, daß das Arzneimittel, das Verfahren, die Behandlung, der
-    Gegenstand oder das andere Mittel ärztlich, zahnärztlich, tierärztlich
-    oder anderweitig fachlich empfohlen oder geprüft ist oder angewendet
-    wird,
+2.  mit Angaben oder Darstellungen, die sich auf eine Empfehlung von
+    Wissenschaftlern, von im Gesundheitswesen tätigen Personen, von im
+    Bereich der Tiergesundheit tätigen Personen oder anderen Personen, die
+    auf Grund ihrer Bekanntheit zum Arzneimittelverbrauch anregen können,
+    beziehen,
 
 
 3.  mit der Wiedergabe von Krankengeschichten sowie mit Hinweisen darauf,
+    wenn diese in missbräuchlicher, abstoßender oder irreführender Weise
+    erfolgt oder durch eine ausführliche Beschreibung oder Darstellung zu
+    einer falschen Selbstdiagnose verleiten kann,
 
 
-4.  mit der bildlichen Darstellung von Personen in der Berufskleidung oder
-    bei der Ausübung der Tätigkeit von Angehörigen der Heilberufe, des
-    Heilgewerbes oder des Arzneimittelhandels,
+4.  (weggefallen)
 
 
-5.  mit der bildlichen Darstellung
-
-    a)  von Veränderungen des menschlichen Körpers oder seiner Teile durch
-        Krankheiten, Leiden oder Körperschäden,
-
-
-    b)  der Wirkung eines Arzneimittels, eines Verfahrens, einer Behandlung,
-        eines Gegenstandes oder eines anderen Mittels durch vergleichende
-        Darstellung des Körperzustandes oder des Aussehens vor und nach der
-        Anwendung,
+5.  mit einer bildlichen Darstellung, die in missbräuchlicher, abstoßender
+    oder irreführender Weise Veränderungen des menschlichen Körpers auf
+    Grund von Krankheiten oder Schädigungen oder die Wirkung eines
+    Arzneimittels im menschlichen Körper oder in Körperteilen verwendet,
 
 
-    c)  des Wirkungsvorganges eines Arzneimittels, eines Verfahrens, einer
-        Behandlung, eines Gegenstandes oder eines anderen Mittels am
-        menschlichen Körper oder an seinen Teilen,
+6.  (weggefallen)
 
 
-
-
-
-6.  mit fremd- oder fachsprachlichen Bezeichnungen, soweit sie nicht in
-    den allgemeinen deutschen Sprachgebrauch eingegangen sind,
-
-
-7.  mit einer Werbeaussage, die geeignet ist, Angstgefühle hervorzurufen
-    oder auszunutzen,
+7.  mit Werbeaussagen, die nahelegen, dass die Gesundheit durch die
+    Nichtverwendung des Arzneimittels beeinträchtigt oder durch die
+    Verwendung verbessert werden könnte,
 
 
 8.  durch Werbevorträge, mit denen ein Feilbieten oder eine Entgegennahme
@@ -417,16 +424,13 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
     deutlich erkennbar ist,
 
 
-10. mit Veröffentlichungen, die dazu anleiten, bestimmte Krankheiten,
-    Leiden, Körperschäden oder krankhafte Beschwerden beim Menschen selbst
-    zu erkennen und mit den in der Werbung bezeichneten Arzneimitteln,
-    Gegenständen, Verfahren, Behandlungen oder anderen Mitteln zu
-    behandeln, sowie mit entsprechenden Anleitungen in audiovisuellen
-    Medien,
+10. (weggefallen)
 
 
 11. mit Äußerungen Dritter, insbesondere mit Dank-, Anerkennungs- oder
-    Empfehlungsschreiben, oder mit Hinweisen auf solche Äußerungen,
+    Empfehlungsschreiben, oder mit Hinweisen auf solche Äußerungen, wenn
+    diese in missbräuchlicher, abstoßender oder irreführender Weise
+    erfolgen,
 
 
 12. mit Werbemaßnahmen, die sich ausschließlich oder überwiegend an Kinder
@@ -434,11 +438,13 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
 
 13. mit Preisausschreiben, Verlosungen oder anderen Verfahren, deren
-    Ergebnis vom Zufall abhängig ist,
+    Ergebnis vom Zufall abhängig ist, sofern diese Maßnahmen oder
+    Verfahren einer unzweckmäßigen oder übermäßigen Verwendung von
+    Arzneimitteln Vorschub leisten,
 
 
-14. durch die Abgabe von Mustern oder Proben von Arzneimitteln oder durch
-    Gutscheine dafür,
+14. durch die Abgabe von Arzneimitteln, deren Muster oder Proben oder
+    durch Gutscheine dafür,
 
 
 15. durch die nicht verlangte Abgabe von Mustern oder Proben von anderen
@@ -446,7 +452,11 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
 
 
-Für Medizinprodukte gilt Satz 1 Nr. 6 bis 9, 11 und 12 entsprechend.
+Für Medizinprodukte gilt Satz 1 Nr. 7 bis 9, 11 und 12 entsprechend.
+Ferner darf für die in § 1 Nummer 2 genannten operativen plastisch-
+chirurgischen Eingriffe nicht mit der Wirkung einer solchen Behandlung
+durch vergleichende Darstellung des Körperzustandes oder des Aussehens
+vor und nach dem Eingriff geworben werden.
 
 (2) Außerhalb der Fachkreise darf für Arzneimittel zur Anwendung bei
 Menschen nicht mit Angaben geworben werden, die nahe legen, dass die
@@ -478,8 +488,8 @@ Die Werbung eines Unternehmens mit Sitz außerhalb des Geltungsbereichs
 dieses Gesetzes ist unzulässig, wenn nicht ein Unternehmen mit Sitz
 oder eine natürliche Person mit gewöhnlichem Aufenthalt im
 Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat
-der Europäischen Gemeinschaften oder in einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum, die nach diesem
+der Europäischen Union oder in einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum, die nach diesem
 Gesetz unbeschränkt strafrechtlich verfolgt werden kann, ausdrücklich
 damit betraut ist, die sich aus diesem Gesetz ergebenden Pflichten zu
 übernehmen.
@@ -561,9 +571,7 @@ Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
 ## § 18
 
-Werbematerial, das den Vorschriften des § 4 nicht entspricht, jedoch
-den Vorschriften des Gesetzes in der bis zum 10. September 1998
-geltenden Fassung, darf noch bis zum 31. März 1999 verwendet werden.
+(weggefallen)
 
 
 ## Anlage (zu § 12) Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf

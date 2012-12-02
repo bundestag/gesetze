@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 679
 
-Geändert durch
-:   Art. 1 V v. 10.5.2012 I 1086
-
+Stand: Zuletzt geändert Art. 2 V v. 19.10.2012 I 2232
 Stand: Neufassung gem. Artikel 1 der V v. 26.4.2012 I 679, in Kraft getreten am 5.5.2012
 
 ## A. - Personen (weggefallen)
@@ -18761,7 +18759,8 @@ Datum, Unterschrift, Firmenstempel
 
 ### Anlage XIX (§ 19 Absatz 3 Nummer 4) Teilegutachten
 
-(Fundstelle: BGBl. I 2012, 820)
+(Fundstelle: BGBl. I 2012, 820;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1** **Teilegutachten/Technischer Dienst oder Prüfstelle**
@@ -18828,16 +18827,8 @@ Datum, Unterschrift, Firmenstempel
     002 (Ausgabe Mai 1990) akkreditiert sein (Zertifizierungsstelle für
     Qualitätssicherungssysteme).
 
-    Die Aufgaben der Akkreditierung nimmt das Kraftfahrt-Bundesamt als
-    Akkreditierungsstelle nach der Norm EN 45 003 (Ausgabe September 1989)
-    wahr.
-
-    Das Kraftfahrt-Bundesamt kann auch selbst die Aufgaben der
-    Zertifizierungsstelle für
-    Qualitätsssicherungssysteme                    wahrnehmen.
-
-    Unberührt bleibt auch die Akkreditierung von Zertifizierungsstellen,
-    die durch einen anderen Mitgliedstaat erteilt ist.
+    Unberührt bleibt die Akkreditierung von Zertifizierungsstellen, die
+    durch einen anderen Mitgliedstaat erteilt ist.
 
 
 

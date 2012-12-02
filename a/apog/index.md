@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.1980 I 1993;
 
 Zuletzt geändert durch
-:   Art. 16a G v. 28.5.2008 I 874
+:   Art. 3 G v. 19.10.2012 I 2192
 
 
 ## Erster Abschnitt - Die Erlaubnis
@@ -106,12 +106,7 @@ pharmazeutische Prüfung im Geltungsbereich dieses Gesetzes bestanden
 hat, die Erlaubnis nur zu erteilen, wenn sie für eine Apotheke
 beantragt wird, die seit mindestens drei Jahren betrieben wird.
 
-(2a) Ergänzend zu Absatz 1 Nr. 1 ist einem Antragsteller, der Bürger
-eines anderen Staates ist, die Erlaubnis für den Betrieb einer
-Apotheke in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
-zu erteilen, wenn er am 1. Januar 1990 seinen ständigen Wohnsitz in
-dem in Artikel 3 des Einigungsvertrages genannten Gebiet hatte und die
-übrigen Voraussetzungen des Absatzes 1 erfüllt.
+(2a) (weggefallen)
 
 (3) Hat der Apotheker nach seiner Approbation oder nach Erteilung
 eines nach § 4 Abs. 1a bis 1d, 2 oder 3 der Bundes-Apothekerordnung
@@ -152,12 +147,15 @@ Vorschriften dieses Gesetzes mit folgenden Maßgaben entsprechend:
 2.  Für jede weitere Apotheke (Filialapotheke) hat der Betreiber
     schriftlich einen Apotheker als Verantwortlichen zu benennen, der die
     Verpflichtungen zu erfüllen hat, wie sie in diesem Gesetz und in der
-    Apothekenbetriebsordnung für Apothekenleiter festgelegt sind. Soll die
-    Person des Verantwortlichen geändert werden, so ist dies der Behörde
-    von dem Betreiber eine Woche vor der Änderung schriftlich anzuzeigen.
+    Apothekenbetriebsordnung für Apothekenleiter festgelegt sind.
 
 
 
+Soll die Person des Verantwortlichen im Sinne des Satzes 1 Nummer 2
+geändert werden, so ist dies der Behörde von dem Betreiber zwei Wochen
+vor der Änderung schriftlich anzuzeigen. Bei einem unvorhergesehenen
+Wechsel der Person des Verantwortlichen muss die Änderungsanzeige nach
+Satz 2 unverzüglich erfolgen.
 
 
 ### § 3
@@ -338,7 +336,7 @@ erforderlich macht,
 a)  findet Absatz 1 keine Anwendung auf Arzneimittel, die von den
     Gesundheitsbehörden des Bundes oder der Länder oder von diesen
     benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c des
-    Arzneimittelgesetzes bevorratet oder nach § 21 Abs. 1c des
+    Arzneimittelgesetzes bevorratet oder nach § 21 Absatz 2 Nummer 1c des
     Arzneimittelgesetzes hergestellt wurden,
 
 
@@ -711,7 +709,7 @@ sofortige und das übliche Maß erheblich überschreitende Bereitstellung
 von spezifischen Arzneimitteln erforderlich macht, und die von den
 Gesundheitsbehörden des Bundes oder der Länder oder von diesen
 benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c bevorratet oder nach
-§ 21 Abs. 1c des Arzneimittelgesetzes hergestellt wurden.
+§ 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden.
 
 
 ### § 15
@@ -1047,121 +1045,7 @@ sie nicht zu einem früheren Zeitpunkt ihre Gültigkeit verlieren.
 
 ### § 28a
 
-(1) Die staatlichen öffentlichen Apotheken, die Pharmazeutischen
-Zentren und weitere Einrichtungen des staatlichen Apothekenwesens in
-dem in Artikel 3 des Einigungsvertrages genannten Gebiet werden in die
-Treuhandschaft der Treuhandanstalt mit dem Ziel ihrer Privatisierung
-überführt.
-
-(2) Apotheken, die in dem in Artikel 3 des Einigungsvertrages
-genannten Gebiet vorrangig der Arzneimittelversorgung eines oder
-mehrerer Krankenhäuser dienen und eine räumliche Einheit mit einem
-Krankenhaus bilden, werden als Krankenhausapotheken in das Eigentum
-des jeweiligen Krankenhausträgers überführt. Im Interesse der
-ordnungsgemäßen Arzneimittelversorgung kann abweichend von § 14 Abs. 7
-Satz 2 einer Krankenhausapotheke in dem im Artikel 3 des
-Einigungsvertrages genannten Gebiet auf Antrag des Trägers des
-Krankenhauses durch die zuständige Behörde die Genehmigung zur
-Belieferung von Verschreibungen erteilt werden, die von Ärzten der zum
-Krankenhaus gehörenden Poliklinik ausgestellt wurden. Die Genehmigung
-ist zurückzunehmen, wenn in zumutbarer Entfernung vom Krankenhaus eine
-Apotheke den Betrieb aufnimmt. Die Genehmigung erlischt spätestens am
-31\. Dezember 1993.
-
-(3) Für die zum Zeitpunkt des Wirksamwerdens des Beitritts bestehenden
-Apotheken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
-gilt die Erlaubnis als erteilt, bei staatlichen Apotheken für den
-jeweiligen Träger. Bei Wechsel des Trägers ist die Erlaubnis neu zu
-beantragen. Für die Treuhandanstalt und den Träger eines Krankenhauses
-gilt die Erlaubnis als erteilt.
-
-(4) Die Bezirksapothekeninspektionen und Bezirksdirektionen des
-Apothekenwesens in dem in Artikel 3 des Einigungsvertrages genannten
-Gebiet sind mit Bildung der Länder aufzulösen. Die Auflösung der
-Pharmazeutischen Zentren ist bis 30. Juni 1991 abzuschließen.
-
-(5) Die Treuhandanstalt ist verpflichtet, Apotheken auf Antrag
-berechtigter Personen nach Absatz 6
-
-1.  an diese bis zum 31. Dezember 1991 zu verkaufen oder
-
-
-2.  diesen die Verwaltung zu übertragen, wenn auf Grund der Rechtslage ein
-    unmittelbarer Verkauf der Apotheke nicht möglich ist oder der
-    Antragsteller sich nicht mehr als fünf Jahre vor Erreichen des
-    Vorruhestandsalters befindet.
-
-
-
-Die Verwaltung ist auf höchstens fünf Jahre zu beschränken. Sie ist so
-auszugestalten, daß sie mit dem 31. Dezember 1996 spätestens endet. Im
-Interesse der Sicherstellung der Arzneimittelversorgung kann die Dauer
-der Verwaltung bis zum Eintritt des Rentenalters verlängert werden. §
-13 Abs. 2 und 3 findet entsprechende Anwendung.
-
-(6) Voraussetzungen für den Kauf und die Verwaltung einer Apotheke
-sind
-
-1.  für den Käufer der Besitz einer Erlaubnis nach § 1 Abs. 2,
-
-
-2.  für den Verwalter der Besitz einer Genehmigung nach § 13 Abs. 1b,
-
-
-3.  eine Option gemäß Absatz 7.
-
-
-
-Die Erlaubnis oder die Genehmigung und die Option sind dem Antrag nach
-Absatz 5 beizufügen.
-
-(7) Die zuständige Behörde hat die in Treuhandschaft zu überführenden
-Apotheken zum Kauf oder zur Verwaltung auszuschreiben. Sie erteilt auf
-Antrag eine Option zum Kauf oder zur Verwaltung einer Apotheke. Die
-Entscheidung trifft durch Stimmenmehrheit eine Kommission, die sich
-zusammensetzt aus
-
-1.  einem Vertreter der zuständigen Behörde als Vorsitzenden,
-
-
-2.  einem Vertreter der Treuhandanstalt,
-
-
-3.  drei Apothekern, von denen mindestens einer Apothekenleiter und einer
-    Mitarbeiter ist. Diese Apotheker werden von der Landesapothekerkammer
-    benannt. Solange die Landesapothekerkammer noch nicht besteht, werden
-    sie von dem Landesverband des Verbandes der Apotheker benannt.
-
-
-
-
-(8) Einem Pharmazieingenieur, der aufgrund einer Ausnahmegenehmigung
-in dem in Artikel 3 des Einigungsvertrages genannten Gebiet eine
-Apotheke leitet, kann auf Antrag die Genehmigung zur Verwaltung der
-von ihm bisher geleiteten Apotheke erteilt werden, wenn der
-Antragsteller
-
-a)  diese Apotheke mindestens 10 Jahre zuverlässig geleitet hat und
-
-
-b)  die Anforderungen des § 2 Abs. 1 Nr. 4 und 7 erfüllt.
-
-
-
-Die Erteilung der Genehmigung setzt ferner voraus, daß die vom
-Pharmazieingenieur verwaltete Apotheke Zweigapotheke einer
-öffentlichen Apotheke wird. Über entsprechende Anträge ist gemäß
-Absatz 7 zu entscheiden. Die Genehmigung zur Verwaltung gilt bis zum
-Eintritt des Rentenalters, höchstens jedoch fünf Jahre.
-
-(9) Der Verkauf oder die Übertragung einer Verwaltung von staatlichen
-Apotheken, die bei Wirksamwerden des Beitritts in dem in Artikel 3 des
-Einigungsvertrages genannten Gebiet bestehen, ist bis zum 31. Dezember
-1992 nur an Antragsteller gestattet, die bei Inkrafttreten dieses
-Vertrages Bürger des in Artikel 3 genannten Gebietes waren oder nach
-1972 als ehemalige Bürger dieses Gebietes ihren ständigen Wohnsitz
-außerhalb dieses Gebietes hatten und ihren Wohnsitz nach dem 1. Januar
-1990 wieder in diesem Gebiet genommen haben."
+(weggefallen)
 
 
 ### § 29

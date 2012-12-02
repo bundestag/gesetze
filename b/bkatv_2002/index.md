@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3033
 
 Zuletzt geändert durch
-:   Art. 2 V v. 10.5.2012 I 1086
+:   Art. 3 V v. 19.10.2012 I 2232
 
 
 ## Eingangsformel
@@ -4938,7 +4938,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
         § 4 Abs. 1
         § 8 Abs. 1a Satz 6
         § 9 Abs. 3 Satz 5
-        § 16 Abs. 2 Satz 7
+        § 16 Abs. 2 Satz 8
         § 19 Abs. 1 Nr. 4 Satz 3
         § 48 Nr. 1
 
@@ -5102,11 +5102,33 @@ Fahrlässig begangene Ordnungswidrigkeiten
     *   10 €
 
 
+*    *   181a
+
+    *   Kurzzeitkennzeichen für andere als Prüfungs-, Probe- oder
+        Überführungsfahrten verwendet
+
+    *   § 16 Abs. 2 Satz 3 Nr. 1,
+        § 48 Nr. 15a
+
+    *   25 €
+
+
+*    *   181b
+
+    *   Kurzzeitkennzeichen einer anderen Person zur Nutzung an einem anderen
+        Fahrzeug überlassen
+
+    *   § 16 Abs. 2 Satz 3 Nr. 2,
+        § 48 Nr. 15b
+
+    *   50 €
+
+
 *    *   182
 
     *   Kurzzeitkennzeichen an nicht nur einem Fahrzeug verwendet
 
-    *   § 16 Abs. 2 Satz 6
+    *   § 16 Abs. 2 Satz 7
         § 48 Nr. 16
 
     *   50 €

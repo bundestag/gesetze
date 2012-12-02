@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 7.8.2002 I 3146;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 8.11.2011 I 2178
+:   Art. 11 G v. 19.10.2012 I 2192
+
+Mittelbare änderung durch
+:   Art. 11a G v. 19.10.2012 I 2192 ist berücksichtigt
 
 Dieses Gesetz dient der Umsetzung
 
@@ -94,7 +97,12 @@ bestimmt sind.
 
 (5) Dieses Gesetz gilt nicht für
 
-1.  Arzneimittel im Sinne des § 2 Abs. 1 Nr. 2 des Arzneimittelgesetzes,
+1.  Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes; die
+    Entscheidung darüber, ob ein Produkt ein Arzneimittel oder ein
+    Medizinprodukt ist, erfolgt insbesondere unter Berücksichtigung der
+    hauptsächlichen Wirkungsweise des Produkts, es sei denn, es handelt
+    sich um ein Arzneimittel im Sinne des § 2 Absatz 1 Nummer 2 Buchstabe
+    b des Arzneimittelgesetzes,
 
 
 2.  kosmetische Mittel im Sinne des § 2 Absatz 5 des Lebensmittel-,
@@ -368,8 +376,8 @@ bestimmt sind.
 20. Benannte Stelle ist eine für die Durchführung von Prüfungen und
     Erteilung von Bescheinigungen im Zusammenhang mit
     Konformitätsbewertungsverfahren nach Maßgabe der Rechtsverordnung nach
-    § 37 Abs. 1 vorgesehene Stelle, die der Kommission der Europäischen
-    Union und den Vertragsstaaten des Abkommens über den Europäischen
+    § 37 Abs. 1 vorgesehene Stelle, die der Europäischen Kommission und
+    den Vertragsstaaten des Abkommens über den Europäischen
     Wirtschaftsraum von einem Vertragsstaat des Abkommens über den
     Europäischen Wirtschaftsraum benannt worden ist.
 
@@ -436,10 +444,9 @@ bestimmt sind.
 
 
 
-26. Einführer im Sinne dieses Gesetzes ist jede in der Europäischen
-    Gemeinschaft ansässige natürliche oder juristische Person, die ein
-    Medizinprodukt aus einem Drittstaat in der Europäischen Gemeinschaft
-    in Verkehr bringt.
+26. Einführer im Sinne dieses Gesetzes ist jede in der Europäischen Union
+    ansässige natürliche oder juristische Person, die ein Medizinprodukt
+    aus einem Drittstaat in der Europäischen Union in Verkehr bringt.
 
 
 
@@ -816,23 +823,22 @@ für Wirtschaft und Technologie die von der zuständigen Behörde für die
 Durchführung von Aufgaben im Zusammenhang mit der
 Konformitätsbewertung nach Maßgabe der Rechtsverordnung nach § 37 Abs.
 1 benannten Stellen und deren Aufgabengebiete mit, die von diesem an
-die Kommission der Europäischen Gemeinschaften und die anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-weitergeleitet werden. Bei der zuständigen Behörde kann ein Antrag auf
-Benennung als Benannte Stelle gestellt werden. Voraussetzung für die
-Benennung ist, dass die Befähigung der Stelle zur Wahrnehmung ihrer
-Aufgaben sowie die Einhaltung der Kriterien des Anhangs 8 der
-Richtlinie 90/385/EWG, des Anhangs XI der Richtlinie 93/42/EWG oder
-des Anhangs IX der Richtlinie 98/79/EG entsprechend den Verfahren, für
-die sie benannt werden soll, durch die zuständige Behörde in einem
-Benennungsverfahren festgestellt wurden. Von den Stellen, die den
-Kriterien entsprechen, welche in den zur Umsetzung der einschlägigen
-harmonisierten Normen erlassenen einzelstaatlichen Normen festgelegt
-sind, wird angenommen, dass sie den einschlägigen Kriterien
-entsprechen. Die Benennung kann unter Auflagen erteilt werden und ist
-zu befristen. Erteilung, Ablauf, Rücknahme, Widerruf und Erlöschen der
-Benennung sind dem Bundesministerium für Gesundheit unverzüglich
-anzuzeigen.
+die Europäische Kommission und die anderen Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum weitergeleitet werden.
+Bei der zuständigen Behörde kann ein Antrag auf Benennung als Benannte
+Stelle gestellt werden. Voraussetzung für die Benennung ist, dass die
+Befähigung der Stelle zur Wahrnehmung ihrer Aufgaben sowie die
+Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG, des
+Anhangs XI der Richtlinie 93/42/EWG oder des Anhangs IX der Richtlinie
+98/79/EG entsprechend den Verfahren, für die sie benannt werden soll,
+durch die zuständige Behörde in einem Benennungsverfahren festgestellt
+wurden. Von den Stellen, die den Kriterien entsprechen, welche in den
+zur Umsetzung der einschlägigen harmonisierten Normen erlassenen
+einzelstaatlichen Normen festgelegt sind, wird angenommen, dass sie
+den einschlägigen Kriterien entsprechen. Die Benennung kann unter
+Auflagen erteilt werden und ist zu befristen. Erteilung, Ablauf,
+Rücknahme, Widerruf und Erlöschen der Benennung sind dem
+Bundesministerium für Gesundheit unverzüglich anzuzeigen.
 
 (2) Die zuständige Behörde überwacht die Einhaltung der in Absatz 1
 für Benannte Stellen festgelegten Verpflichtungen und Anforderungen.
@@ -855,12 +861,11 @@ verlangen. Das Betretungsrecht erstreckt sich auch auf Grundstücke des
 Herstellers, soweit die Überwachung dort erfolgt. § 26 Abs. 4 und 5
 gilt entsprechend.
 
-(3) Stellen, die der Kommission der Europäischen Gemeinschaften und
-den anderen Mitgliedstaaten der Europäischen Gemeinschaften auf Grund
-eines Rechtsaktes des Rates oder der Kommission der Europäischen
-Gemeinschaften von einem Vertragsstaat des Abkommens über den
-Europäischen Wirtschaftsraum mitgeteilt wurden, sind Benannten Stellen
-nach Absatz 1 gleichgestellt.
+(3) Stellen, die der Europäischen Kommission und den anderen
+Mitgliedstaaten der Europäischen Union auf Grund eines Rechtsaktes des
+Rates oder der Europäischen Kommission von einem Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum mitgeteilt wurden,
+sind Benannten Stellen nach Absatz 1 gleichgestellt.
 
 (4) Die deutschen Benannten Stellen werden mit ihren jeweiligen
 Aufgaben und ihrer Kennnummer von der zuständigen Behörde auf ihrer
@@ -882,9 +887,10 @@ Drittstaaten ist eine natürliche oder juristische Person oder eine
 rechtsfähige Personengesellschaft befugt, Aufgaben der
 Konformitätsbewertung im Bereich der Medizinprodukte für den oder die
 genannten Drittstaaten im Rahmen des jeweiligen Abkommens der
-Europäischen Gemeinschaft mit dritten Staaten oder Organisationen nach
-Artikel 228 des EG-Vertrages (Drittland-Abkommen) wahrzunehmen. § 15
-Absatz 1 und 2 gilt entsprechend.
+Europäischen Gemeinschaft oder der Europäischen Union mit dritten
+Staaten oder Organisationen nach Artikel 216 des Vertrages über die
+Arbeitsweise der Europäischen Union wahrzunehmen. § 15 Absatz 1 und 2
+gilt entsprechend.
 
 (2) Grundlage für die Benennung als Konformitätsbewertungsstelle für
 Drittstaaten ist ein von der zuständigen Behörde durchgeführtes
@@ -923,11 +929,11 @@ Widerruf unverzüglich dem Bundesministerium für Gesundheit sowie den
 anderen zuständigen Behörden in Deutschland unter Angabe der Gründe
 und der für notwendig erachteten Maßnahmen mit. Das Bundesministerium
 für Gesundheit unterrichtet darüber unverzüglich das Bundesministerium
-für Wirtschaft und Technologie, das unverzüglich die Kommission der
-Europäischen Gemeinschaften und die anderen Vertragsstaaten des
-Abkommens über den Europäischen Wirtschaftsraum unterrichtet.
-Erlöschen, Rücknahme und Widerruf einer Benennung sind von der
-zuständigen Behörde auf deren Internetseite bekannt zu machen.
+für Wirtschaft und Technologie, das unverzüglich die Europäische
+Kommission und die anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum unterrichtet. Erlöschen, Rücknahme und
+Widerruf einer Benennung sind von der zuständigen Behörde auf deren
+Internetseite bekannt zu machen.
 
 (5) Die Absätze 1, 2 und 4 gelten für Konformitätsbewertungsstellen
 für Drittstaaten entsprechend.
@@ -998,9 +1004,9 @@ Entscheidung nicht möglich ist.
 Information unterrichtet über eingeschränkte, verweigerte,
 ausgesetzte, wieder eingesetzte und zurückgezogene Bescheinigungen
 elektronisch die für den Verantwortlichen nach § 5 zuständige Behörde,
-die zuständige Behörde des Bundes, die Kommission der Europäischen
-Gemeinschaften, die anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum und gewährt den Benannten Stellen eine
+die zuständige Behörde des Bundes, die Europäische Kommission, die
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und gewährt den Benannten Stellen eine
 Zugriffsmöglichkeit auf diese Informationen.
 
 
@@ -1616,9 +1622,9 @@ anzuzeigen.
 (5) Die zuständige Behörde übermittelt die Daten gemäß den Absätzen 1
 bis 4 dem Deutschen Institut für medizinische Dokumentation und
 Information zur zentralen Verarbeitung und Nutzung nach § 33. Dieses
-unterrichtet auf Anfrage die Kommission der Europäischen
-Gemeinschaften und die anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum über Anzeigen nach den Absätzen 1 bis 4.
+unterrichtet auf Anfrage die Europäische Kommission und die anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+über Anzeigen nach den Absätzen 1 bis 4.
 
 (6) Näheres zu den Absätzen 1 bis 5 regelt die Rechtsverordnung nach §
 37 Abs. 8.
@@ -1637,23 +1643,26 @@ Sponsoren und Personen, die die in Satz 1 genannten Tätigkeiten
 geschäftsmäßig ausüben, sowie für Personen und Personenvereinigungen,
 die Medizinprodukte für andere sammeln.
 
-(2) Die zuständige Behörde trifft die zur Beseitigung festgestellter
-oder zur Verhütung künftiger Verstöße notwendigen Maßnahmen. Sie prüft
-in angemessenem Umfang unter besonderer Berücksichtigung möglicher
-Risiken, ob die Voraussetzungen zum Inverkehrbringen, zur
-Inbetriebnahme, zum Errichten, Betreiben und Anwenden erfüllt sind.
-Sie kann bei hinreichenden Anhaltspunkten für eine unrechtmäßige CE-
+(2) Die zuständige Behörde hat sich davon zu überzeugen, dass die
+Vorschriften über Medizinprodukte und die Werbung auf dem Gebiet des
+Heilwesens beachtet werden. Sie prüft in angemessenem Umfang unter
+besonderer Berücksichtigung möglicher Risiken, ob die Voraussetzungen
+zum Inverkehrbringen, zur Inbetriebnahme, zum Errichten, Betreiben und
+Anwenden erfüllt sind. Satz 2 gilt entsprechend für die Überwachung
+von klinischen Prüfungen und von Leistungsbewertungsprüfungen sowie
+für die Überwachung der Aufbereitung von Medizinprodukten, die
+bestimmungsgemäß keimarm oder steril angewendet werden. Die zuständige
+Behörde ergreift die Maßnahmen, die notwendig sind, um festgestellte
+Verstöße zu beseitigen und künftigen Verstößen vorzubeugen. Sie kann
+bei hinreichenden Anhaltspunkten für eine unrechtmäßige CE-
 Kennzeichnung oder eine von dem Medizinprodukt ausgehende Gefahr
 verlangen, dass der Verantwortliche im Sinne von § 5 das
-Medizinprodukt von einem Sachverständigen überprüfen lässt. Satz 2
-gilt entsprechend für die Überwachung von klinischen Prüfungen,
-Leistungsbewertungsprüfungen und der Aufbereitung von
-Medizinprodukten, die bestimmungsgemäß keimarm oder steril zur
-Anwendung kommen. Bei einem In-vitro-Diagnostikum nach § 3 Nr. 6 kann
-sie zu jedem Zeitpunkt innerhalb von zwei Jahren nach der Anzeige nach
-§ 25 Abs. 3 und in begründeten Fällen die Vorlage eines Berichts über
-die Erkenntnisse aus den Erfahrungen mit dem neuen In-vitro-
-Diagnostikum nach dessen erstmaligem Inverkehrbringen verlangen.
+Medizinprodukt von einem Sachverständigen überprüfen lässt. Bei einem
+In-vitro-Diagnostikum nach § 3 Nummer 6 kann sie zu jedem Zeitpunkt
+innerhalb von zwei Jahren nach der Anzeige nach § 25 Absatz 3 und
+danach in begründeten Fällen die Vorlage eines Berichts über die
+Erkenntnisse aus den Erfahrungen mit dem neuen In-vitro-Diagnostikum
+nach dessen erstmaligem Inverkehrbringen verlangen.
 
 (2a) Die zuständigen Behörden müssen über die zur Erfüllung ihrer
 Aufgaben notwendige personelle und sachliche Ausstattung verfügen
@@ -1661,7 +1670,7 @@ sowie für eine dem allgemeinen anerkannten Stand der Wissenschaft und
 Technik entsprechende regelmäßige Fortbildung der überwachenden
 Mitarbeiter sorgen.
 
-(2b) Die Einzelheiten zu den Absätzen 2 und 2a, insbesondere zur
+(2b) Die Einzelheiten zu den Absätzen 1 bis 2a, insbesondere zur
 Durchführung und Qualitätssicherung der Überwachung, regelt eine
 allgemeine Verwaltungsvorschrift nach § 37a.
 
@@ -1676,7 +1685,7 @@ allgemeine Verwaltungsvorschrift nach § 37a.
 
 
 2.  Medizinprodukte zu prüfen, insbesondere hierzu in Betrieb nehmen zu
-    lassen, sowie Proben zu entnehmen,
+    lassen, sowie Proben unentgeltlich zu entnehmen,
 
 
 3.  Unterlagen über die Entwicklung, Herstellung, Prüfung, klinische
@@ -1692,9 +1701,6 @@ allgemeine Verwaltungsvorschrift nach § 37a.
 
 
 
-Für Proben, die nicht bei dem Verantwortlichen nach § 5 entnommen
-werden, ist eine angemessene Entschädigung zu leisten, soweit nicht
-ausdrücklich darauf verzichtet wird.
 
 (4) Wer der Überwachung nach Absatz 1 unterliegt, hat Maßnahmen nach
 Absatz 3 Satz 1 Nr. 1 bis 3 zu dulden und die beauftragten Personen
@@ -1736,9 +1742,9 @@ Medizinproduktes einzuschränken, von der Einhaltung bestimmter
 Auflagen abhängig zu machen, zu untersagen oder zu veranlassen, dass
 das Medizinprodukt vom Markt genommen wird. Sie unterrichtet davon die
 übrigen zuständigen Behörden in Deutschland und das Bundesministerium
-für Gesundheit, das die Kommission der Europäischen Gemeinschaften und
-die anderen Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum hiervon unterrichtet.
+für Gesundheit, das die Europäische Kommission und die anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+hiervon unterrichtet.
 
 (2) Trägt ein Produkt unzulässigerweise die CE-Kennzeichnung als
 Medizinprodukt, trifft die zuständige Behörde die erforderlichen
@@ -1862,12 +1868,12 @@ das Informationssystem nach § 33.
 
 (3) Die Behörde nach Absatz 1 wirkt bei der Erfüllung der dort
 genannten Aufgaben mit den Dienststellen der anderen Vertragsstaaten
-des Abkommens über den Europäischen Wirtschaftsraum und der Kommission
-der Europäischen Gemeinschaften, der Weltgesundheitsorganisation, den
-für die Gesundheit und den Arbeitsschutz zuständigen Behörden anderer
-Staaten, den für die Gesundheit, den Arbeitsschutz, den Strahlenschutz
-und das Mess- und Eichwesen zuständigen Behörden der Länder und den
-anderen fachlich berührten Bundesoberbehörden, Benannten Stellen in
+des Abkommens über den Europäischen Wirtschaftsraum und der
+Europäischen Kommission, der Weltgesundheitsorganisation, den für die
+Gesundheit und den Arbeitsschutz zuständigen Behörden anderer Staaten,
+den für die Gesundheit, den Arbeitsschutz, den Strahlenschutz und das
+Mess- und Eichwesen zuständigen Behörden der Länder und den anderen
+fachlich berührten Bundesoberbehörden, Benannten Stellen in
 Deutschland, den zuständigen Trägern der gesetzlichen
 Unfallversicherung, dem Medizinischen Dienst des Spitzenverbandes Bund
 der Krankenkassen, den einschlägigen Fachgesellschaften, den
@@ -2058,10 +2064,10 @@ insbesondere folgende Aufgaben:
 
 
 4.  Informationsbeschaffung und Übermittlung von Daten an Datenbanken
-    anderer Mitgliedstaaten und Institutionen der Europäischen
-    Gemeinschaften und anderer Vertragsstaaten des Abkommens über den
-    Europäischen Wirtschaftsraum, insbesondere im Zusammenhang mit der
-    Erkennung und Abwehr von Risiken in Verbindung mit Medizinprodukten,
+    anderer Mitgliedstaaten und Institutionen der Europäischen Union und
+    anderer Vertragsstaaten des Abkommens über den Europäischen
+    Wirtschaftsraum, insbesondere im Zusammenhang mit der Erkennung und
+    Abwehr von Risiken in Verbindung mit Medizinprodukten,
 
 
 5.  Aufbau und Unterhaltung von Zugängen zu Datenbanken, die einen Bezug
@@ -2113,9 +2119,9 @@ einheitliche Anwendung der zur Umsetzung der Richtlinien 90/385/EWG,
 ### § 37 Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, zur
-Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch
-Rechtsverordnung die Voraussetzungen für die Erteilung der
-Konformitätsbescheinigungen, die Durchführung der
+Umsetzung von Rechtsakten der Europäischen Gemeinschaft oder der
+Europäischen Union durch Rechtsverordnung die Voraussetzungen für die
+Erteilung der Konformitätsbescheinigungen, die Durchführung der
 Konformitätsbewertungsverfahren und ihre Zuordnung zu Klassen von
 Medizinprodukten sowie Sonderverfahren für Systeme und
 Behandlungseinheiten zu regeln.
@@ -2294,8 +2300,9 @@ Rechtsverordnung
 Rechtsverordnung ein bestimmtes Medizinprodukt oder eine Gruppe von
 Medizinprodukten aus Gründen des Gesundheitsschutzes und der
 Sicherheit oder im Interesse der öffentlichen Gesundheit gemäß Artikel
-30 des EG-Vertrages zu verbieten oder deren Bereitstellung zu
-beschränken oder besonderen Bedingungen zu unterwerfen.
+36 des Vertrages über die Arbeitsweise der Europäischen Union zu
+verbieten oder deren Bereitstellung zu beschränken oder besonderen
+Bedingungen zu unterwerfen.
 
 (7) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung zur Durchführung der Aufgaben im Zusammenhang mit dem
@@ -2304,15 +2311,15 @@ Sicherheitsplan für Medizinprodukte zu erstellen. In diesem werden
 insbesondere die Aufgaben und die Zusammenarbeit der beteiligten
 Behörden und Stellen sowie die Einschaltung der Hersteller und
 Bevollmächtigten, Einführer, Inverkehrbringer und sonstiger Händler,
-der Anwender und Betreiber, der Kommission der Europäischen
-Gemeinschaften sowie der anderen Vertragsstaaten des Abkommens über
-den Europäischen Wirtschaftsraum näher geregelt und die jeweils zu
-ergreifenden Maßnahmen bestimmt. In dem Sicherheitsplan können ferner
-Einzelheiten zur Risikobewertung und deren Durchführung,
-Mitwirkungspflichten der Verantwortlichen nach § 5 Satz 1 und 2,
-sonstiger Händler, der Anwender, Betreiber und Instandhalter,
-Einzelheiten des Meldeverfahrens und deren Bekanntmachung, Melde-,
-Berichts-, Aufzeichnungs- und Aufbewahrungspflichten, Prüfungen und
+der Anwender und Betreiber, der Europäischen Kommission sowie der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum näher geregelt und die jeweils zu ergreifenden
+Maßnahmen bestimmt. In dem Sicherheitsplan können ferner Einzelheiten
+zur Risikobewertung und deren Durchführung, Mitwirkungspflichten der
+Verantwortlichen nach § 5 Satz 1 und 2, sonstiger Händler, der
+Anwender, Betreiber und Instandhalter, Einzelheiten des
+Meldeverfahrens und deren Bekanntmachung, Melde-, Berichts-,
+Aufzeichnungs- und Aufbewahrungspflichten, Prüfungen und
 Produktionsüberwachungen, Einzelheiten der Durchführung von Maßnahmen
 zur Risikoabwehr und deren Überwachung sowie Informationspflichten,
 -mittel und -wege geregelt werden. Ferner können in dem
@@ -2340,11 +2347,11 @@ Amtshandlung veranlasst hat.
 (10) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung Regelungen zur Erfüllung von Verpflichtungen aus
 zwischenstaatlichen Vereinbarungen oder zur Durchführung von
-Rechtsakten des Rates oder der Kommission der Europäischen
-Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen,
-insbesondere sicherheitstechnische und medizinische Anforderungen, die
-Herstellung und sonstige Voraussetzungen des Inverkehrbringens, des
-Betreibens, des Anwendens, des Ausstellens, insbesondere Prüfungen,
+Rechtsakten des Rates oder der Europäischen Kommission, die
+Sachbereiche dieses Gesetzes betreffen, insbesondere
+sicherheitstechnische und medizinische Anforderungen, die Herstellung
+und sonstige Voraussetzungen des Inverkehrbringens, des Betreibens,
+des Anwendens, des Ausstellens, insbesondere Prüfungen,
 Produktionsüberwachung, Bescheinigungen, Kennzeichnung, Aufbewahrungs-
 und Mitteilungspflichten, behördliche Maßnahmen sowie Anforderungen an
 die Benennung und Überwachung von Benannten Stellen, zu treffen.
@@ -2363,17 +2370,18 @@ Bundesministerium des Innern, soweit der Datenschutz betroffen ist.
 (12) Die Rechtsverordnungen nach den Absätzen 6 und 10 bedürfen nicht
 der Zustimmung des Bundesrates bei Gefahr im Verzug oder wenn ihr
 unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der
-Organe der Europäischen Gemeinschaft erforderlich ist. Die
-Rechtsverordnungen nach den Absätzen 1 bis 3 können ohne Zustimmung
-des Bundesrates erlassen werden, wenn unvorhergesehene gesundheitliche
-Gefährdungen dies erfordern. Soweit die Rechtsverordnung nach Absatz 9
-Kosten von Bundesbehörden betrifft, bedarf sie nicht der Zustimmung
-des Bundesrates. Die Rechtsverordnungen nach den Sätzen 1 und 2
-bedürfen nicht des Einvernehmens mit den jeweils beteiligten
-Bundesministerien. Sie treten spätestens sechs Monate nach ihrem
-Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung
-des Bundesrates verlängert werden. Soweit der Strahlenschutz betroffen
-ist, bleibt Absatz 11 unberührt.
+Europäischen Gemeinschaft oder der Europäischen Union erforderlich
+ist. Die Rechtsverordnungen nach den Absätzen 1 bis 3 können ohne
+Zustimmung des Bundesrates erlassen werden, wenn unvorhergesehene
+gesundheitliche Gefährdungen dies erfordern. Soweit die
+Rechtsverordnung nach Absatz 9 Kosten von Bundesbehörden betrifft,
+bedarf sie nicht der Zustimmung des Bundesrates. Die
+Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht des
+Einvernehmens mit den jeweils beteiligten Bundesministerien. Sie
+treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
+Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert
+werden. Soweit der Strahlenschutz betroffen ist, bleibt Absatz 11
+unberührt.
 
 
 ### § 37a Allgemeine Verwaltungsvorschriften
@@ -2418,9 +2426,9 @@ Gesundheit und, soweit der Arbeitsschutz betroffen ist, im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales in
 Einzelfällen Ausnahmen von diesem Gesetz und auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen zulassen, wenn Rechtsakte der
-Europäischen Gemeinschaften dem nicht entgegenstehen und dies zur
-Durchführung der besonderen Aufgaben gerechtfertigt ist und der Schutz
-der Gesundheit gewahrt bleibt.
+Europäischen Gemeinschaft oder der Europäischen Union dem nicht
+entgegenstehen und dies zur Durchführung der besonderen Aufgaben
+gerechtfertigt ist und der Schutz der Gesundheit gewahrt bleibt.
 
 
 ## Achter Abschnitt - Straf- und Bußgeldvorschriften

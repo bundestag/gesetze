@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710 (3973) (2011 I 363)
 
 Zuletzt geändert durch
-:   Art. 7 G v. 12.4.2012 I 579
+:   Art. 12a G v. 19.10.2012 I 2192
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -5338,12 +5338,16 @@ Bundesvertreterversammlung der Deutschen Rentenversicherung Bund gemäß
 Pflegeversicherung haben den vom Vorstand aufgestellten Haushaltsplan
 spätestens am 1. November vor Beginn des Kalenderjahrs, für das er
 gelten soll, der Aufsichtsbehörde vorzulegen, wenn diese es verlangt.
-Die Aufsichtsbehörde kann den Haushaltsplan oder einzelne Ansätze
-innerhalb von einem Monat nach Vorlage beanstanden, soweit gegen
-Gesetz oder sonstiges für den Träger maßgebendes Recht verstoßen wird,
-insbesondere soweit dadurch die wirtschaftliche Leistungsfähigkeit des
-Versicherungsträgers zur Erfüllung seiner Verpflichtungen gefährdet
-wird.
+Auf Verlangen der Aufsichtsbehörde ist der Haushaltsplan zusätzlich in
+einer maschinell auswertbaren Form zu übermitteln. Näheres hierzu,
+insbesondere zur Form und Struktur der Datenmeldung, wird von den
+Aufsichtsbehörden mit dem Spitzenverband Bund der Krankenkassen
+vereinbart. Die Aufsichtsbehörde kann den Haushaltsplan oder einzelne
+Ansätze innerhalb von einem Monat nach Vorlage beanstanden, soweit
+gegen Gesetz oder sonstiges für den Träger maßgebendes Recht verstoßen
+wird, insbesondere soweit dadurch die wirtschaftliche
+Leistungsfähigkeit des Versicherungsträgers zur Erfüllung seiner
+Verpflichtungen gefährdet wird.
 
 
 #### § 71 Haushaltsplan der Deutschen Rentenversicherung Knappschaft-Bahn-See

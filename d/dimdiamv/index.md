@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 140
 
-Geändert durch
-:   Art. 2 Abs. 12 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 12 G v. 19.10.2012 I 2192
 
 [^F772944_01_BJNR014000010]:     § 3 Absatz 2 dient der Umsetzung von Artikel 40 Absatz 4 und Artikel
     111 Absatz 6 und 7 der Richtlinie 2001/83/EG des Europäischen
@@ -111,8 +111,9 @@ gesetzlicher Bestimmungen gespeichert:
     d)  Erlaubnisse nach § 52a Absatz 1 des Arzneimittelgesetzes,
 
 
-    e)  Zertifikate über die Gute Herstellungspraxis nach § 64 Absatz 3 des
-        Arzneimittelgesetzes,
+    e)  Inspektionsergebnisse nach § 64 Absatz 3e und die Ausstellung,
+        Versagung, Rücknahme oder den Widerruf von Zertifikaten nach § 64
+        Absatz 3g,
 
 
     f)  Anzeigen nach § 67 Absatz 1 und 5 des Arzneimittelgesetzes von
@@ -162,18 +163,40 @@ Wahrnehmung der Aufgaben des Deutschen Instituts für Medizinische
 Dokumentation und Information oder der in § 3 Absatz 1 genannten
 Behörden erforderlich ist.
 
-(3) Das Deutsche Institut für Medizinische Dokumentation und
-Information stellt ein für die Öffentlichkeit allgemein zugängliches
-Informationssystem bereit. Es enthält Daten über Produktmerkmale von
-Arzneimitteln sowie Informationen, die mit Arzneimitteln oder deren
-Inverkehrbringen in Zusammenhang stehen. Hierzu zählen insbesondere
-Angaben über den Zulassungsstatus, die Kennzeichnung, die
-Packungsbeilage und die Fachinformation sowie Beurteilungsberichte
-über das betreffende Arzneimittel, einschließlich des Namens und der
-Anschrift der jeweils verantwortlichen Personen oder Unternehmen, die
-das Arzneimittel in den Verkehr bringen. Die Vorschriften zum Schutz
+(3) Das für die Öffentlichkeit allgemein zugängliche
+Informationssystem für Arzneimittel enthält Daten über Produktmerkmale
+von Arzneimitteln sowie Informationen, die mit Arzneimitteln oder
+deren Inverkehrbringen in Zusammenhang stehen. Hierzu zählen
+insbesondere Angaben über den Zulassungsstatus, die Packungsbeilage
+und die Fachinformation, den öffentlichen Beurteilungsbericht sowie
+für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind,
+Zusammenfassungen von Risikomanagement-Plänen, Informationen über
+Auflagen zusammen mit Fristen und Zeitpunkten für die Erfüllung, die
+Liste der nach Artikel 23 der Verordnung (EG) Nr. 726/2004 zusätzlich
+überwachten Arzneimittel sowie den Namen und die Anschrift der jeweils
+verantwortlichen Personen oder Unternehmen, die das Arzneimittel in
+den Verkehr bringen. Das Informationssystem enthält auch Informationen
+über die unterschiedlichen Wege für die Meldung von Verdachtsfällen
+von Nebenwirkungen von Arzneimitteln, die zur Anwendung bei Menschen
+bestimmt sind, an die zuständigen Behörden durch Angehörige der
+Gesundheitsberufe und Patienten sowie die in Artikel 25 der Verordnung
+(EG) Nr. 726/2004 genannten Internetformulare für die Meldung von
+Verdachtsfällen von Nebenwirkungen. Die Vorschriften zum Schutz
 personenbezogener Daten, zum Schutz des geistigen Eigentums und zum
 Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
+
+(4) Das Deutsche Institut für Medizinische Dokumentation und
+Information stellt für Arzneimittel, die zur Anwendung bei Menschen
+bestimmt sind, ein allgemein zugängliches Internetportal zur Verfügung
+mit Informationen über die rechtlichen Rahmenbedingungen des
+Versandhandels, einschließlich des Hinweises, dass in den
+Mitgliedstaaten der Europäischen Union Unterschiede im Hinblick auf
+die Einstufung und die Abgabe von Arzneimitteln bestehen können, über
+das gemeinsame Versandhandelslogo, die Liste der Unternehmen, die
+Arzneimittel im Wege des Versandhandels über das Internet anbieten,
+mit Angabe der jeweiligen Internetportale sowie über die Risiken, die
+mit dem illegalen Versandhandel von Arzneimitteln über das Internet
+verbunden sind.
 
 
 ## § 2 Datenübermittlung an das Deutsche Institut für Medizinische Dokumentation und Information
@@ -258,9 +281,11 @@ erforderlich ist.
 
 (2) Das Deutsche Institut für Medizinische Dokumentation und
 Information übermittelt der Europäischen Arzneimittel-Agentur die
-Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a, e und g. Die Daten nach
-§ 1 Absatz 1 Nummer 2 Buchstabe a werden nicht übermittelt, soweit die
-Herstellungserlaubnis nur für Fütterungsarzneimittel erteilt wurde.
+Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a, d, e, g und f im
+Hinblick auf die Anzeigen von Wirkstoffimporteuren, -herstellern und
+-händlern. Die Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a werden
+nicht übermittelt, soweit die Herstellungserlaubnis nur für
+Fütterungsarzneimittel erteilt wurde.
 
 (3) Dem Deutschen Institut für Medizinische Dokumentation und
 Information können im Rahmen seiner gesetzlichen Zuständigkeit weitere
