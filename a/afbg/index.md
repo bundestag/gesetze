@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 623
 
 Neugefasst durch
-:   Bek. v. 18.6.2009 I 1322, (1794)
-
-Zuletzt geändert durch
-:   Art. 32 G v. 20.12.2011 I 2854
+:   Bek. v. 8.10.2012 I 2126
 
 
 ## Erster Abschnitt - Förderungsfähige Maßnahmen
@@ -218,7 +215,7 @@ rechtlichen Träger veranstaltet wird und die Voraussetzungen des § 2
 erfüllt werden. Die Mindestdauer nach § 2 Absatz 3 und die
 Förderungshöchstdauer nach § 11 Absatz 1 sind nach der Anzahl der
 durchschnittlich für die Bearbeitung der Fernlehrbriefe benötigten
-Zeitstunden und der Anzahl der für Präsensphasen vorgesehenen
+Zeitstunden und der Anzahl der für Präsenzphasen vorgesehenen
 Unterrichtsstunden zu bemessen.
 
 
@@ -473,7 +470,7 @@ absolviert und er oder sie sich um einen erfolgreichen Abschluss
 bemüht. Er oder sie muss bis zum letzten Unterrichtstag der Maßnahme
 die Voraussetzungen für die Zulassung zur Prüfung erfüllen können. Der
 Teilnehmer oder die Teilnehmerin ist verpflichtet, nach der Hälfte der
-Laufzeit der Maßnahme, spätestens nach sechs Monaten einen Nachweis
+Laufzeit der Maßnahme, spätestens nach sechs Monaten, einen Nachweis
 des Bildungsträgers über die regelmäßige Teilnahme an der Maßnahme zu
 erbringen. Bei längeren Maßnahmen, Maßnahmen mit mehreren
 Maßnahmeabschnitten oder in besonderen Fällen können darüber hinaus
@@ -535,10 +532,11 @@ Kalendermonaten gefördert (Förderungshöchstdauer). Abweichend von Satz
     lebenden Angehörigen übernommen werden kann, oder
 
 
-2.  andere besondere Umstände des Einzelfalles dies rechtfertigen oder
+2.  andere besondere Umstände des Einzelfalles
 
 
 
+dies rechtfertigen oder
 
 3.  die längere Dauer der Vorbereitung auf das Fortbildungsziel rechtlich
     vorgeschrieben ist.
@@ -631,8 +629,8 @@ Darlehensvertrag muss die in den Absätzen 2 bis 7 und § 13b Absatz 1
 bis 3 genannten Bedingungen enthalten.
 
 (2) Das Darlehen nach Absatz 1 ist zu verzinsen. Als Zinssatz gilt
-jeweils für sechs Monate - vorbehaltlich des Gleichbleibens der
-Rechtslage - der European Interbank Offered Rate (EURIBOR) für die
+jeweils für sechs Monate – vorbehaltlich des Gleichbleibens der
+Rechtslage – der European Interbank Offered Rate (EURIBOR) für die
 Geldbeschaffung von ersten Adressaten in den Teilnehmerstaaten der
 Europäischen Währungsunion mit einer Laufzeit von sechs Monaten nach
 dem Stand vom 1. April und 1. Oktober, zuzüglich eines
@@ -644,8 +642,8 @@ Darlehensnehmers oder der Darlehensnehmerin zum 1. April oder 1.
 Oktober eines Jahres für die restliche Laufzeit des Darlehens,
 längstens für zehn Jahre, ein Festzins zu vereinbaren. Die
 Festzinsvereinbarung muss einen Monat im Voraus verlangt werden. Im
-Falle des Satzes 4 gilt - vorbehaltlich des Gleichbleibens der
-Rechtslage - der Zinssatz für Bankschuldverschreibungen mit einer der
+Falle des Satzes 4 gilt – vorbehaltlich des Gleichbleibens der
+Rechtslage – der Zinssatz für Bankschuldverschreibungen mit einer der
 Dauer der Zinsfestschreibung entsprechenden Laufzeit, zuzüglich eines
 Verwaltungskostenaufschlags in Höhe von bis zu 1 vom Hundert. Ab
 Beginn der Rückzahlungspflicht nach Absatz 5 erhöhen sich die
@@ -673,7 +671,7 @@ Darlehensnehmerin eine Vereinbarung unter Berücksichtigung der
 Fälligkeit der Lehrgangsgebühren.
 
 (5) Das Darlehen ist nach Ablauf der Karenzzeit innerhalb von zehn
-Jahren - vorbehaltlich des Gleichbleibens der Rechtslage - in
+Jahren – vorbehaltlich des Gleichbleibens der Rechtslage – in
 monatlichen Raten von grundsätzlich mindestens 128 Euro
 zurückzuzahlen. Die Kreditanstalt für Wiederaufbau kann die Zahlung
 für jeweils drei aufeinanderfolgende Monate in einem Betrag geltend
@@ -687,8 +685,8 @@ kann auch in Teilbeträgen von vollen 500 Euro vorzeitig zurückgezahlt
 werden.
 
 (6) 30 Tage vor dem Beginn der Rückzahlung teilt die Kreditanstalt für
-Wiederaufbau dem Darlehensnehmer oder der Darlehensnehmerin -
-unbeschadet der Fälligkeit der ersten Rückzahlungsrate nach Absatz 3 -
+Wiederaufbau dem Darlehensnehmer oder der Darlehensnehmerin –
+unbeschadet der Fälligkeit der ersten Rückzahlungsrate nach Absatz 3 –
 die Höhe der Darlehensschuld, die zu diesem Zeitpunkt geltende
 Zinsregelung, die Höhe der monatlichen Rückzahlungsrate und den
 Tilgungszeitraum mit.
@@ -957,25 +955,13 @@ dieses Gesetz nichts anderes bestimmt.
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
 
-*    *   1.
-
-    *   für den Teilnehmer oder die Teilnehmerin selbst
-
-    *   35 800 Euro,
+1.  für den Teilnehmer oder die Teilnehmerin selbst 35 800 Euro,
 
 
-*    *   2.
-
-    *   für den jeweiligen Ehegatten oder Lebenspartner
-
-    *   1 800 Euro,
+2.  für den jeweiligen Ehegatten oder Lebenspartner 1 800 Euro,
 
 
-*    *   3.
-
-    *   für jedes Kind des Teilnehmers oder der Teilnehmerin
-
-    *   1 800 Euro.
+3.  für jedes Kind des Teilnehmers oder der Teilnehmerin 1 800 Euro.
 
 
 
@@ -1004,7 +990,7 @@ verwaltet und eingezogen.
 (1) Über die Förderungsleistung einschließlich der Höhe der
 Darlehenssumme entscheidet die zuständige Behörde auf schriftlichen
 Antrag. Der Maßnahmebeitrag muss spätestens bis zum Ende der Maßnahme,
-bei mehreren in sich selbständigen Abschnitten bis zum Ende des
+bei mehreren in sich selbstständigen Abschnitten bis zum Ende des
 jeweiligen Maßnahmeabschnittes beantragt werden.
 
 (2) Soweit für die Erhebung der für Entscheidungen nach diesem Gesetz
@@ -1186,8 +1172,6 @@ zuständige Behörde ist an die Entscheidung nicht mehr gebunden, wenn
 mit der Maßnahme nicht binnen eines Jahres nach Antragstellung
 begonnen wird.
 
-(5) (weggefallen)
-
 
 ### § 24 Zahlweise
 
@@ -1234,12 +1218,12 @@ Unterhaltsbeitrages oder des Maßnahmebeitrags um wenigstens 16 Euro
 führt. Nicht als Änderung im Sinne des Satzes 1 gelten
 Regelanpassungen gesetzlicher Renten und Versorgungsbezüge. § 48 des
 Zehnten Buches Sozialgesetzbuch findet keine Anwendung; Erstattungen
-richten sich nach § 50 des Zehnten Bundes Sozialgesetzbuch. Abweichend
+richten sich nach § 50 des Zehnten Buches Sozialgesetzbuch. Abweichend
 von Satz 1 wird der Bescheid vom Beginn des Bewilligungszeitraums
 geändert, wenn in den Fällen des § 22 Absatz 2 und des § 24 Absatz 3
 des Bundesausbildungsförderungsgesetzes eine Änderung des Einkommens
 des Teilnehmers oder der Teilnehmerin, des jeweiligen Ehegatten oder
-Lebenspartners oder in den Fällen des § 25 Absatz 6
+Lebenspartners oder in den Fällen des § 25 Absatz 6 des
 Bundesausbildungsförderungsgesetzes eine Änderung des Freibetrags
 eingetreten ist.
 
@@ -1280,7 +1264,7 @@ folgende Erhebungsmerkmale:
     Teilnehmerin, Monat und Jahr des Beginns und Endes des
     Bewilligungszeitraums sowie Art, Zusammensetzung und Höhe des
     Unterhaltsbeitrages während der Maßnahme nach § 12 Absatz 2 sowie
-    während der Prüfungsvorbereitungsphase nach § 12 Absatz 3 gegliedert
+    während der Prüfungsvorbereitungsphase nach § 12 Absatz 3, gegliedert
     nach Monaten, Höhe und Zusammensetzung des Einkommens nach § 21 und
     den Freibetrag nach § 23 Absatz 1 Satz 2 sowie, wenn eine
     Vermögensanrechnung erfolgt, die Höhe des Vermögens nach § 27 und des
@@ -1314,8 +1298,8 @@ Soweit dieses Gesetz keine abweichenden Regelungen enthält, finden die
 §§ 1 bis 3, 11 bis 17, 30 bis 67 des Ersten Buches Sozialgesetzbuch
 und das Zehnte Buch Sozialgesetzbuch Anwendung; wird eine Leistung auf
 das Konto des Teilnehmers bei einem Kreditinstitut überwiesen, gilt
-bei fehlender Deckung des Kontos § 850k Abs. 6 der Zivilprozessordnung
-entsprechend.
+bei fehlender Deckung des Kontos § 850k Absatz 6 der
+Zivilprozessordnung entsprechend.
 
 
 ## Siebter Abschnitt - Aufbringung der Mittel
@@ -1324,8 +1308,8 @@ entsprechend.
 
 ### § 28 Aufbringung der Mittel
 
-(1) Die Ausgaben nach diesem Gesetz einschließlich der Erstattung an
-die Kreditanstalt für Wiederaufbau nach § 14 Absatz 2 werden vom Bund
+(1) Die Ausgaben nach diesem Gesetz, einschließlich der Erstattung an
+die Kreditanstalt für Wiederaufbau nach § 14 Absatz 2, werden vom Bund
 zu 78 vom Hundert und von den Ländern zu 22 vom Hundert getragen.
 
 (2) Die Kreditanstalt für Wiederaufbau führt 22 vom Hundert des von
@@ -1375,13 +1359,9 @@ Maßnahmeabschnitte, die bis zum 30. Juni 2012 begonnen werden.
 
 (3) § 2a gilt für Maßnahmen oder Maßnahmeabschnitte, die ab dem 1.
 Juli 2010 beginnen.
+
 (4) Für nach diesem Gesetz geförderte Maßnahmen oder
 Maßnahmeabschnitte, die vor dem 28. Oktober 2010 begonnen haben, sind
 die Vorschriften dieses Gesetzes in der bis zum 28. Oktober 2010
 geltenden Fassung anzuwenden.
-
-
-### (XXXX) §§ 31 und 32 (weggefallen)
-
--
 
