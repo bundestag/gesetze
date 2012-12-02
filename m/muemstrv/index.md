@@ -16,6 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 113
 
+V aufgeh. durch
+:   § 12 Satz 2 V 7110-3-188 v. 11.10.2012 I 2138 mWv 1.5.2013
 
 
 ## Eingangsformel
