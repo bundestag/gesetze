@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.7.2012 I 1566
+:   Art. 1 G v. 15.11.2012 I 2298
 
 
 ## Übersicht
