@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.7.2012 I 1639
+:   Art. 4 G v. 19.10.2012 I 2192
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -170,7 +170,7 @@ Interesse liegenden Zwecken erteilen.
 
 
     c)  in Anlage III bezeichnete Betäubungsmittel auf Grund ärztlicher,
-        zahnärztlicher oder tierärztlicher Verschreibung abgibt oder
+        zahnärztlicher oder tierärztlicher Verschreibung abgibt,
 
 
     d)  in Anlage II oder III bezeichnete Betäubungsmittel an Inhaber einer
@@ -181,7 +181,14 @@ Interesse liegenden Zwecken erteilen.
     e)  in Anlage I, II oder III bezeichnete Betäubungsmittel zur
         Untersuchung, zur Weiterleitung an eine zur Untersuchung von
         Betäubungsmitteln berechtigte Stelle oder zur Vernichtung
-        entgegennimmt,
+        entgegennimmt oder
+
+
+    f)  in Anlage III bezeichnete Opioide in Form von Fertigarzneimitteln in
+        transdermaler oder in transmucosaler Darreichungsform an eine Apotheke
+        zur Deckung des nicht aufschiebbaren Betäubungsmittelbedarfs eines
+        ambulant versorgten Palliativpatienten abgibt, wenn die empfangende
+        Apotheke die Betäubungsmittel nicht vorrätig hat,
 
 
 
@@ -214,12 +221,15 @@ Interesse liegenden Zwecken erteilen.
 
 3.  in Anlage III bezeichnete Betäubungsmittel
 
-    a)  auf Grund ärztlicher, zahnärztlicher oder tierärztlicher Verschreibung
-        oder
+    a)  auf Grund ärztlicher, zahnärztlicher oder tierärztlicher
+        Verschreibung,
 
 
     b)  zur Anwendung an einem Tier von einer Person, die dieses Tier
-        behandelt und eine tierärztliche Hausapotheke betreibt,
+        behandelt und eine tierärztliche Hausapotheke betreibt, oder
+
+
+    c)  von einem Arzt nach § 13 Absatz 1a Satz 1
 
 
 
@@ -258,7 +268,7 @@ Interesse liegenden Zwecken erteilen.
 
 6.  in Anlage I, II oder III bezeichnete Betäubungsmittel als Proband oder
     Patient im Rahmen einer klinischen Prüfung oder in Härtefällen nach §
-    21 Absatz 2 Satz 1 Nummer 6 des Arzneimittelgesetzes in Verbindung mit
+    21 Absatz 2 Nummer 6 des Arzneimittelgesetzes in Verbindung mit
     Artikel 83 der Verordnung (EG) Nr. 726/2004 des Europäischen
     Parlaments und des Rates vom 31. März 2004 zur Festlegung von
     Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human-
@@ -348,7 +358,7 @@ Anzeigen, soweit sie tierärztliche Hausapotheken betreffen.
 internationalen Suchtstoffübereinkommen oder Beschlüssen, Anordnungen
 oder Empfehlungen zwischenstaatlicher Einrichtungen der
 Suchtstoffkontrolle entgegensteht oder dies wegen Rechtsakten der
-Organe der Europäischen Gemeinschaften geboten ist.
+Organe der Europäischen Union geboten ist.
 
 
 ### § 6 Sachkenntnis
@@ -509,7 +519,7 @@ die Erlaubnis der Durchführung der internationalen
 Suchtstoffübereinkommen oder von Beschlüssen, Anordnungen oder
 Empfehlungen zwischenstaatlicher Einrichtungen der Suchtstoffkontrolle
 entgegensteht oder dies wegen Rechtsakten der Organe der Europäischen
-Gemeinschaften geboten ist.
+Union geboten ist.
 
 
 ### § 10 Rücknahme und Widerruf
@@ -628,7 +638,7 @@ Genehmigung zu regeln und Vorschriften über die Einfuhr, Ausfuhr und
 Durchfuhr zu erlassen, soweit es zur Sicherheit oder Kontrolle des
 Betäubungsmittelverkehrs, zur Durchführung der internationalen
 Suchtstoffübereinkommen oder von Rechtsakten der Organe der
-Europäischen Gemeinschaften erforderlich ist. Insbesondere können
+Europäischen Union erforderlich ist. Insbesondere können
 
 1.  die Einfuhr, Ausfuhr oder Durchfuhr auf bestimmte Betäubungsmittel und
     Mengen beschränkt sowie in oder durch bestimmte Länder oder aus
@@ -685,6 +695,9 @@ Abgebenden den Empfang der Betäubungsmittel zu bestätigen.
         Betreiber dieser Hausapotheke behandeltes Tier,
 
 
+    c)  durch den Arzt nach § 13 Absatz 1a Satz 1,
+
+
 
 
 
@@ -711,12 +724,103 @@ elektronische Übermittlung regeln.
 Rahmen einer ärztlichen, zahnärztlichen oder tierärztlichen Behandlung
 einschließlich der ärztlichen Behandlung einer
 Betäubungsmittelabhängigkeit verabreicht oder einem anderen zum
-unmittelbaren Verbrauch überlassen werden, wenn ihre Anwendung am oder
-im menschlichen oder tierischen Körper begründet ist. Die Anwendung
-ist insbesondere dann nicht begründet, wenn der beabsichtigte Zweck
-auf andere Weise erreicht werden kann. Die in Anlagen I und II
-bezeichneten Betäubungsmittel dürfen nicht verschrieben, verabreicht
-oder einem anderen zum unmittelbaren Verbrauch überlassen werden.
+unmittelbaren Verbrauch oder nach Absatz 1a Satz 1 überlassen werden,
+wenn ihre Anwendung am oder im menschlichen oder tierischen Körper
+begründet ist. Die Anwendung ist insbesondere dann nicht begründet,
+wenn der beabsichtigte Zweck auf andere Weise erreicht werden kann.
+Die in Anlagen I und II bezeichneten Betäubungsmittel dürfen nicht
+verschrieben, verabreicht oder einem anderen zum unmittelbaren
+Verbrauch oder nach Absatz 1a Satz 1 überlassen werden.
+
+(1a) Zur Deckung des nicht aufschiebbaren Betäubungsmittelbedarfs
+eines ambulant versorgten Palliativpatienten darf der Arzt diesem die
+hierfür erforderlichen, in Anlage III bezeichneten Betäubungsmittel in
+Form von Fertigarzneimitteln nur dann überlassen, soweit und solange
+der Bedarf des Patienten durch eine Verschreibung nicht rechtzeitig
+gedeckt werden kann; die Höchstüberlassungsmenge darf den
+Dreitagesbedarf nicht überschreiten. Der Bedarf des Patienten kann
+durch eine Verschreibung nicht rechtzeitig gedeckt werden, wenn das
+erforderliche Betäubungsmittel
+
+1.  bei einer dienstbereiten Apotheke innerhalb desselben Kreises oder
+    derselben kreisfreien Stadt oder in einander benachbarten Kreisen oder
+    kreisfreien Städten nicht vorrätig ist oder nicht rechtzeitig zur
+    Abgabe bereitsteht oder
+
+
+2.  obwohl es in einer Apotheke nach Nummer 1 vorrätig ist oder
+    rechtzeitig zur Abgabe bereitstünde, von dem Patienten oder den
+    Patienten versorgenden Personen nicht rechtzeitig beschafft werden
+    kann, weil
+
+    a)  diese Personen den Patienten vor Ort versorgen müssen oder auf Grund
+        ihrer eingeschränkten Leistungsfähigkeit nicht in der Lage sind, das
+        Betäubungsmittel zu beschaffen, oder
+
+
+    b)  der Patient auf Grund der Art und des Ausmaßes seiner Erkrankung dazu
+        nicht selbst in der Lage ist und keine Personen vorhanden sind, die
+        den Patienten versorgen.
+
+
+
+
+
+
+Der Arzt muss unter Hinweis darauf, dass eine Situation nach Satz 1
+vorliegt, bei einer dienstbereiten Apotheke nach Satz 2 Nummer 1 vor
+Überlassung anfragen, ob das erforderliche Betäubungsmittel dort
+vorrätig ist oder bis wann es zur Abgabe bereitsteht. Über das
+Vorliegen der Voraussetzungen nach den Sätzen 1 und 2 und die Anfrage
+nach Satz 3 muss der Arzt mindestens folgende Aufzeichnungen führen
+und diese drei Jahre, vom Überlassen der Betäubungsmittel an
+gerechnet, aufbewahren:
+
+1.  den Namen des Patienten sowie den Ort, das Datum und die Uhrzeit der
+    Behandlung,
+
+
+2.  den Namen der Apotheke und des kontaktierten Apothekers oder der zu
+    seiner Vertretung berechtigten Person,
+
+
+3.  die Bezeichnung des angefragten Betäubungsmittels,
+
+
+4.  die Angabe der Apotheke, ob das Betäubungsmittel zum Zeitpunkt der
+    Anfrage vorrätig ist oder bis wann es zur Abgabe bereitsteht,
+
+
+5.  die Angaben über diejenigen Tatsachen, aus denen sich das Vorliegen
+    der Voraussetzungen nach den Sätzen 1 und 2 ergibt.
+
+
+
+Über die Anfrage eines nach Satz 1 behandelnden Arztes, ob ein
+bestimmtes Betäubungsmittel vorrätig ist oder bis wann es zur Abgabe
+bereitsteht, muss der Apotheker oder die zu seiner Vertretung
+berechtigte Person mindestens folgende Aufzeichnungen führen und diese
+drei Jahre, vom Tag der Anfrage an gerechnet, aufbewahren:
+
+1.  das Datum und die Uhrzeit der Anfrage,
+
+
+2.  den Namen des Arztes,
+
+
+3.  die Bezeichnung des angefragten Betäubungsmittels,
+
+
+4.  die Angabe gegenüber dem Arzt, ob das Betäubungsmittel zum Zeitpunkt
+    der Anfrage vorrätig ist oder bis wann es zur Abgabe bereitsteht.
+
+
+
+Im Falle des Überlassens nach Satz 1 hat der Arzt den ambulant
+versorgten Palliativpatienten oder zu dessen Pflege anwesende Dritte
+über die ordnungsgemäße Anwendung der überlassenen Betäubungsmittel
+aufzuklären und eine schriftliche Gebrauchsanweisung mit Angaben zur
+Einzel- und Tagesgabe auszuhändigen.
 
 (2) Die nach Absatz 1 verschriebenen Betäubungsmittel dürfen nur im
 Rahmen des Betriebs einer Apotheke und gegen Vorlage der Verschreibung
@@ -732,9 +836,13 @@ Zustimmung des Bundesrates das Verschreiben von den in Anlage III
 bezeichneten Betäubungsmitteln, ihre Abgabe auf Grund einer
 Verschreibung und das Aufzeichnen ihres Verbleibs und des Bestandes
 bei Ärzten, Zahnärzten, Tierärzten, in Apotheken, tierärztlichen
-Hausapotheken, Krankenhäusern und Tierkliniken zu regeln, soweit es
-zur Sicherheit oder Kontrolle des Betäubungsmittelverkehrs
-erforderlich ist. Insbesondere können
+Hausapotheken, Krankenhäusern, Tierkliniken, Alten- und Pflegeheimen,
+Hospizen, Einrichtungen der spezialisierten ambulanten
+Palliativversorgung, Einrichtungen der Rettungsdienste, Einrichtungen,
+in denen eine Behandlung mit dem Substitutionsmittel Diamorphin
+stattfindet, und auf Kauffahrteischiffen zu regeln, soweit es zur
+Sicherheit oder Kontrolle des Betäubungsmittelverkehrs erforderlich
+ist. Insbesondere können
 
 1.  das Verschreiben auf bestimmte Zubereitungen, Bestimmungszwecke oder
     Mengen beschränkt,
@@ -1037,7 +1145,8 @@ die Anfertigung, Ausgabe und Auswertung der zur Verschreibung von
 Betäubungsmitteln vorgeschriebenen amtlichen Formblätter. Der
 Betäubungsmittelverkehr bei Ärzten, Zahnärzten und Tierärzten,
 pharmazeutischen Unternehmern im Falle der Abgabe von Diamorphin und
-in Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und
+in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1 Buchstabe f
+zwischen Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und
 Tierkliniken unterliegt der Überwachung durch die zuständigen Behörden
 der Länder. Diese überwachen auch die Einhaltung der in § 10a Abs. 2
 aufgeführten Mindeststandards; den mit der Überwachung beauftragten
@@ -1441,6 +1550,10 @@ bestraft, wer
 
 
 
+6a. entgegen § 13 Absatz 1a Satz 1 und 2 ein dort genanntes
+    Betäubungsmittel überlässt,
+
+
 7.  entgegen § 13 Absatz 2
 
     a)  Betäubungsmittel in einer Apotheke oder tierärztlichen Hausapotheke,
@@ -1706,6 +1819,15 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 7.  entgegen § 12 Abs. 1 Betäubungsmittel abgibt oder entgegen § 12 Abs. 2
     die Abgabe oder den Erwerb nicht richtig, nicht vollständig oder nicht
     unverzüglich meldet oder den Empfang nicht bestätigt,
+
+
+7a. entgegen § 13 Absatz 1a Satz 3 nicht, nicht richtig oder nicht
+    rechtzeitig bei einer Apotheke anfragt,
+
+
+7b. entgegen § 13 Absatz 1a Satz 4 oder 5 eine Aufzeichnung nicht, nicht
+    richtig oder nicht vollständig führt oder eine Aufzeichnung nicht oder
+    nicht mindestens drei Jahre aufbewahrt,
 
 
 8.  entgegen § 14 Abs. 1 bis 4 Betäubungsmittel nicht vorschriftsmäßig
@@ -2013,10 +2135,11 @@ Sachkenntnis nach § 6 Absatz 1 Nummer 1 als erbracht.
 (weggefallen)
 
 
-### Anlage I (zu § 1 Abs. 1) nicht verkehrsfähige Betäubungsmittel)
+### Anlage I (zu § 1 Abs. 1) (nicht verkehrsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1180 - 1186;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+α
 
 *    *   Spalte 1
 
@@ -2060,15 +2183,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (4,5alpha-Epoxy-7alpha-((R)-2-hydroxypentan-2-yl)-6-methoxy-17-methyl-
-        6,14-ethenomorphinan-3-yl)acetat
+    *   {4,5α-Epoxy-7α-[(
+        R                       )-2-hydroxypentan-2-yl]-6-methoxy-17-methyl-6,
+        14-ethenomorphinan-3-yl}acetat
 
 
 *    *   -
 
     *   Acetyldihydrocodein
 
-    *   (4,5alpha-Epoxy-3-methoxy-17-methylmorphinan-6alphayl)acetat
+    *   (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-yl)acetat
 
 
 *    *   Acetylmethadol
@@ -2080,9 +2204,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Acetyl-alpha-methylfentanyl
+    *   Acetyl-α-methylfentanyl
 
-    *   N-Phenyl-N-(1-(1-phenyl-propan-2-yl)-4-piperidyl)acetamid
+    *   N                       -Phenyl-
+        N                       -[1-(1-phenyl-
+        propan-2-yl)-4-piperidyl]acetamid
 
 
 *    *   -
@@ -2103,35 +2229,45 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   ((3R,6R)-6-Dimethylamino-4,4-diphenylheptan-3-yl)acetat
+    *   [(3
+        R                       ,6
+        R
+        )-6-Dimethylamino-4,4-diphenylheptan-3-yl]acetat
 
 
 *    *   Alphameprodin
 
     *   -
 
-    *   ((3RS,4SR)-3-Ethyl-1-methyl-4-phenyl-4-piperidyl)propionat
+    *   [(3
+        RS                       ,4
+        SR
+        )-3-Ethyl-1-methyl-4-phenyl-4-piperidyl]propionat
 
 
 *    *   Alphamethadol
 
     *   -
 
-    *   (3R,6R)-6-Dimethylamino-4,4-diphenylheptan-3-ol
+    *   (3
+        R                       ,6
+        R                       )-6-Dimethylamino-4,4-diphenylheptan-3-ol
 
 
 *    *   Alphaproidin
 
     *   -
 
-    *   ((3RS,4SR)-1,3-Dimethyl-4-phenyl-4-piperidyl)propionat
+    *   [(3
+        RS                       ,4
+        SR                       )-1,3-Dimethyl-4-phenyl-4-piperidyl]propionat
 
 
 *    *   Anileridin
 
     *   -
 
-    *   Ethyl(1-(4-aminophenethyl)-4-phenyl-piperidin-4-carboxylat)
+    *   Ethyl[1-(4-aminophenethyl)-4-phenyl-piperidin-4-carboxylat)
 
 
 *    *   -
@@ -2145,7 +2281,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Ethyl(1-(2-benzyloxy)ethyl)-4-phenyl-piperidin-4-carboxylat)
+    *   Ethyl{1-[2-benzyloxy)ethyl]-4-phenyl-piperidin-4-carboxylat}
 
 
 *    *   Benzfetamin
@@ -2166,49 +2302,60 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Benzylfentanyl
 
-    *   N-(1-Benzyl-4-piperidyl)-N-phenyl-propanamid
+    *   N                       -(1-Benzyl-4-piperidyl)-
+        N                       -phenyl-propanamid
 
 
 *    *   -
 
     *   Benzylmorphin
 
-    *   3-Benzyloxy-4,5alpha-epoxy-17-methylmorphin-7-en-6alpha-ol
+    *   3-Benzyloxy-4,5α-epoxy-17-methylmorphin-7-en-6α-ol
 
 
 *    *   Betacetylmethadol
 
     *   -
 
-    *   ((3S,6R)-6-Dimethylamino-4,4-diphenylheptan-3-yl)acetat
+    *   [(3
+        S                       ,6
+        R
+        )-6-Dimethylamino-4,4-diphenylheptan-3-yl]acetat
 
 
 *    *   Betameprodin
 
     *   -
 
-    *   ((3RS,4RS)-3-Ethyl-1-methyl-4-phenyl-4-piperidyl)propionat
+    *   [(3
+        RS                       ,4
+        RS
+        )-3-Ethyl-1-methyl-4-phenyl-4-piperidyl]propionat
 
 
 *    *   Betamethadol
 
     *   -
 
-    *   (3S,6R)-6-Dimethylamino-4,4-diphenylheptan-3-ol
+    *   (3
+        S                       ,6
+        R                       )-6-Dimethylamino-4,4-diphenylheptan-3-ol
 
 
 *    *   Betaprodin
 
     *   -
 
-    *   ((3RS,4RS)-1,3-Dimethyl-4-phenyl-4-piperidyl)propionat
+    *   [(3
+        RS                       ,4
+        RS                       )-1,3-Dimethyl-4-phenyl-4-piperidyl]propionat
 
 
 *    *   Bezitramid
 
     *   -
 
-    *   4-(4-(2-Oxo-3-propionyl-2,3-dihydrobenzimidazol-1-yl)piperidino)-2,2
+    *   4-[4-(2-Oxo-3-propionyl-2,3-dihydrobenzimidazol-1-yl)piperidino]-2,2
         ,-diphenyl-butannitril
 
 
@@ -2216,7 +2363,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Dimethoxybromamfetamin (DOB)
 
-    *   (RS)-1-(4-Brom-2,5-dimethoxy-phenyl)propan-2-ylazan
+    *   (
+        RS                       )-1-(4-Brom-2,5-dimethoxy-
+        phenyl)propan-2-ylazan
 
 
 *    *   -
@@ -2307,14 +2456,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Methyl(1-phenethyl-4-(N-phenyl-propanamido)piperidin-4-carboxylat)
+    *   Methyl[1-phenethyl-4-(
+        N                       -phenyl-propanamido)piperidin-4-carboxylat]
 
 
 *    *   Cathinon
 
     *   -
 
-    *   (S)-2-Amino-1-phenylpropan-1-on
+    *   (
+        S                       )-2-Amino-1-phenylpropan-1-on
 
 
 *    *   -
@@ -2328,21 +2479,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6-CI-MDMA
 
-    *   (1-(6-Chlor-1,3-benzodioxol-5-yl)propan-2-yl)(methyl)azan
+    *   [1-(6-Chlor-1,3-benzodioxol-5-yl)propan-2-yl](methyl)azan
 
 
 *    *   Clonitazen
 
     *   -
 
-    *   (2-(2-(4-Chlorbenzyl)-5-nitrobenzimidazol-1-yl)ethyl)diethylazan
+    *   {2-[2-(4-Chlorbenzyl)-5-nitrobenzimidazol-1-yl]ethyl}diethylazan
 
 
 *    *   -
 
     *   Codein-N-oxid-
 
-    *   4,5alpha-Epoxy-3-methoxy-17-methylmorphin-7-en-6alpha-ol-17-oxid
+    *   4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-ol-17-oxid
 
 
 *    *   -
@@ -2363,22 +2514,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (4,5alpha-Epoxy-3-methoxy-17-methylmorphinan-6-yliden-
-        aminooxy)essigsäure
+    *   (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6-yliden-aminooxy)essigsäure
 
 
 *    *   Desomorphin
 
     *   Dihydrodesoxymorphin
 
-    *   4,5alpha-Epoxy-17-methyl-morphinan-3-ol
+    *   4,5α-Epoxy-17-methyl-morphinan-3-ol
 
 
 *    *   Diampromid
 
     *   -
 
-    *   N-(2-((Methyl)(phenetyl)amino)propyl)-N-phenylpropanamid
+    *   N                       -{2-[(Methyl)(phenetyl)amino]propyl}-
+        N                       -phenylpropanamid
 
 
 *    *   -
@@ -2397,24 +2548,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   N,N-Diethyltryptamin (Diethyltryptamin, DET)
+    *   N,N                       -Diethyltryptamin (Diethyltryptamin, DET)
 
-    *   Diethyl(2-(indol-3-yl)ethyl)azan
+    *   Diethyl[2-(indol-3-yl)ethyl]azan
 
 
 *    *   -
 
     *   Dihydroetorphin (18,19-Dihydroetorphin)
 
-    *   (5R,6R,7R,14R)-4,5alpha-Epoxy-7alpha-((R)-2-hydroxypentan-2-yl)-6-meth
-        oxy-17-methyl-6,14-ethanomorphinan-3-ol
+    *   (5
+        R                       ,6
+        R                       ,7
+        R                       ,14
+        R                       )-4,5α-Epoxy-7α-[(
+        R
+        )-2-hydroxypentan-2-yl]-6-methoxy-17-methyl-6,14-ethanomorphinan-3-ol
 
 
 *    *   Dimenoxadol
 
     *   -
 
-    *   (2-Dimethylaminoethyl)(ethoxy)(diphenyl)acetat)
+    *   (2-Dimethylaminoethyl)[(ethoxy)(diphenyl)acetat]
 
 
 *    *   Dimepheptanol
@@ -2442,7 +2598,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Dimethoxymethylamfetamin (DOM, STP)
 
-    *   (RS)-1-(2,5-Dimethoxy-4-methylphenyl)propan-2-ylazan
+    *   (
+        RS
+        )-1-(2,5-Dimethoxy-4-methylphenyl)propan-2-ylazan
 
 
 *    *   -
@@ -2462,9 +2620,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   N,N-Dimethyltryptamin (Dimethyltryptamin, DMT)
+    *   N,N                       -Dimethyltryptamin (Dimethyltryptamin, DMT)
 
-    *   (2-(Indol-3-yl) ethyl)dimethyl-azan
+    *   [2-(Indol-3-yl) ethyl]dimethyl-azan
 
 
 *    *   Dioxaphetylbutyrat
@@ -2520,19 +2678,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (2-(2-(4-Ethoxybenzyl)-5-nitrobenzimidazol-1-yl)ethyl)diethylazan
+    *   {2-[2-(4-Ethoxybenzyl)-5-nitrobenzimidazol-1-yl]ethyl}diethylazan
 
 
 *    *   Etoxeridin
 
     *   -
 
-    *   Ethyl(1-(2-(2-hydroxyethoxy)ethyl)-4-phenylpiperidin-4-carboxylat)
+    *   Ethyl{1-[2-(2-hydroxyethoxy)ethyl]-4-phenylpiperidin-4-carboxylat}
 
 
 *    *   Etryptamin
 
-    *   alpha-Ethyltryptamin
+    *   α-Ethyltryptamin
 
     *   1-(Indol-3-yl)butan-2-ylazan
 
@@ -2541,7 +2699,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   FLEA
 
-    *   N-(1-(1,3-Benzodioxol-5-yl)propan-2-yl)-N-methyl-hydroxylamin
+    *   N                       -[1-(1,3-Benzodioxol-5-yl)propan-2-yl]-
+        N                       -methyl-hydroxylamin
 
 
 *    *   -
@@ -2553,17 +2712,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   p-Fluorfentanyl
+    *   ρ-Fluorfentanyl
 
-    *   N-(4-Fluorphenyl)-N-(1-phenethyl-4-piperidyl)propanamid
+    *   N                       -(4-Fluorphenyl)-
+        N                       -(1-phenethyl-4-piperidyl)propanamid
 
 
 *    *   Furethidin
 
     *   -
 
-    *   Ethyl(4-phenyl-1-(2-tetra-
-        hydrofurfuryloxy)ethyl)piperidin-4-carboxylat)
+    *   Ethyl{4-phenyl-1-[2-tetra-
+        hydrofurfuryloxy)ethyl]piperidin-4-carboxylat}
 
 
 *    *   -
@@ -2571,87 +2731,103 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Heroin (Diacetylmorphin, Diamorphin) – ausgenommen Diamorphin zu den
         in den Anlagen II und III bezeichneten Zwecken –
 
-    *   ((5R,6S)-4,5-Epoxy-17-methyl-morphin-7-en-3,6-diyl)diacetat
+    *   [(5
+        R                       ,6
+        S                       )-4,5-Epoxy-17-methyl-
+        morphin-7-en-3,6-diyl]diacetat
 
 
 *    *   Hydromorphinol
 
     *   14-Hydroxydihydromorphin
 
-    *   4,5alpha-Epoxy-17-methyl-morphinan-3,6alpha,14-triol
+    *   4,5α-Epoxy-17-methyl-morphinan-3,6α,14-triol
 
 
 *    *   -
 
-    *   N-Hydroxyamfetamin (NOHA)
+    *   N                       -Hydroxyamfetamin (NOHA)
 
-    *   N-(1-Phenylpropan-2-yl)hydroxylamin
+    *   N                       -(1-Phenylpropan-2-yl)hydroxylamin
 
 
 *    *   -
 
     *   ß-Hydroxyfentanyl
 
-    *   N-(1-(2-Hydroxy-2-phenyl-ethyl)-4-piperidyl)-N-phenylpropanamid
+    *   N                       -[1-(2-Hydroxy-2-phenyl-ethyl)-4-piperidyl]-
+        N                       -phenylpropanamid
 
 
 *    *   -
 
-    *   Hydroxymethylendioxyamfetamin (N-Hydroxy-MDA,MDOH) (N-Hydroxy-
-        MDA,MDOH)
+    *   Hydroxymethylendioxyamfetamin (
+        N                       -Hydroxy-MDA,MDOH)
 
-    *   N-(1-(1,3-Benzodioxol-5-yl)
+    *   N                       -[1-(1,3-Benzodioxol-5-yl)
+        propan-2-yl]hydroxylamin
 
 
 *    *   -
 
-    *   beta-Hydroxy-3-methyl-fentanyl (Ohmefentanyl)
+    *   β-Hydroxy-3-methyl-fentanyl (Ohmefentanyl)
 
-    *   N-(1-(2-Hydroxy-2-phenyl-
-        ethyl)-3-methyl-4-piperidyl)-N-phenylpropanamid
+    *   N                       -[1-(2-Hydroxy-2-phenyl-
+        ethyl)-3-methyl-4-piperidyl]-
+        N                       -phenylpropanamid
 
 
 *    *   Hydroxypethidin
 
     *   -
 
-    *   Ethyl(4-(3-hydroxyphenyl)-1-methylpiperidin-4-carboxylat)
+    *   Ethyl[4-(3-hydroxyphenyl)-1-methylpiperidin-4-carboxylat]
 
 
 *    *   Lefetamin
 
     *   SPA
 
-    *   ((R)-1,2-Diphenylethyl)dimethylazan
+    *   [(
+        R                       )-1,2-Diphenylethyl]dimethylazan
 
 
 *    *   Levomethorphan
 
     *   -
 
-    *   (9R,13R,14R)-3-Methoxy-17-methylmorphinan
+    *   (9
+        R                       ,13
+        R                       ,14
+        R                       )-3-Methoxy-17-methylmorphinan
 
 
 *    *   Levophenacylmorphan
 
     *   -
 
-    *   2-((9R,13R,14R)-3-Hydroxy-morphinan-17-yl)-1-phenyl-ethanon
+    *   2-[(9
+        R                       ,13
+        R                       ,14
+        R                       )-3-Hydroxy-morphinan-17-yl]-1-phenyl-ethanon
 
 
 *    *   Lofentanil
 
     *   -
 
-    *   Methyl((3R,4S)-3-methyl-1-phenethyl-4-(N-phenyl-
-        propanamido)piperidin-4-carboxylat)
+    *   Methyl[(3
+        R                       ,4
+        S                       )-3-methyl-1-phenethyl-4-(
+        N                       -phenyl-propanamido)piperidin-4-carboxylat]
 
 
 *    *   Lysergid
 
-    *   N,N-Diethyl-D-lysergamid (LSD,LSD-25)
+    *   N,N                       -Diethyl-D-lysergamid (LSD,LSD-25)
 
-    *   N,N-Diethyl-6-methyl-9,10-didehydroergolin-8beta-carboxamid
+    *   N,N                       -Diethyl-6-methyl-9,10-didehydroergolin-8β-
+        carboxamid
 
 
 *    *   -
@@ -2665,21 +2841,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   MBDB
 
-    *   (1-(1,3-Benzodioxol-5-yl)butan-2-yl)(methyl)azan
+    *   [1-(1,3-Benzodioxol-5-yl)butan-2-yl](methyl)azan
 
 
 *    *   -
 
     *   Mebroqualon
 
-    *   3-(2-Bromphenyl)2-methyl-chinazolin-4(3H)-on
+    *   3-(2-Bromphenyl)2-methyl-chinazolin-4(3
+        H                       )-on
 
 
 *    *   Mecloqualon
 
     *   -
 
-    *   3-(2-Chlorphenyl)-2-methyl-chinazolin-4(3H)-on
+    *   3-(2-Chlorphenyl)-2-methyl-chinazolin-4(3
+        H                       )-on
 
 
 *    *   -
@@ -2712,16 +2890,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   5-Methoxy-N,N-diisopropyltryptamin (5-MeO-DIPT)
+    *   5-Methoxy-
+        N,N                       -diisopropyltryptamin (5-MeO-DIPT)
 
-    *   Diisopropyl(2-(5-methoxyindol-3-yl)ethyl)azan
+    *   Diisopropyl[2-(5-methoxyindol-3-yl)ethyl]azan
 
 
 *    *   -
 
     *   5-Methoxy-DMT (5-MeO-DMT)
 
-    *   (2-(5-Methoxyindol-3-yl)ethyl)dimethylazan
+    *   [2-(5-Methoxyindol-3-yl)ethyl]dimethylazan
 
 
 *    *   -
@@ -2735,7 +2914,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Methoxymetamfetamin (PMMA)
 
-    *   (1-(4-Methoxyphenyl)propan-2-yl)(methyl)azan
+    *   [1-(4-Methoxyphenyl)propan-2-yl](methyl)azan
 
 
 *    *   -
@@ -2763,49 +2942,54 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   4,5alpha-Epoxy-6,17-dimethyl-morphin-6-en-3-ol
+    *   4,5α-Epoxy-6,17-dimethyl-morphin-6-en-3-ol
 
 
 *    *   Methyldihydromorphin
 
     *   -
 
-    *   4,5alpha-Epoxy-6,17-dimethyl-morphinan-3,6alpha-diol
+    *   4,5α-Epoxy-6,17-dimethyl-morphinan-3,6α-diol
 
 
 *    *   -
 
-    *   Methylendioxyethylamfetamin (N-Ethyl-MDA, MDE, MDEA)
+    *   Methylendioxyethylamfetamin (
+        N                       -Ethyl-MDA, MDE, MDEA)
 
-    *   (1-(1,3-Benzodioxol-5-yl)propan-2-yl)(ethyl)azan
+    *   [1-(1,3-Benzodioxol-5-yl)propan-2-yl](ethyl)azan
 
 
 *    *   -
 
     *   Methylendioxymetamfetamin (MDMA)
 
-    *   (1-(1,3-Benzodioxol-5-yl)propan-2-yl)(methyl)azan
+    *   [1-(1,3-Benzodioxol-5-yl)propan-2-yl](methyl)azan
 
 
 *    *   -
 
-    *   alpha-Methylfentanyl
+    *   α-Methylfentanyl
 
-    *   N-Phenyl-N-(1-(1-phenylpropan-2-yl)-4-piperidyl)propanamid
+    *   N                       -Phenyl-
+        N
+        -[1-(1-phenylpropan-2-yl)-4-piperidyl]propanamid
 
 
 *    *   -
 
     *   3-Methylfentanyl (Mefentanyl)
 
-    *   N-(3-Methyl-1-phenethyl-4-piperidyl)-N-phenylpropanamid
+    *   N                       -(3-Methyl-1-phenethyl-4-piperidyl)-
+        N                       -phenylpropanamid
 
 
 *    *   -
 
     *   Methylmethaqualon
 
-    *   3-(2,4-Dimethylphenyl)-2-methyl-chinazolin-4(3H)on
+    *   3-(2,4-Dimethylphenyl)-2-methyl-chinazolin-4(3
+        H                       )on
 
 
 *    *   -
@@ -2848,26 +3032,30 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4-Methylthioamfetamin (4-MTA)
 
-    *   1-(4-(Methylsulfanyl)phenyl)propan-2-ylazan
+    *   1-[4-(Methylsulfanyl)phenyl]propan-2-ylazan
 
 
 *    *   -
 
-    *   alpha-Methylthiofentanyl
+    *   α-Methylthiofentanyl
 
-    *   N-Phenyl-N-(1-(1-(2-thienyl)propan-2-yl)-4-piperidyl)propanamid
+    *   N                       -Phenyl-
+        N
+        -{1-[1-(2-thienyl)propan-2-yl]-4-piperidyl}propanamid
 
 
 *    *   -
 
     *   3-Methylthiofentanyl
 
-    *   N-(3-Methyl-1-(2-(2-thienyl)ethyl)-4-piperidyl)-N-phenyl-propanamid
+    *   N
+        -{3-Methyl-1-[2-(2-thienyl)ethyl]-4-piperidyl}-
+        N                       -phenyl-propanamid
 
 
 *    *   -
 
-    *   alpha-Methyltryptamin (alpha-MT)
+    *   α-Methyltryptamin (α-MT)
 
     *   1-(Indol-3-yl)propan-2-ylazan
 
@@ -2876,7 +3064,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5-Methyldihydromorphinon
 
-    *   4,5alpha-Epoxy-3-hydroxy-5,17-dimethylmorphinan-6-on
+    *   4,5α-Epoxy-3-hydroxy-5,17-dimethylmorphinan-6-on
 
 
 *    *   Morpheridin
@@ -2888,23 +3076,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Morphin-N-oxid
+    *   Morphin-
+        N                       -oxid
 
-    *   (5R,6S)-4,5-Epoxy-3,6-dihydroxy-17-methylmorphin-7-en-17-oxid
+    *   (5
+        R                       ,6
+        S
+        )-4,5-Epoxy-3,6-dihydroxy-17-methylmorphin-7-en-17-oxid
 
 
 *    *   Myrophin
 
     *   Myristylbenzylmorphin
 
-    *   (3-Benzyloxy-4,5alpha-epoxy-17-methylmorphin-7-en-6-yl)tetradecanoat
+    *   (3-Benzyloxy-4,5α-epoxy-17-methylmorphin-7-en-6-yl)tetradecanoat
 
 
 *    *   Nicomorphin
 
     *   3,6-Dinicotinoylmorphin
 
-    *   4,5alpha-Epoxy-17-methyl-morphin-7-en-3,6alpha-diyl)dinicotinat
+    *   4,5α-Epoxy-17-methyl-morphin-7-en-3,6α-diyl)dinicotinat
 
 
 *    *   Noracymethadol
@@ -2916,23 +3108,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Norcodein
 
-    *   N-Desmethylcodein
+    *   N                       -Desmethylcodein
 
-    *   4,5alpha-Epoxy-3-methoxy-morphin-7-en-6alpha-ol
+    *   4,5α-Epoxy-3-methoxy-morphin-7-en-6α-ol
 
 
 *    *   Norlevorphanol
 
     *   (-)3-Hydroxymorphinan
 
-    *   (9R,13R,14R)-Morphinan-3-ol
+    *   (9
+        R                       ,13
+        R                       ,14
+        R                       )-Morphinan-3-ol
 
 
-*    *   Normorphin EUR
+*    *   Normorphin
 
     *   Desmethylmorphin
 
-    *   4,5alpha-Epoxymorphin-7-en-3,6alpha-diol
+    *   4,5α-Epoxymorphin-7-en-3,6α-diol
 
 
 *    *   Norpipanon
@@ -2946,7 +3141,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Parahexyl
 
-    *   3-Hexyl-6,6,9-trimethyl-7,8,9,10-tetrahydro-6H-benzo(c)chromen-1-ol
+    *   3-Hexyl-6,6,9-trimethyl-7,8,9,10-tetrahydro-6
+        H                       -benzo[c]chromen-1-ol
 
 
 *    *   -
@@ -2967,7 +3163,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   N-Phenyl-N-(1-piperidinopropan-2-yl)propanamid
+    *   N                       -Phenyl-
+        N                       -(1-piperidinopropan-2-yl)propanamid
 
 
 *    *   Phenazocin
@@ -3017,14 +3214,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Ethyl (1-(3-hydroxy-3-phenyl-propyl)-4-phenylpiperidin-4-carboxylat)
+    *   Ethyl [1-(3-hydroxy-3-phenyl-propyl)-4-phenylpiperidin-4-carboxylat]
 
 
 *    *   Piminodin
 
     *   -
 
-    *   Ethyl(1-(3-anilinopropyl)-4-phenylpiperidin-4-carboxylat)
+    *   Ethyl[1-(3-anilinopropyl)-4-phenylpiperidin-4-carboxylat]
 
 
 *    *   -
@@ -3066,14 +3263,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (3-(2-Dimethylaminoethyl)indol-4-yl)dihydrogenphosphat
+    *   [3-(2-Dimethylaminoethyl)indol-4-yl]dihydrogenphosphat
 
 
 *    *   -
 
     *   Psilocybin-(eth)
 
-    *   (3-(2-Diethylaminoethyl)indol-4-yl)dihydrogenphosphat
+    *   [3-(2-Diethylaminoethyl)indol-4-yl]dihydrogenphosphat
 
 
 *    *   -
@@ -3087,7 +3284,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (9RS,13RS,14RS)-3-Methoxy-17-methylmorphinan
+    *   (9
+        RS                       ,13
+        RS                       ,14
+        RS                       )-3-Methoxy-17-methylmorphinan
 
 
 *    *   Rolicyclidin
@@ -3109,14 +3309,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Methylendioxyamfetamin (MDA)
 
-    *   (RS)-1-(1,3-Benzodioxol-5-yl)propan-2-ylazan
+    *   (
+        RS                       )-1-(1,3-Benzodioxol-5-yl)propan-2-ylazan
 
 
 *    *   Tenocyclidin
 
     *   TCP
 
-    *   1-(1-(2-Thienyl)cyclohexyl)piperidin
+    *   1-[1-(2-Thienyl)cyclohexyl]piperidin
 
 
 *    *
@@ -3127,59 +3328,78 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   delta6a(10a)-Tetrahydrocannabinol (delta6a(10a)-THC)
+    *   Δ6a(10a)-Tetrahydrocannabinol (Δ6a(10a)-THC)
 
-    *   6,6,9-Trimethyl-3-pentyl-7,8,9,10-tetrahydro-6H-benzo(c)chromen-1-ol
-
-
-*    *   -
-
-    *   delta6a-Tetrahydrocannabinol (delta6a-THC)
-
-    *   (9R,10aR)-6,6,9-Trimethyl-3-pentyl-8,9,10,10a-tetra-hydro-6H-
-        benzo(c)chromen-1- ol(6aR,9R,10aR)-6,6,9-Trimethyl-3-pentyl-6a,9,10
-        ,10a-tetrahydro-6H-benzo(c) chromen-1-ol
+    *   6,6,9-Trimethyl-3-pentyl-7,8,9,10-tetrahydro-6
+        H                       -benzo[c]chromen-1-ol
 
 
 *    *   -
 
-    *   delta7-Tetrahydrocannabinol (delta7-THC)
+    *   Δ6a-Tetrahydrocannabinol (Δ6a-THC)
+
+    *   (9
+        R                       ,10a
+        R                       )-6,6,9-Trimethyl-3-pentyl-8,9,10,10a-tetra-
+        hydro-6
+        H                       -benzo[c]chromen-1- ol(6a
+        R                       ,9
+        R                       ,10a
+        R                       )-6,6,9-Trimethyl-3-pentyl-6a,9,10,10a-
+        tetrahydro-6
+        H                       -benzo[c] chromen-1-ol
 
 
 *    *   -
 
-    *   delta8-Tetrahydrocannabinol (delta8-THC)
-
-    *   (6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetra-hydro-6H-
-        benzo(c)chromen- 1-ol(6aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,9
-        -tetrahydro-6H-benzo(c)chromen-1-ol
+    *   Δ7-Tetrahydrocannabinol (Δ7-THC)
 
 
 *    *   -
 
-    *   delta10-Tetrahydrocannabinol (delta10-THC)
+    *   Δ8-Tetrahydrocannabinol (Δ8-THC)
+
+    *   (6a
+        R                       ,10a
+        R                       )-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetra-
+        hydro-6
+        H                       -benzo[c]chromen- 1-ol(6a
+        R                       )-6,6,9-Trimethyl-3-pentyl-
+        6a,7,8,9-tetrahydro-6
+        H                       -benzo[c]chromen-1-ol
 
 
 *    *   -
 
-    *   delta9(11)-Tetrahydrocannabinol (delta9(11)-THC)
+    *   Δ10-Tetrahydrocannabinol (Δ10-THC)
 
-    *   (6aR,10aR)-6,6-Dimethyl-9-methylen-3-pentyl-6a,7,8,9,10,10a-hexahydro-
-        6H-benzo(c) chromen-1-ol
+
+*    *   -
+
+    *   Δ9(11)-Tetrahydrocannabinol (Δ9(11)-THC)
+
+    *   (6a
+        R                       ,10a
+        R                       )-6,6-Dimethyl-9-methylen-3-pentyl-6a,7,8,9,10
+        ,10a-hexahydro-6
+        H                       -benzo[c] chromen-1-ol
 
 
 *    *   -
 
     *   Thenylfentanyl
 
-    *   N-Phenyl-N-(1-thenyl-4-piperidyl)propanamid
+    *   N                       -Phenyl-
+        N                       -(1-thenyl-4-piperidyl)propanamid
 
 
 *    *   -
 
     *   Thiofentanyl
 
-    *   N-Phenyl-N-(1-(2-(2-thienyl)ethyl)-4-piperidyl)propanamid
+    *   N                       -Phenyl-
+        N
+        -{1-[2-(2-thienyl)ethyl]-4-piperidyl}propanamid
 
 
 *    *   Trimeperidin
@@ -3289,7 +3509,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   1-Adamantyl(1-pentyl-1H-indol-3-yl)methanon
+    *   1-Adamantyl(1-pentyl-1
+        H                       -indol-3-yl)methanon
 
     *   (Adamantan-1-yl)(1-pentyl-1
         H                       -indol-3-yl)methanon
@@ -3310,32 +3531,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (Phenyl)[(1-phenylpropan-2-yl)amino]acetonitril
 
 
-*    *   -
-
-    *   Benzylpiperazin (BZP)
-
-    *   1-Benzylpiperazin
-
-
-*    *   -
-
-    *   Butobarbital
-
-    *   5-Butyl-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion
-
-
-*    *   -
-
-    *   meta-Chlorphenylpiperazin (m-CPP)
-
-    *   1-(3-Chlorphenyl)piperazin
-
-
 *    *   Amineptin
 
     *   -
 
-    *   7-(10,11-Dihydro-5H-dibenzo(a,d)(7)annulen-5-ylamino)heptansäure
+    *   7-(10,11-Dihydro-5
+        H                       -dibenzo[a,d][7]annulen-5-ylamino)heptansäure
 
 
 *    *   Aminorex
@@ -3343,6 +3544,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   5-Phenyl-4,5-dihydro-1,3-oxazol-2-ylazan
+
+
+*    *   -
+
+    *   Benzylpiperazin (BZP)
+
+    *   1-Benzylpiperazin
 
 
 *    *   Butalbital
@@ -3354,42 +3562,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Butobarbital
+
+    *   5-Butyl-5-ethylpyrimidin-2,4,6(1
+        H                       ,3
+        H                       ,5
+        H                       )-trion
+
+
+*    *   -
+
     *   Butylon
 
     *   1-(Benzo[d][1,3]dioxol-5-yl)-2-
         (methylamino)butan-1-on
-
-
-*    *   -
-
-    *   CP 47,497
-        (cis-3-[4-(1,1-Dimethylheptyl)-2-hydroxyphenyl]-cyclohexanol)
-
-    *   5-(1,1-Dimethylheptyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol
-
-
-*    *   -
-
-    *   CP 47,497-C6-Homolog(cis-3-[4-(1,1-Dimethylhexyl)-2-hydroxyphenyl]-cyc
-        lohexanol)
-
-    *   5-(1,1-Dimethylhexyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol
-
-
-*    *   -
-
-    *   CP 47,497-C8-Homolog(cis-3-[4-(1,1-Dimethyloctyl)-2-hydroxyphenyl]-cyc
-        lohexanol)
-
-    *   5-(1,1-Dimethyloctyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol
-
-
-*    *   -
-
-    *   CP 47,497-C9-Homolog(cis-3-[4-(1,1-Dimethylnonyl)-2-hydroxyphenyl]-cyc
-        lohexanol)
-
-    *   5-(1,1-Dimethylnonyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol
 
 
 *    *   -
@@ -3409,7 +3595,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Ketobemidon
 
-    *   1-(4-(3-Hydroxyphenyl)-1-methyl-4-piperidyl)propan-1-on
+    *   1-[4-(3-Hydroxyphenyl)-1-methyl-4-piperidyl]propan-1-on
+
+
+*    *   -
+
+    *   meta-Chlorphenylpiperazin (m-CPP)
+
+    *   1-(3-Chlorphenyl)piperazin
 
 
 *    *   -
@@ -3421,37 +3614,93 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Dextromethadon
+    *   CP 47,497 (
+        cis
+        -3-[4-(1,1-Dimethylheptyl)-2-hydroxyphenyl]-cyclohexanol)
 
-    *   (S)-6-Dimethylamino-4,4-diphenylheptan-3-on
+    *   5-(1,1-Dimethylheptyl)-2-[(1
+        RS                       ,3
+        SR                       )-3-hydroxycyclohexyl]-phenol
+
+
+*    *   -
+
+    *   CP 47,497-C6-Homolog(
+        cis
+        -3-[4-(1,1-Dimethylhexyl)-2-hydroxyphenyl]-cyclohexanol)
+
+    *   5-(1,1-Dimethylhexyl)-2-[(1
+        RS                       ,3
+        SR                       )-3-hydroxycyclohexyl]-phenol
+
+
+*    *   -
+
+    *   CP 47,497-C8-Homolog(
+        cis
+        -3-[4-(1,1-Dimethyloctyl)-2-hydroxyphenyl]-cyclohexanol)
+
+    *   5-(1,1-Dimethyloctyl)-2-[(1
+        RS                       ,3
+        SR                       )-3-hydroxycyclohexyl]-phenol
+
+
+*    *   -
+
+    *   CP 47,497-C9-Homolog(
+        cis
+        -3-[4-(1,1-Dimethylnonyl)-2-hydroxyphenyl]-cyclohexanol)
+
+    *   5-(1,1-Dimethylnonyl)-2-[(1
+        RS                       ,3
+        SR                       )-3-hydroxycyclohexyl]-phenol
 
 
 *    *   Cyclobarbital
 
     *   -
 
-    *   5-(Cyclohex-1-en-1-yl)-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion
+    *   5-(Cyclohex-1-en-1-yl)-5-ethylpyrimidin-2,4,6(1
+        H                       ,3
+        H                       ,5
+        H                       )-trion
+
+
+*    *   -
+
+    *   Dextromethadon
+
+    *   (
+        S                       )-6-Dimethylamino-4,4-diphenylheptan-3-on
 
 
 *    *   Dextromoramid
 
     *   -
 
-    *   (S)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
+    *   (
+        S
+        )-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
 
 
 *    *   Dextropropoxyphen
 
     *   -
 
-    *   ((2S,3R)-4-Dimethylamino-3-methyl-1,2-diphenylbutan-2-yl)propionat
+    *   [(2
+        S                       ,3
+        R
+        )-4-Dimethylamino-3-methyl-1,2-diphenylbutan-2-yl]propionat
 
 
 *    *   -
 
     *   Diamorphin
 
-    *   [(5R,6S)-4,5-Epoxy-17-methylmorphin-7-en-3,6-diyl]diacetat
+    *   [(5
+        R                       ,6
+        S
+        )-4,5-Epoxy-17-methylmorphin-7-en-3,6-diyl]diacetat
 
 
 *    *
@@ -3483,21 +3732,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Dihydromorphin
 
-    *   4,5alpha-Epoxy-17-methylmorphinan-3,6alpha-diol
+    *   4,5α-Epoxy-17-methylmorphinan-3,6α-diol
 
 
 *    *   -
 
     *   Dihydrothebain
 
-    *   4,5alpha-Epoxy-3,6-dimethoxy-17-methylmorphin-6-en
+    *   4,5α-Epoxy-3,6-dimethoxy-17-methylmorphin-6-en
 
 
 *    *   Diphenoxylat
 
     *   -
 
-    *   Ethyl(1-(3-cyan-3,3-diphenylpropyl)-4-phenylpiperidin-4-carboxylat)
+    *   Ethyl[1-(3-cyan-3,3-diphenylpropyl)-4-phenylpiperidin-4-carboxylat]
 
 
 *    *
@@ -3553,7 +3802,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3-O-Ethylmorphin (Ethylmorphin)
 
-    *   4,5alpha-Epoxy-3-ethoxy-17-methylmorphin-7-en-6alpha-ol
+    *   4,5α-Epoxy-3-ethoxy-17-methylmorphin-7-en-6α-ol
 
 
 *    *
@@ -3618,7 +3867,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Isocodein
 
-    *   4,5alpha-Epoxy-3-methoxy-17-methylmorphin-7-en-6ß-ol
+    *   4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6ß-ol
 
 
 *    *   Isomethadon
@@ -3646,23 +3895,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   JWH-018 (1-Pentyl-3-(1-naphthoyl)indol)
+    *   JWH-018
+        (1-Pentyl-3-(1-naphthoyl)indol)
 
-    *   (Naphthalin-1-yl)(1-pentyl-1H-indol-3-yl)methanon
-
-
-*    *   -
-
-    *   JWH-019 (1-Hexyl-3-(1-naphthoyl)indol)
-
-    *   (Naphthalin-1-yl)(1-hexyl-1H-indol-3-yl)methanon
+    *   (Naphthalin-1-yl)(1-pentyl-1
+        H                       -indol-3-yl)methanon
 
 
 *    *   -
 
-    *   JWH-073 (1-Butyl-3-(1-naphthoyl)indol)
+    *   JWH-019
+        (1-Hexyl-3-(1-naphthoyl)indol)
 
-    *   (Naphthalin-1-yl)(1-butyl-1H-indol-3-yl)methanon
+    *   (Naphthalin-1-yl)(1-hexyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
+    *   JWH-073
+        (1-Butyl-3-(1-naphthoyl)indol)
+
+    *   (Naphthalin-1-yl)(1-butyl-1
+        H                       -indol-3-yl)methanon
 
 
 *    *   -
@@ -3727,35 +3982,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Levamphetamin
 
-    *   (R)-1-Phenylpropan-2-ylazan
+    *   (
+        R                       )-1-Phenylpropan-2-ylazan
 
 
 *    *   -
 
     *   Levmetamfetamin (Levometamfetamin)
 
-    *   (R)-(Methyl)(1-phenylpropan-2-yl)azan
+    *   (
+        R                       )-(Methyl)(1-phenylpropan-2-yl)azan
 
 
 *    *   Levomoramid
 
     *   -
 
-    *   (R)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
+    *   (
+        R
+        )-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
 
 
 *    *   Levorphanol
 
     *   -
 
-    *   (9R,13R,14R)-17-Methylmorphinan-3-ol
+    *   (9
+        R                       ,13
+        R                       ,14
+        R                       )-17-Methylmorphinan-3-ol
 
 
 *    *   Mazindol
 
     *   -
 
-    *   5-(4-Chlorphenyl)-2,5-dihydro-3H-imidazol[2,1-a]isoindol-5-ol
+    *   5-(4-Chlorphenyl)-2,5-dihydro-3
+        H                       -imidazol[2,1-a]isoindol-5-ol
 
 
 *    *   Mefenorex
@@ -3776,7 +4039,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (Phenylcarbamoyl)(3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl)a
+    *   (Phenylcarbamoyl)[3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl]a
         zanid
 
 
@@ -3784,14 +4047,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Methamphetamin
 
-    *   (2S)-N-Methyl-1-phenylpropan-2-amin
+    *   (2
+        S                       )-
+        N                       -Methyl-1-phenylpropan-2-amin
+
+
+*    *   (
+        RS                       )-Metamfetamin
+
+    *   Metamfetaminracemat
+
+    *   (
+        RS                       )-(Methyl)(1-phenylpropan-2-yl)azan
+
+
+*    *   -
+
+    *   Methadon-Zwischenprodukt (Premethadon)
+
+    *   4-Dimethylamino-2,2-diphenylpentannitril
 
 
 *    *   Methaqualon
 
     *   -
 
-    *   2-Methyl-3-(2-methylphenyl)chinazolin-4(3H)-on
+    *   2-Methyl-3-(2-methylphenyl)chinazolin-4(3
+        H                       )-on
 
 
 *    *   -
@@ -3843,39 +4125,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)propan-1-on
 
 
+*    *   (
+        RS                       ;
+        SR                       )-Methylphenidat
+
+    *   -
+
+    *   Methyl[(
+        RS                       ;
+        SR                       )(phenyl)(2-piperidyl)acetat]
+
+
 *    *   Methyprylon
 
     *   -
 
     *   3,3-Diethyl-5-methylpiperidin-2,4-dion
-
-
-*    *   -
-
-    *   Oripavin
-
-    *   4,5alpha-Epoxy-6-methoxy-17-methylmorphina-6,8-dien-3-ol
-
-
-*    *   (RS)-Metamfetamin
-
-    *   Metamfetaminracemat
-
-    *   (RS)-(Methyl)(1-phenylpropan-2-yl)azan
-
-
-*    *   -
-
-    *   Methadon-Zwischenprodukt (Premethadon)
-
-    *   4-Dimethylamino-2,2-diphenylpentannitril
-
-
-*    *   (RS;SR)-Methylphenidat
-
-    *   -
-
-    *   Methyl((RS;SR)(phenyl)(2-piperidyl)acetat)
 
 
 *    *   -
@@ -3905,14 +4170,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6-Nicotinoylcodein
 
-    *   (4,5alpha-Epoxy-3-methoxy-17-methylmorphin-7-en-6alphayl)nicotinat
+    *   (4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-yl)nicotinat
 
 
 *    *   Nicodicodin
 
     *   6-Nicotinoyldihydrocodein
 
-    *   (4,5alpha-Epoxy-3-methoxy-17-methylmorphinan-6alphayl)nicotinat
+    *   (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-yl)nicotinat
+
+
+*    *   -
+
+    *   Oripavin
+
+    *   4,5α-Epoxy-6-methoxy-17-methylmorphina-6,8-dien-3-ol
+
+
+*    *   Oxymorphon
+
+    *   14-Hydroxydihydromorphinon
+
+    *   4,5α-Epoxy-3,14-dihydroxy-17-methylmorphinan-6-on
 
 
 *    *   -
@@ -3951,18 +4230,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-Methyl-4-phenylpiperidin-4-carbonsäure
 
 
-*    *   Oxymorphon
-
-    *   14-Hydroxydihydromorphinon
-
-    *   4,5a-Epoxy-3,14-dihydroxy-17-methylmorphinan-6-on
-
-
 *    *   Phendimetrazin
 
     *   -
 
-    *   (2S,3S)-3,4-Dimethyl-2-phenylmorpholin
+    *   (2
+        S                       ,3
+        S                       )-3,4-Dimethyl-2-phenylmorpholin
 
 
 *    *   Phenmetrazin
@@ -3976,7 +4250,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Morpholinylethylmorphin
 
-    *   4,5alpha-Epoxy-17-methyl-3-(2-morpholinoethoxy)morphin-7-en-6alpha-ol
+    *   4,5α-Epoxy-17-methyl-3-(2-morpholinoethoxy)morphin-7-en-6α-ol
 
 
 *    *
@@ -3993,28 +4267,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   N-(1-Piperidinopropan-2-yl)-N-(2-pyridyl)propanamid
+    *   N                       -(1-Piperidinopropan-2-yl)-
+        N                       -(2-pyridyl)propanamid
 
 
 *    *   Pyrovaleron
 
     *   -
 
-    *   2-(Pyrrolidin-1-yl)-1-(p-tolyl)pentan-1-on
+    *   2-(Pyrrolidin-1-yl)-1-(ρ-tolyl)pentan-1-on
 
 
 *    *   Racemoramid
 
     *   -
 
-    *   (RS)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
+    *   (
+        RS
+        )-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
 
 
 *    *   Racemorphan
 
     *   -
 
-    *   (9RS,13RS,14RS)-17-Methylmorphinan-3-ol
+    *   (9
+        RS                       ,13
+        RS                       ,14
+        RS                       )-17-Methylmorphinan-3-ol
 
 
 *    *   -
@@ -4025,46 +4305,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -indol-3-yl)methanon
 
 
+*    *   Secbutabarbital
+
+    *   Butabarbital
+
+    *   5-(Butan-2-yl)-5-ethylpyrimidin-2,4,6(1
+        H                       ,3
+        H                       ,5
+        H                       )-trion
+
+
 *    *   -
 
-    *   delta9-Tetrahydrocannabinol (delta9-THC)
+    *   Δ9-Tetrahydrocannabinol (Δ9-THC)
 
-    *   6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo(c)chromen-1-ol
+    *   6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6
+        H                       -benzo[c]chromen-1-ol
 
 
 *    *   -
 
     *   Tetrahydrothebain
 
-    *   4,5alpha-Epoxy-3,6-dimethoxy-17-methylmorphinan
-
-
-*    *   Secbutabarbital
-
-    *   Butabarbital
-
-    *   5-(Butan-2-yl)-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion
+    *   4,5α-Epoxy-3,6-dimethoxy-17-methylmorphinan
 
 
 *    *   Thebacon
 
     *   Acetyldihydrocodeinon
 
-    *   (4,5alpha-Epoxy-3-methoxy-17-methylmorphin-6-en-6-yl)acetat
+    *   (4,5α-Epoxy-3-methoxy-17-methylmorphin-6-en-6-yl)acetat
 
 
 *    *   -
 
     *   Thebain
 
-    *   4,5alpha-Epoxy-3,6-dimethoxy-17-methylmorphina-6,8-dien
+    *   4,5α-Epoxy-3,6-dimethoxy-17-methylmorphina-6,8-dien
 
 
 *    *   cis-Tilidin
 
     *   -
 
-    *   Ethyl((1RS,2RS)-2-dimethylamino-1-phenylcyclohex-3-encarboxylat)
+    *   Ethyl[(1
+        RS                       ,2
+        RS
+        )-2-dimethylamino-1-phenylcyclohex-3-encarboxylat]
 
 
 *    *   -
@@ -4078,14 +4365,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   5-Ethenyl-5-(pentan-2-yl)pyrimidin-2,4,6(1H,3H,5H)-trion
+    *   5-Ethenyl-5-(pentan-2-yl)pyrimidin-2,4,6(1
+        H                       ,3
+        H                       ,5
+        H                       )-trion
 
 
 *    *   Zipeprol
 
     *   -
 
-    *   1-Methoxy-3-(4-(2-methoxy-2-phenylethyl)piperazin-1-yl)-1-phenylpropan
+    *   1-Methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan
         -2-ol
 
 
@@ -4170,9 +4460,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   N-(1-(2-(4-Ethyl-5-oxo-4,5-dihydro-1H-
-        tetrazol-1-yl)ethyl)-4-methoxymethyl-4--
-        4-piperidyl)-N-phenylpropanamid
+    *   N                       -{1-[2-(4-Ethyl-5-oxo-4,5-dihydro-1
+        H
+        -tetrazol-1-yl)ethyl]-4-methoxymethyl-4-piperidyl}-
+        N                       -phenylpropanamid
 
 
 *    *   Allorbarbital
@@ -4186,7 +4477,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   8-Chlor-1-methyl-6-phenyl-4H-(1,2,4)triazolo(4,3-a)(1,4)benzodiazepin
+    *   8-Chlor-1-methyl-6-phenyl-4
+        H                       -[1,2,4]triazolo[4,3-a][1,4]benzodiazepin
 
 
 *    *
@@ -4220,7 +4512,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Amphetamin
 
-    *   RS)-1-Phenylpropan-2-ylazan
+    *   (
+        RS                       )-1-Phenylpropan-2-ylazan
 
 
 *    *   Amobarbital
@@ -4262,7 +4555,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Brom-5-(2-pyridyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   7-Brom-5-(2-pyridyl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4278,8 +4572,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   2-Brom-4-(2-chlorphenyl)-9-methyl-6H-
-        thieno(3,2-f)(1,2,4)triazolo(4,3-a)(1,4)diazepin
+    *   2-Brom-4-(2-chlorphenyl)-9-methyl-6
+        H
+        -thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin
 
 
 *    *
@@ -4295,16 +4590,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (5R,6R,7R,14S)-17-Cyclopropyl-methyl-4,5-epoxy-7-((S)-2-hydroxy-3,3-di
-        methylbutan-2-yl)-6-methoxy-6,14-ethanomorphinan-3-ol
+    *   (5
+        R                       ,6
+        R                       ,7
+        R                       ,14
+        S                       )-17-Cyclopropyl-methyl-4,5-epoxy-7-[(
+        S                       )-2-hydroxy-3,3-dimethylbutan-2-yl]-6-methoxy-
+        6,14-ethanomorphinan-3-ol
 
 
 *    *   Camazepam
 
     *   -
 
-    *   (7-Chlor-1-methyl-2-oxo-5-phenyl-2,3-dihydro-
-        1H-1,4-enzodiazepin-3-yl)(dimethylcarbamat)
+    *   (7-Chlor-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1
+        H                       -1,4-enzodiazepin-3-yl)(dimethylcarbamat)
 
 
 *    *   -
@@ -4324,7 +4624,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   (+)-Norpseudoephedrin (D-Norpseudoephedrin)
 
-    *   (1S,2S)-2-Amino-1-phenylpropan-1-ol
+    *   (1
+        S                       ,2
+        S                       )-2-Amino-1-phenylpropan-1-ol
 
 
 *    *
@@ -4341,7 +4643,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-2-methylamino-5-phenyl-3H-1,4-benzodiazepin-4-oxid
+    *   7-Chlor-2-methylamino-5-phenyl-3
+        H                       -1,4-benzodiazepin-4-oxid
 
 
 *    *
@@ -4357,8 +4660,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-1-methyl-5-phenyl-1,3-dihydro-
-        2H-1,5-benzodiazepin-2,4(5H)-dion
+    *   7-Chlor-1-methyl-5-phenyl-1,3-dihydro-2
+        H                       -1,5-benzodiazepin-2,4(5
+        H                       )-dion
 
 
 *    *
@@ -4373,7 +4677,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   5-(2-Chlorphenyl)-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   5-(2-Chlorphenyl)-7-nitro-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4390,8 +4695,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (RS)-7-Chlor-2-oxo-5-phenyl-2,3-dihydro-
-        1H-1,4-benzodiazepin-3-carbonsäure
+    *   (
+        RS                       )-7-Chlor-2-oxo-5-phenyl-2,3-dihydro-1
+        H                       -1,4-benzodiazepin-3-carbonsäure
 
 
 *    *
@@ -4408,8 +4714,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   5-(2-Chlorphenyl)-7-ethyl-1-methyl-1,3-dihydro-2H-
-        thieno(2,3-e)(1,4)diazepin-2-on
+    *   5-(2-Chlorphenyl)-7-ethyl-1-methyl-1,3-dihydro-2
+        H                       -thieno[2,3-e][1,4]diazepin-2-on
 
 
 *    *
@@ -4426,21 +4732,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   10-Chlor-11b-(2-chlorphenyl)-2,3,7,11b-
-        tetrahydro(1,3)oxazolo(3,2-d)(1,4)benzodiazepin-6(5H)-on
+        tetrahydro[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6(5
+        H                       )-on
 
 
 *    *   -
 
     *   Cocain (Benzoylecgoninmethylester)
 
-    *   Methyl(3ß-(benzoyloxy)tropan-2ß-carboxylat)
+    *   Methyl[3ß-(benzoyloxy)tropan-2ß-carboxylat]
 
 
 *    *   -
 
     *   Codein (3-Methylmorphin)
 
-    *   4,5alpha-Epoxy-3-methoxy-17-methylmorphin-7-en-6alpha-ol
+    *   4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-ol
 
 
 *    *
@@ -4459,28 +4766,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-5-(2-chlorphenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-(2-chlorphenyl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *   Dexamfetamin
 
     *   Dexamphetamin
 
-    *   (S)-1-Phenylpropan-2-ylazan
+    *   (
+        S                       )-1-Phenylpropan-2-ylazan
 
 
 *    *   Dexmethylphenidat
 
     *   -
 
-    *   Methyl((R,R)(phenyl)(2-piperidyl)acetat)
+    *   Methyl[(
+        R,R                       )(phenyl)(2-piperidyl)acetat]
 
 
 *    *   -
 
     *   Diamorphin
 
-    *   [(5R,6S)-4,5-Epoxy-17-methylmorphin-7-en-3,6-diyl]diacetat
+    *   [(5
+        R                       ,6
+        S
+        )-4,5-Epoxy-17-methylmorphin-7-en-3,6-diyl]diacetat
 
 
 *    *
@@ -4495,7 +4808,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-1-methyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-1-methyl-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4512,7 +4826,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   4,5alpha-Epoxy-3-methoxy-17-methylmorphinan-6alpha-ol
+    *   4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-ol
 
 
 *    *
@@ -4532,15 +4846,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-
-        benzo(c)chromen-1-ol
+    *   (6a
+        R                       ,10a
+        R                       )-6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-
+        tetrahydro-6
+        H                       -benzo[c]chromen-1-ol
 
 
 *    *   Estazolam
 
     *   -
 
-    *   8-Chlor-6-phenyl-4H-(1,2,4)triazolo(4,3-a)benzodiazepin
+    *   8-Chlor-6-phenyl-4
+        H                       -[1,2,4]triazolo[4,3-a]benzodiazepin
 
 
 *    *
@@ -4555,31 +4873,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Ethyl(7-chlor-5-(2-fluorphenyl)-2-oxo-2,3-dihydro-
-        1H-1,4-benzodiazepin-3-carboxylat)
+    *   Ethyl[7-chlor-5-(2-fluorphenyl)-2-oxo-2,3-dihydro-1
+        H                       -1,4-benzodiazepin-3-carboxylat]
 
 
 *    *   Etorphin
 
     *   -
 
-    *   (5R,6R,7R,14R)-4,5-Epoxy-7-((R)-2-hydroxypentan-2-yl)-6-methoxy-17-met
-        hyl-6,14-ethenomorphinan-3-ol
+    *   (5
+        R                       ,6
+        R                       ,7
+        R                       ,14
+        R                       )-4,5-Epoxy-7-[(R)-2-hydroxypentan-2-yl]-6-met
+        hoxy-17-methyl-6,14-ethenomorphinan-3-ol
 
 
 *    *   Fenetyllin
 
     *   -
 
-    *   1,3-Dimethyl-7-(2-(1-phenylpropan-2-ylamino)ethyl)-3,7-dihydro-2H-
-        purin-2,6(1H)-dion
+    *   1,3-Dimethyl-7-[2-(1-phenylpropan-2-ylamino)ethyl]-3,7-dihydro-2
+        H                       -purin-2,6(1
+        H                       )-dion
 
 
 *    *   Fenproporex
 
     *   -
 
-    *   (RS)-3-(1-Phenylpropan-2-ylamino)propannitril
+    *   (
+        RS                       )-3-(1-Phenylpropan-2-ylamino)propannitril
 
 
 *    *
@@ -4595,31 +4919,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   N-(1-Phenethyl-4-piperidyl)-N-phenylpropanamid
+    *   N                       -(1-Phenethyl-4-piperidyl)-
+        N                       -phenylpropanamid
 
 
 *    *   Fludiazepam
 
     *   -
 
-    *   7-Chlor-5-(2-fluorphenyl)-1-methyl-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-(2-fluorphenyl)-1-methyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *   Flunitrazepam
 
     *   -
 
-    *   5-(2-Fluorphenyl)-1-methyl-7-nitro-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   5-(2-Fluorphenyl)-1-methyl-7-nitro-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *   Flurazepam
 
     *   -
 
-    *   7-Chlor-1-(2-diethylaminoethyl)-5-(2-fluorphenyl)-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-1-(2-diethylaminoethyl)-5-(2-fluorphenyl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4635,8 +4960,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-5-phenyl-1-(2,2,2-trifluorethyl)-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-phenyl-1-(2,2,2-trifluorethyl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4653,26 +4978,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   10-Brom-11b-(2-fluorphenyl)-2,3,7,11b-
-        tetrahydro(1,3)oxazolo(3,2-d)(1,4)benzodiazepin-6(5H)-on
+        tetrahydro[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6(5
+        H                       )-on
 
 
 *    *   Hydrocodon
 
     *   Dihydrocodeinon
 
-    *   4,5alpha-Epoxy-3-methoxy-17-methylmorphinan-6-on
+    *   4,5α-Epoxy-3-methoxy-17-methylmorphinan-6-on
 
 
 *    *   Hydromorphon
 
     *   Dihydromorphinon
 
-    *   4,5alpha-Epoxy-3-hydroxy-17-methylmorphinan-6-on
+    *   4,5α-Epoxy-3-hydroxy-17-methylmorphinan-6-on
 
 
 *    *   -
 
-    *   Gamma-Hydroxybuttersäure (GHB)
+    *   γ-Hydroxybuttersäure (GHB)
 
     *   4-Hydroxybutansäure
 
@@ -4691,8 +5017,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   11-Chlor-2,8-dimethyl-12b-phenyl-8,12b-dihydro-
-        4H-(1,3)oxazino(3,2-d)(1,4)benzodiazepin-4,7(6H)-dion
+    *   11-Chlor-2,8-dimethyl-12b-phenyl-8,12b-dihydro-4
+        H                       -[1,3]oxazino[(3,2-d][1,4]benzodiazepin-4,7(6
+        H                       )-dion
 
 
 *    *
@@ -4708,22 +5035,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Levomethadylacetat (LAAM)
 
-    *   ((3S,6S)-6-Dimethylamino-4,4- diphenylheptan-3-yl)acetat
+    *   [(3
+        S                       ,6
+        S                       )-6-Dimethylamino-4,4-
+        diphenylheptan-3-yl]acetat
 
 
 *    *   Levomethadon
 
     *   -
 
-    *   (R)-6-Dimethylamino-4,4-diphenylheptan-3-on
+    *   (
+        R                       )-6-Dimethylamino-4,4-diphenylheptan-3-on
 
 
 *    *   Loprazolam
 
     *   -
 
-    *   6-(2-Chlorphenyl)-2-((Z)-4-methylpiperazin-1-ylmethylen)-8-nitro-2,4
-        -dihydro-1H-imidazo(1,2-a)(1,4)benzodiazepin-1-on
+    *   6-(2-Chlorphenyl)-2-[(Z)-4-methylpiperazin-1-ylmethylen]-8-nitro-2,4-d
+        ihydro-1
+        H                       -imidazo[1,2-a][1,4]benzodiazepin-1-on
 
 
 *    *
@@ -4739,8 +5071,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (RS)-7-Chlor-5-(2-chlorphenyl)-3-hydroxy-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   (
+        RS
+        )-7-Chlor-5-(2-chlorphenyl)-3-hydroxy-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4756,8 +5090,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-5-(2-chlorphenyl)-3-hydroxy-1-methyl-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-(2-chlorphenyl)-3-hydroxy-1-methyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4773,7 +5107,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-1-methyl-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin
+    *   7-Chlor-1-methyl-5-phenyl-2,3-dihydro-1
+        H                       -1,4-benzodiazepin
 
 
 *    *
@@ -4789,21 +5124,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (RS)-6-Dimethylamino-4,4-diphenylheptan-3-on
+    *   (
+        RS                       )-6-Dimethylamino-4,4-diphenylheptan-3-on
 
 
 *    *   Methylphenidat
 
     *   -
 
-    *   Methyl((RS;RS)(phenyl)(2-piperidyl)acetat)
+    *   Methyl[(
+        RS                       ;
+        RS                       )(phenyl)(2-piperidyl)acetat]
 
 
 *    *   Methylphenobarbital
 
     *   Mephobarbital
 
-    *   (RS)-5-Ethyl-1-methyl-5-phenyl-barbitursäure
+    *   (
+        RS                       )-5-Ethyl-1-methyl-5-phenyl-barbitursäure
 
 
 *    *
@@ -4819,7 +5158,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   8-Chlor-6-(2-fluorphenyl)-1-methyl-4H-imidazo(1,5-a)(1,4)benzodiazepin
+    *   8-Chlor-6-(2-fluorphenyl)-1-methyl-4
+        H                       -imidazo[1,5-a][1,4]benzodiazepin
 
 
 *    *
@@ -4835,29 +5175,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Morphin
 
-    *   (5R,6S)-4,5-Epoxy-17-methyl-morphin-7-en-3,6-diol
+    *   (5
+        R                       ,6
+        S                       )-4,5-Epoxy-17-methyl-morphin-7-en-3,6-diol
 
 
 *    *   Nabilon
 
     *   -
 
-    *   (6aRS,10aRS)-1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-yl)-6,6a,7,8,10
-        ,10a-hexahydro-9H-benzo(c)chromen-9-on
+    *   (6a
+        RS                       ,10a
+        RS
+        )-1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-yl)-6,6a,7,8,10,10a-
+        hexahydro-9
+        H                       -benzo[c]chromen-9-on
 
 
 *    *   Nimetazepam
 
     *   -
 
-    *   1-Methyl-7-nitro-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   1-Methyl-7-nitro-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *   Nitrazepam
 
     *   -
 
-    *   7-Nitro-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   7-Nitro-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4874,7 +5222,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -4915,7 +5264,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-3-hydroxy-5-phenyl-1,3-dihydro-2H-1,4-benzo-diazepin-2-on
+    *   7-Chlor-3-hydroxy-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzo-diazepin-2-on
 
 
 *    *
@@ -4930,8 +5280,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (2RS,11bSR)-10-Chlor-2-methyl-11b-phenyl-2,3,7,11b-
-        tetrahydro(1,3)oxazolo(3,2-d)(1,4)benzodiazepin-6(5H)-on
+    *   (2
+        RS                       ,11b
+        SR                       )-10-Chlor-2-methyl-11b-phenyl-2,3,7,11b-
+        tetrahydro[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6(5
+        H                       )-on
 
 
 *    *
@@ -4946,7 +5299,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14-Hydroxydihydrocodeinon
 
-    *   4,5alpha-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-on
+    *   4,5α-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-on
 
 
 *    *   -
@@ -5003,15 +5356,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (2R,6R,11R)-6,11-Dimethyl-3-(3-methylbut-2-en-1-yl)-1,2,3,4,5,6-hexahy
-        dro-2,6-methano-3-benzazocin-8-ol
+    *   (2
+        R                       ,6
+        R                       ,11
+        R                       )-6,11-Dimethyl-3-(3-methylbut-2-en-1-yl)-1,2,
+        3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol
 
 
 *    *   Pentobarbital
 
     *   -
 
-    *   (RS)-5-Ethyl-5-(pentan-2-yl)barbitursäure
+    *   (
+        RS                       )-5-Ethyl-5-(pentan-2-yl)barbitursäure
 
 
 *    *   Pethidin
@@ -5057,8 +5414,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-5-phenyl-1-(prop-2-in1-yl)-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-phenyl-1-(prop-2-in1-yl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *   Pipradrol
@@ -5072,15 +5429,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   1'-(3-Cyan-3,3-diphenylpropyl)(1,4'-bipiperidin)-4'-carboxamid
+    *   1'-(3-Cyan-3,3-diphenylpropyl)[1,4'-bipiperidin]-4'-carboxamid
 
 
 *    *   Prazepam
 
     *   -
 
-    *   7-Chlor-1-cyclopropylmethyl-5-phenyl-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-1-cyclopropylmethyl-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -5095,8 +5452,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Methyl(3-(4-methoxycarbonyl-4-(N-phenylpropanamido)piperidino)propanoa
-        t)
+    *   Methyl{3-[4-methoxycarbonyl-4-(
+        N                       -phenylpropanamido)piperidino]propanoat}
 
 
 *    *   Secobarbital
@@ -5110,23 +5467,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   N-(4-Methoxymethyl-1-(2-(2-thienyl)ethyl)-4-piperidyl)-N-phenylpropana
-        mid
+    *   N
+        -{4-Methoxymethyl-1-[2-(2-thienyl)ethyl]-4-piperidyl}-
+        N                       -phenylpropanamid
 
 
 *    *   Tapentadol
 
     *   -
 
-    *   3-[(2R,3R)-1-Dimethylamino-2-methylpentan-3-yl]phenol
+    *   3-[(2
+        R                       ,3
+        R                       )-1-Dimethylamino-2-methylpentan-3-yl]phenol
 
 
 *    *   Temazepam
 
     *   -
 
-    *   (RS)-7-Chlor-3-hydroxy-1-methyl-5-phenyl-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   (
+        RS
+        )-7-Chlor-3-hydroxy-1-methyl-5-phenyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -5142,8 +5504,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   7-Chlor-5-(cyclohex-1-enyl)-1-methyl-1,3-dihydro-
-        2H-1,4-benzodiazepin-2-on
+    *   7-Chlor-5-(cyclohex-1-enyl)-1-methyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
 
 
 *    *
@@ -5159,7 +5521,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   trans-Tilidin
 
-    *   Ethyl((1RS,2SR)-2-dimethyl-amino-1-phenylcyclohex-3-encarboxylat)
+    *   Ethyl[(1
+        RS                       ,2
+        SR                       )-2-dimethyl-
+        amino-1-phenylcyclohex-3-encarboxylat]
 
 
 *    *
@@ -5176,8 +5541,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   8-Chlor-6-(2-chlorphenyl)-1-methyl-
-        4H-(1,2,4)triazolo(4,3-a)(1,4)benzodiazepin
+    *   8-Chlor-6-(2-chlorphenyl)-1-methyl-4
+        H                       -[1,2,4]triazolo[4,3-a][1,4]benzodiazepin
 
 
 *    *
@@ -5193,7 +5558,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   N,N-Dimethyl-2-(6-methyl-2-(p-toly)imidazo(1,2-a)pyridin-3-yl)acetamid
+    *   N,N
+        -Dimethyl-2-[6-methyl-2-(p-toly)imidazo[1,2-a]pyridin-3-yl]acetamid
 
 
 *    *
@@ -5204,8 +5570,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
-*    *
 
 *    *
         -   die Salze und Molekülverbindungen der in dieser Anlage aufgeführten

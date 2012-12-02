@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.7.2012 I 1601
+:   Art. 2a G v. 19.10.2012 I 2192
 
 
 ## Eingangsformel
@@ -31,15 +31,24 @@ beschlossen:
 ## Abschnitt 1 - Allgemeine Vorschriften
 
 
-### § 1 Anwendungsbereich
+### § 1 Ziel und Anwendungsbereich des Gesetzes
 
-(1) Dieses Gesetz gilt für die Spende und die Entnahme von
+(1) Ziel des Gesetzes ist es, die Bereitschaft zur Organspende in
+Deutschland zu fördern. Hierzu soll jede Bürgerin und jeder Bürger
+regelmäßig im Leben in die Lage versetzt werden, sich mit der Frage
+seiner eigenen Spendebereitschaft ernsthaft zu befassen und
+aufgefordert werden, die jeweilige Erklärung auch zu dokumentieren. Um
+eine informierte und unabhängige Entscheidung jedes Einzelnen zu
+ermöglichen, sieht dieses Gesetz eine breite Aufklärung der
+Bevölkerung zu den Möglichkeiten der Organ- und Gewebespende vor.
+
+(2) Dieses Gesetz gilt für die Spende und die Entnahme von
 menschlichen Organen oder Geweben zum Zwecke der Übertragung sowie für
 die Übertragung der Organe oder der Gewebe einschließlich der
 Vorbereitung dieser Maßnahmen. Es gilt ferner für das Verbot des
 Handels mit menschlichen Organen oder Geweben.
 
-(2) Dieses Gesetz gilt nicht für
+(3) Dieses Gesetz gilt nicht für
 
 1.  Gewebe, die innerhalb ein und desselben chirurgischen Eingriffs einer
     Person entnommen werden, um auf diese rückübertragen zu werden,
@@ -145,18 +154,66 @@ Im Sinne dieses Gesetzes
 (1) Die nach Landesrecht zuständigen Stellen, die Bundesbehörden im
 Rahmen ihrer Zuständigkeit, insbesondere die Bundeszentrale für
 gesundheitliche Aufklärung, sowie die Krankenkassen sollen auf der
-Grundlage dieses Gesetzes die Bevölkerung über die Möglichkeiten der
-Organ- und Gewebespende, die Voraussetzungen der Organ- und
-Gewebeentnahme und die Bedeutung der Organ- und Gewebeübertragung
-einschließlich einer möglichen medizinischen Anwendung von aus Geweben
-hergestellten Arzneimitteln aufklären. Sie sollen auch Ausweise für
-die Erklärung zur Organ- und Gewebespende (Organ- und
-Gewebespendeausweise) zusammen mit geeigneten Aufklärungsunterlagen
-bereithalten. Die Krankenkassen und die privaten
-Krankenversicherungsunternehmen stellen diese Unterlagen in
-regelmäßigen Abständen ihren Versicherten, die das sechzehnte
-Lebensjahr vollendet haben, zur Verfügung mit der Bitte, eine
-Erklärung zur Organ- und Gewebespende abzugeben.
+Grundlage dieses Gesetzes die Bevölkerung aufklären über
+
+1.  die Möglichkeiten der Organ- und Gewebespende,
+
+
+2.  die Voraussetzungen der Organ- und Gewebeentnahme bei toten Spendern
+    einschließlich der Bedeutung einer zu Lebzeiten abgegebenen Erklärung
+    zur Organ- und Gewebespende, auch im Verhältnis zu einer
+    Patientenverfügung, und der Rechtsfolge einer unterlassenen Erklärung
+    im Hinblick auf das Entscheidungsrecht der nächsten Angehörigen nach §
+    4 sowie
+
+
+3.  die Bedeutung der Organ- und Gewebeübertragung im Hinblick auf den für
+    kranke Menschen möglichen Nutzen einer medizinischen Anwendung von
+    Organen und Geweben einschließlich von aus Geweben hergestellten
+    Arzneimitteln.
+
+
+
+Die Aufklärung hat die gesamte Tragweite der Entscheidung zu umfassen
+und muss ergebnisoffen sein. Die in Satz 1 benannten Stellen sollen
+auch Ausweise für die Erklärung zur Organ- und Gewebespende
+(Organspendeausweis) zusammen mit geeigneten Aufklärungsunterlagen
+bereithalten und der Bevölkerung zur Verfügung stellen. Bund und
+Länder stellen sicher, dass den für die Ausstellung und die Ausgabe
+von amtlichen Ausweisdokumenten zuständigen Stellen des Bundes und der
+Länder Organspendeausweise zusammen mit geeigneten
+Aufklärungsunterlagen zur Verfügung stehen und dass diese bei der
+Ausgabe der Ausweisdokumente dem Empfänger des Ausweisdokuments einen
+Organspendeausweis zusammen mit geeigneten Aufklärungsunterlagen
+aushändigen.
+
+(1a) Die Krankenkassen haben, unbeschadet ihrer Pflichten nach Absatz
+1, die in Absatz 1 Satz 3 genannten Unterlagen ihren Versicherten, die
+das 16. Lebensjahr vollendet haben, zur Verfügung zu stellen, wenn
+ihnen die elektronische Gesundheitskarte nach § 291a des Fünften
+Buches Sozialgesetzbuch ausgestellt wird. Die privaten
+Krankenversicherungsunternehmen haben die in Absatz 1 Satz 3 genannten
+Unterlagen ihren Versicherten, die das 16. Lebensjahr vollendet haben,
+alle fünf Jahre zusammen mit der Beitragsmitteilung nach § 10 Absatz
+2a Satz 9 des Einkommensteuergesetzes zur Verfügung zu stellen. Ist
+den Krankenkassen und den privaten Krankenversicherungsunternehmen ein
+erstmaliges Erfüllen der Verpflichtungen nach den Sätzen 1 und 2
+innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes nicht
+möglich, haben sie die Unterlagen nach Absatz 1 Satz 3 ihren
+Versicherten innerhalb des vorgenannten Zeitraums in anderer
+geeigneter Weise zur Verfügung zu stellen. Solange die Möglichkeit zur
+Speicherung der Erklärungen der Versicherten zur Organ- und
+Gewebespende nach § 291a Absatz 3 Satz 1 Nummer 7 des Fünften Buches
+Sozialgesetzbuch nicht zur Verfügung steht, haben die Krankenkassen
+und die privaten Krankenversicherungsunternehmen die in Absatz 1 Satz
+3 genannten Unterlagen ihren Versicherten alle zwei Jahre zu
+übersenden. Mit der Zurverfügungstellung der Unterlagen fordern die
+Krankenkassen und die privaten Krankenversicherungsunternehmen die
+Versicherten auf, eine Erklärung zur Organ- und Gewebespende zu
+dokumentieren und benennen ihnen gegenüber fachlich qualifizierte
+Ansprechpartner für Fragen zur Organ- und Gewebespende sowie zur
+Bedeutung einer zu Lebzeiten abgegebenen Erklärung zur Organ- und
+Gewebespende, auch im Verhältnis zu einer Patientenverfügung.
 
 (2) Wer eine Erklärung zur Organ- und Gewebespende abgibt, kann in
 eine Organ- und Gewebeentnahme nach § 3 einwilligen, ihr widersprechen
@@ -166,6 +223,9 @@ Erklärung kann auf bestimmte Organe oder Gewebe beschränkt werden. Die
 Einwilligung und die Übertragung der Entscheidung können vom
 vollendeten sechzehnten, der Widerspruch kann vom vollendeten
 vierzehnten Lebensjahr an erklärt werden.
+
+(2a) Niemand kann verpflichtet werden, eine Erklärung zur Organ- und
+Gewebespende abzugeben.
 
 (3) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
 mit Zustimmung des Bundesrates einer Stelle die Aufgabe übertragen,
@@ -1537,11 +1597,11 @@ nach § 16a dokumentiert wird.
 
 Die Einrichtungen der medizinischen Versorgung haben
 
-1.  jeden schwerwiegenden Zwischenfall im Sinne des § 63c Absatz 6 des
+1.  jeden schwerwiegenden Zwischenfall im Sinne des § 63i Absatz 6 des
     Arzneimittelgesetzes und
 
 
-2.  jede schwerwiegende unerwünschte Reaktion im Sinne des § 63c Absatz 7
+2.  jede schwerwiegende unerwünschte Reaktion im Sinne des § 63i Absatz 7
     des Arzneimittelgesetzes, die bei oder nach der Übertragung der Gewebe
     beobachtet wurde und mit der Qualität und Sicherheit der Gewebe im
     Zusammenhang stehen kann,
@@ -1560,8 +1620,8 @@ mitzuteilen.
 
 (1) Jede Gewebeeinrichtung legt ein Verfahren fest, mit dem sie jedes
 Gewebe, das durch einen schwerwiegenden Zwischenfall im Sinne des §
-63c Absatz 6 des Arzneimittelgesetzes oder eine schwerwiegende
-unerwünschte Reaktion im Sinne des § 63c Absatz 7 des
+63i Absatz 6 des Arzneimittelgesetzes oder eine schwerwiegende
+unerwünschte Reaktion im Sinne des § 63i Absatz 7 des
 Arzneimittelgesetzes beeinträchtigt sein könnte, unverzüglich
 aussondern, von der Abgabe ausschließen und die belieferten
 Einrichtungen der medizinischen Versorgung unterrichten kann.

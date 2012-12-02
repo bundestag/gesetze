@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 2523
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 11 G v. 22.12.2011 I 3044
+:   Art. 10 G v. 19.10.2012 I 2192
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen

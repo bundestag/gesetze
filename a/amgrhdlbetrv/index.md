@@ -1,5 +1,5 @@
 ---
-Title: Betriebsverordnung für Arzneimittelgroßhandelsbetriebe
+Title: Verordnung über den Großhandel und die Arzneimittelvermittlung
 jurabk: AMGrHdlBetrV
 layout: default
 origslug: amgrhdlbetrv
@@ -7,7 +7,7 @@ slug: amgrhdlbetrv
 
 ---
 
-# Betriebsverordnung für Arzneimittelgroßhandelsbetriebe (AMGrHdlBetrV)
+# Verordnung über den Großhandel und die Arzneimittelvermittlung (AMGrHdlBetrV)
 
 Ausfertigungsdatum
 :   1987-11-10
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2370
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.7.2007 I 1574
+:   Art. 7 G v. 19.10.2012 I 2192
 
 
 ## Eingangsformel
