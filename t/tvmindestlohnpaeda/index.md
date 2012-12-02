@@ -36,8 +36,8 @@ Dieser Tarifvertrag gilt
 3.  persönlich für alle Arbeitnehmerinnen/Arbeitnehmer im pädagogischen
     Bereich mit Ausnahme von Praktikantinnen/Praktikanten (auch im
     Anerkennungsjahr). Arbeitnehmerinnen/Arbeitnehmer im pädagogischen
-    Bereich sind mit der Aus- und Weitebildung, Vermittlung oder Betreuung
-    von Teilnehmerinnen/Teilnehmer betraut.
+    Bereich sind mit der Aus- und Weiterbildung, Vermittlung oder
+    Betreuung von Teilnehmerinnen/Teilnehmer betraut.
 
 
 
