@@ -1020,6 +1020,23 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Dresden)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl. I 1995, S. 1236 - 1237)
+   (Fundstelle: BGBl I 1995, 1236 - 1237)
 
+1 : 50 000
+Lärmschutzbereich
+für den Verkehrsflughafen Dresden
+(Gesetz zum Schutz gegen Fluglärm vom 30. März 1971, BGBl. I S. 282)
+
+![bgbl1_1995_j1236_0010.jpg](bgbl1_1995_j1236_0010.jpg)
+Das rechtwinklige Koordinatengitter entspricht dem Gauß-Krüger-System
+mit 3° breitem Meridianstreifen.
+
+Kartengrundlage:
+Topographische Karte 1 : 50 000 (Serie M745)
+Vervielfältigung der Kartengrundlage mit Genehmigung des Deutschen
+Militärgeographischen Dienstes (DMG) – Lizenz BQ0001-7
+
+Gravur der Lärmschutzgrenzen und Druck:
+Institut für Angewandte Geodäsie, Frankfurt am Main, 1995
+
+![bgbl1_1995_j1237_0010.jpg](bgbl1_1995_j1237_0010.jpg)

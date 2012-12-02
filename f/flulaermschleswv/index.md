@@ -4263,6 +4263,7 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Schleswig in der Fassung der Ersten Änderungsverordnung vom 24. Oktober 1986)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1986, 1675 - 1676)
+   (Fundstelle: BGBl I 1986, 1675 - 1676)
 
+![bgbl1_1986_j1675_0010.jpg](bgbl1_1986_j1675_0010.jpg)
+![bgbl1_1986_j1676_0010.jpg](bgbl1_1986_j1676_0010.jpg)

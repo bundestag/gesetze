@@ -899,6 +899,23 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Paderborn/Lippstadt)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl. I 1995, 278 - 279)
+   (Fundstelle: BGBl I 1995, 278 - 279)
 
+1 : 50 000
+Lärmschutzbereich
+für den Verkehrsflughafen Paderborn/Lippstadt
+(Gesetz zum Schutz gegen Fluglärm vom 30. März 1971, BGBl. I S. 282)
+
+![bgbl1_1995_j0278_0010.jpg](bgbl1_1995_j0278_0010.jpg)
+Das rechtwinklige Koordinatengitter entspricht dem Gauß-Krüger-System
+mit 3° breitem Meridianstreifen. Es zeigt zugleich die Begrenzung der
+zugehörigen Blätter der Deutschen Grundkarte 1 : 5 000.
+
+Kartengrundlage:
+Topographische Karte 1 : 50 000
+(mit Genehmigung des Landesvermessungsamtes Nordrhein-Westfalen).
+
+Gravur der Lärmschutzgrenzen und Druck:
+Landesvermessungsamt Nordrhein-Westfalen, 1994
+
+![bgbl1_1995_j0279_0010.jpg](bgbl1_1995_j0279_0010.jpg)

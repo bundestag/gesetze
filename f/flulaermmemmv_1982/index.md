@@ -4433,6 +4433,7 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Memmingen in der Fassung der Ersten Änderungsverordnung vom 28. Juli 1992)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl. I 1992, 1474 - 1475)
+   (Fundstelle: BGBl I 1992, 1474 - 1475)
 
+![bgbl1_1992_j1474_0010.jpg](bgbl1_1992_j1474_0010.jpg)
+![bgbl1_1992_j1475_0010.jpg](bgbl1_1992_j1475_0010.jpg)

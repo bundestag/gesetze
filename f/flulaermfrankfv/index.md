@@ -6147,6 +6147,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Frankfurt/Main)
 
-   (Inhalt: nicht darstellbare Karte,
-Fundstelle: BGBl I 1977, 1539 - 1540)
+   (Fundstelle: BGBl I 1977, 1539 - 1540)
 
+![bgbl1_1977_j1539_0010.jpg](bgbl1_1977_j1539_0010.jpg)![bgbl1_1977_j1540_0010.jpg](bgbl1_1977_j1540_0010.jpg)

@@ -3809,7 +3809,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Eggebek in der Fassung der Ersten Änderungsverordnung vom 2. April 1987)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl. I 1979, 276 - 277;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+   (Fundstelle: BGBl I 1979, 276 - 277)
 
+![bgbl1_1979_j0276_0010.jpg](bgbl1_1979_j0276_0010.jpg)![bgbl1_1979_j0277_0010.jpg](bgbl1_1979_j0277_0010.jpg)
