@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 31.1.1991 I 169;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 65 G v. 22.12.2011 I 3044
+:   Art. 1 V v. 11.10.2012 I 2171
 
 
 ## Abschnitt I - Anwendungsbereich des Gesetzes
@@ -686,7 +686,11 @@ Identifikationsnummer ist in die Anleitung aufzunehmen. Die
 Bundesanstalt kann zur Abwendung von Gefahren für Leben und Gesundheit
 Beschäftigter oder Dritter oder Sachgüter die vom Hersteller
 festgelegten Anleitungen zur Verwendung einschränken oder ergänzen;
-eine nachträgliche Einschränkung oder Ergänzung ist zulässig.
+eine nachträgliche Einschränkung oder Ergänzung ist zulässig. Satz 4
+findet keine Anwendung auf pyrotechnische Gegenstände für
+Kraftfahrzeuge sowie Feuerwerk der Kategorien 1 und 4, wenn die
+Identifikationsnummer in die nach § 13 Absatz 1 Nummer 3 zu führenden
+Listen aufgenommen ist.
 
 (5) Wettersprengstoffe und Wettersprengschnüre werden entsprechend
 ihrer Sicherheit gegen Schlagwetter in die Klassen I, II und III
@@ -1240,7 +1244,9 @@ vorschreiben, ist folgende Kennzeichnung anzubringen:
 5.  bei Explosivstoffen: die eindeutige Kennzeichnung nach dem Anhang der
     Richtlinie 2008/43/EG der Kommission vom 4. April 2008 zur Einführung
     eines Systems zur Identifizierung und Rückverfolgbarkeit von
-    Explosivstoffen für zivile Zwecke (ABl. L 94 vom 5.4.2008, S. 8),
+    Explosivstoffen für zivile Zwecke (ABl. L 94 vom 5.4.2008, S. 8), die
+    zuletzt durch die Richtlinie 2012/4/EU (ABl. L 50 vom 23.2.2012, S.
+    18) geändert worden ist,
 
 
 6.  bei pyrotechnischen Gegenständen mit Ausnahme der pyrotechnischen
@@ -1347,9 +1353,9 @@ Herstellungsstätte oder des Einführers wird ihnen auf schriftlichen
 Antrag von der Bundesanstalt zugeteilt. Bei Artikeln, die zu klein
 sind, um den eindeutigen Produktcode und die logistischen
 Informationen des Herstellers nach § 14 Absatz 1 Nummer 5 anzubringen,
-sind die Angabe des Landeskennzeichens und die Kennnummer der
-Herstellungsstätte sowie die elektronisch lesbare Kennzeichnung
-ausreichend.
+ist die Kennzeichnung gemäß Nummer 3 des Anhangs der Richtlinie
+2008/43/EG, die durch die Richtlinie 2012/4/EU (ABl. L 50 vom
+23\.2.2012, S. 18) geändert worden ist, auszuführen.
 
 (2) Der Hersteller oder Einführer darf den Explosivstoffen
 selbstklebende Kopien der Kennzeichnung zur Nutzung durch den
@@ -2635,9 +2641,9 @@ letzten Eintragung an gerechnet, im Betrieb aufzubewahren.
 
 (7) Eine elektronische Führung des Verzeichnisses nach § 16 des
 Gesetzes auf der Grundlage der automatisierten Datenverarbeitung ist
-zulässig. In diesem Fall ist Absatz 2 Satz 1 und 2 nicht anzuwenden.
-Es ist sicherzustellen, dass Eintragungen nach Abschluss des
-Verzeichnisses nicht mehr verändert werden können.
+zulässig. In diesem Fall ist Absatz 2 Satz 1 und 2 sowie Absatz 5 Satz
+1 nicht anzuwenden. Es ist sicherzustellen, dass Eintragungen nach
+Abschluss des Verzeichnisses nicht mehr verändert werden können.
 
 
 ### § 42
@@ -2722,7 +2728,10 @@ entsprechend anzuwenden:
 
 
 2.  anstelle der ausgegebenen Stoffe sind die entnommenen Stoffe
-    einzutragen.
+    einzutragen,
+
+
+3.  die Angaben nach § 42 Absatz 1 Nummer 5 können entfallen.
 
 
 
@@ -2995,12 +3004,14 @@ Zuverlässigkeit nicht mehr besitzen.
 
 ### § 49
 
-Die Bestimmungen des § 14 Absatz 1 Nummer 5, des § 15 und des § 41
-Absatz 5a sind ab dem 5. April 2012 anzuwenden. Explosivstoffe, die
-bis zum 4. April 2012 ohne die nach § 14 Absatz 1 Nummer 5 und des §
-15 vorgeschriebene Kennzeichnung in den Verkehr gebracht wurden,
-dürfen noch bis zum 5. April 2015 im Geltungsbereich des Gesetzes
-verbracht, vertrieben, anderen überlassen und verwendet werden.
+Die Bestimmungen des § 14 Absatz 1 Satz 2 Nummer 5 und des § 15 sind
+ab dem 5. April 2013 und die Bestimmungen des § 41 Absatz 5a sowie des
+§ 42 Absatz 1 Nummer 5 sind ab dem 5. April 2015 anzuwenden.
+Explosivstoffe, die bis zum 4. April 2013 ohne die nach § 14 Absatz 1
+Satz 2 Nummer 5 und des § 15 vorgeschriebene Kennzeichnung in den
+Verkehr gebracht wurden, dürfen noch bis zum 5. April 2015 im
+Geltungsbereich des Gesetzes verbracht, vertrieben, anderen überlassen
+und verwendet werden.
 
 
 ### § 50

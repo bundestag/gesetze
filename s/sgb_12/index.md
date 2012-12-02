@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 13 Abs. 28 G v. 12.4.2012 I 579
 
 Anlage ergänzt durch
-:   § 2 V v. 17.10.2011 I 2090
+:   § 2 V v. 18.10.2012 I 2173
 
 
 ## Inhaltsverzeichnis

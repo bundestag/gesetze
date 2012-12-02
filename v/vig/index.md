@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2558
 
-Zuletzt geändert durch
-:   Art. 1 G v. 15.3.2012 I 476
+Neugefasst durch
+:   Bek. v. 17.10.2012 I 2166
 
 
 ## § 1 Anwendungsbereich
@@ -107,7 +107,7 @@ Beschränkungsgrund nach § 3 vorliegt.
 
 (2) Stelle im Sinne des Absatzes 1 Satz 1 ist
 
-1.  jede Behörde im Sinne des § 1 Abs. 4 des
+1.  jede Behörde im Sinne des § 1 Absatz 4 des
     Verwaltungsverfahrensgesetzes, die auf Grund
 
     a)  anderer bundesrechtlicher oder
@@ -202,8 +202,8 @@ Der Anspruch nach § 2 besteht wegen
         zugewiesenen Aufgabenbereichs des Verbraucherschutzes erbracht hat;
 
 
-    e)  in der Regel bei Informationen nach § 2 Abs. 1 Satz 1 Nr. 1, die vor
-        mehr als fünf Jahren seit der Antragstellung entstanden sind;
+    e)  in der Regel bei Informationen nach § 2 Absatz 1 Satz 1 Nummer 1, die
+        vor mehr als fünf Jahren seit der Antragstellung entstanden sind;
 
 
 
@@ -238,7 +238,7 @@ Der Anspruch nach § 2 besteht wegen
 
 Satz 1 Nummer 2 Buchstabe a bis c gilt nicht, wenn die Betroffenen dem
 Informationszugang zugestimmt haben oder das öffentliche Interesse an
-der Bekanntgabe überwiegt. Im Falle des Satzes 1 Nummer 1 Buchstabe b
+der Bekanntgabe überwiegt. Im Fall des Satzes 1 Nummer 1 Buchstabe b
 zweiter Halbsatz dürfen Informationen nach § 2 Absatz 1 Satz 1 Nummer
 1 während eines laufenden strafrechtlichen Ermittlungsverfahrens oder
 eines Verfahrens vor einem Strafgericht nur
@@ -252,8 +252,8 @@ eines Verfahrens vor einem Strafgericht nur
 
 
 
-herausgegeben werden. Im Fall des Satzes 1 Nr. 2 Buchstabe a gilt § 5
-Abs. 1 Satz 2 und Abs. 3 und 4 des Informationsfreiheitsgesetzes
+herausgegeben werden. Im Fall des Satzes 1 Nummer 2 Buchstabe a gilt §
+5 Absatz 1 Satz 2 und Absatz 3 und 4 des Informationsfreiheitsgesetzes
 entsprechend. Der Zugang zu folgenden Informationen kann nicht unter
 Berufung auf das Betriebs- und Geschäftsgeheimnis abgelehnt werden:
 
@@ -303,7 +303,7 @@ die Anschrift des Antragstellers enthalten. Zuständig ist
 
 
 
-Abweichend von Satz 4 Nr. 1 ist im Fall einer natürlichen oder
+Abweichend von Satz 4 Nummer 1 ist im Fall einer natürlichen oder
 juristischen Person des Privatrechts für die Bescheidung des Antrags
 die Aufsicht führende Behörde zuständig.
 
@@ -467,6 +467,6 @@ des Bundes vorgenommen werden.
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
 Gebührenhöhe zu bestimmen, soweit dieses Gesetz durch Stellen des
-Bundes ausgeführt wird. § 15 Abs. 2 des Verwaltungskostengesetzes
+Bundes ausgeführt wird. § 15 Absatz 2 des Verwaltungskostengesetzes
 findet keine Anwendung.
 
