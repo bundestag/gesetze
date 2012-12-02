@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 126
 
-Geändert durch
-:   Art. 27 G v. 8.11.2011 I 2178
+Zuletzt geändert durch
+:   Art. 4 V v. 19.10.2012 I 2232
 
 [^F774777_01_BJNR012600011]:     Diese Verordnung dient der Umsetzung folgender Rechtsakte:
     1\.                                                         Richtlinie
@@ -666,7 +666,7 @@ oder beim Hersteller vorzuführen ist.
 Vorhandensein eines wirksamen Systems zur Überwachung der
 Übereinstimmung der Produktion nach Anhang VI der Richtlinie
 2002/24/EG nachzuweisen. Die hierfür notwendige Überprüfung kann durch
-das Kraftfahrt-Bundesamt erfolgen; sie kann auch durch eine nach § 35
+das Kraftfahrt-Bundesamt erfolgen; sie kann auch durch eine
 akkreditierte Zertifizierungsstelle oder die Behörde eines anderen
 Mitgliedstaates vorgenommen werden, wenn diese vom Kraftfahrt-
 Bundesamt hierzu beauftragt wurden. Den nach Satz 1 erforderlichen
@@ -678,7 +678,7 @@ oder eines gleichwertigen Standards erbringen, das
 1.  vom Kraftfahrt-Bundesamt als Zertifizierungsstelle,
 
 
-2.  von einer durch das Kraftfahrt-Bundesamt nach § 35 akkreditierten
+2.  von einer durch die Akkreditierungsstelle akkreditierten
     Zertifizierungsstelle oder
 
 
@@ -879,8 +879,8 @@ dessen näherer Bestimmung das Vorhandensein eines wirksamen Systems
 zur Überwachung der Übereinstimmung der Produktion nach Anhang IV der
 Richtlinie 2003/37/EG nachzuweisen. Die hierfür notwendige Überprüfung
 kann durch das Kraftfahrt-Bundesamt erfolgen; sie kann auch durch eine
-nach § 35 akkreditierte Zertifizierungsstelle oder die Behörde eines
-anderen Mitgliedstaates vorgenommen werden, wenn diese vom Kraftfahrt-
+akkreditierte Zertifizierungsstelle oder die Behörde eines anderen
+Mitgliedstaates vorgenommen werden, wenn diese vom Kraftfahrt-
 Bundesamt hierzu beauftragt wurden. Den nach Satz 1 erforderlichen
 Nachweis kann der Antragsteller auch durch Vorlage eines
 ordnungsgemäßen Zertifikats über das Vorhandensein eines
@@ -890,7 +890,7 @@ gleichwertigen Standards erbringen, das
 1.  vom Kraftfahrt-Bundesamt als Zertifizierungsstelle,
 
 
-2.  von einer durch das Kraftfahrt-Bundesamt nach § 35 akkreditierten
+2.  von einer durch die Akkreditierungsstelle akkreditierten
     Zertifizierungsstelle oder
 
 
@@ -916,7 +916,7 @@ Richtlinie 2003/37/EG verfügt, um zu gewährleisten, dass die
 herzustellenden Fahrzeuge, Systeme, selbstständigen technischen
 Einheiten und Bauteile jeweils mit dem genehmigten Typ übereinstimmen.
 
-(7) Für das weitere Verfahren der Erteilung findet § 4 Absatz 2 und 6
+(7) Für das weitere Verfahren der Erteilung findet § 4 Absatz 2 und 5
 entsprechend Anwendung.
 
 (8) Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt
@@ -1195,7 +1195,7 @@ können dem Kraftfahrt-Bundesamt zur Weiterleitung an die zuständige
 ausländische Genehmigungsbehörde übersandt werden.
 
 
-## Kapitel 6 - Anerkennung und Akkreditierung von Technischen Diensten
+## Kapitel 6 - Anerkennung von Technischen Diensten
 
 
 ### § 30 Anerkennung und Anerkennungsstelle
@@ -1282,35 +1282,8 @@ Herstellers oder des Dritten sicherzustellen, in denen die zu
 beaufsichtigenden Prüfungen stattfinden.
 
 
-### § 35 Akkreditierung von Technischen Diensten und Zertifizierungsstellen für Qualitätsmanagementsysteme
+### § 35 (aufgehoben)
 
-(1) Stellen im Sinne des § 30 Absatz 1 können auf der Grundlage der
-Prüfnormen nach § 31 Absatz 2 durch das Kraftfahrt-Bundesamt
-akkreditiert werden und sind damit anerkannt.
-
-(2) Stellen, die die Vorhaltung und die Anwendung von Systemen zur
-Überwachung der Übereinstimmung der Produktion nach Artikel 4 Absatz 2
-und 3 in Verbindung mit Anhang VI Gliederungsnummer 1.1 der Richtlinie
-2002/24/EG oder nach Artikel 13 in Verbindung mit Anhang IV
-Gliederungsnummer 2.3 der Richtlinie 2003/37/EG kontrollieren
-(Zertifizierungsstelle für Qualitätsmanagementsysteme), müssen nach
-der Norm ISO/IEC 17021:2006 und DIN EN ISO/IEC 17011:2004 akkreditiert
-sein. Akkreditierungsstelle ist das Kraftfahrt-Bundesamt. Die
-Akkreditierung von Zertifizierungsstellen, die durch die zuständige
-Stelle eines anderen Mitgliedstaates nach § 16 Absatz 4 Satz 2 oder §
-19 Absatz 4 Satz 2 erteilt wurde, bleibt unberührt.
-
-(3) Die Akkreditierung ist zu erteilen, wenn der Antragsteller die
-Gewähr bietet, dass für die beantragte Prüf- und
-Begutachtungszuständigkeit die ordnungsgemäße Wahrnehmung dieser
-Aufgaben nach den allgemeinen Kriterien nach der jeweiligen Prüfnorm
-und nach den erforderlichen kraftfahrzeugspezifischen Kriterien an
-Personal- und Sachausstattung erfolgen wird und wenn durch die
-Begutachtung nach der jeweiligen Norm die Erfüllung dieser Kriterien
-nachgewiesen wird.
-
-(4) Für die Akkreditierung und das Akkreditierungsverfahren sind die
-Vorschriften der §§ 31 bis 34 entsprechend anzuwenden.
 
 
 ### § 36 Freistellungsklausel
