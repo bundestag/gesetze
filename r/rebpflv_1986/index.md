@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 204
 
 Zuletzt geändert durch
-:   Art. 4 V v. 16.3.2010 I 282
+:   Art. 4 V v. 25.10.2012 I 2270
 
 
 ## Eingangsformel
@@ -364,21 +364,7 @@ Prüfung vorgestellten Pflanzgut geprüft. Die Packungen oder Bündel
 müssen mindestens die zur Kennzeichnung angegebene Stückzahl nach
 Maßgabe der Anlage 3 enthalten.
 
-(2) Die Prüfung erstreckt sich bei Partien von
-
-1.  1 bis 2.000 Bündeln auf mindestens 1 vom Hundert der Bündel,
-
-
-2.  über 2.000 Bündeln auf mindestens 20 Bündel.
-
-
-
-Bei Topfreben und Kartonagereben sowie bei Pflanzgut in Packungen wird
-die Prüfung an mindestens 1 vom Hundert des vorgestellten Pflanzgutes
-durchgeführt. Bei Pflanzgut in Packungen sind mindestens 10 vom
-Hundert der Packungen zur Prüfung heranzuziehen.
-
-(3) Die Prüfung findet nur statt, wenn
+(2) Die Prüfung findet nur statt, wenn
 
 1.  das Pflanzgut bis zum Abpacken nach der Sorte, im Fall eines nach
     Klonen getrennten Rebenbestandes nach Klonen und im Fall von
@@ -403,7 +389,7 @@ Hundert der Packungen zur Prüfung heranzuziehen.
 
 
 
-(4) Ergibt die Prüfung, daß die Anforderungen nicht erfüllt sind, so
+(3) Ergibt die Prüfung, daß die Anforderungen nicht erfüllt sind, so
 gestattet die Anerkennungsstelle auf Antrag eine weitere
 Beschaffenheitsprüfung, wenn durch Darlegung von Umständen glaubhaft
 gemacht wird, daß der festgestellte Mangel beseitigt ist.

@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 23.11.2004 I 2918;
 
-Geändert durch
-:   Art. 3 V v. 16.3.2010 I 282
+Zuletzt geändert durch
+:   Art. 3 V v. 25.10.2012 I 2270
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -994,11 +994,10 @@ folgende Angaben anzubringen:
 
 
 
-Zusätzlich ist anzugeben: "Kleinpackung, Inverkehrbringen nur in der
-Bundesrepublik Deutschland zulässig". Werden die Angaben auf einem
-Etikett oder bei Klarsichtpackungen, bei denen die Angaben durch die
-Verpackung hindurch deutlich lesbar sind, auf einem Einleger gemacht,
-so müssen die Etiketten oder Einleger die Kennfarbe haben.
+Werden die Angaben auf einem Etikett oder bei Klarsichtpackungen, bei
+denen die Angaben durch die Verpackung hindurch deutlich lesbar sind,
+auf einem Einleger gemacht, so müssen die Etiketten oder Einleger die
+Kennfarbe haben.
 
 (4) Die Betriebsnummer wird für Betriebe, die Kleinpackungen
 herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb

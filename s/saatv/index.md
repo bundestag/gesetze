@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 8.2.2006 I 344;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 15.6.2010 I 793
+:   Art. 2 V v. 25.10.2012 I 2270
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -169,10 +169,10 @@ Im Sinne dieser Verordnung sind
 
     a)  für die sortenmäßige Zertifizierung von
 
-        aa) Getreidesaatgut (außer Maissaatgut),
+        aa) Getreidesaatgut (außer Mais- und Sorghumsaatgut),
 
 
-        bb) Maissaatgut,
+        bb) Mais- und Sorghumsaatgut,
 
 
         cc) Futterpflanzen- und Ölpflanzensaatgut,
@@ -204,9 +204,10 @@ Im Sinne dieser Verordnung sind
 Bei Nackthafer, Hafer, Rauhafer, Gerste, Triticale, Weichweizen,
 Hartweizen, Spelz, Weißer Lupine, Blauer Lupine, Schmalblättriger
 Lupine, Gelber Lupine, Futtererbse, Ackerbohne, Pannonischer Wicke,
-Saatwicke, Zottelwicke, monözischem Hanf, Sojabohne und Lein darf,
-außer bei Hybridsorten, Zertifiziertes Saatgut zweiter Generation und
-bei Lein Zertifiziertes Saatgut dritter Generation anerkannt werden.
+Saatwicke, Zottelwicke, Blauer Luzerne, monözischem Hanf, Sojabohne
+und Lein darf, außer bei Hybridsorten, Zertifiziertes Saatgut zweiter
+Generation und bei Lein Zertifiziertes Saatgut dritter Generation
+anerkannt werden.
 
 
 ## Abschnitt 2 - Anerkennung von Saatgut
@@ -327,8 +328,9 @@ Beschaffenheitsprüfung nach § 12 Abs. 1b beantragt wird.
 
 (1) Saatgut wird nur anerkannt, wenn
 
-1.  die Vermehrungsfläche bei Getreide außer Mais mindestens 2 Hektar, bei
-    den übrigen landwirtschaftlichen Arten mindestens 0,5 Hektar groß ist;
+1.  die Vermehrungsfläche bei Getreide außer Mais und Sorghum mindestens 2
+    Hektar, bei den übrigen landwirtschaftlichen Arten mindestens 0,5
+    Hektar groß ist;
 
 
 2.  der Kulturzustand der Vermehrungsfläche eine ordnungsgemäße
@@ -405,8 +407,8 @@ worden sind.
 gekennzeichnet werden soll, gelten die Anforderungen nach Absatz 1
 Satz 1 Nr. 3 nur dann als erfüllt, wenn
 
-1.  bei Getreide außer Mais sowie bei Gräsern, Phazelie, Hanf, Sojabohne,
-    Sonnenblume, Lein und Mohn in den letzten zwei Jahren,
+1.  bei Getreide außer Mais und Sorghum sowie bei Gräsern, Phazelie, Hanf,
+    Sojabohne, Sonnenblume, Lein und Mohn in den letzten zwei Jahren,
 
 
 2.  bei Leguminosen landwirtschaftlicher Arten in den letzten drei Jahren,
@@ -481,7 +483,15 @@ zulässigen Fremdbesatzes eine Prüfung der Kolben erforderlich, so kann
 nach der Ernte oder auf Antrag des Vermehrers unmittelbar vor der
 Ernte eine zusätzliche Besichtigung der Kolben vorgenommen werden.
 
-(3a) Jede Vermehrungsfläche von Hybridsorten von Raps ist zusätzlich
+(3a) Jede Vermehrungsfläche mit Hybridsorten oder Inzuchtlinien von
+Sorghum ist zusätzlich mindestens zweimal durch Feldbesichtigung auf
+das Vorliegen der Anforderungen an den Feldbestand zu prüfen. Die
+Feldbesichtigungen erfolgen zur Blütezeit. Ist auf der
+Vermehrungsfläche in einem der beiden vorangegangenen Jahre Sorghum
+angebaut worden, so ist festzustellen, ob der Vermehrungsbestand frei
+von Durchwuchs ist.
+
+(3b) Jede Vermehrungsfläche von Hybridsorten von Raps ist zusätzlich
 mindestens zweimal durch Feldbesichtigung auf das Vorliegen der
 Anforderungen an den Feldbestand zu prüfen. Die erste Feldbesichtigung
 erfolgt unmittelbar vor der Blüte, die zweite zu Beginn der Blüte und
@@ -609,11 +619,7 @@ Probenehmer eine zusätzliche Probe aus dem bearbeiteten, aber noch
 nicht umhüllten Saatgut zur Feststellung der technischen
 Mindestreinheit.
 
-(1a) Für die Nachprüfung des Basissaatguts von Hybridsorten von Roggen
-nach § 16 entnimmt der Probenehmer nach dem Mischen des anerkannten
-Saatguts der mütterlichen und väterlichen Erbkomponente eine
-zusätzliche Probe aus dem für das Inverkehrbringen zu gewerblichen
-Zwecken verpackten Basissaatgut.
+(1a) (weggefallen)
 
 (2) Das Höchstgewicht einer Partie, aus der jeweils eine Probe zu
 entnehmen ist, und das Mindestgewicht oder die Mindestmenge der Probe
@@ -622,13 +628,13 @@ ergeben sich aus Anlage 4.
 (2a) Im Falle der Anerkennung des Saatgutes von Straußgräsern,
 Lieschgräsern, Rispenarten, Goldhafer, Wiesenfuchsschwanz, Knaulgras,
 Schwingelarten, Glatthafer, Festulolium und Weidelgräsern darf für die
-Zwecke der Beschaffenheitsprüfung bis zum 30. Juni 2012 die Probenahme
-abweichend von Absatz 2 in Verbindung mit Anlage 4 Spalte 2 auch an
-Partien mit einem Höchstgewicht von bis zu 25 Tonnen durchgeführt
-werden, soweit der Betrieb, von dem das Saatgut stammt, dies bei der
-Anerkennungsstelle beantragt. Die Anerkennungsstelle kann die
-Probenahme an Saatgutpartien dieser Größe davon abhängig machen, dass
-der Antragsteller nachweist, dass das zuständige Komitee der
+Zwecke der Beschaffenheitsprüfung bis zum 31. Dezember 2013 die
+Probenahme abweichend von Absatz 2 in Verbindung mit Anlage 4 Spalte 2
+auch an Partien mit einem Höchstgewicht von bis zu 25 Tonnen
+durchgeführt werden, soweit der Betrieb, von dem das Saatgut stammt,
+dies bei der Anerkennungsstelle beantragt. Die Anerkennungsstelle kann
+die Probenahme an Saatgutpartien dieser Größe davon abhängig machen,
+dass der Antragsteller nachweist, dass das zuständige Komitee der
 Internationalen Vereinigung für Saatgutprüfung (ISTA) seine Teilnahme
 an dem ISTA-Versuch zur Partiegröße von Futterpflanzensaatgut
 bestätigt hat. Die Anerkennungsstelle kontrolliert im Falle von Proben
@@ -663,15 +669,10 @@ der von ihr bestimmten Stelle oder Person
 
     b)  hinsichtlich derer die Anerkennungsstelle das Anerkennungsverfahren
         nach § 8 Abs. 2 fortsetzt und die von ihr hierfür festgesetzten
-        Voraussetzungen erfüllt sind;
+        Voraussetzungen erfüllt sind.
 
 
 
-
-
-3.  im Falle der Probenahme nach Absatz 1a schriftlich erklärt hat, dass
-    das Basissaatgut dem vom Züchter für die mütterliche und väterliche
-    Erbkomponente vorgegebenen Mischungsverhältnis entspricht.
 
 
 
@@ -898,13 +899,13 @@ Feldbestandsprüfung beauftragt werden soll, anhand der dafür
 entnommenen Probe daraufhin nach, ob es oder sein Aufwuchs sortenecht
 ist und erkennen lässt, dass die Anforderungen an den
 Gesundheitszustand erfüllt waren. Anerkanntes Vorstufensaatgut sowie
-Basissaatgut von Hybridsorten von Roggen oder Raps sowie Basissaatgut
-von Sorten nach § 55 Abs. 2 des Saatgutverkehrsgesetzes ist in jedem
-Falle, anderes anerkanntes Saatgut im Falle der Kennzeichnung nach
-einem OECD-System nach Maßgabe des Absatzes 3 nachzuprüfen; in diesen
-Fällen führt das Bundessortenamt die Nachprüfung auf Sortenechtheit
-durch und unterrichtet die Anerkennungsstelle und den Züchter über das
-Ergebnis.
+Basissaatgut von Hybridsorten von Getreide oder Raps sowie
+Basissaatgut von Sorten nach § 55 Abs. 2 des Saatgutverkehrsgesetzes
+ist in jedem Falle, anderes anerkanntes Saatgut im Falle der
+Kennzeichnung nach einem OECD-System nach Maßgabe des Absatzes 3
+nachzuprüfen; in diesen Fällen führt das Bundessortenamt die
+Nachprüfung auf Sortenechtheit durch und unterrichtet die
+Anerkennungsstelle und den Züchter über das Ergebnis.
 
 (2) Absatz 1 gilt nicht für anerkanntes Vorstufensaatgut und
 Basissaatgut von Runkelrübe, Zuckerrübe und Roter Rübe.
@@ -936,10 +937,11 @@ der Pflanzen,
 nicht übersteigt.
 
 (3b) Bei Zertifiziertem Saatgut von Hybridsorten von Getreide außer
-Roggen führt das Bundessortenamt an mindestens 10 vom Hundert der
-entnommenen Proben eine Nachprüfung durch. Die Sortenechtheit gilt nur
-als gegeben, wenn im Aufwuchs der Anteil der Pflanzen, die nicht
-hinreichend sortenecht sind, 10 vom Hundert nicht übersteigt.
+Roggen, Mais und Sorghum führt das Bundessortenamt an mindestens 5 vom
+Hundert der entnommenen Proben eine Nachprüfung durch. Die
+Sortenechtheit gilt nur als gegeben, wenn im Aufwuchs der Anteil der
+Pflanzen, die nicht hinreichend sortenecht sind, 10 vom Hundert nicht
+übersteigt.
 
 (3c) Die Nachprüfung muss bei Basissaatgut und Zertifiziertem Saatgut
 zur Erzeugung von Zertifiziertem Saatgut, bei dem nach § 7 Abs. 7 ein
@@ -1169,9 +1171,8 @@ gebracht werden, wenn
 
 
 
-(2) Saatgutmischungen für Verwendungszwecke in der Landwirtschaft
-dürfen zu gewerblichen Zwecken nur in den Verkehr gebracht werden,
-wenn der Aufwuchs
+(2) Saatgutmischungen dürfen zu gewerblichen Zwecken nur in den
+Verkehr gebracht werden, wenn der Aufwuchs
 
 1.  zur Körnererzeugung bestimmt ist und die Mischung nur Saatgut von
     Getreide oder Leguminosen landwirtschaftlicher Arten enthält;
@@ -1187,20 +1188,17 @@ wenn der Aufwuchs
 
     b)  die in dem gemeinsamen Sortenkatalog für landwirtschaftliche
         Pflanzenarten als "nicht zur Nutzung als Futterpflanze bestimmt"
-        bezeichnet sind oder
+        bezeichnet sind.
 
 
 
 
 
-3.  zur Gründüngung bestimmt ist und die Mischung nur Saatgut von
-    Getreide, Futterpflanzen oder Öl- und Faserpflanzen enthält.
 
 
-
-
-(3) Saatgutmischungen dürfen ferner zu gewerblichen Zwecken nur in den
-Verkehr gebracht werden, wenn
+(3) Saatgutmischungen für die in Absatz 2 genannten Verwendungszwecke
+dürfen ferner zu gewerblichen Zwecken nur in den Verkehr gebracht
+werden, wenn
 
 1.  sie nur Saatgut von im Artenverzeichnis aufgeführten Arten enthalten
     und
@@ -1212,11 +1210,24 @@ Verkehr gebracht werden, wenn
 
 
 
-Saatgutmischungen für Verwendungszwecke außerhalb der Landwirtschaft
-dürfen jedoch zu gewerblichen Zwecken auch in den Verkehr gebracht
-werden, wenn sie Saatgut von im Artenverzeichnis nicht aufgeführten
-Arten enthalten, sofern sie die Anforderungen der Anlage 3 Nr. 8
-erfüllen.
+Saatgutmischungen für andere als die in Absatz 2 genannten
+Verwendungszwecke dürfen jedoch zu gewerblichen Zwecken auch in den
+Verkehr gebracht werden, wenn sie Saatgut von im Artenverzeichnis
+nicht aufgeführten Arten enthalten, sofern sie die Anforderungen der
+Anlage 3 Nummer 8 erfüllen. Satz 1 Nummer 2 gilt für diese
+Saatgutmischungen entsprechend, sofern sie Saatgut von im
+Artenverzeichnis aufgeführten Arten enthalten.
+
+(3a) Saatgutmischungen von Gemüsesorten dürfen zu gewerblichen Zwecken
+nur in den Verkehr gebracht werden, wenn sie
+
+1.  Saatgut von Gemüsesorten einer Gemüseart enthalten und
+
+
+2.  in Kleinpackungen nach § 40 abgegeben werden.
+
+
+
 
 (4) Saatgutmischungen, die Saatgut enthalten, dessen Inverkehrbringen
 zu gewerblichen Zwecken durch Rechtsverordnung nach § 11 Abs. 2 oder 3
@@ -1224,9 +1235,8 @@ des Saatgutverkehrsgesetzes nur befristet gestattet ist, dürfen nur
 innerhalb dieser Frist zu gewerblichen Zwecken in den Verkehr gebracht
 werden.
 
-(5) Saatgutmischungen, die nur Saatgut von Rüben oder Gemüsearten
-enthalten, dürfen nicht zu gewerblichen Zwecken in den Verkehr
-gebracht werden.
+(5) Saatgutmischungen, die nur Saatgut von Rüben enthalten, dürfen
+nicht zu gewerblichen Zwecken in den Verkehr gebracht werden.
 
 
 ### § 27 Antrag, Probenahme
@@ -1240,7 +1250,9 @@ Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der
 Herstellung der Mischung, einem Gedankenstrich sowie einer
 mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl und dem
 Buchstaben „M” zusammen. Das Höchstgewicht einer Partie ergibt sich
-aus Anlage 4 Nr. 7.
+aus Anlage 4 Nr. 7. Das Höchstgewicht einer Partie von
+Saatgutmischungen von Gemüsesorten einer Gemüseart ist in Anlage 4
+Nummer 6 festgelegt.
 
 (2) Für den Antrag ist ein Vordruck der Anerkennungsstelle zu
 verwenden.
@@ -1454,7 +1466,8 @@ wenn die Angaben bei der in § 27 Abs. 1 Satz 1 bezeichneten
 Anerkennungsstelle niedergelegt sind und auf jeder Packung
 aufgedruckt, auf einem Zusatzetikett vermerkt oder in einem jeder
 Packung oder jedem Behältnis beigegebenen Begleitpapier enthalten
-sind.
+sind. Satz 4 gilt nicht für Saatgutmischungen von Gemüsesorten einer
+Gemüseart.
 
 (8) Bei Saatgutmischungen, die Saatgut enthalten, dessen
 Inverkehrbringen zu gewerblichen Zwecken durch Rechtsverordnung nach §
@@ -1511,26 +1524,37 @@ unverwischbar aufgedruckt sind.
 
 ### § 32 Angabe einer Saatgutbehandlung
 
-Ist Saatgut einer chemischen, besonderen physikalischen oder
-gleichartigen Behandlung unterzogen worden, so ist dies anzugeben. Ist
-dabei ein Pflanzenschutzmittel angewendet worden, so ist dessen
-Bezeichnung und die Zulassungsnummer anzugeben; anstelle der
-Bezeichnung und der Zulassungsnummer kann der Wirkstoff oder dessen
-Kurzbezeichnung angegeben werden. Die Angaben sind unverwischbar
-aufzudrucken
+(1) Ist Saatgut einer chemischen, besonderen physikalischen oder in
+ihrer Wirkung vergleichbaren Behandlung unterzogen worden, so ist dies
+anzugeben. Die Angaben sind in den Begleitpapieren aufzuführen und
+unverwischbar aufzudrucken
 
-1.  auf dem Etikett und, falls ein Einleger erforderlich ist, auf dem
+1.  auf dem Etikett und, soweit ein Einleger erforderlich ist, auf dem
     Einleger,
 
 
-2.  auf einem Zusatzetikett und, falls es nicht aus reißfestem Material
+2.  auf einem Zusatzetikett und, soweit es nicht aus reißfestem Material
     besteht, auf dem Einleger oder einem zusätzlichen Einleger oder
 
 
-3.  auf einem Klebeetikett oder im Aufdrucketikett.
+3.  auf einem Klebeetikett oder einem Aufdrucketikett.
 
 
 
+
+(2) Ist dabei ein Pflanzenschutzmittel angewendet worden und ist es
+auf Grund der Größe des Etiketts nicht möglich, alle nach Artikel 49
+Absatz 4 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments
+und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von
+Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und
+91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1) geforderten
+Angaben auf dem Etikett anzubringen, können die mit der Zulassung des
+Pflanzenschutzmittels festgelegten Standardsätze hinsichtlich der
+Sicherheitsvorkehrungen und der Maßnahmen zur Risikominderung auch auf
+dem Lieferschein oder einem Begleitpapier abgedruckt werden. In diesem
+Fall ist auf dem Etikett ein Hinweis auf das Vorhandensein der
+Standardsätze und Risikominderungsmaßnahmen auf dem Lieferschein oder
+Begleitpapier anzugeben.
 
 
 ### § 33 Angaben in besonderen Fällen
@@ -2409,13 +2433,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
         *   **31. März**
 
-            Wintergetreide
 
 
 
 
 
 
+
+1a.1 Wintergetreide
+
+
+1a.2 Leguminosen (Überwinterungsanbau), außer Luzernen und Rotklee mit
+    Samenernte im zweiten Schnitt
 
 
 **2**
@@ -2436,12 +2465,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
         *   **30. April**
 
-
-        3.1 Gräser, außer Weidelgräsern mit Samenernte im zweiten Schnitt
-
-
-        3.2 Leguminosen (Überwinterungsanbau), außer Luzernen und Rotklee mit
-            Samenernte im zweiten Schnitt
+            Gräser, außer Weidelgräsern mit Samenernte im zweiten Schnitt
 
 
 
@@ -2480,7 +2504,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   **31. Mai**
 
 
-        5.1 Mais
+        5.1 Mais, Sorghum
 
 
         5.2 Sojabohne, Sonnenblume
@@ -2585,25 +2609,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
-*
+**1** **Getreide außer Mais und Sorghum**
+
+
+1.1 Fremdbesatz
+
+
+1.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche
+    höchstens folgenden Fremdbesatz aufweisen:
+
+
+
+
+*    *
     *
-        **1** **Getreide außer Mais**
-
-
-        1.1 Fremdbesatz
-
-
-        1.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche
-            höchstens folgenden Fremdbesatz aufweisen:
-
-
-
-
-
-
-
-
-
+    *
+    *
+    *
 
 *    *
     *
@@ -2615,8 +2637,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zertifiziertes Saatgut zweiter Generation (Pflanzen)
 
 
-*    *
-    *   1
+*    *   1
 
     *   2
 
@@ -2668,7 +2689,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         der Zulassung der Sorte festgestellten Ausprägungen der wichtigen
         Merkmale nicht hinreichend entsprechen oder einer anderen Sorte,
         Hybridsorte oder Erbkomponente zugehören; wird Zertifiziertes Saatgut
-        einer Hybridsorte von Roggen in einer Mischung der mütterlichen und
+        einer Hybridsorte von Getreide in einer Mischung der mütterlichen und
         väterlichen Erbkomponente erzeugt, so gilt der Anteil der Pflanzen der
         väterlichen Erbkomponente nicht als Fremdbesatz
 
@@ -2714,37 +2735,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        1.1.2 Der Feldbestand darf bei Nackthafer, Hafer, Rauhafer keinen Besatz mit
-            Flughafer oder Flughaferbastarden aufweisen.
+1.1.2 Der Feldbestand darf bei Nackthafer, Hafer, Rauhafer keinen Besatz mit
+    Flughafer oder Flughaferbastarden aufweisen.
 
 
-        1.2 Gesundheitszustand
+1.2 Gesundheitszustand
 
 
-        1.2.1 Der Anteil der Pflanzen, die jeweils von folgenden Krankheiten
-            befallen sind, darf im Durchschnitt der Auszählungen je 150 qm Fläche
-            höchstens betragen:
-
-
-
-
-
-
+1.2.1 Der Anteil der Pflanzen, die jeweils von folgenden Krankheiten
+    befallen sind, darf im Durchschnitt der Auszählungen je 150 qm Fläche
+    höchstens betragen:
 
 
 
 
 *    *
     *
-    *   Basissaatgut (Pflanzen)
-
-    *   Zertifiziertes Saatgut (Pflanzen)
-
+    *
+    *
 
 *    *
-    *   1
+    *
+    *   Basissaatgut
+        (Pflanzen)
+
+    *   Zertifiziertes Saatgut
+        (Pflanzen)
+
+
+*    *   1
 
     *   2
 
@@ -2784,50 +2803,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
+1.2.2 Aus dem Feldbestand dürfen flugbrandkranke Pflanzen nicht entfernt
+    worden sein.
+
+
+1.2.3 In dem Zeitraum, in dem der Feldbestand durch Flugbrand infizierbar
+    ist, dürfen im Umkreis von 50 m benachbarte Bestände derselben
+    Fruchtart im Durchschnitt der Auszählungen je 150 qm Fläche nicht mehr
+    als 15 Flugbrandsporen abgebende Pflanzen aufweisen.
+
+
+1.3 Mindestentfernungen
+
+
+1.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
+
+
+
+
+*    *
     *
-        1.2.2 Aus dem Feldbestand dürfen flugbrandkranke Pflanzen nicht entfernt
-            worden sein.
-
-
-        1.2.3 In dem Zeitraum, in dem der Feldbestand durch Flugbrand infizierbar
-            ist, dürfen im Umkreis von 50 m benachbarte Bestände derselben
-            Fruchtart im Durchschnitt der Auszählungen je 150 qm Fläche nicht mehr
-            als 15 Flugbrandsporen abgebende Pflanzen aufweisen.
-
-
-        1.3 Mindestentfernungen
-
-
-        1.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
-
-
-
-
-
-
-
-
-
+    *
+    *
+    *
 
 *    *
     *
     *
     *   Basissaatgut
+        (m)
 
     *   Zertifiziertes Saatgut
+        (m)
 
 
-*    *
-    *
-    *
-    *   (m)
-
-    *   (m)
-
-
-*    *
-    *   1
+*    *   1
 
     *   2
 
@@ -2963,80 +2973,71 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
+1.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 1.3.1 ist
+    zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
+    abgeschirmt ist.
+
+
+1.3.3 Soweit nicht nach Nummer 1.3.1 eine größere Mindestentfernung
+    einzuhalten ist, sind die Bestände zu allen benachbarten Beständen von
+    Getreide durch einen Trennstreifen abzutrennen.
+
+
+1.4 Befruchtungslenkung bei Hybridsorten
+
+
+1.4.1 Bei Hybridsorten von Getreide außer Roggen, deren Saatgut unter
+    Verwendung eines Gametozides erzeugt wird, muss die Hybridität
+    mindestens 95 v. H. betragen. Wird die Hybridität bei der
+    Saatgutuntersuchung bestimmt, kann auf ihre Bestimmung bei der
+    Feldbesichtigung verzichtet werden.
+
+
+1.4.2 Bei Hybridsorten von Roggen
+
+
+1.4.2.1 muss bei der Erzeugung von Basissaatgut der mütterlichen Erbkomponente
+    der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens 98
+    v. H. betragen,
+
+
+1.4.2.2 darf bei der Erzeugung von Zertifiziertem Saatgut der Anteil der
+    Pflanzen der väterlichen Erbkomponente das vom Züchter angegebene
+    Mischungsverhältnis der mütterlichen und väterlichen Erbkomponenten
+    zur Erzeugung von Zertifiziertem Saatgut nicht deutlich überschreiten.
+
+
+**2** **Mais und Sorghum**
+
+
+2.1 Fremdbesatz
+
+
+2.1.1 Der Anteil an Pflanzen, die nicht hinreichend sortenecht sind oder im
+    Falle von Hybridsorten in ihren Erbkomponenten den bei Zulassung der
+    Sorte festgestellten Ausprägungen der wichtigen Merkmale nicht
+    hinreichend entsprechen, oder die einer anderen Sorte derselben Art
+    oder bei Hybridsorten einer anderen Erbkomponente zugehören, darf im
+    Durchschnitt der Auszählungen höchstens betragen:
+
+
+
+
+*    *
     *
-        1.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 1.3.1 ist
-            zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
-            abgeschirmt ist.
-
-
-        1.3.3 Soweit nicht nach Nummer 1.3.1 eine größere Mindestentfernung
-            einzuhalten ist, sind die Bestände zu allen benachbarten Beständen von
-            Getreide durch einen Trennstreifen abzutrennen.
-
-
-        1.4 Befruchtungslenkung bei Hybridsorten
-
-
-        1.4.1 Bei Hybridsorten von Getreide außer Roggen, deren Saatgut unter
-            Verwendung eines Gametozides erzeugt wird, muss die Hybridität
-            mindestens 95 v. H. betragen. Wird die Hybridität bei der
-            Saatgutuntersuchung bestimmt, kann auf ihre Bestimmung bei der
-            Feldbesichtigung verzichtet werden.
-
-
-        1.4.2 Bei Hybridsorten von Roggen
-
-
-        1.4.2.1 muss bei der Erzeugung von Basissaatgut der mütterlichen Erbkomponente
-            der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens 98
-            v. H. betragen,
-
-
-        1.4.2.2 darf bei der Erzeugung von Zertifiziertem Saatgut der Anteil der
-            Pflanzen der väterlichen Erbkomponente das vom Züchter angegebene
-            Mischungsverhältnis der mütterlichen und väterlichen Erbkomponenten
-            zur Erzeugung von Zertifiziertem Saatgut nicht deutlich überschreiten.
-
-
-        **2** **Mais**
-
-
-        2.1 Fremdbesatz
-
-
-        2.1.1 Der Anteil an Pflanzen, die nicht hinreichend sortenecht sind oder im
-            Falle von Hybridsorten in ihren Erbkomponenten den bei Zulassung der
-            Sorte festgestellten Ausprägungen der wichtigen Merkmale nicht
-            hinreichend entsprechen, oder die einer anderen Maissorte oder bei
-            Hybridsorten einer anderen Erbkomponente zugehören, darf im
-            Durchschnitt der Auszählungen höchstens betragen:
-
-
-
-
-
-
-
-
-
+    *
+    *
 
 *    *
     *
     *   Basissaatgut
+        (v. H.)
 
     *   Zertifiziertes Saatgut
+        (v. H.)
 
 
-*    *
-    *
-    *   (v. H.)
-
-    *   (v. H.)
-
-
-*    *
-    *   1
+*    *   1
 
     *   2
 
@@ -3045,9 +3046,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.1.1.1
 
-    *   bei Hybridsorten (im väterlichen Elternteil werden nur Pflanzen, die
-        Pollen abgeben oder abgegeben haben, im mütterlichen Elternteil nur
-        die bei der letzten Feldbesichtigung vorhandenen Pflanzen gezählt)
+    *   bei Hybridsorten von Mais (im väterlichen Elternteil werden nur
+        Pflanzen, die Pollen abgeben oder abgegeben haben, im mütterlichen
+        Elternteil nur die bei der letzten Feldbesichtigung vorhandenen
+        Pflanzen gezählt)
 
     *   0,1
 
@@ -3056,147 +3058,199 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.1.1.2
 
-    *   bei frei abblühenden Sorten
+    *   bei frei abblühenden Sorten von Mais
 
     *   0,1
 
     *   0,5
 
 
+*    *   2.1.1.3
+
+    *   bei Hybridsorten von Sorghum
+
+    *
+    *
+
+*    *
+    *   in der Blütezeit, männliche Komponente
+
+    *   0,1
+
+    *   0,1
+
+
+*    *
+    *   in der Blütezeit, weibliche Komponente
+
+    *   0,1
+
+    *   0,3
+
+
+*    *
+    *   in der Reifezeit
+
+    *   0,1
+
+    *   0,1
+
+
+*    *   2.1.1.4
+
+    *   bei frei abblühenden oder synthetischen Sorten von Sorghum
+        Anzahl Pflanzen je 150 m
+        2                        Fläche
+
+    *   5
+
+    *   15
+
+
 
 
 *
-    *
-        2.1.2 Bei der Prüfung der Kolben von Hybridsorten darf der Anteil der
-            Kolben, die den bei Zulassung der Sorte festgelegten Merkmalen nicht
-            hinreichend entsprechen, hinsichtlich der Kornmerkmale 0,2 v. H. und
-            hinsichtlich der Kolbenmerkmale 0,1 v. H. nicht übersteigen.
+
+2.1.2 Bei der Prüfung der Kolben von Hybridsorten von Mais darf der Anteil
+    der Kolben, die den bei Zulassung der Sorte festgelegten Merkmalen
+    nicht hinreichend entsprechen, hinsichtlich der Kornmerkmale 0,2 v. H.
+    und hinsichtlich der Kolbenmerkmale 0,1 v. H. nicht übersteigen.
 
 
-        2.2 Befruchtungslenkung bei Hybridsorten
+2.2 Befruchtungslenkung bei Hybridsorten
 
 
-        2.2.1 In dem Zeitraum, in dem mehr als 5 v. H. der Pflanzen des mütterlichen
-            Elternteils empfängnisfähige Narben aufweisen, darf in dem Feldbestand
-            der Anteil der Pflanzen des mütterlichen Elternteils, die Pollen
-            abgeben oder abgegeben haben, höchstens betragen:
-
-
-
-
-
-
+2.2.1 Im Feldbestand darf der Anteil der Pflanzen des mütterlichen
+    Elternteils, die Pollen abgeben oder abgegeben haben, höchstens
+    betragen:
 
 
 
 
 *    *   2.2.1.1
 
+    *   in dem Zeitraum, in dem bei Mais mehr als 5 v. H. der Pflanzen des
+        mütterlichen Elternteils empfängnisfähige Narben aufweisen,
+
+    *
+
+*    *
     *   bei einer Feldbesichtigung
 
     *   0,5 v. H.
 
 
-*    *   2.2.1.2
-
+*    *
     *   bei allen Feldbesichtigungen zusammen
 
-    *   1 v. H.
+    *   1   v. H.
+
+
+*    *   2.2.1.2
+
+    *   bei Sorghum
+
+    *   0,1 v. H.
 
 
 
 
-*
-    *
-        2.2.2 Die Pflanzen des väterlichen Elternteils müssen
+2.2.2 Die Pflanzen des väterlichen Elternteils müssen
 
 
-        2.2.2.1 in ausreichender Zahl vorhanden sein und
+2.2.2.1 in ausreichender Zahl vorhanden sein und
 
 
-        2.2.2.2 in dem Zeitraum, in dem die Pflanzen des mütterlichen Elternteils
-            empfängnisfähige Narben aufweisen, ausreichend Pollen abgeben.
+2.2.2.2 in dem Zeitraum, in dem die Pflanzen des mütterlichen Elternteils
+    empfängnisfähige Narben aufweisen, ausreichend Pollen abgeben.
 
 
-        2.2.3 Ein Feldbestand zur Erzeugung von Zertifiziertem Saatgut, in dem der
-            väterliche Elternteil die männliche Fruchtbarkeit des männlich
-            sterilen mütterlichen Elternteils nicht wiederherstellt, muss in einem
-            der Sorte entsprechenden Verhältnis auch männlich fruchtbare Pflanzen
-            des mütterlichen Elternteils enthalten; dies gilt nicht, wenn
-            sichergestellt ist, dass nach der Ernte Saatgut des männlich sterilen
-            und männlich fruchtbaren mütterlichen Elternteils in einem der Sorte
-            entsprechenden Verhältnis gemischt wird.
+2.2.3 Ein Feldbestand zur Erzeugung von Zertifiziertem Saatgut, in dem der
+    väterliche Elternteil die männliche Fruchtbarkeit des männlich
+    sterilen mütterlichen Elternteils nicht wiederherstellt, muss in einem
+    der Sorte entsprechenden Verhältnis auch männlich fruchtbare Pflanzen
+    des mütterlichen Elternteils enthalten; dies gilt nicht, wenn
+    sichergestellt ist, dass nach der Ernte Saatgut des männlich sterilen
+    und männlich fruchtbaren mütterlichen Elternteils in einem der Sorte
+    entsprechenden Verhältnis gemischt wird.
 
 
-        2.3 Gesundheitszustand
+2.3 Gesundheitszustand
 
-            Der Feldbestand darf nicht in größerem Ausmaß Maisbeulenbrand
-            (Ustilago maydis) an den Kolben aufweisen; dies gilt nicht für
-            Feldbestände von Inzuchtlinien.
-
-
-        2.4 Mindestentfernungen
+    Der Feldbestand von Mais darf nicht in größerem Ausmaß Maisbeulenbrand
+    (Ustilago maydis) an den Kolben aufweisen; dies gilt nicht für
+    Feldbestände von Inzuchtlinien.
 
 
-        2.4.1 Bei Hybridsorten muss zu allen Feldbeständen von Mais außer zu solchen
-            Feldbeständen des väterlichen Elternteils der Sorte oder solchen
-            Vermehrungsbeständen derselben Sorte und Kategorie, die die
-            Anforderungen für die Anerkennung von Saatgut hinsichtlich des
-            Fremdbesatzes und der Entfahnung erfüllen, eine Mindestentfernung von
-            200 m eingehalten sein.
+2.4 Mindestentfernungen
 
 
-        2.4.2 Bei frei abblühenden Sorten muss zu Feldbeständen anderer Maissorten,
-            zu Feldbeständen derselben Sorte mit starker Unausgeglichenheit und zu
-            Feldbeständen anderer Arten, deren Pollen zu Fremdbefruchtung führen
-            können, eine Mindestentfernung von 200 m eingehalten sein, sofern die
-            Feldbestände in dem Zeitraum, in dem mehr als 5 v. H. der Pflanzen
-            empfängnisfähige Narben aufweisen, Pollen abgeben.
+2.4.1 Bei Hybridsorten von Mais muss zu allen Feldbeständen von Mais außer
+    zu solchen Feldbeständen des väterlichen Elternteils der Sorte oder
+    solchen Vermehrungsbeständen derselben Sorte und Kategorie, die die
+    Anforderungen für die Anerkennung von Saatgut hinsichtlich des
+    Fremdbesatzes und der Entfahnung erfüllen, eine Mindestentfernung von
+    200 m eingehalten sein.
 
 
-        2.4.3 Eine Unterschreitung der Mindestentfernungen nach den Nummern 2.4.1
-            und 2.4.2 ist zulässig, sofern der Feldbestand ausreichend gegen
-            unerwünschte Fremdbefruchtung abgeschirmt ist.
+2.4.2 Bei frei abblühenden Maissorten muss zu Feldbeständen anderer
+    Maissorten, zu Feldbeständen derselben Sorte mit starker
+    Unausgeglichenheit und zu Feldbeständen anderer Arten, deren Pollen zu
+    Fremdbefruchtung führen können, eine Mindestentfernung von 200 m
+    eingehalten sein, sofern die Feldbestände in dem Zeitraum, in dem mehr
+    als 5 v. H. der Pflanzen empfängnisfähige Narben aufweisen, Pollen
+    abgeben.
 
 
-        2.4.4 Überschreitet in benachbarten Vermehrungsbeständen derselben Sorte und
-            Kategorie der Anteil nicht entfahnter Pflanzen des mütterlichen
-            Elternteils nicht 10 v. H., so genügt als Mindestentfernung das
-            Zehnfache in Metern des mit einer Dezimalstelle ausgedrückten
-            Prozentsatzes der nicht entfahnten Pflanzen des mütterlichen
-            Elternteils (z. B. bei 5,7 v. H. nicht entfahnter Pflanzen 57 m).
+2.4.3 Eine Unterschreitung der Mindestentfernungen nach den Nummern 2.4.1
+    und 2.4.2 ist zulässig, sofern der Feldbestand ausreichend gegen
+    unerwünschte Fremdbefruchtung abgeschirmt ist.
 
 
-        **3** **Gräser, Leguminosen und sonstige Futterpflanzen**
+2.4.4 Überschreitet in benachbarten Vermehrungsbeständen derselben Sorte und
+    Kategorie der Anteil nicht entfahnter Pflanzen des mütterlichen
+    Elternteils nicht 10 v. H., so genügt als Mindestentfernung das
+    Zehnfache in Metern des mit einer Dezimalstelle ausgedrückten
+    Prozentsatzes der nicht entfahnten Pflanzen des mütterlichen
+    Elternteils (z. B. bei 5,7 v. H. nicht entfahnter Pflanzen 57 m).
 
 
-        3.1 Fremdbesatz
+2.4.5 Bei Sorghum ist zu allen Feldbeständen von Sorghum, insbesondere zu
+    Pollenquellen von Sorghum halepense, eine Mindestentfernung von 300 m
+    einzuhalten.
 
 
-        3.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche
-            höchstens folgenden Fremdbesatz aufweisen:
+**3** **Gräser, Leguminosen und sonstige Futterpflanzen**
 
 
+3.1 Fremdbesatz
 
 
-
-
+3.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche
+    höchstens folgenden Fremdbesatz aufweisen:
 
 
 
 
 *    *
     *
-    *   Basissaatgut (Pflanzen)
+    *
+    *
+    *
+
+*    *
+    *
+    *   Basissaatgut
+        (Pflanzen)
 
     *   Zertifiziertes Saatgut, Zertifiziertes Saatgut erster Generation
         (Pflanzen)
 
-    *   Zertifiziertes Saatgut zweiter Generation (Pflanzen)
+    *   Zertifiziertes Saatgut zweiter Generation
+        (Pflanzen)
 
 
-*    *
-    *   1
+*    *   1
 
     *   2
 
@@ -3217,15 +3271,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   bei Weißer Lupine, Blauer Lupine, Schmalblättriger Lupine, Gelber
-        Lupine, Futtererbse, Ackerbohne, Pannonischer Wicke, Saatwicke und
-        Zottelwicke
+    *   bei Futtererbse, Ackerbohne
 
     *   5
 
     *   15
 
     *   30
+
+
+*    *
+    *   bei Weißer Lupine, Blauer Lupine, Schmalblättriger Lupine, Gelber
+        Lupine, Blauer Luzerne, Pannonischer Wicke, Saatwicke und Zottelwicke
+
+    *   5
+
+    *   15
+
+    *   15
 
 
 *    *
@@ -3297,36 +3360,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        3.1.2 Der Feldbestand darf keinen Besatz mit Seide aufweisen.
+3.1.2 Der Feldbestand darf keinen Besatz mit Seide aufweisen.
 
 
-        3.2 Gesundheitszustand
+3.2 Gesundheitszustand
 
 
-        3.2.1 Der Anteil der Pflanzen, die jeweils von folgenden Krankheiten
-            befallen sind, darf im Durchschnitt der Auszählungen je 150 qm Fläche
-            höchstens betragen:
-
-
-
-
-
-
+3.2.1 Der Anteil der Pflanzen, die jeweils von folgenden Krankheiten
+    befallen sind, darf im Durchschnitt der Auszählungen je 150 qm Fläche
+    höchstens betragen:
 
 
 
 
 *    *
     *
-    *   Basissaatgut (Pflanzen)
-
-    *   Zertifiziertes Saatgut (Pflanzen)
-
+    *
+    *
 
 *    *
-    *   1
+    *
+    *   Basissaatgut
+        (Pflanzen)
+
+    *   Zertifiziertes Saatgut
+        (Pflanzen)
+
+
+*    *   1
 
     *   2
 
@@ -3361,50 +3422,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
+3.2.2 Der Feldbestand von Luzernen oder Klee darf nicht in größerem Ausmaß
+    von Stengelbrenner befallen sein.
+
+
+3.2.3 Der Feldbestand von Lupinen darf nicht in größerem Ausmaß von
+    Anthraknose befallen sein.
+
+
+3.3 Mindestentfernungen
+
+
+3.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
+
+
+
+
+*    *
     *
-        3.2.2 Der Feldbestand von Luzernen oder Klee darf nicht in größerem Ausmaß
-            von Stengelbrenner befallen sein.
-
-
-        3.2.3 Der Feldbestand von Lupinen darf nicht in größerem Ausmaß von
-            Anthraknose befallen sein.
-
-
-        3.3 Mindestentfernungen
-
-
-        3.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
-
-
-
-
-
-
-
-
-
+    *
+    *
+    *
+    *
 
 *    *
     *
     *
     *
     *   Basissaatgut
+        (m)
 
     *   Zertifiziertes Saatgut
+        (m)
 
 
-*    *
-    *
-    *
-    *
-    *   (m)
-
-    *   (m)
-
-
-*    *
-    *   1
+*    *   1
 
     *   2
 
@@ -3481,46 +3533,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        3.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 3.3.1.1 ist
-            zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
-            abgeschirmt ist.
+3.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 3.3.1.1 ist
+    zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
+    abgeschirmt ist.
 
 
-        3.3.3 Bei selbstbefruchtenden Arten muss zu allen benachbarten Beständen,
-            bei fremdbefruchtenden Arten muss zu Beständen, die nicht unter Nummer
-            3\.3.1.1 fallen, ein Trennstreifen vorhanden sein.
+3.3.3 Bei selbstbefruchtenden Arten muss zu allen benachbarten Beständen,
+    bei fremdbefruchtenden Arten muss zu Beständen, die nicht unter Nummer
+    3\.3.1.1 fallen, ein Trennstreifen vorhanden sein.
 
 
-        **4** **Öl- und Faserpflanzen außer Sonnenblume**
+**4** **Öl- und Faserpflanzen außer Sonnenblume**
 
 
-        4.1 Fremdbesatz
+4.1 Fremdbesatz
 
 
-        4.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche
-            höchstens folgenden Fremdbesatz aufweisen:
-
-
-
-
-
-
+4.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche
+    höchstens folgenden Fremdbesatz aufweisen:
 
 
 
 
 *    *
     *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (Pflanzen)
 
     *   Zertifiziertes Saatgut
-
-
-*    *   (Pflanzen)
-
-    *   (Pflanzen)
+        (Pflanzen)
 
 
 *    *   1
@@ -3572,36 +3618,30 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        4.1.2 Der Feldbestand darf bei Lein keinen Besatz mit Seide aufweisen.
+4.1.2 Der Feldbestand darf bei Lein keinen Besatz mit Seide aufweisen.
 
 
-        4.1.3 Bei Hybridsorten von Raps darf der Anteil der Pflanzen, die den bei
-            der Zulassung der Sorte festgestellten Ausprägungen der Erbkomponenten
-            nicht hinreichend entsprechen oder die einer anderen Sorte oder
-            Erbkomponente zugehören, im Durchschnitt der Auszählungen je 150 qm
-            höchstens betragen:
-
-
-
-
-
-
+4.1.3 Bei Hybridsorten von Raps darf der Anteil der Pflanzen, die den bei
+    der Zulassung der Sorte festgestellten Ausprägungen der Erbkomponenten
+    nicht hinreichend entsprechen oder die einer anderen Sorte oder
+    Erbkomponente zugehören, im Durchschnitt der Auszählungen je 150 qm
+    höchstens betragen:
 
 
 
 
 *    *
     *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (v. H.)
 
     *   Zertifiziertes Saatgut
-
-
-*    *   (v. H.)
-
-    *   (v. H.)
+        (v. H.)
 
 
 *    *   1
@@ -3643,25 +3683,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        4.1.4 Bei der Erzeugung von Basissaatgut einer Hybridsorte von Raps muss bei
-            Verwendung einer männlich sterilen Erbkomponente die männliche
-            Sterilität mindestens 99 v. H. und bei der Erzeugung von
-            Zertifiziertem Saatgut mindestens 98 v. H. betragen.
+4.1.4 Bei der Erzeugung von Basissaatgut einer Hybridsorte von Raps muss bei
+    Verwendung einer männlich sterilen Erbkomponente die männliche
+    Sterilität mindestens 99 v. H. und bei der Erzeugung von
+    Zertifiziertem Saatgut mindestens 98 v. H. betragen.
 
 
-        4.2 Gesundheitszustand                                4.2.1
+4.2 Gesundheitszustand                    4.2.1
 
-            Der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind,
-            darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens
-            betragen:
-
-
-
-
-
-
+    Der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind,
+    darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens
+    betragen:
 
 
 
@@ -3682,38 +3714,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        4.2.2 Der Feldbestand von Sojabohne darf nicht in größerem Ausmaß von
-            Diaporthe phaseolorum var. caulivora oder var. sojae, Phialophora
-            gregata, Phytophthora megasperma f. sp. glycinea oder Pseudomonas
-            syringae pv. glycinea befallen sein.
+4.2.2 Der Feldbestand von Sojabohne darf nicht in größerem Ausmaß von
+    Diaporthe phaseolorum var. caulivora oder var. sojae, Phialophora
+    gregata, Phytophthora megasperma f. sp. glycinea oder Pseudomonas
+    syringae pv. glycinea befallen sein.
 
 
-        4.3 Mindestentfernungen
+4.3 Mindestentfernungen
 
 
-        4.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
-
-
-
-
-
-
+4.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
 
 
 
 
 *    *
     *
+    *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (m)
 
     *   Zertifiziertes Saatgut
-
-
-*    *   (m)
-
-    *   (m)
+        (m)
 
 
 *    *   1
@@ -3778,97 +3805,82 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        4.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 4.3.1.1 ist
-            zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
-            abgeschirmt ist.
+4.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 4.3.1.1 ist
+    zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
+    abgeschirmt ist.
 
 
-        4.3.3 Bei selbstbefruchtenden Arten muss zu allen benachbarten Beständen,
-            bei fremdbefruchtenden Arten muss zu Beständen, die nicht unter Nummer
-            4\.3.1.1 fallen, ein Trennstreifen vorhanden sein.
+4.3.3 Bei selbstbefruchtenden Arten muss zu allen benachbarten Beständen,
+    bei fremdbefruchtenden Arten muss zu Beständen, die nicht unter Nummer
+    4\.3.1.1 fallen, ein Trennstreifen vorhanden sein.
 
 
-        **5** **Sonnenblume**
+**5** **Sonnenblume**
 
 
-        5.1 Fremdbesatz
+5.1 Fremdbesatz
 
 
-        5.1.1 Der Feldbestand frei abblühender Sorten darf im Durchschnitt der
-            Auszählungen je 150 qm Fläche höchstens folgenden Fremdbesatz
-            aufweisen:
+5.1.1 Der Feldbestand frei abblühender Sorten darf im Durchschnitt der
+    Auszählungen je 150 qm Fläche höchstens folgenden Fremdbesatz
+    aufweisen:
+
+    *        *
+        *   Basissaatgut
+            (Pflanzen)
+
+        *   Zertifiziertes Saatgut
+            (Pflanzen)
 
 
+    *        *   1
+
+        *   2
+
+        *   3
 
 
+    *        *   Pflanzen, die nicht hinreichend sortenecht sind, einer anderen Sorte
+            derselben Art oder einer anderen Art, deren Pollen zu Fremdbefruchtung
+            führen können oder deren Samen sich von dem Saatgut bei der
+            Beschaffenheitsprüfung nur schwer unterscheiden lassen, zugehören
 
+        *   2
 
-
-
-
-
-*    *
-    *   Basissaatgut
-
-    *   Zertifiziertes Saatgut
-
-
-*    *   (Pflanzen)
-
-    *   (Pflanzen)
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   Pflanzen, die nicht hinreichend sortenecht sind, einer anderen Sorte
-        derselben Art oder einer anderen Art, deren Pollen zu Fremdbefruchtung
-        führen können oder deren Samen sich von dem Saatgut bei der
-        Beschaffenheitsprüfung nur schwer unterscheiden lassen, zugehören
-
-    *   2
-
-    *   7
-
-
-
-
-*
-    *
-        5.1.2 Bei Hybridsorten darf der Anteil der Pflanzen, die den bei der
-            Zulassung der Sorte festgestellten Ausprägungen der Erbkomponenten
-            nicht hinreichend entsprechen oder die einer anderen Sonnenblumensorte
-            oder Erbkomponente zugehören, im Durchschnitt der Auszählungen
-            höchstens betragen:
+        *   7
 
 
 
 
 
 
+
+5.1.2 Bei Hybridsorten darf der Anteil der Pflanzen, die den bei der
+    Zulassung der Sorte festgestellten Ausprägungen der Erbkomponenten
+    nicht hinreichend entsprechen oder die einer anderen Sonnenblumensorte
+    oder Erbkomponente zugehören, im Durchschnitt der Auszählungen
+    höchstens betragen:
 
 
 
 
 *    *
     *
+    *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (v. H.)
 
     *   Zertifiziertes Saatgut
+        (v. H.)
 
 
-*    *   (v. H.)
-
-    *   (v. H.)
-
-
-*    *   1
+*    *
+    *   1
 
     *   2
 
@@ -3938,67 +3950,62 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        5.2 Befruchtungslenkung bei Hybridsorten
+5.2 Befruchtungslenkung bei Hybridsorten
 
 
-        5.2.1 Der Anteil pollenabgebender Pflanzen der weiblichen Erbkomponente darf
-            im Feldbestand während der Blütezeit 0,5 v. H. nicht überschreiten.
+5.2.1 Der Anteil pollenabgebender Pflanzen der weiblichen Erbkomponente darf
+    im Feldbestand während der Blütezeit 0,5 v. H. nicht überschreiten.
 
 
-        5.2.2 Pflanzen der männlichen Komponente müssen in ausreichender Zahl
-            vorhanden sein und während der Blütezeit der Pflanzen der weiblichen
-            Komponente ausreichend Pollen abgeben.
+5.2.2 Pflanzen der männlichen Komponente müssen in ausreichender Zahl
+    vorhanden sein und während der Blütezeit der Pflanzen der weiblichen
+    Komponente ausreichend Pollen abgeben.
 
 
-        5.2.3 Wird Zertifiziertes Saatgut mit einer männlich sterilen weiblichen
-            Erbkomponente erzeugt, so muss in dem Hybridsaatgut die männliche
-            Fertilität soweit wiederhergestellt werden, dass mindestens ein
-            Drittel der daraus erwachsenden Pflanzen Pollen abgeben. Falls weniger
-            als ein Drittel der erwachsenden Pflanzen Pollen abgeben, ist das von
-            der männlich sterilen weiblichen Erbkomponente erzeugte Hybridsaatgut
-            im Verhältnis von höchstens 2 : 1 mit Saatgut zu mischen, das mit
-            einer männlich fruchtbaren Linie der weiblichen Erbkomponente erzeugt
-            worden ist.
+5.2.3 Wird Zertifiziertes Saatgut mit einer männlich sterilen weiblichen
+    Erbkomponente erzeugt, so muss in dem Hybridsaatgut die männliche
+    Fertilität soweit wiederhergestellt werden, dass mindestens ein
+    Drittel der daraus erwachsenden Pflanzen Pollen abgeben. Falls weniger
+    als ein Drittel der erwachsenden Pflanzen Pollen abgeben, ist das von
+    der männlich sterilen weiblichen Erbkomponente erzeugte Hybridsaatgut
+    im Verhältnis von höchstens 2 : 1 mit Saatgut zu mischen, das mit
+    einer männlich fruchtbaren Linie der weiblichen Erbkomponente erzeugt
+    worden ist.
 
 
-        5.3 Gesundheitszustand
+5.3 Gesundheitszustand
 
-            Der Feldbestand darf nicht in größerem Ausmaß von Krankheiten befallen
-            sein, die den Saatgutwert beeinträchtigen.
-
-
-        5.4 Mindestentfernungen
+    Der Feldbestand darf nicht in größerem Ausmaß von Krankheiten befallen
+    sein, die den Saatgutwert beeinträchtigen.
 
 
-        5.4.1 Folgende Mindestentfernungen müssen im Feldbestand zu anderen Sorten
-            oder Erbkomponenten oder zu derselben Sorte oder Erbkomponente mit
-            starker Unausgeglichenheit oder anderen Arten, deren Pollen zu
-            Fremdbefruchtung führen können, eingehalten sein:
+5.4 Mindestentfernungen
 
 
-
-
-
-
+5.4.1 Folgende Mindestentfernungen müssen im Feldbestand zu anderen Sorten
+    oder Erbkomponenten oder zu derselben Sorte oder Erbkomponente mit
+    starker Unausgeglichenheit oder anderen Arten, deren Pollen zu
+    Fremdbefruchtung führen können, eingehalten sein:
 
 
 
 
 *    *
     *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (m)
 
     *   Zertifiziertes Saatgut
+        (m)
 
 
-*    *   (m)
-
-    *   (m)
-
-
-*    *   1
+*    *
+    *   1
 
     *   2
 
@@ -4025,41 +4032,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        5.4.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 5.4.1 ist
-            zulässig, sofern der Feldbestand ausreichend gegen unerwünschte
-            Fremdbefruchtung abgeschirmt ist.
+5.4.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 5.4.1 ist
+    zulässig, sofern der Feldbestand ausreichend gegen unerwünschte
+    Fremdbefruchtung abgeschirmt ist.
 
 
-        **6** **Rüben**
+**6** **Rüben**
 
 
-        6.1 Fremdbesatz
+6.1 Fremdbesatz
 
 
-        6.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen höchstens
-            folgenden Fremdbesatz aufweisen:
-
-
-
-
-
-
+6.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen höchstens
+    folgenden Fremdbesatz aufweisen:
 
 
 
 
 *    *
     *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (v. H.)
 
     *   Zertifiziertes Saatgut
-
-
-*    *   (v. H.)
-
-    *   (v. H.)
+        (v. H.)
 
 
 *    *   1
@@ -4082,7 +4083,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   davon Pflanzen mit anderer Rübenform oder Rübenfarbe
+        *   davon Pflanzen mit anderer Rübenform oder Rübenfarbe
+
+
+
 
     *   0,1
 
@@ -4101,34 +4105,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        6.2 Gesundheitszustand
+6.2 Gesundheitszustand
 
-            Der Feldbestand darf nicht in größerem Ausmaß von Krankheiten befallen
-            sein, die den Saatgutwert beeinträchtigen.
+    Der Feldbestand darf nicht in größerem Ausmaß von Krankheiten befallen
+    sein, die den Saatgutwert beeinträchtigen.
 
 
-        6.3 Mindestentfernung
+6.3 Mindestentfernung
 
 
-        6.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
-
-
-
-
-
-
+6.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
 
 
 
 
 *    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
     *   (m)
 
 
 *    *   1
 
+    *
     *   2
 
 
@@ -4137,6 +4141,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   für die Erzeugung von Basissaatgut zu Bestäubungsquellen der Gattung
         Beta
 
+    *
     *   1 000
 
 
@@ -4145,27 +4150,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   für die Erzeugung von Zertifiziertem Saatgut von Zuckerrübe
 
     *
+    *
 
 *    *   6.3.1.2.1
 
     *   zu diploiden Zuckerrübenbestäubungsquellen, wenn
 
     *
+    *
 
 *    *
-    *   a)
+    *
+        a)  der vorgesehene Pollenspender ausschließlich tetraploid ist
 
-    *   der vorgesehene Pollenspender ausschließlich tetraploid ist
 
+
+
+    *
     *   600
 
 
 *    *
-    *   b)
+    *
+        b)  der vorgesehene Pollenspender oder einer der vorgesehenen
+            Pollenspender diploid ist
 
-    *   der vorgesehene Pollenspender oder einer der vorgesehenen
-        Pollenspender diploid ist
 
+
+
+    *
     *   300
 
 
@@ -4174,21 +4187,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   zu tetraploiden Zuckerrübenbestäubungsquellen, wenn
 
     *
+    *
 
 *    *
-    *   a)
+    *
+        a)  der vorgesehene Pollenspender oder einer der vorgesehenen
+            Pollenspender diploid ist
 
-    *   der vorgesehene Pollenspender oder einer der vorgesehenen
-        Pollenspender diploid ist
 
+
+
+    *
     *   600
 
 
 *    *
-    *   b)
+    *
+        b)  der vorgesehene Pollenspender ausschließlich tetraploid ist
 
-    *   der vorgesehene Pollenspender ausschließlich tetraploid ist
 
+
+
+    *
     *   300
 
 
@@ -4197,6 +4217,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   zu Zuckerrübenbestäubungsquellen, bei denen der Ploidiegrad unbekannt
         ist
 
+    *
     *   600
 
 
@@ -4205,6 +4226,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   zwischen zwei Vermehrungsflächen zur Erzeugung von Zuckerrübensaatgut
         ohne männliche Sterilität
 
+    *
     *   300
 
 
@@ -4213,6 +4235,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   zu allen vorstehend nicht genannten Bestäubungsquellen der Gattung
         Beta
 
+    *
     *   1 000
 
 
@@ -4222,42 +4245,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Saatgut von Runkelrübe.
 
     *
-
-
-
-*
     *
-        6.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 6.3.1 ist
-            zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
-            abgeschirmt ist.
-
-
-        6.3.3 Bei Feldbeständen von Samenträgern muss zu nicht unter die Nummer
-            6\.3.1 fallenden benachbarten Beständen, bei Feldbeständen zur
-            Erzeugung von Stecklingen muss zu allen benachbarten Beständen ein
-            Trennstreifen von mindestens doppeltem Reihenabstand vorhanden sein.
-
-
-        **7** **Gemüse**
-
-
-        7.1 Fremdbesatz
-
-            Der Feldbestand darf höchstens folgenden Fremdbesatz aufweisen:
-
-
-        7.1.1 Pflanzen, die nicht hinreichend sortenecht sind oder einer anderen
-            Sorte derselben Art oder einer anderen Art, deren Pollen zu
-            Fremdbefruchtung führen können, zugehören:
 
 
 
+6.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 6.3.1 ist
+    zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
+    abgeschirmt ist.
 
 
+6.3.3 Bei Feldbeständen von Samenträgern muss zu nicht unter die Nummer
+    6\.3.1 fallenden benachbarten Beständen, bei Feldbeständen zur
+    Erzeugung von Stecklingen muss zu allen benachbarten Beständen ein
+    Trennstreifen von mindestens doppeltem Reihenabstand vorhanden sein.
+
+
+**7** **Gemüse**
+
+
+7.1 Fremdbesatz
+
+    Der Feldbestand darf höchstens folgenden Fremdbesatz aufweisen:
+
+
+7.1.1 Pflanzen, die nicht hinreichend sortenecht sind oder einer anderen
+    Sorte derselben Art oder einer anderen Art, deren Pollen zu
+    Fremdbefruchtung führen können, zugehören:
 
 
 
 
+*    *
+    *
+    *
+    *
+    *
+    *
 
 *    *
     *
@@ -4289,7 +4312,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.1.1.1
 
-    *   Zwiebel, Petersilie, Rettich, Radieschen
+    *   Zwiebel, Schnittlauch, Petersilie, Rettich, Radieschen
 
     *   20
 
@@ -4298,6 +4321,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1
 
     *   0,2
+
+
+*    *   7.1.1.1a
+
+    *   Schalotte, Winterheckenzwiebel, Knoblauch
+
+    *   10
+
+    *   1
+
+    *   0,5
+
+    *   0,1
 
 
 *    *   7.1.1.2
@@ -4316,7 +4352,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.1.1.3
 
-    *   Sellerie, Paprika, Cardy, Tomate, Aubergine
+    *   Sellerie, Paprika, Chili, Artischocke, Cardy, Tomate, Aubergine
 
     *
     *
@@ -4351,8 +4387,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.1.1.6
 
-    *   Kerbel, Winterendivie, Blattzichorie, Fenchel, Salat, Spinat,
-        Feldsalat
+    *   Kerbel, Endivie, Chicorée, Blattzichorie, Wurzelzichorie,
+        Industriezichorie, Fenchel, Salat, Spinat, Feldsalat
 
     *   20
 
@@ -4365,7 +4401,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.1.1.7
 
-    *   Wassermelone, Melone, Gurke, Riesenkürbis, Gartenkürbis, Zucchini
+    *   Wassermelone, Melone, Gurke, Riesenkürbis, Gartenkürbis, Ölkürbis,
+        Zucchini, Spargel, Rhabarber,
 
     *
     *
@@ -4385,33 +4422,56 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
+*    *   7.1.1.9
 
+    *   Zuckermais, Puffmais
 
-*
     *
-        7.1.2 Der Feldbestand darf keinen Fremdsatz mit Pflanzen anderer Arten
-            aufweisen, deren Samen sich aus dem Saatgut nur schwer herausreinigen
-            lassen oder von denen samenübertragbare Krankheiten übertragen werden
-            können; zu den Samen, die sich aus dem Saatgut nur schwer
-            herausreinigen lassen, gehört bei Möhre auch Seide.
+    *
+    *
+    *
+
+*    *   7.1.1.9.1
+
+    *   Hybridsorten
+
+    *
+    *
+    *   0,1
+
+    *   0,1
 
 
-        7.1.3 Wird Erbse zusammen mit einer Stützfrucht angebaut, so muss die
-            Beurteilung trotz Vorhandenseins der Stützfrucht möglich sein.
+*    *   7.1.1.9.2
 
+    *   frei abblühende Sorten
 
-        7.2 Gesundheitszustand
+    *
+    *
+    *   0,5
 
-
-        7.2.1 Bei Drillsaat darf die Zahl der Pflanzen, die von folgenden
-            Krankheiten befallen sind, im Durchschnitt der Auszählungen je 150 qm
-            Fläche höchstens betragen:
-
-
+    *   0,5
 
 
 
 
+7.1.2 Der Feldbestand darf keinen Fremdsatz mit Pflanzen anderer Arten
+    aufweisen, deren Samen sich aus dem Saatgut nur schwer herausreinigen
+    lassen oder von denen samenübertragbare Krankheiten übertragen werden
+    können; zu den Samen, die sich aus dem Saatgut nur schwer
+    herausreinigen lassen, gehört bei Möhre auch Seide.
+
+
+7.1.3 Wird Erbse zusammen mit einer Stützfrucht angebaut, so muss die
+    Beurteilung trotz Vorhandenseins der Stützfrucht möglich sein.
+
+
+7.2 Gesundheitszustand
+
+
+7.2.1 Bei Drillsaat darf die Zahl der Pflanzen, die von folgenden
+    Krankheiten befallen sind, im Durchschnitt der Auszählungen je 150 qm
+    Fläche höchstens betragen:
 
 
 
@@ -4438,16 +4498,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        7.2.2 Bei Pflanzung oder Einzelkornablage darf der Anteil der Pflanzen, die
-            von folgenden Krankheiten befallen sind, höchstens betragen:
-
-
-
-
-
-
+7.2.2 Bei Pflanzung oder Einzelkornablage darf der Anteil der Pflanzen, die
+    von folgenden Krankheiten befallen sind, höchstens betragen:
 
 
 
@@ -4469,16 +4521,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        7.2.3 In dem Feldbestand darf der Anteil der Pflanzen, die von folgenden
-            Krankheiten befallen sind, höchstens betragen:
-
-
-
-
-
-
+7.2.3 In dem Feldbestand darf der Anteil der Pflanzen, die von folgenden
+    Krankheiten befallen sind, höchstens betragen:
 
 
 
@@ -4519,37 +4563,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        7.2.4 Der Feldbestand darf bei Winterendivie, Salat, Prunkbohne, Buschbohne
-            und Stangenbohne nicht in größerem Ausmaß von Viruskrankheiten
-            befallen sein.
+7.2.4 Der Feldbestand darf bei Winterendivie, Salat, Prunkbohne, Buschbohne
+    und Stangenbohne nicht in größerem Ausmaß von Viruskrankheiten
+    befallen sein.
 
 
-        7.3 Mindestentfernungen
+7.3 Mindestentfernungen
 
 
-        7.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
-
-
-
-
-
-
+7.3.1 Folgende Mindestentfernungen müssen eingehalten sein:
 
 
 
 
 *    *
     *
+    *
+    *
+
+*    *
+    *
     *   Basissaatgut
+        (m)
 
     *   Zertifiziertes Saatgut
-
-
-*    *   (m)
-
-    *   (m)
+        (m)
 
 
 *    *   1
@@ -4607,6 +4645,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.3.1.3
 
+    *   bei Wurzelzichorie, Industriezichorie
+
+    *
+    *
+
+*    *   7.3.1.3.1
+
+    *   zu Bestäubungsquellen von Sorten einer anderen Art der Gattung
+        Cichorium oder einer anderen Unterart
+
+    *   1 000
+
+    *   1 000
+
+
+*    *   7.3.1.3.2
+
+    *   zu Bestäubungsquellen einer anderen Sorte derselben Unterart und
+        derselben Sortengruppe
+
+    *   600
+
+    *   300
+
+
+*    *   7.3.1.4
+
     *   bei anderen fremdbefruchtenden Arten zu Pflanzen anderer Sorten
         derselben Art und zu Pflanzen anderer Arten, deren Pollen zu
         Fremdbefruchtung führen können
@@ -4616,7 +4681,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   300
 
 
-*    *   7.3.1.4
+*    *   7.3.1.5
 
     *   bei allen Arten zu Pflanzen, von denen Viruskrankheiten auf das
         Saatgut übertragen werden können
@@ -4628,21 +4693,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        7.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 7.3.1 ist
-            zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
-            oder Übertragung von Viruskrankheiten abgeschirmt ist.
+7.3.2 Eine Unterschreitung der Mindestentfernungen nach Nummer 7.3.1 ist
+    zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung
+    oder Übertragung von Viruskrankheiten abgeschirmt ist.
 
 
-        7.3.3 Feldbestände monözischer Spinatsorten müssen so isoliert sein, dass
-            Fremdbefruchtung in größerem Ausmaß nicht eintreten kann.
-
-
-
-
-
-
+7.3.3 Feldbestände monözischer Spinatsorten müssen so isoliert sein, dass
+    Fremdbefruchtung in größerem Ausmaß nicht eintreten kann.
 
 
 
@@ -4736,7 +4793,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.1
 
-    *   Getreide außer Mais
+    *   Getreide außer Mais und Sorghum
 
     *   30
 
@@ -4766,6 +4823,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   40
 
     *   1 000
+
+
+*    *   1.3
+
+    *   Sorghum
+
+    *
+    *
+
+*    *   1.3.1
+
+    *   Sorghum bicolor, Sorghum bicolor x Sorghum sudanense
+
+    *   30
+
+    *   1 000
+
+
+*    *   1.3.2
+
+    *   Sorghum sudanense
+
+    *   10
+
+    *   1 000
 
 
 *    *   2
@@ -5068,7 +5150,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6.6
 
-    *   Winterendivie, Blattzichorie
+    *   Endivie, Chicorée, Blattzichorie
 
     *   10
 
@@ -5086,7 +5168,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6.7
 
-    *   Gartenkürbis, Zucchini
+    *   Gartenkürbis, Ölkürbis, Zucchini
 
     *   20
 
@@ -5140,7 +5222,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6.12
 
-    *   Cardy, Rettich, Radieschen
+    *   Artischocke, Cardy, Rettich, Radieschen, Wurzelzichorie,
+        Industriezichorie
 
     *   10
 
@@ -5185,15 +5268,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7
 
-    *   Saatgutmischungen
+    *   Saatgutmischungen (außer Saatgutmischungen von Gemüsesorten einer
+        Gemüseart in Kleinpackungen)
 
 
 *    *   7.1
 
-    *   Saatgutmischungen, deren Aufwuchs zur Futternutzung, Gründüngung oder
-        zur Körnererzeugung bestimmt ist und die zu mehr als 50 v. H. des
-        Gewichtes aus Saatgut von Getreide, Lupinen, Futtererbsen, Ackerbohne,
-        Wicken, Sojabohne und Sonnenblume bestehen
+    *   Saatgutmischungen, die zu mehr als 50 v. H. des Gewichtes aus Saatgut
+        von Getreide, Lupinen, Futtererbsen, Ackerbohne, Wicken, Sojabohne und
+        Sonnenblume bestehen
 
     *   25 ++)
 
@@ -5528,12 +5611,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Bundesrepublik Deutschland
         zulässig"
 
-    *   Getreide außer Mais
+    *   Getreide außer Mais und Sorghum
 
     *   30
 
 
-*    *   Mais
+*    *   Mais, Sorghum
 
     *   1
 
@@ -5596,7 +5679,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     mit festen Zusätzen die Angaben nach § 33 Abs. 4.
 
 
-**2** **Gemüsearten**
+**2** **Gemüsearten sowie Saatgutmischungen von Gemüsesorten einer
+    Gemüseart**
 
 
 2.1 Höchstmengen
@@ -5622,18 +5706,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   2.1.1
 
     *   Zwiebel, Kerbel, Spargel, Mangold, Rote Rübe, Herbstrübe, Mairübe,
-        Wassermelone, Riesenkürbis, Gartenkürbis, Zucchini, Möhre, Rettich,
-        Radieschen, Schwarzwurzel, Spinat, Feldsalat
+        Wassermelone, Riesenkürbis, Gartenkürbis, Ölkürbis, Zucchini, Möhre,
+        Rettich, Radieschen, Schwarzwurzel, Spinat, Feldsalat, Zuckermais,
+        Puffmais
 
     *   0,5
 
 
 *    *   2.1.2
 
-    *   Porree, Sellerie, Kohlrabi, Grünkohl, Blumenkohl, Brokkoli, Weißkohl,
-        Rotkohl, Wirsing, Rosenkohl, Chinakohl, Paprika, Winterendivie,
-        Blattzichorie, Melone, Gurke, Cardy, Fenchel, Salat, Tomate,
-        Petersilie, Aubergine
+    *   Schalotte, Winterheckenzwiebel, Porree, Knoblauch, Sellerie, Kohlrabi,
+        Grünkohl, Blumenkohl, Brokkoli, Weißkohl, Rotkohl, Wirsing, Rosenkohl,
+        Chinakohl, Paprika, Chili, Endivie, Chicorée, Blattzichorie,
+        Wurzelzichorie, Industriezichorie, Melone, Gurke, Artischocke, Cardy,
+        Fenchel, Salat, Tomate, Petersilie, Rhabarber, Aubergine
 
     *   0,1
 
@@ -5648,7 +5734,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 2.1.4 Die Höchstmenge einer Kleinpackung beträgt für nach Stückzahl
-    abgepacktes Saatgut 50 000 Körner oder Knäuel.
+    abgepacktes Saatgut bei Zuckermais und Puffmais 2 000 Körner, im
+    Übrigen 50 000 Körner oder Knäuel.
 
 
 2.2 Kennzeichnung
@@ -5664,6 +5751,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 2.2.3 Art und Sortenbezeichnung
 
 
+2.2.3a bei Saatgutmischungen von Gemüsesorten einer Gemüseart die Angabe
+    „Saatgutmischung aus Sorten der Art … “ (Bezeichnung der Gemüseart)
+    und die Sortenbezeichnungen
+
+
 2.2.4 Kategorie (dabei kann Zertifiziertes Saatgut durch den Buchstaben "Z",
     Standardsaatgut durch die der Partienummer angefügten Buchstaben "St"
     abgekürzt werden)
@@ -5673,7 +5765,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 2.2.6 von dem abfüllenden Betrieb festgesetzte Partienummer (bei
-    Standardsaatgut)
+    Standardsaatgut) oder die bei Saatgutmischungen von Gemüsesorten einer
+    Gemüseart nach § 27 Absatz 1 vergebene Mischungsnummer
 
 
 2.2.7 Wirtschaftsjahr der Verschließung oder der letzten Prüfung der
@@ -5682,6 +5775,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 2.2.8 Nettogewicht oder Stückzahl der reinen Körner oder Knäuel bei
     Packungen von mehr als 500 g
+
+
+2.2.8a bei Saatgutmischungen von Gemüsesorten einer Gemüseart der Anteil der
+    jeweiligen Sorte, ausgedrückt in Nettogewicht oder Stückzahl der
+    reinen Körner oder Knäuel
 
 
 2.2.9 bei Monogerm- und Präzisionssaatgut die Angaben nach § 29 Abs. 4
@@ -5700,7 +5798,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Schrägstrich getrennt anzugeben.
 
 
-**3** **Saatgutmischungen**
+**3** **Saatgutmischungen (außer Saatgutmischungen von Gemüsesorten einer
+    Gemüseart)**
 
 
 3.1 Zweckbestimmung, Bezeichnung und Höchstmengen
@@ -5740,24 +5839,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.1.1
 
-    *   Landwirtschaftliche Nutzung (§ 26 Abs. 2)
+    *   Verwendung zur Futternutzung oder zur Körnererzeugung
 
     *
     *
     *
 
 *    *   3.1.1.1
-
-    *   Gründüngung
-
-    *   2
-
-    *   über 2 bis 10
-
-    *   über 10 bis 15 1)
-
-
-*    *   3.1.1.2
 
     *   Futternutzung
 
@@ -5768,7 +5856,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   über 10 bis 15 1)
 
 
-*    *   3.1.1.3
+*    *   3.1.1.2
 
     *   Körnererzeugung
 
@@ -5776,7 +5864,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   3.1.1.3.1
+*    *   3.1.1.2.1
 
     *   Getreide
 
@@ -5787,7 +5875,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   30
 
 
-*    *   3.1.1.3.2
+*    *   3.1.1.2.2
 
     *   Leguminosen (auch mit Getreide)
 
@@ -5800,7 +5888,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.1.2
 
-    *   Verwendungszwecke außerhalb der Landwirtschaft (§ 26 Abs. 3 Satz 2)
+    *   Andere als unter 3.1.1 genannte Verwendungszwecke (§ 26 Absatz 3 Satz
+        2)
 
     *   2
 
@@ -5875,21 +5964,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 7 (zu § 45 Abs. 1)
 
-Fundstelle des Originaltextes: BGBl. I 2006, 391 - 392
+(Fundstelle des Originaltextes: BGBl. I 2006, 391 - 392;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster 1
 Zertifikat
 ausgestellt auf Grund des OECD-Systems für die sortenmäßige
-Zertifizierung von Getreide- \*), Mais- \*), Futter- und Ölpflanzen-
-\*),
+Zertifizierung von Getreide- \*), Mais- und Sorghum-\*), Futter- und
+Ölpflanzen- \*),
 Runkelrüben- und Zuckerrüben- \*)Saatgut, das für den internationalen
 Handel bestimmt ist
 Certificate
 issued under the OECD-Scheme for the Varietal Certification
-of Cereal \*), Maize \*), Herbage and Oil\*), Sugar Beet and
+of Cereal \*), Maize and Sorghum\*), Herbage and Oil\*), Sugar Beet
+and
 Fodder Beet \*) Seed Moving in International Trade
 Certificat
 delivre conformement au systeme de I'OCDE pour la certification
-varietale des semences de cereales \*), de mais \*), de plantes
+varietale des semences de cereales \*), de maïs et sorgho\*), de
+plantes
 fourrageres et oleagineuses \*), de betteraves sucrieres et de
 **betteraves fourrageres \*) destinees au commerce international**
 Name der zuständigen Behörde, die das Zertifikat ausstellt
@@ -6007,7 +6099,8 @@ Rayer la mention inutile
 
 ### Anlage 8 (zu §§ 46, 47 und 48 Abs. 3 Nr. 3) Etiketten und Einleger
 
-Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
+(Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *
     *
@@ -6043,7 +6136,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
 
     *   "Sortenbezeichnung"
 
-    *   (Bei Mais Angaben nach Nummer 3.4)
+    *   (Bei Mais und Sorghum Angaben nach Nummer 3.4)
 
 
 
@@ -6261,7 +6354,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
             "Reconditionne"
 
 
-        3.4 Basissaatgut und Zertifiziertes Saatgut von Mais
+        3.4 Basissaatgut und Zertifiziertes Saatgut von Mais und Sorghum
 
 
         3.4.1 bei Basissaatgut und Vorstufensaatgut anstelle der Sortenbezeichnung

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.10.2004 I 2696;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 6.12.2011 I 2641
+:   Art. 1 V v. 25.10.2012 I 2270
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -83,9 +83,11 @@ Anlage.
 
 ## § 2
 
-Die Gemüsearten Schalotte, Winterheckenzwiebel, Knoblauch, Artischocke
-und Rhabarber unterliegen nicht den für Saatgut geltenden Regelungen
-des Saatgutverkehrsgesetzes.
+Als im Artenverzeichnis aufgeführt gelten auch Unterlagen und andere
+Pflanzenteile anderer als der in Nummer 2 der Anlage genannten
+Gemüsearten oder deren Hybriden, soweit sie mit Material von Pflanzen
+der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden
+veredelt werden oder veredelt werden sollen.
 
 
 ## § 2a
@@ -858,7 +860,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Cucurbita pepo L.
 
-    *   Gartenkürbis, Zucchini
+    *   Gartenkürbis, Ölkürbis, Zucchini
 
 
 *    *   2.20
