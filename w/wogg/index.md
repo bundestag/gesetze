@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 35 G v. 20.12.2011 I 2854
+:   Art. 1 G v. 9.11.2011 I 2291
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
@@ -1054,7 +1054,8 @@ zulässig.
 
 26. die Hälfte der nach § 3 Nr. 36 des Einkommensteuergesetzes
     steuerfreien Einnahmen für Leistungen zur Grundpflege oder
-    hauswirtschaftlichen Versorgung;
+    hauswirtschaftlichen Versorgung einer Person, die kein
+    Haushaltsmitglied ist;
 
 
 27. die Hälfte der als Zuschüsse erbrachten
@@ -1422,13 +1423,18 @@ zu geben, soweit die Durchführung dieses Gesetzes es erfordert.
 die Kapitalerträge auszahlenden Stellen, denen ein zu
 berücksichtigendes Haushaltsmitglied einen Freistellungsauftrag für
 Kapitalerträge erteilt hat, verpflichtet, der Wohngeldbehörde Auskunft
-über die Höhe der zugeflossenen Kapitalerträge zu erteilen. Ein
-Auskunftsersuchen der Wohngeldbehörde ist nur zulässig, wenn auf Grund
-eines Datenabgleichs nach § 33 der Verdacht besteht oder feststeht,
-dass Wohngeld rechtswidrig in Anspruch genommen wurde oder wird und
-dass das zu berücksichtigende Haushaltsmitglied, auch soweit es dazu
-berechtigt ist, nicht oder nicht vollständig bei der Ermittlung der
-Kapitalerträge mitwirkt.
+über die Höhe der zugeflossenen Kapitalerträge zu erteilen. § 21
+Absatz 3 Satz 4 des Zehnten Buches Sozialgesetzbuch gilt entsprechend.
+Ein Auskunftsersuchen der Wohngeldbehörde ist nur zulässig, wenn auf
+Grund eines Datenabgleichs nach § 33 der Verdacht besteht oder
+feststeht, dass Wohngeld rechtswidrig in Anspruch genommen wurde oder
+wird und dass das zu berücksichtigende Haushaltsmitglied, auch soweit
+es dazu berechtigt ist, nicht oder nicht vollständig bei der
+Ermittlung der Kapitalerträge mitwirkt. Die Auslagen für Auskünfte von
+Kapitalerträge auszahlenden Stellen, die durch die Ermittlung der
+rechtswidrigen Inanspruchnahme von Wohngeld entstanden sind, sollen
+abweichend von § 64 Absatz 1 des Zehnten Buches Sozialgesetzbuch von
+der Person, die Wohngeld zu erstatten hat, erhoben werden.
 
 (5) Auf die nach den Absätzen 1 bis 3 Auskunftspflichtigen sind die §§
 60 und 65 Abs. 1 und 3 des Ersten Buches Sozialgesetzbuch entsprechend
@@ -1807,17 +1813,20 @@ regelmäßig durch einen Datenabgleich daraufhin überprüfen,
     Leistung von Arbeitslosengeld eingestellt hat,
 
 
-5.  ob und von welchem Zeitpunkt an ein zu berücksichtigendes
-    Haushaltsmitglied in der Wohnung, für die Wohngeld geleistet wurde,
-    nicht mehr gemeldet ist oder seinen Wohnungsstatus geändert hat,
+5.  ob, mit welchem Wohnungsstatus und von welchem Zeitpunkt an ein
+    Haushaltsmitglied unter der Anschrift der Wohnung, für die Wohngeld
+    beantragt wird oder geleistet wird oder wurde, bei der Meldebehörde
+    gemeldet ist oder nicht mehr gemeldet ist und unter welcher neuen
+    Anschrift es gemeldet ist,
 
 
-6.  ob und für welche Zeiträume eine Versicherungspflicht im Sinne des § 2
-    Abs. 1 des Vierten Buches Sozialgesetzbuch oder eine geringfügige
-    Beschäftigung besteht oder bestand und entsprechende Daten an die
-    Datenstelle der Träger der Rentenversicherung (Datenstelle) und die
-    Minijob-Zentrale der Deutschen Rentenversicherung Knappschaft-Bahn-See
-    übermittelt worden sind,
+6.  ob, für welche Zeiträume und bei welchem Arbeitgeber eine
+    Versicherungspflicht im Sinne des § 2 Abs. 1 des Vierten Buches
+    Sozialgesetzbuch oder eine geringfügige Beschäftigung besteht oder
+    bestand und entsprechende Daten an die Datenstelle der Träger der
+    Rentenversicherung (Datenstelle) und die Minijob-Zentrale der
+    Deutschen Rentenversicherung Knappschaft-Bahn-See übermittelt worden
+    sind,
 
 
 7.  ob, in welcher Höhe und für welche Zeiträume Leistungen der Renten-
@@ -1838,7 +1847,8 @@ Bekanntgabe des zugehörigen Bewilligungsbescheides zulässig.
 2.  Geburtsdatum, Geburtsort,
 
 
-3.  Anschrift,
+3.  Anschrift der Wohnung, für die Wohngeld beantragt oder bewilligt
+    wurde,
 
 
 4.  Tatsache des Wohngeldantrages und des Wohngeldempfangs,
@@ -1853,28 +1863,25 @@ Bekanntgabe des zugehörigen Bewilligungsbescheides zulässig.
 
 an die in Absatz 1 Satz 1 und Absatz 2 Satz 1 Nr. 2, 4, 6 und 7
 genannten Stellen und die für die Leistungen nach Absatz 2 Satz 1 Nr.
-1 und 3 sowie die für die Meldedaten nach Absatz 2 Satz 1 Nr. 5
-zuständigen Stellen übermittelt werden. Die Daten, die der
-Wohngeldbehörde oder der sonst nach Landesrecht für den Datenabgleich
-zuständigen oder von der Landesregierung durch Rechtsverordnung oder
-auf sonstige Weise für den Datenabgleich bestimmten Stelle übermittelt
-werden, dürfen nur für den Zweck der Überprüfung nach den Absätzen 1
-und 2 genutzt werden. Die übermittelten Daten, bei denen die
-Überprüfung zu keinen abweichenden Feststellungen führt, sind
-unverzüglich zu löschen oder zu vernichten. Die Betroffenen sind von
-der Wohngeldbehörde auf die Datenübermittlung hinzuweisen.
+1 und 3 sowie an die Meldebehörden übermittelt werden. Die Daten, die
+der Wohngeldbehörde oder der sonst nach Landesrecht für den
+Datenabgleich zuständigen oder von der Landesregierung durch
+Rechtsverordnung oder auf sonstige Weise für den Datenabgleich
+bestimmten Stelle (zentralen Landesstelle) übermittelt werden, dürfen
+nur für den Zweck der Überprüfung nach den Absätzen 1 und 2 genutzt
+werden. Die übermittelten Daten, bei denen die Überprüfung zu keinen
+abweichenden Feststellungen führt, sind unverzüglich zu löschen oder
+zu vernichten. Die Betroffenen sind von der Wohngeldbehörde auf die
+Datenübermittlung hinzuweisen.
 
-(4) Die in Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten und die für die
-Leistungen nach Absatz 2 Satz 1 Nr. 1 und 3 sowie die für Meldedaten
-nach Absatz 2 Satz 1 Nr. 5 zuständigen Stellen führen den
-Datenabgleich durch und übermitteln die Daten über Feststellungen im
-Sinne des Absatzes 2 an die Wohngeldbehörde oder die sonst nach
-Landesrecht für den Datenabgleich zuständige oder von der
-Landesregierung durch Rechtsverordnung oder auf sonstige Weise für den
-Datenabgleich bestimmte Stelle oder über eine dieser Stellen an die
-Wohngeldbehörde. Die jenen Stellen überlassenen Daten und Datenträger
-sind nach Durchführung des Datenabgleichs unverzüglich zurückzugeben,
-zu löschen oder zu vernichten.
+(4) Die in Absatz 2 Satz 1 Nummer 2, 4, 6 und 7 genannten und die für
+die Leistungen nach Absatz 2 Satz 1 Nummer 1 und 3 zuständigen Stellen
+sowie die Meldebehörden führen den Datenabgleich durch und übermitteln
+die Daten über Feststellungen im Sinne des Absatzes 2 an die
+Wohngeldbehörde oder die zentrale Landesstelle oder über die zentrale
+Landesstelle an die Wohngeldbehörde. Die jenen Stellen überlassenen
+Daten und Datenträger sind nach Durchführung des Datenabgleichs
+unverzüglich zurückzugeben, zu löschen oder zu vernichten.
 
 (5) Der Datenabgleich nach den Absätzen 1 und 2 ist auch in
 automatisierter Form zulässig. Hierzu dürfen die erforderlichen Daten
@@ -1883,25 +1890,25 @@ nach den Absätzen 1 bis 3 auch der Datenstelle als Vermittlungsstelle
 übermittelten Daten speichern, nutzen und an die in Absatz 2 Satz 1
 Nr. 2, 4, 6 und 7 genannten Stellen weiter übermitteln, soweit dies
 für den Datenabgleich nach den Absätzen 1 und 2 erforderlich ist. Die
-Datenstelle darf die Daten der Stammsatzdatei im Sinne des § 150 des
-Sechsten Buches Sozialgesetzbuch und der bei ihr für die Prüfung bei
-den Arbeitgebern geführten Datei im Sinne des § 28p Abs. 8 Satz 2 des
-Vierten Buches Sozialgesetzbuch nutzen, soweit dies für den
-Datenabgleich nach den Absätzen 1 und 2 erforderlich ist. Die
-Datenstelle gleicht die übermittelten Daten ab und leitet
-Feststellungen im Sinne des Absatzes 2 an die übermittelnde
-Wohngeldbehörde oder die sonst nach Landesrecht für den Datenabgleich
-zuständige oder von der Landesregierung durch Rechtsverordnung oder
-auf sonstige Weise für den Datenabgleich bestimmte Stelle oder über
-eine dieser Stellen an die übermittelnde Wohngeldbehörde zurück. Die
-nach Satz 3 bei der Datenstelle gespeicherten Daten sind unverzüglich
-nach Abschluss der Datenabgleiche zu löschen. Bei einer
-Weiterübermittlung der Daten nach Satz 3 gilt Absatz 4 für die in
-Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten Stellen entsprechend.
+Datenstelle darf die nach § 52 Absatz 1 und 2 des Zweiten Buches
+Sozialgesetzbuch und nach § 118 Absatz 2 des Zwölften Buches
+Sozialgesetzbuch übermittelten Daten sowie die Daten der
+Stammsatzdatei im Sinne des § 150 des Sechsten Buches Sozialgesetzbuch
+und der bei ihr für die Prüfung bei den Arbeitgebern geführten Datei
+im Sinne des § 28p Abs. 8 Satz 3 des Vierten Buches Sozialgesetzbuch
+nutzen, soweit dies für den Datenabgleich nach den Absätzen 1 und 2
+erforderlich ist. Die Datenstelle gleicht die übermittelten Daten ab
+und leitet Feststellungen im Sinne des Absatzes 2 an die übermittelnde
+Wohngeldbehörde oder die zentrale Landesstelle oder über die zentrale
+Landesstelle an die übermittelnde Wohngeldbehörde zurück. Die nach
+Satz 3 bei der Datenstelle gespeicherten Daten sind unverzüglich nach
+Abschluss der Datenabgleiche zu löschen. Bei einer Weiterübermittlung
+der Daten nach Satz 3 gilt Absatz 4 für die in Absatz 2 Satz 1 Nr. 2,
+4, 6 und 7 genannten Stellen entsprechend.
 
-(6) Die Landesregierung kann ihre Befugnis, eine Stelle für den
-Datenabgleich zu bestimmen (Absatz 3 Satz 2, Absatz 4 Satz 1 und
-Absatz 5 Satz 5), auf die für die Ausführung des Wohngeldgesetzes
+(6) Die Landesregierung kann ihre Befugnis, eine zentrale Landesstelle
+für den Datenabgleich zu bestimmen (Absatz 3 Satz 2, Absatz 4 Satz 1
+und Absatz 5 Satz 5), auf die für die Ausführung des Wohngeldgesetzes
 zuständige oberste Landesbehörde übertragen. § 69 des Ersten Buches
 Sozialgesetzbuch bleibt unberührt.
 
@@ -2119,7 +2126,9 @@ Zustimmung des Bundesrates
 
 
 3.  die Einzelheiten des Verfahrens des automatisierten Datenabgleichs und
-    die Kosten des Verfahrens (§ 33) zu regeln.
+    die Kosten des Verfahrens (§ 33) zu regeln; dabei kann auch geregelt
+    werden, dass die Länder der Datenstelle die Kosten für die
+    Durchführung des Datenabgleichs zu erstatten haben.
 
 
 
@@ -2145,7 +2154,13 @@ zu berücksichtigen.
 oder der Wohngeldverordnung über einen Wohngeldantrag noch nicht
 entschieden, ist für die Zeit bis zum Inkrafttreten der Änderungen
 nach dem bis dahin geltenden Recht, für die darauf folgende Zeit nach
-dem neuen Recht zu entscheiden.
+dem neuen Recht zu entscheiden. Ist über einen nach dem Zeitpunkt des
+Inkrafttretens von Änderungen dieses Gesetzes oder der
+Wohngeldverordnung gestellten Wohngeldantrag, einen Antrag nach § 27
+Absatz 1 oder in einem Verfahren nach § 27 Absatz 2 zu entscheiden und
+beginnt der Bewilligungszeitraum vor dem Zeitpunkt des Inkrafttretens
+von Änderungen dieses Gesetzes oder der Wohngeldverordnung, ist Satz 1
+entsprechend anzuwenden.
 
 (2) Ist vor dem Inkrafttreten von Änderungen dieses Gesetzes oder der
 Wohngeldverordnung über einen Wohngeldantrag entschieden worden,
