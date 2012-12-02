@@ -3079,8 +3079,7 @@ sind.
 2.  Bei Schiffen mit Sprung und mit Aufbauten wird der Freibord nach
     folgender Formel berechnet:
 
-    *        *   (Formel nicht darstellbar)
-
+    *        *            ![bgbl1_2008_j2450_54_ab_0010.jpg](bgbl1_2008_j2450_54_ab_0010.jpg)
 
     *        *
         *
@@ -3128,18 +3127,10 @@ sind.
 
 3.  Der Koeffizient α wird nach folgender Formel berechnet:
 
-    *        *   α                              =
-
-        *   Σle
-            a                                Σle
-            m                                + Σle
-            v
-            **
-
+    *        *            ![bgbl1_2008_j2450_55_ab_0010.jpg](bgbl1_2008_j2450_55_ab_0010.jpg)
 
     *        *
-        *   L
-
+        *
         *
 
 
@@ -3169,14 +3160,12 @@ sind.
     Die wirksame Länge eines Aufbaues wird nach folgenden Formeln
     berechnet:
 
-    *        *   (Formel nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_55_ab_0020.jpg](bgbl1_2008_j2450_55_ab_0020.jpg)
+
+    *        *            ![bgbl1_2008_j2450_55_ab_0030.jpg](bgbl1_2008_j2450_55_ab_0030.jpg)
 
 
-    *        *   (Formel nicht darstellbar)
-
-
-
-    In diesen Formeln bedeuten:
+   In diesen Formeln bedeuten:
 
     *        *   l
 
@@ -3205,20 +3194,17 @@ sind.
 
 
     Wenn
-    (Formel nicht darstellbar)                    oder
-    (Formel nicht darstellbar)                    kleiner ist als 0,6, ist
-    die wirksame Aufbaulänge le gleich Null zu setzen.
+    ![bgbl1_2008_j2450_56_ab_0010.jpg](bgbl1_2008_j2450_56_ab_0010.jpg)    kleiner ist als 0,6, ist die wirksame Aufbaulänge le gleich Null zu
+    setzen.
 
 
 4.  Die Koeffizienten β
     v                    und β
     a                    werden nach folgenden Formeln berechnet:
 
-    *        *   (Formel nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_56_ab_0020.jpg](bgbl1_2008_j2450_56_ab_0020.jpg)
 
-
-    *        *   (Formel nicht darstellbar)
-
+    *        *            ![bgbl1_2008_j2450_56_ab_0030.jpg](bgbl1_2008_j2450_56_ab_0030.jpg)
 
 
 
@@ -3263,20 +3249,26 @@ sind.
 
 
 
-    *        *   (Formel nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_56_ab_0040.jpg](bgbl1_2008_j2450_56_ab_0040.jpg)
+
+    *        *
+        *
+        *
 
 
-
-    Dabei ist x die vom jeweiligen Ende ab gemessene Abszisse des Punktes,
+   Dabei ist x die vom jeweiligen Ende ab gemessene Abszisse des Punktes,
     an dem der Sprung gleich 0,25 S
     v                    oder 0,25 S
     a                    ist (nachstehende Skizze):
 
-    *        *   (Grafik nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_56_ab_0050.jpg](bgbl1_2008_j2450_56_ab_0050.jpg)
+
+    *        *
+        *
+        *
 
 
-
-    Für den Koeffizienten p darf jedoch kein Wert größer als 1 eingesetzt
+   Für den Koeffizienten p darf jedoch kein Wert größer als 1 eingesetzt
     werden.
 
 
@@ -5370,12 +5362,10 @@ Schiffsattest einzutragen:
     d
     1                    ist nach folgender Formel zu berechnen:
 
-    *        *   d
-            1                              = 1,5 √L(B+H) + 25 [mm].
+    *        *            ![bgbl1_2008_j2450_83_ab_0010.jpg](bgbl1_2008_j2450_83_ab_0010.jpg)
 
 
-
-    Die Mindestfördermenge Q
+   Die Mindestfördermenge Q
     2                    der zweiten Lenzpumpe ist nach folgender Formel
     zu berechnen:
 
@@ -5389,12 +5379,10 @@ Schiffsattest einzutragen:
     d
     2                    ist nach folgender Formel zu berechnen:
 
-    *        *   d
-            2                              = 2 · √l(B+H) + 25 [mm].
+    *        *            ![bgbl1_2008_j2450_83_ab_0020.jpg](bgbl1_2008_j2450_83_ab_0020.jpg)
 
 
-
-    Jedoch braucht das Maß d
+   Jedoch braucht das Maß d
     2                    nicht größer als das Maß d
     1                    zu sein.
     Bei der Bemessung von Q
@@ -6688,11 +6676,10 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     k Koeffizient, der das Verhältnis von L und B sowie die Art des
     Fahrzeugs berücksichtigt:
 
-    *        *   (Formel nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_115_ab_0010.jpg](bgbl1_2008_j2450_115_ab_0010.jpg)
 
 
-
-    für Schubleichter ist jedoch k = c zu setzen;
+   für Schubleichter ist jedoch k = c zu setzen;
     c Erfahrungszahl nach folgender Tabelle:
 
     *        *   **Tragfähigkeit**
@@ -6854,8 +6841,7 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
         *            *   bei Ankern mit einer Masse über 500 bis 2000 kg:
 
 
-        *            *   (nicht darstellbare Formel)
-
+        *            *                ![bgbl1_2008_j2450_117_ab_0010.jpg](bgbl1_2008_j2450_117_ab_0010.jpg)
 
 
 
@@ -6958,14 +6944,12 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
         verzichtet werden. Diese Drahtseile müssen für eine Mindestbruchkraft
         RS ausgelegt sein, die nach folgender Formel zu berechnen ist:
 
-        *            *   (Nicht darstellbare Formel)
+        *            *                ![bgbl1_2008_j2450_119_ab_0010.jpg](bgbl1_2008_j2450_119_ab_0010.jpg)                ![bgbl1_2008_j2450_119_ab_0020.jpg](bgbl1_2008_j2450_119_ab_0020.jpg)
+
+        *            *
 
 
-        *            *   (Nicht darstellbare Formel)
-
-
-
-        Für die vorgeschriebenen Drahtseile muss sich eine Bescheinigung gemäß
+   Für die vorgeschriebenen Drahtseile muss sich eine Bescheinigung gemäß
         Europäischer Norm EN 10 204 : 1991, Zeugnisform 3.1, an Bord befinden.
         Diese Drahtseile dürfen durch andere Seile gleicher Länge und gleicher
         Mindestbruchkraft ersetzt werden. Die Mindestbruchkraft für diese
@@ -9208,19 +9192,12 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
         der Außenhaut von Fahrgastschiffen bestimmt sich nach dem größeren
         Wert der folgenden Formeln:
 
-        *            *   t
-                1
-                min                                    = 0,006 · a ·√T [mm];
+        *            *                ![bgbl1_2008_j2450_160_ab_0010.jpg](bgbl1_2008_j2450_160_ab_0010.jpg)
+
+        *            *                ![bgbl1_2008_j2450_160_ab_0020.jpg](bgbl1_2008_j2450_160_ab_0020.jpg)
 
 
-        *            *   t
-                2
-                min                                    = f · 0,55 · √L
-                WL                                    [mm].
-
-
-
-        In diesen Formeln bedeuten:
+   In diesen Formeln bedeuten:
 
         *            *   f = 1 + 0,0013 · (a - 500);
 
@@ -9587,14 +9564,10 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 4.  Das Moment aufgrund der einseitigen Ansammlung von Personen (M
     P                   ) ist wie folgt zu berechnen:
 
-    *        *   M
-            P                                = g · ΣP
-            i                                · y
-            i **[kNm]**
+    *        *            ![bgbl1_2008_j2450_165_ab_0010.jpg](bgbl1_2008_j2450_165_ab_0010.jpg)
 
 
-
-    In dieser Formel bedeuten:
+   In dieser Formel bedeuten:
 
     *        *   P =
 
@@ -9972,11 +9945,10 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
         Punkt eintauchen, müssen die Räume, die mit ihnen verbunden sind, in
         der Leckstabilitätsrechnung als geflutet angesehen werden.
 
-        *            *   (Grafik nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_169_ab_0010.jpg](bgbl1_2008_j2450_169_ab_0010.jpg)
 
 
-
-        Dabei ist:
+   Dabei ist:
 
         *            *   φE
 
@@ -12513,11 +12485,10 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
 4.2 Das Moment infolge des Winddruckes ist nach folgender Formel zu
     berechnen:
 
-    *        *   (Formel nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_204_ab_0010.jpg](bgbl1_2008_j2450_204_ab_0010.jpg)
 
 
-
-    In dieser Formel bedeuten:
+   In dieser Formel bedeuten:
 
     *        *   c
 
@@ -12577,20 +12548,13 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
 5.  Die aufrichtenden Momente können bei Schwimmkörpern mit senkrechten
     Seitenwänden nach der Formel
 
-    *        *   (Formel nicht darstellbar)
+    *        *            ![bgbl1_2008_j2450_205_ab_0010.jpg](bgbl1_2008_j2450_205_ab_0010.jpg)
 
 
-
-
-    *        *   (Formel nicht darstellbar)
-
-
-
-    berechnet werden.
+   berechnet werden.
     In dieser Formel bedeuten:
 
-    *        *   (Zeichen nicht darstellbar)
-
+    *        *            ![bgbl1_2008_j2450_205_ab_0020.jpg](bgbl1_2008_j2450_205_ab_0020.jpg)
         *   die metazentrische Höhe in m;
 
 
@@ -13526,8 +13490,7 @@ anwenden.
     auszugehen:
 
     a)  Die metazentrische Höhe
-        (Zeichen nicht darstellbar)                          darf 1,00 m nicht
-        unterschreiten.
+        ![bgbl1_2008_j2450_219_ab_0010.jpg](bgbl1_2008_j2450_219_ab_0010.jpg)        darf 1,00 m nicht unterschreiten.
 
 
     b)  Unter gleichzeitiger Einwirkung der Zentrifugalkraft bei der
@@ -13539,11 +13502,10 @@ anwenden.
     c)  Der krängende Hebel aus der Zentrifugalkraft bei der Drehbewegung ist
         nach folgender Formel zu berechnen:
 
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_219_ab_0020.jpg](bgbl1_2008_j2450_219_ab_0020.jpg)
 
 
-
-        In dieser Formel bedeuten:
+   In dieser Formel bedeuten:
 
         *            *   c
                 KZ
@@ -13558,8 +13520,7 @@ anwenden.
             *   größte Geschwindigkeit des Schiffes gegen Wasser [m/s];
 
 
-        *            *   (Zeichen nicht darstellbar
-
+        *            *                ![bgbl1_2008_j2450_219_ab_0030.jpg](bgbl1_2008_j2450_219_ab_0030.jpg)
             *   Höhe des Schwerpunktes des beladenen Schiffes über Basis [m];
 
 
@@ -13574,11 +13535,10 @@ anwenden.
     d)  Der krängende Hebel aus Winddruck ist nach folgender Formel zu
         berechnen:
 
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_219_ab_0040.jpg](bgbl1_2008_j2450_219_ab_0040.jpg)
 
 
-
-        In dieser Formel bedeuten:
+   In dieser Formel bedeuten:
 
         *            *   c
                 KW
@@ -13618,11 +13578,10 @@ anwenden.
         im Laderaum oder im Doppelboden ist nach folgender Formel zu
         berechnen:
 
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_219_ab_0050.jpg](bgbl1_2008_j2450_219_ab_0050.jpg)
 
 
-
-        In dieser Formel bedeuten:
+   In dieser Formel bedeuten:
 
         *            *   c
                 KfO
@@ -13661,40 +13620,33 @@ anwenden.
 
 2.  Die Stabilität eines mit ungesicherten Containern beladenen
     Binnenschiffes gilt als ausreichend, wenn das vorhandene
-    (Zeichen nicht darstellbar)                    gleich oder kleiner als
-    (Zeichen nicht darstellbar)                    nach den folgenden
-    Formeln ist. Hierbei muss
-    (Zeichen nicht darstellbar)                    für verschiedene
-    Verdrängungen über den gesamten Tiefgangsbereich berechnet werden.
+    ![bgbl1_2008_j2450_220_ab_0010.jpg](bgbl1_2008_j2450_220_ab_0010.jpg)    gleich oder kleiner als
+    ![bgbl1_2008_j2450_220_ab_0020.jpg](bgbl1_2008_j2450_220_ab_0020.jpg)    zul                    nach den folgenden Formeln ist. Hierbei muss
+    ![bgbl1_2008_j2450_220_ab_0030.jpg](bgbl1_2008_j2450_220_ab_0030.jpg)    zul                    für verschiedene Verdrängungen über den
+    gesamten Tiefgangsbereich berechnet werden.
 
     a)
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_220_ab_0040.jpg](bgbl1_2008_j2450_220_ab_0040.jpg)
 
 
-
-        Für
-        (Formel nicht darstellbar)                          darf kein
-        kleinerer Wert als 11,5 eingesetzt werden (11,5 = 1/tan 5°).
+   Für
+        ![bgbl1_2008_j2450_220_ab_0050.jpg](bgbl1_2008_j2450_220_ab_0050.jpg)        darf kein kleinerer Wert als 11,5 eingesetzt werden (11,5 = 1/tan 5°).
 
 
     b)
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_220_ab_0060.jpg](bgbl1_2008_j2450_220_ab_0060.jpg)
 
 
-
-        Der kleinere Wert für
-        (Zeichen nicht darstellbar)                          nach Formel a
-        oder b ist maßgebend.
+   Der kleinere Wert für
+        ![bgbl1_2008_j2450_220_ab_0070.jpg](bgbl1_2008_j2450_220_ab_0070.jpg)        nach Formel a oder b ist maßgebend.
         In diesen Formeln bedeuten:
 
-        *            *   (Zeichen nicht darstellbar)
-
+        *            *                ![bgbl1_2008_j2450_220_ab_0080.jpg](bgbl1_2008_j2450_220_ab_0080.jpg)
             *   maximal zulässige Höhe des Schwerpunktes des beladenen Schiffes über
                 Basis [m];
 
 
-        *            *   (Zeichen nicht darstellbar)
-
+        *            *                ![bgbl1_2008_j2450_220_ab_0090.jpg](bgbl1_2008_j2450_220_ab_0090.jpg)
             *   Höhe des Metazentrums über Basis [m] nach der Näherungsformel nach
                 Nummer 3;
 
@@ -13707,8 +13659,7 @@ anwenden.
         *            *   Z
 
             *   Beiwert für die Zentrifugalkraft im Drehkreis
-                (Formel nicht darstellbar)
-
+                ![bgbl1_2008_j2450_220_ab_0100.jpg](bgbl1_2008_j2450_220_ab_0100.jpg)
 
         *            *   v
 
@@ -13742,23 +13693,20 @@ anwenden.
 
 
 3.  Näherungsformel für
-    (Zeichen nicht darstellbar)
-    Ist kein Kurvenblatt vorhanden, kann für die Berechnung nach Nummer 2
+    ![bgbl1_2008_j2450_221_ab_0010.jpg](bgbl1_2008_j2450_221_ab_0010.jpg)    Ist kein Kurvenblatt vorhanden, kann für die Berechnung nach Nummer 2
     und § 22.03 Nr. 2 der Wert für
-    (Zeichen nicht darstellbar)                    aus folgenden
-    Näherungsformeln ermittelt werden:
+    ![bgbl1_2008_j2450_221_ab_0020.jpg](bgbl1_2008_j2450_221_ab_0020.jpg)    aus folgenden Näherungsformeln ermittelt werden:
 
     a)  für Schiffe mit Pontonform
 
-        *            *   (Formel nicht darstellbar)
-
+        *            *                ![bgbl1_2008_j2450_221_ab_0030.jpg](bgbl1_2008_j2450_221_ab_0030.jpg)
 
 
 
 
     b)  für andere Schiffe
 
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_221_ab_0040.jpg](bgbl1_2008_j2450_221_ab_0040.jpg)
 
 
 
@@ -13768,8 +13716,7 @@ anwenden.
 
 
 
-
-    Raumabschnitte freier Flüssigkeitsoberflächen entstehen, wenn durch
+   Raumabschnitte freier Flüssigkeitsoberflächen entstehen, wenn durch
     wasserdichte Längs- und/oder Querunterteilungen voneinander
     unabhängige Flüssigkeitsoberflächen gebildet werden.
 [^bjnr245010008bjne021000000_01_BJNR245010008BJNE021000000]: 
@@ -14129,8 +14076,7 @@ c)  am 1. Januar 2023
     ausgehen:
 
     a)  Die metazentrische Höhe
-        (Zeichen nicht darstellbar)                          darf 0,50 m nicht
-        unterschreiten.
+        ![bgbl1_2008_j2450_221_ab_0050.jpg](bgbl1_2008_j2450_221_ab_0050.jpg)        darf 0,50 m nicht unterschreiten.
 
 
     b)  Unter gleichzeitiger Einwirkung der Zentrifugalkraft bei der
@@ -14153,37 +14099,31 @@ c)  am 1. Januar 2023
 
 2.  Die Stabilität eines mit gesicherten Containern beladenen
     Binnenschiffes gilt als ausreichend, wenn das vorhandene
-    (Zeichen nicht darstellbar)                    gleich oder kleiner als
-    (Zeichen nicht darstellbar)                    nach den folgenden
-    Formeln ist. Hierbei muss
-    (Zeichen nicht darstellbar)                    für verschiedene
-    Verdrängungen über den gesamten Tiefgangsbereich berechnet werden.
+    ![bgbl1_2008_j2450_222_ab_0010.jpg](bgbl1_2008_j2450_222_ab_0010.jpg)    gleich oder kleiner als
+    ![bgbl1_2008_j2450_222_ab_0020.jpg](bgbl1_2008_j2450_222_ab_0020.jpg)    zul                    nach den folgenden Formeln ist. Hierbei muss
+    ![bgbl1_2008_j2450_222_ab_0030.jpg](bgbl1_2008_j2450_222_ab_0030.jpg)    zul                    für verschiedene Verdrängungen über den
+    gesamten Tiefgangsbereich berechnet werden.
 
     a)
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_222_ab_0040.jpg](bgbl1_2008_j2450_222_ab_0040.jpg)
 
 
-
-        Für
-        (Formel nicht darstellbar)                          darf kein
-        kleinerer Wert als 6,6 und
+   Für
+        ![bgbl1_2008_j2450_222_ab_0050.jpg](bgbl1_2008_j2450_222_ab_0050.jpg)        darf kein kleinerer Wert als 6,6 und
 
         *            *   für
-                (Formel nicht darstellbar)                                    kein
-                kleinerer Wert als 0 eingesetzt werden.
+                ![bgbl1_2008_j2450_222_ab_0060.jpg](bgbl1_2008_j2450_222_ab_0060.jpg)                kein kleinerer Wert als 0 eingesetzt werden.
 
 
 
 
 
     b)
-        *            *   (Formel nicht darstellbar)
+        *            *                ![bgbl1_2008_j2450_222_ab_0070.jpg](bgbl1_2008_j2450_222_ab_0070.jpg)
 
 
-
-        Der kleinere Wert für
-        (Zeichen nicht darstellbar)                          nach Formel a
-        oder b ist maßgebend.
+   Der kleinere Wert für
+        ![bgbl1_2008_j2450_222_ab_0080.jpg](bgbl1_2008_j2450_222_ab_0080.jpg)        nach Formel a oder b ist maßgebend.
         In diesen Formeln bedeuten:
 
         *            *   l
@@ -14196,19 +14136,11 @@ c)  am 1. Januar 2023
 
         *            *   i
 
-            *   Höhe des Metazentrums über Basis [m] nach der Näherungsformel nach
-                Nummer 3;
-
-
-        *            *   F
-
             *   Breitenträgheitsmoment der zur Basis parallelen Wasserlinie in der
                 Höhe
-                (Formel nicht darstellbar)
+                ![bgbl1_2008_j2450_222_ab_0090.jpg](bgbl1_2008_j2450_222_ab_0090.jpg)
 
-
-        *            *   (Zeichen nicht darstellbar)
-
+        *            *                ![bgbl1_2008_j2450_222_ab_0100.jpg](bgbl1_2008_j2450_222_ab_0100.jpg)
             *   Verdrängung des Schiffes bei T
                 m                                    [m
                 3                                   ];
@@ -14218,8 +14150,7 @@ c)  am 1. Januar 2023
 
             *   ideeller Freibord F' = H' - T
                 m                                    [m] oder
-                (Formel nicht darstellbar)
-
+                ![bgbl1_2008_j2450_222_ab_0110.jpg](bgbl1_2008_j2450_222_ab_0110.jpg)
 
         *            *   a
 
@@ -14236,8 +14167,7 @@ c)  am 1. Januar 2023
         *            *   H'
 
             *   ideelle Seitenhöhe
-                (Formel nicht darstellbar)
-
+                ![bgbl1_2008_j2450_222_ab_0120.jpg](bgbl1_2008_j2450_222_ab_0120.jpg)
 
         *            *   q
 
@@ -14262,16 +14192,14 @@ c)  am 1. Januar 2023
 
     a)  für Schiffe mit Pontonform
 
-        *            *   (Formel nicht darstellbar)
-
+        *            *                ![bgbl1_2008_j2450_223_ab_0010.jpg](bgbl1_2008_j2450_223_ab_0010.jpg)
 
 
 
 
     b)  für andere Schiffe
 
-        *            *   (Formel nicht darstellbar)
-
+        *            *                ![bgbl1_2008_j2450_223_ab_0020.jpg](bgbl1_2008_j2450_223_ab_0020.jpg)
 
 
 
@@ -14284,7 +14212,7 @@ c)  am 1. Januar 2023
 
 #### § 22.04 Verfahren für die Stabilitätsbeurteilung an Bord
 
-Das Verfahren der Stabilitätsbeurteilung kann den Unterlagen nach §
+   Das Verfahren der Stabilitätsbeurteilung kann den Unterlagen nach §
 22\.01 Nr. 2 entnommen werden.
 
 
@@ -18876,11 +18804,6 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
 
-#### Anlage H
-
-Es gelten die Bestimmungen des Anhangs XI Anlage 1.
-
-
 #### Anlage A (Muster) Antrag auf Untersuchung
 
 
@@ -19333,14 +19256,18 @@ Es gilt das Muster nach Anhang VI, Teil II
 Es gilt das Muster nach Anhang V, Teil VI
 
 
+#### Anlage H
+
+Es gelten die Bestimmungen des Anhangs XI Anlage 1.
+
+
 #### Anlage I Sicherheitszeichen
 
 
 *    *   Bild 1
         Zutritt für Unbefugte verboten
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_267_ab_0010.jpg](bgbl1_2008_j2450_267_ab_0010.jpg)
     *   Farbe: rot/weiß/schwarz
 
 
@@ -19348,16 +19275,14 @@ Es gilt das Muster nach Anhang V, Teil VI
         Feuer, offenes Licht und
         Rauchen verboten
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_267_ab_0020.jpg](bgbl1_2008_j2450_267_ab_0020.jpg)
     *   Farbe: rot/weiß/schwarz
 
 
 *    *   Bild 3
         Hinweis auf einen tragbaren Feuerlöscher
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_267_ab_0030.jpg](bgbl1_2008_j2450_267_ab_0030.jpg)
     *   Farbe: rot/weiß
 
 
@@ -19365,48 +19290,42 @@ Es gilt das Muster nach Anhang V, Teil VI
         Warnung vor
         allgemeiner Gefahr
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_267_ab_0040.jpg](bgbl1_2008_j2450_267_ab_0040.jpg)
     *   Farbe: schwarz/gelb
 
 
 *    *   Bild 5
         Löschschlauch
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_268_ab_0010.jpg](bgbl1_2008_j2450_268_ab_0010.jpg)
     *   Farbe: rot/weiß
 
 
 *    *   Bild 6
         Feuerlöscheinrichtung
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_268_ab_0020.jpg](bgbl1_2008_j2450_268_ab_0020.jpg)
     *   Farbe: rot/weiß
 
 
 *    *   Bild 7
         Gehörschutz benutzen
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_268_ab_0030.jpg](bgbl1_2008_j2450_268_ab_0030.jpg)
     *   Farbe: blau/weiß
 
 
 *    *   Bild 8
         Verbandskasten
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_268_ab_0040.jpg](bgbl1_2008_j2450_268_ab_0040.jpg)
     *   Farbe: grün/weiß
 
 
 *    *   Bild 9
         Schnellschlussventil des Tanks
 
-    *   (Nicht darstellbares Bild)
-
+    *        ![bgbl1_2008_j2450_268_ab_0050.jpg](bgbl1_2008_j2450_268_ab_0050.jpg)
     *   Farbe: braun/weiß
 
 
@@ -19829,14 +19748,10 @@ und Motorengruppen
     Serienproduktion gilt als bestimmungsmäßig konform, wenn folgende
     Bedingung erfüllt ist:
 
-    *        *   ¯
+    *        *            ![bgbl1_2008_j2450_274_ab_0010.jpg](bgbl1_2008_j2450_274_ab_0010.jpg)
 
 
-    *        *   x + κ . S, ≤ L
-
-
-
-    Hierbei bezeichnet
+   Hierbei bezeichnet
 
 
 *   k: einen statistischen Faktor, der von „n“ abhängt und in der
@@ -19929,25 +19844,20 @@ und Motorengruppen
 
 
     *        *
-        *   0,860
-
+        *
         *
 
-    *        *   wenn n ≥ = 20, k =
-
-        *   ——
-
-        *
+    *        *            ![bgbl1_2008_j2450_274_ab_0020.jpg](bgbl1_2008_j2450_274_ab_0020.jpg)
 
     *        *
-        *   √n
-
+        *
         *
 
 
    S
-    t                   : (nicht darstellbare Formel), wobei x ein
-    beliebiges mit der Stichprobe n erzieltes Einzelergebnis ist
+    t                   :
+    ![bgbl1_2008_j2450_274_ab_0030.jpg](bgbl1_2008_j2450_274_ab_0030.jpg)    , wobei x ein beliebiges mit der Stichprobe n erzieltes Einzelergebnis
+    ist
     L: den zulässigen Grenzwert nach § 8a.02 Nr. 2 für jeden untersuchten
     Schadstoff
 
@@ -24153,84 +24063,159 @@ Sofern vorhanden
 #### Anlage Q Dienstanweisungen nach § 1.07
 
 
-Nr. 1 Anforderungen an die Ausweich- und Wendeeigenschaften
+*    *   Nr.   1
+
+    *
+    *   Anforderungen an die Ausweich- und Wendeeigenschaften
 
 
-Nr. 2 Anforderungen an Mindestgeschwindigkeit, Stoppeigenschaften und
-    Rückwärtsfahreigenschaften
+*    *   Nr.   2
+
+    *
+    *   Anforderungen an Mindestgeschwindigkeit, Stoppeigenschaften und
+        Rückwärtsfahreigenschaften
 
 
-Nr. 3 Anforderungen an Kupplungssysteme und Kupplungseinrichtungen von
-    Fahrzeugen, die einen starren Verband fortbewegen oder in einem
-    starren Verband fortbewegt werden sollen
+*    *   Nr.   3
+
+    *
+    *   Anforderungen an Kupplungssysteme und Kupplungseinrichtungen von
+        Fahrzeugen, die einen starren Verband fortbewegen oder in einem
+        starren Verband fortbewegt werden sollen
 
 
-Nr. 4 Ohne Inhalt
+*    *   Nr.   4
+
+    *
+    *   Ohne Inhalt
 
 
-Nr. 5 Geräuschmessungen
+*    *   Nr.   5
+
+    *
+    *   Geräuschmessungen
 
 
-Nr. 6 Ohne Inhalt
+*    *   Nr.   6
+
+    *
+    *   Ohne Inhalt
 
 
-Nr. 7 Spezialanker mit verminderter Ankermasse
+*    *   Nr.   7
+
+    *
+    *   Spezialanker mit verminderter Ankermasse
 
 
-Nr. 8 Festigkeit von wasserdichten Schiffsfenstern
+*    *   Nr.   8
+
+    *
+    *   Festigkeit von wasserdichten Schiffsfenstern
 
 
-Nr. 9 Anforderungen an Sprinkleranlagen
+*    *   Nr.   9
+
+    *
+    *   Anforderungen an Sprinkleranlagen
 
 
-Nr. 10 Muster der Bescheinigung für Flüssiggasanlagen auf Kanalpenichen
+*    *   Nr. 10
+
+    *
+    *   Muster der Bescheinigung für Flüssiggasanlagen auf Kanalpenichen
 
 
-Nr. 11 Ausstellung des Gemeinschaftszeugnisses
+*    *   Nr. 11
+
+    *
+    *   Ausstellung des Gemeinschaftszeugnisses
 
 
-Nr. 12 Brennstofftanks auf schwimmenden Geräten
+*    *   Nr. 12
+
+    *
+    *   Brennstofftanks auf schwimmenden Geräten
 
 
-Nr. 13 Mindestdicke der Außenhaut auf Schleppkähnen
+*    *   Nr. 13
+
+    *
+    *   Mindestdicke der Außenhaut auf Schleppkähnen
 
 
-Nr. 14 Ohne Inhalt
+*    *   Nr. 14
+
+    *
+    *   Ohne Inhalt
 
 
-Nr. 15 Fortbewegung aus eigener Kraft
+*    *   Nr. 15
+
+    *
+    *   Fortbewegung aus eigener Kraft
 
 
-Nr. 16 Ohne Inhalt
+*    *   Nr. 16
+
+    *
+    *   Ohne Inhalt
 
 
-Nr. 17 Geeignete Feueralarmsysteme
+*    *   Nr. 17
+
+    *
+    *   Geeignete Feueralarmsysteme
 
 
-Nr. 18 Nachweis der Schwimmfähigkeit, Trimmlage und Stabilität von getrennten
-    Schiffsteilen
+*    *   Nr. 18
+
+    *
+    *   Nachweis der Schwimmfähigkeit, Trimmlage und Stabilität von getrennten
+        Schiffsteilen
 
 
-Nr. 19 Austauschmotoren
+*    *   Nr. 19
+
+    *
+    *   Austauschmotoren
 
 
-Nr. 20 Ausrüstung von Schiffen, die Standard S1 oder S2 entsprechen
+*    *   Nr. 20
+
+    *
+    *   Ausrüstung von Schiffen, die Standard S1 oder S2 entsprechen
 
 
-Nr. 21 Anforderungen an Sicherheitsleitsysteme
+*    *   Nr. 21
+
+    *
+    *   Anforderungen an Sicherheitsleitsysteme
 
 
-Nr. 22 Berücksichtigung der besonderen Sicherheitsbedürfnisse von Personen
-    mit eingeschränkter Mobilität
+*    *   Nr. 22
+
+    *
+    *   Berücksichtigung der besonderen Sicherheitsbedürfnisse von Personen
+        mit eingeschränkter Mobilität
 
 
-Nr. 23 Ohne Inhalt
+*    *   Nr. 23
+
+    *
+    *   Ohne Inhalt
 
 
-Nr. 24 Geeignete Gaswarneinrichtung
+*    *   Nr. 24
+
+    *
+    *   Geeignete Gaswarneinrichtung
 
 
-Nr. 25 Kabel
+*    *   Nr. 25
+
+    *
+    *   Kabel
 
 
 
@@ -24521,18 +24506,212 @@ und 16.06 des Anhangs II)
 *    *   **Schematische Darstellung des Ausweichmanövers**
 
 
-*    *   Grafik in Bearbeitung
+*    *        ![bgbl1_2008_j2450_312_ab_0010.jpg](bgbl1_2008_j2450_312_ab_0010.jpg)
+
+*    *        ![bgbl1_2008_j2450_312_ab_0020.jpg](bgbl1_2008_j2450_312_ab_0020.jpg)
 
 
 
 
-*Anlage 2*
-**zur Dienstanweisung Nr. 1**
+*    *   *Anlage 2*
+        **zur Dienstanweisung Nr. 1**
+
+
+*    *
 
 *    *   **Messprotokoll Ausweichmanöver und Wendeeigenschaften**
 
 
-*    *   Formular (Grafik in Bearbeitung)
+*    *
+    *
+    *
+    *
+
+*    *   Untersuchungskommission: .............................................
+        ......................................................................
+        ......................................................................
+        ..............................................................
+
+
+*    *   Datum: ...............................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ........
+
+
+*    *   Name: ................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ........
+
+
+*    *   Name des Fahrzeuges: .................................................
+        ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *   Eigentümer: ..........................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ...
+
+
+*    *   Art des Fahrzeuges
+
+    *
+    *
+    *   Strecke: .............................................................
+        ......................................................................
+        .........
+
+
+*    *   oder Verbandes: ......................................................
+        ................................
+
+    *
+    *   Pegel [m]: ...........................................................
+        ......................................................................
+        .........
+
+
+*    *   L x B [m x m]: .......................................................
+        ......................................
+
+    *
+    *   Wassertiefe h [m]: ...................................................
+        ......................................................................
+        ...
+
+
+*    *   T
+        Versuch                        [m]: ..................................
+        ..............................................................
+
+    *
+    *   h/T: .................................................................
+        ......................................................................
+        ............
+
+
+*    *
+    *
+    *   Strömungsgeschwindigkeit [m/s]: ......................................
+        .........................................................
+
+
+*    *   Beladung
+
+    *   % der maximalen
+
+    *
+
+*    *   (beim Versuch) [t]: ..................................................
+        ....................................
+
+    *
+    *   Tragfähigkeit: .......................................................
+        ......................................................................
+        ......
+
+
+*    *   Wendegeschwindigkeitsanzeiger
+
+    *
+    *
+    *
+
+*    *   Typ: .................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ...........
+
+
+*    *   Ruderbauart: übliche Bauart/besondere Bauart
+
+    *
+    *
+
+*    *   Aktive Steuereinrichtung: ja/nein
+
+    *
+    *
+    *
+
+*    *   Messwerte der Ausweichmanöver:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *        ![bgbl1_2008_j2450_313_ab_0010.jpg](bgbl1_2008_j2450_313_ab_0010.jpg)
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **Wendeeigenschaften**
+
+    *
+    *
+    *
+
+*    *   Standort am Anfang des Wendemanövers .................................
+        ......................................................................
+        ........................ km
+
+    *
+
+*    *   Standort am Ende des Wendemanövers ...................................
+        ......................................................................
+        ......................... km
+
+    *
+
+*    *   **Rudermaschine**
+
+    *
+    *
+    *
+    *
+
+*    *   Art des Antriebs: Hand/motorisch
+
+    *
+    *
+    *
+
+*    *   Ruderausschlag je Umdrehung
+        : ....................................................................
+        ......................................................................
+        ...........................................................
+        o
+
+
+*    *   Winkelgeschwindigkeit des Ruders über den gesamten Bereich
+        : ....................................................................
+        ......................................................................
+        .. °/s
+
+
+*    *   Winkelgeschwindigkeit des Ruders über den Bereich
+        35° BB nach 35° StB: .................................................
+        ......................................................................
+        .. °/s
 
 
 
@@ -24753,18 +24932,264 @@ Stoppmanöver* ****
 
 
 
-*    *   *Bild 1 Ablauf des Stoppmanövers*
+*    *
+    *
+    *
+
+*    *
+    *   *Bild 1 Ablauf des Stoppmanövers*
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *        ![bgbl1_2008_j2450_318_ab_0010.jpg](bgbl1_2008_j2450_318_ab_0010.jpg)
+    *
+
+*    *
 
 
-*    *   Grafik in Bearbeitung
 
+*    *
+    *   Bezeichnungen in Bild 1:
+
+
+*    *
+    *   **A**
+
+    *
+    *   Kommando „Stopp“
+
+
+*    *
+    *   **B**
+
+    *
+    *   Propeller steht
+
+
+*    *
+    *   **C**
+
+    *
+    *   Propeller dreht rückwärts
+
+
+*    *
+    *   **D**
+
+    *
+    *   v = 0 gegen Wasser
+
+
+*    *
+    *   **E**
+
+    *
+    *   v = 0 gegen Land
+
+
+*    *
+    *   v
+
+    *
+    *   Schiffsgeschwindigkeit
+
+
+*    *
+    *   v
+        L
+
+    *
+    *   v gegen Land
+
+
+*    *
+    *   s
+
+    *
+    *   gemessener Weg gegen Land
+
+
+*    *
+    *   T
+
+    *
+    *   gemessene Zeit
+
+
+
+
+*    *   Untersuchungs-
+
+    *
+    *   Art des Schiffes
+
+    *
+    *   Strecke: …………………………………..
+
+
+*    *   kommission: ………………..
+
+    *
+    *   oder Verbandes: ………………………………..
+
+    *
+    *   Pegel [m]: ………………………………...
+
+
+*    *   Datum: ……………………...
+
+    *
+    *   L x B [m]: …………………………………………..
+
+    *
+    *   Wassertiefe [m]:…………………………..
+
+
+*    *   Name: ………………………
+
+    *
+    *   L x B [m]: …………………………………………..
+
+    *
+    *   Gefälle [m/km]:.. …………………………
+
+
+*    *   Fahrt Nr.: …………………..
+
+    *
+    *   Beladung
+
+    *
+    *   V                     STR
+
+    *   [km/h]: ……………………..
+
+
+*    *
+    *
+    *   (beim Versuch) [t]:………………………………….
+
+    *
+    *
+    *   [m/s]: ……………………..
+
+
+*    *
+    *
+    *   % der maximalen Tragfähigkeit: …………………..
+
+    *
+    *   Maximale
+
+
+*    *
+    *
+    *   Motorische Antriebsleistung P
+        B                      [kW]: …………….
+
+    *
+    *   Verdrängung [
+        m3                     ]: ……………………….
+
+
+*    *
+    *
+    *   Antriebssystem nach Anlage 2, Tabelle 2: ………
+
+    *
+    *
+
+
+
+*    *   Ort
+        **s**
+        [Strom-km]
+
+    *   **Zeit**
+        [sek.]
+
+    *   **Δs**
+        [m]
+
+    *   **Δt**
+        [sek.]
+
+    *   v
+        IL ****
+        [km/h]
+
+    *   Drehzahl
+        **n**
+        [min-1] [min
+        –1                     ]
+
+    *   **Bemerkungen**
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
 
 *    *   Tabelle 1: Messprotokoll Stoppmanöver
-
-
-*    *   Formular (Grafik in Bearbeitung)
 
 
 
@@ -24793,8 +25218,7 @@ Stoppmanöver* ****
     Stoppweg des Stoppmanövers bei Normbedingungen (S
     NORM                   ) ergibt sich wie folgt:
 
-    Formel (Grafik in Bearbeitung)
-
+    ![bgbl1_2008_j2450_320_ab_0010.jpg](bgbl1_2008_j2450_320_ab_0010.jpg)
     Buchstabe a oder b der Dienstanweisung Nr. 2.
 
     Wurde das Stoppmanöver mit einer Beladung von 70-100 % der maximalen
@@ -24850,19 +25274,27 @@ Stoppmanöver* ****
 *    *   *Bild 2 Schaubild*
 
 
-*    *   Grafik in Bearbeitung
+*    *        ![bgbl1_2008_j2450_321_ab_0010.jpg](bgbl1_2008_j2450_321_ab_0010.jpg)
 
 
 
+*    *
 
-*    *   *Berechnungsformeln* ****
+*    *        ![bgbl1_2008_j2450_321_ab_0020.jpg](bgbl1_2008_j2450_321_ab_0020.jpg)
+
+*    *
+
+*    *   In den Formeln 4.1 bis 4.7 bedeuten:
 
 
-*    *   Grafik in Bearbeitung
+*    *
+
+*    *        ![bgbl1_2008_j2450_322_ab_0010.jpg](bgbl1_2008_j2450_322_ab_0010.jpg)
+
+*    *
 
 
-
-Die Koeffizienten für die Formeln 4.1, 4.2, 4.3, 4.4, 4.5, 4.6 und 4.7
+   Die Koeffizienten für die Formeln 4.1, 4.2, 4.3, 4.4, 4.5, 4.6 und 4.7
 können den folgenden Tabellen entnommen werden:
 
 **Tabelle 1:** **k-Faktoren für**
@@ -25023,7 +25455,12 @@ können den folgenden Tabellen entnommen werden:
 **Tabelle 3:** **Diagramm zur Ermittlung von RT/v2 in Abhängigkeit von D1/3 (B +
     2T)**
 
-    *        *   Grafik in Bearbeitung
+    *        *            ![bgbl1_2008_j2450_324_ab_0010.jpg](bgbl1_2008_j2450_324_ab_0010.jpg)            ![bgbl1_2008_j2450_324_ab_0030.jpg](bgbl1_2008_j2450_324_ab_0030.jpg)
+        *            ![bgbl1_2008_j2450_324_ab_0020.jpg](bgbl1_2008_j2450_324_ab_0020.jpg)
+
+    *        *
+
+    *        *            ![bgbl1_2008_j2450_324_ab_0040.jpg](bgbl1_2008_j2450_324_ab_0040.jpg)
 
 
 
@@ -25031,27 +25468,1397 @@ können den folgenden Tabellen entnommen werden:
 
 
 
-*Anhang zur Anlage 2* ****
-**der Dienstanweisung Nr. 2**
+*    *   *Anhang zur Anlage 2* ****
+        **der Dienstanweisung Nr. 2**
+
+
+
 
 Beispiele zur Anwendung der Anlage 2
 ## **(Bewertung der Ergebnisse des Stoppmanövers)**
 
-### **Beispiel I**
+
+*    *
+    *
+    *   **Beispiel I**
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *   **1.**
+
+    *
+    *   **Daten des Verbandes und seiner Fahrzeuge**
+
+    *
+
+*    *
+    *
+    *   Formation:
+
+    *   Gütermotorschiff mit einem seitlich gekuppelten Schubleichter
+
+    *
+
+*    *
+    *
+    *
+    *   (Europa IIa)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   L [m]
+
+    *   B [m]
+
+    *   T
+        max                      [m]
+
+    *[^bjnr245010008bjne027100000_24_BJNR245010008BJNE027100000]
+   Tgf
+        max                      [t]
+
+    *   D
+        max                      [m3]
+
+    *   P
+        B                      [kW]
+
+    *
+
+*    *
+    *
+    *   GMS
+
+    *   110,0
+
+    *   11,4
+
+    *   3,5
+
+    *   2 900
+
+    *   3 731
+
+    *   1 500
+
+    *
+
+*    *
+    *
+    *   SL
+
+    *   76,5
+
+    *   11,4
+
+    *   3,7
+
+    *   2 600
+
+    *   2 743
+
+    *   -
+
+    *
+
+*    *
+    *
+    *   Verband
+
+    *   110,0
+
+    *   22,8
+
+    *   3,7
+
+    *   5 500
+
+    *   6 474
+
+    *   1 500
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   GMS-Antriebssystem: Moderne Düsen mit abgerundeter Hinterkante
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
-*    *   Grafik in Bearbeitung
+
+*    *   **2.**
+
+    *
+    *   **Messwerte aus Stoppmanöver**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Strömungsgeschwindigkeit:
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0010.jpg](bgbl1_2008_j2450_325_ab_0010.jpg)
+    *   =
+
+    *
+    *   1,4 m/s
+
+    *   ≈ 5,1 km/h
+
+    *
+
+*    *
+    *
+    *   Schiffsgeschwindigkeit (gegen Wasser):
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0020.jpg](bgbl1_2008_j2450_325_ab_0020.jpg)
+    *   =
+
+    *
+    *   3,5 m/s
+
+    *   ≈ 12,5 km/h
+
+    *
+
+*    *
+    *
+    *   Schiffsgeschwindigkeit (gegen Land):
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0030.jpg](bgbl1_2008_j2450_325_ab_0030.jpg)
+    *   =
+
+    *
+    *   4,9 m/s
+
+    *   ≈ 17,6 km/h
+
+    *
+
+*    *
+    *
+    *   Umsteuerzeit (gemessen) (Punkt A bis C):
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0040.jpg](bgbl1_2008_j2450_325_ab_0040.jpg)
+    *   =
+
+    *
+    *   16 s
+
+    *
+    *
+
+*    *
+    *
+    *   Stoppweg gegen Wasser (Punkt A bis D):
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0050.jpg](bgbl1_2008_j2450_325_ab_0050.jpg)
+    *   =
+
+    *
+    *   340 m
+
+    *
+    *
+
+*    *
+    *
+    *   aus Beladungszustand (ggf. Abschätzung):
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0060.jpg](bgbl1_2008_j2450_325_ab_0060.jpg)
+    *   =
+
+    *
+    *   5 179 m
+        3
+
+    *   ≈ 0,8 D
+        max
+
+    *
+
+*    *
+    *
+    *   vorhandener Tiefgang des Verbands:
+
+    *
+    *        ![bgbl1_2008_j2450_325_ab_0070.jpg](bgbl1_2008_j2450_325_ab_0070.jpg)
+    *   =
+
+    *
+    *   2,96 m
+
+    *   ≈ 0,8 T
+        max
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
 
-### **Beispiel II**
+*    *   **3.**
+
+    *
+    *   Grenzwert nach Nummer 2.1 Buchstabe a oder b zum Vergleich mit S
+        NORM ****
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Da B > 11,45 m und da sich der Verband in strömendem Gewässer
+        befindet, gilt für ihn gemäß Nummer 2.1 Buchstabe a:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   S                     NORM ≤ 550 m
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
-*    *   Grafik in Bearbeitung
+
+*    *   **4.**
+
+    *
+    *   **Ermittlung des korrigierten Stoppweges bei Normbedingungen**
+
+    *
+
+*    *
+    *
+    *   -
+
+    *   **aus Messung**                      gemäß Anhang 1 (siehe Nummer 2):
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *   S
+        MESSUNG                      = 340 m
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   -
+
+    *   **zu berechnen:**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_326_ab_0010.jpg](bgbl1_2008_j2450_326_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
 
-Dienstanweisung Nr. 3
+*    *   4.1
+
+    *
+    *   Koeffizienten für die Berechnung aus Anlage 2
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_326_ab_0020.jpg](bgbl1_2008_j2450_326_ab_0020.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.2
+
+    *
+    *   Berechnung von
+        S
+        IST
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_327_ab_0010.jpg](bgbl1_2008_j2450_327_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_328_ab_0010.jpg](bgbl1_2008_j2450_328_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.3
+
+    *
+    *   Berechnung von
+        S
+        SOLL
+
+    *
+
+*    *
+    *
+    *   Ausgangswerte:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_328_ab_0020.jpg](bgbl1_2008_j2450_328_ab_0020.jpg)
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_329_ab_0010.jpg](bgbl1_2008_j2450_329_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.4
+
+    *
+    *   Prüfung auf Einhaltung des zulässigen Stoppweges bei Normbedingungen S
+        NORM                      nach Formel 2.1 der Anlage 2
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_329_ab_0020.jpg](bgbl1_2008_j2450_329_ab_0020.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Beurteilung:
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Zulässiger Grenzwert wird deutlich unterschritten, d. h.
+
+    *
+    *
+
+*    *
+    *
+    *   -
+
+    *   Zulassung für Talfahrt ist im vorgeführten Beladungszustand (0,8 ·
+        D
+        max                     ) ohne Weiteres möglich,
+
+    *
+    *
+
+*    *
+    *
+    *   -
+
+    *   größere Zuladung möglich, die nach Nummer 5 ermittelt werden kann.
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **5.**
+
+    *
+    *   Mögliche Vergrößerung von D
+        IST **in der Talfahrt**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_329_ab_0030.jpg](bgbl1_2008_j2450_329_ab_0030.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Folgerung:**
+
+    *
+
+*    *
+    *
+    *   Da (
+        D
+        SOLL                     )
+        Grenze                      >
+        D
+        max                      (8 756 > 6 474) des Verbandes kann diese
+        Formation (sie-he 1) *für die volle Abladung in der Talfahrt
+        zugelassen*                      werden.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *
+    *   **Beispiel II**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **1.**
+
+    *
+    *   **Daten des Verbandes und seiner Fahrzeuge**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Formation:
+
+    *   Großmotorschiff schiebend mit
+
+    *
+
+*    *
+    *
+    *
+    *   2 Leichtern voraus und
+
+    *
+
+*    *
+    *
+    *
+    *   1 Leichter seitlich gekuppelt.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   L [m]
+
+    *   B [m]
+
+    *   T
+        max                      [m]
+
+    *   Tgf
+        max                      [t]
+
+    *   D
+        max                      [m3]
+
+    *   P
+        B                      [kW]
+
+    *
+
+*    *
+    *
+    *   GMS
+
+    *   110,0
+
+    *   11,4
+
+    *   3,5
+
+    *   2 900
+
+    *   3 731
+
+    *   1 500
+
+    *
+
+*    *
+    *
+    *   SL
+
+    *   76,5
+
+    *   11,4
+
+    *   3,7
+
+    *   2 600
+
+    *   2 743
+
+    *   -
+
+    *
+
+*    *
+    *
+    *   Verband
+
+    *   186,5
+
+    *   22,8
+
+    *   3,7
+
+    *   10 700
+
+    *   11 960
+
+    *   1 500
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   GMS-Antriebssystem: Moderne Düsen mit abgerundeter Hinterkante
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **2.**
+
+    *
+    *   **Messwerte aus Stoppmanöver**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_331_ab_0010.jpg](bgbl1_2008_j2450_331_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **3.**
+
+    *
+    *   Grenzwert gemäß Nummer 2.1 Buchstabe a oder b der Dienstanweisung zum
+        Vergleich mit S
+        NORM ****
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Da B > 11,45 m und da sich der Verband in strömendem Gewässer
+        befindet, gilt für ihn gemäß Nummer 2.1 Buchstabe a der
+        Dienstanweisung Nr. 2:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   S                       NORM                      ≤ 550 m
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **4.**
+
+    *
+    *   **Ermittlung des korrigierten Stoppweges bei Normbedingungen**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0010.jpg](bgbl1_2008_j2450_332_ab_0010.jpg)
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0020.jpg](bgbl1_2008_j2450_332_ab_0020.jpg)
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0030.jpg](bgbl1_2008_j2450_332_ab_0030.jpg)
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0040.jpg](bgbl1_2008_j2450_332_ab_0040.jpg)
+    *        ![bgbl1_2008_j2450_332_ab_0050.jpg](bgbl1_2008_j2450_332_ab_0050.jpg)
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0060.jpg](bgbl1_2008_j2450_332_ab_0060.jpg)
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0070.jpg](bgbl1_2008_j2450_332_ab_0070.jpg)
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.1
+
+    *
+    *   Koeffizienten für die Berechnung gemäß Anlage 2
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_332_ab_0080.jpg](bgbl1_2008_j2450_332_ab_0080.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.2
+
+    *
+    *        ![bgbl1_2008_j2450_333_ab_0010.jpg](bgbl1_2008_j2450_333_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_334_ab_0010.jpg](bgbl1_2008_j2450_334_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.3
+
+    *
+    *   Berechnung von
+        S
+        SOLL
+
+    *
+
+*    *
+    *
+    *   Ausgangswerte:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_334_ab_0020.jpg](bgbl1_2008_j2450_334_ab_0020.jpg)
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_335_ab_0010.jpg](bgbl1_2008_j2450_335_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   4.4
+
+    *
+    *   Prüfung auf Einhaltung des zulässigen Stoppweges bei Normbedingungen
+        S
+        NORM
+
+    *
+
+*    *
+    *
+    *   nach Formel 2.1 der Anlage 2
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_335_ab_0020.jpg](bgbl1_2008_j2450_335_ab_0020.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   *Beurteilung*                     : Zulässiger Grenzwert wird deutlich
+        überschritten, daher Zulassung für die Talfahrt nur mit verminderter
+        Zuladung möglich, die gemäß Nummer 5 ermittelt werden kann.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **5.**
+
+    *
+    *   **Zulässige D\* in der Talfahrt nach Formel 2.1 der Anlage 2**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_335_ab_0030.jpg](bgbl1_2008_j2450_335_ab_0030.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Daraus folgt:
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_335_ab_0040.jpg](bgbl1_2008_j2450_335_ab_0040.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Folgerung**                     :
+
+    *
+
+*    *
+    *
+    *   Da die in der Talfahrt zulässige Verdrängung D\* nur 7 950 m
+        3                      beträgt, ist näherungsweise
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *        ![bgbl1_2008_j2450_336_ab_0010.jpg](bgbl1_2008_j2450_336_ab_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Zulässige Tragfähigkeit ist in dieser Formation (siehe 1)
+
+    *
+
+*    *
+    *
+    *   0,66 •10 700 = 7 112 t
+
+    *
+
+
+   Dienstanweisung Nr. 3
 ## *Anforderungen an Kupplungssysteme und Kuppeleinrichtungen von
 Fahrzeugen, die einen starren Verband fortbewegen oder in einem
 starren Verband fortbewegt werden sollen* ****
@@ -25097,8 +26904,7 @@ relevanten Bestimmungen nach der Rheinschiffspolizeiverordnung (§§
 2.1 Kuppelstelle zwischen Schubboot und Schubleichtern oder anderen
     Fahrzeugen:
 
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_337_ab_0010.jpg](bgbl1_2008_j2450_337_ab_0010.jpg)
 
 
 
@@ -25106,19 +26912,17 @@ relevanten Bestimmungen nach der Rheinschiffspolizeiverordnung (§§
 2.2 Kuppelstelle zwischen schiebendem Motorschiff und geschobenen
     Fahrzeugen:
 
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_337_ab_0020.jpg](bgbl1_2008_j2450_337_ab_0020.jpg)
 
 
 
 
 2.3 Kuppelstellen zwischen geschobenen Fahrzeugen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_338_ab_0010.jpg](bgbl1_2008_j2450_338_ab_0010.jpg)
 
 
-
-    Als größte Kupplungskraft ist vor einem schiebenden Fahrzeug an der
+   Als größte Kupplungskraft ist vor einem schiebenden Fahrzeug an der
     Kuppelstelle zwischen den ersten geschobenen Fahrzeugen und den
     davorgekuppelten Fahrzeugen 1200 kN als ausreichend anzusehen, auch
     wenn sich nach der Formel in 2.3 ein größerer Wert ergibt.
@@ -25127,14 +26931,14 @@ relevanten Bestimmungen nach der Rheinschiffspolizeiverordnung (§§
     Kupplungskraft für die Bemessung der Kupplungseinrichtungen
     zugrundezulegen.
 
-    *        *   (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_339_ab_0010.jpg](bgbl1_2008_j2450_339_ab_0010.jpg)
 
 
+   In diesen Formeln bedeuten:
 
-    In diesen Formeln bedeuten:
+    *        *            ![bgbl1_2008_j2450_339_ab_0020.jpg](bgbl1_2008_j2450_339_ab_0020.jpg)
 
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_340_ab_0010.jpg](bgbl1_2008_j2450_340_ab_0010.jpg)
 
 
 
@@ -25231,17 +27035,987 @@ Dienstanweisung Nr. 5
 
 
 
-Anlage
-**zur Dienstanweisung Nr. 5**
+
+*    *   Anlage
+        **zur Dienstanweisung Nr. 5**
+
+
 
 ## *Protokoll Geräuschmessungen* ****
 
 
-*    *   Formular (Grafik in Bearbeitung)
+*    *
+    *
+    *   - auf Wasserfahrzeugen nach ISO 2923:2003
 
 
+*    *
+    *
+    *   - des von Wasserfahrzeugen abgestrahlten Luftschalls nach EN ISO
+        2922:2000
 
-## *Dienstanweisung Nr. 6* ****
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **A**
+
+    *
+    *   **Fahrzeugdaten**
+
+
+*    *   1.
+
+    *
+    *   Fahrzeugart und -name: …………………………………………………………..
+
+
+*    *
+    *
+    *   Einheitliche europäische Schiffsnummer: ……………………………………….
+
+
+*    *   2.
+
+    *
+    *   Eigentümer: ……………………………………………………………………....
+
+
+*    *   3.
+
+    *
+    *   Hauptantrieb
+
+
+*    *   3.1
+
+    *
+    *   Hauptmaschine(n)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   Nr.
+
+    *   Hersteller
+
+    *   Typ
+
+    *   Baujahr
+
+    *   Leistung
+        (kW)
+
+    *   Drehzahl
+        (min
+        -1                     )
+
+    *   Zweitakt/-
+        Viertakt
+
+    *   Aufladung
+        ja/nein
+
+    *
+
+*    *
+    *
+    *
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   3.2
+
+    *
+    *   Getriebe:
+
+    *
+
+*    *
+    *
+    *   Hersteller: ………………………... Typ: ………………Untersetzung: 1 : …………
+
+
+*    *   3.3
+
+    *
+    *   Propeller
+
+
+*    *
+    *
+    *   Anzahl: ………….. Flügelzahl: ……… Durchmesser: ….. mm Düse: ja/nein
+
+
+*    *   3.4
+
+    *
+    *   Ruderanlage
+
+
+*    *
+    *
+    *   Art: …………………………………………………………………………………..
+
+
+*    *   4.
+
+    *
+    *   Hilfsaggregate:
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Nr.
+
+    *   zum Antrieb von
+
+    *   Hersteller
+
+    *   Typ
+
+    *   Baujahr
+
+    *   Leistung (kW)
+
+    *   Drehzahl (min
+        -1                     )
+
+    *
+    *
+
+*    *
+    *
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   5.
+
+    *
+    *   Durchgeführte Schallschutzmaßnahmen: …………………………………………….
+
+
+*    *
+    *
+    *   ………………………………………………………………………………………...
+
+
+*    *   6.
+
+    *
+    *   Bemerkungen: ………………………………………………………………………...
+
+
+*    *
+    *
+    *   ………………………………………………………………………………………...
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **B**
+
+    *
+    *   **Verwendete Messgeräte**
+
+
+*    *   1.
+
+    *
+    *   Schallpegelmesser
+
+
+*    *
+    *
+    *   Hersteller: ………………. Typ: ………………. Letzte Prüfung: ……………..
+
+
+*    *   2.
+
+    *
+    *   Oktav-/Terzband-Analysator
+
+
+*    *
+    *
+    *   Hersteller: ………………. Typ: ………………. Letzte Prüfung: ……………..
+
+
+*    *   3.
+
+    *
+    *   Kalibrator
+
+
+*    *
+    *
+    *   Hersteller: ………………. Typ: ………………. Letzte Prüfung: ……………..
+
+
+*    *   4.
+
+    *
+    *   Zubehör:
+
+
+*    *
+    *
+    *   …………………………………………………………………………….…………
+
+
+*    *   5.
+
+    *
+    *   Bemerkungen: ……………………………………………………………….………
+
+
+*    *
+    *
+    *   ……………………………………………………………………………………….
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **C**
+
+    *
+    *   **Messzustand – Fahrzeug**
+
+
+*    *   1.
+
+    *
+    *   Formation während der Messung: ………………………………………………….
+
+
+*    *   2.
+
+    *
+    *   Beladung/Verdrängung: ……...… t/m³ (\*) (entspricht ca. …..% des
+        Maximalwertes)
+
+
+*    *   3.
+
+    *
+    *   Drehzahl Hauptmaschine: ……..… min-1 (entspricht ca. …..% des
+        Maximalwertes)
+
+
+*    *   4.
+
+    *
+    *   Mitlaufende Aggregate Nr.: ……………………………
+
+
+*    *   5.
+
+    *
+    *   Bemerkungen: ……………………………………………………………………….
+
+
+*    *
+    *
+    *   ……………………………………………………………………………………….
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **D**
+
+    *
+    *   **Messbedingungen – Umgebung**
+
+
+*    *   1.
+
+    *
+    *   Messstrecke …………………………………………………… zu Berg/zu Tal
+
+
+*    *   2.
+
+    *
+    *   Wassertiefe: …………. m (Pegel ……………. = ………….. m)
+
+
+*    *   3.
+
+    *
+    *   Wetter: ……………………… Temperatur: ……….. ° C Windstärke: …….. BF
+
+
+*    *   4.
+
+    *
+    *   Fremdgeräusche: nein/ja (\*), welche ……………………………………………….
+
+
+*    *   5.
+
+    *
+    *   Bemerkungen: …………………………………………………………………….
+
+
+*    *
+    *
+    *   ……………………………………………………………………………………….
+
+
+*    *
+    *
+    *   ……………………………………………………………………………………….
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **E**
+
+    *
+    *   **Messdurchführung**
+
+
+*    *   1.
+
+    *
+    *   Messung durch: ……………………………………………………………………
+
+
+*    *   2.
+
+    *
+    *   am: …………………………………………………………………………………
+
+
+*    *   3.
+
+    *
+    *   Bemerkungen: ……………………………………………………………………..
+
+
+*    *
+    *
+    *   ……………………………………………………………………………………..
+
+
+*    *   4.
+
+    *
+    *   Unterschrift: ………………………………………………………………………
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **F.1**
+
+    *
+    *   **Messergebnisse**
+
+
+*    *
+    *
+    *   Geräuschmessung auf Wasserfahrzeugen
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Nr.
+
+    *   Messpunkt
+
+    *   Türen
+
+    *   Fenster
+
+    *   Messwert
+        dB(A)
+
+    *   Bemerkungen
+
+    *
+
+*    *
+    *
+    *   geöffnet
+
+    *   geschl.
+
+    *   geöffnet
+
+    *   geschl.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **F.2**
+
+    *
+    *   **Messergebnisse**
+
+    *
+
+*    *
+    *
+    *   Geräuschmessung des von Wasserfahrzeugen abgestrahlten Luftschalls
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Nr.
+
+    *   Messpunkt
+
+    *   Messwert dB
+        (A)
+
+    *   Bemerkungen
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   ## *Dienstanweisung Nr. 6* ****
 
 ### (ohne Inhalt)
 
@@ -25449,11 +28223,10 @@ ermittelten Ankermassen)**
     nachstehenden Angaben entspricht und dessen Ankermasse mindestens 400
     kg beträgt.
 
-    *        *   (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_349_ab_0010.jpg](bgbl1_2008_j2450_349_ab_0010.jpg)
 
 
-
-    Die angegebenen Abmessungen und die Masse gelten mit einer Toleranz
+   Die angegebenen Abmessungen und die Masse gelten mit einer Toleranz
     von ± 5 %, jedoch muss die Fläche jedes Flunks mindestens 0,15 m
     2                    betragen.
 
@@ -25484,11 +28257,10 @@ ermittelten Ankermassen)**
 2.6 Der Prozentsatz der Verminderung der Masse des Ankers wird durch
     folgende Formel errechnet:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_349_ab_0020.jpg](bgbl1_2008_j2450_349_ab_0020.jpg)
 
 
-
-    Dabei ist
+   Dabei ist
 
     *        *   r
 
@@ -25537,12 +28309,7 @@ ermittelten Ankermassen)**
 
 
 
-    *        *   **Darstellung des Musters eines Bremskraftdiagrammes**
-            **(Ermittlung der Flächen AA und AB)**
-
-
-    *        *   (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_350_ab_0010.jpg](bgbl1_2008_j2450_350_ab_0010.jpg)
 
 
 
@@ -25561,20 +28328,25 @@ ermittelten Ankermassen)**
 
 
 
-Anlage
-zu den Bestimmungen für die
-**Prüfung und Zulassung von Spezialankern**
+
+*    *   Anlage
+        zu den Bestimmungen für die
+        **Prüfung und Zulassung von Spezialankern**
+
+
+
 
 *    *   **Beispiel für eine Ankerprüf-Methode mit einem einspurig-
         zweigliedrigen Schubvermand**
 
 
-*    *   (Grafik in Bearbeitung)
+*    *
+
+*    *        ![bgbl1_2008_j2450_351_ab_0010.jpg](bgbl1_2008_j2450_351_ab_0010.jpg)
 
 
 
-
-Dienstanweisung Nr. 8
+   Dienstanweisung Nr. 8
 ## *Festigkeit von wasserdichten Schiffsfenstern* ****
 
 ### **(§ 15.02 Nr. 16 des Anhangs II)**
@@ -25704,11 +28476,824 @@ Dienstanweisung Nr. 10
 *    *   **Bescheinigung für Flüssiggasanlagen**
 
 
-*    *   Formular (Grafik in Bearbeitung)
+
+
+*    *   1.
+
+    *   Name des Fahrzeugs
+
+    *   2.
+
+    *   Einheitliche europäische
+        Schiffsnummer
+
+    *   3.
+
+    *   Ort und Nummer der
+        Registrierung
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   4.
+
+    *   Name und Adresse des Eigners
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die auf dem Fahrzeug vorhandene(n) Flüssiggasanlage(n) ist/sind
+        von dem Sachverständigen
+        .................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        .........................................
+
+    *
+
+*    *
+    *   geprüft worden und entspricht/entsprechen
+        nach seinem Abnahmebericht vom
+        .............................................
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   den vorgeschriebenen Bedingungen.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die Anlage(n) umfaßt/umfassen
+        die folgenden Verbrauchsgeräte:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anlage
+
+    *   Lfd. Nr.
+
+    *   Art
+
+    *   Marke
+
+    *   Typ
+
+    *   Standort
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Diese Bescheinigung gilt bis zum .....................................
+        ......................................................................
+        ................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ......................................................................
+        ........., den .......................................
+
+    *
+
+*    *
+    *   (Ort)
+
+    *
+    *   (Datum)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   ......................................................................
+        ...................
+
+    *
+
+*    *
+    *
+    *   Untersuchungskommission
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ......................................
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Sachverständiger
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Siegel
+
+    *   ......................................................................
+        .................
+
+    *
+
+*    *
+    *
+    *
+    *   (Unterschrift)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
 
 
 
-Dienstanweisung Nr. 11
+*    *
+    *   **Verlängerung der Bescheinigung für Flüssiggasanlage(n)**
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *   Die Gültigkeit der Bescheinigung für Flüssiggasanlage(n)
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   vom ........................................................... gültig
+        bis zum ..............................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   wird
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   - aufgrund der Nachprüfung durch den Sachverständigen
+        ...........................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   - laut Abnahmebericht
+        ............................................................. vom
+        ................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   verlängert bis zum ...................................................
+        ......................................................................
+        ..
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ......................................................................
+        .........................., den .........................
+
+    *
+
+*    *
+    *   (Ort)
+
+    *   (Datum)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   ......................................................................
+        ..........................
+
+    *
+
+*    *
+    *   Siegel
+
+    *
+    *   Untersuchungskommission
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   ......................................................................
+        ............................
+
+    *
+
+*    *
+    *
+    *
+    *   (Unterschrift)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Verlängerung der Bescheinigung für Flüssiggasanlage(n)**
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *   Die Gültigkeit der Bescheinigung für Flüssiggasanlage(n)
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   vom ........................................................... gültig
+        bis zum ..............................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   wird
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   - aufgrund der Nachprüfung durch den Sachverständigen
+        ...........................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   - laut Abnahmebericht
+        ............................................................. vom
+        ................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   verlängert bis zum ...................................................
+        ......................................................................
+        ..
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ......................................................................
+        .........................., den .........................
+
+    *
+
+*    *
+    *   (Ort)
+
+    *   (Datum)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   ......................................................................
+        ..........................
+
+    *
+
+*    *
+    *   Siegel
+
+    *
+    *   Untersuchungskommission
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   ......................................................................
+        ............................
+
+    *
+
+*    *
+    *
+    *
+    *   (Unterschrift)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Verlängerung der Bescheinigung für Flüssiggasanlage(n)**
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *   Die Gültigkeit der Bescheinigung für Flüssiggasanlage(n)
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   vom ........................................................... gültig
+        bis zum ..............................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   wird
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   - aufgrund der Nachprüfung durch den Sachverständigen
+        ...........................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   - laut Abnahmebericht
+        ............................................................. vom
+        ................................................
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   verlängert bis zum ...................................................
+        ......................................................................
+        ..
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ......................................................................
+        .........................., den .........................
+
+    *
+
+*    *
+    *   (Ort)
+
+    *   (Datum)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   ......................................................................
+        ..........................
+
+    *
+
+*    *
+    *   Siegel
+
+    *
+    *   Untersuchungskommission
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   ......................................................................
+        ............................
+
+    *
+
+*    *
+    *
+    *
+    *   (Unterschrift)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   Dienstanweisung Nr. 11
 ## *Ausstellung des Schiffsattests* ****
 
 
@@ -27218,14 +30803,12 @@ Bezugskraftstoff für Binnenschiffe
     messen, und die Kennzahl fa ist nach folgender Formel zu berechnen:
     Bei Saugmotoren und mechanisch aufgeladenen Motoren:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_375_ab_0010.jpg](bgbl1_2008_j2450_375_ab_0010.jpg)
 
 
+   Bei turboaufgeladenen Motoren mit oder ohne Ladeluftkühlung:
 
-    Bei turboaufgeladenen Motoren mit oder ohne Ladeluftkühlung:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_375_ab_0020.jpg](bgbl1_2008_j2450_375_ab_0020.jpg)
 
 
 
@@ -27329,25 +30912,17 @@ Bezugskraftstoff für Binnenschiffe
     Die Motoreinstellung für jede Prüfstufe ist nach folgender Formel zu
     berechnen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_377_ab_0010.jpg](bgbl1_2008_j2450_377_ab_0010.jpg)
 
 
+   Bei einem Verhältnis von
 
-    Bei einem Verhältnis von
+    *        *            ![bgbl1_2008_j2450_377_ab_0020.jpg](bgbl1_2008_j2450_377_ab_0020.jpg)
 
     *        *
-        *   P
-            AE
-
-        *   ≥ 0,03
 
 
-    *        *   P
-            M
-
-
-
-    kann der Wert von PAE durch die zuständige Behörde überprüft werden,
+   kann der Wert von PAE durch die zuständige Behörde überprüft werden,
     die die Typgenehmigung erteilt.
 
 
@@ -28704,8 +32279,9 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
             2 **-Konverters**
 
 
-    *        *   Grafik in Bearbeitung
+    *        *
 
+    *        *            ![bgbl1_2008_j2450_395_ab_0010.jpg](bgbl1_2008_j2450_395_ab_0010.jpg)
 
 
 
@@ -28728,8 +32304,9 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
     *        *
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_395_ab_0020.jpg](bgbl1_2008_j2450_395_ab_0020.jpg)
 
+    *        *
 
     *        *   a = NO
             x                             -Konzentration nach Abschnitt 1.7.6
@@ -28954,11 +32531,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     den (H)CLD zu leiten, und der NO-Wert ist als D aufzuzeichnen.
     Die Querempfindlichkeit wird wie folgt berechnet:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_399_ab_0010.jpg](bgbl1_2008_j2450_399_ab_0010.jpg)
 
 
-
-    und darf nicht größer als 3 % des vollen Skalenendwertes sein.
+   und darf nicht größer als 3 % des vollen Skalenendwertes sein.
 
     *        *   A die mit dem NDIR gemessene Konzentration des unverdünnten CO
             2                              in %
@@ -28994,18 +32570,16 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     zu bestimmen und als G aufzuzeichnen. Die Wasserdampfkonzentration H
     (in %) des Gemischs ist wie folgt zu berechnen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_399_ab_0020.jpg](bgbl1_2008_j2450_399_ab_0020.jpg)
 
 
-
-    und als H aufzuzeichnen. Die erwartete Konzentration des verdünnten
+   und als H aufzuzeichnen. Die erwartete Konzentration des verdünnten
     NO-Kalibriergases (in Wasserdampf) ist wie folgt zu berechnen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_399_ab_0030.jpg](bgbl1_2008_j2450_399_ab_0030.jpg)
 
 
-
-    und als De aufzuzeichnen. Die maximale bei der Prüfung erwartete
+   und als De aufzuzeichnen. Die maximale bei der Prüfung erwartete
     Wasserdampfkonzentration im Abgas (in %) anhand der Konzentration des
     unverdünnten CO
     2                   -Kalibriergases (A, wie nach Abschnitt 1.9.2.1
@@ -29019,11 +32593,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     und als Hm aufzuzeichnen.
     Die Wasserdampf-Querempfindlichkeit ist wie folgt zu berechnen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_400_ab_0010.jpg](bgbl1_2008_j2450_400_ab_0010.jpg)
 
 
-
-    und darf nicht mehr als 3 % des Realwertes betragen.
+   und darf nicht mehr als 3 % des Realwertes betragen.
 
     *        *   De erwartete Konzentration des verdünnten NO (ppm)
 
@@ -29231,68 +32804,57 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
     Für das Rohabgas:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_403_ab_0010.jpg](bgbl1_2008_j2450_403_ab_0010.jpg)
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_403_ab_0020.jpg](bgbl1_2008_j2450_403_ab_0020.jpg)
 
 
-    Für das verdünnte Abgas:
+   Für das verdünnte Abgas:
 
-    *        *   Formel (Grafik in Bearbeitung)
-
-
-
-    oder
-
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_403_ab_0030.jpg](bgbl1_2008_j2450_403_ab_0030.jpg)
 
 
+   oder
 
-    F
+    *        *            ![bgbl1_2008_j2450_403_ab_0040.jpg](bgbl1_2008_j2450_403_ab_0040.jpg)
+
+
+   F
     FH                    kann so berechnet werden:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_403_ab_0050.jpg](bgbl1_2008_j2450_403_ab_0050.jpg)
+
+
+   Für die Verdünnungsluft:
+
+    *        *            ![bgbl1_2008_j2450_404_ab_0010.jpg](bgbl1_2008_j2450_404_ab_0010.jpg)
 
 
 
-    Für die Verdünnungsluft:
-
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_404_ab_0020.jpg](bgbl1_2008_j2450_404_ab_0020.jpg)
 
 
 
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_404_ab_0030.jpg](bgbl1_2008_j2450_404_ab_0030.jpg)
 
 
+   Für die Ansaugluft (wenn anders als die Verdünnungsluft):
 
-    *        *   Formel (Grafik in Bearbeitung)
-
-
-
-    Für die Ansaugluft (wenn anders als die Verdünnungsluft):
-
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_404_ab_0040.jpg](bgbl1_2008_j2450_404_ab_0040.jpg)
 
 
 
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_404_ab_0050.jpg](bgbl1_2008_j2450_404_ab_0050.jpg)
 
 
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_404_ab_0060.jpg](bgbl1_2008_j2450_404_ab_0060.jpg)
 
 
-
-    Hierbei bedeuten:
+   Hierbei bedeuten:
 
     *        *   H
             a
@@ -29353,11 +32915,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     folgenden Formel angegebenen Faktors K
     H                    zu korrigieren:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_404_ab_0070.jpg](bgbl1_2008_j2450_404_ab_0070.jpg)
 
 
-
-    Hierbei bedeuten:
+   Hierbei bedeuten:
 
     *        *   A
 
@@ -29378,9 +32939,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
         *   Lufttemperatur in K
 
 
-    *        *
-        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_405_ab_0010.jpg](bgbl1_2008_j2450_405_ab_0010.jpg)
 
     *        *   H
             a
@@ -29388,9 +32947,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
         *   Feuchtigkeit der Ansaugluft, g Wasser je kg trockener Luft:
 
 
-    *        *
-        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_405_ab_0020.jpg](bgbl1_2008_j2450_405_ab_0020.jpg)
 
     *        *   R
             a
@@ -29418,11 +32975,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     alternativ angewendet werden:
 
     *        *
-        *   Formel (Grafik in Bearbeitung)
+        *            ![bgbl1_2008_j2450_405_ab_0030.jpg](bgbl1_2008_j2450_405_ab_0030.jpg)
 
 
-
-    Hierbei bedeuten:
+   Hierbei bedeuten:
 
     *        *   T
             SC
@@ -29595,11 +33151,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     Die spezifische Emission (g/kWh) ist für alle einzelnen Bestandteile
     folgendermaßen zu berechnen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_406_ab_0010.jpg](bgbl1_2008_j2450_406_ab_0010.jpg)
 
 
-
-    Hierbei ist P
+   Hierbei ist P
     i                    = P
     m,i                    + P
     AE,i
@@ -29632,8 +33187,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
 
     *        *
-        *   Formel (Grafik in Bearbeitung)
-
+        *            ![bgbl1_2008_j2450_407_ab_0010.jpg](bgbl1_2008_j2450_407_ab_0010.jpg)
 
     *        *   R
             a
@@ -29687,24 +33241,21 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
             i
 
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_407_ab_0020.jpg](bgbl1_2008_j2450_407_ab_0020.jpg)
 
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_407_ab_0030.jpg](bgbl1_2008_j2450_407_ab_0030.jpg)
 
 
-    wobei r dem Verhältnis der Querschnittsflächen der isokinetischen
+   wobei r dem Verhältnis der Querschnittsflächen der isokinetischen
     Sonde A
     P                    und des Auspuffrohrs A
     T                    entspricht:
 
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_408_ab_0010.jpg](bgbl1_2008_j2450_408_ab_0010.jpg)
 
 
 
@@ -29729,11 +33280,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
             i
 
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_408_ab_0020.jpg](bgbl1_2008_j2450_408_ab_0020.jpg)
 
 
-
-    Hierbei ist:
+   Hierbei ist:
 
     *        *   conc
             E
@@ -29761,11 +33311,10 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 4.2.3 Systeme mit CO
     2                   -Messung und Kohlenstoffbilanzmethode
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_408_ab_0030.jpg](bgbl1_2008_j2450_408_ab_0030.jpg)
 
 
-
-    Hierbei ist:
+   Hierbei ist:
 
     *        *   CO
             2D
@@ -29800,8 +33349,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
     und
 
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_408_ab_0040.jpg](bgbl1_2008_j2450_408_ab_0040.jpg)
 
 
 
@@ -29818,8 +33366,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
     und
 
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_409_ab_0010.jpg](bgbl1_2008_j2450_409_ab_0010.jpg)
 
 
 
@@ -29851,18 +33398,16 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     Der Partikelmassendurchsatz ist wie folgt zu berechnen:
     Bei der Einfachfiltermethode:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_409_ab_0020.jpg](bgbl1_2008_j2450_409_ab_0020.jpg)
 
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_409_ab_0030.jpg](bgbl1_2008_j2450_409_ab_0030.jpg)
 
 
-    Hierbei gilt:
+   Hierbei gilt:
     (G
     EDFW                   )
     aver                   , (V
@@ -29873,56 +33418,48 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     Addition der in den einzelnen Prüfstufen während der Probenahmedauer
     ermittelten Durch-schnittswerte zu bestimmen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_409_ab_0040.jpg](bgbl1_2008_j2450_409_ab_0040.jpg)
 
 
 
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_409_ab_0050.jpg](bgbl1_2008_j2450_409_ab_0050.jpg)
 
 
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_410_ab_0010.jpg](bgbl1_2008_j2450_410_ab_0010.jpg)
 
 
 
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_410_ab_0020.jpg](bgbl1_2008_j2450_410_ab_0020.jpg)
 
 
-    wobei i = 1, . . . n
+   wobei i = 1, . . . n
     Bei der Mehrfachfiltermethode:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_410_ab_0030.jpg](bgbl1_2008_j2450_410_ab_0030.jpg)
 
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_410_ab_0040.jpg](bgbl1_2008_j2450_410_ab_0040.jpg)
 
 
-    wobei i = 1, . . . n
+   wobei i = 1, . . . n
     Die Hintergrundkorrektur des Partikelmassendurchsatzes kann wie folgt
     vorgenommen werden:
     Bei der Einfachfiltermethode:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_410_ab_0050.jpg](bgbl1_2008_j2450_410_ab_0050.jpg)
 
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_410_ab_0060.jpg](bgbl1_2008_j2450_410_ab_0060.jpg)
 
 
-    Wird mehr als eine Messung durchgeführt, so sind (M
+   Wird mehr als eine Messung durchgeführt, so sind (M
     d                   /M
     DIL                   ) oder (M
     d                   /V
@@ -29934,12 +33471,11 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     DIL                   )
     aver                    zu ersetzen.
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_410_ab_0070.jpg](bgbl1_2008_j2450_410_ab_0070.jpg)
 
 
 
-
-    oder:
+   oder:
 
     *        *   DF = 13,4/conc
             CO2
@@ -29948,18 +33484,16 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
     Bei der Mehrfachfiltermethode:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_410_ab_0080.jpg](bgbl1_2008_j2450_410_ab_0080.jpg)
 
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_411_ab_0010.jpg](bgbl1_2008_j2450_411_ab_0010.jpg)
 
 
-    Wird mehr als eine Messung durchgeführt, so sind (M
+   Wird mehr als eine Messung durchgeführt, so sind (M
     d                   /M
     DIL                   ) oder (M
     d                   /V
@@ -29971,12 +33505,11 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     DIL                   )
     aver                    zu ersetzen.
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_411_ab_0020.jpg](bgbl1_2008_j2450_411_ab_0020.jpg)
 
 
 
-
-    oder:
+   oder:
 
     *        *   DF = 13,4/conc
             CO2
@@ -29992,17 +33525,15 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     :
     Bei der Einfachfiltermethode:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_411_ab_0030.jpg](bgbl1_2008_j2450_411_ab_0030.jpg)
 
 
+   Bei der Mehrfachfiltermethode:
 
-    Bei der Mehrfachfiltermethode:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_411_ab_0040.jpg](bgbl1_2008_j2450_411_ab_0040.jpg)
 
 
-    P
+   P
     i                   = P
     m,i                    + P
     AE,i
@@ -30012,18 +33543,16 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     Bei der Einfachfiltermethode ist der effektive Wichtungsfaktor WF
     E,i                    für jede Prüfstufe folgendermaßen zu berechnen:
 
-    *        *   Formel (Grafik in Bearbeitung)
+    *        *            ![bgbl1_2008_j2450_411_ab_0050.jpg](bgbl1_2008_j2450_411_ab_0050.jpg)
 
 
 
+   oder:
 
-    oder:
-
-    *        *   Formel (Grafik in Bearbeitung)
-
+    *        *            ![bgbl1_2008_j2450_411_ab_0060.jpg](bgbl1_2008_j2450_411_ab_0060.jpg)
 
 
-    wobei i = 1, . . . n
+   wobei i = 1, . . . n
     Der Wert der effektiven Wichtungsfaktoren darf von den Werten der in
     Teil II Abschnitt 3.6 aufgeführten Wichtungsfaktoren um höchstens ±
     0,005 (absoluter Wert) abweichen.
@@ -30323,8 +33852,9 @@ Partikelemissionen
         x **und HC**
 
 
-*    *   (Grafik in Bearbeitung)
+*    *
 
+*    *        ![bgbl1_2008_j2450_418_ab_0010.jpg](bgbl1_2008_j2450_418_ab_0010.jpg)
 
 
 
@@ -30336,11 +33866,10 @@ Partikelemissionen
         x **und HC**
 
 
-*    *   (Grafik in Bearbeitung)
+*    *        ![bgbl1_2008_j2450_418_ab_0020.jpg](bgbl1_2008_j2450_418_ab_0020.jpg)
 
 
-
-**Beschreibung – Abbildungen 2 und 3**
+   **Beschreibung – Abbildungen 2 und 3**
 Allgemeiner Hinweis:
 Alle Bauteile, mit denen die Gasprobe in Berührung kommt, müssen auf
 der für das jeweilige System vorgeschriebenen Temperatur gehalten
@@ -30672,11 +34201,12 @@ werden.
                 Teilprobenahme (SB-Regelung)**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_425_ab_0010.jpg](bgbl1_2008_j2450_425_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird mit Hilfe der isokinetischen Probenahmesonde
+   Unverdünntes Abgas wird mit Hilfe der isokinetischen Probenahmesonde
         ISP aus dem Auspuffrohr EP durch das Übertragungsrohr TT zum
         Verdünnungstunnel DT geleitet. Der Differenzdruck des Abgases zwischen
         Auspuffrohr und Sondeneinlass wird mit dem Differenzdruckaufnehmer DPT
@@ -30698,11 +34228,12 @@ werden.
                 Teilprobenahme (PB-Regelung)**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_426_ab_0010.jpg](bgbl1_2008_j2450_426_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird mit Hilfe der isokinetischen Probenahmesonde
+   Unverdünntes Abgas wird mit Hilfe der isokinetischen Probenahmesonde
         ISP aus dem Auspuffrohr EP durch das Übertragungsrohr TT zum
         Verdünnungstunnel DT geleitet. Der Differenzdruck des Abgases zwischen
         Auspuffrohr und Sondeneinlass wird mit dem Differenzdruckaufnehmer DPT
@@ -30729,11 +34260,12 @@ werden.
                 x **-Konzentration und Teilprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_427_ab_0010.jpg](bgbl1_2008_j2450_427_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
+   Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
         Probenahmesonde SP und das Übertragungsrohr TT zum Verdünnungstunnel
         DT geleitet. Die Konzentrationen eines Tracergases (CO
         2                          oder NO
@@ -30754,11 +34286,12 @@ werden.
                 2 **-Konzentration, Kohlenstoffbilanz und Gesamtprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_428_ab_0010.jpg](bgbl1_2008_j2450_428_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
+   Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
         Probenahmesonde SP und das Übertragungsrohr TT zum Verdünnungstunnel
         DT geleitet. Die CO
         2                         -Konzentrationen werden mit dem (den)
@@ -30782,11 +34315,12 @@ werden.
                 Konzentrationsmessung und Teilprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_429_ab_0010.jpg](bgbl1_2008_j2450_429_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aufgrund des Unterdrucks, den das Venturi-Rohr
+   Unverdünntes Abgas wird aufgrund des Unterdrucks, den das Venturi-Rohr
         VN im DT erzeugt, aus dem Auspuffrohr EP durch die Probenahmesonde SP
         und das Übertragungsrohr TT zum Verdünnungstunnel DT geleitet. Der
         Gasdurchsatz durch das TT hängt vom Impulsaustausch im Venturibereich
@@ -30808,11 +34342,12 @@ werden.
                 Doppelblende, Konzentrationsmessung und Teilprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_430_ab_0010.jpg](bgbl1_2008_j2450_430_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
+   Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
         Probenahmesonde SP und das Übertragungsrohr TT zum Verdünnungstunnel
         DT geleitet, und zwar mittels eines Mengenteilers, der ein Paar
         Blenden oder Venturi-Rohre enthält. Der erste Mengenteiler (FD1)
@@ -30838,11 +34373,12 @@ werden.
                 Konzentrationsmessung und Teilprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_431_ab_0010.jpg](bgbl1_2008_j2450_431_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
+   Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
         Probenahmesonde SP und das Übertragungsrohr TT zum Verdünnungstunnel
         DT geleitet, und zwar mittels eines im EP angebrachten Mengenteilers,
         der aus einer Reihe von Röhren mit gleichen Abmessungen besteht
@@ -30871,11 +34407,12 @@ werden.
                 Gesamtprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_432_ab_0010.jpg](bgbl1_2008_j2450_432_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
+   Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
         Probenahmesonde SP und das Übertragungsrohr TT in den
         Verdünnungstunnel DT geleitet. Der Gesamtdurchfluss durch den Tunnel
         wird mit dem Durchflussregler FC3 und der Probenahmepumpe P des
@@ -30897,11 +34434,12 @@ werden.
                 Teilprobenahme**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_433_ab_0010.jpg](bgbl1_2008_j2450_433_ab_0010.jpg)
 
 
-
-        Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
+   Unverdünntes Abgas wird aus dem Auspuffrohr EP durch die
         Probenahmesonde SP und das Übertragungsrohr TT in den
         Verdünnungstunnel DT geleitet. Die Abgasteilung und der Durchfluss in
         den DT werden mit dem Durchflussregler FC2 geregelt, der die
@@ -31293,11 +34831,12 @@ werden.
         *            *   **Vollstrom-Verdünnungssystem**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_440_ab_0010.jpg](bgbl1_2008_j2450_440_ab_0010.jpg)
 
 
-
-        Die Gesamtmenge des unverdünnten Abgases wird im Verdünnungstunnel DT
+   Die Gesamtmenge des unverdünnten Abgases wird im Verdünnungstunnel DT
         mit der Verdünnungsluft vermischt.
         Der Durchsatz des verdünnten Abgases wird entweder mit einer
         Verdrängerpumpe PDP oder mit einem Venturi-Rohr mit kritischer
@@ -31495,11 +35034,12 @@ werden.
         *            *   **Partikel-Probenahmesystem**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_444_ab_0010.jpg](bgbl1_2008_j2450_444_ab_0010.jpg)
 
 
-
-        Eine Probe des verdünnten Abgases wird mit Hilfe der Probenahmepumpe P
+   Eine Probe des verdünnten Abgases wird mit Hilfe der Probenahmepumpe P
         durch die Partikel-Probenahmesonde PSP und das
         Partikelübertragungsrohr PTT aus dem Verdünnungstunnel DT eines
         Teilstrom- oder Vollstrom-Verdünnungssystems entnommen. Die Probe wird
@@ -31516,11 +35056,12 @@ werden.
         *            *   **Verdünnungssystem (nur Vollstromsystem)**
 
 
-        *            *   (Grafik in Bearbeitung)
+        *            *
+
+        *            *                ![bgbl1_2008_j2450_445_ab_0010.jpg](bgbl1_2008_j2450_445_ab_0010.jpg)
 
 
-
-        Eine Probe des verdünnten Abgases wird durch die Partikel-
+   Eine Probe des verdünnten Abgases wird durch die Partikel-
         Probenahmesonde PSP und das Partikelübertragungsrohr PTT aus dem
         Verdünnungstunnel DT eines Vollstrom-Verdünnungssystems in den
         Sekundärverdünnungstunnel SDT geleitet und dort nochmals verdünnt.
@@ -33478,8 +37019,8 @@ Dienstanweisung Nr. 25
 
 
     nach Festlegung des nautischen Sachverständigen
-[^bjnr245010008bjne027100000_01_BJNR245010008BJNE027100000]: [^bjnr245010008bjne027100000_02_BJNR245010008BJNE027100000]:     **              nicht Zutreffendes streichen.
-    ABl. L375 vom 31.12.1980, S.46. Richtlinie zuletzt geändert durch die
+[^bjnr245010008bjne027100000_01_BJNR245010008BJNE027100000]: [^bjnr245010008bjne027100000_02_BJNR245010008BJNE027100000]:     **              Nichtzutreffendes streichen.
+    ABl. L375 vom 31.12.1980, S. 46. Richtlinie zuletzt geändert durch die
     Richtlinie 89/491/EWG (ABl. L238 vom 15.8.1989, S. 43).
 [^bjnr245010008bjne027100000_03_BJNR245010008BJNE027100000]:     Dies bedeutet im Gegensatz zu den Anforderungen des Anhangs I
     Abschnitt 5.1.1.1 der Richtlinie 80/1269/EWG, dass das
@@ -33600,7 +37141,6 @@ FSF
 
 Gleichung zur Berechnung des gewichteten spezifischen
 Kraftstoffverbrauchs:
-Formel (Grafik in Bearbeitung)
 
 
 
@@ -33625,4 +37165,5 @@ Typgenehmigungsurkunde spezifiziert sein.
 [^bjnr245010008bjne027100000_22_BJNR245010008BJNE027100000]: Die Grenzwerte der Stufe II des Anhangs II gelten gemäß Beschluss
 2003-II-27 der Zentralkommission für die Rheinschifffahrt ab dem 1.
 Juli 2007.
-[^bjnr245010008bjne027100000_23_BJNR245010008BJNE027100000]: 
+[^bjnr245010008bjne027100000_23_BJNR245010008BJNE027100000]: [^bjnr245010008bjne027100000_24_BJNR245010008BJNE027100000]: **                             Tgf              = Tragfähigkeit
+
