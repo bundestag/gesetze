@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 258 (896)
 
 Zuletzt geändert durch
-:   Art. 22 G v. 29.7.2009 I 2542
+:   Art. 3 V v. 3.10.2012 I 2108
 
 
 ## Abschnitt 1 - Unterschutzstellung, Ausnahmen und Verbote
@@ -452,7 +452,7 @@ Kennzeichnung hat nach Maßgabe
     und 7,
 
 
-2.  des § 13 Abs. 1 Satz 3 bis 10 sowie des § 15 Abs. 4 und 6
+2.  des § 13 Abs. 1 Satz 3 bis 10 sowie des § 15 Absatz 6
 
 
 
@@ -583,11 +583,7 @@ Maßgabe der Anlage 7 aufweisen. Die in Satz 1 genannte Beschriftung
 muss sich gegenüber eventuell auf dem Ring zusätzlich angebrachten
 Angaben deutlich hervorheben.
 
-(4) Ringe für Papageien und Sittiche dürfen nur unter den
-Voraussetzungen des § 2 Abs. 1 bis 4 der Psittakoseverordnung in der
-Fassung der Bekanntmachung vom 14. November 1991 (BGBl. I S. 2111),
-die zuletzt durch Artikel 3 der Verordnung vom 12. Dezember 2002
-(BGBl. I S. 4532) geändert worden ist, ausgegeben werden.
+(4) (weggefallen)
 
 (5) Nach Absatz 1 ausgegebene Transponder müssen in der Codestruktur
 und dem Informationsgehalt dem Standard ISO 11784: 1996 (e) "Radio-
