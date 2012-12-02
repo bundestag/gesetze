@@ -190,7 +190,8 @@ Lokomotivführers oder des Begleitpersonals besteuert.
 (2) Arbeitsentgelt, das auf Arbeitstage entfällt, an denen der
 Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine
 Tätigkeit teilweise in dem Vertragsstaat ausgeübt hat, in dem der
-Arbeitgeber des Berufkraftfahrers, des Lokomotivführers oder des
+Arbeitgeber des
+Berufkraftfahrers             , des Lokomotivführers oder des
 Begleitpersonals seinen Wohnsitz hat, und teilweise
 
 1.  im Ansässigkeitsstaat des Berufskraftfahrers, des Lokomotivführers
@@ -208,7 +209,8 @@ Begleitpersonals seinen Wohnsitz hat, und teilweise
 wird, unabhängig von der jeweiligen Verweildauer, zu gleichen Teilen
 auf den Ansässigkeitsstaat des Berufskraftfahrers, des
 Lokomotivführers oder des Begleitpersonals und den Wohnsitzstaat des
-Arbeitgebers des Berufkraftfahrers, des Lokomotivführers oder des
+Arbeitgebers des
+Berufkraftfahrers             , des Lokomotivführers oder des
 Begleitpersonals aufgeteilt. Das anteilige Besteuerungsrecht wird
 gemäß § 6 und § 7 Absatz 1 den Vertragsstaaten zugewiesen.
 
