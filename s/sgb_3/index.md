@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 4a G v. 21.7.2012 I 1613
+:   Art. 2 G v. 23.10.2012 I 2246
 
 
 

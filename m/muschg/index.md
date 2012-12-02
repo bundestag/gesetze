@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 20.6.2002 I 2318;
 
 Zuletzt geändert durch
-:   Art. 34 G v. 20.12.2011 I 2854
+:   Art. 6 G v. 23.10.2012 I 2246
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -450,19 +450,20 @@ Durchschnittsverdienstes im Sinne der Absätze 1 und 2 zu erlassen.
 (1) Frauen, die Mitglied einer gesetzlichen Krankenkasse sind,
 erhalten für die Zeit der Schutzfristen des § 3 Abs. 2 und des § 6
 Abs. 1 sowie für den Entbindungstag Mutterschaftsgeld nach den
-Vorschriften der Reichsversicherungsordnung oder des Gesetzes über die
-Krankenversicherung der Landwirte über das Mutterschaftsgeld.
+Vorschriften des Fünften Buches Sozialgesetzbuch oder des Zweiten
+Gesetzes über die Krankenversicherung der Landwirte über das
+Mutterschaftsgeld.
 
 (2) Frauen, die nicht Mitglied einer gesetzlichen Krankenkasse sind,
 erhalten, wenn sie bei Beginn der Schutzfrist nach § 3 Abs. 2 in einem
 Arbeitsverhältnis stehen oder in Heimarbeit beschäftigt sind, für die
 Zeit der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 sowie für den
 Entbindungstag Mutterschaftsgeld zu Lasten des Bundes in
-entsprechender Anwendung der Vorschriften der
-Reichsversicherungsordnung über das Mutterschaftsgeld, höchstens
-jedoch insgesamt 210 Euro. Das Mutterschaftsgeld wird diesen Frauen
-auf Antrag vom Bundesversicherungsamt gezahlt. Die Sätze 1 und 2
-gelten für Frauen entsprechend, deren Arbeitsverhältnis während ihrer
+entsprechender Anwendung der Vorschriften des Fünften Buches
+Sozialgesetzbuch über das Mutterschaftsgeld, höchstens jedoch
+insgesamt 210 Euro. Das Mutterschaftsgeld wird diesen Frauen auf
+Antrag vom Bundesversicherungsamt gezahlt. Die Sätze 1 und 2 gelten
+für Frauen entsprechend, deren Arbeitsverhältnis während ihrer
 Schwangerschaft oder der Schutzfrist des § 6 Abs. 1 nach Maßgabe von §
 9 Abs. 3 aufgelöst worden ist.
 
@@ -474,9 +475,8 @@ und 2.
 
 ### § 14 Zuschuss zum Mutterschaftsgeld
 
-(1) Frauen, die Anspruch auf Mutterschaftsgeld nach § 200 Abs. 1, 2
-Satz 1 bis 4 und Abs. 3 der Reichsversicherungsordnung, § 29 Abs. 1, 2
-und 4 des Gesetzes über die Krankenversicherung der Landwirte oder §
+(1) Frauen, die Anspruch auf Mutterschaftsgeld nach § 24i Absatz 1, 2
+Satz 1 bis 4 und Absatz 3 des Fünften Buches Sozialgesetzbuch oder §
 13 Abs. 2, 3 haben, erhalten während ihres bestehenden
 Arbeitsverhältnisses für die Zeit der Schutzfristen des § 3 Abs. 2 und
 § 6 Abs. 1 sowie für den Entbindungstag von ihrem Arbeitgeber einen
@@ -507,7 +507,7 @@ Zuschuss nach Absatz 1 von der für die Zahlung des Mutterschaftsgeldes
 zuständigen Stelle.
 
 (3) Absatz 2 gilt entsprechend, wenn der Arbeitgeber wegen eines
-Insolvenzereignisses im Sinne des § 165 Absatz 1 Satz 1 des Dritten
+Insolvenzereignisses im Sinne des § 165 Absatz 1 Satz 2 des Dritten
 Buches Sozialgesetzbuch seinen Zuschuss nach Absatz 1 nicht zahlen
 kann.
 
@@ -524,8 +524,8 @@ Teilzeitarbeit leisten.
 
 Frauen, die in der gesetzlichen Krankenversicherung versichert sind,
 erhalten auch die folgenden Leistungen bei Schwangerschaft und
-Mutterschaft nach den Vorschriften der Reichsversicherungsordnung oder
-des Gesetzes über die Krankenversicherung der Landwirte:
+Mutterschaft nach den Vorschriften des Fünften Buches Sozialgesetzbuch
+oder des Zweiten Gesetzes über die Krankenversicherung der Landwirte:
 
 1.  ärztliche Betreuung und Hebammenhilfe,
 

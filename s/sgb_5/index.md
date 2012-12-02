@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 4 G v. 21.7.2012 I 1613
+:   Art. 3 G v. 23.10.2012 I 2246
+
+Mittelbare änderung durch
+:   Art. 13 G v. 23.10.2012 I 2246 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -905,7 +908,7 @@ Meldevordrucke fest.
 (1) Versicherte haben nach den folgenden Vorschriften Anspruch auf
 Leistungen
 
-1.  (weggefallen)
+1.  bei Schwangerschaft und Mutterschaft (§§ 24c bis 24i),
 
 
 2.  zur Verhütung von Krankheiten und von deren Verschlimmerung sowie zur
@@ -967,17 +970,19 @@ Unfallversicherung zu erbringen sind. Dies gilt auch in Fällen des §
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche vom Gemeinsamen
 Bundesausschuss nicht ausgeschlossene Leistungen in der fachlich
 gebotenen Qualität im Bereich der medizinischen Vorsorge und
-Rehabilitation (§§ 23, 40), der künstlichen Befruchtung (§ 27a), der
-zahnärztlichen Behandlung ohne die Versorgung mit Zahnersatz (§ 28
-Absatz 2), bei der Versorgung mit nicht verschreibungspflichtigen
-apothekenpflichtigen Arzneimitteln (§ 34 Absatz 1 Satz 1), mit
-Heilmitteln (§ 32) und Hilfsmitteln (§ 33), im Bereich der häuslichen
-Krankenpflege (§ 37) und der Haushaltshilfe (§ 38) sowie Leistungen
-von nicht zugelassenen Leistungserbringern vorsehen. Die Satzung muss
-insbesondere die Art, die Dauer und den Umfang der Leistung bestimmen;
-sie hat hinreichende Anforderungen an die Qualität der
-Leistungserbringung zu regeln. Die zusätzlichen Leistungen sind von
-den Krankenkassen in ihrer Rechnungslegung gesondert auszuweisen.
+Rehabilitation (§§ 23, 40), der Leistungen von Hebammen bei
+Schwangerschaft und Mutterschaft (§ 24d), der künstlichen Befruchtung
+(§ 27a), der zahnärztlichen Behandlung ohne die Versorgung mit
+Zahnersatz (§ 28 Absatz 2), bei der Versorgung mit nicht
+verschreibungspflichtigen apothekenpflichtigen Arzneimitteln (§ 34
+Absatz 1 Satz 1), mit Heilmitteln (§ 32) und Hilfsmitteln (§ 33), im
+Bereich der häuslichen Krankenpflege (§ 37) und der Haushaltshilfe (§
+38) sowie Leistungen von nicht zugelassenen Leistungserbringern
+vorsehen. Die Satzung muss insbesondere die Art, die Dauer und den
+Umfang der Leistung bestimmen; sie hat hinreichende Anforderungen an
+die Qualität der Leistungserbringung zu regeln. Die zusätzlichen
+Leistungen sind von den Krankenkassen in ihrer Rechnungslegung
+gesondert auszuweisen.
 
 
 ### Zweiter Abschnitt - Gemeinsame Vorschriften
@@ -1176,6 +1181,7 @@ abhängig machen.
 
 
 
+Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (2) Der Anspruch auf Leistungen ruht, soweit Versicherte gleichartige
 Leistungen von einem Träger der Unfallversicherung im Ausland
@@ -1217,12 +1223,12 @@ im Ausland aufhalten.
 #### § 17 Leistungen bei Beschäftigung im Ausland
 
 (1) Mitglieder, die im Ausland beschäftigt sind und während dieser
-Beschäftigung erkranken, erhalten die ihnen nach diesem Kapitel und
-nach den Vorschriften des Zweiten Abschnitts des Zweiten Buches der
-Reichsversicherungsordnung zustehenden Leistungen von ihrem
-Arbeitgeber. Satz 1 gilt entsprechend für die nach § 10 versicherten
-Familienangehörigen, soweit sie das Mitglied für die Zeit dieser
-Beschäftigung begleiten oder besuchen.
+Beschäftigung erkranken oder bei denen Leistungen bei Schwangerschaft
+oder Mutterschaft erforderlich sind, erhalten die ihnen nach diesem
+Kapitel zustehenden Leistungen von ihrem Arbeitgeber. Satz 1 gilt
+entsprechend für die nach § 10 versicherten Familienangehörigen,
+soweit sie das Mitglied für die Zeit dieser Beschäftigung begleiten
+oder besuchen.
 
 (2) Die Krankenkasse hat dem Arbeitgeber die ihm nach Absatz 1
 entstandenen Kosten bis zu der Höhe zu erstatten, in der sie ihr im
@@ -1295,7 +1301,7 @@ versicherten Angehörigen Leistungen längstens für einen Monat nach dem
 Tode des Mitglieds.
 
 
-### Dritter Abschnitt - Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter Gesundheitsgefahren, Förderung der Selbsthilfe
+### Dritter Abschnitt - Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter Gesundheitsgefahren, Förderung der Selbsthilfe sowie Leistungen bei Schwangerschaft und Mutterschaft
 
 
 
@@ -1544,28 +1550,33 @@ anzuwenden.
 (4) Reichen bei Versicherten die Leistungen nach Absatz 1 und 2 nicht
 aus, kann die Krankenkasse Behandlung mit Unterkunft und Verpflegung
 in einer Vorsorgeeinrichtung erbringen, mit der ein Vertrag nach § 111
-besteht. Die Krankenkasse führt statistische Erhebungen über Anträge
-auf Leistungen nach Satz 1 und Absatz 2 sowie deren Erledigung durch.
+besteht; für pflegende Angehörige kann die Krankenkasse unter
+denselben Voraussetzungen Behandlung mit Unterkunft und Verpflegung
+auch in einer Vorsorgeeinrichtung erbringen, mit der ein Vertrag nach
+§ 111a besteht. Die Krankenkasse führt statistische Erhebungen über
+Anträge auf Leistungen nach Satz 1 und Absatz 2 sowie deren Erledigung
+durch.
 
 (5) Die Krankenkasse bestimmt nach den medizinischen Erfordernissen
 des Einzelfalls Art, Dauer, Umfang, Beginn und Durchführung der
 Leistungen nach Absatz 4 sowie die Vorsorgeeinrichtung nach
-pflichtgemäßem Ermessen. Leistungen nach Absatz 4 sollen für längstens
-drei Wochen erbracht werden, es sei denn, eine Verlängerung der
-Leistung ist aus medizinischen Gründen dringend erforderlich. Satz 2
-gilt nicht, soweit der Spitzenverband Bund der Krankenkassen nach
-Anhörung der für die Wahrnehmung der Interessen der ambulanten und
-stationären Vorsorgeeinrichtungen auf Bundesebene maßgeblichen
-Spitzenorganisationen in Leitlinien Indikationen festgelegt und diesen
-jeweils eine Regeldauer zugeordnet hat; von dieser Regeldauer kann nur
-abgewichen werden, wenn dies aus dringenden medizinischen Gründen im
-Einzelfall erforderlich ist. Leistungen nach Absatz 2 können nicht vor
-Ablauf von drei, Leistungen nach Absatz 4 können nicht vor Ablauf von
-vier Jahren nach Durchführung solcher oder ähnlicher Leistungen
-erbracht werden, deren Kosten auf Grund öffentlich-rechtlicher
-Vorschriften getragen oder bezuschusst worden sind, es sei denn, eine
-vorzeitige Leistung ist aus medizinischen Gründen dringend
-erforderlich.
+pflichtgemäßem Ermessen; die Krankenkasse berücksichtigt bei ihrer
+Entscheidung die besonderen Belange pflegender Angehöriger. Leistungen
+nach Absatz 4 sollen für längstens drei Wochen erbracht werden, es sei
+denn, eine Verlängerung der Leistung ist aus medizinischen Gründen
+dringend erforderlich. Satz 2 gilt nicht, soweit der Spitzenverband
+Bund der Krankenkassen nach Anhörung der für die Wahrnehmung der
+Interessen der ambulanten und stationären Vorsorgeeinrichtungen auf
+Bundesebene maßgeblichen Spitzenorganisationen in Leitlinien
+Indikationen festgelegt und diesen jeweils eine Regeldauer zugeordnet
+hat; von dieser Regeldauer kann nur abgewichen werden, wenn dies aus
+dringenden medizinischen Gründen im Einzelfall erforderlich ist.
+Leistungen nach Absatz 2 können nicht vor Ablauf von drei, Leistungen
+nach Absatz 4 können nicht vor Ablauf von vier Jahren nach
+Durchführung solcher oder ähnlicher Leistungen erbracht werden, deren
+Kosten auf Grund öffentlich-rechtlicher Vorschriften getragen oder
+bezuschusst worden sind, es sei denn, eine vorzeitige Leistung ist aus
+medizinischen Gründen dringend erforderlich.
 
 (6) Versicherte, die eine Leistung nach Absatz 4 in Anspruch nehmen
 und das achtzehnte Lebensjahr vollendet haben, zahlen je Kalendertag
@@ -1698,6 +1709,136 @@ Krankenkasse nicht die mittleren Kosten der Leistungen nach den Sätzen
 Institut ermittelt die Kosten nach Satz 3 gesondert und veröffentlicht
 das Ergebnis jährlich in Zusammenhang mit dem Entgeltsystem nach § 17b
 des Krankenhausfinanzierungsgesetzes.
+
+
+#### § 24c Leistungen bei Schwangerschaft und Mutterschaft
+
+Die Leistungen bei Schwangerschaft und Mutterschaft umfassen
+
+1.  ärztliche Betreuung und Hebammenhilfe,
+
+
+2.  Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln,
+
+
+3.  Entbindung,
+
+
+4.  häusliche Pflege,
+
+
+5.  Haushaltshilfe,
+
+
+6.  Mutterschaftsgeld.
+
+
+
+
+
+#### § 24d Ärztliche Betreuung und Hebammenhilfe
+
+Die Versicherte hat während der Schwangerschaft, bei und nach der
+Entbindung Anspruch auf ärztliche Betreuung sowie auf Hebammenhilfe
+einschließlich der Untersuchungen zur Feststellung der Schwangerschaft
+und zur Schwangerenvorsorge. Sofern das Kind nach der Entbindung nicht
+von der Versicherten versorgt werden kann, hat das versicherte Kind
+Anspruch auf die Leistungen der Hebammenhilfe, die sich auf dieses
+beziehen. Die ärztliche Betreuung umfasst auch die Beratung der
+Schwangeren zur Bedeutung der Mundgesundheit für Mutter und Kind
+einschließlich des Zusammenhangs zwischen Ernährung und
+Krankheitsrisiko sowie die Einschätzung oder Bestimmung des
+Übertragungsrisikos von Karies.
+
+
+#### § 24e Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln
+
+Die Versicherte hat während der Schwangerschaft und im Zusammenhang
+mit der Entbindung Anspruch auf Versorgung mit Arznei-, Verband-,
+Heil- und Hilfsmitteln. Die für die Leistungen nach den §§ 31 bis 33
+geltenden Vorschriften gelten entsprechend; bei
+Schwangerschaftsbeschwerden und im Zusammenhang mit der Entbindung
+finden § 31 Absatz 3, § 32 Absatz 2, § 33 Absatz 8 und § 127 Absatz 4
+keine Anwendung.
+
+
+#### § 24f Entbindung
+
+Die Versicherte hat Anspruch auf ambulante oder stationäre Entbindung.
+Die Versicherte kann ambulant in einem Krankenhaus, in einer von einer
+Hebamme oder einem Entbindungspfleger geleiteten Einrichtung, in einer
+ärztlich geleiteten Einrichtung, in einer Hebammenpraxis oder im
+Rahmen einer Hausgeburt entbinden. Wird die Versicherte zur
+stationären Entbindung in einem Krankenhaus oder in einer anderen
+stationären Einrichtung aufgenommen, hat sie für sich und das
+Neugeborene Anspruch auf Unterkunft, Pflege und Verpflegung. Für diese
+Zeit besteht kein Anspruch auf Krankenhausbehandlung. § 39 Absatz 2
+gilt entsprechend.
+
+
+#### § 24g Häusliche Pflege
+
+Die Versicherte hat Anspruch auf häusliche Pflege, soweit diese wegen
+Schwangerschaft oder Entbindung erforderlich ist. § 37 Absatz 3 und 4
+gilt entsprechend.
+
+
+#### § 24h Haushaltshilfe
+
+Die Versicherte erhält Haushaltshilfe, soweit ihr wegen
+Schwangerschaft oder Entbindung die Weiterführung des Haushalts nicht
+möglich und eine andere im Haushalt lebende Person den Haushalt nicht
+weiterführen kann. § 38 Absatz 4 gilt entsprechend.
+
+
+#### § 24i Mutterschaftsgeld
+
+(1) Weibliche Mitglieder, die bei Arbeitsunfähigkeit Anspruch auf
+Krankengeld haben oder denen wegen der Schutzfristen nach § 3 Absatz 2
+und § 6 Absatz 1 des Mutterschutzgesetzes kein Arbeitsentgelt gezahlt
+wird, erhalten Mutterschaftsgeld.
+
+(2) Für Mitglieder, die bei Beginn der Schutzfrist nach § 3 Absatz 2
+des Mutterschutzgesetzes in einem Arbeitsverhältnis stehen oder in
+Heimarbeit beschäftigt sind oder deren Arbeitsverhältnis während ihrer
+Schwangerschaft oder der Schutzfrist nach § 6 Absatz 1 des
+Mutterschutzgesetzes nach Maßgabe von § 9 Absatz 3 des
+Mutterschutzgesetzes aufgelöst worden ist, wird als Mutterschaftsgeld
+das um die gesetzlichen Abzüge verminderte durchschnittliche
+kalendertägliche Arbeitsentgelt der letzten drei abgerechneten
+Kalendermonate vor Beginn der Schutzfrist nach § 3 Absatz 2 des
+Mutterschutzgesetzes gezahlt. Es beträgt höchstens 13 Euro für den
+Kalendertag. Einmalig gezahltes Arbeitsentgelt (§ 23a des Vierten
+Buches) sowie Tage, an denen infolge von Kurzarbeit, Arbeitsausfällen
+oder unverschuldeten Arbeitsversäumnissen kein oder ein vermindertes
+Arbeitsentgelt erzielt wurde, bleiben außer Betracht. Ist danach eine
+Berechnung nicht möglich, ist das durchschnittliche kalendertägliche
+Arbeitsentgelt einer gleichartig Beschäftigten zugrunde zu legen. Für
+Mitglieder, deren Arbeitsverhältnis während der Mutterschutzfristen
+vor oder nach der Geburt beginnt, wird das Mutterschaftsgeld von
+Beginn des Arbeitsverhältnisses an gezahlt. Übersteigt das
+Arbeitsentgelt 13 Euro kalendertäglich, wird der übersteigende Betrag
+vom Arbeitgeber oder von der für die Zahlung des Mutterschaftsgeldes
+zuständigen Stelle nach den Vorschriften des Mutterschutzgesetzes
+gezahlt. Für andere Mitglieder wird das Mutterschaftsgeld in Höhe des
+Krankengeldes gezahlt.
+
+(3) Das Mutterschaftsgeld wird für die letzten sechs Wochen vor dem
+mutmaßlichen Tag der Entbindung, den Entbindungstag und für die ersten
+acht Wochen, bei Mehrlings- und Frühgeburten für die ersten zwölf
+Wochen nach der Entbindung gezahlt. Wird bei Frühgeburten und
+sonstigen vorzeitigen Entbindungen der Zeitraum von sechs Wochen vor
+dem mutmaßlichen Tag der Entbindung verkürzt, so verlängert sich die
+Bezugsdauer um den Zeitraum, der vor der Entbindung nicht in Anspruch
+genommen werden konnte. Für die Zahlung des Mutterschaftsgeldes vor
+der Entbindung ist das Zeugnis eines Arztes oder einer Hebamme
+maßgebend, in dem der mutmaßliche Tag der Entbindung angegeben ist.
+Bei Geburten nach dem mutmaßlichen Tag der Entbindung verlängert sich
+die Bezugsdauer bis zum Tag der Entbindung entsprechend.
+
+(4) Der Anspruch auf Mutterschaftsgeld ruht, soweit und solange das
+Mitglied beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen
+erhält. Dies gilt nicht für einmalig gezahltes Arbeitsentgelt.
 
 
 ### Vierter Abschnitt - Leistungen zur Früherkennung von Krankheiten
@@ -1999,12 +2140,10 @@ Versorgung teilnehmenden Leistungserbringers, die nicht auf
 den sich nach § 61 Satz 2 ergebenden Betrag an den Leistungserbringer.
 Satz 1 gilt nicht für Inanspruchnahmen nach § 20d, § 25, zahnärztliche
 Untersuchungen nach § 55 Abs. 1 Satz 4 und 5 sowie Maßnahmen zur
-Schwangerenvorsorge nach § 196 Abs. 1 der Reichsversicherungsordnung
-und § 23 Abs. 1 des Gesetzes über die Krankenversicherung der
-Landwirte. Soweit Versicherte Kostenerstattung nach § 13 Abs. 2
-gewählt haben, gelten die Sätze 1 und 2 mit der Maßgabe, dass die
-Zuzahlung gemäß § 13 Abs. 2 Satz 9 von der Krankenkasse in Abzug zu
-bringen ist.
+Schwangerenvorsorge nach § 24d. Soweit Versicherte Kostenerstattung
+nach § 13 Abs. 2 gewählt haben, gelten die Sätze 1 und 2 mit der
+Maßgabe, dass die Zuzahlung gemäß § 13 Abs. 2 Satz 9 von der
+Krankenkasse in Abzug zu bringen ist.
 
 
 ##### § 29 Kieferorthopädische Behandlung
@@ -2233,6 +2372,14 @@ zulassen.
 Hilfsmittel auch leihweise überlassen. Sie kann die Bewilligung von
 Hilfsmitteln davon abhängig machen, daß die Versicherten sich das
 Hilfsmittel anpassen oder sich in seinem Gebrauch ausbilden lassen.
+
+(5a) Eine vertragsärztliche Verordnung ist für die Beantragung von
+Leistungen nach den Absätzen 1 bis 4 nur erforderlich, soweit eine
+erstmalige oder erneute ärztliche Diagnose oder Therapieentscheidung
+medizinisch geboten ist. Abweichend von Satz 1 können die
+Krankenkassen eine vertragsärztliche Verordnung als Voraussetzung für
+die Kostenübernahme verlangen, soweit sie auf die Genehmigung der
+beantragten Hilfsmittelversorgung verzichtet haben.
 
 (6) Die Versicherten können alle Leistungserbringer in Anspruch
 nehmen, die Vertragspartner ihrer Krankenkasse sind. Hat die
@@ -2677,6 +2824,17 @@ Nummer 5 in Auftrag zu geben, wenn der pharmazeutische Unternehmer die
 Kosten hierfür trägt. Die Verpflichtung zur Festsetzung eines
 Festbetrags oder eines Erstattungsbetrags bleibt unberührt.
 
+(5b) Nach einem bis zum 31. Dezember 2012 veröffentlichten Beschluss
+nach Absatz 3 kann der pharmazeutische Unternehmer abweichend von
+Absatz 5 jederzeit eine erneute Nutzenbewertung beantragen, wenn der
+Zusatznutzen als nicht belegt gilt, weil die erforderlichen Nachweise
+nicht vollständig vorgelegt wurden. Der Gemeinsame Bundesausschuss
+entscheidet über den Antrag innerhalb eines Monats. In diesem Fall
+beginnt die Frist für die Vereinbarung eines Erstattungsbetrags
+abweichend von § 130b Absatz 4 Satz 1 mit der Veröffentlichung des
+Beschlusses über die erneute Nutzenbewertung; § 130b Absatz 4 Satz 3
+bleibt unberührt.
+
 (6) Für bereits zugelassene und im Verkehr befindliche Arzneimittel
 kann der Gemeinsame Bundesausschuss eine Nutzenbewertung veranlassen.
 Vorrangig sind Arzneimittel zu bewerten, die für die Versorgung von
@@ -2690,13 +2848,14 @@ Dossier nach Absatz 1 spätestens zum Zeitpunkt der Zulassung ein.
 (7) Der Gemeinsame Bundesausschuss berät den pharmazeutischen
 Unternehmer insbesondere zu vorzulegenden Unterlagen und Studien sowie
 zur Vergleichstherapie. Er kann hierüber Vereinbarungen mit dem
-pharmazeutischen Unternehmer treffen. Die Beratung kann bereits vor
-Beginn von Zulassungsstudien der Phase drei und unter Beteiligung des
-Bundesinstituts für Arzneimittel und Medizinprodukte oder das Paul-
-Ehrlich-Institut stattfinden. Der pharmazeutische Unternehmer erhält
-eine Niederschrift über das Beratungsgespräch. Das Nähere
-einschließlich der Erstattung der für diese Beratung entstandenen
-Kosten ist in der Verfahrensordnung zu regeln.
+pharmazeutischen Unternehmer treffen. Eine Beratung vor Beginn von
+Zulassungsstudien der Phase drei oder zur Planung klinischer Prüfungen
+soll unter Beteiligung des Bundesinstituts für Arzneimittel und
+Medizinprodukte oder des Paul-Ehrlich-Instituts stattfinden. Der
+pharmazeutische Unternehmer erhält eine Niederschrift über das
+Beratungsgespräch. Das Nähere einschließlich der Erstattung der für
+diese Beratung entstandenen Kosten ist in der Verfahrensordnung zu
+regeln.
 
 (8) Eine gesonderte Klage gegen die Nutzenbewertung nach Absatz 2, den
 Beschluss nach Absatz 3 und die Einbeziehung eines Arzneimittels in
@@ -3166,39 +3325,47 @@ Buches zu erbringen.
 (2) Reicht die Leistung nach Absatz 1 nicht aus, erbringt die
 Krankenkasse stationäre Rehabilitation mit Unterkunft und Verpflegung
 in einer nach § 20 Abs. 2a des Neunten Buches zertifizierten
-Rehabilitationseinrichtung, mit der ein Vertrag nach § 111 besteht.
-Wählt der Versicherte eine andere zertifizierte Einrichtung, mit der
-kein Versorgungsvertrag nach § 111 besteht, so hat er die dadurch
-entstehenden Mehrkosten zu tragen. Die Krankenkasse führt nach
+Rehabilitationseinrichtung, mit der ein Vertrag nach § 111 besteht;
+für pflegende Angehörige kann die Krankenkasse unter denselben
+Voraussetzungen stationäre Rehabilitation mit Unterkunft und
+Verpflegung auch in einer zertifizierten Rehabilitationseinrichtung
+erbringen, mit der ein Vertrag nach § 111a besteht. Wählt der
+Versicherte eine andere zertifizierte Einrichtung, mit der kein
+Versorgungsvertrag nach § 111 besteht, so hat er die dadurch
+entstehenden Mehrkosten zu tragen; für pflegende Angehörige gilt dies
+nicht, wenn sie eine andere zertifizierte Einrichtung wählen, mit der
+ein Vertrag nach § 111a besteht. Die Krankenkasse führt nach
 Geschlecht differenzierte statistische Erhebungen über Anträge auf
 Leistungen nach Satz 1 und Absatz 1 sowie deren Erledigung durch.
 
 (3) Die Krankenkasse bestimmt nach den medizinischen Erfordernissen
 des Einzelfalls Art, Dauer, Umfang, Beginn und Durchführung der
 Leistungen nach den Absätzen 1 und 2 sowie die
-Rehabilitationseinrichtung nach pflichtgemäßem Ermessen. Leistungen
-nach Absatz 1 sollen für längstens 20 Behandlungstage, Leistungen nach
-Absatz 2 für längstens drei Wochen erbracht werden, es sei denn, eine
-Verlängerung der Leistung ist aus medizinischen Gründen dringend
-erforderlich. Satz 2 gilt nicht, soweit der Spitzenverband Bund der
-Krankenkassen nach Anhörung der für die Wahrnehmung der Interessen der
-ambulanten und stationären Rehabilitationseinrichtungen auf
-Bundesebene maßgeblichen Spitzenorganisationen in Leitlinien
-Indikationen festgelegt und diesen jeweils eine Regeldauer zugeordnet
-hat; von dieser Regeldauer kann nur abgewichen werden, wenn dies aus
-dringenden medizinischen Gründen im Einzelfall erforderlich ist.
-Leistungen nach den Absätzen 1 und 2 können nicht vor Ablauf von vier
-Jahren nach Durchführung solcher oder ähnlicher Leistungen erbracht
-werden, deren Kosten auf Grund öffentlich-rechtlicher Vorschriften
-getragen oder bezuschusst worden sind, es sei denn, eine vorzeitige
-Leistung ist aus medizinischen Gründen dringend erforderlich. § 23
-Abs. 7 gilt entsprechend. Die Krankenkasse zahlt der Pflegekasse einen
-Betrag in Höhe von 3 072 Euro für pflegebedürftige Versicherte, für
-die innerhalb von sechs Monaten nach Antragstellung keine notwendigen
-Leistungen zur medizinischen Rehabilitation erbracht worden sind. Satz
-6 gilt nicht, wenn die Krankenkasse die fehlende Leistungserbringung
-nicht zu vertreten hat. Die Krankenkasse berichtet ihrer
-Aufsichtsbehörde jährlich über Fälle nach Satz 6.
+Rehabilitationseinrichtung nach pflichtgemäßem Ermessen; die
+Krankenkasse berücksichtigt bei ihrer Entscheidung die besonderen
+Belange pflegender Angehöriger. Leistungen nach Absatz 1 sollen für
+längstens 20 Behandlungstage, Leistungen nach Absatz 2 für längstens
+drei Wochen erbracht werden, es sei denn, eine Verlängerung der
+Leistung ist aus medizinischen Gründen dringend erforderlich. Satz 2
+gilt nicht, soweit der Spitzenverband Bund der Krankenkassen nach
+Anhörung der für die Wahrnehmung der Interessen der ambulanten und
+stationären Rehabilitationseinrichtungen auf Bundesebene maßgeblichen
+Spitzenorganisationen in Leitlinien Indikationen festgelegt und diesen
+jeweils eine Regeldauer zugeordnet hat; von dieser Regeldauer kann nur
+abgewichen werden, wenn dies aus dringenden medizinischen Gründen im
+Einzelfall erforderlich ist. Leistungen nach den Absätzen 1 und 2
+können nicht vor Ablauf von vier Jahren nach Durchführung solcher oder
+ähnlicher Leistungen erbracht werden, deren Kosten auf Grund
+öffentlich-rechtlicher Vorschriften getragen oder bezuschusst worden
+sind, es sei denn, eine vorzeitige Leistung ist aus medizinischen
+Gründen dringend erforderlich. § 23 Abs. 7 gilt entsprechend. Die
+Krankenkasse zahlt der Pflegekasse einen Betrag in Höhe von 3 072 Euro
+für pflegebedürftige Versicherte, für die innerhalb von sechs Monaten
+nach Antragstellung keine notwendigen Leistungen zur medizinischen
+Rehabilitation erbracht worden sind. Satz 6 gilt nicht, wenn die
+Krankenkasse die fehlende Leistungserbringung nicht zu vertreten hat.
+Die Krankenkasse berichtet ihrer Aufsichtsbehörde jährlich über Fälle
+nach Satz 6.
 
 (4) Leistungen nach den Absätzen 1 und 2 werden nur erbracht, wenn
 nach den für andere Träger der Sozialversicherung geltenden
@@ -4453,10 +4620,11 @@ der Verfahrens-, Organisations-, Finanzierungs- und Vergütungsformen
 der Leistungserbringung durchführen oder nach § 64 vereinbaren.
 
 (2) Die Krankenkassen können Modellvorhaben zu Leistungen zur
-Verhütung und Früherkennung von Krankheiten sowie zur
-Krankenbehandlung, die nach den Vorschriften dieses Buches oder auf
-Grund hiernach getroffener Regelungen keine Leistungen der
-Krankenversicherung sind, durchführen oder nach § 64 vereinbaren.
+Verhütung und Früherkennung von Krankheiten, zur Krankenbehandlung
+sowie bei Schwangerschaft und Mutterschaft, die nach den Vorschriften
+dieses Buches oder auf Grund hiernach getroffener Regelungen keine
+Leistungen der Krankenversicherung sind, durchführen oder nach § 64
+vereinbaren.
 
 (3) Bei der Vereinbarung und Durchführung von Modellvorhaben nach
 Absatz 1 kann von den Vorschriften des Vierten und des Zehnten
@@ -7090,11 +7258,22 @@ wissenschaftlicher Sachverstand einzubeziehen.
 
 (2i) Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen
 ist eine zusätzliche Leistung vorzusehen für das erforderliche
-Aufsuchen von Versicherten, die einer Pflegestufe nach § 15 Absatz 1
-des Elften Buches zugeordnet sind oder Eingliederungshilfe nach § 53
-des Zwölften Buches erhalten und die Zahnarztpraxis aufgrund ihrer
-Pflegebedürftigkeit oder Behinderung nicht oder nur mit hohem Aufwand
-aufsuchen können. § 71 Absatz 1 Satz 2 gilt entsprechend.
+Aufsuchen von Versicherten, die einer Pflegestufe nach § 15 des Elften
+Buches zugeordnet sind, Eingliederungshilfe nach § 53 des Zwölften
+Buches erhalten oder dauerhaft erheblich in ihrer Alltagskompetenz
+nach § 45a des Elften Buches eingeschränkt sind und die die
+Zahnarztpraxis aufgrund ihrer Pflegebedürftigkeit, Behinderung oder
+Einschränkung nicht oder nur mit hohem Aufwand aufsuchen können. § 71
+Absatz 1 Satz 2 gilt entsprechend.
+
+(2j) Für Leistungen, die im Rahmen eines Vertrages nach § 119b Absatz
+1 erbracht werden, ist im einheitlichen Bewertungsmaßstab für
+zahnärztliche Leistungen eine zusätzliche, in der Bewertung über
+Absatz 2i Satz 1 hinausgehende Leistung vorzusehen. Voraussetzung für
+die Abrechnung dieser zusätzlichen Leistung ist die Einhaltung der in
+der Vereinbarung nach § 119b Absatz 2 festgelegten Anforderungen. Die
+Leistung nach Absatz 2i Satz 1 ist in diesen Fällen nicht
+berechnungsfähig. § 71 Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Der Bewertungsausschuß besteht aus drei von der Kassenärztlichen
 Bundesvereinigung bestellten Vertretern sowie drei vom Spitzenverband
@@ -7298,13 +7477,26 @@ Versorgung der Versicherten, insbesondere in Planungsbereichen, für
 die Feststellungen nach § 100 Absatz 1 oder 3 getroffen wurden,
 Zuschläge auf den Orientierungswert nach § 87 Absatz 2e für besonders
 förderungswürdige Leistungen sowie für Leistungen von besonders zu
-fördernden Leistungserbringern vereinbart werden. Bei der Festlegung
-des Zu- oder Abschlags ist zu gewährleisten, dass die medizinisch
-notwendige Versorgung der Versicherten sichergestellt ist. Aus dem
-vereinbarten Punktwert nach diesem Absatz und dem einheitlichen
-Bewertungsmaßstab für ärztliche Leistungen gemäß § 87 Absatz 1 ist
-eine regionale Gebührenordnung mit Euro-Preisen (regionale Euro-
-Gebührenordnung) zu erstellen.
+fördernden Leistungserbringern vereinbart werden; nach Abschluss der
+Vereinbarung nach § 119b Absatz 2 können Zuschläge befristet für den
+Zeitraum bis zum 31. Dezember 2015 auch vereinbart werden zur
+Förderung
+
+1.  der kooperativen und koordinierten ärztlichen und pflegerischen
+    Versorgung von pflegebedürftigen Versicherten in stationären
+    Pflegeeinrichtungen oder
+
+
+2.  von Kooperationsverträgen gemäß § 119b Absatz 1 Satz 1.
+
+
+
+Bei der Festlegung des Zu- oder Abschlags ist zu gewährleisten, dass
+die medizinisch notwendige Versorgung der Versicherten sichergestellt
+ist. Aus dem vereinbarten Punktwert nach diesem Absatz und dem
+einheitlichen Bewertungsmaßstab für ärztliche Leistungen gemäß § 87
+Absatz 1 ist eine regionale Gebührenordnung mit Euro-Preisen
+(regionale Euro-Gebührenordnung) zu erstellen.
 
 (3) Ebenfalls jährlich bis zum 31. Oktober vereinbaren die in Absatz 2
 Satz 1 genannten Vertragsparteien gemeinsam und einheitlich für das
@@ -7883,6 +8075,30 @@ Abs. 3 Satz 4 entsprechend mit der Maßgabe, dass vor Erlass der
 Rechtsverordnung außerdem die Deutsche Krankenhausgesellschaft
 anzuhören ist.
 
+(3a) Verletzen Mitglieder oder deren Stellvertreter, die von den in
+Absatz 1 Satz 1 genannten Organisationen benannt oder berufen werden,
+in der ihnen insoweit übertragenen Amtsführung die ihnen einem Dritten
+gegenüber obliegende Amtspflicht, gilt § 42 Absatz 1 bis 3 des Vierten
+Buches mit der Maßgabe entsprechend, dass die Verantwortlichkeit den
+Gemeinsamen Bundesausschuss, nicht aber die in Absatz 1 Satz 1
+genannten Organisationen, trifft. Dies gilt auch im Falle einer
+Berufung der unparteiischen Mitglieder und deren Stellvertreter durch
+das Bundesministerium für Gesundheit nach Absatz 2 Satz 7. Soweit von
+den in Absatz 1 Satz 1 genannten Organisationen für die Vorbereitung
+von Entscheidungen des Gemeinsamen Bundesausschusses Personen für die
+nach seiner Geschäftsordnung bestehenden Gremien benannt werden und
+diese Personen zur Wahrung der Vertraulichkeit der für den Gemeinsamen
+Bundesausschuss geheimhaltungspflichtigen, ihnen zugänglichen
+Unterlagen und Informationen verpflichtet werden, gilt Satz 1
+entsprechend. Das Gleiche gilt für nach § 140f Absatz 2 Satz 1 zweiter
+Halbsatz benannte sachkundige Personen, denen zur Ausübung ihres
+Mitberatungsrechts für den Gemeinsamen Bundesausschuss
+geheimhaltungspflichtige Unterlagen und Informationen zugänglich
+gemacht werden, wenn sie durch den Gemeinsamen Bundesausschuss zur
+Wahrung der Vertraulichkeit dieser Unterlagen verpflichtet worden
+sind. Das Nähere regelt der Gemeinsame Bundesausschuss in seiner
+Geschäftsordnung.
+
 (4) Der Gemeinsame Bundesausschuss beschließt
 
 1.  eine Verfahrensordnung, in der er insbesondere methodische
@@ -8248,7 +8464,11 @@ regeln
 
 3.  die Voraussetzungen für die Verordnung häuslicher Krankenpflege und
     für die Mitgabe von Arzneimitteln im Krankenhaus im Anschluss an einen
-    Krankenhausaufenthalt.
+    Krankenhausaufenthalt,
+
+
+4.  Näheres zur Verordnung häuslicher Krankenpflege zur Dekolonisation von
+    Trägern mit dem Methicillin-resistenten Staphylococcus aureus (MRSA).
 
 
 
@@ -9881,7 +10101,8 @@ Praxisbesonderheiten beantragen. Eine solche Feststellung kann auch
 beantragt werden, wenn zu einem späteren Zeitpunkt die Festsetzung
 eines Erstattungsbetrags nach Absatz 5a droht. Das Nähere zur
 Umsetzung der Sätze 1 bis 5 regeln die Vertragspartner nach Absatz 2
-Satz 4.
+Satz 4. Dieser Absatz gilt auch für Verfahren, die am 31. Dezember
+2011 noch nicht abgeschlossen waren.
 
 (6) Die Absätze 1 bis 5 gelten auch für die Prüfung der
 Wirtschaftlichkeit der im Krankenhaus erbrachten ambulanten ärztlichen
@@ -10182,7 +10403,10 @@ drei weiteren Monaten schriftlich zu begründen.
 einschließlich der Anschlußheilbehandlung (§ 40), die eine stationäre
 Behandlung, aber keine Krankenhausbehandlung erfordern, nur in
 Vorsorge- oder Rehabilitationseinrichtungen erbringen lassen, mit
-denen ein Versorgungsvertrag nach Absatz 2 besteht.
+denen ein Versorgungsvertrag nach Absatz 2 besteht; für pflegende
+Angehörige dürfen die Krankenkassen diese Leistungen auch in Vorsorge-
+und Rehabilitationseinrichtungen erbringen lassen, mit denen ein
+Vertrag nach § 111a besteht.
 
 (2) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam schließen mit Wirkung für ihre Mitgliedskassen einheitliche
@@ -10736,8 +10960,8 @@ möglich ist.
 
 Ärzte, die in einem Krankenhaus, einer Vorsorge- oder
 Rehabilitationseinrichtung, mit der ein Versorgungsvertrag nach § 111
-Absatz 2 besteht, oder nach § 119b Satz 3 in einer stationären
-Pflegeeinrichtung tätig sind, können, soweit sie über eine
+Absatz 2 besteht, oder nach § 119b Absatz 1 Satz 3 oder 4 in einer
+stationären Pflegeeinrichtung tätig sind, können, soweit sie über eine
 abgeschlossene Weiterbildung verfügen, mit Zustimmung des jeweiligen
 Trägers der Einrichtung, in der der Arzt tätig ist, vom
 Zulassungsausschuß (§ 96) zur Teilnahme an der vertragsärztlichen
@@ -11235,13 +11459,13 @@ Leistungserbringern eng zusammenarbeiten.
 
 #### § 119b Ambulante Behandlung in stationären Pflegeeinrichtungen
 
-Stationäre Pflegeeinrichtungen können einzeln oder gemeinsam bei
+(1) Stationäre Pflegeeinrichtungen können einzeln oder gemeinsam bei
 entsprechendem Bedarf unbeschadet des § 75 Abs. 1 Kooperationsverträge
 mit dafür geeigneten vertragsärztlichen Leistungserbringern schließen.
 Auf Antrag der Pflegeeinrichtung hat die Kassenärztliche Vereinigung
 zur Sicherstellung einer ausreichenden ärztlichen Versorgung von
 pflegebedürftigen Versicherten in der Pflegeeinrichtung Verträge nach
-Satz 1 anzustreben. Kommt ein Vertrag nach Satz 1 nicht innerhalb
+Satz 1 zu vermitteln. Kommt ein Vertrag nach Satz 1 nicht innerhalb
 einer Frist von sechs Monaten nach Zugang des Antrags der
 Pflegeeinrichtung zustande, ist die Pflegeeinrichtung vom
 Zulassungsausschuss zur Teilnahme an der vertragsärztlichen Versorgung
@@ -11259,28 +11483,43 @@ tätige Arzt ist bei seinen ärztlichen Entscheidungen nicht an
 Weisungen von Nichtärzten gebunden. Er soll mit den übrigen
 Leistungserbringern eng zusammenarbeiten.
 
+(2) Die Vertragsparteien der Verträge nach § 82 Absatz 1 und § 87
+Absatz 1 vereinbaren bis spätestens 30. September 2013 im Benehmen mit
+den Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene
+sowie den Verbänden der Pflegeberufe auf Bundesebene insbesondere zur
+Verbesserung der Qualität der Versorgung Anforderungen an eine
+kooperative und koordinierte ärztliche und pflegerische Versorgung von
+pflegebedürftigen Versicherten in stationären Pflegeeinrichtungen.
+
+(3) Das Institut nach § 87 Absatz 3b Satz 1 evaluiert im Einvernehmen
+mit dem Bundesministerium für Gesundheit die mit den Maßnahmen nach §
+87a Absatz 2 Satz 3 zweiter Halbsatz verbundenen Auswirkungen auf das
+Versorgungsgeschehen im Bereich der vertragsärztlichen Versorgung
+einschließlich der finanziellen Auswirkungen auf die Krankenkassen und
+berichtet der Bundesregierung bis zum 31. August 2015 über die
+Ergebnisse. § 87 Absatz 3f gilt entsprechend.
+
 
 #### § 120 Vergütung ambulanter Krankenhausleistungen
 
 (1) Die im Krankenhaus erbrachten ambulanten ärztlichen Leistungen der
 ermächtigten Krankenhausärzte, die in stationären Pflegeeinrichtungen
-erbrachten ambulanten ärztlichen Leistungen von nach § 119b Satz 3
-zweiter Halbsatz ermächtigten Ärzten und ambulante ärztliche
-Leistungen, die in ermächtigten Einrichtungen erbracht werden, werden
-nach den für Vertragsärzte geltenden Grundsätzen aus der
-vertragsärztlichen Gesamtvergütung vergütet. Die mit diesen Leistungen
-verbundenen allgemeinen Praxiskosten, die durch die Anwendung von
-ärztlichen Geräten entstehenden Kosten sowie die sonstigen Sachkosten
-sind mit den Gebühren abgegolten, soweit in den einheitlichen
+erbrachten ambulanten ärztlichen Leistungen von nach § 119b Absatz 1
+Satz 4 ermächtigten Ärzten und ambulante ärztliche Leistungen, die in
+ermächtigten Einrichtungen erbracht werden, werden nach den für
+Vertragsärzte geltenden Grundsätzen aus der vertragsärztlichen
+Gesamtvergütung vergütet. Die mit diesen Leistungen verbundenen
+allgemeinen Praxiskosten, die durch die Anwendung von ärztlichen
+Geräten entstehenden Kosten sowie die sonstigen Sachkosten sind mit
+den Gebühren abgegolten, soweit in den einheitlichen
 Bewertungsmaßstäben nichts Abweichendes bestimmt ist. Die den
 ermächtigten Krankenhausärzten zustehende Vergütung wird für diese vom
 Krankenhausträger mit der Kassenärztlichen Vereinigung abgerechnet und
 nach Abzug der anteiligen Verwaltungskosten sowie der dem Krankenhaus
 nach Satz 2 entstehenden Kosten an die berechtigten Krankenhausärzte
-weitergeleitet. Die Vergütung der von nach § 119b Satz 3 zweiter
-Halbsatz ermächtigten Ärzten erbrachten Leistungen wird von der
-stationären Pflegeeinrichtung mit der Kassenärztlichen Vereinigung
-abgerechnet.
+weitergeleitet. Die Vergütung der von nach § 119b Absatz 1 Satz 4
+ermächtigten Ärzten erbrachten Leistungen wird von der stationären
+Pflegeeinrichtung mit der Kassenärztlichen Vereinigung abgerechnet.
 
 (1a) Ergänzend zur Vergütung nach Absatz 1 sollen die Landesverbände
 der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich für
@@ -11886,7 +12125,10 @@ erfüllt sind. § 13 Absatz 2 Satz 2 und 12 findet keine Anwendung. Bei
 der Abgabe von importierten Arzneimitteln und ihren
 Bezugsarzneimitteln gelten die Sätze 3 und 4 entsprechend; dabei hat
 die Abgabe eines Arzneimittels, für das eine Vereinbarung nach § 130a
-Absatz 8 besteht, Vorrang vor der Abgabe nach Satz 1 Nummer 2.
+Absatz 8 besteht, Vorrang vor der Abgabe nach Satz 1 Nummer 2. Im
+Rahmenvertrag nach Absatz 2 kann vereinbart werden, in welchen Fällen
+Arzneimittel nicht nach Satz 1 Nummer 1 Buchstabe b ersetzt werden
+dürfen.
 
 (1a) Der Gemeinsame Bundesausschuss gibt in den Richtlinien nach § 92
 Abs. 1 Satz 2 Nr. 6 unverzüglich Hinweise zur Austauschbarkeit von
@@ -12268,7 +12510,10 @@ oder ihre Verbände können Leistungserbringer oder Dritte am Abschluss
 von Verträgen nach Satz 1 beteiligen oder diese mit dem Abschluss
 solcher Verträge beauftragen. Die Vereinbarung von Rabatten nach Satz
 1 soll für eine Laufzeit von zwei Jahren erfolgen. Dabei ist der
-Vielfalt der Anbieter Rechnung zu tragen.
+Vielfalt der Anbieter Rechnung zu tragen. Verträge nach Satz 1, die
+nicht nach Maßgabe der Vorschriften des Vierten Teils des Gesetzes
+gegen Wettbewerbsbeschränkungen abgeschlossen wurden, werden mit
+Ablauf des 30. April 2013 unwirksam.
 
 (9) Pharmazeutische Unternehmer können einen Antrag nach Absatz 4 Satz
 2 auch für ein Arzneimittel stellen, das zur Behandlung eines seltenen
@@ -12329,17 +12574,18 @@ sechs Monaten nach Veröffentlichung des Beschlusses nach § 35a Absatz
 3 oder nach § 35b Absatz 3 zustande, setzt die Schiedsstelle nach
 Absatz 5 den Vertragsinhalt innerhalb von drei Monaten fest. Die
 Schiedsstelle soll die Höhe des tatsächlichen Abgabepreises in anderen
-europäischen Ländern berücksichtigen; dies gilt nicht für eine
-Vereinbarung nach Absatz 3. Der im Schiedsspruch festgelegte
-Erstattungsbetrag gilt ab dem 13. Monat nach dem in § 35a Absatz 1
-Satz 3 genannten Zeitpunkt mit der Maßgabe, dass die Preisdifferenz
-zwischen dem von der Schiedsstelle festgelegten Erstattungsbetrag und
-dem tatsächlich gezahlten Abgabepreis bei der Festsetzung
-auszugleichen ist. Die Schiedsstelle gibt dem Verband der privaten
-Krankenversicherung vor ihrer Entscheidung Gelegenheit zur
-Stellungnahme. Klagen gegen Entscheidungen der Schiedsstelle haben
-keine aufschiebende Wirkung. Ein Vorverfahren findet nicht statt.
-Absatz 1 Satz 10 gilt entsprechend.
+europäischen Ländern nach Maßgabe der Rahmenvereinbarung nach Absatz 9
+berücksichtigen; dies gilt nicht für eine Vereinbarung nach Absatz 3.
+Der im Schiedsspruch festgelegte Erstattungsbetrag gilt ab dem 13.
+Monat nach dem in § 35a Absatz 1 Satz 3 genannten Zeitpunkt mit der
+Maßgabe, dass die Preisdifferenz zwischen dem von der Schiedsstelle
+festgelegten Erstattungsbetrag und dem tatsächlich gezahlten
+Abgabepreis bei der Festsetzung auszugleichen ist. Die Schiedsstelle
+gibt dem Verband der privaten Krankenversicherung vor ihrer
+Entscheidung Gelegenheit zur Stellungnahme. Klagen gegen
+Entscheidungen der Schiedsstelle haben keine aufschiebende Wirkung.
+Ein Vorverfahren findet nicht statt. Absatz 1 Satz 10 gilt
+entsprechend.
 
 (5) Der Spitzenverband Bund der Krankenkassen und die für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
@@ -12385,17 +12631,21 @@ Die Absätze 1 bis 7 gelten entsprechend.
 über die Maßstäbe für Vereinbarungen nach Absatz 1. Darin legen sie
 insbesondere Kriterien fest, die neben dem Beschluss nach § 35a und
 den Vorgaben nach Absatz 1 zur Vereinbarung eines Erstattungsbetrags
-nach Absatz 1 heranzuziehen sind. Die Jahrestherapiekosten
-vergleichbarer Arzneimittel sollen angemessen berücksichtigt werden.
-In der Vereinbarung nach Satz 1 ist auch das Nähere zu Inhalt, Form
-und Verfahren der jeweils erforderlichen Auswertung der Daten nach §
-217f Absatz 7 und der Übermittlung der Auswertungsergebnisse an den
-pharmazeutischen Unternehmer sowie zur Aufteilung der entstehenden
-Kosten zu vereinbaren. Kommt eine Rahmenvereinbarung nicht zustande,
-setzen die unparteiischen Mitglieder der Schiedsstelle die
-Rahmenvereinbarung im Benehmen mit den Verbänden auf Antrag einer
-Vertragspartei nach Satz 1 fest; eine Klage gegen die Festsetzung hat
-keine aufschiebende Wirkung. Absatz 1 Satz 10 gilt entsprechend.
+nach Absatz 1 heranzuziehen sind. Für Arzneimittel, für die der
+Gemeinsame Bundesausschuss nach § 35a Absatz 3 einen Zusatznutzen
+festgestellt hat, sollen die Jahrestherapiekosten vergleichbarer
+Arzneimittel sowie die tatsächlichen Abgabepreise in anderen
+europäischen Ländern gewichtet nach den jeweiligen Umsätzen und
+Kaufkraftparitäten berücksichtigt werden. In der Vereinbarung nach
+Satz 1 ist auch das Nähere zu Inhalt, Form und Verfahren der jeweils
+erforderlichen Auswertung der Daten nach § 217f Absatz 7 und der
+Übermittlung der Auswertungsergebnisse an den pharmazeutischen
+Unternehmer sowie zur Aufteilung der entstehenden Kosten zu
+vereinbaren. Kommt eine Rahmenvereinbarung nicht zustande, setzen die
+unparteiischen Mitglieder der Schiedsstelle die Rahmenvereinbarung im
+Benehmen mit den Verbänden auf Antrag einer Vertragspartei nach Satz 1
+fest; eine Klage gegen die Festsetzung hat keine aufschiebende
+Wirkung. Absatz 1 Satz 10 gilt entsprechend.
 
 (10) Der Gemeinsame Bundesausschuss, der Spitzenverband Bund der
 Krankenkassen und das Institut für Qualität und Wirtschaftlichkeit im
@@ -12534,14 +12784,14 @@ freien Wohlfahrtspflege, Rechnung zu tragen.
 
 #### § 132a Versorgung mit häuslicher Krankenpflege
 
-(1) Der Spitzenverband Bund der Krankenkassen gemeinsam und
-einheitlich und die für die Wahrnehmung der Interessen von
-Pflegediensten maßgeblichen Spitzenorganisationen auf Bundesebene
-sollen unter Berücksichtigung der Richtlinien nach § 92 Abs. 1 Satz 2
-Nr. 6 gemeinsam Rahmenempfehlungen über die einheitliche Versorgung
-mit häuslicher Krankenpflege abgeben; für Pflegedienste, die einer
-Kirche oder einer Religionsgemeinschaft des öffentlichen Rechts oder
-einem sonstigen freigemeinnützigen Träger zuzuordnen sind, können die
+(1) Der Spitzenverband Bund der Krankenkassen und die für die
+Wahrnehmung der Interessen von Pflegediensten maßgeblichen
+Spitzenorganisationen auf Bundesebene haben unter Berücksichtigung der
+Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 gemeinsam Rahmenempfehlungen
+über die einheitliche Versorgung mit häuslicher Krankenpflege
+abzugeben; für Pflegedienste, die einer Kirche oder einer
+Religionsgemeinschaft des öffentlichen Rechts oder einem sonstigen
+freigemeinnützigen Träger zuzuordnen sind, können die
 Rahmenempfehlungen gemeinsam mit den übrigen Partnern der
 Rahmenempfehlungen auch von der Kirche oder der Religionsgemeinschaft
 oder von dem Wahlfahrtsverband abgeschlossen werden, dem die
@@ -12566,13 +12816,23 @@ insbesondere zu regeln:
 
 
 5.  Grundsätze der Wirtschaftlichkeit der Leistungserbringung
-    einschließlich deren Prüfung und
+    einschließlich deren Prüfung,
 
 
-6.  Grundsätze der Vergütungen und ihrer Strukturen.
+6.  Grundsätze der Vergütungen und ihrer Strukturen und
+
+
+7.  Grundsätze zum Verfahren der Prüfung der Leistungspflicht der
+    Krankenkassen sowie zum Abrechnungsverfahren einschließlich der für
+    diese Zwecke jeweils zu übermittelnden Daten.
 
 
 
+Die Rahmenempfehlungen nach Satz 4 sind bis zum 1. Juli 2013
+abzugeben. In den Rahmenempfehlungen nach Satz 4 Nummer 7 können auch
+Regelungen über die nach § 302 Absatz 2 Satz 1 und Absatz 3 in
+Richtlinien geregelten Inhalte getroffen werden; in diesem Fall gilt §
+302 Absatz 4.
 
 (2) Über die Einzelheiten der Versorgung mit häuslicher Krankenpflege,
 über die Preise und deren Abrechnung und die Verpflichtung der
@@ -12735,16 +12995,22 @@ geleiteten Einrichtungen auf Bundesebene mit bindender Wirkung für die
 Krankenkassen Verträge über die Versorgung mit Hebammenhilfe, die
 abrechnungsfähigen Leistungen unter Einschluss einer
 Betriebskostenpauschale bei ambulanten Entbindungen in von Hebammen
-geleiteten Einrichtungen und der Anforderungen an die
-Qualitätssicherung in diesen Einrichtungen sowie über die Höhe der
-Vergütung und die Einzelheiten der Vergütungsabrechnung durch die
-Krankenkassen. Die Vertragspartner haben dabei den Bedarf der
-Versicherten an Hebammenhilfe und deren Qualität, den Grundsatz der
-Beitragssatzstabilität sowie die berechtigten wirtschaftlichen
-Interessen der freiberuflich tätigen Hebammen zu berücksichtigen. Bei
-der Berücksichtigung der wirtschaftlichen Interessen der freiberuflich
-tätigen Hebammen nach Satz 2 sind insbesondere Kostensteigerungen zu
-beachten, die die Berufsausübung betreffen.
+geleiteten Einrichtungen und der Anforderungen an die Qualität der
+Hebammenhilfe sowie über die Höhe der Vergütung und die Einzelheiten
+der Vergütungsabrechnung durch die Krankenkassen. Die Vertragspartner
+haben dabei den Bedarf der Versicherten an Hebammenhilfe und deren
+Qualität, den Grundsatz der Beitragssatzstabilität sowie die
+berechtigten wirtschaftlichen Interessen der freiberuflich tätigen
+Hebammen zu berücksichtigen. Bei der Berücksichtigung der
+wirtschaftlichen Interessen der freiberuflich tätigen Hebammen nach
+Satz 2 sind insbesondere Kostensteigerungen zu beachten, die die
+Berufsausübung betreffen.
+
+(1a) Die Vereinbarungen, die nach Absatz 1 Satz 1 zur Qualität der
+Hebammenhilfe getroffen werden, sollen Mindestanforderungen an die
+Struktur-, Prozess- und Ergebnisqualität umfassen sowie geeignete
+verwaltungsunaufwändige Verfahren zum Nachweis der Erfüllung dieser
+Qualitätsanforderungen festlegen.
 
 (2) Die Verträge nach Absatz 1 haben Rechtswirkung für freiberuflich
 tätige Hebammen, wenn sie
@@ -15094,21 +15360,9 @@ Bundesversicherungsamt übertragen. In diesem Fall gilt für die dem
 Bundesversicherungsamt entstehenden Ausgaben § 271 Abs. 6
 entsprechend.
 
-(4) Die Ermittlung der Höhe des erforderlichen Deckungskapitals durch
-die Krankenkasse und die Zuführungspläne zum Deckungskapital sind von
-der Aufsichtsbehörde zu genehmigen.
+(4) (weggefallen)
 
-(5) Für Amtshandlungen nach Absatz 4 werden Gebühren und Auslagen
-erhoben. Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände, die Höhe der Gebühren und die
-Auslagenerstattung zu bestimmen. Es kann dafür feste Sätze, auch in
-Form von Zeitgebühren, und Rahmensätze vorsehen. Die Gebührensätze
-sind so zu bemessen, dass der mit den Amtshandlungen verbundene
-gesamte Personal- und Sachaufwand der Aufsichtsbehörde gedeckt wird.
-Das Bundesministerium für Gesundheit kann die Verordnungsermächtigung
-nach Satz 2 durch Rechtsverordnung mit Zustimmung des Bundesrates auf
-das Bundesversicherungsamt übertragen.
+(5) (weggefallen)
 
 
 ##### § 171f Insolvenzfähigkeit von Krankenkassenverbänden
@@ -20316,7 +20570,7 @@ genannten Zwecke zu einer elektronischen Gesundheitskarte erweitert.
 elektronische Gesundheitskarten für die Verarbeitung und Nutzung von
 Daten nach Absatz 2 Satz 1 Nr. 1 und Absatz 3 Satz 1 an ihre
 Versicherten ausgegeben, gelten Absatz 2 Satz 1 Nr. 1 und Satz 2 sowie
-die Absätze 3 bis 5, 6 und 8 entsprechend. Für den Einsatz
+die Absätze 3 bis 5a, 6 und 8 entsprechend. Für den Einsatz
 elektronischer Gesundheitskarten nach Satz 1 können Unternehmen der
 privaten Krankenversicherung als Versichertennummer den
 unveränderbaren Teil der Krankenversichertennummer nach § 290 Abs. 1
@@ -20370,31 +20624,48 @@ Verarbeiten und Nutzen von
 
 
 5.  durch von Versicherten selbst oder für sie zur Verfügung gestellte
-    Daten sowie
+    Daten,
 
 
 6.  Daten über in Anspruch genommene Leistungen und deren vorläufige
-    Kosten für die Versicherten (§ 305 Abs. 2);
+    Kosten für die Versicherten (§ 305 Abs. 2),
+
+
+7.  Erklärungen der Versicherten zur Organ- und Gewebespende,
+
+
+8.  Hinweisen der Versicherten auf das Vorhandensein und den
+    Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende sowie
+
+
+9.  Hinweisen der Versicherten auf das Vorhandensein und den
+    Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
+    nach § 1901a des Bürgerlichen Gesetzbuchs;
 
 
 
 die Verarbeitung und Nutzung von Daten nach Nummer 1 muss auch auf der
-Karte ohne Netzzugang möglich sein. Spätestens bei der Versendung der
-Karte hat die Krankenkasse die Versicherten umfassend und in allgemein
-verständlicher Form über deren Funktionsweise, einschließlich der Art
-der auf ihr oder durch sie zu erhebenden, zu verarbeitenden oder zu
-nutzenden personenbezogenen Daten zu informieren. Mit dem Erheben,
-Verarbeiten und Nutzen von Daten der Versicherten nach diesem Absatz
-darf erst begonnen werden, wenn die Versicherten jeweils gegenüber dem
-Arzt, Zahnarzt, Psychotherapeuten oder Apotheker dazu ihre
-Einwilligung erklärt haben. Die Einwilligung ist bei erster Verwendung
-der Karte vom Leistungserbringer oder unter dessen Aufsicht von einer
-Person, die bei dem Leistungserbringer oder in einem Krankenhaus als
-berufsmäßiger Gehilfe oder zur Vorbereitung auf den Beruf tätig ist
-auf der Karte zu dokumentieren; die Einwilligung ist jederzeit
-widerruflich und kann auf einzelne Anwendungen nach diesem Absatz
-beschränkt werden. § 6c des Bundesdatenschutzgesetzes findet
-Anwendung.
+Karte ohne Netzzugang möglich sein. Die Authentizität der Erklärungen
+nach Satz 1 Nummer 7 muss sichergestellt sein. Spätestens bei der
+Versendung der Karte hat die Krankenkasse die Versicherten umfassend
+und in allgemein verständlicher Form über deren Funktionsweise,
+einschließlich der Art der auf ihr oder durch sie zu erhebenden, zu
+verarbeitenden oder zu nutzenden personenbezogenen Daten zu
+informieren. Zugriffsberechtigte nach Absatz 4 Satz 1 und Absatz 5a
+Satz 1 dürfen mit dem Erheben, Verarbeiten und Nutzen von Daten der
+Versicherten nach Satz 1 erst beginnen, wenn die Versicherten
+gegenüber einem zugriffsberechtigten Arzt, Zahnarzt, Psychotherapeuten
+oder Apotheker dazu ihre Einwilligung erklärt haben. Die Einwilligung
+ist bei erster Verwendung der Karte vom Leistungserbringer oder unter
+dessen Aufsicht von einer Person, die bei dem Leistungserbringer oder
+in einem Krankenhaus als berufsmäßiger Gehilfe oder zur Vorbereitung
+auf den Beruf tätig ist auf der Karte zu dokumentieren; die
+Einwilligung ist jederzeit widerruflich und kann auf einzelne
+Anwendungen nach diesem Absatz beschränkt werden. Satz 4 gilt nicht,
+wenn Versicherte mit dem Erheben, Verarbeiten und Nutzen von Daten
+nach Satz 1 ohne die Unterstützung von Zugriffsberechtigten nach
+Absatz 4 Satz 1 und Absatz 5a Satz 1 begonnen haben. § 6c des
+Bundesdatenschutzgesetzes findet Anwendung.
 
 (4) Zum Zwecke des Erhebens, Verarbeitens oder Nutzens mittels der
 elektronischen Gesundheitskarte dürfen, soweit es zur Versorgung der
@@ -20483,12 +20754,12 @@ ist nur mit dem Einverständnis der Versicherten zulässig. Durch
 technische Vorkehrungen ist zu gewährleisten, dass in den Fällen des
 Absatzes 3 Satz 1 Nr. 2 bis 6 der Zugriff nur durch Autorisierung der
 Versicherten möglich ist. Der Zugriff auf Daten sowohl nach Absatz 2
-Satz 1 Nr. 1 als auch nach Absatz 3 Satz 1 mittels der elektronischen
-Gesundheitskarte darf nur in Verbindung mit einem elektronischen
-Heilberufsausweis, im Falle des Absatzes 2 Satz 1 Nr. 1 auch in
-Verbindung mit einem entsprechenden Berufsausweis, erfolgen, die
-jeweils über eine Möglichkeit zur sicheren Authentifizierung und über
-eine qualifizierte elektronische Signatur verfügen; im Falle des
+Satz 1 Nr. 1 als auch nach Absatz 3 Satz 1 Nummer 1 bis 6 mittels der
+elektronischen Gesundheitskarte darf nur in Verbindung mit einem
+elektronischen Heilberufsausweis, im Falle des Absatzes 2 Satz 1 Nr. 1
+auch in Verbindung mit einem entsprechenden Berufsausweis, erfolgen,
+die jeweils über eine Möglichkeit zur sicheren Authentifizierung und
+über eine qualifizierte elektronische Signatur verfügen; im Falle des
 Absatzes 3 Satz 1 Nr. 5 können die Versicherten auch mittels einer
 eigenen Signaturkarte, die über eine qualifizierte elektronische
 Signatur verfügt, zugreifen. Zugriffsberechtigte Personen nach Absatz
@@ -20504,7 +20775,87 @@ Nr. 1 mittels der elektronischen Gesundheitskarte kann abweichend von
 den Sätzen 3 und 4 auch erfolgen, wenn die Versicherten den jeweiligen
 Zugriff durch ein geeignetes technisches Verfahren autorisieren.
 
-(5a) Die Länder bestimmen entsprechend dem Stand des Aufbaus der
+(5a) Zum Zwecke des Erhebens, Verarbeitens oder Nutzens mittels der
+elektronischen Gesundheitskarte dürfen, soweit es zur Versorgung
+erforderlich ist, auf Daten nach Absatz 3 Satz 1 Nummer 7 bis 9
+ausschließlich
+
+1.  Ärzte,
+
+
+2.  Personen, die
+
+    a)  bei Ärzten oder
+
+
+    b)  in einem Krankenhaus
+
+
+
+    als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig
+    sind, soweit dies im Rahmen der von ihnen zulässigerweise zu
+    erledigenden Tätigkeiten erforderlich ist und der Zugriff unter
+    Aufsicht eines Arztes erfolgt,
+
+
+
+in Verbindung mit einem elektronischen Heilberufsausweis, der über
+eine Möglichkeit zur sicheren Authentifizierung und über eine
+qualifizierte elektronische Signatur verfügt, zugreifen; Absatz 5 Satz
+1 und 4 gilt entsprechend. Ohne Einverständnis der betroffenen Person
+dürfen Zugriffsberechtigte nach Satz 1 auf Daten
+
+1.  nach Absatz 3 Satz 1 Nummer 7 und 8 nur zugreifen, nachdem der Tod
+    nach § 3 Absatz 1 Satz 1 Nummer 2 des Transplantationsgesetzes
+    festgestellt wurde und der Zugriff zur Klärung erforderlich ist, ob
+    die verstorbene Person in die Entnahme von Organen oder Gewebe
+    eingewilligt hat,
+
+
+2.  nach Absatz 3 Satz 1 Nummer 9 nur zugreifen, wenn eine ärztlich
+    indizierte Maßnahme unmittelbar bevorsteht und die betroffene Person
+    nicht fähig ist, in die Maßnahme einzuwilligen.
+
+
+
+Zum Speichern, Verändern, Sperren oder Löschen von Daten nach Absatz 3
+Satz 1 Nummer 7 durch Zugriffsberechtigte nach Satz 1 ist eine
+technische Autorisierung durch die Versicherten für den Zugriff
+erforderlich. Versicherte können auf Daten nach Absatz 3 Satz 1 Nummer
+7 bis 9 zugreifen, wenn sie sich für den Zugriff durch ein geeignetes
+technisches Verfahren authentifizieren. Sobald die technische
+Infrastruktur für das Erheben, Verarbeiten und Nutzen von Daten nach
+Absatz 3 Satz 1 Nummer 7 bis 9 flächendeckend zur Verfügung steht,
+haben die Krankenkassen die Versicherten umfassend über die
+Möglichkeiten der Wahrnehmung ihrer Zugriffsrechte zu informieren
+sowie allein oder in Kooperation mit anderen Krankenkassen für ihre
+Versicherten technische Einrichtungen zur Wahrnehmung ihrer
+Zugriffsrechte nach Satz 4 flächendeckend zur Verfügung zu stellen.
+Der Spitzenverband Bund der Krankenkassen hat über die Ausstattung
+jährlich einen Bericht nach den Vorgaben des Bundesministeriums für
+Gesundheit zu erstellen und ihm diesen erstmals zum 31. Januar 2016
+vorzulegen.
+
+(5b) Die Gesellschaft für Telematik hat Verfahren zur Unterstützung
+der Versicherten bei der Verwaltung von Daten nach Absatz 3 Satz 1
+Nummer 7 bis 9 zu entwickeln und hierbei auch die Möglichkeit zu
+schaffen, dass Versicherte für die Dokumentation der Erklärung auf der
+elektronischen Gesundheitskarte die Unterstützung der Krankenkasse in
+Anspruch nehmen können. Bei diesen für die Versicherten freiwilligen
+Verfahren sind Rückmeldeverfahren der Versicherten über die
+Krankenkassen mit einzubeziehen, bei denen die Krankenkassen mit
+Zustimmung der Versicherten Daten nach Absatz 3 Satz 1 Nummer 7 und 8
+speichern und löschen können. Über das Ergebnis der Entwicklung legt
+die Gesellschaft für Telematik dem Deutschen Bundestag über das
+Bundesministerium für Gesundheit spätestens bis zum 30. Juni 2013
+einen Bericht vor. Anderenfalls kann das Bundesministerium für
+Gesundheit Verfahren nach den Sätzen 1 und 2 im Rahmen eines
+Forschungs- und Entwicklungsvorhabens entwickeln lassen, dessen Kosten
+von der Gesellschaft für Telematik zu erstatten sind. In diesem Fall
+unterrichtet das Bundesministerium für Gesundheit den Deutschen
+Bundestag über das Ergebnis der Entwicklung.
+
+(5c) Die Länder bestimmen entsprechend dem Stand des Aufbaus der
 Telematikinfrastruktur
 
 1.  die Stellen, die für die Ausgabe elektronischer Heilberufs- und
@@ -20537,7 +20888,9 @@ oder Berufsausweises zu veranlassen.
 (6) Daten nach Absatz 2 Satz 1 Nr. 1 und Absatz 3 Satz 1 müssen auf
 Verlangen der Versicherten gelöscht werden; die Verarbeitung und
 Nutzung von Daten nach Absatz 2 Satz 1 Nr. 1 für Zwecke der Abrechnung
-bleiben davon unberührt. Durch technische Vorkehrungen ist zu
+bleiben davon unberührt. Daten nach Absatz 2 Satz 1 Nummer 1 und
+Absatz 3 Satz 1 Nummer 5 und 7 bis 9 können Versicherte auch
+eigenständig löschen. Durch technische Vorkehrungen ist zu
 gewährleisten, dass mindestens die letzten 50 Zugriffe auf die Daten
 nach Absatz 2 oder Absatz 3 für Zwecke der Datenschutzkontrolle
 protokolliert werden. Eine Verwendung der Protokolldaten für andere
@@ -20692,12 +21045,12 @@ sofern die Empfehlung der Kommission nicht berücksichtigt wird.
 
 (8) Vom Inhaber der Karte darf nicht verlangt werden, den Zugriff auf
 Daten nach Absatz 2 Satz 1 Nr. 1 oder Absatz 3 Satz 1 anderen als den
-in Absatz 4 Satz 1 genannten Personen oder zu anderen Zwecken als
-denen der Versorgung der Versicherten, einschließlich der Abrechnung
-der zum Zwecke der Versorgung erbrachten Leistungen, zu gestatten; mit
-ihnen darf nicht vereinbart werden, Derartiges zu gestatten. Sie
-dürfen nicht bevorzugt oder benachteiligt werden, weil sie einen
-Zugriff bewirkt oder verweigert haben.
+in Absatz 4 Satz 1 und Absatz 5a Satz 1 genannten Personen oder zu
+anderen Zwecken als denen der Versorgung der Versicherten,
+einschließlich der Abrechnung der zum Zwecke der Versorgung erbrachten
+Leistungen, zu gestatten; mit ihnen darf nicht vereinbart werden,
+Derartiges zu gestatten. Sie dürfen nicht bevorzugt oder benachteiligt
+werden, weil sie einen Zugriff bewirkt oder verweigert haben.
 
 (9) (weggefallen)
 
@@ -21809,15 +22162,14 @@ und 2 gelten für die Abrechnung wahlärztlicher Leistungen
 entsprechend.
 
 
-##### § 301a Abrechnung der Hebammen und Entbindungspfleger
+##### § 301a Abrechnung der Hebammen und der von ihnen geleiteten Einrichtungen
 
-(1) Freiberuflich tätige Hebammen und Entbindungspfleger sind
-verpflichtet, den Krankenkassen folgende Angaben im Wege
-elektronischer Datenübertragung oder maschinell verwertbar auf
+(1) Freiberuflich tätige Hebammen und von Hebammen geleitete
+Einrichtungen sind verpflichtet, den Krankenkassen folgende Angaben im
+Wege elektronischer Datenübertragung oder maschinell verwertbar auf
 Datenträgern zu übermitteln:
 
-1.  die Angaben nach § 291 Abs. 2 Satz 1 Nr. 1 bis 3, 5 bis 7 sowie 9 und
-    10,
+1.  die Angaben nach § 291 Abs. 2 Satz 1 Nr. 1 bis 3, 5 und 6,
 
 
 2.  die erbrachten Leistungen mit dem Tag der Leistungserbringung,
@@ -21836,15 +22188,16 @@ Datenträgern zu übermitteln:
     einzelnen Arzneimittel,
 
 
-6.  das Kennzeichen nach § 293; rechnet die Hebamme ihre oder der
-    Entbindungspfleger seine Leistungen über eine zentrale Stelle ab, so
-    ist in der Abrechnung neben dem Kennzeichen der abrechnenden Stelle
-    das Kennzeichen der Hebamme oder des Entbindungspflegers anzugeben.
+6.  das Kennzeichen nach § 293; rechnet die Hebamme ihre Leistungen über
+    eine zentrale Stelle ab, so ist in der Abrechnung neben dem
+    Kennzeichen der abrechnenden Stelle das Kennzeichen der Hebamme
+    anzugeben.
 
 
 
 Ist eine ärztliche Anordnung für die Abrechnung der Leistung
-vorgeschrieben, ist diese der Rechnung beizufügen.
+vorgeschrieben, ist diese der Rechnung beizufügen. § 134a Absatz 5
+gilt entsprechend.
 
 (2) § 302 Abs. 2 Satz 1 bis 3 und Abs. 3 gilt entsprechend.
 
@@ -22395,8 +22748,8 @@ bis zu einem Jahr oder Geldstrafe.
 ### § 307b Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer entgegen § 291a Abs. 4 Satz 1 auf dort genannte Daten
-zugreift.
+bestraft, wer entgegen § 291a Absatz 4 Satz 1 oder Absatz 5a Satz 1
+erster Halbsatz oder Satz 2 auf dort genannte Daten zugreift.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen Anderen zu bereichern oder einen Anderen zu schädigen, so ist
