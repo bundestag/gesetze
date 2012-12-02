@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1887
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.12.2011 I 2927
+:   Art. 1 V v. 10.10.2012 I 2113
 
 
 ## § 1 Vollständiges Anwendungsverbot
@@ -176,30 +176,14 @@ oder Versuchszwecke genehmigen.
 
 
 
-## § 8 Ordnungswidrigkeiten
+## § 8 Straftaten und Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe b des
+(1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes
+wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
+
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1, § 2, § 3 Abs. 1 oder 2 oder § 4 ein Pflanzenschutzmittel
-    anwendet,
-
-
-2.  (weggefallen)
-
-
-3.  entgegen § 3a ein Pflanzenschutzmittel abgibt oder
-
-
-4.  entgegen § 5 Abs. 1 oder 2 Satz 1 Pflanzgut, Saatgut oder
-    Kultursubstrat einführt.
-
-
-
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 3 Abs. 3 zuwiderhandelt.
+entgegen § 3a ein Pflanzenschutzmittel abgibt.
 
 
 ## Anlage 1 (zu den §§ 1 und 5 Abs. 1) Vollständiges Anwendungsverbot

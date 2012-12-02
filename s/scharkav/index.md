@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1971, 804
 
 Zuletzt geändert durch
-:   Art. 3 § 6 G v. 13.12.2007 I 2930
+:   Art. 11 V v. 10.10.2012 I 2113
 
 
 ## Eingangsformel
@@ -117,16 +117,23 @@ für Kulturpflanzen, zu hören.
 
 ## § 6
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
-Pflanzenschutzgesetzes vom 15. September 1986 (BGBl. I S. 1505)
-handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 Abs. 1 eine Meldung nicht, nicht unverzüglich oder nicht
     vollständig erstattet,
 
 
+1a. einer vollziehbaren Anordnung nach § 1 Absatz 2, § 2 Absatz 1, § 3
+    oder § 4 zuwiderhandelt,
+
+
 2.  entgegen § 2 Abs. 2 befallene oder befallsverdächtige Pflanzen nicht
     in der vorgeschriebenen oder zugelassenen Weise vernichtet,
+
+
+2a. einer mit einer Genehmigung nach § 2 Absatz 2 Satz 2 oder § 5 Absatz 2
+    Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
 3.  entgegen § 2 Abs. 3 Satz 1 befallene oder befallsverdächtige Pflanzen
@@ -138,22 +145,6 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
-5\.
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes vom 15. September 1986 handelt, wer vorsätzlich
-oder fahrlässig
-
-1.  einer vollziehbaren Anordnung nach § 1 Abs. 2, § 2 Abs. 1 oder 3 Satz
-    2, § 3 oder § 4 oder
-
-
-2.  einer mit einer Genehmigung nach § 2 Abs. 2 Satz 2 oder § 5 Abs. 2
-    Satz 1 verbundenen vollziehbaren Auflage
-
-
-
-zuwiderhandelt.
 
 
 ## § 7

@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 1754
 
-Stand: neugefasst durch
+Neugefasst durch
 :   Bek. v. 9.3.2005 I 734;
 
 Zuletzt geändert durch
-:   Art. 3 § 7 G v. 13.12.2007 I 2930
+:   Art. 4 V v. 10.10.2012 I 2113
 
 Diese Verordnung dient der Umsetzung folgender Richtlinie: 91/414/EWG
 Nr. L 230 S. 1), zuletzt geändert durch die Richtlinie 2004/99/EG der
@@ -686,7 +686,7 @@ gültigen Prüfplakette versehen sind, dürfen nicht verwendet werden.
 
 ### § 7b Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 7a ein Pflanzenschutzgerät verwendet.
 
