@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 3015
 
-Stand: Zuletzt geändert Art. 1b G v. 10.9.2012 I 1878
+Stand: Zuletzt geändert Art. 11 G v. 23.10.2012 I 2246
 
 ## Erster Abschnitt - Aufgaben des Sozialgesetzbuchs und soziale Rechte
 
@@ -1710,7 +1710,7 @@ als dessen besondere Teile:
 4.  das Gesetz über die Alterssicherung der Landwirte,
 
 
-5.  das Gesetz über die Krankenversicherung der Landwirte,
+5.  (weggefallen)
 
 
 6.  das Zweite Gesetz über die Krankenversicherung der Landwirte,

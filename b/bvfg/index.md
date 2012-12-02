@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.8.2007 I 1902;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 4.12.2011 I 2426
+:   Art. 5 G v. 23.10.2012 I 2246
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -496,15 +496,15 @@ nach § 55 des Fünften Buches Sozialgesetzbuch und die im Zusammenhang
 mit diesen Leistungen notwendigen Fahrkosten (§ 60 des Fünften Buches
 Sozialgesetzbuch) werden längstens für die ersten 78 Wochen von dem
 Tag der Aufenthaltsnahme im Geltungsbereich dieses Gesetzes an
-gewährt, Krankengeld und Mutterschaftsgeld nach § 200 der
-Reichsversicherungsordnung längstens für 182 Tage, die anderen
-Leistungen bis zum Ablauf der Frist von drei Monaten nach Absatz 1
-Satz 1. Leistungen zur Entbindung einschließlich Mutterschaftsgeld
-werden gewährt, wenn die Entbindung in der Frist von drei Monaten nach
-Absatz 1 Satz 1 liegt.
+gewährt, Krankengeld und Mutterschaftsgeld nach § 24i des Fünften
+Buches Sozialgesetzbuch längstens für 182 Tage, die anderen Leistungen
+bis zum Ablauf der Frist von drei Monaten nach Absatz 1 Satz 1.
+Leistungen zur Entbindung einschließlich Mutterschaftsgeld werden
+gewährt, wenn die Entbindung in der Frist von drei Monaten nach Absatz
+1 Satz 1 liegt.
 
 (3) Krankengeld (§§ 44 bis 51 des Fünften Buches Sozialgesetzbuch) und
-Mutterschaftsgeld (§ 200 der Reichsversicherungsordnung) erhalten
+Mutterschaftsgeld (§ 24i des Fünften Buches Sozialgesetzbuch) erhalten
 Berechtigte nur, wenn sie bis zum Verlassen der in Absatz 1 genannten
 Gebiete
 

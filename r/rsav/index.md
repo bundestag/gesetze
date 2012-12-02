@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 55
 
 Zuletzt geändert durch
-:   Art. 2d G v. 21.7.2012 I 1601
+:   Art. 12 G v. 23.10.2012 I 2246
 
 
 ## Eingangsformel
@@ -317,9 +317,9 @@ Kennzeichen nur elektronisch gespeichert und lesbar sein.
     einschließlich der hierauf entfallenden Beiträge,
 
 
-4.  Leistungen bei Schwangerschaft und Mutterschaft nach den §§ 195 bis
-    200 der Reichsversicherungsordnung, sowie Leistungen nach den §§ 24a
-    und 24b des Fünften Buches Sozialgesetzbuch,
+4.  Leistungen bei Schwangerschaft und Mutterschaft nach den §§ 24c bis
+    24i des Fünften Buches Sozialgesetzbuch, sowie Leistungen nach den §§
+    24a und 24b des Fünften Buches Sozialgesetzbuch,
 
 
 5.  Leistungen zur medizinischen Rehabilitation und medizinischen
@@ -1664,6 +1664,11 @@ sind sechs Jahre aufzubewahren; § 3 Abs. 7 Satz 2 und 3 gilt
 entsprechend.
 
 
+### § 28a (weggefallen)
+
+-
+
+
 ## Sechster Abschnitt - Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach § 137f Abs. 2 des Fünften Buches Sozialgesetzbuch
 
 
@@ -1973,13 +1978,17 @@ versichertenbezogen:
 10. die Diagnosen nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches
     Sozialgesetzbuch für die Berichtsjahre 2008 und 2009 sowie die
     Kalendertage, für die Krankengeld nach den §§ 44 und 45 des Fünften
-    Buches Sozialgesetzbuch gezahlt wird.
+    Buches Sozialgesetzbuch gezahlt wird,
+
+
+11. die Anzahl der Versicherungstage mit Anspruch auf Krankengeld nach den
+    §§ 44 und 45 des Fünften Buches Sozialgesetzbuch.
 
 
 
 Für die zeitliche Zuordnung der Angaben nach Satz 1 Nr. 4 ist das
-Abgabedatum, für die Zuordnung der Angaben nach Satz 1 Nr. 5 der Tag
-der Entlassung maßgeblich. Die Spitzenverbände der Krankenkassen
+Verordnungsdatum, für die Zuordnung der Angaben nach Satz 1 Nr. 5 der
+Tag der Entlassung maßgeblich. Die Spitzenverbände der Krankenkassen
 können im Einvernehmen mit dem Bundesversicherungsamt in der
 Vereinbarung nach § 267 Abs. 7 Nr. 1 und 2 des Fünften Buches
 Sozialgesetzbuch vorsehen, dass die Erhebung der Daten nach Satz 1 Nr.
@@ -1988,12 +1997,22 @@ Sozialgesetzbuch vorsehen, dass die Erhebung der Daten nach Satz 1 Nr.
 (2) Die nach Absatz 1 erhobenen Daten sind vor der Übermittlung nach
 Absatz 4 von der Krankenkasse zu pseudonymisieren. Für andere als für
 die in Absatz 1 Satz 1 genannten Zwecke dürfen die Daten nur genutzt
-werden, soweit dies für die Prüfung nach § 15a oder für die
+werden, soweit dies für die Prüfung nach § 42 oder für die
 Berücksichtigung nachträglicher Änderungen der übermittelten Daten
 erforderlich ist. Über die Pseudonymisierung in der Krankenkasse und
 jede Verwendung nach Satz 2 ist eine Niederschrift anzufertigen. Eine
 versichertenbezogene Zusammenführung der erhobenen Daten über mehrere
-Leistungsbereiche hinweg bei der Krankenkasse ist unzulässig.
+Leistungsbereiche hinweg bei der Krankenkasse ist unzulässig. Die
+Herstellung des Versichertenbezugs durch die Krankenkassen ist
+zulässig, soweit dies für die Prüfungen nach § 42 erforderlich ist.
+Die Krankenkassen sind verpflichtet, alle im Rahmen der Durchführung
+des Risikostrukturausgleichs maschinell erzeugten Datengrundlagen
+sowie die gesamte Dokumentation aller Korrekturmeldungen für die
+Datenmeldungen nach Absatz 1 Satz 1 Nummer 1 bis 6 sowie Nummer 8, 9
+und 11 in Verbindung mit Absatz 4 sowie die diesen Meldungen zugrunde
+liegenden, bei den Krankenkassen rechtmäßig gespeicherten Daten sechs
+Jahre lang revisionssicher und nachprüfbar zu speichern oder
+aufzubewahren; § 3 Absatz 7 Satz 2 und 3 gilt entsprechend.
 
 (3) Die Spitzenverbände der Krankenkassen vereinbaren im Einvernehmen
 mit dem Bundesversicherungsamt in der Vereinbarung nach § 267 Abs. 7
@@ -2014,26 +2033,29 @@ Spitzenverbände der Krankenkassen bestimmen.
 (4) Die nach Absatz 1 erhobenen und pseudonymisierten Daten sind bis
 zum 15. August des dem Berichtsjahr folgenden Jahres nach Maßgabe des
 § 3 Abs. 4 dem Bundesversicherungsamt zu übermitteln. Die
-Datenmeldungen nach Absatz 1 Satz 1 Nummer 1 bis 6 sowie 8 und 9
+Datenmeldungen nach Absatz 1 Satz 1 Nummer 1 bis 6 sowie 8, 9 und 11
 werden bis zum 15. August des zweiten auf das Berichtsjahr folgenden
-Jahres, die Datenmeldungen nach Absatz 1 Nummer 1, 2, 8 und 9 bis zum
-15\. April des zweiten und dritten auf das Berichtsjahr folgenden
+Jahres, die Datenmeldungen nach Absatz 1 Nummer 1, 2, 8 ,9 und 11 bis
+zum 15. April des zweiten und dritten auf das Berichtsjahr folgenden
 Jahres durch eine neue Meldung korrigiert. Die Übermittlung der Daten
 für das Berichtsjahr 2005, die von den Spitzenverbänden der
 Krankenkassen im Einvernehmen mit dem Bundesversicherungsamt in der
 Vereinbarung nach § 267 Abs. 7 Nr. 1 und 2 des Fünften Buches
 Sozialgesetzbuch auf eine repräsentative Stichprobe beschränkt werden
-kann, erfolgt spätestens bis zum 15. August 2007. Daten, die dem
-Bundesversicherungsamt nicht termingerecht übermittelt werden oder
-erhebliche Fehler aufweisen, werden bei der Ermittlung der
-Risikomerkmale und Risikozuschläge nach § 29 Nummer 1 und 2 nicht
-berücksichtigt; bei den Risikogruppen nach § 29 Nummer 3 können die
-Versicherungszeiten des Vorjahres unter Berücksichtigung der
-Mitgliederentwicklung und eines angemessenen Sicherheitsabzugs
-zugrunde gelegt werden. Die Spitzenverbände der Krankenkassen sind
-berechtigt, die Daten nach Satz 1 zur Erfüllung ihrer Aufgaben nach
-dieser Verordnung, insbesondere nach § 5 Abs. 1 Satz 2 und Abs. 6 und
-§ 31 Abs. 4 Satz 1, für 32 Monate zu speichern.
+kann, erfolgt spätestens bis zum 15. August 2007. Werden dem
+Bundesversicherungsamt Daten nicht termingerecht übermittelt oder
+weisen sie erhebliche Fehler auf, kann das Bundesversicherungsamt die
+Daten insgesamt oder teilweise zurückweisen; anstelle der
+zurückgewiesenen Daten kann es die Vorjahresdaten zugrunde legen, hat
+dabei dann aber die Versichertenentwicklung und die
+Morbiditätsentwicklung sowie einen angemessenen Sicherheitsabzug zu
+berücksichtigen. Das Bundesversicherungsamt unterrichtet den
+Spitzenverband Bund der Krankenkassen über Art und Umfang der von ihm
+zurückgewiesenen und stattdessen zugrunde gelegten Daten nach Satz 4.
+Die Spitzenverbände der Krankenkassen sind berechtigt, die Daten nach
+Satz 1 zur Erfüllung ihrer Aufgaben nach dieser Verordnung,
+insbesondere nach § 5 Abs. 1 Satz 2 und Abs. 6 und § 31 Abs. 4 Satz 1,
+für 32 Monate zu speichern.
 
 
 ### § 31 Auswahl und Anpassung des Klassifikationsmodells
@@ -2500,11 +2522,10 @@ Verordnung sind weiterhin anzuwenden, soweit in den nachfolgenden
 Vorschriften oder im Fünften Buch Sozialgesetzbuch nichts Abweichendes
 bestimmt ist.
 
-(2) Für die Durchführung des Jahresausgleichs nach § 19, des
-Risikopools nach § 28a und des Zwischenausgleichs nach § 17 Abs. 3a
-für das Berichtsjahr 2008 und für Korrekturen der Berichtsjahre bis
-einschließlich 2008 sind die §§ 1 bis 28h in der bis zum 31. Dezember
-2008 geltenden Fassung zu Grunde zu legen.
+(2) Für Prüfungen bis zum Ausgleichsjahr 2008 ist § 15a in der bis zum
+31\. Dezember 2008 geltenden Fassung anzuwenden. Korrekturen der
+Berichtsjahre bis einschließlich 2008 und die damit verbundenen
+Datenerhebungen sind ab dem 1. Januar 2012 nicht mehr durchzuführen.
 
 
 ### § 36 Ermittlung der Höhe der Grundpauschale
@@ -2590,7 +2611,9 @@ des Fünften Buches Sozialgesetzbuch maßgeblichen Werte wie folgt:
 
 
 Bei der Ermittlung der Zuweisungen für die Ausgleichsjahre 2011 und
-2012 sind die Verwaltungsausgaben des Jahres 2010 zugrunde zu legen.
+2012 sind höchstens die Verwaltungsausgaben des Jahres 2010 zugrunde
+zu legen; dies gilt nicht für die Ausgaben nach § 291a Absatz 7 Satz 4
+und 5 des Fünften Buches Sozialgesetzbuch.
 
 (2) Die Prozentwerte nach Absatz 1 Satz 2 Nr. 2 und 3 gelten bis zum
 31\. Dezember 2010. Vor Ablauf dieses Zeitraumes überprüft das
@@ -2678,7 +2701,7 @@ nach Satz 1 zurückzuzahlen.
 Zuweisung nach Absatz 1 und das Nähere über das Meldeverfahren für die
 eingeschriebenen Versicherten. Kommt die Bestimmung nach Satz 1 nicht
 zu Stande, bestimmt das Bundesversicherungsamt die Höhe der Zuweisung
-und das Meldeverfahren.
+und das Meldeverfahren. § 30 Absatz 2 bis 4 gilt entsprechend.
 
 
 ### § 39 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung
@@ -2713,26 +2736,27 @@ c)  bis zum 15. April des auf das Ausgleichsjahr folgenden Jahres
 
 die vorläufige Höhe der Zuweisungen nach Absatz 2 neu unter
 Berücksichtigung der aktuellen Datenmeldung nach § 32 und teilt diese
-den Krankenkassen mit. Das Bundesversicherungsamt kann dabei auf
-Antrag einer Krankenkasse im Einzelfall die vorläufige Höhe ihrer
-Zuweisungen für das monatliche Abschlagsverfahren nach Anhörung des
-Spitzenverbandes Bund der Krankenkassen abweichend ermitteln, wenn die
-nach Absatz 2 ermittelten Zuweisungen erheblich und nachweislich von
-dem im Jahresausgleich nach § 41 zu erwartenden Ergebnis abweichen.
-Bei der abweichenden Ermittlung nach Satz 2 kann sich das
-Bundesversicherungsamt unter Berücksichtigung des § 30 Absatz 4 Satz 4
-an Schätzungen orientieren und legt einen angemessenen
-Sicherheitsabzug zugrunde. § 3 Absatz 6 Satz 4 und 5 gilt
-entsprechend. Die bis zur Neuberechnung nach Satz 1 und 2
-festgesetzten Zuweisungen für das Ausgleichsjahr werden auf der
-Grundlage der Feststellungen nach Satz 1 und 2 neu ermittelt. Die nach
-den Sätzen 1 und 2 ermittelte vorläufige Höhe der Zuweisungen nach §
-266 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch wird für die
-betroffene Krankenkasse nach § 273 Absatz 4 des Fünften Buches
-Sozialgesetzbuch um den Korrekturbetrag nach § 39a Absatz 4 Satz 2
-vermindert und für die übrigen Krankenkassen um den entsprechenden
-Betrag erhöht. Für das Ausgleichsjahr 2010 erfolgt zusätzlich bis zum
-15\. Juli 2010 eine Neuberechnung nach Satz 1, 4 und 5.
+den Krankenkassen mit; im Fall von Buchstabe c ermittelt das
+Bundesversicherungsamt außerdem auf der Grundlage der aktuellen
+Vierteljahresrechnungen nach § 10 der Allgemeinen
+Verwaltungsvorschrift über die Statistik in der gesetzlichen
+Krankenversicherung die zu erwartenden Daten nach § 41 Absatz 1 Satz 1
+und den zu erwartenden Betrag nach § 41 Absatz 2 vorläufig neu. Das
+Bundesversicherungsamt kann dabei auf Antrag einer Krankenkasse im
+Einzelfall die vorläufige Höhe ihrer Zuweisungen für das monatliche
+Abschlagsverfahren nach Anhörung des Spitzenverbandes Bund der
+Krankenkassen abweichend ermitteln, wenn die nach Absatz 2 ermittelten
+Zuweisungen erheblich und nachweislich von dem im Jahresausgleich nach
+§ 41 zu erwartenden Ergebnis abweichen. Bei der abweichenden
+Ermittlung nach Satz 2 kann sich das Bundesversicherungsamt unter
+Berücksichtigung des § 30 Absatz 4 Satz 4 an Schätzungen orientieren
+und legt einen angemessenen Sicherheitsabzug zugrunde. § 3 Absatz 6
+Satz 4 und 5 gilt entsprechend. Die bis zur Neuberechnung nach Satz 1
+und 2 festgesetzten Zuweisungen für das Ausgleichsjahr werden auf der
+Grundlage der Feststellungen nach Satz 1 und 2 neu ermittelt. Das
+Nähere zum Verfahren nach den Absätzen 2 und 3 bestimmt das
+Bundesversicherungsamt nach Anhörung des Spitzenverbandes Bund der
+Krankenkassen.
 
 (3a) Übersteigt die Höhe der nach Absatz 3 ermittelten Zuweisungen die
 Höhe der bisher nach Absatz 2 festgesetzten Zuweisungen, leistet der
@@ -2776,50 +2800,75 @@ getragen.
 
 ### § 39a Ermittlung des Korrekturbetrags
 
-(1) Das Bundesversicherungsamt ermittelt den Korrekturbetrag nach §
-273 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch für die
-betroffene Krankenkasse nach Maßgabe der folgenden Absätze.
+(1) Das Bundesversicherungsamt prüft bei den Datenmeldungen nach § 30
+Absatz 4 Satz 1 (Erstmeldung) und bei den Datenmeldungen nach § 30
+Absatz 4 Satz 2 (Korrekturmeldung) eines Berichtsjahres, ob die
+Vorgaben des § 268 Absatz 3 Satz 1, 2 und 14 des Fünften Buches
+Sozialgesetzbuch eingehalten worden sind. Hat eine Krankenkasse diese
+Vorgaben nicht oder nur teilweise eingehalten, ermittelt das
+Bundesversicherungsamt nach § 273 Absatz 4 Satz 2 des Fünften Buches
+Sozialgesetzbuch den Korrekturbetrag nach Maßgabe der folgenden
+Absätze getrennt für die Erstmeldung und die Korrekturmeldung und
+setzt ihn fest.
 
-(2) Das Bundesversicherungsamt hat bei der Ermittlung des
-Korrekturbetrags auch regionale Unterschiede bei der Vergütung zu
-berücksichtigen. Zu diesem Zweck werden die Angaben nach § 34 Absatz 1
-Satz 1 Nummer 1 genutzt.
+(2) Das Bundesversicherungsamt berechnet für die betroffene
+Krankenkasse adjustierte jährliche Zuweisungen für das dem jeweiligen
+Berichtsjahr folgende Ausgleichsjahr. Für die Berechnung sind die für
+die Ermittlung der Höhe der Zuweisungen nach § 266 Absatz 2 Satz 1 des
+Fünften Buches Sozialgesetzbuch geltenden Vorschriften heranzuziehen
+mit der Maßgabe, dass die Häufigkeit der Risikomerkmale nach § 29
+Nummer 1 für die betroffene Krankenkasse nach den Absätzen 3 und 4
+ermittelt wird. Bei einer Erstmeldung werden die adjustierten
+jährlichen Zuweisungen von der nach § 39 Absatz 3 Satz 1 Buchstabe c
+ermittelten vorläufigen Höhe der Zuweisungen abgezogen
+(Differenzbetrag bei Erstmeldung). Bei einer Korrekturmeldung werden
+die adjustierten jährlichen Zuweisungen von den nach § 41 Absatz 3
+ermittelten Zuweisungen abgezogen (Differenzbetrag bei
+Korrekturmeldung). Ein Korrekturbetrag wird nur bei einem positiven
+Differenzbetrag ermittelt.
 
-(3) Die standardisierten Kosten je Versicherten mit Wohnsitz im Gebiet
-der Bundesrepublik Deutschland für den jeweiligen Leistungsbereich
-werden durch ein Regressionsverfahren der Risikomerkmale nach § 29 und
-der Angaben nach Absatz 2 auf die tatsächlichen Ausgaben aller
-Krankenkassen in dem jeweiligen Leistungsbereich desselben Jahres
-ermittelt. Die nach Satz 1 ermittelten standardisierten Kosten je
-Versicherten werden für alle Versicherten der betroffenen Krankenkasse
-zusammengezählt und den tatsächlichen Ausgaben dieser Krankenkasse in
-dem jeweiligen Leistungsbereich desselben Jahres gegenübergestellt.
-Ergibt die Gegenüberstellung nach Satz 2, dass die standardisierten
-Kosten die Ausgaben um mehr als einen dem nach Absatz 5 festzulegenden
-Schwellenwert entsprechenden Betrag überschreiten, wird eine
-Normkostenabweichung für die betroffene Krankenkasse für den
-jeweiligen Leistungsbereich ermittelt, indem von den standardisierten
-Kosten der dem Schwellenwert entsprechende Betrag und die Ausgaben
-abgezogen werden.
+(3) Kann das Bundesversicherungsamt feststellen, welche Daten entgegen
+den Vorgaben des § 268 Absatz 3 Satz 1, 2 und 14 des Fünften Buches
+Sozialgesetzbuch erhoben wurden, dürfen diese Daten bei der Ermittlung
+der Häufigkeit der Risikomerkmale nach § 29 Nummer 1 nicht
+berücksichtigt werden; dies gilt nicht für Daten, die in eine
+Berechnung nach § 42 Absatz 5 eingeflossen sind. Das
+Bundesversicherungsamt kann für die Feststellung von der betroffenen
+Krankenkasse entsprechend § 273 Absatz 3 Satz 3 des Fünften Buches
+Sozialgesetzbuch weitere Auskünfte und Nachweise verlangen. § 30
+Absatz 4 Satz 5 gilt entsprechend.
 
-(4) Durch ein Regressionsverfahren der standardisierten Kosten je
-Versicherten je Krankenkasse für den jeweiligen Leistungsbereich nach
-Absatz 3 Satz 1 auf die Zuweisungen nach § 266 Absatz 2 Satz 1 des
-Fünften Buches Sozialgesetzbuch je Versicherten je Krankenkasse wird
-für alle Krankenkassen prospektiv das Verhältnis von standardisierten
-Kosten zu Zuweisungen ermittelt. Der Korrekturbetrag ergibt sich,
-indem das nach Satz 1 ermittelte Verhältnis auf die
-Normkostenabweichung nach Absatz 3 Satz 3 angewendet und der sich
-hieraus ergebende Betrag verdoppelt wird.
+(4) Kann das Bundesversicherungsamt nicht feststellen, welche Daten
+entgegen den Vorgaben des § 268 Absatz 3 Satz 1, 2 und 14 des Fünften
+Buches Sozialgesetzbuch erhoben wurden, ermittelt es die Häufigkeit
+der Risikomerkmale nach § 29 Nummer 1 auf der Grundlage der letzten
+Vorjahresmeldung, für die das Bundesversicherungsamt nicht
+festgestellt hat, dass die betroffene Krankenkasse die genannten
+Vorgaben nicht oder nur teilweise eingehalten hat. Das
+Bundesversicherungsamt kann die Verwendung der Vorjahresmeldung auf
+einzelne Risikomerkmale nach § 29 Nummer 1 beschränken. Die
+zwischenzeitliche Veränderung der Versichertenstruktur bei der
+betroffenen Krankenkasse wird durch eine alters- und
+geschlechtsbezogene Anpassung der Versichertentage je Risikomerkmal
+nach § 29 Nummer 1 berücksichtigt. Ist die Häufigkeit der
+Risikomerkmale nach § 29 Nummer 1 von der Vorjahresmeldung nach Satz 1
+zur geprüften Datenmeldung bei allen Krankenkassen im Durchschnitt
+zurückgegangen, wird bei diesen Risikomerkmalen die Anzahl der
+Versichertentage bei der betroffenen Krankenkasse entsprechend
+angepasst; die Anpassung kann alters- und geschlechtsbezogen erfolgen.
 
-(5) Das Nähere zu den Regressionsverfahren nach den Absätzen 3 und 4
-einschließlich der Festlegung des Schwellenwerts nach Absatz 3 Satz 3
-sowie der Berücksichtigung des Umfangs des Verstoßes nach § 273 Absatz
-4 Satz 1 und 2 bestimmt das Bundesversicherungsamt im Benehmen mit dem
-Spitzenverband Bund der Krankenkassen. Dabei können auch weitere oder
-andere als die in Absatz 3 Satz 1 genannten Merkmale in das
-Regressionsverfahren eingefügt werden, um eine möglichst hohe
-Genauigkeit der Schätzung zu erreichen.
+(5) Der Korrekturbetrag bei einer Erstmeldung beträgt 10 Prozent des
+Differenzbetrags nach Absatz 2 Satz 3. Der Korrekturbetrag bei einer
+Korrekturmeldung ergibt sich, indem zusätzlich zum Differenzbetrag
+nach Absatz 2 Satz 4 ein Aufschlag in Höhe von 25 Prozent des
+Differenzbetrags erhoben wird. § 39 Absatz 3a Satz 3 bis 6 gilt
+entsprechend. Die Einnahmen nach diesem Absatz und die Zinserträge
+fließen in den Gesundheitsfonds und werden im nächsten Jahresausgleich
+zu dem Wert nach § 41 Absatz 2 Nummer 1 hinzugerechnet.
+
+(6) Das Nähere zum Verfahren nach Absatz 4 bestimmt das
+Bundesversicherungsamt im Benehmen mit dem Spitzenverband Bund der
+Krankenkassen.
 
 
 ### § 40 Mitgliederbezogene Veränderung der Zuweisungen
@@ -2827,39 +2876,45 @@ Genauigkeit der Schätzung zu erreichen.
 (1) Das Bundesversicherungsamt ermittelt für jede Krankenkasse im
 Voraus für ein Ausgleichsjahr auf der Grundlage der für die Festlegung
 des durchschnittlichen Zusatzbeitrags nach § 242a des Fünften Buches
-Sozialgesetzbuch maßgeblichen Werte wie folgt den Betrag, um den die
-monatlichen Zuweisungen für jede Krankenkasse zu verändern sind:
+Sozialgesetzbuch maßgeblichen Werte den Betrag, um den die monatlichen
+Zuweisungen für jede Krankenkasse zu verändern sind, indem es
 
-1.  Die Höhe der voraussichtlichen jährlichen Einnahmen des
-    Gesundheitsfonds nach § 271 Abs. 1 des Fünften Buches Sozialgesetzbuch
-    ist um die für den Aufbau der Liquiditätsreserve nach § 271 Abs. 2 des
-    Fünften Buches Sozialgesetzbuch vorgesehenen Einnahmen, die Ausgaben
-    nach § 39 Abs. 5, die Kosten nach § 28q Absatz 1a des Vierten Buches
-    Sozialgesetzbuch sowie die nach § 137g Abs. 1 Satz 11 des Fünften
-    Buches Sozialgesetzbuch für die Zulassung strukturierter
-    Behandlungsprogramme entstehenden Vorhaltekosten zu bereinigen;
+1.  die Höhe der voraussichtlichen jährlichen Einnahmen des
+    Gesundheitsfonds nach § 271 Absatz 1 des Fünften Buches
+    Sozialgesetzbuch um die für den Aufbau der Liquiditätsreserve nach §
+    271 Absatz 2 des Fünften Buches Sozialgesetzbuch vorgesehenen
+    Einnahmen, die Ausgaben nach § 39 Absatz 5, die Kosten nach § 28q
+    Absatz 1a des Vierten Buches Sozialgesetzbuch sowie die nach § 137g
+    Absatz 1 Satz 10 des Fünften Buches Sozialgesetzbuch für die Zulassung
+    strukturierter Behandlungsprogramme entstehenden Vorhaltekosten
+    bereinigt,
 
 
-2.  von dem Wert nach Nummer 1 ist die Höhe der voraussichtlichen
-    standardisierten Leistungsausgaben nach § 266 Abs. 2 Satz 1 des
+2.  von dem Wert nach Nummer 1 die Höhe der voraussichtlichen
+    standardisierten Leistungsausgaben nach § 266 Absatz 2 Satz 1 des
     Fünften Buches Sozialgesetzbuch zuzüglich der Höhe der
     voraussichtlichen standardisierten sonstigen Ausgaben nach § 270 des
     Fünften Buches Sozialgesetzbuch aller Krankenkassen, bereinigt um die
     auf standardisierte Leistungsausgaben sowie Verwaltungskosten
     entfallenden Anteile der Zuweisungen nach § 38, sofern diese
-    Zuweisungen entsprechende Anteile enthalten, abzuziehen;
+    Zuweisungen entsprechende Anteile enthalten, abzieht,
 
 
-3.  das Ergebnis nach Nummer 2 ist durch die voraussichtliche
-    jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen,
-    verringert um die Mitglieder nach § 242 Absatz 5 des Fünften Buches
-    Sozialgesetzbuch und die Zahl 12 zu teilen;
-
-
-4.  das Ergebnis nach Nummer 3 ist für jede Krankenkasse mit der um die
+3.  bei einem negativen Ergebnis nach Nummer 2 das Ergebnis nach Nummer 2
+    durch die voraussichtliche jahresdurchschnittliche Zahl der Mitglieder
+    aller Krankenkassen, verringert um die Anzahl der Mitglieder nach §
+    242 Absatz 5 des Fünften Buches Sozialgesetzbuch, und durch die Zahl
+    12 teilt und für jede Krankenkasse mit der um die Anzahl der
     Mitglieder nach § 242 Absatz 5 des Fünften Buches Sozialgesetzbuch
     verringerten Zahl ihrer Mitglieder, die zum Ersten eines Monats in der
-    Monatsstatistik des Vorvormonats gemeldet ist, zu vervielfachen.
+    Monatsstatistik des Vorvormonats gemeldet ist, vervielfacht,
+
+
+4.  anderenfalls das Ergebnis nach Nummer 2 durch die voraussichtliche
+    jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen und
+    die Zahl 12 teilt und für jede Krankenkasse mit der Zahl ihrer
+    Mitglieder, die zum Ersten eines Monats in der Monatsstatistik des
+    Vorvormonats gemeldet ist, vervielfacht.
 
 
 
@@ -2881,52 +2936,52 @@ ermittelten Betrag in geeigneter Form bekannt.
 (1) Das Bundesversicherungsamt ermittelt nach Vorliegen der Geschäfts-
 und Rechnungsergebnisse aller am monatlichen Ausgleich teilnehmenden
 Krankenkassen für das jeweilige abgelaufene Kalenderjahr
-(Ausgleichsjahr) folgende Zahlen neu:
+(Ausgleichsjahr)
 
-1.  Die alters-, geschlechts- und risikoadjustierten Zu- und Abschläge;
-
-
-2.  die Werte nach § 37 Abs. 1 Satz 2 Nr. 2 und 3 sowie Abs. 4 Satz 2 Nr.
-    2;
+1.  die alters-, geschlechts- und risikoadjustierten Zu- und Abschläge,
 
 
-3.  die Erhöhung der Zuweisungen nach § 33c Abs. 2.
+2.  die Werte nach § 37 Absatz 1 Satz 2 Nummer 2 und 3 sowie Absatz 4 Satz
+    2 Nummer 2 und
+
+
+3.  die Erhöhung der Zuweisungen nach § 33c Absatz 2
 
 
 
-§ 37 Absatz 1 Satz 3 gilt entsprechend.
+neu. § 37 Absatz 1 Satz 3 gilt entsprechend.
 
-(2) Das Bundesversicherungsamt ermittelt für jede Krankenkasse wie
-folgt den Betrag, um den die Zuweisungen für jede Krankenkasse im
-Jahresausgleich nach Absatz 3 zu verändern sind:
+(2) Das Bundesversicherungsamt ermittelt für jede Krankenkasse den
+Betrag, um den die Zuweisungen für jede Krankenkasse im
+Jahresausgleich nach Absatz 3 zu verändern sind, indem es
 
-1.  Von dem Wert nach § 40 Abs. 1 Nr. 1 ist die Höhe der standardisierten
-    Leistungsausgaben nach § 266 Abs. 2 Satz 1 des Fünften Buches
+1.  von dem Wert nach § 40 Absatz 1 Nummer 1 die Höhe der standardisierten
+    Leistungsausgaben nach § 266 Absatz 2 Satz 1 des Fünften Buches
     Sozialgesetzbuch zuzüglich der Höhe der standardisierten sonstigen
     Ausgaben nach § 270 des Fünften Buches Sozialgesetzbuch der
     Krankenkassen, bereinigt um die auf standardisierte Leistungsausgaben
     sowie Verwaltungskosten entfallenden Anteile der Zuweisungen nach §
-    38, sofern diese Zuweisungen entsprechende Anteile enthalten,
-    abzuziehen;
+    38, sofern diese Zuweisungen entsprechende Anteile enthalten, abzieht,
 
 
-2.  das Ergebnis nach Nummer 1 ist durch die jahresdurchschnittliche Zahl
-    der Mitglieder aller Krankenkassen zu teilen; ab dem Jahresausgleich
-    für das Jahr 2011 ist das Ergebnis nach Nummer 1 durch die
-    jahresdurchschnittliche, um die Mitglieder nach § 242 Absatz 5 des
-    Fünften Buches Sozialgesetzbuch verringerte Zahl der Mitglieder aller
-    Krankenkassen zu teilen;
-
-
-3.  das Ergebnis nach Nummer 2 ist für jede Krankenkasse mit der
-    jahresdurchschnittlichen Zahl ihrer Mitglieder zu vervielfachen; ab
-    dem Jahresausgleich für das Jahr 2011 ist das Ergebnis nach Nummer 2
-    für jede Krankenkasse mit der jahresdurchschnittlichen, um die
+2.  bei einem negativen Ergebnis nach Nummer 1 das Ergebnis nach Nummer 1
+    durch die jahresdurchschnittliche Zahl der Mitglieder aller
+    Krankenkassen, verringert um die Anzahl der Mitglieder nach § 242
+    Absatz 5 des Fünften Buches Sozialgesetzbuch, teilt und für jede
+    Krankenkasse mit der jahresdurchschnittlichen, um die Anzahl der
     Mitglieder nach § 242 Absatz 5 des Fünften Buches Sozialgesetzbuch
-    verringerten Zahl ihrer Mitglieder zu vervielfachen.
+    verringerten Zahl ihrer Mitglieder vervielfacht,
+
+
+3.  anderenfalls das Ergebnis nach Nummer 1 durch die
+    jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen teilt
+    und für jede Krankenkasse mit der jahresdurchschnittlichen Zahl ihrer
+    Mitglieder vervielfacht.
 
 
 
+Im Jahresausgleich für das Jahr 2011 ist Absatz 2 in der am 3. August
+2011 geltenden Fassung zugrunde zu legen.
 
 (3) Das Bundesversicherungsamt berechnet auf der Grundlage der nach
 den Absätzen 1 und 2 ermittelten Zahlen sowie der Grundpauschalen nach
@@ -2937,8 +2992,7 @@ vereinigt worden sind, ist eine gemeinsame Berechnung vorzunehmen. Für
 Krankenkassen, die in dem auf das Ausgleichsjahr folgenden Jahr
 miteinander vereinigt worden sind, kann das Bundesversicherungsamt im
 Einvernehmen mit dem Spitzenverband Bund der Krankenkassen eine
-gemeinsame Berechnung vornehmen. § 39 Absatz 3 Satz 6 gilt
-entsprechend.
+gemeinsame Berechnung vornehmen.
 
 (4) Das Bundesversicherungsamt gibt die nach den Absätzen 1 und 2 Nr.
 2 ermittelten Werte in geeigneter Weise bekannt und teilt den
@@ -2962,7 +3016,101 @@ nachweislich die Zahlungsfähigkeit der Krankenkasse gefährdet wäre. §
 39 Absatz 3a Satz 6 gilt nicht.
 
 (5) Der Jahresausgleich ist bis zum Ende des auf das Ausgleichsjahr
-folgenden Kalenderjahres durchzuführen.
+folgenden Jahres durchzuführen und im nächsten Jahresausgleich auf
+Grundlage der Datenmeldung nach § 30 Absatz 4 Satz 2 zweiter Halbsatz
+zu korrigieren. Das Nähere zum Verfahren bestimmt das
+Bundesversicherungsamt nach Anhörung des Spitzenverbandes Bund der
+Krankenkassen.
+
+
+### § 42 Prüfung der Datenmeldungen
+
+(1) Die mit der Prüfung nach § 274 des Fünften Buches Sozialgesetzbuch
+befassten Stellen haben bei den Krankenkassen in ihrem
+Zuständigkeitsbereich mindestens alle zwei Jahre folgende Daten,
+jeweils bezogen auf eines der beiden zuletzt nach § 41 abgeschlossenen
+und korrigierten Ausgleichsjahre, auf deren Richtigkeit zu prüfen:
+
+1.  die Angaben nach § 30 Absatz 1 Satz 1 Nummer 1, 2 und 11 aus der
+    Datenmeldung nach § 30 Absatz 4 Satz 2 zweiter Halbsatz und die nach §
+    38 Absatz 2 gemeldeten Daten,
+
+
+2.  die Angaben nach § 30 Absatz 1 Satz 1 Nummer 3 bis 6 aus der
+    Datenmeldung nach § 30 Absatz 4 Satz 2 erster Halbsatz und die Angaben
+    nach § 30 Absatz 1 Satz 1 Nummer 2, 8 und 9 aus der Datenmeldung nach
+    § 30 Absatz 4 Satz 2 zweiter Halbsatz.
+
+
+
+Die Stellen nach Satz 1 können im Einvernehmen mit dem
+Bundesversicherungsamt festlegen, dass sie die Prüfungen nach Satz 1
+Nummer 1 und 2 jeweils jährlich durchführen.
+
+(2) Für die Prüfungen nach Absatz 1 Satz 1 legt das
+Bundesversicherungsamt nach Anhörung des Spitzenverbandes Bund der
+Krankenkassen und der Stellen nach Absatz 1 Satz 1 für den jeweiligen
+Prüfzyklus die Stichprobenmethodik und insbesondere das jeweilige
+Verfahren zur Bestimmung eines angemessenen Stichprobenumfangs fest
+und bestimmt das Nähere über die Anforderungen an die Erhebung der
+Stichproben. Das Bundesversicherungsamt zieht die Stichproben für die
+jeweilige Prüfung und stellt den Stellen nach Absatz 1 Satz 1 die
+Liste der gezogenen Stichproben in pseudonymisierter Form zur
+Verfügung. Im Einvernehmen mit den Stellen nach Absatz 1 Satz 1 legt
+das Bundesversicherungsamt fest, welche der ihm vorliegenden Daten
+nach § 30 Absatz 1 Satz 1 es darüber hinaus für die Stichprobenprüfung
+den Stellen nach Absatz 1 Satz 1 für die jeweilige Prüfung zur
+Verfügung stellt.
+
+(3) Das Bundesversicherungsamt bestimmt nach Anhörung des
+Spitzenverbandes Bund der Krankenkassen und der Stellen nach Absatz 1
+Satz 1 das Nähere zu Art, Umfang und Aufbereitungsform der Daten und
+Belege, die die Krankenkassen den Stellen nach Absatz 1 Satz 1 zu
+übermitteln haben. Die Stellen nach Absatz 1 Satz 1 teilen dem
+Bundesversicherungsamt, der Krankenkasse und dem Spitzenverband Bund
+der Krankenkassen unverzüglich das Ergebnis ihrer Prüfungen mit. Das
+Nähere zur Mitteilung der Prüfergebnisse bestimmt das
+Bundesversicherungsamt nach Anhörung der Stellen nach Absatz 1 Satz 1.
+
+(4) Für die Richtigkeit der nach § 38 Absatz 2 gemeldeten Daten ist zu
+prüfen, ob die für die Berücksichtigung der Versichertenzeiten
+maßgeblichen Voraussetzungen des § 3 Absatz 3 Satz 7 und 8
+hinsichtlich der Teilnahme an einem nach § 137g des Fünften Buches
+Sozialgesetzbuch zugelassenen strukturierten Behandlungsprogramm
+vorliegen. Für die Prüfung, ob die Voraussetzungen nach Satz 1
+vorliegen, sind die Meldungen des jeweiligen Ausgleichsjahres zu
+prüfen; zu berücksichtigen sind dabei die den Meldungen zugrunde
+liegenden Unterlagen des Ausgleichsjahres, des diesem vorangegangenen
+und des diesem nachfolgenden Kalenderjahres.
+
+(5) Das Bundesversicherungsamt rechnet die bei den Prüfungen nach
+Absatz 1 Satz 1 jeweils festgestellten fehlerhaften oder nicht
+plausiblen Fälle auf die der jeweiligen Stichprobe zugrunde liegende
+Grundgesamtheit hoch. Das Bundesversicherungsamt bestimmt das jeweils
+anzuwendende Hochrechnungsverfahren im Benehmen mit dem Spitzenverband
+Bund der Krankenkassen. Hierbei kann es auch bestimmen, dass die
+Hochrechnung nur erfolgt, wenn die fehlerhaften oder nicht plausiblen
+Fälle eine bestimmte Quote überschreiten.
+
+(6) Die erstmalige Festlegung nach Absatz 2 und die erstmalige
+Bestimmung nach Absatz 5 erfolgen auf der Grundlage eines
+wissenschaftlichen Gutachtens. Das Bundesversicherungsamt beauftragt
+eine Person oder Personengruppe, die über besonderen Sachverstand in
+Bezug auf statistische Verfahren und Kenntnisse der
+Versichertenklassifikation nach § 31 Absatz 4 verfügt. Das Gutachten
+soll insbesondere Vorschläge für die Stichprobenmethodik nach Absatz
+2, für die Sicherstellung der Stichprobengüte, für ein
+Hochrechnungsverfahren nach Absatz 5 sowie für eine Weiterentwicklung
+dieser Verfahren in den nachfolgenden Prüfzyklen unterbreiten. Vor
+Fertigstellung des Gutachtens sind der Spitzenverband Bund der
+Krankenkassen und die Stellen nach Absatz 1 Satz 1 anzuhören.
+
+(7) Das Bundesversicherungsamt ermittelt auf Grund der jeweiligen
+Hochrechnung nach Absatz 5 den Korrekturbetrag und macht diesen durch
+Bescheid geltend. § 39 Absatz 3a Satz 3 bis 6 gilt entsprechend. Die
+Einnahmen nach diesem Absatz und die Zinserträge fließen in den
+Gesundheitsfonds und werden im nächsten Jahresausgleich zu dem Wert
+nach § 41 Absatz 2 Nummer 1 hinzugerechnet.
 
 
 ### (XXXX) Anlagen 1 bis 12 (weggefallen)

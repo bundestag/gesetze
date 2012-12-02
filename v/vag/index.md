@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.12.1992; 1993 I 2;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 15.3.2012 I 462
+:   Art. 15 G v. 23.10.2012 I 2246
 
 
 ## I. - Einleitende Vorschriften
