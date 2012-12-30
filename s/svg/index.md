@@ -5738,7 +5738,8 @@ oder nicht rechtzeitig macht.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist das Kreiswehrersatzamt.
+Gesetzes über Ordnungswidrigkeiten ist das Karrierecenter der
+Bundeswehr.
 
 
 ### 4. - Erlass von Verwaltungsvorschriften
