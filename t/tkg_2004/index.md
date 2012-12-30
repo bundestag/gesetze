@@ -3402,7 +3402,8 @@ dem Teilnehmer nicht unterbrochen wird, bevor die vertraglichen und
 technischen Voraussetzungen für einen Anbieterwechsel vorliegen, es
 sei denn, der Teilnehmer verlangt dieses. Bei einem Anbieterwechsel
 darf der Dienst des Teilnehmers nicht länger als einen Kalendertag
-unterbrochen werden.
+unterbrochen werden. Schlägt der Wechsel innerhalb dieser Frist fehl,
+gilt Satz 1 entsprechend.
 
 (2) Das abgebende Unternehmen hat ab Beendigung der vertraglich
 vereinbarten Leistung bis zum Ende der Leistungspflicht nach Absatz 1
