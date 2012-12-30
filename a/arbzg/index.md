@@ -756,7 +756,7 @@ vom Arbeitgeber verlangen, die Arbeitszeitnachweise und Tarifverträge
 oder Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Abs. 1 bis
 3, §§ 12 und 21a Abs. 6 vorzulegen oder zur Einsicht einzusenden.
 
-(5) Die Beauftragen der Aufsichtsbehörde sind berechtigt, die
+(5) Die Beauftragten der Aufsichtsbehörde sind berechtigt, die
 Arbeitsstätten während der Betriebs- und Arbeitszeit zu betreten und
 zu besichtigen; außerhalb dieser Zeit oder wenn sich die
 Arbeitsstätten in einer Wohnung befinden, dürfen sie ohne
