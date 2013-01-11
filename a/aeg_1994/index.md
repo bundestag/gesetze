@@ -885,9 +885,9 @@ arbeitsrechtlichen, sozialrechtlichen oder steuerrechtlichen
 Verpflichtungen erfüllt werden. Die Finanzbehörden dürfen den
 Genehmigungsbehörden Mitteilung über die wiederholte Nichterfüllung
 der steuerrechtlichen Verpflichtungen oder die Abgabe der
-eidesstattlichen Versicherung nach § 284 der Abgabenordnung machen.
-Die Mitteilung der Finanzbehörden darf nur für Zwecke eines
-Widerrufsverfahrens verwendet werden.
+Vermögensauskunft nach § 284 der Abgabenordnung machen. Die Mitteilung
+der Finanzbehörden darf nur für Zwecke eines Widerrufsverfahrens
+verwendet werden.
 
 (3) (weggefallen)
 
