@@ -19,6 +19,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 16.12.2011 I 2733
 
+Änderung durch
+:   Art. 1 V v. 19.12.2012 I 2715 (Nr. 60) nicht nicht berücksichtigt
+
 [^f772147_01_BJNR138900009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/68/EG des
     Europäischen Parlaments und des Rates vom 24. September 2008 über die
     Beförderung gefährlicher Güter im Binnenland (ABl. L 260 vom
