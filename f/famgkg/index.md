@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2666
 
 Zuletzt geändert durch
-:   Art. 7a G v. 21.7.2012 I 1577
+:   Art. 10 G v. 5.12.2012 I 2418
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -3106,7 +3106,7 @@ Gehör**
 *    *   2008
 
     *   Kosten einer Zwangshaft, auch aufgrund eines Haftbefehls in
-        entsprechender Anwendung des § 901 ZPO ..........
+        entsprechender Anwendung des § 802g ZPO ..........
         Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht
         von einem Gefangenen zu erheben ist.
 
