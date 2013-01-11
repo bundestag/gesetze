@@ -8656,122 +8656,169 @@ Erwerber wegen eines Mangels im Recht oder wegen eines Mangels der
 veräußerten Sache ein Anspruch auf Gewährleistung nicht zu.
 
 
-###### § 284 Eidesstattliche Versicherung
+###### § 284 Vermögensauskunft des Vollstreckungsschuldners
 
-(1) Der Vollstreckungsschuldner hat der Vollstreckungsbehörde auf
-Verlangen ein Verzeichnis seines Vermögens vorzulegen und für seine
-Forderungen den Grund und die Beweismittel zu bezeichnen, wenn
+(1) Der Vollstreckungsschuldner muss der Vollstreckungsbehörde auf
+deren Verlangen für die Vollstreckung einer Forderung Auskunft über
+sein Vermögen nach Maßgabe der folgenden Vorschriften erteilen, wenn
+er die Forderung nicht binnen zwei Wochen begleicht, nachdem ihn die
+Vollstreckungsbehörde unter Hinweis auf die Verpflichtung zur Abgabe
+der Vermögensauskunft zur Zahlung aufgefordert hat. Zusätzlich hat er
+seinen Geburtsnamen, sein Geburtsdatum und seinen Geburtsort
+anzugeben. Handelt es sich bei dem Vollstreckungsschuldner um eine
+juristische Person oder um eine Personenvereinigung, so hat er seine
+Firma, die Nummer des Registerblatts im Handelsregister und seinen
+Sitz anzugeben.
 
-1.  die Vollstreckung in das bewegliche Vermögen nicht zu einer
-    vollständigen Befriedigung geführt hat,
+(2) Zur Auskunftserteilung hat der Vollstreckungsschuldner alle ihm
+gehörenden Vermögensgegenstände anzugeben. Bei Forderungen sind Grund
+und Beweismittel zu bezeichnen. Ferner sind anzugeben:
 
-
-2.  anzunehmen ist, dass durch die Vollstreckung in das bewegliche
-    Vermögen eine vollständige Befriedigung nicht zu erlangen sein wird,
-
-
-3.  der Vollstreckungsschuldner die Durchsuchung (§ 287) verweigert hat
-    oder
-
-
-4.  der Vollziehungsbeamte den Vollstreckungsschuldner wiederholt in
-    seinen Wohn- und Geschäftsräumen nicht angetroffen hat, nachdem er
-    einmal die Vollstreckung mindestens zwei Wochen vorher angekündigt
-    hatte; dies gilt nicht, wenn der Vollstreckungsschuldner seine
-    Abwesenheit genügend entschuldigt und den Grund glaubhaft macht.
-
+1.  die entgeltlichen Veräußerungen des Vollstreckungsschuldners an eine
+    nahestehende Person (§ 138 der Insolvenzordnung), die dieser in den
+    letzten zwei Jahren vor dem Termin nach Absatz 7 und bis zur Abgabe
+    der Vermögensauskunft vorgenommen hat;
 
 
-
-(2) Aus dem Vermögensverzeichnis müssen auch ersichtlich sein
-
-1.  die in den letzten zwei Jahren vor dem ersten zur Abgabe der
-    eidesstattlichen Versicherung anberaumten Termin vorgenommenen
-    entgeltlichen Veräußerungen des Schuldners an eine nahestehende Person
-    (§ 138 der Insolvenzordnung);
-
-
-2.  die in den letzten vier Jahren vor dem ersten zur Abgabe der
-    eidesstattlichen Versicherung anberaumten Termin von dem Schuldner
-    vorgenommenen unentgeltlichen Leistungen, sofern sie sich nicht auf
-    gebräuchliche Gelegenheitsgeschenke geringen Werts richteten.
+2.  die unentgeltlichen Leistungen des Vollstreckungsschuldners, die
+    dieser in den letzten vier Jahren vor dem Termin nach Absatz 7 und bis
+    zur Abgabe der Vermögensauskunft vorgenommen hat, sofern sie sich
+    nicht auf gebräuchliche Gelegenheitsgeschenke geringen Werts
+    richteten.
 
 
 
-Sachen, die nach § 811 Abs. 1 Nr. 1, 2 der Zivilprozessordnung der
-Pfändung offensichtlich nicht unterworfen sind, brauchen in dem
-Vermögensverzeichnis nicht angegeben zu werden, es sei denn, dass eine
-Austauschpfändung in Betracht kommt.
+Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Zivilprozessordnung der
+Pfändung offensichtlich nicht unterworfen sind, brauchen nicht
+angegeben zu werden, es sei denn, dass eine Austauschpfändung in
+Betracht kommt.
 
 (3) Der Vollstreckungsschuldner hat zu Protokoll an Eides statt zu
-versichern, dass er die von ihm verlangten Angaben nach bestem Wissen
-und Gewissen richtig und vollständig gemacht habe. Die
-Vollstreckungsbehörde kann von der Abnahme der eidesstattlichen
-Versicherung absehen.
+versichern, dass er die Angaben nach den Absätzen 1 und 2 nach bestem
+Wissen und Gewissen richtig und vollständig gemacht habe. Vor Abnahme
+der eidesstattlichen Versicherung ist der Vollstreckungsschuldner über
+die Bedeutung der eidesstattlichen Versicherung, insbesondere über die
+strafrechtlichen Folgen einer unrichtigen oder unvollständigen
+eidesstattlichen Versicherung, zu belehren.
 
 (4) Ein Vollstreckungsschuldner, der die in dieser Vorschrift oder die
-in § 807 der Zivilprozessordnung bezeichnete eidesstattliche
-Versicherung abgegeben hat, ist, wenn die Abgabe der eidesstattlichen
-Versicherung in dem Schuldnerverzeichnis (§ 915 der
-Zivilprozessordnung) noch nicht gelöscht ist, in den ersten drei
-Jahren nach ihrer Abgabe zur nochmaligen eidesstattlichen Versicherung
-nur verpflichtet, wenn anzunehmen ist, dass er später Vermögen
-erworben hat oder dass ein bisher bestehendes Arbeitsverhältnis mit
-ihm aufgelöst worden ist. Der in Absatz 1 genannten Voraussetzungen
-bedarf es nicht. Die Vollstreckungsbehörde hat von Amts wegen
-festzustellen, ob im Schuldnerverzeichnis eine Eintragung darüber
-besteht, dass der Vollstreckungsschuldner innerhalb der letzten drei
-Jahre eine eidesstattliche Versicherung abgegeben hat.
+in § 802c der Zivilprozessordnung bezeichnete Vermögensauskunft
+innerhalb der letzten zwei Jahre abgegeben hat, ist zur erneuten
+Abgabe nur verpflichtet, wenn anzunehmen ist, dass sich seine
+Vermögensverhältnisse wesentlich geändert haben. Die
+Vollstreckungsbehörde hat von Amts wegen festzustellen, ob beim
+zentralen Vollstreckungsgericht nach § 802k Abs. 1 der
+Zivilprozessordnung in den letzten zwei Jahren ein auf Grund einer
+Vermögensauskunft des Schuldners erstelltes Vermögensverzeichnis
+hinterlegt wurde.
 
-(5) Für die Abnahme der eidesstattlichen Versicherung ist die
+(5) Für die Abnahme der Vermögensauskunft ist die
 Vollstreckungsbehörde zuständig, in deren Bezirk sich der Wohnsitz
-oder Aufenthaltsort des Vollstreckungsschuldners befindet. Liegen
+oder der Aufenthaltsort des Vollstreckungsschuldners befindet. Liegen
 diese Voraussetzungen bei der Vollstreckungsbehörde, die die
-Vollstreckung betreibt, nicht vor, so kann sie die eidesstattliche
-Versicherung abnehmen, wenn der Vollstreckungsschuldner zu ihrer
-Abgabe bereit ist.
+Vollstreckung betreibt, nicht vor, so kann sie die Vermögensauskunft
+abnehmen, wenn der Vollstreckungsschuldner zu ihrer Abgabe bereit ist.
 
-(6) Die Ladung zu dem Termin zur Abgabe der eidesstattlichen
-Versicherung ist dem Vollstreckungsschuldner selbst zuzustellen. Wird
-gegen die Anordnung der Abgabe der eidesstattlichen Versicherung ein
-Rechtsbehelf eingelegt und begründet, ist der Vollstreckungsschuldner
-erst nach Unanfechtbarkeit der Entscheidung über den Rechtsbehelf zur
-Abgabe der eidesstattlichen Versicherung verpflichtet. Dies gilt
-nicht, wenn und soweit die Einwendungen bereits in einem früheren
-Verfahren unanfechtbar zurückgewiesen worden sind.
+(6) Die Ladung zu dem Termin zur Abgabe der Vermögensauskunft ist dem
+Vollstreckungsschuldner selbst zuzustellen; sie kann mit der
+Fristsetzung nach Absatz 1 Satz 1 verbunden werden. Der Termin zur
+Abgabe der Vermögensauskunft soll nicht vor Ablauf eines Monats nach
+Zustellung der Ladung bestimmt werden. Ein Rechtsbehelf gegen die
+Anordnung der Abgabe der Vermögensauskunft hat keine aufschiebende
+Wirkung. Der Vollstreckungsschuldner hat die zur Vermögensauskunft
+erforderlichen Unterlagen im Termin vorzulegen. Hierüber und über
+seine Rechte und Pflichten nach den Absätzen 2 und 3, über die Folgen
+einer unentschuldigten Terminssäumnis oder einer Verletzung seiner
+Auskunftspflichten sowie über die Möglichkeit der Eintragung in das
+Schuldnerverzeichnis bei Abgabe der Vermögensauskunft ist der
+Vollstreckungsschuldner bei der Ladung zu belehren.
 
-(7) Nach der Abgabe der eidesstattlichen Versicherung hat die
-Vollstreckungsbehörde dem nach § 899 Abs. 1 der Zivilprozessordnung
-zuständigen Amtsgericht Namen, Vornamen, Geburtstag und Anschrift des
-Vollstreckungsschuldners sowie den Tag der Abgabe der eidesstattlichen
-Versicherung zur Aufnahme in das Schuldnerverzeichnis mitzuteilen und
-eine beglaubigte Abschrift des Vermögensverzeichnisses zu übersenden.
-Die §§ 915a bis 915h der Zivilprozessordnung sind anzuwenden.
+(7) Im Termin zur Abgabe der Vermögensauskunft erstellt die
+Vollstreckungsbehörde ein elektronisches Dokument mit den nach den
+Absätzen 1 und 2 erforderlichen Angaben (Vermögensverzeichnis). Diese
+Angaben sind dem Vollstreckungsschuldner vor Abgabe der Versicherung
+nach Absatz 3 vorzulesen oder zur Durchsicht auf einem Bildschirm
+wiederzugeben. Ihm ist auf Verlangen ein Ausdruck zu erteilen. Die
+Vollstreckungsbehörde hinterlegt das Vermögensverzeichnis bei dem
+zentralen Vollstreckungsgericht nach § 802k Abs. 1 der
+Zivilprozessordnung. Form, Aufnahme und Übermittlung des
+Vermögensverzeichnisses haben den Vorgaben der Verordnung nach § 802k
+Abs. 4 der Zivilprozessordnung zu entsprechen.
 
 (8) Ist der Vollstreckungsschuldner ohne ausreichende Entschuldigung
-in dem zur Abgabe der eidesstattlichen Versicherung anberaumten Termin
-vor der in Absatz 5 Satz 1 bezeichneten Vollstreckungsbehörde nicht
-erschienen oder verweigert er ohne Grund die Vorlage des
-Vermögensverzeichnisses oder die Abgabe der eidesstattlichen
-Versicherung, so kann die Vollstreckungsbehörde, die die Vollstreckung
-betreibt, das nach § 899 Abs. 1 der Zivilprozessordnung zuständige
-Amtsgericht um Anordnung der Haft zur Erzwingung der eidesstattlichen
-Versicherung ersuchen. Die §§ 901, 902, 904 bis 906, 909 Abs. 1 Satz
-2, Abs. 2, §§ 910 und 913 bis 915h der Zivilprozessordnung sind
-sinngemäß anzuwenden. Die Verhaftung des Vollstreckungsschuldners
-erfolgt durch einen Gerichtsvollzieher. § 292 gilt sinngemäß. Nach der
-Verhaftung des Vollstreckungsschuldners kann die eidesstattliche
-Versicherung von dem nach § 902 der Zivilprozessordnung zuständigen
-Gerichtsvollzieher abgenommen werden, wenn sich der Sitz der in Absatz
-5 bezeichneten Vollstreckungsbehörde nicht im Bezirk des für den
-Gerichtsvollzieher zuständigen Amtsgerichts befindet oder wenn die
-Abnahme der eidesstattlichen Versicherung durch die
-Vollstreckungsbehörde nicht möglich ist. Absatz 3 Satz 2 gilt
-entsprechend.
+in dem zur Abgabe der Vermögensauskunft anberaumten Termin vor der in
+Absatz 5 Satz 1 bezeichneten Vollstreckungsbehörde nicht erschienen
+oder verweigert er ohne Grund die Abgabe der Vermögensauskunft, so
+kann die Vollstreckungsbehörde, die die Vollstreckung betreibt, die
+Anordnung der Haft zur Erzwingung der Abgabe beantragen. Zuständig für
+die Anordnung der Haft ist das Amtsgericht, in dessen Bezirk der
+Vollstreckungsschuldner im Zeitpunkt der Fristsetzung nach Absatz 1
+Satz 1 seinen Wohnsitz oder in Ermangelung eines solchen seinen
+Aufenthaltsort hat. Die §§ 802g bis 802j der Zivilprozessordnung sind
+entsprechend anzuwenden. Die Verhaftung des Vollstreckungsschuldners
+erfolgt durch einen Gerichtsvollzieher. § 292 dieses Gesetzes gilt
+entsprechend. Nach der Verhaftung des Vollstreckungsschuldners kann
+die Vermögensauskunft von dem nach § 802i der Zivilprozessordnung
+zuständigen Gerichtsvollzieher abgenommen werden, wenn sich der Sitz
+der in Absatz 5 bezeichneten Vollstreckungsbehörde nicht im Bezirk des
+für den Gerichtsvollzieher zuständigen Amtsgerichts befindet oder wenn
+die Abnahme der Vermögensauskunft durch die Vollstreckungsbehörde
+nicht möglich ist. Der Beschluss des Amtsgerichts, mit dem der Antrag
+der Vollstreckungsbehörde auf Anordnung der Haft abgelehnt wird,
+unterliegt der Beschwerde nach den §§ 567 bis 577 der
+Zivilprozessordnung.
 
-(9) Der Beschluss des Amtsgerichts, der das Ersuchen der
-Vollstreckungsbehörde um Anordnung der Haft ablehnt, unterliegt der
-Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung.
+(9) Die Vollstreckungsbehörde kann die Eintragung des
+Vollstreckungsschuldners in das Schuldnerverzeichnis nach § 882h Abs.
+1 der Zivilprozessordnung anordnen, wenn
+
+1.  der Vollstreckungsschuldner seiner Pflicht zur Abgabe der
+    Vermögensauskunft nicht nachgekommen ist,
+
+
+2.  eine Vollstreckung nach dem Inhalt des Vermögensverzeichnisses
+    offensichtlich nicht geeignet wäre, zu einer vollständigen
+    Befriedigung der Forderung zu führen, wegen der die Vermögensauskunft
+    verlangt wurde oder wegen der die Vollstreckungsbehörde vorbehaltlich
+    der Fristsetzung nach Absatz 1 Satz 1 und der Sperrwirkung nach Absatz
+    4 eine Vermögensauskunft verlangen könnte, oder
+
+
+3.  der Vollstreckungsschuldner nicht innerhalb eines Monats nach Abgabe
+    der Vermögensauskunft die Forderung, wegen der die Vermögensauskunft
+    verlangt wurde, vollständig befriedigt. Gleiches gilt, wenn die
+    Vollstreckungsbehörde vorbehaltlich der Fristsetzung nach Absatz 1
+    Satz 1 und der Sperrwirkung nach Absatz 4 eine Vermögensauskunft
+    verlangen kann, sofern der Vollstreckungsschuldner die Forderung nicht
+    innerhalb eines Monats befriedigt, nachdem er auf die Möglichkeit der
+    Eintragung in das Schuldnerverzeichnis hingewiesen wurde.
+
+
+
+Die Eintragungsanordnung soll kurz begründet werden. Sie ist dem
+Vollstreckungsschuldner zuzustellen. § 882c Abs. 3 der
+Zivilprozessordnung gilt entsprechend.
+
+(10) Ein Rechtsbehelf gegen die Eintragungsanordnung nach Absatz 9 hat
+keine aufschiebende Wirkung. Nach Ablauf eines Monats seit der
+Zustellung hat die Vollstreckungsbehörde die Eintragungsanordnung dem
+zentralen Vollstreckungsgericht nach § 882h Abs. 1 der
+Zivilprozessordnung mit den in § 882b Abs. 2 und 3 der
+Zivilprozessordnung genannten Daten elektronisch zu übermitteln. Dies
+gilt nicht, wenn Anträge auf Gewährung einer Aussetzung der
+Vollziehung der Eintragungsanordnung nach § 361 dieses Gesetzes oder §
+69 der Finanzgerichtsordnung anhängig sind, die Aussicht auf Erfolg
+haben.
+
+(11) Ist die Eintragung in das Schuldnerverzeichnis nach § 882h Abs. 1
+der Zivilprozessordnung erfolgt, sind Entscheidungen über
+Rechtsbehelfe des Vollstreckungsschuldners gegen die
+Eintragungsanordnung durch die Vollstreckungsbehörde oder durch das
+Gericht dem zentralen Vollstreckungsgericht nach § 882h Abs. 1 der
+Zivilprozessordnung elektronisch zu übermitteln. Form und Übermittlung
+der Eintragungsanordnung nach Absatz 10 Satz 1 und 2 sowie der
+Entscheidung nach Satz 1 haben den Vorgaben der Verordnung nach § 882h
+Abs. 3 der Zivilprozessordnung zu entsprechen.
 
 
 ##### II. - Vollstreckung in Sachen
@@ -9582,8 +9629,8 @@ anzugeben, die den Arrestgrund ergeben.
 
 (3) Für die Anordnung, Vollziehung und Aufhebung des persönlichen
 Sicherheitsarrestes gelten § 128 Abs. 4 und die §§ 922 bis 925, 927,
-929, 933, 934 Abs. 1, 3 und 4 der Zivilprozessordnung sinngemäß. § 911
-der Zivilprozessordnung ist nicht anzuwenden.
+929, 933, 934 Abs. 1, 3 und 4 der Zivilprozessordnung sinngemäß. §
+802j Abs. 2 der Zivilprozessordnung ist nicht anzuwenden.
 
 (4) Für Zustellungen gelten die Vorschriften der Zivilprozessordnung.
 
@@ -9694,9 +9741,9 @@ gewöhnlichen Aufenthalt hat. Der Beschluss des Amtsgerichts unterliegt
 der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung.
 
 (3) Die Ersatzzwangshaft beträgt mindestens einen Tag, höchstens zwei
-Wochen. Die Vollziehung der Ersatzzwangshaft richtet sich nach den §§
-904 bis 906, 909 und 910 der Zivilprozessordnung und den §§ 171 bis
-175 des Strafvollzugsgesetzes.
+Wochen. Die Vollziehung der Ersatzzwangshaft richtet sich nach den §
+802g Abs. 2 und § 802h der Zivilprozessordnung und den §§ 171 bis 175
+des Strafvollzugsgesetzes.
 
 (4) Ist der Anspruch auf das Zwangsgeld verjährt, so darf die Haft
 nicht mehr vollstreckt werden.
