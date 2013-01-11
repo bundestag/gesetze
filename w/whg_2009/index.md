@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 9 G v. 24.2.2012 I 212
+:   Art. 3 G v. 5.12.2012 I 2449
 
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                                         Richtlinie
