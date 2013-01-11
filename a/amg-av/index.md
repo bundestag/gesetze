@@ -35,7 +35,7 @@ Landwirtschaft:
 
 Zweck dieser Verordnung ist die Festlegung von Regelungen zur
 elektronischen Anzeige von Verdachtsfällen schwerwiegender
-Nebenwirkungen von Arzneimitteln gemäß den Anzeigepflichten nach 63h
+Nebenwirkungen von Arzneimitteln gemäß den Anzeigepflichten nach § 63h
 des Arzneimittelgesetzes und § 13 der GCP-Verordnung
 (Einzelfallberichte).
 
