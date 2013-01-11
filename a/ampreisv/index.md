@@ -285,7 +285,7 @@ des pharmazeutischen Unternehmers
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch die Apotheken sind zur Berechnung des
-Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich 8,10
+Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich 8,35
 Euro sowie die Umsatzsteuer zu erheben. Soweit Fertigarzneimittel, die
 zur Anwendung bei Menschen bestimmt sind, durch die Apotheken zur
 Anwendung bei Tieren abgegeben werden, dürfen zur Berechnung des
