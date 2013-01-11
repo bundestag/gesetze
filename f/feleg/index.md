@@ -420,13 +420,10 @@ Landesrecht zuständigen Stelle, der Nachweis der Voraussetzungen des §
 3 Abs. 1 Satz 2 Nr. 2 Buchstabe b wird durch eine Bescheinigung der
 übernehmenden Stelle geführt.
 
-(6) Die durchführenden Stellen haben von Amts wegen bei der
-Bewilligung und während der laufenden Zahlung einer
-Produktionsaufgaberente zu überprüfen, ob deren Voraussetzungen
-vorliegen; hierbei haben sie eng mit den landwirtschaftlichen
-Krankenkassen und landwirtschaftlichen Berufsgenossenschaften
-zusammenzuarbeiten. Satz 1 gilt entsprechend bei der Bewilligung und
-während der laufenden Zahlung eines Ausgleichsgeldes.
+(6) Die durchführende Stelle hat von Amts wegen bei der Bewilligung
+und während der laufenden Zahlung einer Produktionsaufgaberente oder
+eines Ausgleichsgeldes zu überprüfen, ob die jeweiligen
+Voraussetzungen vorliegen.
 
 
 ### § 8 Zusammentreffen mit Einkommen
@@ -746,8 +743,8 @@ werden.
 (1) Der Bund trägt die Beiträge zur landwirtschaftlichen
 Unfallversicherung, soweit sie für nach § 2 stillgelegte Flächen zu
 entrichten sind, die vom Leistungsberechtigten gepflegt werden und für
-die ein Flächenzuschlag gezahlt wird. Sie werden vom Bund an den
-Spitzenverband der landwirtschaftlichen Sozialversicherung gezahlt.
+die ein Flächenzuschlag gezahlt wird. Sie werden vom Bund an die
+landwirtschaftliche Alterskasse gezahlt.
 
 (2) Bestand am 31. Dezember 1994 Anspruch auf den Grundbetrag der
 Produktionsaufgaberente und hat der Bund am 31. Dezember 1994 die
@@ -804,12 +801,11 @@ Rentenversicherung ist das der Berechnung des Ausgleichsgeldes
 zugrunde liegende Bruttoarbeitsentgelt. Die
 Beitragsbemessungsgrundlage erhöht sich zum 1. Juli eines jeden Jahres
 entsprechend der Anpassung der Ausgleichsgelder. Der Bund trägt die
-Beiträge und führt sie an den Spitzenverband der landwirtschaftlichen
-Sozialversicherung ab. Der Verband oder die landwirtschaftlichen
-Alterskassen leiten die Beiträge unverzüglich an die Träger der
-gesetzlichen Rentenversicherung weiter. Das Nähere über Zahlung und
-Abrechnung können die landwirtschaftlichen Alterskassen und die Träger
-der gesetzlichen Rentenversicherung durch Vereinbarung regeln.
+Beiträge und führt sie an die landwirtschaftliche Alterskasse ab.
+Diese leitet die Beiträge unverzüglich an die Träger der gesetzlichen
+Rentenversicherung weiter. Das Nähere über Zahlung und Abrechnung
+können die landwirtschaftliche Alterskasse und die Träger der
+gesetzlichen Rentenversicherung durch Vereinbarung regeln.
 
 (2) Soweit die Vorschriften der gesetzlichen Rentenversicherung
 Pflichten für Arbeitgeber vorsehen, gelten diese für die zur Zahlung
@@ -823,10 +819,9 @@ Leistungsbezug in der gesetzlichen Krankenversicherung versichert
 waren und weder versicherungspflichtig beschäftigt sind noch
 Krankengeld beziehen. Der Bezug des Ausgleichsgeldes gilt als Bezug
 von Arbeitsentgelt. Der Bund trägt die Arbeitgeberanteile an den
-Krankenversicherungsbeiträgen und führt sie an den Spitzenverband der
-landwirtschaftlichen Sozialversicherung ab. Der Verband oder die
-landwirtschaftlichen Alterskassen leiten die Arbeitgeberanteile
-zusammen mit den Arbeitnehmeranteilen an die Träger der gesetzlichen
+Krankenversicherungsbeiträgen und führt sie an die landwirtschaftliche
+Alterskasse ab. Diese leitet die Arbeitgeberanteile zusammen mit den
+Arbeitnehmeranteilen an die Träger der gesetzlichen
 Krankenversicherung weiter. Soweit das Fünfte Buch Sozialgesetzbuch
 Pflichten für Arbeitgeber vorsieht, gelten diese für die zur Zahlung
 des Ausgleichsgeldes Verpflichteten entsprechend.
@@ -917,13 +912,13 @@ endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
 
 
-### § 17 Durchführende Stellen
+### § 17 Durchführende Stelle
 
-Dieses Gesetz wird von den landwirtschaftlichen Alterskassen
-durchgeführt. Bundesunmittelbare Körperschaften unterliegen bei der
-Ausführung des Gesetzes den Weisungen des Bundesministeriums für
-Arbeit und Soziales, die im Einvernehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz erteilt werden.
+Dieses Gesetz wird von der landwirtschaftlichen Alterskasse
+durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den
+Weisungen des Bundesministeriums für Arbeit und Soziales, die im
+Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
+und Verbraucherschutz erteilt werden.
 
 
 ### § 18 Anwendung sonstiger Vorschriften
@@ -1090,12 +1085,8 @@ Ausland einer solchen im Geltungsbereich dieses Gesetzes gleich.
 
 ### § 19 Kostentragung
 
-(1) Die Leistungsaufwendungen trägt der Bund.
-
-(2) Die bei der Durchführung dieses Gesetzes entstehenden
-Verwaltungskosten der durchführenden Stellen werden bei
-landesunmittelbaren Körperschaften von den Ländern und bei
-bundesunmittelbaren Körperschaften vom Bund getragen.
+Die Leistungsaufwendungen und die bei der Durchführung dieses Gesetzes
+entstehenden Verwaltungskosten werden vom Bund getragen.
 
 
 ## Fünfter Abschnitt - Schlußvorschriften

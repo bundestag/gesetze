@@ -102,8 +102,8 @@ Arbeitnehmer und der Arbeitgeber.
 
 ### § 6
 
-Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung.
+Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau.
 
 
 ### § 7
@@ -121,8 +121,8 @@ Bundesministerium für Arbeit und Soziales erteilt werden kann.
 
 ### § 9
 
-Durch Verwaltungsvereinbarung kann geregelt werden, dass der
-Spitzenverband der landwirtschaftlichen Sozialversicherung
+Durch Verwaltungsvereinbarung kann geregelt werden, dass die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 Verwaltungsaufgaben der Zusatzversorgungskasse wahrnimmt. Die
 Verwaltungsvereinbarung hat die wahrzunehmenden Aufgaben zu bezeichnen
 und eine Regelung über die Erstattung der bei der Durchführung der

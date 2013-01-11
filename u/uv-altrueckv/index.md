@@ -77,10 +77,10 @@ zugrunde zu legen:
 Die der Berechnung zugrunde zu legenden versicherungsmathematischen
 Annahmen, insbesondere ein einheitlicher Rechnungszinsfuß, werden
 spätestens alle fünf Jahre, erstmals für das Jahr 2015, – auf Basis
-der von der Deutschen Gesetzlichen Unfallversicherung
-e.V.              und dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung zur Verfügung gestellten erforderlichen Angaben –
-neu ermittelt und durch Rechtsverordnung festgelegt.
+der von der Deutschen Gesetzlichen Unfallversicherung e.V. und der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau zur
+Verfügung gestellten erforderlichen Angaben – neu ermittelt und durch
+Rechtsverordnung festgelegt.
 
 (5) Die Zuführungen erfolgen jährlich auf Grundlage der
 Barwertberechnung nach den Absätzen 1, 3 und 4.
@@ -96,10 +96,13 @@ ist der zuständigen Aufsichtsbehörde mitzuteilen; das zugrundeliegende
 Gutachten ist – außer in den Fällen des § 1 Absatz 2 – beizufügen.
 
 
-## § 3 Altersrückstellungen des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
+## § 3 Altersrückstellungen für die ehemaligen Beschäftigten des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
-Auf den Spitzenverband der landwirtschaftlichen Sozialversicherung
-sind die Vorschriften dieser Verordnung anzuwenden.
+Für die ehemaligen Beschäftigten des Spitzenverbandes der
+landwirtschaftlichen Sozialversicherung, für die Altersrückstellungen
+nach § 7 Absatz 5 des Gesetzes zur Errichtung der Sozialversicherung
+für Landwirtschaft, Forsten und Gartenbau zu bilden sind, sind die
+Vorschriften dieser Verordnung anzuwenden.
 
 
 ## § 4 Übergangsvorschriften zur Bildung der Altersrückstellungen
@@ -147,10 +150,9 @@ Betrag zuzuführen, der sich bei Verwendung der Zuweisungssätze nach §
 1 Absatz 1 Nummer 4 bis 7, Absatz 2 und 3 der
 Versorgungsfondszuweisungsverordnung als regelmäßiger Zuweisungsbetrag
 ergibt. Für Unfallversicherungsträger im Landes- und kommunalen
-Bereich sowie für landwirtschaftliche Berufsgenossenschaften, die
-unter der Aufsicht eines Landes stehen, gilt Satz 2 mit der Maßgabe,
-dass für die Ermittlung des jährlich zuzuführenden Betrags anstelle
-der Versorgungsfondszuweisungsverordnung eine entsprechende
+Bereich gilt Satz 2 mit der Maßgabe, dass für die Ermittlung des
+jährlich zuzuführenden Betrags anstelle der
+Versorgungsfondszuweisungsverordnung eine entsprechende
 landesrechtliche Regelung angewendet werden kann. In den Fällen des §
 219a Absatz 4 des Siebten Buches Sozialgesetzbuch sind für
 Versorgungsleistungen keine Zuführungen nach Satz 2 zu leisten, wenn

@@ -375,7 +375,7 @@ gewöhnliche Aufenthaltsort der jüngsten Waise maßgebend. Im übrigen
 bestimmt sich die Zuständigkeit nach dem gewöhnlichen Aufenthaltsort
 des Hinterbliebenen, der zuerst einen Anspruch anmeldet.
 
-(2) Ergibt sich nach Absatz 1 die Zuständigkeit einer
+(2) Ergibt sich nach Absatz 1 die Zuständigkeit der
 landwirtschaftlichen Berufsgenossenschaft oder eines
 Unfallversicherungsträgers der öffentlichen Hand, so ist die
 Unfallkasse des Bundes zuständig.

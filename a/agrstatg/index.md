@@ -2291,7 +2291,7 @@ sieben Jahren nicht mehr zu Erhebungen herangezogen wurden, sind sie
 spätestens nach Ablauf dieses Zeitraums zu löschen. Eine Löschung der
 Kennnummer im Datensatz erfolgt nicht.
 
-(5) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
+(5) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 übermittelt den statistischen Ämtern der Länder zur Aktualisierung des
 Betriebsregisters jährlich auf Ersuchen, soweit vorhanden,
 

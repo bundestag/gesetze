@@ -306,7 +306,7 @@ aktuellen Wert der späteren Zahlungen. Dieser Wert ist bei
 wesentlichen Änderungen der Berechnungsgrundlagen, in der Regel alle
 fünf Jahre, zu aktualisieren. Die Altersrückstellungen und das
 Deckungskapital dürfen nur zweckentsprechend aufgelöst werden. Für die
-Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkassen
+Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkasse
 gelten die Sätze 1 und 4 entsprechend für Verpflichtungen aus
 Vereinbarungen über die Altersteilzeitarbeit sowie für Verpflichtungen
 nach § 7b des Vierten Buches Sozialgesetzbuch. Soweit von den Trägern
@@ -407,11 +407,10 @@ Haushaltswesen in der Sozialversicherung vom 21. Dezember 1977, BGBl.
 I S. 3147) ist nach der Gliederung des geltenden Kontenrahmens
 Rechnung zu legen.
 
-( 3) Die Träger der Krankenversicherung und ihre Verbände mit Ausnahme
-der landwirtschaftlichen Krankenkassen und des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung haben ihrer Jahresrechnung
-einen Anhang nach § 29a der Verordnung über das Haushaltswesen in der
-Sozialversicherung beizufügen.
+(3) Die Träger der Krankenversicherung und ihre Verbände mit Ausnahme
+der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau haben
+ihrer Jahresrechnung einen Anhang nach § 29a der Verordnung über das
+Haushaltswesen in der Sozialversicherung beizufügen.
 
 
 ## Fünfter Abschnitt - Durchführung von Aufgaben durch Verbände und Dritte
@@ -433,13 +432,8 @@ Satz 1 genannten Aufgaben durch einen Dritten ist der Aufsichtsbehörde
 anzuzeigen.
 
 
-### § 19a Durchführung von Aufgaben durch den Spitzenverband der landwirtschaftlichen Sozialversicherung
+### § 19a (weggefallen)
 
-Die Bediensteten des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung sind bei der Aufgabenwahrnehmung im Namen der
-landwirtschaftlichen Sozialversicherungsträger nach § 143e Absatz 2
-und 4 des Siebten Buches Sozialgesetzbuch den Bediensteten der
-vertretenen Sozialversicherungsträger gleichgestellt.
 
 
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften

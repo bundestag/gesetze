@@ -448,9 +448,8 @@ Einkommensteuergesetzes übermittelten Angaben des zuständigen
 Sozialversicherungsträgers ab, sind für den Nachweis der
 Rentenversicherungspflicht oder die Berechnung des
 Mindesteigenbeitrags die Angaben des zuständigen
-Sozialversicherungsträgers maßgebend. Für die vom Spitzenverband der
-landwirtschaftlichen Sozialversicherung für die Träger der
-Alterssicherung der Landwirte übermittelten Angaben gilt Satz 1
+Sozialversicherungsträgers maßgebend. Für die von der
+landwirtschaftlichen Alterskasse übermittelten Angaben gilt Satz 1
 entsprechend; § 52 Abs. 65 Satz 2 des Einkommensteuergesetzes findet
 entsprechend Anwendung. Wird abweichend vom tatsächlich erzielten
 Entgelt oder vom Zahlbetrag der Entgeltersatzleistung ein höherer

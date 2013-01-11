@@ -49,7 +49,7 @@ Insolvenzgeld beträgt jährlich 732 000 Euro.
 
 ## § 2 Verteilung der Einzugskostenvergütung
 
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
+(1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 erhält jährlich 3 Prozent der Einzugskostenvergütung nach § 1 Abs. 1.
 
 (2) Der Spitzenverband Bund der GKV teilt die um den Betrag nach
@@ -75,15 +75,15 @@ Zuschlag für die Kalenderjahre 2009 und 2010 in Höhe von jeweils einer
 Million Euro abgegolten.
 
 
-## § 4 Höhe der Pauschale für die Prüfung der Arbeitgeber durch die landwirtschaftlichen Krankenkassen
+## § 4 Höhe der Pauschale für die Prüfung der Arbeitgeber durch die landwirtschaftliche Krankenkasse
 
-(1) Die von der Bundesagentur für Arbeit an den Spitzenverband der
-landwirtschaftlichen Sozialversicherung zu zahlende pauschale
-Vergütung für die Prüfung der Arbeitgeber durch die
-landwirtschaftlichen Krankenkassen nach § 28p Abs. 1 Satz 6 des
-Vierten Buches Sozialgesetzbuch beträgt jährlich 10 033 Euro.
+(1) Die von der Bundesagentur für Arbeit an die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau zu zahlende pauschale Vergütung
+für die Prüfung der Arbeitgeber durch die landwirtschaftliche
+Krankenkasse nach § 28p Abs. 1 Satz 6 des Vierten Buches
+Sozialgesetzbuch beträgt jährlich 10 033 Euro.
 
-(2) Erhöhte Aufwendungen der landwirtschaftlichen Krankenkassen, die
+(2) Erhöhte Aufwendungen der landwirtschaftlichen Krankenkasse, die
 bei der Einführung des Verfahrens entstehen, sind in den nach § 1 Abs.
 2 festgesetzten Ausgleichsbeträgen enthalten und betragen 250 000
 Euro.
@@ -100,8 +100,8 @@ Einzugskostenvergütung am nächsten Werktag fällig. Dies gilt nicht,
 wenn der Feiertag auf einen Freitag fällt; in diesem Fall ist die
 Einzugskostenvergütung am letzten davor liegenden Werktag fällig.
 
-(2) Die Einzugskostenvergütung ist durch Überweisung an den
-Spitzenverband der landwirtschaftlichen Sozialversicherung, die
+(2) Die Einzugskostenvergütung ist durch Überweisung an die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, die
 Deutsche Rentenversicherung Knappschaft-Bahn-See/Verwaltungsstelle
 Cottbus und an den Spitzenverband Bund der GKV zu leisten. Der
 Spitzenverband Bund der GKV kann mit der Bundesagentur für Arbeit eine
@@ -118,10 +118,10 @@ Rentenversicherung Bund regelt die Aufteilung der Pauschale innerhalb
 der Träger der Deutschen Rentenversicherung.
 
 (5) Die Pauschale für die Prüfung der Arbeitgeber durch die
-landwirtschaftlichen Krankenkassen nach § 4 Abs. 1 in Verbindung mit §
+landwirtschaftliche Krankenkasse nach § 4 Abs. 1 in Verbindung mit §
 28p Abs. 1 Satz 6 des Vierten Buches Sozialgesetzbuch ist durch
-Überweisung an den Spitzenverband der landwirtschaftlichen
-Sozialversicherung zu leisten.
+Überweisung an die Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau zu leisten.
 
 (6) Die in § 1 Abs. 2, § 3 Abs. 2 und § 4 Abs. 2 genannten
 Ausgleichsbeträge sind jeweils mit den Zahlungen der Vergütung für die
@@ -133,8 +133,9 @@ GKV zu leisten und anschließend entsprechend den Regelungen in § 2
 Abs. 2 an die einzelnen Krankenkassen zu verteilen; Absatz 2 Satz 2
 gilt entsprechend. Der Ausgleichsbetrag nach § 3 Abs. 2 ist durch
 Überweisung an die Deutsche Rentenversicherung Bund zu leisten. Der
-Ausgleichsbetrag nach § 4 Abs. 2 ist durch Überweisung an den
-Spitzenverband der landwirtschaftlichen Sozialversicherung zu leisten.
+Ausgleichsbetrag nach § 4 Abs. 2 ist durch Überweisung an die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau zu
+leisten.
 
 
 ## § 6 Inkrafttreten

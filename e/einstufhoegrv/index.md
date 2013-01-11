@@ -37,13 +37,11 @@ Bundesministerium der Finanzen:
 
 (1) Die Höchstgrenzen für die besoldungsrechtliche Einstufung der
 Dienstposten der Geschäftsführerinnen und Geschäftsführer der
-bundesunmittelbaren gewerblichen Berufsgenossenschaften sowie der
-bundesunmittelbaren Träger der landwirtschaftlichen Sozialversicherung
-werden vom Bundesversicherungsamt anhand von Punktwerten ermittelt.
+bundesunmittelbaren gewerblichen Berufsgenossenschaften werden vom
+Bundesversicherungsamt anhand von Punktwerten ermittelt.
 
-(2) Für die Berechnung der Punktwerte sind für den Bereich der
-Unfallversicherung folgende Bewertungskriterien und Höchstpunktzahlen
-zugrunde zu legen:
+(2) Für die Berechnung der Punktwerte sind folgende
+Bewertungskriterien und Höchstpunktzahlen zugrunde zu legen:
 
 *    *   Nr.
 
@@ -95,84 +93,10 @@ zugrunde zu legen:
 
 
 
-Für die Träger der landwirtschaftlichen Sozialversicherung wird für
-das Bewertungskriterium Zahl der Versicherten keine Punktzahl
-ermittelt.
 
-(3) Bei der Berechnung der Punktwerte sind im Bereich der
-landwirtschaftlichen Sozialversicherung folgende zusätzlichen
-Bewertungskriterien und Höchstpunktzahlen zugrunde zu legen:
-
-*    *   Nr.
-
-    *   Bewertungskriterium
-
-    *   Höchstpunktzahl
-
-
-*    *   1.
-
-    *   Beitragsbelastbare Ertragswerte in der landwirtschaftlichen
-        Unfallversicherung
-
-    *   20
-
-
-*    *   2.
-
-    *   Zahl der Mitglieder einschließlich der Altenteilerinnen und
-        Altenteiler sowie der Familienversicherten in der landwirtschaftlichen
-        Krankenversicherung
-
-    *   25
-
-
-*    *   3.
-
-    *   Zahl der Mitglieder einschließlich der Altenteilerinnen und
-        Altenteiler sowie der Familienversicherten in der landwirtschaftlichen
-        Pflegeversicherung
-
-    *   10
-
-
-*    *   4.
-
-    *   Zahl der Versicherten in der Alterssicherung der Landwirte
-
-    *   10
-
-
-*    *   5.
-
-    *   Zahl der nach § 3 des Gesetzes über die Alterssicherung der Landwirte
-        Befreiten
-
-    *   10
-
-
-*    *   6.
-
-    *   Zahl der Empfängerinnen und Empfänger eines Beitragszuschusses in der
-        Alterssicherung der Landwirte
-
-    *   10
-
-
-*    *   7.
-
-    *   Zahl der Rentenempfängerinnen und Rentenempfänger in der
-        Alterssicherung der Landwirte
-
-    *   15.
-
-
-
-
-(4) Die individuellen Punktzahlen zu den einzelnen Kriterien werden
+(3) Die individuellen Punktzahlen zu den einzelnen Kriterien werden
 auf der Grundlage der festgestellten Werte aller Träger der
-gesetzlichen Unfallversicherung und der landwirtschaftlichen
-Sozialversicherung wie folgt berechnet:
+gesetzlichen Unfallversicherung wie folgt berechnet:
 
 1.  Der im Durchschnitt der Jahre 2001 bis 2003 für das jeweilige
     Bewertungskriterium festgestellte höchste Zahlenwert aller Träger gilt
@@ -189,14 +113,13 @@ Sozialversicherung wie folgt berechnet:
 
 
 
-(5) Punktwerte nach Absatz 1 sind die auf volle Punkte gerundeten
-Summen der individuellen Punktzahlen nach Absatz 4.
+(4) Punktwerte nach Absatz 1 sind die auf volle Punkte gerundeten
+Summen der individuellen Punktzahlen nach Absatz 3.
 
-(6) Nimmt ein Unfallversicherungsträger oder ein Träger der
-landwirtschaftlichen Sozialversicherung neben seinen Aufgaben nach §
+(5) Nimmt ein Unfallversicherungsträger neben seinen Aufgaben nach §
 30 Abs. 1 des Vierten Buches Sozialgesetzbuch weitere Aufgaben nach §
 30 Abs. 2 des Vierten Buches Sozialgesetzbuch wahr, wird der für den
-Träger nach Absatz 5 ermittelte Punktwert um bis zu 75 Prozent erhöht.
+Träger nach Absatz 4 ermittelte Punktwert um bis zu 75 Prozent erhöht.
 Über die Erhöhung entscheidet das Bundesversicherungsamt im
 Einvernehmen mit dem Bundesministerium des Innern, dem
 Bundesministerium der Finanzen und dem Bundesministerium für Arbeit
@@ -215,27 +138,19 @@ der drei Jahre zugrunde gelegt, die vor dem Jahr liegen, in dem die
 Berechnung durchgeführt wird. Die Berechnung erfolgt erstmals im Jahre
 2004\.
 
-(2) Abweichend von Absatz 1 Satz 2 werden die auf die
-beitragsbelastbaren Ertragswerte in der landwirtschaftlichen
-Unfallversicherung entfallenden Punktzahlen auf der Grundlage der
-letzten Erhebung dieser Werte ermittelt.
-
-(3) Die ermittelten Punktwerte werden bis zum 30. September des
+(2) Die ermittelten Punktwerte werden bis zum 30. September des
 Jahres, in dem die Berechnung erfolgt, im Bundesanzeiger
 veröffentlicht. Können die Punktwerte erst zu einem späteren Zeitpunkt
 ermittelt werden, werden sie unverzüglich im Bundesanzeiger
 veröffentlicht.
 
-(4) Die der Berechnung zugrunde liegenden Daten werden den die
-Aufsicht über die Sozialversicherungsträger führenden Stellen der
-Länder mitgeteilt.
-
 
 ## § 3 Besoldungshöchstgrenzen
 
-(1) Den Punktwerten nach § 1 Abs. 5 werden für die
-Geschäftsführerinnen und Geschäftsführer folgende
-Besoldungshöchstgrenzen zugeordnet:
+(1) Den Punktwerten nach § 1 Absatz 4 werden für die
+Geschäftsführerinnen und Geschäftsführer der bundesunmittelbaren
+gewerblichen Berufsgenossenschaften folgende Besoldungshöchstgrenzen
+zugeordnet:
 
 *    *   Punktwert
 
@@ -279,23 +194,27 @@ Besoldungshöchstgrenzen zugeordnet:
 
 
 
-(2) Änderungen der ermittelten Besoldungshöchstgrenzen nach Absatz 1
+(2) Für die Geschäftsführerin oder den Geschäftsführer der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist die
+Besoldungsgruppe B 6 die Besoldungshöchstgrenze.
+
+(3) Änderungen der ermittelten Besoldungshöchstgrenzen nach Absatz 1
 gelten ab dem 1. Januar des auf den Berechnungszeitpunkt folgenden
 Jahres. Abweichend hiervon gelten abgesenkte Besoldungshöchstgrenzen
 bei Neuberufungen ab dem auf die Veröffentlichung der ermittelten
-Punktwerte nach § 2 Abs. 3 im Bundesanzeiger folgenden Kalendertag.
+Punktwerte nach § 2 Absatz 2 im Bundesanzeiger folgenden Kalendertag.
 Sind Dienstposten aufgrund der ermittelten Punktwerte niedriger
 einzustufen, erhalten die zum Zeitpunkt der Veröffentlichung der
 Punktwerte im Bundesanzeiger vorhandenen Bediensteten jeweils für ihre
 Person weiterhin Dienstbezüge aus der bisherigen Besoldungsgruppe.
 
-(3) Die stellvertretende Geschäftsführerin oder der stellvertretende
+(4) Die stellvertretende Geschäftsführerin oder der stellvertretende
 Geschäftsführer sowie die leitende technische Aufsichtsperson sind
 jeweils mindestens eine Besoldungsgruppe unter der für die
 Geschäftsführerin oder den Geschäftsführer geltenden
-Besoldungshöchstgrenze nach Absatz 1 einzustufen.
+Besoldungshöchstgrenze nach Absatz 1 oder Absatz 2 einzustufen.
 
-(4) Bei der Vereinigung von Trägern wird mit deren Wirksamwerden die
+(5) Bei der Vereinigung von Trägern wird mit deren Wirksamwerden die
 Höchstgrenze für die Einstufung der Geschäftsführerin oder des
 Geschäftsführers aus der Summe der Punktwerte der beteiligten Träger
 auf Grundlage der letzten regelmäßigen Berechnung ermittelt.

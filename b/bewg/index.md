@@ -1280,7 +1280,7 @@ von Vereinen (§ 97 Abs. 2), wenn
 
     c)  Landwirte im Sinne des § 1 Abs. 2 des Gesetzes über die
         Alterssicherung der Landwirte sind und dies durch eine Bescheinigung
-        der zuständigen Alterskasse nachgewiesen wird und
+        der landwirtschaftlichen Alterskasse nachgewiesen wird und
 
 
     d)  die sich nach § 51 Abs. 1a für sie ergebende Möglichkeit zur
