@@ -5528,10 +5528,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        -   ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der
-            Anlagen I bis III bis zu 7 vom Hundert oder je abgeteilte Form bis zu
-            300 mg Tilidin, berechnet als Base, und, bezogen auf diese Mengen,
-            mindestens 7,5 vom Hundert Naloxonhydrochlorid enthalten -
+        -   ausgenommen in festen Zubereitungen mit verzögerter Wirkstofffreigabe,
+            die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form
+            bis zu 300 mg Tilidin, berechnet als Base, und, bezogen auf diese
+            Menge, mindestens 7,5 vom Hundert Naloxonhydrochlorid enthalten -
 
 
 

@@ -37,8 +37,7 @@ verordnet das Bundesversicherungsamt:
 
 Die Vorschriften dieser Verordnung sind auf die Krankenkassen und die
 Verbände der Krankenkassen mit Ausnahme der landwirtschaftlichen
-Krankenkassen sowie mit Ausnahme des Spitzenverbands der
-landwirtschaftlichen Sozialversicherung anzuwenden.
+Krankenkasse anzuwenden.
 
 
 ## § 2 Abgrenzung der Altersversorgungsverpflichtungen

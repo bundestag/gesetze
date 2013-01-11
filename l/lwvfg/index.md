@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 667
 
 Zuletzt geändert durch
-:   Art. 43 G v. 17.12.2008 I 2586
+:   Art. 7 G v. 5.12.2012 I 2418
 
 
 ## Eingangsformel

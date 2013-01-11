@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 788
 
 Zuletzt geändert durch
-:   Art. 6 G v. 19.10.2012 I 2182
+:   Art. 6 G v. 5.12.2012 I 2425
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -108,9 +108,9 @@ angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko
 des Rechtsanwalts stehen.
 
 (2) Der Rechtsanwalt kann sich für gerichtliche Mahnverfahren und
-Zwangsvollstreckungsverfahren nach den §§ 803 bis 863 und 899 bis 915b
-der Zivilprozessordnung verpflichten, dass er, wenn der Anspruch des
-Auftraggebers auf Erstattung der gesetzlichen Vergütung nicht
+Zwangsvollstreckungsverfahren nach den §§ 802a bis 863 und 882b bis
+882f der Zivilprozessordnung verpflichten, dass er, wenn der Anspruch
+des Auftraggebers auf Erstattung der gesetzlichen Vergütung nicht
 beigetrieben werden kann, einen Teil des Erstattungsanspruchs an
 Erfüllungs statt annehmen werde. Der nicht durch Abtretung zu
 erfüllende Teil der gesetzlichen Vergütung muss in einem angemessenen
@@ -755,12 +755,11 @@ Verschiedene Angelegenheiten sind
     Ausfertigung;
 
 
-6.  jedes Verfahren über Anträge nach den §§ 765a, 813b, 851a oder 851b
-    der Zivilprozessordnung und jedes Verfahren über Anträge auf Änderung
-    oder Aufhebung der getroffenen Anordnungen, jedes Verfahren über
-    Anträge nach § 1084 Absatz 1, § 1096 oder § 1109 der
-    Zivilprozessordnung und über Anträge nach § 31 des
-    Auslandsunterhaltsgesetzes;
+6.  jedes Verfahren über Anträge nach den §§ 765a, 851a oder 851b der
+    Zivilprozessordnung und jedes Verfahren über Anträge auf Änderung oder
+    Aufhebung der getroffenen Anordnungen, jedes Verfahren über Anträge
+    nach § 1084 Absatz 1, § 1096 oder § 1109 der Zivilprozessordnung und
+    über Anträge nach § 31 des Auslandsunterhaltsgesetzes;
 
 
 7.  das Verfahren auf Zulassung der Austauschpfändung (§ 811a der
@@ -800,12 +799,12 @@ Verschiedene Angelegenheiten sind
     Abs. 3 der Zivilprozessordnung;
 
 
-16. das Verfahren zur Abnahme der eidesstattlichen Versicherung (§§ 900
-    und 901 der Zivilprozessordnung);
+16. das Verfahren zur Abnahme der Vermögensauskunft (§§ 802f und 802g der
+    Zivilprozessordnung);
 
 
 17. das Verfahren auf Löschung der Eintragung im Schuldnerverzeichnis (§
-    915a der Zivilprozessordnung);
+    882e der Zivilprozessordnung);
 
 
 18. das Ausüben der Veröffentlichungsbefugnis;
@@ -1115,10 +1114,10 @@ Forderung.
     Unterlassung für den Gläubiger hat, und
 
 
-4.  in Verfahren über den Antrag auf Abnahme der eidesstattlichen
-    Versicherung nach § 807 der Zivilprozessordnung nach dem Betrag, der
-    einschließlich der Nebenforderungen aus dem Vollstreckungstitel noch
-    geschuldet wird; der Wert beträgt jedoch höchstens 1 500 Euro.
+4.  in Verfahren über die Erteilung der Vermögensauskunft nach § 802c der
+    Zivilprozessordnung nach dem Betrag, der einschließlich der
+    Nebenforderungen aus dem Vollstreckungstitel noch geschuldet wird; der
+    Wert beträgt jedoch höchstens 1 500 Euro.
 
 
 

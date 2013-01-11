@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202 (2006 I 431) (2007 I 1781)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.10.2012 I 2182
+:   Art. 2 G v. 20.12.2012 I 2745
 
 
 ## Buch 1 - Allgemeine Vorschriften
@@ -2653,11 +2653,9 @@ Sachverständige zum Gegenstand haben.
 ##### § 145 Prozesstrennung
 
 (1) Das Gericht kann anordnen, dass mehrere in einer Klage erhobene
-Ansprüche in getrennten Prozessen verhandelt werden. Eine
-Prozesstrennung ist nur zulässig, wenn eine gemeinsame Verhandlung und
-Entscheidung der erhobenen Ansprüche zu einer verzögerten Erledigung
-eines wesentlichen Teils des Rechtsstreits führen würde. Die
-Entscheidung ergeht durch Beschluss und ist zu begründen.
+Ansprüche in getrennten Prozessen verhandelt werden, wenn dies aus
+sachlichen Gründen gerechtfertigt ist. Die Entscheidung ergeht durch
+Beschluss und ist zu begründen.
 
 (2) Das Gleiche gilt, wenn der Beklagte eine Widerklage erhoben hat
 und der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch
@@ -8652,7 +8650,7 @@ sind auch auf die Revisionsschrift anzuwenden.
 
 (1) Mit der Revisionsschrift soll eine Ausfertigung oder beglaubigte
 Abschrift des angefochtenen Urteils vorgelegt werden, soweit dies
-nicht bereits nach § 544 Abs. 1 Satz 4 geschehen ist.
+nicht bereits nach § 544 Absatz 1 Satz 3 geschehen ist.
 
 (2) Die Revisionsschrift ist der Gegenpartei zuzustellen.
 
@@ -9837,7 +9835,7 @@ Gericht für seine maschinelle Bearbeitung nicht geeignet erscheine. Im
 
 5.  für den Fall, dass Formulare eingeführt sind, den Hinweis, dass der
     Widerspruch mit einem Formular der beigefügten Art erhoben werden
-    soll, der auch bei jedem Amtsgericht erhältlich ist und ausgefüllt
+    soll, das auch bei jedem Amtsgericht erhältlich ist und ausgefüllt
     werden kann;
 
 
@@ -10080,9 +10078,9 @@ folgende besondere Vorschriften:
 
 ### § 703b Sonderregelungen für maschinelle Bearbeitung
 
-(1) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen und
-Ausfertigungen mit dem Gerichtssiegel versehen; einer Unterschrift
-bedarf es nicht.
+(1) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen,
+Ausfertigungen und Vollstreckungsklauseln mit dem Gerichtssiegel
+versehen; einer Unterschrift bedarf es nicht.
 
 (2) Der Bundesminister der Justiz wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates den Verfahrensablauf
@@ -10883,24 +10881,62 @@ für den Auftrag nach Absatz 2 einzuführen. Für elektronisch
 eingereichte Aufträge können besondere Formulare vorgesehen werden.
 
 
-#### § 754 Vollstreckungsauftrag
+#### § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung
 
-In dem schriftlichen, elektronischen oder mündlichen Auftrag zur
-Zwangsvollstreckung in Verbindung mit der Übermittlung der
-vollstreckbaren Ausfertigung liegt die Beauftragung des
-Gerichtsvollziehers, die Zahlungen oder sonstigen Leistungen in
-Empfang zu nehmen, über das Empfangene wirksam zu quittieren und dem
-Schuldner, wenn dieser seiner Verbindlichkeit genügt hat, die
-vollstreckbare Ausfertigung auszuliefern.
+(1) Durch den Vollstreckungsauftrag und die Übergabe der
+vollstreckbaren Ausfertigung wird der Gerichtsvollzieher ermächtigt,
+Leistungen des Schuldners entgegenzunehmen und diese zu quittieren
+sowie mit Wirkung für den Gläubiger Zahlungsvereinbarungen nach
+Maßgabe des § 802b zu treffen.
 
-
-#### § 755 Ermächtigung des Gerichtsvollziehers
-
-Dem Schuldner und Dritten gegenüber wird der Gerichtsvollzieher zur
-Vornahme der Zwangsvollstreckung und der im § 754 bezeichneten
+(2) Dem Schuldner und Dritten gegenüber wird der Gerichtsvollzieher
+zur Vornahme der Zwangsvollstreckung und der in Absatz 1 bezeichneten
 Handlungen durch den Besitz der vollstreckbaren Ausfertigung
 ermächtigt. Der Mangel oder die Beschränkung des Auftrags kann diesen
 Personen gegenüber von dem Gläubiger nicht geltend gemacht werden.
+
+
+#### § 755 Ermittlung des Aufenthaltsorts des Schuldners
+
+(1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners
+nicht bekannt, darf der Gerichtsvollzieher auf Grund des
+Vollstreckungsauftrags und der Übergabe der vollstreckbaren
+Ausfertigung zur Ermittlung des Aufenthaltsorts des Schuldners bei der
+Meldebehörde die gegenwärtigen Anschriften sowie Angaben zur Haupt-
+und Nebenwohnung des Schuldners erheben.
+
+(2) Soweit der Aufenthaltsort des Schuldners nach Absatz 1 nicht zu
+ermitteln ist, darf der Gerichtsvollzieher
+
+1.  zunächst beim Ausländerzentralregister die Angaben zur aktenführenden
+    Ausländerbehörde sowie zum Zuzug oder Fortzug des Schuldners und
+    anschließend bei der gemäß der Auskunft aus dem
+    Ausländerzentralregister aktenführenden Ausländerbehörde den
+    Aufenthaltsort des Schuldners,
+
+
+2.  bei den Trägern der gesetzlichen Rentenversicherung die dort bekannte
+    derzeitige Anschrift, den derzeitigen oder zukünftigen Aufenthaltsort
+    des Schuldners sowie
+
+
+3.  bei dem Kraftfahrt-Bundesamt die Halterdaten nach § 33 Abs. 1 Satz 1
+    Nr. 2 des Straßenverkehrsgesetzes
+
+
+
+erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher
+die Daten nach Satz 1 Nummer 1 nur erheben, wenn ihm tatsächliche
+Anhaltspunkte für die Vermutung der Feststellung des Nichtbestehens
+oder des Verlusts des Freizügigkeitsrechts vorliegen. Eine
+Übermittlung der Daten nach Satz 1 Nummer 1 an den Gerichtsvollzieher
+ist ausgeschlossen, wenn der Schuldner Unionsbürger ist, für den eine
+Feststellung des Nichtbestehens oder des Verlusts des
+Freizügigkeitsrechts nicht vorliegt.Die Daten nach Satz 1 Nr. 2 und 3
+darf der Gerichtsvollzieher nur erheben, wenn die zu vollstreckenden
+Ansprüche mindestens 500 Euro betragen; Kosten der Zwangsvollstreckung
+und Nebenforderungen sind bei der Berechnung nur zu berücksichtigen,
+wenn sie allein Gegenstand des Vollstreckungsauftrags sind.
 
 
 #### § 756 Zwangsvollstreckung bei Leistung Zug um Zug
@@ -10955,7 +10991,7 @@ nicht, wenn die Einholung der Anordnung den Erfolg der Durchsuchung
 gefährden würde.
 
 (2) Auf die Vollstreckung eines Titels auf Räumung oder Herausgabe von
-Räumen und auf die Vollstreckung eines Haftbefehls nach § 901 ist
+Räumen und auf die Vollstreckung eines Haftbefehls nach § 802g ist
 Absatz 1 nicht anzuwenden.
 
 (3) Willigt der Schuldner in die Durchsuchung ein oder ist eine
@@ -11518,10 +11554,10 @@ des ersten Rechtszuges.
 erstatten, wenn das Urteil, aus dem die Zwangsvollstreckung erfolgt
 ist, aufgehoben wird.
 
-(4) Die Kosten eines Verfahrens nach den §§ 765a, 811a, 811b, 813b,
-829, 850k, 850l, 851a und 851b kann das Gericht ganz oder teilweise
-dem Gläubiger auferlegen, wenn dies aus besonderen, in dem Verhalten
-des Gläubigers liegenden Gründen der Billigkeit entspricht.
+(4) Die Kosten eines Verfahrens nach den §§ 765a, 811a, 811b, 829,
+850k, 850l, 851a und 851b kann das Gericht ganz oder teilweise dem
+Gläubiger auferlegen, wenn dies aus besonderen, in dem Verhalten des
+Gläubigers liegenden Gründen der Billigkeit entspricht.
 
 
 #### § 789 Einschreiten von Behörden
@@ -11895,29 +11931,266 @@ gesamten Bundesgebiet vollstreckt werden.
 Die in diesem Buch angeordneten Gerichtsstände sind ausschließliche.
 
 
-#### Titel 1 - (zukünftig in Kraft)
+#### Titel 1 - Allgemeine Vorschriften
 
 
 
-##### (XXXX) §§ 802a bis 802j (zukünftig in Kraft)
+##### § 802a Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
 
+(1) Der Gerichtsvollzieher wirkt auf eine zügige, vollständige und
+Kosten sparende Beitreibung von Geldforderungen hin.
+
+(2) Auf Grund eines entsprechenden Vollstreckungsauftrags und der
+Übergabe der vollstreckbaren Ausfertigung ist der Gerichtsvollzieher
+unbeschadet weiterer Zuständigkeiten befugt,
+
+1.  eine gütliche Erledigung der Sache (§ 802b) zu versuchen,
+
+
+2.  eine Vermögensauskunft des Schuldners (§ 802c) einzuholen,
+
+
+3.  Auskünfte Dritter über das Vermögen des Schuldners (§ 802l)
+    einzuholen,
+
+
+4.  die Pfändung und Verwertung körperlicher Sachen zu betreiben,
+
+
+5.  eine Vorpfändung (§ 845) durchzuführen; hierfür bedarf es nicht der
+    vorherigen Erteilung einer vollstreckbaren Ausfertigung und der
+    Zustellung des Schuldtitels.
+
+
+
+Die Maßnahmen sind in dem Vollstreckungsauftrag zu bezeichnen, die
+Maßnahme nach Satz 1 Nr. 1 jedoch nur dann, wenn sich der Auftrag
+hierauf beschränkt.
+
+
+##### § 802b Gütliche Erledigung; Vollstreckungsaufschub bei Zahlungsvereinbarung
+
+(1) Der Gerichtsvollzieher soll in jeder Lage des Verfahrens auf eine
+gütliche Erledigung bedacht sein.
+
+(2) Hat der Gläubiger eine Zahlungsvereinbarung nicht ausgeschlossen,
+so kann der Gerichtsvollzieher dem Schuldner eine Zahlungsfrist
+einräumen oder eine Tilgung durch Teilleistungen (Ratenzahlung)
+gestatten, sofern der Schuldner glaubhaft darlegt, die nach Höhe und
+Zeitpunkt festzusetzenden Zahlungen erbringen zu können. Soweit ein
+Zahlungsplan nach Satz 1 festgesetzt wird, ist die Vollstreckung
+aufgeschoben. Die Tilgung soll binnen zwölf Monaten abgeschlossen
+sein.
+
+(3) Der Gerichtsvollzieher unterrichtet den Gläubiger unverzüglich
+über den gemäß Absatz 2 festgesetzten Zahlungsplan und den
+Vollstreckungsaufschub. Widerspricht der Gläubiger unverzüglich, so
+wird der Zahlungsplan mit der Unterrichtung des Schuldners hinfällig;
+zugleich endet der Vollstreckungsaufschub. Dieselben Wirkungen treten
+ein, wenn der Schuldner mit einer festgesetzten Zahlung ganz oder
+teilweise länger als zwei Wochen in Rückstand gerät.
+
+
+##### § 802c Vermögensauskunft des Schuldners
+
+(1) Der Schuldner ist verpflichtet, zum Zwecke der Vollstreckung einer
+Geldforderung auf Verlangen des Gerichtsvollziehers Auskunft über sein
+Vermögen nach Maßgabe der folgenden Vorschriften zu erteilen sowie
+seinen Geburtsnamen, sein Geburtsdatum und seinen Geburtsort
+anzugeben. Handelt es sich bei dem Vollstreckungsschuldner um eine
+juristische Person oder um eine Personenvereinigung, so hat er seine
+Firma, die Nummer des Registerblatts im Handelsregister und seinen
+Sitz anzugeben.
+
+(2) Zur Auskunftserteilung hat der Schuldner alle ihm gehörenden
+Vermögensgegenstände anzugeben. Bei Forderungen sind Grund und
+Beweismittel zu bezeichnen. Ferner sind anzugeben:
+
+1.  die entgeltlichen Veräußerungen des Schuldners an eine nahestehende
+    Person (§ 138 der Insolvenzordnung), die dieser in den letzten zwei
+    Jahren vor dem Termin nach § 802f Abs. 1 und bis zur Abgabe der
+    Vermögensauskunft vorgenommen hat;
+
+
+2.  die unentgeltlichen Leistungen des Schuldners, die dieser in den
+    letzten vier Jahren vor dem Termin nach § 802f Abs. 1 und bis zur
+    Abgabe der Vermögensauskunft vorgenommen hat, sofern sie sich nicht
+    auf gebräuchliche Gelegenheitsgeschenke geringen Wertes richteten.
+
+
+
+Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich
+nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei
+denn, dass eine Austauschpfändung in Betracht kommt.
+
+(3) Der Schuldner hat zu Protokoll an Eides statt zu versichern, dass
+er die Angaben nach den Absätzen 1 und 2 nach bestem Wissen und
+Gewissen richtig und vollständig gemacht habe. Die Vorschriften der §§
+478 bis 480, 483 gelten entsprechend.
+
+
+##### § 802d Erneute Vermögensauskunft
+
+(1) Ein Schuldner, der die Vermögensauskunft nach § 802c dieses
+Gesetzes oder nach § 284 der Abgabenordnung innerhalb der letzten zwei
+Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn
+ein Gläubiger Tatsachen glaubhaft macht, die auf eine wesentliche
+Veränderung der Vermögensverhältnisse des Schuldners schließen lassen.
+Andernfalls leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck
+des letzten abgegebenen Vermögensverzeichnisses zu. Der Gläubiger darf
+die erlangten Daten nur zu Vollstreckungszwecken nutzen und hat die
+Daten nach Zweckerreichung zu löschen; hierauf ist er vom
+Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach
+Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und
+belehrt ihn über die Möglichkeit der Eintragung in das
+Schuldnerverzeichnis (§ 882c).
+
+(2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger auf
+Antrag das Vermögensverzeichnis als elektronisches Dokument
+übermittelt werden, wenn dieses mit einer qualifizierten
+elektronischen Signatur versehen und gegen unbefugte Kenntnisnahme
+geschützt ist.
+
+
+##### § 802e Zuständigkeit
+
+(1) Für die Abnahme der Vermögensauskunft und der eidesstattlichen
+Versicherung ist der Gerichtsvollzieher bei dem Amtsgericht zuständig,
+in dessen Bezirk der Schuldner im Zeitpunkt der Auftragserteilung
+seinen Wohnsitz oder in Ermangelung eines solchen seinen
+Aufenthaltsort hat.
+
+(2) Ist der angegangene Gerichtsvollzieher nicht zuständig, so leitet
+er die Sache auf Antrag des Gläubigers an den zuständigen
+Gerichtsvollzieher weiter.
+
+
+##### § 802f Verfahren zur Abnahme der Vermögensauskunft
+
+(1) Zur Abnahme der Vermögensauskunft setzt der Gerichtsvollzieher dem
+Schuldner für die Begleichung der Forderung eine Frist von zwei
+Wochen. Zugleich bestimmt er für den Fall, dass die Forderung nach
+Fristablauf nicht vollständig beglichen ist, einen Termin zur Abgabe
+der Vermögensauskunft alsbald nach Fristablauf und lädt den Schuldner
+zu diesem Termin in seine Geschäftsräume. Der Schuldner hat die zur
+Abgabe der Vermögensauskunft erforderlichen Unterlagen im Termin
+beizubringen.
+
+(2) Abweichend von Absatz 1 kann der Gerichtsvollzieher bestimmen,
+dass die Abgabe der Vermögensauskunft in der Wohnung des Schuldners
+stattfindet. Der Schuldner kann dieser Bestimmung binnen einer Woche
+gegenüber dem Gerichtsvollzieher widersprechen. Andernfalls gilt der
+Termin als pflichtwidrig versäumt, wenn der Schuldner in diesem Termin
+aus Gründen, die er zu vertreten hat, die Vermögensauskunft nicht
+abgibt.
+
+(3) Mit der Terminsladung ist der Schuldner über die nach § 802c Abs.
+2 erforderlichen Angaben zu belehren. Der Schuldner ist über seine
+Rechte und Pflichten nach den Absätzen 1 und 2, über die Folgen einer
+unentschuldigten Terminssäumnis oder einer Verletzung seiner
+Auskunftspflichten sowie über die Möglichkeit der Einholung von
+Auskünften Dritter nach § 802l und der Eintragung in das
+Schuldnerverzeichnis bei Abgabe der Vermögensauskunft nach § 882c zu
+belehren.
+
+(4) Zahlungsaufforderungen, Ladungen, Bestimmungen und Belehrungen
+nach den Absätzen 1 bis 3 sind dem Schuldner zuzustellen, auch wenn
+dieser einen Prozessbevollmächtigten bestellt hat; einer Mitteilung an
+den Prozessbevollmächtigten bedarf es nicht. Dem Gläubiger ist die
+Terminsbestimmung nach Maßgabe des § 357 Abs. 2 mitzuteilen.
+
+(5) Der Gerichtsvollzieher errichtet eine Aufstellung mit den nach §
+802c Absatz 1 und 2 erforderlichen Angaben als elektronisches Dokument
+(Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor Abgabe
+der Versicherung nach § 802c Abs. 3 vorzulesen oder zur Durchsicht auf
+einem Bildschirm wiederzugeben. Dem Schuldner ist auf Verlangen ein
+Ausdruck zu erteilen.
+
+(6) Der Gerichtsvollzieher hinterlegt das Vermögensverzeichnis bei dem
+zentralen Vollstreckungsgericht nach § 802k Abs. 1 und leitet dem
+Gläubiger unverzüglich einen Ausdruck zu. Der Ausdruck muss den
+Vermerk enthalten, dass er mit dem Inhalt des Vermögensverzeichnisses
+übereinstimmt; § 802d Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
+
+
+##### § 802g Erzwingungshaft
+
+(1) Auf Antrag des Gläubigers erlässt das Gericht gegen den Schuldner,
+der dem Termin zur Abgabe der Vermögensauskunft unentschuldigt
+fernbleibt oder die Abgabe der Vermögensauskunft gemäß § 802c ohne
+Grund verweigert, zur Erzwingung der Abgabe einen Haftbefehl. In dem
+Haftbefehl sind der Gläubiger, der Schuldner und der Grund der
+Verhaftung zu bezeichnen. Einer Zustellung des Haftbefehls vor seiner
+Vollziehung bedarf es nicht.
+
+(2) Die Verhaftung des Schuldners erfolgt durch einen
+Gerichtsvollzieher. Dem Schuldner ist der Haftbefehl bei der
+Verhaftung in beglaubigter Abschrift zu übergeben.
+
+
+##### § 802h Unzulässigkeit der Haftvollstreckung
+
+(1) Die Vollziehung des Haftbefehls ist unstatthaft, wenn seit dem
+Tag, an dem der Haftbefehl erlassen wurde, zwei Jahre vergangen sind.
+
+(2) Gegen einen Schuldner, dessen Gesundheit durch die Vollstreckung
+der Haft einer nahen und erheblichen Gefahr ausgesetzt würde, darf,
+solange dieser Zustand dauert, die Haft nicht vollstreckt werden.
+
+
+##### § 802i Vermögensauskunft des verhafteten Schuldners
+
+(1) Der verhaftete Schuldner kann zu jeder Zeit bei dem
+Gerichtsvollzieher des Amtsgerichts des Haftortes verlangen, ihm die
+Vermögensauskunft abzunehmen. Dem Verlangen ist unverzüglich
+stattzugeben; § 802f Abs. 5 gilt entsprechend. Dem Gläubiger wird die
+Teilnahme ermöglicht, wenn er dies beantragt hat und seine Teilnahme
+nicht zu einer Verzögerung der Abnahme führt.
+
+(2) Nach Abgabe der Vermögensauskunft wird der Schuldner aus der Haft
+entlassen. § 802f Abs. 5 und 6 gilt entsprechend.
+
+(3) Kann der Schuldner vollständige Angaben nicht machen, weil er die
+erforderlichen Unterlagen nicht bei sich hat, so kann der
+Gerichtsvollzieher einen neuen Termin bestimmen und die Vollziehung
+des Haftbefehls bis zu diesem Termin aussetzen. § 802f gilt
+entsprechend; der Setzung einer Zahlungsfrist bedarf es nicht.
+
+
+##### § 802j Dauer der Haft; erneute Haft
+
+(1) Die Haft darf die Dauer von sechs Monaten nicht übersteigen. Nach
+Ablauf der sechs Monate wird der Schuldner von Amts wegen aus der Haft
+entlassen.
+
+(2) Gegen den Schuldner, der ohne sein Zutun auf Antrag des Gläubigers
+aus der Haft entlassen ist, findet auf Antrag desselben Gläubigers
+eine Erneuerung der Haft nicht statt.
+
+(3) Ein Schuldner, gegen den wegen Verweigerung der Abgabe der
+Vermögensauskunft eine Haft von sechs Monaten vollstreckt ist, kann
+innerhalb der folgenden zwei Jahre auch auf Antrag eines anderen
+Gläubigers nur unter den Voraussetzungen des § 802d von neuem zur
+Abgabe einer solchen Vermögensauskunft durch Haft angehalten werden.
 
 
 ##### § 802k Zentrale Verwaltung der Vermögensverzeichnisse
 
-(1) (zukünftig in Kraft) Nach § 802f Abs. 6 dieses Gesetzes oder nach
-§ 284 Abs. 7 Satz 4 der Abgabenordnung zu hinterlegende
-Vermögensverzeichnisse werden landesweit von einem zentralen
-Vollstreckungsgericht in elektronischer Form verwaltet. Gleiches gilt
-für Vermögensverzeichnisse, die auf Grund einer § 284 Abs. 1 bis 7 der
-Abgabenordnung gleichwertigen bundesgesetzlichen oder
-landesgesetzlichen Regelung errichtet wurden, soweit diese Regelung
-die Hinterlegung anordnet. Ein Vermögensverzeichnis nach Satz 1 oder
-Satz 2 ist nach Ablauf von zwei Jahren seit Abgabe der Auskunft oder
-bei Eingang eines neuen Vermögensverzeichnisses zu löschen.
+(1) Nach § 802f Abs. 6 dieses Gesetzes oder nach § 284 Abs. 7 Satz 4
+der Abgabenordnung zu hinterlegende Vermögensverzeichnisse werden
+landesweit von einem zentralen Vollstreckungsgericht in elektronischer
+Form verwaltet. Die Vermögensverzeichnisse können über eine zentrale
+und länderübergreifende Abfrage im Internet eingesehen und abgerufen
+werden. Gleiches gilt für Vermögensverzeichnisse, die auf Grund einer
+§ 284 Abs. 1 bis 7 der Abgabenordnung gleichwertigen
+bundesgesetzlichen oder landesgesetzlichen Regelung errichtet wurden,
+soweit diese Regelung die Hinterlegung anordnet. Ein
+Vermögensverzeichnis nach Satz 1 oder Satz 2 ist nach Ablauf von zwei
+Jahren seit Abgabe der Auskunft oder bei Eingang eines neuen
+Vermögensverzeichnisses zu löschen.
 
-(2) (zukünftig in Kraft) Die Gerichtsvollzieher können die von den
-zentralen Vollstreckungsgerichten nach Absatz 1 verwalteten
+(2) Die Gerichtsvollzieher können die von den zentralen
+Vollstreckungsgerichten nach Absatz 1 verwalteten
 Vermögensverzeichnisse zu Vollstreckungszwecken abrufen. Den
 Gerichtsvollziehern stehen Vollstreckungsbehörden gleich, die
 
@@ -11979,15 +12252,53 @@ Vermögensverzeichnisse
 
 
 
-##### (XXXX) § 802l (zukünftig in Kraft)
+##### § 802l Auskunftsrechte des Gerichtsvollziehers
 
+(1) Kommt der Schuldner seiner Pflicht zur Abgabe der
+Vermögensauskunft nicht nach oder ist bei einer Vollstreckung in die
+dort aufgeführten Vermögensgegenstände eine vollständige Befriedigung
+des Gläubigers voraussichtlich nicht zu erwarten, so darf der
+Gerichtsvollzieher
+
+1.  bei den Trägern der gesetzlichen Rentenversicherung den Namen, die
+    Vornamen oder die Firma sowie die Anschriften der derzeitigen
+    Arbeitgeber eines versicherungspflichtigen Beschäftigungsverhältnisses
+    des Schuldners erheben;
+
+
+2.  das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten
+    die in § 93b Abs. 1 der Abgabenordnung bezeichneten Daten abzurufen (§
+    93 Abs. 8 Abgabenordnung);
+
+
+3.  beim Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 33 Abs.
+    1 des Straßenverkehrsgesetzes zu einem Fahrzeug, als dessen Halter der
+    Schuldner eingetragen ist, erheben.
+
+
+
+Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur
+Vollstreckung erforderlich ist und die zu vollstreckenden Ansprüche
+mindestens 500 Euro betragen; Kosten der Zwangsvollstreckung und
+Nebenforderungen sind bei der Berechnung nur zu berücksichtigen, wenn
+sie allein Gegenstand des Vollstreckungsauftrags sind.
+
+(2) Daten, die für die Zwecke der Vollstreckung nicht erforderlich
+sind, hat der Gerichtsvollzieher unverzüglich zu löschen oder zu
+sperren. Die Löschung ist zu protokollieren.
+
+(3) Über das Ergebnis einer Erhebung oder eines Ersuchens nach Absatz
+1 setzt der Gerichtsvollzieher den Gläubiger unter Beachtung des
+Absatzes 2 unverzüglich und den Schuldner innerhalb von vier Wochen
+nach Erhalt in Kenntnis. § 802d Abs. 1 Satz 3 und Abs. 2 gilt
+entsprechend.
 
 
 ### Abschnitt 2 - Zwangsvollstreckung wegen Geldforderungen
 
 
 
-#### Titel 1 - Zwangsvollstreckung in das bewegliche Vermögen
+#### Titel 2 - Zwangsvollstreckung in das bewegliche Vermögen
 
 
 
@@ -12072,67 +12383,30 @@ ihrer Angaben hinzuweisen. Seine Erkenntnisse teilt der
 Gerichtsvollzieher dem Gläubiger mit.
 
 
-###### § 806b Gütliche und zügige Erledigung
-
-Der Gerichtsvollzieher soll in jeder Lage des
-Zwangsvollstreckungsverfahrens auf eine gütliche und zügige Erledigung
-hinwirken. Findet er pfändbare Gegenstände nicht vor, versichert der
-Schuldner aber glaubhaft, die Schuld kurzfristig in Teilbeträgen zu
-tilgen, so zieht der Gerichtsvollzieher die Teilbeträge ein, wenn der
-Gläubiger hiermit einverstanden ist. Die Tilgung soll in der Regel
-innerhalb von sechs Monaten erfolgt sein.
-
-
-###### § 807 Eidesstattliche Versicherung
-
-(1) Der Schuldner ist nach Erteilung des Auftrags nach § 900 Abs. 1
-verpflichtet, ein Verzeichnis seines Vermögens vorzulegen und für
-seine Forderungen den Grund und die Beweismittel zu bezeichnen, wenn
-
-1.  die Pfändung zu einer vollständigen Befriedigung des Gläubigers nicht
-    geführt hat,
-
-
-2.  der Gläubiger glaubhaft macht, dass er durch die Pfändung seine
-    Befriedigung nicht vollständig erlangen könne,
-
-
-3.  der Schuldner die Durchsuchung (§ 758) verweigert hat oder
-
-
-4.  der Gerichtsvollzieher den Schuldner wiederholt in seiner Wohnung
-    nicht angetroffen hat, nachdem er einmal die Vollstreckung mindestens
-    zwei Wochen vorher angekündigt hatte; dies gilt nicht, wenn der
-    Schuldner seine Abwesenheit genügend entschuldigt und den Grund
-    glaubhaft macht.
+###### § 806b (weggefallen)
 
 
 
+###### § 807 Abnahme der Vermögensauskunft nach Pfändungsversuch
 
-(2) Aus dem Vermögensverzeichnis müssen auch ersichtlich sein
+(1) Hat der Gläubiger die Vornahme der Pfändung beim Schuldner
+beantragt und
 
-1.  die in den letzten zwei Jahren vor dem ersten zur Abgabe der
-    eidesstattlichen Versicherung anberaumten Termin vorgenommenen
-    entgeltlichen Veräußerungen des Schuldners an eine nahestehende Person
-    (§ 138 der Insolvenzordnung);
+1.  hat der Schuldner die Durchsuchung (§ 758) verweigert oder
 
 
-2.  die in den letzten vier Jahren vor dem ersten zur Abgabe der
-    eidesstattlichen Versicherung anberaumten Termin von dem Schuldner
-    vorgenommenen unentgeltlichen Leistungen, sofern sie sich nicht auf
-    gebräuchliche Gelegenheitsgeschenke geringen Werts richteten.
+2.  ergibt der Pfändungsversuch, dass eine Pfändung voraussichtlich nicht
+    zu einer vollständigen Befriedigung des Gläubigers führen wird,
 
 
 
-Sachen, die nach § 811 Abs. 1 Nr. 1, 2 der Pfändung offensichtlich
-nicht unterworfen sind, brauchen in dem Vermögensverzeichnis nicht
-angegeben zu werden, es sei denn, dass eine Austauschpfändung in
-Betracht kommt.
+so kann der Gerichtsvollzieher dem Schuldner die Vermögensauskunft auf
+Antrag des Gläubigers abweichend von § 802f sofort abnehmen. § 802f
+Abs. 5 und 6 findet Anwendung.
 
-(3) Der Schuldner hat zu Protokoll an Eides statt zu versichern, dass
-er die von ihm verlangten Angaben nach bestem Wissen und Gewissen
-richtig und vollständig gemacht habe. Die Vorschriften der §§ 478 bis
-480, 483 gelten entsprechend.
+(2) Der Schuldner kann einer sofortigen Abnahme widersprechen. In
+diesem Fall verfährt der Gerichtsvollzieher nach § 802f; der Setzung
+einer Zahlungsfrist bedarf es nicht.
 
 
 ##### Untertitel 2 - Zwangsvollstreckung in körperliche Sachen
@@ -12392,67 +12666,12 @@ von 500 Euro übersteigt.
 Fällen ein Sachverständiger zugezogen werden soll.
 
 
-###### § 813a Aufschub der Verwertung
-
-(1) Hat der Gläubiger eine Zahlung in Teilbeträgen nicht
-ausgeschlossen, kann der Gerichtsvollzieher die Verwertung gepfändeter
-Sachen aufschieben, wenn sich der Schuldner verpflichtet, den Betrag,
-der zur Befriedigung des Gläubigers und zur Deckung der Kosten der
-Zwangsvollstreckung erforderlich ist, innerhalb eines Jahres zu
-zahlen; hierfür kann der Gerichtsvollzieher Raten nach Höhe und
-Zeitpunkt festsetzen. Einen Termin zur Verwertung kann der
-Gerichtsvollzieher auf einen Zeitpunkt bestimmen, der nach dem
-nächsten Zahlungstermin liegt; einen bereits bestimmten Termin kann er
-auf diesen Zeitpunkt verlegen.
-
-(2) Hat der Gläubiger einer Zahlung in Teilbeträgen nicht bereits bei
-Erteilung des Vollstreckungsauftrags zugestimmt, hat ihn der
-Gerichtsvollzieher unverzüglich über den Aufschub der Verwertung und
-über die festgesetzten Raten zu unterrichten. In diesem Fall kann der
-Gläubiger dem Verwertungsaufschub widersprechen. Der
-Gerichtsvollzieher unterrichtet den Schuldner über den Widerspruch;
-mit der Unterrichtung endet der Aufschub. Dieselbe Wirkung tritt ein,
-wenn der Schuldner mit einer Zahlung ganz oder teilweise in Verzug
-kommt.
+###### § 813a (weggefallen)
 
 
-###### § 813b Aussetzung der Verwertung
 
-(1) Das Vollstreckungsgericht kann auf Antrag des Schuldners die
-Verwertung gepfändeter Sachen unter Anordnung von Zahlungsfristen
-zeitweilig aussetzen, wenn dies nach der Persönlichkeit und den
-wirtschaftlichen Verhältnissen des Schuldners sowie nach der Art der
-Schuld angemessen erscheint und nicht überwiegende Belange des
-Gläubigers entgegenstehen. Es ist befugt, die in § 732 Abs. 2
-bezeichneten Anordnungen zu erlassen.
+###### § 813b (weggefallen)
 
-(2) Wird der Antrag nicht binnen einer Frist von zwei Wochen gestellt,
-so ist er ohne sachliche Prüfung zurückzuweisen, wenn das
-Vollstreckungsgericht der Überzeugung ist, dass der Schuldner den
-Antrag in der Absicht der Verschleppung oder aus grober Nachlässigkeit
-nicht früher gestellt hat. Die Frist beginnt im Falle eines
-Verwertungsaufschubs nach § 813a mit dessen Ende, im Übrigen mit der
-Pfändung.
-
-(3) Anordnungen nach Absatz 1 können mehrmals ergehen und, soweit es
-nach Lage der Verhältnisse, insbesondere wegen nicht ordnungsmäßiger
-Erfüllung der Zahlungsauflagen, geboten ist, auf Antrag aufgehoben
-oder abgeändert werden.
-
-(4) Die Verwertung darf durch Anordnungen nach Absatz 1 und Absatz 3
-nicht länger als insgesamt ein Jahr nach der Pfändung hinausgeschoben
-werden.
-
-(5) Vor den in Absatz 1 und in Absatz 3 bezeichneten Entscheidungen
-ist, soweit dies ohne erhebliche Verzögerung möglich ist, der Gegner
-zu hören. Die für die Entscheidung wesentlichen tatsächlichen
-Verhältnisse sind glaubhaft zu machen. Das Gericht soll in geeigneten
-Fällen auf eine gütliche Abwicklung der Verbindlichkeiten hinwirken
-und kann hierzu eine mündliche Verhandlung anordnen. Die
-Entscheidungen nach den Absätzen 1, 2 und 3 sind unanfechtbar.
-
-(6) In Wechselsachen findet eine Aussetzung der Verwertung gepfändeter
-Sachen nicht statt.
 
 
 ###### § 814 Öffentliche Versteigerung
@@ -12763,6 +12982,51 @@ die die Verfahren nicht elektronisch bearbeiten, können
 unterschiedliche Formulare eingeführt werden.
 
 
+###### § 829a Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
+
+(1) Im Fall eines elektronischen Antrags zur Zwangsvollstreckung aus
+einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht
+bedarf, ist bei Pfändung und Überweisung einer Geldforderung (§§ 829,
+835) die Übermittlung der Ausfertigung des Vollstreckungsbescheides
+entbehrlich, wenn
+
+1.  die sich aus dem Vollstreckungsbescheid ergebende fällige
+    Geldforderung nicht mehr als 5 000 Euro beträgt; Kosten der
+    Zwangsvollstreckung und Nebenforderungen sind bei der Berechnung der
+    Forderungshöhe nur zu berücksichtigen, wenn sie allein Gegenstand des
+    Vollstreckungsantrags sind;
+
+
+2.  die Vorlage anderer Urkunden als der Ausfertigung des
+    Vollstreckungsbescheides nicht vorgeschrieben ist;
+
+
+3.  der Gläubiger eine Ausfertigung oder eine Abschrift des
+    Vollstreckungsbescheides nebst Zustellungsbescheinigung als
+    elektronisches Dokument dem Antrag beifügt und
+
+
+4.  der Gläubiger versichert, dass ihm eine Ausfertigung des
+    Vollstreckungsbescheides und eine Zustellungsbescheinigung vorliegen
+    und die Forderung in Höhe des Vollstreckungsantrags noch besteht.
+
+
+
+Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind
+zusätzlich zu den in Satz 1 Nr. 3 genannten Dokumenten eine
+nachprüfbare Aufstellung der Kosten und entsprechende Belege als
+elektronisches Dokument dem Antrag beizufügen.
+
+(2) Hat das Gericht an dem Vorliegen einer Ausfertigung des
+Vollstreckungsbescheides oder der übrigen
+Vollstreckungsvoraussetzungen Zweifel, teilt es dies dem Gläubiger mit
+und führt die Zwangsvollstreckung erst durch, nachdem der Gläubiger
+die Ausfertigung des Vollstreckungsbescheides übermittelt oder die
+übrigen Vollstreckungsvoraussetzungen nachgewiesen hat.
+
+(3) § 130a Abs. 2 bleibt unberührt.
+
+
 ###### § 830 Pfändung einer Hypothekenforderung
 
 (1) Zur Pfändung einer Forderung, für die eine Hypothek besteht, ist
@@ -12904,8 +13168,12 @@ Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die
 über die Forderung vorhandenen Urkunden herauszugeben. Erteilt der
 Schuldner die Auskunft nicht, so ist er auf Antrag des Gläubigers
 verpflichtet, sie zu Protokoll zu geben und seine Angaben an Eides
-statt zu versichern. Die Herausgabe der Urkunden kann von dem
-Gläubiger im Wege der Zwangsvollstreckung erwirkt werden.
+statt zu versichern. Der gemäß § 802e zuständige Gerichtsvollzieher
+lädt den Schuldner zur Abgabe der Auskunft und eidesstattlichen
+Versicherung. Die Vorschriften des § 802f Abs. 4 und der §§ 802g bis
+802i, 802j Abs. 1 und 2 gelten entsprechend. Die Herausgabe der
+Urkunden kann von dem Gläubiger im Wege der Zwangsvollstreckung
+erwirkt werden.
 
 
 ###### § 837 Überweisung einer Hypothekenforderung
@@ -13058,10 +13326,8 @@ Aufforderung an den Schuldner, sich jeder Verfügung über die
 Forderung, insbesondere ihrer Einziehung, zu enthalten. Der
 Gerichtsvollzieher hat die Benachrichtigung mit den Aufforderungen
 selbst anzufertigen, wenn er von dem Gläubiger hierzu ausdrücklich
-beauftragt worden ist. Der vorherigen Erteilung einer vollstreckbaren
-Ausfertigung und der Zustellung des Schuldtitels bedarf es nicht. An
-Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung
-erfolgt die Zustellung durch Aufgabe zur Post.
+beauftragt worden ist. An Stelle einer an den Schuldner im Ausland zu
+bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post.
 
 (2) Die Benachrichtigung an den Drittschuldner hat die Wirkung eines
 Arrestes (§ 930), sofern die Pfändung der Forderung innerhalb eines
@@ -13783,9 +14049,21 @@ Gleiche gilt von der Pfändung von Barmitteln und Guthaben, die aus
 Miet- oder Pachtzahlungen herrühren und zu den in Satz 1 bezeichneten
 Zwecken unentbehrlich sind.
 
-(2) Die Vorschriften des § 813b Abs. 2, 3 und Abs. 5 Satz 1 und 2
-gelten entsprechend. Die Pfändung soll unterbleiben, wenn offenkundig
-ist, dass die Voraussetzungen für die Aufhebung der
+(2) Wird der Antrag nicht binnen einer Frist von zwei Wochen gestellt,
+so ist er ohne sachliche Prüfung zurückzuweisen, wenn das
+Vollstreckungsgericht der Überzeugung ist, dass der Schuldner den
+Antrag in der Absicht der Verschleppung oder aus grober Nachlässigkeit
+nicht früher gestellt hat. Die Frist beginnt mit der Pfändung.
+
+(3) Anordnungen nach Absatz 1 können mehrmals ergehen und, soweit es
+nach Lage der Verhältnisse geboten ist, auf Antrag aufgehoben oder
+abgeändert werden.
+
+(4) Vor den in den Absätzen 1 und 3 bezeichneten Entscheidungen ist,
+soweit dies ohne erhebliche Verzögerung möglich ist, der Gläubiger zu
+hören. Die für die Entscheidung wesentlichen tatsächlichen
+Verhältnisse sind glaubhaft zu machen. Die Pfändung soll unterbleiben,
+wenn offenkundig ist, dass die Voraussetzungen für die Aufhebung der
 Zwangsvollstreckung nach Absatz 1 vorliegen.
 
 
@@ -13817,13 +14095,13 @@ ermöglichen, kann er unter Berücksichtigung der Entwicklung auf dem
 Kapitalmarkt, des Sterblichkeitsrisikos und der Höhe der
 Pfändungsfreigrenze, nach seinem Lebensalter gestaffelt, jährlich
 einen bestimmten Betrag unpfändbar auf der Grundlage eines in Absatz 1
-bezeichneten Vertrags bis zu einer Gesamtsumme von 238.000 Euro
+bezeichneten Vertrags bis zu einer Gesamtsumme von 256 000 Euro
 ansammeln. Der Schuldner darf vom 18. bis zum vollendeten 29.
-Lebensjahr 2.000 Euro, vom 30. bis zum vollendeten 39. Lebensjahr
-4\.000 Euro, vom 40. bis zum vollendeten 47. Lebensjahr 4.500 Euro, vom
-48\. bis zum vollendeten 53. Lebensjahr 6.000 Euro, vom 54. bis zum
-vollendeten 59. Lebensjahr 8.000 Euro und vom 60. bis zum vollendeten
-65\. Lebensjahr 9.000 Euro jährlich ansammeln. Übersteigt der
+Lebensjahr 2 000 Euro, vom 30. bis zum vollendeten 39. Lebensjahr 4
+000 Euro, vom 40. bis zum vollendeten 47. Lebensjahr 4 500 Euro, vom
+48\. bis zum vollendeten 53. Lebensjahr 6 000 Euro, vom 54. bis zum
+vollendeten 59. Lebensjahr 8 000 Euro und vom 60. bis zum vollendeten
+67\. Lebensjahr 9 000 Euro jährlich ansammeln. Übersteigt der
 Rückkaufwert der Alterssicherung den unpfändbaren Betrag, sind drei
 Zehntel des überschießenden Betrags unpfändbar. Satz 3 gilt nicht für
 den Teil des Rückkaufwerts, der den dreifachen Wert des in Satz 1
@@ -14051,7 +14329,7 @@ Abkömmlings an dem Gesamtgut der fortgesetzten Gütergemeinschaft nach
 Absatz 1 bezeichneten Art unterliegt.
 
 
-#### Titel 2 - Zwangsvollstreckung in das unbewegliche Vermögen
+#### Titel 3 - Zwangsvollstreckung in das unbewegliche Vermögen
 
 
 
@@ -14179,7 +14457,7 @@ und die Zwangsvollstreckung abweichend von den Vorschriften des
 Bundesrechts geregelt ist.
 
 
-#### Titel 3 - Verteilungsverfahren
+#### Titel 4 - Verteilungsverfahren
 
 
 
@@ -14299,7 +14577,7 @@ Auf Grund des erlassenen Urteils wird die Auszahlung oder das
 anderweite Verteilungsverfahren von dem Verteilungsgericht angeordnet.
 
 
-#### Titel 4 - Zwangsvollstreckung gegen juristische Personen des öffentlichen Rechts
+#### Titel 5 - Zwangsvollstreckung gegen juristische Personen des öffentlichen Rechts
 
 
 
@@ -14339,23 +14617,213 @@ Wartefrist nach Maßgabe der Absätze 1 und 3 bedarf es nicht, wenn es
 sich um den Vollzug einer einstweiligen Verfügung handelt.
 
 
-#### Titel 6 - (zukünftig in Kraft)
+#### Titel 6 - Schuldnerverzeichnis
 
 
 
-##### (XXXX) §§ 882b bis 882f (zukünftig in Kraft)
+##### § 882b Inhalt des Schuldnerverzeichnisses
 
+(1) Das zentrale Vollstreckungsgericht nach § 882h Abs. 1 führt ein
+Verzeichnis (Schuldnerverzeichnis) derjenigen Personen,
+
+1.  deren Eintragung der Gerichtsvollzieher nach Maßgabe des § 882c
+    angeordnet hat;
+
+
+2.  deren Eintragung die Vollstreckungsbehörde nach Maßgabe des § 284 Abs.
+    9 der Abgabenordnung angeordnet hat; einer Eintragungsanordnung nach §
+    284 Abs. 9 der Abgabenordnung steht die Anordnung der Eintragung in
+    das Schuldnerverzeichnis durch eine Vollstreckungsbehörde gleich, die
+    auf Grund einer gleichwertigen Regelung durch Bundesgesetz oder durch
+    Landesgesetz ergangen ist;
+
+
+3.  deren Eintragung das Insolvenzgericht nach Maßgabe des § 26 Abs. 2 der
+    Insolvenzordnung angeordnet hat.
+
+
+
+
+(2) Im Schuldnerverzeichnis werden angegeben:
+
+1.  Name, Vorname und Geburtsname des Schuldners sowie die Firma und deren
+    Nummer des Registerblatts im Handelsregister,
+
+
+2.  Geburtsdatum und Geburtsort des Schuldners,
+
+
+3.  Wohnsitze des Schuldners oder Sitz des Schuldners,
+
+
+
+einschließlich abweichender Personendaten.
+
+(3) Im Schuldnerverzeichnis werden weiter angegeben:
+
+1.  Aktenzeichen und Gericht oder Vollstreckungsbehörde der
+    Vollstreckungssache oder des Insolvenzverfahrens,
+
+
+2.  im Fall des Absatzes 1 Nr. 1 das Datum der Eintragungsanordnung und
+    der gemäß § 882c zur Eintragung führende Grund,
+
+
+3.  im Fall des Absatzes 1 Nr. 2 das Datum der Eintragungsanordnung und
+    der gemäß § 284 Abs. 9 der Abgabenordnung oder einer gleichwertigen
+    Regelung im Sinne von Absatz 1 Nr. 2 Halbsatz 2 zur Eintragung
+    führende Grund,
+
+
+4.  im Fall des Absatzes 1 Nr. 3 das Datum der Eintragungsanordnung und
+    die Feststellung, dass ein Antrag auf Eröffnung des
+    Insolvenzverfahrens über das Vermögen des Schuldners mangels Masse
+    abgewiesen wurde.
+
+
+
+
+
+##### § 882c Eintragungsanordnung
+
+(1) Der zuständige Gerichtsvollzieher ordnet von Amts wegen die
+Eintragung des Schuldners in das Schuldnerverzeichnis an, wenn
+
+1.  der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft nicht
+    nachgekommen ist;
+
+
+2.  eine Vollstreckung nach dem Inhalt des Vermögensverzeichnisses
+    offensichtlich nicht geeignet wäre, zu einer vollständigen
+    Befriedigung des Gläubigers zu führen, auf dessen Antrag die
+    Vermögensauskunft erteilt oder dem die erteilte Auskunft zugeleitet
+    wurde, oder
+
+
+3.  der Schuldner dem Gerichtsvollzieher nicht innerhalb eines Monats nach
+    Abgabe der Vermögensauskunft oder Bekanntgabe der Zuleitung nach §
+    802d Abs. 1 Satz 2 die vollständige Befriedigung des Gläubigers
+    nachweist, auf dessen Antrag die Vermögensauskunft erteilt oder dem
+    die erteilte Auskunft zugeleitet wurde. Dies gilt nicht, solange ein
+    Zahlungsplan nach § 802b festgesetzt und nicht hinfällig ist.
+
+
+
+
+(2) Die Eintragungsanordnung soll kurz begründet werden. Sie ist dem
+Schuldner zuzustellen, soweit sie ihm nicht mündlich bekannt gegeben
+und in das Protokoll aufgenommen wird (§ 763).
+
+(3) Die Eintragungsanordnung hat die in § 882b Abs. 2 und 3 genannten
+Daten zu enthalten. Sind dem Gerichtsvollzieher die nach § 882b Abs. 2
+Nr. 1 bis 3 im Schuldnerverzeichnis anzugebenden Daten nicht bekannt,
+holt er Auskünfte bei den in § 755 Abs. 1 und 2 Satz 1 Nr. 1 genannten
+Stellen ein oder sieht das Handelsregister ein, um die erforderlichen
+Daten zu beschaffen.
+
+
+##### § 882d Vollziehung der Eintragungsanordnung
+
+(1) Gegen die Eintragungsanordnung nach § 882c kann der Schuldner
+binnen zwei Wochen seit Bekanntgabe Widerspruch beim zuständigen
+Vollstreckungsgericht einlegen. Der Widerspruch hemmt nicht die
+Vollziehung. Nach Ablauf der Frist des Satzes 1 übermittelt der
+Gerichtsvollzieher die Anordnung unverzüglich elektronisch dem
+zentralen Vollstreckungsgericht nach § 882h Abs. 1. Dieses veranlasst
+die Eintragung des Schuldners.
+
+(2) Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen,
+dass die Eintragung einstweilen ausgesetzt wird. Das zentrale
+Vollstreckungsgericht nach § 882h Abs. 1 hat von einer Eintragung
+abzusehen, wenn ihm die Ausfertigung einer vollstreckbaren
+Entscheidung vorgelegt wird, aus der sich ergibt, dass die
+Eintragungsanordnung einstweilen ausgesetzt ist.
+
+(3) Über die Rechtsbehelfe nach den Absätzen 1 und 2 ist der Schuldner
+mit der Bekanntgabe der Eintragungsanordnung zu belehren. Das Gericht,
+das über die Rechtsbehelfe entschieden hat, übermittelt seine
+Entscheidung dem zentralen Vollstreckungsgericht nach § 882h Abs. 1
+elektronisch.
+
+
+##### § 882e Löschung
+
+(1) Eine Eintragung im Schuldnerverzeichnis wird nach Ablauf von drei
+Jahren seit dem Tag der Eintragungsanordnung von dem zentralen
+Vollstreckungsgericht nach § 882h Abs. 1 gelöscht. Im Fall des § 882b
+Abs. 1 Nr. 3 beträgt die Löschungsfrist fünf Jahre seit Erlass des
+Abweisungsbeschlusses.
+
+(2) Über Einwendungen gegen die Löschung nach Absatz 1 oder ihre
+Versagung entscheidet der Urkundsbeamte der Geschäftsstelle. Gegen
+seine Entscheidung findet die Erinnerung nach § 573 statt.
+
+(3) Abweichend von Absatz 1 wird eine Eintragung auf Anordnung des
+zentralen Vollstreckungsgerichts nach § 882h Abs. 1 gelöscht, wenn
+diesem
+
+1.  die vollständige Befriedigung des Gläubigers nachgewiesen worden ist;
+
+
+2.  das Fehlen oder der Wegfall des Eintragungsgrundes bekannt geworden
+    ist oder
+
+
+3.  die Ausfertigung einer vollstreckbaren Entscheidung vorgelegt wird,
+    aus der sich ergibt, dass die Eintragungsanordnung aufgehoben oder
+    einstweilen ausgesetzt ist.
+
+
+
+
+(4) Wird dem zentralen Vollstreckungsgericht nach § 882h Abs. 1
+bekannt, dass der Inhalt einer Eintragung von Beginn an fehlerhaft
+war, wird die Eintragung durch den Urkundsbeamten der Geschäftsstelle
+geändert. Wird der Schuldner oder ein Dritter durch die Änderung der
+Eintragung beschwert, findet die Erinnerung nach § 573 statt.
+
+
+##### § 882f Einsicht in das Schuldnerverzeichnis
+
+Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der
+darlegt, Angaben nach § 882b zu benötigen:
+
+1.  für Zwecke der Zwangsvollstreckung;
+
+
+2.  um gesetzliche Pflichten zur Prüfung der wirtschaftlichen
+    Zuverlässigkeit zu erfüllen;
+
+
+3.  um Voraussetzungen für die Gewährung von öffentlichen Leistungen zu
+    prüfen;
+
+
+4.  um wirtschaftliche Nachteile abzuwenden, die daraus entstehen können,
+    dass Schuldner ihren Zahlungsverpflichtungen nicht nachkommen;
+
+
+5.  für Zwecke der Strafverfolgung und der Strafvollstreckung;
+
+
+6.  zur Auskunft über ihn selbst betreffende Eintragungen.
+
+
+
+Die Informationen dürfen nur für den Zweck verwendet werden, für den
+sie übermittelt worden sind; sie sind nach Zweckerreichung zu löschen.
+Nichtöffentliche Stellen sind darauf bei der Übermittlung hinzuweisen.
 
 
 ##### § 882g Erteilung von Abdrucken
 
-(1) (zukünftig in Kraft) Aus dem Schuldnerverzeichnis können auf
-Antrag Abdrucke zum laufenden Bezug erteilt werden, auch durch
-Übermittlung in einer nur maschinell lesbaren Form. Bei der
-Übermittlung in einer nur maschinell lesbaren Form gelten die von der
-Landesjustizverwaltung festgelegten Datenübertragungsregeln.
+(1) Aus dem Schuldnerverzeichnis können auf Antrag Abdrucke zum
+laufenden Bezug erteilt werden, auch durch Übermittlung in einer nur
+maschinell lesbaren Form. Bei der Übermittlung in einer nur maschinell
+lesbaren Form gelten die von der Landesjustizverwaltung festgelegten
+Datenübertragungsregeln.
 
-(2) (zukünftig in Kraft) Abdrucke erhalten:
+(2) Abdrucke erhalten:
 
 1.  Industrie- und Handelskammern sowie Körperschaften des öffentlichen
     Rechts, in denen Angehörige eines Berufes kraft Gesetzes
@@ -14373,47 +14841,45 @@ Landesjustizverwaltung festgelegten Datenübertragungsregeln.
 
 
 
-(3) (zukünftig in Kraft) Die Abdrucke sind vertraulich zu behandeln
-und dürfen Dritten nicht zugänglich gemacht werden. Nach der
-Beendigung des laufenden Bezugs sind die Abdrucke unverzüglich zu
-vernichten; Auskünfte dürfen nicht mehr erteilt werden.
+(3) Die Abdrucke sind vertraulich zu behandeln und dürfen Dritten
+nicht zugänglich gemacht werden. Nach der Beendigung des laufenden
+Bezugs sind die Abdrucke unverzüglich zu vernichten; Auskünfte dürfen
+nicht mehr erteilt werden.
 
-(4) (zukünftig in Kraft) Die Kammern dürfen ihren Mitgliedern oder den
-Mitgliedern einer anderen Kammer Auskünfte erteilen. Andere Bezieher
-von Abdrucken dürfen Auskünfte erteilen, soweit dies zu ihrer
-ordnungsgemäßen Tätigkeit gehört. Absatz 3 gilt entsprechend. Die
-Auskünfte dürfen auch im automatisierten Abrufverfahren erteilt
-werden, soweit dieses Verfahren unter Berücksichtigung der
-schutzwürdigen Interessen der Betroffenen und der Geschäftszwecke der
-zum Abruf berechtigten Stellen angemessen ist.
+(4) Die Kammern dürfen ihren Mitgliedern oder den Mitgliedern einer
+anderen Kammer Auskünfte erteilen. Andere Bezieher von Abdrucken
+dürfen Auskünfte erteilen, soweit dies zu ihrer ordnungsgemäßen
+Tätigkeit gehört. Absatz 3 gilt entsprechend. Die Auskünfte dürfen
+auch im automatisierten Abrufverfahren erteilt werden, soweit dieses
+Verfahren unter Berücksichtigung der schutzwürdigen Interessen der
+Betroffenen und der Geschäftszwecke der zum Abruf berechtigten Stellen
+angemessen ist.
 
-(5) (zukünftig in Kraft) Die Kammern dürfen die Abdrucke in Listen
-zusammenfassen oder hiermit Dritte beauftragen; sie haben diese bei
-der Durchführung des Auftrags zu beaufsichtigen. Die Listen dürfen den
-Mitgliedern von Kammern auf Antrag zum laufenden Bezug überlassen
-werden. Für den Bezug der Listen gelten Absatz 2 Nr. 3 und Absatz 3
-entsprechend. Die Bezieher der Listen dürfen Auskünfte nur jemandem
-erteilen, dessen Belange sie kraft Gesetzes oder Vertrages
-wahrzunehmen haben.
+(5) Die Kammern dürfen die Abdrucke in Listen zusammenfassen oder
+hiermit Dritte beauftragen; sie haben diese bei der Durchführung des
+Auftrags zu beaufsichtigen. Die Listen dürfen den Mitgliedern von
+Kammern auf Antrag zum laufenden Bezug überlassen werden. Für den
+Bezug der Listen gelten Absatz 2 Nr. 3 und Absatz 3 entsprechend. Die
+Bezieher der Listen dürfen Auskünfte nur jemandem erteilen, dessen
+Belange sie kraft Gesetzes oder Vertrages wahrzunehmen haben.
 
-(6) (zukünftig in Kraft) Für Abdrucke, Listen und Aufzeichnungen über
-eine Eintragung im Schuldnerverzeichnis, die auf der Verarbeitung von
-Abdrucken oder Listen oder auf Auskünften über Eintragungen im
-Schuldnerverzeichnis beruhen, gilt § 882e Abs. 1 entsprechend. Über
-vorzeitige Löschungen (§ 882e Abs. 3) sind die Bezieher von Abdrucken
-innerhalb eines Monats zu unterrichten. Sie unterrichten unverzüglich
-die Bezieher von Listen (Absatz 5 Satz 2). In den auf Grund der
-Abdrucke und Listen erstellten Aufzeichnungen sind die Eintragungen
-unverzüglich zu löschen. Listen sind auch unverzüglich zu vernichten,
-soweit sie durch neue ersetzt werden.
+(6) Für Abdrucke, Listen und Aufzeichnungen über eine Eintragung im
+Schuldnerverzeichnis, die auf der Verarbeitung von Abdrucken oder
+Listen oder auf Auskünften über Eintragungen im Schuldnerverzeichnis
+beruhen, gilt § 882e Abs. 1 entsprechend. Über vorzeitige Löschungen
+(§ 882e Abs. 3) sind die Bezieher von Abdrucken innerhalb eines Monats
+zu unterrichten. Sie unterrichten unverzüglich die Bezieher von Listen
+(Absatz 5 Satz 2). In den auf Grund der Abdrucke und Listen erstellten
+Aufzeichnungen sind die Eintragungen unverzüglich zu löschen. Listen
+sind auch unverzüglich zu vernichten, soweit sie durch neue ersetzt
+werden.
 
-(7) (zukünftig in Kraft) In den Fällen des Absatzes 2 Nr. 2 und 3
-sowie des Absatzes 5 gilt für nichtöffentliche Stellen § 38 des
-Bundesdatenschutzgesetzes mit der Maßgabe, dass die Aufsichtsbehörde
-auch die Verarbeitung und Nutzung dieser personenbezogenen Daten in
-oder aus Akten überwacht. Entsprechendes gilt für nichtöffentliche
-Stellen, die von den in Absatz 2 genannten Stellen Auskünfte erhalten
-haben.
+(7) In den Fällen des Absatzes 2 Nr. 2 und 3 sowie des Absatzes 5 gilt
+für nichtöffentliche Stellen § 38 des Bundesdatenschutzgesetzes mit
+der Maßgabe, dass die Aufsichtsbehörde auch die Verarbeitung und
+Nutzung dieser personenbezogenen Daten in oder aus Akten
+überwacht.Entsprechendes gilt für nichtöffentliche Stellen, die von
+den in Absatz 2 genannten Stellen Auskünfte erhalten haben.
 
 (8) Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -14448,13 +14914,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 ##### § 882h Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses
 
-(1) (zukünftig in Kraft) Das Schuldnerverzeichnis wird für jedes Land
-von einem zentralen Vollstreckungsgericht geführt. Der Inhalt des
-Schuldnerverzeichnisses kann über eine zentrale und
-länderübergreifende Abfrage im Internet eingesehen werden. Die Länder
-können Einzug und Verteilung der Gebühren sowie weitere
-Abwicklungsaufgaben im Zusammenhang mit der Abfrage nach Satz 2 auf
-die zuständige Stelle eines Landes übertragen.
+(1) Das Schuldnerverzeichnis wird für jedes Land von einem zentralen
+Vollstreckungsgericht geführt. Der Inhalt des Schuldnerverzeichnisses
+kann über eine zentrale und länderübergreifende Abfrage im Internet
+eingesehen werden. Die Länder können Einzug und Verteilung der
+Gebühren sowie weitere Abwicklungsaufgaben im Zusammenhang mit der
+Abfrage nach Satz 2 auf die zuständige Stelle eines Landes übertragen.
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung, welches
 Gericht die Aufgaben des zentralen Vollstreckungsgerichts nach Absatz
@@ -14511,12 +14976,15 @@ Gerichtsvollzieher ihm wegzunehmen und dem Gläubiger zu übergeben.
 (2) Wird die herauszugebende Sache nicht vorgefunden, so ist der
 Schuldner verpflichtet, auf Antrag des Gläubigers zu Protokoll an
 Eides statt zu versichern, dass er die Sache nicht besitze, auch nicht
-wisse, wo die Sache sich befinde.
+wisse, wo die Sache sich befinde. Der gemäß § 802e zuständige
+Gerichtsvollzieher lädt den Schuldner zur Abgabe der eidesstattlichen
+Versicherung. Die Vorschriften der §§ 478 bis 480, 483, 802f Abs. 4,
+§§ 802g bis 802i und 802j Abs. 1 und 2 gelten entsprechend.
 
 (3) Das Gericht kann eine der Sachlage entsprechende Änderung der
 eidesstattlichen Versicherung beschließen.
 
-(4) Die Vorschriften der §§ 478 bis 480, 483 gelten entsprechend.
+(4) (weggefallen)
 
 
 #### § 884 Leistung einer bestimmten Menge vertretbarer Sachen
@@ -14591,8 +15059,8 @@ auf Antrag von dem Prozessgericht des ersten Rechtszuges zu erkennen,
 dass der Schuldner zur Vornahme der Handlung durch Zwangsgeld und für
 den Fall, dass dieses nicht beigetrieben werden kann, durch Zwangshaft
 oder durch Zwangshaft anzuhalten sei. Das einzelne Zwangsgeld darf den
-Betrag von 25.000 Euro nicht übersteigen. Für die Zwangshaft gelten
-die Vorschriften des Vierten Abschnitts über die Haft entsprechend.
+Betrag von 25 000 Euro nicht übersteigen. Für die Zwangshaft gelten
+die Vorschriften des Zweiten Abschnitts über die Haft entsprechend.
 
 (2) Eine Androhung der Zwangsmittel findet nicht statt.
 
@@ -14728,431 +15196,11 @@ Vorschriften des bürgerlichen Rechts zugunsten derjenigen, die Rechte
 von einem Nichtberechtigten herleiten, anzuwenden.
 
 
-### Abschnitt 4 - Eidesstattliche Versicherung und Haft
+### Abschnitt 4 - (weggefallen)
 
 
 
-#### § 899 Zuständigkeit
-
-(1) Für die Abnahme der eidesstattlichen Versicherung in den Fällen
-der §§ 807, 836 und 883 ist der Gerichtsvollzieher bei dem Amtsgericht
-zuständig, in dessen Bezirk der Schuldner im Zeitpunkt der
-Auftragserteilung seinen Wohnsitz oder in Ermangelung eines solchen
-seinen Aufenthaltsort hat.
-
-(2) Ist das angegangene Gericht nicht zuständig, gibt es die Sache auf
-Antrag des Gläubigers an das zuständige Gericht ab. Die Abgabe ist
-nicht bindend.
-
-
-#### § 900 Verfahren zur Abnahme der eidesstattlichen Versicherung
-
-(1) Das Verfahren beginnt mit dem Auftrag des Gläubigers zur
-Bestimmung eines Termins zur Abgabe der eidesstattlichen Versicherung.
-Der Gerichtsvollzieher hat für die Ladung des Schuldners zu dem Termin
-Sorge zu tragen. Er hat ihm die Ladung zuzustellen, auch wenn dieser
-einen Prozessbevollmächtigten bestellt hat; einer Mitteilung an den
-Prozessbevollmächtigten bedarf es nicht. Dem Gläubiger ist die
-Terminsbestimmung nach Maßgabe des § 357 Abs. 2 mitzuteilen.
-
-(2) Der Gerichtsvollzieher kann die eidesstattliche Versicherung
-abweichend von Absatz 1 sofort abnehmen, wenn die Voraussetzungen des
-§ 807 Abs. 1 vorliegen. Der Schuldner und der Gläubiger können der
-sofortigen Abnahme widersprechen. In diesem Fall setzt der
-Gerichtsvollzieher einen Termin und den Ort zur Abnahme der
-eidesstattlichen Versicherung fest. Der Termin soll nicht vor Ablauf
-von zwei Wochen und nicht über vier Wochen hinaus angesetzt werden.
-Für die Ladung des Schuldners und die Benachrichtigung des Gläubigers
-gilt Absatz 1 entsprechend.
-
-(3) Macht der Schuldner glaubhaft, dass er die Forderung des
-Gläubigers binnen einer Frist von sechs Monaten tilgen werde, so setzt
-der Gerichtsvollzieher den Termin zur Abgabe der eidesstattlichen
-Versicherung abweichend von Absatz 2 unverzüglich nach Ablauf dieser
-Frist an oder vertagt bis zu sechs Monaten und zieht Teilbeträge ein,
-wenn der Gläubiger hiermit einverstanden ist. Weist der Schuldner in
-dem neuen Termin nach, dass er die Forderung mindestens zu drei
-Vierteln getilgt hat, so kann der Gerichtsvollzieher den Termin
-nochmals bis zu zwei Monaten vertagen.
-
-(4) Bestreitet der Schuldner im Termin die Verpflichtung zur Abgabe
-der eidesstattlichen Versicherung, so hat das Gericht durch Beschluss
-zu entscheiden. Die Abgabe der eidesstattlichen Versicherung erfolgt
-nach dem Eintritt der Rechtskraft der Entscheidung; das
-Vollstreckungsgericht kann jedoch die Abgabe der eidesstattlichen
-Versicherung vor Eintritt der Rechtskraft anordnen, wenn bereits ein
-früherer Widerspruch rechtskräftig verworfen ist, wenn nach Vertagung
-nach Absatz 3 der Widerspruch auf Tatsachen gestützt wird, die zur
-Zeit des ersten Antrags auf Vertagung bereits eingetreten waren, oder
-wenn der Schuldner den Widerspruch auf Einwendungen stützt, die den
-Anspruch selbst betreffen.
-
-(5) Der Gerichtsvollzieher hat die von ihm abgenommene eidesstattliche
-Versicherung unverzüglich bei dem Vollstreckungsgericht zu hinterlegen
-und dem Gläubiger eine Abschrift zuzuleiten.
-
-
-#### § 901 Erlass eines Haftbefehls
-
-Gegen den Schuldner, der in dem zur Abgabe der eidesstattlichen
-Versicherung bestimmten Termin nicht erscheint oder die Abgabe der
-eidesstattlichen Versicherung ohne Grund verweigert, hat das Gericht
-zur Erzwingung der Abgabe auf Antrag einen Haftbefehl zu erlassen. In
-dem Haftbefehl sind der Gläubiger, der Schuldner und der Grund der
-Verhaftung zu bezeichnen. Einer Zustellung des Haftbefehls vor seiner
-Vollziehung bedarf es nicht.
-
-
-#### § 902 Eidesstattliche Versicherung des Verhafteten
-
-(1) Der verhaftete Schuldner kann zu jeder Zeit bei dem zuständigen
-Gerichtsvollzieher des Amtsgerichts des Haftortes verlangen, ihm die
-eidesstattliche Versicherung abzunehmen. Dem Verlangen ist ohne Verzug
-stattzugeben. Dem Gläubiger ist die Teilnahme zu ermöglichen, wenn er
-dies beantragt hat und die Versicherung gleichwohl ohne Verzug
-abgenommen werden kann.
-
-(2) Nach Abgabe der eidesstattlichen Versicherung wird der Schuldner
-aus der Haft entlassen und der Gläubiger hiervon in Kenntnis gesetzt.
-
-(3) Kann der Schuldner vollständige Angaben nicht machen, weil er die
-dazu notwendigen Unterlagen nicht bei sich hat, so kann der
-Gerichtsvollzieher einen neuen Termin bestimmen und die Vollziehung
-des Haftbefehls bis zu diesem Termin aussetzen. § 900 Abs. 1 Satz 2
-bis 4 gilt entsprechend.
-
-
-#### § 903 Wiederholte eidesstattliche Versicherung
-
-Ein Schuldner, der die in § 807 dieses Gesetzes oder in § 284 der
-Abgabenordnung bezeichnete eidesstattliche Versicherung abgegeben hat,
-ist, wenn die Abgabe der eidesstattlichen Versicherung in dem
-Schuldnerverzeichnis noch nicht gelöscht ist, in den ersten drei
-Jahren nach ihrer Abgabe zur nochmaligen eidesstattlichen Versicherung
-einem Gläubiger gegenüber nur verpflichtet, wenn glaubhaft gemacht
-wird, dass der Schuldner später Vermögen erworben hat oder dass ein
-bisher bestehendes Arbeitsverhältnis mit dem Schuldner aufgelöst ist.
-Der in § 807 Abs. 1 genannten Voraussetzungen bedarf es nicht.
-
-
-#### § 904 Unzulässigkeit der Haft
-
-Die Haft ist unstatthaft:
-
-1.  gegen Mitglieder des Bundestages, eines Landtages oder einer zweiten
-    Kammer während der Tagung, sofern nicht die Versammlung die
-    Vollstreckung genehmigt;
-
-
-2.  (weggefallen)
-
-
-3.  gegen den Kapitän, die Schiffsmannschaft und alle übrigen auf einem
-    Seeschiff angestellten Personen, wenn sich das Schiff auf der Reise
-    befindet und nicht in einem Hafen liegt.
-
-
-
-
-
-#### § 905 Haftunterbrechung
-
-Die Haft wird unterbrochen:
-
-1.  gegen Mitglieder des Bundestages, eines Landtages oder einer zweiten
-    Kammer für die Dauer der Tagung, wenn die Versammlung die Freilassung
-    verlangt;
-
-
-2.  (weggefallen).
-
-
-
-
-
-#### § 906 Haftaufschub
-
-Gegen einen Schuldner, dessen Gesundheit durch die Vollstreckung der
-Haft einer nahen und erheblichen Gefahr ausgesetzt wird, darf, solange
-dieser Zustand dauert, die Haft nicht vollstreckt werden.
-
-
-#### (XXXX) §§ 907 und 908 (weggefallen)
-
-
-
-#### § 909 Verhaftung
-
-(1) Die Verhaftung des Schuldners erfolgt durch einen
-Gerichtsvollzieher. Dem Schuldner ist der Haftbefehl bei der
-Verhaftung in beglaubigter Abschrift zu übergeben.
-
-(2) Die Vollziehung des Haftbefehls ist unstatthaft, wenn seit dem
-Tage, an dem der Haftbefehl erlassen wurde, drei Jahre vergangen sind.
-
-
-#### § 910 Anzeige vor der Verhaftung
-
-Vor der Verhaftung eines Beamten, eines Geistlichen oder eines Lehrers
-an öffentlichen Unterrichtsanstalten ist der vorgesetzten
-Dienstbehörde von dem Gerichtsvollzieher Anzeige zu machen. Die
-Verhaftung darf erst erfolgen, nachdem die vorgesetzte Behörde für die
-dienstliche Vertretung des Schuldners gesorgt hat. Die Behörde ist
-verpflichtet, ohne Verzug die erforderlichen Anordnungen zu treffen
-und den Gerichtsvollzieher hiervon in Kenntnis zu setzen.
-
-
-#### § 911 Erneuerung der Haft nach Entlassung
-
-Gegen den Schuldner, der ohne sein Zutun auf Antrag des Gläubigers aus
-der Haft entlassen ist, findet auf Antrag desselben Gläubigers eine
-Erneuerung der Haft nicht statt.
-
-
-#### § 912
-
-(weggefallen)
-
-
-#### § 913 Haftdauer
-
-Die Haft darf die Dauer von sechs Monaten nicht übersteigen. Nach
-Ablauf der sechs Monate wird der Schuldner von Amts wegen aus der Haft
-entlassen.
-
-
-#### § 914 Wiederholte Verhaftung
-
-(1) Ein Schuldner, gegen den wegen Verweigerung der Abgabe der
-eidesstattlichen Versicherung nach § 807 dieses Gesetzes oder nach §
-284 der Abgabenordnung eine Haft von sechs Monaten vollstreckt ist,
-kann auch auf Antrag eines anderen Gläubigers von neuem zur Abgabe
-einer solchen eidesstattlichen Versicherung durch Haft nur angehalten
-werden, wenn glaubhaft gemacht wird, dass der Schuldner später
-Vermögen erworben hat oder dass ein bisher bestehendes
-Arbeitsverhältnis mit dem Schuldner aufgelöst ist.
-
-(2) Diese Vorschrift ist nicht anzuwenden, wenn seit der Beendigung
-der Haft drei Jahre verstrichen sind.
-
-
-#### § 915 Schuldnerverzeichnis
-
-(1) Das Vollstreckungsgericht führt ein Verzeichnis der Personen, die
-in einem bei ihm anhängigen Verfahren die eidesstattliche Versicherung
-nach § 807 abgegeben haben oder gegen die nach § 901 die Haft
-angeordnet ist. In dieses Schuldnerverzeichnis sind auch die Personen
-aufzunehmen, die eine eidesstattliche Versicherung nach § 284 der
-Abgabenordnung oder vor einer Verwaltungsvollstreckungsbehörde
-abgegeben haben. Die Vollstreckung einer Haft ist in dem Verzeichnis
-zu vermerken, wenn sie sechs Monate gedauert hat. Geburtsdaten der
-Personen sind, soweit bekannt, einzutragen.
-
-(2) Wer die eidesstattliche Versicherung vor dem Gerichtsvollzieher
-eines anderen Amtsgerichts abgegeben hat, wird auch in das Verzeichnis
-dieses Gerichts eingetragen, wenn er im Zeitpunkt der Versicherung in
-dessen Bezirk seinen Wohnsitz hatte.
-
-(3) Personenbezogene Informationen aus dem Schuldnerverzeichnis dürfen
-nur für Zwecke der Zwangsvollstreckung verwendet werden, sowie um
-gesetzliche Pflichten zur Prüfung der wirtschaftlichen Zuverlässigkeit
-zu erfüllen, um Voraussetzungen für die Gewährung von öffentlichen
-Leistungen zu prüfen oder um wirtschaftliche Nachteile abzuwenden, die
-daraus entstehen können, dass Schuldner ihren Zahlungsverpflichtungen
-nicht nachkommen, oder soweit dies zur Verfolgung von Straftaten
-erforderlich ist. Die Informationen dürfen nur für den Zweck verwendet
-werden, für den sie übermittelt worden sind. Nichtöffentliche Stellen
-sind darauf bei der Übermittlung hinzuweisen.
-
-
-#### § 915a Löschung
-
-(1) Eine Eintragung im Schuldnerverzeichnis wird nach Ablauf von drei
-Jahren seit dem Ende des Jahres gelöscht, in dem die eidesstattliche
-Versicherung abgegeben, die Haft angeordnet oder die sechsmonatige
-Haftvollstreckung beendet worden ist. Im Falle des § 915 Abs. 2 ist
-die Eintragung auch im Verzeichnis des anderen Gerichtes zu löschen.
-
-(2) Eine Eintragung im Schuldnerverzeichnis wird vorzeitig gelöscht,
-wenn
-
-1.  die Befriedigung des Gläubigers, der gegen den Schuldner das Verfahren
-    zur Abnahme der eidesstattlichen Versicherung betrieben hat,
-    nachgewiesen worden ist oder
-
-
-2.  der Wegfall des Eintragungsgrundes dem Vollstreckungsgericht bekannt
-    geworden ist.
-
-
-
-
-
-#### § 915b Auskunft; Löschungsfiktion
-
-(1) Der Urkundsbeamte der Geschäftsstelle erteilt auf Antrag Auskunft,
-welche Angaben über eine bestimmte Person in dem Schuldnerverzeichnis
-eingetragen sind, wenn dargelegt wird, dass die Auskunft für einen der
-in § 915 Abs. 3 bezeichneten Zwecke erforderlich ist. Ist eine
-Eintragung vorhanden, so ist auch das Datum des in Absatz 2 genannten
-Ereignisses mitzuteilen.
-
-(2) Sind seit dem Tage der Abgabe der eidesstattlichen Versicherung,
-der Anordnung der Haft oder der Beendigung der sechsmonatigen
-Haftvollstreckung drei Jahre verstrichen, so gilt die entsprechende
-Eintragung als gelöscht.
-
-
-#### § 915c Ausschluss der Beschwerde
-
-Gegen Entscheidungen über Eintragungen, Löschungen und
-Auskunftsersuchen findet die Beschwerde nicht statt.
-
-
-#### § 915d Erteilung von Abdrucken
-
-(1) Aus dem Schuldnerverzeichnis können nach Maßgabe des § 915e auf
-Antrag Abdrucke zum laufenden Bezug erteilt werden, auch durch
-Übermittlung in einer nur maschinell lesbaren Form. Bei der
-Übermittlung in einer nur maschinell lesbaren Form gelten die von der
-Landesjustizverwaltung festgelegten Datenübertragungsregeln.
-
-(2) Die Abdrucke sind vertraulich zu behandeln und dürfen Dritten
-nicht zugänglich gemacht werden.
-
-(3) Nach der Beendigung des laufenden Bezugs sind die Abdrucke
-unverzüglich zu vernichten; Auskünfte dürfen nicht mehr erteilt
-werden.
-
-
-#### § 915e Empfänger von Abdrucken; Auskünfte aus Abdrucken; Listen; Datenschutz
-
-(1) Abdrucke erhalten
-
-a)  Industrie- und Handelskammern sowie Körperschaften des öffentlichen
-    Rechts, in denen Angehörige eines Berufes kraft Gesetzes
-    zusammengeschlossen sind (Kammern),
-
-
-b)  Antragsteller, die Abdrucke zur Errichtung und Führung zentraler
-    bundesweiter oder regionaler Schuldnerverzeichnisse verwenden, oder
-
-
-c)  Antragsteller, deren berechtigtem Interesse durch Einzelauskünfte,
-    insbesondere aus einem Verzeichnis nach Buchstabe b, oder durch den
-    Bezug von Listen (§ 915f) nicht hinreichend Rechnung getragen werden
-    kann.
-
-
-
-
-(2) Die Kammern dürfen ihren Mitgliedern oder den Mitgliedern einer
-anderen Kammer Auskünfte erteilen. Andere Bezieher von Abdrucken
-dürfen Auskünfte erteilen, soweit dies zu ihrer ordnungsgemäßen
-Tätigkeit gehört. § 915d gilt entsprechend. Die Auskünfte dürfen auch
-im automatisierten Abrufverfahren erteilt werden, soweit diese Form
-der Datenübermittlung unter Berücksichtigung der schutzwürdigen
-Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder
-wegen ihrer besonderen Eilbedürftigkeit angemessen ist.
-
-(3) Die Kammern dürfen die Abdrucke in Listen zusammenfassen oder
-hiermit Dritte beauftragen. Sie haben diese bei der Durchführung des
-Auftrages zu beaufsichtigen.
-
-(4) In den Fällen des Absatzes 1 Satz 1 Buchstabe b und c gilt für
-nichtöffentliche Stellen § 38 des Bundesdatenschutzgesetzes mit der
-Maßgabe, dass die Aufsichtsbehörde auch die Verarbeitung und Nutzung
-dieser personenbezogenen Daten in oder aus Akten überwacht und auch
-überprüfen kann, wenn ihr keine hinreichenden Anhaltspunkte dafür
-vorliegen, dass eine Vorschrift über den Datenschutz verletzt ist.
-Entsprechendes gilt für nichtöffentliche Stellen, die von den in
-Absatz 1 genannten Stellen Auskünfte erhalten haben.
-
-
-#### § 915f Überlassung von Listen; Datenschutz
-
-(1) Die nach § 915e Abs. 3 erstellten Listen dürfen den Mitgliedern
-von Kammern auf Antrag zum laufenden Bezug überlassen werden. Für den
-Bezug der Listen gelten die §§ 915d und 915e Abs. 1 Buchstabe c
-entsprechend.
-
-(2) Die Bezieher der Listen dürfen Auskünfte nur jemandem erteilen,
-dessen Belange sie kraft Gesetzes oder Vertrags wahrzunehmen haben.
-
-(3) Listen sind unverzüglich zu vernichten, soweit sie durch neue
-ersetzt werden.
-
-(4) § 915e Abs. 4 gilt entsprechend.
-
-
-#### § 915g Löschung in Abdrucken, Listen und Aufzeichnungen
-
-(1) Für Abdrucke, Listen und Aufzeichnungen über eine Eintragung im
-Schuldnerverzeichnis, die auf der Verarbeitung von Abdrucken oder
-Listen oder auf Auskünften über Eintragungen im Schuldnerverzeichnis
-beruhen, gilt § 915a Abs. 1 entsprechend.
-
-(2) Über vorzeitige Löschungen (§ 915a Abs. 2) sind die Bezieher von
-Abdrucken innerhalb eines Monats zu unterrichten. Sie unterrichten
-unverzüglich die Bezieher von Listen (§ 915f Abs. 1 Satz 1). In den
-auf Grund der Abdrucke und Listen erstellten Aufzeichnungen sind die
-Eintragungen unverzüglich zu löschen.
-
-
-#### § 915h Verordnungsermächtigungen
-
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates
-
-1.  Vorschriften über den Inhalt des Schuldnerverzeichnisses, über den
-    Bezug von Abdrucken nach den §§ 915d, 915e und das
-    Bewilligungsverfahren sowie den Bezug von Listen nach § 915f Abs. 1 zu
-    erlassen,
-
-
-2.  Einzelheiten der Einrichtung und Ausgestaltung automatisierter
-    Abrufverfahren nach § 915e Abs. 2 Satz 4, insbesondere der
-    Protokollierung der Abrufe für Zwecke der Datenschutzkontrolle, zu
-    regeln,
-
-
-3.  die Erteilung und Aufbewahrung von Abdrucken aus dem
-    Schuldnerverzeichnis, die Anfertigung, Verwendung und Weitergabe von
-    Listen, die Mitteilung und den Vollzug von Löschungen und den
-    Ausschluss vom Bezug von Abdrucken und Listen näher zu regeln, um die
-    ordnungsgemäße Behandlung der Mitteilungen, den Schutz vor unbefugter
-    Verwendung und die rechtzeitige Löschung von Eintragungen
-    sicherzustellen,
-
-
-4.  zur Durchsetzung der Vernichtungs- und Löschungspflichten im Falle des
-    Widerrufs der Bewilligung die Verhängung von Zwangsgeldern vorzusehen;
-    das einzelne Zwangsgeld darf den Betrag von 25.000 Euro nicht
-    übersteigen.
-
-
-
-
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, dass
-
-1.  anstelle des Schuldnerverzeichnisses bei den einzelnen
-    Vollstreckungsgerichten oder neben diesen ein zentrales
-    Schuldnerverzeichnis für die Bezirke mehrerer Amtsgerichte bei einem
-    Amtsgericht geführt wird und die betroffenen Vollstreckungsgerichte
-    diesem Amtsgericht die erforderlichen Daten mitzuteilen haben;
-
-
-2.  bei solchen Verzeichnissen automatisierte Abrufverfahren eingeführt
-    werden, soweit dies unter Berücksichtigung der schutzwürdigen Belange
-    des betroffenen Schuldners und der beteiligten Stellen angemessen ist;
-    die Rechtsverordnung hat Maßnahmen zur Datenschutzkontrolle und
-    Datensicherung vorzusehen.
-
-
-
-Sie werden ermächtigt, diese Befugnisse auf die
-Landesjustizverwaltungen zu übertragen.
+#### (XXXX) §§ 899 bis 915h (weggefallen)
 
 
 ### Abschnitt 5 - Arrest und einstweilige Verfügung
@@ -15389,12 +15437,12 @@ Abs. 2, 3 als Vollziehung des Arrestbefehls.
 #### § 933 Vollziehung des persönlichen Arrestes
 
 Die Vollziehung des persönlichen Sicherheitsarrestes richtet sich,
-wenn sie durch Haft erfolgt, nach den Vorschriften der §§ 901, 904 bis
-913 und, wenn sie durch sonstige Beschränkung der persönlichen
-Freiheit erfolgt, nach den vom Arrestgericht zu treffenden besonderen
-Anordnungen, für welche die Beschränkungen der Haft maßgebend sind. In
-den Haftbefehl ist der nach § 923 festgestellte Geldbetrag
-aufzunehmen.
+wenn sie durch Haft erfolgt, nach den Vorschriften der §§ 802g, 802h
+und 802j Abs. 1 und 2 und, wenn sie durch sonstige Beschränkung der
+persönlichen Freiheit erfolgt, nach den vom Arrestgericht zu
+treffenden besonderen Anordnungen, für welche die Beschränkungen der
+Haft maßgebend sind. In den Haftbefehl ist der nach § 923
+festgestellte Geldbetrag aufzunehmen.
 
 
 #### § 934 Aufhebung der Arrestvollziehung

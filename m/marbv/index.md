@@ -163,22 +163,22 @@ Besoldungsgruppen
 
 *    *   A 2 bis A 4
 
-    *   11,14 Euro,
+    *   11,27 Euro,
 
 
 *    *   A 5 bis A 8
 
-    *   13,16 Euro,
+    *   13,32 Euro,
 
 
 *    *   A 9 bis A 12
 
-    *   18,06 Euro,
+    *   18,28 Euro,
 
 
 *    *   A 13 bis A 16
 
-    *   24,88 Euro.
+    *   25,18 Euro.
 
 
 
@@ -194,14 +194,14 @@ Fachschulen des Bundes
 
     *   im gehobenen Dienst
 
-    *   24,72 Euro,
+    *   25,02 Euro,
 
 
 *    *   2.
 
     *   im höheren Dienst
 
-    *   28,88 Euro.
+    *   29,23 Euro.
 
 
 

@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Einfuhrliste neugefasst durch
 :   V v. 15.12.2011 BAnz 2011, 4653
 
+Änderung durch
+:   Art. 1 V v. 12.12.2012 BAnz, AT 28.12.2012 V1 noch nicht berücksichtigt
+
 
 ## Erster Teil - Rechtsgeschäfte und Handlungen
 

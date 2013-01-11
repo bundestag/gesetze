@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 6.11.2012 I 2286
+:   Art. 3a G v. 20.12.2012 I 2777
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -3390,38 +3390,37 @@ der Rechtsverordnung nach Absatz 1 Satz 9 und eine Anordnung nach §
 
 Die Bundesanstalt kann von einzelnen Instituten, Institutsgruppen und
 Finanzholding-Gruppen oder Arten oder Gruppen von Instituten,
-Institutsgruppen und Finanzholding-Gruppen bis zum 31. Dezember 2012
-das Vorhalten von über die Anforderungen der Rechtsverordnung nach
-Absatz 1 Satz 9 hinausgehenden Eigenmitteln während eines begrenzten
-Zeitraums auch verlangen, wenn diese Kapitalstärkung erforderlich ist,
-um einer drohenden Störung der Funktionsfähigkeit des Finanzmarktes
-oder einer Gefahr für die Finanzmarktstabilität entgegenzuwirken und
-um erhebliche negative Auswirkungen auf andere Unternehmen des
-Finanzsektors sowie auf das allgemeine Vertrauen der Einleger und
-anderer Marktteilnehmer in ein funktionsfähiges Finanzsystem zu
-vermeiden. Eine drohende Störung der Funktionsfähigkeit des
-Finanzmarktes kann insbesondere dann gegeben sein, wenn aufgrund
-außergewöhnlicher Marktverhältnisse die Refinanzierungsfähigkeit
-mehrerer für den Finanzmarkt relevanter Institute beeinträchtigt zu
-werden droht. In diesem Fall kann die Bundesanstalt die Beurteilung
-der Angemessenheit der Eigenmittel nach von der Rechtsverordnung nach
-Absatz 1 Satz 9 abweichenden Maßstäben vornehmen, die diesen
-besonderen Marktverhältnissen Rechnung tragen. Diese höheren
-Anforderungen können insbesondere im Rahmen eines abgestimmten
-Vorgehens auf Ebene der Europäischen Union zur Stärkung des Vertrauens
-in die Widerstandsfähigkeit des europäischen Bankensektors und zur
-Abwehr einer drohenden Gefahr für die Finanzmarktstabilität in Europa
-verlangt werden. Bei der Festlegung von Höhe und maßgeblicher
-Zusammensetzung der zusätzlichen Eigenmittel und des maßgeblichen
-Zeitpunktes für die Einhaltung der Anforderungen berücksichtigt die
-Bundesanstalt die Standards, auf deren Anwendung sich die zuständigen
-europäischen Stellen im Rahmen eines abgestimmten Vorgehens auf
-Unionsebene verständigt haben. In diesem Rahmen kann die Bundesanstalt
-verlangen, dass die Institute in einem Plan nachvollziehbar darlegen,
-durch welche Maßnahmen sie die erhöhten Kapitalanforderungen zu dem
-von der Bundesanstalt nach Satz 6 festgelegten Zeitpunkt einhalten
-werden. Soweit der Plan die Belange des
-Finanzmarktstabilisierungsfonds im Sinne des § 1 des
+Institutsgruppen und Finanzholding-Gruppen das Vorhalten von über die
+Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 hinausgehenden
+Eigenmitteln während eines begrenzten Zeitraums auch verlangen, wenn
+diese Kapitalstärkung erforderlich ist, um einer drohenden Störung der
+Funktionsfähigkeit des Finanzmarktes oder einer Gefahr für die
+Finanzmarktstabilität entgegenzuwirken und um erhebliche negative
+Auswirkungen auf andere Unternehmen des Finanzsektors sowie auf das
+allgemeine Vertrauen der Einleger und anderer Marktteilnehmer in ein
+funktionsfähiges Finanzsystem zu vermeiden. Eine drohende Störung der
+Funktionsfähigkeit des Finanzmarktes kann insbesondere dann gegeben
+sein, wenn aufgrund außergewöhnlicher Marktverhältnisse die
+Refinanzierungsfähigkeit mehrerer für den Finanzmarkt relevanter
+Institute beeinträchtigt zu werden droht. In diesem Fall kann die
+Bundesanstalt die Beurteilung der Angemessenheit der Eigenmittel nach
+von der Rechtsverordnung nach Absatz 1 Satz 9 abweichenden Maßstäben
+vornehmen, die diesen besonderen Marktverhältnissen Rechnung tragen.
+Diese höheren Anforderungen können insbesondere im Rahmen eines
+abgestimmten Vorgehens auf Ebene der Europäischen Union zur Stärkung
+des Vertrauens in die Widerstandsfähigkeit des europäischen
+Bankensektors und zur Abwehr einer drohenden Gefahr für die
+Finanzmarktstabilität in Europa verlangt werden. Bei der Festlegung
+von Höhe und maßgeblicher Zusammensetzung der zusätzlichen Eigenmittel
+und des maßgeblichen Zeitpunktes für die Einhaltung der Anforderungen
+berücksichtigt die Bundesanstalt die Standards, auf deren Anwendung
+sich die zuständigen europäischen Stellen im Rahmen eines abgestimmten
+Vorgehens auf Unionsebene verständigt haben. In diesem Rahmen kann die
+Bundesanstalt verlangen, dass die Institute in einem Plan
+nachvollziehbar darlegen, durch welche Maßnahmen sie die erhöhten
+Kapitalanforderungen zu dem von der Bundesanstalt nach Satz 6
+festgelegten Zeitpunkt einhalten werden. Soweit der Plan die Belange
+des Finanzmarktstabilisierungsfonds im Sinne des § 1 des
 Finanzmarktstabilisierungsfondsgesetzes berührt, erfolgt die
 Beurteilung des Plans im Einvernehmen mit dem Lenkungsausschuss im
 Sinne des § 4 Absatz 1 Satz 2 des
@@ -8960,7 +8959,7 @@ Satz 5 des Handelsgesetzbuchs gilt entsprechend. Widerspruch und
 Anfechtungsklage gegen Maßnahmen nach Satz 2 oder Satz 3 haben keine
 aufschiebende Wirkung.
 
-(2) Das Registergericht des Sitzes des Instituts hat auf Antrag der
+(2) Das Gericht des Sitzes des Instituts hat auf Antrag der
 Bundesanstalt einen Prüfer zu bestellen, wenn
 
 1.  die Anzeige nach Absatz 1 Satz 1 nicht unverzüglich nach Ablauf des
@@ -8979,8 +8978,8 @@ Bundesanstalt einen Prüfer zu bestellen, wenn
 
 
 Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des
-Handelsgesetzbuchs ist entsprechend anzuwenden. Das Registergericht
-kann auf Antrag der Bundesanstalt einen nach Satz 1 bestellten Prüfer
+Handelsgesetzbuchs ist entsprechend anzuwenden. Das Gericht kann auf
+Antrag der Bundesanstalt einen nach Satz 1 bestellten Prüfer
 abberufen.
 
 (3) Die Absätze 1 und 2 gelten nicht für Kreditinstitute, die einem

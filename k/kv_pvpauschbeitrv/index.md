@@ -141,8 +141,8 @@ Bundesamt für den Zivildienst jährlich nachträglich gezahlt.
 
 (2) Die Beiträge zur gesetzlichen Krankenversicherung werden an den
 Gesundheitsfonds, die Beiträge zur landwirtschaftlichen
-Krankenversicherung an den Spitzenverband der landwirtschaftlichen
-Sozialversicherung gezahlt. Die Beiträge zur sozialen
+Krankenversicherung an die Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau gezahlt. Die Beiträge zur sozialen
 Pflegeversicherung nach § 2 Nr. 2 sind jeweils in einer Summe
 ebenfalls an den Gesundheitsfonds zu zahlen, dabei sind diese Beiträge
 betragsmäßig als solche auszuweisen.

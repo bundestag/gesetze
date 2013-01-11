@@ -4484,7 +4484,7 @@ weggefallenen Besoldungsgruppe A 1.
 
 (2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem
 Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung
-nicht zugrunde liegt, werden ab 1. März 2012 um 3,2 vom Hundert
+nicht zugrunde liegt, werden ab 1. Januar 2013 um 1,1 vom Hundert
 erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist.
 Satz 1 gilt entsprechend für
 
@@ -4505,7 +4505,7 @@ Satz 1 gilt entsprechend für
 (3) Bei Versorgungsempfängern, deren Versorgungsbezügen ein
 Grundgehalt der Besoldungsgruppen A 1 bis A 8 oder ein Grundgehalt
 nach Zwischenbesoldungsgruppen zugrunde liegt, vermindert sich das
-Grundgehalt ab 1. März 2012 um 53,34 Euro, wenn ihren
+Grundgehalt ab 1. Januar 2013 um 53,98 Euro, wenn ihren
 ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung
 Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A
 und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.

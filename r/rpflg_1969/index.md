@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 2065
 
 Zuletzt geändert durch
-:   Art. 3 G v. 15.3.2012 II 178
+:   Art. 4 G v. 5.12.2012 I 2418
 
 
 ## Eingangsformel
@@ -94,9 +94,9 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
         Gerichtsbarkeit,
 
 
-    b)  die weiteren Angelegenheiten der freiwilligen Gerichtsbarkeit nach §
+    b)  den weiteren Angelegenheiten der freiwilligen Gerichtsbarkeit nach §
         410 des Gesetzes über das Verfahren in Familiensachen und in den
-        Angelegenheiten der freiwilligen Gerichtsbarkeit sowie die Verfahren
+        Angelegenheiten der freiwilligen Gerichtsbarkeit sowie den Verfahren
         nach § 84 Abs. 2, § 189 des Versicherungsvertragsgesetzes,
 
 
@@ -140,9 +140,8 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
 
 
     m)  Verteilungsverfahren nach § 75 Abs. 2 des Flurbereinigungsgesetzes, §
-        54 Abs. 3 des Landbeschaffungsgesetzes, § 28 Abs. 2 des
-        Luftverkehrsgesetzes, § 119 Abs. 3 des Baugesetzbuchs und § 94 Abs. 4
-        des Bundesberggesetzes;
+        54 Abs. 3 des Landbeschaffungsgesetzes, § 119 Abs. 3 des
+        Baugesetzbuchs und § 94 Abs. 4 des Bundesberggesetzes;
 
 
 
@@ -182,7 +181,9 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
 
     g)  Verfahren nach der Verordnung (EG) Nr. 1346/2000 des Rates vom 29. Mai
         2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S. 1) und nach Artikel
-        102 des Einführungsgesetzes zur Insolvenzordnung,
+        102 des Einführungsgesetzes zur Insolvenzordnung sowie Verfahren nach
+        dem Ausführungsgesetz zum deutsch-österreichischen Konkursvertrag vom
+        8\. März 1985 (BGBl. I S. 535),
 
 
     h)  Verfahren nach der Schiffahrtsrechtlichen Verteilungsordnung;
@@ -194,7 +195,7 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
 3.  die in den §§ 20 bis 24a, 25 und 25a dieses Gesetzes einzeln
     aufgeführten Geschäfte
 
-    a)  in Verfahren nach der Zivilprozeßordnung und dem Mieterschutzgesetz,
+    a)  in Verfahren nach der Zivilprozeßordnung,
 
 
     b)  in Festsetzungsverfahren,
@@ -385,8 +386,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit wirksam geworden sind
 und nicht mehr geändert werden können, sind mit der Erinnerung nicht
 anfechtbar. Die Erinnerung ist ferner in den Fällen der §§ 694, 700
 der Zivilprozeßordnung und gegen die Entscheidungen über die Gewährung
-eines Stimmrechts (§§ 77, 237 und 238 der Insolvenzordnung)
-ausgeschlossen.
+eines Stimmrechts (§ 77 der Insolvenzordnung) ausgeschlossen.
 
 (4) Das Erinnerungsverfahren ist gerichtsgebührenfrei.
 
@@ -521,7 +521,15 @@ Lebenspartnerschaftssachen bleiben dem Richter vorbehalten:
 
 16. die Befreiung vom Eheverbot der durch die Annahme als Kind begründeten
     Verwandtschaft in der Seitenlinie nach § 1308 Abs. 2 des Bürgerlichen
-    Gesetzbuchs.
+    Gesetzbuchs;
+
+
+17. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe
+    oder auf Aufhebung der Lebenspartnerschaft durch den gesetzlichen
+    Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach
+    § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das
+    Verfahren in Familiensachen und in den Angelegenheiten der
+    freiwilligen Gerichtsbarkeit.
 
 
 
@@ -529,10 +537,8 @@ Lebenspartnerschaftssachen bleiben dem Richter vorbehalten:
 (2) Die Maßnahmen und Anordnungen nach den §§ 10 bis 15, 20, 21, 32
 bis 35, 38, 40, 41, 44 und 47 des Internationalen
 Familienrechtsverfahrensgesetzes vom 26. Januar 2005 (BGBl. I S. 162),
-soweit diese dem Familiengericht obliegen, sowie die Maßnahmen und
-Anordnungen nach den §§ 6 bis 12 des Erwachsenenschutzübereinkommens-
-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) bleiben dem
-Richter vorbehalten.
+soweit diese dem Familiengericht obliegen, bleiben dem Richter
+vorbehalten.
 
 
 ### § 15 Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
@@ -579,7 +585,15 @@ sind, bleiben dem Richter vorbehalten:
 9.  die Genehmigung nach § 3 Abs. 1 Satz 2 sowie nach § 6 Abs. 2 Satz 1, §
     7 Abs. 3 Satz 2 und § 9 Abs. 3 Satz 1, jeweils in Verbindung mit § 3
     Abs. 1 Satz 2 des Gesetzes über die Änderung der Vornamen und die
-    Feststellung der Geschlechtszugehörigkeit in besonderen Fällen.
+    Feststellung der Geschlechtszugehörigkeit in besonderen Fällen;
+
+
+10. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe
+    oder auf Aufhebung der Lebenspartnerschaft durch den gesetzlichen
+    Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach
+    § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das
+    Verfahren in Familiensachen und in den Angelegenheiten der
+    freiwilligen Gerichtsbarkeit.
 
 
 
@@ -680,8 +694,8 @@ freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
 
     e)  auf Löschung im Handelsregister nach den §§ 394, 395, 397 und 398 des
         Gesetzes über das Verfahren in Familiensachen und in den
-        Angelegenheiten der freiwilligen Gerichtsbarkeit und nach § 43 Abs. 2
-        des Kreditwesengesetzes,
+        Angelegenheiten der freiwilligen Gerichtsbarkeit und nach § 4 Absatz 3
+        Satz 1 des Versicherungsaufsichtsgesetzes,
 
 
     f)  Beschlüsse nach § 399 des Gesetzes über das Verfahren in
@@ -692,28 +706,29 @@ freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
 
 
 
-2.
-    a)  die Beschlüsse nach § 28 Abs. 2 des Kreditwesengesetzes sowie die nach
-        § 375 Nr. 1 bis 6 und 9 bis 15 des Gesetzes über das Verfahren in
-        Familiensachen und in den Angelegenheiten der freiwilligen
-        Gerichtsbarkeit zu erledigenden Geschäfte mit Ausnahme der in § 146
-        Abs. 2, den §§ 147 und 157 Abs. 2 des Handelsgesetzbuchs, auch in
-        Verbindung mit § 10 des Partnerschaftsgesellschaftsgesetzes, der in §
-        166 Abs. 3 und § 233 Abs. 3 des Handelsgesetzbuchs, der in § 66 Abs. 2
-        und 3, § 74 Abs. 2 und 3 des Gesetzes betreffend die Gesellschaften
-        mit beschränkter Haftung und der in § 11 des
-        Binnenschifffahrtsgesetzes geregelten Geschäfte,
+2.  die nach § 375 Nummer 1 bis 6, 9 bis 14 und 16 des Gesetzes über das
+    Verfahren in Familiensachen und in den Angelegenheiten der
+    freiwilligen Gerichtsbarkeit zu erledigenden Geschäfte mit Ausnahme
+    der in
+
+    a)  § 146 Absatz 2, § 147 und § 157 Absatz 2 des Handelsgesetzbuchs,
 
 
-    b)  die Ernennung von Liquidatoren auf Antrag eines Beteiligten durch das
-        Gericht, wenn eine Löschung nach § 394 des Gesetzes über das Verfahren
-        in Familiensachen und in den Angelegenheiten der freiwilligen
-        Gerichtsbarkeit erfolgt ist, soweit sich diese nicht auf
-        Genossenschaften bezieht, sowie der Beschluss nach § 47 Abs. 2 des
-        Versicherungsaufsichtsgesetzes.
+    b)  § 166 Absatz 3 und § 233 Absatz 3 des Handelsgesetzbuchs,
+
+
+    c)  § 264 Absatz 2, § 273 Absatz 4 und § 290 Absatz 3 des Aktiengesetzes,
+
+
+    d)  § 66 Absatz 2, 3 und 5 sowie § 74 Absatz 2 und 3 des Gesetzes
+        betreffend die Gesellschaften mit beschränkter Haftung,
+
+
+    e)  § 11 des Binnenschifffahrtsgesetzes
 
 
 
+    geregelten Geschäfte.
 
 
 
@@ -730,14 +745,18 @@ vorbehalten:
     Schuldenbereinigungsplan nach den §§ 305 bis 310 der Insolvenzordnung,
 
 
-2.  bei einem Antrag des Schuldners auf Erteilung der Restschuldbefreiung
+2.  das Verfahren über einen Insolvenzplan nach den §§ 217 bis 256 und den
+    §§ 258 bis 269 der Insolvenzordnung,
+
+
+3.  bei einem Antrag des Schuldners auf Erteilung der Restschuldbefreiung
     die Entscheidungen nach den §§ 289, 296, 297 und 300 der
     Insolvenzordnung, wenn ein Insolvenzgläubiger die Versagung der
     Restschuldbefreiung beantragt, sowie die Entscheidung über den
     Widerruf der Restschuldbefreiung nach § 303 der Insolvenzordnung,
 
 
-3.  Entscheidungen nach den §§ 344 bis 346 der Insolvenzordnung.
+4.  Entscheidungen nach den §§ 344 bis 346 der Insolvenzordnung.
 
 
 
@@ -748,17 +767,24 @@ nicht mehr für erforderlich, kann er das Verfahren dem Rechtspfleger
 übertragen. Auch nach der Übertragung kann er das Verfahren wieder an
 sich ziehen, wenn und solange er dies für erforderlich hält.
 
-(3) Die Entscheidung des Rechtspflegers über die Gewährung des
-Stimmrechts nach den §§ 77, 237 und 238 der Insolvenzordnung hat nicht
-die in § 256 der Insolvenzordnung bezeichneten Rechtsfolgen. Hat sich
-die Entscheidung des Rechtspflegers auf das Ergebnis einer Abstimmung
-ausgewirkt, so kann der Richter auf Antrag eines Gläubigers oder des
-Insolvenzverwalters das Stimmrecht neu festsetzen und die Wiederholung
-der Abstimmung anordnen; der Antrag kann nur bis zum Schluß des
-Termins gestellt werden, in dem die Abstimmung stattgefunden hat.
+(3) Hat sich die Entscheidung des Rechtspflegers über die Gewährung
+des Stimmrechts nach § 77 der Insolvenzordnung auf das Ergebnis einer
+Abstimmung ausgewirkt, so kann der Richter auf Antrag eines Gläubigers
+oder des Insolvenzverwalters das Stimmrecht neu festsetzen und die
+Wiederholung der Abstimmung anordnen; der Antrag kann nur bis zum
+Schluss des Termins gestellt werden, in dem die Abstimmung
+stattfindet.
 
 (4) Ein Beamter auf Probe darf im ersten Jahr nach seiner Ernennung
 Geschäfte des Rechtspflegers in Insolvenzsachen nicht wahrnehmen.
+Rechtspfleger in Insolvenzsachen sollen über belegbare Kenntnisse des
+Insolvenzrechts und Grundkenntnisse des Handels- und
+Gesellschaftsrechts und der für das Insolvenzverfahren notwendigen
+Teile des Arbeits-, Sozial- und Steuerrechts und des Rechnungswesens
+verfügen. Einem Rechtspfleger, dessen Kenntnisse auf diesen Gebieten
+nicht belegt sind, dürfen die Aufgaben eines Rechtspflegers in
+Insolvenzsachen nur zugewiesen werden, wenn der Erwerb der Kenntnisse
+alsbald zu erwarten ist.
 
 
 ### § 19 Aufhebung von Richtervorbehalten
@@ -768,18 +794,19 @@ die in den vorstehenden Vorschriften bestimmten Richtervorbehalte ganz
 oder teilweise aufzuheben, soweit sie folgende Angelegenheiten
 betreffen:
 
-1.  die Geschäfte nach § 14 Abs. 1 Nr. 8 und § 15, soweit sie nicht die
-    Entscheidung über die Anordnung einer Betreuung und die Festlegung des
-    Aufgabenkreises des Betreuers auf Grund der §§ 1896 und 1908a des
-    Bürgerlichen Gesetzbuchs sowie die Verrichtungen auf Grund der §§ 1903
-    bis 1905 und 1908d des Bürgerlichen Gesetzbuchs und von § 278 Abs. 5
-    und § 283 des Gesetzes über das Verfahren in Familiensachen und in den
-    Angelegenheiten der freiwilligen Gerichtsbarkeit betreffen;
+1.  die Geschäfte nach § 14 Absatz 1 Nummer 9 und 10 sowie § 15 Absatz 1
+    Satz 1 Nummer 1 bis 6, soweit sie nicht die Entscheidung über die
+    Anordnung einer Betreuung und die Festlegung des Aufgabenkreises des
+    Betreuers auf Grund der §§ 1896 und 1908a des Bürgerlichen Gesetzbuchs
+    sowie die Verrichtungen auf Grund der §§ 1903 bis 1905 und 1908d des
+    Bürgerlichen Gesetzbuchs und von § 278 Abs. 5 und § 283 des Gesetzes
+    über das Verfahren in Familiensachen und in den Angelegenheiten der
+    freiwilligen Gerichtsbarkeit betreffen;
 
 
-2.  die Geschäfte nach § 16 Abs. 1 Nr. 1, soweit sie den nach § 14 Abs. 1
-    Nr. 8 dieses Gesetzes ausgeschlossenen Geschäften in Kindschaftssachen
-    entsprechen;
+2.  die Geschäfte nach § 16 Abs. 1 Nr. 1, soweit sie den nach § 14 Absatz
+    1 Nummer 9 und 10 dieses Gesetzes ausgeschlossenen Geschäften in
+    Kindschaftssachen entsprechen;
 
 
 3.  die Geschäfte nach § 16 Abs. 1 Nr. 2;
@@ -793,7 +820,7 @@ betreffen:
 5.  die Geschäfte nach § 16 Abs. 1 Nr. 6 und 7;
 
 
-6.  die Geschäfte nach § 17 Nr. 1 und 2 Buchstabe b.
+6.  die Geschäfte nach § 17 Nr. 1.
 
 
 
@@ -815,10 +842,10 @@ Festlegung des Aufgabenkreises des Betreuers nach § 1896 des
 Bürgerlichen Gesetzbuchs anzuwenden.
 
 
-### § 19a Verfahren nach der Verordnung (EG) Nr. 1346/2000 über Insolvenzverfahren
+### § 19a Verfahren nach dem internationalen Insolvenzrecht
 
-In Verfahren nach der Verordnung (EG) Nr. 1346/2000 des Rates vom 29.
-Mai 2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S. 1) und nach
+(1) In Verfahren nach der Verordnung (EG) Nr. 1346/2000 des Rates vom
+29\. Mai 2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S. 1) und nach
 Artikel 102 des Einführungsgesetzes zur Insolvenzordnung bleiben dem
 Richter vorbehalten:
 
@@ -829,6 +856,29 @@ Richter vorbehalten:
 
 2.  die Anordnung von Sicherungsmaßnahmen nach Artikel 38 der Verordnung
     (EG) Nr. 1346/2000.
+
+
+
+
+(2) Im Verfahren nach dem Ausführungsgesetz zum deutsch-
+österreichischen Konkursvertrag vom 8. März 1985 (BGBl. I S. 535)
+bleiben dem Richter vorbehalten:
+
+1.  die Einstellung eines Verfahrens zugunsten der österreichischen
+    Gerichte (§§ 3, 24 des Ausführungsgesetzes),
+
+
+2.  die Bestellung eines besonderen Konkurs- oder besonderen
+    Vergleichsverwalters, wenn der Konkurs- oder Vergleichsverwalter von
+    dem Richter ernannt worden ist (§§ 4, 24 des Ausführungsgesetzes),
+
+
+3.  die Anordnung von Zwangsmaßnahmen einschließlich der Haft (§§ 11, 15,
+    24 des Ausführungsgesetzes),
+
+
+4.  die Entscheidung über die Postsperre (§§ 17, 24 des
+    Ausführungsgesetzes).
 
 
 
@@ -877,8 +927,8 @@ sich ziehen, wenn und solange er dies für erforderlich hält.
 
 ### § 20 Bürgerliche Rechtsstreitigkeiten
 
-Folgende Geschäfte im Verfahren nach der Zivilprozeßordnung und dem
-Mieterschutzgesetz werden dem Rechtspfleger übertragen:
+Folgende Geschäfte im Verfahren nach der Zivilprozeßordnung werden dem
+Rechtspfleger übertragen:
 
 1.  das Mahnverfahren im Sinne des Siebenten Buchs der Zivilprozeßordnung
     einschließlich der Bestimmung der Einspruchsfrist nach § 700 Abs. 1 in
@@ -1065,15 +1115,15 @@ folgenden Geschäfte übertragen:
 
 1.  die nach den §§ 109, 715 der Zivilprozeßordnung in Verbindung mit § 99
     Abs. 1 des Patentgesetzes zu treffenden Entscheidungen bei der
-    Rückerstattung von Sicherheiten in den Fällen des § 81 Abs. 7 und des
-    § 85 Abs. 2 und 6 des Patentgesetzes sowie des § 20 des
+    Rückerstattung von Sicherheiten in den Fällen des § 81 Absatz 6 und
+    des § 85 Abs. 2 und 6 des Patentgesetzes sowie des § 20 des
     Gebrauchsmustergesetzes;
 
 
 2.  bei Verfahrenskostenhilfe (§§ 129 bis 137 des Patentgesetzes, § 21
     Abs. 2 des Gebrauchsmustergesetzes, § 24 des Geschmacksmustergesetzes,
-    § 11 des Halbleiterschutzgesetzes, § 36 des Sortenschutzgesetzes) die
-    in § 20 Nr. 4 bezeichneten Maßnahmen;
+    § 11 Absatz 2 des Halbleiterschutzgesetzes, § 36 des
+    Sortenschutzgesetzes) die in § 20 Nr. 4 bezeichneten Maßnahmen;
 
 
 3.  (weggefallen)
@@ -1087,10 +1137,10 @@ folgenden Geschäfte übertragen:
 
 
 5.  die Bestimmung einer Frist für die Nachreichung der schriftlichen
-    Vollmacht (§ 97 Abs. 2 Satz 2 des Patentgesetzes, § 18 Abs. 2 des
+    Vollmacht (§ 97 Absatz 5 Satz 2 des Patentgesetzes, § 18 Abs. 2 des
     Gebrauchsmustergesetzes, § 4 Abs. 4 Satz 3 des
-    Halbleiterschutzgesetzes, § 81 Abs. 2 Satz 3 des Markengesetzes, § 23
-    Abs. 2 Satz 3 des Geschmacksmustergesetzes);
+    Halbleiterschutzgesetzes, § 81 Absatz 5 Satz 3 des Markengesetzes, §
+    23 Abs. 2 Satz 3 des Geschmacksmustergesetzes);
 
 
 6.  die Anordnung, Urschriften, Ablichtungen oder beglaubigte Abschriften
@@ -1100,10 +1150,10 @@ folgenden Geschäfte übertragen:
     Halbleiterschutzgesetzes);
 
 
-7.  die Aufforderung zur Benennung eines Vertreters oder
-    Zustellungsbevollmächtigten nach § 25 des Patentgesetzes, § 28 des
-    Gebrauchsmustergesetzes, § 11 des Halbleiterschutzgesetzes, § 96 des
-    Markengesetzes, § 23 Abs. 2 Satz 3 des Geschmacksmustergesetzes;
+7.  die Aufforderung zur Benennung eines Vertreters nach § 25 des
+    Patentgesetzes, § 28 des Gebrauchsmustergesetzes, § 11 Absatz 2 des
+    Halbleiterschutzgesetzes, § 96 des Markengesetzes, § 58 des
+    Geschmacksmustergesetzes;
 
 
 8.  (weggefallen)
@@ -1139,7 +1189,7 @@ folgenden Geschäfte übertragen:
     Verbindung mit § 80 Abs. 5, § 84 Abs. 2 Satz 2, § 99 Abs. 1, § 109
     Abs. 3 des Patentgesetzes, § 18 Abs. 2 des Gebrauchsmustergesetzes, §
     4 Abs. 4 Satz 3 des Halbleiterschutzgesetzes, § 71 Abs. 5, § 82 Abs.
-    1, § 90 Abs. 4 des Markengesetzes, § 23 Abs. 2 Satz 3 des
+    1, § 90 Abs. 4 des Markengesetzes, § 23 Absatz 2 und 3 des
     Geschmacksmustergesetzes;
 
 

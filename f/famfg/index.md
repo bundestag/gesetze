@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.7.2012 I 1577
+:   Art. 6 G v. 5.12.2012 I 2418
 
 
 ## Buch 1 - Allgemeiner Teil
@@ -405,7 +405,9 @@ Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist.
 #### § 18 Antrag auf Wiedereinsetzung
 
 (1) Der Antrag auf Wiedereinsetzung ist binnen zwei Wochen nach
-Wegfall des Hindernisses zu stellen.
+Wegfall des Hindernisses zu stellen. Ist der Beteiligte verhindert,
+die Frist zur Begründung der Rechtsbeschwerde einzuhalten, beträgt die
+Frist einen Monat.
 
 (2) Die Form des Antrags auf Wiedereinsetzung richtet sich nach den
 Vorschriften, die für die versäumte Verfahrenshandlung gelten.
@@ -710,15 +712,16 @@ Zuwiderhandlung gegen die Entscheidung hinzuweisen.
 (3) Das einzelne Zwangsgeld darf den Betrag von 25 000 Euro nicht
 übersteigen. Mit der Festsetzung des Zwangsmittels sind dem
 Verpflichteten zugleich die Kosten dieses Verfahrens aufzuerlegen. Für
-den Vollzug der Haft gelten § 901 Satz 2, die §§ 904 bis 906, 909, 910
-und 913 der Zivilprozessordnung entsprechend.
+den Vollzug der Haft gelten § 802g Abs. 1 Satz 2 und Abs. 2, die §§
+802h und 802j Abs. 1 der Zivilprozessordnung entsprechend.
 
 (4) Ist die Verpflichtung zur Herausgabe oder Vorlage einer Sache oder
 zur Vornahme einer vertretbaren Handlung zu vollstrecken, so kann das
 Gericht, soweit ein Gesetz nicht etwas anderes bestimmt, durch
 Beschluss neben oder anstelle einer Maßnahme nach den Absätzen 1, 2
 die in §§ 883, 886, 887 der Zivilprozessordnung vorgesehenen Maßnahmen
-anordnen. Die §§ 891 und 892 gelten entsprechend.
+anordnen. Die §§ 891 und 892 der Zivilprozessordnung gelten
+entsprechend.
 
 (5) Der Beschluss, durch den Zwangsmaßnahmen angeordnet werden, ist
 mit der sofortigen Beschwerde in entsprechender Anwendung der §§ 567
@@ -853,7 +856,8 @@ entsprechend.
 Jeder Beschluss hat eine Belehrung über das statthafte Rechtsmittel,
 den Einspruch, den Widerspruch oder die Erinnerung sowie das Gericht,
 bei dem diese Rechtsbehelfe einzulegen sind, dessen Sitz und die
-einzuhaltende Form und Frist zu enthalten.
+einzuhaltende Form und Frist zu enthalten. Über die
+Sprungrechtsbeschwerde muss nicht belehrt werden.
 
 
 #### § 40 Wirksamwerden
@@ -1169,8 +1173,9 @@ Gegen den Beschluss findet die Beschwerde statt.
 #### § 57 Rechtsmittel
 
 Entscheidungen in Verfahren der einstweiligen Anordnung in
-Familiensachen sind nicht anfechtbar. Dies gilt nicht, wenn das
-Gericht des ersten Rechtszugs auf Grund mündlicher Erörterung
+Familiensachen sind nicht anfechtbar. Dies gilt nicht in Verfahren
+nach § 151 Nummer 6 und 7 und auch nicht, wenn das Gericht des ersten
+Rechtszugs auf Grund mündlicher Erörterung
 
 1.  über die elterliche Sorge für ein Kind,
 
@@ -1285,17 +1290,15 @@ Interesse an der Feststellung hat.
 ist, binnen einer Frist von einem Monat einzulegen.
 
 (2) Die Beschwerde ist binnen einer Frist von zwei Wochen einzulegen,
-wenn sie sich gegen
+wenn sie sich gegen folgende Entscheidungen richtet:
 
-1.  eine einstweilige Anordnung oder
-
-
-2.  einen Beschluss, der die Genehmigung eines Rechtsgeschäfts zum
-    Gegenstand hat,
+1.  Endentscheidungen im Verfahren der einstweiligen Anordnung oder
 
 
+2.  Entscheidungen über Anträge auf Genehmigung eines Rechtsgeschäfts.
 
-richtet.
+
+
 
 (3) Die Frist beginnt jeweils mit der schriftlichen Bekanntgabe des
 Beschlusses an die Beteiligten. Kann die schriftliche Bekanntgabe an
@@ -1306,7 +1309,9 @@ mit Ablauf von fünf Monaten nach Erlass des Beschlusses.
 ##### § 64 Einlegung der Beschwerde
 
 (1) Die Beschwerde ist bei dem Gericht einzulegen, dessen Beschluss
-angefochten wird.
+angefochten wird. Anträge auf Bewilligung von Verfahrenskostenhilfe
+für eine beabsichtigte Beschwerde sind bei dem Gericht einzulegen,
+dessen Beschluss angefochten werden soll.
 
 (2) Die Beschwerde wird durch Einreichung einer Beschwerdeschrift oder
 zur Niederschrift der Geschäftsstelle eingelegt. Die Einlegung der
@@ -1326,8 +1331,8 @@ Vollziehung des angefochtenen Beschlusses auszusetzen ist.
 
 (1) Die Beschwerde soll begründet werden.
 
-(2) Das Gericht kann dem Beschwerdeführer eine Frist zur Begründung
-der Beschwerde einräumen.
+(2) Das Beschwerdegericht oder der Vorsitzende kann dem
+Beschwerdeführer eine Frist zur Begründung der Beschwerde einräumen.
 
 (3) Die Beschwerde kann auf neue Tatsachen und Beweismittel gestützt
 werden.
@@ -1619,7 +1624,8 @@ Der Antrag auf Zulassung der Sprungrechtsbeschwerde und die Erklärung
 der Einwilligung gelten als Verzicht auf das Rechtsmittel der
 Beschwerde.
 
-(2) Für das weitere Verfahren gilt § 566 Abs. 2 bis 8 der
+(2) Die Sprungrechtsbeschwerde ist in der in § 63 bestimmten Frist
+einzulegen. Für das weitere Verfahren gilt § 566 Abs. 2 bis 8 der
 Zivilprozessordnung entsprechend.
 
 
@@ -1729,8 +1735,8 @@ einem Beteiligten auferlegen, wenn
 
 
 
-(3) Einem minderjährigen Beteiligten können Kosten in Verfahren, die
-seine Person betreffen, nicht auferlegt werden.
+(3) Einem minderjährigen Beteiligten können Kosten in
+Kindschaftssachen, die seine Person betreffen, nicht auferlegt werden.
 
 (4) Einem Dritten können Kosten des Verfahrens nur auferlegt werden,
 soweit die Tätigkeit des Gerichts durch ihn veranlasst wurde und ihn
@@ -1852,8 +1858,9 @@ Umgangs anordnet, hat auf die Folgen einer Zuwiderhandlung gegen den
 Vollstreckungstitel hinzuweisen.
 
 (3) Das einzelne Ordnungsgeld darf den Betrag von 25 000 Euro nicht
-übersteigen. Für den Vollzug der Haft gelten § 901 Satz 2, die §§ 904
-bis 906, 909, 910 und 913 der Zivilprozessordnung entsprechend.
+übersteigen. Für den Vollzug der Haft gelten § 802g Abs. 1 Satz 2 und
+Abs. 2, die §§ 802h und 802j Abs. 1 der Zivilprozessordnung
+entsprechend.
 
 (4) Die Festsetzung eines Ordnungsmittels unterbleibt, wenn der
 Verpflichtete Gründe vorträgt, aus denen sich ergibt, dass er die
@@ -1894,7 +1901,7 @@ nicht, wenn der Erlass des Beschlusses den Erfolg der Durchsuchung
 gefährden würde.
 
 (2) Auf die Vollstreckung eines Haftbefehls nach § 94 in Verbindung
-mit § 901 der Zivilprozessordnung ist Absatz 1 nicht anzuwenden.
+mit § 802g der Zivilprozessordnung ist Absatz 1 nicht anzuwenden.
 
 (3) Willigt der Verpflichtete in die Durchsuchung ein oder ist ein
 Beschluss gegen ihn nach Absatz 1 Satz 1 ergangen oder nach Absatz 1
@@ -1957,9 +1964,8 @@ Aufhebung von Vollstreckungsmaßregeln gelten § 775 Nr. 1 und 2 und §
 
 Wird eine herauszugebende Person nicht vorgefunden, kann das Gericht
 anordnen, dass der Verpflichtete eine eidesstattliche Versicherung
-über ihren Verbleib abzugeben hat. § 883 Abs. 2 bis 4, § 900 Abs. 1
-und die §§ 901, 902, 904 bis 910 sowie 913 der Zivilprozessordnung
-gelten entsprechend.
+über ihren Verbleib abzugeben hat. § 883 Abs. 2 und 3 der
+Zivilprozessordnung gilt entsprechend.
 
 
 #### Unterabschnitt 3 - Vollstreckung nach der Zivilprozessordnung
@@ -2483,9 +2489,9 @@ Familienstreitsachen sind folgende Familiensachen:
 
 #### § 113 Anwendung von Vorschriften der Zivilprozessordnung
 
-(1) In Ehesachen und Familienstreitsachen sind die §§ 2 bis 37, 40 bis
-45, 46 Satz 1 und 2 sowie die §§ 47 und 48 sowie 76 bis 96 nicht
-anzuwenden. Es gelten die Allgemeinen Vorschriften der
+(1) In Ehesachen und Familienstreitsachen sind die §§ 2 bis 22, 23 bis
+37, 40 bis 45, 46 Satz 1 und 2 sowie die §§ 47 und 48 sowie 76 bis 96
+nicht anzuwenden. Es gelten die Allgemeinen Vorschriften der
 Zivilprozessordnung und die Vorschriften der Zivilprozessordnung über
 das Verfahren vor den Landgerichten entsprechend.
 
@@ -2574,7 +2580,8 @@ Personen die Befähigung zum Richteramt haben.
 1.  im Verfahren der einstweiligen Anordnung,
 
 
-2.  wenn ein Beteiligter durch das Jugendamt als Beistand vertreten ist,
+2.  in Unterhaltssachen für Beteiligte, die durch das Jugendamt als
+    Beistand, Vormund oder Ergänzungspfleger vertreten sind,
 
 
 3.  für die Zustimmung zur Scheidung und zur Rücknahme des
@@ -2637,9 +2644,9 @@ spätestens mit Ablauf von fünf Monaten nach Erlass des Beschlusses. §
 Zivilprozessordnung gelten entsprechend.
 
 (2) Die §§ 514, 516 Abs. 3, § 521 Abs. 2, § 524 Abs. 2 Satz 2 und 3,
-die §§ 528, 538 Abs. 2 und § 539 der Zivilprozessordnung gelten im
-Beschwerdeverfahren entsprechend. Einer Güteverhandlung bedarf es im
-Beschwerde- und Rechtsbeschwerdeverfahren nicht.
+die §§ 527, 528, 538 Abs. 2 und § 539 der Zivilprozessordnung gelten
+im Beschwerdeverfahren entsprechend. Einer Güteverhandlung bedarf es
+im Beschwerde- und Rechtsbeschwerdeverfahren nicht.
 
 (3) Beabsichtigt das Beschwerdegericht von einzelnen
 Verfahrensschritten nach § 68 Abs. 3 Satz 2 abzusehen, hat das Gericht
@@ -3138,8 +3145,11 @@ durch Beschwerde oder Rechtsbeschwerde angefochten worden, können
 Teile der einheitlichen Entscheidung, die eine andere Familiensache
 betreffen, durch Erweiterung des Rechtsmittels oder im Wege der
 Anschließung an das Rechtsmittel nur noch bis zum Ablauf eines Monats
-nach Zustellung der Rechtsmittelbegründung angefochten werden; bei
-mehreren Zustellungen ist die letzte maßgeblich.
+nach Bekanntgabe der Rechtsmittelbegründung angefochten werden; bei
+mehreren Bekanntgaben ist die letzte maßgeblich. Ist eine Begründung
+des Rechtsmittels gesetzlich nicht vorgeschrieben, so tritt an die
+Stelle der Bekanntgabe der Rechtsmittelbegründung die Bekanntgabe des
+Schriftsatzes, mit dem das Rechtsmittel eingelegt wurde.
 
 (2) Erfolgt innerhalb dieser Frist eine solche Erweiterung des
 Rechtsmittels oder Anschließung an das Rechtsmittel, so verlängert
@@ -3375,8 +3385,7 @@ persönlich anhören.
 Gesetzbuchs soll das Gericht mit den Eltern und in geeigneten Fällen
 auch mit dem Kind erörtern, wie einer möglichen Gefährdung des
 Kindeswohls, insbesondere durch öffentliche Hilfen, begegnet werden
-und welche Folgen die Nichtannahme notwendiger Hilfen haben kann. Das
-Gericht soll das Jugendamt zu dem Termin laden.
+und welche Folgen die Nichtannahme notwendiger Hilfen haben kann.
 
 (2) Das Gericht hat das persönliche Erscheinen der Eltern zu dem
 Termin nach Absatz 1 anzuordnen. Das Gericht führt die Erörterung in
@@ -3536,12 +3545,14 @@ seit längerer Zeit in Familienpflege lebt.
 das Jugendamt anzuhören. Unterbleibt die Anhörung wegen Gefahr im
 Verzug, ist sie unverzüglich nachzuholen.
 
-(2) Das Jugendamt ist auf seinen Antrag an dem Verfahren zu
-beteiligen.
+(2) In Verfahren nach den §§ 1666 und 1666a des Bürgerlichen
+Gesetzbuchs ist das Jugendamt zu beteiligen. Im Übrigen ist das
+Jugendamt auf seinen Antrag am Verfahren zu beteiligen.
 
-(3) Dem Jugendamt sind alle Entscheidungen des Gerichts bekannt zu
-machen, zu denen es nach Absatz 1 Satz 1 zu hören war. Gegen den
-Beschluss steht dem Jugendamt die Beschwerde zu.
+(3) In Verfahren, die die Person des Kindes betreffen, ist das
+Jugendamt von Terminen zu benachrichtigen und ihm sind alle
+Entscheidungen des Gerichts bekannt zu machen. Gegen den Beschluss
+steht dem Jugendamt die Beschwerde zu.
 
 
 #### § 163 Fristsetzung bei schriftlicher Begutachtung; Inhalt des Gutachtenauftrags; Vernehmung des Kindes
@@ -3552,8 +3563,8 @@ einzureichen hat.
 
 (2) Das Gericht kann in Verfahren, die die Person des Kindes
 betreffen, anordnen, dass der Sachverständige bei der Erstellung des
-Gutachtenauftrags auch auf die Herstellung des Einvernehmens zwischen
-den Beteiligten hinwirken soll.
+Gutachtens auch auf die Herstellung des Einvernehmens zwischen den
+Beteiligten hinwirken soll.
 
 (3) Eine Vernehmung des Kindes als Zeuge findet nicht statt.
 
@@ -3818,7 +3829,7 @@ Vertretung durch den sorgeberechtigten Elternteil ausgeschlossen.
 Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen
 einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung
 seiner Interessen erforderlich ist. § 158 Abs. 2 Nr. 1 sowie Abs. 3
-bis 7 gilt entsprechend.
+bis 8 gilt entsprechend.
 
 
 #### § 175 Erörterungstermin; persönliche Anhörung
@@ -4085,7 +4096,7 @@ eine Bescheinigung über den Eintritt der Vormundschaft zu erteilen; §
 Das Gericht hat einem minderjährigen Beteiligten in Adoptionssachen
 einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung
 seiner Interessen erforderlich ist. § 158 Abs. 2 Nr. 1 sowie Abs. 3
-bis 7 gilt entsprechend.
+bis 8 gilt entsprechend.
 
 
 #### § 192 Anhörung der Beteiligten
@@ -5847,6 +5858,19 @@ besorgen sind, darf diese Entscheidung nur auf Grundlage eines
 vorführen lassen, wenn er sich weigert, an Verfahrenshandlungen nach
 Absatz 1 mitzuwirken.
 
+(6) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
+ausdrücklich angeordnet hat. Die zuständige Behörde ist befugt,
+erforderlichenfalls um Unterstützung der polizeilichen Vollzugsorgane
+nachzusuchen.
+
+(7) Die Wohnung des Betroffenen darf ohne dessen Einwilligung nur
+gewaltsam geöffnet, betreten und durchsucht werden, wenn das Gericht
+dies zu dessen Vorführung zur Anhörung ausdrücklich angeordnet hat.
+Bei Gefahr im Verzug kann die Anordnung nach Satz 1 durch die
+zuständige Behörde erfolgen. Durch diese Regelung wird das Grundrecht
+auf Unverletzlichkeit der Wohnung aus Artikel 13 Absatz 1 des
+Grundgesetzes eingeschränkt.
+
 
 #### § 279 Anhörung der sonstigen Beteiligten, der Betreuungsbehörde und des gesetzlichen Vertreters
 
@@ -5958,15 +5982,19 @@ eines Gutachtens untersucht und durch die zuständige Behörde zu einer
 Untersuchung vorgeführt wird. Der Betroffene soll vorher persönlich
 angehört werden.
 
-(2) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies auf
-Grund einer ausdrücklichen Entscheidung angeordnet hat. Die zuständige
-Behörde ist befugt, erforderlichenfalls die Unterstützung der
-polizeilichen Vollzugsorgane nachzusuchen.
+(2) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
+ausdrücklich angeordnet hat. Die zuständige Behörde ist befugt,
+erforderlichenfalls die Unterstützung der polizeilichen Vollzugsorgane
+nachzusuchen.
 
 (3) Die Wohnung des Betroffenen darf ohne dessen Einwilligung nur
-betreten werden, wenn das Gericht dies auf Grund einer ausdrücklichen
-Entscheidung angeordnet hat. Bei Gefahr im Verzug findet Satz 1 keine
-Anwendung.
+gewaltsam geöffnet, betreten und durchsucht werden, wenn das Gericht
+dies zu dessen Vorführung zur Untersuchung ausdrücklich angeordnet
+hat. Vor der Anordnung ist der Betroffene persönlich anzuhören. Bei
+Gefahr im Verzug kann die Anordnung durch die zuständige Behörde ohne
+vorherige Anhörung des Betroffenen erfolgen. Durch diese Regelung wird
+das Grundrecht auf Unverletzlichkeit der Wohnung aus Artikel 13 Absatz
+1 des Grundgesetzes eingeschränkt.
 
 
 #### § 284 Unterbringung zur Begutachtung
@@ -5989,7 +6017,7 @@ Absätzen 1 und 2 findet die sofortige Beschwerde nach den §§ 567 bis
 
 #### § 285 Herausgabe einer Betreuungsverfügung oder der Abschrift einer Vorsorgevollmacht
 
-In den Fällen des § 1901a des Bürgerlichen Gesetzbuchs erfolgt die
+In den Fällen des § 1901c des Bürgerlichen Gesetzbuchs erfolgt die
 Anordnung der Ablieferung oder Vorlage der dort genannten
 Schriftstücke durch Beschluss.
 
@@ -6262,23 +6290,19 @@ die Entscheidung stets bekannt zu geben.
 
 #### § 298 Verfahren in Fällen des § 1904 des Bürgerlichen Gesetzbuchs
 
-(1) Das Gericht darf die Einwilligung eines Betreuers oder eines
-Bevollmächtigten in eine Untersuchung des Gesundheitszustands, eine
-Heilbehandlung oder einen ärztlichen Eingriff (§ 1904 Absatz 1 des
-Bürgerlichen Gesetzbuchs) nur genehmigen, wenn es den Betroffenen
-zuvor persönlich angehört hat. Das Gericht soll die sonstigen
-Beteiligten anhören. Auf Verlangen des Betroffenen hat das Gericht
-eine ihm nahestehende Person anzuhören, wenn dies ohne erhebliche
-Verzögerung möglich ist.
+(1) Das Gericht darf die Einwilligung, die Nichteinwilligung oder den
+Widerruf einer Einwilligung eines Betreuers oder eines
+Bevollmächtigten (§ 1904 Absatz 1, 2 und 5 des Bürgerlichen
+Gesetzbuchs) nur genehmigen, wenn es den Betroffenen zuvor persönlich
+angehört hat. Das Gericht soll die sonstigen Beteiligten anhören. Auf
+Verlangen des Betroffenen hat das Gericht eine ihm nahestehende Person
+anzuhören, wenn dies ohne erhebliche Verzögerung möglich ist.
 
-(2) Das Gericht soll vor der Genehmigung nach § 1904 Absatz 2 des
-Bürgerlichen Gesetzbuchs die sonstigen Beteiligten anhören.
-
-(3) Die Bestellung eines Verfahrenspflegers ist stets erforderlich,
+(2) Die Bestellung eines Verfahrenspflegers ist stets erforderlich,
 wenn Gegenstand des Verfahrens eine Genehmigung nach § 1904 Absatz 2
 des Bürgerlichen Gesetzbuchs ist.
 
-(4) Vor der Genehmigung ist ein Sachverständigengutachten einzuholen.
+(3) Vor der Genehmigung ist ein Sachverständigengutachten einzuholen.
 Der Sachverständige soll nicht auch der behandelnde Arzt sein.
 
 
@@ -6694,6 +6718,19 @@ Rechtshilfe erfolgen.
 vorführen lassen, wenn er sich weigert, an Verfahrenshandlungen nach
 Absatz 1 mitzuwirken.
 
+(6) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
+ausdrücklich angeordnet hat. Die zuständige Behörde ist befugt,
+erforderlichenfalls um Unterstützung der polizeilichen Vollzugsorgane
+nachzusuchen.
+
+(7) Die Wohnung des Betroffenen darf ohne dessen Einwilligung nur
+gewaltsam geöffnet, betreten und durchsucht werden, wenn das Gericht
+dies zu dessen Vorführung zur Anhörung ausdrücklich angeordnet hat.
+Bei Gefahr im Verzug kann die Anordnung nach Satz 1 durch die
+zuständige Behörde erfolgen. Durch diese Regelung wird das Grundrecht
+auf Unverletzlichkeit der Wohnung aus Artikel 13 Absatz 1 des
+Grundgesetzes eingeschränkt.
+
 
 #### § 320 Anhörung der sonstigen Beteiligten und der zuständigen Behörde
 
@@ -6784,15 +6821,19 @@ im Sinne des § 1896 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs auf
 deren Wunsch bei der Zuführung zur Unterbringung nach § 312 Nr. 1 zu
 unterstützen.
 
-(2) Gewalt darf die zuständige Behörde nur anwenden, wenn das Gericht
-dies auf Grund einer ausdrücklichen Entscheidung angeordnet hat. Die
-zuständige Behörde ist befugt, erforderlichenfalls die Unterstützung
-der polizeilichen Vollzugsorgane nachzusuchen.
+(2) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
+ausdrücklich angeordnet hat. Die zuständige Behörde ist befugt,
+erforderlichenfalls die Unterstützung der polizeilichen Vollzugsorgane
+nachzusuchen.
 
 (3) Die Wohnung des Betroffenen darf ohne dessen Einwilligung nur
-betreten werden, wenn das Gericht dies auf Grund einer ausdrücklichen
-Entscheidung angeordnet hat. Bei Gefahr im Verzug findet Satz 1 keine
-Anwendung.
+gewaltsam geöffnet, betreten und durchsucht werden, wenn das Gericht
+dies zu dessen Zuführung zur Unterbringung ausdrücklich angeordnet
+hat. Vor der Anordnung ist der Betroffene persönlich anzuhören. Bei
+Gefahr im Verzug kann die Anordnung durch die zuständige Behörde ohne
+vorherige Anhörung des Betroffenen erfolgen. Durch diese Regelung wird
+das Grundrecht auf Unverletzlichkeit der Wohnung aus Artikel 13 Absatz
+1 des Grundgesetzes eingeschränkt.
 
 
 #### § 327 Vollzugsangelegenheiten
@@ -7694,8 +7735,9 @@ Unternehmensrechtliche Verfahren sind die nach
 
 
 3.  § 33 Abs. 3, den §§ 35 und 73 Abs. 1, den §§ 85 und 103 Abs. 3, den §§
-    104 und 122 Abs. 3, § 147 Abs. 2, § 183a Absatz 3, § 265 Abs. 3 und 4,
-    § 270 Abs. 3 sowie § 273 Abs. 2 bis 4 des Aktiengesetzes,
+    104 und 122 Abs. 3, § 147 Abs. 2, § 183a Absatz 3, § 264 Absatz 2, §
+    265 Abs. 3 und 4, § 270 Abs. 3, § 273 Abs. 2 bis 4 sowie § 290 Absatz
+    3 des Aktiengesetzes,
 
 
 4.  Artikel 55 Abs. 3 der Verordnung (EG) Nr. 2157/2001 des Rates vom 8.
@@ -7728,16 +7770,19 @@ Unternehmensrechtliche Verfahren sind die nach
     Eisen und Stahl erzeugenden Industrie,
 
 
-11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 38 Abs. 2 Satz 2, § 45a Abs. 2
-    Satz 1, 3, 4 und 6, § 46 Absatz 2 des Kreditwesengesetzes,
+11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 28 Absatz 2, § 38 Abs. 2 Satz 2,
+    § 45a Abs. 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
+
+
+11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
 
 
 12. § 2 Absatz 5 Satz 1 und 2, § 30 Abs. 2 Satz 1 und Abs. 5 Satz 1 sowie
     § 31 Abs. 1, 2 und 4 des Pfandbriefgesetzes,
 
 
-13. § 104 Abs. 2 Satz 3 bis 8 und § 104u Abs. 2 Satz 1 bis 6 des
-    Versicherungsaufsichtsgesetzes,
+13. § 47 Absatz 2, § 104 Abs. 2 Satz 3 bis 8 und § 104u Abs. 2 Satz 1 bis
+    6 des Versicherungsaufsichtsgesetzes,
 
 
 14. § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
@@ -7765,8 +7810,8 @@ vom Gericht zu erledigenden Angelegenheiten.
 Sitz hat, für den Bezirk dieses Landgerichts zuständig.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-die Aufgaben nach § 374 Nr. 1 bis 3 sowie § 375 Nummer 1, 3 bis 14 und
-16 anderen oder zusätzlichen Amtsgerichten zu übertragen und die
+die Aufgaben nach § 374 Nummer 1 bis 3 sowie § 375 Nummer 1, 3 bis 14
+und 16 anderen oder zusätzlichen Amtsgerichten zu übertragen und die
 Bezirke der Gerichte abweichend von Absatz 1 festzulegen. Sie können
 die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen. Mehrere Länder können die
@@ -7902,10 +7947,10 @@ Beseitigung des Hindernisses zu bestimmen. Die Entscheidung ist mit
 der Beschwerde anfechtbar.
 
 
-##### § 383 Bekanntgabe; Anfechtbarkeit
+##### § 383 Mitteilung; Anfechtbarkeit
 
-(1) Die Eintragung ist den Beteiligten bekannt zu geben; auf die
-Bekanntgabe kann verzichtet werden.
+(1) Die Eintragung ist den Beteiligten formlos mitzuteilen; auf die
+Mitteilung kann verzichtet werden.
 
 (2) Die Vorschriften über die Veröffentlichung von Eintragungen in das
 Register bleiben unberührt.
@@ -8426,7 +8471,7 @@ Weitere Angelegenheiten der freiwilligen Gerichtsbarkeit sind
 
 
 3.  die Bestellung des Verwahrers in den Fällen der §§ 432, 1217, 1281 und
-    2039 des Bürgerlichen Gesetzbuchs sowie in Festsetzung der von ihm
+    2039 des Bürgerlichen Gesetzbuchs sowie die Festsetzung der von ihm
     beanspruchten Vergütung und seiner Aufwendungen,
 
 

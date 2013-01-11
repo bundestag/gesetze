@@ -46,8 +46,10 @@ Rechtsvorschriften nicht entgegenstehen.
 
 (2) Wer Letztverbrauchern gewerbs- oder geschäftsmäßig oder regelmäßig
 in sonstiger Weise Waren oder Leistungen zum Abschluss eines
-Fernabsatzvertrages anbietet, hat zusätzlich zu Absatz 1 und § 2 Abs.
-2 anzugeben,
+Fernabsatzvertrages anbietet oder als Anbieter von Waren oder
+Leistungen zum Abschluss eines Fernabsatzvertrages gegenüber
+Letztverbrauchern unter Angabe von Preisen wirbt, hat zusätzlich zu
+Absatz 1 und § 2 Absatz 1 anzugeben,
 
 1.  dass die für Waren oder Leistungen geforderten Preise die Umsatzsteuer
     und sonstige Preisbestandteile enthalten und
@@ -222,7 +224,8 @@ Fachabteilungen.
 
 (1) Bei Krediten sind als Preis die Gesamtkosten als jährlicher
 Vomhundertsatz des Kredits anzugeben und als "effektiver Jahreszins"
-zu bezeichnen.
+zu bezeichnen. Satz 1 gilt auch beim Angebot eines Sollzinses für die
+Vertragslaufzeit nach Ablauf einer Sollzinsbindung.
 
 (2) Der anzugebende Vomhundertsatz gemäß Absatz 1 ist mit der in der
 Anlage angegebenen mathematischen Formel und nach den in der Anlage
@@ -643,6 +646,7 @@ vollständig macht.
 (Fundstelle: BGBl. I 2009, 2406 - 4207;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+
 I.  Grundgleichung zur Darstellung der Gleichheit zwischen Kredit-
     Auszahlungsbeträgen einerseits und Rückzahlungen (Tilgung, Zinsen und
     Kosten) andererseits.
@@ -738,70 +742,138 @@ I.  Grundgleichung zur Darstellung der Gleichheit zwischen Kredit-
 
 
 
-II. Zusätzliche Annahmen für die Berechnung des effektiven Jahreszinses
+II. Es gelten die folgenden zusätzlichen Annahmen für die Berechnung des
+    effektiven Jahreszinses:
 
     a)  Kann der Kreditnehmer bestimmen, zu welchem Zeitpunkt er den Kredit in
         Anspruch nehmen will, gilt der gesamte Kredit als sofort in voller
         Höhe in Anspruch genommen.
 
 
-    b)  Sieht der Kreditvertrag verschiedene Arten der Auszahlung mit
-        unterschiedlichen Kosten oder Sollzinssätzen vor, gilt der gesamte
+    b)  Ist dem Kreditnehmer nach dem Kreditvertrag generell freigestellt,
+        wann er den Kredit in Anspruch nehmen will, sind jedoch je nach Art
+        der Inanspruchnahme Beschränkungen in Bezug auf Kreditbetrag und
+        Zeitraum vorgesehen, so gilt der gesamte Kredit als zu dem im
+        Kreditvertrag vorgesehenen frühestmöglichen Zeitpunkt mit den
+        entsprechenden Beschränkungen in Anspruch genommen.
+
+
+    c)  Sieht der Kreditvertrag verschiedene Arten der Inanspruchnahme mit
+        unterschiedlichen Kosten oder Sollzinssätzen vor, so gilt der gesamte
         Kredit als zu den höchsten Kosten und zum höchsten Sollzinssatz in
-        Anspruch genommen, wie sie für die Art von Geschäften gelten, die bei
-        dieser Kreditvertragsart am häufigsten vorkommt.
+        Anspruch genommen, wie sie für die Kategorie von Geschäften gelten,
+        die bei dieser Kreditvertragsart am häufigsten vorkommt.
 
 
-    c)  Kann der Kreditnehmer bestimmen, zu welchem Zeitpunkt er den Kredit in
-        Anspruch nehmen will, sind jedoch je nach Art der Inanspruchnahme
-        Beschränkungen in Bezug auf Betrag und Zeitraum vorgesehen, gilt der
-        gesamte Kredit als zu dem frühesten vertraglich möglichen Zeitpunkt
-        mit den entsprechenden Beschränkungen in Anspruch genommen.
+    d)  Bei einer Überziehungsmöglichkeit gilt der gesamte Kreditbetrag als in
+        voller Höhe und für die gesamte Laufzeit des Kreditvertrags in
+        Anspruch genommen. Ist die Dauer der Überziehungsmöglichkeit nicht
+        bekannt, so ist bei der Berechnung des effektiven Jahreszinses von der
+        Annahme auszugehen, dass die Laufzeit des Kreditvertrags drei Monate
+        beträgt.
 
 
-    d)  Ist kein Zeitplan für die Tilgung festgelegt worden, ist anzunehmen,
-        dass die Kreditlaufzeit ein Jahr beträgt und der Kredit in zwölf
-        gleichen monatlich wiederkehrenden Raten zurückzuzahlen ist.
+    e)  Bei unbefristeten Kreditverträgen, die keine Überziehungsmöglichkeiten
+        sind, ist anzunehmen, dass
+
+        aa) der Kredit ab der ersten Inanspruchnahme für einen Zeitraum von einem
+            Jahr gewährt wird und dass mit der letzten Zahlung des Kreditnehmers
+            der Saldo, die Zinsen und etwaige sonstige Kosten ausgeglichen sind,
 
 
-    e)  Ist ein Zeitplan für die Tilgung festgelegt worden, kann der
-        Kreditnehmer jedoch die Höhe der einzelnen Tilgungsbeträge selbst
-        bestimmen, ist anzunehmen, dass jeder Tilgungsbetrag dem niedrigsten
-        im Kreditvertrag vorgesehenen Betrag entspricht.
+        bb) der Kreditbetrag in gleich hohen monatlichen Zahlungen, beginnend
+            einen Monat nach dem Zeitpunkt der ersten Inanspruchnahme
+            zurückgezahlt wird. Muss der Kreditbetrag jedoch vollständig, in Form
+            einer einmaligen Zahlung, innerhalb jedes Zahlungszeitraums
+            zurückgezahlt werden, so ist anzunehmen, dass spätere Inanspruchnahmen
+            und Rückzahlungen des gesamten Kreditbetrags durch den Kreditnehmer
+            innerhalb eines Jahres stattfinden; Zinsen und sonstige Kosten werden
+            entsprechend diesen Inanspruchnahmen und Tilgungszahlungen und nach
+            den Bestimmungen des Kreditvertrags festgelegt.
+
+            Als unbefristete Kreditverträge gelten für die Zwecke dieses Punkts
+            Kreditverträge ohne feste Laufzeit, einschließlich solcher Kredite,
+            bei denen der Kreditbetrag innerhalb oder nach Ablauf eines Zeitraums
+            vollständig zurückgezahlt werden muss, dann aber erneut in Anspruch
+            genommen werden kann.
 
 
-    f)  Sieht der Kreditvertrag mehrere Termine für die Aus- oder Rückzahlung
-        vor, gelten sowohl die Auszahlung als auch die Rückzahlung des Kredits
-        als zu dem jeweils frühesten vertraglich möglichen Zeitpunkt erfolgt.
 
 
-    g)  Ist keine Kreditobergrenze vereinbart, ist anzunehmen, dass der Betrag
-        des gewährten Kredits 1 500 EUR beträgt.
+
+    f)  Bei anderen Kreditverträgen, die weder Überziehungsmöglichkeiten noch
+        unbefristete Kredite sind (siehe die Annahmen unter d und e), gilt
+        Folgendes:
+
+        aa) Lassen sich der Zeitpunkt oder die Höhe einer vom Kreditnehmer zu
+            leistenden Tilgungszahlung nicht feststellen, so ist anzunehmen, dass
+            die Rückzahlung zu dem im Kreditvertrag genannten frühestmöglichen
+            Zeitpunkt und in der darin festgelegten geringsten Höhe erfolgt.
 
 
-    h)  Bei Überziehungsmöglichkeiten gilt der gesamte Kredit als in voller
-        Höhe und für die gesamte Laufzeit des Kreditvertrags in Anspruch
-        genommen; ist die Laufzeit des Kreditvertrags nicht bestimmt, ist sie
-        mit drei Monaten anzunehmen.
+        bb) Ist der Zeitpunkt des Abschlusses des Kreditvertrags nicht bekannt, so
+            ist anzunehmen, dass der Kredit erstmals zu dem Zeitpunkt in Anspruch
+            genommen wurde, der sich aus dem kürzesten zeitlichen Abstand zwischen
+            diesem Zeitpunkt und der Fälligkeit der ersten vom Kreditnehmer zu
+            leistenden Zahlung ergibt.
+
+
+
+
+
+    g)  Lassen sich der Zeitpunkt oder die Höhe einer vom Kreditnehmer zu
+        leistenden Tilgungszahlung nicht anhand des Kreditvertrags oder der
+        Annahmen nach den Buchstaben d, e oder f feststellen, so ist
+        anzunehmen, dass die Zahlung in Übereinstimmung mit den vom
+        Kreditgeber bestimmten Fristen und Bedingungen erfolgt, und dass,
+        falls diese nicht bekannt sind,
+
+        aa) die Zinszahlungen zusammen mit den Tilgungszahlungen erfolgen,
+
+
+        bb) Zahlungen für Kosten, die keine Zinsen sind und die als Einmalbetrag
+            ausgedrückt sind, bei Abschluss des Kreditvertrags erfolgen,
+
+
+        cc) Zahlungen für Kosten, die keine Zinsen sind und die als
+            Mehrfachzahlungen ausgedrückt sind, beginnend mit der ersten
+            Tilgungszahlung in regelmäßigen Abständen erfolgen, und es sich, falls
+            die Höhe dieser Zahlungen nicht bekannt ist, um jeweils gleich hohe
+            Beträge handelt,
+
+
+        dd) mit der letzten Zahlung der Saldo, die Zinsen und etwaige sonstige
+            Kosten ausgeglichen sind.
+
+
+
+
+
+    h)  Ist keine Kreditobergrenze vereinbart, ist anzunehmen, dass der Betrag
+        des gewährten Kredits 1 500 Euro beträgt.
 
 
     i)  Werden für einen begrenzten Zeitraum oder Betrag verschiedene
-        Zinssätze und Kosten angeboten, so werden während der gesamten
-        Laufzeit des Kreditvertrags als Zinssatz der höchste Zinssatz und als
-        Kosten die höchsten Kosten angenommen.
+        Sollzinssätze und Kosten angeboten, so sind während der gesamten
+        Laufzeit des Kreditvertrags als Sollzinssatz der höchste Sollzinssatz
+        und als Kosten die höchsten Kosten anzunehmen.
 
 
-    j)  Bei Verträgen, bei denen die Sollzinsbindung vor der für die
+    j)  Bei Kreditverträgen, bei denen die Sollzinsbindung vor der für die
         Rückzahlung bestimmten Zeit endet und nach deren Ende ein neuer,
         veränderlicher Sollzinssatz vereinbart wird, der in regelmäßigen
         Abständen nach einem vereinbarten Index oder Referenzzinssatz
-        angepasst wird, wird angenommen, dass der Sollzinssatz nach Ablauf der
+        angepasst wird, ist anzunehmen, dass der Sollzinssatz nach Ablauf der
         Sollzinsbindung dem Sollzinssatz entspricht, der sich aus dem Wert des
         vereinbarten Indexes oder Referenzzinssatzes zum Zeitpunkt der
         Berechnung des effektiven Jahreszinses ergibt.
 
 
 
+
+    Satz 1 Buchstabe j darf der Berechnung des effektiven Jahreszinses nur
+    dann zugrunde gelegt werden, wenn feststeht, dass nach Ablauf der
+    Sollzinsbindung ein variabler Sollzins zur Anwendung kommt.
 
 
 

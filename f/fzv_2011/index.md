@@ -3307,12 +3307,12 @@ sonstige öffentliche Stelle, die mit der Erhebung der Autobahnmaut
 beauftragt ist.
 
 (5a) Zur Übermittlung durch Abruf im automatisierten Verfahren dürfen
-aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2c des
+aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2c und 2d des
 Straßenverkehrsgesetzes die in Absatz 2 Nummer 1 Buchstabe a und b
 genannten Daten für Anfragen unter Verwendung folgender Angaben
 bereitgehalten werden:
 
-1.  im Fall einer natürlichen Person Familienname, Vornamen, Ordens- oder
+1.  im Fall einer natürlichen Person Familienname, Vornamen, Ordens-oder
     Künstlername, Geburtsname, Datum und Ort der Geburt oder
 
 
@@ -3323,7 +3323,8 @@ bereitgehalten werden:
 
 
 Die in Satz 1 genannten Daten werden bereitgehalten für die zentrale
-Behörde (§ 4 des Auslandsunterhaltsgesetzes).
+Behörde (§ 4 des Auslandsunterhaltsgesetzes) sowie für den
+Gerichtsvollzieher.
 
 (6) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
 Zentralen Fahrzeugregister nach § 36 Absatz 3a des
@@ -5213,9 +5214,65 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 ![bgbl1_2011_j0139-1_0350.jpg](bgbl1_2011_j0139-1_0350.jpg)
 ![bgbl1_2011_j0139-1_0360.jpg](bgbl1_2011_j0139-1_0360.jpg)
 
+### Anlage 9 (zu § 16 Absatz 2 Satz 1) Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
+
+(Fundstelle: BGBl. I 2011, 214;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+Breite 74 mm, Höhe 105 mm, Farbe hellrot, schwarzer Druck (Typendruck)
+
+Geringfügige Abweichungen vom vorgeschriebenen Muster sind zulässig,
+insbesondere können zusätzliche Hinweise zur Verwendung aufgedruckt
+werden.
+
+
+*    *   Seite 1
+
+    *   Seite 2
+
+
+*    *
+    *
+
+*    *
+    *
+
+
+
+### Anlage 10 (zu § 16 Absatz 3 Satz 1) Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
+
+   (Fundstelle: BGBl. I 2011, 215)
+
+Breite 74 mm, Höhe 105 mm, Farbe hellrot, schwarzer Druck
+(Typendruck).
+
+Mehrseitig, auf Seite 3 und den folgenden Seiten derselbe Vordruck wie
+auf Seite 2.
+
+Mit Ausnahme von Seite 1 darf jede Seite Angaben über nur ein Fahrzeug
+enthalten.
+
+Geringfügige Abweichungen vom vorgeschriebenen Muster sind zulässig,
+insbesondere können zusätzliche Hinweise zur Verwendung aufgedruckt
+werden.
+
+
+*    *   Seite 1
+
+    *   Seite 2
+
+
+*    *
+    *
+
+*    *
+    *
+
+
+
 ### Anlage 10a (zu § 17 Absatz 2 Satz 1) Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen
 
-(Fundstelle: BGBl. I 2012, 2241)
+   (Fundstelle: BGBl. I 2012, 2241)
 
 Seite 1
 
@@ -5353,65 +5410,9 @@ Seiten 2 ff.
 
 
 
-### Anlage 9 (zu § 16 Absatz 2 Satz 1) Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
-
-(Fundstelle: BGBl. I 2011, 214;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-Breite 74 mm, Höhe 105 mm, Farbe hellrot, schwarzer Druck (Typendruck)
-
-Geringfügige Abweichungen vom vorgeschriebenen Muster sind zulässig,
-insbesondere können zusätzliche Hinweise zur Verwendung aufgedruckt
-werden.
-
-
-*    *   Seite 1
-
-    *   Seite 2
-
-
-*    *
-    *
-
-*    *
-    *
-
-
-
-### Anlage 10 (zu § 16 Absatz 3 Satz 1) Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
-
-   (Fundstelle: BGBl. I 2011, 215)
-
-Breite 74 mm, Höhe 105 mm, Farbe hellrot, schwarzer Druck
-(Typendruck).
-
-Mehrseitig, auf Seite 3 und den folgenden Seiten derselbe Vordruck wie
-auf Seite 2.
-
-Mit Ausnahme von Seite 1 darf jede Seite Angaben über nur ein Fahrzeug
-enthalten.
-
-Geringfügige Abweichungen vom vorgeschriebenen Muster sind zulässig,
-insbesondere können zusätzliche Hinweise zur Verwendung aufgedruckt
-werden.
-
-
-*    *   Seite 1
-
-    *   Seite 2
-
-
-*    *
-    *
-
-*    *
-    *
-
-
-
 ### Anlage 11 (zu § 23 Absatz 3)
 
-   (Fundstelle: BGBl. I 2012, 2242)
+(Fundstelle: BGBl. I 2012, 2242)
 
 Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für
 ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechende

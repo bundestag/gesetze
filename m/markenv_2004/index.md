@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 872
 
 Zuletzt geändert durch
-:   Art. 1 V v. 6.12.2011 I 2629
+:   Art. 1 V v. 10.12.2012 I 2630
 
 
 ## Eingangsformel
@@ -58,8 +58,7 @@ Patent- und Markenamt archivmäßig gesichert niedergelegt.
 (1) Die Anmeldung zur Eintragung einer Marke muss unter Verwendung des
 vom Deutschen Patent- und Markenamt herausgegebenen Formblatts
 eingereicht werden. Für die elektronische Einreichung ist § 12 der
-DPMA-Verordnung maßgebend. In den Fällen der §§ 14 und 15 ist die
-elektronische Einreichung ausgeschlossen.
+DPMA-Verordnung maßgebend.
 
 (2) Marken können für Waren und für Dienstleistungen angemeldet
 werden.
@@ -124,14 +123,15 @@ entsprechende Erklärung abgegeben werden.
     vertretungsberechtigten Gesellschafters anzugeben;
 
 
-3.  die Anschrift des Anmelders (Straße, Hausnummer, Postleitzahl, Ort).
+3.  die Anschrift des Wohnsitzes oder Sitzes des Anmelders (Straße,
+    Hausnummer, Postleitzahl, Ort).
 
 
 
 
-(2) In der Anmeldung können eine von der Anschrift des Anmelders
-abweichende Postanschrift, eine Postfachanschrift sowie Telefon- und
-Telefaxnummern angegeben werden.
+(2) In der Anmeldung können zusätzlich eine von der Anschrift des
+Anmelders abweichende Postanschrift, eine Postfachanschrift sowie
+Telefon- und Telefaxnummern angegeben werden.
 
 (3) Wird die Anmeldung von mehreren Personen eingereicht, so gelten
 die Absätze 1 und 2 für alle Personen.
@@ -460,22 +460,15 @@ Anmeldetags bleiben von solchen Nachforderungen unberührt.
 wenn die Voraussetzungen des § 32 Abs. 2 des Markengesetzes erfüllt
 sind, ein Anmeldetag nach § 33 Abs. 1 des Markengesetzes zuerkannt.
 
-(2) Innerhalb eines Monats ab Eingang der Anmeldung beim Deutschen
+(2) Innerhalb von drei Monaten ab Eingang der Anmeldung beim Deutschen
 Patent- und Markenamt ist eine deutsche Übersetzung des
 fremdsprachigen Inhalts der Anmeldung, insbesondere des Verzeichnisses
 der Waren und Dienstleistungen, einzureichen. Die Übersetzung muss von
 einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
 öffentlich bestellten Übersetzer angefertigt sein.
 
-(3) Die Übersetzung des Verzeichnisses der Waren und Dienstleistungen
-gilt als an dem nach § 33 Abs. 1 des Markengesetzes zuerkannten
-Anmeldetag zugegangen. Wird die Übersetzung nach Absatz 2 nicht
-innerhalb der dort genannten Frist eingereicht, so gilt die Anmeldung
-als nicht eingereicht. Wird die Übersetzung nach Ablauf dieser Frist,
-jedoch vor einer Feststellung nach Satz 2 eingereicht, so wird die
-Anmeldung weiterbehandelt. Betrifft die Übersetzung das Verzeichnis
-der Waren und Dienstleistungen, so wird der Anmeldung der Tag des
-Eingangs der Übersetzung als Anmeldetag zuerkannt.
+(3) Wird die Übersetzung nach Absatz 2 nicht innerhalb der dort
+genannten Frist eingereicht, so gilt die Anmeldung als zurückgenommen.
 
 (4) Die Prüfung der Anmeldung und alle weiteren Verfahren vor dem
 Deutschen Patent- und Markenamt finden auf der Grundlage der deutschen
@@ -556,25 +549,22 @@ für die Bestimmung des Zeitrangs maßgeblich ist. Der Anmeldetag nach §
 
 #### § 19 Klasseneinteilung
 
-(1) Die Klassifizierung der Waren und Dienstleistungen richtet sich
-nach der in der Anlage 1 zu dieser Verordnung enthaltenen
-Klasseneinteilung von Waren und Dienstleistungen.
-
-(2) Ergänzend sollen die alphabetischen Listen der Waren und
-Dienstleistungen (Anlagen 2 und 3 zu dieser Verordnung) zur
-Klassifizierung verwendet werden.
+Die Klassifizierung der Waren und Dienstleistungen richtet sich nach
+der vom Deutschen Patent- und Markenamt im Bundesanzeiger bekannt
+gemachten jeweils gültigen Fassung der Klasseneinteilung und der
+alphabetischen Listen der Waren und Dienstleistungen.
 
 
 #### § 20 Verzeichnis der Waren und Dienstleistungen
 
 (1) Die Waren und Dienstleistungen sind so zu bezeichnen, dass die
 Klassifizierung jeder einzelnen Ware oder Dienstleistung in eine
-Klasse der Klasseneinteilung nach § 19 Abs. 1 möglich ist.
+Klasse der Klasseneinteilung nach § 19 möglich ist.
 
 (2) Soweit möglich sollen die Bezeichnungen der Klasseneinteilung,
 falls diese nicht erläuterungsbedürftig sind, und die Begriffe der in
-§ 19 Abs. 2 bezeichneten alphabetischen Listen verwendet werden. Im
-Übrigen sollen möglichst verkehrsübliche Begriffe verwendet werden.
+§ 19 bezeichneten alphabetischen Listen verwendet werden. Im Übrigen
+sollen möglichst verkehrsübliche Begriffe verwendet werden.
 
 (3) Die Waren und Dienstleistungen sind nach Klassen geordnet in der
 Reihenfolge der Klasseneinteilung anzugeben.
@@ -1608,22 +1598,4 @@ Verordnung in ihrer bis dahin geltenden Fassung.
 ### § 58 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.
-
-
-### Anlage 1 (zu § 19 Abs. 1)
-
-(Fundstelle: BGBl. I 2011, Anlageband zu Nr. 64, S. 3 - 20)
-
-
-
-### Anlage 2 (zu § 19 Abs. 2)
-
-(Fundstelle: BGBl. I 2011, Anlageband zu Nr. 64, S. 21 - 136)
-
-
-
-### Anlage 3 (zu § 19 Abs. 2)
-
-(Fundstelle: BGBl. I 2011, Anlageband zu Nr. 64, S. 137 - 157)
-
 

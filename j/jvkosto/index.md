@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1940, 357
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 36 G v. 22.12.2011 I 3044
+:   Art. 6 G v. 20.12.2012 I 2751
 
 
 ## Eingangsformel
@@ -193,11 +193,12 @@ bestimmt ist, ist verpflichtet:
 
 Die Jahresgebühr für die Führung des Unternehmensregisters schuldet
 jedes Unternehmen, das seine Rechnungslegungsunterlagen im
-Bundesanzeiger bekannt zu machen hat, und jedes Unternehmen, das in
-dem betreffenden Kalenderjahr nach § 8b Abs. 2 Nr. 9 und 10, Abs. 3
-Satz 1 Nr. 2 des Handelsgesetzbuchs selbst oder durch einen von ihm
-beauftragten Dritten Daten an das Unternehmensregister übermittelt
-hat.
+Bundesanzeiger bekannt zu machen hat oder beim Betreiber des
+Bundesanzeigers zur Hinterlegung eingereicht hat, und jedes
+Unternehmen, das in dem betreffenden Kalenderjahr nach § 8b Abs. 2 Nr.
+9 und 10, Abs. 3 Satz 1 Nr. 2 des Handelsgesetzbuchs selbst oder durch
+einen von ihm beauftragten Dritten Daten an das Unternehmensregister
+übermittelt hat.
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -687,9 +688,10 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Mit der Jahresgebühr nach den Nummern 500 bis 502 wird der gesamte
-        Aufwand zur Führung des Unternehmensregisters entgolten. Sie umfasst
-        jedoch nicht den Aufwand für die Erteilung von Ausdrucken oder
-        Ablichtungen, die Überlassung von elektronisch gespeicherten
+        Aufwand zur Führung des Unternehmensregisters mit Ausnahme der
+        Übermittlung von Rechnungsunterlagen im Fall der Nummer 504 entgolten.
+        Sie umfasst jedoch nicht den Aufwand für die Erteilung von Ausdrucken
+        oder Ablichtungen, die Überlassung von elektronisch gespeicherten
         Dokumenten und die Beglaubigung von Ablichtungen, Ausdrucken, Auszügen
         und Dateien. Die Jahresgebühr wird jeweils am 31. Dezember des
         abgelaufenen Kalenderjahres fällig.
@@ -708,8 +710,9 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (1) Die Gebühr entsteht für jedes Kalenderjahr, für das ein
         Unternehmen die Rechnungslegungsunterlagen im Bundesanzeiger bekannt
-        zu machen hat. Dies gilt auch, wenn die bekannt zu machenden
-        Unterlagen nur einen Teil des Kalenderjahres umfassen.
+        zu machen hat oder beim Betreiber des Bundesanzeigers hinterlegt hat.
+        Dies gilt auch, wenn die bekannt zu machenden Unterlagen nur einen
+        Teil des Kalenderjahres umfassen.
 
     *
 
@@ -760,6 +763,28 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
     *   Die Gebühr wird für die Dokumente eines jeden Unternehmens gesondert
         erhoben. Mit der Gebühr wird auch die einmalige elektronische
         Übermittlung der Dokumente an den Antragsteller abgegolten.
+
+    *
+
+*    *   504
+
+    *   Übermittlung von Rechnungslegungsunterlagen einer
+        Kleinstkapitalgesellschaft, die beim Bundesanzeiger hinterlegt sind (§
+        326 Abs. 2 HGB):
+
+    *
+
+*    *
+    *   je übermittelter Bilanz
+
+    *   4,50 EUR
+
+
+*    *
+    *
+    *   Die Gebühren für die Übermittlung werden am 15. Tag des auf die
+        Übermittlung folgenden Monats fällig, sofern sie nicht über ein
+        elektronisches Bezahlsystem sofort beglichen werden.
 
     *
 

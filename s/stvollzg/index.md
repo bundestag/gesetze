@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1976, 581 (2088)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 29.7.2009 I 2274
+:   Art. 4 G v. 5.12.2012 I 2425
 
 
 ## Eingangsformel

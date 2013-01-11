@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 718
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.10.2012 I 2182
+:   Art. 5 G v. 5.12.2012 I 2425
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -416,19 +416,17 @@ Anwendung der Vorschriften der Verordnung (EG) Nr. 861/2007
 fortgeführt, soll vor Zahlung der Gebühr für das Verfahren im
 Allgemeinen keine gerichtliche Handlung vorgenommen werden.
 
-(5) Über den Antrag auf Abnahme der eidesstattlichen Versicherung, auf
-Erteilung einer Ablichtung oder eines Ausdrucks des mit
-eidesstattlicher Versicherung abgegebenen Vermögensverzeichnisses oder
-den Antrag auf Gewährung der Einsicht in dieses Vermögensverzeichnis
-soll erst nach Zahlung der dafür vorgesehenen Gebühr entschieden
-werden.
+(5) Über den Antrag auf Abnahme der eidesstattlichen Versicherung soll
+erst nach Zahlung der dafür vorgesehenen Gebühr entschieden werden.
 
 (6) Über Anträge auf Erteilung einer weiteren vollstreckbaren
 Ausfertigung (§ 733 der Zivilprozessordnung) und über Anträge auf
 gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829 Abs. 1, §§
 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder § 890 der
 Zivilprozessordnung soll erst nach Zahlung der Gebühr für das
-Verfahren und der Auslagen für die Zustellung entschieden werden.
+Verfahren und der Auslagen für die Zustellung entschieden werden. Dies
+gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der
+Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
 
 
 ### § 12a Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren
@@ -1850,8 +1848,8 @@ Dezember 2010 geltenden Fassung anzuwenden.
 
 ### Anlage 1 (zu § 3 Abs. 2) Kostenverzeichnis
 
-Fundstelle: BGBl. I 2004, 732 - 774;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2004, 732 - 774;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Gliederung
 
@@ -2913,6 +2911,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+
 Teil 1
 Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 ##
@@ -2979,10 +2978,6 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
     *   3,0
 
-
-*    *
-    *
-    *
 
 *    *
     *   (1) Soweit wegen desselben Streitgegenstands ein Mahnverfahren
@@ -4133,7 +4128,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *   1640
 
-    *   Verfahren nach § 148 Absatz 1 und 2 .......
+    *   Verfahren nach § 148 Absatz 1 und 2 .........
 
     *   1,0
 
@@ -4452,9 +4447,11 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
     *   0,5
 
 
+*    *
 
 
-Teil 2
+
+   Teil 2
 Zwangsvollstreckung nach der Zivilprozessordnung, Insolvenzverfahren
 und ähnliche Verfahren
 ##
@@ -4520,8 +4517,8 @@ und ähnliche Verfahren
 
 *    *   2113
 
-    *   Verfahren über den Antrag auf Aussetzung der Verwertung nach § 813b
-        ZPO...........
+    *   Verfahren über den Antrag auf Erlass eines Haftbefehls (§ 802g Abs. 1
+        ZPO) ...........
 
     *   15,00 EUR
 
@@ -4536,33 +4533,13 @@ und ähnliche Verfahren
 
 *    *   2115
 
-    *   Verfahren über den Antrag eines Drittgläubigers auf Erteilung einer
-        Ablichtung oder eines Ausdrucks des mit eidesstattlicher Versicherung
-        abgegebenen Vermögensverzeichnisses .......
-
-    *   15,00 EUR
-
-
-*    *
-    *   Die Gebühr entfällt, wenn für ein Verfahren über den Antrag auf
-        Gewährung der Einsicht in dasselbe Vermögensverzeichnis die Gebühr
-        2116 bereits entstanden ist.
+    *   (weggefallen)
 
     *
 
 *    *   2116
 
-    *   Verfahren über den Antrag eines Drittgläubigers auf Gewährung der
-        Einsicht in das mit eidesstattlicher Versicherung abgegebene
-        Vermögensverzeichnis ...........
-
-    *   15,00 EUR
-
-
-*    *
-    *   Die Gebühr entfällt, wenn für ein Verfahren über einen früheren Antrag
-        auf Gewährung der Einsicht in dasselbe Vermögensverzeichnis die Gebühr
-        bereits entstanden ist.
+    *   (weggefallen)
 
     *
 
@@ -5229,9 +5206,13 @@ und ähnliche Verfahren
     *   50,00 EUR
 
 
+*    *
+
+*    *
 
 
-Teil 3
+
+   Teil 3
 Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz,
 auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie
 Verfahren nach dem Gesetz über die internationale Rechtshilfe in
@@ -5603,6 +5584,8 @@ Strafsachen
     *
 
 *    *
+    *
+    *
 
 *    *   Abschnitt 3
         Revision
@@ -6010,7 +5993,7 @@ Strafsachen
 
 *    *   3820
 
-    *   - Die Rechtsbeschwerde wird verworfen ..........
+    *   - Die Rechtsbeschwerde wird verworfen .....
 
     *   2,0
 
@@ -6131,9 +6114,11 @@ Strafsachen
     *   50,00 EUR
 
 
+*    *
 
 
-Teil 4
+
+   Teil 4
 Verfahren nach dem Gesetz über Ordnungswidrigkeiten
 ##
 
@@ -6485,9 +6470,11 @@ Verfahren nach dem Gesetz über Ordnungswidrigkeiten
     *   50,00 EUR
 
 
+*    *
 
 
-Teil 5
+
+   Teil 5
 Verfahren vor den Gerichten der Verwaltungsgerichtsbarkeit
 ##
 
@@ -7204,9 +7191,11 @@ Verfahren vor den Gerichten der Verwaltungsgerichtsbarkeit
     *   wie vom Gericht bestimmt
 
 
+*    *
 
 
-Teil 6
+
+   Teil 6
 Verfahren vor den Gerichten der Finanzgerichtsbarkeit
 ##
 
@@ -7574,9 +7563,11 @@ Verfahren vor den Gerichten der Finanzgerichtsbarkeit
     *   wie vom Gericht bestimmt
 
 
+*    *
 
 
-Teil 7
+
+   Teil 7
 Verfahren vor den Gerichten der Sozialgerichtsbarkeit
 ##
 
@@ -8141,9 +8132,11 @@ Verfahren vor den Gerichten der Sozialgerichtsbarkeit
     *   wie vom Gericht bestimmt
 
 
+*    *
 
 
-Teil 8
+
+   Teil 8
 Verfahren vor den Gerichten der Arbeitsgerichtsbarkeit
 ##
 
@@ -8825,9 +8818,11 @@ Verfahren vor den Gerichten der Arbeitsgerichtsbarkeit
     *   wie vom Gericht bestimmt
 
 
+*    *
 
 
-Teil 9
+
+   Teil 9
 Auslagen
 ##
 
@@ -8913,11 +8908,7 @@ Auslagen
 
 
         § 191a Abs. 1 Satz 2 GVG bleibt unberührt.
-        (3) Für die erste Ablichtung oder den ersten Ausdruck eines mit
-        eidesstattlicher Versicherung abgegebenen Vermögensverzeichnisses und
-        der Niederschrift über die Abgabe der eidesstattlichen Versicherung
-        wird von demjenigen Kostenschuldner eine Dokumentenpauschale nicht
-        erhoben, von dem die Gebühr 2115 oder 2116 zu erheben ist.
+        (3) (weggefallen)
 
     *
 
@@ -9005,7 +8996,9 @@ Auslagen
 
 *    *
     *   Auslagen für die Bekanntmachung eines besonderen Prüfungstermins (§
-        177 InsO, § 11 SVertO) werden nicht erhoben.
+        177 InsO, § 11 SVertO) werden nicht erhoben. Die Auslagen für die
+        Bekanntmachung eines Vorlagebeschlusses gemäß § 6 Abs. 4 KapMuG gelten
+        als Auslagen des Musterverfahrens.
 
     *
 
@@ -9153,15 +9146,15 @@ Auslagen
 
 *    *   9010
 
-    *   Kosten einer Zwangshaft, auch aufgrund eines Haftbefehls nach § 901
-        ZPO ..........
+    *   Kosten einer Zwangshaft, auch aufgrund eines Haftbefehls nach § 802g
+        ZPO .........
 
-    *   in Höhe des Haftkostenbeitrags
+    *   in Höhe des
 
 
 *    *
-    *   Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht
-        von einem Gefangenen zu erheben ist.
+    *   Maßgebend ist die Höhe des Haftkostenbeitrags, Haftkostenbeitrags der
+        nach Landesrecht von einem Gefangenen zu erheben ist.
 
     *
 
@@ -9173,14 +9166,14 @@ Auslagen
         der Jugendhilfe (§ 71 Abs. 2, § 72 Abs. 4 JGG)
         ......................................
 
-    *   in Höhe des Haftkostenbeitrags
+    *   in Höhe des
 
 
 *    *
-    *   Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht
-        von einem Gefangenen zu erheben ist. Diese Kosten werden nur
-        angesetzt, wenn der Haftkostenbeitrag auch von einem Gefangenen im
-        Strafvollzug zu erheben wäre.
+    *   Maßgebend ist die Höhe des Haftkostenbeitrags, Haftkostenbeitrags der
+        nach Landesrecht von einem Gefangenen zu erheben ist. Diese Kosten
+        werden nur angesetzt, wenn der Haftkostenbeitrag auch von einem
+        Gefangenen im Strafvollzug zu erheben wäre.
 
     *
 

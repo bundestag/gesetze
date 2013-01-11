@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1086
 
 Zuletzt geändert durch
-:   Art. 46 G v. 20.12.2011 I 2854
+:   Art. 1 V v. 30.11.2012 I 2459
 
 
 ## Eingangsformel
@@ -83,7 +83,7 @@ aufgebracht.
 
 
 3.  des Dachdeckerhandwerks (§ 1 Abs. 3 Nr. 2 der Baubetriebe-Verordnung)
-    2,5 Prozent,
+    2 Prozent,
 
 
 4.  des Garten- und Landschaftsbaus (§ 1 Abs. 4 der Baubetriebe-
@@ -104,7 +104,7 @@ Arbeitnehmer.
 2.  nach Absatz 1 Nr. 2 allein durch die Arbeitgeber aufgebracht,
 
 
-3.  nach Absatz 1 Nr. 3 anteilig durch die Arbeitgeber in Höhe von 1,7
+3.  nach Absatz 1 Nr. 3 anteilig durch die Arbeitgeber in Höhe von 1,2
     Prozent und durch die Arbeitnehmer in Höhe von 0,8 Prozent
     aufgebracht; der Arbeitgeber hat den gesamten Umlagebetrag abzuführen,
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 19 G v. 6.12.2011 I 2481
+:   Art. 2a G v. 28.11.2012 I 2369
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
@@ -51,15 +51,9 @@ Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums der Finanzen (Bundesministerium).
 
 
-### § 3 Forum für Finanzmarktaufsicht
+### § 3 (weggefallen)
 
-Bei der Bundesanstalt wird ein Forum für Finanzmarktaufsicht
-eingerichtet, dem die Bundesanstalt und die Deutsche Bundesbank
-angehören. Das Bundesministerium kann an den Sitzungen teilnehmen. Den
-Vorsitz führt die Bundesanstalt. Das Forum für Finanzmarktaufsicht
-koordiniert die Zusammenarbeit mit der Deutschen Bundesbank bei der
-Aufsicht. Es berät auch in Fragen der Allfinanzaufsicht, die für die
-Stabilität des Finanzsystems von Bedeutung sind.
+—
 
 
 ### § 4 Aufgaben und Zusammenarbeit
@@ -114,6 +108,52 @@ anderer Personen und Einrichtungen bedienen.
 
 (4) Die Bundesanstalt nimmt ihre Aufgaben und Befugnisse nur im
 öffentlichen Interesse wahr.
+
+
+### § 4a Meinungsverschiedenheiten bei der laufenden Überwachung
+
+Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der
+Bundesanstalt und der Deutschen Bundesbank im Rahmen der laufenden
+Überwachung nach dem Kreditwesengesetz und dem
+Zahlungsdiensteaufsichtsgesetz sollen einvernehmlich beigelegt werden.
+Kann ein Einvernehmen nicht hergestellt werden, entscheidet das
+Bundesministerium im Benehmen mit der Deutschen Bundesbank.
+
+
+### § 4b Beschwerden
+
+(1) Kunden von solchen Instituten und Unternehmen, die der Aufsicht
+der Bundesanstalt unterliegen, und qualifizierte Einrichtungen nach §
+3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können
+wegen behaupteter Verstöße gegen Bestimmungen, deren Einhaltung die
+Bundesanstalt überwacht, Beschwerde bei der Bundesanstalt einlegen,
+sofern im jeweiligen Aufsichtsgesetz kein spezielles
+Beschwerdeverfahren vorgesehen ist.
+
+(2) Die Beschwerden sind in Schrift- oder Textform bei der
+Bundesanstalt einzulegen und sollen den Sachverhalt sowie den
+Beschwerdegrund enthalten.
+
+(3) Die Bundesanstalt hat gegenüber dem Beschwerdeführer in
+angemessener Frist zu der Beschwerde unter Beachtung des § 11 Stellung
+zu nehmen. Bei geeigneten Beschwerden kann die Bundesanstalt auf
+Möglichkeiten zur außergerichtlichen Streitbeilegung hinweisen.
+
+(4) Die Bundesanstalt kann bei Beschwerden im Rahmen der bestehenden
+aufsichtsrechtlichen Auskunftsansprüche das von der Beschwerde
+betroffene Institut oder Unternehmen zur Stellungnahme auffordern und
+dieses um Mitteilung bitten, ob es mit der Übermittlung der
+Stellungnahme oder von Teilen der Stellungnahme an den
+Beschwerdeführer einverstanden ist.
+
+
+### § 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren
+
+Für die Vorlage von Urkunden oder Akten, die Übermittlung
+elektronischer Dokumente oder die Erteilung von Auskünften durch die
+Bundesanstalt in verwaltungsgerichtlichen Verfahren ist § 99 der
+Verwaltungsgerichtsordnung mit der Maßgabe anzuwenden, dass an die
+Stelle der obersten Aufsichtsbehörde die Bundesanstalt tritt.
 
 
 ## Zweiter Abschnitt - Organisation
@@ -408,6 +448,26 @@ für die sonstige Gewährung von über- oder außertariflichen Leistungen
 entsprechend.
 
 
+### § 10a Stellenzulage
+
+(1) Die bei der Bundesanstalt verwendeten Beamten erhalten eine nicht
+ruhegehaltfähige Stellenzulage in Höhe von 80 Prozent der Zulage nach
+Vorbemerkung Nummer 7 der Anlage I (Bundesbesoldungsordnungen A und B)
+des Bundesbesoldungsgesetzes.
+
+(2) Die Bundesanstalt kann den Tarifbeschäftigten der Bundesanstalt
+mit Zustimmung des Bundesministeriums der Finanzen und des
+Bundesministeriums des Innern außertariflich eine entsprechende Zulage
+gewähren.
+
+
+### § 10b Personalgewinnungszuschlag
+
+Die Bundesanstalt kann durch Beschluss des Direktoriums mit Zustimmung
+des Verwaltungsrats von § 43 Absatz 11 des Bundesbesoldungsgesetzes
+abweichen.
+
+
 ### § 11 Verschwiegenheitspflicht
 
 Die Verschwiegenheitspflicht der Beschäftigten der Bundesanstalt in
@@ -431,6 +491,14 @@ einem Haushaltsplan einschließlich eines Stellenplans aus.
 Haushaltsjahr ist das Kalenderjahr. Auf Zahlungen, die Buchführung und
 die Rechnungslegung sind die für die bundesunmittelbaren juristischen
 Personen geltenden Bestimmungen der Bundeshaushaltsordnung anzuwenden.
+
+(1a) Bei der Aufstellung des Haushaltsplans beachtet die Bundesanstalt
+insbesondere in Bezug auf den Stellenplan im besonderen Maße die
+Grundsätze der Wirtschaftlichkeit und Sparsamkeit. Die
+Erforderlichkeit der im Haushaltsplan ausgebrachten Planstellen und
+sonstigen Stellen ist bei gegebenem Anlass, im Übrigen regelmäßig zu
+überprüfen. Dabei sind insbesondere Art und Umfang der
+Aufgabenerledigung zu überprüfen.
 
 (2) Der Haushaltsplan wird vom Direktorium aufgestellt. Das
 Direktorium hat dem Verwaltungsrat den Entwurf des Haushaltsplans
@@ -639,63 +707,1030 @@ Erstattungsrichtlinien, die das Bundesministerium erlässt.
 
 ### § 16 Umlage
 
-(1) Soweit die Kosten der Bundesanstalt nicht durch Gebühren,
-gesonderte Erstattung nach § 15 oder sonstige Einnahmen gedeckt
-werden, sind sie unter Berücksichtigung von Fehlbeträgen, nicht
-eingegangenen Beträgen und Überschüssen der Vorjahre anteilig auf die
-Kreditinstitute, Versicherungsunternehmen,
-Finanzdienstleistungsinstitute, Zahlungsinstitute, E-Geld-Institute,
-Wagniskapitalbeteiligungsgesellschaften, Kapitalanlagegesellschaften,
-Investmentaktiengesellschaften, Unternehmen, die an einer inländischen
-Börse zur Teilnahme am Handel zugelassen sind, sowie Emittenten mit
-Sitz im Inland, deren Wertpapiere an einer inländischen Börse zum
-Handel zugelassen oder mit ihrer Zustimmung in den Freiverkehr
-einbezogen sind, nach Maßgabe eines geeigneten Verteilungsschlüssels
-umzulegen und von der Bundesanstalt nach den Vorschriften des
-Verwaltungs-Vollstreckungsgesetzes beizutreiben.
+Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte
+Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind
+sie unter Berücksichtigung von Fehlbeträgen, nicht eingegangenen
+Beträgen und Überschüssen der Vorjahre anteilig auf die
+Kreditinstitute, Finanzdienstleistungs-, Zahlungs- und E-Geld-
+Institute, Kapitalanlage- und Investmentaktiengesellschaften,
+Wagniskapitalbeteiligungsgesellschaften, Versicherungsunternehmen,
+Wertpapierdienstleistungsunternehmen und Emittenten mit Sitz im
+Inland, deren Wertpapiere an einer inländischen Börse zum Handel
+zugelassen oder in den Freiverkehr einbezogen sind, sowie die
+bundesrechtlichen Abwicklungsanstalten nach Maßgabe der §§ 16a bis 16q
+umzulegen.
 
-(2) Das Nähere über die Erhebung der Umlage, insbesondere den
-Verteilungsschlüssel, den Stichtag, die Mindestveranlagung, das
-Umlageverfahren einschließlich eines geeigneten Schätzverfahrens bei
-nicht zweifelsfreier Datenlage, die Ausschlussfristen für die Vorlage
-von Nachweisen, Zahlungsfristen, die Höhe der Säumniszuschläge, die
-Festsetzung von Vorauszahlungen, die Verjährung und die Beitreibung
-bestimmt das Bundesministerium durch Rechtsverordnung ohne Zustimmung
-des Bundesrates. Die in den §§ 5, 6, 8 und 13 der Verordnung über die
-Erhebung von Gebühren und die Umlegung von Kosten nach dem
-Finanzdienstleistungsaufsichtsgesetz vom 29. April 2002 (BGBl. I S.
-1504, 1847), die zuletzt durch Artikel 5 des Gesetzes vom 1. März 2011
-(BGBl. I S. 288) geändert worden sind, enthaltenen Regelungen gelten
-mit Wirkung vom 1. Mai 2002 mit Gesetzeskraft. Die Rechtsverordnung
-kann auch Regelungen zur näheren Bestimmung der Kosten und über die
-vorläufige Festsetzung des Umlagebetrages vorsehen. Das
-Bundesministerium kann die Ermächtigung durch Rechtsverordnung auf die
-Bundesanstalt übertragen.
 
-(3) Einnahmen aus rechtskräftig festgesetzten Zwangsgeldern, aus
-Erstattungen für Aufwendungen in Zusammenhang mit Geldstrafen,
-Geldbußen und Gerichtskosten, aus Veröffentlichungen, vermischte
-Einnahmen sowie Zinsen aus der Anlage überschüssiger Liquidität, die
-bei der Umlageerhebung für die Jahre 2002 und 2003 nicht
-berücksichtigt wurden, sind von den Kosten des Umlagejahres 2007
+### § 16a Umlagefähige Kosten; Umlagejahr
+
+(1) Die Bundesanstalt hat als Kosten im Sinne des § 16 die Ausgaben
+eines Haushaltsjahres zu ermitteln. Zu den Kosten gehören auch die
+Zuführungen zu einer Investitionsrücklage gemäß § 12 Absatz 4 Satz 2
+und die Zuführungen zu der Pensionsrücklage nach § 19 Absatz 2.
+
+(2) Von diesen Kosten sind diejenigen Kosten umlagefähig, die nach
+Abzug der Einnahmen und Berücksichtigung der Fehlbeträge, nicht
+eingegangenen Beträge und Überschüsse der Vorjahre verbleiben. Zu den
+Einnahmen gehören auch Entnahmen aus der Pensionsrücklage sowie
+Entnahmen aus einer Investitionsrücklage. Bußgelder bleiben
+unberücksichtigt.
+
+(3) Das Haushaltsjahr ist das Umlagejahr im Sinne dieses Gesetzes.
+
+
+### § 16b Kostenermittlung nach Aufsichtsbereichen und Gruppen
+
+(1) Die Kosten sind für die folgenden Aufsichtsbereiche, die jeweils
+nach den maßgeblichen Aufsichtsgesetzen in die Zuständigkeit der
+Bundesanstalt fallen, getrennt zu ermitteln:
+
+1.  Kredit-, Finanzdienstleistungs-, Zahlungsdienste-, inländisches
+    Investment- und Wagniskapitalbeteiligungswesen (Aufsichtsbereich
+    Banken und sonstige Finanzdienstleistungen),
+
+
+2.  Versicherungswesen (Aufsichtsbereich Versicherungen) und
+
+
+3.  Wertpapierhandel (Aufsichtsbereich Wertpapierhandel).
+
+
+
+Innerhalb des Aufsichtsbereichs Banken und sonstige
+Finanzdienstleistungen sowie des Aufsichtsbereichs Wertpapierhandel
+hat eine gesonderte Ermittlung nach Gruppen gemäß den §§ 16e und 16i
+zu erfolgen.
+
+(2) Kosten, die zwei Aufsichtsbereichen nach Absatz 1 Satz 1 gemeinsam
+zugerechnet werden können, sind jeweils gesondert zu erfassen. Sie
+sind auf die betroffenen Aufsichtsbereiche entsprechend dem Verhältnis
+aufzuteilen, das zwischen den Kosten besteht, die den
+Aufsichtsbereichen unmittelbar zuzurechnen sind. Die so ermittelten
+Kostenanteile sind jeweils den Kosten hinzuzurechnen, die auf die
+Aufsichtsbereiche unmittelbar entfallen.
+
+(3) Die übrigen Kosten, die weder einem Aufsichtsbereich nach Absatz 1
+Satz 1 unmittelbar noch nach Absatz 2 zwei Aufsichtsbereichen
+gemeinsam zugeordnet werden können (Gemeinkosten), sind ebenfalls
+gesondert zu erfassen. Sie sind auf alle Aufsichtsbereiche
+entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten
+besteht, die den Aufsichtsbereichen nach Durchführung der in Absatz 2
+vorgegebenen Verteilung zuzurechnen sind.
+
+(4) Die Einnahmen im Sinne des § 16 sind von den Kosten des
+Aufsichtsbereichs abzusetzen, dem sie jeweils unmittelbar zuzurechnen
+sind. Einnahmen, die zwei Aufsichtsbereichen gemeinsam zugerechnet
+werden können, sind entsprechend dem Verhältnis der Kosten, die den
+Aufsichtsbereichen unmittelbar zuzurechnen sind, abzuziehen.
+Einnahmen, die keinem Aufsichtsbereich unmittelbar zugerechnet werden
+können, sind vor Verteilung der Gemeinkosten nach Absatz 3 von diesen
 abzuziehen.
 
-(4) Absatz 1 in der ab dem 26. März 2009 geltenden Fassung ist
-anzuwenden auf Fehlbeträge, nicht eingegangene Beträge und
-Überschüsse, die dem Umlagejahr 2009 und späteren Umlagejahren
-zuzuordnen sind. Fehlbeträge und nicht eingegangene Beträge, die den
-Jahren 2002 bis 2008 zuzuordnen sind und nicht nach Absatz 1 in der
-bis zum 25. März 2009 geltenden Fassung umgelegt wurden oder werden,
-sind mit Überschüssen, die den Jahren 2002 bis 2008 zuzuordnen sind
-und nicht nach § 6 Abs. 1 Satz 6 der Verordnung über die Erhebung von
-Gebühren und die Umlegung von Kosten nach dem
+
+### § 16c Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
+
+(1) Nach Ermittlung und Verteilung der Kosten für das Umlagejahr nach
+Maßgabe des § 16b sind die zu berücksichtigenden Fehlbeträge, nicht
+eingegangenen Beträge und Überschüsse, die dem Umlagejahr 2009 und
+späteren Umlagejahren zuzuordnen sind, den Aufsichtsbereichen
+zuzuordnen. Den Kosten der Aufsichtsbereiche sind die Fehlbeträge und
+nicht eingegangenen Beträge jeweils entsprechend ihrer Zuordnung nach
+Satz 1 hinzuzurechnen; Überschüsse sind jeweils entsprechend ihrer
+Zuordnung nach Satz 1 von diesen Kosten abzuziehen. Stichtag für die
+Berücksichtigung der in den Sätzen 1 und 2 genannten Beträge und
+Überschüsse ist der 30. Juni des Jahres, das dem Umlagejahr folgt, für
+das die Kosten ermittelt wurden. Nach diesem Stichtag anfallende
+Fehlbeträge, nicht eingegangene Beträge und Überschüsse werden als
+Fehlbeträge, nicht eingegangene Beträge und Überschüsse bei der
+Festsetzung der Umlagebeträge in den nächstfolgenden Jahren
+berücksichtigt.
+
+(2) Fehlbeträge und nicht eingegangene Beträge, die den Umlagejahren
+2002 bis 2008 zuzuordnen sind und nicht nach § 16 Absatz 1 in der bis
+zum 25. März 2009 geltenden Fassung umgelegt wurden oder werden, sind
+mit den Überschüssen, die den Umlagejahren 2002 bis 2008 zuzuordnen
+sind und nicht nach § 6 Absatz 1 Satz 6 der Verordnung über die
+Erhebung von Gebühren und die Umlegung von Kosten nach dem
 Finanzdienstleistungsaufsichtsgesetz in der bis zum 25. März 2009
 geltenden Fassung umgelegt wurden oder werden, zu verrechnen.
-Übersteigen die nach Satz 2 zu verrechnenden Überschüsse die zu
+Übersteigen die nach Satz 1 zu verrechnenden Überschüsse die zu
 verrechnenden Fehlbeträge und nicht eingegangenen Beträge, ist der
 übersteigende Betrag bei der Festsetzung der Umlage für das Umlagejahr
 2009 oder für spätere Umlagejahre vor Verteilung der Gemeinkosten von
-diesen abzuziehen.
+diesen abzuziehen. Übersteigen die nach Satz 1 zu verrechnenden
+Fehlbeträge und nicht eingegangenen Beträge die zu verrechnenden
+Überschüsse, ist der übersteigende Betrag bei der Festsetzung der
+Umlage für das Umlagejahr 2013 oder für spätere Umlagejahre vor
+Verteilung der Gemeinkosten zu diesen hinzuzurechnen.
+
+
+### § 16d Umlagebetrag, Umlagepflicht und Verteilungsschlüssel
+
+Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb
+eines Aufsichtsbereichs oder einer Gruppe für einen Umlagepflichtigen
+ermittelt wird. Ein Umlagepflichtiger kann mehreren Aufsichtsbereichen
+oder Gruppen innerhalb eines Aufsichtsbereichs zugeordnet sein. Die
+Umlagepflicht und die Verteilung der Kosten innerhalb eines
+Aufsichtsbereichs bestimmen sich nach Maßgabe der §§ 16e bis 16j.
+
+
+### § 16e Kostenermittlung und Umlagepflicht im Aufsichtsbereich Banken und sonstige Finanzdienstleistungen
+
+(1) Innerhalb des Aufsichtsbereichs Banken und sonstige
+Finanzdienstleistungen hat eine gesonderte Ermittlung der Kosten nach
+folgenden Gruppen zu erfolgen:
+
+1.  Gruppe Kredit- und Finanzdienstleistungsinstitute: Kreditinstitute,
+    Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a
+    Satz 2 Nummer 1 bis 5, 7, 9 bis 11 des Kreditwesengesetzes und die
+    nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen,
+    soweit die Finanzdienstleistungsinstitute und Unternehmen nicht
+    ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer
+    9 oder 10 des Kreditwesengesetzes erbringen, sowie Institute im Sinne
+    des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes und die nach §
+    27 des Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen, wobei
+
+    a)  Kreditinstitute und entsprechend nach § 53 des Kreditwesengesetzes
+        tätige Unternehmen, die Bankgeschäfte betreiben und gleichzeitig das E
+        -Geld-Geschäft betreiben oder Zahlungsdienste erbringen,
+        ausschließlich als Kreditinstitute und
+
+
+    b)  Finanzdienstleistungsinstitute und entsprechend nach § 53 des
+        Kreditwesengesetzes tätige Unternehmen, die Finanzdienstleistungen
+        erbringen und gleichzeitig das E-Geld-Geschäft betreiben oder
+        Zahlungsdienste erbringen, ausschließlich als
+        Finanzdienstleistungsinstitute
+
+
+
+    im Sinne der nachfolgenden Vorschriften gelten,
+
+
+2.  Gruppe Factoring- und Finanzierungsleasingunternehmen:
+    Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a
+    Satz 2 Nummer 9 oder 10 des Kreditwesengesetzes sowie die nach § 53
+    Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, soweit
+    sie nicht unter Nummer 1 fallen,
+
+
+3.  Gruppe bundesrechtliche Abwicklungsanstalten: Abwicklungsanstalten im
+    Sinne des § 8a Absatz 1 Satz 1 des
+    Finanzmarktstabilisierungsfondsgesetzes,
+
+
+4.  Gruppe Kapitalanlage- und Investmentaktiengesellschaften:
+    Kapitalanlagegesellschaften im Sinne des § 2 Absatz 6 des
+    Investmentgesetzes und Investmentaktiengesellschaften im Sinne des § 2
+    Absatz 5 des Investmentgesetzes sowie
+
+
+5.  Gruppe Wagniskapitalbeteiligungsgesellschaften:
+    Wagniskapitalbeteiligungsgesellschaften im Sinne des § 2 Absatz 1 des
+    Wagniskapitalbeteiligungsgesetzes.
+
+
+
+Die Kosten des Aufsichtsbereichs Banken und sonstige
+Finanzdienstleistungen, die keiner Gruppe nach Satz 1 unmittelbar
+zugeordnet werden können, sind gesondert zu erfassen. Sie sind auf die
+Gruppen entsprechend dem Verhältnis aufzuteilen, das zwischen den
+Kosten besteht, die den Gruppen unmittelbar zuzurechnen sind. Im
+Übrigen sind § 16b Absatz 4 Satz 1 und 3 sowie § 16c entsprechend
+anzuwenden.
+
+(2) Umlagepflichtig für den Aufsichtsbereich Banken und sonstige
+Finanzdienstleistungen ist vorbehaltlich des Absatzes 3, wer einer der
+in Absatz 1 genannten Gruppen angehört.
+
+(3) Ausgenommen von der Umlagepflicht nach Absatz 2 sind
+
+1.  vorbehaltlich des § 2 Absatz 3 des Kreditwesengesetzes die nach § 2
+    Absatz 1 Nummer 1 bis 3a, 4 bis 6 und 7 bis 9 des Kreditwesengesetzes
+    nicht als Kreditinstitute geltenden Einrichtungen und Unternehmen,
+
+
+2.  vorbehaltlich des § 2 Absatz 6 Satz 2 des Kreditwesengesetzes die nach
+    § 2 Absatz 6 Satz 1 Nummer 1 bis 5, 5b bis 18 und Absatz 10 des
+    Kreditwesengesetzes nicht als Finanzdienstleistungsinstitute geltenden
+    Einrichtungen und Unternehmen,
+
+
+3.  Institute oder Unternehmen, welche die Bundesanstalt nach § 2 Absatz 4
+    des Kreditwesengesetzes freigestellt hat.
+
+
+
+
+(4) Die Umlagepflicht nach Absatz 2 entsteht mit Erteilung oder der
+Fiktion der Erlaubnis oder im Fall einer Abwicklungsanstalt mit deren
+Errichtung. Sie endet in dem Jahr des Erlöschens der Erlaubnis oder
+der Auflösung der Abwicklungsanstalt. Ändert sich im Laufe eines
+Umlagejahres der Erlaubnisumfang oder wird von der Bundesanstalt eine
+Erlaubnis zum Betreiben eines anderen Geschäfts erteilt, wird der
+Umlagepflichtige nach Maßgabe der Regelungen zur Umlage herangezogen,
+die für das Geschäft gelten, auf das sich die zuletzt im Umlagejahr
+bestehende Erlaubnis bezieht.
+
+
+### § 16f Bemessungsgrundlagen der Umlage im Aufsichtsbereich Banken und sonstige Finanzdienstleistungen
+
+(1) Der Umlagebetrag für die Umlagepflichtigen im Aufsichtsbereich
+Banken und sonstige Finanzdienstleistungen ist zu bemessen:
+
+1.  in den Gruppen Kredit- und Finanzdienstleistungsinstitute, Factoring-
+    und Finanzierungsleasingunternehmen sowie bundesrechtliche
+    Abwicklungsanstalten vorbehaltlich des Absatzes 2 und des § 16g
+    jeweils nach dem Verhältnis der Bilanzsumme des einzelnen
+    Umlagepflichtigen zum Gesamtbetrag der Bilanzsummen aller
+    Umlagepflichtigen der Gruppe. Maßgebend ist die auf der Grundlage der
+    jeweils anzuwendenden Rechnungslegungsvorschriften aufgestellte und
+    festgestellte Bilanz für das Geschäftsjahr, das dem Umlagejahr
+    vorausgeht; bei den bundesrechtlichen Abwicklungsanstalten ist die
+    Bilanz für das im Umlagejahr endende Geschäftsjahr maßgebend;
+
+
+2.  in der Gruppe Kapitalanlage- und Investmentaktiengesellschaften nach
+    dem Wert der von den Kapitalanlagegesellschaften verwalteten
+    Sondervermögen und der von den Investmentaktiengesellschaften zur
+    gemeinschaftlichen Kapitalanlage verwalteten und angelegten Mittel.
+    Dabei ist die Summe der Werte aller von einem Umlagepflichtigen
+    verwalteten Sondervermögen oder zur gemeinschaftlichen Kapitalanlage
+    verwalteten oder angelegten Mittel in das Verhältnis zu dem
+    Gesamtbetrag des Wertes zu setzen, den die Sondervermögen und zur
+    gemeinschaftlichen Kapitalanlage verwalteten oder angelegten Mittel
+    aller Umlagepflichtigen haben. Maßgebend ist jeweils der Wert, der
+    nach § 44 Absatz 1 Satz 3 Nummer 1 Satz 6 oder § 99 Absatz 3 in
+    Verbindung mit § 44 Absatz 1 Satz 3 Nummer 1 Satz 6 des
+    Investmentgesetzes in dem Jahresbericht für das Geschäftsjahr
+    angegeben wird, das dem Umlagejahr vorausgeht. Sondervermögen, die
+    keine Spezial-Sondervermögen im Sinne des § 2 Absatz 3 Satz 1 des
+    Investmentgesetzes sind, oder Mittel von
+    Investmentaktiengesellschaften, die keine Spezial-
+    Investmentaktiengesellschaften im Sinne des § 2 Absatz 5 Satz 2 des
+    Investmentgesetzes sind, werden bei der Berechnung nach Satz 2 doppelt
+    gewichtet;
+
+
+3.  in der Gruppe Wagniskapitalbeteiligungsgesellschaften nach dem
+    Verhältnis des Wertes des vom einzelnen Umlagepflichtigen verwalteten
+    Vermögens zum Gesamtwert der verwalteten Vermögen aller
+    Umlagepflichtigen der Gruppe zum Ende des Geschäftsjahres, das dem
+    Umlagejahr vorausgeht.
+
+
+
+
+(2) Abweichend von Absatz 1 Nummer 1 gilt als Bilanzsumme:
+
+1.  für Umlagepflichtige der Gruppe Kredit- und
+    Finanzdienstleistungsinstitute,
+
+    a)  die in ihrer Bilanz auf der Aktivseite zu mehr als einem Fünftel
+        Treuhandgeschäfte im Sinne des § 6 Absatz 1 und 2 der Kreditinstituts-
+        Rechnungslegungsverordnung ausweisen, die um die Beträge dieser
+        Geschäfte gekürzte Bilanzsumme,
+
+
+    b)  deren erlaubnispflichtige Tätigkeit sich nach § 2 Absatz 3 oder Absatz
+        6 Satz 2 des Kreditwesengesetzes beurteilt, der dem Verhältnis der von
+        ihnen betriebenen, ihnen nicht eigentümlichen Bankgeschäfte oder
+        Finanzdienstleistungen zum Gesamtgeschäft entsprechende Bruchteil der
+        Bilanzsumme,
+
+
+    c)  die zu mehr als einem Fünftel bank-, finanz- oder zahlungsdienstfremde
+        Geschäfte betreiben, der dem Verhältnis der erlaubnispflichtigen
+        Geschäfte oder Finanzdienstleistungen zum Gesamtgeschäft entsprechende
+        Bruchteil der Bilanzsumme,
+
+
+    d)  die in der Rechtsform des Einzelkaufmanns tätig sind, die um ein
+        fiktives Geschäftsführergehalt, das auf die Höhe des
+        Jahresüberschusses und die Höhe der Bilanzsumme begrenzt ist,
+        verminderte Bilanzsumme,
+
+
+
+
+
+2.  für Umlagepflichtige der Gruppen Kredit- und
+    Finanzdienstleistungsinstitute sowie Factoring- und
+    Finanzierungsleasingunternehmen, die ihre Geschäftstätigkeit im
+    Umlagejahr erst aufnehmen, die in der Planbilanz für das erste
+    Geschäftsjahr gemäß § 32 Absatz 1 Satz 2 Nummer 5 und Satz 3 des
+    Kreditwesengesetzes in Verbindung mit § 14 Absatz 7 Nummer 1 der
+    Anzeigenverordnung oder nach § 8 Absatz 3 Nummer 2 des
+    Zahlungsdiensteaufsichtsgesetzes ausgewiesene Bilanzsumme,
+
+
+3.  für Umlagepflichtige der Gruppen Kredit- und
+    Finanzdienstleistungsinstitute, Factoring- und
+    Finanzierungsleasingunternehmen sowie bundesrechtliche
+    Abwicklungsanstalten, die nicht das ganze Jahr umlagepflichtig waren,
+    ein Bruchteil der nach Absatz 1 Nummer 1, auch in Verbindung mit den
+    Nummern 1 und 2 dieses Satzes ermittelten Bilanzsumme, wobei der
+    Bruchteil dem Verhältnis der Anzahl der angefangenen Monate, in denen
+    die Umlagepflicht bestand, zur Anzahl der Monate des Umlagejahres
+    entspricht.
+
+
+
+Die abweichenden Bilanzsummen nach Satz 1 Nummer 1 sind von der
+Bundesanstalt nur zu berücksichtigten, wenn der Umlagepflichtige dies
+vor dem 1. Juni des auf das Umlagejahr folgenden Kalenderjahres
+beantragt und das Vorliegen der Voraussetzungen durch Vorlage
+geeigneter Unterlagen nachgewiesen hat; Tatsachen, die verspätet
+vorgetragen oder nachgewiesen werden, bleiben unberücksichtigt. Die
+Höhe des fiktiven Geschäftsführergehalts im Sinne des Satzes 1 Nummer
+1 Buchstabe d ist durch eine Bescheinigung eines Wirtschaftsprüfers,
+eines vereidigten Buchprüfers oder einer Buchprüfungsgesellschaft zu
+belegen.
+
+(3) Für Umlagepflichtige der Gruppen Kapitalanlage- und
+Investmentaktiengesellschaften sowie
+Wagniskapitalbeteiligungsgesellschaften, die nicht das ganze Jahr
+umlagepflichtig waren, ist abweichend von Absatz 1 Nummer 2 oder
+Nummer 3 der Bruchteil der jeweiligen Bemessungsgrundlage maßgeblich,
+der dem Verhältnis der Anzahl der angefangenen Monate, in denen die
+Umlagepflicht bestand, zur Anzahl der Monate des Umlagejahres
+entspricht.
+
+(4) In den Gruppen Kredit- und Finanzdienstleistungsinstitute,
+Factoring- und Finanzierungsleasingunternehmen sowie bundesrechtliche
+Abwicklungsanstalten haben die Umlagepflichtigen bis spätestens zum
+30\. Juni des dem Umlagejahr folgenden Kalenderjahres die für die
+Bemessung des Umlagebetrages notwendigen, von einem Wirtschaftsprüfer
+oder einer Wirtschaftsprüfungsgesellschaft bestätigten Daten
+mitzuteilen, sofern bis zu diesem Zeitpunkt noch keine festgestellte
+und geprüfte Bilanz für das letzte Geschäftsjahr bei der Bundesanstalt
+eingereicht worden ist oder die eingereichte Bilanz nicht den
+Anforderungen der §§ 340 bis 340k des Handelsgesetzbuchs und der
+Kreditinstituts-Rechnungslegungsverordnung genügt. Bei
+Finanzdienstleistungsinstituten, deren Bilanzsumme des letzten
+Geschäftsjahres 150 Millionen Euro nicht übersteigt, können die
+Bestätigungen nach Satz 1 auch durch vereidigte Buchprüfer oder
+Buchprüfungsgesellschaften vorgenommen werden.
+
+(5) Liegen die Bilanz oder die Daten nach Absatz 4 am 1. Juli nicht
+vor, schätzt die Bundesanstalt die Bilanzsumme und setzt den
+Umlagebetrag anhand der geschätzten Daten fest. Die Bundesanstalt kann
+auf Antrag eine angemessene Nachfrist von bis zu einem Monat zur
+Einreichung der in Absatz 4 genannten Unterlagen gewähren. Bei der
+Schätzung hat die Bundesanstalt im Regelfall die Bilanzdaten des
+Umlagepflichtigen aus vorangegangenen Geschäftsjahren zugrunde zu
+legen. Liegen keinerlei Daten im Sinne des Satzes 3 und auch keine
+entsprechenden Daten für die nachfolgenden Geschäftsjahre vor, hat die
+Schätzung auf der Grundlage des arithmetischen Mittels der
+vorliegenden Bilanzdaten der anderen Umlagepflichtigen derselben nach
+§ 16g Absatz 1 Nummer 1 Buchstabe a bis d oder Nummer 2 bestimmten
+Gruppe zu erfolgen.
+
+
+### § 16g Mindestumlagebeträge im Aufsichtsbereich Banken und sonstige Finanzdienstleistungen
+
+(1) Der von jedem Umlagepflichtigen des Aufsichtsbereichs Banken und
+sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
+
+1.  in der Gruppe Kredit- und Finanzdienstleistungsinstitute mindestens
+
+    a)  4 000 Euro für Kreditinstitute mit Ausnahme der
+        Wertpapierhandelsbanken, bei einer nach § 16f ermittelten Bilanzsumme
+        von 100 Millionen Euro oder weniger jedoch nur 3 500 Euro und für
+        Wohnungsunternehmen mit Spareinrichtung nur 2 500 Euro,
+
+
+    b)  3 500 Euro für Wertpapierhandelsbanken und für
+        Finanzdienstleistungsinstitute mit einer Erlaubnis
+
+        aa) nach § 1 Absatz 1a Satz 2 Nummer 1, 1c, 2, 3 oder 11 des
+            Kreditwesengesetzes, wenn die Erlaubnis in diesen Fällen die Befugnis
+            umfasst, sich Eigentum oder Besitz an Geldern oder Wertpapieren von
+            Kunden zu verschaffen,
+
+
+        bb) nach § 1 Absatz 1a Satz 2 Nummer 1b oder 4 des Kreditwesengesetzes
+            oder
+
+
+        cc) nach § 1 Absatz 1a Satz 2 Nummer 11 des Kreditwesengesetzes, wenn die
+            Erlaubnis in diesen Fällen die Befugnis umfasst, auf eigene Rechnung
+            zu handeln,
+
+
+
+
+
+    c)  2 500 Euro für Finanzdienstleistungsinstitute mit einer Erlaubnis
+
+        aa) nach § 1 Absatz 1a Satz 2 Nummer 1, 1c, 2, 3 oder 11 des
+            Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst,
+            sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu
+            verschaffen, oder
+
+
+        bb) nach § 1 Absatz 1a Satz 2 Nummer 1a des Kreditwesengesetzes,
+
+
+
+
+
+    d)  1 300 Euro für Finanzdienstleistungsinstitute mit einer Erlaubnis nach
+        § 1 Absatz 1a Satz 2 Nummer 5 oder 7 des Kreditwesengesetzes und für
+        Institute im Sinne des § 1 Absatz 2a des
+        Zahlungsdiensteaufsichtsgesetzes,
+
+
+    e)  die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort
+        genannten Unternehmen, soweit deren Bilanzsumme den Betrag von 100 000
+        Euro unterschreitet,
+
+
+
+
+
+2.  in der Gruppe Factoring- und Finanzierungsleasingunternehmen
+    mindestens 1 300 Euro,
+
+
+3.  in der Gruppe Kapitalanlage- und Investmentaktiengesellschaften
+    mindestens 7 500 Euro und
+
+
+4.  in der Gruppe Wagniskapitalbeteiligungsgesellschaften mindestens 1 300
+    Euro.
+
+
+
+
+(2) Die Mindestumlagebeträge nach Absatz 1 Nummer 1 Buchstabe b bis d
+erhöhen sich
+
+1.  ab einer Bilanzsumme von 750 000 Euro auf 4 500 Euro,
+
+
+2.  ab einer Bilanzsumme von 1 Million Euro auf 5 150 Euro,
+
+
+3.  ab einer Bilanzsumme von 1,5 Millionen Euro auf 5 800 Euro,
+
+
+4.  ab einer Bilanzsumme von 2 Millionen Euro auf 8 500 Euro,
+
+
+5.  ab einer Bilanzsumme von 3 Millionen Euro auf 10 500 Euro,
+
+
+6.  ab einer Bilanzsumme von 5 Millionen Euro auf 14 500 Euro,
+
+
+7.  ab einer Bilanzsumme von 7,5 Millionen Euro auf 19 500 Euro,
+
+
+8.  ab einer Bilanzsumme von 12,5 Millionen Euro auf 27 000 Euro,
+
+
+9.  ab einer Bilanzsumme von 20 Millionen Euro auf 36 000 Euro,
+
+
+10. ab einer Bilanzsumme von 30 Millionen Euro auf 44 000 Euro,
+
+
+11. ab einer Bilanzsumme von 50 Millionen Euro auf 54 000 Euro,
+
+
+12. ab einer Bilanzsumme von 100 Millionen Euro auf 100 000 Euro.
+
+
+
+
+
+### § 16h Aufsichtsbereich Versicherungen
+
+(1) Umlagepflichtig im Aufsichtsbereich Versicherungen ist die
+Gesamtheit der inländischen Versicherungsunternehmen und Pensionsfonds
+sowie der inländischen Niederlassungen ausländischer
+Versicherungsunternehmen und Pensionsfonds, welche ihren Sitz
+außerhalb der Mitgliedstaaten der Europäischen Union oder eines
+anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum haben. § 16e Absatz 4 Satz 1 und 2 gilt entsprechend.
+
+(2) Der Umlagebetrag bemisst sich vorbehaltlich des Satzes 2 nach dem
+Verhältnis der verdienten Brutto-Beitragseinnahmen des einzelnen
+Umlagepflichtigen zum Gesamtbetrag der Brutto-Beitragseinnahmen, die
+allen Umlagepflichtigen des Aufsichtsbereichs Versicherungen in dem
+Geschäftsjahr erwachsen sind, das dem Umlagejahr vorausgeht. Von den
+Brutto-Beitragseinnahmen sind die an die Versicherungsnehmer
+zurückgewährten Überschüsse oder Gewinnanteile in voller Höhe und die
+Provisionsaufwendungen aus der aktiven Rückversicherung zu 50 Prozent
+abzuziehen. Für Pensionsfonds gilt dies entsprechend bezogen auf die
+Pensionsfondsbeiträge und die Versorgungsberechtigten.
+
+(3) Für Umlagepflichtige, die nicht das ganze Jahr umlagepflichtig
+waren, ist abweichend von Absatz 2 der Bruchteil der
+Bemessungsgrundlage maßgeblich, der dem Verhältnis der Anzahl der
+angefangenen Monate, in denen die Umlagepflicht bestand, zur Anzahl
+der Monate des Umlagejahres entspricht.
+
+(4) Der von jedem Umlagepflichtigen des Aufsichtsbereichs
+Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 250
+Euro.
+
+
+### § 16i Kostenermittlung und Umlagepflicht im Aufsichtsbereich Wertpapierhandel
+
+(1) Innerhalb des Aufsichtsbereichs Wertpapierhandel hat eine
+gesonderte Ermittlung der Kosten nach folgenden Gruppen zu erfolgen:
+
+1.  Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter:
+    Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 4 des
+    Wertpapierhandelsgesetzes und Institute und Unternehmen, auf die § 2
+    Absatz 3 Satz 3 des Wertpapierhandelsgesetzes anzuwenden ist, sowie
+
+
+2.  Gruppe Emittenten: Emittenten mit Sitz im Inland, deren Wertpapiere an
+    einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr
+    einbezogen sind.
+
+
+
+Die Kosten des Aufsichtsbereichs Wertpapierhandel, die einer Gruppe
+nach Satz 1 nicht unmittelbar zugeordnet werden können, sind gesondert
+zu erfassen. Sie sind auf die Gruppen entsprechend dem Verhältnis
+aufzuteilen, das zwischen den Kosten besteht, die den Gruppen
+unmittelbar zuzurechnen sind. § 16b Absatz 4 Satz 1 und 3 ist
+entsprechend anzuwenden. § 16c ist mit der Maßgabe entsprechend
+anzuwenden, dass Fehlbeträge, nicht eingegangene Beträge und
+Überschüsse erst nach der Aufteilung der Kosten nach Satz 1
+gruppenbezogen zu berücksichtigen sind.
+
+(2) Umlagepflichtig für den Aufsichtsbereich Wertpapierhandel ist, wer
+den in Absatz 1 genannten Gruppen angehört. Die Umlagepflicht in der
+Gruppe der Wertpapierdienstleistungsunternehmen und Anlageverwalter
+besteht mit Erteilung oder Fiktion der Erlaubnis zum Erbringen einer
+oder mehrerer Wertpapierdienstleistungen oder mit Erteilung der
+Erlaubnis zur Erbringung der Dienstleistung Anlageverwaltung. Sie
+endet in dem Jahr des Erlöschens der Erlaubnis. Die Umlagepflicht
+besteht auch dann, wenn die Voraussetzungen nicht das ganze Jahr
+vorliegen. Die Umlagepflicht in der Gruppe der Emittenten erstreckt
+sich auf die Umlagejahre, in denen ein Emittent die in Absatz 1 Satz 1
+Nummer 2 genannten Voraussetzungen erfüllt.
+
+(3) Fehlbeträge, nicht eingegangene Beträge und Überschüsse der
+Umlageabrechnungen für die Jahre 2009 bis 2012 in den in § 6 Absatz 2
+Satz 1 Nummer 3 Buchstabe a bis c der Verordnung über die Erhebung von
+Gebühren und die Umlegung von Kosten nach dem
+Finanzdienstleistungsaufsichtsgesetz in der bis zum 31. Dezember 2012
+geltenden Fassung genannten Gruppen des Aufsichtsbereichs
+Wertpapierhandel gelten ab der Abrechnung für das Umlagejahr 2013 als
+Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Gruppe
+Wertpapierdienstleistungsunternehmen und Anlageverwalter.
+
+
+### § 16j Bemessungsgrundlagen der Umlage im Aufsichtsbereich Wertpapierhandel
+
+(1) Für die Umlagepflichtigen in der Gruppe
+Wertpapierdienstleistungsunternehmen und Anlageverwalter ist der
+Umlagebetrag nach dem Verhältnis der Nettoerträge des einzelnen
+Umlagepflichtigen zum Gesamtbetrag der Nettoerträge aller
+Umlagepflichtigen der Gruppe zu bemessen, wobei sich die Nettoerträge
+aus folgenden Positionen der Anlagen 1 und 4 der
+Prüfungsberichtsverordnung (SON01 und SON04) zusammensetzen:
+
+1.  bei Kreditinstituten mit Ausnahme der Wertpapierhandelsbanken aus
+
+    a)  dem Provisionsergebnis (Position 033 der Anlage SON01), wenn der
+        Betrag positiv oder null ist,
+
+
+    b)  zuzüglich des Nettoergebnisses des Handelsbestandes aus Geschäften mit
+        Wertpapieren des Handelsbestandes (Position 034 der Anlage SON01),
+        wenn der Saldo positiv ist,
+
+
+    c)  zuzüglich des Nettoergebnisses des Handelsbestandes aus Geschäften mit
+        Devisen und Edelmetallen (Position 035 der Anlage SON01), wenn der
+        Saldo positiv ist, und
+
+
+    d)  zuzüglich des Nettoergebnisses des Handelsbestandes aus Geschäften mit
+        Derivaten (Position 036 der Anlage SON01), wenn der Saldo positiv ist,
+
+
+
+
+
+2.  bei Finanzdienstleistungsinstituten, die mit Finanzinstrumenten auf
+    eigene Rechnung handeln oder die Befugnis haben, sich Eigentum oder
+    Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und bei
+    Wertpapierhandelsbanken aus
+
+    a)  dem Saldo aus den Erträgen aus Geschäften mit Wertpapieren des
+        Handelsbestandes (Position 316 der Anlage SON01) und Aufwendungen aus
+        Geschäften mit Wertpapieren des Handelsbestandes (Position 315 der
+        Anlage SON01), wenn der Saldo positiv ist,
+
+
+    b)  zuzüglich des Saldos aus Erträgen aus Geschäften mit Devisen und
+        Edelmetallen (Position 318 der Anlage SON01) und den Aufwendungen aus
+        Geschäften mit Devisen und Edelmetallen (Position 317 der Anlage
+        SON01), wenn der Saldo positiv ist,
+
+
+    c)  zuzüglich des Saldos aus Erträgen aus Geschäften mit Derivaten
+        (Position 320 der Anlage SON01) und den Aufwendungen aus Geschäften
+        mit Derivaten (Position 319 der Anlage SON01), wenn der Saldo positiv
+        ist,
+
+
+
+
+
+3.  bei allen übrigen Wertpapierdienstleistungsunternehmen, die nicht auf
+    eigene Rechnung mit Finanzinstrumenten handeln und die nicht befugt
+    sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder
+    Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, aus den
+    Provisionserträgen (Position 313 der Anlage SON04) abzüglich der
+    Provisionsaufwendungen (Position 314 der Anlage SON04).
+
+
+
+Zugrunde zu legen sind die Ertragsdaten des dem Umlagejahr
+vorausgehenden Kalenderjahres.
+
+(2) Für die Umlagepflichtigen der Gruppe
+Wertpapierdienstleistungsunternehmen und Anlageverwalter sind bei der
+Ermittlung der umlagerelevanten Ergebnisse nach Absatz 1 auf Antrag
+von dem Provisionsergebnis abzuziehen
+
+1.  Nettoerträge aus dem Zahlungsverkehr,
+
+
+2.  Nettoerträge aus dem Außenhandelsgeschäft,
+
+
+3.  Nettoerträge aus dem Reisezahlungsmittelgeschäft,
+
+
+4.  Nettoerträge für Treuhandkredite und Verwaltungskredite,
+
+
+5.  Nettoerträge aus der Vermittlung von Kredit-, Spar-, Bauspar- und
+    Versicherungsverträgen,
+
+
+6.  Nettoerträge aus der Kreditbearbeitung und dem Avalgeschäft,
+
+
+7.  Nettoerträge aus von ausländischen Tochterunternehmen für
+    Einlagengeschäfte erhaltenen Vergütungen,
+
+
+8.  Nettoerträge aus Nachlassbearbeitungen,
+
+
+9.  Nettoerträge für Electronic Banking Services,
+
+
+10. Nettoerträge aus Gutachtertätigkeiten und
+
+
+11. Nettoerträge aus sonstigen Bearbeitungsentgelten.
+
+
+
+Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu
+berücksichtigen, wenn sie in der Summe mehr als ein Fünftel des
+gesamten Provisionsergebnisses betragen und der Umlagepflichtige die
+Nichtberücksichtigung vor dem 1. Februar des auf das Umlagejahr
+folgenden Kalenderjahres beantragt sowie das Vorliegen der
+Voraussetzungen durch Vorlage geeigneter Unterlagen nachgewiesen hat;
+Tatsachen, die verspätet vorgetragen oder nachgewiesen werden, bleiben
+unberücksichtigt. Die Beträge der Abzugsposten sind durch eine
+Bestätigung eines Wirtschaftsprüfers, eines vereidigten Buchprüfers
+oder einer Buchprüfungsgesellschaft nachzuweisen.
+
+(3) Für Umlagepflichtige der Gruppe
+Wertpapierdienstleistungsunternehmen und Anlageverwalter, die nicht
+das ganze Jahr umlagepflichtig waren, ist abweichend von den Absätzen
+1 und 2 der Bruchteil der ermittelten Erträge maßgeblich, der dem
+Verhältnis der Anzahl der angefangenen Monate, in denen die
+Umlagepflicht bestand, zur Anzahl der Monate des Umlagejahres
+entspricht.
+
+(4) In der Gruppe Wertpapierdienstleistungsunternehmen und
+Anlageverwalter haben die Unternehmen bis spätestens zum 30. Juni des
+dem Umlagejahr folgenden Kalenderjahres die für die Bemessung des
+Umlagebetrages notwendigen, von einem Wirtschaftsprüfer oder einer
+Wirtschaftsprüfungsgesellschaft bestätigten Daten mitzuteilen, sofern
+bis zu diesem Zeitpunkt noch kein Prüfungsbericht über den
+Jahresabschluss für das letzte Geschäftsjahr bei der Bundesanstalt
+eingereicht worden ist. Bei Finanzdienstleistungsinstituten, deren
+Bilanzsumme des letzten Geschäftsjahres 150 Millionen Euro nicht
+übersteigt, können die Bestätigungen nach Satz 1 auch durch vereidigte
+Buchprüfer oder Buchprüfungsgesellschaften vorgenommen werden. Liegen
+die Daten nach Satz 1 am 1. Juli nicht vor, schätzt die Bundesanstalt
+die Erträge und setzt den Umlagebetrag anhand der geschätzten Daten
+fest. Die Bundesanstalt kann auf Antrag eine angemessene Nachfrist von
+bis zu einem Monat zur Einreichung der in Satz 1 genannten Daten
+gewähren. Bei der Schätzung hat die Bundesanstalt im Regelfall
+Ertragsdaten des Umlagepflichtigen aus vorangegangenen Geschäftsjahren
+zugrunde zu legen. Liegen keinerlei Daten im Sinne des Satzes 5 und
+auch keine entsprechenden Daten für die nachfolgenden Geschäftsjahre
+vor, sind die Daten von Unternehmen der Umlagegruppe mit
+vergleichbarer Größe entsprechend heranzuziehen. Bei Unternehmen,
+denen im Umlagejahr erstmals die Erlaubnis erteilt wurde oder die ihre
+erste erlaubnispflichtige Geschäftstätigkeit aufgenommen haben,
+entspricht der Umlagebetrag dem Mindestumlagebetrag nach Absatz 6.
+
+(5) Für Umlagepflichtige der Gruppe Emittenten ist der Umlagebetrag
+nach dem Verhältnis der nach § 9 Absatz 1 des
+Wertpapierhandelsgesetzes im Umlagejahr gemeldeten Umsätze der zum
+Handel zugelassenen oder in den Freiverkehr einbezogenen Wertpapiere
+des einzelnen Umlagepflichtigen zum Gesamtbetrag der gemeldeten
+Umsätze aller Umlagepflichtigen der Gruppe zu bemessen.
+
+(6) Der von jedem Umlagepflichtigen des Aufsichtsbereichs
+Wertpapierhandel zu entrichtende Umlagebetrag beträgt in jeder Gruppe
+mindestens 250 Euro.
+
+(7) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates näher zu bestimmen,
+auf welchem Wege und in welcher Form der Antrag und die Nachweise nach
+Absatz 2 der Bundesanstalt zu übermitteln sind. Das Bundesministerium
+kann die Ermächtigung zum Erlass der Rechtsverordnung nach Satz 1 auf
+die Bundesanstalt übertragen.
+
+
+### § 16k Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit
+
+(1) Die Umlageforderung entsteht mit Ablauf des Umlagejahres, für das
+die Umlagepflicht besteht.
+
+(2) Nach Feststellung der Jahresrechnung über die Einnahmen und
+Ausgaben des jeweiligen Umlagejahres durch den Verwaltungsrat hat die
+Bundesanstalt für jeden Umlagepflichtigen den von diesem zu
+entrichtenden Umlagebetrag zu ermitteln.
+
+(3) Die Bundesanstalt hat den Umlagebetrag schriftlich oder
+elektronisch festzusetzen, sobald er nach Absatz 2 abschließend
+ermittelt worden ist. Der Umlagebetrag ist kaufmännisch auf volle Euro
+zu runden. Eine vorherige Anhörung der Umlagepflichtigen ist nicht
+erforderlich.
+
+(4) Die Umlageforderung wird mit der Bekanntgabe ihrer Festsetzung an
+den Umlagepflichtigen fällig, wenn nicht die Bundesanstalt im
+Einzelfall einen späteren Zeitpunkt bestimmt.
+
+(5) Die Bundesanstalt kann zulassen, dass ein Verband die
+Umlagebeträge der ihm angehörenden Umlagepflichtigen für diese
+Umlagepflichtigen in einer Summe entrichtet, wenn er sich hierzu in
+Schriftform gegenüber der Bundesanstalt verpflichtet hat. In diesem
+Fall werden die Festsetzungen gegenüber den verbandsangehörigen
+Umlagepflichtigen diesen über den Verband bekannt gegeben, soweit sich
+die Umlagepflichtigen damit einverstanden erklärt haben oder der
+Verband erklärt hat, zum Empfang der Festsetzungen ermächtigt zu sein.
+Eine gesonderte Bekanntgabe der Festsetzung an den einzelnen
+verbandsangehörigen Umlagepflichtigen ist insoweit entbehrlich.
+
+
+### § 16l Festsetzung und Fälligkeit von Umlagevorauszahlungen
+
+(1) Die Bundesanstalt hat eine Vorauszahlung auf den Umlagebetrag
+eines Umlagejahres festzusetzen, sobald der für dieses Umlagejahr
+festgestellte Haushaltsplan vom Bundesministerium der Finanzen
+genehmigt ist. Der Festsetzung sind die Ausgaben zugrunde zu legen,
+die in dem Haushaltsplan für dieses Umlagejahr veranschlagt sind. §
+16k Absatz 3 und 5 gilt entsprechend.
+
+(2) Vorauszahlungspflichtig ist, wer im letzten abgerechneten
+Umlagejahr umlagepflichtig war und im Jahr der Festsetzung der
+Vorauszahlung umlagepflichtig ist, es sei denn, er weist im Jahr der
+Vorauszahlungsfestsetzung vor dem 1. Dezember nach, dass er im darauf
+folgenden Jahr nicht mehr umlagepflichtig sein wird. Wird der Nachweis
+nach Satz 1 nicht fristgerecht erbracht, hat der
+Vorauszahlungspflichtige den Vorauszahlungsbetrag auch dann für das
+volle Umlagejahr zu leisten, wenn er in diesem Jahr teilweise oder
+überhaupt nicht mehr umlagepflichtig sein wird. Eine anteilige
+Ermittlung der Vorauszahlung ist ausgeschlossen.
+
+(3) Die Verteilung der voraussichtlichen Kosten, die auf die
+Vorauszahlungspflichtigen umzulegen sind, ist auf der Grundlage der
+Verhältnisse des letzten abgerechneten Umlagejahres nach Maßgabe der
+§§ 16e bis 16j zu ermitteln. Verhältnisse im Sinne des Satzes 1 sind
+die Verteilungsverhältnisse zwischen den Aufsichtsbereichen und
+Gruppen sowie die Bemessungsgrundlagen für die einzelnen
+Umlagepflichtigen.
+
+(4) Die nach Absatz 1 festgesetzte Umlagevorauszahlung wird nach der
+Bekanntgabe der Festsetzung jeweils zu gleichen Teilen am 15. Januar
+und am 15. Juli fällig, wenn nicht die Bundesanstalt im Einzelfall
+einen anderen Zeitpunkt bestimmt.
+
+(5) Soweit der Umlagebetrag die Vorauszahlung voraussichtlich
+übersteigen wird, kann die Bundesanstalt für das laufende Umlagejahr
+eine weitere Umlagevorauszahlung festsetzen. Die Vorauszahlungspflicht
+bestimmt sich nach Absatz 2. Die umzulegenden Kosten sind nach Maßgabe
+des Absatzes 3 zu verteilen. Für den nach Satz 1 festgesetzten
+Vorauszahlungsbetrag hat die Bundesanstalt den Zeitpunkt der
+Fälligkeit zu bestimmen.
+
+
+### § 16m Differenz zwischen Umlagebetrag und Vorauszahlung
+
+(1) Entsteht nach der Anrechnung des gezahlten
+Umlagevorauszahlungsbetrages auf den festgesetzten Umlagebetrag ein
+Fehlbetrag, ist dieser innerhalb eines Monats nach Bekanntgabe des
+festgesetzten Umlagebetrages zu entrichten.
+
+(2) Übersteigt der gezahlte Vorauszahlungsbetrag den festgesetzten
+Umlagebetrag oder ist die Vorauszahlung von einem endgültig nicht
+Umlagepflichtigen geleistet worden, ist die Überzahlung zu erstatten.
+
+(3) Ansprüche auf Erstattung von Überzahlungen im Sinne des Absatzes 2
+erlöschen durch Verjährung, wenn sie nicht bis zum Ablauf des fünften
+Kalenderjahres nach dem Kalenderjahr geltend gemacht werden, in dem
+die Festsetzung des Umlagebetrages oder die Aufhebung des
+Vorauszahlungsbescheides unanfechtbar geworden ist.
+
+
+### § 16n Säumniszuschläge; Beitreibung
+
+(1) Werden die Umlagebeträge und Umlagevorauszahlungsbeträge nicht bis
+zum Ablauf des Fälligkeitstages entrichtet, ist für jeden angefangenen
+Monat der Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten
+rückständigen Betrages zu entrichten. Der Säumniszuschlag wird nur
+erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die
+Säumnis länger als drei Tage beträgt. Wird die Festsetzung einer
+Umlage aufgehoben oder geändert, bleiben die bis dahin verwirkten
+Säumniszuschläge unberührt.
+
+(2) Für die Berechnung des Säumniszuschlages ist der rückständige
+Betrag auf volle 50 Euro abzurunden.
+
+(3) Ein wirksam geleisteter Umlagebetrag oder
+Umlagevorauszahlungsbetrag gilt als entrichtet
+
+1.  bei Übergabe oder Übersendung von Zahlungsmitteln am Tag des Eingangs
+    bei der für die Bundesanstalt zuständigen Kasse (Bundeskasse oder
+    Zahlstelle); bei Hingabe oder Übersendung von Schecks jedoch drei Tage
+    nach dem Tag des Eingangs des Schecks bei der zuständigen Kasse,
+
+
+2.  bei Überweisung oder Einzahlung auf ein Konto der zuständigen Kasse
+    und bei Einzahlung mit Zahlschein oder Postanweisung an dem Tag, an
+    dem der Betrag der Kasse gutgeschrieben wird, oder
+
+
+3.  bei Vorliegen einer Einzugsermächtigung am Fälligkeitstag.
+
+
+
+
+(4) In den Fällen der Gesamtschuld entstehen Säumniszuschläge
+gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein
+höherer Säumniszuschlag zu entrichten, als verwirkt worden wäre, wenn
+die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
+
+(5) Nicht fristgerecht entrichtete Umlage- und
+Umlagevorauszahlungsbeträge werden nach den Vorschriften des
+Verwaltungs-Vollstreckungsgesetzes durch die Bundesanstalt
+beigetrieben. Vollstreckungsbehörde ist das für den Sitz oder die
+Niederlassung des Vollstreckungsschuldners zuständige Hauptzollamt.
+
+
+### § 16o Festsetzungsverjährung
+
+(1) Die Festsetzung des Umlagebetrages ist nicht mehr zulässig, wenn
+die Festsetzungsfrist abgelaufen ist (Festsetzungsverjährung). Die
+Festsetzungsfrist beträgt vier Jahre; sie beginnt mit Ablauf des
+Umlagejahres.
+
+(2) Die Festsetzungsfrist läuft nicht ab, solange die Festsetzung
+wegen höherer Gewalt innerhalb der letzten sechs Monate des
+Fristablaufs nicht erfolgen kann.
+
+(3) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist erst
+sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung
+unanfechtbar geworden ist; dies gilt auch, wenn der Rechtsbehelf erst
+nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der
+Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt.
+Satz 1 gilt entsprechend für vor Ablauf der Festsetzungsfrist
+gestellte Anträge auf Aufhebung oder Änderung der Festsetzung.
+
+
+### § 16p Zahlungsverjährung
+
+(1) Der Anspruch auf Zahlung des festgesetzten Umlagebetrages verjährt
+nach fünf Jahren (Zahlungsverjährung). Die Verjährungsfrist beginnt
+mit dem Ablauf des Kalenderjahres, in dem der Anspruch erstmals fällig
+geworden ist.
+
+(2) Die Zahlungsverjährung ist gehemmt, solange der Anspruch wegen
+höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist
+nicht verfolgt werden kann.
+
+(3) Die Zahlungsverjährung wird unterbrochen durch
+
+1.  schriftliche Geltendmachung des Anspruchs,
+
+
+2.  Zahlungsaufschub,
+
+
+3.  Stundung,
+
+
+4.  Eintritt der aufschiebenden Wirkung,
+
+
+5.  Aussetzung der Vollziehung,
+
+
+6.  Sicherheitsleistung,
+
+
+7.  Vollstreckungsaufschub,
+
+
+8.  eine Vollstreckungsmaßnahme,
+
+
+9.  Anmeldung im Insolvenzverfahren,
+
+
+10. Aufnahme in einen Insolvenzplan oder gerichtlichen
+    Schuldenbereinigungsplan,
+
+
+11. Einbeziehung in ein Verfahren, das die Restschuldbefreiung für den
+    Umlageschuldner zum Ziel hat, oder
+
+
+12. Ermittlungen der Bundesanstalt nach dem Wohnsitz oder dem
+    Aufenthaltsort des Umlagepflichtigen.
+
+
+
+
+(4) Die Unterbrechung der Zahlungsverjährung durch eine der in Absatz
+3 genannten Maßnahmen dauert fort, bis
+
+1.  der Zahlungsaufschub, die Stundung, die aufschiebende Wirkung, die
+    Aussetzung der Vollziehung oder der Vollstreckungsaufschub beendet
+    ist,
+
+
+2.  bei Sicherheitsleistung, Pfändungspfandrecht, Zwangshypothek oder
+    einem sonstigen Vorzugsrecht auf Befriedigung das entsprechende Recht
+    erloschen ist,
+
+
+3.  das Insolvenzverfahren beendet ist,
+
+
+4.  der Insolvenzplan oder der gerichtliche Schuldenbereinigungsplan
+    erfüllt ist oder hinfällig wird,
+
+
+5.  die Restschuldbefreiung erteilt oder versagt wird oder das Verfahren,
+    das die Restschuldbefreiung zum Ziel hat, vorzeitig beendet wird, oder
+
+
+6.  die Ermittlung der Bundesanstalt nach dem Wohnsitz oder dem Aufenthalt
+    des Umlagepflichtigen beendet ist.
+
+
+
+
+(5) Die Zahlungsverjährung wird nur in Höhe des Betrages unterbrochen,
+auf den sich die Unterbrechungshandlung bezieht. Mit Ablauf des
+Kalenderjahres, in dem die Unterbrechung geendet hat, beginnt eine
+neue Verjährungsfrist.
+
+(6) Wird die Festsetzung des Umlagebetrages angefochten, erlöschen die
+Zahlungsansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem
+die Festsetzung unanfechtbar geworden ist oder sich das Verfahren auf
+andere Weise erledigt hat. Die Frist nach Satz 1 kann durch
+verjährungsunterbrechende Maßnahmen nach Absatz 3 unterbrochen werden.
+
+
+### § 16q Erstattung überzahlter Umlagebeträge
+
+(1) Zu Unrecht erhobene Umlagebeträge und sonstige Überzahlungen auf
+Umlagebeträge, die nicht auf der Erhebung einer Vorauszahlung beruhen,
+sind nach Kenntniserlangung durch die Bundesanstalt zu erstatten.
+
+(2) Ansprüche auf Erstattung von zu Unrecht erhobenen Umlagebeträgen
+entstehen mit Unanfechtbarkeit der Feststellung der Rechtswidrigkeit;
+Ansprüche auf Erstattung von sonstigen Überzahlungen im Sinne des
+Absatzes 1 entstehen mit Zahlungseingang bei der Bundesanstalt.
+
+(3) Ansprüche auf Erstattung von zu Unrecht erhobenen Umlagebeträgen
+und von sonstigen Überzahlungen im Sinne des Absatzes 1 erlöschen
+durch Verjährung, wenn sie nicht bis zum Ablauf des fünften
+Kalenderjahres geltend gemacht werden, das auf die Entstehung des
+Anspruchs folgt.
 
 
 ### § 17 Zwangsmittel
@@ -794,6 +1829,10 @@ Auskünfte zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt
 kann von den Unternehmen Auskünfte und die Vorlage von Unterlagen
 verlangen, soweit dies zur Festsetzung der Umlage und der
 Umlagevorauszahlung erforderlich ist.
+
+(2a) Auf die Erstattung von Überzahlungen und die Verjährung sind §
+16m Absatz 2 und 3 sowie die §§ 16o, 16p und 16q entsprechend
+anzuwenden.
 
 (3) Das Nähere über die Erhebung der Umlage und der
 Umlagevorauszahlung, insbesondere über die Kostenermittlung und den
@@ -919,15 +1958,72 @@ Bundesrepublik Deutschland wird der Bundesanstalt zur unentgeltlichen
 Nutzung überlassen.
 
 
-### § 22 Berichtigung von Bezeichnungen
+### § 22 Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht
 
-Das Bundesministerium kann durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, in Gesetzen und Rechtsverordnungen,
-die im Gesetz über die integrierte Finanzdienstleistungsaufsicht vom
-22\. April 2002 (BGBl. I S. 1310) nicht erfasst sind, die Bezeichnungen
-"Bundesaufsichtsamt für das Kreditwesen", "Bundesaufsichtsamt für das
-Versicherungswesen" und "Bundesaufsichtsamt für den Wertpapierhandel"
-durch die Bezeichnung "Bundesanstalt für
-Finanzdienstleistungsaufsicht" ersetzen und die hierdurch bedingten
-sprachlichen Anpassungen vornehmen.
+(1) § 4c gilt nicht in Verwaltungsgerichtsverfahren, die vor dem 1.
+Januar 2013 anhängig geworden sind oder für die die Klagefrist vor
+diesem Tag begonnen hat, sowie nicht in Verfahren über Rechtsmittel
+gegen gerichtliche Entscheidungen, die vor dem 1. Januar 2013 bekannt
+gegeben oder verkündet oder von Amts wegen anstelle einer Verkündung
+zugestellt worden sind.
+
+(2) Die Amtszeit der Mitglieder des Verwaltungsrats nach § 7 Absatz 3
+Satz 1 Nummer 2 Buchstabe e bis g in der bis zum 28. Februar 2013
+geltenden Fassung und ihrer Stellvertreter endet am 1. März 2013.
+
+(3) § 10a Absatz 1 ist erstmals anzuwenden auf die laufenden
+Dienstbezüge, die für einen nach dem 31. Dezember 2012 endenden
+Zahlungszeitraum gezahlt werden.
+
+
+### § 23 Übergangsbestimmungen zur Umlageerhebung für das Jahr 2012
+
+(1) Die §§ 16 bis 16k und 16m bis 16q in der ab dem 1. Januar 2013
+geltenden Fassung sind erstmals auf die Umlageerhebung für das
+Umlagejahr 2013 anzuwenden. Auf die Erhebung der Vorauszahlung für das
+Umlagejahr 2013, auf die Umlageerhebung für das Umlagejahr 2012 und
+die Abrechnung früherer Umlagejahre sind § 16, die auf der Grundlage
+des § 16 Absatz 2 erlassene Rechtsverordnung sowie die §§ 5, 6, 8 und
+13 der Verordnung über die Erhebung von Gebühren und die Umlegung von
+Kosten nach dem Finanzdienstleistungsaufsichtsgesetz und § 8a Absatz 6
+des Finanzmarktstabilisierungsfondsgesetzes jeweils in der bis zum 31.
+Dezember 2012 geltenden Fassung weiter anzuwenden.
+
+(2) § 16l in der ab dem 1. Januar 2013 geltenden Fassung ist erstmals
+auf die Erhebung der Vorauszahlungen für das Umlagejahr 2014
+anzuwenden. Hinsichtlich der Vorauszahlungen für das Umlagejahr 2014
+im Aufsichtsbereich Wertpapierhandel gilt § 16l jedoch mit folgenden
+Maßgaben:
+
+1.  Von den im Aufsichtsbereich zu tragenden Vorauszahlungsbeträgen hat
+    die Gruppe der Wertpapierdienstleistungsunternehmen und
+    Anlageverwalter 46 Prozent und die Gruppe der Emittenten 54 Prozent zu
+    tragen.
+
+
+2.  In der Gruppe der Wertpapierdienstleistungsunternehmen und
+    Anlageverwalter ist vorauszahlungspflichtig, wer im Jahr der
+    Vorauszahlungsfestsetzung die Voraussetzungen des § 16i Absatz 1 Satz
+    1 Nummer 1 erfüllt, es sei denn, er weist im Jahr der
+    Vorauszahlungsfestsetzung vor dem 1. Dezember nach, dass er im darauf
+    folgenden Jahr nicht mehr umlagepflichtig sein wird.
+
+
+3.  In der Gruppe der Wertpapierdienstleistungsunternehmen und
+    Anlageverwalter bemisst sich die Vorauszahlung für das Jahr 2014 auf
+    der Grundlage von Daten aus dem Jahr 2011.
+
+
+4.  Auf die Bemessung der Vorauszahlungsbeträge ist § 16j Absatz 2 und 4
+    nicht anzuwenden.
+
+
+5.  Soweit bei Wertpapierdienstleistungsunternehmen und Anlageverwaltern
+    keine Daten für die Bemessungsgrundlage des Vorauszahlungsbetrages
+    vorliegen, ist ein Bemessungsbetrag von null Euro anzusetzen; der
+    Vorauszahlungsbetrag entspricht in diesem Fall dem Mindestumlagebetrag
+    nach § 16j Absatz 6.
+
+
+
 

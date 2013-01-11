@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2558
 
 Neugefasst durch
-:   Bek. v. 17.10.2012 I 2166
+:   Bek. v. 17.10.2012 I 2166, 2725
 
 
 ## § 1 Anwendungsbereich

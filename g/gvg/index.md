@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9. 5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.10.2012 I 2182
+:   Art. 3 G v. 5.12.2012 I 2418
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -523,7 +523,14 @@ Probe können verwendet werden, soweit sich aus Absatz 6, § 23b Abs. 3
 Satz 2, § 23c Abs. 2 oder § 29 Abs. 1 Satz 2 nichts anderes ergibt.
 
 (6) Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung
-Geschäfte in Insolvenzsachen nicht wahrnehmen.
+Geschäfte in Insolvenzsachen nicht wahrnehmen. Richter in
+Insolvenzsachen sollen über belegbare Kenntnisse auf den Gebieten des
+Insolvenzrechts, des Handels- und Gesellschaftsrechts sowie über
+Grundkenntnisse der für das Insolvenzverfahren notwendigen Teile des
+Arbeits-, Sozial- und Steuerrechts und des Rechnungswesens verfügen.
+Einem Richter, dessen Kenntnisse auf diesen Gebieten nicht belegt
+sind, dürfen die Aufgaben eines Insolvenzrichters nur zugewiesen
+werden, wenn der Erwerb der Kenntnisse alsbald zu erwarten ist.
 
 
 ### § 22a
@@ -3572,11 +3579,12 @@ Das Gericht kann für die Verhandlung oder für einen Teil davon die
 
 ### § 173
 
-(1) Die Verkündung des Urteils erfolgt in jedem Falle öffentlich.
+(1) Die Verkündung des Urteils sowie der Endentscheidung in Ehesachen
+und Familienstreitsachen erfolgt in jedem Falle öffentlich.
 
 (2) Durch einen besonderen Beschluß des Gerichts kann unter den
 Voraussetzungen der §§ 171b und 172 auch für die Verkündung der
-Urteilsgründe oder eines Teiles davon die Öffentlichkeit
+Entscheidungsgründe oder eines Teiles davon die Öffentlichkeit
 ausgeschlossen werden.
 
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1890, 1891
 
 Zuletzt geändert durch
-:   Art. 4 G v. 12.4.2012 I 579
-
-Mittelbare änderung durch
-:   Art. 13 Abs. 17 Nr. 1 u. 3 G v. 12.4.2012 I 579 ist berücksichtigt
+:   Art. 7 G v. 5.12.2012 I 2474
 
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -58,20 +55,20 @@ Ehegatten sind verpflichtet, innerhalb von drei Monaten nach Übernahme
 des Unternehmens der Landwirtschaft oder, sofern die Eheschließung
 nach der Übernahme des Unternehmens der Landwirtschaft erfolgt,
 innerhalb von drei Monaten nach der Eheschließung gegenüber der
-zuständigen landwirtschaftlichen Alterskasse zu erklären, welcher
-Ehegatte das Unternehmen als Landwirt nach Absatz 2 betreibt. Sie
-können innerhalb dieser Frist auch erklären, daß sie beide das
-Unternehmen gemeinschaftlich betreiben. Wird eine Erklärung nicht
-fristgerecht abgegeben, bestimmt die landwirtschaftliche Alterskasse,
-welcher Ehegatte Landwirt nach Absatz 2 ist. Tritt eine wesentliche
-Änderung der Verhältnisse ein, kann innerhalb von drei Monaten
-gegenüber der landwirtschaftlichen Alterskasse erneut erklärt werden,
-welcher der Ehegatten das Unternehmen betreibt oder daß beide das
-Unternehmen gemeinschaftlich betreiben. Betreibt jeder der Ehegatten
-ein Unternehmen der Landwirtschaft, sind beide Landwirte nach Absatz
-2\. Die Sätze 1 bis 7 gelten entsprechend für Ehegatten von
-Unternehmern, die ein Unternehmen der Imkerei, der Binnenfischerei
-oder der Wanderschäferei betreiben.
+landwirtschaftlichen Alterskasse zu erklären, welcher Ehegatte das
+Unternehmen als Landwirt nach Absatz 2 betreibt. Sie können innerhalb
+dieser Frist auch erklären, daß sie beide das Unternehmen
+gemeinschaftlich betreiben. Wird eine Erklärung nicht fristgerecht
+abgegeben, bestimmt die landwirtschaftliche Alterskasse, welcher
+Ehegatte Landwirt nach Absatz 2 ist. Tritt eine wesentliche Änderung
+der Verhältnisse ein, kann innerhalb von drei Monaten gegenüber der
+landwirtschaftlichen Alterskasse erneut erklärt werden, welcher der
+Ehegatten das Unternehmen betreibt oder daß beide das Unternehmen
+gemeinschaftlich betreiben. Betreibt jeder der Ehegatten ein
+Unternehmen der Landwirtschaft, sind beide Landwirte nach Absatz 2.
+Die Sätze 1 bis 7 gelten entsprechend für Ehegatten von Unternehmern,
+die ein Unternehmen der Imkerei, der Binnenfischerei oder der
+Wanderschäferei betreiben.
 
 (4) Unternehmen der Landwirtschaft sind Unternehmen der Land- und
 Forstwirtschaft einschließlich des Garten- und Weinbaues, der
@@ -104,15 +101,13 @@ mehrere Unternehmen, gelten sie als ein Unternehmen.
 
 (5) Ein Unternehmen der Landwirtschaft erreicht dann die Mindestgröße,
 wenn sein Wirtschaftswert einen von der landwirtschaftlichen
-Alterskasse im Einvernehmen mit dem Spitzenverband der
-landwirtschaftlichen Sozialversicherung unter Berücksichtigung der
-örtlichen oder regionalen Gegebenheiten festgesetzten Grenzwert
-erreicht; der Ertragswert für Nebenbetriebe bleibt hierbei
-unberücksichtigt. Ein Unternehmen der Imkerei muß grundsätzlich
-mindestens 100 Bienenvölker umfassen. Ein Unternehmen der
-Binnenfischerei muß grundsätzlich mindestens 120 Arbeitstage jährlich
-erfordern. Ein Unternehmen der Wanderschäferei muß grundsätzlich eine
-Herde von mindestens 240 Großtieren umfassen.
+Alterskasse unter Berücksichtigung der örtlichen oder regionalen
+Gegebenheiten festgesetzten Grenzwert erreicht; der Ertragswert für
+Nebenbetriebe bleibt hierbei unberücksichtigt. Ein Unternehmen der
+Imkerei muß grundsätzlich mindestens 100 Bienenvölker umfassen. Ein
+Unternehmen der Binnenfischerei muß grundsätzlich mindestens 120
+Arbeitstage jährlich erfordern. Ein Unternehmen der Wanderschäferei
+muß grundsätzlich eine Herde von mindestens 240 Großtieren umfassen.
 
 (6) Der Wirtschaftswert ist der durch die Finanzbehörden nach dem
 Bewertungsgesetz im Einheitswertbescheid für das land- und
@@ -152,6 +147,14 @@ hauptberuflich tätig sind. Pflegekinder sind Personen, die mit dem
 Landwirt oder seinem Ehegatten durch ein auf längere Dauer angelegtes
 Pflegeverhältnis mit häuslicher Gemeinschaft wie Kinder mit Eltern
 verbunden sind.
+
+
+### § 1a Geltung für Lebenspartner
+
+Die für Ehegatten und ehemalige Ehegatten sowie Witwen und Witwer
+geltenden Vorschriften dieses Gesetzes gelten entsprechend für
+Lebenspartner, Lebenspartner, deren Lebenspartnerschaft aufgehoben
+wurde, und hinterbliebene Lebenspartner.
 
 
 ### § 2 Versicherungsfreiheit
@@ -446,17 +449,17 @@ entsprechend.
 
 (1) Für Umfang und Ort der Leistungen zur medizinischen Rehabilitation
 sowie der sonstigen und ergänzenden Leistungen gelten vorbehaltlich
-von § 143e Absatz 2 Nummer 6 des Siebten Buches Sozialgesetzbuch §§ 13
-und 15, § 31 Abs. 1 Satz 1 Nr. 1, 3 bis 5, § 31 Abs. 1 Satz 2, § 31
-Abs. 2 Satz 1 und § 32 Abs. 1, 2, 4 und 5 des Sechsten Buches
+von §§ 13 und 15, § 31 Abs. 1 Satz 1 Nr. 1, 3 bis 5, § 31 Abs. 1 Satz
+2, § 31 Abs. 2 Satz 1 und § 32 Abs. 1, 2, 4 und 5 des Sechsten Buches
 Sozialgesetzbuch sowie §§ 18, 44 Abs. 1 Nr. 3 bis 6 und § 53 des
 Neunten Buches Sozialgesetzbuch entsprechend. Als ergänzende Leistung
 kann auch Betriebs- oder Haushaltshilfe erbracht werden. Die
-landwirtschaftlichen Alterskassen betreiben keine eigenen
-Rehabilitationseinrichtungen. Im Interesse einer einheitlichen
-Erbringung und Durchführung der Leistungen arbeiten die
-landwirtschaftlichen Alterskassen und der Spitzenverband der
-landwirtschaftlichen Sozialversicherung eng zusammen.
+landwirtschaftliche Alterskasse betreibt keine eigenen
+Rehabilitationseinrichtungen. Leistungen nach den Absätzen 1 bis 3
+müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des
+Notwendigen nicht übersteigen. Das Nähere über die Durchführung der
+Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der
+landwirtschaftlichen Alterskasse geregelt.
 
 (2) Betriebshilfe kann erbracht werden, wenn
 
@@ -512,14 +515,7 @@ erforderlichen Fahrkosten und der Verdienstausfall können jedoch
 erstattet werden, wenn die Erstattung in einem angemessenen Verhältnis
 zu den sonst für eine Ersatzkraft entstehenden Kosten steht.
 
-(4) Das Nähere zur Durchführung der Leistungen nach den Absätzen 1 bis
-3 wird im Benehmen mit dem Bundesministerium für Arbeit und Soziales
-in Richtlinien geregelt, die von der Vertreterversammlung des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-beschlossen werden. In den Richtlinien ist Näheres zu bestimmen zu den
-Maßstäben und Grundsätzen für eine wirtschaftliche Erbringung der
-Leistungen sowie zu den Verfahrens- und Prüfungsgrundsätzen für die
-notwendigen Wirtschaftlichkeitsprüfungen.
+(4) (weggefallen)
 
 
 ### Zweiter Abschnitt - Laufende Geldleistungen
@@ -749,15 +745,8 @@ Ehegatten).
 Familienangehörige.
 
 
-###### § 14a Renten wegen Todes für hinterbliebene Lebenspartner
+###### § 14a (weggefallen)
 
-(1) Die leistungsrechtlichen Vorschriften über Renten wegen Todes nach
-diesem Kapitel gelten entsprechend für hinterbliebene Lebenspartner.
-
-(2) Anspruch auf eine Witwen- oder Witwerrente für einen überlebenden
-Lebenspartner besteht nicht, wenn für denselben Zeitraum aus den
-Anwartschaften eines Versicherten Anspruch auf eine Witwenrente oder
-Witwerrente für einen Ehegatten besteht.
 
 
 ###### § 15 Waisenrente
@@ -840,7 +829,7 @@ entsprechend.
 ###### § 18 Beitragszeiten
 
 Beitragszeiten sind Zeiten, für die Pflichtbeiträge oder freiwillige
-Beiträge zu einer landwirtschaftlichen Alterskasse gezahlt sind.
+Beiträge zur landwirtschaftlichen Alterskasse gezahlt sind.
 
 
 ###### § 19 Zurechnungszeit
@@ -1326,11 +1315,11 @@ Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte
 Kapitalbetrag durch das Zwölffache des Beitrags geteilt wird, der nach
 § 68 als Beitrag für das Jahr maßgebend ist, in das das Ende der
-Ehezeit oder Lebenspartnerschaftszeit fällt. Bei einer Vereinbarung
-nach § 6 des Versorgungsausgleichsgesetzes tritt an die Stelle des
-Endes der Ehezeit oder Lebenspartnerschaftszeit der Beitrag zum
-Zeitpunkt der Zahlung. § 76 Absatz 4 Satz 3 und § 187 Absatz 6 des
-Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
+Ehezeit fällt. Bei einer Vereinbarung nach § 6 des
+Versorgungsausgleichsgesetzes tritt an die Stelle des Endes der
+Ehezeit der Beitrag zum Zeitpunkt der Zahlung. § 76 Absatz 4 Satz 3
+und § 187 Absatz 6 des Sechsten Buches Sozialgesetzbuch sind
+entsprechend anzuwenden.
 
 
 ##### Dritter Titel - Anpassung der Renten
@@ -1397,7 +1386,7 @@ zu legen sind.
     der monatlichen Bezugsgröße,
 
 
-2.  bei einer Rente wegen voller Erwerbsminderung in voller Höhe 400 Euro
+2.  bei einer Rente wegen voller Erwerbsminderung in voller Höhe 450 Euro
     monatlich,
 
 
@@ -1548,9 +1537,9 @@ Einkommen. Ein Ausgleich mit Verlusten aus anderen Einkommen und mit
 Verlusten aus Einkommen des Ehegatten ist nicht zulässig. Einkommen
 sind
 
-1.  die Summe der erzielten positiven Einkünfte im Sinne des § 2 Abs. 1
-    und 2 des Einkommensteuergesetzes, soweit die Einkünfte nicht unter
-    die Nummer 2 fallen und
+1.  die Einkünfte im Sinne des § 2 Abs. 1 und 2 des
+    Einkommensteuergesetzes, soweit die Einkünfte nicht unter die Nummer 2
+    fallen und
 
 
 2.  Erwerbsersatzeinkommen im Sinne des § 3 Abs. 4, wobei Renten wegen
@@ -1590,9 +1579,7 @@ Die Anspruchsvoraussetzungen für den Zuschuss zum Beitrag sind in den
 Fällen des Satzes 4 Nr. 1 frühestens vom Kalendermonat der
 Ausfertigung des Einkommensteuerbescheides an erfüllt.
 
-(4) Der Einkommensteuerbescheid ist der landwirtschaftlichen
-Alterskasse spätestens zwei Kalendermonate nach seiner Ausfertigung
-vorzulegen. Änderungen des Einkommens sind vom Beginn des dritten
+(4) Änderungen des Einkommens sind vom Beginn des dritten
 Kalendermonats nach Ausfertigung des Einkommensteuerbescheides zu
 berücksichtigten; dies gilt entsprechend, wenn vor erstmaliger
 Bewilligung eines Zuschusses zum Beitrag Einkommensteuerbescheide aus
@@ -1732,19 +1719,12 @@ die Vergangenheit zurückzunehmen.
 maßgebenden Verhältnisse, ist der Verwaltungsakt vom Zeitpunkt der
 Änderung der Verhältnisse an aufzuheben. In den Fällen des § 32 Abs. 4
 Satz 3 ist der Verwaltungsakt von dem Zeitpunkt an aufzuheben, von dem
-an er auf dem geänderten Einkommensteuerbescheid beruht hat.
+an er auf dem geänderten Einkommensteuerbescheid beruht hat. Einer
+Anhörung nach § 24 des Zehnten Buches Sozialgesetzbuch bedarf es
+nicht, wenn sich das nach § 32 Absatz 3 Satz 3 maßgebende Einkommen
+geändert hat und diese Änderung berücksichtigt werden soll.
 
-(5) Wird der Einkommensteuerbescheid nicht innerhalb der in § 32 Abs.
-4 Satz 1 bestimmten Frist vorgelegt, entzieht die landwirtschaftliche
-Alterskasse den Beitragszuschuss vom Beginn des Kalendermonats, der
-dem Monat folgt, in dem die landwirtschaftliche Alterskasse von dem
-Vorliegen eines neuen Einkommensteuerbescheides Kenntnis erlangt,
-frühestens nach Ablauf der in § 32 Abs. 4 Satz 1 genannten Frist.
-Eines vorherigen Hinweises auf den bevorstehenden Ablauf der Frist und
-einer Anhörung nach § 24 des Zehnten Buches Sozialgesetzbuch bedarf es
-vor Entziehung des Beitragszuschusses nach Satz 1 nicht. Wird die
-Vorlage eines Einkommensteuerbescheides nachgeholt, ist der
-Beitragszuschuss rückwirkend zu leisten.
+(5) (weggefallen)
 
 
 ###### § 35 Verordnungsermächtigung
@@ -1827,14 +1807,11 @@ wird.
 
 (3) § 10 Abs. 3 gilt.
 
-(4) Das Nähere zur Durchführung der Leistungen nach den Absätzen 1 bis
-3 wird im Benehmen mit dem Bundesministerium für Arbeit und Soziales
-in Richtlinien geregelt, die von der Vertreterversammlung des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-beschlossen werden. In den Richtlinien ist Näheres zu bestimmen zu den
-Maßstäben und Grundsätzen für eine wirtschaftliche Erbringung der
-Leistungen sowie zu den Verfahrens- und Prüfungsgrundsätzen für die
-notwendigen Wirtschaftlichkeitsprüfungen.
+(4) Leistungen nach den Absätzen 1 bis 3 müssen wirksam und
+wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht
+übersteigen. Das Nähere über die Durchführung der Leistungen nach den
+Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen
+Alterskasse geregelt.
 
 (5) Versicherter ist, wer im Zeitpunkt der Antragstellung oder, wenn
 ein Antrag nicht gestellt ist, im Zeitpunkt des Leistungsbeginns als
@@ -1869,14 +1846,11 @@ entstehenden Aufwendungen unter Berücksichtigung seines Einkommens
 (Selbstbeteiligung); die Selbstbeteiligung beträgt höchstens 50 vom
 Hundert der entstehenden Aufwendungen.
 
-(4) Das Nähere zur Durchführung der Leistungen nach den Absätzen 1 bis
-3 wird im Benehmen mit dem Bundesministerium für Arbeit und Soziales
-in Richtlinien geregelt, die von der Vertreterversammlung des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-beschlossen werden. In den Richtlinien ist Näheres zu bestimmen zu den
-Maßstäben und Grundsätzen für eine wirtschaftliche Erbringung der
-Leistungen sowie zu den Verfahrens- und Prüfungsgrundsätzen für die
-notwendigen Wirtschaftlichkeitsprüfungen.
+(4) Leistungen nach den Absätzen 1 bis 3 müssen wirksam und
+wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht
+übersteigen. Das Nähere über die Durchführung der Leistungen nach den
+Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen
+Alterskasse geregelt.
 
 
 #### § 38 Überbrückungsgeld
@@ -2025,10 +1999,9 @@ beruht, bleiben diese bei der Berechnung der Rente unberücksichtigt.
 
 (4) Ein Abschlag von der Steigerungszahl aufgrund eines
 Versorgungsausgleichs wird berücksichtigt, soweit er auf die in der
-Ehezeit oder Lebenspartnerschaftszeit liegenden Kalendermonate mit
-Beitragszeiten entfällt. Der Abschlag wird auf die in der Ehezeit
-liegenden Kalendermonate mit den der Rentenberechnung zugrunde
-liegenden Zeiten gleichmäßig verteilt.
+Ehezeit liegenden Kalendermonate mit Beitragszeiten entfällt. Der
+Abschlag wird auf die in der Ehezeit liegenden Kalendermonate mit den
+der Rentenberechnung zugrunde liegenden Zeiten gleichmäßig verteilt.
 
 (5) Bei Berechtigten wird der allgemeine Rentenwert mit 0,7
 vervielfältigt.
@@ -2062,10 +2035,10 @@ nach dem Lebenspartnerschaftsgesetz.
 
 (2) Die interne Teilung erfolgt, indem zu Lasten der von der
 ausgleichspflichtigen Person nach diesem Gesetz erworbenen Anrechte
-für die ausgleichsberechtigte Person Anrechte bei der für sie
-zuständigen landwirtschaftlichen Alterskasse übertragen werden.
-Anrechte aus Zeiten im Beitrittsgebiet (§ 102) und aus Zeiten im
-übrigen Bundesgebiet sind getrennt intern zu teilen.
+für die ausgleichsberechtigte Person Anrechte bei der
+landwirtschaftlichen Alterskasse übertragen werden. Anrechte aus
+Zeiten im Beitrittsgebiet (§ 102) und aus Zeiten im übrigen
+Bundesgebiet sind getrennt intern zu teilen.
 
 (3) Durch externe Teilung im Versorgungsausgleich können Anrechte nach
 diesem Gesetz nur begründet werden, wenn die ausgleichsberechtigte
@@ -2087,18 +2060,16 @@ erworben hat.
 bis 5, § 116 Abs. 2 sowie § 117 des Sechsten Buches Sozialgesetzbuch
 entsprechend.
 
-(2) Die landwirtschaftlichen Alterskassen sollen die Berechtigten in
+(2) Die landwirtschaftliche Alterskasse soll die Berechtigten in
 geeigneten Fällen darauf hinweisen, daß sie eine Leistung erhalten
-können, wenn sie diese beantragen. Der Spitzenverband der
-landwirtschaftlichen Sozialversicherung bestimmt in Richtlinien, unter
-welchen Voraussetzungen solche Hinweise erfolgen sollen.
+können, wenn sie diese beantragen.
 
 (3) Hängt der Anspruch auf eine Rente auch davon ab, dass eine
-Erwerbsminderung vorliegt, haben die landwirtschaftlichen Alterskassen
-vor Abgabe des Unternehmens der Landwirtschaft zu prüfen, ob die
-übrigen Voraussetzungen für den Anspruch erfüllt sind, und für den
-Fall, dass von diesen nur das Vorliegen von Erwerbsminderung verneint
-wird, hierüber eine Entscheidung zu treffen.
+Erwerbsminderung vorliegt, hat die landwirtschaftliche Alterskasse vor
+Abgabe des Unternehmens der Landwirtschaft zu prüfen, ob die übrigen
+Voraussetzungen für den Anspruch erfüllt sind, und für den Fall, dass
+von diesen nur das Vorliegen von Erwerbsminderung verneint wird,
+hierüber eine Entscheidung zu treffen.
 
 
 #### Zweiter Unterabschnitt - Auszahlung und Anpassung
@@ -2110,16 +2081,12 @@ wird, hierüber eine Entscheidung zu treffen.
 (1) Für die Auszahlung von Renten gelten die §§ 118, 118a und 272a des
 Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-nimmt die Auszahlung und Anpassung von Renten im Namen seiner
-Mitglieder vor; das Auszahlungsverfahren wird durch die Satzung des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung geregelt.
-Der Spitzenverband der landwirtschaftlichen Sozialversicherung kann
-die Auszahlung und die Durchführung der Anpassung von Renten durch die
-Deutsche Post AG vorsehen; in diesem Fall gilt § 119 Abs. 2 bis 7 des
-Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe, dass
-der Spitzenverband der landwirtschaftlichen Sozialversicherung die
-Vorschüsse festsetzt.
+(2) Das Auszahlungsverfahren wird durch die Satzung der
+landwirtschaftlichen Alterskasse geregelt; dabei kann vorgesehen
+werden, dass die Renten durch die Deutsche Post AG ausgezahlt und
+angepasst werden. Werden der Deutschen Post AG diese Aufgaben
+übertragen, gilt § 119 Absatz 2 bis 7 des Sechsten Buches
+Sozialgesetzbuch entsprechend.
 
 
 ##### § 46 Verordnungsermächtigung
@@ -2130,8 +2097,8 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 das Nähere zu dem Inhalt der von der Deutschen Post AG wahrzunehmenden
 Aufgaben, der Höhe und Fälligkeit der Vorschüsse und Vergütungen
 entsprechend § 120 des Sechsten Buches Sozialgesetzbuch zu bestimmen,
-sofern der Spitzenverband der landwirtschaftlichen Sozialversicherung
-von der Möglichkeit nach § 45 Abs. 2 Satz 2 Gebrauch macht.
+sofern die landwirtschaftliche Alterskasse von der Möglichkeit nach §
+45 Absatz 2 Satz 1 Gebrauch macht.
 
 
 #### Dritter Unterabschnitt - Berechnungsgrundsätze
@@ -2161,124 +2128,24 @@ Sozialgesetzbuch gelten entsprechend.
 
 
 
-#### Erster Unterabschnitt - Zuständige Versicherungsträger
+#### § 49 Träger der Alterssicherung der Landwirte
+
+Träger der Alterssicherung der Landwirte ist die Sozialversicherung
+für Landwirtschaft, Forsten und Gartenbau. In Angelegenheiten der
+Alterssicherung der Landwirte und bei Durchführung der Aufgaben nach
+diesem Gesetz führt sie die Bezeichnung landwirtschaftliche
+Alterskasse.
 
 
+#### § 50 Aufgaben der landwirtschaftlichen Alterskasse
 
-##### § 49 Sachliche Zuständigkeit
+(1) Neben den sich aus diesem Gesetz ergebenden Aufgaben nimmt die
+landwirtschaftliche Alterskasse die Funktion als Verbindungsstelle
+nach zwischenstaatlichem und überstaatlichem Recht für den Bereich der
+Alterssicherung der Landwirte wahr.
 
-Für die Erfüllung der Aufgaben der Alterssicherung der Landwirte sind
-die bei jeder landwirtschaftlichen Berufsgenossenschaft errichteten
-landwirtschaftlichen Alterskassen zuständig, soweit nicht die
-Erfüllung dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung übertragen ist.
-
-
-##### § 50 Örtliche Zuständigkeit
-
-(1) Die örtliche Zuständigkeit der landwirtschaftlichen Alterskassen
-richtet sich, soweit nicht nach über- oder zwischenstaatlichem Recht
-etwas anderes bestimmt ist, nach dem Sitz des Unternehmens der
-Landwirtschaft. Betreibt ein Landwirt mehrere Unternehmen der
-Landwirtschaft, ist die landwirtschaftliche Alterskasse zuständig, in
-deren Bezirk das Unternehmen mit dem höchsten Wirtschaftswert seinen
-Sitz hat.
-
-(2) Endet die versicherungspflichtige Tätigkeit, richtet sich die
-örtliche Zuständigkeit der landwirtschaftlichen Alterskassen mit
-Ausnahme der Alterskasse für den Gartenbau nach dem
-
-1.  Wohnsitz,
-
-
-2.  gewöhnlichen Aufenthalt
-
-
-
-des Versicherten oder des Hinterbliebenen im Inland. Bei
-Leistungsansprüchen ist für die örtliche Zuständigkeit der Zeitpunkt
-der Antragstellung maßgebend. Bei Waisenrenten ist bei Halbwaisen die
-für den überlebenden Ehegatten, im übrigen die für die jüngste Waise
-bestimmte landwirtschaftliche Alterskasse zuständig. Die Alterskasse
-für den Gartenbau bleibt zuständig, wenn an sie zuletzt Beiträge
-gezahlt worden sind.
-
-(3) Liegt der nach Absatz 2 maßgebende Ort nicht im Inland, ist die
-landwirtschaftliche Alterskasse zuständig, die zuletzt nach Absatz 2
-zuständig war.
-
-
-#### Zweiter Unterabschnitt - Aufsichtsbehörden
-
-
-
-##### § 51 Aufsichtsbehörden
-
-Die Aufsicht über die landwirtschaftliche Alterskasse führt die für
-die Aufsicht über die landwirtschaftliche Berufsgenossenschaft, bei
-der die landwirtschaftliche Alterskasse errichtet ist, zuständige
-Stelle. Sie ist auch für die Genehmigung der Satzung der
-landwirtschaftlichen Alterskasse zuständig.
-
-
-#### Dritter Unterabschnitt - Beschäftigte der Versicherungsträger
-
-
-
-##### § 52 Beschäftigte der Versicherungsträger
-
-(1) Der Geschäftsführer und der Stellvertreter des Geschäftsführers
-der landwirtschaftlichen Alterskasse sind der Geschäftsführer und der
-Stellvertreter des Geschäftsführers der landwirtschaftlichen
-Berufsgenossenschaft, bei der sie errichtet ist.
-
-(2) Die Beschäftigungsverhältnisse der Beschäftigten der
-landwirtschaftlichen Alterskasse richten sich nach den für die
-Beschäftigten der landwirtschaftlichen Berufsgenossenschaft
-maßgebenden Vorschriften.
-
-
-#### Vierter Unterabschnitt - Spitzenverband der landwirtschaftlichen Sozialversicherung
-
-
-
-##### § 53 Spitzenverband der landwirtschaftlichen Sozialversicherung
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung (§§
-143a bis 143i des Siebten Buches Sozialgesetzbuch) ist der
-Spitzenverband für die landwirtschaftlichen Alterskassen. Neben den
-sich aus den übrigen Vorschriften dieses Gesetzes ergebenden Aufgaben
-nimmt der Spitzenverband der landwirtschaftlichen Sozialversicherung
-die in § 143e des Siebten Buches Sozialgesetzbuch genannten Aufgaben
-für die Alterssicherung der Landwirte wahr.
-
-(2) Er nimmt ferner folgende Aufgaben wahr:
-
-1.  Abschluss von Verträgen im Namen seiner Mitglieder mit
-    Leistungserbringern,
-
-
-2.  Vorlage der Übersichten über die Geschäfts- und Rechnungsergebnisse
-    der landwirtschaftlichen Alterskassen eines Kalenderjahres beim
-    Bundesministerium für Arbeit und Soziales bis spätestens 30. Juni des
-    folgenden Kalenderjahres,
-
-
-3.  Bearbeitung des Versorgungsausgleichs für seine Mitglieder,
-    einschließlich des Auskunftsverfahrens nach § 220 des Gesetzes über
-    das Verfahren in Familiensachen und in den Angelegenheiten der
-    freiwilligen Gerichtsbarkeit und
-
-
-4.  Wahrnehmung der Funktion als Verbindungsstelle nach
-    zwischenstaatlichem und überstaatlichem Recht für den Bereich der
-    Alterssicherung der Landwirte.
-
-
-
-
-(3) Zu seinen Aufgaben als Verbindungsstelle nach überstaatlichem
-Recht gehören insbesondere
+(2) Zu den Aufgaben als Verbindungsstelle nach überstaatlichem Recht
+gehören insbesondere
 
 1.  die Prüfung und Entscheidung über die weitere Anwendbarkeit der
     deutschen Rechtsvorschriften für eine ausschließlich in der
@@ -2286,21 +2153,16 @@ Recht gehören insbesondere
     vorübergehend in einen anderen Mitgliedstaat der Europäischen Union,
     in einen Vertragsstaat des Abkommens über den Europäischen
     Wirtschaftsraum oder in die Schweiz entsandt oder dort vorübergehend
-    selbstständig tätig ist,
+    selbständig tätig ist, und
 
 
-2.  die Koordinierung der Verwaltungshilfe und des Datenaustauschs für den
-    Bereich der Alterssicherung der Landwirte bei grenzüberschreitenden
-    Sachverhalten und
-
-
-3.  Aufklärung, Beratung und Information.
+2.  Aufklärung, Beratung und Information.
 
 
 
 
 
-##### (XXXX) §§ 54 bis 58b (weggefallen)
+#### (XXXX) §§ 51 bis 58b (weggefallen)
 
 
 
@@ -2327,9 +2189,10 @@ Merkmalen nur enthalten
 
 
 
-Es wird eine gemeinsame Mitgliedsnummer für die landwirtschaftliche
-Berufsgenossenschaft und die bei ihr errichtete landwirtschaftliche
-Alterskasse und landwirtschaftliche Krankenkasse vergeben.
+Es wird eine gemeinsame Mitgliedsnummer vergeben, die für die
+Alterssicherung der Landwirte, die landwirtschaftliche
+Unfallversicherung und die landwirtschaftliche Krankenversicherung
+gilt.
 
 (3) Jede Person, an die eine Mitgliedsnummer vergeben wird, ist
 unverzüglich über diese zu unterrichten.
@@ -2338,38 +2201,8 @@ unverzüglich über diese zu unterrichten.
 entsprechend.
 
 
-#### § 60 Datenverarbeitung bei der landwirtschaftlichen Alterskasse
+#### § 60 (weggefallen)
 
-(1) Die landwirtschaftliche Alterskasse darf personenbezogene Daten in
-Dateien nur verarbeiten oder aus Dateien nur nutzen, soweit dies zur
-Erfüllung einer ihr durch Gesetz oder aufgrund eines Gesetzes
-zugewiesenen Aufgabe erforderlich ist.
-
-(2) Durch technische und organisatorische Maßnahmen ist
-sicherzustellen, daß die personenbezogenen Daten den Beschäftigten nur
-in dem Umfang zugänglich sind, in dem sie diese jeweils zur
-Durchführung ihrer Aufgaben benötigen.
-
-(3) Die Einrichtung eines automatisierten Verfahrens, das die
-Übermittlung personenbezogener Daten aus Dateien der
-landwirtschaftlichen Alterskassen durch Abruf ermöglicht, ist nur
-zwischen den landwirtschaftlichen Alterskassen sowie mit den
-landwirtschaftlichen Berufsgenossenschaften, den Trägern der
-gesetzlichen Rentenversicherung, der gesetzlichen Krankenversicherung,
-der Bundesagentur für Arbeit und der Deutschen Post AG, soweit sie mit
-der Berechnung oder Auszahlung von Sozialleistungen betraut ist,
-zulässig; dabei dürfen auch Vermittlungsstellen eingeschaltet werden.
-Sie ist mit Leistungsträgern im Ausland zulässig, soweit diese Daten
-zur Feststellung von Leistungen nach über- und zwischenstaatlichem
-Recht erforderlich sind und nicht Grund zur Annahme besteht, daß
-dadurch schutzwürdige Belange der davon betroffenen Personen
-beeinträchtigt werden.
-
-(4) Die landwirtschaftlichen Alterskassen dürfen dem Spitzenverband
-der landwirtschaftlichen Sozialversicherung personenbezogene Daten nur
-übermitteln, soweit dies zur Führung einer Datei oder zur Erfüllung
-einer anderen gesetzlich vorgeschriebenen oder zugelassenen Aufgabe
-erforderlich ist.
 
 
 #### § 61 Versicherungskonto
@@ -2387,13 +2220,11 @@ Sozialgesetzbuch findet keine Anwendung.
 
 #### § 61a Überprüfung von Beitragszuschüssen
 
-(1) Die landwirtschaftlichen Alterskassen sind befugt, Personen, die
+(1) Die landwirtschaftliche Alterskasse ist befugt, Personen, die
 einen Beitragszuschuss erhalten, auch regelmäßig im Wege eines
-automatisierten Datenabgleichs daraufhin zu überprüfen, ob und wann
-ein Einkommensteuerbescheid ausgefertigt wurde, der ihnen nach § 32
-Abs. 4 Satz 1 vorzulegen ist. Sie übermitteln hierzu in einem
-automatisierten Verfahren über den Spitzenverband der
-landwirtschaftlichen Sozialversicherung (Kopfstelle) an zentrale
+automatisierten Datenabgleichs daraufhin zu überprüfen, ob ein
+Anspruch auf den Beitragszuschuss weiterhin besteht. Sie übermittelt
+hierzu in einem automatisierten Verfahren an zentrale
 Vermittlungsstellen der Finanzbehörden Angaben zu
 
 1.  Familienname,
@@ -2419,24 +2250,48 @@ Vermittlungsstellen der Finanzbehörden Angaben zu
 
 
 des Empfängers eines Beitragszuschusses und seines nicht dauernd von
-ihm getrennt lebenden Ehegatten sowie
+ihm getrennt lebenden Ehegatten oder Lebenspartners sowie
 
-8.  Mitgliedsnummer des Empfängers eines Beitragszuschusses und
+8.  Mitgliedsnummer des Empfängers eines Beitragszuschusses,
 
 
 9.  Ausfertigungsdatum des letzten vorliegenden Einkommensteuerbescheides
     des Empfängers eines Beitragszuschusses und seines nicht dauern von
-    ihm getrennt lebenden Ehegatten.
+    ihm getrennt lebenden Ehegatten oder Lebenspartners und
+
+
+10. die nach § 32 Absatz 3 Satz 3 Nummer 1 maßgebenden Einkünfte.
 
 
 
 Diese führen den Abgleich der ihnen übermittelten Daten durch und
-leiten Feststellungen im Sinne des Satzes 1 an die Kopfstelle zur
-Weiterleitung an die zuständige landwirtschaftliche Alterskasse
-zurück. Die landwirtschaftlichen Alterskassen dürfen die ihnen
-übermittelten Daten nur zur Überprüfung nach Satz 1 nutzen. Sind
-übermittelte Daten für die Überprüfung nach Satz 1 nicht mehr
-erforderlich, sind sie unverzüglich zu löschen.
+leiten Feststellungen im Sinne des Satzes 1 an die landwirtschaftliche
+Alterskasse zurück. Zusätzlich teilen sie der landwirtschaftlichen
+Alterskasse mit,
+
+1.  ob die Einkünfte aus Land- und Forstwirtschaft entweder nach § 4 des
+    Einkommensteuergesetzes oder nach § 13a des Einkommensteuergesetzes
+    ermittelt wurden,
+
+
+2.  ob und welche Einkünfte nach § 22 des Einkommensteuergesetzes erzielt
+    wurden,
+
+
+3.  ob der Progressionsvorbehalt nach § 32b des Einkommensteuergesetzes
+    angewendet wurde und
+
+
+4.  ob und in welcher Höhe nach § 10 Absatz 1 Nummer 5 des
+    Einkommensteuergesetzes abziehbare Kinderbetreuungskosten
+    berücksichtigt wurden.
+
+
+
+Die landwirtschaftliche Alterskasse darf die ihnen übermittelten Daten
+nur zur Überprüfung nach Satz 1 nutzen. Sind übermittelte Daten für
+die Überprüfung nach Satz 1 nicht mehr erforderlich, sind sie
+unverzüglich zu löschen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, das
 Nähere über das Verfahren des automatisierten Datenabgleichs durch
@@ -2448,16 +2303,16 @@ Verbraucherschutz und mit Zustimmung des Bundesrates zu regeln.
 eines Beitragszuschusses bei jeder Bewilligung darauf hinzuweisen.
 
 
-#### § 62 Dateien beim Spitzenverband der landwirtschaftlichen Sozialversicherung
+#### § 62 Dateien der landwirtschaftlichen Sozialversicherung
 
-Für die Führung und den Inhalt der Dateien beim Spitzenverband der
-landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des
-Absatzes 1 Satz 1 Nr. 6 und des Absatzes 3 des Sechsten Buches
-Sozialgesetzbuch entsprechend mit der Maßgabe, dass in die
-Stammsatzdatei alle Personen und Unternehmen aufzunehmen sind, die von
-einer landwirtschaftlichen Alterskasse, einer landwirtschaftlichen
-Krankenkasse oder landwirtschaftlichen Berufsgenossenschaft eine
-Mitgliedsnummer erhalten haben.
+Für die Führung und den Inhalt der Dateien der landwirtschaftlichen
+Sozialversicherung gilt § 150 mit Ausnahme des Absatzes 1 Satz 1
+Nummer 6 und 8 und des Absatzes 3 des Sechsten Buches Sozialgesetzbuch
+entsprechend mit der Maßgabe, dass in die Stammsatzdatei alle Personen
+und Unternehmen aufzunehmen sind, die von der landwirtschaftlichen
+Alterskasse, der landwirtschaftlichen Krankenkasse oder der
+landwirtschaftlichen Berufsgenossenschaft eine Mitgliedsnummer
+erhalten haben.
 
 
 #### § 63 Auskünfte der Deutschen Post AG
@@ -2494,25 +2349,21 @@ Bundesrates
     ihre Änderung,
 
 
-4.  die für die Vergabe einer Mitgliedsnummer zuständige
-    landwirtschaftliche Alterskasse,
-
-
-5.  das Nähere über Voraussetzungen, Form und Inhalt sowie Verfahren der
+4.  das Nähere über Voraussetzungen, Form und Inhalt sowie Verfahren der
     Versendung von Versicherungsverläufen,
 
 
-6.  die Art und den Umfang des Datenaustausches zwischen den
-    landwirtschaftlichen Alterskassen mit der Deutschen Post AG sowie die
+5.  die Art und den Umfang des Datenaustausches zwischen der
+    landwirtschaftlichen Alterskasse und der Deutschen Post AG sowie die
     Führung des Versicherungskontos und die Art der Daten, die darin
     gespeichert werden dürfen,
 
 
-7.  Fristen, mit deren Ablauf personenbezogene Daten spätestens zu löschen
+6.  Fristen, mit deren Ablauf personenbezogene Daten spätestens zu löschen
     sind,
 
 
-8.  die Behandlung von Versicherungsunterlagen einschließlich der
+7.  die Behandlung von Versicherungsunterlagen einschließlich der
     Voraussetzungen, unter denen sie vernichtet werden können, sowie die
     Art, den Umfang und den Zeitpunkt ihrer Vernichtung
 
@@ -2599,17 +2450,13 @@ Landwirts.
 
 
 Sind beide Ehegatten Landwirte, haften sie gesamtschuldnerisch. Die
-Beiträge werden unmittelbar an die zuständige landwirtschaftliche
-Alterskasse gezahlt; die Zahlung soll im Wege des
-Kontenabbuchungsverfahrens durchgeführt werden. Für den Tag der
-Zahlung, die zulässigen Zahlungsmittel und die Reihenfolge der Tilgung
-gelten die für den Gesamtsozialversicherungsbeitrag geltenden
-Bestimmungen entsprechend.
+Beiträge werden unmittelbar an die landwirtschaftliche Alterskasse
+gezahlt; die Zahlung soll im Wege des Kontenabbuchungsverfahrens
+durchgeführt werden. Für den Tag der Zahlung, die zulässigen
+Zahlungsmittel und die Reihenfolge der Tilgung gelten die für den
+Gesamtsozialversicherungsbeitrag geltenden Bestimmungen entsprechend.
 
-(1a) In den verbindlichen Vorgaben für den Beitragseinzug nach § 143e
-Abs. 2 Nr. 8 des Siebten Buches Sozialgesetzbuch ist zusätzlich
-Näheres zur Weiterleitung der Beiträge an den Spitzenverband der
-landwirtschaftlichen Sozialversicherung zu regeln.
+(1a) (weggefallen)
 
 (2) Die landwirtschaftliche Alterskasse rechnet mit Beitragsansprüchen
 gegen Ansprüche auf einen Zuschuß zum Beitrag bis zur Höhe des
@@ -2667,44 +2514,38 @@ Anrechnung gewährter Leistungen zurückzuzahlen.
 (1) Für die Auskunfts- und Mitteilungspflichten von Versicherten gilt
 § 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) Soweit es für die Feststellung der Versicherungspflicht oder die
-Erbringung von Leistungen erforderlich ist, sind
-
-1.  die landwirtschaftlichen Berufsgenossenschaften insbesondere
-    verpflichtet, den landwirtschaftlichen Alterskassen auf Verlangen
-    Mitteilung über den Familiennamen, Vornamen, das Geburtsdatum, die
-    Anschrift und die Unternehmensverhältnisse eines versicherten
-    Landwirts sowie über die Änderung der Verhältnisse zu machen; bei
-    Verpachtung von Flächen ist der landwirtschaftlichen Alterskasse auch
-    der Familienname, Vorname und die Anschrift des Pächters mitzuteilen,
-
-
-2.  die landwirtschaftlichen Berufsgenossenschaften insbesondere
-    verpflichtet, den landwirtschaftlichen Alterskassen auf Verlangen Art
-    und Höhe der Renten an einen Versicherten mitzuteilen,
-
-
-3.  die landwirtschaftlichen Krankenkassen insbesondere verpflichtet, den
-    landwirtschaftlichen Alterskassen auf Verlangen mitzuteilen, ob der
-    Landwirt, sein Ehegatte und die nach diesem Gesetz versicherten
-    mitarbeitenden Familienangehörigen bei ihnen versichert sind.
-
-
-
-
-
-#### Sechster Unterabschnitt - Verfahren bei Beitragszuschüssen
+(2) Die Datenstelle der Träger der Rentenversicherung übermittelt der
+landwirtschaftlichen Alterskasse die in § 196 Absatz 2a Nummer 2 des
+Sechsten Buches Sozialgesetzbuch genannten Daten mit der Maßgabe, dass
+die übermittelten Daten zur Wahrnehmung der Aufgaben nach § 62 und zur
+Feststellung der Versicherungspflicht von Ehegatten oder
+Lebenspartnern nach § 1 Absatz 3 genutzt werden dürfen. Die
+landwirtschaftliche Alterskasse übermittelt hierzu der Datenstelle in
+einem automatisierten Verfahren den Familiennamen oder den
+Lebenspartnerschaftsnamen, den Vornamen, den Familienstand, den Tag,
+den Monat und das Jahr der Geburt und die Anschrift der alleinigen
+oder der Hauptwohnung von nicht verheirateten oder verpartnerten
+Landwirten im Sinne des § 1 Absatz 2 und von Empfängern einer
+Witwenrente oder Witwerrente nach diesem Gesetz. Die Datenstelle führt
+den Abgleich der ihr übermittelten Daten durch. Bei Eheschließung oder
+Begründung einer Lebenspartnerschaft von Landwirten übermittelt die
+Datenstelle das Datum der Eheschließung oder der Begründung einer
+Lebenspartnerschaft und den Vor- und Familiennamen des Ehegatten oder
+Lebenspartners, bei Eheschließung oder Begründung einer
+Lebenspartnerschaft von Empfängern einer Witwenrente oder Witwerrente
+das Datum der Eheschließung oder der Begründung der
+Lebenspartnerschaft. § 196 Absatz 2a Satz 2 des Sechsten Buches
+Sozialgesetzbuch gilt für die Datenstelle mit der Maßgabe, dass die
+Daten erst gelöscht werden, nachdem der Abgleich nach den Sätzen 2 bis
+4 erfolgt ist.
 
 
+#### Sechster Unterabschnitt - (weggefallen)
 
-##### § 74 Überprüfung der Voraussetzungen
 
-Die landwirtschaftlichen Alterskassen haben von Amts wegen bei der
-Bewilligung und während der laufenden Zahlung eines Zuschusses zum
-Beitrag zu überprüfen, ob dessen Voraussetzungen vorliegen; hierbei
-haben sie eng mit den landwirtschaftlichen Krankenkassen und
-landwirtschaftlichen Berufsgenossenschaften zusammenzuarbeiten. Die §§
-60 bis 65 des Ersten Buches Sozialgesetzbuch bleiben unberührt.
+
+##### § 74 (weggefallen)
+
 
 
 #### Siebter Unterabschnitt - Beitragserstattung
@@ -2744,10 +2585,9 @@ gegen Dritte bestanden hat oder besteht.
 
 (3) Ist ein Zuschlag zur oder ein Abschlag von der Steigerungszahl zu
 berücksichtigen, wird der Erstattungsbetrag um die Hälfte des Betrages
-erhöht oder gemindert, der im Zeitpunkt des Endes der Ehezeit oder
-Lebenspartnerschaftszeit als Beitrag für den Zuschlag oder den
-Abschlag zu zahlen gewesen wäre; die Minderung ist bis zur Höhe des
-auf die Ehezeit oder Lebenspartnerschaftszeit entfallenden
+erhöht oder gemindert, der im Zeitpunkt des Endes der Ehezeit als
+Beitrag für den Zuschlag oder den Abschlag zu zahlen gewesen wäre; die
+Minderung ist bis zur Höhe des auf die Ehezeit entfallenden
 Erstattungsbetrages vorzunehmen. Sind Beiträge zur Wiederauffüllung
 der aufgrund eines Versorgungsausgleichs geminderten Anrechte gezahlt
 worden, erhöht sich der Erstattungsbetrag um die Hälfte des hierfür
@@ -2773,7 +2613,7 @@ Beiträge. § 26 Absatz 1 des Vierten Buches Sozialgesetzbuch findet
 keine Anwendung.
 
 
-### Dritter Abschnitt - Beteiligung des Bundes, Finanzbeziehungen und Erstattungen
+### Dritter Abschnitt - Beteiligung des Bundes, Ausgabenbegrenzung
 
 
 
@@ -2788,28 +2628,33 @@ Ausgaben der Alterssicherung der Landwirte eines Kalenderjahres; er
 stellt hiermit zugleich deren dauernde Leistungsfähigkeit sicher.
 
 
-#### Zweiter Unterabschnitt - Finanzverbund
+#### Zweiter Unterabschnitt - Ausgabenbegrenzung
 
 
 
-##### § 79 Finanzverbund
+##### § 79 Reduzierung der Kosten für Verwaltung und Verfahren
 
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-sowie die landwirtschaftlichen Alterskassen tragen die Ausgaben der
-Alterssicherung der Landwirte gemeinsam.
+(1) Die landwirtschaftliche Alterskasse ergreift Maßnahmen, damit die
+jährlichen Verwaltungs- und Verfahrenskosten für die Alterssicherung
+der Landwirte spätestens im Jahr 2016 nicht mehr als 66 Millionen Euro
+betragen. Die Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau legt dem Bundesministerium für Arbeit und Soziales und dem
+Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+bis zum 31. Dezember 2017 einen Bericht über die Entwicklung der
+Verwaltungs- und Verfahrenskosten in der Alterssicherung der Landwirte
+vor. Das Bundesministerium für Arbeit und Soziales und das
+Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+leiten den Bericht an den Deutschen Bundestag und an den Bundesrat
+weiter und fügen eine Stellungnahme bei.
 
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-stellt unter Berücksichtigung der Beitragseinnahmen, der sonstigen
-Einnahmen einer jeden landwirtschaftlichen Alterskasse und der
-Bundesmittel nach § 78 sowie seiner Ausgaben die Leistungsfähigkeit
-der landwirtschaftlichen Alterskassen sicher.
-
-(3) (weggefallen)
+(2) Bei der Ermittlung der Verwaltungs- und Verfahrenskosten nach
+Absatz 1 Satz 1 bleiben Versorgungsaufwendungen und Zuführungen zum
+Altersrückstellungsvermögen unberücksichtigt.
 
 
-##### § 80 Ausgaben für Teilhabe, Betriebs- und Haushaltshilfe sowie Verwaltung und Verfahren
+##### § 80 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
 
-(1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskassen für
+(1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für
 Leistungen zur medizinischen Rehabilitation sowie für Betriebs- und
 Haushaltshilfe werden entsprechend der voraussichtlichen Entwicklung
 der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1 des
@@ -2822,33 +2667,16 @@ wird der sich für das zweite Kalenderjahr nach dem Jahr der
 Überschreitung der Ausgaben nach Satz 1 ergebende Betrag entsprechend
 vermindert.
 
-(2) Absatz 1 gilt für die Verwaltungs- und Verfahrenskosten mit der
-Maßgabe entsprechend, daß auch die Veränderungen der Zahl der
-Leistungsempfänger und der Leistungszugänge sowie der
-Verwaltungsaufgaben zu berücksichtigen sind.
-
-(3) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-bestimmt die auf die landwirtschaftlichen Alterskassen entfallenden
-Anteile an dem Gesamtbetrag für Leistungen zur medizinischen
-Rehabilitation sowie die entsprechenden Anteile für Betriebs- und
-Haushaltshilfe an dem Gesamtbetrag dieser Ausgaben. Dabei ist
-sicherzustellen, daß die Leistungen dem Umfang und den Kosten nach
-einheitlich erbracht werden. Die Sätze 1 und 2 gelten für die
-Verwaltungs- und Verfahrenskosten entsprechend.
-
-(4) Die landwirtschaftlichen Alterskassen dürfen Mittel für
-Bauvorhaben im Bereich der Teilhabe nicht aufwenden.
+(2) Die landwirtschaftliche Alterskasse darf Mittel für Bauvorhaben im
+Bereich der Teilhabe nicht aufwenden.
 
 
-#### Dritter Unterabschnitt - Erstattungen
+#### Dritter Unterabschnitt - (weggefallen)
 
 
 
-##### § 81 Erstattungen
+##### § 81 (weggefallen)
 
-Verwaltungskosten, die einer landwirtschaftlichen Berufsgenossenschaft
-durch die Durchführung dieses Gesetzes entstehen, sind von der bei ihr
-errichteten landwirtschaftlichen Alterskasse zu erstatten.
 
 
 ## Fünftes Kapitel - Sonderregelungen
@@ -2925,6 +2753,18 @@ landwirtschaftlichen Alterskassen endet, bleiben
 versicherungspflichtig, solange das Unternehmen der Landwirtschaft die
 bisherige Mindestgröße nicht unterschreitet.
 
+(1b) Personen, deren Versicherungspflicht als Folge einer durch die
+landwirtschaftliche Alterskasse bis zum 31. Dezember 2013 erfolgten
+Festsetzung der Mindestgröße nach § 1 Absatz 5 endet, bleiben
+versicherungspflichtig, solange das Unternehmen der Landwirtschaft die
+bisherige Mindestgröße nicht unterschreitet. Sie können innerhalb von
+drei Monaten nach Inkrafttreten einer neuen Mindestgröße einen Antrag
+auf Befreiung von der Versicherungspflicht stellen. Die Befreiung
+wirkt vom Inkrafttreten der neuen Mindestgröße an. Für Personen, die
+als Folge einer durch die landwirtschaftliche Alterskasse bis zum 31.
+Dezember 2013 erfolgten Festsetzung der Mindestgröße nach § 1 Absatz 5
+versicherungspflichtig werden, gelten die Sätze 2 und 3 entsprechend.
+
 (2) Personen, die am 31. Dezember 1994 unabhängig von einer Tätigkeit
 als Landwirt oder mitarbeitender Familienangehöriger beitragspflichtig
 waren, bleiben versicherungspflichtig; sie werden auf Antrag mit
@@ -2986,6 +2826,14 @@ festgesetzten Mindesthöhen der Träger der landwirtschaftlichen
 Krankenversicherung im Beitrittsgebiet bis zur Festsetzung der
 Mindestgröße nach § 1 Abs. 5, längstens bis zum 31. Dezember 1995,
 gelten.
+
+(6) Die am 31. Dezember 2012 geltenden Mindestgrößen gelten bis zur
+Festsetzung der Mindestgröße nach § 1 Absatz 5, längstens bis zum 31.
+Dezember 2013, weiter.
+
+(7) Die Versicherungspflicht für nach § 1 Absatz 3 versicherte
+Lebenspartner beginnt mit Inkrafttreten der Gleichstellungsvorschrift
+für Lebenspartner (§ 1a).
 
 
 ##### § 85 Versicherungsfreiheit, Versicherungsbefreiung
@@ -5091,22 +4939,15 @@ Vollendung des 60. Lebensjahres ein Zuschuß zum Beitrag nur gezahlt
 wird, solange noch nicht die Wartezeit von 15 Jahren erfüllt ist.
 
 
-##### § 107a Vorlage der Einkommensteuerbescheide
+##### § 107a Ausfertigung von Einkommensteuerbescheiden
 
-Sind Einkommensteuerbescheide nach Ablauf der in § 32 Abs. 4 Satz 1
-erster Halbsatz genannten Frist vorgelegt worden und ist diese Frist
-vor dem 1. Januar 1997 abgelaufen, ist § 32 Abs. 4 Satz 1 zweiter
-Halbsatz nicht anzuwenden. In diesen Fällen ist der
-Einkommensteuerbescheid vom Beginn des dritten Kalendermonats nach
-seiner Ausfertigung an zu berücksichtigen; ist der Zuschuß zum Beitrag
-vor dem 10. April 1997 festgestellt worden, ist er neu festzustellen.
+§ 32 Absatz 4 und § 34 Absatz 5 in der bis 31. Dezember 2012 geltenden
+Fassung sind weiterhin anzuwenden, wenn der Einkommensteuerbescheid
+vor dem 1. Januar 2013 ausgefertigt worden ist.
 
 
-##### § 107b Ausfertigung von Einkommensteuerbescheiden
+##### § 107b (weggefallen)
 
-§ 32 Abs. 4 und § 34 Abs. 5 in der ab dem 1. August 2001 geltenden
-Fassung sind anzuwenden, wenn der Einkommensteuerbescheid nach dem 31.
-Juli 2001 ausgefertigt ist.
 
 
 #### Siebter Unterabschnitt - Rentenauskunft
@@ -5256,63 +5097,8 @@ zuzurechnen.
 mehr statt.
 
 
-##### § 119a Verwaltungskosten in den Jahren 2009 bis 2014
+##### § 119a (weggefallen)
 
-(1) Abweichend von den Regelungen über Veränderungen der jährlichen
-Ausgaben für Verwaltung und Verfahren (§ 80 Abs. 2) wirkt der
-Spitzenverband der landwirtschaftlichen Sozialversicherung darauf hin,
-dass die jährlichen Verwaltungs- und Verfahrenskosten der
-landwirtschaftlichen Alterskassen bis zum Jahr 2014 um 20 vom Hundert
-der tatsächlichen Ausgaben für Verwaltungs- und Verfahrenskosten für
-das Kalenderjahr 2004 vermindert werden. Vom Jahr 2011 an hat der
-Spitzenverband der landwirtschaftlichen Sozialversicherung jedes Jahr
-dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz und den
-Aufsichtsbehörden der Träger der landwirtschaftlichen
-Sozialversicherung über die Entwicklung der Verwaltungs- und
-Verfahrenskosten bei den einzelnen landwirtschaftlichen Alterskassen
-und bei dem Spitzenverband der landwirtschaftlichen Sozialversicherung
-sowie über die umgesetzten und geplanten Maßnahmen zur Optimierung
-dieser Kosten zu berichten. Dabei ist gesondert auf die
-Schlussfolgerungen einzugehen, welche sich aus dem Benchmarking der
-Träger der landwirtschaftlichen Sozialversicherung ergeben.
-
-(2) Bei der Ermittlung der Verwaltungs- und Verfahrenskosten nach
-Absatz 1 Satz 1 bleiben unberücksichtigt:
-
-1.  Ausgaben für die Ausbildung; das Nähere zum Nachweis dieser Ausgaben
-    wird durch die Aufsichtsbehörden bestimmt,
-
-
-2.  Ausgaben für die Weiterbildung, soweit sie der Umsetzung der Maßnahmen
-    zur Modernisierung des Rechts der landwirtschaftlichen
-    Sozialversicherung dienen, und
-
-
-3.  Versorgungsaufwendungen.
-
-
-
-
-(2a) Die zuständige Aufsichtsbehörde kann in den Jahren 2009 bis 2014
-in Abstimmung mit dem Bundesversicherungsamt eine Überschreitung des
-auf eine landwirtschaftliche Alterskasse entfallenden Anteils an den
-Verwaltungs- und Verfahrenskosten von der Anwendung des § 80 Abs. 1
-Satz 2 ausnehmen, soweit die Überschreitung auf besonderen Umständen
-beruht, die von der landwirtschaftlichen Alterskasse nicht zu
-beeinflussen sind und die voraussichtlich nicht nur einmalig zu einer
-erheblichen Mehrbelastung bei den Verwaltungs- und Verfahrenskosten
-führen.
-
-(3) Auf der Grundlage der Berichte nach Absatz 1 Satz 2 entscheiden
-die Aufsichtsbehörden im Rahmen der Genehmigung der Haushalte nach §
-71d des Vierten Buches Sozialgesetzbuch über von den
-landwirtschaftlichen Alterskassen zu veranlassende Maßnahmen zur
-Reduzierung der Verwaltungs- und Verfahrenskosten. Die §§ 87 bis 90a
-des Vierten Buches Sozialgesetzbuch bleiben unberührt. Die
-Aufsichtsbehörden unterrichten das Bundesministerium für Arbeit und
-Soziales und das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz über die Entscheidungen nach Satz 1.
 
 
 ##### § 120 Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet
@@ -5343,8 +5129,7 @@ für die Personen, die den Tod vorsätzlich herbeigeführt haben.
 Nachzahlung von Beiträgen für Landwirte zur gesetzlichen
 Rentenversicherung gezahlt wurde.
 
-(4) Die Absätze 1 bis 3 gelten entsprechend für hinterbliebene
-Lebenspartner.
+(4) (weggefallen)
 
 
 #### § 122 Leistungshöhe und Anpassung
@@ -5425,12 +5210,10 @@ Erwerbsminderung, wird diese von Amts wegen festgestellt; § 98 Abs. 4
 ist entsprechend anzuwenden.
 
 
-#### § 126 Durchführende Stellen
+#### § 126 Durchführende Stelle
 
-Für die Durchführung der Bestimmungen über die Landabgaberente sind
-die landwirtschaftlichen Alterskassen zuständig. Örtlich zuständig ist
-die landwirtschaftliche Alterskasse, zu der zuletzt Beiträge gezahlt
-worden sind.
+Für die Durchführung der Bestimmungen über die Landabgaberente ist die
+landwirtschaftliche Alterskasse zuständig.
 
 
 #### § 127 Kostentragung

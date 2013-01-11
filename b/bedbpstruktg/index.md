@@ -97,16 +97,16 @@ Ruhestand versetzt werden, wenn
 ## § 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember
-2012 auf Antrag in den Ruhestand versetzt werden, wenn
+2016 auf Antrag in den Ruhestand versetzt werden, wenn
 
 1.  sie das 55. Lebensjahr vollendet haben,
 
 
 2.  ihre Verwendung in Bereichen mit Personalbedarf bei der sie
     beschäftigenden Aktiengesellschaft und in einem Unternehmen im Sinne
-    des § 4 Abs. 4 Satz 2 und 3 des Postpersonalrechtsgesetzes nicht
-    möglich ist und der Aktiengesellschaft auch keine
-    Verwendungsmöglichkeit in Verwaltungen bekannt ist und
+    des § 4 Abs. 4 Satz 2 des Postpersonalrechtsgesetzes nicht möglich ist
+    und der Aktiengesellschaft auch keine Verwendungsmöglichkeit in
+    Verwaltungen bekannt ist und
 
 
 3.  betriebliche oder betriebswirtschaftliche Belange nicht

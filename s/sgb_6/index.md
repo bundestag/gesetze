@@ -20,9 +20,9 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 14 G v. 23.10.2012 I 2246
+:   Art. 5 G v. 20.12.2012 I 2781
 
-Stand: Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 2.12.2011 I 2421 ist berücksichtigt
+Stand: Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 26.11.2012 I 2361 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
 
@@ -155,8 +155,7 @@ Als Arbeitnehmer im Sinne des Satzes 1 Nr. 1, 2, 7 und 9 gelten
     Erfahrungen im Rahmen beruflicher Bildung erwerben,
 
 
-2.  nicht Personen, die als geringfügig Beschäftigte nach § 5 Abs. 2 Satz
-    2 auf die Versicherungsfreiheit verzichtet haben,
+2.  nicht Personen, die geringfügig beschäftigt sind,
 
 
 3.  für Gesellschafter auch die Arbeitnehmer der Gesellschaft.
@@ -176,7 +175,9 @@ Versicherungspflichtig sind Personen in der Zeit,
     nicht erwerbsmäßig wenigstens 14 Stunden wöchentlich in seiner
     häuslichen Umgebung pflegen (nicht erwerbsmäßig tätige
     Pflegepersonen), wenn der Pflegebedürftige Anspruch auf Leistungen aus
-    der sozialen oder einer privaten Pflegeversicherung hat,
+    der sozialen oder einer privaten Pflegeversicherung hat; dies gilt
+    auch, wenn die Mindeststundenzahl nur durch die Pflege mehrerer
+    Pflegebedürftiger erreicht wird,
 
 
 2.  in der sie aufgrund gesetzlicher Pflicht Wehrdienst oder Zivildienst
@@ -215,16 +216,17 @@ Versicherungspflichtig sind Personen in der Zeit,
 
 
 
-Pflegepersonen, die für ihre Tätigkeit von dem Pflegebedürftigen ein
-Arbeitsentgelt erhalten, das das dem Umfang der Pflegetätigkeit
-entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht
-übersteigt, gelten als nicht erwerbsmäßig tätig; sie sind insoweit
-nicht nach § 1 Satz 1 Nr. 1 versicherungspflichtig. Nicht erwerbsmäßig
-tätige Pflegepersonen, die daneben regelmäßig mehr als 30 Stunden
-wöchentlich beschäftigt oder selbständig tätig sind, sind nicht nach
-Satz 1 Nr. 1a versicherungspflichtig. Wehrdienstleistende oder
-Zivildienstleistende, die für die Zeit ihres Dienstes Arbeitsentgelt
-weitererhalten oder Leistungen für Selbständige nach § 13a des
+Pflegepersonen, die für ihre Tätigkeit von dem oder den
+Pflegebedürftigen ein Arbeitsentgelt erhalten, das das dem Umfang der
+jeweiligen Pflegetätigkeit entsprechende Pflegegeld im Sinne der §§ 37
+und 123 des Elften Buches nicht übersteigt, gelten als nicht
+erwerbsmäßig tätig; sie sind insoweit nicht nach § 1 Satz 1 Nr. 1
+versicherungspflichtig. Nicht erwerbsmäßig tätige Pflegepersonen, die
+daneben regelmäßig mehr als 30 Stunden wöchentlich beschäftigt oder
+selbständig tätig sind, sind nicht nach Satz 1 Nr. 1a
+versicherungspflichtig. Wehrdienstleistende oder Zivildienstleistende,
+die für die Zeit ihres Dienstes Arbeitsentgelt weitererhalten oder
+Leistungen für Selbständige nach § 13a des
 Unterhaltssicherungsgesetzes erhalten, sind nicht nach Satz 1 Nr. 2
 versicherungspflichtig; die Beschäftigung oder selbständige Tätigkeit
 gilt in diesen Fällen als nicht unterbrochen. Trifft eine
@@ -392,40 +394,28 @@ Gewährleistung von Anwartschaften begründet die Versicherungsfreiheit
 von Beginn des Monats an, in dem die Zusicherung der Anwartschaften
 vertraglich erfolgt.
 
-(2) Versicherungsfrei sind Personen, die
+(2) Versicherungsfrei sind Personen, die eine
 
-1.  eine geringfügige Beschäftigung (§ 8 Abs. 1, § 8a Viertes Buch),
-
-
-2.  eine geringfügige selbständige Tätigkeit (§ 8 Abs. 3, § 8a Viertes
-    Buch) oder
+1.  Beschäftigung nach § 8 Absatz 1 Nummer 2 oder § 8a in Verbindung mit §
+    8 Absatz 1 Nummer 2 des Vierten Buches,
 
 
-3.  eine geringfügige nicht erwerbsmäßige Pflegetätigkeit
+2.  geringfügige selbständige Tätigkeit nach § 8 Absatz 3 in Verbindung
+    mit § 8 Absatz 1 oder nach § 8 Absatz 3 in Verbindung mit den §§ 8a
+    und 8 Absatz 1 des Vierten Buches oder
+
+
+3.  geringfügige nicht erwerbsmäßige Pflegetätigkeit
 
 
 
 ausüben, in dieser Beschäftigung, selbständigen Tätigkeit oder
-Pflegetätigkeit; § 8 Abs. 2 des Vierten Buches ist mit der Maßgabe
+Pflegetätigkeit. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe
 anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen
-Beschäftigung oder nicht geringfügigen selbständigen Tätigkeit nur
-erfolgt, wenn diese versicherungspflichtig ist. Satz 1 Nr. 1 gilt
-nicht für geringfügig Beschäftigte nach § 8 Abs. 1 Nr. 1 und § 8a des
-Vierten Buches, die durch schriftliche Erklärung gegenüber dem
-Arbeitgeber auf die Versicherungsfreiheit verzichten; der Verzicht
-kann nur mit Wirkung für die Zukunft und bei mehreren geringfügigen
-Beschäftigungen nur einheitlich erklärt werden und ist für die Dauer
-der Beschäftigungen bindend. Satz 1 Nr. 1 und 2 gilt nicht für
-Personen, die im Rahmen betrieblicher Berufsbildung, nach dem
-Jugendfreiwilligendienstegesetz, nach dem
-Bundesfreiwilligendienstgesetz im Rahmen des
-Bundesfreiwilligendienstes oder nach § 1 Satz 1 Nr. 2 bis 4
-beschäftigt sind, von der Möglichkeit einer stufenweisen
-Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 Fünftes Buch)
-Gebrauch machen oder nach § 2 Satz 1 Nr. 10 versicherungspflichtig
-sind. Eine nicht erwerbsmäßige Pflegetätigkeit ist geringfügig, wenn
-die Beitragsbemessungsgrundlage für die Pflegetätigkeit (§ 166 Abs. 2)
-auf den Monat bezogen 400 Euro nicht übersteigt; mehrere nicht
+selbständigen Tätigkeit nur erfolgt, wenn diese versicherungspflichtig
+ist. Eine nicht erwerbsmäßige Pflegetätigkeit ist geringfügig, wenn
+die Beitragsbemessungsgrundlage für die Pflegetätigkeit (§ 166 Absatz
+2) auf den Monat bezogen 400 Euro nicht übersteigt; mehrere nicht
 erwerbsmäßige Pflegetätigkeiten sind zusammenzurechnen.
 
 (3) Versicherungsfrei sind Personen, die während der Dauer eines
@@ -499,9 +489,7 @@ c)  aufgrund dieser Beiträge Leistungen für den Fall verminderter
 
 
 4.  Gewerbetreibende in Handwerksbetrieben, wenn für sie mindestens 18
-    Jahre lang Pflichtbeiträge gezahlt worden sind, ausgenommen
-    bevollmächtigte Bezirksschornsteinfeger oder
-    Bezirksschornsteinfegermeister.
+    Jahre lang Pflichtbeiträge gezahlt worden sind.
 
 
 
@@ -550,7 +538,21 @@ einer selbständigen Tätigkeit liegt nicht vor, wenn eine bestehende
 selbständige Existenz lediglich umbenannt oder deren Geschäftszweck
 gegenüber der vorangegangenen nicht wesentlich verändert worden ist.
 
-(1b) (weggefallen)
+(1b) Personen, die eine geringfügige Beschäftigung nach § 8 Absatz 1
+Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
+Buches ausüben, werden auf Antrag von der Versicherungspflicht
+befreit. Der schriftliche Befreiungsantrag ist dem Arbeitgeber zu
+übergeben. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe
+anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen
+Beschäftigung nur erfolgt, wenn diese versicherungspflichtig ist. Der
+Antrag kann bei mehreren geringfügigen Beschäftigungen nur einheitlich
+gestellt werden und ist für die Dauer der Beschäftigungen bindend.
+Satz 1 gilt nicht für Personen, die im Rahmen betrieblicher
+Berufsbildung, nach dem Jugendfreiwilligendienstegesetz, nach dem
+Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis 4
+beschäftigt sind oder von der Möglichkeit einer stufenweisen
+Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften
+Buches) Gebrauch machen.
 
 (2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen
 des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers.
@@ -567,11 +569,32 @@ nachdem in den Fällen
 
 
 
-das Vorliegen der Voraussetzungen bestätigt hat.
+das Vorliegen der Voraussetzungen bestätigt hat. In den Fällen des
+Absatzes 1b gilt die Befreiung als erteilt, wenn die nach § 28i Satz 5
+des Vierten Buches zuständige Einzugsstelle nicht innerhalb eines
+Monats nach Eingang der Meldung des Arbeitgebers nach § 28a des
+Vierten Buches dem Befreiungsantrag des Beschäftigten widerspricht.
+Die Vorschriften des Zehnten Buches über die Bestandskraft von
+Verwaltungsakten und über das Rechtsbehelfsverfahren gelten
+entsprechend.
 
 (4) Die Befreiung wirkt vom Vorliegen der Befreiungsvoraussetzungen
 an, wenn sie innerhalb von drei Monaten beantragt wird, sonst vom
-Eingang des Antrags an.
+Eingang des Antrags an. In den Fällen des Absatzes 1b wirkt die
+Befreiung bei Vorliegen der Befreiungsvoraussetzungen nach Eingang der
+Meldung des Arbeitgebers nach § 28a des Vierten Buches bei der
+zuständigen Einzugsstelle rückwirkend vom Beginn des Monats, in dem
+der Antrag des Beschäftigten dem Arbeitgeber zugegangen ist, wenn der
+Arbeitgeber den Befreiungsantrag der Einzugsstelle mit der ersten
+folgenden Entgeltabrechnung, spätestens aber innerhalb von sechs
+Wochen nach Zugang, gemeldet und die Einzugsstelle innerhalb eines
+Monats nach Eingang der Meldung des Arbeitgebers nicht widersprochen
+hat. Erfolgt die Meldung des Arbeitgebers später, wirkt die Befreiung
+vom Beginn des auf den Ablauf der Widerspruchsfrist nach Absatz 3
+folgenden Monats. In den Fällen, in denen bei einer
+Mehrfachbeschäftigung die Befreiungsvoraussetzungen vorliegen, hat die
+Einzugsstelle die weiteren Arbeitgeber über den Zeitpunkt der Wirkung
+der Befreiung unverzüglich durch eine Meldung zu unterrichten.
 
 (5) Die Befreiung ist auf die jeweilige Beschäftigung oder
 selbständige Tätigkeit beschränkt. Sie erstreckt sich in den Fällen
@@ -1269,7 +1292,7 @@ zusammengerechnet. Nicht als Arbeitsentgelt gilt das Entgelt, das
 
 (3) Die Hinzuverdienstgrenze beträgt
 
-1.  bei einer Rente wegen Alters als Vollrente 400 Euro,
+1.  bei einer Rente wegen Alters als Vollrente 450 Euro,
 
 
 2.  bei einer Rente wegen Alters als Teilrente von
@@ -1919,7 +1942,7 @@ ermittelt werden, werden nicht angerechnet.
 (Fünftes Kapitel) angerechnet.
 
 
-###### § 52 Wartezeiterfüllung durch Versorgungsausgleich, Rentensplitting und Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
+###### § 52 Wartezeiterfüllung durch Versorgungsausgleich, Rentensplitting und Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung
 
 (1) Ist ein Versorgungsausgleich in der gesetzlichen
 Rentenversicherung allein zugunsten von Versicherten durchgeführt,
@@ -1947,16 +1970,17 @@ Splittingzeit fallenden Kalendermonate nicht bereits auf die Wartezeit
 anzurechnen sind.
 
 (2) Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus
-geringfügiger versicherungsfreier Beschäftigung ermittelt, wird auf
-die Wartezeit die volle Anzahl an Monaten angerechnet, die sich
-ergibt, wenn die Zuschläge an Entgeltpunkten durch die Zahl 0,0313
-geteilt wird. Zuschläge an Entgeltpunkten aus einer geringfügigen
-versicherungsfreien Beschäftigung, die in Kalendermonaten ausgeübt
-wurde, die bereits auf die Wartezeit anzurechnen sind, bleiben
-unberücksichtigt. Wartezeitmonate für in die Ehezeit,
-Lebenspartnerschaftszeit oder Splittingzeit fallende Kalendermonate
-einer geringfügigen versicherungsfreien Beschäftigung sind vor
-Anwendung von Absatz 1 oder 1a gesondert zu ermitteln.
+geringfügiger Beschäftigung, für die Beschäftigte nach § 6 Absatz 1b
+von der Versicherungspflicht befreit sind, ermittelt, wird auf die
+Wartezeit die volle Anzahl an Monaten angerechnet, die sich ergibt,
+wenn die Zuschläge an Entgeltpunkten durch die Zahl 0,0313 geteilt
+wird. Zuschläge an Entgeltpunkten aus einer geringfügigen
+Beschäftigung, die in Kalendermonaten ausgeübt wurde, die bereits auf
+die Wartezeit anzurechnen sind, bleiben unberücksichtigt.
+Wartezeitmonate für in die Ehezeit, Lebenspartnerschaftszeit oder
+Splittingzeit fallende Kalendermonate einer geringfügigen
+Beschäftigung sind vor Anwendung von Absatz 1 oder 1a gesondert zu
+ermitteln.
 
 
 ###### § 53 Vorzeitige Wartezeiterfüllung
@@ -2247,12 +2271,7 @@ Zeiten auch Pflichtbeitragszeiten sind.
 
     d)  deren Bedarf sich nach § 12 Absatz 1 Nummer 1 des
         Bundesausbildungsförderungsgesetzes, nach § 62 Absatz 1 oder § 124
-        Absatz 1 Nummer 1 des Dritten Buches bemessen hat oder
-
-
-    e)  die versicherungspflichtig beschäftigt oder versicherungspflichtig
-        selbständig tätig gewesen sind oder eine Leistung bezogen haben, wegen
-        der sie nach § 3 Satz 1 Nummer 3 versicherungspflichtig gewesen sind.
+        Absatz 1 Nummer 1 des Dritten Buches bemessen hat.
 
 
 
@@ -2495,7 +2514,7 @@ Entgeltpunkte für
 
 
 6.  Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger
-    versicherungsfreier Beschäftigung,
+    Beschäftigung,
 
 
 7.  Arbeitsentgelt aus nach § 23b Abs. 2 Satz 1 bis 4 des Vierten Buches
@@ -3247,7 +3266,10 @@ Abänderungsverfahren der Eingang des Antrags auf Durchführung oder
 Abänderung des Versorgungsausgleichs beim Familiengericht, in Fällen
 der Aussetzung des Verfahrens über den Versorgungsausgleich der
 Zeitpunkt der Wiederaufnahme des Verfahrens über den
-Versorgungsausgleich.
+Versorgungsausgleich. Ist nach der Entscheidung des Familiengerichts
+der Kapitalbetrag zu verzinsen, tritt an die Stelle der in den Sätzen
+2 und 3 genannten Umrechnungszeitpunkte der Zeitpunkt, bis zu dem nach
+der Entscheidung des Familiengerichts Zinsen zu berechnen sind.
 
 (5) Ein Zuschlag an Entgeltpunkten, die sich aus der Zahlung von
 Beiträgen zur Begründung einer Rentenanwartschaft oder zur
@@ -3287,11 +3309,12 @@ sie bis zu einem Zeitpunkt gezahlt worden sind, bis zu dem
 Entgeltpunkte für freiwillig gezahlte Beiträge zu ermitteln sind.
 
 
-###### § 76b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
+###### § 76b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung
 
-(1) Für Arbeitsentgelt aus geringfügiger versicherungsfreier
-Beschäftigung, für das der Arbeitgeber einen Beitragsanteil getragen
-hat, werden Zuschläge an Entgeltpunkten ermittelt.
+(1) Für Arbeitsentgelt aus geringfügiger Beschäftigung, für die
+Beschäftigte nach § 6 Absatz 1b von der Versicherungspflicht befreit
+sind, und für das der Arbeitgeber einen Beitragsanteil getragen hat,
+werden Zuschläge an Entgeltpunkten ermittelt.
 
 (2) Die Zuschläge an Entgeltpunkten werden ermittelt, indem das
 Arbeitsentgelt, das beitragspflichtig wäre, wenn die Beschäftigung
@@ -3346,8 +3369,7 @@ bisher der Rente zugrunde liegenden Entgeltpunkte auszugehen.
 Für die Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen nach
 Beginn einer Rente wegen Alters gelten die Regelungen zur Ermittlung
 von Entgeltpunkten für Beitragszeiten oder von Zuschlägen für
-Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
-entsprechend.
+Arbeitsentgelt aus geringfügiger Beschäftigung entsprechend.
 
 
 ###### § 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung
@@ -4181,7 +4203,7 @@ geleistet.
     1,5 Entgeltpunkten,
 
 
-2.  bei einer Rente wegen voller Erwerbsminderung in voller Höhe 400 Euro,
+2.  bei einer Rente wegen voller Erwerbsminderung in voller Höhe 450 Euro,
 
 
 3.  bei einer Rente wegen voller Erwerbsminderung
@@ -4986,7 +5008,7 @@ aus
 
 
 6.  Zuschlägen an Entgeltpunkten für Arbeitsentgelt aus geringfügiger
-    versicherungsfreier Beschäftigung,
+    Beschäftigung,
 
 
 7.  zusätzlichen Entgeltpunkten für Arbeitsentgelt aus nach § 23b Abs. 2
@@ -7705,7 +7727,7 @@ Beitragspflichtige Einnahmen sind
 5.  bei Personen, deren Beschäftigung nach dem Einkommensteuerrecht als
     selbständige Tätigkeit bewertet wird, ein Einkommen in Höhe der
     Bezugsgröße, bei Nachweis eines niedrigeren oder höheren Einkommens
-    jedoch dieses Einkommen, mindestens jedoch monatlich 400 Euro. § 165
+    jedoch dieses Einkommen, mindestens jedoch monatlich 450 Euro. § 165
     Abs. 1 Satz 2 bis 10 gilt entsprechend.
 
 
@@ -7783,11 +7805,9 @@ Buches.
 
 (7) (weggefallen)
 
-(8) Bei Arbeitnehmern, die eine geringfügige Beschäftigung ausüben und
-in dieser Beschäftigung versicherungspflichtig sind, weil sie nach § 5
-Abs. 2 Satz 2 auf die Versicherungsfreiheit verzichtet haben, ist
-beitragspflichtige Einnahme das Arbeitsentgelt, mindestens jedoch der
-Betrag in Höhe von 155 Euro.
+(8) Bei Arbeitnehmern, die eine geringfügige Beschäftigung ausüben,
+ist beitragspflichtige Einnahme das Arbeitsentgelt, mindestens jedoch
+der Betrag in Höhe von 175 Euro.
 
 (9) Bei Arbeitnehmern, die in einer Beschäftigung Leistungen der
 Entgeltsicherung nach § 417 des Dritten Buches erhalten, gilt auch der
@@ -7809,27 +7829,27 @@ Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
 zum oberen Grenzbetrag der Gleitzone (§ 20 Abs. 2 Viertes Buch) mehr
 als geringfügig beschäftigt sind, ist beitragspflichtige Einnahme der
 Betrag, der sich aus folgender Formel ergibt:
-F x 400 + (2 - F) x (AE - 400).             Dabei ist AE das
-Arbeitsentgelt und F der Faktor, der sich ergibt, wenn der Wert 30 vom
-Hundert durch den Gesamtsozialversicherungsbeitragssatz des
-Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden
-ist, geteilt wird. Der Gesamtsozialversicherungsbeitragssatz eines
-Kalenderjahres ergibt sich aus der Summe der zum 1. Januar desselben
-Kalenderjahres geltenden Beitragssätze in der allgemeinen
-Rentenversicherung, in der gesetzlichen Pflegeversicherung sowie zur
-Arbeitsförderung und des allgemeinen Beitragssatzes in der
-gesetzlichen Krankenversicherung. Für die Zeit vom 1. Juli 2006 bis
-zum 31. Dezember 2006 beträgt der Faktor F 0,7160. Der
-Gesamtsozialversicherungsbeitragssatz und der Faktor F sind vom
-Bundesministerium für Arbeit und Soziales bis zum 31. Dezember eines
-Jahres für das folgende Kalenderjahr im Bundesanzeiger bekannt zu
-geben. Abweichend von Satz 1 ist beitragspflichtige Einnahme das
-Arbeitsentgelt aus der versicherungspflichtigen Beschäftigung, wenn
-der Arbeitnehmer dies schriftlich gegenüber dem Arbeitgeber erklärt.
-Die Erklärung kann nur mit Wirkung für die Zukunft und bei mehreren
-Beschäftigungen nach Satz 1 nur einheitlich abgegeben werden und ist
-für die Dauer der Beschäftigungen bindend. Satz 1 gilt nicht für
-Personen, die zu ihrer Berufsausbildung beschäftigt sind.
+Dabei ist AE das Arbeitsentgelt und F der Faktor, der sich ergibt,
+wenn der Wert 30 vom Hundert durch den
+Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der
+Anspruch auf das Arbeitsentgelt entstanden ist, geteilt wird. Der
+Gesamtsozialversicherungsbeitragssatz eines Kalenderjahres ergibt sich
+aus der Summe der zum 1. Januar desselben Kalenderjahres geltenden
+Beitragssätze in der allgemeinen Rentenversicherung, in der
+gesetzlichen Pflegeversicherung sowie zur Arbeitsförderung und des
+allgemeinen Beitragssatzes in der gesetzlichen Krankenversicherung.
+Für die Zeit vom 1. Juli 2006 bis zum 31. Dezember 2006 beträgt der
+Faktor F 0,7160. Der Gesamtsozialversicherungsbeitragssatz und der
+Faktor F sind vom Bundesministerium für Arbeit und Soziales bis zum
+31\. Dezember eines Jahres für das folgende Kalenderjahr im
+Bundesanzeiger bekannt zu geben. Abweichend von Satz 1 ist
+beitragspflichtige Einnahme das Arbeitsentgelt aus der
+versicherungspflichtigen Beschäftigung, wenn der Arbeitnehmer dies
+schriftlich gegenüber dem Arbeitgeber erklärt. Die Erklärung kann nur
+mit Wirkung für die Zukunft und bei mehreren Beschäftigungen nach Satz
+1 nur einheitlich abgegeben werden und ist für die Dauer der
+Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die zu ihrer
+Berufsausbildung beschäftigt sind.
 
 
 ###### § 164
@@ -7843,7 +7863,7 @@ Personen, die zu ihrer Berufsausbildung beschäftigt sind.
 
 1.  bei selbständig Tätigen ein Arbeitseinkommen in Höhe der Bezugsgröße,
     bei Nachweis eines niedrigeren oder höheren Arbeitseinkommens jedoch
-    dieses Arbeitseinkommen, mindestens jedoch monatlich 400 Euro,
+    dieses Arbeitseinkommen, mindestens jedoch monatlich 450 Euro,
 
 
 2.  bei Seelotsen das Arbeitseinkommen,
@@ -8043,7 +8063,8 @@ Pflegepersonen bei Pflege eines
 
 
 3.  erheblich Pflegebedürftigen (§ 15 Abs. 1 Nr. 1 Elftes Buch) 26,6667
-    vom Hundert der Bezugsgröße.
+    vom Hundert der Bezugsgröße, wenn er mindestens 14 Stunden in der
+    Woche gepflegt wird.
 
 
 
@@ -8051,13 +8072,21 @@ Pflegepersonen bei Pflege eines
 gemeinsam aus, sind beitragspflichtige Einnahmen bei jeder
 Pflegeperson der Teil des Höchstwerts der jeweiligen Pflegestufe, der
 dem Umfang ihrer Pflegetätigkeit im Verhältnis zum Umfang der
-Pflegetätigkeit insgesamt entspricht.
+Pflegetätigkeit insgesamt entspricht. Pflegetätigkeiten im Sinne des
+Absatzes 3 bleiben bei der Berechnung nach Satz 2 unberücksichtigt.
+
+(3) Besteht Versicherungspflicht als Pflegeperson nur, weil mehrere
+Pflegebedürftige gepflegt werden, sind beitragspflichtige Einnahmen
+26,6667 vom Hundert der Bezugsgröße. Die Aufteilung der
+beitragspflichtigen Einnahmen berechnet sich nach dem Umfang der
+jeweiligen Pflegetätigkeit im Verhältnis zum Umfang der
+Pflegetätigkeit der Pflegeperson insgesamt.
 
 
 ###### § 167 Freiwillig Versicherte
 
 Die Mindestbeitragsbemessungsgrundlage beträgt für freiwillig
-Versicherte monatlich 400 Euro.
+Versicherte monatlich 450 Euro.
 
 
 ##### Dritter Titel - Verteilung der Beitragslast
@@ -8229,7 +8258,7 @@ Die Beiträge werden getragen
         Leistungsträger; die Beiträge werden auch dann von den
         Leistungsträgern getragen, wenn die Bezieher der Leistung zur
         Berufsausbildung beschäftigt sind und das der Leistung zugrunde
-        liegende Arbeitsentgelt auf den Monat bezogen 400 Euro nicht
+        liegende Arbeitsentgelt auf den Monat bezogen 450 Euro nicht
         übersteigt,
 
 
@@ -8305,7 +8334,7 @@ Rentenversicherung versichert sind.
 Freiwillig Versicherte tragen ihre Beiträge selbst.
 
 
-###### § 172 Arbeitgeberanteil bei Versicherungsfreiheit
+###### § 172 Arbeitgeberanteil bei Versicherungsfreiheit und Befreiung von der Versicherungspflicht
 
 (1) Für Beschäftigte, die
 
@@ -8333,8 +8362,8 @@ Beschäftigte nach § 1 Satz 1 Nr. 2.
 (2) (weggefallen)
 
 (3) Für Beschäftigte nach § 8 Abs. 1 Nr. 1 des Vierten Buches, die in
-dieser Beschäftigung versicherungsfrei oder von der
-Versicherungspflicht befreit sind oder die nach § 5 Abs. 4
+dieser Beschäftigung nach § 6 Absatz 1b oder nach anderen Vorschriften
+von der Versicherungspflicht befreit sind oder die nach § 5 Abs. 4
 versicherungsfrei sind, tragen die Arbeitgeber einen Beitragsanteil in
 Höhe von 15 vom Hundert des Arbeitsentgelts, das beitragspflichtig
 wäre, wenn die Beschäftigten versicherungspflichtig wären. Dies gilt
@@ -8344,11 +8373,12 @@ ableisten, das nicht in ihrer Studienordnung oder Prüfungsordnung
 vorgeschrieben ist.
 
 (3a) Für Beschäftigte in Privathaushalten nach § 8a Satz 1 des Vierten
-Buches, die in dieser Beschäftigung versicherungsfrei oder von der
-Versicherungspflicht befreit sind oder die nach § 5 Abs. 4
-versicherungsfrei sind, tragen die Arbeitgeber einen Beitragsanteil in
-Höhe von 5 vom Hundert des Arbeitsentgelts, das beitragspflichtig
-wäre, wenn die Beschäftigten versicherungspflichtig wären.
+Buches, die in dieser Beschäftigung nach § 6 Absatz 1b oder nach
+anderen Vorschriften von der Versicherungspflicht befreit sind oder
+die nach § 5 Abs. 4 versicherungsfrei sind, tragen die Arbeitgeber
+einen Beitragsanteil in Höhe von 5 vom Hundert des Arbeitsentgelts,
+das beitragspflichtig wäre, wenn die Beschäftigten
+versicherungspflichtig wären.
 
 (4) Für den Beitragsanteil des Arbeitgebers gelten die Vorschriften
 des Dritten Abschnitts des Vierten Buches sowie die
@@ -9039,6 +9069,9 @@ ergebende Zeitpunkt
 
 
 
+Ist eine Verzinsung der Beiträge vereinbart worden, tritt an die
+Stelle der in den Sätzen 1 bis 3 genannten Zeitpunkte der Zeitpunkt,
+bis zu dem Zinsen zu berechnen sind.
 
 (7) Sind Beiträge nach Absatz 1 Nr. 1 gezahlt worden und ergeht eine
 Entscheidung zur Abänderung des Wertausgleichs nach der Scheidung,
@@ -9654,8 +9687,8 @@ maßgebend, die zum Zeitpunkt der Nachzahlung gelten.
 versicherungsfrei oder von der Versicherungspflicht befreit sind, wenn
 sie die allgemeine Wartezeit nicht erfüllt haben. Dies gilt nicht für
 Personen, die wegen Geringfügigkeit einer Beschäftigung oder
-selbständigen Tätigkeit versicherungsfrei sind. Beiträge werden nicht
-erstattet,
+selbständigen Tätigkeit versicherungsfrei oder von der
+Versicherungspflicht befreit sind. Beiträge werden nicht erstattet,
 
 1.  wenn während einer Versicherungsfreiheit oder Befreiung von der
     Versicherungspflicht von dem Recht der freiwilligen Versicherung nach
@@ -9920,7 +9953,9 @@ vom Hundert des Arbeitsentgelts in der gesetzlichen Rentenversicherung
 sind mit dem Bundeszuschuss nach Absatz 2 des auf die Abrechnung
 folgenden Haushaltsjahres zu verrechnen; Ausgangsbetrag für den
 Bundeszuschuss ist der jeweils zuletzt festgestellte Bundeszuschuss
-nach Absatz 2 ohne Minderungsbetrag.
+nach Absatz 2 ohne Minderungsbetrag. Abweichend von Satz 1 beträgt der
+pauschalierte Minderungsbetrag im Jahr 2013 1,34 Milliarden Euro und
+in den Jahren 2014 bis 2016 jeweils 1,59 Milliarden Euro.
 
 (3) Der Bund zahlt zur pauschalen Abgeltung nicht beitragsgedeckter
 Leistungen an die allgemeine Rentenversicherung in jedem Kalenderjahr
@@ -10542,25 +10577,47 @@ versicherungspflichtig waren und nach § 4 Abs. 3a die Voraussetzungen
 für die Versicherungspflicht nicht mehr erfüllen, bleiben für die Zeit
 des Bezugs der jeweiligen Sozialleistung versicherungspflichtig.
 
-(5) (weggefallen)
+(5) Personen, die am 31. Dezember 2012 als Beschäftigte nach § 5
+Absatz 2 in der bis zum 31. Dezember 2012 geltenden Fassung wegen
+Verzichts auf die Versicherungsfreiheit in einer geringfügigen
+Beschäftigung oder mehreren geringfügigen Beschäftigungen
+versicherungspflichtig waren, bleiben insoweit versicherungspflichtig;
+§ 6 Absatz 1b in der ab dem 1. Januar 2013 geltenden Fassung gilt für
+diese Personen bezogen auf die am 31. Dezember 2012 ausgeübte
+Beschäftigung und weitere Beschäftigungen, auf die sich der Verzicht
+auf die Versicherungsfreiheit nach § 5 Absatz 2 in der bis zum 31.
+Dezember 2012 geltenden Fassung erstrecken würde, nicht.
 
 (6) Personen, die am 31. März 2003 in einer Beschäftigung oder
 selbständigen Tätigkeit ohne einen Verzicht auf die
-Versicherungsfreiheit (§ 5 Abs. 2 Satz 2) versicherungspflichtig
-waren, die die Merkmale einer geringfügigen Beschäftigung oder
-selbständigen Tätigkeit in der ab 1. April 2003 geltenden Fassung von
-§ 8 des Vierten Buches oder die Merkmale einer geringfügigen
-Beschäftigung oder selbständigen Tätigkeit im Privathaushalt (§ 8a
-Viertes Buch) erfüllt, bleiben in dieser Beschäftigung oder
-selbständigen Tätigkeit versicherungspflichtig. Sie werden auf ihren
-Antrag von der Versicherungspflicht befreit. Die Befreiung wirkt vom
-1\. April 2003 an, wenn sie bis zum 30. Juni 2003 beantragt wird, sonst
-vom Eingang des Antrags an. Sie ist auf die jeweilige Beschäftigung
-oder selbständige Tätigkeit beschränkt. Für Personen, die die
+Versicherungsfreiheit (§ 5 Absatz 2 Satz 2 in der bis zum 31. Dezember
+2012 geltenden Fassung) versicherungspflichtig waren, die die Merkmale
+einer geringfügigen Beschäftigung oder selbständigen Tätigkeit in der
+ab 1. April 2003 geltenden Fassung von § 8 des Vierten Buches oder die
+Merkmale einer geringfügigen Beschäftigung oder selbständigen
+Tätigkeit im Privathaushalt (§ 8a Viertes Buch) erfüllt, bleiben in
+dieser Beschäftigung oder selbständigen Tätigkeit
+versicherungspflichtig. Sie werden auf ihren Antrag von der
+Versicherungspflicht befreit. Die Befreiung wirkt vom 1. April 2003
+an, wenn sie bis zum 30. Juni 2003 beantragt wird, sonst vom Eingang
+des Antrags an. Sie ist auf die jeweilige Beschäftigung oder
+selbständige Tätigkeit beschränkt. Für Personen, die die
 Voraussetzungen für die Versicherungspflicht nach § 2 Satz 1 Nr. 10
 erfüllen, endet die Befreiung nach Satz 2 am 31. Juli 2004.
 
-(7) (weggefallen)
+(7) Selbständig Tätige, die am 31. Dezember 2012 nicht
+versicherungspflichtig waren, weil sie versicherungspflichtige
+Arbeitnehmer beschäftigt haben, bleiben in dieser Tätigkeit nicht
+versicherungspflichtig, wenn der beschäftigte Arbeitnehmer nicht
+geringfügig beschäftigt nach § 8 Absatz 1 Nummer 1 des Vierten Buches
+in der bis zum 31. Dezember 2012 geltenden Fassung ist. Personen, die
+am 31. Dezember 2012 in einer selbständigen Tätigkeit
+versicherungspflichtig waren, die die Merkmale einer geringfügigen
+Tätigkeit in der ab dem 1. Januar 2013 geltenden Fassung von § 8
+Absatz 3 in Verbindung mit § 8 Absatz 1 Nummer 1 oder § 8 Absatz 3 in
+Verbindung mit den §§ 8a und 8 Absatz 1 Nummer 1 des Vierten Buches
+erfüllt, bleiben in dieser selbständigen Tätigkeit bis zum 31.
+Dezember 2014 versicherungspflichtig.
 
 (8) (weggefallen)
 
@@ -10652,6 +10709,18 @@ dieser Beschäftigung versicherungsfrei.
 (7) Personen, die eine Versorgung nach § 6 des
 Streitkräftepersonalstruktur-Anpassungsgesetzes beziehen, sind nicht
 nach § 5 Absatz 4 Nummer 2 versicherungsfrei.
+
+(8) Personen, die am 31. Dezember 2012 als Beschäftigte nach § 5
+Absatz 2 Satz 1 Nummer 1 in der bis zum 31. Dezember 2012 geltenden
+Fassung versicherungsfrei waren, bleiben in dieser Beschäftigung
+versicherungsfrei, solange die Voraussetzungen einer geringfügigen
+Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit §
+8 Absatz 1 Nummer 1 des Vierten Buches in der bis zum 31. Dezember
+2012 geltenden Fassung vorliegen. Sie können durch schriftliche
+Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit
+verzichten; der Verzicht kann nur mit Wirkung für die Zukunft und bei
+mehreren Beschäftigungen nur einheitlich erklärt werden und ist für
+die Dauer der Beschäftigungen bindend.
 
 
 ##### § 231 Befreiung von der Versicherungspflicht
@@ -10832,6 +10901,14 @@ Hinterbliebenenversorgung durch eine für einen bestimmten
 Personenkreis geschaffene Versorgungseinrichtung gewährleistet ist und
 sie an einer nichtöffentlichen Schule beschäftigt sind, die vor dem
 13\. November 2008 Mitglied der Versorgungseinrichtung geworden ist.
+
+(9) § 6 Absatz 1b gilt bis zum 31. Dezember 2014 nicht für Personen,
+die am 31. Dezember 2012 in einer mehr als geringfügigen Beschäftigung
+nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1
+Nummer 1 des Vierten Buches versicherungspflichtig waren, die die
+Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in
+der ab dem 1. Januar 2013 geltenden Fassung erfüllt, solange das
+Arbeitsentgelt aus dieser Beschäftigung 400 Euro monatlich übersteigt.
 
 
 ##### § 231a Befreiung von der Versicherungspflicht im Beitrittsgebiet
@@ -13621,6 +13698,21 @@ Arbeitslosenhilfe oder Arbeitslosengeld II versicherungspflichtig
 waren.
 
 
+##### § 244a Wartezeiterfüllung durch Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
+
+Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger
+versicherungsfreier Beschäftigung nach § 264b ermittelt, wird auf die
+Wartezeit die volle Anzahl an Monaten angerechnet, die sich ergibt,
+wenn die Zuschläge an Entgeltpunkten durch die Zahl 0,0313 geteilt
+werden. Zuschläge an Entgeltpunkten aus einer geringfügigen
+versicherungsfreien Beschäftigung, die in Kalendermonaten ausgeübt
+wurde, die bereits auf die Wartezeit anzurechnen sind, bleiben
+unberücksichtigt. Wartezeitmonate für in die Ehezeit,
+Lebenspartnerschaftszeit oder Splittingzeit fallende Kalendermonate
+einer geringfügigen versicherungsfreien Beschäftigung sind vor
+Anwendung von § 52 Absatz 1 oder 1a gesondert zu ermitteln.
+
+
 ##### § 245 Vorzeitige Wartezeiterfüllung
 
 (1) Die Vorschrift über die vorzeitige Wartezeiterfüllung findet nur
@@ -14135,6 +14227,13 @@ Bundesagentur für Arbeit oder in Fällen des § 6a des Zweiten Buches
 die zugelassenen kommunalen Träger für sie Beiträge an eine
 Versicherungseinrichtung oder Versorgungseinrichtung, an ein
 Versicherungsunternehmen oder an sie selbst gezahlt haben.
+
+(10) Anrechnungszeiten liegen nicht vor bei Beziehern von
+Arbeitslosengeld II, die in der Zeit vom 1. Januar 2011 bis zum 31.
+Dezember 2012 versicherungspflichtig beschäftigt oder
+versicherungspflichtig selbständig tätig gewesen sind oder eine
+Leistung bezogen haben, wegen der sie nach § 3 Satz 1 Nummer 3
+versicherungspflichtig gewesen sind.
 
 
 ##### § 252a Anrechnungszeiten im Beitrittsgebiet
@@ -15801,7 +15900,20 @@ Lebenspartnerschaftszeit geteilt wird.
 über den Versorgungsausgleich an die Stelle von Entgeltpunkten.
 
 
-##### § 264b Zuschlag bei Hinterbliebenenrenten
+##### § 264b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
+
+Für Arbeitsentgelt aus geringfügiger Beschäftigung, in der
+Beschäftigte nach § 230 Absatz 8 versicherungsfrei sind und für das
+der Arbeitgeber einen Beitragsanteil getragen hat, werden Zuschläge an
+Entgeltpunkten ermittelt. Zuschläge an Entgeltpunkten sind auch zu
+ermitteln, wenn ein Arbeitgeber einen Beitragsanteil für
+Arbeitsentgelt aus einer vor dem 1. Januar 2013 ausgeübten
+geringfügigen versicherungsfreien Beschäftigung getragen hat. Für die
+Ermittlung der Zuschläge an Entgeltpunkten nach Satz 1 und 2 gilt §
+76b Absatz 2 bis 4 entsprechend.
+
+
+##### § 264c Zuschlag bei Hinterbliebenenrenten
 
 (1) Der Zuschlag bei Witwenrenten und Witwerrenten besteht aus
 persönlichen Entgeltpunkten (Ost), wenn den Zeiten der Kindererziehung
@@ -15817,7 +15929,7 @@ geschlossen wurde und mindestens ein Ehegatte vor dem 2. Januar 1962
 geboren ist.
 
 
-##### § 264c Zugangsfaktor
+##### § 264d Zugangsfaktor
 
 Beginnt eine Rente wegen verminderter Erwerbsfähigkeit vor dem 1.
 Januar 2024 oder ist bei einer Rente wegen Todes der Versicherte vor
@@ -16934,14 +17046,49 @@ versicherten Arbeitsentgelts oder Arbeitseinkommens als
 beitragspflichtige Einnahmen zugrunde zu legen.
 
 
-###### § 276a
+###### § 276a Arbeitgeberanteil bei Versicherungsfreiheit
 
-(weggefallen)
+(1) Für geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 1 des
+Vierten Buches, die in dieser Beschäftigung nach § 230 Absatz 8
+versicherungsfrei sind, tragen die Arbeitgeber einen Beitragsanteil in
+Höhe von 15 Prozent des Arbeitsentgelts, das beitragspflichtig wäre,
+wenn die Beschäftigten versicherungspflichtig wären. Für geringfügig
+Beschäftigte in Privathaushalten nach § 8a Satz 1 des Vierten Buches,
+die in dieser Beschäftigung nach § 230 Absatz 8 versicherungsfrei
+sind, tragen die Arbeitgeber einen Beitragsanteil in Höhe von 5
+Prozent des Arbeitsentgelts, das beitragspflichtig wäre, wenn die
+Beschäftigten versicherungspflichtig wären.
+
+(2) Für den Beitragsanteil des Arbeitgebers gelten die Vorschriften
+des Dritten Abschnitts des Vierten Buches sowie die
+Bußgeldvorschriften des § 111 Absatz 1 Nummer 2 bis 4, 8 und Absatz 2
+und 4 des Vierten Buches entsprechend.
 
 
-###### § 276b (weggefallen)
+###### § 276b Gleitzone
 
--
+(1) Für Arbeitnehmer, die am 31. Dezember 2012 in einer mehr als
+geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in
+Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches
+versicherungspflichtig waren, die die Merkmale einer geringfügigen
+Beschäftigung nach diesen Vorschriften in der ab dem 31. Dezember 2012
+geltenden Fassung erfüllt, gilt für diese Beschäftigung weiterhin §
+163 Absatz 10 mit Maßgabe folgender Formel:
+
+F x 400 + (2 – F) x (AE – 400).
+
+Satz 1 gilt längstens bis zum 31. Dezember 2014. Die Beitragstragung
+nach § 168 Absatz 1 Nummer 1b und 1c findet keine Anwendung.
+
+(2) Für Arbeitnehmer, die am 31. Dezember 2012 oberhalb des oberen
+Grenzbetrages der Gleitzone (§ 20 Absatz 2 des Vierten Buches in der
+bis zum 31. Dezember 2012 geltenden Fassung) beschäftigt waren und in
+derselben Beschäftigung ab dem 1. Januar 2013 in der Gleitzone
+versicherungspflichtig beschäftigt sind, ist § 163 Absatz 10 in der ab
+dem 1. Januar 2013 geltenden Fassung nur anzuwenden, wenn der
+Arbeitnehmer die Anwendung der Gleitzonenregelung schriftlich
+gegenüber dem Arbeitgeber erklärt. Eine Erklärung nach Satz 1 ist nur
+bis zum 31. Dezember 2014 und mit Wirkung für die Zukunft möglich.
 
 
 ###### § 276c (weggefallen)
@@ -18193,7 +18340,7 @@ andernfalls wird sie als Rente wegen Berufsunfähigkeit geleistet.
 
 (2) Die Hinzuverdienstgrenze wird nicht überschritten, wenn das
 Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder
-selbständigen Tätigkeit 400 Euro nicht übersteigt, wobei ein
+selbständigen Tätigkeit 450 Euro nicht übersteigt, wobei ein
 zweimaliges Überschreiten von jeweils einem Betrag bis zur Höhe dieses
 Betrags im Laufe eines jeden Kalenderjahres außer Betracht bleibt. Dem
 Arbeitsentgelt aus einer Beschäftigung steht der Bezug von
@@ -19055,7 +19202,7 @@ geleistet.
 
 (3) Die Hinzuverdienstgrenze beträgt
 
-1.  bei einer Rente wegen Erwerbsunfähigkeit 400 Euro,
+1.  bei einer Rente wegen Erwerbsunfähigkeit 450 Euro,
 
 
 2.  bei einer Rente wegen Berufsunfähigkeit
@@ -20316,14 +20463,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   11
 
-    *
-    *   30 268\*)
+    *   32 100
 
+    *
 
 *    *   12
 
     *
-    *   32 446
+    *   32 446\*)
+
+
+*    *   13
+
+    *
+    *   34 071
 
 
 
@@ -20942,6 +21095,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   82 800
 
 
+*    *   1.1.2013–31.12.2013
+
+    *   69 600
+
+    *
+    *   85 200
+
+
 
 
 
@@ -21120,11 +21281,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   70 800
 
 
-*    *   1.1.2012-31.12.2012
+*    *   1.1.2012 - 31.12.2012
 
     *   57 600
 
     *   70 800
+
+
+*    *   1.1.2013 - 31.12.2013
+
+    *   58 800
+
+    *   72 600
 
 
 
@@ -25976,14 +26144,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2011
 
-    *
-    *   1,1429
+    *   1,1740
 
+    *
 
 *    *   2012
 
     *
     *   1,1754
+
+
+*    *   2013
+
+    *
+    *   1,1767
 
 
 

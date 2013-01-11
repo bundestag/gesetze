@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 481
 
-Geändert durch
-:   Art. 2 G v. 3.5.2012 I 958
+Zuletzt geändert durch
+:   Art. 1 G v. 26.11.2012 I 2347
 
 
 ## Eingangsformel
@@ -37,8 +37,33 @@ Bundesministerium für Arbeit und Soziales:
 
 Im Sinne dieser Verordnung ist
 
-1.  „Einzugsgebiet“ der aus einem oder mehreren Notrufursprungsbereichen
+1.  „E-Call” die Notrufverbindung mit Ursprung in Mobilfunknetzen,
+
+    a)  die mittels in Kraftfahrzeugen eingebauter Einrichtungen unter
+        Aussendung der der Notrufnummer 112 entsprechenden
+        Signalisierungsinformation entweder manuell oder im Falle eines
+        erheblichen Unfalls automatisch durch die Fahrzeugelektronik
+        eingeleitet wird,
+
+
+    b)  die durch die Notdienstkategoriewerte 6 oder 7 gekennzeichnet ist und
+
+
+    c)  zu deren Beginn ein europaeinheitlich standardisierter Datensatz an
+        die Notrufabfragestelle übermittelt wird;
+
+
+
+
+
+1a. „Einzugsgebiet“ der aus einem oder mehreren Notrufursprungsbereichen
     bestehende örtliche Zuständigkeitsbereich einer Notrufabfragestelle;
+
+
+1b. „Notdienstkategoriewert” ein durch die Zahlen 1 bis 8 angegebener
+    Wert, den mobile Endgeräte im Rahmen des Verbindungsaufbaus zusätzlich
+    an ein Mobilfunknetz übermitteln können, um dadurch dem Netz besondere
+    Arten des Notrufs anzuzeigen;
 
 
 2.  „Notrufabfragestelle“ die nach Landesrecht zuständige Stelle zur
@@ -217,7 +242,7 @@ dürfen nur nach rechtzeitiger Information der Bevölkerung durchgeführt
 werden.
 
 (4) Der Telefondiensteanbieter, der den unter einer Notrufnummer
-geäußerten Verbindungswunsch eines Teilnehmers entgegennimmt, hat der
+geäußerten Verbindungswunsch eines Nutzers entgegennimmt, hat der
 Notrufabfragestelle als Teil der Notrufverbindung zu übermitteln:
 
 1.  die Rufnummer des Anschlusses, von dem die Notrufverbindung ausgeht,
@@ -279,21 +304,23 @@ Notrufabfragestelle gesendet werden.
 
 3.  Für die Bestimmung der örtlich zuständigen Notrufabfragestelle im
     Sinne des Absatzes 2 Satz 3 ist der vom Mobilfunknetz festgestellte
-    Ursprung der Notrufverbindung bei Verbindungsbeginn maßgebend. Der
-    Ursprung der Notrufverbindung ist mit mindestens der Genauigkeit zu
-    ermitteln, die dem Stand der Technik kommerziell genutzter
-    Lokalisierungsdienste entspricht. Solange es dem Stand der Technik
-    entspricht, hat der Mobilfunknetzbetreiber zumindest die Funkzelle
-    zugrunde zu legen. In den Fällen des Satzes 3 hat der
+    Ursprung der Notrufverbindung bei Verbindungsbeginn maßgebend. In
+    Fällen, für die die BNetzA keine Vorgaben zur Genauigkeit und
+    Zuverlässigkeit der Standortfeststellung nach Absatz 2 Satz 6
+    festgelegt hat, ist der Ursprung der Notrufverbindung mit mindestens
+    der Genauigkeit zu ermitteln, die dem Stand der Technik kommerziell
+    genutzter Lokalisierungsdienste entspricht. Solange es dem Stand der
+    Technik entspricht, hat der Mobilfunknetzbetreiber zumindest die
+    Funkzelle zugrunde zu legen. In den Fällen des Satzes 3 hat der
     Mobilfunknetzbetreiber als Standortangabe die Bezeichnung der
-    Funkzelle und die geografischen Koordinaten des Standortes des die
-    Funkzelle versorgenden Mobilfunksenders einschließlich dessen
-    Hauptabstrahlrichtung anzugeben. Zu den Angaben nach Satz 4 hat der
-    Mobilfunknetzbetreiber den Notrufabfragestellen unabhängig von einer
-    Notrufverbindung aktuelle Informationen bereitzustellen, die für die
-    Umsetzung von Funkzellenbezeichnungen und Angaben zu den Standorten
-    der Mobilfunksender in geografische Angaben über die Lage, Größe und
-    Form der Funkzellen erforderlich sind.
+    Funkzelle in Form der weltweit eindeutigen Angabe entsprechend dem
+    Stand der Technik anzugeben. Zu den Angaben nach Satz 4 hat der
+    Mobilfunknetzbetreiber den Notrufabfragestellen aktuelle Informationen
+    zu übermitteln, die für die Umsetzung der Bezeichnung der Funkzelle in
+    kartografische Angaben über ihre planmäßige Lage und Ausdehnung
+    erforderlich sind. Der Mobilfunknetzbetreiber kann diese Informationen
+    den Notrufabfragestellen abweichend von Satz 5 auch zum Abruf auf
+    elektronischem Weg bereitstellen.
 
 
 4.  Es ist zulässig, dass Notrufverbindungen unter der Notrufnummer 110
@@ -305,10 +332,35 @@ Notrufabfragestelle gesendet werden.
 
 
 5.  Abweichend von Absatz 6 ist das automatische Herstellen einer
-    Notrufverbindung unter der Notrufnummer 112 auch ohne unmittelbares
-    Tätigwerden eines Menschen mittels dafür vorgesehener, in
-    Kraftfahrzeugen installierter Einrichtungen (pan-europäischer E-Call)
-    zulässig.
+    Notrufverbindung auch ohne unmittelbares Tätigwerden eines Menschen
+    mittels dafür vorgesehener, in Kraftfahrzeugen installierter
+    Einrichtungen für E-Call zulässig. Dies gilt auch für das automatische
+    Herstellen von Notrufverbindungen unter der Notrufnummer 112, wenn in
+    Kraftfahrzeugen installierte Einrichtungen, die für das Erkennen einer
+    Unfallsituation vorgesehen sind, für das Herstellen der
+    Notrufverbindung ein im Fahrzeug mitgeführtes Mobiltelefon nutzen und
+    zu Beginn der Notrufverbindung die Koordinaten des Standortes des
+    Fahrzeugs als Ansage in deutscher Sprache übermitteln können.
+
+
+6.  Verbindungswünsche für Notrufverbindungen, bei denen das Endgerät
+    einen Notdienstkategoriewert an das Mobilfunknetz übermittelt, sind
+    wie folgt zu behandeln:
+
+    a)  bei Angabe des Notdienstkategoriewertes 1: Herstellen einer
+        Notrufverbindung zu den für die Notrufnummer 110 festgelegten Zielen;
+
+
+    b)  bei Angabe der Notdienstkategoriewerte 2 bis 7: Herstellen einer
+        Notrufverbindung zu den für die Notrufnummer 112 festgelegten Zielen.
+
+
+
+    Zusätzlich ist im Falle der Angabe des Notdienstkategoriewertes 6 die
+    Information „manuell ausgelöster E-Call“, im Falle der Angabe des
+    Notdienstkategoriewertes 7 die Information „automatisch ausgelöster
+    E-Call“ zeitgleich mit der Herstellung der Notrufverbindung an die
+    jeweilige Notrufabfragestelle zu übermitteln.
 
 
 
@@ -363,11 +415,14 @@ Absatz 4 Satz 1 und Absatz 8 Nummer 3 Satz 2 oder 4 zu übermitteln.
 ## § 6 Technische Richtlinie
 
 Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und
-Absatz 2, zu § 4 Absatz 2, 4, 5, 7 und 8 Nummer 3 sowie zu § 5 Satz 1
-Nummer 1, 5 und 6 und Satz 2 legt die Bundesnetzagentur in der
+Absatz 2, zu § 4 Absatz 2, 4, 5, 7 und 8 Nummer 3 und 6 sowie zu § 5
+Satz 1 Nummer 1, 5 und 6 und Satz 2 legt die Bundesnetzagentur in der
 Technischen Richtlinie nach § 108 Absatz 4 des
 Telekommunikationsgesetzes unter Berücksichtigung der dort genannten
-Vorgaben fest. Die Technische Richtlinie ist bei Bedarf an den
+Vorgaben fest. Darüber hinaus können in der Technischen Richtlinie
+auch technische Einzelheiten zu den Sachverhalten festgelegt werden,
+die durch die Übergangsvorschriften des § 7 Absatz 7 und 8 Satz 2
+geregelt sind. Die Technische Richtlinie ist bei Bedarf an den
 jeweiligen Stand der Technik anzupassen.
 
 
@@ -411,12 +466,32 @@ automatisierten Auskunftsverfahren nach § 112 des
 Telekommunikationsgesetzes auf der Grundlage der an die
 Notrufabfragestelle übermittelten Rufnummern bereithalten.
 
-(7) Abweichend von § 4 Absatz 8 Nummer 3 Satz 4 ist es bis zum 31.
-Dezember 2014 ausreichend, wenn die geografischen Koordinaten des
-Standortes des die Funkzelle versorgenden Mobilfunksenders
-einschließlich dessen Hauptstrahlrichtung nach Maßgabe der Technischen
-Richtlinie gemäß § 108 Absatz 4 des Telekommunikationsgesetzes
-übermittelt werden.
+(7) Solange die örtlich zuständige Notrufabfragestelle mit
+Notrufanschlüssen in ISDN-Technik betrieben wird, sind ihr bei
+Notrufverbindungen aus Mobilfunknetzen abweichend von § 4 Absatz 8
+Nummer 3 Satz 4 als eindeutige Bezeichnung der jeweiligen Funkzelle
+die geografischen Koordinaten zu übermitteln, die den für die Planung
+der Funkzelle zugrunde gelegten Schwerpunkt des
+Hauptversorgungsgebiets oder einen Punkt in dessen unmittelbarer Nähe
+bezeichnen; die Koordinaten sind in Grad, Bogenminute und Bogensekunde
+anzugeben. § 4 Absatz 8 Nummer 3 Satz 5 und 6 gilt entsprechend.
+Alternativ zu dem Verfahren nach den Sätzen 1 und 2 ist es auch
+zulässig, die Bezeichnung der Funkzelle nach § 4 Absatz 8 Nummer 3
+Satz 4 und die Koordinaten des zugehörigen Kreisringsegments des
+planmäßigen Hauptversorgungsgebiets der Funkzelle anzugeben; die
+Koordinaten sind in Grad, Bogenminute und Bogensekunde anzugeben.
+Innerhalb eines Mobilfunknetzes ist einheitlich entweder das Verfahren
+nach den Sätzen 1 und 2 oder das Verfahren nach Satz 3 anzuwenden.
+
+(8) Die zur Umsetzung von § 4 Absatz 8 Nummer 6 in den Mobilfunknetzen
+erforderlichen Einrichtungen sind ab dem 1. Oktober 2014 betriebsfähig
+bereitzuhalten. Solange die örtlich zuständige Notrufabfragestelle mit
+Notrufanschlüssen in ISDN-Technik betrieben wird, ist in Fällen von
+Notrufverbindungen, die mit dem Notrufkategoriewert 6 oder 7
+gekennzeichnet sind, abweichend von § 4 Absatz 8 Nummer 6 Satz 2 bei
+der Übermittlung der Information an die örtlich zuständige
+Notrufabfragestelle auf die Unterscheidung zwischen
+Notrufkategoriewert 6 oder 7 zu verzichten.
 
 
 ## § 8 Inkrafttreten

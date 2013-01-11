@@ -679,9 +679,8 @@ Kontenrahmen nach § 25 Absatz 2 Nummer 1 der Allgemeinen
 Verwaltungsvorschrift über das Rechnungswesen in der
 Sozialversicherung geregelt.
 
-(4) Die Absätze 1 bis 3 gelten nicht für die Landwirtschaftlichen
-Krankenkassen und den Spitzenverband der landwirtschaftlichen
-Sozialversicherung.
+(4) Die Absätze 1 bis 3 gelten nicht für die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau.
 
 
 ### § 30 Übersichten zur Jahresrechnung

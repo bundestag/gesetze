@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.11.2011 I 2291
+:   Art. 1 G v. 9.11.2012 I 2291
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
@@ -1925,11 +1925,11 @@ hat.
 ### § 34 Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht
 
 (1) Über die Anträge und Entscheidungen nach diesem Gesetz sowie über
-die persönlichen und sachlichen Verhältnisse der wohngeldberechtigten
-Personen, die für die Berechnung des regionalen Mietenniveaus (§ 12
-Abs. 3 und 4), den Wohngeld- und Mietenbericht (§ 39), die Beurteilung
-der Auswirkungen dieses Gesetzes und dessen Fortentwicklung
-erforderlich sind, ist eine Bundesstatistik zu führen.
+die persönlichen und sachlichen Verhältnisse der zu berücksichtigenden
+Haushaltsmitglieder, die für die Berechnung des regionalen
+Mietenniveaus (§ 12 Abs. 3 und 4), den Wohngeld- und Mietenbericht (§
+39), die Beurteilung der Auswirkungen dieses Gesetzes und dessen
+Fortentwicklung erforderlich sind, ist eine Bundesstatistik zu führen.
 
 (2) Für die Erhebung sind die Wohngeldbehörden auskunftspflichtig. Die
 Angaben der in § 23 Abs. 1 bis 3 bezeichneten Personen dienen zur
@@ -1949,25 +1949,32 @@ hinzuweisen.
 1.  die Art des Wohngeldantrages und der Entscheidung;
 
 
-2.  der Betrag des im Berichtszeitraum gezahlten Wohngeldes;
+2.  der Betrag des im Erhebungszeitraum gezahlten Wohngeldes;
 
 
 3.  der Beginn und das Ende des Bewilligungszeitraums nach Monat und Jahr;
     die Art und die Höhe des monatlichen Wohngeldes;
 
 
-4.  die Beteiligung der wohngeldberechtigten Person am Erwerbsleben, ihre
-    Stellung im Beruf, die Anzahl der bei der Berechnung des Wohngeldes zu
-    berücksichtigenden Haushaltsmitglieder, für die Kindergeld nach dem
-    Einkommensteuergesetz oder dem Bundeskindergeldgesetz oder eine in §
-    65 Abs. 1 Satz 1 des Einkommensteuergesetzes genannte Leistung gewährt
-    wird, und die Zahl der zu berücksichtigenden Haushaltsmitglieder; ist
-    mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind
+4.  die Anzahl der zu berücksichtigenden Haushaltsmitglieder, ihre
+    jeweilige Beteiligung am Erwerbsleben und Stellung im Beruf sowie
+    jeweils die Anzahl derjenigen zu berücksichtigenden
+    Haushaltsmitglieder, die
+
+    a)  noch nicht 18 Jahre alt sind oder
+
+
+    b)  mindestens 18 Jahre, aber noch nicht 25 Jahre alt sind;
+
+
+
+    ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind
     auch die Gesamtzahl der Haushaltsmitglieder und die Zahl der vom
     Wohngeld ausgeschlossenen Haushaltsmitglieder Erhebungsmerkmale;
 
 
-5.  das Geschlecht der wohngeldberechtigten Person;
+5.  das jeweilige Geschlecht der zu berücksichtigenden
+    Haushaltsmitglieder;
 
 
 6.  der bei der Berechnung des Wohngeldes berücksichtigte Höchstbetrag für
@@ -1989,13 +1996,20 @@ hinzuweisen.
     zu erheben;
 
 
-8.  die Summe der positiven Einkünfte im Sinne des § 2 Abs. 1 und 2 des
-    Einkommensteuergesetzes zuzüglich der Einnahmen nach § 14 Abs. 2 der
-    zu berücksichtigenden Haushaltsmitglieder nach Art und Höhe, die
-    Beträge und Umstände nach § 14 Abs. 3 und den §§ 16 bis 18 sowie das
-    monatliche Gesamteinkommen; im Fall einer nach den §§ 7 und 8 Abs. 1
-    vom Wohngeld ausgeschlossenen wohngeldberechtigten Person ist die Art
-    der beantragten oder empfangenen Leistung nach § 7 Abs. 1
+8.
+    a)  das monatliche Gesamteinkommen, die Freibeträge nach § 17 und die
+        Abzugsbeträge für Unterhaltsleistungen nach § 18;
+
+
+    b)  die Summe der positiven Einkünfte und der Einnahmen nach § 14 sowie
+        die Abzugsbeträge für Steuern und Sozialversicherungsbeiträge nach §
+        16 für jedes einzelne zu berücksichtigende Haushaltsmitglied;
+
+
+
+    im Fall einer nach den §§ 7 und 8 Absatz 1 vom Wohngeld
+    ausgeschlossenen wohngeldberechtigten Person ist die Art der
+    beantragten oder empfangenen Leistung nach § 7 Absatz 1
     Erhebungsmerkmal;
 
 
@@ -2027,16 +2041,16 @@ Jahren seit dem Zeitpunkt, zu dem die Erhebung durchgeführt worden ist
 (1) Die Erhebung der Angaben nach § 35 Abs. 1 ist vierteljährlich für
 das jeweils abgelaufene Kalendervierteljahr durchzuführen. Die
 statistischen Landesämter stellen dem Statistischen Bundesamt
-unverzüglich nach Ablauf des Berichtszeitraums oder zu dem in der
+unverzüglich nach Ablauf des Erhebungszeitraums oder zu dem in der
 Rechtsverordnung nach § 38 angegebenen Zeitpunkt folgende Angaben zur
 Verfügung:
 
 1.  vierteljährlich
 
-    a)  für den Berichtszeitraum die Angaben nach § 35 Abs. 1 Nr. 1 bis 3;
+    a)  für den Erhebungszeitraum die Angaben nach § 35 Abs. 1 Nr. 1 bis 3;
 
 
-    b)  für den vergleichbaren Berichtszeitraum des vorausgehenden
+    b)  für den vergleichbaren Erhebungszeitraum des vorausgehenden
         Kalenderjahres die Angaben nach § 35 Abs. 1 Nr. 1 und 3 unter
         Berücksichtigung der rückwirkenden Entscheidungen aus den folgenden
         zwölf Monaten;
@@ -2055,7 +2069,7 @@ Verfügung:
 (2) Einzelangaben nach § 35 Abs. 1 aus einer Zufallsstichprobe mit
 einem Auswahlsatz von 25 Prozent der wohngeldberechtigten Personen
 sind dem Statistischen Bundesamt jährlich unverzüglich nach Ablauf des
-Berichtszeitraums für Zusatzaufbereitungen zur Verfügung zu stellen.
+Erhebungszeitraums für Zusatzaufbereitungen zur Verfügung zu stellen.
 Für diesen Zweck dürfen die Einzelangaben, bei denen Wohn- und
 Wirtschaftsgemeinschaften mit mehr als fünf zu berücksichtigenden
 Haushaltsmitgliedern in einer Gruppe zusammenzufassen sind, ohne

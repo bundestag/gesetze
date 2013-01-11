@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3970 (4592) (2003 I 1957)
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 5 G v. 17.7.2009 I 2062
-
-Mittelbar geändert durch
-:   Art. 3 Abs. 4 G v. 17.7.2009 I 2062
+:   Art. 1b G v. 25.11.2012 II 1381
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -2551,6 +2548,14 @@ bestimmten Stellen können durch Rechtsverordnung die für die
 Ausführung dieses Gesetzes zuständigen Behörden bestimmen, soweit
 nicht Bundesbehörden zuständig sind.
 
+(1a) Die Landesregierungen oder die von ihnen durch Rechtsverordnung
+bestimmten Stellen bestimmen durch Rechtsverordnung die nach Artikel 6
+Absatz 5 Satz 2 der Verordnung (EU) Nr. 1214/2011 des Europäischen
+Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßigen
+grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den
+Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1)
+zuständige Kontaktstelle.
+
 (2) Das Bundesverwaltungsamt ist die zuständige Behörde für
 
 1.  ausländische Diplomaten, Konsularbeamte und gleichgestellte sonstige
@@ -2577,6 +2582,19 @@ nicht Bundesbehörden zuständig sind.
 
 (3) Zuständig für die Entscheidungen nach § 2 Abs. 5 ist das
 Bundeskriminalamt.
+
+(3a) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist die
+zuständige Behörde zur Erteilung von Genehmigungen nach Artikel 4 der
+Verordnung (EU) Nr. 258/2012 des Europäischen Parlaments und des Rates
+vom 14. März 2012 zur Umsetzung des Artikels 10 des Protokolls der
+Vereinten Nationen gegen die unerlaubte Herstellung von Schusswaffen,
+dazugehörigen Teilen und Komponenten und Munition und gegen den
+unerlaubten Handel damit, in Ergänzung des Übereinkommens der
+Vereinten Nationen gegen die grenzüberschreitende organisierte
+Kriminalität (VN-Feuerwaffenprotokoll) und zur Einführung von
+Ausfuhrgenehmigungen für Feuerwaffen, deren Teile, Komponenten und
+Munition sowie von Maßnahmen betreffend deren Einfuhr und Durchfuhr
+(ABl. L 94 vom 30.3.2012, S. 1).
 
 (4) Verwaltungsverfahren nach diesem Gesetz oder auf Grund dieses
 Gesetzes können über eine einheitliche Stelle nach den Vorschriften
@@ -2983,6 +3001,19 @@ zugegriffen wird.
 
 
 
+
+(1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ohne
+Genehmigung nach Artikel 4 Absatz 1 Satz 1 der Verordnung (EU) Nr.
+258/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
+zur Umsetzung des Artikels 10 des Protokolls der Vereinten Nationen
+gegen die unerlaubte Herstellung von Schusswaffen, dazugehörigen
+Teilen und Komponenten und Munition und gegen den unerlaubten Handel
+damit, in Ergänzung des Übereinkommens der Vereinten Nationen gegen
+die grenzüberschreitende organisierte Kriminalität (VN-
+Feuerwaffenprotokoll) und zur Einführung von Ausfuhrgenehmigungen für
+Feuerwaffen, deren Teile, Komponenten und Munition sowie von Maßnahmen
+betreffend deren Einfuhr und Durchfuhr (ABl. L 94 vom 30.3.2012, S. 1)
+einen dort genannten Gegenstand ausführt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.

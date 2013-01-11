@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1970, 821
 
 Zuletzt geändert durch
-:   Art. 3 G v. 7.3.2011 I 338
+:   Art. 6 G v. 5.12.2012 I 2415
 
 
 ## Eingangsformel
@@ -272,9 +272,9 @@ folgende Auslagen erhoben:
 
 
 2.  Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die
-    auf besonderen Antrag erteilt werden; für die Berechnung der als
-    Auslagen zu erhebenden Schreibgebühren gelten die Vorschriften des §
-    136 Abs. 3 bis 6 der Kostenordnung,
+    auf besonderen Antrag erteilt werden; für die Berechnung der Auslagen
+    gelten die Vorschriften der Nummer 9000 der Anlage 1 des
+    Gerichtskostengesetzes in der jeweils geltenden Fassung,
 
 
 3.  Aufwendungen für Übersetzungen, die auf besonderen Antrag gefertigt

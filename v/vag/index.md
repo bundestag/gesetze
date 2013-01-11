@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.12.1992; 1993 I 2;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 23.10.2012 I 2246
+:   Art. 16 G v. 5.12.2012 I 2418
 
 
 ## I. - Einleitende Vorschriften
@@ -1678,10 +1678,11 @@ Ist der Versicherungsvertrag vor dem 1. Januar 2000 geschlossen, gilt
 
 Vorbehaltlich der Regelungen des Elften Buches des Sozialgesetzbuches
 (§§ 110, 111) gelten § 12 Abs. 1 Nr. 1 bis 4, Abs. 2 bis 4 und die §§
-12b und 12c für die private Pflegepflichtversicherung entsprechend. In
-Versicherungsverträgen zur privaten Pflege-Pflichtversicherung ist die
-Mitgabe des Übertragungswertes bei Wechsel des Versicherungsnehmers zu
-einem anderen privaten Krankenversicherungsunternehmen vorzusehen.
+12b und 12c für die private Pflege-Pflichtversicherung und die
+geförderte Pflegevorsorge entsprechend. In Versicherungsverträgen zur
+privaten Pflege-Pflichtversicherung ist die Mitgabe des
+Übertragungswertes bei Wechsel des Versicherungsnehmers zu einem
+anderen privaten Krankenversicherungsunternehmen vorzusehen.
 
 
 #### § 12g Risikoausgleich
@@ -2757,14 +2758,14 @@ wenn nicht die Satzung oder ein Beschluß der obersten Vertretung
 andere Personen bestellt. Auch eine juristische Person kann Abwickler
 sein.
 
-(2) Aus wichtigen Gründen hat das Registergericht Abwickler zu
-bestellen und abzuberufen, wenn es der Aufsichtsrat oder eine in der
-Satzung zu bestimmende Minderheit von Mitgliedern beantragt. § 402 des
-Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit gilt entsprechend.
-Abwickler, die nicht vom Gericht bestellt sind, kann die oberste
-Vertretung jederzeit abberufen. Für die Ansprüche aus dem
-Anstellungsvertrag gelten die allgemeinen Vorschriften.
+(2) Aus wichtigen Gründen hat das Gericht Abwickler zu bestellen und
+abzuberufen, wenn es der Aufsichtsrat oder eine in der Satzung zu
+bestimmende Minderheit von Mitgliedern beantragt. § 402 des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit gilt entsprechend. Abwickler, die nicht
+vom Gericht bestellt sind, kann die oberste Vertretung jederzeit
+abberufen. Für die Ansprüche aus dem Anstellungsvertrag gelten die
+allgemeinen Vorschriften.
 
 (3) Im übrigen gelten für die Abwicklung § 265 Abs. 4, §§ 266 bis 269,
 § 270 Abs. 1 und 2 Satz 1, §§ 272, 273 des Aktiengesetzes
@@ -4967,8 +4968,9 @@ Rückstellung für erfolgsabhängige Beitragsrückerstattung eines
 Krankenversicherungsunternehmens nicht dem nach Absatz 3 durch
 Rechtsverordnung festgelegten Zuführungssatz entspricht. Als
 Zuführungssatz getrennt für die Krankenversicherung im Sinne des § 12
-Abs. 1 Satz 1 und die private Pflegepflichtversicherung im Sinne des §
-12f ist ein Vomhundertsatz aus der Summe von Jahresüberschuß und den
+Absatz 1 Satz 1, für die private Pflege-Pflichtversicherung im Sinne
+des § 12f und für die geförderte Pflegevorsorge im Sinne des § 12f ist
+ein Prozentsatz aus der Summe von Jahresüberschuss und den
 Aufwendungen für die erfolgsabhängige Beitragsrückerstattung
 festzulegen. Hierbei sind eine Direktgutschrift und ein
 durchschnittlicher Solvabilitätsbedarf der

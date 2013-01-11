@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2300, 2305
 
+Geändert durch
+:   Art. 8 G v. 5.12.2012 I 2425
+
 
 ## § 1 Therapieunterbringung
 

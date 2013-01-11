@@ -572,17 +572,7 @@ psychiatrischen und psychosomatischen Einrichtungen die Vorgaben des §
 (2) Soweit tagesgleiche Pflegesätze vereinbart werden, müssen diese
 medizinisch leistungsgerecht sein und einem Krankenhaus bei
 wirtschaftlicher Betriebsführung ermöglichen, den Versorgungsauftrag
-zu erfüllen. Bei der Beachtung des Grundsatzes der
-Beitragssatzstabilität sind die zur Erfüllung des Versorgungsauftrags
-ausreichenden und zweckmäßigen Leistungen sowie die Pflegesätze,
-Fallkosten und Leistungen vergleichbarer Krankenhäuser oder
-Abteilungen angemessen zu berücksichtigen. Das vom Krankenhaus
-kalkulierte Budget ist für die Pflegesatzverhandlungen
-abteilungsbezogen zu gliedern. Es sind Abteilungspflegesätze als
-Entgelt für ärztliche und pflegerische Leistungen und ein für das
-Krankenhaus einheitlicher Basispflegesatz als Entgelt für nicht durch
-ärztliche oder pflegerische Tätigkeit veranlasste Leistungen
-vorzusehen.
+zu erfüllen.
 
 (2a) (weggefallen)
 
@@ -659,8 +649,8 @@ Pflegesatz einbezogen werden, soweit die Landesverbände der
 Krankenkassen und die Ersatzkassen der Investition zugestimmt haben.
 Die Vertragsparteien nach § 18 Abs. 2 vereinbaren die nach den Sätzen
 1 und 2 maßgebenden Pflegesätze. Werden die Krankenhausleistungen mit
-Fallpauschalen oder Zusatzentgelten nach § 17b vergütet, gelten diese
-als Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
+pauschalierten Pflegesätzen nach Absatz 1a vergütet, gelten diese als
+Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
 
 
 ### § 17a Finanzierung von Ausbildungskosten
@@ -918,8 +908,8 @@ vollstationären und teilstationären Krankenhausleistungen für einen
 Behandlungsfall vergütet. Soweit allgemeine Krankenhausleistungen
 nicht in die Entgelte nach Satz 1 einbezogen werden können, weil der
 Finanzierungstatbestand nicht in allen Krankenhäusern vorliegt, sind
-Richtwerte nach § 17a Abs. 4b sowie bundeseinheitlich Regelungen für
-Zu- oder Abschläge zu vereinbaren, insbesondere für die
+ein Ausbildungszuschlag nach § 17a Absatz 6 sowie bundeseinheitlich
+Regelungen für Zu- oder Abschläge zu vereinbaren, insbesondere für die
 Notfallversorgung, die besonderen Aufgaben von Zentren und
 Schwerpunkten nach § 2 Abs. 2 Satz 2 Nr. 4 des
 Krankenhausentgeltgesetzes und für die Aufnahme von Begleitpersonen
@@ -1093,14 +1083,11 @@ Krankenhausfall dem selbstzahlenden Patienten oder dem jeweiligen
 Kostenträger zusätzlich zu den tagesgleichen Pflegesätzen oder einer
 Fallpauschale in Rechnung zu stellen; er ist an die Vertragsparteien
 oder eine von ihnen benannte Stelle abzuführen. Der Zuschlag
-unterliegt nicht der Begrenzung der Pflegesätze durch den Grundsatz
-der Beitragssatzstabilität nach § 6 der Bundespflegesatzverordnung
-oder § 10 Abs. 4 des Krankenhausentgeltgesetzes; er geht nicht in den
-Gesamtbetrag nach § 6 und das Budget nach § 12 und nicht in die
-Erlösausgleiche nach § 11 Abs. 8 und § 12 Abs. 4 der
-Bundespflegesatzverordnung sowie nicht in die Gesamtbeträge oder die
-Erlösausgleiche nach den §§ 3 und 4 des Krankenhausentgeltgesetzes
-ein.
+unterliegt nicht der Begrenzung der Pflegesätze durch § 10 Absatz 4
+des Krankenhausentgeltgesetzes oder § 10 Absatz 3 der
+Bundespflegesatzverordnung; er geht nicht in den Gesamtbetrag und die
+Erlösausgleiche nach dem Krankenhausentgeltgesetz oder der
+Bundespflegesatzverordnung ein.
 
 (6) Das Vergütungssystem wird für alle Krankenhäuser mit einer ersten
 Fassung eines deutschen Fallpauschalenkatalogs verbindlich zum 1.
@@ -1123,10 +1110,10 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 2.  abweichend von Nummer 1 auch ohne Erklärung des Scheiterns durch eine
-    Vertragspartei Fristen für Arbeitsschritte vorzugeben sowie nach
-    Ablauf der jeweiligen Frist zu entscheiden, soweit dies erforderlich
-    ist, um die Einführung des Vergütungssystems und seine jährliche
-    Weiterentwicklung fristgerecht sicherzustellen,
+    Vertragspartei nach Ablauf vorher vorgegebener Fristen für
+    Arbeitsschritte zu entscheiden, soweit dies erforderlich ist, um die
+    Einführung des Vergütungssystems und seine jährliche Weiterentwicklung
+    fristgerecht sicherzustellen,
 
 
 3.  Leistungen oder besondere Einrichtungen nach Absatz 1 Satz 14 und 15
@@ -1286,10 +1273,11 @@ Diagnosen, Prozeduren und sonstigen Angaben mit der Rechnung zu
 übersenden. Sofern Versicherte der privaten Krankenversicherung von
 der Möglichkeit einer direkten Abrechnung zwischen dem Krankenhaus und
 dem privaten Krankenversicherungsunternehmen Gebrauch machen, sind die
-Daten entsprechend § 301 des Fünften Buches Sozialgesetzbuch
-maschinenlesbar an das private Krankenversicherungsunternehmen zu
-übermitteln, wenn der Versicherte hierzu schriftlich seine
-Einwilligung, die jederzeit widerrufen werden kann, erklärt hat.
+Daten entsprechend § 301 des Fünften Buches Sozialgesetzbuch im Wege
+des elektronischen Datenaustausches an das private
+Krankenversicherungsunternehmen zu übermitteln, wenn der Versicherte
+hierzu schriftlich seine Einwilligung, die jederzeit widerrufen werden
+kann, erklärt hat.
 
 
 ### § 17d Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen
@@ -1321,14 +1309,16 @@ erforderlich ist, können die Vertragsparteien nach Absatz 3
 Zusatzentgelte und deren Höhe vereinbaren. Entgelte für Leistungen,
 die auf Bundesebene nicht bewertet worden sind, werden durch die
 Vertragsparteien nach § 18 Abs. 2 vereinbart. Die Vorgaben des § 17b
-Abs. 1 Satz 4 und 5 für Richtwerte nach § 17a Abs. 4b und Regelungen
-für Zu- und Abschläge sowie § 17b Abs. 1 Satz 15 und 16 zu besonderen
-Einrichtungen und zur Prüfung von außerordentlichen Untersuchungs- und
-Behandlungsabläufen mit extrem hohen Kostenunterdeckungen gelten
-entsprechend. Für die Finanzierung der Sicherstellung einer für die
-Versorgung der Bevölkerung notwendigen Vorhaltung von Leistungen
-gelten § 17b Abs. 1 Satz 6 bis 9 und § 5 Abs. 2 des
-Krankenhausentgeltgesetzes entsprechend.
+Abs. 1 Satz 4 und 5 für einen Ausbildungszuschlag nach § 17a Absatz 6
+und Regelungen für Zu- und Abschläge sowie § 17b Abs. 1 Satz 15 und 16
+zu besonderen Einrichtungen und zur Prüfung von außerordentlichen
+Untersuchungs- und Behandlungsabläufen mit extrem hohen
+Kostenunterdeckungen gelten entsprechend. Für die Finanzierung der
+Sicherstellung einer für die Versorgung der Bevölkerung notwendigen
+Vorhaltung von Leistungen gelten § 17b Abs. 1 Satz 6 bis 9 und § 5
+Abs. 2 des Krankenhausentgeltgesetzes entsprechend. Im Rahmen von Satz
+4 ist auch die Vereinbarung von Regelungen für Zu- oder Abschläge für
+die Teilnahme an der regionalen Versorgungsverpflichtung zu prüfen.
 
 (3) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 vereinbaren nach den
 Vorgaben der Absätze 1, 2 und 4 das Entgeltsystem, seine grundsätzlich
@@ -1351,8 +1341,31 @@ Jahresende 2009 die Grundstrukturen des Vergütungssystems sowie des
 Verfahrens zur Ermittlung der Bewertungsrelationen auf Bundesebene,
 insbesondere zur Kalkulation in einer sachgerechten Auswahl von
 Krankenhäusern. Sie vereinbaren bis zum 30. September 2012 die ersten
-Entgelte und deren Bewertungsrelationen. Das Vergütungssystem wird
-erstmals für das Jahr 2013 budgetneutral umgesetzt.
+Entgelte und deren Bewertungsrelationen. Nach Maßgabe der Sätze 4 bis
+9 ersetzt das neue Vergütungssystem die bisher abgerechneten Entgelte
+nach § 17 Absatz 2. Das Vergütungssystem wird für die Einrichtung für
+die Jahre 2013 bis 2016 budgetneutral umgesetzt, erstmals für das Jahr
+2013\. Das Vergütungssystem wird zum 1. Januar 2013 oder 1. Januar 2014
+jeweils auf Verlangen des Krankenhauses eingeführt. Das Krankenhaus
+hat sein Verlangen zum Zeitpunkt der Aufforderung zur Verhandlung
+durch die Sozialleistungsträger, frühestens jedoch zum 31. Dezember
+des jeweiligen Vorjahres, den anderen Vertragsparteien nach § 18
+Absatz 2 Nummer 1 oder 2 schriftlich mitzuteilen. Verbindlich für alle
+Einrichtungen wird das Vergütungssystem zum 1. Januar 2015 eingeführt.
+Erstmals für das Jahr 2017 wird nach § 18 Absatz 3 Satz 3 ein
+landesweit geltender Basisentgeltwert vereinbart. Ab dem Jahr 2017
+werden der krankenhausindividuelle Basisentgeltwert und das
+Erlösbudget der Einrichtungen nach den näheren Bestimmungen der
+Bundespflegesatzverordnung schrittweise an den Landesbasisentgeltwert
+und das sich daraus ergebende Erlösvolumen angeglichen. Die
+Vertragsparteien auf Bundesebene legen dem Bundesministerium für
+Gesundheit bis zum 30. Juni 2016 einen gemeinsamen Bericht über
+Auswirkungen des neuen Entgeltsystems, erste Anwendungserfahrungen
+sowie über die Anzahl und erste Erkenntnisse zu Modellvorhaben nach §
+64b des Fünften Buches Sozialgesetzbuch vor. In den Bericht sind die
+Stellungnahmen der Fachverbände der Psychiatrie und Psychosomatik
+einzubeziehen. Das Bundesministerium für Gesundheit legt den Bericht
+dem Deutschen Bundestag vor.
 
 (5) Für die Finanzierung der den Vertragsparteien auf Bundesebene
 übertragenen Aufgaben gilt § 17b Abs. 5 entsprechend. Die
@@ -1372,10 +1385,10 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 2.  abweichend von Nummer 1 auch ohne Erklärung des Scheiterns durch eine
-    Vertragspartei Fristen für Arbeitsschritte vorzugeben sowie nach
-    Ablauf der jeweiligen Frist zu entscheiden, soweit dies erforderlich
-    ist, um die Einführung des Vergütungssystems und seine jährliche
-    Weiterentwicklung fristgerecht sicherzustellen;
+    Vertragspartei nach Ablauf vorher vorgegebener Fristen für
+    Arbeitsschritte zu entscheiden, soweit dies erforderlich ist, um die
+    Einführung des Vergütungssystems und seine jährliche Weiterentwicklung
+    fristgerecht sicherzustellen;
 
 
 3.  Leistungen nach Absatz 2 Satz 3 oder besondere Einrichtungen nach
@@ -1458,9 +1471,10 @@ werden. Der Krankenhausträger hat nach Maßgabe des
 Krankenhausentgeltgesetzes und der Rechtsverordnung nach § 16 Satz 1
 Nr. 6 die für die Vereinbarung der Budgets und Pflegesätze
 erforderlichen Unterlagen über Leistungen sowie die Kosten der nicht
-durch DRG-Fallpauschalen erfassten Leistungen vorzulegen. Die in
-Absatz 1 Satz 2 genannten Beteiligten vereinbaren die Höhe der
-Fallpauschalen mit Wirkung für die Vertragsparteien nach Absatz 2.
+durch pauschalierte Pflegesätze erfassten Leistungen vorzulegen. Die
+in Absatz 1 Satz 2 genannten Beteiligten vereinbaren die Höhe der mit
+Bewertungsrelationen bewerteten Entgelte nach den §§ 17b und 17d mit
+Wirkung für die Vertragsparteien nach Absatz 2.
 
 (4) Kommt eine Vereinbarung über die Pflegesätze oder die Höhe der
 Entgelte nach Absatz 3 Satz 3 innerhalb von sechs Wochen nicht
@@ -1600,8 +1614,8 @@ zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs.
 5 des Fünften Buches Sozialgesetzbuch benannten Bevollmächtigten, für
 die knappschaftliche Krankenversicherung die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und für die
-Krankenversicherung der Landwirte die örtlich zuständigen
-landwirtschaftlichen Krankenkassen wahr.
+Krankenversicherung der Landwirte die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau wahr.
 
 
 ### § 28 Auskunftspflicht und Statistik
@@ -1693,7 +1707,7 @@ Auswertung als Bundesstatistik zu folgenden Sachverhalten durch:
 
 
 5.  Zahl der DRG-Fälle, Summe der Bewertungsrelationen sowie
-    Ausgleichsbeträge nach § 4 Abs. 9 des Krankenhausentgeltgesetzes,
+    Ausgleichsbeträge nach § 5 Absatz 4 des Krankenhausentgeltgesetzes,
 
 
 6.  Anzahl der Ausbildenden und Auszubildenden, jeweils gegliedert nach

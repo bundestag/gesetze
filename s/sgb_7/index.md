@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 2b G v. 21.7.2012 I 1601
+:   Art. 1 G v. 5.12.2012 I 2447
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -97,7 +97,7 @@ dieses Buches
 
 
 
-    wenn für das Unternehmen eine landwirtschaftliche Berufsgenossenschaft
+    wenn für das Unternehmen die landwirtschaftliche Berufsgenossenschaft
     zuständig ist.
 
 
@@ -219,7 +219,7 @@ dieses Buches
 15. Personen, die
 
     a)  auf Kosten einer Krankenkasse oder eines Trägers der gesetzlichen
-        Rentenversicherung oder einer landwirtschaftlichen Alterskasse
+        Rentenversicherung oder der landwirtschaftlichen Alterskasse
         stationäre oder teilstationäre Behandlung oder stationäre,
         teilstationäre oder ambulante Leistungen zur medizinischen
         Rehabilitation erhalten,
@@ -533,6 +533,11 @@ Spezialkulturen. Das Nähere bestimmt die Satzung.
 
 
 
+In den Fällen des Satzes 1 Nummer 3 kann auch die Organisation, für
+die die Ehrenamtsträger tätig sind, oder ein Verband, in dem die
+Organisation Mitglied ist, den Antrag stellen; eine namentliche
+Bezeichnung der Versicherten ist in diesen Fällen nicht erforderlich.
+In den Fällen des Satzes 1 Nummer 4 und 5 gilt Satz 2 entsprechend.
 
 (2) Die Versicherung beginnt mit dem Tag, der dem Eingang des Antrags
 folgt. Die Versicherung erlischt, wenn der Beitrag oder
@@ -915,9 +920,9 @@ Unfallversicherungsträger veranlaßt werden können. Die Deutsche
 Gesetzliche Unfallversicherung e. V. wirkt beim Erlass von
 Unfallverhütungsvorschriften auf Rechtseinheitlichkeit hin.
 
-(1a) Für die landwirtschaftlichen Berufsgenossenschaften ist Absatz 1
-mit der Maßgabe anzuwenden, dass sich der Erlass der
-Unfallverhütungsvorschriften nach § 143e Abs. 4 Nr. 4 richtet.
+(1a) In der landwirtschaftlichen Unfallversicherung ist Absatz 1 mit
+der Maßgabe anzuwenden, dass Unfallverhütungsvorschriften von der
+landwirtschaftlichen Berufsgenossenschaft erlassen werden.
 
 (2) Soweit die Unfallversicherungsträger Vorschriften nach Absatz 1
 Satz 1 Nr. 3 erlassen, können sie zu den dort genannten Zwecken auch
@@ -1183,9 +1188,8 @@ für den Arbeitsschutz zuständigen Behörden Vereinbarungen über
 abzuschließen und deren Zielerreichung mit den von der Nationalen
 Arbeitsschutzkonferenz nach § 20a Abs. 2 Nr. 3 des
 Arbeitsschutzgesetzes bestimmten Kennziffern zu evaluieren. Die
-landwirtschaftlichen Berufsgenossenschaften wirken an der Tätigkeit
-der gemeinsamen landesbezogenen Stelle mit. § 143e Abs. 3 Satz 2 Nr. 3
-bleibt unberührt.
+landwirtschaftliche Berufsgenossenschaft wirkt an der Tätigkeit der
+gemeinsamen landesbezogenen Stelle mit.
 
 (3) Durch allgemeine Verwaltungsvorschriften, die der Zustimmung des
 Bundesrates bedürfen, wird geregelt das Zusammenwirken
@@ -2073,7 +2077,7 @@ Kosten des Unfallversicherungsträgers fortzusetzen, soweit dieser sie
 dazu beauftragt.
 
 
-#### Achter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Berufsgenossenschaften
+#### Achter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
 
 
 
@@ -2133,8 +2137,8 @@ gilt entsprechend.
 (4) Leistungen nach den Absätzen 1 bis 3 müssen wirksam und
 wirtschaftlich sein; sie dürfen das Maß des Notwendigen nicht
 übersteigen. Leistungen, die diese Voraussetzungen nicht erfüllen,
-können nicht beansprucht und dürfen von den landwirtschaftlichen
-Berufsgenossenschaften nicht bewilligt werden.
+können nicht beansprucht und dürfen von der landwirtschaftlichen
+Berufsgenossenschaft nicht bewilligt werden.
 
 (5) (weggefallen)
 
@@ -2922,7 +2926,7 @@ Witwen- und Witwerrente an frühere Ehegatten.
 Witwen- oder Witwerrente an Lebenspartner.
 
 
-#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Berufsgenossenschaften
+#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
 
 
 
@@ -3226,7 +3230,7 @@ Voraussetzungen die in Absatz 3 genannten Versicherten auf ihren
 Antrag mit einem höheren Jahresarbeitsverdienst versichert werden.
 
 
-#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Berufsgenossenschaften und ihre Hinterbliebenen
+#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung und ihre Hinterbliebenen
 
 
 
@@ -3246,12 +3250,12 @@ Antrag mit einem höheren Jahresarbeitsverdienst versichert werden.
 
 
 beträgt für Versicherungsfälle, die im Jahre 1996 oder früher
-eingetreten sind, 19.115 Deutsche Mark. Für Versicherungsfälle, die im
+eingetreten sind, 19 115 Deutsche Mark. Für Versicherungsfälle, die im
 Jahre 1997 oder später eintreten, wird der in Satz 1 genannte Betrag,
 erstmalig zum 1. Juli 1997, entsprechend § 95 angepaßt; § 215 Abs. 5
-findet keine Anwendung. Die landwirtschaftlichen
-Berufsgenossenschaften unterrichten die landwirtschaftlichen
-Unternehmer über den jeweils geltenden Jahresarbeitsverdienst.
+findet keine Anwendung. Die landwirtschaftliche Berufsgenossenschaft
+unterrichtet die landwirtschaftlichen Unternehmer über den jeweils
+geltenden Jahresarbeitsverdienst.
 
 (2) Solange die in Absatz 1 genannten Personen Anspruch auf eine Rente
 auf unbestimmte Zeit nach einer Minderung der Erwerbsfähigkeit von 50
@@ -3850,9 +3854,10 @@ Bürgerlichen Gesetzbuche gilt entsprechend.
 1.  die in der Anlage 1 aufgeführten gewerblichen Berufsgenossenschaften,
 
 
-2.  die in der Anlage 2 aufgeführten Berufsgenossenschaften einschließlich
-    der Gartenbau-Berufsgenossenschaft (landwirtschaftliche
-    Berufsgenossenschaften),
+2.  die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau; bei
+    Durchführung der Aufgaben nach diesem Gesetz und in sonstigen
+    Angelegenheiten der landwirtschaftlichen Unfallversicherung führt sie
+    die Bezeichnung landwirtschaftliche Berufsgenossenschaft,
 
 
 3.  die Unfallkasse des Bundes,
@@ -3879,6 +3884,8 @@ Bürgerlichen Gesetzbuche gilt entsprechend.
 
 
 
+Die landwirtschaftliche Berufsgenossenschaft nimmt in der
+landwirtschaftlichen Unfallversicherung Verbandsaufgaben wahr.
 
 (2) Soweit dieses Gesetz die Unfallversicherungsträger ermächtigt,
 Satzungen zu erlassen, bedürfen diese der Genehmigung der
@@ -3975,7 +3982,7 @@ Landesregierungen durch Rechtsverordnung eine oder mehrere
 Unfallkassen. Die Landesregierungen können auch gemeinsame
 Unfallkassen für die Unfallversicherung im Landesbereich und für die
 Unfallversicherung einer oder mehrerer Gemeinden von zusammen
-wenigstens 500.000 Einwohnern errichten.
+wenigstens 500 000 Einwohnern errichten.
 
 (2) Die Landesregierungen von höchstens drei Ländern können durch
 gleichlautende Rechtsverordnungen auch eine gemeinsame Unfallkasse
@@ -3985,17 +3992,30 @@ Staatsvertrag der Länder bestimmt ist.
 
 (3) Die Landesregierungen regeln in den Rechtsverordnungen auch das
 Nähere über die Eingliederung bestehender Unfallversicherungsträger in
-die gemeinsame Unfallkasse. § 118 Abs. 1 Satz 5 und § 119 Abs. 4 Satz
-1 bis 3 gelten entsprechend. Die an einer Vereinigung beteiligten
-Unfallversicherungsträger der öffentlichen Hand haben rechtzeitig vor
-dem Wirksamwerden der Vereinigung eine neue Dienstordnung zur Regelung
-der Rechtsverhältnisse der dienstordnungsmäßig Angestellten
-aufzustellen, die in Ergänzung der bestehenden Dienstordnungen einen
-sozialverträglichen Personalübergang gewährleistet; dabei sind die
-entsprechenden Regelungen für Tarifangestellte zu berücksichtigen. Die
-neue Dienstordnung ist der nach der Vereinigung zuständigen
-Aufsichtsbehörde vorzulegen. Die Vereinigungen sind sozialverträglich
-umzusetzen.
+die gemeinsame Unfallkasse. § 118 Absatz 1 Satz 5 gilt entsprechend.
+Bis zu den nächsten allgemeinen Wahlen in der Sozialversicherung
+richtet sich die Zahl der Mitglieder der Selbstverwaltungsorgane der
+vereinigten oder neu gebildeten Unfallversicherungsträger nach der
+Summe der Zahl der Mitglieder, die in den Satzungen der aufgelösten
+Unfallversicherungsträger bestimmt worden ist; § 43 Absatz 1 Satz 2
+des Vierten Buches ist nicht anzuwenden. Die Mitglieder der
+Selbstverwaltungsorgane der aufgelösten Unfallversicherungsträger und
+ihre Stellvertreter werden Mitglieder und Stellvertreter der
+Selbstverwaltungsorgane der aus ihnen gebildeten
+Unfallversicherungsträger. Beschlüsse in den Selbstverwaltungsorganen
+der neu gebildeten Unfallversicherungsträger werden mit der Mehrheit
+der nach der Größe der aufgelösten Unfallversicherungsträger
+gewichteten Stimmen getroffen; für die Gewichtung wird ein
+angemessener Maßstab in der Satzung bestimmt. Die an einer Vereinigung
+beteiligten Unfallversicherungsträger der öffentlichen Hand haben
+rechtzeitig vor dem Wirksamwerden der Vereinigung eine neue
+Dienstordnung zur Regelung der Rechtsverhältnisse der
+dienstordnungsmäßig Angestellten aufzustellen, die in Ergänzung der
+bestehenden Dienstordnungen einen sozialverträglichen Personalübergang
+gewährleistet; dabei sind die entsprechenden Regelungen für
+Tarifangestellte zu berücksichtigen. Die neue Dienstordnung ist der
+nach der Vereinigung zuständigen Aufsichtsbehörde vorzulegen. Die
+Vereinigungen sind sozialverträglich umzusetzen.
 
 
 #### § 117 Unfallversicherungsträger im kommunalen Bereich
@@ -4003,7 +4023,7 @@ umzusetzen.
 (1) Soweit die Unfallversicherung im kommunalen Bereich nicht von
 einer gemeinsamen Unfallkasse für den Landes- und den kommunalen
 Bereich durchgeführt wird, errichten die Landesregierungen durch
-Rechtsverordnung für mehrere Gemeinden von zusammen wenigstens 500.000
+Rechtsverordnung für mehrere Gemeinden von zusammen wenigstens 500 000
 Einwohnern einen Gemeindeunfallversicherungsverband.
 
 (2) Die Landesregierungen von höchstens drei Ländern können durch
@@ -4030,8 +4050,8 @@ Rechtsverordnungen oder durch Staatsvertrag der Länder bestimmt ist. §
 Unfallkassen der Gemeinden mit den Unfallversicherungsträgern im
 kommunalen Bereich vereinigen.
 
-(5) Bei Vereinigungen nach den Absätzen 3 und 4 gilt § 116 Abs. 3 Satz
-3 bis 5 entsprechend.
+(5) Bei Vereinigungen nach den Absätzen 3 und 4 gilt § 116 Absatz 3
+Satz 6 bis 8 entsprechend.
 
 
 #### § 118 Vereinigung von Berufsgenossenschaften
@@ -4072,7 +4092,16 @@ Berufsgenossenschaften erfolgen.
 Übernahme der Bediensteten werden durch die beteiligten
 Berufsgenossenschaften entsprechend der für das Kalenderjahr vor der
 Vereinigung auf die Unternehmensarten entfallenden Entschädigungslast
-in der Vereinbarung geregelt. § 119 Abs. 5 gilt entsprechend.
+in der Vereinbarung geregelt. Die an einer Vereinigung beteiligten
+Berufsgenossenschaften haben rechtzeitig vor dem Wirksamwerden der
+Vereinigung eine neue Dienstordnung zur Regelung der
+Rechtsverhältnisse der dienstordnungsmäßig Angestellten aufzustellen,
+die in Ergänzung der bestehenden Dienstordnungen einen
+sozialverträglichen Personalübergang gewährleistet; dabei sind die
+entsprechenden Regelungen für Tarifangestellte zu berücksichtigen. Die
+neue Dienstordnung ist zusammen mit den in Absatz 1 Satz 3 genannten
+Unterlagen der nach der Vereinigung zuständigen Aufsichtsbehörde
+vorzulegen. Vereinigungen sind sozialverträglich umzusetzen.
 
 (4) In der Vereinbarung nach Absatz 1 über die Gefahrtarif- und
 Beitragsgestaltung oder in der Satzung der neuen Berufsgenossenschaft
@@ -4108,80 +4137,12 @@ Rechte und Pflichten im Rahmen der Lastenverteilung nach den §§ 176
 bis 181 als selbständige Körperschaften behandelt.
 
 
-#### § 119 Vereinigung landwirtschaftlicher Berufsgenossenschaften durch Verordnung
-
-(1) Die Landesregierungen derjenigen Länder, in deren Gebiet mehrere
-landesunmittelbare landwirtschaftliche Berufsgenossenschaften ihren
-Sitz haben, können durch Rechtsverordnung zwei oder mehrere
-landwirtschaftliche Berufsgenossenschaften zu einer
-landwirtschaftlichen Berufsgenossenschaft vereinigen. Das Nähere
-regelt die Landesregierung in der Rechtsverordnung nach Anhörung der
-beteiligten Berufsgenossenschaften.
-
-(2) Die Landesregierungen mehrerer Länder, in deren Gebiet mehrere
-landesunmittelbare landwirtschaftliche Berufsgenossenschaften ihren
-Sitz haben, können durch gleichlautende Rechtsverordnungen
-landwirtschaftliche Berufsgenossenschaften zu einer
-landwirtschaftlichen Berufsgenossenschaft vereinigen. Das Nähere
-regeln diese Länder in den Rechtsverordnungen nach Anhörung der
-beteiligten Berufsgenossenschaften. Satz 1 und 2 gilt entsprechend für
-die Vereinigung von bundes- und landesunmittelbaren
-landwirtschaftlichen Berufsgenossenschaften; an die Stelle der
-Landesregierung tritt für die bundesunmittelbaren
-Berufsgenossenschaften das Bundesministerium für Arbeit und Soziales.
-
-(3) Die in Anlage I Kapitel VIII Sachgebiet I Abschnitt III Nr. 1
-Buchstabe c Abs. 3 Satz 2 des Einigungsvertrages vom 31. August 1990
-(BGBl. 1990 II S. 885, 1063) aufgeführte Maßgabe ist nicht mehr
-anzuwenden.
-
-(4) Bis zu den nächsten allgemeinen Wahlen in der Sozialversicherung
-richtet sich die Zahl der Mitglieder der Selbstverwaltungsorgane der
-auf Grund des Ersten Abschnitts des Fünften Kapitels dieses Gesetzes
-vereinigten oder neu gebildeten Berufsgenossenschaften nach der Summe
-der Zahl der Mitglieder, die in den Satzungen der aufgelösten
-Berufsgenossenschaften bestimmt worden ist; § 43 Abs. 1 Satz 2 des
-Vierten Buches ist nicht anzuwenden. Die Mitglieder der
-Selbstverwaltungsorgane der aufgelösten Berufsgenossenschaften und
-ihre Stellvertreter werden Mitglieder und Stellvertreter der
-Selbstverwaltungsorgane der aus ihnen gebildeten Berufsgenossenschaft.
-Beschlüsse in den Selbstverwaltungsorganen der neu gebildeten
-Berufsgenossenschaften werden mit der Mehrheit der nach der Größe der
-aufgelösten Berufsgenossenschaften gewichteten Stimmen getroffen; für
-die Gewichtung wird ein angemessener Maßstab in der Satzung bestimmt.
-Satz 3 gilt für Beschlüsse in den Selbstverwaltungsorganen der
-landwirtschaftlichen Alterskassen und der landwirtschaftlichen
-Krankenkassen entsprechend.
-
-(5) Die an einer Vereinigung auf Grund des Ersten Abschnitts des
-Fünften Kapitels dieses Gesetzes beteiligten Berufsgenossenschaften
-haben rechtzeitig vor dem Wirksamwerden der Vereinigung eine neue
-Dienstordnung zur Regelung der Rechtsverhältnisse der
-dienstordnungsmäßig Angestellten aufzustellen, die in Ergänzung der
-bestehenden Dienstordnungen einen sozialverträglichen Personalübergang
-gewährleistet; dabei sind die entsprechenden Regelungen für
-Tarifangestellte zu berücksichtigen. Im Falle der Vereinigung nach §
-118 ist die neue Dienstordnung zusammen mit den in § 118 Abs. 1 Satz 3
-genannten Unterlagen der nach der Vereinigung zuständigen
-Aufsichtsbehörde vorzulegen. Vereinigungen nach Satz 1 sind
-sozialverträglich umzusetzen.
-
-(6) Nach einer Vereinigung von landwirtschaftlichen
-Berufsgenossenschaften kann die Satzung für eine Übergangszeit von
-höchstens fünf Jahren unterschiedliche Berechnungsgrundlagen für die
-Beiträge oder unterschiedliche Beiträge und getrennte Umlagen für die
-bisherigen Zuständigkeitsbereiche der vereinigten Versicherungsträger
-vorsehen. Auf Antrag der Berufsgenossenschaft kann die nach der
-Vereinigung zuständige Aufsichtsbehörde eine um höchstens ein Jahr
-längere Übergangszeit genehmigen.
+#### § 119 (weggefallen)
 
 
-#### § 119a Verwaltungsgemeinschaften bei den landwirtschaftlichen Berufsgenossenschaften
 
-Jede landwirtschaftliche Berufsgenossenschaft bildet mit der bei ihr
-errichteten landwirtschaftlichen Alterskasse, landwirtschaftlichen
-Krankenkasse und landwirtschaftlichen Pflegekasse eine
-Verwaltungsgemeinschaft.
+#### § 119a (weggefallen)
+
 
 
 #### § 120 Bundes- und Landesgarantie
@@ -4207,7 +4168,7 @@ aufsichtführende Land über.
 (1) Die gewerblichen Berufsgenossenschaften sind für alle Unternehmen
 (Betriebe, Verwaltungen, Einrichtungen, Tätigkeiten) zuständig, soweit
 sich nicht aus dem Zweiten und Dritten Unterabschnitt eine
-Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften oder der
+Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft oder der
 Unfallversicherungsträger der öffentlichen Hand ergibt.
 
 (2) Die Berufsgenossenschaft für Transport und Verkehrswirtschaft als
@@ -4281,13 +4242,13 @@ die sie bisher zuständig war, solange eine nach Absatz 1 erlassene
 Rechtsverordnung die Zuständigkeit nicht anders regelt.
 
 
-#### Zweiter Unterabschnitt - Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften
+#### Zweiter Unterabschnitt - Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
 
 
 
-##### § 123 Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften
+##### § 123 Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
 
-(1) Die landwirtschaftlichen Berufsgenossenschaften sind für folgende
+(1) Die landwirtschaftliche Berufsgenossenschaft ist für folgende
 Unternehmen (landwirtschaftliche Unternehmen) zuständig, soweit sich
 nicht aus dem Dritten Unterabschnitt eine Zuständigkeit der
 Unfallversicherungsträger der öffentlichen Hand ergibt:
@@ -4319,9 +4280,9 @@ Unfallversicherungsträger der öffentlichen Hand ergibt:
     der Landwirtschaft überwiegend dienen,
 
 
-8.  die Träger der landwirtschaftlichen Sozialversicherung, deren Verbände
-    und deren weitere Einrichtungen sowie die Zusatzversorgungskasse und
-    das Zusatzversorgungswerk für Arbeitnehmer in der Land- und
+8.  die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau und
+    deren weitere Einrichtungen sowie die Zusatzversorgungskasse und das
+    Zusatzversorgungswerk für Arbeitnehmer in der Land- und
     Forstwirtschaft.
 
 
@@ -4349,16 +4310,7 @@ Bundesrates bestimmen, daß auch andere als die in Absatz 1 genannten
 Unternehmen als landwirtschaftliche Unternehmen gelten, wenn diese
 überwiegend der Land- und Forstwirtschaft dienen.
 
-(4) Das Bundesministerium für Arbeit und Soziales kann durch
-Rechtsverordnung mit Zustimmung des Bundesrates die örtliche
-Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften
-bestimmen. Werden dabei bestehende Zuständigkeiten verändert, ist in
-der Rechtsverordnung zu regeln, in welchem Umfang die bisher
-zuständige Berufsgenossenschaft Betriebsmittel und Mittel aus der
-Rücklage an die nunmehr zuständige Berufsgenossenschaft zu übertragen
-hat.
-
-(5) Unternehmen, die aufgrund von Allgemeinen Entscheidungen des
+(4) Unternehmen, die aufgrund von Allgemeinen Entscheidungen des
 Reichsversicherungsamtes beim Inkrafttreten dieses Buches einer
 landwirtschaftlichen Berufsgenossenschaft angehören, gelten als
 landwirtschaftliche Unternehmen. Das Bundesministerium für Arbeit und
@@ -4367,9 +4319,9 @@ Landwirtschaft und Verbraucherschutz diese Unternehmen in einer
 Rechtsverordnung mit Zustimmung des Bundesrates zusammenfassen. Dabei
 können die Zuständigkeiten auch abweichend von den Entscheidungen des
 Reichsversicherungsamtes bestimmt werden, soweit dies erforderlich
-ist, um zusammengehörige Unternehmensarten einheitlich den
-landwirtschaftlichen oder den gewerblichen Berufsgenossenschaften
-zuzuweisen.
+ist, um zusammengehörige Unternehmensarten einheitlich der
+landwirtschaftlichen Berufsgenossenschaft oder den gewerblichen
+Berufsgenossenschaften zuzuweisen.
 
 
 ##### § 124 Bestandteile des landwirtschaftlichen Unternehmens
@@ -4573,10 +4525,12 @@ Die Unfallkasse Post und Telekom ist zuständig
 1a. für Unternehmen, die in selbständiger Rechtsform betrieben werden und
     an denen das Land
 
-    a)  unmittelbar oder mittelbar überwiegend beteiligt ist oder
+    a)  bei Kapitalgesellschaften unmittelbar oder mittelbar die Mehrheit der
+        Kapitalanteile auf sich vereint oder
 
 
-    b)  auf deren Organe es einen ausschlaggebenden Einfluss hat,
+    b)  bei sonstigen Unternehmen die Stimmenmehrheit in dem Organ, dem die
+        Verwaltung und Führung des Unternehmens obliegt, auf sich vereint,
 
 
 
@@ -4648,10 +4602,12 @@ entsprechend.
 1a. für Unternehmen, die in selbständiger Rechtsform betrieben werden und
     an denen Gemeinden oder Gemeindeverbände
 
-    a)  unmittelbar oder mittelbar überwiegend beteiligt sind oder
+    a)  bei Kapitalgesellschaften unmittelbar oder mittelbar die Mehrheit der
+        Kapitalanteile auf sich vereinen oder
 
 
-    b)  auf deren Organe sie einen ausschlaggebenden Einfluss haben,
+    b)  bei sonstigen Unternehmen die Stimmenmehrheit in dem Organ, dem die
+        Verwaltung und Führung des Unternehmens obliegt, auf sich vereinen,
 
 
 
@@ -4690,57 +4646,57 @@ entsprechend.
 
 (3) (weggefallen)
 
-(4) Absatz 1 Nr. 1 und Nr. 1a gelten nicht für
+(4) Absatz 1 Nummer 1a gilt nicht für
 
 1.  Verkehrsunternehmen einschließlich Hafen- und Umschlagbetriebe,
 
 
-2.  Elektrizitäts-, Gas- und Wasserwerke,
+2.  Elektrizitäts-, Gas- und Wasserwerke sowie
 
 
-3.  Unternehmen, die Seefahrt betreiben,
-
-
-4.  landwirtschaftliche Unternehmen der in § 123 Abs. 1 Nr. 1, 4 und 5
-    genannten Art.
+3.  Unternehmen, die Seefahrt betreiben.
 
 
 
+Absatz 1 Nummer 1 und 1a gilt nicht für landwirtschaftliche
+Unternehmen der in § 123 Absatz 1 Nummer 1, 4 und 5 genannten Art.
 
 
 ##### § 129a Zuständigkeit bei gemeinsamer Beteiligung von Bund, Ländern, Gemeinden oder Gemeindeverbänden an Unternehmen
 
 (1) Zur Feststellung der Voraussetzungen für die Zuständigkeit von
 Unfallversicherungsträgern im Landesbereich oder im kommunalen Bereich
-sind Beteiligungen von Bund, Ländern, Gemeinden und Gemeindeverbänden
-an Unternehmen, die in selbständiger Rechtsform betrieben werden,
-zusammenzurechnen.
+sind bei Kapitalgesellschaften Kapitalbeteiligungen von Bund, Ländern,
+Gemeinden und Gemeindeverbänden an Unternehmen, die in selbständiger
+Rechtsform betrieben werden, zusammenzurechnen.
 
-(2) Bei einer gemeinsamen Beteiligung von Bund, Ländern, Gemeinden
-oder Gemeindeverbänden an Unternehmen richtet sich die Zuständigkeit
-nach der mehrheitlichen Beteiligung.
+(2) Bei einer gemeinsamen Kapitalbeteiligung von Bund, Ländern,
+Gemeinden oder Gemeindeverbänden an Kapitalgesellschaften richtet sich
+die Zuständigkeit nach der mehrheitlichen Kapitalbeteiligung.
 
-(3) Bei gleicher Beteiligung von Bund und Ländern sowie bei gleicher
-Beteiligung von Bund und Gemeinden oder Gemeindeverbänden erfolgt die
-Festlegung der Zuständigkeit im gegenseitigen Einvernehmen. Das
-Einvernehmen ist herzustellen zwischen der jeweils nach Landesrecht
-zuständigen Stelle und dem Bund; § 125 Abs. 2 Satz 3 gilt
-entsprechend. Kann ein Einvernehmen nicht hergestellt werden, ist der
+(3) Bei gleicher Kapitalbeteiligung von Bund und Ländern sowie bei
+gleicher Kapitalbeteiligung von Bund und Gemeinden oder
+Gemeindeverbänden an Kapitalgesellschaften erfolgt die Festlegung der
+Zuständigkeit im gegenseitigen Einvernehmen. Das Einvernehmen ist
+herzustellen zwischen der jeweils nach Landesrecht zuständigen Stelle
+und dem Bund; § 125 Abs. 2 Satz 3 gilt entsprechend. Kann ein
+Einvernehmen nicht hergestellt werden, ist der
 Unfallversicherungsträger im Landesbereich oder im kommunalen Bereich
 zuständig.
 
-(4) Bei gleicher Beteiligung von Ländern erfolgt die Festlegung der
-Zuständigkeit im gegenseitigen Einvernehmen der nach Landesrecht
-zuständigen Stellen.
+(4) Bei gleicher Kapitalbeteiligung von Ländern an
+Kapitalgesellschaften erfolgt die Festlegung der Zuständigkeit im
+gegenseitigen Einvernehmen der nach Landesrecht zuständigen Stellen.
 
-(5) Bei gleicher Beteiligung von Ländern und Gemeinden oder
-Gemeindeverbänden erfolgt die Festlegung der Zuständigkeit im
-gegenseitigen Einvernehmen durch die jeweils nach Landesrecht
-zuständige Stelle.
+(5) Bei gleicher Kapitalbeteiligung von Ländern und Gemeinden oder
+Gemeindeverbänden an Kapitalgesellschaften erfolgt die Festlegung der
+Zuständigkeit im gegenseitigen Einvernehmen durch die jeweils nach
+Landesrecht zuständige Stelle.
 
-(6)  Die Absätze 1 bis 5 gelten hinsichtlich des gemeinsamen
-ausschlaggebenden Einflusses von Bund, Ländern, Gemeinden oder
-Gemeindeverbänden auf die Organe des Unternehmens entsprechend.
+(6) Die Absätze 1 bis 5 gelten bei sonstigen Unternehmen in
+selbständiger Rechtsform hinsichtlich der gemeinsamen Stimmenmehrheit
+von Bund, Ländern, Gemeinden oder Gemeindeverbänden in dem Organ, dem
+die Verwaltung und Führung des Unternehmens obliegt, entsprechend.
 
 
 #### Vierter Unterabschnitt - Gemeinsame Vorschriften über die Zuständigkeit
@@ -4796,7 +4752,7 @@ unterstehen.
 (1) Umfaßt ein Unternehmen verschiedenartige Bestandteile
 (Hauptunternehmen, Nebenunternehmen, Hilfsunternehmen), die demselben
 Rechtsträger angehören, ist der Unfallversicherungsträger zuständig,
-dem das Hauptunternehmen angehört.
+dem das Hauptunternehmen angehört. § 129 Absatz 4 bleibt unberührt.
 
 (2) Das Hauptunternehmen bildet den Schwerpunkt des Unternehmens.
 Hilfsunternehmen dienen überwiegend den Zwecken anderer
@@ -5111,36 +5067,13 @@ Unfallversicherung um. Auf die Umlage kann sie Vorschüsse einfordern.
 
 #### § 140 Haftpflicht- und Auslandsversicherung
 
-(1) Die Braunschweigische landwirtschaftliche Berufsgenossenschaft,
-die Land- und forstwirtschaftliche Berufsgenossenschaft Hessen und die
-Gartenbau-Berufsgenossenschaft können eine Versicherung gegen
-Haftpflicht für die Unternehmer und die ihnen in der Haftpflicht
-Gleichstehenden betreiben. Vereinigen sich auf Grund des Ersten
-Abschnitts des Fünften Kapitels dieses Gesetzes die Braunschweigische
-landwirtschaftliche Berufsgenossenschaft und die Land- und
-forstwirtschaftliche Berufsgenossenschaft Hessen mit anderen
-Berufsgenossenschaften oder werden sie mit anderen
-Berufsgenossenschaften auf Grund dieses Gesetzes vereinigt, können
-eine Versicherung gegen Haftpflicht für die Unternehmer und die ihnen
-in der Haftpflicht Gleichstehenden betreiben
-
-1.  die unter Einbeziehung der Braunschweigischen landwirtschaftlichen
-    Berufsgenossenschaft neu gebildete landwirtschaftliche
-    Berufsgenossenschaft mit den bis zur Errichtung dieser
-    Berufsgenossenschaft bestehenden Zuständigkeiten der
-    Haftpflichtversicherungsanstalt der Braunschweigischen
-    landwirtschaftlichen Berufsgenossenschaft,
-
-
-2.  die unter Einbeziehung der Land- und forstwirtschaftlichen
-    Berufsgenossenschaft Hessen neu gebildete landwirtschaftliche
-    Berufsgenossenschaft mit den bis zur Errichtung dieser
-    Berufsgenossenschaft bestehenden Zuständigkeiten der Gemeinnützigen
-    Haftpflichtversicherungsanstalt der Land- und forstwirtschaftlichen
-    Berufsgenossenschaft Hessen.
-
-
-
+(1) Die landwirtschaftliche Berufsgenossenschaft kann für diejenigen
+Unternehmer und die ihnen in der Haftpflicht Gleichstehenden, deren
+Betriebssitz sich im örtlichen und sachlichen Zuständigkeitsbereich
+einer am 31. Dezember 2012 bestehenden landwirtschaftlichen
+Berufsgenossenschaft befindet, die bis zu diesem Zeitpunkt eine
+Versicherung gegen Haftpflicht nach den an diesem Tag geltenden
+Vorschriften betrieben hat, diese Versicherung weiter betreiben.
 
 (2) Die Unfallversicherungsträger können durch Beschluß der
 Vertreterversammlung eine Versicherung gegen Unfälle einrichten, die
@@ -5182,525 +5115,6 @@ der Genehmigung der Aufsichtsbehörde.
 #### § 143 (weggefallen)
 
 -
-
-
-### Abschnitt 3a - Spitzenverband der landwirtschaftlichen Sozialversicherung
-
-
-
-#### § 143a Rechtsstellung und Aufgaben
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-der Spitzenverband der landwirtschaftlichen Berufsgenossenschaften,
-landwirtschaftlichen Alterskassen und landwirtschaftlichen
-Krankenkassen (Träger der landwirtschaftlichen Sozialversicherung).
-Der Spitzenverband hat die ihm zugewiesenen Aufgaben sowie Grundsatz-
-und Querschnittsaufgaben zu erfüllen und seine Mitglieder bei der
-Erfüllung ihrer Aufgaben zu unterstützen.
-
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-eine Körperschaft des öffentlichen Rechts. Mitglieder sind die Träger
-der landwirtschaftlichen Sozialversicherung.
-
-
-#### § 143b Organe
-
-(1) Bei dem Spitzenverband der landwirtschaftlichen Sozialversicherung
-werden als Selbstverwaltungsorgane eine Vertreterversammlung und ein
-Vorstand gebildet.
-
-(2) Die Vertreterversammlung besteht aus höchstens 27 Mitgliedern, die
-dem Vorstand eines Trägers der landwirtschaftlichen Sozialversicherung
-angehören müssen. Jede Verwaltungsgemeinschaft von Trägern der
-landwirtschaftlichen Sozialversicherung wählt aus ihren Vorständen
-insgesamt drei Mitglieder und insgesamt drei Stellvertreter in die
-Vertreterversammlung, von denen je ein Mitglied und je ein
-Stellvertreter der Gruppe der versicherten Arbeitnehmer, der Gruppe
-der Arbeitgeber und der Gruppe der Selbständigen ohne fremde
-Arbeitskräfte angehören muss.
-
-(3) Der Vorstand setzt sich aus neun von der Vertreterversammlung aus
-ihrer Mitte gewählten Mitgliedern zusammen; für jedes Mitglied wird
-ein Stellvertreter gewählt. Diese gehören zu je einem Drittel der
-Gruppe der versicherten Arbeitnehmer, der Gruppe der Arbeitgeber und
-der Gruppe der Selbständigen ohne fremde Arbeitskräfte an. Im Vorstand
-soll jede Verwaltungsgemeinschaft der Träger der landwirtschaftlichen
-Sozialversicherung vertreten sein.
-
-(4) Für die Organe gelten § 31 Abs. 1 bis 3, § 33 Abs. 1 Satz 1 und
-Abs. 2, die §§ 35 bis 37 Abs. 1, die §§ 38, 40 bis 42 Abs. 1 bis 3,
-die §§ 58 bis 60, die §§ 62, 63 Abs. 1, 3 und 4, § 64 Abs. 1 bis 3
-sowie die §§ 65, 66 Abs. 1 des Vierten Buches entsprechend. Das Nähere
-wird in der Satzung bestimmt. Die Vertreterversammlung beschließt auch
-über den Erwerb, die Veräußerung oder die Belastung von Grundstücken,
-über die Errichtung von Gebäuden sowie über die Aufbringung der Mittel
-zur Finanzierung der Verbandsaufgaben.
-
-(5) In den Selbstverwaltungsorganen wirken in Angelegenheiten der
-landwirtschaftlichen Krankenversicherung und der Alterssicherung der
-Landwirte die Vertreter der versicherten Arbeitnehmer nicht mit. Die
-Belange der Verwaltungsgemeinschaften, die aus diesem Grunde im
-Vorstand nicht vertreten sind, müssen in angemessener Weise
-berücksichtigt werden. Das Nähere wird in der Satzung bestimmt.
-
-(6) Der Geschäftsführer und der Stellvertreter des Geschäftsführers
-werden auf Vorschlag des Vorstandes von der Vertreterversammlung für
-eine Amtsdauer von jeweils sechs Jahren gewählt. Eine Wiederwahl ist
-zulässig.
-
-(7) Das Bundesministerium für Arbeit und Soziales und das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-gehören den Selbstverwaltungsorganen mit beratender Stimme an; für das
-Bundesministerium für Arbeit und Soziales gilt dies nicht, soweit
-Fragen der landwirtschaftlichen Krankenversicherung berührt werden.
-
-
-#### § 143c Satzung
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung hat
-durch seine Vertreterversammlung eine Satzung aufzustellen. Die
-Satzung bedarf der Genehmigung der Aufsichtsbehörde.
-
-(2) Die Satzung muss Bestimmungen enthalten über
-
-1.  den Sitz des Verbandes,
-
-
-2.  die Entschädigungen für Organmitglieder,
-
-
-3.  die Öffentlichkeit der Vertreterversammlung,
-
-
-4.  die Rechte und Pflichten der Mitglieder,
-
-
-5.  die Verpflichtung der Mitglieder zur Unterstützung, Unterrichtung und
-    Information des Spitzenverbandes der landwirtschaftlichen
-    Sozialversicherung bei der Erfüllung seiner Aufgaben und Wahrnehmung
-    der Interessen der Mitglieder,
-
-
-6.  die Aufbringung und Verwaltung der Mittel,
-
-
-7.  die jährliche Prüfung der Betriebs- und Rechnungsführung und
-
-
-8.  die Art der Bekanntmachungen.
-
-
-
-Für die Bekanntmachung der Satzung gilt § 34 Abs. 2 des Vierten Buches
-entsprechend.
-
-
-#### § 143d Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken, Finanzierung, Bundesgarantie
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-untersteht der Aufsicht des Bundesversicherungsamtes. Für die Aufsicht
-gelten die §§ 87 bis 89 des Vierten Buches entsprechend. Soweit der
-Spitzenverband der landwirtschaftlichen Sozialversicherung Aufgaben
-der Prävention in der gesetzlichen Unfallversicherung wahrnimmt,
-untersteht er der Fach- und Rechtsaufsicht des Bundesministeriums für
-Arbeit und Soziales.
-
-(2) Für das Haushalts- und Rechnungswesen einschließlich der
-Statistiken gelten die §§ 67 bis 69, § 70 Abs. 1, § 71d, die §§ 72 bis
-76 Abs. 1 und 2, § 77 Abs. 1, die §§ 78 und 79 Abs. 1 und 2 sowie für
-das Vermögen die §§ 80 und 85 des Vierten Buches entsprechend.
-
-(3) Der Spitzenverband der landwirtschaftlichen Sozialversicherung hat
-sicherzustellen, dass seine Ausgaben und Einnahmen sowie das Vermögen
-den Aufgabenbereichen der landwirtschaftlichen Unfallversicherung, der
-landwirtschaftlichen Krankenversicherung und der Alterssicherung der
-Landwirte zugeordnet werden (Kostenverteilungsschlüssel). Der
-Kostenverteilungsschlüssel bedarf der Genehmigung der
-Aufsichtsbehörde, die im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales und dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz erteilt wird.
-
-(4) Auf den Spitzenverband der landwirtschaftlichen Sozialversicherung
-ist § 120 entsprechend anzuwenden.
-
-
-#### § 143e Aufgaben
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-nimmt für die landwirtschaftliche Sozialversicherung die Grundsatz-
-und Querschnittsaufgaben wahr. Dazu gehören:
-
-1.  Vertretung seiner Mitglieder sowie der landwirtschaftlichen
-    Sozialversicherung in ihrer Gesamtheit gegenüber Politik, Bundes-,
-    europäischen und sonstigen nationalen und internationalen
-    Institutionen sowie Sozialpartnern, anderen Trägern der
-    Sozialversicherung und deren Verbänden, nationalen und internationalen
-    Behörden, obersten Bundesgerichten sowie dem Europäischen Gerichtshof;
-
-
-2.  Unterstützung der zuständigen Behörden in Fragen der Gesetzgebung und
-    Verwaltung; § 30 Abs. 3 des Vierten Buches ist entsprechend
-    anzuwenden;
-
-
-3.  Sicherung der einheitlichen Rechtsanwendung durch Klärung von
-    grundsätzlichen Fach- und Rechtsfragen;
-
-
-4.  Öffentlichkeitsarbeit einschließlich der Herausgabe von regelmäßigen
-    Informationen zur landwirtschaftlichen Sozialversicherung für
-    Unternehmer und Versicherte und der Grundsätze für regionale und
-    trägerspezifische Broschüren;
-
-
-5.  Erstellung und Auswertung von Statistiken für Verbandszwecke sowie für
-    die Gesetzgebung, Forschung und allgemeine Öffentlichkeit;
-
-
-6.  Organisation und Durchführung des Qualitäts- und
-    Wirtschaftlichkeitswettbewerbs zwischen den Trägern (Benchmarking von
-    Leistungs- und Qualitätsdaten);
-
-
-7.  Grundsätze für
-
-    a)  die Personalbedarfsermittlung in der landwirtschaftlichen
-        Sozialversicherung,
-
-
-    b)  eine wirtschaftliche Gestaltung der Aufbau- und Ablauforganisation und
-
-
-    c)  die Planung und Durchführung größerer Investitionsvorhaben
-
-
-
-    unter Wahrung der Selbständigkeit der Träger;
-
-
-8.  Sicherstellung einer einheitlichen Gliederung und Durchführung der
-    Geschäftsprozesse zur wirtschaftlichen Aufgabenerfüllung der
-    Mitglieder;
-
-
-9.  Grundsätze der Finanzausstattung und -verwaltung im Rahmen der
-    Finanzverfassung für das gesamte System der landwirtschaftlichen
-    Sozialversicherung unter Wahrung der Selbständigkeit der Träger;
-
-
-10. Funktion als Signaturstelle;
-
-
-11. Organisation der beruflichen Aus-, Fort- und Weiterbildung der bei den
-    Trägern der landwirtschaftlichen Sozialversicherung Beschäftigten,
-    auch durch Errichtung und Betrieb von Bildungseinrichtungen oder
-    Beteiligung an diesen;
-
-
-12. Evaluierung von medizinischen Gutachten seiner Mitglieder;
-
-
-13. Durchführung oder Vergabe von Forschungsvorhaben auf dem Gebiet der
-    landwirtschaftlichen Sozialversicherung;
-
-
-14. Abschluss von Tarifverträgen für die Träger der landwirtschaftlichen
-    Sozialversicherung;
-
-
-15. Abschluss von Teilungsabkommen;
-
-
-16. Sicherstellung einer einheitlichen Erbringung der Betriebs- und
-    Haushaltshilfe durch Grundsätze zur Beurteilung der Erforderlichkeit
-    und
-
-
-17. Durchführung von Arbeitstagungen.
-
-
-
-
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-zuständig für die Erfüllung folgender Aufgaben:
-
-1.  Bereitstellung der Informationstechnik in der landwirtschaftlichen
-    Sozialversicherung durch
-
-    a)  Betreiben des gemeinsamen Rechenzentrums der landwirtschaftlichen
-        Sozialversicherung und
-
-
-    b)  Planung, Entwicklung, Beschaffung sowie Einsatz von Verfahren und
-        Programmen für die automatisierte Datenverarbeitung, den Datenschutz
-        und die Datensicherung zur Erfüllung der gesetzlichen Aufgaben der
-        landwirtschaftlichen Sozialversicherung,
-
-
-
-
-
-2.  Abschluss von Verträgen für die Mitglieder und für die
-    landwirtschaftliche Sozialversicherung in ihrer Gesamtheit mit anderen
-    Trägern oder Verbänden der Sozialversicherung,
-
-
-3.  Bearbeitung von Sachverhalten und Erbringung von Leistungen der
-    landwirtschaftlichen Sozialversicherung mit Auslandsberührung im Namen
-    seiner Mitglieder,
-
-
-4.  Geltendmachung und Durchsetzung von Erstattungs- und Ersatzansprüchen
-    im Namen seiner Mitglieder (§§ 115 bis 119 des Zehnten Buches),
-
-
-5.  Prüfung der Geschäfts-, Rechnungs- und Betriebsführung der Mitglieder,
-
-
-6.  Betreiben einer gemeinsamen Einrichtung, um die Informationen für die
-    Verteilung der Versicherten, deren Anspruch auf Leistungen zur
-    Rehabilitation von den Mitgliedern festgestellt ist, auf die
-    Rehabilitationseinrichtungen zur Verfügung zu stellen,
-
-
-7.  Aufstellung von einheitlichen Abgrenzungskriterien für die
-    Zuständigkeit der landwirtschaftlichen Sozialversicherungsträger und
-    Abgabe von Empfehlungen zur Entscheidung von Zuständigkeitskonflikten
-    und
-
-
-8.  Erlass von verbindlichen Vorgaben für den Beitragseinzug, insbesondere
-    zum Verfahren der Beitragserhebung und zur Beitragsüberwachung, sowie
-    zum Einzug sonstiger Forderungen.
-
-
-
-
-(3) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-nimmt auf dem Gebiet der gesetzlichen Unfallversicherung für die
-landwirtschaftlichen Berufsgenossenschaften weitere Grundsatz- und
-Querschnittsaufgaben wahr. Dazu gehören:
-
-1.  Erlass von Richtlinien für
-
-    a)  die Berechnungsgrundlagen nach § 182 Abs. 2 bis 6, insbesondere die
-        Bildung von Risikogruppen sowie die Berücksichtigung des solidarischen
-        Ausgleichs, und
-
-
-    b)  ein einheitliches Verfahren zur Ermittlung der für die
-        beitragsbelastbaren Flächenwerte maßgebenden Daten sowie die Führung
-        der Flächen- und Arbeitswertkataster,
-
-
-
-
-
-2.  Durchführung des Lastenausgleichs nach § 184d,
-
-
-3.  Koordination der Mitwirkung der landwirtschaftlichen
-    Berufsgenossenschaften an der Tätigkeit der gemeinsamen
-    landesbezogenen Stellen nach § 20 Abs. 2,
-
-
-4.  Koordinierung, Durchführung und Förderung gemeinsamer Maßnahmen sowie
-    der Forschung auf dem Gebiet der Prävention von Arbeitsunfällen,
-    Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren,
-
-
-5.  Klärung von grundsätzlichen Fach- und Rechtsfragen zur Sicherung der
-    einheitlichen Rechtsanwendung in der Prävention.
-
-
-
-
-(4) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-auf dem Gebiet der landwirtschaftlichen Unfallversicherung zuständig
-für die Erfüllung folgender Aufgaben:
-
-1.  Auszahlung und Anpassung von Renten im Namen der landwirtschaftlichen
-    Berufsgenossenschaften; das Auszahlungsverfahren wird durch die
-    Satzung des Spitzenverbandes der landwirtschaftlichen
-    Sozialversicherung geregelt;
-
-
-2.  Abschluss von Verträgen mit Leistungserbringern für die
-    landwirtschaftlichen Berufsgenossenschaften;
-
-
-3.  Verwaltung der liquiden Mittel der Rücklage für die
-    landwirtschaftlichen Berufsgenossenschaften;
-
-
-4.  Koordinierung der Schwerpunkte der Unfallverhütung, Erlass von
-    Unfallverhütungsvorschriften für die landwirtschaftlichen
-    Berufsgenossenschaften mit Ausnahme von Unfallverhütungsvorschriften,
-    die ausschließlich auf Unternehmen des Gartenbaus anzuwenden sind, und
-    Festlegung eines einheitlichen Bußgeldrahmens bei Verstößen gegen die
-    Unfallverhütungsvorschriften;
-
-
-5.  Überprüfung von Krankenhaus- und Apothekenabrechnungen für die
-    landwirtschaftlichen Berufsgenossenschaften und
-
-
-6.  Geltendmachung und Durchsetzung von Ansprüchen nach den §§ 110 bis 113
-    im Namen seiner Mitglieder.
-
-
-
-
-(5) Bei der Erfüllung der Aufgaben nach den Absätzen 1 und 3 arbeitet
-der Spitzenverband der landwirtschaftlichen Sozialversicherung eng mit
-der Deutschen Gesetzlichen Unfallversicherung e. V. zusammen. Das
-Nähere wird in Verwaltungsvereinbarungen geregelt.
-
-(6) Die Entscheidungen des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung in Grundsatz- und Querschnittsaufgaben werden durch
-die Vertreterversammlung des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung getroffen. Die Vertreterversammlung kann die
-Entscheidungsbefugnis ganz oder teilweise auf den Vorstand übertragen.
-Der Vorstand kann die Entscheidungsbefugnis ganz oder teilweise auf
-einen Ausschuss des Vorstandes übertragen. Die Entscheidungen dieses
-Ausschusses müssen einstimmig ergehen. Der Ausschuss legt dem Vorstand
-die Entscheidungen vor; der Vorstand kann abweichende Entscheidungen
-treffen. Dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung können durch die Vertreterversammlung mit einer
-Mehrheit von mindestens zwei Dritteln der Stimmen der ihr angehörenden
-stimmberechtigten Mitglieder weitere Grundsatz- und
-Querschnittsaufgaben übertragen werden. Die Entscheidungen des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung zu
-Grundsatz- und Querschnittsaufgaben sind für seine Mitglieder
-verbindlich.
-
-(7) Die verbindlichen Entscheidungen sowie die Übertragung weiterer
-Grundsatz- und Querschnittsaufgaben werden im Bundesanzeiger
-veröffentlicht.
-
-
-#### § 143f Zusammenarbeit
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung und
-die Träger der landwirtschaftlichen Sozialversicherung arbeiten bei
-der Erfüllung ihrer Verwaltungsaufgaben und der Betreuung der
-Versicherten eng zusammen, um eine wirtschaftliche und sparsame
-Aufgabenerfüllung zu gewährleisten.
-
-(2) Werden vom Spitzenverband der landwirtschaftlichen
-Sozialversicherung oder von einem Träger der landwirtschaftlichen
-Sozialversicherung gemeinsame Einrichtungen geschaffen oder
-unterhalten oder werden in sonstiger Weise Mittel und Kräfte für die
-Erfüllung von Aufgaben anderer oder aller Träger eingesetzt, ist durch
-geeignete Verfahren eine sachgerechte Kostenaufteilung
-sicherzustellen. Die Verfahren bedürfen der Genehmigung durch die
-jeweilige Aufsichtsbehörde, die im Benehmen mit dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz erteilt wird.
-
-
-#### § 143g Geschäftsführung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-
-(1) Mit dem Geschäftsführer und dem stellvertretenden Geschäftsführer
-des Spitzenverbandes der landwirtschaftlichen Sozialversicherung wird
-für ihre Amtsdauer ein Dienstordnungsverhältnis auf Zeit oder ein
-privatrechtliches Arbeitsverhältnis auf Zeit begründet. Das befristete
-Dienstordnungsverhältnis oder der Arbeitsvertrag bedarf der Zustimmung
-der nach § 143d zuständigen Aufsichtsbehörde.
-
-(2) Die Dienstbezüge im Dienstordnungsverhältnis oder die vertraglich
-zu vereinbarende Vergütung des Geschäftsführers des Spitzenverbandes
-der landwirtschaftlichen Sozialversicherung dürfen die Bezüge nach
-Besoldungsgruppe B 6 der Bundesbesoldungsordnung nicht übersteigen;
-für den stellvertretenden Geschäftsführer darf die Besoldungsgruppe B
-5 nicht überschritten werden.
-
-(3) Ist der Geschäftsführer oder der stellvertretende Geschäftsführer
-des Spitzenverbandes der landwirtschaftlichen Sozialversicherung aus
-einem Dienstordnungsverhältnis oder Beamtenverhältnis auf Lebenszeit
-gewählt worden, ruhen für die Dauer der Amtszeit die Rechte und
-Pflichten aus dem Dienstverhältnis auf Lebenszeit mit Ausnahme der
-Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von
-Belohnungen und Geschenken.
-
-
-#### § 143h Beschäftigte des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-
-Auf den Spitzenverband der landwirtschaftlichen Sozialversicherung
-sind die Vorschriften der §§ 144 bis 147, § 172c und § 219a Abs. 2 bis
-4 anzuwenden.
-
-
-#### § 143i Gemeinsame Personalvertretung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung, Beteiligung der Gleichstellungsbeauftragten
-
-(1) Vor verbindlichen Entscheidungen des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung nach § 143e über
-
-1.  die Personalbedarfsermittlung,
-
-
-2.  die wirtschaftliche Gestaltung der Aufbau- und Ablauforganisation und
-
-
-3.  die Organisation der beruflichen Aus-, Fort- und Weiterbildung
-
-
-
-ist die Gemeinsame Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung anzuhören. Vor der Anhörung
-nach Satz 1 ist die Gemeinsame Personalvertretung frühzeitig zu
-unterrichten. Gleiches gilt für Entscheidungen, deren Umsetzung in
-gleicher Weise wie Entscheidungen nach Satz 1 Einfluss auf die
-Arbeitsbedingungen der Beschäftigten haben können. Das Verfahren zur
-Beteiligung ist in einer Vereinbarung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung und der Gemeinsamen
-Personalvertretung zu regeln.
-
-(2) Mitglieder der Gemeinsamen Personalvertretung des Spitzenverbandes
-der landwirtschaftlichen Sozialversicherung sind Vertreterinnen und
-Vertreter der Personalräte der Träger der landwirtschaftlichen
-Sozialversicherung oder, soweit sie gebildet sind, der
-Gesamtpersonalräte der Träger der landwirtschaftlichen
-Sozialversicherung und des Personalrates des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung.
-
-(3) Die Gemeinsame Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung setzt sich aus Mitgliedern der
-Personalvertretungen nach Absatz 2 Satz 1 zusammen. Insgesamt dürfen
-je Verwaltungsgemeinschaft entsandt werden:
-
-1.  drei Mitglieder bei Verwaltungsgemeinschaften mit bis zu 699
-    wahlberechtigten Beschäftigten,
-
-
-2.  sechs Mitglieder bei Verwaltungsgemeinschaften mit mehr als 699
-    wahlberechtigten Beschäftigten.
-
-
-
-Aus der Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung werden drei Mitglieder
-entsandt. Die Gemeinsame Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung beschließt mit der Mehrheit
-der Stimmen ihrer Mitglieder eine Geschäftsordnung, die Regelungen
-über den Vorsitz, das Verfahren zur internen Willensbildung und zur
-Beschlussfassung enthalten muss. Ergänzend finden die Regelungen des
-Bundespersonalvertretungsgesetzes entsprechend Anwendung.
-Kostentragende Stelle im Sinne des § 44 des
-Bundespersonalvertretungsgesetzes ist der Spitzenverband der
-landwirtschaftlichen Sozialversicherung.
-
-(4) Vor Entscheidungen des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung in Grundsatz- und Querschnittsaufgaben, die sich
-auf die Gleichstellung von Frauen und Männern sowie die Vereinbarkeit
-von Familie und Erwerbstätigkeit bei den Beschäftigten ihrer
-Mitglieder auswirken, wirkt die Gleichstellungsbeauftragte des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung im Sinne
-der Regelungen der §§ 19 und 20 des Gesetzes zur Gleichstellung von
-Frauen und Männern in der Bundesverwaltung und in den Gerichten des
-Bundes mit. Die Gleichstellungsbeauftragte des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung beteiligt die
-Gleichstellungsbeauftragten der Mitglieder des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung.
 
 
 ### Vierter Abschnitt - Dienstrecht
@@ -5858,7 +5272,10 @@ ganz oder teilweise auf den Geschäftsführer übertragen kann.
 Versicherte tätig sind oder zu denen Versicherte in einer besonderen,
 die Versicherung begründenden Beziehung stehen. Die nach § 2
 versicherten Unternehmer sowie die nach § 3 Abs. 1 Nr. 1 und § 6 Abs.
-1 Versicherten sind selbst beitragspflichtig.
+1 Versicherten sind selbst beitragspflichtig. Für Versicherte nach § 6
+Absatz 1 Satz 2 ist die jeweilige Organisation oder der jeweilige
+Verband beitragspflichtig. Entsprechendes gilt in den Fällen des § 6
+Absatz 1 Satz 3.
 
 (2) Neben den Unternehmern sind beitragspflichtig
 
@@ -6108,9 +5525,9 @@ kann bestimmen, dass auch die nicht anzeigepflichtigen
 Versicherungsfälle für die Berechnung von Zuschlägen oder Nachlässen
 berücksichtigt werden. Die Sätze 1 bis 5 gelten auch für die
 Eisenbahn-Unfallkasse und für die Unfallkasse Post und Telekom. Die
-landwirtschaftlichen Berufsgenossenschaften können durch Satzung
-bestimmen, daß entsprechend den Sätzen 1 bis 5 Zuschläge auferlegt
-oder Nachlässe bewilligt werden.
+landwirtschaftliche Berufsgenossenschaft kann durch Satzung bestimmen,
+daß entsprechend den Sätzen 1 bis 5 Zuschläge auferlegt oder Nachlässe
+bewilligt werden.
 
 (2) Die Unfallversicherungsträger können unter Berücksichtigung der
 Wirksamkeit der von den Unternehmern getroffenen Maßnahmen zur
@@ -6425,27 +5842,25 @@ des Bundesrates zu regeln. Das Bundesministerium für Arbeit und
 Soziales kann die Befugnis nach Satz 1 mit Zustimmung des Bundesrates
 durch Rechtsverordnung auf das Bundesversicherungsamt übertragen.
 Rechtsverordnungen, die nach Satz 2 erlassen werden, bedürfen einer
-Anhörung der Deutschen Gesetzlichen Unfallversicherung e. V. sowie des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung und
-ergehen im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales sowie dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz.
+Anhörung der Deutschen Gesetzlichen Unfallversicherung e. V. sowie der
+landwirtschaftlichen Berufsgenossenschaft und ergehen im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales sowie dem
+Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
 
 
-#### Sechster Unterabschnitt - Zusammenlegung und Teilung der Last, Teilung der Entschädigungslast bei Berufskrankheiten, Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaften
+#### Sechster Unterabschnitt - Zusammenlegung und Teilung der Last, Teilung der Entschädigungslast bei Berufskrankheiten, Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaft
 
 
 
 ##### § 173 Zusammenlegung und Teilung der Last
 
-(1) Die gewerblichen und landwirtschaftlichen Berufsgenossenschaften
-können jeweils vereinbaren, ihre Entschädigungslast ganz oder zum Teil
-gemeinsam zu tragen. Dabei wird vereinbart, wie die gemeinsame Last
-auf die beteiligten Berufsgenossenschaften zu verteilen ist. Die
-Vereinbarung bedarf der Zustimmung der Vertreterversammlungen und der
-Genehmigung der Aufsichtsbehörden der beteiligten
-Berufsgenossenschaften. Sie darf nur mit dem Beginn eines
-Kalenderjahres wirksam werden.
+(1) Die gewerblichen Berufsgenossenschaften können vereinbaren, ihre
+Entschädigungslast ganz oder zum Teil gemeinsam zu tragen. Dabei wird
+vereinbart, wie die gemeinsame Last auf die beteiligten
+Berufsgenossenschaften zu verteilen ist. Die Vereinbarung bedarf der
+Zustimmung der Vertreterversammlungen und der Genehmigung der
+Aufsichtsbehörden der beteiligten Berufsgenossenschaften. Sie darf nur
+mit dem Beginn eines Kalenderjahres wirksam werden.
 
 (2) Kommt eine Vereinbarung nach Absatz 1 nicht zustande und erscheint
 es zur Abwendung der Gefährdung der Leistungsfähigkeit einer
@@ -6455,10 +5870,7 @@ Bundesrates bestimmen, daß Berufsgenossenschaften ihre
 Entschädigungslast für ein Kalenderjahr ganz oder zum Teil gemeinsam
 tragen oder eine vorübergehend nicht leistungsfähige
 Berufsgenossenschaft unterstützen, und das Nähere über die Verteilung
-der Last und die Höhe der Unterstützung regeln. Sollen nur
-landesunmittelbare Berufsgenossenschaften beteiligt werden, gilt die
-Ermächtigung des Satzes 1 für die Landesregierungen der Länder, in
-denen die Berufsgenossenschaften ihren Sitz haben.
+der Last und die Höhe der Unterstützung regeln.
 
 (3) Der Anteil der Berufsgenossenschaft an der gemeinsamen Last wird
 wie die Entschädigungsbeträge, die die Berufsgenossenschaft nach
@@ -6487,11 +5899,11 @@ Verteilungsmaßstab wählen, einen pauschalierten Ausgleich vorsehen
 oder von einem Ausgleich absehen.
 
 
-##### § 175 Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaften
+##### § 175 Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaft
 
 Erleiden vorübergehend für ein landwirtschaftliches Unternehmen Tätige
 einen Versicherungsfall und ist für ihre hauptberufliche Tätigkeit ein
-anderer Unfallversicherungsträger als eine landwirtschaftliche
+anderer Unfallversicherungsträger als die landwirtschaftliche
 Berufsgenossenschaft zuständig, erstattet dieser der
 landwirtschaftlichen Berufsgenossenschaft die Leistungen, die über das
 hinausgehen, was mit gleichen Arbeiten dauernd in der Landwirtschaft
@@ -6720,36 +6132,33 @@ der hierauf entfallenden Verwaltungskosten nach Absatz 5 haben keine
 aufschiebende Wirkung.
 
 
-### Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftlichen Berufsgenossenschaften
+### Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftliche Unfallversicherung
 
 
 
 #### § 182 Berechnungsgrundlagen
 
-(1) Auf die landwirtschaftlichen Berufsgenossenschaften finden
-anstelle der Vorschriften über die Berechnungsgrundlagen aus dem
-Zweiten Unterabschnitt des Ersten Abschnitts die folgenden Absätze
-Anwendung.
+(1) Auf die landwirtschaftliche Berufsgenossenschaft finden anstelle
+der Vorschriften über die Berechnungsgrundlagen aus dem Zweiten
+Unterabschnitt des Ersten Abschnitts die folgenden Absätze Anwendung.
 
-(2) Berechnungsgrundlagen für die landwirtschaftlichen
-Berufsgenossenschaften sind das Umlagesoll, die Fläche, der
-Wirtschaftswert, der Flächenwert, der Arbeitsbedarf, der Arbeitswert
-oder ein anderer vergleichbarer Maßstab. Die Satzung hat bei der
-Festlegung der Berechnungsgrundlagen die Unfallrisiken in den
-Unternehmen ausreichend zu berücksichtigen; sie kann hierzu einen
-Gefahrtarif aufstellen. Die Satzung kann zusätzlich zu den
-Berechnungsgrundlagen nach den Sätzen 1 und 2 einen Mindestbeitrag
-oder einen Grundbeitrag bestimmen.
+(2) Berechnungsgrundlagen für die Beiträge der landwirtschaftlichen
+Berufsgenossenschaft sind das Umlagesoll, der Flächenwert, der
+Arbeitsbedarf, der Arbeitswert oder ein anderer vergleichbarer
+Maßstab. Die Satzung hat bei der Festlegung der Berechnungsgrundlagen
+die Unfallrisiken in den Unternehmen insbesondere durch die Bildung
+von Risikogruppen zu berücksichtigen; sie kann hierzu einen
+Gefahrtarif aufstellen. Ein angemessener solidarischer Ausgleich ist
+sicherzustellen. Die Satzung kann zusätzlich zu den
+Berechnungsgrundlagen nach den Sätzen 1 und 2 Mindestbeiträge und
+Berechnungsgrundlagen für Grundbeiträge festlegen.
 
 (3) Für Unternehmen ohne Bodenbewirtschaftung und für Nebenunternehmen
 eines landwirtschaftlichen Unternehmens kann die Satzung angemessene
 Berechnungsgrundlagen bestimmen; Absatz 2 Satz 2 und 3 gilt
 entsprechend.
 
-(4) Wirtschaftswert ist der Wirtschaftswert im Sinne des § 1 Abs. 6
-des Gesetzes über die Alterssicherung der Landwirte.
-
-(5) Der Flächenwert der landwirtschaftlichen Nutzung wird durch
+(4) Der Flächenwert der landwirtschaftlichen Nutzung wird durch
 Vervielfältigung des durchschnittlichen Hektarwertes dieser Nutzung in
 der Gemeinde oder in dem Gemeindeteil, in dem die Flächen gelegen sind
 oder der Betrieb seinen Sitz hat, mit der Größe der im Unternehmen
@@ -6779,7 +6188,7 @@ Flächenwertes für
 
 
 
-(6) Der Arbeitsbedarf wird nach dem Durchschnittsmaß der für die
+(5) Der Arbeitsbedarf wird nach dem Durchschnittsmaß der für die
 Unternehmen erforderlichen menschlichen Arbeit unter Berücksichtigung
 der Kulturarten geschätzt und das einzelne Unternehmen hiernach
 veranlagt. Das Nähere über die Abschätzung und die Veranlagung
@@ -6787,7 +6196,7 @@ bestimmt die Satzung. Der Abschätzungstarif hat eine Geltungsdauer von
 höchstens sechs Kalenderjahren; die §§ 158 und 159 gelten
 entsprechend.
 
-(7) Arbeitswert ist der Wert der Arbeit, die von den im Unternehmen
+(6) Arbeitswert ist der Wert der Arbeit, die von den im Unternehmen
 tätigen Versicherten im Kalenderjahr geleistet wird. Die Satzung
 bestimmt unter Berücksichtigung von Art und Umfang der Tätigkeit, für
 welche Versicherten sich der Arbeitswert nach dem Arbeitsentgelt, nach
@@ -6799,19 +6208,15 @@ gelten § 157 Abs. 5 und die §§ 158 bis 160 entsprechend.
 
 #### § 183 Umlageverfahren
 
-(1) Auf die landwirtschaftlichen Berufsgenossenschaften finden
-anstelle der Vorschriften über das Umlageverfahren aus dem Vierten
+(1) Auf die landwirtschaftliche Berufsgenossenschaft finden anstelle
+der Vorschriften über das Umlageverfahren aus dem Vierten
 Unterabschnitt des Ersten Abschnitts die folgenden Absätze Anwendung.
 
 (2) Die Einzelheiten der Beitragsberechnung bestimmt die Satzung.
-Dabei ist sicherzustellen, dass die Ausgleichsumlage nach § 184d
-unmittelbar beitragswirksam wird; eine Beschränkung auf bestimmte
-Gruppen von Unternehmen ist unter Berücksichtigung des
-Beitragsmaßstabes zulässig.
 
 (3) Landwirtschaftlichen Unternehmern, für die versicherungsfreie
 Personen oder Personen tätig sind, die infolge dieser Tätigkeit bei
-einem anderen Unfallversicherungsträger als einer landwirtschaftlichen
+einem anderen Unfallversicherungsträger als der landwirtschaftlichen
 Berufsgenossenschaft versichert sind, wird auf Antrag eine
 Beitragsermäßigung bewilligt. Das Nähere bestimmt die Satzung.
 
@@ -6838,12 +6243,12 @@ Unternehmer nur dann aufzuheben, wenn
 
 
 
-(5a) Zur Sicherung des Beitragsaufkommens sollen die
-landwirtschaftlichen Berufsgenossenschaften Vorschüsse bis zur Höhe
-des voraussichtlichen Jahresbedarfs erheben. Für die Zahlung der
-Vorschüsse sollen mindestens drei Fälligkeitstermine festgelegt
-werden. Die Satzung regelt das Nähere zur Fälligkeit der Beiträge und
-Vorschüsse sowie zum Verfahren der Zahlung.
+(5a) Zur Sicherung des Beitragsaufkommens soll die landwirtschaftliche
+Berufsgenossenschaft Vorschüsse bis zur Höhe des voraussichtlichen
+Jahresbedarfs erheben. Für die Zahlung der Vorschüsse sollen
+mindestens drei Fälligkeitstermine festgelegt werden. Die Satzung
+regelt das Nähere zur Fälligkeit der Beiträge und Vorschüsse sowie zum
+Verfahren der Zahlung.
 
 (5b) Der Beitrag und die Vorschüsse sollen im Wege des
 Lastschriftverfahrens eingezogen werden.
@@ -6863,8 +6268,8 @@ Einzug des Beitrags und der Vorschüsse erteilen.
 
 #### § 183a Rechenschaft über die Verwendung der Mittel
 
-Die landwirtschaftlichen Berufsgenossenschaften haben in ihren
-Mitgliederzeitschriften und vergleichbaren elektronischen Medien in
+Die landwirtschaftliche Berufsgenossenschaft hat in ihrer
+Mitgliederzeitschrift und vergleichbaren elektronischen Medien in
 hervorgehobener Weise und gebotener Ausführlichkeit jährlich über die
 Verwendung ihrer Mittel im Vorjahr Rechenschaft abzulegen und dort
 zugleich ihre Verwaltungsausgaben gesondert auch als Anteil des
@@ -6882,91 +6287,20 @@ jährlich ein Betrag von 0,5 Prozent der Ausgaben des abgelaufenen
 Kalenderjahres zugeführt. Es gilt § 172a Abs. 4.
 
 
-#### § 184a Lastenverteilung zwischen den landwirtschaftlichen Berufsgenossenschaften
-
-Die landwirtschaftlichen Berufsgenossenschaften tragen ihre
-Rentenlasten nach Maßgabe der folgenden Vorschriften gemeinsam.
-
-
-#### § 184b Begriffsbestimmungen
-
-(1) Rentenlasten sind die Aufwendungen der Berufsgenossenschaften für
-Renten, Sterbegeld und Abfindungen aus Unternehmen nach § 123 Abs. 1
-Nr. 1 sowie aus Versicherungsfällen, die nach Anlage I Kapitel VIII
-Sachgebiet I Abschnitt III Nr. 1 Buchstabe c Abs. 8 Nr. 2
-Doppelbuchstabe cc des Einigungsvertrages vom 31. August 1990 (BGBl.
-1990 II S. 885, 1064) auf die Berufsgenossenschaften übertragen worden
-sind.
-
-(2) Ausgleichsjahr ist das Kalenderjahr, für das die Rentenlasten
-gemeinsam getragen werden.
-
-(3) Neurenten eines Jahres sind die Rentenlasten des Ausgleichsjahres
-aus Versicherungsfällen, für die im Ausgleichsjahr oder in einem der
-vier vorangegangenen Jahre erstmals Rente, Sterbegeld oder Abfindung
-festgestellt wurde. Abfindungen sind dabei auf den Gesamtbetrag zu
-reduzieren, der bei laufender Rentenzahlung bis zum Ende des vierten
-Jahres nach der erstmaligen Feststellung der Rente geleistet worden
-wäre. Satz 2 gilt für Abfindungen nach § 75 entsprechend. Besondere
-Abfindungen nach § 221a bleiben außer Betracht.
-
-(4) Beitragsbelastbare Flächenwerte sind die Flächenwerte für die bei
-den landwirtschaftlichen Berufsgenossenschaften erfassten Flächen von
-Unternehmen nach § 123 Abs. 1 Nr. 1. Der Flächenwert der
-landwirtschaftlichen Nutzung wird durch Vervielfältigung des
-durchschnittlichen Hektarwertes dieser Nutzung in der Gemeinde, in der
-das Unternehmen seinen Sitz hat, mit der Größe der im Unternehmen
-genutzten Flächen (Eigentums- und Pachtflächen) gebildet. Der
-durchschnittliche Hektarwert der landwirtschaftlichen Nutzung
-errechnet sich aus der Summe der von den Finanzbehörden für die
-Gemeinde nach den Vorschriften des Bewertungsgesetzes ermittelten
-Vergleichswerte, geteilt durch die Gesamtfläche der in der Gemeinde
-gelegenen landwirtschaftlichen Nutzung. Als Hektarwert sind anzusetzen
-
-1.  für die weinbauliche Nutzung 5 500 Deutsche Mark,
-
-
-2.  für die forstwirtschaftliche Nutzung 150 Deutsche Mark,
-
-
-3.  für Geringstland 50 Deutsche Mark,
-
-
-4.  für landwirtschaftliche Sonderkulturen, insbesondere Gemüse, Obst,
-    Hopfen, Tabak, Spargel, Teichwirtschaft, Fischzucht und Saatzucht, 5
-    500 Deutsche Mark und
-
-
-5.  für die gärtnerische Nutzung 17 588 Deutsche Mark.
+#### § 184a (weggefallen)
 
 
 
-Maßgebend sind jeweils die betrieblichen Verhältnisse am 1. Juli des
-Ausgleichsjahres.
+#### § 184b (weggefallen)
 
 
-#### § 184c Gemeinsame Tragung der Rentenlasten
 
-Jede Berufsgenossenschaft trägt jährlich Rentenlasten in Höhe des
-Zweifachen ihrer Neurenten. Soweit die Rentenlasten die nach Satz 1 zu
-tragenden Lasten übersteigen, tragen die Berufsgenossenschaften den
-übersteigenden Betrag nach dem Verhältnis ihrer beitragsbelastbaren
-Flächenwerte gemeinsam.
+#### § 184c (weggefallen)
 
 
-#### § 184d Durchführung des Ausgleichs
 
-Der Spitzenverband der landwirtschaftlichen Sozialversicherung führt
-nach Ablauf des Ausgleichsjahres die Lastenverteilung nach § 184c
-durch. Zu diesem Zweck ermittelt er die auszugleichenden Beträge,
-berechnet den auf die einzelne Berufsgenossenschaft entfallenden
-Ausgleichsanteil und führt eine entsprechende Ausgleichsumlage durch.
-Das Nähere zur Durchführung des Ausgleichs, insbesondere das Melde-
-und Zahlungsverfahren, wird in der Satzung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung geregelt. Klagen gegen
-Entscheidungen des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung zur Durchführung der Lastenverteilung haben keine
-aufschiebende Wirkung.
+#### § 184d (weggefallen)
+
 
 
 ### Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger der öffentlichen Hand
@@ -7116,51 +6450,23 @@ durchgeführt.
 
 ##### § 187a Reduzierung der Kosten für Verwaltung und Verfahren in der landwirtschaftlichen Unfallversicherung
 
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-wirkt darauf hin, dass die jährlichen Verwaltungs- und
-Verfahrenskosten der landwirtschaftlichen Berufsgenossenschaften bis
-zum Jahr 2014 um 20 vom Hundert der tatsächlichen Ausgaben für
-Verwaltungs- und Verfahrenskosten für das Kalenderjahr 2004 vermindert
-werden. Vom Jahr 2011 an hat der Spitzenverband der
-landwirtschaftlichen Sozialversicherung jedes Jahr dem
-Bundesministerium für Arbeit und Soziales, dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz und den
-Aufsichtsbehörden der Träger der landwirtschaftlichen
-Sozialversicherung über die Entwicklung der Verwaltungs- und
-Verfahrenskosten bei den einzelnen landwirtschaftlichen
-Berufsgenossenschaften und bei dem Spitzenverband der
-landwirtschaftlichen Sozialversicherung sowie über die umgesetzten und
-geplanten Maßnahmen zur Optimierung dieser Kosten zu berichten. Dabei
-ist gesondert auf die Schlussfolgerungen einzugehen, welche sich aus
-dem Benchmarking der Träger der landwirtschaftlichen
-Sozialversicherung ergeben.
+(1) Die landwirtschaftliche Berufsgenossenschaft ergreift Maßnahmen,
+damit die jährlichen Verwaltungs- und Verfahrenskosten für die
+landwirtschaftliche Unfallversicherung spätestens im Jahr 2016 nicht
+mehr als 95 Millionen Euro betragen. Die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau legt dem Bundesministerium für
+Arbeit und Soziales und dem Bundesministerium für Ernährung,
+Landwirtschaft und Verbraucherschutz bis zum 31. Dezember 2017 einen
+Bericht über die Entwicklung der Verwaltungs- und Verfahrenskosten in
+der landwirtschaftlichen Unfallversicherung vor. Das Bundesministerium
+für Arbeit und Soziales und das Bundesministerium für Ernährung,
+Landwirtschaft und Verbraucherschutz leiten den Bericht an den
+Deutschen Bundestag und an den Bundesrat weiter und fügen eine
+Stellungnahme bei.
 
 (2) Bei der Ermittlung der Verwaltungs- und Verfahrenskosten nach
-Absatz 1 Satz 1 bleiben unberücksichtigt:
-
-1.  Ausgaben für die Ausbildung; das Nähere zum Nachweis dieser Ausgaben
-    wird durch die Aufsichtsbehörden bestimmt,
-
-
-2.  Ausgaben für die Weiterbildung, soweit sie der Umsetzung der Maßnahmen
-    zur Modernisierung des Rechts der landwirtschaftlichen
-    Sozialversicherung dienen, und
-
-
-3.  Versorgungsaufwendungen.
-
-
-
-
-(3) Auf der Grundlage der Berichte nach Absatz 1 Satz 2 entscheiden
-die Aufsichtsbehörden im Rahmen der Genehmigung der Haushalte nach §
-71d des Vierten Buches über von den landwirtschaftlichen
-Berufsgenossenschaften zu veranlassende Maßnahmen zur Reduzierung der
-Verwaltungs- und Verfahrenskosten. Die §§ 87 bis 90a des Vierten
-Buches bleiben unberührt. Die Aufsichtsbehörden unterrichten das
-Bundesministerium für Arbeit und Soziales und das Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz über die
-Entscheidungen nach Satz 1.
+Absatz 1 Satz 1 bleiben Versorgungsaufwendungen und Zuführungen zum
+Altersrückstellungsvermögen unberücksichtigt.
 
 
 ## Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten
@@ -7399,19 +6705,18 @@ Fischereiämter, die den Seeschiffen Unterscheidungssignale erteilen,
 die gleichen Pflichten.
 
 
-#### § 197 Übermittlungspflicht weiterer Behörden an die Träger der landwirtschaftlichen Sozialversicherung
+#### § 197 Übermittlungspflicht weiterer Behörden
 
 (1) Die Gemeinden übermitteln abweichend von § 30 der Abgabenordnung
 zum Zweck der Beitragserhebung auf Anforderung Daten über Eigentums-
-und Besitzverhältnisse an Flächen an die landwirtschaftlichen
-Berufsgenossenschaften, soweit die Ermittlungen von den
-landwirtschaftlichen Berufsgenossenschaften nur mit wesentlich
-größerem Aufwand vorgenommen werden können als von den Gemeinden.
+und Besitzverhältnisse an Flächen an die landwirtschaftliche
+Berufsgenossenschaft, soweit die Ermittlungen von der
+landwirtschaftlichen Berufsgenossenschaft nur mit wesentlich größerem
+Aufwand vorgenommen werden können als von den Gemeinden.
 
 (2) Die Finanzbehörden übermitteln in einem automatisierten Verfahren
-jährlich dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung (Kopfstelle) die maschinell vorhandenen
-Feststellungen zu
+jährlich der landwirtschaftlichen Berufsgenossenschaft die maschinell
+vorhandenen Feststellungen zu
 
 1.  der nutzungsartbezogenen Vergleichszahl einschließlich Einzelflächen
     mit Flurstückkennzeichen,
@@ -7433,20 +6738,17 @@ Feststellungen zu
     anfallenden Berechnungsgrundlagen sowie
 
 
-7.  den Ertragswerten für Abbauland und Geringstland
+7.  den Ertragswerten für Abbauland und Geringstland.
 
 
 
-zur Weiterleitung an die zuständigen landwirtschaftlichen
-Berufsgenossenschaften, landwirtschaftlichen Krankenkassen und
-landwirtschaftlichen Alterskassen, soweit dies zur Feststellung der
-Versicherungspflicht und zum Zweck der Beitragserhebung erforderlich
-ist. Diese Stellen dürfen die ihnen übermittelten Daten nur zur
-Feststellung der Versicherungspflicht, der Beitragserhebung oder zur
-Überprüfung von Rentenansprüchen nach dem Gesetz über die
-Alterssicherung der Landwirte nutzen. Sind übermittelte Daten für die
-Überprüfung nach Satz 2 nicht mehr erforderlich, sind sie unverzüglich
-zu löschen.
+Die landwirtschaftliche Berufsgenossenschaft, die landwirtschaftliche
+Krankenkasse und die landwirtschaftliche Alterskasse dürfen diese
+Daten nur zur Feststellung der Versicherungspflicht, der
+Beitragserhebung oder zur Überprüfung von Rentenansprüchen nach dem
+Gesetz über die Alterssicherung der Landwirte nutzen. Sind
+übermittelte Daten für die Überprüfung nach Satz 2 nicht mehr
+erforderlich, sind sie unverzüglich zu löschen.
 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, das
 Nähere über das Verfahren der automatisierten Datenübermittlung durch
@@ -7456,22 +6758,19 @@ Verbraucherschutz und mit Zustimmung des Bundesrates zu regeln. Die
 Einrichtung eines automatisierten Abrufverfahrens ist ausgeschlossen.
 
 (4) Die Flurbereinigungsverwaltung und die Vermessungsverwaltung
-übermitteln dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung (Kopfstelle) und den Finanzbehörden durch ein
-automatisiertes Abrufverfahren die jeweils bei ihnen maschinell
-vorhandenen Betriebs-, Flächen-, Nutzungs-, Produktions- und Tierdaten
-sowie die sonstigen hierzu gespeicherten Angaben. Der Spitzenverband
-der landwirtschaftlichen Sozialversicherung (Kopfstelle) leitet die
-übermittelten Daten an die zuständigen landwirtschaftlichen
-Berufsgenossenschaften, landwirtschaftlichen Krankenkassen und
-landwirtschaftlichen Alterskassen weiter, soweit dies zur Feststellung
-der Versicherungspflicht und zum Zweck der Beitragserhebung
-erforderlich ist. Die übermittelten Daten dürfen nur zur Feststellung
-der Versicherungs- oder Steuerpflicht, der Beitrags- oder
-Steuererhebung oder zur Überprüfung von Rentenansprüchen nach dem
-Gesetz über die Alterssicherung der Landwirte genutzt werden. Sind
-übermittelte Daten für die Überprüfung nach den Sätzen 2 und 3 nicht
-mehr erforderlich, sind sie unverzüglich zu löschen. Die Sätze 1 bis 3
+übermitteln der landwirtschaftlichen Berufsgenossenschaft und den
+Finanzbehörden durch ein automatisiertes Abrufverfahren die jeweils
+bei ihnen maschinell vorhandenen Betriebs-, Flächen-, Nutzungs-,
+Produktions- und Tierdaten sowie die sonstigen hierzu gespeicherten
+Angaben. Die übermittelten Daten dürfen durch die landwirtschaftliche
+Berufsgenossenschaft, landwirtschaftliche Krankenkasse und
+landwirtschaftliche Alterskasse nur zur Feststellung der
+Versicherungspflicht, der Beitragserhebung oder zur Überprüfung von
+Rentenansprüchen nach dem Gesetz über die Alterssicherung der
+Landwirte und durch die Finanzbehörden zur Feststellung der
+Steuerpflicht oder zur Steuererhebung genutzt werden. Sind
+übermittelte Daten für die Überprüfung nach Satz 2 nicht mehr
+erforderlich, sind sie unverzüglich zu löschen. Die Sätze 1 und 2
 gelten auch für die Ämter für Landwirtschaft und Landentwicklung, für
 die Veterinärverwaltung sowie sonstige nach Landesrecht zuständige
 Stellen, soweit diese Aufgaben wahrnehmen, die denen der Ämter für
@@ -7788,32 +7087,8 @@ Dabei ist er auf sein Auskunftsrecht nach § 83 des Zehnten Buches
 hinzuweisen.
 
 
-#### § 205 Datenverarbeitung und -übermittlung bei den landwirtschaftlichen Berufsgenossenschaften
+#### § 205 (weggefallen)
 
-(1) Die landwirtschaftlichen Berufsgenossenschaften, die
-landwirtschaftlichen Alterskassen, die landwirtschaftlichen
-Krankenkassen, die landwirtschaftlichen Pflegekassen und der
-Spitzenverband der landwirtschaftlichen Sozialversicherung dürfen
-Sozialdaten in gemeinsamen Dateien und im gemeinsamen Rechenzentrum
-der landwirtschaftlichen Sozialversicherung (§ 143e Abs. 2 Nr. 1
-Buchstabe a) verarbeiten, soweit die Daten jeweils zur Erfüllung ihrer
-Aufgaben nach dem Sozialgesetzbuch erforderlich sind. Die Einrichtung
-eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten
-aus Dateien nach Satz 1 durch Abruf ermöglicht, ist sowohl zwischen
-den Trägern der landwirtschaftlichen Sozialversicherung als auch mit
-dem Spitzenverband der landwirtschaftlichen Sozialversicherung
-zulässig, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten
-Buches bedarf.
-
-(2) Die Einrichtung eines automatisierten Verfahrens, das die
-Übermittlung personenbezogener Daten aus Dateien nach Absatz 1 Satz 1
-durch Abruf ermöglicht, ist nur mit den Trägern der gesetzlichen
-Rentenversicherung, den Krankenkassen, der Bundesagentur für Arbeit
-und der Deutschen Post AG, soweit sie mit der Berechnung oder
-Auszahlung von Sozialleistungen betraut ist, zulässig; dabei dürfen
-auch Vermittlungsstellen eingeschaltet werden.
-
-(3) (weggefallen)
 
 
 ### Vierter Abschnitt - Sonstige Vorschriften
@@ -7940,13 +7215,19 @@ gilt § 151 des Sechsten Buches entsprechend.
     vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
 
-6.  entgegen § 165 Abs. 2 Satz 1 einen Nachweis über die sich aus der
-    Satzung ergebenden Berechnungsgrundlagen nicht, nicht vollständig oder
-    nicht rechtzeitig einreicht,
+6.  entgegen § 165 Absatz 2 Satz 1 in Verbindung mit einer Satzung nach §
+    34 Absatz 1 Satz 1 des Vierten Buches einen dort genannten Nachweis
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    einreicht,
 
 
 7.  entgegen § 165 Abs. 4 eine Aufzeichnung nicht führt oder nicht oder
     nicht mindestens fünf Jahre aufbewahrt,
+
+
+7a. entgegen § 183 Absatz 6 Satz 1 in Verbindung mit einer Satzung nach §
+    34 Absatz 1 Satz 1 des Vierten Buches eine Auskunft nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig gibt,
 
 
 8.  entgegen § 192 Abs. 1 Nr. 1 bis 3 oder Abs. 4 Satz 1 eine Mitteilung
@@ -8411,26 +7692,43 @@ Rentenbeginn dieser Rente vor dem  1. April 2004 liegt.
 
 ### § 218d Besondere Zuständigkeiten
 
-(1) Die Regelungen über die Zuständigkeit für selbständige Unternehmen
-der öffentlichen Hand in § 128 Abs. 1 Nr. 1a, § 129 Abs. 1 Nr. 1a und
-§ 129a treten am 31. Dezember 2012 außer Kraft, soweit nicht bis zu
-diesem Zeitpunkt durch Gesetz etwas anderes geregelt ist. Im Falle des
-Außerkrafttretens gelten ab 1. Januar 2013 die §§ 128, 129 in der am
-31\. Dezember 2004 geltenden Fassung.
+(1) Verändert sich aufgrund des § 128 Absatz 1 Nummer 1a, des § 129
+Absatz 1 Nummer 1a und Absatz 4 oder des § 129a die Zuständigkeit für
+ein am 1. Januar 2013 bestehendes Unternehmen, ist dieses nach § 136
+Absatz 1 Satz 4 zweite Alternative an den zuständigen
+Unfallversicherungsträger zu überweisen; die am 1. Januar 2013 in
+Kraft getretene Fassung des § 128 Absatz 1 Nummer 1a, des § 129 Absatz
+1 Nummer 1a und Absatz 4 sowie des § 129a gilt insoweit als
+wesentliche Änderung.
 
-(2) Für Unternehmen nach § 128 Abs. 1 Nr. 1a oder § 129 Abs. 1 Nr. 1a,
-die am 31. Dezember 2004 bestanden haben, bleiben abweichend von §§
-128, 129 und § 129a die Unfallversicherungsträger zuständig, die an
-diesem Tag zuständig waren, wenn bis zum 13. Oktober 2004 ein Antrag
-nach § 128 Abs. 4 oder § 129 Abs. 3 auf Übernahme in die Zuständigkeit
-eines Unfallversicherungsträgers der öffentlichen Hand nicht gestellt
-war.
+(2) Absatz 1 gilt nicht für Unternehmen im Sinne des § 128 Absatz 1
+Nummer 1a und des § 129 Absatz 1 Nummer 1a, die am 31. Dezember 1996
+bestanden haben und bei denen seitdem keine wesentliche Änderung im
+Sinne des § 136 Absatz 1 Satz 4 zweite Alternative eingetreten ist.
+Dabei sind auch solche Änderungen wesentlich, die nach dem 31.
+Dezember 1996 eingetreten sind und nach dem § 128 Absatz 1 Nummer 1a,
+dem § 129 Absatz 1 Nummer 1a oder dem § 129a eine andere Zuständigkeit
+begründen.
 
-(3) Die Deutsche Gesetzliche Unfallversicherung e. V. erstellt ein
-Konzept zur Neuregelung der Zuständigkeit der
-Unfallversicherungsträger für Unternehmen nach Absatz 1 und legt es
-dem Bundesministerium für Arbeit und Soziales bis zum 31. Mai 2012
-vor.
+(3) Absatz 1 gilt nicht für Unternehmen im Sinne des § 129 Absatz 1
+Nummer 1, wenn deren Schwerpunkt im Ausnahmebereich des § 129 Absatz 4
+Satz 1 liegt.
+
+(4) Ab dem 1. Januar 2013 eintretende wesentliche Änderungen sind zu
+berücksichtigen.
+
+(5) Die Deutsche Gesetzliche Unfallversicherung e. V. prüft die
+Auswirkungen der Zuständigkeit der Unfallversicherungsträger der
+Länder und Kommunen nach § 128 Absatz 1 Nummer 1a und § 129 Absatz 1
+Nummer 1a auf die Belastung der betroffenen Unternehmen durch
+Unfallversicherungsbeiträge im Verhältnis zu gleichartigen
+Unternehmen, für die die gewerblichen Berufsgenossenschaften zuständig
+sind, und legt dem Bundesministerium für Arbeit und Soziales bis zum
+31\. Dezember 2013 einen Bericht über das Ergebnis der Prüfung vor.
+Bestehen hiernach wettbewerbsrelevante Unterschiede, die durch die
+Regelungen des Sechsten Kapitels begründet sind, enthält der Bericht
+auch Vorschläge zur Herstellung gleicher Wettbewerbsbedingungen der
+Unternehmen der betroffenen Gewerbezweige.
 
 
 ### § 218e Übergangsregelungen aus Anlass des Übergangs der Beitragsüberwachung auf die Träger der Deutschen Rentenversicherung
@@ -8604,99 +7902,26 @@ Inanspruchnahme vor dem 1. Januar 2008 erfolgt ist.
 (2) § 80a ist nur auf Versicherungsfälle anwendbar, die nach dem 31.
 Dezember 2007 eingetreten sind.
 
-(3) Die Verwaltungsausgaben der einzelnen landwirtschaftlichen
-Berufsgenossenschaften dürfen in den Jahren 2008 bis 2010 eine
-Obergrenze in Höhe von 90 vom Hundert der Verwaltungsausgaben des
-Jahres 2006 nicht überschreiten. Bei den Verwaltungsausgaben bleiben
-unberücksichtigt die Versorgungsaufwendungen sowie die in den Umlagen
-an die Spitzenverbände der landwirtschaftlichen Sozialversicherung
-enthaltenen Teilbeträge für Anschaffungen für die automatisierte
-Datenverarbeitung. Die Aufsichtsbehörde kann in begründeten Fällen für
-einzelne Jahre Ausnahmen zulassen, wenn die Obergrenze im gesamten
-Zeitraum des Satzes 1 damit nicht überschritten wird. Die Entscheidung
-nach Satz 3 wird im Rahmen der Genehmigung der Haushaltspläne 2009 und
-2010 nach § 71d des Vierten Buches getroffen; die landwirtschaftlichen
-Berufsgenossenschaften haben zusammen mit dem Haushaltsplan die
-erforderlichen Nachweise vorzulegen. Die Aufsichtsbehörden
-unterrichten das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz über die Entscheidungen nach Satz 4.
+(3) Das Umlageverfahren nach § 183 für das Umlagejahr 2012 wird von
+der landwirtschaftlichen Berufsgenossenschaft auf der Grundlage des am
+31\. Dezember 2012 geltenden Rechts und der örtlichen und sachlichen
+Zuständigkeit der bis zum 31. Dezember 2012 bestehenden
+landwirtschaftlichen Berufsgenossenschaften durchgeführt. Dabei sind
+für das Ausgleichsjahr 2012 die §§ 184a bis 184d in der am 31.
+Dezember 2012 geltenden Fassung mit der Maßgabe anzuwenden, dass die
+landwirtschaftliche Berufsgenossenschaft den Ausgleich im Rahmen des
+Verfahrens nach Satz 1 durchführt. Die landwirtschaftliche
+Berufsgenossenschaft hat die Beitragsbescheide so rechtzeitig zu
+erteilen, dass geschuldete Beiträge am 15. März 2013 fällig sind.
 
-(4) Die Aufwendungen für die besonderen Abfindungen nach § 221a
-bleiben bei der Ermittlung der Bewertungskriterien nach § 1 der
-Verordnung zur Festlegung von Höchstgrenzen für die
-besoldungsrechtliche Einstufung der Dienstposten in der
-Geschäftsführung bundesunmittelbarer Körperschaften im Bereich der
-gesetzlichen Unfallversicherung und der landwirtschaftlichen
-Sozialversicherung sowie von Obergrenzen für die Zahl der
-Beförderungsämter vom 12. Oktober 2004 (BGBl. I S. 2617) außer
-Betracht.
+(4) Die Vertreterversammlung hat bis zum 31. Oktober 2013 die ab der
+Umlage 2013 anzuwendenden Berechnungsgrundlagen nach § 182 Absatz 2
+bis 6 festzulegen.
 
 (5) Betriebsmittel dürfen im Jahr 2012 nicht zur freiwilligen
 Auffüllung der Rücklage und nicht zur Senkung der Umlage auf einen
 Betrag verwendet werden, der geringer ist als die Umlage des
 Vorjahres.
-
-(6) Bei der Durchführung der Lastenverteilung sind im Jahr 2010 als
-beitragsbelastbare Flächenwerte nach § 184b Absatz 4 folgende Werte
-anzusetzen:
-
-*    *   Landwirtschaftliche
-        Berufsgenossenschaft
-
-    *   Wert
-
-
-*    *   Schleswig-Holstein und Hamburg
-
-    *   1 433 854 279
-
-
-*    *   Niedersachsen-Bremen
-
-    *   3 299 807 704
-
-
-*    *   Nordrhein-Westfalen
-
-    *   2 843 898 631
-
-
-*    *   Hessen, Rheinland-Pfalz und Saarland
-
-    *   2 433 181 990
-
-
-*    *   Franken und Oberbayern
-
-    *   2 144 512 455
-
-
-*    *   Niederbayern/Oberpfalz und Schwaben
-
-    *   1 804 745 451
-
-
-*    *   Baden-Württemberg
-
-    *   2 007 622 149
-
-
-*    *   Gartenbau
-
-    *   1 058 498 116
-
-
-*    *   Mittel- und Ostdeutschland
-
-    *   7 967 435 509
-
-
-
-
-(7) In den Jahren 2010 bis 2013 ist § 184c mit der Maßgabe anzuwenden,
-dass jede Berufsgenossenschaft in den Jahren 2010 und 2011
-Rentenlasten in Höhe des Dreifachen und in den Jahren 2012 und 2013 in
-Höhe des Zweieinhalbfachen ihrer Neurenten trägt.
 
 
 ### § 221a Besondere Abfindungen in der landwirtschaftlichen Unfallversicherung
@@ -8826,34 +8051,57 @@ richtet sich nach folgender Tabelle:
 
 
 
-### § 221b Weiterentwicklung der Berechnungsgrundlagen, Verordnungsermächtigung
+### § 221b Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung
 
-(1) Die landwirtschaftlichen Berufsgenossenschaften mit Ausnahme der
-Gartenbau-Berufsgenossenschaft haben bis zum 31. Dezember 2008 den
-strukturellen Änderungen bei den landwirtschaftlichen Betrieben und
-deren Auswirkungen auf das Unfallgeschehen durch eine
-Weiterentwicklung der Festlegungen der Satzung nach § 182 Abs. 2 Satz
-2 Rechnung zu tragen. Dabei soll das Unfallrisiko insbesondere durch
-die Bildung von Risikogruppen berücksichtigt werden; ein angemessener
-solidarischer Ausgleich ist sicherzustellen. Für die nach den Sätzen 1
-und 2 notwendigen statistischen Erhebungen sind die §§ 191 und 198
-entsprechend anzuwenden.
+(1) Der Beitrag, den die Unternehmer auf die Umlagen für die Jahre
+2013 bis 2017 (Übergangszeit) zu zahlen haben, ergibt sich, wenn der
+nach den §§ 182 und 183 berechnete Beitrag mit dem Angleichungssatz
+multipliziert wird.
 
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung hat
-dem Bundesministerium für Arbeit und Soziales und dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-bis zum 31. März 2009 über die Maßnahmen und Beschlüsse der
-landwirtschaftlichen Berufsgenossenschaften zu berichten.
+(2) Der Angleichungssatz wird nach folgenden Rechengrößen bestimmt:
 
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz die anzuwendenden Berechnungsgrundlagen zum 1.
-Januar 2010 durch Rechtsverordnung festzulegen, wenn die
-erforderlichen Beschlüsse nicht bis zu der in Absatz 1 genannten Frist
-gefasst worden sind und den Organen der landwirtschaftlichen
-Berufsgenossenschaften nach dem Bericht nach Absatz 2 auch keine
-Vorschläge zu einer Beschlussfassung bis spätestens 30. September 2009
-vorliegen.
+1.  Ausgangsbeitrag ist der auf die Umlage für das Jahr 2012 nach § 221
+    Absatz 3 zu zahlende Beitrag;
+
+
+2.  Zielbeitrag ist der Beitrag, der sich bei gleichen betrieblichen
+    Verhältnissen und gleicher Umlage für das Jahr 2012 bei Anwendung der
+    Berechnungsgrundlagen nach § 221 Absatz 4 ergeben würde;
+
+
+3.  Ausgangssatz ist der Prozentsatz des Ausgangsbeitrags im Verhältnis
+    zum Zielbeitrag;
+
+
+4.  der jährliche Veränderungssatz ist ein Fünftel der Differenz zwischen
+    dem Prozentsatz des Zielbeitrags und dem Ausgangssatz.
+
+
+
+Der Angleichungssatz im ersten Jahr ergibt sich aus der Summe des
+Ausgangssatzes und des jährlichen Veränderungssatzes. Die
+Angleichungssätze in den Folgejahren ergeben sich aus der Summe des
+Angleichungssatzes des Vorjahres und des jährlichen
+Veränderungssatzes. Bei der Berechnung der Angleichungssätze ist § 187
+Absatz 1 anzuwenden. Die Angleichungssätze für die Übergangszeit sind
+dem Unternehmer zusammen mit dem Bescheid über die Umlage für das Jahr
+2013 mitzuteilen.
+
+(3) Ändern sich in der Übergangszeit die betrieblichen Verhältnisse
+gegenüber den für den Ausgangsbeitrag maßgebenden Verhältnissen,
+bleiben die Angleichungssätze nach Absatz 2 unverändert. Für während
+der Übergangszeit neu aufzunehmende Unternehmer sind die für vorherige
+Unternehmer nach Absatz 2 festgestellten Angleichungssätze anzuwenden.
+
+(4) Zur Vermeidung unzumutbarer Beitragserhöhungen in der
+Übergangszeit kann die Satzung Härtefallregelungen vorsehen.
+
+(5) Aus den Sondervermögen können Mittel entnommen werden, um die
+während der Übergangszeit erfolgende Angleichung der Beiträge nach
+Absatz 1 zu gestalten. Eine sich hierdurch ergebende Verringerung der
+Beiträge ist in den Beitragsbescheiden gesondert auszuweisen.
+
+(6) In der Übergangszeit ist § 184 Satz 2 nicht anzuwenden.
 
 
 ## Elftes Kapitel - Übergangsvorschriften zur Neuorganisation der gesetzlichen Unfallversicherung
@@ -8999,40 +8247,6 @@ Wirkung.
 
 
 
-### Anlage 2 (zu § 114) Landwirtschaftliche Berufsgenossenschaften
-
-1\.
-
-*   Landwirtschaftliche Berufsgenossenschaft Schleswig-Holstein und
-    Hamburg
-
-
-2.  Landwirtschaftliche Berufsgenossenschaft Niedersachsen-Bremen
-
-
-3.  Landwirtschaftliche Berufsgenossenschaft Nordrhein-Westfalen
-
-
-4.  Land- und forstwirtschaftliche Berufsgenossenschaft Hessen, Rheinland-
-    Pfalz und Saarland
-
-
-5.  Land- und forstwirtschaftliche Berufsgenossenschaft Franken und
-    Oberbayern
-
-
-6.  Land- und forstwirtschaftliche Berufsgenossenschaft
-    Niederbayern/Oberpfalz und Schwaben
-
-
-7.  Landwirtschaftliche Berufsgenossenschaft Baden-Württemberg
-
-
-8.  Landwirtschaftliche Berufsgenossenschaft Mittel- und Ostdeutschland
-
-
-9.  Gartenbau-Berufsgenossenschaft
-
-
+### Anlage 2 (weggefallen)
 
 

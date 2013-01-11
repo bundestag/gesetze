@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 890
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.5.2011 I 996
+:   Art. 4 V v. 10.12.2012 I 2630
 
 
 ## Eingangsformel
@@ -142,10 +142,10 @@ Vertreternummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
 so soll diese angegeben werden.
 
 (6) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so
-ist die Zeichnungsbefugnis glaubhaft zu machen; auf beim Deutschen
-Patent- und Markenamt für die Unterzeichner hinterlegte
-Angestelltenvollmachten ist unter Angabe der hierfür mitgeteilten
-Kennnummer hinzuweisen.
+ist auf Anforderung der Nachweis der Zeichnungsbefugnis vorzulegen.
+Auf beim Deutschen Patent- und Markenamt für die Unterzeichner
+hinterlegte Angestelltenvollmachten ist unter Angabe der hierfür
+mitgeteilten Kennnummer hinzuweisen.
 
 
 ### § 4 Anmeldungsunterlagen

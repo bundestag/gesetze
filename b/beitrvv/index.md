@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1138
 
 Zuletzt geändert durch
-:   Art. 15 G v. 22.12.2011 I 3057
+:   Art. 9 G v. 5.12.2012 I 2474
 
 
 ## Eingangsformel
@@ -83,7 +83,7 @@ Beitragssatzes in der gesetzlichen Krankenversicherung ergebenden
 Beitragssatzes auf das der Beschäftigung zugrunde liegende
 Arbeitsentgelt berechnet und gerundet. Der Abzug des
 Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den
-Beitragsanteil des Beschäftigten. Bei Entgelten bis zu 400 Euro ergibt
+Beitragsanteil des Beschäftigten. Bei Entgelten bis zu 450 Euro ergibt
 sich die beitragspflichtige Einnahme durch Anwendung des Faktors F (§
 163 Abs. 10 des Sechsten Buches Sozialgesetzbuch) auf das der
 Beschäftigung zugrunde liegende Arbeitsentgelt. Vom Beschäftigten
@@ -385,9 +385,20 @@ werden.
     wird,
 
 
+4a. der Antrag auf Befreiung von der Versicherungspflicht nach § 6 Absatz
+    1b des Sechsten Buches Sozialgesetzbuch, auf dem der Tag des Eingangs
+    beim Arbeitgeber dokumentiert ist,
+
+
 5.  die Erklärung des Beschäftigten gegenüber dem Arbeitgeber, dass auf
     die Anwendung der Gleitzonenberechnung in der Rentenversicherung
     verzichtet wird,
+
+
+5a. die schriftliche Erklärung des Arbeitnehmers gegenüber dem
+    Arbeitgeber, dass die Gleitzonenregelung in der gesetzlichen
+    Rentenversicherung nach § 276b Absatz 2 des Sechsten Buches
+    Sozialgesetzbuch Anwendung finden soll,
 
 
 6.  die Niederschrift nach § 2 des Nachweisgesetzes,

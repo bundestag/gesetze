@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 25.6.2012 I 1374
+:   Art. 1 G v. 5.12.2012 I 2425
 
 
 ## Allgemeiner Teil -
@@ -816,7 +816,7 @@ Einem Tagessatz entspricht ein Tag Freiheitsstrafe. Das Mindestmaß der
 Ersatzfreiheitsstrafe ist ein Tag.
 
 
-##### - - Vermögensstrafe
+##### Vermögensstrafe -
 
 
 

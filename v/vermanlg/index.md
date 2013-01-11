@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2481
 
+Geändert durch
+:   Art. 4 G v. 5.12.2012 I 2415
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -371,12 +374,12 @@ veröffentlicht werden.
 
 (2) Der Verkaufsprospekt ist in der Form zu veröffentlichen, dass er
 
-1.  im elektronischen Bundesanzeiger veröffentlicht wird oder
+1.  im Bundesanzeiger veröffentlicht wird oder
 
 
 2.  bei den im Verkaufsprospekt benannten Zahlstellen zur kostenlosen
-    Ausgabe bereitgehalten wird; dies ist im elektronischen Bundesanzeiger
-    bekannt zu machen.
+    Ausgabe bereitgehalten wird; dies ist im Bundesanzeiger bekannt zu
+    machen.
 
 
 
@@ -828,11 +831,11 @@ können, bleiben unberührt.
 nach den Vorschriften des Handelsgesetzbuchs einen Jahresabschluss
 offenzulegen, hat für den Schluss eines jeden Geschäftsjahres einen
 Jahresbericht zu erstellen und spätestens sechs Monate nach Ablauf des
-Geschäftsjahres beim Betreiber des elektronischen Bundesanzeigers
-elektronisch einzureichen sowie den Anlegern auf Anforderung zur
-Verfügung zu stellen. Ist die Feststellung des Jahresabschlusses oder
-dessen Prüfung oder die Prüfung des Lageberichts binnen dieser Frist
-nicht möglich, ist § 328 Absatz 1 Nummer 1 Satz 2 und Nummer 2 des
+Geschäftsjahres beim Betreiber des Bundesanzeigers elektronisch
+einzureichen sowie den Anlegern auf Anforderung zur Verfügung zu
+stellen. Ist die Feststellung des Jahresabschlusses oder dessen
+Prüfung oder die Prüfung des Lageberichts binnen dieser Frist nicht
+möglich, ist § 328 Absatz 1 Nummer 1 Satz 2 und Nummer 2 des
 Handelsgesetzbuchs entsprechend anzuwenden; die fehlenden Angaben zur
 Feststellung oder der Bestätigungsvermerk oder der Vermerk über dessen
 Versagung sind spätestens neun Monate nach Ablauf des Geschäftsjahres
@@ -859,16 +862,15 @@ nachzureichen und nach Absatz 3 bekannt machen zu lassen.
 
 
 (3) Der Emittent der Vermögensanlagen hat den Jahresbericht
-unverzüglich nach der elektronischen Einreichung im elektronischen
-Bundesanzeiger bekannt machen zu lassen. § 325 Absatz 1 Satz 7, Absatz
-2 bis 2b, 5 und 6 sowie die §§ 328 und 329 Absatz 1, 2 und 4 des
+unverzüglich nach der elektronischen Einreichung im Bundesanzeiger
+bekannt machen zu lassen. § 325 Absatz 1 Satz 7, Absatz 2 bis 2b, 5
+und 6 sowie die §§ 328 und 329 Absatz 1, 2 und 4 des
 Handelsgesetzbuchs gelten entsprechend.
 
 (4) Die Bekanntmachung ist über die Internetseite des
 Unternehmensregisters zugänglich zu machen; die Unterlagen sind in
 entsprechender Anwendung des § 8b Absatz 3 Satz 1 Nummer 1 des
-Handelsgesetzbuchs vom Betreiber des elektronischen Bundesanzeigers zu
-übermitteln.
+Handelsgesetzbuchs vom Betreiber des Bundesanzeigers zu übermitteln.
 
 
 ### § 24 Inhalt von Jahresabschlüssen und Lageberichten
@@ -934,8 +936,8 @@ Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten
 des Abkommens über den Europäischen Wirtschaftsraum haben einen
 Jahresabschluss und einen Lagebericht nach den in Deutschland
 geltenden, auf Kapitalgesellschaften anzuwendenden
-Rechungslegungsvorschriften              in deutscher Sprache zu
-erstellen. Die Absätze 1 und 2 sind entsprechend anzuwenden.
+Rechnungslegungsvorschriften in deutscher Sprache zu erstellen. Die
+Absätze 1 und 2 sind entsprechend anzuwenden.
 
 
 ### § 25 Prüfung und Bestätigung des Abschlussprüfers
@@ -1122,7 +1124,8 @@ Satz 1 in Verbindung mit
     § 284 oder § 285 des Handelsgesetzbuchs über den Jahresabschluss oder
 
 
-2.  § 289 Absatz 1 Satz 1, 2 oder Satz 3 über den Lagebericht
+2.  § 289 Absatz 1 Satz 1, 2 oder Satz 3 des Handelsgesetzbuchs über den
+    Lagebericht
 
 
 
@@ -1150,10 +1153,10 @@ und 3 dieses Gesetzes. Offenlegung im Sinne des § 325 Absatz 1 Satz 1
 des Handelsgesetzbuchs sind die Einreichung und Bekanntmachung des
 Jahresberichts gemäß § 23 Absatz 1 und 3 dieses Gesetzes.
 
-(2) Die Bundesanstalt übermittelt dem Betreiber des elektronischen
-Bundesanzeigers mindestens einmal pro Kalenderjahr Name und Anschrift
-der ihr bekannt werdenden Emittenten von Vermögensanlagen sowie den
-Bevollmächtigten im Sinne des § 5 Absatz 3.
+(2) Die Bundesanstalt übermittelt dem Betreiber des Bundesanzeigers
+mindestens einmal pro Kalenderjahr Name und Anschrift der ihr bekannt
+werdenden Emittenten von Vermögensanlagen sowie den Bevollmächtigten
+im Sinne des § 5 Absatz 3.
 
 (3) Das Bundesamt für Justiz teilt der Bundesanstalt diejenigen
 Emittenten von Vermögensanlagen mit einem Sitz außerhalb des
@@ -1165,8 +1168,8 @@ und 2 verhängt worden sind.
 (4) Die Bundesanstalt kann die der Verhängung eines unanfechtbaren
 Ordnungsgeldes nach den Absätzen 1 und 2 gegen einen Emittenten von
 Vermögensanlagen im Sinne des Satzes 1 zugrunde liegenden Tatsachen im
-elektronischen Bundesanzeiger öffentlich bekannt machen, soweit dies
-zur Beseitigung oder Verhinderung von Missständen geboten ist.
+Bundesanzeiger öffentlich bekannt machen, soweit dies zur Beseitigung
+oder Verhinderung von Missständen geboten ist.
 
 
 ### § 32 Übergangsvorschriften
@@ -1197,6 +1200,6 @@ beginnende Geschäftsjahr anzuwenden.
 
 (4) Veröffentlichungen und Bekanntmachungen nach § 9 Absatz 2 Satz 1
 Nummer 1 und 2 sind bis zum 31. Dezember 2014 zusätzlich zu der
-Veröffentlichung oder Bekanntmachung im elektronischen Bundesanzeiger
-auch in einem überregionalen Börsenpflichtblatt vorzunehmen.
+Veröffentlichung oder Bekanntmachung im Bundesanzeiger auch in einem
+überregionalen Börsenpflichtblatt vorzunehmen.
 

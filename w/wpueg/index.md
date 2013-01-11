@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3822
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 46 G v. 22.12.2011 I 3044
+:   Art. 2c G v. 28.11.2012 I 2369
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -267,7 +267,7 @@ Beisitzer des Widerspruchsausschusses und deren Vertreter.
 
 (4) Der Präsident der Bundesanstalt lädt zu den Sitzungen des Beirates
 ein. Die Sitzungen werden vom Präsidenten der Bundesanstalt oder einem
-von ihm beauftragten Beamten geleitet.
+von ihm beauftragten Exekutivdirektor oder Beamten geleitet.
 
 (5) Der Beirat gibt sich eine Geschäftsordnung.
 
@@ -282,7 +282,8 @@ Bundesanstalt nach § 4 Abs. 1 Satz 3, § 10 Abs. 1 Satz 3, Abs. 2 Satz
 (2) Der Widerspruchsausschuss besteht aus
 
 1.  dem Präsidenten der Bundesanstalt oder einem von ihm beauftragten
-    Beamten, der die Befähigung zum Richteramt hat, als Vorsitzendem,
+    Exekutivdirektor oder Beamten, der die Befähigung zum Richteramt hat,
+    als Vorsitzendem,
 
 
 2.  zwei vom Präsidenten der Bundesanstalt beauftragten Beamten als

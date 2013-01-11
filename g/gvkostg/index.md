@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 623
 
 Zuletzt geändert durch
-:   Art. 3 G v. 30.7.2009 I 2474
+:   Art. 11 G v. 5.12.2012 I 2418
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -94,11 +94,10 @@ Gerichtsvollzieher gleichzeitig beauftragt wird,
     Vollstreckungsschuldner oder Verpflichteten (Schuldner) oder
     Vollstreckungshandlungen gegen Gesamtschuldner auszuführen; der
     Gerichtsvollzieher gilt als gleichzeitig beauftragt, wenn der Auftrag
-    zur Abnahme der eidesstattlichen Versicherung mit einem
-    Vollstreckungsauftrag verbunden ist (§ 900 Abs. 2 Satz 1 der
-    Zivilprozessordnung), es sei denn, der Gerichtsvollzieher nimmt die
-    eidesstattliche Versicherung nur deshalb nicht ab, weil der Schuldner
-    nicht anwesend ist.
+    zur Abnahme der Vermögensauskunft mit einem Vollstreckungsauftrag
+    verbunden ist (§ 807 Abs. 1 der Zivilprozessordnung), es sei denn, der
+    Gerichtsvollzieher nimmt die Vermögensauskunft nur deshalb nicht ab,
+    weil der Schuldner nicht anwesend ist.
 
 
 
@@ -109,11 +108,10 @@ unberührt.
 (3) Ein Auftrag ist erteilt, wenn er dem Gerichtsvollzieher oder der
 Geschäftsstelle des Gerichts, deren Vermittlung oder Mitwirkung in
 Anspruch genommen wird, zugegangen ist. Wird der Auftrag zur Abnahme
-der eidesstattlichen Versicherung mit einem Vollstreckungsauftrag
-verbunden (§ 900 Abs. 2 Satz 1 der Zivilprozessordnung), gilt der
-Auftrag zur Abnahme der eidesstattlichen Versicherung als erteilt,
-sobald die Voraussetzungen nach § 807 Abs. 1 der Zivilprozessordnung
-vorliegen.
+der Vermögensauskunft mit einem Vollstreckungsauftrag verbunden (§ 807
+Abs. 1 der Zivilprozessordnung), gilt der Auftrag zur Abnahme der
+Vermögensauskunft als erteilt, sobald die Voraussetzungen nach § 807
+Abs. 1 der Zivilprozessordnung vorliegen.
 
 (4) Ein Auftrag gilt als durchgeführt, wenn er zurückgenommen worden
 ist oder seiner Durchführung oder weiteren Durchführung
@@ -124,19 +122,19 @@ Anordnung dem Gerichtsvollzieher innerhalb eines Zeitraumes von drei
 Monaten zugeht, der mit dem ersten Tag des auf die Absendung einer
 entsprechenden Anforderung an den Auftraggeber folgenden
 Kalendermonats beginnt. Satz 2 ist entsprechend anzuwenden, wenn der
-Schuldner zu dem Termin zur Abnahme der eidesstattlichen Versicherung
-nicht erscheint oder die Abgabe der eidesstattlichen Versicherung ohne
-Grund verweigert und der Gläubiger innerhalb des in Satz 2 genannten
-Zeitraums einen Auftrag zur Vollziehung eines Haftbefehls erteilt. Der
-Zurücknahme steht es gleich, wenn der Gerichtsvollzieher dem
-Auftraggeber mitteilt, dass er den Auftrag als zurückgenommen
-betrachtet, weil damit zu rechnen ist, die Zwangsvollstreckung werde
-fruchtlos verlaufen, und wenn der Auftraggeber nicht bis zum Ablauf
-des auf die Absendung der Mitteilung folgenden Kalendermonats
-widerspricht. Der Zurücknahme steht es auch gleich, wenn im Falle des
-§ 4 Abs. 1 Satz 1 und 2 der geforderte Vorschuss nicht bis zum Ablauf
-des auf die Absendung der Vorschussanforderung folgenden
-Kalendermonats beim Gerichtsvollzieher eingegangen ist.
+Schuldner zu dem Termin zur Abnahme der Vermögensauskunft nicht
+erscheint oder die Abgabe der Vermögensauskunft ohne Grund verweigert
+und der Gläubiger innerhalb des in Satz 2 genannten Zeitraums einen
+Auftrag zur Vollziehung eines Haftbefehls erteilt. Der Zurücknahme
+steht es gleich, wenn der Gerichtsvollzieher dem Auftraggeber
+mitteilt, dass er den Auftrag als zurückgenommen betrachtet, weil
+damit zu rechnen ist, die Zwangsvollstreckung werde fruchtlos
+verlaufen, und wenn der Auftraggeber nicht bis zum Ablauf des auf die
+Absendung der Mitteilung folgenden Kalendermonats widerspricht. Der
+Zurücknahme steht es auch gleich, wenn im Falle des § 4 Abs. 1 Satz 1
+und 2 der geforderte Vorschuss nicht bis zum Ablauf des auf die
+Absendung der Vorschussanforderung folgenden Kalendermonats beim
+Gerichtsvollzieher eingegangen ist.
 
 
 ### § 4 Vorschuss
@@ -265,9 +263,11 @@ vollen Befriedigung des Auftraggebers führt oder Pfandstücke bei dem
 Schuldner abhanden gekommen oder beschädigt worden sind. Gebühren nach
 dem 1. Abschnitt des Kostenverzeichnisses sind für jede Zustellung,
 die Gebühr für die Entgegennahme einer Zahlung (Nummer 430 des
-Kostenverzeichnisses) ist für jede Zahlung gesondert zu erheben. Das
-Gleiche gilt für die Gebühr nach Nummer 600 des Kostenverzeichnisses,
-wenn eine Zustellung nicht erledigt wird.
+Kostenverzeichnisses) ist für jede Zahlung und die Gebühr für die
+Einholung von Auskünften (Nummer 440 des Kostenverzeichnisses) ist für
+jede Auskunft gesondert zu erheben. Das Gleiche gilt für die Gebühr
+nach Nummer 600 des Kostenverzeichnisses, wenn eine Zustellung nicht
+erledigt wird.
 
 (3) Ist der Gerichtsvollzieher gleichzeitig beauftragt,
 Vollstreckungshandlungen gegen Gesamtschuldner auszuführen, sind die
@@ -389,9 +389,9 @@ Auftrag gesondert zu erheben.
 vor dem Inkrafttreten einer Gesetzesänderung erteilt worden ist,
 Kosten der in § 15 Abs. 1 genannten Art jedoch nur, wenn sie vor dem
 Inkrafttreten einer Gesetzesänderung entstanden sind. Wenn der Auftrag
-zur Abnahme der eidesstattlichen Versicherung mit einem
-Vollstreckungsauftrag verbunden ist, ist der Zeitpunkt maßgebend, zu
-dem der Vollstreckungsauftrag erteilt ist.
+zur Abnahme der Vermögensauskunft mit einem Vollstreckungsauftrag
+verbunden ist, ist der Zeitpunkt maßgebend, zu dem der
+Vollstreckungsauftrag erteilt ist.
 
 (2) Absatz 1 gilt auch, wenn Vorschriften geändert werden, auf die
 dieses Gesetz verweist.
@@ -422,8 +422,8 @@ sind.
 
 ### Anlage (zu § 9) Kostenverzeichnis
 
-Fundstelle des Originaltextes: BGBl. I 2001, 634 - 637;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2001, 634 - 637;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nr.
 
@@ -444,7 +444,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   (2) Die Gebühr nach Nummer 100 oder 101 wird auch erhoben, wenn der
         Gerichtsvollzieher die Ladung zum Termin zur Abnahme der
-        eidesstattlichen Versicherung (§ 900 ZPO) oder den Pfändungs- und
+        Vermögensauskunft (§ 802f ZPO) oder den Pfändungs- und
         Überweisungsbeschluss an den Schuldner (§ 829 Abs. 2 Satz 2, auch
         i.V.m. § 835 Abs. 3 Satz 1 ZPO) zustellt.
 
@@ -513,6 +513,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   12,50 EUR
 
+
+*    *   207
+
+    *   Versuch einer gütlichen Erledigung der Sache (§ 802b ZPO) ..........
+
+    *   12,50 EUR
+
+
+*    *   Die Gebühr entsteht auch im Fall der gütlichen Erledigung. Sie
+        entsteht nicht, wenn der Gerichtsvollzieher gleichzeitig mit einer auf
+        eine Maßnahme nach § 802a Abs. 2 Satz 1 Nr. 2 und 4 ZPO gerichteten
+        Amtshandlung beauftragt ist.
+
+    *
 
 *    *   210
 
@@ -629,9 +643,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   260
 
-    *   Abnahme der eidesstattlichen Versicherung
+    *   Abnahme der Vermögensauskunft nach den §§ 802c, 802d Abs. 1 oder nach
+        § 807 ZPO ..........
 
-    *   30,00 EUR
+    *   25,00 EUR
+
+
+*    *   261
+
+    *   Übermittlung eines mit eidesstattlicher Versicherung abgegebenen
+        Vermögensverzeichnisses an einen Drittgläubiger (§ 802d Abs. 1 Satz 2,
+        Abs. 2 ZPO) ..........
+
+    *   25,00 EUR
 
 
 *    *   270
@@ -818,6 +842,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
+*    *   440
+
+    *   Einholung einer Auskunft bei einer der in den §§ 755, 802l ZPO
+        genannten Stellen ..........
+
+    *   10,00 EUR
+
+
+*    *
+    *   Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2
+        ZPO eingeholt wird.
+
+    *
+
 *    *   5.
 
     *   Zeitzuschlag
@@ -849,7 +887,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         Gerichtsvollziehers liegen noch von seiner Entschließung abhängig
         sind, nicht erledigt wird. Dies gilt insbesondere auch, wenn nach dem
         Inhalt des Protokolls pfändbare Gegenstände nicht vorhanden sind oder
-        die Pfändung nach § 803 Abs. 2, §§ 812, 851b Abs. 2 Satz 2 ZPO zu
+        die Pfändung nach § 803 Abs. 2, §§ 812, 851b Abs. 4 Satz 3 ZPO zu
         unterbleiben hat. Eine Gebühr wird nicht erhoben, wenn der Auftrag an
         einen anderen Gerichtsvollzieher abgegeben wird oder hätte abgegeben
         werden können.
@@ -909,10 +947,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *
     *
-    *   Die Gebühr für die nicht abgenommene eidesstattliche Versicherung wird
-        nicht erhoben, wenn diese deshalb nicht abgenommen wird, weil der
-        Schuldner sie innerhalb der letzten drei Jahre bereits abgegeben hat
-        (§ 903 ZPO).
+    *   Die Gebühr für die nicht abgenommene Vermögensauskunft wird nicht
+        erhoben, wenn diese deshalb nicht abgenommen wird, weil der Schuldner
+        sie innerhalb der letzten drei Jahre bereits abgegeben hat (§ 802d
+        Abs. 1 Satz 1 ZPO).
 
     *
 
@@ -991,11 +1029,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   (3) Eine Dokumentenpauschale für die erste Ablichtung Ablichtung oder
-        den ersten Ausdruck eines mit mit eidesstattlicher Versicherung
-        abgegebenen Vermögensverzeichnisses und der Niederschrift über die
-        Abgabe der eidesstattlichen Versicherung werden von demjenigen
-        Kostenschuldner nicht erhoben, von dem die Gebühr 260 zu erheben ist.
+*    *   (3) Eine Dokumentenpauschale für die erste Ablichtung oder den ersten
+        Ausdruck des Vermögensverzeichnisses und der Niederschrift über die
+        Abgabe der Vermögensauskunft wird von demjenigen Kostenschuldner nicht
+        erhoben, von dem die Gebühr 260 oder 261 zu erheben ist.
+        Entsprechendes gilt, wenn anstelle der in Satz 1 genannten
+        Ablichtungen oder Ausdrucke elektronisch gespeicherte Dateien
+        überlassen werden (§ 802d Abs. 2 ZPO).
 
     *
 
@@ -1088,8 +1128,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   708
 
-    *   An Einwohnermeldestellen für Auskünfte über die Wohnung des
-        Beteiligten zu zahlende Beträge
+    *   An die in §§ 755 und 802l Abs. 1 Satz 1 ZPO genannten Stellen für
+        Auskünfte zu zahlende Beträge …
 
     *   in voller Höhe
 

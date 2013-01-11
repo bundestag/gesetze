@@ -34,9 +34,9 @@ zuständigen obersten Landesbehörden verordnet:
 (1) Abweichend von § 19 Abs. 2 StVZO erlischt die Betriebserlaubnis
 nicht, wenn an Kraftfahrzeugen eine Vorrichtung zum Schutz der
 Fahrzeuginsassen bei seitlichem Umstürzen oder rückwärtigem
-Überschlagen (Umsturzschutzvorrichtung) im Sinne von Abschnitt 24 § 11
-der Unfallverhütungsvorschriften der landwirtschaftlichen
-Berufsgenossenschaften angebracht wird.
+Überschlagen (Umsturzschutzvorrichtung) im Sinne von Abschnitt 3.1 §
+33 Absatz 2 der Vorschriften für Sicherheit und Gesundheitsschutz für
+die landwirtschaftliche Unfallversicherung angebracht wird.
 
 (2) Dies gilt nur, wenn
 
@@ -68,14 +68,14 @@ Berufsgenossenschaften angebracht wird.
 
 Abweichend von § 19 Abs. 2 StVZO erlischt bei Kraftfahrzeugen, die in
 anderen Fällen als nach § 1 durch Anbringen einer
-Umsturzschutzvorrichtung im Sinne von Abschnitt 24 § 11 der
-Unfallverhütungsvorschriften der landwirtschaftlichen
-Berufsgenossenschaften verändert worden sind, die Betriebserlaubnis
-erst nach Ablauf von sechs Monaten seit Anbringung der Vorrichtung.
-Voraussetzung ist, daß bis zur Erteilung der neuen Betriebserlaubnis
-der Halter zuständigen Personen den Zeitpunkt der Anbringung der
-Vorrichtung nachweist, zum Beispiel durch eine Bescheinigung der
-ausführenden Werkstatt.
+Umsturzschutzvorrichtung im Sinne von Abschnitt 3.1 § 33 Absatz 2 der
+Vorschriften für Sicherheit und Gesundheitsschutz für die
+landwirtschaftliche Unfallversicherung verändert worden sind, die
+Betriebserlaubnis erst nach Ablauf von sechs Monaten seit Anbringung
+der Vorrichtung. Voraussetzung ist, daß bis zur Erteilung der neuen
+Betriebserlaubnis der Halter zuständigen Personen den Zeitpunkt der
+Anbringung der Vorrichtung nachweist, zum Beispiel durch eine
+Bescheinigung der ausführenden Werkstatt.
 
 
 ## § 3

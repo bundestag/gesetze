@@ -81,7 +81,7 @@ andere Angehörige der Dienststelle zu übertragen.
 ## Abschnitt 2 - Zuständigkeiten für Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit, Soldaten auf Zeit und Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten
 
 
-### Art 4 Zuständigkeit des Personalamtes der Bundeswehr und der Stammdienststelle der Bundeswehr
+### Art 4 Zuständigkeit des Personalamtes der Bundeswehr und des Bundesamtes für das Personalmanagement der Bundeswehr
 
 (1) Das Personalamt der Bundeswehr ernennt und entlässt Offiziere bis
 zum Oberstleutnant, Anwärterinnen und Anwärter für eine Laufbahn der
@@ -89,12 +89,13 @@ Offiziere sowie Mannschaften, die sich mit dem Ziel der Übernahme als
 Anwärterin oder Anwärter für eine Laufbahn der Offiziere verpflichtet
 haben.
 
-(2) Die Stammdienststelle der Bundeswehr ernennt und entlässt
-Feldwebel, Fachunteroffiziere, Anwärterinnen und Anwärter für eine
-Laufbahn der Feldwebel oder Fachunteroffiziere sowie Mannschaften, die
-sich mit dem Ziel der Übernahme als Anwärterin oder Anwärter für eine
-Laufbahn der Feldwebel oder Fachunteroffiziere verpflichtet haben.
-Darüber hinaus ernennt und entlässt sie Mannschaften, die
+(2) Das Bundesamt für das Personalmanagement der Bundeswehr ernennt
+und entlässt Feldwebel, Fachunteroffiziere, Anwärterinnen und Anwärter
+für eine Laufbahn der Feldwebel oder Fachunteroffiziere sowie
+Mannschaften, die sich mit dem Ziel der Übernahme als Anwärterin oder
+Anwärter für eine Laufbahn der Feldwebel oder Fachunteroffiziere
+verpflichtet haben. Darüber hinaus ernennt und entlässt es
+Mannschaften, die
 
 1.  Heeresuniform tragen und
 
@@ -145,9 +146,9 @@ Darüber hinaus ernennt und entlässt sie Mannschaften, die
     Militärmusikdienstes befinden,
 
 
-5.  dem Bereich der Spitzensportförderung der Bundeswehr, der
-    Stammdienststelle der Bundeswehr oder dem Zentralen Sanitätsdienst der
-    Bundeswehr angehören oder
+5.  dem Bereich der Spitzensportförderung der Bundeswehr, des Bundesamtes
+    für das Personalmanagement der Bundeswehr oder dem Zentralen
+    Sanitätsdienst der Bundeswehr angehören oder
 
 
 6.  nach § 7 des Einsatz-Weiterverwendungsgesetzes in das Dienstverhältnis
@@ -213,8 +214,8 @@ Zuständigkeiten begründet worden sind.
 ihnen unterstellte Mannschaften entlassen.
 
 (4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden
-Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und
-entlassen.
+Mannschaften durch das Bundesamt für das Personalmanagement der
+Bundeswehr ernannt und entlassen.
 
 
 ### Art 6 Zuständigkeiten in der Luftwaffe
@@ -272,8 +273,8 @@ Zuständigkeiten begründet worden sind.
 ihnen unterstellte Mannschaften entlassen.
 
 (4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden
-Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und
-entlassen.
+Mannschaften durch das Bundesamt für das Personalmanagement der
+Bundeswehr ernannt und entlassen.
 
 
 ### Art 7 Zuständigkeiten in der Streitkräftebasis
@@ -342,8 +343,8 @@ Zuständigkeiten begründet worden sind.
 ihnen unterstellte Mannschaften entlassen.
 
 (4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden
-Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und
-entlassen.
+Mannschaften durch das Bundesamt für das Personalmanagement der
+Bundeswehr ernannt und entlassen.
 
 
 ## Abschnitt 3 - Zuständigkeiten für Reservistinnen und Reservisten
@@ -355,23 +356,17 @@ entlassen.
 Soldatinnen und Soldaten in anderen als den in Abschnitt 2 genannten
 Wehrdienstverhältnissen.
 
-(2) Das Personalamt der Bundeswehr darf zu Offizierdienstgraden bis
-zum Oberstleutnant befördern. Es darf außerdem die Reserveoffizier-
-Anwärterinnen und Reserveoffizier-Anwärter befördern. Dies gilt auch
-für die Verleihung vorläufiger und zeitweiliger Offizierdienstgrade
-nach § 5 Abs. 3 und § 43 Abs. 3 der Soldatenlaufbahnverordnung.
+(2) Das Bundesamt für das Personalmanagement der Bundeswehr darf zu
+Dienstgraden bis zum Oberstleutnant befördern. Dies gilt auch für die
+Verleihung vorläufiger und zeitweiliger Dienstgrade nach § 5 Abs. 3, §
+22 Abs. 5 und § 43 Abs. 3 der Soldatenlaufbahnverordnung.
 
-(3) Die Stammdienststelle der Bundeswehr darf zu Unteroffizier- und
-Mannschaftsdienstgraden befördern. Dies gilt auch für die Verleihung
-vorläufiger und zeitweiliger Unteroffizier- und Mannschaftsdienstgrade
-nach § 5 Abs. 3 der Soldatenlaufbahnverordnung und vorläufiger und
-zeitweiliger Unteroffizierdienstgrade nach § 22 Abs. 5 der
-Soldatenlaufbahnverordnung.
-
-(4) Reservistinnen und Reservisten werden durch ihren
+(3) Reservistinnen und Reservisten werden durch ihren
 Übungstruppenteil entlassen. Als Leiterin oder Leiter eines
 Truppenteils eingesetzte Reservistinnen und Reservisten werden durch
-die nächsthöhere Dienststelle entlassen.
+die nächsthöhere Dienststelle entlassen. In ein
+Reservewehrdienstverhältnis berufene Reservistinnen und Reservisten
+entlässt das Bundesamt für das Personalmanagement der Bundeswehr.
 
 
 ## Abschnitt 4 - Schlussbestimmungen

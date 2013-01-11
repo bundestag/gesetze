@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2926
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 73 G v. 22.12.2011 I 3044
+:   Art. 1 V v. 19.12.2012 I 2796
 
 Diese Verordnung dient der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
@@ -18554,15 +18554,15 @@ von den zuständigen Behörden vorgegebene Frist abstellen.
 (1) Ein Institut, das den Gesamtanrechnungsbetrag für Adressrisiken
 vollständig oder teilweise nach dem IRBA ermittelt hat, hat
 sicherzustellen, dass seine Eigenmittelausstattung im ersten, zweiten,
-dritten, vierten, fünften und sechsten Zwölfmonatszeitraum nach dem
-31\. Dezember 2006 zu keiner Zeit die in den Absätzen 3 bis 5b
+dritten, vierten, fünften, sechsten und siebten Zwölfmonatszeitraum
+nach dem 31. Dezember 2006 zu keiner Zeit die in den Absätzen 3 bis 5b
 genannten Beträge unterschreitet.
 
 (2) Ein Institut, das den Anrechnungsbetrag für das operationelle
 Risiko mit Hilfe fortgeschrittener Messansätze ermittelt hat, hat
 sicherzustellen, dass seine Eigenmittelausstattung im zweiten,
-dritten, vierten, fünften und sechsten Zwölfmonatszeitraum nach dem
-31\. Dezember 2006 zu keiner Zeit die in den Absätzen 4 bis 5b
+dritten, vierten, fünften, sechsten und siebten Zwölfmonatszeitraum
+nach dem 31. Dezember 2006 zu keiner Zeit die in den Absätzen 4 bis 5b
 genannten Beträge unterschreitet.
 
 (3) In dem ersten Zwölfmonatszeitraum nach Absatz 1 entspricht die
@@ -18583,19 +18583,19 @@ entspricht diese Mindesteigenmittelausstattung 80 Prozent des Betrags,
 den das Institut nach § 2 des Grundsatzes I in diesem Zeitraum
 insgesamt als Mindesteigenmittel vorhalten müsste.
 
-(5a) In dem vierten, fünften und sechsten Zwölfmonatszeitraum nach den
-Absätzen 1 und 2 entspricht die Mindesteigenmittelausstattung in Bezug
-auf den jeweiligen Zwölfmonatszeitraum für ein Institut, dem bis zum
-31\. Dezember 2009 eine Zulassung zum IRBA nach § 58 Absatz 1 oder zum
-fortgeschrittenen Messansatz nach § 278 Absatz 1 erteilt worden ist,
-80 Prozent des Betrags, den das Institut nach § 2 des Grundsatzes I im
-jeweiligen Zwölfmonatszeitraum insgesamt als Mindesteigenmittel
-vorhalten müsste.
+(5a) In dem vierten, fünften, sechsten und siebten Zwölfmonatszeitraum
+nach den Absätzen 1 und 2 entspricht die Mindesteigenmittelausstattung
+in Bezug auf den jeweiligen Zwölfmonatszeitraum für ein Institut, dem
+bis zum 31. Dezember 2009 eine Zulassung zum IRBA nach § 58 Absatz 1
+oder zum fortgeschrittenen Messansatz nach § 278 Absatz 1 erteilt
+worden ist, 80 Prozent des Betrags, den das Institut nach § 2 des
+Grundsatzes I im jeweiligen Zwölfmonatszeitraum insgesamt als
+Mindesteigenmittel vorhalten müsste.
 
-(5b) In dem vierten, fünften und sechsten Zwölfmonatszeitraum nach den
-Absätzen 1 und 2 entspricht die Mindesteigenmittelausstattung in Bezug
-auf den jeweiligen Zwölfmonatszeitraum für ein Institut, dem eine
-Zulassung zum IRBA nach § 58 Absatz 1 oder zum fortgeschrittenen
+(5b) In dem vierten, fünften, sechsten und siebten Zwölfmonatszeitraum
+nach den Absätzen 1 und 2 entspricht die Mindesteigenmittelausstattung
+in Bezug auf den jeweiligen Zwölfmonatszeitraum für ein Institut, dem
+eine Zulassung zum IRBA nach § 58 Absatz 1 oder zum fortgeschrittenen
 Messansatz nach § 278 Absatz 1 erstmals nach dem 31. Dezember 2009
 erteilt worden ist und das zuvor weder eine Zulassung zum IRBA noch
 eine Zulassung zum fortgeschrittenen Messansatz hatte,

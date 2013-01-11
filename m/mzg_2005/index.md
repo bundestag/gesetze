@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1350
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.7.2009 I 1781
+:   Art. 1 G v. 14.12.2012 I 2578
 
 
 ## Eingangsformel
@@ -29,7 +29,7 @@ beschlossen:
 ## § 1 Art und Zweck der Erhebung
 
 (1) Über die Bevölkerung und den Arbeitsmarkt sowie die Wohnsituation
-der Haushalte werden in den Jahren 2005 bis 2012 Erhebungen auf
+der Haushalte werden in den Jahren 2005 bis 2016 Erhebungen auf
 repräsentativer Grundlage (Mikrozensus) als Bundesstatistik
 durchgeführt.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1273
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 53 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 14.12.2012 I 2579
 
 
 ## Teil 1 - Urheberrecht
@@ -4241,7 +4241,7 @@ angemessene Vergütung zu zahlen.
 
 #### § 137k Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung
 
-§ 52a ist mit Ablauf des 31. Dezember 2012 nicht mehr anzuwenden.
+§ 52a ist mit Ablauf des 31. Dezember 2014 nicht mehr anzuwenden.
 
 
 #### § 137l Übergangsregelung für neue Nutzungsarten

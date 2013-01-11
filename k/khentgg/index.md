@@ -65,12 +65,13 @@ Vereinbarungen oder Tarifen vergütet.
 ### § 2 Krankenhausleistungen
 
 (1) Krankenhausleistungen nach § 1 Abs. 1 sind insbesondere ärztliche
-Behandlung, Krankenpflege, Versorgung mit Arznei-, Heil- und
-Hilfsmitteln, die für die Versorgung im Krankenhaus notwendig sind,
-sowie Unterkunft und Verpflegung; sie umfassen allgemeine
-Krankenhausleistungen und Wahlleistungen. Zu den Krankenhausleistungen
-gehören nicht die Leistungen der Belegärzte (§ 18) sowie der
-Beleghebammen und -entbindungspfleger.
+Behandlung, auch durch nicht fest angestellte Ärztinnen und Ärzte,
+Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, die für
+die Versorgung im Krankenhaus notwendig sind, sowie Unterkunft und
+Verpflegung; sie umfassen allgemeine Krankenhausleistungen und
+Wahlleistungen. Zu den Krankenhausleistungen gehören nicht die
+Leistungen der Belegärzte (§ 18) sowie der Beleghebammen und
+-entbindungspfleger.
 
 (2) Allgemeine Krankenhausleistungen sind die Krankenhausleistungen,
 die unter Berücksichtigung der Leistungsfähigkeit des Krankenhauses im
@@ -110,6 +111,12 @@ Nicht zu den Krankenhausleistungen nach Satz 2 Nr. 2 gehört eine
 Dialyse, wenn hierdurch eine entsprechende Behandlung fortgeführt
 wird, das Krankenhaus keine eigene Dialyseeinrichtung hat und ein
 Zusammenhang mit dem Grund der Krankenhausbehandlung nicht besteht.
+
+(3) Bei der Erbringung von allgemeinen Krankenhausleistungen durch
+nicht im Krankenhaus fest angestellte Ärztinnen und Ärzte hat das
+Krankenhaus sicherzustellen, dass diese für ihre Tätigkeit im
+Krankenhaus die gleichen Anforderungen erfüllen, wie sie auch für fest
+im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 
 
 ## Abschnitt 2 - Vergütung der Krankenhausleistungen
@@ -168,24 +175,34 @@ Patientinnen und Patienten entlassen werden.
 
 (2a) Abweichend von Absatz 2 Satz 1 und 2 gilt für Leistungen, die im
 Vergleich zur Vereinbarung für das laufende Kalenderjahr zusätzlich im
-Erlösbudget berücksichtigt werden, für das Jahr 2011 ein
-Vergütungsabschlag in Höhe von 30 Prozent (Mehrleistungsabschlag). Ab
-dem Jahr 2012 haben die Vertragsparteien die Höhe des Abschlags zu
+Erlösbudget berücksichtigt werden, für die Jahre 2013 und 2014 ein
+Vergütungsabschlag von 25 Prozent (Mehrleistungsabschlag). Für das
+Jahr 2012 haben die Vertragsparteien die Höhe des Abschlags zu
 vereinbaren. Der Mehrleistungsabschlag nach Satz 1 oder 2 gilt nicht
 für zusätzlich vereinbarte Entgelte mit einem Sachkostenanteil von
-mehr als zwei Dritteln sowie bei zusätzlichen Kapazitäten aufgrund der
-Krankenhausplanung oder des Investitionsprogramms des Landes; im
-Übrigen können die Vertragsparteien zur Vermeidung unzumutbarer Härten
-einzelne Leistungen von der Erhebung des Abschlags ausnehmen. Der
-Vergütungsabschlag ist durch einen einheitlichen Abschlag auf alle mit
-dem Landesbasisfallwert vergüteten Leistungen des Krankenhauses
-umzusetzen. Die näheren Einzelheiten der Umsetzung des
-Mehrleistungsabschlags vereinbaren die Vertragsparteien. Der
+mehr als zwei Dritteln, bei Transplantationen sowie bei zusätzlichen
+Kapazitäten aufgrund der Krankenhausplanung oder des
+Investitionsprogramms des Landes; im Übrigen können die
+Vertragsparteien zur Vermeidung unzumutbarer Härten einzelne
+Leistungen von der Erhebung des Abschlags ausnehmen, ferner können sie
+für einzelne Leistungen oder Leistungsbereiche Ausnahmen vom
+Mehrleistungsabschlag aufgrund besonderer Qualitätsvereinbarungen
+festlegen. Der Vergütungsabschlag ist durch einen einheitlichen
+Abschlag auf alle mit dem Landesbasisfallwert vergüteten Leistungen
+des Krankenhauses umzusetzen. Die näheren Einzelheiten der Umsetzung
+des Mehrleistungsabschlags vereinbaren die Vertragsparteien. Der
 Mehrleistungsabschlag ist in der Rechnung gesondert auszuweisen. Die
 Abschläge nach Satz 1 oder 2 werden bei der Ermittlung des
-Landesbasisfallwerts nicht absenkend berücksichtigt. Die Leistungen
-nach Satz 1 oder 2 sind in den Erlösbudgets für die Folgejahre jeweils
-in Höhe des ungekürzten Landesbasisfallwerts zu vereinbaren.
+Landesbasisfallwerts nicht absenkend berücksichtigt. Der nach Satz 1
+für das Jahr 2013 ermittelte Mehrleistungsabschlag gilt sowohl für das
+Jahr 2013 als auch für das Jahr 2014. Die Leistungen nach Satz 1 oder
+2 sind nach Ablauf der jeweiligen Geltung des Mehrleistungsabschlags
+in den Erlösbudgets für die Folgejahre jeweils in Höhe des ungekürzten
+Landesbasisfallwerts zu vereinbaren. Der Mehrleistungsabschlag findet
+keine Anwendung für Leistungen, für welche die Vertragsparteien auf
+Bundesebene abgesenkte oder gestaffelte Bewertungsrelationen nach §
+17b Absatz 1 Satz 11 des Krankenhausfinanzierungsgesetzes vereinbart
+haben.
 
 (3) Das nach den Absätzen 1 und 2 vereinbarte Erlösbudget und die nach
 § 6 Abs. 3 vereinbarte Erlössumme werden für die Ermittlung von Mehr-
@@ -549,12 +566,13 @@ krankenhausindividuell zu vereinbarende Entgelte abgerechnet werden,
 gelten darüber hinaus die Vorschriften zur Vereinbarung des
 Gesamtbetrags nach § 6 und zu den vorzulegenden Unterlagen nach § 17
 Abs. 4 in Verbindung mit den Anlagen 1 und 2 der
-Bundespflegesatzverordnung entsprechend; die Unterlagen sind nur
-bezogen auf den Bereich der Einrichtung und nur insoweit vorzulegen,
-wie die anderen Vertragsparteien nach § 11 nicht darauf verzichten.
-Weichen die tatsächlich eintretenden Erlöse von der vereinbarten
-Erlössumme ab, sind die Mehr- oder Mindererlöse nach den Vorgaben des
-§ 4 Abs. 3 zu ermitteln und auszugleichen.
+Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden
+Fassung entsprechend; die Unterlagen sind nur bezogen auf den Bereich
+der Einrichtung und nur insoweit vorzulegen, wie die anderen
+Vertragsparteien nach § 11 nicht darauf verzichten. Weichen die
+tatsächlich eintretenden Erlöse von der vereinbarten Erlössumme ab,
+sind die Mehr- oder Mindererlöse nach den Vorgaben des § 4 Abs. 3 zu
+ermitteln und auszugleichen.
 
 (4) (weggefallen)
 
@@ -715,7 +733,7 @@ Zuschlag auch für den Entlassungstag berechnet.
 
 (4) Hält das Krankenhaus seine Verpflichtungen zur Qualitätssicherung
 nicht ein, sind von den Fallpauschalen und Zusatzentgelten Abschläge
-nach § 137 Abs. 1 Satz 3 Nr. 5 des Fünften Buches Sozialgesetzbuch
+nach § 137 Abs. 1 Satz 2 des Fünften Buches Sozialgesetzbuch
 vorzunehmen.
 
 (5) Werden Patientinnen oder Patienten, für die eine Fallpauschale
@@ -1269,13 +1287,8 @@ Abs. 4 abgerechnet.
 
 
 
-### § 16 Gesondert berechenbare ärztliche und andere Leistungen
+### § 16 (weggefallen)
 
-Bis zum 31. Dezember 2004 richten sich die Vereinbarung und Berechnung
-von Wahlleistungen und belegärztlichen Leistungen sowie die
-Kostenerstattung der Ärzte nach den §§ 22 bis 24 der
-Bundespflegesatzverordnung in der am 31. Dezember 2003 geltenden
-Fassung.
 
 
 ### § 17 Wahlleistungen
@@ -1346,8 +1359,8 @@ gemacht werden.
 
 (5) Bei Krankenhäusern, für die die Bundespflegesatzverordnung gilt,
 müssen die Wahlleistungsentgelte mindestens die dafür nach § 7 Abs. 2
-Satz 2 Nr. 4, 5 und 7 der Bundespflegesatzverordnung abzuziehenden
-Kosten decken.
+Satz 2 Nr. 4, 5 und 7 der Bundespflegesatzverordnung in der am 31.
+Dezember 2012 geltenden Fassung abzuziehenden Kosten decken.
 
 
 ### § 18 Belegärzte
@@ -1376,24 +1389,23 @@ Vergütung zu erhalten. Leistungen des Belegarztes sind
 
 
 
-(2) Für Belegpatienten werden gesonderte Fallpauschalen und
-Zusatzentgelte nach § 17b des Krankenhausfinanzierungsgesetzes
-vereinbart. Bei Krankenhäusern, für die die Bundespflegesatzverordnung
-gilt und die tagesgleiche Pflegesätze berechnen, werden gesonderte
-Belegpflegesätze vereinbart.
+(2) Für Belegpatienten werden gesonderte pauschalierte Pflegesätze
+nach § 17 Absatz 1a des Krankenhausfinanzierungsgesetzes vereinbart,
+für das Entgeltsystem nach § 17d des Krankenhausfinanzierungsgesetzes
+frühestens für das Jahr 2017. Soweit für Belegpatientinnen und
+-patienten gesonderte Entgelte nach Satz 1 nicht oder noch nicht
+vereinbart wurden, werden gesonderte sonstige Entgelte nach § 6 oder
+nach § 6 der Bundespflegesatzverordnung vereinbart.
 
 (3) Krankenhäuser mit Belegbetten, die nach § 121 Abs. 5 des Fünften
 Buches Sozialgesetzbuch zur Vergütung der belegärztlichen Leistungen
 mit Belegärzten Honorarverträge schließen, rechnen für die von
 Belegärzten mit Honorarverträgen behandelten Belegpatientinnen und
--patienten die Fallpauschalen für Hauptabteilungen in Höhe von 80
-Prozent ab. Bei diesen Krankenhäusern ist bei der Vereinbarung
-sonstiger Entgelte nach § 6 die Vergütung des Belegarztes
-einzubeziehen. Krankenhäuser nach Satz 1 erster Halbsatz, für die die
-Bundespflegesatzverordnung gilt, rechnen für von Belegärzten mit
-Honorarverträgen behandelte Belegpatientinnen und -patienten
-tagesgleiche Pflegesätze ab, die auch die Vergütung des Belegarztes
-umfassen.
+-patienten die mit Bewertungsrelationen bewerteten Entgelte für
+Hauptabteilungen in Höhe von 80 Prozent ab. Bei diesen Krankenhäusern
+ist bei der Vereinbarung sonstiger Entgelte nach § 6 oder nach § 6 der
+Bundespflegesatzverordnung die Vergütung des Belegarztes
+einzubeziehen.
 
 
 ### § 19 Kostenerstattung der Ärzte
@@ -1409,16 +1421,16 @@ entgegenstehen, sind sie anzupassen.
 17 Abs. 3 gesondert berechnen kann, ist er, soweit in Satz 2 nichts
 Abweichendes bestimmt ist, verpflichtet, dem Krankenhaus die auf diese
 Wahlleistungen entfallenden, nach § 7 Abs. 2 Satz 2 Nr. 4 der
-Bundespflegesatzverordnung nicht pflegesatzfähigen Kosten zu
-erstatten. Beruht die Berechtigung des Arztes, wahlärztliche
-Leistungen nach § 17 Abs. 3 gesondert zu berechnen, auf einem mit dem
-Krankenhausträger vor dem 1. Januar 1993 geschlossenen Vertrag oder
-einer vor dem 1. Januar 1993 auf Grund beamtenrechtlicher Vorschriften
-genehmigten Nebentätigkeit, ist der Arzt abweichend von Satz 1
-verpflichtet, dem Krankenhaus die auf diese Wahlleistungen
-entfallenden, nach § 7 Abs. 2 Satz 2 Nr. 5 der
-Bundespflegesatzverordnung nicht pflegesatzfähigen Kosten zu
-erstatten.
+Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden
+Fassung nicht pflegesatzfähigen Kosten zu erstatten. Beruht die
+Berechtigung des Arztes, wahlärztliche Leistungen nach § 17 Abs. 3
+gesondert zu berechnen, auf einem mit dem Krankenhausträger vor dem 1.
+Januar 1993 geschlossenen Vertrag oder einer vor dem 1. Januar 1993
+auf Grund beamtenrechtlicher Vorschriften genehmigten Nebentätigkeit,
+ist der Arzt abweichend von Satz 1 verpflichtet, dem Krankenhaus die
+auf diese Wahlleistungen entfallenden, nach § 7 Abs. 2 Satz 2 Nr. 5
+der Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden
+Fassung nicht pflegesatzfähigen Kosten zu erstatten.
 
 (3) Soweit Ärzte zur Erbringung sonstiger vollstationärer oder
 teilstationärer ärztlicher Leistungen, die sie selbst berechnen
@@ -1452,8 +1464,8 @@ zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs.
 5 des Fünften Buches Sozialgesetzbuch benannten Bevollmächtigten, für
 die knappschaftliche Krankenversicherung die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und für die
-Krankenversicherung der Landwirte die örtlich zuständigen
-landwirtschaftlichen Krankenkassen wahr.
+Krankenversicherung der Landwirte die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau wahr.
 
 
 ### § 21 Übermittlung und Nutzung von Daten
@@ -1494,8 +1506,8 @@ teilstationären Krankenhausfälle des ersten Halbjahres 2002 zu
 
     d)  Summe der vereinbarten und abgerechneten DRG-Fälle, der vereinbarten
         und abgerechneten Summe der Bewertungsrelationen sowie der
-        Ausgleichsbeträge nach § 3 Abs. 6 oder § 4 Abs. 9, jeweils für das
-        vorangegangene Kalenderjahr;
+        Ausgleichsbeträge nach § 5 Absatz 4, jeweils für das vorangegangene
+        Kalenderjahr;
 
 
 
@@ -1638,13 +1650,15 @@ Sicherheit in der Informationstechnik die weiteren Einzelheiten der
 Datenübermittlung.
 
 (5) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 vereinbaren einen
-Abschlag von den Fallpauschalen für die Krankenhäuser, die ihre
+Abschlag von den pauschalierten Pflegesätzen nach § 17 Absatz 1 des
+Krankenhausfinanzierungsgesetzes für die Krankenhäuser, die ihre
 Verpflichtung zur Übermittlung der Daten nach Absatz 1 nicht, nicht
 vollständig oder nicht rechtzeitig erfüllen. Die DRG-Datenstelle
-unterrichtet jeweils die Vertragsparteien nach § 11 über Verstöße. Die
-Vertragsparteien nach § 11 berücksichtigen den Abschlag in den Jahren
-2003 bis 2008 bei der Vereinbarung des krankenhausindividuellen
-Basisfallwerts.
+unterrichtet jeweils die Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes über Verstöße. Die Vertragsparteien
+nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes
+berücksichtigen den Abschlag in den Jahren 2013 bis 2021 bei der
+Vereinbarung des krankenhausindividuellen Basisentgeltwerts.
 
 (6) Kommt eine Vereinbarung nach den Absätzen 4 und 5 ganz oder
 teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei

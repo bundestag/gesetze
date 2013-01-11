@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 6.11.2012 I 2286
+:   3 G v. 5.12.2012 I 2415
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -43,8 +43,8 @@ Abschluss von Finanztermingeschäften, auf Finanzanalysen sowie auf
 Veränderungen der Stimmrechtsanteile von Aktionären an börsennotierten
 Gesellschaften.
 
-(2) Die Vorschriften des dritten und vierten Abschnitts sowie die die
-§§ 34b und 34c sind auch anzuwenden auf Handlungen und Unterlassungen,
+(2) Die Vorschriften des dritten und vierten Abschnitts sowie die §§
+34b und 34c sind auch anzuwenden auf Handlungen und Unterlassungen,
 die im Ausland vorgenommen werden, sofern sie Finanzinstrumente
 betreffen, die an einer inländischen Börse gehandelt werden.
 
@@ -3009,11 +3009,11 @@ Angaben in den Informationsblättern nach Satz 1 dürfen weder unrichtig
 noch irreführend sein und müssen mit den Angaben des Prospekts
 vereinbar sein. An die Stelle des Informationsblattes treten bei
 Anteilen an inländischen Investmentvermögen die wesentlichen
-Anlegerinformationen nach § 42 Absatz 2 des Investmentgesetzes, bei
-ausländischen Investmentvermögen die wesentlichen Anlegerinformationen
-nach § 137 Absatz 2 des Investmentgesetzes sowie bei EU-
-Investmentanteilen die wesentlichen Anlegerinformationen, die nach §
-122 Absatz 1 Satz 2 des Investmentgesetzes in deutscher Sprache
+Anlegerinformationen nach § 42 Absatz 2 bis 2c des Investmentgesetzes,
+bei ausländischen Investmentvermögen die wesentlichen
+Anlegerinformationen nach § 137 Absatz 2 des Investmentgesetzes sowie
+bei EU-Investmentanteilen die wesentlichen Anlegerinformationen, die
+nach § 122 Absatz 1 Satz 2 des Investmentgesetzes in deutscher Sprache
 veröffentlicht worden sind. Bei Vermögensanlagen im Sinne des § 1
 Absatz 2 des Vermögensanlagengesetzes tritt an die Stelle des
 Informationsblatts nach Satz 1 das Vermögensanlagen-Informationsblatt
@@ -6146,7 +6146,7 @@ indem er vorsätzlich oder leichtfertig
 
 
 6.  entgegen Artikel 4 Absatz 1 Unterabsatz 2 nicht gewährleistet, dass
-    die dort genannten Informationen im Prospekt enthalten sind,
+    die dort genannten Informationen im Prospekt enthalten sind.
 
 
 7.- 42. (weggefallen)
@@ -6180,7 +6180,7 @@ indem er vorsätzlich oder leichtfertig
 
 
 4.  entgegen Artikel 42 Absatz 5 die Behörde nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig informiert,
+    vollständig oder nicht rechtzeitig informiert.
 
 
 
