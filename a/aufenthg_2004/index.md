@@ -6343,6 +6343,10 @@ Voraussetzungen für ein Anfechtungsrecht nach § 1600 Abs. 1 Nr. 5 des
 Bürgerlichen Gesetzbuchs vorliegen, hat sie diese der
 anfechtungsberechtigten Behörde mitzuteilen.
 
+(6) Zu den in § 755 der Zivilprozessordnung genannten Zwecken
+übermittelt die Ausländerbehörde dem Gerichtsvollzieher auf Ersuchen
+den Aufenthaltsort einer Person.
+
 
 
 #### § 90a Mitteilungen der Ausländerbehörden an die Meldebehörden
