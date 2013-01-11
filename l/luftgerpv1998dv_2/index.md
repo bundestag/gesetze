@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: 2000, Nr 58, 4897
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.6.2012 BAnz, AT 04.07.2012 V2
+:   Art. 1 V v. 13.12.2012 BAnz, AT 28.12.2012 V2
 
 
 ## Eingangsformel
@@ -151,10 +151,12 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
 
     f)  Ultraleicht-Flugzeuge in der Bauart Drehflügelflugzeuge
         (Tragschrauber) die "Bauvorschriften für Ultraleichte Tragschrauber
-        (einmotorig)" vom 26. September 2001 (NfL II-89/01), geändert durch
-        die Bekanntmachung der Änderung der Bekanntmachung von Bauvorschriften
-        für Ultraleicht Tragschrauber (einmotorig) vom 12. Februar 2009 (NfL
-        II-13/09),
+        (einmotorig)" vom 26. September 2001 (NfL II-89/01) geändert durch die
+        Bekanntmachung der Änderung der Bekanntmachung von "Bauvorschriften
+        für Ultraleicht Tragschrauber (einmotorig)" vom 12. Februar 2009 (NfL
+        II-13/09) sowie durch die Bekanntmachung der Änderung der
+        Bekanntmachung von "Bauvorschriften für Ultraleichte Tragschrauber
+        (einmotorig)" vom 18. Oktober 2012 (NfL II-67/12),
 
 
     g)  aerodynamische gesteuerte Luftsportgeräte mit einer höchstzulässigen
