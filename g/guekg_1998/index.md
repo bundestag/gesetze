@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1485
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 43 G v. 24.2.2012 I 212
+:   Art. 1a G v. 25.11.2012 II 1381
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -875,6 +875,21 @@ Die Zuständigkeit des Bundesamtes nach Satz 1 umfasst sämtliche
 Aufgaben im Zusammenhang mit der Beihilfegewährung.
 
 
+### § 14b Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
+
+(1) Das Bundesamt für Güterverkehr ist zuständig für die Aufgaben nach
+den Artikeln 4, 11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011
+des Europäischen Parlaments und des Rates vom 16. November 2011 über
+den gewerbsmäßigen grenzüberschreitenden Straßentransport von Euro-
+Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom
+29\.11.2011, S. 1).
+
+(2) Bei der Kontrolle der Einhaltung der Bestimmungen nach Artikel 21
+gilt § 12 Absatz 4, 5 und 6 Satz 1 Nummer 1 bis 4 und Satz 2 und 3
+entsprechend; bei der Verfolgung von Zuwiderhandlungen gilt § 20
+entsprechend.
+
+
 ### § 15 Datei über Unternehmen des gewerblichen Güterkraftverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen (Verkehrsunternehmensdatei)
 
 (1) Das Bundesamt führt die Verkehrsunternehmensdatei über alle im
@@ -1476,16 +1491,61 @@ durchführt, ohne die Fahrerbescheinigung mitzuführen.
 
 
 
-(5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 6c,
+(5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
+1214/2011 des Europäischen Parlaments und des Rates vom 16. November
+2011 über den gewerbsmäßigen grenzüberschreitenden Straßentransport
+von Euro-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L
+316 vom 29.11.2011, S. 1) verstößt, indem er vorsätzlich oder
+fahrlässig
+
+1.  ohne Lizenz nach Artikel 4 Absatz 1 einen grenzüberschreitenden
+    Geldtransport betreibt,
+
+
+2.  entgegen Artikel 4 Absatz 3 Satz 2 ein Original oder eine beglaubigte
+    Kopie einer gültigen Lizenz nicht oder nicht rechtzeitig vorweist,
+
+
+3.  entgegen Artikel 6 Absatz 4 Satz 1 eine erforderliche
+    Waffengenehmigung nicht besitzt oder
+
+
+4.  entgegen Artikel 10 dort genannte Banknoten nicht oder nicht
+    unverzüglich nach Entdecken aus dem Verkehr zieht.
+
+
+
+
+(6) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  als Verantwortlicher eines lizenzierten Unternehmens
+    Sicherheitspersonal einsetzt, das einer in Artikel 5 Absatz 1
+    Unterabsatz 1 oder Absatz 2 Satz 1 der Verordnung (EU) Nr. 1214/2011
+    genannten Anforderung nicht genügt,
+
+
+2.  als Verantwortlicher eines lizenzierten Unternehmens ein Fahrzeug
+    einsetzt, das einer Anforderung des Artikels 7 Absatz 1, 2, 3 oder
+    Absatz 4 Satz 1 der Verordnung (EU) Nr. 1214/2011 nicht genügt, oder
+
+
+3.  einen Transport in einer nicht nach Artikel 13 Absatz 1 Satz 1 der
+    Verordnung (EU) Nr. 1214/2011 genannten Option durchführt.
+
+
+
+
+(7) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 6c,
 Absatzes 1a Nr. 2 und des Absatzes 4 Nr. 1 und 3 mit einer Geldbuße
-bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nr. 1b,
-12, des Absatzes 1a Nr. 1, des Absatzes 2 Nr. 1 und des Absatzes 4 Nr.
-2 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen
-mit einer Geldbuße bis zu fünftausend Euro geahndet werden. Sie können
-auf der Grundlage und nach Maßgabe internationaler Übereinkünfte auch
-dann geahndet werden, wenn sie im Bereich gemeinsamer
-Grenzabfertigungsanlagen außerhalb des räumlichen Geltungsbereiches
-dieses Gesetzes begangen werden.
+bis zu zweihunderttausend Euro, in den Fällen der Absätze 5 und 6 mit
+einer Geldbuße bis zu hunderttausend Euro, in den Fällen des Absatzes
+1 Nr. 1b, 12, des Absatzes 1a Nr. 1, des Absatzes 2 Nr. 1 und des
+Absatzes 4 Nr. 2 mit einer Geldbuße bis zu zwanzigtausend Euro, in den
+übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
+werden. Sie können auf der Grundlage und nach Maßgabe internationaler
+Übereinkünfte auch dann geahndet werden, wenn sie im Bereich
+gemeinsamer Grenzabfertigungsanlagen außerhalb des räumlichen
+Geltungsbereiches dieses Gesetzes begangen werden.
 
 
 ### § 20 Befugnisse des Bundesamtes bei der Verfolgung von Zuwiderhandlungen
