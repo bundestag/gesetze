@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3182
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 71 G v. 22.12.2011 I 3044
+:   Art. 2 V v. 26.11.2012 I 2363
 
 [^F772617_01_BJNR318200009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2009/28/EG des
     Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung
@@ -126,19 +126,27 @@ Kraftstoff erforderlich ist.
 
 (3) Schnittstellen im Sinne dieser Verordnung sind
 
-1.  die Betriebe und Betriebsstätten (Betriebe), die die Biomasse, die für
-    die Herstellung der Biokraftstoffe erforderlich ist, erstmals von den
-    Betrieben, die diese Biomasse anbauen und ernten, zum Zweck des
-    Weiterhandelns aufnehmen,
+1.  Betriebe und Betriebsstätten (Betriebe), die die für die Herstellung
+    der Biokraftstoffe erforderliche Biomasse
+
+    a)  erstmals von den Betrieben, die diese Biomasse anbauen und ernten,
+        oder
+
+
+    b)  im Fall von Abfällen und Reststoffen erstmals von den Betrieben oder
+        Privathaushalten, bei denen die Abfälle und Reststoffe anfallen, zum
+        Zwecke des Weiterhandelns aufnehmen,
+
+
+
 
 
 2.  Ölmühlen und
 
 
-3.  sonstige Betriebe, die flüssige oder gasförmige Biomasse auf die
-    erforderliche Qualitätsstufe für den Einsatz als Biokraftstoff
-    aufbereiten oder die aus der eingesetzten Biomasse Biokraftstoffe
-    herstellen.
+3.  Betriebe, die flüssige oder gasförmige Biomasse auf die erforderliche
+    Qualitätsstufe für den Einsatz als Biokraftstoff aufbereiten oder die
+    aus der eingesetzten Biomasse Biokraftstoffe herstellen.
 
 
 
@@ -212,6 +220,17 @@ Verordnung sind
 
 
 
+
+(10) Abfälle im Sinne dieser Verordnung sind Abfälle im Sinne des § 7
+Absatz 1 Satz 1 Nummer 1 der Verordnung zur Durchführung der
+Regelungen der Biokraftstoffquote vom 29. Januar 2007 (BGBl. I S. 60),
+die zuletzt durch Artikel 1 der Verordnung vom 26. November 2012
+(BGBl. I S. 2363) geändert worden ist, in der jeweils geltenden
+Fassung.
+
+(11) Reststoffe im Sinne dieser Verordnung sind Reststoffe im Sinne
+des § 7 Absatz 4 der Verordnung zur Durchführung der Regelungen der
+Biokraftstoffquote.
 
 
 ## Teil 2 - Nachhaltigkeitsanforderungen
@@ -902,8 +921,8 @@ enthalten:
 
 
 
-(2) Nachhaltigkeitsnachweise müssen in schriftlicher Form nach dem
-Muster der Anlage 3 ausgestellt werden.
+(2) Nachhaltigkeitsnachweise müssen in schriftlicher Form ausgestellt
+werden.
 
 (3) Nachhaltigkeitsnachweise müssen der Biokraftstoffquotenstelle oder
 dem Hauptzollamt in deutscher Sprache vorgelegt werden.
@@ -1081,18 +1100,15 @@ sind.
 
 #### § 24 Nachhaltigkeits-Teilnachweise
 
-(1) Die zuständige Behörde stellt für Teilmengen von Biokraftstoffen,
-für die bereits ein Nachhaltigkeitsnachweis ausgestellt worden ist,
-auf Antrag der Inhaberin oder des Inhabers des
-Nachhaltigkeitsnachweises Nachhaltigkeits-Teilnachweise aus. Der
-Antrag ist elektronisch zu stellen. Die Nachhaltigkeits-Teilnachweise
-werden unverzüglich und elektronisch nach Vorlage des
-Nachhaltigkeitsnachweises, der in Teilnachweise aufgeteilt werden
-soll, ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden. Die
-Teilnachweise werden nach dem Muster der Anlage 4 ausgestellt.
+(1) Die zuständige Behörde stellt für Mengen von Biokraftstoffen, für
+die bereits ein Nachhaltigkeitsnachweis ausgestellt worden ist, auf
+Antrag der Inhaberin oder des Inhabers des Nachhaltigkeitsnachweises
+Nachhaltigkeits-Teilnachweise aus. Der Antrag ist elektronisch zu
+stellen. Die Nachhaltigkeits-Teilnachweise werden unverzüglich und
+elektronisch ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden.
 
-(2) Absatz 1 ist für Teilmengen von Biokraftstoffen, für die bereits
-ein Nachhaltigkeits-Teilnachweis ausgestellt worden ist, entsprechend
+(2) Absatz 1 ist für Mengen von Biokraftstoffen, für die bereits ein
+Nachhaltigkeits-Teilnachweis ausgestellt worden ist, entsprechend
 anzuwenden.
 
 (3) Werden Treibhausgas-Minderungspotenziale oder Werte für
@@ -1103,7 +1119,7 @@ Buchstabe a saldiert, stellt die zuständige Behörde auf Antrag der
 Inhaberin oder des Inhabers der Nachhaltigkeitsnachweise oder
 Nachhaltigkeits-Teilnachweise einen Nachhaltigkeits-Teilnachweis aus,
 der die Werte enthält, die sich aus der Saldierung ergeben. Absatz 1
-Satz 2 bis 5 ist entsprechend anzuwenden.
+Satz 2 bis 4 ist entsprechend anzuwenden.
 
 (4) Im Fall eines Nachhaltigkeitsnachweises nach § 15 oder § 22 muss
 die zuständige Behörde eine Kopie des Nachhaltigkeits-Teilnachweises
@@ -1400,7 +1416,7 @@ Anerkannte Zertifizierungssysteme im Sinne dieser Verordnung sind:
 5.  sie zu diesem Zweck Standards enthalten, die mindestens den
     Anforderungen nach Anhang III zu dem Übereinkommen über technische
     Handelshemmnisse (ABl. L 336 vom 23.12.1994, S. 86) und den
-    Anforderungen nach Anlage 5 entsprechen.
+    Anforderungen nach Anlage 3 entsprechen.
 
 
 
@@ -1664,7 +1680,7 @@ Anerkannte Zertifizierungsstellen im Sinne dieser Verordnung sind:
 
 
 
-3.[^F772617_02_BJNR318200009BJNE004500000]
+3.[^F772617_02_BJNR318200009BJNE004501360]
   die Anforderungen der DIN EN 45011, Ausgabe März 1998, erfüllen, ihre
     Konformitätsbewertungen nach den Standards der ISO/IEC Guide 60,
     Ausgabe September 2004, durchführen und ihre Kontrollen den
@@ -1672,7 +1688,7 @@ Anerkannte Zertifizierungsstellen im Sinne dieser Verordnung sind:
     ,
 
 
-4.  sich entsprechend der Anlage 5 Nummer 1 Buchstabe e schriftlich
+4.  sich entsprechend der Anlage 3 Nummer 1 Buchstabe e schriftlich
     verpflichtet haben und
 
 
@@ -1719,7 +1735,7 @@ jeweils geltenden Fassung kombiniert werden.
     Verordnung verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin, zu
     beziehen und beim Deutschen Patent- und Markenamt in München
     archivmäßig gesichert niedergelegt.
-[^F772617_02_BJNR318200009BJNE004500000]: 
+[^F772617_02_BJNR318200009BJNE004501360]: 
 
 ##### § 44 Verfahren zur Anerkennung
 
@@ -2265,11 +2281,12 @@ für
 
 (2) Die Rechts- und Fachaufsicht über die Bundesanstalt für
 Landwirtschaft und Ernährung obliegt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz. Rechtsfragen von
-grundsätzlicher Bedeutung werden vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz, nachdem das Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-hergestellt wurde, mit dem Bundesministerium der Finanzen abgestimmt.
+Ernährung, Landwirtschaft und Verbraucherschutz. Rechts- und
+Fachfragen von grundsätzlicher Bedeutung werden vom Bundesministerium
+für Ernährung, Landwirtschaft und Verbraucherschutz, nachdem das
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+Reaktorsicherheit hergestellt wurde, mit dem Bundesministerium der
+Finanzen abgestimmt.
 
 
 ### § 67 Verfahren vor der zuständigen Behörde
@@ -2284,16 +2301,20 @@ werden, müssen in deutscher Sprache verfasst oder mit einer
 
 ### § 68 Muster und Vordrucke
 
-(1) Unbeschadet des § 18 Absatz 2 und des § 24 Absatz 1 Satz 5 sind
-auch für die folgenden Dokumente Vordrucke und Muster zu verwenden:
+(1) Für die folgenden Dokumente sind Vordrucke und Muster zu
+verwenden:
 
-1.  die Zertifikate nach § 26,
-
-
-2.  die Berichte und Mitteilungen nach den §§ 52 und 53 sowie
+1.  für die Zertifikate nach § 26,
 
 
-3.  die Bescheinigungen § 58 Absatz 1.
+2.  für die Berichte und Mitteilungen nach den §§ 52 und 53,
+
+
+3.  für die Bescheinigungen nach § 58 Absatz 1 sowie
+
+
+4.  für die Nachhaltigkeitsnachweise nach § 18 und die Nachhaltigkeits-
+    Teilnachweise nach § 24.
 
 
 
@@ -2301,10 +2322,10 @@ auch für die folgenden Dokumente Vordrucke und Muster zu verwenden:
 (2) Die zuständige Behörde veröffentlicht die Vordrucke und Muster
 sowie das Format einer elektronischen Datenübermittlung im
 Bundesanzeiger sowie auf ihrer Internetseite. Sie kann für
-Nachhaltigkeitsnachweise und Nachhaltigkeits-Teilnachweise, die nach
-dem Muster der Anlage 3 oder 4 in englischer oder einer anderen
-Sprache ausgestellt worden sind, eine Übersetzung im Bundesanzeiger
-sowie auf ihrer Internetseite veröffentlichen.
+Nachhaltigkeitsnachweise und Nachhaltigkeits-Teilnachweise, die in
+englischer oder einer anderen Sprache ausgestellt worden sind, eine
+Übersetzung im Bundesanzeiger sowie auf ihrer Internetseite
+veröffentlichen.
 
 
 ### § 69 Außenverkehr
@@ -4188,19 +4209,7 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 
-### Anlage 3 (zu § 18 Absatz 2) Muster eines Nachhaltigkeitsnachweises
-
-(Fundstelle: BGBl. I 2009, 3209)
-
-![bgbl1_2009_j3182-1_0010.jpg](bgbl1_2009_j3182-1_0010.jpg)
-
-### Anlage 4 (zu § 24 Absatz 1) Muster eines Nachhaltigkeits-Teilnachweises
-
-(Fundstelle: BGBl. I 2009, 3210 - 3208)
-
-![bgbl1_2009_j3182-1_0020.jpg](bgbl1_2009_j3182-1_0020.jpg)
-
-### Anlage 5 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
+### Anlage 3 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
 
 (Fundstelle: BGBl. I 2009, 3211 - 3212;
 bzgl. einzelner Änderungen vgl. Fußnote)
