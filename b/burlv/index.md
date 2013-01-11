@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.11.2004 I 2831;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.7.2009 I 2104
+:   Art. 1 V v. 6.12.2012 I 2568
 
 
 ## § 1 Urlaubsjahr
@@ -49,64 +49,18 @@ der Wartezeit gewährt werden, wenn besondere Gründe dies erfordern.
 
 ## § 4 Bemessungsgrundlage
 
-Für die Urlaubsdauer sind das Lebensjahr und die Besoldungsgruppe
-maßgebend, die von der Beamtin oder dem Beamten vor Beendigung des
-Urlaubsjahres erreicht werden. Für Beamtinnen und Beamte im
-Vorbereitungsdienst ist das Eingangsamt ihrer Laufbahn maßgebend.
+Für die Urlaubsdauer ist das Lebensjahr maßgebend, welches die Beamtin
+oder der Beamte im Urlaubsjahr erreicht.
 
 
 ## § 5 Urlaubsdauer
 
 (1) Der Urlaub beträgt für Beamtinnen und Beamte, deren regelmäßige
-Arbeitszeit auf fünf Tage in der Kalenderwoche verteilt ist, für jedes
-Urlaubsjahr
+Arbeitszeit auf fünf Tage in der Kalenderwoche verteilt ist, bis zum
+vollendeten 55. Lebensjahr für jedes Urlaubsjahr 29 Tage und ab
+Vollendung des 55. Lebensjahres für jedes Urlaubsjahr 30 Tage.
 
-*    *   in den Besoldungsgruppen
-
-    *   bis zum vollendeten 30. Lebensjahr
-
-    *   bis zum vollendeten 40. Lebensjahr
-
-    *   nach vollendetem 40. Lebensjahr
-
-
-*    *
-    *   Arbeitstage
-
-
-*    *   A 1 bis A 14,
-
-    *   26
-
-    *   29
-
-    *   30
-
-
-*    *   C 1, R 1 A 15 und darüber,
-
-    *
-    *
-    *
-
-*    *   C 2 und darüber,
-
-    *   26
-
-    *   30
-
-    *   30
-
-
-*    *   R 2 und darüber
-
-    *
-    *
-    *
-
-
-
-   (2) Beamtinnen und Beamten steht für jeden vollen Monat der
+(2) Beamtinnen und Beamten steht für jeden vollen Monat der
 Dienstleistungspflicht ein Zwölftel des Jahresurlaubs nach Absatz 1
 zu, wenn
 
@@ -217,7 +171,7 @@ solange ihnen für mindestens ein Kind unter zwölf Jahren die
 Personensorge zusteht.
 
 (2) Der angesparte Erholungsurlaub wird dem Erholungsurlaub des
-zwölften Urlaubsjahres nach der Geburt des letzten Kindes hinzugefügt,
+zwölften Urlaubsjahres ab der Geburt des letzten Kindes hinzugefügt,
 soweit er noch nicht abgewickelt ist. Eine zusammenhängende
 Inanspruchnahme des angesparten Erholungsurlaubs von mehr als 30
 Arbeitstagen soll mindestens drei Monate vorher beantragt werden. Bei
@@ -468,12 +422,14 @@ Einrichtungen.
 
 (1) Für im Ausland tätige Beamtinnen und Beamte, die nicht dem
 Auswärtigen Dienst angehören, gilt die Heimaturlaubsverordnung
-entsprechend. Soweit Beamtinnen und Beamte in Ländern und Gebieten
-nach § 1 Abs. 1 und 2 der Heimaturlaubsverordnung tätig sind, die
-nicht in den Anlagen 1 und 2 zu § 1 Abs. 1 und 2 der
-Heimaturlaubsverordnung erfasst sind, setzt das Bundesministerium des
-Innern den Zusatzurlaub im Einvernehmen mit dem Bundesministerium des
-Auswärtigen fest.
+entsprechend. Soweit Beamtinnen und Beamte an Dienstorten nach § 1 der
+Heimaturlaubsverordnung vom 3. Juni 2002 (BGBl. I S. 1784), die
+zuletzt durch Artikel 1 der Verordnung vom 15. Juni 2010 (BGBl. I S.
+792) geändert worden ist, tätig sind, die nicht in der Allgemeinen
+Verwaltungsvorschrift über zusätzliche Urlaubstage für Beamtinnen und
+Beamte des Auswärtigen Dienstes an ausländischen Dienstorten erfasst
+sind, setzt das Bundesministerium des Innern den Zusatzurlaub im
+Einvernehmen mit dem Auswärtigen Amt fest.
 
 (2) Im Ausland tätige schwerbehinderte Beamtinnen und Beamte erhalten
 einen Zusatzurlaub von fünf Arbeitstagen im Jahr; bei Verteilung der
@@ -482,7 +438,16 @@ der Kalenderwoche erhöht oder vermindert sich der Zusatzurlaub
 entsprechend.
 
 
-## § 17 (Inkrafttreten)
+## § 17 Übergangsvorschriften
 
--
+(1) Für Beamtinnen und Beamte, die nach der bis zum 14. Dezember 2012
+geltenden Rechtslage einen Urlaubsanspruch von 30 Tagen haben, bleibt
+dieser Urlaubsanspruch bestehen.
+
+(2) Abweichend von § 5 Absatz 1 beträgt der Urlaubsanspruch für die
+Urlaubsjahre 2011 und 2012 für die Beamtinnen und Beamten 30 Tage.
+
+(3) Abweichend von § 7 Satz 2 wird der auf Grund von Absatz 1 für das
+Urlaubsjahr 2011 zu gewährende zusätzliche Urlaub dem Erholungsurlaub
+für das Urlaubsjahr 2012 hinzugefügt.
 

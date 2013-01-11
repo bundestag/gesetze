@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21. 3.2002 I 1181;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.3.2009 I 550
+:   Art. 1 G v. 5.12.2012 I 2466
 
 
 ## § 1

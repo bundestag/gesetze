@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1995, 946
 
 Zuletzt geändert durch
-:   Art. 32 G v. 13. 7.2001 I 1542
+:   Art. 6 G v. 5.12.2012 I 2474
 
 
 ## § 1 Anwendungsbereich
