@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 469 (1975 I 1916)(1976 I 507)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2010 I 2300
+:   Art. 1 G v. 20.12.2012 I 2756
 
 
 ## Übersicht
@@ -1236,6 +1236,19 @@ anzuwenden; die Vollstreckungsbehörde übersendet die Akten
 unverzüglich an die Staatsanwaltschaft des zuständigen Gerichtes, die
 diese umgehend dem Gericht zur Entscheidung übergibt. Mit der
 Entlassung aus dem Vollzug tritt Führungsaufsicht ein.
+
+(4) § 1 des Therapieunterbringungsgesetzes vom 22. Dezember 2010
+(BGBl. I S. 2300, 2305) ist unter den dortigen sonstigen
+Voraussetzungen auch dann anzuwenden, wenn der Betroffene noch nicht
+in Sicherungsverwahrung untergebracht, gegen ihn aber bereits
+Sicherungsverwahrung im ersten Rechtszug angeordnet war und aufgrund
+einer vor dem 4. Mai 2011 ergangenen Revisionsentscheidung
+festgestellt wurde, dass die Sicherungsverwahrung ausschließlich
+deshalb nicht rechtskräftig angeordnet werden konnte, weil ein zu
+berücksichtigendes Verbot rückwirkender Verschärfungen im Recht der
+Sicherungsverwahrung dem entgegenstand, ohne dass es dabei auf den
+Grad der Gefährlichkeit des Betroffenen für die Allgemeinheit
+angekommen wäre.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
