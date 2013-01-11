@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.10.2001 I 2722;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.12.2008 I 2486
+:   Art. 1 V v. 11.12.2012 I 2654
 
 
 ## Teil 1 - Anwendungsbereich
@@ -269,12 +269,10 @@ Annuitätsdarlehen aus Mitteln öffentlicher Haushalte.
 
 (2) Sind die in Absatz 1 bezeichneten Fremdmittel durch andere
 Fremdmittel ersetzt worden, so sind in der Wohngeld-Lastenberechnung
-die anderen Mittel an Stelle der ersetzten Mittel höchstens mit dem
-Betrag auszuweisen, der bis zur Ersetzung noch nicht getilgt war, im
-Fall der Ablösung im Sinne der Ablösungsverordnung jedoch nur mit dem
-Ablösungsbetrag. Eine Ersetzung liegt nicht vor, wenn
-Dauerfinanzierungsmittel an die Stelle von
-Zwischenfinanzierungsmitteln treten.
+die anderen Fremdmittel an Stelle der ersetzten Fremdmittel höchstens
+mit dem Betrag auszuweisen, der bis zur Ersetzung noch nicht getilgt
+war. Eine Ersetzung liegt nicht vor, wenn Dauerfinanzierungsmittel an
+die Stelle von Zwischenfinanzierungsmitteln treten.
 
 (3) Ist für die in den Absätzen 1 und 2 bezeichneten Fremdmittel
 Kapitaldienst nicht, noch nicht oder nicht mehr zu leisten, sind sie
@@ -396,6 +394,247 @@ genannten Betrag überlassen, ist das Entgelt in voller Höhe
 abzusetzen.
 
 (4) (weggefallen)
+
+
+## Teil 4 - Verfahren und Kosten des automatisierten Datenabgleichs
+
+
+
+### § 16 Anwendungsbereich
+
+Die §§ 17 bis 22 gelten für den automatisierten Datenabgleich nach §
+33 Absatz 5 in Verbindung mit Absatz 2 des Wohngeldgesetzes zwischen
+der Wohngeldbehörde, der sonst nach Landesrecht für den Datenabgleich
+zuständigen oder von der Landesregierung durch Rechtsverordnung oder
+auf sonstige Weise für den Datenabgleich bestimmten Stelle (zentrale
+Landesstelle) und der Datenstelle der Träger der Rentenversicherung
+(Datenstelle), dem Bundeszentralamt für Steuern, der Deutschen Post AG
+sowie der Deutschen Rentenversicherung Knappschaft-Bahn-See.
+Rechtsverordnungen der Landesregierungen, die über die Regelungen der
+§§ 16 bis 22 hinausgehen, bleiben unberührt.
+
+
+### § 17 Abgleichszeitraum und Übermittlungsverfahren
+
+(1) Der automatisierte Datenabgleich nach § 33 Absatz 5 in Verbindung
+mit Absatz 2 Satz 1 des Wohngeldgesetzes wird vierteljährlich für das
+ihm jeweils vorangegangene Kalendervierteljahr (Abgleichszeitraum)
+durchgeführt. Abweichend von Satz 1 werden in den Datenabgleich nach §
+18 Absatz 2 im vierten Kalendervierteljahr alle zu berücksichtigenden
+Haushaltsmitglieder einbezogen, die innerhalb der dem Abgleich
+vorangegangenen zwölf Kalendermonate bei der Berechnung des Wohngeldes
+berücksichtigt wurden.
+
+(2) Die Wohngeldbehörde übermittelt der Datenstelle nach § 33 Absatz 5
+in Verbindung mit Absatz 2 Satz 1 Nummer 1, 2, 6 und 7 des
+Wohngeldgesetzes zwischen dem ersten und dem 15. des auf den
+Abgleichszeitraum folgenden Monats für jedes im Abgleichszeitraum bei
+der Berechnung des Wohngeldes berücksichtigte Haushaltsmitglied einen
+Anfragedatensatz. Der Anfragedatensatz enthält die Wohngeldnummer und
+die in § 33 Absatz 3 Satz 1 Nummer 1 bis 3, 5 und 6 des
+Wohngeldgesetzes genannten Daten. Er wird über die zentrale
+Landesstelle übermittelt, wenn diese für die Erfassung und
+Weiterübermittlung der Daten an die Datenstelle zuständig ist.
+
+(3) Die Datenstelle übermittelt die Anfragedatensätze bis zum Ende des
+auf den Abgleichszeitraum folgenden Monats an
+
+1.  das Bundeszentralamt für Steuern,
+
+
+2.  die Deutsche Post AG und
+
+
+3.  die Deutsche Rentenversicherung Knappschaft-Bahn-See.
+
+
+
+Im Fall des Satzes 1 Nummer 1 werden vor der Übermittlung der
+Anfragedatensätze die Angaben zum Geschlecht und Geburtsort entfernt.
+Im Fall des Satzes 1 Nummer 2 und 3 werden die Anfragedatensätze, wenn
+möglich, um die Versicherungsnummer ergänzt. Die in Satz 1 genannten
+Stellen übermitteln die Antwortdatensätze bis zum 15. des zweiten auf
+den Abgleichszeitraum folgenden Monats an die Datenstelle.
+
+(4) Die Datenstelle übermittelt der Wohngeldbehörde, im Fall des
+Absatzes 2 Satz 3 über die zentrale Landesstelle, die
+Antwortdatensätze aus dem automatisierten Datenabgleich nach § 18
+Absatz 1 und die Antwortdatensätze nach Absatz 3 Satz 4 bis zum Ende
+des zweiten auf den Abgleichszeitraum folgenden Monats. Im Fall des
+Absatzes 2 Satz 3 erfolgt die Übermittlung über die zentrale
+Landesstelle, die in diesem Fall die Antwortdatensätze ordnend
+aufbereiten darf.
+
+
+### § 18 Einzelheiten des automatisierten Datenabgleichs
+
+(1) Die Datenstelle gleicht die ihr nach § 17 Absatz 2 übermittelten
+Daten ab mit den bei ihr gespeicherten Daten nach
+
+1.  § 52 Absatz 1 und 2 des Zweiten Buches Sozialgesetzbuch zur Prüfung,
+    ob und für welche Zeiträume im Abgleichszeitraum Leistungen nach dem
+    Zweiten Buch Sozialgesetzbuch empfangen wurden,
+
+
+2.  § 118 Absatz 2 des Zwölften Buches Sozialgesetzbuch zur Prüfung, ob
+    und für welche Zeiträume im Abgleichszeitraum Leistungen der
+    Grundsicherung im Alter und bei Erwerbsminderung nach dem Zwölften
+    Buch Sozialgesetzbuch empfangen wurden,
+
+
+3.  § 150 des Sechsten Buches Sozialgesetzbuch zur Feststellung der
+    Versicherungsnummer,
+
+
+4.  § 28p Absatz 8 Satz 3 des Vierten Buches Sozialgesetzbuch zur Prüfung
+    des Bestehens einer versicherungspflichtigen oder einer geringfügigen
+    Beschäftigung unter Angabe des jeweiligen
+    Arbeitgebers                    und des Beschäftigungszeitraums.
+
+
+
+
+(2) Das Bundeszentralamt für Steuern gleicht die ihm nach § 17 Absatz
+3 Satz 1 Nummer 1 übermittelten Daten mit den Daten ab, die bei ihm
+nach § 45d Absatz 1 und § 45e des Einkommensteuergesetzes in
+Verbindung mit § 9 Absatz 3 der Zinsinformationsverordnung gespeichert
+sind. Dieser automatisierte Datenabgleich dient der Feststellung
+
+1.  der Höhe von Kapitalerträgen, für die ein Freistellungsauftrag erteilt
+    worden ist,
+
+
+2.  von Namen und Anschrift des Empfängers oder der Empfängerin des
+    Freistellungsauftrags sowie
+
+
+3.  der Höhe von Zinszahlungen, die dem Bundeszentralamt für Steuern von
+    den zuständigen Behörden der anderen Mitgliedstaaten der Europäischen
+    Union mitgeteilt worden sind.
+
+
+
+
+(3) Die Deutsche Post AG und die Deutsche Rentenversicherung
+Knappschaft-Bahn-See gleichen die ihnen nach § 17 Absatz 3 Satz 1
+Nummer 2 und 3 übermittelten Daten mit den Daten ab, die bei ihnen im
+Rahmen der §§ 119 und 148 des Sechsten Buches Sozialgesetzbuch sowie
+des § 99 des Siebten Buches Sozialgesetzbuch gespeichert sind. Dieser
+automatisierte Datenabgleich dient der Feststellung der Höhe und des
+Leistungszeitraums von
+
+1.  laufenden Leistungen und
+
+
+2.  Einmalzahlungen
+
+
+
+aus der gesetzlichen Renten- und Unfallversicherung.
+
+
+### § 19 Anforderungen an die Datenübermittlung und Datenspeicherung
+
+(1) Bei der Datenübermittlung und Datenspeicherung sind alle
+erforderlichen und angemessenen technischen und organisatorischen
+Maßnahmen zu treffen, um die Verfügbarkeit, Integrität und
+Vertraulichkeit der Daten sowie die Authentizität von Absender und
+Empfänger der übermittelten Daten entsprechend dem jeweiligen Stand
+der Technik sicherzustellen. Im Fall der Nutzung allgemein
+zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden, die dem
+jeweiligen Stand der Technik entsprechen. Die einschlägigen Standards
+für eine sichere Datenübermittlung durch die Datenstelle sind im
+Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik festzulegen.
+
+(2) Werden Mängel festgestellt, die eine ordnungsgemäße Übernahme der
+Daten beeinträchtigen, kann die Übernahme ganz oder teilweise
+abgelehnt werden. Die übermittelnde Stelle ist über die festgestellten
+Mängel unter Beachtung der Verfahrensgrundsätze (§ 21) zu
+unterrichten. Sie soll die abgelehnten Datensätze unverzüglich
+berichtigen und für den ursprünglichen Abgleichszeitraum erneut
+übermitteln.
+
+(3) Das Bundeszentralamt für Steuern, die Deutsche Post AG und die
+Deutsche Rentenversicherung Knappschaft-Bahn-See haben den Eingang der
+Anfragedatensätze, die ihnen von der Datenstelle übermittelt werden,
+zu überwachen und die eingegangenen Anfragedatensätze auf
+Vollständigkeit zu überprüfen. Sie haben der Datenstelle unverzüglich
+den Eingang zu bestätigen und das Ergebnis der Prüfung auf
+Vollständigkeit mitzuteilen. Satz 1 gilt entsprechend für die
+Datenstelle hinsichtlich der ihr vom Bundeszentralamt für Steuern, von
+der Deutschen Post AG und der Deutschen Rentenversicherung
+Knappschaft-Bahn-See übermittelten Antwortdatensätze.
+
+(4) Das Bundeszentralamt für Steuern, die Deutsche Post AG, die
+Deutsche Rentenversicherung Knappschaft-Bahn-See und die Datenstelle
+haben die ihnen übermittelten Daten unverzüglich nach Abschluss des
+automatisierten Datenabgleichs zu löschen. Im Fall des § 17 Absatz 2
+Satz 3 darf die zentrale Landesstelle die Antwortdatensätze nach
+Abschluss eines automatisierten Datenabgleichs bis zum Abschluss des
+nächsten automatisierten Datenabgleichs speichern, um in beiden
+automatisierten Datenabgleichen identische Antwortdatensätze zu
+identifizieren.
+
+
+### § 20 Weiterverwendung der Antwortdatensätze
+
+Die von der Datenstelle oder der zentralen Landesstelle an die
+Wohngeldbehörde übermittelten Antwortdatensätze dürfen in das
+Wohngeldfachverfahren übernommen werden und sind durch die
+Wohngeldbehörde zu überprüfen. Führt die Überprüfung nicht zu
+abweichenden Feststellungen, sind diese Antwortdatensätze unverzüglich
+manuell zu löschen. Führt die Überprüfung zu abweichenden
+Feststellungen, dürfen diese Antwortdatensätze zur Weiterverwendung im
+Wohngeldfachverfahren gespeichert werden, um eine mögliche
+rechtswidrige Inanspruchnahme von Wohngeld zu klären und überzahlte
+Beträge zurückzufordern. In diesem Fall erfolgt eine maschinelle
+Löschung der Daten erst bei Löschung der Akte im Wohngeldverfahren.
+
+
+### § 21 Verfahrensgrundsätze
+
+Die technischen Einzelheiten des automatisierten
+Datenabgleichsverfahrens nach § 16, insbesondere des Aufbaus, der
+Übermittlung sowie der Prüfung und Berichtigung der Datensätze, sind
+von der Datenstelle, dem Bundeszentralamt für Steuern, der Deutschen
+Post AG, der Deutschen Rentenversicherung Knappschaft-Bahn-See und den
+für die Durchführung des Wohngeldgesetzes zuständigen obersten
+Landesbehörden in einheitlichen Verfahrensgrundsätzen einvernehmlich
+festzulegen. Der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit ist vor Festlegung der Verfahrensgrundsätze zu
+hören. Die Verfahrensgrundsätze sind von der Datenstelle auf der
+Internetseite der Deutschen Rentenversicherung zu veröffentlichen.
+
+
+### § 22 Kosten
+
+(1) Die Länder haben der Datenstelle die notwendigen Kosten für die
+Durchführung und Vermittlung des automatisierten Datenabgleichs nach §
+16 zu erstatten. Diese Kostenerstattung richtet sich in den Fällen des
+§ 17 Absatz 2 Satz 3 nach den Absätzen 2 und 3.
+
+(2) Für die Länder, die vor dem 1. Januar 2013 einen automatisierten
+Datenabgleich unter Vermittlung der Datenstelle durchführen und
+weiterhin daran teilnehmen, legt die Datenstelle die für das Jahr 2013
+zu erstattenden Kosten auf der Grundlage der tatsächlich entstandenen
+Kosten einheitlich neu fest, wobei jedoch die zu erstattenden Kosten
+höchstens 3 800 Euro je Land betragen. Die festgelegten Kosten erhöhen
+sich für jedes weitere Kalenderjahr der Teilnahme am automatisierten
+Datenabgleich pauschal um 3 Prozent. Die Datenstelle teilt den für die
+Durchführung des Wohngeldgesetzes zuständigen obersten Landesbehörden
+die zu erstattenden Kosten mit; die Erstattung ist jeweils am 1. April
+für das laufende Kalenderjahr fällig und berechtigt zur viermaligen
+Teilnahme am automatisierten Datenabgleich.
+
+(3) Die übrigen Länder haben für das erste Kalenderjahr der Teilnahme
+eines Landes am automatisierten Datenabgleich pauschal einmalige
+Kosten in Höhe von 2 700 Euro zuzüglich 950 Euro je
+Kalendervierteljahr der Teilnahme zu erstatten. Die Erstattung ist am
+31\. Januar des folgenden Kalenderjahres fällig. Für jedes weitere
+Kalenderjahr der Teilnahme am automatisierten Datenabgleich sind die
+Kosten nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 2 zu
+erstatten; Absatz 2 Satz 3 gilt entsprechend.
 
 
 ### Anlage Anlage (zu § 1 Abs. 3)
