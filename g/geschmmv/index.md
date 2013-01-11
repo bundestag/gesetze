@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 884
 
 Zuletzt geändert durch
-:   Art. 2 V v. 6.12.2010 I 1763
+:   Art. 2 V v. 10.12.2012 I 2630
 
 
 ## Eingangsformel
@@ -158,13 +158,14 @@ der Sammelanmeldung zusammengefassten Muster.
     vertretungsberechtigten Gesellschafters anzugeben;
 
 
-3.  die Anschrift des Anmelders (Straße, Hausnummer, Postleitzahl, Ort).
+3.  die Anschrift des Wohnsitzes oder Sitzes des Anmelders (Straße,
+    Hausnummer, Postleitzahl, Ort).
 
 
 
 
-(2) In der Anmeldung können eine von der Anschrift des Anmelders
-abweichende Postanschrift, eine Postfachanschrift sowie
+(2) In der Anmeldung können zusätzlich eine von der Anschrift des
+Anmelders abweichende Postanschrift, eine Postfachanschrift sowie
 Telefonnummern, Telefaxnummern und sonstige Anschlüsse zur
 elektronischen Datenübermittlung angegeben werden.
 
@@ -265,11 +266,11 @@ die in Absatz 1 Satz 2 festgelegten Größenbeschränkungen.
 ### § 8 Angabe der Erzeugnisse, Klassifizierung, Warenliste
 
 (1) Die Angabe der Erzeugnisse, in die das Geschmacksmuster
-aufgenommen oder bei denen es verwendet werden soll, und die
-Klassifizierung richten sich nach der in der Anlage 1 zu dieser
-Verordnung enthaltenen Einteilung der Klassen und Unterklassen und der
-in der Anlage 2 zu dieser Verordnung enthaltenen Warenliste. Das
-Deutsche Patent- und Markenamt bestimmt die in das
+aufgenommen oder bei denen es verwendet werden soll (Erzeugnisangabe),
+und die Klassifizierung richten sich nach der vom Deutschen Patent-
+und Markenamt im Bundesanzeiger bekannt gemachten jeweils gültigen
+Fassung der Einteilung der Klassen und Unterklassen und der
+Warenliste. Das Deutsche Patent- und Markenamt bestimmt die in das
 Geschmacksmusterregister einzutragenden und bekannt zu machenden
 Warenklassen und Unterklassen.
 
@@ -389,24 +390,27 @@ Geschmacksmusterregister eingetragen:
 1.  das Aktenzeichen der Anmeldung,
 
 
-2.  der Name und der Wohnort oder Sitz des Anmelders, bei ausländischen
+2.  die Wiedergabe des Geschmacksmusters,
+
+
+3.  der Name und der Wohnsitz oder Sitz des Anmelders, bei ausländischen
     Orten auch der Staat (§ 5 Abs. 1 und 4),
 
 
-3.  die Zustellungsanschrift mit einer Angabe zum Zustellungsempfänger,
+4.  die Zustellungsanschrift mit einer Angabe zum Zustellungsempfänger,
 
 
-4.  der Anmeldetag (§ 13 Abs. 1 und § 16 Abs. 5 Satz 2 des
+5.  der Anmeldetag (§ 13 Abs. 1 und § 16 Abs. 5 Satz 2 des
     Geschmacksmustergesetzes),
 
 
-5.  der Tag der Eintragung,
+6.  der Tag der Eintragung,
 
 
-6.  die Erzeugnisse (§ 8) und
+7.  die Erzeugnisse (§ 8) und
 
 
-7.  die Warenklassen (§ 19 Abs. 2 des Geschmacksmustergesetzes), bestehend
+8.  die Warenklassen (§ 19 Abs. 2 des Geschmacksmustergesetzes), bestehend
     aus der Angabe der Klassen und Unterklassen.
 
 
@@ -420,7 +424,7 @@ Geschmacksmusterregister eingetragen:
 2.  der Name und die Anschrift des Entwerfers (§ 5 Abs. 6),
 
 
-3.  der Name und der Wohnort des benannten vertretungsberechtigten
+3.  der Name und der Wohnsitz des benannten vertretungsberechtigten
     Gesellschafters einer Gesellschaft bürgerlichen Rechts (§ 5 Abs. 1 Nr.
     2),
 
@@ -436,44 +440,41 @@ Geschmacksmusterregister eingetragen:
     Abs. 2 Nr. 2 Buchstabe a),
 
 
-6.  (weggefallen)
+6.  die Beschreibung (§ 11 Abs. 4 Nr. 1 des Geschmacksmustergesetzes),
 
 
-7.  die Beschreibung (§ 11 Abs. 4 Nr. 1 des Geschmacksmustergesetzes),
-
-
-8.  der Antrag auf Aufschiebung der Bekanntmachung der Wiedergabe (§ 21
+7.  der Antrag auf Aufschiebung der Bekanntmachung der Wiedergabe (§ 21
     Abs. 1 Satz 1 des Geschmacksmustergesetzes),
 
 
-9.  ein Hinweis auf die Ersetzung der Wiedergabe durch einen
+8.  ein Hinweis auf die Ersetzung der Wiedergabe durch einen
     flächenmäßigen Musterabschnitt (§ 11 Abs. 2 Satz 2 des
     Geschmacksmustergesetzes),
 
 
-10. Zeit, Land und Aktenzeichen der früheren Anmeldung desselben Musters
+9.  Zeit, Land und Aktenzeichen der früheren Anmeldung desselben Musters
     bei Inanspruchnahme einer Priorität nach § 14 des
     Geschmacksmustergesetzes,
 
 
-11. der Tag der erstmaligen Zurschaustellung und Bezeichnung der
+10. der Tag der erstmaligen Zurschaustellung und Bezeichnung der
     Ausstellung bei Inanspruchnahme einer Ausstellungspriorität nach § 15
     des Geschmacksmustergesetzes,
 
 
-12. die unverbindliche Erklärung über das Interesse an der Vergabe von
+11. die unverbindliche Erklärung über das Interesse an der Vergabe von
     Lizenzen,
 
 
-13. dingliche Rechte (§ 30 Abs. 1 Nr. 1, § 32 des
+12. dingliche Rechte (§ 30 Abs. 1 Nr. 1, § 32 des
     Geschmacksmustergesetzes),
 
 
-14. Maßnahmen der Zwangsvollstreckung (§ 30 Abs. 1 Nr. 2, § 32 des
+13. Maßnahmen der Zwangsvollstreckung (§ 30 Abs. 1 Nr. 2, § 32 des
     Geschmacksmustergesetzes) und
 
 
-15. ein Insolvenzverfahren (§ 30 Abs. 3, § 32 des
+14. ein Insolvenzverfahren (§ 30 Abs. 3, § 32 des
     Geschmacksmustergesetzes).
 
 
@@ -484,61 +485,26 @@ eingetragen, der zum Zeitpunkt der Eintragung des Geschmacksmusters
 Inhaber des durch die Anmeldung begründeten Rechts ist.
 
 (4) Ist die Aufschiebung der Bekanntmachung der Wiedergabe nach § 21
-Abs. 1 Satz 1 des Geschmacksmustergesetzes beantragt worden, so
+Absatz 1 Satz 1 des Geschmacksmustergesetzes beantragt worden, so
 beschränkt sich die Eintragung der Anmeldung auf die Angaben nach
-Absatz 1 Nr. 1 bis 5, nach Absatz 2 Nummer 1, 3, 8, 12 bis 15 sowie
-den Prioritätstag nach Absatz 2 Nummer 10 und 11. Wird der Schutz auf
-die Schutzdauer nach § 27 Abs. 2 des Geschmacksmustergesetzes
+Absatz 1 Nummer 1, 3 bis 6, nach Absatz 2 Nummer 1, 3, 7, 11 bis 14
+sowie den Prioritätstag nach Absatz 2 Nummer 9 und 10. Wird der Schutz
+auf die Schutzdauer nach § 27 Abs. 2 des Geschmacksmustergesetzes
 erstreckt (§ 21 Abs. 2 Satz 1 des Geschmacksmustergesetzes), so werden
 die übrigen Angaben eingetragen.
 
 (5) Auf die Eintragung von typografischen Schriftzeichen finden Absatz
-1 Nr. 6 und 7 und Absatz 2 Nr. 9 keine Anwendung.
+1 Nummer 7 und 8 und Absatz 2 Nummer 8 keine Anwendung.
 
 
 ### § 14 Bekanntmachung
 
-Das Deutsche Patent- und Markenamt veröffentlicht:
-
-1.  regelmäßig erscheinende Übersichten über die in das
-    Geschmacksmusterregister nach § 13 eingetragenen Tatsachen,
-
-
-2.  die Wiedergabe der Geschmacksmuster, soweit deren Bekanntmachung nicht
-    nach § 21 Abs. 1 Satz 2 des Geschmacksmustergesetzes unterbleibt. Bei
-    Sammeleintragungen werden die Darstellungen mit den fortlaufenden
-    Nummern bekannt gemacht.
+Das Deutsche Patent- und Markenamt veröffentlicht regelmäßig
+erscheinende Übersichten über die in das Geschmacksmusterregister nach
+§ 13 eingetragenen Tatsachen.
 
 
-
-
-
-### § 15 Eintragungsurkunde
-
-Die Eintragungsurkunde nach § 25 der DPMA-Verordnung enthält folgende
-Angaben:
-
-1.  das Aktenzeichen,
-
-
-2.  die Anzahl der Geschmacksmuster,
-
-
-3.  Angaben zum Rechtsinhaber,
-
-
-4.  den Anmeldetag,
-
-
-5.  den Eintragungstag,
-
-
-6.  Angaben zur Klassifikation und
-
-
-7.  die Erzeugnisse.
-
-
+### § 15 (weggefallen)
 
 
 
@@ -561,8 +527,7 @@ weitergeführt.
 
 ### § 17 Angaben bei Erstreckung und Aufrechterhaltung
 
-(1) Bei der Zahlung der Erstreckungsgebühr und der
-Bekanntmachungskosten sind anzugeben:
+(1) Bei der Zahlung der Erstreckungsgebühr sind anzugeben:
 
 1.  das Aktenzeichen der Eintragung,
 
@@ -696,8 +661,8 @@ Geschmacksmusterregister eingetragen:
     Geschmacksmustergesetzes),
 
 
-3.  Änderungen der in § 13 Abs. 1 Nr. 2 und Abs. 2 Nr. 1 aufgeführten
-    Angaben,
+3.  Änderungen der in § 13 Absatz 1 Nummer 3 und Absatz 2 Nummer 1
+    aufgeführten Angaben,
 
 
 4.  ein Antrag auf Wiedereinsetzung in den vorigen Stand (§ 23 Abs. 1 Satz
@@ -793,16 +758,4 @@ geltenden Fassung.
 (1) Die Verordnung tritt am 1. Juni 2004 in Kraft.
 
 (2) § 23 tritt am 1. Januar 2005 außer Kraft.
-
-
-### Anlage 1 (zu § 8 Abs. 1 Satz 1) Einteilung der Klassen und Unterklassen
-
-(Fundstelle: Anlageband zum BGBl. I 2009, Nr. 19, S. 765 vom 15. April
-2009, S. 2 - 13)
-
-
-### Anlage 2 (zu § 8 Abs. 1 Satz 1) Warenliste
-
-(Fundstelle: Anlageband zum BGBl. I 2009, Nr. 19, S. 765 vom 15. April
-2009, S. 14 - 91)
 
