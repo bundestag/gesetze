@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 13.5.2011 I 850 (2094);
 
 Zuletzt geändert durch
-:   Art. 1a G v. 22.12.2011 I 3057
+:   Art. 1 G v. 20.12.2012 I 2781
 
 
 ## Kapitel 1 - Fördern und Fordern
@@ -1640,7 +1640,7 @@ Arbeitgeber zugewiesen werden, wenn
 
 
 
-(4) Die Bundesagentur soll die erwerbsfähige leistungsberechtigte
+(4) Die Agentur für Arbeit soll die erwerbsfähige leistungsberechtigte
 Person umgehend abberufen, wenn sie diese in eine zumutbare Arbeit
 oder Ausbildung vermitteln kann oder die Förderung aus anderen Gründen
 beendet wird. Die erwerbsfähige leistungsberechtigte Person kann das
@@ -3752,7 +3752,7 @@ Absatz 1 Satz 4 auf die Agenturen für Arbeit zu verteilen sind. Bei
 der Zuweisung wird die Zahl der erwerbsfähigen Leistungsberechtigten
 nach diesem Buch zugrunde gelegt. Für Leistungen nach den §§ 16e und
 16f kann die Agentur für Arbeit insgesamt bis zu 20 Prozent der auf
-sie entfallenen Eingliederungsmittel einsetzen. Das Bundesministerium
+sie entfallenden Eingliederungsmittel einsetzen. Das Bundesministerium
 für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium
 der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates
 andere oder ergänzende Maßstäbe für die Verteilung der Mittel nach
