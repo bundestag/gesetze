@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1528
 
 Zuletzt geändert durch
-:   Art. 6 V v. 9.6.2011 I 1041
+:   Art. 7 Abs. 3 G v. 20.12.2012 I 2751
 
 
 ## Eingangsformel
@@ -97,8 +97,8 @@ Geschäftsjahres aufzustellen. Für die Aufstellung und den Inhalt des
 Jahresabschlusses gelten § 242, § 243 Abs. 1 und 2, die §§ 244 bis
 256a, § 264 Abs. 2, § 265 Abs. 2, 5 und 8, § 268 Abs. 3, die §§ 272,
 274, 275 Absatz 4, § 277 Abs. 3 Satz 1 und Abs. 4, § 284 Abs. 2 Nr. 1
-und 3 des Handelsgesetzbuchs sowie Artikel 24 Abs. 5 Satz 2 und
-Artikel 28, 42 bis 44 des Einführungsgesetzes zum Handelsgesetzbuch.
+und 3 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des
+Einführungsgesetzes zum Handelsgesetzbuch.
 
 (2) Soweit ein Träger mehrere Pflegeeinrichtungen betreibt, die keine
 Vollkaufleute im Sinne des Handelsgesetzbuchs sind, kann er diese in

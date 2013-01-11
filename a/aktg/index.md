@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1089
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 49 G v. 22.12.2011 I 3044
+:   Art. 3 G v. 20.12.2012 I 2751
 
 
 ## Eingangsformel
@@ -4690,6 +4690,11 @@ oder im Anhang jeweils gesondert anzugeben
 
 
 
+(4) Die Absätze 1 bis 3 sind nicht anzuwenden auf
+Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
+267a des Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach
+§ 266 Absatz 1 Satz 4 des Handelsgesetzbuchs Gebrauch machen.
+
 
 ##### (XXXX) §§ 43 und 44
 
@@ -4755,6 +4760,11 @@ Ausgleich für außenstehende Gesellschafter abzusetzen; übersteigt
 dieser den Ertrag, so ist der übersteigende Betrag unter den
 Aufwendungen aus Verlustübernahme auszuweisen. Andere Beträge dürfen
 nicht abgesetzt werden.
+
+(3) Die Absätze 1 und 2 sind nicht anzuwenden auf
+Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
+267a des Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach
+§ 275 Absatz 5 des Handelsgesetzbuchs Gebrauch machen.
 
 
 ##### § 159
@@ -4829,6 +4839,11 @@ nicht abgesetzt werden.
 (2) Die Berichterstattung hat insoweit zu unterbleiben, als es für das
 Wohl der Bundesrepublik Deutschland oder eines ihrer Länder
 erforderlich ist.
+
+(3) Absatz 1 ist nicht anzuwenden auf Aktiengesellschaften, die
+Kleinstkapitalgesellschaften im Sinne des § 267a des
+Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach § 264
+Absatz 1 Satz 5 des Handelsgesetzbuchs Gebrauch machen.
 
 
 ##### § 161 Erklärung zum Corporate Governance Kodex

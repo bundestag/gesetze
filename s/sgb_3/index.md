@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 2 G v. 23.10.2012 I 2246
+:   Art. 2 G v. 20.12.2012 I 2781
 
 
 
@@ -1072,7 +1072,8 @@ begründen, die
     Buches zugeordneten Angehörigen, der Leistungen aus der sozialen
     Pflegeversicherung nach dem Elften Buch oder Hilfe zur Pflege nach dem
     Zwölften Buch oder gleichartige Leistungen nach anderen Vorschriften
-    bezieht, wenigstens 14 Stunden wöchentlich pflegen,
+    bezieht, wenigstens 14 Stunden wöchentlich pflegen; bei Pflege
+    mehrerer Angehöriger sind die Zeiten der Pflege zusammenzurechnen,
 
 
 2.  eine selbständige Tätigkeit mit einem Umfang von mindestens 15 Stunden
@@ -1405,13 +1406,13 @@ sollen angemessen berücksichtigt werden.
 ist eine Ausfertigung der Eingliederungsvereinbarung auszuhändigen.
 Die Eingliederungsvereinbarung ist sich ändernden Verhältnissen
 anzupassen; sie ist fortzuschreiben, wenn in dem Zeitraum, für den sie
-zunächst galt, die Ausbildungsstellensuche oder Arbeitsuche nicht
-beendet wurde. Sie ist spätestens nach sechsmonatiger
-Arbeitslosigkeit, bei arbeitslosen und ausbildungsuchenden jungen
-Menschen spätestens nach drei Monaten, zu überprüfen. Kommt eine
-Eingliederungsvereinbarung nicht zustande, sollen die nach Absatz 2
-Satz 1 Nummer 3 erforderlichen Eigenbemühungen durch Verwaltungsakt
-festgesetzt werden.
+zunächst galt, die Ausbildungssuche oder Arbeitsuche nicht beendet
+wurde. Sie ist spätestens nach sechsmonatiger Arbeitslosigkeit, bei
+arbeitslosen und ausbildungsuchenden jungen Menschen spätestens nach
+drei Monaten, zu überprüfen. Kommt eine Eingliederungsvereinbarung
+nicht zustande, sollen die nach Absatz 2 Satz 1 Nummer 3
+erforderlichen Eigenbemühungen durch Verwaltungsakt festgesetzt
+werden.
 
 
 ##### § 37a
@@ -1844,10 +1845,7 @@ Agentur für Arbeit kann sich auch mit bis zu 50 Prozent an der
 Förderung von Maßnahmen beteiligen, die von Dritten eingerichtet
 werden.
 
-(2) Die Maßnahmen können bis zu vier Wochen dauern und sollen
-regelmäßig in der unterrichtsfreien Zeit durchgeführt werden.
-
-(3) Die besonderen Bedürfnisse von Schülerinnen und Schülern mit
+(2) Die besonderen Bedürfnisse von Schülerinnen und Schülern mit
 sonderpädagogischem Förderbedarf und von schwerbehinderten
 Schülerinnen und Schülern sollen bei der Ausgestaltung der Maßnahmen
 berücksichtigt werden.
@@ -3970,8 +3968,8 @@ vermeiden und ihre Vermittlungsaussichten zu verbessern, haben diese
 Anspruch auf Kurzarbeitergeld zur Förderung der Eingliederung bei
 betrieblichen Restrukturierungen (Transferkurzarbeitergeld), wenn
 
-1.  und solange sie von einem dauerhaften unvermeidbaren Arbeitsausfall
-    mit Entgeltausfall betroffen sind,
+1.  und solange sie von einem dauerhaften nicht vermeidbaren
+    Arbeitsausfall mit Entgeltausfall betroffen sind,
 
 
 2.  die betrieblichen Voraussetzungen erfüllt sind,
@@ -4577,11 +4575,8 @@ Teilhabe am Arbeitsleben geltenden Regelungen zu bestimmen.
 
 
 
-#### § 130 Erweiterte Berufsorientierung
+#### § 130 (weggefallen)
 
-Abweichend von § 48 Absatz 2 können bis zum 31. Dezember 2013
-Berufsorientierungsmaßnahmen über einen Zeitraum von vier Wochen
-hinaus und außerhalb der unterrichtsfreien Zeit durchgeführt werden.
 
 
 #### § 131 Eingliederungszuschuss für ältere Arbeitnehmerinnen und Arbeitnehmer
@@ -4664,7 +4659,7 @@ Eingliederungstitel enthaltenen Mittel einsetzen, um innovative
 Ansätze der aktiven Arbeitsförderung zu erproben. Die einzelnen
 Projekte dürfen den Höchstbetrag von 2 Millionen Euro jährlich und
 eine Dauer von 24 Monaten nicht übersteigen. Die Regelung gilt für
-Förderungen, die bis zum 31. Dezember 2013 begonnen haben.
+Förderungen, die bis zum 31. Dezember 2016 begonnen haben.
 
 (2) Die Umsetzung und die Wirkung der Projekte sind zu beobachten und
 auszuwerten. Über die Ergebnisse der Projekte ist dem Verwaltungsrat
@@ -5275,7 +5270,7 @@ Das Arbeitslosengeld beträgt
 1.  für Arbeitslose, die mindestens ein Kind im Sinne des § 32 Absatz 1, 3
     bis 5 des Einkommensteuergesetzes haben, sowie für Arbeitslose, deren
     Ehegattin, Ehegatte, Lebenspartnerin oder Lebenspartner mindestens ein
-    Kind im Sinne des § 32 Absatz 1, 4 und 5 des Einkommensteuergesetzes
+    Kind im Sinne des § 32 Absatz 1, 3 bis 5 des Einkommensteuergesetzes
     hat, wenn beide Ehegatten oder Lebenspartner unbeschränkt
     einkommensteuerpflichtig sind und nicht dauernd getrennt leben, 67
     Prozent (erhöhter Leistungssatz),
@@ -5779,7 +5774,7 @@ Versicherungswidriges Verhalten liegt vor, wenn
 
 1.  die oder der Arbeitslose das Beschäftigungsverhältnis gelöst oder
     durch ein arbeitsvertragswidriges Verhalten Anlass für die Lösung des
-    Beschäftigungsverhältnisses gegeben oder dadurch vorsätzlich oder grob
+    Beschäftigungsverhältnisses gegeben und dadurch vorsätzlich oder grob
     fahrlässig die Arbeitslosigkeit herbeigeführt hat (Sperrzeit bei
     Arbeitsaufgabe),
 
@@ -6443,8 +6438,9 @@ nach den §§ 179 und 180.
 
 (1) Fachkundige Stellen im Sinne des § 176 sind die von der
 Akkreditierungsstelle für die Zulassung nach dem Recht der
-Arbeitsförderung akkreditierten Zertifizierungsstellen. Die
-Bundesagentur übt im Anwendungsbereich dieses Gesetzes die
+Arbeitsförderung akkreditierten Zertifizierungsstellen. Mit der
+Akkreditierung als fachkundige Stelle ist keine Beleihung verbunden.
+Die Bundesagentur übt im Anwendungsbereich dieses Gesetzes die
 Fachaufsicht über die Akkreditierungsstelle aus.
 
 (2) Eine Zertifizierungsstelle ist von der Akkreditierungsstelle als
@@ -8243,14 +8239,14 @@ mit Wirkung für die Vergangenheit zurückzunehmen.
 #### § 331 Vorläufige Zahlungseinstellung
 
 (1) Die Agentur für Arbeit kann die Zahlung einer laufenden Leistung
-ohne Erteilung eines Bescheides vorläufig einstellen, wenn es Kenntnis
-von Tatsachen erhält, die kraft Gesetzes zum Ruhen oder zum Wegfall
-des Anspruchs führen und wenn der Bescheid, aus dem sich der Anspruch
-ergibt, deshalb mit Wirkung für die Vergangenheit aufzuheben ist.
-Soweit die Kenntnis nicht auf Angaben desjenigen beruht, der die
-laufende Leistung erhält, sind ihm unverzüglich die vorläufige
+ohne Erteilung eines Bescheides vorläufig einstellen, wenn sie
+Kenntnis von Tatsachen erhält, die kraft Gesetzes zum Ruhen oder zum
+Wegfall des Anspruchs führen und wenn der Bescheid, aus dem sich der
+Anspruch ergibt, deshalb mit Wirkung für die Vergangenheit aufzuheben
+ist. Soweit die Kenntnis nicht auf Angaben der Person beruht, die die
+laufende Leistung erhält, sind ihr unverzüglich die vorläufige
 Einstellung der Leistung sowie die dafür maßgeblichen Gründe
-mitzuteilen, und es ist ihm Gelegenheit zu geben, sich zu äußern.
+mitzuteilen, und es ist ihr Gelegenheit zu geben, sich zu äußern.
 
 (2) Die Agentur für Arbeit hat eine vorläufig eingestellte laufende
 Leistung unverzüglich nachzuzahlen, soweit der Bescheid, aus dem sich
@@ -8874,7 +8870,7 @@ Die Beiträge werden getragen
 
 
     c)  eine Leistung, die nach einem monatlichen Arbeitsentgelt bemessen
-        wird, das 400 Euro nicht übersteigt,
+        wird, das 450 Euro nicht übersteigt,
 
 
 
@@ -9259,13 +9255,7 @@ Säumniszuschläge arbeitstäglich an die Bundesagentur weiter.
 
 ##### § 360 Umlagesatz
 
-Der Umlagesatz ist so zu bemessen, dass das Aufkommen aus der Umlage
-zusammen mit den sonstigen Einnahmen unter Berücksichtigung der
-voraussichtlichen Entwicklung der Insolvenzereignisse ausreicht, um
-die voraussichtlichen Aufwendungen in dem auf die Festsetzung
-folgenden Kalenderjahr zu decken. Fehlbestände und Überschüsse sind
-bei der Festsetzung des Umlagesatzes für das folgende Kalenderjahr
-einzubeziehen.
+Der Umlagesatz beträgt 0,15 Prozent.
 
 
 ##### § 361 Verordnungsermächtigung
@@ -9273,23 +9263,27 @@ einzubeziehen.
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.  den Umlagesatz nach § 360 für jedes Kalenderjahr festzusetzen,
+1.  im Einvernehmen mit dem Bundesministerium der Finanzen und dem
+    Bundesministerium für Wirtschaft und Technologie zum Ausgleich von
+    Überschüssen oder Fehlbeständen unter Berücksichtigung der
+    Beschäftigungs- und Wirtschaftslage zu bestimmen, dass die Umlage
+    jeweils für ein Kalenderjahr nach einem von § 360 abweichenden
+    Umlagesatz erhoben wird; dabei soll ein niedrigerer Umlagesatz
+    angesetzt werden, wenn die Rücklage die durchschnittlichen jährlichen
+    Aufwendungen der vorhergehenden fünf Kalenderjahre übersteigt, und ein
+    höherer, wenn der Fehlbestand mehr als die durchschnittlichen
+    jährlichen Aufwendungen der vorhergehenden fünf Kalenderjahre beträgt,
 
 
 2.  die Höhe der Pauschale für die Kosten des Einzugs der Umlage und der
     Prüfung der Arbeitgeber nach Anhörung der Bundesagentur, der Deutschen
     Rentenversicherung Bund, des Spitzenverbandes Bund der Krankenkassen
-    und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
+    und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
     sowie der Deutschen Rentenversicherung Knappschaft-Bahn-See
     festzusetzen.
 
 
 
-Es kann durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Befugnis nach Satz 1 Nr. 1 auf den Vorstand der Bundesagentur
-übertragen. Rechtsverordnungen, die aufgrund von Satz 2 vom Vorstand
-der Bundesagentur erlassen werden, bedürfen des Einvernehmens mit dem
-Bundesministerium für Arbeit und Soziales.
 
 
 ##### § 362 (weggefallen)
@@ -9302,24 +9296,12 @@ Bundesministerium für Arbeit und Soziales.
 
 #### § 363 Finanzierung aus Bundesmitteln
 
-(1) Der Bund beteiligt sich an den Kosten der Arbeitsförderung. Er
-zahlt an die Bundesagentur für das Jahr 2012 7,238 Milliarden Euro.
-Für die Kalenderjahre ab 2013 verändert sich der Beitrag des Bundes
-jährlich entsprechend der Veränderungsrate der Steuern vom Umsatz;
-hierbei bleiben Änderungen der Steuersätze im Jahr ihres
-Wirksamwerdens unberücksichtigt. Die Beteiligung ist jährlich fällig
-am drittletzten Bankarbeitstag des Monats Dezember. Abweichend von
-Satz 4 kann das Bundesministerium für Arbeit und Soziales im
-Einvernehmen mit dem Bundesministerium der Finanzen die Beteiligung
-vorziehen, soweit dies zur Vermeidung von Liquiditätshilfen nach § 364
-Absatz 1 erforderlich ist.
-
-(2) Der Bund trägt die Ausgaben für die Aufgaben, deren Durchführung
+(1) Der Bund trägt die Ausgaben für die Aufgaben, deren Durchführung
 die Bundesregierung auf Grund dieses Buches der Bundesagentur
 übertragen hat. Verwaltungskosten der Bundesagentur werden nicht
 erstattet.
 
-(3) Der Bund trägt die Ausgaben für die weiteren Aufgaben, die er der
+(2) Der Bund trägt die Ausgaben für die weiteren Aufgaben, die er der
 Bundesagentur durch Gesetz übertragen hat. Hierfür werden der
 Bundesagentur die Verwaltungskosten erstattet, soweit in dem
 jeweiligen Gesetz nichts Abweichendes bestimmt ist.
@@ -9353,7 +9335,12 @@ gestundet.
 (1) Die Bundesagentur hat aus den Überschüssen der Einnahmen über die
 Ausgaben eine Rücklage zu bilden.
 
-(2) Die Rücklage ist nach wirtschaftlichen Grundsätzen so anzulegen,
+(2) Soweit in einem Haushaltsjahr die Einnahmen aus einer Umlage die
+aus dieser zu zahlenden Ausgaben übersteigen, sind die Überschüsse der
+Einnahmen über die Ausgaben jeweils einer gesonderten Rücklage
+zuzuführen.
+
+(3) Die Rücklage ist nach wirtschaftlichen Grundsätzen so anzulegen,
 daß bis zur vollen Höhe der Rücklage die jederzeitige
 Zahlungsfähigkeit der Bundesagentur gewährleistet ist. Die
 Bundesagentur kann mit Zustimmung des Bundesministeriums für Arbeit
@@ -10369,17 +10356,55 @@ entsprechenden Maßnahmen gegen Arbeitgeber nicht mitwirken.
 
 #### § 397 Automatisierter Datenabgleich
 
-(1) Die Bundesagentur darf Angaben zu Personen, die Leistungen nach
-diesem Buch beantragt haben, beziehen oder innerhalb der letzten neun
-Monate bezogen haben, regelmäßig automatisiert mit den von der
-Datenstelle der Träger der Rentenversicherung nach § 36 Abs. 3 der
-Datenerfassungs- und Übermittlungsverordnung übermittelten Daten nach
-§ 28a Abs. 3 Satz 1 Nr. 1 bis 3, 5, 6 und 8, Satz 2 Nr. 1 Buchstabe b
-und Nr. 2 Buchstabe c sowie Abs. 8 Nr. 1, 2, 4 Buchstabe a und d des
-Vierten Buches, jeweils auch in Verbindung mit § 28a Abs. 9 des
-Vierten Buches, abgleichen, soweit dies für die Entscheidung über die
-Erbringung oder die Erstattung von Leistungen nach diesem Buch
-erforderlich ist.
+(1) Soweit für die Erbringung oder die Erstattung von Leistungen nach
+diesem Buch erforderlich, darf die Bundesagentur Angaben zu Personen,
+die Leistungen nach diesem Buch beantragt haben, beziehen oder
+innerhalb der letzten neun Monate bezogen haben, regelmäßig
+automatisiert mit den folgenden nach § 36 Absatz 3 der
+Datenerfassungs- und Übermittlungsverordnung von der Datenstelle der
+Träger der Rentenversicherung übermittelten Daten abgleichen:
+
+1.  Versicherungsnummer (§ 28a Absatz 3 Satz 1 Nummer 1 des Vierten
+    Buches),
+
+
+2.  Betriebsnummer des Arbeitgebers (§ 28a Absatz 3 Satz 1 Nummer 6 des
+    Vierten Buches),
+
+
+3.  zuständige Einzugsstelle (§ 28a Absatz 3 Satz 1 Nummer 8 des Vierten
+    Buches),
+
+
+4.  Beschäftigungsbeginn (§ 28a Absatz 3 Satz 2 Nummer 1 Buchstabe b des
+    Vierten Buches),
+
+
+5.  Beschäftigungszeitraum (§ 28a Absatz 3 Satz 2 Nummer 2 Buchstabe d des
+    Vierten Buches),
+
+
+6.  Personengruppenschlüssel, Beitragsgruppenschlüssel und Abgabegründe
+    für die Meldungen (§ 28b Absatz 2 Satz 1 Nummer 1 des Vierten Buches),
+
+
+7.  Stornokennzeichen (§ 14 Absatz 1 der Datenerfassungs- und
+    Übermittlungsverordnung).
+
+
+
+Satz 1 gilt auch für geringfügig Beschäftigte. Bei Beschäftigten, für
+die Meldungen im Rahmen des Haushaltsscheckverfahrens (§ 28a Absatz 7
+des Vierten Buches) erstattet werden, dürfen die nach § 28a Absatz 8
+Nummer 1, 2 und 4 Buchstabe a und d des Vierten Buches übermittelten
+Daten abgeglichen werden. Die abzugleichenden Daten dürfen von der
+Bundesagentur, bezogen auf einzelne Beschäftigungsverhältnisse,
+zusammengeführt werden. Dabei können die nach § 36 Absatz 3 der
+Datenerfassungs- und Übermittlungsverordnung übermittelten Daten,
+insbesondere auch das in der Rentenversicherung oder nach dem Recht
+der Arbeitsförderung beitragspflichtige Arbeitsentgelt in Euro (§ 28a
+Absatz 3 Satz 2 Nummer 2 Buchstabe b des Vierten Buches) genutzt
+werden.
 
 (2) Nach Durchführung des Abgleichs hat die Bundesagentur die Daten,
 die für die in Absatz 1 genannten Zwecke nicht erforderlich sind,
@@ -11384,4 +11409,25 @@ werden soll. § 387 Absatz 3 Satz 2 bleibt unberührt.
 anzuwenden auf Maßnahmen, über die die Bundesagentur vor dem 31. März
 2012 Verträge mit Trägern geschlossen hat, bis zum Ende der
 Vertragslaufzeit; § 422 Absatz 1 Nummer 3 gilt insoweit nicht.
+
+
+#### § 444 Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+(1) Personen, die am 31. Dezember 2012 in einer mehr als geringfügigen
+Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit §
+8 Absatz 1 Nummer 1 des Vierten Buches versicherungspflichtig waren,
+die die Merkmale einer geringfügigen Beschäftigung nach diesen
+Vorschriften in der ab dem 1. Januar 2013 geltenden Fassung erfüllt,
+bleiben in dieser Beschäftigung längstens bis zum 31. Dezember 2014
+versicherungspflichtig, solange das Arbeitsentgelt 400 Euro monatlich
+übersteigt. Sie werden auf Antrag von der Versicherungspflicht
+befreit. Der Antrag ist bei der Agentur für Arbeit zu stellen. Die
+Befreiung wirkt vom 1. Januar 2013 an, wenn sie bis zum 31. März 2013
+beantragt wird, im Übrigen von dem Beginn des Kalendermonats an, der
+auf den Monat folgt, in dem der Antrag gestellt worden ist. Die
+Befreiung ist auf diese Beschäftigung beschränkt.
+
+(2) Bei Anwendung des Absatzes 1 gilt § 276b Absatz 1 des Sechsten
+Buches und bei Anwendung des § 344 Absatz 4 gilt § 276b Absatz 2 des
+Sechsten Buches entsprechend.
 

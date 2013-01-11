@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 19.10.2012 I 2182
+:   Art. 1 G v. 20.12.2012 I 2749
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -159,9 +159,8 @@ auf Grund der Wehrpflicht Wehrdienst leisten oder die nicht
 selbständig einen Wohnsitz begründen können.
 
 
-##### § 10
+##### § 10 (weggefallen)
 
-(weggefallen)
 
 
 ##### § 11 Wohnsitz des Kindes
@@ -25272,6 +25271,22 @@ ist; die Genehmigung ist unverzüglich nachzuholen.
 Die Eltern können nicht in eine Sterilisation des Kindes einwilligen.
 Auch das Kind selbst kann nicht in die Sterilisation einwilligen. §
 1909 findet keine Anwendung.
+
+
+##### § 1631d Beschneidung des männlichen Kindes
+
+(1) Die Personensorge umfasst auch das Recht, in eine medizinisch
+nicht erforderliche Beschneidung des nicht einsichts- und
+urteilsfähigen männlichen Kindes einzuwilligen, wenn diese nach den
+Regeln der ärztlichen Kunst durchgeführt werden soll. Dies gilt nicht,
+wenn durch die Beschneidung auch unter Berücksichtigung ihres Zwecks
+das Kindeswohl gefährdet wird.
+
+(2) In den ersten sechs Monaten nach der Geburt des Kindes dürfen auch
+von einer Religionsgesellschaft dazu vorgesehene Personen
+Beschneidungen gemäß Absatz 1 durchführen, wenn sie dafür besonders
+ausgebildet und, ohne Arzt zu sein, für die Durchführung der
+Beschneidung vergleichbar befähigt sind.
 
 
 ##### § 1632 Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
