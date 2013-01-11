@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.12.1998 I 3497;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 15.8.2012 I 1670
+:   Art. 4 G v. 28.11.2012 I 2369
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -102,15 +102,15 @@ Gemeinschaftsunterkunft.
 1.  an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor
     Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember
     jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag
-    fallen, 2,94 Euro je Stunde,
+    fallen, 3,11 Euro je Stunde,
 
 
 2.
     a)  an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr
-        0,69 Euro je Stunde sowie
+        0,73 Euro je Stunde sowie
 
 
-    b)  im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 1,39 Euro je
+    b)  im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 1,47 Euro je
         Stunde.
 
 
@@ -205,6 +205,9 @@ des Soldatenversorgungsgesetzes.
 
 
 6.  einer bei der Deutschen Bundesbank gezahlten Bankzulage,
+
+
+6a. einer Zulage nach § 10a des Finanzdienstleistungsaufsichtsgesetzes,
 
 
 7.  Zulagen nach Vorschriften, die gemäß Artikel IX §§ 21 und 22 des
@@ -610,7 +613,7 @@ Schwerbrandverletzte durch die Zentralstelle für die Vermittlung
 Schwerbrandverletzter in der Bundesrepublik Deutschland bei der
 Behörde für Arbeit, Gesundheit und Soziales der Freien und Hansestadt
 Hamburg vermittelt werden, ausüben, erhalten für jede volle
-Pflegestunde 1,40 Euro.
+Pflegestunde 1,48 Euro.
 
 
 ## Abschnitt 3 - Zulagen in festen Monatsbeträgen
