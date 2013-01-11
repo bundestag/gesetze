@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 776
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.10.2012 I 2182
+:   Art. 13 G v. 5.12.2012 I 2418
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

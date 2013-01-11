@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 15.11.2012 I 2298
+:   Art. 3 G v. 5.12.2012 I 2425
 
 
 ## Übersicht
@@ -13131,8 +13131,7 @@ beschlagnahmt werden.
 (3) Der Verurteilte hat, wenn der Führerschein bei ihm nicht
 vorgefunden wird, auf Antrag der Vollstreckungsbehörde bei dem
 Amtsgericht eine eidesstattliche Versicherung über den Verbleib
-abzugeben. § 883 Abs. 2 bis 4, die §§ 899, 900 Abs. 1 und 4 sowie die
-§§ 901, 902, 904 bis 910 und 913 der Zivilprozeßordnung gelten
+abzugeben. § 883 Abs. 2 und 3 der Zivilprozeßordnung gilt
 entsprechend.
 
 

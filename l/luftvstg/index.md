@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1885
 
+Geändert durch
+:   Art. 3 G v. 5.12.2012 I 2436
+
 
 ## § 1 Steuergegenstand
 
@@ -119,15 +122,24 @@ Im Sinne dieses Gesetzes ist oder sind:
 ist das Hauptzollamt.
 
 (2) Örtlich zuständige Behörde ist das Hauptzollamt, von dessen Bezirk
-aus der Unternehmer sein Luftverkehrsunternehmen betreibt. Wurde ein
-steuerlicher Beauftragter benannt, ist das Hauptzollamt örtlich
-zuständig, in dessen Bezirk der steuerliche Beauftragte seinen Sitz
-hat. Für die Erteilung einer Erlaubnis gemäß § 8 Absatz 2 ist das
-Hauptzollamt örtlich zuständig, in dessen Bezirk der Antragsteller
-seinen Sitz hat. Für Luftverkehrsunternehmen, die nicht im Inland
-betrieben werden und keinen steuerlichen Beauftragten benannt haben,
-ist bis zur Benennung des steuerlichen Beauftragten das Hauptzollamt
-örtlich zuständig, in dessen Bezirk der erste Abflug erfolgt.
+aus der Unternehmer sein Luftverkehrsunternehmen betreibt. Für
+Luftverkehrsunternehmen, die ihren Sitz in einem anderen Mitgliedstaat
+der Europäischen Union haben und keinen steuerlichen Beauftragten
+benannt haben, ist das Hauptzollamt örtlich zuständig, in dessen
+Bezirk der erste Abflug erfolgt. Wurde ein steuerlicher Beauftragter
+benannt, ist das Hauptzollamt örtlich zuständig, in dessen Bezirk der
+steuerliche Beauftragte seinen Sitz hat. Für die Erteilung einer
+Erlaubnis gemäß § 8 Absatz 2 ist das Hauptzollamt örtlich zuständig,
+in dessen Bezirk der Antragsteller seinen Sitz hat. Abweichend von
+Satz 2 verbleibt die örtliche Zuständigkeit für
+Luftverkehrsunternehmen, die ihren Sitz in einem anderen Mitgliedstaat
+der Europäischen Union haben und die Benennung eines steuerlichen
+Beauftragten aufheben, bei dem bisher örtlich zuständigen
+Hauptzollamt. Für Luftverkehrsunternehmen, die ihren Sitz nicht im
+Inland oder in einem anderen Mitgliedstaat der Europäischen Union
+haben und keinen steuerlichen Beauftragten benannt haben, ist bis zur
+Benennung des steuerlichen Beauftragten das Hauptzollamt örtlich
+zuständig, in dessen Bezirk der erste Abflug erfolgt.
 
 
 ## § 4 Entstehung der Steuer
@@ -216,13 +228,14 @@ nach § 1 durchführt. Daneben ist der steuerliche Beauftragte (§ 8)
 Steuerschuldner. Das Luftverkehrsunternehmen und der steuerliche
 Beauftragte sind Gesamtschuldner.
 
-(2) Benennt ein ausländisches Luftverkehrsunternehmen keinen
-steuerlichen Beauftragten, so haften der Eigentümer und der Halter des
-Flugzeugs oder Drehflüglers für die Steuerschuld. Abweichend von § 219
-der Abgabenordnung dürfen die Haftungsschuldner auch dann auf Zahlung
-in Anspruch genommen werden, wenn nicht zuvor in das bewegliche
-Vermögen des Steuerschuldners vollstreckt worden ist oder wenn nicht
-anzunehmen ist, dass die Vollstreckung aussichtslos sein würde.
+(2) Benennt ein Unternehmen, das keinen Sitz im Inland oder in einem
+anderen Mitgliedstaat der Europäischen Union hat, keinen steuerlichen
+Beauftragten, so haften der Eigentümer und der Halter des Flugzeugs
+oder Drehflüglers für die Steuerschuld. Abweichend von § 219 der
+Abgabenordnung dürfen die Haftungsschuldner auch dann auf Zahlung in
+Anspruch genommen werden, wenn nicht zuvor in das bewegliche Vermögen
+des Steuerschuldners vollstreckt worden ist oder wenn nicht anzunehmen
+ist, dass die Vollstreckung aussichtslos sein würde.
 
 
 ## § 7 Registrierung
@@ -285,11 +298,12 @@ Dem Antrag sind beizufügen:
 
 
 
-Luftverkehrsunternehmen, die keinen Sitz im Inland haben, haben dem
+Luftverkehrsunternehmen, die keinen Sitz im Inland oder in einem
+anderen Mitgliedstaat der Europäischen Union haben, haben dem
 Hauptzollamt im Antrag auf Registrierung zusätzlich einen nach § 8
-zugelassenen steuerlichen Beauftragten zu benennen und für diesen
-entsprechende Unterlagen vorzulegen. Andere Luftverkehrsunternehmen
-können einen steuerlichen Beauftragten nach § 8 benennen.
+zugelassenen Beauftragten zu benennen und für diesen entsprechende
+Unterlagen vorzulegen. Andere Luftverkehrsunternehmen können einen
+steuerlichen Beauftragten nach § 8 benennen.
 
 (3) Das Luftverkehrsunternehmen hat auf Verlangen des Hauptzollamts
 weitere Angaben zu machen, wenn diese zur Sicherung des
@@ -387,7 +401,7 @@ und der Anzahl der beförderten Fluggäste.
     *   in einem Land der Anlage 1
         zu diesem Gesetz
 
-    *   8,00 Euro
+    *   7,50 Euro
 
 
 *    *   2.
@@ -395,19 +409,19 @@ und der Anzahl der beförderten Fluggäste.
     *   in einem Land der Anlage 2
         zu diesem Gesetz
 
-    *   25,00 Euro
+    *   23,43 Euro
 
 
 *    *   3.
 
     *   in anderen Ländern
 
-    *   45,00 Euro.
+    *   42,18 Euro.
 
 
 
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im
+(2) Das Bundesministerium der Finanzen wird ab 2013 ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit, dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung und dem Bundesministerium für Wirtschaft und
@@ -419,11 +433,8 @@ Vorjahres aus der Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten zu einer Milliarde Euro. Die
 Einnahmen aus der Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten werden auf Basis der Einnahmen des
-jeweils ersten Halbjahres des Vorjahres geschätzt. Abweichend von Satz
-3 werden für das Jahr 2012 die Einnahmen aus der Einbeziehung des
-Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten auf
-Basis der voraussichtlichen Einnahmen des Jahres 2012 geschätzt. Der
-abgesenkte Steuersatz wird auf volle Cent gerundet.
+jeweils ersten Halbjahres des Vorjahres geschätzt. Der abgesenkte
+Steuersatz wird auf volle Cent gerundet.
 
 
 ## § 12 Steueranmeldung, Fälligkeit

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 15.12.2011 I 2714
+:   Art. 1 G v. 5.12.2012 I 2415
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -57,7 +57,7 @@ Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum aus im
 Geltungsbereich dieses Gesetzes vorübergehend selbständig gewerbsmäßig
 tätig, sind § 34b Absatz 1, 3, 4, 6 und 7, § 34c Absatz 1 Satz 1
-Nummer 1 und 4 sowie § 38 Absatz 1 und 2 insoweit nicht anzuwenden.
+Nummer 1 und 3 sowie § 38 Absatz 1 und 2 insoweit nicht anzuwenden.
 Die §§ 14, 55 Absatz 2 und 3, die §§ 55c, 56a und 57 Absatz 3 sind in
 diesen Fällen ebenfalls nicht anzuwenden, es sei denn, es werden
 gewerbsmäßige Tätigkeiten ausgeübt, die auf Grund des Artikels 2
@@ -120,8 +120,8 @@ Arbeitnehmer Anwendung.
 ### § 6a Entscheidungsfrist, Genehmigungsfiktion
 
 (1) Hat die Behörde über einen Antrag auf Erlaubnis zur Ausübung eines
-Gewerbes nach § 34b Absatz 1, 3, 4, § 34c Absatz 1 Satz 1 Nummer 1 und
-4 oder § 55 Absatz 2 nicht innerhalb einer Frist von drei Monaten
+Gewerbes nach § 34b Absatz 1, 3, 4, 34c Absatz 1 Satz 1 Nummer 1 und 3
+oder § 55 Absatz 2 nicht innerhalb einer Frist von drei Monaten
 entschieden, gilt die Erlaubnis als erteilt.
 
 (2) Absatz 1 gilt auch für Verfahren nach § 33a Absatz 1 und § 69
@@ -310,7 +310,7 @@ Amtsgeheimnissen, die nicht auf gesetzlicher Vorschrift beruhen,
 bleibt unberührt.
 
 (3) Die Einholung von Auskünften nach § 150a, den §§ 31 und 41 des
-Bundeszentralregistergesetzes und § 915 der Zivilprozeßordnung bleibt
+Bundeszentralregistergesetzes und § 882b der Zivilprozeßordnung bleibt
 unberührt.
 
 (4) Die nach den Absätzen 1 und 3 erhobenen Daten dürfen nur für
@@ -340,9 +340,9 @@ Datenschutzgesetze der Länder.
 
 (1) Jede Industrie- und Handelskammer (Registerbehörde) führt ein
 Register der nach § 34d Abs. 7, auch in Verbindung mit § 34e Abs. 2,
-Eintragungspflichtigen. Die örtliche Zuständigkeit richtet sich nach
-dem Landesrecht. Zweck des Registers ist es insbesondere, der
-Allgemeinheit, vor allem Versicherungsnehmern und
+und § 34f Absatz 5 Eintragungspflichtigen. Die örtliche Zuständigkeit
+richtet sich nach dem Landesrecht. Zweck des Registers ist es
+insbesondere, der Allgemeinheit, vor allem Anlegern und
 Versicherungsunternehmen, die Überprüfung der Zulassung sowie des
 Umfangs der zugelassenen Tätigkeit der Eintragungspflichtigen zu
 ermöglichen. Die Registerbehörden bedienen sich bei der Führung des
@@ -367,10 +367,18 @@ einem täglich aktualisierten Verzeichnis gespeichert. Zugang zu diesem
 Verzeichnis erhalten nur Versicherungsunternehmen. Die Angaben werden
 einen Monat nach der Speicherung in diesem Verzeichnis gelöscht.
 
-(4) Beabsichtigt ein Eintragungspflichtiger, in einem anderen
-Mitgliedstaat der Europäischen Union oder in einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-tätig zu werden, hat er dies zuvor der Registerbehörde mitzuteilen.
+(3a) Die für die Erlaubniserteilung nach § 34f Absatz 1 zuständige
+Behörde teilt der Registerbehörde unverzüglich die für die Eintragung
+nach § 34f Absatz 5 erforderlichen Angaben sowie die Aufhebung der
+Erlaubnis nach § 34f Absatz 1 mit. Bei Erhalt der Mitteilung über die
+Aufhebung der Erlaubnis nach § 34f Absatz 1 hat die Registerbehörde
+unverzüglich die zu dem Betroffenen gespeicherten Daten zu löschen.
+
+(4) Beabsichtigt ein nach § 34d Absatz 7, auch in Verbindung mit § 34e
+Absatz 2, Eintragungspflichtiger, in einem anderen Mitgliedstaat der
+Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum tätig zu werden, hat er dies
+zuvor der Registerbehörde mitzuteilen.
 
 (5) Das Bundesministerium für Wirtschaft und Technologie kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften erlassen
@@ -438,30 +446,31 @@ Technologie, das sich dabei der gemeinsamen Stelle bedient.
 
 (7) Die Registerbehörde, die Bundesanstalt für
 Finanzdienstleistungsaufsicht und die für die Erlaubniserteilung nach
-§ 34d Abs. 1 Satz 1 und § 34e Abs. 1 Satz 1, für die Untersagung nach
-§ 35, die Entgegennahme der Gewerbeanzeige nach § 14 oder die
-Verfolgung von Ordnungswidrigkeiten nach dem Gesetz über
-Ordnungswidrigkeiten zuständigen Behörden dürfen einander auch ohne
-Ersuchen Informationen einschließlich personenbezogener Daten
+§ 34d Abs. 1 Satz 1, § 34e Abs. 1 Satz 1 und § 34f Absatz 1 Satz 1,
+für die Untersagung nach § 35, die Entgegennahme der Gewerbeanzeige
+nach § 14 oder die Verfolgung von Ordnungswidrigkeiten nach dem Gesetz
+über Ordnungswidrigkeiten zuständigen Behörden dürfen einander auch
+ohne Ersuchen Informationen einschließlich personenbezogener Daten
 übermitteln, soweit dies zur Erfüllung ihrer jeweiligen mit der
-Tätigkeit von Versicherungsvermittlern und Versicherungsberatern
-zusammenhängenden Aufgaben erforderlich ist. Die in Satz 1 genannten
-Stellen stellen der Europäischen Aufsichtsbehörde für das
-Versicherungswesen und die betriebliche Altersversorgung nach Maßgabe
-des Artikels 35 der Verordnung (EU) Nr. 1094/2010 des Europäischen
-Parlaments und des Rates vom 24. November 2010 zur Errichtung einer
-Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das
-Versicherungswesen und die betriebliche Altersversorgung), zur
-Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des
-Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S.
-48) auf Verlangen alle Informationen zur Verfügung, die zur Erfüllung
-von deren Aufgaben auf Grund der Verordnung (EU) Nr. 1094/2010
-erforderlich sind.
+Tätigkeit von Versicherungsvermittlern und Versicherungsberatern sowie
+Finanzanlagenvermittlern zusammenhängenden Aufgaben erforderlich ist.
+Die in Satz 1 genannten Stellen stellen der Europäischen
+Aufsichtsbehörde für das Versicherungswesen und die betriebliche
+Altersversorgung nach Maßgabe des Artikels 35 der Verordnung (EU) Nr.
+1094/2010 des Europäischen Parlaments und des Rates vom 24. November
+2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische
+Aufsichtsbehörde für das Versicherungswesen und die betriebliche
+Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und
+zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331
+vom 15.12.2010, S. 48) auf Verlangen alle Informationen zur Verfügung,
+die zur Erfüllung von deren Aufgaben auf Grund der Verordnung (EU) Nr.
+1094/2010 erforderlich sind.
 
 (8) Alle Personen, die im Rahmen des für Versicherungsvermittler und
-Versicherungsberater geltenden Registrierungsverfahrens oder der
-Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit als
-Versicherungsvermittler oder Versicherungsberater zur Entgegennahme
+Versicherungsberater sowie Finanzanlagenvermittler geltenden
+Registrierungsverfahrens oder der Überprüfung der Einhaltung der
+Voraussetzungen für die Tätigkeit als Versicherungsvermittler oder
+Versicherungsberater sowie Finanzanlagenvermittler zur Entgegennahme
 oder Erteilung von Informationen verpflichtet sind, unterliegen dem
 Berufsgeheimnis. § 84 des Versicherungsaufsichtsgesetzes gilt
 entsprechend.
@@ -533,7 +542,11 @@ Insolvenzverfahrens, während der Zeit, in der Sicherungsmaßnahmen nach
 § 21 der Insolvenzordnung angeordnet sind, und während der Überwachung
 der Erfüllung eines Insolvenzplans (§ 260 der Insolvenzordnung) keine
 Anwendung in bezug auf das Gewerbe, das zur Zeit des Antrags auf
-Eröffnung des Insolvenzverfahrens ausgeübt wurde.
+Eröffnung des Insolvenzverfahrens ausgeübt wurde. Dies gilt nicht für
+eine nach § 35 Absatz 2 Satz 1 der Insolvenzordnung freigegebene
+selbstständige Tätigkeit des Gewerbetreibenden, wenn dessen
+Unzuverlässigkeit mit Tatsachen begründet wird, die nach der Freigabe
+eingetreten sind.
 
 
 ### § 13 Erprobungsklausel
@@ -685,8 +698,8 @@ eine zusätzliche Sicherheit verlangt werden, die die nicht gedeckten
 Risiken absichert.
 
 (3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 33c, 33d,
-34, 34a, 34c Absatz 1 Satz 1 Nummer 1a bis 3, den §§ 34d, 34e oder
-nach § 60a ausgeübt werden.
+34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34e, 34f oder nach
+§ 60a ausgeübt werden.
 
 
 ### § 13c Anerkennung von ausländischen Befähigungsnachweisen
@@ -958,7 +971,11 @@ regelmäßig übermitteln an
 
 9.  die statistischen Ämter der Länder zur Führung des Statistikregisters
     nach § 1 Abs. 1 Satz 1 des Statistikregistergesetzes in den Fällen des
-    Absatzes 1 Satz 2 Nr. 1 und 2.
+    Absatzes 1 Satz 2 Nr. 1 und 2,
+
+
+10. die für die Lebensmittelüberwachung zuständigen Behörden der Länder
+    zur Durchführung lebensmittelrechtlicher Vorschriften.
 
 
 
@@ -1113,7 +1130,7 @@ deren Rechtsfähigkeit im Inland nicht anerkannt wird.
 (1) Gewerbetreibende oder sonstige Personen,
 
 1.  die einer Erlaubnis nach den §§ 30, 33a, 33c, 33d, 33i, 34, 34a, 34b,
-    34c, 34d oder 34e bedürfen,
+    34c, 34d, 34e oder 34f bedürfen,
 
 
 2.  die nach § 34b Abs. 5 oder § 36 öffentlich bestellt sind,
@@ -1333,7 +1350,7 @@ Die Erlaubnis ist zu widerrufen, wenn
 
 (5) Die Erlaubnis kann widerrufen werden, wenn bei der Veranstaltung
 des Spieles eine der in der Erlaubnis enthaltenen Auflagen nicht
-beachtet oder gegen § 8 des Jugendschutzgesetzes verstoßen worden ist.
+beachtet oder gegen § 6 des Jugendschutzgesetzes verstoßen worden ist.
 
 
 ##### § 33e Bauartzulassung und Unbedenklichkeitsbescheinigung
@@ -1360,12 +1377,13 @@ insbesondere dann vor, wenn
 
 
 
-(2) Die Zulassung und die Unbedenklichkeitsbescheinigung sind
-zurückzunehmen oder zu widerrufen, wenn Tatsachen bekannt werden, die
-ihre Versagung rechtfertigen würden, oder wenn der Antragsteller
-zugelassene Spielgeräte an den in dem Zulassungsschein bezeichneten
-Merkmalen verändert oder ein für unbedenklich erklärtes Spiel unter
-nicht genehmigten Bedingungen veranstaltet.
+(2) Die Zulassung ist ganz oder teilweise, die
+Unbedenklichkeitsbescheinigung ist ganz zurückzunehmen oder zu
+widerrufen, wenn Tatsachen bekannt werden, die ihre Versagung
+rechtfertigen würden, oder wenn der Antragsteller zugelassene
+Spielgeräte an den in dem Zulassungsschein bezeichneten Merkmalen
+verändert oder ein für unbedenklich erklärtes Spiel unter nicht
+genehmigten Bedingungen veranstaltet.
 
 (3) Die Zulassung und die Unbedenklichkeitsbescheinigung können mit
 einer Befristung erteilt und mit Auflagen verbunden werden.
@@ -1380,11 +1398,12 @@ wird.
 ##### § 33f Ermächtigung zum Erlaß von Durchführungsvorschriften
 
 (1) Das Bundesministerium für Wirtschaft und Technologie kann zur
-Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit den
-Bundesministerien des Innern und für Familie, Senioren, Frauen und
-Jugend und mit Zustimmung des Bundesrates durch Rechtsverordnung zur
-Eindämmung der Betätigung des Spieltriebs, zum Schutze der
-Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
+Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit dem
+Bundesministerium des Innern, dem Bundesministerium für Gesundheit und
+dem Bundesministerium für Familie, Senioren, Frauen und Jugend und mit
+Zustimmung des Bundesrates durch Rechtsverordnung zur Eindämmung der
+Betätigung des Spieltriebs, zum Schutze der Allgemeinheit und der
+Spieler sowie im Interesse des Jugendschutzes
 
 1.  die Aufstellung von Spielgeräten oder die Veranstaltung von Spielen
     auf bestimmte Gewerbezweige, Betriebe oder Veranstaltungen beschränken
@@ -1397,12 +1416,12 @@ Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
 
 
 3.  für die Zulassung oder die Erteilung der
-    Unbedenklichkeitsbescheinigung bestimmte Anforderungen an
+    Unbedenklichkeitsbescheinigung bestimmte Anforderungen stellen an
 
-    a)  die Art und Weise des Spielvorganges,
+    a)  die Art und Weise des Spielvorgangs,
 
 
-    b)  die Art des Gewinnes,
+    b)  die Art des Gewinns,
 
 
     c)  den Höchsteinsatz und den Höchstgewinn,
@@ -1416,27 +1435,36 @@ Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
         von Spielen,
 
 
-    f)  die Mindestdauer eines Spieles,
+    f)  die Mindestdauer eines Spiels,
 
 
     g)  die technische Konstruktion und die Kennzeichnung der Spielgeräte,
 
 
-    h)  die Bekanntgabe der Spielregeln und des Gewinnplans sowie die
+    h)  personenungebundene Identifikationsmittel, die der Spieler einsetzen
+        muss, um den Spielbetrieb an einem Spielgerät zu ermöglichen,
+        insbesondere an deren Ausgabe, Aktivierung, Gültigkeit und
+        Sicherheitsmerkmale,
+
+
+    i)  die Bekanntgabe der Spielregeln und des Gewinnplans sowie die
         Bereithaltung des Zulassungsscheines oder des Abdruckes des
         Zulassungsscheines, des Zulassungsbeleges, der
         Unbedenklichkeitsbescheinigung oder des Abdruckes der
-        Unbedenklichkeitsbescheinigung
+        Unbedenklichkeitsbescheinigung,
 
 
 
-
-    stellen,
 
 
 4.  Vorschriften über den Umfang der Verpflichtungen des Gewerbetreibenden
     erlassen, in dessen Betrieb das Spielgerät aufgestellt oder das Spiel
-    veranstaltet werden soll.
+    veranstaltet werden soll,
+
+
+5.  die Anforderungen an den Unterrichtungsnachweis nach § 33c Absatz 2
+    Nummer 2 und das Verfahren für diesen Nachweis sowie Ausnahmen von der
+    Nachweispflicht festlegen.
 
 
 
@@ -1528,11 +1556,10 @@ Die §§ 33c bis 33g finden keine Anwendung auf
 (1) Wer gewerbsmäßig eine Spielhalle oder ein ähnliches Unternehmen
 betreiben will, das ausschließlich oder überwiegend der Aufstellung
 von Spielgeräten oder der Veranstaltung anderer Spiele im Sinne des §
-33c Abs. 1 Satz 1 oder des § 33d Abs. 1 Satz 1 oder der gewerbsmäßigen
-Aufstellung von Unterhaltungsspielen ohne Gewinnmöglichkeit dient,
-bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann mit
-einer Befristung erteilt und mit Auflagen verbunden werden, soweit
-dies zum Schutze der Allgemeinheit, der Gäste oder der Bewohner des
+33c Abs. 1 Satz 1 oder des § 33d Abs. 1 Satz 1 dient, bedarf der
+Erlaubnis der zuständigen Behörde. Die Erlaubnis kann mit einer
+Befristung erteilt und mit Auflagen verbunden werden, soweit dies zum
+Schutze der Allgemeinheit, der Gäste oder der Bewohner des
 Betriebsgrundstücks oder der Nachbargrundstücke vor Gefahren,
 erheblichen Nachteilen oder erheblichen Belästigungen erforderlich
 ist; unter denselben Voraussetzungen ist auch die nachträgliche
@@ -1768,9 +1795,8 @@ nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
 2.  der Antragsteller in ungeordneten Vermögensverhältnissen lebt; dies
     ist in der Regel der Fall, wenn über das Vermögen des Antragstellers
     das Insolvenzverfahren eröffnet worden oder er in das vom
-    Insolvenzgericht oder vom Vollstreckungsgericht zu führende
-    Verzeichnis (§ 26 Abs. 2 Insolvenzordnung, § 915 Zivilprozeßordnung)
-    eingetragen ist.
+    Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2
+    Insolvenzordnung, § 882b Zivilprozeßordnung) eingetragen ist.
 
 
 
@@ -1888,7 +1914,7 @@ Vorschriften erlassen über
 
 
 
-##### § 34c Makler, Anlageberater, Bauträger, Baubetreuer
+##### § 34c Makler, Bauträger, Baubetreuer
 
 (1) Wer gewerbsmäßig
 
@@ -1897,25 +1923,11 @@ Vorschriften erlassen über
     Gelegenheit zum Abschluss solcher Verträge nachweisen,
 
 
-1a. den Abschluss von Darlehensverträgen vermitteln oder die Gelegenheit
+2.  den Abschluss von Darlehensverträgen vermitteln oder die Gelegenheit
     zum Abschluss solcher Verträge nachweisen,
 
 
-2.  den Abschluss von Verträgen über den Erwerb von Anteilscheinen einer
-    Kapitalanlagegesellschaft oder Investmentaktiengesellschaft, von
-    ausländischen Investmentanteilen, die im Geltungsbereich des
-    Investmentgesetzes öffentlich vertrieben werden dürfen, von sonstigen
-    öffentlich angebotenen Vermögensanlagen, die für gemeinsame Rechnung
-    der Anleger verwaltet werden, oder von öffentlich angebotenen Anteilen
-    an einer und von verbrieften Forderungen gegen eine
-    Kapitalgesellschaft oder Kommanditgesellschaft vermitteln,
-
-
-3.  Anlageberatung im Sinne der Bereichsausnahme des § 2 Abs. 6 Satz 1 Nr.
-    8 des Kreditwesengesetzes betreiben,
-
-
-4.  Bauvorhaben
+3.  Bauvorhaben
 
     a)  als Bauherr im eigenen Namen für eigene oder fremde Rechnung
         vorbereiten oder durchführen und dazu Vermögenswerte von Erwerbern,
@@ -1953,9 +1965,8 @@ unter denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 2.  der Antragsteller in ungeordneten Vermögensverhältnissen lebt; dies
     ist in der Regel der Fall, wenn über das Vermögen des Antragstellers
     das Insolvenzverfahren eröffnet worden oder er in das vom
-    Insolvenzgericht oder vom Vollstreckungsgericht zu führende
-    Verzeichnis (§ 26 Abs. 2 Insolvenzordnung, § 915 Zivilprozeßordnung)
-    eingetragen ist.
+    Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2
+    Insolvenzordnung, § 882b Zivilprozeßordnung) eingetragen ist.
 
 
 
@@ -2012,47 +2023,26 @@ dem Prüfer und dem Gewerbetreibenden, geregelt werden.
 
 (5) Die Absätze 1 bis 3 gelten nicht für
 
-1.  Betreuungsunternehmen im Sinne des § 37 Abs. 2 des Zweiten
-    Wohnungsbaugesetzes oder des § 22c Abs. 2 des Wohnungsbaugesetzes für
-    das Saarland, solange sie diese Eigenschaft behalten,
-
-
-2.  Kreditinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des
+1.  Kreditinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des
     Kreditwesengesetzes erteilt wurde, und für Zweigstellen von
     Unternehmen im Sinne des § 53b Abs. 1 Satz 1 des Gesetzes über das
     Kreditwesen,
 
 
-2a. Kapitalanlagegesellschaften, für die eine Erlaubnis nach § 7 Abs. 1
-    des Investmentgesetzes erteilt wurde, und Zweigniederlassungen von
-    Unternehmen im Sinne des § 13 Abs. 1 Satz 1 des Investmentgesetzes,
-
-
-3.  Finanzdienstleistungsinstitute in bezug auf Vermittlungstätigkeiten
-    oder Anlageberatung, für die ihnen eine Erlaubnis nach § 32 Abs. 1 des
-    Kreditwesengesetzes erteilt wurde oder nach § 64e Abs. 2 oder § 64i
-    Abs. 1 des Gesetzes über das Kreditwesen als erteilt gilt,
-
-
-3a. Gewerbetreibende im Sinne des Absatzes 1 Satz 1 Nr. 2 oder Nr. 3 in
-    bezug auf Vermittlungstätigkeiten oder Anlageberatung nach Maßgabe des
-    § 2 Abs. 10 Satz 1 des Kreditwesengesetzes,
-
-
-4.  Gewerbetreibende, die lediglich zur Finanzierung der von ihnen
+2.  Gewerbetreibende, die lediglich zur Finanzierung der von ihnen
     abgeschlossenen Warenverkäufe oder zu erbringenden Dienstleistungen
     den Abschluß von Verträgen über Darlehen vermitteln oder die
     Gelegenheit zum Abschluß solcher Verträge nachweisen,
 
 
-5.  Zweigstellen von Unternehmen mit Sitz in einem anderen Mitgliedstaat
+3.  Zweigstellen von Unternehmen mit Sitz in einem anderen Mitgliedstaat
     der Europäischen Union, die nach § 53b Abs. 7 des Kreditwesengesetzes
     Darlehen zwischen Kreditinstituten vermitteln dürfen, soweit sich ihre
     Tätigkeit nach Absatz 1 auf die Vermittlung von Darlehen zwischen
     Kreditinstituten beschränkt,
 
 
-6.  Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des § 481
+4.  Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des § 481
     des Bürgerlichen Gesetzesbuchs gemäß Absatz 1 Satz 1 Nr. 1
     nachgewiesen oder vermittelt wird.
 
@@ -2095,9 +2085,8 @@ Handelskammer der Aufsicht der obersten Landesbehörde.
 2.  der Antragsteller in ungeordneten Vermögensverhältnissen lebt; dies
     ist in der Regel der Fall, wenn über das Vermögen des Antragstellers
     das Insolvenzverfahren eröffnet worden oder er in das vom
-    Insolvenzgericht oder vom Vollstreckungsgericht zu führende
-    Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der
-    Zivilprozessordnung) eingetragen ist,
+    Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der
+    Insolvenzordnung, § 882b der Zivilprozessordnung) eingetragen ist,
 
 
 3.  der Antragsteller den Nachweis einer Berufshaftpflichtversicherung
@@ -2225,8 +2214,8 @@ Vorschriften erlassen über
 3.  Umfang und inhaltliche Anforderungen an die nach Absatz 2 Nr. 3
     erforderliche Haftpflichtversicherung, insbesondere die Höhe der
     Mindestversicherungssummen, die Bestimmung der zuständigen Stelle im
-    Sinne des § 158c Abs. 2 des Gesetzes über den Versicherungsvertrag,
-    über den Nachweis des Bestehens einer Haftpflichtversicherung und
+    Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes, über den
+    Nachweis des Bestehens einer Haftpflichtversicherung und
     Anzeigepflichten des Versicherungsunternehmens gegenüber den Behörden
     und den Versicherungsnehmern,
 
@@ -2375,6 +2364,122 @@ dem Prüfer und dem Versicherungsberater, geregelt werden. Zur
 Überwachung des Provisionsannahmeverbotes kann in der Rechtsverordnung
 bestimmt werden, dass der Versicherungsberater über die Einnahmen aus
 seiner Tätigkeit Aufzeichnungen zu führen hat.
+
+
+##### § 34f Finanzanlagenvermittler
+
+(1) Wer im Umfang der Bereichsausnahme des § 2 Absatz 6 Satz 1 Nummer
+8 des Kreditwesengesetzes gewerbsmäßig zu
+
+1.  Anteilscheinen einer Kapitalanlagegesellschaft oder
+    Investmentaktiengesellschaft oder von ausländischen
+    Investmentanteilen, die im Geltungsbereich des Investmentgesetzes
+    öffentlich vertrieben werden dürfen,
+
+
+2.  öffentlich angebotenen Anteilen an geschlossenen Fonds in Form einer
+    Kommanditgesellschaft,
+
+
+3.  sonstigen Vermögensanlagen im Sinne des § 1 Absatz 2 des
+    Vermögensanlagengesetzes
+
+
+
+Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des
+Kreditwesengesetzes erbringen oder den Abschluss von Verträgen über
+den Erwerb solcher Finanzanlagen vermitteln will
+(Finanzanlagenvermittler), bedarf der Erlaubnis der zuständigen
+Behörde. Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen
+verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der
+Anleger erforderlich ist; unter denselben Voraussetzungen sind auch
+die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen
+zulässig. Die Erlaubnis nach Satz 1 kann auf die Anlageberatung zu und
+die Vermittlung von Verträgen über den Erwerb von einzelnen Kategorien
+von Finanzanlagen nach Nummer 1, 2 oder 3 beschränkt werden.
+
+(2) Die Erlaubnis ist zu versagen, wenn
+
+1.  Tatsachen die Annahme rechtfertigen, dass der Antragsteller oder eine
+    der mit der Leitung des Betriebs oder einer Zweigniederlassung
+    beauftragten Personen die für den Gewerbebetrieb erforderliche
+    Zuverlässigkeit nicht besitzt; die erforderliche Zuverlässigkeit
+    besitzt in der Regel nicht, wer in den letzten fünf Jahren vor
+    Stellung des Antrags wegen eines Verbrechens oder wegen Diebstahls,
+    Unterschlagung, Erpressung, Betrugs, Untreue, Geldwäsche,
+    Urkundenfälschung, Hehlerei, Wuchers oder einer Insolvenzstraftat
+    rechtskräftig verurteilt worden ist,
+
+
+2.  der Antragsteller in ungeordneten Vermögensverhältnissen lebt; dies
+    ist in der Regel der Fall, wenn über das Vermögen des Antragstellers
+    das Insolvenzverfahren eröffnet worden oder er in das vom
+    Insolvenzgericht oder vom Vollstreckungsgericht zu führende
+    Verzeichnis (§ 26 Absatz 2 der Insolvenzordnung, § 882b der
+    Zivilprozessordnung) eingetragen ist,
+
+
+3.  der Antragsteller den Nachweis einer Berufshaftpflichtversicherung
+    nicht erbringen kann oder
+
+
+4.  der Antragsteller nicht durch eine vor der Industrie- und
+    Handelskammer erfolgreich abgelegte Prüfung nachweist, dass er die für
+    die Vermittlung von und Beratung über Finanzanlagen im Sinne des
+    Absatzes 1 Satz 1 notwendige Sachkunde über die fachlichen und
+    rechtlichen Grundlagen sowie über die Kundenberatung besitzt; die
+    Sachkunde ist dabei im Umfang der beantragten Erlaubnis nachzuweisen.
+
+
+
+
+(3) Keiner Erlaubnis nach Absatz 1 bedürfen
+
+1.  Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des
+    Kreditwesengesetzes erteilt wurde, und Zweigstellen von Unternehmen im
+    Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes,
+
+
+2.  Kapitalanlagegesellschaften, für die eine Erlaubnis nach § 7 Absatz 1
+    des Investmentgesetzes erteilt wurde, und Zweigniederlassungen von
+    Unternehmen im Sinne des § 13 Absatz 1 Satz 1 des Investmentgesetzes,
+
+
+3.  Finanzdienstleistungsinstitute in Bezug auf Vermittlungstätigkeiten
+    oder Anlageberatung, für die ihnen eine Erlaubnis nach § 32 Absatz 1
+    des Kreditwesengesetzes erteilt wurde oder für die eine Erlaubnis nach
+    § 64e Absatz 2, § 64i Absatz 1, § 64m oder § 64n des
+    Kreditwesengesetzes als erteilt gilt,
+
+
+4.  Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten
+    nach Maßgabe des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes.
+
+
+
+
+(4) Gewerbetreibende nach Absatz 1 dürfen direkt bei der Beratung und
+Vermittlung mitwirkende Personen nur beschäftigen, wenn sie
+sicherstellen, dass diese Personen über einen Sachkundenachweis nach
+Absatz 2 Nummer 4 verfügen und geprüft haben, ob sie zuverlässig sind.
+Die Beschäftigung einer direkt bei der Beratung und Vermittlung
+mitwirkenden Person kann dem Gewerbetreibenden untersagt werden, wenn
+Tatsachen die Annahme rechtfertigen, dass die Person die für ihre
+Tätigkeit erforderliche Sachkunde oder Zuverlässigkeit nicht besitzt.
+
+(5) Gewerbetreibende nach Absatz 1 sind verpflichtet, sich
+unverzüglich nach Aufnahme ihrer Tätigkeit über die für die
+Erlaubniserteilung zuständige Behörde entsprechend dem Umfang der
+Erlaubnis in das Register nach § 11a Absatz 1 eintragen zu lassen;
+ebenso sind Änderungen der im Register gespeicherten Angaben der
+Registerbehörde unverzüglich mitzuteilen.
+
+(6) Gewerbetreibende nach Absatz 1 haben die unmittelbar bei der
+Beratung und Vermittlung mitwirkenden Personen im Sinne des Absatzes 4
+unverzüglich nach Aufnahme ihrer Tätigkeit bei der Registerbehörde zu
+melden und eintragen zu lassen. Änderungen der im Register
+gespeicherten Angaben sind der Registerbehörde unverzüglich
+mitzuteilen.
 
 
 ##### § 34g Verordnungsermächtigung
@@ -2871,10 +2976,10 @@ Stellvertreter betrieben wird.
 
 #### § 47 Stellvertretung in besonderen Fällen
 
-Inwiefern für die nach den §§ 33i, 34, 34a, 34b, 34c und 36
-konzessionierten oder angestellten Personen eine Stellvertretung
-zulässig ist, hat in jedem einzelnen Falle die Behörde zu bestimmen,
-welcher die Konzessionierung oder Anstellung zusteht.
+Inwiefern für die nach den §§ 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f
+und 36 konzessionierten oder angestellten Personen eine
+Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde
+zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
 
 
 #### § 48 Übertragung von Realgewerbeberechtigungen
@@ -2972,7 +3077,7 @@ denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 
 3.  Tätigkeiten der in § 55 Abs. 1 Nr. 1 genannten Art in der Gemeinde
     seines Wohnsitzes oder seiner gewerblichen Niederlassung ausübt,
-    sofern die Gemeinde nicht mehr als 10.000 Einwohner zählt;
+    sofern die Gemeinde nicht mehr als 10 000 Einwohner zählt;
 
 
 4.  (weggefallen)
@@ -2994,11 +3099,14 @@ denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
     erforderliche Erlaubnis verfügt;
 
 
-8.  (weggefallen)
+8.  im Sinne des § 34f Absatz 3 Nummer 4 Finanzanlagen als
+    Finanzanlagenvermittler vermittelt und Dritte über Finanzanlagen
+    berät; das Gleiche gilt für die in dem Gewerbebetrieb beschäftigten
+    Personen;
 
 
 9.  von einer nicht ortsfesten Verkaufsstelle oder einer anderen
-    Einrichtung in  regelmäßigen, kürzeren Zeitabständen an derselben
+    Einrichtung in regelmäßigen, kürzeren Zeitabständen an derselben
     Stelle Lebensmittel oder andere Waren des täglichen Bedarfs vertreibt;
     das Verbot des § 56 Abs. 1 Nr. 3 Buchstabe b findet keine Anwendung;
 
@@ -3036,8 +3144,8 @@ Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10
 einer Reisegewerbekarte nicht bedarf, hat den Beginn des Gewerbes der
 zuständigen Behörde anzuzeigen, soweit er sein Gewerbe nicht bereits
 nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 und 3,
-Absatz 4 bis 7, 9 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach
-§ 14 Absatz 14 gelten entsprechend.
+Absatz 4 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach § 14
+Absatz 14 gelten entsprechend.
 
 
 ### § 55d
@@ -3245,9 +3353,11 @@ rechtfertigen, daß der Antragsteller die für die beabsichtigte
 Tätigkeit erforderliche Zuverlässigkeit nicht besitzt.
 
 (2) Im Falle der Ausübung des Bewachungsgewerbes, des Gewerbes der
-Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes
-sowie des Versicherungsberatergewerbes gelten die Versagungsgründe der
-§§ 34a, 34c oder 34d auch in Verbindung mit § 34e entsprechend.
+Makler, Bauträger und Baubetreuer, des
+Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes
+sowie des Gewerbes des Finanzanlagenvermittlers gelten die
+Versagungsgründe der §§ 34a, 34c, 34d, auch in Verbindung mit § 34e,
+oder 34f entsprechend.
 
 (3) Die Ausübung des Versteigerergewerbes als Reisegewerbe ist nur
 zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1
@@ -3364,13 +3474,15 @@ zuständige Behörde zustimmt.
 
 (2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes,
 des Gewerbes der Makler, Bauträger und Baubetreuer, des
-Versicherungsvermittlergewerbes sowie des Versicherungsberatergewerbes
-gelten § 34a Abs. 1 Satz 4 und Abs. 2 bis 5, § 34b Abs. 5 bis 8 und
-10, § 34c Abs. 3 und 5, § 34d Abs. 6 bis 10, § 34e Abs. 2 bis 3 sowie
-die auf Grund des § 34a Abs. 2, des § 34b Abs. 8, des § 34c Abs. 3,
-des § 34d Abs. 8 und des § 34e Abs. 3 erlassenen Rechtsvorschriften
-entsprechend. Die zuständige Behörde kann für die Versteigerung leicht
-verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
+Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes
+sowie des Gewerbes des Finanzanlagenvermittlers gelten § 34a Abs. 1
+Satz 4 und Abs. 2 bis 5, § 34b Abs. 5 bis 8 und 10, § 34c Abs. 3 und
+5, § 34d Abs. 6 bis 10, § 34e Abs. 2 bis 3, § 34f Absatz 4 bis 6 und §
+34g sowie die auf Grund des § 34a Abs. 2, des § 34b Abs. 8, des § 34c
+Abs. 3, des § 34d Abs. 8, des § 34e Abs. 3 und des § 34g erlassenen
+Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die
+Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen
+zulassen.
 
 
 ### (XXXX) §§ 62 und 63 (weggefallen)
@@ -3416,8 +3528,8 @@ vertreibt.
 begrenzte Veranstaltung, auf der eine Vielzahl von Anbietern eine oder
 mehrere der folgenden Warenarten feilbietet:
 
-1.  Lebensmittel im Sinne des § 1 des Lebensmittel- und
-    Bedarfsgegenständegesetzes mit Ausnahme alkoholischer Getränke;
+1.  Lebensmittel im Sinne des § 2 Absatz 2 des Lebensmittel- und
+    Futtermittelgesetzbuchs mit Ausnahme alkoholischer Getränke;
     zugelassen sind alkoholische Getränke, soweit sie aus selbstgewonnenen
     Erzeugnissen des Weinbaus, der Landwirtschaft oder des Obst- und
     Gartenbaus hergestellt wurden; der Zukauf von Alkohol zur Herstellung
@@ -3579,9 +3691,10 @@ Zuverlässigkeit nicht besitzt.
 
 (2) Im Falle der selbständigen Ausübung des Bewachungsgewerbes, des
 Gewerbes der Makler, Bauträger und Baubetreuer, des
-Versicherungsvermittlergewerbes sowie des Versicherungsberatergewerbes
-auf einer Veranstaltung im Sinne der §§ 64 bis 68 gelten die
-Versagungsgründe der §§ 34a, 34c oder 34d auch in Verbindung mit § 34e
+Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes
+sowie des Gewerbes des Finanzanlagenvermittlers auf einer
+Veranstaltung im Sinne der §§ 64 bis 68 gelten die Versagungsgründe
+der §§ 34a, 34c oder 34d, auch in Verbindung mit § 34e oder § 34f
 entsprechend.
 
 (3) Die selbständige Ausübung des Versteigerergewerbes auf einer
@@ -3621,13 +3734,15 @@ der §§ 64 bis 68 zu erlassen.
 
 (2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes,
 des Gewerbes der Makler, Bauträger und Baubetreuer, des
-Versicherungsvermittlergewerbes sowie des Versicherungsberatergewerbes
-gelten § 34a Abs. 1 Satz 4 und Abs. 2 bis 5, § 34b Abs. 5 bis 8 und
-10, § 34c Abs. 3 und 5, § 34d Abs. 6 bis 10, § 34e Abs. 2 bis 3 sowie
+Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes
+sowie des Gewerbes des Finanzanlagenvermittlers gelten § 34a Abs. 1
+Satz 4 und Abs. 2 bis 5, § 34b Abs. 5 bis 8 und 10, § 34c Abs. 3 und
+5, § 34d Abs. 6 bis 10, § 34e Abs. 2 bis 3, § 34f Absatz 4 bis 6 sowie
 die auf Grund des § 34a Abs. 2, des § 34b Abs. 8, des § 34c Abs. 3,
-des § 34d Abs. 8 und des § 34e Abs. 3 erlassenen Rechtsvorschriften
-entsprechend. Die zuständige Behörde kann für die Versteigerung leicht
-verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
+des § 34d Abs. 8, des § 34e Abs. 3 und des § 34g erlassenen
+Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die
+Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen
+zulassen.
 
 
 ## Titel V - Taxen
@@ -4000,23 +4115,24 @@ zusammen:
         fremde Rechte versteigert,
 
 
-    h)  nach § 34c Abs. 1 Satz 1 Nr. 1 oder Nummer 1a den Abschluß von
+    h)  nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 2 den Abschluß von
         Verträgen der dort bezeichneten Art vermittelt oder die Gelegenheit
-        hierzu nachweist, nach § 34c Abs. 1 Satz 1 Nr. 4 als Bauherr oder
-        Baubetreuer Bauvorhaben in der dort bezeichneten Weise vorbereitet
-        oder durchführt, nach § 34c Abs. 1 Satz 1 Nr. 3 Anlageberatung
-        betreibt oder
+        hierzu nachweist,
 
 
-    i)  nach § 34c Abs. 1 Satz 1 Nr. 2 den Abschluss von Verträgen der dort
-        bezeichneten Art vermittelt,
+    i)  nach § 34c Absatz 1 Satz 1 Nummer 3 ein Bauvorhaben vorbereitet oder
+        durchführt,
 
 
     j)  nach § 34d Abs. 1 Satz 1, auch in Verbindung mit § 34d Abs. 10, den
-        Abschluss von Verträgen der dort bezeichneten Art vermittelt oder
+        Abschluss von Verträgen der dort bezeichneten Art vermittelt,
 
 
     k)  nach § 34e Abs. 1 Satz 1 über Versicherungen berät oder
+
+
+    l)  nach § 34f Absatz 1 Satz 1 Anlageberatung erbringt oder den Abschluss
+        von Verträgen der dort bezeichneten Art vermittelt oder
 
 
 
@@ -4030,11 +4146,17 @@ zusammen:
 
 (2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
 
-1.  einer auf Grund des § 33f Abs. 1 Nr. 1, 2 oder 4, § 33g Nr. 2, § 34
-    Abs. 2, § 34a Abs. 2, § 34b Abs. 8, § 34d Abs. 8 Satz 1 Nr. 1 oder 3,
-    Satz 2 oder 3, § 34e Abs. 3 Satz 3 oder 4 oder § 38 Abs. 3 erlassenen
-    Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten
+1.  einer Rechtsverordnung nach § 33f Absatz 1 Nummer 1, 2 oder 4 oder
+    einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
     Tatbestand auf diese Bußgeldvorschrift verweist,
+
+
+1a. einer auf Grund des § 33g Nr. 2, § 34 Abs. 2, § 34a Abs. 2, § 34b Abs.
+    8, § 34d Abs. 8 Satz 1 Nr. 1 oder 3, Satz 2 oder 3, § 34e Abs. 3 Satz
+    3 oder 4 oder § 38 Abs. 3 erlassenen Rechtsverordnung zuwiderhandelt,
+    soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
+    verweist,
 
 
 2.  entgegen § 34 Abs. 4 bewegliche Sachen mit Gewährung des
@@ -4053,21 +4175,31 @@ zusammen:
     Bestätigung der zuständigen Behörde aufstellt,
 
 
-5.  einer vollziehbaren Auflage nach § 34c Abs. 1 Satz 2 zuwiderhandelt,
+4a. entgegen § 33c Absatz 3 Satz 4 eine Person beschäftigt,
 
 
-6.  einer Rechtsverordnung nach § 34c Abs. 3 oder einer vollziehbaren
-    Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
-    soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist,
+5.  einer vollziehbaren Auflage nach § 34c Abs. 1 Satz 2 § 34f Absatz 1
+    Satz 2 zuwiderhandelt,
 
 
-7.  entgegen § 34d Abs. 7 Satz 1, auch in Verbindung mit § 34e Abs. 2,
-    sich nicht oder nicht rechtzeitig eintragen lässt oder
+6.  einer Rechtsverordnung nach § 34c Abs. 3 oder § 34g Absatz 1 Satz 1
+    oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2 oder einer
+    vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
+    Tatbestand auf diese Bußgeldvorschrift verweist,
+
+
+7.  entgegen § 34d Absatz 7 Satz 1, auch in Verbindung mit § 34e Absatz 2,
+    oder § 34f Absatz 5 Satz 1 oder Absatz 6 Satz 1 eine Eintragung nicht
+    vornehmen lässt,
 
 
 8.  entgegen § 34e Abs. 3 Satz 1, auch in Verbindung mit einer
-    Rechtsverordnung nach Satz 2, eine Provision entgegennimmt.
+    Rechtsverordnung nach Satz 2, eine Provision entgegennimmt oder
+
+
+9.  entgegen § 34f Absatz 5 Satz 1 oder Absatz 6 Satz 2 eine Mitteilung
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 
@@ -4077,11 +4209,11 @@ einer Versteigerung einer Vorschrift des § 34b Abs. 6 oder 7
 zuwiderhandelt.
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1
-Buchstabe i mit einer Geldbuße bis zu fünfzigtausend Euro, in den
-Fällen des Absatzes 1 Nr. 1 Buchstabe a bis h, j bis k, Nr. 2 und des
-Absatzes 2 Nr. 5 bis 8 mit einer Geldbuße bis zu fünftausend Euro, in
-den Fällen des Absatzes 2 Nr. 1 bis 4 mit einer Geldbuße bis zu
-zweitausendfünfhundert Euro, in den Fällen des Absatzes 3 mit einer
+Buchstabe l mit einer Geldbuße bis zu fünfzigtausend Euro, in den
+Fällen des Absatzes 1 Nr. 1 Buchstabe a bis k, Nr. 2 und des Absatzes
+2 Nummer 1 und 5 bis 9 mit einer Geldbuße bis zu fünftausend Euro, in
+den Fällen des Absatzes 2 Nummer 1a und 2 bis 4 mit einer Geldbuße bis
+zu zweitausendfünfhundert Euro, in den Fällen des Absatzes 3 mit einer
 Geldbuße bis zu eintausend Euro geahndet werden.
 
 
@@ -4091,7 +4223,7 @@ Geldbuße bis zu eintausend Euro geahndet werden.
 
 1.  ohne Erlaubnis nach § 55 Abs. 2
 
-    a)  eine Tätigkeit nach § 34c Abs. 1 Satz 1 Nr. 2 oder
+    a)  eine Tätigkeit nach § 34f Absatz 1 Satz 1 oder
 
 
     b)  eine sonstige Tätigkeit als Reisegewerbe betreibt,
@@ -4110,7 +4242,7 @@ Geldbuße bis zu eintausend Euro geahndet werden.
 
 3.  einer vollziehbaren Anordnung nach § 59 Satz 1, durch die
 
-    a)  eine reisegewerbliche Tätigkeit nach § 34c Abs. 1 Satz 1 Nr. 2
+    a)  eine reisegewerbliche Tätigkeit nach § 34f Absatz 1 Satz 1
 
 
     b)  eine sonstige reisegewerbliche Tätigkeit untersagt wird,
@@ -4179,9 +4311,10 @@ Geldbuße bis zu eintausend Euro geahndet werden.
 
 
 9.  einer Rechtsverordnung nach § 61a Abs. 2 Satz 1 in Verbindung mit §
-    34c Abs. 3 oder einer vollziehbaren Anordnung auf Grund dieser
-    Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
-    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+    34c Abs. 3 oder mit § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer
+    1, 2 oder 4 oder Satz 2 oder einer vollziehbaren Anordnung auf Grund
+    dieser Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung
+    für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 
@@ -4328,7 +4461,7 @@ geahndet werden.
     mit § 60b Abs. 2, zuwiderhandelt, durch die die Teilnahme an einer
     dort genannten Veranstaltung
 
-    a)  zum Zwecke der Ausübung einer Tätigkeit nach § 34c Abs. 1 Satz 1 Nr. 2
+    a)  zum Zwecke der Ausübung einer Tätigkeit nach § 34f Absatz 1 Satz 1
         oder
 
 
@@ -4578,7 +4711,8 @@ Betroffenen ist nicht zulässig.
 
 (5) Für die Vorbereitung der Entscheidung über einen Antrag auf
 Zulassung zu einem Gewerbe oder einer sonstigen wirtschaftlichen
-Unternehmung, auf Erteilung eines Befähigungsscheins nach § 20 des
+Unternehmung, auf öffentliche Bestellung und Vereidigung nach § 36,
+auf Erteilung eines Befähigungsscheins nach § 20 des
 Sprengstoffgesetzes oder zur Überprüfung der Zuverlässigkeit nach § 38
 Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt
 werden. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist
@@ -4651,8 +4785,9 @@ obliegen.
 1.  den Gerichten und Staatsanwaltschaften über die in § 149 Abs. 2 Nr. 1
     und 2 bezeichneten Eintragungen für Zwecke der Rechtspflege, zur
     Verfolgung von Straftaten nach § 148 Nr. 1, nach § 95 Abs. 1 Nr. 4 des
-    Aufenthaltsgesetzes und § 12 Abs. 4 Nr. 2 des Jugendschutzgesetzes
-    auch über die in § 149 Abs. 2 Nr. 3 bezeichneten Eintragungen,
+    Aufenthaltsgesetzes und § 27 Absatz 2 Nummer 2 des
+    Jugendschutzgesetzes auch über die in § 149 Abs. 2 Nr. 3 bezeichneten
+    Eintragungen,
 
 
 2.  den Kriminaldienst verrichtenden Dienststellen der Polizei für Zwecke
@@ -5042,12 +5177,54 @@ Entscheidung über den Erlaubnisantrag nach § 34e Abs. 1. Bis zu diesem
 Zeitpunkt gilt sie als Erlaubnis nach § 34e Abs. 1.
 
 
-#### § 157 Übergangsregelung zu § 34c
+#### § 157 Übergangsregelungen zu den §§ 34c und 34f
 
-Für einen Gewerbetreibenden, der am 1. November 2007 eine Erlaubnis
-für den Abschluss von Verträgen im Sinne des § 34c Abs. 1 Satz 1 Nr. 2
-hat, gilt die Erlaubnis für die Anlageberatung im Sinne des § 34c Abs.
-1 Satz 1 Nr. 3 als zu diesem Zeitpunkt erteilt.
+(1) Für einen Gewerbetreibenden, der am 1. November 2007 eine
+Erlaubnis für die Vermittlung des Abschlusses von Verträgen im Sinne
+des § 34c Absatz 1 Satz 1 Nummer 1 Buchstabe b in der bis zum 31.
+Oktober 2007 geltenden Fassung hat, gilt die Erlaubnis für die
+Anlageberatung im Sinne des § 34c Abs. 1 Satz 1 Nr. 3 in der ab dem 1.
+November 2007 geltenden Fassung als zu diesem Zeitpunkt erteilt.
+
+(2) Gewerbetreibende, die am 1. Januar 2013 eine Erlaubnis für die
+Vermittlung des Abschlusses von Verträgen im Sinne des § 34c Absatz 1
+Satz 1 Nummer 2 oder für die Anlageberatung nach § 34c Absatz 1 Satz 1
+Nummer 3 haben und diese Tätigkeit nach dem 1. Januar 2013 weiterhin
+ausüben wollen, sind verpflichtet, bis zum 1. Juli 2013 eine Erlaubnis
+als Finanzanlagenvermittler nach § 34f Absatz 1 zu beantragen und sich
+selbst sowie die nach § 34f Absatz 6 einzutragenden Personen nach
+Erteilung der Erlaubnis gemäß § 34f Absatz 5 registrieren zu lassen.
+Die für die Erlaubniserteilung zuständige Stelle übermittelt dazu die
+erforderlichen Informationen an die Registerbehörde. Wird die
+Erlaubnis unter Vorlage der bisherigen Erlaubnisurkunde gemäß § 34c
+Absatz 1 Satz 1 Nummer 2 oder Nummer 3 beantragt, so erfolgt keine
+Prüfung der Zuverlässigkeit und der Vermögensverhältnisse nach § 34f
+Absatz 2 Nummer 1 und 2. Für den Nachweis der nach § 34f Absatz 2
+Nummer 4 erforderlichen Sachkunde gilt Absatz 3. Die Erlaubnis nach §
+34c Absatz 1 Satz 1 Nummer 2 oder Nummer 3 erlischt mit der
+bestandskräftigen Entscheidung über den Erlaubnisantrag nach § 34f
+Absatz 1 Satz 1, spätestens aber mit Ablauf der in Satz 1 genannten
+Frist. Bis zu diesem Zeitpunkt gilt die Erlaubnis nach § 34c Absatz 1
+Satz 1 Nummer 2 oder Nummer 3 als Erlaubnis nach § 34f Absatz 1 Satz
+1\.
+
+(3) Gewerbetreibende im Sinne des Absatzes 2 sind verpflichtet, bis
+zum 1. Januar 2015 einen Sachkundenachweis nach § 34f Absatz 2 Nummer
+4 gegenüber der zuständigen Behörde zu erbringen. Die Erlaubnis nach §
+34f Absatz 1 Satz 1 erlischt, wenn der erforderliche Sachkundenachweis
+nach § 34f Absatz 2 Nummer 4 nicht bis zum Ablauf dieser Frist
+erbracht wird. Beschäftigte im Sinne des § 34f Absatz 4 sind
+verpflichtet, bis zum 1. Januar 2015 einen Sachkundenachweis nach §
+34f Absatz 2 Nummer 4 zu erwerben. Personen, die seit dem 1. Januar
+2006 ununterbrochen unselbstständig oder selbstständig als
+Anlagevermittler oder Anlageberater gemäß § 34c Absatz 1 Satz 1 Nummer
+2 oder Nummer 3 in der bis zum 31. Dezember 2012 geltenden Fassung
+tätig waren, bedürfen keiner Sachkundeprüfung. Selbstständig tätige
+Anlagevermittler oder Anlageberater haben die ununterbrochene
+Tätigkeit durch Vorlage der erteilten Erlaubnis und die lückenlose
+Vorlage der Prüfungsberichte nach § 16 Absatz 1 Satz 1 der Makler- und
+Bauträgerverordnung in der am 31. Dezember 2012 geltenden Fassung
+nachzuweisen.
 
 
 #### § 158 Übergangsregelung zu § 14

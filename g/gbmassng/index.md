@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 986
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 1 G v. 11.8.2009 I 2713
+:   Art. 17 G v. 5.12.2012 I 2418
 
 
 ## Erster Abschnitt - Eintragung der Umstellung
@@ -599,15 +599,8 @@ Vorschriften ändern, ergänzen oder aufheben.
 -
 
 
-### § 31
+### § 31 (weggefallen)
 
-(1)
-
-(2) Soll nach diesem Gesetz bei der Bekanntgabe einer Verfügung eine
-Belehrung über den gegebenen Rechtsbehelf erteilt werden, so gilt dies
-zugleich für diejenigen Verfügungen des Rechtspflegers, gegen die nach
-§ 10 Abs. 1 Satz 2              des Rechtspflegergesetzes die
-Erinnerung binnen der dort bezeichneten Frist einzulegen ist.
 
 
 ### § 32

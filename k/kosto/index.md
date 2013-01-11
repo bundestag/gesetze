@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 861, 960
 
 Zuletzt geändert durch
-:   Art. 2 G v. 11.7.2011 I 1338
+:   Art. 9 G v. 5.12.2012 I 2418
 
 
 ## Übersicht

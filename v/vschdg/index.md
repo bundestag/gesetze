@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3367
 
-Zuletzt geändert durch
-:   Art. 1 G v. 6.2.2012 I 146
-
+Stand: Zuletzt geändert Art. 2 G v. 5.12.2012 I 2454
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -143,7 +141,13 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
     Tätigkeit bezieht,
 
 
-5.  vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige
+5.  das Eisenbahn-Bundesamt im Fall eines Verdachtes eines
+    innergemeinschaftlichen Verstoßes gegen den in der Nummer 18 des
+    Anhanges der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakt und die
+    zu seiner Durchsetzung erlassenen Rechtsvorschriften,
+
+
+6.  vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige
     Behörde in den übrigen Fällen.
 
 

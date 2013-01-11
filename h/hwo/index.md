@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Zuletzt geändert durch
-:   Art. 33 G v. 20.12.2011 I 2854
+:   Art. 2 G v. 5.12.2012 I 2415
 
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
@@ -2372,7 +2372,7 @@ entstehenden Kosten trägt die Handwerkskammer.
 
 (5) Zur Prüfung ist zuzulassen, wer eine Gesellenprüfung oder eine
 Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat
-oder eine Gleichwertigkeitsfeststellung nach § 51e besitzt. Die
+oder eine Gleichwertigkeitsfeststellung nach § 40a besitzt. Die
 Handwerkskammer kann auf Antrag in Ausnahmefällen von der
 Zulassungsvoraussetzung befreien. Für die Ablegung des Teils III der
 Meisterprüfung entfällt die Zulassungsvoraussetzung.
@@ -3434,14 +3434,14 @@ der Anlage D Abschnitt IV zu diesem Gesetz mit dem von ihnen
 betriebenen Gewerbe einzutragen sind (Verzeichnis der Personen nach §
 90 Abs. 3 und 4 der Handwerksordnung).
 
-(5) Die Handwerkskammern werden von der obersten Landesbehörde
-errichtet; diese bestimmt deren Bezirk, der sich in der Regel mit dem
-der höheren Verwaltungsbehörde decken soll. Die oberste Landesbehörde
-kann den Bezirk der Handwerkskammer ändern; in diesem Fall muß eine
-Vermögensauseinandersetzung erfolgen, welche der Genehmigung durch die
-oberste Landesbehörde bedarf. Können sich die beteiligten
-Handwerkskammern hierüber nicht einigen, so entscheidet die oberste
-Landesbehörde.
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+Handwerkskammern zu errichten und die Bezirke der Handwerkskammern zu
+bestimmen; die Bezirke sollen sich in der Regel mit denen der höheren
+Verwaltungsbehörde decken. Wird der Bezirk einer Handwerkskammer nach
+Satz 1 geändert, muss eine Vermögensauseinandersetzung erfolgen,
+welche der Genehmigung durch die oberste Landesbehörde bedarf. Können
+sich die beteiligten Handwerkskammern hierüber nicht einigen, so
+entscheidet die oberste Landesbehörde.
 
 
 #### § 91

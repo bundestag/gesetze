@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1922, 681
 
 Neugefasst durch
-:   Bek. v. 10.5.2007 I 698; zuletzt geändert durch Art. 1 G v. 8.5.2012 I 1032
+:   Bek. v. 10.5.2007 I 698; zuletzt geändert durch Art. 3 G v. 5.12.2012 I 2454
 
 
 ## Erster Abschnitt - Luftverkehr
@@ -4877,7 +4877,7 @@ des Arbeitnehmerüberlassungsgesetzes.
 § 27c Absatz 2 Satz 3 gilt die nach § 27c Absatz 2 Satz 4
 vorgeschriebene Anzeige als erteilt.
 
-(4) Bis zum 31. Dezember 2012 gelten die zum 29. August 2009
+(4) Bis zum 31. Dezember 2014 gelten die zum 29. August 2009
 
 a)  im deutschen Luftraum in grenznahen Bereichen ausgeübten Tätigkeiten
     ausländischer Flugsicherungsorganisationen als nach § 31b Absatz 6

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1519
 
-Geändert durch
-:   Art. 1 V v. 29.4.2009 I 954
+Zuletzt geändert durch
+:   Art. 4 G v. 5.12.2012 I 2449
 
 Die §§ 1 bis 5, 8, 9, 11 Abs. 3, §§ 12, 15 bis 22, § 24 Abs. 1, §§ 26,
 27 und 29 dienen der Umsetzung der Richtlinie 2002/91/EG des
@@ -57,7 +57,7 @@ September 2005 (BGBl. I S. 2684) verordnet die Bundesregierung:
 
 
 
-Der Energieeinsatz für Produktionsprozesse von Gebäuden ist nicht
+Der Energieeinsatz für Produktionsprozesse in Gebäuden ist nicht
 Gegenstand dieser Verordnung.
 
 (2) Mit Ausnahme der §§ 12 und 13 gilt diese Verordnung nicht für

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1877, 77
 
 Zuletzt geändert durch
-:   Art. 8 G v. 7.12.2011 I 2582 (2800)
+:   Art. 2 G v. 5.12.2012 I 2418
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -1073,155 +1073,8 @@ rechtskräftig verurteilt worden ist.
 
 
 
-### § 39
+### § 39 (weggefallen)
 
-(1) Über Insolvenzverfahren werden monatliche Erhebungen als
-Bundesstatistik durchgeführt.
-
-(2) Erhebungsmerkmale sind:
-
-1.  bei Eröffnung des Insolvenzverfahren oder dessen Abweisung mangels
-    Masse
-
-    a)  Art des Verfahrens,
-
-
-    b)  Antragsteller,
-
-
-    c)  Art des Rechtsträgers oder der Vermögensmasse (Schuldner); bei
-        Unternehmen zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung,
-        Zahl der betroffenen Arbeitnehmer und die Eintragung in das Handels-,
-        Genossenschafts-, Vereins- oder Partnerschaftsregister,
-
-
-    d)  Eröffnungsgrund,
-
-
-    e)  Anordnung der Eigenverwaltung,
-
-
-    f)  voraussichtliche Summe der Forderungen;
-
-
-
-
-
-2.  bei Annahme eines Schuldenbereinigungsplans, bei Eröffnung eines
-    vereinfachten Insolvenzverfahrens oder bei der Abweisung des Antrags
-    auf Eröffnung eines solchen Verfahrens mangels Masse
-
-    a)  Summe der Forderungen,
-
-
-    b)  geschätzte Summe der zu erbringenden Leistungen,
-
-
-    c)  bei Personen, die eine geringfügige selbständige wirtschaftliche
-        Tätigkeit ausüben, zusätzlich Geschäftszweig;
-
-
-
-
-
-3.  bei Einstellung des Insolvenzverfahrens
-
-    a)  Einstellungsgrund,
-
-
-    b)  bei Einstellung mangels Masse oder nach Anzeige der
-        Masseunzulänglichkeit zusätzlich Summe der Forderungen;
-
-
-
-
-
-4.  bei Aufhebung des Insolvenzverfahrens nach Schlussverteilung nach dem
-    Schlusstermin, spätestens jedoch nach Ablauf des zweiten dem
-    Eröffnungsjahr folgenden Jahres
-
-    a)  Summe der Forderungen,
-
-
-    b)  für die Verteilung verfügbarer Betrag,
-
-
-    c)  nachträgliche Anordnung oder Aufhebung der Eigenverwaltung;
-
-
-
-
-
-5.  bei Aufhebung des Insolvenzverfahrens nach Bestätigung eines
-    Insolvenzplans
-
-    a)  Summe der Forderungen,
-
-
-    b)  Anteil des erlassenen Betrags an der Summe der Forderungen,
-
-
-    c)  nachträgliche Anordnung oder Aufhebung der Eigenverwaltung;
-
-
-
-
-
-6.  bei Restschuldbefreiung
-
-    a)  Ankündigung der Restschuldbefreiung,
-
-
-    b)  Entscheidung über die Restschuldbefreiung.
-
-
-
-
-
-
-
-(3) Hilfsmerkmale der Erhebungen sind:
-
-1.  Datum der Verfahrenshandlungen nach Absatz 2,
-
-
-2.  Name oder Firma und Anschrift oder Mittelpunkt der selbständigen
-    wirtschaftlichen Tätigkeit des Schuldners,
-
-
-3.  Name und Aktenzeichen des Amtsgerichts,
-
-
-4.  Namen und Telekommunikationsanschlussnummern der für eventuelle
-    Rückfragen zur Verfügung stehenden Personen sowie Bearbeitungsdatum,
-
-
-5.  bei Schuldnern, die im Handels-, Genossenschafts-, Vereins- oder
-    Partnerschaftsregister eingetragen sind, für die Erhebungen nach
-    Absatz 2 Nr. 1 im Fall der Abweisung mangels Masse und nach den
-    Nummern 3 und 4: Art und Ort des Registers sowie Nummer der
-    Eintragung.
-
-
-
-
-(4) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu Absatz 3
-Nr. 4 sind freiwillig. Auskunftspflichtig sind die zuständigen
-Amtsgerichte. Die Angaben werden aus den vorhandenen Unterlagen
-jeweils für den abgelaufenen Kalendermonat erteilt. Die Angaben zu
-Absatz 2 Nr. 1, 2, 3, 5 und 6 sind innerhalb von zwei Wochen nach
-Ablauf des Kalendermonats, in dem die jeweilige gerichtliche
-Entscheidung erlassen wurde, die Angaben zu Absatz 2 Nr. 4 nach dem
-Schlusstermin, spätestens jedoch nach Ablauf des zweiten dem
-Eröffnungsjahr folgenden Jahres zu übermitteln.
-
-(5) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und
-für Zwecke der Planung, jedoch nicht für die Regelung von
-Einzelfällen, dürfen Tabellen mit statistischen Ergebnissen, auch
-soweit Tabellenfelder nur einen einzigen Fall ausweisen, vom
-Statistischen Bundesamt und den statistischen Ämtern der Länder an die
-fachlich zuständigen obersten Bundes- und Landesbehörden übermittelt
-werden.
 
 
 ## Sechster Abschnitt - Übergangsvorschriften

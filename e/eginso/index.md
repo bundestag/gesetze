@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2911
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 29 G v. 22.12.2011 I 3044
+:   Art. 19 G v. 5.12.2012 I 2418
 
 
 ## Erster Teil - Neufassung des Anfechtungsgesetzes
@@ -356,7 +356,10 @@ Insolvenzordnung gilt Satz 1 entsprechend.
 ### Art 103g Überleitungsvorschrift zum Gesetz zur weiteren Erleichterung der Sanierung von Unternehmen
 
 Auf Insolvenzverfahren, die vor dem 1. März 2012 beantragt worden
-sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
+sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. §
+18 Absatz 1 Nummer 2 des Rechtspflegergesetzes in der ab dem 1. Januar
+2013 geltenden Fassung ist nur auf Insolvenzverfahren anzuwenden, die
+ab dem 1. Januar 2013 beantragt werden.
 
 
 ## Art 104 Anwendung des neuen Rechts
