@@ -19,7 +19,23 @@ Neugefasst durch
 :   Bek. v. 26.9.2002 I 3818;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.5.2010 I 668
+:   Art. 2 G v. 5.12.2012 I 2431
+
+Dieses Gesetz dient der Umsetzung folgender Richtlinien:
+
+1.  Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom
+    17\. Juni 1999 über die Erhebung von Gebühren für die Benutzung
+    bestimmter Verkehrswege durch schwere Nutzfahrzeuge (ABl. EG Nr. L 187
+    S. 42),
+
+
+2.  Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13.
+    Oktober 1998 über Maßnahmen gegen die Verunreinigung der Luft durch
+    Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie
+    70/220/EWG des Rates (ABl. EG Nr. L 350 S. 1).
+
+
+
 
 
 ## § 1 Steuergegenstand
@@ -62,57 +78,22 @@ Verbrauchsteuern gelten.
 (1) Unter den Begriff Fahrzeuge im Sinne dieses Gesetzes fallen
 Kraftfahrzeuge und Kraftfahrzeuganhänger.
 
-(2) Die in diesem Gesetz verwendeten Begriffe des Verkehrsrechts
-richten sich, wenn nichts anderes bestimmt ist, nach den jeweils
-geltenden verkehrsrechtlichen Vorschriften. Bei Personenkraftwagen
-sind für die Beurteilung der Schadstoffemissionen und der
-Kohlendioxidemissionen, für die Beurteilung als schadstoffarm und für
-die Beurteilung anderer Besteuerungsgrundlagen technischer Art die
-Feststellungen der Zulassungsbehörden verbindlich, soweit dieses
-Gesetz nichts anderes bestimmt. Die Zulassungsbehörden entscheiden
-auch über die Einstufung eines Fahrzeugs in Emissionsklassen.
+(2) Soweit dieses Gesetz nichts anderes bestimmt,
 
-(2a) Als Personenkraftwagen gelten auch:
-
-1.  Geländefahrzeuge und andere Fahrzeuge mit drei bis acht Sitzplätzen
-    außer dem Fahrersitz, die der Klasse
-    N(tief)1, Aufbauarten BA oder BB, nach Anhang II Abschnitt C Nr. 3 der
-    Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über die Betriebserlaubnis
-    für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. EG Nr. L 42 S. 1),
-    zuletzt geändert durch die Richtlinie 2005/66/EG des Europäischen
-    Parlaments und des Rates vom 26. Oktober 2005 (ABl. EU Nr. L 309 S.
-    37), entsprechen;
+1.  richten sich die in diesem Gesetz verwendeten Begriffe des
+    Verkehrsrechts nach den jeweils geltenden verkehrsrechtlichen
+    Vorschriften;
 
 
-2.  Mehrzweckfahrzeuge, entsprechend Aufbauart AF, die nach Anhang II
-    Abschnitt C Nr. 1 der Richtlinie 70/156/EWG nicht als Fahrzeuge der
-    Klasse
-    M(tief)1 gelten;
-
-
-3.  Büro- und Konferenzmobile, entsprechend der Systematisierung von
-    Kraftfahrzeugen und ihren Anhängern für die Erhebung von Daten nach
-    der Fahrzeugregisterverordnung.
+2.  sind für die Beurteilung der Schadstoff-, Kohlendioxid- und
+    Geräuschemissionen, anderer Bemessungsgrundlagen technischer Art sowie
+    der Fahrzeugklassen und Aufbauarten die Feststellungen der
+    Zulassungsbehörden verbindlich.
 
 
 
-Die genannten Fahrzeuge gelten dann als Personenkraftwagen, wenn diese
-vorrangig zur Personenbeförderung ausgelegt und gebaut sind. Das ist
-insbesondere der Fall, wenn die zur Personenbeförderung dienende
-Bodenfläche größer ist als die Hälfte der gesamten Nutzfläche des
-Fahrzeugs.
 
-(2b) Als Wohnmobile gelten Fahrzeuge der Klasse M mit besonderer
-grundsätzlich fest eingebauter Ausrüstung nach Anhang II Abschnitt A
-Nr. 5.1 der Richtlinie 70/156/EWG, wenn sie auch zum vorübergehenden
-Wohnen ausgelegt und gebaut sind, die Bodenfläche des Wohnteils den
-überwiegenden Teil der gesamten Nutzfläche des Fahrzeugs einnimmt und
-der Wohnteil eine Stehhöhe von mindestens 170 Zentimeter sowohl an der
-Kochgelegenheit als auch an der Spüle aufweist.
-
-(2c) Als andere Fahrzeuge gelten auch Kranken- und Leichenwagen nach
-Anhang II Abschnitt A Nr. 5.3 und 5.4 der Richtlinie 70/156/EWG.
+(2a) bis (2c) (weggefallen)
 
 (3) Ein Fahrzeug ist vorbehaltlich des Absatzes 4 ein inländisches
 Fahrzeug, wenn es unter die im Inland maßgebenden Vorschriften über
@@ -441,14 +422,25 @@ Abs. 1 Nr. 4 Satz 1.
 
 ## § 3d Steuerbefreiung für Elektrofahrzeuge
 
-Das Halten von Personenkraftwagen, die Elektrofahrzeuge im Sinne des §
-9 Abs. 2 sind, ist für die Dauer von fünf Jahren ab dem Tag der
-erstmaligen Zulassung von der Steuer befreit. Die Zeiten der
-Außerbetriebsetzung eines Fahrzeugs und die Zeiten außerhalb des auf
-einem Saisonkennzeichen angegebenen Betriebszeitraums haben keine
-Auswirkungen auf die Steuerbefreiung. Soweit die Steuerbefreiung bei
-einem Halterwechsel noch nicht abgelaufen ist, wird sie dem neuen
-Halter gewährt.
+(1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im
+Sinne des § 9 Absatz 2. Die Steuerbefreiung wird ab dem Tag der
+erstmaligen Zulassung gewährt für
+
+1.  zehn Jahre in der Zeit vom 18. Mai 2011 bis zum 31. Dezember 2015,
+
+
+2.  fünf Jahre in der Zeit vom 1. Januar 2016 bis zum 31. Dezember 2020.
+
+
+
+
+(2) Die Steuerbefreiung wird für jedes Fahrzeug einmal gewährt. Soweit
+sie bei einem Halterwechsel noch nicht abgelaufen ist, wird sie dem
+neuen Halter gewährt.
+
+(3) Die Zeiten der Außerbetriebsetzung eines Fahrzeugs und die Zeiten
+außerhalb des auf einem Saisonkennzeichen angegebenen
+Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
 
 
 ## (XXXX) §§ 3e bis 3h (weggefallen)
@@ -594,7 +586,9 @@ Steuerschuldner ist
 
 Die Steuer bemisst sich
 
-1.  bei Personenkraftwagen
+1.  bei Fahrzeugen der Klasse M
+    1                    ohne besondere Zweckbestimmung als Wohnmobil oder
+    Kranken- und Leichenwagen (Personenkraftwagen)
 
     a)  mit erstmaliger Zulassung bis zum 30. Juni 2009 und bei Krafträdern
         nach dem Hubraum, soweit diese Fahrzeuge durch Hubkolbenmotoren
@@ -626,13 +620,13 @@ Die Steuer bemisst sich
     Schadstoffemissionen;
 
 
-2.  bei anderen Fahrzeugen nach dem verkehrsrechtlich zulässigen
-    Gesamtgewicht, bei Kraftfahrzeugen mit einem verkehrsrechtlich
-    zulässigen Gesamtgewicht über 3 500 Kilogramm zusätzlich nach
-    Schadstoff- und Geräuschemissionen. Das verkehrsrechtlich zulässige
-    Gesamtgewicht ist bei Sattelanhängern um die Aufliegelast und bei
-    Starrdeichselanhängern einschließlich Zentralachsanhängern um die
-    Stützlast zu vermindern.
+2.  bei anderen Fahrzeugen, Kranken- und Leichenwagen nach dem
+    verkehrsrechtlich zulässigen Gesamtgewicht, bei Kraftfahrzeugen mit
+    einem verkehrsrechtlich zulässigen Gesamtgewicht über 3 500 Kilogramm
+    zusätzlich nach Schadstoff- und Geräuschemissionen. Das
+    verkehrsrechtlich zulässige Gesamtgewicht ist bei Sattelanhängern um
+    die Aufliegelast und bei Starrdeichselanhängern einschließlich
+    Zentralachsanhängern um die Stützlast zu vermindern.
 
 
 
@@ -1293,8 +1287,9 @@ Die Steuer bemisst sich
 (2) Die Steuer ermäßigt sich um 50 vom Hundert des Betrags, der sich
 nach Absatz 1 Nr. 3 oder Nr. 4 Buchstabe a ergibt, für Fahrzeuge mit
 Antrieb ausschließlich durch Elektromotoren, die ganz oder überwiegend
-aus mechanischen oder elektrochemischen Energiespeichern gespeist
-werden (Elektrofahrzeuge).
+aus mechanischen oder elektrochemischen Energiespeichern oder aus
+emissionsfrei betriebenen Energiewandlern gespeist werden
+(Elektrofahrzeuge).
 
 (3) Für ausländische Fahrzeuge beträgt die Steuer, wenn sie tageweise
 entrichtet wird, für jeden ganz oder teilweise im Inland zugebrachten
@@ -1909,6 +1904,11 @@ Absatz 1 Nummer 2 Buchstabe a ergibt; dies gilt nicht für Fälle des §
 10a Absatz 3. Der Zuschlag im Sinne des § 9a ist jeweils zu
 berücksichtigen.
 
+(4b) Für Personenkraftwagen, die Elektrofahrzeuge im Sinne des § 9
+Absatz 2 sind und bis zum 17. Mai 2011 erstmals zugelassen wurden,
+bleibt § 3d in der am 5. November 2008 geltenden Fassung weiter
+anwendbar.
+
 (5) Für Wohnmobile bemisst sich die Steuer für die Zeit vom 1. Mai
 2005 bis zum 31. Dezember 2005 bei einem zulässigen Gesamtgewicht bis
 zu 2 800 Kilogramm nach § 8 Nr. 1 und bei einem zulässigen
@@ -1960,4 +1960,9 @@ Kraftfahrzeugsteuer und Änderung anderer Gesetze vom 29. Mai 2009
 (BGBl. I S. 1170) anzuwenden. Der Antrag ist bei der für die Ausübung
 der Verwaltung der Kraftfahrzeugsteuer örtlich zuständigen Behörde zu
 stellen.
+
+(12) Führen die Feststellungen der Zulassungsbehörden hinsichtlich der
+Fahrzeugklassen und Aufbauarten zu einer niedrigeren Steuer als unter
+Berücksichtigung des § 2 Absatz 2a in der am 1. Juli 2010 geltenden
+Fassung, ist weiterhin § 9 Absatz 1 Nummer 2 anzuwenden.
 
