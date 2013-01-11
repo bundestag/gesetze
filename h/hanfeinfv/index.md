@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4044
 
-Geändert durch
-:   Art. 6 Abs. 5 G v. 21.7.2004 I 1763
+Zuletzt geändert durch
+:   Art. 1 V v. 11.12.2012 I 2653
 
 
 ## Eingangsformel
@@ -36,9 +36,9 @@ Wirtschaft und Technologie:
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Rechtsakte des Rates und der Kommission der Europäischen Gemeinschaft
+Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 hinsichtlich der Einfuhr von Hanf aus Drittländern im Rahmen der
-gemeinsamen Marktorganisation für Faserflachs und -hanf.
+gemeinsamen Organisation der Agrarmärkte.
 
 
 ## § 2 Zuständigkeit
@@ -85,11 +85,11 @@ Der Antrag hat zu enthalten:
 
 
 4.  Verpflichtungserklärung über die Vorlage der Bescheinigungen über die
-    Behandlung der Hanfsamen nach Artikel 17a Abs. 2 der Verordnung (EG)
-    Nr. 245/2001 der Kommission vom 5. Februar 2001 mit
-    Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1673/2000 über
-    die gemeinsame Marktorganisation für Faserflachs und -hanf (ABl. Nr. L
-    35 S. 18) in der jeweils geltenden Fassung.
+    Behandlung der Hanfsamen nach Artikel 17 Absatz 2 der Verordnung (EG)
+    Nr. 507/2008 der Kommission vom 6. Juni 2008 mit
+    Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1673/2000 des
+    Rates über die gemeinsame Marktorganisation für Faserflachs und -hanf
+    (ABl. L 149 vom 7.6.2008, S. 38) in der jeweils geltenden Fassung.
 
 
 
@@ -112,8 +112,8 @@ andere Frist vorgeschrieben ist.
 
 (1) Die EWG-Lizenzverordnung findet keine Anwendung.
 
-(2) Die Lizenz nach Artikel 17a Abs. 1 der Verordnung (EG) Nr.
-245/2001 ist durch Einreichung des teilausgefüllten Lizenzformulars
+(2) Die Lizenz nach Artikel 17 Absatz 1 der Verordnung (EG) Nr.
+507/2008 ist durch Einreichung des teilausgefüllten Lizenzformulars
 bei der Bundesanstalt zu beantragen; dazu sind die Felder 4, 7, 8, 14,
 15, 16, 17, 18 und bei zur Aussaat bestimmten Hanfsamen auch Feld 20
 auszufüllen.
@@ -157,11 +157,11 @@ bei der Bundesanstalt nach § 4 Abs. 2 die Lizenz beantragt.
 (2) Bei zur Aussaat bestimmten Hanfsamen ist dem Antrag auf Erteilung
 der Lizenz das aufgrund des OECD-Systems für die sortenmäßige
 Zertifizierung von Saatgut ausgestellte Zertifikat beizufügen. Bei
-Sorten, die nicht im Anhang XII der Verordnung (EG) Nr. 2316/1999 mit
-Durchführungsbestimmungen zur Verordnung (EG) Nr. 1251/1999 des Rates
-zur Einführung einer Stützungsregelung für Erzeuger bestimmter
-landwirtschaftlicher Kulturpflanzen (ABl. EG Nr. L 280 S. 43) in der
-jeweils geltenden Fassung aufgeführt sind, ist zusätzlich ein amtlich
+Sorten, die nicht im gemeinsamen Sortenkatalog für landwirtschaftliche
+Pflanzenarten aufgeführt sind und nach Artikel 17 der Richtlinie
+2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen
+Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom
+20\.7.2002, S. 1) veröffentlicht wurden, ist zusätzlich ein amtlich
 bestätigtes Attest des Ausfuhrstaates über den
 Tetrahydrocannabinolgehalt der Sorte beizufügen. Bei Sorten, die die
 Voraussetzungen für die Erteilung des in Satz 1 genannten Zertifikats
@@ -170,18 +170,20 @@ nicht erfüllen, genügt die Vorlage des in Satz 2 genannten Attestes.
 
 ## § 6 Behandlung
 
-Auf begründeten Antrag des zugelassenen Einführers ist die Frist zur
+Auf begründeten Antrag des zugelassenen Einführers kann die Frist zur
 Behandlung der nicht zur Aussaat bestimmten Hanfsamen von der
-Bundesanstalt um einen oder zwei Sechsmonatszeiträume zu verlängern.
+Bundesanstalt um einen oder zwei Sechsmonatszeiträume verlängert
+werden.
 
 
 ## § 7 Bescheinigung
 
 Der zugelassene Einführer hat der Bundesanstalt innerhalb von einem
 Monat nach der Behandlung der nicht zur Aussaat bestimmten Hanfsamen
-die Bescheinigung nach Artikel 17a Abs. 2 Unterabs. 2 der Verordnung
-(EG) Nr. 245/2001 vorzulegen. Er hat dabei die Bescheinigung einer
-Lizenz zuzuordnen durch Angabe der Registriernummer der Lizenz.
+die Bescheinigung nach Artikel 17 Absatz 2 der Verordnung (EG) Nr.
+507/2008 vorzulegen. Die Bescheinigung ist durch den zugelassenen
+Einführer durch seine Unterschrift zu bestätigen und einer Lizenz
+durch Angabe der Registriernummer der Lizenz zuzuordnen.
 
 
 ## § 8 Muster, Formulare
