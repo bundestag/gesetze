@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 799
 
-Geändert durch
-:   Art. 5 Abs. 11 G v. 24.2.2012 I 212
+Zuletzt geändert durch
+:   Art. 1c G v. 25.11.2012 II 1381
 
 
 ## Eingangsformel
@@ -447,6 +447,19 @@ Kommission aufgelöst.
 
 Eine Rechtsverordnung nach § 11 steht für die Anwendung der §§ 8 und 9
 sowie der Abschnitte 5 und 6 einer Rechtsverordnung nach § 7 gleich.
+
+
+## Abschnitt 4a - Arbeitsbedingungen im Gewerbe des grenzüberschreitenden Straßentransports von Euro-Bargeld
+
+
+### § 13a Gleichstellung
+
+Die Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des
+Rates vom 16. November 2011 über den gewerbsmäßig
+grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den
+Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1) steht
+für die Anwendung der §§ 8 und 9 sowie der Abschnitte 5 und 6 einer
+Rechtsverordnung nach § 7 gleich.
 
 
 ## Abschnitt 5 - Zivilrechtliche Durchsetzung
