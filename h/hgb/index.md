@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 219
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 39 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 20.12.2012 I 2751
 
 
 ## Erstes Buch - Handelsstand
@@ -155,8 +155,8 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
     zum Partnerschaftsregister eingereichte Dokumente;
 
 
-4.  Unterlagen der Rechnungslegung nach den §§ 325 und 339 und deren
-    Bekanntmachung;
+4.  Unterlagen der Rechnungslegung nach den §§ 325 und 339, soweit sie
+    bekannt gemacht wurden;
 
 
 5.  gesellschaftsrechtliche Bekanntmachungen im Bundesanzeiger;
@@ -203,8 +203,9 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 (3) Zur Einstellung in das Unternehmensregister sind dem
 Unternehmensregister zu übermitteln:
 
-1.  die Daten nach Absatz 2 Nr. 4 bis 8 durch den Betreiber des
-    Bundesanzeigers;
+1.  die Daten nach Absatz 2 Nr. 4 bis 8 und die nach § 326 Absatz 2 von
+    einer Kleinstkapitalgesellschaft hinterlegten Bilanzen durch den
+    Betreiber des Bundesanzeigers;
 
 
 2.  die Daten nach Absatz 2 Nr. 9 und 10 durch den jeweils
@@ -285,7 +286,10 @@ nicht erfolgt ist.
 
 (6) Für die Einsichtnahme in das Unternehmensregister gilt Absatz 1
 Satz 1 entsprechend. Anträge nach den Absätzen 2 bis 5 können auch
-über das Unternehmensregister an das Gericht vermittelt werden.
+über das Unternehmensregister an das Gericht vermittelt werden. Die
+Einsichtnahme in die Bilanz einer Kleinstkapitalgesellschaft (§ 267a),
+die von dem Recht nach § 326 Absatz 2 Gebrauch gemacht hat, erfolgt
+nur auf Antrag durch Übermittlung einer Kopie.
 
 
 #### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
@@ -3754,7 +3758,12 @@ III. 5 bestimmt, sind Rückstellungen hierfür zum beizulegenden
 Zeitwert dieser Wertpapiere anzusetzen, soweit er einen garantierten
 Mindestbetrag übersteigt. Nach § 246 Abs. 2 Satz 2 zu verrechnende
 Vermögensgegenstände sind mit ihrem beizulegenden Zeitwert zu
-bewerten.
+bewerten. Kleinstkapitalgesellschaften (§ 267a) dürfen eine Bewertung
+zum beizulegenden Zeitwert nur vornehmen, wenn sie von keiner der in §
+264 Absatz 1 Satz 5, § 266 Absatz 1 Satz 4, § 275 Absatz 5 und § 326
+Absatz 2 vorgesehenen Erleichterungen Gebrauch machen. In diesem Fall
+erfolgt die Bewertung der Vermögensgegenstände nach Satz 1, auch
+soweit eine Verrechnung nach § 246 Absatz 2 Satz 2 vorgesehen ist.
 
 (2) Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind
 mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen
@@ -4036,7 +4045,23 @@ vergangene Geschäftsjahr aufzustellen. Kleine Kapitalgesellschaften (§
 267 Abs. 1) brauchen den Lagebericht nicht aufzustellen; sie dürfen
 den Jahresabschluß auch später aufstellen, wenn dies einem
 ordnungsgemäßen Geschäftsgang entspricht, jedoch innerhalb der ersten
-sechs Monate des Geschäftsjahres.
+sechs Monate des Geschäftsjahres. Kleinstkapitalgesellschaften (§
+267a) brauchen den Jahresabschluss nicht um einen Anhang zu erweitern,
+wenn sie
+
+1.  die in den §§ 251 und 268 Absatz 7 genannten Angaben,
+
+
+2.  die in § 285 Nummer 9 Buchstabe c genannten Angaben und
+
+
+3.  im Falle einer Aktiengesellschaft oder Kommanditgesellschaft auf
+    Aktien die in § 160 Absatz 1 Satz 1 Nummer 2 des Aktiengesetzes
+    genannten Angaben
+
+
+
+unter der Bilanz angeben.
 
 (2) Der Jahresabschluß der Kapitalgesellschaft hat unter Beachtung der
 Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen
@@ -4044,20 +4069,26 @@ Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und
 Ertragslage der Kapitalgesellschaft zu vermitteln. Führen besondere
 Umstände dazu, daß der Jahresabschluß ein den tatsächlichen
 Verhältnissen entsprechendes Bild im Sinne des Satzes 1 nicht
-vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Die
-gesetzlichen Vertreter einer Kapitalgesellschaft, die Inlandsemittent
-im Sinne des § 2 Abs. 7 des Wertpapierhandelsgesetzes und keine
-Kapitalgesellschaft im Sinne des § 327a ist, haben bei der
+vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Macht
+eine Kleinstkapitalgesellschaft von der Erleichterung nach Absatz 1
+Satz 5 Gebrauch, sind nach Satz 2 erforderliche zusätzliche Angaben
+unter der Bilanz zu machen. Es wird vermutet, dass ein unter
+Berücksichtigung der Erleichterungen für Kleinstkapitalgesellschaften
+aufgestellter Jahresabschluss den Erfordernissen des Satzes 1
+entspricht. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die
+Inlandsemittent im Sinne des § 2 Abs. 7 des Wertpapierhandelsgesetzes
+und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der
 Unterzeichnung schriftlich zu versichern, dass nach besten Wissen der
 Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes
 Bild im Sinne des Satzes 1 vermittelt oder der Anhang Angaben nach
 Satz 2 enthält.
 
-(3) Eine Kapitalgesellschaft, die Tochterunternehmen eines nach § 290
-zur Aufstellung eines Konzernabschlusses verpflichteten
-Mutterunternehmens ist, braucht die Vorschriften dieses
-Unterabschnitts und des Dritten und Vierten Unterabschnitts dieses
-Abschnitts nicht anzuwenden, wenn
+(3) Eine Kapitalgesellschaft, die in den Konzernabschluss eines
+Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen
+Union oder einem anderen Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum einbezogen ist, braucht die Vorschriften
+dieses Unterabschnitts und des Dritten und Vierten Unterabschnitts
+dieses Abschnitts nicht anzuwenden, wenn
 
 1.  alle Gesellschafter des Tochterunternehmens der Befreiung für das
     jeweilige Geschäftsjahr zugestimmt haben und der Beschluß nach § 325
@@ -4065,13 +4096,13 @@ Abschnitts nicht anzuwenden, wenn
 
 
 2.  das Mutterunternehmen zur Verlustübernahme nach § 302 des
-    Aktiengesetzes verpflichtet ist oder eine solche Verpflichtung
-    freiwillig übernommen hat und diese Erklärung nach § 325 offengelegt
-    worden ist,
+    Aktiengesetzes oder nach dem für das Mutterunternehmen maßgeblichen
+    Recht verpflichtet ist oder eine solche Verpflichtung freiwillig
+    übernommen hat und diese Erklärung nach § 325 offengelegt worden ist,
 
 
-3.  das Tochterunternehmen in den Konzernabschluss nach den Vorschriften
-    dieses Abschnitts einbezogen worden ist und
+3.  die Kapitalgesellschaft in den Konzernabschluss einbezogen worden ist
+    und
 
 
 4.  die Befreiung des Tochterunternehmens
@@ -4233,6 +4264,11 @@ des aktivierten Betrags nach dem Posten "Eigenkapital" ein
 Sonderposten unter der Bezeichnung "Ausgleichsposten für aktivierte
 eigene Anteile" zu bilden ist.
 
+(5) Macht die Gesellschaft von einem Wahlrecht nach § 266 Absatz 1
+Satz 3 oder Satz 4 Gebrauch, richtet sich die Gliederung der
+verkürzten Bilanz nach der Ausübung dieses Wahlrechts. Die Ermittlung
+der Bilanzposten nach den vorstehenden Absätzen bleibt unberührt.
+
 
 ###### § 264d Kapitalmarktorientierte Kapitalgesellschaft
 
@@ -4319,6 +4355,10 @@ Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen nur eine
 verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3
 mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und
 in der vorgeschriebenen Reihenfolge aufgenommen werden.
+Kleinstkapitalgesellschaften (§ 267a) brauchen nur eine verkürzte
+Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit
+Buchstaben bezeichneten Posten gesondert und in der vorgeschriebenen
+Reihenfolge aufgenommen werden.
 
 (2) Aktivseite
 
@@ -4608,6 +4648,36 @@ Berufsausbildung Beschäftigten.
 
 (6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen
 nach anderen Gesetzen bleiben unberührt.
+
+
+###### § 267a Kleinstkapitalgesellschaften
+
+(1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften,
+die mindestens zwei der drei nachstehenden Merkmale nicht
+überschreiten:
+
+1.  350 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite
+    ausgewiesenen Fehlbetrags (§ 268 Absatz 3);
+
+
+2.  700 000 Euro Umsatzerlöse in den zwölf Monaten vor dem
+    Abschlussstichtag;
+
+
+3.  im Jahresdurchschnitt zehn Arbeitnehmer.
+
+
+
+Die Bilanzsumme setzt sich aus den Posten zusammen, die in den
+Buchstaben A bis E des § 266 Absatz 2 aufgeführt sind, wobei bei
+Ausübung des in § 274a Nummer 5 geregelten Wahlrechts der betreffende
+Buchstabe nicht berücksichtigt wird. § 267 Absatz 4 bis 6 gilt
+entsprechend.
+
+(2) Die in diesem Gesetz für kleine Kapitalgesellschaften (§ 267
+Absatz 1) vorgesehenen besonderen Regelungen gelten für
+Kleinstkapitalgesellschaften entsprechend, soweit nichts anderes
+geregelt ist.
 
 
 ###### § 268 Vorschriften zu einzelnen Posten der Bilanz Bilanzvermerke
@@ -5033,6 +5103,36 @@ angegebenen Reihenfolge gesondert auszuweisen.
 Gewinn- und Verlustrechnung erst nach dem Posten
 "Jahresüberschuß/Jahresfehlbetrag" ausgewiesen werden.
 
+(5) Kleinstkapitalgesellschaften (§ 267a) können anstelle der
+Staffelungen nach den Absätzen 2 und 3 die Gewinn- und Verlustrechnung
+wie folgt darstellen:
+
+1.  Umsatzerlöse,
+
+
+2.  sonstige Erträge,
+
+
+3.  Materialaufwand,
+
+
+4.  Personalaufwand,
+
+
+5.  Abschreibungen,
+
+
+6.  sonstige Aufwendungen,
+
+
+7.  Steuern,
+
+
+8.  Jahresüberschuss/Jahresfehlbetrag.
+
+
+
+
 
 ###### § 276 Größenabhängige Erleichterungen
 
@@ -5041,7 +5141,10 @@ die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu
 einem Posten unter der Bezeichnung "Rohergebnis" zusammenfassen.
 Kleine Kapitalgesellschaften brauchen außerdem die in § 277 Abs. 4
 Satz 2 und 3 verlangten Erläuterungen zu den Posten "außerordentliche
-Erträge" und "außerordentliche Aufwendungen" nicht zu machen.
+Erträge" und "außerordentliche Aufwendungen" nicht zu machen. Die
+Erleichterungen nach Satz 1 oder 2 gelten nicht für
+Kleinstkapitalgesellschaften (§ 267a), die von der Regelung des § 275
+Absatz 5 Gebrauch machen.
 
 
 ###### § 277 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
@@ -5788,7 +5891,8 @@ wenn
     (Zweckgesellschaft). Neben Unternehmen können Zweckgesellschaften auch
     sonstige juristische Personen des Privatrechts oder unselbständige
     Sondervermögen des Privatrechts, ausgenommen Spezial-Sondervermögen im
-    Sinn des § 2 Abs. 3 des Investmentgesetzes, sein.
+    Sinn des § 2 Abs. 3 des Investmentgesetzes oder vergleichbare
+    ausländische Investmentvermögen, sein.
 
 
 
@@ -7906,17 +8010,17 @@ Satz 3 und § 340l Abs. 2 Satz 4 bleiben unberührt.
 ##### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
 (1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften
-mit Sitz in einem anderen Mitgliedstaat der Europäischen
-Wirtschaftsgemeinschaft oder Vertragsstaat des Abkommens über den
-Europäischen Wirtschaftsraum haben die in § 13e Abs. 2 Satz 4 Nr. 3
-genannten Personen oder, wenn solche nicht angemeldet sind, die
-gesetzlichen Vertreter der Gesellschaft für diese die Unterlagen der
-Rechnungslegung der Hauptniederlassung, die nach dem für die
-Hauptniederlassung maßgeblichen Recht erstellt, geprüft und
-offengelegt worden sind, nach den §§ 325, 328, 329 Abs. 1 und 4
-offenzulegen. Die Unterlagen sind in deutscher Sprache einzureichen.
-Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist,
-können die Unterlagen der Hauptniederlassung auch
+mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+haben die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen oder, wenn
+solche nicht angemeldet sind, die gesetzlichen Vertreter der
+Gesellschaft für diese die Unterlagen der Rechnungslegung der
+Hauptniederlassung, die nach dem für die Hauptniederlassung
+maßgeblichen Recht erstellt, geprüft und offengelegt oder hinterlegt
+worden sind, nach den §§ 325, 328, 329 Abs. 1 und 4 offenzulegen. Die
+Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht
+die Amtssprache am Sitz der Hauptniederlassung ist, können die
+Unterlagen der Hauptniederlassung auch
 
 1.  in englischer Sprache oder
 
@@ -7940,13 +8044,34 @@ beglaubigte Übersetzung in deutscher Sprache einzureichen.
 Kreditinstituten im Sinne des § 340 oder von Versicherungsunternehmen
 im Sinne des § 341 errichtet werden.
 
+(3) Bei der Anwendung von Absatz 1 ist für die Einstufung einer
+Kapitalgesellschaft als Kleinstkapitalgesellschaft (§ 267a) und für
+die Geltung von Erleichterungen bei der Rechnungslegung das Recht des
+anderen Mitgliedstaates der Europäischen Union oder das Recht des
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+maßgeblich. Darf eine Kleinstkapitalgesellschaft nach dem für sie
+maßgeblichen Recht die Offenlegungspflicht durch die Hinterlegung der
+Bilanz erfüllen, darf sie die Offenlegung nach Absatz 1 ebenfalls
+durch Hinterlegung bewirken. § 326 Absatz 2 gilt entsprechend.
 
-##### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften bei der Offenlegung
 
-Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1 mit
-der Maßgabe anzuwenden, daß die gesetzlichen Vertreter nur die Bilanz
-und den Anhang einzureichen haben. Der Anhang braucht die die Gewinn-
-und Verlustrechnung betreffenden Angaben nicht zu enthalten.
+##### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung
+
+(1) Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1
+mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter nur die
+Bilanz und den Anhang einzureichen haben. Der Anhang braucht die die
+Gewinn- und Verlustrechnung betreffenden Angaben nicht zu enthalten.
+
+(2) Die gesetzlichen Vertreter von Kleinstkapitalgesellschaften (§
+267a) können ihre sich aus § 325 ergebenden Pflichten auch dadurch
+erfüllen, dass sie die Bilanz in elektronischer Form zur dauerhaften
+Hinterlegung beim Betreiber des Bundesanzeigers einreichen und einen
+Hinterlegungsauftrag erteilen. § 325 Absatz 1 Satz 2 und 6 ist
+entsprechend anzuwenden. Kleinstkapitalgesellschaften dürfen von dem
+in Satz 1 geregelten Recht nur Gebrauch machen, wenn sie gegenüber dem
+Betreiber des Bundesanzeigers mitteilen, dass sie zwei der drei in §
+267a Absatz 1 genannten Merkmale für die nach § 267 Absatz 4
+maßgeblichen Abschlussstichtage nicht überschreiten.
 
 
 ##### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
@@ -8102,18 +8227,20 @@ Bundesanzeigers eingereicht worden sind.
 
 (3) Absatz 1 Nr. 1 ist auf den Lagebericht, den Konzernlagebericht,
 den Vorschlag für die Verwendung des Ergebnisses und den Beschluß über
-seine Verwendung sowie auf die Aufstellung des Anteilsbesitzes
-entsprechend anzuwenden. Werden die in Satz 1 bezeichneten Unterlagen
-nicht gleichzeitig mit dem Jahresabschluß oder dem Konzernabschluß
-offengelegt, so ist bei ihrer nachträglichen Offenlegung jeweils
-anzugeben, auf welchen Abschluß sie sich beziehen und wo dieser
-offengelegt worden ist; dies gilt auch für die nachträgliche
-Offenlegung des Bestätigungsvermerks oder des Vermerks über seine
-Versagung.
+seine Verwendung entsprechend anzuwenden. Werden die in Satz 1
+bezeichneten Unterlagen nicht gleichzeitig mit dem Jahresabschluß oder
+dem Konzernabschluß offengelegt, so ist bei ihrer nachträglichen
+Offenlegung jeweils anzugeben, auf welchen Abschluß sie sich beziehen
+und wo dieser offengelegt worden ist; dies gilt auch für die
+nachträgliche Offenlegung des Bestätigungsvermerks oder des Vermerks
+über seine Versagung.
 
 (4) Die Rechtsverordnung nach § 330 Abs. 1 Satz 1, 4 und 5 kann dem
 Betreiber des Bundesanzeigers Abweichungen von der Kontoform nach §
 266 Abs. 1 Satz 1 gestatten.
+
+(5) Für die Hinterlegung der Bilanz einer Kleinstkapitalgesellschaft
+(§ 326 Absatz 2) gilt Absatz 1 entsprechend.
 
 
 ##### § 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers
@@ -8357,17 +8484,17 @@ Kapitalgesellschaft
         Abs. 2 über Form oder Inhalt,
 
 
-    b)  des § 253 Abs. 1 Satz 1, 2, 3 oder Satz 4, Abs. 2 Satz 1, auch in
-        Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder 5, des §
-        254 oder des § 256a über die Bewertung,
+    b)  des § 253 Absatz 1 Satz 1, 2, 3, 4, 5 oder Satz 6, Abs. 2 Satz 1, auch
+        in Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder 5, des
+        § 254 oder des § 256a über die Bewertung,
 
 
     c)  des § 265 Abs. 2, 3, 4 oder 6, der §§ 266, 268 Abs. 2, 3, 4, 5, 6 oder
         7, der §§ 272, 274, 275 oder des § 277 über die Gliederung oder
 
 
-    d)  des § 284 oder des § 285 über die in der Bilanz oder im Anhang zu
-        machenden Angaben,
+    d)  des § 284 oder des § 285 über die in der Bilanz, unter der Bilanz oder
+        im Anhang zu machenden Angaben,
 
 
 
@@ -8411,8 +8538,8 @@ Kapitalgesellschaft
     Abs. 1 oder 4 über den Inhalt des Konzernlageberichts,
 
 
-5.  bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer
-    Vorschrift des § 328 über Form oder Inhalt oder
+5.  bei der Offenlegung, Hinterlegung, Veröffentlichung oder
+    Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
 
 
 6.  einer auf Grund des § 330 Abs. 1 Satz 1 erlassenen Rechtsverordnung,
@@ -8566,20 +8693,20 @@ Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
 
 (6) Liegen dem Bundesamt in einem Verfahren nach den Absätzen 1 bis 3
 keine Anhaltspunkte über die Einstufung einer Gesellschaft im Sinn des
-§ 267 Abs. 1, 2 oder Abs. 3 vor, ist den in Absatz 1 Satz 1 und 2
-bezeichneten Beteiligten zugleich mit der Androhung des Ordnungsgeldes
-aufzugeben, im Fall des Einspruchs die Bilanzsumme nach Abzug eines
-auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs. 3), die
-Umsatzerlöse in den ersten zwölf Monaten vor dem Abschlussstichtag (§
-277 Abs. 1) und die durchschnittliche Zahl der Arbeitnehmer (§ 267
-Abs. 5) für das betreffende Geschäftsjahr und für diejenigen
-vorausgehenden Geschäftsjahre, die für die Einstufung nach § 267 Abs.
-1, 2 oder Abs. 3 erforderlich sind, anzugeben. Unterbleiben die
-Angaben nach Satz 1, so wird für das weitere Verfahren vermutet, dass
-die Erleichterungen der §§ 326 und 327 nicht in Anspruch genommen
-werden können. Die Sätze 1 und 2 gelten für den Konzernabschluss und
-den Konzernlagebericht entsprechend mit der Maßgabe, dass an die
-Stelle der §§ 267, 326 und 327 der § 293 tritt.
+§ 267 Abs. 1, 2 oder Abs. 3 oder § 267a vor, ist den in Absatz 1 Satz
+1 und 2 bezeichneten Beteiligten zugleich mit der Androhung des
+Ordnungsgeldes aufzugeben, im Fall des Einspruchs die Bilanzsumme nach
+Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs.
+3), die Umsatzerlöse in den ersten zwölf Monaten vor dem
+Abschlussstichtag (§ 277 Abs. 1) und die durchschnittliche Zahl der
+Arbeitnehmer (§ 267 Abs. 5) für das betreffende Geschäftsjahr und für
+diejenigen vorausgehenden Geschäftsjahre, die für die Einstufung nach
+§ 267 Abs. 1, 2 oder Abs. 3 oder § 267a erforderlich sind, anzugeben.
+Unterbleiben die Angaben nach Satz 1, so wird für das weitere
+Verfahren vermutet, dass die Erleichterungen der §§ 326 und 327 nicht
+in Anspruch genommen werden können. Die Sätze 1 und 2 gelten für den
+Konzernabschluss und den Konzernlagebericht entsprechend mit der
+Maßgabe, dass an die Stelle der §§ 267, 326 und 327 der § 293 tritt.
 
 
 ##### § 335a (weggefallen)
@@ -8614,7 +8741,8 @@ folgenden Vorschriften nichts anderes bestimmt ist, § 264 Abs. 1 Satz
 Lagebericht entsprechend anzuwenden; § 277 Abs. 3 Satz 1, § 285 Nr. 6
 und 17 brauchen jedoch nicht angewendet zu werden. Sonstige
 Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben
-unberührt.
+unberührt. Die Erleichterungen für Kleinstkapitalgesellschaften (§
+267a) sind auf Genossenschaften nicht anzuwenden.
 
 (3) § 330 Abs. 1 über den Erlaß von Rechtsverordnungen ist
 entsprechend anzuwenden.

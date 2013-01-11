@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 1185
 
-Zuletzt geändert durch
-:   Art. 7 G v. 9.12.2010 I 1900
-
+Stand: Zuletzt geändert Art. 4 G v. 20.12.2012 I 2751
 
 ## Übersicht
 
@@ -687,6 +685,19 @@ Verbindlichkeiten anzuwenden, wenn
 Auf später fällig werdende Verbindlichkeiten im Sinne des Satzes 1 ist
 das bisher geltende Recht mit der Maßgabe anwendbar, dass die
 Verjährungsfrist ein Jahr beträgt.
+
+
+### § 26f Übergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+
+Die §§ 152, 158 und 160 des Aktiengesetzes in der Fassung des
+Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetzes vom 20.
+Dezember 2012 (BGBl. I S. 2751) sind erstmals auf Jahres- und
+Konzernabschlüsse anzuwenden, die sich auf einen nach dem 30. Dezember
+2012 liegenden Abschlussstichtag beziehen. Auf Jahres- und
+Konzernabschlüsse, die sich auf einen vor dem 31. Dezember 2012
+liegenden Abschlussstichtag beziehen, bleiben die §§ 152, 158 und 160
+des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) in der bis
+zum 27. Dezember 2012 geltenden Fassung anwendbar.
 
 
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform

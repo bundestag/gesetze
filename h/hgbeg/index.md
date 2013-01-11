@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 40 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 20.12.2012 I 2751
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -325,43 +325,7 @@ niedrigere Wertansatz insoweit beibehalten werden, als
 
 
 
-(3) Soweit ein niedrigerer Wertansatz nach den Absätzen 1 und 2 nicht
-beibehalten werden darf oder nicht beibehalten wird, so kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1986
-beginnende Geschäftsjahr oder bei Anwendung auf ein früheres
-Geschäftsjahr nach Artikel 23 in dem früheren Jahresabschluß der
-Unterschiedsbetrag zwischen dem im letzten vorausgehenden
-Jahresabschluß angesetzten Wert und dem nach den Vorschriften des
-Dritten Buchs des Handelsgesetzbuchs anzusetzenden Wert in
-Gewinnrücklagen eingestellt oder für die Nachholung von Rückstellungen
-verwendet werden; dieser Betrag ist nicht Bestandteil des Ergebnisses.
-Satz 1 ist entsprechend auf Beträge anzuwenden, die sich ergeben, wenn
-Rückstellungen oder Sonderposten mit Rücklageanteil wegen
-Unvereinbarkeit mit § 247 Abs. 3, §§ 249, 253 Abs. 1 Satz 2, § 273 des
-Handelsgesetzbuchs aufgelöst werden.
-
-(4) Waren Schulden im Jahresabschluß für das am 31. Dezember 1986
-endende oder laufende Geschäftsjahr mit einem niedrigeren Wert
-angesetzt, als er nach §§ 249, 253 Abs. 1 Satz 2 des
-Handelsgesetzbuchs vorgeschrieben oder zulässig ist, so kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1986
-beginnende Geschäftsjahr oder bei Anwendung auf ein früheres
-Geschäftsjahr nach Artikel 23 in dem früheren Geschäftsjahr der für
-die Nachholung erforderliche Betrag den Rücklagen entnommen werden,
-soweit diese nicht durch Gesetz, Gesellschaftsvertrag oder Satzung für
-andere Zwecke gebunden sind; dieser Betrag ist nicht Bestandteil des
-Ergebnisses oder des Bilanzgewinns.
-
-(5) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
-bis 10 des Bilanzrichtlinien-Gesetzes geänderten Vorschriften die
-bisherige Form der Darstellung oder die bisher angewandten
-Bewertungsmethoden, so sind § 252 Abs. 1 Nr. 6, § 265 Abs. 1, § 284
-Abs. 2 Nr. 3 des Handelsgesetzbuchs bei der erstmaligen Aufstellung
-eines Jahresabschlusses nach den geänderten Vorschriften nicht
-anzuwenden. Außerdem brauchen die Vorjahreszahlen bei der erstmaligen
-Anwendung nicht angegeben zu werden.
-
-(6) Sind bei der erstmaligen Anwendung des § 268 Abs. 2 des
+(3) Sind bei der erstmaligen Anwendung des § 268 Abs. 2 des
 Handelsgesetzbuchs über die Darstellung der Entwicklung des
 Anlagevermögens die Anschaffungs- oder Herstellungskosten eines
 Vermögensgegenstandes des Anlagevermögens nicht ohne
@@ -602,43 +566,7 @@ insoweit beibehalten werden, als
 Nach § 26a Abs. 1 des Gesetzes über das Kreditwesen gebildete
 Vorsorgen können fortgeführt werden.
 
-(3) Soweit ein niedrigerer Wertansatz nach den Absätzen 1 und 2 nicht
-beibehalten werden darf oder nicht beibehalten wird, kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1992
-beginnende Geschäftsjahr der Unterschiedsbetrag zwischen dem im
-letzten vorausgehenden Jahresabschluß angesetzten Wert und dem nach
-den Vorschriften des Dritten Buchs des Handelsgesetzbuchs
-anzusetzenden Wert in Gewinnrücklagen eingestellt oder für die
-Nachholung von Rückstellungen oder die Bildung des Sonderpostens für
-Bankrisiken verwendet werden; dieser Betrag ist nicht Bestandteil des
-Ergebnisses. Satz 1 ist entsprechend auf Beträge anzuwenden, die sich
-ergeben, wenn Rückstellungen oder Sonderposten mit Rücklageanteil
-wegen Unvereinbarkeit mit § 247 Abs. 3, §§ 249, 253 Abs. 1 Satz 2, §
-273 des Handelsgesetzbuchs aufgelöst werden.
-
-(4) Waren Schulden oder der Sonderposten für allgemeine Bankrisiken im
-Jahresabschluß für das am 31. Dezember 1992 endende oder laufende
-Geschäftsjahr mit einem niedrigeren Wert angesetzt, als er nach §§
-249, 253 Abs. 1 Satz 2 oder § 340g des Handelsgesetzbuchs
-vorgeschrieben oder zulässig ist, so kann bei der Aufstellung des
-Jahresabschlusses für das nach dem 31. Dezember 1992 beginnende
-Geschäftsjahr der für die Nachholung erforderliche Betrag den
-Rücklagen entnommen werden, soweit diese nicht durch Gesetz,
-Gesellschaftsvertrag oder Satzung für andere Zwecke gebunden sind;
-dieser Betrag ist nicht Bestandteil des Ergebnisses oder des
-Bilanzgewinns.
-
-(5) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
-bis 10 des Bankbilanzrichtlinie-Gesetzes geänderten Vorschriften die
-bisherige Form der Darstellung oder die bisher angewandten
-Bewertungsmethoden, so sind § 252 Abs. 1 Nr. 6, § 265 Abs. 1, § 284
-Abs. 2 Nr. 3 des Handelsgesetzbuchs bei der erstmaligen Aufstellung
-eines Jahresabschlusses oder Konzernabschlusses nach den geänderten
-Vorschriften auf diese Änderungen nicht anzuwenden. Außerdem brauchen
-die Vorjahreszahlen bei der erstmaligen Anwendung nicht angegeben zu
-werden.
-
-(6) Sind bei der erstmaligen Anwendung des § 340a in Verbindung mit §
+(3) Sind bei der erstmaligen Anwendung des § 340a in Verbindung mit §
 268 Abs. 2 des Handelsgesetzbuchs über die Darstellung der Entwicklung
 der wie Anlagevermögen behandelten Vermögensgegenstände die
 Anschaffungs- oder Herstellungskosten eines Vermögensgegenstands nicht
@@ -728,42 +656,11 @@ insoweit beibehalten werden, als er aus den Gründen des § 253 Abs. 3,
 §§ 254, 279 Abs. 2, § 280 Abs. 2 des Handelsgesetzbuchs angesetzt
 worden ist.
 
-(3) Soweit ein niedrigerer Wertansatz nach den Absätzen 1 und 2 nicht
-beibehalten werden darf oder nicht beibehalten wird, kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1994
-beginnende Geschäftsjahr der Unterschiedsbetrag zwischen dem im
-letzten vorausgehenden Jahresabschluß angesetzten Wert und dem nach
-den Vorschriften des Dritten Buches des Handelsgesetzbuchs
-anzusetzenden Wert in Gewinnrücklagen eingestellt oder für die
-Nachholung von Rückstellungen verwendet werden; dieser Betrag ist
-nicht Bestandteil des Ergebnisses. Satz 1 ist entsprechend auf Beträge
-anzuwenden, die sich ergeben, wenn Rückstellungen oder Sonderposten
-mit Rücklageanteil wegen Unvereinbarkeit mit § 247 Abs. 3, §§ 249, 253
-Abs. 1 Satz 2, § 273 des Handelsgesetzbuchs aufgelöst werden.
-Vereinbarungen über die Beteiligung der Versicherungsnehmer am
-Überschuß bleiben unberührt.
+(3) (weggefallen)
 
-(4) Waren Schulden, insbesondere versicherungstechnische
-Rückstellungen, im Jahresabschluß für das am 31. Dezember 1994 endende
-oder laufende Geschäftsjahr mit einem niedrigeren Wert angesetzt, als
-er nach §§ 249, 253 Abs. 1 Satz 2 oder §§ 341e bis 341h des
-Handelsgesetzbuchs vorgeschrieben oder zulässig ist, so kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1994
-beginnende Geschäftsjahr der für die Nachholung erforderliche Betrag
-den Rücklagen entnommen werden, soweit diese nicht durch Gesetz,
-Gesellschaftsvertrag oder Satzung für andere Zwecke gebunden sind;
-dieser Betrag ist nicht Bestandteil des Ergebnisses oder des
-Bilanzgewinns.
+(4) (weggefallen)
 
-(5) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
-bis 5 des Versicherungsbilanzrichtlinie-Gesetzes geänderten
-Vorschriften die bisherige Form der Darstellung oder die bisher
-angewandten Bewertungsmethoden, so sind § 252 Abs. 1 Nr. 6, § 265 Abs.
-1, § 284 Abs. 2 Nr. 3 des Handelsgesetzbuchs bei der erstmaligen
-Aufstellung eines Jahresabschlusses oder Konzernabschlusses nach den
-geänderten Vorschriften auf diese Änderungen nicht anzuwenden.
-Außerdem brauchen die Vorjahreszahlen bei der erstmaligen Anwendung
-nicht angegeben zu werden.
+(5) (weggefallen)
 
 
 ## Sechster Abschnitt - Übergangsvorschriften zum Gesetz zur Durchführung der Elften gesellschaftsrechtlichen Richtlinie vom 22. Juli 1993
@@ -1770,12 +1667,7 @@ Handelsgesetzbuchs in der bis zum 28. Mai 2009 geltenden Fassung sind
 letztmals auf Jahres- und Konzernabschlüsse für das vor dem 1. Januar
 2010 beginnende Geschäftsjahr anzuwenden.
 
-(6) § 335 Abs. 5 Satz 11 und 12 des Handelsgesetzbuchs in der Fassung
-des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S.
-1102) ist nur vom 29. Mai 2009 bis zum 31. August 2009 anzuwenden und
-tritt am 1. September 2009 außer Kraft.
-
-(7) § 248 Abs. 2 und § 255 Abs. 2a des Handelsgesetzbuchs in der
+(6) § 248 Abs. 2 und § 255 Abs. 2a des Handelsgesetzbuchs in der
 Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009
 (BGBl. I S. 1102) finden nur auf die selbst geschaffenen immateriellen
 Vermögensgegenstände des Anlagevermögens Anwendung, mit deren
@@ -1911,4 +1803,32 @@ Geschäftsjahre anzuwenden.
 (2) § 341c des Handelsgesetzbuchs in der bis zum 24. November 2010
 geltenden Fassung ist letztmals auf Jahres- und Konzernabschlüsse für
 vor dem 1. Januar 2011 beginnende Geschäftsjahre anzuwenden.
+
+
+## Zweiunddreißigster Abschnitt - Übergangsvorschrift zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+
+
+
+### Art 70
+
+(1) Die Erleichterungen für Kleinstkapitalgesellschaften bei der
+Rechnungslegung nach § 264 Absatz 1, § 266 Absatz 1, den §§ 267a, 275
+Absatz 5, § 325a Absatz 2, § 326 Absatz 2 und die Änderungen der §§
+8b, 9, 253, 264 Absatz 2, der §§ 264c, 276, 328, 334 und 335 des
+Handelsgesetzbuchs in der Fassung des Kleinstkapitalgesellschaften-
+Bilanzrechtsänderungsgesetzes vom 20. Dezember 2012 (BGBl. I S. 2751)
+gelten erstmals für Jahres- und Konzernabschlüsse, die sich auf einen
+nach dem 30. Dezember 2012 liegenden Abschlussstichtag beziehen. Für
+Jahres- und Konzernabschlüsse, die sich auf einen vor dem 31. Dezember
+2012 liegenden Abschlussstichtag beziehen, bleiben die in Satz 1
+genannten Vorschriften des Handelsgesetzbuchs in der bis zum 27.
+Dezember 2012 geltenden Fassung weiterhin anwendbar.
+
+(2) § 264 Absatz 3 und § 290 des Handelsgesetzbuchs in der Fassung des
+Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetzes sind
+erstmals auf Jahres- und Konzernabschlüsse für Geschäftsjahre
+anzuwenden, die nach dem 31. Dezember 2012 beginnen. Für Jahres- und
+Konzernabschlüsse für Geschäftsjahre, die vor dem 1. Januar 2013
+beginnen, bleiben die Vorschriften des Handelsgesetzbuchs in der bis
+zum 27. Dezember 2012 geltenden Fassung weiterhin anwendbar.
 
