@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 326
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.9.2012 I 1935
+:   Art. 1 V v. 12.12.2012 I 2657
 
 
 ## Eingangsformel
@@ -1200,7 +1200,7 @@ folgendem Umfang beihilfefähig:
 
 
 
-(2) Von dem Anerkennungsverfahren nach § 18 Absatz 2 Satz 1 Nummer 3
+(2) Von dem Anerkennungsverfahren nach § 18 Absatz 4 Satz 1 Nummer 3
 ist abzusehen, wenn der Festsetzungsstelle nach den probatorischen
 Sitzungen die Feststellung der Therapeutin oder des Therapeuten nach
 Anlage 3 Abschnitt 4 vorgelegt wird, dass die Behandlung bei
@@ -1211,7 +1211,7 @@ dieser Sitzungen hinaus verlängert werden, ist die Festsetzungsstelle
 hierüber unverzüglich zu unterrichten. Aufwendungen für weitere
 Sitzungen sind nur nach vorheriger Anerkennung durch die
 Festsetzungsstelle beihilfefähig. Die Festsetzungsstelle hat hierzu
-ein Gutachten nach § 18 Absatz 2 Satz 1 Nummer 3 zu Art und Umfang der
+ein Gutachten nach § 18 Absatz 4 Satz 1 Nummer 3 zu Art und Umfang der
 notwendigen Behandlung einzuholen.
 
 
@@ -1750,6 +1750,137 @@ Soziotherapie richten sich nach § 37a des Fünften Buches
 Sozialgesetzbuch.
 
 
+#### § 30a Neuropsychologische Therapie
+
+(1) Aufwendungen für ambulante neuropsychologische Therapie sind
+beihilfefähig, wenn sie
+
+1.  der Behandlung akut erworbener Hirnschädigungen oder Hirnerkrankungen
+    dienen, insbesondere nach Schlaganfall oder Schädel-Hirn-Trauma und
+
+
+2.  durchgeführt werden von Fachärztinnen oder Fachärzten
+
+    a)  für Neurologie,
+
+
+    b)  für Nervenheilkunde, Psychiatrie, Psychiatrie und Psychotherapie,
+
+
+    c)  Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder
+
+
+    d)  Neurochirurgie und Kinder- und Jugendpsychiatrie und -psychotherapie,
+
+
+
+    die zusätzlich zu ihrer Gebietsbezeichnung über eine
+    neuropsychologische Zusatzqualifikation verfügen.
+
+
+
+Satz 1 gilt auch bei Behandlungen, die durchgeführt werden von
+
+1.  ärztlichen Psychotherapeutinnen oder Psychotherapeuten,
+
+
+2.  psychologische Psychotherapeutinnen oder Psychotherapeuten oder
+
+
+3.  Kinder- und Jugendpsychotherapeutinnen oder Psychotherapeuten,
+
+
+
+wenn diese über eine neuropsychologische Zusatzqualifikation verfügen.
+Der Umfang der beihilfefähigen Aufwendungen richtet sich nach Absatz
+3\.
+
+(2) Nicht beihilfefähig sind Aufwendungen für eine ambulante
+neuropsychologische Therapie, wenn
+
+1.  ausschließlich angeborene Einschränkungen oder Behinderungen der
+    Hirnleistungsfunktionen ohne sekundäre organische Hirnschädigung
+    behandelt werden, insbesondere Aufmerksamkeitsdefizit-Syndrom mit oder
+    ohne Hyperaktivität (ADHS oder ADS), Intelligenzminderung,
+
+
+2.  es sich um Hirnerkrankungen mit progredientem Verlauf im
+    fortgeschrittenen Stadium, insbesondere mittel- und hochgradige Demenz
+    vom Alzheimertyp, handelt,
+
+
+3.  die Hirnschädigung oder die Hirnerkrankung mit neuropsychologischen
+    Defiziten bei erwachsenen Patientinnen und Patienten länger als fünf
+    Jahre zurückliegt.
+
+
+
+
+(3) Aufwendungen für neuropsychologische Behandlungen sind in
+folgendem Umfang beihilfefähig:
+
+1.  bis zu fünf probatorische Sitzungen sowie
+
+
+2.  bei Einzelbehandlung, gegebenenfalls unter Einbeziehung von
+    Bezugspersonen
+
+    *        *
+        *   wenn eine
+            Behandlungseinheit mindestens
+            25 Minuten dauert
+
+        *   wenn eine
+            Behandlungseinheit mindestens
+            50 Minuten dauert
+
+
+    *        *   Regelfall
+
+        *   120 Behandlungseinheiten
+
+        *   60 Behandlungseinheiten
+
+
+    *        *   Ausnahmefall
+
+        *   40 weitere Behandlungseinheiten
+
+        *   20 weitere Behandlungseinheiten
+
+
+
+
+
+3.  bei Gruppenbehandlung, bei Kindern und Jugendlichen gegebenenfalls
+    unter Einbeziehung von Bezugspersonen
+
+    *        *   wenn eine
+            Behandlungseinheit
+            mindestens
+            50 Minuten dauert
+
+        *   wenn eine
+            Behandlungseinheit
+            mindestens
+            100 Minuten dauert
+
+
+    *        *   80 Behandlungs-
+            einheiten
+
+        *   40 Behandlungs-
+            einheiten
+
+
+
+
+
+
+Bei einer Kombination von Einzel- und Gruppenbehandlung ist die
+gesamte Behandlung nach Satz 1 Nummer 2 beihilfefähig.
+
+
 #### § 31 Fahrtkosten
 
 (1) Aufwendungen für Rettungsfahrten zum Krankenhaus sind
@@ -2040,7 +2171,13 @@ darüber enthält, dass
 
 
 
-Wird die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach
+Für die Anerkennung einer Rehabilitationsmaßnahme nach § 35 Absatz 1
+Nummer 1 ist ein Gutachten nicht notwendig, wenn die
+beihilfeberechtigte oder berücksichtigungsfähige Person mit der
+Mitteilung der Entscheidung über die Pflegebedürftigkeit eine
+Rehabilitationsempfehlung erhalten hat, aus der hervorgeht, dass die
+Durchführung einer solchen Rehabilitationsmaßnahme angezeigt ist. Wird
+die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach
 Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der
 anerkannten Rehabilitationsmaßnahme. In begründeten Ausnahmefällen
 kann die Anerkennung auch nachträglich erfolgen.
@@ -2079,7 +2216,7 @@ Grunde nach anerkannt hat.
 ## Kapitel 3 - Aufwendungen in Pflegefällen
 
 
-### § 37 Grundsatz
+### § 37 Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen
 
 (1) Die Festsetzungsstelle beteiligt sich an den Kosten der Träger für
 eine Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch, wenn
@@ -2094,13 +2231,20 @@ der Pflegeversicherung
 
 
 
-(2) Pflegebedürftige im Sinne des § 14 des Elften Buches
-Sozialgesetzbuch erhalten Beihilfe zu Pflegeleistungen, sobald die
-Voraussetzungen für die Zuordnung zu einer Pflegestufe nach § 15 des
-Elften Buches Sozialgesetzbuch erfüllt sind. Pflegebedürftige, die die
-Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen,
-erhalten auch Beihilfe zu den Aufwendungen für Betreuungsleistungen
-nach § 45b des Elften Buches Sozialgesetzbuch.
+(2) Beihilfeberechtigte und berücksichtigungsfähige Personen erhalten
+Beihilfe zu Pflegeleistungen, wenn sie
+
+1.  pflegebedürftig im Sinne des § 14 des Elften Buches Sozialgesetzbuch
+    sind und sie die Voraussetzungen für die Zuordnung zu einer
+    Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch erfüllen,
+    nach Maßgabe der §§ 38 und 39 oder
+
+
+2.  die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch
+    erfüllen, nach Maßgabe des § 38 Absatz 8 und 9.
+
+
+
 
 
 ### § 38 Häusliche Pflege, Tagespflege und Nachtpflege
@@ -2110,13 +2254,13 @@ Abs. 3 des Elften Buches Sozialgesetzbuch genannten Sätze
 beihilfefähig, soweit sie die in § 14 Abs. 4 des Elften Buches
 Sozialgesetzbuch genannten Verrichtungen zur Sicherstellung der
 Grundpflege und zur hauswirtschaftlichen Versorgung sowie die
-Betreuungsleistungen nach § 36 Absatz 1 Satz 5 des Elften Buches
-Sozialgesetzbuch betreffen und für geeignete Pflegekräfte entstehen,
-die in einem Vertragsverhältnis zur Pflegekasse oder zu einer
-ambulanten Pflegeeinrichtung stehen, mit der die jeweilige Pflegekasse
-einen Versorgungsvertrag abgeschlossen hat. Ausgenommen sind dabei
-Aufwendungen für Leistungen nach Satz 1, soweit sie nach § 27
-beihilfefähig sind. § 36 Abs. 4 Satz 1 des Elften Buches
+Betreuungsleistungen nach § 36 Absatz 1 Satz 5 und § 124 Absatz 1 bis
+3 des Elften Buches Sozialgesetzbuch betreffen und für geeignete
+Pflegekräfte entstehen, die in einem Vertragsverhältnis zur
+Pflegekasse oder zu einer ambulanten Pflegeeinrichtung stehen, mit der
+die jeweilige Pflegekasse einen Versorgungsvertrag abgeschlossen hat.
+Ausgenommen sind dabei Aufwendungen für Leistungen nach Satz 1, soweit
+sie nach § 27 beihilfefähig sind. § 36 Abs. 4 Satz 1 des Elften Buches
 Sozialgesetzbuch gilt entsprechend.
 
 (2) Anstelle der Beihilfe nach Absatz 1 kann auch eine
@@ -2143,15 +2287,30 @@ Pflegezeit beihilfefähig.
 durch eine der in Absatz 1 Satz 1 genannten Pflegekräfte, wird daneben
 anteilige Pauschalbeihilfe nach Absatz 2 gewährt. Die Pauschalbeihilfe
 wird um den Prozentsatz vermindert, zu dem Beihilfe nach Absatz 1
-gewährt wird.
+gewährt wird. Während einer Verhinderungs- oder Kurzzeitpflege nach
+Absatz 7 wird jeweils für bis zu vier Wochen je Kalenderjahr die
+Hälfte der zuvor geleisteten Pauschalbeihilfe gewährt.
+Pflegebedürftige Personen in vollstationären Einrichtungen der Hilfe
+für behinderte Menschen erhalten ungeminderte Pauschalbeihilfe
+anteilig für die Tage, an denen sie sich in häuslicher Pflege
+befinden.
 
 (4) Sind die Voraussetzungen nach Absatz 2 nicht für einen vollen
 Kalendermonat erfüllt, ist die Pauschalbeihilfe um ein Dreißigstel für
-jeden nicht in Anspruch genommenen Tag zu mindern. Verstirbt die oder
-der Pflegebedürftige, wird die Pauschalbeihilfe bis zum Ende des
-Kalendermonats gewährt, in dem der Tod eingetreten ist.
+jeden nicht in Anspruch genommenen Tag zu mindern. Während einer
+Verhinderungs- oder Kurzzeitpflege nach Absatz 7 wird jeweils für bis
+zu vier Wochen je Kalenderjahr die Hälfte der zuvor geleisteten
+Pauschalbeihilfe gewährt. Verstirbt die oder der Pflegebedürftige,
+wird die Pauschalbeihilfe bis zum Ende des Kalendermonats gewährt, in
+dem der Tod eingetreten ist.
 
-(5) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages-
+(5) Werden Leistungen nach den Absätzen 1 bis 3 in ambulant betreuten
+Wohngruppen erbracht, gilt § 38a des Elften Buches Sozialgesetzbuch
+entsprechend. Daneben sind die Kosten der Anschubfinanzierung zur
+Gründung ambulant betreuter Wohngruppen nach den Vorgaben des § 45e
+des Elften Buches Sozialgesetzbuch beihilfefähig.
+
+(6) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages-
 oder Nachtpflege sind nur beihilfefähig, wenn häusliche Pflege nicht
 in ausreichendem Umfang sichergestellt werden kann oder die
 teilstationäre Pflege zur Ergänzung oder Stärkung der häuslichen
@@ -2165,18 +2324,17 @@ häusliche Pflege nach Absatz 1 oder Absatz 2 nach ihrer Wahl
 kombinieren. § 41 Absatz 4 bis 6 des Elften Buches Sozialgesetzbuch
 gilt entsprechend.
 
-(6) Bei Verhinderung der Pflegeperson und bei Kurzzeitpflege gelten
+(7) Bei Verhinderung der Pflegeperson und bei Kurzzeitpflege gelten
 die §§ 39 und 42 des Elften Buches Sozialgesetzbuch entsprechend.
 
-(7) Beihilfeberechtigte und berücksichtigungsfähige Angehörige, die
-die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch
-erfüllen, erhalten Beihilfe zu Aufwendungen für zusätzliche
-Betreuungsleistungen. § 45b des Elften Buches Sozialgesetzbuch gilt
-entsprechend. Wird der Höchstbetrag in einem Kalenderjahr nicht
-ausgeschöpft, kann der nicht verbrauchte Betrag in das folgende
-Kalenderhalbjahr übertragen werden.
+(8) Beihilfeberechtigte und berücksichtigungsfähige Personen nach § 37
+Absatz 2 Nummer 2 mit oder ohne Zuordnung zu einer Pflegestufe nach §
+15 des Elften Buches Sozialgesetzbuch erhalten Beihilfe entsprechend
+den §§ 45b, 123 Absatz 2 Nummer 1 bis 3, Absatz 3 und 4, § 124 Absatz
+1 bis 3 des Elften Buches Sozialgesetzbuch, Absatz 10 sowie im Falle
+der Verhinderung der Pflegeperson nach Absatz 7.
 
-(8) Beihilfe wird auch zu Aufwendungen für Beratungsbesuche im Sinne
+(9) Beihilfe wird auch zu Aufwendungen für Beratungsbesuche im Sinne
 des § 37 Abs. 3 des Elften Buches Sozialgesetzbuch gewährt, soweit für
 den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses
 durch die private oder soziale Pflegeversicherung besteht. § 37 Abs. 4
@@ -2185,15 +2343,16 @@ der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Abs.
 3 des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches
 Sozialgesetzbuch gilt entsprechend.
 
-(9) Beihilfe wird auch zu Aufwendungen für Pflegehilfsmittel nach § 40
-Abs. 1 bis 3 und 5 des Elften Buches Sozialgesetzbuch und für
-Maßnahmen zur Verbesserung des individuellen Wohnumfelds der oder des
-Pflegebedürftigen nach § 40 Abs. 4 des Elften Buches Sozialgesetzbuch
-gewährt. Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn
-auch ein Anspruch auf anteilige Zuschüsse für die jeweiligen
-Leistungen gegen die private oder soziale Pflegeversicherung besteht.
-Bei privater Pflegeversicherung ist der Aufwendungsbetrag dem Grunde
-nach beihilfefähig, aus dem der anteilige Zuschuss berechnet wird.
+(10) Beihilfe wird auch zu Aufwendungen für Pflegehilfsmittel nach §
+40 Abs. 1 bis 3 und 5 des Elften Buches Sozialgesetzbuch und für
+Maßnahmen zur Verbesserung des individuellen Wohnumfelds der
+pflegebedürftigen Person nach § 40 Abs. 4 des Elften Buches
+Sozialgesetzbuch gewährt. Die Aufwendungen nach Satz 1 sind nur
+beihilfefähig, wenn auch ein Anspruch auf anteilige Zuschüsse für die
+jeweiligen Leistungen gegen die private oder soziale
+Pflegeversicherung besteht. Bei privater Pflegeversicherung ist der
+Aufwendungsbetrag dem Grunde nach beihilfefähig, aus dem der anteilige
+Zuschuss berechnet wird.
 
 
 ### § 39 Vollstationäre Pflege
@@ -2267,8 +2426,8 @@ im Kalenderjahr vor der Antragstellung erzielten Einkünfte:
 
 1.  die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften
     verbleibenden Bruttobezüge nach § 1 Absatz 2 Nummer 1 und 3 des
-    Bundesbesoldungsgesetzes mit Ausnahme des kinderbezogenen
-    Familienzuschlags und des Altersteilzeitzuschlags,
+    Bundesbesoldungsgesetzes und der Altersteilzeitzuschlag; ausgenommen
+    ist der kinderbezogene Familienzuschlag,
 
 
 2.  die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften
@@ -2697,23 +2856,7 @@ Kalendertag bei
 Krankenpflege um 10 Prozent der Kosten für die ersten 28 Tage der
 Inanspruchnahme im Kalenderjahr und um 10 Euro je Verordnung.
 
-(4) Die Beihilfe mindert sich um einen Betrag von 10 Euro je
-Kalendervierteljahr je Beihilfeberechtigter, Beihilfeberechtigtem,
-berücksichtigungsfähiger Angehöriger oder berücksichtungsfähigem
-Angehörigen für jede erste Inanspruchnahme von
-
-1.  ambulanten ärztlichen oder psychotherapeutischen Leistungen,
-
-
-2.  zahnärztlichen Leistungen und
-
-
-3.  Leistungen von Heilpraktikerinnen und Heilpraktikern.
-
-
-
-
-(5) Eigenbehalte sind nicht abzuziehen von Aufwendungen für
+(4) Eigenbehalte sind nicht abzuziehen von Aufwendungen für
 
 1.  Kinder bis zur Vollendung des 18. Lebensjahres, außer Fahrtkosten,
 
@@ -2751,18 +2894,18 @@ Angehörigen für jede erste Inanspruchnahme von
 
 
 
-(6) Auf Beihilfeberechtigte und berücksichtigungsfähige Angehörige,
+(5) Auf Beihilfeberechtigte und berücksichtigungsfähige Angehörige,
 die in einem beihilfeergänzenden Standardtarif nach § 257 Abs. 2a in
 Verbindung mit § 314 des Fünften Buches Sozialgesetzbuch oder nach §
 257 Abs. 2a in Verbindung mit § 315 des Fünften Buches
 Sozialgesetzbuch oder einem Basistarif nach § 12 Abs. 1a des
 Versicherungsaufsichtsgesetzes oder beihilfeergänzend bei der
 Postbeamtenkrankenkasse versichert sind, werden die Eigenbehalte nach
-den Absätzen 1 bis 4 mit der Maßgabe angewandt, dass die von der
+den Absätzen 1 bis 3 mit der Maßgabe angewandt, dass die von der
 privaten Krankenversicherung oder der Postbeamtenkrankenkasse
 abgezogenen Selbstbehalte als Eigenbehalte zu berücksichtigen sind.
 
-(7) Das Bundesministerium des Innern kann durch
+(6) Das Bundesministerium des Innern kann durch
 Verwaltungsvorschriften für Beihilfeberechtigte und
 berücksichtigungsfähige Angehörige, die sich besonders
 gesundheitsbewusst verhalten, indem sie regelmäßig an
@@ -3415,7 +3558,8 @@ Abschnitt 2
 
 ### Anlage 2 (zu § 6 Absatz 3 Satz 4) Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
 
-(Fundstelle: BGBl. I 2012, 1947 - 1952)
+(Fundstelle: BGBl. I 2012, 1947 - 1952
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nummer
@@ -3616,8 +3760,7 @@ Abschnitt 2
 
 *    *   11.2
 
-    *   Ausführlicher Krankheitsbericht oder
-        Gutachten
+    *   Ausführlicher Krankheitsbericht oder Gutachten
         (DIN A4 engzeilig maschinengeschrieben)
 
     *   Ausführlicher schriftlicher Krankheits- und Befundbericht
@@ -3627,7 +3770,17 @@ Abschnitt 2
     *   15,00 €
 
 
-*    *   Schriftliche gutachtliche Äußerung
+*    *   Schriftliche gutachterliche Äußerung
+
+    *   16,00 €
+
+
+*    *   11.3
+
+    *   Individuell angefertigter schriftlicher Diätplan bei Ernährungs- und
+        Stoffwechselerkrankungen
+
+    *   8,00 €
 
 
 *    *   **12**
@@ -10725,7 +10878,8 @@ Leistungserbringers entsprechen:
 
 ### Anlage 11 (zu § 25 Absatz 1 und 4) Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
-(Fundstelle: BGBl. I 2012, 2001 - 2009)
+(Fundstelle: BGBl. I 2012, 2001 - 2009
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 ## Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle,
@@ -10902,6 +11056,9 @@ oder einem Arzt verordnet werden:
 
 
 5.7 Epitrainbandage
+
+
+5.8 Ernährungssonde
 
 
 6.1 Fepo-Gerät (funktionelle elektronische Peronaeus-Prothese)
