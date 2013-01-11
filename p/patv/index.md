@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 1702
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.5.2011 I 996
+:   Art. 3 V v. 10.12.2012 I 2630
 
 
 ## Eingangsformel
@@ -219,10 +219,10 @@ Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 (2) Einheiten im Messwesen sind in Übereinstimmung mit dem Gesetz über
-Einheiten im Messwesen und der hierzu erlassenen Ausführungsverordnung
-in den jeweils geltenden Fassungen anzugeben. Bei chemischen Formeln
-sind die auf dem Fachgebiet national oder international anerkannten
-Zeichen und Symbole zu verwenden.
+die Einheiten im Messwesen und die Zeitbestimmung und der hierzu
+erlassenen Ausführungsverordnung in den jeweils geltenden Fassungen
+anzugeben. Bei chemischen Formeln sind die auf dem Fachgebiet national
+oder international anerkannten Zeichen und Symbole zu verwenden.
 
 
 ## Abschnitt 2 - Patentanmeldungen; Patentverfahren
@@ -231,15 +231,10 @@ Zeichen und Symbole zu verwenden.
 
 ### § 3 Form der Einreichung
 
-(1) Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§
-36 des Patentgesetzes) sind beim Deutschen Patent- und Markenamt
+Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§ 36
+des Patentgesetzes) sind beim Deutschen Patent- und Markenamt
 schriftlich einzureichen. Für die elektronische Einreichung ist § 12
 der DPMA-Verordnung maßgebend.
-
-(2) In den Fällen der §§ 8, 14 bis 21 ist die elektronische Form
-ausgeschlossen.
-
-(3) (weggefallen)
 
 
 ### § 4 Erteilungsantrag
@@ -318,10 +313,10 @@ Vertreternummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
 so soll diese angegeben werden.
 
 (6) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so
-ist die Zeichnungsbefugnis glaubhaft zu machen; auf beim Deutschen
-Patent- und Markenamt für die Unterzeichner hinterlegte
-Angestelltenvollmachten ist unter Angabe der hierfür mitgeteilten
-Kennnummer hinzuweisen.
+ist auf Anforderung der Nachweis der Zeichnungsbefugnis vorzulegen.
+Auf beim Deutschen Patent- und Markenamt für die Unterzeichner
+hinterlegte Angestelltenvollmachten ist unter Angabe der hierfür
+mitgeteilten Kennnummer hinzuweisen.
 
 (7) Die Angaben zum geographischen Herkunftsort biologischen Materials
 nach § 34a Satz 1 des Patentgesetzes sind dem Antrag auf einem
@@ -623,9 +618,7 @@ II S. 649), so finden die Bestimmungen der Ausführungsordnung zum
 Patentzusammenarbeitsvertrag unmittelbar Anwendung, soweit diese den
 Standard für die Einreichung von Sequenzprotokollen regelt.
 
-(5) Eine Einreichung der Anmeldung in elektronischer Form per E-Mail
-ist nur möglich, wenn die Anmeldung mit Sequenzprotokoll die für das
-Übertragungsverfahren zulässige Dateigröße nicht überschreiten würde.
+(5) (weggefallen)
 
 
 ### § 12 Zeichnungen
