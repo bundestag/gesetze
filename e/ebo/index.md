@@ -160,6 +160,13 @@ Hinweis auf diesen Absatz vorgesehen sind, erteilen
 
 
 
+### § 3a Grenzbetriebsstrecken und Durchgangsstrecken
+
+Auf Grenzbetriebsstrecken und Durchgangsstrecken dürfen anstelle der
+Vorschriften des zweiten bis fünften Abschnitts mit Ausnahme des § 11
+die entsprechenden Vorschriften des Nachbarstaates angewendet werden.
+
+
 ## Zweiter Abschnitt - Bahnanlagen
 
 
@@ -939,12 +946,34 @@ verwendet werden.
 
     *
 
-*    *   (2) Strecken, auf denen mehr als 100 km/h zugelassen sind, müssen mit
-        Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig zum
-        Halten gebracht und ein unzulässiges Anfahren gegen Halt zeigende
-        Signale selbsttätig verhindert werden kann.
+*    *   (2) Strecken
 
-    *
+    *   mit Signalen, die nach § 14 vorgeschrieben sind und auf denen mehr als
+        80 km/h zugelassen sind,
+
+
+*    *   müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug
+        selbsttätig zum Halten gebracht und ein unzulässiges Anfahren gegen
+        Halt zeigende Signale überwacht werden kann.
+
+
+*    *
+    *   Strecken mit Signalen, die nach § 14 vorgeschrieben sind, auf denen
+
+        1.  mehrere Züge gleichzeitig verkehren und
+
+
+        2.  Reisezugverkehr stattfindet oder mehr als 50 km/h zugelassen sind,
+
+
+
+        müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug
+        selbsttätig zum Halten gebracht werden kann. Zugleitstrecken, bei
+        denen die Voraussetzungen des Satzes 2 Nummer 1 und 2 vorliegen, sind
+        mit technischen Einrichtungen auszurüsten, durch die ein Zug
+        selbsttätig zum Halten gebracht werden kann. Ausnahmen von Satz 2 und
+        Satz 3 sind nach § 3 Absatz 1 Nummer 2 zulässig.
+
 
 *    *   (3) Strecken, auf denen mehr als 160 km/h zugelassen sind, müssen mit
         Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig zum
@@ -954,17 +983,10 @@ verwendet werden.
 
 
 
-   (4) Für Stecken, auf denen bis zu 100 km/h zugelassen sind, können
-
-1.  für Eisenbahnen des Bundes das Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung,
-
-
-2.  für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde
-
-
-
-die Ausrüstung mit Zugbeeinflussung vorschreiben.
+   (4) Für weitere Strecken können die zuständigen
+Eisenbahnaufsichtsbehörden die Ausrüstung mit Zugbeeinflussung oder
+technischen Einrichtungen vorschreiben, wenn die örtlichen
+Verhältnisse oder eine besondere Gefahrensituation dies erfordern.
 
 
 ### § 16 Fernmeldeanlagen
@@ -1276,8 +1298,25 @@ Ausrüstung haben:
 4.  Zugbeeinflussung, durch die ein Zug selbsttätig zum Halten gebracht
     und bei Fahrzeugen mit einer zulässigen Geschwindigkeit von mehr als
     30 km/h ein unzulässiges Anfahren gegen Halt zeigende Signale
-    selbsttätig verhindert werden kann, wenn die Fahrzeuge auf Strecken
-    mit Zugbeeinflussung nach § 15 Abs. 2 verkehren,
+    überwacht werden kann, wenn die Fahrzeuge auf Strecken mit
+    Zugbeeinflussung nach § 15 Absatz 2 Satz 1 verkehren,
+
+
+4a. Zugbeeinflussung, durch die ein Zug selbsttätig zum Halten gebracht
+    werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung nach
+    § 15 Absatz 2 Satz 2 verkehren,
+
+
+4b. technische Einrichtung, durch die ein Zug selbsttätig zum Halten
+    gebracht werden kann, wenn die Fahrzeuge auf Strecken mit technischen
+    Einrichtungen nach § 15 Absatz 2 Satz 3 verkehren,
+
+
+4c. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug
+    selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf
+    Strecken mit Zugbeeinflussung oder technischen Einrichtungen
+    verkehren, auf denen eine solche Ausrüstung nach § 15 Absatz 4
+    vorgeschrieben worden ist,
 
 
 5.  Zugbeeinflussung, durch die ein Zug selbsttätig zum Halten gebracht
@@ -1717,42 +1756,46 @@ und von den Vorschriften der folgenden Absätze.
 
 (2) Die zulässige Geschwindigkeit beträgt
 
-*    *   1.
+1.  für Reisezüge mit durchgehender Bremse
 
-    *   für Reisezüge mit durchgehender Bremse
+    *        *   250 km/h,
+            wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Absatz
+            3, § 28 Absatz 1 Nummer 5) ausgerüstet sind und diese wirksam ist,
+            oder 160 km/h, wenn Strecke und führende Fahrzeuge mit
+            Zugbeeinflussung (§ 15 Absatz 2 Satz 1, § 28 Absatz 1 Nummer 4)
+            ausgerüstet sind und diese wirksam ist, sonst 50 km/h;
 
-
-*    *   250 km/h,
-        wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Abs. 3,
-        § 28 Abs. 1 Nr. 5) ausgerüstet sind und diese wirksam ist, oder 160
-        km/h,
-        wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Abs. 2,
-        § 28 Abs. 1 Nr. 4) ausgerüstet sind und diese wirksam ist, sonst 100
-        km/h;
-
-    *   100 km/h,
-        wenn die in den §§ 5, 6, 11, 15 Abs. 1, 16 Abs. 1 und 35 Abs. 4
-        genannten,  für Hauptbahnen geltenden Vorschriften eingehalten sind
-        und bei  Zugleitbetrieb (§ 39) die Sicherheit durch technische
-        Einrichtungen  gewährleistet ist, sonst 80 km/h;
-
-
-*    *   2.
-
-    *   für Güterzüge mit durchgehender Bremse
+        *   100 km/h,
+            wenn die in den §§ 5, 6, 11, 15 Absatz 1, § 16 Absatz 1 und § 35
+            Absatz 4 genannten, für Hauptbahnen geltenden Vorschriften eingehalten
+            sind, sonst 80 km/h; abweichend davon beträgt die zulässige
+            Geschwindigkeit 50 km/h, wenn die Zugbeeinflussung der Strecke oder
+            des führenden Fahrzeuges vorübergehend nicht wirksam ist oder bei
+            Zugleitbetrieb die Sicherheit durch technische Einrichtungen
+            vorübergehend nicht gewährleistet ist;
 
 
-*    *   120 km/h,
-        wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 (Abs.
-        2, § 28 Abs. 1 Nr. 4) ausgerüstet sind und diese wirksam ist, sonst
-        100 km/h;
-
-    *   80 km/h;
 
 
-*    *   3.
 
-    *   für Züge ohne durchgehende Bremse 50 km/h.
+2.  für Güterzüge mit durchgehender Bremse
+
+    *        *   120 km/h,
+            wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Absatz
+            2 Satz 1, § 28 Absatz 1 Nummer 4) ausgerüstet sind und diese wirksam
+            ist, sonst 50 km/h;
+
+        *   80 km/h;
+            abweichend davon beträgt die zulässige Geschwindigkeit 50 km/h, wenn
+            die Zugbeeinflussung der Strecke oder des führenden Fahrzeuges
+            vorübergehend nicht wirksam ist oder bei Zugleitbetrieb die Sicherheit
+            durch technische Einrichtungen vorübergehend nicht gewährleistet ist;
+
+
+
+
+
+3.  für Züge ohne durchgehende Bremse 50 km/h.
 
 
 
@@ -1892,18 +1935,7 @@ wechseln; ferngesteuerte Rangierfahrten dürfen unbesetzt sein.
 
 (3) Sofern in den Absätzen 4 und 6 nichts anderes bestimmt ist, sind
 führende Fahrzeuge in Zügen außerdem mit einem Triebfahrzeugbegleiter
-zu besetzen, wenn sie
-
-1.  keine wirksame Sicherheitsfahrschaltung haben oder
-
-
-2.  mit mehr als 140 km/h ohne Zugbeeinflussung fahren, durch die ein Zug
-    selbsttätig zum Halten gebracht werden kann und vorgeschriebene
-    Geschwindigkeitsverminderungen zeit- und wegeabhängig überwacht
-    werden.
-
-
-
+zu besetzen, wenn sie keine wirksame Sicherheitsfahrschaltung haben.
 Der Triebfahrzeugbegleiter hat sich an der Strecken- und
 Signalbeobachtung zu beteiligen und den Zug erforderlichenfalls zum
 Halten zu bringen.
@@ -2181,18 +2213,30 @@ Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs.
 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
 
 
-## Siebter Abschnitt - Schlußbestimmungen
+### § 65 Übergangsregelung
+
+Strecken, die am 1. Dezember 2012 die Voraussetzungen nach § 15 Absatz
+2 nicht erfüllen, sind bis zum Ablauf des 31. Dezember 2014
+nachzurüsten. Bis zur Erfüllung der Ausrüstungsanforderungen nach § 15
+Absatz 2 haben die Eisenbahnen anderweitige Maßnahmen zu treffen, die
+die sichere Betriebsführung gewährleisten.
 
 
+### § 66
 
-### § 65 Inkrafttreten
+-
+
+
+### § 66 Inkrafttreten
 
 (1) Diese Verordnung tritt am 28. Mai 1967 in Kraft.
 
 (2)
 Am gleichen Tag treten außer Kraft
-1\.
-2\.
+
+1.
+
+2.
 
 3.  die Eisenbahn-Befähigungsverordnung (EBefVO) vom 22. August 1957
     (Bundesgesetzbl. II S. 1234).
@@ -2205,11 +2249,6 @@ Am gleichen Tag treten außer Kraft
 
 
 
-
-
-### § 66
-
--
 
 
 ### Schlußformel
