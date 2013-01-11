@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2315
 
-Geändert durch
-:   Art. 2 Abs. 89 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 1 V v. 14.12.2012 I 2697
 
 [^F771564_01_BJNR231510008]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/88/EG des
     Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften
@@ -1040,7 +1040,8 @@ zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
 
 ### Anlage 1 (zu den §§ 2, 7, 10, 11, 12, 15, 16) Liste der Seuchen
 
-(Fundstelle: BGBl. I 2008, 2324)
+(Fundstelle: BGBl. I 2008, 2324;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   **Untersuchungsart**
@@ -1090,18 +1091,6 @@ zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
     *
     *   X
 
-
-*    *
-    *
-    *   Epizootisches Ulzeratives Syndrom
-
-    *
-    *   X
-
-    *   X
-
-    *
-    *
 
 *    *
     *
