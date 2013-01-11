@@ -505,9 +505,13 @@ einfachen Verhältnissen darf hierauf verzichtet werden.
 Die Vorschriften des § 14 der EBO gelten entsprechend.
 
 
-## § 15 Streckenblock, Zugbeeinflussung
+## § 15 Zugbeeinflussung
 
-Die Vorschrift des § 15 Abs. 3 der EBO gilt entsprechend.
+Die zuständigen Eisenbahnaufsichtsbehörden können die Ausrüstung mit
+Zugbeeinflussung oder technischen Einrichtungen, durch die ein Zug
+selbsttätig zum Halten gebracht werden kann, vorschreiben, wenn die
+örtlichen Verhältnisse oder eine besondere Gefahrensituation dies
+erfordern.
 
 
 ## § 16 Fernmeldeanlagen
@@ -775,6 +779,13 @@ Ausrüstung haben:
 
 
 3.  Geschwindigkeitsanzeiger,
+
+
+3a. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug
+    selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf
+    Strecken mit Zugbeeinflussung oder technischen Einrichtungen
+    verkehren, auf denen eine solche Ausrüstung nach § 15 vorgeschrieben
+    worden ist,
 
 
 4.  Sicherheitsfahrschaltung, die im Geschwindigkeitsbereich von 20 km/h
