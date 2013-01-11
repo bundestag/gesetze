@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.12.1974 I 3427;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 4.9.2012 I 1854
+:   Art. 2 G v. 5.12.2012 I 2425
 
 
 ## Erster Teil - Anwendungsbereich
