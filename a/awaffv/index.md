@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 2123
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 63 G v. 22.12.2011 I 3044
-
-Mittelbar geändert durch
-:   Art. 3 Abs. 4 G v. 17.7.2009 I 2062
+:   Art. 1 V v. 17.12.2012 I 2698
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -738,7 +735,7 @@ Schießstätte bis zur Beseitigung der Mängel untersagen. Der weitere
 Betrieb oder die Benutzung der Schießstätte ist im Falle der
 Untersagung nach Satz 1 verboten.
 
-[^F770975_02_BJNR212300003BJNE001402360]
+[^F770975_02_BJNR212300003BJNE001403360]
 (3) Die sicherheitstechnischen Anforderungen, die an Schießstätten zu
 stellen sind, ergeben sich aus den „Richtlinien für die Errichtung,
 die Abnahme und das Betreiben von Schießständen
@@ -764,7 +761,7 @@ entsprechende Regeln und veröffentlicht diese im Bundesanzeiger.
 
 
 
-[^F770975_03_BJNR212300003BJNE001402360]
+[^F770975_03_BJNR212300003BJNE001403360]
 (5) Eine Bestellung darf erfolgen, wenn die fachlichen
 Bestellungsvoraussetzungen auf dem Sachgebiet „Sicherheit von
 nichtmilitärischen Schießstätten“
@@ -774,7 +771,7 @@ Anwendung.
 (6) Als anerkannte Schießstandsachverständige gelten auch diejenigen,
 die bis zum 31. März 2008 auf der Grundlage bisheriger
 Schießstandrichtlinien ausgebildet und regelmäßig fortgebildet worden
-sind. Die Anerkennung nach Satz 1 erlischt zum 1. Januar 2013, sofern
+sind. Die Anerkennung nach Satz 1 erlischt zum 1. Januar 2015, sofern
 keine öffentliche Bestellung für das Fachgebiet „Sicherheit von
 nichtmilitärischen Schießständen“ erfolgt ist.
 
@@ -782,8 +779,8 @@ nichtmilitärischen Schießständen“ erfolgt ist.
     die „Richtlinien für die Errichtung, die Abnahme und das Betreiben von
     Schießständen (Schießstandrichtlinien), Stand Januar 2000,
     herausgegeben vom Deutschen Schützenbund, Wiesbaden“.
-[^F770975_02_BJNR212300003BJNE001402360]:     Herausgegeben vom Institut für Sachverständigenwesen e. V., Köln.
-[^F770975_03_BJNR212300003BJNE001402360]: 
+[^F770975_02_BJNR212300003BJNE001403360]:     Herausgegeben vom Institut für Sachverständigenwesen e. V., Köln.
+[^F770975_03_BJNR212300003BJNE001403360]: 
 
 ## Abschnitt 5 - Aufbewahrung von Waffen und Munition
 

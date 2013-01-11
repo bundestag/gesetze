@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 3385
 
 Zuletzt geändert durch
-:   Art. 48 G v. 20.12.2011 I 2854
+:   Art. 1 V v. 19.12.2012 I 2714
 
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
@@ -138,16 +138,16 @@ Hinterbliebenenrente zu berücksichtigen ist.
 ## § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
 
 (1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung
-wird auf monatlich 219 Euro festgesetzt. Dieser Wert setzt sich
+wird auf monatlich 224 Euro festgesetzt. Dieser Wert setzt sich
 zusammen aus dem Wert für
 
-1.  Frühstück von 47 Euro,
+1.  Frühstück von 48 Euro,
 
 
-2.  Mittagessen von 86 Euro und
+2.  Mittagessen von 88 Euro und
 
 
-3.  Abendessen von 86 Euro.
+3.  Abendessen von 88 Euro.
 
 
 
@@ -179,7 +179,7 @@ beschäftigt, sind die Erhöhungswerte nach Satz 1 für Verpflegung der
 Kinder beiden Ehegatten je zur Hälfte zuzurechnen.
 
 (3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft
-wird auf monatlich 212 Euro festgesetzt. Der Wert der Unterkunft nach
+wird auf monatlich 216 Euro festgesetzt. Der Wert der Unterkunft nach
 Satz 1 vermindert sich
 
 1.  bei Aufnahme des Beschäftigten in den Haushalt des Arbeitgebers oder
@@ -214,9 +214,9 @@ entsprechend.
 Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der
 Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen anzusetzen.
 Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit
-außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 3,70
+außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 3,80
 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne
-Sammelheizung oder ohne Bad oder Dusche) mit 3,00 Euro je Quadratmeter
+Sammelheizung oder ohne Bad oder Dusche) mit 3,10 Euro je Quadratmeter
 monatlich bewertet werden. Bestehen gesetzliche
 Mietpreisbeschränkungen, sind die durch diese Beschränkungen
 festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die
