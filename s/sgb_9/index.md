@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 1046, 1047
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 26 G v. 12.4.2012 I 579
+:   Art. 3 G v. 14.12.2012 I 2598
 
 
 ## Teil 1 - Regelungen für behinderte und von Behinderung bedrohte Menschen
@@ -147,7 +147,7 @@ sein
 
 
 4.  die Träger der gesetzlichen Rentenversicherung für Leistungen nach § 5
-    Nr. 1 bis 3, die Träger der Alterssicherung der Landwirte für
+    Nr. 1 bis 3, der Träger der Alterssicherung der Landwirte für
     Leistungen nach § 5 Nr. 1 und 3,
 
 
@@ -396,9 +396,9 @@ Vorschriften Gegenstand solcher Rahmenempfehlungen werden sollen,
 stellt der Rehabilitationsträger das Einvernehmen mit den jeweiligen
 Partnern der Rahmenempfehlungen sicher.
 
-(4) Die Träger der Renten-, Kranken- und Unfallversicherung sowie der
-Alterssicherung der Landwirte können sich bei der Vereinbarung der
-gemeinsamen Empfehlungen durch ihre Spitzenverbände vertreten lassen.
+(4) Die Träger der Renten-, Kranken- und Unfallversicherung können
+sich bei der Vereinbarung der gemeinsamen Empfehlungen durch ihre
+Spitzenverbände vertreten lassen.
 
 (5) An der Vorbereitung der gemeinsamen Empfehlungen werden die Träger
 der Sozialhilfe und der öffentlichen Jugendhilfe über die
@@ -440,10 +440,10 @@ Wochen nach Vorlage des Vorschlags auszuräumen.
 (8) Die Rehabilitationsträger teilen der Bundesarbeitsgemeinschaft für
 Rehabilitation alle zwei Jahre ihre Erfahrungen mit den gemeinsamen
 Empfehlungen mit, die Träger der Renten-, Kranken- und
-Unfallversicherung sowie der Alterssicherung der Landwirte über ihre
-Spitzenverbände. Die Bundesarbeitsgemeinschaft für Rehabilitation
-stellt dem Bundesministerium für Arbeit und Soziales und den Ländern
-eine Zusammenfassung zur Verfügung.
+Unfallversicherung über ihre Spitzenverbände. Die
+Bundesarbeitsgemeinschaft für Rehabilitation stellt dem
+Bundesministerium für Arbeit und Soziales und den Ländern eine
+Zusammenfassung zur Verfügung.
 
 (9) Die gemeinsamen Empfehlungen können durch die regional zuständigen
 Rehabilitationsträger konkretisiert werden.
@@ -2239,11 +2239,11 @@ Betrag erhöht sich entsprechend der Veränderung der Bezugsgröße nach §
 entsprechend.
 
 (4) Abweichend von den Absätzen 1 bis 3 erbringen die
-landwirtschaftlichen Alterskassen und die landwirtschaftlichen
-Krankenkassen Betriebs- und Haushaltshilfe nach den §§ 10 und 36 des
+landwirtschaftliche Alterskasse und die landwirtschaftliche
+Krankenkasse Betriebs- und Haushaltshilfe nach den §§ 10 und 36 des
 Gesetzes über die Alterssicherung der Landwirte und nach den §§ 9 und
 10 des Zweiten Gesetzes über die Krankenversicherung der Landwirte,
-die landwirtschaftlichen Berufsgenossenschaften für die bei ihnen
+die landwirtschaftliche Berufsgenossenschaft für die bei ihr
 versicherten landwirtschaftlichen Unternehmer und im Unternehmen
 mitarbeitenden Ehegatten nach den §§ 54 und 55 des Siebten Buches.
 
@@ -5329,15 +5329,26 @@ gekennzeichneten Ausweises nach § 69 Abs. 5 im Nahverkehr im Sinne des
 verpflichtet zur Zahlung eines tarifmäßigen Zuschlages bei der
 Benutzung zuschlagpflichtiger Züge des Nahverkehrs. Voraussetzung ist,
 dass der Ausweis mit einer gültigen Wertmarke versehen ist. Sie wird
-gegen Entrichtung eines Betrages von 60 Euro für ein Jahr oder 30 Euro
-für ein halbes Jahr ausgegeben. Wird sie vor Ablauf der
-Gültigkeitsdauer zurückgegeben, wird auf Antrag für jeden vollen
-Kalendermonat ihrer Gültigkeit nach Rückgabe ein Betrag von 5 Euro
-erstattet, sofern der zu erstattende Betrag 15 Euro nicht
-unterschreitet; Entsprechendes gilt für jeden vollen Kalendermonat
-nach dem Tod des schwerbehinderten Menschen. Auf Antrag wird eine für
-ein Jahr gültige Wertmarke, ohne dass der Betrag nach Satz 3 zu
-entrichten ist, an schwerbehinderte Menschen ausgegeben,
+gegen Entrichtung eines Betrages von 72 Euro für ein Jahr oder 36 Euro
+für ein halbes Jahr ausgegeben. Der Betrag erhöht sich in
+entsprechender Anwendung des § 77 Absatz 3 erstmals zu dem Zeitpunkt,
+zu dem die nächste Neubestimmung der Beträge der Ausgleichsabgabe
+erfolgt. Liegt dieser Zeitpunkt innerhalb der Gültigkeitsdauer einer
+bereits ausgegebenen Wertmarke, ist der höhere Betrag erst im
+Zusammenhang mit der Ausgabe der darauffolgenden Wertmarke zu
+entrichten. Abweichend von § 77 Absatz 3 Satz 4 sind die sich
+ergebenden Beträge auf den nächsten vollen Eurobetrag aufzurunden. Das
+Bundesministerium für Arbeit und Soziales gibt den Erhöhungsbetrag und
+die sich nach entsprechender Anwendung des § 77 Absatz 3 Satz 3
+ergebenden Beträge im Bundesanzeiger bekannt. Wird die für ein Jahr
+ausgegebene Wertmarke vor Ablauf eines halben Jahres ihrer
+Gültigkeitsdauer zurückgegeben, wird auf Antrag die Hälfte der Gebühr
+erstattet. Entsprechendes gilt für den Fall, dass der schwerbehinderte
+Mensch vor Ablauf eines halben Jahres der Gültigkeitsdauer der für ein
+Jahr ausgegebenen Wertmarke verstirbt. Auf Antrag wird eine für ein
+Jahr gültige Wertmarke, ohne dass der Betrag nach Satz 3 in seiner
+jeweiligen Höhe zu entrichten ist, an schwerbehinderte Menschen
+ausgegeben,
 
 1.  die blind im Sinne des § 72 Abs. 5 des Zwölften Buches oder
     entsprechender Vorschriften oder hilflos im Sinne des § 33b des
@@ -5398,7 +5409,12 @@ die Beförderung
 
 (3) Die durch die unentgeltliche Beförderung nach den Absätzen 1 und 2
 entstehenden Fahrgeldausfälle werden nach Maßgabe der §§ 148 bis 150
-erstattet.
+erstattet. Die Erstattungen sind aus dem Anwendungsbereich der
+Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des
+Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste
+auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr.
+1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S.
+1) ausgenommen.
 
 
 #### § 146 Persönliche Voraussetzungen
@@ -5557,6 +5573,68 @@ bestimmen, dass die Verkehrszählung durch Dritte auf Kosten des
 Unternehmens zu erfolgen hat.
 
 
+#### § 148 Erstattung der Fahrgeldausfälle im Nahverkehr
+
+(1) Die Fahrgeldausfälle im Nahverkehr werden nach einem Prozentsatz
+der von den Unternehmern oder den Nahverkehrsorganisationen im Sinne
+des § 150 Absatz 2 nachgewiesenen Fahrgeldeinnahmen im Nahverkehr
+erstattet.
+
+(2) Fahrgeldeinnahmen im Sinne dieses Kapitels sind alle Erträge aus
+dem Fahrkartenverkauf zum genehmigten Beförderungsentgelt; sie
+umfassen auch Erträge aus der Beförderung von Handgepäck,
+Krankenfahrstühlen, sonstigen orthopädischen Hilfsmitteln, Tieren
+sowie aus erhöhten Beförderungsentgelten.
+
+(3) Werden in einem von mehreren Unternehmern gebildeten
+zusammenhängenden Liniennetz mit einheitlichen oder verbundenen
+Beförderungsentgelten die Erträge aus dem Fahrkartenverkauf
+zusammengefasst und dem einzelnen Unternehmer anteilmäßig nach einem
+vereinbarten Verteilungsschlüssel zugewiesen, so ist der zugewiesene
+Anteil Ertrag im Sinne des Absatzes 2.
+
+(4) Der Prozentsatz im Sinne des Absatzes 1 wird für jedes Land von
+der Landesregierung oder der von ihr bestimmten Behörde für jeweils
+ein Jahr bekannt gemacht. Bei der Berechnung des Prozentsatzes ist von
+folgenden Zahlen auszugehen:
+
+1.  der Zahl der in dem Land in dem betreffenden Kalenderjahr ausgegebenen
+    Wertmarken und der Hälfte der in dem Land am Jahresende in Umlauf
+    befindlichen gültigen Ausweise im Sinne des § 145 Abs. 1 Satz 1 von
+    schwerbehinderten Menschen, die das sechste Lebensjahr vollendet haben
+    und bei denen die Berechtigung zur Mitnahme einer Begleitperson im
+    Ausweis eingetragen ist; Wertmarken mit einer Gültigkeitsdauer von
+    einem halben Jahr werden zur Hälfte, zurückgegebene Wertmarken für
+    jeden vollen Kalendermonat vor Rückgabe zu einem Zwölftel gezählt,
+
+
+2.  der in den jährlichen Veröffentlichungen des Statistischen Bundesamtes
+    zum Ende des Vorjahres nachgewiesenen Zahl der Wohnbevölkerung in dem
+    Land abzüglich der Zahl der Kinder, die das sechste Lebensjahr noch
+    nicht vollendet haben, und der Zahlen nach Nummer 1.
+
+
+
+Der Prozentsatz ist nach folgender Formel zu berechnen:
+Nach Nummer 1 errechnete Zahl
+----------------------------- x 100.
+Nach Nummer 2 errechnete Zahl             Bei der Festsetzung des
+Prozentsatzes sich ergebende Bruchteile von 0,005 und mehr werden auf
+ganze Hundertstel aufgerundet, im Übrigen abgerundet.
+
+(5) Weist ein Unternehmen durch Verkehrszählung nach, dass das
+Verhältnis zwischen den nach diesem Kapitel unentgeltlich beförderten
+Fahrgästen und den sonstigen Fahrgästen den nach Absatz 4
+festgesetzten Prozentsatz um mindestens ein Drittel übersteigt, wird
+neben dem sich aus der Berechnung nach Absatz 4 ergebenden
+Erstattungsbetrag auf Antrag der nachgewiesene, über dem Drittel
+liegende Anteil erstattet. Die Länder können durch Rechtsverordnung
+bestimmen, dass die Verkehrszählung durch Dritte auf Kosten des
+Unternehmens zu erfolgen hat.
+
+(6) Absatz 5 gilt nicht in Fällen des § 150 Absatz 1a.
+
+
 #### § 149 Erstattung der Fahrgeldausfälle im Fernverkehr
 
 (1) Die Fahrgeldausfälle im Fernverkehr werden nach einem Prozentsatz
@@ -5607,6 +5685,73 @@ bei den in Absatz 3 bestimmten Behörden.
 laufende Kalenderjahr in Höhe von insgesamt 80 Prozent des zuletzt für
 ein Jahr festgesetzten Erstattungsbetrages. Die Vorauszahlungen werden
 je zur Hälfte am 15. Juli und am 15. November gezahlt. Der Antrag auf
+Vorauszahlungen gilt zugleich als Antrag im Sinne des Absatzes 1. Die
+Vorauszahlungen sind zurückzuzahlen, wenn Unterlagen, die für die
+Berechnung der Erstattung erforderlich sind, nicht bis zum 31.
+Dezember des auf die Vorauszahlung folgenden Kalenderjahres vorgelegt
+sind.
+
+(3) Die Landesregierung oder die von ihr bestimmte Stelle legt die
+Behörden fest, die über die Anträge auf Erstattung und Vorauszahlung
+entscheiden und die auf den Bund und das Land entfallenden Beträge
+auszahlen. § 11 Abs. 2 bis 4 des Personenbeförderungsgesetzes gilt
+entsprechend.
+
+(4) Erstreckt sich der Nahverkehr auf das Gebiet mehrerer Länder,
+entscheiden die nach Landesrecht zuständigen Landesbehörden dieser
+Länder darüber, welcher Teil der Fahrgeldeinnahmen jeweils auf den
+Bereich ihres Landes entfällt.
+
+(5) Die Unternehmen im Sinne des § 151 Abs. 1 Satz 1 Nr. 1 legen ihren
+Anträgen an das Bundesverwaltungsamt den Anteil der nachgewiesenen
+Fahrgeldeinnahmen im Nahverkehr zugrunde, der auf den Bereich des
+jeweiligen Landes entfällt; für den Nahverkehr von Eisenbahnen des
+Bundes im Sinne des § 147 Abs. 1 Satz 1 Nr. 5 bestimmt sich dieser
+Teil nach dem Anteil der Zugkilometer, die von einer Eisenbahn des
+Bundes mit Zügen des Nahverkehrs im jeweiligen Land erbracht werden.
+
+(6) Hinsichtlich der Erstattungen gemäß § 148 für den Nahverkehr nach
+§ 151 Abs. 1 Satz 1 Nr. 1 und gemäß § 149 sowie der entsprechenden
+Vorauszahlungen nach Absatz 2 wird dieses Kapitel in bundeseigener
+Verwaltung ausgeführt. Die Verwaltungsaufgaben des Bundes erledigt das
+Bundesverwaltungsamt nach fachlichen Weisungen des Bundesministeriums
+für Arbeit und Soziales in eigener Zuständigkeit.
+
+(7) Für das Erstattungsverfahren gelten das
+Verwaltungsverfahrensgesetz und die entsprechenden Gesetze der Länder.
+Bei Streitigkeiten über die Erstattungen und die Vorauszahlungen ist
+der Verwaltungsrechtsweg gegeben.
+
+
+#### § 150 Erstattungsverfahren
+
+(1) Die Fahrgeldausfälle werden auf Antrag des Unternehmers erstattet.
+Bei einem von mehreren Unternehmern gebildeten zusammenhängenden
+Liniennetz mit einheitlichen oder verbundenen Beförderungsentgelten
+können die Anträge auch von einer Gemeinschaftseinrichtung dieser
+Unternehmer für ihre Mitglieder gestellt werden. Der Antrag ist bis
+zum 31. Dezember für das vorangegangene Kalenderjahr zu stellen, und
+zwar für den Nahverkehr nach § 151 Abs. 1 Satz 1 Nr. 1 und für den
+Fernverkehr an das Bundesverwaltungsamt, für den übrigen Nahverkehr
+bei den in Absatz 3 bestimmten Behörden.
+
+(1a) Haben sich in einem Bundesland mehrere Aufgabenträger des
+öffentlichen Personennahverkehrs auf lokaler oder regionaler Ebene zu
+Verkehrsverbünden zusammengeschlossen und erhalten die im
+Zuständigkeitsbereich dieser Aufgabenträger öffentlichen
+Personennahverkehr betreibenden Verkehrsunternehmen für ihre
+Leistungen ein mit diesen Aufgabenträgern vereinbartes Entgelt
+(Bruttoprinzip), können anstelle der antrags- und
+erstattungsberechtigten Verkehrsunternehmen auch die
+Nahverkehrsorganisationen Antrag auf Erstattung der in ihrem
+jeweiligen Gebiet entstandenen Fahrgeldausfälle stellen, sofern die
+Verkehrsunternehmen hierzu ihr Einvernehmen erteilt haben.
+
+(2) Die Unternehmer oder die Nahverkehrsorganisationen im Sinne des
+Absatzes 1a erhalten auf Antrag Vorauszahlungen für das laufende
+Kalenderjahr in Höhe von insgesamt 80 Prozent des zuletzt für ein Jahr
+festgesetzten Erstattungsbetrages. Die Vorauszahlungen werden je zur
+Hälfte am 15. Juli und am 15. November gezahlt. Der Antrag auf
 Vorauszahlungen gilt zugleich als Antrag im Sinne des Absatzes 1. Die
 Vorauszahlungen sind zurückzuzahlen, wenn Unterlagen, die für die
 Berechnung der Erstattung erforderlich sind, nicht bis zum 31.
@@ -5709,6 +5854,25 @@ zuletzt durch Artikel 2 des Gesetzes vom 20. Dezember 1991 (BGBl. I S.
 2317) geändert worden ist, nicht angewendet.
 
 
+#### § 151 Kostentragung
+
+Der Bund trägt die Aufwendungen für die unentgeltliche Beförderung
+
+1.  im Nahverkehr, soweit Unternehmen, die sich überwiegend in der Hand
+    des Bundes oder eines mehrheitlich dem Bund gehörenden Unternehmens
+    befinden (auch in Verkehrsverbünden), erstattungsberechtigte
+    Unternehmer sind sowie
+
+
+2.  im Fernverkehr für die Begleitperson und die mitgeführten Gegenstände
+    im Sinne des § 145 Abs. 2.
+
+
+
+Die Länder tragen die Aufwendungen für die unentgeltliche Beförderung
+im übrigen Nahverkehr.
+
+
 #### § 152 Einnahmen aus Wertmarken
 
 Von den durch die Ausgabe der Wertmarke erzielten jährlichen Einnahmen
@@ -5738,6 +5902,17 @@ Abschlagszahlungen in Höhe des Prozentsatzes, der für das jeweilige
 Vorjahr nach Satz 1 Nr. 2 bekannt gemacht wird, an den Bund
 abzuführen. Die auf den Bund entfallenden Einnahmen sind für jedes
 Haushaltsjahr abzurechnen.
+
+
+#### § 152 Einnahmen aus Wertmarken
+
+Von den durch die Ausgabe der Wertmarke erzielten jährlichen Einnahmen
+erhält der Bund einen Anteil von 27 Prozent. Dieser ist unter
+Berücksichtigung der in der Zeit vom 1. Januar bis 30. Juni eines
+Kalenderjahres eingegangenen Einnahmen zum 15. Juli und unter
+Berücksichtigung der vom 1. Juli bis 31. Dezember eines Kalenderjahres
+eingegangenen Einnahmen zum 15. Januar des darauffolgenden
+Kalenderjahres an den Bund abzuführen.
 
 
 #### § 153 Erfassung der Ausweise
@@ -5775,6 +5950,28 @@ Die zuständigen obersten Landesbehörden teilen dem Bundesministerium
 für Arbeit und Soziales das Ergebnis der Erfassung nach Satz 1
 spätestens bis zum 31. März des Jahres mit, in dem die Prozentsätze
 festzusetzen sind.
+
+
+#### § 153 Erfassung der Ausweise
+
+Die für die Ausstellung der Ausweise nach § 69 Absatz 5 zuständigen
+Behörden erfassen
+
+1.  die am Jahresende im Umlauf befindlichen gültigen Ausweise, getrennt
+    nach Art und besonderen Eintragungen,
+
+
+2.  die im Kalenderjahr ausgegebenen Wertmarken, unterteilt nach der
+    jeweiligen Gültigkeitsdauer und die daraus erzielten Einnahmen,
+
+
+
+als Grundlage für die nach § 148 Absatz 4 Nummer 1 und § 149 Absatz 2
+Nummer 1 zu ermittelnde Zahl der Ausweise und Wertmarken. Die
+zuständigen obersten Landesbehörden teilen dem Bundesministerium für
+Arbeit und Soziales das Ergebnis der Erfassung nach Satz 1 spätestens
+bis zum 31. März des Jahres mit, in dem die Prozentsätze festzusetzen
+sind.
 
 
 #### § 154 Verordnungsermächtigungen
