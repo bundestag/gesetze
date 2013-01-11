@@ -481,7 +481,8 @@ Anspruch genommen werden:
 
 
 (2) Zuständig sind die Orts-, Betriebs- und Innungskrankenkassen, die
-landwirtschaftlichen Krankenkassen, die Deutsche Rentenversicherung
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
+landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See und die Ersatzkassen.
 
 
@@ -537,6 +538,7 @@ des § 218a Abs. 1 des Strafgesetzbuches vorgenommenen Abbruch einer
 Schwangerschaft Leistungen in Anspruch genommen werden.
 
 (2) Zuständig sind die Orts-, Betriebs- und Innungskrankenkassen, die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
 landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See und die Ersatzkassen.
 
@@ -575,12 +577,13 @@ Anspruch genommen werden:
 
 
 
-(2) Zuständig sind die gewerblichen und die landwirtschaftlichen
-Berufsgenossenschaften, die Gemeindeunfallversicherungsverbände, die
-Feuerwehr-Unfallkassen, die Eisenbahn-Unfallkasse, die Unfallkasse
-Post und Telekom, die Unfallkassen der Länder und Gemeinden, die
-gemeinsamen Unfallkassen für den Landes- und kommunalen Bereich und
-die Unfallkasse des Bundes.
+(2) Zuständig sind die gewerblichen Berufsgenossenschaften, die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
+landwirtschaftliche Berufsgenossenschaft, die
+Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die
+Eisenbahn-Unfallkasse, die Unfallkasse Post und Telekom, die
+Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen
+für den Landes- und kommunalen Bereich und die Unfallkasse des Bundes.
 
 
 #### § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte
@@ -650,8 +653,9 @@ der Alterssicherung der Landwirte können in Anspruch genommen werden:
     Rentenversicherung Knappschaft-Bahn-See,
 
 
-3.  in der Alterssicherung der Landwirte die landwirtschaftlichen
-    Alterskassen.
+3.  in der Alterssicherung der Landwirte die Sozialversicherung für
+    Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche
+    Alterskasse.
 
 
 

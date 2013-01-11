@@ -340,18 +340,8 @@ Zuletzt geändert durch
 
 
 
-##### § 179
+##### § 179 (weggefallen)
 
-Gegenstand der Versicherung sind die in diesem Buch vorgeschriebenen
-Leistungen der Krankenkassen an
-1\. u. 2.
-
-3.  Leistungen bei Schwangerschaft und Mutterschaft,
-
-
-
-4\.
-5\. u. 6.
 
 
 ##### (XXXX) §§ 180 und 180a (weggefallen)
