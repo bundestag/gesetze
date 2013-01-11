@@ -1925,7 +1925,10 @@ war.
 #### § 64 Kostenfreiheit
 
 (1) Für das Verfahren bei den Behörden nach diesem Gesetzbuch werden
-keine Gebühren und Auslagen erhoben.
+keine Gebühren und Auslagen erhoben. Abweichend von Satz 1 erhalten
+die Träger der gesetzlichen Rentenversicherung für jede auf der
+Grundlage des § 74a Abs. 2 Satz 1 erteilte Auskunft eine Gebühr von
+10,20 Euro.
 
 (2) Geschäfte und Verhandlungen, die aus Anlass der Beantragung,
 Erbringung oder der Erstattung einer Sozialleistung nötig werden, sind
@@ -2478,16 +2481,15 @@ die jeweils zuständige Einzugsstelle und die Bundesagentur für Arbeit
 durchzuführen.
 
 
-#### § 68 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften und Gerichte, der Behörden der Gefahrenabwehr oder zur Durchsetzung öffentlich-rechtlicher Ansprüche
+#### § 68 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
 
 (1) Zur Erfüllung von Aufgaben der Polizeibehörden, der
-Staatsanwaltschaften und Gerichte, der Behörden der Gefahrenabwehr,
-der Justizvollzugsanstalten oder zur Durchsetzung von öffentlich-
-rechtlichen Ansprüchen in Höhe von mindestens 600 Euro ist es
-zulässig, im Einzelfall auf Ersuchen Name, Vorname, Geburtsdatum,
-Geburtsort, derzeitige Anschrift des Betroffenen, seinen derzeitigen
-oder zukünftigen Aufenthalt sowie Namen und Anschriften seiner
-derzeitigen Arbeitgeber zu übermitteln, soweit kein Grund zur Annahme
+Staatsanwaltschaften und Gerichte, der Behörden der Gefahrenabwehr und
+der Justizvollzugsanstalten dürfen im Einzelfall auf Ersuchen Name,
+Vorname, Geburtsdatum, Geburtsort, derzeitige Anschrift des
+Betroffenen, sein derzeitiger oder zukünftiger Aufenthaltsort sowie
+Namen, Vornamen oder Firma und Anschriften seiner derzeitigen
+Arbeitgeber übermittelt werden, soweit kein Grund zu der Annahme
 besteht, dass dadurch schutzwürdige Interessen des Betroffenen
 beeinträchtigt werden, und wenn das Ersuchen nicht länger als sechs
 Monate zurückliegt. Die ersuchte Stelle ist über § 4 Abs. 3 hinaus zur
@@ -2854,6 +2856,54 @@ Aufgaben und zur Erreichung der in den §§ 16 und 17 des
 Auslandsunterhaltsgesetzes bezeichneten Zwecke erforderlich ist.
 
 
+#### § 74a Übermittlung zur Durchsetzung öffentlich-rechtlicher Ansprüche und im Vollstreckungsverfahren
+
+(1) Zur Durchsetzung von öffentlich-rechtlichen Ansprüchen in Höhe von
+mindestens 500 Euro dürfen im Einzelfall auf Ersuchen Name, Vorname,
+Geburtsdatum, Geburtsort, derzeitige Anschrift des Betroffenen, sein
+derzeitiger oder zukünftiger Aufenthaltsort sowie Namen, Vornamen oder
+Firma und Anschriften seiner derzeitigen Arbeitgeber übermittelt
+werden, soweit kein Grund zu der Annahme besteht, dass dadurch
+schutzwürdige Interessen des Betroffenen beeinträchtigt werden, und
+wenn das Ersuchen nicht länger als sechs Monate zurückliegt. Die
+ersuchte Stelle ist über § 4 Abs. 3 hinaus zur Übermittlung auch dann
+nicht verpflichtet, wenn sich die ersuchende Stelle die Angaben auf
+andere Weise beschaffen kann. Satz 2 findet keine Anwendung, wenn das
+Amtshilfeersuchen zur Durchführung einer Vollstreckung nach § 66
+erforderlich ist.
+
+(2) Zur Durchführung eines Vollstreckungsverfahrens, dem zu
+vollstreckende Ansprüche von mindestens 500 Euro zugrunde liegen,
+dürfen die Träger der gesetzlichen Rentenversicherung im Einzelfall
+auf Ersuchen des Gerichtsvollziehers die derzeitige Anschrift des
+Betroffenen, seinen derzeitigen oder zukünftigen Aufenthaltsort sowie
+Namen, Vornamen oder Firma und Anschriften seiner derzeitigen
+Arbeitgeber übermitteln, soweit kein Grund zu der Annahme besteht,
+dass dadurch schutzwürdige Interessen des Betroffenen beeinträchtigt
+werden und das Ersuchen nicht länger als sechs Monate zurückliegt. Die
+Träger der gesetzlichen Rentenversicherung sind über § 4 Abs. 3 hinaus
+zur Übermittlung auch dann nicht verpflichtet, wenn sich die
+ersuchende Stelle die Angaben auf andere Weise beschaffen kann. Die
+Übermittlung ist nur zulässig, wenn
+
+1.  der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft nach §
+    802c der Zivilprozessordnung nicht nachkommt,
+
+
+2.  bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten
+    Vermögensgegenstände eine vollständige Befriedigung des Gläubigers
+    voraussichtlich nicht zu erwarten wäre oder
+
+
+3.  die Anschrift oder der derzeitige oder zukünftige Aufenthaltsort des
+    Schuldners trotz Anfrage bei der Meldebehörde nicht bekannt ist.
+
+
+
+Der Gerichtsvollzieher hat in seinem Ersuchen zu bestätigen, dass
+diese Voraussetzungen vorliegen.
+
+
 #### § 75 Übermittlung von Sozialdaten für die Forschung und Planung
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
@@ -3132,6 +3182,16 @@ der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der
 ist und wenn die jeweiligen Aufsichtsbehörden die Teilnahme der unter
 ihrer Aufsicht stehenden Stellen genehmigt haben. Das Gleiche gilt
 gegenüber den in § 69 Abs. 2 und 3 genannten Stellen.
+
+(1a) Die Einrichtung eines automatisierten Abrufverfahrens für eine
+Datei der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+ist nur gegenüber den Trägern der gesetzlichen Rentenversicherung, der
+Deutschen Rentenversicherung Bund als zentraler Stelle zur Erfüllung
+ihrer Aufgaben nach § 91 Absatz 1 Satz 1 des Einkommensteuergesetzes,
+den Krankenkassen, der Bundesagentur für Arbeit und der Deutschen Post
+AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen
+betraut ist, zulässig; dabei dürfen auch Vermittlungsstellen
+eingeschaltet werden.
 
 (2) Die beteiligten Stellen haben zu gewährleisten, dass die
 Zulässigkeit des Abrufverfahrens kontrolliert werden kann. Hierzu
@@ -4074,9 +4134,10 @@ von der Deutschen Post AG
 
 
 2.  nur weiter übermittelt werden, um den Trägern der Unfallversicherung,
-    den landwirtschaftlichen Alterskassen und den in § 69 Abs. 2 genannten
-    Zusatzversorgungseinrichtungen eine Aktualisierung ihrer
-    Versichertenbestände oder Mitgliederbestände zu ermöglichen.
+    der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau und
+    den in § 69 Abs. 2 genannten Zusatzversorgungseinrichtungen eine
+    Aktualisierung ihrer Versichertenbestände oder Mitgliederbestände zu
+    ermöglichen.
 
 
 
