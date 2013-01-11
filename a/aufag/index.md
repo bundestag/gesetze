@@ -22,7 +22,7 @@ Zuletzt geändert durch
 ## § 1 Erstattungsanspruch
 
 (1) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
-Krankenkassen erstatten den Arbeitgebern, die in der Regel
+Krankenkasse erstatten den Arbeitgebern, die in der Regel
 ausschließlich der zu ihrer Berufsausbildung Beschäftigten nicht mehr
 als 30 Arbeitnehmer und Arbeitnehmerinnen beschäftigen, 80 Prozent
 
@@ -43,7 +43,7 @@ als 30 Arbeitnehmer und Arbeitnehmerinnen beschäftigen, 80 Prozent
 
 
 (2) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
-Krankenkassen erstatten den Arbeitgebern in vollem Umfang
+Krankenkasse erstatten den Arbeitgebern in vollem Umfang
 
 1.  den vom Arbeitgeber nach § 14 Abs. 1 des Mutterschutzgesetzes
     gezahlten Zuschuss zum Mutterschaftsgeld,

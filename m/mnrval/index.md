@@ -45,14 +45,7 @@ Land- und Forstwirtschaft vergeben worden und ist diese
 Mitgliedsnummer entsprechend § 2 zusammengesetzt, hat die
 landwirtschaftliche Alterskasse diese zu übernehmen.
 
-(2) Zuständig für die Vergabe der Mitgliedsnummer ist die Alterskasse,
-in deren Bereich der Versicherte als Landwirt tätig oder als
-mitarbeitender Familienangehöriger beschäftigt ist. Die Alterskasse
-für den Gartenbau ist zuständig, wenn der Versicherte in einem
-gärtnerischen Unternehmen als Landwirt tätig oder als mitarbeitender
-Familienangehöriger beschäftigt ist.
-
-(3) Eine Mitgliedsnummer wird nur einmal vergeben und nicht
+(2) Eine Mitgliedsnummer wird nur einmal vergeben und nicht
 berichtigt. Ist die Mitgliedsnummer oder sind Bestandteile derselben
 unrichtig, erhält der Versicherte eine neue Mitgliedsnummer; die
 unrichtige Mitgliedsnummer ist nicht mehr zu verwenden. Eine
@@ -79,9 +72,7 @@ Mitgliedsnummern herzustellen ist.
 
 
 (2) Die ersten beiden Stellen der Mitgliedsnummer enthalten die
-Bereichsnummer der die Mitgliedsnummer vergebenden
-landwirtschaftlichen Alterskasse. Die Bereichsnummern ergeben sich aus
-der Anlage 1.
+Bereichsnummer. Die Bereichsnummern ergeben sich aus der Anlage 1.
 
 (3) Die Stellen drei bis zehn der Mitgliedsnummer enthalten die
 achtstellige Seriennummer. Sie bezeichnet in aufsteigender Reihenfolge
@@ -101,73 +92,105 @@ Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1 Bereichsnummern der landwirtschaftlichen Alterskassen
+## Anlage 1 Bereichsnummern
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2398
+(Fundstelle: BGBl. I 2012, 598)
 
+Bereichsnummern für das Gebiet
 
-*    *   Landwirtschaftliche Alterskasse
+–
+    *        *   Schleswig-Holstein und Hamburg
 
-    *   Bereichsnummer
-
-
-*    *   LAK Schleswig-Holsteinische und Hamburg
-
-    *   01
+        *   01
 
 
-*    *   LAK Niedersachsen-Bremen
-
-    *   03
 
 
-*    *   LAK Nordrhein-Westfalen
 
-    *   07
+–
+    *        *   Niedersachsen und Bremen
 
-
-*    *   LAK Hessen, Rheinland-Pfalz und Saarland
-
-    *   08
+        *   03
 
 
-*    *   LAK Franken und Oberbayern
-
-    *   12
 
 
-*    *   LAK Niederbayern/Oberpfalz und Schwaben
 
-    *   13
+–
+    *        *   Nordrhein-Westfalen
 
-
-*    *   LAK Baden-Württemberg
-
-    *   17
+        *   07
 
 
-*    *   AK für den Gartenbau
+
+
+
+–
+    *        *   Hessen, Rheinland-Pfalz und Saarland
+
+        *   08
+
+
+
+
+
+–
+    *        *   Franken und Oberbayern
+
+        *   12
+
+
+
+
+
+–
+    *        *   Niederbayern/Oberpfalz und Schwaben
+
+        *   13
+
+
+
+
+
+–
+    *        *   Baden-Württemberg
+
+        *   17
+
+
+
+
+
+–
+    *        *   Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt, Sachsen
+            und Thüringen
+
+        *   20
+
+
+
+
+
+
+
+
+*    *   Bereichsnummer für den Bereich Gartenbau
 
     *   19
 
 
-*    *   LAK Mittel- und Ostdeutschland
-
-    *   20
 
 
-*    *[^BJNR172400996BJNE000601308_001]
-   Zusatzversorgungskasse für Arbeitnehmer in der Land- und
-        Forstwirtschaft (ZLA)
+
+*    *   Bereichsnummer für die Zusatzversorgungskasse für Arbeitnehmer in der
+        Land- und Forstwirtschaft (bei Vorliegen der Voraussetzungen
+        des § 1 Absatz 1 Satz 3)
 
     *   22
 
 
 
 
-    Für den Fall, dass die LAK die von der ZLA vergebene Mitgliedsnummer
-    nach § 1 Abs. 1 Satz 3 zu übernehmen hat.
-[^BJNR172400996BJNE000601308_001]: 
 
 ## Anlage 2 Prüfziffer
 

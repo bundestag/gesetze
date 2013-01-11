@@ -179,12 +179,12 @@ Falle auch gemeinsam die Stelle, die dessen Geschäfte führt.
 (2) Der Bundeswahlausschuß und jeder Landeswahlausschuß
 (Beschwerdewahlausschüsse) bestehen aus dem Vorsitzenden und sechs
 Beisitzern, die je zur Hälfte Vertreter der Versicherten und Vertreter
-der Arbeitgeber sind; bei Beschwerden gegen Entscheidungen der
-Wahlausschüsse landwirtschaftlicher Berufsgenossenschaften mit
-Ausnahme der Gartenbau-Berufsgenossenschaft treten drei Beisitzer
-hinzu, die zur Gruppe der Selbständigen ohne fremde Arbeitskräfte
-gehören. Der Bundeswahlausschuß kann um einen weiteren Beisitzer je
-Gruppe erweitert werden. Jedes Mitglied hat einen Stellvertreter. Der
+der Arbeitgeber sind; bei Beschwerden gegen Entscheidungen des
+Wahlausschusses der Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau treten drei Beisitzer hinzu, die zur Gruppe der
+Selbständigen ohne fremde Arbeitskräfte gehören. Der
+Bundeswahlausschuß kann um einen weiteren Beisitzer je Gruppe
+erweitert werden. Jedes Mitglied hat einen Stellvertreter. Der
 Vorsitzende und sein Stellvertreter müssen die Befähigung zum
 Richteramt haben und sollen auf dem Gebiet der Sozialversicherung
 erfahren sein. Die Beisitzer und ihre Stellvertreter müssen nach § 51

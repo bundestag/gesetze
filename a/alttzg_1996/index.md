@@ -473,7 +473,7 @@ Inanspruchnahme der Altersteilzeit nach § 2 Abs. 1 Nr. 1 und 2 des
 Zweiten Gesetzes über die Krankenversicherung der Landwirte
 versicherungspflichtig in der Krankenversicherung der Landwirte sind,
 soweit und solange ihnen Krankengeld gezahlt worden wäre, falls sie
-nicht Mitglied einer landwirtschaftlichen Krankenkasse geworden wären.
+nicht Mitglied der landwirtschaftlichen Krankenkasse geworden wären.
 
 (4) Bezieht der Arbeitnehmer Kurzarbeitergeld, gilt für die Berechnung
 der Leistungen des § 3 Abs. 1 Nr. 1 und des § 4 das Entgelt für die
