@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.1.2012 I 35
+:   Art. 1 V v. 20.11.2012 I 2343
 
 
 ## Eingangsformel
@@ -177,8 +177,7 @@ verordnet das Bundesministerium der Finanzen:
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 1.  Rechtsverordnungen nach Maßgabe des § 9 Abs. 4 Nr. 1 bis 5, des § 17
-    Absatz 7 Satz 1, des § 30h Absatz 3 Satz 1 Nummer 1, des § 30i Absatz
-    5 Satz 1, des § 30j Absatz 4 Satz 1 Nummer 1, des § 34 Abs. 4 Satz 1,
+    Absatz 7 Satz 1, des § 30h Absatz 4 Satz 1, des § 34 Abs. 4 Satz 1,
     des § 34a Abs. 5 Satz 1, des § 34d Absatz 6, des § 36 Abs. 5 Satz 1
     und des § 37i Abs. 1 Satz 3 des Wertpapierhandelsgesetzes,
 
