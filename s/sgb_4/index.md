@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710 (3973) (2011 I 363)
 
 Zuletzt geändert durch
-:   Art. 12a G v. 19.10.2012 I 2192
+:   Art. 1 G v. 5.12.2012 I 2474
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -332,7 +332,7 @@ Eine Wertguthabenvereinbarung liegt vor, wenn
     erzielt wird und
 
 
-5.  das fällige Arbeitsentgelt insgesamt 400 Euro monatlich übersteigt, es
+5.  das fällige Arbeitsentgelt insgesamt 450 Euro monatlich übersteigt, es
     sei denn, die Beschäftigung wurde vor der Freistellung als
     geringfügige Beschäftigung ausgeübt.
 
@@ -575,38 +575,18 @@ bringen und in der Mitteilung an den Beschäftigten nach § 7d Absatz 2
 gesondert auszuweisen.
 
 
-#### § 7g Bericht der Bundesregierung
-
-[^f772675_03_BJNR138450976BJNE022601308]
-Die Bundesregierung berichtet den gesetzgebenden Körperschaften bis
-zum 31. März 2012 über die Auswirkungen des Gesetzes zur Verbesserung
-der Rahmenbedingungen für die Absicherung flexibler
-Arbeitszeitregelungen und zur Änderung anderer Gesetze vom 21.
-Dezember 2008 (BGBl. I S. 2940), insbesondere über die Entwicklung der
-Inanspruchnahme und Nutzung der Wertguthaben, den Umfang und die
-Kosten der an die Deutsche Rentenversicherung Bund übertragenen
-Wertguthaben und der wegen Insolvenz des Arbeitgebers ersatzlos
-aufgelösten Wertguthaben und sonstigen Arbeitszeitguthaben, und macht
-gegebenenfalls Vorschläge für eine Weiterentwicklung des
-Insolvenzschutzes.
-
-    Gemäß Artikel 1 Nummer 4 in Verbindung mit Artikel 7 Absatz 5 des
-    Gesetzes vom 21. Dezember 2008 (BGBl. I S. 2940) tritt § 7g am 31.
-    Dezember 2012 außer Kraft.
-[^f772675_03_BJNR138450976BJNE022601308]: 
-
 #### § 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit
 
 (1) Eine geringfügige Beschäftigung liegt vor, wenn
 
-1.  das Arbeitsentgelt aus dieser Beschäftigung regelmäßig im Monat 400
+1.  das Arbeitsentgelt aus dieser Beschäftigung regelmäßig im Monat 450
     Euro nicht übersteigt,
 
 
 2.  die Beschäftigung innerhalb eines Kalenderjahres auf längstens zwei
     Monate oder 50 Arbeitstage nach ihrer Eigenart begrenzt zu sein pflegt
     oder im Voraus vertraglich begrenzt ist, es sei denn, dass die
-    Beschäftigung berufsmäßig ausgeübt wird und ihr Entgelt 400 Euro im
+    Beschäftigung berufsmäßig ausgeübt wird und ihr Entgelt 450 Euro im
     Monat übersteigt.
 
 
@@ -1174,8 +1154,8 @@ Einkommen mit einem Zwölftel zu berücksichtigen.
 
 
     das Arbeitsentgelt von Beschäftigten, die die Voraussetzungen des §
-    172 Absatz 3 des Sechsten Buches erfüllen, und Aufstockungsbeträge
-    nach § 3 Absatz 1 Satz 1 Nummer 1 Buchstabe a des
+    172 Absatz 3 oder § 276a des Sechsten Buches erfüllen, und
+    Aufstockungsbeträge nach § 3 Absatz 1 Satz 1 Nummer 1 Buchstabe a des
     Altersteilzeitgesetzes werden nicht gekürzt, Zuschläge nach § 6 Absatz
     2 des Bundesbesoldungsgesetzes werden um 7,65 vom Hundert gekürzt,
 
@@ -1525,9 +1505,9 @@ Arbeitgeber und Dritter, durch staatliche Zuschüsse und durch sonstige
 Einnahmen aufgebracht.
 
 (2) Eine Gleitzone im Sinne dieses Gesetzbuches liegt bei einem
-Beschäftigungsverhältnis vor, wenn das daraus erzielte Arbeitsentgelt
-zwischen 400,01 Euro und 800,00 Euro im Monat liegt und die Grenze von
-800,00 Euro im Monat regelmäßig nicht überschreitet; bei mehreren
+Beschäftigungsverhältnis mit einem daraus erzielten Arbeitsentgelt von
+450,01 Euro bis 850,00 Euro im Monat vor, das die Grenze von 850,00
+Euro im Monat regelmäßig nicht überschreitet; bei mehreren
 Beschäftigungsverhältnissen ist das insgesamt erzielte Arbeitsentgelt
 maßgebend.
 
@@ -1667,10 +1647,10 @@ folgenden Jahres fällig.
 des Monats fällig, der dem Monat folgt, in dem der Beitragsbescheid
 dem Zahlungspflichtigen bekannt gegeben worden ist; Entsprechendes
 gilt für Beitragsvorschüsse, wenn der Bescheid hierüber keinen anderen
-Fälligkeitstermin bestimmt. Die landwirtschaftlichen
-Berufsgenossenschaften können in ihren Satzungen von Satz 1
-abweichende Fälligkeitstermine bestimmen. Für den Tag der Zahlung und
-die zulässigen Zahlungsmittel gelten die für den
+Fälligkeitstermin bestimmt. Die landwirtschaftliche
+Berufsgenossenschaft kann in ihrer Satzung von Satz 1 abweichende
+Fälligkeitstermine bestimmen. Für den Tag der Zahlung und die
+zulässigen Zahlungsmittel gelten die für den
 Gesamtsozialversicherungsbeitrag geltenden Bestimmungen entsprechend.
 Die Fälligkeit von Beiträgen für geringfügig Beschäftigte in
 Privathaushalten, die nach § 28a Absatz 7 der Einzugsstelle gemeldet
@@ -2101,7 +2081,8 @@ oder nach dem Recht der Arbeitsförderung kraft Gesetzes Versicherten
     erzielt, soweit bekannt,
 
 
-11. (weggefallen)
+11. bei Antrag des geringfügig Beschäftigten nach § 6 Absatz 1b des
+    Sechsten Buches auf Befreiung von der Versicherungspflicht,
 
 
 12. bei einmalig gezahltem Arbeitsentgelt, soweit es nicht in einer
@@ -2253,10 +2234,10 @@ Zusätzlich sind anzugeben
 
 
 
-Arbeitgeber, die Mitglied einer Landwirtschaftlichen
-Berufsgenossenschaft mit Ausnahme der Gartenbau-Berufsgenossenschaft
-sind, haben Meldungen nach Satz 2 Nummer 2 Buchstabe c, f, g und h
-nicht zu erstatten.
+Arbeitgeber, die Mitglied der landwirtschaftlichen
+Berufsgenossenschaft sind und für deren Beitragsberechnung der
+Arbeitswert keine Anwendung findet, haben Meldungen nach Satz 2 Nummer
+2 Buchstabe c, f, g und h nicht zu erstatten.
 
 (3a) Die Datenstelle der Träger der Rentenversicherung übermittelt für
 Zwecke der Berechnung der Umlage nach § 152 des Siebten Buches nach
@@ -2372,7 +2353,7 @@ ist.
 Haushalt Beschäftigten anstelle einer Meldung nach Absatz 1
 unverzüglich eine vereinfachte Meldung (Haushaltsscheck) mit den
 Angaben nach Absatz 8 Satz 1 zu erstatten, wenn das Arbeitsentgelt (§
-14 Absatz 3) aus dieser Beschäftigung regelmäßig 400 Euro im Monat
+14 Absatz 3) aus dieser Beschäftigung regelmäßig 450 Euro im Monat
 nicht übersteigt. Der Arbeitgeber hat der Einzugsstelle eine
 Einzugsermächtigung zum Einzug des Gesamtsozialversicherungsbeitrags
 zu erteilen. Der Haushaltsscheck ist vom Arbeitgeber und vom
@@ -2411,8 +2392,13 @@ Beschäftigten zu unterschreiben. Die Absätze 2 bis 5 gelten nicht.
         Beendigung,
 
 
-    e)  bei Erklärung des Verzichts auf Versicherungsfreiheit nach § 5 Absatz
-        2 Satz 2 des Sechsten Buches den Zeitpunkt des Verzichts.
+    e)  bei Erklärung des Verzichts auf Versicherungsfreiheit nach § 230
+        Absatz 8 Satz 2 des Sechsten Buches den Zeitpunkt des Verzichts,
+
+
+    f)  bei Antrag auf Befreiung von der Versicherungspflicht nach § 6 Absatz
+        1b des Sechsten Buches den Tag des Zugangs des Antrags beim
+        Arbeitgeber.
 
 
 
@@ -2754,7 +2740,7 @@ Kalenderjahren, Entgeltunterlagen im Geltungsbereich dieses Gesetzes
 in deutscher Sprache zu führen und bis zum Ablauf des auf die letzte
 Prüfung (§ 28p) folgenden Kalenderjahres geordnet aufzubewahren. Satz
 1 gilt nicht hinsichtlich der Beschäftigten in privaten Haushalten.
-Die landwirtschaftlichen Krankenkassen können wegen der mitarbeitenden
+Die landwirtschaftliche Krankenkasse kann wegen der mitarbeitenden
 Familienangehörigen Ausnahmen zulassen. Für die Aufbewahrung der
 Beitragsabrechnungen und der Beitragsnachweise gilt Satz 1.
 
@@ -2816,13 +2802,13 @@ Orts- oder Innungskrankenkassen zu zahlen haben, können bei
 (beauftragte Stelle) für die jeweilige Kassenart beantragen, dass der
 beauftragten Stelle der jeweilige Beitragsnachweis eingereicht wird.
 Dies gilt auch für Arbeitgeber, die den
-Gesamtsozialversicherungsbeitrag an mehrere Betriebskrankenkassen oder
-landwirtschaftliche Krankenkassen zu zahlen haben, gegenüber dem
-jeweiligen Bundesverband. Gibt die beauftragte Stelle dem Antrag
-statt, hat sie die zuständigen Einzugsstellen zu unterrichten. Im
-Falle des Satzes 1 erhält die beauftragte Stelle auch den
-Gesamtsozialversicherungsbeitrag, den sie arbeitstäglich durch
-Überweisung unmittelbar an folgende Stellen weiterzuleiten hat:
+Gesamtsozialversicherungsbeitrag an mehrere Betriebskrankenkassen zu
+zahlen haben, gegenüber dem jeweiligen Bundesverband. Gibt die
+beauftragte Stelle dem Antrag statt, hat sie die zuständigen
+Einzugsstellen zu unterrichten. Im Falle des Satzes 1 erhält die
+beauftragte Stelle auch den Gesamtsozialversicherungsbeitrag, den sie
+arbeitstäglich durch Überweisung unmittelbar an folgende Stellen
+weiterzuleiten hat:
 
 1.  die Beiträge zur Kranken- und Pflegeversicherung an die zuständigen
     Einzugsstellen,
@@ -2909,9 +2895,10 @@ mit:
     Gesamtentgelt und
 
 
-3.  in den Fällen des § 22 Absatz 2 Satz 1 das der Berechnung zugrunde
-    liegende Gesamtentgelt; diese Mitteilung erfolgt einmal jährlich zum
-    30\. April des Kalenderjahres.
+3.  in den Fällen des § 22 Absatz 2 Satz 1 das der Berechnung zugrunde zu
+    legende Gesamtentgelt; diese Mitteilung erfolgt ab dem 1. Januar 2013
+    für Entgelte, die dem laufenden Abrechnungszeitraum zuzuordnen sind,
+    monatlich.
 
 
 
@@ -3005,12 +2992,13 @@ folgenden Parameter fest:
 
 (2) Bei geringfügigen Beschäftigungen werden die Beiträge zur
 Krankenversicherung an den Gesundheitsfonds, bei Versicherten in der
-landwirtschaftlichen Krankenversicherung an den Spitzenverband der
-landwirtschaftlichen Sozialversicherung weitergeleitet. Das Nähere zur
-Bestimmung des Anteils des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung, insbesondere über eine pauschale Berechnung und
-Aufteilung, vereinbaren die Spitzenverbände der beteiligten Träger der
-Sozialversicherung.
+landwirtschaftlichen Krankenversicherung an die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau weitergeleitet. Das Nähere zur
+Bestimmung des Anteils der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau, insbesondere über eine pauschale Berechnung und
+Aufteilung, vereinbaren die Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau und die Spitzenverbände der beteiligten Träger
+der Sozialversicherung.
 
 
 #### § 28l Vergütung
@@ -3046,16 +3034,16 @@ Die Höhe und die Verteilung der Vergütung werden durch Vereinbarung
 zwischen dem Spitzenverband Bund der Krankenkassen, der Deutschen
 Rentenversicherung Bund, der Bundesagentur für Arbeit und der
 Künstlersozialkasse geregelt; vor dem Abschluss und vor Änderungen der
-Vereinbarung ist der Spitzenverband der landwirtschaftlichen
-Sozialversicherung anzuhören. In der Vereinbarung ist auch für den
-Fall, dass eine Einzugsstelle ihre Pflichten nicht ordnungsgemäß
-erfüllt und dadurch erhebliche Beitragsrückstände entstehen,
-festzulegen, dass sich die Vergütung für diesen Zeitraum angemessen
-mindert. Die Deutsche Rentenversicherung Knappschaft-Bahn-See wird
-ermächtigt, die ihr von den Krankenkassen nach Satz 1 zustehende
-Vergütung mit den nach § 28k Absatz 2 Satz 1 an den Gesundheitsfonds
-weiterzuleitenden Beiträgen zur Krankenversicherung für geringfügige
-Beschäftigungen aufzurechnen.
+Vereinbarung ist die Sozialversicherung für Landwirtschaft, Forsten
+und Gartenbau anzuhören. In der Vereinbarung ist auch für den Fall,
+dass eine Einzugsstelle ihre Pflichten nicht ordnungsgemäß erfüllt und
+dadurch erhebliche Beitragsrückstände entstehen, festzulegen, dass
+sich die Vergütung für diesen Zeitraum angemessen mindert. Die
+Deutsche Rentenversicherung Knappschaft-Bahn-See wird ermächtigt, die
+ihr von den Krankenkassen nach Satz 1 zustehende Vergütung mit den
+nach § 28k Absatz 2 Satz 1 an den Gesundheitsfonds weiterzuleitenden
+Beiträgen zur Krankenversicherung für geringfügige Beschäftigungen
+aufzurechnen.
 
 (1a) (weggefallen)
 
@@ -3163,8 +3151,8 @@ der Kranken-, Pflege- und Rentenversicherung sowie nach dem Recht der
 Arbeitsförderung einschließlich der Widerspruchsbescheide gegenüber
 den Arbeitgebern; insoweit gelten § 28h Absatz 2 sowie § 93 in
 Verbindung mit § 89 Absatz 5 des Zehnten Buches nicht. Die
-landwirtschaftlichen Krankenkassen nehmen abweichend von Satz 1 die
-Prüfung für die bei ihnen versicherten mitarbeitenden
+landwirtschaftliche Krankenkasse nimmt abweichend von Satz 1 die
+Prüfung für die bei ihr versicherten mitarbeitenden
 Familienangehörigen vor.
 
 (1a) Die Träger der Rentenversicherung prüfen bei den Arbeitgebern, ob
@@ -3387,7 +3375,7 @@ angemessene Prüfhilfen zu leisten. Der Spitzenverband Bund der
 Krankenkassen, die Deutsche Rentenversicherung Bund und die
 Bundesagentur für Arbeit treffen entsprechende Vereinbarungen. Die
 Deutsche Rentenversicherung Knappschaft-Bahn-See und die
-landwirtschaftlichen Krankenkassen können dabei ausgenommen werden.
+landwirtschaftliche Krankenkasse können dabei ausgenommen werden.
 
 (4) Die Prüfung erstreckt sich auf alle Stellen, die Aufgaben der in
 Absatz 1 genannten Art für die Einzugsstelle wahrnehmen. Die Absätze 2
@@ -3504,12 +3492,8 @@ die Befugnisse dieser Organe gegenüber den Aufgaben und Befugnissen
 der Organe der Hauptverwaltung ab.
 
 
-#### § 32 Gemeinsame Organe
+#### § 32 (weggefallen)
 
-Organe der landwirtschaftlichen Krankenkassen und der
-landwirtschaftlichen Alterskassen sind die Organe der
-landwirtschaftlichen Berufsgenossenschaften, bei denen sie errichtet
-sind.
 
 
 #### § 33 Vertreterversammlung, Verwaltungsrat
@@ -3835,9 +3819,8 @@ Vertreterversammlung Versichertenälteste.
 
 
 3.  die Vertreterversammlung Vertrauenspersonen der Arbeitgeber und bei
-    den Trägern der landwirtschaftlichen Unfallversicherung, mit Ausnahme
-    der Gartenbau-Berufsgenossenschaft, Vertrauenspersonen der
-    Selbständigen ohne fremde Arbeitskräfte wählt.
+    der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+    Vertrauenspersonen der Selbständigen ohne fremde Arbeitskräfte wählt.
 
 
 
@@ -3974,10 +3957,10 @@ Selbstverwaltungsorganen mehrerer Krankenkassen ist ausgeschlossen.
     soweit in den Nummern 2 und 3 nichts Abweichendes bestimmt ist,
 
 
-2.  bei den Trägern der landwirtschaftlichen Unfallversicherung, mit
-    Ausnahme der Gartenbau-Berufsgenossenschaft, je zu einem Drittel aus
-    Vertretern der versicherten Arbeitnehmer (Versicherten), der
-    Selbständigen ohne fremde Arbeitskräfte und der Arbeitgeber,
+2.  bei der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+    je zu einem Drittel aus Vertretern der versicherten Arbeitnehmer
+    (Versicherten), der Selbständigen ohne fremde Arbeitskräfte und der
+    Arbeitgeber,
 
 
 3.  bei den Ersatzkassen aus Vertretern der Versicherten; dies gilt nicht
@@ -4064,8 +4047,8 @@ diese beiden Bereiche entfallenden nach § 2 Absatz 1 Nummer 1, 2 und 8
 des Siebten Buches versicherten Personen im vorletzten Kalenderjahr
 vor der Wahl; das Nähere bestimmt die Satzung.
 
-(3) In den Selbstverwaltungsorganen der landwirtschaftlichen
-Berufsgenossenschaften wirken in Angelegenheiten der
+(3) In den Selbstverwaltungsorganen der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau wirken in Angelegenheiten der
 Krankenversicherung der Landwirte und der Alterssicherung der
 Landwirte die Vertreter der Selbständigen, die in der betreffenden
 Versicherung nicht versichert sind und die nicht zu den in § 51 Absatz
@@ -4075,6 +4058,13 @@ Selbständigen treten die Stellvertreter, die in der betreffenden
 Versicherung versichert sind; sind solche Stellvertreter nicht in
 genügender Zahl vorhanden, ist die Liste der Stellvertreter nach § 60
 zu ergänzen.
+
+(3a) Das Bundesministerium für Arbeit und Soziales und das
+Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+gehören den Selbstverwaltungsorganen der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau mit beratender Stimme an; für
+das Bundesministerium für Arbeit und Soziales gilt dies nicht, soweit
+Fragen der landwirtschaftlichen Krankenversicherung berührt werden.
 
 (4) Krankenkassen nach § 35a können die Zusammensetzung des
 Verwaltungsrates, insbesondere die Zahl der dem Verwaltungsrat
@@ -4137,9 +4127,9 @@ gültigen Stimmen erhalten haben.
 
 (1) Die Versicherten und die Arbeitgeber wählen die Vertreter ihrer
 Gruppen in die Vertreterversammlung getrennt auf Grund von
-Vorschlagslisten; das Gleiche gilt in der landwirtschaftlichen
-Unfallversicherung, mit Ausnahme der Gartenbau-Berufsgenossenschaft,
-für die Selbständigen ohne fremde Arbeitskräfte.
+Vorschlagslisten; das Gleiche gilt bei der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau für die Selbständigen ohne
+fremde Arbeitskräfte.
 
 (2) Wird aus einer Gruppe nur eine Vorschlagsliste zugelassen oder
 werden auf mehreren Vorschlagslisten insgesamt nicht mehr Bewerber
@@ -4199,8 +4189,7 @@ Versicherungsträgern trifft die Anzeigepflicht den Wahlausschuss.
 
 
 (3) Zur Gruppe der Selbständigen ohne fremde Arbeitskräfte gehören bei
-den Trägern der landwirtschaftlichen Unfallversicherung, mit Ausnahme
-der Gartenbau-Berufsgenossenschaft,
+der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
 1.  die versicherten Selbständigen ohne fremde Arbeitskräfte und ihre
     versicherten Ehegatten; dies gilt nicht für Personen, die in den
@@ -4690,9 +4679,9 @@ ist.
 
 (1) Die Vertreter der Versicherten und der Arbeitgeber in der
 Vertreterversammlung wählen auf Grund von Vorschlagslisten getrennt
-die Vertreter ihrer Gruppe in den Vorstand; das Gleiche gilt in der
-landwirtschaftlichen Unfallversicherung, mit Ausnahme der Gartenbau-
-Berufsgenossenschaft, für die Selbständigen ohne fremde Arbeitskräfte.
+die Vertreter ihrer Gruppe in den Vorstand; das Gleiche gilt bei der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau für die
+Selbständigen ohne fremde Arbeitskräfte.
 
 (2) Die Vorschlagslisten müssen von zwei Mitgliedern der Gruppe der
 Vertreterversammlung, für die sie gelten sollen, unterzeichnet sein.
@@ -5019,12 +5008,11 @@ Vertrauenspersonen abweichend von § 60 regeln.
 #### § 62 Vorsitzende der Selbstverwaltungsorgane
 
 (1) Die Selbstverwaltungsorgane wählen aus ihrer Mitte einen
-Vorsitzenden und einen stellvertretenden Vorsitzenden, in der
-landwirtschaftlichen Unfallversicherung, mit Ausnahme der Gartenbau-
-Berufsgenossenschaft, einen ersten und einen zweiten stellvertretenden
-Vorsitzenden. Der Vorsitzende und die stellvertretenden Vorsitzenden
-müssen, mit Ausnahme bei den Ersatzkassen, verschiedenen Gruppen
-angehören.
+Vorsitzenden und einen stellvertretenden Vorsitzenden, bei der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau einen
+ersten und einen zweiten stellvertretenden Vorsitzenden. Der
+Vorsitzende und die stellvertretenden Vorsitzenden müssen, mit
+Ausnahme bei den Ersatzkassen, verschiedenen Gruppen angehören.
 
 (2) Erhält in zwei Wahlgängen kein Mitglied die Mehrheit der
 satzungsmäßigen Mitgliederzahl, ist gewählt, wer im dritten Wahlgang
@@ -5041,13 +5029,13 @@ Wahlgängen jeweils eine Mehrheit nach § 64 Absatz 4 erforderlich.
 
 (3) Die Satzung kann bestimmen, dass die Vertreter der einzelnen
 Gruppen abwechselnd mindestens für ein Jahr den Vorsitz führen. Bei
-den Trägern der landwirtschaftlichen Unfallversicherung, mit Ausnahme
-der Gartenbau-Berufsgenossenschaft, haben die Vertreter der einzelnen
-Gruppen während ihrer Amtsdauer abwechselnd je für mindestens ein Jahr
-den Vorsitz zu führen; Entsprechendes gilt für die Stellvertretung.
-Die Vertreter von zwei Gruppen können vereinbaren, dass für die Dauer
-der auf ihre Vertreter entfallenden Vorsitzendentätigkeit einer der
-Vertreter den Vorsitz führt. Die Satzung bestimmt das Nähere.
+der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau haben
+die Vertreter der einzelnen Gruppen während ihrer Amtsdauer
+abwechselnd je für mindestens ein Jahr den Vorsitz zu führen;
+Entsprechendes gilt für die Stellvertretung. Die Vertreter von zwei
+Gruppen können vereinbaren, dass für die Dauer der auf ihre Vertreter
+entfallenden Vorsitzendentätigkeit einer der Vertreter den Vorsitz
+führt. Die Satzung bestimmt das Nähere.
 
 (4) Zu Vorsitzenden oder zu stellvertretenden Vorsitzenden gewählte
 Mitglieder der Selbstverwaltungsorgane erwerben ihr Amt mit der
@@ -5160,11 +5148,10 @@ Nähere zur Stimmengewichtung nach Satz 1 bis 4 regelt die Satzung.
 
 #### § 65 Getrennte Abstimmung
 
-(1) In den Selbstverwaltungsorganen der Träger der
-landwirtschaftlichen Unfallversicherung, mit Ausnahme der Gartenbau-
-Berufsgenossenschaft, ist zur Beschlussfassung eine Mehrheit in den
-Gruppen der Versicherten, der Selbständigen ohne fremde Arbeitskräfte
-und der Arbeitgeber erforderlich für
+(1) In den Selbstverwaltungsorganen der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau ist zur Beschlussfassung eine
+Mehrheit in den Gruppen der Versicherten, der Selbständigen ohne
+fremde Arbeitskräfte und der Arbeitgeber erforderlich für
 
 1.  die Wahl des Geschäftsführers und seines Stellvertreters,
 
@@ -5257,8 +5244,8 @@ einzuführen.
 
 (5) Die Träger der Kranken- und Rentenversicherung, die gewerblichen
 Berufsgenossenschaften, die Unfallversicherungsträger der öffentlichen
-Hand sowie die Träger der landwirtschaftlichen Sozialversicherung
-führen in geeigneten Bereichen ein Benchmarking durch.
+Hand sowie die Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau führen in geeigneten Bereichen ein Benchmarking durch.
 
 (6) Die Sozialversicherungsträger dürfen Planstellen und Stellen nur
 ausbringen, soweit sie unter Anwendung angemessener und anerkannter
@@ -5412,9 +5399,6 @@ veranschlagten Mittel mit Ausnahme der Mittel für
 1.  die Erstattung von Maßnahmekosten nach § 54 des Dritten Buches,
 
 
-1a. den Gründungszuschuss nach § 94 des Dritten Buches,
-
-
 2.  die Berufsausbildungsbeihilfe nach § 57 Absatz 2 Satz 2 des Dritten
     Buches,
 
@@ -5483,28 +5467,37 @@ Schluss des nächsten Haushaltsjahres aufzulösen und dient zur Deckung
 der nach § 71b Absatz 5 gebildeten Ausgabereste.
 
 
-#### § 71d Haushaltspläne der Träger der landwirtschaftlichen Sozialversicherung
+#### § 71d Haushaltsplan und Kostenverteilungsverfahren der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
-Die Haushaltspläne der landwirtschaftlichen Alterskassen, der
-landwirtschaftlichen Krankenkassen und der landwirtschaftlichen
-Berufsgenossenschaften bedürfen der Genehmigung durch die
-Aufsichtsbehörde. Die Genehmigung wird im Benehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-erteilt. Der Haushaltsplan soll so rechtzeitig vom Vorstand
-aufgestellt werden, dass er bis zum 15. Oktober vor Beginn des
-Kalenderjahres, für das er gelten soll, der Aufsichtsbehörde vorgelegt
-werden kann. Diese kann die Genehmigung auch für einzelne Ansätze
-versagen, soweit gegen Gesetz oder sonstiges für den
-Versicherungsträger maßgebendes Recht verstoßen oder die
-Leistungsfähigkeit des Versicherungsträgers zur Erfüllung seiner
-Verpflichtungen gefährdet wird oder soweit bei landesunmittelbaren
-Versicherungsträgern die Bewertungs- oder Bewirtschaftungsmaßstäbe des
-aufsichtführenden Landes und bei bundesunmittelbaren
-Versicherungsträgern die Bewertungs- oder Bewirtschaftungsmaßstäbe des
-Bundes nicht beachtet sind; die Besonderheiten der Versicherungsträger
-sind hierbei zu berücksichtigen. Das Benehmen nach Satz 2 gilt als
-hergestellt, wenn das Bundesministerium innerhalb von einem Monat nach
-Zugang des Haushaltsplans keine Bedenken erhebt.
+(1) Der Haushaltsplan der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau ist getrennt für die Versicherungszweige
+landwirtschaftliche Unfallversicherung, Alterssicherung der Landwirte,
+landwirtschaftliche Krankenversicherung und landwirtschaftliche
+Pflegeversicherung aufzustellen. Der Haushaltsplan soll so rechtzeitig
+vom Vorstand aufgestellt werden, dass er bis zum 1. Oktober vor Beginn
+des Kalenderjahres, für das er gelten soll, der Aufsichtsbehörde
+vorgelegt werden kann.
+
+(2) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+hat sicherzustellen, dass die Kosten, die für die Erfüllung von
+Aufgaben mehrerer oder aller Versicherungszweige entstehen, durch
+geeignete Verfahren sachgerecht auf die Versicherungszweige
+landwirtschaftliche Unfallversicherung, landwirtschaftliche
+Krankenversicherung und Alterssicherung der Landwirte verteilt werden
+(Kostenverteilungsschlüssel).
+
+(3) Der Haushaltsplan und der Kostenverteilungsschlüssel bedürfen der
+Genehmigung durch die Aufsichtsbehörde. Die Genehmigung wird im
+Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
+und Verbraucherschutz und dem Bundesministerium für Arbeit und
+Soziales erteilt. Die Aufsichtsbehörde kann die Genehmigung des
+Haushaltsplans auch für einzelne Ansätze versagen, soweit gegen Gesetz
+oder sonstiges für den Versicherungsträger maßgebendes Recht verstoßen
+wird, die Leistungsfähigkeit des Versicherungsträgers zur Erfüllung
+seiner Verpflichtungen gefährdet wird oder die Bewertungs- oder
+Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind; die
+Besonderheiten des Versicherungsträgers sind hierbei zu
+berücksichtigen.
 
 
 #### § 71e Ausweisung der Schiffssicherheitsabteilung im Haushaltsplan
@@ -5576,11 +5569,13 @@ Stadtentwicklung, bei der Unfallkasse Post und Telekom die Genehmigung
 des Bundesministeriums der Finanzen erforderlich. Bei der Unfallkasse
 des Bundes ist die Genehmigung des Bundesversicherungsamtes
 erforderlich, die im Einvernehmen mit dem Bundesministerium für Arbeit
-und Soziales und dem Bundesministerium der Finanzen erfolgt. Bei den
-landwirtschaftlichen Alterskassen, den landwirtschaftlichen
-Krankenkassen und den landwirtschaftlichen Berufsgenossenschaften ist
-die Genehmigung der Aufsichtsbehörde erforderlich, es sei denn, die
-Ausgabe überschreitet nicht den Betrag von 50 000 Euro.
+und Soziales und dem Bundesministerium der Finanzen erfolgt. Bei der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist die
+Genehmigung der Aufsichtsbehörde erforderlich, die im Einvernehmen mit
+dem Bundesministerium für Ernährung, Landwirtschaft und
+Verbraucherschutz und dem Bundesministerium für Arbeit und Soziales
+erfolgt; Ausgaben bis zu einem Betrag von 50 000 Euro bedürfen nicht
+der Genehmigung.
 
 (3) Kann die Einwilligung des Vorstands, bei der Bundesagentur für
 Arbeit des Verwaltungsrats, oder die Genehmigung des
@@ -5836,7 +5831,11 @@ Vorlage werden die Unterlagen nach Satz 3 vom Bundesministerium für
 Arbeit und Soziales zugeleitet. Das Bundesministerium für Arbeit und
 Soziales kann zulassen, dass ihm abweichend von Satz 2 die Unterlagen
 der Träger der allgemeinen Rentenversicherung und der
-knappschaftlichen Rentenversicherung unmittelbar vorgelegt werden.
+knappschaftlichen Rentenversicherung unmittelbar vorgelegt werden. Die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau legt dem
+Bundesministerium für Arbeit und Soziales die Unterlagen eines
+Kalenderjahres bis spätestens 30. Juni des folgenden Kalenderjahres
+unmittelbar vor.
 
 (2) Das Nähere zu Absatz 1, insbesondere zu Inhalt, Art und Form der
 Unterlagen, wird durch allgemeine Verwaltungsvorschriften bestimmt.
@@ -6085,30 +6084,7 @@ Beauftragten auf Verlangen alle Unterlagen vorzulegen und alle
 Auskünfte zu erteilen, die zur Ausübung des Aufsichtsrechts auf Grund
 pflichtgemäßer Prüfung der Aufsichtsbehörde gefordert werden.
 
-(3) § 274 Absatz 1 Satz 1, 4 und 5 des Fünften Buches Sozialgesetzbuch
-gilt entsprechend für die Prüfung der Geschäfts-, Rechnungs- und
-Betriebsführung der landwirtschaftlichen Alterskassen und der
-landwirtschaftlichen Berufsgenossenschaften sowie ihres
-Spitzenverbandes. Für diese Prüfung gelten ferner folgende
-Bestimmungen des § 274 des Fünften Buches entsprechend:
-
-1.  Absatz 1 Satz 3 über die Übertragung der Prüfung auf eine öffentlich-
-    rechtliche Prüfungseinrichtung mit der Maßgabe, dass an die Stelle des
-    Bundesministeriums für Gesundheit das Bundesministerium für Arbeit und
-    Soziales tritt,
-
-
-2.  Absatz 2 Satz 1 und 2 über die Kostentragung mit der Maßgabe, dass das
-    Nähere über die Erstattung, einschließlich des Verteilungsmaßstabes
-    und der zu zahlenden Vorschüsse, für die Prüfung der
-    bundesunmittelbaren landwirtschaftlichen Sozialversicherungsträger und
-    des Spitzenverbandes vom Bundesversicherungsamt und für die Prüfung
-    der landesunmittelbaren landwirtschaftlichen Sozialversicherungsträger
-    von den für die Sozialversicherung zuständigen obersten
-    Verwaltungsbehörden der Länder geregelt wird.
-
-
-
+(3) (weggefallen)
 
 
 #### § 89 Aufsichtsmittel
@@ -6166,10 +6142,10 @@ die beteiligten Länder bestimmt ist.
 
 (4) Die Aufsichtsbehörden treffen sich regelmäßig zu einem
 Erfahrungsaustausch. Soweit dieser Erfahrungsaustausch Angelegenheiten
-der Träger der landwirtschaftlichen Sozialversicherung betrifft,
-nehmen auch das Bundesministerium für Arbeit und Soziales und das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-teil.
+der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+betrifft, nehmen auch das Bundesministerium für Arbeit und Soziales
+und das Bundesministerium für Ernährung, Landwirtschaft und
+Verbraucherschutz teil.
 
 
 #### § 90a Zuständigkeitsbereich
@@ -6271,6 +6247,15 @@ gesetzlichen Krankenversicherung und sozialen Pflegeversicherung dem
 Bundesministerium für Gesundheit. Es ist, soweit es die Aufsicht nach
 diesem Gesetz ausübt, nur an allgemeine Weisungen des zuständigen
 Bundesministeriums gebunden.
+
+(3) Das Bundesversicherungsamt begleitet in Abstimmung mit dem
+Bundesministerium für Arbeit und Soziales und dem Bundesministerium
+für Ernährung, Landwirtschaft und Verbraucherschutz die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bei der
+Weiterentwicklung der Informationstechnik. Die Kosten des
+Bundesversicherungsamtes werden von der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau erstattet. Die Kosten werden
+nach dem tatsächlich entstandenen Personal- und Sachaufwand berechnet.
 
 
 ### (XXXX) §§ 95 bis 110 (weggefallen)

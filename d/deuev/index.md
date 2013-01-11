@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23. 1.2006 I 152;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22.12.2011 I 3057
+:   Art. 10 G v. 5.12.2012 I 2474
 
 
 ## Erster Abschnitt - Allgemeines
@@ -150,6 +150,13 @@ Vierten Buches Sozialgesetzbuch) enthält.
 
 (11) Die Meldungen müssen die Betriebsnummer der Krankenkasse des
 Beschäftigten enthalten.
+
+(12) Der Zugang eines Antrages beim Arbeitgeber auf Verzicht auf die
+Versicherungspflicht in der gesetzlichen Rentenversicherung nach § 6
+Absatz 1b des Sechsten Buches Sozialgesetzbuch durch einen geringfügig
+Beschäftigten ist gesondert zu kennzeichnen und zu melden; die Meldung
+kann auch in Verbindung mit einer anderen zum gleichen Zeitpunkt zu
+erstattenden Meldung erfolgen.
 
 
 ## Zweiter Abschnitt - Allgemeine Vorschriften für Meldungen der Arbeitgeber
