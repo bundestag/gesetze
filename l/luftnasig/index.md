@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1322
 
-Geändert durch
-:   Art. 14 G v. 6.12.2011 I 2481
+Zuletzt geändert durch
+:   Art. 5 G v. 5.12.2012 I 2415
 
 
 
@@ -253,8 +253,8 @@ Aktienbestand nicht anzuwenden.
 Absatz 1 Satz 1 Nummer 1 des Wertpapierhandelsgesetzes die
 Stimmenverhältnisse nach Nationalitäten bekanntzugeben. Der Vorstand
 ist verpflichtet, den jeweiligen Stand des Anteils der Stimmen im
-Sinne des Satzes 1 zum Ende eines jeden Quartals im elektronischen
-Bundesanzeiger zu veröffentlichen.
+Sinne des Satzes 1 zum Ende eines jeden Quartals im Bundesanzeiger zu
+veröffentlichen.
 
 (2) Der Vorstand hat unverzüglich den Eintritt von Tatsachen, die
 gemäß § 4 zum Erwerb eigener Aktien oder zur Vornahme der
