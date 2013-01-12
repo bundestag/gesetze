@@ -12,19 +12,27 @@ slug: index
 {% assign abc_str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1' %}
 {% assign abc_array = abc_str | split:'' %}
 
-<ul class="nav nav-tabs" id="abcTab">
-{% for abc_char in abc_array %}
-  <li {% if forloop.first %}class="active"{% endif %} style="font-weight:bold;">
-  	<a href="#tab{{ abc_char }}" data-toggle="tab">{{ abc_char }}</a>
-  </li>
-{% endfor %}
-</ul>
-
 <script>
   function asc_sort(a, b){
     return $(a).attr('id').toUpperCase().localeCompare($(b).attr('id').toUpperCase());
   }
 </script>
+
+<ul class="nav nav-tabs" id="abcTab">
+{% for abc_char in abc_array %}
+  <li {% if forloop.first %}class="active"{% endif %} style="font-weight:bold;">
+  	<a href="#tab{{ abc_char }}" data-toggle="tab" id="navi{{ abc_char }}">{{ abc_char }}</a>
+  </li>
+
+  <script>
+  $("#navi{{ abc_char }}").click(function() {
+    $("#tab{{ abc_char }} table tr").sort(asc_sort).appendTo('#tab{{ abc_char }} table');
+  });
+</script>
+{% endfor %}
+</ul>
+
+
 
 <div class="tab-content">
 {% for abc_char in abc_array %}
@@ -43,12 +51,11 @@ slug: index
   </table>
   </div>
 
-<script>
-  $("#tab{{ abc_char }} table tr").sort(asc_sort).appendTo('#tab{{ abc_char }} table');
-</script>
 
 {% endfor %}
 </div>
 
-
+<script>
+	$("#tabA table tr").sort(asc_sort).appendTo('#tabA table');
+</script>
 
