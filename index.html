@@ -26,18 +26,31 @@ slug: index
 
   <div class="tab-pane{% if forloop.first %} active{% endif %}" id="tab{{ abc_char }}" >
   <table class="table table-striped">
-	{% for p in site.pages %}
+	{% for p in site.pages | sort:"Title" %}
 	    {% assign first_char = p.jurabk | truncate: 1, '' | upcase %}
 		{% if p.jurabk and first_char == abc_char %}
-		<tr>
+		<tr id="{{ p.slug }}">
 			<td style="padding-right:10px;font-weight:bold;"><a href=".{{ p.url|replace:"index.html","" }}">{{ p.jurabk }}{{ test }}</a></td>
 			<td>{{ p.Title }}</td>
 		</tr>
 		{% endif %}
 	{% endfor %}
-
   </table>
   </div>
+
+<script>
+
+  $(document).ready(function() {
+    $(function(){
+	  function asc_sort(a, b){
+    	return $(a).attr('id').toUpperCase().localeCompare($(b).attr('id').toUpperCase());
+	  }
+	  $("#tab{{ abc_char }} table tr").sort(asc_sort).appendTo('#tab{{ abc_char }} table');
+    });
+  });
+
+</script>
+
 {% endfor %}
 </div>
 
