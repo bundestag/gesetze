@@ -20,6 +20,11 @@ slug: index
 {% endfor %}
 </ul>
 
+<script>
+  function asc_sort(a, b){
+    return $(a).attr('id').toUpperCase().localeCompare($(b).attr('id').toUpperCase());
+  }
+</script>
 
 <div class="tab-content">
 {% for abc_char in abc_array %}
@@ -39,16 +44,7 @@ slug: index
   </div>
 
 <script>
-
-  $(document).ready(function() {
-    $(function(){
-	  function asc_sort(a, b){
-    	return $(a).attr('id').toUpperCase().localeCompare($(b).attr('id').toUpperCase());
-	  }
-	  $("#tab{{ abc_char }} table tr").sort(asc_sort).appendTo('#tab{{ abc_char }} table');
-    });
-  });
-
+  $("#tab{{ abc_char }} table tr").sort(asc_sort).appendTo('#tab{{ abc_char }} table');
 </script>
 
 {% endfor %}
