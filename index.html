@@ -1,0 +1,54 @@
+---
+layout: default
+Title: Deutsche Bundesgesetze- und verordnungen
+slug: index
+
+---
+
+
+
+
+
+{% assign abc_str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1' %}
+{% assign abc_array = abc_str | split:'' %}
+
+<ul class="nav nav-tabs" id="abcTab">
+{% for abc_char in abc_array %}
+  <li {% if forloop.first %}class="active"{% endif %} style="font-weight:bold;">
+  	<a href="#tab{{ abc_char }}" data-toggle="tab">{{ abc_char }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+<script>
+  function asc_sort(a, b){
+    return $(a).attr('id').toUpperCase().localeCompare($(b).attr('id').toUpperCase());
+  }
+</script>
+
+<div class="tab-content">
+{% for abc_char in abc_array %}
+
+  <div class="tab-pane{% if forloop.first %} active{% endif %}" id="tab{{ abc_char }}" >
+  <table class="table table-striped">
+	{% for p in site.pages | sort:"Title" %}
+	    {% assign first_char = p.jurabk | truncate: 1, '' | upcase %}
+		{% if p.jurabk and first_char == abc_char %}
+		<tr id="{{ p.slug }}">
+			<td style="padding-right:10px;font-weight:bold;"><a href=".{{ p.url|replace:"index.html","" }}">{{ p.jurabk }}{{ test }}</a></td>
+			<td>{{ p.Title }}</td>
+		</tr>
+		{% endif %}
+	{% endfor %}
+  </table>
+  </div>
+
+<script>
+  $("#tab{{ abc_char }} table tr").sort(asc_sort).appendTo('#tab{{ abc_char }} table');
+</script>
+
+{% endfor %}
+</div>
+
+
+

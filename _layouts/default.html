@@ -6,25 +6,109 @@
   <title>{{ page.Title }}</title>
   <base href="{{ site.baseurl }}">
   <link rel="stylesheet" href="static/css/screen.css">
+  <link href="static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link rel="shortcut icon" href="static/img/favicon.png">
   <meta http-equiv="Content-Language" content="de" />
   <meta name="language" content="de" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="static/lib/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-  <header>
-    <h1>Deutsche Bundesgesetze- und verordnungen</h1>
-  </header>
-  <article class="law">
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+  <div class="container">
+    <a class="brand" href="{{ site.baseurl }}">
+      <img src="static/img/octoeagle_small.png" style="margin-bottom:3px;" />
+      Bundesgit
+    </a>
+    <ul class="nav pull-right">
+      <li><a href="https://twitter.com/bundesgit" target="_blank">@bundesgit</a>
+      <li><a href="https://github.com/bundestag/gesetze" target="_blank">GitHub</a>
+      <li><a href="http://okfn.de/" target="_blank">OKF DE</a>
+    </ul>
+  </div>
+  </div>
+</div>
+
+<div class="container" style="margin-top:70px;">
+
+  <div class="row">
+    <div class="span12">
+      <h2>Deutsche Bundesgesetze und -verordnungen</h2>
+    </div>
+  </div>
+
+  <div class="row" style="margin-top:15px;">
+    <div class="span9">
     {{ content }}
-  </article>
-  <footer>
+    </div>
+    <div class="span3">
+      <div class="well">
+        <h5>Was ist Bundesgit?</h5>
+        <p>Bundesgit ist der Versuch, die Mechanismen der 
+          <a href="http://de.wikipedia.org/wiki/Versionsverwaltung" target="_blank">Versionskontrolle</a> 
+          von Software auf deutsche Gesetze
+          anzuwenden. Diese Seite wurde automatisch aus den Inhalten des zugehörigen 
+          <a href="https://github.com/bundestag/gesetze" target="_blank">GitHub Repositories</a> erzeugt.</p>
+      </div>
+      <div class="well">
+        <h5>Was ist GitHub?</h5>
+        <p><a href="http://de.wikipedia.org/wiki/GitHub" target="_blank">GitHub</a> ist ein Verzeichnis, das 
+          Programmierer zum Entwickeln und Veröffentlichen oft freier
+         Software-Projekte nutzen können. GitHub basiert auf dem Versions-Management-System 
+         <a href="http://de.wikipedia.org/wiki/Git" target="_blank">Git</a>.</p>
+      </div>
+      <div class="well">
+        <h5>Wie funktioniert Git?</h5>
+        <p>
+          Mit Git können Entwickler von verschiedenen Orten aus gemeinsam an einem Software-Projekt arbeiten.
+          Einzelne Arbeitsschritte können nachverfolgt und die Arbeit unterschiedlicher Menschen zu einem 
+          Gesamtwerk zusammengefügt werden.
+        </p>
+      </div>
+      <div class="well">
+        <h5>Was hat das mit Gesetzen zu tun?</h5>
+        <p>
+          Die Ausarbeitung von Gesetzen ähnelt bei genauerem Hinsehen der Entwicklung von Software. Die Nutzung
+          eines Versions-Management-Systems kann den Entstehungsprozess von Gesetzen transparenter und im Rückblick
+          nachvollziehbar machen (
+          <a href="http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html" target="_blank">TED-Talk zum Thema</a>).
+        </p>
+      </div>
+      <div class="well">
+        <h5>Wer betreibt Bundesgit?</h5>
+        <p>
+          Bundesgit ist ein Projekt der 
+          <a href="http://okfn.de/" target="_blank">Open Knowledge Foundation Deutschland</a>, 
+          einer gemeinnützigen Organisation
+          zur Förderung von freiem Wissen und offenen Daten.
+        </p>
+      </div>
+      <div class="well">
+        <h5>Wie kann ich mitmachen?</h5>
+        <p>
+          Beteiligung ist gerne willkommen, es gibt viel zu tun! Informiere Dich über aktuelle Entwicklungen über 
+          <a href="https://twitter.com/bundesgit" target="_blank">Twitter</a>
+          oder unsere <a href="http://lists.okfn.org/mailman/listinfo/bundesgit" target="_blank">Mailingliste</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="row">
+    <div class="span12">
     {% if page.origslug %}
     <p>
       Bitte beziehen Sie sich auf die offizielle Version von <a href="http://www.gesetze-im-internet.de/{{ page.origslug }}/">www.gesetze-im-internet.de</a>.
     </p>
     {% endif %}
-  </footer>
+    </div>
+  </div>
   <script src="static/js/main.js"></script>
+
+</div>
 </body>
 </html>
