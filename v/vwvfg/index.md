@@ -827,7 +827,7 @@ auf Grund von Rechtsvorschriften
 
 #### § 23 Amtssprache
 
-(1) Die Amtssprache ist deutsch.
+(1) Die Amtssprachen sind Deutsch und Deutsche Gebärdensprache.
 
 (2) Werden bei einer Behörde in einer fremden Sprache Anträge gestellt
 oder Eingaben, Belege, Urkunden oder sonstige Dokumente vorgelegt,

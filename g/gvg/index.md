@@ -3716,7 +3716,7 @@ vorläufige Festnahme des Täters zu verfügen.
 
 ### § 184
 
-Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den
+Die Gerichtssprachen sind Deutsch und Deutsche Gebärdensprache. Das Recht der Sorben, in den
 Heimatkreisen der sorbischen Bevölkerung vor Gericht sorbisch zu
 sprechen, ist gewährleistet.
 

@@ -551,10 +551,7 @@ auf Grund von Rechtsvorschriften
 
 ##### § 19 Amtssprache
 
-(1) Die Amtssprache ist deutsch. Hörbehinderte Menschen haben das
-Recht, zur Verständigung in der Amtssprache Gebärdensprache zu
-verwenden; Aufwendungen für Dolmetscher sind von der Behörde oder dem
-für die Sozialleistung zuständigen Leistungsträger zu tragen.
+(1) Die Amtssprachen sind Deutsch und Deutsche Gebärdensprache.
 
 (2) Werden bei einer Behörde in einer fremden Sprache Anträge gestellt
 oder Eingaben, Belege, Urkunden oder sonstige Dokumente vorgelegt,
