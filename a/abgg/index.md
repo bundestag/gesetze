@@ -1425,7 +1425,7 @@ Gesetzes liegen, werden bei der Berechnung des Zeitraumes, für den
 (1) Die Ausübung des Mandats steht im Mittelpunkt der Tätigkeit eines
 Mitglieds des Bundestages. Unbeschadet dieser Verpflichtung bleiben
 Tätigkeiten beruflicher oder anderer Art neben dem Mandat
-grundsätzlich zulässig.
+grundsätzlich nach Absatz 6 genehmigungsfähig.
 
 (2) Für die Ausübung des Mandats darf ein Mitglied des Bundestages
 keine anderen als die gesetzlich vorgesehenen Zuwendungen oder andere
@@ -1465,6 +1465,22 @@ verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen
 des Bundestages und seiner Gremien ausgeschlossen werden. Das Nähere
 regelt die Geschäftsordnung des Bundestages.
 
+(6) Tätigkeiten oder die Weiterführung von Tätigkeiten beruflicher
+oder anderer Art neben dem Mandat können vom Bundestagspräsidenten
+oder einem hierzu berufenem Gremium genehmigt werden, wenn das
+betroffene Mitglied des Bundestages den Nachweis führt, dass durch
+die Tätigkeit die Ausübung des Mandates nicht negativ beeinflusst wird
+und keine Beeinflussung aus der Ausübung der Tätigkeit in das Mandat
+zu erwarten sind. Dies ist durch das Mitglied des Bundestages
+schriftlich zu begründen. Die Begründung wird durch den
+Bundestagspräsidenten oder dem hierzu berufenem Gremium vor
+Entscheidung über den Antrag frei veröffentlicht, wodurch jedem
+Bürger die Gelegenheit zur Überprüfung der Begründung und des
+Widerspruches dagegen gegeben wird. Widersprüche, die in einer Frist
+von 14 Tage ab der Veröffentlichung beim Bundestagspräsidenten oder
+dem hierzu berufenem Gremium eingehen, haben in die Entscheidung zur
+Genehmigung der Tätigkeit einzufließen. Das Nähere regelt die
+Geschäftsordnung des Bundestages.
 
 ### § 44b Verhaltensregeln
 
