@@ -6741,15 +6741,16 @@ Jahren.
 1.  mit Gewalt,
 
 
-2.  durch Drohung mit gegenwärtiger Gefahr für Leib oder Leben oder
+2.  durch Drohung mit gegenwärtiger Gefahr für Leib oder Leben,
 
 
 3.  unter Ausnutzung einer Lage, in der das Opfer der Einwirkung des
-    Täters schutzlos ausgeliefert ist,
+    Täters schutzlos ausgeliefert ist oder
+
+4.  ohne Zustimmung oder gegen ihren geäußerten Willen,
 
 
-
-nötigt, sexuelle Handlungen des Täters oder eines Dritten an sich zu
+dazu bringt, sexuelle Handlungen des Täters oder eines Dritten an sich zu
 dulden oder an dem Täter oder einem Dritten vorzunehmen, wird mit
 Freiheitsstrafe nicht unter einem Jahr bestraft.
 
