@@ -646,8 +646,9 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Drucker/zur Druckerin vom
 2\. Mai 2000 (BGBl. I S. 654) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck
 
 (Fundstelle: BGBl. I 2011, 574 - 589)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 21.6.2002 I 2214;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 18 G v. 24.2.2012 I 212
+:   Art. 1 V v. 18.11.2020 I 2451
 
 
 ## § 1 Anwendungsbereich
@@ -49,9 +49,9 @@ Abs. 1 Buchstabe a zweiter Anstrich der Richtlinie 70/156/EWG vom 6.
 Februar 1970 zur Angleichung der Rechtsvorschriften der
 Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und
 Kraftfahrzeuganhänger (ABl. EG Nr. L 42 S. 1, Nr. L 225 S. 4) sind von
-den Anforderungen nach § 5 Abs. 1 ausgenommen. Ausgenommen von den
-Anforderungen nach § 8 Abs. 2 sind Ausrüstungsgegenstände, die nicht
-speziell für den Einsatz der in Satz 1 bezeichneten Fahrzeuge
+den Anforderungen nach § 5 Absatz 1 Satz 1 ausgenommen. Ausgenommen
+von den Anforderungen nach § 8 Abs. 2 sind Ausrüstungsgegenstände, die
+nicht speziell für den Einsatz der in Satz 1 bezeichneten Fahrzeuge
 hergestellt wurden.
 
 (4) Für dreirädrige Kraftfahrzeuge gelten nur die §§ 1 bis 5.
@@ -81,10 +81,18 @@ von Altfahrzeugen.
     Kreislaufwirtschaftsgesetzes sind;
 
 
-3.  "Hersteller" den Hersteller von Fahrzeugen laut Fahrzeugbrief oder den
-    gewerblichen Importeur eines Fahrzeugs und den Hersteller oder
-    gewerblichen Importeur von Fahrzeugteilen und -werkstoffen sowie deren
-    Rechtsnachfolger;
+3.  "Hersteller" den Hersteller von Fahrzeugen laut Fahrzeugbrief oder
+    laut Zulassungsbescheinigung Teil II oder den gewerblichen Importeur
+    eines Fahrzeugs und den Hersteller oder gewerblichen Importeur von
+    Fahrzeugteilen und -werkstoffen sowie deren Rechtsnachfolger;
+
+
+3a. „Bevollmächtigter“ ist jede im Geltungsbereich der Verordnung
+    niedergelassene natürliche oder juristische Person oder
+    Personengesellschaft, die ein Hersteller ohne Niederlassung im
+    Geltungsbereich der Verordnung beauftragt hat, in eigenem Namen
+    sämtliche Aufgaben wahrzunehmen, um die Herstellerpflichten nach
+    dieser Verordnung zu erfüllen;
 
 
 4.  "Vermeidung" Maßnahmen zur Verringerung der Menge und der
@@ -167,8 +175,9 @@ von Altfahrzeugen.
 
 
 15. "Rücknahmestelle" Annahmestellen, bei denen Altfahrzeuge durch den
-    Hersteller oder durch ihn beauftragte Dritte zurückgenommen werden,
-    ohne dass dort die Altfahrzeuge behandelt werden;
+    Hersteller, dessen Bevollmächtigten oder durch von diesen beauftragte
+    Dritte zurückgenommen werden, ohne dass dort die Altfahrzeuge
+    behandelt werden;
 
 
 16. "Demontagebetrieb" Betriebe oder Betriebsteile, in denen Altfahrzeuge
@@ -196,21 +205,23 @@ von Altfahrzeugen.
 20. "Demontageinformationen" alle Informationen, die zur sach- und
     umweltgerechten Behandlung eines Altfahrzeugs notwendig sind; sie
     werden den anerkannten Demontagebetrieben von den Herstellern von
-    Fahrzeugen und Zulieferern in Form von Handbüchern oder elektronischen
-    Medien (z. B. CD-ROM, Online-Dienste) zur Verfügung gestellt;
+    Fahrzeugen oder deren Bevollmächtigten und von den Zulieferern in Form
+    von Handbüchern oder elektronischen Medien (z. B. CD-ROM, Online-
+    Dienste) zur Verfügung gestellt;
 
 
-21. "Letzthalter" letzter im Fahrzeugbrief eingetragener Halter eines
-    Fahrzeugs, auf den das Fahrzeug gemäß Straßenverkehrs-Zulassungs-
-    Ordnung zugelassen ist oder zugelassen war;
+21. "Letzthalter" letzter im Fahrzeugbrief oder in der
+    Zulassungsbescheinigung Teil II eingetragener Halter eines Fahrzeugs,
+    auf den das Fahrzeug gemäß Fahrzeug-Zulassungsverordnung zugelassen
+    ist oder zugelassen war;
 
 
-22. "Wirtschaftsbeteiligte" Hersteller und Vertreiber sowie Betreiber von
-    Rücknahmestellen, Annahmestellen, Demontagebetrieben,
-    Schredderanlagen, sonstigen Anlagen zur weiteren Behandlung,
-    Verwertungsbetrieben und sonstigen Betrieben zur Behandlung von
-    Altfahrzeugen einschließlich ihrer Bauteile und Werkstoffe sowie Kfz-
-    Versicherungsgesellschaften;
+22. "Wirtschaftsbeteiligte" Hersteller, deren Bevollmächtigte, Vertreiber
+    sowie Betreiber von Rücknahmestellen, Annahmestellen,
+    Demontagebetrieben, Schredderanlagen, sonstigen Anlagen zur weiteren
+    Behandlung, Verwertungsbetrieben und sonstigen Betrieben zur
+    Behandlung von Altfahrzeugen einschließlich ihrer Bauteile und
+    Werkstoffe sowie Kfz-Versicherungsgesellschaften;
 
 
 23. "Fahrzeugleergewicht" maßgebliches Leergewicht eines Kraftfahrzeugs
@@ -218,20 +229,21 @@ von Altfahrzeugen.
 
     -   für Kraftfahrzeuge der Klasse
         M1, die bis zum 31. Dezember 1996 zugelassen worden sind: Leergewicht
-        gemäß Fahrzeugbrief abzüglich Gewicht des Tankinhalts bei einer
-        90-prozentigen Füllung,
+        gemäß Fahrzeugbrief oder Zulassungsbescheinigung Teil I abzüglich
+        Gewicht des Tankinhalts bei einer 90-prozentigen Füllung,
 
 
     -   für Kraftfahrzeuge der Klasse
         M1, die ab dem 1. Januar 1997 zugelassen worden sind: Leergewicht
-        gemäß Fahrzeugbrief abzüglich Gewicht des Tankinhalts bei einer
-        90-prozentigen Füllung und abzüglich Gewicht des Fahrers (75 kg),
+        gemäß Fahrzeugbrief oder Zulassungsbescheinigung Teil I abzüglich
+        Gewicht des Tankinhalts bei einer 90-prozentigen Füllung und abzüglich
+        Gewicht des Fahrers (75 kg),
 
 
     -   für Kraftfahrzeuge der Klasse
-        N1: Leergewicht gemäß Fahrzeugbrief abzüglich Gewicht des Tankinhalts
-        bei einer 90-prozentigen Füllung und abzüglich Gewicht des Fahrers (75
-        kg).
+        N1: Leergewicht gemäß Fahrzeugbrief oder Zulassungsbescheinigung Teil
+        I abzüglich Gewicht des Tankinhalts bei einer 90-prozentigen Füllung
+        und abzüglich Gewicht des Fahrers (75 kg).
 
 
 
@@ -258,28 +270,34 @@ Sinne dieser Verordnung anerkannt, wenn
 ## § 3 Rücknahmepflichten
 
 (1) Hersteller von Fahrzeugen sind verpflichtet, alle Altfahrzeuge
-ihrer Marke vom Letzthalter zurückzunehmen. Die Hersteller von
-Fahrzeugen müssen die in Satz 1 bezeichneten Altfahrzeuge ab
-Überlassung an eine anerkannte Rücknahmestelle oder einen von einem
-Hersteller hierzu bestimmten anerkannten Demontagebetrieb
-unentgeltlich zurücknehmen.
+ihrer Marke vom Letzthalter zurückzunehmen. Satz 1 gilt im Fall der
+Bevollmächtigung nach § 10a für den Bevollmächtigten mit der Maßgabe,
+dass alle Altfahrzeuge der Marke des jeweils vertretenen Herstellers
+vom Letzthalter zurückzunehmen sind. Die Hersteller von Fahrzeugen
+oder im Fall der Bevollmächtigung nach § 10a die Bevollmächtigten
+müssen die in Satz 1 bezeichneten Altfahrzeuge ab Überlassung an eine
+anerkannte Rücknahmestelle oder an einen anerkannten Demontagebetrieb,
+der vom Hersteller oder im Fall der Bevollmächtigung nach § 10a vom
+Bevollmächtigten zur Rücknahme bestimmt worden ist, unentgeltlich
+zurücknehmen.
 
 (2) Dem Letzthalter gleichgestellt sind die öffentlich-rechtlichen
 Entsorgungsträger im Sinne des § 20 Absatz 1 des
 Kreislaufwirtschaftsgesetzes in den Fällen, in denen der Halter oder
-Eigentümer der in § 20 Absatz 3 des Kreislaufwirtschaftsgesetzes
+Eigentümer der in § 20 Absatz 4 des Kreislaufwirtschaftsgesetzes
 bezeichneten Kraftfahrzeuge nicht festgestellt werden konnte. Absatz 4
 Nr. 1, 2 und 5 gilt in diesen Fällen nicht.
 
-(3) Die Hersteller von Fahrzeugen sind verpflichtet, einzeln oder
-gemeinsam, selbst oder durch Beauftragung Dritter flächendeckend
-Rückgabemöglichkeiten durch anerkannte Rücknahmestellen oder von ihnen
-hierzu bestimmte anerkannte Demontagebetriebe zu schaffen. Die
-Rücknahmestellen müssen für den Letzthalter in zumutbarer Entfernung
-erreichbar sein. Die Flächendeckung ist dann ausreichend, wenn die
-Entfernung zwischen Wohnsitz des Letzthalters und Rücknahmestelle oder
-von einem Hersteller hierzu bestimmten anerkannten Demontagebetrieb
-nicht mehr als 50 Kilometer beträgt.
+(3) Die Hersteller von Fahrzeugen oder deren Bevollmächtigte sind
+verpflichtet, einzeln oder gemeinsam, selbst oder durch Beauftragung
+Dritter flächendeckend Rückgabemöglichkeiten durch anerkannte
+Rücknahmestellen oder von ihnen hierzu bestimmte anerkannte
+Demontagebetriebe zu schaffen. Die Rücknahmestellen müssen für den
+Letzthalter in zumutbarer Entfernung erreichbar sein. Die
+Flächendeckung ist dann ausreichend, wenn die Entfernung zwischen
+Wohnsitz des Letzthalters und Rücknahmestelle oder von einem
+Hersteller oder von seinem Bevollmächtigten hierzu bestimmten
+anerkannten Demontagebetrieb nicht mehr als 50 Kilometer beträgt.
 
 (4) Absatz 1 Satz 2 gilt nicht, wenn
 
@@ -299,14 +317,15 @@ nicht mehr als 50 Kilometer beträgt.
 4.  dem Altfahrzeug Abfälle hinzugefügt wurden,
 
 
-5.  der Fahrzeugbrief oder ein vergleichbares Zulassungsdokument nach der
-    Richtlinie 1999/37/EG des Rates vom 29. April 1999 über
-    Zulassungsdokumente für Fahrzeuge (ABl. L 138 vom 1.6.1999, S. 57),
-    die zuletzt durch die Richtlinie 2006/103/EG (ABl. L 363 vom
-    20\.12.2006, S. 344) geändert worden ist, oder im Zusammenhang mit
-    einem Antrag nach der Richtlinie zur Förderung des Absatzes von
-    Personenkraftwagen vom 20. Februar 2009 (BAnz. S. 835) eine Kopie des
-    jeweiligen Dokumentes nicht übergeben wird.
+5.  der Fahrzeugbrief, die Zulassungsbescheinigung Teil II oder ein
+    vergleichbares Zulassungsdokument nach der Richtlinie 1999/37/EG des
+    Rates vom 29. April 1999 über Zulassungsdokumente für Fahrzeuge (ABl.
+    L 138 vom 1.6.1999, S. 57), die zuletzt durch die Richtlinie
+    2006/103/EG (ABl. L 363 vom 20.12.2006, S. 344) geändert worden ist,
+    oder im Zusammenhang mit einem Antrag nach der Richtlinie zur
+    Förderung des Absatzes von Personenkraftwagen vom 20. Februar 2009
+    (BAnz. S. 835) eine Kopie des jeweiligen Dokumentes nicht übergeben
+    wird.
 
 
 6.  (weggefallen)
@@ -314,10 +333,16 @@ nicht mehr als 50 Kilometer beträgt.
 
 
 
-(5) Die Hersteller von Fahrzeugen stellen die erforderlichen
-Informationen über die von ihnen eingerichteten Rücknahmestellen in
-geeigneter Weise zur Verfügung, um den Letzthalter auf Anfrage über
-eine für ihn geeignete Rücknahmestelle zu unterrichten.
+(5) Die Hersteller von Fahrzeugen oder deren Bevollmächtigte stellen
+die erforderlichen Informationen über die von ihnen eingerichteten
+Rücknahmestellen in geeigneter Weise zur Verfügung, um den Letzthalter
+auf Anfrage über eine für ihn geeignete Rücknahmestelle zu
+unterrichten. Die Hersteller von Fahrzeugen oder deren Bevollmächtigte
+sind verpflichtet, die Letzthalter über ihre Verpflichtung nach § 4
+Absatz 1 zur Entsorgung von Altfahrzeugen, über die Erfassung der
+Altfahrzeuge durch anerkannte Annahmestellen, anerkannte
+Rücknahmestellen oder anerkannte Demontagebetriebe und über die
+Bedeutung des Verwertungsnachweises nach § 4 Absatz 2 zu informieren.
 
 (6) Hersteller und Vertreiber von Bauteilen für Personenkraftwagen
 haben sicherzustellen, dass Altteile aus Reparaturen, die in Kfz-
@@ -336,6 +361,11 @@ zusammenfügen und diese in Verbindung mit einem Basisfahrzeug in
 Verkehr bringen, müssen sich vor dem Inverkehrbringen im Rahmen ihrer
 Produktverantwortung mit den Herstellern von Basis- oder
 Chassisfahrzeugen in Verbindung setzen.
+
+(8) Die Hersteller von Fahrzeugen sind verpflichtet, die finanziellen
+und organisatorischen Mittel vorzuhalten, um ihren Pflichten nach
+dieser Verordnung nachzukommen. Zur Bewertung ihrer Finanzverwaltung
+haben sie geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
 
 ## § 4 Überlassungspflichten
@@ -405,6 +435,9 @@ Altfahrzeuge folgende Zielvorgaben erreicht werden:
 
 
 
+Die Hersteller von Fahrzeugen oder deren Bevollmächtigte
+veröffentlichen jährlich Daten über die Erreichung der Zielvorgaben
+nach Satz 1.
 
 (2) Betreiber von Annahmestellen, Rücknahmestellen,
 Demontagebetrieben, Schredderanlagen und sonstigen Anlagen zur
@@ -462,10 +495,10 @@ die
 (4) Absatz 3 Satz 1 bis 6 gilt bei der Anerkennung gemäß § 2 Abs. 2
 Nr. 2 entsprechend.
 
-(5) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie Empfehlungen zur einheitlichen Durchführung
-der Überprüfung bekanntgeben.
+(5) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit kann im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie Empfehlungen zur einheitlichen Durchführung der
+Überprüfung bekanntgeben.
 
 
 ## § 6 Sachverständige
@@ -512,13 +545,14 @@ weiteren Behandlung haben die jeweils gültige Bescheinigung nach § 5
 Abs. 3 Satz 1 einschließlich des Prüfberichts oder das jeweils gültige
 Überwachungszertifikat einer technischen Überwachungsorganisation oder
 einer Entsorgergemeinschaft einschließlich des Prüfberichts sowie die
-gemäß § 27 Abs. 3 der Nachweisverordnung vom 10. September 1996 (BGBl.
-I S. 1382, 1997 I S. 2860) erteilte Nummer der für die Überwachung des
-jeweiligen Betriebs zuständigen Behörde unverzüglich vorzulegen. Sind
-Annahmestellen oder Rücknahmestellen Kraftfahrzeugwerkstätten, legt
-die jeweils zuständige Kraftfahrzeug-Innung die Bescheinigung
-einschließlich des Prüfberichts der für die Überwachung des Betriebs
-zuständigen Behörde vor.
+gemäß § 28 Absatz 1 der Nachweisverordnung vom 20. Oktober 2006 (BGBl.
+I S. 2298), die zuletzt durch Artikel 5 Absatz 5 des Gesetzes vom 23.
+Oktober 2020 (BGBl. I S. 2232) geändert worden ist, erteilte Nummer
+der für die Überwachung des jeweiligen Betriebs zuständigen Behörde
+unverzüglich vorzulegen. Sind Annahmestellen oder Rücknahmestellen
+Kraftfahrzeugwerkstätten, legt die jeweils zuständige Kraftfahrzeug-
+Innung die Bescheinigung einschließlich des Prüfberichts der für die
+Überwachung des Betriebs zuständigen Behörde vor.
 
 (2) Die nach § 6 für die Zulassung von Sachverständigen und
 Sachverständigenorganisationen zuständigen Stellen geben die von ihnen
@@ -541,7 +575,7 @@ zu übermitteln. Diese muss mindestens folgende Angaben enthalten:
 2.  Anschrift des anerkannten Betriebs oder Betriebsteils,
 
 
-3.  Betriebsnummer nach § 27 Abs. 3 der Nachweisverordnung für die in
+3.  Betriebsnummer nach § 28 Absatz 1 der Nachweisverordnung für die in
     Nummer 2 bezeichneten Betriebe oder Betriebsteile,
 
 
@@ -558,12 +592,13 @@ zu übermitteln. Diese muss mindestens folgende Angaben enthalten:
 
 
 
-Bei Demontagebetrieben, die von einem oder mehreren Herstellern für
-die unentgeltliche Rücknahme von Altfahrzeugen bestimmt worden sind,
-sind zusätzlich die Hersteller anzugeben, die den Demontagebetrieb
-hierzu bestimmt haben. Die Anforderungen nach den Sätzen 1 bis 3
-gelten auch für Sachverständige, technische Überwachungsorganisationen
-oder Entsorgergemeinschaften, die die in Satz 1 genannten Betriebe als
+Bei Demontagebetrieben, die von einem oder mehreren Herstellern oder
+deren Bevollmächtigten für die unentgeltliche Rücknahme von
+Altfahrzeugen bestimmt worden sind, sind zusätzlich die Hersteller
+oder deren Bevollmächtigte anzugeben, die den Demontagebetrieb hierzu
+bestimmt haben. Die Anforderungen nach den Sätzen 1 bis 3 gelten auch
+für Sachverständige, technische Überwachungsorganisationen oder
+Entsorgergemeinschaften, die die in Satz 1 genannten Betriebe als
 Entsorgungsfachbetriebe anerkennen. Die in Satz 1 genannte Stelle
 erstellt nach den Angaben aus Satz 2 Nr. 1 bis 5 und Satz 3 regelmäßig
 zu aktualisierende Listen und gibt diese in geeigneter Weise
@@ -620,9 +655,9 @@ und des Rates vom 18. September 2000 über Altfahrzeuge (ABl. EG Nr. L
 derjenigen Bauteile und Werkstoffe zu erleichtern, die wiederverwendet
 oder verwertet werden können.
 
-(2) Die Hersteller von Fahrzeugen sind verpflichtet, für jeden in
-Verkehr gebrachten neuen Fahrzeugtyp binnen sechs Monaten nach
-Inverkehrbringen den anerkannten Demontagebetrieben
+(2) Die Hersteller von Fahrzeugen oder ihre Bevollmächtigten sind
+verpflichtet, für jeden in Verkehr gebrachten neuen Fahrzeugtyp binnen
+sechs Monaten nach Inverkehrbringen den anerkannten Demontagebetrieben
 Demontageinformationen bereitzustellen. In diesen Informationen sind
 insbesondere im Hinblick auf die Erreichung der Ziele gemäß § 5 die
 einzelnen Fahrzeugbauteile und -werkstoffe sowie die Stellen
@@ -639,9 +674,10 @@ wiederverwendbaren Teilen zur Verfügung zu stellen.
 
 ## § 10 Informationspflichten
 
-(1) Die Hersteller von Fahrzeugen sind verpflichtet, in Zusammenarbeit
-mit den jeweiligen Wirtschaftsbeteiligten in geeigneter Weise
-Informationen zu veröffentlichen über
+(1) Die Hersteller von Fahrzeugen oder deren Bevollmächtigte sind
+verpflichtet, in Zusammenarbeit mit den jeweiligen
+Wirtschaftsbeteiligten in geeigneter Weise Informationen zu
+veröffentlichen über
 
 1.  die verwertungs- und recyclinggerechte Konstruktion von Fahrzeugen und
     ihren Bauteilen;
@@ -663,12 +699,24 @@ Informationen zu veröffentlichen über
 
 
 Die jeweiligen Wirtschaftsbeteiligten sind verpflichtet, den
-Herstellern die entsprechenden Informationen zu den Nummern 2 bis 4
-zur Verfügung zu stellen.
+Herstellern oder deren Bevollmächtigten die entsprechenden
+Informationen zu den Nummern 2 bis 4 zur Verfügung zu stellen.
 
-(2) Der Hersteller von Fahrzeugen hat diese Informationen den
-potenziellen Fahrzeugkäufern zugänglich zu machen. Die Informationen
-sind in die Werbeschriften für das neue Fahrzeug aufzunehmen.
+(2) Der Hersteller von Fahrzeugen oder dessen Bevollmächtigter hat
+diese Informationen den potenziellen Fahrzeugkäufern zugänglich zu
+machen. Die Informationen sind in die Werbeschriften für das neue
+Fahrzeug aufzunehmen.
+
+
+## § 10a Bevollmächtigung
+
+Hersteller von Fahrzeugen, die keine Niederlassung im Geltungsbereich
+dieser Verordnung haben, können einen Bevollmächtigten mit der
+Wahrnehmung ihrer Pflichten nach § 3 Absatz 1, 3 und 5, § 5 Absatz 1
+Satz 2, § 9 Absatz 2 und § 10 beauftragen. Die Aufgabenerfüllung durch
+den Bevollmächtigten erfolgt im eigenen Namen. Jeder Hersteller darf
+nur einen Bevollmächtigten beauftragen. Die Beauftragung nach Satz 1
+hat schriftlich und in deutscher Sprache zu erfolgen.
 
 
 ## § 11 Ordnungswidrigkeiten
@@ -676,11 +724,12 @@ sind in die Werbeschriften für das neue Fahrzeug aufzunehmen.
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 3 Absatz 1 Satz 1 ein Altfahrzeug nicht zurücknimmt,
+1.  entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder
+    entgegen § 3 Absatz 1 Satz 3 ein Altfahrzeug nicht, nicht richtig oder
+    nicht vollständig zurücknimmt,
 
 
-2.  entgegen § 3 Absatz 1 Satz 2 ein Altfahrzeug nicht in der
-    vorgeschriebenen Weise zurücknimmt,
+2.  (weggefallen)
 
 
 3.  entgegen § 3 Absatz 6 Satz 1 nicht sicherstellt, dass Altteile aus
@@ -744,8 +793,8 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     annimmt oder behandelt oder
 
 
-15. entgegen § 8 Absatz 2 Satz 1 Fahrzeuge, Werkstoffe oder Bauteile in
-    den Verkehr bringt.
+15. entgegen § 8 Absatz 2 Satz 1 Werkstoffe oder Bauteile in den Verkehr
+    bringt.
 
 
 
@@ -764,8 +813,8 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Rücknahmestelle beauftragt,
 
 
-4.  entgegen § 5 Absatz 2 Satz 1 in Verbindung mit Anhang Nummer 3.2.3.3
-    Satz 1 oder Nummer 4.1.2. Satz 1 nicht belegt, dass der entsprechende
+4.  entgegen § 5 Absatz 2 Satz 1 in Verbindung mit Anhang Nummer 3.2.4.1
+    Satz 6 oder Nummer 4.1.2. Satz 1 nicht belegt, dass der entsprechende
     Anteil verwertet wurde,
 
 
@@ -782,10 +831,13 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 ## § 12 Übergangsvorschriften
 
-(1) Bescheinigungen nach § 5 Abs. 3 Satz 1, die bei Inkrafttreten der
+(1) § 5 Absatz 1 Satz 2 gilt erstmals für die Daten des Kalenderjahres
+2019\.
+
+(2) Bescheinigungen nach § 5 Abs. 3 Satz 1, die bei Inkrafttreten der
 Verordnung rechtmäßig erteilt waren, gelten bis zu ihrem Ablauf fort.
 
-(2) Sachverständige und Sachverständigenorganisationen, die aufgrund
+(3) Sachverständige und Sachverständigenorganisationen, die aufgrund
 von § 6 nicht mehr über die erforderliche Zulassung verfügen und deren
 Befähigung zur Erteilung der Bescheinigungen nach § 5 Abs. 3 Satz 1
 vor Inkrafttreten dieser Verordnung rechtmäßig festgestellt war,
@@ -1033,9 +1085,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     Die Anforderungen gemäß TA Abfall Nummer 5.4 (GMBl. 1991 S. 147)
     gelten entsprechend. An die Stelle von Nummer 5.4.3.1 der TA Abfall
-    treten die Anforderungen nach § 5 Abs. 1 der
-    Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I S.
-    1421).
+    treten die Anforderungen nach § 5 Absatz 1 der
+    Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 in der jeweils
+    geltenden Fassung.
 
 
 3.2.2 Vorbehandlung
@@ -1113,9 +1165,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     stoffundurchlässigen Fläche gelagert werden, die den allgemein
     anerkannten Regeln nach Wasserrecht entspricht.
 
-    Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+    Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
     kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-    Technologie den jeweiligen Stand der Technik bekannt geben.
+    Energie den jeweiligen Stand der Technik bekannt geben.
 
 
 3.2.2.3 Für die Entnahme der Kraftstoffe sind dem Stand der Technik
@@ -1242,8 +1294,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     dürfen bei der Berechnung nach Satz 6 in Ansatz gebracht werden, wenn
     die stoffliche Verwertung in nachvollziehbarer Weise dokumentiert ist.
     Die Pflichten nach Satz 6 gelten nicht, soweit nachgewiesen wird, dass
-    die Anforderungen an die stoffliche Verwertung gemäß § 5 Abs. 1 Nr. 1
-    Buchstabe b im Jahresmittel bezogen auf die Summe der
+    die Anforderungen an die stoffliche Verwertung gemäß § 5 Absatz 1 Satz
+    1 Nummer 2 Buchstabe b im Jahresmittel bezogen auf die Summe der
     Fahrzeugleergewichte der angenommenen Altfahrzeuge auf andere
     geeignete Weise erfüllt werden. In diesem Fall ist der Nachweis der
     Erfüllung der Pflichten nach Satz 6 von allen beteiligten Betrieben
@@ -1289,10 +1341,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     wesentlichen Daten festzuhalten, die zur Transparenz und
     Nachvollziehbarkeit einer umweltverträglichen Altfahrzeugverwertung
     erforderlich sind. Sämtliche ein- und ausgehenden Mengenströme mit
-    entsprechenden Entsorgungsnachweisen, Begleitscheinen,
-    Transportgenehmigungen und Übernahmescheinen sowie Betriebsstörungen,
-    deren Ursache und daraus gezogene Konsequenzen müssen im
-    Betriebstagebuch notiert werden.
+    entsprechenden Entsorgungsnachweisen, Begleitscheinen, Anzeigen und
+    Erlaubnissen zum Sammeln und Befördern von Abfällen und
+    Übernahmescheinen sowie Betriebsstörungen, deren Ursache und daraus
+    gezogene Konsequenzen müssen im Betriebstagebuch notiert werden.
 
 
 3.3.3 Zu den erforderlichen Dokumentationspflichten gehören insbesondere
@@ -1412,5 +1464,5 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-[^bjnr166610997bjne001107310_01_BJNR166610997BJNE001107310]:     Zu beziehen bei Beuth-Verlag GmbH, Berlin.
+[^bjnr166610997bjne001107310_01_BJNR166610997BJNE001112125]:     Zu beziehen bei Beuth-Verlag GmbH, Berlin.
 

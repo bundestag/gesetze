@@ -313,8 +313,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
 
 (Fundstelle: BGBl. I 2005, 1288 - 1291)
 

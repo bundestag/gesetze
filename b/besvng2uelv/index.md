@@ -67,8 +67,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 (Anlage 1 ist als Anlagenband zum BGBl. I Nr. 113 v. 8.10.1975
 erschienen.)
 
+Übersicht zu § 1 Abs. 2
 
-## Anlage 2 Übersicht zu § 1 Abs. 2 (künftig wegfallende Ämter und Amtsbezeichnungen)
+## Anlage 2 (künftig wegfallende Ämter und Amtsbezeichnungen)
 
 Fundstelle des Originaltextes: Anlageband zu BGBl. I 1975 Nr. 113;
 bzgl. der einzelnen Änderungen vgl. Fußnote

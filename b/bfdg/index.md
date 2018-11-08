@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 687
 
+Zuletzt geändert durch
+:   Art. 50 G v. 12.12.2019 I 2652
+
+Änderung durch
+:   Art. 81 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung der inhaltsübersicht durch
+:   Art. 50 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
+
 
 ## § 1 Aufgaben des Bundesfreiwilligendienstes
 
@@ -32,11 +41,28 @@ Freiwillige im Sinne dieses Gesetzes sind Personen, die
 1.  die Vollzeitschulpflicht erfüllt haben,
 
 
-2.  einen freiwilligen Dienst ohne Erwerbsabsicht, außerhalb einer
-    Berufsausbildung und vergleichbar einer Vollzeitbeschäftigung, oder,
-    sofern sie das 27. Lebensjahr vollendet haben, auch vergleichbar einer
-    Voll- oder Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche
-    leisten,
+2.  einen freiwilligen Dienst
+
+    a)  ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
+        einer Vollzeitbeschäftigung leisten oder
+
+
+    b)  ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
+        einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche leisten,
+        sofern sie
+
+        aa) das 27. Lebensjahr vollendet haben oder
+
+
+        bb) das 27. Lebensjahr noch nicht vollendet haben und ein berechtigtes
+            Interesse der Freiwilligen an einer Teilzeitbeschäftigung vorliegt
+            ,
+
+
+
+
+
+
 
 
 3.  sich auf Grund einer Vereinbarung nach § 8 zur Leistung eines
@@ -51,23 +77,16 @@ Freiwillige im Sinne dieses Gesetzes sind Personen, die
     angemessen, wenn es
 
     a)  6 Prozent der in der allgemeinen Rentenversicherung geltenden
-        Beitragsbemessungsgrenze (§ 159 des Sechsten Buches Sozialgesetzbuch)
-        nicht übersteigt,
+        Beitragsbemessungsgrenze nicht übersteigt,
 
 
     b)  dem Taschengeld anderer Personen entspricht, die einen
         Jugendfreiwilligendienst nach dem Jugendfreiwilligendienstegesetz
         leisten und eine vergleichbare Tätigkeit in derselben Einsatzstelle
-        ausüben,
+        ausüben und
 
 
-    c)  bei einem Dienst vergleichbar einer Teilzeitbeschäftigung anteilig
-        gekürzt ist und
-
-
-    d)  für Freiwillige, die das 25. Lebensjahr noch nicht vollendet haben und
-        für die kein Anspruch auf einen Freibetrag nach § 32 Absatz 6 des
-        Einkommensteuergesetzes oder Kindergeld besteht, erhöht ist.
+    c)  bei einem Dienst vergleichbar einer Teilzeitbeschäftigung gekürzt ist.
 
 
 
@@ -243,28 +262,23 @@ Die Vereinbarung muss enthalten:
     Vertreters,
 
 
-2.  die Angabe, ob für die Freiwillige oder den Freiwilligen ein Anspruch
-    auf einen Freibetrag nach § 32 Absatz 6 des Einkommensteuergesetzes
-    oder Kindergeld besteht,
-
-
-3.  die Bezeichnung der Einsatzstelle und, sofern diese einem Träger
+2.  die Bezeichnung der Einsatzstelle und, sofern diese einem Träger
     angehört, die Bezeichnung des Trägers,
 
 
-4.  die Angabe des Zeitraumes, für den die oder der Freiwillige sich zum
+3.  die Angabe des Zeitraumes, für den die oder der Freiwillige sich zum
     Bundesfreiwilligendienst verpflichtet sowie eine Regelung zur
     vorzeitigen Beendigung des Dienstverhältnisses,
 
 
-5.  den Hinweis, dass die Bestimmungen dieses Gesetzes während der
+4.  den Hinweis, dass die Bestimmungen dieses Gesetzes während der
     Durchführung des Bundesfreiwilligendienstes einzuhalten sind,
 
 
-6.  Angaben zur Art und Höhe der Geld- und Sachleistungen sowie
+5.  Angaben zur Art und Höhe der Geld- und Sachleistungen sowie
 
 
-7.  die Angabe der Anzahl der Urlaubstage und der Seminartage.
+6.  die Angabe der Anzahl der Urlaubstage und der Seminartage.
 
 
 
@@ -325,9 +339,9 @@ Bundesfreiwilligendienstes aufzunehmen.
 ## § 12 Datenschutz
 
 Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene
-Daten nach § 8 Absatz 1 Satz 2 erheben, verarbeiten und nutzen, soweit
-dies für die Durchführung dieses Gesetzes erforderlich ist. Die Daten
-sind nach Abwicklung des Bundesfreiwilligendienstes zu löschen.
+Daten nach § 8 Absatz 1 Satz 2 verarbeiten, soweit dies für die
+Durchführung dieses Gesetzes erforderlich ist. Die Daten sind nach
+Abwicklung des Bundesfreiwilligendienstes zu löschen.
 
 
 ## § 13 Anwendung arbeitsrechtlicher, arbeitsschutzrechtlicher und sonstiger Bestimmungen
@@ -448,4 +462,8 @@ Einvernehmen mit dem Bundesministerium der Finanzen einheitliche
 Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für
 die pädagogische Begleitung wird nach den für das freiwillige soziale
 Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
+
+
+## § 18 (weggefallen)
+
 

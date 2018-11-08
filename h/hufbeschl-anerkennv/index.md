@@ -225,8 +225,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Absatz 2)
 
-## Anlage 1 (zu § 2 Absatz 2) Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+## Anlage 1 Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
 
 (Fundstelle: BGBl. I 2009, 488 - 489)
 
@@ -442,8 +443,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 2 Absatz 3)
 
-## Anlage 2 (zu § 2 Absatz 3) Der Prüfung gemäß Abschnitt 3 der Hufbeschlagverordnung (Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+## Anlage 2 Der Prüfung gemäß Abschnitt 3 der Hufbeschlagverordnung (Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
 
 (Fundstelle: BGBl. I 2009, 490)
 

@@ -16,7 +16,16 @@ Fundstelle
 :   BGBl I: 1994, 3210 (1995 I 428)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 48 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 19.12.2018 I 2694
+
+Änderung durch
+:   Art. 14 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 17 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 60 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient, soweit es Regelungen über Umwandlungen unter
 Beteiligung von Aktiengesellschaften enthält, der Umsetzung folgender
@@ -338,11 +347,25 @@ Landesjustizverwaltung übertragen.
 ##### § 11 Stellung und Verantwortlichkeit der Verschmelzungsprüfer
 
 (1) Für die Auswahl und das Auskunftsrecht der Verschmelzungsprüfer
-gelten § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1, § 320 Abs. 1
-Satz 2 und Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend.
-Soweit Rechtsträger betroffen sind, für die keine Pflicht zur Prüfung
-des Jahresabschlusses besteht, gilt Satz 1 entsprechend. Dabei findet
-§ 267 Abs. 1 bis 3 des Handelsgesetzbuchs für die Umschreibung der
+gelten § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs.
+2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Soweit
+Rechtsträger betroffen sind, die Unternehmen von öffentlichem
+Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, gilt für die
+Auswahl der Verschmelzungsprüfer neben Satz 1 auch Artikel 5 Absatz 1
+der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des
+Rates vom 16. April 2014 über spezifische Anforderungen an die
+Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
+Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
+27\.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) entsprechend mit der
+Maßgabe, dass an die Stelle der in Artikel 5 Absatz 1 Unterabsatz 1
+Buchstabe a und b der Verordnung (EU) Nr. 537/2014 genannten Zeiträume
+der Zeitraum zwischen dem Beginn des Geschäftsjahres, welches dem
+Geschäftsjahr vorausgeht, in dem der Verschmelzungsvertrag geschlossen
+wurde, und dem Zeitpunkt, in dem der Verschmelzungsprüfer den
+Prüfungsbericht nach § 12 erstattet hat, tritt. Soweit Rechtsträger
+betroffen sind, für die keine Pflicht zur Prüfung des
+Jahresabschlusses besteht, gilt Satz 1 entsprechend. Dabei findet §
+267 Abs. 1 bis 3 des Handelsgesetzbuchs für die Umschreibung der
 Größenklassen entsprechende Anwendung. Das Auskunftsrecht besteht
 gegenüber allen an der Verschmelzung beteiligten Rechtsträgern und
 gegenüber einem Konzernunternehmen sowie einem abhängigen und einem
@@ -1441,7 +1464,7 @@ Vermögensgegenständen bis zum Stichtag der Zwischenbilanz zu
 berücksichtigen. § 8 Absatz 3 Satz 1 erste Alternative und Satz 2 ist
 entsprechend anzuwenden. Die Zwischenbilanz muss auch dann nicht
 aufgestellt werden, wenn die Gesellschaft seit dem letzten
-Jahresabschluss einen Halbjahresfinanzbericht gemäß § 37w des
+Jahresabschluss einen Halbjahresfinanzbericht gemäß § 115 des
 Wertpapierhandelsgesetzes veröffentlicht hat. Der
 Halbjahresfinanzbericht tritt zum Zwecke der Vorbereitung der
 Hauptversammlung an die Stelle der Zwischenbilanz.
@@ -1662,7 +1685,7 @@ Anteilsinhaber jedes der übertragenden Rechtsträger durch
 Verschmelzungsbeschluß zustimmen. Dies gilt entsprechend für die
 Bestellung der Mitglieder des Aufsichtsrats der neuen Gesellschaft,
 soweit diese nach § 31 des Aktiengesetzes zu wählen sind. Auf eine
-übertragende Aktiengesellschaft ist § 124 Abs. 2 Satz 2, Abs. 3 Satz 1
+übertragende Aktiengesellschaft ist § 124 Abs. 2 Satz 3, Abs. 3 Satz 1
 und 3 des Aktiengesetzes entsprechend anzuwenden.
 
 
@@ -1773,6 +1796,10 @@ bis 4 aufzustellen.
 
 (2) Auf Verlangen ist jedem Mitglied unverzüglich und kostenlos eine
 Abschrift der in Absatz 1 bezeichneten Unterlagen zu erteilen.
+
+(3) Die Verpflichtungen nach Absatz 1 Satz 1 und Absatz 2 entfallen,
+wenn die in Absatz 1 Satz 1 bezeichneten Unterlagen für denselben
+Zeitraum über die Internetseite der Genossenschaft zugänglich sind.
 
 
 ###### § 83 Durchführung der Generalversammlung
@@ -2154,7 +2181,7 @@ der Körperschaftsteuer befreit ist, nicht anzuwenden.
 Genossenschaftliche Prüfungsverbände können nur miteinander
 verschmolzen werden. Ein genossenschaftlicher Prüfungsverband kann
 ferner als übernehmender Verband einen rechtsfähigen Verein aufnehmen,
-wenn bei diesem die Voraussetzungen des § 63b Abs. 2 Satz 1 des
+wenn bei diesem die Voraussetzungen des § 63b Absatz 2 des
 Genossenschaftsgesetzes bestehen und die in § 107 Abs. 2 genannte
 Behörde dem Verschmelzungsvertrag zugestimmt hat.
 
@@ -2305,7 +2332,7 @@ Gesamtschuldner.
 
 ###### § 118 Anzuwendende Vorschriften
 
-Auf die Verschmelzung kleinerer Vereine im Sinne des § 53 des
+Auf die Verschmelzung kleinerer Vereine im Sinne des § 210 des
 Versicherungsaufsichtsgesetzes sind die Vorschriften des Zweiten und
 des Dritten Unterabschnitts entsprechend anzuwenden. Dabei treten bei
 kleineren Vereinen an die Stelle der Anmeldung zur Eintragung in das
@@ -2360,7 +2387,7 @@ genannten Wirkungen durch die Eintragung der Verschmelzung in das
 Register des Sitzes der übertragenden Kapitalgesellschaft ein.
 
 
-#### Zehnter Abschnitt - Grenzüberschreitende Verschmelzung von Kapitalgesellschaften
+#### Zehnter Abschnitt - Grenzüberschreitende Verschmelzung
 
 
 
@@ -2376,23 +2403,37 @@ unterliegt.
 an einer grenzüberschreitenden Verschmelzung sind die Vorschriften des
 Ersten Teils und des Zweiten, Dritten und Vierten Abschnitts des
 Zweiten Teils entsprechend anzuwenden, soweit sich aus diesem
-Abschnitt nichts anderes ergibt.
+Abschnitt nichts anderes ergibt. Auf die Beteiligung einer
+Personenhandelsgesellschaft (§ 3 Absatz 1 Nummer 1) an einer
+grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten
+Teils und des Ersten Unterabschnitts des Ersten Abschnitts des Zweiten
+Teils entsprechend anzuwenden, soweit sich aus diesem Abschnitt nichts
+anderes ergibt.
 
 
 ##### § 122b Verschmelzungsfähige Gesellschaften
 
-(1) An einer grenzüberschreitenden Verschmelzung können als
-übertragende, übernehmende oder neue Gesellschaften nur
-Kapitalgesellschaften im Sinne des Artikels 2 Nr. 1 der Richtlinie
-2005/56/EG des Europäischen Parlaments und des Rates vom 26. Oktober
-2005 über die Verschmelzung von Kapitalgesellschaften aus
-verschiedenen Mitgliedstaaten (ABl. EU Nr. L 310 S. 1) beteiligt sein,
-die nach dem Recht eines Mitgliedstaats der Europäischen Union oder
-eines anderen Vertragsstaats des Abkommens über den Europäischen
-Wirtschaftsraum gegründet worden sind und ihren satzungsmäßigen Sitz,
-ihre Hauptverwaltung oder ihre Hauptniederlassung in einem
-Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum haben.
+(1) An einer grenzüberschreitenden Verschmelzung können beteiligt sein
+
+1.  als übertragende, übernehmende oder neue Gesellschaften
+    Kapitalgesellschaften im Sinne des Artikels 119 Nummer 1 der
+    Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates
+    vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl.
+    L 169 vom 30.6.2017, S. 46), die nach dem Recht eines Mitgliedstaats
+    der Europäischen Union oder eines anderen Vertragsstaats des Abkommens
+    über den Europäischen Wirtschaftsraum gegründet worden sind und ihren
+    satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre
+    Hauptniederlassung in einem Mitgliedstaat der Europäischen Union oder
+    einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum haben,
+
+
+2.  als übernehmende oder neue Gesellschaften
+    Personenhandelsgesellschaften im Sinne des § 3 Absatz 1 Nummer 1 mit
+    in der Regel nicht mehr als 500 Arbeitnehmern.
+
+
+
 
 (2) An einer grenzüberschreitenden Verschmelzung können nicht
 beteiligt sein:
@@ -2460,11 +2501,12 @@ Angaben enthalten:
 
 8.  etwaige besondere Vorteile, die den Sachverständigen, die den
     Verschmelzungsplan prüfen, oder den Mitgliedern der Verwaltungs-,
-    Leitungs-, Aufsichts- oder KontrollÜ-organe der an der Verschmelzung
+    Leitungs-, Aufsichts- oder Kontrollorgane der an der Verschmelzung
     beteiligten Gesellschaften gewährt werden,
 
 
-9.  die Satzung der übernehmenden oder neuen Gesellschaft,
+9.  die Satzung oder den Gesellschaftsvertrag der übernehmenden oder neuen
+    Gesellschaft,
 
 
 10. gegebenenfalls Angaben zu dem Verfahren, nach dem die Einzelheiten
@@ -2479,7 +2521,22 @@ Angaben enthalten:
 
 12. den Stichtag der Bilanzen der an der Verschmelzung beteiligten
     Gesellschaften, die zur Festlegung der Bedingungen der Verschmelzung
-    verwendet werden.
+    verwendet werden,
+
+
+13. im Fall der Verschmelzung auf eine Personenhandelsgesellschaft gemäß §
+    122b Absatz 1 Nummer 2
+
+    a)  für jeden Anteilsinhaber eines übertragenden Rechtsträgers die
+        Bestimmung, ob ihm in der übernehmenden oder der neuen
+        Personenhandelsgesellschaft die Stellung eines persönlich haftenden
+        Gesellschafters oder eines Kommanditisten gewährt wird,
+
+
+    b)  der festgesetzte Betrag der Einlage jedes Gesellschafters.
+
+
+
 
 
 
@@ -2537,15 +2594,18 @@ der an der grenzüberschreitenden Verschmelzung beteiligten
 Gesellschaft spätestens einen Monat vor der Versammlung der
 Anteilsinhaber, die nach § 13 über die Zustimmung zum
 Verschmelzungsplan beschließen soll, nach § 63 Abs. 1 Nr. 4 zugänglich
-zumachen. § 8 Abs. 3 ist nicht anzuwenden.
+zumachen. § 8 Abs. 3 ist nicht anzuwenden, es sei denn, an der
+Verschmelzung ist als übernehmende oder neue Gesellschaft eine
+Personenhandelsgesellschaft gemäß § 122b Absatz 1 Nummer 2 beteiligt.
 
 
 ##### § 122f Verschmelzungsprüfung
 
 Der Verschmelzungsplan oder sein Entwurf ist nach den §§ 9 bis 12 zu
-prüfen; § 48 ist nicht anzuwenden. Der Prüfungsbericht muss spätestens
-einen Monat vor der Versammlung der Anteilsinhaber, die nach § 13 über
-die Zustimmung zum Verschmelzungsplan beschließen soll, vorliegen.
+prüfen; die §§ 44 und 48 sind nicht anzuwenden. Der Prüfungsbericht
+muss spätestens einen Monat vor der Versammlung der Anteilsinhaber,
+die nach § 13 über die Zustimmung zum Verschmelzungsplan beschließen
+soll, vorliegen.
 
 
 ##### § 122g Zustimmung der Anteilsinhaber
@@ -2694,6 +2754,23 @@ Arbeitnehmer geschlossen worden ist.
 hat den Tag der Eintragung der Verschmelzung von Amts wegen jedem
 Register mitzuteilen, bei dem eine der übertragenden Gesellschaften
 ihre Unterlagen zu hinterlegen hatte.
+
+
+##### § 122m Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+
+Unterliegt die übernehmende oder die neue Gesellschaft dem deutschen
+Recht, gilt als grenzüberschreitende Verschmelzung im Sinne dieses
+Abschnitts auch eine solche, an der eine übertragende Gesellschaft
+beteiligt ist, die dem Recht des Vereinigten Königreichs
+Großbritannien und Nordirland (Vereinigtes Königreich) unterliegt,
+sofern der Verschmelzungsplan nach § 122c Absatz 4 vor dem Ausscheiden
+des Vereinigten Königreichs aus der Europäischen Union oder vor dem
+Ablauf eines Übergangszeitraums, innerhalb dessen das Vereinigte
+Königreich in der Bundesrepublik Deutschland weiterhin als
+Mitgliedstaat der Europäischen Union gilt, notariell beurkundet worden
+ist, und die Verschmelzung unverzüglich, spätestens aber zwei Jahre
+nach diesem Zeitpunkt mit den erforderlichen Unterlagen zur
+Registereintragung angemeldet wird.
 
 
 ## Drittes Buch - Spaltung
@@ -5122,15 +5199,19 @@ nach § 262 Abs. 1 erforderlichen Mehrheiten sowie auf die Möglichkeit
 der Erhebung eines Widerspruchs und die sich daraus ergebenden Rechte
 hinzuweisen.
 
-(2) Auf die Vorbereitung der Generalversammlung sind die §§ 229, 230
-Abs. 2 Satz 1 und 2 und § 231 Satz 1 entsprechend anzuwenden. § 192
-Abs. 2 bleibt unberührt.
+(2) Auf die Vorbereitung der Generalversammlung sind § 230 Absatz 2
+und § 231 Satz 1 entsprechend anzuwenden. § 192 Abs. 2 bleibt
+unberührt.
 
-(3) In dem Geschäftsraum der formwechselnden Genossenschaft ist außer
-den sonst erforderlichen Unterlagen auch das nach § 259 erstattete
-Prüfungsgutachten zur Einsicht der Mitglieder auszulegen. Auf
-Verlangen ist jedem Mitglied unverzüglich und kostenlos eine Abschrift
-dieses Prüfungsgutachtens zu erteilen.
+(3) In dem Geschäftsraum der formwechselnden Genossenschaft ist von
+der Einberufung der Generalversammlung an, die den Formwechsel
+beschließen soll, außer den sonst erforderlichen Unterlagen auch das
+nach § 259 erstattete Prüfungsgutachten zur Einsicht der Mitglieder
+auszulegen. Auf Verlangen ist jedem Mitglied unverzüglich und
+kostenlos eine Abschrift dieses Prüfungsgutachtens zu erteilen. Die
+Verpflichtungen nach den Sätzen 1 und 2 entfallen, wenn das
+Prüfungsgutachten für denselben Zeitraum über die Internetseite der
+Genossenschaft zugänglich ist.
 
 
 ##### § 261 Durchführung der Generalversammlung
@@ -5565,7 +5646,7 @@ sowie § 282 Abs. 2 entsprechend anzuwenden.
 ##### § 291 Möglichkeit des Formwechsels
 
 (1) Ein Versicherungsverein auf Gegenseitigkeit, der kein kleinerer
-Verein im Sinne des § 53 des Versicherungsaufsichtsgesetzes ist, kann
+Verein im Sinne des § 210 des Versicherungsaufsichtsgesetzes ist, kann
 auf Grund eines Umwandlungsbeschlusses nur die Rechtsform einer
 Aktiengesellschaft erlangen.
 
@@ -5824,10 +5905,9 @@ ihm in seiner Eigenschaft als
 
 bekannt geworden ist, unbefugt offenbart, wenn die Tat im Falle der
 Nummer 1 nicht in § 85 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung, § 404 des Aktiengesetzes, § 151 des
-Genossenschaftsgesetzes oder § 138 des Versicherungsaufsichtsgesetzes,
-im Falle der Nummer 2 nicht in § 333 des Handelsgesetzbuchs mit Strafe
-bedroht ist.
+beschränkter Haftung, § 404 des Aktiengesetzes oder § 151 des
+Genossenschaftsgesetzes, im Falle der Nummer 2 nicht in § 333 des
+Handelsgesetzbuchs mit Strafe bedroht ist.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist
@@ -5945,7 +6025,7 @@ entsprechend den dort genannten Vorschriften.
 -
 
 
-### § 321 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie und zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes
+### § 321 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz
 
 (1) Im Fall des § 15 Abs. 2 Satz 1 bleibt es für die Zeit vor dem 1.
 September 2009 bei dem bis dahin geltenden Zinssatz.
@@ -5960,6 +6040,13 @@ sowie § 143 in der Fassung des Dritten Gesetzes zur Änderung des
 Umwandlungsgesetzes vom 11. Juli 2011 (BGBl. I S. 1338) sind erstmals
 auf Umwandlungen anzuwenden, bei denen der Verschmelzungs- oder
 Spaltungsvertrag nach dem 14. Juli 2011 geschlossen worden ist.
+
+(4) § 11 in der ab 1. Juli 2021 geltenden Fassung ist erstmals auf die
+Prüfung von Verschmelzungen anzuwenden, deren Verschmelzungsvertrag
+nach dem 31. Dezember 2021 geschlossen wurde. § 11 in der bis
+einschließlich 30. Juni 2021 geltenden Fassung ist letztmals auf die
+Prüfung von Verschmelzungen anzuwenden, deren Verschmelzungsvertrag
+vor dem 1. Januar 2022 geschlossen wurde.
 
 
 ### § 322 Gemeinsamer Betrieb

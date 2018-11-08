@@ -2,7 +2,7 @@
 Title: Verordnung über das Führen von Sportbooten auf den Binnenschiffahrtsstraßen
 jurabk: SportbootFüBinV
 layout: default
-origslug: sportbootf_binv
+origslug: sportbootfuebinv
 slug: sportbootfuebinv
 
 ---

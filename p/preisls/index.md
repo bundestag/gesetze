@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 289 V v. 25.11.2003 I 2304
 
+Änderung durch
+:   Art. 80 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1 V v. 25.11.2021 I 4968 (Nr. 80) mWv 1.4.2022 noch nicht berücksichtigt
+
 
 ## I. - Allgemeines
 

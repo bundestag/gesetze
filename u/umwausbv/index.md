@@ -1321,8 +1321,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
+(zu § 5)
 
-### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserversorgungstechnik
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserversorgungstechnik
 
 (Fundstelle: BGBl. I 2002, 2344 - 2348)
 
@@ -2047,8 +2048,9 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 
 
+(zu § 11)
 
-### Anlage 2 (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Abwassertechnik
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Abwassertechnik
 
 (Fundstelle: BGBl. I 2002, 2349 - 2354)
 
@@ -2762,8 +2764,9 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 
 
+(zu § 17)
 
-### Anlage 3 (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kreislauf- und Abfallwirtschaft
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kreislauf- und Abfallwirtschaft
 
 (Fundstelle: BGBl. I 2002, 2355 - 2362)
 
@@ -3854,8 +3857,9 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 
 
+(zu § 23)
 
-### Anlage 4 (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice
+### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice
 
 (Fundstelle: BGBl. I 2002, 2363 - 2368)
 

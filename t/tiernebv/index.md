@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1735
 
 Zuletzt geändert durch
-:   Art. 2 V v. 23.4.2012 I 611
+:   Art. 3 G v. 4.12.2018 I 2254
 
 
 ## Eingangsformel
@@ -944,7 +944,7 @@ Durchführung der Untersuchungen gilt § 21 Abs. 1 Satz 2 bis 5 und Abs.
 von der zuständigen Behörde bestimmte Stelle durchzuführen.
 
 
-#### Unterabschnitt 4 - Verwertung von Fermentationsrückständen und Komposten
+#### Unterabschnitt 4 - Verwertung von Fermentationsrückständen  und Komposten
 
 
 
@@ -1061,10 +1061,10 @@ Betriebsnummer und einer zweistelligen Nummer für die Betriebsart nach
 Maßgabe der Anlage 5 gebildet.
 
 (2) Die zuständige Landesbehörde teilt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium)
-die Zulassung und Registrierung unter Angabe der erteilten Zulassungs-
-oder Registriernummer sowie die Rücknahme oder den Widerruf einer
-Zulassung oder Registrierung mit.
+Ernährung und Landwirtschaft (Bundesministerium) die Zulassung und
+Registrierung unter Angabe der erteilten Zulassungs- oder
+Registriernummer sowie die Rücknahme oder den Widerruf einer Zulassung
+oder Registrierung mit.
 
 (3) Das Bundesministerium gibt die zugelassenen und registrierten
 Betriebe unter Angabe der erteilten Zulassungs- und Registriernummer
@@ -1099,7 +1099,7 @@ Wasserschutzgebieten und nicht in unmittelbarer Nähe öffentlicher Wege
 und Plätze, vergraben werden. Die Tierkörper dürfen nur so vergraben
 werden, dass sie mit einer ausreichenden, mindestens 50 Zentimeter
 starken Erdschicht, gemessen vom Rand der Grube, bedeckt sind. § 32
-Absatz 2 Satz 1, § 45 Absatz 2 Satz 1 und § 48 Absatz 2 Satz 1 des
+Absatz 2 Satz 1, § 45 Absatz 3 Satz 1 und § 48 Absatz 2 Satz 1 des
 Wasserhaushaltsgesetzes bleiben unberührt.
 
 (4) Für die Sammlung, Beförderung, Verarbeitung, Verwendung und
@@ -1267,8 +1267,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 9 Abs. 1, 3 und 4)
 
-### Anlage 1 (zu § 9 Abs. 1, 3 und 4) Handelspapiere
+### Anlage 1 Handelspapiere
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1746 - 1747
 
@@ -1401,8 +1402,9 @@ Gewichts (in Kilogramm) oder der Tierzahl:
 
 
 
+(zu § 9 Abs. 5)
 
-### Anlage 2 (zu § 9 Abs. 5) Muster für Aufzeichnungen
+### Anlage 2 Muster für Aufzeichnungen
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1748;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1546,8 +1548,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 21 Abs. 1)
 
-### Anlage 3 (zu § 21 Abs. 1) Probenahme
+### Anlage 3 Probenahme
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1749 - 1750)
 
@@ -1701,8 +1704,9 @@ Einzelprobe nicht eingehalten zu werden.
 
 
 
+(zu § 23 Abs. 1)
 
-### Anlage 4 (zu § 23 Abs. 1) Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen zugelassenen tierischen Nebenprodukte, soweit die Fermentationsrückstände und Komposte aus den Anlagen zur Verwertung auf Böden bestimmt sind
+### Anlage 4 Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen  zugelassenen tierischen Nebenprodukte, soweit die  Fermentationsrückstände und Komposte aus den Anlagen zur  Verwertung auf Böden bestimmt sind
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1751
 
@@ -1733,8 +1737,9 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1751
 
 
 
+(zu § 26 Abs. 1)
 
-### Anlage 5 (zu § 26 Abs. 1) Nummernschlüssel für die Betriebsart
+### Anlage 5 Nummernschlüssel für die Betriebsart
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1752;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1973, 1417
 
 Zuletzt geändert durch
-:   Art. 9 V v. 31.10.2006 I 2407
+:   Art. 16 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -39,7 +39,7 @@ Verbindung mit anderen Wasserstraßen haben.
 
 ## Art 2
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Änderungen der Anlage des Übereinkommens nach dessen
 Artikel 17, die der Verwirklichung neuer technischer Erkenntnisse
 hinsichtlich der Eichung von Binnenschiffen im Sinne des
@@ -47,7 +47,7 @@ hinsichtlich der Eichung von Binnenschiffen im Sinne des
 Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des
 Bundesrates in Kraft zu setzen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, die zur Ausführung des Übereinkommens einschließlich
 seiner Anlage in ihrer jeweiligen Fassung erforderlichen allgemeinen
 Verwaltungsvorschriften mit Zustimmung des Bundesrates zu erlassen.

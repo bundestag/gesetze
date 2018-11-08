@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1952, 446
 
 Neugefasst durch
-:   Bek. v. 2.6.1993 I 845; 1995 I 248;
+:   Bek. v. 2.6.1993 I 845; 1995 I 248
 
 Zuletzt geändert durch
-:   Art. 2 G v. 23.5.2011 I 920
+:   Art. 211 V v. 19.6.2020 I 1328
 
 
 ## Präambel
@@ -900,8 +900,7 @@ entstanden ist, gilt,
 -
 
 
-### (XXXX) §§ 16 bis 227
-
+### (XXXX) §§ 16 bis 227 (nicht abgedruckt)
 
 
 ### Achter Abschnitt
@@ -5763,8 +5762,8 @@ nur hierdurch die Härte beseitigt werden kann.
 1.  auf Grund von Richtlinien des Präsidenten des Bundesausgleichsamtes,
     die der Zustimmung des Bundesministeriums der Finanzen und, soweit
     sich die Härte aus Vorschriften des Flüchtlingshilfegesetzes ergibt,
-    zusätzlich der Zustimmung des Bundesministeriums des Innern bedürfen,
-    oder
+    zusätzlich der Zustimmung des Bundesministeriums des Innern, für Bau
+    und Heimat bedürfen, oder
 
 
 2.  mit Zustimmung des Präsidenten des Bundesausgleichsamtes im
@@ -5942,13 +5941,30 @@ dem 30. Juni 2009 Kenntnis vom Rückforderungs- bzw.
 Ausschließungstatbestand erlangt hat, auf das Bundesausgleichsamt
 übertragen.
 
-(3) Das Bundesministerium der Finanzen übt die Dienstaufsicht über das
-Bundesausgleichsamt aus.
+(3) Das Bundesministerium des Innern, für Bau und Heimat übt die
+Dienstaufsicht über das Bundesausgleichsamt für den Bereich des
+Lastenausgleichs im Einvernehmen mit dem Bundesministerium der
+Finanzen aus. Dem Bundesministerium der Finanzen obliegt die
+Fachaufsicht über das Bundesausgleichsamt; die Befugnisse des
+Präsidenten des Bundesausgleichsamts nach Absatz 2 Satz 1 bleiben
+davon unberührt.
 
 
-#### § 313
+#### § 313 Zuständigkeitsübertragung
 
-(weggefallen)
+(1) Die Zuständigkeit eines Landes für die Durchführung der in § 305
+Absatz 1 genannten Vorschriften kann durch Vereinbarung der nach § 306
+für die Errichtung von Ausgleichsämtern und Landesausgleichsämtern
+zuständigen Stelle mit dem Bundesausgleichsamt auf das
+Bundesausgleichsamt übertragen werden.
+
+(2) Der Umfang der übertragenen Zuständigkeit sowie der Zeitpunkt des
+Übergangs sind durch das Bundesausgleichsamt im Bundesanzeiger
+bekanntzumachen.
+
+(3) Wurde die Zuständigkeit dem Bundesausgleichsamt übertragen, sind
+insoweit die §§ 306, 308, 310 und 311 von dem jeweiligen Land nicht
+mehr anzuwenden.
 
 
 #### § 314
@@ -6012,11 +6028,13 @@ Daten dürfen für lastenausgleichsrechtliche Verfahren genutzt und
 
 (5) Für die Erteilung eines Erbscheins, einschließlich des
 vorangegangenen Verfahrens, wird eine Gebühr nicht erhoben, wenn der
-Erbschein nur für Zwecke des Lastenausgleichs verwendet werden soll. §
-107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt. Ein nach Satz 1
-gebührenfrei erteilter Erbschein kann auch in Verfahren verwendet
-werden, die der Rückgabe, Freigabe oder Entschädigung weggenommener
-Wirtschaftsgüter dienen.
+Erbschein nur für Zwecke des Lastenausgleichs verwendet werden soll.
+Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach
+§ 352 Absatz 3 Satz 3 des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit. Ein nach Satz 1 gebührenfrei erteilter Erbschein kann
+auch in Verfahren verwendet werden, die der Rückgabe, Freigabe oder
+Entschädigung weggenommener Wirtschaftsgüter dienen.
 
 
 ### Zwölfter Abschnitt - Verwaltung der Mittel für den Lastenausgleich
@@ -6974,11 +6992,12 @@ Satz 1 genannten Rückzahlungspflichtigen als Gesamtschuldner in
 Anspruch genommen werden. Empfänger von Schadensausgleichsleistungen
 sind verpflichtet, dies der zuständigen Ausgleichsbehörde anzuzeigen
 und die für die Rückforderung erforderlichen Angaben zu machen. Die
-Rückforderung ist nach Ablauf von vier Jahren nach dem Kalenderjahr,
-in dem die Ausgleichsbehörde von dem Schadensausgleich und von der
-Person des Verpflichteten Kenntnis erlangt hat, frühestens jedoch nach
-dem 31. Dezember 1996, ausgeschlossen; die Frist beträgt zehn Jahre,
-wenn der Empfänger einer Schadensausgleichsleistung seiner
+Rückforderung ist, außer in den Fällen des § 8 des
+Entschädigungsgesetzes, nach Ablauf von vier Jahren nach dem
+Kalenderjahr, in dem die Ausgleichsbehörde von dem Schadensausgleich
+und von der Person des Verpflichteten Kenntnis erlangt hat, frühestens
+jedoch nach dem 31. Dezember 1996, ausgeschlossen; die Frist beträgt
+zehn Jahre, wenn der Empfänger einer Schadensausgleichsleistung seiner
 Verpflichtung nach Satz 3 nicht nachgekommen ist. Die Frist kann durch
 schriftliche Mitteilung an den Verpflichteten unterbrochen werden.
 
@@ -7471,8 +7490,10 @@ dieses Gesetzes gemäß Artikel 87 Abs. 2 seiner Verfassung beschließt.
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 920)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 920) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3591
 
+Zuletzt geändert durch
+:   Art. 1 V v. 13.12.2018 I 2453
+
 
 ## Eingangsformel
 
@@ -27,13 +30,19 @@ Deutschen Bundesbank:
 ## § 1 Anwendungsbereich; Befugnisse der Bundesanstalt
 
 (1) Monatsausweise sowie die weiteren Angaben nach dieser Verordnung
-sind von allen Zahlungsinstituten einzureichen.
+sind von allen Instituten im Sinne des
+Zahlungsdiensteaufsichtsgesetzes einzureichen. Abweichend von Satz 1
+sind von Zahlungsinstituten, die als Zahlungsdienst nur den
+Kontoinformationsdienst nach § 1 Absatz 1 Satz 2 Nummer 8 des
+Zahlungsdiensteaufsichtsgesetzes anbieten, lediglich die weiteren
+Angaben nach § 3 Absatz 1 Nummer 2 Buchstabe c einzureichen.
 
 (2) Die Bundesanstalt für Finanzdienstleistungsaufsicht
 (Bundesanstalt) kann, soweit dies zur Erfüllung ihrer Aufgaben
-erforderlich ist, gegenüber den Zahlungsinstituten Anordnungen über
-die Aufstellung und den Inhalt der Monatsausweise sowie über die
-weiteren Angaben nach § 3 dieser Verordnung erlassen.
+erforderlich ist, gegenüber den Instituten im Sinne des
+Zahlungsdiensteaufsichtsgesetzes Anordnungen über die Aufstellung und
+den Inhalt der Monatsausweise sowie über die weiteren Angaben nach § 3
+dieser Verordnung erlassen.
 
 
 ## § 2 Art und Umfang des Monatsausweises
@@ -44,15 +53,49 @@ Verlustrechnung, die den Zeitraum seit dem Ende des letzten
 Geschäftsjahres umfasst.
 
 
-## § 3 Zahlungsvolumen
+## § 3 Weitere Angaben
 
-Die Zahlungsinstitute haben zusätzlich zum Monatsausweis ihr
-Zahlungsvolumen, die Anzahl der Zahlungsvorgänge und die Anzahl der
-ausgegebenen Zahlungsauthentifizierungsinstrumente anzugeben. Soweit
-die Angaben das Finanztransfergeschäft im Sinne des § 1 Absatz 2
-Nummer 6 des Zahlungsdiensteaufsichtsgesetzes betreffen, sind sie
-zusätzlich, bezogen auf den Zahlungsempfänger, in die verschiedenen
-Zahlungsrichtungen zu untergliedern.
+(1) Die weiteren Angaben sind im Falle
+
+1.  der Ausgabe von E-Geld nach § 1 Absatz 2 Satz 2 des
+    Zahlungsdiensteaufsichtsgesetzes der durchschnittliche E-Geld-Umlauf
+    im Sinne des § 1 Absatz 14 des Zahlungsdiensteaufsichtsgesetzes am
+    Ende des Berichtszeitraums und die Anzahl der ausgegebenen E-Geld-
+    Instrumente;
+
+
+2.  des Erbringens von
+
+    a)  Zahlungsdiensten nach § 1 Absatz 1 Satz 2 Nummer 1 bis 6 des
+        Zahlungsdiensteaufsichtsgesetzes das Zahlungsvolumen, die Anzahl der
+        Zahlungsvorgänge und die Anzahl der ausgegebenen Zahlungsinstrumente,
+
+
+    b)  Zahlungsauslösediensten nach § 1 Absatz 1 Satz 2 Nummer 7 des
+        Zahlungsdiensteaufsichtsgesetzes der Wert der eingegangenen
+        Erstattungsbegehren, die Anzahl der ausgelösten Zahlungsvorgänge und
+        der Gesamtwert der ausgelösten Zahlungsvorgänge,
+
+
+    c)  Kontoinformationsdiensten nach § 1 Absatz 1 Satz 2 Nummer 8 des
+        Zahlungsdiensteaufsichtsgesetzes der Wert der eingegangenen
+        Erstattungsbegehren, die Anzahl der Zahlungskonten, auf die
+        zugegriffen wurde, und die Gesamtzahl der Kunden, die
+        Kontoinformationsdienste nutzen.
+
+
+
+
+
+
+
+(2) Die weiteren Angaben nach Absatz 1 Nummer 2 Buchstabe a erstrecken
+sich zusätzlich auf die Anzahl und den Gesamtbetrag der
+Rückbelastungen. Sie sind ferner, soweit sie das
+Finanztransfergeschäft nach § 1 Absatz 1 Satz 2 Nummer 6 des
+Zahlungsdiensteaufsichtsgesetzes betreffen, bezogen auf den
+Zahlungsempfänger in die verschiedenen Zahlungsrichtungen zu
+untergliedern.
 
 
 ## § 4 Berichtszeitraum
@@ -66,38 +109,42 @@ Bundesanstalt erforderlich ist.
 ## § 5 Einreichungsverfahren und Einreichungstermin
 
 (1) Die Monatsausweise und die weiteren Angaben nach § 3 sind von den
-Zahlungsinstituten mit den folgenden Formularen einzureichen:
+Instituten mit den folgenden Formularen einzureichen:
 
-1.  Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG
+1.  Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG
+
     – Vermögensstatus –:
 
-    STZAG (Anlage 1 dieser Verordnung),
+    STZAG (Anlage 1),
 
 
-2.  Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG
+2.  Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG
+
     – Gewinn- und Verlustrechnung –:
 
-    GVZAG (Anlage 2 dieser Verordnung),
+    GVZAG (Anlage 2),
 
 
 3.  weitere Angaben gemäß § 3 ZAGMonAwV
-    – Zahlungsvolumen –:
 
-    ZVZAG (Anlage 3 dieser Verordnung).
+    – Weitere Angaben –:
+
+    WAZAG (Anlage 3).
 
 
 
-Zahlungsinstitute, die zugleich Kreditinstitut im Sinne des § 1 Absatz
-1 Satz 1 des Kreditwesengesetzes sind und Monatsausweise nach Maßgabe
-des § 25 des Kreditwesengesetzes in Verbindung mit der
-Monatsausweisverordnung einzureichen haben, haben anstelle der in Satz
-1 Nummer 1 und 2 genannten Formulare die Formulare aus den Anlagen 4
-und 5 (ESTZAG und EGVZAG) zu verwenden; die Pflicht zur Verwendung des
-Formulars aus der Anlage 3 (ZVZAG) bleibt daneben bestehen.
+Institute, die zugleich Kreditinstitut im Sinne des § 1 Absatz 1 Satz
+1 des Kreditwesengesetzes sind und Finanzinformationen nach Maßgabe
+des § 25 des Kreditwesengesetzes in Verbindung mit der Finanz- und
+Risikotragfähigkeitsverordnung einzureichen haben, haben anstelle der
+in Satz 1 Nummer 1 und 2 genannten Formulare die Formulare aus den
+Anlagen 4 und 5 (ESTZAG und EGVZAG) zu verwenden; die Pflicht zur
+Verwendung des Formulars aus der Anlage 3 (WAZAG) bleibt daneben
+bestehen.
 
 (2) Die Monatsausweise sowie die weiteren Angaben nach § 3 sind der
 Deutschen Bundesbank jeweils nach dem Stand zum Ende des
-Berichtszeitraums bis zum 15. Geschäftstag des Folgemonats
+Berichtszeitraums bis zum 20. Geschäftstag des Folgemonats
 einzureichen.
 
 (3) Die Monatsausweise sowie die weiteren Angaben nach § 3 sind im
@@ -111,9 +158,12 @@ Satzformate und den Einreichungsweg.
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
+(zu § 5 Absatz 1 Satz 1)
+STZAG
 
-## Anlage 1 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Vermögensstatus –
+## Anlage 1 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Vermögensstatus –
 
+(Fundstelle: BGBl. I 2018, 2456 - 2458)
 
 *    *
     *
@@ -132,13 +182,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+*    *[^F804973_02_BJNR359100009BJNE000801118]
+   Die angegebenen Beträge lauten auf volle Euro
+        )
 
 
 *    *   **Aktiva**
 
-    *
 
 
 
@@ -152,9 +202,28 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0110
+
+    *   **
+
+
+*    *
+    *
+    *   *darunter:*
+
+    *
+    *
+
+*    *
+    *
+    *   0111
+
+    *   Guthaben bei Zentralnotenbanken
+
+    *   0111
 
     *   **
 
@@ -169,11 +238,29 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
+*    *
+    *
+    *   *darunter:*
+
+    *
+    *
+
+*    *
+    *
+    *   0121
+
+    *   Guthaben bei Zentralnotenbanken
+
+    *   0121
+
+    *   **
+
+
 *    *   **Summe:**                      (0110 + 0120)
 
     *   **0100**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0200**
@@ -186,7 +273,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0210
 
@@ -252,7 +340,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0200**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0300**
@@ -265,7 +353,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0310
 
@@ -334,12 +423,12 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0300**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0400**
 
-    *   **Forderungen an Zahlungsinstitute**
+    *   **Forderungen an Institute im Sinne des § 1 Absatz 3 ZAG**
 
     *
     *
@@ -347,7 +436,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0410
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0410
 
@@ -368,12 +457,14 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0500**
 
-    *   **Schuldverschreibungen und andere festverzinsliche Wertpapiere**
+    *   Schuldverschreibungen und
+        andere festverzinsliche
+        **Wertpapiere**
 
     *
     *
@@ -390,8 +481,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0511
 
-    *   aus Zahlungs-
-        diensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0511
 
@@ -410,7 +500,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   Summe: (0511+0512)
+*    *   Summe: (0511 + 0512)
 
     *   0510
 
@@ -430,8 +520,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0521
 
-    *   aus Zahlungs-
-        diensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0521
 
@@ -450,18 +540,18 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   Summe: (0521+0522)
+*    *   Summe: (0521 + 0522)
 
     *   0520
 
     *   **
 
 
-*    *   **Summe:**                      (0510+0520)
+*    *   **Summe:**                      (0510 + 0520)
 
     *   **0500**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0600**
@@ -475,7 +565,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0610
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0610
 
@@ -496,7 +587,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0600**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0700**
@@ -509,7 +600,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0710
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0710
 
@@ -550,7 +642,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0713
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0713
 
@@ -601,7 +693,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0723
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0723
 
@@ -612,7 +704,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0700**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0800**
@@ -625,7 +717,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0810
 
@@ -666,7 +759,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0813
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0813
 
@@ -717,7 +810,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0823
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0823
 
@@ -728,7 +821,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0800**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0900**
@@ -741,7 +834,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   0910
 
@@ -762,7 +856,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0900**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1000**
@@ -775,7 +869,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   1010
 
@@ -796,16 +891,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1000**
 
-    *   ** ****
-
-
-*    *   **1100**
-
-    *   **Eigene Aktien oder Anteile**
-
-    *   **1100**
-
-    *   ** ****
+    *   **
 
 
 *    *   **1200**
@@ -818,7 +904,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   1210
 
@@ -839,7 +926,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1200**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1300**
@@ -852,7 +939,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   1310
 
@@ -873,7 +961,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1300**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1400**
@@ -882,7 +970,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1500**
@@ -891,7 +979,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1500**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1600**
@@ -900,7 +988,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1600**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1700**
@@ -911,17 +999,21 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1700**
 
-    *   ** ****
-
-
-
-
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+    *   **
 
 
 *    *
-    *   **Passiva**
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+
+*    *   **Passiva**
 
 
 
@@ -936,7 +1028,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1810
 
@@ -1019,7 +1111,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1800**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1900**
@@ -1032,7 +1124,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1910
 
@@ -1077,6 +1169,24 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *
+    *
+    *   *davon:*
+
+    *
+    *
+
+*    *
+    *
+    *   1913
+
+    *   aus der Ausgabe von E-Geld
+
+    *   1913
+
+    *   **
+
+
+*    *
     *   1920
 
     *   aus sonstigen Tätigkeiten
@@ -1090,12 +1200,14 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1900**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2000**
 
-    *   **Verbindlichkeiten gegenüber Zahlungsinstituten**
+    *   Verbindlichkeiten gegenüber
+        Instituten im Sinne des § 1
+        **Absatz 3 ZAG**
 
     *
     *
@@ -1103,7 +1215,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2010
 
@@ -1124,7 +1236,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2000**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2100**
@@ -1137,7 +1249,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2110
 
@@ -1158,7 +1270,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2100**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2200**
@@ -1171,7 +1283,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und
+        aus der Ausgabe von E-Geld
 
     *   2210
 
@@ -1192,7 +1305,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2200**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2300**
@@ -1205,7 +1318,9 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und
+        aus der Ausgabe von
+        E-Geld
 
     *   2310
 
@@ -1226,7 +1341,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2300**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2400**
@@ -1235,7 +1350,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2500**
@@ -1248,7 +1363,9 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2510
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und
+        aus der Ausgabe von
+        E-Geld
 
     *   2510
 
@@ -1269,7 +1386,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2500**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2600**
@@ -1278,7 +1395,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2600**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -1290,7 +1407,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2610
 
-    *   vor Ablauf von zwei Jahren fällig
+    *   vor Ablauf von zwei Jahren
+        fällig
 
     *   2610
 
@@ -1303,7 +1421,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2700**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2800**
@@ -1346,8 +1464,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   2812
 
     *   Abzugsposten:
-        Ausstehende Ein-
-        lagen auf das gezeichnete Kapital
+        Ausstehende Einlagen auf das gezeichnete Kapital
 
     *   2812
 
@@ -1368,7 +1485,6 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   2830
 
     *   Gewinnvortrag/Verlust-
-[^F772648_02_BJNR359100009BJNE000800000]
         vortrag
 
     *   2830
@@ -1379,8 +1495,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2840
 
-    *   Bilanzgewinn/Bilanz-
-        verlust
+    *[^F804973_03_BJNR359100009BJNE000801118]
+   Bilanzgewinn/Bilanzverlust
 
     *   2840
 
@@ -1392,7 +1508,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2800**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2900**
@@ -1402,7 +1518,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2900**
 
-    *   ** ****
+    *   **
 
 
 *    *   **3000**
@@ -1415,7 +1531,9 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   3010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und
+        aus der Ausgabe von
+        E-Geld
 
     *   3010
 
@@ -1436,7 +1554,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **3000**
 
-    *   ** ****
+    *   **
 
 
 *    *   **3100**
@@ -1449,7 +1567,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   3110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von
+        E-Geld
 
     *   3110
 
@@ -1470,7 +1589,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **3100**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Kontrollsumme:**
@@ -1478,7 +1597,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **9010**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -1486,9 +1605,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
 
 
-[^F772648_01_BJNR359100009BJNE000800000]
-[^F772648_01_BJNR359100009BJNE000800000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
+[^F804973_02_BJNR359100009BJNE000801118]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
+    Rundungsregel (5/4).                Umrechnung von nicht auf Euro
     lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
@@ -1502,12 +1620,14 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     sind Fremdwährungsbeträge direkt, das heißt ohne Zwischenumrechnung in
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
-    Vorzeichen angeben.
-[^F772648_02_BJNR359100009BJNE000800000]: 
+[^F804973_03_BJNR359100009BJNE000801118]:     Vorzeichen angeben.
 
-## Anlage 2 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
+(zu § 5 Absatz 1 Satz 1)
+GVZAG
 
-(Fundstelle: BGBl. I 2009, 3595 - 3596)
+## Anlage 2 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
+
+(Fundstelle: BGBl. I 2018, 2459 - 2461)
 
 *    *
     *
@@ -1526,13 +1646,12 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+*    *[^F804973_04_BJNR359100009BJNE000901118]
+   Die angegebenen Beträge lauten auf volle Euro
+        )
 
 
 *    *   **Übersicht Gewinn- und Verlustrechnung**
-
-    *   ****
 
 
 
@@ -1547,7 +1666,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -1630,7 +1749,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0100**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0200**
@@ -1643,7 +1762,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0210
 
@@ -1666,7 +1785,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0200**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0300**
@@ -1679,7 +1798,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -1782,7 +1901,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0300**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0400**
@@ -1796,7 +1915,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0410
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0410
 
@@ -1819,7 +1938,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0500**
@@ -1832,7 +1951,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0510
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0510
 
@@ -1855,7 +1974,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0500**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0600**
@@ -1868,7 +1987,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0610
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0610
 
@@ -1891,7 +2010,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0600**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0700**
@@ -1904,7 +2023,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0710
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0710
 
@@ -1927,7 +2046,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0700**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0800**
@@ -1941,7 +2060,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -2118,7 +2237,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0800**
 
-    *   ** ****
+    *   **
 
 
 *    *   **0900**
@@ -2132,7 +2251,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0910
 
@@ -2155,7 +2274,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0900**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Kontrollsumme:**
@@ -2163,18 +2282,14 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **9010**
 
-    *   ** ****
+    *   **
 
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+*    *
 
-
-*    *   ****
-
-    *   **noch Gewinn- und Verlustrechnung**
+*    *   **noch Gewinn- und Verlustrechung**
 
 
 
@@ -2190,7 +2305,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1010
 
@@ -2213,14 +2328,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1000**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1100**
 
     *   **Abschreibungen und Wertberich-**
-        **tigungen auf Forderungen und**
-        **bestimmte Wertpapiere sowie**
+        **tigungen auf Forderungen und bestimmte Wertpapiere sowie**
         **Zuführungen zu Rückstellungen**
         **im Kreditgeschäft**
 
@@ -2230,7 +2344,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1110
 
@@ -2253,7 +2367,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1100**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1200**
@@ -2268,7 +2382,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1210
 
@@ -2291,7 +2405,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1200**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1300**
@@ -2306,7 +2420,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1310
 
@@ -2329,7 +2443,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1300**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1400**
@@ -2343,7 +2457,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1410
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1410
 
@@ -2366,7 +2480,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1500**
@@ -2379,7 +2493,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1510
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1510
 
@@ -2402,12 +2516,12 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1500**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1600**
 
-    *[^F772648_02_BJNR359100009BJNE000900000]
+    *[^F804973_05_BJNR359100009BJNE000901118]
    **Ergebnis der normalen Geschäftstätigkeit**
 
     *
@@ -2416,7 +2530,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1610
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1610
 
@@ -2439,10 +2553,10 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1600**
 
-    *   ** ****
+    *   **
 
 
-*    *   1 **700**
+*    *   **1700**
 
     *   **Außerordentliches Ergebnis**
 
@@ -2452,7 +2566,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1710
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -2535,7 +2649,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1700**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1800**
@@ -2548,7 +2662,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1810
 
@@ -2571,7 +2685,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1800**
 
-    *   ** ****
+    *   **
 
 
 *    *   **1900**
@@ -2584,7 +2698,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1910
 
@@ -2607,7 +2721,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1900**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2000**
@@ -2620,7 +2734,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2010
 
@@ -2643,14 +2757,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2000**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2100**
 
-    *   **Auf Grund einer Gewinngemeinschaft, eines Gewinnabfüh-**
-        **rungs- oder eines Teilgewinn-**
-        **abführungsvertrags abgeführte Gewinne**
+    *   **Auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder
+        eines Teilgewinnabführungsvertrags abgeführte Gewinne**
 
     *
     *
@@ -2658,7 +2771,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2110
 
@@ -2681,7 +2794,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2100**
 
-    *   ** ****
+    *   **
 
 
 *    *   **2200**
@@ -2693,7 +2806,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2210
 
@@ -2716,7 +2829,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2200**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Kontrollsumme:**
@@ -2726,7 +2839,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **9020**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -2734,9 +2847,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
 
 
-[^F772648_01_BJNR359100009BJNE000900000]
-[^F772648_01_BJNR359100009BJNE000900000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
+[^F804973_04_BJNR359100009BJNE000901118]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
+    Rundungsregel (5/4).                Umrechnung von nicht auf Euro
     lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
@@ -2750,12 +2862,14 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     sind Fremdwährungsbeträge direkt, das heißt ohne Zwischenumrechnung in
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
-    Vorzeichen angeben.
-[^F772648_02_BJNR359100009BJNE000900000]: 
+[^F804973_05_BJNR359100009BJNE000901118]:     Vorzeichen angeben.
+
+(zu § 5 Absatz 1 Satz 1)
+WAZAG
 
 ## Anlage 3 Weitere Angaben gemäß § 3 ZAGMonAwV – Zahlungsvolumen –
 
-(Fundstelle: BGBl. I 2009, 3597 - 3598)
+(Fundstelle: BGBl. I 2018, 2462 - 2463)
 
 *    *
     *
@@ -2774,8 +2888,9 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 
-*    *   **Zahlungsvolumen**
-        2                     )
+*    *[^F804973_06_BJNR359100009BJNE001001118]
+   **Zahlungsvolumen**
+        )
 
     *
 
@@ -2784,13 +2899,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *   **0100**
 
     *   **Zahlungsvolumen als Betrag**
-[^F772648_03_BJNR359100009BJNE001000000]
-        **(Beträge lauten auf Tsd. Euro**
+[^F804973_07_BJNR359100009BJNE001001118]
+        **(Beträge lauten auf volle Euro**
         **)**
 
     *   **0100**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -2803,38 +2918,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0110
 
-    *   aus Einzahlungs- oder Auszahlungsgeschäft
-
-    *
-    *
-
-*    *
-    *
-    *   0111
-
-    *   aus Einzahlungs-
-        geschäft
-
-    *   0111
-
-    *   **
-
-
-*    *
-    *
-    *   0112
-
-    *   aus Auszahlungs-
-        geschäft
-
-    *   0112
-
-    *   **
-
-
-*    *
-    *
-    *   Summe: (0111 + 0112)
+    *   Einzahlungsgeschäft
 
     *   0110
 
@@ -2844,12 +2928,21 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0120
 
-    *   aus Zahlungsgeschäft ohne/mit Kreditgewährung
+    *   Auszahlungsgeschäft
 
     *   0120
 
     *   **
 
+
+*    *
+    *   0130
+
+    *   aus Zahlungsgeschäft
+        ohne/mit Kreditgewährung
+
+    *
+    *
 
 *    *
     *
@@ -2860,43 +2953,42 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   0121
+    *   0131
 
     *   aus Lastschrift-
         geschäft
 
-    *   0121
+    *   0131
 
     *   **
 
 
 *    *
     *
-    *   0122
-
-    *   aus Überweisungsgeschäft
-
-    *   0122
-
-    *   **
-
-
-*    *
-    *
-    *   0123
+    *   0132
 
     *   aus Zahlungskartengeschäft
 
-    *   0123
+    *   0132
 
     *   **
 
 
 *    *
-    *   0130
+    *
+    *   0133
 
-    *   aus Annahme und Abrechnung von mit Zahlungs-
-        authentifizierungsgeschäft ausgelösten Zahlungsvorgängen
+    *   aus Überweisungsgeschäft
+
+    *   0133
+
+    *   **
+
+
+*    *
+    *
+    *
+    *   Summe: (0131 + 0132 + 0133)
 
     *   0130
 
@@ -2906,8 +2998,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0140
 
-    *   aus digitalisiertem
-        Zahlungsgeschäft
+    *   aus Akquisitionsgeschäft
 
     *   0140
 
@@ -2918,6 +3009,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   0150
 
     *   aus Finanztransfergeschäft
+
+    *
+    *
+
+*    *
+    *
+    *   *darunter:*
 
     *
     *
@@ -2984,7 +3082,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0200**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -2996,36 +3094,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0210
 
-    *   aus Einzahlungs- oder Auszahlungsgeschäft
-
-    *
-    *
-
-*    *
-    *
-    *   0211
-
-    *   aus Einzahlungs-
-        geschäft
-
-    *   0211
-
-    *   **
-
-
-*    *
-    *
-    *   0212
-
-    *   aus Auszahlungs-
-        geschäft
-
-    *   0212
-
-    *   **
-
-
-*    *   Summe:  (0211 + 0212)
+    *   Einzahlungsgeschäft
 
     *   0210
 
@@ -3035,13 +3104,21 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0220
 
-    *   aus Zahlungsgeschäft
-        ohne/mit Kreditgewährung
+    *   Auszahlungsgeschäft
 
     *   0220
 
     *   **
 
+
+*    *
+    *   0230
+
+    *   aus Zahlungsgeschäft
+        ohne/mit Kreditgewährung
+
+    *
+    *
 
 *    *
     *
@@ -3052,43 +3129,42 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   0221
+    *   0231
 
     *   aus Lastschrift-
         geschäft
 
-    *   0221
+    *   0231
 
     *   **
 
 
 *    *
     *
-    *   0222
-
-    *   aus Überweisungsgeschäft
-
-    *   0222
-
-    *   **
-
-
-*    *
-    *
-    *   0223
+    *   0232
 
     *   aus Zahlungskartengeschäft
 
-    *   0223
+    *   0232
 
     *   **
 
 
 *    *
-    *   0230
+    *
+    *   0233
 
-    *   aus Annahme und Abrechnung von mit Zahlungs-
-        authentifizierungsgeschäft ausgelösten Zahlungsvorgängen
+    *   aus Überweisungsgeschäft
+
+    *   0233
+
+    *   **
+
+
+*    *
+    *
+    *
+    *   Summe: (0231 + 0232 + 0233)
 
     *   0230
 
@@ -3098,8 +3174,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0240
 
-    *   aus digitalisiertem
-        Zahlungsgeschäft
+    *   aus Akquisitionsgeschäft
 
     *   0240
 
@@ -3110,6 +3185,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   0250
 
     *   aus Finanztransfergeschäft
+
+    *
+    *
+
+*    *
+    *
+    *   *darunter:*
 
     *
     *
@@ -3173,10 +3255,139 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *   **0300**
 
     *   **Anzahl der ausgegebenen**
-        **Zahlungsauthentifizierungs-**
-        **instrumente**
+        **Zahlungsinstrumente**
 
     *   **0300**
+
+    *   **
+
+
+*    *   **0400**
+
+    *   Rückbelastungen bei der
+        **Erbringung von Zahlungsdiensten**
+
+    *
+    *
+
+*    *
+    *   0410
+
+    *   Anzahl der Rückbelastungen
+
+    *   0410
+
+    *   **
+
+
+*    *
+    *   0420
+
+    *   Gesamtbetrag der Rückbelastungen
+
+    *   0420
+
+    *   **
+
+
+*    *   **0500**
+
+    *   **Angaben zum E-Geld-Geschäft**
+
+    *
+    *
+
+*    *
+    *   0510
+
+    *   Höhe des durchschnittlichen E-Geld-Umlaufs
+
+    *   0510
+
+    *   **
+
+
+*    *
+    *   0520
+
+    *   Anzahl der ausgegebenen
+        E-Geld-Instrumente
+
+    *   0520
+
+    *   **
+
+
+*    *   **0600**
+
+    *   **Zahlungsauslösedienste**
+
+    *
+    *
+
+*    *
+    *   0610
+
+    *   Wert der eingegangenen Erstattungsbegehren
+
+    *   0610
+
+    *   **
+
+
+*    *
+    *   0620
+
+    *   Anzahl der ausgelösten Zahlungsvorgänge
+
+    *   0620
+
+    *   **
+
+
+*    *
+    *   0630
+
+    *   Gesamtwert der ausgelösten Zahlungsvorgänge
+
+    *   0630
+
+    *   **
+
+
+*    *   **0700**
+
+    *   **Kontoinformationsdienste**
+
+    *
+    *
+
+*    *
+    *   0710
+
+    *   Wert der eingegangenen Erstattungsbegehren
+
+    *   0710
+
+    *   **
+
+
+*    *
+    *   0720
+
+    *   Anzahl der Zahlungskonten, auf die zugegriffen wurde
+
+    *   0720
+
+    *   **
+
+
+*    *
+    *   0730
+
+    *   Gesamtzahl der Kunden, die Kontoinformationsdienste nutzen
+
+    *   0730
 
     *   **
 
@@ -3189,12 +3400,11 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
 
 
-[^F772648_01_BJNR359100009BJNE001000000]
-   Es sind jeweils die Beträge bzw. Stückzahlen der einzelnen
+[^F804973_06_BJNR359100009BJNE001001118]:    Es sind jeweils die Beträge bzw. Stückzahlen der einzelnen
     Berichtsmonate als Summen zu melden.
-[^F772648_03_BJNR359100009BJNE001000000]: [^F772648_01_BJNR359100009BJNE001000000]:     Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
-    lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
+[^F804973_07_BJNR359100009BJNE001001118]:     Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
+    Rundungsregel (5/4).                 Umrechnung von nicht auf Euro
+    lautenden Positionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
     Referenzkurs („ESZB-Referenzkurs“) in Euro umzurechnen. Bei der
@@ -3208,10 +3418,12 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
 
+(zu § 5 Absatz 1 Satz 2)
+ESTZAG
 
-## Anlage 4 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Vermögensstatus –
+## Anlage 4 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Vermögensstatus –
 
-(Fundstelle: BGBl. I 2009, 3599 - 3600)
+(Fundstelle: BGBl. I 2018, 2464 - 2465)
 
 *    *
     *
@@ -3230,13 +3442,13 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+*    *[^F804973_08_BJNR359100009BJNE001101118]
+   Die angegebenen Beträge lauten auf volle Euro
+        )
 
 
 *    *   **Aktiva**
 
-    *
 
 
 
@@ -3248,7 +3460,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0110
 
@@ -3263,7 +3475,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0210
 
@@ -3324,7 +3536,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0310
 
@@ -3379,7 +3591,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Forderungen an Zahlungsinstitute**
+*    *   **Forderungen an Instituten im Sinne des § 1 Absatz 3 ZAG**
 
     *
     *
@@ -3387,7 +3599,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0410
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0410
 
@@ -3408,7 +3620,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **0400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Schuldverschreibungen und andere festverzinsliche Wertpapiere**
@@ -3426,8 +3638,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0511
 
-    *   aus Zahlungs-
-        diensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0511
 
@@ -3445,8 +3656,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0521
 
-    *   aus Zahlungs-
-        diensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0521
 
@@ -3461,7 +3671,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0610
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0610
 
@@ -3476,7 +3686,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0710
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0710
 
@@ -3517,7 +3727,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0713
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0713
 
@@ -3541,7 +3751,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0723
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0723
 
@@ -3556,7 +3766,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0810
 
@@ -3597,7 +3807,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0813
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0813
 
@@ -3621,7 +3831,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
     *   0823
 
-    *   an Zahlungsinstituten
+    *   an Instituten im Sinne des § 1 Absatz 3 ZAG
 
     *   0823
 
@@ -3636,7 +3846,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0910
 
@@ -3651,7 +3861,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1010
 
@@ -3666,7 +3876,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1210
 
@@ -3681,7 +3891,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1310
 
@@ -3692,7 +3902,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Aktiver Unterschiedsbetrag aus der**
@@ -3700,18 +3910,15 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **1600**
 
-    *   ** ****
+    *   **
 
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
-
+*    *
 
 *    *   **Passiva**
 
-    *
 
 
 
@@ -3724,7 +3931,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1810
 
@@ -3807,7 +4014,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1910
 
@@ -3851,6 +4058,25 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
+*    *
+    *
+    *   *darunter:*
+
+    *
+    *
+
+*    *
+    *
+    *   1913
+
+    *   aus der Ausgabe von
+        E-Geld
+
+    *   1913
+
+    *   **
+
+
 *    *   **Verbindlichkeiten gegenüber Zahlungsinstituten**
 
     *
@@ -3859,7 +4085,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2010
 
@@ -3880,7 +4106,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2000**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Sonstige Verbindlichkeiten**
@@ -3891,7 +4117,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2110
 
@@ -3906,7 +4132,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2210
 
@@ -3921,7 +4147,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2310
 
@@ -3932,7 +4158,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **2400**
 
-    *   ** ****
+    *   **
 
 
 *    *   **Nachrangige Verbindlichkeiten**
@@ -3943,7 +4169,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2510
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2510
 
@@ -3958,7 +4184,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   3010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   3010
 
@@ -3973,7 +4199,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   3110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   3110
 
@@ -3991,7 +4217,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **9010**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -4002,9 +4228,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
 
 
-[^F772648_01_BJNR359100009BJNE001100000]
-[^F772648_01_BJNR359100009BJNE001100000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
+[^F804973_08_BJNR359100009BJNE001101118]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
+    Rundungsregel (5/4).                Umrechnung von nicht auf Euro
     lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
@@ -4019,10 +4244,12 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
 
+(zu § 5 Absatz 1 Satz 2)
+EGVZAG
 
-## Anlage 5 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
+## Anlage 5 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
 
-(Fundstelle: BGBl. I 2009, 3601 - 3602)
+(Fundstelle: BGBl. I 2018, 2466 - 2467)
 
 *    *
     *
@@ -4041,13 +4268,12 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+*    *[^F804973_09_BJNR359100009BJNE001201118]
+   Die angegebenen Beträge lauten auf volle Euro
+        )
 
 
 *    *   **Übersicht Gewinn- und Verlustrechnung**
-
-    *   ****
 
 
 
@@ -4060,7 +4286,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -4104,7 +4330,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0210
 
@@ -4119,7 +4345,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -4177,7 +4403,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0410
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0410
 
@@ -4192,7 +4418,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0510
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0510
 
@@ -4207,7 +4433,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0610
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0610
 
@@ -4222,7 +4448,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0710
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0710
 
@@ -4237,7 +4463,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -4374,7 +4600,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   0910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   0910
 
@@ -4387,18 +4613,15 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **9010**
 
-    *   ** ****
+    *   **
 
 
 
 
-*    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+*    *
 
+*    *   **noch Gewinn- und Verlustrechung**
 
-*    *   **noch Gewinn- und Verlustrechnung**
-
-    *
 
 
 
@@ -4410,7 +4633,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1010
 
@@ -4426,7 +4649,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1110
 
@@ -4443,7 +4666,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1210
 
@@ -4460,7 +4683,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1310
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1310
 
@@ -4476,7 +4699,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1410
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1410
 
@@ -4491,14 +4714,14 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1510
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1510
 
     *   **
 
 
-*    *[^F772648_02_BJNR359100009BJNE001200000]
+*    *[^F804973_10_BJNR359100009BJNE001201118]
    **Ergebnis der normalen Geschäftstätigkeit**
 
     *
@@ -4507,7 +4730,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1610
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1610
 
@@ -4532,7 +4755,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1710
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
     *
@@ -4575,7 +4798,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1810
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1810
 
@@ -4590,7 +4813,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   1910
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   1910
 
@@ -4605,7 +4828,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2010
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2010
 
@@ -4621,7 +4844,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2110
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2110
 
@@ -4636,7 +4859,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 *    *
     *   2210
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *   2210
 
@@ -4650,7 +4873,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   **9020**
 
-    *   ** ****
+    *   **
 
 
 *    *
@@ -4661,9 +4884,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
 
 
-[^F772648_01_BJNR359100009BJNE001200000]
-[^F772648_01_BJNR359100009BJNE001200000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
+[^F804973_09_BJNR359100009BJNE001201118]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
+    Rundungsregel (5/4).                Umrechnung von nicht auf Euro
     lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
@@ -4677,5 +4899,5 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     sind Fremdwährungsbeträge direkt, das heißt ohne Zwischenumrechnung in
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
-    Vorzeichen angeben.
-[^F772648_02_BJNR359100009BJNE001200000]: 
+[^F804973_10_BJNR359100009BJNE001201118]:     Vorzeichen angeben.
+

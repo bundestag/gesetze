@@ -3,7 +3,7 @@ Title: Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffe
   und Pflanzenhilfsmitteln
 jurabk: DüMV 2008
 layout: default
-origslug: d_mv_2008
+origslug: duemv_2008
 slug: duemv_2008
 
 ---

@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1998, 796
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.11.2011 I 2178
+:   Art. 5 G v. 5.12.2012 I 2449
+
+Änderung durch
+:   Art. 4 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
@@ -240,8 +243,8 @@ Landesregierung bestimmte Behörde das Inverkehrbringen dieser Produkte
 untersagen und deren CE-Kennzeichnung entwerten oder beseitigen
 lassen. Das gleiche gilt, wenn Heizkessel und Geräte mit einem
 Kennzeichen versehen sind, das mit der CE-Kennzeichnung verwechselt
-werden kann. Im Übrigen sind die §§ 24 bis 31 des
-Produktsicherheitsgesetzes anzuwenden.
+werden kann. Im Übrigen sind die §§ 4 bis 11 und 17 bis 19 des
+Marktüberwachungsgesetzes anzuwenden.
 
 
 ## § 6 (weggefallen)
@@ -282,15 +285,13 @@ Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 anerkannt worden sind, stehen entsprechend dieser Anerkennung den nach
 Absatz 1 anerkannten Stellen gleich.
 
-(3) Die § 3 Abs. 4 und 5, §§ 4 bis 12 der Verordnung über die
-Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach
-dem Bauproduktengesetz vom 6. Juni 1996 (BGBl. I S. 798) sind
-entsprechend anzuwenden.
+(3) Die §§ 3 bis 12 der BauPG-PÜZ-Anerkennungsverordnung vom 6. Juni
+1996 (BGBl. I S. 798) sind entsprechend anzuwenden.
 
 
 ## § 8 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 14 Absatz 1 des Bauproduktengesetzes
+Ordnungswidrig im Sinne des § 8 Absatz 1 des Bauproduktengesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 1 Satz 1
 oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
 

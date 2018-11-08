@@ -20,7 +20,7 @@ Geändert durch
 
 
 
-## Art 1 bis 10 -
+## Art 1 bis 10 - 
 
 
 

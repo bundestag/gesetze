@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1726
 
+Zuletzt geändert durch
+:   Art. 15 Abs. 5 G v. 4.5.2021 I 882
+
+Änderung durch
+:   Art. 17 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 22 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F1_777603_BJNR172610012]:     Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie
     2009/31/EG des Europäischen Parlaments und des Rates vom 23. April
     2009 über die geologische Speicherung von Kohlendioxid und zur
@@ -105,8 +114,8 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 3.  Forschungsspeicher
 
     Speichervorhaben zur Erforschung, Entwicklung und Erprobung neuer
-    Materialien, Produkte und Verfahren, in die insgesamt weniger als 100
-    000 Tonnen Kohlendioxid injiziert werden;
+    Materialien, Produkte und Verfahren, in die insgesamt weniger als
+    100 000 Tonnen Kohlendioxid injiziert werden;
 
 
 4.  Gesteinsschichten
@@ -233,20 +242,19 @@ Streitschlichtung durchführt. Die Länder können die näheren
 Anforderungen an das Verfahren nach den Sätzen 2 bis 4 bestimmen.
 
 (2) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des
-Verwaltungsverfahrensgesetzes nach Maßgabe des § 43a Nummer 1 bis 4
-sowie 6 und 7, des § 43b Nummer 3 bis 5 und des § 43e des
-Energiewirtschaftsgesetzes. § 11 Absatz 2 gilt entsprechend. Dient die
-Kohlendioxidleitung dem Transport zu einem Kohlendioxidspeicher
-außerhalb des Geltungsbereichs dieses Gesetzes, ist für die
-Planrechtfertigung insbesondere maßgeblich, ob der
-Kohlendioxidspeicher in dem anderen Mitgliedstaat in Übereinstimmung
-mit der Richtlinie 2009/31/EG des Europäischen Parlaments und des
-Rates vom 23. April 2009 über die geologische Speicherung von
-Kohlendioxid und zur Änderung der Richtlinie 85/337/EWG des Rates
-sowie der Richtlinien 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG
-und 2008/1/EG des Europäischen Parlaments und des Rates sowie der
-Verordnung (EG) Nr. 1013/2006 (ABl. L 140 vom 5.6.2009, S. 114)
-errichtet und betrieben wird.
+Verwaltungsverfahrensgesetzes nach Maßgabe des § 43a Nummer 1 bis 4,
+des § 43b Nummer 3 bis 5 und des § 43e des Energiewirtschaftsgesetzes.
+§ 11 Absatz 2 gilt entsprechend. Dient die Kohlendioxidleitung dem
+Transport zu einem Kohlendioxidspeicher außerhalb des Geltungsbereichs
+dieses Gesetzes, ist für die Planrechtfertigung insbesondere
+maßgeblich, ob der Kohlendioxidspeicher in dem anderen Mitgliedstaat
+in Übereinstimmung mit der Richtlinie 2009/31/EG des Europäischen
+Parlaments und des Rates vom 23. April 2009 über die geologische
+Speicherung von Kohlendioxid und zur Änderung der Richtlinie
+85/337/EWG des Rates sowie der Richtlinien 2000/60/EG, 2001/80/EG,
+2004/35/EG, 2006/12/EG und 2008/1/EG des Europäischen Parlaments und
+des Rates sowie der Verordnung (EG) Nr. 1013/2006 (ABl. L 140 vom
+5\.6.2009, S. 114) errichtet und betrieben wird.
 
 (3) Für Vorarbeiten, Veränderungssperren, Vorkaufsrechte und
 vorzeitige Besitzeinweisungen sind die §§ 44 bis 44b des
@@ -281,10 +289,10 @@ Voraussetzungen nach den Sätzen 1 bis 3 entscheidet die zuständige
 Behörde im Planfeststellungsbeschluss. § 15 Absatz 2 und 3 Satz 2 und
 3 gilt entsprechend.
 
-(6) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates festzulegen:
+(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates festzulegen:
 
 1.  Einzelheiten des Planfeststellungsverfahrens nach Absatz 2,
     Bestimmungen für Vorarbeiten, Veränderungssperren, Vorkaufsrechte und
@@ -305,9 +313,9 @@ Zustimmung des Bundesrates festzulegen:
 
 #### § 5 Analyse und Bewertung der Potenziale für die dauerhafte Speicherung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erstellt und
+(1) Das Bundesministerium für Wirtschaft und Energie erstellt und
 aktualisiert im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit eine Bewertung der Potenziale von
+Naturschutz und nukleare Sicherheit eine Bewertung der Potenziale von
 Gesteinsschichten, die im Geltungsbereich dieses Gesetzes für die
 dauerhafte Speicherung von Kohlendioxid im Hinblick auf die Zwecke des
 § 1 Satz 1 geeignet erscheinen.
@@ -362,10 +370,10 @@ Verfügung, die für eine wirksame Analyse und Bewertung der Potenziale
 für die dauerhafte Speicherung erforderlich sind; Einzelheiten regelt
 eine Verwaltungsvereinbarung.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie
-veröffentlicht die Bewertung der Potenziale für die dauerhafte
-Speicherung und jeweilige Änderungen. Vor der Veröffentlichung sind
-die Länder anzuhören.
+(5) Das Bundesministerium für Wirtschaft und Energie veröffentlicht
+die Bewertung der Potenziale für die dauerhafte Speicherung und
+jeweilige Änderungen. Vor der Veröffentlichung sind die Länder
+anzuhören.
 
 
 #### § 6 Register; Verordnungsermächtigung; Bericht an die Kommission
@@ -432,11 +440,11 @@ nach § 2 Absatz 2 Satz 2 erforderlich sind. Für die öffentliche
 Zugänglichkeit des Registers gelten die §§ 7 bis 9 des
 Umweltinformationsgesetzes entsprechend.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates die Erstellung und Führung des Registers,
-die für diesen Zweck erforderliche Erhebung, Verarbeitung und Löschung
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates die Erstellung und Führung des Registers, die für diesen
+Zweck erforderliche Erhebung, Verarbeitung und Löschung
 personenbezogener Daten, die öffentliche Zugänglichkeit des Registers
 und die jeweils erforderlichen Verfahren zu regeln.
 
@@ -925,7 +933,7 @@ Plangenehmigung sind Ziele der Raumordnung zu beachten sowie
 Grundsätze und sonstige Erfordernisse der Raumordnung zu
 berücksichtigen. Bei der Entscheidung sind im Rahmen der
 Genehmigungsvoraussetzungen und der Abwägung die Ergebnisse der
-Umweltverträglichkeitsprüfung nach § 12 des Gesetzes über die
+Umweltverträglichkeitsprüfung nach § 25 des Gesetzes über die
 Umweltverträglichkeitsprüfung im Hinblick auf eine wirksame
 Umweltvorsorge zu berücksichtigen. Auf die Belange der Land- und
 Forstwirtschaft ist Rücksicht zu nehmen.
@@ -1320,17 +1328,16 @@ enthält.
 
 ##### § 25 Regelung von Anforderungen an Kohlendioxidspeicher
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass zu
-den in § 1 Satz 1 genannten Zwecken, zur Umsetzung von Rechtsakten der
-Europäischen Union, zur Erfüllung des § 7 Absatz 1 und 2 die
-Untersuchung und zur Erfüllung des § 13 Absatz 1 Satz 1 Nummer 1 bis
-4, 6 und Satz 2 sowie des § 21 Absatz 1 die Errichtung, der Betrieb,
-die Überwachung, die Stilllegung, die Nachsorge und die Beschaffenheit
-von Kohlendioxidspeichern bestimmten Anforderungen genügen müssen,
-insbesondere,
+(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+Bundesrates zu bestimmen, dass zu den in § 1 Satz 1 genannten Zwecken,
+zur Umsetzung von Rechtsakten der Europäischen Union, zur Erfüllung
+des § 7 Absatz 1 und 2 die Untersuchung und zur Erfüllung des § 13
+Absatz 1 Satz 1 Nummer 1 bis 4, 6 und Satz 2 sowie des § 21 Absatz 1
+die Errichtung, der Betrieb, die Überwachung, die Stilllegung, die
+Nachsorge und die Beschaffenheit von Kohlendioxidspeichern bestimmten
+Anforderungen genügen müssen, insbesondere,
 
 1.  dass die Kohlendioxidspeicher bestimmten betrieblichen,
     organisatorischen und technischen Anforderungen genügen müssen und
@@ -1406,23 +1413,23 @@ entsprechen; die Rechtsverordnungen sind gegebenenfalls anzupassen.
 
 ##### § 26 Regelung von Anforderungen an das Verfahren
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Verfahren für die
-Untersuchungsgenehmigung, die Planfeststellung und die Plangenehmigung
-sowie die Stilllegungsgenehmigung zu regeln, insbesondere Einzelheiten
-des Antragsinhalts nach § 12 Absatz 1 und der nach § 12 Absatz 2
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates das Verfahren für die Untersuchungsgenehmigung, die
+Planfeststellung und die Plangenehmigung sowie die
+Stilllegungsgenehmigung zu regeln, insbesondere Einzelheiten des
+Antragsinhalts nach § 12 Absatz 1 und der nach § 12 Absatz 2
 vorzulegenden Unterlagen, und weitere Anforderungen an den
 Antragsinhalt und an vorzulegende Unterlagen festzulegen sowie den
 Inhalt des Planfeststellungsbeschlusses oder der Plangenehmigung nach
 § 13 Absatz 2 näher zu bestimmen.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates die Anforderungen an die Form, die Inhalte
-und das Verfahren zur Erstellung, Fortschreibung und Vorlage des
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates die Anforderungen an die Form, die Inhalte und das
+Verfahren zur Erstellung, Fortschreibung und Vorlage des
 Sicherheitsnachweises nach § 19, des Überwachungskonzepts nach § 20
 und des Stilllegungs- und Nachsorgekonzepts nach § 17 Absatz 2 Satz 2
 näher zu bestimmen.
@@ -1487,15 +1494,15 @@ durchzuführen, die zur Erfüllung ihrer Aufgaben notwendig sind:
 
 
 Sie können hierbei von den verantwortlichen oder dort beschäftigten
-Personen die erforderlichen Auskünfte verlangen. Im Übrigen gilt § 36
-Satz 1 des Produktsicherheitsgesetzes entsprechend. Zur Verhütung
-dringender Gefahren für die öffentliche Sicherheit und Ordnung dürfen
-auch Betriebs- und Geschäftsräume außerhalb der üblichen
-Geschäftszeiten sowie Wohnungen betreten und dort die erforderlichen
-Prüfungen vorgenommen werden. Das Grundrecht auf Unverletzlichkeit der
-Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird durch Satz 4
-eingeschränkt. Für die zur Auskunft verpflichtete Person gilt § 55 der
-Strafprozessordnung entsprechend.
+Personen die erforderlichen Auskünfte verlangen. Im Übrigen gilt § 7
+Absatz 4 und 5 des Gesetzes über überwachungsbedürftige Anlagen
+entsprechend. Zur Verhütung dringender Gefahren für die öffentliche
+Sicherheit und Ordnung dürfen auch Betriebs- und Geschäftsräume
+außerhalb der üblichen Geschäftszeiten sowie Wohnungen betreten und
+dort die erforderlichen Prüfungen vorgenommen werden. Das Grundrecht
+auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des
+Grundgesetzes) wird durch Satz 4 eingeschränkt. Für die zur Auskunft
+verpflichtete Person gilt § 55 der Strafprozessordnung entsprechend.
 
 (3) Die zuständige Behörde führt regelmäßige Kontrollen der
 Kohlendioxidspeicher einschließlich der zugehörigen Anlagen und
@@ -1788,11 +1795,10 @@ ihm zurückgefordert werden.
 
 ### § 32 Verordnungsermächtigung für die Deckungsvorsorge und die Übertragung der Verantwortung
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu
-erlassen über
+(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+Bundesrates nähere Vorschriften zu erlassen über
 
 1.  den Zeitpunkt, ab dem der Betreiber eines Kohlendioxidspeichers nach §
     30 Deckungsvorsorge zu treffen hat,
@@ -1820,13 +1826,13 @@ erlassen über
 
 
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften
-über die Übertragung der Verantwortung nach § 31 zu erlassen und
-insbesondere das Verfahren sowie die Anforderungen an den
-Langzeitsicherheitsnachweis nach § 31 Absatz 3 näher zu bestimmen.
+(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+Bundesrates nähere Vorschriften über die Übertragung der Verantwortung
+nach § 31 zu erlassen und insbesondere das Verfahren sowie die
+Anforderungen an den Langzeitsicherheitsnachweis nach § 31 Absatz 3
+näher zu bestimmen.
 
 
 ## Kapitel 5 - Anschluss und Zugang Dritter
@@ -1882,8 +1888,8 @@ die notwendigen Ausbaumaßnahmen vorzunehmen, soweit
 diese Maßnahmen die Sicherheit des Kohlendioxidtransports und der
 Kohlendioxidspeicherung nicht beeinträchtigen.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  Vorschriften zu erlassen über die technischen und wirtschaftlichen
     Bedingungen für den Anschluss und den Zugang nach Absatz 1,
@@ -1955,10 +1961,10 @@ Bundesnetzagentur
 
 
 
-(5) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das
-Verfahren zur Festlegung oder Genehmigung nach Absatz 2 sowie das
-Verfahren zur Änderung der Bedingungen nach Absatz 3 näher zu regeln.
+(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren
+zur Festlegung oder Genehmigung nach Absatz 2 sowie das Verfahren zur
+Änderung der Bedingungen nach Absatz 3 näher zu regeln.
 
 
 ### § 35 Behördliches und gerichtliches Verfahren für den Anschluss und den Zugang Dritter; Verordnungsermächtigung
@@ -2016,8 +2022,8 @@ Gebührensätze sind so zu bemessen, dass die mit den Amtshandlungen
 verbundenen Kosten gedeckt sind. Kostenschuldner ist, wer durch einen
 Antrag die Tätigkeit der Bundesnetzagentur veranlasst hat, oder
 derjenige, gegen den eine Verfügung der Bundesnetzagentur ergangen
-ist. Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+ist. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Gebührensätze zu regeln.
 
 (8) Die Aufgaben und Zuständigkeiten der Kartellbehörden bleiben
@@ -2139,15 +2145,15 @@ erlangten Erkenntnisse
 den in Satz 1 genannten Personen und Einrichtungen zur Verfügung
 gestellt.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates die näheren Inhalte des Wissensaustausches
-und die Daten, die für den Zweck des Wissensaustausches sowie für die
-Erstellung des Evaluierungsberichtes nach § 44 erforderlich sind, zu
-bestimmen sowie das Verfahren für den Wissensaustausch zu regeln.
-Hierbei ist die mögliche Betroffenheit von Betriebs- und
-Geschäftsgeheimnissen zu berücksichtigen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates die näheren Inhalte des Wissensaustausches und die Daten,
+die für den Zweck des Wissensaustausches sowie für die Erstellung des
+Evaluierungsberichtes nach § 44 erforderlich sind, zu bestimmen sowie
+das Verfahren für den Wissensaustausch zu regeln. Hierbei ist die
+mögliche Betroffenheit von Betriebs- und Geschäftsgeheimnissen zu
+berücksichtigen.
 
 (3) Die zuständige Behörde prüft die zur Verfügung gestellten Daten
 auf Inhalt und Umfang und stellt sie für den Wissensaustausch sowie
@@ -2165,12 +2171,12 @@ zuständigen Behörden haben die durch Rechtsverordnung nach Absatz 2 zu
 bestimmende Quote der Gebühren, die für Amtshandlungen nach den §§ 7,
 13 und 17 eingenommen werden, an die Bundeskasse abzuführen.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit und dem Bundesministerium der
-Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die
-nach Absatz 1 Satz 2 an den Bund abzuführende Quote der
-Gebühreneinnahmen der Länder festzulegen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit und dem Bundesministerium der Finanzen durch
+Rechtsverordnung mit Zustimmung des Bundesrates die nach Absatz 1 Satz
+2 an den Bund abzuführende Quote der Gebühreneinnahmen der Länder
+festzulegen.
 
 
 ### § 42 Landesrechtliche Speicherabgaben
@@ -2445,8 +2451,10 @@ bestimmt ist, kann von den in diesem Gesetz und auf Grund dieses
 Gesetzes getroffenen Regelungen des Verwaltungsverfahrens durch
 Landesrecht nicht abgewichen werden.
 
+(zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2
+Nummer 1)
 
-### Anlage 1 (zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1) Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
+### Anlage 1 Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
 (Fundstelle: BGBl. I 2012, 1746 - 1748)
 
@@ -2785,8 +2793,9 @@ Auswahlentscheidungen nach § 7 Absatz 3 nicht beeinträchtigt wird.
 
 
 
+(zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1)
 
-### Anlage 2 (zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1) Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
+### Anlage 2 Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
 
 (Fundstelle: BGBl. I 2012, 1749 - 1750)
 

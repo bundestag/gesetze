@@ -52,8 +52,8 @@ die erforderlichen Durchführungsbestimmungen zu erlassen.
 
 ## § 3
 
-Der § 7 Abs. 2 Buchstabe b der Verordnung über die durchgängige 5
--Tage-Arbeitswoche und die Verkürzung der wöchentlichen Arbeitszeit
+Der § 7 Abs. 2 Buchstabe b der Verordnung über die durchgängige
+5-Tage-Arbeitswoche und die Verkürzung der wöchentlichen Arbeitszeit
 bei gleichzeitiger Neuregelung der Arbeitszeit in einigen Wochen mit
 Feiertagen vom 3. Mai 1967 (GBl. II Nr. 38 S. 237) in der Fassung der
 Bekanntmachung vom 31. Mai 1979 (GBl. I Nr. 19 S. 164) wird

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 856
 
+Änderung durch
+:   Art. 2 V v. 18.5.2021 I1181 (Nr. 26) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -96,6 +99,14 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
+
+
+## § 4 Übergangsregelung
+
+Für Maßnahmen, über die die Beteiligten nach § 1 Absatz 6 des
+Eisenbahnkreuzungsgesetzes vor dem Ablauf des 1. Juli 2021 eine
+Vereinbarung getroffen haben, ist diese Verordnung in der bis zum
+Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.
 
 
 ## Anlage (zu § 2 Absatz 1)
@@ -240,10 +251,15 @@ Der Bundesrat hat zugestimmt.
 
 *    *   2.6
 
-    *   Restnutzungsdauer
+    *   Verlängerte theoretische Nutzungsdauer
 
 
 *    *   2.7
+
+    *   Restnutzungsdauer
+
+
+*    *   2.8
 
     *   Tabellen
 
@@ -428,13 +444,14 @@ Kapitel 1
 
 **1.5** **Unterbauten von Brücken**
 
-    Zu den Unterbauten von Brücken gehören Widerlager einschließlich
-    Hohlwiderlager (aufgelöste Widerlager, die zur Durchführung von
-    Verkehrswegen genutzt werden), Flügelwände, Pfeiler, Stützen
-    einschließlich Schutzeinrichtungen (Anprallsockel, Anprallbalken),
-    Pylone einschließlich der jeweiligen Gründungen, Abdichtungen und
-    Bauwerksentwässerung. Pylone schließen unter anderem auch Ankerkörper,
-    Seil- und Kabelaufhängungen ein.
+    Zu den Unterbauten von Brücken gehören Widerlager, aufgelöste
+    Widerlager, die zur Durchführung von Verkehrswegen genutzt werden
+    (Hohlwiderlager), Flügelwände, Pfeiler, Stützen, Pylone einschließlich
+    der jeweiligen Flach- oder Tiefgründungen, Abdichtungen und
+    Bauwerksentwässerung. Stützen schließen unter anderem auch
+    Schutzeinrichtungen wie Anprallsockel und Anprallbalken ein. Pylone
+    schließen unter anderem auch Ankerkörper, Seil- und Kabelaufhängungen
+    ein.
 
 
 **1.6** **Überbauten von Brücken**
@@ -512,9 +529,9 @@ Kapitel 1
     einschließlich der erforderlichen Gründungen sowie
     Bahnübergangssicherungsanlagen.
 
-    Für Oberleitungsanlagen und signaltechnische Anlagen sind die Werte
-    der theoretischen Nutzungsdauern m und der Prozentsätze p der
-    jährlichen Unterhaltungskosten im Einzelfall zu vereinbaren. Für
+    Für signaltechnische Anlagen sind die Werte der theoretischen
+    Nutzungsdauern m und der Prozentsätze p der jährlichen
+    Unterhaltungskosten im Einzelfall zu vereinbaren. Für
     Entwässerungsanlagen, Geländer, Zäune, Mauern und
     Böschungsbefestigungen sind die Werte m und p der Straßen und Wege
     maßgebend.
@@ -752,7 +769,15 @@ Kapitel 2
    Durch den Übergang t*                    ergibt sich wiederum die
     Formel für die zeitlich unbegrenzte Unterhaltungsverpflichtung.
 
-    (6) In den Formeln haben die Berechnungsglieder folgende Bedeutung:
+    (6) Wenn nur der nicht erhaltungspflichtige Beteiligte eine Änderung
+    verlangt, werden die Restnutzungsdauer der alten baulichen Anlage n
+    und die kapitalisierten Erhaltungskosten der alten baulichen Anlage E
+    alt                    abweichend von Absatz 1 nicht mit der
+    theoretischen Nutzungsdauer m, sondern mit der verlängerten
+    theoretischen Nutzungsdauer m
+    v                    ermittelt.
+
+    (7) In den Formeln haben die Berechnungsglieder folgende Bedeutung:
 
     *        *   Variable
 
@@ -830,6 +855,14 @@ Kapitel 2
         *   Jahre
 
 
+    *        *   m
+            v
+
+        *   Verlängerte theoretische Nutzungsdauer der fiktiven baulichen Anlage
+
+        *   Jahre
+
+
     *        *   n
 
         *   Restnutzungsdauer: Anzahl der Jahre vom Zeitpunkt der Fälligkeit
@@ -885,7 +918,29 @@ Kapitel 2
     der Ablösungsberechnung anzuwenden.
 
 
-**2.6** **Restnutzungsdauer**
+**2.6** **Verlängerte theoretische Nutzungsdauer**
+
+    Die verlängerte theoretische Nutzungsdauer berücksichtigt die
+    vorzeitige Erneuerung der baulichen Anlage durch die Änderung des
+    nicht erhaltungspflichtigen Beteiligten. Die verlängerte theoretische
+    Nutzungsdauer ist zu ermitteln nach der Formel:
+
+    m
+    v                    = m*                    1,1
+
+    Die verlängerte theoretische Nutzungsdauer ist auf volle Jahre
+    kaufmännisch zu runden.
+
+    Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten
+    eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu
+    einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten
+    baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten
+    baulichen Anlage
+    alt                    mit der theoretischen Nutzungsdauer m nach
+    Nummer 2.5 zu ermitteln.
+
+
+**2.7** **Restnutzungsdauer**
 
     Die Restnutzungsdauer n ist unabhängig vom tatsächlichen Zustand der
     baulichen Anlage stets die Anzahl der Jahre vom Zeitpunkt der Ablösung
@@ -900,7 +955,7 @@ Kapitel 2
     abzuleiten.
 
 
-**2.7** **Tabellen**
+**2.8** **Tabellen**
 
     Die theoretischen Nutzungsdauern m und die Prozentsätze p der
     jährlichen Unterhaltungskosten der Ingenieurbauwerke sind in Kapitel 4
@@ -961,8 +1016,8 @@ Kapitel 3
     Alle einmaligen Kosten, die nur bei der Erstellung oder Änderung
     anfallen, jedoch bei einer späteren Erneuerung nicht wiederkehren (z.
     B. Hebung von Gleisen, Absenkung von Straßen, Bodenaushub des
-    Verkehrsraums, Pfahlgründungen, Rampen) sind bei der Ermittlung der
-    Erneuerungskosten (K
+    Verkehrsraums, Rampen) sind bei der Ermittlung der Erneuerungskosten
+    (K
     e                   ) und damit bei der Ablösung nicht zu
     berücksichtigen.
 
@@ -1029,8 +1084,8 @@ Kapitel 3
     Bei Ingenieurbauwerken sind die Kosten für Abbruch und für die während
     der nächsten Erneuerung zur Aufrechterhaltung des Verkehrs notwendigen
     Behelfszustände einschließlich der Verschubbahnen,
-    Betriebserschwernisse von Eisenbahnen, Umleitungsmaßnahmen auf
-    Unterbau und Überbau und Sicherungsposten entsprechend den Anteilen
+    Betriebserschwernisse von Eisenbahnen, Umleitungsmaßnahmen und
+    Sicherungsposten auf Unterbau und Überbau entsprechend den Anteilen
     dieser Bauwerksteile an den reinen Baukosten zu verteilen.
 
 
@@ -1120,7 +1175,7 @@ Kapitel 3
 
 **3.10** **Verwaltungskosten**
 
-    Mit den Verwaltungskosten in Höhe von 10 vom Hundert der Kosten nach
+    Mit den Verwaltungskosten in Höhe von 20 Prozent der Kosten nach
     Nummer 3.3 bis 3.7 sind insbesondere die Aufwendungen für Vorarbeiten,
     Vorentwürfe, die Bearbeitung des vergabereifen Bauentwurfs, die
     Vergabe der Bauarbeiten, die Prüfung der statischen Berechnungen und
@@ -1382,7 +1437,7 @@ Tabelle 1
 
     *   70
 
-    *   0,8
+    *   0,6
 
 
 *    *   1.3.2
@@ -1391,7 +1446,7 @@ Tabelle 1
 
     *   70
 
-    *   1,2
+    *   1,0
 
 
 *    *   1.3.3
@@ -1400,7 +1455,7 @@ Tabelle 1
 
     *   100
 
-    *   1,5
+    *   1,3
 
 
 *    *   **1.4**
@@ -1509,6 +1564,15 @@ Tabelle 1
     *   1,5
 
 
+*    *   1.6.3.4
+
+    *   Stahlkonsolen mit Verbundsicherheitsglas
+
+    *   30
+
+    *   1,0
+
+
 *    *   1.6.4
 
     *   Entgleisungsschutz
@@ -1516,6 +1580,15 @@ Tabelle 1
     *   20
 
     *   1,0
+
+
+*    *   1.6.5
+
+    *   Aufzüge
+
+    *   15
+
+    *   3,0
 
 
 
@@ -2065,6 +2138,31 @@ Tabelle 7
     *   2,0
 
 
+*    *   **7.6**
+
+    *   **Oberleitung**
+
+    *
+    *
+
+*    *   7.6.1
+
+    *   Oberleitungsmasten
+
+    *   60
+
+    *   1,5
+
+
+*    *   7.6.2
+
+    *   Oberleitungen einschließlich Befestigungskonstruktionen
+
+    *   30
+
+    *   4,0
+
+
 
 Tabelle 8
 ### **Oberbau von Straßen und Wegen**
@@ -2524,6 +2622,31 @@ Tabelle 9
 
 *    *   **9.7**
 
+    *   **Pflasterrinnen zur Wasserführung (z. B. vor Borden)**
+
+    *
+    *
+
+*    *   9.7.1
+
+    *   aus Naturstein (z. B. Granit)
+
+    *   60
+
+    *   1,0
+
+
+*    *   9.7.2
+
+    *   aus Beton (z. B. Betonleistenstein)
+
+    *   30
+
+    *   1,0
+
+
+*    *   **9.8**
+
     *   Straßenabläufe, Prüfschächte, Ablaufschächte, Schacht-
         **abdeckungen**
 
@@ -2532,7 +2655,7 @@ Tabelle 9
     *   1,0
 
 
-*    *   **9.8**
+*    *   **9.9**
 
     *   **Mechanische Absetzbecken, Rückhaltebecken, Überlaufbecken,
         Versickerbecken, Leichtflüssigkeitsabscheider**
@@ -2540,7 +2663,7 @@ Tabelle 9
     *
     *
 
-*    *   9.8.1
+*    *   9.9.1
 
     *   aus Beton
 
@@ -2549,7 +2672,7 @@ Tabelle 9
     *   1,0
 
 
-*    *   9.8.2
+*    *   9.9.2
 
     *   als Erdbauwerk
 
@@ -2558,7 +2681,7 @@ Tabelle 9
     *   2,0
 
 
-*    *   **9.9**
+*    *   **9.10**
 
     *   **Mechanische Einbauten in Leichtflüssigkeitsabscheidern**
 
@@ -2614,14 +2737,14 @@ Ausstattungen von Straßen und Wegen sowie
 
 *    *   10.1.1
 
-    *   Farben
+    *   Farben (High-Solid-Dispersionen)
 
     *
     *
 
 *    *   10.1.1.1
 
-    *   für stark belastete Straßen
+    *   für stark beanspruchte Systeme
 
     *   1
 
@@ -2630,7 +2753,7 @@ Ausstattungen von Straßen und Wegen sowie
 
 *    *   10.1.1.2
 
-    *   für schwach belastete Straßen
+    *   für schwach beanspruchte Systeme
 
     *   3
 
@@ -2639,25 +2762,26 @@ Ausstattungen von Straßen und Wegen sowie
 
 *    *   10.1.2
 
-    *   High-Solid-Dispersionen, reaktive Stoffe, thermoplastische Stoffe
+    *   Reaktive Stoffe (Kaltplastik wie z. B. Agglomerate), thermoplastische
+        Stoffe
 
     *
     *
 
 *    *   10.1.2.1
 
-    *   für stark belastete Straßen
+    *   für stark beanspruchte Systeme
 
-    *   2
+    *   3
 
     *   0
 
 
 *    *   10.1.2.2
 
-    *   für schwach belastete Straßen
+    *   für schwach beanspruchte Systeme
 
-    *   4
+    *   5
 
     *   0
 
@@ -2671,7 +2795,7 @@ Ausstattungen von Straßen und Wegen sowie
 
 *    *   10.2.1
 
-    *   für stark belastete Straßen
+    *   für stark beanspruchte Systeme
 
     *   4
 
@@ -2680,7 +2804,7 @@ Ausstattungen von Straßen und Wegen sowie
 
 *    *   10.2.2
 
-    *   für schwach belastete Straßen
+    *   für schwach beanspruchte Systeme
 
     *   7
 
@@ -2804,7 +2928,7 @@ Ausstattungen von Straßen und Wegen sowie
 
     *   30
 
-    *   4,0
+    *   2
 
 
 *    *   10.7.2
@@ -2813,7 +2937,7 @@ Ausstattungen von Straßen und Wegen sowie
 
     *   20
 
-    *   4,0
+    *   4
 
 
 *    *   10.7.3
@@ -2822,7 +2946,7 @@ Ausstattungen von Straßen und Wegen sowie
 
     *   15
 
-    *   4,0
+    *   4
 
 
 *    *   10.7.4
@@ -2837,6 +2961,22 @@ Ausstattungen von Straßen und Wegen sowie
 *    *   10.7.5
 
     *   Kabelschächte
+
+    *
+    *
+
+*    *   10.7.5.1
+
+    *   aus Kunststoff
+
+    *   30
+
+    *   0
+
+
+*    *   10.7.5.2
+
+    *   aus Beton
 
     *   50
 
@@ -2861,13 +3001,40 @@ Ausstattungen von Straßen und Wegen sowie
     *   0
 
 
+*    *   10.7.8
+
+    *   Radardetektoren
+
+    *   10
+
+    *   1
+
+
+*    *   10.7.9
+
+    *   Videokameras
+
+    *   10
+
+    *   2
+
+
 *    *   **10.8**
 
     *   **Verkehrsbeeinflussungsanlagen**
 
     *   15
 
-    *   6,0
+    *   6
+
+
+*    *   **10.9**
+
+    *   **Amphibienleiteinrichtungen aus Stahl**
+
+    *   30
+
+    *   0,5
 
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1961, 1709
 
 Zuletzt geändert durch
-:   Art. 318 V v. 29.10.2001 I 2785
+:   Art. 1 V v. 15.4.2014 I 347
 
 
 ## Eingangsformel
@@ -277,8 +277,8 @@ c)  die Ernennung von Beamten bis einschließlich Besoldungsgruppe A 14 und
     die Einstellung von Referendaren,
 
 
-d)  der Abschluß von Arbeitsverträgen mit Angestellten der
-    Vergütungsgruppen Ib bis X BAT und mit Arbeitern.
+d)  der Abschluß von Arbeitsverträgen mit Tarifbeschäftigten der
+    Entgeltgruppen 1 bis 14 des Tarifvertrags für den öffentlichen Dienst.
 
 
 
@@ -377,16 +377,20 @@ aufzustellen, von dem Stiftungsrat festzustellen und von dessen
 Vorsitzenden dem Beauftragten der Bundesregierung für Angelegenheiten
 der Kultur und der Medien zur Genehmigung vorzulegen.
 
-(3) Die Prüfung der Rechnung im Sinne des § 109 Abs. 2 der
-Bundeshaushaltsordnung erfolgt durch die Vorprüfungsstelle. Sie
-untersteht dem Präsidenten unmittelbar. Bei ihrer Prüfungstätigkeit
-unterliegt sie fachlich nur den Weisungen des Bundesrechnungshofes.
-Sie legt dem Stiftungsrat das Ergebnis ihrer Prüfung mit den
-erforderlichen Bescheinigungen und Erläuterungen sowie mit der
-Stellungnahme des Bundesrechnungshofes vor. Der Stiftungsrat entlastet
-den Präsidenten auf Grund des Ergebnisses der Rechnungsprüfung; die
-Entlastung bedarf der Genehmigung des Beauftragten der Bundesregierung
-für Angelegenheiten der Kultur und der Medien und des
+(3) Die jährliche Prüfung der Rechnung sowie der Haushalts- und
+Wirtschaftsführung erfolgt im Sinne des § 109 Absatz 2 der
+Bundeshaushaltsordnung durch die für Kultur zuständige oberste
+Bundesbehörde. Diese kann mit der Prüfung eine geeignete Stelle oder
+einen Abschlussprüfer beauftragen. Abschlussprüfer können
+Wirtschaftsprüfer oder Wirtschaftsprüfungsgesellschaften sein. Die
+jährliche Prüfung erfolgt unbeschadet einer Prüfung durch den
+Bundesrechnungshof nach § 111 der Bundeshaushaltsordnung.
+
+(4) Das Ergebnis der Prüfung ist dem Bundesrechnungshof vorzulegen.
+Auf der Grundlage des Ergebnisses der jährlichen Prüfung entscheidet
+der Stiftungsrat über die Entlastung des Präsidenten oder der
+Präsidentin der Stiftung. Die Entlastung bedarf der Genehmigung der
+für Kultur zuständigen obersten Bundesbehörde und des
 Bundesministeriums der Finanzen.
 
 

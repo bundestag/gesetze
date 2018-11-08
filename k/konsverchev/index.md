@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2187
 
+Zuletzt geändert durch
+:   Art. 10 V v. 25.6.2020 I 1495
+
 
 ## Eingangsformel
 
@@ -163,9 +166,7 @@ Nichtrückkehrtagen.
 
 ### § 9 Kürzung der 60-Tage-Grenze
 
-(1) Findet ein Arbeitgeberwechsel innerhalb eines Kalenderjahrs im
-Tätigkeitsstaat statt, erfolgt die Kürzung der 60-Tage-Grenze bezogen
-auf das jeweilige Arbeitsverhältnis.
+(1) (weggefallen)
 
 (2) Bei Teilzeitbeschäftigten, die nur tageweise im anderen Staat
 beschäftigt sind, ist die Anzahl von 60 unschädlichen Tagen durch
@@ -179,10 +180,7 @@ abzuziehen.
 
 (3) Die Berechnung der 60 Tage ist ebenso bei Arbeitnehmern, die im
 anderen Vertragsstaat bei mehreren Arbeitgebern angestellt sind,
-vorzunehmen. Die Voraussetzungen der Grenzgängereigenschaft sind für
-jedes Arbeitsverhältnis getrennt zu beurteilen. Nichtrückkehrtage sind
-dem jeweiligen Arbeitsverhältnis nach ihrer überwiegenden Veranlassung
-zuzuordnen. Eine mehrfache Berücksichtigung findet nicht statt.
+vorzunehmen.
 
 
 ### § 10 Bescheinigung über die Nichtrückkehrtage
@@ -272,7 +270,7 @@ wie bei Aushilfs- oder Teilzeitkräften für den gesamten Arbeitslohn
 oder wie bei Zukunftssicherungsleistungen neben dem übrigen
 Arbeitslohn, in Frage kommt.
 
-(4) Wenn der Arbeitgeber während des gesamten Kalenderjahrs an mehr
+(4) Wenn der Arbeitnehmer während des gesamten Kalenderjahrs an mehr
 als 60 Tagen auf Grund seiner Arbeitsausübung nicht an den Wohnsitz
 zurückkehrt, ist die volle Steuer einzubehalten. Dies gilt auch dann,
 wenn der Arbeitgeber erkennt, dass der Arbeitnehmer die 60 Tage
@@ -354,7 +352,7 @@ des Einkommensteuergesetzes bleibt unberührt.
 
 (3) Für Ruhegehälter von Grenzgängern aus öffentlichen Kassen ist der
 Steuerabzug nach Artikel 15a Absatz 1 auf 4,5 Prozent beschränkt, wenn
-eine Ansässigkeitsbescheinigung vorliegt. Die vor Eintritt des
+eine weitere Ansässigkeitsbescheinigung vorliegt. Die vor Eintritt des
 Versorgungsfalls vorgelegte Ansässigkeitsbescheinigung gilt ohne
 zeitliche Beschränkung weiter, es sei denn, es findet ein
 Wohnungswechsel statt.
@@ -430,12 +428,15 @@ persönlich (körperlich) aufhält.
 ## Abschnitt 5 - Sonstige Anwendungsfälle
 
 
-### § 21 Unterhaltsleistungen an geschiedene oder dauernd getrennt lebende Ehegatten
+### § 21 Unterhaltsleistungen an geschiedene oder dauernd getrennt lebende Ehegatten oder an Lebenspartner einer aufgehobenen Lebenspartnerschaft oder dauernd getrennt lebende Lebenspartner
 
 (1) Nach Artikel 21 des Abkommens können Unterhaltszahlungen an einen
 geschiedenen oder dauernd getrennt lebenden Ehegatten, die aus einem
 Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige
-Person gezahlt werden, nur im anderen Staat besteuert werden.
+Person gezahlt werden, nur im anderen Staat besteuert werden. Satz 1
+gilt entsprechend für Unterhaltsleistungen an Lebenspartner einer
+aufgehobenen Lebenspartnerschaft oder dauernd getrennt lebende
+Lebenspartner.
 
 (2) Für solche Unterhaltszahlungen, die eine in Deutschland ansässige
 natürliche Person bewirkt, werden beim Zahlenden bei der Ermittlung

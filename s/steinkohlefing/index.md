@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3086
 
-Geändert durch
-:   Art. 1 G v. 11.7.2011 I 1344
+Zuletzt geändert durch
+:   Art. 306 V v. 31.8.2015 I 1474
 
 
 ## § 1 Zweck
@@ -77,17 +77,17 @@ Geltungsbereich dieses Gesetzes bis zum Jahr 2018 sowie von
 Aufwendungen der Bergbauunternehmen infolge dauerhafter Stilllegungen
 werden den Bergbauunternehmen aus Mitteln des Bundeshaushalts für die
 Jahre 2009 bis 2019 folgende Finanzplafonds zur Verfügung gestellt:
-2009 insgesamt bis zu 1.699.000.000 Euro,
-2010 insgesamt bis zu 1.550.000.000 Euro,
-2011 insgesamt bis zu 1.512.000.000 Euro,
-2012 insgesamt bis zu 1.363.000.000 Euro,
-2013 insgesamt bis zu 1.371.800.000 Euro,
-2014 insgesamt bis zu 1.284.800.000 Euro,
-2015 insgesamt bis zu 1.332.000.000 Euro,
-2016 insgesamt bis zu 1.053.600.000 Euro,
-2017 insgesamt bis zu 1.020.300.000 Euro,
-2018 insgesamt bis zu   939.500.000 Euro,
-2019 insgesamt bis zu   794.400.000 Euro.
+2009 insgesamt bis zu 1 699 000 000 Euro,
+2010 insgesamt bis zu 1 550 000 000 Euro,
+2011 insgesamt bis zu 1 512 000 000 Euro,
+2012 insgesamt bis zu 1 363 000 000 Euro,
+2013 insgesamt bis zu 1 371 800 000 Euro,
+2014 insgesamt bis zu 1 284 800 000 Euro,
+2015 insgesamt bis zu 1 332 000 000 Euro,
+2016 insgesamt bis zu 1 053 600 000 Euro,
+2017 insgesamt bis zu 1 020 300 000 Euro,
+2018 insgesamt bis zu   939 500 000 Euro,
+2019 insgesamt bis zu   794 400 000 Euro.
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (Bundesamt)
 gewährt auf der Grundlage von zeitgerechten Bewilligungsbescheiden
@@ -120,8 +120,8 @@ können im folgenden Kalenderjahr in Höhe von bis zu drei Prozent der
 nach Absatz 2 für das Vorjahr gewährten Plafondmittel
 zweckentsprechend verwendet werden.
 
-(5) Näheres bestimmt das Bundesministerium für Wirtschaft und
-Technologie durch Richtlinien.
+(5) Näheres bestimmt das Bundesministerium für Wirtschaft und Energie
+durch Richtlinien.
 
 
 ## § 4 Verpflichtungen der Bergbauunternehmen nach Beendigung des subventionierten Steinkohlenbergbaus
@@ -129,7 +129,7 @@ Technologie durch Richtlinien.
 (1) Für die ab dem Zeitpunkt der Beendigung des subventionierten
 Steinkohlenbergbaus weiter bestehenden Verpflichtungen, die nicht von
 der RAG-Stiftung getragen werden, werden den Bergbauunternehmen aus
-Mitteln des Bundeshaushalts bis zu 1.658.400.000 Euro zur Verfügung
+Mitteln des Bundeshaushalts bis zu 1 658 400 000 Euro zur Verfügung
 gestellt. Diese Mittel können frühestens für das Jahr gewährt werden,
 das auf die Beendigung des subventionierten Steinkohlenbergbaus folgt.
 
@@ -142,8 +142,7 @@ sind sie ab dem Jahr, für das sie gewährt wurden, zu verzinsen. Die
 Bergbauunternehmen haben gegenüber dem Bundesamt die zweckgerichtete
 Verwendung der ihnen gewährten Mittel durch Nachweis der von einem
 Wirtschaftsprüfer testierten Aufwendungen zu belegen. Näheres bestimmt
-das Bundesministerium für Wirtschaft und Technologie durch
-Richtlinien.
+das Bundesministerium für Wirtschaft und Energie durch Richtlinien.
 
 (3) Für die ab dem Zeitpunkt der Beendigung des subventionierten
 Steinkohlenbergbaus weiter bestehenden Verpflichtungen der
@@ -165,10 +164,10 @@ ihren Arbeitsplatz verlieren, vom Tag nach der Beendigung des
 Arbeitsverhältnisses für längstens fünf Jahre Anpassungsgeld als
 Überbrückungshilfe bis zur Anspruchsberechtigung auf Leistungen der
 knappschaftlichen Rentenversicherung gewährt werden. Näheres bestimmt
-das Bundesministerium für Wirtschaft und Technologie durch
-Richtlinien. Die aus dem Bundeshaushalt für das Anpassungsgeld zur
-Verfügung gestellten Mittel dürfen zwei Drittel der
-Anpassungsgeldleistungen nicht überschreiten.
+das Bundesministerium für Wirtschaft und Energie durch Richtlinien.
+Die aus dem Bundeshaushalt für das Anpassungsgeld zur Verfügung
+gestellten Mittel dürfen zwei Drittel der Anpassungsgeldleistungen
+nicht überschreiten.
 
 (2) Das Bundesamt entscheidet über die Gewährung eines Zuschusses nach
 Absatz 1 im Rahmen der dafür zur Verfügung stehenden haushaltsmäßigen

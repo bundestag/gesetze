@@ -272,9 +272,10 @@ Ablehnung der Anordnung entschieden wird, ist kostenfrei.
 
 Die Anordnung der Haft, die Verhaftung des Schuldners und die
 Vollziehung der Haft, um die ein österreichisches Konkursgericht
-ersucht (Artikel 10 Abs. 3 des Vertrags), richten sich nach §§ 899,
-901, 902, 904 bis 913, 793 der Zivilprozeßordnung. § 11 Abs. 1, Abs. 2
-Satz 3 bis 5, § 12 Satz 2 und 3, § 14 Satz 2 gelten entsprechend.
+ersucht (Artikel 10 Abs. 3 des Vertrags), richten sich nach den §§
+802g bis 802i, 802j Abs. 1 und 2, 793 der Zivilprozeßordnung. § 11
+Abs. 1, Abs. 2 Satz 3 bis 5, § 12 Satz 2 und 3, § 14 Satz 2 gelten
+entsprechend.
 
 
 ### § 16 Postsperre

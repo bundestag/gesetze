@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1909
 
 Zuletzt geändert durch
-:   Art. 6 V v. 18.12.2008 I 2768
+:   Art. 103 G v. 29.3.2017 I 626
 
 
 ## Inhaltsverzeichnis
@@ -59,7 +59,7 @@ Zuletzt geändert durch
 
 *    *   § 8
 
-    *   Behördliche Entscheidung
+    *   (weggefallen)
 
 
 *    *   § 9
@@ -69,12 +69,12 @@ Zuletzt geändert durch
 
 *    *   § 10
 
-    *   Ärztliche Vorsorgeuntersuchungen
+    *   Ärztliche Untersuchung
 
 
 *    *   § 11
 
-    *   Weitere ärztliche Vorsorgemaßnahmen
+    *   Weitere ärztliche Maßnahmen
 
 
 *    *   § 12
@@ -293,7 +293,12 @@ Ihr sind als Unterlagen beizufügen:
 
 (3) Sind nach Erstattung der Anzeige Veränderungen gegenüber dem
 Inhalt der Anzeige oder der Unterlagen eingetreten oder vorgesehen,
-ist dies der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
+ist dies der zuständigen Behörde unverzüglich schriftlich oder
+elektronisch anzuzeigen.
+
+(4) Erfolgt die Anzeige nach Absatz 1 oder nach Absatz 3 elektronisch,
+kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der
+beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
 
 ## § 4 Allgemeine Anforderungen
@@ -364,17 +369,20 @@ Abs. 1, § 21 Abs. 4 und von dem Beschäftigungsverbot für Arbeitnehmer,
 die das 50. Lebensjahr vollendet haben (§ 9 Abs. 2), Ausnahmen
 zulassen, wenn hierfür besondere Gründe vorliegen und der Schutz der
 Arbeitnehmer auf andere Weise gewährleistet ist. Die Ausnahmezulassung
-ist schriftlich zu beantragen. Dem Antrag ist bei einer Abweichung von
-den Regelungen des § 4 Abs. 1 ein Gutachten eines behördlich
-anerkannten Sachverständigen und bei einer Abweichung von den
-Regelungen des § 9 Abs. 1, 2 oder § 21 Abs. 4 ein Gutachten eines
+ist schriftlich oder elektronisch zu beantragen. Dem Antrag ist bei
+einer Abweichung von den Regelungen des § 4 Abs. 1 ein Gutachten eines
+behördlich anerkannten Sachverständigen und bei einer Abweichung von
+den Regelungen des § 9 Abs. 1, 2 oder § 21 Abs. 4 ein Gutachten eines
 ermächtigten Arztes beizufügen, das jeweils dokumentiert, ob der
-Schutz der Arbeitnehmer gewährleistet ist. Über den Antrag ist
-innerhalb einer Frist von vier Wochen nach Eingang bei der zuständigen
-Behörde zu entscheiden. Die Frist kann in begründeten Fällen
-verlängert werden. Die Zulassung gilt als erteilt, wenn die zuständige
-Behörde nicht innerhalb der genannten Frist die Beschäftigung der
-Arbeitnehmer untersagt.
+Schutz der Arbeitnehmer gewährleistet ist. Erfolgt die Antragstellung
+elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die
+Übermittlung der dem Antrag beizufügenden Unterlagen auch in
+schriftlicher Form verlangen. Über den Antrag ist innerhalb einer
+Frist von vier Wochen nach Eingang bei der zuständigen Behörde zu
+entscheiden. Die Frist kann in begründeten Fällen verlängert werden.
+Die Zulassung gilt als erteilt, wenn die zuständige Behörde nicht
+innerhalb der genannten Frist die Beschäftigung der Arbeitnehmer
+untersagt.
 
 
 ## § 7 Prüfung durch Sachverständige
@@ -467,9 +475,8 @@ auch bei Arbeitskammern mit einem höchstzulässigen Arbeitsdruck von
 weniger als 0,5 bar.
 
 
-## § 8
+## § 8 (weggefallen)
 
-(weggefallen)
 
 
 ## § 9 Beschäftigungsverbot
@@ -481,15 +488,37 @@ nicht beschäftigt werden.
 nicht beschäftigt werden.
 
 
-## § 10 Ärztliche Vorsorgeuntersuchungen
+## § 10 Ärztliche Untersuchung
 
-Für den Bereich der arbeitsmedizinischen Vorsorge gilt die Verordnung
-zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S.
-2768), die im Anhang Teil 3 einen Anlass für Pflichtuntersuchungen
-enthält, in der jeweils geltenden Fassung.
+(1) Der Arbeitgeber darf einen Arbeitnehmer in Druckluft nur
+beschäftigen, wenn der Arbeitnehmer
+
+1.  vor der ersten Beschäftigung,
 
 
-## § 11 Weitere ärztliche Vorsorgemaßnahmen
+2.  vor Ablauf von einem Jahr seit der letzten Untersuchung
+
+
+
+von einem nach § 13 ermächtigten Arzt oder einer nach § 13
+ermächtigten Ärztin untersucht worden ist und eine von diesem Arzt
+oder dieser Ärztin ausgestellte Bescheinigung darüber vorliegt, dass
+keine gesundheitlichen Bedenken gegen die Beschäftigung oder
+Weiterbeschäftigung bestehen.
+
+(2) Die ärztliche Untersuchung muss vorgenommen worden sein
+
+1.  innerhalb von zwölf Wochen vor Beginn der Beschäftigung und
+
+
+2.  innerhalb von sechs Wochen vor Ablauf der Nachuntersuchungsfrist nach
+    Absatz 1 Nummer 2.
+
+
+
+
+
+## § 11 Weitere ärztliche Maßnahmen
 
 (1) Arbeitnehmer, die
 
@@ -511,8 +540,9 @@ bestehen.
 
 (2) Der Arzt hat auf Verlangen des Arbeitgebers oder Arbeitnehmers
 eine Bescheinigung über seine Feststellung nach Absatz 1 auszustellen.
-§ 8 Abs. 2 der Verordnung zur arbeitsmedizinischen Vorsorge gilt
-entsprechend.
+Halten der untersuchte Arbeitnehmer oder der Arbeitgeber das
+Untersuchungsergebnis für unzutreffend, so entscheidet auf Antrag die
+zuständige Behörde.
 
 
 ## § 12 Allgemeine Aufgaben und Erreichbarkeit des ermächtigten Arztes
@@ -799,13 +829,14 @@ mindestens einer halben Stunde zu gewähren.
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 3 Abs. 1, 2 Satz 1 oder Abs. 3 eine Anzeige nicht, nicht
-    richtig, nicht vollständig , nicht in der vorgeschriebenen Weise oder
-    nicht rechtzeitig erstattet,
+1.  entgegen § 3 Absatz 1, 2 Satz 1, Absatz 3 oder 4 eine Anzeige nicht,
+    nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
+    oder nicht rechtzeitig erstattet,
 
 
-2.  entgegen § 3 Abs. 2 Satz 2 eine Unterlage nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig beifügt,
+2.  entgegen § 3 Absatz 2 Satz 2 oder Absatz 4 eine Unterlage nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig beifügt,
 
 
 3.  entgegen § 7 Abs. 1 eine Arbeitskammer betreibt,
@@ -893,14 +924,12 @@ handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
 
 
-## § 24
-
-(weggefallen)
+## § 24 (weggefallen)
 
 
-## § 25
 
-(weggefallen)
+## § 25 (weggefallen)
+
 
 
 ## § 26 Inkrafttreten
@@ -1449,8 +1478,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(§ 21 Abs. 1)
 
-## Anhang 2 (§ 21 Abs. 1) Ausschleusungs- und Wartezeiten
+## Anhang 2 Ausschleusungs- und Wartezeiten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1387 - 1401
 

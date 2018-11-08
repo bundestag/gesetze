@@ -2,7 +2,7 @@
 Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenführer
 jurabk: BauMaschFüV
 layout: default
-origslug: baumaschf_v
+origslug: baumaschfuev
 slug: baumaschfuev
 
 ---

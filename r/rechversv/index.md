@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 1994, 3378
 
 Zuletzt geändert durch
-:   Art. 4 V v. 9.6.2011 I 1041
+:   Art. 3 G v. 19.12.2018 I 2672
+
+Änderung durch
+:   Art. 25 Abs. 7 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 69 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Diese Verordnung dient der Umsetzung der Richtlinie 91/674/EWG des
 Rates vom 19. Dezember 1991 über den Jahresabschluß und den
@@ -253,15 +259,16 @@ und Abschreibungen im Geschäftsjahr sowie die Bilanzwerte am Ende des
 Geschäftsjahrs jeweils gesondert aufzuführen.
 
 
-#### § 7 Aktien, Investmentanteile und andere nicht festverzinsliche Wertpapiere
+#### § 7 Aktien, Anteile oder Aktien an Investmentvermögen und andere nicht festverzinsliche Wertpapiere
 
-Im Posten "Aktien, Investmentanteile und andere nicht festverzinsliche
-Wertpapiere" sind Aktien auszuweisen, soweit sie nicht im Posten
-"Anteile an verbundenen Unternehmen" oder im Posten "Beteiligungen"
-auszuweisen sind, ferner insbesondere Zwischenscheine,
-Investmentanteile, Optionsscheine, Gewinnanteilscheine, als Inhaber-
-oder Orderpapiere ausgestaltete börsenfähige Genußscheine sowie andere
-nicht festverzinsliche Wertpapiere, soweit sie börsennotiert sind. Vor
+Im Posten "Aktien, Anteile oder Aktien an Investmentvermögen und
+andere nicht festverzinsliche Wertpapiere" sind Aktien auszuweisen,
+soweit sie nicht im Posten "Anteile an verbundenen Unternehmen" oder
+im Posten "Beteiligungen" auszuweisen sind, ferner insbesondere
+Zwischenscheine, Anteile oder Aktien an Investmentvermögen,
+Optionsscheine, Gewinnanteilscheine, als Inhaber- oder Orderpapiere
+ausgestaltete börsenfähige Genußscheine sowie andere nicht
+festverzinsliche Wertpapiere, soweit sie börsennotiert sind. Vor
 Fälligkeit hereingenommene Gewinnanteilscheine sind ebenfalls hier
 aufzunehmen.
 
@@ -532,14 +539,29 @@ Versicherungen.
 
 (4) Für die Berechnung der Rückstellung im Lebensversicherungsgeschäft
 und dem nach Art der Lebensversicherung betriebenen Schaden- und
-Unfallversicherungsgeschäft gelten im übrigen § 5 Abs. 3 Nr. 2
-Halbsatz 2 und § 11c in Verbindung mit § 156a Abs. 3 Satz 3 des
-Versicherungsaufsichtsgesetzes sowie die auf Grund des § 65 des
-Versicherungsaufsichtsgesetzes erlassenen Vorschriften.
+Unfallversicherungsgeschäft gelten im Übrigen
+
+1.  § 219 Absatz 3 Nummer 1 des Versicherungsaufsichtsgesetzes,
+
+
+2.  § 219 Absatz 3 Nummer 1 Buchstabe b in Verbindung mit § 233 Absatz 3
+    Satz 2 und § 234 Absatz 2 Satz 1 des Versicherungsaufsichtsgesetzes,
+
+
+3.  § 336, auch in Verbindung mit § 234 Absatz 6 Satz 1 und § 233 Absatz 5
+    Satz 2 des Versicherungsaufsichtsgesetzes, sowie
+
+
+4.  die auf Grund von § 88 Absatz 3, § 217 Satz 1 Nummer 7 bis 10 und §
+    235 Absatz 1 Nummer 4 bis 7 des Versicherungsaufsichtsgesetzes
+    erlassenen Vorschriften.
+
+
+
 
 (5) Bei der Berechnung der von den Krankenversicherungsunternehmen zu
-bildenden Alterungsrückstellung finden die auf Grund des § 12c Abs. 1
-Nr. 1 des Versicherungsaufsichtsgesetzes erlassenen Vorschriften
+bildenden Alterungsrückstellung finden die auf Grund des § 160 Nummer
+1 des Versicherungsaufsichtsgesetzes erlassenen Vorschriften
 Anwendung. Ergibt sich durch Aufrechnung negativer
 Alterungsrückstellungen gegen positive Alterungsrückstellungen für die
 Alterungsrückstellung aller vom Krankenversicherungsunternehmen selbst
@@ -668,7 +690,7 @@ Bewertungsreserven innerhalb der Rückstellung für
 Beitragsrückerstattung eine Teilrückstellung
 (Schlussüberschussanteilfonds) nach Maßgabe der jeweils geltenden
 Deklaration gebildet. Die Rückstellung darf nur für Zwecke des Satzes
-1 verwendet werden. § 56a des Versicherungsaufsichtsgesetzes bleibt
+1 verwendet werden. § 139 des Versicherungsaufsichtsgesetzes bleibt
 unberührt.
 
 (7) Der Schlussüberschussanteilfonds von Versicherungen außerhalb der
@@ -1575,13 +1597,13 @@ nachfolgenden Geschäftsjahr ist dieser Unterschiedsbetrag unter dem
 ### § 51 Zusätzliche Erläuterungen
 
 (1) In den Anhang sind neben den nach § 341a in Verbindung mit § 284
-und § 285 Nr. 1 bis 3a, 6, 7, 9 bis 14 sowie 16 bis 29 des
+und § 285 Nummer 1 bis 3a, 7, 9 bis 14a, 15a bis 30, 32 bis 34 des
 Handelsgesetzbuchs die in dieser Verordnung zu den einzelnen Posten
 der Bilanz oder der Gewinn- und Verlustrechnung vorgeschriebenen
 Angaben aufzunehmen. Außerdem sind die in diesem Abschnitt
 vorgeschriebenen Angaben zu machen.
 
-(2) An Stelle der in § 268 Abs. 2 des Handelsgesetzbuchs
+(2) An Stelle der in § 284 Absatz 3 des Handelsgesetzbuchs
 vorgeschriebenen Angaben ist die Entwicklung der Aktivposten B und C I
 bis III nach dem anliegenden Muster 1 darzustellen, sofern keine
 entsprechende Darstellung in der Bilanz erfolgt.
@@ -1594,9 +1616,9 @@ solche Verpflichtungen gegenüber verbundenen Unternehmen, so sind sie
 gesondert anzugeben. Der Bilanzwert der verpfändeten, zur Sicherung
 übertragenen oder hinterlegten Vermögensgegenstände, für die im
 Insolvenzverfahren Aus- oder Absonderungsrechte geltend gemacht werden
-können, mit Ausnahme der Bestände des Deckungsstocks nach § 66 des
-Versicherungsaufsichtsgesetzes, ist in einer Summe anzugeben und dem
-Betrag des vorangegangenen Geschäftsjahres gegenüberzustellen.
+können, mit Ausnahme der Bestände des Sicherungsvermögens nach § 125
+des Versicherungsaufsichtsgesetzes, ist in einer Summe anzugeben und
+dem Betrag des vorangegangenen Geschäftsjahres gegenüberzustellen.
 
 (4) An Stelle der in § 285 Nr. 4 des Handelsgesetzbuchs
 vorgeschriebenen Angaben sind die folgenden Angaben unter
@@ -1798,7 +1820,11 @@ Geschäftsjahres zu machen:
 
     b)  den Rückversicherungssaldo gemäß Nummer 1 Satz 1 Buchstabe f zuzüglich
         der Veränderung des Anteils der Rückversicherer an der Brutto-
-        Deckungsrückstellung.
+        Deckungsrückstellung;
+
+
+    c)  die Direktgutschrift der im Geschäftsjahr erwirtschafteten
+        Überschüsse.
 
 
 
@@ -1853,8 +1879,9 @@ Geschäftsjahres zu machen:
 
 
     c)  soweit es sich um Pensionskassen handelt, bei denen eine Feststellung
-        nach § 156a des Versicherungsaufsichtsgesetzes von der
-        Aufsichtsbehörde getroffen wurde, zusätzlich:
+        nach § 156a des Versicherungsaufsichtsgesetzes in der bis zum 31.
+        Dezember 2015 geltenden Fassung von der Aufsichtsbehörde getroffen
+        wurde, zusätzlich:
 
         gebuchte Bruttobeiträge, untergliedert nach Beiträgen im Rahmen von
         Verträgen
@@ -1930,7 +1957,7 @@ Geschäftsjahres zu machen:
 
 
         dd) der in Doppelbuchstaben aa bis cc enthaltene Beitragszuschlag nach §
-            12 Abs. 4a des Versicherungsaufsichtsgesetzes;
+            149 des Versicherungsaufsichtsgesetzes;
 
 
 
@@ -1964,7 +1991,7 @@ Geschäftsjahres zu machen:
 
 
     d)  die Zerlegung der Rückstellung für Beitragsrückerstattung und den
-        Betrag nach § 12a des Versicherungsaufsichtsgesetzes nach dem
+        Betrag nach § 150 des Versicherungsaufsichtsgesetzes nach dem
         anliegenden Muster 6.
 
 
@@ -2034,7 +2061,7 @@ Anhang zusätzlich anzugeben:
         Ablauf von zwei Jahren fällig wird;
 
 
-    c)  in Ergänzung der Angaben nach § 284 Abs. 2 Nr. 1 und 3 des
+    c)  in Ergänzung der Angaben nach § 284 Absatz 2 Nummer 1 und 2 des
         Handelsgesetzbuchs die Methoden der Ermittlung der einzelnen
         versicherungstechnischen Rückstellungen mit Ausnahme der Rückstellung
         für Beitragsrückerstattung sowohl hinsichtlich der Bruttobeträge als
@@ -2313,7 +2340,7 @@ entsprechend anzuwenden.
 
 (1) In den Konzernanhang sind neben den nach § 341j Abs. 1 in
 Verbindung mit den §§ 313 und 314 Abs. 1 Nr. 1, 2 und 2a sowie 4 bis
-21 des Handelsgesetzbuchs vorgeschriebenen Angaben die in den Absätzen
+26 des Handelsgesetzbuchs vorgeschriebenen Angaben die in den Absätzen
 2 bis 4 vorgeschriebenen Angaben aufzunehmen.
 
 (2) Es sind die Angaben nach Muster 1 zu machen, jedoch nur für die
@@ -2391,15 +2418,12 @@ aufzunehmen:
 
 ### § 61 Befreiungen
 
-(1) § 341k in Verbindung mit den Vorschriften des Dritten
-Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des
-Handelsgesetzbuchs über die Prüfung, § 341l in Verbindung mit den
-Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts des
-Dritten Buchs des Handelsgesetzbuchs über die Offenlegung sowie die §§
-341i und 341j in Verbindung mit den Vorschriften des Zweiten
-Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des
-Handelsgesetzbuchs über den Konzernabschluß sind auf die folgenden
-Versicherungsunternehmen nicht anzuwenden:
+§ 341k in Verbindung mit den Vorschriften des Dritten Unterabschnitts
+des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs über
+die Prüfung sowie die §§ 341i und 341j in Verbindung mit den
+Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts des
+Dritten Buchs des Handelsgesetzbuchs über den Konzernabschluß sind auf
+die folgenden Versicherungsunternehmen nicht anzuwenden:
 
 1.  Versicherungsvereine auf Gegenseitigkeit, die weder die
     Haftpflichtversicherung noch die Kredit- und Kautionsversicherung
@@ -2415,7 +2439,7 @@ Versicherungsunternehmen nicht anzuwenden:
 
     b)  soweit es sich um Lebensversicherungsvereine handelt, die gebuchten
         Bruttobeiträge in drei aufeinanderfolgenden Geschäftsjahren jeweils
-        nicht den Betrag von 500.000 Euro überschreiten; wird dieser Betrag in
+        nicht den Betrag von 500 000 Euro überschreiten; wird dieser Betrag in
         drei aufeinanderfolgenden Jahren überschritten, so werden die oben
         genannten Vorschriften des Handelsgesetzbuchs vom vierten Jahr an
         angewandt;
@@ -2427,7 +2451,7 @@ Versicherungsunternehmen nicht anzuwenden:
 2.  Versicherungsunternehmen, die ausschließlich touristische
     Beistandsleistungen erbringen, wenn deren Tätigkeit örtlich beschränkt
     ist und ausschließlich aus Naturalleistungen besteht und die
-    jährlichen Bruttobeiträge nicht den Betrag von 200.000 Euro
+    jährlichen Bruttobeiträge nicht den Betrag von 200 000 Euro
     überschreiten;
 
 
@@ -2444,8 +2468,11 @@ Versicherungsunternehmen nicht anzuwenden:
 
 
 
-
-(2) (weggefallen)
+Auf die in Satz 1 Nummer 1 bis 4 genannten Unternehmen ist darüber
+hinaus § 341l in Verbindung mit den Vorschriften des Vierten
+Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des
+Handelsgesetzbuchs über die Offenlegung nicht anzuwenden, es sei denn,
+es handelt sich bei diesen Unternehmen um Pensionskassen.
 
 
 ### § 62 Vereinfachungen
@@ -2490,10 +2517,11 @@ Sie brauchen
 (2) Pensions- und Sterbekassen in der Rechtsform eines
 Versicherungsvereins auf Gegenseitigkeit mit Ausnahme der
 Pensionskassen, bei denen eine Feststellung nach § 156a des
-Versicherungsaufsichtsgesetzes von der Aufsichtsbehörde getroffen
-wurde, dürfen abweichend von § 341f des Handelsgesetzbuchs und § 25
-dieser Verordnung mit Zustimmung der Versicherungsaufsichtsbehörde von
-der versicherungsmathematischen Berechnung der Deckungsrückstellung zu
+Versicherungsaufsichtsgesetzes in der bis zum 31. Dezember 2015
+geltenden Fassung von der Aufsichtsbehörde getroffen wurde, dürfen
+abweichend von § 341f des Handelsgesetzbuchs und § 25 dieser
+Verordnung mit Zustimmung der Versicherungsaufsichtsbehörde von der
+versicherungsmathematischen Berechnung der Deckungsrückstellung zu
 jedem Abschlußstichtag befreit werden. In diesen Fällen ist die
 Berechnung jedoch in regelmäßigen Abständen vorzunehmen, die fünf
 Jahre nicht überschreiten dürfen.
@@ -2505,12 +2533,13 @@ Jahre nicht überschreiten dürfen.
 
 ### § 63 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 341n Abs. 1 Nr. 6 des Handelsgesetzbuchs
-handelt, wer als Mitglied des vertretungsberechtigten Organs oder des
-Aufsichtsrats eines Versicherungsunternehmens oder als
-Hauptbevollmächtigter einer Niederlassung im Geltungsbereich dieser
-Verordnung von Versicherungsunternehmen mit Sitz außerhalb des
-Geltungsbereichs dieser Verordnung
+Ordnungswidrig im Sinne des § 341n Absatz 1 Satz 1 Nummer 6 des
+Handelsgesetzbuchs handelt, wer als Mitglied des
+vertretungsberechtigten Organs oder des Aufsichtsrats eines
+Versicherungsunternehmens oder als Hauptbevollmächtigter einer
+Niederlassung im Geltungsbereich dieser Verordnung von
+Versicherungsunternehmen mit Sitz außerhalb des Geltungsbereichs
+dieser Verordnung
 
 1.  bei der Aufstellung oder Feststellung des Jahresabschlusses
 
@@ -2568,50 +2597,7 @@ Geltungsbereichs dieser Verordnung
 
 ### § 64 Übergangsvorschriften
 
-(1) Die Vorschriften dieser Verordnung sind mit Ausnahme der §§ 25, 54
-bis 56 erstmals auf den Jahresabschluß und den Lagebericht sowie den
-Konzernabschluß und den Konzernlagebericht für das nach dem 31.
-Dezember 1994 beginnende Geschäftsjahr anzuwenden. Auf frühere
-Geschäftsjahre sind die Bestimmungen der Verordnung über die
-Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973 (BGBl.
-I S. 1209), zuletzt geändert durch Verordnung vom 23. Dezember 1986
-(BGBl. 1987 I S. 2), sowie der Zweite und Fünfte Abschnitt der
-Verordnung über die Rechnungslegung bestimmter kleinerer
-Versicherungsvereine auf Gegenseitigkeit im Sinne des § 53 des
-Versicherungsaufsichtsgesetzes vom 27. Januar 1988 (BGBl. I S. 104)
-anzuwenden.
-
-(2) § 25 ist mit Wirkung vom 1. Juli 1994 anzuwenden.
-
-(3) § 54 Nr. 2 in Verbindung mit § 56 braucht erstmals auf den
-Jahresabschluß für das nach dem 31. Dezember 1996 beginnende
-Geschäftsjahr angewendet zu werden.
-
-(4) § 54 Nr. 1 in Verbindung mit § 55 braucht erstmals auf den
-Jahresabschluß für das nach dem 31. Dezember 1998 beginnende
-Geschäftsjahr angewendet zu werden.
-
-(5) Sofern für ein Geschäftsjahr, das nach dem 31. Dezember 1998 und
-spätestens im Jahre 2001 endet, der Jahresabschluß und der
-Konzernabschluß nach Artikel 42 Abs. 1 Satz 2 des Einführungsgesetzes
-zum Handelsgesetzbuch in Deutscher Mark aufgestellt werden, sind auch
-die in den Formblättern 1 bis 4 für die Bilanz und die Gewinn- und
-Verlustrechnung und die in den Mustern 1 bis 5 vorgeschriebenen
-Angaben in Deutscher Mark und unter der Bezeichnung "DM" oder "TDM" zu
-machen. Für ein Geschäftsjahr, das spätestens am 31. Dezember 1998
-endet, ist diese Verordnung in der an diesem Tage geltenden Fassung
-anzuwenden.
-
-(6) Sofern Versicherungsunternehmen einen gesonderten Passivposten in
-Anwendung von Artikel 43 Abs. 1 Satz 2, Abs. 2 des Einführungsgesetzes
-zum Handelsgesetzbuch bilden, haben sie diesen im Formblatt 1 als
-Passivposten Da. nach dem Sonderposten mit Rücklageanteil auszuweisen.
-Sofern sie eine Bilanzierungshilfe in Anwendung von Artikel 44 Abs. 1
-Satz 1 des Einführungsgesetzes zum Handelsgesetzbuch in ihre Bilanz
-aufnehmen, haben sie diese im Formblatt 1 als Aktivposten Ba. nach dem
-Posten Immaterielle Vermögensgegenstände auszuweisen.
-
-(7) § 61 Abs. 1 Nr. 4 sowie Abschnitt I Nr. 1 und Abschnitt II Nr. 3
+(1) § 61 Abs. 1 Nr. 4 sowie Abschnitt I Nr. 1 und Abschnitt II Nr. 3
 Abs. 1 Satz 2 der Anlage zu § 29 in der vom 1. Januar 2002 an
 geltenden Fassung sind erstmals auf den Jahresabschluss sowie den
 Konzernabschluss für das nach dem 31. Dezember 2001 beginnende
@@ -2620,25 +2606,7 @@ Dezember 2001 geltenden Schwellenwertes im Sinne des Abschnitts II Nr.
 3 Abs. 1 Satz 2 der Anlage zu § 29 ermittelten Quoten dürfen
 fortgeschrieben werden.
 
-(8) § 30 Abs. 2a ist erstmals auf den Jahresabschluss und den
-Konzernabschluss für das am 22. Oktober 2002 laufende Geschäftsjahr
-anzuwenden. Soweit für dieses Geschäftsjahr die Ermittlung der für die
-erstmalige Berechnung der Rückstellung nach § 30 Abs. 2a
-erforderlichen Angaben einen unverhältnismäßig hohen Aufwand
-erfordert, braucht § 30 Abs. 2a erstmals für das darauf folgende
-Geschäftsjahr angewendet zu werden.
-
-(9) Abschnitt II Nr. 1 Abs. 3 Satz 1, Abs. 4 Nr. 1 Buchstabe d sowie
-Abschnitt III Nr. 2 Abs. 1 Satz 1 und Abschnitt IV der Anlage zu § 29
-sind erstmals auf den Jahresabschluss und den Konzernabschluss sowie
-den Lagebericht und Konzernlagebericht für Geschäftsjahre anzuwenden,
-die nach dem 31. Dezember 2004 beginnen.
-
-(10) § 54 in der vom 1. Januar 2008 an geltenden Fassung ist erstmals
-auf den Jahresabschluss für das nach dem 31. Dezember 2006 beginnende
-Geschäftsjahr anzuwenden.
-
-(11) § 6 Absatz 1, die §§ 47, 48 und 55 Absatz 3 und die Formblätter 2
+(2) § 6 Absatz 1, die §§ 47, 48 und 55 Absatz 3 und die Formblätter 2
 bis 4 sowie das Muster 1 in der Fassung des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
 sowie das Formblatt 1 mit den Änderungen, die durch das
@@ -2658,13 +2626,39 @@ Artikeln 66 und 67 des Einführungsgesetzes zum Handelsgesetzbuch
 enthaltenen Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6
 des Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 
-(12) § 28 Absatz 6 bis 8 ist erstmals auf Jahres- und
-Konzernabschlüsse für Geschäftsjahre anzuwenden, die nach dem 23.
-Dezember 2009 enden. Auf die Formblätter 1 bis 4 in der Fassung der
-Verordnung zur Änderung der Versicherungsunternehmens-
-Rechnungslegungsverordnung sowie zur Änderung weiterer
-Rechnungslegungsverordnungen vom 18. Dezember 2009 (BGBl. I S. 3934)
-ist Absatz 11 Satz 1, 2 und 4 entsprechend anzuwenden.
+(3) § 28 Absatz 6 bis 8 ist erstmals auf Jahres- und Konzernabschlüsse
+für Geschäftsjahre anzuwenden, die nach dem 23. Dezember 2009 enden.
+Auf die Formblätter 1 bis 4 in der Fassung der Verordnung zur Änderung
+der Versicherungsunternehmens-Rechnungslegungsverordnung sowie zur
+Änderung weiterer Rechnungslegungsverordnungen vom 18. Dezember 2009
+(BGBl. I S. 3934) ist Absatz 11 Satz 1, 2 und 4 entsprechend
+anzuwenden.
+
+(4) § 51 Absatz 4 Nummer 2 Buchstabe c in der Fassung des Artikels 7
+Absatz 2 des Kleinstkapitalgesellschaften-
+Bilanzrechtsänderungsgesetzes vom 20. Dezember 2012 (BGBl. I S. 2751)
+ist erstmals auf Jahresabschlüsse für Geschäftsjahre anzuwenden, die
+nach dem 31. Dezember 2012 beginnen.
+
+(5) § 7, Formblatt 1 sowie das Muster 1 in der Fassung des AIFM-
+Umsetzungsgesetzes vom 4. Juli 2013 (BGBl. I S. 1981) sind erstmals
+auf Jahres- und Konzernabschlüsse für nach dem 21. Juli 2013
+beginnende Geschäftsjahre anzuwenden.
+
+(6) (weggefallen)
+
+(7) Die §§ 51, 52 und § 59 Absatz 1 in der Fassung des
+Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S.
+1245) sind erstmals auf Jahres- und Konzernabschlüsse für
+Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2015 beginnen.
+
+(8) § 61 in der Fassung des Gesetzes zur Umsetzung der Richtlinie (EU)
+2016/2341 des Europäischen Parlaments und des Rates vom 14. Dezember
+2016 über die Tätigkeiten und die Beaufsichtigung von Einrichtungen
+der betrieblichen Altersversorgung (EbAV) (Neufassung) vom 19.
+Dezember 2018 (BGBl. I S. 2672) ist erstmals auf den Jahresabschluss
+sowie den Konzernabschluss für das nach dem 31. Dezember 2018
+beginnende Geschäftsjahr anzuwenden.
 
 
 ### § 65 Inkrafttreten, Außerkrafttreten
@@ -2676,8 +2670,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 29)
 
-### Anlage (zu § 29) Vorschriften zur Bildung von Schwankungsrückstellungen
+### Anlage Vorschriften zur Bildung von Schwankungsrückstellungen
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3396 - 3398;
 bzgl. der einzelnen Änderungen vgl. Fußnote

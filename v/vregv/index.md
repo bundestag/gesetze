@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 318
 
 Zuletzt geändert durch
-:   Art. 10 G v. 6.7.2009 I 1696
+:   Art. 6 G v. 4.5.2021 I 882
 
 
 ## Eingangsformel
@@ -92,11 +92,12 @@ personenbezogener Daten im Zentralen Vorsorgeregister sicher:
 
 
     b)  Angelegenheiten der Gesundheitssorge und ob ausdrücklich Maßnahmen
-        nach § 1904 Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs umfasst sind,
+        nach § 1904 Abs. 1 Satz 1 und § 1906a Absatz 1 und 4 des Bürgerlichen
+        Gesetzbuchs umfasst sind,
 
 
     c)  Angelegenheiten der Aufenthaltsbestimmung und ob ausdrücklich
-        Maßnahmen nach § 1906 Abs. 1 und 4 des Bürgerlichen Gesetzbuchs
+        Maßnahmen nach § 1906 Absatz 1 und 4 des Bürgerlichen Gesetzbuchs
         umfasst sind,
 
 
@@ -143,9 +144,15 @@ Angaben nach § 1 Abs. 3 werden unabhängig von dem Antrag eingetragen.
 werden, soweit die Bundesnotarkammer diese Möglichkeit eröffnet hat.
 Die Bundesnotarkammer hat dem jeweiligen Stand der Technik
 entsprechende Maßnahmen zur Sicherstellung von Datenschutz und
-Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und
-Unversehrtheit der Daten gewährleisten; im Falle der Nutzung allgemein
-zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende
+Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU)
+2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016
+zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) zu treffen,
+die insbesondere die Vertraulichkeit und Unversehrtheit der Daten
+gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind
+dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren anzuwenden.
 
 (3) In Zweifelsfällen hat die Bundesnotarkammer sich von der Identität
@@ -172,10 +179,8 @@ Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen
 Bevollmächtigten, der nicht schriftlich in die Speicherung der Daten
 zu seiner Person eingewilligt hat, schriftlich über die nach § 1 Abs.
 1 Nr. 1 Buchstabe a, c, g und Nr. 2 bis 6 gespeicherten Daten zu
-unterrichten. Die Bundesnotarkammer hat den Bevollmächtigten über den
-Zweck des Registers und darüber aufzuklären, dass er jederzeit die
-Löschung seiner personenbezogenen Daten aus dem Register verlangen
-kann.
+unterrichten. Artikel 14 der Verordnung (EU) 2016/679 bleibt
+unberührt.
 
 
 ## § 5 Änderung, Ergänzung und Löschung von Eintragungen
@@ -199,9 +204,11 @@ löschen.
 
 (1) Die Auskunft aus dem Register erfolgt im Wege eines
 automatisierten Abrufverfahrens, sofern die Bundesnotarkammer zuvor
-mit der jeweiligen Landesjustizverwaltung schriftlich Festlegungen
-nach § 10 Abs. 2 des Bundesdatenschutzgesetzes getroffen hat. § 2 Abs.
-2 Satz 2 gilt entsprechend.
+mit der jeweiligen Landesjustizverwaltung schriftlich Festlegungen zu
+den technischen und organisatorischen Maßnahmen zur Gewährleistung des
+Datenschutzes und der Datensicherheit nach den Artikeln 24, 25 und 32
+der Verordnung (EU) 2016/679 getroffen hat. § 2 Abs. 2 Satz 2 gilt
+entsprechend.
 
 (2) Die Auskunft aus dem Register erfolgt auch auf schriftliches oder
 elektronisches Ersuchen des Betreuungsgerichts und des Landgerichts
@@ -242,19 +249,13 @@ schützen.
 
 (3) Die Protokolle werden nach Ablauf des auf ihre Erstellung
 folgenden Kalenderjahres gelöscht. Das Bundesministerium der Justiz
-löscht Protokolle, die ihm nach Absatz 1 Satz 4 zur Verfügung gestellt
-worden sind, ein Jahr nach ihrem Eingang, sofern sie nicht für
-weitere, bereits eingeleitete Prüfungen benötigt werden.
+und für Verbraucherschutz löscht Protokolle, die ihm nach Absatz 1
+Satz 4 zur Verfügung gestellt worden sind, ein Jahr nach ihrem
+Eingang, sofern sie nicht für weitere, bereits eingeleitete Prüfungen
+benötigt werden.
 
 
-## § 8 Sicherung der Daten
-
-Die im Register gespeicherten Daten sind nach dem Stand der Technik so
-zu sichern, dass Verluste und Veränderungen von Daten verhindert
-werden.
-
-
-## § 9 Aufbewahrung von Dokumenten
+## § 8 Aufbewahrung von Dokumenten
 
 Die ein einzelnes Eintragungs- oder Auskunftsverfahren betreffenden
 Dokumente hat die Bundesnotarkammer fünf Jahre aufzubewahren. Die
@@ -264,11 +265,11 @@ ihre Erledigung gefunden hat. Nach Ablauf der Aufbewahrungsfrist sind
 die Dokumente zu vernichten.
 
 
-## § 10 Betreuungsverfügungen
+## § 9 Betreuungsverfügungen
 
 Im Zentralen Vorsorgeregister können auch Betreuungsverfügungen
 unabhängig von der Eintragung einer Vollmacht registriert werden. Die
-§§ 1 bis 9 gelten entsprechend.
+§§ 1 bis 8 gelten entsprechend.
 
 
 ## Schlussformel

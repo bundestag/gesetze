@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 1994, 2243
 
 Neugefasst durch
-:   Bek. v. 6.1.2006 I 49
+:   Bek. v. 6.1.2006 I 49;
+
+Zuletzt geändert durch
+:   Art. 142 G v. 20.11.2019 I 1626
+
+Mittelbare änderung durch
+:   Art. 8 Nr. 2 G v. 29.11.2018 I 2237 berücksichtigt
 
 
 ## § 1 Bau und Finanzierung durch Private
@@ -40,50 +46,76 @@ dieses Gesetz nichts anderes bestimmt.
 Gebühren (Gebühren) oder privatrechtliche Entgelte (Entgelte).
 
 
-## § 2 Mautgebührenerhebung durch Private
+## § 2 Mautgebührenerhebung durch Private; Verordnungsermächtigung
 
 (1) Die Landesregierungen werden ermächtigt, einen Privaten, der sich
 vertraglich zur Übernahme von Aufgaben nach § 1 Abs. 2 für ein in der
 Rechtsverordnung nach § 3 Abs. 1 Satz 2 festgelegtes
-Fernstraßenprojekt verpflichtet, durch Rechtsverordnung mit den
+Bundesstraßenprojekt, soweit nicht dem Bund die Verwaltung der
+Bundesstraße zusteht, verpflichtet, durch Rechtsverordnung mit den
 Befugnissen, die für den Bau, den Betrieb und die Unterhaltung des
-nach § 3 Abs. 1 Satz 2 bestimmten Bundesfernstraßenabschnitts
-erforderlich sind, insbesondere mit dem Recht zur Erhebung einer
-Mautgebühr und dem Betreiben der Verkehrszeichen und
-Verkehrseinrichtungen nach Maßgabe der Absätze 3 bis 5, zu beleihen.
-Sie können diese Ermächtigung durch Rechtsverordnung auf die oberste
-Landesstraßenbaubehörde übertragen. Die Mautgebühr dient der
-Refinanzierung der dem Privaten im Zusammenhang mit der Erfüllung der
-nach § 1 Abs. 2 übernommenen Aufgaben entstehenden Aufwendungen
-zuzüglich eines projektangemessenen Unternehmergewinns. Die Mautgebühr
-wird vom Privaten nach Maßgabe der Absätze 2 bis 4 als Gebühr auf der
-Grundlage einer Rechtsverordnung nach § 5 Abs. 1 Satz 1 oder als
-Entgelt auf der Grundlage einer Genehmigung nach § 6 Abs. 1 erhoben.
-Das Mautgebührenaufkommen steht dem Privaten zu. Der Private
-untersteht der Aufsicht der jeweils zuständigen obersten
-Landesstraßenbaubehörde. Diese ist ermächtigt, ihre
+nach § 3 Abs. 1 Satz 2 bestimmten Bundesstraßenabschnitts erforderlich
+sind, insbesondere mit dem Recht zur Erhebung einer Mautgebühr und dem
+Betreiben der Verkehrszeichen und Verkehrseinrichtungen nach Maßgabe
+der Absätze 3 bis 5, zu beleihen. Sie können diese Ermächtigung durch
+Rechtsverordnung auf die oberste Landesstraßenbaubehörde übertragen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, einen Privaten, der sich vertraglich zur Übernahme von
+Aufgaben nach § 1 Absatz 2 für ein in der Rechtsverordnung nach § 3
+Absatz 1 Satz 2 festgelegtes Bundesfernstraßenprojekt, soweit dem Bund
+die Verwaltung einer Bundesfernstraße zusteht, verpflichtet, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates mit den Befugnissen,
+die für den Bau, den Betrieb und die Unterhaltung des nach § 3 Absatz
+1 Satz 2 bestimmten Bundesfernstraßenabschnitts erforderlich sind,
+insbesondere mit dem Recht zur Erhebung einer Mautgebühr oder dem
+Betreiben der Verkehrszeichen und Verkehrseinrichtungen nach Maßgabe
+der Absätze 3 bis 5, zu beleihen. Es kann diese Ermächtigung durch
+Rechtsverordnung auf das Fernstraßen-Bundesamt übertragen. Die
+Mautgebühr dient der Refinanzierung der dem Privaten im Zusammenhang
+mit der Erfüllung der nach § 1 Abs. 2 übernommenen Aufgaben
+entstehenden Aufwendungen zuzüglich eines projektangemessenen
+Unternehmergewinns. Die Mautgebühr wird vom Privaten nach Maßgabe der
+Absätze 2 bis 4 als Gebühr auf der Grundlage einer Rechtsverordnung
+nach § 5 Abs. 1 Satz 1 oder als Entgelt auf der Grundlage einer
+Genehmigung nach § 6 Abs. 1 erhoben. Das Mautgebührenaufkommen steht
+dem Privaten zu. Der Private untersteht auf Bundesstraßen, soweit
+nicht dem Bund die Verwaltung der Bundesstraße zusteht, der Aufsicht
+der jeweils zuständigen obersten Landesstraßenbaubehörde und auf
+Bundesfernstraßen, soweit dem Bund die Verwaltung einer
+Bundesfernstraße zusteht, der Aufsicht des Fernstraßen-Bundesamtes.
+Die obersten Landesstraßenbaubehörden sind ermächtigt, ihre
 Aufsichtsbefugnisse auf nachgeordnete Behörden zu übertragen.
 
 (2) Sobald der voraussichtliche Zeitpunkt der Freigabe des betroffenen
-Bundesfernstraßenabschnittes für den öffentlichen Verkehr feststeht,
-hat die zuständige oberste Landesstraßenbaubehörde den Privaten
+Abschnitts einer Bundesstraße, soweit nicht dem Bund die Verwaltung
+der Bundesstraße zusteht, für den öffentlichen Verkehr feststeht, hat
+die zuständige oberste Landesstraßenbaubehörde den Privaten
 aufzufordern, ihr gegenüber eine Erklärung abzugeben, ob die
-Mautgebühr als Gebühr oder als Entgelt zu erheben ist. Der Private hat
-die Erklärung innerhalb eines Monats nach Zugang der Aufforderung
+Mautgebühr als Gebühr oder als Entgelt zu erheben ist. Sofern ein
+Bundesfernstraßenabschnitt, für den dem Bund die Verwaltung der
+Bundesfernstraße zusteht, betroffen ist, hat das Fernstraßen-Bundesamt
+den Privaten nach Maßgabe von Satz 1 aufzufordern. Der Private hat die
+Erklärung innerhalb eines Monats nach Zugang der Aufforderung
 abzugeben. Wird die Erklärung nicht rechtzeitig abgegeben, wird die
 Mautgebühr als Gebühr erhoben.
 
 (3) Nach dem Beginn der Mautgebührenerhebung kann der Private jeweils
 spätestens sechs Monate vor dem Ablauf einer Kalkulationsperiode bei
-der zuständigen obersten Landesstraßenbaubehörde beantragen, dass mit
-Beginn der jeweils folgenden Kalkulationsperiode die Erhebung der
+der zuständigen obersten Landesstraßenbaubehörde und für einen
+Bundesfernstraßenabschnitt, für den dem Bund die Verwaltung der
+Bundesfernstraße zusteht, beim Fernstraßen-Bundesamt beantragen, dass
+mit Beginn der jeweils folgenden Kalkulationsperiode die Erhebung der
 Mautgebühr von einer Gebühr auf ein Entgelt oder von einem Entgelt auf
 eine Gebühr umgestellt wird.
 
 (4) Soweit die Mautgebühr als Gebühr erhoben wird, findet gegen einen
 von dem Privaten erlassenen Gebührenbescheid ein Widerspruchsverfahren
-nicht statt. Die Vollstreckung der Gebührenbescheide erfolgt nach den
-jeweiligen landesrechtlichen Vorschriften über die
+nicht statt. Die Vollstreckung der Gebührenbescheide erfolgt für
+Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße
+zusteht, nach den jeweiligen landesrechtlichen Vorschriften über die
+Verwaltungsvollstreckung. Für Bundesfernstraßen, für die dem Bund die
+Verwaltung der Bundesfernstraße zusteht, erfolgt die Vollstreckung der
+Gebührenbescheide nach den bundesrechtlichen Vorschriften über die
 Verwaltungsvollstreckung.
 
 (5) Der Private ist zur Beschaffung, Anbringung, Unterhaltung und
@@ -120,7 +152,7 @@ nach Maßgabe dieses Gesetzes errichteten
 
 
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung im Einvernehmen mit den betroffenen
 Landesregierungen und ohne Zustimmung des Bundesrates die Strecken
 festzulegen, die nach Maßgabe dieses Gesetzes und der hierzu
@@ -190,9 +222,9 @@ zu behandeln sind.
 
 ## § 4 Mautbemessungs- und -kalkulationsverordnung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
-dem Bundesministerium für Wirtschaft und Technologie durch
+dem Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen
 über die Bemessung der Mautgebühren und die Kalkulation des
 Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
@@ -202,15 +234,17 @@ Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 für die in einer Rechtsverordnung nach § 3 Abs. 1 Satz 2 jeweils
-festgelegte Strecke die Höhe der Mautgebühr unter Beachtung des § 3
-Abs. 2 bis 5 und der Rechtsverordnung nach § 4 zu bestimmen, soweit
+festgelegte Strecke im Zuge einer Bundesstraße, soweit nicht dem Bund
+die Verwaltung der Bundesstraße zusteht, die Höhe der Mautgebühr unter
+Beachtung des § 3 Abs. 2 bis 5 und der Rechtsverordnung nach § 4 zu
+bestimmen, soweit
 
-1.  der Private im Falle des § 2 Abs. 2 Satz 1 und 2 erklärt oder im Falle
-    des § 2 Abs. 3 beantragt hat, die Mautgebühr als Gebühr zu erheben
-    oder
+1.  der Private im Falle des § 2 Absatz 2 Satz 1 und 3 erklärt oder im
+    Falle des § 2 Abs. 3 beantragt hat, die Mautgebühr als Gebühr zu
+    erheben oder
 
 
-2.  der Fall des § 2 Abs. 2 Satz 3 eingetreten ist.
+2.  der Fall des § 2 Absatz 2 Satz 4 eingetreten ist.
 
 
 
@@ -225,21 +259,50 @@ bereits nachgewiesenen Kosten aktualisiert wurden; der Nachweis
 erfolgt durch prüfbare Aufstellung der Kosten, die eine rasche und
 sichere Beurteilung ermöglichen muss.
 
-(2) Der Private kann jederzeit bei der Landesregierung beantragen, die
-Bestimmung der Höhe der Mautgebühr durch Rechtsverordnung nach Absatz
-1 Satz 1 zu ändern. Der Private hat einen Anspruch auf Erlass der
-Rechtsverordnung, soweit sich die der geltenden Bestimmung der Höhe
-der Mautgebühr zu Grunde liegenden Tatsachen wesentlich geändert
-haben. Im Falle einer Rechtsverordnung nach Absatz 1 Satz 2 ist der
-Antrag an die oberste Landesstraßenbaubehörde zu richten.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für
+die in einer Rechtsverordnung nach § 3 Absatz 1 Satz 2 jeweils
+festgelegte Strecke im Zuge einer Bundesfernstraße, für die dem Bund
+die Verwaltung der Bundesfernstraße zusteht, die Höhe der Mautgebühr
+unter Beachtung des § 3 Absatz 2 bis 5 und der Rechtsverordnung nach §
+4 zu bestimmen, soweit
+
+1.  der Private im Falle des § 2 Absatz 2 Satz 2 und 3 erklärt oder im
+    Falle des § 2 Absatz 3 beantragt hat, die Mautgebühr als Gebühr zu
+    erheben oder
+
+
+2.  der Fall des § 2 Absatz 2 Satz 4 eingetreten ist.
+
+
+
+Es kann diese Ermächtigung durch Rechtsverordnung auf das Fernstraßen-
+Bundesamt übertragen. Absatz 1 Satz 3 und 4 gilt entsprechend.
+
+(3) Der Private kann im Falle des Absatzes 1 jederzeit bei der
+Landesregierung und im Falle des Absatzes 2 jederzeit beim
+Bundesministerium für Verkehr und digitale Infrastruktur beantragen,
+die Bestimmung der Höhe der Mautgebühr durch Rechtsverordnung nach
+Absatz 1 Satz 1 oder Absatz 2 Satz 1 zu ändern. Der Private hat einen
+Anspruch auf Erlass der Rechtsverordnung, soweit sich die der
+geltenden Bestimmung der Höhe der Mautgebühr zu Grunde liegenden
+Tatsachen wesentlich geändert haben. Im Falle einer Rechtsverordnung
+nach Absatz 1 Satz 2 ist der Antrag an die oberste
+Landesstraßenbaubehörde zu richten.
 
 
 ## § 6 Mautgebührengenehmigung
 
 (1) Erklärt der Private im Falle des § 2 Abs. 2 oder beantragt der
 Private im Falle des § 2 Abs. 3 die Mautgebühr als Entgelt zu erheben,
-so bedarf die Höhe der Mautgebühr der Genehmigung der zuständigen
-obersten Landesstraßenbaubehörde.
+so bedarf die Höhe der Mautgebühr für die in einer Rechtsverordnung
+nach § 3 Absatz 1 Satz 2 jeweils festgelegte Strecke im Zuge einer
+Bundesstraße, soweit nicht dem Bund die Verwaltung der Bundesstraße
+zusteht, der Genehmigung der zuständigen obersten
+Landesstraßenbaubehörde und für die in einer Rechtsverordnung nach § 3
+Absatz 1 Satz 2 jeweils festgelegte Strecke im Zuge einer
+Bundesfernstraße, für die dem Bund die Verwaltung der Bundesfernstraße
+zusteht, der Genehmigung des Fernstraßen-Bundesamtes.
 
 (2) Die Genehmigung ist zu erteilen, wenn
 
@@ -254,15 +317,21 @@ obersten Landesstraßenbaubehörde.
 
 § 5 Abs. 1 Satz 4 gilt entsprechend.
 
-(3) Der Private kann jederzeit bei der obersten
-Landesstraßenbaubehörde beantragen, eine neue Mautgebühr zu
-genehmigen. Der Private hat einen Anspruch auf die Genehmigung, soweit
-sich die der genehmigten Mautgebühr zu Grunde liegenden Tatsachen
-wesentlich geändert haben.
+(3) Der Private kann für die in einer Rechtsverordnung nach § 3 Absatz
+1 Satz 2 jeweils festgelegte Strecke im Zuge einer Bundesstraße,
+soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht,
+jederzeit bei der obersten Landesstraßenbaubehörde und für die in
+einer Rechtsverordnung nach § 3 Absatz 1 Satz 2 jeweils festgelegte
+Strecke im Zuge einer Bundesfernstraße, für die dem Bund die
+Verwaltung der Bundesfernstraße zusteht, beim Fernstraßen-Bundesamt
+beantragen, eine neue Mautgebühr zu genehmigen. Der Private hat einen
+Anspruch auf die Genehmigung, soweit sich die der genehmigten
+Mautgebühr zu Grunde liegenden Tatsachen wesentlich geändert haben.
 
 (4) Vor Erteilung der Genehmigung hat die oberste
-Landesstraßenbaubehörde die Zustimmung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung einzuholen.
+Landesstraßenbaubehörde oder das Fernstraßen-Bundesamt die Zustimmung
+des Bundesministeriums für Verkehr und digitale Infrastruktur
+einzuholen.
 
 (5) Die Genehmigung kann unbeschadet der
 verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und
@@ -314,10 +383,10 @@ Einzugs- oder automatisierten Verfahren erheben. Auf Verlangen des
 Schuldners ist eine Quittung zu erteilen.
 
 (3) Wird die Mautgebühr im Einzugsverfahren oder im automatisierten
-Verfahren entrichtet, darf der Private Daten nur erheben, verarbeiten
-und nutzen, soweit dies erforderlich ist, um mautgebührenpflichtige
-Benutzungen zu ermöglichen (Berechnungsdaten), abzurechnen
-(Abrechnungsdaten) und zu kontrollieren (Kontrolldaten). Es sind
+Verfahren entrichtet, darf der Private Daten nur verarbeiten, soweit
+dies erforderlich ist, um mautgebührenpflichtige Benutzungen zu
+ermöglichen (Berechnungsdaten), abzurechnen (Abrechnungsdaten) und zu
+kontrollieren (Kontrolldaten). Es sind
 
 1.  Berechnungsdaten:
 
@@ -384,12 +453,12 @@ Be- und Abrechnung der Mautgebühr geschlossen, sind die Vorschriften
 über Datenverarbeitung im Auftrag anzuwenden. Die Absätze 2 und 3
 gelten für den Auftragnehmer entsprechend.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur
 erlässt nach Anhörung der jeweils zuständigen obersten
 Landesstraßenbaubehörde durch Rechtsverordnung mit Zustimmung des
-Bundesrates ergänzende Bestimmungen über Art und Umfang der Erhebung,
-Verarbeitung und Nutzung der Daten nach Absatz 3 für die vom Privaten
-jeweils eingesetzten Verfahren.
+Bundesrates ergänzende Bestimmungen über Art und Umfang der
+Verarbeitung der Daten nach Absatz 3 für die vom Privaten jeweils
+eingesetzten Verfahren.
 
 
 ## § 10 Nachweis und Kontrolle der Mautgebührenentrichtung
@@ -403,7 +472,7 @@ Kontrolle befugten Personen zur Prüfung auszuhändigen.
 (2) Hat der Schuldner die Mautgebühr nicht oder nicht in voller Höhe
 entrichtet, darf der Private die Kontrolldaten zum Zweck der
 Vollstreckung der Mautgebühr, der Einziehung der Mautgebühr oder zur
-Erstellung des Gebührenbescheids erheben und verarbeiten.
+Erstellung des Gebührenbescheids verarbeiten.
 
 
 ## § 11 Datenlöschungen, Geschäftsstatistiken
@@ -445,31 +514,26 @@ löschen.
 
 (3) Die nach diesem Gesetz gespeicherten Daten darf der Private in
 anonymisierter Form zur Erstellung von Geschäftsstatistiken speichern,
-verändern und nutzen.
+verändern und verwenden.
 
 
 ## § 12 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
+9 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 5 Absatz 1
+Satz 1 oder einer Genehmigung nach § 6 Absatz 1 die Mautgebühr nicht
+oder nicht rechtzeitig entrichtet.
 
-1.  entgegen § 9 Abs. 1 in Verbindung mit einer Rechtsverordnung nach § 5
-    Abs. 1 Satz 1 oder einer Genehmigung nach § 6 Abs. 1 die Mautgebühr
-    nicht oder nicht rechtzeitig entrichtet,
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
-2.  entgegen § 9 Abs. 3 Satz 1, auch in Verbindung mit einer
-    Rechtsverordnung nach Abs. 6, jeweils auch in Verbindung mit Abs. 5
-    Satz 2, Daten erhebt oder verarbeitet, oder
-
-
-3.  entgegen § 11 Abs. 1 oder 2 Daten nicht oder nicht rechtzeitig löscht.
-
-
-
-
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 mit
-einer Geldbuße bis zu tausend Euro, in den übrigen Fällen mit einer
-Geldbuße bis zu zweihunderttausend Euro geahndet werden.
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten sind für die in einer
+Rechtsverordnung nach § 3 Absatz 1 Satz 2 jeweils festgelegte Strecke
+im Zuge einer Bundesfernstraße, für die dem Bund die Verwaltung der
+Bundesfernstraße zusteht, das Fernstraßen-Bundesamt und für die
+jeweils festgelegte Strecke im Zuge einer Bundesstraße, für die dem
+Bund die Verwaltung der Bundesstraße nicht zusteht, die zuständige
+Landesstraßenbaubehörde für Ordnungswidrigkeiten nach Absatz 1.
 
 
 ## § 13 Übergangsregelung
@@ -495,7 +559,7 @@ nicht mehr anzuwenden. Die zuständige oberste Landesstraßenbaubehörde
 hat den nach Satz 1 maßgeblichen Tag im Bundesanzeiger bekannt zu
 machen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 eine auf Grund des § 3a Abs. 2 in Verbindung mit § 3 Abs. 2 bis 5 in
 der jeweils bis zum 7. September 2005 geltenden Fassung erlassene

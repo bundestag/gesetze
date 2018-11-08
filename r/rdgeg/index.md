@@ -16,20 +16,15 @@ Fundstelle
 :   BGBl I: 2007, 2840, 2846
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 3057
+:   Art. 5 G v. 10.8.2021 I 3415
 
 
 ## § 1 Erlaubnisinhaber nach dem Rechtsberatungsgesetz
 
-(1) Behördliche Erlaubnisse zur Besorgung fremder
-Rechtsangelegenheiten von Erlaubnisinhabern, die nicht Mitglied einer
-Rechtsanwaltskammer sind, erlöschen sechs Monate nach Inkrafttreten
-dieses Gesetzes. Erlaubnisinhaber können unter Vorlage ihrer
-Erlaubnisurkunde die Registrierung nach § 13 des
-Rechtsdienstleistungsgesetzes beantragen. Wird der Antrag innerhalb
-von sechs Monaten nach Inkrafttreten dieses Gesetzes gestellt, bleibt
-die Erlaubnis abweichend von Satz 1 bis zur Entscheidung über den
-Antrag gültig.
+(1) Inhaber von behördlichen Erlaubnissen zur Besorgung fremder
+Rechtsangelegenheiten, die nicht Mitglied einer Rechtsanwaltskammer
+sind, können unter Vorlage ihrer Erlaubnisurkunde die Registrierung
+nach § 13 des Rechtsdienstleistungsgesetzes beantragen.
 
 (2) Behördliche Erlaubnisse zur Besorgung fremder
 Rechtsangelegenheiten von Erlaubnisinhabern, die nach § 209 der
@@ -52,12 +47,14 @@ oder deren Befugnisse über die in § 10 Abs. 1 des
 Rechtsdienstleistungsgesetzes geregelten Befugnisse hinausgehen,
 werden gesondert oder zusätzlich zu ihrer Registrierung nach Satz 1
 als Rechtsbeistände oder Erlaubnisinhaber registriert (registrierte
-Erlaubnisinhaber). Sie dürfen unter ihrer bisher geführten
-Berufsbezeichnung Rechtsdienstleistungen in allen Bereichen des Rechts
-erbringen, auf die sich ihre bisherige Erlaubnis erstreckt.
-Rechtsdienstleistungen auf den Gebieten des Steuerrechts und des
-gewerblichen Rechtsschutzes dürfen sie nur erbringen, soweit die
-bisherige Erlaubnis diese Gebiete ausdrücklich umfasst.
+Erlaubnisinhaber) und entsprechend § 16 Absatz 2 Satz 1 Nummer 1 des
+Rechtsdienstleistungsgesetzes in das Rechtsdienstleistungsregister
+eingetragen. Sie dürfen unter ihrer bisher geführten Berufsbezeichnung
+Rechtsdienstleistungen in allen Bereichen des Rechts erbringen, auf
+die sich ihre Registrierung erstreckt. Rechtsdienstleistungen auf den
+Gebieten des Steuerrechts und des gewerblichen Rechtsschutzes dürfen
+sie nur erbringen, soweit ihre Registrierung diese Gebiete
+ausdrücklich umfasst.
 
 (4) Abweichend von § 13 des Rechtsdienstleistungsgesetzes prüft die
 zuständige Behörde vor der Registrierung nur, ob eine ausreichende
@@ -70,18 +67,22 @@ spätere Benennung qualifizierter Personen ist nur für registrierte
 Personen nach § 10 Abs. 1 des Rechtsdienstleistungsgesetzes und nicht
 für registrierte Erlaubnisinhaber möglich.
 
-(5) Der Widerruf einer Erlaubnis nach dem Rechtsberatungsgesetz steht
-dem Widerruf der Registrierung nach § 12 Abs. 1 Nr. 1 Buchstabe c und
-§ 13 Abs. 1 Satz 3 Nr. 4 des Rechtsdienstleistungsgesetzes gleich.
+(5) Ist ein registrierter Erlaubnisinhaber, der nach Maßgabe des § 3
+Absatz 2 zur gerichtlichen Vertretung oder zum Auftreten in der
+Verhandlung befugt ist, verstorben oder wurde seine Registrierung
+zurückgenommen oder widerrufen, kann die für die Registrierung
+zuständige Behörde einen Abwickler für seine Praxis bestellen. § 14a
+Absatz 1 Satz 2 und Absatz 2 des Rechtsdienstleistungsgesetzes gilt
+entsprechend.
 
 
 ## § 2 Versicherungsberater
 
-Abweichend von § 1 Abs. 1 Satz 2 können Personen mit einer Erlaubnis
-zur Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der
+Abweichend von § 1 Absatz 1 können Personen mit einer Erlaubnis zur
+Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der
 Versicherungsberatung (Artikel 1 § 1 Abs. 1 Satz 2 Nr. 2 des
 Rechtsberatungsgesetzes) nur eine Erlaubnis als Versicherungsberater
-nach § 34e Abs. 1 der Gewerbeordnung beantragen.
+nach § 34d Absatz 2 der Gewerbeordnung beantragen.
 
 
 ## § 3 Gerichtliche Vertretung
@@ -89,30 +90,33 @@ nach § 34e Abs. 1 der Gewerbeordnung beantragen.
 (1) Kammerrechtsbeistände stehen in den nachfolgenden Vorschriften
 einem Rechtsanwalt gleich:
 
-1.  § 79 Abs. 2 Satz 1, § 88 Abs. 2, § 121 Abs. 2, § 133 Abs. 2, §§ 135,
-    157, 169 Abs. 2, §§ 174, 195, 317 Abs. 4 Satz 2, § 397 Abs. 2 und §
-    811 Nr. 7 der Zivilprozessordnung,
+1.  § 79 Absatz 1 Satz 2 und Absatz 2 Satz 1, § 88 Absatz 2, § 121 Absatz
+    2 bis 4, § 122 Absatz 1, den §§ 126, 130d und 133 Absatz 2, den §§
+    135, 157 und 169 Absatz 2, den §§ 174, 195 und 317 Absatz 5 Satz 2, §
+    348 Absatz 1 Satz 2 Nummer 2 Buchstabe d, § 397 Absatz 2 und § 702
+    Absatz 2 Satz 2 der Zivilprozessordnung,
 
 
-2.  § 10 Abs. 2 Satz 1 und § 11 Satz 3 des Gesetzes über das Verfahren in
-    Familiensachen und in den Angelegenheiten der freiwilligen
-    Gerichtsbarkeit,
+2.  § 10 Absatz 2 Satz 1, § 11 Satz 4, § 13 Absatz 4, den §§ 14b und 78
+    Absatz 2 bis 4 des Gesetzes über das Verfahren in Familiensachen und
+    in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 
-3.  § 11 Abs. 2 Satz 1 des Arbeitsgerichtsgesetzes,
+3.  § 11 Absatz 2 Satz 1 und § 46g des Arbeitsgerichtsgesetzes,
 
 
-4.  § 73 Abs. 2 Satz 1 und Absatz 6 Satz 5 des Sozialgerichtsgesetzes,
-    wenn nicht die Erlaubnis das Sozial- und Sozialversicherungsrecht
-    ausschließt,
+4.  den §§ 65d und 73 Absatz 2 Satz 1 und Absatz 6 Satz 5 des
+    Sozialgerichtsgesetzes, wenn nicht die Erlaubnis das Sozial- und
+    Sozialversicherungsrecht ausschließt,
 
 
-5.  § 67 Abs. 2 Satz 1 und Abs. 6 Satz 4 der Verwaltungsgerichtsordnung,
+5.  den §§ 55d und 67 Absatz 2 Satz 1 und Absatz 6 Satz 4 der
+    Verwaltungsgerichtsordnung,
 
 
-6.  § 62 Abs. 2 Satz 1 und Abs. 6 Satz 4 der Finanzgerichtsordnung, wenn
-    die Erlaubnis die geschäftsmäßige Hilfeleistung in Steuersachen
-    umfasst.
+6.  den §§ 52d und 62 Absatz 2 Satz 1 und Absatz 6 Satz 4 der
+    Finanzgerichtsordnung, wenn die Erlaubnis die geschäftsmäßige
+    Hilfeleistung in Steuersachen umfasst.
 
 
 
@@ -148,9 +152,9 @@ gerichtliche Vertretung oder das Auftreten in der Verhandlung
 
 
 
-gestattet war. In den Fällen der Nummern 1 bis 3 ist der Umfang der
-Befugnis zu registrieren und im Rechtsdienstleistungsregister
-bekanntzumachen.
+gestattet war. In den Fällen des Satzes 1 Nummer 1 bis 3 ist der
+Umfang der Befugnis zu registrieren und im
+Rechtsdienstleistungsregister bekanntzumachen.
 
 (3) Das Gericht weist registrierte Erlaubnisinhaber, soweit sie nicht
 nach Maßgabe des Absatzes 2 zur gerichtlichen Vertretung oder zum
@@ -165,40 +169,15 @@ Streitverhältnis sachgerecht darzustellen.§ 335 Abs. 1 Nr. 5 der
 Zivilprozessordnung gilt entsprechend.
 
 
-## § 4 Vergütung der registrierten Personen
+## § 4 Vergütung
 
-(1) Das Rechtsanwaltsvergütungsgesetz gilt für die Vergütung der
-Rentenberaterinnen und Rentenberater (registrierte Personen nach § 10
-Abs. 1 Satz 1 Nr. 2 des Rechtsdienstleistungsgesetzes) sowie der
-registrierten Erlaubnisinhaber mit Ausnahme der Frachtprüferinnen und
-Frachtprüfer entsprechend. Richtet sich ihre Vergütung nach dem
-Gegenstandswert, haben sie den Auftraggeber vor Übernahme des Auftrags
-hierauf hinzuweisen.
+(1) Für die Vergütung der registrierten Erlaubnisinhaber mit Ausnahme
+der Frachtprüferinnen und Frachtprüfer gilt § 13d des
+Rechtsdienstleistungsgesetzes entsprechend.
 
-(2) Den in Absatz 1 Satz 1 genannten Personen ist es untersagt,
-geringere Gebühren und Auslagen zu vereinbaren oder zu fordern, als
-das Rechtsanwaltsvergütungsgesetz vorsieht, soweit dieses nichts
-anderes bestimmt. Die Vereinbarung eines Erfolgshonorars (§ 49b Abs. 2
-Satz 1 der Bundesrechtsanwaltsordnung) ist unzulässig, soweit das
-Rechtsanwaltsvergütungsgesetz nichts anderes bestimmt;
-Verpflichtungen, die Gerichtskosten, Verwaltungskosten oder Kosten
-anderer Beteiligter zu tragen, sind unzulässig. Im Einzelfall darf
-besonderen Umständen in der Person des Auftraggebers, insbesondere
-dessen Bedürftigkeit, Rechnung getragen werden durch Ermäßigung oder
-Erlass von Gebühren oder Auslagen nach Erledigung des Auftrags.
-
-(3) Für die Erstattung der Vergütung der in Absatz 1 Satz 1 genannten
-Personen und der Kammerrechtsbeistände in einem gerichtlichen
-Verfahren gelten die Vorschriften der Verfahrensordnungen über die
-Erstattung der Vergütung eines Rechtsanwalts entsprechend.
-
-(4) Die Erstattung der Vergütung von Personen, die
-Inkassodienstleistungen erbringen (registrierte Personen nach § 10
-Abs. 1 Satz 1 Nr. 1 des Rechtsdienstleistungsgesetzes), für die
-Vertretung im Zwangsvollstreckungsverfahren richtet sich nach § 788
-der Zivilprozessordnung. Ihre Vergütung für die Vertretung im
-gerichtlichen Mahnverfahren ist bis zu einem Betrag von 25 Euro nach §
-91 Abs. 1 der Zivilprozessordnung erstattungsfähig.
+(2) Für die Erstattungsfähigkeit der Vergütung von
+Kammerrechtsbeiständen gilt § 13d Absatz 3 des
+Rechtsdienstleistungsgesetzes entsprechend.
 
 
 ## § 5 Diplom-Juristen aus dem Beitrittsgebiet
@@ -215,7 +194,7 @@ Person mit Befähigung zum Richteramt gleich:
     Rechtsdienstleistungsgesetzes,
 
 
-2.  § 78 Abs. 4 und § 79 Abs. 2 Satz 2 Nr. 2 der Zivilprozessordnung,
+2.  § 78 Absatz 2 und § 79 Abs. 2 Satz 2 Nr. 2 der Zivilprozessordnung,
 
 
 3.  § 10 Abs. 2 Satz 2 Nr. 2 des Gesetzes über das Verfahren in
@@ -253,9 +232,26 @@ Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln
 registrierten Rechtsbeiständen geführt werden.
 
 
-## § 7 Übergangsvorschrift für Anträge nach dem Rechtsberatungsgesetz
+## § 7 Übergangsvorschrift zu § 13 Absatz 2 des Rechtsdienstleistungsgesetzes
 
-Über Anträge auf Erteilung einer Erlaubnis nach Artikel 1 § 1 Abs. 1
-Satz 1 des Rechtsberatungsgesetzes, die vor dem 1. Juli 2008 gestellt
-worden sind, ist nach bisherigem Recht zu entscheiden.
+Registrierte Personen im Sinne des § 10 Absatz 1 Satz 1 Nummer 1 des
+Rechtsdienstleistungsgesetzes, die vor dem 1. Oktober 2021 registriert
+wurden und Tätigkeiten auf in § 11 Absatz 1 des
+Rechtsdienstleistungsgesetzes nicht genannten Rechtsgebieten oder als
+Nebenleistungen zur Inkassodienstleistung erbringen, haben der für sie
+zuständigen Aufsichtsbehörde bis zum 30. Juni 2022 eine inhaltliche
+Darstellung der von ihnen ausgeübten Tätigkeiten zu übermitteln. Diese
+muss insbesondere Angaben dazu enthalten,
+
+1.  auf welchen Rechtsgebieten die Tätigkeiten erbracht werden und
+
+
+2.  welche Tätigkeiten als Nebenleistungen erbracht werden.
+
+
+
+Erachtet die zuständige Behörde eine nach Satz 2 Nummer 2 mitgeteilte
+Nebenleistung als nicht zulässig, so hat sie dies der registrierten
+Person innerhalb von vier Monaten nach Eingang der Darstellung
+mitzuteilen.
 

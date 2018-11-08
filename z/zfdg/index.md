@@ -15,24 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3202
 
-Zuletzt geändert durch
-:   Art. 5 G v. 21.7.2012 I 1566
-
+Stand: Zuletzt geändert Art. 15 G v. 17.8.2017 I 3202
 
 ## Kapitel 1 - Organisation
 
 
 
-### § 1 Behörden des Zollfahndungsdienstes
+### § 1 Zollfahndungsdienst
 
-(1) Behörden des Zollfahndungsdienstes sind das Zollkriminalamt als
-Mittelbehörde und die ihm unterstehenden Zollfahndungsämter als
-örtliche Behörden im Geschäftsbereich des Bundesministeriums der
-Finanzen.
-
-(2) Aufgaben des Zollkriminalamtes aus den Bereichen Organisation,
-Personal und Haushalt kann das Bundesministerium der Finanzen auf die
-Bundesfinanzdirektionen übertragen.
+Der Zollfahndungsdienst besteht aus dem Zollkriminalamt als Direktion
+der Generalzolldirektion und den Zollfahndungsämtern. Das
+Zollkriminalamt und die Zollfahndungsämter nehmen die ihnen durch
+Rechtsvorschriften zugewiesenen Aufgaben oder Befugnisse als Behörden
+des Zollfahndungsdienstes wahr.
 
 
 ### § 2 Zentralstelle
@@ -52,8 +47,7 @@ Nachrichtenwesen der Zollverwaltung.
 
 #### § 3 Aufgaben als Zentralstelle
 
-(1) Das Zollkriminalamt unterstützt die anderen Behörden der
-Zollverwaltung
+(1) Das Zollkriminalamt unterstützt die Behörden der Zollverwaltung
 
 1.  bei der Sicherung des Steueraufkommens und bei der Überwachung der
     Ausgaben nach Gemeinschaftsrecht sowie
@@ -123,9 +117,9 @@ die erforderlichen Koordinierungsaufgaben gegenüber den zuständigen
 
 
 soweit das Bundesministerium der Finanzen diese Aufgaben nicht selbst
-wahrnimmt oder sie einer anderen Zollbehörde überträgt. Hierfür
-unterhält das Zollkriminalamt Informationssysteme nach Maßgabe
-internationaler Vereinbarungen und anderer Rechtsvorschriften.
+wahrnimmt oder eine abweichende Zuweisung vorsieht. Hierfür unterhält
+das Zollkriminalamt Informationssysteme nach Maßgabe internationaler
+Vereinbarungen und anderer Rechtsvorschriften.
 
 (6a) Das Bundesministerium der Finanzen kann dem Zollkriminalamt
 Aufgaben bei der Anwendung des Rahmenbeschlusses 2006/960/JI des Rates
@@ -147,8 +141,7 @@ Zollbeamten zu Zollfahndungsbeamten sowie bei deren Weiterbildung mit.
 Es ist insoweit Bildungsstätte der Bundesfinanzverwaltung.
 
 (8) Das Zollkriminalamt hat als Zentralstelle zur Unterstützung der
-Zollfahndungsämter und anderer ermittlungsführender Behörden der
-Zollverwaltung
+Zollfahndungsämter und der Behörden der Zollverwaltung
 
 1.  erkennungsdienstliche Einrichtungen und Sammlungen zu unterhalten,
 
@@ -190,10 +183,9 @@ Abgabenordnung und § 6 des Subventionsgesetzes vom 29. Juli 1976
 (BGBl. I S. 2034, 2037) in der jeweils geltenden Fassung bleiben
 unberührt.
 
-(11) Das Zollkriminalamt erstellt kriminalwissenschaftliche Gutachten
-auf Anforderung von Finanzbehörden, Staatsanwaltschaften und
-Gerichten. Darüber hinaus erstellt es Leitfäden und Gutachten zur
-Verschlusssicherheit von Fahrzeugen und Behältern.
+(11) Das Zollkriminalamt kann auf Ersuchen von Finanzbehörden,
+Staatsanwaltschaften und Gerichten kriminalwissenschaftliche Gutachten
+erstellen.
 
 
 #### § 4 Eigene Aufgaben
@@ -218,7 +210,7 @@ Straftaten sowie zur Vorsorge für künftige Strafverfahren im
 Zuständigkeitsbereich der Zollverwaltung mit.
 
 (4) Das Zollkriminalamt wirkt bei der Bekämpfung der international
-organisierten Geldwäsche nach den §§ 1, 12a bis 12c und 31a des
+organisierten Geldwäsche nach den §§ 1, 12a bis 12c, 31a und 31b des
 Zollverwaltungsgesetzes mit.
 
 
@@ -260,8 +252,7 @@ zu treffen, bleibt unberührt.
 
 Das Zollkriminalamt kann den Zollfahndungsämtern zur Erfüllung ihrer
 Aufgaben und zur Erfüllung seiner eigenen Aufgaben fachliche Weisungen
-erteilen. Im Übrigen gilt § 8 Abs. 3 Satz 2 und 3 des
-Finanzverwaltungsgesetzes entsprechend.
+erteilen.
 
 
 #### § 7 Datenerhebung und -verarbeitung der Zentralstelle
@@ -282,6 +273,49 @@ zugrunde liegen.
 (4) Das Zollkriminalamt darf die bei ihm als Zentralstelle
 gespeicherten Daten, soweit erforderlich, auch zur Erfüllung seiner
 Aufgaben nach den §§ 4 und 5 nutzen.
+
+(5) Soweit es zur Erfüllung der Aufgaben als Zentralstelle nach § 3
+erforderlich ist, darf von demjenigen, der geschäftsmäßig
+Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
+die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen
+Daten verlangt werden (§ 113 Absatz 1 Satz 1 des
+Telekommunikationsgesetzes). Bezieht sich das Auskunftsverlangen nach
+Satz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf
+Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich
+getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des
+Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden,
+wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten
+vorliegen.
+
+(6) Die Auskunft nach Absatz 5 darf auch anhand einer zu einem
+bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
+werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+
+(7) Auskunftsverlangen nach Absatz 5 Satz 2 dürfen nur auf Antrag der
+Leitung oder der stellvertretenden Leitung des Zollkriminalamtes durch
+das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch die Leitung oder die stellvertretende Leitung des
+Zollkriminalamtes getroffen werden. In diesem Fall ist die
+gerichtliche Entscheidung unverzüglich nachzuholen. Die Sätze 1 bis 3
+finden keine Anwendung, wenn der Betroffene vom Auskunftsverlangen
+bereits Kenntnis hat oder haben muss oder wenn die Nutzung der Daten
+bereits durch eine gerichtliche Entscheidung gestattet wird. Das
+Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen. §
+18 Absatz 3 Satz 5 und 6 gilt entsprechend.
+
+(8) Die betroffene Person ist in den Fällen des Absatzes 5 Satz 2 und
+des Absatzes 6 über die Beauskunftung zu benachrichtigen. Die
+Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende
+schutzwürdige Belange Dritter oder der betroffenen Person selbst
+entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt
+oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu
+machen.
+
+(9) Auf Grund eines Auskunftsverlangens nach Absatz 5 oder 6 hat
+derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder
+daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten
+unverzüglich zu übermitteln.
 
 
 #### § 8 Sammlungen personenbezogener Daten der Zentralstelle
@@ -449,10 +483,11 @@ solcher Zuwiderhandlungen eingesetzt werden, so darf das
 Zollkriminalamt auch personenbezogene Daten für Zwecke der
 Ausschreibung zur zollrechtlichen Überwachung dieser
 Beförderungsmittel speichern, verändern und nutzen. Hat nicht das
-Zollkriminalamt, sondern eine andere Zollbehörde die Ausschreibung
-veranlasst, trägt diese die Verantwortung für die Zulässigkeit der
-Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie
-Umfang und Dauer der Ausschreibung zu bezeichnen.
+Zollkriminalamt die Ausschreibung veranlasst, so trägt die die
+Ausschreibung veranlassende Stelle der Zollverwaltung die
+Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem
+Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der
+Ausschreibung zu bezeichnen.
 
 (2) Ist eine Ausschreibung zur Feststellung und Unterrichtung oder zur
 verdeckten Registrierung nach Artikel 5 Absatz 1 des Beschlusses
@@ -503,7 +538,8 @@ Zollfahndungsinformationssystem einzubeziehenden Sammlungen
 personenbezogener Daten.
 
 (2) Die Behörden des Zollfahndungsdienstes, die anderen
-ermittlungsführenden Dienststellen der Zollverwaltung und das
+ermittlungsführenden Dienststellen der Zollverwaltung, die
+Zentralstelle für Finanztransaktionsuntersuchungen und das
 Bundeskriminalamt sind berechtigt, am Zollfahndungsinformationssystem
 teilzunehmen, und haben das Recht, Daten zur Erfüllung der
 Verpflichtung nach § 13 im automatisierten Verfahren einzugeben und,
@@ -585,13 +621,56 @@ selbstständig im Sinne des § 386 Abs. 2 der Abgabenordnung führen,
 fachliche Weisungen erteilen.
 
 
-#### § 15 Sammlungen personenbezogener Daten zur Erfüllung eigener Aufgaben
+#### § 15 Erhebung und Sammlung personenbezogener Daten zur Erfüllung eigener Aufgaben
 
-Bei der Erfüllung eigener Aufgaben des Zollkriminalamtes nach den § 4
-Abs. 1 Satz 2, Abs. 2 bis 4 und § 5 gelten § 7 Abs. 1 bis 3 und § 8
-entsprechend; bei der Erfüllung der Aufgaben nach § 4 Abs. 2 bis 4
+(1) Bei der Erfüllung eigener Aufgaben des Zollkriminalamtes nach den
+§ 4 Abs. 1 Satz 2, Abs. 2 bis 4 und § 5 gelten § 7 Abs. 1 bis 3 und §
+8 entsprechend; bei der Erfüllung der Aufgaben nach § 4 Abs. 2 bis 4
 gilt darüber hinaus § 9 mit Ausnahme von dessen Absatz 2 Satz 2 Nr. 2
 entsprechend.
+
+(2) Soweit dies zur Erfüllung der Aufgaben nach § 4 Absatz 2 bis 4
+erforderlich ist, darf von demjenigen, der geschäftsmäßig
+Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
+die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen
+Daten verlangt werden (§ 113 Absatz 1 Satz 1 des
+Telekommunikationsgesetzes). Bezieht sich das Auskunftsverlangen nach
+Satz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf
+Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich
+getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des
+Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden,
+wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten
+vorliegen.
+
+(3) Die Auskunft nach Absatz 2 darf auch anhand einer zu einem
+bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
+werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+
+(4) Auskunftsverlangen nach Absatz 2 Satz 2 dürfen nur auf Antrag der
+Leitung oder der stellvertretenden Leitung des Zollkriminalamtes durch
+das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch die Leitung oder die stellvertretende Leitung des
+Zollkriminalamtes getroffen werden. In diesem Fall ist die
+gerichtliche Entscheidung unverzüglich nachzuholen. Die Sätze 1 bis 3
+finden keine Anwendung, wenn der Betroffene vom Auskunftsverlangen
+bereits Kenntnis hat oder haben muss oder wenn die Nutzung der Daten
+bereits durch eine gerichtliche Entscheidung gestattet wird. Das
+Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen. §
+18 Absatz 3 Satz 5 und 6 gilt entsprechend.
+
+(5) Die betroffene Person ist in den Fällen des Absatzes 2 Satz 2 und
+des Absatzes 3 über die Beauskunftung zu benachrichtigen. Die
+Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende
+schutzwürdige Belange Dritter oder der betroffenen Person selbst
+entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt
+oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu
+machen.
+
+(6) Auf Grund eines Auskunftsverlangens nach Absatz 2 oder 3 hat
+derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder
+daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten
+unverzüglich zu übermitteln.
 
 
 #### § 16 Weitere Befugnisse
@@ -652,17 +731,17 @@ Außenwirtschaftsüberwachung auch zur Vorbereitung der Durchführung von
 Maßnahmen nach § 23a zulässig. Sie können zugleich neben derartigen
 Maßnahmen angeordnet werden.
 
-(3) Eine längerfristige Observation darf nur durch den Behördenleiter
-oder einen von ihm beauftragten Beamten des höheren Dienstes
-angeordnet werden. Die Anordnung ist unter Angabe der maßgeblichen
-Gründe aktenkundig zu machen und auf höchstens 14 Tage zu befristen.
-Die Verlängerung der Maßnahme bedarf einer erneuten Anordnung. Die
-Entscheidung über die Verlängerung der Maßnahme darf nur durch den
-Richter getroffen werden. Zuständig ist das Amtsgericht, in dessen
-Bezirk das Zollkriminalamt seinen Sitz hat. Für das Verfahren gelten
-die Vorschriften des Gesetzes über das Verfahren in Familiensachen und
-in den Angelegenheiten der freiwilligen Gerichtsbarkeit in der jeweils
-geltenden Fassung entsprechend.
+(3) Eine längerfristige Observation darf nur durch die Leitung des
+Zollkriminalamtes oder einen von ihr beauftragten Beamten des höheren
+Dienstes angeordnet werden. Die Anordnung ist unter Angabe der
+maßgeblichen Gründe aktenkundig zu machen und auf höchstens 14 Tage zu
+befristen. Die Verlängerung der Maßnahme bedarf einer erneuten
+Anordnung. Die Entscheidung über die Verlängerung der Maßnahme darf
+nur durch den Richter getroffen werden. Zuständig ist das Amtsgericht,
+in dessen Bezirk das Zollkriminalamt seinen Sitz hat. Für das
+Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit in der jeweils geltenden Fassung entsprechend.
 
 (4) Daten, die durch eine Maßnahme nach Absatz 1 erlangt worden sind,
 sind zu kennzeichnen. Nach einer Übermittlung an eine andere Stelle
@@ -714,11 +793,12 @@ Außenwirtschaftsüberwachung auch zur Vorbereitung der Durchführung von
 Maßnahmen nach § 23a zulässig. Sie können zugleich neben derartigen
 Maßnahmen angeordnet werden.
 
-(3) Maßnahmen nach Absatz 1 dürfen nur durch den Behördenleiter oder
-einen von ihm beauftragten Beamten des höheren Dienstes angeordnet
-werden. Die Anordnung ist unter Angabe der maßgeblichen Gründe
-aktenkundig zu machen und auf höchstens einen Monat zu befristen. Die
-Verlängerung der Maßnahme bedarf einer erneuten Anordnung.
+(3) Maßnahmen nach Absatz 1 dürfen nur durch die Leitung des
+Zollkriminalamtes oder einen von ihr beauftragten Beamten des höheren
+Dienstes angeordnet werden. Die Anordnung ist unter Angabe der
+maßgeblichen Gründe aktenkundig zu machen und auf höchstens einen
+Monat zu befristen. Die Verlängerung der Maßnahme bedarf einer
+erneuten Anordnung.
 
 (4) Daten, die durch eine Maßnahme nach Absatz 1 erlangt worden sind,
 sind zu kennzeichnen. Nach einer Übermittlung an eine andere Stelle
@@ -754,16 +834,17 @@ Außenwirtschaftsüberwachung auch zur Vorbereitung der Durchführung von
 Maßnahmen nach § 23a zulässig. Sie können zugleich neben derartigen
 Maßnahmen angeordnet werden.
 
-(3) Maßnahmen nach Absatz 1 dürfen nur durch den Behördenleiter oder
-einen von ihm beauftragten Beamten des höheren Dienstes angeordnet
-werden. Die Anordnung ist unter Angabe der maßgeblichen Gründe
-aktenkundig zu machen und auf höchstens 14 Tage zu befristen. Die
-Verlängerung der Maßnahme bedarf einer erneuten Anordnung. Die
-Entscheidung über die Verlängerung der Maßnahme darf nur durch den
-Richter getroffen werden. Zuständig ist das Amtsgericht, in dessen
-Bezirk das Zollkriminalamt seinen Sitz hat. Für das Verfahren gelten
-die Vorschriften des Gesetzes über das Verfahren in Familiensachen und
-in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
+(3) Maßnahmen nach Absatz 1 dürfen nur durch die Leitung des
+Zollkriminalamtes oder einen von ihr beauftragten Beamten des höheren
+Dienstes angeordnet werden. Die Anordnung ist unter Angabe der
+maßgeblichen Gründe aktenkundig zu machen und auf höchstens 14 Tage zu
+befristen. Die Verlängerung der Maßnahme bedarf einer erneuten
+Anordnung. Die Entscheidung über die Verlängerung der Maßnahme darf
+nur durch den Richter getroffen werden. Zuständig ist das Amtsgericht,
+in dessen Bezirk das Zollkriminalamt seinen Sitz hat. Für das
+Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit entsprechend.
 
 (4) § 18 Abs. 4 gilt entsprechend.
 
@@ -803,9 +884,9 @@ Maßnahmen nach § 23a zulässig. Sie können zugleich neben derartigen
 Maßnahmen angeordnet werden.
 
 (3) Der Einsatz von Privatpersonen, deren Zusammenarbeit mit dem
-Zollkriminalamt Dritten nicht bekannt ist, darf nur durch den
-Behördenleiter oder einen von ihm beauftragten Beamten des höheren
-Dienstes angeordnet werden. Die Anordnung ist unter Angabe der
+Zollkriminalamt Dritten nicht bekannt ist, darf nur durch die Leitung
+des Zollkriminalamtes oder einen von ihr beauftragten Beamten des
+höheren Dienstes angeordnet werden. Die Anordnung ist unter Angabe der
 maßgeblichen Gründe aktenkundig zu machen und auf höchstens einen
 Monat zu befristen. Die Verlängerung der Maßnahme bedarf einer
 erneuten Anordnung.
@@ -834,9 +915,9 @@ technische Mittel zur Anfertigung von Bildaufnahmen und
 Bildaufzeichnungen sowie zum Abhören und Aufzeichnen des nicht
 öffentlich gesprochenen Wortes außerhalb von Wohnungen verwenden,
 soweit dies zur Abwehr von Gefahren für deren Leib, Leben oder
-Freiheit unerlässlich ist. Maßnahmen nach Satz 1 werden durch den
-Behördenleiter oder einen von ihm beauftragten Beamten des höheren
-Dienstes angeordnet.
+Freiheit unerlässlich ist. Maßnahmen nach Satz 1 werden durch die
+Leitung des Zollkriminalamtes oder einen von ihr beauftragten Beamten
+des höheren Dienstes angeordnet.
 
 (2) Personenbezogene Daten, die durch den Einsatz technischer Mittel
 zur Eigensicherung erlangt werden, dürfen außer für den in Absatz 1
@@ -861,9 +942,9 @@ technische Mittel zur Anfertigung von Bildaufnahmen und
 Bildaufzeichnungen sowie zum Abhören und Aufzeichnen des nicht
 öffentlich gesprochenen Wortes innerhalb von Wohnungen verwenden,
 soweit dies zur Abwehr von Gefahren für deren Leib, Leben oder
-Freiheit unerlässlich ist. Maßnahmen nach Satz 1 werden durch den
-Behördenleiter oder einen von ihm beauftragten Beamten des höheren
-Dienstes angeordnet.
+Freiheit unerlässlich ist. Maßnahmen nach Satz 1 werden durch die
+Leitung des Zollkriminalamtes oder einen von ihr beauftragten Beamten
+des höheren Dienstes angeordnet.
 
 (2) Ist der Kernbereich privater Lebensgestaltung betroffen, ist die
 Maßnahme zu unterbrechen, sobald dies ohne Gefährdung der eingesetzten
@@ -884,14 +965,14 @@ verwendet werden zur
     insbesondere einer gemeinen Gefahr oder einer Lebensgefahr, oder
 
 
-2.  Verfolgung einer in § 100c der Strafprozessordnung genannten Straftat,
-    wenn die Rechtmäßigkeit der Maßnahme durch das Amtsgericht, in dessen
-    Bezirk das Zollkriminalamt seinen Sitz hat, gerichtlich festgestellt
-    wurde. Entscheidet das Zollkriminalamt über die Verwendung der Daten
-    wegen Gefahr im Verzug, so ist die Entscheidung des Gerichts
-    unverzüglich nachzuholen. Für das Verfahren gelten die Vorschriften
-    des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit
-    entsprechend.
+2.  Verfolgung einer in § 100b Absatz 2 der Strafprozessordnung genannten
+    Straftat, wenn die Rechtmäßigkeit der Maßnahme durch das Amtsgericht,
+    in dessen Bezirk das Zollkriminalamt seinen Sitz hat, gerichtlich
+    festgestellt wurde. Entscheidet das Zollkriminalamt über die
+    Verwendung der Daten wegen Gefahr im Verzug, so ist die Entscheidung
+    des Gerichts unverzüglich nachzuholen. Für das Verfahren gelten die
+    Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
+    den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 
 
@@ -1026,16 +1107,16 @@ Annahme rechtfertigen, dass Personen die öffentliche Sicherheit und
 Ordnung erheblich gefährden, indem sie rechtswidrig und ohne die
 hierfür erforderliche Genehmigung oder Entscheidung nach Artikel 4
 Abs. 4 in Verbindung mit Abs. 1 oder 2 der Verordnung (EG) Nr.
-1334/2000 vom 22. Juni 2000 oder nach § 5c oder § 5d der
-Außenwirtschaftsverordnung die Ausfuhr von
+428/2009 vom 5. Mai 2009 oder entgegen einer Beschränkung oder
+Handlungspflicht nach § 4 Absatz 1 und § 5 des
+Außenwirtschaftsgesetzes die Ausfuhr von
 
 1.  Waffen, Munition und Rüstungsmaterial einschließlich darauf bezogener
     Herstellungsausrüstung und Technologie, sowie von Gütern, die geeignet
     sind und von denen auf Grund von Tatsachen angenommen werden kann,
     dass sie ganz oder teilweise für eine militärische Endbestimmung im
-    Sinne von Artikel 4 Abs. 2 Satz 2 der Verordnung (EG) Nr. 1334/2000
-    vom 22. Juni 2000 oder im Sinne von § 5c der
-    Außenwirtschaftsverordnung bestimmt sind,
+    Sinne von Artikel 4 Abs. 2 Satz 2 der Verordnung (EG) Nr. 428/2009 vom
+    5\. Mai 2009 bestimmt sind,
 
     a)  wenn diese für die Verwendung in einem Staat bestimmt sind, der sich
         in einem internationalen oder nicht internationalen bewaffneten
@@ -1050,12 +1131,11 @@ Außenwirtschaftsverordnung die Ausfuhr von
         verhängt wurde und die Länder oder die Rechtsakte der Europäischen
         Union oder des Sicherheitsrates der Vereinten Nationen, auf Grund
         derer die Liste der Empfänger erstellt wurde, in einer
-        Veröffentlichung des Bundesministeriums für Wirtschaft und Technologie
-        im Bundesanzeiger benannt sind, oder
+        Veröffentlichung des Bundesministeriums für Wirtschaft und Energie im
+        Bundesanzeiger benannt sind, oder
 
 
-    c)  wenn das Käufer- oder Bestimmungsland ein Land der Länderliste K
-        (Anlage zur Außenwirtschaftsverordnung) ist oder
+    c)  (weggefallen)
 
 
     d)  wenn durch die Lieferung der Güter die Gefahr eines schweren Nachteils
@@ -1086,8 +1166,8 @@ Außenwirtschaftsverordnung die Ausfuhr von
     Einbau in eine Anlage für kerntechnische Zwecke im Sinne der Kategorie
     0 des Teils I Abschnitt C der Ausfuhrliste (Anlage AL zur
     Außenwirtschaftsverordnung) zu leisten und das Käufer- oder
-    Bestimmungsland Algerien, Indien, Irak, Iran, Israel, Jordanien,
-    Libyen, Nordkorea, Pakistan oder Syrien ist,
+    Bestimmungsland Algerien, Irak, Iran, Israel, Jordanien, Libyen,
+    Nordkorea, Pakistan oder Syrien ist,
 
 
 
@@ -1186,14 +1266,14 @@ Ergebnis der durchgeführten Maßnahme zu unterrichten.
 #### § 23b Gerichtliche Anordnung
 
 (1) Die Anordnung nach § 23a Abs. 1, 3 oder 4 ergeht auf zu
-begründenden Antrag der Behördenleitung des Zollkriminalamts
-persönlich, bei deren Verhinderung von deren Stellvertretung, nach
-Zustimmung des Bundesministeriums der Finanzen durch das Landgericht.
-Bei Gefahr im Verzug kann die Anordnung vom Bundesministerium der
-Finanzen getroffen werden; sie tritt außer Kraft, wenn sie nicht
-binnen drei Tagen vom Landgericht bestätigt wird. Die gewonnenen
-Erkenntnisse dürfen nicht verwertet werden. Damit im Zusammenhang
-stehende Unterlagen sind unverzüglich zu vernichten.
+begründenden Antrag der Leitung des Zollkriminalamts persönlich, bei
+deren Verhinderung von deren Stellvertretung, nach Zustimmung des
+Bundesministeriums der Finanzen durch das Landgericht. Bei Gefahr im
+Verzug kann die Anordnung vom Bundesministerium der Finanzen getroffen
+werden; sie tritt außer Kraft, wenn sie nicht binnen drei Tagen vom
+Landgericht bestätigt wird. Die gewonnenen Erkenntnisse dürfen nicht
+verwertet werden. Damit im Zusammenhang stehende Unterlagen sind
+unverzüglich zu vernichten.
 
 (2) In der Begründung der Anordnung oder Verlängerung sind deren
 Voraussetzungen und die wesentlichen Abwägungsgesichtspunkte
@@ -1236,15 +1316,15 @@ freiwilligen Gerichtsbarkeit entsprechend.
 
 
 Die Anordnung ist auf höchstens drei Monate zu befristen. Auf Antrag
-der Behördenleitung des Zollkriminalamtes persönlich, bei deren
-Verhinderung von deren Stellvertretung, mit Zustimmung des
-Bundesministeriums der Finanzen, der unter Darstellung der bisherigen
-Ermittlungsergebnisse zu begründen ist, ist eine Verlängerung um
-jeweils bis zu drei Monaten zulässig, soweit die Voraussetzungen
-fortbestehen und eine weitere Überwachung verhältnismäßig ist. Wird
-eine Maßnahme nach § 23a Abs. 1, 3 oder 4 auf Grund einer Verlängerung
-die Dauer von neun Monaten überschreiten, so entscheidet das
-Oberlandesgericht über die weiteren Verlängerungen.
+der Leitung des Zollkriminalamtes persönlich, bei deren Verhinderung
+von deren Stellvertretung, mit Zustimmung des Bundesministeriums der
+Finanzen, der unter Darstellung der bisherigen Ermittlungsergebnisse
+zu begründen ist, ist eine Verlängerung um jeweils bis zu drei Monaten
+zulässig, soweit die Voraussetzungen fortbestehen und eine weitere
+Überwachung verhältnismäßig ist. Wird eine Maßnahme nach § 23a Abs. 1,
+3 oder 4 auf Grund einer Verlängerung die Dauer von neun Monaten
+überschreiten, so entscheidet das Oberlandesgericht über die weiteren
+Verlängerungen.
 
 
 #### § 23c Durchführungsvorschriften
@@ -1260,25 +1340,25 @@ personenbezogenen Daten zum Zwecke der Verhütung von Taten im Sinne
 des § 23a Abs. 1 oder 3 verarbeiten und nutzen. Es darf die Daten auch
 zur Verfolgung von Straftaten nach § 19 Abs. 1 bis 3, § 20 Abs. 1 oder
 2, § 20a Abs. 1 bis 3, jeweils auch in Verbindung mit § 21, oder § 22a
-Abs. 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen oder §
-34 Abs. 1 bis 6 des Außenwirtschaftsgesetzes verwenden. Das
-Zollkriminalamt prüft unverzüglich und sodann in Abständen von
-höchstens sechs Monaten, ob die erhobenen Daten für die in § 23a Abs.
-1 oder 3 bestimmten Zwecke erforderlich sind. Soweit die Daten für
-diese Zwecke nicht erforderlich sind, nicht zur Verfolgung einer
-Straftat im Sinne des Satzes 2 oder für eine Übermittlung nach § 23d
-benötigt werden sowie nicht mehr für eine Mitteilung nach Absatz 4
-oder für eine gerichtliche Nachprüfung der Rechtmäßigkeit der
-Beschränkungsmaßnahme von Bedeutung sein können, sind sie unverzüglich
-unter Aufsicht eines Bediensteten, der die Befähigung zum Richteramt
-hat, zu löschen. Die Löschung ist zu protokollieren. Zur Sicherung der
-ordnungsgemäßen Löschung sind in regelmäßigen Abständen von höchstens
-sechs Monaten Prüfungen durch einen Bediensteten, der die Befähigung
-zum Richteramt hat, durchzuführen; die Prüfungen sind zu
-protokollieren. Daten, die nur zum Zwecke einer Mitteilung nach Absatz
-4 oder der gerichtlichen Nachprüfung der Rechtmäßigkeit der
-Beschränkung gespeichert bleiben, sind zu sperren; sie dürfen nur zu
-diesem Zweck verwendet werden.
+Abs. 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen oder von
+vorsätzlichen Straftaten nach den §§ 17 und 18 des
+Außenwirtschaftsgesetzes verwenden. Das Zollkriminalamt prüft
+unverzüglich und sodann in Abständen von höchstens sechs Monaten, ob
+die erhobenen Daten für die in § 23a Abs. 1 oder 3 bestimmten Zwecke
+erforderlich sind. Soweit die Daten für diese Zwecke nicht
+erforderlich sind, nicht zur Verfolgung einer Straftat im Sinne des
+Satzes 2 oder für eine Übermittlung nach § 23d benötigt werden sowie
+nicht mehr für eine Mitteilung nach Absatz 4 oder für eine
+gerichtliche Nachprüfung der Rechtmäßigkeit der Beschränkungsmaßnahme
+von Bedeutung sein können, sind sie unverzüglich unter Aufsicht eines
+Bediensteten, der die Befähigung zum Richteramt hat, zu löschen. Die
+Löschung ist zu protokollieren. Zur Sicherung der ordnungsgemäßen
+Löschung sind in regelmäßigen Abständen von höchstens sechs Monaten
+Prüfungen durch einen Bediensteten, der die Befähigung zum Richteramt
+hat, durchzuführen; die Prüfungen sind zu protokollieren. Daten, die
+nur zum Zwecke einer Mitteilung nach Absatz 4 oder der gerichtlichen
+Nachprüfung der Rechtmäßigkeit der Beschränkung gespeichert bleiben,
+sind zu sperren; sie dürfen nur zu diesem Zweck verwendet werden.
 
 (3) Die erhobenen Daten sind zu kennzeichnen. Nach einer Übermittlung
 an die in § 23d Abs. 1 bis 7 bezeichneten Stellen ist die
@@ -1361,14 +1441,17 @@ betrauten Behörden übermittelt werden, wenn
 
 1.  tatsächliche Anhaltspunkte für den Verdacht bestehen, dass jemand
 
-    a)  Straftaten nach den §§ 80, 81 Abs. 1, § 89a, § 94 Abs. 2, § 129a, auch
-        in Verbindung mit § 129b Abs. 1, §§ 211, 212, 239a und 239b und 307
-        Abs. 1 bis 3 des Strafgesetzbuches oder
+    a)  Straftaten nach § 81 Absatz 1, den §§ 89a, 89c, 94 Absatz 2, § 129a,
+        auch in Verbindung mit § 129b Abs. 1, §§ 211, 212, 239a und 239b und
+        307 Abs. 1 bis 3 des Strafgesetzbuches,
 
 
-    b)  Straftaten nach § 34 Abs. 1 bis 6, auch in Verbindung mit § 35 des
+    b)  vorsätzliche Straftaten nach den §§ 17 und 18 des
         Außenwirtschaftsgesetzes, §§ 19 bis 21 oder 22a Abs. 1 Nr. 4, 5 und 7
-        des Gesetzes über die Kontrolle von Kriegswaffen
+        des Gesetzes über die Kontrolle von Kriegswaffen oder
+
+
+    c)  Straftaten nach § 13 des Völkerstrafgesetzbuches
 
 
 
@@ -1378,14 +1461,15 @@ betrauten Behörden übermittelt werden, wenn
 
 2.  bestimmte Tatsachen den Verdacht begründen, dass jemand
 
-    a)  Straftaten, die in § 3 Abs. 1 Satz 1 Nr. 1 bis 5 und 7, Satz 2 des
-        Artikel 10-Gesetzes bezeichnet sind, oder
+    a)  Straftaten, die in § 3 Absatz 1 Satz 1 Nummer 1 bis 5, 7 und 9, Satz 2
+        des Artikel 10-Gesetzes bezeichnet sind, oder
 
 
-    b)  Straftaten nach den §§ 130, 146, 151 bis 152a, 181, 249 bis 251, 255,
-        261, 305a, 306 bis 306c, 308 Abs. 1 bis 4, § 309 Abs. 1 bis 5, §§ 313,
-        314, 315 Abs. 1, 3 oder Abs. 4, § 315b Abs. 3, §§ 316a, 316b Abs. 1
-        oder 3 oder § 316c Abs. 1 oder 3 des Strafgesetzbuches oder
+    b)  Straftaten nach den §§ 130, 146, 151 bis 152a, 232a Absatz 1 bis 5,
+        den §§ 232b, 249 bis 251, 255, 261, 305a, 306 bis 306c, 308 Abs. 1 bis
+        4, § 309 Abs. 1 bis 5, §§ 313, 314, 315 Abs. 1, 3 oder Abs. 4, § 315b
+        Abs. 3, §§ 316a, 316b Abs. 1 oder 3 oder § 316c Abs. 1 oder 3 des
+        Strafgesetzbuches oder
 
 
     c)  Straftaten nach § 29a Abs. 1 Nr. 2, § 30 Abs. 1 Nr. 1, 4 oder § 30a
@@ -1408,10 +1492,10 @@ vorbereitet hat.
 
 (3) Die vom Zollkriminalamt erlangten personenbezogenen Daten dürfen
 an das Bundesamt für Wirtschaft und Ausfuhrkontrolle oder an das
-Bundesministerium für Wirtschaft und Technologie als
-Genehmigungsbehörde nach dem Gesetz über die Kontrolle von
-Kriegswaffen übermittelt werden, wenn bestimmte Tatsachen die Annahme
-begründen, dass die Kenntnis dieser Daten erforderlich ist
+Bundesministerium für Wirtschaft und Energie als Genehmigungsbehörde
+nach dem Gesetz über die Kontrolle von Kriegswaffen übermittelt
+werden, wenn bestimmte Tatsachen die Annahme begründen, dass die
+Kenntnis dieser Daten erforderlich ist
 
 1.  zur Aufklärung von Teilnehmern am Außenwirtschaftsverkehr über
     Umstände, die für die Einhaltung von Beschränkungen des
@@ -1453,15 +1537,14 @@ Informationen über die in § 5 Abs. 1 Satz 3 Nr. 1 bis 3 des Artikel
 10-Gesetzes genannten Gefahrenbereiche erforderlich sind.
 
 (6) Die vom Zollkriminalamt erlangten personenbezogenen Daten dürfen
-zur Verhütung von Straftaten nach § 34 Abs. 1 bis 6, auch in
-Verbindung mit § 35 des Außenwirtschaftsgesetzes, oder nach den §§ 19
-bis 21 oder 22a Abs. 1 Nr. 4, 5 und 7 des Gesetzes über die Kontrolle
-von Kriegswaffen an die mit der Ausfuhrabfertigung befassten
-Zolldienststellen der Mitgliedstaaten der Europäischen Union auf der
-Grundlage der zwischenstaatlichen Vereinbarungen über die gegenseitige
-Rechts- und Amtshilfe übermittelt werden, wenn tatsächliche
-Anhaltspunkte für den Verdacht bestehen, dass derartige Straftaten
-begangen werden sollen.
+zur Verhütung von vorsätzlichen Straftaten gemäß den §§ 17 und 18 des
+Außenwirtschaftsgesetzes oder nach den §§ 19 bis 21 oder 22a Abs. 1
+Nr. 4, 5 und 7 des Gesetzes über die Kontrolle von Kriegswaffen an die
+mit der Ausfuhrabfertigung befassten Zolldienststellen der
+Mitgliedstaaten der Europäischen Union auf der Grundlage der
+zwischenstaatlichen Vereinbarungen über die gegenseitige Rechts- und
+Amtshilfe übermittelt werden, wenn tatsächliche Anhaltspunkte für den
+Verdacht bestehen, dass derartige Straftaten begangen werden sollen.
 
 (7) Das Zollkriminalamt darf durch Maßnahmen nach § 23a Abs. 1, 3 und
 4 erlangte personenbezogene Daten an die für die Verhütung oder
@@ -1522,14 +1605,8 @@ erbringen oder an der Erbringung solcher Dienste mitwirken, anderen
 nicht mitgeteilt werden.
 
 
-#### § 23f Entschädigung für Leistungen
+#### § 23f (weggefallen)
 
-Das Zollkriminalamt hat denjenigen, die geschäftsmäßig Post- oder
-Telekommunikationsdienste erbringen oder an der Erbringung solcher
-Dienste mitwirken, für ihre Leistungen bei der Durchführung von
-Maßnahmen nach § 23a eine Entschädigung zu gewähren, deren Umfang sich
-nach § 23 des Justizvergütungs- und
--entschädigungsgesetzes              bemisst.
 
 
 #### § 23g Erhebung von Verkehrsdaten
@@ -1578,7 +1655,7 @@ Auskünfte zu erteilen. Ob und in welchem Umfang hierfür Vorkehrungen
 zu treffen sind, bestimmt sich nach dem Telekommunikationsgesetz und
 der Telekommunikations-Überwachungsverordnung.
 
-(6) § 23c Abs. 2 bis 8 und die §§ 23d bis 23f gelten entsprechend.
+(6) § 23c Abs. 2 bis 8 sowie die §§ 23d und 23e gelten entsprechend.
 
 
 ## Kapitel 3 - Zollfahndungsämter
@@ -1691,8 +1768,8 @@ sowie für Zwecke der Eigensicherung verwenden. Die Verwendung ist
 unzulässig, soweit besondere bundesgesetzliche Verwendungsregelungen
 entgegenstehen.
 
-(3) § 7 Abs. 2 und 3, § 8 Abs. 1 bis 5 und § 10 Abs. 1 gelten
-entsprechend.
+(3) § 7 Absatz 2, 3 und 5
+bis 9,, § 8 Abs. 1 bis 5 und § 10 Abs. 1 gelten entsprechend.
 
 
 #### § 28 Datenerhebung durch längerfristige Observationen
@@ -1805,14 +1882,14 @@ verwendet werden zur
     insbesondere einer gemeinen Gefahr oder einer Lebensgefahr, oder
 
 
-2.  Verfolgung einer in § 100c der Strafprozessordnung genannten Straftat,
-    wenn die Rechtmäßigkeit der Maßnahme durch das Amtsgericht, in dessen
-    Bezirk das Zollfahndungsamt seinen Sitz hat, gerichtlich festgestellt
-    wurde. Entscheidet das Zollfahndungsamt über die Verwendung der Daten
-    wegen Gefahr im Verzug, so ist die Entscheidung des Gerichts
-    unverzüglich nachzuholen. Für das Verfahren gelten die Vorschriften
-    des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit
-    entsprechend.
+2.  Verfolgung einer in § 100b Absatz 2 der Strafprozessordnung genannten
+    Straftat, wenn die Rechtmäßigkeit der Maßnahme durch das Amtsgericht,
+    in dessen Bezirk das Zollfahndungsamt seinen Sitz hat, gerichtlich
+    festgestellt wurde. Entscheidet das Zollfahndungsamt über die
+    Verwendung der Daten wegen Gefahr im Verzug, so ist die Entscheidung
+    des Gerichts unverzüglich nachzuholen. Für das Verfahren gelten die
+    Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
+    den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 
 
@@ -1865,10 +1942,15 @@ Rechtsvorschriften vorgesehen oder
     Strafvollzugs oder der Gnadenverfahren,
 
 
-3.  für Zwecke der Gefahrenabwehr oder
+3.  für Zwecke der Gefahrenabwehr,
 
 
 4.  zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einzelner
+    oder
+
+
+5.  zur Erfüllung der Aufgaben der Zentralstelle für
+    Finanztransaktionsuntersuchungen nach dem Geldwäschegesetz
 
 
 
@@ -1923,9 +2005,12 @@ werden soll, die Daten zu dem Zweck benötigt, zu dem sie gespeichert
 worden sind und diese Form der Datenübermittlung unter
 Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen
 der Vielzahl der Übermittlungen oder der besonderen Eilbedürftigkeit
-angemessen ist. Die Verantwortung für die Zulässigkeit des einzelnen
-Abrufs trägt der Dritte, an den übermittelt wird. § 11 Abs. 4 findet
-entsprechende Anwendung.
+angemessen ist. Satz 1 findet für die Zentralstelle für
+Finanztransaktionsuntersuchungen mit der Maßgabe Anwendung, dass sie
+abgerufene Daten auch für ihre eigenen Zwecke verwenden darf. Die
+Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt der
+Dritte, an den übermittelt wird. § 11 Abs. 4 findet entsprechende
+Anwendung.
 
 (5) Unter den Voraussetzungen des Absatzes 1 Satz 2 dürfen die
 Behörden des Zollfahndungsdienstes personenbezogene Daten auch an
@@ -2062,15 +2147,15 @@ die Verhütung und Verfolgung von Straftaten zuständige öffentliche
 Stelle eines Mitgliedstaates der Europäischen Union übermitteln, wenn
 im Einzelfall die Gefahr der Begehung einer Straftat im Sinne des
 Artikels 2 Absatz 2 des Rahmenbeschlusses
-2002/584/JI              des Rates vom 13. Juni 2002 über den
-Europäischen Haftbefehl und die Übergabeverfahren zwischen den
-Mitgliedstaaten (ABl. L 190 vom 18.7.2002, S. 1), der zuletzt durch
-den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24)
-geändert worden ist, besteht und konkrete Anhaltspunkte dafür
-vorliegen, dass die Übermittlung dieser personenbezogenen Daten dazu
-beitragen könnte, eine solche Straftat zu verhindern. Für die
-Übermittlung dieser Daten gelten die Vorschriften über die
-Datenübermittlung im innerstaatlichen Bereich entsprechend.
+2002/584/JI des Rates vom 13. Juni 2002 über den Europäischen
+Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten
+(ABl. L 190 vom 18.7.2002, S. 1), der zuletzt durch den
+Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert
+worden ist, besteht und konkrete Anhaltspunkte dafür vorliegen, dass
+die Übermittlung dieser personenbezogenen Daten dazu beitragen könnte,
+eine solche Straftat zu verhindern. Für die Übermittlung dieser Daten
+gelten die Vorschriften über die Datenübermittlung im innerstaatlichen
+Bereich entsprechend.
 
 (4) Die Zulässigkeit der Übermittlung personenbezogener Daten durch
 die Behörden des Zollfahndungsdienstes an eine Polizeibehörde oder
@@ -2159,14 +2244,14 @@ hinaus auch dann unterbleiben, wenn
 ### § 35a Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
 
 (1) Daten, die nach dem Rahmenbeschluss
-2006/960/JI              an die Behörden des Zollfahndungsdienstes
-übermittelt worden sind, dürfen nur für die Zwecke, für die sie
-übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
-erheblichen Gefahr für die öffentliche Sicherheit verwendet werden.
-Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen
-Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde
-Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung
-der Daten gestellte Bedingungen sind zu beachten.
+2006/960/JI an die Behörden des Zollfahndungsdienstes übermittelt
+worden sind, dürfen nur für die Zwecke, für die sie übermittelt
+wurden, oder zur Abwehr einer gegenwärtigen und erheblichen Gefahr für
+die öffentliche Sicherheit verwendet werden. Für einen anderen Zweck
+oder als Beweismittel in einem gerichtlichen Verfahren dürfen sie nur
+verwendet werden, wenn der übermittelnde Staat zugestimmt hat. Von dem
+übermittelnden Staat für die Verwendung der Daten gestellte
+Bedingungen sind zu beachten.
 
 (2) Die Behörden des Zollfahndungsdienstes erteilen dem übermittelnden
 Staat auf dessen Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft
@@ -2400,9 +2485,8 @@ nach § 39 Abs. 3 bis 6 besteht.
 
 (3) Unterlagen mit personenbezogenen Daten sind entsprechend den
 Bestimmungen über die Aufbewahrung von Akten zu vernichten, wenn sie
-insgesamt zur Erfüllung der Aufgaben des Zollfahndungsdienstes oder
-einer anderen Zollbehörde nicht mehr erforderlich sind. Die
-Vernichtung unterbleibt, wenn
+insgesamt zur Erfüllung der Aufgaben der Zollverwaltung nicht mehr
+erforderlich sind. Die Vernichtung unterbleibt, wenn
 
 1.  Grund zu der Annahme besteht, dass anderenfalls schutzwürdige
     Interessen der betroffenen Person beeinträchtigt würden, oder
@@ -2417,10 +2501,8 @@ einem Sperrvermerk zu versehen.
 
 (4) Anstelle der Vernichtung nach Absatz 3 Satz 1 sind die Unterlagen
 an das zuständige Archiv abzugeben, sofern diesen Unterlagen
-bleibender Wert im Sinne von § 3 des Bundesarchivgesetzes in der
-Fassung der Bekanntmachung vom 6. Januar 1988 (BGBl. I S. 62), zuletzt
-geändert durch das Gesetz vom 13. März 1992 (BGBl. I S. 506), in der
-jeweils geltenden Fassung zukommt.
+bleibender Wert im Sinne von § 1 Nummer 10 des Bundesarchivgesetzes in
+der jeweils geltenden Fassung zukommt.
 
 (5) § 39 Abs. 2 Satz 3 und § 39 Abs. 7 bis 9 gelten entsprechend.
 
@@ -2475,6 +2557,17 @@ Absatz 1 ist unverzüglich nachzuholen.
 
 (4) In angemessenen Abständen ist die Notwendigkeit der Weiterführung
 oder Änderung der Verarbeitungen zu überprüfen.
+
+
+### § 41a Entschädigung für Leistungen
+
+Die Behörden des Zollfahndungsdienstes haben denjenigen, die
+geschäftsmäßig Post- oder Telekommunikationsdienste erbringen oder an
+der Erbringung solcher Dienste mitwirken, für ihre Leistungen bei der
+Durchführung von Maßnahmen nach § 7 Absatz 5 bis 9, § 15 Absatz 2 bis
+6, den §§ 23a, 23g und 27 Absatz 3 eine Entschädigung zu gewähren,
+deren Umfang sich nach § 23 des Justizvergütungs- und
+-entschädigungsgesetzes bemisst.
 
 
 ### § 42 Schadensausgleich

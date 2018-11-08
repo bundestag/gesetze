@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2428
 
 Zuletzt geändert durch
-:   Art. 9 V v. 13.12.2011 I 2720
+:   Art. 1 V v. 27.1.2016 I 157
 
 
 ## Eingangsformel
@@ -30,19 +30,24 @@ Bundesministerien für Gesundheit und für Wirtschaft:
 ## § 1 Antragsverfahren
 
 (1) Ein Antrag auf Eintragung eines Agrarerzeugnisses oder eines
-Lebensmittels in das von der Europäische Kommission geführte Register
-über Lebensmittelspezialitäten ist schriftlich bei der Bundesanstalt
-für Landwirtschaft und Ernährung (Bundesamt) einzureichen.
+Lebensmittels in das von der Europäischen Kommission geführte Register
+der garantiert traditionellen Spezialitäten ist bei der Bundesanstalt
+für Landwirtschaft und Ernährung (Bundesanstalt) unter Verwendung des
+in Anhang II der Durchführungsverordnung (EU) Nr. 668/2014 der
+Kommission vom 13. Juni 2014 mit Durchführungsbestimmungen zur
+Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
+Rates über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel
+(ABl. L 179 vom 19.6.2014, S. 36) in der jeweils geltenden Fassung
+vorgegebenen Musters einzureichen.
 
 (2) Die wichtigsten Punkte eines Antrages, insbesondere der Name und
 die Anschrift des Antragstellers, die Verkehrsbezeichnung des
-betroffenen Erzeugnisses, die Beschreibung seiner besonderen Merkmale,
-sowie der Punkt, ob die Verkehrsbezeichnung dem einzutragenden
-Erzeugnis vorbehalten sein soll, sind von der Bundesanstalt im
-Bundesanzeiger zu veröffentlichen. Die Antragsunterlagen können von
-jedem, dessen berechtigte Interessen durch einen Antrag berührt werden
-können, bei der Bundesanstalt während deren normalen Dienstzeiten
-eingesehen werden.
+betroffenen Erzeugnisses sowie die Beschreibung seiner besonderen
+Merkmale, sind von der Bundesanstalt im Bundesanzeiger zu
+veröffentlichen. Die Antragsunterlagen können von jedem, dessen
+berechtigte Interessen durch einen Antrag berührt werden können, bei
+der Bundesanstalt während deren normalen Dienstzeiten eingesehen
+werden.
 
 (3) Jeder, dessen berechtigte Interessen durch einen Antrag berührt
 werden können, kann innerhalb eines Monats nach Ablauf des Tages der
@@ -72,22 +77,23 @@ Verwaltungsverfahrensgesetzes ist anzuwenden.
 
 (3) Die Weiterleitung eines Antrages, der die erforderlichen
 Voraussetzungen erfüllt, an die Europäische Kommission erfolgt über
-das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz.
+das Bundesministerium für Ernährung und Landwirtschaft.
 
 
 ## § 3 Einspruchsverfahren
 
-(1) Ein Einspruch nach Artikel 8 Abs. 3 der Verordnung (EWG) Nr.
-2082/92 des Rates vom 14. Juli 1992 über Bescheinigungen besonderer
-Merkmale von Agrarerzeugnissen und Lebensmitteln (ABl. EG Nr. L 208 S.
-9) in der jeweils geltenden Fassung ist schriftlich bei der
-Bundesanstalt einzureichen.
+(1) Ein Einspruch nach Artikel 51 Absatz 1 Unterabsatz 2 der
+Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
+Rates vom 21. November 2012 über Qualitätsregelungen für
+Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
+der jeweils geltenden Fassung ist unter Verwendung des in Anhang III
+der Durchführungsverordnung (EU) Nr. 668/2014 vorgegebenen Musters bei
+der Bundesanstalt einzureichen.
 
 (2) Fordert die Europäische Kommission wegen eines Einspruches nach
 Absatz 1 zur Einigung mit einem anderen Mitgliedstaat der Europäischen
-Union nach Artikel 9 Abs. 2 der Verordnung (EWG) Nr. 2082/92 auf, so
-ist der betreffende Einspruchsführer durch die Bundesanstalt
+Union nach Artikel 51 Absatz 3 der Verordnung (EU) Nr. 1151/2012 auf,
+so ist der betreffende Einspruchsführer durch die Bundesanstalt
 angemessen zu beteiligen.
 
 (3) Absatz 2 gilt im Falle eines nach § 1 Abs. 1 gestellten und an die
@@ -96,19 +102,19 @@ entsprechend, wenn gegen seinen Antrag ein Einspruch eingelegt worden
 ist.
 
 
-## § 4 Änderungsverfahren
+## § 4 Änderungs- und Löschungsverfahren
 
-Ein Antrag auf Änderung einer Eintragung in dem von der Europäischen
-Kommission geführten Register über Lebensmittelspezialitäten ist
-schriftlich bei der Bundesanstalt einzureichen; § 1 Abs. 2 bis 4 und
-die §§ 2 und 3 sind entsprechend anzuwenden.
+Ein Antrag auf Änderung oder Löschung einer Eintragung in dem von der
+Europäischen Kommission geführten Register der garantiert
+traditionellen Spezialitäten ist unter Verwendung der jeweiligen in
+den Anhängen VI, VII, VIII oder IX der Durchführungsverordnung (EU)
+Nr. 668/2014 vorgeschriebenen Muster bei der Bundesanstalt
+einzureichen. § 1 Absatz 2 bis 4 und die §§ 2 und 3 sind entsprechend
+anzuwenden.
 
 
-## § 5 Muster
+## § 5 (weggefallen)
 
-Die Bundesanstalt kann für Anträge nach § 1 Abs. 1 und § 4 und für
-Einsprüche nach § 3 Abs. 1 Muster im Bundesanzeiger bekanntgeben.
-Bekanntgegebene Muster sind zu verwenden.
 
 
 ## § 6 Inkrafttreten

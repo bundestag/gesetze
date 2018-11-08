@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1953, 157
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 1 G v. 29.7.2009 I 2258
+:   Art. 4 Abs. 1 G v. 7.5.2021 I 850
+
+Änderung durch
+:   Art. 5 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Vollstreckung wegen Geldforderungen
@@ -36,8 +39,8 @@ werden oder für die ein anderer Rechtsweg als der Verwaltungsrechtsweg
 begründet ist.
 
 (3) Die Vorschriften der Abgabenordnung des Sozialversicherungsrechts
-einschließlich der Arbeitslosenversicherung und der
-Justizbeitreibungsordnung bleiben unberührt.
+einschließlich der Arbeitslosenversicherung und des
+Justizbeitreibungsgesetzes bleiben unberührt.
 
 
 ### § 2 Vollstreckungsschuldner
@@ -91,8 +94,8 @@ Anspruch geltend machen darf.
 Vollstreckungsbehörden sind:
 
 a)  die von einer obersten Bundesbehörde im Einvernehmen mit dem
-    Bundesminister des Innern bestimmten Behörden des betreffenden
-    Verwaltungszweiges;
+    Bundesminister des Innern, für Bau und Heimat bestimmten Behörden des
+    betreffenden Verwaltungszweiges;
 
 
 b)  die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine
@@ -114,6 +117,135 @@ Länder vorgenommen, so ist sie nach landesrechtlichen Bestimmungen
 durchzuführen.
 
 
+### § 5a Ermittlung des Aufenthaltsorts des Vollstreckungsschuldners
+
+(1) Ist der Wohnsitz oder der gewöhnliche Aufenthaltsort des
+Vollstreckungsschuldners nicht durch Anfrage bei der Meldebehörde zu
+ermitteln, so darf die Vollstreckungsbehörde folgende Angaben erheben:
+
+1.  beim Ausländerzentralregister die Angaben zur aktenführenden
+    Ausländerbehörde und die Angaben zum Zuzug oder Fortzug des
+    Vollstreckungsschuldners und bei der Ausländerbehörde, die nach der
+    Auskunft aus dem Ausländerzentralregister aktenführend ist, den
+    Aufenthaltsort des Vollstreckungsschuldners,
+
+
+2.  bei den Trägern der gesetzlichen Rentenversicherung und bei einer
+    berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1
+    Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch die dort bekannte
+    derzeitige Anschrift und den derzeitigen oder zukünftigen
+    Aufenthaltsort des Vollstreckungsschuldners sowie
+
+
+3.  beim Kraftfahrt-Bundesamt die Halterdaten nach § 35 Absatz 4c Nummer 2
+    des Straßenverkehrsgesetzes.
+
+
+
+
+(2) Die Vollstreckungsbehörde darf die gegenwärtigen Anschriften, den
+Ort der Hauptniederlassung oder den Sitz des Vollstreckungsschuldners
+erheben
+
+1.  durch Einsicht in das Handels-, Genossenschafts-, Partnerschafts-,
+    Unternehmens- oder Vereinsregister oder
+
+
+2.  durch Einholung der Anschrift bei den nach Landesrecht für die
+    Durchführung der Aufgaben nach § 14 Absatz 1 der Gewerbeordnung
+    zuständigen Behörden.
+
+
+
+
+(3) Nach Absatz 1 Nummer 2 und Absatz 2 erhobene Daten, die innerhalb
+der letzten drei Monate bei der Vollstreckungsbehörde eingegangen
+sind, dürfen von der Vollstreckungsbehörde auch einer weiteren
+Vollstreckungsbehörde übermittelt werden, wenn die Voraussetzungen für
+die Datenerhebung auch bei der weiteren Vollstreckungsbehörde
+vorliegen.
+
+(4) Ist der Vollstreckungsschuldner Unionsbürger, so darf die
+Vollstreckungsbehörde die Daten nach Absatz 1 Nummer 1 nur erheben,
+wenn ihr tatsächliche Anhaltspunkte für die Vermutung vorliegen, dass
+bei der betroffenen Person das Nichtbestehen oder der Verlust des
+Freizügigkeitsrechts festgestellt worden ist. Eine Übermittlung der
+Daten nach Absatz 1 Nummer 1 an die Vollstreckungsbehörde ist
+ausgeschlossen, wenn der Vollstreckungsschuldner ein Unionsbürger ist,
+für den eine Feststellung des Nichtbestehens oder des Verlusts des
+Freizügigkeitsrechts nicht vorliegt. Die Erhebung nach Absatz 1 Nummer
+2 bei einer berufsständischen Versorgungseinrichtung darf die
+Vollstreckungsbehörde nur durchführen, wenn tatsächliche Anhaltspunkte
+nahelegen, dass der Vollstreckungsschuldner Mitglied dieser
+berufsständischen Versorgungseinrichtung ist.
+
+
+### § 5b Auskunftsrechte der Vollstreckungsbehörde
+
+(1) Die Vollstreckungsbehörde darf vorbehaltlich der Sätze 2 und 3
+folgende Maßnahmen durchführen:
+
+1.  Erhebung des Namens und der Vornamen oder der Firma sowie der
+    Anschrift der derzeitigen Arbeitgeber des Vollstreckungsschuldners bei
+    den Trägern der gesetzlichen Rentenversicherung und bei einer
+    berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1
+    Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch;
+
+
+2.  Erhebung der Fahrzeug- und Halterdaten nach § 33 Absatz 1 des
+    Straßenverkehrsgesetzes beim Kraftfahrt-Bundesamt zu einem Fahrzeug,
+    als dessen Halter der Vollstreckungsschuldner eingetragen ist.
+
+
+
+Maßnahmen nach Satz 1 sind nur zulässig, wenn
+
+1.  die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den
+    Vollstreckungsschuldner nicht zustellbar ist und
+
+    a)  die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit
+        der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2
+        der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten
+        vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+
+    b)  die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt,
+        dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners
+        bekannt ist, oder
+
+
+    c)  die Meldebehörde innerhalb von drei Monaten vor Erlass der
+        Vollstreckungsanordnung die Auskunft erteilt hat, dass ihr keine
+        derzeitige Anschrift des Vollstreckungsschuldners bekannt ist;
+
+
+
+
+
+2.  der Vollstreckungsschuldner seiner Pflicht zur Abgabe der
+    Vermögensauskunft in dem der Maßnahme nach Satz 1 zugrundeliegenden
+    Vollstreckungsverfahren nicht nachkommt oder
+
+
+3.  bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten
+    Vermögensgegenstände eine vollständige Befriedigung der Forderung
+    nicht zu erwarten ist.
+
+
+
+Die Erhebung nach Satz 1 Nummer 1 bei einer berufsständischen
+Versorgungseinrichtung ist zusätzlich zu den Voraussetzungen des
+Satzes 2 nur zulässig, wenn tatsächliche Anhaltspunkte nahelegen, dass
+der Vollstreckungsschuldner Mitglied dieser berufsständischen
+Versorgungseinrichtung ist.
+
+(2) Nach Absatz 1 erhobene Daten, die innerhalb der letzten drei
+Monate bei der Vollstreckungsbehörde eingegangen sind, dürfen von der
+Vollstreckungsbehörde auch einer weiteren Vollstreckungsbehörde
+übermittelt werden, wenn die Voraussetzungen für die Datenerhebung
+auch bei der weiteren Vollstreckungsbehörde vorliegen.
+
+
 ## Zweiter Abschnitt - Erzwingung von Handlungen, Duldungen oder Unterlassungen
 
 
@@ -129,7 +261,7 @@ beigelegt ist.
 
 (2) Der Verwaltungszwang kann ohne vorausgehenden Verwaltungsakt
 angewendet werden, wenn der sofortige Vollzug zur Verhinderung einer
-rechtswidrigen Tat die einen Straf- oder Bußgeldtatbestand
+rechtswidrigen Tat, die einen Straf- oder Bußgeldtatbestand
 verwirklicht, oder zur Abwendung einer drohenden Gefahr notwendig ist
 und die Behörde hierbei innerhalb ihrer gesetzlichen Befugnisse
 handelt.
@@ -195,8 +327,7 @@ einen anderen entstehen.
 Verpflichtung zuwiderhandelt, eine Handlung zu dulden oder zu
 unterlassen.
 
-(3) Die Höhe des Zwangsgeldes beträgt mindestens drei Deutsche Mark
-und höchstens zweitausend Deutsche Mark.
+(3) Die Höhe des Zwangsgeldes beträgt bis zu 25 000 Euro.
 
 
 ### § 12 Unmittelbarer Zwang
@@ -275,8 +406,8 @@ eingeschränkt.
 Wochen.
 
 (3) Die Ersatzzwangshaft ist auf Antrag der Vollzugsbehörde von der
-Justizverwaltung nach den Bestimmungen der §§ 901, 904 bis 911 der
-Zivilprozeßordnung zu vollstrecken.
+Justizverwaltung nach den Bestimmungen der §§ 802g, 802h und 802j Abs.
+2 der Zivilprozeßordnung zu vollstrecken.
 
 
 ### § 17 Vollzug gegen Behörden
@@ -316,10 +447,51 @@ Sachverständige und Treuhänder gelten §§ 107 und 318 Abs. 5 der
 Abgabenordnung.
 
 (2) Für die Mahnung nach § 3 Abs. 3 wird eine Mahngebühr erhoben. Sie
-beträgt eins vom Hundert des Mahnbetrages bis 100 Deutsche Mark
-einschließlich, ein halbes vom Hundert von dem Mehrbetrag, mindestens
-jedoch 1,50 Deutsche Mark und höchstens 100 Deutsche Mark. Die
-Mahngebühr wird auf volle 10 Deutsche Pfennige aufgerundet.
+beträgt ein halbes Prozent des Mahnbetrages, mindestens jedoch 5 Euro
+und höchstens 150 Euro. Die Mahngebühr wird auf volle Euro
+aufgerundet.
+
+(3) Soweit die Bundespolizei nach diesem Gesetz tätig wird, werden
+Gebühren und Auslagen nach dem Bundesgebührengesetz erhoben.
+
+
+### § 19a Vollstreckungspauschale, Verordnungsermächtigung
+
+(1) Bundesunmittelbare Körperschaften und Anstalten des öffentlichen
+Rechts, die den Vollstreckungsbehörden der Bundesfinanzverwaltung nach
+§ 4 Buchstabe b Vollstreckungsanordnungen übermitteln, sind
+verpflichtet, für jede ab dem 1. Juli 2014 übermittelte
+Vollstreckungsanordnung einen Pauschalbetrag für bei den
+Vollstreckungsschuldnern uneinbringliche Gebühren und Auslagen
+(Vollstreckungspauschale) zu zahlen. Dies gilt nicht für
+Vollstreckungsanordnungen wegen Geldforderungen nach dem
+Bundeskindergeldgesetz.
+
+(2) Die Vollstreckungspauschale bemisst sich nach dem Gesamtbetrag der
+im Berechnungszeitraum auf Grund von Vollstreckungsanordnungen der
+juristischen Personen nach Absatz 1 festgesetzten Gebühren und
+Auslagen, die bei den Vollstreckungsschuldnern nicht beigetrieben
+werden konnten, geteilt durch die Anzahl aller in diesem Zeitraum von
+diesen Anordnungsbehörden übermittelten Vollstreckungsanordnungen.
+
+(3) Das Bundesministerium der Finanzen wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem
+Bundesministerium für Gesundheit durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, die Höhe der
+Vollstreckungspauschale zu bestimmen sowie den Berechnungszeitraum,
+die Entstehung und die Fälligkeit der Vollstreckungspauschale, den
+Abrechnungszeitraum, das Abrechnungsverfahren und die abrechnende
+Stelle zu regeln.
+
+(4) Die Höhe der Vollstreckungspauschale ist durch das
+Bundesministerium der Finanzen nach Maßgabe des Absatzes 2 alle drei
+Jahre zu überprüfen und durch Rechtsverordnung nach Absatz 3
+anzupassen, wenn die nach Maßgabe des Absatzes 2 berechnete
+Vollstreckungspauschale um mehr als 20 Prozent von der
+Vollstreckungspauschale in der geltenden Fassung abweicht.
+
+(5) Die juristischen Personen nach Absatz 1 sind nicht berechtigt, den
+Vollstreckungsschuldner mit der Vollstreckungspauschale zu belasten.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
@@ -334,11 +506,8 @@ juristische Personen des öffentlichen Rechts die Bestimmungen dieses
 Gesetzes anzuwenden; § 1 Abs. 3 bleibt unberührt.
 
 
-### § 21 Berlin
+### § 21 (weggefallen)
 
-Dieses Gesetz gilt nach Maßgabe der §§ 13 und 14 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Lande Berlin.
 
 
 ### § 22 Inkrafttreten

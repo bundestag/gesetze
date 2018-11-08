@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 1301
 
 Zuletzt geändert durch
-:   Art. 3 V v. 17.12.2010 I 2132
+:   Art. 20 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -52,9 +52,9 @@ bis d und zweiter Unterabsatz des Anhangs XIII der Verordnung (EG) Nr.
 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame
 Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte
 landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1) in
-der jeweils geltenden Fassung, die in Fertigpackungen im Sinne des § 6
-Abs. 1 des Eichgesetzes oder im Einzelhandel nicht fertig verpackt
-gewerbsmäßig in den Verkehr gebracht wird.
+der jeweils geltenden Fassung, die in Fertigpackungen im Sinne des §
+42 Absatz 1 des Mess- und Eichgesetzes oder im Einzelhandel nicht
+fertig verpackt gewerbsmäßig in den Verkehr gebracht wird.
 
 (2) Dem gewerbsmäßigen Inverkehrbringen steht es gleich, wenn
 Konsummilch an Mitglieder von Genossenschaften oder ähnlichen
@@ -121,9 +121,9 @@ Die Angabe nach Absatz 2 Nr. 4 ist in engem räumlichen Zusammenhang
 mit der Angabe nach Absatz 2 Nr. 1 anzubringen. Bei Konsummilch, die
 in zur Wiederverwendung bestimmten Flaschen abgegeben wird, brauchen
 abweichend von Satz 1 die Angaben nach Absatz 2 Nr. 1 und 3 nicht in
-einem Sichtfeld mit der Mengenkennzeichnung nach § 16 Abs. 1 des
-Eichgesetzes angebracht zu werden; bei der Kennzeichnung können die
-Abkürzungen
+einem Sichtfeld mit der Mengenkennzeichnung nach § 43 Absatz 1 des
+Mess- und Eichgesetzes angebracht zu werden; bei der Kennzeichnung
+können die Abkürzungen
 
 *    *   "mind."
 
@@ -188,6 +188,42 @@ Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 2 Abs. 1 in Verbindung mit Abs. 2 Nr. 5, Abs. 3 Satz 1 oder Abs. 4 Nr.
 2 Konsummilch, die nicht oder nicht in der vorgeschriebenen Weise
 gekennzeichnet ist, gewerbsmäßig in den Verkehr bringt.
+
+
+## § 4a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
+
+(1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
+entgegenstehen aus
+
+1.  der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+    Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+    über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+    und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+    zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+    331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+    30\.9.2016, S. 7) in der jeweils geltenden Fassung oder
+
+
+2.  den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der
+    Europäischen Union.
+
+
+
+
+(2) Wird Konsummilch in einer in § 4 der Lebensmittelinformations-
+Durchführungsverordnung geregelten Form der Abgabe in den Verkehr
+gebracht, so ist diese Verordnung nur vorbehaltlich des § 4 der
+Lebensmittelinformations-Durchführungsverordnung anzuwenden.
+
+(3) Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ## § 5 Inkrafttreten, Übergangsvorschriften

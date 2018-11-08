@@ -2,7 +2,7 @@
 Title: Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz
 jurabk: WpÜGGebV
 layout: default
-origslug: wp_ggebv
+origslug: wpueggebv
 slug: wpueggebv
 
 ---
@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4267
 
-Geändert durch
-:   Art. 1 V v. 27.7.2005 I 2417
+V aufgeh. durch
+:   Art. 4 Abs. 51 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 65 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 54 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 54 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -95,95 +101,98 @@ Als Auslagen werden die Kosten der Veröffentlichung nach § 44 des
 Wertpapiererwerbs- und Übernahmegesetzes, sowie die Kosten, die im
 Rahmen des Widerspruchsverfahrens den Mitgliedern des
 Widerspruchsausschusses für die Teilnahme an den Sitzungen entstehen,
-erhoben. Im Übrigen gilt § 10 des Verwaltungskostengesetzes.
+erhoben. Im Übrigen gilt § 23 Absatz 6 des Bundesgebührengesetzes.
 
 
 ## § 4 Höhe der Gebühren
 
-(1) Die Gebühr beträgt für Amtshandlungen
+(1) Die Gebühr beträgt für individuell zurechenbare öffentliche
+Leistungen
 
 *    *   1.
 
     *   nach § 2 Abs. 1 Nr. 1:
 
-    *   1.000 Euro,
+    *   1 000 Euro,
 
 
 *    *   2.
 
     *   nach § 2 Abs. 1 Nr. 4:
 
-    *   2.000 Euro bis  5.000 Euro,
+    *   2 000 Euro bis 5 000 Euro,
 
 
 *    *   3.
 
     *   nach § 2 Abs. 1 Nr. 5, 6 oder 7:
 
-    *   3.000 Euro bis 10.000 Euro,
+    *   3 000 Euro bis 10 000 Euro,
 
 
 *    *   4.
 
     *   nach § 2 Abs. 1 Nr. 8:
 
-    *   5.000 Euro bis 20.000 Euro,
+    *   5 000 Euro bis 20 000 Euro,
 
 
 *    *   5.
 
     *   nach § 2 Abs. 1 Nr. 2 oder 3:
 
-    *   10.000 Euro bis 100.000 Euro.
+    *   10 000 Euro bis 100 000 Euro.
 
 
 
 
 (2) Die Gebühr beträgt für Entscheidungen über Widersprüche gegen
-Amtshandlungen
+individuell zurechenbare öffentliche Leistungen
 
 *    *   1.
 
     *   nach § 2 Abs. 1 Nr. 1:
 
-    *   2.000 Euro,
+    *   2 000 Euro,
 
 
 *    *   2.
 
     *   nach § 2 Abs. 1 Nr. 4:
 
-    *   4.000 Euro bis 10.000 Euro,
+    *   4 000 Euro bis 10 000 Euro,
 
 
 *    *   3.
 
     *   nach § 2 Abs. 1 Nr. 5, 6 oder 7:
 
-    *   6.000 Euro bis 20.000 Euro,
+    *   6 000 Euro bis 20 000 Euro,
 
 
 *    *   4.
 
     *   nach § 2 Abs. 1 Nr. 8:
 
-    *   10.000 Euro bis 40.000 Euro,
+    *   10 000 Euro bis 40 000 Euro,
 
 
 *    *   5.
 
     *   nach § 2 Abs. 1 Nr. 3:
 
-    *   20.000 Euro bis 200.000 Euro.
+    *   20 000 Euro bis 200 000 Euro.
 
 
 
 Die Gebühr beträgt für Entscheidungen über Widersprüche gegen
-Amtshandlungen nach § 4 Abs. 1 Satz 3 oder § 10 Abs. 1 Satz 3 des
-Wertpapiererwerbs- und Übernahmegesetzes: 3.000 Euro bis 10.000 Euro.
+individuell zurechenbare öffentliche Leistungen nach § 4 Abs. 1 Satz 3
+oder § 10 Abs. 1 Satz 3 des Wertpapiererwerbs- und Übernahmegesetzes:
+3 000 Euro bis 10 000 Euro.
 
 (3) Im Fall einer Antragsrücknahme nach § 2 Abs. 2 ist die Hälfte der
-für die beantragte Amtshandlung vorgesehenen Gebühr zu entrichten.
+für die beantragte individuell zurechenbare öffentliche Leistung
+vorgesehenen Gebühr zu entrichten.
 
 
 ## § 5

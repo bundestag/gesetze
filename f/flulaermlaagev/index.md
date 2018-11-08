@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Laage
 jurabk: FluLärmLaageV
 layout: default
-origslug: flul_rmlaagev
+origslug: flulaermlaagev
 slug: flulaermlaagev
 
 ---

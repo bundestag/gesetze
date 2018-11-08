@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 732
 
 Zuletzt geändert durch
-:   Art. 8 V v. 22.2.2006 I 444
+:   Art. 2 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -53,11 +53,13 @@ verdünnte Essigsäure, die in 100 Gramm mehr als 15,2 Gramm (15,5 Gramm
 je 100 Milliliter), jedoch höchstens 25 Gramm wasserfreie Essigsäure
 enthält.
 
-(3) Für Weinessig gilt die Begriffsbestimmung in Anhang I Nr. 19 der
-Verordnung (EG) Nr. 1493/1999 des Rates vom 17. Mai 1999 über die
-gemeinsame Marktorganisation für Wein (ABl. EG Nr. L 179 S. 1),
-zuletzt geändert durch die Verordnung (EG) Nr. 2165/2005 des Rates vom
-20\. Dezember 2005 (ABl. EU Nr. L 345 S. 1). Im übrigen gelten die
+(3) Für Weinessig gilt die Begriffsbestimmung in Anhang VII Teil II
+Nr. 17 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments
+und des Rates vom 17. Dezember 2013 über eine gemeinsame
+Marktorganisation für landwirtschaftliche Erzeugnisse und zur
+Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
+Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
+671) in der jeweils geltenden Fassung. Im übrigen gelten die
 Vorschriften dieser Verordnung.
 
 
@@ -68,22 +70,14 @@ Vorschriften dieser Verordnung.
 
 ## § 2
 
-(1) Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet
-als wasserfreie Essigsäure, enthält, und Essigessenz dürfen
-gewerbsmäßig nur in verschlossenen Behältnissen in den Verkehr
-gebracht werden, die den zu erwartenden Beanspruchungen sicher
-widerstehen und aus Werkstoffen hergestellt sind, die von Essigessenz
-nicht angegriffen werden und mit ihr nicht in gefährlicher Weise
-reagieren. Die Behältnisse müssen in deutscher Sprache und in deutlich
-sichtbarer, leicht lesbarer Schrift mit dem Hinweis "Vorsicht! Nicht
-unverdünnt genießen!" versehen sein.
-
-(2) Inverkehrbringen im Sinne dieser Verordnung ist das Anbieten, das
-Vorrätighalten zum Verkauf, das Feilhalten, das Verkaufen und jedes
-sonstige Überlassen an andere. Dem gewerbsmäßigen Inverkehrbringen
-steht es gleich, wenn die Erzeugnisse für Mitglieder von
-Genossenschaften oder ähnlichen Einrichtungen oder in Einrichtungen
-zur Gemeinschaftsverpflegung abgegeben werden.
+Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als
+wasserfreie Essigsäure, enthält, und Essigessenz dürfen nur in
+verschlossenen Behältnissen in den Verkehr gebracht werden, die den zu
+erwartenden Beanspruchungen sicher widerstehen und aus Werkstoffen
+hergestellt sind, die von Essigessenz nicht angegriffen werden und mit
+ihr nicht in gefährlicher Weise reagieren. Die Behältnisse müssen in
+deutscher Sprache und in deutlich sichtbarer, leicht lesbarer Schrift
+mit dem Hinweis "Vorsicht! Nicht unverdünnt genießen!" versehen sein.
 
 
 ## § 3
@@ -93,8 +87,8 @@ zur Gemeinschaftsverpflegung abgegeben werden.
 
 ## § 4
 
-(1) Essig darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn
-er wie folgt gekennzeichnet ist:
+(1) Essig darf nur in den Verkehr gebracht werden, wenn er wie folgt
+gekennzeichnet ist:
 
 1.  Gärungsessig als "Essig" in Verbindung mit der Angabe der Ausgangs-
     und Rohstoffe;
@@ -115,8 +109,8 @@ er wie folgt gekennzeichnet ist:
 
 
 
-(2) Essigessenz darf gewerbsmäßig nur in den Verkehr gebracht werden,
-wenn sie als solche gekennzeichnet ist.
+(2) Essigessenz darf nur in den Verkehr gebracht werden, wenn sie als
+solche gekennzeichnet ist.
 
 (3) Der Gehalt an Essigsäure und anderen Säuren, die den verwendeten
 Ausgangs- oder Rohstoffen oder erlaubten Zusätzen entstammen
@@ -124,39 +118,38 @@ Ausgangs- oder Rohstoffen oder erlaubten Zusätzen entstammen
 Essig in Gramm je 100 Milliliter, bei Essigessenz in Gramm je 100
 Gramm mit den Worten "...% Säure" anzugeben.
 
-(4) Die Angaben nach den Absätzen 1 bis 3 sind in deutscher Sprache
-und in deutlich sichtbarer, leicht lesbarer Schrift auf oder an den
-Behältnissen vorzunehmen.
+(4) Für die Art und Weise der Angaben nach den Absätzen 1 bis 3 gelten
+Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der Verordnung
+(EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25.
+Oktober 2011 betreffend die Information der Verbraucher über
+Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und
+(EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur
+Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+30\.9.2016, S. 7) in der jeweils geltenden Fassung und § 2 der
+Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
-## § 4a
-
-Abweichend von § 3 Abs. 1 der Lebensmittel-Kennzeichnungsverordnung
-brauchen nicht angegeben zu werden:
-
-1.  bei Gärungsessig, der nur aus einem Ausgangs- oder Rohstoff
-    hergestellt ist und dem keine weitere Zutat zugesetzt ist, das
-    Verzeichnis der Zutaten,
-
-
-2.  bei Essigen (§ 4 Abs. 1 Nr. 1 bis 4) das Mindesthaltbarkeitsdatum.
-
-
+## § 4a (weggefallen)
 
 
 
 ## § 5
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Essig oder
+Futtermittegesetzbuches wird bestraft, wer entgegen § 2 Essig oder
 Essigsäure in nicht vorschriftsmäßigen Behältnissen oder in
 Behältnissen ohne den vorgeschriebenen Warnhinweis in den Verkehr
 bringt.
 
 (2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Essig oder
-Essigessenz, die nicht oder nicht in der vorgeschriebenen Weise
-gekennzeichnet sind, gewerbsmäßig in den Verkehr bringt.
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 oder
+2 Essig oder Essigessenz, die nicht oder nicht in der vorgeschriebenen
+Weise gekennzeichnet sind, in den Verkehr bringt.
 
 (3) Wer eine in den Absätzen 1 und 2 bezeichnete Handlung fahrlässig
 begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und

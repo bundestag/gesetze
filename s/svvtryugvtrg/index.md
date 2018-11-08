@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1958, 168
 
 Geändert durch
-:   Art. 21 G v. 21.6.2002 I 2167
+:   Art. 16 Abs. 3 G v. 19.10.2013 I 3836
 
 
 ## Art 1
@@ -109,7 +109,7 @@ Land Berlin (Artikel 9) getragen.
 Der Bund trägt die Aufwendungen für die Leistungen, die in
 entsprechender Anwendung des Fremdrenten- und Auslandsrenten-
 Neuregelungsgesetzes vom 25. Februar 1960 (Bundesgesetzbl. I S. 93)
-von der Unfallkasse des Bundes gewährt werden.
+von der Unfallversicherung Bund und Bahn gewährt werden.
 
 
 ## Art 9

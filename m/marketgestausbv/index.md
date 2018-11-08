@@ -350,8 +350,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 925 - 928)
 
@@ -986,8 +987,9 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 929 - 930)
 

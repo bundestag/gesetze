@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3794, 3814
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.12.2010 I 1768
+:   Art. 24 G v. 21.12.2020 I 3096
 
 
 ## § 1
@@ -40,16 +40,17 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-5.  das Finanzamt Bremen-Mitte für in der Republik Finnland ansässige
+5.  das Finanzamt Bremen für in der Republik Finnland ansässige
     Unternehmer,
 
 
-6.  das Finanzamt Offenburg für in der Französischen Republik ansässige
-    Unternehmer,
+6.  das Finanzamt Offenburg für in der Französischen Republik und im
+    Fürstentum Monaco ansässige Unternehmer,
 
 
 7.  das Finanzamt Hannover-Nord für im Vereinigten Königreich
-    Großbritannien und Nordirland ansässige Unternehmer,
+    Großbritannien und Nordirland sowie auf der Insel Man ansässige
+    Unternehmer,
 
 
 8.  das Finanzamt Berlin Neukölln für in der Griechischen Republik
@@ -68,7 +69,7 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-12. das Finanzamt Bremen-Mitte für in der Republik Lettland ansässige
+12. das Finanzamt Bremen für in der Republik Lettland ansässige
     Unternehmer,
 
 
@@ -92,20 +93,39 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-18. das Finanzamt Bremen-Mitte für im Königreich Norwegen ansässige
-    Unternehmer,
+18. das Finanzamt Bremen für im Königreich Norwegen ansässige Unternehmer,
 
 
 19. das Finanzamt München für in der Republik Österreich ansässige
     Unternehmer,
 
 
-20. das Finanzamt Oranienburg für in der Republik Polen ansässige
-    Unternehmer mit den Anfangsbuchstaben des Nachnamens oder bei
-    Personen- und Kapitalgesellschaften des Firmennamens A bis M; das
-    Finanzamt Cottbus für in der Republik Polen ansässige Unternehmer mit
-    den Anfangsbuchstaben des Nachnamens oder des Firmennamens N bis*
-    ,
+20. für in der Republik Polen ansässige Unternehmer
+
+    a)  das Finanzamt Hameln, wenn der Nachname oder der Firmenname des
+        Unternehmers mit den Buchstaben A bis G beginnt;
+
+
+    b)  das Finanzamt Oranienburg, wenn der Nachname oder der Firmenname des
+        Unternehmers mit den Anfangsbuchstaben H bis*
+        beginnt;
+
+
+    c)  das Finanzamt Cottbus, wenn der Nachname oder der Firmenname des
+        Unternehmers mit den Anfangsbuchstaben M bis R beginnt;
+
+
+    d)  das Finanzamt Nördlingen, wenn der Nachname oder der Firmenname des
+        Unternehmers mit den Anfangsbuchstaben S bis*
+        beginnt;
+
+
+    e)  ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt
+        Cottbus für alle Unternehmer, auf die das Verfahren nach § 18 Absatz
+        4e, § 18j oder § 18k des Umsatzsteuergesetzes anzuwenden ist,
+
+
+
 
 
 21. das Finanzamt Kassel-Hofgeismar für in der Portugiesischen Republik
@@ -163,6 +183,9 @@ Zuletzt geändert durch
 
 
 
+Die örtliche Zuständigkeit nach Satz 1 gilt für die Außengebiete,
+Überseegebiete und Selbstverwaltungsgebiete der in Satz 1 genannten
+Staaten entsprechend.
 
 (2) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz
 2 der Abgabenordnung, die nicht von Absatz 1 erfasst werden, ist das
@@ -172,9 +195,10 @@ Finanzamt Berlin Neukölln zuständig.
 von § 18 Abs. 4c des Umsatzsteuergesetzes Gebrauch machen, das
 Bundeszentralamt für Steuern zuständig.
 
-(3) Die örtliche Zuständigkeit nach § 61 Abs. 1 Satz 1 der
-Umsatzsteuer-Durchführungsverordnung für die Vergütung der abziehbaren
-Vorsteuerbeträge an im Ausland ansässige Unternehmer bleibt unberührt.
+(3) Die örtliche Zuständigkeit nach § 61 Absatz 1 Satz 1 und § 61a
+Absatz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung
+der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer
+bleibt unberührt.
 
 
 ## § 2

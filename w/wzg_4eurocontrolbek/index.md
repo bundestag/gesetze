@@ -94,21 +94,18 @@ Fundstelle: BGBl. I 1971, 671)
 ## Anlage 2 Kennzeichen des Internationalen Ausstellungsbüros
 
 (Fundstelle: BGBl. I 1971, 672)
-(Inhalt: nicht darstellbares Kennzeichen)
-
+![bgbl1_1971_j0672_0010.jpg](bgbl1_1971_j0672_0010.jpg)
 
 ## Anlage 3 Kennzeichen der Organisation der Erdöl ausführenden Staaten
 
 (Fundstelle: BGBl. I 1971, 672)
-(Inhalt: nicht darstellbares Kennzeichen)
-
+![bgbl1_1971_j0672_0020.jpg](bgbl1_1971_j0672_0020.jpg)
 
 ## Anlage 4 Bezeichnungen und Kennzeichen der Weltorganisation für geistiges Eigentum
 
 (Fundstelle: BGBl. I 1971, 673,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-(Inhalt: nicht darstellbares Kennzeichen)
-
+![bgbl1_1971_j0673_0010.jpg](bgbl1_1971_j0673_0010.jpg)
 
 ## Anlage 5
 

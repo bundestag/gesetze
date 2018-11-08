@@ -566,8 +566,9 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Reiseverkehrskaufmann/zur
 Reiseverkehrskauffrau vom 18. März 2005 (BGBl. I S. 806) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Sachliche Gliederung –
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2011, 957 - 963)
 
@@ -1658,8 +1659,9 @@ nach § 3 Nummer 1**
 
 
 
+(zu § 4 Absatz 1 Satz 2)
 
-## Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2011, 964, 965)
 

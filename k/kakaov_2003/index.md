@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 2738
 
 Zuletzt geändert durch
-:   Art. 2 V v. 30.9.2008 I 1911
+:   Art. 9 V v. 5.7.2017 I 2272
 
 Mit dieser Verordnung wird die Richtlinie 2000/36/EG des Europäischen
 Parlaments und des Rates vom 23. Juni 2000 über Kakao- und
@@ -46,8 +46,16 @@ Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
 ## § 2 Zutaten
 
 (1) Bei der Herstellung von Erzeugnissen nach Anlage 1 Nr. 3 bis 6, 8
-und 9 dürfen zusätzlich zu den dort angegebenen Zutaten verwendet
-werden
+und 9 dürfen zusätzlich zu den dort angegebenen Zutaten unbeschadet
+der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des
+Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354
+vom 31.12.2008, S. 16) und der Verordnung (EG) Nr. 1334/2008 des
+Europäischen Parlaments und des Rates vom 16. Dezember 2008 über
+Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur
+Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung
+(EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und
+(EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom
+31\.12.2008, S. 34) in der jeweils geltenden Fassung verwendet werden
 
 1.  außer Kakaobutter als pflanzliche Fette nur die in Anlage 2 Nr. 2
     aufgeführten Fette,
@@ -64,45 +72,55 @@ werden
 Im Falle des Satzes 1 Nr. 1 darf der Anteil der dort genannten
 pflanzlichen Fette unter Beibehaltung der Mindestgehalte an
 Kakaobutter oder Gesamtkakaotrockenmasse nach Abzug des Gesamtgewichts
-der nach Satz 1 Nr. 2 und Absatz 3 verwendeten Zutaten höchstens 5
-Prozent des Enderzeugnisses betragen.
+der verwendeten Aromen und der nach Satz 1 Nummer 2 verwendeten
+Zutaten höchstens 5 Prozent des Enderzeugnisses betragen.
 
 (2) Getreidemahlerzeugnisse und Stärken dürfen nur bei den in Anlage 1
 Nr. 8 und 9 aufgeführten Erzeugnissen verwendet werden.
 
-(3) Die Verwendung von Aromen bei der Herstellung von Erzeugnissen
-nach Anlage 1 Nr. 2 bis 6, 8 und 9 bestimmt sich nach den Vorschriften
-der Aromenverordnung. Die Aromen dürfen den Geschmack von Schokolade
-oder Milchfett nicht nachahmen.
+(3) Aromen, die bei der Herstellung von Erzeugnissen nach Anlage 1
+Nummer 2 bis 6, 8 und 9 verwendet werden, dürfen den Geschmack von
+Schokolade oder Milchfett nicht nachahmen.
 
 (4) Bei den in Anlage 1 Nr. 3 bis 10 aufgeführten Erzeugnissen werden
 die Anteile der Zutaten, für die ein Mindestgehalt vorgeschrieben ist,
-nach Abzug des Gewichts der in Absatz 1 Nr. 2 und Absatz 3 möglichen
-Zutaten sowie im Falle der in Anlage 1 Nr. 7 und 10 aufgeführten
-Erzeugnisse auch nach Abzug des Gewichts der Füllung berechnet.
+nach Abzug des Gewichts der verwendeten Aromen und der nach Absatz 1
+Nummer 2 möglichen Zutaten sowie im Falle der in Anlage 1 Nr. 7 und 10
+aufgeführten Erzeugnisse auch nach Abzug des Gewichts der Füllung
+berechnet.
 
 (5) Zuckerarten im Sinne dieser Verordnung sind auch andere als die in
 der Zuckerartenverordnung aufgeführten Erzeugnisse.
 
-(6) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
-anzuwenden.
+(6) (weggefallen)
 
 
 ## § 3 Kennzeichnung
 
 (1) Für Erzeugnisse nach Anlage 1 sind die dort aufgeführten
-Bezeichnungen Verkehrsbezeichnungen im Sinne der Lebensmittel-
-Kennzeichnungsverordnung. Sie sind diesen Erzeugnissen vorbehalten.
+Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU)
+Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25.
+Oktober 2011 betreffend die Information der Verbraucher über
+Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und
+(EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur
+Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+30\.9.2016, S. 7) in der jeweils geltenden Fassung. Sie sind diesen
+Erzeugnissen vorbehalten.
 
 (2) Bei Erzeugnissen nach Anlage 1 Nr. 3 bis 7 und 10, die als
-Mischung in den Verkehr gebracht werden, sind als
-Verkehrsbezeichnungen im Sinne der Lebensmittel-
-Kennzeichnungsverordnung auch die Bezeichnungen "Schokolademischung",
-"Pralinenmischung", "Mischung von gefüllter Schokolade" oder "Mischung
-gefüllter Pralinen" oder gleichsinnige Bezeichnungen zulässig, sofern
-die Mischung jeweils die von der verwendeten Bezeichnung erfassten
-Kakaoerzeugnisse enthält. In diesem Fall kann die Kennzeichnung eine
-einzige Zutatenliste für alle Erzeugnisse der Mischung enthalten.
+Mischung in den Verkehr gebracht werden, sind als Bezeichnungen der
+Lebensmittel nach der Verordnung (EU) Nr. 1169/2011 auch die
+Bezeichnungen "Schokolademischung", "Pralinenmischung", "Mischung von
+gefüllter Schokolade" oder "Mischung gefüllter Pralinen" oder
+gleichsinnige Bezeichnungen zulässig, sofern die Mischung jeweils die
+von der verwendeten Bezeichnung erfassten Kakaoerzeugnisse enthält. In
+diesem Fall kann die Kennzeichnung eine einzige Zutatenliste für alle
+Erzeugnisse der Mischung enthalten.
 
 (3) Sofern
 
@@ -123,14 +141,17 @@ einzige Zutatenliste für alle Erzeugnisse der Mischung enthalten.
 
 
 
-dürfen die Verkehrsbezeichnungen "Schokolade", "Milchschokolade" und
-"Schokoladenkuvertüre" durch Angaben, die sich auf die Qualität nach
-Maßgabe jeweils der Nummern 1, 2 oder 3 beziehen, ergänzt werden.
+dürfen die Bezeichnungen der Lebensmittel "Schokolade",
+"Milchschokolade" und "Schokoladenkuvertüre" durch Angaben, die sich
+auf die Qualität nach Maßgabe jeweils der Nummern 1, 2 oder 3
+beziehen, ergänzt werden.
 
-(4) Zusätzlich zu den nach der Lebensmittel-Kennzeichnungsverordnung
+(4) Zusätzlich zu den nach der Verordnung (EU) Nr. 1169/2011
 vorgeschriebenen Angaben muss die Kennzeichnung folgende Angaben
-enthalten, die nach Maßgabe des § 3 Abs. 3 Satz 1 und 3 Halbsatz 1 der
-Lebensmittel-Kennzeichnungsverordnung anzubringen sind:
+enthalten, die nach Maßgabe des Artikels 12 Absatz 1 und 2 und des
+Artikels 13 Absatz 1 bis 3 der Verordnung (EU) Nr. 1169/2011 sowie des
+§ 2 der Lebensmittelinformations-Durchführungsverordnung anzubringen
+sind:
 
 1.  bei Erzeugnissen nach Anlage 1 Nr. 2 Buchstabe c und d, Nr. 3 bis 5, 8
     und 9 den Gesamtgehalt an Kakaotrockenmasse durch den Hinweis "Kakao:
@@ -146,7 +167,7 @@ Lebensmittel-Kennzeichnungsverordnung anzubringen sind:
     den Gehalt an Kakaobutter,
 
 
-4.  bei Erzeugnissen, die gemäß  § 2 Abs. 1 Nr. 1 andere pflanzliche Fette
+4.  bei Erzeugnissen, die gemäß § 2 Abs. 1 Nr. 1 andere pflanzliche Fette
     als Kakaobutter enthalten, den Hinweis "enthält neben Kakaobutter auch
     andere pflanzliche Fette", der auch nach Maßgabe des Absatzes 5 Satz 1
     anzubringen ist.
@@ -157,14 +178,15 @@ Lebensmittel-Kennzeichnungsverordnung anzubringen sind:
 (5) Die Angabe nach Absatz 4 Nr. 4 ist in demselben Sichtfeld wie die
 Liste der Zutaten, in mindestens genauso großer Schrift, in Fettdruck
 sowie deutlich abgesetzt von dieser Liste und in der Nähe der
-Verkehrsbezeichnung anzugeben. Sofern die Verkehrsbezeichnung mehr als
-einmal angegeben ist, ist der Hinweis nur bei einer dieser Angaben
-erforderlich. Im Übrigen gilt in den Fällen des Absatzes 4 § 3 Abs. 4
-der LebensmittelKennzeichnungsverordnung entsprechend.
+Bezeichnung des Lebensmittels anzugeben. Sofern die Bezeichnung des
+Lebensmittels mehr als einmal angegeben ist, ist der Hinweis nur bei
+einer dieser Angaben erforderlich. Im Übrigen gilt in den Fällen des
+Absatzes 4 Artikel 8 Absatz 7 der Verordnung (EU) Nr. 1169/2011
+entsprechend.
 
-(6) Die Verkehrsbezeichnungen nach Anlage 1 dürfen ergänzend zur
-Bezeichnung anderer Lebensmittel verwendet werden, sofern diese nicht
-mit den in Anlage 1 aufgeführten Erzeugnissen verwechselt werden
+(6) Die Bezeichnungen der Lebensmittel nach Anlage 1 dürfen ergänzend
+zur Bezeichnung anderer Lebensmittel verwendet werden, sofern diese
+nicht mit den in Anlage 1 aufgeführten Erzeugnissen verwechselt werden
 können.
 
 
@@ -221,12 +243,7 @@ gekennzeichnet sowie bis zum Abbau der Vorräte in den Verkehr gebracht
 werden.
 
 
-## § 7
-
--
-
-
-## § 8 Inkrafttreten, Außerkrafttreten
+## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -528,7 +545,7 @@ Pflanzliche Fette
 
     a)  sie nicht-laurinsäurehaltige pflanzliche Fette darstellen, die reich
         an symmetrischen, einfach ungesättigten Triglyceriden vom Typ POP,
-        POST und StOSt sind (P: Palmitinsäure, O: Ölsäure, St: Stearinsäure),
+        POSt und StOSt sind (P: Palmitinsäure, O: Ölsäure, St: Stearinsäure),
 
 
     b)  sie mit Kakaobutter in jedem Verhältnis mischbar und mit deren

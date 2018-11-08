@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2182, 2192
 
 Zuletzt geändert durch
-:   Art. 41 G v. 17.12.2008 I 2586
+:   Art. 158 V v. 31.8.2015 I 1474
 
 
 ## Abschnitt 1 - Behandlung wertbeständiger und ähnlicher Rechte
@@ -91,9 +91,10 @@ oder Leistungen bestimmt, kann nur Zahlung eines Betrages verlangt
 werden, der dem für die Umrechnung am Tag des Inkrafttretens dieses
 Gesetzes an den deutschen Börsen notierten Mittelwert, bei fehlender
 Börsennotierung dem durchschnittlichen Marktpreis für den Ankauf
-dieser Waren entspricht. Das Bundesministerium der Justiz wird
-ermächtigt, diese Mittelwerte, bei ihrem Fehlen die durchschnittlichen
-Marktpreise, durch Rechtsverordnung festzustellen.
+dieser Waren entspricht. Das Bundesministerium der Justiz und für
+Verbraucherschutz wird ermächtigt, diese Mittelwerte, bei ihrem Fehlen
+die durchschnittlichen Marktpreise, durch Rechtsverordnung
+festzustellen.
 
 (2) Absatz 1 gilt entsprechend, wenn sich die Höhe der aus dem
 Grundstück zu zahlenden Geldsumme nach dem Gegenwert einer bestimmten
@@ -210,8 +211,9 @@ entsprechende Grundbuchberichtigung bewilligt oder der jeweilige
 Berechtigte von dem Eigentümer vorher die Abgabe dieser Erklärungen in
 einer zur Unterbrechung der Verjährung nach § 209 des Bürgerlichen
 Gesetzbuchs geeigneten Weise verlangt hat. Die Frist des Satzes 1 kann
-durch Rechtsverordnung des Bundesministeriums der Justiz mit
-Zustimmung des Bundesrates einmal verlängert werden.
+durch Rechtsverordnung des Bundesministeriums der Justiz und für
+Verbraucherschutz mit Zustimmung des Bundesrates einmal verlängert
+werden.
 
 (2) Wird in dem Anerkenntnis oder der Eintragungsbewilligung gemäß
 Absatz 1 ein Zeitpunkt für die Entstehung dieses Rechts nicht
@@ -346,12 +348,12 @@ Berechtigter nicht ersichtlich ist. Die Bescheinigung ist zur
 Berichtigung des Grundbuchs genügend. Die Behörde kann den
 Antragsteller auf das Aufgebotsverfahren verweisen.
 
-(8) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die näheren
-technischen Einzelheiten des in Absatz 1 beschriebenen Inhalts der
-Dienstbarkeit, nähere Einzelheiten des Verfahrens, insbesondere zum
-Inhalt der Bescheinigung, zum Antrag und zur Beschreibung des Rechts,
-zu regeln.
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+näheren technischen Einzelheiten des in Absatz 1 beschriebenen Inhalts
+der Dienstbarkeit, nähere Einzelheiten des Verfahrens, insbesondere
+zum Inhalt der Bescheinigung, zum Antrag und zur Beschreibung des
+Rechts, zu regeln.
 
 (9) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die vorstehende Regelung und auf Grund von
@@ -423,11 +425,11 @@ nach § 8 der Telekommunikations-Kundenschutzverordnung vom 19.
 Dezember 1995 (BGBl. I S. 2020) zur Duldung von
 Telekommunikationsanlagen verpflichtet sind. An die Stelle der
 Aufsichtsbehörde im Sinne des Absatzes 4 treten das Bundesministerium
-für Wirtschaft und Technologie für Anlagen nach Satz 1 Nr. 1 und das
-Bundeseisenbahnvermögen für Anlagen der früheren Reichsbahn nach Satz
-1 Nr. 2. Diese können mit der Erteilung der Bescheinigung auch eine
-andere öffentliche Stelle oder eine natürliche Person beauftragen, die
-nicht Bediensteter des Bundesministeriums oder des
+für Verkehr und digitale Infrastruktur für Anlagen nach Satz 1 Nr. 1
+und das Bundeseisenbahnvermögen für Anlagen der früheren Reichsbahn
+nach Satz 1 Nr. 2. Diese können mit der Erteilung der Bescheinigung
+auch eine andere öffentliche Stelle oder eine natürliche Person
+beauftragen, die nicht Bediensteter des Bundesministeriums oder des
 Bundeseisenbahnvermögens sein muß. Für Dienstbarkeiten nach Satz 1 Nr.
 3 und 4 gilt § 1023 Abs. 1 Satz 1 Halbsatz 2 des Bürgerlichen
 Gesetzbuchs bei der Anlegung neuer öffentlicher Verkehrswege nur, wenn
@@ -482,9 +484,9 @@ Höchstbetragshypothek entfällt die in Halbsatz 1 genannte Erhöhung des
 Nennbetrags. Satz 1 gilt für Rentenschulden und Reallasten
 entsprechend; anstelle des Nennbetrages tritt der für Rechte dieser
 Art im Verfahren nach dem Vermögensgesetz anzusetzende Ablösebetrag,
-der nicht zu erhöhen ist. Das Bundesministerium der Justiz wird
-ermächtigt, durch Rechtsverordnung anstelle der Hinterlegung andere
-Arten der Sicherheitsleistung zuzulassen.
+der nicht zu erhöhen ist. Das Bundesministerium der Justiz und für
+Verbraucherschutz wird ermächtigt, durch Rechtsverordnung anstelle der
+Hinterlegung andere Arten der Sicherheitsleistung zuzulassen.
 
 (2) Die §§ 1 bis 3 gelten auch für die Berechnung des Nennbetrages des
 Grundpfandrechts.
@@ -494,7 +496,7 @@ die Zustimmung zur Auszahlung des die geschuldete Summe übersteigenden
 Teils eines hinterlegten Betrages oder im Falle der Leistung einer
 anderen Sicherheit entsprechende Freigabe verlangen.
 
-(4) Ein für das Grundpfandrecht erteiler Brief wird mit dem Zeitpunkt
+(4) Ein für das Grundpfandrecht erteilter Brief wird mit dem Zeitpunkt
 des Erlöschens des Rechts kraftlos. Das Kraftloswerden des Briefes ist
 entsprechend § 26 Abs. 3 Satz 2 des Gesetzes über Maßnahmen auf dem
 Gebiet des Grundbuchwesens vom 20. Dezember 1963 (BGBl. I S. 986,

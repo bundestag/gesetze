@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 906
 
 Zuletzt geändert durch
-:   Art. 14 G v. 22.12.2011 I 3057
+:   Art. 57 Abs. 5 G v. 12.12.2019 I 2652
 
 
 ## § 1
@@ -133,19 +133,20 @@ anderen Vorschriften, insbesondere des Bundesentschädigungsgesetzes,
 gewährt wird oder gewährt worden ist.
 
 (3) Über die Bewilligung einer Entschädigungsrente nach Absatz 1
-entscheidet das Bundesversicherungsamt auf Vorschlag der Kommission
-nach § 3 des Versorgungsruhensgesetzes vom 25. Juli 1991 (BGBl. I S.
-1606, 1684). Soweit es erforderlich ist, kann die Kommission bei
-öffentlichen Stellen Auskünfte einholen und Akten einsehen. Für die
-Übermittlung personenbezogener Daten und die Akteneinsicht gelten die
-für die übermittelnde oder Einsicht gewährende Stelle jeweils
-maßgebenden Regelungen. Auf Antrag des Betroffenen hat die Kommission
-eine von ihm benannte Verfolgtenorganisation zu hören. Der Vorschlag
-der Kommission ist mit einer schriftlichen Begründung zu versehen. Dem
-Betroffenen ist auch der Beschluß der Kommission bekanntzugeben. Will
-das Bundesversicherungsamt in besonders begründeten Fällen von dem
-Vorschlag der Kommission abweichen, hat es dieses zu begründen. Im
-gerichtlichen Verfahren ist die Kommission beizuladen.
+entscheidet das Bundesamt für Soziale Sicherung auf Vorschlag der
+Kommission nach § 3 des Versorgungsruhensgesetzes vom 25. Juli 1991
+(BGBl. I S. 1606, 1684). Soweit es erforderlich ist, kann die
+Kommission bei öffentlichen Stellen Auskünfte einholen und Akten
+einsehen. Für die Übermittlung personenbezogener Daten und die
+Akteneinsicht gelten die für die übermittelnde oder Einsicht
+gewährende Stelle jeweils maßgebenden Regelungen. Auf Antrag des
+Betroffenen hat die Kommission eine von ihm benannte
+Verfolgtenorganisation zu hören. Der Vorschlag der Kommission ist mit
+einer schriftlichen Begründung zu versehen. Dem Betroffenen ist auch
+der Beschluß der Kommission bekanntzugeben. Will das Bundesamt für
+Soziale Sicherung in besonders begründeten Fällen von dem Vorschlag
+der Kommission abweichen, hat es dieses zu begründen. Im gerichtlichen
+Verfahren ist die Kommission beizuladen.
 
 
 ## § 4
@@ -193,10 +194,10 @@ Berechtigten mit.
 
 (1) Die Deutsche Rentenversicherung Bund ist für die Erfüllung der
 Aufgaben nach diesem Gesetz zuständig, soweit nicht die Zuständigkeit
-des Bundesversicherungsamtes gegeben ist. Die Zuständigkeit der
-Deutschen Rentenversicherung Bund erstreckt sich auch auf die bisher
-nicht von der Überleitungsanstalt Sozialversicherung ausgezahlten
-Ehrenpensionen.
+des Bundesamtes für Soziale Sicherung gegeben ist. Die Zuständigkeit
+der Deutschen Rentenversicherung Bund erstreckt sich auch auf die
+bisher nicht von der Überleitungsanstalt Sozialversicherung
+ausgezahlten Ehrenpensionen.
 
 (2) Die Stellen, die Ehrenpensionen auszahlen, haben der Deutschen
 Rentenversicherung Bund die für die Gewährung der Entschädigungsrenten

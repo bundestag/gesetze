@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1163
 
 Zuletzt geändert durch
-:   Art. 522 V v. 31.10.2006 I 2407
+:   Art. 557 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -108,7 +108,7 @@ die See-Berufsgenossenschaft unverzüglich
 3.  die zuständige Hafenbehörde und
 
 
-4.  das Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+4.  das Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1025
 
+Zuletzt geändert durch
+:   Art. 16 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -534,9 +537,9 @@ naturwissenschaftlichen Dienstes des Bundes festzustellen.
 
 Für die Organisation und Durchführung der Diplomarbeit und der
 schriftlichen und mündlichen Diplomprüfung richtet der Deutsche
-Wetterdienst ein Prüfungsamt ein. Das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung kann die Aufgaben des Prüfungsamtes auch ganz
-oder teilweise auf andere Behörden übertragen.
+Wetterdienst ein Prüfungsamt ein. Das Bundesministerium für Verkehr
+und digitale Infrastruktur kann die Aufgaben des Prüfungsamtes auch
+ganz oder teilweise auf andere Behörden übertragen.
 
 
 ### § 20 Prüfende, Prüfungskommissionen
@@ -621,12 +624,12 @@ sind.
 Verfügung; während dieser Zeit werden sie von sonstigen
 Verpflichtungen im Rahmen des Studiums freigestellt. Die Frist beginnt
 mit der Ausgabe des Themas. In begründeten Fällen kann das Prüfungsamt
-auf schriftlichen Antrag die Frist um höchstens vier Wochen
-verlängern. Der Fachbereich Wetterdienst der Fachhochschule legt
-Einzelheiten zur Form und zur Veröffentlichung der Diplomarbeit fest.
-Bei der Abgabe müssen die Studierenden schriftlich versichern, dass
-sie die Diplomarbeit selbständig und ohne fremde Mitwirkung verfasst
-und nur die angegebenen Quellen und Hilfsmittel benutzt haben.
+auf Antrag die Frist um höchstens vier Wochen verlängern. Der
+Fachbereich Wetterdienst der Fachhochschule legt Einzelheiten zur Form
+und zur Veröffentlichung der Diplomarbeit fest. Bei der Abgabe müssen
+die Studierenden schriftlich oder elektronisch versichern, dass sie
+die Diplomarbeit selbständig und ohne fremde Mitwirkung verfasst und
+nur die angegebenen Quellen und Hilfsmittel benutzt haben.
 
 (4) Die Diplomarbeit ist bestanden, wenn sie mindestens mit fünf
 Rangpunkten bewertet worden ist. Über die in der Diplomarbeit
@@ -694,10 +697,10 @@ bewertet worden sind.
 ### § 23 Mündliche Diplomprüfung
 
 (1) Wer die schriftliche Diplomprüfung bestanden hat, wird vom
-Prüfungsamt zur mündlichen Diplomprüfung zugelassen.Das Prüfungsamt
-teilt den zugelassenen Studierenden auf schriftlichen Antrag die von
-ihnen in den schriftlichen Aufsichtsarbeiten erzielten Rangpunkte mit.
-Die Mitteilung der Nichtzulassung bedarf der Schriftform und wird mit
+Prüfungsamt zur mündlichen Diplomprüfung zugelassen. Das Prüfungsamt
+teilt den zugelassenen Studierenden auf Antrag die von ihnen in den
+schriftlichen Aufsichtsarbeiten erzielten Rangpunkte mit. Die
+Mitteilung der Nichtzulassung bedarf der Schriftform und wird mit
 einer Rechtsbehelfsbelehrung versehen.
 
 (2) Die Dauer der mündlichen Diplomprüfung darf 40 Minuten je
@@ -720,8 +723,8 @@ werden.
 (4) Die Prüfung ist hochschulöffentlich, wenn die Studierenden nicht
 widersprechen. Angehörige des Prüfungsamtes können unabhängig vom
 Einverständnis der Studierenden anwesend sein. Das Prüfungsamt kann
-Vertreterinnen und Vertretern des Bundesministeriums für Verkehr, Bau
-und Stadtentwicklung, des Bundesministeriums der Verteidigung, der
+Vertreterinnen und Vertretern des Bundesministeriums für Verkehr und
+digitale Infrastruktur, des Bundesministeriums der Verteidigung, der
 Präsidentin oder dem Präsidenten und den Fachbereichsleitungen der
 Fachhochschule, in Ausnahmefällen auch anderen mit der Ausbildung
 befassten Personen, die Anwesenheit in der mündlichen Diplomprüfung
@@ -735,8 +738,8 @@ Protokollführer anwesend sein.
 
 (5) Gegenstand, Verlauf und Ergebnis der Prüfung werden protokolliert.
 Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission
-zu unterschreiben. Die Prüfung muss bis zum Ende des
-Vorbereitungsdienstes abgeschlossen sein.
+zu bestätigen. Die Prüfung muss bis zum Ende des Vorbereitungsdienstes
+abgeschlossen sein.
 
 (6) Die mündliche Diplomprüfung ist bestanden, wenn insgesamt die
 Durchschnittsrangpunktzahl 5 erreicht worden ist.
@@ -909,8 +912,8 @@ nachgeholt wird; es entscheidet, ob und inwieweit die bereits
 abgegebenen Arbeiten gewertet werden. Soweit bei einer Verhinderung
 während der Diplomarbeit mindestens die Hälfte der Bearbeitungszeit
 zur Verfügung steht, verlängert das Prüfungsamt die Bearbeitungszeit
-auf schriftlichen Antrag der oder des Studierenden entsprechend,
-ansonsten gilt die Diplomarbeit als nicht begonnen.
+auf Antrag der oder des Studierenden entsprechend, ansonsten gilt die
+Diplomarbeit als nicht begonnen.
 
 
 ### § 26 Täuschung, Ordnungsverstoß
@@ -1037,9 +1040,9 @@ Wunsch kurz.
 ### § 29 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
-und eine Urkunde über die Verleihung des Diplomgrades. Auf
-schriftlichen Antrag stellt die Fachhochschule einen Nachweis über das
-erzielte Ergebnis gemäß der Anlage zu dieser Verordnung aus.
+und eine Urkunde über die Verleihung des Diplomgrades. Auf Antrag
+stellt die Fachhochschule einen Nachweis über das erzielte Ergebnis
+gemäß der Anlage zu dieser Verordnung aus.
 
 (2) Das Abschlusszeugnis enthält:
 

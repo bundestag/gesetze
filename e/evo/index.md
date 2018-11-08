@@ -19,74 +19,64 @@ Neugefasst durch
 :   Bek. v. 20.4.1999 I 782;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 26.5.2009 I 1146
+:   Art. 9 G v. 30.11.2019 I 1942
 
 Evo neu erlassen aufgrund d. § 458 abs. 1 hgb 4100-1 durch
 :   die am 1.10.1938 in Kraft getretene V über die Einführung einer neuen Eisenbahn-Verkehrsordnung v. 8.9.1938 II 663
 
 
-## I. - Allgemeine Bestimmungen
+## § 1 Anwendungsbereich
 
-
-
-### § 1 Anwendungsbereich
-
-Auf die Beförderung von Personen und Reisegepäck durch öffentliche
+(1) Auf die Beförderung von Personen und Reisegepäck durch öffentliche
 Eisenbahnen sind die Vorschriften dieser Verordnung anzuwenden, soweit
-das Übereinkommen vom 9. Mai 1980 über den internationalen
-Eisenbahnverkehr – COTIF – (BGBl. 1985 II S. 130) in der jeweils
-geltenden Fassung nichts anderes bestimmt. Die Vorschriften dieser
-Verordnung sind nicht anzuwenden, soweit inhaltsgleiche oder
-entgegenstehende Regelungen in der Verordnung (EG) Nr. 1371/2007 des
-Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die
-Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (ABl. EU Nr. L
-315 S. 14) vorgesehen sind. Abweichend von Satz 2 sind Artikel 8 Abs.
-2, Artikel 18 Abs. 2 Buchstabe a, Artikel 27 Abs. 3 sowie die Artikel
-28 und 29 Abs. 1 Satz 1 der Verordnung (EG) Nr. 1371/2007 auf
-Beförderungen im Schienenpersonennahverkehr nicht anzuwenden. Ferner
-sind die Vorschriften der Verordnung (EG) Nr. 1371/2007 nach Maßgabe
-ihres Artikels 2 Abs. 5 nicht auf solche Verkehrsdienste des
-Schienenpersonennahverkehrs anzuwenden, die hauptsächlich aus Gründen
-historischen Interesses oder zu touristischen Zwecken betrieben
-werden.
+nicht
+
+1.  das Übereinkommen vom 9. Mai 1980 über den internationalen
+    Eisenbahnverkehr (COTIF) in der Fassung des Änderungsprotokolls vom 3.
+    Juni 1999 (BGBl. 2002 II S. 2140, 2142, 2149), zuletzt geändert durch
+    die Beschlüsse vom 29. und 30. September 2015 (BGBl. 2017 II S. 820,
+    822, 826, 828, 829), in der jeweils geltenden Fassung oder
 
 
-### § 2
-
-(weggefallen)
-
-
-### § 3 Züge
-
-Zur Beförderung dienen die regelmäßig nach Fahrplan oder die nach
-Bedarf verkehrenden Züge.
+2.  anzuwendende Vorschriften der Verordnung (EG) Nr. 1371/2007 des
+    Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die
+    Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (ABl. L 315 vom
+    3\.12.2007, S. 14) in der jeweils geltenden Fassung
 
 
-### § 4
 
-(weggefallen)
+inhaltsgleiche oder entgegenstehende Regelungen enthalten.
+
+(2) Auf Beförderungen im Schienenpersonennahverkehr sind Artikel 8
+Absatz 2, Artikel 18 Absatz 2 Buchstabe a, Artikel 27 Absatz 3,
+Artikel 28 und 29 Absatz 1 Satz 1 der Verordnung (EG) Nr. 1371/2007
+nicht anzuwenden.
+
+(3) Auf Beförderungen im Schienenpersonennahverkehr, die hauptsächlich
+aus Gründen historischen Interesses oder zu touristischen Zwecken
+betrieben werden, sind die Vorschriften der Verordnung (EG) Nr.
+1371/2007 nach Maßgabe ihres Artikels 2 Absatz 5 nicht anzuwenden.
 
 
-### § 5 Beförderungsbedingungen
+## § 2 Beförderungsbedingungen
 
 Das Eisenbahnverkehrsunternehmen kann zugunsten des Reisenden von
-allen Bestimmungen der Abschnitte II bis IV dieser Verordnung in den
+allen nachfolgenden Bestimmungen dieser Verordnung in den
 Beförderungsbedingungen abweichen. Darüber hinaus kann das
-Eisenbahnverkehrsunternehmen in den Beförderungsbedingungen von § 17
-Abs. 1 Nr. 1 abweichen, wenn nach dem vorgesehenen Tarif für den
+Eisenbahnverkehrsunternehmen in den Beförderungsbedingungen von § 8
+Absatz 1 Nummer 1 abweichen, wenn nach dem vorgesehenen Tarif für den
 Fahrausweis ein erheblich ermäßigtes Beförderungsentgelt zu zahlen
-ist.
+ist. Erheblich ermäßigte Beförderungsentgelte sind solche, die im
+Tarif ausdrücklich so benannt sind und eine Ersparnis gegenüber dem
+gewöhnlichen Fahrpreis von mehr als 50 Prozent gewähren. Mehrtages-
+Zeitkarten, insbesondere Wochen-, Monats- und Jahreskarten, gelten
+nicht als ermäßigte Beförderungsentgelte im Sinne von Satz 3.
 
 
-### § 6
+## § 3 Sonderabmachungen
 
-(weggefallen)
-
-
-### § 7 Sonderabmachungen
-
-(1) Die Eisenbahn kann ohne Bindung an die Tarife Entgelte vereinbaren
-(Sonderabmachungen) mit
+(1) Die Eisenbahn kann ohne Bindung an die Tarife Entgelte und
+Bedingungen vereinbaren (Sonderabmachungen) mit
 
 1.  Unternehmen, Behörden oder vergleichbaren Einrichtungen (Großkunden)
     für die Beförderung ihrer Mitarbeiter, wenn
@@ -105,19 +95,16 @@ ist.
 
 
 
-2.  Reiseveranstaltern im Personen- und Reisegepäckverkehr.
+2.  Reiseveranstaltern und Fluggesellschaften im Personen- und
+    Reisegepäckverkehr.
 
 
 
-Vergleichbaren Großkunden und vergleichbaren Reiseveranstaltern sind
-jeweils vergleichbare Bedingungen einzuräumen.
+Vergleichbaren Großkunden, vergleichbaren Reiseveranstaltern und
+vergleichbare Fluggesellschaften sind jeweils vergleichbare
+Bedingungen einzuräumen.
 
-(2) Sonderabmachungen sind nur zulässig, wenn der Wettbewerb sie
-erfordert und wenn sie geeignet sind, das Wirtschaftsergebnis der
-Eisenbahn zu erhalten oder zu verbessern. Sonderabmachungen bedürfen
-der Schriftform.
-
-(3) Andere Sonderabmachungen, durch die Ermäßigungen oder sonstige
+(2) Andere Sonderabmachungen, durch die Ermäßigungen oder sonstige
 Vergünstigungen gegenüber den tariflichen Entgelten gewährt werden,
 sind unzulässig und nichtig. Sie berühren die rechtliche Wirksamkeit
 des Beförderungsvertrages nicht. Die Entgelte und
@@ -125,14 +112,13 @@ Beförderungsbedingungen richten sich auch in solchen Fällen nach dem
 Tarif.
 
 
-## II. - Beförderung von Personen
+## § 4 Ausschluss von der Beförderung
 
-
-
-### § 8 Ausschluß von der Beförderung. Bedingte Zulassung
-
-(1) Kinder bis zum vollendeten vierten Lebensjahr werden nur in
-Begleitung einer Aufsichtsperson befördert.
+(1) In Ergänzung zu Anhang I Artikel 9 Absatz 2 der Verordnung (EG)
+Nr. 1371/2007 können nicht schulpflichtige Kinder vor Vollendung des
+sechsten Lebensjahres von der Beförderung ausgeschlossen werden,
+sofern sie nicht auf der ganzen Fahrstrecke von einer Aufsichtsperson
+begleitet werden.
 
 (2) Personen, die eine Gefahr für die Sicherheit und Ordnung des
 Betriebes oder für die Sicherheit der Mitreisenden darstellen oder den
@@ -140,130 +126,60 @@ Anordnungen des Eisenbahnpersonals nicht folgen, können von der
 Beförderung ausgeschlossen werden. Sie haben keinen Anspruch auf
 Erstattung von Fahrpreis oder Gepäckfracht.
 
-(3) Personen, die wegen Ausfall oder Unpünktlichkeit eines Zuges gemäß
-§ 17 Abs. 1 mit einem anderen Zug fahren wollen, können von der
-Beförderung mit einem bestimmten anderen Zug ausgeschlossen werden,
-wenn ansonsten eine erhebliche Störung des Betriebsablaufs zu erwarten
-ist.
 
-(4) Personen mit ansteckenden Krankheiten, die die Gesundheit der
-Mitreisenden gefährden können, werden nur dann befördert, wenn die
-Gefährdung anderer ausgeschlossen ist.
+## § 5 Erhöhtes Beförderungsentgelt
 
+(1) Der Reisende ist zur Zahlung eines erhöhten Beförderungsentgeltes
+verpflichtet, wenn er
 
-### § 9 Fahrausweise
-
-(1) Wenn der Tarif nichts anderes bestimmt, muß der Reisende bei
-Antritt der Reise mit einem Fahrausweis versehen sein.
-
-(2) Der Anspruch auf Ausgabe eines Fahrausweises erlischt fünf Minuten
-vor Abfahrt des Zuges.
-
-(3) Der Reisende ist verpflichtet,
-
-a)  Fahrausweise und sonstige Karten (z.B. Zuschlags-, Übergangs-,
-    Umwegkarten) entsprechend der Beförderungsstrecke zu entwerten und
-    sich sofort von der Entwertung zu überzeugen, sofern der Tarif eine
-    Entwertung vor Betreten des Bahnsteigs oder bei Betreten des Zuges
-    vorschreibt;
+a)  bei Antritt der Reise nicht mit einem gültigen Fahrausweis versehen
+    ist oder
 
 
-b)  Fahrausweise und sonstige Karten nach Beendigung der Fahrt bis zum
-    Verlassen des Bahnsteigs einschließlich der Zu- und Abgänge
-    aufzubewahren;
-
-
-c)  Fahrausweise und sonstige Karten dem Kontrollpersonal auf Verlangen
-    vorzuzeigen und auszuhändigen;
-
-
-d)  bei der Prüfung der Fahrausweise unaufgefordert dem Kontrollpersonal
-    zu melden, daß vor Antritt der Reise ein gültiger Fahrausweis nicht
-    gelöst werden konnte, weil ein Fahrkartenschalter oder
-    Fahrkartenautomat nicht vorhanden, nicht geöffnet oder nicht
-    betriebsbereit war.
+b)  sich einen gültigen Fahrausweis beschafft hat, ihn jedoch bei einer
+    Prüfung der Fahrausweise nicht vorzeigen kann, oder nicht aushändigt.
 
 
 
 
-(4) Ein Reisender, der keinen Fahrausweis besitzt oder den
-Verpflichtungen nach Absatz 3 nicht nachkommt, kann von der
-Weiterfahrt ausgeschlossen werden. Die Pflicht zur Zahlung eines
-erhöhten Fahrpreises nach § 12 bleibt unberührt.
+(2) Das erhöhte Beförderungsentgelt nach Absatz 1 beträgt das Doppelte
+des gewöhnlichen Fahrpreises für die vom Reisenden zurückgelegte
+Strecke, mindestens jedoch 60 Euro. Das erhöhte Beförderungsentgelt
+kann für die ganze vom Zug zurückgelegte Strecke berechnet werden,
+wenn der Reisende nicht glaubhaft macht, dass er eine kürzere Strecke
+durchfahren hat.
+
+(3) Das erhöhte Beförderungsentgelt ermäßigt sich im Fall des Absatzes
+1 Buchstabe b auf 7 Euro, wenn der Reisende innerhalb einer Woche ab
+dem Feststellungstag bei dem befördernden Eisenbahnunternehmen
+nachweist, dass er im Zeitpunkt der Feststellung Inhaber eines
+gültigen Fahrausweises war.
+
+(4) Das erhöhte Beförderungsentgelt ist nicht zu zahlen, wenn vor
+Antritt der Fahrt ein Fahrausweis nicht gelöst werden konnte, weil ein
+Fahrkartenschalter oder Fahrkartenautomat nicht vorhanden, nicht
+geöffnet oder nicht betriebsbereit war.
 
 
-### § 10 Betreten der Bahnsteige
+## § 6 Fahrausweise
 
-Der Tarif kann bestimmen, daß Bahnsteige nur mit gültigem Fahrausweis
-oder Bahnsteigkarte betreten werden dürfen.
+(1) Der Reisende ist verpflichtet, Fahrausweise und sonstige Karten
+(zum Beispiel Zuschlags-, Übergangs-, Umwegkarten) entsprechend der
+Beförderungsstrecke zu entwerten und sich sofort von der Entwertung zu
+überzeugen, sofern der Tarif eine Entwertung vor Betreten des
+Bahnsteigs oder bei Betreten des Zuges vorschreibt.
 
+(2) Der Tarif kann bestimmen, dass Bahnsteige nur mit gültigem
+Fahrausweis oder Bahnsteigkarte betreten werden dürfen.
 
-### § 11 Fahrpreise
-
-(1) Die Fahrpreise enthält der Tarif. Er ist an besetzten Bahnhöfen
-und Auskunftsstellen zur Einsicht bereitzuhalten.
-
-(2) Sind Fahrpreise unrichtig erhoben worden, ist der
-Unterschiedsbetrag nachzuzahlen oder zu erstatten. Der Anspruch auf
-Nachzahlung oder Erstattung erlischt, wenn er nicht binnen eines
+(3) Sind Fahrpreise von Fahrausweisen unrichtig erhoben worden, ist
+der Unterschiedsbetrag nachzuzahlen oder zu erstatten. Der Anspruch
+auf Nachzahlung oder Erstattung erlischt, wenn er nicht binnen eines
 Jahres nach Ablauf der Geltungsdauer des Fahrausweises geltend gemacht
 wird.
 
 
-### § 12 Erhöhter Fahrpreis
-
-(1) Der Reisende ist zur Zahlung eines erhöhten Fahrpreises
-verpflichtet, wenn er
-
-a)  bei Antritt der Reise nicht mit einem gültigen Fahrausweis versehen
-    ist,
-
-
-b)  sich einen gültigen Fahrausweis beschafft hat, ihn jedoch bei einer
-    Prüfung der Fahrausweise nicht vorzeigen kann,
-
-
-c)  einer Verpflichtung nach § 9 Abs. 3 Buchstabe a, b oder d nicht
-    nachkommt.
-
-
-
-
-(2) Der erhöhte Fahrpreis nach Absatz 1 beträgt das Doppelte des
-gewöhnlichen Fahrpreises für die vom Reisenden zurückgelegte Strecke,
-mindestens 40 Euro. Der erhöhte Fahrpreis kann für die ganze vom Zug
-zurückgelegte Strecke berechnet werden, wenn der Reisende nicht
-glaubhaft macht, daß er eine kürzere Strecke durchfahren hat.
-
-(3) Der erhöhte Fahrpreis ermäßigt sich im Falle des Absatzes 1
-Buchstabe b auf 7 Euro, wenn der Reisende innerhalb einer Woche ab dem
-Feststellungstag bei einem Bahnhof der befördernden Eisenbahn
-nachweist, daß er im Zeitpunkt der Feststellung Inhaber eines gültigen
-Fahrausweises war.
-
-(4) Wer sich der Verpflichtung nach § 9 Abs. 3 Buchstabe c entzieht,
-hat 7 Euro zu zahlen.
-
-(5) Der Tarif kann Fälle vorsehen, in denen von der Zahlung des nach
-den Absätzen 2 bis 4 zu entrichtenden Betrages ganz oder teilweise
-abgesehen werden kann.
-
-
-### § 13 Unterbringung der Reisenden
-
-(1) Der Reisende hat Anspruch auf Beförderung in der Klasse, auf die
-sein Fahrausweis lautet. Ein Anspruch auf einen Sitzplatz oder auf
-Unterbringung in der 1. Klasse bei Platzmangel in der 2. Klasse
-besteht nicht. Der Tarif kann Ausnahmen zulassen. Das
-Eisenbahnpersonal ist berechtigt, den Reisenden Plätze anzuweisen. Auf
-Verlangen der Reisenden ist es verpflichtet, für deren Unterbringung
-zu sorgen.
-
-(2) Der Reisende hat keinen Anspruch auf Entschädigung, wenn er keinen
-Sitzplatz findet und ihm keiner angewiesen werden kann.
-
-
-### § 14 Informationen
+## § 7 Informationen
 
 (1) Beim Verkauf eines Fahrausweises für eine Zugfahrt, die
 ausschließlich im Schienenpersonennahverkehr durchgeführt wird, müssen
@@ -281,42 +197,7 @@ Haltebahnhof, über Verspätungen, über Sicherheit und über
 Dienstleistungen im Zug informieren.
 
 
-### § 15 Verhalten bei außerplanmäßigem Halt
-
-Bei einem außerplanmäßigen Halt dürfen die Reisenden nur mit
-Zustimmung des Zugbegleitpersonals aussteigen. Sie müssen sich sofort
-von den Gleisen entfernen.
-
-
-### § 16 Mitnahme von Handgepäck und Tieren
-
-(1) Der Reisende darf leicht tragbare Gegenstände (Handgepäck)
-unentgeltlich in die Personenwagen mitnehmen. Dem Reisenden steht für
-sein Handgepäck nur der Raum über und unter seinem Sitzplatz zur
-Verfügung. Reisende, denen kein Sitzplatz angewiesen werden kann,
-haben wegen der Unterbringung ihres Handgepäcks die Anordnungen des
-Eisenbahnpersonals zu befolgen.
-
-(2) Der Tarif bestimmt,
-
-a)  unter welchen Bedingungen andere Gegenstände, die eine Person tragen
-    kann (Traglasten), in Personenwagen mitgenommen oder in Gepäckwagen
-    ohne Frachtzahlung untergebracht werden dürfen;
-
-
-b)  welches Handgepäck in Personenwagen nicht mitgeführt werden darf;
-
-
-c)  unter welchen Bedingungen lebende Tiere in Personenwagen mitgenommen
-    werden dürfen.
-
-
-
-
-(3)
-
-
-### § 17 Verspätung im Schienenpersonennahverkehr
+## § 8 Verspätung im Schienenpersonennahverkehr
 
 (1) Besitzt der Reisende einen Fahrausweis, der ausschließlich für den
 öffentlichen Personennahverkehr gilt, so hat er, sofern
@@ -354,6 +235,12 @@ hat, Ersatz der erforderlichen Aufwendungen verlangen, für eine
 Beförderung nach Absatz 1 Nr. 2 jedoch nur die erforderlichen
 Aufwendungen bis zu einem Höchstbetrag von 80 Euro.
 
+(2a) Reisende, die wegen Ausfalls oder Unpünktlichkeit des Zuges gemäß
+Absatz 1 mit einem anderen Zug fahren wollen, können von der
+Beförderung mit einem bestimmten anderen Zug ausgeschlossen werden,
+wenn ansonsten eine erhebliche Störung des Betriebsablaufs zu erwarten
+ist.
+
 (3) Dem Reisenden steht der Anspruch nach Absatz 2 nicht zu, wenn der
 Ausfall oder die Unpünktlichkeit des Zuges auf eine der folgenden
 Ursachen zurückzuführen ist:
@@ -381,7 +268,7 @@ die Beförderung erfolgt, ist im Verhältnis zum
 Eisenbahnverkehrsunternehmen nicht als Dritter anzusehen.
 
 
-### § 18 Fahrpreiserstattung
+## § 9 Fahrpreiserstattung
 
 (1) Hat ein Reisender den Fahrausweis nicht zur Fahrt benutzt, so kann
 er den Fahrpreis zurückverlangen. Ist der Fahrausweis nur auf einer
@@ -392,9 +279,7 @@ zurückgelegte Strecke erstattet.
 (2) Der Tarif bestimmt, bei welchen ermäßigten Fahrausweisen der
 Fahrpreis erstattet wird.
 
-(3) Hat der Reisende den Fahrausweis zur Aufgabe von Reisegepäck
-benutzt, so kann er den Fahrpreis nur dann zurückverlangen, wenn er
-das Gepäck auf dem Versandbahnhof zurückgenommen hat.
+(3) (weggefallen)
 
 (4) Von dem zu erstattenden Betrag wird das tarifmäßige Entgelt für
 die Bearbeitung des Erstattungsantrags abgezogen. Der Tarif bestimmt
@@ -411,149 +296,7 @@ Geltungsdauer des Fahrausweises bei der Eisenbahn geltend gemacht
 werden.
 
 
-### § 19 Meinungsverschiedenheiten
-
-Meinungsverschiedenheiten unter Reisenden oder zwischen Reisenden und
-dem Eisenbahnpersonal entscheidet vorläufig auf Bahnhöfen der
-aufsichtführende Bedienstete, in den Zügen der Zugführer.
-
-
-### (XXXX) §§ 20 bis 24 (weggefallen)
-
-
-
-## III. - Beförderung von Reisegepäck
-
-
-
-### § 25 Aufgabe von Reisegepäck
-
-(1) Der Reisende kann als Reisegepäck Gegenstände aufgeben, die zu
-seinem Gebrauch bestimmt und in einer für die Beförderung als
-Reisegepäck geeigneten Weise verpackt sind.
-
-(2) Unter welchen Bedingungen der Reisende
-
-1.  Kraftfahrzeuge und Anhänger,
-
-
-2.  Krankenfahrstühle und Kinderwagen,
-
-
-3.  sonstige auch unverpackte Gegenstände
-
-
-
-als Reisegepäck aufgeben kann, bestimmt der Tarif.
-
-(3) Der Tarif kann die Menge, den Umfang und das Gewicht der zur
-Beförderung als Reisegepäck zugelassenen Gegenstände beschränken,
-erforderlichenfalls weitere Einschränkungen vorsehen.
-
-
-### § 26 Verpackung. Kennzeichnung
-
-Gepäckstücke, deren Verpackung ungenügend oder deren Beschaffenheit
-mangelhaft ist oder die offensichtlich Spuren von Beschädigungen
-aufweisen oder die nicht hinreichend gekennzeichnet sind, kann die
-Eisenbahn zurückweisen. Werden sie gleichwohl zur Beförderung
-angenommen, so kann die Eisenbahn im Gepäckschein den Zustand des
-Gepäcks vermerken. Nimmt der Reisende den Gepäckschein mit dem Vermerk
-an, so erkennt er diesen Zustand an.
-
-
-### § 27 Aufgabe. Abfertigung. Gepäckschein
-
-(1) Reisegepäck wird zur Beförderung von und nach Orten angenommen,
-die in den Gepäckverkehr einbezogen sind.
-
-(2) Für jedes Gepäckstück ist die nach den Bestimmungen des Tarifs
-erforderliche Zahl von Gepäckscheinen zu lösen. § 11 Abs. 2 gilt
-entsprechend; die dort vorgesehene einjährige Frist beginnt mit dem
-Tage der Ausfertigung des Gepäckscheins.
-
-(3) Bei der Aufgabe des Reisegepäcks wird dem Reisenden ein
-Gepäckschein ausgehändigt. Die Angaben im Gepäckschein sind für die
-Beförderung maßgebend. Der Gepäckschein muß enthalten:
-
-a)  Stelle und Tag der Aufgabe des Reisegepäcks sowie die vom Reisenden
-    vorgesehene Ablieferungsstelle;
-
-
-b)  gegebenenfalls Name und Anschrift des Empfangsbevollmächtigten des
-    Reisenden;
-
-
-c)  Lieferfrist;
-
-
-d)  die Gepäckfracht und etwaige andere Entgelte.
-
-
-
-
-(4) Der Tarif bestimmt, ob bei Aufgabe des Gepäcks der Fahrausweis
-vorzulegen ist.
-
-
-### § 28
-
-(weggefallen)
-
-
-### § 29 Auslieferung
-
-(1) Das Gepäck wird gegen Rückgabe des Gepäckscheins und Entrichtung
-der etwa noch nicht bezahlten Kosten ausgeliefert. Die Eisenbahn ist
-berechtigt, aber nicht verpflichtet, die Berechtigung des Inhabers zu
-prüfen. Hat der Reisende einen Empfangsbevollmächtigten benannt, so
-kann die Eisenbahn auch diesem das Gepäck ausliefern, selbst wenn der
-Gepäckschein dabei nicht zurückgegeben oder vorgelegt wird.
-
-(2) Wird der Gepäckschein nicht beigebracht, so braucht die Eisenbahn
-das Gepäck nur demjenigen auszuliefern, der seine Berechtigung
-glaubhaft macht; sie kann Sicherheitsleistung verlangen.
-
-
-### § 30
-
-(weggefallen)
-
-
-### (XXXX) §§ 31 bis 33 (weggefallen)
-
-
-
-### § 34
-
-(weggefallen)
-
-
-## IV. - Gepäckträger, Gepäckaufbewahrung
-
-
-
-### § 35 Gepäckträger
-
-(1) Soweit auf Bahnhöfen Gepäckträger bestellt sind, haben sie Reise-
-und Handgepäck zu den von den Reisenden bezeichneten Stellen zu
-bringen. Die Beförderung außerhalb des Bahnhofsbereichs kann nur dann
-verlangt werden, wenn dies nach den örtlichen Vorschriften zulässig
-ist.
-
-(2) Die Gepäckträger müssen durch Dienstabzeichen erkennbar sein und
-ihren Tarif bei sich tragen. Auf Verlangen haben sie dem Reisenden den
-Tarif vorzuzeigen und ihm bei Übernahme des Gepäcks eine mit ihrer
-Nummer versehene Marke zu übergeben.
-
-(3) Der Tarif muß an den Gepäckannahme- und -ausgabestellen und in den
-zur Gepäckaufbewahrung dienenden Räumen aushängen.
-
-(4) Für das den Gepäckträgern übergebene Reise- oder Handgepäck haftet
-die Eisenbahn wie für das ihr zur Beförderung übergebene Gepäck.
-
-
-### § 36 Aufbewahrung des Gepäcks
+## § 10 Aufbewahrung des Gepäcks
 
 (1) Die Eisenbahn haftet für Reise- und Handgepäck, das sie zur
 Aufbewahrung annimmt, als Verwahrer. Die Bedingungen für die
@@ -582,8 +325,7 @@ enthalten sind.
 (6) Die hinterlegten Gegenstände können jederzeit innerhalb der für
 die Annahme und Auslieferung von Gepäck bestimmten Zeiten gegen
 Rückgabe des Hinterlegungsscheins und Entrichtung des Entgelts für die
-Aufbewahrung zurückgefordert werden. § 29 Abs. 1 und 2 gilt
-entsprechend.
+Aufbewahrung zurückgefordert werden.
 
 (7) Wird das hinterlegte Gepäck nicht binnen der im Tarif
 festgesetzten Aufbewahrungsfrist abgeholt, so ist die Eisenbahn
@@ -599,98 +341,37 @@ Die Eisenbahn hat den Reisenden, wenn sich sein Aufenthalt ermitteln
 läßt, vom bevorstehenden Verkauf des Gepäcks zu benachrichtigen.
 
 
-## V. bis VIII. mit den §§ 37 bis 96
-
-(weggefallen)
-
-
-## V. - Schlichtung
-
-
-
-### § 37 Schlichtungsstelle
+## § 11 Schlichtungsstelle
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung durch
 Eisenbahnverkehrsunternehmen kann der Reisende eine geeignete
-Schlichtungsstelle anrufen.
+Verbraucherschlichtungsstelle anrufen.
 
-(2) Eine Schlichtungsstelle ist insbesondere geeignet im Sinne von
-Absatz 1, wenn sie die Voraussetzungen der Empfehlung der Kommission
-98/257/EG vom 30. März 1998 betreffend die Grundsätze für
-Einrichtungen, die für die außergerichtliche Beilegung von
-Verbraucherstreitigkeiten zuständig sind (ABl. EG Nr. L 115 S. 31),
-erfüllt und die folgenden Grundsätze befolgt:
+(2) Die Verbraucherschlichtungsstelle nach Absatz 1 bedarf der
+Anerkennung nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar
+2016 (BGBl. I S. 254), das durch Artikel 1 des Gesetzes vom 30.
+November 2019 (BGBl. I S. 1942) geändert worden ist, in der jeweils
+geltenden Fassung, durch das Bundesamt für Justiz. Die
+Verbraucherschlichtungsstelle kann auch eine
+verkehrsträgerübergreifende Schlichtungsstelle sein. Die Anerkennung
+und der Widerruf oder die Rücknahme der Anerkennung sind im
+Bundesanzeiger bekannt zu machen.
 
-1.  Die Schlichtungsstelle muss unabhängig sein und hierdurch
-    unparteiisches Handeln sicherstellen; bei Kollegialentscheidungen kann
-    die Unabhängigkeit durch eine paritätische Mitwirkung der Vertreter
-    von Verbrauchern und Unternehmen gewährleistet werden;
+(3) Das Eisenbahnverkehrsunternehmen hat bei der Beantwortung einer
+Beschwerde wegen der Nichtbeachtung von Fahrgastrechten auf die
+Möglichkeit der Schlichtung hinzuweisen und die Adressen geeigneter
+Verbraucherschlichtungsstellen mitzuteilen.
 
-
-2.  die Beteiligten müssen Tatsachen und Bewertungen vorbringen können und
-    rechtliches Gehör erhalten;
-
-
-3.  die Schlichter und ihre Hilfspersonen müssen die Vertraulichkeit der
-    Informationen gewährleisten, von denen sie im Schlichtungsverfahren
-    Kenntnis erhalten;
-
-
-4.  das Schlichtungsverfahren muss zügig durchgeführt werden;
-
-
-5.  die Verfahrensregeln müssen für Interessierte zugänglich sein.
-
-
-
-Eine Schlichtungsstelle im Sinne von Absatz 1 kann auch eine
-verkehrsträgerübergreifende Schlichtungsstelle sein.
-
-(3) Das Eisenbahnverkehrsunternehmen soll bei der Beantwortung einer
-Beschwerde auf die Möglichkeit der Schlichtung hinweisen und die
-Adressen geeigneter Schlichtungsstellen mitteilen.
-
-
-### Anlage
-
-(weggefallen)
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-4.  Eisenbahn-Verkehrsordnung in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 934-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Verordnung vom 30. Juni 1989 (BGBl. I S. 1273), mit den
-    für das Netz der Deutschen Reichsbahn nach § 5 Abs. 2 genehmigten
-    abweichenden Beförderungsbedingungen
-
-    mit folgender Maßgabe:
-
-    Im Verkehr zwischen den deutschen Eisenbahnen, der bis zum
-    Wirksamwerden des Beitritts auf der Grundlage des Übereinkommens vom
-    9\. Mai 1980 über den internationalen Eisenbahnverkehr (COTIF) (BGBl.
-    1985 II S. 130) durchgeführt wurde, sind Sonderabmachungen abweichend
-    von § 7 in dem Umfang zulässig, wie es Artikel 6 § 4 der Einheitlichen
-    Rechtsvorschriften für den Vertrag über die internationale
-    Eisenbahnbeförderung von Gütern (ER/CIM - Anhang B zum COTIF)
-    vorsieht.
-
-
-
-...
-
-11. Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten
-    Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten
-    nicht oder nicht unmittelbar Anwendung finden können, gelten sie für
-    die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze
-    und Rechtsverordnungen des Bundes, die besondere Regelungen für die
-    Deutsche Bundesbahn vorsehen.
-
-
-
+(4) Soweit keine Verbraucherschlichtungsstelle nach Absatz 2 anerkannt
+wurde, kann das Bundesministerium für Verkehr und digitale
+Infrastruktur im Einvernehmen mit dem Bundesministerium der Justiz und
+für Verbraucherschutz die Aufgabe der Schlichtungsstelle durch
+Rechtsverordnung ohne Zustimmung des Bundesrates einer
+Bundesoberbehörde oder Bundesanstalt zuweisen und deren Verfahren
+sowie die Erhebung von Gebühren und Auslagen regeln. § 31 des
+Verbraucherstreitbeilegungsgesetzes ist auf die Regelung der Gebühren
+entsprechend anzuwenden. Die Schlichtungsstelle ist
+Verbraucherschlichtungsstelle nach dem
+Verbraucherstreitbeilegungsgesetz und muss die Anforderungen nach dem
+Verbraucherstreitbeilegungsgesetz erfüllen.
 

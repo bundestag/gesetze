@@ -34,7 +34,7 @@ Januar 1964 zugrunde liegen, werden unter den Voraussetzungen der §§
 Gesetzes erstmals auf den 1. Januar 1974 vorgenommen.
 
 
-## Art 2 *Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte *KE
+## Art 2 \*Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte \*KE
 
 (1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
 der Einheitswerte auf den 1. Januar 1972 statt (Hauptfeststellung

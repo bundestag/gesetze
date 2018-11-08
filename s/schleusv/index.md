@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 1999, 653
 
-Geändert durch
-:   Art. 1 V v. 1.12.2009 VkBl 2009, 821
+Zuletzt geändert durch
+:   Art. 2 V v. 30.4.2019 BAnz AT 15.05.2019 V1
 
 
 ## Eingangsformel
@@ -353,7 +353,7 @@ verboten,
     in den vorgeschriebenen Fällen abzugeben;
 
 
-3.  Schweinwerfer außer in notwendigen Fällen zu gebrauchen;
+3.  Scheinwerfer außer in notwendigen Fällen zu gebrauchen;
 
 
 4.  schädliche oder störende Stoffe einzubringen, einzuleiten oder
@@ -471,56 +471,50 @@ Fahrzeugführers dafür verantwortlich, dass die Anmeldung unverzüglich
 nach dem Einlaufen des Fahrzeuges erfolgt.
 
 
-## § 6 Grenzen und Benutzung der Yachthäfen Brunsbüttel und Kiel-Holtenau
+## § 6 Grenzen und Benutzung der Liegestellen für Sportfahrzeuge in Brunsbüttel und Kiel-Holtenau
 
 (1) Die in den Schleusenbereichen Brunsbüttel und Kiel-Holtenau
-liegenden Yachthäfen werden begrenzt:
+gelegenen Liegestellen werden begrenzt:
 
-1.1 Yachthafen Brunsbüttel
+1.  Liegestellen Brunsbüttel
 
     im Norden und Westen durch das Ufer,
-
     im Osten durch die Verbindungslinie vom Enddalben des nördlichen
     Leitwerkes der Neuen Schleuse bis zum östlichen Endpunkt des
     Brückensteges und von dort rechtwinklig zum Ufer,
+    im Süden durch das nördliche Leitwerk der Neuen Schleuse.
 
-    im Süden durch das nördliche Leitwerk der Neuen Schleuse;
 
+2.  Ausweich-Liegestellen im Binnenhafen Brunsbüttel (bei Kanal-km 2,7)
 
-1.2 Ausweich-Liegestellen im Binnenhafen Brunsbüttel (bei Kanal-km 2,7) im
-    Norden durch das Ufer,
-
+    im Norden durch das Ufer,
     im Osten durch die Verbindungslinie vom Dalben Nr. 36 rechtwinklig zum
     Ufer,
-
     im Süden durch die Verbindungslinie vom Dalben Nr. 28 bis Dalben Nr.
     36,
-
     im Westen durch die Verbindungslinie vom Dalben Nr. 28 rechtwinklig
     zum Ufer.
 
 
-2.  Yachthafen Kiel-Holtenau
+3.  Liegestellen Kiel-Holtenau
 
-    in Norden durch die Absperrung an der Kanalstraße, im Osten und Westen
-    durch Verbindungslinien von den Endpunkten des Außensteges über die
-    Endpunkte des Innensteges rechtwinklig zum Ufer,
-
+    im Norden durch die Absperrung an der Kanalstraße,
+    im Osten und Westen durch Verbindungslinien von den Endpunkten des
+    Außensteges über die Endpunkte des Innensteges rechtwinklig zum Ufer,
     im Süden durch die Außenkante des Außensteges mit der davorliegenden
     Wasserfläche in einem rechtwinkligen Abstand von 20 Meter.
 
 
 
 
-(2) Die Liegestellen in den Yachthäfen sind nur für Sportfahrzeuge
-zugelassen, die den Nord-Ostsee-Kanal befahren wollen oder befahren
-haben. Die Benutzung der Liegestellen darf vier Tage nicht
-überschreiten. Die Ausweich-Liegestellen im Binnenhafen Brunsbüttel
-dürfen von Sportfahrzeugen nur bei Überfüllung des Yachthafens
-Brunsbüttel und nur für eine Übernachtung genutzt werden. Die
-Außenliegestellen am Außensteg in Kiel-Holtenau sowie andere
-Liegestellen außerhalb der genannten Yachthäfen dürfen von
-Sportfahrzeugen nicht benutzt werden.
+(2) Die Liegestellen sind nur für Sportfahrzeuge zugelassen, die den
+Nord-Ostsee-Kanal befahren wollen oder befahren haben. Die Benutzung
+der Liegestellen darf vier Tage nicht überschreiten. Die Ausweich-
+Liegestellen im Binnenhafen Brunsbüttel dürfen von Sportfahrzeugen nur
+bei Überfüllung der Liegestellen Brunsbüttel und nur für eine
+Übernachtung genutzt werden. Die Außenliegestellen am Außensteg in
+Kiel-Holtenau sowie andere Liegestellen außerhalb der vorgenannten
+Grenzen dürfen von Sportfahrzeugen nicht benutzt werden.
 
 
 ## § 7 Betreten der Schleusenbereiche
@@ -626,9 +620,9 @@ Berechtigten benutzt werden.
 ## § 9 Übernahme von Proviant oder Ausrüstung
 
 (1) Bei der Übernahme von Proviant oder Ausrüstung hat der
-Fahrzeugführer rechtzeit Angehörige der Schiffsbesatzung zur Verfügung
-zu stellen, damit die Übernahme innerhalb des Schleusenvorgangs
-beendet ist.
+Fahrzeugführer rechtzeitig Angehörige der Schiffsbesatzung zur
+Verfügung zu stellen, damit die Übernahme innerhalb des
+Schleusenvorgangs beendet ist.
 
 (2) Wer Proviant oder Ausrüstung an ein Fahrzeug übergeben will, ist
 dafür verantwortlich, dass durch seine Tätigkeit der Schleusenvorgang

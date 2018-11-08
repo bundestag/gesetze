@@ -15,8 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3066
 
-Zuletzt geändert durch
-:   Art. 6 V v. 2.10.2012 I 2102
+Stand: Zuletzt geändert Art. 3 V v. 3.5.2017 I 1016
+Änderung durch
+:   Art. 2 § 1 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 § 1 Nr. 1 und § 5 Abs. 1 Nr. 1 und 2, § 7 Abs. 2, die §§ 9, 30 Abs. 2
 Nr. 1 und Anlage 9 dieser Verordnung dienen der Umsetzung der
@@ -74,13 +75,13 @@ Im Sinne dieser Verordnung sind
 
 1.  Wasserstraßen:
 
-    die Bundeswasserstraßen der Zonen 1 bis 4 nach den Anlagen 1 und 3 der
-    Binnenschiffs-Untersuchungsordnung vom 17. März 1988 (BGBl. I S. 238),
-    die zuletzt durch Artikel 3 der Verordnung vom 15. Dezember 1997
-    (BGBl. I S. 3050) geändert worden ist, in der jeweils geltenden
-    Fassung; im Sinne der Richtlinie 91/672/EWG und der Richtlinie
-    96/50/EG sind Seeschiffahrtsstraßen die Wasserstraßen der Zonen 1 und
-    2 und Binnenwasserstraßen die Wasserstraßen der Zonen 3 und 4;
+    die Bundeswasserstraßen der Zonen 1 bis 4 nach Anhang I der
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden Fassung; im Sinne der unionsrechtlichen
+    Vorschriften über Schifferpatente für den Binnenschiffsgüter- und
+    -personenverkehr sind Seeschifffahrtsstraßen die Wasserstraßen der
+    Zonen 1 und 2 und Binnenwasserstraßen die Wasserstraßen der Zonen 3
+    und 4;
 
 
 2.  Fahrzeuge:
@@ -121,6 +122,12 @@ Im Sinne dieser Verordnung sind
 8.  Fahrgastschiffe:
 
     zur Beförderung von Fahrgästen zugelassene Schiffe;
+
+
+8a. Fahrgastboot:
+
+    zur Beförderung von Fahrgästen zugelassene Fahrzeuge, die keine
+    Fahrgastschiffe sind;
 
 
 9.  Schleppboote:
@@ -177,7 +184,7 @@ Vorschriften, die das Führen von
     Edertalsperre und der Diemeltalsperre,
 
 
-2.  Sportfahrzeugen mit einer Länge von weniger als 15 Metern auf
+2.  Sportfahrzeugen mit einer Länge von weniger als 20 Metern auf
     Wasserstraßen der Zonen 3 und 4,
 
 
@@ -194,9 +201,8 @@ regeln, bleiben unberührt.
 
 ### § 2a Vorübergehende Abweichungen
 
-Die Wasser- und Schifffahrtsdirektion West wird ermächtigt, auch für
-die Bezirke der anderen Wasser- und Schifffahrtsdirektionen, durch
-Rechtsverordnung zur Anpassung an die technische Entwicklung der
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
+durch Rechtsverordnung zur Anpassung an die technische Entwicklung der
 Binnenschifffahrt oder zu Versuchszwecken, durch die die Sicherheit
 und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden, von
 dieser Verordnung abweichende Vorschriften vorübergehend bis zur Dauer
@@ -213,8 +219,9 @@ Streckenabschnitte oder bestimmte Fahrzeugarten beschränkt.
 
 (3) Die Fahrerlaubnis wird, unbeschadet des § 5, durch ein
 Befähigungszeugnis nach dieser Verordnung (Anlagen 1 bis 8) und in den
-Fällen des § 7 Abs. 4 durch den Sportbootführerschein-See oder den
-Sportbootführerschein-Binnen nachgewiesen.
+Fällen des § 7 Abs. 4 durch den Sportbootführerschein mit dem
+Geltungsbereich Seeschifffahrtsstraßen oder dem Geltungsbereich
+Binnenschifffahrtsstraßen nachgewiesen.
 
 (4) Der Eigentümer oder, sofern ein Ausrüsterverhältnis besteht, der
 Ausrüster eines Fahrzeuges darf nicht anordnen oder zulassen, daß
@@ -250,10 +257,10 @@ Zonen 1 und 2 nach Maßgabe der Anlage 10.
     Länder mit einer Länge von nicht mehr als 25 Metern,
 
 
-2.  Dienstfahrzeugen des Zivil- und Katastrophenschutzes, der Wasser- und
-    Schiffahrtsverwaltung des Bundes, der Schiffahrtsverwaltung eines
-    Landes, eines Landeskriminalamtes, der Feuerwehr mit einer Länger von
-    weniger als 15 Metern
+2.  Dienstfahrzeugen des Zivil- und Katastrophenschutzes, der
+    Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der
+    Schifffahrtsverwaltung eines Landes, eines Landeskriminalamtes, der
+    Feuerwehr mit einer Länger von weniger als 20 Metern
 
 
 
@@ -261,7 +268,7 @@ die Inhaber eines amtlichen Berechtigungsscheines ihrer Dienst- oder
 Ausbildungsstelle. Dies gilt für die Inhaber eines
 Berechtigungsscheines einer als gemeinnützig anerkannten Körperschaft
 beim Führen von Wasserrettungsfahrzeugen mit einer Länge von weniger
-als 15 Metern entsprechend.
+als 20 Metern entsprechend.
 
 
 ### § 5 Geltung anderer Befähigungszeugnisse
@@ -269,7 +276,7 @@ als 15 Metern entsprechend.
 (1) Eine nach dieser Verordnung vorgeschriebene Fahrerlaubnis wird
 ersetzt durch ein gültiges oder eine gültige:
 
-1.  Befähigungszeugnis nach Maßgabe des § 28 Abs. 2 auf Grund der
+1.  Befähigungszeugnis nach Maßgabe des § 28 Absatz 1 auf Grund der
     Binnenschifferpatentverordnung vom 7. Dezember 1981 (BGBl. I S. 1333),
     die zuletzt durch § 7 Nr. 2 der Verordnung vom 7. Mai 1993 (BGBl. I S.
     741) geändert worden ist; soweit es bisher zum Befahren wenigstens
@@ -296,9 +303,8 @@ ersetzt durch ein gültiges oder eine gültige:
 
 
 5.
-    a)  nautisches Befähigungszeugnis auf Grund der Schiffsoffizier-
-        Ausbildungsverordnung in der Fassung der Bekanntmachung vom 15. Januar
-        1992 (BGBl. I S. 22, 227) in der jeweils geltenden Fassung,
+    a)  nautisches Befähigungszeugnis auf Grund der Vorschriften über die
+        Erteilung von Befähigungszeugnissen,
 
 
     b)  entsprechendes Befähigungszeugnis für Personen mit Wohnsitz außerhalb
@@ -317,7 +323,7 @@ ersetzt durch ein gültiges oder eine gültige:
 6.  Fahrerlaubnis nach der Sportbootführerscheinverordnung-Binnen vom 22.
     März 1989 (BGBl. I S. 536, 1102), zuletzt geändert durch Artikel 2 der
     Verordnung vom 8. Mai 2000 (BGBl. I S. 644), in der jeweils geltenden
-    Fassung nach Maßgabe des § 28 Abs. 3.
+    Fassung nach Maßgabe des § 28 Absatz 2.
 
 
 
@@ -352,20 +358,20 @@ Befähigungszeugnisse gleich. § 4 Abs. 1 Nr. 2 bleibt unberührt.
 
 ### § 6 Befreiungsmöglichkeiten
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann,
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann,
 unbeschadet des § 5 Abs. 1 Nr. 2 und des § 21, Inhaber von
 gleichwertigen Befreiungszeugnissen anderer Staaten vom Erfordernis
 der Fahrerlaubnis nach § 3 Abs. 1 befreien. Es gibt im Verkehrsblatt
 bekannt, für welche Wasserstraßen und Fahrzeugarten es als
 Befähigungszeugnis gilt.
 
-(2) Die örtlich zuständige Wasser- und Schiffahrtsdirektion kann
-Inhaber von Fahrerlaubnissen oder Befähigungszeugnissen nach Absatz 1
-oder § 5 das Führen eines Fahrzeuges auf der Teilstrecke einer
-Wasserstraße, auf der diese nicht gelten, allgemein erlauben, wenn die
-Teilstrecke infolge einer Umleitungsmaßnahme befahren werden muß.
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt kann Inhaber
+von Fahrerlaubnissen oder Befähigungszeugnissen nach Absatz 1 oder § 5
+das Führen eines Fahrzeuges auf der Teilstrecke einer Wasserstraße,
+auf der diese nicht gelten, allgemein erlauben, wenn die Teilstrecke
+infolge einer Umleitungsmaßnahme befahren werden muß.
 
-(3) Das örtlich zuständige Wasser- und Schiffahrtsamt kann
+(3) Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann
 
 1.  Personen ohne Fahrerlaubnis oder Befähigungszeugnis nach Absatz 1 oder
     § 5 das Führen von Fährnachen auf Wasserstraßen mit geringem Verkehr,
@@ -423,38 +429,35 @@ erteilt:
 
 
 *    *   C1
+        C2
 
-    *   Fahrzeuge mit einer Länge von weniger als
+    *   Fahrzeuge mit einer Länge von weniger als 35 m, ausgenommen
+
+        1.  zur Beförderung von mehr als zwölf Fahrgästen zugelassene
+            Fahrgastschiffe,
+
+
+        2.  zur Beförderung von mehr als zwölf Fahrgästen zugelassene
+            Fahrgastboote,
+
+
+        3.  Schub- und Schleppboote mit mehr als 73,6 kW (100 PS) Antriebsleistung
+
+
+
 
     *   1 bis 4
+        3, 4
 
     *   Schifferpatent C1
-
-
-*    *   C2
-
-    *   35 m, ausgenommen
-
-    *   3, 4
-
-    *   Schifferpatent C2
+        Schifferpatent C2
 
 
 *    *
-    *   1.
 
-    *   zur Beförderung von mehr als zwölf Fahrgästen zugelassene
-        Fahrgastschiffe,
+*    *
 
-    *
-    *
-
-*    *   2.
-
-    *   Schub- und Schleppboote mit mehr als 73,6 kW (100 PS) Antriebsleistung
-
-    *
-    *
+*    *
 
 *    *   D1
 
@@ -488,9 +491,11 @@ erteilt:
     *   Fähren
 
     *   1 bis 4, die im Fährführerschein eingetragen sind; ausgenommen:
-        Flensburger Förde, Kieler Förde, Trave unterhalb des Lübecker Hafens,
-        Elbe unterhalb des Hamburger Hafens, Weser unterhalb der
-        Eisenbahnbrücke in Bremen, Jade, Ems unterhalb des Emder Hafens
+        Flensburger Förde, Kieler Förde,
+        Trave unterhalb des Lübecker Hafens, Elbe, soweit diese zur Zone 2-See
+        im Sinne des Anhangs I der Binnenschiffsuntersuchungsordnung gehört,
+        Weser unterhalb der Eisenbahnbrücke
+        in Bremen, Jade, Ems unterhalb des Emdener Hafens
 
     *   Fährführerschein
 
@@ -499,7 +504,7 @@ erteilt:
 
 (2) Die Fahrerlaubnis und die Befähigungszeugnisse nach § 5 Abs. 1 Nr.
 1 bis 3 erstrecken sich auf das Führen von Fahrzeugen mit einer Länge
-von 15 Metern und mehr, von Fahrgastschiffen sowie von Schub- und
+von 20 Metern und mehr, von Fahrgastschiffen sowie von Schub- und
 Schleppbooten auf Wasserstraßen nach Anlage 9 oder Teilstrecken davon
 nur, wenn sie im Befähigungszeugnis vermerkt sind oder dessen Inhaber
 über ein Streckenzeugnis nach § 9 (Anlage 7) verfügt.
@@ -508,46 +513,68 @@ nur, wenn sie im Befähigungszeugnis vermerkt sind oder dessen Inhaber
 
 *    *   der Klasse(n)
 
-    *   schließen ein die Klasse(n)
+    *   schließen ein
 
+    *   die Klasse(n)
+
+    *
+    *
 
 *    *   A
 
+    *
     *   B bis F
 
+    *   F bezogen auf die Zonen 1 bis 4
+
+    *
 
 *    *   B
 
+    *
     *   C2, D2 bis F
 
+    *   F bezogen auf die Zonen 3 und 4
+
+    *
 
 *    *   C1
 
+    *
     *   C2, D1 bis F
 
+    *   F bezogen auf die Zonen 1 bis 4
+
+    *
 
 *    *   C2
 
+    *
     *   D2 bis F
 
+    *   F bezogen auf die Zonen 3 und 4
+
+    *
 
 *    *   D1, D2
 
+    *
     *   E.
 
+    *
+    *
 
 
 
-(4) Zum Führen von Fahrzeugen mit einer Länge von weniger als 15
-Metern, ausgenommen Fahrgastschiffe, Schub- und Schleppboote sowie
-Fähren, berechtigen auch
+   (4) Zum Führen von Fahrzeugen mit einer Länge von weniger als 20
+Metern, ausgenommen Fahrgastschiffe, Fahrgastboote, Schub- und
+Schleppboote sowie Fähren, berechtigen auch
 
 1.  auf Wasserstraßen der Zonen 1 und 2
 
-    a)  eine Fahrerlaubnis nach der Sportbootführerscheinverordnung-See vom
-        20\. Dezember 1973 (BGBl. I S. 1988), zuletzt geändert durch Artikel 3
-        der Verordnung vom 18. Dezember 1995 (BGBl. I S. 1938), in der jeweils
-        geltenden Fassung,
+    a)  eine Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach
+        der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016)
+        in der jeweils geltenden Fassung,
 
 
     b)  eine Fahrerlaubnis der Klasse F, wenn sie für wenigstens eine Strecke
@@ -559,9 +586,11 @@ Fähren, berechtigen auch
 
 2.  auf Wasserstraßen der Zonen 3 und 4
 
-    a)  eine Fahrerlaubnis für Sportboote mit Antriebsmaschine nach § 2 Abs. 1
-        oder ein Befähigungszeugnis nach § 4 der
-        Sportbootführerscheinverordnung-Binnen,
+    a)  eine Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem
+        Geltungsbereich Binnenschifffahrtsstraßen nach § 3 Absatz 1 oder ein
+        Befähigungszeugnis nach § 3 Absatz 4 der
+        Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016) in
+        der jeweils geltenden Fassung,
 
 
     b)  eine Fahrerlaubnis der Klasse F, wenn sie für wenigstens eine Strecke
@@ -572,6 +601,8 @@ Fähren, berechtigen auch
 
 
 
+Satz 1 Nummer 2 gilt nicht für Sportfahrzeuge, die zur Beförderung von
+Fahrgästen zugelassen sind.
 
 (5) Keiner Fahrerlaubnis nach Absatz 4 bedarf, wer
 
@@ -596,7 +627,7 @@ Fähren, berechtigen auch
 
 
 
-### § 8 Besondere Fahrerlaubnisarten Elbschifferpatent, Donaukapitänspatent
+### § 8 Besondere Fahrerlaubnisarten  Elbschifferpatent, Donaukapitänspatent
 
 (1) (weggefallen)
 
@@ -652,9 +683,11 @@ Befähigungszeugnisse.
 3.  zuverlässig sein;
 
 
-3a. der Klassen A bis C2 über ein Sprechfunkzeugnis nach Anhang 5 der
-    Regionalen Vereinbarung über den Binnenschifffahrtsfunk
-    (Bekanntmachung vom 28. August 2000, BGBl. II S. 1213) verfügen;
+3a. der Klassen A bis C2 und F, Klasse F soweit die Erteilung der
+    Fahrerlaubnis für eine Fähre mit Maschinenantrieb erteilt werden soll,
+    über ein Sprechfunkzeugnis nach Anhang 5 der Regionalen Vereinbarung
+    über den Binnenschifffahrtsfunk (Bekanntmachung vom 28. August 2000,
+    BGBl. II S. 1213) verfügen;
 
 
 4.  die erforderliche Befähigung in einer Prüfung (§ 18) nachgewiesen
@@ -687,7 +720,7 @@ eingetragen. Der Inhaber eines Befähigungszeugnisses nach § 5 oder § 6
 Abs. 1 hat darin eingetragene Auflagen zu beachten.
 
 
-### § 11 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Fahrzeit, Fahrleistungen
+### § 11 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis  Fahrzeit, Fahrleistungen
 
 (1) Der Bewerber muß eine Fahrzeit als Mitglied einer Decksmannschaft
 
@@ -794,39 +827,18 @@ entsprechend.
 
 
 
-### § 14 Zuständige Behörden
+### § 14 Zuständige Behörde
 
-(1) Zuständig für die Erteilung oder Erweiterung einer Fahrerlaubnis
-ist jede Wasser- und Schifffahrtsdirektion, soweit sich aus den
-Absätzen 2 bis 4 nichts anderes ergibt.
-
-(2) Zuständig für die Erteilung einer Fahrerlaubnis der Klassen A, C1
-und D1 oder die Erstreckung einer Fahrerlaubnis der Klassen B, C2 und
-D2 auf die Klasse A, C1 oder D1 sind die Wasser- und
-Schiffahrtsdirektionen Nord in Kiel und Nordwest in Aurich.
-
-(3) Zuständig für die Erteilung oder Erweiterung einer Fahrerlaubnis,
-die für eine nach § 7 Abs. 2 erlaubnispflichtige Wasserstraße oder
-Teilstrecke davon gelten soll, oder einer Fahrerlaubnis der Klasse F
-oder eines Streckenzeugnisses ist die für die Wasserstraße zuständige
-Wasser- und Schiffahrtsdirektion (Anlage 9).
-
-(4) Zuständig für die Erteilung oder Erweiterung einer Fahrerlaubnis
-der Klasse A oder B als Donaukapitänspatent ist die Wasser- und
-Schifffahrtsdirektion Süd in Würzburg.
-
-(5) Sind mehrere Behörden zuständig, so entscheidet die Behörde, die
-zuerst mit der Sache befaßt worden ist. Für die Erweiterung einer
-Fahrerlaubnis nach den Absätzen 2 bis 4 ist auch eine benachbarte
-Wasser- und Schifffahrtsdirektion zuständig.
+Zuständige Behörde im Sinne dieser Verordnung ist die Generaldirektion
+Wasserstraßen und Schifffahrt. § 6 bleibt unberührt.
 
 
 ### § 15 Prüfungsausschuß
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung einen
 oder mehrere Prüfungsausschüsse. Jeder Prüfungsausschuß besteht aus
-einem Vorsitzenden, der Angehöriger der Wasser- und
-Schiffahrtsverwaltung des Bundes ist, und mindestens zwei Beisitzern.
+einem Vorsitzenden, der Angehöriger der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes ist, und mindestens zwei Beisitzern.
 
 (2) Die Beisitzer sollen mindestens Inhaber der vom Bewerber
 beantragten Fahrerlaubnis oder des entsprechenden
@@ -889,10 +901,7 @@ an die zuständige Behörde zu richten:
 3.  die beantragten Strecken nach Anlage 9,
 
 
-4.  eine Erklärung darüber, ob er bereits einen Antrag auf Zulassung zur
-    Prüfung an eine andere Behörde gerichtet oder an einer Prüfung
-    teilgenommen hat; Entscheidungen nach § 18 Abs. 2 und von ihm bis zum
-    Tag der Prüfung veranlaßte Änderungen dieser Angaben sind mitzuteilen.
+4.  (weggefallen)
 
 
 
@@ -906,18 +915,18 @@ an die zuständige Behörde zu richten:
 2.  ein ärztliches Zeugnis, nicht älter als drei Monate, das
 
     a)  nach dem Muster der Anlage B2 der Schiffspersonalverordnung-Rhein von
-        einem Arzt des Arbeitsmedizinischen und Sicherheitstechnischen
-        Dienstes der Berufsgenossenschaft für Fahrzeughaltungen oder des
-        Arbeitsmedizinischen Dienstes der See-Berufsgenossenschaft, von einem
-        Betriebsarzt des Arbeitsmedizinischen Dienstes der Wasser- und
+        einer Ärztin oder einem Arzt, die oder der von der
+        Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+        Telekommunikation ermächtigt worden ist, von einer Ärztin oder einem
+        Arzt des betriebsärztlichen Dienstes der Wasserstraßen- und
         Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes
-        oder von einem Arzt eines hafenärztlichen Dienstes erteilt oder von
-        einer zuständigen Stelle eines anderen Rheinuferstaates oder Belgiens
-        ausgestellt oder
+        oder von einer Ärztin oder einem Arzt eines hafenärztlichen Dienstes
+        erteilt oder von einer zuständigen Stelle eines anderen
+        Rheinuferstaates oder Belgiens ausgestellt oder
 
 
     b)  von der Zentralkommission für die Rheinschifffahrt oder dem
-        Bundesministerium für Verkehr, Bau und Stadtentwicklung nach Maßgabe
+        Bundesministerium für Verkehr und digitale Infrastruktur nach Maßgabe
         des § 7.09 Nummer 3 Buchstabe b der Schiffspersonalverordnung-Rhein
         anerkannt
 
@@ -971,16 +980,15 @@ Erlaubnis mit Auflagen verbinden.
 nach § 10 Abs. 1 Nr. 1 bis 3 sowie nach den Absätzen 2 und 3 erfüllt
 sind.
 
-(7) Die zuständige Wasser- und Schifffahrtsdirektion kann einzelne
-Aufgaben ihren nachgeordneten Stellen übertragen.
+(7) Die zuständige Behörde kann einzelne Aufgaben ihren nachgeordneten
+Stellen übertragen.
 
 
 ### § 17 Nachweis der Fahrzeit, Fahrleistungen und Streckenfahrten
 
-(1) Die Fahrzeit und Fahrleistungen sowie die Streckenfahrten sind
-durch ein geprüftes Schifferdienstbuch nachzuweisen, das von einem
-Wasser- und Schiffahrtsamt oder einer zuständigen Behörde eines
-Rheinuferstaates oder Belgiens ausgestellt worden ist. Soweit ein
+(1) Die Fahrzeit und Fahrleistung sowie die Streckenfahrten sind durch
+ein geprüftes Schifferdienstbuch nach Maßgabe des § 3.09 Nummer 1 der
+Schiffspersonalverordnung für den Rhein nachzuweisen. Soweit ein
 Bewerber ein Schifferdienstbuch nach anderen Vorschriften nicht
 besitzen muß, kann er die Fahrzeit und die Streckenfahrten auch durch
 eine andere amtliche Urkunde seines Wohnsitzstaates nachweisen, die
@@ -1009,11 +1017,19 @@ Die Fahrzeit auf See ist durch ein Seefahrtbuch nachzuweisen.
 3 in dem Umfang nachgewiesen werden, wie sie für die Erteilung dieses
 Zeugnisses bereits nachgewiesen worden ist.
 
-(3) Soll die Zeit des Besuchs einer Schifferberufsschule auf die
+(3) Die Fahrzeit sowie die Streckenfahrten auf einem Fahrzeug im Sinne
+des § 19 Absatz 6 können bis zum Ablauf der Übergangsfrist nach § 34
+Absatz 1 Satz 1 der Binnenschiffsuntersuchungsordnung auch durch die
+Vorlage von Arbeitsverträgen, Bescheinigungen des Arbeitgebers oder
+eidesstattliche Versicherung nachgewiesen werden. Im Fall des
+Nachweises durch Arbeitsverträge oder Bescheinigungen des Arbeitgebers
+müssen hieraus mindestens die Namen der Fahrzeuge, auf denen die
+Fahrten geleistet wurden, die konkreten Fahrzeiten und die Art der
+Beschäftigung ersichtlich sein.
+
+(4) Soll die Zeit des Besuchs einer Schifferberufsschule auf die
 Fahrzeit angerechnet werden, muß das Zeugnis dieser Schule vorgelegt
 werden.
-
-(4) (weggefallen)
 
 
 ### § 18 Prüfung
@@ -1036,24 +1052,13 @@ nachzuweisen, daß er
 Die Prüfung besteht aus einem theoretischen und für den Erwerb einer
 Fahrerlaubnis der Klasse E oder F auch aus einem praktischen Teil.
 Näheres zum Prüfungsverfahren wird durch Richtlinien des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung geregelt, die
-im Verkehrsblatt zu veröffentlichen sind.
+Bundesministeriums für Verkehr und digitale Infrastruktur geregelt,
+die im Verkehrsblatt zu veröffentlichen sind.
 
 (2) Besteht ein Bewerber die Prüfung nicht, kann er sie frühestens
-nach drei Monaten wiederholen. Der Prüfungsausschuß kann diese Frist
+nach zwei Monaten wiederholen. Der Prüfungsausschuß kann diese Frist
 verlängern; er kann die erneute Teilnahme an einer Prüfung mit
 Auflagen oder Bedingungen verbinden oder dafür Befreiungen gewähren.
-Jede Wasser- und Schifffahrtsdirektion teilt die Versagung der
-
-1.  Zulassung zur Prüfung, sofern sie mit Auflagen oder Bedingungen
-    verbunden worden ist, oder
-
-
-2.  Erteilung einer Fahrerlaubnis
-
-
-
-den übrigen Wasser- und Schifffahrtsdirektionen unverzüglich mit.
 
 
 ### § 19 Befreiungen und Erleichterungen
@@ -1062,7 +1067,9 @@ den übrigen Wasser- und Schifffahrtsdirektionen unverzüglich mit.
 Ausbildungsberufen Binnenschiffer, Hafenschiffer oder
 Schiffsmechaniker oder eine andere berufsbezogene Abschlußprüfung
 bestanden hat, kann von dem Teil der Prüfung befreit werden, der sich
-auf berufliche Fertigkeiten bezieht.
+auf berufliche Fertigkeiten bezieht. Satz 1 gilt nur, sofern der
+Bewerber in den letzten fünf Jahren vor Stellung des Antrages zur
+Zulassung zur Prüfung nachweislich im erlernten Beruf tätig war.
 
 (2) Ein Bewerber um eine Fahrerlaubnis der Klasse E, der Inhaber einer
 Fahrerlaubnis oder eines Befähigungszeugnisses nach § 7 Abs. 4 ist
@@ -1087,6 +1094,12 @@ Eingang des Antrags auf Erteilung einer neuen Fahrerlaubnis von der
 Prüfung ganz oder teilweise absehen, insbesondere wenn keine Zweifel
 an der noch vorhandenen Befähigung bestehen.
 
+(6) Abweichend von § 11 Absatz 3 können Fahrzeiten auch auf einem
+Sportboot, das am 31. Dezember 2015 über ein Bootszeugnis nach § 3
+Absatz 1 Satz 2 der Binnenschifffahrt-Sportbootvermietungsverordnung
+verfügt hat und nachweislich auch mit Gestellung des Bootsführers
+vermietet worden ist, geleistet werden.
+
 
 ### § 20 Erteilung einer Erlaubnis
 
@@ -1110,7 +1123,7 @@ anderen Bescheid ergibt.
 
 Gegen Vorlage eines
 
-1.  vom Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund
+1.  vom Bundesministerium für Verkehr und digitale Infrastruktur auf Grund
     zwischenstaatlicher Abkommen oder auf Grund des § 6 Abs. 1 als
     gleichwertig anerkannten Befähigungszeugnisses,
 
@@ -1123,9 +1136,7 @@ wird dem Inhaber auf Antrag ohne Ablegung einer Prüfung eine
 Fahrerlaubnis der entsprechenden Klasse erteilt und ein
 Befähigungszeugnis ausgestellt. Darin eingetragene Auflagen oder
 Beschränkungen werden auch in das auszustellende Befähigungszeugnis
-eingetragen. Eine Fahrerlaubnis der Klasse E wird im Falle des § 5
-Abs. 1 Nr. 6 auf das Führen von Fahrzeugen mit einer Wasserverdrängung
-von weniger als 15 Kubikmeter beschränkt.
+eingetragen.
 
 
 ### § 22 Ersatzausfertigung
@@ -1167,23 +1178,16 @@ der Entziehung angeordnet worden ist.
 Bedingungen verbinden oder für die Neuerteilung der Fahrerlaubnis
 Fristen festsetzen.
 
-(5a) Die zuständige Behörde teilt die Entziehung der Fahrerlaubnis den
-übrigen Wasser- und Schifffahrtsdirektionen und, sofern der Inhaber
-des Befähigungszeugnisses seine Verpflichtung nach Absatz 4 nicht
-erfüllt hat, auch den Wasserschutzpolizeien der Länder unverzüglich
-mit. Die übrigen Wasser- und Schifffahrtsdirektionen und die
-Wasserschutzpolizeien der Länder teilen der zuständigen Behörde die
-ihnen bekannten Tatsachen mit, die eine Entziehung rechtfertigen
-können.
+(5a) (weggefallen)
 
-(6) Zuständig für die Entziehung einer Fahrerlaubnis ist die Wasser-
-und Schifffahrtsdirektion, die die Erlaubnis erteilt hat oder dem
-Wasser- und Schifffahrtsamt, das die Erlaubnis erteilt hat,
-übergeordnet ist. Dies gilt auch, wenn die Erlaubnis durch ein
-umgetauschtes Befähigungszeugnis oder eine Ersatzausfertigung
-nachgewiesen wird.
+(6) Die zuständige Behörde teilt die Entziehung der Fahrerlaubnis den
+Wasserschutzpolizeien der Länder mit, sofern der Inhaber des
+Befähigungszeugnisses seine Verpflichtung nach Absatz 4 nicht erfüllt
+hat. Die Wasserschutzpolizeien der Länder teilen der zuständigen
+Behörde die ihnen bekannten Tatsachen mit, die eine Entziehung der
+Fahrerlaubnis rechtfertigen können.
 
-(7) Die Absätze 1 bis 5a gelten für Befähigungszeugnisse nach § 5 Abs.
+(7) Die Absätze 1 bis 6 gelten für Befähigungszeugnisse nach § 5 Abs.
 1 Nr. 1 entsprechend.
 
 
@@ -1215,8 +1219,8 @@ Seediensttauglichkeit; die Sätze 2 und 3 sind nicht anzuwenden.
 
 (2) Der Inhaber einer Fahrerlaubnis nach § 3 Abs. 1 oder eines
 Befähigungszeugnisses nach § 5 Abs. 1 Nr. 1 darf ein Fahrzeug nicht
-führen, wenn die nach § 23 Abs. 6 zuständige Behörde das Ruhen der
-Erlaubnis vollziehbar angeordnet hat.
+führen, wenn die zuständige Behörde das Ruhen der Erlaubnis
+vollziehbar angeordnet hat.
 
 (3) Sie kann das Ruhen der Erlaubnis befristet anordnen, wenn bei dem
 Inhaber einer Fahrerlaubnis oder eines Befähigungszeugnisses nach § 5
@@ -1239,7 +1243,9 @@ hat, eine Geldbuße festgesetzt worden ist. Davon ist in der Regel
 auszugehen, wenn die Geldbuße wegen einer Ordnungswidrigkeit
 festgesetzt worden ist, weil der Betroffene mehrfach
 
-1.  mit einer Blutalkoholkonzentration von 0,8 Promille oder mehr ein
+1.  mit 0,25 mg/l oder mehr Alkohol in der Atemluft oder mit 0,5 Promille
+    oder mehr Alkohol im Blut oder mit einer Alkoholmenge im Körper, die
+    zu einer solchen Atem- oder Blutalkoholkonzentration führt, ein
     Fahrzeug geführt hat,
 
 
@@ -1258,13 +1264,12 @@ festgesetzt worden ist, weil der Betroffene mehrfach
 (6) In den Fällen des § 5 Abs. 1 Nr. 2 und 3, Abs. 3 und 4, § 6 Abs. 1
 Satz 1 oder wenn eine Erlaubnis zum Führen von Fahrzeugen nach dieser
 Verordnung oder der Sportbootführerscheinverordnung-Binnen nicht
-vorgeschrieben ist, kann die Wasser- und Schiffahrtsdirektion Mitte in
-Hannover das unbefristete Ruhen der Erlaubnis anordnen, wenn die
-Voraussetzungen des § 23 Abs. 1 oder 2 vorliegen. Sie kann das
-befristete Ruhen der Erlaubnis nach Maßgabe der Absätze 3 bis 5
-anordnen. Sie darf die Anordnung über das befristete Ruhen der
-Erlaubnis nur aufheben, wenn die Voraussetzungen des § 10 Abs. 1 Nr. 2
-und 3 erfüllt sind. Absatz 2 gilt entsprechend.
+vorgeschrieben ist, kann die zuständige Behörde das unbefristete Ruhen
+der Erlaubnis anordnen, wenn die Voraussetzungen des § 23 Abs. 1 oder
+2 vorliegen. Sie kann das befristete Ruhen der Erlaubnis nach Maßgabe
+der Absätze 3 bis 5 anordnen. Sie darf die Anordnung über das
+befristete Ruhen der Erlaubnis nur aufheben, wenn die Voraussetzungen
+des § 10 Abs. 1 Nr. 2 und 3 erfüllt sind. Absatz 2 gilt entsprechend.
 
 (7) Der Inhaber eines Befähigungszeugnisses hat es der zuständigen
 Behörde spätestens mit der Vollziehbarkeit der Anordnung
@@ -1282,9 +1287,7 @@ von dem Tag an berechnet, an dem das Befähigungszeugnis vorgelegt
 wird.
 
 (8) Die zuständige Behörde teilt die Anordnung über das Ruhen der
-Erlaubnis den übrigen Wasser- und Schifffahrtsdirektionen und den
-Wasserschutzpolizeien der Länder, im Falle des Absatzes 6 auch der
-ausstellenden Behörde, mit, wenn
+Erlaubnis den Wasserschutzpolizeien der Länder mit, wenn
 
 1.  der Inhaber des Befähigungszeugnisses seiner Verpflichtung nach Absatz
     7 nicht innerhalb einer Woche, nachdem die Anordnung vollziehbar
@@ -1304,11 +1307,12 @@ ausstellenden Behörde, mit, wenn
 (1) Sind dringende Gründe für die Annahme vorhanden, dass eine
 Erlaubnis entzogen (§ 23) oder deren Ruhen angeordnet (§ 24 Abs. 2
 oder 6) wird, so kann das Befähigungszeugnis durch die
-Wasserschutzpolizeien der Länder oder durch die nach § 23 Abs. 6, § 24
-Abs. 2 zuständige Behörde vorläufig sichergestellt werden.
+Wasserschutzpolizeien der Länder oder durch die zuständige Behörde
+vorläufig sichergestellt werden. Bis zu einer Entscheidung nach Satz 1
+gilt die Anordnung der Sicherstellung zugleich als Anordnung nach § 24
+Absatz 2.
 
-(2) Ein vorläufig sichergestelltes Befähigungszeugnis ist der für die
-Entscheidung nach § 23 Abs. 1 und 2 oder nach § 24 Abs. 3 und 6
+(2) Ein vorläufig sichergestelltes Befähigungszeugnis ist der
 zuständigen Behörde unter Angabe der Gründe unverzüglich zur amtlichen
 Verwahrung zu übergeben.
 
@@ -1364,16 +1368,7 @@ fahrlässig
 
 ### § 28 Übergangsvorschriften
 
-(1) Wer bei Inkrafttreten der Verordnung bereits das Alter für
-Wiederholungsuntersuchungen nach § 24 Abs. 1 erreicht hat, muß seine
-Tauglichkeit bis zum nächsten vorgeschriebenen Untersuchungstermin
-überprüfen lassen. Dabei darf Inhabern eines Befähigungszeugnisses
-nach § 5 Abs. 1 Nr. 1 der Anomalquotient beim
-Farbunterscheidungsvermögen 0,7 bis 3,0 betragen. Bei der ersten
-Erneuerung des Nachweises der Tauglichkeit wird ein Patent nach dem
-jeweiligen Muster der Anlagen 1 bis 5 ausgestellt.
-
-(2) Befähigungszeugnisse nach § 5 Abs. 1 Nr. 1 entsprechen folgenden
+(1) Befähigungszeugnisse nach § 5 Abs. 1 Nr. 1 entsprechen folgenden
 Fahrerlaubnisklassen:
 
 *    *   Befähigungszeugnisse nach § 5 Abs. 1 Nr. 1
@@ -1427,14 +1422,12 @@ Fahrerlaubnisklassen:
 
 
 
-(3) Eine vor Inkrafttreten dieser Verordnung erteilte Fahrerlaubnis
+(2) Eine vor Inkrafttreten dieser Verordnung erteilte Fahrerlaubnis
 nach § 5 Abs. 1 Nr. 6 für Sportboote mit Antriebsmaschine entspricht
 einer Fahrerlaubnis der Klasse E, soweit die Wasserverdrängung des
 geführten Sportbootes weniger als 15 Kubikmeter beträgt.
 
-(4) Fahrzeiten und Streckenfahrten, die vor Inkrafttreten dieser
-Verordnung geleistet wurden, werden nach Maßgabe der bisherigen
-Vorschriften angerechnet.
+(3) (weggefallen)
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
@@ -1443,743 +1436,1523 @@ Vorschriften angerechnet.
 
 (2)
 
+Muster des Schifferpatentes
+(85 mm x 54 mm – Grundfarbe blau,
 
-### Anlage 1 Muster des Schifferpatentes (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
+### Anlage 1 entsprechend ISO-Norm 78.10)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 3080
-----------------------------------------------------------------------
---
-I Schifferpatent                                 Bundesrepublik
-I
-I für die Binnenschiffahrt:                        Deutschland
-I
-I A/B                                        Wasser- und Schiffahrts-
-I
-I                                                 direktion xxx
-I
-I  1. xxx
-I
-I  2. xxx
-... (Bundesadler)    I
-I  3. 01.01.1960 - D - Duisburg
-I
-I  4. 02.01.1998                              6. ---------
-I
-I                                                I       I
-I
-I  7. ###                                        I       I
-I
-I  8. AB                                         I       I
-I
-I  9. R, Tonnen, kW, > 1600                      I       I
-I
-I 10. 31.12.2009                                 I       I
-I
-I 11.                                            ---------
-I
-I                                             5. xxx
-I
-----------------------------------------------------------------------
---
-----------------------------------------------------------------------
---
-I Schifferpatent für den Binnenschiffsgüter- und -personenverkehr
-I
-I
-I
-I  1. Name des Inhabers                 9. - R (Radar)
-I
-I  2. Vorname(n)                           - Klasse und Tragfähigkeit
-I
-I  3. Geburtsdatum und -ort                  des Schiffes, für die
-I
-I  4. Ausstellungsdatum des                  das Patent gilt (Tonnen,
-I
-I     Patentes                               kW, mehr als 1600
-I
-I  5. Ausstellungsnummer                     Fahrgäste)
-I
-I  6. Lichtbild des Inhabers           10. Ungültigkeitsdatum
-I
-I  7. Unterschrift des Inhabers        11. Vermerk(e)
-I
-I  8. A Alle Wasserstraßen                 Einschränkungen
-I
-I       außer dem Rhein                    Wasserstraßen mit
-I
-I     B Alle Wasserstraßen                 besonderer Streckenkenntnis
-I
-I       außer Seeschiffahrts-
-I
-I       straßen und dem Rhein
-I
-----------------------------------------------------------------------
---
+(Fundstelle: BGBl. I 2016, 2965)
 
 
-### Anlage 2 Muster des Schifferpatentes C (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
+*    *   SCHIFFERPATENT
+        FÜR DIE BINNENSCHIFFFAHRT
+        **A/B**
 
-Fundstelle des Originaltextes: BGBl. I 1997, 3081
-----------------------------------------------------------------------
---
-I Schifferpatent                                 Bundesrepublik
-I
-I für die Binnenschiffahrt:                        Deutschland
-I
-I C1/C2                                      Wasser- und Schiffahrts-
-I
-I                                                 direktion xxx
-I
-I  1. xxx
-I
-I  2. xxx
-... (Bundesadler)    I
-I  3. 01.01.1960 - D - Duisburg
-I
-I  4. 02.01.1998                              6. ---------
-I
-I                                                I       I
-I
-I  7. ###                                        I       I
-I
-I  8. C1C2                                       I       I
-I
-I  9. R, < 35 m,
-<= 12                        I       I             I
-I 10. 31.12.2009                                 I       I
-I
-I 11.                                            ---------
-I
-I                                             5. xxx
-I
-----------------------------------------------------------------------
---
-----------------------------------------------------------------------
---
-I Schifferpatent für den Binnenschiffsgüter- und -personenverkehr
-I
-I
-I
-I  1. Name des Inhabers                 9. - R (Radar)
-I
-I  2. Vorname(n)                           - Fahrzeuge mit weniger
-I
-I  3. Geburtsdatum und -ort                  als 35 m Länge, nicht
-I
-I  4. Ausstellungsdatum des                  mehr als 12 Fahrgäste
-I
-I     Patentes                         10. Ungültigkeitsdatum
-I
-I  5. Ausstellungsnummer               11. Vermerk(e)
-I
-I  6. Lichtbild des Inhabers               Einschränkungen
-I
-I  7. Unterschrift des Inhabers            Wasserstraßen mit
-I
-I  8. C1 Alle Wasserstraßen                besonderer Streckenkenntnis
-I
-I        außer dem Rhein
-I
-I     C2 Alle Wasserstraßen
-I
-I        außer Seeschiffahrts-
-I
-I        straßen und dem Rhein
-I
-----------------------------------------------------------------------
---
+    *   BUNDESREPUBLIK DEUTSCHLAND
+        Generaldirektion Wasserstraßen
+        **und Schifffahrt**
 
 
-### Anlage 3 Muster des Feuerlöschbootpatentes (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
+*    *   1.
 
-Fundstelle des Originaltextes: BGBl. I 1997, 3082
-----------------------------------------------------------------------
---
-I Feuerlöschbootpatent:                          Bundesrepublik
-I
-I D1/D2                                            Deutschland
-I
-I                                            Wasser- und Schiffahrts-
-I
-I                                                 direktion xxx
-I
-I  1. xxx
-I
-I  2. xxx
-... (Bundesadler)    I
-I  3. 01.01.1960 - D - Duisburg
-I
-I  4. 02.01.1998                              6. ---------
-I
-I                                                I       I
-I
-I  7. ###                                        I       I
-I
-I  8. D1D2                                       I       I
-I
-I  9. R, F                                       I       I
-I
-I 10. 31.12.2009                                 I       I
-I
-I 11.                                            ---------
-I
-I                                             5. xxx
-I
-----------------------------------------------------------------------
---
-----------------------------------------------------------------------
---
-I                     Feuerlöschbootpatent
-I
-I
-I
-I  1. Name des Inhabers                 9. - R (Radar)
-I
-I  2. Vorname(n)                           - F (Feuerlöschboote und
-I
-I  3. Geburtsdatum und -ort                    Fahrzeuge des Zivil-
-I
-I  4. Ausstellungsdatum des                    und Katastrophen-
-I
-I     Patentes                                 schutzes)
-I
-I  5. Ausstellungsnummer               10. Ungültigkeitsdatum
-I
-I  6. Lichtbild des Inhabers           11. Vermerk(e)
-I
-I  7. Unterschrift des Inhabers            Einschränkungen
-I
-I  8. D1 Alle Wasserstraßen                Wasserstraßen mit
-I
-I        außer dem Rhein                   besonderer Streckenkenntnis
-I
-I     D2 Alle Wasserstraßen
-I
-I        außer Seeschiffahrts-
-I
-I        straßen und dem Rhein
-I
-----------------------------------------------------------------------
---
+    *   xxx
 
+    *
 
-### Anlage 4 Sportschifferzeugnis (85 mm x 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
+*    *   2.
 
-Fundstelle des Originaltextes: BGBl. I 1997, 3083
-----------------------------------------------------------------------
---
-I Sportschifferzeugnis:                          Bundesrepublik
-I
-I E                                                Deutschland
-I
-I                                            Wasser- und Schiffahrts-
-I
-I                                                 direktion xxx
-I
-I  1. xxx
-I
-I  2. xxx
-... (Bundesadler)    I
-I  3. 01.01.1960 - D - Duisburg
-I
-I  4. 02.01.1998                              6. ---------
-I
-I                                                I       I
-I
-I  7. ###                                        I       I
-I
-I  8. E                                          I       I
-I
-I  9. R, S                                       I       I
-I
-I 10. 31.12.2009                                 I       I
-I
-I 11.                                            ---------
-I
-I                                             5. xxx
-I
-----------------------------------------------------------------------
---
-----------------------------------------------------------------------
---
-I                        Sportschifferzeugnis
-I
-I
-I
-I  1. Name des Inhabers                 9. - R (Radar)
-I
-I  2. Vorname(n)                           - S (Sportfahrzeuge mit
-I
-I  3. Geburtsdatum und -ort                    weniger als 25 m
-I
-I  4. Ausstellungsdatum des                    Länge)
-I
-I     Patentes                         10. Ungültigkeitsdatum
-I
-I  5. Ausstellungsnummer               11. Vermerk(e)
-I
-I  6. Lichtbild des Inhabers               Einschränkungen
-I
-I  7. Unterschrift des Inhabers            Wasserstraßen mit
-I
-I  8. E Alle Wasserstraßen                 besonderer Streckenkenntnis
-I
-I       außer Seeschiffahrts-
-I
-I       straßen und dem Rhein
-I
-I
-I
-I
-I
-----------------------------------------------------------------------
---
+    *   xxx
+
+    *
+    *   (Bundesadler)
+
+    *
+
+*    *   3.
+
+    *   01.01.1960 -D- Duisburg
+
+    *
+    *
+    *
+
+*    *   4.
+
+    *   02.01.1998
+
+    *
+    *
+    *
+
+*    *   7.
+
+    *   ###
+
+    *   6.
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   8.
+
+    *   AB
+
+    *
+    *
+
+*    *   9.
+
+    *   R, Tonnen, kW,* 1 600
+
+    *
+    *
+    *
+
+*    *   10.
+
+    *   31.12.2009
+
+    *
+    *
+    *
+
+*    *   11.
+
+    *
+    *   5.
+
+    *   xxx
+
+    *
 
 
-### Anlage 5 Fährführerschein (85 mm x 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
-
-Fundstelle des Originaltextes: BGBl. I 1997, 3084;
-bzgl. der einzelnen Änderungen vgl. Fußnote
-----------------------------------------------------------------------
---
-I Fährführerschein:                              Bundesrepublik
-I
-I F                                                Deutschland
-I
-I                                                  Wasser- und
-I
-I                                              Schifffahrtsdirektion
-xxx
-I  1. xxx
-I
-I  2. xxx
-... (Bundesadler)    I
-I  3. 01.01.1960 - D - Duisburg
-I
-I  4. 02.01.1998                              6. ---------
-I
-I                                                I       I
-I
-I  7. ###                                        I       I
-I
-I  8. F, Strom-km                                I       I
-I
-I  9. R, -                                       I       I
-I
-I 10. 31.12.2009                                 I       I
-I
-I 11.                                            ---------
-I
-I                                             5. xxx
-I
-----------------------------------------------------------------------
---
-----------------------------------------------------------------------
---
-I                         Fährführerschein
-I
-I
-I
-I  1. Name des Inhabers                 9. - R (Radar)
-I
-I  2. Vorname(n)                           - Fähren
-I
-I  3. Geburtsdatum und -ort            10. Ungültigkeitsdatum
-I
-I  4. Ausstellungsdatum des            11. Vermerk(e)
-I
-I     Patentes                             Einschränkungen
-I
-I  5. Ausstellungsnummer                   Wasserstraßen mit
-I
-I  6. Lichtbild des Inhabers               besonderer Streckenkenntnis
-I
-I  7. Unterschrift des Inhabers
-I
-I  8. F Die eingetragene
-I
-I       Fährstrecke
-I
-I
-I
-I
-I
-I
-I
-----------------------------------------------------------------------
---
 
 
-### Anlage 6
-
-Fundstelle des Originaltextes: BGBl. I 1997, 3085
-Ausstellende Behörde
-....................
-**Vorläufiges Patent/Vorläufiger Fährführerschein\*)**
-(nur gültig im Zusammenhang mit einem Personalausweis oder Reisepaß)
-Schifferpatent A/B\*)/Schifferpatent C1/C2\*)/Feuerlöschbootpatent
-D1/D2\*)/
-**Sportschifferzeugnis\*)/Fährführerschein\*)**
-Herr\*)/Frau\*) ............................     .....................
-(Name)                       (Vorname)
-Geburtsdatum: ......................
-Geburtsort: .................................     Staat:
-....................
-ist Inhaber/in\*) der oben angegebenen Fahrerlaubnis
-und für die Bundeswasserstraße Elbe/Donau/Weser/Oder/Untere
-Havelwasserstraße/Saale\*)
-für den Streckenabschnitt von km ....... bis km .......\*)
-für die Fährstrecke auf der Bundeswasserstraße
-..............................
-vom km ....... bis km .......\*).
-Dieses vorläufige Befähigungszeugnis gilt bis zum Erhalt des
-Zeugnisses
-für die o.a. Fahrerlaubnis, jedoch nicht länger als drei Monate nach
-seinem
-Ausstellungsdatum.
-.....................................
-(Ausstellungsort)
-.....................................
-(Ausstellungsdatum)
-........................................
-(Unterschrift des Inhabers/der Inhaberin)
-.....................................
-(Stempel/Unterschrift der
-ausstellenden Behörde)
-----------
-\*) Nichtzutreffendes streichen.
+*    *   SCHIFFERPATENT FÜR DEN BINNENSCHIFFSGÜTER- UND -PERSONENVERKEHR
 
 
-### Anlage 7 Streckenzeugnis
+*    *   1.
 
-Fundstelle des Originaltextes: BGBl. I 1997, 3086
-(Außenseiten)
-----------------------------------------------------------------------
-----
-I Dieses Streckenzeugnis gilt nur in  I
-I
-I Verbindung mit dem auf den gleichen I    Bundesrepublik Deutschland
-I
-I Namen lautenden                     I
-I
-I                                     I
-I
-I Rhein(schiffer)patent  vom .......  I
-I
-I                        Nr. .......  I
-I
-I                                     I
-I
-I Schifferpatent         vom .......  I
-I
-I                        Nr. .......  I
-... (Bundesadler)        I
-I                                     I
-I
-I Donaukapitänspatent    vom .......  I
-I
-I                        Nr. .......  I          Streckenzeugnis
-I
-I                                     I
-I
-I Elbschifferpatent      vom .......  I
-I
-I                        Nr. .......  I
-I
-I                                     I
-I
-I Schifferausweis/       vom .......  I
-I
-I Schifferpatent C1/C2   Nr. .......  I
-I
-I                                     I
-I
-I Sportschifferzeugnis   vom .......  I
-I
-I                        Nr. .......  I
-I
-I                                     I
-I
-I Fährführerschein       vom .......  I
-I
-I                        Nr. .......  I
-I
-I                                     I
-I
-I Befähigungszeugnis anderer Art      I
-I
-I                                     I
-I
-I .....................  vom .......  I
-I
-I (Bezeichnung)          Nr. .......  I
-I
-I                                     I
-I
-I für die darin genannte Fahrzeugart  I
-I
-I und -größe.                         I
-I
-I                                     I          Nr. ................
-I
-I                                     I
-I
-I                                     I
-I
-----------------------------------------------------------------------
-----
-(Innenseiten)
-----------------------------------------------------------------------
-----
-I Herr                                I
-I
-I Frau .............................  I
-I
-I      (Vor- und Familienname)        I      ----------------------
-I
-I                                     I      I                    I
-I
-I geboren am/in ....................  I      I                    I
-I
-I               ....................  I      I    Lichtbild des   I
-I
-I                                     I      I      Inhabers      I
-I
-I erhält die Erlaubnis zur Fahrt auf  I      I                    I
-I
-I folgenden Wasserstraßen der Zonen   I      I    35 mm x 45 mm   I
-I
-I 3 und 4 (§ 7 Abs. 2, § 9 und Anlage I      I                    I
-I
-I 9 der Binnenschifferpatent-         I      I                    I
-I
-I verordnung):                        I      I                    I
-I
-I                                     I      I                    I
-I
-I 1. ............................     I      I                    I
-I
-I    von km ..... bis km .....        I      I                    I
-I
-I                                     I      I                    I
-I
-I 2. ............................     I      ----------------------
-I
-I    von km ..... bis km .....        I
-I
-I                                     I
-I
-I 3. ............................     I
-............................... I
-I    von km ..... bis km .....        I (Eigenhändige Unterschrift des
-I
-I                                     I Inhabers)
-I
-I 4. ............................     I
-I
-I    von km ..... bis km .....        I
-............................... I
-I                                     I (Ort und Datum der
-Ausstellung)  I
-I 5. ............................     I
-I
-I    von km ..... bis km .....        I Wasser- und
-Schiffahrtsdirektion I
-I                                     I
-............................... I
-I 6. ............................     I
-I
-I    von km ..... bis km .....        I Im Auftrag
-..................... I
-I                                     I            (Unterschrift)
-I
-I                                     I
-I
-----------------------------------------------------------------------
-----
+    *   Name des Inhabers
 
 
-### Anlage 8 Donaukapitänspatent
+*    *   2.
 
-Fundstelle des Originaltextes: BGBl. I 1997, 3087
-(Außenseiten)
-----------------------------------------------------------------------
-----
-I      Erweiterungen/Extensions       I
-I
-I                                     I   BUNDESREPUBLIK DEUTSCHLAND
-I
-I Die Fahrerlaubnis ist erweitert     I
-I
-I worden:                             I REPUBLIQUE FEDERALE
-D'ALLEMAGNE  I
-I La validite du certificat present   I
-I
-I ete etendue:                        I
-I
-I 1. auf den Donauabschnitt/          I
-I
-I    au secteur du Danube             I
-I
-I    von/du km .... bis/au km ....    I
-I
-I                                     I
-I
-I    ..........................       I
-I
-I    (Ort und Datum der Erweiterung/  I
-... (Bundesadler)        I
-I    Lieu et date de l'octroi de      I
-I
-I    l'extension)                     I
-I
-I                                     I
-I
-I 2. auf den Donauabschnitt/          I
-I
-I    au secteur du Danube             I
-I
-I    von/du km .... bis/au km ....    I
-I
-I                                     I
-I
-I    ..........................       I       Donaukapitänspatent
-I
-I    (Ort und Datum der Erweiterung/  I
-I
-I    Lieu et date de l'octroi de      I
-I
-I    l'extension)                     I
-I
-I                                     I           CERTIFICAT
-I
-I 3. auf den Donauabschnitt/          I     de conducteur de bateau
-I
-I    au secteur du Danube             I          sur le Danube
-I
-I    von/du km .... bis/au km ....    I
-I
-I                                     I
-I
-I    ..........................       I
-I
-I    (Ort und Datum der Erweiterung/  I
-I
-I    Lieu et date de l'octroi de      I
-I
-I    l'extension)                     I
-I
-I                                     I
-I
-I 4. auf den Donauabschnitt/          I
-I
-I    au secteur du Danube             I
-I
-I    von/du km .... bis/au km ....    I
-I
-I                                     I
-I
-I    ..........................       I
-I
-I    (Ort und Datum der Erweiterung/  I
-I
-I    Lieu et date de l'octroi de      I
-I
-I    l'extension)                     I
-I
-I                                     I          Nr. ................
-I
-I                                     I
-I
-I                                     I
-I
-----------------------------------------------------------------------
-----
-(Innenseiten)
-----------------------------------------------------------------------
-----
-I Herr                                I geboren am/in
-.................  I
-I Frau .............................  I lieu et date de naissance
-I
-I      (Vor- und Familienname)        I -------------------
-............ I
-I      (Prenom et nom)                I I                 I
-Eigenhändige I
-I                                     I I                 I
-Unterschrift I
-I erhält die Erlaubnis zur Fahrt (§ 8 I I  Lichtbild des  I Signature
-de I
-I Abs. 2 der Binnenschifferpatent-    I I    Inhabers     I titulaire
-I
-I verordnung) auf der:                I I                 I
-I
-I                                     I I  35 mm X 45 mm  I
-I
-I est autorise, conformement aux      I I                 I
-I
-I regles relatives a la delivrance    I I                 I
-I
-I des certificats de conducteur de    I I                 I
-I
-I bateau arretees par les autorites   I I                 I
-I
-I competentes de la Republique        I I                 I
-I
-I federale d'Allemagne compte tenu    I I                 I
-I
-I des dispositions des                I I                 I
-I
-I "Recommandations sur les            I -------------------
-I
-I prescriptions relatives a la        I
-I
-I delivrance des certificats de       I
-I
-I bateau de navigation interieure sur I
-I
-I le Danube" a la Commission du       I
-I
-I Danube, a conduire des batiments    I
-I
-I sur le                              I
-I
-I                                     I Wasser- und
-Schiffahrtsdirektion I
-I Donau/Danube                        I
-I
-I                                     I               Süd
-I
-I    von/du km .... bis/au km ....    I
-I
-I                                     I
-............................... I
-I ................................... I
-I
-I  (Ort und Datum der Ausstellung)    I Im Auftrag
-..................... I
-I  (Lieu et date de delivrance)       I               (Unterschrift)
-I
-I                                     I
-I
-I Amtliche Vermerke/observations:     I
-I
-I                                     I
-I
-I                                     I
-I
-----------------------------------------------------------------------
-----
+    *   Vorname(n)
+
+
+*    *   3.
+
+    *   Geburtsdatum und -ort
+
+
+*    *   4.
+
+    *   Ausstellungsdatum des Patentes
+
+
+*    *   5.
+
+    *   Ausstellungsnummer
+
+
+*    *   6.
+
+    *   Lichtbild des Inhabers
+
+
+*    *   7.
+
+    *   Unterschrift des Inhabers
+
+
+*    *   8.
+
+    *   A Alle Wasserstraßen außer dem Rhein
+
+
+*    *
+    *   B Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
+
+
+*    *   9.
+
+    *   –
+
+    *   R (Radar)
+
+
+*    *
+    *   –
+
+    *   Klasse und Tragfähigkeit des Schiffes, für die das Patent gilt
+        (Tonnen, kW, mehr als 1 600 Fahrgäste)
+
+
+*    *   10.
+
+    *   Ungültigkeitsdatum
+
+
+*    *   11.
+
+    *   Vermerk(e)
+
+
+*    *
+    *   Einschränkungen
+
+
+*    *
+    *   Wasserstraßen mit besonderer Streckenkenntnis
+
+
+
+
+Muster des Schifferpatentes C
+(85 mm x 54 mm – Grundfarbe blau,
+
+### Anlage 2 entsprechend ISO-Norm 78.10)
+
+(Fundstelle: BGBl. I 2016, 2966)
+
+
+*    *   SCHIFFERPATENT
+        FÜR DIE BINNENSCHIFFFAHRT
+        **C1/C2**
+
+    *   BUNDESREPUBLIK DEUTSCHLAND
+        Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *   1.
+
+    *   xxx
+
+    *
+
+*    *   2.
+
+    *   xxx
+
+    *
+    *   (Bundesadler)
+
+    *
+
+*    *   3.
+
+    *   01.01.1960 -D- Duisburg
+
+    *
+    *
+    *
+
+*    *   4.
+
+    *   02.01.1998
+
+    *
+    *
+    *
+
+*    *   7.
+
+    *   ###
+
+    *   6.
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   8.
+
+    *   C1C2
+
+    *
+    *
+
+*    *   9.
+
+    *   R,* 35 m,* 12
+
+    *
+    *
+    *
+
+*    *   10.
+
+    *   31.12.2009
+
+    *
+    *
+    *
+
+*    *   11.
+
+    *
+    *   5.
+
+    *   xxx
+
+    *
+
+
+
+
+*    *   SCHIFFERPATENT FÜR DEN BINNENSCHIFFSGÜTER- UND -PERSONENVERKEHR
+
+
+*    *   1.
+
+    *   Name des Inhabers
+
+
+*    *   2.
+
+    *   Vorname(n)
+
+
+*    *   3.
+
+    *   Geburtsdatum und -ort
+
+
+*    *   4.
+
+    *   Ausstellungsdatum des Patentes
+
+
+*    *   5.
+
+    *   Ausstellungsnummer
+
+
+*    *   6.
+
+    *   Lichtbild des Inhabers
+
+
+*    *   7.
+
+    *   Unterschrift des Inhabers
+
+
+*    *   8.
+
+    *   C1 Alle Wasserstraßen außer dem Rhein
+
+
+*    *
+    *   C2 Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
+
+
+*    *   9.
+
+    *   – R (Radar)
+
+
+*    *
+    *   – Fahrzeuge mit weniger als 35 m Länge, nicht mehr als 12 Fahrgäste
+
+
+*    *   10.
+
+    *   Ungültigkeitsdatum
+
+
+*    *   11.
+
+    *   Vermerk(e)
+
+
+*    *
+    *   Einschränkungen
+
+
+*    *
+    *   Wasserstraßen mit besonderer Streckenkenntnis
+
+
+
+
+Muster des Feuerlöschbootpatentes D
+(85 mm x 54 mm – Grundfarbe blau,
+
+### Anlage 3 entsprechend ISO-Norm 78.10)
+
+(Fundstelle: BGBl. I 2016, 2967)
+
+
+*    *   FEUERLÖSCHBOOTPATENT
+        **D1/D2**
+
+    *   BUNDESREPUBLIK DEUTSCHLAND
+        Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *   1.
+
+    *   xxx
+
+    *
+
+*    *   2.
+
+    *   xxx
+
+    *
+    *   (Bundesadler)
+
+    *
+
+*    *   3.
+
+    *   01.01.1960 -D- Duisburg
+
+    *
+    *
+    *
+
+*    *   4.
+
+    *   02.01.1998
+
+    *
+    *
+    *
+
+*    *   7.
+
+    *   ###
+
+    *   6.
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   8.
+
+    *   D1D2
+
+    *
+    *
+
+*    *   9.
+
+    *   R, F
+
+    *
+    *
+    *
+
+*    *   10.
+
+    *   31.12.2009
+
+    *
+    *
+    *
+
+*    *   11.
+
+    *
+    *   5.
+
+    *   xxx
+
+    *
+
+
+
+
+*    *   FEUERLÖSCHBOOTPATENT
+
+
+*    *   1.
+
+    *   Name des Inhabers
+
+
+*    *   2.
+
+    *   Vorname(n)
+
+
+*    *   3.
+
+    *   Geburtsdatum und -ort
+
+
+*    *   4.
+
+    *   Ausstellungsdatum des Patentes
+
+
+*    *   5.
+
+    *   Ausstellungsnummer
+
+
+*    *   6.
+
+    *   Lichtbild des Inhabers
+
+
+*    *   7.
+
+    *   Unterschrift des Inhabers
+
+
+*    *   8.
+
+    *   D1 Alle Wasserstraßen außer dem Rhein
+
+
+*    *
+    *   D2 Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
+
+
+*    *   9.
+
+    *   – R (Radar)
+
+
+*    *
+    *   – F (Feuerlöschboote und Fahrzeuge des Zivil- und
+        Katastrophenschutzes)
+
+
+*    *   10.
+
+    *   Ungültigkeitsdatum
+
+
+*    *   11.
+
+    *   Vermerk(e)
+
+
+*    *
+    *   Einschränkungen
+
+
+*    *
+    *   Wasserstraßen mit besonderer Streckenkenntnis
+
+
+
+
+Muster Sportschifferzeugnis
+(85 mm x 54 mm – Grundfarbe blau,
+
+### Anlage 4 entsprechend ISO-Norm 78.10)
+
+(Fundstelle: BGBl. I 2016, 2968)
+
+
+*    *   SPORTSCHIFFERZEUGNIS
+        **E**
+
+    *   BUNDESREPUBLIK DEUTSCHLAND
+        Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *   1.
+
+    *   xxx
+
+    *
+
+*    *   2.
+
+    *   xxx
+
+    *
+    *   (Bundesadler)
+
+    *
+
+*    *   3.
+
+    *   01.01.1960 -D- Duisburg
+
+    *
+    *
+    *
+
+*    *   4.
+
+    *   02.01.1998
+
+    *
+    *
+    *
+
+*    *   7.
+
+    *   ###
+
+    *   6.
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   8.
+
+    *   E
+
+    *
+    *
+
+*    *   9.
+
+    *   R, Tonnen, kW,* 1 600
+
+    *
+    *
+    *
+
+*    *   10.
+
+    *   31.12.2009
+
+    *
+    *
+    *
+
+*    *   11.
+
+    *
+    *   5.
+
+    *   xxx
+
+    *
+
+
+
+
+*    *   SPORTSCHIFFERZEUGNIS
+
+
+*    *   1.
+
+    *   Name des Inhabers
+
+
+*    *   2.
+
+    *   Vorname(n)
+
+
+*    *   3.
+
+    *   Geburtsdatum und -ort
+
+
+*    *   4.
+
+    *   Ausstellungsdatum des Patentes
+
+
+*    *   5.
+
+    *   Ausstellungsnummer
+
+
+*    *   6.
+
+    *   Lichtbild des Inhabers
+
+
+*    *   7.
+
+    *   Unterschrift des Inhabers
+
+
+*    *   8.
+
+    *   E Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
+
+
+*    *   9.
+
+    *   – R (Radar)
+
+
+*    *
+    *   – S (Sportfahrzeuge mit weniger als 25 m Länge)
+
+
+*    *   10.
+
+    *   Ungültigkeitsdatum
+
+
+*    *   11.
+
+    *   Vermerk(e)
+
+
+*    *
+    *   Einschränkungen
+
+
+*    *
+    *   Wasserstraßen mit besonderer Streckenkenntnis
+
+
+
+
+Muster Fährführerschein
+(85 mm x 54 mm – Grundfarbe blau,
+
+### Anlage 5 entsprechend ISO-Norm 78.10)
+
+(Fundstelle: BGBl. I 2016, 2969)
+
+
+*    *   FÄHRFÜHRERSCHEIN
+        **F**
+
+    *   BUNDESREPUBLIK DEUTSCHLAND
+        Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *   1.
+
+    *   xxx
+
+    *
+
+*    *   2.
+
+    *   xxx
+
+    *
+    *   (Bundesadler)
+
+    *
+
+*    *   3.
+
+    *   01.01.1960 -D- Duisburg
+
+    *
+    *
+    *
+
+*    *   4.
+
+    *   02.01.1998
+
+    *
+    *
+    *
+
+*    *   7.
+
+    *   ###
+
+    *   6.
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   8.
+
+    *   F, Strom, -km
+
+    *
+    *
+
+*    *   9.
+
+    *   R
+
+    *
+    *
+    *
+
+*    *   10.
+
+    *   31.12.2009
+
+    *
+    *
+    *
+
+*    *   11.
+
+    *
+    *   5.
+
+    *   xxx
+
+    *
+
+
+
+
+*    *   FÄHRFÜHRERSCHEIN
+
+
+*    *   1.
+
+    *   Name des Inhabers
+
+
+*    *   2.
+
+    *   Vorname(n)
+
+
+*    *   3.
+
+    *   Geburtsdatum und -ort
+
+
+*    *   4.
+
+    *   Ausstellungsdatum des Patentes
+
+
+*    *   5.
+
+    *   Ausstellungsnummer
+
+
+*    *   6.
+
+    *   Lichtbild des Inhabers
+
+
+*    *   7.
+
+    *   Unterschrift des Inhabers
+
+
+*    *   8.
+
+    *   F Die eingetragene Fährstrecke
+
+
+*    *   9.
+
+    *   – R (Radar)
+
+
+*    *
+    *   – Fähren
+
+
+*    *   10.
+
+    *   Ungültigkeitsdatum
+
+
+*    *   11.
+
+    *   Vermerk(e)
+
+
+*    *
+    *   Einschränkungen
+
+
+*    *
+    *   Wasserstraßen mit besonderer Streckenkenntnis
+
+
+
+
+
+### Anlage 6 Muster vorläufiges Patent/Fährführerschein
+
+(Fundstelle: BGBl. I 2016, 2970)
+
+
+*    *
+    *   **BUNDESREPUBLIK DEUTSCHLAND**
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *
+    *   (Bundesadler)
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *
+    *   **Vorläufiges Patent/Fährführerschein**
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+
+*    *
+    *   Nr. *xxx*
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *
+    *   Gilt nur in Verbindung
+        mit der den Inhaber ausweisenden
+        gültigen Identifikationskarte
+        (Personalausweis/Reisepass)
+        mit der Nummer *xxx*
+
+
+
+
+
+*    *   Herr/Frau
+        ..........
+        ..........
+
+    *   Dieses vorläufige Befähigungszeugnis gilt bis zum Erhalt des
+        Zeugnisses für die o. a. Fahrerlaubnis, jedoch nicht länger als drei
+        Monate nach seinem Ausstellungsdatum.
+
+
+*    *   (Name)
+
+    *   (Vorname)
+
+
+*    *   geboren am
+        ..........
+
+
+*    *   geboren in
+        ..........
+
+
+*    *   ist Inhaber des Schifferpatentes
+        „A/B/C1/C2/D1/D2/E/F“
+        für die Bundeswasserstraße
+
+    *   Auflagen
+
+
+*    *   •
+        ..........
+
+
+*    *   •
+        ..........
+
+
+*    *   1.
+
+    *   Wasserstraße xxx
+
+    *
+
+*    *
+    *   für den Streckenabschnitt
+
+    *   ..........
+
+
+*    *
+    *   von km …
+
+    *   bis km …
+
+    *   (Ort und Datum der Ausstellung)
+
+
+*    *   (Siegel)
+
+    *
+
+*    *   2.
+
+    *   Wasserstraße xxx
+
+    *
+
+*    *
+    *   für den Streckenabschnitt
+
+    *   Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *
+    *   von km …
+
+    *   bis km …
+
+
+*    *   (Siegel)
+
+    *
+
+*    *   3.
+
+    *   Wasserstraße xxx
+
+    *
+
+*    *
+    *   für den Streckenabschnitt
+
+    *
+
+*    *
+    *   von km …
+
+    *   bis km …
+
+    *   Im Auftrag
+        ..........
+
+
+*    *   (Siegel)
+
+    *   (Name, Unterschrift, Siegel)
+
+
+
+
+
+### Anlage 7 Muster Streckenkundezeugnis
+
+(Fundstelle: BGBl. I 2016, 2971)
+
+*    *   Dieses Streckenzeugnis gilt nur in Verbindung mit dem auf den gleichen
+        Namen lautenden
+
+    *   **BUNDESREPUBLIK DEUTSCHLAND**
+
+
+*    *   Rheinpatent
+
+    *   vom
+        ..........
+
+    *
+
+*    *
+    *   Nr.
+        ..........
+
+    *   (Bundesadler)
+
+
+*    *   Schifferpatent „A/B“
+
+    *   vom
+        ..........
+
+    *
+
+*    *
+    *   Nr.
+        ..........
+
+    *
+
+*    *   Donaukapitänspatent
+
+    *   vom
+        ..........
+
+    *
+
+*    *
+    *   Nr.
+        ..........
+
+    *
+
+*    *   Schifferausweis/
+
+    *
+    *
+
+*    *   Schifferpatent C1/C2
+
+    *
+    *   **Streckenzeugnis**
+
+
+*    *   Sportschifferzeugnis
+
+    *   vom
+        ..........
+
+    *
+
+*    *
+    *   Nr.
+        ..........
+
+    *
+
+*    *   Fährführerschein
+
+    *   vom
+        ..........
+
+    *
+
+*    *
+    *   Nr.
+        ..........
+
+    *
+
+*    *   Befähigungszeugnis anderer Art
+
+    *
+
+*    *   ..........
+
+    *
+
+*    *   (Bezeichnung)
+
+    *   vom
+        ..........
+
+    *   Nr. *xxx*
+
+
+*    *
+    *   Nr.
+        ..........
+
+    *
+
+*    *   für die darin genannte Fahrzeugart und -größe.
+
+    *
+
+
+
+
+*    *   Herr/
+        Frau
+        ..........
+
+    *
+    *
+    *
+
+*    *   (Vor- und Familienname)
+
+    *
+    *
+    *
+
+*    *   geboren am/in
+        ..........
+
+    *
+    *
+
+*    *   ..........
+
+    *
+    *
+
+*    *   erhält die Erlaubnis zur Fahrt auf folgenden Wasserstraßen der Zone 3
+        und 4 (§ 7 Absatz 2, § 9 und Anlage 9 der
+        Binnenschifferpatentverordnung):
+
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   1.
+
+    *   Wasserstraße xxx
+
+    *
+    *
+    *
+
+*    *
+    *   von km
+        ..........
+
+    *   bis km
+        ..........
+
+    *   ..........
+
+
+*    *
+    *   (Ort und Datum) (Siegel)
+
+    *   (Eigenhändige Unterschrift des Inhabers)
+
+
+*    *   2.
+
+    *   Wasserstraße xxx
+
+    *   ..........
+
+
+*    *
+    *   von km
+        ..........
+
+    *   bis km
+        ..........
+
+    *   (Ort und Datum der Ausstellung)
+
+
+*    *
+    *   (Ort und Datum der Erweiterung) (Siegel)
+
+    *   Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *   3.
+
+    *   Wasserstraße xxx
+
+
+*    *
+    *   von km
+        ..........
+
+    *   bis km
+        ..........
+
+    *   Im Auftrag
+        ..........
+
+
+*    *
+    *   (Ort und Datum der Erweiterung) (Siegel)
+
+    *   (Name, Unterschrift, Siegel)
+
+
+
+
+
+### Anlage 8 Muster Donaukapitänspatent
+
+(Fundstelle: BGBl. I 2016, 2972)
+
+*    *   Erweiterungen/Extensions
+
+    *   **BUNDESREPUBLIK DEUTSCHLAND**
+
+
+*    *   Die Fahrerlaubnis ist erweitert worden:
+
+    *
+
+*    *   La validité du présent certificat a été étendue:
+
+    *   **RÉPUBLIQUE FÉDÉRALE D´ALLEMAGNE**
+
+
+*    *   1.
+
+    *   auf den Donauabschnitt/au secteur du Danube
+
+    *
+
+*    *
+    *   von/du km
+        ..........
+
+    *   bis/au km
+        ..........
+
+    *
+
+*    *
+    *   ..........
+
+    *
+
+*    *
+    *   (Ort und Datum der Erweiterung)/
+        (Lieu et date de l´extension)
+
+    *   (Bundesadler)
+
+
+*    *   (Siegel/cachet)
+
+    *
+
+*    *   2.
+
+    *   auf den Donauabschnitt/au secteur du Danube
+
+    *
+
+*    *
+    *   von/du km
+        ..........
+
+    *   bis/au km
+        ..........
+
+    *   **Donaukapitänspatent**
+
+
+*    *
+    *   ..........
+
+    *
+
+*    *
+    *   (Ort und Datum der Erweiterung)/
+        (Lieu et date de l´extension)
+
+    *
+
+*    *   (Siegel/cachet)
+
+    *
+
+*    *   3.
+
+    *   auf den Donauabschnitt/au secteur du Danube
+
+    *   CERTIFICAT
+        de conducteur de bateau
+        **sur le Danube**
+
+
+*    *
+    *   von/du km
+        ..........
+
+    *   bis/au km
+        ..........
+
+
+*    *
+    *   ..........
+
+
+*    *
+    *   (Ort und Datum der Erweiterung)/
+        (Lieu et date de l´extension)
+
+    *
+
+*    *   (Siegel/cachet)
+
+    *
+
+*    *   4.
+
+    *   auf den Donauabschnitt/au secteur du Danube
+
+    *
+
+*    *
+    *   von/du km
+        ..........
+
+    *   bis/au km
+        ..........
+
+    *
+
+*    *
+    *   ..........
+
+    *   Nr. *xxx*
+
+
+*    *
+    *   (Ort und Datum der Erweiterung)/
+        (Lieu et date de l´extension)
+
+    *
+
+*    *   (Siegel/cachet)
+
+    *
+
+
+
+
+*    *   Herr/
+
+    *
+    *
+    *
+
+*    *   Frau
+        ..........
+
+    *
+    *
+    *
+
+*    *   (Vor- und Familienname)/(Prénom et nom)
+
+    *
+    *
+    *
+
+*    *   ..........
+
+    *
+    *   (Lichtbild)
+
+    *
+
+*    *   (geboren am/in)/(Lieu et date de naissance)
+
+    *
+    *
+    *
+
+*    *   erhält die Erlaubnis zur Fahrt (§ 8 Absatz 2 der
+        Binnenschifferpatentverordnung) auf der:
+
+    *
+    *
+    *
+
+*    *   est autorisé(e) conformément aux règles relatives à la délivrance des
+        certificats de conducteur de bateau arrêtées par les autorités
+        compétentes de la République fédérale d´Allemagne compte tenu des
+        dispositions des «Recommandations sur les prescriptions relatives à la
+        délivrance des certificats de bateau de navigation intérieure sur le
+        Danube» à la Commission du Danube, a conduire des bateaux sur le
+
+    *   ..........
+        (Eigenhändige Unterschrift des Inhabers)/
+        (Signature du titulaire)
+        ..........
+        (Ort und Datum der Ausstellung)/
+        (Lieu et date de délivrance)
+
+
+*    *
+    *   Generaldirektion Wasserstraßen
+        **und Schifffahrt**
+
+
+*    *   **Donau/Danube**
+
+    *
+
+*    *   von/du km
+        ..........
+
+    *   bis/au km
+        ..........
+
+    *
+
+*    *   (Siegel/Cachet)
+        ..........
+
+    *   Im Auftrag/
+        par ordre
+        ..........
+
+
+*    *   (Ort und Datum der Ausstellung)/
+        (Lieu et date de délivrance)
+
+    *   (Name, Unterschrift, Siegel)/
+        (nom, signature, cachet)
+
+
+*    *   Amtliche Vermerke/observations:
+
+    *
+
+*    *   •
+
+    *
+
+*    *   •
+
+    *
+
+
 
 
 ### Anlage 9
 
-Fundstelle des Originaltextes: BGBl. I 2006, 221
+   (Fundstelle: BGBl. I 2006, 221)
 
 *    *   Wasserstraßen der Zonen 3 und 4 mit besonderer und gegebenenfalls
         eingeschränkter Streckenkenntnis
-
-    *   Zuständige Behörde
 
 
 *    *
@@ -2189,21 +2962,9 @@ Fundstelle des Originaltextes: BGBl. I 2006, 221
 
 
 
-    *
-        1.  Wasser- und Schifffahrtsdirektion Ost in Magdeburg
-
-
-
-
 
 *    *
-        2.  Weser von km 0,0 (Hann.-Münden) bis km 204,45 (Minden)- Oberweser
-
-
-
-
-    *
-        2.  Wasser- und Schifffahrtsdirektion Mitte in Hannover
+        2.  Weser von km 0,0 (Hann.-Münden) bis km 204,45 (Minden)-Oberweser
 
 
 
@@ -2216,23 +2977,21 @@ Fundstelle des Originaltextes: BGBl. I 2006, 221
 
 
 
-    *
-        3.  Wasser- und Schifffahrtsdirektion Süd in Würzburg
-
-
-
-
 
 *    *
-        4.  Untere Havel-Wasserstraße von km 68,0 (Plaue) bis km 145,8
-            (Havelberg), jedoch nur bei Wasserständen am Unterpegel Rathenow von
-            mehr als 130 cm
+        4.  Untere Havel-Wasserstraße
+
+            a)  von km 67,5 (Plaue) bis km 112,00 (unterhalb der Einmündung der
+                Hohennauer Wasserstraße), jedoch nur bei Wasserständen am Unterpegel
+                Rathenow von mehr als 190 cm
+
+
+            b)  von km 112,00 (unterhalb der Einmündung der Hohennauer Wasserstraße)
+                bis km 145,80 (Havelberg), jedoch nur bei Wasserständen am Unterpegel
+                Rathenow von mehr als 130 cm
 
 
 
-
-    *
-        4.  Wasser- und Schifffahrtsdirektion Ost in Magdeburg
 
 
 
@@ -2244,22 +3003,10 @@ Fundstelle des Originaltextes: BGBl. I 2006, 221
 
 
 
-    *
-        5.  Wasser- und Schifffahrtsdirektion Ost in Magdeburg
-
-
-
-
 
 *    *
         6.  Saale von km 0,0 (Mündung in die Elbe) bis km 19,50 (Unterer Vorhafen
             Schleuse Calbe)
-
-
-
-
-    *
-        6.  Wasser- und Schifffahrtsdirektion Ost in Magdeburg
 
 
 
@@ -2278,8 +3025,8 @@ Elbe unterhalb des Hamburger Hafens
 Weser
 Jade
 Ems unterhalb des Emder Hafens
-Hunte (insoweit kann das die Wasserstraße verwaltende Wasser- und
-Schiffahrtsamt Ausnahmen zulassen)
+Hunte (insoweit kann das die Wasserstraße verwaltende Wasserstraßen-
+und Schifffahrtsamt Ausnahmen zulassen)
 Unterwarnow
 Gewässer, die vom Festland und den Halbinseln Darß und Zingst sowie
 den Inseln Hiddensee und Rügen eingeschlossen sind (einschließlich
@@ -2299,8 +3046,8 @@ seewärts begrenzt zwischen
 
 
 
-Peenestrom (insoweit kann das die Wasserstraße verwaltende Wasser- und
-Schiffahrtsamt Ausnahmen zulassen)
+Peenestrom (insoweit kann das die Wasserstraße verwaltende
+Wasserstraßen- und Schifffahrtsamt Ausnahmen zulassen)
 
 
 ### Anlage 11 Prüfungsprogramm für den Erwerb eines Befähigungszeugnisses in der Binnenschiffahrt
@@ -2708,7 +3455,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   1.3
 
-    *   Binnenschiffsuntersuchungs-Ordnung,
+    *   Binnenschiffsuntersuchungsordnung,
 
     *
     *

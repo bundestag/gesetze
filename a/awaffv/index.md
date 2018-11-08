@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 2123
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2012 I 2698
+:   Art. 1 V v. 1.9.2020 I 1977
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -416,7 +416,7 @@ von den in ihr festgelegten Schießdisziplinen zulassen.
     Kriegswaffe im Sinne des Gesetzes über die Kontrolle von Kriegswaffen
     ist, wenn
 
-    a)  die Lauflänge weniger als 42 Zentimeter beträgt,
+    a)  die Lauflänge weniger als 40 Zentimeter beträgt,
 
 
     b)  das Magazin sich hinter der Abzugseinheit befindet (so genannte Bul-
@@ -492,10 +492,10 @@ Wettbewerbe verboten, bei denen
 Die Veranstaltung der in Satz 1 genannten Schießübungen und die
 Teilnahme als Sportschütze an diesen sind verboten.
 
-(2) Das Verbot von Schießübungen des kampfmäßigen Schießens (§ 15 Abs.
-6 Satz 2 des Waffengesetzes) und mit verbotenen oder vom Schießsport
-ausgeschlossenen Schusswaffen oder Teilen von Schusswaffen (§ 6),
-soweit nicht eine Ausnahme nach § 6 Abs. 3 erteilt ist, bleibt
+(2) Das Verbot von Schießübungen des kampfmäßigen Schießens (§ 15a
+Absatz 1 Satz 2 des Waffengesetzes) und mit verbotenen oder vom
+Schießsport ausgeschlossenen Schusswaffen oder Teilen von Schusswaffen
+(§ 6), soweit nicht eine Ausnahme nach § 6 Abs. 3 erteilt ist, bleibt
 unberührt.
 
 (3) Die Ausbildung und das Training im jagdlichen Schießen
@@ -505,10 +505,11 @@ vorstehenden Regelungen nicht beschränkt.
 
 ### § 8 Beirat für schießsportliche Fragen
 
-(1) Beim Bundesministerium des Innern wird ein Beirat für
-schießsportliche Fragen (Fachbeirat) gebildet. Den Vorsitz führt ein
-Vertreter des Bundesministeriums des Innern. An den Sitzungen des
-Fachbeirates nehmen Vertreter des Bundesverwaltungsamtes teil.
+(1) Beim Bundesministerium des Innern, für Bau und Heimat wird ein
+Beirat für schießsportliche Fragen (Fachbeirat) gebildet. Den Vorsitz
+führt ein Vertreter des Bundesministeriums des Innern, für Bau und
+Heimat. An den Sitzungen des Fachbeirates nehmen Vertreter des
+Bundesverwaltungsamtes teil.
 
 (2) Der Fachbeirat setzt sich aus dem Vorsitzenden und aus folgenden
 ständigen Mitgliedern zusammen:
@@ -531,15 +532,16 @@ ständigen Mitgliedern zusammen:
 (3) Die Mitglieder des Fachbeirates sollen auf schießsportlichem
 Gebiet sachverständig und erfahren sein.
 
-(4) Das Bundesministerium des Innern kann Vertreter weiterer Bundes-
-und Landesbehörden sowie weitere Sachverständige insbesondere auf
-schießsportlichem oder waffentechnischem Gebiet zur Beratung
-hinzuziehen. In den Fällen, in denen der Fachbeirat über die
-Genehmigung der Schießsportordnung eines nicht anerkannten
-Schießsportverbandes beraten soll, lädt das Bundesministerium des
-Innern auch einen Vertreter dieses Verbandes ein.
+(4) Das Bundesministerium des Innern, für Bau und Heimat kann
+Vertreter weiterer Bundes- und Landesbehörden sowie weitere
+Sachverständige insbesondere auf schießsportlichem oder
+waffentechnischem Gebiet zur Beratung hinzuziehen. In den Fällen, in
+denen der Fachbeirat über die Genehmigung der Schießsportordnung eines
+nicht anerkannten Schießsportverbandes beraten soll, lädt das
+Bundesministerium des Innern, für Bau und Heimat auch einen Vertreter
+dieses Verbandes ein.
 
-(5) Das Bundesministerium des Innern beruft
+(5) Das Bundesministerium des Innern, für Bau und Heimat beruft
 
 1.  die Vertreter jedes Landes einschließlich deren Stellvertreter auf
     Vorschlag des Landes;
@@ -633,15 +635,16 @@ nach Satz 1 erforderlichen Aufsichtspersonen festlegen.
 
 (2) Der Erlaubnisinhaber hat der zuständigen Behörde die Personalien
 der verantwortlichen Aufsichtspersonen zwei Wochen vor der Übernahme
-der Aufsicht schriftlich anzuzeigen; beauftragt eine schießsportliche
-oder jagdliche Vereinigung die verantwortliche Aufsichtsperson, so
-obliegt diese Anzeige der Aufsichtsperson selbst. Der Anzeige sind
-Nachweise beizufügen, aus denen hervorgeht, dass die Aufsichtsperson
-die erforderliche Sachkunde und, sofern es die Obhut über das Schießen
-durch Kinder und Jugendliche betrifft, auch die Eignung zur Kinder-
-und Jugendarbeit besitzt. Der Erlaubnisinhaber hat das Ausscheiden der
-angezeigten Aufsichtsperson und die Bestellung einer neuen
-Aufsichtsperson der zuständigen Behörde unverzüglich anzuzeigen.
+der Aufsicht schriftlich oder elektronisch anzuzeigen; beauftragt eine
+schießsportliche oder jagdliche Vereinigung die verantwortliche
+Aufsichtsperson, so obliegt diese Anzeige der Aufsichtsperson selbst.
+Der Anzeige sind Nachweise beizufügen, aus denen hervorgeht, dass die
+Aufsichtsperson die erforderliche Sachkunde und, sofern es die Obhut
+über das Schießen durch Kinder und Jugendliche betrifft, auch die
+Eignung zur Kinder- und Jugendarbeit besitzt. Der Erlaubnisinhaber hat
+das Ausscheiden der angezeigten Aufsichtsperson und die Bestellung
+einer neuen Aufsichtsperson der zuständigen Behörde unverzüglich
+anzuzeigen.
 
 (3) Bei der Beauftragung der verantwortlichen Aufsichtsperson durch
 einen schießsportlichen Verein eines anerkannten Schießsportverbandes
@@ -712,75 +715,8 @@ selbst beaufsichtigt zu werden, wenn sichergestellt ist, dass sie sich
 allein auf dem Schießstand befindet.
 
 
-### § 12 Überprüfung der Schießstätten
+### § 12 (weggefallen)
 
-(1) Schießstätten sind vor ihrer ersten Inbetriebnahme hinsichtlich
-der sicherheitstechnischen Anforderungen zu überprüfen. In
-regelmäßigen Abständen von mindestens vier Jahren sind sie von der
-zuständigen Behörde zu überprüfen, wenn auf ihnen mit
-erlaubnispflichtigen Schusswaffen geschossen wird. Ist das Schießen
-auf einer Schießstätte nur mit erlaubnisfreien Schusswaffen zulässig,
-so ist eine Überprüfung mindestens alle sechs Jahre erforderlich.
-Falls Zweifel an dem ordnungsgemäßen Zustand oder den erforderlichen
-schießtechnischen Einrichtungen bestehen, kann die zuständige Behörde
-die Schießstätte in sicherheitstechnischer Hinsicht überprüfen oder
-von dem Erlaubnisinhaber die Vorlage eines Gutachtens eines
-anerkannten Schießstandsachverständigen verlangen. Die Kosten hierfür
-sind von dem Erlaubnisinhaber zu tragen.
-
-(2) Werden bei der Überprüfung Mängel festgestellt, die eine
-Gefährdung der Benutzer der Schießstätte oder Dritter befürchten
-lassen, kann die zuständige Behörde die weitere Benutzung der
-Schießstätte bis zur Beseitigung der Mängel untersagen. Der weitere
-Betrieb oder die Benutzung der Schießstätte ist im Falle der
-Untersagung nach Satz 1 verboten.
-
-[^F770975_02_BJNR212300003BJNE001403360]
-(3) Die sicherheitstechnischen Anforderungen, die an Schießstätten zu
-stellen sind, ergeben sich aus den „Richtlinien für die Errichtung,
-die Abnahme und das Betreiben von Schießständen
-(Schießstandrichtlinien)“. Das Bundesministerium des Innern erstellt
-die Schießstandrichtlinien nach Anhörung von Vertretern der
-Wissenschaft, der Betroffenen und der für das Waffenrecht zuständigen
-obersten Landesbehörden als dem Stand der Sicherheitstechnik
-entsprechende Regeln und veröffentlicht diese im Bundesanzeiger.
-
-(4) Anerkannte Schießstandsachverständige nach Absatz 1 sind
-
-1.  öffentlich bestellte und vereidigte Sachverständige für das Fachgebiet
-    „Sicherheit von nichtmilitärischen Schießständen“, die auf der
-    Grundlage der in Absatz 3 genannten Schießstandrichtlinien in der
-    jeweils geltenden Fassung von Lehrgangsträgern ausgebildet sind,
-
-
-2.  auf der Basis polizeilicher oder militärischer Regelungen als
-    Schießstandsachverständige ausgebildete Personen, die auf der
-    Grundlage der in Absatz 3 genannten Schießstandrichtlinien in der
-    jeweils geltenden Fassung regelmäßig fortgebildet worden sind.
-
-
-
-
-[^F770975_03_BJNR212300003BJNE001403360]
-(5) Eine Bestellung darf erfolgen, wenn die fachlichen
-Bestellungsvoraussetzungen auf dem Sachgebiet „Sicherheit von
-nichtmilitärischen Schießstätten“
-in einer Prüfung nachgewiesen worden sind. § 16 findet entsprechende
-Anwendung.
-
-(6) Als anerkannte Schießstandsachverständige gelten auch diejenigen,
-die bis zum 31. März 2008 auf der Grundlage bisheriger
-Schießstandrichtlinien ausgebildet und regelmäßig fortgebildet worden
-sind. Die Anerkennung nach Satz 1 erlischt zum 1. Januar 2015, sofern
-keine öffentliche Bestellung für das Fachgebiet „Sicherheit von
-nichtmilitärischen Schießständen“ erfolgt ist.
-
-    Bis zur Veröffentlichung nach Absatz 3 Satz 2 sind Stand der Technik
-    die „Richtlinien für die Errichtung, die Abnahme und das Betreiben von
-    Schießständen (Schießstandrichtlinien), Stand Januar 2000,
-    herausgegeben vom Deutschen Schützenbund, Wiesbaden“.
-[^F770975_02_BJNR212300003BJNE001403360]:     Herausgegeben vom Institut für Sachverständigenwesen e. V., Köln.
-[^F770975_03_BJNR212300003BJNE001403360]: 
 
 ## Abschnitt 5 - Aufbewahrung von Waffen und Munition
 
@@ -788,64 +724,148 @@ nichtmilitärischen Schießständen“ erfolgt ist.
 
 ### § 13 Aufbewahrung von Waffen oder Munition
 
-(1) In einem Sicherheitsbehältnis, das der Norm DIN/EN 1143-1
-Widerstandsgrad 0 (Stand: Mai 1997)1) oder einer Norm mit gleichem
-Schutzniveau eines anderen Mitgliedstaates des Übereinkommens über den
-Europäischen Wirtschaftsraum (EWR-Mitgliedstaat) oder der
-Sicherheitsstufe B nach VDMA 24992 2)3) (Stand: Mai 1995) entspricht,
-dürfen nicht mehr als zehn Kurzwaffen (Anlage 1 Abschnitt 1
-Unterabschnitt 1 Nr. 2.6, dritter Halbsatz zum Waffengesetz), zu deren
-Erwerb und Besitz es einer Erlaubnis bedarf, oder zehn nach Anlage 2
-Abschnitt 1 Nr. 1.1 bis 1.2.3 zum Waffengesetz verbotene Waffen
-aufbewahrt werden; unterschreitet das Gewicht des Behältnisses 200
-Kilogramm oder liegt die Verankerung gegen Abriss unter einem
-vergleichbaren Gewicht, so verringert sich die Höchstzahl der
-aufzubewahrenden Waffen auf fünf. Wird die in Satz 1 genannte Anzahl
-überschritten, so darf die Aufbewahrung nur in einem
-Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
-Widerstandsgrad I (Stand: Mai 1997) oder einer Norm mit gleichem
-Schutzniveau eines anderen EWR-Mitgliedstaates entspricht, oder in
-einer entsprechenden Mehrzahl von Sicherheitsbehältnissen nach Satz 1
-erfolgen.
+(1) Schusswaffen, deren Erwerb und Besitz erlaubnispflichtig sind,
+verbotene Waffen und verbotene Munition sind ungeladen und in einem
+Behältnis aufzubewahren, das
 
-(2) Werden mehr als zehn Langwaffen (Anlage 1 Abschnitt 1
-Unterabschnitt 1 Nr. 2.6, erster und zweiter Halbsatz zum
-Waffengesetz), zu deren Erwerb und Besitz es einer Erlaubnis bedarf,
-aufbewahrt, so darf die Aufbewahrung nur in einem
-Sicherheitsbehältnis, das mindestens einer der in Absatz 1 Satz 1
-genannten Normen entspricht, oder in einer entsprechenden Mehrzahl von
-Sicherheitsbehältnissen nach § 36 Abs. 2 Satz 2 des Waffengesetzes
-erfolgen.
+1.[^F798889_02_BJNR212300003BJNE001503128]
+  mindestens der Norm DIN/EN 1143-1 (Stand Mai 1997, Oktober 2002,
+    Februar 2006, Januar 2010, Juli 2012 oder Juli 2019)
+    mit dem in Absatz 2 geregelten Widerstandsgrad und Gewicht entspricht
+    und
 
-(3) Munition, deren Erwerb nicht von der Erlaubnispflicht freigestellt
-ist, darf nur in einem Stahlblechbehältnis ohne Klassifizierung mit
-Schwenkriegelschloss oder einer gleichwertigen Verschlussvorrichtung
-oder in einem gleichwertigen Behältnis aufbewahrt werden.
 
-(4) Werden Langwaffen, zu deren Erwerb und Besitz es einer Erlaubnis
-bedarf, in einem Sicherheitsbehältnis, das der Sicherheitsstufe A nach
-VDMA 24992 (Stand: Mai 1995) entspricht, aufbewahrt, so ist es für die
-Aufbewahrung von bis zu fünf Kurzwaffen, zu deren Erwerb und Besitz es
-einer Erlaubnis bedarf, und der Munition für die Lang- und Kurzwaffen
-ausreichend, wenn sie in einem Innenfach erfolgt, das den
-Sicherheitsanforderungen nach Absatz 1 Satz 1 entspricht; in diesem
-Fall dürfen die Kurzwaffen und die Munition innerhalb des Innenfaches
-zusammen aufbewahrt werden. Im Falle der Aufbewahrung von Schusswaffen
-in einem Sicherheitsbehältnis der Sicherheitsstufe A oder B nach VDMA
-24992 ist es für die Aufbewahrung der dazugehörigen Munition
-ausreichend, wenn sie in einem Innenfach aus Stahlblech ohne
-Klassifizierung mit Schwenkriegelschloss oder einer gleichwertigen
-Verschlussvorrichtung erfolgt; nicht zu den dort aufbewahrten Waffen
-gehörige Munition darf zusammen aufbewahrt werden.
+2.  zum Nachweis dessen über eine Zertifizierung durch eine akkreditierte
+    Stelle gemäß Absatz 10 verfügt.
 
-(5) Die zuständige Behörde kann eine andere gleichwertige Aufbewahrung
-der Waffen zulassen. Insbesondere kann von Sicherheitsbehältnissen im
-Sinne des § 36 Abs. 1 und 2 des Waffengesetzes oder im Sinne der
-Absätze 1 bis 3 abgesehen werden, wenn die Waffen und die Munition in
-einem Waffenraum aufbewahrt werden, der dem Stand der Technik
-entspricht.
 
-(6) In einem nicht dauernd bewohnten Gebäude dürfen nur bis zu drei
+
+Der in Satz 1 Nummer 1 genannten Norm gleichgestellt sind Normen eines
+anderen Mitgliedstaates des Übereinkommens über den Europäischen
+Wirtschaftsraum, die das gleiche Schutzniveau aufweisen. Die
+zuständige Behörde kann eine andere gleichwertige Aufbewahrung der
+Waffen und Munition zulassen. Vergleichbar gesicherte Räume sind als
+gleichwertig anzusehen. Alternative Sicherungseinrichtungen, die keine
+Behältnisse oder Räume sind, sind zulässig, sofern sie
+
+1.  ein den jeweiligen Anforderungen mindestens gleichwertiges
+    Schutzniveau aufweisen und
+
+
+2.  zum Nachweis dessen über eine Zertifizierung durch eine akkreditierte
+    Stelle gemäß Absatz 10 verfügen.
+
+
+
+
+(2) Wer Waffen oder Munition besitzt, hat diese ungeladen und unter
+Beachtung der folgenden Sicherheitsvorkehrungen und zahlenmäßigen
+Beschränkungen aufzubewahren:
+
+1.  mindestens in einem verschlossenen Behältnis: Waffen oder Munition,
+    deren Erwerb von der Erlaubnispflicht freigestellt ist;
+
+
+2.  mindestens in einem Stahlblechbehältnis ohne Klassifizierung mit
+    Schwenkriegelschloss oder einer gleichwertigen Verschlussvorrichtung
+    oder in einem gleichwertigen Behältnis: Munition, deren Erwerb nicht
+    von der Erlaubnispflicht freigestellt ist;
+
+
+3.[^F798889_03_BJNR212300003BJNE001503128]
+  in einem Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
+    Widerstandsgrad 0 (Stand Mai 1997, Oktober 2002, Februar 2006, Januar
+    2010, Juli 2012 oder Juli 2019 )
+    entspricht und bei dem das Gewicht des Behältnisses 200 Kilogramm
+    unterschreitet:
+
+    a)  eine unbegrenzte Anzahl von Langwaffen und insgesamt bis zu fünf nach
+        Anlage 2 Abschnitt 1 Nummer 1.1 bis 1.2.3 und 1.2.5 des Waffengesetzes
+        verbotene Waffen und Kurzwaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1
+        Nummer 2.5 des Waffengesetzes), für deren Erwerb und Besitz es ihrer
+        Art nach einer Erlaubnis bedarf, und
+
+
+    b)  zusätzlich eine unbegrenzte Anzahl nach Anlage 2 Abschnitt 1 Nummer
+        1\.2.4 bis 1.2.4.2 und 1.3 bis 1.4.4 des Waffengesetzes verbotener
+        Waffen sowie
+
+
+    c)  zusätzlich Munition;
+
+
+
+
+
+4.[^F798889_04_BJNR212300003BJNE001503128]
+  in einem Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
+    Widerstandsgrad 0 (Stand Mai 1997, Oktober 2002, Februar 2006, Januar
+    2010, Juli 2012 oder Juli 2019 )
+    entspricht und bei dem das Gewicht des Behältnisses mindestens 200
+    Kilogramm beträgt:
+
+    a)  eine unbegrenzte Anzahl von Langwaffen und bis zu zehn nach Anlage 2
+        Abschnitt 1 Nummer 1.1 bis 1.2.3 und 1.2.5 des Waffengesetzes
+        verbotene Waffen und Kurzwaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1
+        Nummer 2.5 des Waffengesetzes), für deren Erwerb und Besitz es ihrer
+        Art nach einer Erlaubnis bedarf, und
+
+
+    b)  zusätzlich eine unbegrenzte Anzahl nach Anlage 2 Abschnitt 1 Nummer
+        1\.2.4 bis 1.2.4.2 und 1.3 bis 1.4.4 des Waffengesetzes verbotener
+        Waffen sowie
+
+
+    c)  zusätzlich Munition;
+
+
+
+
+
+5.[^F798889_05_BJNR212300003BJNE001503128]
+  in einem Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
+    Widerstandsgrad I (Stand Mai 1997, Oktober 2002, Februar 2006, Januar
+    2010, Juli 2012 oder Juli 2019 )
+    entspricht:
+
+    a)  eine unbegrenzte Anzahl von Lang- und Kurzwaffen (Anlage 1 Abschnitt 1
+        Unterabschnitt 1 Nummer 2.5 des Waffengesetzes), für deren Erwerb und
+        Besitz es ihrer Art nach einer Erlaubnis bedarf,
+
+
+    b)  eine unbegrenzte Anzahl nach Anlage 2 Abschnitt 1 Nummer 1.1 bis 1.4.4
+        des Waffengesetzes verbotener Waffen sowie
+
+
+    c)  Munition.
+
+
+
+
+
+
+
+(3) Bei der Bestimmung der Zahl der Waffen, die nach Absatz 2 in einem
+Sicherheitsbehältnis aufbewahrt werden dürfen, bleiben außer Betracht:
+
+1.  wesentliche Teile von Schusswaffen und Schalldämpfer nach Anlage 1
+    Abschnitt 1 Unterabschnitt 1 Nummer 1.3 bis 1.3.3 des Waffengesetzes,
+
+
+2.  Vorrichtungen nach Anlage 2 Abschnitt 1 Nummer 1.2.4.1 des
+    Waffengesetzes, die das Ziel beleuchten oder markieren, und
+
+
+3.  Nachtsichtgeräte, -vorsätze und -aufsätze sowie Nachtzielgeräte nach
+    Anlage 2 Abschnitt 1 Nummer 1.2.4.2 des Waffengesetzes.
+
+
+
+Satz 1 Nummer 1 gilt nur, sofern die zusammen aufbewahrten
+wesentlichen Teile nicht zu einer schussfähigen Waffe zusammengefügt
+werden können.
+
+(4) In einem nicht dauernd bewohnten Gebäude dürfen nur bis zu drei
 Langwaffen, zu deren Erwerb und Besitz es einer Erlaubnis bedarf,
 aufbewahrt werden. Die Aufbewahrung darf nur in einem mindestens der
 Norm DIN/EN 1143-1 Widerstandsgrad I entsprechenden
@@ -853,10 +873,10 @@ Sicherheitsbehältnis erfolgen. Die zuständige Behörde kann
 Abweichungen in Bezug auf die Art oder Anzahl der aufbewahrten Waffen
 oder das Sicherheitsbehältnis auf Antrag zulassen.
 
-(7) Die zuständige Behörde kann auf Antrag bei einer Waffen- oder
+(5) Die zuständige Behörde kann auf Antrag bei einer Waffen- oder
 Munitionssammlung unter Berücksichtigung der Art und der Anzahl der
 Waffen oder der Munition und ihrer Gefährlichkeit für die öffentliche
-Sicherheit und Ordnung von den Vorgaben der Absätze 1 bis 6
+Sicherheit und Ordnung von den Vorgaben der Absätze 1, 2 und 4
 insbesondere unter dem Gesichtspunkt der Sichtbarkeit zu
 Ausstellungszwecken abweichen und dabei geringere oder höhere
 Anforderungen an die Aufbewahrung stellen; bei Sammlungen von Waffen,
@@ -864,41 +884,82 @@ deren Modell vor dem 1. Januar 1871 entwickelt worden ist, und bei
 Munitionssammlungen soll sie geringere Anforderungen stellen. Dem
 Antrag ist ein Aufbewahrungskonzept beizugeben.
 
-(8) Die zuständige Behörde kann auf Antrag von Anforderungen an die
-Sicherheitsbehältnisse nach § 36 Abs. 1 und 2 des Waffengesetzes oder
-nach den Absätzen 1 bis 3 oder an einen Waffenraum nach Absatz 5 Satz
-2 absehen, wenn ihre Einhaltung unter Berücksichtigung der Art und der
-Anzahl der Waffen und der Munition und ihrer Gefährlichkeit für die
-öffentliche Sicherheit und Ordnung eine besondere Härte darstellen
-würde. In diesem Fall hat sie die niedrigeren Anforderungen
-festzusetzen.
+(6) Die zuständige Behörde kann auf Antrag von Anforderungen an
+Sicherheitsbehältnisse, Waffenräume oder alternative
+Sicherungseinrichtungen nach den Absätzen 1 und 2 absehen, wenn ihre
+Einhaltung unter Berücksichtigung der Art und der Anzahl der Waffen
+und der Munition und ihrer Gefährlichkeit für die öffentliche
+Sicherheit und Ordnung eine besondere Härte darstellen würde. In
+diesem Fall hat sie die niedrigeren Anforderungen festzusetzen.
 
-(9) Bestehen begründete Zweifel, dass Normen anderer EWR-
-Mitgliedstaaten im Schutzniveau den in § 36 Abs. 1 und 2 des
-Waffengesetzes oder in den Absätzen 1 bis 4 genannten Normen
-gleichwertig sind, kann die Behörde vom Verpflichteten die Vorlage
-einer Stellungnahme insbesondere des Deutschen Instituts für Normung
-verlangen.
+(7) Bestehen begründete Zweifel, dass Normen anderer EWR-
+Mitgliedstaaten im Schutzniveau den in den Absätzen 1 und 2 genannten
+Normen gleichwertig sind, kann die Behörde vom Verpflichteten die
+Vorlage einer Stellungnahme insbesondere des Deutschen Instituts für
+Normung verlangen.
 
-(10) Die gemeinschaftliche Aufbewahrung von Waffen oder Munition durch
+(8) Die gemeinschaftliche Aufbewahrung von Waffen oder Munition durch
 berechtigte Personen, die in einer häuslichen Gemeinschaft leben, ist
 zulässig.
 
-(11) Bei der vorübergehenden Aufbewahrung von Waffen im Sinne des
+(9) Bei der vorübergehenden Aufbewahrung von Waffen im Sinne des
 Absatzes 1 Satz 1 oder des Absatzes 2 oder von Munition außerhalb der
 Wohnung, insbesondere im Zusammenhang mit der Jagd oder dem
 sportlichen Schießen, hat der Verpflichtete die Waffen oder Munition
 unter angemessener Aufsicht aufzubewahren oder durch sonstige
 erforderliche Vorkehrungen gegen Abhandenkommen oder unbefugte
 Ansichnahme zu sichern, wenn die Aufbewahrung gemäß den Anforderungen
-der Absätze 1 bis 8 nicht möglich ist.
+des Absatzes 1 und 2 nicht möglich ist.
 
+(10) Die Konformitätsbewertung von Sicherheitsbehältnissen und
+Sicherungseinrichtungen nach den Absätzen 1 und 2 erfolgt durch
+akkreditierte Stellen. Akkreditierte Stellen sind Stellen, die
+
+1.  Konformitätsbewertungen auf dem Gebiet der Zertifizierung von
+    Erzeugnissen des Geldschrank- und Tresorbaus einschließlich Schlössern
+    zum Schutz gegen Einbruchdiebstahl vornehmen und
+
+
+2.  hierfür über eine Akkreditierung einer nationalen
+    Akkreditierungsstelle nach Artikel 4 Absatz 1 der Verordnung (EG) Nr.
+    765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008
+    über die Vorschriften für die Akkreditierung und Marktüberwachung im
+    Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der
+    Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S.
+    30) in der jeweils geltenden Fassung verfügen.
+
+
+
+Als nationale Akkreditierungsstellen gelten
+
+1.  Stellen, die nach § 8 des Akkreditierungsstellengesetzes vom 31. Juli
+    2009 (BGBl. I S. 2625), das zuletzt durch Artikel 4 Absatz 79 des
+    Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist, in
+    der jeweils geltenden Fassung beliehen oder errichtet sind, und
+
+
+2.  jede andere von einem Mitgliedstaat oder einem Staat des Europäischen
+    Wirtschaftsraums nach Artikel 4 Absatz 1 der Verordnung (EG) Nr.
+    765/2008 als nationale Akkreditierungsstelle benannte Stelle.
+
+
+
+
+    Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_02_BJNR212300003BJNE001503128]:     Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_03_BJNR212300003BJNE001503128]:     Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_04_BJNR212300003BJNE001503128]:     Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_05_BJNR212300003BJNE001503128]: 
 
 ### § 14 Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
 
 Die zuständige Behörde kann auf Antrag eines Betreibers eines
 Schützenhauses, einer Schießstätte oder eines Waffengewerbes
-Abweichungen von den Anforderungen des § 13 Abs. 1 bis 5 und 6 Satz 1
+Abweichungen von den Anforderungen des § 13 Absatz 1, 2 und 4 Satz 1
 und 2 zulassen, wenn ihr ein geeignetes Aufbewahrungskonzept vorgelegt
 wird. Sie hat bei ihrer Entscheidung neben der für die Aufbewahrung
 vorgesehenen Art und der Anzahl der Waffen oder der Munition und des
@@ -973,285 +1034,146 @@ Niederschrift und die Wiederholung der Prüfung gilt § 2 Abs. 3 Satz 2
 und Abs. 4 und 5 entsprechend.
 
 
-### Unterabschnitt 2 - Waffenherstellungs- und Waffenhandelsbücher
+### Unterabschnitt 2 - Ersatzdokumentation
 
 
 
-#### § 17 Grundsätze der Buchführungspflicht
+#### § 17 Grundsätze für das Führen der Ersatzdokumentation
 
-(1) Das Waffenherstellungs- und das Waffenhandelsbuch sind in
-gebundener Form oder in Karteiform oder mit Hilfe der elektronischen
-Datenverarbeitung im Betrieb oder in dem Betriebsteil, in dem die
-Schusswaffen hergestellt oder vertrieben werden, zu führen und, gegen
-Abhandenkommen, Datenverlust und unberechtigten Zugriff gesichert,
-aufzubewahren.
+(1) Die Ersatzdokumentation ist in gebundener Form oder in Karteiform
+oder mit Hilfe der elektronischen Datenverarbeitung im Betrieb oder in
+dem Betriebsteil, in dem die Schusswaffen aufbewahrt werden, zu führen
+und gegen Abhandenkommen, Datenverlust und unberechtigten Zugriff
+gesichert aufzubewahren.
 
-(2) Wird das Buch in gebundener Form geführt, so sind die Seiten
-laufend zu nummerieren; die Zahl der Seiten ist auf dem Titelblatt
-anzugeben. Wird das Buch in Karteiform geführt, so sind die
-Karteiblätter der zuständigen Behörde zur Abstempelung der Blätter und
-zur Bestätigung ihrer Gesamtzahl vorzulegen.
+(2) Alle Eintragungen im Rahmen der Ersatzdokumentation sind
+unverzüglich in dauerhafter Form und in deutscher Sprache vorzunehmen;
+§ 239 Absatz 3 des Handelsgesetzbuches gilt entsprechend. Sofern eine
+Eintragung nicht gemacht werden kann, ist dies unter Angabe der Gründe
+zu vermerken.
 
-(3) Alle Eintragungen in das Buch sind unverzüglich in dauerhafter
-Form und in deutscher Sprache vorzunehmen; § 239 Abs. 3 des
-Handelsgesetzbuches gilt entsprechend. Sofern eine Eintragung nicht
-gemacht werden kann, ist dies unter Angabe der Gründe zu vermerken.
+(3) Die Ersatzdokumentation ist zum 31. Dezember jeden zweiten Jahres
+sowie beim Wechsel des Betriebsinhabers oder bei der Einstellung des
+Betriebs mit Datum und Unterschrift so abzuschließen, dass
+nachträglich Eintragungen nicht mehr vorgenommen werden können. Der
+beim Abschluss der Ersatzdokumentation verbliebene Bestand ist
+vorzutragen, bevor neue Eintragungen vorgenommen werden. Eine
+Ersatzdokumentation, die nicht mehr verwendet wird, ist unter Angabe
+des Datums abzuschließen.
 
-(4) Die Bücher sind zum 31. Dezember jeden zweiten Jahres sowie beim
-Wechsel des Betriebsinhabers oder bei der Einstellung des Betriebs mit
-Datum und Unterschrift so abzuschließen, dass nachträglich
-Eintragungen nicht mehr vorgenommen werden können. Der beim Abschluss
-der Bücher verbliebene Bestand ist vorzutragen, bevor neue
-Eintragungen vorgenommen werden. Ein Buch, das nicht mehr verwendet
-wird, ist unter Angabe des Datums abzuschließen.
 
-(5) Die Bücher mit den Belegen sind auf Verlangen der zuständigen
-Behörde auch in deren Diensträumen oder den Beauftragten der Behörde
+#### § 17a Vorlage und Aufbewahrung der Ersatzdokumentation
+
+(1) Die Ersatzdokumentation ist auf Verlangen der zuständigen Behörde
+auch in deren Diensträumen oder den Beauftragten der Behörde
 vorzulegen.
 
-(6) Der zur Buchführung Verpflichtete hat das Buch mit den Belegen im
-Betrieb oder in dem Betriebsteil, in dem die Schusswaffen hergestellt
-oder vertrieben werden, bis zum Ablauf von zehn Jahren, von dem Tage
-der letzten Eintragung an gerechnet, aufzubewahren. Will er das Buch
-nach Ablauf der in Satz 1 genannten Frist nicht weiter aufbewahren, so
-hat er es der zuständigen Behörde zur Aufbewahrung zu übergeben. Gibt
-der zur Buchführung Verpflichtete das Gewerbe auf, so hat er das Buch
-seinem Nachfolger zu übergeben oder der zuständigen Behörde zur
-Aufbewahrung auszuhändigen.
+(2) Der zur Anzeige nach § 37 Absatz 1 und § 37d Absatz 1 oder 2 des
+Waffengesetzes Verpflichtete hat die Ersatzdokumentation im Betrieb
+oder in dem Betriebsteil, in dem die Schusswaffen aufbewahrt werden,
+bis zum Ablauf von zehn Jahren, von dem Tage der letzten Eintragung an
+gerechnet, aufzubewahren. Will der Verpflichtete die
+Ersatzdokumentation nach Ablauf der in Satz 1 genannten Frist nicht
+weiter aufbewahren, so hat er sie der zuständigen Behörde zur
+Aufbewahrung zu übergeben. Gibt der Verpflichtete das Gewerbe auf, so
+hat er die Ersatzdokumentation seinem Nachfolger zu übergeben oder der
+zuständigen Behörde zur Aufbewahrung auszuhändigen. Der Verpflichtete
+oder sein Nachfolger hat die Ersatzdokumentation zu vernichten, wenn
+seit der letzten Eintragung 30 Jahre vergangen sind.
 
+(3) Die zuständigen Behörden haben die nach Absatz 2 Satz 2 oder Satz
+3 übernommenen Ersatzdokumentationen aufzubewahren. Sie haben die
+Ersatzdokumentation jeweils zu vernichten, wenn seit der letzten
+Eintragung 30 Jahre vergangen sind.
 
-#### § 18 Führung der Waffenbücher in gebundener Form
 
-(1) Wird das Waffenherstellungsbuch in gebundener Form geführt, so ist
-es nach folgendem Muster zu führen:
+#### § 18 Führung der Ersatzdokumentation in gebundener Form
 
-*    *   Linke Seite:
+(1) Wird die Ersatzdokumentation in gebundener Form geführt, so sind
+die Seiten laufend zu nummerieren; die Zahl der Seiten ist auf dem
+Titelblatt anzugeben.
 
-    *   Rechte Seite:
+(2) Die in gebundener Form geführte Ersatzdokumentation hat folgende
+Angaben zu enthalten:
 
+1.  laufende Nummer der Eintragung,
 
-*    *   1.
 
-    *   Laufende Nummer der Eintragung
+2.  Datum des Eingangs,
 
-    *   4.
 
-    *   Datum des Abgangsoder der Kenntnis des Verlustes
+3.  Waffentyp,
 
 
-*    *   2.
+4.  Name, Firma oder Marke, die auf der Waffe angebracht sind,
 
-    *   Datum der Fertigstellung
 
-    *
-    *
+5.  Herstellungsnummer,
 
-*    *   3.
 
-    *   Herstellungsnummer
+6.  Name und Anschrift des Überlassers,
 
-    *   5.
 
-    *   Name und Anschrift des Empfängers oder Art des Verlustes
+7.  Datum des Abgangs oder der Kenntnis des Verlustes,
 
 
-*    *
-    *
-    *   6.
+8.  Name und Anschrift des Empfängers oder Art des Verlustes,
 
-    *   Sofern die Schusswaffe nicht einem Erwerber nach § 21 Abs. 1 des
-        Waffengesetzes überlassen wird, die Bezeichnung der
-        Erwerbsberechtigung unter Angabe der ausstellenden Behörde und des
-        Ausstellungsdatums
 
+9.  sofern die Schusswaffe nicht einem Erwerber nach § 21 Absatz 1 des
+    Waffengesetzes überlassen wird, die Bezeichnung der
+    Erwerbsberechtigung unter Angabe der ausstellenden Behörde und des
+    Ausstellungsdatums, und
 
-*    *
-    *
-    *   7.
 
-    *   Sofern die Schusswaffe einem Erwerber nach § 34 Abs. 5 Satz 1 des
-        Waffengesetzes überlassen oder an ihn versandt wird, Bezeichnung und
-        Datum der Bestätigung der Anzeige
+10. sofern die Schusswaffe einem Erwerber nach § 34 Absatz 5 Satz 1 des
+    Waffengesetzes überlassen oder an ihn versandt wird, Bezeichnung und
+    Datum der Bestätigung der Anzeige durch das Bundesverwaltungsamt.
 
 
 
-Für jeden Waffentyp ist ein besonderes Blatt anzulegen, auf dem der
-Waffentyp und der Name, die Firma oder die Marke, die auf den Waffen
-angebracht sind, zu vermerken sind.
 
-(2) Wird das Waffenhandelsbuch in gebundener Form geführt, so ist es
-nach folgendem Muster zu führen:
+Die Angaben zu den Nummern 1 bis 6 sind auf den linken Seiten, die
+Angaben zu den Nummern 7 bis 10 jeweils auf der rechten Seite der
+gebundenen Ersatzdokumentation gegenüber einzutragen.
 
-*    *   Linke Seite:
+(3) Die Eintragungen nach Absatz 2 sind für jede Waffe gesondert
+vorzunehmen.
 
-    *   Rechte Seite:
 
+#### § 19 Führung der Ersatzdokumentation in Karteiform
 
-*    *   1.
+(1) Wird die Ersatzdokumentation in Karteiform geführt, so können die
+Eintragungen für mehrere Waffen desselben Typs (Waffenposten) nach
+Absatz 2 zusammengefasst werden. Auf einer Karteikarte darf nur ein
+Waffenposten nach Absatz 2 Nummer 1 eingetragen werden. Neueingänge
+dürfen auf demselben Karteiblatt erst eingetragen werden, wenn der
+eingetragene Waffenposten vollständig abgebucht ist. Abgänge sind mit
+den Angaben nach Absatz 2 Nummer 2 gesondert einzutragen. Für jeden
+Waffentyp ist ein besonderes Blatt anzulegen, auf dem der Waffentyp
+und der Name, die Firma oder die Marke, die auf der Waffe angebracht
+sind, zu vermerken sind. Die Karteiblätter sind der zuständigen
+Behörde zur Abstempelung der Blätter und zur Bestätigung ihrer
+Gesamtzahl vorzulegen.
 
-    *   Laufende Nummer der Eintragung
-
-    *   7.
-
-    *   Datum des Abgangs oder der Kenntnis des Verlustes
-
-
-*    *   2.
-
-    *   Datum des Eingangs
-
-    *
-    *
-
-*    *   3.
-
-    *   Waffentyp
-
-    *   8.
-
-    *   Name und Anschrift des Empfängers oder Art des Verlustes
-
-
-*    *   4.
-
-    *   Name, Firma oder Marke, die auf der Waffe angebracht sind
-
-    *   9.
-
-    *   Sofern die Schusswaffe nicht einem Erwerber nach § 21 Abs. 1 des
-        Waffengesetzes überlassen wird, die Bezeichnung der
-        Erwerbsberechtigung unter Angabe der ausstellenden Behörde und des
-        Ausstellungsdatums
-
-
-*    *   5.
-
-    *   Herstellungsnummer
-
-    *
-    *
-
-*    *   6.
-
-    *   Name und Anschrift des Überlassers
-
-    *   10.
-
-    *   Sofern die Schusswaffe einem Erwerber nach § 34 Abs. 5 Satz 1 des
-        Waffengesetzes überlassen oder an ihn versandt wird, Bezeichnung und
-        Datum der Bestätigung der Anzeige durch das Bundeskriminalamt.
-
-
-
-
-(3) Die Eintragungen nach den Absätzen 1 und 2 sind für jede Waffe
-gesondert vorzunehmen. Eine Waffe gilt im Sinne des Absatzes 1 Satz 1
-Nr. 2 als fertiggestellt,
-
-1.  sobald sie nach § 3 des Beschussgesetzes geprüft worden ist,
-
-
-2.  wenn die Waffe nicht der amtlichen Beschussprüfung unterliegt, sobald
-    sie zum Verkauf vorrätig gehalten wird.
-
-
-
-
-(4) Von der Eintragung des Namens und der Anschrift des Überlassers
-nach Absatz 2 Nr. 6 kann abgesehen werden bei Schusswaffen, deren
-Modell vor dem 1. Januar 1871 entwickelt worden ist,
-
-1.  mit Zündnadelzündung,
-
-
-2.  mit Zündhütchenzündung (Perkussionswaffen), soweit es sich um
-    einläufige Einzelladerwaffen handelt,
-
-
-3.  mit Lunten- oder Funkenzündung.
-
-
-
-
-
-#### § 19 Führung der Waffenbücher in Karteiform
-
-(1) Wird das Waffenherstellungsbuch oder das Waffenhandelsbuch in
-Karteiform geführt, so können die Eintragungen für mehrere Waffen
-desselben Typs (Waffenposten) nach Absatz 2 oder 3 zusammengefasst
-werden. Auf einer Karteikarte darf nur ein Waffenposten nach Absatz 2
-Nr. 1 oder Absatz 3 Nr. 1 eingetragen werden. Neueingänge dürfen auf
-demselben Karteiblatt erst eingetragen werden, wenn der eingetragene
-Waffenposten vollständig abgebucht ist. Abgänge sind mit den Angaben
-nach Absatz 2 Nr. 2 oder Absatz 3 Nr. 2 gesondert einzutragen. Für
-jeden Waffentyp ist ein besonderes Blatt anzulegen, auf dem der
-Waffentyp und der Name, die Firma oder die Marke, die auf der Waffe
-angebracht sind, zu vermerken sind.
-
-(2) Das Waffenherstellungsbuch ist nach folgendem Muster zu führen:
-
-1.  bei der Eintragung der Fertigstellung:
-
-    a)  Datum der Fertigstellung
-
-
-    b)  Stückzahl
-
-
-    c)  Herstellungsnummern
-
-
-
-
-
-2.  bei der Eintragung von Abgängen:
-
-    a)  laufende Nummer der Eintragung
-
-
-    b)  Datum des Abgangs oder der Kenntnis des Verlustes
-
-        c)
-
-        Stückzahl
-
-
-    d)  Herstellungsnummern
-
-
-    e)  Name und Anschrift des Empfängers oder Art des Verlustes
-
-
-    f)  sofern die Schusswaffe nicht einem Erwerber nach § 21 Abs. 1 des
-        Waffengesetzes überlassen wird, die Bezeichnung der
-        Erwerbsberechtigung unter Angabe der ausstellenden Behörde und des
-        Ausstellungsdatums
-
-
-    g)  sofern die Schusswaffe einem Erwerber nach § 34 Abs. 5 Satz 1 des
-        Waffengesetzes überlassen oder an ihn versandt wird, Bezeichnung und
-        Datum der Bestätigung der Anzeige durch das Bundeskriminalamt.
-
-
-
-
-
-
-
-(3) Das Waffenhandelsbuch ist nach folgendem Muster zu führen:
+(2) Die Ersatzdokumentation in Karteiform hat folgende Angaben zu
+enthalten:
 
 1.  bei der Eintragung des Eingangs:
 
-    a)  Datum des Eingangs
+    a)  laufende Nummer der Eintragung,
 
 
-    b)  Stückzahl
+    b)  Datum des Eingangs,
 
 
-    c)  Herstellungsnummern
+    c)  Stückzahl,
 
 
-    d)  Name und Anschrift des Überlassers
+    d)  Herstellungsnummern sowie
+
+
+    e)  Name und Anschrift des Überlassers,
 
 
 
@@ -1259,30 +1181,28 @@ angebracht sind, zu vermerken sind.
 
 2.  bei der Eintragung von Abgängen:
 
-    a)  laufende Nummer der Eintragung
+    a)  laufende Nummer der Eintragung,
 
 
-    b)  Datum des Abgangs oder der Kenntnis des Verlustes
+    b)  Datum des Abgangs oder der Kenntnis des Verlustes,
 
 
-    c)  Stückzahl
+    c)  Stückzahl,
 
 
-    d)  Herstellungsnummern
+    d)  Herstellungsnummern,
 
 
-    e)  Name und Anschrift des Empfängers oder Art des Verlustes
+    e)  Name und Anschrift des Empfängers oder Art des Verlustes,
 
 
-    f)  sofern die Schusswaffe nicht einem Erwerber nach § 21 Abs. 1 des
-        Waffengesetzes überlassen wird, die Bezeichnung der
-        Erwerbsberechtigung unter Angabe der ausstellenden Behörde und des
-        Ausstellungsdatums
+    f)  die Bezeichnung der Erwerbsberechtigung unter Angabe der ausstellenden
+        Behörde und des Ausstellungsdatums,
 
 
-    g)  sofern die Schusswaffe einem Erwerber nach § 34 Abs. 5 Satz 1 des
+    g)  sofern die Schusswaffe einem Erwerber nach § 34 Absatz 5 Satz 1 des
         Waffengesetzes überlassen oder an ihn versandt wird, Bezeichnung und
-        Datum der Bestätigung der Anzeige durch das Bundeskriminalamt.
+        Datum der Bestätigung der Anzeige durch das Bundesverwaltungsamt.
 
 
 
@@ -1290,53 +1210,28 @@ angebracht sind, zu vermerken sind.
 
 
 
-(4) Von der Eintragung des Namens und der Anschrift des Überlassers
-nach Absatz 3 Nr. 1 Buchstabe d kann abgesehen werden bei
-Schusswaffen, deren Modell vor dem 1. Januar 1871 entwickelt worden
-ist,
 
-1.  mit Zündnadelzündung,
+#### § 20 Führung der Ersatzdokumentation in elektronischer Form
 
-
-2.  mit Zündhütchenzündung (Perkussionswaffen), soweit es sich um
-    einläufige Einzelladerwaffen handelt,
-
-
-3.  mit Lunten- oder Funkenzündung.
-
-
-
-
-(5) § 17 Abs. 3, 5 und 6 ist auf die Eintragungen in den
-Karteiblättern sowie auf die Vorlage und Aufbewahrung der
-Karteiblätter und der Belege entsprechend anzuwenden.
-
-
-#### § 20 Führung der Waffenbücher in elektronischer Form
-
-(1) Wird das Waffenherstellungs- oder das Waffenhandelsbuch in
-elektronischer Form geführt, so müssen die gespeicherten Datensätze
-(aufzeichnungspflichtigen Vorgänge) die nach § 19 geforderten Angaben
-enthalten. Die Datensätze sind unverzüglich zu speichern; sie sind
-fortlaufend zu nummerieren. Die Bestimmungen des
-Bundesdatenschutzgesetzes sind zu beachten.
+(1) Wird die Ersatzdokumentation in elektronischer Form geführt, so
+müssen die gespeicherten Datensätze die nach § 19 Absatz 2 geforderten
+Angaben enthalten. Die Datensätze sind unverzüglich zu speichern; sie
+sind fortlaufend zu nummerieren.
 
 (2) Die gespeicherten Datensätze sind nach Ablauf eines jeden Monats
-in Klarschrift auszudrucken. Der Ausdruck ist nach Maßgabe des § 19 in
-Karteiform vorzunehmen. Der Name des Überlassers, des Erwerbers und
-die Erwerbsberechtigung können auch in verschlüsselter Form
-ausgedruckt werden. In diesem Fall ist dem Ausdruck ein Verzeichnis
-beizugeben, das eine unmittelbare Entschlüsselung der bezeichneten
-Daten ermöglicht. Die Bestände sind auf den nächsten Monat
-vorzutragen.
+in Klarschrift auszudrucken. Der Ausdruck hat so zu erfolgen, dass die
+Angaben im Ausdruck den Angaben der Ersatzdokumentation in Karteiform
+nach § 19 Absatz 2 entsprechen. Der Name des Überlassers, des
+Erwerbers und die Erwerbsberechtigung können auch in verschlüsselter
+Form ausgedruckt werden. In diesem Fall ist dem Ausdruck ein
+Verzeichnis beizugeben, das eine unmittelbare Entschlüsselung der
+bezeichneten Daten ermöglicht. Die Bestände sind auf den nächsten
+Monat vorzutragen.
 
-(3) § 17 Abs. 3, 5 und 6 ist auf die Eintragungen in den
-Karteiblättern sowie auf die Vorlage und Aufbewahrung der
-Karteiblätter und der Belege entsprechend anzuwenden. Der Ausdruck der
-nach dem letzten Monatsabschluss gespeicherten Datensätze ist auf
-Verlangen der zuständigen Behörde auch in deren Diensträumen oder den
-Beauftragten der Behörde auch während des laufenden Monats jederzeit
-vorzulegen.
+(3) Der Ausdruck der nach dem letzten Monatsabschluss gespeicherten
+Datensätze ist auf Verlangen der zuständigen Behörde auch in deren
+Diensträumen oder den Beauftragten der Behörde auch während des
+laufenden Monats jederzeit vorzulegen.
 
 (4) Die zuständige Behörde kann Ausnahmen von Absatz 2 Satz 1 und 5
 zulassen, wenn der Gesamtbestand an Waffen zu Beginn eines jeden
@@ -1352,67 +1247,94 @@ Klarschrift ausgedruckt werden können.
 
 #### § 21 Kennzeichnung von Schusswaffen
 
-(1) Wird die Kennzeichnung nach § 24 Abs. 1 Satz 1 Nr. 1 des
-Waffengesetzes auf mehreren wesentlichen Teilen angebracht, so müssen
-die Angaben auf denselben Hersteller oder Händler hinweisen.
+(1) Wer Schusswaffen im Geltungsbereich des Waffengesetzes herstellt
+oder in diesen verbringt, hat folgende in § 24 Absatz 1 bis 3 des
+Waffengesetzes genannte Angaben auf folgenden wesentlichen Teilen der
+Schusswaffen anzubringen:
 
-(2) Bei Schusswaffen mit glatten Läufen sind auf jedem glatten Lauf
-der Laufdurchmesser, der 23 Zentimeter +- 1 Zentimeter vom Stoßboden
-gemessen wird, und die Lagerlänge anzubringen. Schusswaffen, bei denen
-der Lauf oder die Trommel ohne Anwendung von Hilfsmitteln ausgetauscht
-werden kann, sind auf dem Verschluss nach § 24 Abs. 1 Satz 1 Nr. 1 und
-3 des Waffengesetzes zu kennzeichnen. Auf dem Lauf und der Trommel
-sind Angaben über den Hersteller und die Bezeichnung der Munition (§
-24 Abs. 1 Satz 1 Nr. 1 und 2 des Waffengesetzes) anzubringen.
-
-(3) Wer eine Schusswaffe gewerbsmäßig verändert oder wesentliche Teile
-einer Schusswaffe nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.3
-zum Waffengesetz gewerbsmäßig austauscht und dabei die Angaben über
-den Hersteller (§ 24 Abs. 1 Satz 1 Nr. 1 des Waffengesetzes) entfernt,
-hat seinen Namen, seine Firma oder seine Marke auf der Schusswaffe
-anzubringen. Auf der Schusswaffe und den ausgetauschten Teilen darf
-keine Kennzeichnung angebracht sein, die auf verschiedene Hersteller
-oder Händler hinweist.
-
-(4) Wer gewerbsmäßig Schusswaffen
-
-1.  so verkürzt, dass die Länge nicht mehr als 60 Zentimeter beträgt,
+1.  die Angaben nach § 24 Absatz 1 Satz 1 Nummer 1, 2, 4 und 5 sowie
+    Absatz 2 und 3 des Waffengesetzes auf dem führenden wesentlichen Teil
+    der Schusswaffe;
 
 
-2.  in ihrer Schussfolge verändert,
+2.  die Angaben nach § 24 Absatz 1 Satz 1 Nummer 1 und 5 des
+    Waffengesetzes auf den wesentlichen Teilen der Schusswaffe, die keine
+    führenden wesentlichen Teile sind;
 
 
-3.  mit einer Bewegungsenergie der Geschosse von nicht mehr als 7,5 Joule
-    in Schusswaffen mit einer höheren Bewegungsenergie der Geschosse
-    umarbeitet,
-
-
-4.  mit einer Bewegungsenergie der Geschosse von mehr als 7,5 Joule in
-    Schusswaffen mit einer geringeren Bewegungsenergie der Geschosse
-    umarbeitet,
-
-
-5.  mit einer Bewegungsenergie der Geschosse von weniger als 0,08 Joule in
-    Schusswaffen mit einer höheren Bewegungsenergie der Geschosse
-    umarbeitet oder
-
-
-6.  in Waffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 zum
-    Waffengesetz oder in Gegenstände nach Anlage 1 Abschnitt 1
-    Unterabschnitt 1 Nr. 1.4 zum Waffengesetz abändert,
+3.  die Angabe nach § 24 Absatz 1 Satz 1 Nummer 3 des Waffengesetzes auf
+    dem Lauf und auf dem Patronenlager.
 
 
 
-hat seinen Namen, seine Firma oder seine Marke auch dann auf der
-Schusswaffe dauerhaft anzubringen, wenn er die Angaben über den
-Hersteller (§ 24 Abs. 1 Satz 1 Nr. 1 des Waffengesetzes) nicht
-entfernt. Haben die Veränderungen nach Satz 1 Nr. 1 bis 3 oder 5 zur
-Folge, dass die Bewegungsenergie der Geschosse 7,5 Joule
-überschreitet, so ist auf der Schusswaffe auch die Herstellungsnummer
-(§ 24 Abs. 1 Satz 1 Nr. 3 des Waffengesetzes) anzubringen und das
-Kennzeichen nach § 24 Abs. 2 des Waffengesetzes zu entfernen. Neben
-der auf Grund der Änderung angebrachten Kennzeichnung ist dauerhaft
-der Buchstabe "U" anzubringen.
+
+Bei Schusswaffen, deren Bauart nach § 8 des Beschussgesetzes
+zugelassen ist, sind die nach § 24 Absatz 1 Satz 1 Nummer 1 und 3 in
+Verbindung mit Satz 2 Nummer 1 Buchstabe a des Waffengesetzes
+anzubringenden Angaben nur auf dem führenden wesentlichen Teil
+anzubringen. Auf Druckluft- und Federdruckwaffen nach Anlage 1
+Abschnitt 1 Unterabschnitt 1 Nummer 2.9 des Waffengesetzes ist Satz 1
+Nummer 2 nicht anzuwenden.
+
+(2) Abweichend von Absatz 1 Satz 1 Nummer 2 und Satz 3 sind
+wesentliche Teile erlaubnispflichtiger Schusswaffen mit den Angaben
+nach § 24 Absatz 1 Satz 1 Nummer 1, 2, 4 und 5 des Waffengesetzes zu
+kennzeichnen, wenn sie einzeln gehandelt werden. Bei Wechsel- oder
+Einstecksystemen ist der Lauf gemäß Absatz 1 Satz 1 Nummer 1 und 3 und
+der Verschluss sowie zugehörige Gehäuseteile gemäß Absatz 1 Satz 1
+Nummer 2 zu kennzeichnen.
+
+(3) Wird eine Schusswaffe aus wesentlichen Teilen hergestellt, die
+bereits mindestens mit einer Seriennummer gekennzeichnet sind, so sind
+diese wesentlichen Teile abweichend von Absatz 1 Satz 1 Nummer 1 und 2
+lediglich mit der Angabe nach § 24 Absatz 1 Satz 1 Nummer 1 des
+Waffengesetzes zu kennzeichnen. Es ist jedoch sicherzustellen, dass
+auf dem führenden wesentlichen Teil alle Angaben gemäß Absatz 1 Satz 1
+Nummer 1 angebracht sind. Deuten Angaben auf der Schusswaffe auf einen
+anderen Hersteller hin, so sind diese durch zwei waagerecht dauerhaft
+eingebrachte Striche zu entwerten, wobei die Angaben weiterhin lesbar
+bleiben müssen. Angaben auf der Schusswaffe, die auf eine andere
+Munition oder auf ein anderes Laufkaliber hindeuten, sind zu
+entwerten.
+
+(4) Wer ein wesentliches Teil einer Schusswaffe austauscht, hat das
+neu eingebaute wesentliche Teil wie in Absatz 1 bestimmt zu
+kennzeichnen. Absatz 3 gilt entsprechend.
+
+(5) Wer eine Schusswaffe umbaut, hat auf allen wesentlichen Teilen,
+die beim Umbau verändert wurden, die Angaben nach § 24 Absatz 1 Satz 1
+Nummer 1 des Waffengesetzes anzubringen. Bereits vorhandene Angaben
+müssen weiterhin lesbar bleiben. Hat der Umbau zur Folge, dass die
+Bewegungsenergie der Geschosse 7,5 Joule überschreitet, so sind alle
+wesentlichen Teile entsprechend Absatz 1 zu kennzeichnen. Das
+Kennzeichen nach § 24 Absatz 2 des Waffengesetzes ist zu entfernen.
+Auf dem führenden wesentlichen Teil ist der Buchstabe „U“ anzubringen.
+
+(6) Bei Aussonderung von Schusswaffen aus staatlicher Verfügung und
+dauerhafter Überführung in zivile Verwendung sind die Angaben nach §
+24 Absatz 3 des Waffengesetzes durch zwei waagerecht dauerhaft
+eingebrachte Striche zu entwerten. Dabei muss erkennbar bleiben,
+welche nach § 55 Absatz 1 Satz 1 des Waffengesetzes bezeichnete Stelle
+verfügungsberechtigt über die Schusswaffe war. Vor der dauerhaften
+Überführung in zivile Verwendung hat die überführende Stelle
+sicherzustellen, dass die Schusswaffe gemäß Absatz 1 gekennzeichnet
+ist.
+
+(7) Die Kennzeichnung gemäß den Absätzen 1 bis 6 hat eine Schriftgröße
+von mindestens 1,6 Millimetern aufzuweisen. Von der Mindestgröße gemäß
+Satz 1 kann abgewichen werden, wenn dies aufgrund der geringen Größe
+des zu kennzeichnenden wesentlichen Teils erforderlich ist. Für die
+Kennzeichnung gemäß den Absätzen 1 bis 6 sind lateinische Buchstaben
+sowie das arabische und das römische Zahlensystem zulässig. Wird eine
+Schusswaffe in den Geltungsbereich des Waffengesetzes verbracht,
+werden auch Kennzeichnungen in griechischer oder kyrillischer Schrift
+als ordnungsgemäß anerkannt, sofern die übrigen Vorgaben erfüllt sind.
+
+(8) Besteht das gemäß den Absätzen 1 bis 7 zu kennzeichnende Gehäuse
+einer Schusswaffe aus Kunststoff, kann die Kennzeichnung gemäß den
+Absätzen 1 bis 7 auf einer Metallplatte angebracht werden, die fest
+mit dem Material des Gehäuses verbunden ist, sodass bei ihrer
+Entfernung ein Teil des Gehäuses zerstört würde.
 
 
 ## Abschnitt 7 - Ausbildung in der Verteidigung mit Schusswaffen
@@ -1436,16 +1358,16 @@ Schießübungen sind verboten.
 (2) Wer Lehrgänge zur Ausbildung in der Verteidigung mit Schusswaffen
 oder Schießübungen dieser Art veranstalten will, hat die beabsichtigte
 Tätigkeit und den Ort, an dem die Veranstaltung stattfinden soll, zwei
-Wochen vorher der zuständigen Behörde schriftlich anzuzeigen. Auf
-Verlangen der zuständigen Behörde ist ein Lehrgangsplan oder
-Übungsprogramm vorzulegen, aus dem die zu vermittelnden Kenntnisse und
-die Art der beabsichtigten Schießübungen erkennbar sind. Die
-Beendigung der Lehrgänge oder Schießübungen ist der zuständigen
-Behörde innerhalb von zwei Wochen ebenfalls anzuzeigen. Der Betreiber
-der Schießstätte darf die Durchführung von Veranstaltungen der
-genannten Art nur zulassen, wenn der Veranstalter ihm gegenüber
-schriftlich erklärt hat, dass die nach Satz 1 erforderliche Anzeige
-erfolgt ist.
+Wochen vorher der zuständigen Behörde schriftlich oder elektronisch
+anzuzeigen. Auf Verlangen der zuständigen Behörde ist ein
+Lehrgangsplan oder Übungsprogramm vorzulegen, aus dem die zu
+vermittelnden Kenntnisse und die Art der beabsichtigten Schießübungen
+erkennbar sind. Die Beendigung der Lehrgänge oder Schießübungen ist
+der zuständigen Behörde innerhalb von zwei Wochen ebenfalls
+anzuzeigen. Der Betreiber der Schießstätte darf die Durchführung von
+Veranstaltungen der genannten Art nur zulassen, wenn der Veranstalter
+ihm gegenüber schriftlich oder elektronisch erklärt hat, dass die nach
+Satz 1 erforderliche Anzeige erfolgt ist.
 
 (3) In der Anzeige über die Aufnahme der Lehrgänge oder Schießübungen
 hat der Veranstalter die Personalien der volljährigen verantwortlichen
@@ -1553,6 +1475,106 @@ solange der Veranstalter
 
 
 
+## Abschnitt 7a - Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen
+
+
+
+### § 25a Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen
+
+(1) Der Besitzer einer unbrauchbar gemachten Schusswaffe ist
+verpflichtet, die Deaktivierungsbescheinigung nach § 8a Absatz 2 Satz
+3 des Beschussgesetzes aufzubewahren. Kommt ihm die
+Deaktivierungsbescheinigung abhanden, so hat er dies der gemäß § 48
+Absatz 1 und 3 des Waffengesetzes zuständigen Behörde unverzüglich
+nach Feststellung des Abhandenkommens anzuzeigen. § 37b Absatz 5 des
+Waffengesetzes gilt entsprechend.
+
+(2) Wer eine unbrauchbar gemachte Schusswaffe führt oder
+transportiert, ist verpflichtet, dabei die Deaktivierungsbescheinigung
+oder eine amtlich beglaubigte Abschrift hiervon mit sich zu führen.
+
+(3) Das dauerhafte Überlassen im Geltungsbereich des Waffengesetzes
+sowie das Verbringen und die Mitnahme von unbrauchbar gemachten
+Schusswaffen
+
+1.  in den Geltungsbereich des Waffengesetzes,
+
+
+2.  durch den Geltungsbereich des Waffengesetzes oder
+
+
+3.  aus dem Geltungsbereich des Waffengesetzes in einen anderen
+    Mitgliedstaat
+
+
+
+
+ist nur zulässig gemeinsam mit der Deaktivierungsbescheinigung nach §
+8a Absatz 2 Satz 3 des Beschussgesetzes oder gemeinsam mit einer
+entsprechenden Bescheinigung eines anderen Mitgliedstaates auf
+Grundlage des Anhangs III der Durchführungsverordnung (EU) 2015/2403
+der Kommission vom 15. Dezember 2015 zur Festlegung gemeinsamer
+Leitlinien über Deaktivierungsstandards und -techniken, die
+gewährleisten, dass Feuerwaffen bei der Deaktivierung endgültig
+unbrauchbar gemacht werden (ABl. L 333 vom 19.12.2015, S. 62), die
+zuletzt durch die Durchführungsverordnung (EU) 2018/337 (ABl. L 65 vom
+8\.3.2018, S. 1) geändert worden ist.
+
+
+### § 25b Vernichtung unbrauchbar gemachter Schusswaffen
+
+Wer eine unbrauchbar gemachte Schusswaffe vernichtet, hat die
+Deaktivierungsbescheinigung und alle beglaubigten Abschriften,
+Abdrucke, Ablichtungen und dergleichen der Deaktivierungsbescheinigung
+unverzüglich bei der gemäß § 48 Absatz 1 und 3 des Waffengesetzes
+zuständigen Behörde abzugeben.
+
+
+### § 25c Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen
+
+(1) Für Schusswaffen, die
+
+1.  vor dem 1. April 2003 entsprechend den Anforderungen des § 7 der
+    Ersten Verordnung zum Waffengesetz vom 24. Mai 1976 (BGBl. I S. 1285)
+    in der bis zu diesem Zeitpunkt geltenden Fassung unbrauchbar gemacht
+    worden sind,
+
+
+2.  vor dem 8. April 2016 entsprechend den Anforderungen der Anlage 1
+    Abschnitt 1 Unterabschnitt 1 Nummer 1.4 in der Fassung des Gesetzes
+    vom 11. Oktober 2002 (BGBl. I S. 3970, 4592; 2003 I S. 1957)
+    unbrauchbar gemacht worden sind und die ein Zulassungszeichen nach
+    Anlage II Abbildung 11 der Beschussverordnung vom 13. Juli 2006 (BGBl.
+    I S. 1474) in der bis zu diesem Zeitpunkt geltenden Fassung aufweisen
+    oder
+
+
+3.  vor dem 28. Juni 2018 entsprechend den Anforderungen der
+    Durchführungsverordnung (EU) 2015/2403 unbrauchbar gemacht worden
+    sind,
+
+
+
+
+besteht die Berechtigung zum Besitz fort, es sei denn, die
+Schusswaffen werden in einen anderen Mitgliedstaat verbracht. Im
+Übrigen gelten die in Satz 1 genannten Schusswaffen als Schusswaffen
+im Sinne von § 1 Absatz 2 Nummer 1 des Waffengesetzes.
+
+(2) Wer gemäß Absatz 1 Satz 1 zum Besitz einer dort genannten
+Schusswaffe berechtigt ist, kann diese erlaubnisfrei überlassen. § 37a
+Satz 1 Nummer 1, § 37e Absatz 3, §§ 37f und 37h des Waffengesetzes
+gelten entsprechend.
+
+(3) Für die Erteilung einer Erlaubnis zum Erwerb und Besitz von in
+Absatz 1 Satz 1 genannten Schusswaffen ist weder ein Nachweis der
+Sachkunde gemäß § 7 des Waffengesetzes noch ein Nachweis eines
+Bedürfnisses gemäß § 8 des Waffengesetzes erforderlich.
+
+(4) § 39b Absatz 3 des Waffengesetzes gilt für die unter Absatz 1 Satz
+1 genannten Schusswaffen entsprechend.
+
+
 ## Abschnitt 8 - Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten
 
 
@@ -1563,9 +1585,8 @@ solange der Veranstalter
 
 #### § 26 Allgemeine Bestimmungen
 
-(1) Auf Staatsangehörige eines Mitgliedstaates der Europäischen Union
-(Mitgliedstaat) ist § 21 Abs. 4 Nr. 1 des Waffengesetzes nicht
-anzuwenden.
+(1) Auf Staatsangehörige eines Mitgliedstaates ist § 21 Abs. 4 Nr. 1
+des Waffengesetzes nicht anzuwenden.
 
 (2) Auf Staatsangehörige eines Mitgliedstaates, die in einem anderen
 Mitgliedstaat ihren gewöhnlichen Aufenthalt haben, ist § 21 Abs. 4 Nr.
@@ -1704,150 +1725,131 @@ Erteilung hat der Antragsteller folgende Angaben zu machen:
 
 #### § 29 Erlaubnisse zum Verbringen von Waffen und Munition
 
-(1) Eine Erlaubnis oder Zustimmung nach den §§ 29 bis 31 des
-Waffengesetzes wird durch einen Erlaubnisschein der zuständigen
-Behörde erteilt.
+(1) Eine Erlaubnis nach § 29 oder § 30 des Waffengesetzes wird durch
+einen Erlaubnisschein der zuständigen Behörde erteilt.
 
-(2) Für die Erteilung einer Zustimmung nach § 29 Abs. 2 und § 30 Abs.
-1 Satz 2 des Waffengesetzes hat der Antragsteller folgende Angaben zu
-machen:
+(2) Für die Erteilung einer Erlaubnis nach § 29 Absatz 1 und 2 des
+Waffengesetzes hat der Antragsteller folgende Angaben zu machen:
 
-1.  über die Person des Überlassers und des Erwerbers oder desjenigen, der
+1.  über den Versender- und den Empfängermitgliedstaat:
+
+    jeweils die Bezeichnung des Mitgliedstaates;
+
+
+2.  über die Person des Überlassers und des Erwerbers oder desjenigen, der
     die Waffen oder Munition ohne Besitzwechsel in einen anderen
     Mitgliedstaat verbringt:
 
-    Vor- und Familienname, Geburtsdatum und -ort, Wohnort und Anschrift,
-    bei Firmen auch Telefon- oder Telefaxnummer, sowie Nummer,
-    Ausstellungsdatum und ausstellende Behörde des Passes oder des
-    Personalausweises und die Angabe, ob es sich um einen Waffenhändler
-    oder um eine Privatperson handelt;
+    a)  Vor- und Familienname,
 
 
-2.  über die Waffen:
-
-    bei Schusswaffen Anzahl und Art der Waffen, Kategorie nach der Anlage
-    1 Abschnitt 3 zum Waffengesetz, Firma oder eingetragenes Markenzeichen
-    des Herstellers, Modellbezeichnung, Kaliber, Herstellungsnummer und
-    gegebenenfalls CIP-Beschusszeichen; bei sonstigen Waffen Anzahl und
-    Art der Waffen;
+    b)  Geburtsdatum und -ort,
 
 
-3.  über die Munition:
-
-    Anzahl und Art der Munition, Kategorie nach der Richtlinie 93/15/EWG
-    des Rates vom 5. April 1993 zur Harmonisierung der Bestimmungen über
-    das Inverkehrbringen und die Kontrolle von Explosivstoffen für zivile
-    Zwecke (ABl. EG Nr. L 121 S. 20), Firma oder eingetragenes
-    Markenzeichen des Herstellers, Kaliber und gegebenenfalls CIP-
-    Munitionsprüfzeichen;
+    c)  Anschrift,
 
 
-4.  über die Lieferanschrift:
-
-    genaue Angabe des Ortes, an den die Waffen oder die Munition versandt
-    oder transportiert werden.
+    d)  bei Unternehmen auch Telefon- oder Telefaxnummer und
 
 
-
-Die Angaben nach Satz 1 sind auch für die Erteilung einer Erlaubnis
-zum Verbringen aus einem Drittstaat nach § 29 Abs. 1 oder § 30 Abs. 1
-Satz 1 des Waffengesetzes erforderlich; in diesen Fällen muss der
-Erlaubnisschein alle in Satz 1 genannten Angaben enthalten.
-
-(3) Wird gewerbsmäßigen Waffenherstellern oder -händlern (§ 21 des
-Waffengesetzes) die Zustimmung nach § 29 Abs. 2 des Waffengesetzes
-allgemein zum Verbringen von Waffen und Munition von einem
-gewerbsmäßigen Waffenhersteller oder -händler, der Inhaber einer
-allgemeinen Erlaubnis des anderen Mitgliedstaats zum Verbringen von
-Waffen und Munition nach Artikel 11 Abs. 3 der Richtlinie 91/477/EWG
-des Rates vom 18. Juni 1991 über die Kontrolle des Erwerbs und des
-Besitzes von Waffen (ABl. EG Nr. L 256 S. 51) ist, befristet erteilt,
-so kann bei Schusswaffen auf die Angaben des Kalibers und der
-Herstellungsnummer verzichtet werden. Auf die in Satz 1 genannten
-Angaben kann auch bei der Erteilung einer Erlaubnis zum Verbringen aus
-einem Drittstaat zwischen gewerbsmäßigen Waffenherstellern oder
--händlern nach § 29 Abs. 1 oder § 30 Abs. 1 des Waffengesetzes
-verzichtet werden, wenn besondere Gründe hierfür glaubhaft gemacht
-werden. Im Falle des Satzes 2 müssen die genannten Angaben den nach §
-33 Abs. 3 des Waffengesetzes zuständigen Überwachungsbehörden bei dem
-Verbringen mitgeteilt werden.
-
-(4) Für die Erteilung einer Erlaubnis nach § 31 Abs. 1 des
-Waffengesetzes hat der Antragsteller neben den in Absatz 2 Satz 1
-genannten Angaben über die Versendung der Waffen oder der Munition das
-Beförderungsmittel, den Tag der Absendung und den voraussichtlichen
-Ankunftstag mitzuteilen.
-
-(5) Für die Erteilung einer Erlaubnis nach § 31 Abs. 2 des
-Waffengesetzes hat der Antragsteller Angaben über Name und Anschrift
-der Firma, Telefon- oder Telefaxnummer, Vor- und Familienname,
-Geburtsort und -datum des Inhabers der Erlaubnis nach § 21 Abs. 1 des
-Waffengesetzes, Empfängermitgliedstaat und Art der Waffen und Munition
-zu machen. Bei dem Transport der Schusswaffen oder der Munition
-innerhalb der Europäischen Union zu einem Waffenhändler in einem
-anderen Mitgliedstaat durch einen oder im Auftrag eines Inhabers der
-Erlaubnis nach § 31 Abs. 2 des Waffengesetzes kann an Stelle des
-Erlaubnisscheins nach Absatz 1 eine Erklärung mitgeführt werden, die
-auf diesen Erlaubnisschein verweist. Die Erklärung muss auf dem
-hierfür vorgesehenen amtlichen Vordruck erfolgen und folgende Angaben
-enthalten:
-
-1.  die Bezeichnung des Versender- und des Empfängermitgliedstaates, der
-    Durchgangsländer, der Beförderungsart und des Beförderers;
-
-
-2.  über den Versender, den Erklärungspflichtigen und den Empfänger:
-
-    Name und Anschrift der Firma, Telefon- oder Telefaxnummer;
-
-
-3.  über die Erlaubnis nach § 31 Abs. 2 des Waffengesetzes:
-
-    Ausstellungsdatum und -nummer, ausstellende Behörde und Geltungsdauer;
-
-
-4.  über die vorherige Zustimmung des anderen Mitgliedstaates oder die
-    Freistellung von der vorherigen Zustimmung:
-
-    Ausstellungsdatum und ausstellende Behörde, Angabe der Waffen; ein
-    Doppel der vorherigen Zustimmung oder der Freistellung ist der
-    Erklärung beizufügen;
-
-
-5.  über die Waffen:
-
-    bei Schusswaffen Anzahl und Art der Waffen, Kategorie nach der Anlage
-    1 Abschnitt 3 des Waffengesetzes, Firma oder eingetragenes
-    Markenzeichen des Herstellers, Modellbezeichnung, Kaliber,
-    Herstellungsnummer und gegebenenfalls CIP-Beschusszeichen; bei
-    sonstigen Waffen Anzahl und Art der Waffen;
-
-
-6.  über die Munition:
-
-    Anzahl und Art der Munition, Kategorie nach der Richtlinie 93/15/EWG
-    des Rates vom 5. April 1993 zur Harmonisierung der Bestimmungen über
-    das Inverkehrbringen und die Kontrolle von Explosivstoffen für zivile
-    Zwecke (ABl. EG Nr. L 121 S. 20), Firma oder eingetragenes
-    Markenzeichen des Herstellers, Kaliber und gegebenenfalls CIP-
-    Munitionsprüfzeichen;
-
-
-7.  über die Lieferanschrift:
-
-    genaue Angabe des Ortes, an den die Waffen oder die Munition versandt
-    oder transportiert werden.
+    e)  die Angabe, ob es sich um einen Waffenhändler oder um eine
+        Privatperson handelt;
 
 
 
 
 
-#### § 30 Erlaubnisse für die Mitnahme von Waffen und Munition nach oder durch Deutschland
+3.  über die Waffen:
 
-(1) Eine Erlaubnis nach § 32 Abs. 1 Satz 1 des Waffengesetzes wird
-durch einen Erlaubnisschein der zuständigen Behörde erteilt. Für die
-Erteilung der Erlaubnis nach Satz 1 hat der Antragsteller folgende
-Angaben zu machen:
+    Anzahl und Art der Waffen;
+
+
+4.  über Schusswaffen zusätzlich zu den Angaben nach Nummer 3 die
+    folgenden weiteren Angaben:
+
+    a)  Kategorie nach der Anlage 1 Abschnitt 3 des Waffengesetzes,
+
+
+    b)  Name, Firma oder eingetragenes Markenzeichen des Herstellers,
+
+
+    c)  Modellbezeichnung,
+
+
+    d)  Kaliber,
+
+
+    e)  Herstellungsnummer und
+
+
+    f)  sofern vorhanden, CIP-Beschusszeichen;
+
+
+
+
+
+5.  über die Munition:
+
+    a)  Anzahl und Art der Munition,
+
+
+    b)  Firma oder eingetragenes Markenzeichen des Herstellers, Kaliber und
+
+
+    c)  sofern vorhanden, CIP-Munitionsprüfzeichen;
+
+
+
+
+
+6.  über die Lieferanschrift:
+
+    Anschrift, an die die Waffen oder die Munition versandt oder
+    transportiert werden;
+
+
+7.  über die Art und Weise der Verbringung im Fall des Verbringens aus dem
+    Geltungsbereich des Waffengesetzes in einen anderen Mitgliedstaat:
+
+    a)  das Beförderungsmittel,
+
+
+    b)  den Tag der Absendung,
+
+
+    c)  den voraussichtlichen Ankunftstag und
+
+
+    d)  die Durchgangsländer.
+
+
+
+
+
+
+
+Wird eine Erlaubnis zum Verbringen in oder durch den Geltungsbereich
+des Waffengesetzes zwischen gewerbsmäßigen Waffenherstellern oder
+Waffenhändlern beantragt, kann auf die Angabe des Kalibers und der
+Herstellungsnummer verzichtet werden, wenn besondere Gründe hierfür
+glaubhaft gemacht werden. Im Fall des Satzes 2 müssen die genannten
+Angaben den nach § 33 Absatz 3 des Waffengesetzes zuständigen
+Überwachungsbehörden beim Verbringen mitgeteilt werden, wenn das
+Verbringen aus einem Drittstaat erfolgt.
+
+(3) Für die Erteilung einer Erlaubnis nach § 30 des Waffengesetzes hat
+der Antragsteller Angaben über Name und Anschrift der Firma, Telefon-
+oder Telefaxnummer, Vor- und Familienname, Geburtsort und -datum des
+Inhabers der Erlaubnis nach § 21 Abs. 1 des Waffengesetzes,
+Empfängermitgliedstaat und Art der Waffen und Munition zu machen.
+
+
+#### § 30 Erlaubnisse für die Mitnahme von Waffen und Munition nach, durch oder aus Deutschland
+
+(1) Eine Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a Satz 1 des
+Waffengesetzes wird durch einen Erlaubnisschein der zuständigen
+Behörde erteilt. Für die Erteilung der Erlaubnis nach Satz 1 hat der
+Antragsteller folgende Angaben zu machen:
 
 1.  über seine Person:
 
@@ -1911,14 +1913,147 @@ und 3, soweit die Behörde hierauf nicht verzichtet hat.
 
 #### § 31 Anzeigen
 
-(1) Eine Anzeige nach § 31 Abs. 2 Satz 3 des Waffengesetzes an das
-Bundeskriminalamt ist mit dem hierfür vorgesehenen amtlichen Vordruck
-in zweifacher Ausfertigung zu erstatten. Die Anzeige muss die in § 29
-Abs. 5 Satz 3 genannten Angaben enthalten. Das Bundeskriminalamt
-bestätigt dem Anzeigenden den Eingang auf dem Doppel der Anzeige.
+(1) Eine Anzeige nach § 30 Satz 3 des Waffengesetzes an das
+Bundesverwaltungsamt muss folgende Angaben enthalten:
 
-(2) Eine Anzeige nach § 34 Abs. 4, erster Halbsatz des Waffengesetzes
-an das Bundeskriminalamt ist mit dem hierfür vorgesehenen amtlichen
+1.  über die Beförderung:
+
+    a)  die Bezeichnung des Versender- und des Empfängermitgliedstaates,
+
+
+    b)  die Bezeichnung der Durchgangsländer,
+
+
+    c)  die Beförderungsart und
+
+
+    d)  den Beförderer;
+
+
+
+
+
+2.  zu dem Versender, dem Erklärungspflichtigen und dem Empfänger jeweils:
+
+    a)  den Namen oder bei Unternehmen, sofern vorhanden, die Firma,
+
+
+    b)  Anschrift und
+
+
+    c)  Telefon- oder Telefaxnummer;
+
+
+
+
+
+3.  zu der Erlaubnis nach § 30 des Waffengesetzes:
+
+    a)  Ausstellungsdatum,
+
+
+    b)  Ausstellungsnummer,
+
+
+    c)  ausstellende Behörde,
+
+
+    d)  Geltungsdauer;
+
+
+
+
+
+4.  zu der Erlaubnis oder der Freistellung von der Erlaubnis des anderen
+    Mitgliedstaates:
+
+    a)  Ausstellungsdatum,
+
+
+    b)  ausstellende Behörde,
+
+
+    c)  Geltungsdauer,
+
+
+    d)  Angaben zu den von der Erlaubnis umfassten Waffen;
+
+
+
+
+
+5.  über die Waffen:
+
+    Anzahl und Art der Waffen;
+
+
+6.  über Schusswaffen zusätzlich zu den Angaben nach Nummer 5 die
+    folgenden weiteren Angaben:
+
+    a)  die Kategorie nach Anlage 1 Abschnitt 3 des Waffengesetzes,
+
+
+    b)  den Namen, die Firma oder das eingetragene Markenzeichen des
+        Herstellers,
+
+
+    c)  die Modellbezeichnung,
+
+
+    d)  das Kaliber,
+
+
+    e)  die Herstellungsnummer und
+
+
+    f)  das CIP-Beschusszeichen, sofern vorhanden;
+
+
+
+
+
+7.  zu der Munition:
+
+    a)  Art und Anzahl,
+
+
+    b)  Name, Firma, oder eingetragenes Markenzeichen des Herstellers,
+
+
+    c)  Kaliber,
+
+
+    d)  CIP-Munitionsprüfzeichen, falls vorhanden,
+
+
+    e)  Anschrift, an die die Waffen oder die Munition versandt oder
+        transportiert werden.
+
+
+
+
+
+
+
+Im Fall des Satzes 1 Nummer 4 ist der Anzeige eine Ablichtung der
+Erlaubnis oder Freistellung beizufügen.
+
+(2) Die Anzeige gemäß § 30 Satz 3 des Waffengesetzes an das
+Bundesverwaltungsamt hat unter Verwendung des hierfür vorgesehenen
+amtlichen Vordrucks oder elektronisch zu erfolgen. Für die
+elektronische Anzeige kann das Bundesverwaltungsamt Abweichungen von
+der Form, nicht aber vom Inhalt des amtlichen Vordrucks, zulassen. Das
+Bundesverwaltungsamt kann verlangen, dass der Anzeigende seine
+Identität auf geeignete Weise nachweist.
+
+(3) Im Fall der Verwendung des amtlichen Vordrucks bestätigt das
+Bundesverwaltungsamt den Eingang der vollständigen Anzeige auf dem
+Anzeigevordruck oder elektronisch. Im Fall der elektronischen Anzeige
+bestätigt das Bundesverwaltungsamt den Eingang der vollständigen
+Anzeige elektronisch.
+
+(4) Eine Anzeige nach § 34 Abs. 4, erster Halbsatz des Waffengesetzes
+an das Bundesverwaltungsamt ist mit dem hierfür vorgesehenen amtlichen
 Vordruck zu erstatten und muss folgende Angaben enthalten:
 
 1.  über die Person des Überlassers:
@@ -1941,10 +2076,10 @@ Vordruck zu erstatten und muss folgende Angaben enthalten:
 
 
 
-(3) Eine Anzeige nach § 34 Abs. 5 Satz 1 des Waffengesetzes an das
-Bundeskriminalamt ist mit dem hierfür vorgesehenen amtlichen Vordruck
-in zweifacher Ausfertigung zu erstatten und muss folgende Angaben
-enthalten:
+(5) Eine Anzeige nach § 34 Abs. 5 Satz 1 des Waffengesetzes an das
+Bundesverwaltungsamt ist mit dem hierfür vorgesehenen amtlichen
+Vordruck in zweifacher Ausfertigung zu erstatten und muss folgende
+Angaben enthalten:
 
 1.  über die Person des Erwerbers oder denjenigen, der eine Schusswaffe
     zum dortigen Verbleib in einen anderen Mitgliedstaat verbringt:
@@ -1980,51 +2115,82 @@ außerhalb des Geltungsbereichs des Waffengesetzes, insbesondere im
 Versandwege erwerben will, so ist die Angabe der Erwerbsberechtigung
 nach Satz 1 Nr. 1 nicht erforderlich, ferner genügt an Stelle des
 Passes oder des Personalausweises eine amtliche Beglaubigung dieser
-Urkunden. Das Bundeskriminalamt bestätigt dem Anzeigenden den Eingang
-auf dem Doppel der Anzeige.
+Urkunden. Das Bundesverwaltungsamt bestätigt dem Anzeigenden den
+Eingang auf dem Doppel der Anzeige.
 
 
 #### § 32 Mitteilungen der Behörden
 
-(1) Die zuständige Behörde übermittelt dem Bundeskriminalamt die
-Angaben nach § 29 Abs. 4 durch ein Doppel des Erlaubnisscheins.
+(1) Die zuständige Behörde teilt dem Bundesverwaltungsamt alle ihr
+vorliegenden erteilten Erlaubnisse zum Verbringen von Waffen oder
+Munition aus einem anderen Mitgliedstaat in den Geltungsbereich des
+Waffengesetzes und aus dem Geltungsbereich des Waffengesetzes in einen
+anderen Mitgliedstaat nach § 29 des Waffengesetzes unter Angabe des
+Datums der Erlaubniserteilung und des Ablaufdatums der Erlaubnis
+elektronisch mit. Die Mitteilung muss unverzüglich, im Fall des
+Verbringens aus dem Geltungsbereich des Waffengesetzes in einen
+anderen Mitgliedstaat spätestens bis zum nach § 29 Absatz 2 Satz 1
+Nummer 6 mitgeteilten Tag der Absendung, erfolgen. Die Mitteilung muss
+alle gemäß § 29 Absatz 2 erforderlichen Angaben enthalten. Eine
+Ablichtung des Erlaubnisscheins ist der Mitteilung beizufügen.
 
-(2) Das Bundeskriminalamt
+(2) Das Bundesverwaltungsamt
 
-1.  übermittelt dem anderen Mitgliedstaat die Angaben nach § 31 Abs. 1
-    Satz 2 und Abs. 2 und die nach Absatz 1 erhaltenen Angaben;
-
-
-2.  übermittelt die von anderen Mitgliedstaaten in den Fällen des § 29
-    Abs. 1 und des § 30 Abs. 1 des Waffengesetzes erhaltenen Angaben sowie
-    die von anderen Mitgliedstaaten erhaltenen Angaben über das Überlassen
-    von Waffen nach Anlage 1 Abschnitt 3 Nr. 1 bis 3 (Kategorien A 1.2 bis
-    C) zum Waffengesetz oder von Munition an Personen und den Besitz von
-    solchen Waffen oder Munition durch Personen, die jeweils ihren
-    gewöhnlichen Aufenthalt im Geltungsbereich des Waffengesetzes haben,
-    an die zuständige Behörde;
+1.  übermittelt dem anderen Mitgliedstaat die Angaben nach § 31 Absatz 1
+    und die nach Absatz 1 erhaltenen Angaben nach Maßgabe der Delegierten
+    Verordnung (EU) 2019/686 der Kommission vom 16. Januar 2019 zur
+    Festlegung detaillierter Vorkehrungen gemäß Richtlinie 91/477/EWG des
+    Rates für den systematischen elektronischen Austausch von
+    Informationen im Zusammenhang mit der Verbringung von Feuerwaffen
+    innerhalb der Union (ABl. L 116 vom 3.5.2019, S. 1);
 
 
-3.  übermittelt die von anderen Vertragsstaaten des Übereinkommens vom 28.
+2.  übermittelt dem anderen Mitgliedstaat die Angaben nach § 31 Absatz 4;
+
+
+3.  übermittelt an die zuständige Behörde
+
+    a)  die von anderen Mitgliedstaaten in den Fällen des § 29 Absatz 1 und 2
+        des Waffengesetzes erhaltenen Angaben,
+
+
+    b)  die von anderen Mitgliedstaaten erhaltenen Angaben über die Erteilung
+        von Erlaubnissen zum Verbringen von Schusswaffen oder Munition in das
+        Hoheitsgebiet des anderen Mitgliedstaates aus dem Geltungsbereich des
+        Waffengesetzes, es sei denn, es besteht für diese Verbringung eine
+        Erlaubnis nach § 30 des Waffengesetzes, und
+
+
+    c)  die von anderen Mitgliedstaaten erhaltenen Angaben über das Überlassen
+        von Waffen nach Anlage 1 Abschnitt 3 Nummer 1 bis 3 (Kategorien A 1.2
+        bis C) des Waffengesetzes oder von Munition an Personen und den Besitz
+        von solchen Waffen oder Munition durch Personen, die jeweils ihren
+        gewöhnlichen Aufenthalt im Geltungsbereich des Waffengesetzes haben;
+
+
+
+
+
+4.  übermittelt die von anderen Vertragsstaaten des Übereinkommens vom 28.
     Juni 1978 über die Kontrolle des Erwerbs und Besitzes von Schusswaffen
     durch Einzelpersonen (BGBl. 1980 II S. 953) erhaltenen Mitteilungen
-    über das Verbringen oder das Überlassen der in § 34 Abs. 5 Satz 1 des
-    Waffengesetzes genannten Schusswaffen erhaltenen Angaben an die
+    über das Verbringen oder das Überlassen der in § 34 Absatz 5 Satz 1
+    des Waffengesetzes genannten Schusswaffen erhaltenen Angaben an die
     zuständige Behörde;
 
 
-4.  soll den Erwerb von Schusswaffen und Munition durch die in § 34 Abs. 5
-    Satz 1 des Waffengesetzes genannten Personen der zuständigen zentralen
-    Behörde des Heimat- oder Herkunftsstaates des Erwerbers mitteilen,
-    sofern Gegenseitigkeit gewährleistet ist; die Mitteilung soll die
-    Angaben nach § 31 Abs. 3 Satz 1 Nr. 1 und 2 enthalten.
+5.  soll den Erwerb von Schusswaffen und Munition durch die in § 34 Absatz
+    5 Satz 1 des Waffengesetzes genannten Personen der zuständigen
+    zentralen Behörde des Heimat- oder Herkunftsstaates des Erwerbers
+    mitteilen, sofern Gegenseitigkeit gewährleistet ist; die Mitteilung
+    soll die Angaben nach § 31 Absatz 5 Satz 1 Nummer 1 und 2 enthalten.
 
 
 
 
 (3) Die nach § 33 Abs. 3 des Waffengesetzes zuständigen
 Überwachungsbehörden übermitteln den zuständigen Behörden die nach §
-29 Abs. 3 Satz 3 und nach § 30 Abs. 3 Satz 2 mitgeteilten Angaben.
+29 Absatz 2 Satz 3 und nach § 30 Abs. 3 Satz 2 mitgeteilten Angaben.
 
 
 #### § 33 Europäischer Feuerwaffenpass
@@ -2067,13 +2233,14 @@ handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 10 Abs. 1 Satz 4 den Schießbetrieb aufnimmt oder fortsetzt,
 
 
-5.  entgegen § 10 Abs. 2 Satz 1 oder 3 oder § 22 Abs. 2 Satz 1 oder 3 oder
-    Abs. 3 Satz 3 eine Anzeige nicht, nicht richtig, nicht vollständig,
-    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+5.  entgegen § 10 Abs. 2 Satz 1 oder 3, § 22 Abs. 2 Satz 1 oder 3 oder
+    Abs. 3 Satz 3 oder § 25a Absatz 1 Satz 2 eine Anzeige nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig erstattet,
 
 
-6.  entgegen § 10 Abs. 3 Satz 4 das dort genannte Dokument nicht mitführt
-    oder nicht oder nicht rechtzeitig aushändigt,
+6.  entgegen § 10 Abs. 3 Satz 4 oder § 25a Absatz 2 ein dort genanntes
+    Dokument nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
 
 7.  entgegen § 10 Abs. 3 Satz 5 Einblick nicht oder nicht rechtzeitig
@@ -2093,53 +2260,62 @@ handelt, wer vorsätzlich oder fahrlässig
 11. entgegen § 12 Abs. 2 Satz 2 eine Schießstätte betreibt oder benutzt,
 
 
-12. entgegen § 13 Abs. 1, 2, 3 oder 6 Satz 1 oder 2 Waffen oder Munition
+12. entgegen § 13 Absatz 2 eine Waffe oder Munition nicht richtig
     aufbewahrt,
 
 
-13. entgegen § 17 Abs. 5, auch in Verbindung mit § 19 Abs. 5 oder § 20
-    Abs. 3 Satz 1, oder § 24 Abs. 3 das Buch, ein Karteiblatt oder das
-    Verzeichnis nicht oder nicht rechtzeitig vorlegt,
+13. entgegen § 13 Absatz 4 Satz 1 oder 2 eine Waffe oder Munition
+    aufbewahrt,
 
 
-14. entgegen § 17 Abs. 6 Satz 1, auch in Verbindung mit § 19 Abs. 5 oder §
-    20 Abs. 3 Satz 1, das Buch oder ein Karteiblatt nicht oder nicht
-    mindestens zehn Jahre aufbewahrt,
+14. entgegen § 17a Absatz 1 oder § 24 Absatz 3 eine dort genannte
+    Ersatzdokumentation oder ein dort genanntes Verzeichnis nicht oder
+    nicht rechtzeitig vorlegt,
 
 
-15. entgegen § 17 Abs. 6 Satz 2, auch in Verbindung mit § 19 Abs. 5 oder §
-    20 Abs. 3 Satz 1, das Buch oder ein Karteiblatt nicht oder nicht
-    rechtzeitig übergibt,
+15. entgegen § 17a Absatz 2 Satz 1 eine dort genannte Ersatzdokumentation
+    nicht oder nicht mindestens zehn Jahre aufbewahrt,
 
 
-16. entgegen § 17 Abs. 6 Satz 3, auch in Verbindung mit § 19 Abs. 5 oder §
-    20 Abs. 3 Satz 1, oder § 24 Abs. 4 Satz 2 das Buch, ein Karteiblatt
-    oder das Verzeichnis nicht oder nicht rechtzeitig übergibt oder nicht
-    oder nicht rechtzeitig aushändigt,
+16. entgegen § 17a Absatz 2 Satz 2 eine dort genannte Ersatzdokumentation
+    nicht oder nicht rechtzeitig übergibt,
 
 
-17. entgegen § 22 Abs. 2 Satz 2 den Lehrgangsplan oder das Übungsprogramm
+17. entgegen § 17a Absatz 2 Satz 3 eine dort genannte Ersatzdokumentation
+    nicht oder nicht rechtzeitig übergibt und nicht oder nicht rechtzeitig
+    aushändigt,
+
+
+18. entgegen § 22 Abs. 2 Satz 2 den Lehrgangsplan oder das Übungsprogramm
     nicht oder nicht rechtzeitig vorlegt,
 
 
-18. entgegen § 22 Abs. 2 Satz 4 die Durchführung einer Veranstaltung
+19. entgegen § 22 Abs. 2 Satz 4 die Durchführung einer Veranstaltung
     zulässt,
 
 
-19. entgegen § 23 Abs. 1 Satz 2 sich vom Vorliegen der dort genannten
+20. entgegen § 23 Abs. 1 Satz 2 sich vom Vorliegen der dort genannten
     Erfordernisse nicht oder nicht rechtzeitig überzeugt,
 
 
-20. entgegen § 24 Abs. 1 ein Verzeichnis nicht, nicht richtig, nicht
+21. entgegen § 24 Abs. 1 ein Verzeichnis nicht, nicht richtig, nicht
     vollständig oder nicht in der vorgeschriebenen Weise führt,
 
 
-21. entgegen § 24 Abs. 4 Satz 1 das Verzeichnis nicht oder nicht
-    mindestens fünf Jahre aufbewahrt oder
+22. entgegen § 24 Abs. 4 Satz 1 das Verzeichnis nicht oder nicht
+    mindestens fünf Jahre aufbewahrt,
 
 
-22. entgegen § 25 Abs. 2 Satz 1 die Durchführung eines Lehrgangs oder
-    einer Schießübung nicht oder nicht rechtzeitig einstellt.
+23. entgegen § 25 Abs. 2 Satz 1 die Durchführung eines Lehrgangs oder
+    einer Schießübung nicht oder nicht rechtzeitig einstellt,
+
+
+24. entgegen § 25a Absatz 3 eine unbrauchbar gemachte Schusswaffe
+    dauerhaft überlässt, verbringt oder mitnimmt oder
+
+
+25. entgegen § 25b ein dort genanntes Dokument nicht oder nicht
+    rechtzeitig abgibt.
 
 
 
@@ -2152,15 +2328,21 @@ handelt, wer vorsätzlich oder fahrlässig
 
 ### § 36 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Dezember 2003 in Kraft.
+Diese Verordnung tritt am 1. Dezember 2003 in Kraft. Gleichzeitig
+treten die Erste Verordnung zum Waffengesetz in der Fassung der
+Bekanntmachung vom 10. März 1987 (BGBl. I S. 777), zuletzt geändert
+durch Artikel 10 des Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970)
+sowie die Zweite Verordnung zum Waffengesetz vom 13. Dezember 1976
+(BGBl.I S. 3387) außer Kraft.
 
 
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 15 Abs. 2 Nr. 2)
 
-### Anlage (zu § 15 Abs. 2 Nr. 2) Waffen- und Munitionsarten
+### Anlage Waffen- und Munitionsarten
 
 ( Fundstelle: BGBl. I 2008, 438 - 439 )
 

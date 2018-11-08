@@ -1020,8 +1020,9 @@ Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 und § 3 Nr. 1, 5 und 6)
 
-### Anlage 1 (zu § 2 und § 3 Nr. 1, 5 und 6) Anforderungen an Einrichtungen einer Besamungsstation
+### Anlage 1 Anforderungen an Einrichtungen einer Besamungsstation
 
 ( Fundstelle: BGBl. I 2008, 2062 )
 
@@ -1068,8 +1069,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 3 Nr. 5, 6, 8 und 13 Buchstabe a, § 4 Abs. 1 und 2)
 
-### Anlage 2 (zu § 3 Nr. 5, 6, 8 und 13 Buchstabe a, § 4 Abs. 1 und 2) Vorgeschriebene Untersuchungen an männlichen Tieren, die zur Gewinnung von Samen für die künstliche Besamung vorgesehen sind
+### Anlage 2 Vorgeschriebene Untersuchungen an männlichen Tieren, die zur Gewinnung von Samen für die künstliche Besamung vorgesehen sind
 
 (Fundstelle: BGBl. I 2008, 2063)
 
@@ -1226,7 +1228,7 @@ Der Bundesrat hat zugestimmt.
 
 
 *    *   bei serologisch positivem EAV-
-        Titer (*                      1 : 4)
+        Titer (* 1 : 4)
         Samen
         Methode:
         Virusnachweis Zellkultur
@@ -1243,8 +1245,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 10 und § 11 Nr. 1)
 
-### Anlage 3 (zu § 10 und § 11 Nr. 1) Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
+### Anlage 3 Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
 
 (Fundstelle: BGBl. I 2008, 2064)
 

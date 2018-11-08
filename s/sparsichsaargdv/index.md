@@ -182,8 +182,9 @@ Fundstelle des Originaltextes: BGBl. I 1959, 563
 
 
 
+(zu § 3 Nr. 2)
 
-## Anlage 2 (zu § 3 Nr. 2) Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
+## Anlage 2 Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
 
 Fundstelle des Originaltextes: BGBl. I 1959, 563
 

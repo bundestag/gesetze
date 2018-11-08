@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 22. März 1974 über den Schutz der Meer
   des Ostseegebiets
 jurabk: OstSUmwSchÜbkG
 layout: default
-origslug: ostsumwsch_bkg
+origslug: ostsumwschuebkg
 slug: ostsumwschuebkg
 
 ---

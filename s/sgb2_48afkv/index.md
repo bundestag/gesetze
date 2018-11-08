@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1152
 
-Geändert durch
-:   Art. 10 G v. 24.3.2011 I 453
+Zuletzt geändert durch
+:   Art. 1 V v. 15.3.2019 I 339
 
 
 ## Eingangsformel
@@ -46,22 +46,28 @@ Interpretation der Kennzahlenergebnisse.
 (2) Zur Bildung der Kennzahlen und Ergänzungsgrößen wird festgelegt:
 
 1.  Maßnahmen der aktiven Arbeitsförderung sind alle Maßnahmen nach den §§
-    16 und 16d Satz 1 sowie nach den §§ 16e und 16f des Zweiten Buches
-    Sozialgesetzbuch sowie nach dem Programm „Bürgerarbeit“ ohne Maßnahmen
-    aus dem Vermittlungsbudget nach § 16 Absatz 1 des Zweiten Buches
-    Sozialgesetzbuch in Verbindung mit § 45 des Dritten Buches
-    Sozialgesetzbuch und ohne Beschäftigung begleitende Leistungen;
+    16, 16d, 16e in der bis 31. Dezember 2018 gültigen Fassung, den §§ 16f
+    und 16i des Zweiten Buches Sozialgesetzbuch sowie nach dem
+    Bundesprogramm „Soziale Teilhabe am Arbeitsmarkt“; jedoch keine
+    Förderungen aus dem Vermittlungsbudget nach § 16 Absatz 1 Satz 2
+    Nummer 2 des Zweiten Buches Sozialgesetzbuch in Verbindung mit § 44
+    des Dritten Buches Sozialgesetzbuch und ohne Beschäftigung begleitende
+    Leistungen nach Nummer 2;
 
 
 2.  Beschäftigung begleitende Leistungen sind alle Maßnahmen nach § 16
-    Absatz 1 des Zweiten Buches Sozialgesetzbuch in Verbindung mit den §§
-    218, 219, 223 und 421f des Dritten Buches Sozialgesetzbuch sowie § 16b
-    des Zweiten Buches Sozialgesetzbuch;
+    Absatz 1 Satz 2 Nummer 5 des Zweiten Buches Sozialgesetzbuch in
+    Verbindung mit den §§ 88 bis 90 des Dritten Buches Sozialgesetzbuch,
+    Maßnahmen nach den §§ 16b und 16e des Zweiten Buches Sozialgesetzbuch
+    sowie Förderungen nach dem „ESF-Bundesprogramm zur Eingliederung
+    langzeitarbeitsloser Leistungsberechtigter nach dem Zweiten Buch
+    Sozialgesetzbuch auf dem allgemeinen Arbeitsmarkt“;
 
 
-3.  öffentlich geförderte Beschäftigung ist eine Maßnahme nach § 16d oder
-    § 16e des Zweiten Buches Sozialgesetzbuch sowie nach dem Modellprojekt
-    „Bürgerarbeit“.
+3.  öffentlich geförderte Beschäftigungen sind Maßnahmen nach den §§ 16d,
+    16e in der bis zum 31. Dezember 2018 gültigen Fassung und § 16i des
+    Zweiten Buches Sozialgesetzbuch sowie nach dem Bundesprogramm „Soziale
+    Teilhabe am Arbeitsmarkt“.
 
 
 
@@ -181,16 +187,17 @@ ist die „Integrationsquote“:
 
 
 
-Als Integration im Sinne dieser Kennzahl gilt, wenn ein erwerbsfähiger
-Leistungsberechtigter in einem Monat eine
-sozialversicherungspflichtige Beschäftigung, eine voll qualifizierende
-berufliche Ausbildung oder eine selbständige Tätigkeit aufgenommen
-hat. Als Integrationen gelten auch solche, die mit Beschäftigung
-begleitenden Leistungen im Sinne des § 2 Absatz 2 Nummer 2 gefördert
-werden. Die Aufnahme einer öffentlich geförderten Beschäftigung im
-Sinne des § 2 Absatz 2 Nummer 3 ist keine Integration. Für jeden
-Bezugsmonat wird für einen erwerbsfähigen Leistungsberechtigten nur
-eine Integration gezählt.
+Als Integration im Sinne dieser Kennzahl gilt, wenn eine erwerbsfähige
+Leistungsberechtigte oder ein erwerbsfähiger Leistungsberechtigter in
+einem Monat eine sozialversicherungspflichtige Beschäftigung, eine
+voll qualifizierende berufliche Ausbildung oder eine selbständige
+Tätigkeit aufgenommen hat. Als Integrationen gelten auch solche, die
+mit Beschäftigung begleitenden Leistungen im Sinne des § 2 Absatz 2
+Nummer 2 gefördert werden. Die Aufnahme einer öffentlich geförderten
+Beschäftigung im Sinne des § 2 Absatz 2 Nummer 3 ist keine
+Integration. Für jeden Bezugsmonat wird für eine erwerbsfähige
+Leistungsberechtigte oder einen erwerbsfähigen Leistungsberechtigten
+nur eine Integration gezählt.
 
 (2) Ergänzungsgrößen sind:
 
@@ -224,9 +231,10 @@ eine Integration gezählt.
 
 
 
-3.  die „Nachhaltigkeit der Integrationen“:
+3.  die „Kontinuierliche Beschäftigung nach Integration“:
 
-    *        *   Summe der nachhaltigen Integrationen in den vergangenen zwölf Monaten
+    *        *   Summe der kontinuierlichen Beschäftigungen nach Integration in den
+            vergangenen zwölf Monaten
 
         *   ;
 
@@ -239,8 +247,10 @@ eine Integration gezählt.
     Integration im Sinne dieser Ergänzungsgröße ist die Aufnahme einer
     sozialversicherungspflichtigen Beschäftigung, auch wenn sie mit
     Beschäftigung begleitenden Leistungen im Sinne des § 2 Absatz 2 Nummer
-    2 gefördert wird; sie ist nachhaltig, wenn die betreffende Person nach
-    zwölf Monaten sozialversicherungspflichtig beschäftigt ist;
+    2 gefördert wird; eine Beschäftigung nach Integration gilt als
+    kontinuierlich, wenn die betreffende Person in jedem der sechs auf die
+    Integration folgenden Monate sozialversicherungspflichtig beschäftigt
+    ist;
 
 
 4.  die „Integrationsquote der Alleinerziehenden“;
@@ -255,53 +265,55 @@ eine Integration gezählt.
 ## § 6 Vermeidung von langfristigem Leistungsbezug
 
 (1) Kennzahl ist die „Veränderung des Bestands an
-Langzeitleistungsbeziehern“:
+Langzeitleistungsbeziehenden“:
 
-*    *   Zahl der Langzeitleistungsbezieher im Bezugsmonat
+*    *   Zahl der Langzeitleistungsbeziehenden im Bezugsmonat
 
     *   .
 
 
-*    *   Zahl der Langzeitleistungsbezieher im Bezugsmonat des Vorjahres
+*    *   Zahl der Langzeitleistungsbeziehenden im Bezugsmonat des Vorjahres
 
 
 
-Langzeitleistungsbezieher sind erwerbsfähige Leistungsberechtigte, die
-in den vergangenen 24 Monaten mindestens 21 Monate hilfebedürftig
+Langzeitleistungsbeziehende sind erwerbsfähige Leistungsberechtigte,
+die in den vergangenen 24 Monaten mindestens 21 Monate hilfebedürftig
 waren.
 
 (2) Ergänzungsgrößen sind:
 
-1.  die „Integrationsquote der Langzeitleistungsbezieher“;
+1.  die „Integrationsquote der Langzeitleistungsbeziehenden“;
 
-    die Ergänzungsgröße wird mit Bezug auf die Langzeitleistungsbezieher
-    entsprechend § 5 Absatz 1 gebildet;
+    die Ergänzungsgröße wird mit Bezug auf die
+    Langzeitleistungsbeziehenden entsprechend § 5 Absatz 1 gebildet;
 
 
-2.  die „Aktivierungsquote der Langzeitleistungsbezieher“:
+2.  die „Aktivierungsquote der Langzeitleistungsbeziehenden“:
 
-    *        *   Zahl der Langzeitleistungsbezieher in einer Maßname der aktiven
+    *        *   Zahl der Langzeitleistungsbeziehenden in einer Maßnahme der aktiven
             Arbeitsförderung im Bezugsmonat
 
         *   ;
 
 
-    *        *   Zahl der Langzeitleistungsbezieher im Bezugsmonat
+    *        *   Zahl der Langzeitleistungsbeziehenden im Bezugsmonat
 
 
 
 
 
-3.  die „Durchschnittliche Zugangsrate der Langzeitleistungsbezieher“;
+3.  die „Durchschnittliche Zugangsrate der Langzeitleistungsbeziehenden“;
 
-    die Ergänzungsgröße wird mit Bezug auf die Langzeitleistungsbezieher
-    entsprechend § 4 Absatz 2 Nummer 3 gebildet;
+    die Ergänzungsgröße wird mit Bezug auf die
+    Langzeitleistungsbeziehenden entsprechend § 4 Absatz 2 Nummer 3
+    gebildet;
 
 
-4.  die „Durchschnittliche Abgangsrate der Langzeitleistungsbezieher“;
+4.  die „Durchschnittliche Abgangsrate der Langzeitleistungsbeziehenden“;
 
-    die Ergänzungsgröße wird mit Bezug auf die Langzeitleistungsbezieher
-    entsprechend § 4 Absatz 2 Nummer 4 gebildet.
+    die Ergänzungsgröße wird mit Bezug auf die
+    Langzeitleistungsbeziehenden entsprechend § 4 Absatz 2 Nummer 4
+    gebildet.
 
 
 

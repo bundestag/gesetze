@@ -16,5 +16,5 @@ Fundstelle
 :   BGBl: 1950, 226
 
 Geändert durch
-:   G v. 7. März 1956 I 104
+:   G v. 7.3.1956 I 104
 

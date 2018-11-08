@@ -61,8 +61,9 @@ entschädigen.
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
+Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II
 
-## Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II (BGBl. II 1990, 889, 1202)
+## Anhang EV (BGBl. II 1990, 889, 1202)
 
 Abschnitt II
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

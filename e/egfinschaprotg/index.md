@@ -16,12 +16,12 @@ Ausfertigungsdatum
 :   2000-07-10
 
 Fundstelle
-:   BGBl II: 2000, 814
+:   BGBl II: 2000, 814 (2007 II 794)
 
 Geändert durch
-:   Art. 2 G v. 21.10.2002 II 2722;
+:   Art. 2 G v. 21.10.2002 II 2722; 2016 II 1110
 
-Stand: Bek. über das Inkrafttreten v. 27.4.2007 II 794 ist berücksichtigt
+Stand: Art. 2 tritt gem. Art. 3 Satz 2 iVm Abschn. I Bek. v. 27.4.2007 II 794 mWv 17.10.2002 in Kraft
 
 ## Eingangsformel
 

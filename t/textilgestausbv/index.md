@@ -1514,8 +1514,9 @@ S. 2), die Stricker-Ausbildungsverordnung vom 7. Dezember 1982 (BGBl.
 I S. 1640) und die Verordnung über die Berufsausbildung zum Weber/zur
 Weberin im Handwerk vom 19. Juli 2001 (BGBl. I S. 1675) außer Kraft.
 
+(zu § 4)
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Textilgestalter und zur Textilgestalterin im Handwerk
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Textilgestalter und zur Textilgestalterin im Handwerk
 
 (Fundstelle: BGBl. I 2011, 1187 - 1195)
 
@@ -2948,8 +2949,9 @@ und Fähigkeiten in der Fachrichtung Weben**
 
 
 
+(zu § 14)
 
-## Anlage 2 (zu § 14) Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Paramentik
+## Anlage 2 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Paramentik
 
 (Fundstelle: BGBl. I 2011, 1196)
 

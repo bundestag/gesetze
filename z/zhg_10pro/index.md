@@ -843,8 +843,9 @@ Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 Der Bundesminister des Innern
 
+(zu § 24 Abs. 1 erster Satz)
 
-### Anlage 1 (zu § 24 Abs. 1 erster Satz) (Muster 1)
+### Anlage 1 (Muster 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 25)
 Zeugnis
@@ -889,8 +890,9 @@ des Prüfungsausschusses)
 \*) Falls der/die Dentistenassistent(in) eine Wiederholungsprüfung
 abzulegen hat, unter Fortfall der Worte: "somit das Gesamturteil ...".
 
+(zu § 24 Abs. 1 letzter Satz)
 
-### Anlage 2 (zu § 24 Abs. 1 letzter Satz) (Muster 2)
+### Anlage 2 (Muster 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 26)
 Zeugnis
@@ -940,8 +942,9 @@ des Prüfungsausschusses)
 bestanden
 hat, unter Fortfall der Worte: "somit das Gesamturteil ...".
 
+(zu § 39 Abs. 3)
 
-### Anlage 3 (zu § 39 Abs. 3) (Muster 3)
+### Anlage 3 (Muster 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 27)
 Zeugnis
@@ -966,8 +969,9 @@ des Prüfungsausschusses)
 ........................................
 (Unterschrift)
 
+(zu § 40 Abs. 2)
 
-### Anlage 4 (zu § 40 Abs. 2) (Muster 4)
+### Anlage 4 (Muster 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 27)
 der

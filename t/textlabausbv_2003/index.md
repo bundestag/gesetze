@@ -432,8 +432,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 7)
 
-## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Textillaborant/zur Textillaborantin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Textillaborant/zur Textillaborantin
 
 
 *    *   (Fundstelle: BGBl. I 2003, 977 - 983)

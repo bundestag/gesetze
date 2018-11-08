@@ -16,31 +16,26 @@ Fundstelle
 :   BGBl I: 2006, 3291
 
 Zuletzt geändert durch
-:   Art. 4 G v. 4.11.2010 I 1480
+:   Art. 1 G v. 12.8.2020 I 1872
 
 
-## § 1 Zwecke der Verdienststatistik, Anordnung als Bundesstatistik
+## § 1 Zwecke der Verdienststatistik
 
-Für Zwecke wirtschaftspolitischer Planungsentscheidungen sowie zur
-Erfüllung von Berichtspflichten nach dem Recht der Europäischen
-Gemeinschaften wird eine Bundesstatistik der Arbeitsverdienste und
-Arbeitskosten durchgeführt.
+Für Zwecke wirtschafts- und sozialpolitischer Planungsentscheidungen,
+insbesondere zur regelmäßigen Evaluierung des gesetzlichen
+Mindestlohns, sowie zur Erfüllung von Berichtspflichten nach dem Recht
+der Europäischen Union wird eine Bundesstatistik der Arbeitsverdienste
+und der Struktur der Arbeitskosten durchgeführt.
 
 
 ## § 2 Art der Erhebungen, Stichprobenauswahl, Erhebungseinheiten
 
-(1) Die Statistik umfasst die Erhebung
+(1) Die Statistik umfasst
 
-1.  der Arbeitsverdienste (§ 3),
-
-
-2.  der Struktur der Arbeitsverdienste (§ 4),
+1.  die Erhebung der Arbeitsverdienste (§ 4) und
 
 
-3.  der Struktur der Arbeitskosten (§ 5),
-
-
-4.  der Arbeitsverdienste in der Landwirtschaft (§ 6).
+2.  die Erhebung der Struktur der Arbeitskosten (§ 5).
 
 
 
@@ -64,156 +59,106 @@ Beschäftigungsverhältnis stehen,
 
 
 
-## § 3 Erhebung der Arbeitsverdienste
-
-(1) Die Erhebung erfasst vierteljährlich, beginnend mit der Erhebung
-für das erste Kalendervierteljahr des Jahres 2007, bei höchstens
-40\.500 Erhebungseinheiten folgende Erhebungsmerkmale:
-
-1.  Wirtschaftszweig,
-
-
-2.  angewandte Vergütungsvereinbarung,
-
-
-3.  Zahl der Beschäftigten,
-
-
-4.  Zahl der Arbeitsstunden,
-
-
-5.  Summe der Bruttoverdienste, untergliedert nach Verdienstbestandteilen.
+## § 3 (weggefallen)
 
 
 
-Gesamteinheiten werden nur ausgewählt, wenn sie nicht aus mehreren
-Teileinheiten bestehen.
+## § 4 Erhebung der Arbeitsverdienste
 
-(2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1 und 2 werden nach dem
-Stand am Ende des Vierteljahres erfasst, die übrigen derart, dass sie
-für das gesamte vorhergehende Vierteljahr kennzeichnend sind. Die
-Erhebungsmerkmale nach Absatz 1 Nr. 3 bis 5 werden untergliedert nach
-dem Geschlecht der Beschäftigten, nach der Art des
-Beschäftigungsverhältnisses sowie nach Leistungsgruppen erfasst.
+(1) Die Erhebung der Arbeitsverdienste wird im Kalenderjahr 2021
+einmal für den Berichtsmonat April und ab dem Kalenderjahr 2022
+monatlich durchgeführt.
 
-(3) Die Erhebung erstreckt sich auf die Wirtschaftszweige nach Anhang
+(2) Die Erhebung erstreckt sich auf die Wirtschaftszweige nach Anhang
 I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und
 des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen
 Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der
 Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der
-EG über bestimmte Bereiche der Statistik (ABl. EU Nr. L 393 S. 1) in
-der jeweils geltenden Fassung mit Ausnahme von
+EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006,
+S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABL. L 198 vom
+25\.7.2019, S. 241) geändert worden ist, in der jeweils geltenden
+Fassung mit Ausnahme von
 
-1.  Abschnitt A – Land- und Forstwirtschaft, Fischerei
+1.  Abschnitt O – Öffentliche Verwaltung, Verteidigung;
+    Sozialversicherung,
 
 
-2.  Abschnitt O – Öffentliche Verwaltung, Verteidigung; Sozialversicherung
-
-
-3.  Abschnitt T – Private Haushalte mit Hauspersonal; Herstellung von
+2.  Abschnitt T – Private Haushalte mit Hauspersonal; Herstellung von
     Waren und Erbringung von Dienstleistungen durch private Haushalte für
-    den Eigenbedarf ohne ausgeprägten Schwerpunkt
+    den Eigenbedarf ohne ausgeprägten Schwerpunkt,
 
 
-4.  Abschnitt U – Exterritoriale Organisationen und Körperschaften.
+3.  Abschnitt U – Exterritoriale Organisationen und Körperschaften.
 
 
 
 
+(3) Die Erhebung wird bei höchstens 58 000 Erhebungseinheiten
+durchgeführt. Gesamteinheiten werden nur dann für die Erhebung
+ausgewählt, wenn sie nicht aus mehreren Teileinheiten bestehen. Bei
+jeder Erhebungseinheit werden Angaben zu folgenden Erhebungsmerkmalen
+erfasst:
 
-## § 4 Erhebung der Struktur der Arbeitsverdienste
-
-(1) Die Erhebung erfasst alle vier Jahre, beginnend mit der Erfassung
-für das Kalenderjahr 2006, bei höchstens 34.000 Erhebungseinheiten der
-Wirtschaftszweige nach § 3 Abs. 3 folgende Erhebungsmerkmale:
-
-1.  Wirtschaftszweig,
-
-
-2.  angewandte Vergütungsvereinbarung,
+1.  Art der angewandten Vergütungsvereinbarung,
 
 
-3.  Zahl der Beschäftigten der jeweiligen Gesamteinheit,
-
-
-4.  Anteil der Kapitalbeteiligung der öffentlichen Hand, bei Teileinheiten
-    der Anteil der Kapitalbeteiligung der öffentlichen Hand an der
-    jeweiligen Gesamteinheit,
-
-
-5.  übliche wöchentliche Arbeitszeit der Vollzeitbeschäftigten,
-
-
-6.  mindestens für die Anzahl der Beschäftigten, die das mathematisch-
-    statistische Auswahlverfahren des zuständigen statistischen Amts des
-    Landes bestimmt, wahlweise für alle Beschäftigten der
-    Erhebungseinheiten jeweils
+2.  für alle Beschäftigten der Erhebungseinheit jeweils
 
     a)  Geschlecht,
 
 
-    b)  Geburtsjahr,
+    b)  Geburtsmonat und Geburtsjahr,
 
 
-    c)  Monat des Eintritts in die Erhebungseinheit, bei Teileinheiten der
-        Monat des Eintritts in die jeweilige Gesamteinheit,
+    c)  Staatsangehörigkeit,
 
 
-    d)  ausgeübter Beruf,
+    d)  Monat und Jahr des Eintritts in die Erhebungseinheit, bei
+        Teileinheiten Monat und Jahr des Eintritts in die jeweilige
+        Gesamteinheit,
 
 
-    e)  höchster Bildungsabschluss,
+    e)  ausgeübte Tätigkeit,
 
 
-    f)  Vergütungs- oder Leistungsgruppe,
+    f)  höchster Bildungsabschluss,
 
 
     g)  Art des Beschäftigungsverhältnisses,
 
 
-    h)  vertraglich vereinbarte wöchentliche Arbeitszeit,
-
-
-    i)  Zahl der bezahlten Arbeitsstunden mit getrennt ausgewiesenen
+    h)  Zahl der bezahlten Arbeitsstunden mit getrennt ausgewiesenen
         Überstunden,
 
 
-    j)  Bruttomonatsverdienst, untergliedert nach Verdienstbestandteilen,
-
-
-    k)  Bruttojahresverdienst, untergliedert nach Verdienstbestandteilen,
-        sowie die Zahl der Wochen, auf die sich der Bruttojahresverdienst
-        bezieht,
-
-
-    l)  Zahl der jährlich zu beanspruchenden bezahlten Urlaubstage,
+    i)  Bruttomonatsverdienst, untergliedert nach Verdienstbestandteilen.
 
 
 
 
 
-7.  Zahl der Beschäftigten.
 
 
+(4) Die Angaben zu den Erhebungsmerkmalen nach Absatz 3 Satz 3 Nummer
+1 und 2 Buchstabe a bis g werden nach dem Stand am Ende des Monats
+erfasst. Die Angaben zu den Erhebungsmerkmalen nach Absatz 3 Satz 3
+Nummer 2 Buchstabe h und i werden derart erfasst, dass sie sich auf
+den gesamten Kalendermonat beziehen.
 
-Gesamteinheiten werden nur ausgewählt, wenn sie nicht aus mehreren
-Teileinheiten bestehen.
-
-(2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1 bis 5 und 6 Buchstabe a
-bis h werden nach dem Stand am Ende des Kalendermonats Oktober des
-jeweiligen Jahres erfasst. Die Erhebungsmerkmale nach Absatz 1 Nr. 6
-Buchstabe i und j sowie Nr. 7 werden derart erfasst, dass sie für den
-gesamten Kalendermonat Oktober kennzeichnend sind. Die
-Erhebungsmerkmale nach Absatz 1 Nr. 6 Buchstabe k und l werden derart
-erfasst, dass sie für das gesamte Kalenderjahr kennzeichnend sind.
+(5) Alle fünf Jahre, beginnend mit dem Kalenderjahr 2025, werden die
+Bezeichnungen der angewandten Vergütungsvereinbarungen aller
+Beschäftigten der jeweiligen Erhebungseinheit nach dem Stand am Ende
+eines repräsentativen Kalendermonats erfasst. Die Erhebung erfolgt bei
+höchstens 20 000 der Erhebungseinheiten, bei denen im jeweiligen
+Kalenderjahr die Haupterhebung durchgeführt wird.
 
 
 ## § 5 Erhebung der Struktur der Arbeitskosten
 
-(1) Die Erhebung erfasst alle vier Jahre, beginnend mit der Erfassung
-für das Kalenderjahr 2008, bei höchstens 34.000 Erhebungseinheiten
-nach § 2 Abs. 2 Nr. 1 der Wirtschaftszweige nach § 3 Abs. 3 sowie bei
-allen zugehörigen Teileinheiten folgende Erhebungsmerkmale:
+(1) Die Erhebung erfasst alle vier Jahre, beginnend für das
+Berichtsjahr 2008, bei höchstens 34 000 Erhebungseinheiten nach § 2
+Absatz 2 Nummer 1 sowie bei allen zugehörigen Teileinheiten Angaben zu
+folgenden Erhebungsmerkmalen:
 
 1.  Land,
 
@@ -224,7 +169,7 @@ allen zugehörigen Teileinheiten folgende Erhebungsmerkmale:
 3.  Zahl der Beschäftigten,
 
 
-4.  Zahl der geleisteten und der bezahlten Arbeitsstunden,
+4.  Zahl der bezahlten Arbeitsstunden,
 
 
 5.  Jahressumme der Bruttoverdienste, untergliedert nach
@@ -256,67 +201,57 @@ gesamte vorhergehende Jahr kennzeichnend sind. Die Erhebungsmerkmale
 nach Absatz 1 Nr. 3 bis 6 werden untergliedert nach der Art des
 Beschäftigungsverhältnisses erfasst.
 
-
-## § 6 Erhebung der Arbeitsverdienste in der Landwirtschaft
-
-(1) Die Erhebung erfasst alle vier Jahre, beginnend mit der Erfassung
-für das Kalenderjahr 2010, folgende Erhebungsmerkmale bei den in
-höchstens 1.500 Erhebungseinheiten ganzjährig Beschäftigten:
-
-1.  Geschlecht,
+(3) Die Erhebung erstreckt sich auf die Wirtschaftszweige nach § 4
+Absatz 2. Zusätzlich ausgenommen sind die Wirtschaftszweige nach
+Abschnitt A – Land- und Forstwirtschaft, Fischerei.
 
 
-2.  berufliche Befähigung,
+## § 6 Verdienstverlaufsstatistik
 
+(1) Das Statistische Bundesamt und die statistischen Ämter der Länder
+führen eine Verdienstverlaufsstatistik für alle Beschäftigten der
+Erhebungseinheiten, bei denen die Arbeitsverdienste nach § 4 erhoben
+werden.
 
-3.  Vergütungsgruppe,
+(2) Das jeweils zuständige statistische Landesamt erstellt für jede
+Beschäftigte und jeden Beschäftigten ein eindeutiges, verschlüsseltes
+und nicht rückverfolgbares Pseudonym nach dem Stand der Technik. Das
+Pseudonym wird aus den Hilfsmerkmalen nach § 7 Nummer 3 gebildet. Das
+Pseudonym wird spätestens nach Abschluss der statistischen
+Aufbereitung erstellt. Daran anschließend werden diese Hilfsmerkmale
+gelöscht.
 
+(3) Die Einzelangaben werden mit den Pseudonymen auf einem nach dem
+Stand der Technik sicheren Kommunikationsweg an eine zentrale
+Datenbank des Statistischen Bundesamtes übermittelt und dort
+gespeichert. Eine Übermittlung der Pseudonyme an die
+Erhebungseinheiten ist nicht zulässig.
 
-4.  angewandte Vergütungsvereinbarung,
+(4) Mit Hilfe der Pseudonyme dürfen die Einzelangaben mit den
+entsprechenden Einzelangaben zurückliegender Monate von den
+statistischen Ämtern des Bundes und der Länder für den jeweiligen
+Zuständigkeitsbereich zusammengeführt werden, um Analysen über
+Verdienstverläufe durchzuführen.
 
-
-5.  Art der Entlohnung,
-
-
-6.  Zahl der bezahlten Arbeitsstunden mit getrennt ausgewiesenen
-    Überstunden,
-
-
-7.  Bruttoverdienst, untergliedert nach Verdienstbestandteilen.
-
-
-
-Gesamteinheiten werden nur ausgewählt, wenn sie nicht aus mehreren
-Teileinheiten bestehen.
-
-(2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1 bis 5 werden nach dem
-Stand am Ende des Kalendermonats September erfasst, die übrigen
-derart, dass sie für den gesamten Kalendermonat September
-kennzeichnend sind.
-
-(3) Die Erhebung erstreckt sich auf die landwirtschaftlichen
-Wirtschaftszweige nach Abschnitt A Abteilung 01 Gruppen 01.1 bis 01.5
-des in § 3 Abs. 3 genannten Anhangs I der Verordnung (EG) Nr.
-1893/2006. Sie wird in den Ländern Berlin, Bremen, Hamburg und
-Saarland nicht durchgeführt.
+(5) Die Pseudonyme werden drei Jahre nach der letzten Erhebung zu der
+oder dem Beschäftigten gelöscht. Die in Absatz 4 dargestellten
+Zusammenführungen werden 15 Jahre nach der letzten Erhebung gelöscht.
 
 
 ## § 7 Hilfsmerkmale
 
-Hilfsmerkmale der Erhebungen sind:
+Hilfsmerkmale der Erhebung sind:
 
 1.  Name und Anschrift der Erhebungseinheit,
 
 
-2.  Name, Rufnummern und Adressen für elektronische Post der Personen, die
-    für Rückfragen zur Verfügung stehen,
+2.  Name und Kontaktdaten der Personen, die für Rückfragen zur Verfügung
+    stehen,
 
 
-3.  Personalnummern der in die Erhebung nach § 4 und § 6 einbezogenen
-    Beschäftigten oder, wenn Personalnummern nicht vorhanden sind, die
-    Namen der Beschäftigten; gibt der Auskunftspflichtige die Namen der
-    Beschäftigten an, hat er die Beschäftigten unverzüglich darüber zu
-    unterrichten.
+3.  Personalnummern der in die Erhebung nach § 4 einbezogenen
+    Beschäftigten oder, wenn keine Personalnummern vorliegen, eindeutige,
+    im Zeitverlauf gleichbleibende Ordnungsnummern der Beschäftigten.
 
 
 
@@ -329,14 +264,21 @@ Nr. 2 sind freiwillig. Auskunftspflichtig sind die Inhaber der in die
 Erhebungen einbezogenen Erhebungseinheiten sowie die mit deren Leitung
 Beauftragten im Rahmen der ihnen übertragenen Aufgaben und Befugnisse.
 
-(2) Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g
-Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der
-Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179)
-sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von
-Absatz 1 Satz 1 und 3 keine Auskunftspflicht. In den beiden folgenden
-Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
-Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
-von weniger als 500.000 Euro erwirtschaftet hat.
+(2) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
+oder Existenzgründerinnen sind, besteht im Kalenderjahr der
+Betriebseröffnung abweichend von Absatz 1 Satz 1 und 3 keine
+Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
+keine Auskunftspflicht, wenn das Unternehmen im letzten
+abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000
+Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung
+von der Auskunftspflicht berufen, wenn alle an der Gesellschaft
+Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+
+(3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2
+sind natürliche Personen, die eine gewerbliche oder freiberufliche
+Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
+tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
+Nichtbeschäftigung heraus aufnehmen.
 
 
 ## § 9 Übermittlung von Einzelangaben
@@ -364,16 +306,20 @@ Zustimmung des Bundesrates
     einzuführen, wenn dies zum Zweck dieses Gesetzes erforderlich ist und
     es sich nicht um personenbezogene Daten handelt; werden
     Erhebungsmerkmale eingeführt, die nicht zur Erfüllung von
-    Berichtspflichten nach dem Recht der Europäischen Gemeinschaften
-    erforderlich sind, so ist durch die gleichzeitige Aussetzung der
-    Erhebung anderer Erhebungsmerkmale eine Erweiterung des
-    Erhebungsumfangs zu vermeiden.
+    Berichtspflichten nach dem Recht der Europäischen Union erforderlich
+    sind, so ist durch die gleichzeitige Aussetzung der Erhebung anderer
+    Erhebungsmerkmale eine Erweiterung des Erhebungsumfangs zu vermeiden.
 
 
 
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 11 Übergangsregelung
 
-Dieses Gesetz tritt am 1. Januar 2007 in Kraft.
+Die Erhebung der Arbeitsverdienste wird für die vier Berichtsquartale
+des Jahres 2021 auf der Grundlage des § 3 in der bis zum 31. Dezember
+2020 geltenden Fassung, die Erhebung der Zahl der geleisteten
+Arbeitsstunden für das Berichtsjahr 2020 auf der Grundlage des § 5
+Absatz 1 Nummer 4 in der bis zum 31. Dezember 2020 geltenden Fassung
+durchgeführt.
 

@@ -18,16 +18,14 @@ Fundstelle
 :   BGBl I: 1997, 2902
 
 Zuletzt geändert durch
-:   Art. 26 V v. 31.10.2006 I 2407
+:   Art. 7 G v. 9.6.2021 I 1614
 
 
 ## § 1 Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
 
-(1) Im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung wird durch Zusammenlegung der Bundesbaudirektion und
-der Bundesforschungsanstalt für Landeskunde und Raumordnung ein
-Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde
-errichtet.
+(1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und
+Heimat ist ein Bundesamt für Bauwesen und Raumordnung als
+Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Bauwesen und Raumordnung hat seinen Sitz in
 Bonn.
@@ -62,14 +60,14 @@ Durchführung der Bauangelegenheiten
 
 
 
-soweit das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-oder im Falle der Nummer 5 das Bundesministerium im Einvernehmen mit
-dem Bundesministerium für Verkehr, Bau und Stadtentwicklung dem
-Bundesamt die Aufgabe übertragen hat.
+soweit das Bundesministerium des Innern, für Bau und Heimat oder im
+Falle der Nummer 5 das Bundesministerium im Einvernehmen mit dem
+Bundesministerium des Innern, für Bau und Heimat dem Bundesamt die
+Aufgabe übertragen hat.
 
 (3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung fachlich bei
-der Wahrnehmung der Aufgaben auf den in Absatz 1 genannten Gebieten
+Bundesministerium des Innern, für Bau und Heimat fachlich bei der
+Wahrnehmung der Aufgaben auf den in Absatz 1 genannten Gebieten
 einschließlich der internationalen Zusammenarbeit und stellt zentrale
 Dienste und Hilfen für Bundesbehörden bereit.
 
@@ -89,10 +87,9 @@ werden.
 die Zuständigkeit einer anderen Behörde gesetzlich festgelegt ist,
 weitere, mit den in Absatz 1 genannten Gebieten in Zusammenhang
 stehende Aufgaben des Bundes, mit deren Durchführung es vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung oder von der
-sachlich zuständigen Bundesbehörde im Einvernehmen mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung beauftragt
-wird.
+Bundesministerium des Innern, für Bau und Heimat oder von der sachlich
+zuständigen Bundesbehörde im Einvernehmen mit dem Bundesministerium
+des Innern, für Bau und Heimat beauftragt wird.
 
 (6) Bauangelegenheiten der Verfassungsorgane des Bundes und der
 obersten Bundesbehörden kann die Bundesregierung im Einvernehmen mit
@@ -103,12 +100,12 @@ Rechts übertragen.
 ## § 3 Fachaufsicht
 
 Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht
-durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung. Für
+durch das Bundesministerium des Innern, für Bau und Heimat. Für
 Bauangelegenheiten im Geschäftsbereich des Bundesministeriums der
 Verteidigung untersteht es dessen Fachaufsicht. Bei der Erledigung von
 Aufgaben aus einem anderen Geschäftsbereich als dem des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung nach § 2 Abs.
-5 untersteht das Bundesamt den fachlichen Weisungen der sachlich
+Bundesministeriums des Innern, für Bau und Heimat nach § 2 Abs. 5
+untersteht das Bundesamt den fachlichen Weisungen der sachlich
 zuständigen obersten Bundesbehörde, soweit diese nicht baufachlicher
 Art sind.
 
@@ -121,21 +118,7 @@ Direktor und Professor der Bundesforschungsanstalt für Landeskunde und
 Raumordnung; dieser ist berechtigt, neben seiner neuen Amtsbezeichnung
 den Zusatz "und Professor" zu führen.
 
-(2) Beim Bundesamt für Bauwesen und Raumordnung wird im Zeitraum vom
-1\. Juli 2004 bis 30. September 2004 eine neue Personalvertretung nach
-den Bestimmungen des Bundespersonalvertretungsgesetzes gewählt. Bis
-zur Wahl nimmt der bisherige Personalrat des Bundesamtes für Bauwesen
-und Raumordnung, erweitert um vier Mitglieder der bisherigen
-Bezirkspersonalvertretung und sieben Mitglieder der bisherigen
-örtlichen Personalvertretungen der Bauverwaltung des Bundes in Berlin,
-die Rechte und Pflichten nach den Bestimmungen des
-Bundespersonalvertretungsgesetzes wahr. § 14 Abs. 1 Nr. 1 des
-Bundespersonalvertretungsgesetzes ist auf die Hauptpersonalratswahlen
-nicht anzuwenden. Satz 1 gilt entsprechend für die
-Schwerbehindertenvertretung; bis zur Wahl nehmen die bisherigen
-Schwerbehindertenvertretungen des Bundesamtes für Bauwesen und
-Raumordnung und der Bauverwaltung des Bundes in Berlin die Aufgaben
-gemeinsam wahr.
+(2) (weggefallen)
 
 (3) Beim Bundesamt für Bauwesen und Raumordnung werden im Zeitraum vom
 1\. Juli 2004 bis 30. September 2004 eine Gleichstellungsbeauftragte

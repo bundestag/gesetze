@@ -2,7 +2,7 @@
 Title: Protokoll Nr. III über die Rüstungskontrolle
 jurabk: WEURüstKontrProt 3
 layout: default
-origslug: weur_stkontrprot_3
+origslug: weuruestkontrprot_3
 slug: weuruestkontrprot_3
 
 ---

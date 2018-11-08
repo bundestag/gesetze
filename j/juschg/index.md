@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2730
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 1 G v. 31.10.2008 I 2149
+:   Art. 1 G v. 9.4.2021 I 742
 
 Stand: Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
 
@@ -54,6 +54,8 @@ beschlossen:
 
 
 
+(1a) Medien im Sinne dieses Gesetzes sind Trägermedien und Telemedien.
+
 (2) Trägermedien im Sinne dieses Gesetzes sind Medien mit Texten,
 Bildern oder Tönen auf gegenständlichen Trägern, die zur Weitergabe
 geeignet, zur unmittelbaren Wahrnehmung bestimmt oder in einem
@@ -77,6 +79,10 @@ und Jugendliche erfolgt, vollzogen wird.
 
 (5) Die Vorschriften der §§ 2 bis 14 dieses Gesetzes gelten nicht für
 verheiratete Jugendliche.
+
+(6) Diensteanbieter im Sinne dieses Gesetzes sind Diensteanbieter nach
+dem Telemediengesetz vom 26. Februar 2007 (BGBl. I S. 179) in der
+jeweils geltenden Fassung.
 
 
 ### § 2 Prüfungs- und Nachweispflicht
@@ -102,17 +108,17 @@ Alterseinstufung von Filmen oder die Anbieterkennzeichnung nach § 14
 Abs. 7 durch deutlich sichtbaren und gut lesbaren Aushang bekannt zu
 machen.
 
-(2) Zur Bekanntmachung der Alterseinstufung von Filmen und von Film-
-und Spielprogrammen dürfen Veranstalter und Gewerbetreibende nur die
-in § 14 Abs. 2 genannten Kennzeichnungen verwenden. Wer einen Film für
+(2) Zur Bekanntmachung der Alterseinstufung von Filmen und von
+Spielprogrammen dürfen Veranstalter und Gewerbetreibende nur die in §
+14 Abs. 2 genannten Kennzeichnungen verwenden. Wer einen Film für
 öffentliche Filmveranstaltungen weitergibt, ist verpflichtet, den
 Veranstalter bei der Weitergabe auf die Alterseinstufung oder die
-Anbieterkennzeichnung nach § 14 Abs. 7 hinzuweisen. Für Filme, Film-
-und Spielprogramme, die nach § 14 Abs. 2 von der obersten
-Landesbehörde oder einer Organisation der freiwilligen Selbstkontrolle
-im Rahmen des Verfahrens nach § 14 Abs. 6 gekennzeichnet sind, darf
-bei der Ankündigung oder Werbung weder auf jugendbeeinträchtigende
-Inhalte hingewiesen werden noch darf die Ankündigung oder Werbung in
+Anbieterkennzeichnung nach § 14 Abs. 7 hinzuweisen. Für Filme und
+Spielprogramme, die nach § 14 Abs. 2 von der obersten Landesbehörde
+oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des
+Verfahrens nach § 14 Abs. 6 gekennzeichnet sind, darf bei der
+Ankündigung oder Werbung weder auf jugendbeeinträchtigende Inhalte
+hingewiesen werden noch darf die Ankündigung oder Werbung in
 jugendbeeinträchtigender Weise erfolgen.
 
 
@@ -210,18 +216,21 @@ Jugendamt über den jugendgefährdenden Ort zu unterrichten.
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
 dürfen
 
-1.  Branntwein, branntweinhaltige Getränke oder Lebensmittel, die
-    Branntwein in nicht nur geringfügiger Menge enthalten, an Kinder und
-    Jugendliche,
+1.  Bier, Wein, weinähnliche Getränke oder Schaumwein oder Mischungen von
+    Bier, Wein, weinähnlichen Getränken oder Schaumwein mit
+    nichtalkoholischen Getränken an Kinder und Jugendliche unter 16
+    Jahren,
 
 
-2.  andere alkoholische Getränke an Kinder und Jugendliche unter 16 Jahren
+2.  andere alkoholische Getränke oder Lebensmittel, die andere
+    alkoholische Getränke in nicht nur geringfügiger Menge enthalten, an
+    Kinder und Jugendliche
 
 
 
 weder abgegeben noch darf ihnen der Verzehr gestattet werden.
 
-(2) Absatz 1 Nr. 2 gilt nicht, wenn Jugendliche von einer
+(2) Absatz 1 Nummer 1 gilt nicht, wenn Jugendliche von einer
 personensorgeberechtigten Person begleitet werden.
 
 (3) In der Öffentlichkeit dürfen alkoholische Getränke nicht in
@@ -252,33 +261,98 @@ anzubringen.
 ### § 10 Rauchen in der Öffentlichkeit, Tabakwaren
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
-dürfen Tabakwaren an Kinder oder Jugendliche weder abgegeben noch darf
-ihnen das Rauchen gestattet werden.
+dürfen Tabakwaren und andere nikotinhaltige Erzeugnisse und deren
+Behältnisse an Kinder oder Jugendliche weder abgegeben noch darf ihnen
+das Rauchen oder der Konsum nikotinhaltiger Produkte gestattet werden.
 
-(2) In der Öffentlichkeit dürfen Tabakwaren nicht in Automaten
-angeboten werden. Dies gilt nicht, wenn ein Automat
+(2) In der Öffentlichkeit dürfen Tabakwaren und andere nikotinhaltige
+Erzeugnisse und deren Behältnisse nicht in Automaten angeboten werden.
+Dies gilt nicht, wenn ein Automat
 
 1.  an einem Kindern und Jugendlichen unzugänglichen Ort aufgestellt ist
     oder
 
 
 2.  durch technische Vorrichtungen oder durch ständige Aufsicht
-    sichergestellt ist, dass Kinder und Jugendliche Tabakwaren nicht
-    entnehmen können.
+    sichergestellt ist, dass Kinder und Jugendliche Tabakwaren und andere
+    nikotinhaltige Erzeugnisse und deren Behältnisse nicht entnehmen
+    können.
 
 
 
+
+(3) Tabakwaren und andere nikotinhaltige Erzeugnisse und deren
+Behältnisse dürfen Kindern und Jugendlichen weder im Versandhandel
+angeboten noch an Kinder und Jugendliche im Wege des Versandhandels
+abgegeben werden.
+
+(4) Die Absätze 1 bis 3 gelten auch für nikotinfreie Erzeugnisse, wie
+elektronische Zigaretten oder elektronische Shishas, in denen
+Flüssigkeit durch ein elektronisches Heizelement verdampft und die
+entstehenden Aerosole mit dem Mund eingeatmet werden, sowie für deren
+Behältnisse.
 
 
 ## Abschnitt 3 - Jugendschutz im Bereich der Medien
 
 
 
-### Unterabschnitt 1 - Trägermedien
+### § 10a Schutzziele des Kinder- und Jugendmedienschutzes
+
+Zum Schutz im Bereich der Medien gehören
+
+1.  der Schutz vor Medien, die geeignet sind, die Entwicklung von Kindern
+    oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen
+    und gemeinschaftsfähigen Persönlichkeit zu beeinträchtigen
+    (entwicklungsbeeinträchtigende Medien),
+
+
+2.  der Schutz vor Medien, die geeignet sind, die Entwicklung von Kindern
+    oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen
+    und gemeinschaftsfähigen Persönlichkeit zu gefährden
+    (jugendgefährdende Medien),
+
+
+3.  der Schutz der persönlichen Integrität von Kindern und Jugendlichen
+    bei der Mediennutzung und
+
+
+4.  die Förderung von Orientierung für Kinder, Jugendliche,
+    personensorgeberechtigte Personen sowie pädagogische Fachkräfte bei
+    der Mediennutzung und Medienerziehung; die Vorschriften des Achten
+    Buches Sozialgesetzbuch bleiben unberührt.
 
 
 
-#### § 11 Filmveranstaltungen
+
+
+### § 10b Entwicklungsbeeinträchtigende Medien
+
+(1) Zu den entwicklungsbeeinträchtigenden Medien nach § 10a Nummer 1
+zählen insbesondere übermäßig ängstigende, Gewalt befürwortende oder
+das sozialethische Wertebild beeinträchtigende Medien.
+
+(2) Bei der Beurteilung der Entwicklungsbeeinträchtigung können auch
+außerhalb der medieninhaltlichen Wirkung liegende Umstände der
+jeweiligen Nutzung des Mediums berücksichtigt werden, wenn diese auf
+Dauer angelegter Bestandteil des Mediums sind und eine abweichende
+Gesamtbeurteilung über eine Kennzeichnung nach § 14 Absatz 2a hinaus
+rechtfertigen.
+
+(3) Insbesondere sind nach konkreter Gefahrenprognose als erheblich
+einzustufende Risiken für die persönliche Integrität von Kindern und
+Jugendlichen, die im Rahmen der Nutzung des Mediums auftreten können,
+unter Einbeziehung etwaiger Vorsorgemaßnahmen im Sinne des § 24a
+Absatz 1 und 2 angemessen zu berücksichtigen. Hierzu zählen
+insbesondere Risiken durch Kommunikations- und Kontaktfunktionen,
+durch Kauffunktionen, durch glücksspielähnliche Mechanismen, durch
+Mechanismen zur Förderung eines exzessiven Mediennutzungsverhaltens,
+durch die Weitergabe von Bestands- und Nutzungsdaten ohne Einwilligung
+an Dritte sowie durch nicht altersgerechte Kaufappelle insbesondere
+durch werbende Verweise auf andere Medien.
+
+
+### § 11 Filmveranstaltungen
 
 (1) Die Anwesenheit bei öffentlichen Filmveranstaltungen darf Kindern
 und Jugendlichen nur gestattet werden, wenn die Filme von der obersten
@@ -292,7 +366,8 @@ Instruktions- und Lehrfilme handelt, die vom Anbieter mit
 Filmveranstaltungen mit Filmen, die für Kinder und Jugendliche ab
 zwölf Jahren freigegeben und gekennzeichnet sind, auch Kindern ab
 sechs Jahren gestattet werden, wenn sie von einer
-personensorgeberechtigten Person begleitet sind.
+personensorgeberechtigten oder erziehungsbeauftragten Person begleitet
+sind.
 
 (3) Unbeschadet der Voraussetzungen des Absatzes 1 darf die
 Anwesenheit bei öffentlichen Filmveranstaltungen nur mit Begleitung
@@ -321,28 +396,44 @@ gelten auch für Werbevorspanne und Beiprogramme. Sie gelten nicht für
 Filme, die zu nichtgewerblichen Zwecken hergestellt werden, solange
 die Filme nicht gewerblich genutzt werden.
 
-(5) Werbefilme oder Werbeprogramme, die für Tabakwaren oder
-alkoholische Getränke werben, dürfen unbeschadet der Voraussetzungen
-der Absätze 1 bis 4 nur nach 18 Uhr vorgeführt werden.
+(5) Werbefilme oder Werbeprogramme, die für alkoholische Getränke
+werben, dürfen unbeschadet der Voraussetzungen der Absätze 1 bis 4 nur
+nach 18 Uhr vorgeführt werden.
+
+(6) Werbefilme oder Werbeprogramme, die für Tabakerzeugnisse,
+elektronische Zigaretten oder Nachfüllbehälter im Sinne des § 1 Absatz
+1 Nummer 1 des Tabakerzeugnisgesetzes werben, dürfen nur im
+Zusammenhang mit Filmen vorgeführt werden, die
+
+1.  von der obersten Landesbehörde oder einer Organisation der
+    freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach § 14 Absatz
+    6 mit „Keine Jugendfreigabe“ nach § 14 Absatz 2 gekennzeichnet sind
+    oder
 
 
-#### § 12 Bildträger mit Filmen oder Spielen
+2.  nicht nach den Vorschriften dieses Gesetzes gekennzeichnet sind.
 
-(1) Bespielte Videokassetten und andere zur Weitergabe geeignete, für
-die Wiedergabe auf oder das Spiel an Bildschirmgeräten mit Filmen oder
-Spielen programmierte Datenträger (Bildträger) dürfen einem Kind oder
-einer jugendlichen Person in der Öffentlichkeit nur zugänglich gemacht
-werden, wenn die Programme von der obersten Landesbehörde oder einer
-Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens
-nach § 14 Abs. 6 für ihre Altersstufe freigegeben und gekennzeichnet
-worden sind oder wenn es sich um Informations-, Instruktions- und
-Lehrprogramme handelt, die vom Anbieter mit "Infoprogramm" oder
-"Lehrprogramm" gekennzeichnet sind.
+
+
+
+
+### § 12 Bildträger mit Filmen oder Spielen
+
+(1) Zur Weitergabe geeignete, für die Wiedergabe auf oder das Spiel an
+Bildschirmgeräten mit Filmen oder Spielen programmierte Datenträger
+(Bildträger) dürfen einem Kind oder einer jugendlichen Person in der
+Öffentlichkeit nur zugänglich gemacht werden, wenn die Programme von
+der obersten Landesbehörde oder einer Organisation der freiwilligen
+Selbstkontrolle im Rahmen des Verfahrens nach § 14 Abs. 6 für ihre
+Altersstufe freigegeben und gekennzeichnet worden sind oder wenn es
+sich um Informations-, Instruktions- und Lehrprogramme handelt, die
+vom Anbieter mit "Infoprogramm" oder "Lehrprogramm" gekennzeichnet
+sind.
 
 (2) Auf die Kennzeichnungen nach Absatz 1 ist auf dem Bildträger und
 der Hülle mit einem deutlich sichtbaren Zeichen hinzuweisen. Das
 Zeichen ist auf der Frontseite der Hülle links unten auf einer Fläche
-von mindestens 1.200 Quadratmillimetern und dem Bildträger auf einer
+von mindestens 1 200 Quadratmillimetern und dem Bildträger auf einer
 Fläche von mindestens 250 Quadratmillimetern anzubringen. Die oberste
 Landesbehörde kann
 
@@ -355,9 +446,9 @@ Landesbehörde kann
 
 
 
-Anbieter von Telemedien, die Filme, Film- und Spielprogramme
-verbreiten, müssen auf eine vorhandene Kennzeichnung in ihrem Angebot
-deutlich hinweisen.
+Anbieter von Telemedien, die Filme und Spielprogramme verbreiten,
+müssen auf eine vorhandene Kennzeichnung in ihrem Angebot deutlich
+hinweisen.
 
 (3) Bildträger, die nicht oder mit "Keine Jugendfreigabe" nach § 14
 Abs. 2 von der obersten Landesbehörde oder einer Organisation der
@@ -395,7 +486,7 @@ Vorkehrungen gesichert ist, dass sie von Kindern und Jugendlichen, für
 deren Altersgruppe ihre Programme nicht nach § 14 Abs. 2 Nr. 1 bis 4
 freigegeben sind, nicht bedient werden können.
 
-(5) Bildträger, die Auszüge von Film- und Spielprogrammen enthalten,
+(5) Bildträger, die Auszüge von Filme und Spielprogrammen enthalten,
 dürfen abweichend von den Absätzen 1 und 3 im Verbund mit periodischen
 Druckschriften nur vertrieben werden, wenn sie mit einem Hinweis des
 Anbieters versehen sind, der deutlich macht, dass eine Organisation
@@ -407,7 +498,7 @@ Satz 1 bis 3 gilt entsprechend. Die Berechtigung nach Satz 1 kann die
 oberste Landesbehörde für einzelne Anbieter ausschließen.
 
 
-#### § 13 Bildschirmspielgeräte
+### § 13 Bildschirmspielgeräte
 
 (1) Das Spielen an elektronischen Bildschirmspielgeräten ohne
 Gewinnmöglichkeit, die öffentlich aufgestellt sind, darf Kindern und
@@ -442,16 +533,15 @@ freigegeben und gekennzeichnet oder nach § 14 Abs. 7 mit
 findet § 12 Abs. 2 Satz 1 bis 3 entsprechende Anwendung.
 
 
-#### § 14 Kennzeichnung von Filmen und Film- und Spielprogrammen
+### § 14 Kennzeichnung von Filmen und Spielprogrammen
 
-(1) Filme sowie Film- und Spielprogramme, die geeignet sind, die
-Entwicklung von Kindern und Jugendlichen oder ihre Erziehung zu einer
-eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit zu
-beeinträchtigen, dürfen nicht für ihre Altersstufe freigegeben werden.
+(1) Filme und Spielprogramme dürfen nicht für Kinder und Jugendliche
+freigegeben werden, wenn sie für Kinder und Jugendliche in der
+jeweiligen Altersstufe entwicklungsbeeinträchtigend sind.
 
 (2) Die oberste Landesbehörde oder eine Organisation der freiwilligen
 Selbstkontrolle im Rahmen des Verfahrens nach Absatz 6 kennzeichnet
-die Filme und die Film- und Spielprogramme mit
+die Filme und Spielprogramme mit
 
 1.  "Freigegeben ohne Altersbeschränkung",
 
@@ -470,64 +560,138 @@ die Filme und die Film- und Spielprogramme mit
 
 
 
-(3) Hat ein Trägermedium nach Einschätzung der obersten Landesbehörde
-oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des
-Verfahrens nach Absatz 6 einen der in § 15 Abs. 2 Nr. 1 bis 5
-bezeichneten Inhalte oder ist es in die Liste nach § 18 aufgenommen,
-wird es nicht gekennzeichnet. Die oberste Landesbehörde hat Tatsachen,
-die auf einen Verstoß gegen § 15 Abs. 1 schließen lassen, der
-zuständigen Strafverfolgungsbehörde mitzuteilen.
+(2a) Die oberste Landesbehörde oder eine Organisation der freiwilligen
+Selbstkontrolle soll im Rahmen des Verfahrens nach Absatz 6 über die
+Altersstufen des Absatzes 2 hinaus Filme und Spielprogramme mit
+Symbolen und weiteren Mitteln kennzeichnen, mit denen die wesentlichen
+Gründe für die Altersfreigabe des Mediums und dessen potenzielle
+Beeinträchtigung der persönlichen Integrität angegeben werden. Die
+oberste Landesbehörde kann Näheres über die Ausgestaltung und
+Anbringung der Symbole und weiteren Mittel anordnen.
 
-(4) Ist ein Programm für Bildträger oder Bildschirmspielgeräte mit
-einem in die Liste nach § 18 aufgenommenen Trägermedium ganz oder im
-Wesentlichen inhaltsgleich, wird es nicht gekennzeichnet. Das Gleiche
-gilt, wenn die Voraussetzungen für eine Aufnahme in die Liste
-vorliegen. In Zweifelsfällen führt die oberste Landesbehörde oder eine
-Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens
-nach Absatz 6 eine Entscheidung der Bundesprüfstelle für
-jugendgefährdende Medien herbei.
+(3) Hat ein Film oder ein Spielprogramm nach Einschätzung der obersten
+Landesbehörde oder einer Organisation der freiwilligen Selbstkontrolle
+im Rahmen des Verfahrens nach Absatz 6 einen der in § 15 Abs. 2 Nr. 1
+bis 5 bezeichneten Inhalte oder ist es in die Liste nach § 18
+aufgenommen, wird es nicht gekennzeichnet. Die oberste Landesbehörde
+hat Tatsachen, die auf einen Verstoß gegen § 15 Abs. 1 schließen
+lassen, der zuständigen Strafverfolgungsbehörde mitzuteilen.
 
-(5) Die Kennzeichnungen von Filmprogrammen für Bildträger und
-Bildschirmspielgeräte gelten auch für die Vorführung in öffentlichen
-Filmveranstaltungen und für die dafür bestimmten, inhaltsgleichen
-Filme. Die Kennzeichnungen von Filmen für öffentliche
-Filmveranstaltungen können auf inhaltsgleiche Filmprogramme für
-Bildträger und Bildschirmspielgeräte übertragen werden; Absatz 4 gilt
-entsprechend.
+(4) Ist ein Film oder ein Spielprogramm mit einem in die Liste nach §
+18 aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich, ist
+die Kennzeichnung ausgeschlossen. Über das Vorliegen einer
+Inhaltsgleichheit entscheidet die Prüfstelle für jugendgefährdende
+Medien. Satz 1 gilt entsprechend, wenn die Voraussetzungen für eine
+Aufnahme in die Liste vorliegen. In Zweifelsfällen führt die oberste
+Landesbehörde oder eine Organisation der freiwilligen Selbstkontrolle
+im Rahmen des Verfahrens nach Absatz 6 eine Entscheidung der
+Prüfstelle für jugendgefährdende Medien herbei.
+
+(4a) Absatz 4 gilt nicht für Freigabeentscheidungen nach § 11 Absatz
+1\.
+
+(5) Die Kennzeichnungen von Filmen gelten auch für die Vorführung in
+öffentlichen Filmveranstaltungen von inhaltsgleichen Filmen, wenn und
+soweit die obersten Landesbehörden nicht in der Vereinbarung zum
+Verfahren nach Absatz 6 etwas Anderes bestimmen. Die Kennzeichnung von
+Filmen für öffentliche Filmveranstaltungen können auf inhaltsgleiche
+Filme für Bildträger, Bildschirmspielgeräte und Telemedien übertragen
+werden; Absatz 4 gilt entsprechend.
 
 (6) Die obersten Landesbehörden können ein gemeinsames Verfahren für
-die Freigabe und Kennzeichnung der Filme sowie Film- und
-Spielprogramme auf der Grundlage der Ergebnisse der Prüfung durch von
-Verbänden der Wirtschaft getragene oder unterstützte Organisationen
-freiwilliger Selbstkontrolle vereinbaren. Im Rahmen dieser
-Vereinbarung kann bestimmt werden, dass die Freigaben und
-Kennzeichnungen durch eine Organisation der freiwilligen
-Selbstkontrolle Freigaben und Kennzeichnungen der obersten
-Landesbehörden aller Länder sind, soweit nicht eine oberste
-Landesbehörde für ihren Bereich eine abweichende Entscheidung trifft.
+die Freigabe und Kennzeichnung der Filme sowie Spielprogramme auf der
+Grundlage der Ergebnisse der Prüfung durch von Verbänden der
+Wirtschaft getragene oder unterstützte Organisationen freiwilliger
+Selbstkontrolle vereinbaren. Im Rahmen dieser Vereinbarung kann
+bestimmt werden, dass die Freigaben und Kennzeichnungen durch eine
+Organisation der freiwilligen Selbstkontrolle Freigaben und
+Kennzeichnungen der obersten Landesbehörden aller Länder sind, soweit
+nicht eine oberste Landesbehörde für ihren Bereich eine abweichende
+Entscheidung trifft. Nach den Bestimmungen des Jugendmedienschutz-
+Staatsvertrages anerkannte Einrichtungen der freiwilligen
+Selbstkontrolle können nach den Sätzen 1 und 2 eine Vereinbarung mit
+den obersten Landesbehörden schließen.
 
-(7) Filme, Film- und Spielprogramme zu Informations-, Instruktions-
-oder Lehrzwecken dürfen vom Anbieter mit "Infoprogramm" oder
-"Lehrprogramm" nur gekennzeichnet werden, wenn sie offensichtlich
-nicht die Entwicklung oder Erziehung von Kindern und Jugendlichen
+(6a) Das gemeinsame Verfahren nach Absatz 6 soll vorsehen, dass von
+der zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
+bestätigte Altersbewertungen nach dem Jugendmedienschutz-Staatsvertrag
+oder Altersbewertungen der Veranstalter des öffentlich-rechtlichen
+Rundfunks als Freigaben im Sinne des Absatzes 6 Satz 2 wirken, sofern
+dies mit der Spruchpraxis der obersten Landesbehörden nicht
+unvereinbar ist. Die Absätze 3 und 4 bleiben unberührt.
+
+(7) Filme und Spielprogramme zu Informations-, Instruktions- oder
+Lehrzwecken dürfen vom Anbieter mit "Infoprogramm" oder "Lehrprogramm"
+nur gekennzeichnet werden, wenn sie offensichtlich nicht die
+Entwicklung oder Erziehung von Kindern und Jugendlichen
 beeinträchtigen. Die Absätze 1 bis 5 finden keine Anwendung. Die
 oberste Landesbehörde kann das Recht zur Anbieterkennzeichnung für
-einzelne Anbieter oder für besondere Film- und Spielprogramme
+einzelne Anbieter oder für besondere Filme und Spielprogramme
 ausschließen und durch den Anbieter vorgenommene Kennzeichnungen
 aufheben.
 
 (8) Enthalten Filme, Bildträger oder Bildschirmspielgeräte neben den
-zu kennzeichnenden Film- oder Spielprogrammen Titel, Zusätze oder
+zu kennzeichnenden Filmen oder Spielprogrammen Titel, Zusätze oder
 weitere Darstellungen in Texten, Bildern oder Tönen, bei denen in
 Betracht kommt, dass sie die Entwicklung oder Erziehung von Kindern
 oder Jugendlichen beeinträchtigen, so sind diese bei der Entscheidung
 über die Kennzeichnung mit zu berücksichtigen.
 
+(9) Die Absätze 1 bis 6 und 8 gelten für die Kennzeichnung von zur
+Verbreitung in Telemedien bestimmten und kennzeichnungsfähigen Filmen
+und Spielprogrammen entsprechend.
 
-#### § 15 Jugendgefährdende Trägermedien
+(10) Die oberste Landesbehörde kann Näheres über die Ausgestaltung und
+Anbringung der Kennzeichnung nach § 14a Absatz 1 mit den Einrichtungen
+der freiwilligen Selbstkontrolle vereinbaren.
 
-(1) Trägermedien, deren Aufnahme in die Liste jugendgefährdender
-Medien nach § 24 Abs. 3 Satz 1 bekannt gemacht ist, dürfen nicht
+
+### § 14a Kennzeichnung bei Film- und Spielplattformen
+
+(1) Film- und Spielplattformen sind Diensteanbieter, die Filme oder
+Spielprogramme in einem Gesamtangebot zusammenfassen und mit
+Gewinnerzielungsabsicht als eigene Inhalte zum individuellen Abruf zu
+einem von den Nutzerinnen und Nutzern gewählten Zeitpunkt
+bereithalten. Film- und Spielplattformen nach Satz 1 dürfen einen Film
+oder ein Spielprogramm nur bereithalten, wenn sie gemäß den
+Altersstufen des § 14 Absatz 2 mit einer entsprechenden deutlich
+wahrnehmbaren Kennzeichnung versehen sind, die
+
+1.  im Rahmen des Verfahrens des § 14 Absatz 6 oder
+
+
+2.  durch eine nach § 19 des Jugendmedienschutz-Staatsvertrages anerkannte
+    Einrichtung der freiwilligen Selbstkontrolle oder durch einen von
+    einer Einrichtung der freiwilligen Selbstkontrolle zertifizierten
+    Jugendschutzbeauftragten nach § 7 des Jugendmedienschutz-
+    Staatsvertrages oder,
+
+
+3.  wenn keine Kennzeichnung im Sinne der Nummer 1 oder 2 gegeben ist,
+    durch ein von den obersten Landesbehörden anerkanntes automatisiertes
+    Bewertungssystem einer im Rahmen einer Vereinbarung nach § 14 Absatz 6
+    tätigen Einrichtung der freiwilligen Selbstkontrolle
+
+
+
+vorgenommen wurde. Die §§ 10b und 14 Absatz 2a gelten entsprechend.
+
+(2) Der Diensteanbieter ist von der Pflicht nach Absatz 1 Satz 2
+befreit, wenn die Film- oder Spielplattform im Inland nachweislich
+weniger als eine Million Nutzerinnen und Nutzer hat. Die Pflicht
+besteht zudem bei Filmen und Spielprogrammen nicht, bei denen
+sichergestellt ist, dass sie ausschließlich Erwachsenen zugänglich
+gemacht werden.
+
+(3) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren
+Sitzland nicht Deutschland ist. Die §§ 2a und 3 des Telemediengesetzes
+bleiben unberührt.
+
+
+### § 15 Jugendgefährdende Medien
+
+(1) Medien, deren Aufnahme in die Liste jugendgefährdender Medien nach
+§ 24 Abs. 3 Satz 1 bekannt gemacht ist, dürfen als Trägermedien nicht
 
 1.  einem Kind oder einer jugendlichen Person angeboten, überlassen oder
     sonst zugänglich gemacht werden,
@@ -567,6 +731,11 @@ Medien nach § 24 Abs. 3 Satz 1 bekannt gemacht ist, dürfen nicht
 
 
 
+(1a) Medien, deren Aufnahme in die Liste jugendgefährdender Medien
+nach § 24 Absatz 3 Satz 1 bekannt gemacht ist, dürfen als Telemedien
+nicht an einem Ort, der Kindern oder Jugendlichen zugänglich ist oder
+von ihnen eingesehen werden kann, vorgeführt werden.
+
 (2) Den Beschränkungen des Absatzes 1 unterliegen, ohne dass es einer
 Aufnahme in die Liste und einer Bekanntmachung bedarf, schwer
 jugendgefährdende Trägermedien, die
@@ -602,15 +771,15 @@ jugendgefährdende Trägermedien, die
 
 (3) Den Beschränkungen des Absatzes 1 unterliegen auch, ohne dass es
 einer Aufnahme in die Liste und einer Bekanntmachung bedarf,
-Trägermedien, die mit einem Trägermedium, dessen Aufnahme in die Liste
+Trägermedien, die mit einem Medium, dessen Aufnahme in die Liste
 bekannt gemacht ist, ganz oder im Wesentlichen inhaltsgleich sind.
 
 (4) Die Liste der jugendgefährdenden Medien darf nicht zum Zweck der
 geschäftlichen Werbung abgedruckt oder veröffentlicht werden.
 
-(5) Bei geschäftlicher Werbung darf nicht darauf hingewiesen werden,
-dass ein Verfahren zur Aufnahme des Trägermediums oder eines
-inhaltsgleichen Telemediums in die Liste anhängig ist oder gewesen
+(5) Bei geschäftlicher Werbung für Trägermedien darf nicht darauf
+hingewiesen werden, dass ein Verfahren zur Aufnahme des Mediums oder
+eines inhaltsgleichen Mediums in die Liste anhängig ist oder gewesen
 ist.
 
 (6) Soweit die Lieferung erfolgen darf, haben Gewerbetreibende vor
@@ -618,39 +787,95 @@ Abgabe an den Handel die Händler auf die Vertriebsbeschränkungen des
 Absatzes 1 Nr. 1 bis 6 hinzuweisen.
 
 
-### Unterabschnitt 2 - Telemedien
+### § 16 Landesrecht
+
+Die Länder können im Bereich der Telemedien über dieses Gesetz
+hinausgehende Regelungen zum Jugendschutz treffen. Die an die Inhalte
+von Telemedien zu richtenden besonderen Anforderungen ergeben sich aus
+dem Jugendmedienschutz-Staatsvertrag.
+
+
+## Abschnitt 4 - Bundeszentrale für Kinder- und Jugendmedienschutz
 
 
 
-#### § 16 Sonderregelung für Telemedien
+### § 17 Zuständige Bundesbehörde und Leitung
 
-Regelungen zu Telemedien, die in die Liste jugendgefährdender Medien
-nach § 18 aufgenommen sind, bleiben Landesrecht vorbehalten.
+(1) Zuständig für die Durchführung der Aufgaben, die nach diesem
+Gesetz in bundeseigener Verwaltung ausgeführt werden, ist die
+Bundesprüfstelle für jugendgefährdende Medien als selbstständige
+Bundesoberbehörde; sie erhält die Bezeichnung „Bundeszentrale für
+Kinder- und Jugendmedienschutz“ (Bundeszentrale) und untersteht dem
+Bundesministerium für Familie, Senioren, Frauen und Jugend.
+
+(2) Die Bundeszentrale wird von einer Direktorin oder einem Direktor
+geleitet (Behördenleitung).
 
 
-## Abschnitt 4 - Bundesprüfstelle für jugendgefährdende Medien
+### § 17a Aufgaben
+
+(1) Die Bundeszentrale unterhält eine Prüfstelle für jugendgefährdende
+Medien, die über die Aufnahme von Medien in die Liste
+jugendgefährdender Medien nach § 18 und über Streichungen aus dieser
+Liste entscheidet.
+
+(2) Die Bundeszentrale fördert durch geeignete Maßnahmen die
+Weiterentwicklung des Kinder- und Jugendmedienschutzes. Hierzu gehören
+insbesondere
+
+1.  die Förderung einer gemeinsamen Verantwortungsübernahme von Staat,
+    Wirtschaft und Zivilgesellschaft zur Koordinierung einer
+    Gesamtstrategie zur Verwirklichung der Schutzziele des § 10a,
+
+
+2.  die Nutzbarmachung und Weiterentwicklung der aus der Gesamtheit der
+    Spruchpraxis der Prüfstelle abzuleitenden Erkenntnisse hinsichtlich
+    durch Medien verursachter sozialethischer Desorientierung von Kindern
+    und Jugendlichen, insbesondere durch Orientierungshilfen für Kinder
+    und Jugendliche, personensorgeberechtigte Personen, Fachkräfte und
+    durch Förderung öffentlicher Diskurse sowie
+
+
+3.  ein regelmäßiger Informationsaustausch mit den im Bereich des Kinder-
+    und Jugendmedienschutzes tätigen Institutionen hinsichtlich der
+    jeweiligen Spruchpraxis.
 
 
 
-### § 17 Name und Zuständigkeit
 
-(1) Die Bundesprüfstelle wird vom Bund errichtet. Sie führt den Namen
-"Bundesprüfstelle für jugendgefährdende Medien".
+(3) Die Bundeszentrale überprüft die von Diensteanbietern nach § 24a
+vorzuhaltenden Vorsorgemaßnahmen.
 
-(2) Über eine Aufnahme in die Liste jugendgefährdender Medien und über
-Streichungen aus dieser Liste entscheidet die Bundesprüfstelle für
-jugendgefährdende Medien.
+(4) Die Bundeszentrale kann zur Erfüllung ihrer Aufgabe aus Absatz 2
+Maßnahmen, die von überregionaler Bedeutung sind, fördern oder selbst
+durchführen.
+
+
+### § 17b Beirat
+
+Die Bundeszentrale richtet einen Beirat ein, der sie bei der Erfüllung
+der Aufgaben nach § 17a Absatz 2 Satz 1 berät. Dem Beirat gehören bis
+zu zwölf Personen an, die sich in besonderer Weise für die
+Verwirklichung der Rechte und den Schutz von Kindern und Jugendlichen
+einsetzen. Vertretungen der Interessen von Kindern und Jugendlichen
+stehen drei Plätze zu. Hiervon sind zwei Sitze mit Personen zu
+besetzen, die zum Zeitpunkt ihrer Berufung höchstens 17 Jahre alt sind
+und von auf Bundesebene tätigen Vertretungen der Interessen von
+Kindern und Jugendlichen vorgeschlagen wurden. Die Berufung von
+Beiratsmitgliedern erfolgt durch die Bundeszentrale für eine Dauer von
+jeweils drei Jahren. Das Nähere regelt eine Geschäftsordnung.
 
 
 ### § 18 Liste jugendgefährdender Medien
 
-(1) Träger- und Telemedien, die geeignet sind, die Entwicklung von
-Kindern oder Jugendlichen oder ihre Erziehung zu einer
-eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit zu
-gefährden, sind von der Bundesprüfstelle für jugendgefährdende Medien
-in eine Liste jugendgefährdender Medien aufzunehmen. Dazu zählen vor
-allem unsittliche, verrohend wirkende, zu Gewalttätigkeit, Verbrechen
-oder Rassenhass anreizende Medien sowie Medien, in denen
+(1) Medien, die geeignet sind, die Entwicklung von Kindern oder
+Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und
+gemeinschaftsfähigen Persönlichkeit zu gefährden, sind von der
+Bundeszentrale nach Entscheidung der Prüfstelle für jugendgefährdende
+Medien in eine Liste (Liste jugendgefährdender Medien) aufzunehmen.
+Dazu zählen vor allem unsittliche, verrohend wirkende, zu
+Gewalttätigkeit, Verbrechen oder Rassenhass anreizende Medien sowie
+Medien, in denen
 
 1.  Gewalthandlungen wie Mord- und Metzelszenen selbstzweckhaft und
     detailliert dargestellt werden oder
@@ -662,38 +887,7 @@ oder Rassenhass anreizende Medien sowie Medien, in denen
 
 
 
-(2) Die Liste ist in vier Teilen zu führen.
-
-1.  In Teil A (Öffentliche Liste der Trägermedien) sind alle Trägermedien
-    aufzunehmen, soweit sie nicht den Teilen B, C oder D zuzuordnen sind;
-
-
-2.  in Teil B (Öffentliche Liste der Trägermedien mit absolutem
-    Verbreitungsverbot) sind, soweit sie nicht Teil D zuzuordnen sind,
-    Trägermedien aufzunehmen, die nach Einschätzung der Bundesprüfstelle
-    für jugendgefährdende Medien einen in § 86, § 130, § 130a, § 131, §
-    184a, § 184b oder § 184c des Strafgesetzbuches bezeichneten Inhalt
-    haben;
-
-
-3.  in Teil C (Nichtöffentliche Liste der Medien) sind diejenigen
-    Trägermedien aufzunehmen, die nur deshalb nicht in Teil A aufzunehmen
-    sind, weil bei ihnen von einer Bekanntmachung der Aufnahme in die
-    Liste gemäß § 24 Abs. 3 Satz 2 abzusehen ist, sowie alle Telemedien,
-    soweit sie nicht Teil D zuzuordnen sind;
-
-
-4.  in Teil D (Nichtöffentliche Liste der Medien mit absolutem
-    Verbreitungsverbot) sind diejenigen Trägermedien, die nur deshalb
-    nicht in Teil B aufzunehmen sind, weil bei ihnen von einer
-    Bekanntmachung der Aufnahme in die Liste gemäß § 24 Abs. 3 Satz 2
-    abzusehen ist, sowie diejenigen Telemedien aufzunehmen, die nach
-    Einschätzung der Bundesprüfstelle für jugendgefährdende Medien einen
-    in § 86, § 130, § 130a, § 131, § 184a, § 184b oder § 184c des
-    Strafgesetzbuches bezeichneten Inhalt haben.
-
-
-
+(2) (weggefallen)
 
 (3) Ein Medium darf nicht in die Liste aufgenommen werden
 
@@ -717,43 +911,66 @@ Medium in die Liste aufzunehmen.
 (5) Medien sind in die Liste aufzunehmen, wenn ein Gericht in einer
 rechtskräftigen Entscheidung festgestellt hat, dass das Medium einen
 der in § 86, § 130, § 130a, § 131, § 184, § 184a, § 184b oder § 184c
-des Strafgesetzbuches bezeichneten Inhalte hat.
+des Strafgesetzbuches bezeichneten Inhalte hat. § 21 Absatz 5 Nummer 2
+bleibt unberührt.
 
-(6) Telemedien sind in die Liste aufzunehmen, wenn die zentrale
-Aufsichtsstelle der Länder für den Jugendmedienschutz die Aufnahme in
-die Liste beantragt hat; es sei denn, der Antrag ist offensichtlich
-unbegründet oder im Hinblick auf die Spruchpraxis der Bundesprüfstelle
-für jugendgefährdende Medien unvertretbar.
+(5a) Erlangt die Prüfstelle für jugendgefährdende Medien davon
+Kenntnis, dass eine den Listeneintrag auslösende Entscheidung nach
+Absatz 5 Satz 1 aufgehoben wurde, hat sie unverzüglich von Amts wegen
+zu prüfen, ob die Voraussetzungen für den Verbleib des Mediums in der
+Liste weiterhin vorliegen.
+
+(6) Die Prüfstelle für jugendgefährdende Medien schätzt in ihren
+Entscheidungen ein, ob ein Medium einen der in den §§ 86, 130, 130a,
+131, 184, 184a, 184b oder 184c des Strafgesetzbuches genannten Inhalte
+hat. Im Bejahungsfall hat sie ihre auch insoweit begründete
+Entscheidung der zuständigen Strafverfolgungsbehörde zuzuleiten.
 
 (7) Medien sind aus der Liste zu streichen, wenn die Voraussetzungen
 für eine Aufnahme nicht mehr vorliegen. Nach Ablauf von 25 Jahren
 verliert eine Aufnahme in die Liste ihre Wirkung.
 
-(8) Auf Filme, Film- und Spielprogramme, die nach § 14 Abs. 2 Nr. 1
-bis 5 gekennzeichnet sind, findet Absatz 1 keine Anwendung. Absatz 1
-ist außerdem nicht anzuwenden, wenn die zentrale Aufsichtsstelle der
-Länder für den Jugendmedienschutz über das Telemedium zuvor eine
-Entscheidung dahin gehend getroffen hat, dass die Voraussetzungen für
-die Aufnahme in die Liste jugendgefährdender Medien nach Absatz 1
-nicht vorliegen. Hat eine anerkannte Einrichtung der Selbstkontrolle
-das Telemedium zuvor bewertet, so findet Absatz 1 nur dann Anwendung,
-wenn die zentrale Aufsichtsstelle der Länder für den
-Jugendmedienschutz die Voraussetzungen für die Aufnahme in die Liste
-jugendgefährdender Medien nach Absatz 1 für gegeben hält.
+(8) Auf Filme und Spielprogramme, die nach § 14 Abs. 2 Nr. 1 bis 5,
+auch in Verbindung mit § 14 Absatz 9 gekennzeichnet sind, findet
+Absatz 1 keine Anwendung. Absatz 1 ist außerdem nicht anzuwenden, wenn
+die zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz
+über das Telemedium zuvor eine Entscheidung dahin gehend getroffen
+hat, dass die Voraussetzungen für die Aufnahme in die Liste
+jugendgefährdender Medien nach Absatz 1 nicht vorliegen. Hat eine
+anerkannte Einrichtung der Selbstkontrolle das Telemedium zuvor
+bewertet, so findet Absatz 1 nur dann Anwendung, wenn die zentrale
+Aufsichtsstelle der Länder für den Jugendmedienschutz die
+Voraussetzungen für die Aufnahme in die Liste jugendgefährdender
+Medien nach Absatz 1 für gegeben hält oder eine Entscheidung der
+zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz nicht
+vorliegt.
 
 
-### § 19 Personelle Besetzung
+### § 19 Personelle Besetzung der Prüfstelle für jugendgefährdende Medien
 
-(1) Die Bundesprüfstelle für jugendgefährdende Medien besteht aus
-einer oder einem von dem Bundesministerium für Familie, Senioren,
-Frauen und Jugend ernannten Vorsitzenden, je einer oder einem von
-jeder Landesregierung zu ernennenden Beisitzerin oder Beisitzer und
-weiteren von dem Bundesministerium für Familie, Senioren, Frauen und
-Jugend zu ernennenden Beisitzerinnen oder Beisitzern. Für die
+(1) Die Prüfstelle für jugendgefährdende Medien besteht aus
+
+1.  der oder dem Vorsitzenden,
+
+
+2.  je einer oder einem von jeder Landesregierung zu ernennenden
+    Beisitzerin oder Beisitzer und
+
+
+3.  weiteren von dem Bundesministerium für Familie, Senioren, Frauen und
+    Jugend zu ernennenden Beisitzerinnen oder Beisitzern.
+
+
+
+Die oder der Vorsitzende wird vom Bundesministerium für Familie,
+Senioren, Frauen und Jugend ernannt. Die Behördenleitung schlägt
+hierfür eine bei der Bundeszentrale beschäftigte Person vor, die die
+Befähigung zum Richteramt nach dem Deutschen Richtergesetz besitzt.
+Die Behördenleitung kann den Vorsitz auch selbst ausüben. Für die
 Vorsitzende oder den Vorsitzenden und die Beisitzerinnen oder
 Beisitzer ist mindestens je eine Stellvertreterin oder ein
 Stellvertreter zu ernennen. Die jeweilige Landesregierung kann ihr
-Ernennungsrecht nach Absatz 1 auf eine oberste Landesbehörde
+Ernennungsrecht nach Satz 1 Nummer 2 auf eine oberste Landesbehörde
 übertragen.
 
 (2) Die von dem Bundesministerium für Familie, Senioren, Frauen und
@@ -798,25 +1015,25 @@ Stelle, die sie bestimmt hat, vorzeitig abberufen werden, wenn sie der
 Verpflichtung zur Mitarbeit in der Bundesprüfstelle für
 jugendgefährdende Medien nicht nachkommen.
 
-(4) Die Mitglieder der Bundesprüfstelle für jugendgefährdende Medien
-sind an Weisungen nicht gebunden.
+(4) Die Mitglieder der Prüfstelle für jugendgefährdende Medien sind
+bei ihren Entscheidungen an Weisungen nicht gebunden.
 
-(5) Die Bundesprüfstelle für jugendgefährdende Medien entscheidet in
-der Besetzung von zwölf Mitgliedern, die aus der oder dem
-Vorsitzenden, drei Beisitzerinnen oder Beisitzern der Länder und je
-einer Beisitzerin oder einem Beisitzer aus den in Absatz 2 genannten
-Gruppen bestehen. Erscheinen zur Sitzung einberufene Beisitzerinnen
-oder Beisitzer oder ihre Stellvertreterinnen oder Stellvertreter
-nicht, so ist die Bundesprüfstelle für jugendgefährdende Medien auch
-in einer Besetzung von mindestens neun Mitgliedern beschlussfähig, von
-denen mindestens zwei den in Absatz 2 Nr. 1 bis 4 genannten Gruppen
+(5) Die Prüfstelle für jugendgefährdende Medien entscheidet in der
+Besetzung von zwölf Mitgliedern, die aus der oder dem Vorsitzenden,
+drei Beisitzerinnen oder Beisitzern der Länder und je einer
+Beisitzerin oder einem Beisitzer aus den in Absatz 2 genannten Gruppen
+bestehen. Erscheinen zur Sitzung einberufene Beisitzerinnen oder
+Beisitzer oder ihre Stellvertreterinnen oder Stellvertreter nicht, so
+ist die Prüfstelle für jugendgefährdende Medien auch in einer
+Besetzung von mindestens neun Mitgliedern beschlussfähig, von denen
+mindestens zwei den in Absatz 2 Nr. 1 bis 4 genannten Gruppen
 angehören müssen.
 
 (6) Zur Anordnung der Aufnahme in die Liste bedarf es einer Mehrheit
 von zwei Dritteln der an der Entscheidung mitwirkenden Mitglieder der
-Bundesprüfstelle für jugendgefährdende Medien. In der Besetzung des
-Absatzes 5 Satz 2 ist für die Listenaufnahme eine Mindestzahl von
-sieben Stimmen erforderlich.
+Prüfstelle für jugendgefährdende Medien. In der Besetzung des Absatzes
+5 Satz 2 ist für die Listenaufnahme eine Mindestzahl von sieben
+Stimmen erforderlich.
 
 
 ### § 20 Vorschlagsberechtigte Verbände
@@ -960,33 +1177,40 @@ auch mehrere Beisitzerinnen oder Beisitzer und stellvertretende
 Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.
 
 
-### § 21 Verfahren
+### § 21 Verfahren der Prüfstelle für jugendgefährdende Medien
 
-(1) Die Bundesprüfstelle für jugendgefährdende Medien wird in der
-Regel auf Antrag tätig.
+(1) Die Prüfstelle für jugendgefährdende Medien wird in der Regel auf
+Antrag tätig.
 
 (2) Antragsberechtigt sind das Bundesministerium für Familie,
 Senioren, Frauen und Jugend, die obersten Landesjugendbehörden, die
 zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz, die
-Landesjugendämter, die Jugendämter sowie für den Antrag auf Streichung
-aus der Liste und für den Antrag auf Feststellung, dass ein Medium
-nicht mit einem bereits in die Liste aufgenommenen Medium ganz oder im
-Wesentlichen inhaltsgleich ist, auch die in Absatz 7 genannten
-Personen.
+Landesjugendämter, die Jugendämter, die anerkannten Einrichtungen der
+freiwilligen Selbstkontrolle, die aus Mitteln des Bundes, der Länder
+oder der Landesmedienanstalten geförderten Internet-Beschwerdestellen
+sowie für den Antrag auf Streichung aus der Liste und für den Antrag
+auf Feststellung, dass ein Medium nicht mit einem bereits in die Liste
+aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist, auch
+die in Absatz 7 genannten Personen.
 
 (3) Kommt eine Listenaufnahme oder eine Streichung aus der Liste
 offensichtlich nicht in Betracht, so kann die oder der Vorsitzende das
 Verfahren einstellen.
 
-(4) Die Bundesprüfstelle für jugendgefährdende Medien wird von Amts
-wegen tätig, wenn eine in Absatz 2 nicht genannte Behörde oder ein
+(4) Die Prüfstelle für jugendgefährdende Medien wird von Amts wegen
+tätig, wenn eine in Absatz 2 nicht genannte Behörde oder ein
 anerkannter Träger der freien Jugendhilfe dies anregt und die oder der
-Vorsitzende der Bundesprüfstelle für jugendgefährdende Medien die
+Vorsitzende der Prüfstelle für jugendgefährdende Medien die
 Durchführung des Verfahrens im Interesse des Jugendschutzes für
 geboten hält.
 
-(5) Die Bundesprüfstelle für jugendgefährdende Medien wird auf
-Veranlassung der oder des Vorsitzenden von Amts wegen tätig,
+(4a) Anträge und Anregungen, die sich auf Medien beziehen, die bei
+Kindern und Jugendlichen besonders verbreitet sind oder durch die die
+Belange des Jugendschutzes in besonderem Maße betroffen scheinen,
+können vorrangig behandelt werden.
+
+(5) Die Prüfstelle für jugendgefährdende Medien wird auf Veranlassung
+der oder des Vorsitzenden von Amts wegen tätig,
 
 1.  wenn zweifelhaft ist, ob ein Medium mit einem bereits in die Liste
     aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist,
@@ -1005,19 +1229,24 @@ Veranlassung der oder des Vorsitzenden von Amts wegen tätig,
 
 
 (6) Vor der Entscheidung über die Aufnahme eines Telemediums in die
-Liste hat die Bundesprüfstelle für jugendgefährdende Medien der
+Liste hat die Prüfstelle für jugendgefährdende Medien der zentralen
+Aufsichtsstelle der Länder für den Jugendmedienschutz Gelegenheit zu
+geben, zu dem Telemedium unverzüglich Stellung zu nehmen.
+Stellungnahmen und Anträge der zentralen Stelle der Länder für den
+Jugendmedienschutz hat die Prüfstelle für jugendgefährdende Medien bei
+ihren Entscheidungen maßgeblich zu berücksichtigen. Soweit der
+Prüfstelle für jugendgefährdende Medien eine Stellungnahme der
 zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
-Gelegenheit zu geben, zu dem Telemedium unverzüglich Stellung zu
-nehmen. Die Stellungnahme hat die Bundesprüfstelle für
-jugendgefährdende Medien bei ihrer Entscheidung maßgeblich zu
-berücksichtigen. Soweit der Bundesprüfstelle für jugendgefährdende
-Medien eine Stellungnahme der zentralen Aufsichtsstelle der Länder für
-den Jugendmedienschutz innerhalb von fünf Werktagen nach Aufforderung
-nicht vorliegt, kann sie ohne diese Stellungnahme entscheiden.
+innerhalb von fünf Werktagen nach Aufforderung nicht vorliegt, kann
+sie ohne diese Stellungnahme entscheiden.
 
 (7) Der Urheberin oder dem Urheber, der Inhaberin oder dem Inhaber der
 Nutzungsrechte sowie bei Telemedien dem Anbieter ist Gelegenheit zur
-Stellungnahme zu geben.
+Stellungnahme zu geben, soweit der Prüfstelle für jugendgefährdende
+Medien die Anschriften bekannt sind oder die Prüfstelle für
+jugendgefährdende Medien die Anschriften durch Angaben im Zusammenhang
+mit dem Medium unter zumutbarem Aufwand aus öffentlich zugänglichen
+Quellen ermitteln kann.
 
 (8) Die Entscheidungen sind
 
@@ -1025,159 +1254,353 @@ Stellungnahme zu geben.
     oder dem Inhaber der Nutzungsrechte,
 
 
-2.  bei Telemedien der Urheberin oder dem Urheber sowie dem Anbieter,
+2.  bei Telemedien der Urheberin oder dem Urheber sowie dem Anbieter und
 
 
-3.  der antragstellenden Behörde,
-
-
-4.  dem Bundesministerium für Familie, Senioren, Frauen und Jugend, den
-    obersten Landesjugendbehörden und der zentralen Aufsichtsstelle der
-    Länder für den Jugendmedienschutz
+3.  der antragstellenden Behörde
 
 
 
 zuzustellen. Sie hat die sich aus der Entscheidung ergebenden
 Verbreitungs- und Werbebeschränkungen im Einzelnen aufzuführen. Die
 Begründung ist beizufügen oder innerhalb einer Woche durch Zustellung
-nachzureichen.
+nachzureichen. Dem Bundesministerium für Familie, Senioren, Frauen und
+Jugend, den obersten Landesjugendbehörden, der zentralen
+Aufsichtsstelle der Länder für den Jugendmedienschutz und der das
+Verfahren anregenden Behörde oder Einrichtung oder dem das Verfahren
+nach Absatz 4 anregenden Träger ist die Entscheidung zu übermitteln.
 
-(9) Die Bundesprüfstelle für jugendgefährdende Medien soll mit der
-zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
-zusammenarbeiten und einen regelmäßigen Informationsaustausch pflegen.
+(9) Die Prüfstelle für jugendgefährdende Medien soll mit der zentralen
+Aufsichtsstelle der Länder für den Jugendmedienschutz zusammenarbeiten
+und einen regelmäßigen Informationsaustausch pflegen.
 
-(10) Die Bundesprüfstelle für jugendgefährdende Medien kann ab dem 1.
-Januar 2004 für Verfahren, die auf Antrag der in Absatz 7 genannten
-Personen eingeleitet werden und die auf die Entscheidung gerichtet
-sind, dass ein Medium
-
-1.  nicht mit einem bereits in die Liste für jugendgefährdende Medien
-    aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist oder
+(10) (weggefallen)
 
 
-2.  aus der Liste für jugendgefährdende Medien zu streichen ist,
+### § 22 Aufnahme periodisch erscheinender Medien in die Liste jugendgefährdender Medien
 
-
-
-Kosten (Gebühren und Auslagen) erheben. Das Bundesministerium für
-Familie, Senioren, Frauen und Jugend wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände und die Gebührensätze näher zu
-bestimmen. Das Verwaltungskostengesetz findet Anwendung.
-
-
-### § 22 Aufnahme von periodischen Trägermedien und Telemedien
-
-(1) Periodisch erscheinende Trägermedien können auf die Dauer von drei
-bis zwölf Monaten in die Liste jugendgefährdender Medien aufgenommen
-werden, wenn innerhalb von zwölf Monaten mehr als zwei ihrer Folgen in
-die Liste aufgenommen worden sind. Dies gilt nicht für Tageszeitungen
-und politische Zeitschriften.
-
-(2) Telemedien können auf die Dauer von drei bis zwölf Monaten in die
-Liste jugendgefährdender Medien aufgenommen werden, wenn innerhalb von
-zwölf Monaten mehr als zwei ihrer Angebote in die Liste aufgenommen
-worden sind. Absatz 1 Satz 2 gilt entsprechend.
+Periodisch erscheinende Medien können auf die Dauer von drei bis zwölf
+Monaten in die Liste jugendgefährdender Medien aufgenommen werden,
+wenn innerhalb von zwölf Monaten mehr als zwei ihrer Folgen in die
+Liste aufgenommen worden sind. Dies gilt nicht für Tageszeitungen und
+politische Zeitschriften sowie für deren digitale Ausgaben.
 
 
 ### § 23 Vereinfachtes Verfahren
 
-(1) Die Bundesprüfstelle für jugendgefährdende Medien kann im
-vereinfachten Verfahren in der Besetzung durch die oder den
-Vorsitzenden und zwei weiteren Mitgliedern, von denen eines den in §
-19 Abs. 2 Nr. 1 bis 4 genannten Gruppen angehören muss, einstimmig
-entscheiden, wenn das Medium offensichtlich geeignet ist, die
-Entwicklung von Kindern oder Jugendlichen oder ihre Erziehung zu einer
-eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit zu
-gefährden. Kommt eine einstimmige Entscheidung nicht zustande,
-entscheidet die Bundesprüfstelle für jugendgefährdende Medien in
-voller Besetzung (§ 19 Abs. 5).
+(1) In einem vereinfachten Verfahren kann die Prüfstelle für
+jugendgefährdende Medien über die Aufnahme von Medien in die Liste
+jugendgefährdender Medien entscheiden, wenn
+
+1.  das Medium offensichtlich geeignet ist, die Entwicklung von Kindern
+    oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen
+    und gemeinschaftsfähigen Persönlichkeit zu gefährden oder
+
+
+2.  bei einem Telemedium auf Antrag oder nach einer Stellungnahme der
+    zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
+    entschieden wird.
+
+
+
+Im vereinfachten Verfahren treffen die oder der Vorsitzende und zwei
+weitere Mitglieder der Prüfstelle für jugendgefährdende Medien, von
+denen ein Mitglied einer der in § 19 Absatz 2 Nummer 1 bis 4 genannten
+Gruppen angehören muss, die Entscheidung. Die Entscheidung kann im
+vereinfachten Verfahren nur einstimmig getroffen werden. Kommt eine
+einstimmige Entscheidung nicht zustande, entscheidet die Prüfstelle
+für jugendgefährdende Medien in voller Besetzung (§ 19 Absatz 5).
 
 (2) Eine Aufnahme in die Liste nach § 22 ist im vereinfachten
 Verfahren nicht möglich.
 
 (3) Gegen die Entscheidung können die Betroffenen (§ 21 Abs. 7)
 innerhalb eines Monats nach Zustellung Antrag auf Entscheidung durch
-die Bundesprüfstelle für jugendgefährdende Medien in voller Besetzung
+die Prüfstelle für jugendgefährdende Medien in voller Besetzung
 stellen.
 
 (4) Nach Ablauf von zehn Jahren seit Aufnahme eines Mediums in die
-Liste kann die Bundesprüfstelle für jugendgefährdende Medien die
-Streichung aus der Liste unter der Voraussetzung des § 21 Abs. 5 Nr. 2
-im vereinfachten Verfahren beschließen.
+Liste kann die Prüfstelle für jugendgefährdende Medien die Streichung
+aus der Liste unter der Voraussetzung des § 21 Abs. 5 Nr. 2 im
+vereinfachten Verfahren beschließen.
 
-(5) Wenn die Gefahr besteht, dass ein Träger- oder Telemedium
-kurzfristig in großem Umfange vertrieben, verbreitet oder zugänglich
-gemacht wird und die endgültige Listenaufnahme offensichtlich zu
-erwarten ist, kann die Aufnahme in die Liste im vereinfachten
-Verfahren vorläufig angeordnet werden. Absatz 2 gilt entsprechend.
+(5) Wenn die Gefahr besteht, dass ein Medium kurzfristig in großem
+Umfange vertrieben, verbreitet oder zugänglich gemacht wird und die
+endgültige Listenaufnahme offensichtlich zu erwarten ist, kann die
+Aufnahme in die Liste im vereinfachten Verfahren vorläufig angeordnet
+werden. Absatz 2 gilt entsprechend.
 
 (6) Die vorläufige Anordnung ist mit der abschließenden Entscheidung
-der Bundesprüfstelle für jugendgefährdende Medien, jedoch spätestens
-nach Ablauf eines Monats, aus der Liste zu streichen. Die Frist des
-Satzes 1 kann vor ihrem Ablauf um höchstens einen Monat verlängert
-werden. Absatz 1 gilt entsprechend. Soweit die vorläufige Anordnung im
+der Prüfstelle für jugendgefährdende Medien, jedoch spätestens nach
+Ablauf eines Monats, aus der Liste zu streichen. Die Frist des Satzes
+1 kann vor ihrem Ablauf um höchstens einen Monat verlängert werden.
+Absatz 1 gilt entsprechend. Soweit die vorläufige Anordnung im
 Bundesanzeiger bekannt zu machen ist, gilt dies auch für die
 Verlängerung.
 
 
 ### § 24 Führung der Liste jugendgefährdender Medien
 
-(1) Die Liste jugendgefährdender Medien wird von der oder dem
-Vorsitzenden der Bundesprüfstelle für jugendgefährdende Medien
-geführt.
+(1) Die Bundeszentrale führt die Liste jugendgefährdender Medien nach
+§ 17a Absatz 1.
 
 (2) Entscheidungen über die Aufnahme in die Liste oder über
 Streichungen aus der Liste sind unverzüglich auszuführen. Die Liste
-ist unverzüglich zu korrigieren, wenn Entscheidungen der
-Bundesprüfstelle für jugendgefährdende Medien aufgehoben werden oder
-außer Kraft treten.
+ist unverzüglich zu korrigieren, wenn Entscheidungen der Prüfstelle
+für jugendgefährdende Medien aufgehoben werden oder außer Kraft
+treten.
 
-(3) Wird ein Trägermedium in die Liste aufgenommen oder aus ihr
-gestrichen, so ist dies unter Hinweis auf die zugrunde liegende
-Entscheidung im Bundesanzeiger bekannt zu machen. Von der
-Bekanntmachung ist abzusehen, wenn das Trägermedium lediglich durch
-Telemedien verbreitet wird oder wenn anzunehmen ist, dass die
-Bekanntmachung der Wahrung des Jugendschutzes schaden würde.
+(2a) Die Liste jugendgefährdender Medien ist als öffentliche Liste zu
+führen. Würde die Bekanntmachung eines Mediums in der öffentlichen
+Liste jedoch der Wahrung des Kinder- und Jugendschutzes schaden, so
+ist dieses Medium in einem nichtöffentlichen Teil der Liste zu führen.
+Ein solcher Schaden ist insbesondere dann anzunehmen, wenn eine
+Bezeichnung des Mediums in der öffentlichen Liste nur in der Weise
+erfolgen kann, dass durch die Bezeichnung für Kinder und Jugendliche
+zugleich der unmittelbare Zugang möglich wird.
 
-(4) Wird ein Medium in Teil B oder D der Liste jugendgefährdender
-Medien aufgenommen, so hat die oder der Vorsitzende dies der
-zuständigen Strafverfolgungsbehörde mitzuteilen. Wird durch
-rechtskräftiges Urteil festgestellt, dass sein Inhalt den in Betracht
-kommenden Tatbestand des Strafgesetzbuches nicht verwirklicht, ist das
-Medium in Teil A oder C der Liste aufzunehmen. Die oder der
-Vorsitzende führt eine erneute Entscheidung der Bundesprüfstelle für
-jugendgefährdende Medien herbei, wenn in Betracht kommt, dass das
-Medium aus der Liste zu streichen ist.
+(3) Wird ein Medium in den öffentlichen Teil der Liste aufgenommen
+oder aus ihm gestrichen, so ist dies unter Hinweis auf die zugrunde
+liegende Entscheidung im Bundesanzeiger bekannt zu machen.
 
-(5) Wird ein Telemedium in die Liste jugendgefährdender Medien
-aufgenommen und ist die Tat im Ausland begangen worden, so soll die
-oder der Vorsitzende dies den im Bereich der Telemedien anerkannten
-Einrichtungen der Selbstkontrolle zum Zweck der Aufnahme in
-nutzerautonome Filterprogramme mitteilen. Die Mitteilung darf nur zum
-Zweck der Aufnahme in nutzerautonome Filterprogramme verwandt werden.
+(4) Die Bundeszentrale kann die Liste der zentralen Aufsichtsstelle
+der Länder für den Jugendmedienschutz, den im Bereich der Telemedien
+anerkannten Einrichtungen der Selbstkontrolle und den aus Mitteln des
+Bundes, der Länder oder der Landesmedienanstalten geförderten
+Internet-Beschwerdestellen in geeigneter Form mitteilen, damit der
+Listeninhalt zum Abgleich von Angeboten in Telemedien mit in die Liste
+aufgenommenen Medien genutzt werden kann, um Kindern und Jugendlichen
+möglichst ungefährdeten Zugang zu Angeboten zu ermöglichen und die
+Bearbeitung von Hinweisen auf jugendgefährdende Inhalte zu
+vereinfachen. Die Mitteilung umfasst einen Hinweis auf Einschätzungen
+nach § 18 Absatz 6.
+
+(5) In Bezug auf die vor Ablauf des 30. April 2021 in die Liste
+jugendgefährdender Medien aufgenommenen Träger- und Telemedien gelten
+§ 18 Absatz 2 und § 24 Absatz 2 in der bis zu diesem Tag geltenden
+Fassung fort. Die Trägermedien, deren Aufnahme in die Liste
+jugendgefährdender Medien bis zum 30. April 2021 bekannt gemacht
+worden ist, können unter Benennung der Listenteile A oder B in eine
+gemeinsame Listenstruktur mit der ab diesem Tag zu führenden Liste
+überführt werden.
+
+
+### § 24a Vorsorgemaßnahmen
+
+(1) Diensteanbieter, die fremde Informationen für Nutzerinnen und
+Nutzer mit Gewinnerzielungsabsicht speichern oder bereitstellen, haben
+unbeschadet des § 7 Absatz 2 und des § 10 des Telemediengesetzes durch
+angemessene und wirksame strukturelle Vorsorgemaßnahmen dafür Sorge zu
+tragen, dass die Schutzziele des § 10a Nummer 1 bis 3 gewahrt werden.
+Die Pflicht nach Satz 1 besteht nicht für Diensteanbieter, deren
+Angebote sich nicht an Kinder und Jugendliche richten und von diesen
+üblicherweise nicht genutzt werden sowie für journalistisch-
+redaktionell gestaltete Angebote, die vom Diensteanbieter selbst
+verantwortet werden.
+
+(2) Als Vorsorgemaßnahmen kommen insbesondere in Betracht:
+
+1.  die Bereitstellung eines Melde- und Abhilfeverfahrens, mit dem
+    Nutzerinnen und Nutzer Beschwerden über
+
+    a)  unzulässige Angebote nach § 4 des Jugendmedienschutz-Staatsvertrages
+        oder
+
+
+    b)  entwicklungsbeeinträchtigende Angebote nach § 5 Absatz 1 und 2 des
+        Jugendmedienschutz-Staatsvertrages, die der Diensteanbieter der
+        Allgemeinheit bereitstellt, ohne seiner Verpflichtung aus § 5 Absatz 1
+        des Jugendmedienschutz-Staatsvertrages durch Maßnahmen nach § 5 Absatz
+        3 bis 5 des Jugendmedienschutz-Staatsvertrages nachzukommen
+
+
+
+    übermitteln können;
+
+
+2.  die Bereitstellung eines Melde- und Abhilfeverfahrens mit einer für
+    Kinder und Jugendliche geeigneten Benutzerführung, im Rahmen dessen
+    insbesondere minderjährige Nutzer und Nutzerinnen Beeinträchtigungen
+    ihrer persönlichen Integrität durch nutzergenerierte Informationen dem
+    Diensteanbieter melden können;
+
+
+3.  die Bereitstellung eines Einstufungssystems für nutzergenerierte
+    audiovisuelle Inhalte, mit dem Nutzerinnen und Nutzer im Zusammenhang
+    mit der Generierung standardmäßig insbesondere dazu aufgefordert
+    werden, die Eignung eines Inhalts entsprechend der Altersstufe „ab 18
+    Jahren“ als nur für Erwachsene zu bewerten;
+
+
+4.  die Bereitstellung technischer Mittel zur Altersverifikation für
+    nutzergenerierte audiovisuelle Inhalte, die die Nutzerin oder der
+    Nutzer im Zusammenhang mit der Generierung entsprechend der
+    Altersstufe „ab 18 Jahren“ als nur für Erwachsene geeignet bewertet
+    hat;
+
+
+5.  der leicht auffindbare Hinweis auf anbieterunabhängige
+    Beratungsangebote, Hilfe- und Meldemöglichkeiten;
+
+
+6.  die Bereitstellung technischer Mittel zur Steuerung und Begleitung der
+    Nutzung der Angebote durch personensorgeberechtigte Personen;
+
+
+7.  die Einrichtung von Voreinstellungen, die Nutzungsrisiken für Kinder
+    und Jugendliche unter Berücksichtigung ihres Alters begrenzen, indem
+    insbesondere ohne ausdrückliche anderslautende Einwilligung
+
+    a)  Nutzerprofile weder durch Suchdienste aufgefunden werden können noch
+        für nicht angemeldete Personen einsehbar sind,
+
+
+    b)  Standort- und Kontaktdaten und die Kommunikation mit anderen
+        Nutzerinnen und Nutzern nicht veröffentlicht werden,
+
+
+    c)  die Kommunikation mit anderen Nutzerinnen und Nutzern auf einen von
+        den Nutzerinnen und Nutzern vorab selbst gewählten Kreis eingeschränkt
+        ist und
+
+
+    d)  die Nutzung anonym oder unter Pseudonym erfolgt;
+
+
+
+
+
+8.  die Verwendung von Bestimmungen in den Allgemeinen
+    Geschäftsbedingungen, die die für die Nutzung wesentlichen
+    Bestimmungen der Allgemeinen Geschäftsbedingungen in kindgerechter
+    Weise darstellen.
+
+
+
+
+(3) Der Diensteanbieter ist von der Pflicht nach Absatz 1 befreit,
+wenn das Angebot im Inland nachweislich weniger als eine Million
+Nutzerinnen und Nutzer hat.
+
+(4) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren
+Sitzland nicht Deutschland ist. Die Bestimmungen des
+Netzwerkdurchsetzungsgesetzes vom 1. September 2017 (BGBl. I S. 3352)
+in der jeweils geltenden Fassung gehen vor. Weitergehende
+Anforderungen dieses Gesetzes zur Wahrung der Schutzziele des § 10a
+Nummer 1 bis 3 bleiben unberührt. Die §§ 2a und 3 des
+Telemediengesetzes sowie die Bestimmungen der Verordnung (EU) 2016/679
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) bleiben
+unberührt.
+
+
+### § 24b Überprüfung der Vorsorgemaßnahmen
+
+(1) Die Bundeszentrale überprüft die Umsetzung, die konkrete
+Ausgestaltung und die Angemessenheit der von Diensteanbietern nach §
+24a Absatz 1 zu treffenden Vorsorgemaßnahmen. Das gemeinsame
+Kompetenzzentrum von Bund und Ländern für den Jugendmedienschutz im
+Internet „jugendschutz.net“ nimmt erste Einschätzungen der von den
+Diensteanbietern getroffenen Vorsorgemaßnahmen vor. „jugendschutz.net“
+unterrichtet die Bundeszentrale über seine ersten Einschätzungen nach
+Satz 2. Im Rahmen der Prüfung nach Satz 1 berücksichtigt die
+Bundeszentrale die Stellungnahme der zentralen Aufsichtsstelle der
+Länder für den Jugendmedienschutz.
+
+(2) Der Diensteanbieter kann die Pflicht nach § 24a Absatz 1 erfüllen,
+indem er in einer Leitlinie Maßnahmen festlegt und umsetzt, welche die
+Vorsorgemaßnahmen nach § 24a Absatz 1 für seinen Bereich
+konkretisieren und die Leitlinie
+
+1.  mit einer nach den Bestimmungen des Jugendmedienschutz-Staatsvertrages
+    anerkannten Einrichtung der freiwilligen Selbstkontrolle, bei der der
+    Diensteanbieter Mitglied ist, vereinbart wurde,
+
+
+2.  der Bundeszentrale zur Beurteilung der Angemessenheit gemäß § 24a
+    Absatz 1 vorgelegt wurde und
+
+
+3.  nach Bestätigung der Angemessenheit durch die Bundeszentrale
+    veröffentlicht wurde (§ 24c Absatz 2).
+
+
+
+
+(3) Stellt die Bundeszentrale fest, dass ein Diensteanbieter keine
+oder nur unzureichende Vorsorgemaßnahmen nach § 24a Absatz 1 getroffen
+hat, gibt sie ihm Gelegenheit, Stellung zu nehmen und berät ihn über
+die erforderlichen Vorsorgemaßnahmen. Trifft der Diensteanbieter auch
+nach Abschluss der Beratung die erforderlichen Vorsorgemaßnahmen
+nicht, fordert die Bundeszentrale den Diensteanbieter unter
+angemessener Fristsetzung zur Abhilfe auf.
+
+(4) Kommt der Diensteanbieter der Aufforderung nach Absatz 3 Satz 2
+innerhalb der gesetzten Frist nicht oder nur unzureichend nach, kann
+die Bundeszentrale die erforderlichen Vorsorgemaßnahmen nach § 24a
+Absatz 1 unter erneuter angemessener Fristsetzung selbst anordnen. Vor
+der Anordnung gibt die Bundeszentrale der zentralen Aufsichtsstelle
+der Länder für den Jugendmedienschutz Gelegenheit zur Stellungnahme.
+
+(5) Hat eine nach den Bestimmungen des Jugendmedienschutz-
+Staatsvertrages anerkannte Einrichtung der freiwilligen
+Selbstkontrolle eine Pflicht des Diensteanbieters gemäß § 24a Absatz 1
+ausgeschlossen, ist der Prüfumfang der Bundeszentrale auf die
+Überschreitung der Grenzen des Beurteilungsspielraums durch die
+Einrichtung der freiwilligen Selbstkontrolle beschränkt.
+
+
+### § 24c Leitlinie der freiwilligen Selbstkontrolle
+
+(1) Bei der Erarbeitung einer Leitlinie nach § 24b Absatz 2 sind die
+Sichtweise von Kindern und Jugendlichen und deren Belange in
+geeigneter Weise angemessen zu berücksichtigen.
+
+(2) Die vereinbarte Leitlinie ist in deutscher Sprache im
+Bundesanzeiger, auf der Homepage des Diensteanbieters und der Homepage
+der Einrichtung der freiwilligen Selbstkontrolle spätestens einen
+Monat nach Ende des Quartals, in dem die Vereinbarung durch die
+Bundeszentrale als angemessen beurteilt wurde, zu veröffentlichen. Die
+auf der Homepage veröffentlichte Leitlinie muss leicht erkennbar,
+unmittelbar erreichbar und ständig verfügbar sein.
+
+
+### § 24d Inländischer Empfangsbevollmächtigter
+
+Diensteanbieter im Sinne des § 24a Absatz 1 Satz 1 in Verbindung mit
+Absatz 4 Satz 1 haben sicherzustellen, dass ein
+Empfangsbevollmächtigter im Inland benannt ist und auf ihn in ihrem
+Angebot in leicht erkennbarer und unmittelbar erreichbarer Weise
+aufmerksam gemacht wird. An diesen Empfangsbevollmächtigten können
+unter Beachtung des § 24a Absatz 4 Bekanntgaben oder Zustellungen in
+Verfahren nach § 24b Absatz 3 und 4 bewirkt werden. Das gilt auch für
+die Bekanntgabe oder die Zustellung von Schriftstücken, die solche
+Verfahren einleiten oder vorbereiten.
 
 
 ### § 25 Rechtsweg
 
-(1) Für Klagen gegen eine Entscheidung der Bundesprüfstelle für
+(1) Für Klagen gegen eine Entscheidung der Prüfstelle für
 jugendgefährdende Medien, ein Medium in die Liste jugendgefährdender
 Medien aufzunehmen oder einen Antrag auf Streichung aus der Liste
 abzulehnen, ist der Verwaltungsrechtsweg gegeben.
 
-(2) Gegen eine Entscheidung der Bundesprüfstelle für jugendgefährdende
+(2) Gegen eine Entscheidung der Prüfstelle für jugendgefährdende
 Medien, ein Medium nicht in die Liste jugendgefährdender Medien
 aufzunehmen, sowie gegen eine Einstellung des Verfahrens kann die
 antragstellende Behörde im Verwaltungsrechtsweg Klage erheben.
 
-(3) Die Klage ist gegen den Bund, vertreten durch die Bundesprüfstelle
-für jugendgefährdende Medien, zu richten.
+(3) Die Klage ist gegen den Bund, vertreten durch die Bundeszentrale
+für Kinder- und Jugendmedienschutz, zu richten.
 
 (4) Die Klage hat keine aufschiebende Wirkung. Vor Erhebung der Klage
 bedarf es keiner Nachprüfung in einem Vorverfahren, bei einer
 Entscheidung im vereinfachten Verfahren nach § 23 ist jedoch zunächst
-eine Entscheidung der Bundesprüfstelle für jugendgefährdende Medien in
-der Besetzung nach § 19 Abs. 5 herbeizuführen.
+eine Entscheidung der Prüfstelle für jugendgefährdende Medien in der
+Besetzung nach § 19 Abs. 5 herbeizuführen.
 
 
 ## Abschnitt 5 - Verordnungsermächtigung
@@ -1188,8 +1611,8 @@ der Besetzung nach § 19 Abs. 5 herbeizuführen.
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Näheres über den Sitz und das Verfahren der
-Bundesprüfstelle für jugendgefährdende Medien und die Führung der
-Liste jugendgefährdender Medien zu regeln.
+Prüfstelle für jugendgefährdende Medien und die Führung der Liste
+jugendgefährdender Medien zu regeln.
 
 
 ## Abschnitt 6 - Ahndung von Verstößen
@@ -1202,8 +1625,9 @@ Liste jugendgefährdender Medien zu regeln.
 bestraft, wer
 
 1.  entgegen § 15 Abs. 1 Nr. 1 bis 5 oder 6, jeweils auch in Verbindung
-    mit Abs. 2, ein Trägermedium anbietet, überlässt, zugänglich macht,
-    ausstellt, anschlägt, vorführt, einführt, ankündigt oder anpreist,
+    mit Abs. 2, oder entgegen § 15 Absatz 1a ein dort genanntes Medium
+    anbietet, überlässt, zugänglich macht, ausstellt, anschlägt, vorführt,
+    einführt, ankündigt oder anpreist,
 
 
 2.  entgegen § 15 Abs. 1 Nr. 7, auch in Verbindung mit Abs. 2, ein
@@ -1250,12 +1674,14 @@ bestraft, wer
 fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu sechs
 Monaten oder Geldstrafe bis zu hundertachtzig Tagessätzen.
 
-(4) Absatz 1 Nr. 1 und 2 und Absatz 3 Nr. 1 sind nicht anzuwenden,
-wenn eine personensorgeberechtigte Person das Medium einem Kind oder
-einer jugendlichen Person anbietet, überlässt oder zugänglich macht.
-Dies gilt nicht, wenn die personensorgeberechtigte Person durch das
-Anbieten, Überlassen oder Zugänglichmachen ihre Erziehungspflicht
-gröblich verletzt.
+(4) Absatz 1 Nummer 1 und 2 und Absatz 3 Nummer 1 sind nicht
+anzuwenden, wenn eine personensorgeberechtigte Person oder eine
+Person, die im Einverständnis mit einer personensorgeberechtigten
+Person handelt, das Medium einem Kind oder einer jugendlichen Person
+anbietet, überlässt, zugänglich macht oder vorführt. Dies gilt nicht,
+wenn die personensorgeberechtigte Person durch das Erteilen des
+Einverständnisses, das Anbieten, Überlassen, Zugänglichmachen oder
+Vorführen ihre Erziehungspflicht gröblich verletzt.
 
 
 ### § 28 Bußgeldvorschriften
@@ -1276,8 +1702,8 @@ Gewerbetreibender vorsätzlich oder fahrlässig
 
 
 4.  entgegen § 3 Abs. 2 Satz 3 einen Hinweis gibt, einen Film oder ein
-    Film- oder Spielprogramm ankündigt oder für einen Film oder ein Film-
-    oder Spielprogramm wirbt,
+    Spielprogramm ankündigt oder für einen Film oder ein Spielprogramm
+    wirbt,
 
 
 5.  entgegen § 4 Abs. 1 oder 3 einem Kind oder einer jugendlichen Person
@@ -1311,11 +1737,15 @@ Gewerbetreibender vorsätzlich oder fahrlässig
 11a. entgegen § 9 Abs. 4 alkoholhaltige Süßgetränke in den Verkehr bringt,
 
 
-12. entgegen § 10 Abs. 1 Tabakwaren abgibt oder einem Kind oder einer
-    jugendlichen Person das Rauchen gestattet,
+12. entgegen § 10 Absatz 1, auch in Verbindung mit Absatz 4, ein dort
+    genanntes Produkt an ein Kind oder eine jugendliche Person abgibt oder
+    einem Kind oder einer jugendlichen Person das Rauchen oder den Konsum
+    gestattet,
 
 
-13. entgegen § 10 Abs. 2 Satz 1 Tabakwaren in einem Automaten anbietet,
+13. entgegen § 10 Absatz 2 Satz 1 oder Absatz 3, jeweils auch in
+    Verbindung mit Absatz 4, ein dort genanntes Produkt anbietet oder
+    abgibt,
 
 
 14. entgegen § 11 Abs. 1 oder 3, jeweils auch in Verbindung mit Abs. 4
@@ -1324,7 +1754,8 @@ Gewerbetreibender vorsätzlich oder fahrlässig
     Beiprogramm gestattet,
 
 
-14a. entgegen § 11 Abs. 5 einen Werbefilm oder ein Werbeprogramm vorführt,
+14a. entgegen § 11 Absatz 5 oder 6 einen Werbefilm oder ein Werbeprogramm
+    vorführt,
 
 
 15. entgegen § 12 Abs. 1 einem Kind oder einer jugendlichen Person einen
@@ -1368,8 +1799,8 @@ fahrlässig
     in der vorgeschriebenen Weise oder nicht rechtzeitig anbringt oder
 
 
-4.  entgegen § 14 Abs. 7 Satz 1 einen Film oder ein Film- oder
-    Spielprogramm mit "Infoprogramm" oder "Lehrprogramm" kennzeichnet.
+4.  entgegen § 14 Abs. 7 Satz 1 einen Film oder ein Spielprogramm mit
+    "Infoprogramm" oder "Lehrprogramm" kennzeichnet.
 
 
 
@@ -1377,10 +1808,22 @@ fahrlässig
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 12 Abs. 2 Satz 4 einen Hinweis nicht, nicht richtig oder
-    nicht in der vorgeschriebenen Weise gibt oder
+    nicht in der vorgeschriebenen Weise gibt,
 
 
-2.  entgegen § 24 Abs. 5 Satz 2 eine Mitteilung verwendet.
+2.  entgegen § 14a Absatz 1 Satz 2 einen Film oder ein Spielprogramm
+    bereithält,
+
+
+3.  entgegen § 24 Abs. 5 Satz 2 eine Mitteilung verwendet,
+
+
+4.  einer vollziehbaren Anordnung nach § 24b Absatz 4 Satz 1
+    zuwiderhandelt oder
+
+
+5.  entgegen § 24d Satz 1 nicht sicherstellt, dass ein
+    Empfangsbevollmächtigter im Inland benannt ist.
 
 
 
@@ -1395,8 +1838,20 @@ Nr. 1 enthaltenes Verbot oder durch eine vollziehbare Anordnung nach §
 für eine Person, die im Einverständnis mit der
 personensorgeberechtigten Person handelt.
 
-(5) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfzigtausend Euro geahndet werden.
+(5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 3 Nummer 4
+mit einer Geldbuße bis zu fünf Millionen Euro und in den übrigen
+Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+§ 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist für
+die Fälle des Absatzes 3 Nummer 4 anzuwenden.
+
+(6) In den Fällen des Absatzes 3 Nummer 2, 4 und 5 kann die
+Ordnungswidrigkeit auch dann geahndet werden, wenn sie nicht im
+Geltungsbereich dieses Gesetzes begangen wird.
+
+(7) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 3
+Nummer 2, 4 und 5 die Bundeszentrale für Kinder- und
+Jugendmedienschutz.
 
 
 ## Abschnitt 7 - Schlussvorschriften
@@ -1413,10 +1868,24 @@ Jahren" gekennzeichneten Filmprogramme für Bildträger findet § 18 Abs.
 
 ### § 29a Weitere Übergangsregelung
 
-Bildträger mit Kennzeichnungen nach § 12 Abs. 1, deren Zeichen den
-Anforderungen des § 12 Abs. 2 Satz 1, aber nicht den Anforderungen des
-§ 12 Abs. 2 Satz 2 entsprechen, dürfen bis zum 31. August 2008 in den
-Verkehr gebracht werden.
+Beisitzerinnen und Beisitzer der Bundesprüfstelle für
+jugendgefährdende Medien und ihre Vertreterinnen und Vertreter, die
+sich am 1. Mai 2021 im Amt befinden, können unabhängig von ihrer
+bisherigen Mitgliedschaft in der Bundesprüfstelle noch höchstens
+zweimal als Beisitzerin oder Beisitzer oder als Vertreterin oder
+Vertreter berufen werden.
+
+
+### § 29b Bericht und Evaluierung
+
+Dieses Gesetz wird drei Jahre nach Inkrafttreten evaluiert, um zu
+untersuchen, inwiefern die in § 10a niedergelegten Schutzziele
+erreicht wurden. Die Bundesregierung unterrichtet den Deutschen
+Bundestag über das Ergebnis der Evaluation. In der Folge wird alle
+zwei Jahre dem Beirat Bericht erstattet über die weitere Entwicklung
+bei dem Erreichen der Schutzziele des § 10a. Alle vier Jahre ist
+dieser Bericht von der Bundesregierung dem Deutschen Bundestag
+vorzulegen.
 
 
 ### § 30 Inkrafttreten, Außerkrafttreten

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1877, 244
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2011 I 3044
+:   Art. 6 G v. 10.9.2021 I 4147
 
 
 ## Eingangsformel
@@ -26,14 +26,12 @@ verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des
 Bundesrats und des Reichstags, was folgt:
 
 
-## § 1
-
-(weggefallen)
+## § 1 (weggefallen)
 
 
-## § 2
 
-(weggefallen)
+## § 2 (weggefallen)
+
 
 
 ## § 3
@@ -59,7 +57,6 @@ Landesgesetzgebung nicht ausgeschlossen werden.
 
 ## (XXXX) §§ 5 und 6 (weggefallen)
 
--
 
 
 ## § 7
@@ -87,9 +84,8 @@ Gelegenheit zu einer Änderung oder Ergänzung der Begründung der
 Beschwerde oder des Antrags.
 
 
-## § 8
+## § 8 (weggefallen)
 
-(weggefallen)
 
 
 ## § 9
@@ -100,14 +96,12 @@ Zivilprozeßordnung ein in seinem Bezirk gelegenes Oberlandesgericht zu
 entscheiden hätte.
 
 
-## § 10
-
--
+## § 10 (weggefallen)
 
 
-## § 11
 
-(weggefallen)
+## § 11 (weggefallen)
+
 
 
 ## § 12
@@ -116,9 +110,8 @@ Gesetz im Sinne der Zivilprozeßordnung und dieses Gesetzes ist jede
 Rechtsnorm.
 
 
-## § 13
+## § 13 (weggefallen)
 
-(weggefallen)
 
 
 ## § 14
@@ -130,7 +123,7 @@ erfolgen hat, außer Kraft, soweit nicht in der Zivilprozeßordnung auf
 sie verwiesen oder soweit nicht bestimmt ist, daß sie nicht berührt
 werden.
 
-(2)
+(2) (Aufhebungsvorschrift)
 
 
 ## § 15
@@ -164,7 +157,7 @@ werden.
 
 
 
-(2)
+(2) (weggefallen)
 
 
 ## § 15a
@@ -236,9 +229,10 @@ Landesjustizverwaltung eingerichteten oder anerkannten Gütestelle
 entfällt, wenn die Parteien einvernehmlich einen Einigungsversuch vor
 einer sonstigen Gütestelle, die Streitbeilegungen betreibt,
 unternommen haben. Das Einvernehmen nach Satz 1 wird unwiderleglich
-vermutet, wenn der Verbraucher eine branchengebundene Gütestelle, eine
-Gütestelle der Industrie- und Handelskammer, der Handwerkskammer oder
-der Innung angerufen hat. Absatz 1 Satz 2 gilt entsprechend.
+vermutet, wenn ein Verbraucher eine Verbraucherschlichtungsstelle,
+eine branchengebundene andere Gütestelle oder eine andere Gütestelle
+der Industrie- und Handelskammer, der Handwerkskammer oder der Innung
+angerufen hat. Absatz 1 Satz 2 gilt entsprechend.
 
 (4) Zu den Kosten des Rechtsstreits im Sinne des § 91 Abs. 1, 2 der
 Zivilprozessordnung gehören die Kosten der Gütestelle, die durch das
@@ -257,19 +251,17 @@ Vergleiche gelten als Vergleiche im Sinne des § 794 Abs. 1 Nr. 1 der
 Zivilprozessordnung.
 
 
-## § 16
-
-(weggefallen)
+## § 16 (weggefallen)
 
 
-## § 17
 
-(weggefallen)
+## § 17 (weggefallen)
+
+)
 
 
-## § 18
+## § 18 (weggefallen)
 
--
 
 
 ## § 19
@@ -383,16 +375,35 @@ Zwangsvollstreckungsnovelle gelten nicht für Eintragungen, die vor dem
 Inkrafttreten der 2. Zwangsvollstreckungsnovelle am 1. Januar 1999
 beantragt worden sind.
 
-(8) Die Frist des § 885 Abs. 4 Satz 1 der Zivilprozessordnung in der
-Fassung des Artikels 1 Nr. 28 Buchstabe b der 2.
-Zwangsvollstreckungsnovelle beginnt nicht vor dem Tage des
-Inkrafttretens der 2. Zwangsvollstreckungsnovelle am 1. Januar 1999.
+(8) (weggefallen)
 
 (9) Auf Anträge auf Bestimmung eines Termins zur Abnahme der
 eidesstattlichen Versicherung, die vor dem 1. Januar 1999 gestellt
 worden sind, finden die §§ 807, 899, 900 der Zivilprozessordnung und §
 20 Nr. 17 des Rechtspflegergesetzes in der jeweils bis zum 1. Januar
 1999 geltenden Fassung Anwendung.
+
+
+## § 23 Schutz von Hochwasser-Soforthilfen vor Pfändungen auf Pfändungsschutzkonten
+
+(1) Staatliche Soforthilfen, die als Billigkeitsleistungen zur
+Überbrückung von Notlagen von Bürgern oder zur Milderung von Schäden
+der Unternehmen der Land- und Forstwirtschaft und der gewerblichen
+Wirtschaft sowie der Angehörigen freier Berufe und Selbstständigen, in
+den von den Starkregen- und Hochwasserereignissen im Juli 2021
+betroffenen Gebieten gewährt werden, werden den in § 902 Satz 1 der
+Zivilprozessordnung genannten Beträgen und Geldleistungen, die nicht
+von der Pfändung erfasst werden, gleichgestellt.
+
+(2) Das Kreditinstitut ist dem Schuldner auch dann zur Leistung aus
+dem Guthaben für die nach Absatz 1 nicht von der Pfändung erfassten
+Soforthilfen im Rahmen des vertraglich Vereinbarten verpflichtet, wenn
+der Schuldner durch Vorlage des Bewilligungsbescheides oder eines
+Kontoauszuges nachweist, dass das Guthaben nicht von der Pfändung
+erfasst ist.
+
+(3) Die Absätze 1 und 2 gelten nicht für Pfändungen wegen
+Rückforderungen von Soforthilfen im Sinne des Absatzes 1.
 
 
 ## § 24
@@ -405,7 +416,6 @@ Zeitpunkt geltenden Fassung Anwendung.
 
 ## § 25 (weggefallen)
 
--
 
 
 ## § 26
@@ -463,13 +473,7 @@ folgende Übergangsvorschriften:
     eingereicht werden können.
 
 
-8.  § 544 der Zivilprozessordnung in der Fassung des Gesetzes zur Reform
-    des Zivilprozesses vom 27. Juli 2001 (BGBl. I S. 1887) ist bis
-    einschließlich 31. Dezember 2014 mit der Maßgabe anzuwenden, dass die
-    Beschwerde gegen die Nichtzulassung der Revision durch das
-    Berufungsgericht nur zulässig ist, wenn der Wert der mit der Revision
-    geltend zu machenden Beschwer zwanzigtausend Euro übersteigt. Dies
-    gilt nicht, wenn das Berufungsgericht die Berufung verworfen hat.
+8.  (weggefallen)
 
 
 9.  (weggefallen)
@@ -821,4 +825,133 @@ geltenden Fassung weiter anzuwenden.
 (2) Auf Urteile, bei denen die Frist des § 586 Absatz 2 Satz 2 der
 Zivilprozessordnung am 27. Oktober 2011 abgelaufen ist, ist § 586
 Absatz 4 der Zivilprozessordnung nicht anzuwenden.
+
+
+## § 39
+
+Für das Gesetz zur Reform der Sachaufklärung in der
+Zwangsvollstreckung vom 29. Juli 2009 (BGBl. I S. 2258) gelten
+folgende Übergangsvorschriften:
+
+1.  Für Vollstreckungsaufträge, die vor dem 1. Januar 2013 beim
+    Gerichtsvollzieher eingegangen sind, sind anstelle der §§ 754, 755,
+    758a Abs. 2, von § 788 Abs. 4, der §§ 802a bis 802l, 807, 836 Abs. 3,
+    der §§ 851b, 882b bis 882h, 883 Abs. 2 und von § 933 Satz 1 der
+    Zivilprozessordnung die §§ 754, 806b, 807, 813a, 813b, 836 Abs. 3, der
+    § 845 Abs. 1 Satz 3, die §§ 851b, 883 Abs. 2 und 4, der § 888 Abs. 1
+    Satz 3, die §§ 899 bis 915h und § 933 Satz 1 der Zivilprozessordnung
+    in der bis zum 31. Dezember 2012 geltenden Fassung weiter anzuwenden.
+
+
+2.  Für Vollstreckungsaufträge, die vor dem 1. Januar 2013 beim
+    Vollziehungsbeamten eingegangen sind, sind die §§ 6 und 7 der
+    Justizbeitreibungsordnung und die darin genannten Bestimmungen der
+    Zivilprozessordnung in der bis zum 31. Dezember 2012 geltenden Fassung
+    weiter anzuwenden.
+
+
+3.  § 16 Abs. 3 des Verwaltungs-Vollstreckungsgesetzes, § 15 Satz 1 des
+    Ausführungsgesetzes zum deutsch-österreichischen Konkursvertrag, § 98
+    Abs. 3 der Insolvenzordnung, § 463b Abs. 3 der Strafprozessordnung, §
+    35 Abs. 3, § 89 Abs. 3, § 91 Abs. 2 und § 94 des Gesetzes über das
+    Verfahren in Familiensachen und in den Angelegenheiten der
+    freiwilligen Gerichtsbarkeit, § 90 Abs. 3 des Gesetzes über
+    Ordnungswidrigkeiten, §§ 284, 326 Abs. 3, § 334 Abs. 3 der
+    Abgabenordnung und § 25 Abs. 4 des Straßenverkehrsgesetzes sowie die
+    darin genannten Bestimmungen der Zivilprozessordnung sind in der bis
+    zum 31. Dezember 2012 geltenden Fassung weiter anzuwenden, wenn die
+    Auskunftserteilung oder die Haft vor dem 1. Januar 2013 angeordnet
+    worden ist.
+
+
+4.  Im Rahmen des § 802d Abs. 1 Satz 1 der Zivilprozessordnung und des §
+    284 Abs. 4 Satz 1 der Abgabenordnung steht die Abgabe einer
+    eidesstattlichen Versicherung nach § 807 der Zivilprozessordnung oder
+    nach § 284 der Abgabenordnung in der bis zum 31. Dezember 2012
+    geltenden Fassung der Abgabe einer Vermögensauskunft nach § 802c der
+    Zivilprozessordnung oder nach § 284 der Abgabenordnung in der ab dem
+    1\. Januar 2013 geltenden Fassung gleich. Kann ein Gläubiger aus diesem
+    Grund keine Vermögensauskunft verlangen, ist er nach Maßgabe des § 299
+    Abs. 1 der Zivilprozessordnung dazu befugt, das beim
+    Vollstreckungsgericht verwahrte Vermögensverzeichnis einzusehen, das
+    der eidesstattlichen Versicherung zu Grunde liegt, und sich aus ihm
+    Abschriften erteilen zu lassen. Insoweit sind die bis zum 31. Dezember
+    2012 geltenden Vorschriften des Gerichtskostengesetzes über die
+    Erteilung einer Ablichtung oder eines Ausdrucks des mit
+    eidesstattlicher Versicherung abgegebenen Vermögensverzeichnisses oder
+    den Antrag auf Gewährung der Einsicht in dieses Vermögensverzeichnis
+    weiter anzuwenden.
+
+
+5.  Das Schuldnerverzeichnis nach § 915 der Zivilprozessordnung in der bis
+    zum 31. Dezember 2012 geltenden Fassung wird hinsichtlich der
+    Eintragungen fortgeführt, die vor dem 1. Januar 2013 vorzunehmen waren
+    oder die nach den Nummern 1 bis 3 nach dem 31. Dezember 2012
+    vorzunehmen sind. Die §§ 915 bis 915h der Zivilprozessordnung sowie §
+    26 Absatz 2 der Insolvenzordnung jeweils in der bis zum 31. Dezember
+    2012 geltenden Fassung sind insoweit weiter anzuwenden. Unbeschadet
+    des § 915a Abs. 2 der Zivilprozessordnung in der bis zum 31. Dezember
+    2012 geltenden Fassung ist eine Eintragung in dem nach Satz 1
+    fortgeführten Schuldnerverzeichnis vorzeitig zu löschen, wenn der
+    Schuldner in das Schuldnerverzeichnis nach § 882b der
+    Zivilprozessordnung in der ab dem 1. Januar 2013 geltenden Fassung
+    eingetragen wird.
+
+
+6.  Soweit eine gesetzliche Bestimmung die Eintragung in das
+    Schuldnerverzeichnis nach § 882b der Zivilprozessordnung in der ab dem
+    1\. Januar 2013 geltenden Fassung voraussetzt, steht dem die Eintragung
+    in das nach Nummer 5 fortgeführte Schuldnerverzeichnis gleich.
+
+
+
+
+
+## § 40 Übergangsvorschrift zum Gesetz zur Änderung des Prozesskostenhilfe- und Beratungshilferechts
+
+Hat eine Partei vor dem 1. Januar 2014 für einen Rechtszug
+Prozesskostenhilfe beantragt, so sind für diesen Rechtszug die §§ 114
+bis 127 der Zivilprozessordnung, § 48 Absatz 1 Nummer 1 der
+Bundesrechtsanwaltsordnung, § 4b der Insolvenzordnung, § 11a des
+Arbeitsgerichtsgesetzes, § 397a der Strafprozessordnung, § 77 Absatz 1
+Satz 2 und § 168 Absatz 2 Satz 2 des Gesetzes über das Verfahren in
+Familiensachen und in Angelegenheiten der freiwilligen
+Gerichtsbarkeit, § 12 Satz 1 des Rechtsanwaltsvergütungsgesetzes sowie
+die §§ 136 und 137 des Patentgesetzes in der bis zum 31. Dezember 2013
+geltenden Fassung anzuwenden. Eine Maßnahme der Zwangsvollstreckung
+gilt als besonderer Rechtszug.
+
+
+## § 41 Übergangsvorschrift zum Gesetz zur Änderung des Sachverständigenrechts und zur weiteren Änderung des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie zur Änderung des Sozialgerichtsgesetzes, der Verwaltungsgerichtsordnung, der Finanzgerichtsordnung und des Gerichtskostengesetzes
+
+Wurde der Sachverständige vor dem 15. Oktober 2016 ernannt, ist § 411
+Absatz 1 und 2 der Zivilprozessordnung in der bis zum 15. Oktober 2016
+geltenden Fassung anzuwenden.
+
+
+## § 42 Informationspflichten aus Anlass des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung
+
+Die Länder übermitteln dem Bundesministerium der Justiz und für
+Verbraucherschutz auf Anfrage die Informationen nach Artikel 53 Absatz
+2 der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des
+Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen
+Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf
+die Erleichterung der grenzüberschreitenden Eintreibung von
+Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S.
+59).
+
+
+## § 43 (weggefallen)
+
+
+
+## § 44 Vorrang- und Beschleunigungsgebot
+
+(1) Verfahren über die Anpassung der Miete oder Pacht für Grundstücke
+oder Räume, die keine Wohnräume sind, wegen staatlicher Maßnahmen zur
+Bekämpfung der COVID-19-Pandemie sind vorrangig und beschleunigt zu
+behandeln.
+
+(2) In Verfahren nach Absatz 1 soll ein früher erster Termin
+spätestens einen Monat nach Zustellung der Klageschrift stattfinden.
 

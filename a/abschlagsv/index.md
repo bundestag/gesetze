@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 981
 
-Geändert durch
-:   Art. 4 Nr. 1 G v. 23.10.2008 I 2022
+Zuletzt geändert durch
+:   Art. 4 G v. 28.4.2017 I 969
 
 
 
@@ -40,7 +40,7 @@ und Bauträgerverordnung unter den Voraussetzungen ihres § 3 Abs. 1
 verpflichtet werden. Unter den Voraussetzungen des § 7 der Makler- und
 Bauträgerverordnung kann der Besteller auch abweichend von ihrem § 3
 Abs. 1 und 2 zur Leistung von Abschlagszahlungen verpflichtet werden.
-§ 632a Abs. 3 des Bürgerlichen Gesetzbuchs findet Anwendung.
+§ 650m Absatz 2 und 3 des Bürgerlichen Gesetzbuchs findet Anwendung.
 
 
 ## § 2 Betroffene Verträge

@@ -64,8 +64,9 @@ Artikel 11 dieser Anlage bis zum Ablauf des 7. Juli 1990 gestundet.
 ## 2. Abschnitt - Währungsumstellung in der Deutschen Demokratischen Republik
 
 
+Tag der Umstellung,
 
-### Art 5 - Tag der Umstellung, Abwicklung über Konten bei Geldinstituten
+### Art 5 - Abwicklung über Konten bei Geldinstituten
 
 (1) Die am Tage des Inkrafttretens dieser Bestimmungen den in Absatz 3
 genannten Personen oder Stellen gehörenden, auf Mark der Deutschen

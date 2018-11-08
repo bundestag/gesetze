@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 508
 
+Geändert durch
+:   Art. 1 V v. 30.7.2014 I 1314
+
 
 ## Eingangsformel
 
@@ -111,8 +114,9 @@ Flussdiagramm dargestellt.
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 2 Abs. 2 Nr. 1)
 
-## Anlage 1 (zu § 2 Abs. 2 Nr. 1) Bodenstationsnegativliste
+## Anlage 1 Bodenstationsnegativliste
 
 ( Fundstelle: BGBl. I 2008, 509 )
 Staatsgebiet Armenien
@@ -137,8 +141,9 @@ Staatsgebiet Turkmenistan
 Staatsgebiet Usbekistan
 Staatsgebiet Weißrussland
 
+(zu § 2 Abs. 2 Nr. 2)
 
-## Anlage 2 (zu § 2 Abs. 2 Nr. 2) Gebietspositivliste
+## Anlage 2 Gebietspositivliste
 
 ( Fundstelle: BGBl. I 2008, 509 )
 Antarktischer Kontinent und angrenzende Meere (alle Gebiete südlich
@@ -147,33 +152,67 @@ von –60° geographischer Breite)
 Nordpolarer Teil der Arktis (alle Gebiete nördlich von 84°
 geographischer Breite)
 
+(zu § 2 Absatz 2 Nummer 2 Buchstabe a)
 
-## Anlage 3 (zu § 2 Abs. 2 Nr. 2 Buchstabe a) Gebietsnegativliste
+## Anlage 3 Gebietsnegativliste
 
-( Fundstelle: BGBl. I 2008, 509 )
+(Fundstelle: BGBl. I 2013, 1314)
+
 Staatsgebiet Afghanistan
+
 Staatsgebiet Armenien
+
 Staatsgebiet Aserbaidschan
+
 Staatsgebiet Äthiopien
-Staatsgebiet Bahrain
+
 Staatsgebiet Bosnien-Herzegowina
+
 Staatsgebiet Dschibuti
+
 Staatsgebiet Eritrea
+
 Staatsgebiet Georgien
+
 Staatsgebiet Irak
+
 Staatsgebiet Israel und palästinensische Autonomiegebiete
-Staatsgebiet Kongo
+
+Demokratische Republik Kongo
+
 Kosovo/UNMIK (VN-Resolution 1244 (1999))
+
 Staatsgebiet Libanon
+
+Staatsgebiet Mali
+
 Staatsgebiet Republik Moldau
+
+Staatsgebiet Senegal
+
 Staatsgebiet Somalia
+
 Staatsgebiet Sudan
+
+Staatsgebiet Südsudan
+
+Staatsgebiet Syrien
+
 Staatsgebiet Tschad
+
+Staatsgebiet Ukraine
+
 Staatsgebiet Usbekistan
+
 Westsahara
 
+Staatsgebiet Zentralafrikanische Republik
 
-## Anlage 4 (zu § 2 Abs. 2 Nr. 2 Buchstabe b) Empfängerpositivliste
+Staatsgebiet Zypern
+
+(zu § 2 Abs. 2 Nr. 2 Buchstabe b)
+
+## Anlage 4 Empfängerpositivliste
 
 ( Fundstelle: BGBl. I 2008, 510 )
 
@@ -214,8 +253,9 @@ Westsahara
 
 
 
+(zu § 2 Abs. 1 und 2)
 
-## Anlage 5 (zu § 2 Abs. 1 und 2) Übersicht über den Prüfablauf
+## Anlage 5 Übersicht über den Prüfablauf
 
 ( Fundstelle: BGBl. I 2008, 511 )
 ![bgbl1_2008_j0508-1_0010.jpg](bgbl1_2008_j0508-1_0010.jpg)

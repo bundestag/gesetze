@@ -34,8 +34,9 @@ Januar 1993, bekanntgemacht.
 
 Der Bundesminister des Innern
 
+(Anlage IV des BBesG)
 
-## Anlage I A (Anlage IV des BBesG) Gültig ab 1. Mai 1993
+## Anlage I A Gültig ab 1. Mai 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 
@@ -975,8 +976,9 @@ Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 
 
 
+(Anlage V des BBesG)
 
-## Anlage I B (Anlage V des BBesG) Gültig ab 1. Mai 1993, Satz 2 unterhalb der Ortszuschlagstabelle gültig ab 1. Januar 1993
+## Anlage I B Gültig ab 1. Mai 1993, Satz 2 unterhalb der Ortszuschlagstabelle gültig ab 1. Januar 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 125
 
@@ -1078,8 +1080,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage VIII des BBesG)
 
-## Anlage I C (Anlage VIII des BBesG) Gültig ab 1. Mai 1993
+## Anlage I C Gültig ab 1. Mai 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, S. 126
 
@@ -1172,8 +1175,9 @@ DM)
 
 
 
+(Anlage IX des BBesG)
 
-## Anlage I D (Anlage IX des BBesG) Gültig ab 1. Mai 1993
+## Anlage I D Gültig ab 1. Mai 1993
 
 (Fundstelle des Originaltextes: BGBl. I 1994, S. 127 - 129)
 
@@ -2446,8 +2450,9 @@ DM)
 
 
 
+(Anlage IV des BBesG)
 
-## Anlage II A (Anlage IV des BBesG) Gültig ab 1. Juli 1993
+## Anlage II A Gültig ab 1. Juli 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 
@@ -3387,8 +3392,9 @@ Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 
 
 
+(Anlage V des BBesG)
 
-## Anlage II B (Anlage V des BBesG) Gültig ab 1. Juli 1993
+## Anlage II B Gültig ab 1. Juli 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 133
 
@@ -3491,8 +3497,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage VIII des BBesG)
 
-## Anlage II C (Anlage VIII des BBesG) Gültig ab 1. Juli 1993
+## Anlage II C Gültig ab 1. Juli 1993
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 134)
 
@@ -3592,8 +3599,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage IX des BBesG)
 
-## Anlage II D (Anlage IX des BBesG) Gültig ab 1. Juli 1993
+## Anlage II D Gültig ab 1. Juli 1993
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 135 - 137)
 

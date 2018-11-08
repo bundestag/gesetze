@@ -856,8 +856,9 @@ archivmäßig gesichert niedergelegt.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 11 Abs. 2)
 
-### Anlage 1 (zu § 11 Abs. 2) Bandbreite der Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten
+### Anlage 1 Bandbreite der Einzelkostenansätze für die Ermittlung der  Bewirtschaftungskosten
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1182
 
@@ -961,8 +962,9 @@ d)  sehr hohes Modernisierungsrisiko
 
 
 
+(zu § 12 Abs. 2)
 
-### Anlage 2 (zu § 12 Abs. 2) Erfahrungssätze für die Nutzungsdauer baulicher Anlagen
+### Anlage 2 Erfahrungssätze für die Nutzungsdauer baulicher Anlagen
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1183
 
@@ -1031,8 +1033,9 @@ B)  Gewerbliche Nutzung (in Deutschland belegene Objekte):
 
 
 
+(zu § 12 Abs. 4)
 
-### Anlage 3 (zu § 12 Abs. 4) Bandbreiten für Kapitalisierungszinssätze
+### Anlage 3 Bandbreiten für Kapitalisierungszinssätze
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1184
 
@@ -1116,8 +1119,9 @@ B)  Gewerbliche Nutzung (in Deutschland belegene Objekte):
 
 
 
+(zu § 12 Abs. 1)
 
-### Anlage 4 (zu § 12 Abs. 1) Vervielfältigertabelle
+### Anlage 4 Vervielfältigertabelle
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1185 - 1186)
 

@@ -1088,8 +1088,9 @@ vollständig oder nicht rechtzeitig erstattet.
 
 (weggefallen)
 
+(zu § 2)
 
-### Anlage 1 (zu § 2) Pflanzenarten, für die die Vorschriften dieser Verordnung gelten, wenn sie als Anbaumaterial zu gewerblichen Zwecken in den Verkehr gebracht werden sollen
+### Anlage 1 Pflanzenarten \*), für die die Vorschriften dieser Verordnung gelten, wenn sie als Anbaumaterial zu gewerblichen Zwecken in den Verkehr gebracht werden sollen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1328 - 1329;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1573,8 +1574,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 4 Abs. 1 und 2, § 5 Abs. 2 und 4, § 6 Abs. 3 und § 9 Abs. 3)
 
-### Anlage 2 (zu § 4 Abs. 1 und 2, § 5 Abs. 2 und 4, § 6 Abs. 3 und § 9 Abs. 3) Schadorganismen an Anbaumaterial bestimmter Pflanzenarten
+### Anlage 2 Schadorganismen an Anbaumaterial bestimmter Pflanzenarten
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1330 - 1349;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2526,8 +2528,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 5 Abs. 2 Nr. 3)
 
-### Anlage 3 (zu § 5 Abs. 2 Nr. 3) Besondere Anforderungen an Bestände von Anbaumaterial
+### Anlage 3 Besondere Anforderungen an Bestände von Anbaumaterial
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1350 - 1351;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2680,8 +2683,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 6 Abs. 3)
 
-### Anlage 4 (zu § 6 Abs. 3) Untersuchung auf Viren, virusähnliche Schadorganismen und Viruskrankheiten im Rahmen der Anerkennung von Anbaumaterial von Kern- und Steinobst
+### Anlage 4 Untersuchung auf Viren, virusähnliche Schadorganismen und Viruskrankheiten im Rahmen der Anerkennung von Anbaumaterial von Kern- und Steinobst
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 270 - 271;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2013
 
+Geändert durch
+:   Art. 1 V v. 29.4.2014 I 450
+
 
 ## Eingangsformel
 
@@ -99,10 +102,11 @@ Nicht abzuliefern sind
     Anforderung verbreitet werden,
 
 
-2.  einzeln auf Anforderung hergestellte Medienwerke, die mit weniger als
-    25 Exemplaren in körperlicher Form verbreitet werden, wenn diese nach
-    Maßgabe der Bibliothek in einer zur Archivierung und Bereitstellung
-    geeigneten unkörperlichen Form abgeliefert wurden,
+2.  Dissertationen, Habilitationsschriften und einzeln auf Anforderung
+    hergestellte Medienwerke, die mit weniger als 25 Exemplaren in
+    körperlicher Form verbreitet werden, wenn diese nach Maßgabe der
+    Bibliothek in einer zur Archivierung und Bereitstellung geeigneten
+    unkörperlichen Form abgeliefert wurden,
 
 
 3.  Medienwerke mit bis zu vier Druckseiten Umfang; diese Einschränkung
@@ -151,7 +155,12 @@ Nicht abzuliefern sind
     häuslichen oder geselligen Leben dienen,
 
 
-14. Spiele, wenn Spielcharakter und -zweck im Vordergrund stehen.
+14. Spiele,
+
+
+15. Zeitungen, wenn diese nach Maßgabe der Bibliothek in einer zur
+    Archivierung und Bereitstellung geeigneten unkörperlichen Form
+    abgeliefert wurden.
 
 
 
@@ -162,8 +171,8 @@ Nicht abzuliefern sind
 (1) Die Ablieferungspflichtigen haben die Medienwerke einschließlich
 der in § 2 Abs. 4 bezeichneten Teile und Gegenstände unaufgefordert an
 die Bibliothek abzuliefern. Dies gilt auch für die einzelnen Hefte und
-Lieferungen von fortlaufend erscheinenden Medienwerken. Tageszeitungen
-sind nur auf Anforderung abzuliefern.
+Lieferungen von fortlaufend erscheinenden Medienwerken. Unbeschadet
+des § 4 Nummer 15 sind Tageszeitungen nur auf Anforderung abzuliefern.
 
 (2) Soweit die Benutzung und die dauerhafte Sicherung von Medienwerken
 auf elektronischen Datenträgern weitere Informationen erfordern, die
@@ -303,7 +312,10 @@ Nicht abzuliefern sind
 
 
 9.  Netzpublikationen, die nur einer privaten Nutzergruppe zugänglich
-    gemacht sind.
+    gemacht sind,
+
+
+10. selbstständig veröffentlichte Primär-, Forschungs- und Rohdaten.
 
 
 

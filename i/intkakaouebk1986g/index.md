@@ -2,7 +2,7 @@
 Title: Gesetz zu dem Internationalen Kakao-Übereinkommen von 1986
 jurabk: IntKakaoÜbk1986G
 layout: default
-origslug: intkakao_bk1986g
+origslug: intkakaouebk1986g
 slug: intkakaouebk1986g
 
 ---

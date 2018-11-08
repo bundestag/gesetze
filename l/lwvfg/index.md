@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 667
 
 Zuletzt geändert durch
-:   Art. 7 G v. 5.12.2012 I 2418
+:   Art. 8 G v. 27.8.2017 I 3295
 
 
 ## Eingangsformel
@@ -150,8 +150,6 @@ Gericht getrennt vorzulegen.
 
 
 
-§ 34 Abs. 1 Nr. 7 des Gerichtsverfassungsgesetzes ist nicht
-anzuwenden.
 
 (4) Die Zahl der vorzuschlagenden Personen soll das Eineinhalbfache
 der erforderlichen Zahl der ehrenamtlichen Richter betragen.
@@ -247,9 +245,8 @@ liegt. Ist eine Hofstelle nicht vorhanden, so ist das Amtsgericht
 größten Teil liegen oder die Rechte im wesentlichen ausgeübt werden.
 
 
-### § 11
+### § 11 (weggefallen)
 
-(weggefallen)
 
 
 ### § 12
@@ -269,9 +266,7 @@ Nr. 2 bis 6 anhängig gemacht, so hat das Prozeßgericht die Sache
 insoweit an das für Landwirtschaftssachen zuständige Gericht
 abzugeben. Absatz 1 Satz 2, 3 ist anzuwenden.
 
-(3) Für die Erhebung der Gerichtskosten ist das Verfahren vor dem
-abgebenden Gericht als Teil des Verfahrens vor dem übernehmenden
-Gericht zu behandeln.
+(3) (weggefallen)
 
 
 ### § 13
@@ -408,57 +403,48 @@ die Zuziehung ehrenamtlicher Richter ist nicht erforderlich.
 
 (3) Die Länder können bestimmen, daß die Entscheidung über die
 Erteilung eines Erbscheins ebenfalls ohne Zuziehung ehrenamtlicher
-Richter erfolgen kann und daß insoweit die Vorschriften der §§ 14 Abs.
-2 und 30 sowie § 38 Abs. 3, §§ 39, 41 Abs. 1 Satz 2, §§ 58 und 66 des
+Richter erfolgen kann und daß insoweit § 14 Absatz 2 und § 30 dieses
+Gesetzes sowie § 38 Abs. 3, §§ 39, 41 Abs. 1 Satz 2, §§ 58 und 66 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit keine Anwendung
 finden; das gleiche gilt für die Einziehung und die Kraftloserklärung
 eines Erbscheins.
 
 
-### § 21
-
-(weggefallen)
+### § 21 (weggefallen)
 
 
-### § 22
 
-(weggefallen)
-
-
-### § 23
-
-(weggefallen)
+### § 22 (weggefallen)
 
 
-### § 24
 
-(weggefallen)
-
-
-### § 25
-
-(weggefallen)
+### § 23 (weggefallen)
 
 
-### § 26
 
-(weggefallen)
-
-
-### § 27
-
-(weggefallen)
+### § 24 (weggefallen)
 
 
-### § 28
 
-(weggefallen)
+### § 25 (weggefallen)
 
 
-### § 29
 
-(weggefallen)
+### § 26 (weggefallen)
+
+
+
+### § 27 (weggefallen)
+
+
+
+### § 28 (weggefallen)
+
+
+
+### § 29 (weggefallen)
+
 
 
 ### § 30
@@ -472,9 +458,8 @@ erklären, dem Schuldner auf Antrag auch nachlassen, die Vollstreckung
 durch Sicherheitsleistung abzuwenden.
 
 
-### § 31
+### § 31 (weggefallen)
 
-(weggefallen)
 
 
 ### § 32
@@ -510,193 +495,30 @@ ersucht nach Eintritt der Rechtskraft der Entscheidung das
 Grundbuchamt um Eintragung des Erwerbers.
 
 
-### § 33
+### § 33 (weggefallen)
 
-Für die in diesem Abschnitt geregelten gerichtlichen Verfahren gilt
-die Kostenordnung, soweit sich aus den folgenden Vorschriften nichts
-anderes ergibt.
 
 
 ### § 34
 
-(1) Über die Kosten ist zugleich mit der Entscheidung über die
-Hauptsache zu entscheiden.
-
-(2) Den Geschäftswert setzt das Gericht von Amts wegen fest.
+Über die Kosten ist zugleich mit der Entscheidung über die Hauptsache
+zu entscheiden.
 
 
-### § 35
+### (XXXX) §§ 35 bis 41 (weggefallen)
 
-(1) In gerichtlichen Verfahren auf Grund der Vorschriften des
-Landpachtverkehrsgesetzes und der §§ 588, 590, 591, 593, 594d, 595 und
-595a des Bürgerlichen Gesetzbuchs bestimmt sich der Geschäftswert
-
-1.  im Falle des § 8 Abs. 1 des Landpachtverkehrsgesetzes nach dem Wert,
-    der für die Gebührenberechnung im Falle der Beurkundung des
-    Rechtsverhältnisses maßgebend sein würde, auf das sich das Verfahren
-    bezieht;
-
-
-2.  im Falle des § 593 des Bürgerlichen Gesetzbuchs,
-
-    a)  soweit es sich um die Neufestsetzung der Leistungen des Pächters
-        handelt, nach dem Wertunterschied zwischen den bisherigen und den neu
-        beantragten Leistungen des Pächters, berechnet auf die Zeit, für die
-        die Neufestsetzung beantragt wird, höchstens jedoch auf drei Jahre,
-        und
-
-
-    b)  soweit es sich nicht um eine Neufestsetzung der Leistungen des
-        Pächters handelt, nach freiem Ermessen mit der Maßgabe, daß der
-        Höchstwert 4.000 Euro beträgt;
-
-
-
-
-
-3.  in den Fällen des § 595 Abs. 6, des § 595a Abs. 2 des Bürgerlichen
-    Gesetzbuchs und des § 8 Abs. 2 Satz 1 des Landpachtverkehrsgesetzes
-    nach dem Wert der in dem Pachtvertrag vereinbarten Leistungen des
-    Pächters während zweier Jahre; ist nach den Anträgen ein kürzerer
-    Zeitraum Gegenstand des Verfahrens, so ist dieser maßgebend;
-
-
-4.  in den übrigen Fällen nach § 30 der Kostenordnung.
-
-
-
-
-(2) Ergeht die Entscheidung nur für einen Teil des Pachtgegenstandes,
-so ist der Festsetzung des Geschäftswertes der entsprechende Teil der
-Leistungen des Pächters zugrunde zu legen. Die Neufestsetzung der
-Pacht bleibt in diesem Fall außer Betracht, soweit über die Höhe kein
-Streit besteht.
-
-(3)
-
-(4) In den in Absatz 1 bezeichneten Verfahren wird je für das
-Verfahren im allgemeinen und für eine den Rechtszug beendende
-Entscheidung erhoben
-
-1.  im Falle des § 8 Abs. 1 des Landpachtverkehrsgesetzes die Hälfte der
-    vollen Gebühr;
-
-
-2.  in den übrigen Fällen das Doppelte der vollen Gebühr.
-
-
-
-Stellt das Gericht im Falle des Absatzes 1 Nr. 1 fest, daß der Vertrag
-nicht zu beanstanden ist, so wird eine Gebühr nicht erhoben.
-
-(5)
-
-
-### § 36
-
-(1) In gerichtlichen Verfahren auf Grund der Vorschriften über die
-rechtsgeschäftliche Veräußerung (§ 1 Nr. 2) bestimmt sich der
-Geschäftswert nach dem Wert, der für die Gebührenberechnung im Falle
-der Beurkundung des Rechtsverhältnisses maßgebend sein würde, auf das
-sich das Verfahren bezieht. Es wird die Hälfte der vollen Gebühr, bei
-Übergabeverträgen ein Viertel der vollen Gebühr erhoben.
-
-(2) In Verfahren auf Erteilung eines Zeugnisses oder einer
-Bescheinigung oder auf Änderung oder Aufhebung einer Auflage (§ 22
-Abs. 1, 4 des Grundstückverkehrsgesetzes) bestimmt sich der
-Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr
-erhoben.
-
-
-### § 36a
-
-(1) In gerichtlichen Verfahren auf Grund der Vorschriften über die
-gerichtliche Zuweisung eines Betriebes (§ 1 Nr. 2) bestimmt sich der
-Geschäftswert nach § 18 Abs. 3 und § 19 der Kostenordnung. Es wird das
-Vierfache der vollen Gebühr erhoben.
-
-(2) Endet das Verfahren ohne Zuweisung des Betriebes, so bestimmt sich
-der Geschäftswert nach § 30 der Kostenordnung. Es wird das Doppelte
-der vollen Gebühr erhoben.
-
-(3) In Verfahren über Ansprüche nach § 17 sowie in Verfahren nach § 16
-Abs. 3 Satz 4 des Grundstückverkehrsgesetzes bestimmt sich der
-Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr
-erhoben.
-
-
-### § 37
-
-In gerichtlichen Verfahren auf Grund der Vorschriften über
-Einwendungen gegen das siedlungsrechtliche Vorkaufsrecht (§ 1 Nr. 3)
-gilt § 36 Abs. 1 sinngemäß.
-
-
-### § 38
-
-In gerichtlichen Verfahren über die Aufhebung von Pacht- und sonstigen
-Nutzungsverhältnissen sowie über die Inanspruchnahme von Gebäuden oder
-Land und die Festsetzung des Ersatzanspruchs oder der Entschädigung (§
-1 Nr. 4) bestimmt sich der Geschäftswert nach § 30 der Kostenordnung.
-Es wird die volle Gebühr erhoben.
-
-
-### § 38a
-
-In gerichtlichen Verfahren auf Grund der Vorschriften über
-Angelegenheiten, die mit der Aufhebung der früheren Vorschriften über
-Erbhöfe zusammenhängen (§ 1 Nr. 6), bestimmt sich der Geschäftswert
-nach § 30 der Kostenordnung. Es wird die volle Gebühr erhoben.
-
-
-### § 39
-
-Für die Entscheidung über den Erlaß einer vorläufigen Anordnung
-während eines schwebenden Verfahrens wird die Hälfte der vollen Gebühr
-erhoben.
-
-
-### § 40
-
-(1) Im Beschwerdeverfahren erhöhen sich die in den §§ 35 bis 39
-bestimmten Gebührensätze auf das Eineinhalbfache, im
-Rechtsbeschwerdeverfahren auf das Doppelte.
-
-(2) In Verfahren nach § 588 Abs. 4, § 590 Abs. 2, § 591 Abs. 2 und 3,
-§§ 593, 594d Abs. 2, § 595 Abs. 6 und § 595a Abs. 2 und 3 des
-Bürgerlichen Gesetzbuchs sowie nach § 8 Abs. 2 Satz 3 des
-Landpachtverkehrsgesetzes werden für das Verfahren über die Beschwerde
-Gebühren auch dann erhoben, wenn die Beschwerde Erfolg hat.
-
-
-### § 41
-
-Wird ein Antrag oder eine Beschwerde zurückgenommen, bevor der Gegner
-zur Äußerung aufgefordert oder Termin zur mündlichen Verhandlung
-bestimmt ist, oder wird ein Antrag oder eine Beschwerde als unzulässig
-zurückgewiesen, so wird die Gebühr nur zur Hälfte erhoben. Die nach
-Landesrecht zuständige Behörde und die Genehmigungsbehörde sowie die
-übergeordnete Behörde (§ 32 Abs. 2) und die Siedlungsbehörde sind
-nicht Gegner im Sinne dieser Vorschrift.
 
 
 ### § 42
 
-(1) Aus besonderen Gründen kann das Gericht anordnen, daß von der
-Erhebung von Gerichtskosten ganz oder teilweise abgesehen wird. Die
+Aus besonderen Gründen kann das Gericht anordnen, daß von der Erhebung
+von Gerichtskosten ganz oder teilweise abgesehen wird. Die
 Entscheidung kann nur gleichzeitig mit der Entscheidung in der
 Hauptsache ergehen.
 
-(2) Die in § 41 Satz 2 bezeichneten Behörden sind von der Zahlung von
-Gerichtskosten befreit.
 
+### § 43 (weggefallen)
 
-### § 43
-
-(1) Die Gerichtskosten werden erst fällig, wenn das Verfahren in dem
-Rechtszug beendet ist.
-
-(2) Gebührenvorschüsse werden nicht erhoben.
 
 
 ### § 44
@@ -705,43 +527,29 @@ Rechtszug beendet ist.
 Gericht nach billigem Ermessen zu entscheiden, wer die Kosten zu
 tragen hat und wie sie zu verteilen sind.
 
-(2) Bei einem Verfahren, das von einer in § 41 Satz 2 genannten
-Behörde eingeleitet ist oder auf ihrem Antrag oder ihrer Beschwerde
-beruht, ist nach billigem Ermessen darüber zu entscheiden, ob und
-inwieweit anderen am Verfahren Beteiligten die Kosten aufzuerlegen
-sind.
+(2) Bei einem Verfahren, das von der nach Landesrecht zuständigen
+Behörde, der Genehmigungsbehörde, der übergeordneten Behörde (§ 32
+Absatz 2) oder der Siedlungsbehörde eingeleitet ist oder auf ihrem
+Antrag oder ihrer Beschwerde beruht, ist nach billigem Ermessen
+darüber zu entscheiden, ob und inwieweit anderen am Verfahren
+Beteiligten die Kosten aufzuerlegen sind.
 
 
 ### § 45
 
-(1) Bei der Entscheidung in der Hauptsache kann das Gericht anordnen,
-daß die außergerichtlichen Kosten ganz oder teilweise von einem
+Bei der Entscheidung in der Hauptsache kann das Gericht anordnen, daß
+die außergerichtlichen Kosten ganz oder teilweise von einem
 unterliegenden Beteiligten zu erstatten sind. Dies hat dann zu
 geschehen, wenn der Beteiligte die Kosten durch ein unbegründetes
 Rechtsmittel oder durch grobes Verschulden veranlaßt hat.
 
-(2) Die Vorschriften der §§ 103 bis 107 der Zivilprozeßordnung gelten
-entsprechend.
+
+### § 46 (weggefallen)
 
 
-### § 46
 
-(weggefallen)
+### § 47 (weggefallen)
 
-
-### § 47
-
-(1) Soweit einem Beteiligten die Kosten durch gerichtliche
-Entscheidung auferlegt oder von ihm durch eine vor dem Gericht
-abgegebene oder dem Gericht mitgeteilte Erklärung übernommen sind,
-sollen die anderen Beteiligten wegen der Kosten erst in Anspruch
-genommen werden, wenn eine Zwangsvollstreckung in das bewegliche
-Vermögen des ersteren Beteiligten erfolglos geblieben ist oder
-aussichtslos erscheint.
-
-(2) Soweit Kosten einem Beteiligten, dem Gebührenfreiheit zusteht,
-auferlegt oder von einem solchen Beteiligten übernommen werden, sind
-Gerichtsgebühren nicht zu erheben und erhobene zurückzuzahlen.
 
 
 ## Dritter Abschnitt - Streitige Landwirtschaftssachen
@@ -758,16 +566,10 @@ gilt mit der Maßgabe, daß es der Unterschrift der ehrenamtlichen
 Richter nicht bedarf.
 
 (2) Die §§ 13 und 19 dieses Gesetzes sind entsprechend anzuwenden.
-Jede Entscheidung hat auf das statthafte Rechtsmittel, das Gericht,
-bei dem es einzulegen ist, dessen Sitz und die einzuhaltende Form und
-Frist hinzuweisen. Ein fehlendes Verschulden im Sinne des § 233 der
-Zivilprozessordnung wird vermutet, wenn eine Rechtsmittelbelehrung
-unterblieben oder fehlerhaft ist.
 
 
-### § 49
+### § 49 (weggefallen)
 
--
 
 
 ## Vierter Abschnitt - Zusatz-, Übergangs- und Schlußbestimmungen
@@ -791,7 +593,7 @@ Gesetzes.
 
 ### § 51
 
-(1)
+(1) (entfallen)
 
 (2) Die Länder können bestimmen, daß die Vorschriften dieses Gesetzes
 auf Verträge über die Pacht von Fischereirechten sowie in den auf
@@ -800,14 +602,12 @@ oder teilweise anzuwenden sind; sie können zusätzliche Vorschriften
 erlassen, die den Besonderheiten dieser Verfahren entsprechen.
 
 
-### § 52
-
-(weggefallen)
+### § 52 (weggefallen)
 
 
-### (XXXX) §§ 53 bis 59
 
--
+### (XXXX) §§ 53 bis 59 (weggefallen)
+
 
 
 ### § 60
@@ -816,7 +616,7 @@ erlassen, die den Besonderheiten dieser Verfahren entsprechen.
 
 (2) Folgende Vorschriften treten außer Kraft:
 
-1.  bis 7.
+1.  bis 7. (entfallen)
 
 
 8.  § 31 Abs. 2, §§ 32 bis 47, 54 der Badischen Durchführungsverordnung
@@ -831,8 +631,8 @@ erlassen, die den Besonderheiten dieser Verfahren entsprechen.
 
 
 
-10\.
-11\.
+10\. (entfallen)
+11\. (entfallen)
 
 12. § 32 Abs. 2, §§ 33 bis 50, 57 des Ersten Ausführungsgesetzes des
     Landes Württemberg-Hohenzollern zum Kontrollratsgesetz Nr. 45 vom 2.
@@ -841,7 +641,7 @@ erlassen, die den Besonderheiten dieser Verfahren entsprechen.
 
 
 
-13\. bis 16.
+13\. bis 16. (entfallen)
 
 (3) Aufgehoben werden die bisher geltenden kostenrechtlichen
 Vorschriften, soweit sie für das Verfahren der Gerichte mit

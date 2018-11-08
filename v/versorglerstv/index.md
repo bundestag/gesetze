@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1991, 2346
 
 Zuletzt geändert durch
-:   Art. 72 G v. 9.12.2004 I 3242
+:   Art. 57 Abs. 31 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel
@@ -44,7 +44,7 @@ Erstattungsbeträge.
 Erstattungsbetrag festgesetzt.
 
 (3) Für die Folgezeit werden die pauschalen Erstattungsbeträge nach
-Maßgabe des § 3 vom Bundesversicherungsamt festgesetzt.
+Maßgabe des § 3 vom Bundesamt für Soziale Sicherung festgesetzt.
 
 
 ## § 2 Pauschaler Erstattungsbetrag für das erste Halbjahr 1992
@@ -119,9 +119,10 @@ Kalenderjahr umzulegen. Jede Veränderung ist nur einmal zu
 berücksichtigen; das hierauf beruhende Ergebnis ist Grundlage der
 weiteren Fortschreibung.
 
-(2) Das Bundesversicherungsamt nimmt die Fortschreibung nach Absatz 1
-vor und setzt die pauschalen Erstattungsbeträge für die Folgezeit
-fest. Die Festsetzung erfolgt aufgrund der Veränderungen, die ihm
+(2) Das Bundesamt für Soziale Sicherung nimmt die Fortschreibung nach
+Absatz 1 vor und setzt die pauschalen Erstattungsbeträge für die
+Folgezeit fest. Die Festsetzung erfolgt aufgrund der Veränderungen,
+die ihm
 
 1.  bei der Festsetzung für das erste Halbjahr eines Kalenderjahres bis
     zum 28. oder 29. Februar des Jahres,
@@ -134,8 +135,8 @@ fest. Die Festsetzung erfolgt aufgrund der Veränderungen, die ihm
 
 bekanntgeworden sind; Veränderungen, die ihm später bekannt werden,
 sind erst bei der Festsetzung des Erstattungsbetrages für das nächste
-Halbjahr zu berücksichtigen. Das Bundesversicherungsamt kann die
-pauschalen Erstattungsbeträge auf volle 500 Euro aufrunden.
+Halbjahr zu berücksichtigen. Das Bundesamt für Soziale Sicherung kann
+die pauschalen Erstattungsbeträge auf volle 500 Euro aufrunden.
 
 
 ## § 4 Fälligkeit der pauschalen Erstattungsbeträge
@@ -144,7 +145,7 @@ pauschalen Erstattungsbeträge auf volle 500 Euro aufrunden.
 jeweils an den Auszahlungstagen der Rentenleistungen in das Inland der
 Renten für die Monate April und Oktober fällig.
 
-(2) Das Bundesversicherungsamt zahlt den auf die allgemeine
+(2) Das Bundesamt für Soziale Sicherung zahlt den auf die allgemeine
 Rentenversicherung entfallenden Erstattungsbetrag an die Deutsche
 Rentenversicherung Bund und den auf die knappschaftliche
 Rentenversicherung entfallenden Anteil an die Deutsche

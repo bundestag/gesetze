@@ -360,8 +360,9 @@ sind.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin
 
 (Fundstelle: BGBl. I 1997, 1336 - 1339)
 

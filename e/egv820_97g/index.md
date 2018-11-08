@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 22.6.2004 I 1280;
 
 Zuletzt geändert durch
-:   Art. 28 G v. 9.12.2010 I 1934
+:   Art. 105 G v. 20.11.2019 I 1626
 
 
 ## § 1 Zweck und Anwendungsbereich
@@ -40,7 +40,7 @@ sowie der auf Grund des Rindfleischetikettierungsgesetzes erlassenen
 Rechtsverordnungen geregelt ist.
 
 
-## § 2 Verarbeitung und Nutzung von Daten
+## § 2 Verarbeitung von Daten
 
 (1) Die zuständigen Behörden oder die von diesen beauftragten Stellen
 übermitteln Daten, die
@@ -67,16 +67,16 @@ können die übermittelten Daten im Rahmen ihrer Aufgabenerfüllung zu
 den in Absatz 1 genannten Zwecken verwenden.
 
 (3) Auf Anforderung dürfen der nach Landesrecht für die Gewährung der
-Entschädigung für Tierverluste nach dem Tierseuchengesetz zuständigen
-Stelle durch die zuständige Behörde oder die von ihr beauftragte
-Stelle die nach Absatz 1 Satz 1 Nr. 1 erhobenen Daten insoweit
-übermittelt werden, als dies zur Erfassung von Rinderbeständen zu
-Zwecken
+Entschädigung für Tierverluste nach dem Tiergesundheitsgesetz
+zuständigen Stelle durch die zuständige Behörde oder die von ihr
+beauftragte Stelle die nach Absatz 1 Satz 1 Nr. 1 erhobenen Daten
+insoweit übermittelt werden, als dies zur Erfassung von
+Rinderbeständen zu Zwecken
 
 1.  der Beitragserhebung,
 
 
-2.  der Gewährung von Entschädigungen nach dem Tierseuchengesetz oder
+2.  der Gewährung von Entschädigungen nach dem Tiergesundheitsgesetz oder
     einem der Verhütung oder Bekämpfung von Tierseuchen dienenden
     unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der
     Europäischen Union oder
@@ -89,14 +89,14 @@ Zwecken
 
 
 nach Maßgabe des Landesrechts erforderlich ist. Für die Zulässigkeit
-der Verarbeitung und Nutzung der Daten gilt Satz 1 entsprechend.
+der Verarbeitung der Daten gilt Satz 1 entsprechend.
 
 (4) Auf Anforderung übermittelt die zuständige Behörde oder die von
 ihr beauftragte Stelle dem Friedrich-Loeffler-Institut die nach Absatz
 1 Satz 1 Nr. 1 erhobenen Daten, soweit dies
 
-1.  zur Mitwirkung nach § 4 Abs. 2 Satz 2 Nr. 2 des Tierseuchengesetzes
-    erforderlich ist oder
+1.  zur Mitwirkung nach § 27 Absatz 3 Satz 1 Nummer 3 des
+    Tiergesundheitsgesetzes erforderlich ist oder
 
 
 2.  zur Durchführung wissenschaftlicher Forschung auf dem Gebiet der
@@ -108,8 +108,9 @@ ihr beauftragte Stelle dem Friedrich-Loeffler-Institut die nach Absatz
 
 
 
-Für die Zulässigkeit der Verwendung der Daten durch das Friedrich-
-Loeffler-Institut gilt Satz 1 entsprechend.
+Für die Zulässigkeit der Verarbeitung der Daten durch das Friedrich-
+Loeffler-Institut gilt Satz 1 entsprechend. Das Friedrich-Loeffler-
+Institut darf die Daten nicht an Dritte übermitteln.
 
 (5) Auf Anforderung übermittelt die zuständige Behörde oder die von
 ihr beauftragte Stelle den jeweils zuständigen statistischen Ämtern
@@ -125,20 +126,20 @@ Grundgesamtheit nach § 97a des Agrarstatistikgesetzes.
 ihr beauftragte Stelle den jeweils für Tierzucht zuständigen Behörden
 der Länder die nach Absatz 1 Satz 1 Nr. 1 erhobenen Daten, auch in
 verarbeiteter Form, zur Durchführung des Monitoring über die
-genetische Vielfalt nach § 9 des Tierzuchtgesetzes.
+genetische Vielfalt nach § 10 des Tierzuchtgesetzes.
 
 (7) Auf Anforderung einer tierzuchtrechtlich anerkannten
 Zuchtorganisation übermittelt die zuständige Behörde oder die von ihr
 beauftragte Stelle der Zuchtorganisation die nach Absatz 1 Satz 1 Nr.
 1 erhobenen Daten, auch in verarbeiteter Form, zum Zwecke der
-Zuchtbuchführung, Leistungsprüfungen und Zuchtwertschätzung nach § 7
-Abs. 3 des Tierzuchtgesetzes, soweit die Zuchtorganisation nachweisen
-kann, dass der Tierhalter seine Einwilligung zur Übermittlung
-entsprechender Daten schriftlich erklärt hat. Im Falle des § 8 Abs. 3
-Satz 1 Nr. 1 des Tierzuchtgesetzes gilt Satz 1 entsprechend für die
-Anforderung einer für die Durchführung der tierzuchtrechtlichen
-Leistungsprüfungen und Zuchtwertschätzung zuständigen Behörde oder der
-von ihr beauftragten Stelle.
+Zuchtbuchführung, Leistungsprüfungen und Zuchtwertschätzung nach § 8
+Absatz 2 des Tierzuchtgesetzes, soweit die Zuchtorganisation
+nachweisen kann, dass der Tierhalter seine Einwilligung zur
+Übermittlung entsprechender Daten schriftlich erklärt hat. Im Falle
+des § 9 Absatz 2 Satz 1 Nummer 1 des Tierzuchtgesetzes gilt Satz 1
+entsprechend für die Anforderung einer für die Durchführung der
+tierzuchtrechtlichen Leistungsprüfungen und Zuchtwertschätzung
+zuständigen Behörde oder der von ihr beauftragten Stelle.
 
 
 ## § 3 Auskunft an den Tierhalter
@@ -196,7 +197,13 @@ Auskunft erteilt über
 soweit diese Daten gespeichert sind.
 
 (3) Die Auskunftserteilung kann durch Abruf im automatisierten
-Verfahren erfolgen.
+Verfahren erfolgen. Artikel 15 der Verordnung (EU) 2016/679 des
+Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
+freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
+(Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314
+vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
+geltenden Fassung bleibt unberührt.
 
 
 ## § 4 Aufbewahrung und Löschung von Daten
@@ -213,15 +220,18 @@ Aufbewahrungsfrist besteht, bleiben unberührt.
 
 ## § 5 Technische und organisatorische Maßnahmen
 
-Hinsichtlich der technischen und organisatorischen Maßnahmen finden
-die §§ 9 und 10 Abs. 4 Satz 3 des Bundesdatenschutzgesetzes Anwendung.
+(1) Hinsichtlich der technischen und organisatorischen Maßnahmen sind
+die Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu beachten.
+
+(2) Die speichernde Stelle hat zu gewährleisten, dass die Übermittlung
+personenbezogener Daten durch geeignete Stichprobenverfahren
+festgestellt und überprüft werden kann.
 
 
 ## § 6 Ermächtigung zum Erlass von Rechtsverordnungen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Verfahren der Datenverarbeitung und
-Datennutzung zu regeln, soweit dies für die Durchführung dieses
-Gesetzes erforderlich ist.
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Verfahren der Datenverarbeitung und Datennutzung zu regeln, soweit
+dies für die Durchführung dieses Gesetzes erforderlich ist.
 

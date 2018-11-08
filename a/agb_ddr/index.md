@@ -433,8 +433,9 @@ Wochenurlaub zu gewähren.
 **Der Vorsitzende des Staatsrates der Deutschen Demokratischen
 Republik**
 
+Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
+### Anhang EV (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
 
 - Kapitel VIII Sachgebiet A Abschnitt II (BGBl. II 1990, 1207) -
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

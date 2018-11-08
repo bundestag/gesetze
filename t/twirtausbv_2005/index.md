@@ -1455,8 +1455,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 
 
 *    *   (Fundstelle: BGBl. I 2005, 1434 - 1443)

@@ -2,7 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Hörgeräteakustiker/zur Hörgeräteakustikerin
 jurabk: HörgAkAusbV 1997
 layout: default
-origslug: h_rgakausbv_1997
+origslug: hoergakausbv_1997
 slug: hoergakausbv_1997
 
 ---

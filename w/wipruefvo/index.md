@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Geschäftsführung der Prüfungsstellen und der Beschwerdeausschüsse
-  nach § 106 Abs. 4a des Fünften Buches Sozialgesetzbuch
+  nach § 106c des Fünften Buches Sozialgesetzbuch
 jurabk: WiPrüfVO
 layout: default
 origslug: wipr_fvo
@@ -8,7 +8,7 @@ slug: wipruefvo
 
 ---
 
-# Verordnung zur Geschäftsführung der Prüfungsstellen und der Beschwerdeausschüsse nach § 106 Abs. 4a des Fünften Buches Sozialgesetzbuch (WiPrüfVO)
+# Verordnung zur Geschäftsführung der Prüfungsstellen und der Beschwerdeausschüsse nach § 106c des Fünften Buches Sozialgesetzbuch (WiPrüfVO)
 
 Ausfertigungsdatum
 :   2004-01-05
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 29
 
-Geändert durch
-:   Art. 25 u. 25a G v. 26.3.2007 I 378
+Zuletzt geändert durch
+:   Art. 19 G v. 16.7.2015 I 1211
 
 
 ## Eingangsformel
@@ -128,8 +128,8 @@ Stellvertreter.
 (2) Der Vorsitzende und seine Stellvertreter können aus wichtigem
 Grund jeweils von der Aufsichtsbehörde oder von den in § 2 Abs. 3 Satz
 3 genannten Vertragspartnern durch übereinstimmenden Beschluss
-abberufen werden. Im Falle des § 106 Abs. 4 Satz 6 des Fünften Buches
-Sozialgesetzbuch darf ausschließlich die Aufsichtsbehörde den
+abberufen werden. Im Falle des § 106c Absatz 1 Satz 6 des Fünften
+Buches Sozialgesetzbuch darf ausschließlich die Aufsichtsbehörde den
 Vorsitzenden und seine Stellvertreter abberufen; die in § 2 Abs. 3
 Satz 3 genannten Vertragspartner sind vor der Abberufung zu hören.
 
@@ -170,7 +170,7 @@ Sozialgesetzbuch ergebenden Aufgaben insbesondere
     Absatz 4 vorzubereiten,
 
 
-8.  für jedes Kalenderjahr für Zwecke des § 106 Abs. 7 Satz 2 und 3 des
+8.  für jedes Kalenderjahr für Zwecke des § 106c Absatz 5 Satz 2 und 3 des
     Fünften Buches Sozialgesetzbuch einen Bericht über die Anzahl der
     eröffneten und abgeschlossenen Beratungen, Prüfungen sowie der
     festgesetzten Maßnahmen zu erstellen. Dieser Bericht ist bis zum 15.

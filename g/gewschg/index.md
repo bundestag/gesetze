@@ -15,16 +15,26 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3513
 
+Zuletzt geändert durch
+:   Art. 15 Abs. 18 G v. 4.5.2021 I 882
+
+Änderung durch
+:   Art. 19 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 10.8.2021 I 3513 (Nr. 53) ist berücksichtigt
+
 
 
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
 
-(1) Hat eine Person vorsätzlich den Körper, die Gesundheit oder die
-Freiheit einer anderen Person widerrechtlich verletzt, hat das Gericht
-auf Antrag der verletzten Person die zur Abwendung weiterer
-Verletzungen erforderlichen Maßnahmen zu treffen. Die Anordnungen
-sollen befristet werden; die Frist kann verlängert werden. Das Gericht
-kann insbesondere anordnen, dass der Täter es unterlässt,
+(1) Hat eine Person vorsätzlich den Körper, die Gesundheit, die
+Freiheit oder die sexuelle Selbstbestimmung einer anderen Person
+widerrechtlich verletzt, hat das Gericht auf Antrag der verletzten
+Person die zur Abwendung weiterer Verletzungen erforderlichen
+Maßnahmen zu treffen. Die Anordnungen sollen befristet werden; die
+Frist kann verlängert werden. Das Gericht kann insbesondere anordnen,
+dass der Täter es unterlässt,
 
 1.  die Wohnung der verletzten Person zu betreten,
 
@@ -51,8 +61,8 @@ ist.
 (2) Absatz 1 gilt entsprechend, wenn
 
 1.  eine Person einer anderen mit einer Verletzung des Lebens, des
-    Körpers, der Gesundheit oder der Freiheit widerrechtlich gedroht hat
-    oder
+    Körpers, der Gesundheit, der Freiheit oder der sexuellen
+    Selbstbestimmung widerrechtlich gedroht hat oder
 
 
 2.  eine Person widerrechtlich und vorsätzlich
@@ -156,8 +166,21 @@ Gesetz nicht berührt.
 
 ## § 4 Strafvorschriften
 
-Wer einer bestimmten vollstreckbaren Anordnung nach § 1 Abs. 1 Satz 1
-oder 3, jeweils auch in Verbindung mit Abs. 2 Satz 1, zuwiderhandelt,
-wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
-bestraft. Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
+Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
+bestraft, wer einer bestimmten vollstreckbaren
+
+1.  Anordnung nach § 1 Absatz 1 Satz 1 oder 3, jeweils auch in Verbindung
+    mit Absatz 2 Satz 1, zuwiderhandelt oder
+
+
+2.  Verpflichtung aus einem Vergleich zuwiderhandelt, soweit der Vergleich
+    nach § 214a Satz 1 des Gesetzes über das Verfahren in Familiensachen
+    und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in
+    Verbindung mit § 1 Absatz 1 Satz 1 oder 3 dieses Gesetzes, jeweils
+    auch in Verbindung mit § 1 Absatz 2 Satz 1 dieses Gesetzes, bestätigt
+    worden ist.
+
+
+
+Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
 

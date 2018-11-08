@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2722
 
+Zuletzt geändert durch
+:   Art. 44 V v. 19.6.2020 I 1328
+
 
 
 ## § 1 Grundsatz
@@ -158,9 +161,15 @@ Verfahrens informiert werden.
 (1) Zugang zu personenbezogenen Daten darf nur gewährt werden, soweit
 das Informationsinteresse des Antragstellers das schutzwürdige
 Interesse des Dritten am Ausschluss des Informationszugangs überwiegt
-oder der Dritte eingewilligt hat. Besondere Arten personenbezogener
-Daten im Sinne des § 3 Abs. 9 des Bundesdatenschutzgesetzes dürfen nur
-übermittelt werden, wenn der Dritte ausdrücklich eingewilligt hat.
+oder der Dritte eingewilligt hat. Besondere Kategorien
+personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2) in der jeweils geltenden Fassung dürfen nur übermittelt werden,
+wenn der Dritte ausdrücklich eingewilligt hat.
 
 (2) Das Informationsinteresse des Antragstellers überwiegt nicht bei
 Informationen aus Unterlagen, soweit sie mit dem Dienst- oder
@@ -263,18 +272,19 @@ Bundesbehörde getroffen wurde.
 
 ## § 10 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach diesem Gesetz werden Gebühren und Auslagen
-erhoben. Dies gilt nicht für die Erteilung einfacher Auskünfte.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz werden Gebühren und Auslagen erhoben. Dies gilt nicht für die
+Erteilung einfacher Auskünfte.
 
 (2) Die Gebühren sind auch unter Berücksichtigung des
 Verwaltungsaufwandes so zu bemessen, dass der Informationszugang nach
 § 1 wirksam in Anspruch genommen werden kann.
 
-(3) Das Bundesministerium des Innern wird ermächtigt, für
-Amtshandlungen nach diesem Gesetz die Gebührentatbestände und
-Gebührensätze durch Rechtsverordnung ohne Zustimmung des Bundesrates
-zu bestimmen. § 15 Abs. 2 des Verwaltungskostengesetzes findet keine
-Anwendung.
+(3) Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, für individuell zurechenbare öffentliche Leistungen nach
+diesem Gesetz die Gebührentatbestände und Gebührensätze durch
+Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen. § 10
+des Bundesgebührengesetzes findet keine Anwendung.
 
 
 ## § 11 Veröffentlichungspflichten
@@ -299,11 +309,12 @@ als verletzt ansieht.
 (2) Die Aufgabe des Bundesbeauftragten für die Informationsfreiheit
 wird von dem Bundesbeauftragten für den Datenschutz wahrgenommen.
 
-(3) Die Bestimmungen des Bundesdatenschutzgesetzes über die
-Kontrollaufgaben des Bundesbeauftragten für den Datenschutz (§ 24 Abs.
-1 und 3 bis 5), über Beanstandungen (§ 25 Abs. 1 Satz 1 Nr. 1 und 4,
-Satz 2 und Abs. 2 und 3) sowie über weitere Aufgaben gemäß § 26 Abs. 1
-bis 3 gelten entsprechend.
+(3) Die Bestimmungen des Bundesdatenschutzgesetzes in der am 24. Mai
+2018 geltenden Fassung über die Kontrollaufgaben des
+Bundesbeauftragten für den Datenschutz (§ 24 Abs. 1 und 3 bis 5), über
+Beanstandungen (§ 25 Abs. 1 Satz 1 Nr. 1 und 4, Satz 2 und Abs. 2 und
+3) sowie über weitere Aufgaben gemäß § 26 Abs. 1 bis 3 gelten
+entsprechend.
 
 
 ## § 13

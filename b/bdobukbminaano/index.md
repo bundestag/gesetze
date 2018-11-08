@@ -50,7 +50,7 @@ vor, im Einzelfall die Befugnisse der Einleitungsbehörde an sich zu
 ziehen.
 
 
-## § 2 *Ku Bundesversicherungsanstalt für Angestellte, Landesversicherungsanstalt Oldenburg-Bremen, Bundesknappschaft *KE
+## § 2 \*Ku Bundesversicherungsanstalt für Angestellte, Landesversicherungsanstalt Oldenburg-Bremen, Bundesknappschaft \*KE
 
 (1) Einleitungsbehörde im Sinne der Bundesdisziplinarordnung ist für
 die Beamten der Bundesversicherungsanstalt für Angestellte, der

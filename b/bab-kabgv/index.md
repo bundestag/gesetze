@@ -118,8 +118,9 @@ sinngemäß anzuwenden.
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendervierteljahres in Kraft.
 
+(zu § 2 Abs. 3)
 
-## Anlage (zu § 2 Abs. 3) Konzessionsabgabe
+## Anlage Konzessionsabgabe
 
 (Fundstelle: BGBl. I 2001, 3764)
 **Meldung für das .. Kalendervierteljahr 20../für das Jahr 20.. \*)**

@@ -387,8 +387,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
+(zu § 4)
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1999, S. 1032 - 1035)
 
@@ -979,8 +980,9 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 
 
+(zu § 4)
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1999, S. 1036 - 1037)
 

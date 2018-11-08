@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 233
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.4.2012 I 579
+:   Art. 87 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel
@@ -94,13 +94,14 @@ Erzeugung (ABl. EG Nr. L 106 S. 28) erhält.
 (1) Eine Fläche gilt als stillgelegt, wenn
 
 1.  die landwirtschaftliche Nutzung ruht und eine Abgabe im Sinne des § 21
-    Abs. 1, 2 und 8 des Gesetzes über die Alterssicherung der Landwirte
-    nicht vorliegt; Maßnahmen zur umweltgerechten Pflege der stillgelegten
-    Fläche sind zulässig,
+    Abs. 1, 2 und 8 des Gesetzes über die Alterssicherung der Landwirte in
+    der bis zum 8. August 2018 geltenden Fassung nicht vorliegt; Maßnahmen
+    zur umweltgerechten Pflege der stillgelegten Fläche sind zulässig,
 
 
 2.  sie erstmals unter den Voraussetzungen des § 21 Abs. 5 des Gesetzes
-    über die Alterssicherung der Landwirte aufgeforstet wird.
+    über die Alterssicherung der Landwirte in der bis zum 8. August 2018
+    geltenden Fassung aufgeforstet wird.
 
 
 
@@ -125,12 +126,12 @@ Erstaufforstung steht hinsichtlich der Mindeststillegungsdauer der
 Stillegung nach diesem Gesetz gleich.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz Näheres über die Voraussetzungen, unter denen eine
-Fläche als stillgelegt gilt, insbesondere auch über zulässige
-Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates
-bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der
-Landschaftspflege und der Raumordnung zu beachten.
+mit dem Bundesministerium für Ernährung und Landwirtschaft Näheres
+über die Voraussetzungen, unter denen eine Fläche als stillgelegt
+gilt, insbesondere auch über zulässige Pflegemaßnahmen durch
+Rechtsverordnung mit Zustimmung des Bundesrates bestimmen. Dabei sind
+die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und
+der Raumordnung zu beachten.
 
 
 ### § 3 Abgabe von Flächen
@@ -233,15 +234,15 @@ schriftlich widerspricht.
 ### § 4 Rückbehalt
 
 Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der
-Landwirte nicht abgegebenen Fläche dürfen land- und
-forstwirtschaftliche Erzeugnisse für den Markt nicht produziert
-werden. § 51 Abs. 2 des Bewertungsgesetzes findet keine Anwendung.
-Eine Produktion gilt insbesondere als für den Markt erfolgt, wenn der
-Wert der für den Eigenverbrauch erzeugten land- und
-forstwirtschaftlichen Produkte ein Siebtel der Bezugsgröße (§ 18 des
-Vierten Buches Sozialgesetzbuch) übersteigt. Forstwirtschaftliche
-Erzeugnisse, die durch notwendige Pflegemaßnahmen anfallen, bleiben
-unberücksichtigt.
+Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht
+abgegebenen Fläche dürfen land- und forstwirtschaftliche Erzeugnisse
+für den Markt nicht produziert werden. § 51 Abs. 2 des
+Bewertungsgesetzes findet keine Anwendung. Eine Produktion gilt
+insbesondere als für den Markt erfolgt, wenn der Wert der für den
+Eigenverbrauch erzeugten land- und forstwirtschaftlichen Produkte ein
+Siebtel der Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch)
+übersteigt. Forstwirtschaftliche Erzeugnisse, die durch notwendige
+Pflegemaßnahmen anfallen, bleiben unberücksichtigt.
 
 
 ### § 5 Leistungen an Hinterbliebene
@@ -346,22 +347,23 @@ Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn,
 Renten, über Leistungen an Berechtigte im Ausland, über Beginn und
 Abschluß des Verfahrens, über Auszahlung und Anpassung und über
 Berechnungsgrundsätze gelten entsprechend. § 30 Abs. 2 des Gesetzes
-über die Alterssicherung der Landwirte gilt auch in den Fällen
-entsprechend, in denen ein Leistungsberechtigter auf der nach § 21
-Abs. 7 des Gesetzes über die Alterssicherung der Landwirte nicht
-abgegebenen Fläche landwirtschaftliche Erzeugnisse für den Markt
-produziert. Werden Verträge über die Abgabe landwirtschaftlich
-genutzter Flächen vor Ablauf der Mindestdauer (§ 3 Abs. 1 Satz 1) oder
-wird die Stillegung einer Fläche vor Ablauf der Mindestdauer (§ 2 Abs.
-3) beendet, ruht der Anspruch auf Produktionsaufgaberente vom Beginn
-des dritten auf die Beendigung der Verträge oder der Stillegung
-folgenden Monats an. Die Leistung wird vom Beginn des Monats an wieder
-erbracht, in dem Verpflichtungen wirksam werden, die eine Verwendung
-der Flächen nach den §§ 2 und 3 für die jeweilige Mindestdauer
-sicherstellen; die aufgrund der vorzeitig beendeten Verträge
-zurückgelegte Zeit wird auf die Mindestabgabedauer und die Zeit der
-bisherigen Stillegung wird auf die Mindeststillegungsdauer
-angerechnet.
+über die Alterssicherung der Landwirte in der bis zum 8. August 2018
+geltenden Fassung gilt auch in den Fällen entsprechend, in denen ein
+Leistungsberechtigter auf der nach § 21 Abs. 7 des Gesetzes über die
+Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden
+Fassung nicht abgegebenen Fläche landwirtschaftliche Erzeugnisse für
+den Markt produziert. Werden Verträge über die Abgabe
+landwirtschaftlich genutzter Flächen vor Ablauf der Mindestdauer (§ 3
+Abs. 1 Satz 1) oder wird die Stillegung einer Fläche vor Ablauf der
+Mindestdauer (§ 2 Abs. 3) beendet, ruht der Anspruch auf
+Produktionsaufgaberente vom Beginn des dritten auf die Beendigung der
+Verträge oder der Stillegung folgenden Monats an. Die Leistung wird
+vom Beginn des Monats an wieder erbracht, in dem Verpflichtungen
+wirksam werden, die eine Verwendung der Flächen nach den §§ 2 und 3
+für die jeweilige Mindestdauer sicherstellen; die aufgrund der
+vorzeitig beendeten Verträge zurückgelegte Zeit wird auf die
+Mindestabgabedauer und die Zeit der bisherigen Stillegung wird auf die
+Mindeststillegungsdauer angerechnet.
 
 (2) Der Anspruch auf Produktionsaufgaberente ruht ferner mit Ablauf
 des Kalendermonats, in dem
@@ -373,7 +375,8 @@ des Kalendermonats, in dem
 
     b)  land- oder forstwirtschaftliche Erzeugnisse auf einer anderen als der
         nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte
-        nicht abgegebenen Fläche für den Leistungsempfänger
+        in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen
+        Fläche für den Leistungsempfänger
 
 
 
@@ -917,8 +920,8 @@ endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 Dieses Gesetz wird von der landwirtschaftlichen Alterskasse
 durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den
 Weisungen des Bundesministeriums für Arbeit und Soziales, die im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz erteilt werden.
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft erteilt werden.
 
 
 ### § 18 Anwendung sonstiger Vorschriften
@@ -949,16 +952,16 @@ des Ersten Abschnittes betreten und dort Prüfungs- und
 Vorliegens der Voraussetzungen einer Maßnahme nach § 2 notwendig ist.
 
 (3) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates Näheres über die Zusammenarbeit der durchführenden Stellen
-mit den zuständigen Behörden der Länder zur Sicherstellung der
-Durchführung dieses Gesetzes, insbesondere bei der Überprüfung des
-Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche
-Fläche als stillgelegt oder abgegeben gilt, bestimmen. Dabei kann die
-Überprüfung des Vorliegens der Voraussetzungen, unter denen eine
-landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt,
-unmittelbar den zuständigen Behörden der Länder übertragen werden.
+mit dem Bundesministerium für Ernährung und Landwirtschaft durch
+Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die
+Zusammenarbeit der durchführenden Stellen mit den zuständigen Behörden
+der Länder zur Sicherstellung der Durchführung dieses Gesetzes,
+insbesondere bei der Überprüfung des Vorliegens der Voraussetzungen,
+unter denen eine landwirtschaftliche Fläche als stillgelegt oder
+abgegeben gilt, bestimmen. Dabei kann die Überprüfung des Vorliegens
+der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als
+stillgelegt oder abgegeben gilt, unmittelbar den zuständigen Behörden
+der Länder übertragen werden.
 
 (4) Streitigkeiten in Angelegenheiten dieses Gesetzes sind
 Streitigkeiten in Angelegenheiten der Sozialversicherung.

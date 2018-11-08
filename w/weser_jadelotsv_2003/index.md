@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: 2003, Nr 41, 3703 (21401)
 
 Zuletzt geändert durch
-:   Art 1 V v. 12.8.2010 BAnz. Nr. 129, 2951
+:   Art. 74 § 5 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -77,11 +77,10 @@ und Breite im Verhältnis 1:10 interpoliert werden. Dabei entsprechen
 m mehr Breite. Die in der jeweiligen Vorschrift genannten maximalen
 Obergrenzen dürfen nach dem Interpolieren nicht überschritten werden.
 Längen sind auf ganze Meter und Breiten auf ganze Dezimeter bis
-ausschließlich 0,5 abzurunden und ab 0,5 aufzurunden. Bei
+ausschließlich 0,5 abzurunden und ab 0,5 aufzurunden. Als Breite gilt
+die größte Breite einschließlich etwaiger Ladungsüberhänge. Bei
 Schleppverbänden ist die Summe der Längen von Schlepper und Anhang
-ohne Berücksichtigung der Länge der Schleppleine maßgeblich, als
-Breite gilt die größte Breite des Schleppverbandes einschließlich
-etwaiger Ladungsüberhänge.
+ohne Berücksichtigung der Länge der Schleppleine maßgeblich.
 
 (9) Landradarberatung ist die Beratung eines Schiffes durch Lotsen von
 einer Verkehrszentrale aus.
@@ -92,13 +91,18 @@ Hinsichtlich der Abmessungen ist eine Vergleichbarkeit gegeben, wenn
 die Abmessungen geringer sind oder die Länge nach oben nicht mehr als
 5 m und die Breite nach oben nicht mehr als 0,5 m differieren.
 
-(11) Lotsenversetzpositionen im Verkehrstrennungsgebiet "Jade
-Approach" sind die Positionen einkommend 5 Seemeilen nördlich der TG
-"18", ausgehend nach Kreuzung des Verkehrstrennungsgebietes
-"Terschelling-German-Bight".
+(11) Lotsenversetzposition in der Weser- und Jademündung ist im
+Bereich der Position 53° 52,8’ Nord und 007° 46,5’ Ost.
+Lotsenversetzpositionen im Verkehrstrennungsgebiet „Jade Approach“
+sind einkommend im Bereich der Positionen 54° 07’ Nord und 007° 28,5’
+Ost oder ausgehend nach Kreuzung des Verkehrstrennungsgebietes
+„Terschelling-German Bight“. Lotsenversetzpositionen im
+Verkehrstrennungsgebiet „Terschelling-German Bight“ sind einlaufend im
+Bereich der Position 53° 53’ Nord und 007° 25’ Ost oder auslaufend im
+Bereich der Position 53° 59’ Nord und 007° 30’ Ost.
 
 (12) Schifffahrtspolizeibehörde im Sinne dieser Verordnung ist das
-jeweils zuständige Wasser- und Schifffahrtsamt.
+jeweils zuständige Wasserstraßen- und Schifffahrtsamt.
 
 
 ## § 2 Seelotsreviere, Lotsbezirke, Lotsenbrüderschaften
@@ -164,7 +168,11 @@ binnenwärts der Lotsenversetzpositionen im Verkehrstrennungsgebiet
 auslaufend Seelotsen nur auf diesen Lotsenversetzpositionen übernehmen
 oder abgeben. Ist dieses im Ausnahmefall nicht möglich, kann der
 Führer des Schiffes mit der Lotsenstation die Übernahme oder Abgabe
-auf einer anderen Position vereinbaren.
+auf einer anderen Position vereinbaren. Ein Ausnahmefall liegt
+insbesondere vor, wenn der Führer eines Schiffes nicht durch das
+Verkehrstrennungsgebiet „Jade Approach“ einläuft oder ausläuft und
+eine Lotsenversetzung im Bereich der Lotsenversetzpositionen im
+Verkehrstrennungsgebiet „Terschelling-German Bight“ zweckmäßiger ist.
 
 (2) Liegt das Lotsenschiff auf der Schlechtwetterposition auf der
 Weser im Gebiet zwischen den Leuchttonnen 17/H Reede und 19/H Reede,
@@ -205,6 +213,15 @@ anfordern.
     Übernahmemöglichkeit durch Lotsenversetzschiff oder Hubschrauber.
 
 
+7.  Bestimmungshafen,
+
+
+8.  Letzter Abgangshafen,
+
+
+9.  Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie.
+
+
 
 
 (3) Zeit und Empfänger der Lotsenanforderung bestimmen sich nach der
@@ -218,7 +235,8 @@ Lotsengeschirr gemäß Kapitel V Regel 23 SOLAS auszubringen. Sie hat
 für eine ausreichende Überwachung des Lotsengeschirrs, für
 Hilfestellung beim Anbordkommen und Vonbordgehen und für die
 Sicherheit des Seelotsen auf dem Weg zwischen Lotsengeschirr und der
-Brücke des Schiffes zu sorgen.
+Brücke des Schiffes sowie für geeignete UKW-Hörbereitschaft zum
+Versetzfahrzeug während des Versetzmanövers zu sorgen.
 
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
@@ -237,9 +255,8 @@ verpflichtet,
 
 2.  auf den Fahrtstrecken zwischen der Position des Lotsenschiffes und
     Bremerhaven (Geestemündung) sowie Wilhelmshaven, mit Ausnahme der Neue
-    Weser N-Reede, Neue Weser S-Reede und der Wilhelmshaven-Reede, mit
-    Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder
-    einem Tiefgang ab 8 m,
+    Weser N-Reede, , mit Seeschiffen mit einer Länge ab 90 m oder einer
+    Breite ab 13 m oder einem Tiefgang ab 8 m,
 
 
 3.  auf den Fahrtstrecken zwischen den Lotsenversetzpositionen im Bereich
@@ -269,8 +286,8 @@ verpflichtet,
 verpflichtet,
 
 1.  auf den Fahrtstrecken binnenwärts der Position des Lotsenschiffes, mit
-    Ausnahme der Neue Weser N-Reede, Neue Weser S-Reede und der Blexen-
-    Reede, mit allen Tankschiffen,
+    Ausnahme der Neue Weser N-Reede, und der Blexen-Reede, mit allen
+    Tankschiffen,
 
 
 2.  auf den Fahrtstrecken zwischen den Lotsenversetzpositionen im
@@ -563,10 +580,10 @@ die Gültigkeitsdauer und den Umfang der Befreiung.
 
 (6) Die Befreiung kann auf Antrag von der Schifffahrtspolizeibehörde
 um jeweils 12 Monate verlängert werden, wenn der Schiffsführer in den
-vorangegangenen 12 Monaten mit einem Schiff nach Absatz 1 Nr. 1 die
-Fahrtstrecke mindestens sechsmal oder mit demselben Schiff nach Abs. 1
-Nr. 2 Buchstabe a mindestens zwölfmal oder mit demselben Schiff nach
-Absatz 1 Nr. 2 Buchstabe b mindestens sechzehnmal befahren hat.
+vorangegangenen 12 Monaten mit einem Schiff nach Absatz 1 Nummer 1
+oder Absatz 1 Nummer 2 Buchstabe a die Fahrtstrecke mindestens
+sechsmal oder mit demselben Schiff nach Absatz 1 Nummer 2 Buchstabe b
+mindestens zwölf mal befahren hat.
 
 (7) Die Befreiung für den Führer eines See- oder Binnentankschiffes
 nach Absatz 1 kann auf Antrag bei der Schifffahrtspolizeibehörde auf
@@ -761,14 +778,10 @@ und des Seelotsreviers Weser II/Jade nach seiner ersten Bestallung
 grundsätzlich unbeschränkt befugt. In den Fällen des § 13 Abs. 2 kann
 im Seelotsrevier Weser I die Landradarberatung nur von einem Seelotsen
 erteilt werden, der nicht mehr den Beschränkungen des Absatzes 1
-unterliegt. Im Lotsbezirk 1 des Seelotsreviers Weser II/Jade kann in
-den Fällen des § 13 Abs. 2 die Landradarberatung nur von einem
-Seelotsen erteilt werden, der innerhalb der Beschränkungen des
-Absatzes 1, Schiffe der Größen ab dem siebten halben Jahr lotsen darf.
-Im Lotsbezirk 2 des Seelotsreviers Weser II/Jade kann in den Fällen
-des § 13 Abs. 2 die Landradarberatung nur von einem Lotsen erteilt
-werden, der die jeweilige größenbeschränkende Voraussetzung des
-Absatzes 1 erfüllt.
+unterliegt. Im Seelotsrevier Weser II/Jade kann in den Fällen des § 13
+Absatz 2 die Landradarberatung nur von einem Seelotsen erteilt werden,
+der innerhalb der Beschränkungen des Absatzes 1 Schiffe der Größe ab
+dem siebten halben Jahr lotsen darf.
 
 (4) Nach Ablauf des zweiten halben Jahres darf ein Seelotse einen
 anderen für die Lotsung verantwortlichen Seelotsen an Bord des
@@ -845,8 +858,9 @@ handelt, wer vorsätzlich oder fahrlässig
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
+(zu § 5 Abs. 3)
 
-## Anlage 1 (zu § 5 Abs. 3) Ort und Anmeldung für die Lotsenanforderung
+## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
 
 Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3705 u. BAnz 2008,
 Nr. 64, 1513
@@ -947,7 +961,7 @@ Nr. 64, 1513
     erfolgen.
 
 
-\*\*) Aus dem Seelotsrevier Weser I kommende Schiffe sollen die vorher
+*\*) Aus dem Seelotsrevier Weser I kommende Schiffe sollen die vorher
     angezeigte Lotsenanforderung beim Passieren der Tonne 80 (Pegel
     Rechtenfleth) über UKW-Sprechfunk (Kanal 21) über Bremerhaven-Weser-
     Traffic bestätigen.

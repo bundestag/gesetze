@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1002
 
+Änderung durch
+:   Art. 1 G v. 9.12.2020 I 2873 (Nr. 61) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Anwendungsbereich
@@ -60,16 +63,16 @@ Landesrecht zuständigen Behörden übermittelten Informationen ein:
     Nummer 1, 2 oder 4 in das Register eingestellt werden,
 
 
-4.  die Angaben nach § 5 Abs. 5 sowie
-
-
-5.  über die Freisetzungen von Schadstoffen aus diffusen Quellen, die in
+4.  über die Freisetzungen von Schadstoffen aus diffusen Quellen, die in
     angemessener räumlicher Detaillierung bei den zuständigen Bundes- und
     Landesbehörden vorhanden sind und deren Aufnahme in das Register
     praktikabel ist.
 
 
 
+§ 5 Absatz 2 bis 4 bleibt unberührt. Das Umweltbundesamt gibt in dem
+Register an, welche Art von Information aus welchem Grund nach § 5
+Absatz 2 und 3 nicht in das Register eingestellt wurde.
 
 (3) Das Umweltbundesamt stellt Informationen in zusammengefasster und
 nicht zusammengefasster Form in das Register ein, so dass
@@ -111,14 +114,14 @@ Merkmalen gesucht werden können, insbesondere nach
 
 
 
-(4) Das Umweltbundesamt stellt die in Absatz 2 Nr. 1 bis 4 genannten
-Informationen jährlich und zwar spätestens 15 Monate nach Ende eines
-jeden Kalenderjahres, für das Informationen über die Freisetzung von
-Schadstoffen und die Verbringung außerhalb des Standortes von Abfällen
-und von Schadstoffen in Abwasser erfasst werden (Berichtsjahr), in das
-Register ein. Zehn Jahre nach der erstmaligen Einstellung der
-Informationen in das Register kann das Umweltbundesamt ihre Löschung
-vornehmen.
+(4) Das Umweltbundesamt stellt die in Absatz 2 Satz 1 Nummer 1 bis 4
+genannten Informationen jährlich und zwar spätestens 13 Monate nach
+Ende eines jeden Kalenderjahres, für das Informationen über die
+Freisetzung von Schadstoffen und die Verbringung außerhalb des
+Standortes von Abfällen und von Schadstoffen in Abwasser erfasst
+werden (Berichtsjahr), in das Register ein. Zehn Jahre nach der
+erstmaligen Einstellung der Informationen in das Register kann das
+Umweltbundesamt ihre Löschung vornehmen.
 
 
 ## § 3 Erhebung der Informationen
@@ -126,19 +129,25 @@ vornehmen.
 (1) Der Betreiber übermittelt die in Artikel 5 der Verordnung (EG) Nr.
 166/2006 genannten Informationen unter Angabe seines Namens sowie des
 Namens des Eigentümers der Betriebseinrichtung (Bericht) zum ersten
-Mal für das Jahr 2007 in elektronischer Form und nach Anhang III der
-Verordnung (EG) Nr. 166/2006 an die nach Landesrecht zuständige
-Behörde. Die nach Landesrecht zuständige Behörde kann vorschreiben,
-dass der Betreiber das von ihr festgelegte Format der elektronischen
-Form zu benutzen hat.
+Mal für das Jahr 2019 elektronisch und nach dem Anhang zum
+Durchführungsbeschluss (EU) 2019/1714 der Kommission vom 23. September
+2019 zur Festlegung, in welcher Form und mit welcher Häufigkeit die
+Mitgliedstaaten Daten für die Berichterstattung gemäß der Verordnung
+(EG) Nr. 166/2006 des Europäischen Parlaments und des Rates über die
+Schaffung eines Europäischen Schadstofffreisetzungs- und
+-verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und
+96/61/EG des Rates zu übermitteln haben (ABl. L 267 vom 21.10.2019, S.
+3) an die nach Landesrecht zuständige Behörde. Die nach Landesrecht
+zuständige Behörde kann vorschreiben, dass der Betreiber das von ihr
+festgelegte elektronische Format zu benutzen hat.
 
-(2) Der Bericht ist bis zum 31. Mai des dem jeweiligen Berichtsjahr
+(2) Der Bericht ist bis zum 30. April des dem jeweiligen Berichtsjahr
 folgenden Jahres abzugeben. Die nach Landesrecht zuständige Behörde
-kann im Einzelfall auf Antrag des Betreibers die Frist bis zum 30.
-Juni des dem jeweiligen Berichtsjahr folgenden Jahres verlängern, wenn
-die spätere Abgabe die rechtzeitige Weiterleitung des Berichts an die
+kann im Einzelfall auf Antrag des Betreibers die Frist bis zum 31. Mai
+des dem jeweiligen Berichtsjahr folgenden Jahres verlängern, wenn die
+spätere Abgabe die rechtzeitige Weiterleitung des Berichts an die
 Europäische Kommission nicht erschwert. Der Verlängerungsantrag muss
-spätestens bis zum 30. April des dem jeweiligen Berichtsjahr folgenden
+spätestens bis zum 31. März des dem jeweiligen Berichtsjahr folgenden
 Jahres gestellt werden.
 
 
@@ -156,18 +165,30 @@ einer Bestimmung dieses Gesetzes oder der Verordnung (EG) Nr. 166/2006
 anzeigt.
 
 
-## § 5 Übermittlung der Informationen an das Umweltbundesamt
+## § 5 Übermittlung der Informationen an das Umweltbundesamt; Einstellung in das Register
 
-(1) Unbeschadet der Absätze 2 und 3 übermitteln die nach Landesrecht
-zuständigen Behörden die Berichte der Betreiber in elektronischer Form
-und nach Anhang III der Verordnung (EG) Nr. 166/2006 bis zum 31.
-Dezember des dem jeweiligen Berichtsjahr folgenden Jahres, durch
-Absatz 3 Satz 1 Nr. 1 bis 3 geschützte Informationen jedoch frühestens
-nach Bestandskraft der in Absatz 3 Satz 4 genannten Entscheidung, zur
-Einstellung in das Register und für die Zwecke des Artikels 7 Abs. 2
-der Verordnung (EG) Nr. 166/2006 an das Umweltbundesamt. Soweit das
-Umweltbundesamt vor Ende des Erklärungszeitraums das Format der
-elektronischen Form festlegt, ist dieses zu verwenden.
+(1) Die nach Landesrecht zuständigen Behörden übermitteln die Berichte
+der Betreiber elektronisch zur Einstellung in das Register und für die
+Zwecke des Artikels 7 Absatz 2 der Verordnung (EG) Nr. 166/2006 an das
+Umweltbundesamt. Die Übermittlung erfolgt vorbehaltlich der Absätze 2
+und 3 und für
+
+1.  die administrativen Informationen nach den Abschnitten 1 bis 4 des
+    Anhangs des Durchführungsbeschlusses (EU) 2019/1741 bis zum 31. August
+    des dem jeweiligen Berichtsjahr folgenden Jahres und
+
+
+2.  die thematischen Informationen nach den Abschnitten 5 bis 10 des
+    Anhangs des Durchführungsbeschlusses (EU) 2019/1741 bis zum 31.
+    Oktober des dem jeweiligen Berichtsjahr folgenden Jahres, wobei die
+    Information nach Abschnitt 4.1 des Anhangs des
+    Durchführungsbeschlusses (EU) 2019/1741 erneut beizufügen ist.
+
+
+
+Für die Übermittlung ist das spätestens bis zum 1. Januar des auf das
+Berichtsjahr folgenden Jahres durch das Umweltbundesamt festgelegte
+elektronische Format zu verwenden.
 
 (2) Informationen, deren Bekanntgabe nachteilige Auswirkungen hätte
 auf
@@ -183,8 +204,11 @@ auf
 
 
 
-werden nicht an das Umweltbundesamt übermittelt, es sei denn, das
-öffentliche Interesse an der Bekanntgabe überwiegt.
+werden unter Angabe des jeweiligen Schutzgrundes an das
+Umweltbundesamt übermittelt. Das Umweltbundesamt stellt eine
+Information nach Satz 1 nur dann in das Register ein, wenn nach
+Feststellung der nach Landesrecht zuständigen Behörde das öffentliche
+Interesse an der Bekanntgabe überwiegt.
 
 (3) Soweit
 
@@ -202,36 +226,50 @@ werden nicht an das Umweltbundesamt übermittelt, es sei denn, das
 
 
 
-werden diese nicht an das Umweltbundesamt übermittelt, es sei denn,
-der Betroffene hat zugestimmt oder das öffentliche Interesse an der
-Bekanntgabe überwiegt. Die Übermittlung von Informationen über die
-Freisetzung von Schadstoffen an das Umweltbundesamt darf nicht unter
-Berufung auf die in den Nummern 1 und 3 genannten Gründe unterbleiben.
-Die nach Landesrecht zuständige Behörde hat in der Regel von einer
-Betroffenheit im Sinne des Satzes 1 Nr. 3 auszugehen, soweit
-übermittelte Informationen als Betriebs- und Geschäftsgeheimnisse
-gekennzeichnet sind und die betroffene Person bei der Übermittlung der
-Informationen im Einzelnen dargelegt hat, warum diese als Betriebs-
-oder Geschäftsgeheimnis schützenswert sind. Steht das öffentliche
-Interesse an der Bekanntgabe der Informationen dem
-Geheimhaltungsinteresse entgegen, ist die betroffene Person vor der
-Entscheidung über die Übermittlung der durch Satz 1 Nr. 1 bis 3
-geschützten Informationen an das Umweltbundesamt für Zwecke des § 2
-Abs. 2 oder des Artikels 7 Abs. 2 der Verordnung (EG) Nr. 166/2006
-anzuhören. Die Entscheidung, dass durch Satz 1 Nr. 1 bis 3 geschützte
-Informationen an das Umweltbundesamt übermittelt werden, wird der
-betroffenen Person bekannt gegeben.
+werden diese Informationen unter Angabe des jeweiligen Schutzgrundes
+an das Umweltbundesamt übermittelt. Das Umweltbundesamt stellt eine
+Information nach Satz 1 nur dann in das Register ein, wenn
 
-(4) Liegt nach Absatz 2 oder 3 ein Grund für die Nichtübermittlung der
-den nach Landesrecht zuständigen Behörden nach Artikel 5 Abs. 1 in
-Verbindung mit Anhang III der Verordnung (EG) Nr. 166/2006
-vorliegenden Informationen vor, sind die hiervon nicht betroffenen
-Informationen zu übermitteln, soweit es möglich ist, die betroffenen
-Informationen auszusondern.
+1.  der Betroffene zugestimmt hat oder
 
-(5) Wird eine Information nicht übermittelt, geben die nach
-Landesrecht zuständigen Behörden an, welche Art von Information aus
-welchem Grund nicht übermittelt wird.
+
+2.  das öffentliche Interesse an der Bekanntgabe der Information überwiegt
+    und die in Satz 5 genannte Entscheidung bestandskräftig geworden ist.
+
+
+
+Die Einstellung von Informationen über die Freisetzung von
+Schadstoffen darf nicht aus den in Satz 1 Nummer 1 und 3 genannten
+Gründen unterbleiben. Die nach Landesrecht zuständige Behörde hat in
+der Regel von einer Betroffenheit im Sinne des Satzes 1 Nr. 3
+auszugehen, soweit übermittelte Informationen als Betriebs- und
+Geschäftsgeheimnisse gekennzeichnet sind und die betroffene Person bei
+der Übermittlung der Informationen im Einzelnen dargelegt hat, warum
+diese als Betriebs- oder Geschäftsgeheimnis schützenswert sind. Steht
+das öffentliche Interesse an der Bekanntgabe einer Information nach
+Satz 1 dem Geheimhaltungsinteresse entgegen, ist die betroffene Person
+von der nach Landesrecht zuständigen Behörde vor der Entscheidung über
+die Einstellung der Information in das Register anzuhören. Die nach
+Landesrecht zuständige Behörde entscheidet, ob das öffentliche
+Interesse an der Bekanntgabe überwiegt. Die Entscheidung, dass das
+öffentliche Interesse an der Bekanntgabe einer Information nach Satz 1
+das Geheimhaltungsinteresse überwiegt, wird der betroffenen Person
+bekannt gegeben. Bei der Übermittlung an das Umweltbundesamt gibt die
+nach Landesrecht zuständige Behörde an, hinsichtlich welcher
+Informationen das Geheimhaltungsinteresse das öffentliche Interesse an
+der Bekanntgabe überwiegt und bezeichnet die Gründe, weshalb das
+Umweltbundesamt diese Informationen nicht in das Register einstellen
+darf.
+
+(4) Liegt nach Absatz 2 oder 3 ein Grund für die Nichteinstellung
+einer Information in das Register vor, sind die hiervon nicht
+betroffenen Informationen in das Register einzustellen.
+
+(5) Unter Berücksichtigung des Standes der Technik trifft das
+Umweltbundesamt geeignete technische und organisatorische Maßnahmen,
+um für die Informationen, die nach den Absätzen 2 und 3 nicht in das
+Register einzustellen sind, ein angemessenes Schutzniveau zu
+gewährleisten.
 
 (6) Bei Betriebseinrichtungen im Geschäftsbereich des
 Bundesministeriums der Verteidigung und der in der Bundesrepublik
@@ -243,56 +281,45 @@ Schutzbedürftigkeit nach Absatz 2 Nr. 1.
 ## § 6 Übermittlung der Informationen an die Europäische Kommission
 
 Zuständig für die Durchführung von Artikel 7 Abs. 2 der Verordnung
-(EG) Nr. 166/2006 ist das Umweltbundesamt.
+(EG) Nr. 166/2006 ist das Umweltbundesamt. Bei der Übermittlung gibt
+das Umweltbundesamt an, welche Informationen durch die nach
+Landesrecht zuständige Behörde als vertraulich beschieden wurden, und
+bezeichnet die Gründe, weshalb die Kommission diese Informationen der
+Öffentlichkeit nicht zugänglich machen soll.
 
 
 ## § 7 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 166/2006
+des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die
+Schaffung eines Europäischen Schadstofffreisetzungs- und
+-verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und
+96/61/EG des Rates (ABl. L 33 vom 4.2.2006, S. 1), die zuletzt durch
+die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241)
+geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
-1.  entgegen Artikel 5 Abs. 1 Satz 1 oder 2 der Verordnung (EG) Nr.
-    166/2006 des Europäischen Parlaments und des Rates vom 18. Januar 2006
-    über die Schaffung eines Europäischen Schadstofffreisetzungs- und
-    -verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und
-    96/61/EG des Rates (ABl. EU Nr. L 33 S. 1), jeweils in Verbindung mit
-    § 3 Abs. 2 Satz 1, eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht oder
+1.  entgegen Artikel 5 Absatz 1 Unterabsatz 1 oder 2, jeweils in
+    Verbindung mit § 3 Absatz 2 Satz 1, eine Mitteilung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
 
-2.  entgegen Artikel 5 Abs. 5 der Verordnung (EG) Nr. 166/2006 des
-    Europäischen Parlaments und des Rates vom 18. Januar 2006 über die
-    Schaffung eines Europäischen Schadstofffreisetzungs- und
-    -verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und
-    96/61/EG des Rates (ABl. EU Nr. L 33 S. 1) Daten nicht, nicht
-    vollständig oder nicht ausreichend lang verfügbar hält.
+2.  entgegen Artikel 5 Absatz 5 Satz 1 eine dort genannte Aufzeichnung
+    nicht oder nicht mindestens fünf Jahre verfügbar hält.
 
 
 
 
-(2) Die Ordnungswidrigkeiten nach Absatz 1 können mit einer Geldbuße
-bis zu zehntausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
+Euro geahndet werden.
 
 
-## § 8 Übergangsvorschriften
+## § 8 Bestimmungen zum Verwaltungsverfahren
 
-(1) Abweichend von § 2 Abs. 4 Satz 1 veröffentlicht das
-Umweltbundesamt die in § 2 Abs. 2 Nr. 1 und 2 genannten Informationen
-für das Jahr 2007 spätestens bis zum 30. Juni 2009.
+Von den in diesem Gesetz getroffenen Regelungen des
+Verwaltungsverfahrens kann nicht durch Landesrecht abgewichen werden.
 
-(2) Abweichend von § 3 Abs. 2 ist der Bericht für das Jahr 2007 bis
-zum 15. Juni 2008 abzugeben. Die nach Landesrecht zuständige Behörde
-kann im Einzelfall auf Antrag des Betreibers die Frist bis zum 31.
-Juli 2008 verlängern, wenn die spätere Abgabe die rechtzeitige
-Weiterleitung des Berichts an die Europäische Kommission nicht
-erschwert. Der Verlängerungsantrag muss spätestens bis zum 15. Mai
-2008 gestellt werden.
 
-(3) Abweichend von § 5 Abs. 1 und unbeschadet des § 5 Abs. 2 und 3
-übermitteln die nach Landesrecht zuständigen Behörden für das Jahr
-2007 die Berichte der Betreiber in elektronischer Form bis zum 15.
-Februar 2009, durch § 5 Abs. 3 Satz 1 Nr. 1 bis 3 geschützte
-Informationen jedoch frühestens nach Bestandskraft der in § 5 Abs. 3
-Satz 4 genannten Entscheidung, zur Einstellung in das Register und für
-die Zwecke des Artikels 7 Abs. 2 der Verordnung (EG) Nr. 166/2006 an
-das Umweltbundesamt.
+## § 9 Übergangsvorschrift
+
+Die Bußgeldvorschriften nach § 7 gelten ab dem Berichtsjahr 2020.
 

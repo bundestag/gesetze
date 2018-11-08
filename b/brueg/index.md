@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1957, 734
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 3 G v. 26.3.2007 I 358
+:   Art. 21 Abs. 1 G v. 29.6.2015 I 1042
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften und Begriffsbestimmungen
@@ -204,7 +204,10 @@ solchen Erbscheins maßgebend.
 
 (3) Die Erteilung des Erbscheins für den Rückerstattungsanspruch
 einschließlich des vorausgegangenen Verfahrens ist gebühren- und
-auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
+auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen
+Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit.
 
 
 ### § 8

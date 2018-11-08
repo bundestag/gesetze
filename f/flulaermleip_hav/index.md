@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Leipzig/Halle
 jurabk: FluLärmLeip/HaV
 layout: default
-origslug: flul_rmleip_hav
+origslug: flulaermleip_hav
 slug: flulaermleip_hav
 
 ---

@@ -365,8 +365,9 @@ Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 Diese Verordnung tritt am 1. August 1987 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin
 
 (Fundstelle: BGBl. I 1986, 2115 - 2119)
 
@@ -965,8 +966,9 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

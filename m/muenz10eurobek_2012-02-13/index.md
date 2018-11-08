@@ -28,8 +28,8 @@ Die Auflage der Münze beträgt ca. 2 000 000 Stück, davon ca. 250 000
 Stück in der Spiegelglanzqualität. Die Prägung erfolgt durch die
 Staatlichen Münzen Baden-Württemberg, Prägestätte Karlsruhe (G).
 
-Die Münze wird ab dem 12. April 2012 in den Verkehr gebracht. Die 10
--Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
+Die Münze wird ab dem 12. April 2012 in den Verkehr gebracht. Die
+10-Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
 Kupfer-Nickel-Legierung (CuNi25), hat einen Durchmesser von 32,5
 Millimetern und eine Masse von 14 Gramm. Die Spiegelglanzmünze besteht
 aus einer Legierung von 625 Tausendteilen Silber und 375 Tausendteilen

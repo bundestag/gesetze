@@ -670,8 +670,9 @@ Gültig ab 1. Januar 2008
 [^f771250_02a_BJNR161200008BJNE000300000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
     Dezember 1975 (BGBl. I S. 3091).
 [^f771250_02b_BJNR161200008BJNE000300000]: 
+(Anlage IV des BBesG)
 
-## Anlage 2 (Anlage IV des BBesG) (Zweite Besoldungs-Übergangsverordnung)
+## Anlage 2 (Zweite Besoldungs-Übergangsverordnung)
 
 ( Fundstelle: BGBl. I 2008, 1615 - 1622 )
 Gültig ab 1. Januar 2008 bis 31. März 2008

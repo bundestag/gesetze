@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1998, 103
 
 Zuletzt geändert durch
-:   Art. 365 V v. 31.10.2006 I 2407
+:   Art. 22 Abs. 9 G v. 11.11.2016 I 2500
+
+V aufgeh. durch
+:   § 11 Satz 2 V 2170-1-21 v. 20.2.2018 I 207 mWv 1.1.2019
 
 
 ## Eingangsformel
@@ -77,7 +80,7 @@ für das vergangene Kalenderjahr durchgeführt.
 ## § 3 Übermittlung an die Vermittlungsstelle
 
 (1) Die Datenübermittlung erfolgt über die Datenstelle der
-Rentenversicherungsträger als Vermittlungsstelle.
+Rentenversicherung als Vermittlungsstelle.
 
 (2) Der Träger der Sozialhilfe übermittelt die in § 118 Abs. 1 Satz 2
 des Zwölften Buches Sozialgesetzbuch genannten Daten der einbezogenen
@@ -94,9 +97,9 @@ Sozialhilfe und Angaben enthalten, die eine eindeutige Zuordnung zu
 dem Träger der Sozialhilfe ermöglichen. Weitere Angaben darf der
 Anfragedatensatz nicht enthalten.
 
-(3) Die Datenübermittlung an die Datenstelle der
-Rentenversicherungsträger erfolgt zwischen dem ersten und dem 15. des
-ersten Monats, der auf den jeweiligen Abgleichszeitraum folgt.
+(3) Die Datenübermittlung an die Datenstelle der Rentenversicherung
+erfolgt zwischen dem ersten und dem 15. des ersten Monats, der auf den
+jeweiligen Abgleichszeitraum folgt.
 
 
 ## § 4 Übermittlung an die Auskunftsstellen
@@ -109,8 +112,8 @@ das Bundeszentralamt für Steuern. Hinsichtlich der geringfügigen
 Beschäftigungen und der Feststellung der Zeiten einer
 versicherungspflichtigen Beschäftigung sowie des Namens und der
 Anschrift des Arbeitgebers im Abgleichszeitraum ist die Datenstelle
-der Rentenversicherungsträger selbst Auskunftsstelle. Die
-Auskunftsstellen führen die Abgleiche gemäß § 11 durch.
+der Rentenversicherung selbst Auskunftsstelle. Die Auskunftsstellen
+führen die Abgleiche gemäß § 11 durch.
 
 (2) Die Vermittlungsstelle führt die ihr übermittelten Datensätze der
 Träger der Sozialhilfe zusammen und übermittelt den Auskunftsstellen
@@ -352,7 +355,7 @@ sofern die Zahlungen über die Deutsche Post AG geleistet werden und
 zur Feststellung der Tatsache von Einmalzahlungen im
 Abgleichszeitraum.
 
-(4) Die Datenstelle der Rentenversicherungsträger gleicht die ihr
+(4) Die Datenstelle der Rentenversicherung gleicht die ihr
 übermittelten Daten mit den bei ihr gespeicherten Daten ab zur
 Feststellung von Zeiten einer geringfügigen Beschäftigung und einer
 versicherungspflichtigen Beschäftigung im Abgleichszeitraum, zur
@@ -436,10 +439,10 @@ Lohn- und Gehaltserhöhung im öffentlichen Dienst entspricht, nicht
 übersteigen.
 
 (3) Das Bundesministerium für Arbeit und Soziales überprüft in
-Zusammenarbeit mit der Datenstelle der Rentenversicherungsträger alle
-drei Jahre, erstmalig nach Ablauf des Jahres 2000, die Höhe der für
-die Tätigkeit der Vermittlungsstelle entstandenen Kosten darauf, ob
-sie mit Absatz 2 Satz 3 in Einklang steht.
+Zusammenarbeit mit der Datenstelle der Rentenversicherung alle drei
+Jahre, erstmalig nach Ablauf des Jahres 2000, die Höhe der für die
+Tätigkeit der Vermittlungsstelle entstandenen Kosten darauf, ob sie
+mit Absatz 2 Satz 3 in Einklang steht.
 
 (4) Abweichend von Absatz 1 kann Landesrecht eine andere Stelle für
 die Kostenerstattung bestimmen.
@@ -1646,7 +1649,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Magnetbandkassettenorganisation
         für die Übermittlung von Daten an die Datenstelle
-        der Rentenversicherungsträger nach den §§ 3 und 7
+        der Rentenversicherung nach den §§ 3 und 7
 
 
 *    *   Kennsätze auf dem Magnetband

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1088
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.4.2010 I 434
+:   Art. 3 V v. 25.8.2021 I 4058
 
 
 ## Eingangsformel
@@ -44,7 +44,7 @@ und Amtsbezeichnung:
 
 *    *   - im Vorbereitungsdienst
 
-    *   Attachee/Attache,
+    *   Attachée/Attaché,
 
 
 *    *   - im Eingangsamt (Besoldungsgruppe A 13)
@@ -163,6 +163,13 @@ und Amtsbezeichnung:
 durchlaufen.
 
 
+### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
+Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
+
 ### § 2 Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im
@@ -242,6 +249,9 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 
+Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung
+seiner Aufgaben erheblichen Bedarf sieht, als weitere Ersatzsprachen
+für Französisch zulassen.
 
 
 ### § 5 Ausschreibung, Bewerbung
@@ -298,6 +308,11 @@ dieser kann externe Beraterinnen und Berater sowie Fach- und
 Sprachprüfende hinzuziehen. Das Auswärtige Amt kann ein Vorverfahren
 durchführen. Einzelheiten regelt das Auswärtige Amt.
 
+(2a) Bis zum 31. Dezember 2022 können die mündlichen Teile des
+Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt
+werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
+stehen.
+
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und
 Bewerber zugelassen, die nach den eingereichten Unterlagen die
 Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein
@@ -328,12 +343,12 @@ nicht gebunden. Mitglieder sind
         Auswärtigen Amts,
 
 
-    b)  die Leiterin oder der Leiter des Personalreferats für den höheren
-        Auswärtigen Dienst,
+    b)  die Leiterin oder der Leiter des für die Personalentwicklung und
+        ‑planung des höheren Dienstes zuständigen Referats,
 
 
-    c)  die Leiterin oder der Leiter des Personalreferats für den gehobenen
-        Auswärtigen Dienst und
+    c)  die Leiterin oder der Leiter des für die Personalentwicklung und
+        ‑planung des gehobenen Dienstes zuständigen Referats,
 
 
     d)  die Ausbildungsleiterin oder der Ausbildungsleiter für den höheren
@@ -374,12 +389,16 @@ Die oder der Vorsitzende des Auswahlausschusses wird vertreten durch
     Zentralabteilung des Auswärtigen Amts,
 
 
-2.  die Leiterin oder den Leiter des Personalreferats für den höheren
-    Auswärtigen Dienst oder
+2.  die Leiterin oder den Leiter des für die Personalentwicklung und
+    ‑planung des höheren Dienstes zuständigen Referats,
 
 
 3.  die Ausbildungsleiterin oder den Ausbildungsleiter für den höheren
-    Auswärtigen Dienst.
+    Auswärtigen Dienst oder
+
+
+4.  die Leiterin oder den Leiter des für die Personalentwicklung und
+    -planung des gehobenen Dienstes zuständigen Referats.
 
 
 
@@ -391,9 +410,20 @@ Mitglieder anwesend sind. Der Ausschuss entscheidet mit
 Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der oder des
 Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+der Auswahlausschuss schon dann beschlussfähig ist, wenn die oder der
+Vorsitzende und ein weiteres Mitglied anwesend sind.
+
 (8) Je ein Mitglied des Personalrats und der
 Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des
 Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
+
+(9) Im Falle einer erfolglosen Teilnahme am mündlichen
+Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für
+das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig.
+In begründeten Einzelfällen kann der Auswahlausschuss eine frühere
+oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung
+ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst
@@ -446,8 +476,8 @@ Amt.
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
 Beamtenverhältnis auf Widerruf - Bewerberinnen zu
-Attachees und Bewerber zu
-Attaches ernannt. Sie unterstehen der Dienstaufsicht des Auswärtigen
+Attachées und Bewerber zu
+Attachés ernannt. Sie unterstehen der Dienstaufsicht des Auswärtigen
 Amts.
 
 (2) Bei der Gewährung von Urlaub sind Ausbildungsbelange zu
@@ -501,7 +531,7 @@ Verlängerung des Vorbereitungsdienstes nach § 22.
 
 (1) Der Vorbereitungsdienst umfasst insbesondere:
 
-1.  Theoretische Lehrveranstaltungen in den Fächern Geschichte/Politik,
+1.  theoretische Lehrveranstaltungen in den Fächern Geschichte/Politik,
     Wirtschaftswissenschaften und Völker- und Europarecht sowie zu
     weiteren berufspraktischen Themen (Absatz 2),
 
@@ -514,7 +544,7 @@ Verlängerung des Vorbereitungsdienstes nach § 22.
 3.  Rechtsausbildung (Absatz 4) und
 
 
-4.  Praktische Ausbildung (Absatz 5).
+4.  praktische Ausbildung (Absatz 5).
 
 
 
@@ -560,6 +590,12 @@ durchgeführt werden.
 (6) Die Ausbildungsleitung fördert die aktive Beteiligung der
 Anwärterinnen und Anwärter an der Planung und Durchführung der
 Ausbildungsinhalte.
+
+
+### § 10a Digitale Lehrformate
+
+Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 für
+alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
 
 
 ## Kapitel 2 - Laufbahnprüfung
@@ -706,6 +742,30 @@ der schriftliche Teil aus drei Aufsichtsarbeiten, zählen der
 schriftliche Teil zu drei Vierteln und der mündliche Teil zu einem
 Viertel.
 
+(3a) Bis zum 31. Dezember 2022 können in den Fachprüfungen
+
+1.  die Aufsichtsarbeiten
+
+    a)  mit Unterstützung durch Informationstechnik durchgeführt werden,
+
+
+    b)  jeweils auf eine Bearbeitungszeit von weniger als drei Zeitstunden
+        verkürzt werden und
+
+
+    c)  jeweils durch eine Hausarbeit ersetzt werden und
+
+
+
+
+
+2.  die mündlichen Prüfungen unter Nutzung von Videokonferenztechnik
+    durchgeführt werden, wenn dafür geeignete technische Einrichtungen zur
+    Verfügung stehen.
+
+
+
+
 (4) Die Sprachprüfungen bestehen jeweils aus zwei Aufsichtsarbeiten
 und einer mündlichen Prüfung. In den Aufsichtsarbeiten werden eine
 Übertragung eines Fachtextes in die Fremdsprache und eine Aufzeichnung
@@ -724,6 +784,19 @@ bestehen aus
 
 Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der
 mündliche Teil je zur Hälfte.
+
+(4a) Bis zum 31. Dezember 2022 können in den Sprachprüfungen
+
+1.  die Aufsichtsarbeiten mit Unterstützung durch Informationstechnik
+    durchgeführt werden und
+
+
+2.  die mündlichen Prüfungen unter Nutzung von Videokonferenztechnik
+    durchgeführt werden, wenn dafür geeignete technische Einrichtungen zur
+    Verfügung stehen.
+
+
+
 
 (5) Eine Prüfung ist bestanden, wenn eine Anwärterin oder ein Anwärter
 mindestens die Note "ausreichend" erzielt hat und mindestens die
@@ -747,6 +820,24 @@ wurde.
     Bezug aus Fächern, die Gegenstand der Fachprüfungen waren. Die
     Prüfungszeit der mündlichen Prüfung soll für jede Anwärterin oder
     jeden Anwärter nicht mehr als 30 Minuten betragen.
+
+
+
+
+(1a) Bis zum 31. Dezember 2022 kann
+
+1.  die Aufgabe für den Aktenvortrag mit Unterstützung durch
+    Informationstechnik gestellt werden,
+
+
+2.  der Aktenvortrag unter Nutzung von Videokonferenztechnik gehalten
+    werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
+    stehen, und
+
+
+3.  die mündliche Prüfung unter Nutzung von Videokonferenztechnik
+    durchgeführt werden, wenn dafür geeignete technische Einrichtungen zur
+    Verfügung stehen.
 
 
 

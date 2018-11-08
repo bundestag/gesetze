@@ -122,8 +122,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Abs. 3)
 
-## Anlage 1 (zu § 1 Abs. 3) Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der Wollqualität und Fellqualität sowie der äußeren Erscheinung und der Eignung zur Landschaftspflege
+## Anlage 1 Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der Wollqualität und Fellqualität sowie der äußeren Erscheinung und der Eignung zur Landschaftspflege
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1127 - 1128
 
@@ -341,8 +342,9 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1127 - 1128
 
 
 
+(zu § 1 Abs. 4)
 
-## Anlage 2 (zu § 1 Abs. 4) Grundsätze für die Zuchtwertfeststellung
+## Anlage 2 Grundsätze für die Zuchtwertfeststellung
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1129
 

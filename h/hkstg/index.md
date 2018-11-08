@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2094, 2101
 
 Zuletzt geändert durch
-:   Art. 1 G v. 10.12.2007 I 2830
+:   Art. 308 V v. 19.6.2020 I 1328
 
 
 ## § 1 Stiftung
@@ -240,9 +240,9 @@ anzunehmen.
 
 ## § 10 Aufsicht
 
-Das Bundesministerium des Innern erlässt allgemeine
-Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das
-Bundesverwaltungsamt.
+Das Bundesministerium des Innern, für Bau und Heimat erlässt
+allgemeine Verwaltungsvorschriften zur Ausführung dieses Gesetzes
+durch das Bundesverwaltungsamt.
 
 
 ## § 11 (weggefallen)

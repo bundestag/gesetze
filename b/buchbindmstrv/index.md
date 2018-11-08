@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 756
 
 Zuletzt geändert durch
-:   Art. 10 V v. 23.7.2010 I 1010
+:   Art. 24 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -715,7 +715,7 @@ Der Bundesminister für Bildung und Wissenschaft
 
 ## Anlage
 
-(Fundstelle: BGBl. I 1988, 761 - 762,
+(Fundstelle: BGBl. I 1988, 761 - 762;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Seite 1
 Muster
@@ -734,9 +734,13 @@ Fachrichtung Buchbinderei
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Geprüfter Industriemeister/Geprüfte Industriemeisterin -
 Fachrichtung Buchbinderei vom 10. Juni 1988 (BGBl. I S. 756),
-die zuletzt durch Artikel 10 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
+die zuletzt durch Artikel 24 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum          ..................................................
 Unterschrift   ..................................................
 (Siegel der zuständigen Stelle)
@@ -773,8 +777,9 @@ Erwerb der berufs- und arbeitspädagogischen
 Eignung durch die Prüfung am ..........
 in .......... vor .......... erbracht.
 
+Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

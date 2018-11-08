@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2009, Nr 56, 1327
 
+Geändert durch
+:   Art. 180 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -451,9 +454,9 @@ hat an den Orten außerhalb der Heimatbasis, an denen den
 Besatzungsmitgliedern eine Ruhezeit zu gewähren ist, für die
 Bereitstellung ruhig gelegener Räume mit Schlafgelegenheit zu sorgen.
 
-(5) Der Unternehmer hat die Besatzungsmitglieder schriftlich
-anzuweisen, während der Ruhezeit Tätigkeiten zu unterlassen, die dem
-Zweck der Ruhezeit entgegenstehen.
+(5) Der Unternehmer hat die Besatzungsmitglieder schriftlich oder
+elektronisch anzuweisen, während der Ruhezeit Tätigkeiten zu
+unterlassen, die dem Zweck der Ruhezeit entgegenstehen.
 
 
 ### § 16 Ruhezeit – Berücksichtigung von Zeitzonenunterschieden

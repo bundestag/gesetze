@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1568
 
-Geändert durch
-:   Art. 5 V v. 23.7.2010 I 1010
+Zuletzt geändert durch
+:   Art. 25 V v. 9.12.2019 I 2153
 
 
 
@@ -578,12 +578,11 @@ Prüfungsdauer der ersten Situationsaufgabe beträgt mindestens vier
 Stunden, höchstens jedoch sechs Stunden, wobei die Präsentation nicht
 länger als 15 Minuten dauern soll. Die Prüfungszeit für die zweite
 Situationsaufgabe beträgt mindestens 30 Minuten, höchstens jedoch 60
-Minuten. Dem Prüfungsteilnehmer und der Prüfungsteilnehmerin ist
-außerdem eine Vorbereitungszeit von mindestens 20 Minuten, höchstens
-jedoch 30 Minuten zu gewähren. Die Prüfung soll sich auf zwei
-aufeinander folgende Tage verteilen, wobei die schriftlichen
-Prüfungsleistungen am ersten, die praktischen und die mündlichen
-Prüfungsleistungen am zweiten Tag abzulegen sind.
+Minuten. Der zu prüfenden Person ist außerdem eine Vorbereitungszeit
+von mindestens 20 Minuten, höchstens jedoch 30 Minuten zu gewähren.
+Die Prüfung soll sich auf zwei aufeinander folgende Tage verteilen,
+wobei die schriftlichen Prüfungsleistungen am ersten, die praktischen
+und die mündlichen Prüfungsleistungen am zweiten Tag abzulegen sind.
 
 (3) Im Rahmen der beiden Situationsaufgaben sind folgende
 Qualifikationsinhalte zu prüfen:
@@ -618,43 +617,151 @@ Die "Berufs- und arbeitspädagogischen Qualifikationen" sind durch eine
 Prüfung gemäß der Ausbilder-Eignungsverordnung nachzuweisen.
 
 
-## § 8 Anrechnung anderer Prüfungsleistungen
+## § 8 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 9 Bewerten der Prüfungsteile und Bestehen der Prüfung
-
-(1) Die Prüfungsteile "Wirtschaftsbezogene Qualifikationen",
-"Handlungsspezifische Qualifikationen" und "Praktische Prüfung" sind
-einzeln zu bewerten. Die Bewertung der Prüfungsteile
-"Wirtschaftsbezogene Qualifikationen" und "Handlungsspezifische
-Qualifikationen" ist aus dem arithmetischen Mittel der
-Punktebewertungen der einzelnen Prüfungsleistungen zu bilden.
-
-(2) Bei der Bewertung der Praktischen Prüfung sind die beiden
-Situationsaufgaben jeweils einzeln zu bewerten. Die Bewertungen der
-beiden Situationsaufgaben werden zu einer Note zusammengefasst. Dabei
-wird die Bewertung der ersten Situationsaufgabe dreifach gewichtet.
-
-(3) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen
-mindestens ausreichende Leistungen erbracht wurden.
-
-(4) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-sowie ein Zeugnis gemäß der Anlage 2 auszustellen. Im Falle der
-Freistellung gemäß § 8 sind Ort und Datum der anderweitig abgelegten
-Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9
+und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 9 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder
+Absatz 4 Satz 2 oder § 10 Absatz 4 Satz 2 entsprechend ihrem
+Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den
+Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
-## § 10 Wiederholung der Prüfung
+## § 9 Bewertung von Prüfungsleistungen
 
-(1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ sind die
+Prüfungsleistungen für jeden Qualifikationsbereich einzeln zu
+bewerten. Aus den einzelnen Bewertungen wird als Bewertung des
+Prüfungsteils das arithmetische Mittel berechnet.
+
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind die
+Prüfungsleistungen für jeden Qualifikationsschwerpunkt und für das
+situationsbezogene gastorientierte Fachgespräch einzeln zu bewerten.
+Aus den einzelnen Bewertungen wird als Bewertung des Prüfungsteils das
+arithmetische Mittel berechnet.
+
+(4) Im Prüfungsteil „Praktische Prüfung“ sind als Prüfungsleistungen
+zu bewerten:
+
+1.  die erste Situationsaufgabe nach § 6 Absatz 2 Satz 1 und
+
+
+2.  die zweite Situationsaufgabe nach § 6 Absatz 2 Satz 5.
+
+
+
+Aus den Bewertungen der beiden Situationsaufgaben wird als
+zusammengefasste Bewertung des Prüfungsteils „Praktische Prüfung“ das
+gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
+
+1.  die Bewertung der ersten Situationsaufgabe mit 75 Prozent und
+
+
+2.  die Bewertung der zweiten Situationsaufgabe mit 25 Prozent.
+
+
+
+
+
+## § 10 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in jedem Qualifikationsbereich des Prüfungsteils „Wirtschaftsbezogene
+    Qualifikationen“,
+
+
+2.  in jedem Qualifikationsschwerpunkt und im situationsbezogenen
+    gastorientierten Fachgespräch des Prüfungsteils Handlungsspezifische
+    Qualifikationen“ und
+
+
+3.  in jeder der beiden Situationsaufgaben des Prüfungsteils „Praktische
+    Prüfung“.
+
+
+
+
+(2) Ist die Prüfung bestanden, werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den Prüfungsteil „Wirtschaftsbezogene
+    Qualifikationen“,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“,
+
+
+3.  die zusammengefasste Bewertung für den Prüfungsteil „Praktische
+    Prüfung“.
+
+
+
+
+(3) Den Bewertungen für die Prüfungsteile „Wirtschaftsbezogene
+Qualifikationen“, „Handlungsspezifische Qualifikationen“ und
+„Praktische Prüfung“ ist nach Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Punktebewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den Prüfungsteil „Wirtschaftsbezogene
+    Qualifikationen“ mit 25 Prozent,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ mit 50 Prozent,
+
+
+3.  die zusammengefasste Bewertung für den Prüfungsteil „Praktische
+    Prüfung“ mit 25 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 11 Zeugnisse
+
+(1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 8 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 12 Wiederholung der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
 (2) Wer an einer Wiederholungsprüfung teilnimmt und sich innerhalb von
@@ -667,136 +774,408 @@ wiederholen. Wird eine bestandene Prüfungsleistung erneut geprüft, ist
 das letzte Ergebnis zu berücksichtigen.
 
 
-## § 11 Übergangsvorschrift
+## § 13 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu
 Ende geführt werden.
 
 
-## § 12 Inkrafttreten
+## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 
+(zu den §§ 9 und 10)
 
-## Anlage 1 (zu § 9 Abs. 4)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2003, 1573,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
-Herr/Frau
-.....................................................................
-geboren am .............................  in
-..................................
-hat am .................................  die Prüfung zum anerkannten
-Abschluss
-Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Hotelmeister/Geprüfte Hotelmeisterin vom 5. August 2003
-(BGBl. I S. 1568), die zuletzt durch Artikel 5 der Verordnung vom
-23\. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2248 – 2249)
 
 
-## Anlage 2 (zu § 9 Abs. 4)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2003, 1574 - 1575,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
-Herr/Frau
-.....................................................................
-geboren am .............................  in
-..................................
-hat am .................................  die Prüfung zum anerkannten
-Abschluss
-Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Hotelmeister/Geprüfte Hotelmeisterin vom 5. August 2003
-(BGBl. I S. 1568), die zuletzt durch Artikel 5 der Verordnung vom
-23\. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-mit folgenden Ergebnissen bestanden:
-Note 1)
-I.   Wirtschaftsbezogene Qualifikationen
-.............
-Qualifikationsbereiche                            Punkte 2)
-1\. Volks- und Betriebswirtschaft                .............
-2\. Rechnungswesen                               .............
-3\. Recht und Steuern                            .............
-4\. Unternehmensführung                          .............
-(Im Fall des § 8: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-nach § 8 im Hinblick auf die am .... in .... vor .... abgelegte
-Prüfung vom
-Prüfungsbestandteil ................................. freigestellt.")
-Note 1)
-II.  Handlungsspezifische Qualifikationen
-.............
-Qualifikationsschwerpunkte:                  Punkte 2)
-1\. Gäste beraten, empfangen und beherbergen  .............
-2\. Mitarbeiter führen und fördern            .............
-3\. Abläufe planen, durchführen
-und kontrollieren                         .............
-4\. Produkte beschaffen und pflegen           .............
-5\. Planen, Organisieren und  Vermarkten
-von Leistungen                            .............
-Weitere Prüfungsleistung
-Situationsbezogenes gastorientiertes
-Fachgespräch                                 .............
-(Im Fall des § 8: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach
-§ 8 im Hinblick auf die am .... in .... vor .... abgelegte Prüfung vom
-Prüfungsbestandteil ........ freigestellt.")
-III. Praktische Prüfung 3)
-.............
-1\. Situationsaufgabe
-(schriftlich, praktisch und mündlich)     .............
-2\. Situationsaufgabe
-(Situationsbezogenes Fachgespräch)        .............
-IV.  Berufs- und arbeitspädagogische Qualifikationen
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 4
-den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Qualifikationen durch die Prüfung am .... in .... vor .... erbracht.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -------
+    *   Note
+        als Dezimalzahl
 
-1)  Die beiden Gesamtnoten für die Prüfungsteile "Wirtschaftsbezogene
-    Qualifikationen" und "Handlungsspezifische Qualifikationen" werden
-    jeweils aus dem arithmetischen Mittel der Punktebewertungen gebildet.
+    *   Note
+        in Worten
+
+    *   Definition
 
 
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *   2)
+*    *   98 und 99
 
-    *   Den Bewertungen lag folgender Punkteschlüssel zugrunde:
-
-
-*    *
-    *   ......................................................................
-        ......... ..............................................
+    *   1,1
 
 
+*    *   96 und 97
+
+    *   1,2
 
 
-3)  Die erste Situationsaufgabe wurde 3fach gewichtet.
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 11)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2249 – 2250)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Wirtschaftsbezogene Qualifikationen“
+
+    a)  Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+
+
+    b)  Benennung und Bewertung der vier Qualifikationsbereiche dieses
+        Prüfungsteils mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung dieses Prüfungsteils mit Note,
+
+
+    b)  Benennung und Bewertung der fünf Qualifikationsschwerpunkte dieses
+        Prüfungsteils mit Punkten sowie
+
+
+    c)  Benennung des situationsbezogenen gastorientierten Fachgesprächs mit
+        Punkten,
+
+
+
+
+
+3.  zum Prüfungsteil „Praktische Prüfung“
+
+    a)  Benennung dieses Prüfungsteils mit Note sowie
+
+
+    b)  Benennung und Bewertung der ersten Situationsaufgabe (schriftlich,
+        praktisch, und mündlich) und der zweiten Situationsaufgabe
+        (situationsbezogenes Fachgespräch) dieses Prüfungsteils mit Punkten,
+
+
+
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 8,
+
+
+8.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 4.
 
 
 

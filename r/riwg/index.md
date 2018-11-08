@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl: 1950, 368
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.9.2009 I 3022
+:   Art. 133 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -89,21 +89,21 @@ Scheidet ein Stellvertreter aus, so wird er durch den nächsten aus der
 Reihe der nicht mehr Gewählten ersetzt.
 
 (4) Mitgliedschaft und Stellvertretung enden durch Neuwahl oder durch
-Verzicht, der schriftlich dem Bundesminister der Justiz zu erklären
-ist.
+Verzicht, der schriftlich dem Bundesminister der Justiz und für
+Verbraucherschutz zu erklären ist.
 
 (5) Jeder neu gewählte Bundestag nimmt eine Neuwahl vor.
 
 
 ## § 6
 
-(1) Der Bundesminister der Justiz verpflichtet die Mitglieder des
-Richterwahlausschusses und ihre Stellvertreter durch Handschlag auf
-gewissenhafte Pflichterfüllung.
+(1) Der Bundesminister der Justiz und für Verbraucherschutz
+verpflichtet die Mitglieder des Richterwahlausschusses und ihre
+Stellvertreter durch Handschlag auf gewissenhafte Pflichterfüllung.
 
 (2) Die Mitglieder sind zur Verschwiegenheit verpflichtet. Die
 Genehmigung zur Aussage in gerichtlichen Verfahren erteilt der
-Bundesminister der Justiz.
+Bundesminister der Justiz und für Verbraucherschutz.
 
 
 ## § 7
@@ -115,7 +115,8 @@ Nr. 3 der Zivilprozeßordnung vorliegen.
 
 ## § 8
 
-(1) Der Bundesminister der Justiz beruft den Richterwahlausschuß ein.
+(1) Der Bundesminister der Justiz und für Verbraucherschutz beruft den
+Richterwahlausschuß ein.
 
 (2) Die Einladung muß die Tagesordnung für die Sitzung des
 Richterwahlausschusses enthalten und den Mitgliedern mindestens eine
@@ -136,14 +137,14 @@ Bundesregierung führt den Vorsitz. Er hat kein Stimmrecht.
 
 (1) Der zuständige Bundesminister und die Mitglieder des
 Richterwahlausschusses können vorschlagen, wer zum Bundesrichter zu
-berufen ist. Der Bundesminister der Justiz und die Mitglieder des
-Richterwahlausschusses können vorschlagen, wer im Verfahren nach § 1
-Absatz 3 von der Bundesregierung nach Artikel 253 des Vertrags über
-die Arbeitsweise der Europäischen Union zum Richter oder Generalanwalt
-des Gerichtshofs benannt werden soll und wer im Verfahren nach § 1
-Absatz 3 von der Bundesregierung nach Artikel 254 des Vertrags über
-die Arbeitsweise der Europäischen Union zum Mitglied des Gerichts
-benannt werden soll.
+berufen ist. Der Bundesminister der Justiz und für Verbraucherschutz
+und die Mitglieder des Richterwahlausschusses können vorschlagen, wer
+im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach Artikel
+253 des Vertrags über die Arbeitsweise der Europäischen Union zum
+Richter oder Generalanwalt des Gerichtshofs benannt werden soll und
+wer im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach
+Artikel 254 des Vertrags über die Arbeitsweise der Europäischen Union
+zum Mitglied des Gerichts benannt werden soll.
 
 (2) Der zuständige Bundesminister legt dem Richterwahlausschuß die
 Personalakten der für ein Richteramt Vorgeschlagenen vor.

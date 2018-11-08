@@ -524,8 +524,9 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 3 Abs. 1 Satz 1)
 
-## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Sachliche Gliederung –
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 460 - 464)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1285,8 +1286,9 @@ Fähigkeiten**
 
 
 
+(zu § 3 Abs. 1 Satz 2)
 
-## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 465 - 466)
 Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1484
 
+Geändert durch
+:   Art. 4 V v. 22.12.2014 I 2392
+
 
 ## Eingangsformel
 
@@ -191,7 +194,7 @@ Lokomotivführers oder des Begleitpersonals besteuert.
 Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine
 Tätigkeit teilweise in dem Vertragsstaat ausgeübt hat, in dem der
 Arbeitgeber des
-Berufkraftfahrers             , des Lokomotivführers oder des
+Berufskraftfahrers             , des Lokomotivführers oder des
 Begleitpersonals seinen Wohnsitz hat, und teilweise
 
 1.  im Ansässigkeitsstaat des Berufskraftfahrers, des Lokomotivführers
@@ -208,11 +211,11 @@ Begleitpersonals seinen Wohnsitz hat, und teilweise
 
 wird, unabhängig von der jeweiligen Verweildauer, zu gleichen Teilen
 auf den Ansässigkeitsstaat des Berufskraftfahrers, des
-Lokomotivführers oder des Begleitpersonals und den Wohnsitzstaat des
-Arbeitgebers des
-Berufkraftfahrers             , des Lokomotivführers oder des
-Begleitpersonals aufgeteilt. Das anteilige Besteuerungsrecht wird
-gemäß § 6 und § 7 Absatz 1 den Vertragsstaaten zugewiesen.
+Lokomotivführers oder des Begleitpersonals, auf den Wohnsitzstaat des
+Arbeitgebers des Berufskraftfahrers, des Lokomotivführers oder des
+Begleitpersonals und auf den oder die Drittstaaten nach den Nummern 2
+und 3 aufgeteilt. Das anteilige Besteuerungsrecht wird gemäß § 6 und §
+7 Absatz 1 den Vertragsstaaten zugewiesen.
 
 
 ### § 8 Sonderregelungen

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.2.1990 I 173,
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 5 G v. 5.12.2006 I 2748
+:   Art. 23 G v. 20.8.2021 I 3932
 
 
 ## Abschnitt I - Vergünstigungen bei der Umsatzsteuer und bei den Steuern vom Einkommen und Ertrag, Gewährung einer Investitionszulage

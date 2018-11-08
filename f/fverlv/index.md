@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1680
 
+Geändert durch
+:   Art. 24 G v. 26.6.2013 I 1809
+
 
 ## Eingangsformel
 
@@ -68,8 +71,8 @@ Dienstleistungen.
 (4) Gewinnpotenziale im Sinne des § 1 Abs. 3 Satz 6 des
 Außensteuergesetzes sind die aus der verlagerten Funktion jeweils zu
 erwartenden Reingewinne nach Steuern (Barwert), auf die ein
-ordentlicher und gewissenhafter Geschäftsleiter im Sinne des § 1 Abs.
-1 Satz 2 des Außensteuergesetzes aus der Sicht des verlagernden
+ordentlicher und gewissenhafter Geschäftsleiter im Sinne des § 1
+Absatz 1 Satz 3 des Außensteuergesetzes aus der Sicht des verlagernden
 Unternehmens nicht unentgeltlich verzichten würde und für die ein
 solcher Geschäftsleiter aus der Sicht des übernehmenden Unternehmens
 bereit wäre, ein Entgelt zu zahlen.
@@ -185,8 +188,8 @@ Synergieeffekte.
 die Grundlage für die Unternehmensentscheidung waren, eine
 Funktionsverlagerung durchzuführen.
 3             Für die Berechnung der jeweiligen Gewinnpotenziale und
-des Einigungsbereichs (§ 7) sind die dem Maßstab des § 1 Abs. 1 Satz 2
-des Außensteuergesetzes entsprechenden Gewinnerwartungen der
+des Einigungsbereichs (§ 7) sind die dem Maßstab des § 1 Absatz 1 Satz
+3 des Außensteuergesetzes entsprechenden Gewinnerwartungen der
 beteiligten Unternehmen, angemessene Kapitalisierungszinssätze (§ 5)
 und ein von den Umständen der Funktionsausübung abhängiger
 Kapitalisierungszeitraum (§ 6) zu Grunde zu legen.

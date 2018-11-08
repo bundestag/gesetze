@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3262, 3319
 
-Geändert durch
-:   Art. 4 V v. 1.7.2011 I 1308
+Zuletzt geändert durch
+:   Art. 14 G v. 2.6.2021 I 1259
 
 
 ## Abschnitt 1 - Allgemeines
@@ -224,8 +224,8 @@ der Steuer erkennbar sind. Die Erlaubnis kann befristet werden.
 (2) Eine Erlaubnis für ein Steuerlager wird nicht erteilt, wenn Bier
 ausschließlich gelagert werden soll und
 
-1.  der jährliche Lagerumschlag (Zu- und Abgang) voraussichtlich unter 5
-    000 Hektolitern (hl) liegt,
+1.  der jährliche Lagerumschlag (Zu- und Abgang) voraussichtlich unter
+    5 000 Hektolitern (hl) liegt,
 
 
 2.  die Lagerdauer für das Bier weniger als 1,5 Monate im
@@ -699,19 +699,19 @@ Verwaltungsvorschriften sinngemäß.
 
 ### § 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
-Das Bundesministerium der Finanzen legt durch eine Verfahrensanweisung
-fest, unter welchen Voraussetzungen und Bedingungen Personen, die für
+Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
+unter welchen Voraussetzungen und Bedingungen Personen, die für
 Beförderungen unter Steueraussetzung das elektronische
 Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch
 Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§
 9 Absatz 1 des Gesetzes) austauschen. Um auf diese Weise elektronisch
 Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung
-bei einer vom Bundesministerium der Finanzen in der
-Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung
-wird vom Bundesministerium der Finanzen im Internet unter www.zoll.de
-veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister
-sind verpflichtet, die in der Verfahrensanweisung festgelegten
-Voraussetzungen und Bedingungen einzuhalten.
+bei einer von der Generalzolldirektion in der Verfahrensanweisung
+bekannt gegebenen Stelle. Die Verfahrensanweisung wird von der
+Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die
+Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die
+in der Verfahrensanweisung festgelegten Voraussetzungen und
+Bedingungen einzuhalten.
 
 
 ### § 17 Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
@@ -1322,9 +1322,9 @@ folgenden Kalenderjahres steuerlich wirksam.
 
 (3) Steuerschuldner, die erstmals im Kalenderjahr Bier einer
 ausländischen Brauerei zur Versteuerung zu einem ermäßigten Steuersatz
-nach § 2 Absatz 2 des Gesetzes anmelden, haben mit der Steuererklärung
-geeignete Unterlagen vorzulegen, aus denen sich die Grundlagen für die
-Anwendung des ermäßigten Steuersatzes ergeben.
+nach § 2 Absatz 1a und 2 des Gesetzes anmelden, haben mit der
+Steuererklärung geeignete Unterlagen vorzulegen, aus denen sich die
+Grundlagen für die Anwendung des ermäßigten Steuersatzes ergeben.
 
 (4) Steuerschuldner, die im abgelaufenen Kalenderjahr Bier aus
 Drittländern, Drittgebieten oder anderen Mitgliedstaaten zu ermäßigten

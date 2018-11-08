@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1952, 641
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 6 G v. 26.3.2007 I 358
+:   Art. 8 G v. 20.4.2013 I 831
 
 
 ## Erster Abschnitt - Allgemeine Verfahrensvorschriften
@@ -58,8 +58,10 @@ f)  Ansprüche wegen Zahlung der Lotsen-, Kran-, Waage-, Hafen- und
     Bohlwerksgebühren oder -vergütungen und ihres Betrages;
 
 
+g)  (weggefallen)
 
-g)
+
+
 Dies gilt nicht für Rechtsstreitigkeiten über Ansprüche aus einem
 Vorfall, an dem ein Seeschiff beteiligt ist, wenn
 
@@ -71,8 +73,8 @@ Vorfall, an dem ein Seeschiff beteiligt ist, wenn
 2.  der Vorfall sich auf anderen Binnengewässern außer dem Rhein und der
     Mosel ereignet hat, sofern der Anspruch auf Ersatz des Schadens
     gerichtet ist, der den Schiffen oder den an Bord befindlichen Personen
-    oder Sachen durch einen Schiffszusammenstoß oder durch ein unter §
-    738c des Handelsgesetzbuchs fallendes Ereignis zugefügt worden ist.
+    oder Sachen durch einen Schiffszusammenstoß oder durch ein unter § 572
+    des Handelsgesetzbuchs fallendes Ereignis zugefügt worden ist.
 
 
 

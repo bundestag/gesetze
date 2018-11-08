@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3675, 3686
 
+Zuletzt geändert durch
+:   Art. 8 G v. 10.12.2021 I 5162
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -1487,4 +1489,18 @@ beteiligten Gesellschaft mit Sitz im Inland, die durch die Gründung
 der SE als eigenständige juristische Person erlischt, bestehen nach
 Eintragung der SE fort. Die Leitung der SE stellt sicher, dass diese
 Arbeitnehmervertretungen ihre Aufgaben weiterhin wahrnehmen können.
+
+
+### § 48 Sonderregelung aus Anlass der COVID-19-Pandemie
+
+(1) Bis zum Ablauf des 19. März 2022 können im Rahmen der
+Unterrichtung und Anhörung die Teilnahme an Sitzungen eines SE-
+Betriebsrats oder einer Arbeitnehmervertretung nach § 21 Absatz 2
+sowie die Beschlussfassung auch mittels Video- und Telefonkonferenz
+erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung
+keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
+
+(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
+machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
+drei Monate verlängern.
 

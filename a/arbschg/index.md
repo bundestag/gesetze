@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1996, 1246
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 89 G v. 5.2.2009 I 160
+:   Art. 12 G v. 22.11.2021 I 4906
+
+Änderung der inhaltsübersicht durch
+:   Art. 1 Nr. 1 V v. 23.10.2013 I 3882 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
 
 Dieses Gesetz dient der Umsetzung folgender EG-Richtlinien:
 -Richtlinie 89/391/EWG des Rates vom 12. Juni 1989 über die
@@ -151,9 +154,9 @@ den Beschäftigten auferlegen.
 Der Arbeitgeber hat bei Maßnahmen des Arbeitsschutzes von folgenden
 allgemeinen Grundsätzen auszugehen:
 
-1.  Die Arbeit ist so zu gestalten, daß eine Gefährdung für Leben und
-    Gesundheit möglichst vermieden und die verbleibende Gefährdung
-    möglichst gering gehalten wird;
+1.  Die Arbeit ist so zu gestalten, daß eine Gefährdung für das Leben
+    sowie die physische und die psychische Gesundheit möglichst vermieden
+    und die verbleibende Gefährdung möglichst gering gehalten wird;
 
 
 2.  Gefahren sind an ihrer Quelle zu bekämpfen;
@@ -215,7 +218,10 @@ eines Arbeitsplatzes oder einer Tätigkeit ausreichend.
     und Arbeitszeit und deren Zusammenwirken,
 
 
-5.  unzureichende Qualifikation und Unterweisung der Beschäftigten.
+5.  unzureichende Qualifikation und Unterweisung der Beschäftigten,
+
+
+6.  psychische Belastungen bei der Arbeit.
 
 
 
@@ -229,14 +235,6 @@ das Ergebnis der Gefährdungsbeurteilung, die von ihm festgelegten
 Maßnahmen des Arbeitsschutzes und das Ergebnis ihrer Überprüfung
 ersichtlich sind. Bei gleichartiger Gefährdungssituation ist es
 ausreichend, wenn die Unterlagen zusammengefaßte Angaben enthalten.
-Soweit in sonstigen Rechtsvorschriften nichts anderes bestimmt ist,
-gilt Satz 1 nicht für Arbeitgeber mit zehn oder weniger Beschäftigten;
-die zuständige Behörde kann, wenn besondere Gefährdungssituationen
-gegeben sind, anordnen, daß Unterlagen verfügbar sein müssen. Bei der
-Feststellung der Zahl der Beschäftigten nach Satz 3 sind
-Teilzeitbeschäftigte mit einer regelmäßigen wöchentlichen Arbeitszeit
-von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als 30 Stunden
-mit 0,75 zu berücksichtigen.
 
 (2) Unfälle in seinem Betrieb, bei denen ein Beschäftigter getötet
 oder so verletzt wird, daß er stirbt oder für mehr als drei Tage
@@ -377,7 +375,7 @@ ergebenden Pflichten sind neben dem Arbeitgeber
 
 5.  sonstige nach Absatz 2 oder nach einer auf Grund dieses Gesetzes
     erlassenen Rechtsverordnung oder nach einer Unfallverhütungsvorschrift
-    beauftragte Personen im Rahmen ihrer Aufgaben und Befugnisse.
+    verpflichtete Personen im Rahmen ihrer Aufgaben und Befugnisse.
 
 
 
@@ -495,6 +493,13 @@ werden,
     geprüft werden müssen,
 
 
+3a. dass für bestimmte Beschäftigte angemessene Unterkünfte
+    bereitzustellen sind, wenn dies aus Gründen der Sicherheit, zum Schutz
+    der Gesundheit oder aus Gründen der menschengerechten Gestaltung der
+    Arbeit erforderlich ist und welche Anforderungen dabei zu erfüllen
+    sind,
+
+
 4.  daß Beschäftigte, bevor sie eine bestimmte gefährdende Tätigkeit
     aufnehmen oder fortsetzen oder nachdem sie sie beendet haben,
     arbeitsmedizinisch zu untersuchen sind und welche besonderen Pflichten
@@ -509,6 +514,26 @@ werden,
     Regeln zu ermitteln, wie die in den Rechtsverordnungen gestellten
     Anforderungen erfüllt werden können. Das Bundesministerium für Arbeit
     und Soziales kann die Regeln und Erkenntnisse amtlich bekannt machen.
+
+
+
+
+(3) In epidemischen Lagen von nationaler Tragweite nach § 5 Absatz 1
+des Infektionsschutzgesetzes kann das Bundesministerium für Arbeit und
+Soziales ohne Zustimmung des Bundesrates spezielle Rechtsverordnungen
+nach Absatz 1 für einen befristeten Zeitraum erlassen. Das
+Bundesministerium für Arbeit und Soziales kann ohne Zustimmung des
+Bundesrates durch Rechtsverordnung für einen befristeten Zeitraum, der
+spätestens sechs Monate nach Aufhebung der Feststellung der
+epidemischen Lage von nationaler Tragweite endet,
+
+1.  bestimmen, dass spezielle Rechtsverordnungen nach Satz 1 nach
+    Aufhebung der Feststellung der epidemischen Lage von nationaler
+    Tragweite nach § 5 Absatz 1 des Infektionsschutzgesetzes fortgelten,
+    und diese ändern sowie
+
+
+2.  spezielle Rechtsverordnungen nach Absatz 1 erlassen.
 
 
 
@@ -535,25 +560,25 @@ Rechtsverordnungen gelten.
 (2) Für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes,
 insbesondere bei der Bundeswehr, der Polizei, den Zivil- und
 Katastrophenschutzdiensten, dem Zoll oder den Nachrichtendiensten,
-können das Bundeskanzleramt, das Bundesministerium des Innern, das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung, das
-Bundesministerium der Verteidigung oder das Bundesministerium der
-Finanzen, soweit sie hierfür jeweils zuständig sind, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, daß
-Vorschriften dieses Gesetzes ganz oder zum Teil nicht anzuwenden sind,
-soweit öffentliche Belange dies zwingend erfordern, insbesondere zur
-Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit.
-Rechtsverordnungen nach Satz 1 werden im Einvernehmen mit dem
-Bundesministerium für Arbeit und Soziales und, soweit nicht das
-Bundesministerium des Innern selbst ermächtigt ist, im Einvernehmen
-mit diesem Ministerium erlassen. In den Rechtsverordnungen ist
-gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz
-bei der Arbeit unter Berücksichtigung der Ziele dieses Gesetzes auf
-andere Weise gewährleistet werden. Für Tätigkeiten im öffentlichen
-Dienst der Länder, Gemeinden und sonstigen landesunmittelbaren
-Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
-können den Sätzen 1 und 3 entsprechende Regelungen durch Landesrecht
-getroffen werden.
+können das Bundeskanzleramt, das Bundesministerium des Innern, für Bau
+und Heimat, das Bundesministerium für Verkehr und digitale
+Infrastruktur, das Bundesministerium der Verteidigung oder das
+Bundesministerium der Finanzen, soweit sie hierfür jeweils zuständig
+sind, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+bestimmen, daß Vorschriften dieses Gesetzes ganz oder zum Teil nicht
+anzuwenden sind, soweit öffentliche Belange dies zwingend erfordern,
+insbesondere zur Aufrechterhaltung oder Wiederherstellung der
+öffentlichen Sicherheit. Rechtsverordnungen nach Satz 1 werden im
+Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und,
+soweit nicht das Bundesministerium des Innern, für Bau und Heimat
+selbst ermächtigt ist, im Einvernehmen mit diesem Ministerium
+erlassen. In den Rechtsverordnungen ist gleichzeitig festzulegen, wie
+die Sicherheit und der Gesundheitsschutz bei der Arbeit unter
+Berücksichtigung der Ziele dieses Gesetzes auf andere Weise
+gewährleistet werden. Für Tätigkeiten im öffentlichen Dienst der
+Länder, Gemeinden und sonstigen landesunmittelbaren Körperschaften,
+Anstalten und Stiftungen des öffentlichen Rechts können den Sätzen 1
+und 3 entsprechende Regelungen durch Landesrecht getroffen werden.
 
 
 ## Fünfter Abschnitt - Gemeinsame deutsche Arbeitsschutzstrategie
@@ -654,7 +679,22 @@ der Geschäftsordnung der Nationalen Arbeitsschutzkonferenz festgelegt.
 staatliche Aufgabe. Die zuständigen Behörden haben die Einhaltung
 dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen zu überwachen und die Arbeitgeber bei der Erfüllung
-ihrer Pflichten zu beraten.
+ihrer Pflichten zu beraten. Bei der Überwachung haben die zuständigen
+Behörden bei der Auswahl von Betrieben Art und Umfang des
+betrieblichen Gefährdungspotenzials zu berücksichtigen.
+
+(1a) Die zuständigen Landesbehörden haben bei der Überwachung nach
+Absatz 1 sicherzustellen, dass im Laufe eines Kalenderjahres eine
+Mindestanzahl an Betrieben besichtigt wird. Beginnend mit dem
+Kalenderjahr 2026 sind im Laufe eines Kalenderjahres mindestens 5
+Prozent der im Land vorhandenen Betriebe zu besichtigen
+(Mindestbesichtigungsquote). Von der Mindestbesichtigungsquote kann
+durch Landesrecht nicht abgewichen werden. Erreicht eine Landesbehörde
+die Mindestbesichtigungsquote nicht, so hat sie die Zahl der
+besichtigten Betriebe bis zum Kalenderjahr 2026 schrittweise
+mindestens so weit zu erhöhen, dass sie die Mindestbesichtigungsquote
+erreicht. Maßgeblich für die Anzahl der im Land vorhandenen Betriebe
+ist die amtliche Statistik der Bundesagentur für Arbeit des Vorjahres.
 
 (2) Die Aufgaben und Befugnisse der Träger der gesetzlichen
 Unfallversicherung richten sich, soweit nichts anderes bestimmt ist,
@@ -704,19 +744,21 @@ Zusammenarbeit mit den staatlichen Arbeitsschutzbehörden festzulegen.
 Behörde für die Durchführung dieses Gesetzes und der auf dieses Gesetz
 gestützten Rechtsverordnungen in den Betrieben und Verwaltungen des
 Bundes die Zentralstelle für Arbeitsschutz beim Bundesministerium des
-Innern. Im Auftrag der Zentralstelle handelt, soweit nichts anderes
-bestimmt ist, die Unfallkasse des Bundes, die insoweit der Aufsicht
-des Bundesministeriums des Innern unterliegt; Aufwendungen werden
-nicht erstattet. Im öffentlichen Dienst im Geschäftsbereich des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung führt die
-Eisenbahn-Unfallkasse, soweit diese Träger der Unfallversicherung ist,
-dieses Gesetz durch. Für Betriebe und Verwaltungen in den
-Geschäftsbereichen des Bundesministeriums der Verteidigung und des
-Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen führt das
-jeweilige Bundesministerium, soweit es jeweils zuständig ist, oder die
-von ihm jeweils bestimmte Stelle dieses Gesetz durch. Im
-Geschäftsbereich des Bundesministeriums der Finanzen führt die
-Unfallkasse Post und Telekom dieses Gesetz durch, soweit der
+Innern, für Bau und Heimat. Im Auftrag der Zentralstelle handelt,
+soweit nichts anderes bestimmt ist, die Unfallversicherung Bund und
+Bahn, die insoweit der Aufsicht des Bundesministeriums des Innern, für
+Bau und Heimat unterliegt; Aufwendungen werden nicht erstattet. Im
+öffentlichen Dienst im Geschäftsbereich des Bundesministeriums für
+Verkehr und digitale Infrastruktur führt die Unfallversicherung Bund
+und Bahn, soweit die Eisenbahn-Unfallkasse bis zum 31. Dezember 2014
+Träger der Unfallversicherung war, dieses Gesetz durch. Für Betriebe
+und Verwaltungen in den Geschäftsbereichen des Bundesministeriums der
+Verteidigung und des Auswärtigen Amtes hinsichtlich seiner
+Auslandsvertretungen führt das jeweilige Bundesministerium, soweit es
+jeweils zuständig ist, oder die von ihm jeweils bestimmte Stelle
+dieses Gesetz durch. Im Geschäftsbereich des Bundesministeriums der
+Finanzen führt die Berufsgenossenschaft Verkehrswirtschaft Post-
+Logistik Telekommunikation dieses Gesetz durch, soweit der
 Geschäftsbereich des ehemaligen Bundesministeriums für Post und
 Telekommunikation betroffen ist. Die Sätze 1 bis 4 gelten auch für
 Betriebe und Verwaltungen, die zur Bundesverwaltung gehören, für die
@@ -732,8 +774,12 @@ nicht erstattet.
 (1) Die zuständige Behörde kann vom Arbeitgeber oder von den
 verantwortlichen Personen die zur Durchführung ihrer
 Überwachungsaufgabe erforderlichen Auskünfte und die Überlassung von
-entsprechenden Unterlagen verlangen. Die auskunftspflichtige Person
-kann die Auskunft auf solche Fragen oder die Vorlage derjenigen
+entsprechenden Unterlagen verlangen. Werden Beschäftigte mehrerer
+Arbeitgeber an einem Arbeitsplatz tätig, kann die zuständige Behörde
+von den Arbeitgebern oder von den verantwortlichen Personen verlangen,
+dass das Ergebnis der Abstimmung über die zu treffenden Maßnahmen nach
+§ 8 Absatz 1 schriftlich vorgelegt wird. Die auskunftspflichtige
+Person kann die Auskunft auf solche Fragen oder die Vorlage derjenigen
 Unterlagen verweigern, deren Beantwortung oder Vorlage sie selbst oder
 einen ihrer in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung
 bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer
@@ -755,17 +801,21 @@ Begleitung durch den Arbeitgeber oder eine von ihm beauftragte Person
 zu verlangen. Der Arbeitgeber oder die verantwortlichen Personen haben
 die mit der Überwachung beauftragten Personen bei der Wahrnehmung
 ihrer Befugnisse nach den Sätzen 1 und 2 zu unterstützen. Außerhalb
-der in Satz 1 genannten Zeiten, oder wenn die Arbeitsstätte sich in
-einer Wohnung befindet, dürfen die mit der Überwachung beauftragten
-Personen ohne Einverständnis des Arbeitgebers die Maßnahmen nach den
-Sätzen 1 und 2 nur zur Verhütung dringender Gefahren für die
-öffentliche Sicherheit oder Ordnung treffen. Die auskunftspflichtige
-Person hat die Maßnahmen nach den Sätzen 1, 2 und 5 zu dulden. Die
-Sätze 1 und 5 gelten entsprechend, wenn nicht feststeht, ob in der
-Arbeitsstätte Personen beschäftigt werden, jedoch Tatsachen gegeben
-sind, die diese Annahme rechtfertigen. Das Grundrecht der
-Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
-insoweit eingeschränkt.
+der in Satz 1 genannten Zeiten dürfen die mit der Überwachung
+beauftragten Personen ohne Einverständnis des Arbeitgebers die
+Maßnahmen nach den Sätzen 1 und 2 nur treffen, soweit sie zur
+Verhütung dringender Gefahren für die öffentliche Sicherheit und
+Ordnung erforderlich sind. Wenn sich die Arbeitsstätte in einer
+Wohnung befindet, dürfen die mit der Überwachung beauftragten Personen
+die Maßnahmen nach den Sätzen 1 und 2 ohne Einverständnis der Bewohner
+oder Nutzungsberechtigten nur treffen, soweit sie zur Verhütung
+dringender Gefahren für die öffentliche Sicherheit und Ordnung
+erforderlich sind. Die auskunftspflichtige Person hat die Maßnahmen
+nach den Sätzen 1, 2, 5 und 6 zu dulden. Die Sätze 1 und 5 gelten
+entsprechend, wenn nicht feststeht, ob in der Arbeitsstätte Personen
+beschäftigt werden, jedoch Tatsachen gegeben sind, die diese Annahme
+rechtfertigen. Das Grundrecht der Unverletzlichkeit der Wohnung
+(Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (3) Die zuständige Behörde kann im Einzelfall anordnen,
 
@@ -794,7 +844,7 @@ Landesbehörde oder dem Hauptverwaltungsbeamten der Gemeinde getroffen
 werden.
 
 
-### § 23 Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht
+### § 23 Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht, Bundesfachstelle
 
 (1) Der Arbeitgeber hat der zuständigen Behörde zu einem von ihr
 bestimmten Zeitpunkt Mitteilungen über
@@ -825,8 +875,7 @@ weiterzuleiten haben. In der Rechtsverordnung können das Nähere über
 die Form der weiterzuleitenden Angaben sowie die Frist für die
 Weiterleitung bestimmt werden. Die weitergeleiteten Angaben dürfen nur
 zur Erfüllung der in der Zuständigkeit der Behörden nach § 21 Abs. 1
-liegenden Arbeitsschutzaufgaben verwendet sowie in
-Datenverarbeitungssystemen gespeichert oder verarbeitet werden.
+liegenden Arbeitsschutzaufgaben verarbeitet werden.
 
 (2) Die mit der Überwachung beauftragten Personen dürfen die ihnen bei
 ihrer Überwachungstätigkeit zur Kenntnis gelangenden Geschäfts- und
@@ -874,9 +923,13 @@ Anhaltspunkte für
 7.  Verstöße gegen die Steuergesetze,
 
 
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
 
 unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach
-den Nummern 1 bis 7 zuständigen Behörden, die Träger der Sozialhilfe
+den Nummern 1 bis 8 zuständigen Behörden, die Träger der Sozialhilfe
 sowie die Behörden nach § 71 des Aufenthaltsgesetzes. In den Fällen
 des Satzes 1 arbeiten die zuständigen Behörden insbesondere mit den
 Agenturen für Arbeit, den Hauptzollämtern, den
@@ -895,15 +948,31 @@ Angaben zur Erfüllung von Unterrichtungspflichten aus internationalen
 Übereinkommen oder Rechtsakten der Europäischen Gemeinschaften, soweit
 sie den Arbeitsschutz betreffen.
 
+(5) Bei der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin wird
+eine Bundesfachstelle für Sicherheit und Gesundheit bei der Arbeit
+eingerichtet. Sie hat die Aufgabe, die Jahresberichte der Länder
+einschließlich der Besichtigungsquote nach § 21 Absatz 1a auszuwerten
+und die Ergebnisse für den statistischen Bericht über den Stand von
+Sicherheit und Gesundheit bei der Arbeit und über das Unfall- und
+Berufskrankheitengeschehen in der Bundesrepublik Deutschland nach § 25
+Absatz 1 des Siebten Buches Sozialgesetzbuch zusammenzufassen. Das
+Bundesministerium für Arbeit und Soziales kann die Arbeitsweise und
+das Verfahren der Bundesfachstelle für Sicherheit und Gesundheit bei
+der Arbeit im Errichtungserlass der Bundesanstalt für Arbeitsschutz
+und Arbeitsmedizin festlegen.
+
 
 ### § 24 Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
 
-Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung des
-Bundesrates allgemeine Verwaltungsvorschriften erlassen
+Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
+Verwaltungsvorschriften erlassen insbesondere
 
 1.  zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes
-    erlassenen Rechtsverordnungen, soweit die Bundesregierung zu ihrem
-    Erlaß ermächtigt ist,
+    erlassenen Rechtsverordnungen, insbesondere dazu, welche Kriterien zur
+    Auswahl von Betrieben bei der Überwachung anzuwenden, welche
+    Sachverhalte im Rahmen einer Betriebsbesichtigung mindestens zu prüfen
+    und welche Ergebnisse aus der Überwachung für die Berichterstattung zu
+    erfassen sind,
 
 
 2.  über die Gestaltung der Jahresberichte nach § 23 Abs. 4 und
@@ -916,9 +985,78 @@ Bundesrates allgemeine Verwaltungsvorschriften erlassen
 
 
 
-Verwaltungsvorschriften, die Bereiche des öffentlichen Dienstes
-einbeziehen, werden im Einvernehmen mit dem Bundesministerium des
-Innern erlassen.
+
+
+### § 24a Ausschuss für Sicherheit und Gesundheit bei der Arbeit
+
+(1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
+für Sicherheit und Gesundheit bei der Arbeit gebildet, in dem
+geeignete Personen vonseiten der öffentlichen und privaten
+Arbeitgeber, der Gewerkschaften, der Landesbehörden, der gesetzlichen
+Unfallversicherung und weitere geeignete Personen, insbesondere aus
+der Wissenschaft, vertreten sein sollen. Dem Ausschuss sollen nicht
+mehr als 15 Mitglieder angehören. Für jedes Mitglied ist ein
+stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im
+Ausschuss ist ehrenamtlich. Ein Mitglied oder ein stellvertretendes
+Mitglied aus den anderen Ausschüssen beim Bundesministerium für Arbeit
+und Soziales nach § 18 Absatz 2 Nummer 5 soll dauerhaft als Gast im
+Ausschuss für Sicherheit und Gesundheit bei der Arbeit vertreten sein.
+
+(2) Das Bundesministerium für Arbeit und Soziales beruft die
+Mitglieder des Ausschusses für Sicherheit und Gesundheit bei der
+Arbeit und die stellvertretenden Mitglieder. Der Ausschuss gibt sich
+eine Geschäftsordnung und wählt die Vorsitzende oder den Vorsitzenden
+aus seiner Mitte. Die Geschäftsordnung und die Wahl der oder des
+Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Arbeit
+und Soziales.
+
+(3) Zu den Aufgaben des Ausschusses für Sicherheit und Gesundheit bei
+der Arbeit gehört es, soweit hierfür kein anderer Ausschuss beim
+Bundesministerium für Arbeit und Soziales nach § 18 Absatz 2 Nummer 5
+zuständig ist,
+
+1.  den Stand von Technik, Arbeitsmedizin und Hygiene sowie sonstige
+    gesicherte arbeitswissenschaftliche Erkenntnisse für die Sicherheit
+    und Gesundheit der Beschäftigten zu ermitteln,
+
+
+2.  Regeln und Erkenntnisse zu ermitteln, wie die in diesem Gesetz
+    gestellten Anforderungen erfüllt werden können,
+
+
+3.  Empfehlungen zu Sicherheit und Gesundheit bei der Arbeit aufzustellen,
+
+
+4.  das Bundesministerium für Arbeit und Soziales in allen Fragen des
+    Arbeitsschutzes zu beraten.
+
+
+
+Das Arbeitsprogramm des Ausschusses für Sicherheit und Gesundheit bei
+der Arbeit wird mit dem Bundesministerium für Arbeit und Soziales
+abgestimmt. Der Ausschuss arbeitet eng mit den anderen Ausschüssen
+beim Bundesministerium für Arbeit und Soziales nach § 18 Absatz 2
+Nummer 5 zusammen.
+
+(4) Das Bundesministerium für Arbeit und Soziales kann die vom
+Ausschuss für Sicherheit und Gesundheit bei der Arbeit ermittelten
+Regeln und Erkenntnisse im Gemeinsamen Ministerialblatt bekannt geben
+und die Empfehlungen veröffentlichen. Der Arbeitgeber hat die bekannt
+gegebenen Regeln und Erkenntnisse zu berücksichtigen. Bei Einhaltung
+dieser Regeln und bei Beachtung dieser Erkenntnisse ist davon
+auszugehen, dass die in diesem Gesetz gestellten Anforderungen erfüllt
+sind, soweit diese von der betreffenden Regel abgedeckt sind. Die
+Anforderungen aus Rechtsverordnungen nach § 18 und dazu bekannt
+gegebene Regeln und Erkenntnisse bleiben unberührt.
+
+(5) Die Bundesministerien sowie die obersten Landesbehörden können zu
+den Sitzungen des Ausschusses für Sicherheit und Gesundheit bei der
+Arbeit Vertreterinnen oder Vertreter entsenden. Auf Verlangen ist
+ihnen in der Sitzung das Wort zu erteilen.
+
+(6) Die Geschäfte des Ausschusses für Sicherheit und Gesundheit bei
+der Arbeit führt die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin.
 
 
 ### § 25 Bußgeldvorschriften
@@ -949,7 +1087,7 @@ Innern erlassen.
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und
 2 Buchstabe b mit einer Geldbuße bis zu fünftausend Euro, in den
 Fällen des Absatzes 1 Nr. 2 Buchstabe a mit einer Geldbuße bis zu
-fünfundzwanzigtausend Euro geahndet werden.
+dreißigtausend Euro geahndet werden.
 
 
 ### § 26 Strafvorschriften

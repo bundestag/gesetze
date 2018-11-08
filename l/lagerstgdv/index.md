@@ -89,8 +89,7 @@ erforderlich.
 
 (1) Die Einreichung der Kartenunterlagen über die Erdölberechtigungen
 hat in zwei Stücken
-bei den Landesbergbehörden, und zwar den Mittelbehörden,
-zu erfolgen.
+bei den Landesbergbehörden, und zwar den Mittelbehörden, zu erfolgen.
 
 (2) Die in Absatz 1 bezeichneten Bergbehörden geben ein Stück der
 Kartenunterlagen an die ... zuständige geologische Anstalt unmittelbar

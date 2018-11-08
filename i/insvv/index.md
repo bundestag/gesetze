@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2205
 
 Zuletzt geändert durch
-:   Art. 2 G v. 7.12.2011 I 2582
+:   Art. 4 G v. 22.12.2020 I 3328
 
 
 ## Eingangsformel
@@ -78,8 +78,9 @@ berechnen.
 
 5.  Ein Vorschuß, der von einer anderen Person als dem Schuldner zur
     Durchführung des Verfahrens geleistet worden ist, und ein Zuschuß, den
-    ein Dritter zur Erfüllung eines Insolvenzplans geleistet hat, bleiben
-    außer Betracht.
+    ein Dritter zur Erfüllung eines Insolvenzplans oder zum Zweck der
+    Erteilung der Restschuldbefreiung vor Ablauf der Abtretungsfrist
+    geleistet hat, bleiben außer Betracht.
 
 
 
@@ -89,34 +90,40 @@ berechnen.
 
 (1) Der Insolvenzverwalter erhält in der Regel
 
-1.  von den ersten 25.000 Euro der Insolvenzmasse 40 vom Hundert,
+1.  von den ersten 35 000 Euro der Insolvenzmasse 40 Prozent,
 
 
-2.  von dem Mehrbetrag bis zu 50.000 Euro 25 vom Hundert,
+2.  von dem Mehrbetrag bis zu 70 000 Euro 26 Prozent,
 
 
-3.  von dem Mehrbetrag bis zu 250.000 Euro 7 vom Hundert,
+3.  von dem Mehrbetrag bis zu 350 000 Euro 7,5 Prozent,
 
 
-4.  von dem Mehrbetrag bis zu 500.000 Euro 3 vom Hundert,
+4.  von dem Mehrbetrag bis zu 700 000 Euro 3,3 Prozent,
 
 
-5.  von dem Mehrbetrag bis zu 25.000.000 Euro 2 vom Hundert,
+5.  von dem Mehrbetrag bis zu 35 000 000 Euro 2,2 Prozent,
 
 
-6.  von dem Mehrbetrag bis zu 50.000.000 Euro 1 vom Hundert,
+6.  von dem Mehrbetrag bis zu 70 000 000 Euro 1,1 Prozent,
 
 
-7.  von dem darüber hinausgehenden Betrag 0,5 vom Hundert.
+7.  von dem Mehrbetrag bis zu 350 000 000 Euro 0,5 Prozent,
+
+
+8.  von dem Mehrbetrag bis zu 700 000 000 Euro 0,4 Prozent,
+
+
+9.  von dem darüber hinausgehenden Betrag 0,2 Prozent.
 
 
 
 
 (2) Haben in dem Verfahren nicht mehr als 10 Gläubiger ihre
 Forderungen angemeldet, so soll die Vergütung in der Regel mindestens
-1\.000 Euro betragen. Von 11 bis zu 30 Gläubigern erhöht sich die
-Vergütung für je angefangene 5 Gläubiger um 150 Euro. Ab 31 Gläubiger
-erhöht sich die Vergütung je angefangene 5 Gläubiger um 100 Euro.
+1 400 Euro betragen. Von 11 bis zu 30 Gläubigern erhöht sich die
+Vergütung für je angefangene 5 Gläubiger um 210 Euro. Ab 31 Gläubiger
+erhöht sich die Vergütung je angefangene 5 Gläubiger um 140 Euro.
 
 
 ### § 3 Zu- und Abschläge
@@ -160,11 +167,20 @@ b)  die Masse bereits zu einem wesentlichen Teil verwertet war, als der
 
 
 c)  das Insolvenzverfahren vorzeitig beendet wird oder das Amt des
-    Verwalters vorzeitig endet, oder
+    Verwalters vorzeitig endet,
 
 
 d)  die Masse groß war und die Geschäftsführung geringe Anforderungen an
-    den Verwalter stellte.
+    den Verwalter stellte,
+
+
+e)  die Vermögensverhältnisse des Schuldners überschaubar sind und die
+    Zahl der Gläubiger oder die Höhe der Verbindlichkeiten gering ist oder
+
+
+f)  der Schuldner in ein Koordinationsverfahren einbezogen ist, in dem ein
+    Verfahrenskoordinator nach § 269e der Insolvenzordnung bestellt worden
+    ist.
 
 
 
@@ -183,11 +199,16 @@ Masse zu zahlen.
 
 (2) Besondere Kosten, die dem Verwalter im Einzelfall, zum Beispiel
 durch Reisen, tatsächlich entstehen, sind als Auslagen zu erstatten.
+Für die Übertragung der Zustellungen im Sinne des § 8 Absatz 3 der
+Insolvenzordnung gilt Nummer 9002 des Kostenverzeichnisses zum
+Gerichtskostengesetz entsprechend.
 
 (3) Mit der Vergütung sind auch die Kosten einer
-Haftpflichtversicherung abgegolten. Ist die Verwaltung jedoch mit
-einem besonderen Haftungsrisiko verbunden, so sind die Kosten einer
-angemessenen zusätzlichen Versicherung als Auslagen zu erstatten.
+Haftpflichtversicherung mit einer Versicherungssumme bis zu 2 000 000
+Euro pro Versicherungsfall und mit einer Jahreshöchstleistung bis zu
+4 000 000 Euro abgegolten. Ist die Verwaltung mit einem darüber
+hinausgehenden Haftungsrisiko verbunden, so sind die Kosten einer
+entsprechend höheren Versicherung als Auslagen zu erstatten.
 
 
 ### § 5 Einsatz besonderer Sachkunde
@@ -240,7 +261,7 @@ Insolvenzverwaltung abgeschlossen worden sind (§ 4 Abs. 1 Satz 3).
 (3) Der Verwalter kann nach seiner Wahl anstelle der tatsächlich
 entstandenen Auslagen einen Pauschsatz fordern, der im ersten Jahr 15
 vom Hundert, danach 10 vom Hundert der Regelvergütung, höchstens
-jedoch 250 Euro je angefangenen Monat der Dauer der Tätigkeit des
+jedoch 350 Euro je angefangenen Monat der Dauer der Tätigkeit des
 Verwalters beträgt. Der Pauschsatz darf 30 vom Hundert der
 Regelvergütung nicht übersteigen.
 
@@ -256,42 +277,37 @@ hohe Auslagen erforderlich werden. Sind die Kosten des Verfahrens nach
 Vorschuss, sofern die Voraussetzungen nach Satz 2 gegeben sind.
 
 
-## Zweiter Abschnitt - Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters und des Treuhänders im vereinfachten Insolvenzverfahren
+## Zweiter Abschnitt - Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters und des Insolvenzverwalters im Verbraucherinsolvenzverfahren
 
 
 
 ### § 10 Grundsatz
 
-Für die Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters
-und des Treuhänders im vereinfachten Insolvenzverfahren gelten die
-Vorschriften des Ersten Abschnitts entsprechend, soweit in den §§ 11
-bis 13 nichts anderes bestimmt ist.
+Für die Vergütung des vorläufigen Insolvenzverwalters, des
+Sachwalters, des vorläufigen Sachwalters und des Insolvenzverwalters
+im Verbraucherinsolvenzverfahren gelten die Vorschriften des Ersten
+Abschnitts entsprechend, soweit in den §§ 11 bis 13 nichts anderes
+bestimmt ist.
 
 
 ### § 11 Vergütung des vorläufigen Insolvenzverwalters
 
-(1) Die Tätigkeit des vorläufigen Insolvenzverwalters wird besonders
-vergütet. Er erhält in der Regel 25 vom Hundert der Vergütung nach § 2
-Abs. 1 bezogen auf das Vermögen, auf das sich seine Tätigkeit während
-des Eröffnungsverfahrens erstreckt. Maßgebend für die Wertermittlung
-ist der Zeitpunkt der Beendigung der vorläufigen Verwaltung oder der
-Zeitpunkt, ab dem der Gegenstand nicht mehr der vorläufigen Verwaltung
-unterliegt. Vermögensgegenstände, an denen bei Verfahrenseröffnung
-Aus- oder Absonderungsrechte bestehen, werden dem Vermögen nach Satz 2
+(1) Für die Berechnung der Vergütung des vorläufigen
+Insolvenzverwalters ist das Vermögen zugrunde zu legen, auf das sich
+seine Tätigkeit während des Eröffnungsverfahrens erstreckt.
+Vermögensgegenstände, an denen bei Verfahrenseröffnung Aus- oder
+Absonderungsrechte bestehen, werden dem Vermögen nach Satz 1
 hinzugerechnet, sofern sich der vorläufige Insolvenzverwalter in
-erheblichem Umfang mit ihnen befasst. Eine Berücksichtigung erfolgt
-nicht, sofern der Schuldner die Gegenstände lediglich aufgrund eines
+erheblichem Umfang mit ihnen befasst. Sie bleiben unberücksichtigt,
+sofern der Schuldner die Gegenstände lediglich auf Grund eines
 Besitzüberlassungsvertrages in Besitz hat.
 
 (2) Wird die Festsetzung der Vergütung beantragt, bevor die von Absatz
-1 Satz 2 erfassten Gegenstände veräußert wurden, ist das
+1 Satz 1 erfassten Gegenstände veräußert wurden, ist das
 Insolvenzgericht spätestens mit Vorlage der Schlussrechnung auf eine
 Abweichung des tatsächlichen Werts von dem der Vergütung zugrunde
 liegenden Wert hinzuweisen, sofern die Wertdifferenz 20 vom Hundert
-bezogen auf die Gesamtheit dieser Gegenstände übersteigt. Bei einer
-solchen Wertdifferenz kann das Gericht den Beschluss bis zur
-Rechtskraft der Entscheidung über die Vergütung des
-Insolvenzverwalters ändern.
+bezogen auf die Gesamtheit dieser Gegenstände übersteigt.
 
 (3) Art, Dauer und der Umfang der Tätigkeit des vorläufigen
 Insolvenzverwalters sind bei der Festsetzung der Vergütung zu
@@ -315,22 +331,49 @@ Insolvenzordnung angeordnet hat, daß bestimmte Rechtsgeschäfte des
 Schuldners nur mit Zustimmung des Sachwalters wirksam sind.
 
 (3) § 8 Abs. 3 gilt mit der Maßgabe, daß an die Stelle des Betrags von
-250 Euro der Betrag von 125 Euro tritt.
+350 Euro der Betrag von 175 Euro tritt.
 
 
-### § 13 Vergütung des Treuhänders im vereinfachten Insolvenzverfahren
+### § 12a Vergütung des vorläufigen Sachwalters
 
-(1) Der Treuhänder erhält in der Regel 15 vom Hundert der
-Insolvenzmasse. Ein Zurückbleiben hinter dem Regelsatz ist
-insbesondere dann gerechtfertigt, wenn das vereinfachte
-Insolvenzverfahren vorzeitig beendet wird. Haben in dem Verfahren
-nicht mehr als 5 Gläubiger ihre Forderungen angemeldet, so soll die
-Vergütung in der Regel mindestens 600 Euro betragen. Von 6 bis zu 15
-Gläubigern erhöht sich die Vergütung für je angefangene 5 Gläubiger um
-150 Euro. Ab 16 Gläubiger erhöht sich die Vergütung je angefangene 5
-Gläubiger um 100 Euro.
+(1) Die Tätigkeit des vorläufigen Sachwalters wird gesondert vergütet.
+Er erhält in der Regel 25 Prozent der Vergütung des Sachwalters
+bezogen auf das Vermögen, auf das sich seine Tätigkeit während des
+Eröffnungsverfahrens erstreckt. Maßgebend für die Wertermittlung ist
+der Zeitpunkt der Beendigung der vorläufigen Eigenverwaltung oder der
+Zeitpunkt, ab dem der Gegenstand nicht mehr der Verfügungsbefugnis des
+eigenverwaltenden Schuldners unterliegt. Vermögensgegenstände, an
+denen bei Verfahrenseröffnung Aus- oder Absonderungsrechte bestehen,
+werden dem Vermögen nach Satz 2 hinzugerechnet, sofern sich der
+vorläufige Sachwalter in erheblichem Umfang mit ihnen befasst. Sie
+bleiben unberücksichtigt, sofern der Schuldner die Gegenstände
+lediglich aufgrund eines Besitzüberlassungsvertrages in Besitz hat.
 
-(2) §§ 2 und 3 finden keine Anwendung.
+(2) Wird die Festsetzung der Vergütung beantragt, bevor die von Absatz
+1 Satz 2 erfassten Gegenstände veräußert wurden, ist das
+Insolvenzgericht spätestens mit Vorlage der Schlussrechnung auf eine
+Abweichung des tatsächlichen Werts von dem der Vergütung zugrunde
+liegenden Wert hinzuweisen, sofern die Wertdifferenz 20 Prozent
+bezogen auf die Gesamtheit dieser Gegenstände übersteigt.
+
+(3) Art, Dauer und Umfang der Tätigkeit des vorläufigen Sachwalters
+sind bei der Festsetzung der Vergütung zu berücksichtigen.
+
+(4) Hat das Insolvenzgericht den vorläufigen Sachwalter als
+Sachverständigen gesondert beauftragt zu prüfen, ob ein
+Eröffnungsgrund vorliegt und welche Aussichten für eine Fortführung
+des Unternehmens des Schuldners bestehen, so erhält er gesondert eine
+Vergütung nach dem Justizvergütungs- und -entschädigungsgesetz.
+
+(5) § 12 Absatz 3 gilt entsprechend.
+
+
+### § 13 Vergütung des Insolvenzverwalters im Verbraucherinsolvenzverfahren
+
+Werden in einem Verfahren nach dem Neunten Teil der Insolvenzordnung
+die Unterlagen nach § 305 Absatz 1 Nummer 3 der Insolvenzordnung von
+einer geeigneten Person oder Stelle erstellt, ermäßigt sich die
+Vergütung nach § 2 Absatz 2 Satz 1 auf 1 120 Euro.
 
 
 ## Dritter Abschnitt - Vergütung des Treuhänders nach § 293 der Insolvenzordnung
@@ -347,10 +390,10 @@ beim Treuhänder eingehen.
 
 (2) Der Treuhänder erhält
 
-1.  von den ersten 25.000 Euro 5 vom Hundert,
+1.  von den ersten 35 000 Euro 5 vom Hundert,
 
 
-2.  von dem Mehrbetrag bis 50.000 Euro 3 vom Hundert und
+2.  von dem Mehrbetrag bis 70 000 Euro 3 vom Hundert und
 
 
 3.  von dem darüber hinausgehenden Betrag 1 vom Hundert.
@@ -358,17 +401,17 @@ beim Treuhänder eingehen.
 
 
 
-(3) Die Vergütung beträgt mindestens 100 Euro für jedes Jahr der
+(3) Die Vergütung beträgt mindestens 140 Euro für jedes Jahr der
 Tätigkeit des Treuhänders. Hat er die durch Abtretung eingehenden
 Beträge an mehr als 5 Gläubiger verteilt, so erhöht sich diese
-Vergütung je 5 Gläubiger um 50 Euro.
+Vergütung je 5 Gläubiger um 70 Euro.
 
 
 ### § 15 Überwachung der Obliegenheiten des Schuldners
 
 (1) Hat der Treuhänder die Aufgabe, die Erfüllung der Obliegenheiten
 des Schuldners zu überwachen (§ 292 Abs. 2 der Insolvenzordnung), so
-erhält er eine zusätzliche Vergütung. Diese beträgt regelmäßig 35 Euro
+erhält er eine zusätzliche Vergütung. Diese beträgt regelmäßig 50 Euro
 je Stunde.
 
 (2) Der Gesamtbetrag der zusätzlichen Vergütung darf den Gesamtbetrag
@@ -401,13 +444,13 @@ auf die Satz 2 entsprechend Anwendung findet.
 ### § 17 Berechnung der Vergütung
 
 (1) Die Vergütung der Mitglieder des Gläubigerausschusses beträgt
-regelmäßig zwischen 35 und 95 Euro je Stunde. Bei der Festsetzung des
-Stundensatzes ist insbesondere der Umfang der Tätigkeit zu
-berücksichtigen.
+regelmäßig zwischen 50 und 300 Euro je Stunde. Bei der Festsetzung des
+Stundensatzes sind insbesondere der Umfang der Tätigkeit und die
+berufliche Qualifikation des Ausschussmitglieds zu berücksichtigen.
 
 (2) Die Vergütung der Mitglieder des vorläufigen Gläubigerausschusses
-für die Erfüllung der ihm nach § 56 Absatz 2 und § 270 Absatz 3 der
-Insolvenzordnung zugewiesenen Aufgaben beträgt einmalig 300 Euro. Nach
+für die Erfüllung der ihm nach § 56a und § 270b Absatz 3 der
+Insolvenzordnung zugewiesenen Aufgaben beträgt einmalig 500 Euro. Nach
 der Bestellung eines vorläufigen Insolvenzverwalters oder eines
 vorläufigen Sachwalters richtet sich die weitere Vergütung nach Absatz
 1\.
@@ -441,6 +484,19 @@ I S. 3389) geltenden Vorschriften anzuwenden.
 sind, sind die Vorschriften dieser Verordnung in ihrer bis zum
 Inkrafttreten des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2582) am
 1\. März 2012 geltenden Fassung weiter anzuwenden.
+
+(4) Auf Insolvenzverfahren, die vor dem 1. Juli 2014 beantragt worden
+sind, sind die Vorschriften dieser Verordnung in ihrer bis zum
+Inkrafttreten des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379) am 1.
+Juli 2014 geltenden Fassung weiter anzuwenden.
+
+(5) Auf Insolvenzverfahren, die vor dem 1. Oktober 2020 beantragt
+worden sind, sind die Vorschriften dieser Verordnung in ihrer bis
+dahin geltenden Fassung weiter anzuwenden.
+
+(5) Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt
+worden sind, sind die bis zum 31. Dezember 2020 geltenden Vorschriften
+anzuwenden.
 
 
 ### § 20 Inkrafttreten

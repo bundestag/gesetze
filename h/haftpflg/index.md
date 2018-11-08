@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.1.1978 I 145;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.7.2002 I 2674
+:   Art. 9 G v. 17.7.2017 I 2421
 
 
 ## § 1
@@ -123,6 +123,14 @@ Schadensersatz zu leisten, als der Getötete während der mutmaßlichen
 Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen
 sein würde. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur
 Zeit der Verletzung gezeugt, aber noch nicht geboren war.
+
+(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der
+Verletzung zu dem Getöteten in einem besonderen persönlichen
+Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische
+Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes
+persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der
+Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des
+Getöteten war.
 
 
 ## § 6

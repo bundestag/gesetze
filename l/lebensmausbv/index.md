@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur
+Title: Verordnung über die Berufsausbildung zum Fachverkäufer im  Lebensmittelhandwerk/zur
   Fachverkäuferin im Lebensmittelhandwerk
 jurabk: LebensMAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: lebensmausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk (LebensMAusbV)
+# Verordnung über die Berufsausbildung zum Fachverkäufer im  Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk (LebensMAusbV)
 
 Ausfertigungsdatum
 :   2006-03-31
@@ -421,8 +421,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
 
 (Fundstelle: BGBl. I 2006, 607 - 613)
 

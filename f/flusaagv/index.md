@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 1989, 1809
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.12.2011 I 2802
+:   Art. 1 V v. 17.12.2020 I 3015
+
+Änderung durch
+:   Art. 1 V v. 9.8.2021 I 3568 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 V v. 21.12.2021 I 5254 (Nr. 86) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -33,81 +39,73 @@ Bundesminister für Wirtschaft verordnet:
 
 (1) Für die Inanspruchnahme von Diensten und Einrichtungen der
 Flugsicherung durch Luftfahrzeuge beim An- und Abflug an den Flughäfen
-Berlin-Schönefeld, Berlin-Tegel, Bremen, Dresden, Düsseldorf, Erfurt,
-Frankfurt, Hamburg, Hannover, Köln/Bonn, Leipzig, München,
+Berlin Brandenburg, Bremen, Dresden, Düsseldorf, Erfurt-Weimar,
+Frankfurt Main, Hamburg, Hannover, Köln/Bonn, Leipzig/Halle, München,
 Münster/Osnabrück, Nürnberg, Saarbrücken und Stuttgart werden Kosten
-(Gebühren und Auslagen) erhoben.
+(Gebühren und Auslagen) erhoben (Gebührenbereich 1).
 
-(2) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu
-erhebenden Auslagen ist die auf die Kosten nach Absatz 1 entfallende,
-gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
+(1a) Ferner werden für die Inanspruchnahme von Diensten und
+Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und
+Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bautzen, Bayreuth,
+Braunschweig-Wolfsburg, Coburg-Brandensteinsebene, Donaueschingen-
+Villingen, Donauwörth HEL, Dortmund, Eggenfelden, Emden, Frankfurt-
+Hahn, Friedrichshafen, Giebelstadt, Hamburg-Finkenwerder, Hassfurt-
+Schweinfurt, Heringsdorf, Hof-Plauen, Karlsruhe/ Baden-Baden, Kassel-
+Calden, Kiel-Holtenau, Lahr, Leipzig-Altenburg Airport, Lübeck-
+Blankensee, Magdeburg/City, Mannheim City, Memmingen, Mengen-
+Hohentengen, Mönchengladbach, Neubrandenburg, Niederrhein,
+Oberpfaffenhofen, Paderborn/Lippstadt, Schönhagen, Schwäbisch Hall,
+Siegerland, Straubing, Strausberg, Sylt, Wilhelmshaven Jadeweser
+Airport und Zweibrücken Kosten (Gebühren und Auslagen) erhoben
+(Gebührenbereich 2).
+
+(1b) Die Art des notwendigen Flugsicherungsdienstes bestimmt sich nach
+der Anlage.
+
+(2) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis
+zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist die
+auf die Kosten nach den Absätzen 1 und 1a entfallende, gesetzlich
+geschuldete Umsatzsteuer hinzuzurechnen.
 
 (3) An- und Abflug sowie wiederholte Durchstartanflüge gelten als eine
-einzige Inanspruchnahme. Zähleinheit ist der Abflug.
+einzige Inanspruchnahme. Zähleinheit des Gebührenbereichs 1 ist der
+Abflug. Zähleinheit des Gebührenbereichs 2 ist die Landung.
 
 
 ## § 2
 
-(1) Die Gebühr für eine Inanspruchnahme durch ein Luftfahrzeug wird
-berechnet nach der Formel
+(1) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
+im Gebührenbereich 1 beträgt ab 1. Januar 2022 218,05 Euro. Die
+Berechnung des Gebührensatzes für die Flughäfen des Gebührenbereichs 1
+sowie der daraus resultierenden Gebühr richtet sich nach der
+Durchführungsverordnung (EU) 2019/317 der Kommission vom 11. Februar
+2019 zur Festlegung eines Leistungssystems und einer Gebührenregelung
+für den einheitlichen europäischen Luftraum und zur Aufhebung der
+Durchführungsverordnungen (EU) Nr. 390/2013 und (EU) Nr. 391/2013
+(ABl. L 56 vom 25.2.2019, S. 1).
 
-*    *   R = t · p
-
-
-
-(R = Gebühr, t = Gebührensatz, p = Gewichtsfaktor des Luftfahrzeuges).
-
-(2) Der Gewichtsfaktor entspricht dem auf zwei Dezimalstellen
-berechneten Quotienten aus der durch 50 geteilten Zahl, die das in
-Tonnen ausgedrückte, im Lufttüchtigkeitszeugnis oder in einem anderen
-vom Luftfahrzeughalter vorgelegten, gleichwertigen amtlichen Dokument
-eingetragene, zulässige Starthöchstgewicht des Luftfahrzeuges angibt,
-potenziert mit 0,7:
-
-*    *   p =
-
-    *   (
-
-    *   maximal zulässiges
-        *Starthöchstgewicht in Tonnen*
-        50
-
-    *   )
-
-    *   0,7
-
-
-
-Ist das in Satz 1 genannte zulässige Starthöchstgewicht unbekannt,
-wird der Gewichtsfaktor unter Zugrundelegung des zulässigen
-Starthöchstgewichtes der schwersten Ausführung berechnet, die von
-diesem Luftfahrzeugtyp bekannt ist. Sind für ein Luftfahrzeug mehrere
-zulässige Starthöchstgewichte eingetragen, wird das höchste
-Starthöchstgewicht herangezogen. Betreibt ein Luftfahrzeughalter
-mehrere Luftfahrzeuge, bei denen es sich um verschiedene Ausführungen
-desselben Typs handelt, wird der Gewichtsfaktor für jedes Luftfahrzeug
-dieses Typs auf der Grundlage des Durchschnitts der
-Starthöchstgewichte aller seiner Luftfahrzeuge dieses Typs bestimmt.
-Die Berechnung dieses Faktors pro Luftfahrzeugtyp und
-Luftfahrzeughalter erfolgt mindestens einmal jährlich. Bei
-Luftschiffen wird der Gewichtsfaktor unter Zugrundelegung des
-maximalen Fluggewichtes berechnet.
-
-(3) Der Gebührensatz entspricht der Anzahl der für das betreffende
-Jahr geschätzten gebührenpflichtigen An- und Abflug-
-Dienstleistungseinheiten, geteilt durch die voraussichtlichen
-Flugsicherungskosten. Die geschätzten Kosten enthalten den Saldo aus
-der Über- oder Unterzahlung der Vorjahre.
-
-(4) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-beträgt ab 1. Januar 2012 171,29 Euro.
+(2) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
+im Gebührenbereich 2 beträgt ab 1. Januar 2022 218,05 Euro. Zur
+Ermittlung des Gebührensatzes wird die algebraische Differenz aus den
+durch das Bundesaufsichtsamt für Flugsicherung anerkannten geplanten
+Kosten für die Flugsicherung an den Flugplätzen des Gebührenbereichs 2
+für das betreffende Kalenderjahr einerseits und den finanziellen
+Leistungen des Bundes zur Unterstützung der Erbringung von
+gebührenfinanzierten Flugsicherungsleistungen an den Flugplätzen des
+Gebührenbereichs 2 für das betreffende Kalenderjahr andererseits durch
+die gemäß Anhang VIII Nummer 2 der Durchführungsverordnung (EU)
+2019/317 berechnete voraussichtliche Gesamtzahl der An- und
+Abflugdiensteinheiten für das betreffende Kalenderjahr geteilt. Die
+Gebühr für die einzelne Inanspruchnahme entspricht dem Produkt aus dem
+Gebührensatz nach Satz 1 und der An- und Abflugdiensteinheit gemäß
+Anhang VIII Nummer 2 der Durchführungsverordnung (EU) 2019/317 für
+diese Inanspruchnahme.
 
 
 ## § 3
 
-Kostenschuldner ist der Halter des Luftfahrzeuges zum Zeitpunkt der
-Inanspruchnahme. Ist der Halter nicht bekannt, haftet der Eigentümer
-des Luftfahrzeuges.
+Kostenschuldner ist der Luftraumnutzer im Sinne des Artikels 2 Nummer
+5 der Durchführungsverordnung (EU) 2019/317.
 
 
 ## § 4
@@ -142,7 +140,134 @@ Der Bundesrat hat zugestimmt.
 Der Bundesminister für Verkehr
 
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
+## Anlage (zu § 1 Absatz 1b)
+
+(Fundstelle: BGBl. I 2021, S. 3569)
+
+
+1.  **Flugplätze, an denen Flugverkehrskontrolldienst notwendig ist:**
+
+    Augsburg
+
+    Berlin Brandenburg
+
+    Braunschweig-Wolfsburg
+
+    Bremen
+
+    Dortmund
+
+    Dresden
+
+    Düsseldorf
+
+    Erfurt-Weimar
+
+    Frankfurt-Hahn
+
+    Frankfurt Main
+
+    Friedrichshafen
+
+    Hamburg
+
+    Hamburg-Finkenwerder
+
+    Hannover
+
+    Heringsdorf
+
+    Hof-Plauen
+
+    Karlsruhe/Baden-Baden
+
+    Kassel-Calden
+
+    Köln/Bonn
+
+    Lahr
+
+    Leipzig/Halle
+
+    Lübeck-Blankensee
+
+    Mannheim City
+
+    Memmingen
+
+    Mönchengladbach
+
+    München
+
+    Münster/Osnabrück
+
+    Niederrhein
+
+    Nürnberg
+
+    Oberpfaffenhofen
+
+    Paderborn/Lippstadt
+
+    Saarbrücken
+
+    Stuttgart
+
+    Sylt
+
+
+2.  **Flugplätze, an denen Flugplatzinformationsdienst notwendig ist:**
+
+    Allendorf/Eder
+
+    Bautzen
+
+    Bayreuth
+
+    Coburg-Brandensteinsebene
+
+    Donaueschingen-Villingen
+
+    Donauwörth HEL
+
+    Eggenfelden
+
+    Emden
+
+    Giebelstadt
+
+    Hassfurt-Schweinfurt
+
+    Kiel-Holtenau
+
+    Leipzig-Altenburg Airport
+
+    Magdeburg/City
+
+    Mengen-Hohentengen
+
+    Neubrandenburg
+
+    Schönhagen
+
+    Schwäbisch Hall
+
+    Siegerland
+
+    Straubing
+
+    Strausberg
+
+    Wilhelmshaven Jadeweser Airport
+
+    Zweibrücken
+
+
+
+
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
+
+## Anhang EV (BGBl. II 1990, 889, 1106)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2091
 
 Zuletzt geändert durch
-:   § 56 Abs. 39 V v. 12.2.2009 I 284
+:   Art. 9 G v. 20.8.2021 I 3932
 
 
 ## -
@@ -61,116 +61,6 @@ Die folgenden Bestimmungen gelten für
 
 
 
-
-
-## § 2 Laufbahnrechtliche Regelungen
-
-(1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten können
-abweichend von § 7 Abs. 1 Nr. 3 Buchstabe b, § 11 Abs. 1 Nr. 2 und §
-19 des Bundesbeamtengesetzes nach Maßgabe der folgenden Bestimmungen
-in ein Beamtenverhältnis berufen werden:
-
-1.  Berufssoldaten der Laufbahngruppe der Unteroffiziere können zu einer
-    Laufbahn des mittleren Dienstes zugelassen werden. Berufssoldaten der
-    Laufbahngruppe der Offiziere können, wenn sie mindestens den
-    Dienstgrad Major erreicht haben, zu einer Laufbahn des höheren
-    Dienstes, die übrigen zu einer Laufbahn des gehobenen Dienstes
-    zugelassen werden.
-
-
-2.  Die Berufssoldaten erwerben eine eingeschränkte Laufbahnbefähigung
-    durch Unterweisung. Die Dauer der Unterweisung soll in Laufbahnen
-
-
-
-
-*    *   - des mittleren Dienstes
-
-    *   sechs Monate,
-
-
-*    *   - des gehobenen Dienstes
-
-    *   neun Monate,
-
-
-*    *   - des höheren Dienstes
-
-    *   zwölf Monate
-
-
-
-
-*   nicht unterschreiten.
-
-
-3.  Die für die Gestaltung der Laufbahn zuständige oberste Dienstbehörde
-    trifft im Einvernehmen mit dem Bundesminister des Innern Regelungen
-    für die Unterweisung, die einen Lehrgang von angemessener Dauer
-    umfassen soll, und für die Feststellung ihres erfolgreichen
-    Abschlusses. In der Feststellung ist auch die Reichweite der
-    eingeschränkten Laufbahnbefähigung zu bezeichnen.
-
-
-4.  Die Berufssoldaten werden spätestens drei Monate nach Beginn der
-    Unterweisung in das Beamtenverhältnis auf Probe berufen. Dabei wird
-    ein Amt verliehen, das dem zuletzt erreichten Dienstgrad entspricht;
-    höchstens kann jedoch in Laufbahnen
-
-    -   des mittleren Dienstes ein Amt der Besoldungsgruppe A 8,
-
-
-    -   des gehobenen Dienstes ein Amt der Besoldungsgruppe A 12,
-
-
-    -   des höheren Dienstes ein Amt der Besoldungsgruppe A 15
-
-
-
-
-    der Besoldungsordnung A verliehen werden. Wird die Unterweisung nicht
-    erfolgreich abgeschlossen, ist der Beamte zu entlassen. § 34 des
-    Bundesbeamtengesetzes ist entsprechend anzuwenden.
-
-
-5.  Nach der Feststellung der eingeschränkten Laufbahnbefähigung erfolgt
-    die Berufung in das Beamtenverhältnis auf Lebenszeit.
-
-
-6.  Die eingeschränkte Laufbahnbefähigung kann nach einer
-    Mindestbewährungszeit von einem Jahr nach Erwerb der Befähigung durch
-    Teilnahme an einer Einführung, die in Laufbahnen
-
-    -   des mittleren Dienstes ein Jahr,
-
-
-    -   des gehobenen Dienstes ein Jahr und sechs Monate,
-
-
-    -   des höheren Dienstes zwei Jahre
-
-
-
-
-    beträgt, ergänzt werden. Nummer 3 gilt entsprechend. Die Feststellung,
-    ob die Einführung erfolgreich abgeschlossen ist, trifft der
-    Bundespersonalausschuß oder ein von ihm zu bestimmender unabhängiger
-    Ausschuß auf Antrag der obersten Dienstbehörde.
-
-
-7.  Berufssoldaten, die auf Grund einer einschlägigen Vor- und Ausbildung
-    die für den Regelzugang zu einer bestimmten Laufbahn vorgeschriebenen
-    Anforderungen erfüllen, werden unmittelbar in das Beamtenverhältnis
-    auf Lebenszeit berufen. Nummer 4 Satz 2 erster Halbsatz gilt
-    entsprechend. Die nach § 12 Abs. 5 und 6 der Bundeslaufbahnverordnung
-    vorgeschriebene Mindestbewährungszeit gilt als geleistet, soweit
-    Dienstzeiten in entsprechenden Dienstgraden und von entsprechender
-    Dauer zurückgelegt worden sind.
-
-
-
-
-(2) (weggefallen)
 
 
 ## § 2 Laufbahnrechtliche Regelungen
@@ -351,7 +241,7 @@ Dienst bis zum ersten Werktag des dritten Monats nach Beendigung des
 Soldatenverhältnisse erfolgt. Satz 1 gilt nicht für Hinterbliebene.
 
 
-## Art 2 -
+## Art 2 - 
 
 
 

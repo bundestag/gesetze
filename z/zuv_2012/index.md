@@ -985,8 +985,9 @@ entgegen § 3 Abs. 2 Satz 1 eine Angabe nicht richtig macht.
 
 Diese Verordnung tritt am 18. August 2007 in Kraft.
 
+(zu den §§ 4 und 5)
 
-### Anhang 1 (zu den §§ 4 und 5) Einheitliche Stoffwerte für Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte für Brennstoffe, Rohstoffe und Produkte
+### Anhang 1 Einheitliche Stoffwerte für Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte für Brennstoffe, Rohstoffe und Produkte
 
 ( Fundstelle: BGBl. I 2007, 1949 - 1955 )
 
@@ -1495,8 +1496,9 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
     Berlin, erschienen und beim Deutschen Patent- und Markenamt in München
     archivmäßig gesichert und niedergelegt.
 [^F759746_01_BJNR194100007BJNE002500000]: 
+(zu § 5 Abs. 3)
 
-### Anhang 2 (zu § 5 Abs. 3) Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
+### Anhang 2 Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
 
 ( Fundstelle: BGBl. I 2007, 1951 )
 ## Formel
@@ -1517,8 +1519,9 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 
+(zu § 9)
 
-### Anhang 3 (zu § 9) Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
+### Anhang 3 Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
 
 ( Fundstelle: BGBl. I 2007, 1952 )
 ## Formel 1
@@ -1643,8 +1646,9 @@ konstantem Inertgasanteil von 79,07 Volumenprozent.
 
 
 
+(zu § 19)
 
-### Anhang 4 (zu § 19) Berechnungsvorschriften für Abzug und Hinzurechnung der Kuppelgasemissionen
+### Anhang 4 Berechnungsvorschriften für Abzug und Hinzurechnung der Kuppelgasemissionen
 
 (Fundstelle: BGBl. I 2007, 1953;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2376
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.12.2010 I 1885
+:   Art. 42 G v. 20.11.2019 I 1626
 
 
 ## Teil 1 - Allgemeines zur Förderung
@@ -837,16 +837,7 @@ Ehegatten ist nicht zulässig.
     Unterhaltsvorschussgesetz,
 
 
-5.2 die nach § 3 Nr. 48 des Einkommensteuergesetzes steuerfreien
-
-    a)  allgemeinen Leistungen nach § 5 des Unterhaltssicherungsgesetzes,
-
-
-    b)  Leistungen für Grundwehrdienst leistende Sanitätsoffiziere nach § 12a
-        des Unterhaltssicherungsgesetzes,
-
-
-
+5.2 (weggefallen)
 
 
 5.3 (weggefallen)
@@ -921,8 +912,8 @@ Ehegatten ist nicht zulässig.
     gezahlt werden,
 
 
-7.1 die Leistungen zur Sicherung des Lebensunterhalts nach den §§ 19 bis
-    22 und 28 des Zweiten Buches Sozialgesetzbuch,
+7.1 das Arbeitslosengeld II und das Sozialgeld nach § 19 Absatz 1 des
+    Zweiten Buches Sozialgesetzbuch,
 
 
 7.2 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des
@@ -930,7 +921,7 @@ Ehegatten ist nicht zulässig.
 
 
 7.3 die Leistungen der Grundsicherung im Alter und bei Erwerbsminderung
-    nach § 42 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch mit
+    nach § 42 Nummer 1, 2 und 4 des Zwölften Buches Sozialgesetzbuch mit
     Ausnahme der Leistungen für einmalige Bedarfe,
 
 
@@ -1445,20 +1436,34 @@ getroffen werden, hat sich der Förderempfänger der sofortigen
 Vollstreckung nach § 61 des Verwaltungsverfahrensgesetzes oder nach
 entsprechenden landesrechtlichen Vorschriften zu unterwerfen.
 
-(2) Die zuständige Stelle hat über die Wohnungen, ihre Nutzung, die
-jeweiligen Mieter und Vermieter sowie über die Belegungsrechte und die
-höchstzulässigen Mieten im Sinne des § 3 Abs. 3 bis 5 des
-Bundesdatenschutzgesetzes oder entsprechender landesrechtlicher
-Vorschriften Daten zu erheben, zu verarbeiten und zu nutzen, soweit
-dies zur Sicherung der Zweckbestimmung der Wohnungen und der sonstigen
-Bestimmungen der Förderzusage erforderlich ist. Der Vermieter und der
-Mieter sind verpflichtet, der zuständigen Stelle auf Verlangen
-Auskunft zu erteilen und Einsicht in ihre Unterlagen zu gewähren und
-ihr die Besichtigung von Grundstücken, Gebäuden und Wohnungen zu
-gestatten, soweit dies zur Sicherung der Zweckbestimmung der Wohnungen
-und der sonstigen Bestimmungen der Förderzusage erforderlich ist.
-Durch Satz 2 wird das Grundrecht der Unverletzlichkeit der Wohnung
-(Artikel 13 des Grundgesetzes) eingeschränkt.
+(2) Die zuständige Stelle darf Daten hinsichtlich
+
+1.  Wohnungen,
+
+
+2.  der Nutzung von Wohnungen,
+
+
+3.  der jeweiligen Mieter und Vermieter,
+
+
+4.  der Belegungsrechte und
+
+
+5.  der höchstzulässigen Mieten
+
+
+
+verarbeiten, soweit dies zur Sicherung der Zweckbestimmung der
+Wohnungen und der sonstigen Bestimmungen der Förderzusage erforderlich
+ist. Der Vermieter und der Mieter sind verpflichtet, der zuständigen
+Stelle auf Verlangen Auskunft zu erteilen und Einsicht in ihre
+Unterlagen zu gewähren und ihr die Besichtigung von Grundstücken,
+Gebäuden und Wohnungen zu gestatten, soweit dies zur Sicherung der
+Zweckbestimmung der Wohnungen und der sonstigen Bestimmungen der
+Förderzusage erforderlich ist. Durch Satz 2 wird das Grundrecht der
+Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes)
+eingeschränkt.
 
 (3) Der Vermieter hat der zuständigen Stelle die Veräußerung von
 belegungs- oder mietgebundenen Wohnungen und die Begründung von

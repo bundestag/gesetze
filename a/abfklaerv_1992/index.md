@@ -2,7 +2,7 @@
 Title: Klärschlammverordnung
 jurabk: AbfKlärV 1992
 layout: default
-origslug: abfkl_rv_1992
+origslug: abfklaerv_1992
 slug: abfklaerv_1992
 
 ---

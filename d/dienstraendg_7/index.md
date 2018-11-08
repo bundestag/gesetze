@@ -2,7 +2,7 @@
 Title: Siebentes Gesetz zur Änderung dienstrechtlicher Vorschriften
 jurabk: DienstRÄndG 7
 layout: default
-origslug: dienstr_ndg_7
+origslug: dienstraendg_7
 slug: dienstraendg_7
 
 ---

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 1065
 
-Geändert durch
-:   Art. 68 G v. 5.10.1994 I 2911
+Zuletzt geändert durch
+:   Art. 215 V v. 19.6.2020 I 1328
 
 
 ## Erster Abschnitt - Vor dem 9. Mai 1945 errichtete, nicht mehr bestehende öffentliche Rechtsträger mit Sitz im Geltungsbereich dieses Gesetzes
@@ -440,10 +440,10 @@ Berechtigten oder dessen Erben auszukehren. In den Fällen der Sätze 1
 und 2 verbleibt es wegen der über den abgetretenen Teil hinausgehenden
 Ansprüche bei § 77 Abs. 1 des in Satz 1 bezeichneten, auch im übrigen
 unberührt bleibenden Gesetzes. Die Bundesminister der Finanzen und des
-Innern werden ermächtigt, durch Rechtsverordnung mit Zustimmung des
-Bundesrates das Nähere zur Durchführung der Sätze 1 und 2, und zwar zu
-Satz 2 im Einvernehmen mit dem Bundesminister für Arbeit und
-Sozialordnung, zu regeln.
+Innern, für Bau und Heimat werden ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates das Nähere zur Durchführung der Sätze 1
+und 2, und zwar zu Satz 2 im Einvernehmen mit dem Bundesminister für
+Arbeit und Sozialordnung, zu regeln.
 
 (4) Ansprüche der unter § 9 Abs. 1 Nr. 1 fallenden Personen auf
 Zahlung von Renten können nur für die Zeit vom Ersten des Monats ab
@@ -813,22 +813,23 @@ des Bestandes der Vermögensgegenstände in die treuhänderische
 Verwaltung des Bundes über. Dies gilt nicht für Vermögensgegenstände,
 über die nach dem 8. Mai 1945 rechtswirksam verfügt worden ist. Rechte
 Dritter bleiben unberührt. Im Geltungsbereich dieses Gesetzes vertritt
-der Bundesminister des Innern die Gebietskörperschaften gerichtlich
-und außergerichtlich. Er kann mit der Verwaltung eine ihm
-nachgeordnete Dienststelle oder eine seiner Aufsicht unterstehende
-juristische Person des öffentlichen Rechts oder, im Einvernehmen mit
-der vorgesetzten obersten Dienstbehörde oder der zuständigen
-Aufsichtsbehörde, eine andere Bundesdienststelle oder juristische
-Person des öffentlichen Rechts beauftragen. Über Vermögensgegenstände
-(Satz 1), die der treuhänderischen Verwaltung des Bundes unterliegen,
-darf nicht zum Zwecke der Erfüllung von Verbindlichkeiten der
-Gebietskörperschaften verfügt werden; der Bundesminister des Innern
-und die von ihm beauftragten Dienststellen oder juristischen Personen
-des öffentlichen Rechts sind jedoch berechtigt, alle Handlungen
-vorzunehmen, die zur ordnungsmäßigen Verwaltung erforderlich sind. Die
-Vorschriften dieses Gesetzes finden mit Ausnahme des § 3 Abs. 3, Abs.
-4 Satz 1 und Abs. 6 und der §§ 5, 23 und 26, die sinngemäß gelten,
-keine Anwendung. Absatz 1 Satz 4 gilt entsprechend.
+der Bundesminister des Innern, für Bau und Heimat die
+Gebietskörperschaften gerichtlich und außergerichtlich. Er kann mit
+der Verwaltung eine ihm nachgeordnete Dienststelle oder eine seiner
+Aufsicht unterstehende juristische Person des öffentlichen Rechts
+oder, im Einvernehmen mit der vorgesetzten obersten Dienstbehörde oder
+der zuständigen Aufsichtsbehörde, eine andere Bundesdienststelle oder
+juristische Person des öffentlichen Rechts beauftragen. Über
+Vermögensgegenstände (Satz 1), die der treuhänderischen Verwaltung des
+Bundes unterliegen, darf nicht zum Zwecke der Erfüllung von
+Verbindlichkeiten der Gebietskörperschaften verfügt werden; der
+Bundesminister des Innern, für Bau und Heimat und die von ihm
+beauftragten Dienststellen oder juristischen Personen des öffentlichen
+Rechts sind jedoch berechtigt, alle Handlungen vorzunehmen, die zur
+ordnungsmäßigen Verwaltung erforderlich sind. Die Vorschriften dieses
+Gesetzes finden mit Ausnahme des § 3 Abs. 3, Abs. 4 Satz 1 und Abs. 6
+und der §§ 5, 23 und 26, die sinngemäß gelten, keine Anwendung. Absatz
+1 Satz 4 gilt entsprechend.
 
 (4) Die in den Absätzen 1 und 3 bezeichneten Vermögensgegenstände, die
 Kulturgüter sind, insbesondere Archiv-, Bibliotheks-, Museumsbestände
@@ -838,9 +839,9 @@ Vermögensgegenstände in die treuhänderische Verwaltung der Stiftung
 Preußischer Kulturbesitz über. Im übrigen gelten die Vorschriften der
 Absätze 1 und 3 entsprechend mit der Maßgabe, daß diese
 treuhänderische Verwaltung über einzelne Kulturgüter auch dann endet,
-wenn sie auf Grund einer Entscheidung des Bundesministers des Innern
-an Personen oder Stellen in der Deutschen Demokratischen Republik oder
-in Berlin (Ost) übertragen werden.
+wenn sie auf Grund einer Entscheidung des Bundesministers des Innern,
+für Bau und Heimat an Personen oder Stellen in der Deutschen
+Demokratischen Republik oder in Berlin (Ost) übertragen werden.
 
 (5) Unbeschadet des Absatzes 1 gehen die im Geltungsbereich dieses
 Gesetzes belegenen Vermögensgegenstände, die von Körperschaften,

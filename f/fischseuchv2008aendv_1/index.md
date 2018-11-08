@@ -2,7 +2,7 @@
 Title: Erste Verordnung zur Änderung der Fischseuchenverordnung
 jurabk: FischSeuchV2008ÄndV 1
 layout: default
-origslug: fischseuchv2008_ndv_1
+origslug: fischseuchv2008aendv_1
 slug: fischseuchv2008aendv_1
 
 ---

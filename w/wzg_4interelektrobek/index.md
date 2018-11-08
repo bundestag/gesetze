@@ -38,6 +38,5 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-(Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
 Fundstelle: BGBl. I 1979, 422 - 423)
-
+![bgbl1_1979_j0422_0010.jpg](bgbl1_1979_j0422_0010.jpg)![bgbl1_1979_j0423_0010.jpg](bgbl1_1979_j0423_0010.jpg)

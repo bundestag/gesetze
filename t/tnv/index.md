@@ -15,6 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 141
 
+Zuletzt geändert durch
+:   Art. 4 Abs. 105 G v. 18.7.2016 I 1666
+
+Änderung durch
+:   Art. 43 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 121 G v. 10.8.2021 I 3436 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
+
 
 ## Eingangsformel
 
@@ -107,9 +119,9 @@ Das Nummerierungskonzept soll insbesondere enthalten:
 (1) Die Bundesnetzagentur kann den Nummernplan ganz oder teilweise mit
 Wirkung für die Zukunft ändern, soweit dies der Erreichung der Ziele
 der Regulierung nach § 2 Abs. 2 des Telekommunikationsgesetzes dient
-und unter Berücksichtigung der Belange im Sinne des § 66 Abs. 4 Satz 3
-des Telekommunikationsgesetzes erforderlich ist. Die Änderungen sollen
-sich an dem Nummerierungskonzept orientieren.
+und unter Berücksichtigung der Belange im Sinne des § 108 Absatz 6
+Satz 3 des Telekommunikationsgesetzes erforderlich ist. Die Änderungen
+sollen sich an dem Nummerierungskonzept orientieren.
 
 (2) Bei Änderungen nach Absatz 1 entscheidet die Bundesnetzagentur
 unter Berücksichtigung der in Absatz 1 Satz 1 genannten Kriterien
@@ -260,8 +272,8 @@ ablehnen,
 
     b)  die Einhaltung gesetzlicher Vorschriften und der von ihr erteilten
         Bedingungen für die Nutzung von Nummern sicherzustellen; dies gilt
-        insbesondere, wenn in der Vergangenheit Anordnungen nach § 67 Abs. 1
-        des Telekommunikationsgesetzes ergangen sind,
+        insbesondere, wenn in der Vergangenheit Anordnungen nach § 123 Absatz
+        1 des Telekommunikationsgesetzes ergangen sind,
 
 
 
@@ -315,9 +327,9 @@ Zuteilungsnehmer dies den betroffenen Empfängern abgeleiteter
 Zuteilungen unverzüglich schriftlich mitzuteilen; er kann ihnen in
 diesem Fall auch ohne deren Einverständnis eine andere Nummer
 zuteilen. Diese Rechte und Pflichten gehen bei Rufnummernmitnahmen
-nach § 46 des Telekommunikationsgesetzes auf den neuen Anbieter über.
+nach § 59 des Telekommunikationsgesetzes auf den neuen Anbieter über.
 Sofern eine Entscheidung im Sinne des Satzes 2 nicht durch eine
-Allgemeinverfügung ergangen ist, hat bei Rufnummernmitnahmen nach § 46
+Allgemeinverfügung ergangen ist, hat bei Rufnummernmitnahmen nach § 59
 des Telekommunikationsgesetzes der originäre Zuteilungsnehmer die
 Änderungen dem neuen Anbieter unverzüglich schriftlich mitzuteilen.
 
@@ -337,8 +349,9 @@ hinnehmen.
 
 (4) Für eine abgeleitete Zuteilung darf der originäre Zuteilungsnehmer
 nur die mit der Zuteilung verbundenen anteiligen Kosten nach Maßgabe
-der Telekommunikations-Nummerngebührenverordnung in der jeweils
-geltenden Fassung verlangen.
+des Bundesgebührengesetzes und der Besonderen Gebührenverordnung des
+Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des
+Bundesgebührengesetzes verlangen.
 
 (5) Nummern, die vor dem 1. Januar 1998 vom Anbieter vergeben wurden,
 gelten als abgeleitet zugeteilt.
@@ -351,7 +364,7 @@ genutzt werden, sind unverzüglich durch schriftliche Erklärung
 gegenüber der Bundesnetzagentur zurückzugeben.
 
 (2) Direkte und originäre Nummernzuteilungen können von der
-Bundesnetzagentur außer in den Fällen des § 66 Abs. 2 des
+Bundesnetzagentur außer in den Fällen des § 108 Absatz 3 des
 Telekommunikationsgesetzes, des § 3 Abs. 2 dieser Verordnung und des §
 49 Abs. 2 des Verwaltungsverfahrensgesetzes auch widerrufen werden,
 wenn
@@ -377,7 +390,7 @@ wenn
 Vertragsverhältnisses über die Bereitstellung des
 Telekommunikationsdienstes, dem die Nummer zugeordnet war, an den
 originären Zuteilungsnehmer zurück, es sei denn, dass sie nach Maßgabe
-von § 46 des Telekommunikationsgesetzes bei einem Wechsel des
+von § 59 des Telekommunikationsgesetzes bei einem Wechsel des
 Anbieters beibehalten wird.
 
 (4) Soweit die Bundesnetzagentur nicht für bestimmte Nummernarten im
@@ -398,7 +411,7 @@ entsprechende Funktion erbracht wird.
 Die Bundesnetzagentur kann Anbieter von öffentlichen
 Telekommunikationsdiensten verpflichten, für einzelne Nummernräume,
 Nummernbereiche oder Nummernteilbereiche Auskunft über Schaltung,
-Rufnummernmitnahme nach § 46 des Telekommunikationsgesetzes und
+Rufnummernmitnahme nach § 59 des Telekommunikationsgesetzes und
 Abschaltung von Nummern zu erteilen. Die Auskunftsverpflichtung
 erstreckt sich nicht auf personenbezogene Daten. An Stelle der
 Erteilung einer Auskunft kann die Bundesnetzagentur Anbieter von
@@ -413,7 +426,7 @@ wird nicht gewährt.
 
 ## § 11 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 149 Abs. 1 Nr. 13 des
+Ordnungswidrig im Sinne des § 228 Absatz 2 Nummer 6 des
 Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  ohne Zuteilung nach § 4 Abs. 1 eine Nummer nutzt,

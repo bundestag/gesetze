@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 24.3.1987 I 1045
 
 Zuletzt geändert durch
-:   Art. 5 G v. 21.7.2012 I 1613
+:   Art. 2 V v. 21.12.2016 I 3076
+
+Änderung durch
+:   Art. 25 Abs. 2 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
@@ -54,21 +57,25 @@ Steuerrecht sowie nach anderen Vorschriften unberührt.
 Abschnitts des Dritten Buchs des Handelsgesetzbuchs sind, brauchen
 auch für Zwecke des Handelsrechts bei der Aufstellung, Feststellung
 und Offenlegung ihres Jahresabschlusses nach dem Handelsgesetzbuch die
-Gliederungsvorschriften der §§ 266, 268 Abs. 2 und § 275 des
-Handelsgesetzbuchs nicht anzuwenden. Sehen sie von der Anwendung ab,
-so haben sie bei der Aufstellung, Feststellung und Offenlegung die
-Bilanz nach Anlage 1, die Gewinn- und Verlustrechnung nach Anlage 2
-und den Anlagennachweis nach Anlage 3 zu gliedern. Die im
+Gliederungsvorschriften der §§ 266 und 275 des Handelsgesetzbuchs
+nicht anzuwenden. Nehmen die Krankenhäuser nach Satz 1 das Wahlrecht
+nach Satz 1 in Anspruch, so haben sie bei der Aufstellung,
+Feststellung und Offenlegung die Bilanz nach Anlage 1, die Gewinn- und
+Verlustrechnung nach Anlage 2 und den Anlagennachweis nach Anlage 3 zu
+gliedern. Nehmen die Krankenhäuser nach Satz 1 das Wahlrecht nach Satz
+1 nicht in Anspruch, haben sie außerhalb des handelsrechtlichen
+Jahresabschlusses zusätzlich gesonderte Dokumente bestehend aus den in
+Satz 2 näher bezeichneten Unterlagen zu erstellen. Die im
 Anlagennachweis vorgeschriebenen Angaben sind auch für den Posten
 "Immaterielle Vermögensgegenstände" und jeweils für die Posten des
 Finanzanlagevermögens zu machen.
 
-(4) Bei Inanspruchnahme des Wahlrechts nach Absatz 3 für Zwecke des
-Handelsrechts gelten die Erleichterungen für kleine und mittelgroße
-Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276 des
-Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei der
-Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen §
-266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe
+(4) Bei Inanspruchnahme des Wahlrechts nach Absatz 3 Satz 1 für Zwecke
+des Handelsrechts gelten die Erleichterungen für kleine und
+mittelgroße Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276
+des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei
+der Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen
+§ 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe
 angewendet werden, daß in der Bilanz nach Anlage 1 und im
 Anlagennachweis nach Anlage 3 nur die mit Buchstaben und römischen
 Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der
@@ -105,12 +112,12 @@ Jahresabschlusses nach Absatz 3.
 Geschäftsjahres aufgestellt werden.
 
 (3) Für die Aufstellung und den Inhalt des Jahresabschlusses gelten
-die §§ 242 bis 256a sowie § 264 Abs. 2, § 265 Abs. 2, 5 und 8, § 268
-Abs. 1 und 3, § 270 Abs. 2, die §§ 271, 272, 274, 275 Absatz 4, § 277
-Abs. 2, Abs. 3 Satz 1 und Abs. 4 Satz 1 und § 284 Abs. 2 Nr. 1 und 3
-des Handelsgesetzbuchs sowie Artikel 24 Abs. 5 Satz 2 und Artikel 28,
-42 bis 44 des Einführungsgesetzes zum Handelsgesetzbuch, soweit diese
-Verordnung nichts anderes bestimmt.
+die §§ 242 bis 256a sowie § 264 Absatz 1a und 2, § 265 Abs. 2, 5 und
+8, § 268 Abs. 1 und 3, § 270 Abs. 2, die §§ 271, 272, 274, 275 Absatz
+4, § 277 Absatz 1 bis 3 Satz 1 und § 284 Absatz 2 Nummer 1 und 2 des
+Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des Einführungsgesetzes
+zum Handelsgesetzbuch, soweit diese Verordnung nichts anderes
+bestimmt.
 
 
 ## § 5 Einzelvorschriften zum Jahresabschluß
@@ -193,9 +200,10 @@ Handelsgesetzbuchs.
 Das Krankenhaus hat eine Kosten- und Leistungsrechnung zu führen, die
 eine betriebsinterne Steuerung sowie eine Beurteilung der
 Wirtschaftlichkeit und Leistungsfähigkeit erlaubt; sie muß die
-Ermittlung der pflegesatzfähigen Kosten sowie die Erstellung der
-Leistungs- und Kalkulationsaufstellung nach den Vorschriften der
-Bundespflegesatzverordnung ermöglichen. Dazu gehören folgende
+Ermittlung der pflegesatzfähigen Kosten sowie bis zum Jahr 2016 die
+Erstellung der Leistungs- und Kalkulationsaufstellung nach den
+Vorschriften der Bundespflegesatzverordnung in der am 31. Dezember
+2012 geltenden Fassung ermöglichen. Dazu gehören folgende
 Mindestanforderungen:
 
 1.  Das Krankenhaus hat die auf Grund seiner Aufgaben und Struktur
@@ -228,16 +236,17 @@ angemessenen Verhältnis zu dem erreichbaren Nutzen stehen und die in §
 8 Satz 1 genannten Zwecke auf andere Weise erreicht werden können.
 Über die Befreiung entscheidet auf Antrag des Krankenhauses die
 zuständige Landesbehörde; dabei sind einvernehmliche Regelungen mit
-dem Landespflegesatzausschuß nach § 20 der Bundespflegesatzverordnung
-anzustreben.
+den in § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes
+genannten Beteiligten anzustreben.
 
 
 ## § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs
-handelt, wer als Mitglied des vertretungsberechtigten Organs oder des
-Aufsichtsrats eines Krankenhauses, das Kapitalgesellschaft ist, bei
-der Aufstellung oder Feststellung eines Jahresabschlusses
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
+Handelsgesetzbuchs handelt, wer als Mitglied des
+vertretungsberechtigten Organs oder des Aufsichtsrats eines
+Krankenhauses, das Kapitalgesellschaft ist, bei der Aufstellung oder
+Feststellung eines Jahresabschlusses
 
 1.  entgegen § 1 Abs. 3 Satz 2
 
@@ -255,7 +264,7 @@ der Aufstellung oder Feststellung eines Jahresabschlusses
     gliedert oder
 
 
-2.  entgegen § 1 Abs. 3 Satz 3 die dort bezeichneten zusätzlichen Angaben
+2.  entgegen § 1 Abs. 3 Satz 4 die dort bezeichneten zusätzlichen Angaben
     im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder
     nicht mit dem vorgeschriebenen Inhalt macht.
 
@@ -265,30 +274,7 @@ der Aufstellung oder Feststellung eines Jahresabschlusses
 
 ## § 11 Übergangsvorschrift
 
-(1) Krankenhäuser, die nicht Kapitalgesellschaften sind, können auf
-die Geschäftsjahre 1987 und 1988 anstelle der vom 1. Januar 1987 an
-geltenden Vorschriften dieser Verordnung die bisherigen Vorschriften
-einschließlich der im bisherigen § 4 Abs. 3 bezeichneten Vorschriften
-des Aktiengesetzes in der bis zum 31. Dezember 1985 geltenden Fassung
-anwenden.
-
-(2) § 8 und § 9 Satz 1 gelten für Krankenhäuser, die von den
-Vorschriften des § 8 Abs. 1 in der bis zum 31. Dezember 1985 geltenden
-Fassung befreit sind, erstmals für das am 1. Januar 1987 beginnende
-Geschäftsjahr.
-
-(3) Sofern für ein Geschäftsjahr, das nach dem 31. Dezember 1998 und
-spätestens im Jahre 2001 endet, der Jahresabschluß und der
-Konzernabschluß nach Artikel 42 Abs. 1 Satz 2 des Einführungsgesetzes
-zum Handelsgesetzbuch in Deutscher Mark aufgestellt werden, sind auch
-die in den Formblättern gemäß Anlage 1 und 2 für die Bilanz und die
-Gewinn- und Verlustrechnung sowie die im Anlagennachweis gemäß Anlage
-3 vorgeschriebenen Angaben in Deutscher Mark und unter der Bezeichnung
-"DM" zu machen. Für ein Geschäftsjahr, das spätestens am 31. Dezember
-1998 endet, ist diese Verordnung in der an diesem Tage geltenden
-Fassung anzuwenden.
-
-(4) § 279 des Handelsgesetzbuchs ist letztmals auf einen
+(1) § 279 des Handelsgesetzbuchs ist letztmals auf einen
 Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen
 ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den
 Änderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25.
@@ -308,6 +294,21 @@ verwiesen wird, gelten die in den Artikeln 66 und 67 des
 Einführungsgesetzes zum Handelsgesetzbuch enthaltenen
 Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des
 Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
+
+(2) § 1 Absatz 3, § 10 Nummer 2, die Gliederung der Gewinn- und
+Verlustrechnung (Anlage 2) sowie die Kontenrahmen für die Buchführung
+in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli
+2015 (BGBl. I S. 1245) sind erstmals auf den Jahresabschluss für das
+nach dem 31. Dezember 2015 beginnende Geschäftsjahr und die
+gegebenenfalls hierauf bezogenen Dokumente nach § 1 Absatz 3 Satz 3
+anzuwenden.
+
+(3) § 4 Absatz 3 sowie die Anlagen 2 und 4 in der Fassung der Zweiten
+Verordnung zur Änderung von Rechnungslegungsverordnungen vom 21.
+Dezember 2016 (BGBl. I S. 3076) sind erstmals auf den Jahresabschluss
+für das nach dem 31. Dezember 2015 beginnende Geschäftsjahr und die
+gegebenenfalls hierauf bezogenen Dokumente nach § 1 Absatz 3 Satz 3
+anzuwenden.
 
 
 ## § 12 (weggefallen)
@@ -577,6 +578,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 3\.  Erlöse aus ambulanten Leistungen des
 Krankenhauses (KGr. 42) ..................  ........
 4\.  Nutzungsentgelte der Ärzte (KGr. 43) .....  ........
+4a.  Umsatzerlöse nach § 277 Absatz 1 des Handelsgesetzbuchs
+(KGr. 44, 45, 57, 58; KUGr. 591), soweit nicht in den
+Nummern 1 bis 4 enthalten ................  ........
+davon  aus Ausgleichsbeträgen für
+frühere Geschäftsjahre (KGr. 58)     ........
 5\.  Erhöhung oder Verminderung des Bestandes
 an fertigen und unfertigen
 Erzeugnissen/unfertigen Leistungen
@@ -586,12 +592,8 @@ Erzeugnissen/unfertigen Leistungen
 7\.  Zuweisungen und Zuschüsse der
 öffentlichen Hand, soweit nicht unter
 Nr. 11 (KUGr. 472) .......................  ........
-8\.  sonstige betriebliche Erträge ............  ........  ...........
---------
-(KGr. 44, 45; KUGr. 473, 520; KGr. 54,
-57, 58; KUGr. 591, 592),
-davon aus Ausgleichsbeträgen für
-frühere Geschäftsjahre (KGr. 58) .........
+8\.  Sonstige betriebliche Erträge
+(KUGr. 473, 520; KGr. 54; KUGr. 592)        ........
 9\.  Personalaufwand
 a) Löhne und Gehälter (KGr. 60, 64) ......  ........
 b) soziale Abgaben und Aufwendungen für
@@ -683,21 +685,14 @@ davon für Betriebsmittelkredite
 (KUGr. 740),               .........
 davon an verbundene Unternehmen
 (KUGr. 741) ++)            .........
-27\. Ergebnis der gewöhnlichen
-Geschäftstätigkeit .......................             ...........
-28\. außerordentliche Erträge (KUGr. 590) .....  .........
-29\. außerordentliche Aufwendungen (KUGr. 792)   .........
----------
-30\. außerordentliches Ergebnis ...............  .........  ...........
-31\. Steuern (KUGr. 730), .....................             ...........
------------
-davon vom Einkommen
-und vom Ertrag             .........
-32\. Jahresüberschuß/Jahresfehlbetrag .........             ...........
+27\. Steuern (KUGr. 730) ......................             ...........
+davon vom Einkommen und vom
+Ertrag              ......................
+28\. Jahresüberschuss/Jahresfehlbetrag ........             ...........
 ===========
 -----
-\*) Die Klammerhinweise auf den Kontenrahmen entfallen in der
-Gewinn- und Verlustrechnung
+\*) Die Klammerhinweise auf den Kontenrahmen entfallen in der Gewinn-
+und Verlustrechnung
 ++) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
 
@@ -1311,14 +1306,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **33**
 
-    *   **Verbindlichkeiten aus der Annahme gezogener Wechsel und der**
-
-
-*    *
-
-*    *   **EUR**
-
-    *   **Ausstellung eigener Wechsel**
+    *   **Verbindlichkeiten aus der Annahme gezogener Wechsel und der
+        Ausstellung eigener Wechsel**
 
 
 *    *
@@ -1809,7 +1798,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **57**
 
-    *   **Sonstige ordentliche Erträge**
+    *   **Sonstige Erträge**
 
 
 *    *
@@ -1828,7 +1817,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   590
 
-    *   Außerordentliche Erträge
+    *   (weggefallen)
 
 
 *    *   591
@@ -2293,7 +2282,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **78**
 
-    *   **Sonstige ordentliche Aufwendungen**
+    *   **Sonstige Aufwendungen**
 
 
 *    *   781
@@ -2330,7 +2319,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   792
 
-    *   Außerordentliche Aufwendungen
+    *   (weggefallen)
 
 
 *    *   793

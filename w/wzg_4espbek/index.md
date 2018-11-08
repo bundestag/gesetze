@@ -37,5 +37,4 @@ Der Bundesminister der Justiz
 ## Anlage Amtliches Gewährzeichen für die Ausfuhrförderung
 
 (Fundstelle: BGBl. I 1972, 455)
-(Inhalt: nicht darstellbares Gewährzeichen)
-
+![bgbl1_1972_j0455_0010.jpg](bgbl1_1972_j0455_0010.jpg)

@@ -18,6 +18,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 494
 
+Geändert durch
+:   Art. 3 G v. 25.11.2015 I 2095
+
 
 
 ## Art 1
@@ -34,23 +37,6 @@ mit einer amtlichen deutschen Übersetzung veröffentlicht.
 ## Art 2
 
 -
-
-
-## Art 3
-
-(1) Hat der Kapitän eines Schiffes unter der Bundesflagge begründeten
-Anlass zu der Annahme, dass eine Person, die er an Bord mitführt, eine
-der in Artikel 3 des Übereinkommens genannten Straftaten begangen hat,
-und will er diese Person übergeben, so ist er verpflichtet, die
-Behörden des Empfangsstaates, sofern durchführbar, nach Möglichkeit
-vor Einlaufen in das Küstenmeer dieses Staates von dieser Absicht
-sowie den Gründen zu unterrichten.
-
-(2) Der Kapitän eines Schiffes unter der Bundesflagge kann
-Gegenstände, die sich auf eine solche Straftat beziehen und deren
-Verbleib an Bord eine unmittelbare Gefahr für die Sicherheit des
-Schiffes oder seiner Besatzung darstellen würde, den Behörden eines
-Empfangsstaates zur Verfügung stellen.
 
 
 ## Art 4

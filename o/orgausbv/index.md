@@ -528,8 +528,9 @@ Diese Verordnung tritt am 1. August 1985 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Orgel- und Harmoniumbauer/zur Orgel- und Harmoniumbauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Orgel- und Harmoniumbauer/zur Orgel- und Harmoniumbauerin
 
 (Fundstelle: BGBl. I 1984, 1569 - 1574)
 
@@ -1519,8 +1520,10 @@ Der Bundesminister für Wirtschaft
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
+und Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
+## Anhang EV (BGBl. II 1990, 889, 998, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

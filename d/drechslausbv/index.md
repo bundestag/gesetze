@@ -431,8 +431,9 @@ Diese Verordnung tritt am 1. August 1988 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur Drechslerin (Elfenbeinschnitzerin)
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur Drechslerin (Elfenbeinschnitzerin)
 
 (Fundstelle: BGBl. I 1987, 2524 - 2530)
 
@@ -1410,8 +1411,10 @@ Der Bundesminister für Wirtschaft
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 998)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

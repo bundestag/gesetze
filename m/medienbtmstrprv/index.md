@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1467
 
+Zuletzt geändert durch
+:   Art. 61 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -337,9 +340,9 @@ Qualifikationsinhalte geprüft werden:
 
 
 Das Rollenspiel mit anschließender Reflektion soll höchstens 30
-Minuten dauern. Dem Prüfungsteilnehmer oder der Prüfungsteilnehmerin
-ist nach Übergabe einer dokumentierten Aufgabenstellung eine
-Vorbereitungszeit von 30 Minuten einzuräumen.
+Minuten dauern. Der zu prüfenden Person ist nach Übergabe einer
+dokumentierten Aufgabenstellung eine Vorbereitungszeit von 30 Minuten
+einzuräumen.
 
 (6) Wurde in nicht mehr als einer der beiden schriftlichen
 Situationsaufgaben eine mangelhafte Prüfungsleistung erbracht, ist
@@ -462,82 +465,129 @@ werden. Die Bearbeitungsdauer soll mindestens 270 Minuten und nicht
 mehr als fünf Stunden betragen.
 
 (3) Ausgehend von der mehrteiligen schriftlichen Situationsaufgabe
-soll der Prüfungsteilnehmer oder die Prüfungsteilnehmerin in einem
-Fachgespräch Lösungsansätze für die Situationsaufgabe präsentieren und
-begründen und deren Grundlagen mit dem Prüfungsausschuss erörtern.
-Dabei soll auch die Fähigkeit nachgewiesen werden, berufliche
-Aufgabenstellungen und Sachverhalte zu analysieren und zu
-strukturieren. Die Präsentation soll möglichst unter Nutzung von
-Präsentationstechniken erfolgen. Das Fachgespräch soll für jeden
-Prüfungsteilnehmer und für jede Prüfungsteilnehmerin höchstens 45
-Minuten dauern, von denen höchstens 15 Minuten auf die Präsentation
-entfallen.
+soll die zu prüfende Person in einem Fachgespräch Lösungsansätze für
+die Situationsaufgabe präsentieren und begründen und deren Grundlagen
+mit dem Prüfungsausschuss erörtern. Dabei soll auch die Fähigkeit
+nachgewiesen werden, berufliche Aufgabenstellungen und Sachverhalte zu
+analysieren und zu strukturieren. Die Präsentation soll möglichst
+unter Nutzung von Präsentationstechniken erfolgen. Das Fachgespräch
+soll für die zu prüfende Person höchstens 45 Minuten dauern, von denen
+höchstens 15 Minuten auf die Präsentation entfallen.
 
 (4) Das Fachgespräch ist nur zu führen, wenn in der mehrteiligen
 schriftlichen Situationsaufgabe mindestens ausreichende Leistungen
 erbracht wurden.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
-
-(1) Die Prüfungsleistungen der Prüfungsteile „Betriebsmanagement“ und
-„Projektmanagement“ sind gesondert nach Punkten zu bewerten.
-
-(2) Für den Prüfungsteil „Betriebsmanagement“ ist eine Note aus dem
-arithmetischen Mittel der Punktebewertungen der Leistungen in den
-einzelnen Handlungsbereichen zu bilden.
-
-(3) Im Prüfungsteil „Projektmanagement“ ist eine Note aus den
-Punktebewertungen der Prüfungsleistungen der mehrteiligen
-schriftlichen Situationsaufgabe und des Fachgesprächs zu bilden, dabei
-wird die Bewertung der mehrteiligen Situationsaufgabe doppelt
-gewichtet.
-
-(4) Aus den Noten der Prüfungsteile „Betriebsmanagement“ und
-„Projektmanagement“ ist das arithmetische Mittel und daraus eine
-Gesamtnote zu bilden.
-
-(5) Die Prüfung ist bestanden, wenn im Prüfungsteil
-„Betriebsmanagement“ in allen Prüfungsleistungen sowie im Prüfungsteil
-„Projektmanagement“ in der mehrteiligen schriftlichen
-Situationsaufgabe und im Fachgespräch mindestens ausreichende
-Leistungen erbracht wurden.
-
-(6) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. In das Zeugnis nach der Anlage 2 sind die
-Gesamtnote, die in den Prüfungsteilen „Betriebsmanagement“ und
-„Projektmanagement“ erzielten Noten sowie die Punktebewertungen in den
-einzelnen Prüfungsleistungen nach § 4 sowie die Punktebewertungen in
-der mehrteiligen schriftlichen Situationsaufgabe und im Fachgespräch
-einzutragen. Im Fall der Freistellung nach § 6 sind Ort und Datum
-sowie Bezeichnung des Prüfungsgremiums der anderweitig abgelegten
-Prüfung anzugeben. Der Nachweis über den Erwerb der berufs- und
-arbeitspädagogischen Qualifikationen nach § 2 Absatz 2 ist im Zeugnis
-einzutragen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder §
+8 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Betriebsmanagement“ sind die beiden schriftlichen
+Prüfungsleistungen in den Handlungsbereichen nach § 4 Absatz 4 und die
+Prüfungsleistung in der Situationsaufgabe in Form eines Rollenspiels
+nach § 4 Absatz 5 einzeln zu bewerten. Aus den einzelnen Bewertungen
+ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu
+berechnen.
+
+(3) Im Prüfungsteil „Projektmanagement“ sind als Prüfungsleistungen zu
+bewerten:
+
+1.  die mehrteilige schriftliche Situationsaufgabe nach § 5 Absatz 2 und
+
+
+2.  das Fachgespräch nach § 5 Absatz 3.
+
+
+
+Aus den Bewertungen wird das gewichtete arithmetische Mittel
+berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+
+1.  die mehrteilige schriftliche Situationsaufgabe mit zwei Dritteln und
+
+
+2.  das Fachgespräch mit einem Drittel.
+
+
+
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen
+jeweils mindestens 50 Punkte erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den Prüfungsteil „Betriebsmanagement“,
+
+
+2.  die Bewertung für den Prüfungsteil „Projektmanagement“.
+
+
+
+
+(3) Den Bewertungen für die Prüfungsteile „Betriebsmanagement“ und
+„Projektmanagement“ ist nach Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Prüfungsteilen „Betriebsmanagement“ und
+„Projektmanagement“ zu berechnen. Die Gesamtpunktzahl ist kaufmännisch
+auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach
+Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen.
+Die zugeordnete Note ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
@@ -548,231 +598,398 @@ schriftliche Situationsaufgabe ebenfalls als neue Aufgabe gestellt
 werden.
 
 
-## § 9 Inkrafttreten
+## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
+(zu den §§ 7 und 8)
 
-## Anlage 1 (zu § 7 Absatz 6) Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2012, 1471)
-
-
-*    *   ......................................................................
-        ......................................................................
-        ........
+(Fundstelle: BGBl. I 2019, 2366 - 2367)
 
 
-*    *   (Bezeichnung der zuständigen Stelle)
+*    *   Punkte
 
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Meister Medienproduktion Bild und Ton
-## Geprüfte Meisterin Medienproduktion Bild und Ton
-
-
-*    *   Herr/Frau ............................................................
-        ......................................................................
-        ..................
-
-
-*    *   geboren am
-        ................................................................
-
-    *   in ...................................................................
-        .......
-
-
-*    *   hat am
-        ......................................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Meister Medienproduktion Bild und Ton
-## Geprüfte Meisterin Medienproduktion Bild und Ton
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton
-und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
-(BGBl. I S. 1467) bestanden.
-
-
-*    *   Datum .........................................................
-
-
-*    *   Unterschrift(en) ...........................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 7 Absatz 6) Muster
-
-(Fundstelle: BGBl. I 2012, 1472 - 1473)
-
-
-*    *   ......................................................................
-        ....................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Meister Medienproduktion Bild und Ton
-## Geprüfte Meisterin Medienproduktion Bild und Ton
-
-
-*    *   Herr/Frau ............................................................
-        ...............................................................
-
-
-*    *   geboren am ..................................................
-
-    *   in ...................................................................
-        ........
-
-
-*    *   hat am ............................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Meister Medienproduktion Bild und Ton
-## Geprüfte Meisterin Medienproduktion Bild und Ton
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton
-und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
-(BGBl. I S. 1467) mit folgenden Ergebnissen bestanden:
-
-
-*    *   Gesamtnote .........................
-
-    *
-    *
-    *
-
-*    *
-    *
-    *[^F777466_01_BJNR146700012BJNE001200000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Betriebsmanagement
+    *   1,0
 
-    *   ....................
+    *   sehr gut
 
-    *
-    *   ....................
-
-
-*    *
-    *   1. Schriftliche Aufgaben zum Handlungsbereich Organisation
-
-    *   .....................
-
-    *
-    *
-
-*    *
-    *   2. Schriftliche Aufgaben zum Handlungsbereich Führung
-
-    *   .....................
-
-    *
-    *
-
-*    *
-    *   3. Rollenspiel zum Handlungsbereich Führung
-
-    *   .....................
-
-    *
-    *
-
-*    *   II.
-
-    *   Projektmanagement
-
-    *   .....................
-
-    *
-    *   ...................
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *
-    *   4. Mehrteilige schriftliche Situationsaufgabe
+*    *   98 und 99
 
-    *   .....................
-
-    *
-    *
-
-*    *
-    *   5. Fachgespräch
-
-    *   .....................
-
-    *
-    *
-
-*    *
-    *   (Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die
-        Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am
-        ..........................
-        in ...................................
-        vor ......................................
-        abgelegte Prüfung von diesem Prüfungsbestandteil
-        ...................................................
-        freigestellt.“)
+    *   1,1
 
 
-*    *   III.
+*    *   96 und 97
 
-    *   Berufs- und arbeitspädagogische Qualifikationen
-
-    *
-    *
-    *
-
-*    *
-    *   „Der Prüfungsteilnehmer“ oder „Die Prüfungsteilnehmerin“ hat nach § 2
-        Absatz 2 den Nachweis über den Erwerb der berufs- und
-        arbeitspädagogischen Eignung durch die Prüfung am
-        ..................................................
-        in ............................................
-        vor ........................................
-        erbracht.
+    *   1,2
 
 
+*    *   94 und 95
+
+    *   1,3
 
 
-*    *   Datum .................................................
+*    *   92 und 93
+
+    *   1,4
 
 
-*    *   Unterschrift(en) ....................................
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde …………
-[^F777466_01_BJNR146700012BJNE001200000]: 
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2368)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung des Prüfungsteils „Betriebsmanagement“ und Bewertung mit
+    Punkten und Note,
+
+
+2.  Benennung
+
+    a)  der schriftlichen Aufgaben zum Handlungsbereich Organisation und
+        Bewertung mit Punkten,
+
+
+    b)  der schriftlichen Aufgaben zum Handlungsbereich Führung und Bewertung
+        mit Punkten,
+
+
+    c)  des Rollenspiels zum Handlungsbereich Führung und Bewertung mit
+        Punkten,
+
+
+
+
+
+3.  Benennung des Prüfungsteils „Projektmanagement“ und Bewertung mit
+    Punkten und Note,
+
+
+4.  Benennung
+
+    a)  der mehrteiligen schriftlichen Situationsaufgabe und Bewertung mit
+        Punkten,
+
+
+    b)  des Fachgesprächs und Bewertung mit Punkten,
+
+
+
+
+
+5.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+6.  die Gesamtnote als Dezimalzahl,
+
+
+7.  die Gesamtnote in Worten,
+
+
+8.  Befreiungen nach § 6,
+
+
+9.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
+
+
+
+

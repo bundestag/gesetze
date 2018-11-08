@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 644
 
+Geändert durch
+:   Art. 57 Abs. 25 G v. 12.12.2019 I 2652
+
 
 
 ## § 1 Verfahrensbeteiligte und zentrale Stelle
@@ -26,7 +29,7 @@ Buches Sozialgesetzbuch genannten Körperschaften.
 
 (2) Die Mitteilung der Spitzenverbände, wer zentrale Stelle nach § 221
 Abs. 1 Satz 2 des Fünften Buches Sozialgesetzbuch ist, erfolgt bis zum
-15\. April 2004 an das Bundesversicherungsamt.
+15\. April 2004 an das Bundesamt für Soziale Sicherung.
 
 
 ## § 2 Zu berücksichtigende Ausgaben
@@ -48,15 +51,15 @@ Summe für die Berechnung der Verteilung auf die Krankenkassen.
 
 ## § 3 Verteilungsquote
 
-(1) Das Bundesversicherungsamt legt die Verteilungsquote für die nach
-§ 221 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch vom Bund
-geleisteten Abgeltungsbeträge fest. Die Verteilungsquote entspricht
-dem Verhältnis der Summe der in Satz 1 genannten Beträge zur Summe der
-in § 2 Abs. 2 Satz 2 genannten Ausgaben.
+(1) Das Bundesamt für Soziale Sicherung legt die Verteilungsquote für
+die nach § 221 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch vom
+Bund geleisteten Abgeltungsbeträge fest. Die Verteilungsquote
+entspricht dem Verhältnis der Summe der in Satz 1 genannten Beträge
+zur Summe der in § 2 Abs. 2 Satz 2 genannten Ausgaben.
 
 (2) Für die in § 221 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch
-genannten Zahlungstermine legt das Bundesversicherungsamt eine
-vorläufige Verteilungsquote mit folgender Maßgabe fest:
+genannten Zahlungstermine legt das Bundesamt für Soziale Sicherung
+eine vorläufige Verteilungsquote mit folgender Maßgabe fest:
 
 1.  für den Termin 1. Mai ist die in der Vierteljahresrechnung für den
     Berichtszeitraum 1. Januar bis 31. Dezember des Vorjahres ausgewiesene
@@ -71,20 +74,21 @@ vorläufige Verteilungsquote mit folgender Maßgabe fest:
 
 zugrunde zu legen.
 
-(3) Das Bundesversicherungsamt teilt die nach den Absätzen 1 und 2
-ermittelte Verteilungsquote unverzüglich den Spitzenverbänden der
-Krankenkassen mit. Die Spitzenverbände stellen sicher, dass die
+(3) Das Bundesamt für Soziale Sicherung teilt die nach den Absätzen 1
+und 2 ermittelte Verteilungsquote unverzüglich den Spitzenverbänden
+der Krankenkassen mit. Die Spitzenverbände stellen sicher, dass die
 Krankenkassen, für die sie zuständig sind, unverzüglich Kenntnis von
-der Verteilungsquote erhalten. Das Bundesversicherungsamt macht die
-Verteilungsquote im Bundesanzeiger bekannt.
+der Verteilungsquote erhalten. Das Bundesamt für Soziale Sicherung
+macht die Verteilungsquote im Bundesanzeiger bekannt.
 
 
 ## § 4 Verteilungsverfahren
 
-(1) Das Bundesversicherungsamt ermittelt für jede Krankenkasse die
-Höhe des Jahresabgeltungsbetrages, indem die in § 2 Abs. 2 Satz 2
-genannte Summe der Ausgaben der jeweiligen Krankenkasse mit der nach §
-3 Abs. 1 festgelegten Verteilungsquote vervielfacht wird.
+(1) Das Bundesamt für Soziale Sicherung ermittelt für jede
+Krankenkasse die Höhe des Jahresabgeltungsbetrages, indem die in § 2
+Abs. 2 Satz 2 genannte Summe der Ausgaben der jeweiligen Krankenkasse
+mit der nach § 3 Abs. 1 festgelegten Verteilungsquote vervielfacht
+wird.
 
 (2) Für die Bestimmung der vorläufigen Abgeltungsbeträge gilt Absatz 1
 mit der Maßgabe, dass anstelle der in § 2 Abs. 2 Satz 2 genannten
@@ -95,7 +99,7 @@ Abschlag auf den zum 1. November ermittelten vorläufigen
 Abgeltungsbetrag, der als Abschlag auf den nach Absatz 1 zu
 ermittelnden Jahresabgeltungsbetrag gilt.
 
-(3) Das Bundesversicherungsamt leitet die vorläufigen
+(3) Das Bundesamt für Soziale Sicherung leitet die vorläufigen
 Abgeltungsbeträge jeweils unverzüglich an die zentrale Stelle und
 teilt dieser die auf die einzelnen Krankenkassen entfallenden Beträge
 mit. Der Jahresabgeltungsbetrag ist unter Berücksichtigung der
@@ -109,12 +113,12 @@ verrechnen.
 
 (4) Das Nähere über die Weiterleitung der Abgeltungsbeträge an die
 einzelnen Krankenkassen bestimmt die zentrale Stelle im Einvernehmen
-mit dem Bundesversicherungsamt.
+mit dem Bundesamt für Soziale Sicherung.
 
 (5) Die Krankenkasse weist die Abgeltungsbeträge jeweils gesondert in
 ihren Geschäfts- und Rechnungsergebnissen aus.
 
-(6) Das Bundesversicherungsamt kann im Einvernehmen mit den
+(6) Das Bundesamt für Soziale Sicherung kann im Einvernehmen mit den
 Spitzenverbänden der Krankenkassen das Verteilungsverfahren
 vereinfachen.
 
@@ -123,9 +127,9 @@ vereinfachen.
 
 Werden nach Abschluss der Ermittlung der Werte nach § 4 Abs. 1
 sachliche oder rechnerische Fehler in den Berechnungsgrundlagen
-festgestellt, berücksichtigt das Bundesversicherungsamt diese im
-nächsten Verteilungsverfahren. Das Nähere regelt das
-Bundesversicherungsamt im Einvernehmen mit den Spitzenverbänden der
+festgestellt, berücksichtigt das Bundesamt für Soziale Sicherung diese
+im nächsten Verteilungsverfahren. Das Nähere regelt das Bundesamt für
+Soziale Sicherung im Einvernehmen mit den Spitzenverbänden der
 Krankenkassen.
 
 

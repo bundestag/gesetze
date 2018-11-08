@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1583
 
+Geändert durch
+:   Art. 10 G v. 20.8.2021 I 3932
+
 
 ## Abschnitt 1 - Dienstrecht
 

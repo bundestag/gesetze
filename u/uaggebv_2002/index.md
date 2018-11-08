@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 3503
 
 Zuletzt geändert durch
-:   Art. 2 V v. 13.12.2011 I 2727
+:   Art. 2 Abs. 44 G v. 7.8.2013 I 3154
 
 
 ## Eingangsformel
@@ -32,14 +32,15 @@ Umweltgutachterausschusses:
 
 ## § 1 Gebühren und Auslagen
 
-(1) Für Amtshandlungen der Zulassungsstelle und der
-Widerspruchsbehörde auf Grund des Umweltauditgesetzes in der Fassung
-der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490) werden
-Gebühren nach Maßgabe des anliegenden Gebührenverzeichnisses erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen der
+Zulassungsstelle und der Widerspruchsbehörde auf Grund des
+Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September
+2002 (BGBl. I S. 3490) werden Gebühren nach Maßgabe des anliegenden
+Gebührenverzeichnisses erhoben.
 
-(2) Auslagen sind nach den Vorschriften des Verwaltungskostengesetzes
-zu ersetzen. Die Auslagen für die Prüfer zur Durchführung der
-mündlichen Prüfung nach § 12 des Umweltauditgesetzes im Rahmen von
+(2) Auslagen sind nach den Vorschriften des Bundesgebührengesetzes zu
+ersetzen. Die Auslagen für die Prüfer zur Durchführung der mündlichen
+Prüfung nach § 12 des Umweltauditgesetzes im Rahmen von
 Bescheinigungs- und Zulassungsverfahren nach § 11 des
 Umweltauditgesetzes (Nummer 1 und 2 des Gebührenverzeichnisses) und
 die Auslagen für die externen Beauftragten im Rahmen der Aufsicht
@@ -50,16 +51,16 @@ Telekommunikationsdienstleistungen sind mit der Gebühr abgegolten.
 ## § 2 Widerspruch
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
-wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung
+wird eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt
 festgesetzten Gebühr erhoben; dies gilt nicht, wenn der Widerspruch
 nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens-
 oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
 unbeachtlich ist. Bei einem erfolglosen Widerspruch, der sich
-ausschließlich gegen eine Kostenentscheidung richtet, beträgt die
-Gebühr höchstens 10 vom Hundert des streitigen Betrags. Wird ein
+ausschließlich gegen eine Gebührenfestsetzung richtet, beträgt die
+Gebühr höchstens 10 Prozent des streitigen Betrages. Wird ein
 Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor
-deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom
-Hundert der Widerspruchsgebühr.
+deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75
+Prozent der Widerspruchsgebühr.
 
 
 ## § 3 Zurückweisung oder Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs
@@ -72,15 +73,16 @@ vom Hundert des streitigen Betrags erhoben.
 (2) Die Gebühr im Fall des Absatzes 1 beträgt mindestens 15 Euro.
 
 
-## § 4 Widerruf und Rücknahme einer Amtshandlung, Ablehnung und Rücknahme von Anträgen
+## § 4 Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Rücknahme von Anträgen
 
 Für
 
-1.  den Widerruf oder die Rücknahme einer Amtshandlung,
+1.  den Widerruf oder die Rücknahme eines Verwaltungsaktes,
 
 
-2.  die Ablehnung eines Antrags auf Vornahme einer Amtshandlung aus
-    anderen Gründen als wegen Unzuständigkeit der Behörde sowie
+2.  die Ablehnung eines Antrags auf Vornahme einer individuell
+    zurechenbaren öffentlichen Leistung aus anderen Gründen als wegen
+    Unzuständigkeit der Behörde sowie
 
 
 3.  im Fall einer Rücknahme eines Antrags nach Beginn der sachlichen
@@ -88,10 +90,11 @@ Für
 
 
 
-wird eine Gebühr in Höhe von 75 vom Hundert der für die Amtshandlung
-festzusetzenden Gebühr erhoben. Sie kann bis zu einem Viertel der
-vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen
-werden, wenn dies der Billigkeit entspricht.
+wird eine Gebühr in Höhe von 75 Prozent der für die individuell
+zurechenbare öffentliche Leistung festzusetzenden Gebühr erhoben. Sie
+kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es
+kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit
+entspricht.
 
 
 ## § 5 Zulassungsentscheidungen ohne mündliche Prüfung
@@ -105,13 +108,16 @@ einem Viertel der vorgesehenen Gebühr ermäßigt werden.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 1 Absatz 1)
 
-## Anlage (zu § 1 Absatz 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2011, 2728 - 2731)
+(Fundstelle: BGBl. I 2011, 2728 - 2731;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
-*    *   **Amtshandlungen der Zulassungsstelle**
+*    *   **Individuell zurechenbare öffentliche Leistungen der
+        Zulassungsstelle**
 
     *   **Gebührensatz**
         (Nettobetrag
@@ -122,7 +128,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 *    *   **1.**
 
-    *   **§ 8 Abs. 2 in Verbindung mit § 11 Abs. 4 des Umweltauditgesetzes**
+    *   **§ 8 Abs. 2 in Verbindung mit § 11 Absatz 5 des Umweltauditgesetzes**
 
     *
 
@@ -345,7 +351,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 *    *   **10.**
 
     *   **Erweiterung der Zulassung als Umweltgutachter auf Drittstaaten nach
-        § 9 Abs. 1 Satz 1 des Umweltauditgesetzes in Verbindung mit Art. 22
+        § 9 Absatz 1 Satz 3 des Umweltauditgesetzes in Verbindung mit Art. 22
         Abs. 2 der Verordnung (EG) Nr. 1221/2009.**                      Diese
         Gebühr wird für jeden Drittstaat erhoben, um den die Zulassung
         erweitert wird.

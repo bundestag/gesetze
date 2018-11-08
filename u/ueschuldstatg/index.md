@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3083
 
+Geändert durch
+:   Art. 3 Abs. 3 G v. 22.11.2020 I 2466
+
 
 ## § 1 Art und Zweck
 
@@ -173,7 +176,7 @@ Erhebungsmerkmale erfasst:
     Insolvenzordnung durch die Beratungsstelle,
 
 
-23. Ausstellung einer Bescheinigung nach § 850k Absatz 5 der
+23. Ausstellung einer Bescheinigung nach § 903 Absatz 1 Satz 2 der
     Zivilprozessordnung durch die Beratungsstelle,
 
 

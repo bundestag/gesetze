@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 191
 
 Zuletzt geändert durch
-:   Art. 225 V v. 31.10.2006 I 2407
+:   Art. 10 G v. 10.12.2021 I 5162
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -142,16 +142,15 @@ a)  Ehegatten und Lebenspartner der in Heimarbeit Beschäftigten (§ 1 Abs.
 
 
 b)  Personen, die mit dem in Heimarbeit Beschäftigten oder nach § 1 Abs. 2
-    Buchstabe a Gleichgestellten oder deren Ehegatten bis zum dritten Grad
-    verwandt oder verschwägert sind;
+    Buchstabe a Gleichgestellten oder deren Ehegatten oder Lebenspartner
+    bis zum dritten Grad verwandt oder verschwägert sind;
 
 
 c)  Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder
-    nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder deren Ehegatten
-    sowie Kinder oder Jugendliche, die sich bei einem in Heimarbeit
-    Beschäftigten oder nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder
-    deren Ehegatten in freiwilliger Erziehungshilfe oder Fürsorgeerziehung
-    befinden.
+    nach § 1 Absatz 2 Buchstabe a Gleichgestellten oder deren Ehegatten
+    oder Lebenspartner sowie Mündel, Betreute und Pflegekinder des
+    Ehegatten oder Lebenspartners des in Heimarbeit Beschäftigten oder
+    nach § 1 Absatz 2 Buchstabe a Gleichgestellten.
 
 
 
@@ -215,7 +214,22 @@ sind. Die Beschlüsse des Heimarbeitsausschusses bedürfen der Mehrheit
 der Stimmen seiner anwesenden Mitglieder. Bei der Beschlußfassung hat
 sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine
 Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der
-Vorsitzende sein Stimmrecht aus.
+Vorsitzende sein Stimmrecht aus. Bis zum Ablauf des 19. März 2022
+können auf Vorschlag des Vorsitzenden die Teilnahme an Sitzungen des
+Heimarbeitsausschusses sowie die Beschlussfassung auch mittels einer
+Video- und Telefonkonferenz erfolgen, wenn
+
+1.  kein Beisitzer diesem Verfahren unverzüglich widerspricht und
+
+
+2.  sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis
+    nehmen können.
+
+
+
+Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
+machenden Beschluss einmalig die Frist nach Satz 4 um bis zu drei
+Monate verlängern.
 
 (4) Der Heimarbeitsausschuß kann sonstige Bestimmungen über die
 Geschäftsführung in einer schriftlichen Geschäftsordnung treffen. Für
@@ -268,21 +282,16 @@ Heimarbeitsausschusses fest.
 
 Wer Heimarbeit ausgibt oder weitergibt, hat jeden, den er mit
 Heimarbeit beschäftigt oder dessen er sich zur Weitergabe von
-Heimarbeit bedient, in Listen auszuweisen. Die Listen sind in den
-Ausgaberäumen an gut sichtbarer Stelle auszuhängen. Je drei
-Abschriften sind halbjährlich der obersten Arbeitsbehörde des Landes
-oder der von ihr bestimmten Stelle einzusenden. Die Oberste
-Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle hat der
-zuständigen Gewerkschaft und der zuständigen Vereinigung der
-Auftraggeber auf Verlangen jederzeit Abschriften zu übersenden.
+Heimarbeit bedient, in Listen auszuweisen. Je drei Abschriften sind
+halbjährlich der obersten Arbeitsbehörde des Landes oder der von ihr
+bestimmten Stelle einzusenden.
 
 
 ### § 7 Mitteilungspflicht
 
 Wer erstmalig Personen mit Heimarbeit beschäftigen will, hat dies der
 obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle
-mitzuteilen. Der Mitteilung sind zwei Abschriften beizufügen; § 6 Satz
-4 gilt entsprechend.
+mitzuteilen.
 
 
 ### § 7a Unterrichtungspflicht
@@ -777,9 +786,6 @@ wenn das Beschäftigungsverhältnis
 
 
 
-Bei der Berechnung der Beschäftigungsdauer werden Zeiten, die vor der
-Vollendung des 25. Lebensjahres des Beschäftigten liegen, nicht
-berücksichtigt.
 
 (5) § 622 Abs. 4 bis 6 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 166
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.7.2012 I 1501
+:   Art. 11 V v. 19.6.2020 I 1328
 
 
 ## § 1
@@ -135,7 +135,7 @@ Bevollmächtigten (§ 2 Abs. 3) oder eines der Antragsteller.
 a)  der Präsident des Bundestages,
 
 
-b)  der Bundesminister des Innern,
+b)  der Bundesminister des Innern, für Bau und Heimat,
 
 
 c)  der Bundeswahlleiter,

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 162
 
 Zuletzt geändert durch
-:   Art. 7 G v. 23.5.2011 I 898
+:   Art. 1 G v. 10.8.2021 I 3424
 
 
 ## Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
@@ -47,11 +47,16 @@ Dieses Gesetz dient
     II S. 207) - im Folgenden: Haager Kindesentführungsübereinkommen;
 
 
-4.  der Ausführung des Luxemburger Europäischen Übereinkommens vom 20. Mai
-    1980 über die Anerkennung und Vollstreckung von Entscheidungen über
-    das Sorgerecht für Kinder und die Wiederherstellung des
-    Sorgeverhältnisses (BGBl. 1990 II S. 220) - im Folgenden: Europäisches
-    Sorgerechtsübereinkommen.
+4.  der Ausführung des Europäischen Übereinkommens vom 20. Mai 1980 über
+    die Anerkennung und Vollstreckung von Entscheidungen über das
+    Sorgerecht für Kinder und die Wiederherstellung des Sorgeverhältnisses
+    (BGBl. 1990 II S. 220) - im Folgenden: Europäisches
+    Sorgerechtsübereinkommen;
+
+
+5.  der Ausführung des Europäischen Übereinkommens vom 27. November 2008
+    über die Adoption von Kindern (revidiert) (BGBl. 2015 II S. 3) – im
+    Folgenden: Europäisches Adoptionsübereinkommen.
 
 
 
@@ -64,11 +69,11 @@ und öffentliche Urkunden, auf welche die durchzuführende EG-Verordnung
 oder das jeweils auszuführende Übereinkommen Anwendung findet.
 
 
-## Abschnitt 2 - Zentrale Behörde; Jugendamt
+## Abschnitt 2 - Zentrale und nationale Behörde; Jugendamt
 
 
 
-### § 3 Bestimmung der Zentralen Behörde
+### § 3 Bestimmung der Zentralen und der nationalen Behörde
 
 (1) Zentrale Behörde nach
 
@@ -85,10 +90,11 @@ oder das jeweils auszuführende Übereinkommen Anwendung findet.
 
 
 
-ist das Bundesamt für Justiz.
+ist das Bundesamt für Justiz. Dieses ist auch nationale Behörde nach
+Artikel 15 Satz 2 des Europäischen Adoptionsübereinkommens.
 
-(2) Das Verfahren der Zentralen Behörde gilt als
-Justizverwaltungsverfahren.
+(2) Die Verfahren der Zentralen Behörde und der nationalen Behörde
+gelten als Justizverwaltungsverfahren.
 
 
 ### § 4 Übersetzungen bei eingehenden Ersuchen
@@ -152,19 +158,37 @@ einschließlich der Einschaltung von Polizeivollzugsbehörden, um den
 Aufenthaltsort des Kindes zu ermitteln, wenn dieser unbekannt ist und
 Anhaltspunkte dafür vorliegen, dass sich das Kind im Inland befindet.
 
-(2) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich,
+(2) Soweit zur Ermittlung des Aufenthalts des Kindes oder zur
+Feststellung eines früheren oder des gegenwärtigen gewöhnlichen
+Aufenthalts des Kindes erforderlich, darf die Zentrale Behörde im
+automatisierten Abrufverfahren nach § 38 des Bundesmeldegesetzes über
+die in § 38 Absatz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus
+folgende Daten abrufen:
+
+1.  derzeitige Staatsangehörigkeiten,
+
+
+2.  frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung und
+
+
+3.  Einzugsdatum und Auszugsdatum.
+
+
+
+
+(3) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich,
 darf die Zentrale Behörde bei dem Kraftfahrt-Bundesamt erforderliche
 Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes
 erheben und die Leistungsträger im Sinne der §§ 18 bis 29 des Ersten
 Buches Sozialgesetzbuch um Mitteilung des derzeitigen Aufenthalts
 einer Person ersuchen.
 
-(3) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde
+(4) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde
 die Ausschreibung zur Aufenthaltsermittlung durch das
 Bundeskriminalamt veranlassen. Sie kann auch die Speicherung eines
 Suchvermerks im Zentralregister veranlassen.
 
-(4) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen
+(5) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen
 die zur Durchführung der Maßnahmen erforderlichen personenbezogenen
 Daten; diese dürfen nur für den Zweck verwendet werden, für den sie
 übermittelt worden sind.
@@ -290,7 +314,7 @@ dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk
 dieses Oberlandesgerichts.
 
 (2) Im Bezirk des Kammergerichts entscheidet das Familiengericht
-Pankow/Weißensee.
+Pankow.
 
 (3) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch
 Rechtsverordnung einem anderen Familiengericht des
@@ -444,8 +468,9 @@ Soweit nicht anders bestimmt, entscheidet das Familiengericht
 
 
 2.  über die übrigen in den §§ 10, 11, 12 und 47 bezeichneten
-    Angelegenheiten als Familiensachen im Verfahren der freiwilligen
-    Gerichtsbarkeit.
+    Angelegenheiten nach den für Kindschaftssachen geltenden Vorschriften
+    des Gesetzes über das Verfahren in Familiensachen und in den
+    Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 
@@ -505,9 +530,18 @@ Zivilprozessordnung benannt, so können bis zur nachträglichen
 Benennung alle Zustellungen an sie durch Aufgabe zur Post (§ 184 Abs.
 1 Satz 2, Abs. 2 der Zivilprozessordnung) bewirkt werden.
 
-(2) Absatz 1 gilt nicht, wenn die antragstellende Person einen
-Verfahrensbevollmächtigten für das Verfahren bestellt hat, an den im
-Inland zugestellt werden kann.
+(2) Absatz 1 gilt nicht, wenn
+
+1.  für die Zustellung unmittelbar anwendbare Regelungen der Europäischen
+    Union im Sinne von § 183 Absatz 1 Satz 1 der Zivilprozessordnung
+    maßgeblich sind oder
+
+
+2.  die antragstellende Person einen Verfahrensbevollmächtigten für das
+    Verfahren bestellt hat, an den im Inland zugestellt werden kann.
+
+
+
 
 
 #### § 18 Einseitiges Verfahren
@@ -580,9 +614,12 @@ erteilt ist.
 (3) In einem Verfahren, das die Vollstreckbarerklärung einer die
 elterliche Verantwortung betreffenden Entscheidung zum Gegenstand hat,
 sind Zustellungen auch an den gesetzlichen Vertreter des Kindes, an
-den Vertreter des Kindes im Verfahren, an das Kind selbst, soweit es
-das 14. Lebensjahr vollendet hat, an einen Elternteil, der nicht am
-Verfahren beteiligt war, sowie an das Jugendamt zu bewirken.
+den Vertreter des Kindes im Verfahren, an das Kind selbst, wenn es das
+14\. Lebensjahr vollendet hat und nicht geschäftsunfähig ist, an einen
+Elternteil, der nicht am Verfahren beteiligt war, sowie an das
+Jugendamt zu bewirken. Eine Begründung soll dem Kind nicht mitgeteilt
+werden, wenn Nachteile für dessen Entwicklung, Erziehung oder
+Gesundheit zu befürchten sind.
 
 (4) Handelt es sich bei der für vollstreckbar erklärten Maßnahme um
 eine Unterbringung, so ist der Beschluss auch dem Leiter der
@@ -592,8 +629,16 @@ untergebracht werden soll.
 
 #### § 22 Wirksamwerden der Entscheidung
 
-Der Beschluss nach § 20 wird erst mit seiner Rechtskraft wirksam.
-Hierauf ist in dem Beschluss hinzuweisen.
+(1) Der Beschluss nach § 20 wird erst mit Rechtskraft wirksam. Hierauf
+ist in dem Beschluss hinzuweisen.
+
+(2) Absatz 1 gilt nicht für den Beschluss, mit dem eine Entscheidung
+über die freiheitsentziehende Unterbringung eines Kindes nach Artikel
+56 der Verordnung (EG) Nr. 2201/2003 für vollstreckbar erklärt wird.
+In diesem Fall hat das Gericht die sofortige Wirksamkeit des
+Beschlusses anzuordnen. § 324 Absatz 2 Satz 2 Nummer 3 und Satz 3 des
+Gesetzes über das Verfahren in Familiensachen und in Angelegenheiten
+der freiwilligen Gerichtsbarkeit gilt entsprechend.
 
 
 #### § 23 Vollstreckungsklausel
@@ -665,6 +710,10 @@ einzulegen
 (5) Die Beschwerde ist dem Beschwerdegegner von Amts wegen
 zuzustellen.
 
+(6) Im Fall des § 22 Absatz 2 kann das Beschwerdegericht durch
+Beschluss die Vollstreckung des angefochtenen Beschlusses einstweilen
+einstellen.
+
 
 #### § 25 Einwendungen gegen den zu vollstreckenden Anspruch
 
@@ -719,8 +768,8 @@ Zivilprozessordnung statt.
 § 575 Abs. 1 bis 4 der Zivilprozessordnung ist entsprechend
 anzuwenden. Soweit die Rechtsbeschwerde darauf gestützt wird, dass das
 Oberlandesgericht von einer Entscheidung des Gerichtshofs der
-Europäischen Gemeinschaften abgewichen sei, muss die Entscheidung, von
-der der angefochtene Beschluss abweicht, bezeichnet werden.
+Europäischen Union abgewichen sei, muss die Entscheidung, von der der
+angefochtene Beschluss abweicht, bezeichnet werden.
 
 
 #### § 30 Verfahren und Entscheidung über die Rechtsbeschwerde
@@ -828,7 +877,7 @@ Zivilprozessordnung entsprechend anzuwenden. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
-#### § 35 Schadensersatz wegen ungerechtfertigter Vollstreckung
+#### § 35 Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten
 
 (1) Wird die Zulassung der Zwangsvollstreckung aus einem Titel über
 die Erstattung von Verfahrenskosten auf die Rechtsbeschwerde
@@ -841,16 +890,20 @@ der zur Zwangsvollstreckung zugelassene Titel zum Zeitpunkt der
 Zulassung nach dem Recht des Staates, in dem er ergangen ist, noch mit
 einem ordentlichen Rechtsbehelf angefochten werden konnte.
 
-(2) Für die Geltendmachung des Anspruchs ist das Gericht
-ausschließlich zuständig, das im ersten Rechtszug über den Antrag, den
-Titel mit der Vollstreckungsklausel zu versehen, entschieden hat.
+(2) Für den Antrag, mit dem ein Anspruch nach Absatz 1 geltend gemacht
+wird, ist das Gericht ausschließlich zuständig, das im ersten
+Rechtszug über den Antrag, den Titel mit der Vollstreckungsklausel zu
+versehen, entschieden hat. Es entscheidet nach den für sonstige
+Familiensachen im Sinne des § 266 Absatz 1 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit geltenden Vorschriften.
 
 
-### Unterabschnitt 7 - Vollstreckungsgegenklage
+### Unterabschnitt 7 - Vollstreckungsabwehrklage
 
 
 
-#### § 36 Vollstreckungsgegenklage bei Titeln über Verfahrenskosten
+#### § 36 Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten
 
 (1) Ist die Zwangsvollstreckung aus einem Titel über die Erstattung
 von Verfahrenskosten zugelassen, so kann die verpflichtete Person
@@ -924,12 +977,13 @@ Vertragsstaat verpflichtet, wird erst mit deren Rechtskraft wirksam.
 Beschwerde zum Oberlandesgericht nach Unterabschnitt 1 des Abschnitts
 5 des Buches 1 des Gesetzes über das Verfahren in Familiensachen und
 in den Angelegenheiten der freiwilligen Gerichtsbarkeit statt; § 65
-Abs. 2, § 68 Abs. 4 sowie § 69 Abs. 1 Satz 2 bis 4 jenes Gesetzes sind
-nicht anzuwenden. Die Beschwerde ist innerhalb von zwei Wochen
-einzulegen und zu begründen. Die Beschwerde gegen eine Entscheidung,
-die zur Rückgabe des Kindes verpflichtet, steht nur dem Antragsgegner,
-dem Kind, soweit es das 14. Lebensjahr vollendet hat, und dem
-beteiligten Jugendamt zu. Eine Rechtsbeschwerde findet nicht statt.
+Abs. 2, § 68 Abs. 4 Satz 1 sowie § 69 Abs. 1 Satz 2 bis 4 jenes
+Gesetzes sind nicht anzuwenden. Die Beschwerde ist innerhalb von zwei
+Wochen einzulegen und zu begründen. Die Beschwerde gegen eine
+Entscheidung, die zur Rückgabe des Kindes verpflichtet, steht nur dem
+Antragsgegner, dem Kind, soweit es das 14. Lebensjahr vollendet hat,
+und dem beteiligten Jugendamt zu. Eine Rechtsbeschwerde findet nicht
+statt.
 
 (3) Das Beschwerdegericht hat nach Eingang der Beschwerdeschrift
 unverzüglich zu prüfen, ob die sofortige Wirksamkeit der angefochtenen
@@ -944,24 +998,35 @@ während des Beschwerdeverfahrens abgeändert werden.
 
 ### § 41 Bescheinigung über Widerrechtlichkeit
 
-Über einen Antrag, die Widerrechtlichkeit des Verbringens oder des
+(1) Über einen Antrag, die Widerrechtlichkeit des Verbringens oder des
 Zurückhaltens eines Kindes nach Artikel 15 Satz 1 des Haager
-Kindesentführungsübereinkommens festzustellen, entscheidet das
-Familiengericht,
+Kindesentführungsübereinkommens festzustellen, entscheidet in
+folgender Rangfolge das Familiengericht, in dessen
+Zuständigkeitsbereich
 
-1.  bei dem die Sorgerechtsangelegenheit oder Ehesache im ersten Rechtszug
-    anhängig ist oder war, sonst
-
-
-2.  in dessen Bezirk das Kind seinen letzten gewöhnlichen Aufenthalt im
-    Geltungsbereich dieses Gesetzes hatte, hilfsweise
+1.  die Sorgerechtsangelegenheit oder Ehesache im ersten Rechtszug
+    anhängig ist oder war,
 
 
-3.  in dessen Bezirk das Bedürfnis der Fürsorge auftritt.
+2.  das Kind seinen letzten gewöhnlichen Aufenthalt im Geltungsbereich
+    dieses Gesetzes hatte,
+
+
+3.  das Bedürfnis der Fürsorge bekannt wird.
 
 
 
-Die Entscheidung ist zu begründen.
+§ 12 gilt entsprechend.
+
+(2) Der Antrag ist zu begründen; die für die Widerrechtlichkeit
+geltend gemachten Gründe sind glaubhaft zu machen.
+
+(3) Das Gericht kann im schriftlichen Verfahren und ohne Anhörung der
+Beteiligten entscheiden. Die Entscheidung ist zu begründen.
+
+(4) Der Beschluss ist mit der sofortigen Beschwerde in entsprechender
+Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar. Eine
+Rechtsbeschwerde findet nicht statt.
 
 
 ### § 42 Einreichung von Anträgen bei dem Amtsgericht
@@ -1140,20 +1205,31 @@ Verordnung (EG) Nr. 2201/2003 gilt § 319 der Zivilprozessordnung
 entsprechend.
 
 
-## Abschnitt 10 - Kosten
+## Abschnitt 10 - Verfahren nach dem Europäischen Adoptionsübereinkommen
 
 
 
-### § 50 (weggefallen)
+### § 50 Verfahren der nationalen Behörde
+
+Auf Anträge aus einem anderen Staat nach Artikel 15 des Europäischen
+Adoptionsübereinkommens finden § 4 Absatz 1, § 6 Absatz 1 und § 9
+entsprechende Anwendung.
+
+
+## Abschnitt 11 - Kosten
+
 
 
 ### § 51 (weggefallen)
 
 
+
 ### § 52 (weggefallen)
 
 
+
 ### § 53 (weggefallen)
+
 
 
 ### § 54 Übersetzungen
@@ -1163,7 +1239,7 @@ Die Höhe der Vergütung für die von der Zentralen Behörde veranlassten
 -entschädigungsgesetz.
 
 
-## Abschnitt 11 - Übergangsvorschriften
+## Abschnitt 12 - Übergangsvorschriften
 
 
 

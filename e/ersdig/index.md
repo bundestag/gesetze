@@ -19,10 +19,10 @@ Neugefasst durch
 :   Bek. v. 17.5.2005 I 1346;
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 5 G v. 20.6.2011 I 1114
+:   Art. 7 G v. 12.12.2019 I 2652
 
 
-## Erster Abschnitt - Aufgaben und Organisation des Zivildienstes
+## Abschnitt 1 - Aufgaben und Organisation des Zivildienstes
 
 
 
@@ -239,7 +239,7 @@ Durchführung. Die Zuschüsse dürfen nur insoweit gewährt werden, als
 der Haushaltsplan hierfür Mittel zur Verfügung stellt.
 
 
-## Zweiter Abschnitt - Tauglichkeit, Zivildienstausnahmen
+## Abschnitt 2 - Tauglichkeit, Zivildienstausnahmen
 
 
 
@@ -765,7 +765,7 @@ auch Verdienstausfall nach Maßgabe der für die Musterung bei den
 Wehrersatzbehörden geltenden Vorschriften erstattet.
 
 
-## Dritter Abschnitt - Heranziehung zum Zivildienst
+## Abschnitt 3 - Heranziehung zum Zivildienst
 
 
 
@@ -922,9 +922,9 @@ das 32. Lebensjahr vollendet haben.
 (2) Während der Zivildienstüberwachung haben die anerkannten
 Kriegsdienstverweigerer dem Bundesamt binnen einer Woche jede Änderung
 ihrer Wohnung zu melden, es sei denn, sie sind innerhalb dieser Frist
-ihrer allgemeinen Meldepflicht nach den Vorschriften der
-Landesmeldegesetze nachgekommen. Ferner haben die anerkannten
-Kriegsdienstverweigerer dem Bundesamt unverzüglich zu melden
+ihrer allgemeinen Meldepflicht nach § 17 des Bundesmeldegesetzes
+nachgekommen. Ferner haben die anerkannten Kriegsdienstverweigerer dem
+Bundesamt unverzüglich zu melden
 
 1.  den Eintritt von Tatsachen, die eine Zivildienstausnahme nach den §§
     8, 9, 10 Abs. 1, § 11 Abs. 1 und 3, §§ 14 bis 14b sowie § 15
@@ -1028,7 +1028,7 @@ Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
 insoweit eingeschränkt.
 
 
-## Vierter Abschnitt - Rechtsstellung der Dienstpflichtigen
+## Abschnitt 4 - Rechtsstellung der Dienstpflichtigen
 
 
 
@@ -1430,25 +1430,38 @@ findet entsprechende Anwendung.
 
 ### § 36 Personalakten und Beurteilungen
 
-(1) Über jeden Dienstpflichtigen ist eine Personalakte zu führen; sie
-ist vertraulich zu behandeln und vor unbefugter Einsicht zu schützen.
-Zur Personalakte gehören alle Unterlagen einschließlich der in Dateien
-gespeicherten Daten, die den Dienstpflichtigen betreffen, soweit sie
-mit seinem Dienstverhältnis in einem unmittelbaren inneren
-Zusammenhang stehen (Personalaktendaten); hierzu gehören auch die die
-Feststellung der Tauglichkeit betreffenden Unterlagen aus der
-Tauglichkeitsakte. Nicht Bestandteil der Personalakte sind Unterlagen,
-die besonderen, von der Person und dem Dienstverhältnis sachlich zu
-trennenden Zwecken dienen, insbesondere Unterlagen über die Abrechnung
-ärztlicher Untersuchungen und Behandlungen; Zugang zu Letzteren haben
-nur der ärztliche Dienst und das für die Heilfürsorge zuständige
-Personal. Personalaktendaten dürfen ohne Einwilligung des
-Dienstpflichtigen nur für Zwecke der Durchführung dieses Gesetzes
-sowie der Einleitung und Durchführung eines Verfahrens zur Rücknahme
-oder zum Widerruf der Anerkennung als Kriegsdienstverweigerer
-verwendet werden; dies gilt auch für ihre Verarbeitung (Speicherung,
-Veränderung, Übermittlung, Sperrung und Löschung) und Nutzung in
-automatisierten Dateien.
+(1) Über jeden Dienstpflichtigen ist eine Personalakte zu führen. Sie
+ist vertraulich zu behandeln und durch technische und organisatorische
+Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
+geltenden Fassung vor unbefugter Einsichtnahme zu schützen. Zur
+Personalakte gehören alle Unterlagen einschließlich der in
+Dateisystemen gespeicherten Daten, die den Dienstpflichtigen
+betreffen, soweit sie mit seinem Dienstverhältnis in einem
+unmittelbaren inneren Zusammenhang stehen (Personalaktendaten); hierzu
+gehören auch die die Feststellung der Tauglichkeit betreffenden
+Unterlagen aus der Tauglichkeitsakte. Nicht Bestandteil der
+Personalakte sind Unterlagen, die besonderen, von der Person und dem
+Dienstverhältnis sachlich zu trennenden Zwecken dienen, insbesondere
+Unterlagen über die Abrechnung ärztlicher Untersuchungen und
+Behandlungen; Zugang zu Letzteren haben nur der ärztliche Dienst und
+das für die Heilfürsorge zuständige Personal. Personalaktendaten
+dürfen ohne Einwilligung des Dienstpflichtigen nur verarbeitet werden:
+
+1.  für die Durchführung dieses Gesetzes,
+
+
+2.  für die Einleitung und Durchführung eines Verfahrens zur Rücknahme
+    oder zum Widerruf der Anerkennung als Kriegsdienstverweigerer.
+
+
+
+Satz 5 gilt auch für die Verarbeitung von Personalaktendaten in
+Dateisystemen.
 
 (2) Personenbezogene Daten über Dienstpflichtige dürfen nur erhoben
 werden, soweit dies zur Begründung, Durchführung, Beendigung oder
@@ -1506,53 +1519,63 @@ Zivildienstverhältnisses so lange aufzubewahren, wie dies insbesondere
 zur Erfüllung der Dienstpflicht oder aus versorgungsrechtlichen
 Gründen erforderlich ist. Sie ist spätestens bei Vollendung des 60.
 Lebensjahres zu vernichten, sofern sie nicht vom Bundesarchiv
-übernommen wird. Für die in Dateien gespeicherten Informationen gelten
-die Sätze 1 und 2 entsprechend. § 12 Abs. 4 Satz 1 und 2
-Kriegsdienstverweigerungsgesetzes bleiben unberührt.
+übernommen wird. Für die in Dateisystemen gespeicherten Informationen
+gelten die Sätze 1 und 2 entsprechend. § 12 Absatz 4 Satz 1 und 2 des
+Kriegsdienstverweigerungsgesetzes bleibt unberührt.
 
-(6) Der Dienstpflichtige hat, auch nach seinem Ausscheiden aus dem
-Zivildienstverhältnis, ein Recht auf Einsicht in seine vollständige
-Personalakte. Einer bevollmächtigten Person ist Einsicht zu gewähren,
-soweit dienstliche Gründe nicht entgegenstehen. Dies gilt auch für
-Hinterbliebene, wenn ein berechtigtes Interesse glaubhaft gemacht
-wird. Für Auskünfte aus der Personalakte gelten die Sätze 2 und 3
-entsprechend\*
+(6) Das Recht des Dienstpflichtigen auf Auskunft gemäß Artikel 15 der
+Verordnung (EU) 2016/679 umfasst auch das Recht auf Einsicht in die
+vollständige Personalakte. Dies gilt auch nach Beendigung des
+Zivildienstverhältnisses. Soweit keine dienstlichen Gründe
+entgegenstehen, werden Kopien oder Ausdrucke aus der Personalakte
+angefertigt. Dem Dienstpflichtigen ist auf Verlangen ein Ausdruck der
+Personalaktendaten zu überlassen, die zu seiner Person automatisiert
+gespeichert sind.
 
-(7) Der Dienstpflichtige hat ein Recht auf Einsicht auch in andere
-Akten, die personenbezogene Daten über ihn enthalten und für sein
-Dienstverhältnis verarbeitet oder genutzt werden, soweit gesetzlich
-nichts anderes bestimmt ist. Die Einsichtnahme ist unzulässig, wenn
-die Daten des Betroffenen mit Daten einer dritten Person oder
-geheimhaltungsbedürftigen nicht personenbezogenen Daten derart
-verbunden sind, dass die Trennung nicht oder nur mit unverhältnismäßig
-großem Aufwand möglich ist. In diesem Fall ist dem Dienstpflichtigen
-Auskunft zu erteilen.
+(7) Der Dienstpflichtige hat ein Recht auf Auskunft auch über
+personenbezogene Daten über ihn, die in anderen Akten enthalten sind
+und für sein Dienstverhältnis verarbeitet werden, soweit gesetzlich
+nichts anderes bestimmt ist. Das Recht auf Auskunft umfasst auch das
+Recht auf Einsicht in die Akten. Keine Einsicht wird gewährt, soweit
+die anderen Akten personenbezogene Daten Dritter oder
+geheimhaltungsbedürftige nicht personenbezogene Daten enthalten, die
+mit den Daten des Dienstpflichtigen derart verbunden sind, dass eine
+Trennung nicht oder nur mit unverhältnismäßig großem Aufwand möglich
+ist.
 
-(8) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+(8) Bevollmächtigten des Dienstpflichtigen ist Auskunft aus der
+Personalakte zu erteilen, soweit dienstliche Gründe nicht
+entgegenstehen. Das Recht auf Auskunft umfasst auch das Recht auf
+Einsicht in die vollständige Personalakte. Entsprechendes gilt für
+Hinterbliebene des Dienstpflichtigen und für Bevollmächtigte der
+Hinterbliebenen, wenn ein berechtigtes Interesse glaubhaft gemacht
+wird.
+
+(9) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 bestimmt durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, nähere Einzelheiten über
 
 1.  die Anlage und Führung der Personalakte des Dienstpflichtigen, auch
-    für die Zeit nach seinem Ausscheiden aus dem Zivildienstverhältnis,
+    für die Zeit nach der Beendigung des Zivildienstverhältnisses,
 
 
 2.  das Verfahren der Weitergabe, Aufbewahrung und Vernichtung oder den
     Verbleib der Personalakten einschließlich der Übermittlung und
-    Löschung oder des Verbleibs der in automatisierten Dateien
-    gespeicherten Informationen sowie die hieran beteiligten Stellen,
+    Löschung oder des Verbleibs der in Dateisystemen gespeicherten
+    Informationen sowie die hieran beteiligten Stellen,
 
 
-3.  die Einrichtung und den Betrieb automatisierter Dateien einschließlich
-    der Zugriffsmöglichkeiten auf die gespeicherten Informationen,
+3.  die Einrichtung und den Betrieb automatisierter Dateisysteme
+    einschließlich der Zugriffsmöglichkeiten auf die gespeicherten
+    Informationen,
 
 
-4.  die Einzelheiten der Art und Weise der Einsichtgewährung und
-    Auskunfterteilung aus der Personalakte oder einer automatisierten
-    Datei und
+4.  die Erteilung von Auskünften aus der Personalakte oder aus einem
+    automatisierten Dateisystem und
 
 
-5.  die Befugnis von Personen im Sinne des § 203 Abs. 1 Nr. 1 und 2 des
-    Strafgesetzbuches, die im Rahmen der unentgeltlichen ärztlichen
+5.  die Befugnis von Personen im Sinne des § 203 Absatz 1 Nummer 1 und 2
+    des Strafgesetzbuches, die im Rahmen der unentgeltlichen ärztlichen
     Versorgung des Dienstpflichtigen tätig werden, vom Dienstherrn mit der
     Untersuchung des Dienstpflichtigen oder mit der Erstellung von
     Gutachten über ihn beauftragt worden sind, dem Arztgeheimnis
@@ -1564,7 +1587,6 @@ Bundesrates bedarf, nähere Einzelheiten über
 
 ### § 36a (weggefallen)
 
--
 
 
 ### § 37 Beteiligung der Dienstleistenden
@@ -1704,7 +1726,7 @@ entsprechend § 5 Absatz 2 der Soldatinnen- und
 Soldatenurlaubsverordnung.
 
 
-## Fünfter Abschnitt - Ende des Zivildienstes; Versorgung
+## Abschnitt 5 - Ende des Zivildienstes; Versorgung
 
 
 
@@ -2236,8 +2258,19 @@ Maßgaben entsprechende Anwendung:
 Die Nummern 2 und 3 gelten nur in Angelegenheiten des § 35 Abs. 5 und
 8 und des § 50.
 
-(4) § 88 Abs. 8 und 9 des Soldatenversorgungsgesetzes findet
-entsprechende Anwendung.
+(4) Die Aufwendungen für die Versorgungsleistungen trägt der Bund. Die
+Ausgaben sind für Rechnung des Bundes zu leisten. Die damit
+zusammenhängenden Einnahmen sind an den Bund abzuführen.
+
+(5) Auf die für Rechnung des Bundes geleisteten Ausgaben und die mit
+ihnen zusammenhängenden Einnahmen ist das Haushaltsrecht des Bundes
+anzuwenden. Die für die Durchführung des Haushalts verantwortlichen
+Bundesbehörden können ihre Befugnisse auf die zuständigen obersten
+Landesbehörden übertragen. In diesem Fall können sie zulassen, dass
+auf die für Rechnung des Bundes zu leistenden Ausgaben und auf die mit
+ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
+über die Kassen- und Buchführung der zuständigen Landesbehörden
+angewendet werden.
 
 
 ### § 51a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
@@ -2252,7 +2285,7 @@ Versorgungsleistungen und Ruhensregelungen abweichend von diesem
 Gesetz.
 
 
-## Sechster Abschnitt - Straf-, Bußgeld- und Disziplinarvorschriften
+## Abschnitt 6 - Straf-, Bußgeld- und Disziplinarvorschriften
 
 
 
@@ -2769,8 +2802,8 @@ getilgt oder tilgungsreif sind, werden Auskünfte nur mit Zustimmung
 des Dienstleistenden oder des früheren Dienstleistenden erteilt.
 
 (2) Die Empfängerin oder der Empfänger darf die übermittelten
-Auskünfte nur für den Zweck verarbeiten oder nutzen, zu dessen
-Erfüllung sie ihm übermittelt wurden.
+Auskünfte nur für den Zweck verarbeiten, zu dessen Erfüllung sie ihm
+übermittelt wurden.
 
 
 ### § 69a Tilgung
@@ -2807,7 +2840,7 @@ und des Ausschlusses gemäß § 45 Abs. 1 zu. Sie oder er übt es selbst
 aus oder überträgt die Ausübung anderen Stellen.
 
 
-## Siebenter Abschnitt - Besondere Verfahrensvorschriften
+## Abschnitt 7 - Besondere Verfahrensvorschriften
 
 
 
@@ -2891,7 +2924,7 @@ anderen als den in § 2 Abs. 1 und § 5a bezeichneten Stellen erlassen
 werden.
 
 
-## Achter Abschnitt - Schlussvorschriften
+## Abschnitt 8 - Schlussvorschriften
 
 
 
@@ -2899,27 +2932,33 @@ werden.
 
 (1) Für anerkannte Kriegsdienstverweigerer gelten entsprechend
 
-1.  das Arbeitsplatzschutzgesetz mit der Maßgabe, dass in § 14a Abs. 2 an
-    die Stelle des Bundesministeriums der Verteidigung und der von diesem
-    bestimmten Stelle das Bundesministerium für Familie, Senioren, Frauen
-    und Jugend und die von diesem bestimmte Stelle treten und in § 14a
-    Abs. 6 an die Stelle des Bundesministeriums der Verteidigung das
-    Bundesministerium für Familie, Senioren, Frauen und Jugend und dass an
-    die Stelle des Grundwehrdienstes der Zivildienst tritt;
+1.  das Arbeitsplatzschutzgesetz mit der Maßgabe, dass
+
+    a)  in § 14a Absatz 2 an die Stelle des Bundesministeriums der
+        Verteidigung und der von diesem bestimmten Stelle sowie in § 14c
+        Absatz 1 an die Stelle des Bundesamtes für das Personalmanagement der
+        Bundeswehr das Bundesministerium für Familie, Senioren, Frauen und
+        Jugend und die von diesem bestimmte Stelle treten und
 
 
-2.  das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 23 an die
-    Stelle des Bundesministeriums der Verteidigung das Bundesministerium
-    für Familie, Senioren, Frauen und Jugend und dass an die Stelle des
-    Grundwehrdienstes der Zivildienst tritt.
+    b)  an die Stelle des Grundwehrdienstes der Zivildienst tritt;
+
+
+
+
+
+2.  das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 24 an die
+    Stelle des Bundesamtes für das Personalmanagement der Bundeswehr die
+    vom Bundesministerium für Familie, Senioren, Frauen und Jugend
+    bestimmte Stelle tritt.
 
 
 
 
 (2) Soweit in diesem Gesetz nichts anderes bestimmt ist, stehen der
 Zivildienst und der freiwillige zusätzliche Zivildienst bei Anwendung
-der Vorschriften des öffentlichen Dienstrechts dem Wehrdienst nach
-Maßgabe des Wehrpflichtgesetzes gleich.
+der Vorschriften des öffentlichen Dienstrechts dem Grundwehrdienst
+nach Maßgabe des Wehrpflichtgesetzes gleich.
 
 
 ### § 79 Vorschriften für den Spannungs- oder Verteidigungsfall
@@ -2971,11 +3010,6 @@ des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des
 Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) sowie das Petitionsrecht (Artikel 17 des Grundgesetzes)
 werden nach Maßgabe dieses Gesetzes eingeschränkt.
-
-
-### § 81 (weggefallen)
-
--
 
 
 ### § 81 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
@@ -3045,7 +3079,7 @@ Zuschussverordnung vom 1. August 2002 in der am 30. November 2010
 geltenden Fassung.
 
 
-### § 82 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 31. Juli 2008 (BGBl. I S. 1629)
+### § 82 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2008
 
 Auf anerkannte Kriegsdienstverweigerer, die vor dem Inkrafttreten des
 Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt

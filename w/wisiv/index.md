@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2159
 
-Geändert durch
-:   Art. 379 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 266 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -317,10 +317,10 @@ Verpflichtung im öffentlichen Interesse anzuordnen.
 
 ### § 7 Einschränkungen
 
-(1) Schränkt das Bundesministerium für Wirtschaft und Technologie
-durch Verordnung die Lieferung, den Bezug oder die Verwendung von
-Waren zeitlich oder mengenmäßig ein (Warenbewirtschaftung), so darf
-der Unternehmer solche Waren nur liefern, sie beziehen oder verwenden,
+(1) Schränkt das Bundesministerium für Wirtschaft und Energie durch
+Verordnung die Lieferung, den Bezug oder die Verwendung von Waren
+zeitlich oder mengenmäßig ein (Warenbewirtschaftung), so darf der
+Unternehmer solche Waren nur liefern, sie beziehen oder verwenden,
 soweit
 
 1.  eine Verpflichtung nach § 2 oder § 6 vorliegt,
@@ -344,7 +344,7 @@ nur entnehmen, wenn die Voraussetzungen des Absatzes 1 erfüllt sind.
 
 ### § 8 Allgemeine Zulassungen und Genehmigungen im Einzelfall
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann die
+(1) Das Bundesministerium für Wirtschaft und Energie kann die
 Lieferung, den Bezug und die Verwendung bewirtschafteter Waren durch
 Unternehmer insgesamt oder hinsichtlich bestimmter Waren und
 Warenarten oder besonderer Tatbestände allgemein zulassen.
@@ -358,25 +358,24 @@ Bezug oder die Verwendung dieser Waren genehmigen.
 (1) Für den Bezug von bewirtschafteten Waren kann die zuständige
 Behörde zur Deckung des nach § 1 Abs. 2 bestehenden Bedarfs auf
 begründeten Antrag Bezugscheine erteilen. Das Bundesministerium für
-Wirtschaft und Technologie oder die für die gewerbliche Wirtschaft
+Wirtschaft und Energie oder die für die gewerbliche Wirtschaft
 zuständige oberste Landesbehörde können ein anderes Verfahren
 zulassen, wenn der Nachweis der Lieferung und des Bezuges
 bewirtschafteter Waren sichergestellt ist.
 
 (2) Die Bezugscheine gelten für die Dauer einer Versorgungsperiode.
-Diese wird vom Bundesministerium für Wirtschaft und Technologie durch
+Diese wird vom Bundesministerium für Wirtschaft und Energie durch
 Verordnung bestimmt.
 
 (3) Die Bezugscheine dürfen nicht übertragen werden.
 
 (4) Abweichend von Absatz 1 können als Bezugsberechtigung für
 bewirtschaftete Waren des regelmäßig wiederkehrenden Bedarfs
-natürlicher Personen vom Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz besondere Abschnitte auf den
-Verbraucherkarten (§ 7 Abs. 1 Nr. 1 der
-Ernährungsbewirtschaftungsverordnung in der jeweils geltenden Fassung)
-bestimmt werden.
+natürlicher Personen vom Bundesministerium für Wirtschaft und Energie
+im Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft besondere Abschnitte auf den Verbraucherkarten (§ 7
+Abs. 1 Nr. 1 der Ernährungsbewirtschaftungsverordnung in der jeweils
+geltenden Fassung) bestimmt werden.
 
 (5) Unternehmer, die Endverbraucher mit bewirtschafteten Waren
 beliefern, haben die im Bezugschein oder nach dem Kartenabschnitt
@@ -397,7 +396,7 @@ Für Zwecke der Zuteilung und des Bezuges von Waren der gewerblichen
 Wirtschaft zur Deckung des persönlichen Bedarfs kann ein
 Zuteilungsnachweis eingeführt werden. Über seine Einführung und
 Ausgestaltung entscheidet das Bundesministerium für Wirtschaft und
-Technologie im Benehmen mit den Ländern.
+Energie im Benehmen mit den Ländern.
 
 
 ### § 11 Meldungen
@@ -435,8 +434,8 @@ Zeitpunkt erneut Meldungen abzugeben sind.
 
 (1) Zuständig sind
 
-1.  das Bundesministerium für Wirtschaft und Technologie für die Erteilung
-    von Ermächtigungen nach § 3 Abs. 1 an
+1.  das Bundesministerium für Wirtschaft und Energie für die Erteilung von
+    Ermächtigungen nach § 3 Abs. 1 an
 
     a)  die obersten Bundesbehörden,
 
@@ -578,8 +577,8 @@ Die übergeordnete Behörde ist in den Fällen des § 12 Abs. 2 zuständig.
 (2) Diese Verordnung darf mit Ausnahme des § 12 Abs. 3 gemäß § 2 Abs.
 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels
 80a des Grundgesetzes und erst dann angewandt werden, wenn und soweit
-es das Bundesministerium für Wirtschaft und Technologie durch
-Verordnung bestimmt.
+es das Bundesministerium für Wirtschaft und Energie durch Verordnung
+bestimmt.
 
 (3) § 12 Abs. 3 ist mit dem Inkrafttreten anwendbar.
 

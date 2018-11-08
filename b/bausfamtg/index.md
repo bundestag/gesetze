@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 376
 
 Zuletzt geändert durch
-:   Art. 129 V v. 31.10.2006 I 2407
+:   Art. 250 V v. 31.8.2015 I 1474
 
 
 ## Art 1 - Errichtung eines Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
@@ -26,12 +26,12 @@ Zuletzt geändert durch
 ## § 1 Errichtung
 
 (1) Im Geschäftsbereich des Bundesministeriums für Wirtschaft und
-Technologie wird ein Bundesamt für Wirtschaft und Ausfuhrkontrolle
-(BAFA) als selbständige Bundesoberbehörde errichtet.
+Energie wird ein Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+als selbständige Bundesoberbehörde errichtet.
 
 (2) Der Präsident des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 (BAFA) wird vom Bundespräsidenten auf Vorschlag des Bundesministeriums
-für Wirtschaft und Technologie ernannt.
+für Wirtschaft und Energie ernannt.
 
 
 ## § 2 Aufgaben
@@ -45,8 +45,8 @@ werden.
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) erledigt
 ferner, soweit keine andere Zuständigkeit gesetzlich festgelegt ist,
 Aufgaben des Bundes auf den in Absatz 1 genannten Gebieten, mit deren
-Durchführung es vom Bundesministerium für Wirtschaft und Technologie
-oder mit seiner Zustimmung von der sachlich zuständigen obersten
+Durchführung es vom Bundesministerium für Wirtschaft und Energie oder
+mit seiner Zustimmung von der sachlich zuständigen obersten
 Bundesbehörde beauftragt wird.
 
 (3) Dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) obliegt
@@ -58,7 +58,7 @@ soweit die Durchführung durch das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) in den Rechtsverordnungen vorgesehen ist.
 
 
-## Art 2 bis 6
+## Art 2 bis 6 - 
 
 
 

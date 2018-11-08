@@ -2,7 +2,7 @@
 Title: Erste Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
 jurabk: LohnUGAÜV 1
 layout: default
-origslug: lohnuga_v_1
+origslug: lohnugauev_1
 slug: lohnugauev_1
 
 ---

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2386 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 307 V v. 31.10.2006 I 2407
+:   Art. 21 G v. 9.6.2021 I 1614
 
 
 ## Erster Abschnitt - Gründung
@@ -347,20 +347,21 @@ Auskünfte zu erteilen.
 (6) Die Deutsche Bahn Aktiengesellschaft kann den ihr gemäß den
 Absätzen 2 und 3 zugewiesenen Beamten im Einvernehmen mit dem
 Bundeseisenbahnvermögen eine höher zu bewertende Tätigkeit übertragen.
-Im übrigen wird das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ermächtigt, durch Rechtsverordnung im Einvernehmen
-mit dem Bundesministerium des Innern in bezug auf die gemäß den
-Absätzen 2 und 3 zugewiesenen Beamten zu bestimmen, welche weiteren
-beamtenrechtlichen Entscheidungen sowie sonstigen Entscheidungen und
-Maßnahmen, die mit der Dienstausübung des Beamten im Betrieb der
-Deutsche Bahn Aktiengesellschaft in unmittelbarem Zusammenhang stehen,
-der Deutsche Bahn Aktiengesellschaft zur Ausübung übertragen werden.
+Im übrigen wird das Bundesministerium für Verkehr und digitale
+Infrastruktur ermächtigt, durch Rechtsverordnung im Einvernehmen mit
+dem Bundesministerium des Innern, für Bau und Heimat in bezug auf die
+gemäß den Absätzen 2 und 3 zugewiesenen Beamten zu bestimmen, welche
+weiteren beamtenrechtlichen Entscheidungen sowie sonstigen
+Entscheidungen und Maßnahmen, die mit der Dienstausübung des Beamten
+im Betrieb der Deutsche Bahn Aktiengesellschaft in unmittelbarem
+Zusammenhang stehen, der Deutsche Bahn Aktiengesellschaft zur Ausübung
+übertragen werden.
 
 (7) Erhält ein Beamter aus einer Zuweisung gemäß den Absätzen 2 und 3
 anderweitige Bezüge, werden diese auf die Besoldung angerechnet. In
 besonderen Fällen kann die oberste Dienstbehörde im Einvernehmen mit
-dem Bundesministerium des Innern von der Anrechnung ganz oder
-teilweise absehen.
+dem Bundesministerium des Innern, für Bau und Heimat von der
+Anrechnung ganz oder teilweise absehen.
 
 (8) § 8 Abs. 3 des Einkommensteuergesetzes gilt für die nach den
 Absätzen 2 und 3 zugewiesenen Beamten und die Ruhestandsbeamten des
@@ -520,12 +521,13 @@ besondere Personalvertretung wirkt mit bei der Entscheidung des
 Bundeseisenbahnvermögens. Im übrigen finden die Vorschriften des
 Bundespersonalvertretungsgesetzes sinngemäß Anwendung.
 
-(2) In den der Deutsche Bahn Aktiengesellschaft übertragenen, in § 76
-Abs. 1 des Bundespersonalvertretungsgesetzes genannten
-Personalangelegenheiten der Beamten hat die auf unterster Ebene
-gebildete besondere Personalvertretung ein Mitbestimmungsrecht. Auf
-dieses Mitbestimmungsrecht finden die Vorschriften des § 77 des
-Bundespersonalvertretungsgesetzes entsprechende Anwendung.
+(2) In den der Deutsche Bahn Aktiengesellschaft übertragenen, in § 78
+Absatz 1 Nummer 1 bis 3 und 5 bis 11 des
+Bundespersonalvertretungsgesetzes genannten Personalangelegenheiten
+der Beamten hat die auf unterster Ebene gebildete besondere
+Personalvertretung ein Mitbestimmungsrecht. Auf dieses
+Mitbestimmungsrecht finden die Vorschriften des § 78 Absatz 3 bis 5
+des Bundespersonalvertretungsgesetzes entsprechende Anwendung.
 
 (3) Verweigert die besondere Personalvertretung in den Fällen des
 Absatzes 2 ihre Zustimmung, so hat sie dies unter Angabe von Gründen
@@ -539,7 +541,7 @@ mit, so gilt die Zustimmung als erteilt.
 besonderen Personalvertretung in den Fällen des Absatzes 2 keine
 Einigung, so ist unverzüglich die Einigungsstelle anzurufen, die
 binnen zweier Monate feststellt, ob ein Grund zur Verweigerung der
-Zustimmung im Sinne des § 77 Abs. 2 des
+Zustimmung im Sinne des § 78 Absatz 5 des
 Bundespersonalvertretungsgesetzes vorliegt. Schließt sich die
 Einigungsstelle nicht der Auffassung der Deutsche Bahn
 Aktiengesellschaft an, so gibt sie dieser eine Empfehlung. Folgt die
@@ -718,7 +720,20 @@ Arbeits- und Ausbildungsverhältnisse gemäß § 14 Abs. 2 auf sie
 1\. Oktober 2005 Deutsche Rentenversicherung Knappschaft-Bahn-See,
 pflichtversichert sind, Zahlungen in Höhe der Aufwendungen, die die
 Gesellschaft für die betriebliche Altersversorgung der von ihr
-eingestellten Arbeitnehmer erbringt.
+eingestellten Arbeitnehmer erbringt. Die Deutsche Bahn
+Aktiengesellschaft ist verpflichtet, dem Bundeseisenbahnvermögen über
+die in Satz 1 genannte Höhe der Aufwendungen für die betriebliche
+Altersversorgung auf Verlangen Auskunft zu erteilen, soweit dies für
+die Berechnung der in Satz 1 genannten Zahlungspflicht erforderlich
+ist.
+
+(4a) Sämtliche in Absatz 4 Satz 1 und 2 genannten Pflichten treffen
+auch denjenigen, auf den die in § 14 Absatz 2 genannten Ausbildungs-
+und Arbeitsverhältnisse von der Deutschen Bahn Aktiengesellschaft oder
+einer ausgegliederten Tochtergesellschaft übergehen, wenn das
+Bundeseisenbahnvermögen bezüglich dieser Ausbildungs- und
+Arbeitsverhältnisse die Pflichtversicherung nach § 14 Absatz 2 Satz 2
+fortzuführen hat.
 
 (5) Das Bundeseisenbahnvermögen erstattet der Deutsche Bahn
 Aktiengesellschaft
@@ -741,6 +756,8 @@ Aktiengesellschaft
 
 
 
+Im Falle des Satzes 1 Nummer 2 werden die Kosten nur für vor dem 1.
+Januar 2020 vollzogene Rationalisierungsmaßnahmen erstattet.
 
 (6) Absatz 5 Nr. 2 gilt entsprechend für auf Grund des öffentlichen
 Dienstrechts fortbestehende Dienstverhältnisse der der Deutsche Bahn
@@ -763,7 +780,7 @@ Handelsregister.
 (8) Einzelheiten zur Durchführung der Absätze 1 bis 7 werden zwischen
 dem Bundeseisenbahnvermögen und der Deutsche Bahn Aktiengesellschaft
 vereinbart. Die Vereinbarung bedarf der Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung und des
+Bundesministeriums für Verkehr und digitale Infrastruktur und des
 Bundesministeriums der Finanzen.
 
 (9) Die Deutsche Bahn Aktiengesellschaft legt jährlich Rechnung über
@@ -833,7 +850,7 @@ des in den Nummern 2 und 3 genannten Produktivitätsrückstandes gilt §
 
 (2) Einzelheiten zur Durchführung des Absatzes 1 werden in
 Vereinbarungen zwischen der Deutsche Bahn Aktiengesellschaft und dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 
 (3) Die gemäß Absatz 1 beantragten Zuwendungen sind im einzelnen im
@@ -845,7 +862,7 @@ Aktiengesellschaft stimmt die Investitionsplanung mit den Ländern
 Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt
 und Thüringen nach Maßgabe einer entsprechenden Vereinbarung ab. Die
 notwendigen Rechenwerke können im Auftrag des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung und des Bundesministeriums der
+Verkehr und digitale Infrastruktur und des Bundesministeriums der
 Finanzen von einem Wirtschaftsprüfer oder einer
 Wirtschaftsprüfungsgesellschaft geprüft werden.
 

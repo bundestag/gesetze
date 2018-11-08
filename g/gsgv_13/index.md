@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 8.11.2011 I 2178
 
+Änderung durch
+:   Art. 27 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -27,8 +30,8 @@ neuen Aerosolpackungen, deren Behälter ein Gesamtfassungsvermögen von
 
 (2) Diese Verordnung gilt nicht für
 
-1.  Aerosolpackungen mit Metallbehältern, deren Gesamtfassungsvermögen 1
-    000 Milliliter übersteigt,
+1.  Aerosolpackungen mit Metallbehältern, deren Gesamtfassungsvermögen
+    1 000 Milliliter übersteigt,
 
 
 2.  Aerosolpackungen mit Glasbehältern, deren Gesamtfassungsvermögen
@@ -138,7 +141,7 @@ können.
 
 ## § 6 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
+Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Nr. 2 eine Aerosolpackung auf dem Markt bereitstellt.
 

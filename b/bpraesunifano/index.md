@@ -43,7 +43,7 @@ I.  Offiziere:
         c)  Generalmajor, Konteradmiral, Generalstabsarzt, Admiralstabsarzt;
 
 
-        d)  Brigadegeneral, Flotillenadmiral, Generalarzt, Admiralarzt,
+        d)  Brigadegeneral, Flottillenadmiral, Generalarzt, Admiralarzt,
             Generalapotheker;
 
 
@@ -55,8 +55,8 @@ I.  Offiziere:
             Flottenapotheker, Oberstveterinär;
 
 
-        b)  Oberstleutnant, Fregattenkapitän, Oberfeldarzt, Flotillenarzt,
-            Oberfeldapotheker, Flotillenapotheker, Oberfeldveterinär;
+        b)  Oberstleutnant, Fregattenkapitän, Oberfeldarzt, Flottillenarzt,
+            Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär;
 
 
         c)  Major, Korvettenkapitän, Oberstabsarzt, Oberstabsapotheker,
@@ -454,7 +454,7 @@ III. Dienstgradabzeichen:
             vier mittelbreite Ärmelstreifen auf beiden Unterärmeln;
 
 
-        v)  Flotillenadmiral
+        v)  Flottillenadmiral
 
             ein handbreiter, darüber ein schmaler Ärmelstreifen auf beiden
             Unterärmeln;

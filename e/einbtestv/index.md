@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1649
 
+Geändert durch
+:   Art. 1 V v. 18.3.2013 I 585
+
 
 ## Eingangsformel
 
@@ -102,7 +105,8 @@ Diese Verordnung tritt am 1. September 2008 in Kraft.
 
 ## Anlage 1 Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen
 
-(Fundstelle: Anlageband zum BGBl. I 2008 Nr. 35 Seite 4 bis 140)
+(Fundstelle: Anlageband zum BGBl. I 2008 Nr. 35 Seite 4 bis 140; bzgl.
+der einzelnen Änderungen vgl. Fußnote)
 ## Anlage 1
 
 Gesamtkatalog
@@ -230,24 +234,27 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-5.  Wen müssen Sie in Deutschland auf Verlangen in Ihre Wohnung lassen?
+5.  Wahlen in Deutschland sind frei. Was bedeutet das?
 
-    *   den Postboten / die Postbotin
-
-
-
-
-    *   den Vermieter / die Vermieterin
+    *   Man darf Geld annehmen, wenn man dafür einen bestimmten
+        Kandidaten/eine bestimmte Kandidatin wählt.
 
 
 
 
-    *   den Nachbarn / die Nachbarin
+    *   Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.
 
 
 
 
-    *   den Arbeitgeber / die Arbeitgeberin
+    *   Der Wähler darf bei der Wahl weder beeinflusst noch zu einer
+        bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die
+        Wahl haben.
+
+
+
+
+    *   Alle wahlberechtigten Personen müssen wählen.
 
 
 
@@ -443,25 +450,26 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-13. Wer in seiner Heimat wegen seiner politischen Meinung verfolgt wird
-    und deshalb nach Deutschland flieht, kann was beantragen?
+13. Im Parlament steht der Begriff „Opposition“ für ...
 
-    *   Begrüßungsgeld
-
-
-
-
-    *   Asyl
+    *   die regierenden Parteien.
 
 
 
 
-    *   Arbeitslosengeld
+    *   die Fraktion mit den meisten Abgeordneten.
 
 
 
 
-    *   Rente
+    *   alle Parteien, die bei der letzten Wahl die 5 %-Hürde erreichen
+        konnten.
+
+
+
+
+    *   alle Abgeordneten, die nicht zu der Regierungspartei/den
+        Regierungsparteien gehören.
 
 
 
@@ -708,25 +716,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-23. Wenn man in Deutschland ein bestimmtes Alter erreicht und aufhört zu
-    arbeiten, was bekommt man dann meistens?
+23. In Deutschland sind die meisten Erwerbstätigen …
 
-    *   Rente
-
-
-
-
-    *   Gehalt
+    *   in kleinen Familienunternehmen beschäftigt.
 
 
 
 
-    *   nichts
+    *   ehrenamtlich für ein Bundesland tätig.
 
 
 
 
-    *   Ausbildungsgeld
+    *   selbständig mit einer eigenen Firma tätig.
+
+
+
+
+    *   bei einer Firma oder Behörde beschäftigt.
 
 
 
@@ -761,24 +768,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-25. Die Bundesrepublik Deutschland besteht aus …
+25. Was ist *kein*                    Bundesland der Bundesrepublik
+    Deutschland?
 
-    *   12 Bezirken.
-
-
-
-
-    *   16 Bundesländern.
+    *   Elsass-Lothringen
 
 
 
 
-    *   einem Oststaat und einem Weststaat.
+    *   Nordrhein-Westfalen
 
 
 
 
-    *   16 Freistaaten.
+    *   Mecklenburg-Vorpommern
+
+
+
+
+    *   Sachsen-Anhalt
 
 
 
@@ -1600,25 +1608,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-57. Es gehört *nicht*                    zu den Aufgaben des deutschen
-    Bundesrates …
+57. Wer wird meistens zum Präsidenten/zur Präsidentin des Deutschen
+    Bundestages gewählt?
 
-    *   an der Verwaltung des Bundes mitzuwirken.
-
-
-
-
-    *   die Interessen der Länder zu wahren.
+    *   der/die älteste Abgeordnete im Parlament
 
 
 
 
-    *   den Bundeskanzler / die Bundeskanzlerin zu wählen.
+    *   der Ministerpräsident/die Ministerpräsidentin des größten Bundeslandes
 
 
 
 
-    *   an der Gesetzgebung des Bundes mitzuwirken.
+    *   ein ehemaliger Bundeskanzler/eine ehemalige Bundeskanzlerin
+
+
+
+
+    *   ein Abgeordneter/eine Abgeordnete der stärksten Fraktion
 
 
 
@@ -1973,24 +1981,29 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-71. Wo arbeitet die deutsche Bundesregierung?
+71. Wo hält sich der deutsche Bundeskanzler/die deutsche Bundeskanzlerin
+    am häufigsten auf? Am häufigsten ist er/sie ...
 
-    *   in Potsdam
-
-
-
-
-    *   in Berlin
+    *   in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag
+        befinden.
 
 
 
 
-    *   in Frankfurt/Main
+    *   auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um
+        Staatsgäste zu empfangen.
 
 
 
 
-    *   in Leipzig
+    *   auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten/der
+        Bundespräsidentin, um Staatsgäste zu empfangen.
+
+
+
+
+    *   in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag
+        befinden.
 
 
 
@@ -2080,7 +2093,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 75. Wie heißt Deutschlands heutiges Staatsoberhaupt?
 
-    *   Horst Köhler
+    *   Joachim Gauck
 
 
 
@@ -2261,25 +2274,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-82. Wie nennt man den Regierungschef / die Regierungschefin der
-    Bundesrepublik Deutschland?
+82. Wer leitet das deutsche Bundeskabinett?
 
-    *   Premierminister / Premierministerin
-
-
-
-
-    *   Bundespräsident / Bundespräsidentin
+    *   der Bundestagspräsident/die Bundestagspräsidentin
 
 
 
 
-    *   Bundeskanzler / Bundeskanzlerin
+    *   der Bundespräsident/die Bundespräsidentin
 
 
 
 
-    *   Ministerpräsident / Ministerpräsidentin
+    *   der Bundesratspräsident/die Bundesratspräsidentin
+
+
+
+
+    *   der Bundeskanzler/die Bundeskanzlerin
 
 
 
@@ -2553,25 +2565,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-93. Ab welchem Alter darf man in Deutschland bei der Bundestagswahl
-    wählen?
+93. Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt,
+    desto …
 
-    *   ab 18 Jahren
-
-
-
-
-    *   ab 19 Jahren
+    *   weniger Erststimmen kann sie haben.
 
 
 
 
-    *   ab 20 Jahren
+    *   mehr Direktkandidaten der Partei ziehen ins Parlament ein.
 
 
 
 
-    *   ab 21 Jahren
+    *   größer ist das Risiko, eine Koalition bilden zu müssen.
+
+
+
+
+    *   mehr Sitze erhält die Partei im Parlament.
 
 
 
@@ -2687,25 +2699,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-98. Welche Pflicht gilt in Deutschland nur für männliche und nicht für
-    weibliche Staatsangehörige?
+98. Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …
 
-    *   Wehrpflicht
-
-
-
-
-    *   Schulpflicht
+    *   dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.
 
 
 
 
-    *   Wahlpflicht
+    *   kann die Regierung ihre Mehrheit verlieren.
 
 
 
 
-    *   Steuerpflicht
+    *   muss der Bundespräsident/die Bundespräsidentin zuvor sein/ihr
+        Einverständnis geben.
+
+
+
+
+    *   dürfen die Wähler/Wählerinnen dieser Abgeordneten noch einmal wählen.
 
 
 
@@ -2740,25 +2752,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-100. Jeder / Jede deutsche Staatsangehörige muss …
+100. Was gehört nicht zur gesetzlichen Sozialversicherung?
 
-    *   immer einen Reisepass dabei haben.
-
-
-
-
-    *   mit Vollendung des 16. Lebensjahres einen gültigen Personalausweis
-        oder einen gültigen Reisepass besitzen.
+    *   die Lebensversicherung
 
 
 
 
-    *   immer eine Krankenkassenkarte dabei haben.
+    *   die gesetzliche Rentenversicherung
 
 
 
 
-    *   mit Vollendung des 18. Lebensjahres einen Führerschein besitzen.
+    *   die Arbeitslosenversicherung
+
+
+
+
+    *   die Pflegeversicherung
 
 
 
@@ -2793,51 +2804,53 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-102. Alexander muss zur Bundeswehr. Er möchte aber aus Gewissensgründen
-    nicht lernen, wie man auf andere Menschen schießt. Was kann er tun?
+102. Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn
+    man auf politischem, wirtschaftlichem, kulturellem, geistigem oder
+    sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …
 
-    *   Nichts, er muss zur Armee.
-
-
-
-
-    *   Er kann Zivildienst leisten.
+    *   Bundesverdienstkreuz
 
 
 
 
-    *   Er kann sich freikaufen. Dafür muss er 1 000 € zahlen.
+    *   Bundesadler
 
 
 
 
-    *   Er kann eine Fortbildung machen.
+    *   Vaterländischen Verdienstorden
 
 
 
+
+    *   Ehrentitel „Held der Deutschen Demokratischen Republik
 
 
 
 
 
-103. Wer ist in Deutschland wehrpflichtig?
-
-    *   alle Frauen und Männer, die 18 Jahre alt sind
 
 
 
+103. Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die
+    Zusammenarbeit ...
 
-    *   alle männlichen Staatsbürger, die 18 Jahre alt sind
-
-
-
-
-    *   alle Frauen und Männer, die 21 Jahre alt sind
+    *   der Bundestagsfraktionen von CDU und CSU
 
 
 
 
-    *   alle Männer, die 16 Jahre alt sind
+    *   von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung
+
+
+
+
+    *   von CSU, Die Linke und Bündnis 90/Die Grünen in einer Regierung
+
+
+
+
+    *   der Bundestagsfraktionen von CDU und SPD
 
 
 
@@ -4096,24 +4109,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-151. Der Zweite Weltkrieg dauerte von …
+151. Wer baute die Mauer in Berlin?
 
-    *   1914 bis 1918.
-
-
-
-
-    *   1933 bis 1945.
+    *   Großbritannien
 
 
 
 
-    *   1939 bis 1945.
+    *   die DDR
 
 
 
 
-    *   1939 bis 1949.
+    *   die Bundesrepublik Deutschland
+
+
+
+
+    *   die USA
 
 
 
@@ -4492,25 +4505,26 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-166. Wie hieß bis zum Jahre 2002 die Währung in der Bundesrepublik
-    Deutschland?
+166. Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir
+    sind das Volk“?
 
-    *   Deutsche Mark
-
-
-
-
-    *   Reichsmark
+    *   beim Arbeiteraufstand 1953 in der DDR
 
 
 
 
-    *   Deutsches Geld
+    *   bei den Demonstrationen 1968 in der Bundesrepublik Deutschland
 
 
 
 
-    *   Reichsgeld
+    *   bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik
+        Deutschland
+
+
+
+
+    *   bei den Montagsdemonstrationen 1989 in der DDR
 
 
 
@@ -4599,25 +4613,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-170. Seit wann gibt es das Grundgesetz der Bundesrepublik Deutschland? Seit
-    …
+170. Was gab es während der Zeit des Nationalsozialismus in Deutschland?
 
-    *   1919
-
-
-
-
-    *   1933
+    *   das Verbot von Parteien
 
 
 
 
-    *   1949
+    *   das Recht zur freien Entfaltung der Persönlichkeit
 
 
 
 
-    *   1989
+    *   Pressefreiheit
+
+
+
+
+    *   den Schutz der Menschenwürde
 
 
 
@@ -5055,24 +5068,29 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-187. Wie hieß die letzte deutsche Währung vor der Einführung des Euro?
+187. Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit
+    Hammer, Zirkel und Ährenkranz?
 
-    *   Reichsmark
+    *        *            ![bgbl1_2013_j0585-1_0010.jpg](bgbl1_2013_j0585-1_0010.jpg)
 
+    *        *   *
 
-
-
-    *   Rentenmark
-
-
+        *   Preußen
 
 
-    *   Deutsche Mark
+    *        *   *
+
+        *   Bundesrepublik Deutschland
 
 
+    *        *   *
+
+        *   „Drittes Reich“
 
 
-    *   Deutsches Pfund
+    *        *   *
+
+        *   DDR
 
 
 
@@ -5817,50 +5835,54 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-216. Wie heißt die Hauptstadt von Deutschland?
+216. Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?
 
-    *   Bonn
+    *        *            ![bgbl1_2013_j0585-1_0020.jpg](bgbl1_2013_j0585-1_0020.jpg)
 
+    *        *   *
 
-
-
-    *   Berlin
-
+        *   der Bundesadler
 
 
+    *        *   *
 
-    *   München
-
-
-
-
-    *   Frankfurt/Oder
+        *   die Fahne der Stadt Berlin
 
 
+    *        *   *
+
+        *   der Reichsadler
 
 
+    *        *   *
 
-
-
-
-217. In welchem Jahr fand die erste gesamtdeutsche Bundestagswahl statt?
-
-    *   1988
+        *   die Reichskrone
 
 
 
 
-    *   1989
 
 
 
 
-    *   1990
+217. In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
+
+    *   1919 bis 1927
 
 
 
 
-    *   1991
+    *   1933 bis 1945
+
+
+
+
+    *   1945 bis 1961
+
+
+
+
+    *   1949 bis 1990
 
 
 
@@ -5949,24 +5971,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-221. Welches Land ist ein Nachbarland von Deutschland?
+221. Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
 
-    *   Frankreich
-
-
-
-
-    *   Spanien
+    *   Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
 
 
 
 
-    *   Griechenland
+    *   Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.
 
 
 
 
-    *   Türkei
+    *   Deutsche können ohne Passkontrolle in jedes Land reisen.
+
+
+
+
+    *   Deutsche können in jedem Land mit dem Euro bezahlen.
 
 
 
@@ -6080,24 +6102,42 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-226. Was zeigt das Bild?
-    ![bgbl1_2008_j01649_0080.jpg](bgbl1_2008_j01649_0080.jpg)
-    *   die Flagge der Europäischen Union
+226. Welche ist die Flagge der Europäischen Union?
+
+    *        *   *
+
+        *            ![bgbl1_2013_j0585-1_0030.jpg](bgbl1_2013_j0585-1_0030.jpg)
+        *   *
+
+        *            ![bgbl1_2013_j0585-1_0040.jpg](bgbl1_2013_j0585-1_0040.jpg)
+
+    *        *   *
+
+        *            ![bgbl1_2013_j0585-1_0050.jpg](bgbl1_2013_j0585-1_0050.jpg)
+        *   *
+
+        *            ![bgbl1_2013_j0585-1_0060.jpg](bgbl1_2013_j0585-1_0060.jpg)
 
 
 
+    *        *   *
 
-    *   die Flagge der Bundesrepublik Deutschland
-
-
-
-
-    *   die Flagge von Berlin
+        *   1
 
 
+    *        *   *
+
+        *   2
 
 
-    *   die Flagge von Bayern
+    *        *   *
+
+        *   3
+
+
+    *        *   *
+
+        *   4
 
 
 
@@ -6132,24 +6172,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-228. Welches Land ist ein Nachbarland von Deutschland?
+228. Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr
+    1990 allgemein genannt?
 
-    *   Bulgarien
-
-
-
-
-    *   Rumänien
+    *   NATO-Osterweiterung
 
 
 
 
-    *   Slowenien
+    *   EU-Osterweiterung
 
 
 
 
-    *   Österreich
+    *   Deutsche Wiedervereinigung
+
+
+
+
+    *   Europäische Gemeinschaft
 
 
 
@@ -6236,24 +6277,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-232. Welches Land hat eine Grenze zu Deutschland?
+232. Wer wird bei der Europawahl gewählt?
 
-    *   Jugoslawien
-
-
-
-
-    *   Italien
+    *   die Europäische Kommission
 
 
 
 
-    *   Ungarn
+    *   die Länder, die in die EU eintreten dürfen
 
 
 
 
-    *   Belgien
+    *   die Abgeordneten des Europäischen Parlaments
+
+
+
+
+    *   die europäische Verfassung
 
 
 
@@ -6475,50 +6516,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-241. Wer kann in Deutschland einen Antrag auf Ehescheidung stellen?
+241. Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu
+    erhalten?
 
-    *   nur der Mann
-
-
-
-
-    *   die Eltern der Frau
+    *   Sie muss an ihre Krankenkasse schreiben.
 
 
 
 
-    *   Frau oder Mann
+    *   Sie muss einen Antrag bei der Elterngeldstelle stellen.
 
 
 
 
-    *   nur die Frau
+    *   Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.
 
 
 
 
-
-
-
-
-242. Was ist ein deutsches Gesetz?
-
-    *   Man darf nicht auf der Straße rauchen.
-
-
-
-
-    *   Frauen müssen Röcke tragen.
-
-
-
-
-    *   Man darf Kinder nicht schlagen.
-
-
-
-
-    *   Frauen dürfen keinen Alkohol trinken.
+    *   Sie muss das Arbeitsamt um Erlaubnis bitten.
 
 
 
@@ -6527,24 +6543,54 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-243. Was ist in deutschen Schulen verboten?
+242. Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?
 
-    *   Tanzen
-
-
-
-
-    *   Rauchen
+    *   der Staat
 
 
 
 
-    *   Spielen
+    *   die Bundesländer
 
 
 
 
-    *   Essen
+    *   die Eltern/die Erziehungsberechtigten
+
+
+
+
+    *   die Schulen
+
+
+
+
+
+
+
+
+243. Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine
+    Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
+
+    *   Sie müssen die Demonstration anmelden.
+
+
+
+
+    *   Sie müssen nichts tun. Man darf in Deutschland jederzeit überall
+        demonstrieren.
+
+
+
+
+    *   Sie können gar nichts tun, denn Demonstrationen sind in Deutschland
+        grundsätzlich verboten.
+
+
+
+
+    *   Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine
+        demonstrieren dürfen.
 
 
 
@@ -6633,24 +6679,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-247. Wer darf in Deutschland beim Standesamt die Eheschließung anmelden?
+247. Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres
+    Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
 
-    *   nur der Mann
-
-
-
-
-    *   nur die Eltern
+    *   Elternzeit
 
 
 
 
-    *   Frau und Mann
+    *   Mutterschutz
 
 
 
 
-    *   nur die Frau
+    *   Geburtsvorbereitung
+
+
+
+
+    *   Wochenbett
 
 
 
@@ -6712,24 +6759,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-250. Was gehört zum „Elternrecht“ in Deutschland?
+250. In Deutschland hat man die besten Chancen auf einen gut bezahlten
+    Arbeitsplatz, wenn man …
 
-    *   Eltern verheiraten ihre Kinder.
-
-
-
-
-    *   Eltern erziehen ihre Kinder bis zum 18. Lebensjahr.
+    *   katholisch ist.
 
 
 
 
-    *   Eltern bestimmen den Beruf ihrer Kinder.
+    *   gut ausgebildet ist.
 
 
 
 
-    *   Eltern haben mehr Rechte als andere Bürger / Bürgerinnen.
+    *   eine Frau ist.
+
+
+
+
+    *   Mitglied einer Partei ist.
 
 
 
@@ -7143,24 +7191,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-266. Was ist seit 2007 in vielen deutschen Restaurants gesetzlich verboten?
+266. Wann beginnt die gesetzliche Nachtruhe in Deutschland?
 
-    *   telefonieren
-
-
-
-
-    *   rauchen
+    *   wenn die Sonne untergeht
 
 
 
 
-    *   Alkohol trinken
+    *   wenn die Nachbarn schlafen gehen
 
 
 
 
-    *   lautes Reden
+    *   um 0 Uhr, Mitternacht
+
+
+
+
+    *   um 22 Uhr
 
 
 
@@ -7198,25 +7246,29 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-268. Ab welchem Alter darf man in Deutschland mit einem Führerschein allein
-    Auto fahren?
+268. Eine junge Frau will den Führerschein machen. Sie hat Angst vor der
+    Prüfung, weil ihre Muttersprache *nicht*                    Deutsch
+    ist. Was ist richtig?
 
-    *   ab 15
-
-
-
-
-    *   ab 18
+    *   Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den
+        Führerschein machen kann.
 
 
 
 
-    *   ab 21
+    *   Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.
 
 
 
 
-    *   ab 24
+    *   Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache
+        spricht.
+
+
+
+
+    *   Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen.
+        Es gibt mehr als zehn Sprachen zur Auswahl.
 
 
 
@@ -7225,25 +7277,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-269. Alexander ist 4 Jahre alt. Seine Eltern gehen arbeiten. Wo kann
-    Alexander betreut werden?
+269. In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur
+    Ersteinschulung einen Anspruch auf …
 
-    *   in der Grundschule
-
-
-
-
-    *   im Kindergarten
+    *   monatliches Taschengeld.
 
 
 
 
-    *   im Gymnasium
+    *   einen Platz in einem Sportverein.
 
 
 
 
-    *   in der Hauptschule
+    *   einen Kindergartenplatz.
+
+
+
+
+    *   einen Ferienpass.
 
 
 
@@ -7579,25 +7631,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-282. Sie möchten Ihrem Kind einen Hund schenken. Wozu sind Sie gesetzlich
-    verpflichtet? Sie müssen den Hund …
+282. Welches Ehrenamt müssen deutsche Staatsbürger/Staatsbürgerinnen
+    übernehmen, wenn sie dazu aufgefordert werden?
 
-    *   impfen lassen.
-
-
-
-
-    *   bei einem Tierschutzverein anmelden.
+    *   Vereinstrainer/Vereinstrainerin
 
 
 
 
-    *   bei der Kommune (Stadt oder Gemeinde) anmelden und Steuern zahlen.
+    *   Wahlhelfer/Wahlhelferin
 
 
 
 
-    *   bei einer Hundeschule ausbilden lassen.
+    *   Bibliotheksaufsicht
+
+
+
+
+    *   Lehrer/Lehrerin
 
 
 
@@ -7633,24 +7685,26 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-284. Autofahren muss man in Deutschland …
+284. Was man für die Arbeit können muss, ändert sich in Zukunft sehr
+    schnell. Was kann man tun?
 
-    *   in der Familie lernen.
-
-
-
-
-    *   sich selbst beibringen.
+    *   Es ist egal, was man lernt.
 
 
 
 
-    *   in der Fahrschule lernen.
+    *   Erwachsene müssen auch nach der Ausbildung immer weiter lernen.
 
 
 
 
-    *   von Freunden / Freundinnen lernen.
+    *   Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der
+        Schule muss man nicht weiter lernen.
+
+
+
+
+    *   Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.
 
 
 
@@ -7659,24 +7713,25 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-285. Was gehört in Deutschland nicht zu den Nebenkosten einer Mietwohnung?
+285. Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro.
+    Was muss sie *nicht*                    von ihrem Gehalt bezahlen?
 
-    *   Miete
-
-
-
-
-    *   Wasser
+    *   Lohnsteuer
 
 
 
 
-    *   Müll
+    *   Beiträge zur Arbeitslosenversicherung
 
 
 
 
-    *   Grundsteuer
+    *   Beiträge zur Renten- und Krankenversicherung
+
+
+
+
+    *   Umsatzsteuer
 
 
 
@@ -7823,25 +7878,12 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-291. Eine Frau und ein Mann haben unterschiedliche Religionen. Sie möchten
-    heiraten. Was bedeutet das rechtlich für die beiden in Deutschland?
+291. Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob
+    man zu einer Kirche gehört oder nicht? Weil ...
 
-    *   Sie dürfen nicht heiraten.
-
-
-
-
-    *   Sie dürfen in Deutschland auf dem Standesamt heiraten.
-
-
-
-
-    *   Sie müssen nach der Religion des Mannes heiraten.
-
-
-
-
-    *   Sie dürfen heiraten, aber nicht zusammenleben.
+    *
+        *            *   es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer
+                geknüpft ist.
 
 
 
@@ -7849,25 +7891,44 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-
-292. Welcher Religion gehören die meisten Menschen in Deutschland an?
-
-    *   dem Islam
+    *   das für die Statistik in Deutschland wichtig ist.
 
 
 
 
-    *   dem Hinduismus
+    *   man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.
 
 
 
 
-    *   dem Christentum
+    *   die Kirche für die Steuererklärung verantwortlich ist.
 
 
 
 
-    *   dem Judentum
+
+
+
+
+292. Die Menschen in Deutschland leben nach dem Grundsatz der religiösen
+    Toleranz. Was bedeutet das?
+
+    *   Es dürfen keine Moscheen gebaut werden.
+
+
+
+
+    *   Alle Menschen glauben an Gott.
+
+
+
+
+    *   Jeder kann glauben, was er möchte.
+
+
+
+
+    *   Der Staat entscheidet, an welchen Gott die Menschen glauben.
 
 
 
@@ -9958,7 +10019,23 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 1.  Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?
-    ![bgbl1_2008_j01649_0240.jpg](bgbl1_2008_j01649_0240.jpg)
+
+    *        *            ![bgbl1_2013_j0585-1_0070.jpg](bgbl1_2013_j0585-1_0070.jpg)
+        *            ![bgbl1_2013_j0585-1_0080.jpg](bgbl1_2013_j0585-1_0080.jpg)
+        *            ![bgbl1_2013_j0585-1_0090.jpg](bgbl1_2013_j0585-1_0090.jpg)
+        *            ![bgbl1_2013_j0585-1_0100.jpg](bgbl1_2013_j0585-1_0100.jpg)
+
+    *        *   1
+
+        *   2
+
+        *   3
+
+        *   4
+
+
+
+
     *   1
 
 
@@ -10332,7 +10409,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 5.  Welche Farben hat die Landesflagge von Niedersachsen?
 
-    *   rot-weiß
+    *   weiß-blau
 
 
 

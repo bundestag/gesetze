@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 1. 7.1997 I 1625;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 20.12.2011 I 2854
+:   durch Art. 12a G v. 2.6.2021 I 1387
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -112,9 +112,9 @@ nach § 1 Abs. 1 Nr. 1 bis 3
 
 
 
-hat Anspruch auf Leistungen nach dem Zweiten Abschnitt. Die Regelung
-über Verfolgungszeiten als Anrechnungszeiten in § 12 Abs. 2 ist
-anzuwenden.
+hat Anspruch auf Leistungen nach dem Zweiten und Dritten Abschnitt.
+Die Regelung über Verfolgungszeiten als Anrechnungszeiten in § 12 Abs.
+2 ist anzuwenden.
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
@@ -182,13 +182,16 @@ Sozialgesetzbuch erstattet.
 
 ### § 8 Anspruchsvoraussetzungen
 
-(1) Verfolgte nach § 1 Abs. 1 mit Wohnsitz oder gewöhnlichem
-Aufenthalt im Geltungsbereich dieses Gesetzes, die in ihrer
-wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten auf
-Antrag Ausgleichsleistungen in Höhe von 184 Euro monatlich. Wenn der
+(1) Verfolgte mit Wohnsitz oder gewöhnlichem Aufenthalt im
+Geltungsbereich dieses Gesetzes, die in ihrer wirtschaftlichen Lage
+besonders beeinträchtigt sind, erhalten auf Antrag
+Ausgleichsleistungen in Höhe von 240 Euro monatlich. Wenn der
 Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus
-eigener Versicherung bezieht, betragen die Ausgleichsleistungen 123
-Euro monatlich.
+eigener Versicherung bezieht, betragen die Ausgleichsleistungen 180
+Euro monatlich. Das Bundesministerium der Justiz und für
+Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium
+der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025,
+die Höhe der Ausgleichsleistungen nach den Sätzen 1 und 2.
 
 (2) Ausgleichsleistungen werden nicht gewährt, wenn die in der
 Bescheinigung nach § 17 oder § 18 festgestellte Verfolgungszeit vor
@@ -199,9 +202,10 @@ der Verfolgungszeit und dem Zeitpunkt, von dem an der Verfolgte die
 Rente bezieht, ein Zeitraum von mehr als sechs Jahren liegt.
 
 (3) Als in seiner wirtschaftlichen Lage besonders beeinträchtigt gilt
-ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 und 2 sowie
-Absatz 2 des Zwölften Buches Sozialgesetzbuch ermitteltes Einkommen
-die folgende maßgebliche Einkommensgrenze nicht übersteigt:
+ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz
+2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches
+Sozialgesetzbuch ermitteltes Einkommen die folgende maßgebliche
+Einkommensgrenze nicht übersteigt:
 
 1.  für den Verfolgten selbst den Grundbetrag nach § 85 Abs. 1 Nr. 1, § 86
     des Zwölften Buches Sozialgesetzbuch, für seinen nicht dauernd
@@ -215,10 +219,12 @@ die folgende maßgebliche Einkommensgrenze nicht übersteigt:
 
 
 
-Bei der Einkommensermittlung nach Satz 1 ist bei nicht dauernd
-getrennt lebenden Ehegatten das Einkommen beider Ehegatten zu
-berücksichtigen. Für Personen, die in eheähnlicher Gemeinschaft leben,
-gelten die Sätze 1 und 2 entsprechend.
+Bei der Einkommensermittlung bleibt Arbeitsförderungsgeld
+unberücksichtigt. Bei nicht dauernd getrennt lebenden Ehegatten ist
+das Einkommen beider Ehegatten zu berücksichtigen. Für Personen, die
+eine Lebenspartnerschaft führen oder in eheähnlicher oder
+lebenspartnerschaftsähnlicher Gemeinschaft leben, gelten die Sätze 1
+bis 3 entsprechend.
 
 (4) Übersteigt das ermittelte Einkommen die maßgebliche
 Einkommensgrenze um einen Betrag, der geringer ist als der Betrag der
@@ -270,6 +276,32 @@ worden sind, gelten mit Ausnahme der Zeiten, für die Werte nach § 13
 Abs. 2 Satz 1 zugrunde zu legen sind, insgesamt nur insoweit als
 beitragsgeminderte Zeiten, als sich für die Summe aller Entgeltpunkte
 ein höherer Wert ergibt.
+
+
+#### § 11a Kindererziehungszeiten
+
+(1) Für die Anrechnung oder Berücksichtigung von Kindererziehung
+gelten Verfolgungszeiten nach § 2 Absatz 1 Satz 1 Nummer 1 als Zeiten
+der Erziehung eines Kindes nach dem Sechsten Buch Sozialgesetzbuch,
+wenn in diesen Verfolgungszeiten das Kind wegen einer Maßnahme nach §
+1 Absatz 1 Nummer 1 oder Nummer 2 nicht erzogen werden konnte. Dabei
+bleibt außer Betracht, dass bei einer anderen Person für dasselbe Kind
+die Kindererziehung anzurechnen oder zu berücksichtigen ist. Die
+Anrechnung oder Berücksichtigung nach Satz 1 lässt die Anrechnung oder
+Berücksichtigung der Kindererziehung nach dem Sechsten Buch
+Sozialgesetzbuch für diejenige Person, die das Kind erzogen hat,
+unberührt.
+
+(2) Eine Rente ist auf Antrag von Beginn an neu festzustellen und zu
+leisten, wenn Kindererziehung nach Absatz 1 Satz 1 anzurechnen oder zu
+berücksichtigen ist und der Rentenbeginn vor dem 1. Januar 2019 liegt.
+
+(3) Für die Anrechnung oder Berücksichtigung von Kindererziehung gilt
+im Sinne von § 1 Absatz 1 als Verfolgter, wer in dem in § 1 Absatz 1
+genannten Zeitraum wegen einer Maßnahme nach § 1 Absatz 1 Nummer 1
+oder Nummer 2 als Elternteil nach § 56 Absatz 1 Satz 2 des Sechsten
+Buches Sozialgesetzbuch ein Kind nicht erziehen konnte. § 1 Absatz 2
+gilt entsprechend.
 
 
 #### § 12 Verfolgungszeiten als Anrechnungszeiten
@@ -472,10 +504,11 @@ Bezugs, frühestens für die Zeit vom 1. Juli 1990 an, zu leisten.
 
 ### § 17 Rehabilitierungsbescheinigung und Behördenzuständigkeit
 
-(1) Der Nachweis darüber, daß die Voraussetzungen des § 1 Abs. 1 oder
-des § 3 Abs. 1 vorliegen und daß Ausschließungsgründe nach § 4 nicht
-gegeben sind, ist durch eine Bescheinigung zu erbringen, die auf
-Antrag von der Rehabilitierungsbehörde erteilt wird.
+(1) Der Nachweis darüber, daß die Voraussetzungen des § 1 Absatz 1,
+des § 3 Absatz 1 oder des § 11a Absatz 3 vorliegen und daß
+Ausschließungsgründe nach § 4 nicht gegeben sind, ist durch eine
+Bescheinigung zu erbringen, die auf Antrag von der
+Rehabilitierungsbehörde erteilt wird.
 
 (2) Rehabilitierungsbehörden werden in den Ländern Berlin,
 Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
@@ -504,31 +537,21 @@ Rehabilitierungsbehörde kann zu diesem Zweck auch eine Versicherung an
 Eides Statt verlangen und abnehmen.
 
 
-### § 19 Verwendung personenbezogener Daten
+### § 19 Verarbeitung von personenbezogenen Daten
 
 Personenbezogene Daten aus einem beruflichen Rehabilitierungsverfahren
 dürfen auch für andere Verfahren zur Rehabilitierung, Wiedergutmachung
 oder Gewährung von Leistungen nach dem Häftlingshilfegesetz soweit
-erforderlich verarbeitet und genutzt werden.
+erforderlich verarbeitet werden.
 
 
 ### § 20 Antrag
 
-(1) Der Antrag auf Erteilung der Bescheinigung nach § 17 Abs. 1 kann
-von dem Verfolgten gestellt werden, nach dessen Tod von seinen
+Der Antrag auf Erteilung einer Bescheinigung nach § 17 Absatz 1 kann
+von dem Verfolgten gestellt werden und nach dessen Tod von seinen
 Hinterbliebenen, wenn diese ein rechtliches Interesse an der
-Antragstellung haben.
-
-(2) Die Anträge nach § 17 Abs. 1 und § 18 Abs. 1 können bis zum Ablauf
-des 31. Dezember 2019 gestellt werden. In den in § 1 Abs. 2 genannten
-Fällen kann der Antrag nach § 17 Abs. 1 auch innerhalb von sechs
-Monaten nach Eintritt der Unanfechtbarkeit der nach § 1 Abs. 2
-erforderlichen Entscheidung gestellt werden.
-
-(3) Der Antrag ist schriftlich bei der Rehabilitierungsbehörde zu
-stellen. Die Antragsfrist gilt auch dann als gewahrt, wenn der Antrag
-fristgemäß bei einer anderen inländischen Behörde oder bei einem
-deutschen Gericht gestellt worden ist.
+Antragstellung haben. Der Antrag ist schriftlich bei der
+Rehabilitierungsbehörde zu stellen.
 
 
 ### § 21 Inhalt des Antrags
@@ -547,11 +570,15 @@ Der Antrag soll enthalten
 4.  Angaben zum Umfang der Benachteiligung in Ausbildung und Beruf,
 
 
-5.  die Angabe von Beweismitteln sowie
+5.  die Angabe von Beweismitteln,
 
 
 6.  eine Erklärung, ob und wo der Antragsteller schon früher einen Antrag
-    gestellt hat.
+    gestellt hat, sowie
+
+
+7.  Angaben zu Kindern, die infolge einer Verfolgung nach § 11a Absatz 3
+    nicht erzogen werden konnten.
 
 
 
@@ -628,19 +655,31 @@ des § 60 des Bundesausbildungsförderungsgesetzes zuständigen Behörden
 benötigt wird, sind nur die Angaben zu den Nummern 1 und 2
 erforderlich.
 
+(2a) Die Bescheinigung hat in den Fällen des § 11a die folgenden
+Angaben zu enthalten:
+
+1.  die Feststellungen nach § 11a Absatz 3,
+
+
+2.  die Bestätigung, dass Ausschließungsgründe nach § 4 nicht vorliegen,
+
+
+3.  Beginn und Ende der Verfolgungszeit nach § 2 Absatz 1 Satz 1 Nummer 1
+    und
+
+
+4.  die Dauer der verfolgungsbedingten Unterbrechung der Kindererziehung.
+
+
+
+
 (3) Die für die Ausführung des Zweiten bis Vierten Abschnitts und des
 § 60 des Bundesausbildungsförderungsgesetzes zuständigen Behörden sind
 an die in der Bescheinigung enthaltenen Feststellungen gebunden.
 
 
-### § 23 Antragsfrist für Leistungen nach dem Zweiten und Dritten Abschnitt
+### § 23 (weggefallen)
 
-Der Antrag auf Leistungen nach dem Zweiten oder Dritten Abschnitt kann
-bis zum Ablauf des 31. Dezember 2020 gestellt werden. Der Antrag auf
-Leistungen nach dem Dritten Abschnitt kann auch noch innerhalb von
-sechs Monaten nach dem Zeitpunkt gestellt werden, von dem an der
-Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus
-eigener Versicherung bezieht.
 
 
 ### § 24 Zuständigkeit für Leistungen nach dem Zweiten und Dritten Abschnitt
@@ -660,15 +699,16 @@ und 99 Abs. 1 des Zwölften Buches Sozialgesetzbuch) zuständig.
 Aussage und Sachverständige zur Erstattung von Gutachten verpflichtet.
 § 65 des Verwaltungsverfahrensgesetzes gilt entsprechend.
 
-(2) Die Angaben des Antragstellers zur Verfolgteneigenschaft (§ 1 Abs.
-1), zur Verfolgungszeit (§ 2 Abs. 1) und zur Verfolgung als Schüler (§
-3 Abs. 1) können, wenn Beweismittel nicht vorhanden oder nicht zu
-beschaffen oder ohne Verschulden des Antragstellers oder desjenigen,
-von dem er seine Rechte herleitet, verlorengegangen sind, der
-Entscheidung zugrundegelegt werden, soweit sie glaubhaft erscheinen.
-Unter den Voraussetzungen des Satzes 1 kann die
-Rehabilitierungsbehörde vom Antragsteller die Versicherung an Eides
-Statt gemäß § 27 des Verwaltungsverfahrensgesetzes verlangen.
+(2) Die Angaben des Antragstellers zur Verfolgteneigenschaft nach § 1
+Absatz 1 oder § 11a Absatz 3, zur Verfolgungszeit nach § 2 Absatz 1
+und zur Verfolgung als Schüler nach § 3 Absatz 1 können, wenn
+Beweismittel nicht vorhanden oder nicht zu beschaffen oder ohne
+Verschulden des Antragstellers oder desjenigen, von dem er seine
+Rechte herleitet, verlorengegangen sind, der Entscheidung
+zugrundegelegt werden, soweit sie glaubhaft erscheinen. Unter den
+Voraussetzungen des Satzes 1 kann die Rehabilitierungsbehörde vom
+Antragsteller die Versicherung an Eides Statt gemäß § 27 des
+Verwaltungsverfahrensgesetzes verlangen.
 
 (3) Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten bis
 zum Erlaß entsprechender landesrechtlicher Bestimmungen die
@@ -677,7 +717,11 @@ Verwaltungszustellungsgesetzes und des Verwaltungs-
 Vollstreckungsgesetzes.
 
 (4) Für das Verfahren nach dem Zweiten und Dritten Abschnitt gelten
-das Erste und Zehnte Buch Sozialgesetzbuch.
+das Erste und Zehnte Buch Sozialgesetzbuch. Führt eine Änderung dieses
+Gesetzes zu einer Änderung laufend gewährter Ausgleichsleistungen nach
+§ 8 Absatz 1, sind diese von Amts wegen neu festzustellen. Von einer
+förmlichen Bescheiderteilung kann abgesehen werden; ausgenommen
+hiervon sind Fälle nach § 8 Absatz 4.
 
 
 ### § 26 Kosten

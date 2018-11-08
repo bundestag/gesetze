@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1939, 251
 
 Zuletzt geändert durch
-:   Art. 15 G v. 23.10.2001 I 2702
+:   Art. 17e G v. 23.12.2016 I 3191
 
 
 ## Eingangsformel
@@ -45,7 +45,10 @@ Durchführungsbestimmungen; er führt die Berufsbezeichnung
 
 (1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, bisher
 berufsmäßig nicht ausgeübt hat, kann eine Erlaubnis nach § 1 in
-Zukunft ... erhalten.
+Zukunft nach Maßgabe der gemäß § 7 erlassenen Rechts- und
+Verwaltungsvorschriften erhalten, die insbesondere Vorgaben
+hinsichtlich Kenntnissen und Fähigkeiten als Bestandteil der
+Entscheidung über die Erteilung der Erlaubnis enthalten sollen.
 
 (2) Wer durch besondere Leistungen seine Fähigkeit zur Ausübung der
 Heilkunde glaubhaft macht, wird auf Antrag des
@@ -88,7 +91,7 @@ zweitausendfünfhundert Euro geahndet werden.
 (1) Die Ausübung der Zahnheilkunde fällt nicht unter die Bestimmungen
 dieses Gesetzes.
 
-(2)
+(2) (gegenstandslos)
 
 
 ## § 7

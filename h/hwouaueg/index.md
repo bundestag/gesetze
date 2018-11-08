@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1998, 596, 604
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.12.2003 I 2934
+:   Art. 3 G v. 6.2.2020 I 142
+
+Änderung durch
+:   Art. 2 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
@@ -53,15 +56,15 @@ Nummer 7 Brunnenbauer, Nummer 8 Steinmetzen und Steinbildhauer, Nummer
 9 Stukkateure, Nummer 10 Maler und Lackierer, Nummer 12
 Schornsteinfeger, Nummer 13 Metallbauer, Nummer 18 Kälteanlagenbauer,
 Nummer 23 Klempner, Nummer 24 Installateur und Heizungsbauer, Nummer
-25 Elektrotechniker, Nummer 27 Tischler und Nummer 39 Glaser der
-Anlage A zur Handwerksordnung als wesentliche Tätigkeit zugeordnet.
-Die wesentliche Tätigkeit Aufstellen von Arbeits- und Schutzgerüsten
-des Gewerbes Nummer 11 Gerüstbauer der Anlage A zur Handwerksordnung
-dürfen auch die Gewerbe Nummer 1 Fliesen-, Platten- und Mosaikleger,
-Nummer 2 Betonstein- und Terrazzohersteller, Nummer 3 Estrichleger,
-Nummer 33 Gebäudereiniger sowie Nummer 53 Schilder- und
-Lichtreklamehersteller der Anlage B Abschnitt 1 zur Handwerksordnung
-ausüben, mit der Maßgabe, dass § 1 Abs. 1 Satz 1 der Handwerksordnung
+25 Elektrotechniker, Nummer 27 Tischler, Nummer 39 Glaser, Nummer 42
+Fliesen-, Platten- und Mosaikleger, Nummer 43 Betonstein- und
+Terrazzohersteller, Nummer 44 Estrichleger und Nummer 51 Schilder- und
+Lichtreklamehersteller der Anlage A zur Handwerksordnung als
+wesentliche Tätigkeit zugeordnet. Die wesentliche Tätigkeit Aufstellen
+von Arbeits- und Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der
+Anlage A zur Handwerksordnung darf auch das Gewerbe Nummer 33
+Gebäudereiniger der Anlage B Abschnitt 1 zur Handwerksordnung ausüben,
+mit der Maßgabe, dass § 1 Absatz 1 Satz 1 der Handwerksordnung
 insoweit nicht anzuwenden ist.
 
 (5) Das Gewerbe Nummer 19 Informationstechniker der Anlage A zur

@@ -597,8 +597,9 @@ durch Artikel 3 § 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 12)
 
-### Anlage 1 (zu § 12) Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
+### Anlage 1 Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
 
 (Fundstelle: BGBl. I 2010, 1388)
 
@@ -628,8 +629,9 @@ Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm sind:
 
 
 
+(zu § 14)
 
-### Anlage 2 (zu § 14) Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
+### Anlage 2 Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
 
 (Fundstelle: BGBl. I 2010, 1388)
 

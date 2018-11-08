@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 38 G v. 20.12.2011 I 2854
 
+V aufgeh. durch
+:   Art. 58 Nr. 3 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
 
 ## Erster Abschnitt - Schwerbeschädigte
 
@@ -804,8 +807,9 @@ Bestimmungen nichts anderes ergibt.
 (2) § 2 Abs. 1 Nr. 10 gilt nur insoweit, als § 55 Abs. 1 Satz 1
 Buchstabe c des Bundesversorgungsgesetzes nicht entgegensteht.
 
+zu § 3
 
-### Anlage zu § 3 Vorschriften zur Bestimmung des Wertes von Sachbezügen
+### Anlage Vorschriften zur Bestimmung des Wertes von Sachbezügen
 
 -
 

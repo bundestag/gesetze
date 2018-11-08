@@ -3,7 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Brauer und Mälzer/zur Brauerin
   Mälzerin
 jurabk: Brau/MälzAusbV 2007
 layout: default
-origslug: brau_m_lzausbv_2007
+origslug: brau_maelzausbv_2007
 slug: brau_maelzausbv_2007
 
 ---
@@ -471,10 +471,11 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
+(zu § 3)
 
-## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
 
-(Fundstelle: BGBl. I 2007, 189 - 192 (1202))              >
+(Fundstelle: BGBl. I 2007, 189 - 192 (1202)) >
 
 *    *   **Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und
         Fähigkeiten**

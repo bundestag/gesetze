@@ -36,10 +36,8 @@ Der Bundesminister der Justiz
 
 ## Anlage Europäische Konferenz der Verwaltungen für Post und Fernmeldewesen (CEPT)
 
-(Inhalt: Nicht darstellbares Kennzeichen,
 Fundstelle: BGBl. I 1977, 1880)
 
 CONFERENCE EUROPEENNE DES ADMINISTRATIONS DES POSTES ET DES
-TELECOMMUNICATIONS
-CEPT
-
+TELECOMMUNICATIONS CEPT
+![bgbl1_1977_j1880_0010.jpg](bgbl1_1977_j1880_0010.jpg)

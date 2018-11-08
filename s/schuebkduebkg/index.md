@@ -3,7 +3,7 @@ Title: Gesetz zu dem Schengener Übereinkommen vom 19. Juni 1990 betreffend den 
   Abbau der Kontrollen an den gemeinsamen Grenzen
 jurabk: SchÜbkDÜbkG
 layout: default
-origslug: sch_bkd_bkg
+origslug: schuebkduebkg
 slug: schuebkduebkg
 
 ---

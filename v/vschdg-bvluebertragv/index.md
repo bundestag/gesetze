@@ -3,7 +3,7 @@ Title: Verordnung zur Übertragung weiterer Zuständigkeiten im Bereich des EG-V
   auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 jurabk: VSchDG-BVLÜbertragV
 layout: default
-origslug: vschdg-bvl_bertragv
+origslug: vschdg-bvluebertragv
 slug: vschdg-bvluebertragv
 
 ---

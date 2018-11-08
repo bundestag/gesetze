@@ -15,12 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 1357
 
-Geändert durch
-:   Art. 15 Abs. 9 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 25 V v. 19.6.2020 I 1328
 
 
 
-## Art 1 -
+## Art 1 - 
 
 
 
@@ -90,11 +90,11 @@ Bundespolizeibeamtengesetzes Bezug genommen wird, ist die bis zum 30.
 Juni 1976 geltende Fassung maßgebend.
 
 
-## Art 3 -
+## Art 3 - 
 
 
 
-## Art 4 -
+## Art 4 - 
 
 
 
@@ -102,8 +102,9 @@ Juni 1976 geltende Fassung maßgebend.
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
 
+zu Artikel 2 § 2 Abs. 1
 
-## Anlage zu Artikel 2 § 2 Abs. 1 *Fe Überleitungsübersicht */
+## Anlage \*Fe Überleitungsübersicht \*/
 
 Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 
@@ -666,7 +667,8 @@ Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 
     *   a)
 
-    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern -
+    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern, für
+        Bau und Heimat -
 
     *   -
 
@@ -688,7 +690,8 @@ Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 
     *   B 3
 
-    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern -
+    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern, für
+        Bau und Heimat -
 
     *   -
 

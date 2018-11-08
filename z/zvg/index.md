@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 97
 
 Zuletzt geändert durch
-:   Art. 6 G v. 7.12.2011 I 2582
+:   Art. 4 G v. 22.12.2020 I 3256
 
 
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung
@@ -175,7 +175,7 @@ Beträge:
 2.  bei Vollstreckung in ein Wohnungseigentum die daraus fälligen
     Ansprüche auf Zahlung der Beiträge zu den Lasten und Kosten des
     gemeinschaftlichen Eigentums oder des Sondereigentums, die nach § 16
-    Abs. 2, § 28 Abs. 2 und 5 des Wohnungseigentumsgesetzes geschuldet
+    Abs. 2, § 28 Absatz 1 und 2 des Wohnungseigentumsgesetzes geschuldet
     werden, einschließlich der Vorschüsse und Rückstellungen sowie der
     Rückgriffsansprüche einzelner Wohnungseigentümer. Das Vorrecht erfasst
     die laufenden und die rückständigen Beträge aus dem Jahr der
@@ -230,17 +230,12 @@ Beträge:
 Kosten der Kündigung und der die Befriedigung aus dem Grundstück
 bezweckenden Rechtsverfolgung.
 
-(3) Zur Vollstreckung mit dem Range nach Absatz 1 Nr. 2 müssen die
-dort genannten Beträge die Höhe des Verzugsbetrages nach § 18 Abs. 2
-Nr. 2 des Wohnungseigentumsgesetzes übersteigen; liegt ein
-vollstreckbarer Titel vor, so steht § 30 der Abgabenordnung einer
-Mitteilung des Einheitswerts an die in Absatz 1 Nr. 2 genannten
-Gläubiger nicht entgegen. Für die Vollstreckung genügt ein Titel, aus
-dem die Verpflichtung des Schuldners zur Zahlung, die Art und der
-Bezugszeitraum des Anspruchs sowie seine Fälligkeit zu erkennen sind.
-Soweit die Art und der Bezugszeitraum des Anspruchs sowie seine
-Fälligkeit nicht aus dem Titel zu erkennen sind, sind sie in sonst
-geeigneter Weise glaubhaft zu machen.
+(3) Für die Vollstreckung mit dem Range nach Absatz 1 Nummer 2 genügt
+ein Titel, aus dem die Verpflichtung des Schuldners zur Zahlung, die
+Art und der Bezugszeitraum des Anspruchs sowie seine Fälligkeit zu
+erkennen sind. Soweit die Art und der Bezugszeitraum des Anspruchs
+sowie seine Fälligkeit nicht aus dem Titel zu erkennen sind, sind sie
+in sonst geeigneter Weise glaubhaft zu machen.
 
 
 #### § 11
@@ -666,6 +661,31 @@ Falle des § 30d Abs. 2 der Schuldner, zu hören. § 30b Abs. 3 gilt
 entsprechend.
 
 
+##### § 30g Vollzug der Vollstreckungssperre bei Stabilisierungsmaßnahmen
+
+(1) Hat das Restrukturierungsgericht eine Vollstreckungssperre nach §
+49 Absatz 1 Nummer 1 des Unternehmensstabilisierungs- und
+-restrukturierungsgesetzes angeordnet, die auch unbewegliches Vermögen
+des Schuldners erfasst, so ist das Verfahren auf Antrag des Schuldners
+einstweilen einzustellen. Der Antrag ist abzulehnen, wenn die
+Einstellung dem betreibenden Gläubiger unter Berücksichtigung seiner
+wirtschaftlichen Verhältnisse nicht zuzumuten ist.
+
+(2) Die einstweilige Einstellung ist mit der Auflage anzuordnen, dass
+dem betreibenden Gläubiger laufend die geschuldeten Zinsen zu zahlen
+sind und ein durch die Nutzung entstehender Wertverlust durch laufende
+Zahlungen auszugleichen ist. Dies gilt nicht, soweit nach der Höhe der
+Forderung sowie dem Wert und der sonstigen Belastung des Grundstücks
+nicht mit einer Befriedigung des Gläubigers aus dem
+Versteigerungserlös zu rechnen ist.
+
+(3) Das Verfahren wird auf Antrag des Gläubigers fortgesetzt, wenn die
+Voraussetzungen für die einstweilige Einstellung entfallen sind, wenn
+die Auflagen nach Absatz 2 nicht beachtet werden oder der Schuldner
+der Fortsetzung zustimmt. Vor der Entscheidung des Gerichts ist der
+Schuldner zu hören.
+
+
 ##### § 31
 
 (1) Im Falle einer einstweiligen Einstellung darf das Verfahren,
@@ -893,12 +913,11 @@ der Gläubiger widerspricht, glaubhaft gemacht wird.
 zu entrichten sind, brauchen die laufenden Beträge nicht angemeldet,
 die rückständigen nicht glaubhaft gemacht zu werden.
 
-(3) Ansprüche der Wohnungseigentümer nach § 10 Abs. 1 Nr. 2 sind bei
-der Anmeldung durch einen entsprechenden Titel oder durch die
-Niederschrift der Beschlüsse der Wohnungseigentümer einschließlich
-ihrer Anlagen oder in sonst geeigneter Weise glaubhaft zu machen. Aus
-dem Vorbringen müssen sich die Zahlungspflicht, die Art und der
-Bezugszeitraum des Anspruchs sowie seine Fälligkeit ergeben.
+(3) Ansprüche nach § 10 Abs. 1 Nr. 2 sind bei der Anmeldung durch
+einen entsprechenden Titel oder durch die Niederschrift der Beschlüsse
+einschließlich ihrer Anlagen oder in sonst geeigneter Weise glaubhaft
+zu machen. Aus dem Vorbringen müssen sich die Zahlungspflicht, die Art
+und der Bezugszeitraum des Anspruchs sowie seine Fälligkeit ergeben.
 
 
 ##### § 46
@@ -1104,16 +1123,6 @@ Pächter bekannt.
 diese Vorschriften keine Anwendung.
 
 
-##### § 57c
-
-(weggefallen)
-
-
-##### § 57d
-
-(weggefallen)
-
-
 ##### § 58
 
 Die Kosten des Beschlusses, durch welchen der Zuschlag erteilt wird,
@@ -1139,14 +1148,12 @@ erlöschen würde, so bedarf es nicht der Zustimmung eines nachstehenden
 Beteiligten.
 
 
-##### § 60
-
--
+##### § 60 (weggefallen)
 
 
-##### § 61
 
--
+##### § 61 (weggefallen)
+
 
 
 ##### § 62
@@ -1429,7 +1436,7 @@ Berechtigten abgegeben worden, so findet § 74a keine Anwendung, wenn
 das Gebot einschließlich des Kapitalwertes der nach den
 Versteigerungsbedingungen bestehenbleibenden Rechte zusammen mit dem
 Betrage, mit dem der Meistbietende bei der Verteilung des Erlöses
-ausfallen würde, sieben Zehnteilen des Grundstückswertes erreicht und
+ausfallen würde, sieben Zehnteile des Grundstückswertes erreicht und
 dieser Betrag im Range unmittelbar hinter dem letzten Betrage steht,
 der durch das Gebot noch gedeckt ist.
 
@@ -1901,9 +1908,8 @@ der Gerichtskasse einbezahlt ist, wird auf die Zahlung nach Absatz 2
 Satz 1 angerechnet.
 
 
-##### § 108
+##### § 108 (weggefallen)
 
-(weggefallen)
 
 
 ##### § 109
@@ -2306,9 +2312,8 @@ im § 17 Abs. 2 bezeichneten Zeugnisses bedarf es nicht, solange das
 Grundbuchamt noch nicht um die Eintragung ersucht ist.
 
 
-##### § 134
+##### § 134 (weggefallen)
 
-(aufgehoben)
 
 
 ##### § 135
@@ -2510,10 +2515,10 @@ benachrichtigen.
 
 #### § 147
 
-(1) Wegen des Anspruchs aus einem eingetragenen Recht findet die
+(1) Wegen des Anspruchs aus einem eingetragenen Rechte findet die
 Zwangsverwaltung auch dann statt, wenn die Voraussetzungen des § 17
 Abs. 1 nicht vorliegen, der Schuldner aber das Grundstück im
-Eigenbesitz hat.
+Eigenbesitze hat.
 
 (2) Der Besitz ist durch Urkunden glaubhaft zu machen, sofern er nicht
 bei dem Gericht offenkundig ist.
@@ -2669,12 +2674,13 @@ gegenüber wirksam.
 
 #### § 152a
 
-Der Bundesminister der Justiz wird ermächtigt, Stellung, Aufgaben und
-Geschäftsführung des Zwangsverwalters sowie seine Vergütung (Gebühren
-und Auslagen) durch Rechtsverordnung mit Zustimmung des Bundesrates
-näher zu regeln. Die Höhe der Vergütung ist an der Art und dem Umfang
-der Aufgabe sowie an der Leistung des Zwangsverwalters auszurichten.
-Es sind Mindest- und Höchstsätze vorzusehen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, Stellung, Aufgaben und Geschäftsführung des
+Zwangsverwalters sowie seine Vergütung (Gebühren und Auslagen) durch
+Rechtsverordnung mit Zustimmung des Bundesrates näher zu regeln. Die
+Höhe der Vergütung ist an der Art und dem Umfang der Aufgabe sowie an
+der Leistung des Zwangsverwalters auszurichten. Es sind Mindest- und
+Höchstsätze vorzusehen.
 
 
 #### § 153
@@ -2784,10 +2790,11 @@ Verwalter ohne weiteres Verfahren zu berichtigen. Dies gilt auch bei
 der Vollstreckung in ein Wohnungseigentum für die laufenden Beträge
 der daraus fälligen Ansprüche auf Zahlung der Beiträge zu den Lasten
 und Kosten des gemeinschaftlichen Eigentums oder des Sondereigentums,
-die nach § 16 Abs. 2, § 28 Abs. 2 und 5 des Wohnungseigentumsgesetzes
-geschuldet werden, einschließlich der Vorschüsse und Rückstellungen
-sowie der Rückgriffsansprüche einzelner Wohnungseigentümer. Die
-Vorschrift des § 10 Abs. 1 Nr. 2 Satz 3 findet keine Anwendung.
+die nach § 16 Abs. 2, § 28 Absatz 1 und 2 des
+Wohnungseigentumsgesetzes geschuldet werden, einschließlich der
+Vorschüsse und Rückstellungen sowie der Rückgriffsansprüche einzelner
+Wohnungseigentümer. Die Vorschrift des § 10 Abs. 1 Nr. 2 Satz 3 findet
+keine Anwendung.
 
 (2) Ist zu erwarten, daß auch auf andere Ansprüche Zahlungen geleistet
 werden können, so wird nach dem Eingang der im § 19 Abs. 2
@@ -2913,8 +2920,9 @@ Arbeitslosenversicherung gelten als Beteiligte, auch wenn sie eine
 Forderung nicht angemeldet haben. Bei der Zwangsversteigerung eines
 Seeschiffes vertritt die Deutsche Rentenversicherung Knappschaft-Bahn-
 See, bei der Zwangsversteigerung eines Binnenschiffes die
-Binnenschiffahrts-Berufsgenossenschaft die übrigen Versicherungsträger
-gegenüber dem Vollstreckungsgericht.
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation die übrigen Versicherungsträger gegenüber dem
+Vollstreckungsgericht.
 
 
 #### § 164
@@ -2985,9 +2993,8 @@ werden.
 (3) Die im § 39 Abs. 2 vorgesehene Anordnung ist unzulässig.
 
 
-#### § 168a
+#### § 168a (weggefallen)
 
-(aufgehoben)
 
 
 #### § 168b
@@ -3411,14 +3418,16 @@ Miteigentümer angemessen erscheint. Die einmalige Wiederholung der
 Einstellung ist zulässig. § 30b gilt entsprechend.
 
 (3) Betreibt ein Miteigentümer die Zwangsversteigerung zur Aufhebung
-einer Gemeinschaft, der außer ihm nur sein Ehegatte oder sein früherer
-Ehegatte angehört, so ist auf Antrag dieses Ehegatten oder früheren
-Ehegatten die einstweilige Einstellung des Verfahrens anzuordnen, wenn
-dies zur Abwendung einer ernsthaften Gefährdung des Wohls eines
-gemeinschaftlichen Kindes erforderlich ist. Die mehrfache Wiederholung
-der Einstellung ist zulässig. § 30b gilt entsprechend. Das Gericht
-hebt seinen Beschluß auf Antrag auf oder ändert ihn, wenn dies mit
-Rücksicht auf eine Änderung der Sachlage geboten ist.
+einer Gemeinschaft, der außer ihm nur sein Ehegatte, sein früherer
+Ehegatte, sein Lebenspartner oder sein früherer Lebenspartner
+angehört, so ist auf Antrag dieses Ehegatten, früheren Ehegatten,
+dieses Lebenspartners oder früheren Lebenspartners die einstweilige
+Einstellung des Verfahrens anzuordnen, wenn dies zur Abwendung einer
+ernsthaften Gefährdung des Wohls eines gemeinschaftlichen Kindes
+erforderlich ist. Die mehrfache Wiederholung der Einstellung ist
+zulässig. § 30b gilt entsprechend. Das Gericht hebt seinen Beschluß
+auf Antrag auf oder ändert ihn, wenn dies mit Rücksicht auf eine
+Änderung der Sachlage geboten ist.
 
 (4) Durch Anordnungen nach Absatz 2, 3 darf das Verfahren nicht auf
 mehr als fünf Jahre insgesamt einstweilen eingestellt werden.
@@ -3457,7 +3466,7 @@ berücksichtigen als bei einem anderen Anteil, so erhöht sich das
 geringste Gebot um den zur Ausgleichung unter den Miteigentümern
 erforderlichen Betrag.
 
-(3)
+(3) (weggefallen)
 
 
 ### § 183

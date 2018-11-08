@@ -3,7 +3,7 @@ Title: Gesetz zu dem Protokoll von 1996 zur Änderung des Übereinkommens von 19
   die Beschränkung der Haftung für Seeforderungen
 jurabk: SeeSchHaftÜbk1976ÄndProtG
 layout: default
-origslug: seeschhaft_bk1976_ndprotg
+origslug: seeschhaftuebk1976aendprotg
 slug: seeschhaftuebk1976aendprotg
 
 ---

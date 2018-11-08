@@ -1964,8 +1964,8 @@ folgende Gebiete:
         einschließend,
 
 
-    -   Weg in nördlicher und nordöstlicher Richtung folgend entlang der Wald
-        /Feld-Grenze bis Gemarkungsgrenze Pretschen - Hohenbrück - Neu
+    -   Weg in nördlicher und nordöstlicher Richtung folgend entlang der
+        Wald/Feld-Grenze bis Gemarkungsgrenze Pretschen - Hohenbrück - Neu
         Schadow,
 
 
@@ -2733,8 +2733,10 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1473)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

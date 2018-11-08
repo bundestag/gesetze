@@ -19,8 +19,9 @@ Neugefasst durch
 :   Bek. v. 1.2.1991 I 230;
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 3 G v. 12.4.2012 I 579
+:   Art. 2 G v. 16.7.2021 I 2931
 
+Stand: Berichtigung v. 12.10.2021 I 4831 (Nr. 77) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
 
@@ -176,9 +177,9 @@ der Kurswerte (Absatz 1) oder der gemeinen Werte (Absatz 2) für die
 einzelnen Anteile insgesamt ergibt, so ist der gemeine Wert der
 Beteiligung maßgebend.
 
-(4) Wertpapiere, die Rechte der Einleger (Anteilinhaber) gegen eine
-Kapitalanlagegesellschaft oder einen sonstigen Fonds verbriefen
-(Anteilscheine), sind mit dem Rücknahmepreis anzusetzen.
+(4) Anteile oder Aktien, die Rechte an einem Investmentvermögen im
+Sinne des Kapitalanlagegesetzbuchs verbriefen, sind mit dem
+Rücknahmepreis anzusetzen.
 
 
 ### § 12 Kapitalforderungen und Schulden
@@ -556,12 +557,13 @@ unberührt.
 entsprechend anzuwenden.
 
 
-##### § 26 Umfang der wirtschaftlichen Einheit bei Ehegatten
+##### § 26 Umfang der wirtschaftlichen Einheit bei Ehegatten oder Lebenspartnern
 
 Die Zurechnung mehrerer Wirtschaftsgüter zu einer wirtschaftlichen
 Einheit (§ 2) wird beim Grundbesitz im Sinne der §§ 33 bis 94, 99 und
 125 bis 133 nicht dadurch ausgeschlossen, daß die Wirtschaftsgüter zum
-Teil dem einen, zum Teil dem anderen Ehegatten gehören.
+Teil dem einen, zum Teil dem anderen Ehegatten oder Lebenspartner
+gehören.
 
 
 ##### § 27 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
@@ -617,8 +619,8 @@ Wohnungsbaugesetzes, des Wohnungsbaugesetzes für das Saarland oder auf
 der Grundlage des Wohnraumförderungsgesetzes gefördert worden sind.
 
 (4) Die Grundbuchämter teilen den für die Feststellung des
-Einheitswerts zuständigen Finanzbehörden für die in Absatz 3
-bezeichneten Zwecke mit
+Einheitswerts und den für die Feststellung des Grundbesitzwerts
+zuständigen Finanzbehörden für die in Absatz 3 bezeichneten Zwecke mit
 
 1.  die Eintragung eines neuen Eigentümers oder Erbbauberechtigten sowie
     bei einem anderen als rechtsgeschäftlichen Erwerb auch die Anschrift
@@ -637,16 +639,28 @@ bezeichneten Zwecke mit
 In den Fällen der Nummern 2 und 3 ist gleichzeitig der Tag des
 Eingangs des Eintragungsantrags beim Grundbuchamt mitzuteilen. Bei
 einer Eintragung aufgrund Erbfolge ist das Jahr anzugeben, in dem der
-Erblasser verstorben ist. Die Mitteilungen können der Finanzbehörde
+Erblasser verstorben ist. Die Mitteilungen sollen der Finanzbehörde
 über die für die Führung des Liegenschaftskatasters zuständige Behörde
 oder über eine sonstige Behörde, die das amtliche Verzeichnis der
 Grundstücke (§ 2 Abs. 2 der Grundbuchordnung) führt, zugeleitet
 werden.
 
-(5) Die mitteilungspflichtige Stelle hat die betroffenen vom Inhalt
+(5) Die mitteilungspflichtige Stelle hat die Betroffenen vom Inhalt
 der Mitteilung zu unterrichten. Eine Unterrichtung kann unterbleiben,
 soweit den Finanzbehörden Umstände aus dem Grundbuch, den Grundakten
 oder aus dem Liegenschaftskataster mitgeteilt werden.
+
+(6) Die nach den Absätzen 3 oder 4 verpflichteten Behörden und Stellen
+übermitteln die Mitteilungen den Finanzbehörden nach amtlich
+vorgeschriebenem Datensatz durch Datenfernübertragung. Die
+Grundbuchämter und die für die Führung des Liegenschaftskatasters
+zuständigen Behörden übermitteln die bei ihnen geführten Daten
+laufend, mindestens alle drei Monate.Das Bundesministerium der
+Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der
+Länder und den obersten Vermessungs- und Katasterbehörden der Länder
+die Einzelheiten und den Beginn der elektronischen Übermittlung in
+einem Schreiben fest. Dieses Schreiben ist im Bundesanzeiger und im
+Bundessteuerblatt zu veröffentlichen.
 
 
 ##### § 30 Abrundung
@@ -1129,6 +1143,8 @@ berücksichtigen und für den Nutzungsberechtigten als selbständiger
 Einheitswert festzustellen. Ist ein Einheitswert für land- und
 forstwirtschaftliches Vermögen des Nutzungsberechtigten festzustellen,
 so ist der Unterschiedsbetrag in diesen Einheitswert einzubeziehen.
+Die Sätze 1 und 2 gelten nicht, wenn der Eigentümer die Flächen
+bereits intensiv im Sinne der Nummern 1 bis 3 genutzt hat.
 
 
 ###### § 49 (weggefallen)
@@ -1550,8 +1566,7 @@ und für Baumschulen.
     a)  ein Beamter des Bundesministeriums der Finanzen als Vorsitzender,
 
 
-    b)  ein Beamter des Bundesministeriums für Ernährung, Landwirtschaft und
-        Verbraucherschutz;
+    b)  ein Beamter des Bundesministeriums für Ernährung und Landwirtschaft;
 
 
 
@@ -1576,11 +1591,11 @@ und für Baumschulen.
 (3) Die Mitglieder nach Absatz 1 Nr. 2 bis 4 und nach Absatz 2 werden
 auf Vorschlag der obersten Finanzbehörden der Länder durch das
 Bundesministerium der Finanzen im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-berufen. Die Berufung kann mit Zustimmung der obersten Finanzbehörden
-der Länder zurückgenommen werden. Scheidet eines der nach Absatz 1 Nr.
-2 bis 4 berufenen Mitglieder aus, so ist ein neues Mitglied zu
-berufen. Die Mitglieder müssen sachkundig sein.
+Bundesministerium für Ernährung und Landwirtschaft berufen. Die
+Berufung kann mit Zustimmung der obersten Finanzbehörden der Länder
+zurückgenommen werden. Scheidet eines der nach Absatz 1 Nr. 2 bis 4
+berufenen Mitglieder aus, so ist ein neues Mitglied zu berufen. Die
+Mitglieder müssen sachkundig sein.
 
 (4) Die nach Absatz 3 berufenen Mitglieder haben bei den Verhandlungen
 des Bewertungsbeirats ohne Rücksicht auf Sonderinteressen nach bestem
@@ -1943,18 +1958,22 @@ Sachwertverfahrens (§§ 83 bis 90) zu ermitteln.
 
 ###### § 77 Mindestwert
 
+[^BJNR010350934BJNE011002301]
+
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
 sein als der Wert, mit dem der Grund und Boden allein als unbebautes
 Grundstück zu bewerten wäre. Müssen Gebäude oder Gebäudeteile wegen
 ihres baulichen Zustands abgebrochen werden, so sind die Abbruchkosten
 zu berücksichtigen.
+
 -----
-\*) Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August
-1969 (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in
-folgender Fassung anzuwenden:
-"Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
-sein als 50 vom Hundert des Werts, mit dem der Grund und Boden allein
-als unbebautes Grundstück zu bewerten wäre."
+
+[^BJNR010350934BJNE011002301]:     Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August 1969
+    (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in
+    folgender Fassung anzuwenden:              "Der für ein bebautes
+    Grundstück anzusetzende Wert darf nicht geringer sein als 50 vom
+    Hundert des Werts, mit dem der Grund und Boden allein als unbebautes
+    Grundstück zu bewerten wäre."
 
 
 ###### b) - Verfahren
@@ -2419,8 +2438,15 @@ abgebrochen werden wird.
 ##### § 95 Begriff des Betriebsvermögens
 
 (1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im
-Sinne des § 15 Abs. 1 und 2 des Einkommensteuergesetzes, die bei der
-steuerlichen Gewinnermittlung zum Betriebsvermögen gehören.
+Sinne des § 15 Absatz 1 und 2 des Einkommensteuergesetzes, die bei der
+steuerlichen Gewinnermittlung zum Betriebsvermögen gehören. Als
+Gewerbebetrieb im Sinne des Satzes 1 gilt auch der Betrieb von
+Gesellschaften im Sinne des § 1 Absatz 1 des
+Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der
+Geschäftsleitung im Inland belegen ist, und die nach inländischem
+Gesellschaftsrecht nicht als juristische Person zu behandeln sind,
+wenn dem Grunde nach eine Tätigkeit im Sinne des § 15 Absatz 1 und
+Absatz 2 des Einkommensteuergesetzes vorliegt.
 
 (2) Als Gewerbebetrieb gilt unbeschadet des § 97 nicht die Land- und
 Forstwirtschaft, wenn sie den Hauptzweck des Unternehmens bildet.
@@ -2457,14 +2483,23 @@ Sitz im Inland haben:
 4.  Kreditanstalten des öffentlichen Rechts;
 
 
-5.  Gesellschaften im Sinne des § 15 Abs. 1 Nr. 2 und Abs. 3 oder § 18
-    Abs. 4 Satz 2 des Einkommensteuergesetzes. Zum Gewerbebetrieb einer
-    solchen Gesellschaft gehören auch die Wirtschaftsgüter, die im
-    Eigentum eines Gesellschafters, mehrerer oder aller Gesellschafter
-    stehen, und Schulden eines Gesellschafters, mehrerer oder aller
-    Gesellschafter, soweit die Wirtschaftsgüter und Schulden bei der
-    steuerlichen Gewinnermittlung zum Betriebsvermögen der Gesellschaft
-    gehören (§ 95); diese Zurechnung geht anderen Zurechnungen vor.
+5.  Gesellschaften im Sinne des § 15 Absatz 1 Satz 1 Nummer 2, des § 15
+    Absatz 3, des § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes und,
+    wenn sie ihrer Tätigkeit nach einer Gesellschaft im Sinne des § 15
+    Absatz 1 Satz 1 Nummer 2, des § 15 Absatz 3 oder des § 18 Absatz 4
+    Satz 2 des Einkommensteuergesetzes entsprechen, Gesellschaften im
+    Sinne des § 1a Absatz 1 des Körperschaftsteuergesetzes und
+    Gesellschaften im Sinne des § 1 Absatz 1 des
+    Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der
+    Geschäftsleitung im Inland belegen ist, und die nach inländischem
+    Gesellschaftsrecht als Personengesellschaft zu behandeln sind. Zum
+    Gewerbebetrieb einer solchen Gesellschaft gehören auch die
+    Wirtschaftsgüter, die im Eigentum eines Gesellschafters, mehrerer oder
+    aller Gesellschafter stehen, und Schulden eines Gesellschafters,
+    mehrerer oder aller Gesellschafter, soweit die Wirtschaftsgüter und
+    Schulden bei der steuerlichen Gewinnermittlung zum Betriebsvermögen
+    der Gesellschaft gehören (§ 95); diese Zurechnung geht anderen
+    Zurechnungen vor.
 
 
 
@@ -2511,7 +2546,11 @@ vollständig eingezahlt ist. Richtet sich die Beteiligung am Vermögen
 und am Gewinn der Gesellschaft auf Grund einer ausdrücklichen
 Vereinbarung der Gesellschafter nach der jeweiligen Höhe des
 eingezahlten Nennkapitals, bezieht sich der gemeine Wert nur auf das
-tatsächlich eingezahlte Nennkapital.
+tatsächlich eingezahlte Nennkapital. Abweichend von Satz 1 sind bei
+der Wertermittlung des Anteils vorbehaltlich des § 9 Absatz 2 und 3
+Regelungen zu berücksichtigen, die sich auf den Wert des Anteils
+auswirken, wie insbesondere eine vom Verhältnis des Anteils am
+Nennkapital (Grund- oder Stammkapital) abweichende Gewinnverteilung.
 
 (2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den
 sonstigen juristischen Personen des privaten Rechts, den
@@ -4005,19 +4044,13 @@ von der Erklärungspflicht befreit.
     aufgefordert hat;
 
 
-3.  diejenigen, die eine Steuer schulden, für deren Festsetzung die
-    Feststellung von Bedeutung ist. Wird eine Steuer für eine Schenkung
-    unter Lebenden im Sinne des § 7 des Erbschaftsteuer- und
-    Schenkungsteuergesetzes geschuldet, ist der Erwerber Beteiligter, es
-    sei denn, der Schenker hat die Steuer selbst übernommen (§ 10 Absatz 2
-    des Erbschaftsteuer- und Schenkungsteuergesetzes) oder soll als
-    Schuldner der Steuer in Anspruch genommen werden. Der Schenker ist
-    Beteiligter am Feststellungsverfahren, wenn er die Steuer übernommen
-    hat oder als Schuldner für die Steuer in Anspruch genommen werden
-    soll.
+3.  diejenigen, die eine Steuer als Schuldner oder Gesamtschuldner
+    schulden und für deren Festsetzung die Feststellung von Bedeutung ist.
 
 
 
+Gegenüber mehreren Beteiligten nach Satz 1 erfolgt eine gesonderte und
+einheitliche Feststellung (§ 179 Absatz 2 Satz 2 der Abgabenordnung).
 
 (2) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 ist der
 Feststellungsbescheid auch der Kapitalgesellschaft bekannt zu geben.
@@ -4905,8 +4938,17 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§
 
 ###### § 177 Bewertung
 
-Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert
-(§ 9) zu Grunde zu legen.
+(1) Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine
+Wert (§ 9) zu Grunde zu legen.
+
+(2) Die für die Wertermittlung erforderlichen Daten des
+Gutachterausschusses im Sinne des § 193 Absatz 5 Satz 2 des
+Baugesetzbuchs sind bei den Bewertungen nach den §§ 182 bis 196 für
+längstens zwei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem
+der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet.
+Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich
+geändert haben, können die Daten auch über einen längeren Zeitraum als
+zwei Jahre hinaus angewendet werden.
 
 
 ##### II. - Unbebaute Grundstücke
@@ -4936,9 +4978,9 @@ Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die
 Bodenrichtwerte sind von den Gutachterausschüssen nach dem
 Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der
 Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom
-Gutachterausschuss zuletzt zu ermitteln war. Wird von den
-Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert
-aus den Werten vergleichbarer Flächen abzuleiten.
+Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln
+war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt,
+ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
 
 
 ##### III. - Bebaute Grundstücke
@@ -5088,7 +5130,10 @@ Gutachterausschüssen für geeignete Bezugseinheiten, insbesondere
 Flächeneinheiten des Gebäudes, ermittelte und mitgeteilte
 Vergleichsfaktoren herangezogen werden. Bei Verwendung von
 Vergleichsfaktoren, die sich nur auf das Gebäude beziehen, ist der
-Bodenwert nach § 179 gesondert zu berücksichtigen.
+Bodenwert nach § 179 gesondert zu berücksichtigen. Anzuwenden sind die
+Vergleichsfaktoren, die von den Gutachterausschüssen für den letzten
+Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet,
+in dem der Bewertungsstichtag liegt.
 
 (3) Besonderheiten, insbesondere die den Wert beeinflussenden
 Belastungen privatrechtlicher und öffentlich-rechtlicher Art, werden
@@ -5174,10 +5219,12 @@ Instandhaltungskosten und das Mietausfallwagnis; durch Umlagen
 gedeckte Betriebskosten bleiben unberücksichtigt.
 
 (2) Die Bewirtschaftungskosten sind nach Erfahrungssätzen anzusetzen.
-Soweit von den Gutachterausschüssen im Sinne der §§ 192 ff. des
-Baugesetzbuchs keine geeigneten Erfahrungssätze zur Verfügung stehen,
-ist von den pauschalierten Bewirtschaftungskosten nach Anlage 23
-auszugehen.
+Anzuwenden sind die Erfahrungssätze, die von den Gutachterausschüssen
+für den letzten Auswertungszeitraum abgeleitet werden, der vor dem
+Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Soweit von
+den Gutachterausschüssen keine geeigneten Erfahrungssätze zur
+Verfügung stehen, ist von den pauschalierten Bewirtschaftungskosten
+nach Anlage 23 auszugehen.
 
 
 ###### § 188 Liegenschaftszinssatz
@@ -5186,11 +5233,12 @@ auszugehen.
 Verkehrswert von Grundstücken im Durchschnitt marktüblich verzinst
 wird.
 
-(2) Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§
-192 ff. des Baugesetzbuchs ermittelten örtlichen
-Liegenschaftszinssätze. Soweit von den Gutachterausschüssen keine
-geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die
-folgenden Zinssätze:
+(2) Anzuwenden sind die Liegenschaftszinssätze, die von den
+Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet
+werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag
+liegt. Soweit von den Gutachterausschüssen keine geeigneten
+Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden
+Zinssätze:
 
 1.  5 Prozent für Mietwohngrundstücke,
 
@@ -5230,27 +5278,40 @@ gemeinen Wert mit einer Wertzahl nach § 191 zu multiplizieren.
 (1) Bei der Ermittlung des Gebäudesachwerts ist von den
 Regelherstellungskosten des Gebäudes auszugehen.
 Regelherstellungskosten sind die gewöhnlichen Herstellungskosten je
-Flächeneinheit. Der Gebäuderegelherstellungswert ergibt sich durch
-Multiplikation der jeweiligen Regelherstellungskosten mit der Brutto-
-Grundfläche des Gebäudes. Die Regelherstellungskosten sind in der
-Anlage 24 enthalten. Das Bundesministerium der Finanzen wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Anlage 24 zu diesem Gesetz dadurch zu ändern, dass es die darin
-aufgeführten Regelherstellungskosten nach Maßgabe marktüblicher
-gewöhnlicher Herstellungskosten und des vom Statistischen Bundesamt
-veröffentlichten Baupreisindex aktualisiert, soweit dies zur
-Ermittlung des gemeinen Werts erforderlich ist.
+Flächeneinheit. Durch Multiplikation der jeweiligen nach Absatz 2 an
+den Bewertungsstichtag angepassten Regelherstellungskosten mit der
+Brutto-Grundfläche des Gebäudes ergibt sich der
+Gebäuderegelherstellungswert. Die Regelherstellungskosten sind in der
+Anlage 24 enthalten.
 
-(2) Vom Gebäuderegelherstellungswert ist eine Alterswertminderung
+(2) Die Anpassung der Regelherstellungskosten erfolgt anhand der vom
+Statistischen Bundesamt veröffentlichten Baupreisindizes. Dabei ist
+auf die Preisindizes für die Bauwirtschaft abzustellen, die das
+Statistische Bundesamt für den Neubau in konventioneller Bauart von
+Wohn- und Nichtwohngebäuden jeweils als Jahresdurchschnitt ermittelt.
+Diese Preisindizes sind für alle Bewertungsstichtage des folgenden
+Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen
+veröffentlicht die maßgebenden Baupreisindizes im Bundessteuerblatt.
+
+(3) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Anlage 24 zu
+diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten
+Regelherstellungskosten nach Maßgabe marktüblicher gewöhnlicher
+Herstellungskosten aktualisiert, soweit dies zur Ermittlung des
+gemeinen Werts erforderlich ist.
+
+(4) Vom Gebäuderegelherstellungswert ist eine Alterswertminderung
 abzuziehen. Diese wird regelmäßig nach dem Verhältnis des Alters des
 Gebäudes am Bewertungsstichtag zur wirtschaftlichen
 Gesamtnutzungsdauer nach Anlage 22 bestimmt. Sind nach
 Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die
-wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert oder
-verkürzt haben, ist von einem entsprechenden früheren oder späteren
-Baujahr auszugehen. Der nach Abzug der Alterswertminderung
-verbleibende Gebäudewert ist regelmäßig mit mindestens 40 Prozent des
-Gebäuderegelherstellungswerts anzusetzen.
+wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert haben, so
+ist von einem entsprechenden späteren Baujahr auszugehen. Bei
+bestehender Abbruchverpflichtung für das Gebäude ist bei der
+Ermittlung der Alterswertminderung von der tatsächlichen
+Gesamtnutzungsdauer des Gebäudes auszugehen. Der nach Abzug der
+Alterswertminderung verbleibende Gebäudewert ist regelmäßig mit
+mindestens 30 Prozent des Gebäuderegelherstellungswerts anzusetzen.
 
 
 ###### § 191 Wertzahlen
@@ -5258,7 +5319,10 @@ Gebäuderegelherstellungswerts anzusetzen.
 (1) Als Wertzahlen im Sinne des § 189 Abs. 3 sind die Sachwertfaktoren
 anzuwenden, die von den Gutachterausschüssen im Sinne der §§ 192 ff.
 des Baugesetzbuchs für das Sachwertverfahren bei der
-Verkehrswertermittlung abgeleitet wurden.
+Verkehrswertermittlung abgeleitet wurden. Anzuwenden sind die
+Sachwertfaktoren, die von den Gutachterausschüssen für den letzten
+Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet,
+in dem der Bewertungsstichtag liegt.
 
 (2) Soweit von den Gutachterausschüssen keine geeigneten
 Sachwertfaktoren zur Verfügung stehen, sind die in der Anlage 25
@@ -5307,9 +5371,8 @@ Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu
 kapitalisieren.
 
 (4) Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten
-Grundstücks ergibt sich durch Anwendung des Liegenschaftszinssatzes,
-der von den Gutachterausschüssen im Sinne der §§ 192 ff. des
-Baugesetzbuchs ermittelt wurde, auf den Bodenwert nach § 179. Soweit
+Grundstücks ergibt sich durch Anwendung des Liegenschaftszinssatzes im
+Sinne des § 188 Absatz 2 Satz 1 auf den Bodenwert nach § 179. Soweit
 von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze
 zur Verfügung stehen, gelten die folgenden Zinssätze:
 
@@ -5389,9 +5452,9 @@ Gebäudeertragswerts der Vervielfältiger nach Anlage 21 anzuwenden, der
 sich für die am Bewertungsstichtag verbleibende Nutzungsdauer ergibt.
 § 185 Abs. 3 Satz 5 ist nicht anzuwenden. Ist in diesen Fällen der
 Gebäudesachwert zu ermitteln, bemisst sich die Alterswertminderung im
-Sinne des § 190 Abs. 2 Satz 1 bis 3 nach dem Alter des Gebäudes am
+Sinne des § 190 Absatz 4 Satz 1 bis 3 nach dem Alter des Gebäudes am
 Bewertungsstichtag und der tatsächlichen Gesamtnutzungsdauer. § 190
-Abs. 2 Satz 4 ist nicht anzuwenden.
+Absatz 4 Satz 5 ist nicht anzuwenden.
 
 (3) Der Wert des belasteten Grundstücks ist der auf den
 Bewertungsstichtag abgezinste Bodenwert nach § 179 zuzüglich des über
@@ -5435,12 +5498,26 @@ bleiben bei der Ermittlung des Grundbesitzwerts außer Betracht.
 
 ###### § 198 Nachweis des niedrigeren gemeinen Werts
 
-Weist der Steuerpflichtige nach, dass der gemeine Wert der
+(1) Weist der Steuerpflichtige nach, dass der gemeine Wert der
 wirtschaftlichen Einheit am Bewertungsstichtag niedriger ist als der
 nach den §§ 179, 182 bis 196 ermittelte Wert, so ist dieser Wert
 anzusetzen. Für den Nachweis des niedrigeren gemeinen Werts gelten
 grundsätzlich die auf Grund des § 199 Abs. 1 des Baugesetzbuchs
 erlassenen Vorschriften.
+
+(2) Als Nachweis des niedrigeren gemeinen Werts kann regelmäßig ein
+Gutachten des zuständigen Gutachterausschusses im Sinne der §§ 192 ff.
+des Baugesetzbuchs oder von Personen, die von einer staatlichen,
+staatlich anerkannten oder nach DIN EN ISO/IEC 17024 akkreditierten
+Stelle als Sachverständige oder Gutachter für die Wertermittlung von
+Grundstücken bestellt oder zertifiziert worden sind, dienen.
+
+(3) Als Nachweis des niedrigeren gemeinen Werts kann ein im
+gewöhnlichen Geschäftsverkehr innerhalb eines Jahres vor oder nach dem
+Bewertungsstichtag zustande gekommener Kaufpreis über das zu
+bewertende Grundstück dienen, wenn die maßgeblichen Verhältnisse
+hierfür gegenüber den Verhältnissen am Bewertungsstichtag unverändert
+sind.
 
 
 #### D. - Nicht notierte Anteile an Kapitalgesellschaften und Betriebsvermögen
@@ -5617,27 +5694,1403 @@ Betriebsergebnis nach Absatz 1 oder Absatz 2 um 30 Prozent zu mindern.
 
 ##### § 203 Kapitalisierungsfaktor
 
-(1) Der in diesem Verfahren anzuwendende Kapitalisierungszinssatz
-setzt sich zusammen aus einem Basiszins und einem Zuschlag von 4,5
-Prozent.
+(1) Der in diesem Verfahren anzuwendende Kapitalisierungsfaktor
+beträgt 13,75.
 
-(2) Der Basiszins ist aus der langfristig erzielbaren Rendite
-öffentlicher Anleihen abzuleiten. Dabei ist auf den Zinssatz
-abzustellen, den die Deutsche Bundesbank anhand der Zinsstrukturdaten
-jeweils auf den ersten Börsentag des Jahres errechnet. Dieser Zinssatz
-ist für alle Wertermittlungen auf Bewertungsstichtage in diesem Jahr
-anzuwenden. Das Bundesministerium der Finanzen veröffentlicht den
-maßgebenden Zinssatz im Bundessteuerblatt.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates den
+Kapitalisierungsfaktor an die Entwicklung der Zinsstrukturdaten
+anzupassen.
 
-(3) Der Kapitalisierungsfaktor ist der Kehrwert des
-Kapitalisierungszinssatzes.
+
+### Siebenter Abschnitt - Bewertung des Grundbesitzes für die Grundsteuer ab 1. Januar 2022
+
+
+
+#### A. - Allgemeines
+
+
+##### § 218 Vermögensarten
+
+Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt
+abweichend von § 18 eine Unterscheidung in folgende Vermögensarten:
+
+1.  Land- und forstwirtschaftliches Vermögen (§ 232),
+
+
+2.  Grundvermögen (§ 243).
+
+
+
+Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem
+land- und forstwirtschaftlichen Vermögen zugeordnet und sind wie land-
+und forstwirtschaftliches Vermögen zu bewerten. Betriebsgrundstücke im
+Sinne des § 99 Absatz 1 Nummer 1 werden dem Grundvermögen zugeordnet
+und sind wie Grundvermögen zu bewerten.
+
+
+##### § 219 Feststellung von Grundsteuerwerten
+
+(1) Grundsteuerwerte werden für inländischen Grundbesitz, und zwar für
+Betriebe der Land- und Forstwirtschaft (§§ 232 bis 234, 240) und für
+Grundstücke (§§ 243 und 244) gesondert festgestellt (§ 180 Absatz 1
+Satz 1 Nummer 1 der Abgabenordnung).
+
+(2) In dem Feststellungsbescheid (§ 179 der Abgabenordnung) sind auch
+Feststellungen zu treffen über:
+
+1.  die Vermögensart und beim Grundvermögen auch über die Grundstücksart
+    (§ 249) sowie
+
+
+2.  die Zurechnung der wirtschaftlichen Einheit und bei mehreren
+    Beteiligten über die Höhe ihrer Anteile.
+
+
+
+
+(3) Die Feststellungen nach den Absätzen 1 und 2 erfolgen nur, soweit
+sie für die Besteuerung von Bedeutung sind.
+
+
+##### § 220 Ermittlung der Grundsteuerwerte
+
+Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts
+ermittelt. Bei der Ermittlung der Grundsteuerwerte ist § 163 der
+Abgabenordnung nicht anzuwenden; hiervon unberührt bleiben
+Übergangsregelungen, die die oberste Finanzbehörde eines Landes im
+Einvernehmen mit den obersten Finanzbehörden der übrigen Länder
+trifft.
+
+
+##### § 221 Hauptfeststellung
+
+(1) Die Grundsteuerwerte werden in Zeitabständen von je sieben Jahren
+allgemein festgestellt (Hauptfeststellung).
+
+(2) Der Hauptfeststellung werden die Verhältnisse zu Beginn des
+Kalenderjahres (Hauptfeststellungszeitpunkt) zugrunde gelegt.
+
+
+##### § 222 Fortschreibungen
+
+(1) Der Grundsteuerwert wird neu festgestellt (Wertfortschreibung),
+wenn der in Euro ermittelte und auf volle 100 Euro abgerundete Wert,
+der sich für den Beginn eines Kalenderjahres ergibt, von dem
+entsprechenden Wert des letzten Feststellungszeitpunkts nach oben oder
+unten um mehr als 15 000 Euro abweicht.
+
+(2) Über die Art oder Zurechnung der wirtschaftlichen Einheit (§ 219
+Absatz 2) wird eine neue Feststellung getroffen (Artfortschreibung
+oder Zurechnungsfortschreibung), wenn sie von der zuletzt getroffenen
+Feststellung abweicht und es für die Besteuerung von Bedeutung ist.
+
+(3) Eine Fortschreibung nach Absatz 1 oder 2 findet auch zur
+Beseitigung eines Fehlers der letzten Feststellung statt. § 176 der
+Abgabenordnung über den Vertrauensschutz bei der Aufhebung und
+Änderung von Steuerbescheiden ist hierbei entsprechend anzuwenden.
+Satz 2 gilt nur für die Feststellungszeitpunkte, die vor der
+Verkündung der maßgeblichen Entscheidung eines der in § 176 der
+Abgabenordnung genannten Gerichte liegen.
+
+(4) Eine Fortschreibung ist vorzunehmen, wenn dem Finanzamt bekannt
+wird, dass die Voraussetzungen für sie vorliegen. Der Fortschreibung
+werden vorbehaltlich des § 227 die Verhältnisse im
+Fortschreibungszeitpunkt zugrunde gelegt. Fortschreibungszeitpunkt
+ist:
+
+1.  bei einer Änderung der tatsächlichen Verhältnisse der Beginn des
+    Kalenderjahres, das auf die Änderung folgt, und
+
+
+2.  in den Fällen des Absatzes 3 der Beginn des Kalenderjahres, in dem der
+    Fehler dem Finanzamt bekannt wird, bei einer Erhöhung des
+    Grundsteuerwerts jedoch frühestens der Beginn des Kalenderjahres, in
+    dem der Feststellungsbescheid erteilt wird.
+
+
+
+
+
+##### § 223 Nachfeststellung
+
+(1) Für wirtschaftliche Einheiten, für die ein Grundsteuerwert
+festzustellen ist, wird der Grundsteuerwert nachträglich festgestellt
+(Nachfeststellung), wenn nach dem Hauptfeststellungszeitpunkt:
+
+1.  die wirtschaftliche Einheit neu entsteht oder
+
+
+2.  eine bereits bestehende wirtschaftliche Einheit erstmals zur
+    Grundsteuer herangezogen werden soll.
+
+
+
+
+(2) Der Nachfeststellung werden vorbehaltlich des § 227 die
+Verhältnisse im Nachfeststellungszeitpunkt zugrunde gelegt.
+Nachfeststellungszeitpunkt ist:
+
+1.  in den Fällen des Absatzes 1 Nummer 1 der Beginn des Kalenderjahres,
+    das auf die Entstehung der wirtschaftlichen Einheit folgt, und
+
+
+2.  in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres,
+    in dem der Grundsteuerwert erstmals der Besteuerung zugrunde gelegt
+    wird.
+
+
+
+
+
+##### § 224 Aufhebung des Grundsteuerwerts
+
+(1) Der Grundsteuerwert wird aufgehoben, wenn dem Finanzamt bekannt
+wird, dass:
+
+1.  die wirtschaftliche Einheit wegfällt oder
+
+
+2.  der Grundsteuerwert der wirtschaftlichen Einheit infolge von
+    Befreiungsgründen der Besteuerung nicht mehr zugrunde gelegt wird.
+
+
+
+
+(2) Aufhebungszeitpunkt ist:
+
+1.  in den Fällen des Absatzes 1 Nummer 1 der Beginn des Kalenderjahres,
+    das auf den Wegfall der wirtschaftlichen Einheit folgt, und
+
+
+2.  in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres,
+    in dem der Grundsteuerwert erstmals der Besteuerung nicht mehr
+    zugrunde gelegt wird.
+
+
+
+
+
+##### § 225 Änderung von Feststellungsbescheiden
+
+Bescheide über Fortschreibungen oder über Nachfeststellungen von
+Grundsteuerwerten können schon vor dem maßgeblichen
+Feststellungszeitpunkt erteilt werden. Sie sind zu ändern oder
+aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die
+zu einer abweichenden Feststellung führen.
+
+
+##### § 226 Nachholung einer Feststellung
+
+(1) Ist die Feststellungsfrist (§ 181 der Abgabenordnung) abgelaufen,
+kann eine Fortschreibung (§ 222) oder Nachfeststellung (§ 223) unter
+Zugrundelegung der Verhältnisse vom Fortschreibungs- oder
+Nachfeststellungszeitpunkt mit Wirkung für einen späteren
+Feststellungszeitpunkt vorgenommen werden, für den diese Frist noch
+nicht abgelaufen ist. § 181 Absatz 5 der Abgabenordnung bleibt hiervon
+unberührt.
+
+(2) Absatz 1 ist bei der Aufhebung des Grundsteuerwerts (§ 224)
+entsprechend anzuwenden.
+
+
+##### § 227 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
+
+Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte
+sind die Wertverhältnisse im Hauptfeststellungszeitpunkt zugrunde zu
+legen.
+
+
+##### § 228 Erklärungs- und Anzeigepflicht
+
+(1) Die Steuerpflichtigen haben Erklärungen zur Feststellung der
+Grundsteuerwerte für den Hauptfeststellungszeitpunkt oder einen
+anderen Feststellungszeitpunkt abzugeben, wenn sie hierzu durch die
+Finanzbehörde aufgefordert werden (§ 149 Absatz 1 Satz 2 der
+Abgabenordnung). Fordert die Finanzbehörde zur Abgabe einer Erklärung
+auf, hat sie eine Frist zur Abgabe der Erklärung zu bestimmen, die
+mindestens einen Monat betragen soll. Die Aufforderung zur Abgabe
+einer Erklärung kann vom Bundesministerium der Finanzen im
+Einvernehmen mit den obersten Finanzbehörden der Länder durch
+öffentliche Bekanntmachung erfolgen.
+
+(2) Eine Änderung der tatsächlichen Verhältnisse, die sich auf die
+Höhe des Grundsteuerwerts, die Vermögensart oder die Grundstücksart
+auswirken oder zu einer erstmaligen Feststellung führen kann, ist auf
+den Beginn des folgenden Kalenderjahres anzuzeigen. Gleiches gilt,
+wenn das Eigentum oder das wirtschaftliche Eigentum an einem auf
+fremdem Grund und Boden errichteten Gebäude übergegangen ist. Die
+Frist für die Abgabe dieser Anzeige beträgt einen Monat und beginnt
+mit Ablauf des Kalenderjahres, in dem sich die tatsächlichen
+Verhältnisse geändert haben oder das Eigentum oder das wirtschaftliche
+Eigentum an einem auf fremdem Grund und Boden errichteten Gebäude
+übergegangen ist.
+
+(3) Die Erklärung nach Absatz 1 und die Anzeige nach Absatz 2 sind
+abzugeben
+
+1.  von dem Steuerpflichtigen, dem die wirtschaftliche Einheit zuzurechnen
+    ist,
+
+
+2.  bei einem Grundstück, das mit einem Erbbaurecht belastet ist, vom
+    Erbbauberechtigten unter Mitwirkung des Erbbauverpflichteten oder
+
+
+3.  bei einem Gebäude auf fremdem Grund und Boden vom Eigentümer des Grund
+    und Bodens unter Mitwirkung des Eigentümers oder des wirtschaftlichen
+    Eigentümers des Gebäudes.
+
+
+
+
+(4) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind
+bei dem für die gesonderte Feststellung zuständigen Finanzamt
+abzugeben.
+
+(5) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind
+Steuererklärungen im Sinne der Abgabenordnung, die eigenhändig zu
+unterschreiben sind.
+
+(6) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind
+nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
+übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung
+unbilliger Härten auf eine Übermittlung durch Datenfernübertragung
+verzichten. Für die Entscheidung über den Antrag gilt § 150 Absatz 8
+der Abgabenordnung.
+
+
+##### § 229 Auskünfte, Erhebungen und Mitteilungen
+
+(1) Die Eigentümer von Grundbesitz haben der Finanzbehörde auf
+Anforderung alle Angaben zu machen, die sie für die Sammlung der
+Kauf-, Miet- und Pachtpreise braucht. Dabei haben sie zu versichern,
+dass sie die Angaben nach bestem Wissen und Gewissen gemacht haben.
+
+(2) Die Finanzbehörden können zur Vorbereitung einer Hauptfeststellung
+und zur Durchführung von Feststellungen der Grundsteuerwerte örtliche
+Erhebungen über die Bewertungsgrundlagen anstellen. Das Grundrecht der
+Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
+insoweit eingeschränkt.
+
+(3) Die nach Bundes- oder Landesrecht zuständigen Behörden haben den
+Finanzbehörden die rechtlichen und tatsächlichen Umstände mitzuteilen,
+die ihnen im Rahmen ihrer Aufgabenerfüllung bekannt geworden sind und
+die für die Feststellung von Grundsteuerwerten oder für die
+Grundsteuer von Bedeutung sein können.
+
+(4) Die Grundbuchämter haben den für die Feststellung des
+Grundsteuerwerts zuständigen Finanzbehörden mitzuteilen:
+
+1.  die Eintragung eines neuen Eigentümers oder Erbbauberechtigten sowie
+    bei einem anderen als einem rechtsgeschäftlichen Erwerb zusätzlich die
+    Anschrift des neuen Eigentümers oder Erbbauberechtigten; dies gilt
+    nicht für die Fälle des Erwerbs nach den Vorschriften des
+    Zuordnungsrechts,
+
+
+2.  die Eintragung der Begründung von Wohnungseigentum oder Teileigentum,
+
+
+3.  die Eintragung der Begründung eines Erbbaurechts, Wohnungserbbaurechts
+    oder Teilerbbaurechts.
+
+
+
+In den Fällen des Satzes 1 Nummer 2 und 3 ist gleichzeitig der Tag des
+Eingangs des Eintragungsantrags beim Grundbuchamt mitzuteilen. Bei
+einer Eintragung aufgrund Erbfolge ist das Jahr anzugeben, in dem der
+Erblasser verstorben ist. Die Mitteilungen sollen der Finanzbehörde
+über die für die Führung des Liegenschaftskatasters zuständige Behörde
+oder über eine sonstige Behörde, die das amtliche Verzeichnis der
+Grundstücke (§ 2 Absatz 2 der Grundbuchordnung) führt, zugeleitet
+werden.
+
+(5) Die nach den Absätzen 3 oder 4 mitteilungspflichtige Stelle hat
+die betroffenen Personen vom Inhalt der Mitteilung zu unterrichten.
+Eine Unterrichtung kann unterbleiben, soweit den Finanzbehörden
+Umstände aus dem Grundbuch, den Grundakten oder aus dem
+Liegenschaftskataster mitgeteilt werden.
+
+(6) Die nach den Absätzen 3 oder 4 mitteilungspflichtigen Stellen
+übermitteln die Mitteilungen den Finanzbehörden nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle.
+Die Grundbuchämter und die für die Führung des Liegenschaftskatasters
+zuständigen Behörden übermitteln die bei ihnen geführten Daten
+laufend, mindestens alle drei Monate. Das Bundesministerium der
+Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der
+Länder und den obersten Vermessungs- und Katasterbehörden der Länder
+die Einzelheiten der elektronischen Übermittlung und deren Beginn in
+einem Schreiben fest. Dieses Schreiben ist im Bundesanzeiger und im
+Bundessteuerblatt zu veröffentlichen.
+
+
+##### § 230 Abrundung
+
+Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten
+abgerundet.
+
+
+##### § 231 Abgrenzung von in- und ausländischem Vermögen
+
+(1) Für die Bewertung des inländischen nach diesem Abschnitt zu
+bewertenden Vermögens gelten die §§ 232 bis 262. Nach diesen
+Vorschriften sind auch die inländischen Teile einer wirtschaftlichen
+Einheit zu bewerten, die sich sowohl auf das Inland als auch auf das
+Ausland erstrecken.
+
+(2) Die ausländischen Teile einer wirtschaftlichen Einheit unterliegen
+nicht der gesonderten Feststellung nach § 219.
+
+
+#### B. - Land- und forstwirtschaftliches Vermögen
+
+
+
+##### I. - Allgemeines
+
+
+
+###### § 232 Begriff des land- und forstwirtschaftlichen Vermögens
+
+(1) Land- und Forstwirtschaft ist die planmäßige Nutzung der
+natürlichen Kräfte des Bodens zur Erzeugung von Pflanzen und Tieren
+sowie die Verwertung der dadurch selbst gewonnenen Erzeugnisse. Zum
+land- und forstwirtschaftlichen Vermögen gehören alle
+Wirtschaftsgüter, die einem Betrieb der Land- und Forstwirtschaft
+dauernd zu dienen bestimmt sind.
+
+(2) Die wirtschaftliche Einheit des land- und forstwirtschaftlichen
+Vermögens ist der Betrieb der Land- und Forstwirtschaft. Wird der
+Betrieb der Land- und Forstwirtschaft oder werden Teile davon einem
+anderen Berechtigten zur Erzeugung von Pflanzen und Tieren sowie zur
+Verwertung der dadurch selbst gewonnenen Erzeugnisse überlassen, so
+gilt dies als Fortsetzung der land- und forstwirtschaftlichen
+Tätigkeit des Überlassenden.
+
+(3) Zu den Wirtschaftsgütern, die dem Betrieb der Land- und
+Forstwirtschaft dauernd zu dienen bestimmt sind, gehören insbesondere:
+
+1.  der Grund und Boden,
+
+
+2.  die Wirtschaftsgebäude,
+
+
+3.  die stehenden Betriebsmittel,
+
+
+4.  der normale Bestand an umlaufenden Betriebsmitteln,
+
+
+5.  die immateriellen Wirtschaftsgüter.
+
+
+
+Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein Bestand,
+der zur gesicherten Fortführung des Betriebs erforderlich ist.
+
+(4) Nicht zum land- und forstwirtschaftlichen Vermögen gehören:
+
+1.  Grund und Boden sowie Gebäude und Gebäudeteile, die Wohnzwecken oder
+    anderen nicht land- und forstwirtschaftlichen Zwecken dienen,
+
+
+2.  Tierbestände oder Zweige des Tierbestands und die hiermit
+    zusammenhängenden Wirtschaftsgüter (zum Beispiel Gebäude und
+    abgrenzbare Gebäudeteile mit den dazugehörenden Flächen, stehende und
+    umlaufende Betriebsmittel), wenn die Tiere weder nach § 241 zur
+    landwirtschaftlichen Nutzung noch nach § 242 Absatz 2 zu den sonstigen
+    land- und forstwirtschaftlichen Nutzungen gehören; die Zugehörigkeit
+    der landwirtschaftlich genutzten Flächen zum land- und
+    forstwirtschaftlichen Vermögen wird hierdurch nicht berührt,
+
+
+3.  Zahlungsmittel, Geldforderungen, Geschäftsguthaben, Wertpapiere und
+    Beteiligungen sowie
+
+
+4.  Geldschulden und Pensionsverpflichtungen.
+
+
+
+
+
+###### § 233 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen
+
+(1) Dienen im Umgriff einer Windenergieanlage Flächen einem Betrieb
+der Land- und Forstwirtschaft, sind abweichend von § 232 Absatz 4
+Nummer 1 die Standortflächen der Windenergieanlage und der
+dazugehörenden Betriebsvorrichtungen (abgegrenzte Standortfläche der
+Windenergieanlage) dem land- und forstwirtschaftlichen Vermögen
+zuzurechnen.
+
+(2) Land- und forstwirtschaftlich genutzte Flächen sind dem
+Grundvermögen zuzurechnen, wenn nach ihrer Lage, den am
+Feststellungszeitpunkt bestehenden Verwertungsmöglichkeiten oder den
+sonstigen Umständen anzunehmen ist, dass sie innerhalb eines Zeitraums
+von sieben Jahren anderen als land- und forstwirtschaftlichen Zwecken,
+insbesondere als Bau-, Gewerbe- oder Industrieland oder als Land für
+Verkehrszwecke, dienen werden.
+
+(3) Flächen sind stets dem Grundvermögen zuzurechnen, wenn sie in
+einem Bebauungsplan als Bauland festgesetzt sind, ihre sofortige
+Bebauung möglich ist und die Bebauung innerhalb des Plangebiets in
+benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz
+1 gilt nicht für die Hofstelle.
+
+
+###### § 234 Betrieb der Land- und Forstwirtschaft
+
+(1) Ein Betrieb der Land- und Forstwirtschaft umfasst:
+
+1.  die land- und forstwirtschaftlichen Nutzungen:
+
+    a)  die landwirtschaftliche Nutzung,
+
+
+    b)  die forstwirtschaftliche Nutzung,
+
+
+    c)  die weinbauliche Nutzung,
+
+
+    d)  die gärtnerische Nutzung,
+
+        aa) Nutzungsteil Gemüsebau,
+
+
+        bb) Nutzungsteil Blumen- und Zierpflanzenbau,
+
+
+        cc) Nutzungsteil Obstbau,
+
+
+        dd) Nutzungsteil Baumschulen,
+
+
+
+
+
+    e)  die übrigen land- und forstwirtschaftlichen Nutzungen,
+
+
+
+
+
+2.  die Nutzungsarten:
+
+    a)  Abbauland,
+
+
+    b)  Geringstland,
+
+
+    c)  Unland,
+
+
+    d)  Hofstelle,
+
+
+
+
+
+3.  die Nebenbetriebe.
+
+
+
+
+(2) Die land- und forstwirtschaftlichen Betriebsflächen sind einer
+Nutzung, innerhalb der gärtnerischen Nutzung einem Nutzungsteil, oder
+einer Nutzungsart zuzuordnen (gesetzliche Klassifizierung).
+
+(3) Zum Abbauland gehören die Betriebsflächen, die durch Abbau der
+Bodensubstanz überwiegend für den Betrieb der Land- und
+Forstwirtschaft nutzbar gemacht werden, zum Beispiel Steinbrüche,
+Torfstiche, Sand-, Kies- und Lehmgruben.
+
+(4) Zum Geringstland gehören die Betriebsflächen geringster
+Ertragsfähigkeit, für die nach dem Bodenschätzungsgesetz keine
+Wertzahlen festzustellen sind.
+
+(5) Zum Unland gehören die Betriebsflächen, die auch bei geordneter
+Wirtschaftsweise keinen Ertrag abwerfen können.
+
+(6) Zur Hofstelle gehören alle Hof- und Wirtschaftsgebäudeflächen
+einschließlich der Nebenflächen, wenn von dort land- und
+forstwirtschaftliche Flächen nachhaltig bewirtschaftet werden.
+
+(7) Als Nebenbetrieb gilt ein Betrieb, der dem Hauptbetrieb zu dienen
+bestimmt ist und nicht einen selbständigen gewerblichen Betrieb
+darstellt.
+
+
+###### § 235 Bewertungsstichtag
+
+(1) Für die Größe des Betriebs sowie für den Umfang und den Zustand
+der Gebäude sind die Verhältnisse im Feststellungszeitpunkt maßgebend.
+
+(2) Für die stehenden und umlaufenden Betriebsmittel ist der Stand am
+Ende des Wirtschaftsjahres maßgebend, das dem Feststellungszeitpunkt
+vorangegangen ist.
+
+
+###### § 236 Bewertungsgrundsätze
+
+(1) Der Bewertung eines Betriebs der Land- und Forstwirtschaft ist der
+Ertragswert zugrunde zu legen.
+
+(2) Bei der Ermittlung des Ertragswerts ist von der Ertragsfähigkeit
+auszugehen. Ertragsfähigkeit ist der bei ordnungsmäßiger
+Bewirtschaftung gemeinhin und nachhaltig erzielbare Reinertrag eines
+pacht- und schuldenfreien Betriebs mit entlohnten fremden
+Arbeitskräften (Reinertrag). Er ermittelt sich aus dem
+Betriebseinkommen abzüglich des Lohnaufwands für die entlohnten
+Arbeitskräfte und des angemessenen Anteils für die Arbeitsleistung des
+Betriebsleiters sowie der nicht entlohnten Arbeitskräfte. Hierbei sind
+alle Umstände zu berücksichtigen, die bei einer Selbstbewirtschaftung
+des Betriebs den Wirtschaftserfolg beeinflussen.
+
+(3) Der Reinertrag wird aus den Erhebungen nach § 2 des
+Landwirtschaftsgesetzes oder aus Erhebungen der Finanzverwaltung für
+jede gesetzliche Klassifizierung gesondert ermittelt. Bei der
+Ermittlung des jeweiligen Reinertrags ist zur Berücksichtigung der
+nachhaltigen Ertragsfähigkeit ein Durchschnitt aus den letzten zehn
+vorliegenden Wirtschaftsjahren zu bilden, die vor dem
+Hauptfeststellungszeitpunkt geendet haben.
+
+(4) Der Ertragswert ist das 18,6fache der Summe der Reinerträge des
+Betriebs.
+
+
+###### § 237 Bewertung des Betriebs der Land- und Forstwirtschaft
+
+(1) Bei der Ermittlung des Ertragswerts für einen Betrieb der Land-
+und Forstwirtschaft sind die land- und forstwirtschaftlichen
+Nutzungen, Nutzungsarten und die Nebenbetriebe (§ 234 Absatz 1) mit
+ihrem jeweiligen Reinertrag nach den Absätzen 2 bis 8 zu bewerten. Mit
+dem Ansatz des jeweiligen Reinertrags sind auch dem Eigentümer des
+Grund und Bodens nicht gehörende stehende und umlaufende
+Betriebsmittel, die der Bewirtschaftung des Betriebs dienen,
+abgegolten.
+
+(2) Der Reinertrag der landwirtschaftlichen Nutzung ermittelt sich aus
+der Summe der Flächenwerte. Der jeweilige Flächenwert ist das Produkt
+aus der Größe der gesetzlich klassifizierten Eigentumsfläche des
+Betriebs und den Bewertungsfaktoren der Anlage 27. Die
+Bewertungsfaktoren Grundbetrag und Ertragsmesszahl nach § 9 des
+Bodenschätzungsgesetzes sind für jede Eigentumsfläche gesondert zu
+ermitteln.
+
+(3) Der Reinertrag der forstwirtschaftlichen Nutzung ermittelt sich
+aus der Summe der Flächenwerte. Der jeweilige Flächenwert ist das
+Produkt aus der Größe der gesetzlich klassifizierten Eigentumsfläche
+des Betriebs und dem jeweiligen gegendüblichen Bewertungsfaktor gemäß
+Anlage 28. Die gegendüblichen Bewertungsfaktoren bestimmen sich nach
+den forstwirtschaftlichen Wuchsgebieten und deren Baumartenanteilen
+nach der zuletzt vor dem Hauptfeststellungszeitpunkt durchgeführten
+Bundeswaldinventur (§ 41a des Bundeswaldgesetzes). Abweichend hiervon
+werden klassifizierte Eigentumsflächen mit katastermäßig
+nachgewiesenen Bewirtschaftungsbeschränkungen als Geringstland
+bewertet, wenn infolge der Bewirtschaftungsbeschränkungen eine
+nachhaltige forstwirtschaftliche Nutzung unterbleibt.
+
+(4) Der Reinertrag der weinbaulichen Nutzung ermittelt sich aus der
+Summe der Flächenwerte. Der jeweilige Flächenwert ist das Produkt aus
+der Größe der gesetzlich klassifizierten Eigentumsfläche des Betriebs
+und dem Bewertungsfaktor für die Verwertungsform Traubenerzeugung
+gemäß Anlage 29.
+
+(5) Der Reinertrag der gärtnerischen Nutzung ist gegliedert nach den
+Nutzungsteilen zu ermitteln. Der Reinertrag eines Nutzungsteils
+ermittelt sich aus der Summe der Flächenwerte. Der jeweilige
+Flächenwert ist das Produkt aus der gesetzlich klassifizierten
+Eigentumsfläche des Betriebs und dem jeweiligen Bewertungsfaktor gemäß
+Anlage 30. Abweichend hiervon wird der Nutzungsteil Gemüsebau wie eine
+landwirtschaftliche Nutzung bewertet, wenn im Wechsel
+landwirtschaftliche und gärtnerische Erzeugnisse gewonnen werden und
+keine Bewässerungsmöglichkeiten bestehen.
+
+(6) Der Reinertrag für die übrigen land- und forstwirtschaftlichen
+Nutzungen ist für jede Nutzung nach § 242 gesondert zu ermitteln. Der
+Reinertrag einer übrigen land- und forstwirtschaftlichen Nutzung
+ermittelt sich aus der Summe der Flächenwerte. Der jeweilige
+Flächenwert ist das Produkt aus der Größe der gesetzlich
+klassifizierten Eigentumsfläche des Betriebs und dem jeweiligen
+Bewertungsfaktor einschließlich des Zuschlags gemäß Anlage 31. Für die
+sonstigen land- und forstwirtschaftlichen Nutzungen, für die kein
+Bewertungsfaktor festgelegt wurde, ist der Reinertrag der jeweiligen
+Nutzung durch Multiplikation der Bruttogrundflächen der nachhaltig
+genutzten Wirtschaftsgebäude mit dem Zwölffachen des Werts gemäß
+Anlage 31 und für den dazu gehörenden Grund und Boden nach Absatz 8 zu
+ermitteln; dies gilt unabhängig von einer gesetzlichen Klassifizierung
+als Hofstelle.
+
+(7) Der Reinertrag für die Nutzungsarten Abbauland, Geringstland und
+Unland ermittelt sich aus der Summe der Flächenwerte der jeweiligen
+Nutzungsart. Der jeweilige Flächenwert ist das Produkt aus der Größe
+der gesetzlich klassifizierten Eigentumsfläche des Betriebs und dem
+jeweiligen Bewertungsfaktor gemäß Anlage 31.
+
+(8) Der Reinertrag für die Hofflächen und die Nebenbetriebe ermittelt
+sich aus der Summe der Flächenwerte. Der Flächenwert ist das Produkt
+aus der jeweils als Hofstelle gesetzlich klassifizierten
+Eigentumsfläche des Betriebs und dem dreifachen Bewertungsfaktor gemäß
+Anlage 32.
+
+
+###### § 238 Zuschläge zum Reinertrag
+
+(1) Ein Zuschlag zum Reinertrag einer Nutzung oder Nutzungsart ist
+vorzunehmen,
+
+1.  bei der landwirtschaftlichen Nutzung gemäß Anlage 27, wenn der
+    tatsächliche Tierbestand am maßgeblichen Bewertungsstichtag (§ 235)
+    die in Anlage 27 genannte Grenze nachhaltig überschreitet,
+
+
+2.  bei der gärtnerischen Nutzung gemäß Anlage 30, wenn in einem
+    Nutzungsteil Flächen unter Glas und Kunststoffen dem Betrieb zu dienen
+    bestimmt sind. Zu den Flächen unter Glas und Kunststoffen gehören
+    insbesondere mit Gewächshäusern, begehbaren Folientunneln,
+    Foliengewächshäusern und anderen Kulturräumen überbaute
+    Bruttogrundflächen. Unerheblich ist, ob die Flächen unter Glas und
+    Kunststoffen neben der Erzeugung auch zur Lagerung oder zum Vertrieb
+    der Erzeugnisse zu dienen bestimmt sind,
+
+
+3.  bei der Nutzungsart Hofstelle gemäß Anlage 32 für die weinbauliche
+    Nutzung und für Nebenbetriebe. Der Zuschlag ermittelt sich durch
+    Multiplikation der Bruttogrundflächen der nachhaltig genutzten
+    Wirtschaftsgebäude mit dem Zwölffachen des jeweiligen
+    Bewertungsfaktors. Unerheblich ist, ob die Wirtschaftsgebäude neben
+    der Erzeugung auch zur Lagerung oder zum Vertrieb der Erzeugnisse zu
+    dienen bestimmt sind.
+
+
+
+
+(2) Der Reinertrag einer Nutzung oder Nutzungsart ist um einen
+Zuschlag zu erhöhen, wenn die Eigentumsflächen des Betriebs zugleich
+der Stromerzeugung aus Windenergie dienen. Der Zuschlag ermittelt sich
+aus dem Produkt der abgegrenzten Standortfläche der Windenergieanlage
+und dem Bewertungsfaktor gemäß Anlage 33.
+
+
+###### § 239 Grundsteuerwert des Betriebs der Land- und Forstwirtschaft
+
+(1) Die Summe der Reinerträge des Betriebs einschließlich der
+Zuschläge (§§ 237, 238) ist zur Ermittlung des Ertragswerts mit dem
+Faktor 18,6 zu kapitalisieren und ergibt den Grundsteuerwert des
+Betriebs der Land- und Forstwirtschaft.
+
+(2) Die Summe der Reinerträge einschließlich der Zuschläge (§§ 237,
+238) eines Betriebs der Land- und Forstwirtschaft ist für jede
+Gemeinde gesondert zu ermitteln, wenn sich die wirtschaftliche Einheit
+über mehrere Gemeinden erstreckt. Der auf eine Gemeinde entfallende
+Anteil am Grundsteuerwert berechnet sich aus der jeweils für eine
+Gemeinde gesondert ermittelten Summe der Reinerträge im Verhältnis zur
+Gesamtsumme der Reinerträge des Betriebs der Land- und
+Forstwirtschaft.
+
+
+###### § 240 Kleingartenland und Dauerkleingartenland
+
+(1) Als Betrieb der Land- und Forstwirtschaft gelten auch
+Kleingartenland und Dauerkleingartenland im Sinne des
+Bundeskleingartengesetzes.
+
+(2) Bei der Ermittlung des Ertragswerts für Kleingartenland und
+Dauerkleingartenland ist abweichend von § 237 der Reinertrag für den
+Nutzungsteil Gemüsebau anzusetzen. Der Reinertrag ergibt sich aus der
+Summe der Produkte der jeweils gesetzlich klassifizierten
+Eigentumsfläche und dem Reinertrag für das Freiland gemäß Anlage 30.
+
+(3) Gartenlauben von mehr als 30 Quadratmetern Brutto-Grundfläche
+gelten als Wirtschaftsgebäude. § 237 Absatz 8 findet entsprechende
+Anwendung.
+
+(4) Die Summe der Reinerträge nach den Absätzen 2 und 3 ist zur
+Ermittlung des Ertragswerts mit dem Faktor 18,6 zu kapitalisieren und
+ergibt den Grundsteuerwert des Betriebs der Land-und Forstwirtschaft.
+
+
+##### II. - Besondere Vorschriften
+
+
+
+###### a) - Landwirtschaftliche Nutzung
+
+
+
+###### § 241 Tierbestände
+
+(1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen
+Nutzung, wenn im Wirtschaftsjahr
+
+*    *   für die ersten
+        20 Hektar
+
+    *   nicht mehr als
+
+    *   10 Vieheinheiten,
+
+
+*    *   für die nächsten 10 Hektar
+
+    *   nicht mehr als
+
+    *   7 Vieheinheiten,
+
+
+*    *   für die nächsten 20 Hektar
+
+    *   nicht mehr als
+
+    *   6 Vieheinheiten,
+
+
+*    *   für die nächsten 50 Hektar
+
+    *   nicht mehr als
+
+    *   3 Vieheinheiten,
+
+
+*    *   und für die
+        weitere Fläche
+
+    *   nicht mehr als
+
+    *   1,5 Vieheinheiten
+
+
+
+
+je Hektar der vom Inhaber des Betriebs selbst bewirtschafteten Flächen
+der landwirtschaftlichen Nutzung erzeugt oder gehalten werden. Zu den
+selbst bewirtschafteten Flächen gehören die Eigentumsflächen und die
+zur Nutzung überlassenen Flächen. Die Tierbestände sind nach dem
+Futterbedarf in Vieheinheiten umzurechnen.
+
+(2) Übersteigt die Anzahl der Vieheinheiten nachhaltig die in Absatz 1
+bezeichnete Grenze, so gehören nur die Zweige des Tierbestands zur
+landwirtschaftlichen Nutzung, deren Vieheinheiten zusammen diese
+Grenze nicht überschreiten. Zunächst sind mehr flächenabhängige Zweige
+des Tierbestands und danach weniger flächenabhängige Zweige des
+Tierbestands zur landwirtschaftlichen Nutzung zu rechnen. Innerhalb
+jeder dieser Gruppen sind zuerst Zweige des Tierbestands mit der
+geringeren Anzahl von Vieheinheiten und dann Zweige mit der größeren
+Anzahl von Vieheinheiten zur landwirtschaftlichen Nutzung zu rechnen.
+Der Tierbestand des einzelnen Zweiges wird nicht aufgeteilt.
+
+(3) Als Zweig des Tierbestands gilt bei jeder Tierart für sich:
+
+1.  das Zugvieh,
+
+
+2.  das Zuchtvieh,
+
+
+3.  das Mastvieh,
+
+
+4.  das übrige Nutzvieh.
+
+
+
+Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des
+Tierbestands, wenn die erzeugten Jungtiere überwiegend zum Verkauf
+bestimmt sind. Ist das nicht der Fall, so ist das Zuchtvieh dem Zweig
+des Tierbestands zuzurechnen, dem es überwiegend dient.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Pelztiere. Pelztiere gehören
+nur dann zur landwirtschaftlichen Nutzung, wenn die erforderlichen
+Futtermittel überwiegend von den vom Inhaber des Betriebs
+landwirtschaftlich genutzten Flächen gewonnen werden.
+
+(5) Der Umrechnungsschlüssel für Tierbestände in Vieheinheiten sowie
+die Gruppen der mehr oder weniger flächenabhängigen Zweige des
+Tierbestands sind den Anlagen 34 und 35 zu entnehmen.
+
+
+###### b) - Übrige land- und forstwirtschaftliche Nutzungen
+
+
+
+###### § 242 Übrige land- und forstwirtschaftliche Nutzungen
+
+(1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören:
+
+1.  Hopfen, Spargel und andere Sonderkulturen,
+
+
+2.  die sonstigen land- und forstwirtschaftlichen Nutzungen.
+
+
+
+
+(2) Zu den sonstigen land- und forstwirtschaftlichen Nutzungen gehören
+insbesondere:
+
+1.  die Binnenfischerei,
+
+
+2.  die Teichwirtschaft,
+
+
+3.  die Fischzucht für Binnenfischerei und Teichwirtschaft,
+
+
+4.  die Imkerei,
+
+
+5.  die Wanderschäferei,
+
+
+6.  die Saatzucht,
+
+
+7.  der Pilzanbau,
+
+
+8.  die Produktion von Nützlingen,
+
+
+9.  die Weihnachtsbaumkulturen,
+
+
+10. die Kurzumtriebsplantagen.
+
+
+
+
+
+#### C. - Grundvermögen
+
+
+
+##### I. - Allgemeines
+
+
+
+###### § 243 Begriff des Grundvermögens
+
+(1) Zum Grundvermögen gehören, soweit es sich nicht um land- und
+forstwirtschaftliches Vermögen (§§ 232 bis 242) handelt:
+
+1.  der Grund und Boden, die Gebäude, die sonstigen Bestandteile und das
+    Zubehör,
+
+
+2.  das Erbbaurecht,
+
+
+3.  das Wohnungseigentum und das Teileigentum,
+
+
+4.  das Wohnungserbbaurecht und das Teilerbbaurecht nach § 30 Absatz 1 des
+    Wohnungseigentumsgesetzes.
+
+
+
+
+(2) In das Grundvermögen sind nicht einzubeziehen:
+
+1.  Bodenschätze,
+
+
+2.  die Maschinen und sonstigen Vorrichtungen aller Art, die zu einer
+    Betriebsanlage gehören (Betriebsvorrichtungen), auch wenn sie
+    wesentliche Bestandteile sind.
+
+
+
+
+(3) Einzubeziehen sind jedoch die Verstärkungen von Decken und die
+nicht ausschließlich zu einer Betriebsanlage gehörenden Stützen und
+sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
+
+
+###### § 244 Grundstück
+
+(1) Jede wirtschaftliche Einheit des Grundvermögens bildet ein
+Grundstück im Sinne dieses Abschnitts.
+
+(2) Ein Anteil des Eigentümers eines Grundstücks an anderem
+Grundvermögen (zum Beispiel an gemeinschaftlichen Hofflächen oder
+Garagen) ist in die wirtschaftliche Einheit Grundstück einzubeziehen,
+wenn der Anteil zusammen mit dem Grundstück genutzt wird. Das gilt
+nicht, wenn das gemeinschaftliche Grundvermögen nach den Anschauungen
+des Verkehrs als selbständige wirtschaftliche Einheit anzusehen ist (§
+2 Absatz 1 Satz 3 und 4).
+
+(3) Als Grundstück gelten auch:
+
+1.  das Erbbaurecht zusammen mit dem Erbbaurechtsgrundstück,
+
+
+2.  ein Gebäude auf fremdem Grund und Boden zusammen mit dem
+    dazugehörenden Grund und Boden,
+
+
+3.  jedes Wohnungseigentum und Teileigentum nach dem
+    Wohnungseigentumsgesetz sowie
+
+
+4.  jedes Wohnungserbbaurecht und Teilerbbaurecht zusammen mit dem
+    anteiligen belasteten Grund und Boden.
+
+
+
+
+
+###### § 245 Gebäude, Gebäudeteile und Anlagen für den Zivilschutz
+
+Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des
+Zivilschutz- und Katastrophenhilfegesetzes bezeichneten Zwecke
+geschaffen worden sind und im Frieden nicht oder nur gelegentlich oder
+geringfügig für andere Zwecke benutzt werden, bleiben bei der
+Ermittlung des Grundsteuerwerts außer Betracht.
+
+
+##### II. - Unbebaute Grundstücke
+
+
+
+###### § 246 Begriff der unbebauten Grundstücke
+
+(1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine
+benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt zum Zeitpunkt
+der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn
+den zukünftigen Bewohnern oder sonstigen vorgesehenen Benutzern die
+bestimmungsgemäße Gebäudenutzung zugemutet werden kann. Nicht
+entscheidend für den Zeitpunkt der Bezugsfertigkeit ist die Abnahme
+durch die Bauaufsichtsbehörde.
+
+(2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner
+Nutzung zugeführt werden können, so gilt das Grundstück als unbebaut.
+Als unbebaut gilt auch ein Grundstück, auf dem infolge von Zerstörung
+oder Verfall der Gebäude auf Dauer kein benutzbarer Raum mehr
+vorhanden ist.
+
+
+###### § 247 Bewertung der unbebauten Grundstücke
+
+(1) Der Grundsteuerwert unbebauter Grundstücke ermittelt sich
+regelmäßig durch Multiplikation ihrer Fläche mit dem jeweiligen
+Bodenrichtwert (§ 196 des Baugesetzbuchs). Soweit in den §§ 243 bis
+262 sowie in den Anlagen 36 bis 43 nichts anderes bestimmt ist, werden
+Abweichungen zwischen den Grundstücksmerkmalen des
+Bodenrichtwertgrundstücks und des zu bewertenden Grundstücks mit
+Ausnahme unterschiedlicher
+
+1.  Entwicklungszustände und
+
+
+2.  Arten der Nutzung bei überlagernden Bodenrichtwertzonen
+
+
+
+nicht berücksichtigt.
+
+(2) Die Bodenrichtwerte sind von den Gutachterausschüssen im Sinne der
+§§ 192 ff. des Baugesetzbuchs auf den Hauptfeststellungzeitpunkt zu
+ermitteln, zu veröffentlichen und nach amtlich vorgeschriebenem
+Datensatz durch Datenfernübertragung an die zuständigen Finanzbehörden
+zu übermitteln.
+
+(3) Wird von den Gutachterausschüssen im Sinne der §§ 192 ff. des
+Baugesetzbuchs kein Bodenrichtwert ermittelt, ist der Wert des
+unbebauten Grundstücks aus den Werten vergleichbarer Flächen
+abzuleiten.
+
+
+##### III. - Bebaute Grundstücke
+
+
+
+###### § 248 Begriff der bebauten Grundstücke
+
+Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare
+Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist
+der bezugsfertige Teil als benutzbares Gebäude anzusehen.
+
+
+###### § 249 Grundstücksarten
+
+(1) Bei der Bewertung bebauter Grundstücke sind die folgenden
+Grundstücksarten zu unterscheiden:
+
+1.  Einfamilienhäuser,
+
+
+2.  Zweifamilienhäuser,
+
+
+3.  Mietwohngrundstücke,
+
+
+4.  Wohnungseigentum,
+
+
+5.  Teileigentum,
+
+
+6.  Geschäftsgrundstücke,
+
+
+7.  gemischt genutzte Grundstücke und
+
+
+8.  sonstige bebaute Grundstücke.
+
+
+
+
+(2) Einfamilienhäuser sind Wohngrundstücke, die eine Wohnung enthalten
+und kein Wohnungseigentum sind. Ein Grundstück gilt auch dann als
+Einfamilienhaus, wenn es zu weniger als 50 Prozent der Wohn- und
+Nutzfläche zu anderen als Wohnzwecken mitbenutzt und dadurch die
+Eigenart als Einfamilienhaus nicht wesentlich beeinträchtigt wird.
+
+(3) Zweifamilienhäuser sind Wohngrundstücke, die zwei Wohnungen
+enthalten und kein Wohnungseigentum sind. Ein Grundstück gilt auch
+dann als Zweifamilienhaus, wenn es zu weniger als 50 Prozent der Wohn-
+und Nutzfläche zu anderen als Wohnzwecken mitbenutzt und dadurch die
+Eigenart als Zweifamilienhaus nicht wesentlich beeinträchtigt wird.
+
+(4) Mietwohngrundstücke sind Grundstücke, die zu mehr als 80 Prozent
+der Wohn- und Nutzfläche Wohnzwecken dienen und nicht Ein- und
+Zweifamilienhäuser oder Wohnungseigentum sind.
+
+(5) Wohnungseigentum ist das Sondereigentum an einer Wohnung in
+Verbindung mit dem Miteigentumsanteil an dem gemeinschaftlichen
+Eigentum, zu dem es gehört.
+
+(6) Teileigentum ist das Sondereigentum an nicht zu Wohnzwecken
+dienenden Räumen eines Gebäudes in Verbindung mit dem Miteigentum an
+dem gemeinschaftlichen Eigentum, zu dem es gehört.
+
+(7) Geschäftsgrundstücke sind Grundstücke, die zu mehr als 80 Prozent
+der Wohn- und Nutzfläche eigenen oder fremden betrieblichen oder
+öffentlichen Zwecken dienen und nicht Teileigentum sind.
+
+(8) Gemischt genutzte Grundstücke sind Grundstücke, die teils
+Wohnzwecken, teils eigenen oder fremden betrieblichen oder
+öffentlichen Zwecken dienen und nicht Ein- und Zweifamilienhäuser,
+Mietwohngrundstücke, Wohnungseigentum, Teileigentum oder
+Geschäftsgrundstücke sind.
+
+(9) Sonstige bebaute Grundstücke sind solche Grundstücke, die nicht
+unter die Absätze 2 bis 8 fallen.
+
+(10) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume,
+die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung
+eines selbständigen Haushalts möglich ist. Die Zusammenfassung der
+Räume muss eine von anderen Wohnungen oder Räumen, insbesondere
+Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit
+bilden und einen selbständigen Zugang haben. Daneben ist erforderlich,
+dass die für die Führung eines selbständigen Haushalts notwendigen
+Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die
+Wohnfläche soll mindestens 20 Quadratmeter betragen.
+
+
+###### § 250 Bewertung der bebauten Grundstücke
+
+(1) Der Grundsteuerwert bebauter Grundstücke ist nach dem
+Ertragswertverfahren (Absatz 2) oder dem Sachwertverfahren (Absatz 3)
+zu ermitteln.
+
+(2) Im Ertragswertverfahren nach den §§ 252 bis 257 sind zu bewerten:
+
+1.  Einfamilienhäuser,
+
+
+2.  Zweifamilienhäuser,
+
+
+3.  Mietwohngrundstücke,
+
+
+4.  Wohnungseigentum.
+
+
+
+
+(3) Im Sachwertverfahren nach den §§ 258 bis 260 sind zu bewerten:
+
+1.  Geschäftsgrundstücke,
+
+
+2.  gemischt genutzte Grundstücke,
+
+
+3.  Teileigentum,
+
+
+4.  sonstige bebaute Grundstücke.
+
+
+
+
+
+###### § 251 Mindestwert
+
+Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
+sein als 75 Prozent des Werts, mit dem der Grund und Boden allein als
+unbebautes Grundstück zu bewerten wäre (§ 247). Bei der Bewertung von
+Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 ist bei
+der Ermittlung des Mindestwerts § 257 Absatz 1 Satz 2 anzuwenden.
+
+
+###### § 252 Bewertung im Ertragswertverfahren
+
+Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der
+Summe des kapitalisierten Reinertrags nach § 253 (Barwert des
+Reinertrags) und des abgezinsten Bodenwerts nach § 257. Mit dem
+Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude,
+die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen
+Anlagen abgegolten.
+
+
+###### § 253 Ermittlung des kapitalisierten Reinertrags
+
+(1) Zur Ermittlung des kapitalisierten Reinertrags ist vom Reinertrag
+des Grundstücks auszugehen. Dieser ergibt sich aus dem Rohertrag des
+Grundstücks (§ 254) abzüglich der Bewirtschaftungskosten (§ 255).
+
+(2) Der Reinertrag des Grundstücks ist mit dem sich aus Anlage 37
+ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den
+Vervielfältiger sind der Liegenschaftszinssatz nach § 256 und die
+Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer ist
+grundsätzlich der Unterschiedsbetrag zwischen der wirtschaftlichen
+Gesamtnutzungsdauer, die sich aus Anlage 38 ergibt, und dem Alter des
+Gebäudes im Hauptfeststellungszeitpunkt. Sind nach der
+Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die
+wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert
+haben, ist von einer der Verlängerung entsprechenden Restnutzungsdauer
+auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes
+beträgt mindestens 30 Prozent der wirtschaftlichen
+Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für
+das Gebäude ist die Restnutzungsdauer abweichend von den Sätzen 3 bis
+5 auf den Unterschiedsbetrag zwischen der tatsächlichen
+Gesamtnutzungsdauer und dem Alter des Gebäudes im
+Hauptfeststellungszeitpunkt begrenzt.
+
+
+###### § 254 Rohertrag des Grundstücks
+
+Der jährliche Rohertrag des Grundstücks ergibt sich aus den in Anlage
+39 nach Land, Gebäudeart, Wohnfläche und Baujahr des Gebäudes
+angegebenen monatlichen Nettokaltmieten je Quadratmeter Wohnfläche
+einschließlich der in Abhängigkeit der Mietniveaustufen festgelegten
+Zu- und Abschläge.
+
+
+###### § 255 Bewirtschaftungskosten
+
+Als Bewirtschaftungskosten werden die bei ordnungsgemäßer
+Bewirtschaftung und zulässiger Nutzung marktüblich entstehenden
+jährlichen Verwaltungskosten, Betriebskosten, Instandhaltungskosten
+und das Mietausfallwagnis berücksichtigt, die nicht durch Umlagen oder
+sonstige Kostenübernahmen gedeckt sind. Sie ergeben sich aus den
+pauschalierten Erfahrungssätzen nach Anlage 40.
+
+
+###### § 256 Liegenschaftszinssätze
+
+(1) Liegenschaftszinssätze sind die Zinssätze, mit denen der Wert von
+Grundstücken abhängig von der Grundstücksart durchschnittlich und
+marktüblich verzinst wird. Bei der Bewertung bebauter Grundstücke
+gelten die folgenden Zinssätze:
+
+1.  2,5 Prozent für Ein- und Zweifamilienhäuser,
+
+
+2.  3,0 Prozent für Wohnungseigentum,
+
+
+3.  4,0 Prozent für Mietwohngrundstücke mit bis zu sechs Wohnungen,
+
+
+4.  4,5 Prozent für Mietwohngrundstücke mit mehr als sechs Wohnungen.
+
+
+
+
+(2) Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des §
+249 Absatz 2 und 3 verringert sich der Zinssatz nach Absatz 1 Satz 2
+Nummer 1 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die
+der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je
+Quadratmeter den Betrag von 500 Euro je Quadratmeter übersteigt. Ab
+einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je
+Quadratmeter in Höhe von 1 500 Euro je Quadratmeter beträgt der
+Zinssatz für Ein- und Zweifamilienhäuser einheitlich 1,5 Prozent.
+
+(3) Bei der Bewertung von Wohnungseigentum im Sinne des § 249 Absatz 5
+verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 1 um jeweils
+0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert
+oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von
+2 000 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder
+Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 3 000 Euro
+je Quadratmeter beträgt der Zinssatz für Wohnungseigentum einheitlich
+2 Prozent.
+
+
+###### § 257 Ermittlung des abgezinsten Bodenwerts
+
+(1) Zur Ermittlung des abgezinsten Bodenwerts ist vom Bodenwert nach §
+247 auszugehen. Bei der Bewertung von Ein- und Zweifamilienhäusern im
+Sinne des § 249 Absatz 2 und 3 sind zur Berücksichtigung abweichender
+Grundstücksgrößen beim Bodenwert die Umrechnungskoeffizienten nach
+Anlage 36 anzuwenden.
+
+(2) Der Bodenwert nach Absatz 1 ist mit Ausnahme des Werts von
+selbständig nutzbaren Teilflächen nach Absatz 3 mit dem sich aus
+Anlage 41 ergebenden Abzinsungsfaktor abzuzinsen. Der jeweilige
+Abzinsungsfaktor bestimmt sich nach dem Liegenschaftszinssatz nach §
+256 und der Restnutzungsdauer des Gebäudes nach § 253 Absatz 2 Satz 3
+bis 6.
+
+(3) Eine selbständig nutzbare Teilfläche ist ein Teil eines
+Grundstücks, der für die angemessene Nutzung der Gebäude nicht
+benötigt wird und selbständig genutzt oder verwertet werden kann.
+
+
+###### § 258 Bewertung im Sachwertverfahren
+
+(1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude
+(Gebäudesachwert) getrennt vom Bodenwert zu ermitteln.
+
+(2) Der Bodenwert ist der Wert des unbebauten Grundstücks nach § 247.
+
+(3) Die Summe aus Bodenwert (§ 247) und Gebäudesachwert (§ 259) ergibt
+den vorläufigen Sachwert des Grundstücks. Dieser ist zur Ermittlung
+des Grundsteuerwerts im Sachwertverfahren mit der Wertzahl nach § 260
+zu multiplizieren. Mit dem Grundsteuerwert sind die Werte für den
+Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere
+Außenanlagen, und die sonstigen Anlagen abgegolten.
+
+
+###### § 259 Ermittlung des Gebäudesachwerts
+
+(1) Bei der Ermittlung des Gebäudesachwerts ist von den
+Normalherstellungskosten des Gebäudes in Anlage 42 auszugehen.
+
+(2) Der Gebäudenormalherstellungswert ergibt sich durch Multiplikation
+der jeweiligen nach Absatz 3 an den Hauptfeststellungszeitpunkt
+angepassten Normalherstellungskosten mit der Brutto-Grundfläche des
+Gebäudes.
+
+(3) Die Anpassung der Normalherstellungskosten erfolgt anhand der vom
+Statistischen Bundesamt veröffentlichten Baupreisindizes. Dabei ist
+auf die Preisindizes für die Bauwirtschaft abzustellen, die das
+Statistische Bundesamt für den Neubau in konventioneller Bauart von
+Wohn- und Nichtwohngebäuden jeweils für das Vierteljahr vor dem
+Hauptfeststellungzeitpunkt ermittelt hat. Diese Preisindizes sind für
+alle Bewertungsstichtage des folgenden Hauptfeststellungszeitraums
+anzuwenden. Das Bundesministerium der Finanzen veröffentlicht die
+maßgebenden Baupreisindizes im Bundessteuerblatt.
+
+(4) Vom Gebäudenormalherstellungswert ist eine Alterswertminderung
+abzuziehen. Die Alterswertminderung ergibt sich durch Multiplikation
+des Gebäudenormalherstellungswerts mit dem Verhältnis des Alters des
+Gebäudes im Hauptfeststellungszeitpunkt zur wirtschaftlichen
+Gesamtnutzungsdauer nach Anlage 38. Sind nach Bezugsfertigkeit des
+Gebäudes Veränderungen eingetreten, die die wirtschaftliche
+Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von
+einem der Verlängerung entsprechenden späteren Baujahr auszugehen. Der
+nach Abzug der Alterswertminderung verbleibende Gebäudewert ist mit
+mindestens 30 Prozent des Gebäudenormalherstellungswerts anzusetzen.
+Bei bestehender Abbruchverpflichtung für das Gebäude ist die
+Alterswertminderung abweichend von den Sätzen 2 bis 4 auf das
+Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur
+tatsächlichen Gesamtnutzungsdauer begrenzt.
+
+
+###### § 260 Wertzahlen
+
+Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des
+Grundstücks im Sinne des § 258 Absatz 3 mit der sich aus Anlage 43
+ergebenden Wertzahl zu multiplizieren.
+
+
+##### IV. - Sonderfälle
+
+
+
+###### § 261 Erbbaurecht
+
+Bei Erbbaurechten ist für das Erbbaurecht und das
+Erbbaurechtsgrundstück ein Gesamtwert nach den §§ 243 bis 260 zu
+ermitteln, der festzustellen wäre, wenn die Belastung mit dem
+Erbbaurecht nicht bestünde. Der ermittelte Wert ist dem
+Erbbauberechtigten zuzurechnen. Für Wohnungserbbaurechte und
+Teilerbbaurechte gelten die Sätze 1 und 2 entsprechend.
+
+
+###### § 262 Gebäude auf fremdem Grund und Boden
+
+Bei einem Gebäude auf fremdem Grund und Boden ist für den Grund und
+Boden sowie für das Gebäude auf fremdem Grund und Boden ein Gesamtwert
+nach den §§ 243 bis 260 zu ermitteln. Der ermittelte Wert ist dem
+Eigentümer des Grund und Bodens zuzurechnen.
+
+
+##### V. - Ermächtigungen
+
+
+
+###### § 263 Ermächtigungen
+
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die folgenden Anlagen
+zu ändern:
+
+1.  die Anlagen 27 bis 33 durch Anpassung der darin aufgeführten
+    Bewertungsfaktoren und Zuschläge zum Reinertrag an die Ergebnisse der
+    Erhebungen nach § 2 des Landwirtschaftsgesetzes oder an die Erhebungen
+    der Finanzverwaltung zum nächsten Feststellungszeitpunkt,
+
+
+2.  im Einvernehmen mit dem Bundesministerium für Ernährung und
+    Landwirtschaft die Anlagen 34 und 35 durch Anpassung des darin
+    aufgeführten Umrechnungsschlüssels und der Gruppen der Zweige eines
+    Tierbestands an geänderte wirtschaftliche oder technische
+    Entwicklungen und
+
+
+3.  die Anlagen 36 bis 43 durch Anpassung der darin aufgeführten
+    Bewertungsfaktoren des Ertrags- und Sachwertverfahrens an geänderte
+    wirtschaftliche oder technische Verhältnisse.
+
+
+
+In der jeweiligen Rechtsverordnung kann das Bundesministerium der
+Finanzen zur Sicherstellung der Gleichmäßigkeit der Besteuerung,
+insbesondere zur Sicherstellung einer relations- und
+realitätsgerechten Abbildung der Grundsteuerwerte, anordnen, dass ab
+dem nächsten Feststellungszeitpunkt Grundsteuerwerte unter
+Berücksichtigung der tatsächlichen Verhältnisse und der geänderten
+Wertverhältnisse durch Anwendung der jeweils angepassten Anlagen 27
+bis 43 festgestellt werden.
+
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die gemeindebezogene
+Einordnung in die jeweilige Mietniveaustufe zur Ermittlung der Zu- und
+Abschläge nach § 254 in Verbindung mit Anlage 39 Teil II auf der
+Grundlage der Einordnung nach § 12 des Wohngeldgesetzes in Verbindung
+mit § 1 Absatz 3 und der Anlage der Wohngeldverordnung für steuerliche
+Zwecke herzuleiten und den dafür maßgeblichen Gebietsstand
+festzulegen.
 
 
 ## Dritter Teil - Schlussbestimmungen
 
 
 
-### § 204 Bekanntmachung
+### § 264 Bekanntmachung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen
@@ -5645,7 +7098,7 @@ in der jeweils geltenden Fassung satzweise nummeriert bekannt zu
 machen.
 
 
-### § 205 Anwendungsvorschriften
+### § 265 Anwendungsvorschriften
 
 (1) Dieses Gesetz in der Fassung des Artikels 7 des Gesetzes vom 1.
 November 2011 (BGBl. I S. 2131) ist auf Bewertungsstichtage nach dem
@@ -5664,8 +7117,99 @@ Dezember 2011 (BGBl. I S. 2592) sind auf Bewertungsstichtage nach dem
 Artikels 10 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) sind
 auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
+(5) § 11 Absatz 4 in der Fassung des Artikels 3 des Gesetzes vom 18.
+Dezember 2013 (BGBl. I S. 4318) ist auf Bewertungsstichtage ab dem 22.
+Juli 2013 anzuwenden.
 
-### Anlage 1 (zu § 51) Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+(6) § 48a in der Fassung des Artikels 20 des Gesetzes vom 26. Juni
+2013 (BGBl. I S. 1809) ist auf Bewertungsstichtage ab dem 1. Januar
+2014 anzuwenden.
+
+(7) § 26 in der Fassung des Artikels 6 des Gesetzes vom 18. Juli 2014
+(BGBl. I S. 1042) ist auf Bewertungsstichtage ab dem 1. August 2001
+anzuwenden, soweit Feststellungsbescheide noch nicht bestandskräftig
+sind.
+
+(8) § 97 Absatz 1b Satz 4 in der am 6. November 2015 geltenden Fassung
+ist auf Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
+
+(9) § 154 Absatz 1 Satz 1 Nummer 3 und Satz 2 in der am 6. November
+2015 geltenden Fassung ist auf Bewertungsstichtage nach dem 31.
+Dezember 2015 anzuwenden.
+
+(10) Die §§ 190, 195 Absatz 2 Satz 4 und 5 sowie die Anlagen 22, 24
+und 25 in der am 6. November 2015 geltenden Fassung sind auf
+Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
+
+(11) § 203 in der Fassung des Artikels 2 des Gesetzes vom 4. November
+2016 (BGBl. I S. 2464) ist auf Bewertungsstichtage nach dem 31.
+Dezember 2015 anzuwenden.
+
+(12) § 177 Absatz 1 und 2, § 179 Satz 3, § 183 Absatz 2 Satz 3, § 187
+Absatz 2 Satz 2 und 3, § 188 Absatz 2 Satz 1, § 191 Absatz 1 Satz 2, §
+193 Absatz 4 Satz 1 und § 198 Absatz 1 bis 3 in der Fassung des
+Artikels 1 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) sind auf
+Bewertungsstichtage nach dem 22. Juli 2021 anzuwenden.
+
+
+### § 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
+
+(1) Die erste Hauptfeststellung für die Grundsteuerwerte nach § 221
+wird auf den 1. Januar 2022 für die Hauptveranlagung auf den 1. Januar
+2025 durchgeführt.
+
+(2) Für die Anwendung des § 219 Absatz 3 bei der Hauptfeststellung
+nach Absatz 1 ist zu unterstellen, dass anstelle von Einheitswerten
+Grundsteuerwerte für die Besteuerung nach dem Grundsteuergesetz in der
+am 1. Januar 2022 geltenden Fassung von Bedeutung sind. Die
+Steuerbefreiungen des Grundsteuergesetzes in der am 1. Januar 2022
+gültigen Fassung sind bei der Hauptfeststellung nach Absatz 1 zu
+beachten. Bei Artfortschreibungen und Zurechnungsfortschreibungen nach
+§ 222 Absatz 2 ist von der Hauptfeststellung auf den 1. Januar 2022
+bis zum 1. Januar 2025 zu unterstellen, dass anstelle von
+Einheitswerten Grundsteuerwerte nach dem Grundsteuergesetz in der
+jeweils geltenden Fassung von Bedeutung sind.
+
+(3) Werden der Finanzbehörde durch eine Erklärung im Sinne des § 228
+auf den 1. Januar 2022 für die Bewertung eines Betriebs der Land- und
+Forstwirtschaft oder eines Grundstücks vor dem 1. Januar 2022
+eingetretene Änderungen der tatsächlichen Verhältnisse erstmals
+bekannt, sind diese bei Fortschreibungen nach § 22 und
+Nachfeststellungen nach § 23 auf Feststellungszeitpunkte vor dem 1.
+Januar 2022 nicht zu berücksichtigen.
+
+(4) Einheitswertbescheide, Grundsteuermessbescheide und
+Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden,
+werden kraft Gesetzes zum 31. Dezember 2024 mit Wirkung für die
+Zukunft aufgehoben, soweit sie auf den §§ 19 bis 23, 27, 76, 79 Absatz
+5, § 93 Absatz 1 Satz 2 des Bewertungsgesetzes in Verbindung mit
+Artikel 2 Absatz 1 Satz 1 und 3 des Gesetzes zur Änderung des
+Bewertungsgesetzes in der Fassung des Artikels 2 des Gesetzes vom 22.
+Juli 1970 (BGBl. I S. 1118) beruhen. Gleiches gilt für
+Einheitswertbescheide, Grundsteuermessbescheide und
+Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden,
+soweit sie auf den §§ 33, 34, 125, 129 des Bewertungsgesetzes in der
+Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch
+Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) und § 42
+des Grundsteuergesetzes vom 7. August 1973 (BGBl. I S. 965), das
+zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember 2008 (BGBl. I
+S. 2794) geändert worden ist, beruhen. Für die Bewertung des
+inländischen Grundbesitzes (§ 19 Absatz 1 in der Fassung vom 31.
+Dezember 2024) für Zwecke der Grundsteuer bis einschließlich zum
+Kalenderjahr 2024 ist das Bewertungsgesetz in der Fassung vom 1.
+Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des
+Gesetzes vom 4. November 2016 (BGBl. I S. 2464) geändert worden ist,
+weiter anzuwenden.
+
+(5) Bestehende wirtschaftliche Einheiten, die für Zwecke der
+Einheitsbewertung unter Anwendung der §§ 26 oder 34 Absatz 4 bis 6 in
+der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können
+weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den
+Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
+
+(zu § 51)
+
+### Anlage 1 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2619 - 2620)
 
@@ -6154,8 +7698,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Mietwohngrundstücke
 
-### Anlage 3 Mietwohngrundstücke Vervielfältiger
+### Anlage 3 Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 264)
 
@@ -6683,8 +8228,10 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
+Jahresrohmiete bis zu 50 v. H.
 
-### Anlage 4 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der Jahresrohmiete bis zu 50 v. H. Vervielfältiger
+### Anlage 4 Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 265)
 
@@ -7212,8 +8759,10 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
+Jahresrohmiete von mehr als 50 v. H.
 
-### Anlage 5 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der Jahresrohmiete von mehr als 50 v. H. Vervielfältiger
+### Anlage 5 Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 266)
 
@@ -7631,8 +9180,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Geschäftsgrundstücke
 
-### Anlage 6 Geschäftsgrundstücke Vervielfältiger
+### Anlage 6 Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 267)
 
@@ -8162,8 +9712,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Einfamilienhäuser
 
-### Anlage 7 Einfamilienhäuser Vervielfältiger
+### Anlage 7 Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 268)
 
@@ -8581,8 +10132,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Zweifamilienhäuser
 
-### Anlage 8 Zweifamilienhäuser Vervielfältiger
+### Anlage 8 Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 269)
 
@@ -9004,8 +10556,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 ### Anlage 9 (weggefallen)
 
 
+(zu § 13)
 
-### Anlage 9a (zu § 13) Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
+### Anlage 9a Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
 
 (Fundstelle: BGBl. I 1992, 1860 u. 1861;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -9596,8 +11149,9 @@ nachschüssige Zahlungsweise.
 ### (XXXX) Anlagen 10 bis 13 (weggefallen)
 
 
+(zu § 163 Abs. 3, § 164 Abs. 2 und 4)
 
-### Anlage 14 (zu § 163 Abs. 3, § 164 Abs. 2 und 4) Landwirtschaftliche Nutzung
+### Anlage 14 Landwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3043 - 3059)
 
@@ -18089,8 +19643,9 @@ nachschüssige Zahlungsweise.
 
 
 
+(zu § 163 Abs. 4 und § 164 Abs. 2)
 
-### Anlage 15 (zu § 163 Abs. 4 und § 164 Abs. 2) Forstwirtschaftliche Nutzung
+### Anlage 15 Forstwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3060;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -18241,10 +19796,11 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 
+   (zu § 164 Abs. 4)
 
-### Anlage 15a (zu § 164 Abs. 4) Forstwirtschaftliche Nutzung
+### Anlage 15a Forstwirtschaftliche Nutzung
 
-   (Fundstelle: BGBl. I 2008, 3061)
+(Fundstelle: BGBl. I 2008, 3061)
 
 
 *    *   6
@@ -18611,8 +20167,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 163 Abs. 5 und § 164 Abs. 2 und 4)
 
-### Anlage 16 (zu § 163 Abs. 5 und § 164 Abs. 2 und 4) Weinbauliche Nutzung
+### Anlage 16 Weinbauliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18679,8 +20236,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 163 Abs. 6 und § 164 Abs. 2 und 4)
 
-### Anlage 17 (zu § 163 Abs. 6 und § 164 Abs. 2 und 4) Gärtnerische Nutzung
+### Anlage 17 Gärtnerische Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18785,8 +20343,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 163 Abs. 7 und § 164 Abs. 2 und 4)
 
-### Anlage 18 (zu § 163 Abs. 7 und § 164 Abs. 2 und 4) Sondernutzungen
+### Anlage 18 Sondernutzungen
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18850,8 +20409,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 169)
 
-### Anlage 19 (zu § 169) Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+### Anlage 19 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2621 - 2622)
 
@@ -19268,8 +20828,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 169 Abs. 5)
 
-### Anlage 20 (zu § 169 Abs. 5) Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+### Anlage 20 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
 (Fundstelle: BGBl. I 2008, 3065)
 
@@ -19318,8 +20879,11 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 185 Abs. 3 Satz 1,
+§ 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und
+§ 195 Abs. 2 Satz 2 und Abs. 3 Satz 3)
 
-### Anlage 21 (zu § 185 Abs. 3 Satz 1, § 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und § 195 Abs. 2 Satz 2 und Abs. 3 Satz 3) Vervielfältiger
+### Anlage 21 Vervielfältiger
 
 (Fundstelle: BGBl. I 2008, 3066 - 3068)
 
@@ -21895,29 +23459,30 @@ Vervielfältiger nach folgender Formel zu bilden:
 
 
 
+(zu § 185 Absatz 3 Satz 3, § 190 Absatz 4 Satz 2)
 
-### Anlage 22 (zu § 185 Abs. 3 Satz 3, § 190 Abs. 2 Satz 2) Wirtschaftliche Gesamtnutzungsdauer
+### Anlage 22 Wirtschaftliche Gesamtnutzungsdauer
 
-(Fundstelle: BGBl. I 2008, 3069)
+(Fundstelle: BGBl. I 2015, 1846)
 
 
-*    *   **Einfamilien- und Zweifamilienhäuser**
+*    *   **Ein- und Zweifamilienhäuser**
 
-    *   80
+    *   70
 
     *   Jahre
 
 
-*    *   **Mietwohngrundstücke**
+*    *   **Mietwohngrundstücke, Mehrfamilienhäuser**
 
-    *   80
+    *   70
 
     *   Jahre
 
 
 *    *   **Wohnungseigentum**
 
-    *   80
+    *   70
 
     *   Jahre
 
@@ -21928,215 +23493,133 @@ Vervielfältiger nach folgender Formel zu bilden:
     *
     *
 
-*    *   Gemischt genutzte Grundstücke (mit Wohn- und Gewerbeflächen)
+*    *   Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)
 
     *   70
 
     *   Jahre
 
 
-*    *   Hochschulen (Universitäten)
+*    *   Museen, Theater, Sakralbauten, Friedhofsgebäude
 
     *   70
 
     *   Jahre
 
 
-*    *   Saalbauten (Veranstaltungszentren)
-
-    *   70
-
-    *   Jahre
-
-
-*    *   Kur- und Heilbäder
-
-    *   70
-
-    *   Jahre
-
-
-*    *   Verwaltungsgebäude
+*    *   Bürogebäude/Verwaltungsgebäude
 
     *   60
 
     *   Jahre
 
 
-*    *   Bankgebäude
+*    *   Banken und ähnliche Geschäftshäuser
 
     *   60
 
     *   Jahre
 
 
-*    *   Schulen
+*    *   Einzelgaragen/Mehrfachgaragen
 
     *   60
 
     *   Jahre
 
 
-*    *   Kindergärten (Kindertagesstätten)
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Altenwohnheime
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Personalwohnheime (Schwesternwohnheime)
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Hotels
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Sporthallen (Turnhallen)
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Kaufhäuser, Warenhäuser
+*    *   Kindergärten (Kindertagesstätten), Allgemeinbildende und
+        Berufsbildende Schulen, Hochschulen, Sonderschulen
 
     *   50
 
     *   Jahre
 
 
-*    *   Ausstellungsgebäude
+*    *   Wohnheime/Internate, Alten-/Pflegeheime
 
     *   50
 
     *   Jahre
 
 
-*    *   Krankenhäuser
+*    *   Kauf-/Warenhäuser
 
     *   50
 
     *   Jahre
 
 
-*    *   Vereinsheime (Jugendheime, Tagesstätten)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Parkhäuser (offene Ausführung, Parkpaletten)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Parkhäuser (geschlossene Ausführung)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Tiefgaragen
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Funktionsgebäude für Sportanlagen (z.B. Sanitär- und Umkleideräume)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Hallenbäder
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Industriegebäude, Werkstätten ohne Büro- und Sozialtrakt
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Industriegebäude, Werkstätten mit Büro- und Sozialtrakt
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Lagergebäude (Kaltlager)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Lagergebäude (Warmlager)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Lagergebäude (Warmlager mit Büro- und Sozialtrakt)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Einkaufsmärkte, Großmärkte, Läden
+*    *   Krankenhäuser, Tageskliniken, Ärztehäuser
 
     *   40
 
     *   Jahre
 
 
-*    *   Tennishallen
+*    *   Gemeindezentren, Saalbauten/Veranstaltungsgebäude, Vereinsheime
 
     *   40
 
     *   Jahre
 
 
-*    *   Reitsporthallen
+*    *   Beherbergungsstätten, Hotels, Verpflegungseinrichtungen
 
     *   40
+
+    *   Jahre
+
+
+*    *   Sport-/Tennishallen, Freizeitbäder/Kur- und Heilbäder
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Tief-,Hoch- und Nutzfahrzeuggaragen als Einzelbauwerke, Carports
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Betriebs-/Werkstätten, Industrie-/Produktionsgebäude
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Lager-/Versandgebäude
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Verbrauchermärkte, Autohäuser
+
+    *   30
+
+    *   Jahre
+
+
+*    *   Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, u. Ä.
+
+    *   30
 
     *   Jahre
 
 
 
 **Teileigentum**              ist in Abhängigkeit von der baulichen
-Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
+Gestaltung den vorstehenden Gebäudearten zuzuordnen.
 
+(zu § 187 Abs. 2 Satz 2)
 
-### Anlage 23 (zu § 187 Abs. 2 Satz 2) Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
+### Anlage 23 Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
 
 (Fundstelle: BGBl. I 2008, 3070)
 
@@ -22205,2118 +23688,2932 @@ Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
 
 
 
+(zu § 190 Absatz 1 Satz 4 und Absatz 3)
 
-### Anlage 24 (zu § 190 Abs. 1 Satz 4 und 5) Ermittlung des Gebäuderegelherstellungswerts
+### Anlage 24 Ermittlung des Gebäuderegelherstellungswerts
 
-(Fundstelle: BGBl. I 2008, 3071 - 3076;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2015, 1847 – 1862)
 
 **I. Begriff der Brutto-Grundfläche (BGF)**
 
-(1) Die Brutto-Grundfläche ist die Summe aus den Grundflächen aller
-Grundrissebenen eines Bauwerks mit Nutzungen nach DIN 277-2:2005-02,
-Tabelle 1, Nr. 1 bis Nr. 9, und aus deren konstruktiven
-Umschließungen. Für die Ermittlung der Brutto-Grundfläche (Summe aus
-Netto-Grundfläche und Konstruktions-Grundfläche) sind die äußeren Maße
-der Bauteile einschließlich Bekleidung, z. B. Putz, Außenschalen
-mehrschaliger Wandkonstruktionen in Höhe der Boden- bzw.
-Deckenbelagsoberkanten anzusetzen. Konstruktive und gestalterische
-Vor- und Rücksprünge, Fuß-Sockelleisten, Schrammborde und
-Unterschneidungen sowie vorstehende Teile von Fenster- und
-Türbekleidungen bleiben dabei unberücksichtigt.
+1.  Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart
+    marktüblich nutzbaren Grundflächen aller Grundrissebenen eines
+    Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den
+    Grundflächen folgende Bereiche zu unterscheiden:
 
-(2) Nicht zur Brutto-Grundfläche gehören Flächen, die ausschließlich
-der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und
-technischen Anlagen dienen, z. B. nicht nutzbare Dachflächen, fest
-installierte Dachleitern und -stege, Wartungsstege in abgehängten
-Decken.
+    Bereich a: überdeckt und allseitig in voller Höhe umschlossen,
+
+    Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe
+    umschlossen,
+
+    Bereich c: nicht überdeckt.
+
+    Für die Anwendung der Regelherstellungskosten (RHK) sind im Rahmen der
+    Ermittlung der BGF nur die Grundflächen der Bereiche a und b zugrunde
+    zu legen. Balkone, auch wenn sie überdeckt sind, sind dem Bereich c
+    zuzuordnen.
+
+    Für die Ermittlung der BGF sind die äußeren Maße der Bauteile
+    einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger
+    Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen.
+
+
+2.  Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern,
+    Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung
+    von Baukonstruktionen und technischen Anlagen dienen sowie Flächen
+    unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
+
+
+
 
 **II. Regelherstellungskosten (RHK)**
 
-## Regelherstellungskosten 2010 (RHK 2010)
+**Regelherstellungskosten**
 
-### **(einschließlich Baunebenkosten, Preisstand IV. Quartal 2010)**
-
-
-*    *   1.
-
-    *   Ein- und Zweifamilienhäuser (EUR/m
-        2                      BGF)
-        Typisierte Gesamtnutzungsdauer = 80 Jahre
+auf Grundlage der Normalherstellungskosten 2010 (NHK 2010) in Euro/m
+2              BGF einschließlich Baunebenkosten und Umsatzsteuer für
+die jeweilige Gebäudeart (Kostenstand 2010)
 
 
-*    *
-    *   Baujahr
+*    *   **1-3**
 
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
+    *   **Ein- und Zweifamilienhäuser**
 
 
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
 
 
 *    *
-    *   mit Keller
+    *   **Standardstufe**
 
 
-*    *   1.11
+*    *   **Keller- und Erdgeschoss**
 
+    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *        ![bgbl1_2015_j1834-1_0010.jpg](bgbl1_2015_j1834-1_0010.jpg)
     *   Dachgeschoss ausgebaut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.01
+
+    *   freistehende Einfamilienhäuser
+
+    *   655
+
+    *   725
+
+    *   835
+
+    *   1005
+
+    *   1260
+
+
+*    *   1.011
+
+    *[^f791494_02_BJNR010350934BJNE027803123]
+   freistehende Zweifamilienhäuser
+
+    *   688
+
+    *   761
+
+    *   877
+
+    *   1055
+
+    *   1323
+
+
+*    *   2.01
+
+    *   Doppel- und Reihenendhäuser
+
+    *   615
+
+    *   685
+
+    *   785
+
+    *   945
+
+    *   1180
+
+
+*    *   3.01
+
+    *   Reihenmittelhäuser
+
+    *   575
 
     *   640
 
-    *   690
+    *   735
 
-    *   810
+    *   885
 
-    *   690
+    *   1105
 
-    *   740
 
-    *   880
+*    *        ![bgbl1_2015_j1834-1_0020.jpg](bgbl1_2015_j1834-1_0020.jpg)
+    *   Dachgeschoss nicht ausgebaut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.02
+
+    *   freistehende Einfamilienhäuser
+
+    *   545
+
+    *   605
+
+    *   695
+
+    *   840
+
+    *   1050
+
+
+*    *   1.021
+
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   572
+
+    *   635
 
     *   730
 
-    *   790
+    *   882
 
-    *   940
-
-    *   780
-
-    *   840
-
-    *   990
-
-    *   840
-
-    *   910
-
-    *   1060
-
-    *   870
-
-    *   940
-
-    *   1110
+    *   1103
 
 
-*    *   1.12
+*    *   2.02
 
-    *   Dachgeschoss nicht ausgebaut
+    *   Doppel- und Reihenendhäuser
+
+    *   515
 
     *   570
 
-    *   620
-
-    *   730
-
-    *   620
-
-    *   670
+    *   655
 
     *   790
 
-    *   660
-
-    *   720
-
-    *   840
-
-    *   700
-
-    *   760
-
-    *   890
-
-    *   750
-
-    *   820
-
-    *   960
-
-    *   790
-
-    *   850
-
-    *   1010
+    *   985
 
 
-*    *   1.13
+*    *   3.02
 
-    *   Flachdach
+    *   Reihenmittelhäuser
 
-    *   640
+    *   480
 
-    *   700
+    *   535
 
-    *   810
-
-    *   700
-
-    *   750
-
-    *   880
+    *   615
 
     *   740
 
-    *   800
-
-    *   930
-
-    *   790
-
-    *   850
-
-    *   990
-
-    *   850
-
-    *   910
-
-    *   1060
-
-    *   880
-
-    *   950
-
-    *   1110
+    *   925
 
 
-*    *
-    *   ohne Keller
+*    *        ![bgbl1_2015_j1834-1_0030.jpg](bgbl1_2015_j1834-1_0030.jpg)
+    *   Flachdach oder flach geneigtes Dach
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.03
+
+    *   freistehende Einfamilienhäuser
+
+    *   705
+
+    *   785
+
+    *   900
+
+    *   1085
+
+    *   1360
 
 
-*    *   1.21
+*    *   1.031
 
-    *   Dachgeschoss ausgebaut
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   720
+    *   740
 
-    *   790
+    *   824
 
-    *   940
+    *   945
 
-    *   780
+    *   1139
 
-    *   850
+    *   1428
+
+
+*    *   2.03
+
+    *   Doppel- und Reihenendhäuser
+
+    *   665
+
+    *   735
+
+    *   845
 
     *   1020
 
-    *   830
-
-    *   910
-
-    *   1090
-
-    *   880
-
-    *   960
-
-    *   1150
-
-    *   950
-
-    *   1040
-
-    *   1250
-
-    *   990
-
-    *   1080
-
-    *   1300
+    *   1275
 
 
-*    *   1.22
+*    *   3.03
 
-    *   Dachgeschoss nicht ausgebaut
+    *   Reihenmittelhäuser
 
-    *   640
-
-    *   700
-
-    *   840
+    *   620
 
     *   690
 
-    *   760
+    *   795
 
-    *   910
+    *   955
 
-    *   740
-
-    *   800
-
-    *   960
-
-    *   780
-
-    *   850
-
-    *   1020
-
-    *   840
-
-    *   920
-
-    *   1100
-
-    *   880
-
-    *   960
-
-    *   1150
+    *   1195
 
 
-*    *   1.23
-
-    *   Flachdach
-
-    *   790
-
-    *   860
-
-    *   1020
-
-    *   850
-
-    *   930
-
-    *   1100
-
-    *   910
-
-    *   990
-
-    *   1180
-
-    *   850
-
-    *   920
-
-    *   1250
-
-    *   1040
-
-    *   1130
-
-    *   1350
-
-    *   1080
-
-    *   1180
-
-    *   1400
-
-
-
-
-*    *   2.
-
-    *   Wohnungseigentum und vergleichbares Teileigentum/ohne Tiefgaragenplatz
-        (EUR/m
-        2                      BGF)
-        Typisierte Gesamtnutzungsdauer = 80 Jahre
 
 
 *    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
+    *   **Standardstufe**
 
 
-*    *   GKL
+*    *   **Keller-, Erd- und Obergeschoss**
 
-    *   Ausstattungsstandard
+    *   **1**
 
-    *   einf.
+    *   **2**
 
-    *   mittel
+    *   **3**
 
-    *   geh.
+    *   **4**
 
-    *   einf.
+    *   **5**
 
-    *   mittel
 
-    *   geh.
+*    *        ![bgbl1_2015_j1834-1_0040.jpg](bgbl1_2015_j1834-1_0040.jpg)
+    *   Dachgeschoss ausgebaut
 
-    *   einf.
+    *
+    *
+    *
+    *
+    *
 
-    *   mittel
+*    *   1.11
 
-    *   geh.
+    *   freistehende Einfamilienhäuser
 
-    *   einf.
+    *   655
 
-    *   mittel
+    *   725
 
-    *   geh.
+    *   835
 
-    *   einf.
+    *   1005
 
-    *   mittel
+    *   1260
 
-    *   geh.
 
-    *   einf.
+*    *   1.111
 
-    *   mittel
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   geh.
+    *   688
+
+    *   761
+
+    *   877
+
+    *   1055
+
+    *   1323
 
 
 *    *   2.11
 
-    *   Alle Gebäude
+    *   Doppel- und Reihenendhäuser
 
-    *   750
+    *   615
 
-    *   760
+    *   685
 
-    *   770
+    *   785
 
-    *   760
+    *   945
 
-    *   800
-
-    *   870
-
-    *   810
-
-    *   850
-
-    *   920
-
-    *   860
-
-    *   900
-
-    *   980
-
-    *   920
-
-    *   970
-
-    *   1050
-
-    *   970
-
-    *   1010
-
-    *   1100
-
-
-*    *
-    *   Für Wohnungseigentum in Gebäuden, die wie Ein- und Zweifamilienhäuser
-        im Sinne des § 181 Absatz 2 BewG gestaltet sind, werden die
-        Gebäudenormalherstellungswerte der Ein- und Zweifamilienhäuser
-        zugrunde gelegt.
-        Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für
-        Wohnungseigentum in Mehrfamilienhäusern (Mietwohngrundstücke): BGF =
-        1,55 x Wohnfläche
-
-
-
-
-*    *   3.
-
-    *   Geschäftsgrundstücke, gemischt genutzte Grundstücke und sonstige
-        bebaute Grundstücke (EUR/m
-        2                      BGF)
-
-
-*    *   3.1
-
-    *   Typisierte Gesamtnutzungsdauer = 70 Jahre
-
-
-*    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
-
-
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
+    *   1180
 
 
 *    *   3.11
 
-    *   Gemischt genutzte Grundstücke/Gebäude (mit Wohn- und Gewerbefläche)
+    *   Reihenmittelhäuser
 
-    *   750
+    *   575
 
-    *   1090
+    *   640
 
-    *   1090
+    *   735
 
-    *   800
+    *   885
 
-    *   1170
+    *   1105
 
-    *   1170
 
-    *   860
+*    *        ![bgbl1_2015_j1834-1_0050.jpg](bgbl1_2015_j1834-1_0050.jpg)
+    *   Dachgeschoss nicht ausgebaut
 
-    *   1250
+    *
+    *
+    *
+    *
+    *
 
-    *   1640
+*    *   1.12
 
-    *   910
+    *   freistehende Einfamilienhäuser
 
-    *   1320
+    *   570
 
-    *   1730
+    *   635
 
-    *   980
+    *   730
 
-    *   1420
+    *   880
 
-    *   1860
+    *   1100
 
-    *   1020
 
-    *   1480
+*    *   1.121
 
-    *   1940
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   599
+
+    *   667
+
+    *   767
+
+    *   924
+
+    *   1155
+
+
+*    *   2.12
+
+    *   Doppel- und Reihenendhäuser
+
+    *   535
+
+    *   595
+
+    *   685
+
+    *   825
+
+    *   1035
 
 
 *    *   3.12
 
-    *   Hochschulen, Universitäten
+    *   Reihenmittelhäuser
 
-    *   1610
+    *   505
 
-    *   1610
+    *   560
 
-    *   1920
+    *   640
 
-    *   1730
+    *   775
 
-    *   1730
+    *   965
 
-    *   2070
 
-    *   1850
+*    *        ![bgbl1_2015_j1834-1_0060.jpg](bgbl1_2015_j1834-1_0060.jpg)
+    *   Flachdach oder flach geneigtes Dach
 
-    *   1850
+    *
+    *
+    *
+    *
+    *
 
-    *   2210
+*    *   1.13
 
-    *   1960
+    *   freistehende Einfamilienhäuser
 
-    *   1960
+    *   665
 
-    *   2340
+    *   740
 
-    *   2100
+    *   850
 
-    *   2100
+    *   1025
 
-    *   2510
+    *   1285
 
-    *   2190
 
-    *   2190
+*    *   1.131
 
-    *   2620
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   698
+
+    *   777
+
+    *   893
+
+    *   1076
+
+    *   1349
+
+
+*    *   2.13
+
+    *   Doppel- und Reihenendhäuser
+
+    *   625
+
+    *   695
+
+    *   800
+
+    *   965
+
+    *   1205
 
 
 *    *   3.13
 
-    *   Saalbauten, Veranstaltungszentren
+    *   Reihenmittelhäuser
 
-    *   1430
+    *   585
 
-    *   1760
+    *   650
 
-    *   1760
+    *   750
 
-    *   1430
-
-    *   1890
-
-    *   2380
-
-    *   1530
-
-    *   2020
-
-    *   2550
-
-    *   1630
-
-    *   2140
-
-    *   2690
-
-    *   1740
-
-    *   2290
-
-    *   2890
-
-    *   1820
-
-    *   2390
-
-    *   3020
-
-
-*    *   3.14
-
-    *   Kur- und Heilbäder
-
-    *   2820
-
-    *   2820
-
-    *   3130
-
-    *   3020
-
-    *   3020
-
-    *   3360
-
-    *   3240
-
-    *   3240
-
-    *   3600
-
-    *   3430
-
-    *   3430
-
-    *   3810
-
-    *   3680
-
-    *   3680
-
-    *   4090
-
-    *   3840
-
-    *   3840
-
-    *   4260
-
-
-
-
-*    *   3.2
-
-    *   Typisierte Gesamtnutzungsdauer = 60 Jahre
-
-
-*    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
-
-
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-
-*    *   3.211
-
-    *   Verwaltungsgebäude
-        (ein- bis zweigeschossig,
-        nicht unterkellert)
-
-    *   1060
-
-    *   1060
-
-    *   1060
-
-    *   1060
-
-    *   1240
-
-    *   1510
+    *   905
 
     *   1130
 
-    *   1320
-
-    *   1620
-
-    *   1200
-
-    *   1400
-
-    *   1710
-
-    *   1280
-
-    *   1500
-
-    *   1840
-
-    *   1340
-
-    *   1570
-
-    *   1910
 
 
-*    *   3.212
 
-    *   Verwaltungsgebäude
-        (zwei- bis fünfgeschossig)
-
-    *   1400
-
-    *   1400
-
-    *   1680
-
-    *   1270
-
-    *   1500
-
-    *   1810
-
-    *   1350
-
-    *   1610
-
-    *   1940
-
-    *   1430
-
-    *   1710
-
-    *   2050
-
-    *   1540
-
-    *   1830
-
-    *   2210
-
-    *   1600
-
-    *   1900
-
-    *   2290
+*    *
+    *   **Standardstufe**
 
 
-*    *   3.213
+*    *   **Erdgeschoss, nicht unterkellert**
 
-    *   Verwaltungsgebäude
-        (sechs- und mehrgeschossig)
+    *   **1**
 
-    *   1950
+    *   **2**
 
-    *   1950
+    *   **3**
 
-    *   1950
+    *   **4**
 
-    *   1950
+    *   **5**
 
-    *   1950
 
-    *   2440
+*    *        ![bgbl1_2015_j1834-1_0070.jpg](bgbl1_2015_j1834-1_0070.jpg)
+    *   Dachgeschoss ausgebaut
 
-    *   2090
+    *
+    *
+    *
+    *
+    *
 
-    *   2090
+*    *   1.21
 
-    *   2610
+    *   freistehende Einfamilienhäuser
 
-    *   2220
+    *   790
 
-    *   2220
+    *   875
 
-    *   2760
+    *   1005
 
-    *   2380
+    *   1215
 
-    *   2380
+    *   1515
 
-    *   2960
 
-    *   2470
+*    *   1.211
 
-    *   2470
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   3090
+    *   830
+
+    *   919
+
+    *   1055
+
+    *   1276
+
+    *   1591
+
+
+*    *   2.21
+
+    *   Doppel- und Reihenendhäuser
+
+    *   740
+
+    *   825
+
+    *   945
+
+    *   1140
+
+    *   1425
+
+
+*    *   3.21
+
+    *   Reihenmittelhäuser
+
+    *   695
+
+    *   770
+
+    *   885
+
+    *   1065
+
+    *   1335
+
+
+*    *        ![bgbl1_2015_j1834-1_0080.jpg](bgbl1_2015_j1834-1_0080.jpg)
+    *   Dachgeschoss nicht ausgebaut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.22
+
+    *   freistehende Einfamilienhäuser
+
+    *   585
+
+    *   650
+
+    *   745
+
+    *   900
+
+    *   1125
+
+
+*    *   1.221
+
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   614
+
+    *   683
+
+    *   782
+
+    *   945
+
+    *   1181
+
+
+*    *   2.22
+
+    *   Doppel- und Reihenendhäuser
+
+    *   550
+
+    *   610
+
+    *   700
+
+    *   845
+
+    *   1055
 
 
 *    *   3.22
 
-    *   Bankgebäude
+    *   Reihenmittelhäuser
 
-    *   2070
+    *   515
 
-    *   2070
+    *   570
 
-    *   2070
+    *   655
 
-    *   2070
+    *   790
 
-    *   2070
+    *   990
 
-    *   2380
 
-    *   2210
+*    *        ![bgbl1_2015_j1834-1_0090.jpg](bgbl1_2015_j1834-1_0090.jpg)
+    *   Flachdach oder flach geneigtes Dach
 
-    *   2210
+    *
+    *
+    *
+    *
+    *
 
-    *   2510
+*    *   1.23
 
-    *   2340
+    *   freistehende Einfamilienhäuser
 
-    *   2340
+    *   920
 
-    *   2670
+    *   1025
 
-    *   2510
+    *   1180
 
-    *   2510
+    *   1420
 
-    *   2890
+    *   1775
 
-    *   2620
 
-    *   2620
+*    *   1.231
 
-    *   3010
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   966
+
+    *   1076
+
+    *   1239
+
+    *   1491
+
+    *   1864
+
+
+*    *   2.23
+
+    *   Doppel- und Reihenendhäuser
+
+    *   865
+
+    *   965
+
+    *   1105
+
+    *   1335
+
+    *   1670
 
 
 *    *   3.23
 
-    *   Schulen, Berufsschulen
+    *   Reihenmittelhäuser
 
-    *   1150
+    *   810
 
-    *   1300
+    *   900
 
-    *   1410
-
-    *   1240
-
-    *   1400
-
-    *   1520
-
-    *   1320
-
-    *   1500
-
-    *   1630
-
-    *   1400
-
-    *   1590
-
-    *   1720
-
-    *   1500
-
-    *   1710
-
-    *   1850
-
-    *   1570
-
-    *   1780
-
-    *   1930
-
-
-*    *   3.24
-
-    *   Kindergärten
-
-    *   1210
-
-    *   1210
-
-    *   1210
-
-    *   1210
-
-    *   1310
-
-    *   1680
-
-    *   1300
-
-    *   1410
-
-    *   1790
-
-    *   1370
-
-    *   1490
-
-    *   1900
-
-    *   1470
-
-    *   1600
-
-    *   2040
-
-    *   1530
-
-    *   1670
-
-    *   2130
-
-
-*    *   3.25
-
-    *   Altenwohnheime
-
-    *   1020
-
-    *   1200
-
-    *   1320
-
-    *   1100
-
-    *   1290
-
-    *   1420
-
-    *   1170
-
-    *   1380
-
-    *   1520
+    *   1035
 
     *   1250
 
-    *   1460
+    *   1560
 
-    *   1610
 
-    *   1340
-
-    *   1570
-
-    *   1730
-
-    *   1390
-
-    *   1640
-
-    *   1800
-
-
-*    *   3.26
-
-    *   Personalwohnheime
-
-    *   890
-
-    *   1090
-
-    *   1200
-
-    *   950
-
-    *   1170
-
-    *   1290
-
-    *   1020
-
-    *   1260
-
-    *   1380
-
-    *   1080
-
-    *   1330
-
-    *   1470
-
-    *   1160
-
-    *   1430
-
-    *   1570
-
-    *   1210
-
-    *   1490
-
-    *   1640
-
-
-*    *   3.27
-
-    *   Hotels
-
-    *   980
-
-    *   1280
-
-    *   1650
-
-    *   1050
-
-    *   1370
-
-    *   1780
-
-    *   1120
-
-    *   1470
-
-    *   1900
-
-    *   1200
-
-    *   1550
-
-    *   2010
-
-    *   1280
-
-    *   1670
-
-    *   2160
-
-    *   1330
-
-    *   1740
-
-    *   2250
-
-
-*    *   3.28
-
-    *   Sporthallen
-
-    *   1080
-
-    *   1080
-
-    *   1080
-
-    *   1080
-
-    *   1300
-
-    *   1390
-
-    *   1150
-
-    *   1390
-
-    *   1480
-
-    *   1220
-
-    *   1470
-
-    *   1570
-
-    *   1300
-
-    *   1580
-
-    *   1690
-
-    *   1360
-
-    *   1650
-
-    *   1760
-
-
-
-
-*    *   3.3
-
-    *   Typisierte Gesamtnutzungsdauer = 50 Jahre
 
 
 *    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
+    *   **Standardstufe**
 
 
-*    *   GKL
+*    *   **Erd- und Obergeschoss, nicht unterkellert**
 
-    *   Ausstattungsstandard
+    *   **1**
 
-    *   einf.
+    *   **2**
 
-    *   mittel
+    *   **3**
 
-    *   geh.
+    *   **4**
 
-    *   einf.
+    *   **5**
 
-    *   mittel
 
-    *   geh.
+*    *        ![bgbl1_2015_j1834-1_0100.jpg](bgbl1_2015_j1834-1_0100.jpg)
+    *   Dachgeschoss ausgebaut
 
-    *   einf.
+    *
+    *
+    *
+    *
+    *
 
-    *   mittel
+*    *   1.31
 
-    *   geh.
+    *   freistehende Einfamilienhäuser
 
-    *   einf.
+    *   720
 
-    *   mittel
+    *   800
 
-    *   geh.
+    *   920
 
-    *   einf.
+    *   1105
 
-    *   mittel
+    *   1385
 
-    *   geh.
 
-    *   einf.
+*    *   1.311
 
-    *   mittel
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   geh.
+    *   756
+
+    *   840
+
+    *   966
+
+    *   1160
+
+    *   1454
+
+
+*    *   2.31
+
+    *   Doppel- und Reihenendhäuser
+
+    *   675
+
+    *   750
+
+    *   865
+
+    *   1040
+
+    *   1300
 
 
 *    *   3.31
 
-    *   Kaufhäuser, Warenhäuser
+    *   Reihenmittelhäuser
 
-    *   1070
+    *   635
 
-    *   1260
+    *   705
 
-    *   1670
+    *   810
 
-    *   1150
+    *   975
 
-    *   1350
+    *   1215
 
-    *   1800
 
-    *   1230
+*    *        ![bgbl1_2015_j1834-1_0110.jpg](bgbl1_2015_j1834-1_0110.jpg)
+    *   Dachgeschoss nicht ausgebaut
 
-    *   1440
+    *
+    *
+    *
+    *
+    *
 
-    *   1920
+*    *   1.32
 
-    *   1300
+    *   freistehende Einfamilienhäuser
 
-    *   1530
+    *   620
 
-    *   2030
+    *   690
 
-    *   1400
+    *   790
 
-    *   1640
+    *   955
 
-    *   2180
+    *   1190
 
-    *   1450
 
-    *   1710
+*    *   1.321
 
-    *   2270
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   651
+
+    *   725
+
+    *   830
+
+    *   1003
+
+    *   1250
+
+
+*    *   2.32
+
+    *   Doppel- und Reihenendhäuser
+
+    *   580
+
+    *   645
+
+    *   745
+
+    *   895
+
+    *   1120
 
 
 *    *   3.32
 
-    *   Ausstellungsgebäude
+    *   Reihenmittelhäuser
 
-    *   1630
+    *   545
 
-    *   1630
+    *   605
 
-    *   1630
-
-    *   1630
-
-    *   1630
-
-    *   1630
-
-    *   1730
-
-    *   1730
-
-    *   1730
-
-    *   1840
-
-    *   1840
-
-    *   2310
-
-    *   1970
-
-    *   1970
-
-    *   2480
-
-    *   2050
-
-    *   2050
-
-    *   2580
-
-
-*    *   3.33
-
-    *   Krankenhäuser
-
-    *   1610
-
-    *   2060
-
-    *   2530
-
-    *   1730
-
-    *   2210
-
-    *   2720
-
-    *   1850
-
-    *   2360
-
-    *   2910
-
-    *   1950
-
-    *   2500
-
-    *   3080
-
-    *   2100
-
-    *   2680
-
-    *   3310
-
-    *   2180
-
-    *   2800
-
-    *   3450
-
-
-*    *   3.34
-
-    *   Vereinsheime, Jugendheime,
-        Tagesstätten
-
-    *   1140
-
-    *   1140
-
-    *   1140
-
-    *   1140
-
-    *   1260
-
-    *   1470
-
-    *   1220
-
-    *   1350
-
-    *   1570
-
-    *   1300
-
-    *   1430
-
-    *   1670
-
-    *   1390
-
-    *   1530
-
-    *   1790
-
-    *   1450
-
-    *   1600
-
-    *   1860
-
-
-*    *   3.351
-
-    *   Parkhäuser (offene Ausführung, Parkpaletten), Tankstellen
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   590
-
-    *   590
-
-    *   590
-
-    *   620
-
-    *   620
-
-    *   620
-
-    *   670
-
-    *   670
-
-    *   670
-
-    *   700
-
-    *   700
-
-    *   700
-
-
-*    *   3.352
-
-    *   Parkhäuser
-        (geschlossene Ausführung)
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   730
-
-    *   730
-
-    *   730
-
-    *   770
-
-    *   770
-
-    *   770
-
-    *   830
-
-    *   830
-
-    *   830
-
-    *   870
-
-    *   870
-
-    *   870
-
-
-*    *   3.353
-
-    *   Tiefgaragen\*)
-
-    *   600
-
-    *   600
-
-    *   600
-
-    *   600
-
-    *   780
-
-    *   780
-
-    *   650
+    *   695
 
     *   840
-
-    *   840
-
-    *   680
-
-    *   890
-
-    *   890
-
-    *   730
-
-    *   950
-
-    *   950
-
-    *   770
-
-    *   990
-
-    *   990
-
-
-*    *   3.36
-
-    *   Funktionsgebäude für Sport-
-        anlagen (z. B. Sanitär- und
-        Umkleideräume)
-
-    *   900
-
-    *   900
-
-    *   900
-
-    *   900
-
-    *   1140
-
-    *   1560
-
-    *   960
-
-    *   1210
-
-    *   1670
-
-    *   1020
-
-    *   1290
-
-    *   1770
-
-    *   1090
-
-    *   1380
-
-    *   1900
-
-    *   1140
-
-    *   1430
-
-    *   1980
-
-
-*    *   3.37
-
-    *   Hallenbäder
-
-    *   1550
-
-    *   1550
-
-    *   1550
-
-    *   1550
-
-    *   2050
-
-    *   2260
-
-    *   1660
-
-    *   2190
-
-    *   2420
-
-    *   1760
-
-    *   2320
-
-    *   2570
-
-    *   1890
-
-    *   2490
-
-    *   2750
-
-    *   1960
-
-    *   2600
-
-    *   2870
-
-
-*    *   3.381
-
-    *   Industriegebäude, Werkstätten ohne Büro- und Sozialtrakt
-
-    *   510
-
-    *   510
-
-    *   510
-
-    *   510
-
-    *   710
-
-    *   830
-
-    *   550
-
-    *   750
-
-    *   880
-
-    *   590
-
-    *   800
-
-    *   940
-
-    *   630
-
-    *   860
-
-    *   1020
-
-    *   680
-
-    *   890
 
     *   1050
 
 
-*    *   3.382
+*    *        ![bgbl1_2015_j1834-1_0120.jpg](bgbl1_2015_j1834-1_0120.jpg)
+    *   Flachdach oder flach geneigtes Dach
 
-    *   Industriegebäude, Werkstätten mit Büro- und Sozialtrakt
+    *
+    *
+    *
+    *
+    *
 
-    *   740
+*    *   1.33
 
-    *   740
+    *   freistehende Einfamilienhäuser
 
-    *   740
+    *   785
 
-    *   740
-
-    *   960
-
-    *   1100
-
-    *   780
-
-    *   1020
-
-    *   1160
-
-    *   830
-
-    *   1080
-
-    *   1250
-
-    *   880
-
-    *   1160
-
-    *   1330
-
-    *   940
-
-    *   1220
-
-    *   1410
-
-
-*    *   3.391
-
-    *   Lagergebäude (Kaltlager)
-
-    *   440
-
-    *   440
-
-    *   440
-
-    *   440
-
-    *   820
-
-    *   820
-
-    *   480
-
-    *   900
-
-    *   900
-
-    *   510
-
-    *   930
-
-    *   930
-
-    *   550
-
-    *   1010
-
-    *   1010
-
-    *   590
-
-    *   1060
-
-    *   1060
-
-
-*    *   3.392
-
-    *   Lagergebäude (Warmlager)
-
-    *   570
-
-    *   570
-
-    *   570
-
-    *   570
-
-    *   960
-
-    *   960
-
-    *   610
-
-    *   1040
-
-    *   1040
-
-    *   650
-
-    *   1090
-
-    *   1090
-
-    *   680
-
-    *   1180
-
-    *   1180
-
-    *   740
-
-    *   1220
-
-    *   1220
-
-
-*    *   3.393
-
-    *   Lagergebäude (Warmlager
-        mit Büro- und Sozialtrakt)
-
-    *   910
-
-    *   910
-
-    *   910
-
-    *   910
-
-    *   1230
-
-    *   1230
-
-    *   950
-
-    *   1320
-
-    *   1320
-
-    *   1030
-
-    *   1400
-
-    *   1400
-
-    *   1080
-
-    *   1510
-
-    *   1510
-
-    *   1160
-
-    *   1600
-
-    *   1600
-
-
-*    *
-    *   \*) Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für
-        Tiefgaragen: BGF = tatsächliche Stellplatzfläche (Länge x Breite) x
-        1,55
-
-
-
-
-*    *   3.4
-
-    *   Typisierte Gesamtnutzungsdauer = 40 Jahre
-
-
-*    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
-
-
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-
-*    *   3.41
-
-    *   Einkaufsmärkte, Großmärkte,
-        Discountermärkte, Läden,
-        Apotheken, Boutiquen u. Ä.
-
-    *   710
-
-    *   710
-
-    *   710
-
-    *   710
-
-    *   950
-
-    *   950
-
-    *   760
-
-    *   1020
-
-    *   1020
-
-    *   800
-
-    *   1090
-
-    *   1220
-
-    *   860
-
-    *   1170
-
-    *   1310
-
-    *   900
-
-    *   1210
-
-    *   1370
-
-
-*    *   3.42
-
-    *   Tennishallen
-
-    *   580
-
-    *   580
-
-    *   580
-
-    *   580
-
-    *   680
-
-    *   680
-
-    *   620
-
-    *   730
-
-    *   730
-
-    *   650
-
-    *   770
-
-    *   890
-
-    *   700
-
-    *   830
-
-    *   950
-
-    *   730
-
-    *   860
+    *   870
 
     *   1000
 
+    *   1205
 
-*    *   3.43
-
-    *   Reitsporthallen mit Stallungen, andere Stallungen, ehemalige
-        landwirtschaftliche Mehrzweckhallen, Scheunen u. Ä.
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   240
-
-    *   290
-
-    *   240
-
-    *   260
-
-    *   310
-
-    *   250
-
-    *   270
-
-    *   330
+    *   1510
 
 
+*    *   1.331
+
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   824
+
+    *   914
+
+    *   1050
+
+    *   1265
+
+    *   1586
 
 
-*    *   4.
+*    *   2.33
 
-    *   Kleingaragen und Carports (EUR/m
-        2                      BGF)
+    *   Doppel- und Reihenendhäuser
+
+    *   735
+
+    *   820
+
+    *   940
+
+    *   1135
+
+    *   1415
+
+
+*    *   3.33
+
+    *   Reihenmittelhäuser
+
+    *   690
+
+    *   765
+
+    *   880
+
+    *   1060
+
+    *   1325
+
+
+
+
+
+*    *   **4**
+
+    *   Wohnungseigentum und vergleichbares Teileigentum in
+        Mehrfamilienhäusern
+        **(ohne Tiefgaragenplatz)/Mehrfamilienhäuser**
+        Für Wohnungseigentum in Gebäuden, die wie Ein- und Zweifamilienhäuser
+        im Sinne des § 181 Absatz 2 des Bewertungsgesetzes gestaltet sind,
+        werden die Regelherstellungskosten der Ein- und Zweifamilienhäuser
+        zugrunde gelegt.
+        Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für
+        Wohnungseigentum in Mehrfamilienhäusern: BGF = 1,55 x Wohnfläche
+
+
+
 
 
 *    *
-    *   Typisierte Gesamtnutzungsdauer = 50 Jahre
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   4.1
+
+    *   Mehrfamilienhäuser mit bis zu 6 WE
+
+    *   650
+
+    *   720
+
+    *   825
+
+    *   985
+
+    *   1190
+
+
+*    *   4.2
+
+    *   Mehrfamilienhäuser mit 7 bis 20 WE
+
+    *   600
+
+    *   665
+
+    *   765
+
+    *   915
+
+    *   1105
+
+
+*    *   4.3
+
+    *   Mehrfamilienhäuser mit mehr als 20 WE
+
+    *   590
+
+    *   655
+
+    *   755
+
+    *   900
+
+    *   1090
+
+
+
+
+*    *   **5-18**
+
+    *   **Gemischt genutzte Grundstücke, Geschäftsgrundstücke und sonstige
+        bebaute Grundstücke**
+
+
 
 
 *    *
-    *   Baujahr
+    *   **Standardstufe**
 
-    *   alle
 
-    *
+*    *   **1**
 
-*    *   GKL
+    *   **2**
 
-    *   Ausstattungsstandard
+    *   **3**
 
-    *   alle
+    *   **4**
 
-    *
+    *   **5**
 
-*    *   4.11
 
-    *   Kleingaragen, freistehend
+*    *   5.1
 
-    *   320
+    *   Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)
 
-    *
+    *   605
 
-*    *   4.12
+    *   675
+
+    *   860
+
+    *   1085
+
+    *   1375
+
+
+*    *   5.2
+
+    *[^f791494_03_BJNR010350934BJNE027803123]
+   Banken und ähnliche Geschäftshäuser mit Wohnanteil
+
+    *   625
+
+    *   695
+
+    *   890
+
+    *   1375
+
+    *   1720
+
+
+*    *   5.3
+
+    *   Banken und ähnliche Geschäftshäuser ohne Wohnanteil
+
+    *   655
+
+    *   730
+
+    *   930
+
+    *   1520
+
+    *   1900
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   6.1
+
+    *   Bürogebäude/Verwaltungsgebäude
+
+    *   735
+
+    *   815
+
+    *   1040
+
+    *   1685
+
+    *   1900
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   7.1
+
+    *   Gemeindezentren/Vereinsheime
+
+    *   795
+
+    *   885
+
+    *   1130
+
+    *   1425
+
+    *   1905
+
+
+*    *   7.2
+
+    *   Saalbauten/Veranstaltungsgebäude
+
+    *   955
+
+    *   1060
+
+    *   1355
+
+    *   1595
+
+    *   2085
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   8.1
+
+    *   Kindergärten
+
+    *   915
+
+    *   1020
+
+    *   1300
+
+    *   1495
+
+    *   1900
+
+
+*    *   8.2
+
+    *   Allgemeinbildende Schulen, Berufsbildende Schulen, Hochschulen
+
+    *   1020
+
+    *   1135
+
+    *   1450
+
+    *   1670
+
+    *   2120
+
+
+*    *   8.3
+
+    *   Sonderschulen
+
+    *   1115
+
+    *   1240
+
+    *   1585
+
+    *   1820
+
+    *   2315
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   9.1
+
+    *   Wohnheime/Internate
+
+    *   705
+
+    *   785
+
+    *   1000
+
+    *   1225
+
+    *   1425
+
+
+*    *   9.2
+
+    *   Alten-/Pflegeheime
+
+    *   825
+
+    *   915
+
+    *   1170
+
+    *   1435
+
+    *   1665
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   10.1
+
+    *   Krankenhäuser/Kliniken
+
+    *   1210
+
+    *   1345
+
+    *   1720
+
+    *   2080
+
+    *   2765
+
+
+*    *   10.2
+
+    *   Tageskliniken/Ärztehäuser
+
+    *   1115
+
+    *   1240
+
+    *   1585
+
+    *   1945
+
+    *   2255
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   11.1
+
+    *   Beherbergungsstätten/Hotels/Verpflegungseinrichtungen
+
+    *   975
+
+    *   1085
+
+    *   1385
+
+    *   1805
+
+    *   2595
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   12.1
+
+    *   Sporthallen (Einfeldhallen)
+
+    *   930
+
+    *   1035
+
+    *   1320
+
+    *   1670
+
+    *   1955
+
+
+*    *   12.2
+
+    *   Sporthallen (Dreifeldhallen/Mehrzweckhallen)
+
+    *   1050
+
+    *   1165
+
+    *   1490
+
+    *   1775
+
+    *   2070
+
+
+*    *   12.3
+
+    *   Tennishallen
+
+    *   710
+
+    *   790
+
+    *   1010
+
+    *   1190
+
+    *   1555
+
+
+*    *   12.4
+
+    *   Freizeitbäder/Kur- und Heilbäder
+
+    *   1725
+
+    *   1920
+
+    *   2450
+
+    *   2985
+
+    *   3840
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   13.1
+
+    *   Verbrauchermärkte
+
+    *   510
+
+    *   565
+
+    *   720
+
+    *   870
+
+    *   1020
+
+
+*    *   13.2
+
+    *   Kauf-/Warenhäuser
+
+    *   930
+
+    *   1035
+
+    *   1320
+
+    *   1585
+
+    *   1850
+
+
+*    *   13.3
+
+    *   Autohäuser ohne Werkstatt
+
+    *   665
+
+    *   735
+
+    *   940
+
+    *   1240
+
+    *   1480
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   14.1
+
+    *[^f791494_04_BJNR010350934BJNE027803123]
+   Einzelgaragen/Mehrfachgaragen
+
+    *   245
+
+    *   485
+
+    *   780
+
+
+*    *   14.2
+
+    *[^f791494_05_BJNR010350934BJNE027803123]
+   Hochgaragen
+
+    *   480
+
+    *   655
+
+    *   780
+
+
+*    *   14.3
+
+    *   Tiefgaragen
+        4
+
+    *   560
+
+    *   715
+
+    *   850
+
+
+*    *   14.4
+
+    *   Nutzfahrzeuggaragen
+
+    *   530
+
+    *   680
+
+    *   810
+
+
+*    *   14.5
 
     *   Carports
 
     *   190
 
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   15.1
+
+    *   Betriebs-/Werkstätten, eingeschossig
+
+    *   685
+
+    *   760
+
+    *   970
+
+    *   1165
+
+    *   1430
+
+
+*    *   15.2
+
+    *   Betriebs-/Werkstätten, mehrgeschossig ohne Hallenanteil
+
+    *   640
+
+    *   715
+
+    *   910
+
+    *   1090
+
+    *   1340
+
+
+*    *   15.3
+
+    *   Betriebs-/Werkstätten, mehrgeschossig, hoher Hallenanteil
+
+    *   435
+
+    *   485
+
+    *   620
+
+    *   860
+
+    *   1070
+
+
+*    *   15.4
+
+    *   Industrielle Produktionsgebäude, Massivbauweise
+
+    *   670
+
+    *   745
+
+    *   950
+
+    *   1155
+
+    *   1440
+
+
+*    *   15.5
+
+    *   Industrielle Produktionsgebäude, überwiegend Skelettbauweise
+
+    *   495
+
+    *   550
+
+    *   700
+
+    *   965
+
+    *   1260
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   16.1
+
+    *   Lagergebäude ohne Mischnutzung, Kaltlager
+
+    *   245
+
+    *   275
+
+    *   350
+
+    *   490
+
+    *   640
+
+
+*    *   16.2
+
+    *[^f791494_06_BJNR010350934BJNE027803123]
+   Lagergebäude mit bis zu 25 % Mischnutzung
+
+    *   390
+
+    *   430
+
+    *   550
+
+    *   690
+
+    *   880
+
+
+*    *   16.3
+
+    *   Lagergebäude mit mehr als 25 % Mischnutzung
+        5
+
+    *   625
+
+    *   695
+
+    *   890
+
+    *   1095
+
+    *   1340
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   17.1
+
+    *   Museen
+
+    *   1325
+
+    *   1475
+
+    *   1880
+
+    *   2295
+
+    *   2670
+
+
+*    *   17.2
+
+    *   Theater
+
+    *   1460
+
+    *   1620
+
+    *   2070
+
+    *   2625
+
+    *   3680
+
+
+*    *   17.3
+
+    *   Sakralbauten
+
+    *   1185
+
+    *   1315
+
+    *   1510
+
+    *   2060
+
+    *   2335
+
+
+*    *   17.4
+
+    *   Friedhofsgebäude
+
+    *   1035
+
+    *   1150
+
+    *   1320
+
+    *   1490
+
+    *   1720
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   18.1
+
+    *   Reithallen
+
+    *   235
+
+    *   260
+
+    *   310
+
+
+*    *   18.2
+
+    *   ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen, u. Ä.
+
+    *   245
+
+    *   270
+
+    *   350
+
+
+
+
+
+*    *   **19**
+
+    *   **Teileigentum**
+        Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den
+        vorstehenden Gebäudearten zuzuordnen.
+
+
+
+
+*    *   **20**
+
+    *   **Auffangklausel**
+        Regelherstellungskosten für nicht aufgeführte Gebäudearten sind aus
+        den Regelherstellungskosten vergleichbarer Gebäudearten abzuleiten.
+
+
+
+
+**III. Beschreibung der Gebäudestandards**
+
+Die Beschreibung der Gebäudestandards ist beispielhaft und dient der
+Orientierung. Sie kann nicht alle in der Praxis auftretenden
+Standardmerkmale aufführen. Es müssen nicht alle aufgeführten Merkmale
+zutreffen. Die in der Tabelle angegebenen Jahreszahlen beziehen sich
+auf die im jeweiligen Zeitraum gültigen Wärmeschutzanforderungen; in
+Bezug auf das konkrete Bewertungsobjekt ist zu prüfen, ob von diesen
+Wärmeschutzanforderungen abgewichen wird. Die Beschreibung der
+Gebäudestandards basiert auf dem Bezugsjahr der
+Normalherstellungskosten (2010).
+
+*    *   **1-5.1**
+
+    *   * **1.01-3.33**
+
+    *   **Ein- und Zweifamilienhäuser**
+
+
+*    *
+    *   * **4.1-5.1**
+
+    *   Wohnungseigentum und vergleichbares Teileigentum in
+        Mehrfamilienhäusern (ohne Tiefgaragenplatz)/Mehrfamilienhäuser sowie
+        gemischt genutzte Grundstücke
+        **(Wohnhäuser mit Mischnutzung)**
+
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+    *   **Wägungsanteil**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   **nicht zeitgemäß**
+
+    *   **zeitgemäß**
+
+
+*    *   **einfachst**
+
+    *   **einfach**
+
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   Holzfachwerk, Ziegelmauerwerk;
+        Fugenglattstrich, Putz, Verkleidung mit Faserzementplatten,
+        Bitumenschindeln oder einfachen Kunststoffplatten; kein oder deutlich
+        nicht zeitgemäßer Wärmeschutz (vor ca. 1980)
+
+    *   ein-/zweischaliges Mauerwerk, z. B. Gitterziegel oder Hohlblocksteine;
+        verputzt und gestrichen oder Holzverkleidung;
+        nicht zeitgemäßer Wärmeschutz (vor ca. 1995)
+
+    *   ein-/zweischaliges Mauerwerk, z. B. aus Leichtziegeln,
+        Kalksandsteinen, Gasbetonsteinen;
+        Edelputz;
+        Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995)
+
+    *   Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B.
+        Naturschiefer);
+        Wärmedämmung (nach ca. 2005)
+
+    *   aufwendig gestaltete Fassaden mit konstruktiver Gliederung
+        (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile,
+        Natursteinfassade, Elemente aus Kupfer-/
+        Eloxalblech, mehrgeschossige Glasfassaden; hochwertigste Dämmung (z.
+        B. Passivhausstandard)
+
+    *   23
+
+
+*    *   **Dach**
+
+    *   Dachpappe, Faserzementplatten/Wellplatten;
+        keine bis geringe Dachdämmung
+
+    *   einfache Betondachsteine oder Tondachziegel, Bitumenschindeln;
+        nicht zeitgemäße Dachdämmung (vor ca. 1995)
+
+    *   Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel,
+        Folienabdichtung;
+        Dachdämmung (nach ca. 1995);
+        Rinnen und Fallrohre aus Zinkblech;
+
+    *   glasierte Tondachziegel, Flachdachausbildung tlw. als Dachterrassen;
+        Konstruktion in Brettschichtholz, schweres Massivflachdach; besondere
+        Dachformen, z. B. Mansarden-, Walmdach; Aufsparrendämmung,
+        überdurchschnittliche Dämmung (nach ca. 2005)
+
+    *   hochwertige Eindeckung, z. B. aus Schiefer oder Kupfer, Dachbegrünung,
+        befahrbares Flachdach; hochwertigste Dämmung (z. B.
+        Passivhausstandard); Rinnen und Fallrohre aus Kupfer
+        *                       aufwendig gegliederte Dachlandschaft,
+        sichtbare Bogendach-konstruktionen
+
+    *   15
+
+
+*    *   **Fenster und Außentüren**
+
+    *   Einfachverglasung;
+        einfache Holztüren
+
+    *   Zweifachverglasung (vor ca. 1995);
+        Haustür mit nicht zeitgemäßem Wärmeschutz (vor ca. 1995)
+
+    *   Zweifachverglasung (nach ca. 1995), Rollläden (manuell); Haustür mit
+        zeitgemäßem Wärmeschutz (nach ca. 1995)
+
+    *   Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, Rollläden
+        (elektr.);
+        höherwertige Türanlage z. B. mit Seitenteil, besonderer Einbruchschutz
+
+    *   große, feststehende Fensterflächen, Spezialverglasung (Schall- und
+        Sonnenschutz);
+        Außentüren in hochwertigen Materialien
+
+    *   11
+
+
+*    *   **Innenwände und -türen**
+
+    *   Fachwerkwände, einfache Putze/Lehmputze, einfache Kalkanstriche;
+        Füllungstüren, gestrichen, mit einfachen Beschlägen ohne Dichtungen
+
+    *   massive tragende Innenwände, nicht tragende Wände in Leichtbauweise
+        (z. B. Holzständerwände mit Gipskarton), Gipsdielen;
+        leichte Türen, Stahlzargen
+
+    *   nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial
+        gefüllte Ständerkonstruktionen;
+        schwere Türen
+        *                       Holzzargen
+
+    *   Sichtmauerwerk; Massivholztüren, Schiebetürelemente, Glastüren,
+        strukturierte Türblätter
+        *                       Wandvertäfelungen (Holzpaneele)
+
+    *   gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder
+        geschwungene Wandpartien); Brandschutzverkleidung; raumhohe aufwendige
+        Türelemente
+        *                       Vertäfelungen (Edelholz, Metall), Akustikputz
+
+    *   11
+
+
+*    *   **Deckenkonstruktion und Treppen**
+
+    *   Holzbalkendecken ohne Füllung, Spalierputz;
+        Weichholztreppen in einfacher Art und Ausführung;
+        kein Trittschallschutz
+        *                       Weichholztreppen in einfacher Art und
+        Ausführung;
+        kein Trittschallschutz
+
+    *   Holzbalkendecken mit Füllung, Kappendecken;
+        Stahl- oder Hartholztreppen in einfacher Art und Ausführung
+        *                       Stahl- oder Hartholztreppen in einfacher Art
+        und Ausführung
+
+    *   *                       Beton- und Holzbalkendecken mit Tritt- und
+        Luftschallschutz (z. B. schwimmender Estrich); geradläufige Treppen
+        aus Stahlbeton oder Stahl, Harfentreppe, Trittschallschutz
+        *                       Betondecken mit Tritt- und Luftschallschutz
+        (z. B. schwimmender Estrich); einfacher Putz
+
+    *   *                       Decken mit größerer Spannweite,
+        Deckenverkleidung (Holzpaneele/Kassetten);
+        gewendelte Treppen aus Stahlbeton oder Stahl, Hartholztreppenanlage in
+        besserer Art und Ausführung
+        *                       zusätzlich Deckenverkleidung
+
+    *   Deckenvertäfelungen (Edelholz, Metall)
+        *                       Decken mit großen Spannweiten, gegliedert;
+        breite Stahlbeton-, Metall- oder Hartholztreppenanlage mit
+        hochwertigem Geländer
+
+    *   11
+
+
+*    *   **Fußböden**
+
+    *   ohne Belag
+
+    *   Linoleum-, Teppich-, Laminat- und PVC-Böden einfacher Art und
+        Ausführung
+
+    *   Linoleum-, Teppich-, Laminat- und PVC-Böden besserer Art und
+        Ausführung, Fliesen, Kunststeinplatten
+
+    *   Natursteinplatten, Fertigparkett, hochwertige Fliesen, Terrazzobelag,
+        hochwertige Massivholzböden auf gedämmter Unterkonstruktion
+
+    *   hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige
+        Edelholzböden auf gedämmter Unterkonstruktion
+
+    *   5
+
+
+*    *   **Sanitäreinrichtungen**
+
+    *   einfaches Bad mit Stand-WC;
+        Installation auf Putz; Ölfarbenanstrich, einfache PVC-Bodenbeläge
+
+    *   1 Bad mit WC, Dusche oder Badewanne;
+        einfache Wand- und Bodenfliesen, teilweise gefliest
+
+    *   Wand- und Bodenfliesen, raumhoch gefliest; Dusche und Badewanne
+        *                       1 Bad mit WC, Gäste-WC
+        *                       1 Bad mit WC je Wohneinheit
+
+    *   1–2 Bäder (*                       je Wohneinheit) mit tlw. zwei
+        Waschbecken, tlw. Bidet/Urinal, Gäste-WC, bodengleiche Dusche; Wand-
+        und Bodenfliesen;
+        jeweils in gehobener Qualität
+
+    *   hochwertige Wand- und Bodenplatten (oberflächenstrukturiert, Einzel-
+        und Flächendekors)
+        *                       mehrere großzügige, hochwertige Bäder, Gäste-
+        WC;*                       2 und mehr Bäder je Wohneinheit
+
+    *   9
+
+
+*    *   **Heizung**
+
+    *   Einzelöfen, Schwerkraftheizung
+
+    *   Fern- oder Zentralheizung, einfache Warmluftheizung, einzelne
+        Gasaußenwandthermen, Nachtstromspeicher-, Fußbodenheizung (vor ca.
+        1995)
+
+    *   elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur-
+        oder Brennwertkessel
+
+    *   Fußbodenheizung, Solarkollektoren für Warmwassererzeugung
+        *                       zusätzlicher Kaminanschluss
+
+    *   Solarkollektoren für Warmwassererzeugung und Heizung,
+        Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme
+        *                       aufwendige zusätzliche Kaminanlage
+
+    *   9
+
+
+*    *   **Sonstige technische Ausstattung**
+
+    *   sehr wenige Steckdosen, Schalter und Sicherungen, kein
+        Fehlerstromschutzschalter (FI-Schalter), Leitungen teilweise auf Putz
+
+    *   wenige Steckdosen, Schalter und Sicherungen
+
+    *   zeitgemäße Anzahl an Steckdosen und Lichtauslässen, Zählerschrank (ab
+        ca. 1985) mit Unterverteilung und Kippsicherungen
+
+    *   zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen,
+        dezentrale Lüftung mit Wärmetauscher, mehrere LAN- und
+        Fernsehanschlüsse
+        *                       Personenaufzugsanlagen
+
+    *   Video- und zentrale Alarmanlage, zentrale Lüftung mit Wärmetauscher,
+        Klimaanlage, Bussystem
+        *                       aufwendige Personenaufzugsanlagen
+
+    *   6
+
+
+
+
+*    *   **5.2-17.4**
+
+    *   * **5.2-6.1**
+
+    *   **Banken und ähnliche Geschäftshäuser,
+        Bürogebäude/Verwaltungsgebäude**
+
+
+*    *
+    *   * **7.1-8.3**
+
+    *   **Gemeindezentren/Vereinsheime, Saalbauten/Veranstaltungsgebäude,
+        Kindergärten, Schulen**
+
+
+*    *
+    *   * **9.1-11.1**
+
+    *   **Wohnheime, Alten-/Pflegeheime, Krankenhäuser, Tageskliniken,
+        Beherbergungsstätten, Hotels, Verpflegungseinrichtungen**
+
+
+*    *
+    *   * **12.1-12.4**
+
+    *   **Sporthallen, Tennishallen, Freizeitbäder/Kur- und Heilbäder**
+
+
+*    *
+    *   * **13.1-13.3**
+
+    *   **Verbrauchermärkte, Kauf-/Warenhäuser, Autohäuser**
+
+
+*    *
+    *   * **15.1-16.3**
+
+    *   **Betriebs-/Werkstätten, Produktionsgebäude, Lagergebäude**
+
+
+*    *
+    *   * **17.1-17.4**
+
+    *   **Museen, Theater, Sakralbauten, Friedhofsgebäude**
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *
+    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *
+    *   **nicht zeitgemäß**
+
+    *   **zeitgemäß**
+
+
+*    *
+    *   **einfachst**
+
+    *   **einfach**
+
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   Mauerwerk mit Putz oder mit Fugenglattstrich und Anstrich; einfache
+        Wände, Holz-, Blech-, Faserzementbekleidung,
+        Bitumenschindeln oder einfache Kunststoffplatten; kein oder deutlich
+        nicht zeitgemäßer Wärmeschutz (vor ca. 1980)
+
+    *   ein-/zweischaliges Mauerwerk, z. B. Gitterziegel oder Hohlblocksteine;
+        verputzt und gestrichen oder Holzverkleidung; einfache Metall-
+        Sandwichelemente; nicht zeitgemäßer Wärmeschutz (vor ca. 1995)
+
+    *   Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995);
+        ein-/zweischalige Konstruktion, z. B. Mauerwerk aus Leichtziegeln,
+        Kalksandsteinen, Gasbetonsteinen;
+        Edelputz; gedämmte Metall-Sandwichelemente
+
+    *   Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B.
+        Naturschiefer);
+        Wärmedämmung (nach ca. 2005)
+
+    *   Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus
+        Kupfer-/Eloxalblech, mehrgeschossige Glasfassaden; stark
+        überdurchschnittliche Dämmung
+        *****                       aufwendig gestaltete Fassaden mit
+        konstruktiver Gliederung (Säulenstellungen, Erker etc.)
+        *                       Vorhangfassade aus Glas
+
+
+*    *   Konstruktion* ****
+
+    *   Holzkonstruktion in nicht zeitgemäßer statischer Ausführung
+
+    *   Mauerwerk, Stahl- oder Stahlbetonkonstruktion in nicht zeitgemäßer
+        statischer Ausführung
+
+    *   Stahl- und Betonfertigteile
+
+    *   überwiegend Betonfertigteile; große stützenfreie Spannweiten; hohe
+        Deckenhöhen; hohe Belastbarkeit der Decken und Böden
+
+    *   größere stützenfreie Spannweiten; hohe Deckenhöhen; höhere
+        Belastbarkeit der Decken und Böden
+
+
+*    *   **Dach**
+
+    *   Dachpappe, Faserzementplatten/Wellplatten, Blecheindeckung;
+        kein Unterdach; keine bis geringe Dachdämmung
+
+    *   einfache Betondachsteine oder Tondachziegel, Bitumenschindeln;
+        nicht zeitgemäße Dachdämmung (vor ca. 1995)
+
+    *   Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel,
+        Folienabdichtung; Dachdämmung (nach ca. 1995); Rinnen und Fallrohre
+        aus Zinkblech
+
+    *   besondere Dachformen; überdurchschnittliche Dämmung (nach ca. 2005)
+        *****                       glasierte Tondachziegel
+        **                       schweres Massivflachdach
+        *                       Biberschwänze
+
+    *   hochwertige Eindeckung z. B. aus Schiefer oder Kupfer; Dachbegrünung;
+        aufwendig gegliederte Dachlandschaft
+        ***                       befahrbares Flachdach
+        **                       stark überdurchschnittliche Dämmung
+        ****                       hochwertigste Dämmung
+
+
+*    *   **Fenster- und Außentüren**
+
+    *   Einfachverglasung;
+        einfache Holztüren
+
+    *   Isolierverglasung, Zweifachverglasung (vor ca. 1995);
+        Eingangstüren mit nicht zeitgemäßem Wärmeschutz (vor ca. 1995)
+
+    *   Zweifachverglasung (nach ca. 1995)
+        *                       nur Wohnheime, Altenheime, Pflegeheime,
+        Krankenhäuser und Tageskliniken: Automatik-
+        Eingangstüren
+        *                       kunstvoll gestaltetes farbiges Fensterglas,
+        Ornamentglas
+
+    *   Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen
+        *****                       höherwertige Türanlagen
+        *                       nur Beherbergungsstätten und
+        Verpflegungseinrichtungen: Automatik-Eingangstüren
+        *                       besonders große kunstvoll gestaltete farbige
+        Fensterflächen
+
+    *   große, feststehende Fensterflächen, Spezialverglasung (Schall- und
+        Sonnenschutz)
+        ****                       Außentüren in hochwertigen Materialien
+        *                       Automatiktüren
+        *                       Automatik-Eingangstüren
+        *                       Bleiverglasung mit Schutzglas, farbige
+        Maßfenster
+
+
+*    *   **Innenwände und -türen**
+
+    *   Fachwerkwände, einfache Putze/Lehmputze, einfache Kalkanstriche;
+        Füllungstüren, gestrichen, mit einfachen Beschlägen ohne Dichtungen
+
+    *   massive tragende Innenwände, nicht tragende Wände in Leichtbauweise
+        (z. B. Holzständerwände mit Gipskarton), Gipsdielen;
+        leichte Türen, Kunststoff-/ Holztürblätter, Stahlzargen
+
+    *   ****                       nicht tragende Innenwände in massiver
+        Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen
+        ***                       schwere Türen
+        *                       nicht tragende Innenwände in massiver
+        Ausführung; schwere Türen
+        *                       schwere und große Türen
+        *                       nur Wohnheime, Altenheime, Pflegeheime,
+        Krankenhäuser und Tageskliniken: Automatik-Flurzwischentüren;
+        rollstuhlgerechte Bedienung
+        *                       Anstrich
+
+    *   *****                       Sichtmauerwerk
+        **                       Massivholztüren, Schiebetürelemente,
+        Glastüren
+        *                       Innenwände für flexible Raumkonzepte (größere
+        statische Spannweiten der Decken)
+        *                       nur Beherbergungsstätten und
+        Verpflegungseinrichtungen: Automatik-Flurzwischentüren;
+        rollstuhlgerechte Bedienung
+        *                       rollstuhlgerechte Bedienung
+        *                       tlw. gefliest, Sichtmauerwerk;
+        Schiebetürelemente, Glastüren
+        *                       schmiedeeiserne Türen
+
+    *   *****                       gestaltete Wandabläufe (z. B.
+        Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien)
+        *                       Vertäfelungen (Edelholz, Metall), Akustikputz
+        *                       Wände aus großformatigen Glaselementen,
+        Akustikputz, tlw. Automatiktüren, rollstuhlgerechte Bedienung
+        *                       raumhohe aufwendige Türelemente; tlw.
+        Automatiktüren, rollstuhlgerechte Bedienung
+        ***                       Akustikputz, raumhohe aufwendige Türelemente
+        *                       rollstuhlgerechte Bedienung, Automatiktüren
+        *                       überwiegend gefliest; Sichtmauerwerk;
+        gestaltete Wandabläufe
+
+
+*    *   Deckenkonstruktion und Treppen (nicht bei* **)**
+
+    *   Weichholztreppen in einfacher Art und Ausführung; kein
+        Trittschallschutz
+        ***                       Holzbalkendecken ohne Füllung, Spalierputz
+
+    *   Stahl- oder Hartholztreppen in einfacher Art und Ausführung
+        *****                       Holzbalkendecken mit Füllung, Kappendecken
+
+    *   ****                       Betondecken mit
+        Tritt- und                        Luftschallschutz; einfacher Putz
+        **                       abgehängte Decken
+        **                       Deckenverkleidung
+        *                       Betondecke
+
+    *   *                       höherwertige abgehängte Decken
+        ****                       Decken mit großen Spannweiten
+        *                       Deckenverkleidung
+
+    *   hochwertige breite Stahlbeton-/Metalltreppenanlage mit hochwertigem
+        Geländer
+        **                       Deckenvertäfelungen (Edelholz, Metall)
+        ****                       Decken mit größeren Spannweiten
+
+
+*    *   **Fußböden**
+
+    *   ohne Belag
+
+    *   Linoleum-, Teppich-, Laminat- und PVC-Böden einfacher Art und
+        Ausführung
+        *                       Holzdielen
+
+    *   ****                       Fliesen, Kunststeinplatten
+        **                       Linoleum- oder Teppich-Böden besserer Art und
+        Ausführung
+        **                       Linoleum- oder PVC-
+        Böden besserer Art und Ausführung
+        *                       nur Sporthallen: Beton, Asphaltbeton, Estrich
+        oder Gussasphalt auf Beton; Teppichbelag, PVC;
+        nur Freizeitbäder/Heilbäder: Fliesenbelag
+        *                       Beton
+        *                       Betonwerkstein, Sandstein
+
+    *   ***                       Natursteinplatten, hochwertige Fliesen,
+        Terrazzobelag, hochwertige Massivholzböden auf gedämmter
+        Unterkonstruktion
+        **                       Fertigparkett
+        *                       nur Sporthallen: hochwertigere
+        flächenstatische Fußbodenkonstruktion, Spezialteppich mit
+        Gummigranulatauflage; hochwertigerer Schwingboden
+        *                       Estrich, Gussasphalt
+
+    *   ****                       hochwertiges Parkett, hochwertige
+        Natursteinplatten, hochwertige Edelholzböden auf gedämmter
+        Unterkonstruktion
+        *                       nur Sporthallen: hochwertigste
+        flächenstatische Fußbodenkonstruktion, Spezialteppich mit
+        Gummigranulatauflage; hochwertigster Schwingboden;
+        nur Freizeitbäder/Heilbäder: hochwertiger Fliesenbelag und
+        Natursteinboden
+        *                       beschichteter Beton oder Estrichboden;
+        Betonwerkstein, Verbundpflaster
+        *                       Marmor, Granit
+
+
+*    *   **Sanitäreinrichtungen**
+
+    *   einfache Toilettenanlagen (Stand-WC); Installation auf Putz;
+        Ölfarbenanstrich, einfache PVC-Bodenbeläge, WC und Bäderanlage
+        geschossweise
+
+    *   Toilettenanlagen in einfacher Qualität; Installation unter Putz; WCs
+        und Duschräume je Geschoss; einfache Wand- und Bodenfliesen, tlw.
+        gefliest
+
+    *   Sanitäreinrichtung in Standard-Ausführung
+        **                       ausreichende Anzahl von Toilettenräumen
+        *                       mehrere WCs und Duschbäder je Geschoss;
+        Waschbecken im Raum
+        *                       wenige Toilettenräume und Duschräume bzw.
+        Waschräume
+
+    *   Sanitäreinrichtung in besserer Qualität
+        **                       höhere Anzahl Toilettenräume
+        *                       je Raum ein Duschbad mit WC
+        nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und
+        Tageskliniken: behindertengerecht
+
+    *   Sanitäreinrichtung in gehobener Qualität
+        **                       großzügige Toilettenanlagen jeweils mit
+        Sanitäreinrichtung in gehobener Qualität
+        *                       je Raum ein Duschbad mit WC in guter
+        Ausstattung;
+        nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser
+
+
+*    *
+    *
+    *
+    *   **                       wenige Toilettenräume
+
+    *   *                       ausreichende Anzahl von Toilettenräumen und
+        Duschräumen
+        **                       ausreichende Anzahl von Toilettenräumen
+
+    *   und Tageskliniken: behindertengerecht
+        *                       großzügige Toilettenanlagen und Duschräume mit
+        Sanitäreinrichtung in gehobener Qualität
+        *                       großzügige Toilettenanlagen mit
+        Sanitäreinrichtung in gehobener Qualität
+        *                       großzügige Toilettenanlagen
+
+
+*    *   **Heizung**
+
+    *   Einzelöfen, Schwerkraftheizung, dezentrale Warmwasserversorgung
+        *                       Elektroheizung im Gestühl
+
+    *   Zentralheizung mit Radiatoren (Schwerkraftheizung); einfache
+        Warmluftheizung, mehrere Ausblasöffnungen; Lufterhitzer mit
+        Wärmetauscher mit zentraler Kesselanlage, Fußbodenheizung (vor ca.
+        1995)
+        *                       einfache Warmluftheizung, eine Ausblasöffnung
+
+    *   elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur-
+        oder Brennwertkessel
+
+    *   Solarkollektoren für Warmwassererzeugung
+        *****                       Fußbodenheizung
+        *                       zusätzlicher Kaminanschluss
+
+    *   Solarkollektoren für Warmwassererzeugung und Heizung,
+        Blockheizkraftwerk, Wärmepumpe, Hybrid-
+        Systeme
+        ****                       Klimaanlage
+        *                       Kaminanlage
+
+
+*    *   **Sonstige technische Ausstattung**
+
+    *   sehr wenige Steckdosen, Schalter und Sicherungen, kein
+        Fehlerstromschutzschalter (FI-Schalter), Leitungen auf Putz, einfache
+        Leuchten
+
+    *   wenige Steckdosen, Schalter und Sicherungen, Installation unter Putz
+
+    *   ***                       zeitgemäße Anzahl an Steckdosen und
+        Lichtauslässen, Zählerschrank (ab ca. 1985) mit Unterverteilung und
+        Kippsicherungen; Kabelkanäle; Blitzschutz
+        ***                       zeitgemäße Anzahl an Steckdosen und
+        Lichtauslässen; Blitzschutz
+        **                       Personenaufzugsanlagen
+        *                       Teeküchen
+
+    *   zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen
+        *****                       dezentrale Lüftung mit Wärmetauscher
+        *                       Lüftung mit Wärmetauscher
+        **                       mehrere LAN- und Fernsehanschlüsse
+        ***                       hochwertige Beleuchtung; Doppelboden mit
+        Bodentanks zur Verkabelung; ausreichende Anzahl von LAN-Anschlüssen
+
+    *   Video- und zentrale Alarmanlage, Klimaanlage, Bussystem
+        *****                       zentrale Lüftung mit Wärmetauscher
+        *                       Doppelboden mit Bodentanks zur Verkabelung
+        *                       aufwendige Personenaufzugsanlagen
+        ***                       aufwendige Aufzugsanlagen
+        *                       Küchen, Kantinen
+
+
+*    *
+    *
+    *
+    *
+    *   *                       Messverfahren von Verbrauch, Regelung von
+        Raumtemperatur und Raumfeuchte
+        ***                       Sonnenschutzsteuerung
+        **                       elektronische Zugangskontrolle;
+        Personenaufzugsanlagen
+        **                       Messverfahren von Raumtemperatur,
+        Raumfeuchte, Verbrauch, Einzelraumregelung
+        *                       Kabelkanäle; kleinere Einbauküchen mit
+        Kochgelegenheit, Aufenthaltsräume; Aufzugsanlagen
+
     *
 
 
 
-*    *   5.
 
-    *   Teileigentum
+*    *   **14.2-14.4**
+
+    *   **14.2-14.4**
+
+    *   **Hoch-,Tief- und Nutzfahrzeuggaragen**
+
+
+
 
 
 *    *
-    *   Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den
-        vorstehenden Gebäudeklassen zuzuordnen.
-
-
-
-
-*    *   6.
-
-    *   Auffangklausel
+    *   **Standardstufe**
 
 
 *    *
-    *   Regelherstellungskosten für nicht aufgeführte Gebäudeklassen sind aus
-        den Regelherstellungskosten vergleichbarer Gebäudeklassen abzuleiten.
+    *   **1-3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   offene Konstruktion
+
+    *   Einschalige Konstruktion
+
+    *   aufwendig gestaltete Fassaden mit konstruktiver Gliederung
+        (Säulenstellungen, Erker etc.)
+
+
+*    *   **Konstruktion**
+
+    *   Stahl- und Betonfertigteile
+
+    *   überwiegend Betonfertigteile; große stützenfreie Spannweiten
+
+    *   größere stützenfreie Spannweiten
+
+
+*    *   **Dach**
+
+    *   Flachdach, Folienabdichtung
+
+    *   Flachdachausbildung; Wärmedämmung
+
+    *   befahrbares Flachdach (Parkdeck)
+
+
+*    *   **Fenster und Außentüren**
+
+    *   einfache Metallgitter
+
+    *   begrünte Metallgitter, Glasbausteine
+
+    *   Außentüren in hochwertigen Materialien
+
+
+*    *   **Fußböden**
+
+    *   Beton
+
+    *   Estrich, Gussasphalt
+
+    *   beschichteter Beton oder Estrichboden
+
+
+*    *   **Sonstige technische Ausstattung**
+
+    *   Strom- und Wasseranschluss; Löschwasseranlage;
+        Treppenhaus; Brandmelder
+
+    *   Sprinkleranlage; Rufanlagen; Rauch- und Wärmeabzugsanlagen;
+        mechanische Be- und Entlüftungsanlagen; Parksysteme für zwei PKWs
+        übereinander; Personenaufzugsanlagen
+
+    *   Video- und zentrale Alarmanlage; Beschallung; Parksysteme für drei
+        oder mehr PKWs übereinander; aufwendigere Aufzugsanlagen
 
 
 
 
-### Anlage 25 (zu § 191 Abs. 2) Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Abs. 1 Nr. 1 BewG und Wohnungseigentum nach § 181 Abs. 1 Nr. 3 BewG
 
-(Fundstelle: BGBl. I 2008, 3077)
+*    *   **18.1-18.2**
+
+    *   * **18.1**
+
+    *   **Reithallen**
 
 
-*    *   Vorläufiger Sachwert § 189 Abs. 3
+*    *
+    *   ** **18.2**
 
+    *   **Ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen u. Ä.**
+
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *
+    *   **1-3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder
+        Profilblech auf Holz-Unterkonstruktion
+
+    *   Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-
+        Blockbohlen zwischen Stützen, Wärmedämmverbundsystem, Putz
+
+    *   Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil;
+        Kalksandstein-Vormauerung oder Klinkerverblendung mit Dämmung
+
+
+*    *   **Dach**
+
+    *   Holzkonstruktionen, Nagelbrettbinder; Bitumenwellplatten, Profilblech
+
+    *   Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten
+
+    *   Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung mit
+        Profilholz oder
+        Paneelen
+
+
+*    *   **Fenster und**
+        **Außentüren bzw.**
+        **-tore**
+
+    *   Lichtplatten aus Kunststoff
+        *                       Holz-Brettertüren
+        **                       Holztore
+
+    *   Kunststofffenster
+        *                       Windnetze aus Kunststoff, Jalousien mit
+        Motorantrieb
+        **                       Metall-Sektionaltore
+
+    *   Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher
+        Fensteranteil
+
+
+*    *   **Innenwände**
+
+    *   keine
+
+    *   tragende bzw. nicht tragende Innenwände aus Holz; Anstrich
+
+    *   tragende bzw. nicht tragende Innenwände als Mauerwerk; Sperrholz,
+        Gipskarton, Fliesen
+
+
+*    *   **Decken-konstruk-**
+        **tionen**
+
+    *   keine
+
+    *   Holzkonstruktionen über Nebenräumen; Hartschaumplatten
+
+    *   Stahlbetonplatte über Nebenräumen; Dämmung mit Profilholz oder
+        Paneelen
+
+
+*    *   **Fußböden**
+
+    *   *                       Tragschicht: Schotter,
+        Trennschicht: Vlies,
+        Tretschicht: Sand
+        **                       Beton-Verbundsteinpflaster
+
+    *   *                       zusätzlich/alternativ:
+        Tragschicht: Schotter,
+        Trennschicht: Kunststoffgewebe,
+        Tretschicht: Sand und Holzspäne
+        **                       zusätzlich/alternativ: Stahlbetonplatte
+
+    *   *                       Estrich auf Dämmung, Fliesen oder Linoleum in
+        Nebenräumen;
+        zusätzlich/alternativ:
+        Tragschicht: Schotter, Trennschicht: Kunststoffplatten, Tretschicht:
+        Sand und Textilflocken, Betonplatte im Bereich der Nebenräume
+        **                       zusätzlich/alternativ: Oberfläche maschinell
+        geglättet, Anstrich
+
+
+*    *   **baukonstruktive**
+        Einbauten* ****
+
+    *   *                       Reithallenbande aus Nadelholz zur Abgrenzung
+        der Reitfläche
+
+    *   *                       zusätzlich/alternativ: Vollholztafeln fest
+        eingebaut
+
+    *   *                       zusätzlich/alternativ: Vollholztafeln,
+        Fertigteile zum Versetzen
+
+
+*    *   **Abwasser-,**
+        **Wasser-,**
+        **Gasanlagen**
+
+    *   Regenwasserableitung
+
+    *   zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache
+        Qualität)
+
+    *   zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität),
+        Gasanschluss
+
+
+*    *   **Wärme-**
+        **versorgungs-**
+        **anlagen**
+
+    *   keine
+
+    *   Raumheizflächen in Nebenräumen, Anschluss an Heizsystem
+
+    *   zusätzlich/alternativ: Heizkessel
+
+
+*    *   **luft-**
+        **technische**
+        **Anlagen**
+
+    *   keine
+
+    *   Firstentlüftung
+
+    *   Be- und Entlüftungsanlage
+
+
+*    *   **Starkstrom-**
+        **Anlage**
+
+    *   Leitungen, Schalter, Dosen, Langfeldleuchten
+
+    *   zusätzlich/alternativ: Sicherungen und Verteilerschrank
+
+    *   zusätzlich/alternativ: Metall-Dampfleuchten
+
+
+*    *   **nutzungs-**
+        **spezifische**
+        **Anlagen**
+
+    *   keine
+
+    *   *                       Reitbodenbewässerung (einfache Ausführung)
+        **                       Schüttwände aus Holz zwischen Stahlstützen,
+        Trocknungsanlage für Getreide
+
+    *   *                       Reitbodenbewässerung (komfortable Ausführung)
+        **                       Schüttwände aus Beton-Fertigteilen
+
+
+
+
+    ermittelt mit Korrekturfaktor 1,05 bezogen auf die
+    Regelherstellungskosten für freistehende Einfamilienhäuser
+[^f791494_02_BJNR010350934BJNE027803123]:     Anteil der Wohnfläche bis 20 Prozent
+[^f791494_03_BJNR010350934BJNE027803123]:     Standardstufe 1–3: Fertiggaragen; Standardstufe 4: Garagen in
+    Massivbauweise; Standardstufe 5: individuelle Garagen in
+    Massivbauweise mit besonderen Ausführungen wie Ziegeldach, Gründach,
+    Bodenbeläge, Fliesen o. ä., Wasser, Abwasser und Heizung
+[^f791494_04_BJNR010350934BJNE027803123]:     Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für Tief-
+    und Hochgaragen: BGF = tatsächliche Stellplatzfläche (Länge x Breite)
+    x 1,55
+[^f791494_05_BJNR010350934BJNE027803123]:     Lagergebäude mit Mischnutzung sind Gebäude mit einem überwiegenden
+    Anteil an Lagernutzung und einem geringeren Anteil an anderen
+    Nutzungen wie Büro, Sozialräume, Ausstellungs- oder Verkaufsflächen
+    etc.
+[^f791494_06_BJNR010350934BJNE027803123]: 
+(zu § 191 Absatz 2)
+
+### Anlage 25 Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Absatz 1 Nummer 1 BewG und Wohnungseigentum nach § 181 Absatz 1 Nummer 3 BewG
+
+(Fundstelle: BGBl. I 2015, 1863)
+
+
+*    *
     *   Bodenrichtwert
 
 
-*    *   bis
+*    *   Vorläufiger Sachwert § 189 Absatz 3
+
+    *   bis
 
 
-*    *   15 EUR/m²
+*    *
+    *   15 EUR/m
+        2
 
-    *   30 EUR/m²
+    *   30 EUR/m
+        2
 
-    *   50 EUR/m²
+    *   50 EUR/m
+        2
 
-    *   100 EUR/m²
+    *   100 EUR/m
+        2
 
-    *   150 EUR/m²
+    *   150 EUR/m
+        2
 
 
 *    *   bis
@@ -24327,27 +26624,29 @@ Decken.
 
     *   1,1
 
-    *   1,1
+    *   1,2
 
-    *   1,1
+    *   1,2
 
-    *   1,1
+    *   1,2
 
 
-*    *   100 000 EUR
+*    *
+    *   100 000 EUR
+
+    *   0,8
 
     *   0,9
 
     *   1,0
 
-    *   1,0
-
     *   1,1
 
     *   1,1
 
 
-*    *   150 000 EUR
+*    *
+    *   150 000 EUR
 
     *   0,8
 
@@ -24357,10 +26656,11 @@ Decken.
 
     *   1,0
 
-    *   1,1
+    *   1,0
 
 
-*    *   200 000 EUR
+*    *
+    *   200 000 EUR
 
     *   0,7
 
@@ -24370,10 +26670,11 @@ Decken.
 
     *   0,9
 
-    *   1,0
+    *   0,9
 
 
-*    *   300 000 EUR
+*    *
+    *   300 000 EUR
 
     *   0,6
 
@@ -24383,10 +26684,25 @@ Decken.
 
     *   0,8
 
-    *   0,9
+    *   0,8
 
 
-*    *   400 000 EUR
+*    *
+    *   400 000 EUR
+
+    *   0,5
+
+    *   0,6
+
+    *   0,7
+
+    *   0,7
+
+    *   0,8
+
+
+*    *
+    *   500 000 EUR
 
     *   0,5
 
@@ -24397,66 +26713,57 @@ Decken.
     *   0,7
 
     *   0,8
-
-
-*    *   500 000 EUR
-
-    *   0,4
-
-    *   0,5
-
-    *   0,5
-
-    *   0,6
-
-    *   0,7
 
 
 *    *   über
 
     *   500 000 EUR
 
-    *   0,3
+    *   0,5
 
-    *   0,4
-
-    *   0,4
+    *   0,5
 
     *   0,5
 
     *   0,6
 
+    *   0,7
 
 
 
-*    *   Vorläufiger Sachwert § 189 Abs. 3
 
+
+*    *
     *   Bodenrichtwert
 
 
-*    *   bis
+*    *   Vorläufiger Sachwert § 189 Absatz 3
+
+    *   bis
 
     *   über
 
 
-*    *   200 EUR/m²
+*    *
+    *   200 EUR/m
+        2
 
-    *   300 EUR/m²
+    *   300 EUR/m
+        2
 
-    *   400 EUR/m²
+    *   400 EUR/m
+        2
 
-    *   500 EUR/m²
+    *   500 EUR/m
+        2
 
-    *   500 EUR/m²
+    *   500 EUR/m
+        2
 
 
 *    *   bis
 
     *   50 000 EUR
-
-    *   1,2
-
-    *   1,2
 
     *   1,3
 
@@ -24464,34 +26771,27 @@ Decken.
 
     *   1,4
 
+    *   1,4
 
-*    *   100 000 EUR
-
-    *   1,1
-
-    *   1,2
-
-    *   1,2
-
-    *   1,3
-
-    *   1,3
+    *   1,5
 
 
-*    *   150 000 EUR
-
-    *   1,1
-
-    *   1,1
+*    *
+    *   100 000 EUR
 
     *   1,1
 
     *   1,2
 
+    *   1,2
+
+    *   1,3
+
     *   1,3
 
 
-*    *   200 000 EUR
+*    *
+    *   150 000 EUR
 
     *   1,0
 
@@ -24504,7 +26804,22 @@ Decken.
     *   1,2
 
 
-*    *   300 000 EUR
+*    *
+    *   200 000 EUR
+
+    *   1,0
+
+    *   1,1
+
+    *   1,1
+
+    *   1,2
+
+    *   1,2
+
+
+*    *
+    *   300 000 EUR
 
     *   0,9
 
@@ -24517,7 +26832,8 @@ Decken.
     *   1,2
 
 
-*    *   400 000 EUR
+*    *
+    *   400 000 EUR
 
     *   0,8
 
@@ -24530,42 +26846,44 @@ Decken.
     *   1,1
 
 
-*    *   500 000 EUR
-
-    *   0,7
+*    *
+    *   500 000 EUR
 
     *   0,8
 
     *   0,9
 
-    *   0,9
+    *   1,0
 
     *   1,0
+
+    *   1,1
 
 
 *    *   über
 
     *   500 000 EUR
 
-    *   0,6
-
     *   0,7
-
-    *   0,8
 
     *   0,8
 
     *   0,9
 
+    *   0,9
+
+    *   1,0
 
 
-**Wertzahlen für Teileigentum,**
-**Geschäftsgrundstücke, gemischt genutzte Grundstücke**
-## **und sonstige bebaute Grundstücke nach § 181 Abs. 1 Nr. 3 bis 6
-BewG**
 
 
-*    *   Vorläufiger Sachwert § 189 Abs. 3
+Wertzahlen für Teileigentum,
+Geschäftsgrundstücke, gemischt genutzte Grundstücke und
+## sonstige bebaute Grundstücke nach § 181 Absatz 1 Nummer 3 bis 6
+BewG
+
+
+*    *   Vorläufiger Sachwert § 189 Absatz 3
 
     *
 
@@ -24573,24 +26891,51 @@ BewG**
 
     *   500 000 EUR
 
-    *   0,9
+    *   0,90
 
 
-*    *   3 000 000 EUR
+*    *
+    *   750 000 EUR
 
-    *   0,8
+    *   0,85
+
+
+*    *
+    *   1 000 000 EUR
+
+    *   0,80
+
+
+*    *
+    *   1 500 000 EUR
+
+    *   0,75
+
+
+*    *
+    *   2 000 000 EUR
+
+    *   0,70
+
+
+*    *
+    *   3 000 000 EUR
+
+    *   0,65
 
 
 *    *   über
 
     *   3 000 000 EUR
 
-    *   0,7
+    *   0,60
 
 
 
 
-### Anlage 26 (zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2) Abzinsungsfaktoren
+(zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)
+
+### Anlage 26 Abzinsungsfaktoren
 
 (Fundstelle: BGBl. I 2008, 3078 - 3080;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -27148,6 +29493,13580 @@ Abzinsungsfaktor nach folgender Formel zu bilden:
 
     *
     *   n = Restlaufzeit
+
+
+
+(zu § 237 Absatz 2)
+
+### Anlage 27 Landwirtschaftliche Nutzung
+
+(Fundstelle: BGBl. I 2021, 2291)
+
+
+*    *   **Bewertungsfaktoren**
+
+    *   **Bezugseinheit**
+
+    *   **in EUR**
+
+
+*    *   Grundbetrag
+
+    *   pro Ar
+
+    *   2,52
+
+
+*    *   Ertragsmesszahl
+
+    *   pro Ertragsmesszahl (Produkt aus Acker-/Grünlandzahl und Ar)
+
+    *   0,041
+
+
+*    *   **Zuschläge für**
+
+    *   **Bezugseinheit**
+
+    *   **in EUR**
+
+
+*    *   Verstärkte Tierhaltung
+
+    *   je Vieheinheit über einem Besatz von 2,0 Vieheinheiten je Hektar
+        selbst bewirtschafteter Fläche der landwirtschaftlichen Nutzung
+
+    *   79,00
+
+
+
+(zu § 237 Absatz 3)
+
+### Anlage 28 Forstwirtschaftliche Nutzung
+
+(Fundstelle: BGBl. I 2021, 2292 – 2294)
+
+
+*    *   **Bewertungsfaktor für Wuchsgebiet**
+
+    *   **in EUR/ha**
+
+
+*    *   1
+
+    *   Schleswig-Holstein Nordwest
+
+    *   86,17
+
+
+*    *   2
+
+    *   Jungmoränenlandschaft Schleswig-Holstein Ost/Nordwest-Mecklenburg
+
+    *   80,53
+
+
+*    *   3
+
+    *   Schleswig-Holstein Südwest
+
+    *   90,24
+
+
+*    *   4
+
+    *   Mecklenburg-Westvorpommersches Küstenland
+
+    *   64,57
+
+
+*    *   5
+
+    *   Ostholsteinisch-Westmecklenburger Jungmoränenland
+
+    *   73,13
+
+
+*    *   6
+
+    *   (Mittel-)Mecklenburger Jungmoränenland
+
+    *   62,38
+
+
+*    *   7
+
+    *   Ostmecklenburg-Vorpommersches Jungmoränenland
+
+    *   78,03
+
+
+*    *   8
+
+    *   Ostvorpommersches Küstenland
+
+    *   56,36
+
+
+*    *   9
+
+    *   Nordostbrandenburger Jungmoränenland (Mittelbrandenburger
+        Jungmoränenland)
+
+    *   53,83
+
+
+*    *   10
+
+    *   Ostmecklenburg-Nordbrandenburger Jungmoränenland (Nordbrandenburger
+        Jungmoränenland)
+
+    *   55,09
+
+
+*    *   11
+
+    *   Ostniedersächsisch-Altmärkisches Altmoränenland (Westprignitz-
+        Altmärkisches Altmoränenland)
+
+    *   46,03
+
+
+*    *   12
+
+    *   Südost-Holsteinisch-Südwestmecklenburger Altmoränenland
+
+    *   57,31
+
+
+*    *   13
+
+    *   Ostniedersächsisches Tiefland
+
+    *   66,34
+
+
+*    *   14
+
+    *   Niedersächsischer Küstenraum
+
+    *   79,05
+
+
+*    *   15
+
+    *   Mittelwestniedersächsisches Tiefland
+
+    *   67,41
+
+
+*    *   16
+
+    *   Westfälische Bucht
+
+    *   70,03
+
+
+*    *   17
+
+    *   Weserbergland
+
+    *   101,93
+
+
+*    *   18
+
+    *   Nordwestdeutsche Berglandschwelle
+
+    *   73,10
+
+
+*    *   19
+
+    *   Nordwestliches Harzvorland
+
+    *   65,70
+
+
+*    *   20
+
+    *   Nordöstliche Harzvorländer
+
+    *   43,24
+
+
+*    *   21
+
+    *   Sachsen-Anhaltinische Löss-Ebene
+
+    *   51,09
+
+
+*    *   22
+
+    *   Mittleres nordostdeutsches Altmoränenland
+
+    *   38,39
+
+
+*    *   23
+
+    *   Hoher Fläming
+
+    *   47,69
+
+
+*    *   24
+
+    *   Mittelbrandenburger Talsand- und Moränenland
+
+    *   37,53
+
+
+*    *   25
+
+    *   Düben-Niederlausitzer Altmoränenland
+
+    *   37,65
+
+
+*    *   26
+
+    *   Lausitzer Löss-Hügelland
+
+    *   84,73
+
+
+*    *   27
+
+    *   Zittauer Gebirge
+
+    *   163,92
+
+
+*    *   28
+
+    *   Oberlausitzer Bergland
+
+    *   155,56
+
+
+*    *   29
+
+    *   Elbsandsteingebirge
+
+    *   123,19
+
+
+*    *   30
+
+    *   Westlausitzer Platte und Elbtalzone
+
+    *   68,56
+
+
+*    *   31
+
+    *   Sächsisch-Thüringisches Löss-Hügelland
+
+    *   63,80
+
+
+*    *   32
+
+    *   Leipziger Sandlöss-Ebene
+
+    *   50,58
+
+
+*    *   33
+
+    *   Ostthüringisches Trias-Hügelland
+
+    *   72,24
+
+
+*    *   34
+
+    *   Thüringer Becken
+
+    *   64,12
+
+
+*    *   35
+
+    *   Nordthüringisches Trias-Hügelland
+
+    *   60,06
+
+
+*    *   36
+
+    *   Harz
+
+    *   142,70
+
+
+*    *   37
+
+    *   Mitteldeutsches Trias-Berg- und Hügelland
+
+    *   98,77
+
+
+*    *   38
+
+    *   Nordwesthessisches Bergland
+
+    *   88,55
+
+
+*    *   39
+
+    *   Nördliches hessisches Schiefergebirge
+
+    *   99,86
+
+
+*    *   40
+
+    *   Sauerland
+
+    *   145,62
+
+
+*    *   41
+
+    *   Bergisches Land
+
+    *   113,51
+
+
+*    *   42
+
+    *   Niederrheinisches Tiefland
+
+    *   68,33
+
+
+*    *   43
+
+    *   Niederrheinische Bucht
+
+    *   68,27
+
+
+*    *   44
+
+    *   Nordwesteifel
+
+    *   135,51
+
+
+*    *   45
+
+    *   Osteifel
+
+    *   99,15
+
+
+*    *   46
+
+    *   Mittelrheintal
+
+    *   62,52
+
+
+*    *   47
+
+    *   Westerwald
+
+    *   112,73
+
+
+*    *   48
+
+    *   Taunus
+
+    *   94,94
+
+
+*    *   49
+
+    *   Wetterau und Gießener Becken
+
+    *   73,66
+
+
+*    *   50
+
+    *   Vogelsberg und östlich angrenzende Sandsteingebiete
+
+    *   102,75
+
+
+*    *   51
+
+    *   Rhön
+
+    *   97,18
+
+
+*    *   52
+
+    *   Südthüringisches-Oberfränkisches Trias-Hügelland
+
+    *   106,95
+
+
+*    *   53
+
+    *   Thüringer Gebirge
+
+    *   162,51
+
+
+*    *   54
+
+    *   Vogtland
+
+    *   140,47
+
+
+*    *   55
+
+    *   Erzgebirgsvorland
+
+    *   93,22
+
+
+*    *   56
+
+    *   Erzgebirge
+
+    *   171,75
+
+
+*    *   57
+
+    *   Frankenwald, Fichtelgebirge und Steinwald
+
+    *   183,51
+
+
+*    *   58
+
+    *   Oberpfälzer Wald
+
+    *   147,30
+
+
+*    *   59
+
+    *   Oberpfälzer Becken- und Hügelland
+
+    *   78,21
+
+
+*    *   60
+
+    *   Frankenalb und Oberpfälzer Jura
+
+    *   106,82
+
+
+*    *   61
+
+    *   Fränkischer Keuper und Albvorland
+
+    *   73,44
+
+
+*    *   62
+
+    *   Fränkische Platte
+
+    *   67,76
+
+
+*    *   63
+
+    *   Spessart
+
+    *   105,47
+
+
+*    *   64
+
+    *   Odenwald
+
+    *   124,93
+
+
+*    *   65
+
+    *   Oberrheinisches Tiefland und Rhein-Main-Ebene
+
+    *   64,13
+
+
+*    *   66
+
+    *   Hunsrück
+
+    *   116,75
+
+
+*    *   67
+
+    *   Moseltal
+
+    *   87,42
+
+
+*    *   68
+
+    *   Gutland
+
+    *   97,81
+
+
+*    *   69
+
+    *   Saarländisch-Pfälzisches Muschelkalkgebiet
+
+    *   78,64
+
+
+*    *   70
+
+    *   Saar-Nahe-Bergland
+
+    *   75,52
+
+
+*    *   71
+
+    *   Westricher Moorniederung
+
+    *   79,49
+
+
+*    *   72
+
+    *   Pfälzerwald
+
+    *   78,67
+
+
+*    *   73
+
+    *   Schwarzwald
+
+    *   181,38
+
+
+*    *   74
+
+    *   Baar-Wutach
+
+    *   172,51
+
+
+*    *   75
+
+    *   Neckarland
+
+    *   117,23
+
+
+*    *   76
+
+    *   Schwäbische Alb
+
+    *   123,63
+
+
+*    *   77
+
+    *   Südwestdeutsches Alpenvorland
+
+    *   177,56
+
+
+*    *   78
+
+    *   Tertiäres Hügelland
+
+    *   166,59
+
+
+*    *   79
+
+    *   Bayerischer Wald
+
+    *   160,79
+
+
+*    *   80
+
+    *   Schwäbisch-Bayerische Schotterplatten- und Altmoränenlandschaft
+
+    *   165,45
+
+
+*    *   81
+
+    *   Schwäbisch-Bayerische Jungmoräne und Molassevorberge
+
+    *   157,93
+
+
+*    *   82
+
+    *   Bayerische Alpen
+
+    *   135,61
+
+
+
+(zu § 237 Absatz 4)
+
+### Anlage 29 Weinbauliche Nutzung
+
+(Fundstelle: BGBl. I 2021, 2295)
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Traubenerzeugung
+
+    *   pro Ar
+
+    *   11,70
+
+
+
+(zu § 237 Absatz 5)
+
+### Anlage 30 Gärtnerische Nutzung
+
+(Fundstelle: BGBl. I 2021, 2296)
+
+
+*    *   **Nutzungsteil Gemüsebau**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        im Freiland und für Kleingarten- und Dauerkleingartenland
+
+    *   pro Ar
+
+    *   12,35
+
+
+*    *   **Zuschläge für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        unter Glas und Kunststoffen
+
+    *   pro Ar
+
+    *   45,00
+
+
+*    *   **Nutzungsteil Blumen-/Zierpflanzenbau**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        im Freiland
+
+    *   pro Ar
+
+    *   27,60
+
+
+*    *   **Zuschläge für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        unter Glas und Kunststoffen
+
+    *   pro Ar
+
+    *   65,15
+
+
+*    *   **Nutzungsteil Obstbau**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        im Freiland
+
+    *   pro Ar
+
+    *   9,53
+
+
+*    *   **Zuschläge für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        unter Glas und Kunststoffen
+
+    *   pro Ar
+
+    *   45,00
+
+
+*    *   **Nutzungsteil Baumschulen**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        im Freiland
+
+    *   pro Ar
+
+    *   22,29
+
+
+*    *   **Zuschläge für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Flächen
+        unter Glas und Kunststoffen
+
+    *   pro Ar
+
+    *   65,15
+
+
+
+(zu § 237 Absatz 6 und 7)
+Übrige land- und forstwirtschaftliche Nutzungen
+
+### Anlage 31 sowie Abbauland, Geringstland und Unland
+
+(Fundstelle: BGBl. I 2021, 2297)
+
+
+*    *   **Sondernutzungen**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Hopfen
+
+    *   pro Ar
+
+    *   13,75
+
+
+*    *   Spargel
+
+    *   pro Ar
+
+    *   12,69
+
+
+*    *   **Sonstige land- und forstwirtschaftliche Nutzungen**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Bezugseinheit**
+
+    *   **in EUR**
+
+
+*    *   Wasserflächen
+
+    *   pro Ar
+
+    *   1,00
+
+
+*    *   **Zuschläge für stehende Gewässer**
+
+
+*    *   Wasserflächen für Binnenfischerei,
+        Teichwirtschaft und Fischzucht für
+        Binnenfischerei und Teichwirtschaft
+
+    *   ab 1,00 kg bis 4,00 kg
+        Fischertrag/Ar pro Ar
+
+    *   2,00
+
+
+*    *   Wasserflächen für Binnenfischerei,
+        Teichwirtschaft und Fischzucht für
+        Binnenfischerei und Teichwirtschaft
+
+    *   über 4,00 kg
+        Fischertrag/Ar pro Ar
+
+    *   2,50
+
+
+*    *   **Zuschläge für fließende Gewässer**
+
+
+*    *   Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft
+
+    *   bis 500 Liter/Sekunde
+        Durchfluss pro Liter/Sekunde
+
+    *   12,50
+
+
+*    *   Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft
+
+    *   über 500 Liter/Sekunde
+        Durchfluss pro Liter/Sekunde
+
+    *   15,00
+
+
+*    *
+
+*    *   Saatzucht
+
+    *   pro Ar
+
+    *   Anlage 27
+
+
+*    *   Weihnachtsbaumkulturen
+
+    *   pro Ar
+
+    *   19,40
+
+
+*    *   Kurzumtriebsplantagen
+
+    *   pro Ar
+
+    *   Anlage 27
+
+
+*    *   **Sonstige land- und forstwirtschaftliche Nutzungen, für die kein
+        Bewertungsfaktor festgelegt wurde**
+
+
+*    *   Wirtschaftsgebäude
+
+    *   pro Quadratmeter Bruttogrundfläche und Monat
+
+    *   1,23
+
+
+*    *   **Nutzungsarten Abbauland, Geringstland und Unland**
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Abbauland
+
+    *   pro Ar
+
+    *   1,00
+
+
+*    *   Geringstland
+
+    *   pro Ar
+
+    *   0,38
+
+
+*    *   Unland
+
+    *   pro Ar
+
+    *   0,00
+
+
+
+(zu § 237 Absatz 8)
+
+### Anlage 32 Nutzungsart Hofstelle
+
+(Fundstelle: BGBl. I 2021, 2298)
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Hofflächen
+
+    *   pro Ar
+
+    *   6,62
+
+
+*    *   **Zuschläge für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Wirtschaftsgebäude der weinbaulichen Nutzung bei Fass- und
+        Flaschenweinerzeugung
+
+    *   pro Quadratmeter Bruttogrundfläche und Monat
+
+    *   1,23
+
+
+*    *   Wirtschaftsgebäude der Nebenbetriebe
+
+    *   pro Quadratmeter Bruttogrundfläche und Monat
+
+    *   1,23
+
+
+
+(zu § 238 Absatz 2)
+
+### Anlage 33 Weitere den Ertragswert erhöhende Umstände
+
+(Fundstelle: BGBl. I 2021, 2299)
+
+
+*    *   **Bewertungsfaktor für**
+
+    *   **Flächeneinheit**
+
+    *   **in EUR**
+
+
+*    *   Abgegrenzte Standortfläche der
+        Windenergieanlage
+
+    *   pro Ar
+
+    *   59,58
+
+
+
+(zu § 241 Absatz 5)
+Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE)
+
+### Anlage 34 nach dem Futterbedarf
+
+(Fundstelle: BGBl. I 2019, 1824 – 25)
+
+
+*    *   **Tierart**
+
+    *   **1 Tier**
+
+
+*    *   **Nach dem Durchschnittsbestand in Stück:**
+
+    *
+    *
+
+*    *   **Alpakas**
+
+    *   0,08
+
+    *   VE
+
+
+*    *   **Damtiere**
+
+    *
+    *
+
+*    *   Damtiere unter 1 Jahr
+
+    *   0,04
+
+    *   VE
+
+
+*    *   Damtiere 1 Jahr und älter
+
+    *   0,08
+
+    *   VE
+
+
+*    *   **Geflügel**
+
+    *
+    *
+
+*    *   Legehennen (einschließlich einer normalen Aufzucht zur Ergänzung des
+        Bestandes)
+
+    *   0,02
+
+    *   VE
+
+
+*    *   Legehennen aus zugekauften Junghennen
+
+    *   0,0183
+
+    *   VE
+
+
+*    *   Zuchtputen, -enten, -gänse
+
+    *   0,04
+
+    *   VE
+
+
+*    *   **Kaninchen**
+
+    *
+    *
+
+*    *   Zucht- und Angorakaninchen
+
+    *   0,025
+
+    *   VE
+
+
+*    *   **Lamas**
+
+    *   0,1
+
+    *   VE
+
+
+*    *   **Pferde**
+
+    *
+    *
+
+*    *   Pferde unter 3 Jahren und Kleinpferde
+
+    *   0,7
+
+    *   VE
+
+
+*    *   Pferde 3 Jahre und älter
+
+    *   1,1
+
+    *   VE
+
+
+*    *   **Rindvieh**
+
+    *
+    *
+
+*    *   Kälber und Jungvieh unter 1 Jahr (einschließlich Mastkälber,
+        Starterkälber und Fresser)
+
+    *   0,3
+
+    *   VE
+
+
+*    *   Jungvieh 1 bis 2 Jahre alt
+
+    *   0,7
+
+    *   VE
+
+
+*    *   Färsen (älter als 2 Jahre)
+
+    *   1
+
+    *   VE
+
+
+*    *   Masttiere (Mastdauer weniger als 1 Jahr)
+
+    *   1
+
+    *   VE
+
+
+*    *   Kühe (einschließlich Mutter- und Ammenkühe mit den dazugehörigen
+        Saugkälbern)
+
+    *   1
+
+    *   VE
+
+
+*    *   Zuchtbullen, Zugochsen
+
+    *   1,2
+
+    *   VE
+
+
+*    *   **Schafe**
+
+    *
+    *
+
+*    *   Schafe unter 1 Jahr (einschließlich Mastlämmer)
+
+    *   0,05
+
+    *   VE
+
+
+*    *   Schafe 1 Jahr und älter
+
+    *   0,1
+
+    *   VE
+
+
+*    *   **Schweine**
+
+    *
+    *
+
+*    *   Zuchtschweine (einschließlich Jungzuchtschweine über etwa 90 kg)
+
+    *   0,33
+
+    *   VE
+
+
+*    *   **Strauße**
+
+    *
+    *
+
+*    *   Zuchttiere 14 Monate und älter
+
+    *   0,32
+
+    *   VE
+
+
+*    *   Jungtiere/Masttiere unter 14 Monate
+
+    *   0,25
+
+    *   VE
+
+
+*    *   **Ziegen**
+
+    *   0,08
+
+    *   VE
+
+
+*    *   **Nach der Erzeugung in Stück:**
+
+    *
+    *
+
+*    *   **Geflügel**
+
+    *
+    *
+
+*    *   Jungmasthühner (bis zu 6 Durchgänge je Jahr – schwere Tiere)
+
+    *   0,0017
+
+    *   VE
+
+
+*    *   (mehr als 6 Durchgänge je Jahr – leichte Tiere)
+
+    *   0,0013
+
+    *   VE
+
+
+*    *   Junghennen
+
+    *   0,0017
+
+    *   VE
+
+
+*    *   Mastenten
+
+    *   0,0033
+
+    *   VE
+
+
+*    *   Mastenten in der Aufzuchtphase
+
+    *   0,0011
+
+    *   VE
+
+
+*    *   Mastenten in der Mastphase
+
+    *   0,0022
+
+    *   VE
+
+
+*    *   Mastputen aus selbst erzeugten Jungputen
+
+    *   0,0067
+
+    *   VE
+
+
+*    *   Mastputen aus zugekauften Jungputen
+
+    *   0,005
+
+    *   VE
+
+
+*    *   Jungputen (bis etwa 8 Wochen)
+
+    *   0,0017
+
+    *   VE
+
+
+*    *   Mastgänse
+
+    *   0,0067
+
+    *   VE
+
+
+*    *   **Kaninchen**
+
+    *
+    *
+
+*    *   Mastkaninchen
+
+    *   0,0025
+
+    *   VE
+
+
+*    *   **Rindvieh**
+
+    *
+    *
+
+*    *   Masttiere (Mastdauer 1 Jahr und mehr)
+
+    *   1
+
+    *   VE
+
+
+*    *   **Schweine**
+
+    *
+    *
+
+*    *   Leichte Ferkel (bis etwa 12 kg)
+
+    *   0,01
+
+    *   VE
+
+
+*    *   Ferkel (über etwa 12 bis etwa 20 kg)
+
+    *   0,02
+
+    *   VE
+
+
+*    *   Schwere Ferkel und leichte Läufer (über etwa 20 bis etwa 30 kg)
+
+    *   0,04
+
+    *   VE
+
+
+*    *   Läufer (über etwa 30 bis etwa 45 kg)
+
+    *   0,06
+
+    *   VE
+
+
+*    *   Schwere Läufer (über etwa 45 bis etwa 60 kg)
+
+    *   0,08
+
+    *   VE
+
+
+*    *   Mastschweine
+
+    *   0,16
+
+    *   VE
+
+
+*    *   Jungzuchtschweine bis etwa 90 kg
+
+    *   0,12
+
+    *   VE
+
+
+
+(zu § 241 Absatz 5)
+
+### Anlage 35 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+
+(Fundstelle: BGBl. I 2019, 1826)
+
+
+1.  Mehr flächenabhängige Zweige des Tierbestands:
+
+    Pferdehaltung,
+
+    Pferdezucht,
+
+    Schafzucht,
+
+    Schafhaltung,
+
+    Rindviehzucht,
+
+    Milchviehhaltung,
+
+    Rindviehmast.
+
+
+2.  Weniger flächenabhängige Zweige des Tierbestands:
+
+    Schweinezucht,
+
+    Schweinemast,
+
+    Hühnerzucht,
+
+    Entenzucht,
+
+    Gänsezucht,
+
+    Putenzucht,
+
+    Legehennenhaltung,
+
+    Junghühnermast,
+
+    Entenmast,
+
+    Gänsemast,
+
+    Putenmast.
+
+
+
+
+(zu den §§ 251 und 257 Absatz 1)
+Umrechnungskoeffizienten zur Berücksichtigung abweichender
+Grundstücksgrößen
+
+### Anlage 36 beim Bodenwert von Ein- und Zweifamilienhäusern
+
+(Fundstelle: BGBl. I 2019, 1827)
+
+
+*    *   **Grundstücksgröße**
+
+    *   **Umrechnungskoeffizient**
+
+
+*    *   *                        250 m
+        2
+
+    *   1,24
+
+
+*    *   *                        250 m
+        2
+
+    *   1,19
+
+
+*    *   *                        300 m
+        2
+
+    *   1,14
+
+
+*    *   *                        350 m
+        2
+
+    *   1,10
+
+
+*    *   *                        400 m
+        2
+
+    *   1,06
+
+
+*    *   *                        450 m
+        2
+
+    *   1,03
+
+
+*    *   *                        500 m
+        2
+
+    *   1,00
+
+
+*    *   *                        550 m
+        2
+
+    *   0,98
+
+
+*    *   *                        600 m
+        2
+
+    *   0,95
+
+
+*    *   *                        650 m
+        2
+
+    *   0,94
+
+
+*    *   *                        700 m
+        2
+
+    *   0,92
+
+
+*    *   *                        750 m
+        2
+
+    *   0,90
+
+
+*    *   *                        800 m
+        2
+
+    *   0,89
+
+
+*    *   *                        850 m
+        2
+
+    *   0,87
+
+
+*    *   *                        900 m
+        2
+
+    *   0,86
+
+
+*    *   *                        950 m
+        2
+
+    *   0,85
+
+
+*    *   *                      1 000 m
+        2
+
+    *   0,84
+
+
+*    *   *                      1 050 m
+        2
+
+    *   0,83
+
+
+*    *   *                      1 100 m
+        2
+
+    *   0,82
+
+
+*    *   *                      1 150 m
+        2
+
+    *   0,81
+
+
+*    *   *                      1 200 m
+        2
+
+    *   0,80
+
+
+*    *   *                      1 250 m
+        2
+
+    *   0,79
+
+
+*    *   *                      1 300 m
+        2
+
+    *   0,78
+
+
+*    *   *                      1 350 m
+        2
+
+    *   0,77
+
+
+*    *   *                      1 400 m
+        2
+
+    *   0,76
+
+
+*    *   *                      1 450 m
+        2
+
+    *   0,75
+
+
+*    *   *                      1 500 m
+        2
+
+    *   0,74
+
+
+*    *   *                      1 550 m
+        2
+
+    *   0,73
+
+
+*    *   *                      1 600 m
+        2
+
+    *   0,72
+
+
+*    *   *                      1 650 m
+        2
+
+    *   0,71
+
+
+*    *   *                      1 700 m
+        2
+
+    *   0,70
+
+
+*    *   *                      1 750 m
+        2
+
+    *   0,69
+
+
+*    *   *                      1 800 m
+        2
+
+    *   0,68
+
+
+*    *   *                      1 850 m
+        2
+
+    *   0,67
+
+
+*    *   *                      1 900 m
+        2
+
+    *   0,66
+
+
+*    *   *                      1 950 m
+        2
+
+    *   0,65
+
+
+*    *   *                      2 000 m
+        2
+
+    *   0,64
+
+
+
+(zu § 253 Absatz 2)
+
+### Anlage 37 Vervielfältiger
+
+(Fundstelle: BGBl. I 2019, 1828 — 1833)
+
+
+*    *   Rest-
+        nutzungs-
+        dauer
+        **(Jahre)**
+
+    *   **Zinssatz**
+
+
+*    *   **1,5 %**
+
+    *   **1,6 %**
+
+    *   **1,7 %**
+
+    *   **1,8 %**
+
+    *   **1,9 %**
+
+    *   **2,0 %**
+
+    *   **2,1 %**
+
+    *   **2,2 %**
+
+    *   **2,3 %**
+
+    *   **2,4 %**
+
+    *   **2,5 %**
+
+
+*    *   1
+
+    *   0,99
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+    *   0,98
+
+
+*    *   2
+
+    *   1,96
+
+    *   1,95
+
+    *   1,95
+
+    *   1,95
+
+    *   1,94
+
+    *   1,94
+
+    *   1,94
+
+    *   1,94
+
+    *   1,93
+
+    *   1,93
+
+    *   1,93
+
+
+*    *   3
+
+    *   2,91
+
+    *   2,91
+
+    *   2,90
+
+    *   2,90
+
+    *   2,89
+
+    *   2,88
+
+    *   2,88
+
+    *   2,87
+
+    *   2,87
+
+    *   2,86
+
+    *   2,86
+
+
+*    *   4
+
+    *   3,85
+
+    *   3,84
+
+    *   3,84
+
+    *   3,83
+
+    *   3,82
+
+    *   3,81
+
+    *   3,80
+
+    *   3,79
+
+    *   3,78
+
+    *   3,77
+
+    *   3,76
+
+
+*    *   5
+
+    *   4,78
+
+    *   4,77
+
+    *   4,75
+
+    *   4,74
+
+    *   4,73
+
+    *   4,71
+
+    *   4,70
+
+    *   4,69
+
+    *   4,67
+
+    *   4,66
+
+    *   4,65
+
+
+*    *   6
+
+    *   5,70
+
+    *   5,68
+
+    *   5,66
+
+    *   5,64
+
+    *   5,62
+
+    *   5,60
+
+    *   5,58
+
+    *   5,56
+
+    *   5,55
+
+    *   5,53
+
+    *   5,51
+
+
+*    *   7
+
+    *   6,60
+
+    *   6,57
+
+    *   6,55
+
+    *   6,52
+
+    *   6,50
+
+    *   6,47
+
+    *   6,45
+
+    *   6,42
+
+    *   6,40
+
+    *   6,37
+
+    *   6,35
+
+
+*    *   8
+
+    *   7,49
+
+    *   7,45
+
+    *   7,42
+
+    *   7,39
+
+    *   7,36
+
+    *   7,33
+
+    *   7,29
+
+    *   7,26
+
+    *   7,23
+
+    *   7,20
+
+    *   7,17
+
+
+*    *   9
+
+    *   8,36
+
+    *   8,32
+
+    *   8,28
+
+    *   8,24
+
+    *   8,20
+
+    *   8,16
+
+    *   8,12
+
+    *   8,08
+
+    *   8,05
+
+    *   8,01
+
+    *   7,97
+
+
+*    *   10
+
+    *   9,22
+
+    *   9,17
+
+    *   9,13
+
+    *   9,08
+
+    *   9,03
+
+    *   8,98
+
+    *   8,94
+
+    *   8,89
+
+    *   8,84
+
+    *   8,80
+
+    *   8,75
+
+
+*    *   11
+
+    *   10,07
+
+    *   10,01
+
+    *   9,96
+
+    *   9,90
+
+    *   9,84
+
+    *   9,79
+
+    *   9,73
+
+    *   9,68
+
+    *   9,62
+
+    *   9,57
+
+    *   9,51
+
+
+*    *   12
+
+    *   10,91
+
+    *   10,84
+
+    *   10,77
+
+    *   10,71
+
+    *   10,64
+
+    *   10,58
+
+    *   10,51
+
+    *   10,45
+
+    *   10,38
+
+    *   10,32
+
+    *   10,26
+
+
+*    *   13
+
+    *   11,73
+
+    *   11,65
+
+    *   11,58
+
+    *   11,50
+
+    *   11,42
+
+    *   11,35
+
+    *   11,27
+
+    *   11,20
+
+    *   11,13
+
+    *   11,05
+
+    *   10,98
+
+
+*    *   14
+
+    *   12,54
+
+    *   12,45
+
+    *   12,37
+
+    *   12,28
+
+    *   12,19
+
+    *   12,11
+
+    *   12,02
+
+    *   11,94
+
+    *   11,85
+
+    *   11,77
+
+    *   11,69
+
+
+*    *   15
+
+    *   13,34
+
+    *   13,24
+
+    *   13,14
+
+    *   13,04
+
+    *   12,95
+
+    *   12,85
+
+    *   12,75
+
+    *   12,66
+
+    *   12,57
+
+    *   12,47
+
+    *   12,38
+
+
+*    *   16
+
+    *   14,13
+
+    *   14,02
+
+    *   13,91
+
+    *   13,80
+
+    *   13,69
+
+    *   13,58
+
+    *   13,47
+
+    *   13,37
+
+    *   13,26
+
+    *   13,16
+
+    *   13,06
+
+
+*    *   17
+
+    *   14,91
+
+    *   14,78
+
+    *   14,66
+
+    *   14,53
+
+    *   14,41
+
+    *   14,29
+
+    *   14,17
+
+    *   14,06
+
+    *   13,94
+
+    *   13,83
+
+    *   13,71
+
+
+*    *   18
+
+    *   15,67
+
+    *   15,53
+
+    *   15,40
+
+    *   15,26
+
+    *   15,12
+
+    *   14,99
+
+    *   14,86
+
+    *   14,73
+
+    *   14,60
+
+    *   14,48
+
+    *   14,35
+
+
+*    *   19
+
+    *   16,43
+
+    *   16,27
+
+    *   16,12
+
+    *   15,97
+
+    *   15,82
+
+    *   15,68
+
+    *   15,53
+
+    *   15,39
+
+    *   15,25
+
+    *   15,12
+
+    *   14,98
+
+
+*    *   20
+
+    *   17,17
+
+    *   17,00
+
+    *   16,83
+
+    *   16,67
+
+    *   16,51
+
+    *   16,35
+
+    *   16,19
+
+    *   16,04
+
+    *   15,89
+
+    *   15,74
+
+    *   15,59
+
+
+*    *   21
+
+    *   17,90
+
+    *   17,72
+
+    *   17,54
+
+    *   17,36
+
+    *   17,18
+
+    *   17,01
+
+    *   16,84
+
+    *   16,67
+
+    *   16,51
+
+    *   16,35
+
+    *   16,18
+
+
+*    *   22
+
+    *   18,62
+
+    *   18,42
+
+    *   18,23
+
+    *   18,03
+
+    *   17,84
+
+    *   17,66
+
+    *   17,47
+
+    *   17,29
+
+    *   17,11
+
+    *   16,94
+
+    *   16,77
+
+
+*    *   23
+
+    *   19,33
+
+    *   19,12
+
+    *   18,91
+
+    *   18,70
+
+    *   18,49
+
+    *   18,29
+
+    *   18,09
+
+    *   17,90
+
+    *   17,71
+
+    *   17,52
+
+    *   17,33
+
+
+*    *   24
+
+    *   20,03
+
+    *   19,80
+
+    *   19,57
+
+    *   19,35
+
+    *   19,13
+
+    *   18,91
+
+    *   18,70
+
+    *   18,49
+
+    *   18,29
+
+    *   18,08
+
+    *   17,88
+
+
+*    *   25
+
+    *   20,72
+
+    *   20,47
+
+    *   20,23
+
+    *   19,99
+
+    *   19,75
+
+    *   19,52
+
+    *   19,30
+
+    *   19,07
+
+    *   18,85
+
+    *   18,64
+
+    *   18,42
+
+
+*    *   26
+
+    *   21,40
+
+    *   21,13
+
+    *   20,87
+
+    *   20,62
+
+    *   20,37
+
+    *   20,12
+
+    *   19,88
+
+    *   19,64
+
+    *   19,41
+
+    *   19,18
+
+    *   18,95
+
+
+*    *   27
+
+    *   22,07
+
+    *   21,79
+
+    *   21,51
+
+    *   21,24
+
+    *   20,97
+
+    *   20,71
+
+    *   20,45
+
+    *   20,20
+
+    *   19,95
+
+    *   19,70
+
+    *   19,46
+
+
+*    *   28
+
+    *   22,73
+
+    *   22,43
+
+    *   22,13
+
+    *   21,84
+
+    *   21,56
+
+    *   21,28
+
+    *   21,01
+
+    *   20,74
+
+    *   20,48
+
+    *   20,22
+
+    *   19,96
+
+
+*    *   29
+
+    *   23,38
+
+    *   23,06
+
+    *   22,75
+
+    *   22,44
+
+    *   22,14
+
+    *   21,84
+
+    *   21,56
+
+    *   21,27
+
+    *   20,99
+
+    *   20,72
+
+    *   20,45
+
+
+*    *   30
+
+    *   24,02
+
+    *   23,68
+
+    *   23,35
+
+    *   23,02
+
+    *   22,71
+
+    *   22,40
+
+    *   22,09
+
+    *   21,79
+
+    *   21,50
+
+    *   21,21
+
+    *   20,93
+
+
+*    *   31
+
+    *   24,65
+
+    *   24,29
+
+    *   23,94
+
+    *   23,60
+
+    *   23,27
+
+    *   22,94
+
+    *   22,62
+
+    *   22,30
+
+    *   21,99
+
+    *   21,69
+
+    *   21,40
+
+
+*    *   32
+
+    *   25,27
+
+    *   24,89
+
+    *   24,52
+
+    *   24,17
+
+    *   23,81
+
+    *   23,47
+
+    *   23,13
+
+    *   22,80
+
+    *   22,48
+
+    *   22,16
+
+    *   21,85
+
+
+*    *   33
+
+    *   25,88
+
+    *   25,48
+
+    *   25,10
+
+    *   24,72
+
+    *   24,35
+
+    *   23,99
+
+    *   23,63
+
+    *   23,29
+
+    *   22,95
+
+    *   22,62
+
+    *   22,29
+
+
+*    *   34
+
+    *   26,48
+
+    *   26,07
+
+    *   25,66
+
+    *   25,27
+
+    *   24,88
+
+    *   24,50
+
+    *   24,13
+
+    *   23,77
+
+    *   23,41
+
+    *   23,06
+
+    *   22,72
+
+
+*    *   35
+
+    *   27,08
+
+    *   26,64
+
+    *   26,22
+
+    *   25,80
+
+    *   25,40
+
+    *   25,00
+
+    *   24,61
+
+    *   24,23
+
+    *   23,86
+
+    *   23,50
+
+    *   23,15
+
+
+*    *   36
+
+    *   27,66
+
+    *   27,21
+
+    *   26,76
+
+    *   26,33
+
+    *   25,90
+
+    *   25,49
+
+    *   25,08
+
+    *   24,69
+
+    *   24,30
+
+    *   23,93
+
+    *   23,56
+
+
+*    *   37
+
+    *   28,24
+
+    *   27,76
+
+    *   27,30
+
+    *   26,84
+
+    *   26,40
+
+    *   25,97
+
+    *   25,55
+
+    *   25,14
+
+    *   24,73
+
+    *   24,34
+
+    *   23,96
+
+
+*    *   38
+
+    *   28,81
+
+    *   28,31
+
+    *   27,82
+
+    *   27,35
+
+    *   26,89
+
+    *   26,44
+
+    *   26,00
+
+    *   25,57
+
+    *   25,16
+
+    *   24,75
+
+    *   24,35
+
+
+*    *   39
+
+    *   29,36
+
+    *   28,85
+
+    *   28,34
+
+    *   27,85
+
+    *   27,37
+
+    *   26,90
+
+    *   26,45
+
+    *   26,00
+
+    *   25,57
+
+    *   25,14
+
+    *   24,73
+
+
+*    *   40
+
+    *   29,92
+
+    *   29,38
+
+    *   28,85
+
+    *   28,34
+
+    *   27,84
+
+    *   27,36
+
+    *   26,88
+
+    *   26,42
+
+    *   25,97
+
+    *   25,53
+
+    *   25,10
+
+
+*    *   41
+
+    *   30,46
+
+    *   29,90
+
+    *   29,35
+
+    *   28,82
+
+    *   28,30
+
+    *   27,80
+
+    *   27,31
+
+    *   26,83
+
+    *   26,36
+
+    *   25,91
+
+    *   25,47
+
+
+*    *   42
+
+    *   30,99
+
+    *   30,41
+
+    *   29,85
+
+    *   29,29
+
+    *   28,76
+
+    *   28,23
+
+    *   27,73
+
+    *   27,23
+
+    *   26,75
+
+    *   26,28
+
+    *   25,82
+
+
+*    *   43
+
+    *   31,52
+
+    *   30,92
+
+    *   30,33
+
+    *   29,76
+
+    *   29,20
+
+    *   28,66
+
+    *   28,14
+
+    *   27,62
+
+    *   27,12
+
+    *   26,64
+
+    *   26,17
+
+
+*    *   44
+
+    *   32,04
+
+    *   31,41
+
+    *   30,81
+
+    *   30,21
+
+    *   29,64
+
+    *   29,08
+
+    *   28,54
+
+    *   28,01
+
+    *   27,49
+
+    *   26,99
+
+    *   26,50
+
+
+*    *   45
+
+    *   32,55
+
+    *   31,90
+
+    *   31,27
+
+    *   30,66
+
+    *   30,07
+
+    *   29,49
+
+    *   28,93
+
+    *   28,38
+
+    *   27,85
+
+    *   27,34
+
+    *   26,83
+
+
+*    *   46
+
+    *   33,06
+
+    *   32,39
+
+    *   31,73
+
+    *   31,10
+
+    *   30,49
+
+    *   29,89
+
+    *   29,31
+
+    *   28,75
+
+    *   28,20
+
+    *   27,67
+
+    *   27,15
+
+
+*    *   47
+
+    *   33,55
+
+    *   32,86
+
+    *   32,19
+
+    *   31,54
+
+    *   30,90
+
+    *   30,29
+
+    *   29,69
+
+    *   29,11
+
+    *   28,55
+
+    *   28,00
+
+    *   27,47
+
+
+*    *   48
+
+    *   34,04
+
+    *   33,33
+
+    *   32,63
+
+    *   31,96
+
+    *   31,31
+
+    *   30,67
+
+    *   30,06
+
+    *   29,46
+
+    *   28,88
+
+    *   28,32
+
+    *   27,77
+
+
+*    *   49
+
+    *   34,52
+
+    *   33,79
+
+    *   33,07
+
+    *   32,38
+
+    *   31,70
+
+    *   31,05
+
+    *   30,42
+
+    *   29,81
+
+    *   29,21
+
+    *   28,63
+
+    *   28,07
+
+
+*    *   50
+
+    *   35,00
+
+    *   34,24
+
+    *   33,50
+
+    *   32,79
+
+    *   32,09
+
+    *   31,42
+
+    *   30,77
+
+    *   30,14
+
+    *   29,53
+
+    *   28,94
+
+    *   28,36
+
+
+*    *   51
+
+    *   35,47
+
+    *   34,68
+
+    *   33,92
+
+    *   33,19
+
+    *   32,48
+
+    *   31,79
+
+    *   31,12
+
+    *   30,47
+
+    *   29,84
+
+    *   29,24
+
+    *   28,65
+
+
+*    *   52
+
+    *   35,93
+
+    *   35,12
+
+    *   34,34
+
+    *   33,58
+
+    *   32,85
+
+    *   32,14
+
+    *   31,46
+
+    *   30,79
+
+    *   30,15
+
+    *   29,53
+
+    *   28,92
+
+
+*    *   53
+
+    *   36,38
+
+    *   35,55
+
+    *   34,75
+
+    *   33,97
+
+    *   33,22
+
+    *   32,50
+
+    *   31,79
+
+    *   31,11
+
+    *   30,45
+
+    *   29,81
+
+    *   29,19
+
+
+*    *   54
+
+    *   36,83
+
+    *   35,98
+
+    *   35,15
+
+    *   34,35
+
+    *   33,58
+
+    *   32,84
+
+    *   32,12
+
+    *   31,42
+
+    *   30,74
+
+    *   30,09
+
+    *   29,46
+
+
+*    *   55
+
+    *   37,27
+
+    *   36,39
+
+    *   35,55
+
+    *   34,73
+
+    *   33,94
+
+    *   33,17
+
+    *   32,44
+
+    *   31,72
+
+    *   31,03
+
+    *   30,36
+
+    *   29,71
+
+
+*    *   56
+
+    *   37,71
+
+    *   36,81
+
+    *   35,94
+
+    *   35,10
+
+    *   34,29
+
+    *   33,50
+
+    *   32,75
+
+    *   32,02
+
+    *   31,31
+
+    *   30,63
+
+    *   29,96
+
+
+*    *   57
+
+    *   38,13
+
+    *   37,21
+
+    *   36,32
+
+    *   35,46
+
+    *   34,63
+
+    *   33,83
+
+    *   33,05
+
+    *   32,31
+
+    *   31,58
+
+    *   30,88
+
+    *   30,21
+
+
+*    *   58
+
+    *   38,56
+
+    *   37,61
+
+    *   36,70
+
+    *   35,82
+
+    *   34,97
+
+    *   34,15
+
+    *   33,35
+
+    *   32,59
+
+    *   31,85
+
+    *   31,14
+
+    *   30,45
+
+
+*    *   59
+
+    *   38,97
+
+    *   38,00
+
+    *   37,07
+
+    *   36,16
+
+    *   35,29
+
+    *   34,46
+
+    *   33,65
+
+    *   32,87
+
+    *   32,11
+
+    *   31,38
+
+    *   30,68
+
+
+*    *   60
+
+    *   39,38
+
+    *   38,39
+
+    *   37,43
+
+    *   36,51
+
+    *   35,62
+
+    *   34,76
+
+    *   33,93
+
+    *   33,14
+
+    *   32,37
+
+    *   31,63
+
+    *   30,91
+
+
+*    *   61
+
+    *   39,78
+
+    *   38,77
+
+    *   37,79
+
+    *   36,84
+
+    *   35,94
+
+    *   35,06
+
+    *   34,22
+
+    *   33,40
+
+    *   32,62
+
+    *   31,86
+
+    *   31,13
+
+
+*    *   62
+
+    *   40,18
+
+    *   39,14
+
+    *   38,14
+
+    *   37,17
+
+    *   36,25
+
+    *   35,35
+
+    *   34,49
+
+    *   33,66
+
+    *   32,86
+
+    *   32,09
+
+    *   31,35
+
+
+*    *   63
+
+    *   40,57
+
+    *   39,51
+
+    *   38,48
+
+    *   37,50
+
+    *   36,55
+
+    *   35,64
+
+    *   34,76
+
+    *   33,92
+
+    *   33,10
+
+    *   32,31
+
+    *   31,56
+
+
+*    *   64
+
+    *   40,96
+
+    *   39,87
+
+    *   38,82
+
+    *   37,82
+
+    *   36,85
+
+    *   35,92
+
+    *   35,03
+
+    *   34,16
+
+    *   33,33
+
+    *   32,53
+
+    *   31,76
+
+
+*    *   65
+
+    *   41,34
+
+    *   40,23
+
+    *   39,16
+
+    *   38,13
+
+    *   37,15
+
+    *   36,20
+
+    *   35,28
+
+    *   34,41
+
+    *   33,56
+
+    *   32,75
+
+    *   31,96
+
+
+*    *   66
+
+    *   41,71
+
+    *   40,58
+
+    *   39,49
+
+    *   38,44
+
+    *   37,43
+
+    *   36,47
+
+    *   35,54
+
+    *   34,64
+
+    *   33,78
+
+    *   32,96
+
+    *   32,16
+
+
+*    *   67
+
+    *   42,08
+
+    *   40,92
+
+    *   39,81
+
+    *   38,74
+
+    *   37,72
+
+    *   36,73
+
+    *   35,79
+
+    *   34,88
+
+    *   34,00
+
+    *   33,16
+
+    *   32,35
+
+
+*    *   68
+
+    *   42,44
+
+    *   41,26
+
+    *   40,13
+
+    *   39,04
+
+    *   38,00
+
+    *   36,99
+
+    *   36,03
+
+    *   35,11
+
+    *   34,22
+
+    *   33,36
+
+    *   32,54
+
+
+*    *   69
+
+    *   42,80
+
+    *   41,60
+
+    *   40,44
+
+    *   39,33
+
+    *   38,27
+
+    *   37,25
+
+    *   36,27
+
+    *   35,33
+
+    *   34,42
+
+    *   33,56
+
+    *   32,72
+
+
+*    *   70
+
+    *   43,15
+
+    *   41,93
+
+    *   40,75
+
+    *   39,62
+
+    *   38,54
+
+    *   37,50
+
+    *   36,50
+
+    *   35,55
+
+    *   34,63
+
+    *   33,75
+
+    *   32,90
+
+
+*    *   71
+
+    *   43,50
+
+    *   42,25
+
+    *   41,05
+
+    *   39,90
+
+    *   38,80
+
+    *   37,74
+
+    *   36,73
+
+    *   35,76
+
+    *   34,83
+
+    *   33,93
+
+    *   33,07
+
+
+*    *   72
+
+    *   43,84
+
+    *   42,57
+
+    *   41,35
+
+    *   40,18
+
+    *   39,06
+
+    *   37,98
+
+    *   36,95
+
+    *   35,97
+
+    *   35,02
+
+    *   34,11
+
+    *   33,24
+
+
+*    *   73
+
+    *   44,18
+
+    *   42,88
+
+    *   41,64
+
+    *   40,45
+
+    *   39,31
+
+    *   38,22
+
+    *   37,17
+
+    *   36,17
+
+    *   35,21
+
+    *   34,29
+
+    *   33,40
+
+
+*    *   74
+
+    *   44,51
+
+    *   43,19
+
+    *   41,93
+
+    *   40,72
+
+    *   39,56
+
+    *   38,45
+
+    *   37,39
+
+    *   36,37
+
+    *   35,40
+
+    *   34,46
+
+    *   33,57
+
+
+*    *   75
+
+    *   44,84
+
+    *   43,50
+
+    *   42,21
+
+    *   40,98
+
+    *   39,80
+
+    *   38,68
+
+    *   37,60
+
+    *   36,57
+
+    *   35,58
+
+    *   34,63
+
+    *   33,72
+
+
+*    *   76
+
+    *   45,16
+
+    *   43,79
+
+    *   42,49
+
+    *   41,24
+
+    *   40,04
+
+    *   38,90
+
+    *   37,81
+
+    *   36,76
+
+    *   35,76
+
+    *   34,80
+
+    *   33,88
+
+
+*    *   77
+
+    *   45,48
+
+    *   44,09
+
+    *   42,76
+
+    *   41,49
+
+    *   40,28
+
+    *   39,12
+
+    *   38,01
+
+    *   36,95
+
+    *   35,93
+
+    *   34,96
+
+    *   34,03
+
+
+*    *   78
+
+    *   45,79
+
+    *   44,38
+
+    *   43,03
+
+    *   41,74
+
+    *   40,51
+
+    *   39,33
+
+    *   38,21
+
+    *   37,13
+
+    *   36,10
+
+    *   35,11
+
+    *   34,17
+
+
+*    *   79
+
+    *   46,10
+
+    *   44,66
+
+    *   43,29
+
+    *   41,98
+
+    *   40,73
+
+    *   39,54
+
+    *   38,40
+
+    *   37,31
+
+    *   36,27
+
+    *   35,27
+
+    *   34,31
+
+
+*    *   80
+
+    *   46,41
+
+    *   44,95
+
+    *   43,55
+
+    *   42,22
+
+    *   40,96
+
+    *   39,74
+
+    *   38,59
+
+    *   37,48
+
+    *   36,43
+
+    *   35,42
+
+    *   34,45
+
+
+*    *   81
+
+    *   46,71
+
+    *   45,22
+
+    *   43,81
+
+    *   42,46
+
+    *   41,17
+
+    *   39,95
+
+    *   38,77
+
+    *   37,66
+
+    *   36,59
+
+    *   35,56
+
+    *   34,59
+
+
+*    *   82
+
+    *   47,00
+
+    *   45,49
+
+    *   44,06
+
+    *   42,69
+
+    *   41,39
+
+    *   40,14
+
+    *   38,96
+
+    *   37,82
+
+    *   36,74
+
+    *   35,71
+
+    *   34,72
+
+
+*    *   83
+
+    *   47,29
+
+    *   45,76
+
+    *   44,31
+
+    *   42,92
+
+    *   41,60
+
+    *   40,34
+
+    *   39,13
+
+    *   37,99
+
+    *   36,89
+
+    *   35,85
+
+    *   34,85
+
+
+*    *   84
+
+    *   47,58
+
+    *   46,03
+
+    *   44,55
+
+    *   43,14
+
+    *   41,80
+
+    *   40,53
+
+    *   39,31
+
+    *   38,15
+
+    *   37,04
+
+    *   35,98
+
+    *   34,97
+
+
+*    *   85
+
+    *   47,86
+
+    *   46,29
+
+    *   44,79
+
+    *   43,36
+
+    *   42,00
+
+    *   40,71
+
+    *   39,48
+
+    *   38,31
+
+    *   37,19
+
+    *   36,12
+
+    *   35,10
+
+
+*    *   86
+
+    *   48,14
+
+    *   46,54
+
+    *   45,02
+
+    *   43,58
+
+    *   42,20
+
+    *   40,89
+
+    *   39,65
+
+    *   38,46
+
+    *   37,33
+
+    *   36,25
+
+    *   35,22
+
+
+*    *   87
+
+    *   48,41
+
+    *   46,79
+
+    *   45,25
+
+    *   43,79
+
+    *   42,40
+
+    *   41,07
+
+    *   39,81
+
+    *   38,61
+
+    *   37,47
+
+    *   36,37
+
+    *   35,33
+
+
+*    *   88
+
+    *   48,68
+
+    *   47,04
+
+    *   45,48
+
+    *   44,00
+
+    *   42,59
+
+    *   41,25
+
+    *   39,97
+
+    *   38,76
+
+    *   37,60
+
+    *   36,50
+
+    *   35,45
+
+
+*    *   89
+
+    *   48,95
+
+    *   47,28
+
+    *   45,70
+
+    *   44,20
+
+    *   42,77
+
+    *   41,42
+
+    *   40,13
+
+    *   38,90
+
+    *   37,73
+
+    *   36,62
+
+    *   35,56
+
+
+*    *   90
+
+    *   49,21
+
+    *   47,52
+
+    *   45,92
+
+    *   44,40
+
+    *   42,96
+
+    *   41,59
+
+    *   40,28
+
+    *   39,04
+
+    *   37,86
+
+    *   36,74
+
+    *   35,67
+
+
+*    *   91
+
+    *   49,47
+
+    *   47,76
+
+    *   46,14
+
+    *   44,60
+
+    *   43,14
+
+    *   41,75
+
+    *   40,43
+
+    *   39,18
+
+    *   37,99
+
+    *   36,85
+
+    *   35,77
+
+
+*    *   92
+
+    *   49,72
+
+    *   47,99
+
+    *   46,35
+
+    *   44,79
+
+    *   43,32
+
+    *   41,91
+
+    *   40,58
+
+    *   39,32
+
+    *   38,11
+
+    *   36,97
+
+    *   35,87
+
+
+*    *   93
+
+    *   49,97
+
+    *   48,22
+
+    *   46,56
+
+    *   44,98
+
+    *   43,49
+
+    *   42,07
+
+    *   40,73
+
+    *   39,45
+
+    *   38,23
+
+    *   37,08
+
+    *   35,98
+
+
+*    *   94
+
+    *   50,22
+
+    *   48,44
+
+    *   46,76
+
+    *   45,17
+
+    *   43,66
+
+    *   42,23
+
+    *   40,87
+
+    *   39,58
+
+    *   38,35
+
+    *   37,18
+
+    *   36,07
+
+
+*    *   95
+
+    *   50,46
+
+    *   48,67
+
+    *   46,96
+
+    *   45,35
+
+    *   43,83
+
+    *   42,38
+
+    *   41,01
+
+    *   39,70
+
+    *   38,47
+
+    *   37,29
+
+    *   36,17
+
+
+*    *   96
+
+    *   50,70
+
+    *   48,88
+
+    *   47,16
+
+    *   45,53
+
+    *   43,99
+
+    *   42,53
+
+    *   41,14
+
+    *   39,83
+
+    *   38,58
+
+    *   37,39
+
+    *   36,26
+
+
+*    *   97
+
+    *   50,94
+
+    *   49,10
+
+    *   47,36
+
+    *   45,71
+
+    *   44,15
+
+    *   42,68
+
+    *   41,28
+
+    *   39,95
+
+    *   38,69
+
+    *   37,49
+
+    *   36,35
+
+
+*    *   98
+
+    *   51,17
+
+    *   49,31
+
+    *   47,55
+
+    *   45,89
+
+    *   44,31
+
+    *   42,82
+
+    *   41,41
+
+    *   40,07
+
+    *   38,80
+
+    *   37,59
+
+    *   36,44
+
+
+*    *   99
+
+    *   51,40
+
+    *   49,52
+
+    *   47,74
+
+    *   46,06
+
+    *   44,47
+
+    *   42,96
+
+    *   41,53
+
+    *   40,18
+
+    *   38,90
+
+    *   37,68
+
+    *   36,53
+
+
+*    *   100
+
+    *   51,62
+
+    *   49,72
+
+    *   47,92
+
+    *   46,22
+
+    *   44,62
+
+    *   43,10
+
+    *   41,66
+
+    *   40,30
+
+    *   39,00
+
+    *   37,78
+
+    *   36,61
+
+
+
+
+*    *   Rest-
+        nutzungs-
+        dauer
+        **(Jahre)**
+
+    *   **Zinssatz**
+
+
+*    *   **2,6 %**
+
+    *   **2,7 %**
+
+    *   **2,8 %**
+
+    *   **2,9 %**
+
+    *   **3,0 %**
+
+    *   **3,5 %**
+
+    *   **4 %**
+
+    *   **4,5 %**
+
+
+*    *   1
+
+    *   0,97
+
+    *   0,97
+
+    *   0,97
+
+    *   0,97
+
+    *   0,97
+
+    *   0,97
+
+    *   0,96
+
+    *   0,96
+
+
+*    *   2
+
+    *   1,92
+
+    *   1,92
+
+    *   1,92
+
+    *   1,92
+
+    *   1,91
+
+    *   1,90
+
+    *   1,89
+
+    *   1,87
+
+
+*    *   3
+
+    *   2,85
+
+    *   2,85
+
+    *   2,84
+
+    *   2,83
+
+    *   2,83
+
+    *   2,80
+
+    *   2,78
+
+    *   2,75
+
+
+*    *   4
+
+    *   3,75
+
+    *   3,74
+
+    *   3,73
+
+    *   3,73
+
+    *   3,72
+
+    *   3,67
+
+    *   3,63
+
+    *   3,59
+
+
+*    *   5
+
+    *   4,63
+
+    *   4,62
+
+    *   4,61
+
+    *   4,59
+
+    *   4,58
+
+    *   4,52
+
+    *   4,45
+
+    *   4,39
+
+
+*    *   6
+
+    *   5,49
+
+    *   5,47
+
+    *   5,45
+
+    *   5,44
+
+    *   5,42
+
+    *   5,33
+
+    *   5,24
+
+    *   5,16
+
+
+*    *   7
+
+    *   6,33
+
+    *   6,30
+
+    *   6,28
+
+    *   6,25
+
+    *   6,23
+
+    *   6,11
+
+    *   6,00
+
+    *   5,89
+
+
+*    *   8
+
+    *   7,14
+
+    *   7,11
+
+    *   7,08
+
+    *   7,05
+
+    *   7,02
+
+    *   6,87
+
+    *   6,73
+
+    *   6,60
+
+
+*    *   9
+
+    *   7,93
+
+    *   7,90
+
+    *   7,86
+
+    *   7,82
+
+    *   7,79
+
+    *   7,61
+
+    *   7,44
+
+    *   7,27
+
+
+*    *   10
+
+    *   8,71
+
+    *   8,66
+
+    *   8,62
+
+    *   8,57
+
+    *   8,53
+
+    *   8,32
+
+    *   8,11
+
+    *   7,91
+
+
+*    *   11
+
+    *   9,46
+
+    *   9,41
+
+    *   9,36
+
+    *   9,30
+
+    *   9,25
+
+    *   9,00
+
+    *   8,76
+
+    *   8,53
+
+
+*    *   12
+
+    *   10,20
+
+    *   10,13
+
+    *   10,07
+
+    *   10,01
+
+    *   9,95
+
+    *   9,66
+
+    *   9,39
+
+    *   9,12
+
+
+*    *   13
+
+    *   10,91
+
+    *   10,84
+
+    *   10,77
+
+    *   10,70
+
+    *   10,63
+
+    *   10,30
+
+    *   9,99
+
+    *   9,68
+
+
+*    *   14
+
+    *   11,61
+
+    *   11,53
+
+    *   11,45
+
+    *   11,37
+
+    *   11,30
+
+    *   10,92
+
+    *   10,56
+
+    *   10,22
+
+
+*    *   15
+
+    *   12,29
+
+    *   12,20
+
+    *   12,11
+
+    *   12,02
+
+    *   11,94
+
+    *   11,52
+
+    *   11,12
+
+    *   10,74
+
+
+*    *   16
+
+    *   12,95
+
+    *   12,85
+
+    *   12,76
+
+    *   12,66
+
+    *   12,56
+
+    *   12,09
+
+    *   11,65
+
+    *   11,23
+
+
+*    *   17
+
+    *   13,60
+
+    *   13,49
+
+    *   13,38
+
+    *   13,27
+
+    *   13,17
+
+    *   12,65
+
+    *   12,17
+
+    *   11,71
+
+
+*    *   18
+
+    *   14,23
+
+    *   14,11
+
+    *   13,99
+
+    *   13,87
+
+    *   13,75
+
+    *   13,19
+
+    *   12,66
+
+    *   12,16
+
+
+*    *   19
+
+    *   14,84
+
+    *   14,71
+
+    *   14,58
+
+    *   14,45
+
+    *   14,32
+
+    *   13,71
+
+    *   13,13
+
+    *   12,59
+
+
+*    *   20
+
+    *   15,44
+
+    *   15,30
+
+    *   15,16
+
+    *   15,02
+
+    *   14,88
+
+    *   14,21
+
+    *   13,59
+
+    *   13,01
+
+
+*    *   21
+
+    *   16,03
+
+    *   15,87
+
+    *   15,72
+
+    *   15,56
+
+    *   15,42
+
+    *   14,70
+
+    *   14,03
+
+    *   13,40
+
+
+*    *   22
+
+    *   16,59
+
+    *   16,43
+
+    *   16,26
+
+    *   16,10
+
+    *   15,94
+
+    *   15,17
+
+    *   14,45
+
+    *   13,78
+
+
+*    *   23
+
+    *   17,15
+
+    *   16,97
+
+    *   16,79
+
+    *   16,62
+
+    *   16,44
+
+    *   15,62
+
+    *   14,86
+
+    *   14,15
+
+
+*    *   24
+
+    *   17,69
+
+    *   17,50
+
+    *   17,31
+
+    *   17,12
+
+    *   16,94
+
+    *   16,06
+
+    *   15,25
+
+    *   14,50
+
+
+*    *   25
+
+    *   18,22
+
+    *   18,01
+
+    *   17,81
+
+    *   17,61
+
+    *   17,41
+
+    *   16,48
+
+    *   15,62
+
+    *   14,83
+
+
+*    *   26
+
+    *   18,73
+
+    *   18,51
+
+    *   18,30
+
+    *   18,08
+
+    *   17,88
+
+    *   16,89
+
+    *   15,98
+
+    *   15,15
+
+
+*    *   27
+
+    *   19,23
+
+    *   19,00
+
+    *   18,77
+
+    *   18,55
+
+    *   18,33
+
+    *   17,29
+
+    *   16,33
+
+    *   15,45
+
+
+*    *   28
+
+    *   19,72
+
+    *   19,47
+
+    *   19,23
+
+    *   19,00
+
+    *   18,76
+
+    *   17,67
+
+    *   16,66
+
+    *   15,74
+
+
+*    *   29
+
+    *   20,19
+
+    *   19,93
+
+    *   19,68
+
+    *   19,43
+
+    *   19,19
+
+    *   18,04
+
+    *   16,98
+
+    *   16,02
+
+
+*    *   30
+
+    *   20,65
+
+    *   20,38
+
+    *   20,12
+
+    *   19,86
+
+    *   19,60
+
+    *   18,39
+
+    *   17,29
+
+    *   16,29
+
+
+*    *   31
+
+    *   21,11
+
+    *   20,82
+
+    *   20,54
+
+    *   20,27
+
+    *   20,00
+
+    *   18,74
+
+    *   17,59
+
+    *   16,54
+
+
+*    *   32
+
+    *   21,55
+
+    *   21,25
+
+    *   20,96
+
+    *   20,67
+
+    *   20,39
+
+    *   19,07
+
+    *   17,87
+
+    *   16,79
+
+
+*    *   33
+
+    *   21,97
+
+    *   21,66
+
+    *   21,36
+
+    *   21,06
+
+    *   20,77
+
+    *   19,39
+
+    *   18,15
+
+    *   17,02
+
+
+*    *   34
+
+    *   22,39
+
+    *   22,07
+
+    *   21,75
+
+    *   21,44
+
+    *   21,13
+
+    *   19,70
+
+    *   18,41
+
+    *   17,25
+
+
+*    *   35
+
+    *   22,80
+
+    *   22,46
+
+    *   22,13
+
+    *   21,80
+
+    *   21,49
+
+    *   20,00
+
+    *   18,66
+
+    *   17,46
+
+
+*    *   36
+
+    *   23,20
+
+    *   22,84
+
+    *   22,50
+
+    *   22,16
+
+    *   21,83
+
+    *   20,29
+
+    *   18,91
+
+    *   17,67
+
+
+*    *   37
+
+    *   23,58
+
+    *   23,22
+
+    *   22,86
+
+    *   22,51
+
+    *   22,17
+
+    *   20,57
+
+    *   19,14
+
+    *   17,86
+
+
+*    *   38
+
+    *   23,96
+
+    *   23,58
+
+    *   23,21
+
+    *   22,85
+
+    *   22,49
+
+    *   20,84
+
+    *   19,37
+
+    *   18,05
+
+
+*    *   39
+
+    *   24,33
+
+    *   23,93
+
+    *   23,55
+
+    *   23,17
+
+    *   22,81
+
+    *   21,10
+
+    *   19,58
+
+    *   18,23
+
+
+*    *   40
+
+    *   24,69
+
+    *   24,28
+
+    *   23,88
+
+    *   23,49
+
+    *   23,11
+
+    *   21,36
+
+    *   19,79
+
+    *   18,40
+
+
+*    *   41
+
+    *   25,03
+
+    *   24,61
+
+    *   24,20
+
+    *   23,80
+
+    *   23,41
+
+    *   21,60
+
+    *   19,99
+
+    *   18,57
+
+
+*    *   42
+
+    *   25,37
+
+    *   24,94
+
+    *   24,52
+
+    *   24,10
+
+    *   23,70
+
+    *   21,83
+
+    *   20,19
+
+    *   18,72
+
+
+*    *   43
+
+    *   25,71
+
+    *   25,26
+
+    *   24,82
+
+    *   24,40
+
+    *   23,98
+
+    *   22,06
+
+    *   20,37
+
+    *   18,87
+
+
+*    *   44
+
+    *   26,03
+
+    *   25,57
+
+    *   25,12
+
+    *   24,68
+
+    *   24,25
+
+    *   22,28
+
+    *   20,55
+
+    *   19,02
+
+
+*    *   45
+
+    *   26,34
+
+    *   25,87
+
+    *   25,41
+
+    *   24,96
+
+    *   24,52
+
+    *   22,50
+
+    *   20,72
+
+    *   19,16
+
+
+*    *   46
+
+    *   26,65
+
+    *   26,16
+
+    *   25,69
+
+    *   25,23
+
+    *   24,78
+
+    *   22,70
+
+    *   20,88
+
+    *   19,29
+
+
+*    *   47
+
+    *   26,95
+
+    *   26,45
+
+    *   25,96
+
+    *   25,49
+
+    *   25,02
+
+    *   22,90
+
+    *   21,04
+
+    *   19,41
+
+
+*    *   48
+
+    *   27,24
+
+    *   26,73
+
+    *   26,23
+
+    *   25,74
+
+    *   25,27
+
+    *   23,09
+
+    *   21,20
+
+    *   19,54
+
+
+*    *   49
+
+    *   27,53
+
+    *   27,00
+
+    *   26,48
+
+    *   25,99
+
+    *   25,50
+
+    *   23,28
+
+    *   21,34
+
+    *   19,65
+
+
+*    *   50
+
+    *   27,80
+
+    *   27,26
+
+    *   26,74
+
+    *   26,23
+
+    *   25,73
+
+    *   23,46
+
+    *   21,48
+
+    *   19,76
+
+
+*    *   51
+
+    *   28,07
+
+    *   27,52
+
+    *   26,98
+
+    *   26,46
+
+    *   25,95
+
+    *   23,63
+
+    *   21,62
+
+    *   19,87
+
+
+*    *   52
+
+    *   28,34
+
+    *   27,77
+
+    *   27,22
+
+    *   26,68
+
+    *   26,17
+
+    *   23,80
+
+    *   21,75
+
+    *   19,97
+
+
+*    *   53
+
+    *   28,59
+
+    *   28,01
+
+    *   27,45
+
+    *   26,90
+
+    *   26,37
+
+    *   23,96
+
+    *   21,87
+
+    *   20,07
+
+
+*    *   54
+
+    *   28,84
+
+    *   28,25
+
+    *   27,68
+
+    *   27,12
+
+    *   26,58
+
+    *   24,11
+
+    *   21,99
+
+    *   20,16
+
+
+*    *   55
+
+    *   29,09
+
+    *   28,48
+
+    *   27,89
+
+    *   27,33
+
+    *   26,77
+
+    *   24,26
+
+    *   22,11
+
+    *   20,25
+
+
+*    *   56
+
+    *   29,33
+
+    *   28,71
+
+    *   28,11
+
+    *   27,53
+
+    *   26,97
+
+    *   24,41
+
+    *   22,22
+
+    *   20,33
+
+
+*    *   57
+
+    *   29,56
+
+    *   28,93
+
+    *   28,31
+
+    *   27,72
+
+    *   27,15
+
+    *   24,55
+
+    *   22,33
+
+    *   20,41
+
+
+*    *   58
+
+    *   29,78
+
+    *   29,14
+
+    *   28,52
+
+    *   27,91
+
+    *   27,33
+
+    *   24,69
+
+    *   22,43
+
+    *   20,49
+
+
+*    *   59
+
+    *   30,00
+
+    *   29,35
+
+    *   28,71
+
+    *   28,10
+
+    *   27,51
+
+    *   24,82
+
+    *   22,53
+
+    *   20,57
+
+
+*    *   60
+
+    *   30,22
+
+    *   29,55
+
+    *   28,90
+
+    *   28,28
+
+    *   27,68
+
+    *   24,94
+
+    *   22,62
+
+    *   20,64
+
+
+*    *   61
+
+    *   30,43
+
+    *   29,75
+
+    *   29,09
+
+    *   28,45
+
+    *   27,84
+
+    *   25,07
+
+    *   22,71
+
+    *   20,71
+
+
+*    *   62
+
+    *   30,63
+
+    *   29,94
+
+    *   29,27
+
+    *   28,62
+
+    *   28,00
+
+    *   25,19
+
+    *   22,80
+
+    *   20,77
+
+
+*    *   63
+
+    *   30,83
+
+    *   30,12
+
+    *   29,44
+
+    *   28,79
+
+    *   28,16
+
+    *   25,30
+
+    *   22,89
+
+    *   20,83
+
+
+*    *   64
+
+    *   31,02
+
+    *   30,31
+
+    *   29,61
+
+    *   28,95
+
+    *   28,31
+
+    *   25,41
+
+    *   22,97
+
+    *   20,89
+
+
+*    *   65
+
+    *   31,21
+
+    *   30,48
+
+    *   29,78
+
+    *   29,10
+
+    *   28,45
+
+    *   25,52
+
+    *   23,05
+
+    *   20,95
+
+
+*    *   66
+
+    *   31,39
+
+    *   30,65
+
+    *   29,94
+
+    *   29,26
+
+    *   28,60
+
+    *   25,62
+
+    *   23,12
+
+    *   21,01
+
+
+*    *   67
+
+    *   31,57
+
+    *   30,82
+
+    *   30,10
+
+    *   29,40
+
+    *   28,73
+
+    *   25,72
+
+    *   23,19
+
+    *   21,06
+
+
+*    *   68
+
+    *   31,75
+
+    *   30,99
+
+    *   30,25
+
+    *   29,55
+
+    *   28,87
+
+    *   25,82
+
+    *   23,26
+
+    *   21,11
+
+
+*    *   69
+
+    *   31,92
+
+    *   31,14
+
+    *   30,40
+
+    *   29,69
+
+    *   29,00
+
+    *   25,91
+
+    *   23,33
+
+    *   21,16
+
+
+*    *   70
+
+    *   32,08
+
+    *   31,30
+
+    *   30,55
+
+    *   29,82
+
+    *   29,12
+
+    *   26,00
+
+    *   23,39
+
+    *   21,20
+
+
+*    *   71
+
+    *   32,24
+
+    *   31,45
+
+    *   30,69
+
+    *   29,95
+
+    *   29,25
+
+    *   26,09
+
+    *   23,46
+
+    *   21,25
+
+
+*    *   72
+
+    *   32,40
+
+    *   31,60
+
+    *   30,82
+
+    *   30,08
+
+    *   29,37
+
+    *   26,17
+
+    *   23,52
+
+    *   21,29
+
+
+*    *   73
+
+    *   32,56
+
+    *   31,74
+
+    *   30,96
+
+    *   30,20
+
+    *   29,48
+
+    *   26,25
+
+    *   23,57
+
+    *   21,33
+
+
+*    *   74
+
+    *   32,71
+
+    *   31,88
+
+    *   31,09
+
+    *   30,32
+
+    *   29,59
+
+    *   26,33
+
+    *   23,63
+
+    *   21,37
+
+
+*    *   75
+
+    *   32,85
+
+    *   32,02
+
+    *   31,21
+
+    *   30,44
+
+    *   29,70
+
+    *   26,41
+
+    *   23,68
+
+    *   21,40
+
+
+*    *   76
+
+    *   32,99
+
+    *   32,15
+
+    *   31,34
+
+    *   30,56
+
+    *   29,81
+
+    *   26,48
+
+    *   23,73
+
+    *   21,44
+
+
+*    *   77
+
+    *   33,13
+
+    *   32,28
+
+    *   31,45
+
+    *   30,67
+
+    *   29,91
+
+    *   26,55
+
+    *   23,78
+
+    *   21,47
+
+
+*    *   78
+
+    *   33,27
+
+    *   32,40
+
+    *   31,57
+
+    *   30,77
+
+    *   30,01
+
+    *   26,62
+
+    *   23,83
+
+    *   21,50
+
+
+*    *   79
+
+    *   33,40
+
+    *   32,52
+
+    *   31,68
+
+    *   30,88
+
+    *   30,11
+
+    *   26,68
+
+    *   23,87
+
+    *   21,54
+
+
+*    *   80
+
+    *   33,53
+
+    *   32,64
+
+    *   31,79
+
+    *   30,98
+
+    *   30,20
+
+    *   26,75
+
+    *   23,92
+
+    *   21,57
+
+
+*    *   81
+
+    *   33,65
+
+    *   32,76
+
+    *   31,90
+
+    *   31,08
+
+    *   30,29
+
+    *   26,81
+
+    *   23,96
+
+    *   21,59
+
+
+*    *   82
+
+    *   33,77
+
+    *   32,87
+
+    *   32,00
+
+    *   31,17
+
+    *   30,38
+
+    *   26,87
+
+    *   24,00
+
+    *   21,62
+
+
+*    *   83
+
+    *   33,89
+
+    *   32,98
+
+    *   32,11
+
+    *   31,27
+
+    *   30,47
+
+    *   26,93
+
+    *   24,04
+
+    *   21,65
+
+
+*    *   84
+
+    *   34,01
+
+    *   33,09
+
+    *   32,20
+
+    *   31,36
+
+    *   30,55
+
+    *   26,98
+
+    *   24,07
+
+    *   21,67
+
+
+*    *   85
+
+    *   34,12
+
+    *   33,19
+
+    *   32,30
+
+    *   31,45
+
+    *   30,63
+
+    *   27,04
+
+    *   24,11
+
+    *   21,70
+
+
+*    *   86
+
+    *   34,23
+
+    *   33,29
+
+    *   32,39
+
+    *   31,53
+
+    *   30,71
+
+    *   27,09
+
+    *   24,14
+
+    *   21,72
+
+
+*    *   87
+
+    *   34,34
+
+    *   33,39
+
+    *   32,48
+
+    *   31,62
+
+    *   30,79
+
+    *   27,14
+
+    *   24,18
+
+    *   21,74
+
+
+*    *   88
+
+    *   34,44
+
+    *   33,49
+
+    *   32,57
+
+    *   31,70
+
+    *   30,86
+
+    *   27,19
+
+    *   24,21
+
+    *   21,76
+
+
+*    *   89
+
+    *   34,54
+
+    *   33,58
+
+    *   32,66
+
+    *   31,77
+
+    *   30,93
+
+    *   27,23
+
+    *   24,24
+
+    *   21,78
+
+
+*    *   90
+
+    *   34,64
+
+    *   33,67
+
+    *   32,74
+
+    *   31,85
+
+    *   31,00
+
+    *   27,28
+
+    *   24,27
+
+    *   21,80
+
+
+*    *   91
+
+    *   34,74
+
+    *   33,76
+
+    *   32,82
+
+    *   31,93
+
+    *   31,07
+
+    *   27,32
+
+    *   24,30
+
+    *   21,82
+
+
+*    *   92
+
+    *   34,84
+
+    *   33,84
+
+    *   32,90
+
+    *   32,00
+
+    *   31,14
+
+    *   27,37
+
+    *   24,32
+
+    *   21,83
+
+
+*    *   93
+
+    *   34,93
+
+    *   33,93
+
+    *   32,98
+
+    *   32,07
+
+    *   31,20
+
+    *   27,41
+
+    *   24,35
+
+    *   21,85
+
+
+*    *   94
+
+    *   35,02
+
+    *   34,01
+
+    *   33,05
+
+    *   32,14
+
+    *   31,26
+
+    *   27,45
+
+    *   24,37
+
+    *   21,87
+
+
+*    *   95
+
+    *   35,10
+
+    *   34,09
+
+    *   33,12
+
+    *   32,20
+
+    *   31,32
+
+    *   27,48
+
+    *   24,40
+
+    *   21,88
+
+
+*    *   96
+
+    *   35,19
+
+    *   34,17
+
+    *   33,19
+
+    *   32,27
+
+    *   31,38
+
+    *   27,52
+
+    *   24,42
+
+    *   21,90
+
+
+*    *   97
+
+    *   35,27
+
+    *   34,24
+
+    *   33,26
+
+    *   32,33
+
+    *   31,44
+
+    *   27,56
+
+    *   24,44
+
+    *   21,91
+
+
+*    *   98
+
+    *   35,35
+
+    *   34,32
+
+    *   33,33
+
+    *   32,39
+
+    *   31,49
+
+    *   27,59
+
+    *   24,46
+
+    *   21,92
+
+
+*    *   99
+
+    *   35,43
+
+    *   34,39
+
+    *   33,39
+
+    *   32,45
+
+    *   31,55
+
+    *   27,62
+
+    *   24,49
+
+    *   21,94
+
+
+*    *   100
+
+    *   35,51
+
+    *   34,46
+
+    *   33,46
+
+    *   32,51
+
+    *   31,60
+
+    *   27,66
+
+    *   24,50
+
+    *   21,95
+
+
+
+Berechnungsvorschrift für die Vervielfältiger (Barwertfaktoren für die
+Kapitalisierung):
+
+![bgbl1_2019_j1794-1_0010.jpg](bgbl1_2019_j1794-1_0010.jpg)
+
+q   = 1 + LZ wobei
+    ![bgbl1_2019_j1794-1_0020.jpg](bgbl1_2019_j1794-1_0020.jpg)
+
+LZ  = Zinssatz (Liegenschaftszinssatz)
+
+
+n   = Restnutzungsdauer
+
+
+p   = Zinsfuß
+
+
+
+
+(zu § 253 Absatz 2 und § 259 Absatz 4)
+
+### Anlage 38 Wirtschaftliche Gesamtnutzungsdauer
+
+(Fundstelle: BGBl. I 2019, 1834)
+
+
+*    *   **Ein- und Zweifamilienhäuser**
+
+    *   80 Jahre
+
+
+*    *   **Mietwohngrundstücke, Mehrfamilienhäuser**
+
+    *   80 Jahre
+
+
+*    *   **Wohnungseigentum**
+
+    *   80 Jahre
+
+
+*    *   **Geschäftsgrundstücke, gemischt genutzte Grundstücke und sonstige
+        bebaute Grundstücke:**
+
+    *
+
+*    *   Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)
+
+    *   80 Jahre
+
+
+*    *   Museen, Theater, Sakralbauten
+
+    *   70 Jahre
+
+
+*    *   Bürogebäude, Verwaltungsgebäude
+
+    *   60 Jahre
+
+
+*    *   Banken und ähnliche Geschäftshäuser
+
+    *   60 Jahre
+
+
+*    *   Einzelgaragen und Mehrfachgaragen
+
+    *   60 Jahre
+
+
+*    *   Kindergärten (Kindertagesstätten), allgemeinbildende Schulen und
+        berufsbildende Schulen, Hochschulen, Sonderschulen
+
+    *   50 Jahre
+
+
+*    *   Wohnheime, Internate, Alten- und Pflegeheime
+
+    *   50 Jahre
+
+
+*    *   Kauf-/Warenhäuser
+
+    *   50 Jahre
+
+
+*    *   Krankenhäuser, Kliniken, Tageskliniken, Ärztehäuser
+
+    *   40 Jahre
+
+
+*    *   Gemeindezentren, Saalbauten, Veranstaltungsgebäude, Vereinsheime
+
+    *   40 Jahre
+
+
+*    *   Beherbergungsstätten, Hotels, Verpflegungseinrichtungen
+
+    *   40 Jahre
+
+
+*    *   Sport- und Tennishallen, Freizeitbäder, Kur- und Heilbäder
+
+    *   40 Jahre
+
+
+*    *   Tief-, Hoch- und Nutzfahrzeuggaragen als Einzelbauwerke, Carports
+
+    *   40 Jahre
+
+
+*    *   Betriebs- und Werkstätten, Industrie- und Produktionsgebäude
+
+    *   40 Jahre
+
+
+*    *   Lager- und Versandgebäude
+
+    *   40 Jahre
+
+
+*    *   Verbrauchermärkte, Autohäuser
+
+    *   30 Jahre
+
+
+*    *   Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen
+        und Ähnliches
+
+    *   30 Jahre
+
+
+
+**Teileigentum**              ist in Abhängigkeit von der baulichen
+Gestaltung den vorstehenden Gebäudearten zuzuordnen.
+
+**Auffangklausel**
+
+Für nicht aufgeführte Gebäudearten ist die wirtschaftliche
+Gesamtnutzungsdauer aus der wirtschaftlichen Gesamtnutzungsdauer
+vergleichbarer Gebäudearten abzuleiten.
+
+(zu § 254)
+
+### Anlage 39 Ermittlung des Rohertrags
+
+(Fundstelle: BGBl. I 2021, 2932 – 2936;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+I.  Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche\*\*
+    **(Wertverhältnisse/Stand: 1. Januar 2022)**
+
+    *        *   **Land**
+
+        *   **Gebäudeart**
+
+        *   **Wohnfläche**
+
+        *   **Baujahr des Gebäudes**
+
+
+    *        *   **bis 1948**
+
+        *   1949
+            **bis 1978**
+
+        *   1979
+            **bis 1990**
+
+        *   1991
+            **bis 2000**
+
+        *   **ab 2001**
+
+
+    *        *   Baden-Württemberg
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,13
+
+        *   6,88
+
+        *   7,01
+
+        *   8,73
+
+        *   9,40
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,24
+
+        *   6,41
+
+        *   6,62
+
+        *   7,58
+
+        *   7,51
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,53
+
+        *   6,10
+
+        *   6,37
+
+        *   6,61
+
+        *   7,78
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,63
+
+        *   8,16
+
+        *   8,15
+
+        *   8,56
+
+        *   8,89
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,60
+
+        *   6,06
+
+        *   6,11
+
+        *   6,55
+
+        *   7,60
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,10
+
+        *   5,38
+
+        *   5,45
+
+        *   6,20
+
+        *   7,31
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   8,60
+
+        *   9,17
+
+        *   9,11
+
+        *   10,10
+
+        *   12,44
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,78
+
+        *   7,09
+
+        *   7,33
+
+        *   7,82
+
+        *   8,97
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,84
+
+        *   6,42
+
+        *   6,82
+
+        *   7,27
+
+        *   8,97
+
+
+    *        *   Bayern
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,86
+
+        *   7,54
+
+        *   7,76
+
+        *   9,28
+
+        *   10,64
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,89
+
+        *   7,04
+
+        *   7,34
+
+        *   8,07
+
+        *   8,50
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,09
+
+        *   6,69
+
+        *   7,06
+
+        *   7,03
+
+        *   8,80
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,91
+
+        *   7,35
+
+        *   7,41
+
+        *   7,48
+
+        *   8,25
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,06
+
+        *   5,45
+
+        *   5,57
+
+        *   5,72
+
+        *   7,07
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,61
+
+        *   4,85
+
+        *   4,96
+
+        *   5,42
+
+        *   6,79
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   9,82
+
+        *   10,41
+
+        *   10,44
+
+        *   11,12
+
+        *   14,56
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,74
+
+        *   8,04
+
+        *   8,40
+
+        *   8,61
+
+        *   10,50
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   7,80
+
+        *   7,29
+
+        *   7,81
+
+        *   8,00
+
+        *   10,50
+
+
+    *        *   Berlin
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   9,04
+
+        *   7,79
+
+        *   7,28
+
+        *   10,70
+
+        *   14,45
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,92
+
+        *   7,25
+
+        *   6,89
+
+        *   9,28
+
+        *   11,56
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   7,01
+
+        *   6,91
+
+        *   6,63
+
+        *   8,09
+
+        *   11,96
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   8,95
+
+        *   8,55
+
+        *   7,83
+
+        *   9,70
+
+        *   12,62
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,56
+
+        *   6,33
+
+        *   5,87
+
+        *   7,43
+
+        *   10,79
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,97
+
+        *   5,64
+
+        *   5,23
+
+        *   7,02
+
+        *   10,37
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   8,47
+
+        *   8,07
+
+        *   7,34
+
+        *   9,60
+
+        *   14,83
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,68
+
+        *   6,23
+
+        *   5,91
+
+        *   7,44
+
+        *   10,70
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,73
+
+        *   5,65
+
+        *   5,50
+
+        *   6,91
+
+        *   10,70
+
+
+    *        *   Brandenburg
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   8,34
+
+        *   7,20
+
+        *   7,28
+
+        *   10,66
+
+        *   12,20
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,31
+
+        *   6,71
+
+        *   6,88
+
+        *   9,26
+
+        *   9,75
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,47
+
+        *   6,39
+
+        *   6,62
+
+        *   8,07
+
+        *   10,09
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,50
+
+        *   7,17
+
+        *   7,10
+
+        *   8,79
+
+        *   9,68
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,50
+
+        *   5,31
+
+        *   5,32
+
+        *   6,72
+
+        *   8,28
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,00
+
+        *   4,73
+
+        *   4,75
+
+        *   6,36
+
+        *   7,96
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,45
+
+        *   7,11
+
+        *   7,00
+
+        *   9,13
+
+        *   11,94
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,88
+
+        *   5,49
+
+        *   5,63
+
+        *   7,07
+
+        *   8,61
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,92
+
+        *   4,98
+
+        *   5,24
+
+        *   6,58
+
+        *   8,61
+
+
+    *        *   Bremen
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,03
+
+        *   6,49
+
+        *   6,73
+
+        *   7,62
+
+        *   9,00
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,16
+
+        *   6,06
+
+        *   6,36
+
+        *   6,62
+
+        *   7,19
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,45
+
+        *   5,77
+
+        *   6,11
+
+        *   5,77
+
+        *   7,44
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,88
+
+        *   8,09
+
+        *   8,19
+
+        *   7,84
+
+        *   8,91
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,78
+
+        *   6,00
+
+        *   6,15
+
+        *   6,00
+
+        *   7,62
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,26
+
+        *   5,33
+
+        *   5,48
+
+        *   5,67
+
+        *   7,33
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   8,08
+
+        *   8,26
+
+        *   8,33
+
+        *   8,38
+
+        *   11,33
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,38
+
+        *   6,38
+
+        *   6,71
+
+        *   6,49
+
+        *   8,17
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,42
+
+        *   5,79
+
+        *   6,24
+
+        *   6,04
+
+        *   8,17
+
+
+    *        *   Hamburg
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   8,69
+
+        *   7,01
+
+        *   7,52
+
+        *   9,56
+
+        *   10,26
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,62
+
+        *   6,53
+
+        *   7,11
+
+        *   8,31
+
+        *   8,20
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,74
+
+        *   6,22
+
+        *   6,84
+
+        *   7,24
+
+        *   8,49
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   10,45
+
+        *   9,34
+
+        *   9,82
+
+        *   10,55
+
+        *   10,89
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,67
+
+        *   6,92
+
+        *   7,37
+
+        *   8,07
+
+        *   9,31
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,97
+
+        *   6,16
+
+        *   6,57
+
+        *   7,64
+
+        *   8,96
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   9,18
+
+        *   8,19
+
+        *   8,57
+
+        *   9,70
+
+        *   11,89
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,23
+
+        *   6,32
+
+        *   6,89
+
+        *   7,51
+
+        *   8,58
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   7,30
+
+        *   5,73
+
+        *   6,42
+
+        *   6,98
+
+        *   8,58
+
+
+    *        *   Hessen
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,96
+
+        *   6,97
+
+        *   6,91
+
+        *   7,83
+
+        *   10,02
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,97
+
+        *   6,50
+
+        *   6,54
+
+        *   6,80
+
+        *   8,00
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,17
+
+        *   6,18
+
+        *   6,29
+
+        *   5,93
+
+        *   8,29
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,45
+
+        *   7,23
+
+        *   7,02
+
+        *   6,72
+
+        *   8,27
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,46
+
+        *   5,36
+
+        *   5,26
+
+        *   5,15
+
+        *   7,08
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,97
+
+        *   4,77
+
+        *   4,70
+
+        *   4,87
+
+        *   6,81
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   9,44
+
+        *   9,13
+
+        *   8,81
+
+        *   8,90
+
+        *   13,01
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   7,45
+
+        *   7,05
+
+        *   7,10
+
+        *   6,89
+
+        *   9,39
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   7,50
+
+        *   6,39
+
+        *   6,60
+
+        *   6,40
+
+        *   9,39
+
+
+    *        *   Mecklenburg-Vorpommern
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,02
+
+        *   5,75
+
+        *   5,50
+
+        *   8,12
+
+        *   8,77
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,15
+
+        *   5,37
+
+        *   5,20
+
+        *   7,05
+
+        *   7,01
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,44
+
+        *   5,11
+
+        *   5,01
+
+        *   6,14
+
+        *   7,26
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,48
+
+        *   6,80
+
+        *   6,35
+
+        *   7,92
+
+        *   8,24
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,48
+
+        *   5,05
+
+        *   4,77
+
+        *   6,07
+
+        *   7,05
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,99
+
+        *   4,49
+
+        *   4,25
+
+        *   5,74
+
+        *   6,78
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   8,20
+
+        *   7,44
+
+        *   6,92
+
+        *   9,09
+
+        *   11,22
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,48
+
+        *   5,74
+
+        *   5,57
+
+        *   7,04
+
+        *   8,10
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,52
+
+        *   5,21
+
+        *   5,18
+
+        *   6,55
+
+        *   8,10
+
+
+    *        *   Niedersachsen
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,62
+
+        *   6,36
+
+        *   6,31
+
+        *   7,72
+
+        *   8,40
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,80
+
+        *   5,93
+
+        *   5,97
+
+        *   6,70
+
+        *   6,71
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,13
+
+        *   5,64
+
+        *   5,74
+
+        *   5,84
+
+        *   6,95
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,78
+
+        *   7,21
+
+        *   7,00
+
+        *   7,23
+
+        *   7,58
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   4,98
+
+        *   5,34
+
+        *   5,25
+
+        *   5,53
+
+        *   6,48
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,52
+
+        *   4,76
+
+        *   4,68
+
+        *   5,24
+
+        *   6,24
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   8,07
+
+        *   8,57
+
+        *   8,28
+
+        *   9,00
+
+        *   11,22
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,36
+
+        *   6,62
+
+        *   6,67
+
+        *   6,98
+
+        *   8,10
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,42
+
+        *   6,01
+
+        *   6,20
+
+        *   6,48
+
+        *   8,10
+
+
+    *        *   Nordrhein-Westfalen
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,97
+
+        *   6,56
+
+        *   6,82
+
+        *   8,30
+
+        *   8,32
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,10
+
+        *   6,11
+
+        *   6,44
+
+        *   7,20
+
+        *   6,65
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,40
+
+        *   5,82
+
+        *   6,19
+
+        *   6,28
+
+        *   6,88
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,07
+
+        *   7,38
+
+        *   7,50
+
+        *   7,70
+
+        *   7,44
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,19
+
+        *   5,47
+
+        *   5,62
+
+        *   5,89
+
+        *   6,37
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,71
+
+        *   4,87
+
+        *   5,02
+
+        *   5,57
+
+        *   6,12
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,83
+
+        *   8,13
+
+        *   8,23
+
+        *   8,90
+
+        *   10,22
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,17
+
+        *   6,29
+
+        *   6,62
+
+        *   6,90
+
+        *   7,38
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,22
+
+        *   5,69
+
+        *   6,15
+
+        *   6,41
+
+        *   7,38
+
+
+    *        *   Rheinland-Pfalz
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,12
+
+        *   6,81
+
+        *   6,88
+
+        *   8,13
+
+        *   9,32
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,23
+
+        *   6,36
+
+        *   6,50
+
+        *   7,06
+
+        *   7,45
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,52
+
+        *   6,05
+
+        *   6,25
+
+        *   6,15
+
+        *   7,72
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,30
+
+        *   7,77
+
+        *   7,66
+
+        *   7,64
+
+        *   8,44
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,35
+
+        *   5,76
+
+        *   5,75
+
+        *   5,85
+
+        *   7,22
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,87
+
+        *   5,13
+
+        *   5,13
+
+        *   5,53
+
+        *   6,94
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   8,33
+
+        *   8,82
+
+        *   8,67
+
+        *   9,11
+
+        *   11,95
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,57
+
+        *   6,81
+
+        *   6,98
+
+        *   7,06
+
+        *   8,62
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,62
+
+        *   6,18
+
+        *   6,49
+
+        *   6,57
+
+        *   8,62
+
+
+    *        *   Saarland
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,07
+
+        *   6,18
+
+        *   6,13
+
+        *   8,39
+
+        *   9,03
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,32
+
+        *   5,76
+
+        *   5,79
+
+        *   7,29
+
+        *   7,21
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,71
+
+        *   5,48
+
+        *   5,57
+
+        *   6,35
+
+        *   7,47
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,33
+
+        *   7,13
+
+        *   6,93
+
+        *   8,00
+
+        *   8,30
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   4,63
+
+        *   5,28
+
+        *   5,19
+
+        *   6,13
+
+        *   7,09
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,22
+
+        *   4,71
+
+        *   4,63
+
+        *   5,80
+
+        *   6,82
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,74
+
+        *   8,70
+
+        *   8,41
+
+        *   10,24
+
+        *   12,62
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,10
+
+        *   6,73
+
+        *   6,77
+
+        *   7,94
+
+        *   9,10
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,15
+
+        *   6,10
+
+        *   6,30
+
+        *   7,37
+
+        *   9,10
+
+
+    *        *   Sachsen
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,70
+
+        *   6,21
+
+        *   5,71
+
+        *   8,23
+
+        *   8,97
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,87
+
+        *   5,79
+
+        *   5,39
+
+        *   7,15
+
+        *   7,17
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,19
+
+        *   5,52
+
+        *   5,19
+
+        *   6,23
+
+        *   7,43
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   5,92
+
+        *   6,09
+
+        *   5,47
+
+        *   6,67
+
+        *   7,00
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   4,34
+
+        *   4,51
+
+        *   4,11
+
+        *   5,11
+
+        *   5,99
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   3,94
+
+        *   4,01
+
+        *   3,67
+
+        *   4,83
+
+        *   5,75
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,57
+
+        *   7,77
+
+        *   6,95
+
+        *   8,93
+
+        *   11,12
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,98
+
+        *   6,01
+
+        *   5,60
+
+        *   6,92
+
+        *   8,02
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,02
+
+        *   5,44
+
+        *   5,20
+
+        *   6,42
+
+        *   8,02
+
+
+    *        *   Sachsen-Anhalt
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,23
+
+        *   5,78
+
+        *   5,53
+
+        *   7,43
+
+        *   7,79
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,45
+
+        *   5,39
+
+        *   5,22
+
+        *   6,45
+
+        *   6,23
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,83
+
+        *   5,14
+
+        *   5,02
+
+        *   5,62
+
+        *   6,45
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   6,19
+
+        *   6,37
+
+        *   5,96
+
+        *   6,75
+
+        *   6,83
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   4,54
+
+        *   4,72
+
+        *   4,47
+
+        *   5,17
+
+        *   5,85
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,13
+
+        *   4,20
+
+        *   3,98
+
+        *   4,89
+
+        *   5,62
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,22
+
+        *   7,41
+
+        *   6,90
+
+        *   8,24
+
+        *   9,90
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,69
+
+        *   5,72
+
+        *   5,55
+
+        *   6,38
+
+        *   7,14
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,74
+
+        *   5,19
+
+        *   5,16
+
+        *   5,93
+
+        *   7,14
+
+
+    *        *   Schleswig-Holstein
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,16
+
+        *   6,92
+
+        *   6,87
+
+        *   8,47
+
+        *   9,24
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,28
+
+        *   6,45
+
+        *   6,49
+
+        *   7,35
+
+        *   7,37
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,55
+
+        *   6,14
+
+        *   6,24
+
+        *   6,41
+
+        *   7,64
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,55
+
+        *   8,10
+
+        *   7,86
+
+        *   8,18
+
+        *   8,58
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,54
+
+        *   6,01
+
+        *   5,90
+
+        *   6,27
+
+        *   7,34
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,03
+
+        *   5,34
+
+        *   5,26
+
+        *   5,92
+
+        *   7,06
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,85
+
+        *   8,39
+
+        *   8,10
+
+        *   8,89
+
+        *   11,09
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,19
+
+        *   6,47
+
+        *   6,52
+
+        *   6,89
+
+        *   7,99
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,24
+
+        *   5,87
+
+        *   6,06
+
+        *   6,40
+
+        *   7,99
+
+
+    *        *   Thüringen
+
+        *   Einfamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,36
+
+        *   6,58
+
+        *   6,41
+
+        *   8,31
+
+        *   9,59
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,45
+
+        *   6,13
+
+        *   6,05
+
+        *   7,22
+
+        *   7,66
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   5,71
+
+        *   5,83
+
+        *   5,82
+
+        *   6,29
+
+        *   7,94
+
+
+    *        *   Zweifamilienhaus
+
+        *   unter 60 m
+            2
+
+        *   7,07
+
+        *   7,00
+
+        *   6,67
+
+        *   7,30
+
+        *   8,12
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   5,19
+
+        *   5,19
+
+        *   5,00
+
+        *   5,59
+
+        *   6,95
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   4,71
+
+        *   4,62
+
+        *   4,45
+
+        *   5,29
+
+        *   6,68
+
+
+    *        *   Mietwohngrundstück
+
+        *   unter 60 m
+            2
+
+        *   7,70
+
+        *   7,61
+
+        *   7,22
+
+        *   8,33
+
+        *   11,00
+
+
+    *        *   von 60 m
+            2                              bis unter 100 m
+            2
+
+        *   6,08
+
+        *   5,88
+
+        *   5,81
+
+        *   6,45
+
+        *   7,94
+
+
+    *        *   100 m
+            2                              und mehr
+
+        *   6,12
+
+        *   5,33
+
+        *   5,40
+
+        *   6,00
+
+        *   7,94
+
+
+
+[^f809323_01_BJNR010350934BJNE034101123]
+[^f809323_02_BJNR010350934BJNE034101123]
+
+
+II. **Mietniveaustufen**
+
+    Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden
+    eines Landes sind die Nettokaltmieten zu I. durch folgende Ab- oder
+    Zuschläge anzupassen:
+
+    *        *   Mietniveaustufe 1
+
+        *   – 20,0 %
+
+
+    *        *   Mietniveaustufe 2
+
+        *   – 10,0 %
+
+
+    *        *   Mietniveaustufe 3
+
+        *   +/– 0 %
+
+
+    *        *   Mietniveaustufe 4
+
+        *   + 10,0 %
+
+
+    *        *   Mietniveaustufe 5
+
+        *   + 20,0 %
+
+
+    *        *   Mietniveaustufe 6
+
+        *   + 30,0 %
+
+
+    *        *   Mietniveaustufe 7
+
+        *   + 40,0 %
+
+
+
+
+    Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür
+    maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur
+    Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen
+    Fassung.
+
+
+
+
+    Für Wohnungseigentum gelten die Nettokaltmieten für
+    Mietwohngrundstücke.
+[^f809323_01_BJNR010350934BJNE034101123]: [^f809323_02_BJNR010350934BJNE034101123]:     Flächen, die zu anderen als Wohnzwecken genutzt werden, gelten als
+    Wohnfläche. Für diese Flächen ist bei Mietwohngrundstücken die für
+    Wohnungen mit einer Fläche unter 60 m             2
+    geltende monatliche Nettokaltmiete in Euro je Quadratmeter Nutzfläche
+    (ohne Zubehörräume) anzusetzen. Bei Ein- und Zweifamilienhäusern sind
+    diese Flächen zu der jeweiligen Wohnfläche zu addieren.
+    Nettokaltmiete – Festwert – für einen Garagenstellplatz
+    (Einzelgarage/Tiefgarage)
+
+35 EUR/Monat
+
+
+
+
+(zu § 255)
+
+### Anlage 40 Bewirtschaftungskosten
+
+(Fundstelle: BGBl. I 2019, 1840)
+
+Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung
+und Mietausfallwagnis in Prozent des Rohertrags des Grundstücks nach §
+254
+
+*    *   **Restnutzungsdauer**
+
+    *   **Grundstücksart**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+
+*    *   Ein- und
+        **Zweifamilienhäuser**
+
+    *   **Wohnungseigentum**
+
+    *   **Mietwohngrundstück**
+
+
+*    *   *                        60 Jahre
+
+    *   18
+
+    *   23
+
+    *   21
+
+
+*    *   40 bis 59 Jahre
+
+    *   21
+
+    *   25
+
+    *   23
+
+
+*    *   20 bis 39 Jahre
+
+    *   25
+
+    *   29
+
+    *   27
+
+
+*    *   *                        20 Jahre
+
+    *   27
+
+    *   31
+
+    *   29
+
+
+
+
+(zu § 257 Absatz 2)
+
+### Anlage 41 Abzinsungsfaktoren
+
+(Fundstelle: BGBl. I 2019, 1841 – 1846)
+
+
+*    *   Rest-
+        nutzungs-
+        dauer
+        **(Jahre)**
+
+    *   **Zinssatz**
+
+
+*    *   **1,5 %**
+
+    *   **1,6 %**
+
+    *   **1,7 %**
+
+    *   **1,8 %**
+
+    *   **1,9 %**
+
+    *   **2,0 %**
+
+    *   **2,1 %**
+
+    *   **2,2 %**
+
+    *   **2,3 %**
+
+    *   **2,4 %**
+
+    *   **2,5 %**
+
+
+*    *   1
+
+    *   0,9852
+
+    *   0,9843
+
+    *   0,9833
+
+    *   0,9823
+
+    *   0,9814
+
+    *   0,9804
+
+    *   0,9794
+
+    *   0,9785
+
+    *   0,9775
+
+    *   0,9766
+
+    *   0,9756
+
+
+*    *   2
+
+    *   0,9707
+
+    *   0,9688
+
+    *   0,9668
+
+    *   0,9649
+
+    *   0,9631
+
+    *   0,9612
+
+    *   0,9593
+
+    *   0,9574
+
+    *   0,9555
+
+    *   0,9537
+
+    *   0,9518
+
+
+*    *   3
+
+    *   0,9563
+
+    *   0,9535
+
+    *   0,9507
+
+    *   0,9479
+
+    *   0,9451
+
+    *   0,9423
+
+    *   0,9396
+
+    *   0,9368
+
+    *   0,9341
+
+    *   0,9313
+
+    *   0,9286
+
+
+*    *   4
+
+    *   0,9422
+
+    *   0,9385
+
+    *   0,9348
+
+    *   0,9311
+
+    *   0,9275
+
+    *   0,9238
+
+    *   0,9202
+
+    *   0,9166
+
+    *   0,9131
+
+    *   0,9095
+
+    *   0,9060
+
+
+*    *   5
+
+    *   0,9283
+
+    *   0,9237
+
+    *   0,9192
+
+    *   0,9147
+
+    *   0,9102
+
+    *   0,9057
+
+    *   0,9013
+
+    *   0,8969
+
+    *   0,8925
+
+    *   0,8882
+
+    *   0,8839
+
+
+*    *   6
+
+    *   0,9145
+
+    *   0,9092
+
+    *   0,9038
+
+    *   0,8985
+
+    *   0,8932
+
+    *   0,8880
+
+    *   0,8828
+
+    *   0,8776
+
+    *   0,8725
+
+    *   0,8674
+
+    *   0,8623
+
+
+*    *   7
+
+    *   0,9010
+
+    *   0,8948
+
+    *   0,8887
+
+    *   0,8826
+
+    *   0,8766
+
+    *   0,8706
+
+    *   0,8646
+
+    *   0,8587
+
+    *   0,8528
+
+    *   0,8470
+
+    *   0,8413
+
+
+*    *   8
+
+    *   0,8877
+
+    *   0,8807
+
+    *   0,8738
+
+    *   0,8670
+
+    *   0,8602
+
+    *   0,8535
+
+    *   0,8468
+
+    *   0,8402
+
+    *   0,8337
+
+    *   0,8272
+
+    *   0,8207
+
+
+*    *   9
+
+    *   0,8746
+
+    *   0,8669
+
+    *   0,8592
+
+    *   0,8517
+
+    *   0,8442
+
+    *   0,8368
+
+    *   0,8294
+
+    *   0,8221
+
+    *   0,8149
+
+    *   0,8078
+
+    *   0,8007
+
+
+*    *   10
+
+    *   0,8617
+
+    *   0,8532
+
+    *   0,8449
+
+    *   0,8366
+
+    *   0,8284
+
+    *   0,8203
+
+    *   0,8123
+
+    *   0,8044
+
+    *   0,7966
+
+    *   0,7889
+
+    *   0,7812
+
+
+*    *   11
+
+    *   0,8489
+
+    *   0,8398
+
+    *   0,8307
+
+    *   0,8218
+
+    *   0,8130
+
+    *   0,8043
+
+    *   0,7956
+
+    *   0,7871
+
+    *   0,7787
+
+    *   0,7704
+
+    *   0,7621
+
+
+*    *   12
+
+    *   0,8364
+
+    *   0,8266
+
+    *   0,8169
+
+    *   0,8073
+
+    *   0,7978
+
+    *   0,7885
+
+    *   0,7793
+
+    *   0,7702
+
+    *   0,7612
+
+    *   0,7523
+
+    *   0,7436
+
+
+*    *   13
+
+    *   0,8240
+
+    *   0,8135
+
+    *   0,8032
+
+    *   0,7930
+
+    *   0,7830
+
+    *   0,7730
+
+    *   0,7632
+
+    *   0,7536
+
+    *   0,7441
+
+    *   0,7347
+
+    *   0,7254
+
+
+*    *   14
+
+    *   0,8118
+
+    *   0,8007
+
+    *   0,7898
+
+    *   0,7790
+
+    *   0,7684
+
+    *   0,7579
+
+    *   0,7475
+
+    *   0,7374
+
+    *   0,7273
+
+    *   0,7175
+
+    *   0,7077
+
+
+*    *   15
+
+    *   0,7999
+
+    *   0,7881
+
+    *   0,7766
+
+    *   0,7652
+
+    *   0,7540
+
+    *   0,7430
+
+    *   0,7322
+
+    *   0,7215
+
+    *   0,7110
+
+    *   0,7006
+
+    *   0,6905
+
+
+*    *   16
+
+    *   0,7880
+
+    *   0,7757
+
+    *   0,7636
+
+    *   0,7517
+
+    *   0,7400
+
+    *   0,7284
+
+    *   0,7171
+
+    *   0,7060
+
+    *   0,6950
+
+    *   0,6842
+
+    *   0,6736
+
+
+*    *   17
+
+    *   0,7764
+
+    *   0,7635
+
+    *   0,7508
+
+    *   0,7384
+
+    *   0,7262
+
+    *   0,7142
+
+    *   0,7024
+
+    *   0,6908
+
+    *   0,6794
+
+    *   0,6682
+
+    *   0,6572
+
+
+*    *   18
+
+    *   0,7649
+
+    *   0,7515
+
+    *   0,7383
+
+    *   0,7253
+
+    *   0,7126
+
+    *   0,7002
+
+    *   0,6879
+
+    *   0,6759
+
+    *   0,6641
+
+    *   0,6525
+
+    *   0,6412
+
+
+*    *   19
+
+    *   0,7536
+
+    *   0,7396
+
+    *   0,7259
+
+    *   0,7125
+
+    *   0,6993
+
+    *   0,6864
+
+    *   0,6738
+
+    *   0,6614
+
+    *   0,6492
+
+    *   0,6372
+
+    *   0,6255
+
+
+*    *   20
+
+    *   0,7425
+
+    *   0,7280
+
+    *   0,7138
+
+    *   0,6999
+
+    *   0,6863
+
+    *   0,6730
+
+    *   0,6599
+
+    *   0,6471
+
+    *   0,6346
+
+    *   0,6223
+
+    *   0,6103
+
+
+*    *   21
+
+    *   0,7315
+
+    *   0,7165
+
+    *   0,7019
+
+    *   0,6875
+
+    *   0,6735
+
+    *   0,6598
+
+    *   0,6463
+
+    *   0,6332
+
+    *   0,6203
+
+    *   0,6077
+
+    *   0,5954
+
+
+*    *   22
+
+    *   0,7207
+
+    *   0,7052
+
+    *   0,6901
+
+    *   0,6754
+
+    *   0,6609
+
+    *   0,6468
+
+    *   0,6330
+
+    *   0,6196
+
+    *   0,6064
+
+    *   0,5935
+
+    *   0,5809
+
+
+*    *   23
+
+    *   0,7100
+
+    *   0,6941
+
+    *   0,6786
+
+    *   0,6634
+
+    *   0,6486
+
+    *   0,6342
+
+    *   0,6200
+
+    *   0,6062
+
+    *   0,5927
+
+    *   0,5796
+
+    *   0,5667
+
+
+*    *   24
+
+    *   0,6995
+
+    *   0,6832
+
+    *   0,6673
+
+    *   0,6517
+
+    *   0,6365
+
+    *   0,6217
+
+    *   0,6073
+
+    *   0,5932
+
+    *   0,5794
+
+    *   0,5660
+
+    *   0,5529
+
+
+*    *   25
+
+    *   0,6892
+
+    *   0,6724
+
+    *   0,6561
+
+    *   0,6402
+
+    *   0,6247
+
+    *   0,6095
+
+    *   0,5948
+
+    *   0,5804
+
+    *   0,5664
+
+    *   0,5527
+
+    *   0,5394
+
+
+*    *   26
+
+    *   0,6790
+
+    *   0,6619
+
+    *   0,6451
+
+    *   0,6289
+
+    *   0,6130
+
+    *   0,5976
+
+    *   0,5825
+
+    *   0,5679
+
+    *   0,5536
+
+    *   0,5398
+
+    *   0,5262
+
+
+*    *   27
+
+    *   0,6690
+
+    *   0,6514
+
+    *   0,6344
+
+    *   0,6177
+
+    *   0,6016
+
+    *   0,5859
+
+    *   0,5706
+
+    *   0,5557
+
+    *   0,5412
+
+    *   0,5271
+
+    *   0,5134
+
+
+*    *   28
+
+    *   0,6591
+
+    *   0,6412
+
+    *   0,6238
+
+    *   0,6068
+
+    *   0,5904
+
+    *   0,5744
+
+    *   0,5588
+
+    *   0,5437
+
+    *   0,5290
+
+    *   0,5148
+
+    *   0,5009
+
+
+*    *   29
+
+    *   0,6494
+
+    *   0,6311
+
+    *   0,6133
+
+    *   0,5961
+
+    *   0,5794
+
+    *   0,5631
+
+    *   0,5473
+
+    *   0,5320
+
+    *   0,5171
+
+    *   0,5027
+
+    *   0,4887
+
+
+*    *   30
+
+    *   0,6398
+
+    *   0,6211
+
+    *   0,6031
+
+    *   0,5856
+
+    *   0,5686
+
+    *   0,5521
+
+    *   0,5361
+
+    *   0,5206
+
+    *   0,5055
+
+    *   0,4909
+
+    *   0,4767
+
+
+*    *   31
+
+    *   0,6303
+
+    *   0,6114
+
+    *   0,5930
+
+    *   0,5752
+
+    *   0,5580
+
+    *   0,5412
+
+    *   0,5251
+
+    *   0,5094
+
+    *   0,4941
+
+    *   0,4794
+
+    *   0,4651
+
+
+*    *   32
+
+    *   0,6210
+
+    *   0,6017
+
+    *   0,5831
+
+    *   0,5650
+
+    *   0,5476
+
+    *   0,5306
+
+    *   0,5143
+
+    *   0,4984
+
+    *   0,4830
+
+    *   0,4682
+
+    *   0,4538
+
+
+*    *   33
+
+    *   0,6118
+
+    *   0,5923
+
+    *   0,5733
+
+    *   0,5550
+
+    *   0,5373
+
+    *   0,5202
+
+    *   0,5037
+
+    *   0,4877
+
+    *   0,4722
+
+    *   0,4572
+
+    *   0,4427
+
+
+*    *   34
+
+    *   0,6028
+
+    *   0,5829
+
+    *   0,5638
+
+    *   0,5452
+
+    *   0,5273
+
+    *   0,5100
+
+    *   0,4933
+
+    *   0,4772
+
+    *   0,4616
+
+    *   0,4465
+
+    *   0,4319
+
+
+*    *   35
+
+    *   0,5939
+
+    *   0,5737
+
+    *   0,5543
+
+    *   0,5356
+
+    *   0,5175
+
+    *   0,5000
+
+    *   0,4832
+
+    *   0,4669
+
+    *   0,4512
+
+    *   0,4360
+
+    *   0,4214
+
+
+*    *   36
+
+    *   0,5851
+
+    *   0,5647
+
+    *   0,5451
+
+    *   0,5261
+
+    *   0,5078
+
+    *   0,4902
+
+    *   0,4732
+
+    *   0,4568
+
+    *   0,4410
+
+    *   0,4258
+
+    *   0,4111
+
+
+*    *   37
+
+    *   0,5764
+
+    *   0,5558
+
+    *   0,5360
+
+    *   0,5168
+
+    *   0,4984
+
+    *   0,4806
+
+    *   0,4635
+
+    *   0,4470
+
+    *   0,4311
+
+    *   0,4158
+
+    *   0,4011
+
+
+*    *   38
+
+    *   0,5679
+
+    *   0,5471
+
+    *   0,5270
+
+    *   0,5077
+
+    *   0,4891
+
+    *   0,4712
+
+    *   0,4540
+
+    *   0,4374
+
+    *   0,4214
+
+    *   0,4061
+
+    *   0,3913
+
+
+*    *   39
+
+    *   0,5595
+
+    *   0,5385
+
+    *   0,5182
+
+    *   0,4987
+
+    *   0,4800
+
+    *   0,4619
+
+    *   0,4446
+
+    *   0,4280
+
+    *   0,4120
+
+    *   0,3966
+
+    *   0,3817
+
+
+*    *   40
+
+    *   0,5513
+
+    *   0,5300
+
+    *   0,5095
+
+    *   0,4899
+
+    *   0,4710
+
+    *   0,4529
+
+    *   0,4355
+
+    *   0,4188
+
+    *   0,4027
+
+    *   0,3873
+
+    *   0,3724
+
+
+*    *   41
+
+    *   0,5431
+
+    *   0,5216
+
+    *   0,5010
+
+    *   0,4812
+
+    *   0,4622
+
+    *   0,4440
+
+    *   0,4265
+
+    *   0,4097
+
+    *   0,3936
+
+    *   0,3782
+
+    *   0,3633
+
+
+*    *   42
+
+    *   0,5351
+
+    *   0,5134
+
+    *   0,4926
+
+    *   0,4727
+
+    *   0,4536
+
+    *   0,4353
+
+    *   0,4178
+
+    *   0,4009
+
+    *   0,3848
+
+    *   0,3693
+
+    *   0,3545
+
+
+*    *   43
+
+    *   0,5272
+
+    *   0,5053
+
+    *   0,4844
+
+    *   0,4644
+
+    *   0,4452
+
+    *   0,4268
+
+    *   0,4092
+
+    *   0,3923
+
+    *   0,3761
+
+    *   0,3607
+
+    *   0,3458
+
+
+*    *   44
+
+    *   0,5194
+
+    *   0,4974
+
+    *   0,4763
+
+    *   0,4561
+
+    *   0,4369
+
+    *   0,4184
+
+    *   0,4007
+
+    *   0,3838
+
+    *   0,3677
+
+    *   0,3522
+
+    *   0,3374
+
+
+*    *   45
+
+    *   0,5117
+
+    *   0,4895
+
+    *   0,4683
+
+    *   0,4481
+
+    *   0,4287
+
+    *   0,4102
+
+    *   0,3925
+
+    *   0,3756
+
+    *   0,3594
+
+    *   0,3440
+
+    *   0,3292
+
+
+*    *   46
+
+    *   0,5042
+
+    *   0,4818
+
+    *   0,4605
+
+    *   0,4402
+
+    *   0,4207
+
+    *   0,4022
+
+    *   0,3844
+
+    *   0,3675
+
+    *   0,3513
+
+    *   0,3359
+
+    *   0,3211
+
+
+*    *   47
+
+    *   0,4967
+
+    *   0,4742
+
+    *   0,4528
+
+    *   0,4324
+
+    *   0,4129
+
+    *   0,3943
+
+    *   0,3765
+
+    *   0,3596
+
+    *   0,3434
+
+    *   0,3280
+
+    *   0,3133
+
+
+*    *   48
+
+    *   0,4894
+
+    *   0,4668
+
+    *   0,4452
+
+    *   0,4247
+
+    *   0,4052
+
+    *   0,3865
+
+    *   0,3688
+
+    *   0,3518
+
+    *   0,3357
+
+    *   0,3203
+
+    *   0,3057
+
+
+*    *   49
+
+    *   0,4821
+
+    *   0,4594
+
+    *   0,4378
+
+    *   0,4172
+
+    *   0,3976
+
+    *   0,3790
+
+    *   0,3612
+
+    *   0,3443
+
+    *   0,3282
+
+    *   0,3128
+
+    *   0,2982
+
+
+*    *   50
+
+    *   0,4750
+
+    *   0,4522
+
+    *   0,4305
+
+    *   0,4098
+
+    *   0,3902
+
+    *   0,3715
+
+    *   0,3538
+
+    *   0,3369
+
+    *   0,3208
+
+    *   0,3055
+
+    *   0,2909
+
+
+*    *   51
+
+    *   0,4680
+
+    *   0,4451
+
+    *   0,4233
+
+    *   0,4026
+
+    *   0,3829
+
+    *   0,3642
+
+    *   0,3465
+
+    *   0,3296
+
+    *   0,3136
+
+    *   0,2983
+
+    *   0,2838
+
+
+*    *   52
+
+    *   0,4611
+
+    *   0,4381
+
+    *   0,4162
+
+    *   0,3955
+
+    *   0,3758
+
+    *   0,3571
+
+    *   0,3394
+
+    *   0,3225
+
+    *   0,3065
+
+    *   0,2913
+
+    *   0,2769
+
+
+*    *   53
+
+    *   0,4543
+
+    *   0,4312
+
+    *   0,4093
+
+    *   0,3885
+
+    *   0,3688
+
+    *   0,3501
+
+    *   0,3324
+
+    *   0,3156
+
+    *   0,2996
+
+    *   0,2845
+
+    *   0,2702
+
+
+*    *   54
+
+    *   0,4475
+
+    *   0,4244
+
+    *   0,4024
+
+    *   0,3816
+
+    *   0,3619
+
+    *   0,3432
+
+    *   0,3255
+
+    *   0,3088
+
+    *   0,2929
+
+    *   0,2778
+
+    *   0,2636
+
+
+*    *   55
+
+    *   0,4409
+
+    *   0,4177
+
+    *   0,3957
+
+    *   0,3749
+
+    *   0,3552
+
+    *   0,3365
+
+    *   0,3188
+
+    *   0,3021
+
+    *   0,2863
+
+    *   0,2713
+
+    *   0,2572
+
+
+*    *   56
+
+    *   0,4344
+
+    *   0,4111
+
+    *   0,3891
+
+    *   0,3682
+
+    *   0,3485
+
+    *   0,3299
+
+    *   0,3123
+
+    *   0,2956
+
+    *   0,2799
+
+    *   0,2650
+
+    *   0,2509
+
+
+*    *   57
+
+    *   0,4280
+
+    *   0,4046
+
+    *   0,3826
+
+    *   0,3617
+
+    *   0,3420
+
+    *   0,3234
+
+    *   0,3059
+
+    *   0,2893
+
+    *   0,2736
+
+    *   0,2588
+
+    *   0,2448
+
+
+*    *   58
+
+    *   0,4217
+
+    *   0,3983
+
+    *   0,3762
+
+    *   0,3553
+
+    *   0,3357
+
+    *   0,3171
+
+    *   0,2996
+
+    *   0,2830
+
+    *   0,2674
+
+    *   0,2527
+
+    *   0,2388
+
+
+*    *   59
+
+    *   0,4154
+
+    *   0,3920
+
+    *   0,3699
+
+    *   0,3490
+
+    *   0,3294
+
+    *   0,3109
+
+    *   0,2934
+
+    *   0,2769
+
+    *   0,2614
+
+    *   0,2468
+
+    *   0,2330
+
+
+*    *   60
+
+    *   0,4093
+
+    *   0,3858
+
+    *   0,3637
+
+    *   0,3429
+
+    *   0,3233
+
+    *   0,3048
+
+    *   0,2874
+
+    *   0,2710
+
+    *   0,2555
+
+    *   0,2410
+
+    *   0,2273
+
+
+*    *   61
+
+    *   0,4032
+
+    *   0,3797
+
+    *   0,3576
+
+    *   0,3368
+
+    *   0,3172
+
+    *   0,2988
+
+    *   0,2815
+
+    *   0,2652
+
+    *   0,2498
+
+    *   0,2353
+
+    *   0,2217
+
+
+*    *   62
+
+    *   0,3973
+
+    *   0,3738
+
+    *   0,3516
+
+    *   0,3309
+
+    *   0,3113
+
+    *   0,2929
+
+    *   0,2757
+
+    *   0,2594
+
+    *   0,2442
+
+    *   0,2298
+
+    *   0,2163
+
+
+*    *   63
+
+    *   0,3914
+
+    *   0,3679
+
+    *   0,3458
+
+    *   0,3250
+
+    *   0,3055
+
+    *   0,2872
+
+    *   0,2700
+
+    *   0,2539
+
+    *   0,2387
+
+    *   0,2244
+
+    *   0,2111
+
+
+*    *   64
+
+    *   0,3856
+
+    *   0,3621
+
+    *   0,3400
+
+    *   0,3193
+
+    *   0,2998
+
+    *   0,2816
+
+    *   0,2645
+
+    *   0,2484
+
+    *   0,2333
+
+    *   0,2192
+
+    *   0,2059
+
+
+*    *   65
+
+    *   0,3799
+
+    *   0,3564
+
+    *   0,3343
+
+    *   0,3136
+
+    *   0,2942
+
+    *   0,2761
+
+    *   0,2590
+
+    *   0,2430
+
+    *   0,2281
+
+    *   0,2140
+
+    *   0,2009
+
+
+*    *   66
+
+    *   0,3743
+
+    *   0,3508
+
+    *   0,3287
+
+    *   0,3081
+
+    *   0,2887
+
+    *   0,2706
+
+    *   0,2537
+
+    *   0,2378
+
+    *   0,2230
+
+    *   0,2090
+
+    *   0,1960
+
+
+*    *   67
+
+    *   0,3688
+
+    *   0,3452
+
+    *   0,3232
+
+    *   0,3026
+
+    *   0,2834
+
+    *   0,2653
+
+    *   0,2485
+
+    *   0,2327
+
+    *   0,2179
+
+    *   0,2041
+
+    *   0,1912
+
+
+*    *   68
+
+    *   0,3633
+
+    *   0,3398
+
+    *   0,3178
+
+    *   0,2973
+
+    *   0,2781
+
+    *   0,2601
+
+    *   0,2434
+
+    *   0,2277
+
+    *   0,2130
+
+    *   0,1993
+
+    *   0,1865
+
+
+*    *   69
+
+    *   0,3580
+
+    *   0,3345
+
+    *   0,3125
+
+    *   0,2920
+
+    *   0,2729
+
+    *   0,2550
+
+    *   0,2384
+
+    *   0,2228
+
+    *   0,2082
+
+    *   0,1947
+
+    *   0,1820
+
+
+*    *   70
+
+    *   0,3527
+
+    *   0,3292
+
+    *   0,3073
+
+    *   0,2869
+
+    *   0,2678
+
+    *   0,2500
+
+    *   0,2335
+
+    *   0,2180
+
+    *   0,2036
+
+    *   0,1901
+
+    *   0,1776
+
+
+*    *   71
+
+    *   0,3475
+
+    *   0,3240
+
+    *   0,3021
+
+    *   0,2818
+
+    *   0,2628
+
+    *   0,2451
+
+    *   0,2287
+
+    *   0,2133
+
+    *   0,1990
+
+    *   0,1857
+
+    *   0,1732
+
+
+*    *   72
+
+    *   0,3423
+
+    *   0,3189
+
+    *   0,2971
+
+    *   0,2768
+
+    *   0,2579
+
+    *   0,2403
+
+    *   0,2239
+
+    *   0,2087
+
+    *   0,1945
+
+    *   0,1813
+
+    *   0,1690
+
+
+*    *   73
+
+    *   0,3373
+
+    *   0,3139
+
+    *   0,2921
+
+    *   0,2719
+
+    *   0,2531
+
+    *   0,2356
+
+    *   0,2193
+
+    *   0,2042
+
+    *   0,1901
+
+    *   0,1771
+
+    *   0,1649
+
+
+*    *   74
+
+    *   0,3323
+
+    *   0,3089
+
+    *   0,2872
+
+    *   0,2671
+
+    *   0,2484
+
+    *   0,2310
+
+    *   0,2148
+
+    *   0,1998
+
+    *   0,1859
+
+    *   0,1729
+
+    *   0,1609
+
+
+*    *   75
+
+    *   0,3274
+
+    *   0,3041
+
+    *   0,2824
+
+    *   0,2624
+
+    *   0,2437
+
+    *   0,2265
+
+    *   0,2104
+
+    *   0,1955
+
+    *   0,1817
+
+    *   0,1689
+
+    *   0,1569
+
+
+*    *   76
+
+    *   0,3225
+
+    *   0,2993
+
+    *   0,2777
+
+    *   0,2577
+
+    *   0,2392
+
+    *   0,2220
+
+    *   0,2061
+
+    *   0,1913
+
+    *   0,1776
+
+    *   0,1649
+
+    *   0,1531
+
+
+*    *   77
+
+    *   0,3178
+
+    *   0,2946
+
+    *   0,2731
+
+    *   0,2532
+
+    *   0,2347
+
+    *   0,2177
+
+    *   0,2018
+
+    *   0,1872
+
+    *   0,1736
+
+    *   0,1610
+
+    *   0,1494
+
+
+*    *   78
+
+    *   0,3131
+
+    *   0,2899
+
+    *   0,2685
+
+    *   0,2487
+
+    *   0,2304
+
+    *   0,2134
+
+    *   0,1977
+
+    *   0,1832
+
+    *   0,1697
+
+    *   0,1573
+
+    *   0,1457
+
+
+*    *   79
+
+    *   0,3084
+
+    *   0,2854
+
+    *   0,2640
+
+    *   0,2443
+
+    *   0,2261
+
+    *   0,2092
+
+    *   0,1936
+
+    *   0,1792
+
+    *   0,1659
+
+    *   0,1536
+
+    *   0,1422
+
+
+*    *   80
+
+    *   0,3039
+
+    *   0,2809
+
+    *   0,2596
+
+    *   0,2400
+
+    *   0,2219
+
+    *   0,2051
+
+    *   0,1896
+
+    *   0,1754
+
+    *   0,1622
+
+    *   0,1500
+
+    *   0,1387
+
+
+*    *   81
+
+    *   0,2994
+
+    *   0,2764
+
+    *   0,2553
+
+    *   0,2357
+
+    *   0,2177
+
+    *   0,2011
+
+    *   0,1857
+
+    *   0,1716
+
+    *   0,1585
+
+    *   0,1465
+
+    *   0,1353
+
+
+*    *   82
+
+    *   0,2950
+
+    *   0,2721
+
+    *   0,2510
+
+    *   0,2316
+
+    *   0,2137
+
+    *   0,1971
+
+    *   0,1819
+
+    *   0,1679
+
+    *   0,1550
+
+    *   0,1430
+
+    *   0,1320
+
+
+*    *   83
+
+    *   0,2906
+
+    *   0,2678
+
+    *   0,2468
+
+    *   0,2275
+
+    *   0,2097
+
+    *   0,1933
+
+    *   0,1782
+
+    *   0,1643
+
+    *   0,1515
+
+    *   0,1397
+
+    *   0,1288
+
+
+*    *   84
+
+    *   0,2863
+
+    *   0,2636
+
+    *   0,2427
+
+    *   0,2235
+
+    *   0,2058
+
+    *   0,1895
+
+    *   0,1745
+
+    *   0,1607
+
+    *   0,1481
+
+    *   0,1364
+
+    *   0,1257
+
+
+*    *   85
+
+    *   0,2821
+
+    *   0,2594
+
+    *   0,2386
+
+    *   0,2195
+
+    *   0,2019
+
+    *   0,1858
+
+    *   0,1709
+
+    *   0,1573
+
+    *   0,1447
+
+    *   0,1332
+
+    *   0,1226
+
+
+*    *   86
+
+    *   0,2779
+
+    *   0,2554
+
+    *   0,2346
+
+    *   0,2156
+
+    *   0,1982
+
+    *   0,1821
+
+    *   0,1674
+
+    *   0,1539
+
+    *   0,1415
+
+    *   0,1301
+
+    *   0,1196
+
+
+*    *   87
+
+    *   0,2738
+
+    *   0,2513
+
+    *   0,2307
+
+    *   0,2118
+
+    *   0,1945
+
+    *   0,1786
+
+    *   0,1640
+
+    *   0,1506
+
+    *   0,1383
+
+    *   0,1270
+
+    *   0,1167
+
+
+*    *   88
+
+    *   0,2698
+
+    *   0,2474
+
+    *   0,2269
+
+    *   0,2081
+
+    *   0,1908
+
+    *   0,1751
+
+    *   0,1606
+
+    *   0,1473
+
+    *   0,1352
+
+    *   0,1241
+
+    *   0,1138
+
+
+*    *   89
+
+    *   0,2658
+
+    *   0,2435
+
+    *   0,2231
+
+    *   0,2044
+
+    *   0,1873
+
+    *   0,1716
+
+    *   0,1573
+
+    *   0,1442
+
+    *   0,1322
+
+    *   0,1211
+
+    *   0,1111
+
+
+*    *   90
+
+    *   0,2619
+
+    *   0,2396
+
+    *   0,2193
+
+    *   0,2008
+
+    *   0,1838
+
+    *   0,1683
+
+    *   0,1541
+
+    *   0,1411
+
+    *   0,1292
+
+    *   0,1183
+
+    *   0,1084
+
+
+*    *   91
+
+    *   0,2580
+
+    *   0,2359
+
+    *   0,2157
+
+    *   0,1972
+
+    *   0,1804
+
+    *   0,1650
+
+    *   0,1509
+
+    *   0,1380
+
+    *   0,1263
+
+    *   0,1155
+
+    *   0,1057
+
+
+*    *   92
+
+    *   0,2542
+
+    *   0,2322
+
+    *   0,2121
+
+    *   0,1937
+
+    *   0,1770
+
+    *   0,1617
+
+    *   0,1478
+
+    *   0,1351
+
+    *   0,1234
+
+    *   0,1128
+
+    *   0,1031
+
+
+*    *   93
+
+    *   0,2504
+
+    *   0,2285
+
+    *   0,2085
+
+    *   0,1903
+
+    *   0,1737
+
+    *   0,1586
+
+    *   0,1447
+
+    *   0,1321
+
+    *   0,1207
+
+    *   0,1102
+
+    *   0,1006
+
+
+*    *   94
+
+    *   0,2467
+
+    *   0,2249
+
+    *   0,2050
+
+    *   0,1869
+
+    *   0,1705
+
+    *   0,1554
+
+    *   0,1418
+
+    *   0,1293
+
+    *   0,1179
+
+    *   0,1076
+
+    *   0,0982
+
+
+*    *   95
+
+    *   0,2431
+
+    *   0,2214
+
+    *   0,2016
+
+    *   0,1836
+
+    *   0,1673
+
+    *   0,1524
+
+    *   0,1389
+
+    *   0,1265
+
+    *   0,1153
+
+    *   0,1051
+
+    *   0,0958
+
+
+*    *   96
+
+    *   0,2395
+
+    *   0,2179
+
+    *   0,1982
+
+    *   0,1804
+
+    *   0,1642
+
+    *   0,1494
+
+    *   0,1360
+
+    *   0,1238
+
+    *   0,1127
+
+    *   0,1026
+
+    *   0,0934
+
+
+*    *   97
+
+    *   0,2359
+
+    *   0,2144
+
+    *   0,1949
+
+    *   0,1772
+
+    *   0,1611
+
+    *   0,1465
+
+    *   0,1332
+
+    *   0,1211
+
+    *   0,1102
+
+    *   0,1002
+
+    *   0,0912
+
+
+*    *   98
+
+    *   0,2324
+
+    *   0,2111
+
+    *   0,1917
+
+    *   0,1741
+
+    *   0,1581
+
+    *   0,1436
+
+    *   0,1305
+
+    *   0,1185
+
+    *   0,1077
+
+    *   0,0979
+
+    *   0,0889
+
+
+*    *   99
+
+    *   0,2290
+
+    *   0,2077
+
+    *   0,1885
+
+    *   0,1710
+
+    *   0,1552
+
+    *   0,1408
+
+    *   0,1278
+
+    *   0,1160
+
+    *   0,1053
+
+    *   0,0956
+
+    *   0,0868
+
+
+*    *   100
+
+    *   0,2256
+
+    *   0,2045
+
+    *   0,1853
+
+    *   0,1680
+
+    *   0,1523
+
+    *   0,1380
+
+    *   0,1251
+
+    *   0,1135
+
+    *   0,1029
+
+    *   0,0933
+
+    *   0,0846
+
+
+
+
+*    *   Rest-
+        nutzungs-
+        dauer
+        **(Jahre)**
+
+    *   **Zinssatz**
+
+
+*    *   **2,6 %**
+
+    *   **2,7 %**
+
+    *   **2,8 %**
+
+    *   **2,9 %**
+
+    *   **3,0 %**
+
+    *   **3,5 %**
+
+    *   **4 %**
+
+    *   **4,5 %**
+
+
+*    *   1
+
+    *   0,9747
+
+    *   0,9737
+
+    *   0,9728
+
+    *   0,9718
+
+    *   0,9709
+
+    *   0,9662
+
+    *   0,9615
+
+    *   0,9569
+
+
+*    *   2
+
+    *   0,9500
+
+    *   0,9481
+
+    *   0,9463
+
+    *   0,9444
+
+    *   0,9426
+
+    *   0,9335
+
+    *   0,9246
+
+    *   0,9157
+
+
+*    *   3
+
+    *   0,9259
+
+    *   0,9232
+
+    *   0,9205
+
+    *   0,9178
+
+    *   0,9151
+
+    *   0,9019
+
+    *   0,8890
+
+    *   0,8763
+
+
+*    *   4
+
+    *   0,9024
+
+    *   0,8989
+
+    *   0,8954
+
+    *   0,8919
+
+    *   0,8885
+
+    *   0,8714
+
+    *   0,8548
+
+    *   0,8386
+
+
+*    *   5
+
+    *   0,8796
+
+    *   0,8753
+
+    *   0,8710
+
+    *   0,8668
+
+    *   0,8626
+
+    *   0,8420
+
+    *   0,8219
+
+    *   0,8025
+
+
+*    *   6
+
+    *   0,8573
+
+    *   0,8523
+
+    *   0,8473
+
+    *   0,8424
+
+    *   0,8375
+
+    *   0,8135
+
+    *   0,7903
+
+    *   0,7679
+
+
+*    *   7
+
+    *   0,8355
+
+    *   0,8299
+
+    *   0,8242
+
+    *   0,8186
+
+    *   0,8131
+
+    *   0,7860
+
+    *   0,7599
+
+    *   0,7348
+
+
+*    *   8
+
+    *   0,8144
+
+    *   0,8080
+
+    *   0,8018
+
+    *   0,7956
+
+    *   0,7894
+
+    *   0,7594
+
+    *   0,7307
+
+    *   0,7032
+
+
+*    *   9
+
+    *   0,7937
+
+    *   0,7868
+
+    *   0,7799
+
+    *   0,7731
+
+    *   0,7664
+
+    *   0,7337
+
+    *   0,7026
+
+    *   0,6729
+
+
+*    *   10
+
+    *   0,7736
+
+    *   0,7661
+
+    *   0,7587
+
+    *   0,7514
+
+    *   0,7441
+
+    *   0,7089
+
+    *   0,6756
+
+    *   0,6439
+
+
+*    *   11
+
+    *   0,7540
+
+    *   0,7460
+
+    *   0,7380
+
+    *   0,7302
+
+    *   0,7224
+
+    *   0,6849
+
+    *   0,6496
+
+    *   0,6162
+
+
+*    *   12
+
+    *   0,7349
+
+    *   0,7264
+
+    *   0,7179
+
+    *   0,7096
+
+    *   0,7014
+
+    *   0,6618
+
+    *   0,6246
+
+    *   0,5897
+
+
+*    *   13
+
+    *   0,7163
+
+    *   0,7073
+
+    *   0,6984
+
+    *   0,6896
+
+    *   0,6810
+
+    *   0,6394
+
+    *   0,6006
+
+    *   0,5643
+
+
+*    *   14
+
+    *   0,6981
+
+    *   0,6887
+
+    *   0,6794
+
+    *   0,6702
+
+    *   0,6611
+
+    *   0,6178
+
+    *   0,5775
+
+    *   0,5400
+
+
+*    *   15
+
+    *   0,6804
+
+    *   0,6706
+
+    *   0,6609
+
+    *   0,6513
+
+    *   0,6419
+
+    *   0,5969
+
+    *   0,5553
+
+    *   0,5167
+
+
+*    *   16
+
+    *   0,6632
+
+    *   0,6529
+
+    *   0,6429
+
+    *   0,6329
+
+    *   0,6232
+
+    *   0,5767
+
+    *   0,5339
+
+    *   0,4945
+
+
+*    *   17
+
+    *   0,6464
+
+    *   0,6358
+
+    *   0,6253
+
+    *   0,6151
+
+    *   0,6050
+
+    *   0,5572
+
+    *   0,5134
+
+    *   0,4732
+
+
+*    *   18
+
+    *   0,6300
+
+    *   0,6191
+
+    *   0,6083
+
+    *   0,5978
+
+    *   0,5874
+
+    *   0,5384
+
+    *   0,4936
+
+    *   0,4528
+
+
+*    *   19
+
+    *   0,6140
+
+    *   0,6028
+
+    *   0,5917
+
+    *   0,5809
+
+    *   0,5703
+
+    *   0,5202
+
+    *   0,4746
+
+    *   0,4333
+
+
+*    *   20
+
+    *   0,5985
+
+    *   0,5869
+
+    *   0,5756
+
+    *   0,5645
+
+    *   0,5537
+
+    *   0,5026
+
+    *   0,4564
+
+    *   0,4146
+
+
+*    *   21
+
+    *   0,5833
+
+    *   0,5715
+
+    *   0,5599
+
+    *   0,5486
+
+    *   0,5375
+
+    *   0,4856
+
+    *   0,4388
+
+    *   0,3968
+
+
+*    *   22
+
+    *   0,5685
+
+    *   0,5565
+
+    *   0,5447
+
+    *   0,5332
+
+    *   0,5219
+
+    *   0,4692
+
+    *   0,4220
+
+    *   0,3797
+
+
+*    *   23
+
+    *   0,5541
+
+    *   0,5419
+
+    *   0,5299
+
+    *   0,5181
+
+    *   0,5067
+
+    *   0,4533
+
+    *   0,4057
+
+    *   0,3634
+
+
+*    *   24
+
+    *   0,5401
+
+    *   0,5276
+
+    *   0,5154
+
+    *   0,5035
+
+    *   0,4919
+
+    *   0,4380
+
+    *   0,3901
+
+    *   0,3477
+
+
+*    *   25
+
+    *   0,5264
+
+    *   0,5137
+
+    *   0,5014
+
+    *   0,4893
+
+    *   0,4776
+
+    *   0,4231
+
+    *   0,3751
+
+    *   0,3327
+
+
+*    *   26
+
+    *   0,5131
+
+    *   0,5002
+
+    *   0,4877
+
+    *   0,4756
+
+    *   0,4637
+
+    *   0,4088
+
+    *   0,3607
+
+    *   0,3184
+
+
+*    *   27
+
+    *   0,5001
+
+    *   0,4871
+
+    *   0,4744
+
+    *   0,4622
+
+    *   0,4502
+
+    *   0,3950
+
+    *   0,3468
+
+    *   0,3047
+
+
+*    *   28
+
+    *   0,4874
+
+    *   0,4743
+
+    *   0,4615
+
+    *   0,4491
+
+    *   0,4371
+
+    *   0,3817
+
+    *   0,3335
+
+    *   0,2916
+
+
+*    *   29
+
+    *   0,4750
+
+    *   0,4618
+
+    *   0,4490
+
+    *   0,4365
+
+    *   0,4243
+
+    *   0,3687
+
+    *   0,3207
+
+    *   0,2790
+
+
+*    *   30
+
+    *   0,4630
+
+    *   0,4497
+
+    *   0,4367
+
+    *   0,4242
+
+    *   0,4120
+
+    *   0,3563
+
+    *   0,3083
+
+    *   0,2670
+
+
+*    *   31
+
+    *   0,4513
+
+    *   0,4378
+
+    *   0,4248
+
+    *   0,4122
+
+    *   0,4000
+
+    *   0,3442
+
+    *   0,2965
+
+    *   0,2555
+
+
+*    *   32
+
+    *   0,4398
+
+    *   0,4263
+
+    *   0,4133
+
+    *   0,4006
+
+    *   0,3883
+
+    *   0,3326
+
+    *   0,2851
+
+    *   0,2445
+
+
+*    *   33
+
+    *   0,4287
+
+    *   0,4151
+
+    *   0,4020
+
+    *   0,3893
+
+    *   0,3770
+
+    *   0,3213
+
+    *   0,2741
+
+    *   0,2340
+
+
+*    *   34
+
+    *   0,4178
+
+    *   0,4042
+
+    *   0,3911
+
+    *   0,3783
+
+    *   0,3660
+
+    *   0,3105
+
+    *   0,2636
+
+    *   0,2239
+
+
+*    *   35
+
+    *   0,4072
+
+    *   0,3936
+
+    *   0,3804
+
+    *   0,3677
+
+    *   0,3554
+
+    *   0,3000
+
+    *   0,2534
+
+    *   0,2143
+
+
+*    *   36
+
+    *   0,3969
+
+    *   0,3832
+
+    *   0,3700
+
+    *   0,3573
+
+    *   0,3450
+
+    *   0,2898
+
+    *   0,2437
+
+    *   0,2050
+
+
+*    *   37
+
+    *   0,3869
+
+    *   0,3732
+
+    *   0,3600
+
+    *   0,3472
+
+    *   0,3350
+
+    *   0,2800
+
+    *   0,2343
+
+    *   0,1962
+
+
+*    *   38
+
+    *   0,3771
+
+    *   0,3633
+
+    *   0,3502
+
+    *   0,3375
+
+    *   0,3252
+
+    *   0,2706
+
+    *   0,2253
+
+    *   0,1878
+
+
+*    *   39
+
+    *   0,3675
+
+    *   0,3538
+
+    *   0,3406
+
+    *   0,3279
+
+    *   0,3158
+
+    *   0,2614
+
+    *   0,2166
+
+    *   0,1797
+
+
+*    *   40
+
+    *   0,3582
+
+    *   0,3445
+
+    *   0,3313
+
+    *   0,3187
+
+    *   0,3066
+
+    *   0,2526
+
+    *   0,2083
+
+    *   0,1719
+
+
+*    *   41
+
+    *   0,3491
+
+    *   0,3354
+
+    *   0,3223
+
+    *   0,3097
+
+    *   0,2976
+
+    *   0,2440
+
+    *   0,2003
+
+    *   0,1645
+
+
+*    *   42
+
+    *   0,3403
+
+    *   0,3266
+
+    *   0,3135
+
+    *   0,3010
+
+    *   0,2890
+
+    *   0,2358
+
+    *   0,1926
+
+    *   0,1574
+
+
+*    *   43
+
+    *   0,3316
+
+    *   0,3180
+
+    *   0,3050
+
+    *   0,2925
+
+    *   0,2805
+
+    *   0,2278
+
+    *   0,1852
+
+    *   0,1507
+
+
+*    *   44
+
+    *   0,3232
+
+    *   0,3097
+
+    *   0,2967
+
+    *   0,2843
+
+    *   0,2724
+
+    *   0,2201
+
+    *   0,1780
+
+    *   0,1442
+
+
+*    *   45
+
+    *   0,3150
+
+    *   0,3015
+
+    *   0,2886
+
+    *   0,2763
+
+    *   0,2644
+
+    *   0,2127
+
+    *   0,1712
+
+    *   0,1380
+
+
+*    *   46
+
+    *   0,3071
+
+    *   0,2936
+
+    *   0,2807
+
+    *   0,2685
+
+    *   0,2567
+
+    *   0,2055
+
+    *   0,1646
+
+    *   0,1320
+
+
+*    *   47
+
+    *   0,2993
+
+    *   0,2859
+
+    *   0,2731
+
+    *   0,2609
+
+    *   0,2493
+
+    *   0,1985
+
+    *   0,1583
+
+    *   0,1263
+
+
+*    *   48
+
+    *   0,2917
+
+    *   0,2784
+
+    *   0,2657
+
+    *   0,2535
+
+    *   0,2420
+
+    *   0,1918
+
+    *   0,1522
+
+    *   0,1209
+
+
+*    *   49
+
+    *   0,2843
+
+    *   0,2710
+
+    *   0,2584
+
+    *   0,2464
+
+    *   0,2350
+
+    *   0,1853
+
+    *   0,1463
+
+    *   0,1157
+
+
+*    *   50
+
+    *   0,2771
+
+    *   0,2639
+
+    *   0,2514
+
+    *   0,2395
+
+    *   0,2281
+
+    *   0,1791
+
+    *   0,1407
+
+    *   0,1107
+
+
+*    *   51
+
+    *   0,2701
+
+    *   0,2570
+
+    *   0,2445
+
+    *   0,2327
+
+    *   0,2215
+
+    *   0,1730
+
+    *   0,1353
+
+    *   0,1059
+
+
+*    *   52
+
+    *   0,2632
+
+    *   0,2502
+
+    *   0,2379
+
+    *   0,2262
+
+    *   0,2150
+
+    *   0,1671
+
+    *   0,1301
+
+    *   0,1014
+
+
+*    *   53
+
+    *   0,2566
+
+    *   0,2437
+
+    *   0,2314
+
+    *   0,2198
+
+    *   0,2088
+
+    *   0,1615
+
+    *   0,1251
+
+    *   0,0970
+
+
+*    *   54
+
+    *   0,2501
+
+    *   0,2372
+
+    *   0,2251
+
+    *   0,2136
+
+    *   0,2027
+
+    *   0,1560
+
+    *   0,1203
+
+    *   0,0928
+
+
+*    *   55
+
+    *   0,2437
+
+    *   0,2310
+
+    *   0,2190
+
+    *   0,2076
+
+    *   0,1968
+
+    *   0,1508
+
+    *   0,1157
+
+    *   0,0888
+
+
+*    *   56
+
+    *   0,2375
+
+    *   0,2249
+
+    *   0,2130
+
+    *   0,2017
+
+    *   0,1910
+
+    *   0,1457
+
+    *   0,1112
+
+    *   0,0850
+
+
+*    *   57
+
+    *   0,2315
+
+    *   0,2190
+
+    *   0,2072
+
+    *   0,1960
+
+    *   0,1855
+
+    *   0,1407
+
+    *   0,1069
+
+    *   0,0814
+
+
+*    *   58
+
+    *   0,2257
+
+    *   0,2133
+
+    *   0,2016
+
+    *   0,1905
+
+    *   0,1801
+
+    *   0,1360
+
+    *   0,1028
+
+    *   0,0778
+
+
+*    *   59
+
+    *   0,2199
+
+    *   0,2077
+
+    *   0,1961
+
+    *   0,1851
+
+    *   0,1748
+
+    *   0,1314
+
+    *   0,0989
+
+    *   0,0745
+
+
+*    *   60
+
+    *   0,2144
+
+    *   0,2022
+
+    *   0,1907
+
+    *   0,1799
+
+    *   0,1697
+
+    *   0,1269
+
+    *   0,0951
+
+    *   0,0713
+
+
+*    *   61
+
+    *   0,2089
+
+    *   0,1969
+
+    *   0,1855
+
+    *   0,1748
+
+    *   0,1648
+
+    *   0,1226
+
+    *   0,0914
+
+    *   0,0682
+
+
+*    *   62
+
+    *   0,2036
+
+    *   0,1917
+
+    *   0,1805
+
+    *   0,1699
+
+    *   0,1600
+
+    *   0,1185
+
+    *   0,0879
+
+    *   0,0653
+
+
+*    *   63
+
+    *   0,1985
+
+    *   0,1867
+
+    *   0,1756
+
+    *   0,1651
+
+    *   0,1553
+
+    *   0,1145
+
+    *   0,0845
+
+    *   0,0625
+
+
+*    *   64
+
+    *   0,1935
+
+    *   0,1818
+
+    *   0,1708
+
+    *   0,1605
+
+    *   0,1508
+
+    *   0,1106
+
+    *   0,0813
+
+    *   0,0598
+
+
+*    *   65
+
+    *   0,1885
+
+    *   0,1770
+
+    *   0,1661
+
+    *   0,1560
+
+    *   0,1464
+
+    *   0,1069
+
+    *   0,0781
+
+    *   0,0572
+
+
+*    *   66
+
+    *   0,1838
+
+    *   0,1723
+
+    *   0,1616
+
+    *   0,1516
+
+    *   0,1421
+
+    *   0,1033
+
+    *   0,0751
+
+    *   0,0547
+
+
+*    *   67
+
+    *   0,1791
+
+    *   0,1678
+
+    *   0,1572
+
+    *   0,1473
+
+    *   0,1380
+
+    *   0,0998
+
+    *   0,0722
+
+    *   0,0524
+
+
+*    *   68
+
+    *   0,1746
+
+    *   0,1634
+
+    *   0,1529
+
+    *   0,1431
+
+    *   0,1340
+
+    *   0,0964
+
+    *   0,0695
+
+    *   0,0501
+
+
+*    *   69
+
+    *   0,1702
+
+    *   0,1591
+
+    *   0,1488
+
+    *   0,1391
+
+    *   0,1301
+
+    *   0,0931
+
+    *   0,0668
+
+    *   0,0480
+
+
+*    *   70
+
+    *   0,1658
+
+    *   0,1549
+
+    *   0,1447
+
+    *   0,1352
+
+    *   0,1263
+
+    *   0,0900
+
+    *   0,0642
+
+    *   0,0459
+
+
+*    *   71
+
+    *   0,1616
+
+    *   0,1508
+
+    *   0,1408
+
+    *   0,1314
+
+    *   0,1226
+
+    *   0,0869
+
+    *   0,0617
+
+    *   0,0439
+
+
+*    *   72
+
+    *   0,1575
+
+    *   0,1469
+
+    *   0,1369
+
+    *   0,1277
+
+    *   0,1190
+
+    *   0,0840
+
+    *   0,0594
+
+    *   0,0420
+
+
+*    *   73
+
+    *   0,1535
+
+    *   0,1430
+
+    *   0,1332
+
+    *   0,1241
+
+    *   0,1156
+
+    *   0,0812
+
+    *   0,0571
+
+    *   0,0402
+
+
+*    *   74
+
+    *   0,1497
+
+    *   0,1392
+
+    *   0,1296
+
+    *   0,1206
+
+    *   0,1122
+
+    *   0,0784
+
+    *   0,0549
+
+    *   0,0385
+
+
+*    *   75
+
+    *   0,1459
+
+    *   0,1356
+
+    *   0,1260
+
+    *   0,1172
+
+    *   0,1089
+
+    *   0,0758
+
+    *   0,0528
+
+    *   0,0368
+
+
+*    *   76
+
+    *   0,1422
+
+    *   0,1320
+
+    *   0,1226
+
+    *   0,1139
+
+    *   0,1058
+
+    *   0,0732
+
+    *   0,0508
+
+    *   0,0353
+
+
+*    *   77
+
+    *   0,1386
+
+    *   0,1286
+
+    *   0,1193
+
+    *   0,1107
+
+    *   0,1027
+
+    *   0,0707
+
+    *   0,0488
+
+    *   0,0337
+
+
+*    *   78
+
+    *   0,1351
+
+    *   0,1252
+
+    *   0,1160
+
+    *   0,1075
+
+    *   0,0997
+
+    *   0,0683
+
+    *   0,0469
+
+    *   0,0323
+
+
+*    *   79
+
+    *   0,1316
+
+    *   0,1219
+
+    *   0,1129
+
+    *   0,1045
+
+    *   0,0968
+
+    *   0,0660
+
+    *   0,0451
+
+    *   0,0309
+
+
+*    *   80
+
+    *   0,1283
+
+    *   0,1187
+
+    *   0,1098
+
+    *   0,1016
+
+    *   0,0940
+
+    *   0,0638
+
+    *   0,0434
+
+    *   0,0296
+
+
+*    *   81
+
+    *   0,1250
+
+    *   0,1156
+
+    *   0,1068
+
+    *   0,0987
+
+    *   0,0912
+
+    *   0,0616
+
+    *   0,0417
+
+    *   0,0283
+
+
+*    *   82
+
+    *   0,1219
+
+    *   0,1125
+
+    *   0,1039
+
+    *   0,0959
+
+    *   0,0886
+
+    *   0,0596
+
+    *   0,0401
+
+    *   0,0271
+
+
+*    *   83
+
+    *   0,1188
+
+    *   0,1096
+
+    *   0,1011
+
+    *   0,0932
+
+    *   0,0860
+
+    *   0,0575
+
+    *   0,0386
+
+    *   0,0259
+
+
+*    *   84
+
+    *   0,1158
+
+    *   0,1067
+
+    *   0,0983
+
+    *   0,0906
+
+    *   0,0835
+
+    *   0,0556
+
+    *   0,0371
+
+    *   0,0248
+
+
+*    *   85
+
+    *   0,1128
+
+    *   0,1039
+
+    *   0,0956
+
+    *   0,0880
+
+    *   0,0811
+
+    *   0,0537
+
+    *   0,0357
+
+    *   0,0237
+
+
+*    *   86
+
+    *   0,1100
+
+    *   0,1011
+
+    *   0,0930
+
+    *   0,0856
+
+    *   0,0787
+
+    *   0,0519
+
+    *   0,0343
+
+    *   0,0227
+
+
+*    *   87
+
+    *   0,1072
+
+    *   0,0985
+
+    *   0,0905
+
+    *   0,0832
+
+    *   0,0764
+
+    *   0,0501
+
+    *   0,0330
+
+    *   0,0217
+
+
+*    *   88
+
+    *   0,1045
+
+    *   0,0959
+
+    *   0,0880
+
+    *   0,0808
+
+    *   0,0742
+
+    *   0,0484
+
+    *   0,0317
+
+    *   0,0208
+
+
+*    *   89
+
+    *   0,1018
+
+    *   0,0934
+
+    *   0,0856
+
+    *   0,0785
+
+    *   0,0720
+
+    *   0,0468
+
+    *   0,0305
+
+    *   0,0199
+
+
+*    *   90
+
+    *   0,0993
+
+    *   0,0909
+
+    *   0,0833
+
+    *   0,0763
+
+    *   0,0699
+
+    *   0,0452
+
+    *   0,0293
+
+    *   0,0190
+
+
+*    *   91
+
+    *   0,0967
+
+    *   0,0885
+
+    *   0,0810
+
+    *   0,0742
+
+    *   0,0679
+
+    *   0,0437
+
+    *   0,0282
+
+    *   0,0182
+
+
+*    *   92
+
+    *   0,0943
+
+    *   0,0862
+
+    *   0,0788
+
+    *   0,0721
+
+    *   0,0659
+
+    *   0,0422
+
+    *   0,0271
+
+    *   0,0174
+
+
+*    *   93
+
+    *   0,0919
+
+    *   0,0839
+
+    *   0,0767
+
+    *   0,0700
+
+    *   0,0640
+
+    *   0,0408
+
+    *   0,0261
+
+    *   0,0167
+
+
+*    *   94
+
+    *   0,0896
+
+    *   0,0817
+
+    *   0,0746
+
+    *   0,0681
+
+    *   0,0621
+
+    *   0,0394
+
+    *   0,0251
+
+    *   0,0160
+
+
+*    *   95
+
+    *   0,0873
+
+    *   0,0796
+
+    *   0,0726
+
+    *   0,0662
+
+    *   0,0603
+
+    *   0,0381
+
+    *   0,0241
+
+    *   0,0153
+
+
+*    *   96
+
+    *   0,0851
+
+    *   0,0775
+
+    *   0,0706
+
+    *   0,0643
+
+    *   0,0586
+
+    *   0,0368
+
+    *   0,0232
+
+    *   0,0146
+
+
+*    *   97
+
+    *   0,0829
+
+    *   0,0755
+
+    *   0,0687
+
+    *   0,0625
+
+    *   0,0569
+
+    *   0,0355
+
+    *   0,0223
+
+    *   0,0140
+
+
+*    *   98
+
+    *   0,0808
+
+    *   0,0735
+
+    *   0,0668
+
+    *   0,0607
+
+    *   0,0552
+
+    *   0,0343
+
+    *   0,0214
+
+    *   0,0134
+
+
+*    *   99
+
+    *   0,0788
+
+    *   0,0715
+
+    *   0,0650
+
+    *   0,0590
+
+    *   0,0536
+
+    *   0,0332
+
+    *   0,0206
+
+    *   0,0128
+
+
+*    *   100
+
+    *   0,0768
+
+    *   0,0697
+
+    *   0,0632
+
+    *   0,0573
+
+    *   0,0520
+
+    *   0,0321
+
+    *   0,0198
+
+    *   0,0123
+
+
+
+Berechnungsvorschrift für die Abzinsungsfaktoren (Barwertfaktoren für
+die Abzinsung):
+
+![bgbl1_2019_j1794-1_0030.jpg](bgbl1_2019_j1794-1_0030.jpg)
+
+q   = 1 + LZ wobei
+    ![bgbl1_2019_j1794-1_0040.jpg](bgbl1_2019_j1794-1_0040.jpg)
+
+LZ  = Zinssatz (Liegenschaftszinssatz)
+
+
+n   = Restnutzungsdauer
+
+
+p   = Zinsfuß
+
+
+
+
+(zu § 259 Absatz 1)
+
+### Anlage 42 Normalherstellungskosten
+
+(Fundstelle: BGBl. I 2019, 1847 – 1848)
+
+
+**I.** **Begriff der Brutto-Grundfläche (BGF)**
+
+    1.  Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart
+        marktüblich nutzbaren Grundflächen aller Grundrissebenen eines
+        Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den
+        Grundflächen folgende Bereiche zu unterscheiden:
+
+        Bereich a: überdeckt und allseitig in voller Höhe umschlossen,
+
+        Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe
+        umschlossen,
+
+        Bereich c: nicht überdeckt.
+
+        Für die Anwendung der Normalherstellungskosten (NHK) sind im Rahmen
+        der Ermittlung der BGF nur die Grundflächen der Bereiche a und b
+        zugrunde zu legen. Balkone, auch wenn sie überdeckt sind, sind dem
+        Bereich c zuzuordnen.
+
+        Für die Ermittlung der BGF sind die äußeren Maße der Bauteile
+        einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger
+        Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen.
+
+
+    2.  Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern,
+        Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung
+        von Baukonstruktionen und technischen Anlagen dienen, sowie Flächen
+        unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
+
+
+
+
+
+**II.** **Normalherstellungskosten (NHK)**
+
+    Normalherstellungskosten in Euro/m
+    2                    BGF auf der Grundlage der
+    Normalherstellungskosten 2010 (NHK 2010), einschließlich
+    Baunebenkosten und Umsatzsteuer für die jeweilige Gebäudeart
+    (Kostenstand 2010) sowie eines pauschalen Zuschlages für bauliche
+    Anlagen, insbesondere Außenanlagen, und sonstige Anlagen (3 %)
+
+    *        *   **Gebäudeart**
+
+        *   **Baujahrgruppe**
+
+
+    *        *   **vor 1995**
+
+        *   **1995 – 2004**
+
+        *   **ab 2005**
+
+
+    *        *   1
+
+        *   Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)
+
+        *   695
+
+        *   886
+
+        *   1 118
+
+
+    *        *   2
+
+        *   Banken und ähnliche Geschäftshäuser
+
+        *   736
+
+        *   937
+
+        *   1 494
+
+
+    *        *   3
+
+        *   Bürogebäude, Verwaltungsgebäude
+
+        *   839
+
+        *   1 071
+
+        *   1 736
+
+
+    *        *   4
+
+        *   Gemeindezentren, Vereinsheime, Saalbauten, Veranstaltungsgebäude
+
+        *   1 004
+
+        *   1 282
+
+        *   1 555
+
+
+    *        *   5
+
+        *   Kindergärten (Kindertagesstätten), allgemeinbildende Schulen,
+            berufsbildende Schulen, Hochschulen, Sonderschulen
+
+        *   1 164
+
+        *   1 488
+
+        *   1 710
+
+
+    *        *   6
+
+        *   Wohnheime, Internate, Alten-, Pflegeheime
+
+        *   876
+
+        *   1 118
+
+        *   1 370
+
+
+    *        *   7
+
+        *   Krankenhäuser, Kliniken, Tageskliniken, Ärztehäuser
+
+        *   1 334
+
+        *   1 705
+
+        *   2 075
+
+
+    *        *   8
+
+        *   Beherbergungsstätten, Hotels, Verpflegungseinrichtungen
+
+        *   1 118
+
+        *   1 427
+
+        *   1 859
+
+
+    *        *   9.1
+
+        *   Sporthallen
+
+        *   1 133
+
+        *   1 447
+
+        *   1 777
+
+
+    *        *   9.2
+
+        *   Tennishallen
+
+        *   814
+
+        *   1 040
+
+        *   1 226
+
+
+    *        *   9.3
+
+        *   Freizeitbäder, Kur- und Heilbäder
+
+        *   1 978
+
+        *   2 524
+
+        *   3 075
+
+
+    *        *   10.1
+
+        *   Verbrauchermärkte
+
+        *   582
+
+        *   742
+
+        *   896
+
+
+    *        *   10.2
+
+        *   Kauf- und Warenhäuser
+
+        *   1 066
+
+        *   1 360
+
+        *   1 633
+
+
+    *        *   10.3
+
+        *   Autohäuser ohne Werkstatt
+
+        *   757
+
+        *   968
+
+        *   1 277
+
+
+    *        *   11.1
+
+        *   Betriebs- und Werkstätten eingeschossig oder mehrgeschossig ohne
+            Hallenanteil; industrielle Produktionsgebäude, Massivbauweise
+
+        *   762
+
+        *   973
+
+        *   1 200
+
+
+    *        *   11.2
+
+        *   Betriebs- und Werkstätten, mehrgeschossig, hoher Hallenanteil;
+            industrielle Produktionsgebäude, überwiegend Skelettbauweise
+
+        *   536
+
+        *   680
+
+        *   942
+
+
+    *        *   12.1
+
+        *   Lagergebäude ohne Mischnutzung, Kaltlager
+
+        *   283
+
+        *   361
+
+        *   505
+
+
+    *        *   12.2
+
+        *   Lagergebäude mit bis zu 25 Prozent Mischnutzung
+
+        *   443
+
+        *   567
+
+        *   711
+
+
+    *        *   12.3
+
+        *   Lagergebäude mit mehr als 25 Prozent Mischnutzung
+
+        *   716
+
+        *   917
+
+        *   1 128
+
+
+    *        *   13
+
+        *   Museen, Theater, Sakralbauten
+
+        *   1 514
+
+        *   1 875
+
+        *   2 395
+
+
+    *        *   14
+
+        *   Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen
+            und Ähnliches
+
+        *   263
+
+
+    *        *   15
+
+        *   Stallbauten
+
+        *   422
+
+
+    *        *   16
+
+        *   Hochgaragen, Tiefgaragen und Nutzfahrzeuggaragen
+
+        *   623
+
+
+    *        *   17
+
+        *   Einzelgaragen, Mehrfachgaragen
+
+        *   500
+
+
+    *        *   18
+
+        *   Carports und Ähnliches
+
+        *   196
+
+
+    *        *   **19**
+
+        *   **Teileigentum**
+            Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den
+            vorstehenden Gebäudearten zuzuordnen.
+
+
+    *        *   **20**
+
+        *   **Auffangklausel**
+            Normalherstellungskosten für nicht aufgeführte Gebäudearten sind aus
+            den Normalherstellungskosten vergleichbarer Gebäudearten abzuleiten.
+
+
+
+
+
+
+
+(zu § 260)
+Wertzahlen
+für Teileigentum, Geschäftsgrundstücke, gemischt genutzte Grundstücke
+
+### Anlage 43 und sonstige bebaute Grundstücke nach § 249 Absatz 1 Nummer 5 bis 8
+
+(Fundstelle: BGBl. I 2019, 1849)
+
+
+*    *
+    *   **Bodenrichtwert**
+
+
+*    *   **Vorläufiger Sachwert**
+
+    *   bis 100 EUR/m
+        2 ****
+
+    *   bis 300 EUR/m
+        2 ****
+
+    *   über 300 EUR/m
+        2 ****
+
+
+*    *   bis
+
+    *   500 000 EUR
+
+    *   0,80
+
+    *   0,90
+
+    *   1,00
+
+
+*    *   750 000 EUR
+
+    *   0,75
+
+    *   0,85
+
+    *   0,95
+
+
+*    *   1 000 000 EUR
+
+    *   0,70
+
+    *   0,80
+
+    *   0,90
+
+
+*    *   1 500 000 EUR
+
+    *   0,65
+
+    *   0,75
+
+    *   0,85
+
+
+*    *   2 000 000 EUR
+
+    *   0,60
+
+    *   0,70
+
+    *   0,80
+
+
+*    *   3 000 000 EUR
+
+    *   0,55
+
+    *   0,65
+
+    *   0,75
+
+
+*    *   über
+
+    *   3 000 000 EUR
+
+    *   0,50
+
+    *   0,60
+
+    *   0,70
 
 
 

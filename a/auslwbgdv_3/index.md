@@ -75,7 +75,7 @@ London.
 
 (2) Das Schiedsgericht besteht aus drei Schiedsrichtern, und zwar
 einem Vorsitzer und zwei Beisitzern. Der Vorsitzer und ein Beisitzer
-müssen Mitglieder des englischen Anwaltsstands (Barristers oder
+müssen Mitglieder des englischen Anwaltsstandes (Barristers oder
 Solicitors) mit mindestens dreijähriger Berufspraxis sein.
 
 (3) Die Schiedsrichter werden durch den Bundesminister der Finanzen

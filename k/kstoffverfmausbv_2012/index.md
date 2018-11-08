@@ -3004,8 +3004,9 @@ Kunststoff- und Kautschuktechnik/zur Verfahrensmechanikerin für
 Kunststoff- und Kautschuktechnik vom 7. April 2006 (BGBl. I S. 905,
 1293) außer Kraft.
 
+(zu § 4)
 
-### Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
+### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
 
 (Fundstelle: BGBl. I 2012, 1185 - 1200)
 

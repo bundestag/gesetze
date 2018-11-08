@@ -1,5 +1,6 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Berg- und Maschinenmann
+Title: Verordnung über die Berufsausbildung zum Berg- und Maschinenmann und zur Berg-
+  und Maschinenfrau
 jurabk: BergMAusbV
 layout: default
 origslug: bergmausbv
@@ -7,13 +8,16 @@ slug: bergmausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Berg- und Maschinenmann (BergMAusbV)
+# Verordnung über die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau (BergMAusbV)
 
 Ausfertigungsdatum
 :   1979-06-22
 
 Fundstelle
 :   BGBl I: 1979, 837
+
+Geändert durch
+:   Art. 1 V v. 29.7.2013 I 2834
 
 
 
@@ -26,9 +30,10 @@ Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
 
-## § 1 Staatliche Anerkennung des Ausbildungsberufs
+## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Berg- und Maschinenmann wird staatlich anerkannt.
+Der Ausbildungsberuf des Berg- und Maschinenmannes und der Berg- und
+Maschinenfrau wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
@@ -458,28 +463,8 @@ Widerspruch zum bisherigen Prüfungsergebnis stehen.
 der Kenntnisprüfung mindestens ausreichende Leistungen erbracht sind.
 
 
-## § 9 Übergangsregelung
+## (XXXX) §§ 9 und 10 (weggefallen)
 
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5) Die auf der Grundlage der Verordnung über die Erprobung der
-Ausbildungsberufe Berg- und Maschinenmann - Vortrieb und Gewinnung -,
-Berg- und Maschinenmann - Montage und Wartung -, Berg- und
-Maschinenmann - Förderung und Transport - vom 4. Mai 1977 (BGBl. I S.
-676) erworbenen Abschlüsse gelten als Abschluß in dem Ausbildungsberuf
-Berg- und Maschinenmann dieser Verordnung.
-
-
-## § 10 Berlin-Klausel
-
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 11 Inkrafttreten
@@ -491,10 +476,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Berg- und Maschinenmann
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau
 
-(Fundstelle: BGBl. I 1979, 841 - 848)
+(Fundstelle: BGBl. I 1979, 841 - 848;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **I. Gemeinsame Fertigkeiten und Kenntnisse:**
 
@@ -1403,10 +1390,11 @@ Der Bundesminister für Wirtschaft
 
 
 
+   Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
-   Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
 1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt

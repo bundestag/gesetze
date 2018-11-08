@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 2470
 
 Zuletzt geändert durch
-:   Art. 6 G v. 29.7.2009 I 2424
+:   Art. 153 G v. 20.11.2019 I 1626
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 94/56/EWG des Rates
 vom 21. November 1994 über Grundsätze für die Untersuchung von
@@ -37,9 +37,8 @@ in Kraft getreten.
 
 (1) Dieses Gesetz gilt für die Untersuchung von Unfällen und Störungen
 beim Betrieb ziviler Luftfahrzeuge, die sich im Hoheitsgebiet der
-Bundesrepublik Deutschland ereignen, und für die Erhebung,
-Verarbeitung und Nutzung von personenbezogenen Daten, die in diesem
-Zusammenhang anfallen.
+Bundesrepublik Deutschland ereignen, und für die Verarbeitung von
+personenbezogenen Daten, die in diesem Zusammenhang anfallen.
 
 (2) Wird die Untersuchung eines Unfalls oder einer Störung eines in
 der Bundesrepublik Deutschland eingetragenen oder hergestellten oder
@@ -53,7 +52,7 @@ ausländischen Rechts.
 Luftfahrzeuge beteiligt sind, werden federführend von der zivilen
 Bundesstelle für Flugunfalluntersuchung untersucht (§ 4). Für Fälle,
 die überwiegend militärische Belange berühren, wird zwischen dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
 Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
 
 
@@ -262,13 +261,13 @@ Buchstabe b entsprechend anzuwenden.
 ### § 4 Bundesstelle für Flugunfalluntersuchung
 
 (1) Zur Untersuchung von Unfällen und Störungen in der zivilen
-Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr,
-Bau und Stadtentwicklung die Bundesstelle für Flugunfalluntersuchung
-errichtet. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-bestimmt den Sitz der Bundesstelle und regelt ihren Aufbau. Die
-Bundesstelle wird von ihrem Direktor geleitet. Verwaltungsangehörige
-der Bundesstelle sind im übrigen die Beamten, Angestellten und
-Arbeiter. Die Beamten sind Bundesbeamte.
+Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr
+und digitale Infrastruktur die Bundesstelle für Flugunfalluntersuchung
+errichtet. Das Bundesministerium für Verkehr und digitale
+Infrastruktur bestimmt den Sitz der Bundesstelle und regelt ihren
+Aufbau. Die Bundesstelle wird von ihrem Direktor geleitet.
+Verwaltungsangehörige der Bundesstelle sind im übrigen die Beamten,
+Angestellten und Arbeiter. Die Beamten sind Bundesbeamte.
 
 (2) Die Bundesstelle nimmt ihre Aufgaben funktionell und
 organisatorisch unabhängig wahr insbesondere von jenen
@@ -295,7 +294,7 @@ Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte
 und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten
 aus Mitteln der Bundesstelle Reisekostenvergütung nach den für
 Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung festgesetzt
+Bundesministerium für Verkehr und digitale Infrastruktur festgesetzt
 wird.
 
 (5) Der Leiter der Bundesstelle und die Untersuchungsführer dürfen
@@ -333,8 +332,8 @@ durchführt, zu benennen. Gleiches gilt für die Teilnahme von
 Vertretern des Herstellers des Luftfahrzeugs oder seiner Teile. Die
 Bundesstelle übermittelt der ausländischen Behörde alle verfügbaren
 erforderlichen Informationen; der Empfänger ist darauf hinzuweisen,
-daß die übermittelten Daten nur zu dem Zweck verarbeitet und genutzt
-werden dürfen, zu deren Erfüllung sie ihm übermittelt worden sind.
+daß die übermittelten Daten nur zu dem Zweck verarbeitet werden
+dürfen, zu deren Erfüllung sie ihm übermittelt worden sind.
 
 (2) Bei Bedarf kann die Bundesstelle die zuständigen Stellen anderer
 Staaten darum ersuchen, zur Verfügung zu stellen:
@@ -402,7 +401,7 @@ dem Unfall oder der schweren Störung beim Betrieb ziviler
 Luftfahrzeuge steht oder die von erheblicher Bedeutung ist,
 unterrichtet die Bundesstelle die für die Luftsicherheit zuständige
 Behörde und die zuständigen Strafverfolgungsbehörden. Sie kann zu
-diesem Zweck aus personenbezogene Daten übermitteln.
+diesem Zweck auch personenbezogene Daten übermitteln.
 
 
 ## Dritter Abschnitt - Untersuchung
@@ -742,7 +741,7 @@ später als zwölf Monate nach dem Ereignis. Je ein Exemplar wird
 
 
 2.  die Internationale Zivilluftfahrt-Organisation bei Luftfahrzeugen mit
-    einer Höchstmasse über 5.700 kg,
+    einer Höchstmasse über 5 700 kg,
 
 
 3.  die Kommission der Europäischen Gemeinschaft.
@@ -750,8 +749,8 @@ später als zwölf Monate nach dem Ereignis. Je ein Exemplar wird
 
 
 Im übrigen erfolgt die Herausgabe des Berichts durch Bekanntgabe der
-Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr, Bau
-und Stadtentwicklung.
+Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr und
+digitale Infrastruktur.
 
 (4) Unfälle und Störungen, deren Untersuchungsergebnisse nicht von
 besonderer Bedeutung für die Flugsicherheit sind, werden mit einem
@@ -803,11 +802,11 @@ Veröffentlichung ist § 18 Abs. 2 Satz 1 entsprechend anzuwenden.
 
 ### § 21 Erteilung von Auskünften und Akteneinsicht
 
-(1) Die Bundesstelle kann den von dem Ereignis Betroffenen oder deren
-Rechtsbeiständen Auskünfte aus den Akten des Untersuchungsverfahrens
-erteilen, soweit die Auskünfte zur Feststellung, Durchsetzung oder zur
-Abwehr von Rechtsansprüchen im Zusammenhang mit dem Unfall oder der
-Störung erforderlich sind.
+(1) Die Bundesstelle kann den von dem Ereignis betroffenen Personen
+oder deren Rechtsbeiständen Auskünfte aus den Akten des
+Untersuchungsverfahrens erteilen, soweit die Auskünfte zur
+Feststellung, Durchsetzung oder zur Abwehr von Rechtsansprüchen im
+Zusammenhang mit dem Unfall oder der Störung erforderlich sind.
 
 (2) Auskunft wird zwecks Wahrung der Privatsphäre nicht erteilt
 hinsichtlich
@@ -923,24 +922,30 @@ der nach dem Verwaltungs-Vollstreckungsgesetz vom 27. April 1953
 vollzogen werden kann.
 
 
-### § 25 Erhebung, Verarbeitung und Nutzung von Daten
+### § 25 Verarbeitung von Daten
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach § 11 und die
 Teilnehmer nach § 14 dürfen im Rahmen ihrer Befugnisse nach den §§ 11
 und 16 personenbezogene Daten aller an dem Unfall oder der Störung
 beteiligten oder betroffenen Personen, sowie von Zeugen und anderen
 Personen, die über den Unfall oder die Störung Aussagen machen,
-erheben, verarbeiten und nutzen, soweit dies für die Zwecke der
-Untersuchung nach § 3 erforderlich ist. Ebenso stellen sie die
-beteiligten Luftfahrzeuge nach Baumuster und Kennzeichen und die
-identifizierenden Kennwerte der an Bord befindlichen Gepäck- und
-Frachtstücke fest.
+verarbeiten, soweit dies für die Zwecke der Untersuchung nach § 3
+erforderlich ist. Ebenso stellen sie die beteiligten Luftfahrzeuge
+nach Baumuster und Kennzeichen und die identifizierenden Kennwerte der
+an Bord befindlichen Gepäck- und Frachtstücke fest.
 
-(2) Vertrauliche Erklärungen sind durch technische Maßnahmen gegen
-unbefugte Einsichtnahme besonders zu schützen.
+(2) Vertrauliche Erklärungen und personenbezogene Daten sind durch
+technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und
+32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des
+Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) in der jeweils geltenden Fassung gegen unbefugte
+Einsichtnahme besonders zu schützen.
 
-(3) Die nach Absatz 1 erhobenen Daten werden in einer Datei
-gespeichert oder in Akten festgehalten.
+(3) Die Daten nach Absatz 1 werden in einem Dateisystem gespeichert
+oder in Akten festgehalten.
 
 
 ### § 26 Datenübermittlung an öffentliche Stellen
@@ -953,7 +958,7 @@ eines Strafverfahrens, für die Verfolgung von Ordnungswidrigkeiten und
 für gerichtliche Verfahren zur Feststellung, Geltendmachung oder
 Abwehr von Rechtsansprüchen im Zusammenhang mit dem Unfall oder der
 Störung sowie zum Zweck der Information von Angehörigen der vom
-Unfallereignis Betroffenen erforderlich ist.
+Unfallereignis betroffenen Personen erforderlich ist.
 
 (2) Unter den Voraussetzungen des Absatzes 1 kann Akteneinsicht
 gewährt werden, wenn die Übermittlung von Daten einen
@@ -976,16 +981,16 @@ auf Antrag der Bundesstelle unverzüglich zurückzugeben.
 (4) Die Bundesstelle darf Daten nach § 25 zu den in Absatz 1 genannten
 Zwecken an die in § 6 Abs. 1 genannten Stellen übermitteln, soweit
 dies zur Erfüllung der in der Zuständigkeit der empfangenden Stelle
-liegenden Aufgaben erforderlich ist und schutzwürdige Interessen des
-Betroffenen nicht beeinträchtigt werden, insbesondere beim Empfänger
-ein angemessener Datenschutzstandard gewährleistet ist. Die
+liegenden Aufgaben erforderlich ist und schutzwürdige Interessen der
+betroffenen Person nicht beeinträchtigt werden, insbesondere beim
+Empfänger ein angemessener Datenschutzstandard gewährleistet ist. Die
 Übermittlung von personenbezogenen Daten ist auch dann, wenn beim
 Empfänger ein angemessener Datenschutz nicht gewährleistet ist,
 zulässig, soweit sie zur Verhütung von Unfällen beim Betrieb ziviler
 Luftfahrzeuge und für Zwecke der Information von Angehörigen der vom
-Unfallereignis Betroffenen erforderlich ist. Der Empfänger ist darauf
-hinzuweisen, daß die übermittelten Daten nur zu dem Zweck verarbeitet
-und genutzt werden dürfen, zu dessen Erfüllung sie ihm übermittelt
+Unfallereignis betroffenen Personen erforderlich ist. Der Empfänger
+ist darauf hinzuweisen, daß die übermittelten Daten nur zu dem Zweck
+verarbeitet werden dürfen, zu dessen Erfüllung sie ihm übermittelt
 worden sind.
 
 
@@ -994,13 +999,14 @@ worden sind.
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit
 Todesopfern 30 Jahre. Alle anderen Akten werden 20 Jahre aufbewahrt.
 
-(2) Die in Dateien gespeicherten Daten werden bei Unfällen mit
+(2) Die in Dateisystemen gespeicherten Daten werden bei Unfällen mit
 tödlichem Ausgang nach Ablauf von 30 Jahren, im übrigen nach Ablauf
 von 20 Jahren gelöscht.
 
 (3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluß des
-Verfahrens. § 187 Abs. 1 des Bürgerlichen Gesetzbuchs und § 2 Abs. 1
-bis 6, 8 und 9 des Bundesarchivgesetzes finden Anwendung.
+Verfahrens. § 187 Absatz 1 des Bürgerlichen Gesetzbuchs und § 1 Nummer
+2, 8 bis 10, § 3 Absatz 4, sowie die §§ 5 bis 7 des
+Bundesarchivgesetzes sind anzuwenden.
 
 
 ### § 28 Flugsicherheitsarbeit

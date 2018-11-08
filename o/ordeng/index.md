@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 844
 
 Zuletzt geändert durch
-:   Art. 10 G v. 19.2.2006 I 334
+:   Art. 14 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -81,7 +81,7 @@ Verleihungsurkunde anordnen. Für Klagen gegen die Entziehung eines
 Titels oder einer Auszeichnung und die Einziehung der
 Verleihungsurkunde ist der Verwaltungsrechtsweg gegeben. Soweit
 Anordnungen des Bundespräsidenten angefochten werden, ist die Klage
-gegen den Bundesminister des Innern zu richten.
+gegen den Bundesminister des Innern, für Bau und Heimat zu richten.
 
 (2) Erkennt ein Gericht
 
@@ -166,8 +166,8 @@ Ehrenzeichen dürfen getragen werden
     die in dieser Zeit gestifteten staatlichen Dienstauszeichnungen und
     Treudienstehrenzeichen. Sie dürfen nur ohne nationalsozialistische
     Embleme getragen werden; für ihre Form sind die von der
-    Bundesregierung bestimmten und im Bundesministerium des Innern
-    verwahrten Muster \*) maßgebend;
+    Bundesregierung bestimmten und im Bundesministerium des Innern, für
+    Bau und Heimat verwahrten Muster \*) maßgebend;
 
 
 3.  Orden und Ehrenzeichen, die vom 1. September 1939 bis zum 8. Mai 1945
@@ -196,6 +196,9 @@ verbündeter Länder für Verdienste im ersten und zweiten Weltkrieg zu
 tragen (Absatz 1 Nr. 4 Satz 2), entziehen. § 4 Satz 2 und 3 gilt
 entsprechend.
 
+\*) Muster und Herstellungsvorschriften können vom Bundesministerium
+des Innern, für Bau und Heimat bezogen werden
+
 
 ### § 7 Verwundetenabzeichen des zweiten Weltkrieges
 
@@ -206,9 +209,9 @@ Verwundetenabzeichens vom 1. September 1939 (Reichsgesetzbl. I S.
 1577) und den hierzu ergangenen Ausführungsbestimmungen nach Anzahl
 oder Schwere der Verwundungen oder Beschädigungen vorgesehen ist.
 
-(2) Der Bundesminister des Innern wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, wie der
-Nachweis der Verwundungen oder Beschädigungen zu führen ist.
+(2) Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
+wie der Nachweis der Verwundungen oder Beschädigungen zu führen ist.
 
 
 ## Dritter Abschnitt - Besitznachweis
@@ -239,8 +242,8 @@ Verleihung der betreffenden Auszeichnung glaubhaft nachgewiesen hat
 (2) Voraussetzung für die Ausstellung einer Ersatzurkunde gemäß Absatz
 1 ist, daß die Verleihung der Auszeichnung nachgewiesen wird. Die Art
 des Nachweises und das Verfahren der Ausstellung einer Ersatzurkunde
-regelt der Bundesminister des Innern durch Rechtsverordnung, die der
-Zustimmung des Bundesrates bedarf.
+regelt der Bundesminister des Innern, für Bau und Heimat durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
 (3) Die Ersatzurkunde nach Absatz 1 hat im Rechtsverkehr dieselbe
 Wirkung wie die Verleihungsurkunde oder das Besitzzeugnis.
@@ -255,13 +258,13 @@ zuständigen Behörden.
 1945 verliehen worden sind, gilt auch die ordnungsgemäße Eintragung
 der Verleihung in den Militärdienstzeitbescheinigungen, Wehrpässen und
 Soldbüchern sowie in anderen Militärpapieren mit Beglaubigungsvermerk.
-Der Bundesminister des Innern wird ermächtigt, durch Rechtsverordnung,
-die der Zustimmung des Bundesrates bedarf, zu bestimmen, daß auch
-Bescheinigungen anderer Art als Besitznachweis gelten, und die Stellen
-zu bezeichnen, die solche Bescheinigungen ausstellen; er kann dabei
-bestimmen, daß für die Ausstellung von Bescheinigungen durch
-Bundesbehörden Gebühren erhoben werden, die im Einzelfall höchstens
-zehn Deutsche Mark betragen dürfen.
+Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
+durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu
+bestimmen, daß auch Bescheinigungen anderer Art als Besitznachweis
+gelten, und die Stellen zu bezeichnen, die solche Bescheinigungen
+ausstellen; er kann dabei bestimmen, daß für die Ausstellung von
+Bescheinigungen durch Bundesbehörden Gebühren erhoben werden, die im
+Einzelfall höchstens zehn Deutsche Mark betragen dürfen.
 
 (2) Sind Verleihungsurkunden, Besitzzeugnisse oder andere in Absatz 1
 genannte Besitznachweise für Orden und Ehrenzeichen, die vor dem 8.

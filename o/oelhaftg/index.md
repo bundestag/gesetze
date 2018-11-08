@@ -4,7 +4,7 @@ Title: Gesetz zu den Internationalen Übereinkommen vom 29. November 1969 über 
   die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden
 jurabk: ÖlHaftG
 layout: default
-origslug: _lhaftg
+origslug: oelhaftg
 slug: oelhaftg
 
 ---
@@ -173,7 +173,7 @@ Artikel 5 Abs. 4 ist die See-Berufsgenossenschaft. § 6 des Gesetzes
 über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24.
 Mai 1965 (Bundesgesetzbl. II S. 833),
 zuletzt geändert durch das Bundes-Immissionsschutzgesetz vom 15. März
-1974 (Bundesgesetzbl. I S. 721, 1193),              gilt entsprechend.
+1974 (Bundesgesetzbl. I S. 721, 1193), gilt entsprechend.
 
 
 ## Dritter Teil - Vorschriften zur Ausführung des Internationalen Übereinkommens vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden

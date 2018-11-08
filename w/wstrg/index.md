@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.5.1974 I 1213;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 22.4.2005 I 1106
+:   Art. 10 Abs. 8 G v. 30.10.2017 I 3618
 
 
 ## Erster Teil - Allgemeine Bestimmungen
@@ -34,8 +34,8 @@ begehen.
 (2) Es gilt auch für Straftaten, durch die militärische Vorgesetzte,
 die nicht Soldaten sind, ihre Pflichten verletzen (§§ 30 bis 41).
 
-(3) Wegen Verletzung von Privatgeheimnissen (§ 203 Abs. 2, 4, 5, §§
-204, 205 des Strafgesetzbuches), wegen Verletzung des Post- oder
+(3) Wegen Verletzung von Privatgeheimnissen (§ 203 Absatz 2, 5 und 6,
+§§ 204, 205 des Strafgesetzbuches), wegen Verletzung des Post- oder
 Fernmeldegeheimnisses (§ 206 Abs. 4 des Strafgesetzbuches) und wegen
 Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 des
 Strafgesetzbuches) sind nach Maßgabe des § 48 auch frühere Soldaten
@@ -786,7 +786,8 @@ anderen Vorschriften mit schwererer Strafe bedroht ist.
 
     Verletzung der Vertraulichkeit des Wortes (§ 201 Abs. 3),
 
-    Verletzung von Privatgeheimnissen (§ 203 Abs. 2, 4, 5, §§ 204, 205),
+    Verletzung von Privatgeheimnissen (§ 203 Absatz 2, 5 und 6, §§ 204,
+    205),
 
     Verletzung des Post- oder Fernmeldegeheimnisses (§ 206 Abs. 4),
 
@@ -809,8 +810,9 @@ stehen Offiziere und Unteroffiziere den Amtsträgern und ihr Wehrdienst
 dem Amt gleich.
 
 (2) Für die Anwendung der Vorschriften des Strafgesetzbuches über
-Gefangenenbefreiung (§ 120 Abs. 2), Bestechlichkeit (§§ 332, 335 Abs.
-1 Nr. 1 Buchstabe a, Abs. 2, § 336), Falschbeurkundung im Amt (§ 348)
-und Verletzung des Dienstgeheimnisses (§ 353b Abs. 1) stehen auch
-Mannschaften den Amtsträgern und ihr Wehrdienst dem Amt gleich.
+Gefangenenbefreiung (§ 120 Abs. 2), Vorteilsannahme und
+Bestechlichkeit (§§ 331, 332, 335 Absatz 1 Nummer 1 Buchstabe a,
+Absatz 2, § 336), Falschbeurkundung im Amt (§ 348) und Verletzung des
+Dienstgeheimnisses (§ 353b Abs. 1) stehen auch Mannschaften den
+Amtsträgern und ihr Wehrdienst dem Amt gleich.
 

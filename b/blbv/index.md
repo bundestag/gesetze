@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2170
 
+Zuletzt geändert durch
+:   Art. 7 V v. 8.1.2020 I 27
+
 
 ## Eingangsformel
 
@@ -26,8 +29,8 @@ Juni 2009 (BGBl. I S. 1434) verordnet die Bundesregierung:
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für Besoldungsempfängerinnen und
-Besoldungsempfänger des Bundes in Besoldungsgruppen der
-Bundesbesoldungsordnung A.
+Besoldungsempfänger in den Besoldungsgruppen der
+Bundesbesoldungsordnung A sowie in den Besoldungsgruppen R 1 und R 2.
 
 
 ## § 2 Begriffsbestimmungen
@@ -35,15 +38,25 @@ Bundesbesoldungsordnung A.
 (1) Leistungsbezogene Besoldungsinstrumente im Sinne dieser Verordnung
 sind Leistungsstufe, Leistungsprämie und Leistungszulage.
 
-(2) Besoldungsempfängerinnen im Sinne dieser Verordnung sind
-Beamtinnen und Soldatinnen. Besoldungsempfänger im Sinne dieser
-Verordnung sind Beamte und Soldaten.
+(2) Besoldungsempfängerinnen und Besoldungsempfänger im Sinne dieser
+Verordnung sind:
+
+1.  Beamtinnen und Beamte, Soldatinnen und Soldaten,
+
+
+2.  Richterinnen und Richter, die ihr Amt nicht ausüben,
+
+
+3.  Staatsanwältinnen und Staatsanwälte.
+
+
+
 
 
 ## § 3 Leistungsstufe
 
 Die Leistungsstufe dient der Anerkennung dauerhaft herausragender
-Leistungen. Besoldungsempfängerinnen und Besoldungsempfängern, die
+Leistungen. Beamtinnen und Beamte sowie Soldatinnen und Soldaten, die
 dauerhaft herausragende Leistungen erbringen, kann für den Zeitraum
 bis zum Erreichen der nächsten Stufe das Grundgehalt der nächsthöheren
 Stufe gezahlt werden.
@@ -101,16 +114,14 @@ Leistungsstufe gewährt werden.
 (2) Die Gesamtzahl der in einem Kalenderjahr bei einem Dienstherrn
 vergebenen Leistungsprämien und Leistungszulagen darf 15 Prozent der
 Zahl der bei dem Dienstherrn am 1. Januar vorhandenen
-Besoldungsempfängerinnen und Besoldungsempfänger in Besoldungsgruppen
-der Bundesbesoldungsordnung A nicht übersteigen. Eine Überschreitung
-des Prozentsatzes nach Satz 1 ist jedoch in dem Umfang zulässig, in
-dem von der Möglichkeit der Vergabe von Leistungsstufen kein Gebrauch
-gemacht wird. Bei Anstalten, Stiftungen und Körperschaften mit weniger
-als sieben Besoldungsempfängerinnen und Besoldungsempfängern in
-Besoldungsgruppen der Bundesbesoldungsordnung A kann in jedem
-Kalenderjahr einer Besoldungsempfängerin oder einem
-Besoldungsempfänger eine Leistungsprämie oder Leistungszulage gewährt
-werden.
+Besoldungsempfängerinnen und Besoldungsempfänger nicht übersteigen.
+Eine Überschreitung des Prozentsatzes nach Satz 1 ist jedoch in dem
+Umfang zulässig, in dem von der Möglichkeit der Vergabe von
+Leistungsstufen kein Gebrauch gemacht wird. Bei Anstalten, Stiftungen
+und Körperschaften mit weniger als sieben Besoldungsempfängerinnen und
+Besoldungsempfängern kann in jedem Kalenderjahr einer
+Besoldungsempfängerin oder einem Besoldungsempfänger eine
+Leistungsprämie oder Leistungszulage gewährt werden.
 
 
 ## § 7 Teamregelungen
@@ -123,25 +134,24 @@ Leistungsprämie oder Leistungszulage im Sinne des § 6 Absatz 2 Satz 1.
 
 (2) Leistungsprämien und Leistungszulagen dürfen zusammen 250 Prozent
 des in § 4 Absatz 2 Satz 3 und § 5 Absatz 2 Satz 2 geregelten Umfangs
-nicht übersteigen; maßgeblich ist die höchste Besoldungsgruppe der
-Bundesbesoldungsordnung A, der die an der Leistung wesentlich
-Beteiligten angehören. Für Teilprämien und Teilzulagen, die sich für
-die einzelnen Besoldungsempfängerinnen oder Besoldungsempfänger
-ergeben, gilt § 4 Absatz 2 Satz 3 und § 5 Absatz 2 Satz 2
-entsprechend.
+nicht übersteigen; maßgeblich ist die höchste Besoldungsgruppe, der
+die an der Leistung wesentlich Beteiligten angehören. Für Teilprämien
+und Teilzulagen, die sich für die einzelnen Besoldungsempfängerinnen
+oder Besoldungsempfänger ergeben, gilt § 4 Absatz 2 Satz 3 und § 5
+Absatz 2 Satz 2 entsprechend.
 
 
 ## § 8 Ausschluss- und Konkurrenzregelungen
 
 (1) Leistungsbezogene Besoldungsinstrumente dürfen nicht neben einer
-Zulage nach § 45 oder § 46 des Bundesbesoldungsgesetzes gewährt
-werden, soweit sie auf Grund desselben Sachverhalts gewährt werden.
-Neben einer Zulage für die Tätigkeit bei obersten Bundesbehörden sowie
-bei obersten Gerichtshöfen des Bundes können leistungsbezogene
+Zulage nach § 45 des Bundesbesoldungsgesetzes gewährt werden, soweit
+sie auf Grund desselben Sachverhalts gewährt werden. Neben einer
+Zulage für die Tätigkeit bei obersten Bundesbehörden sowie bei
+obersten Gerichtshöfen des Bundes können leistungsbezogene
 Besoldungsinstrumente nur insoweit gewährt werden, als die Gesamtheit
 aller Instrumente 15 Prozent der Zahl der dort am 1. Januar jeweils
-vorhandenen Besoldungsempfängerinnen und Besoldungsempfänger in
-Besoldungsgruppen der Bundesbesoldungsordnung A nicht übersteigt.
+vorhandenen Besoldungsempfängerinnen und Besoldungsempfänger nicht
+übersteigt.
 
 (2) Eine Leistungsstufe darf nicht gewährt werden vor Ablauf eines
 Jahres seit der Berufung in ein Beamtenverhältnis auf Probe. Sie soll
@@ -188,11 +198,10 @@ der Bundesbesoldungsordnung A, die das Endgrundgehalt noch nicht
 erreicht haben, nicht übersteigen. Die Gesamtzahl der von den
 Entscheidungsberechtigten jeweils vergebenen Leistungsprämien und
 Leistungszulagen darf 15 Prozent der Zahl der ihnen unterstellten
-Besoldungsempfängerinnen und Besoldungsempfänger in Besoldungsgruppen
-der Bundesbesoldungsordnung A nicht überschreiten. Die
-Entscheidungsberechtigten können den Prozentsatz nach Satz 2 in dem
-Umfang überschreiten, in dem sie von der Möglichkeit der Vergabe von
-Leistungsstufen keinen Gebrauch machen.
+Besoldungsempfängerinnen und Besoldungsempfänger nicht überschreiten.
+Die Entscheidungsberechtigten können den Prozentsatz nach Satz 2 in
+dem Umfang überschreiten, in dem sie von der Möglichkeit der Vergabe
+von Leistungsstufen keinen Gebrauch machen.
 
 (3) Die Entscheidungsberechtigten haben die jeweilige herausragende
 Leistung zu dokumentieren. Sie sollen alle Laufbahngruppen und das
@@ -222,7 +231,7 @@ dezentralen Vergabe zu berücksichtigen. Die Vorstände der
 bundesunmittelbaren Sozialversicherungsträger können ihre Befugnisse
 auf die Geschäftsführung übertragen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur oder
 eine von ihm bestimmte Stelle trifft für die Beamtinnen und Beamten,
 die den Eisenbahnen des Bundes zugewiesen sind, Regelungen zu den
 Entscheidungsberechtigten und zum Verfahren.

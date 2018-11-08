@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 28.9.2005 I 2906
 
+Änderung durch
+:   Art. 1 V v. 24.4.2020 BAnz AT 28.04.2020 V1 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 23 G v. 9.6.2021 I 1614 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Wahl des Personalrates
 
@@ -35,7 +41,7 @@ Zuletzt geändert durch
 (1) Der Wahlvorstand führt die Wahl des Personalrates durch. Er kann
 wahlberechtigte Beschäftigte seiner Dienststelle als Wahlhelfer zu
 seiner Unterstützung bei der Durchführung der Stimmabgabe und bei der
-Stimmenzählung bestellen. § 24 Abs. 2 Satz 2 und 3 des Gesetzes gilt
+Stimmenzählung bestellen. § 25 Absatz 2 Satz 2 und 3 des Gesetzes gilt
 auch für die Tätigkeit der Wahlhelfer.
 
 (2) Die Dienststelle hat den Wahlvorstand bei der Erfüllung seiner
@@ -64,7 +70,7 @@ unterrichtet werden.
 
 (1) Der Wahlvorstand stellt die Zahl der in der Regel Beschäftigten
 und ihre Verteilung auf die Gruppen fest. Übersteigt diese Zahl 50
-nicht, stellt der Wahlvorstand außerdem die Zahl der nach § 13 des
+nicht, stellt der Wahlvorstand außerdem die Zahl der nach § 14 des
 Gesetzes Wahlberechtigten fest.
 
 (2) Der Wahlvorstand stellt ein nach Gruppen getrenntes Verzeichnis
@@ -101,15 +107,16 @@ oder zu ergänzen.
 
 (1) Vorabstimmungen über
 
-1.  eine von § 17 des Gesetzes abweichende Verteilung der Mitglieder des
-    Personalrates auf die Gruppen (§ 18 Abs. 1 des Gesetzes) oder
+1.  eine von § 17 Absatz 1 bis 5 des Gesetzes abweichende Verteilung der
+    Mitglieder des Personalrates auf die Gruppen (§ 17 Absatz 6 des
+    Gesetzes) oder
 
 
 2.  die Durchführung gemeinsamer Wahl (§ 19 Abs. 2 des Gesetzes) oder
 
 
 3.  die Geltung von Nebenstellen oder Teilen einer Dienststelle als
-    selbständige Dienststelle (§ 6 Abs. 3 des Gesetzes)
+    selbständige Dienststelle (§ 7 des Gesetzes)
 
 
 
@@ -131,11 +138,11 @@ Absatz 1 bezeichneten Fristen hinzuweisen.
 
 (1) Der Wahlvorstand ermittelt die Zahl der zu wählenden Mitglieder
 des Personalrates (§§ 16 und 17 Abs. 4 des Gesetzes). Ist eine von §
-17 des Gesetzes abweichende Verteilung der Mitglieder des
-Personalrates auf die Gruppen (§ 18 Abs. 1 des Gesetzes) nicht
+17 Absatz 1 bis 5 des Gesetzes abweichende Verteilung der Mitglieder
+des Personalrates auf die Gruppen (§ 17 Absatz 6 des Gesetzes) nicht
 beschlossen worden, so errechnet der Wahlvorstand die Verteilung der
-Personalratssitze auf die Gruppen (§ 17 Abs. 1 bis 5 des Gesetzes)
-nach dem Höchstzahlverfahren (Absätze 2 und 3).
+Personalratssitze auf die Gruppen nach dem Höchstzahlverfahren
+(Absätze 2 und 3).
 
 (2) Die Zahlen der der Dienststelle angehörenden Beschäftigten der
 einzelnen Gruppen (§ 2 Abs. 1) werden nebeneinandergestellt und der
@@ -214,7 +221,7 @@ zu unterschreiben.
 
 7a. den Hinweis, daß der Wahlvorschlag einer in der Dienststelle
     vertretenen Gewerkschaft von zwei Beauftragten unterzeichnet sein muß
-    (§ 19 Abs. 9 des Gesetzes),
+    (§ 20 Absatz 5 des Gesetzes),
 
 
 8.  die Aufforderung, Wahlvorschläge binnen achtzehn Kalendertagen nach
@@ -235,7 +242,7 @@ zu unterschreiben.
 
 12. einen Hinweis auf die Möglichkeit der schriftlichen Stimmabgabe,
     gegebenenfalls auf die Anordnung der schriftlichen Stimmabgabe nach §
-    19,
+    19 oder § 19a,
 
 
 13. den Ort und die Zeit der Stimmenauszählung und der Sitzung des
@@ -297,8 +304,8 @@ jeweils nach Gruppen zusammenzufassen. Der Wahlvorschlag darf keine
 Änderungen enthalten; gegebenenfalls ist ein neuer Wahlvorschlag zu
 fertigen und zu unterzeichnen.
 
-(3) Jeder Wahlvorschlag der Beschäftigten muß nach § 19 Abs. 4, 5 und
-6 des Gesetzes
+(3) Jeder Wahlvorschlag der Beschäftigten muß nach § 20 Absatz 1 bis 3
+des Gesetzes
 
 1.  bei Gruppenwahl von mindestens einem Zwanzigstel der wahlberechtigten
     Gruppenangehörigen, jedoch mindestens von drei wahlberechtigten
@@ -656,13 +663,13 @@ Wahl nicht angefochten worden ist.
 
 Für die Beschäftigten von
 
-1.  nachgeordneten Stellen einer Dienststelle, die nicht nach § 6 Abs. 2
-    Satz 1 Halbsatz 2 des Gesetzes selbständig sind, oder
+1.  nachgeordneten Stellen einer Dienststelle, die nicht nach § 6 Absatz 1
+    Satz 2 des Gesetzes selbständig sind, oder
 
 
 2.  Nebenstellen oder Teilen einer Dienststelle, die räumlich weit von
     dieser entfernt liegen und nicht als selbständige Dienststellen nach §
-    6 Abs. 3 des Gesetzes gelten,
+    7 des Gesetzes gelten,
 
 
 
@@ -918,23 +925,8 @@ Bei gleicher Stimmenzahl entscheidet das Los.
 
 
 
-#### § 31 Vorbereitung und Durchführung der Wahl
+#### § 31 (weggefallen)
 
-(1) Für die Vorbereitung und Durchführung der Wahl der Vertreter der
-nichtständig Beschäftigten gelten die §§ 1 bis 30 entsprechend mit der
-Abweichung, daß sich die Zahl der Vertreter der nichtständig
-Beschäftigten ausschließlich aus § 65 Abs. 1 des Gesetzes ergibt, die
-den Gruppen zustehenden Vertreter ausschließlich nach dem
-Höchstzahlverfahren errechnet werden und daß die Vorschriften über den
-Minderheitenschutz (§ 17 Abs. 3 und 4 des Gesetzes) keine Anwendung
-finden. Dem Wahlvorstand muß mindestens ein nach § 14 des Gesetzes
-wählbarer Beschäftigter angehören.
-
-(2) Findet Gruppenwahl statt und erhält eine Gruppe bei der Verteilung
-der Sitze auf die Gruppen nach dem Höchstzahlverfahren keine
-Vertreter, so kann sich jeder wahlberechtigte Angehörige dieser Gruppe
-durch Erklärung gegenüber dem Wahlvorstand einer anderen Gruppe
-anschließen.
 
 
 ## Zweiter Teil - Wahl des Bezirkspersonalrates
@@ -983,8 +975,8 @@ die Gruppen.
 (2) Ist eine abweichende Verteilung der Mitglieder des
 Bezirkspersonalrates auf die Gruppen nicht beschlossen worden und
 entfallen bei der Verteilung der Sitze nach § 5 Abs. 2 auf eine Gruppe
-weniger Sitze, als ihr nach § 53 Abs. 5 des Gesetzes mindestens
-zustehen, so erhält sie die in § 53 Abs. 5 des Gesetzes
+weniger Sitze, als ihr nach § 89 Absatz 4 des Gesetzes mindestens
+zustehen, so erhält sie die in § 89 Absatz 4 des Gesetzes
 vorgeschriebene Zahl von Sitzen.
 
 
@@ -1036,8 +1028,8 @@ Abschluß der Stimmabgabe bekannt.
 
 5a. den Hinweis, daß der Wahlvorschlag einer im Geschäftsbereich der
     Behörde der Mittelstufe vertretenen Gewerkschaft von zwei Beauftragten
-    unterzeichnet sein muß (§ 53 Abs. 3 in Verbindung mit § 19 Abs. 9 des
-    Gesetzes),
+    unterzeichnet sein muß (§ 89 Absatz 2 in Verbindung mit § 20 Absatz 5
+    des Gesetzes),
 
 
 6.  die Aufforderung, Wahlvorschläge binnen achtzehn Kalendertagen nach
@@ -1221,22 +1213,23 @@ entsprechend.
 ### § 46 Vorbereitung und Durchführung der Wahl der Jugend- und Auszubildendenvertretung
 
 (1) Für die Vorbereitung und Durchführung der Wahl der Jugend- und
-Auszubildendenvertreter gelten die §§ 1 bis 3, 6 bis 25, 28, 30 und §
-31 Abs. 1 Satz 2 entsprechend mit der Abweichung, daß sich die Zahl
-der zu wählenden Jugend- und Auszubildendenvertreter ausschließlich
-aus § 59 Abs. 1 des Gesetzes ergibt und daß die Vorschriften über
-Gruppenwahl (§ 19 Abs. 2 des Gesetzes), über den Minderheitenschutz (§
-17 Abs. 3 und 4 des Gesetzes) und über die Zusammenfassung der
-Bewerber in den Wahlvorschlägen nach Gruppen (§ 8 Abs. 2 Satz 3) keine
-Anwendung finden.
+Auszubildendenvertreter gelten die §§ 1 bis 3, 6 bis 25, 28 und 30
+entsprechend mit der Abweichung, dass sich die Zahl der zu wählenden
+Jugend- und Auszubildendenvertreter ausschließlich aus § 101 Absatz 1
+des Gesetzes ergibt und dass die Vorschriften über Gruppenwahl (§ 19
+Absatz 2 des Gesetzes), über den Minderheitenschutz (§ 17 Absatz 3 und
+4 des Gesetzes) und über die Zusammenfassung der Bewerber in den
+Wahlvorschlägen nach Gruppen (§ 8 Absatz 2 Satz 3) nicht anzuwenden
+sind. Dem Wahlvorstand muss mindestens ein nach § 15 des Gesetzes
+wählbarer Beschäftigter angehören.
 
 (2) Sind mehrere Jugend- und Auszubildendenvertreter zu wählen und ist
 die Wahl auf Grund mehrerer Vorschlagslisten durchgeführt worden, so
 werden die Summen der auf die einzelnen Vorschlagslisten entfallenen
 Stimmen nebeneinandergestellt und der Reihe nach durch 1, 2, 3 usw.
 geteilt. Auf die jeweils höchste Teilzahl (Höchstzahl) wird so lange
-ein Sitz zugeteilt, bis alle Sitze (§ 59 Abs. 1 des Gesetzes) verteilt
-sind. § 26 Abs. 1 Satz 3, Abs. 2 und 3 findet Anwendung.
+ein Sitz zugeteilt, bis alle Sitze (§ 101 Absatz 1 des Gesetzes)
+verteilt sind. § 26 Abs. 1 Satz 3, Abs. 2 und 3 findet Anwendung.
 
 (3) Sind mehrere Jugend- und Auszubildendenvertreter zu wählen und ist
 die Wahl auf Grund eines Wahlvorschlages durchgeführt worden, so sind
@@ -1248,47 +1241,28 @@ das Los.
 ### § 47 Wahl der Jugend- und Auszubildendenstufenvertretungen
 
 (1) Für die Wahl der Jugend- und Auszubildendenstufenvertretungen nach
-§ 64 Abs. 1 des Gesetzes (Bezirks-Jugend- und
-Auszubildendenvertretung, Haupt-Jugend- und Auszubildendenvertretung)
-gelten die §§ 33 bis 41, 43, 44 und 46 entsprechend. Für in § 57 des
-Gesetzes genannte Beschäftigte in nachgeordneten Dienststellen mit in
-der Regel weniger als fünf solchen Beschäftigten führt der Bezirks-
-oder Hauptwahlvorstand die Wahl der Jugend- und
-Auszubildendenstufenvertretungen durch, in den genannten
-nachgeordneten Dienststellen werden keine Wahlvorstände bestellt; der
-Bezirks- oder Hauptwahlvorstand kann die schriftliche Stimmabgabe
-anordnen. In diesem Fall hat der Bezirks- oder Hauptwahlvorstand den
-wahlberechtigten in § 57 des Gesetzes genannten Beschäftigten die in §
-17 Abs. 1 bezeichneten Unterlagen zu übersenden.
+§ 107 Absatz 1 des Gesetzes gelten die §§ 33 bis 41, 43, 44 und 46
+entsprechend. In Dienststellen, denen in der Regel weniger als fünf
+Beschäftigte angehören, die das 18. Lebensjahr noch nicht vollendet
+haben oder die sich in einer beruflichen Ausbildung befinden, führt
+der Bezirks- oder Hauptwahlvorstand die Wahl der Jugend- und
+Auszubildendenstufenvertretungen durch. In den genannten Dienststellen
+werden keine Wahlvorstände bestellt; der Bezirks- oder
+Hauptwahlvorstand kann die schriftliche Stimmabgabe anordnen. In
+diesem Fall hat der Bezirks- oder Hauptwahlvorstand den in Satz 2
+genannten Beschäftigten, die wahlberechtigt sind, die in § 17 Absatz 1
+bezeichneten Unterlagen zu übersenden.
 
 (2) Für die Wahl der Gesamt-Jugend- und Auszubildendenvertretung nach
-§ 64 Abs. 2 des Gesetzes gelten Absatz 1 und § 46 entsprechend.
+§ 107 Absatz 2 des Gesetzes gelten Absatz 1 und § 46 entsprechend.
 
 
 ## Sechster Teil - Besondere Verwaltungszweige
 
 
 
-### § 48 Vertrauensmann in der Bundespolizei
+### § 48 (weggefallen)
 
-(1) Ist eine geheime Wahl mit Stimmzetteln vorzunehmen (§ 85 Abs. 2
-Nr. 3 Satz 4 des Gesetzes), so ist wie folgt zu verfahren:
-Der Wahlvorstand verteilt unbeschriebene Stimmzettel von gleicher
-Farbe und Größe. Jeder Wähler schreibt den Namen eines Kandidaten auf
-seinen Stimmzettel, faltet diesen so, daß der Name verdeckt wird, und
-übergibt ihn dem Wahlvorstand. Dieser legt den Stimmzettel in
-Gegenwart des Wählers ungeöffnet in einen dafür bestimmten Behälter
-und hält den Namen des Wählers in einer Liste fest. Der Wahlvorstand
-trifft Vorkehrungen, daß die Wähler ihren Stimmzettel unbeobachtet
-beschreiben können. Hat der Wahlvorstand festgestellt, daß die
-Wahlhandlung beendet ist, zählt er unverzüglich und ohne Unterbrechung
-öffentlich die Stimmen aus und stellt das Ergebnis fest.
-
-(2) Zum Vertrauensmann gewählt ist der Kandidat, der die meisten
-Stimmen erhalten hat. Der Kandidat mit der zweithöchsten Stimmenzahl
-ist zum ersten Stellvertreter, der mit der dritthöchsten Stimmenzahl
-zum zweiten Stellvertreter gewählt. Bei gleicher Stimmenzahl
-entscheidet das Los.
 
 
 ### § 49 Personalvertretungen im Bundesnachrichtendienst
@@ -1333,9 +1307,9 @@ Ausland die schriftliche Stimmabgabe anordnen. Entsprechendes gilt für
 die Wahl eines Gesamtpersonalrates.
 
 (2) Auf die Wahl des Personalrates des Auswärtigen Amtes durch die in
-§ 91 Abs. 1 Nr. 3 Satz 1 des Gesetzes bezeichneten Beschäftigten sind
-die §§ 32 bis 41 sinngemäß anzuwenden. Der Wahlvorstand kann für die
-Wahl durch die in Satz 1 bezeichneten Beschäftigten die schriftliche
+§ 121 Absatz 3 Satz 1 des Gesetzes bezeichneten Beschäftigten sind die
+§§ 32 bis 41 sinngemäß anzuwenden. Der Wahlvorstand kann für die Wahl
+durch die in Satz 1 bezeichneten Beschäftigten die schriftliche
 Stimmabgabe anordnen.
 
 (3) Wird nach Absatz 1 oder 2 die schriftliche Stimmabgabe angeordnet,
@@ -1343,23 +1317,24 @@ hat der Wahlvorstand den wahlberechtigten Beschäftigten die in § 17
 Abs. 1 bezeichneten Unterlagen zu übersenden.
 
 
-### § 51 Vertrauensmann der Ortskräfte (§ 91 Abs. 2 des Gesetzes)
+### § 51 Vertrauensperson der lokal Beschäftigten (§ 120 des Gesetzes)
 
 (1) Der Personalrat bestellt spätestens drei Wochen vor dem Ablauf der
-Amtszeit des Vertrauensmannes der Ortskräfte drei Ortskräfte als
-Wahlvorstand und bestimmt einen von ihnen als Vorsitzenden. Hat der
-Personalrat den Wahlvorstand nicht fristgemäß bestellt oder besteht in
-der Dienststelle kein Personalrat, so bestellt der Leiter der
-Dienststelle den Wahlvorstand. Sind Ortskräfte nicht oder nicht in
-ausreichender Zahl zur Übernahme des Wahlvorstandsamtes bereit, können
-wahlberechtigte Beschäftigte bestellt werden.
+Amtszeit der Vertrauensperson der lokal Beschäftigten drei lokal
+Beschäftigte als Wahlvorstand und bestimmt einen von ihnen als
+Vorsitzenden. Hat der Personalrat den Wahlvorstand nicht fristgemäß
+bestellt oder besteht in der Dienststelle kein Personalrat, so
+bestellt der Leiter der Dienststelle den Wahlvorstand. Sind lokal
+Beschäftigte nicht oder nicht in ausreichender Zahl zur Übernahme des
+Wahlvorstandsamtes bereit, können wahlberechtigte Beschäftigte
+bestellt werden.
 
-(2) Der Wahlvorstand hat unverzüglich eine Versammlung der Ortskräfte
-einzuberufen. In dieser Versammlung ist die Wahl des Vertrauensmannes
-und seiner Stellvertreter durchzuführen.
+(2) Der Wahlvorstand hat unverzüglich eine Versammlung der lokal
+Beschäftigten einzuberufen. In dieser Versammlung ist die Wahl der
+Vertrauensperson und ihrer Stellvertreter durchzuführen.
 
-(3) Ist eine geheime Wahl mit Stimmzetteln vorzunehmen (§ 91 Abs. 2
-Satz 2 des Gesetzes), so ist wie folgt zu verfahren:
+(3) Ist eine geheime Wahl vorzunehmen (§ 120 Absatz 2 Satz 1 zweiter
+Halbsatz des Gesetzes), so ist wie folgt zu verfahren:
 Der Wahlvorstand verteilt unbeschriebene Stimmzettel von gleicher
 Farbe und Größe. Jeder Wähler schreibt den Namen eines Kandidaten auf
 seinen Stimmzettel, faltet diesen so, daß der Name verdeckt wird, und
@@ -1371,7 +1346,7 @@ beschreiben können. Hat der Wahlvorstand festgestellt, daß die
 Wahlhandlung beendet ist, zählt er unverzüglich und ohne Unterbrechung
 öffentlich die Stimmen aus und stellt das Ergebnis fest.
 
-(4) Zum Vertrauensmann gewählt ist der Kandidat, der die meisten
+(4) Zur Vertrauensperson gewählt ist der Kandidat, der die meisten
 Stimmen erhalten hat. Der Kandidat mit der zweithöchsten Stimmenzahl
 ist zum ersten Stellvertreter, der mit der dritthöchsten Stimmenzahl
 zum zweiten Stellvertreter gewählt. Bei gleicher Stimmenzahl

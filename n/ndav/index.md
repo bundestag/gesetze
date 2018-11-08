@@ -17,8 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477, 2485
 
 Zuletzt geändert durch
-:   Art. 3 V v. 3.9.2010 I 1261
-
+:   Art. 1 V v. 1.11.2021 I 4786
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -64,7 +63,7 @@ zwischen dem Anschlussnehmer und dem Netzbetreiber.
 (2) Das Netzanschlussverhältnis entsteht durch Vertrag erstmalig mit
 dem Anschlussnehmer, der die Herstellung des Netzanschlusses in
 Auftrag gibt. Bei Herstellung eines Netzanschlusses ist der
-Netzanschlussvertrag schriftlich abzuschließen.
+Netzanschlussvertrag in Textform abzuschließen.
 
 (3) Anschlussnehmer, die nicht Grundstückseigentümer oder
 Erbbauberechtigte sind, haben die schriftliche Zustimmung des
@@ -166,8 +165,10 @@ Anforderung mitzuteilen.
 (2) Der Netzbetreiber ist verpflichtet, jedem Neukunden bei Entstehen
 des Netzanschlussverhältnisses oder des Anschlussnutzungsverhältnisses
 und auf Verlangen den übrigen Kunden die Allgemeinen Bedingungen
-unentgeltlich auszuhändigen. Er hat die Allgemeinen Bedingungen auf
-seiner Internetseite zu veröffentlichen.
+unentgeltlich in Textform zur Verfügung zu stellen. Er hat die
+Allgemeinen Bedingungen auf seiner Internetseite zu veröffentlichen.
+Sofern ein Neukunde dies verlangt, sind ihm die Allgemeinen
+Bedingungen in Papierform auszuhändigen.
 
 (3) Änderungen der ergänzenden Bedingungen, zu denen auch die
 Technischen Anschlussbedingungen nach § 20 gehören, und
@@ -199,7 +200,7 @@ Netzanschlusses innerhalb des Bereichs der Kundenanlage eingebaut ist.
 ### § 6 Herstellung des Netzanschlusses
 
 (1) Netzanschlüsse werden durch den Netzbetreiber hergestellt. Die
-Herstellung des Netzanschlusses soll vom Anschlussnehmer schriftlich
+Herstellung des Netzanschlusses soll vom Anschlussnehmer in Textform
 in Auftrag gegeben werden; auf Verlangen des Netzbetreibers ist ein
 von diesem zur Verfügung gestellter Vordruck zu verwenden. Der
 Netzbetreiber hat dem Anschlussnehmer den voraussichtlichen Zeitbedarf
@@ -213,7 +214,7 @@ Netzanschlüsse ist dabei besonders zu berücksichtigen.
 
 (3) Auf Wunsch des Anschlussnehmers hat der Netzbetreiber die
 Errichter weiterer Anschlussleitungen sowie der
-Telekommunikationslinien im Sinne des § 3 Nr. 26 des
+Telekommunikationslinien im Sinne des § 3 Nummer 64 des
 Telekommunikationsgesetzes im Hinblick auf eine gemeinsame Verlegung
 der verschiedenen Gewerke zu beteiligen. Er führt die Herstellung oder
 Änderungen des Netzanschlusses entweder selbst oder mittels
@@ -424,21 +425,18 @@ anderen anzuwendenden Rechtsvorschriften und behördlichen Bestimmungen
 sowie nach den anerkannten Regeln der Technik errichtet, erweitert,
 geändert und instand gehalten werden. In Bezug auf die allgemein
 anerkannten Regeln der Technik gilt § 49 Abs. 2 Nr. 2 des
-Energiewirtschaftsgesetzes entsprechend. Die Arbeiten dürfen außer
-durch den Netzbetreiber nur durch ein in ein Installateurverzeichnis
-eines Netzbetreibers eingetragenes Installationsunternehmen
-durchgeführt werden; im Interesse des Anschlussnehmers darf der
-Netzbetreiber eine Eintragung in das Installateurverzeichnis nur von
-dem Nachweis einer ausreichenden fachlichen Qualifikation für die
-Durchführung der jeweiligen Arbeiten abhängig machen. Es dürfen nur
-Materialien und Gasgeräte verwendet werden, die entsprechend § 49 des
-Energiewirtschaftsgesetzes unter Beachtung der allgemein anerkannten
-Regeln der Technik hergestellt wurden. Die Einhaltung der
-Voraussetzungen des Satzes 4 wird vermutet, wenn die vorgeschriebene
-CE-Kennzeichnung vorhanden ist. Sofern die CE-Kennzeichnung nicht
-vorgeschrieben ist, wird dies auch vermutet, wenn die Materialien oder
-Gasgeräte das Zeichen einer akkreditierten Stelle tragen, insbesondere
-das DVGW-Zeichen. Materialien und Gasgeräte, die
+Energiewirtschaftsgesetzes entsprechend. Arbeiten an der Anlage
+dürfen, außer durch den Netzbetreiber, nur durch
+Installationsunternehmen durchgeführt werden, die in einem
+Installateurverzeichnis eines Netzbetreibers eingetragen sind, der im
+Geltungsbereich dieser Verordnung tätig ist. § 13a Absatz 8 bleibt
+unberührt. Es dürfen nur Materialien und Gasgeräte verwendet werden,
+die unter Beachtung der allgemein anerkannten Regeln der Technik
+hergestellt wurden. Die Einhaltung der Voraussetzungen des Satzes 4
+wird vermutet, wenn die vorgeschriebene CE-Kennzeichnung vorhanden
+ist. Sofern die CE-Kennzeichnung nicht vorgeschrieben ist, wird dies
+auch vermutet, wenn die Materialien oder Gasgeräte das Zeichen einer
+akkreditierten Stelle tragen. Materialien und Gasgeräte, die
 
 1.  in einem anderen Mitgliedstaat der Europäischen Union oder der Türkei
     rechtmäßig hergestellt oder in den Verkehr gebracht worden sind oder
@@ -460,6 +458,120 @@ berechtigt, die Ausführung der Arbeiten zu überwachen.
 vom Netzbetreiber plombiert werden. Die dafür erforderliche
 Ausstattung der Anlage ist nach den Angaben des Netzbetreibers vom
 Anschlussnehmer zu veranlassen.
+
+
+### § 13a Installateurverzeichnis
+
+(1) Der Netzbetreiber darf eine Eintragung in sein
+Installateurverzeichnis nur von dem Nachweis einer ausreichenden
+fachlichen Qualifikation des Installationsunternehmens für die
+Durchführung der jeweiligen Arbeiten nach § 13 Absatz 2 Satz 1
+abhängig machen. Der Netzbetreiber, in dessen Installateurverzeichnis
+die Eintragung erfolgen soll, ist berechtigt, vor der Eintragung das
+Vorliegen der ausreichenden fachlichen Qualifikation zu prüfen.
+Begründen besondere Umstände Zweifel am Bestehen einer ausreichenden
+fachlichen Qualifikation ist der Netzbetreiber jederzeit berechtigt,
+das Vorliegen einer ausreichenden fachlichen Qualifikation erneut zu
+prüfen.
+
+(2) Nachdem der Netzbetreiber ein Installationsunternehmen in sein
+Installateurverzeichnis eingetragen hat, hat der Netzbetreiber dem
+betreffenden Installationsunternehmen zur Dokumentation der Eintragung
+einen Installateurausweis auszustellen. Führt ein
+Installationsunternehmen Arbeiten in einem Netzgebiet durch, bei
+dessen Netzbetreiber es nicht in das Installationsverzeichnis
+eingetragen ist, so genügt es, dass das Installationsunternehmens dem
+betroffenen Netzbetreiber einen durch einen anderen Netzbetreiber
+ausgestellten Installateurausweis als Nachweis der ausreichenden
+fachlichen Qualifikation rechtzeitig vorlegt. Eine weitere Überprüfung
+des Vorliegens der ausreichenden fachlichen Qualifikation darf der
+betroffene Netzbetreiber nur vornehmen, falls aufgrund besonderer
+Umstände begründete Zweifel am Bestehen der ausreichenden fachlichen
+Qualifikation vorliegen.
+
+(3) Der Netzbetreiber kann im Rahmen der Eintragung in das
+Installateurverzeichnis einen Nachweis darüber verlangen, dass die
+ausreichende fachliche Qualifikation bei dem Inhaber des
+Installationsunternehmens oder einer fest angestellten,
+verantwortlichen und weisungsberechtigten Fachkraft vorliegt. Im
+Rahmen der Prüfung der fachlichen Qualifikation kann der Netzbetreiber
+nur die Glaubhaftmachung der Fertigkeiten, praktischen und
+theoretischen Fachkenntnisse sowie Erfahrungen verlangen, die für eine
+fachgerechte, den anerkannten Regeln der Technik und den
+Sicherheitserfordernissen entsprechende Ausführung der jeweiligen
+Arbeiten notwendig sind.
+
+(4) Darüber hinaus kann der Netzbetreiber jederzeit von dem
+Installationsunternehmen verlangen, eine ausreichende
+Betriebshaftpflichtversicherung nachzuweisen. Der Netzbetreiber kann
+im Einzelfall bei begründeten Zweifeln am Vorhandensein der
+technischen Ausstattung zur einwandfreien Ausführung oder Prüfung
+aller Installationsarbeiten nach den Regeln fachhandwerklichen Könnens
+jederzeit von Installationsunternehmen verlangen, glaubhaft zu machen,
+über eine ordnungsgemäß eingerichtete Werkstatt oder einen
+Werkstattwagen, ausreichende Werk- und Hilfswerkzeuge sowie Mess- und
+Prüfgeräte zu verfügen, mit denen alle Installationsarbeiten
+einwandfrei und nach den Regeln fachhandwerklichen Könnens ausgeführt
+und geprüft werden können. Der Netzbetreiber kann im Einzelfall
+jederzeit von Installationsunternehmen verlangen eine gültige
+Bescheinigung über die Gewerbeanzeige nach § 14 der Gewerbeordnung
+vorzulegen, soweit die Gewerbeanzeige gewerberechtlich erforderlich
+ist.
+
+(5) Ein in ein Installateurverzeichnis eingetragenes
+Installationsunternehmen ist von dem Netzbetreiber, der dieses
+Installateurverzeichnis führt, zu verpflichten, sich insbesondere über
+alle Fragen der Ausführung von Installationsarbeiten über Neuerungen
+auf dem Gebiet der Installationstechnik sowie über weitere Neuerungen,
+die für eine fachgerechte Ausführung der jeweiligen Arbeiten
+erforderlich sind laufend zu informieren, zum Beispiel durch eine
+Teilnahme an Fortbildungskursen des Gasfaches zur Einführung neuer
+Bestimmungen oder zur Unterrichtung über geltende Bestimmungen. Erhält
+der Netzbetreiber Kenntnis von erheblichen oder anhaltenden Verstößen
+gegen die Verpflichtungen nach Satz 1 ist der Netzbetreiber
+berechtigt, die Eintragung des betreffenden Installationsunternehmens
+in seinem Installateurverzeichnis zu löschen.
+
+(6) Bei einem Installationsunternehmen aus einem Mitgliedstaat der
+Europäischen Union, aus einem Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum oder aus der Schweiz wird im Rahmen der
+Prüfung der Voraussetzungen für die Aufnahme in ein
+Installateurverzeichnis widerleglich vermutet, dass die
+Voraussetzungen nach Absatz 3 Satz 2 vorliegen, wenn der Inhaber des
+Installationsunternehmens oder eine fest angestellte, verantwortliche
+und weisungsberechtigte Fachkraft in ihrem Herkunftsstaat eine
+berufliche Qualifikation erworben hat, die sich nicht wesentlich von
+den als ausreichend angesehenen fachlichen Qualifikationen im Sinne
+von Absatz 1 Satz 2 unterscheidet. § 3 Absatz 2 bis 5 sowie die §§ 4
+bis 7 der EU/EWR-Handwerk-Verordnung vom 18. März 2016 (BGBl. I S.
+509), die durch Artikel 2 der Verordnung vom 26. Oktober 2021 (BGBl. I
+S. 4740) geändert worden ist, sind entsprechend anzuwenden.
+
+(7) Eine Betriebshaftpflichtversicherung, die in einem Mitgliedstaat
+der Europäischen Union, in einem Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum oder in der Schweiz abgeschlossen wurde,
+ist als ausreichend im Sinne von Absatz 4 Satz 1 anzuerkennen, wenn
+sie Versicherungsschutz für den Fall eines schädigenden Ereignisses
+bei Tätigkeiten in der Bundesrepublik Deutschland bietet.
+
+(8) Einem Installationsunternehmen aus einem Mitgliedstaat der
+Europäischen Union, aus einem Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum oder aus der Schweiz, das in der
+Bundesrepublik Deutschland keine gewerbliche Niederlassung unterhält,
+ist die vorübergehende und gelegentliche Erbringung von
+Installationsarbeiten nach § 13 Absatz 1 in der Bundesrepublik
+Deutschland ohne Eintragung in ein Installateurverzeichnis eines
+Netzbetreibers gestattet, wenn es in seinem Herkunftsstaat zur
+Ausübung vergleichbarer Tätigkeiten rechtmäßig niedergelassen ist. Der
+Netzbetreiber ist berechtigt, von einem solchen
+Installationsunternehmen, das erstmals Installationsarbeiten nach § 13
+Absatz 2 Satz 1 in der Bundesrepublik Deutschland erbringt und nicht
+in ein Installateurverzeichnis eines Netzbetreibers eingetragen ist,
+vor der Leistungserbringung einen Nachweis darüber zu verlangen, dass
+die ausreichende fachliche Qualifikation nach den Absätzen 1 und 3
+sowie eine ausreichende Betriebshaftpflichtversicherung nach Absatz 4
+Satz 1 und Absatz 7 vorliegen. Die §§ 5, 9 und 10 der EU/EWR-Handwerk-
+Verordnung sind entsprechend anzuwenden."
 
 
 ### § 14 Inbetriebsetzung der Gasanlage
@@ -516,9 +628,9 @@ Anschlussnutzungsverhältnisses verpflichtet, dem Anschlussnutzer in
 dem im Netzanschlussverhältnis vorgesehenen Umfang die Nutzung des
 Netzanschlusses jederzeit zu ermöglichen. Dies gilt nicht, soweit und
 solange der Netzbetreiber hieran durch höhere Gewalt oder sonstige
-Umstände, deren Beseitigung ihm im Sinne des § 18 Abs. 1 Satz 2 des
-Energiewirtschaftsgesetzes aus wirtschaftlichen Gründen nicht
-zugemutet werden kann, gehindert ist.
+Umstände, deren Beseitigung ihm im Sinne des § 18 Absatz 1 Satz 2
+Nummer 1 des Energiewirtschaftsgesetzes aus wirtschaftlichen Gründen
+nicht zugemutet werden kann, gehindert ist.
 
 (2) Der Netzbetreiber hat Brennwert und Druck möglichst gleichbleibend
 zu halten. Allgemein übliche Gasgeräte müssen einwandfrei betrieben
@@ -529,8 +641,8 @@ Vorkehrungen zum störungsfreien Betrieb seiner Geräte und Anlagen zu
 treffen.
 
 (3) Zwischen Anschlussnutzer und Netzbetreiber gelten die §§ 7, 8, 12
-und 13 Abs. 1 und 2, § 14 Abs. 1 Satz 1, Abs. 2 und 3 sowie § 15
-entsprechend.
+und 13 Abs. 1 und 2, § 13a, § 14 Abs. 1 Satz 1, Abs. 2 und 3 sowie §
+15 entsprechend.
 
 
 ### § 17 Unterbrechung der Anschlussnutzung
@@ -540,8 +652,9 @@ Vornahme betriebsnotwendiger Arbeiten oder zur Vermeidung eines
 drohenden Netzzusammenbruchs erforderlich ist. Der Netzbetreiber hat
 jede Unterbrechung oder Unregelmäßigkeit unverzüglich zu beheben. Eine
 notwendige Unterbrechung wegen eines vom Anschlussnutzer veranlassten
-Austauschs der Messeinrichtung durch einen Dritten nach § 21b des
-Energiewirtschaftsgesetzes hat der Netzbetreiber nicht zu vertreten.
+Austauschs der Messeinrichtung durch einen Messstellenbetreiber nach
+den Vorschriften des Messstellenbetriebsgesetzes hat der Netzbetreiber
+nicht zu vertreten.
 
 (2) Der Netzbetreiber hat die Anschlussnutzer bei einer beabsichtigten
 Unterbrechung der Anschlussnutzung rechtzeitig in geeigneter Weise zu
@@ -855,8 +968,8 @@ gestatten.
 (1) Das Netzanschlussverhältnis kann mit einer Frist von einem Monat
 auf das Ende eines Kalendermonats gekündigt werden. Eine Kündigung
 durch den Netzbetreiber ist nur möglich, soweit eine Pflicht zum
-Netzanschluss nach § 18 Abs. 1 Satz 2 des Energiewirtschaftsgesetzes
-nicht besteht.
+Netzanschluss nach § 18 Absatz 1 Satz 2 Nummer 1 des
+Energiewirtschaftsgesetzes nicht besteht.
 
 (2) Tritt an Stelle des bisherigen Netzbetreibers ein anderes
 Unternehmen in die sich aus dem Netzanschlussverhältnis ergebenden

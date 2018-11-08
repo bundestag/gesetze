@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1606
 
 Zuletzt geändert durch
-:   Art. 94 G v. 8.12.2010 I 1864
+:   Art. 8 G v. 17.7.2017 I 2575
 
 
 ## Eingangsformel
@@ -2630,8 +2630,9 @@ sind.
 
 -
 
+(zu § 39)
 
-### Anlage (zu § 39) Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
+### Anlage Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
 
 (Fundstelle: BGBl. I 1991, 1675)
 
@@ -5358,33 +5359,16 @@ sind.
 
 
 
-## Art 24 - Maßgabe zum Arbeitsförderungsgesetz vom 22. Juni 1990
+## Art 24 - (weggefallen)
 
-§ 118 des Arbeitsförderungsgesetzes vom 22. Juni 1990 (GBl. I Nr. 36
-S. 403), der nach Anlage II Kapitel VIII Sachgebiet E Abschnitt III
-Nr. 1 Buchstabe a Doppelbuchstabe dd des Einigungsvertrages vom 31.
-August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September
-1990 (BGBl. 1990 II S. 885, 1209) mit Änderungen und Maßgaben
-fortgilt, ist mit folgender Maßgabe anzuwenden:
-Wegen der Zuerkennung einer Invalidenrente nach
-Sonderversorgungssystemen im Sinne der Anlage II Kapitel VIII
-Sachgebiet H Abschnitt III Nr. 9 des Einigungsvertrages vom 31. August
-1990 ist Satz 2 nicht anzuwenden.
 
 
 ## Art 25 und 26
 
 
 
-## Art 27 - Versicherungsschutz von Arbeitnehmern in knappschaftlich versicherten Betrieben
+## Art 27 - (weggefallen)
 
-Für Personen, die am 30. Juni 1991 in einem nach Artikel 17 des
-Einführungsgesetzes zum Reichsknappschaftsgesetz in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 822-2, veröffentlichten
-bereinigten Fassung, knappschaftlich versicherten Betrieb beschäftigt
-sind, bleibt die Deutschen Rentenversicherung Knappschaft-Bahn-See als
-Träger der knappschaftlichen Rentenversicherung zuständig, solange das
-Beschäftigungsverhältnis andauert.
 
 
 ## Art 28 bis 30
@@ -5399,172 +5383,20 @@ Beschäftigungsverhältnis andauert.
 
 
 
-## Art 35 - Geltung sozialversicherungsrechtlicher Vorschriften im Beitrittsgebiet
+## Art 35 - (weggefallen)
 
-(1) Im Beitrittsgebiet treten in Kraft:
-
-1.  (weggefallen)
-
-
-2.  das Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen
-    Unrechts in der Sozialversicherung vom 22. Dezember 1970 (BGBl. I S.
-    1846), zuletzt geändert durch Artikel 20 dieses Gesetzes,
-
-
-3.  das Fremdrentengesetz in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 824-2 veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Artikel 14 dieses Gesetzes,
-
-
-4.  das Fremdrenten- und Auslandsrenten-Neuregelungsgesetz in der im
-    Bundesgesetzblatt Teil III, Gliederungsnummer 824-3, veröffentlichten
-    bereinigten Fassung, zuletzt geändert durch Artikel 15 dieses
-    Gesetzes,
-
-
-5.  § 4 Abs. 2 und 4 des Sechsten Buches Sozialgesetzbuch, das zuletzt
-    durch Artikel 1 dieses Gesetzes geändert worden ist,
-
-
-6.  § 172 Abs. 2 des Sechsten Buches Sozialgesetzbuch, das zuletzt durch
-    Artikel 1 dieses Gesetzes geändert worden ist,
-
-
-
-soweit in den vorausstehenden Artikeln nichts anderes bestimmt ist.
-
-(2) § 13 des Gesetzes über die Sozialversicherung vom 28. Juni 1990
-(GBl. I Nr. 38 S. 486) bleibt mit Ausnahme des Absatzes 1 Satz 2 über
-den 31. Dezember 1991 hinaus in Kraft.
-
-(3) § 10 des Gesetzes über die Sozialversicherung vom 28. Juni 1990
-(GBl. I Nr. 38 S. 486) tritt außer Kraft, soweit er bestimmt, daß auch
-andere als die in § 2 oder § 229a Abs. 2 des Sechsten Buches
-Sozialgesetzbuch genannten selbständig Tätigen durch Aufnahme einer
-selbständigen Tätigkeit in der Rentenversicherung
-versicherungspflichtig werden.
-
-(4) § 104 des Vierten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes
-vom 23. Dezember 1976, BGBl. I S. 3845), das zuletzt durch Artikel 5
-dieses Gesetzes geändert worden ist, tritt am 1. Juli 1992 in Kraft.
-
-(5) Artikel 22 des Gesetzes vom 25. Juni 1990 zum Vertrag vom 18. Mai
-1990 (BGBl. 1990 II S. 518) und § 13 des Gesetzes über die
-Sozialversicherung vom 28. Juni 1990 (GBl. I Nr. 38 S. 486) sind
-anzuwenden, solange in der Bundesrepublik Deutschland ohne das
-Beitrittsgebiet und im Beitrittsgebiet unterschiedliche Bezugsgrößen
-in der Sozialversicherung bestehen. Entfallen die Voraussetzungen des
-Satzes 1, gelten die allgemeinen Vorschriften über die Versicherungs-
-und Beitragspflicht auch, wenn über einen Antrag nach den in Satz 1
-genannten Vorschriften bereits eine Entscheidung getroffen worden ist.
-
-(6)
-Dem § 2 Abs. 2 der Verordnung über die Gewährung und Berechnung von
-Renten der Sozialpflichtversicherung - Rentenverordnung - vom 23.
-November 1979 (GBl. I Nr. 43 S. 401) wird angefügt:
-
-"r) Zeiten des Gewahrsams und einer anschließenden Krankheit oder
-    unverschuldeten Arbeitslosigkeit bei Personen, die zum Personenkreis
-    des § 1 des Häftlingshilfegesetzes gehören oder nur deshalb nicht
-    gehören, weil sie vor dem 3. Oktober 1990 ihren gewöhnlichen
-    Aufenthalt im Geltungsbereich dieser Verordnung genommen haben."
-
-
-
-
-(7) § 2 Abs. 2 Buchstabe r der Rentenverordnung gilt auch für
-Personen, die bereits eine Rente beziehen. Eine Neufeststellung der
-Rente erfolgt auf Antrag.
 
 
 ## Art 36
 
 
 
-## Art 37 - Anrechnung von Exportleistungen auf Renten im Beitrittsgebiet
-
-
-1.  Die in Anlage II Kapitel VIII Sachgebiet F Abschnitt III Nr. 6
-    Buchstabe b Doppelbuchstabe aa des Einigungsvertrages vom 31. August
-    1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990
-    (BGBl. 1990 II S. 885, 1212) aufgeführte Maßgabe findet keine
-    Anwendung auf Vertriebene im Sinne des § 1 des
-    Bundesvertriebenengesetzes und auf Personen im Sinne des § 20 des
-    Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen
-    Unrechts in der Sozialversicherung, die Leistungen auf der Grundlage
-
-    -   des Abkommens vom 8. Dezember 1990 zwischen der Bundesrepublik
-        Deutschland und der Republik Polen über Soziale Sicherheit,
-
-
-    -   des Abkommens vom 22. Dezember 1966 zwischen der Bundesrepublik
-        Deutschland und der Republik Österreich über Soziale Sicherheit (BGBl.
-        1969 II S. 1233) in der Fassung des Ersten Zusatzabkommens vom 10.
-        April 1969 (BGBl. 1969 II S. 1260), des Zweiten Zusatzabkommens vom
-        29\. März 1974 (BGBl. 1975 II S. 253) und des Dritten Zusatzabkommens
-        vom 29. August 1980 (BGBl. 1982 II S. 414),
-
-
-    -   des Abkommens vom 12. Oktober 1968 zwischen der Bundesrepublik
-        Deutschland und der Sozialistischen Föderativen Republik Jugoslawien
-        über Soziale Sicherheit (BGBl. 1969 II S. 1437) in der Fassung des
-        Änderungsabkommens vom 30. September 1974 (BGBl. 1975 II S. 389) oder
-
-
-    -   des Abkommens vom 20. Februar 1958 zwischen der Regierung der
-        Deutschen Demokratischen Republik und der Regierung der Volksrepublik
-        Bulgarien über Zusammenarbeit auf dem Gebiet der Sozialpolitik (GBl.
-        1958 I Nr. 28 S. 353) und der Vereinbarung vom 7. Februar 1973
-        zwischen der Regierung der Deutschen Demokratischen Republik und der
-        Regierung der Volksrepublik Bulgarien über die Änderung des Abkommens
-        vom 20. Februar 1958 über die Zusammenarbeit auf dem Gebiet der
-        Sozialpolitik (GBl. 1973 II Nr. 15 S. 249)
+## Art 37 - (weggefallen)
 
 
 
+## Art 38 - (weggefallen)
 
-    erhalten. Leistungen nach diesen Abkommen sind auf Leistungen, die
-    nach den im Beitrittsgebiet vor dem 1. Januar 1992 geltenden
-    Rechtsvorschriften erbracht werden, anzurechnen, soweit diesen
-    Leistungen dieselben Zeiten zugrunde liegen.
-
-
-2.  Ansprüche auf Renten aufgrund von Arbeitsunfällen oder
-    Berufskrankheiten nach dem im Beitrittsgebiet vor dem 1. Januar 1992
-    geltenden Recht entstehen nicht, wenn für diese Arbeitsunfälle oder
-    Berufskrankheiten Renten von einem ausländischen Versicherungsträger
-    zu erbringen sind. Satz 1 gilt nicht für Vertriebene im Sinne des § 1
-    des Bundesvertriebenengesetzes und für Personen im Sinne des § 20 des
-    Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen
-    Unrechts in der Sozialversicherung, die Leistungen auf der Grundlage
-    der in Nummer 1 genannten Abkommen erhalten.
-
-
-
-
-
-## Art 38 - Überprüfung von Feststellungsbescheiden nach der Versicherungsunterlagen-Verordnung und dem Fremdrentenrecht
-
-Bescheide, die außerhalb einer Rentenbewilligung aufgrund der
-Versicherungsunterlagen-Verordnung oder des Fremdrentenrechts
-Feststellungen getroffen haben, sind zu überprüfen, ob sie mit den zum
-Zeitpunkt des Rentenbeginns geltenden Vorschriften des Sechsten Buches
-Sozialgesetzbuch und des Fremdrentenrechts übereinstimmen. Beginnt
-eine Rente nach dem 31. Juli 1991, ist die für diese Rente nach diesem
-Zeitpunkt maßgebende Fassung des Sechsten Buches Sozialgesetzbuch und
-des Fremdrentenrechts von ihrem Beginn an auch dann anzuwenden, wenn
-der Feststellungsbescheid nach Satz 1 noch nicht durch einen neuen
-Feststellungsbescheid ersetzt ist; der Feststellungsbescheid ist im
-Rentenbescheid mit Wirkung für die Vergangenheit ohne Rücksicht auf
-die Voraussetzungen der §§ 24 und 48 des Zehnten Buches
-Sozialgesetzbuch aufzuheben. Die Sätze 1 und 2 sind entsprechend auf
-Feststellungsbescheide anzuwenden, die aufgrund des Gesetzes vom 12.
-März 1976 zu dem Abkommen vom 9. Oktober 1975 zwischen der
-Bundesrepublik Deutschland und der Volksrepublik Polen über Renten-
-und Unfallversicherung nebst der Vereinbarung hierzu vom 9. Oktober
-1975 (BGBl. 1976 II S. 393), geändert durch Artikel 20 des
-Rentenreformgesetzes 1992 vom 18. Dezember 1989 (BGBl. I S. 2261; 1990
-I S. 1337), ergangen sind.
 
 
 ## Art 39 - Rückkehr zum einheitlichen Verordnungsrang

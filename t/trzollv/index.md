@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2947
 
+Geändert durch
+:   Art. 9 Abs. 11 G v. 3.12.2015 I 2178
+
 
 ## Eingangsformel
 
@@ -712,8 +715,8 @@ Verordnung sind,
 
 
 
-(2) Das Bundesministerium der Finanzen kann auf Ersuchen der
-ausländischen Streitkräfte in besonderen Fällen weitere Personen oder
+(2) Die Generalzolldirektion kann auf Ersuchen der ausländischen
+Streitkräfte in besonderen Fällen weitere Personen oder
 Personengruppen den versorgungsberechtigten Personen nach Absatz 1
 gleichstellen.
 
@@ -1039,18 +1042,18 @@ Truppenverwendung übergeführt werden sollen und die zuerst mit dem
 Antrag befasst war.
 
 (4) Zuständig für die Genehmigung der Abgabe von Einfuhrwaren aus
-dienstlichen Gründen nach § 9 ist die Bundesfinanzdirektion Nord.
+dienstlichen Gründen nach § 9 ist die Generalzolldirektion.
 
 (5) Zuständig für die Genehmigung eines Volksfestes nach § 11 oder für
 Genehmigungen nach § 12 ist die Zollstelle, in deren Bezirk die
 Veranstaltung stattfindet.
 
 (6) Zuständig für die Genehmigung anderer öffentlicher Veranstaltungen
-nach § 11 ist die Bundesfinanzdirektion Nord.
+nach § 11 ist die Generalzolldirektion.
 
 (7) Zuständige Zollstelle für die Mitteilung der Erlaubnis und für die
 Genehmigung der Abgabe von Einfuhrwaren nach § 14 ist die
-Bundesfinanzdirektion Nord.
+Generalzolldirektion.
 
 (8) Zuständige Zollstelle für die versorgungsberechtigte oder
 gleichgestellte Person ist grundsätzlich die Zollstelle, in deren

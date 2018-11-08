@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1968, 661
 
 Zuletzt geändert durch
-:   Art. 5 G v. 5.12.2012 I 2418
+:   Art. 144 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Gemeinsamer Senat der obersten Gerichtshöfe
@@ -120,7 +120,8 @@ Gerichtshof vor.
 ### § 8 Geschäftsstelle
 
 Für den Gemeinsamen Senat wird eine Geschäftsstelle eingerichtet. Das
-Nähere bestimmt der Bundesminister der Justiz.
+Nähere bestimmt der Bundesminister der Justiz und für
+Verbraucherschutz.
 
 
 ### § 9 Rechts- und Amtshilfe

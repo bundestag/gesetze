@@ -35,8 +35,9 @@ Protokolls und der Anlagen I bis III sowie der in Bonn und Berlin am
 Vertrag und die vorgenannten weiteren Urkunden sowie die dazu gehörige
 Vereinbarung werden nachstehend veröffentlicht.
 
+Verordnungsermächtigung
 
-## Art 2 Verordnungsermächtigung (Verträge der Bundesrepublik Deutschland im Bereich der sozialen Sicherheit)
+## Art 2 (Verträge der Bundesrepublik Deutschland im Bereich der sozialen Sicherheit)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 erforderlichen Anpassungen der von Artikel 11 des Einigungsvertrages
@@ -77,8 +78,9 @@ Regelungen getroffen werden über
 darin Regelungen getroffen werden, die bei einem Gesetz die
 Zustimmungsbedürftigkeit begründen würden.
 
+Verordnungsermächtigung
 
-## Art 3 Verordnungsermächtigung (Verträge der Deutschen Demokratischen Republik im Bereich der sozialen Sicherheit)
+## Art 3 (Verträge der Deutschen Demokratischen Republik im Bereich der sozialen Sicherheit)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 vorübergehend die weitere Anwendung der von Artikel 12 des
@@ -124,8 +126,9 @@ Zur Durchführung können insbesondere Regelungen getroffen werden über
 darin Regelungen getroffen werden, die bei einem Gesetz die
 Zustimmungsbedürftigkeit begründen würden.
 
+Verordnungsermächtigung
 
-## Art 4 Verordnungsermächtigung (EG-Recht und EG-bedingtes Recht)
+## Art 4 (EG-Recht und EG-bedingtes Recht)
 
 (1) Die Bundesregierung wird ermächtigt, in Ausübung von
 Ermächtigungen des Rates der Europäischen Gemeinschaften oder gemäß
@@ -149,8 +152,9 @@ für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
 
+Verordnungsermächtigung
 
-## Art 5 Verordnungsermächtigung (Anmeldung vermögensrechtlicher Ansprüche)
+## Art 5 (Anmeldung vermögensrechtlicher Ansprüche)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die Verordnung über die Anmeldung
@@ -188,7 +192,7 @@ dieses Gesetzes oder der am Tage des Inkrafttretens der Änderung
 geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
-## Art 8
+## Art 8 
 
 Das Gesetz über die Statistik des Warenverkehrs mit der Deutschen
 Demokratischen Republik und Berlin (Ost) vom 16. Juni 1978 (BGBl. I S.

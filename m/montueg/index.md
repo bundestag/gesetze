@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 2004, 550, 1027
 
 Zuletzt geändert durch
-:   Art. 5 G v. 24.8.2009 I 2942
+:   Art. 581 V v. 31.8.2015 I 1474
 
 
 ## § 1 Haftung bei Personenschäden
@@ -92,7 +92,7 @@ geschuldeten oder der von ihm für den vertraglichen Luftfrachtführer
 ausgeführten Luftbeförderung eine Haftpflichtversicherung zu
 unterhalten.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Einzelheiten über den Abschluss, die Aufrechterhaltung, den Inhalt,
 den Umfang, die zulässigen Ausschlüsse und den Nachweis der nach

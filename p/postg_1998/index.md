@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 3294
 
 Zuletzt geändert durch
-:   Art. 272 V v. 31.10.2006 I 2407
+:   Art. 1 G v. 9.3.2021 I 324
 
 
 ## Eingangsformel
@@ -117,7 +117,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     geschäftsmäßig befördert werden.
 
 
-6.  Marktbeherrschend ist jedes Unternehmen, das nach § 19 des Gesetzes
+6.  Marktbeherrschend ist jedes Unternehmen, das nach § 18 des Gesetzes
     gegen Wettbewerbsbeschränkungen als marktbeherrschend anzusehen ist.
 
 
@@ -227,19 +227,8 @@ Geschäftsanteile der Gesellschaft verfügt, dies der
 Regulierungsbehörde unverzüglich anzuzeigen.
 
 
-### § 8 Lizenzierungskosten
+### § 8 (weggefallen)
 
-Für die Entscheidung über die Erteilung einer Lizenz und über die
-Zustimmung zur Übertragung einer Lizenz werden Gebühren und Auslagen
-erhoben. Es werden auch dann Gebühren und Auslagen erhoben, wenn ein
-Antrag auf Erteilung einer Lizenz oder auf Zustimmung zur Übertragung
-einer Lizenz nach Beginn der sachlichen Bearbeitung, jedoch vor deren
-Beendigung zurückgenommen wird. Das Bundesministerium für Wirtschaft
-und Technologie wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium des Innern, dem Bundesministerium der Finanzen und
-dem Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, nach Maßgabe des
-Verwaltungskostengesetzes die Höhe der Gebühren zu regeln.
 
 
 ### § 9 Widerruf der Lizenz
@@ -320,7 +309,7 @@ Universaldienstleistung erbracht werden kann.
 (2) Absatz 1 gilt entsprechend für einen Lizenznehmer, der mit einem
 anderen Lizenznehmer ein einheitliches Unternehmen bildet. Ein
 einheitliches Unternehmen wird durch jede Verbindung von Unternehmen
-im Sinne des § 23 Abs. 1 Satz 2, Abs. 2 und 3 des Gesetzes gegen
+im Sinne von § 36 Absatz 2 und § 37 Absatz 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen geschaffen.
 
 
@@ -353,7 +342,7 @@ anderen Lizenznehmern nicht unbillig benachteiligen.
 auf einem in Absatz 2 genannten Markt tätig ist und das mit einem
 Lizenznehmer nach Absatz 2 oder 3 ein einheitliches Unternehmen
 bildet. Ein einheitliches Unternehmen wird durch jede Verbindung von
-Unternehmen im Sinne des § 23 Abs. 1 Satz 2, Abs. 2 und 3 des Gesetzes
+Unternehmen im Sinne von § 36 Absatz 2 und § 37 Absatz 1 des Gesetzes
 gegen Wettbewerbsbeschränkungen geschaffen.
 
 (5) Unternehmen, die zur Erbringung von Universaldienstleistungen nach
@@ -471,7 +460,7 @@ Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
 
 ### § 18 Postdienstleistungsverordnung
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Rahmenvorschriften für die Inanspruchnahme
 von Postdienstleistungen zu erlassen. In der Rechtsverordnung können
 insbesondere Regelungen über den Vertragsabschluß, den Gegenstand und
@@ -480,18 +469,88 @@ Vertragspartner und der sonstigen am Postverkehr Beteiligten
 einschließlich Haftungsregelungen und Bestimmungen zur
 Haftungsbeschränkung festgelegt werden.
 
-(2) Für die außergerichtlichen Streitbeilegungsverfahren nach der
-Verordnung nach Absatz 1 werden Kosten (Gebühren und Auslagen)
-erhoben. Die Gebühr für das Verfahren beträgt 0,1 vom Hundert des
-Wertes der Streitfrage, mindestens jedoch 25 Euro. Auf die Bestimmung
-des Wertes der Streitfrage finden die §§ 3 bis 9 der
-Zivilprozessordnung entsprechende Anwendung. Über die Kosten
-entscheidet die Streitbeilegungsstelle unter Berücksichtigung des
-Sach- und Streitstandes nach billigem Ermessen. Die Kostenentscheidung
-ist in den Streitbeilegungsvorschlag aufzunehmen. Jede Partei trägt
-die ihr durch die Teilnahme am Verfahren entstandenen Kosten selbst.
-Im Übrigen finden die §§ 8 bis 21 des Verwaltungskostengesetzes
-entsprechende Anwendung.
+
+### § 18a Schlichtung
+
+(1) Kunden können die Regulierungsbehörde als Schlichtungsstelle
+anrufen zur Beilegung von Streitigkeiten mit dem Anbieter von
+Postdienstleistungen über
+
+1.  Rechte und Pflichten bei Verlust, Entwendung oder Beschädigung von
+    Postsendungen oder
+
+
+2.  die Verletzung eigener Rechte, die ihnen auf Grund einer
+    Rechtsverordnung nach § 18 zustehen.
+
+
+
+Kunden im Sinne des Satzes 1 sind
+
+1.  Absender, die Postdienstleistungen vertraglich in Anspruch nehmen,
+    ohne dass mit ihnen Sonderbedingungen vereinbart wurden, und
+
+
+2.  Empfänger von Postsendungen, die von Absendern nach Nummer 1 versandt
+    werden.
+
+
+
+
+(2) Voraussetzung für die Anrufung der Schlichtungsstelle ist, dass
+zuvor eine Streitbeilegung mit dem Anbieter erfolglos nach Maßgabe
+einer Rechtsverordnung nach Absatz 8 geblieben ist. Sofern ein
+Verbraucher die Schlichtungsstelle anruft, sind Anbieter verpflichtet,
+am Schlichtungsverfahren teilzunehmen.
+
+(3) Die Schlichtungsstelle hat sicherzustellen, dass Streitfälle im
+Rahmen des Schlichtungsverfahrens angemessen und zügig bearbeitet
+werden. Das Schlichtungsverfahren soll eine Dauer von 90 Tagen ab
+Eingang der vollständigen Beschwerdeunterlagen bei der
+Schlichtungsstelle nicht überschreiten.
+
+(4) Die Schlichtungsstelle führt das Schlichtungsverfahren unter
+Anhörung der Beteiligten mit dem Ziel einer gütlichen Einigung nach
+Maßgabe einer Rechtsverordnung nach Absatz 8 durch. Das Verfahren
+endet mit einer Einigung der Parteien oder mit der Feststellung der
+Schlichtungsstelle, dass eine Einigung der Parteien nicht zustande
+gekommen ist. Das Ergebnis ist den Parteien schriftlich oder
+elektronisch mitzuteilen.
+
+(5) Für die Durchführung des Schlichtungsverfahrens werden keine
+Gebühren und Auslagen erhoben. Jede Partei trägt die ihr durch die
+Teilnahme am Schlichtungsverfahren entstehenden Kosten selbst.
+
+(6) Die Schlichtungsstelle hat einmal jährlich in geeigneter Form eine
+Statistik über die durchgeführten Schlichtungsverfahren zu
+veröffentlichen.
+
+(7) Die außergerichtliche Beilegung von Streitigkeiten zwischen einem
+Verbraucher und einem Anbieter von Postdienstleistungen muss den
+Anforderungen des Verbraucherstreitbeilegungsgesetzes entsprechen. Das
+Bundesministerium für Wirtschaft und Energie übermittelt der Zentralen
+Anlaufstelle für Verbraucherschlichtung die Mitteilung nach § 32
+Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes.
+
+(8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, die Einzelheiten des außergerichtlichen
+Streitbeilegungsverfahrens zu regeln. Das Bundesministerium für
+Wirtschaft und Energie kann die Ermächtigung nach Satz 1 durch
+Rechtsverordnung auf die Bundesnetzagentur für Elektrizität, Gas,
+Telekommunikation, Post und Eisenbahnen übertragen. Bis zum Erlass
+einer Rechtsverordnung nach Satz 1 bleiben Schlichtungsordnungen
+wirksam, die auf Grundlage des § 18 Absatz 2 des Postgesetzes vom 22.
+Dezember 1997 (BGBl. I S. 3294), das zuletzt durch Artikel 4 des
+Gesetzes vom 18. Januar 2021 (BGBl. I S. 2) geändert worden ist,
+erlassen wurden.
+
+(9) Die Bundesregierung evaluiert die Regelung in Absatz 1 bis zum 17.
+März 2023. Die Evaluierung muss eine Untersuchung einschließen, ob der
+in Absatz 1 Satz 2 geregelte Kundenbegriff dem Ziel eines effektiven
+Verbraucherschutzes gerecht wird oder eine Ausweitung des
+Kundenbegriffs erfolgen sollte, insbesondere, ob der Bezug zu
+Sonderbedingungen in Absatz 1 Satz 2 aufgegeben werden kann.
 
 
 ## Abschnitt 5 - Entgeltregulierung
@@ -512,9 +571,24 @@ Briefsendungen angewendet werden.
 
 (1) Genehmigungsbedürftige Entgelte haben sich an den Kosten einer
 effizienten Leistungsbereitstellung zu orientieren und den
-Anforderungen nach Absatz 2 zu entsprechen.
+Anforderungen nach Absatz 3 zu entsprechen.
 
-(2) Genehmigungsbedürftige Entgelte dürfen
+(2) Die Kosten der effizienten Leistungsbereitstellung ergeben sich
+aus den langfristigen zusätzlichen Kosten der Leistungsbereitstellung
+und einem angemessenen Zuschlag für leistungsmengenneutrale
+Gemeinkosten, jeweils einschließlich eines angemessenen
+Gewinnzuschlags, soweit die Kosten jeweils für die
+Leistungsbereitstellung notwendig sind. Bei der Ermittlung des
+angemessenen Gewinnzuschlags sind insbesondere die Gewinnmargen
+solcher Unternehmen als Vergleich heranzuziehen, die mit dem
+beantragenden Unternehmen in struktureller Hinsicht vergleichbar und
+in anderen europäischen Ländern auf den mit dem lizenzierten Bereich
+vergleichbaren, dem Wettbewerb geöffneten Märkten tätig sind. Bei der
+Vergleichsbetrachtung bleiben solche Zeiträume unberücksichtigt, in
+denen die wirtschaftliche Entwicklung in einer erheblichen Anzahl der
+Vergleichsländer durch außergewöhnliche Umstände beeinflusst wurde.
+
+(3) Genehmigungsbedürftige Entgelte dürfen
 
 1.  keine Aufschläge enthalten, die der Anbieter nur auf Grund seiner
     marktbeherrschenden Stellung durchsetzen kann,
@@ -530,16 +604,47 @@ Anforderungen nach Absatz 2 zu entsprechen.
 
 
 
-es sei denn, daß hierfür eine rechtliche Verpflichtung oder ein
-sonstiger sachlich gerechtfertigter Grund nachgewiesen wird. Dabei
-sind insbesondere die Kosten für die Einhaltung der wesentlichen
-Arbeitsbedingungen, die im lizenzierten Bereich üblich sind, sowie die
-Kosten einer flächendeckenden Versorgung mit Postdienstleistungen und
-die Kosten aus der Übernahme von Versorgungslasten für die
-Beschäftigten, die aus der Rechtsnachfolge der Deutschen Bundespost
-entstanden sind, angemessen zu berücksichtigen.
+es sei denn, dass eine sachliche Rechtfertigung nachgewiesen wird.
+Soweit die nachgewiesenen Kosten die Kosten der effizienten
+Leistungsbereitstellung nach Absatz 2 übersteigen, werden sie im
+Rahmen der Entgeltgenehmigung berücksichtigt, wenn hierfür eine
+rechtliche Verpflichtung besteht oder eine sonstige sachliche
+Rechtfertigung nachgewiesen wird. Dabei sind insbesondere die Kosten
+für die Einhaltung der wesentlichen Arbeitsbedingungen, die im
+lizenzierten Bereich üblich sind, sowie die Kosten einer
+flächendeckenden Versorgung mit Postdienstleistungen und die Kosten
+aus der Übernahme von Versorgungslasten für die Beschäftigten, die aus
+der Rechtsnachfolge der Deutschen Bundespost entstanden sind,
+angemessen zu berücksichtigen. Aufwendungen nach Satz 2 sind den
+Dienstleistungen verursachungsgerecht zuzuordnen. Können die
+Aufwendungen bei einer verursachungsgerechten Zuordnung auf Grund der
+Marktgegebenheiten nicht getragen werden, ohne dass die
+Wettbewerbsfähigkeit der Dienstleistungen beeinträchtigt wird, können
+sie abweichend von Satz 4 anderen Dienstleistungen zugeordnet werden.
+Dienstleistungen, deren Entgelte der Genehmigung nach § 19 bedürfen,
+können Aufwendungen nach Satz 5 nur zugeordnet werden, soweit zwischen
+den Dienstleistungen und den Aufwendungen ein konkreter
+Zurechnungszusammenhang besteht. Ein Zurechnungszusammenhang besteht
+insbesondere dann, wenn bei der Beförderung der Sendungen
+Einrichtungen oder Personal gemeinsam genutzt werden.
 
-(3) § 11 Abs. 1 und eine auf Grund des § 11 Abs. 2 erlassene
+(4) Eine missbräuchliche Beeinträchtigung im Sinne des Absatzes 3 Satz
+1 Nummer 2 wird insbesondere dann vermutet, wenn die Spanne zwischen
+
+1.  dem Entgelt, das ein marktbeherrschender Lizenznehmer Wettbewerbern
+    für eine Zugangsleistung nach § 28 in Rechnung stellt, und
+
+
+2.  dem Entgelt, das er für eine Endkundenleistung verlangt, die weitere
+    Wertschöpfungsstufen umfasst,
+
+
+
+nicht ausreicht, um einem effizienten Unternehmen die Erzielung einer
+angemessenen Gewinnmarge auf dessen Eigenanteil an der Wertschöpfung
+zu ermöglichen (Preis-Kosten-Schere).
+
+(5) § 11 Abs. 1 und eine auf Grund des § 11 Abs. 2 erlassene
 Rechtsverordnung bleiben unberührt.
 
 
@@ -559,17 +664,17 @@ Rechtsverordnung bleiben unberührt.
 
 
 (2) Im Falle des Absatzes 1 Nr. 1 prüft die Regulierungsbehörde für
-jedes einzelne Entgelt, ob es den Anforderungen des § 20 Abs. 2 Nr. 1
-entspricht. Im Falle des Absatzes 1 Nr. 2 gelten bei Einhaltung der
-festgelegten Maßgrößen die Anforderungen des § 20 Abs. 2 Nr. 1 als
-erfüllt.
+jedes einzelne Entgelt, ob es den Anforderungen des § 20 Absatz 3 Satz
+1 Nummer 1 entspricht. Im Falle des Absatzes 1 Nr. 2 gelten bei
+Einhaltung der festgelegten Maßgrößen die Anforderungen des § 20
+Absatz 3 Satz 1 Nummer 1 als erfüllt.
 
 (3) Die Genehmigung der Entgelte ist zu versagen, wenn nach Maßgabe
-des Absatzes 2 die Entgelte den Anforderungen des § 20 Abs. 2 Nr. 1
-nicht entsprechen oder wenn sie gegen andere Rechtsvorschriften
-verstoßen. Die Genehmigung ist ferner zu versagen, wenn offenkundig
-ist, daß die Entgelte den Anforderungen des § 20 Abs. 2 Nr. 2 oder 3
-nicht entsprechen.
+des Absatzes 2 die Entgelte den Anforderungen des § 20 Absatz 3 Satz 1
+Nummer 1 nicht entsprechen oder wenn sie gegen andere
+Rechtsvorschriften verstoßen. Die Genehmigung ist ferner zu versagen,
+wenn offenkundig ist, daß die Entgelte den Anforderungen des § 20
+Absatz 3 Satz 1 Nummer 2 oder 3 nicht entsprechen.
 
 (4) Die Bundesregierung erläßt durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die in
@@ -627,17 +732,18 @@ Satz 2 unwirksam ist, untersagen.
 
 (1) Werden der Regulierungsbehörde Tatsachen bekannt, die die Annahme
 rechtfertigen, daß genehmigte Entgelte nicht den Maßstäben des § 20
-Abs. 2 Nr. 2 oder 3 entsprechen, leitet die Regulierungsbehörde eine
-Überprüfung der Entgelte ein. Sie teilt die Einleitung der Überprüfung
-dem betroffenen Unternehmen schriftlich mit.
+Absatz 3 Satz 1 Nummer 2 oder 3 entsprechen, leitet die
+Regulierungsbehörde eine Überprüfung der Entgelte ein. Sie teilt die
+Einleitung der Überprüfung dem betroffenen Unternehmen schriftlich
+mit.
 
 (2) Die Regulierungsbehörde entscheidet innerhalb von zwei Monaten
 nach Einleitung der Überprüfung.
 
 (3) Stellt die Regulierungsbehörde fest, daß die überprüften Entgelte
-nicht den Maßstäben des § 20 Abs. 2 Nr. 2 oder 3 entsprechen, fordert
-sie das betroffene Unternehmen auf, die Entgelte unverzüglich den
-genannten Maßstäben anzupassen. Die Aufforderung der
+nicht den Maßstäben des § 20 Absatz 3 Satz 1 Nummer 2 oder 3
+entsprechen, fordert sie das betroffene Unternehmen auf, die Entgelte
+unverzüglich den genannten Maßstäben anzupassen. Die Aufforderung der
 Regulierungsbehörde ist im Amtsblatt der Regulierungsbehörde zu
 veröffentlichen.
 
@@ -651,14 +757,14 @@ Verhalten zu untersagen und die Entgelte für unwirksam zu erklären.
 (1) Werden der Regulierungsbehörde Tatsachen bekannt, die die Annahme
 rechtfertigen, daß nicht genehmigungsbedürftige Entgelte, die ein
 Anbieter auf einem Markt für Postdienstleistungen verlangt, nicht den
-Maßstäben des § 20 Abs. 2 entsprechen, leitet die Regulierungsbehörde
-eine Überprüfung der Entgelte ein, sofern der Anbieter auf dem
-betreffenden Markt marktbeherrschend ist. Die Regulierungsbehörde
-teilt die Überprüfung dem betroffenen Unternehmen schriftlich mit. §
-24 Abs. 2 gilt entsprechend.
+Maßstäben des § 20 Absatz 3 entsprechen, leitet die
+Regulierungsbehörde eine Überprüfung der Entgelte ein, sofern der
+Anbieter auf dem betreffenden Markt marktbeherrschend ist. Die
+Regulierungsbehörde teilt die Überprüfung dem betroffenen Unternehmen
+schriftlich mit. § 24 Abs. 2 gilt entsprechend.
 
 (2) Stellt die Regulierungsbehörde fest, daß die Entgelte nicht den
-Maßstäben des § 20 Abs. 2 entsprechen, fordert sie das betroffene
+Maßstäben des § 20 Absatz 3 entsprechen, fordert sie das betroffene
 Unternehmen auf, die Entgelte unverzüglich den genannten Maßstäben
 anzupassen. Die Aufforderung der Regulierungsbehörde ist im Amtsblatt
 der Regulierungsbehörde zu veröffentlichen.
@@ -842,10 +948,12 @@ Der verpflichtete Lizenznehmer hat Anspruch auf ein Entgelt. Durch
 dieses werden alle von dem Lizenznehmer erbrachten Leistungen
 einschließlich der hoheitlichen Beurkundung und Rücksendung der
 Beurkundungsunterlagen an die auftraggebende Stelle abgegolten. Das
-Entgelt hat den Maßstäben des § 20 Abs. 1 und 2 zu entsprechen. Es
-bedarf der Genehmigung durch die Regulierungsbehörde. Das
-Bundesministerium der Justiz und das Bundesministerium des Innern sind
-unverzüglich über beabsichtigte Entgeltgenehmigungen zu informieren.
+Entgelt hat den Maßstäben des § 20 Absatz 1 und 3 zu entsprechen. Es
+bedarf der Genehmigung durch die Regulierungsbehörde, soweit der
+Lizenznehmer marktbeherrschend ist. Das Bundesministerium der Justiz
+und für Verbraucherschutz und das Bundesministerium des Innern, für
+Bau und Heimat sind unverzüglich über beabsichtigte
+Entgeltgenehmigungen zu informieren.
 
 
 ### § 35 Haftung bei der Durchführung der förmlichen Zustellung
@@ -865,9 +973,9 @@ Bereich.
 
 Wer Postdienstleistungen erbringt, ohne einer Lizenz zu bedürfen, hat
 die Aufnahme, Änderung und Beendigung des Betriebs innerhalb eines
-Monats der Regulierungsbehörde schriftlich anzuzeigen. Die
-Regulierungsbehörde kann die eingegangenen Anzeigen in ihrem Amtsblatt
-veröffentlichen.
+Monats der Regulierungsbehörde schriftlich oder elektronisch
+anzuzeigen. Die Regulierungsbehörde kann die eingegangenen Anzeigen in
+ihrem Amtsblatt veröffentlichen.
 
 
 ### § 37 Berichtspflicht
@@ -940,6 +1048,63 @@ bezeichneten Handlungen erforderlich sind, um
 Die Auslieferung von Postsendungen an Ersatzempfänger im Rahmen der
 vertraglichen Vereinbarung mit dem Absender ist zulässig.
 
+(4a) Ein nach Absatz 2 Verpflichteter hat der zuständigen
+Strafverfolgungsbehörde eine Postsendung, über deren Inhalt er sich
+nach Absatz 4 Satz 1 Kenntnis verschafft hat, unverzüglich zur
+Nachprüfung vorzulegen, wenn zureichende tatsächliche Anhaltspunkte
+dafür bestehen, dass mit der Postsendung eine strafbare Handlung nach
+
+1.  den §§ 29 bis 30b des Betäubungsmittelgesetzes in der Fassung der
+    Bekanntmachung vom 1. März 1994 (BGBl. I S. 358), das zuletzt durch
+    Artikel 1 der Verordnung vom 14. Januar 2021 (BGBl. I S. 70) geändert
+    worden ist,
+
+
+2.  § 4 des Neue-psychoaktive-Stoffe-Gesetzes vom 21. November 2016 (BGBl.
+    I S. 2615), das zuletzt durch Artikel 1 der Verordnung vom 3. Juli
+    2020 (BGBl. I S. 1555) geändert worden ist,
+
+
+3.  § 19 des Grundstoffüberwachungsgesetzes vom 11. März 2008 (BGBl. I S.
+    306), das zuletzt durch Artikel 92 der Verordnung vom 19. Juni 2020
+    (BGBl. I S. 1328) geändert worden ist,
+
+
+4.  den §§ 95 und 96 des Arzneimittelgesetzes in der Fassung der
+    Bekanntmachung vom 12. Dezember 2005 (BGBl. I S. 3394), das zuletzt
+    durch Artikel 5 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2870)
+    geändert worden ist,
+
+
+5.  § 4 des Anti-Doping-Gesetzes vom 10. Dezember 2015 (BGBl. I S. 2210),
+    das zuletzt durch Artikel 1 der Verordnung vom 3. Juli 2020 (BGBl. I
+    S. 1547) geändert worden ist,
+
+
+6.  den §§ 51 und 52 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S.
+    3970, 4592; 2003 I S. 1957), das zuletzt durch Artikel 228 der
+    Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist,
+
+
+7.  den §§ 40 und 42 des Sprengstoffgesetzes in der Fassung der
+    Bekanntmachung vom 10. September 2002 (BGBl. I S. 3518), das zuletzt
+    durch Artikel 232 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328)
+    geändert worden ist,
+
+
+8.  den §§ 19 bis 21 und 22a des Gesetzes über die Kontrolle von
+    Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990
+    (BGBl. I S. 2506), das zuletzt durch Artikel 36 der Verordnung vom 19.
+    Juni 2020 (BGBl. I S. 1328) geändert worden ist,
+
+
+9.  § 13 des Ausgangsstoffgesetzes vom 3. Dezember 2020 (BGBl. I S. 2678),
+
+
+
+in der jeweils geltenden Fassung begangen wird. Das Postgeheimnis nach
+Artikel 10 des Grundgesetzes wird insoweit eingeschränkt.
+
 (5) Mitteilungen über den Postverkehr einer Person sind zulässig,
 soweit sie erforderlich sind, um Ansprüche gegen diese Person
 gerichtlich oder außergerichtlich geltend zu machen, die im
@@ -954,90 +1119,110 @@ Unternehmen und Personen, die geschäftsmäßig Postdienste erbringen
 oder an der Erbringung solcher Dienste mitwirken, teilen Gerichten und
 Behörden auf deren Verlangen die zustellfähige Anschrift eines am
 Postverkehr Beteiligten mit, soweit dies für Zwecke des Postverkehrs
-der Gerichte oder Behörden erforderlich ist. Dies gilt auch dann, wenn
-der Empfänger eine für die Übermittlung erforderliche Einwilligung
-nicht erteilt oder gegen die Übermittlung Widerspruch erhoben hat.
+der Gerichte oder Behörden erforderlich ist.
 
 
 ### § 41 Datenschutz
 
-(1) Die Bundesregierung erläßt für Unternehmen, die geschäftsmäßig
-Postdienste erbringen oder an der Erbringung solcher Dienste
-mitwirken, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Vorschriften zum Schutz personenbezogener Daten der am Postverkehr
-Beteiligten, welche die Erhebung, Verarbeitung und Nutzung dieser
-Daten regeln. Die Vorschriften haben dem Grundsatz der
-Verhältnismäßigkeit, insbesondere der Beschränkung der Erhebung,
-Verarbeitung und Nutzung auf das Erforderliche, sowie dem Grundsatz
-der Zweckbindung Rechnung zu tragen. Dabei sind Höchstfristen für die
-Speicherung festzulegen und insgesamt die berechtigten Interessen des
-jeweiligen Unternehmens und der Betroffenen zu berücksichtigen.
-Einzelangaben über juristische Personen, die dem Postgeheimnis
-unterliegen, stehen den personenbezogenen Daten gleich. Für
-Mitteilungen an den Betroffenen gilt § 19 des
-Bundesdatenschutzgesetzes, für die Berichtigung, Sperrung und Löschung
-von Daten gilt § 20 Abs. 1 bis 4 und 6 bis 8 des
-Bundesdatenschutzgesetzes.
-
-(2) Nach Maßgabe der in Absatz 1 genannten Rechtsverordnung dürfen
-Unternehmen und Personen, die geschäftsmäßig Postdienste erbringen
-oder an der Erbringung solcher Dienste mitwirken, die Daten
-natürlicher und juristischer Personen erheben, verarbeiten und nutzen,
-soweit dies zur betrieblichen Abwicklung von geschäftsmäßigen
-Postdiensten erforderlich ist, nämlich für
-
-1.  das Begründen, inhaltliche Ausgestalten und Ändern eines
-    Vertragsverhältnisses,
+Für Unternehmen und Personen, die geschäftsmäßig Postdienste erbringen
+oder an der Erbringung solcher Dienste mitwirken (Diensteanbieter),
+werden die Vorgaben der Verordnung (EU) 2016/679 des Europäischen
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten, zum freien
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
+durch die Regelungen der §§ 41a bis 42 ergänzt.
 
 
-2.  das Ermitteln von Verkehrsdaten für Vertragszwecke,
+### § 41a Anschriften, Daten zum Zweck der Zustellung
+
+(1) Diensteanbieter dürfen personenbezogene Daten, die sich auf die
+vorübergehende oder dauerhafte Änderung einer Anschrift beziehen,
+anderen Diensteanbietern übermitteln, soweit dies zu Zwecken des
+ordnungsgemäßen Auslieferns von Postsendungen erforderlich ist. Die
+Anschrift umfasst den Namen, die Zustell- oder Abholangaben und den
+Bestimmungsort mit postalischen Leitangaben. Hat die betroffene Person
+bei der Erteilung eines Nachsendeauftrags darin eingewilligt, dass die
+Anschriftenänderung dem Absender einer mit einer unzutreffenden
+Anschrift der betroffenen Person versehenen Postsendung auf Verlangen
+zu Zwecken der zutreffenden Adressierung künftiger Postsendungen
+mitgeteilt wird, dürfen die anderen Diensteanbieter die ihnen nach
+Satz 1 übermittelte Anschriftenänderung ebenfalls dem Absender einer
+solchen Sendung auf Verlangen zum Zwecke der zutreffenden Adressierung
+künftiger Postsendungen mitteilen.
+
+(2) Diensteanbieter, die Postfachanlagen betreiben, dürfen auf Anfrage
+jeder Person die Postfachadresse des Postfachinhabers mitteilen. Sie
+dürfen anderen Diensteanbietern Daten übermitteln, die im Rahmen von
+deren Tätigkeit für die Zuführung von Postsendungen über diese
+Postfachanlagen erforderlich sind.
+
+(3) Diensteanbieter dürfen personenbezogene Daten der Empfänger und
+Ersatzempfänger von Postsendungen verarbeiten, soweit dies für die
+ordnungsgemäße Zustellung der Postsendungen erforderlich ist. Sie
+dürfen im Einzelfall zur Gewährleistung einer ordnungsgemäßen
+Zustellung von Postsendungen personenbezogene Daten über besondere bei
+der Zustellung an einen Adressaten zu beachtende Umstände verarbeiten.
+
+(4) Diensteanbieter dürfen einem Dritten auf sein Verlangen Auskunft
+darüber erteilen, ob die angegebene Anschrift eines am Postverkehr
+Beteiligten richtig ist, soweit die Anschriftenprüfung für Zwecke des
+Postverkehrs erforderlich ist. Schreibfehler und ähnliche offenbare
+Unrichtigkeiten bei der Angabe einer gegenwärtig bestehenden Anschrift
+dürfen vom Diensteanbieter berichtigt werden.
 
 
-3.  das ordnungsgemäße Ausliefern von Postsendungen,
+### § 41b Ausweisdaten
+
+(1) Diensteanbieter können von am Postverkehr Beteiligten verlangen,
+sich über ihre Person durch Vorlage eines gültigen Personalausweises
+oder Passes oder durch Vorlage sonstiger amtlicher Ausweispapiere
+auszuweisen, um die ordnungsgemäße Ausführung des Postdienstes
+sicherzustellen.
+
+(2) Besteht ein besonderes Beweissicherungsinteresse, so können zum
+späteren Beweis der ordnungsgemäßen Ausführung des Postdienstes
+folgende Daten des Ausweispapiers gespeichert werden:
+
+1.  die Art des Ausweises,
 
 
-4.  das ordnungsgemäße Ermitteln, Abrechnen und Auswerten sowie den
-    Nachweis der Richtigkeit der Entgelte für geschäftsmäßige Postdienste.
+2.  die ausstellende Behörde,
+
+
+3.  die Nummer des Ausweises sowie
+
+
+4.  das Ausstellungsdatum.
 
 
 
-Auf Grund der Befugnisse nach Satz 1 ist die Erhebung, Verarbeitung
-und Nutzung von Daten, die sich auf den Inhalt von Postsendungen
-beziehen, nicht zulässig.
 
-(3) Die in Absatz 2 genannten Unternehmen und Personen dürfen die
-personenbezogenen Daten, die sie für das Begründen, inhaltliche
-Ausgestalten oder Ändern eines Vertragsverhältnisses erhoben haben,
-verarbeiten und nutzen, soweit dies für eigene Zwecke der Werbung,
-Kundenberatung oder Marktforschung für die in Absatz 2 genannten
-Unternehmen oder Personen erforderlich ist und der Kunde eingewilligt
-hat. Personenbezogene Daten von Kunden, die im Zeitpunkt des
-Inkrafttretens dieses Gesetzes von den in Absatz 2 genannten
-Unternehmen und Personen bereits erhoben waren, dürfen für die in Satz
-1 genannten Zwecke verarbeitet und genutzt werden, wenn der Kunde
-nicht widerspricht. Sein Einverständnis gilt als erteilt, wenn er in
-angemessener Weise über sein Widerspruchsrecht informiert worden ist
-und von seinem Widerspruchsrecht keinen Gebrauch gemacht hat.
+(3) Eine Verarbeitung der Daten ist zulässig, um einen Beweis über die
+ordnungsgemäße Ausführung des Postdienstes zu erbringen.
 
-(4) Die geschäftsmäßige Erbringung von Postdiensten und deren
-Entgeltfestlegung darf nicht von der Angabe personenbezogener Daten
-abhängig gemacht werden, die für die Erbringung oder Entgeltfestlegung
-dieser Dienste nicht erforderlich sind. Soweit die in Absatz 2
-genannten Unternehmen die Verarbeitung oder Nutzung personenbezogener
-Daten eines Kunden von seiner Einwilligung abhängig machen, haben sie
-ihn in sachgerechter Weise über Inhalt und Reichweite der Einwilligung
-zu informieren. Dabei sind die vorgesehenen Zwecke und Nutzungszeiten
-zu nennen. Die Einwilligung muß ausdrücklich und in der Regel
-schriftlich erfolgen. Soll sie im elektronischen Verfahren erfolgen,
-ist dabei für einen angemessenen Zeitraum eine Rücknahmemöglichkeit
-vorzusehen.
+(4) Die Daten sind spätestens sechs Monate nach Ablauf gesetzlicher
+oder vertraglicher Verjährungsfristen zu löschen.
+
+
+### § 41c Fundbriefe
+
+Diensteanbieter dürfen personenbezogene Daten auch in den Fällen
+verarbeiten, in denen Postsendungen in ihren Betriebsablauf gelangt
+sind, die nicht zur Beförderung durch sie bestimmt waren, soweit die
+Verarbeitung dieser Daten zur Zustellung oder Rückführung der
+Postsendungen oder zum Zwecke der Entgeltabrechnung erforderlich ist.
+Diensteanbieter dürfen diese Postsendungen öffnen, wenn weder
+hinreichende Absender- oder Empfängerangaben auf dem Umschlag
+erkennbar sind noch eine Übergabe der Postsendung an den vom Kunden
+gewählten Diensteanbieter möglich ist.
 
 
 ### § 42 Kontrolle und Durchsetzung von Verpflichtungen
 
 (1) Die Regulierungsbehörde kann Anordnungen treffen, um die
-Einhaltung der in den §§ 33 und 39 bis 41 enthaltenen Pflichten sowie
-der auf Grund des § 41 Abs. 1 erlassenen Rechtsverordnung
+Einhaltung der in den §§ 33, 39 und 40 enthaltenen Pflichten
 sicherzustellen. Dazu kann sie von dem Verpflichteten die für eine
 Überprüfung erforderlichen Auskünfte verlangen und die Einhaltung der
 Vorschriften in den Betriebs- und Geschäftsräumen des Verpflichteten
@@ -1046,33 +1231,32 @@ Verpflichteten während der üblichen Betriebs- und Geschäftszeiten
 Zutritt zu dessen Betriebs- und Geschäftsräumen verlangen.
 
 (2) Stellt die Regulierungsbehörde fest, daß in einem Unternehmen die
-§§ 33 und 39 bis 41 sowie die auf Grund des § 41 Abs. 1 ergangene
-Rechtsverordnung nicht eingehalten werden, kann sie das weitere
-geschäftsmäßige Erbringen von Postdiensten ganz oder teilweise
-untersagen, wenn mildere Eingriffe zur Durchsetzung rechtmäßigen
-Verhaltens nicht ausreichen. Diese Befugnis steht der
-Regulierungsbehörde auch dann zu, wenn ein Unternehmen seinen in
-Absatz 1 genannten Verpflichtungen trotz wiederholter Aufforderung
-nicht nachkommt. § 9 bleibt unberührt.
+in den §§ 33, 39 oder 40 enthaltenen Pflichten nicht eingehalten
+werden, kann sie das weitere geschäftsmäßige Erbringen von
+Postdiensten ganz oder teilweise untersagen, wenn mildere Eingriffe
+zur Durchsetzung rechtmäßigen Verhaltens nicht ausreichen. Diese
+Befugnis steht der Regulierungsbehörde auch dann zu, wenn ein
+Unternehmen seinen in Absatz 1 genannten Verpflichtungen trotz
+wiederholter Aufforderung nicht nachkommt. § 9 bleibt unberührt.
 
-(3) Soweit für das geschäftsmäßige Erbringen von Postdiensten Daten
-von natürlichen oder juristischen Personen erhoben, verarbeitet oder
-genutzt werden, tritt bei den Unternehmen an die Stelle der Kontrolle
-nach § 38 des Bundesdatenschutzgesetzes eine Kontrolle durch den
-Bundesbeauftragten für den Datenschutz entsprechend den §§ 21 und 24
-bis 26 Abs. 1 bis 4 des Bundesdatenschutzgesetzes. Absatz 1 Satz 3
-gilt entsprechend. Der Bundesbeauftragte für den Datenschutz richtet
-seine Beanstandungen an das Bundesministerium für Wirtschaft und
-Technologie und übermittelt diesem nach pflichtgemäßem Ermessen
-weitere Ergebnisse seiner Kontrolle.
+(3) Soweit für das geschäftsmäßige Erbringen von Postdienstleistungen
+personenbezogene Daten verarbeitet werden, tritt bei den Unternehmen
+an die Stelle der Aufsicht nach § 40 des Bundesdatenschutzgesetzes
+eine Aufsicht durch die oder den Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit.
 
 (4) Durch Auskünfte und Überprüfungen dürfen die Regulierungsbehörde
-nach Absatz 1 und der Bundesbeauftragte für den Datenschutz sowie das
-Bundesministerium für Wirtschaft und Technologie nach Absatz 3
-Kenntnis über die näheren Umstände des Postverkehrs bestimmter
-Personen erlangen, soweit dies zur Ausübung ihrer Kontrollaufgaben
-erforderlich ist. Das Postgeheimnis gemäß Artikel 10 des Grundgesetzes
-wird insoweit eingeschränkt.
+und die oder der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit Kenntnis über die näheren Umstände des
+Postverkehrs bestimmter Personen erlangen, soweit dies zur Ausübung
+ihrer Kontrollaufgaben erforderlich ist. Das Postgeheimnis nach
+Artikel 10 des Grundgesetzes wird insoweit eingeschränkt.
+
+(5) Die Regulierungsbehörde und die oder der Bundesbeauftragte für den
+Datenschutz und die Informationsfreiheit wirken auf eine einheitliche
+Auslegung dieses Gesetzes hin. Sie haben sich gegenseitig
+Beobachtungen und Feststellungen mitzuteilen, die für die Erfüllung
+ihrer jeweiligen Aufgaben von Bedeutung sind.
 
 
 ## Abschnitt 10 - Postwertzeichen, Regulierungsbehörde
@@ -1256,16 +1440,20 @@ entsprechend.
 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 2,
-3, 4 Buchstabe b, Nr. 5 und 10 mit einer Geldbuße bis zu 500.000 Euro,
+3, 4 Buchstabe b, Nr. 5 und 10 mit einer Geldbuße bis zu 500 000 Euro,
 in den Fällen des Absatzes 1 Nr. 6 und 9 mit einer Geldbuße bis zu
-50\.000 Euro, in den übrigen Fällen mit einer Geldbuße bis zu 10.000
+50 000 Euro, in den übrigen Fällen mit einer Geldbuße bis zu 10 000
 Euro geahndet werden.
 
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist die Regulierungsbehörde. Die
+Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit nach der Verordnung (EU) 2016/679 bleiben
+unberührt.
 
-### § 50 Zuständige Behörde
 
-Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
-Ordnungswidrigkeiten ist die Regulierungsbehörde.
+### § 50 (weggefallen)
+
 
 
 ## Abschnitt 12 - Übergangsvorschriften
@@ -1340,7 +1528,7 @@ Exklusivlizenz ausschließlich der Deutschen Post AG zu.
 
 ### § 55 Rechtsverordnung zur Einschränkung des Beförderungsverbots
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur
 Durchführung von Marktuntersuchungen und zur Erprobung neuer
 Dienstleistungen das sich aus § 51 ergebende Beförderungsverbot

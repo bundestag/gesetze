@@ -3,7 +3,7 @@ Title: Gesetz zu dem Protokoll vom 3. Juni 1999 betreffend die Änderung des Üb
   vom 9. Mai 1980 über den internationalen Eisenbahnverkehr (COTIF)
 jurabk: COTIFÄndProtG
 layout: default
-origslug: cotif_ndprotg
+origslug: cotifaendprotg
 slug: cotifaendprotg
 
 ---

@@ -442,8 +442,11 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen
+Fachangestellten/zur Zahnmedizinischen Fachangestellten
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2001, 1495 - 1499)
 
@@ -1267,8 +1270,11 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen
+Fachangestellten/zur Zahnmedizinischen Fachangestellten
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 
 *

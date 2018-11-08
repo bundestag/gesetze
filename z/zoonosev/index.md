@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1816, 1871
 
-Geändert durch
-:   Art. 4 V v. 11.5.2010 I 612
+Zuletzt geändert durch
+:   Art. 1 V v. 19.6.2020 I 1480
 
 
 
@@ -50,21 +50,44 @@ Im Sinne dieser Verordnung sind:
 
 ## § 3 Betriebseigene Kontrollen
 
-(1) Wer im Rahmen von Kontrollen nach Artikel 3 Abs. 1 der Verordnung
-(EG) Nr. 2073/2005 der Kommission vom 15. November 2005 über
-mikrobiologische Kriterien für Lebensmittel (ABl. EU Nr. L 338 S. 1)
-oder anderen betriebseigenen Kontrollen Lebensmittel auf
-Zoonoseerreger untersucht, hat zum Zweck der Durchführung von
-weitergehenden Untersuchungen Rückstellproben des Probenmaterials
-anzufertigen und bis zum Vorliegen des Ergebnisses der Untersuchungen
-in geeigneter Weise aufzubewahren.
+(1) Wer im Rahmen von Kontrollen nach Artikel 3 Absatz 1 der
+Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005
+über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom
+22\.12.2005, S. 1) oder anderen betriebseigenen Kontrollen
+Untersuchungen durchführt
 
-(2) Im Falle des Nachweises von Zoonoseerregern sind
-
-1.  das Untersuchungsergebnis der zuständigen Behörde mitzuteilen,
+1.  von Lebensmitteln auf Zoonoseerreger,
 
 
-2.  Isolate der nachgewiesenen Zoonoseerreger herzustellen und
+2.  von Produktresten von Lebensmitteln oder Schmierwasser in der
+    Käseherstellung bei der Herstellung und Bearbeitung von
+    verzehrfertigen Lebensmitteln auf Listeria monocytogenes,
+
+
+3.  nach Artikel 5 Absatz 2 Unterabsatz 1 und 2 der Verordnung (EG) Nr.
+    2073/2005 einschließlich Untersuchungen zur Prüfung des Reinigungs-
+    und Desinfektionserfolgs insbesondere von Arbeitsflächen,
+    Rohrleitungssystemen oder Transportbehältnissen, die mit
+    verzehrfertigen Lebensmitteln nach Artikel 2 Buchstabe g der
+    Verordnung (EG) Nr. 2073/2005 in Berührung kommen können, auf Listeria
+    monocytogenes,
+
+
+
+hat zum Zweck der Durchführung von weitergehenden Untersuchungen
+Rückstellproben des Probenmaterials soweit möglich anzufertigen und
+bis zum Vorliegen des Ergebnisses der Untersuchungen in geeigneter
+Weise aufzubewahren.
+
+(2) Wer durch Untersuchungen nach Absatz 1 Zoonoseerreger nachgewiesen
+hat, hat
+
+1.  das Untersuchungsergebnis unverzüglich nach Kenntnisnahme der
+    zuständigen Behörde mitzuteilen,
+
+
+2.  Isolate der nachgewiesenen Zoonoseerreger herzustellen, soweit eine
+    Erregerkultur zu einem Isolat führt, und
 
 
 3.  die Rückstellproben des Probenmaterials und die Isolate
@@ -122,10 +145,14 @@ oder fahrlässig
 
 2.  entgegen § 3 Abs. 1 oder Abs. 2 Nr. 3 Buchstabe a eine Rückstellprobe
     oder ein Isolat nicht oder nicht für die vorgeschriebene Dauer
-    aufbewahrt oder
+    aufbewahrt,
 
 
-3.  entgegen § 3 Abs. 2 Nr. 3 Buchstabe b oder Abs. 4 Satz 2 eine
+3.  entgegen § 3 Absatz 2 Nummer 1 eine Mitteilung nicht, nicht richtig
+    oder nicht rechtzeitig macht oder
+
+
+4.  entgegen § 3 Abs. 2 Nr. 3 Buchstabe b oder Abs. 4 Satz 2 eine
     Rückstellprobe, ein Isolat oder einen Nachweis nicht, nicht richtig
     oder nicht rechtzeitig vorlegt.
 

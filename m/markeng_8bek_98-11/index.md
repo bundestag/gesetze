@@ -36,6 +36,22 @@ Bundesministerium der Justiz
 
 ## Anlage Name, Abkürzung und Emblem der Internationalen Mobilfunksatelliten-Organisation
 
-(Inhalt: nicht darstellbares Emblem,
 Fundstelle: BGBl. I 1998, 3539)
 
+
+*    *   Name:
+
+    *   International Mobile Satellite Organization
+
+
+*    *   Abkürzung:
+
+    *   Inmarsat
+
+
+*    *   Emblem:
+
+    *
+
+
+![bgbl1_1998_j3539_0010.jpg](bgbl1_1998_j3539_0010.jpg)

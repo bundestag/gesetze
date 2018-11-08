@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Neuburg a. d. Donau
 jurabk: FluLärmNeubV
 layout: default
-origslug: flul_rmneubv
+origslug: flulaermneubv
 slug: flulaermneubv
 
 ---

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.2007 I 258
 
 Zuletzt geändert durch
-:   Art. 3 V v. 13.12.2011 I 2720
+:   Art. 4 V v. 5.7.2017 I 2272
 
 Mit dieser Verordnung wird die Richtlinie 89/108/EWG des Rates vom 21.
 Dezember 1988 (ABl. EG Nr. L 40 S. 34) in deutsches Recht umgesetzt.
@@ -91,15 +91,13 @@ folgende Abweichungen nach oben zulässig:
 
 
 
-Dem Verbraucher stehen Gaststätten, Einrichtungen zur
-Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
-Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen,
-gleich.
+Dem Verbraucher stehen Anbieter von Gemeinschaftsverpflegung sowie
+Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb
+ihrer Betriebsstätte beziehen, gleich.
 
 (5) Örtlicher Vertrieb im Sinne dieser Verordnung ist die lokale
-Auslieferung von tiefgefrorenen Lebensmitteln an den Einzelhandel,
-Hotels, Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung, wie
-Kantinen oder Krankenhäuser, sowie die Direktlieferung an
+Auslieferung von tiefgefrorenen Lebensmitteln an den Einzelhandel, und
+an Anbieter von Gemeinschaftsverpflegung sowie die Direktlieferung an
 Privathaushalte.
 
 
@@ -149,29 +147,40 @@ gemeinschaftlichen Verfahren erhaltenen Ergebnisse ausschlaggebend.
 ## § 3 Bezeichnungsschutz
 
 Lebensmittel dürfen mit den Angaben "tiefgefroren", "tiefgekühlt",
-"Tiefkühlkost" oder "gefrostet" gewerbsmäßig nur in den Verkehr
-gebracht werden, wenn sie den Anforderungen des § 1 Abs. 1 Nr. 1 und
-des § 2 entsprechen.
+"Tiefkühlkost" oder "gefrostet" nur in den Verkehr gebracht werden,
+wenn sie den Anforderungen des § 1 Abs. 1 Nr. 1 und des § 2
+entsprechen.
 
 
 ## § 4 Verpackung
 
 Tiefgefrorene Lebensmittel, die zur Abgabe an Verbraucher bestimmt
-sind, dürfen gewerbsmäßig nur in Fertigpackungen in den Verkehr
-gebracht werden, die das Lebensmittel vor Austrocknung sowie vor
-Befall durch Mikroorganismen und anderen nachteiligen Beeinflussungen
-von außen schützen.
+sind, dürfen nur in Verpackungen in den Verkehr gebracht werden, die
+das Lebensmittel vor Austrocknung sowie vor Befall durch
+Mikroorganismen und anderen nachteiligen Beeinflussungen von außen
+schützen.
 
 
 ## § 5 Kennzeichnung von Erzeugnissen für Verbraucher
 
-Tiefgefrorene Lebensmittel in Fertigpackungen, die zur Abgabe an
-Verbraucher bestimmt sind, dürfen gewerbsmäßig nur in den Verkehr
-gebracht werden, wenn zusätzlich zu den durch die Lebensmittel-
-Kennzeichnungsverordnung vorgeschriebenen Angaben angegeben sind:
+Vorverpackte tiefgefrorene Lebensmittel, die zur Abgabe an Verbraucher
+bestimmt sind, dürfen nur in den Verkehr gebracht werden, wenn
+zusätzlich zu den Angaben, die durch die Verordnung (EU) Nr. 1169/2011
+des Europäischen Parlaments und des Rates vom 25. Oktober 2011
+betreffend die Information der Verbraucher über Lebensmittel und zur
+Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006
+des Europäischen Parlaments und des Rates und zur Aufhebung der
+Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des
+Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie
+2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien
+2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr.
+608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom
+18\.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S.
+7) in der jeweils geltenden Fassung vorgeschrieben sind, folgende
+Angaben angegeben sind:
 
 1.  die Worte "tiefgefroren", "tiefgekühlt", "Tiefkühlkost" oder
-    "gefrostet" in Verbindung mit der Verkehrsbezeichnung,
+    "gefrostet" in Verbindung mit der Bezeichnung des Lebensmittels,
 
 
 2.  der Zeitraum, während dessen das Lebensmittel beim Verbraucher
@@ -187,19 +196,18 @@ Kennzeichnungsverordnung vorgeschriebenen Angaben angegeben sind:
 
 
 
-Dem Verbraucher stehen Gaststätten, Einrichtungen zur
-Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
-Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen,
-gleich.
+Dem Verbraucher stehen Anbieter von Gemeinschaftsverpflegung sowie
+Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb
+ihrer Betriebsstätte beziehen, gleich.
 
 
 ## § 6 Kennzeichnung von Erzeugnissen, die nicht für Verbraucher bestimmt sind
 
 (1) Tiefgefrorene Lebensmittel, die nicht zur Abgabe an Verbraucher
-bestimmt sind, dürfen gewerbsmäßig nur in den Verkehr gebracht werden,
-wenn angegeben sind:
+bestimmt sind, dürfen nur in den Verkehr gebracht werden, wenn
+angegeben sind:
 
-1.  die Verkehrsbezeichnung, ergänzt um die Worte "tiefgekühlt",
+1.  die Bezeichnung des Lebensmittels, ergänzt um die Worte "tiefgekühlt",
     "tiefgefroren", "Tiefkühlkost" oder "gefrostet",
 
 
@@ -213,10 +221,9 @@ wenn angegeben sind:
 
 
 
-Dem Verbraucher stehen Gaststätten, Einrichtungen zur
-Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
-Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen,
-gleich.
+Dem Verbraucher stehen Anbieter von Gemeinschaftsverpflegung sowie
+Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb
+ihrer Betriebsstätte beziehen, gleich.
 
 (2) Die Angaben nach Absatz 1 müssen auf der Packung, dem Behältnis,
 der Umhüllung oder einem damit verbundenen Etikett angebracht werden.

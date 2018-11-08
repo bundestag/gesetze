@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1599
 
-Geändert durch
-:   Art. 1 V v. 1.3.2011 I 326
+Neugefasst durch
+:   Bek. v. 28.6.2018 I 975
 
 Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -24,16 +24,6 @@ abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
 in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
-
-
-## Eingangsformel
-
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006
-(BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Technologie im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
@@ -60,7 +50,7 @@ Die Ausbildungsberufe
 
 
 
-werden gemäß § 4 Abs. 1 des Berufsbildungsgesetzes staatlich
+werden gemäß § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
 anerkannt.
 
 
@@ -75,22 +65,59 @@ Die Ausbildung dauert dreieinhalb Jahre.
 Fähigkeiten (berufliche Handlungsfähigkeit) sollen prozessbezogen
 vermittelt werden. Diese Qualifikationen sollen so vermittelt werden,
 dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen
-Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt
-werden, die insbesondere selbstständiges Planen, Durchführen und
-Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
-einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den
-Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18, 21 und 22 sowie
-25 und 26 nachzuweisen.
+Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes
+befähigt werden, die insbesondere selbstständiges Planen, Durchführen
+und Kontrollieren sowie das Handeln im betrieblichen
+Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung
+ist auch in den Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18,
+21 und 22 sowie 25 und 26 nachzuweisen.
 
-(2) Die gemeinsamen Kernqualifikationen nach § 7 Abs. 1 Nr. 1 bis 12,
-§ 11 Abs. 1 Nr. 1 bis 12, § 15 Abs. 1 Nr. 1 bis 12, § 19 Abs. 1 Nr. 1
-bis 12 und § 23 Abs. 1 Nr. 1 bis 12 und die berufsspezifischen
-Fachqualifikationen nach § 7 Abs. 1 Nr. 13 bis 17, § 11 Abs. 1 Nr. 13
-bis 17, § 15 Abs. 1 Nr. 13 bis 20, § 19 Abs. 1 Nr. 13 bis 19 und § 23
-Abs. 1 Nr. 13 bis 18 haben jeweils einen zeitlichen Umfang von 21
-Monaten und werden verteilt über die gesamte Ausbildungszeit
-integriert auch unter Berücksichtigung des Nachhaltigkeitsaspekts
-vermittelt.
+(2) Jeweils einen zeitlichen Umfang von 21 Monaten haben
+
+1.  die gemeinsamen Kernqualifikationen nach
+
+    a)  § 7 Absatz 1 Nummer 1 bis 13,
+
+
+    b)  § 11 Absatz 1 Nummer 1 bis 13,
+
+
+    c)  § 15 Absatz 1 Nummer 1 bis 13,
+
+
+    d)  § 19 Absatz 1 Nummer 1 bis 13 und
+
+
+    e)  § 23 Absatz 1 Nummer 1 bis 13 sowie
+
+
+
+
+
+2.  die berufsspezifischen Fachqualifikationen nach
+
+    a)  § 7 Absatz 1 Nummer 14 bis 18,
+
+
+    b)  § 11 Absatz 1 Nummer 14 bis 18,
+
+
+    c)  § 15 Absatz 1 Nummer 14 bis 21,
+
+
+    d)  § 19 Absatz 1 Nummer 14 bis 20 und
+
+
+    e)  § 23 Absatz 1 Nummer 14 bis 19.
+
+
+
+
+
+
+Sie sind während der gesamten Ausbildungszeit integriert zu
+vermitteln. Bei der Vermittlung ist der Nachhaltigkeitsaspekt zu
+berücksichtigen.
 
 (3) Im Rahmen der berufsspezifischen Fachqualifikationen ist die
 berufliche Handlungskompetenz in mindestens einem Einsatzgebiet durch
@@ -105,13 +132,9 @@ Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
-### § 5 Schriftlicher Ausbildungsnachweis
+### § 5 (weggefallen)
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(weggefallen)
 
 
 ### § 6 Abschlussprüfung
@@ -150,44 +173,47 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Herstellen von Bauteilen und Baugruppen,
+8.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
 
 
-9.  Warten von Betriebsmitteln,
+9.  Herstellen von Bauteilen und Baugruppen,
 
 
-10. Steuerungstechnik,
+10. Warten von Betriebsmitteln,
 
 
-11. Anschlagen, Sichern und Transportieren,
+11. Steuerungstechnik,
 
 
-12. Kundenorientierung,
+12. Anschlagen, Sichern und Transportieren,
 
 
-13. Bearbeiten von Aufträgen,
+13. Kundenorientierung,
 
 
-14. Herstellen und Montieren von Bauteilen und Baugruppen,
+14. Bearbeiten von Aufträgen,
 
 
-15. Instandhaltung; Feststellen, Eingrenzen und Beheben von Fehlern und
+15. Herstellen und Montieren von Bauteilen und Baugruppen,
+
+
+16. Instandhaltung; Feststellen, Eingrenzen und Beheben von Fehlern und
     Störungen,
 
 
-16. Bauteile und Einrichtungen prüfen,
+17. Bauteile und Einrichtungen prüfen,
 
 
-17. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
 
 
 
@@ -218,13 +244,13 @@ Absatz 1 vermittelt werden können.
 
 ### § 8 Ausbildungsrahmenplan
 
-Die in § 7 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
-1 und Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 7 Absatz 1 genannten Qualifikationen sollen nach der in
+Anlage 1 und Anlage 2 enthaltenen Anleitung zur sachlichen und
+zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
+vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
+sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
+insbesondere zulässig, soweit betriebspraktische Besonderheiten die
+Abweichung erfordern.
 
 
 ### § 9 Teil 1 der Abschlussprüfung
@@ -300,7 +326,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
 Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
@@ -347,7 +374,7 @@ kann. Zum Nachweis kommen insbesondere Herstellen, Ändern oder
 Instandhalten von Anlagen oder Anlagenteilen in Betracht. Die
 Einhaltung der allgemein anerkannten Regeln der Schweißtechnik nach
 Satz 1 Nummer 5 wird vermutet, wenn die technischen Regeln des
-Deutschen Instituts für Normung e. V. eingehalten worden sind.
+Deutschen Instituts für Normung e. V. eingehalten worden sind.
 
 (4) Der Prüfling soll zum Nachweis der Anforderungen im
 Prüfungsbereich Arbeitsauftrag
@@ -397,7 +424,7 @@ Berücksichtigung von Fertigungsverfahren, Werkstoffeigenschaften,
 Vorschriften, technischen Regelwerken, Richtlinien, Wirtschaftlichkeit
 und Betriebsabläufen entwickeln, Systemspezifikationen
 anwendungsgerecht festlegen, Kosten ermitteln sowie technische
-Unterlagen erstellen, Arbeitsicherheit und Gesundheitsschutz
+Unterlagen erstellen, Arbeitssicherheit und Gesundheitsschutz
 berücksichtigen und Schweißverfahren oder andere Fügeverfahren
 auftragsbezogen auswählen kann.
 
@@ -428,45 +455,48 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Herstellen von Bauteilen und Baugruppen,
+8.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
 
 
-9.  Warten von Betriebsmitteln,
+9.  Herstellen von Bauteilen und Baugruppen,
 
 
-10. Steuerungstechnik,
+10. Warten von Betriebsmitteln,
 
 
-11. Anschlagen, Sichern und Transportieren,
+11. Steuerungstechnik,
 
 
-12. Kundenorientierung,
+12. Anschlagen, Sichern und Transportieren,
 
 
-13. Herstellen, Montieren und Demontieren von Bauteilen, Baugruppen und
+13. Kundenorientierung,
+
+
+14. Herstellen, Montieren und Demontieren von Bauteilen, Baugruppen und
     Systemen,
 
 
-14. Sicherstellen der Betriebsfähigkeit von technischen Systemen,
+15. Sicherstellen der Betriebsfähigkeit von technischen Systemen,
 
 
-15. Instandhalten von technischen Systemen,
+16. Instandhalten von technischen Systemen,
 
 
-16. Aufbauen, Erweitern und Prüfen von elektrotechnischen Komponenten der
+17. Aufbauen, Erweitern und Prüfen von elektrotechnischen Komponenten der
     Steuerungstechnik,
 
 
-17. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
 
 
 
@@ -494,13 +524,13 @@ Absatz 1 vermittelt werden können.
 
 ### § 12 Ausbildungsrahmenplan
 
-Die in § 11 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
-1 und Anlage 3 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 11 Absatz 1 genannten Qualifikationen sollen nach der in
+Anlage 1 und Anlage 3 enthaltenen Anleitung zur sachlichen und
+zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
+vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
+sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
+insbesondere zulässig, soweit betriebspraktische Besonderheiten die
+Abweichung erfordern.
 
 
 ### § 13 Teil 1 der Abschlussprüfung
@@ -573,7 +603,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätssicherungssysteme sowie Beurteilen der
 Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
@@ -691,52 +722,55 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Herstellen von Bauteilen und Baugruppen,
+8.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
 
 
-9.  Warten von Betriebsmitteln,
+9.  Herstellen von Bauteilen und Baugruppen,
 
 
-10. Steuerungstechnik,
+10. Warten von Betriebsmitteln,
 
 
-11. Anschlagen, Sichern und Transportieren,
+11. Steuerungstechnik,
 
 
-12. Kundenorientierung,
+12. Anschlagen, Sichern und Transportieren,
 
 
-13. Anwenden von technischen Unterlagen,
+13. Kundenorientierung,
 
 
-14. Trennen und Umformen,
+14. Anwenden von technischen Unterlagen,
 
 
-15. Einsetzen von Bearbeitungsmaschinen,
+15. Trennen und Umformen,
 
 
-16. Fügen von Bauteilen,
+16. Einsetzen von Bearbeitungsmaschinen,
 
 
-17. Einsetzen von Vorrichtungen und Hilfskonstruktionen,
+17. Fügen von Bauteilen,
 
 
-18. Montieren und Demontieren von Metallkonstruktionen,
+18. Einsetzen von Vorrichtungen und Hilfskonstruktionen,
 
 
-19. Prüfen von Bauteilen und Baugruppen,
+19. Montieren und Demontieren von Metallkonstruktionen,
 
 
-20. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
+20. Prüfen von Bauteilen und Baugruppen,
+
+
+21. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
 
 
 
@@ -767,13 +801,13 @@ Absatz 1 vermittelt werden können.
 
 ### § 16 Ausbildungsrahmenplan
 
-Die in § 15 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
-1 und Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 15 Absatz 1 genannten Qualifikationen sollen nach der in
+Anlage 1 und Anlage 4 enthaltenen Anleitung zur sachlichen und
+zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
+vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
+sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
+insbesondere zulässig, soweit betriebspraktische Besonderheiten die
+Abweichung erfordern.
 
 
 ### § 17 Teil 1 der Abschlussprüfung
@@ -848,7 +882,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätssicherungssysteme sowie Beurteilen der
 Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
@@ -895,7 +930,7 @@ kann. Zum Nachweis kommt insbesondere Herstellen, Montieren und
 Demontieren von Metallkonstruktionen in Betracht. Die Einhaltung der
 allgemein anerkannten Regeln der Schweißtechnik nach Satz 1 Nummer 5
 wird vermutet, wenn die technischen Regeln des Deutschen Instituts für
-Normung e. V. eingehalten worden sind.
+Normung e. V. eingehalten worden sind.
 
 (4) Der Prüfling soll zum Nachweis der Anforderungen im
 Prüfungsbereich Arbeitsauftrag
@@ -978,49 +1013,52 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Herstellen von Bauteilen und Baugruppen,
+8.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
 
 
-9.  Warten von Betriebsmitteln,
+9.  Herstellen von Bauteilen und Baugruppen,
 
 
-10. Steuerungstechnik,
+10. Warten von Betriebsmitteln,
 
 
-11. Anschlagen, Sichern und Transportieren,
+11. Steuerungstechnik,
 
 
-12. Kundenorientierung,
+12. Anschlagen, Sichern und Transportieren,
 
 
-13. Anfertigen von Bauteilen mit unterschiedlichen Bearbeitungsverfahren,
+13. Kundenorientierung,
 
 
-14. Montage und Demontage,
+14. Anfertigen von Bauteilen mit unterschiedlichen Bearbeitungsverfahren,
 
 
-15. Erprobung und Übergabe,
+15. Montage und Demontage,
 
 
-16. Instandhaltung von Bauteilen und Baugruppen,
+16. Erprobung und Übergabe,
 
 
-17. Programmieren von Maschinen und Anlagen,
+17. Instandhaltung von Bauteilen und Baugruppen,
 
 
-18. Prüfen,
+18. Programmieren von Maschinen und Anlagen,
 
 
-19. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
+19. Prüfen,
+
+
+20. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
 
 
 
@@ -1048,13 +1086,13 @@ Absatz 1 vermittelt werden können.
 
 ### § 20 Ausbildungsrahmenplan
 
-Die in § 19 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
-1 und Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 19 Absatz 1 genannten Qualifikationen sollen nach der in
+Anlage 1 und Anlage 5 enthaltenen Anleitung zur sachlichen und
+zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
+vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
+sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
+insbesondere zulässig, soweit betriebspraktische Besonderheiten die
+Abweichung erfordern.
 
 
 ### § 21 Teil 1 der Abschlussprüfung
@@ -1128,7 +1166,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätssicherungssysteme, Beurteilen der
 Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
@@ -1248,47 +1287,50 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Herstellen von Bauteilen und Baugruppen,
+8.  Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen,
 
 
-9.  Warten von Betriebsmitteln,
+9.  Herstellen von Bauteilen und Baugruppen,
 
 
-10. Steuerungstechnik,
+10. Warten von Betriebsmitteln,
 
 
-11. Anschlagen, Sichern und Transportieren,
+11. Steuerungstechnik,
 
 
-12. Kundenorientierung,
+12. Anschlagen, Sichern und Transportieren,
 
 
-13. Planen des Fertigungsprozesses,
+13. Kundenorientierung,
 
 
-14. Programmieren von numerisch gesteuerten Werkzeugmaschinen oder
+14. Planen des Fertigungsprozesses,
+
+
+15. Programmieren von numerisch gesteuerten Werkzeugmaschinen oder
     Fertigungssystemen,
 
 
-15. Einrichten von Werkzeugmaschinen oder Fertigungssystemen,
+16. Einrichten von Werkzeugmaschinen oder Fertigungssystemen,
 
 
-16. Herstellen von Werkstücken,
+17. Herstellen von Werkstücken,
 
 
-17. Überwachen und Optimieren von Fertigungsabläufen,
+18. Überwachen und Optimieren von Fertigungsabläufen,
 
 
-18. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
+19. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
 
 
 
@@ -1316,13 +1358,13 @@ Absatz 1 vermittelt werden können.
 
 ### § 24 Ausbildungsrahmenplan
 
-Die in § 23 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
-1 und Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 23 Absatz 1 genannten Qualifikationen sollen nach der in
+Anlage 1 und Anlage 6 enthaltenen Anleitung zur sachlichen und
+zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
+vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
+sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
+insbesondere zulässig, soweit betriebspraktische Besonderheiten die
+Abweichung erfordern.
 
 
 ### § 25 Teil 1 der Abschlussprüfung
@@ -1396,7 +1438,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätssicherungssysteme, Beurteilen der
 Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
@@ -1493,7 +1536,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
-## Teil 7 - Gemeinsame Bestehensregelungen, Übergangs- und Schlussbestimmungen
+## Teil 7 - Gemeinsame Bestehensregelungen
 
 
 ### § 27 Bestehensregelung
@@ -1537,25 +1580,223 @@ Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
 für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
 Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
-### § 28 Übergangsregelung
-
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+## Teil 8 - Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
-### § 29 Inkrafttreten, Außerkrafttreten
+### § 28 Zusatzqualifikationen
 
-Diese Verordnung tritt am 1. August 2007 in Kraft.
+Über das jeweilige Ausbildungsberufsbild, das in § 7 Absatz 1, § 11
+Absatz 1, § 15 Absatz 1, § 19 Absatz 1 und § 23 Absatz 1 beschrieben
+ist, hinaus kann die Ausbildung in einer oder mehreren der folgenden
+Zusatzqualifikationen vereinbart werden:
+
+1.  Systemintegration,
 
 
-### Anlage 1 (zu den §§ 8, 12, 16, 20 und 24) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
+2.  Prozessintegration,
 
-(Fundstelle: BGBl. I 2007, 1610 - 1612)
+
+3.  Additive Fertigungsverfahren und
+
+
+4.  IT-gestützte Anlagenänderung.
+
+
+
+
+
+### § 29 Gegenstand der Zusatzqualifikationen
+
+(1) Gegenstand der Zusatzqualifikation Systemintegration sind die in
+Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+
+(2) Gegenstand der Zusatzqualifikation Prozessintegration sind die in
+Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+
+(3) Gegenstand der Zusatzqualifikation Additive Fertigungsverfahren
+sind die in Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(4) Gegenstand der Zusatzqualifikation IT-gestützte Anlagenänderung
+sind die in Anlage 7 Teil D genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+
+### § 30 Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+
+(1) Die Zusatzqualifikation wird auf Antrag des oder der
+Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
+gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten,
+Kenntnisse und Fähigkeiten vermittelt worden sind.
+
+(2) Die Prüfung findet im Rahmen von Teil 2 der Abschlussprüfung als
+gesonderte Prüfung statt.
+
+
+### § 31 Anforderungen an die Prüfung der Zusatzqualifikation Systemintegration
+
+(1) Die Prüfung der Zusatzqualifikation Systemintegration erstreckt
+sich auf die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  Prozessabläufe und technische Bedingungen zu analysieren,
+    Anforderungen an technische Systeme festzustellen sowie
+    Lösungsvarianten zu bewerten und auszuwählen,
+
+
+2.  Hard- und Softwarekomponenten auszuwählen, zu installieren und zu
+    konfigurieren und in die bestehenden Systeme zu integrieren sowie
+    Anlagendaten und -unterlagen zu dokumentieren sowie
+
+
+3.  Systeme in Betrieb zu nehmen.
+
+
+
+
+
+### § 32 Anforderungen an die Prüfung der Zusatzqualifikation Prozessintegration
+
+(1) Die Prüfung der Zusatzqualifikation Prozessintegration erstreckt
+sich auf die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  digital vernetzte Produktionsprozesse zu analysieren sowie deren
+    technische und organisatorische Schnittstellen zu klären, zu bewerten
+    und zu dokumentieren,
+
+
+2.  Maßnahmen zur Prozessintegration zu erarbeiten, zu bewerten,
+    abzustimmen und zu dokumentieren sowie Änderungen einzupflegen sowie
+
+
+3.  den Gesamtprozess zu testen und Prozessdaten zu dokumentieren.
+
+
+
+
+
+### § 33 Anforderungen an die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+
+(1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+erstreckt sich auf die in Anlage 7 Teil C genannten Fertigkeiten,
+Kenntnisse und Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  parametrische 3D-Datensätze zu erstellen und anzuwenden,
+
+
+2.  additive Fertigungsanlagen einzurichten und zu betreiben sowie
+
+
+3.  die Qualität der Produkte zu prüfen und zu sichern.
+
+
+
+
+
+### § 34 Anforderungen an die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
+
+(1) Die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
+erstreckt sich auf die in Anlage 7 Teil D genannten Fertigkeiten,
+Kenntnisse und Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  3D-Datensätze zu erstellen und anzuwenden,
+
+
+2.  Änderungsmaßnahmen zu planen, durchzuführen und zu dokumentieren sowie
+
+
+3.  die Qualität der durchgeführten Änderungen zu prüfen und zu sichern.
+
+
+
+
+
+### § 35 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+
+(1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten
+Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
+
+(2) Zur Vorbereitung auf das jeweilige fallbezogene Fachgespräch hat
+der Prüfling eigenständig im Ausbildungsbetrieb eine praxisbezogene
+Aufgabe durchzuführen. Die eigenständige Durchführung ist von dem oder
+der Ausbildenden zu bestätigen.
+
+(3) Zu der praxisbezogenen Aufgabe hat der Prüfling einen Report zu
+erstellen. In dem Report hat er die Aufgabenstellung, die Zielsetzung,
+die Planung, das Vorgehen und das Ergebnis der praxisbezogenen Aufgabe
+zu beschreiben und den Prozess, der zu dem Ergebnis geführt hat, zu
+reflektieren. Der Report darf höchstens drei Seiten umfassen.
+
+(4) Den Report soll der Prüfling mit einer Anlage ergänzen. Die Anlage
+besteht aus Visualisierungen zu der praxisbezogenen Aufgabe. Sie darf
+höchstens fünf Seiten umfassen.
+
+(5) Das fallbezogene Fachgespräch wird mit einer Darstellung der
+praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling
+eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu
+erstellten Report entwickelt der Prüfungsausschuss das fallbezogene
+Fachgespräch so, dass die jeweiligen Anforderungen der
+Zusatzqualifikation nachgewiesen werden können.
+
+(6) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
+
+(7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen
+Fachgespräch erbringt.
+
+(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
+die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
+
+
+## Teil 9 - Gemeinsame Übergangsvorschriften
+
+
+### § 36 Bestandsschutz
+
+Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, ist die Verordnung über die Berufsausbildung in den
+industriellen Metallberufen vom 23. Juli 2007 (BGBl. I S. 1599), die
+durch Artikel 1 der Verordnung vom 1. März 2011 (BGBl. I S. 326)
+geändert worden ist, weiter anzuwenden.
+
+
+### § 37 Änderung bestehender Berufsausbildungsverhältnisse
+
+Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
+1\. August 2018 geltenden Fassung unter Anrechnung der bisher
+absolvierten Ausbildungszeit fortgesetzt werden, wenn die
+Vertragsparteien dies vereinbaren und der oder die Auszubildende noch
+nicht Teil 1 der Abschlussprüfung absolviert hat.
+
+
+### § 38 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+
+Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem
+1\. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1.
+August 2018 bereits bestehen, angewendet werden.
+
+(zu den §§ 8, 12, 16, 20 und 24)
+
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
+
+(Fundstelle: BGBl. I 2018, 989 – 991)
+
 **Gemeinsame Kernqualifikationen**
 
 *    *   Berufs-
@@ -1581,11 +1822,11 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
     *   Berufsbildung,
         Arbeits- und Tarifrecht
-        (§ 7 Abs. 1 Nr. 1,
-        § 11 Abs. 1 Nr. 1,
-        § 15 Abs. 1 Nr. 1,
-        § 19 Abs. 1 Nr. 1,
-        § 23 Abs. 1 Nr. 1)
+        (§ 7 Absatz 1 Nummer 1,
+        § 11 Absatz 1 Nummer 1,
+        § 15 Absatz 1 Nummer 1,
+        § 19 Absatz 1 Nummer 1,
+        § 23 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -1601,7 +1842,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
@@ -1613,27 +1854,27 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Aufbau und
         Organisation des
         Ausbildungsbetriebes
-        (§ 7 Abs. 1 Nr. 2,
-        § 11 Abs. 1 Nr. 2,
-        § 15 Abs. 1 Nr. 2,
-        § 19 Abs. 1 Nr. 2,
-        § 23 Abs. 1 Nr. 2)
+        (§ 7 Absatz 1 Nummer 2,
+        § 11 Absatz 1 Nummer 2,
+        § 15 Absatz 1 Nummer 2,
+        § 19 Absatz 1 Nummer 2,
+        § 23 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
@@ -1643,11 +1884,11 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 *    *   3
 
     *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 7 Abs. 1 Nr. 3,
-        § 11 Abs. 1 Nr. 3,
-        § 15 Abs. 1 Nr. 3,
-        § 19 Abs. 1 Nr. 3,
-        § 23 Abs. 1 Nr. 3)
+        (§ 7 Absatz 1 Nummer 3,
+        § 11 Absatz 1 Nummer 3,
+        § 15 Absatz 1 Nummer 3,
+        § 19 Absatz 1 Nummer 3,
+        § 23 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -1676,11 +1917,11 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 *    *   4
 
     *   Umweltschutz
-        (§ 7 Abs. 1 Nr. 4,
-        § 11 Abs. 1 Nr. 4,
-        § 15 Abs. 1 Nr. 4,
-        § 19 Abs. 1 Nr. 4,
-        § 23 Abs. 1 Nr. 4)
+        (§ 7 Absatz 1 Nummer 4,
+        § 11 Absatz 1 Nummer 4,
+        § 15 Absatz 1 Nummer 4,
+        § 19 Absatz 1 Nummer 4,
+        § 23 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -1706,47 +1947,63 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   5
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5,
-        § 11 Abs. 1 Nr. 5,
-        § 15 Abs. 1 Nr. 5,
-        § 19 Abs. 1 Nr. 5,
-        § 23 Abs. 1 Nr. 5)
+    *   Digitalisierung der Arbeit,
+        Datenschutz und
+        Informationssicherheit
+        (§ 7 Absatz 1 Nummer 5,
+        § 11 Absatz 1 Nummer 5,
+        § 15 Absatz 1 Nummer 5,
+        § 19 Absatz 1 Nummer 5,
+        § 23 Absatz 1 Nummer 5)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
 
 
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+        d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+
+*    *
+    *
+    *
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
 
 
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        g)  digitale Lernmedien nutzen
 
 
-        i)  Konflikte im Team lösen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
 
 
 
@@ -1754,12 +2011,54 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 7 Absatz 1 Nummer 6,
+        § 11 Absatz 1 Nummer 6,
+        § 15 Absatz 1 Nummer 6,
+        § 19 Absatz 1 Nummer 6,
+        § 23 Absatz 1 Nummer 6)
+
+    *
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+            Skizzen anfertigen
+
+
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+            zusammenstellen, ergänzen, auswerten und anwenden
+
+
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+            in der Kommunikation anwenden
+
+
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+            Dateien entnehmen und verwenden
+
+
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+            und präsentieren
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+
+*    *   7
+
     *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6,
-        § 11 Abs. 1 Nr. 6,
-        § 15 Abs. 1 Nr. 6,
-        § 19 Abs. 1 Nr. 6,
-        § 23 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7,
+        § 11 Absatz 1 Nummer 7,
+        § 15 Absatz 1 Nummer 7,
+        § 19 Absatz 1 Nummer 7,
+        § 23 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -1807,15 +2106,15 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-*    *   7
+*    *   8
 
     *   Unterscheiden, Zuordnen und Handhaben von Werk- und
         Hilfsstoffen
-        (§ 7 Abs. 1 Nr. 7,
-        § 11 Abs. 1 Nr. 7,
-        § 15 Abs. 1 Nr. 7,
-        § 19 Abs. 1 Nr. 7,
-        § 23 Abs. 1 Nr. 7)
+        (§ 7 Absatz 1 Nummer 8,
+        § 11 Absatz 1 Nummer 8,
+        § 15 Absatz 1 Nummer 8,
+        § 19 Absatz 1 Nummer 8,
+        § 23 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -1828,15 +2127,15 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 8,
-        § 11 Abs. 1 Nr. 8,
-        § 15 Abs. 1 Nr. 8,
-        § 19 Abs. 1 Nr. 8,
-        § 23 Abs. 1 Nr. 8)
+        (§ 7 Absatz 1 Nummer 9,
+        § 11 Absatz 1 Nummer 9,
+        § 15 Absatz 1 Nummer 9,
+        § 19 Absatz 1 Nummer 9,
+        § 23 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -1859,14 +2158,14 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-*    *   9
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9,
-        § 11 Abs. 1 Nr. 9,
-        § 15 Abs. 1 Nr. 9,
-        § 19 Abs. 1 Nr. 9,
-        § 23 Abs. 1 Nr. 9)
+        (§ 7 Absatz 1 Nummer 10,
+        § 11 Absatz 1 Nummer 10,
+        § 15 Absatz 1 Nummer 10,
+        § 19 Absatz 1 Nummer 10,
+        § 23 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -1884,14 +2183,14 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 7 Abs. 1 Nr. 10,
-        § 11 Abs. 1 Nr. 10,
-        § 15 Abs. 1 Nr. 10,
-        § 19 Abs. 1 Nr. 10,
-        § 23 Abs. 1 Nr. 10)
+        (§ 7 Absatz 1 Nummer 11,
+        § 11 Absatz 1 Nummer 11,
+        § 15 Absatz 1 Nummer 11,
+        § 19 Absatz 1 Nummer 11,
+        § 23 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -1903,15 +2202,15 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 7 Abs. 1 Nr. 11,
-        § 11 Abs. 1 Nr. 11,
-        § 15 Abs. 1 Nr. 11,
-        § 19 Abs. 1 Nr. 11,
-        § 23 Abs. 1 Nr. 11)
+        (§ 7 Absatz 1 Nummer 12,
+        § 11 Absatz 1 Nummer 12,
+        § 15 Absatz 1 Nummer 12,
+        § 19 Absatz 1 Nummer 12,
+        § 23 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -1925,14 +2224,14 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 7 Abs. 1 Nr. 12,
-        § 11 Abs. 1 Nr. 12,
-        § 15 Abs. 1 Nr. 12,
-        § 19 Abs. 1 Nr. 12,
-        § 23 Abs. 1 Nr. 12)
+        (§ 7 Absatz 1 Nummer 13,
+        § 11 Absatz 1 Nummer 13,
+        § 15 Absatz 1 Nummer 13,
+        § 19 Absatz 1 Nummer 13,
+        § 23 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -1948,12 +2247,14 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
 
+(zu § 8)
 
-### Anlage 2 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
 
-(Fundstelle: BGBl. I 2007, 1613 - 1622)
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
+(Fundstelle: BGBl. I 2018, 992 – 1002)
+
+**Teil A: Sachliche Gliederung der berufsspezifischen
+Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -1975,10 +2276,10 @@ Fachqualifikationen ****
     *   3
 
 
-*    *   13
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische
@@ -2012,11 +2313,11 @@ Fachqualifikationen ****
 
 
 
-*    *   14
+*    *   15
 
     *   Herstellen und Montieren
         von Bauteilen und Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck
@@ -2075,12 +2376,12 @@ Fachqualifikationen ****
 
 
 
-*    *   15
+*    *   16
 
     *   Instandhaltung; Feststellen,
         Eingrenzen und Beheben
         von Fehlern und Störungen
-        (§ 7 Abs. 1 Nr. 15)
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und
@@ -2112,10 +2413,10 @@ Fachqualifikationen ****
 
 
 
-*    *   16
+*    *   17
 
     *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         a)  Bauteile und Einrichtungen unter Beachtung technischer Unterlagen und
@@ -2140,12 +2441,12 @@ Fachqualifikationen ****
 
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
         Qualitätssicherungssysteme
         im Einsatzgebiet
-        (§ 7 Abs. 1 Nr. 17)
+        (§ 7 Absatz 1 Nummer 18)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -2167,7 +2468,7 @@ Fachqualifikationen ****
 
 
         e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+            Umweltschutz und Terminvorgaben durchführen
 
 
         f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
@@ -2196,11 +2497,16 @@ Fachqualifikationen ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
 
-Teil B: Zeitliche Gliederung ****
+
+
+**Teil B: Zeitliche Gliederung**
 
 **Abschnitt I:**
 
@@ -2210,7 +2516,7 @@ Teil B: Zeitliche Gliederung ****
         position
 
     *   Teil des
-        Ausbildungsberufsbildes
+        Ausbildungsberufes
 
     *   Kern- und Fachqualifikationen,
         die unter Einbeziehung selbstständigen Planens,
@@ -2233,7 +2539,7 @@ Teil B: Zeitliche Gliederung ****
 
     *   Berufsbildung, Arbeits- und
         Tarifrecht
-        (§ 7 Abs. 1 Nr. 1)
+        (§ 7 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -2246,49 +2552,49 @@ Teil B: Zeitliche Gliederung ****
         c)  Möglichkeiten der beruflichen Fortbildung nennen
 
 
-        d)  Teile des Arbeitsvertrages nennen
+        d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 7 Abs. 1 Nr. 2)
+        (§ 7 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
     *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 7 Abs. 1 Nr. 3)
+        (§ 7 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -2313,11 +2619,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 7 Abs. 1 Nr. 4)
+        (§ 7 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -2340,9 +2647,67 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
 
 
-**Abschnitt II:**
+*    *   5
+
+    *   Digitalisierung der Arbeit, Datenschutz und
+        Informationssicherheit
+        (§ 7 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
+
+
+   **Abschnitt II:**
 
 
 *    *   Berufs-
@@ -2350,7 +2715,7 @@ Teil B: Zeitliche Gliederung ****
         position
 
     *   Teil des
-        Ausbildungsberufsbildes
+        Ausbildungsberufes
 
     *   Kern- und Fachqualifikationen,
         die unter Einbeziehung selbstständigen Planens,
@@ -2369,35 +2734,33 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   Zeitrahmen 1
-        1\. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 1
+
+    *   1. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
 
 
-    *   4 bis 6
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung der betrieblichen Vorgaben
@@ -2429,11 +2792,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben
-        von Werk- und Hilfsstoffen
-        (§ 7 Abs. 1 Nr. 7)
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
+        Werk- und Hilfsstoffen
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -2445,11 +2809,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   4 bis 6
 
-*    *   8
 
-    *   Herstellen von Bauteilen und Baugruppen
-        (§ 7 Abs. 1 Nr. 8)
+*    *   9
+
+    *   Herstellen von Bauteilen
+        und Baugruppen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -2469,12 +2836,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   14
+*    *   15
 
     *   Herstellen und Montieren
         von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck
@@ -2484,41 +2851,42 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 2
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
-
-    *
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
-
-
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
-
-
-        i)  Konflikte im Team lösen
-
-
-
-
-    *   4 bis 6
+*    *
+    *   Zeitrahmen 2
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
+
+    *
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+            Skizzen anfertigen
+
+
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
+        b)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
             terminlicher Vorgaben planen und durchführen
 
 
@@ -2527,12 +2895,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
-    *   Herstellen von Bauteilen und
-        Baugruppen
-        (§ 7 Abs. 1 Nr. 8)
+    *   Herstellen von Bauteilen
+        und Baugruppen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         e)  Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
@@ -2540,12 +2909,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   4 bis 6
 
-*    *   11
+
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 7 Abs. 1 Nr. 11)
+        (§ 7 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -2558,14 +2929,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
-        e)  Werk-, Hilfs- und Betriebstoffe disponieren
+        e)  Werk-, Hilfs- und Betriebsstoffe disponieren
 
 
         g)  Schweiß- und Montagepläne lesen und umsetzen
@@ -2573,12 +2945,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
-    *   Herstellen und Montieren von Bauteilen und
+    *   Herstellen und Montieren
+        von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck
@@ -2590,35 +2964,33 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 3
+*    *
+    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
@@ -2631,11 +3003,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9)
+        (§ 7 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -2652,44 +3025,48 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   13
+
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
-        e)  Werk-, Hilfs- und Betriebstoffe disponieren
+        e)  Werk-, Hilfs- und Betriebsstoffe disponieren
 
 
 
 
+    *
 
-*    *   Zeitrahmen 4
-        2\. Ausbildungsjahr, 1. Halbjahr
+*    *
+    *   Zeitrahmen 4
+
+    *   2. Ausbildungsjahr, 1. Halbjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
 
 
-    *   2 bis 4
+    *
 
+*    *   9
 
-*    *   8
-
-    *   Herstellen von Bauteilen und
-        Baugruppen
-        (§ 7 Abs. 1 Nr. 8)
+    *   Herstellen von Bauteilen
+        und Baugruppen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -2705,11 +3082,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische
@@ -2728,12 +3106,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *   14
 
-    *   Herstellen und Montieren von Bauteilen und
+*    *   15
+
+    *   Herstellen und Montieren
+        von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         b)  Rohre, Bleche und Profile thermisch und mechanisch trennen
@@ -2754,11 +3135,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+    *   Bauteile und Einrichtungen
+        prüfen
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         c)  Sichtprüfverfahren, insbesondere Farbeindring- oder
@@ -2771,18 +3154,20 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 5
+*    *
+    *   Zeitrahmen 5
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
@@ -2791,12 +3176,12 @@ Teil B: Zeitliche Gliederung ****
     *   2 bis 4
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -2808,13 +3193,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   8
+*    *   9
 
-    *   Herstellen von Bauteilen und Baugruppen
-        (§ 7 Abs. 1 Nr. 8)
+    *   Herstellen von Bauteilen
+        und Baugruppen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
-        j)  Bauteile durch Trennen und Umformen herstellen
+        d)  Bauteile durch Trennen und Umformen herstellen
 
 
         e)  Bauteile aus unterschiedlichen Werkstoffen zu Baugruppen fügen
@@ -2823,10 +3209,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   11
+*    *   12
 
-    *   Anschlagen, Sichern und Transportieren
-        (§ 7 Abs. 1 Nr. 11)
+    *   Anschlagen, Sichern und
+        Transportieren
+        (§ 7 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -2840,10 +3227,10 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   13
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische
@@ -2864,11 +3251,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   14
+*    *   15
 
-    *   Herstellen und Montieren von Bauteilen und
+    *   Herstellen und Montieren
+        von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         d)  Armaturen auswählen und einbauen
@@ -2894,10 +3282,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   16
+*    *   17
 
-    *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+    *   Bauteile und Einrichtungen
+        prüfen
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit
@@ -2907,22 +3296,25 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 6
-        2\. Ausbildungsjahr, 2. Halbjahr, 3. und 4. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 6
+
+    *   2. Ausbildungsjahr, 2. Halbjahr,
+        3\. und 4. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
@@ -2931,12 +3323,12 @@ Teil B: Zeitliche Gliederung ****
     *   2 bis 4
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         j)  Prüfverfahren und Prüfmittel auswählen, Einsatzfähigkeit von
@@ -2946,11 +3338,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 7 Abs. 1 Nr. 7)
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -2959,10 +3352,10 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 7 Abs. 1 Nr. 10)
+        (§ 7 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -2971,12 +3364,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   15
+*    *   16
 
     *   Instandhaltung; Feststellen,
         Eingrenzen und Beheben
         von Fehlern und Störungen
-        (§ 7 Abs. 1 Nr. 15)
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und
@@ -3004,10 +3397,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   16
+*    *   17
 
-    *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+    *   Bauteile und Einrichtungen
+        prüfen
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         a)  Bauteile und Einrichtungen unter Beachtung technischer Unterlagen und
@@ -3024,35 +3418,36 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 7
+*    *
+    *   Zeitrahmen 7
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
 
 
-    *   3 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
@@ -3075,29 +3470,32 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 7 Abs. 1 Nr. 12)
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
             prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragspezifische Besonderheiten und
+        b)  Kunden auf auftragsspezifische Besonderheiten und
             Sicherheitsvorschriften hinweisen
 
 
 
 
+    *
 
-*    *   14
+*    *   15
 
-    *   Herstellen und Montieren von Bauteilen und
+    *   Herstellen und Montieren
+        von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         d)  Armaturen auswählen und einbauen
@@ -3119,13 +3517,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 4
 
-*    *   15
+
+*    *   16
 
     *   Instandhaltung; Feststellen,
         Eingrenzen und Beheben
         von Fehlern und Störungen
-        (§ 7 Abs. 1 Nr. 15)
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und
@@ -3142,7 +3542,7 @@ Teil B: Zeitliche Gliederung ****
             nehmen
 
 
-        f)  Anlagenoder Anlagenteile instand setzen
+        f)  Anlagen- oder Anlagenteile instand setzen
 
 
         g)  Inspektionsbefunde und Instandhaltungsmaßnahmen dokumentieren
@@ -3150,11 +3550,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+    *   Bauteile und Einrichtungen
+        prüfen
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         e)  Prüfprotokolle erstellen
@@ -3162,36 +3564,33 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 8
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
-
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
 
-
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
-
-
-
-
-    *   4 bis 6
+*    *
+    *   Zeitrahmen 8
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
+
+    *
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+            zusammenstellen, ergänzen, auswerten und anwenden
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -3209,12 +3608,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 7 Abs. 1 Nr. 7)
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -3223,11 +3624,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 7 Abs. 1 Nr. 12)
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         b)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -3240,11 +3642,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter
@@ -3256,12 +3659,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   4 bis 6
 
-*    *   14
 
-    *   Herstellen und Montieren von Bauteilen und
+*    *   15
+
+    *   Herstellen und Montieren
+        von Bauteilen und
         Baugruppen
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         g)  lösbare und unlösbare Rohrverbindungen unter Berücksichtigung der zu
@@ -3286,11 +3692,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+    *   Bauteile und Einrichtungen
+        prüfen
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         d)  Behälter, Rohrsysteme oder Anlagen durch Druckprobe auf Dichtheit
@@ -3302,14 +3710,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 9
+*    *
+    *   Zeitrahmen 9
 
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 7 Abs. 1 Nr. 10)
+        (§ 7 Absatz 1 Nummer 11)
 
     *
         b)  Steuerungstechnik anwenden
@@ -3320,10 +3730,10 @@ Teil B: Zeitliche Gliederung ****
     *   1 bis 2
 
 
-*    *   13
+*    *   14
 
     *   Bearbeiten von Aufträgen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter
@@ -3333,12 +3743,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   15
+*    *   16
 
     *   Instandhaltung; Feststellen,
         Eingrenzen und Beheben
         von Fehlern und Störungen
-        (§ 7 Abs. 1 Nr. 15)
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung
@@ -3349,14 +3759,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   16
+*    *   17
 
-    *   Bauteile und Einrichtungen prüfen
-        (§ 7 Abs. 1 Nr. 16)
+    *   Bauteile und Einrichtungen
+        prüfen
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         a)  Bauteile oder Einrichtungen unter Beachtung technischer Unterlagen und
-            technischer Rahmenbedingungen prüfen oder in Betrieb nehmen
+            technische Rahmenbedingungen prüfen oder in Betrieb nehmen
 
 
         b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen
@@ -3366,15 +3777,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 10
+*    *
+    *   Zeitrahmen 10
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
-        Qualitätssicherungssysteme
-        im Einsatzgebiet
-        (§ 7 Abs. 1 Nr. 17)
+        Qualitätssicherungs-
+        systeme im Einsatzgebiet
+        (§ 7 Absatz 1 Nummer 18)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -3425,18 +3837,25 @@ Teil B: Zeitliche Gliederung ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
 
+(zu § 12)
 
-### Anlage 3 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
 
-(Fundstelle: BGBl. I 2007, 1623 - 1636)
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
+(Fundstelle: BGBl. I 2018, 1003 – 1016)
+
+**Teil A: Sachliche Gliederung der berufsspezifischen
+Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -3446,9 +3865,9 @@ Fachqualifikationen ****
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -3458,12 +3877,12 @@ Fachqualifikationen ****
     *   3
 
 
-*    *   13
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  technische Unterlagen analysieren
@@ -3491,10 +3910,11 @@ Fachqualifikationen ****
 
 
 
-*    *   14
+*    *   15
 
-    *   Sicherstellen der Betriebsfähigkeit von technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+    *   Sicherstellen der Betriebsfähigkeit
+        von technischen Systemen
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen
@@ -3521,11 +3941,11 @@ Fachqualifikationen ****
 
 
 
-*    *   15
+*    *   16
 
     *   Instandhalten von technischen
         Systemen
-        (§ 11 Abs. 1 Nr. 15)
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         a)  Maschinen und Systeme warten, inspizieren, instand setzen oder
@@ -3545,11 +3965,13 @@ Fachqualifikationen ****
 
 
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotechnischen Komponenten der
+    *   Aufbauen, Erweitern und Prüfen
+        von elektrotechnischen
+        Komponenten der
         Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -3573,12 +3995,12 @@ Fachqualifikationen ****
 
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
         Qualitätssicherungssysteme
         im Einsatzgebiet
-        (§ 11 Abs. 1 Nr. 17)
+        (§ 11 Absatz 1 Nummer 18)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -3629,11 +4051,16 @@ Fachqualifikationen ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
 
-Teil B: Zeitliche Gliederung ****
+
+
+**Teil B: Zeitliche Gliederung**
 
 **Abschnitt I:**
 
@@ -3666,7 +4093,7 @@ Teil B: Zeitliche Gliederung ****
 
     *   Berufsbildung, Arbeits- und
         Tarifrecht
-        (§ 11 Abs. 1 Nr. 1)
+        (§ 11 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -3682,46 +4109,47 @@ Teil B: Zeitliche Gliederung ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 11 Abs. 1 Nr. 2)
+        (§ 11 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 11 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesund-
+        heitsschutz bei der Arbeit
+        (§ 11 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -3746,11 +4174,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 11 Abs. 1 Nr. 4)
+        (§ 11 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -3773,9 +4202,67 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
 
 
-**Abschnitt II:**
+*    *   5
+
+    *   Digitalisierung der Arbeit, Datenschutz und
+        Informationssicherheit
+        (§ 11 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
+
+
+   **Abschnitt II:**
 
 
 *    *   Berufs-
@@ -3802,43 +4289,42 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   Zeitrahmen 1
-        1\. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 1
+
+    *   1. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
 
 
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
 
 
-    *   6 bis 8
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -3871,12 +4357,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   6 bis 8
 
-*    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+*    *   8
+
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 11 Abs. 1 Nr. 7)
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -3888,12 +4377,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 11 Abs. 1 Nr. 8)
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -3915,12 +4405,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
-    *   Anschlagen, Sichern und
-        Transportieren
-        (§ 11 Abs. 1 Nr. 11)
+    *   Anschlagen, Sichern
+        und Transportieren
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -3933,13 +4424,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         d)  Baugruppen und Bauteile lage- und funktionsgerecht montieren
@@ -3950,44 +4442,42 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 2
+*    *
+    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
 
 
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -4010,12 +4500,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 11 Abs. 1 Nr. 7)
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -4023,11 +4515,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   9
+
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 11 Abs. 1 Nr. 9)
+        (§ 11 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -4044,11 +4538,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 11 Abs. 1 Nr. 12)
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -4061,13 +4556,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         f)  Baugruppen und Bauteile reinigen, pflegen und lagern
@@ -4075,13 +4571,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         c)  Anlagen und Systeme inspizieren, Betriebsbereitschaft sicherstellen
@@ -4093,18 +4590,20 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 3
+*    *
+    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
@@ -4113,12 +4612,12 @@ Teil B: Zeitliche Gliederung ****
     *   2 bis 4
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -4135,11 +4634,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   11
+*    *   12
 
-    *   Anschlagen, Sichern und
-        Transportieren
-        (§ 11 Abs. 1 Nr. 11)
+    *   Anschlagen, Sichern
+        und Transportieren
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -4153,12 +4652,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   13
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  technische Unterlagen analysieren
@@ -4173,12 +4672,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   14
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
@@ -4188,35 +4687,33 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 4
-        2\. Ausbildungsjahr, 1. Halbjahr
+*    *
+    *   Zeitrahmen 4
+
+    *   2. Ausbildungsjahr, 1. Halbjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
-        der Arbeit, Bewerten
-        der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -4239,12 +4736,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 11 Abs. 1 Nr. 7)
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -4253,12 +4752,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
-    *   Herstellen von Bauteilen
-        und Baugruppen
-        (§ 11 Abs. 1 Nr. 8)
+    *   Herstellen von Bauteilen und Baugruppen
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -4280,12 +4779,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   13
+
+*    *   14
 
     *   Herstellen, Montieren und
-        Demontieren von Bauteilen, Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        Demontieren von Bauteilen,
+        Baugruppen und Systemen
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  technische Unterlagen analysieren
@@ -4303,40 +4805,41 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 5
+*    *
+    *   Zeitrahmen 5
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
@@ -4358,11 +4861,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 10)
+        (§ 11 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -4373,26 +4877,28 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   12
-
-    *   Kundenorientierung
-        (§ 11 Abs. 1 Nr. 12)
-
     *
-        a)  auftragspezifische Anforderungen und Informationen beschaffen, prüfen,
-            umsetzen oder an die Beteiligten weiterleiten
-
-
-
-
 
 *    *   13
+
+    *   Kundenorientierung
+        (§ 11 Absatz 1 Nummer 13)
+
+    *
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
+            prüfen, umsetzen oder an die Beteiligten weiterleiten
+
+
+
+
+    *
+
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  technische Unterlagen analysieren
@@ -4403,13 +4909,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   14
+
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen
@@ -4427,13 +4935,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotech-
-        nischen Komponenten
-        der Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+    *   Aufbauen, Erweitern
+        und Prüfen von
+        elektrotechnischen
+        Komponenten der
+        Steuerungstechnik
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -4456,56 +4967,56 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 6
-        2\. Ausbildungsjahr, 2. Halbjahr, 3. und 4. Ausbildungsjahr
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
-
     *
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
 
+*    *
+    *   Zeitrahmen 6
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
-
-
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
-
-
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
-
-
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
-
-
-        i)  Konflikte im Team lösen
-
-
-
-
-    *   2 bis 4
+    *   2. Ausbildungsjahr, 2. Halbjahr,
+        3\. und 4. Ausbildungsjahr
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
+
+    *
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+            Skizzen anfertigen
+
+
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+            zusammenstellen, ergänzen, auswerten und anwenden
+
+
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+            in der Kommunikation anwenden
+
+
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+            Dateien entnehmen und verwenden
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
-        der Arbeit, Bewerten
-        der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -4549,14 +5060,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *
+*    *   8
 
-*    *   7
-
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 11 Abs. 1 Nr. 7)
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -4568,11 +5079,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 11 Abs. 1 Nr. 9)
+        (§ 11 Absatz 1 Nummer 10)
 
     *
         b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
@@ -4580,17 +5092,19 @@ Teil B: Zeitliche Gliederung ****
             veranlassen
 
 
-        c)  Betriebstoffe auswählen, anwenden und entsorgen
+        c)  Betriebsstoffe auswählen, anwenden und entsorgen
 
 
 
 
+    *   2 bis 4
 
-*    *   11
 
-    *   Anschlagen, Sichern und
-        Transportieren
-        (§ 11 Abs. 1 Nr. 11)
+*    *   12
+
+    *   Anschlagen, Sichern
+        und Transportieren
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -4603,15 +5117,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 11 Abs. 1 Nr. 12)
+        (§ 11 Absatz 1 Nummer 13)
 
     *
-        a)  auftragspezifische Anforderungen und Informationen beschaffen, prüfen,
-            umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
+            prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
         b)  Kunden auf auftragsspezifische Besonderheiten und
@@ -4620,13 +5135,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         b)  Montage- und Demontagepläne erstellen und anwenden
@@ -4643,13 +5159,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
@@ -4658,12 +5175,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Instandhalten von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 15)
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         a)  Maschinen und Systeme warten, inspizieren, instand setzen oder
@@ -4682,13 +5200,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotech-
-        nischen Komponenten
-        der Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+    *   Aufbauen, Erweitern
+        und Prüfen von elektrotechnischen Komponenten der Steuerungstechnik
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -4700,26 +5218,28 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 7
+*    *
+    *   Zeitrahmen 7
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
@@ -4728,10 +5248,12 @@ Teil B: Zeitliche Gliederung ****
     *   1 bis 3
 
 
-*    *   6
+*    *   7
 
-    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+    *   Planen und Organisieren
+        der Arbeit, Bewerten
+        der Arbeitsergebnisse
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
@@ -4743,10 +5265,10 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 10)
+        (§ 11 Absatz 1 Nummer 11)
 
     *
         b)  Steuerungstechnik anwenden
@@ -4755,12 +5277,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   14
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer
@@ -4780,12 +5302,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotech-
-        nischen Komponenten
-        der Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+    *   Aufbauen, Erweitern
+        und Prüfen von elektrotechnischen Komponenten der Steuerungstechnik
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -4798,42 +5319,35 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 8
+*    *
+    *   Zeitrahmen 8
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
-
-
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
-        der Arbeit, Bewerten
-        der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
@@ -4857,12 +5371,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
-    *   Herstellen von Bauteilen
-        und Baugruppen
-        (§ 11 Abs. 1 Nr. 8)
+    *   Herstellen von Bauteilen und Baugruppen
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -4884,12 +5398,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
-    *   Anschlagen, Sichern und
-        Transportieren
-        (§ 11 Abs. 1 Nr. 11)
+    *   Anschlagen, Sichern
+        und Transportieren
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -4902,15 +5417,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   12
+
+*    *   13
 
     *   Kundenorientierung
-        (§ 11 Abs. 1 Nr. 12)
+        (§ 11 Absatz 1 Nummer 13)
 
     *
-        a)  auftragspezifische Anforderungen und Informationen beschaffen, prüfen,
-            umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
+            prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
         b)  Kunden auf auftragsspezifische Besonderheiten und
@@ -4919,13 +5436,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  technische Unterlagen analysieren
@@ -4943,13 +5461,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
@@ -4958,13 +5477,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotech-
-        nischen Komponenten
-        der Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+    *   Aufbauen, Erweitern
+        und Prüfen von elektrotechnischen Komponenten der Steuerungstechnik
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -4987,54 +5506,50 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 9
+*    *
+    *   Zeitrahmen 9
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
 
 
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
@@ -5043,11 +5558,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 10)
+        (§ 11 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -5055,13 +5571,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   14
+
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen
@@ -5079,13 +5597,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotech-
-        nischen Komponenten
-        der Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+    *   Aufbauen, Erweitern
+        und Prüfen von elektrotechnischen Komponenten der Steuerungstechnik
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -5105,46 +5623,45 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 10
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
-
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
 
-
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
-
-
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
-
-
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
-
-
-        i)  Konflikte im Team lösen
-
-
-
-
-    *   1 bis 3
+*    *
+    *   Zeitrahmen 10
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
+
+    *
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+            zusammenstellen, ergänzen, auswerten und anwenden
+
+
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+            und präsentieren
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
@@ -5170,12 +5687,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 11 Abs. 1 Nr. 7)
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -5184,11 +5703,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 11 Abs. 1 Nr. 12)
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         b)  Kunden auf auftragsspezifische Besonderheiten und
@@ -5197,13 +5717,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   13
+
+*    *   14
 
     *   Herstellen, Montieren und
         Demontieren von Bauteilen,
         Baugruppen und Systemen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  technische Unterlagen analysieren
@@ -5214,13 +5736,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Sicherstellen der
         Betriebsfähigkeit von
         technischen Systemen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer
@@ -5235,13 +5758,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Aufbauen, Erweitern und Prüfen von elektrotech-
-        nischen Komponenten
-        der Steuerungstechnik
-        (§ 11 Abs. 1 Nr. 16)
+    *   Aufbauen, Erweitern
+        und Prüfen von elektrotechnischen Komponenten der Steuerungstechnik
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
@@ -5264,14 +5787,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 11
+*    *
+    *   Zeitrahmen 11
 
 
-*    *   17
+*    *   18
 
-    *   Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet
-        (§ 11 Abs. 1 Nr. 17)
+    *   Geschäftsprozesse
+        und Qualitätssicherungssysteme im Einsatzgebiet
+        (§ 11 Absatz 1 Nummer 18)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -5322,20 +5848,25 @@ Teil B: Zeitliche Gliederung ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
-*    *
 
+(zu § 16)
 
+### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
 
-### Anlage 4 (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
+(Fundstelle: BGBl. I 2018, 1017 – 1029)
 
-   (Fundstelle: BGBl. I 2007, 1637 - 1648)
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
+**Teil A: Sachliche Gliederung der berufsspezifischen
+Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -5345,10 +5876,9 @@ Fachqualifikationen ****
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fachqualifikationen,
-        die unter Einbeziehung selbstständigen Planens, Durchführens
-        und Kontrollierens integriert mit Kernqualifikationen zu vermitteln
-        sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -5358,11 +5888,11 @@ Fachqualifikationen ****
     *   3
 
 
-*    *   13
+*    *   14
 
     *   Anwenden von technischen
         Unterlagen
-        (§ 15 Abs. 1 Nr. 13)
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         a)  Gesamt- und Teilzeichnungen beschaffen und anwenden
@@ -5377,10 +5907,10 @@ Fachqualifikationen ****
 
 
 
-*    *   14
+*    *   15
 
     *   Trennen und Umformen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
@@ -5407,11 +5937,11 @@ Fachqualifikationen ****
 
 
 
-*    *   15
+*    *   16
 
     *   Einsetzen von
         Bearbeitungsmaschinen
-        (§ 15 Abs. 1 Nr. 15)
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und
@@ -5430,10 +5960,10 @@ Fachqualifikationen ****
 
 
 
-*    *   16
+*    *   17
 
     *   Fügen von Bauteilen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
@@ -5446,11 +5976,11 @@ Fachqualifikationen ****
 
 
 
-*    *   17
+*    *   18
 
     *   Einsetzen von Vorrichtungen
         und Hilfskonstruktionen
-        (§ 15 Abs. 1 Nr. 17)
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Hilfskonstruktionen und Vorrichtungen planen sowie auf- und abbauen
@@ -5462,10 +5992,11 @@ Fachqualifikationen ****
 
 
 
-*    *   18
+*    *   19
 
-    *   Montieren und Demontieren von Metallkonstruktionen
-        (§ 15 Abs. 1 Nr. 18)
+    *   Montieren und Demontieren von
+        Metallkonstruktionen
+        (§ 15 Absatz 1 Nummer 19)
 
     *
         a)  Bauteile und Baugruppen identifizieren und unter Beachtung ihrer
@@ -5495,11 +6026,11 @@ Fachqualifikationen ****
 
 
 
-*    *   19
+*    *   20
 
     *   Prüfen von Bauteilen und
         Baugruppen
-        (§ 15 Abs. 1 Nr. 19)
+        (§ 15 Absatz 1 Nummer 20)
 
     *
         a)  Prüfverfahren und -geräte nach Verwendungszweck auswählen
@@ -5519,12 +6050,12 @@ Fachqualifikationen ****
 
 
 
-*    *   20
+*    *   21
 
     *   Geschäftsprozesse und
         Qualitätssicherungssysteme
         im Einsatzgebiet
-        (§ 15 Abs. 1 Nr. 20)
+        (§ 15 Absatz 1 Nummer 21)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -5546,7 +6077,7 @@ Fachqualifikationen ****
 
 
         e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben durchführen
+            Umweltschutz und Terminvorgaben, durchführen
 
 
         f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
@@ -5575,11 +6106,16 @@ Fachqualifikationen ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
 
-Teil B: Zeitliche Gliederung ****
+
+
+**Teil B: Zeitliche Gliederung**
 
 **Abschnitt I:**
 
@@ -5612,7 +6148,7 @@ Teil B: Zeitliche Gliederung ****
 
     *   Berufsbildung, Arbeits- und
         Tarifrecht
-        (§ 15 Abs. 1 Nr. 1)
+        (§ 15 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -5628,46 +6164,46 @@ Teil B: Zeitliche Gliederung ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 15 Abs. 1 Nr. 2)
+        (§ 15 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
     *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 15 Abs. 1 Nr. 3)
+        (§ 15 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -5692,11 +6228,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 15 Abs. 1 Nr. 4)
+        (§ 15 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -5719,9 +6256,68 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
 
 
-**Abschnitt II:**
+*    *   5
+
+    *   Digitalisierung der Arbeit,
+        Datenschutz und
+        Informationssicherheit
+        (§ 15 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
+
+
+   **Abschnitt II:**
 
 
 *    *   Berufs-
@@ -5748,35 +6344,33 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   Zeitrahmen 1
-        1\. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 1
+
+    *   1. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
 
 
-    *   6 bis 8
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -5795,12 +6389,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 15 Abs. 1 Nr. 7)
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -5812,12 +6408,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   6 bis 8
 
-*    *   8
+
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 8)
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -5836,11 +6434,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Fügen von Bauteilen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
@@ -5852,60 +6451,53 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 2
+*    *
+    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
 
 
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
-        i)  Konflikte im Team lösen
+        g)  Konflikte im Team lösen
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -5935,12 +6527,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *   8
+
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 8)
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         e)  Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
@@ -5948,12 +6542,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -5966,12 +6561,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Anwenden von technischen
         Unterlagen
-        (§ 15 Abs. 1 Nr. 13)
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         a)  Gesamt- und Teilzeichnungen beschaffen und anwenden
@@ -5985,38 +6581,37 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 3
+*    *
+    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
 
 
-    *   1 bis 3
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 15 Abs. 1 Nr. 7)
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -6028,23 +6623,19 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   9
+
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 15 Abs. 1 Nr. 9)
+        (§ 15 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
             dokumentieren
 
 
-
-
-
-*    *
-    *
-    *
         b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
             Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
             veranlassen
@@ -6055,12 +6646,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einsetzen von
         Bearbeitungsmaschinen
-        (§ 15 Abs. 1 Nr. 15)
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         c)  Einrichtungen für Hilfsstoffe vorbereiten
@@ -6068,17 +6660,20 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 4
-        2\. Ausbildungsjahr, 1. Halbjahr
+*    *
+    *   Zeitrahmen 4
+
+    *   2. Ausbildungsjahr, 1. Halbjahr
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
@@ -6098,14 +6693,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   2 bis 4
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 15 Abs. 1 Nr. 7)
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -6117,12 +6712,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 8)
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -6141,12 +6737,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -6159,11 +6756,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *   12
+
+*    *   13
 
     *   Kundenorientierung
-        (§ 15 Abs. 1 Nr. 12)
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -6176,11 +6775,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Trennen und Umformen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
@@ -6206,13 +6806,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *
-
-*    *   16
+*    *   17
 
     *   Fügen von Bauteilen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
@@ -6224,47 +6823,49 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 5
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
-
     *
-        e)  Gespräche mit Kunden, Vorgesetzen und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
 
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
-
-
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
-
-
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
-
-
-        i)  Konflikte im Team lösen
-
-
-
-
-    *   2 bis 4
+*    *
+    *   Zeitrahmen 5
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
+
+    *
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+            in der Kommunikation anwenden
+
+
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+            Dateien entnehmen und verwenden
+
+
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+            und präsentieren
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -6304,12 +6905,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+*    *   8
+
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 15 Abs. 1 Nr. 7)
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -6317,12 +6921,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 8)
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         e)  Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
@@ -6330,12 +6935,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -6348,12 +6954,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
-    *   Anwenden von
-        technischen Unterlagen
-        (§ 15 Abs. 1 Nr. 13)
+    *   Anwenden von technischen
+        Unterlagen
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         c)  Schweißanweisungen und -pläne lesen und anwenden
@@ -6361,11 +6968,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   17
+*    *   18
 
-    *   Einsetzen von Vorrichtungen und Hilfskonstruktionen
-        (§ 15 Abs. 1 Nr. 17)
+    *   Einsetzen von Vor-
+        richtungen und
+        Hilfskonstruktionen
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Hilfskonstruktionen und Vorrichtungen planen sowie auf- und abbauen
@@ -6373,44 +6983,44 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 6
-        2\. Ausbildungsjahr, 2. Halbjahr, 3. und 4. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 6
+
+    *   2. Ausbildungsjahr, 2. Halbjahr,
+        3\. und 4. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
@@ -6435,12 +7045,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 15 Abs. 1 Nr. 7)
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -6449,11 +7061,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 15 Abs. 1 Nr. 10)
+        (§ 15 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -6464,12 +7077,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Anwenden von technischen
         Unterlagen
-        (§ 15 Abs. 1 Nr. 13)
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         a)  Gesamt- und Teilzeichnungen beschaffen und anwenden
@@ -6480,11 +7094,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   14
+
+*    *   15
 
     *   Trennen und Umformen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
@@ -6510,14 +7126,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *
-
-*    *   15
+*    *   16
 
     *   Einsetzen von
         Bearbeitungsmaschinen
-        (§ 15 Abs. 1 Nr. 15)
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und
@@ -6535,11 +7150,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   17
+*    *   18
 
-    *   Einsetzen von Vorrichtungen und Hilfskonstruktionen
-        (§ 15 Abs. 1 Nr. 17)
+    *   Einsetzen von
+        Vorrichtungen und
+        Hilfskonstruktionen
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Hilfskonstruktionen und Vorrichtungen planen sowie auf- und abbauen
@@ -6550,12 +7168,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   19
+*    *   20
 
     *   Prüfen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 19)
+        (§ 15 Absatz 1 Nummer 20)
 
     *
         a)  Prüfverfahren und -geräte nach Verwendungszweck auswählen
@@ -6574,16 +7193,18 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 7
+*    *
+    *   Zeitrahmen 7
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
@@ -6596,14 +7217,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 8)
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
@@ -6615,11 +7235,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   16
+
+*    *   17
 
     *   Fügen von Bauteilen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
@@ -6631,16 +7253,18 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 8
+*    *
+    *   Zeitrahmen 8
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
@@ -6672,13 +7296,11 @@ Teil B: Zeitliche Gliederung ****
     *   1 bis 3
 
 
-*    *
+*    *   12
 
-*    *   11
-
-    *   Anschlagen, Sichern und
-        Transportieren
-        (§ 15 Abs. 1 Nr. 11)
+    *   Anschlagen, Sichern
+        und Transportieren
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -6688,11 +7310,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 15 Abs. 1 Nr. 12)
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -6705,12 +7328,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   17
+*    *   18
 
-    *   Einsetzen von Vorrichtungen
-        und Hilfskonstruktionen
-        (§ 15 Abs. 1 Nr. 17)
+    *   Einsetzen von
+        Vorrichtungen und
+        Hilfskonstruktionen
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Hilfskonstruktionen und Vorrichtungen planen sowie auf- und abbauen
@@ -6718,16 +7343,18 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 9
+*    *
+    *   Zeitrahmen 9
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
@@ -6750,14 +7377,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 8)
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
@@ -6769,11 +7395,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 15 Abs. 1 Nr. 10)
+        (§ 15 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -6784,11 +7411,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Trennen und Umformen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
@@ -6804,12 +7432,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einsetzen von
         Bearbeitungsmaschinen
-        (§ 15 Abs. 1 Nr. 15)
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und
@@ -6827,13 +7456,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *
 
-*    *   16
+*    *   17
 
     *   Fügen von Bauteilen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
@@ -6845,11 +7474,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   17
+*    *   18
 
-    *   Einsetzen von Vorrichtungen und Hilfskonstruktionen
-        (§ 15 Abs. 1 Nr. 17)
+    *   Einsetzen von
+        Vorrichtungen und
+        Hilfskonstruktionen
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Hilfskonstruktionen und Vorrichtungen planen sowie auf- und abbauen
@@ -6860,12 +7492,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   19
+*    *   20
 
     *   Prüfen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 19)
+        (§ 15 Absatz 1 Nummer 20)
 
     *
         a)  Prüfverfahren und -geräte nach Verwendungszweck auswählen
@@ -6884,14 +7517,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 10
+*    *
+    *   Zeitrahmen 10
 
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 15 Abs. 1 Nr. 12)
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -6904,13 +7539,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   16
+*    *   17
 
     *   Fügen von Bauteilen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
@@ -6922,11 +7556,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   17
+*    *   18
 
-    *   Einsetzen von Vorrichtungen und Hilfskonstruktionen
-        (§ 15 Abs. 1 Nr. 17)
+    *   Einsetzen von
+        Vorrichtungen und
+        Hilfskonstruktionen
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Hilfskonstruktionen und Vorrichtungen planen sowie auf- und abbauen
@@ -6937,11 +7574,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
-    *   Montieren und Demontieren von Metallkonstruktionen
-        (§ 15 Abs. 1 Nr. 18)
+    *   Montieren und Demontieren
+        von Metallkonstruktionen
+        (§ 15 Absatz 1 Nummer 19)
 
     *
         a)  Bauteile und Baugruppen identifizieren und unter Beachtung ihrer
@@ -6970,14 +7609,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *
 
-*    *   19
+*    *   20
 
     *   Prüfen von Bauteilen
         und Baugruppen
-        (§ 15 Abs. 1 Nr. 19)
+        (§ 15 Absatz 1 Nummer 20)
 
     *
         c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische
@@ -6989,16 +7628,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 11
+*    *
+    *   Zeitrahmen 11
 
 
-*    *   20
+*    *   21
 
-    *   Geschäftsprozesse und
-        Qualitätssicherungssysteme
-        im Einsatzgebiet
-        (§ 15 Abs. 1 Nr. 20)
+    *   Geschäftsprozesse und Qualitätssicherungs-
+        systeme im Einsatzgebiet
+        (§ 15 Absatz 1 Nummer 21)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -7020,7 +7660,7 @@ Teil B: Zeitliche Gliederung ****
 
 
         e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben durchführen
+            Umweltschutz und Terminvorgaben, durchführen
 
 
         f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
@@ -7049,21 +7689,25 @@ Teil B: Zeitliche Gliederung ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
 
+(zu § 20)
 
-### Anlage 5 (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
+### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
 
-(Fundstelle: BGBl. I 2007, 1649 - 1661)
-Ausbildungsrahmenplan
-##
+(Fundstelle: BGBl. I 2018, 1030 – 1042)
 
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
+**Teil A: Sachliche Gliederung der berufsspezifischen
+Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -7073,9 +7717,9 @@ Fachqualifikationen ****
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -7085,12 +7729,12 @@ Fachqualifikationen ****
     *   3
 
 
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
@@ -7125,17 +7769,17 @@ Fachqualifikationen ****
 
 
 
-*    *   14
+*    *   15
 
     *   Montage und Demontage
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
 
 
-        b)  Bauteile und Baugruppen insbesondere zu Werkzeugen, Lehren,
-            Vorrichtungen, Formen oder Instrumenten funktionsgerecht nach
+        b)  Bauteile und Baugruppen, insbesondere zu Werkzeugen, Lehren,
+            Vorrichtungen, Formen oder Instrumenten, funktionsgerecht nach
             Montageplänen zusammenbauen, passen, Lage sichern und kennzeichnen
 
 
@@ -7161,10 +7805,10 @@ Fachqualifikationen ****
 
 
 
-*    *   15
+*    *   16
 
     *   Erprobung und Übergabe
-        (§ 19 Abs. 1 Nr. 15)
+        (§ 19 Absatz 1 Nummer 16)
 
     *
         a)  Einzel- und Gesamtfunktion prüfen, Fehleranalyse durchführen
@@ -7199,11 +7843,11 @@ Fachqualifikationen ****
 
 
 
-*    *   16
+*    *   17
 
-    *   Instandhaltung von Bauteilen
-        und Baugruppen
-        (§ 19 Abs. 1 Nr. 16)
+    *   Instandhaltung von
+        Bauteilen und Baugruppen
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen
@@ -7231,14 +7875,14 @@ Fachqualifikationen ****
 
 
 
-*    *   17
+*    *   18
 
-    *   Programmieren von Maschinen
-        oder Anlagen
-        (§ 19 Abs. 1 Nr. 17)
+    *   Programmieren von
+        Maschinen und Anlagen
+        (§ 19 Absatz 1 Nummer 18)
 
     *
-        a)  Datenein- und Datenausgabegeräte sowie Datenträger handhaben
+        a)  Dateneingabe- und Datenausgabegeräte sowie Datenträger handhaben
 
 
         b)  rechnerunterstützte Techniken zur Programmierung anwenden
@@ -7254,10 +7898,10 @@ Fachqualifikationen ****
 
 
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
@@ -7277,11 +7921,12 @@ Fachqualifikationen ****
 
 
 
-*    *   19
+*    *   20
 
-    *   Geschäftsprozesse und Qualitätssicherungssysteme
+    *   Geschäftsprozesse und
+        Qualitätssicherungssysteme
         im Einsatzgebiet
-        (§ 19 Abs. 1 Nr. 19)
+        (§ 19 Absatz 1 Nummer 20)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -7323,12 +7968,6 @@ Fachqualifikationen ****
             Abnahmeprotokolle erstellen
 
 
-
-
-
-*    *
-    *
-    *
         j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
             kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
             beitragen
@@ -7338,11 +7977,16 @@ Fachqualifikationen ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
 
-Teil B: Zeitliche Gliederung ****
+
+
+**Teil B: Zeitliche Gliederung**
 
 **Abschnitt I:**
 
@@ -7373,8 +8017,9 @@ Teil B: Zeitliche Gliederung ****
 
 *    *   1
 
-    *   Berufsbildung, Arbeits- und Tariffrecht
-        (§ 19 Abs. 1 Nr. 1)
+    *   Berufsbildung, Arbeits- und
+        Tarifrecht
+        (§ 19 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -7390,46 +8035,47 @@ Teil B: Zeitliche Gliederung ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 19 Abs. 1 Nr. 2)
+        (§ 19 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 19 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesund-
+        heitsschutz bei der Arbeit
+        (§ 19 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -7454,11 +8100,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 19 Abs. 1 Nr. 4)
+        (§ 19 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -7481,9 +8128,68 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
 
 
-**Abschnitt II:**
+*    *   5
+
+    *   Digitalisierung der Arbeit,
+        Datenschutz und
+        Informationssicherheit
+        (§ 19 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
+
+
+   **Abschnitt II:**
 
 
 *    *   Berufs-
@@ -7510,32 +8216,33 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   Zeitrahmen 1
-        1\. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 1
+
+    *   1. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -7558,12 +8265,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+*    *   8
+
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 19 Abs. 1 Nr. 7)
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -7575,12 +8285,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -7599,11 +8310,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
@@ -7611,39 +8323,37 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 2
+*    *
+    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
 
-    *   5 bis 7
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
@@ -7660,12 +8370,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 19 Abs. 1 Nr. 7)
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -7673,12 +8385,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -7697,13 +8410,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   5 bis 7
 
-*    *   13
+
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen,
@@ -7716,14 +8431,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
-        a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen,
+        a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
 
 
         b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen
@@ -7732,39 +8448,37 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 3
+*    *
+    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
 
-    *   2 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -7787,12 +8501,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 19 Abs. 1 Nr. 7)
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -7800,12 +8516,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 3
 
-*    *   8
+
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         e)  Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
@@ -7813,13 +8531,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
@@ -7829,10 +8548,10 @@ Teil B: Zeitliche Gliederung ****
 
     *
 
-*    *   14
+*    *   15
 
     *   Montage und Demontage
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
@@ -7844,11 +8563,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
@@ -7860,43 +8580,37 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 4
+*    *
+    *   Zeitrahmen 4
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
 
 
-    *   1 bis 2
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
@@ -7907,11 +8621,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 19 Abs. 1 Nr. 9)
+        (§ 19 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -7923,11 +8638,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 2
 
-*    *   16
 
-    *   Instandhaltung von Bauteilen und Baugruppen
-        (§ 19 Abs. 1 Nr. 16)
+*    *   17
+
+    *   Instandhaltung von
+        Bauteilen und Baugruppen
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen
@@ -7941,41 +8659,43 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 5
-        2\. Ausbildungsjahr, 1. Halbjahr
+*    *
+    *   Zeitrahmen 5
+
+    *   2. Ausbildungsjahr, 1. Halbjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
 
 
-    *   1 bis 2
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -8001,13 +8721,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 2
 
-*    *   13
+
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
@@ -8019,11 +8741,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Montage und Demontage
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
@@ -8035,11 +8758,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Erprobung und Übergabe
-        (§ 19 Abs. 1 Nr. 15)
+        (§ 19 Absatz 1 Nummer 16)
 
     *
         a)  Einzel- und Gesamtfunktion prüfen, Fehleranalyse durchführen
@@ -8047,11 +8771,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
@@ -8063,32 +8788,33 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 6
+*    *
+    *   Zeitrahmen 6
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        der Arbeit, Bewerten
+        der Arbeitsergebnisse
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
@@ -8108,12 +8834,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 19 Abs. 1 Nr. 7)
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -8121,12 +8849,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -8138,14 +8867,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 19 Abs. 1 Nr. 11)
+        (§ 19 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -8155,13 +8884,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
@@ -8177,11 +8907,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
@@ -8197,15 +8928,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 7
+*    *
+    *   Zeitrahmen 7
 
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -8227,13 +8960,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   2 bis 3
+    *
 
-
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 19 Abs. 1 Nr. 10)
+        (§ 19 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -8244,11 +8976,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 19 Abs. 1 Nr. 12)
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -8257,13 +8990,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
@@ -8279,18 +9013,20 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 3
 
-*    *   14
+
+*    *   15
 
     *   Montage und Demontage
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
 
 
-        b)  Bauteile und Baugruppen insbesondere zu Werkzeugen, Lehren,
-            Vorrichtungen, Formen oder Instrumenten funktionsgerecht nach
+        b)  Bauteile und Baugruppen, insbesondere zu Werkzeugen, Lehren,
+            Vorrichtungen, Formen oder Instrumenten, funktionsgerecht nach
             Montageplänen zusammenbauen, passen, Lage sichern und kennzeichnen
 
 
@@ -8304,18 +9040,20 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *
+    *   Zeitrahmen 8
 
-*    *   Zeitrahmen 8
-        2\. Ausbildungsjahr, 2. Halbjahr, 3. und 4. Ausbildungsjahr
+    *   2. Ausbildungsjahr, 2. Halbjahr,
+        3\. und 4. Ausbildungsjahr
 
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -8327,15 +9065,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
@@ -8347,15 +9084,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   17
+
+*    *   18
 
     *   Programmieren von
         Maschinen und Anlagen
-        (§ 19 Abs. 1 Nr. 17)
+        (§ 19 Absatz 1 Nummer 18)
 
     *
-        a)  Datenein- und Datenausgabegeräte sowie Datenträger handhaben
+        a)  Dateneingabe- und Datenausgabegeräte sowie Datenträger handhaben
 
 
         c)  Programme erstellen, eingeben, testen, ändern, optimieren und sichern
@@ -8363,39 +9102,41 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 9
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
-
     *
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
 
-
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
-
-
-        i)  Konflikte im Team lösen
-
-
-
-
-    *   3 bis 5
+*    *
+    *   Zeitrahmen 9
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
+
+    *
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+            und präsentieren
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
@@ -8417,12 +9158,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 19 Abs. 1 Nr. 7)
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -8431,11 +9174,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 19 Abs. 1 Nr. 9)
+        (§ 19 Absatz 1 Nummer 10)
 
     *
         b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
@@ -8445,11 +9189,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 19 Abs. 1 Nr. 10)
+        (§ 19 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -8460,12 +9205,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   11
+
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 19 Abs. 1 Nr. 11)
+        (§ 19 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -8478,11 +9225,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 19 Abs. 1 Nr. 12)
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         b)  Kunden auf auftragsspezifische Besonderheiten und
@@ -8491,13 +9239,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         g)  Stoffeigenschaften ändern
@@ -8505,11 +9254,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Montage und Demontage
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         f)  unterschiedliche Verbindungstechniken anwenden, insbesondere
@@ -8518,11 +9268,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Instandhaltung von Bauteilen und Baugruppen
-        (§ 19 Abs. 1 Nr. 16)
+    *   Instandhaltung von
+        Bauteilen und Baugruppen
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen
@@ -8545,15 +9297,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 10
+*    *
+    *   Zeitrahmen 10
 
 
-*    *   8
+*    *   9
 
-    *   Herstellen von Bauteilen
-        und Baugruppen
-        (§ 19 Abs. 1 Nr. 8)
+    *   Herstellen von Bauteilen und Baugruppen
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
@@ -8565,15 +9318,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         e)  Bauteile durch manuelle und maschinelle Schleif- oder Abtragsverfahren
@@ -8587,12 +9339,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   17
+
+*    *   18
 
     *   Programmieren von
         Maschinen und Anlagen
-        (§ 19 Abs. 1 Nr. 17)
+        (§ 19 Absatz 1 Nummer 18)
 
     *
         b)  rechnerunterstützte Techniken zur Programmierung anwenden
@@ -8607,11 +9361,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   18
+*    *   19
 
     *   Prüfen
-        (§ 19 Abs. 1 Nr. 18)
+        (§ 19 Absatz 1 Nummer 19)
 
     *
         d)  Oberflächenbeschaffenheit mit verschiedenen Verfahren prüfen
@@ -8619,14 +9374,16 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 11
+*    *
+    *   Zeitrahmen 11
 
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 19 Abs. 1 Nr. 10)
+        (§ 19 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -8640,12 +9397,12 @@ Teil B: Zeitliche Gliederung ****
     *   1 bis 2
 
 
-*    *   13
+*    *   14
 
     *   Anfertigen von Bauteilen
         mit unterschiedlichen
         Bearbeitungsverfahren
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         h)  Bearbeitungsverfahren auswählen
@@ -8654,11 +9411,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   17
+*    *   18
 
     *   Programmieren von
         Maschinen und Anlagen
-        (§ 19 Abs. 1 Nr. 17)
+        (§ 19 Absatz 1 Nummer 18)
 
     *
         d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung
@@ -8668,35 +9425,36 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 12
+*    *
+    *   Zeitrahmen 12
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
 
 
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
             und präsentieren
 
 
 
 
-    *   1 bis 2
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
@@ -8708,11 +9466,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 19 Abs. 1 Nr. 12)
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -8725,11 +9484,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Montage und Demontage
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         g)  Normteile auswählen
@@ -8737,11 +9497,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Erprobung und Übergabe
-        (§ 19 Abs. 1 Nr. 15)
+        (§ 19 Absatz 1 Nummer 16)
 
     *
         a)  Einzel- und Gesamtfunktion prüfen, Fehleranalyse durchführen
@@ -8775,12 +9536,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 2
 
-*    *   16
 
-    *   Instandhaltung von Bauteilen
-        und Baugruppen
-        (§ 19 Abs. 1 Nr. 16)
+*    *   17
+
+    *   Instandhaltung von
+        Bauteilen und Baugruppen
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         f)  Instandhaltungsmaßnahmen nach betrieblichen Vorschriften durchführen
@@ -8789,15 +9552,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 13
+*    *
+    *   Zeitrahmen 13
 
 
-*    *   19
+*    *   20
 
-    *   Geschäftsprozesse und Qualitätssicherungssysteme
-        im Einsatzgebiet
-        (§ 19 Abs. 1 Nr. 19)
+    *   Geschäftsprozesse und
+        Qualitätssicherungssysteme im Einsatzgebiet
+        (§ 19 Absatz 1 Nummer 20)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -8848,18 +9613,25 @@ Teil B: Zeitliche Gliederung ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
 
+(zu § 24)
 
-### Anlage 6 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
+### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
 
-(Fundstelle: BGBl. I 2007, 1662 - 1672)
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
+(Fundstelle: BGBl. I 2018, 1043 – 1053)
+
+**Teil A: Sachliche Gliederung der berufsspezifischen
+Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -8869,9 +9641,9 @@ Fachqualifikationen ****
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -8881,10 +9653,10 @@ Fachqualifikationen ****
     *   3
 
 
-*    *   13
+*    *   14
 
     *   Planen des Fertigungsprozesses
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
@@ -8912,11 +9684,12 @@ Fachqualifikationen ****
 
 
 
-*    *   14
+*    *   15
 
     *   Programmieren von numerisch
-        gesteuerten Werkzeugmaschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 14)
+        gesteuerten Werkzeugmaschinen
+        oder Fertigungssystemen
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         a)  Dateneingabegeräte und Datenausgabegeräte sowie Datenträger handhaben
@@ -8935,10 +9708,12 @@ Fachqualifikationen ****
 
 
 
-*    *   15
+*    *   16
 
-    *   Einrichten von Werkzeugmaschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+    *   Einrichten von Werkzeug-
+        maschinen oder
+        Fertigungssystemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Werkstückspannmittel vorbereiten, montieren und ausrichten
@@ -8965,10 +9740,10 @@ Fachqualifikationen ****
 
 
 
-*    *   16
+*    *   17
 
     *   Herstellen von Werkstücken
-        (§ 23 Abs. 1 Nr. 16)
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         a)  Werkstücke unter Berücksichtigung der Form und der
@@ -8994,11 +9769,11 @@ Fachqualifikationen ****
 
 
 
-*    *   17
+*    *   18
 
     *   Überwachen und Optimieren
         von Fertigungsabläufen
-        (§ 23 Abs. 1 Nr. 17)
+        (§ 23 Absatz 1 Nummer 18)
 
     *
         a)  Fertigungsprozess überwachen und optimieren
@@ -9021,12 +9796,12 @@ Fachqualifikationen ****
 
 
 
-*    *   18
+*    *   19
 
     *   Geschäftsprozesse und
         Qualitätssicherungssysteme
         im Einsatzgebiet
-        (§ 23 Abs. 1 Nr. 18)
+        (§ 23 Absatz 1 Nummer 19)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -9077,11 +9852,16 @@ Fachqualifikationen ****
             veranlassen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
 
-Teil B: Zeitliche Gliederung ****
+
+
+**Teil B: Zeitliche Gliederung**
 
 **Abschnitt I:**
 
@@ -9114,7 +9894,7 @@ Teil B: Zeitliche Gliederung ****
 
     *   Berufsbildung, Arbeits-
         und Tarifrecht
-        (§ 23 Abs. 1 Nr. 1)
+        (§ 23 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -9130,46 +9910,54 @@ Teil B: Zeitliche Gliederung ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 23 Abs. 1 Nr. 2)
+        (§ 23 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+
+
+    *
+
+*    *
+    *
+    *
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 23 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesund-
+        heitsschutz bei der Arbeit
+        (§ 23 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -9194,11 +9982,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 23 Abs. 1 Nr. 4)
+        (§ 23 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -9221,9 +10010,68 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
 
 
-**Abschnitt II:**
+*    *   5
+
+    *   Digitalisierung der Arbeit,
+        Datenschutz und
+        Informationssicherheit
+        (§ 23 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
+
+
+   **Abschnitt II:**
 
 
 *    *   Berufs-
@@ -9250,35 +10098,33 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   Zeitrahmen 1
-        1\. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 1
+
+    *   1. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
             Skizzen anfertigen
 
 
 
 
-    *   4 bis 6
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -9305,13 +10151,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   4 bis 6
 
-*    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von
-        Werk- und
-        Hilfsstoffen
-        (§ 23 Abs. 1 Nr. 7)
+*    *   8
+
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
+        Werk- und Hilfsstoffen
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -9319,12 +10167,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -9343,12 +10192,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einrichten von Werkzeug-
-        maschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+        maschinen oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         f)  Schutzeinrichtungen montieren und Funktionsfähigkeit überprüfen
@@ -9356,36 +10207,37 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 2
+*    *
+    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden, sowie
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden, sowie
             Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
@@ -9397,12 +10249,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 23 Abs. 1 Nr. 7)
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
@@ -9411,12 +10265,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
@@ -9431,11 +10286,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   9
+
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 23 Abs. 1 Nr. 9)
+        (§ 23 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -9444,12 +10301,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Planen des Fertigungs-
         prozesses
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit
@@ -9458,12 +10316,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einrichten von Werkzeug-
-        maschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+        maschinen oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         f)  Schutzeinrichtungen montieren und Funktionsfähigkeit überprüfen
@@ -9471,36 +10331,33 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 3
+*    *
+    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
 
 
-    *   1 bis 2
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
@@ -9516,12 +10373,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 2
 
-*    *   8
+
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         e)  Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
@@ -9529,12 +10388,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einrichten von Werkzeug-
-        maschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+        maschinen oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Werkstückspannmittel vorbereiten, montieren und ausrichten
@@ -9545,34 +10406,18 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 4
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
-
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
+
+*    *
+    *   Zeitrahmen 4
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+*    *   8
 
-
-
-
-    *   1 bis 2
-
-
-*    *   7
-
-    *   Unterscheiden, Zuordnen und Handhaben von
+    *   Unterscheiden, Zuordnen
+        und Handhaben von
         Werk- und Hilfsstoffen
-        (§ 23 Abs. 1 Nr. 7)
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -9580,11 +10425,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 2
 
-*    *   9
+
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 23 Abs. 1 Nr. 9)
+        (§ 23 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -9602,11 +10449,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   15
+*    *   16
 
     *   Einrichten von Werkzeug-
-        maschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+        maschinen oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         e)  Einrichtungen für Hilfs- und Betriebsstoffe vorbereiten
@@ -9614,33 +10462,19 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *
 
-*    *   Zeitrahmen 5
-        2\. Ausbildungsjahr, 1. Halbjahr
+*    *
+    *   Zeitrahmen 5
 
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
-
-    *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
+    *   2. Ausbildungsjahr, 1. Halbjahr
 
 
-
-
-    *   4 bis 5
-
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
@@ -9660,12 +10494,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 23 Abs. 1 Nr. 11)
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -9678,11 +10513,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 23 Abs. 1 Nr. 12)
+        (§ 23 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -9691,12 +10527,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Planen des Fertigungs-
         prozesses
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
@@ -9723,11 +10560,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   4 bis 5
 
-*    *   16
+
+*    *   17
 
     *   Herstellen von Werkstücken
-        (§ 23 Abs. 1 Nr. 16)
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         a)  Werkstücke unter Berücksichtigung der Form und der
@@ -9745,28 +10584,28 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *
+    *   Zeitrahmen 6
 
-*    *   Zeitrahmen 6
 
-
-*    *   5
+*    *   6
 
     *   Betriebliche und technische
         Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
             zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
             in der Kommunikation anwenden
 
 
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
@@ -9775,10 +10614,10 @@ Teil B: Zeitliche Gliederung ****
     *   1 bis 2
 
 
-*    *   9
+*    *   10
 
     *   Warten von Betriebsmitteln
-        (§ 23 Abs. 1 Nr. 9)
+        (§ 23 Absatz 1 Nummer 10)
 
     *
         a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
@@ -9796,11 +10635,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 23 Abs. 1 Nr. 11)
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -9811,12 +10650,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   17
+*    *   18
 
     *   Überwachen und
         Optimieren von
         Fertigungsabläufen
-        (§ 23 Abs. 1 Nr. 17)
+        (§ 23 Absatz 1 Nummer 18)
 
     *
         c)  maschinenbedingte Störungen beheben oder Beseitigung veranlassen
@@ -9829,20 +10668,21 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 7
-        2\. Ausbildungsjahr, 2. Halbjahr, 3. und 4. Ausbildungsjahr
+*    *
+    *   Zeitrahmen 7
+
+    *   2. Ausbildungsjahr, 2. Halbjahr,
+        3\. und 4. Ausbildungsjahr
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
-
-
-        g)  Informationen auch aus englischsprachigen technischen Unterlagen oder
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
             Dateien entnehmen und verwenden
 
 
@@ -9851,10 +10691,10 @@ Teil B: Zeitliche Gliederung ****
     *   2 bis 3
 
 
-*    *   10
+*    *   11
 
     *   Steuerungstechnik
-        (§ 23 Abs. 1 Nr. 10)
+        (§ 23 Absatz 1 Nummer 11)
 
     *
         a)  steuerungstechnische Unterlagen auswerten
@@ -9866,12 +10706,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   17
+*    *   18
 
     *   Überwachen und
         Optimieren von
         Fertigungsabläufen
-        (§ 23 Abs. 1 Nr. 17)
+        (§ 23 Absatz 1 Nummer 18)
 
     *
         a)  Fertigungsprozess überwachen und optimieren
@@ -9887,14 +10727,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   Zeitrahmen 8
+*    *
+    *   Zeitrahmen 8
 
 
-*    *   8
+*    *   9
 
     *   Herstellen von Bauteilen
         und Baugruppen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
@@ -9903,14 +10744,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   3 bis 4
+    *
 
-
-*    *   13
+*    *   14
 
     *   Planen des Fertigungs-
         prozesses
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
@@ -9934,13 +10774,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Programmieren von
-        numerisch gesteuerten Werkzeugmaschinen
+        numerisch gesteuerten
+        Werkzeugmaschinen
         oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 14)
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         a)  Dateneingabegeräte und Datenausgabegeräte sowie Datenträger handhaben
@@ -9958,12 +10800,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 4
 
-*    *   15
+
+*    *   16
 
     *   Einrichten von Werkzeug-
-        maschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+        maschinen oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Werkstückspannmittel vorbereiten, montieren und ausrichten
@@ -9986,11 +10831,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Herstellen von Werkstücken
-        (§ 23 Abs. 1 Nr. 16)
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen
@@ -10000,51 +10846,47 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-
-*    *   Zeitrahmen 9
-
-
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
-
     *
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
 
-
-        h)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
-
-
-        i)  Konflikte im Team lösen
-
-
-
-
-    *   1 bis 3
+*    *
+    *   Zeitrahmen 9
 
 
 *    *   6
 
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 23 Absatz 1 Nummer 6)
+
+    *
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
+            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
+            dabei kulturelle Identitäten berücksichtigen
+
+
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
+            und präsentieren
+
+
+        g)  Konflikte im Team lösen
+
+
+
+
+    *
+
+*    *   7
+
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
             terminlicher Vorgaben planen und durchführen
 
 
-
-
-
-*    *
-    *
-    *
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
 
 
@@ -10057,11 +10899,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Kundenorientierung
-        (§ 23 Abs. 1 Nr. 12)
+        (§ 23 Absatz 1 Nummer 13)
 
     *
         a)  auftragsspezifische Anforderungen und Informationen beschaffen,
@@ -10074,12 +10917,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Planen des Fertigungs-
         prozesses
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
@@ -10106,14 +10950,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   14
+
+*    *   15
 
     *   Programmieren von
         numerisch gesteuerten
         Werkzeugmaschinen
-        oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 14)
+        oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         a)  Dateneingabegeräte und Datenausgabegeräte sowie Datenträger handhaben
@@ -10131,12 +10978,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einrichten von Werkzeug-
-        maschinen oder Fertigungssystemen
-        (§ 23 Abs. 1 Nr. 15)
+        maschinen oder Fertigungs-
+        systemen
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Werkstückspannmittel vorbereiten, montieren und ausrichten
@@ -10159,11 +11008,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Herstellen von Werkstücken
-        (§ 23 Abs. 1 Nr. 16)
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         a)  Werkstücke unter Berücksichtigung der Form und der
@@ -10177,16 +11027,18 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 10
+*    *
+    *   Zeitrahmen 10
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -10194,14 +11046,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-    *   4 bis 6
+    *
 
-
-*    *   11
+*    *   12
 
     *   Anschlagen, Sichern und
         Transportieren
-        (§ 23 Abs. 1 Nr. 11)
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
@@ -10214,11 +11065,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Herstellen von Werkstücken
-        (§ 23 Abs. 1 Nr. 16)
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden
@@ -10234,11 +11086,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   4 bis 6
 
-*    *   17
 
-    *   Überwachen und Optimieren von Fertigungsabläufen
-        (§ 23 Abs. 1 Nr. 17)
+*    *   18
+
+    *   Überwachen und
+        Optimieren
+        von Fertigungsabläufen
+        (§ 23 Absatz 1 Nummer 18)
 
     *
         a)  Fertigungsprozess überwachen und optimieren
@@ -10260,16 +11116,17 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   Zeitrahmen 11
+*    *
+    *   Zeitrahmen 11
 
 
-*    *   18
+*    *   19
 
-    *   Geschäftsprozesse und
-        Qualitätssicherungssysteme
-        im Einsatzgebiet
-        (§ 23 Abs. 1 Nr. 18)
+    *   Geschäftsprozesse
+        und Qualitätssicherungssysteme im Einsatzgebiet
+        (§ 23 Absatz 1 Nummer 19)
 
     *
         a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
@@ -10304,14 +11161,6 @@ Teil B: Zeitliche Gliederung ****
             Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
-
-
-    *   10 bis 12
-
-
-*    *
-    *
-    *
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
@@ -10326,6 +11175,379 @@ Teil B: Zeitliche Gliederung ****
 
         k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
             veranlassen
+
+
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
+
+
+    *   10 bis 12
+
+
+
+(zu § 29)
+
+### Anlage 7 Ausbildungsrahmenplan für die Zusatzqualifikationen
+
+(Fundstelle: BGBl. I 2018, 1054 – 1056)
+
+Teil A: Zusatzqualifikation Systemintegration ****
+
+
+*    *   Lfd. Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche
+        Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Analysieren von
+        technischen Aufträgen und Entwickeln von Lösungen
+
+    *
+        a)  Ist-Zustand von zu verbindenden Teilsystemen analysieren und auswerten
+            und Systemschnittstellen identifizieren
+
+
+        b)  technische Prozesse und Umgebungsbedingungen analysieren und Soll-
+            Zustand festlegen
+
+
+        c)  Lösungsvarianten zur Systemintegration erarbeiten, bewerten und
+            abstimmen und dabei sowohl Spezifikationen berücksichtigen als auch
+            technische Bestimmungen und die betrieblichen IT-Richtlinien einhalten
+
+
+        d)  Vorgehensweise und Zuständigkeiten bei Installationen und
+            Systemerprobungen festlegen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Installieren und
+        Inbetriebnehmen von
+        cyberphysischen Systemen
+
+    *
+        a)  mit Kleinspannung betriebene Hardwarekomponenten installieren und
+            Softwarekomponenten konfigurieren
+
+
+        b)  Systeme mittels Software zu einem cyberphysischen System vernetzen
+
+
+        c)  Systeme mit Hard- und Softwarekomponenten in Betrieb nehmen
+
+
+        d)  Störungen analysieren und systematische Fehlersuche in Systemen
+            durchführen und dokumentieren
+
+
+        e)  Systemkonfiguration, Qualitätskontrollen und Testläufe dokumentieren
+
+
+
+
+
+
+**Teil B: Zusatzqualifikation Prozessintegration**
+
+
+*    *   Lfd. Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche
+        Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Analysieren und Planen
+        von digital vernetzten Produktionsprozessen
+
+    *
+        a)  Produktionsprozesse analysieren
+
+
+        b)  Anpassung der Produktion sowie der Handhabungs-, Transport- oder
+            Identifikationssysteme planen
+
+
+        c)  Prozessänderungen planen und hinsichtlich vor- und nachgelagerter
+            Bereiche bewerten sowie die Zuständigkeiten im Team abstimmen
+
+
+        d)  Spezifikationen, technische Bestimmungen und betriebliche IT-
+            Richtlinien bei Prozessänderungen beachten
+
+
+
+
+    *
+
+*    *   2
+
+    *   Anpassen und Ändern
+        von digital vernetzten Produktionsanlagen
+
+    *
+        a)  geplante Prozessabläufe simulieren
+
+
+        b)  Auf- und Umbau von Produktionsanlagen und die datentechnische
+            Vernetzung im Team durchführen
+
+
+        c)  Steuerungsprogramme im Team ändern, testen und optimieren
+
+
+
+
+    *   8
+
+
+*    *   3
+
+    *   Erproben von
+        Produktionsprozessen
+
+    *
+        a)  Produktionsverfahren und Prozessschritte, logistische Abläufe und
+            Fertigungsparameter erproben
+
+
+        b)  Gesamtprozess kontrollieren, überwachen und protokollieren und
+            prozessbegleitende Maßnahmen der Qualitätssicherung durchführen
+
+
+        c)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen
+            dokumentieren
+
+
+        d)  Daten des Konfigurations- und Änderungsmanagements pflegen und
+            technische Dokumentationen sichern
+
+
+        e)  Prozessvorschriften erstellen
+
+
+
+
+    *
+
+
+   **Teil C: Zusatzqualifikation Additive Fertigungsverfahren**
+
+
+*    *   Lfd. Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche
+        Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Modellieren von Bauteilen
+
+    *
+        a)  Bauteile durch Programme zum computergestützten Konstruieren (CAD)
+            erstellen
+
+
+        b)  für digitale 3D-Modelle parametrische Datensätze entwickeln
+
+
+        c)  Gestaltungsprinzipien zur additiven Fertigung einhalten und
+            Gestaltungsmöglichkeiten nutzen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Vorbereiten von additiver Fertigung
+
+    *
+        a)  Verfahren zur additiven Fertigung auswählen
+
+
+        b)  3D-Datensätze konvertieren und für das Verfahren anpassen
+
+
+        c)  verfahrensspezifische Produktionsabläufe planen
+
+
+        d)  Maschine zur Herstellung einrichten
+
+
+
+
+
+*    *   3
+
+    *   Additives Fertigen von Produkten
+
+    *
+        a)  additive Fertigungsverfahren anwenden und Probebauteile erstellen und
+            bewerten
+
+
+        b)  Prozessparameter anpassen und optimieren
+
+
+        c)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen
+            der Qualitätssicherung durchführen
+
+
+        d)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen
+            dokumentieren
+
+
+        e)  Daten des Konfigurations- und Änderungsmanagements pflegen und
+            technische Dokumentationen sichern
+
+
+        f)  verfahrensspezifische Vorschriften zur Arbeitssicherheit und zum
+            Umweltschutz einhalten
+
+
+
+
+
+
+**Teil D: Zusatzqualifikation IT-gestützte Anlagenänderung**
+
+
+*    *   Lfd. Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche
+        Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Planen von Änderungen
+        an Anlagen
+
+    *
+        a)  3D-Datensätze von Rohrleitungssystemen, Profilen, Anlagenteilen oder
+            Blechkonstruktionen erstellen
+
+
+        b)  branchenübliche Software zum Erstellen von Aufmaßen, auch auf Basis
+            von Daten zum computergestützten Konstruieren (CAD-Daten), anwenden
+
+
+        c)  Änderungsmaßnahmen anhand von 3D-Modellen planen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Herstellen und digitales Nachbereiten von
+        Rohrleitungen, Profilen,
+        Anlagenteilen oder
+        Blechkonstruktionen
+
+    *
+        a)  Verfahren zur Fertigung von Rohrleitungen, Profilen, Anlagenteilen
+            oder Blechkonstruktionen auswählen
+
+
+        b)  für die Herstellung von Rohrleitungen, Profilen, Anlagenteilen oder
+            Blechkonstruktionen 3D-Datensätze konvertieren
+
+
+        c)  Datensätze über Schnittstellen an Fertigungsmaschinen übertragen
+
+
+        d)  Prozessparameter anpassen und optimieren
+
+
+        e)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen
+            der Qualitätssicherung durchführen
+
+
+        f)  Ist-Werte im digitalen Zwilling aktualisieren und dokumentieren
 
 
 

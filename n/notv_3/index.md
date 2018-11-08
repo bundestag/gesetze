@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Fünfter teil kapitel viii prüfungspflicht der wirtschaftsbetriebe der öffentlichen hand - bgbl 63-6 - aufgeh. durch
 :   § 119 Abs. 2 Nr. 5 BHO 63-1 v. 19.8.1969 I 1284 mWv 1.1.1970
 
+Vierter teil - bgbl 2331-8 - aufgeh. durch
+:   Art. 18 G v. 8.12.2010 I 1864 mWv 15.12.2010
+
 
 ## Vierter Teil - (weggefallen)
 

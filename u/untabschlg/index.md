@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 990
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 10 G v. 20.6.2011 I 1114
+:   Art. 5 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel

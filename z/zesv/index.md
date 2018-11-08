@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 2663
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.1.2009 I 68
+:   Art. 51 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -104,8 +104,9 @@ Fachrichtungen Biologie oder Medizin als Berichterstatter benannt. Das
 Nähere regelt die Kommission in ihrer Geschäftsordnung (§ 15).
 
 (2) Die Berichterstatter nehmen eine Prüfung und Bewertung nach § 9
-des Stammzellgesetzes vor und geben dazu schriftliche Voten für die
-Stellungnahmen der Kommission ab. Sie berichten der Kommission.
+des Stammzellgesetzes vor und geben dazu schriftliche oder
+elektronische Voten für die Stellungnahmen der Kommission ab. Sie
+berichten der Kommission.
 
 (3) Die Berichterstatter können der Kommission Vorschläge für
 Maßnahmen nach § 7 machen.
@@ -227,7 +228,7 @@ Kommission sind die Aufzeichnungen zu löschen.
 
 (3) Das Sitzungsprotokoll ist vom vorsitzenden Mitglied der Kommission
 und von einer beauftragten Person der Geschäftsstelle zu
-unterzeichnen.
+unterzeichnen, wobei die elektronische Namenswiedergabe genügt.
 
 (4) Die Geschäftsstelle übersendet das Sitzungsprotokoll an die
 Mitglieder, die stellvertretenden Mitglieder und die zuständige

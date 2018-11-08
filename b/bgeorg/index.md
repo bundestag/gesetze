@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1081
 
+Geändert durch
+:   Art. 75 V v. 19.6.2020 I 1328
+
 
 ## § 1 Anwendungsbereich
 
@@ -69,7 +72,7 @@ breite Nutzung nach Absatz 1 Satz 2 gewährleistet sind.
 
 (1) Das Bundesamt für Kartographie und Geodäsie ist eine selbständige
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums des
-Innern.
+Innern, für Bau und Heimat.
 
 (2) Das Bundesamt für Kartographie und Geodäsie hat den Auftrag,
 geodätische Referenzsysteme und -netze sowie geotopographische

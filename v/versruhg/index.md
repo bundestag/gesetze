@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1606, 1684
 
 Zuletzt geändert durch
-:   Art. 21 G v. 20.4.2007 I 554
+:   Art. 305 V v. 19.6.2020 I 1328
 
 
 ## § 1
@@ -50,19 +50,19 @@ beziehen.
 
 ## § 2
 
-(1) Über das Ruhen entscheidet das Bundesversicherungsamt auf
+(1) Über das Ruhen entscheidet das Bundesamt für Soziale Sicherung auf
 Vorschlag der nach § 3 eingesetzten Kommission. Der Vorschlag der
 Kommission ist mit einer schriftlichen Begründung zu versehen.
 
 (2) Dem Berechtigten ist auch der Beschluß der Kommission
-bekanntzugeben. Will das Bundesversicherungsamt in besonders
+bekanntzugeben. Will das Bundesamt für Soziale Sicherung in besonders
 begründeten Fällen von dem Vorschlag der Kommission abweichen, hat es
 dieses zu begründen.
 
-(3) Gegen die Entscheidung des Bundesversicherungsamtes findet ein
-Vorverfahren nicht statt. Die Klage hat keine aufschiebende Wirkung.
-Im sozialgerichtlichen Verfahren gilt § 86b des Sozialgerichtsgesetzes
-entsprechend.
+(3) Gegen die Entscheidung des Bundesamtes für Soziale Sicherung
+findet ein Vorverfahren nicht statt. Die Klage hat keine aufschiebende
+Wirkung. Im sozialgerichtlichen Verfahren gilt § 86b des
+Sozialgerichtsgesetzes entsprechend.
 
 (4) Im gerichtlichen Verfahren ist die Kommission beizuladen.
 
@@ -81,8 +81,8 @@ a)  zwei Mitglieder auf gemeinsamen Vorschlag der Länder Berlin,
 
 
 b)  ein Mitglied auf gemeinsamen Vorschlag der Bundesministerien für
-    Arbeit und Soziales, der Finanzen, des Innern, der Justiz und der
-    Verteidigung.
+    Arbeit und Soziales, der Finanzen, des Innern, für Bau und Heimat, der
+    Justiz und für Verbraucherschutz und der Verteidigung.
 
 
 
@@ -115,9 +115,9 @@ einsehen.
 (3) Die Kommission kann empfehlen, vorläufige Maßnahmen im Sinne des
 Absatzes 4 Satz 1 anzuordnen.
 
-(4) Das Bundesversicherungsamt kann bis zur endgültigen Entscheidung
-ein vorläufiges Ruhen der Versorgung anordnen. § 2 Abs. 3 gilt
-entsprechend.
+(4) Das Bundesamt für Soziale Sicherung kann bis zur endgültigen
+Entscheidung ein vorläufiges Ruhen der Versorgung anordnen. § 2 Abs. 3
+gilt entsprechend.
 
 (5) Für die Übermittlung personenbezogener Daten und die Akteneinsicht
 gelten die für die übermittelnde oder Einsicht gewährende Stelle
@@ -132,8 +132,8 @@ Zehnten Buches Sozialgesetzbuch entsprechend.
 (2) Die Kommission bestimmt aus ihren Reihen einen Vorsitzenden, der
 sie nach außen vertritt. Sie gibt sich eine Geschäftsordnung.
 
-(3) Für die Kommission wird eine Geschäftsstelle beim
-Bundesversicherungsamt eingerichtet.
+(3) Für die Kommission wird eine Geschäftsstelle beim Bundesamt für
+Soziale Sicherung eingerichtet.
 
 
 ## § 6

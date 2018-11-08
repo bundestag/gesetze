@@ -3,7 +3,7 @@ Title: Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüss
   Versicherungsunternehmen
 jurabk: PrüfV
 layout: default
-origslug: pr_fv
+origslug: pruefv
 slug: pruefv
 
 ---

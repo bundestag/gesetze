@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2282
 
+Geändert durch
+:   Art. 15 G v. 23.12.2016 I 3191
+
 
 
 ## Eingangsformel
@@ -52,23 +55,40 @@ für die Pflegeeinrichtung
 1.  Art der Pflegeeinrichtung und der Trägerschaft,
 
 
-2.  in der Pflegeeinrichtung tätige Personen nach Geschlecht,
+2.  in der Pflegeeinrichtung tätige Personen nach Geschlecht, Geburtsjahr,
     Beschäftigungsverhältnis, Tätigkeitsbereich (einschließlich
-    Beschäftigungsumfang in der Pflege) und Berufsabschluss,
+    Beschäftigungsumfang in der Pflege) und Berufsabschluss und zusätzlich
+    bei Auszubildenden und Umschülern Art der Ausbildung und
+    Ausbildungsjahr,
 
 
 3.  Zahl und Art der Pflegeplätze,
 
 
-4.  betreute Pflegebedürftige nach Geschlecht, Geburtsjahr, Grad der
-    Pflegebedürftigkeit sowie bei stationär betreuten Pflegebedürftigen
-    auch die Art der in Anspruch genommenen Pflegeleistung,
+4.  betreute Pflegebedürftige
+
+    a)  nach Geschlecht, Geburtsjahr, Grad der Pflegebedürftigkeit,
+
+
+    b)  bei stationär betreuten Pflegebedürftigen auch die Art der in Anspruch
+        genommenen Pflegeleistung,
+
+
+    c)  bei ambulant betreuten Pflegebedürftigen die Postleitzahl des Wohnorts
+        sowie
+
+
+    d)  bei vollstationär betreuten Pflegebedürftigen die Postleitzahl des
+        Wohnorts vor Einzug in das Pflegeheim,
+
+
+
 
 
 5.  an die Pflegeeinrichtung nach Art und Höhe der Pflegeleistung zu
     zahlende Entgelte für
 
-    a)  allgemeine Pflegeleistungen nach Pflegeklassen und
+    a)  allgemeine Pflegeleistungen nach Pflegegraden und
 
 
     b)  Unterkunft und Verpflegung.
@@ -84,9 +104,15 @@ für die Pflegeeinrichtung
 1.  Art des Leistungsträgers und des privaten Versicherungsunternehmens,
 
 
-2.  Empfänger von Pflegegeldleistungen nach §§ 37 oder 38 des Elften
-    Buches Sozialgesetzbuch nach Geschlecht, Geburtsjahr, Wohnort
-    (Postleitzahl) und Grad der Pflegebedürftigkeit.
+2.  Empfänger von Pflegegeldleistungen nach § 37 oder § 38 des Elften
+    Buches Sozialgesetzbuch sowie Empfänger von Leistungen der nach
+    Landesrecht anerkannten Angebote zur Unterstützung im Alltag im Sinne
+    des § 45a des Elften Buches Sozialgesetzbuch, die dem Pflegegrad 1
+    zugeordnet sind, und Pflegebedürftige mit Pflegegrad 1, die keine
+    Leistungen der Pflegeversicherung im Kostenerstattungsverfahren nach §
+    45b des Elften Buches Sozialgesetzbuch in Anspruch nehmen, nach
+    Geschlecht, Geburtsjahr, Postleitzahl des Wohnortes und Grad der
+    Pflegebedürftigkeit.
 
 
 
@@ -107,8 +133,7 @@ Hilfsmerkmale sind:
     Leistungsträger,
 
 
-4.  Name, Telefon- und Telefaxnummer der für Rückfragen zur Verfügung
-    stehenden Person.
+4.  Name, Kontaktdaten der für Rückfragen zur Verfügung stehenden Person.
 
 
 
@@ -123,8 +148,10 @@ erhoben.
 Dezember und die Angaben nach § 2 Abs. 2 jeweils nach dem Stand vom
 31\. Dezember erhoben.
 
-(3) Die Angaben nach den §§ 2 und 3 sind bis zum 1. April des
+(3) Die Angaben nach den §§ 2 und 3 sind bis zum 15. Februar des
 Folgejahres dem zuständigen Statistischen Landesamt zu melden.
+Abweichend davon gilt für die Träger der Pflegeversicherung und die
+privaten Versicherungsunternehmen der 1. April des Folgejahres.
 
 
 ## § 5 Auskunftspflicht
@@ -140,8 +167,8 @@ Pflegedienste haben Angaben zu den Erhebungsmerkmalen nach § 2 Abs. 1
 Nr. 1, 2 und 4, die Träger der Pflegeheime Angaben nach § 2 Abs. 1 Nr.
 1 bis 5, die Träger der Pflegeversicherung und die privaten
 Versicherungsunternehmen Angaben nach § 2 Abs. 2 zu machen. Die Träger
-der Pflegeversicherung können die Spitzenverbände der Pflegekassen
-beauftragen, die Auskunftspflicht zu erfüllen.
+der Pflegeversicherung können Dritte beauftragen, die Auskunftspflicht
+zu erfüllen.
 
 (3) Die Auskunftspflichtigen übermitteln die Angaben nach § 2 in
 maschinenlesbarer Form, soweit die notwendigen technischen
@@ -171,8 +198,8 @@ Pflegeeinrichtungen.
 
 Die statistischen Ämter der Länder sind berechtigt, mit Zustimmung der
 Betroffenen zweijährlich ein Verzeichnis mit Namen, Anschrift,
-Telefon- und Telefaxnummer, Träger und Art der Pflegeeinrichtung sowie
-Zahl und Art der Pflegeplätze eines Pflegeheimes zu veröffentlichen.
+Kontaktdaten, Träger und Art der Pflegeeinrichtung sowie Zahl und Art
+der Pflegeplätze eines Pflegeheimes zu veröffentlichen.
 
 
 ## § 8 Inkrafttreten

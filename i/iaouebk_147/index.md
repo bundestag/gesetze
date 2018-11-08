@@ -2,7 +2,7 @@
 Title: Übereinkommen über Mindestnormen auf Handelsschiffen
 jurabk: IAOÜbk 147
 layout: default
-origslug: iao_bk_147
+origslug: iaouebk_147
 slug: iaouebk_147
 
 ---

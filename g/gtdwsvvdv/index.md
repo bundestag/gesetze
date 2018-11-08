@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst
-  in der Wasser- und Schifffahrtsverwaltung des Bundes
+  in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 jurabk: GtDWSVVDV
 layout: default
 origslug: gtdwsvvdv
@@ -8,13 +8,16 @@ slug: gtdwsvvdv
 
 ---
 
-# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes (GtDWSVVDV)
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes (GtDWSVVDV)
 
 Ausfertigungsdatum
 :   2012-12-14
 
 Fundstelle
 :   BGBl I: 2012, 2974
+
+Zuletzt geändert durch
+:   Art. 26 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -31,8 +34,8 @@ verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 ### § 1 Vorbereitungsdienst
 
 Der Vorbereitungsdienst für den gehobenen technischen
-Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes
-ist,
+Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes ist,
 
 1.  wenn die für die Laufbahnaufgaben erforderlichen wissenschaftlichen
     und methodischen Kenntnisse durch einen Bachelorabschluss oder einen
@@ -52,9 +55,9 @@ ist,
 
 (1) Der Vorbereitungsdienst vermittelt Kenntnisse und Fähigkeiten, die
 für eine vielseitige Verwendung im gehobenen technischen
-Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes
-erforderlich sind. Die Anwärterinnen und Anwärter werden
-praxisorientiert mit den Aufgaben der Wasser- und
+Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes erforderlich sind. Die Anwärterinnen und Anwärter werden
+praxisorientiert mit den Aufgaben der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes vertraut gemacht und lernen,
 technische, wirtschaftliche und verwaltungsspezifische Zusammenhänge
 zu erkennen und das ihnen vermittelte Wissen entsprechend den
@@ -120,8 +123,8 @@ Auswahlmaßstäbe anlegen.
 
 
 2.  einer Beamtin oder einem Beamten des gehobenen technischen
-    Verwaltungsdienstes der Wasser- und Schifffahrtsverwaltung des Bundes
-    sowie
+    Verwaltungsdienstes der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes sowie
 
 
 3.  einer Beamtin oder einem Beamten des gehobenen nichttechnischen oder
@@ -327,7 +330,7 @@ Auf- oder Abrundung berechnet.
 (1) Die berufspraktische Ausbildung umfasst Praktika und
 Lehrveranstaltungen. Während der berufspraktischen Ausbildung erwerben
 die Anwärterinnen und Anwärter die für die Erfüllung der Aufgaben im
-gehobenen technischen Verwaltungsdienst in der Wasser- und
+gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes erforderlichen Fachkenntnisse und
 Fähigkeiten, die über die nach § 1 Nummer 1 nachgewiesenen Kenntnisse
 hinausgehen. Sie lernen, ihre theoretischen Kenntnisse in der Praxis
@@ -336,11 +339,12 @@ anzuwenden.
 (2) Für die Gestaltung, Durchführung und Überwachung der
 berufspraktischen Ausbildung ist die Einstellungsbehörde
 verantwortlich. Die berufspraktische Ausbildung findet in
-Dienststellen der Wasser- und Schifffahrtsverwaltung einschließlich
-ihrer Schulungseinrichtungen statt. Einzelne Praktika können auch bei
-anderen Behörden oder Unternehmen im In- oder Ausland oder bei über-
-oder zwischenstaatlichen Einrichtungen absolviert werden. Die
-berufspraktische Ausbildung kann durch Exkursionen ergänzt werden.
+Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung
+einschließlich ihrer Schulungseinrichtungen statt. Einzelne Praktika
+können auch bei anderen Behörden oder Unternehmen im In- oder Ausland
+oder bei über- oder zwischenstaatlichen Einrichtungen absolviert
+werden. Die berufspraktische Ausbildung kann durch Exkursionen ergänzt
+werden.
 
 
 ### § 8 Ausbildungsleitung, Ausbildende
@@ -436,8 +440,8 @@ Vorbereitungsdienst beendet.
 ### § 13 Dauer und Aufbau des Studiums
 
 Das Studium umfasst ein Bachelorstudium sowie zwei berufspraktische
-Studienzeiten, die in der Regel in Dienststellen der Wasser- und
-Schifffahrtsverwaltung einschließlich ihrer Schulungseinrichtungen
+Studienzeiten, die in der Regel in Dienststellen der Wasserstraßen-
+und Schifffahrtsverwaltung einschließlich ihrer Schulungseinrichtungen
 absolviert werden. Das Studium gliedert sich wie folgt:
 
 *    *   Nr.
@@ -453,7 +457,8 @@ absolviert werden. Das Studium gliedert sich wie folgt:
 
     *   berufspraktische Studienzeit I
 
-    *   in den Dienststellen der Wasser- und Schifffahrtsverwaltung des Bundes
+    *   in den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
+        Bundes
 
     *   1,5 Monate
 
@@ -474,15 +479,16 @@ absolviert werden. Das Studium gliedert sich wie folgt:
     *   Praxissemester und Praxisphasen
         während des Bachelorstudiums
 
-    *   in den Dienststellen der Wasser- und Schifffahrtsverwaltung nach den
-        an der kooperierenden Hochschule geltenden Bestimmungen
+    *   in den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung
+        nach den an der kooperierenden Hochschule geltenden Bestimmungen
 
 
 *    *   4
 
     *   berufspraktische Studienzeit II
 
-    *   in den Dienststellen der Wasser- und Schifffahrtsverwaltung des Bundes
+    *   in den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
+        Bundes
 
     *   insgesamt 6 Monate
         während der vorlesungsfreien Zeiten des Bachelorstudiums und nach
@@ -496,7 +502,7 @@ absolviert werden. Das Studium gliedert sich wie folgt:
 
 (1) Die im Studium zu vermittelnden Kenntnisse und Fähigkeiten
 orientieren sich an den Anforderungen der Fachrichtungen des gehobenen
-technischen Verwaltungsdienstes in der Wasser- und
+technischen Verwaltungsdienstes in der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes. Die Einstellungsbehörde wählt einen
 geeigneten Bachelorstudiengang aus und legt diesen als Teil des
 Vorbereitungsdienstes fest.
@@ -513,7 +519,7 @@ das Bachelorstudium der Hochschule zu.
 (1) Die berufspraktische Studienzeit I wird zu Beginn des
 Vorbereitungsdienstes als Kombination von Praktikum und
 Lehrveranstaltung durchgeführt. Sie dient dazu, den Anwärterinnen und
-Anwärtern einen Überblick über die Aufgaben der Wasser- und
+Anwärtern einen Überblick über die Aufgaben der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes zu geben.
 
 (2) Die berufspraktische Studienzeit II wird überwiegend während der
@@ -556,7 +562,7 @@ der Abschlussprüfung eine Ausfertigung des Zeugnisses.
 (1) In der Laufbahnprüfung haben die Anwärterinnen und Anwärter
 nachzuweisen, dass sie die erforderlichen Fachkenntnisse erworben
 haben und fähig sind, die Aufgaben in der Laufbahn des gehobenen
-technischen Verwaltungsdienstes in der Wasser- und
+technischen Verwaltungsdienstes in der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes selbstständig zu erfüllen.
 
 (2) In der berufspraktischen Ausbildung besteht die Laufbahnprüfung
@@ -664,7 +670,8 @@ Prüfungsfächer sind
 2.  in der Fachrichtung Schiffbau, Nachrichten-, Elektro- und
     Maschinentechnik die Fächer:
 
-    a)  Maschinenwesen der Wasser- und Schifffahrtsverwaltung des Bundes,
+    a)  Maschinenwesen der Wasserstraßen- und Schifffahrtsverwaltung des
+        Bundes,
 
 
     b)  fachbezogene Verwaltungsaufgaben sowie
@@ -731,9 +738,8 @@ abgewichen werden, wenn einer der beiden Prüfenden zustimmt.
 
 (8) Die schriftliche Abschlussprüfung ist bestanden, wenn mindestens
 zwei Klausuren mit mindestens fünf Rangpunkten bewertet worden sind.
-Das Prüfungsamt teilt den Anwärterinnen und Anwärtern auf
-schriftlichen Antrag mit, wie viele Rangpunkte sie in ihren Klausuren
-erreicht haben.
+Das Prüfungsamt teilt den Anwärterinnen und Anwärtern auf Antrag mit,
+wie viele Rangpunkte sie in ihren Klausuren erreicht haben.
 
 
 ### § 22 Mündliche Abschlussprüfung
@@ -779,7 +785,7 @@ und stellt sicher, dass die Anwärterinnen und Anwärter in geeigneter
 Weise geprüft werden. Gegenstand, Verlauf und Ergebnis der Prüfung
 werden von einem Mitglied des Prüfungsamtes protokolliert. Das
 Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission zu
-unterschreiben.
+bestätigen.
 
 (5) Die mündliche Abschlussprüfung ist nicht öffentlich. Angehörige
 des Prüfungsamtes können jedoch unabhängig vom Einverständnis der

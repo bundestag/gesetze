@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2622 (2003 I 277)
 
-Geändert durch
-:   Art. 1 V v. 12.5.2004 I 931
+Zuletzt geändert durch
+:   Art. 1 V v. 31.10.2016 I 2493
 
 
 ## Eingangsformel
@@ -205,20 +205,17 @@ Prüfungsausschuss in einem Fachgespräch von höchstens 15 Minuten zu
 erläutern. Dem Prüfling ist vor der Prüfung Gelegenheit zu geben, das
 System zur rechnergestützten Zeichnungserstellung, an dem er geprüft
 wird, in einem angemessenen Zeitraum kennen zu lernen. Die praktischen
-Aufgaben sind unter Berücksichtigung des Schwerpunktes nach § 5 Abs. 1
-Satz 1 aus zwei der nachfolgenden Bereiche zu entnehmen. Die Bereiche,
-aus denen die Aufgaben entnommen werden, sind vom Prüfling
+Aufgaben sind unter Berücksichtigung des Schwerpunktes nach § 5 Absatz
+1 Satz 1 aus zwei der nachfolgenden Bereiche zu entnehmen. Die
+Bereiche, aus denen die Aufgaben entnommen werden, sind vom Prüfling
 festzulegen. Es kommen folgende Bereiche in Betracht:
 
 1.  im Schwerpunkt Architektur:
 
-    a)  Erstellen von Planunterlagen zur Baueingabe nach Entwurfsskizzen,
+    a)  Erstellen von Planunterlagen zur Baueingabe nach Entwurfsskizzen und
 
 
-    b)  Erstellen von Ausführungsunterlagen für den Rohbau und
-
-
-    c)  Erstellen von Ausführungsunterlagen für den Ausbau;
+    b)  Erstellen von Ausführungsunterlagen für den Rohbau und Ausbau;
 
 
 
@@ -226,14 +223,10 @@ festzulegen. Es kommen folgende Bereiche in Betracht:
 
 2.  im Schwerpunkt Ingenieurbau:
 
-    a)  Erstellen eines Schalplanes oder einer Rohbauzeichnung für ein
-        Tragwerk,
+    a)  Erstellen einer Rohbauzeichnung für ein Tragwerk und
 
 
-    b)  Erstellen einer Bewehrungszeichnung und
-
-
-    c)  Erstellen von Ausführungsunterlagen für den Stahl- oder Holzbau;
+    b)  Erstellen einer Bewehrungszeichnung;
 
 
 
@@ -620,12 +613,17 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 11 Weitere Übergangsregelung
 
-Diese Verordnung tritt am 1. August 2002 in Kraft.
+Berufsausbildungsverhältnisse, die am 1. August 2017 bereits bestehen,
+können nach den Vorschriften dieser Verordnung in der ab dem 1. August
+2017 geltenden Fassung unter Anrechnung der bisher absolvierten
+Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies
+vereinbaren.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 
 (Fundstelle: BGBl. I 2002, 2625 - 2630)
 

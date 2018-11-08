@@ -38,8 +38,9 @@ Verbraucherschutz verordnet auf Grund
 
 
 
+Erhebung der Abgabe
 
-## § 1 Erhebung der Abgabe (zu § 44 Abs. 2 des Weingesetzes)
+## § 1 (zu § 44 Abs. 2 des Weingesetzes)
 
 (1) Die Abgabeschuld für die Abgabe nach § 43 Abs. 1 Satz 1 Nr. 2 und
 Satz 2 des Weingesetzes (Abgabe) entsteht vorbehaltlich des Absatzes 6
@@ -94,15 +95,17 @@ rückständige Abgabebetrag auf volle 50 Euro nach unten gerundet.
 (9) Die Abgabeschuld verjährt am Ende des fünften Jahres nach Ablauf
 des Jahres, in dem die Zahlung fällig geworden ist.
 
+Sammlung der Belege und Aufbewahrungsfrist
 
-## § 2 Sammlung der Belege und Aufbewahrungsfrist (zu § 44 Abs. 2 des Weingesetzes)
+## § 2 (zu § 44 Abs. 2 des Weingesetzes)
 
 Der Abgabeschuldner ist verpflichtet, die Verkaufs- und Abgabebelege
 vollständig zu sammeln und bis zum Ende des fünften Jahres nach Ablauf
 des Jahres aufzubewahren, in dem die Zahlung fällig geworden ist.
 
+Mitteilungspflicht
 
-## § 3 Mitteilungspflicht (zu § 44 Abs. 2 des Weingesetzes)
+## § 3 (zu § 44 Abs. 2 des Weingesetzes)
 
 Der Abgabeschuldner ist verpflichtet, dem Deutschen Weinfonds auf
 Verlangen mitzuteilen, in welcher Menge er die in § 43 Abs. 1 Satz 1

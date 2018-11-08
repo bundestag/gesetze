@@ -504,8 +504,10 @@ im Geltungsbereich dieses Gesetzes befindet.
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft \*).
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt II
+(BGBl. II 1990, 889, 959)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt II (BGBl. II 1990, 889, 959) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt II
 Bundesrecht wird wie folgt geändert und ergänzt:

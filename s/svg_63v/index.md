@@ -15,11 +15,20 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1962, 367
 
+Stand: Zukünftige amtl. Langüberschrift: Verordnung über die einmalige Unfallentschädigung nach § 84 des Soldatenversorgungsgesetzes (ab 1.1.2025; 2021 I 3932)
+Stand: Zukünftige amtl. Kurzüberschrift: Soldaten-Unfallentschädigungsverordnung (ab 1.1.2025; 2021 I 3932)
+Stand: Zukünftige amtl. Buchstabenabkürzung: SUEV (ab 1.1.2025; 2021 I 3932)
 Neugefasst durch
 :   Bek. v. 29.6.1977 I 1178;
 
-Geändert durch
-:   Art. 7 G v. 16.8.2001 I 2093
+Zuletzt geändert durch
+:   Art. 14 G v. 20.8.2021 I 3932
+
+[^BJNR003670962_01]:     Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 14 Nr. 1 G v.
+    20\.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:  **Verordnung über
+    die einmalige Unfallentschädigung nach § 84 des
+    Soldatenversorgungsgesetzes (Soldaten-Unfallentschädigungsverordnung -
+    SUEV)**
 
 
 ## § 1 Flugdienst

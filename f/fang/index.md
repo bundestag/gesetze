@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1960, 93
 
 Zuletzt geändert durch
-:   Art. 16 G v. 20.4.2007 I 554
+:   Art. 303 V v. 19.6.2020 I 1328
 
 
 ## Inhaltsverzeichnis
@@ -193,60 +193,9 @@ Arbeitsunfälle und Berufskrankheiten, wenn für die Entscheidung über
 die Entschädigung eine Stelle in Estland, Lettland oder Litauen nach
 dem 30. April 2004 zuständig ist.
 
-(2) Bis die verfügbare Standardrente (§ 68 Abs. 3 Sechstes Buch
-Sozialgesetzbuch) im Beitrittsgebiet 70 vom Hundert der verfügbaren
-Standardrente im Gebiet der Bundesrepublik Deutschland ohne das
-Beitrittsgebiet erreicht hat, ist bei Berechtigten nach dem
-Fremdrentengesetz, die
+(2) (weggefallen)
 
-a)  ihren gewöhnlichen Aufenthalt im Beitrittsgebiet haben, oder
-
-
-b)  nach dem 31. Dezember 1990 ihren gewöhnlichen Aufenthalt aus dem
-    Beitrittsgebiet in das Gebiet der Bundesrepublik Deutschland ohne das
-    Beitrittsgebiet verlegen,
-
-
-
-und jeweils dort nach dem 31. Dezember 1991 einen Anspruch auf Zahlung
-einer Rente nach dem Fremdrentengesetz erwerben, für nach dem
-Fremdrentengesetz zu entschädigende Arbeitsunfälle und
-Berufskrankheiten die Rente festzusetzen, indem der sich ohne
-Anwendung des § 8 Abs. 3 Fremdrentengesetz ergebende Rentenzahlbetrag
-mit dem Vomhundertsatz vervielfältigt wird, der dem jeweiligen
-Verhältnis der verfügbaren Standardrente im Beitrittsgebiet zur
-verfügbaren Standardrente im Gebiet der Bundesrepublik Deutschland
-ohne das Beitrittsgebiet entspricht. Bei Berechtigten nach dem
-Fremdrentengesetz, die nach dem 31. Dezember 1991 ihren gewöhnlichen
-Aufenthalt aus dem Gebiet der Bundesrepublik Deutschland ohne das
-Beitrittsgebiet in das Beitrittsgebiet verlegen und bereits vor der
-Verlegung des gewöhnlichen Aufenthalts einen Anspruch auf Zahlung
-einer Rente nach dem Fremdrentengesetz für Arbeitsunfälle und
-Berufskrankheiten haben, die außerhalb des Gebiets der Bundesrepublik
-Deutschland eingetreten sind, ist diese Rente entsprechend Satz 1 neu
-festzusetzen. Bei Berechtigten nach Satz 1 Buchstabe a und nach Satz
-2, die ihren gewöhnlichen Aufenthalt aus dem Beitrittsgebiet in das
-Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet
-verlegen, verbleibt es für nach dem Fremdrentengesetz zu
-entschädigende Arbeitsunfälle und Berufskrankheiten bei dem nach den
-Sätzen 1 oder 2 festgesetzten Rentenzahlbetrag.
-
-(3) Renten, deren Zahlbeträge nach Absatz 3 mit dem dort bezeichneten
-Vomhundertsatz vervielfältigt wurden, werden zu dem Zeitpunkt und um
-den Vomhundertsatz erhöht, um den die Renten im Beitrittsgebiet
-aufgrund allgemeiner Rentenanpassungen erhöht werden, bis die
-verfügbare Standardrente im Beitrittsgebiet 70 vom Hundert der
-verfügbaren Standardrente im Gebiet der Bundesrepublik Deutschland
-ohne das Beitrittsgebiet erreicht; ab diesem Zeitpunkt werden die
-Renten zu dem Zeitpunkt und um den Vomhundertsatz erhöht, um den die
-Renten im Gebiet der Bundesrepublik Deutschland ohne das
-Beitrittsgebiet erhöht werden. Bei Personen, die vor dem 1. Januar
-1991 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik
-Deutschland einschließlich des Beitrittsgebiets genommen haben, sowie
-bei Personen nach Absatz 1 Buchstabe b und c werden Renten nach Satz 1
-auch nach dem in Satz 1 genannten Zeitpunkt zu dem Zeitpunkt und um
-den Vomhundertsatz erhöht, um den die Renten im Beitrittsgebiet
-aufgrund allgemeiner Rentenanpassungen erhöht werden.
+(3) (weggefallen)
 
 (4) Auf Berechtigte nach dem Fremdrentengesetz mit einer Rente, die
 auf einem Arbeitsunfall oder einer Berufskrankheit in dem in Artikel 3
@@ -294,8 +243,8 @@ erworben hat.
 
 (2) Besteht vor dem 1. Juli 1990 ein Anspruch auf Zahlung einer Rente,
 ist das Fremdrentengesetz in seiner bis zum 30. Juni 1990 geltenden
-Fassung  weiter anzuwenden. Für Zeiten eines weiteren Rentenbezugs
-gilt Absatz 3 Satz 1 und 2 entsprechend, wenn die Rentenbezugszeiten
+Fassung weiter anzuwenden. Für Zeiten eines weiteren Rentenbezugs gilt
+Absatz 3 Satz 1 und 2 entsprechend, wenn die Rentenbezugszeiten
 unmittelbar aneinander anschließen.
 
 (3) Hat der Berechtigte bis zum 30. Juni 1990 einen gewöhnlichen
@@ -342,8 +291,8 @@ finden keine Anwendung auf Berechtigte, die nach Maßgabe des Abkommens
 vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der
 Republik Polen über Soziale Sicherheit Ansprüche und Anwartschaften
 auf der Grundlage des Abkommens vom 9. Oktober 1975 zwischen der
-Bundesrepublik Deutschland und der Volksrepublik Polen über
-Unfallversicherung haben oder
+Bundesrepublik Deutschland und der Volksrepublik Polen über Renten-
+und Unfallversicherung haben.
 
 (6) Bei Berechtigten nach dem Fremdrentengesetz, die
 
@@ -547,10 +496,11 @@ entgegen, wenn ohne die Nachversicherung eine ausreichende
 anderweitige Alters- und Hinterbliebenensicherung nicht gewährleistet
 ist; das Nähere bestimmen das Bundesministerium für Arbeit und
 Soziales, das Bundesministerium der Finanzen und das Bundesministerium
-des Innern durch Rechtsverordnung mit Zustimmung des Bundesrates. Hat
-der Jahresarbeitsverdienst in den in Satz 1 bezeichneten Fällen die
-Versicherungspflichtgrenze überschritten, so gilt die Nachversicherung
-als bis zur Höhe der Versicherungspflichtgrenze durchgeführt.
+des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung
+des Bundesrates. Hat der Jahresarbeitsverdienst in den in Satz 1
+bezeichneten Fällen die Versicherungspflichtgrenze überschritten, so
+gilt die Nachversicherung als bis zur Höhe der
+Versicherungspflichtgrenze durchgeführt.
 
 (4) § 72 Abs. 2, 4 bis 6, 10 und 11 sowie § 81a des Gesetzes zu
 Artikel 131 des Grundgesetzes gelten entsprechend.
@@ -606,12 +556,12 @@ gilt nicht als durchgeführt, wenn auch ohne sie eine ausreichende
 anderweitige Alters- und Hinterbliebenensicherung gewährleistet ist;
 das Nähere bestimmen das Bundesministerium für Arbeit und Soziales,
 das Bundesministerium der Finanzen und das Bundesministerium des
-Innern durch Rechtsverordnung mit Zustimmung des Bundesrates. Die
-Sätze 1 bis 4 gelten vom 1. Januar 1992 an nur noch für Personen, die
-einen Anspruch auf eine nach den Vorschriften des Sechsten Buches
-Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der
-Nachversicherung erwerben würden. § 18 Abs. 2 und 4 bis 6 gilt
-entsprechend.
+Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des
+Bundesrates. Die Sätze 1 bis 4 gelten vom 1. Januar 1992 an nur noch
+für Personen, die einen Anspruch auf eine nach den Vorschriften des
+Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder
+aufgrund der Nachversicherung erwerben würden. § 18 Abs. 2 und 4 bis 6
+gilt entsprechend.
 
 
 ### § 20
@@ -633,14 +583,14 @@ ausreichende anderweitige Alters- und Hinterbliebenensicherung nicht
 besteht, unter entsprechender Anwendung des § 72 Abs. 11 des Gesetzes
 zu Artikel 131 des Grundgesetzes bei der Versorgungsanstalt des Bundes
 und der Länder nachversichert werden. Das Nähere regeln die
-Bundesministerien der Finanzen und des Innern durch Rechtsverordnung
-mit Zustimmung des Bundesrates; in dieser kann auch die Anrechnung
-bereits aus dem Versorgungsstock gewährter Leistungen sowie deren
-Abtretung und die Gewährung einer Abfindung vorgesehen werden. Die
-Sätze 1 und 2 gelten vom 1. Januar 1992 an nur noch für Personen, die
-einen Anspruch auf eine nach den Vorschriften des Sechsten Buches
-Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der
-Nachversicherung erwerben würden.
+Bundesministerien der Finanzen und des Innern, für Bau und Heimat
+durch Rechtsverordnung mit Zustimmung des Bundesrates; in dieser kann
+auch die Anrechnung bereits aus dem Versorgungsstock gewährter
+Leistungen sowie deren Abtretung und die Gewährung einer Abfindung
+vorgesehen werden. Die Sätze 1 und 2 gelten vom 1. Januar 1992 an nur
+noch für Personen, die einen Anspruch auf eine nach den Vorschriften
+des Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder
+aufgrund der Nachversicherung erwerben würden.
 
 
 ### § 22
@@ -825,5 +775,5 @@ r)  bis u) ...
 
 (2) (weggefallen)
 
-(3)
+(3) (gegenstandslos)
 

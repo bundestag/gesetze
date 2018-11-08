@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.10.1997 I 2684;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 29.7.2008 I 1509
+:   Art. 9 V v. 25.6.2020 I 1495
 
 
 ## 1. - Beiträge an Bausparkassen zur Erlangung von Baudarlehen
@@ -131,10 +131,35 @@ Abtretungsempfängers über die Verwendungsabsicht beibringt.
 
 ### § 3
 
-Bau- und Wohnungsgenossenschaften im Sinne des § 2 Abs. 1 Nr. 2 des
-Gesetzes sind Genossenschaften, deren Zweck auf den Bau und die
-Finanzierung sowie die Verwaltung oder Veräußerung von Wohnungen oder
-auf die wohnungswirtschaftliche Betreuung gerichtet ist.
+Bau- und Wohnungsgenossenschaften im Sinne des § 2 Absatz 1 Nummer 2
+des Gesetzes sind Genossenschaften, die nach dem in ihrer Satzung
+festgesetzten Gegenstand und nach der tatsächlichen Geschäftstätigkeit
+des Unternehmens die Versorgung ihrer Mitglieder mit Wohnungen
+bezwecken. Die tatsächliche Geschäftstätigkeit bezweckt dann die
+Versorgung der Mitglieder mit Wohnungen, wenn mehr als 50 Prozent des
+Betrags der Geschäftsguthaben der Mitglieder verwendet wird für
+
+1.  den Bau oder den Erwerb von Wohnungen, die von den Mitgliedern genutzt
+    werden sollen, oder
+
+
+2.  die Verwaltung, Bestandserhaltung oder Modernisierung von Wohnungen,
+    die von den Mitgliedern genutzt werden.
+
+
+
+Bei neu gegründeten Genossenschaften reicht es in den ersten drei
+Jahren ihres Bestehens für die tatsächliche Geschäftstätigkeit aus,
+wenn die Genossenschaft unverzüglich mit dem Bau oder dem Erwerb von
+Wohnungen, die von ihren Mitgliedern genutzt werden sollen, beginnt,
+wobei die üblichen Vorbereitungen wie Bauland- oder
+Gebäudebeschaffung, Planungs- und Bauantragsverfahren mit
+einzubeziehen sind. Bau- und Wohnungsgenossenschaften im Sinne des § 2
+Absatz 1 Nummer 2 des Gesetzes haben gegenüber der Bausparkasse sowie
+gegenüber ihren Mitgliedern in Textform zu erklären, dass die
+vorgenannten Voraussetzungen vorliegen, und sind verpflichtet, einen
+Wegfall dieser Voraussetzungen unverzüglich anzuzeigen. Die
+Bausparkasse hat diese Unterlagen zu den Aufzeichnungen zu nehmen.
 
 
 ## 3. - Wohnbau-Sparverträge
@@ -609,5 +634,7 @@ Leistungen darstellen,
 
 Diese Verordnung in der Fassung des Artikels 6 des Gesetzes vom 29.
 Juli 2008 (BGBl. I S. 1509) ist erstmals für das Sparjahr 2009
-anzuwenden.
+anzuwenden. § 3 in der Fassung der Verordnung vom 25. Juni 2020 (BGBl.
+I S. 1495) ist anzuwenden, soweit der Erwerb von Anteilen an Bau- und
+Wohnungsgenossenschaften nach dem 31. Dezember 2020 erfolgt.
 

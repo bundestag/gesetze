@@ -453,8 +453,9 @@ Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Böttcher vom 9. August
 1978 (BGBl. I S. 1253) außer Kraft.
 
+(zu § 3 Absatz 1)
 
-## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Böttcher und zur Böttcherin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Böttcher und zur Böttcherin
 
 (Fundstelle: BGBl. I 2010, 604 - 608)
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3982
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.6.2012 I 1454
+:   Art. 3a V v. 8.10.2013 I 3772
 
 
 ## Eingangsformel
@@ -61,8 +61,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Abs. 1)
 
-## Anlage (zu § 1 Abs. 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2004, 2709 - 2710;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -97,8 +98,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.3
 
-    *   Berichtigung/Ersatzausstellung der Erlaubnis/Gemeinschaftslizenz oder
-        einer Ausfertigung/beglaubigten Kopie
+    *   Berichtigung/Ersatzausstellung/Änderung der
+        Erlaubnis/Gemeinschaftslizenz oder einer Ausfertigung/beglaubigten
+        Kopie
 
     *   40 - 100
 
@@ -129,8 +131,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.7
 
-    *   Berichtigung/Ersatzausstellung der Fahrerbescheinigung oder der
-        beglaubigten Kopie
+    *   Berichtigung/Ersatzausstellung/Änderung der Fahrerbescheinigung oder
+        der beglaubigten Kopie
 
     *   30 - 60
 
@@ -189,7 +191,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.2
 
-    *   Berichtigung/Ersatzausstellung einer CEMT-Jahresgenehmigung
+    *   Berichtigung/Ersatzausstellung/Änderung einer CEMT-Jahresgenehmigung
         einschließlich Fahrtenberichtheft
 
     *   30 - 60
@@ -218,7 +220,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.2
 
-    *   Berichtigung/Ersatzausstellung einer CEMT-Umzugsgenehmigung
+    *   Berichtigung/Ersatzausstellung/Änderung einer CEMT-Umzugsgenehmigung
 
     *   20 - 30
 
@@ -278,7 +280,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.4
 
-    *   Berichtigung/Ersatzausstellung einer befristeten Genehmigung
+    *   Berichtigung/Ersatzausstellung/Änderung einer befristeten Genehmigung
 
     *   10 - 20
 

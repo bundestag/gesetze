@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1926
 
+Zuletzt geändert durch
+:   Art. 62 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -30,10 +33,11 @@ und Technologie:
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
-(1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
-Geprüften Polier und zur Geprüften Polierin nach den §§ 2 bis 10
-durchführen, in denen die auf einen beruflichen Aufstieg abzielende
-Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
+(1) Industrie- und Handelskammern und Handwerkskammern können als
+zuständige Stellen berufliche Fortbildungsprüfungen zum Geprüften
+Polier und zur Geprüften Polierin nach den §§ 2 bis 10 durchführen, in
+denen die auf einen beruflichen Aufstieg abzielende Erweiterung der
+beruflichen Handlungsfähigkeit nachzuweisen ist.
 
 (2) Ziel der Prüfung ist der Nachweis der Befähigung, Prozesse im
 Hochbau oder Tiefbau zu organisieren und zu überwachen und die hierfür
@@ -176,9 +180,8 @@ der letzten Prüfungsleistung zu erbringen.
 
 
 (4) Der Prüfungsteil „Bautechnik“ umfasst die Bereiche „Hochbau“ und
-„Tiefbau“. Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin
-bestimmt ob im Bereich „Hochbau“ oder im Bereich „Tiefbau“ geprüft
-werden soll.
+„Tiefbau“. Die zu prüfende Person bestimmt ob im Bereich „Hochbau“
+oder im Bereich „Tiefbau“ geprüft werden soll.
 
 (5) Die einzelnen Prüfungsteile können in beliebiger Reihenfolge
 geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei
@@ -261,25 +264,24 @@ Qualifikationsinhalte geprüft werden:
 
 (3) Zum Nachweis der Qualifikationen ist eine Projektarbeit über eine
 Baumaßnahme oder einen Teil einer Baumaßnahme einschließlich
-Dokumentation anzufertigen. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin reicht hierzu einen Vorschlag aus der
-Berufspraxis ein. Der Prüfungsausschuss führt darüber ein
-Beratungsgespräch und trifft eine Zielvereinbarung über Inhalte, Art
-und Umfang der zu erstellenden Dokumentation sowie den Abgabetermin.
-Zwischen dem Tag des Beratungsgesprächs und dem Abgabetermin der
-Dokumentation darf längstens ein Zeitraum von 30 Kalendertagen liegen.
+Dokumentation anzufertigen. Die zu prüfende Person reicht hierzu einen
+Vorschlag aus der Berufspraxis ein. Der Prüfungsausschuss führt
+darüber ein Beratungsgespräch und trifft eine Zielvereinbarung über
+Inhalte, Art und Umfang der zu erstellenden Dokumentation sowie den
+Abgabetermin. Zwischen dem Tag des Beratungsgesprächs und dem
+Abgabetermin der Dokumentation darf längstens ein Zeitraum von 30
+Kalendertagen liegen.
 
 (4) Entspricht die Dokumentation der Projektarbeit der
 Zielvereinbarung nach Absatz 3, sind die Inhalte vor dem
 Prüfungsausschuss zu präsentieren. Die Form der Präsentation und der
-Einsatz technischer Mittel stehen dem Prüfungsteilnehmer oder der
-Prüfungsteilnehmerin frei. Die verwendeten Präsentationsunterlagen
-sind dem Prüfungsausschuss zu überlassen. Nach der Präsentation
-schließt sich ein Fachgespräch an, das auf der Grundlage der
-Dokumentation und der Präsentation geführt wird. Die Präsentation soll
-mindestens zehn Minuten und höchstens 15 Minuten, das Fachgespräch und
-die Präsentation zusammen mindestens 30 Minuten und höchstens 45
-Minuten dauern.
+Einsatz technischer Mittel stehen der zu prüfenden Person frei. Die
+verwendeten Präsentationsunterlagen sind dem Prüfungsausschuss zu
+überlassen. Nach der Präsentation schließt sich ein Fachgespräch an,
+das auf der Grundlage der Dokumentation und der Präsentation geführt
+wird. Die Präsentation soll mindestens zehn Minuten und höchstens 15
+Minuten, das Fachgespräch und die Präsentation zusammen mindestens 30
+Minuten und höchstens 45 Minuten dauern.
 
 
 ## § 5 Prüfungsteil „Bautechnik“
@@ -537,7 +539,8 @@ nachzuweisen:
 
 
     b)  Anwenden von Arbeits- und Gesundheitsschutzbestimmungen, des
-        Arbeitszeitgesetzes und des Jugendarbeitsschutzgesetzes,
+        Arbeitszeitgesetzes, des Mutterschutzgesetzes und des
+        Jugendarbeitsschutzgesetzes,
 
 
     c)  Anwenden von Vorschriften des Sozialversicherungsrechts,
@@ -576,99 +579,141 @@ Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 7 Befreiung von einzelnen Prüfungsbestandteilen
 
-(1) Die Prüfungsleistungen in den Prüfungsteilen „Baubetrieb“,
-„Bautechnik“ sowie „Mitarbeiterführung und Personalmanagement“ sind
-getrennt nach Punkten zu bewerten.
-
-(2) Im Prüfungsteil „Baubetrieb“ sind die Projektarbeit und die
-Präsentation einerseits und das Fachgespräch andererseits getrennt zu
-bewerten. Es ist eine Note zu bilden. Dabei sind die
-Prüfungsleistungen wie folgt zu gewichten:
-
-1.
-    *        *   Projektarbeit
-
-        *   50 Prozent,
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes oder § 42c Absatz 2 der Handwerksordnung von
+der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
+Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht.
+Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8
+Absatz 2 Satz 3, Absatz 3 Satz 2, Absatz 4 Satz 2 oder § 9 Absatz 4
+Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
+## § 8 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Baubetrieb“ sind die Projektarbeit, die
+Präsentation und das Fachgespräch einzeln zu bewerten. Aus den
+einzelnen Bewertungen ist als zusammengefasste Bewertung für den
+Prüfungsteil das gewichtete arithmetische Mittel zu berechnen. Dabei
+werden gewichtet:
+
+1.  die Projektarbeit mit 50 Prozent,
 
 
-
-2.
-    *        *   Präsentation
-
-        *   20 Prozent,
+2.  die Präsentation mit 20 Prozent und
 
 
-
-
-
-3.
-    *        *   Fachgespräch
-
-        *   30 Prozent.
+3.  das Fachgespräch mit 30 Prozent.
 
 
 
 
+(3) Im Prüfungsteil „Bautechnik“ sind als Prüfungsleistungen die
+beiden Situationsaufgaben einzeln zu bewerten. Aus den einzelnen
+Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische
+Mittel zu berechnen.
+
+(4) Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ sind
+die beiden Situationsaufgaben einzeln zu bewerten. Aus den einzelnen
+Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische
+Mittel zu berechnen.
+
+
+## § 9 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils 50 Punkte erreicht worden sind:
+
+1.  im Prüfungsteil „Baubetrieb“,
+
+
+2.  im Prüfungsteil „Bautechnik“ in den beiden Situationsaufgaben und
+
+
+3.  im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ in den
+    beiden Situationsaufgaben.
 
 
 
-(3) Im Prüfungsteil „Bautechnik“ ist jede der Situationsaufgaben
-getrennt zu bewerten. Es ist eine Note aus dem arithmetischen Mittel
-der Punktebewertungen der einzelnen Prüfungsleistungen zu bilden.
 
-(4) Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist
-jede der Situationsaufgaben getrennt zu bewerten. Es ist eine Note aus
-dem arithmetischen Mittel der Punktebewertungen der einzelnen
-Prüfungsleistungen zu bilden.
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-(5) Aus dem arithmetischen Mittel der Punktebewertungen der jeweiligen
-Prüfungsteile ist eine Gesamtnote zu bilden.
-
-(6) Die Prüfung ist bestanden, wenn in den Prüfungsteilen
-„Baubetrieb“, „Bautechnik“ und „Mitarbeiterführung und
-Personalmanagement“ sowie in den Prüfungsleistungen nach § 5 Absatz 2
-und § 6 Absatz 3 mindestens ausreichende Leistungen erbracht wurden.
-
-(7) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 2 und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
-Freistellung nach § 8 sind Ort und Datum sowie Bezeichnung des
-Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
-Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Qualifikationen nach § 3 Absatz 2 ist im Zeugnis einzutragen.
+1.  die zusammengefasste Bewertung im Prüfungsteil „Baubetrieb“,
 
 
-## § 8 Anrechnung anderer Prüfungsleistungen
-
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+2.  die Bewertung im Prüfungsteil „Bautechnik“ und
 
 
-## § 9 Wiederholung der Prüfung
+3.  die Bewertung im Prüfungsteil „Mitarbeiterführung und
+    Personalmanagement“.
+
+
+
+
+(3) Den Bewertungen für die Prüfungsteile „Baubetrieb“, „Bautechnik“
+und „Mitarbeiterführung und Personalmanagement“ ist nach der Anlage 2
+die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus der zusammengefassten Bewertung des
+Prüfungsteils „Baubetrieb“, der Bewertung des Prüfungsteils
+„Bautechnik“ und der Bewertung des Prüfungsteils „Mitarbeiterführung
+und Personalmanagement“ zu berechnen. Die Gesamtpunktzahl ist
+kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten
+Gesamtpunktzahl ist nach der Anlage 2 eine Note als Dezimalzahl und
+als Note in Worten zugeordnet. Die zugeordnete Note ist die
+Gesamtnote.
+
+
+## § 10 Zeugnisse
+
+(1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 3 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 7 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 11 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestanden
-Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestanden Prüfung
+an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 10 Übergangsregelung
+## § 12 Übergangsregelung
 
 Begonnene Prüfverfahren können bis zum 31. März 2015 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -679,7 +724,7 @@ Dezember 2012 die Anwendung der bisherigen Vorschriften beantragt
 werden.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -688,8 +733,9 @@ Nummer 17 und Artikel 2 § 1 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und §
 4 Nummer 8 der Verordnung vom 15. April 1999 (BGBl. I S. 711) geändert
 worden ist, außer Kraft.
 
+(zu § 2 Absatz 2)
 
-## Anlage 1 (zu § 2 Absatz 2) Profil des Werkpoliers und der Werkpolierin
+## Anlage 1 Profil des Werkpoliers und der Werkpolierin
 
 (Fundstelle: BGBl. I 2012, 1931)
 
@@ -809,247 +855,395 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
 
 
 
+(zu den §§ 8 und 9)
 
-## Anlage 2 (zu § 7 Absatz 7) Muster
+## Anlage 2 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2012, 1932)
+(Fundstelle: BGBl. I 2019, 2370 - 2371)
 
 
-*    *   ......................................................................
-        .........................
+*    *   Punkte
 
+    *   Note
+        als Dezimalzahl
 
-*    *   (Bezeichnung der zuständigen Stelle)
+    *   Note
+        in Worten
 
+    *   Definition
 
 
-## Zeugnis
+*    *   100
 
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Polier
-## Geprüfte Polierin
+    *   1,0
 
+    *   sehr gut
 
-*    *   Herr/Frau ............................................................
-        ......................................................................
-        ...................................
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *   geboren am ..............................................
+*    *   98 und 99
 
-    *   in .........................................
+    *   1,1
 
 
-*    *   hat am .....................................................
+*    *   96 und 97
 
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
+    *   1,2
 
 
+*    *   94 und 95
 
-Geprüfter Polier
-## Geprüfte Polierin
+    *   1,3
 
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin vom 6.
-September 2012 (BGBl. I S. 1926) bestanden.
 
+*    *   92 und 93
 
-*    *   Datum ................................................................
-        ...........
+    *   1,4
 
 
-*    *   Unterschrift(en)
-        .............................................................
+*    *   91
 
+    *   1,5
 
-*    *   (Siegel der zuständigen Stelle)
+    *   gut
 
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
+*    *   90
 
-## Anlage 3 (zu § 7 Absatz 7) Muster
+    *   1,6
 
-(Fundstelle: BGBl. I 2012, 1933 - 1934)
 
+*    *   89
 
-*    *   ......................................................................
-        .........................
+    *   1,7
 
 
-*    *   (Bezeichnung der zuständigen Stelle)
+*    *   88
 
+    *   1,8
 
 
-## Zeugnis
+*    *   87
 
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Polier
-## Geprüfte Polierin
+    *   1,9
 
 
-*    *   Herr/Frau ............................................................
-        ................................................
+*    *   85 und 86
 
+    *   2,0
 
-*    *   geboren am ...................................................
 
-    *   in ...................................
+*    *   84
 
+    *   2,1
 
-*    *   hat am ...................................................
 
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
+*    *   83
 
+    *   2,2
 
 
-Geprüfter Polier
-## Geprüfte Polierin
+*    *   82
 
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin vom 6.
-September 2012 (BGBl. I S. 1926) mit folgenden Ergebnissen bestanden:
+    *   2,3
 
 
-*    *
-    *
-    *[^F778192_01_BJNR192600012BJNE001500000]
-   Punkte
+*    *   81
 
-    *
-    *[^F778192_02_BJNR192600012BJNE001500000]
-   Note
+    *   2,4
 
 
-*    *   I.
+*    *   79 und 80
 
-    *   Baubetrieb
+    *   2,5
 
-    *
-    *
-    *   ...........
+    *   befriedigend
 
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
 
-*    *
-    *   Projektarbeit
 
-    *   ...........
+*    *   78
 
-    *
-    *
+    *   2,6
 
-*    *
-    *   Präsentation
 
-    *   ...........
+*    *   77
 
-    *
-    *
+    *   2,7
 
-*    *
-    *   Fachgespräch
 
-    *   ...........
+*    *   75 und 76
 
-    *
-    *
+    *   2,8
 
-*    *   II.
 
-    *[^F778192_03_BJNR192600012BJNE001500000]
-   Bautechnik im Bereich
-        ......................................
+*    *   74
 
-    *
-    *
-    *   ...........
+    *   2,9
 
 
-*    *
-    *   Situationsaufgabe I
+*    *   72 und 73
 
-    *   ..........
+    *   3,0
 
-    *
-    *
 
-*    *
-    *   Situationsaufgabe II
+*    *   71
 
-    *   ..........
+    *   3,1
 
-    *
-    *
 
-*    *   III.
+*    *   70
 
-    *   Mitarbeiterführung und Personalmanagement
+    *   3,2
 
-    *
-    *
-    *   ...........
 
+*    *   68 und 69
 
-*    *
-    *   Situationsaufgabe I
+    *   3,3
 
-    *   ............
 
-    *
-    *
+*    *   67
 
-*    *
-    *   Situationsaufgabe II
+    *   3,4
 
-    *   ............
 
-    *
-    *
+*    *   65 und 66
 
-*    *
-    *   Gesamtnote:
+    *   3,5
 
-    *
-    *
-    *   ...........
+    *   ausreichend
 
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
 
 
-(Im Fall des § 8: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 8 im Hinblick auf die am
-..........................................
-in ..................................
-vor ...........................................
-abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich
-............................................
-freigestellt. “)
+*    *   63 und 64
 
-IV. Berufs- und arbeitspädagogische Qualifikation
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 3 Absatz 2
-den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Kenntnisse durch die Prüfung am
-..........................................
-in
-.....................................................................
-vor...................................................................
-erbracht.
+    *   3,6
 
 
-*    *   Datum ................................................................
-        .......
+*    *   62
 
+    *   3,7
 
-*    *   Unterschrift(en)
-        ................................................................
 
+*    *   60 und 61
 
-*    *   (Siegel der zuständigen Stelle)
+    *   3,8
 
 
+*    *   58 und 59
 
-[^F778192_01_BJNR192600012BJNE001500000]:     Den Bewertungen lag folgender Punkteschlüssel zugrunde:
-    ......................................................
-    Bei der Ermittlung der Note sind die Punktebewertungen für die
-    Projektarbeit, die Präsentation und das Fachgespräch im Verhältnis 50
-    zu 20 zu 30 gewichtet worden.
-[^F778192_02_BJNR192600012BJNE001500000]:     Angabe des Bereichs „Hochbau“ oder „Tiefbau“.
-[^F778192_03_BJNR192600012BJNE001500000]: 
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 10)
+
+## Anlage 3 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2371)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Baubetrieb“
+
+    a)  Benennung des Prüfungsteils, die zusammengefasste Bewertung mit Note,
+
+
+    b)  Benennung der Projektarbeit, der Präsentation und des Fachgesprächs
+        und die Bewertung mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Bautechnik“
+
+    a)  Benennung des Prüfungsteils unter Angabe des Bereichs „Hochbau“ oder
+        „Tiefbau“ und die Bewertung mit Note,
+
+
+    b)  Benennung der beiden Situationsaufgaben und die jeweilige Bewertung
+        mit Punkten,
+
+
+
+
+
+3.  zum Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+
+    a)  Benennung des Prüfungsteils „Mitarbeiterführung und
+        Personalmanagement“ und die Bewertung mit Note,
+
+
+    b)  Benennung der beiden Situationsaufgaben und die jeweilige Bewertung
+        mit Punkten,
+
+
+
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 7,
+
+
+8.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 3 Absatz 2.
+
+
+
+

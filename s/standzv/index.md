@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 1601
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.10.2006 I 2287
+:   Art. 1 V v. 31.8.2021 I 4065
 
 
 ## Eingangsformel
@@ -41,21 +41,17 @@ erfüllen (Standardzulassungen).
 
 ## § 2
 
-Arzneimittel, die sich am 26. Oktober 2006 im Verkehr befinden, dürfen
-vom pharmazeutischen Unternehmer noch bis zum 1. Februar 2007 nach den
-Vorschriften der Verordnung über Standardzulassungen von Arzneimitteln
-in der bis zum 26. Oktober 2006 geltenden Fassung in Verkehr gebracht
-werden.
+Arzneimittel, die den Vorschriften dieser Verordnung in der am 3.
+September 2021 geltenden Fassung entsprechen, dürfen vom
+pharmazeutischen Unternehmer noch bis zum 31. März 2023 im Sinne des §
+4 Absatz 17 des Arzneimittelgesetzes in den Verkehr gebracht werden.
+Großhändler und Apotheken dürfen Arzneimittel nach Satz 1 auch nach
+diesem Zeitpunkt weiterhin im Sinne des § 4 Absatz 17 des
+Arzneimittelgesetzes in den Verkehr bringen.
 
 
-## § 2a
+## § 2a (weggefallen)
 
-Arzneimittel, die sich am 26. Oktober 2006 im Verkehr befinden und den
-Vorschriften der Verordnung über Standardzulassungen von Arzneimitteln
-in der bis zum 26. Oktober 2006 geltenden Fassung entsprechen, müssen
-ab dem 1. Januar 2009 vom pharmazeutischen Unternehmer entsprechend
-den §§ 10 und 11 des Arzneimittelgesetzes in der jeweils geltenden
-Fassung gekennzeichnet und mit einer Packungsbeilage versehen werden.
 
 
 ## § 3
@@ -67,8 +63,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
+(zu § 1)
 
-## Anlage (zu § 1) Standardzulassungen
+## Anlage Standardzulassungen
 
 (Inhalt: Nicht erfasster Anlageband,
 Fundstelle: Anlageband I zu BGBl I Nr. 47 v. 8.12.1982,

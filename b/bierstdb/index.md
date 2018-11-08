@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.7.1993 I 1422;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.12.2000 I 1686
+:   Art. 6 V v. 2.6.2021 I 1362
 
 V aufgeh. mit ausnahme der bezeichnung der v, der §§ 3, 8 satz 2 bis 4, der §§ 16 bis 19, § 20 abs. 1 satz 2 u. §§ 21 u. 22 abs. 1 sowie der überschr. vor § 16 durch
 :   § 28 Satz 1 G 612-6-3 (BierStG 1993) v. 21.12.1992 I 2150, 2158 mWv 1.1.1993
@@ -71,9 +71,10 @@ an den Verbraucher.
 (1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8 des
 Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs. 1, 2 und
 4 des Gesetzes zugelassenen Braustoffe und Brauersatzstoffe verwendet
-werden. Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
-anzuwenden. Farbebier muß aus Gerstenmalz, Hopfen, untergäriger Hefe
-und Wasser hergestellt werden, es muß vergoren sein.
+werden. Die Vorschriften der Lebensmittelzusatzstoff-
+Durchführungsverordnung sind anzuwenden. Farbebier muß aus
+Gerstenmalz, Hopfen, untergäriger Hefe und Wasser hergestellt werden,
+es muß vergoren sein.
 
 (2) Die zulässigen Braustoffe müssen in der Beschaffenheit verwendet
 werden, in der ihnen die im Gesetz gewählte Bezeichnung zukommt.

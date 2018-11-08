@@ -3,7 +3,7 @@ Title: Verordnung über die elektronische Übermittlung von für das Besteuerung
   erforderlichen Daten
 jurabk: StDÜV
 layout: default
-origslug: std_v
+origslug: stduev
 slug: stduev
 
 ---

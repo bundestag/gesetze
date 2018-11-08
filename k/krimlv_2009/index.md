@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3042
 
+Geändert durch
+:   Art. 1 V v. 4.9.2020 I 1988
+
 
 ## Eingangsformel
 
@@ -57,9 +60,33 @@ S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
     *   Gehobener Kriminaldienst
 
 
+*    *   §  6a
+
+    *   Voraussetzungen für die Einstellung für eine Verwendung im Bereich
+        Cyberkriminalität
+
+
+*    *   §  6b
+
+    *   Kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich
+        Cyberkriminalität
+
+
+*    *   §  6c
+
+    *   Eingangsamt im gehobenen Kriminaldienst für eine Verwendung im Bereich
+        Cyberkriminalität
+
+
 *    *   §  7
 
     *   Höherer Kriminaldienst
+
+
+*    *   §  7a
+
+    *   Zugang zum höheren Kriminaldienst für Beamtinnen und Beamte des
+        gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium
 
 
 *    *   §  8
@@ -80,21 +107,6 @@ S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 *    *   § 11
 
     *   Laufbahnwechsel
-
-
-*    *   § 12
-
-    *   Übergangsregelung zu § 10
-
-
-*    *   § 13
-
-    *   Folgeänderungen
-
-
-*    *   § 14
-
-    *   Inkrafttreten, Außerkrafttreten
 
 
 *    *   Anlage (zu § 3 Absatz 2)
@@ -151,37 +163,95 @@ Dienstbezeichnung „Kriminalkommissaranwärterin” oder
 „Kriminalkommissaranwärter”, im höheren Kriminaldienst die
 Dienstbezeichnung „Kriminalratanwärterin” oder „Kriminalratanwärter”.
 
-(2) Die Einstellung in den Vorbereitungsdienst erfolgt bis zur
-Vollendung des 34. Lebensjahres. Das Höchstalter nach Satz 1 wird
-angehoben um Zeiten
+(2) Eingestellt werden kann
 
-1.  des Mutterschutzes,
-
-
-2.  der Kinderbetreuung, höchstens jedoch um drei Jahre je Kind, sowie
+1.  in den Vorbereitungsdienst für den gehobenen Kriminaldienst, wer bei
+    der Einstellung das 42. Lebensjahr noch nicht vollendet hat, und
 
 
-3.  der tatsächlichen Pflege naher Angehöriger, die nach ärztlichem
-    Gutachten pflegebedürftig sind, höchstens jedoch um drei Jahre je
-    Angehörige oder Angehörigen.
+2.  in den Vorbereitungsdienst für den höheren Kriminaldienst, wer bei der
+    Einstellung das 43. Lebensjahr noch nicht vollendet hat.
 
 
 
-Auch wenn Zeiten nach Satz 2 zu berücksichtigen sind, darf die
-Bewerberin oder der Bewerber das 42. Lebensjahr noch nicht vollendet
-haben. Die Höchstaltersgrenzen gelten nicht für Inhaberinnen und
-Inhaber eines Eingliederungs- oder Zulassungsscheins sowie
-Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 7
-Absatz 2 des Soldatenversorgungsgesetzes.
+
+(3) Einstellungsbehörde ist das Bundeskriminalamt.
 
 
 ## § 6 Gehobener Kriminaldienst
 
-Der Vorbereitungsdienst für den gehobenen Kriminaldienst wird in einem
-Bachelor-Studiengang „Kriminalvollzugsdienst im Bundeskriminalamt“ an
-der Fachhochschule des Bundes für öffentliche Verwaltung durchgeführt.
-§ 13 Absatz 2 der Bundeslaufbahnverordnung bleibt im Übrigen
-unberührt.
+Der Vorbereitungsdienst für den gehobenen Kriminaldienst wird an der
+Hochschule des Bundes für öffentliche Verwaltung durchgeführt
+
+1.  in einem Bachelorstudiengang,
+
+
+2.  in der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im
+    Bereich Cyberkriminalität (§ 6b) oder
+
+
+3.  in einer Qualifizierungsmaßnahme „Ausbildungsverkürzung“ nach Teil 4
+    der Verordnung über den Vorbereitungsdienst für den gehobenen
+    Kriminaldienst.
+
+
+
+
+
+## § 6a Voraussetzungen für die Einstellung für eine Verwendung im Bereich Cyberkriminalität
+
+(1) Zur Laufbahn des gehobenen Kriminaldienstes für eine Verwendung im
+Bereich Cyberkriminalität können abweichend von § 17 Absatz 4 Nummer 2
+des Bundesbeamtengesetzes Bewerberinnen und Bewerber zugelassen
+werden, die
+
+1.  ein Hochschulstudium in einem Studiengang, in dem
+    informationstechnische, ingenieurwissenschaftliche oder
+    naturwissenschaftliche Inhalte überwiegen, mit einem Bachelor oder
+    einem gleichwertigen Abschluss abgeschlossen haben und
+
+
+2.  die kriminalpolizeifachliche Qualifizierung nach § 6b erfolgreich
+    abgeschlossen haben.
+
+
+
+
+(2) Nicht zugelassen werden Bewerberinnen und Bewerber, die bei Beginn
+der kriminalpolizeifachlichen Qualifizierung das 43. Lebensjahr
+vollendet haben.
+
+
+## § 6b Kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität
+
+(1) Die kriminalpolizeifachliche Qualifizierung kann nach bestandenem
+Auswahlverfahren von den in § 6a Absatz 1 Nummer 1 genannten Personen
+absolviert werden. Sie erfolgt in einem Angestelltenverhältnis.
+
+(2) Die kriminalpolizeifachliche Qualifizierung dauert 24 Monate. Sie
+besteht aus einer fachtheoretischen Ausbildung und einer mit dieser
+eng verzahnten berufspraktischen Tätigkeit.
+
+(3) Die fachtheoretische Ausbildung erfolgt am Fachbereich
+Kriminalpolizei der Hochschule des Bundes für öffentliche Verwaltung.
+
+(4) Die berufspraktische Tätigkeit erfolgt in Organisationseinheiten
+des Bundeskriminalamtes, die mit Cyberkriminalität befasst sind. Sie
+dauert mindestens zwölf Monate. Nach ihrer Schwierigkeit muss sie der
+Tätigkeit einer Beamtin oder eines Beamten des gehobenen
+Kriminaldienstes entsprechen.
+
+(5) Voraussetzung für den erfolgreichen Abschluss der
+kriminalpolizeifachlichen Qualifizierung ist das Bestehen der
+Modulprüfungen und der abschließenden mündlichen Prüfung.
+
+
+## § 6c Eingangsamt im gehobenen Kriminaldienst für eine Verwendung im Bereich Cyberkriminalität
+
+Wer in den gehobenen Kriminaldienst für eine Verwendung im Bereich
+Cyberkriminalität eingestellt wird, kann in das Amt der
+Kriminaloberkommissarin oder des Kriminaloberkommissars eingestellt
+werden, wenn haushaltsrechtliche Gründe dem nicht entgegenstehen.
 
 
 ## § 7 Höherer Kriminaldienst
@@ -191,6 +261,25 @@ einer fachpraktischen Ausbildungsphase und dem Masterstudiengang
 „Öffentliche Verwaltung – Polizeimanagement“ (Public Administration –
 Police Management) an der Deutschen Hochschule der Polizei. § 14 der
 Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
+
+
+## § 7a Zugang zum höheren Kriminaldienst für Beamtinnen und Beamte des gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium
+
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des gehobenen
+Kriminaldienstes, die ein Hochschulstudium mit einem Master oder einem
+vergleichbaren Abschluss abgeschlossen haben, können zum
+Vorbereitungsdienst für den höheren Kriminaldienst zugelassen werden,
+wenn sie an einem für Regelbewerberinnen und Regelbewerber
+vorgesehenen Auswahlverfahren erfolgreich teilgenommen haben.
+
+(2) Die nach Absatz 1 zugelassenen Bewerberinnen und Bewerber nehmen
+an dem Vorbereitungsdienst nach § 7 teil. Während dieser Zeit behalten
+sie ihren bisherigen beamtenrechtlichen Status.
+
+(3) Den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten wird im
+Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn
+übertragen, wenn sie den Vorbereitungsdienst erfolgreich abgeschlossen
+haben.
 
 
 ## § 8 Andere Bewerberinnen und Bewerber
@@ -220,7 +309,7 @@ der Qualifizierung ist durch die Laufbahnprüfung nachzuweisen.
 Kriminaldienstes können zum Aufstieg in die Laufbahn des höheren
 Kriminaldienstes zugelassen werden, wenn sie
 
-1.  sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens vier
+1.  sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens drei
     Jahren im gehobenen Kriminaldienst bewährt haben,
 
 
@@ -264,7 +353,9 @@ Bundestag besitzt.
 der in den Absätzen 2 und 3 genannten Laufbahnen besitzen, können die
 Befähigung durch eine Qualifizierung erwerben, die ein Jahr und sechs
 Monate nicht unterschreiten darf. Sie kann für Beamtinnen und Beamte
-der Sicherheitsbehörden des Bundes verkürzt werden.
+der Sicherheitsbehörden des Bundes verkürzt werden. Als Qualifizierung
+kann auch die kriminalpolizeifachliche Qualifizierung absolviert
+werden, wenn das Bundeskriminalamt dies so festgelegt hat.
 
 (5) Während der Qualifizierung nach Absatz 4 müssen der Beamtin oder
 dem Beamten die für die Laufbahn erforderlichen Fach-, Methoden- und
@@ -275,29 +366,11 @@ der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung.
 Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
 
-## § 12 Übergangsregelung zu § 10
-
-Abweichend von § 10 ist für Beamtinnen und Beamte, die zum Zeitpunkt
-des Inkrafttretens dieser Verordnung das 45. Lebensjahr vollendet und
-das 53. Lebensjahr noch nicht vollendet haben, bis zum 31. Dezember
-2013 § 26 der Kriminal-Laufbahnverordnung vom 20. April 2004 (BGBl. I
-S. 682), die zuletzt durch § 56 Absatz 4 der Verordnung vom 12.
-Februar 2009 (BGBl. I S. 284) geändert worden ist, anzuwenden.
-
-
-## § 13 Folgeänderungen
-
--
-
-
-## § 14 Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
-
 ## Anlage (zu § 3 Absatz 2)
 
-(Fundstelle: BGBl. I 2009, 3045)
+(Fundstelle: BGBl. I 2009, 3045;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 Die in § 3 Absatz 1 aufgeführten Laufbahnen umfassen die nachfolgenden
 Ämter:
 
@@ -310,7 +383,7 @@ Die in § 3 Absatz 1 aufgeführten Laufbahnen umfassen die nachfolgenden
 
 
 *    *
-        –[^F772574_01_BJNR304200009BJNE001700000]
+        –[^F772574_01_BJNR304200009BJNE001702311]
    Besoldungsgruppe A 9
 
 
@@ -320,7 +393,8 @@ Die in § 3 Absatz 1 aufgeführten Laufbahnen umfassen die nachfolgenden
 
 
 *    *
-        –   Besoldungsgruppe A 10
+        –[^bjnr304200009bjne001702311_02_BJNR304200009BJNE001702311]
+   Besoldungsgruppe A 10
 
 
 
@@ -414,5 +488,6 @@ Die in § 3 Absatz 1 aufgeführten Laufbahnen umfassen die nachfolgenden
 
 
 
-    Eingangsamt
-[^F772574_01_BJNR304200009BJNE001700000]: 
+    Eingangsamt.
+[^F772574_01_BJNR304200009BJNE001702311]:     Eingangsamt für eine Verwendung im Bereich Cyberkriminalität.
+[^bjnr304200009bjne001702311_02_BJNR304200009BJNE001702311]: 

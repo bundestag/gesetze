@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1812
 
+Zuletzt geändert durch
+:   Art. 8 V v. 14.8.2020 I 1960
+
+Mittelbare änderung durch
+:   Art. 154a Nr. 2 u. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
+
 
 ## Eingangsformel
 
@@ -59,7 +65,7 @@ geltenden Fassung bedarf.
 ### § 2 Erteilung der Erlaubnis als steuerlicher Beauftragter
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis nach § 8 Absatz
-2 des Gesetzes schriftlich.
+2 des Gesetzes schriftlich oder elektronisch.
 
 (2) Die Erlaubnis kann mit sämtlichen in § 120 Absatz 2 der
 Abgabenordnung aufgezählten Nebenbestimmungen verbunden werden.
@@ -168,93 +174,26 @@ Voraussetzungen erfüllt sind:
 ## Abschnitt 4 - Zu den §§ 12 und 18 Absatz 3 des Gesetzes
 
 
-### § 4 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
-
-(1) Daten, die für das Besteuerungsverfahren erforderlich sind, können
-durch Datenfernübertragung übermittelt werden (elektronische
-Datenübermittlung), sobald die organisatorischen und technischen
-Voraussetzungen dafür bei der Zollverwaltung gegeben sind. Mit der
-elektronischen Datenübermittlung können unter den Voraussetzungen des
-§ 11 des Bundesdatenschutzgesetzes Dritte beauftragt werden. Der mit
-der elektronischen Datenübermittlung beauftragte Auftragnehmer gilt
-als Empfangsbevollmächtigter für Mitteilungen des Hauptzollamtes an
-den Auftraggeber, solange dieser nicht widerspricht.
-
-(2) Das Bundesministerium der Finanzen bestimmt im Benehmen mit dem
-Bundesministerium des Innern Art und Weise der elektronischen
-Datenübermittlung nach Absatz 1 durch eine Verfahrensanweisung. Die
-Verfahrensanweisung ist im Internet auf den Seiten der Zollverwaltung
-(www.zoll.de) sowie im Bundesanzeiger zu veröffentlichen.
-
-(3) Bei der elektronischen Datenübermittlung sind dem jeweiligen Stand
-der Technik entsprechende Verfahren einzusetzen, die die
-Authentizität, Vertraulichkeit und Integrität der Daten gewährleisten.
-Werden allgemein zugängliche Netze genutzt, sind
-Verschlüsselungsverfahren einzusetzen.
-
-
-### § 5 Schnittstellen
-
-(1) Bei der elektronischen Datenübermittlung sind die hierfür vom
-Bundesministerium der Finanzen bestimmten Schnittstellen ordnungsgemäß
-zu bedienen. Die für die Übermittlung benötigten Schnittstellen und
-die dazugehörige Dokumentation werden über das Internet zur Verfügung
-gestellt.
-
-(2) Werden Mängel festgestellt, die eine ordnungsgemäße Übernahme der
-Daten beeinträchtigen, kann die Übernahme der Daten abgelehnt werden.
-Der Absender ist über die Mängel zu unterrichten.
-
-
-### § 6 Authentifizierung, Datenübermittlung im Auftrag
-
-(1) Bei der elektronischen Datenübermittlung ist grundsätzlich eine
-qualifizierte elektronische Signatur erforderlich.
-
-(2) Eine qualifizierte elektronische Signatur ist dann nicht
-erforderlich, wenn ein anderes sicheres Verfahren eingesetzt wird,
-welches den Datenübermittler (Absender der Daten) authentifiziert und
-die in § 4 Absatz 3 bestimmten Anforderungen an die Gewährleistung der
-Authentizität und Integrität der Daten in gleicher Weise erfüllt. Zur
-Authentifizierung des Datenübermittlers kann auch der elektronische
-Identitätsnachweis des Personalausweises (eID) nach
-
-1.  § 18 des Personalausweisgesetzes oder
-
-
-2.  § 78 Absatz 5 des Aufenthaltsgesetzes in der Fassung der
-    Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162), das zuletzt
-    durch Artikel 1 des Gesetzes vom 1. Juni 2012 (BGBl. I S. 1224)
-    geändert worden ist, in der jeweils geltenden Fassung genutzt werden,
+### (XXXX) §§ 4 bis 6 (weggefallen)
 
 
 
-sobald die organisatorischen und technischen Voraussetzungen dafür bei
-der Zollverwaltung geschaffen sind.
-
-(3) Eine elektronische Datenübermittlung über DE-Mail-Dienste im Sinne
-des § 1 des DE-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666), das
-durch Artikel 2 Absatz 3 des Gesetzes vom 22. Dezember 2011 (BGBl. I
-S. 3044) geändert worden ist, in der jeweils geltenden Fassung ist nur
-zulässig, soweit
-
-1.  die Voraussetzungen des § 5 Absatz 5 des DE-Mail-Gesetzes gewahrt
-    werden und
+## Abschnitt 5 - Zu § 156 Absatz 1 der Abgabenordnung
 
 
-2.  die organisatorischen und technischen Voraussetzungen für das
-    Verfahren bei der Zollverwaltung gegeben sind.
+### § 6a Kleinbetragsregelung
+
+(1) Eine angemeldete oder festgesetzte Steuer wird vom zuständigen
+Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
+wenn die Abweichung von der angemeldeten oder festgesetzten Steuer
+mindestens 25 Euro beträgt.
+
+(2) Soweit die Festsetzung durch automatisierte Verfahren unterstützt
+wird, gilt Absatz 1 erst, wenn die entsprechende Regelung
+programmtechnisch umgesetzt worden ist.
 
 
-
-
-(4) Im Fall einer Übermittlung im Auftrag (§ 4 Absatz 1 Satz 2) hat
-der Dritte die Daten dem Auftraggeber unverzüglich in leicht
-nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
-Auftraggeber hat die Daten unverzüglich zu überprüfen.
-
-
-## Abschnitt 5 - Inkrafttreten
+## Abschnitt 6 - Inkrafttreten
 
 
 ### § 7 Inkrafttreten

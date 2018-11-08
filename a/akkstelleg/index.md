@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2625
 
-Geändert durch
-:   Art. 2 Abs. 80 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 272 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 5 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Akkreditierung
@@ -34,8 +37,87 @@ Artikel 3 der Verordnung (EG) Nr. 765/2008 zuständig.
 Behörden, Stellen die Befugnis zu erteilen, als
 Konformitätsbewertungsstelle tätig zu werden, bleibt unberührt.
 Insbesondere gilt dies für die Bereiche Medizinprodukte,
-Gendiagnostika, Sicherheitstechnik sowie Ernährung, Landwirtschaft und
+Gendiagnostika, Sicherheitstechnik und Sicherheit in der
+Informationstechnik sowie Ernährung, Landwirtschaft und
 Verbraucherschutz einschließlich Lebensmittelsicherheit.
+
+
+## § 1a Schutz der Alleinstellung der Akkreditierungsstelle
+
+(1) Es ist verboten,
+
+1.  unberechtigt eine Akkreditierung im Sinne des Artikels 2 Nummer 10 der
+    Verordnung (EG) Nr. 765/2008 durchzuführen oder
+
+
+2.  durch Bestätigung der Kompetenz von Konformitätsbewertungsstellen oder
+    in sonstiger Weise den Anschein zu erwecken, Akkreditierungen im Sinne
+    des Artikels 2 Nummer 10 der Verordnung (EG) Nr. 765/2008
+    durchzuführen, insbesondere dadurch, dass
+
+    a)  die Erfüllung von Anforderungen bestätigt wird, die Anforderungen aus
+        harmonisierten Normen im Sinne des Artikels 2 Nummer 9 der Verordnung
+        (EG) Nr. 765/2008 inhaltlich ganz oder teilweise entsprechen, wenn im
+        Übrigen eine unberechtigte Akkreditierung im Sinne der Nummer 1
+        durchgeführt wird oder
+
+
+    b)  eine Konformitätsbewertungsstelle im Sinne des Artikels 2 Nummer 13
+        der Verordnung (EG) Nr. 765/2008 die Bezeichnung „Akkreditierung“ oder
+        eine dieser Bezeichnung entsprechende Bezeichnung in einer anderen
+        Amtssprache der Europäischen Union, jeweils auch in einer abweichenden
+        Schreibweise, unberechtigt für von ihr ausgeführte
+        Konformitätsbewertungen im Sinne des Artikels 2 Nummer 12 der
+        Verordnung (EG) Nr. 765/2008 verwendet.
+
+
+
+
+
+
+In Zweifelsfällen entscheidet die Akkreditierungsstelle, ob im Falle
+des Satzes 1 Nummer 2 Buchstabe b eine Bezeichnung berechtigt geführt
+wird. Ist die Bezeichnung in der Firma oder als Zusatz zur Firma oder
+im Namen oder als Zusatz zum Namen eines Vereines verwendet, teilt die
+Akkreditierungsstelle dem zuständigen Registergericht ihre
+Entscheidung mit.
+
+(2) Ein Tätigwerden im Sinne des Absatzes 1 Satz 1 wird nicht durch
+die Erklärung ausgeschlossen, dass die Tätigkeit keine Akkreditierung
+im Sinne des Artikels 2 Nummer 10 der Verordnung (EG) Nr. 765/2008
+sei.
+
+(3) Die Akkreditierungsstelle kann die erforderlichen Anordnungen und
+Maßnahmen treffen, die zur Feststellung eines Verdachts eines
+Verstoßes oder zur Beseitigung eines festgestellten Verstoßes oder zur
+Verhütung eines künftigen Verstoßes gegen ein Verbot des Absatzes 1
+erforderlich sind. Dazu kann die Akkreditierungsstelle insbesondere
+
+1.  Tätigkeiten im Sinne des Absatzes 1 Satz 1 ganz oder teilweise
+    untersagen oder
+
+
+2.  im Falle des Absatzes 1 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a die
+    Verwendung der Bezeichnung „Akkreditierung“ oder einer dieser
+    Bezeichnung entsprechenden Bezeichnung in einer anderen Amtssprache
+    der Europäischen Union, jeweils auch in einer abweichenden
+    Schreibweise, untersagen.
+
+
+
+Besteht der durch Tatsachen hinreichend begründete Verdacht eines
+Verstoßes gegen ein Verbot des Absatzes 1 Satz 1 und liegt Gefahr im
+Verzug vor, kann die Akkreditierungsstelle Maßnahmen nach Satz 1 in
+Verbindung mit Satz 2 auch vorläufig anordnen. Ist im Falle des Satzes
+2 Nummer 2, auch in Verbindung mit Satz 3, die Bezeichnung in der
+Firma oder als Zusatz zur Firma oder im Namen oder als Zusatz zum
+Namen eines Vereines verwendet, unterrichtet die Akkreditierungsstelle
+das zuständige Registergericht.
+
+(4) Die in Rechtsvorschriften geregelte Zuständigkeit anderer
+Behörden, wegen Tätigkeiten im Sinne des Absatzes 1 Maßnahmen zu
+erlassen, wird nicht berührt. § 1 Absatz 2 ist entsprechend
+anzuwenden.
 
 
 ## § 2 Aufgaben der Akkreditierungsstelle
@@ -58,25 +140,32 @@ der Überwachung der akkreditierten Konformitätsbewertungsstellen der
 die Befugnis erteilenden Behörden bedienen.
 
 
-## § 3 Befugnisse der Akkreditierungsstelle
+## § 3 Befugnisse gegenüber Konformitätsbewertungsstellen
 
-Die Akkreditierungsstelle kann von der Konformitätsbewertungsstelle
-und ihrem mit der Leitung und der Durchführung von Fachaufgaben
-beauftragten Personal die zur Feststellung und Überwachung der
-fachlichen Kompetenz und der Eignung einer
-Konformitätsbewertungsstelle erforderlichen Auskünfte und sonstige
-Unterstützung, insbesondere die Vorlage von Unterlagen, verlangen
-sowie die dazu erforderlichen Anordnungen treffen. Die Bediensteten
-und sonstigen Beauftragten der Akkreditierungsstelle sind befugt, zu
-den Betriebs- und Geschäftszeiten Betriebsstätten, Geschäfts- und
-Betriebsräume der Konformitätsbewertungsstelle zu betreten, zu
-besichtigen und zu prüfen, soweit dies zur Erfüllung ihrer Aufgaben
-erforderlich ist; das Grundrecht der Unverletzlichkeit der Wohnung
-(Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Die
-Konformitätsbewertungsstelle hat an Maßnahmen nach Satz 1 im
-erforderlichen Umfang mitzuwirken. Die Befugnisse gemäß Satz 1 bis 3
-gelten auch für die zuständigen Behörden, die Tätigkeiten im Rahmen
-von § 2 Absatz 3 ausführen.
+(1) Die Akkreditierungsstelle kann von der
+Konformitätsbewertungsstelle und ihrem mit der Leitung und der
+Durchführung von Fachaufgaben beauftragten Personal die zur
+Feststellung und Überwachung der fachlichen Kompetenz und der Eignung
+einer Konformitätsbewertungsstelle erforderlichen Auskünfte und
+sonstige Unterstützung, insbesondere die Vorlage von Unterlagen,
+verlangen sowie die dazu erforderlichen Anordnungen treffen. Die
+Bediensteten und sonstigen Beauftragten der Akkreditierungsstelle sind
+befugt, zu den Betriebs- und Geschäftszeiten Betriebsstätten,
+Geschäfts- und Betriebsräume der Konformitätsbewertungsstelle zu
+betreten, zu besichtigen und zu prüfen, soweit dies zur Erfüllung
+ihrer Aufgaben erforderlich ist; das Grundrecht der Unverletzlichkeit
+der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit
+eingeschränkt. Die Konformitätsbewertungsstelle hat an Maßnahmen nach
+Satz 1 im erforderlichen Umfang mitzuwirken. Die Befugnisse gemäß Satz
+1 bis 3 gelten auch für die zuständigen Behörden, die Tätigkeiten im
+Rahmen von § 2 Absatz 3 ausführen.
+
+(2) Eine Konformitätsbewertungsstelle darf keine Konformitätsbewertung
+im Sinne des Artikels 2 Nummer 12 der Verordnung (EG) Nr. 765/2008
+ohne Akkreditierung durchführen, wenn durch eine Rechtsvorschrift
+angeordnet ist, dass die Konformitätsbewertungsstelle für diese
+Konformitätsbewertung akkreditiert sein muss. § 1a Absatz 3 Satz 1 bis
+3 und Absatz 4 ist entsprechend anzuwenden.
 
 
 ## § 4 Zusammenarbeit mit anderen Behörden
@@ -103,7 +192,7 @@ Begutachtung nach § 2 Absatz 3 durchführen.
 
 ## § 5 Akkreditierungsbeirat
 
-(1) Beim Bundesministerium für Wirtschaft und Technologie wird ein
+(1) Beim Bundesministerium für Wirtschaft und Energie wird ein
 Akkreditierungsbeirat eingerichtet. Er berät und unterstützt die
 Bundesregierung und die Akkreditierungsstelle in Fragen der
 Akkreditierung.
@@ -130,7 +219,7 @@ Akkreditierung.
 
 
 
-(3) Das Bundesministerium für Wirtschaft und Technologie macht im
+(3) Das Bundesministerium für Wirtschaft und Energie macht im
 Einvernehmen mit den fachlich betroffenen Bundesministerien die vom
 Akkreditierungsbeirat ermittelten Regeln nach Absatz 2 Nummer 1 und 2
 im Bundesanzeiger bekannt.
@@ -160,15 +249,15 @@ Die Mitgliedschaft ist ehrenamtlich. Hinsichtlich der sachverständigen
 Personen nach Absatz 4 Nummer 1 und 2, sofern es sich um Stellen der
 Länder handelt, steht den Ländern das Vorschlagsrecht zu.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie beruft im
-Einvernehmen mit den in § 8 Absatz 1 Nummer 1 und 3 bis 7 genannten
+(5) Das Bundesministerium für Wirtschaft und Energie beruft im
+Einvernehmen mit den in § 8 Absatz 1 Nummer 1 bis 7 genannten
 Bundesministerien für die Dauer von drei Jahren die Mitglieder des
 Akkreditierungsbeirates und für jedes Mitglied einen Vertreter oder
 eine Vertreterin. Die Zahl der Mitglieder soll 15 nicht überschreiten.
 Der Akkreditierungsbeirat wählt den Vorsitzenden oder die Vorsitzende
 aus seiner Mitte. Die Wahl des Vorsitzenden oder der Vorsitzenden
 bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und
-Technologie.
+Energie.
 
 (6) Die obersten Bundes- und Landesbehörden oder die von diesen
 bestimmten Stellen sowie die Akkreditierungsstelle haben das Recht, an
@@ -177,9 +266,8 @@ werden sowie Tagesordnungspunkte anzumelden und Beratungsunterlagen
 einzubringen.
 
 (7) Der Akkreditierungsbeirat gibt sich eine Geschäftsordnung, die der
-Zustimmung des Bundesministeriums für Wirtschaft und Technologie und
-der in § 8 Absatz 1 Nummer 1 und 3 bis 7 genannten Bundesministerien
-bedarf.
+Zustimmung des Bundesministeriums für Wirtschaft und Energie und der
+in § 8 Absatz 1 Nummer 1 bis 7 genannten Bundesministerien bedarf.
 
 (8) Der Akkreditierungsbeirat richtet sektorbezogene Fachbeiräte ein.
 Diese haben insbesondere die Aufgabe, den Akkreditierungsbeirat bei
@@ -199,9 +287,9 @@ für Materialforschung und -prüfung.
 auf Antrag gestatten, ein Symbol zu verwenden, das auf ihre
 Akkreditierung hinweist (Akkreditierungssymbol).
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, Folgendes zu regeln:
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Folgendes zu regeln:
 
 1.  die Gestaltung und den Schutz des Akkreditierungssymbols,
 
@@ -215,31 +303,16 @@ Bundesrates bedarf, Folgendes zu regeln:
 
 
 
-## § 7 Gebühren und Auslagen
+## § 7 (weggefallen)
 
-(1) Für Amtshandlungen der Akkreditierungsstelle auf Grund dieses
-Gesetzes und der Verordnung (EG) Nr. 765/2008 werden zur Deckung des
-Verwaltungsaufwands Gebühren und Auslagen erhoben. Soweit die
-gebühren- und auslagenpflichtigen Amtshandlungen der Umsatzsteuer
-unterliegen, erhöhen sich die Gebühren und Auslagen um die gesetzliche
-Umsatzsteuer.
-
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, die gebührenpflichtigen Tatbestände, die Gebührensätze und die
-Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder
-Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
-der mit den Amtshandlungen verbundene gesamte Personal- und
-Sachaufwand abgedeckt wird.
 
 
 ## § 8 Beleihung oder Errichtung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann im
+(1) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem
 
-1.  Bundesministerium des Innern,
+1.  Bundesministerium des Innern, für Bau und Heimat,
 
 
 2.  Bundesministerium der Finanzen,
@@ -248,16 +321,16 @@ Einvernehmen mit dem
 3.  Bundesministerium für Arbeit und Soziales,
 
 
-4.  Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
+4.  Bundesministerium für Ernährung und Landwirtschaft,
 
 
 5.  Bundesministerium für Gesundheit,
 
 
-6.  Bundesministerium für Verkehr, Bau und Stadtentwicklung,
+6.  Bundesministerium für Verkehr und digitale Infrastruktur,
 
 
-7.  Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+7.  Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 
 
 
@@ -278,9 +351,9 @@ Bestimmungen getroffen werden über
 
 (2) Für den Fall, dass eine juristische Person des Privatrechts nicht
 nach Absatz 1 beliehen wird oder die Beleihung nach § 10 Absatz 3
-beendet wird, kann das Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit den in Absatz 1 genannten Ministerien
-ein Bundesamt für Akkreditierung errichten.
+beendet wird, kann das Bundesministerium für Wirtschaft und Energie im
+Einvernehmen mit den in Absatz 1 genannten Ministerien ein Bundesamt
+für Akkreditierung errichten.
 
 
 ## § 9 Aufsicht
@@ -312,7 +385,7 @@ geschäftliche Unterlagen können im erforderlichen Umfang eingesehen
 und in Verwahrung genommen werden.
 
 (3) Die Bundesministerien können die Aufsicht auf eine nachgeordnete
-Behörde oder das Bundesministerium für Wirtschaft und Technologie
+Behörde oder das Bundesministerium für Wirtschaft und Energie
 übertragen.
 
 
@@ -366,7 +439,7 @@ Anspruch auf Ausgleich.
 
 Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen
 zuverlässig sein. Die Bestellung zur Geschäftsführung ist dem
-Bundesministerium für Wirtschaft und Technologie durch die Beliehene
+Bundesministerium für Wirtschaft und Energie durch die Beliehene
 anzuzeigen. Dabei hat die Beliehene die Tatsachen anzugeben, die für
 die Beurteilung der Zuverlässigkeit und Eignung wesentlich sind.
 
@@ -374,7 +447,7 @@ die Beurteilung der Zuverlässigkeit und Eignung wesentlich sind.
 ## § 12 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 3 Satz 1 zuwiderhandelt.
+vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1 zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
@@ -382,14 +455,21 @@ Euro geahndet werden.
 
 ## § 13 Übergangsbestimmungen
 
-(1) Überwachungspflichten für Akkreditierungen, die vor dem 1. Januar
-2010 erteilt wurden, gehen zum Zeitpunkt des Wirksamwerdens der
-Beleihung nach § 8 Absatz 1 auf die Akkreditierungsstelle nach diesem
-Gesetz über.
+(1) § 5 Absatz 5 Satz 1 in der ab dem 25. Juli 2017 geltenden Fassung
+ist nicht auf Mitglieder des Akkreditierungsbeirats und deren
+Vertreterinnen und Vertreter anzuwenden, die ihr Mandat am 25. Juli
+2017 bereits innehaben.
 
-(2) Die Akkreditierungsstelle darf bis zum 31. Dezember 2014 nach § 29
-des Bundesbeamtengesetzes oder § 20 des Beamtenstatusgesetzes
-zugewiesene Beamte und Beamtinnen beschäftigen.
+(2) § 5 Absatz 7 in der ab dem 25. Juli 2017 geltenden Fassung ist
+erstmals auf eine Änderung oder einen Neuerlass der Geschäftsordnung
+anzuwenden, die oder der nach dem 24. Juli 2017 erfolgt.
+
+
+## § 13a Verkündung von Rechtsverordnungen
+
+Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
+1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
+verkündet werden.
 
 
 ## § 14 Inkrafttreten

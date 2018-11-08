@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2694
 
+Zuletzt geändert durch
+:   Art. 8 Abs. 3 G v. 8.7.2019 I 1002
+
 
 ## Eingangsformel
 
@@ -87,17 +90,30 @@ Absatz 2 Satz 2 Nummer 5 des Kapitalanleger-Musterverfahrensgesetzes
 sind bei seiner Eintragung mindestens einer der folgenden Kategorien
 von Kapitalmarktinformationen zuzuordnen:
 
-1.  Angaben in Prospekten nach dem Wertpapierprospektgesetz und
-    Informationsblättern nach dem Wertpapierhandelsgesetz,
+1.  Angaben in Prospekten nach der Verordnung (EU) 2017/1129 des
+    Europäischen Parlaments und des Rates vom 14. Juni 2017 über den
+    Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei
+    deren Zulassung zum Handel an einem geregelten Markt zu
+    veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl.
+    L 168 vom 30.6.2017, S. 12), Wertpapier-Informationsblättern nach dem
+    Wertpapierprospektgesetz und Informationsblättern nach dem
+    Wertpapierhandelsgesetz,
 
 
 2.  Angaben in Verkaufsprospekten, Vermögensanlagen-Informationsblättern
     und wesentlichen Anlegerinformationen nach dem Verkaufsprospektgesetz,
-    dem Vermögensanlagengesetz sowie dem Investmentgesetz,
+    dem Vermögensanlagengesetz sowie dem Investmentgesetz in der bis zum
+    21\. Juli 2013 geltenden Fassung oder dem Kapitalanlagegesetzbuch,
 
 
-3.  Angaben in Mitteilungen über Insiderinformationen im Sinne des § 15
-    des Wertpapierhandelsgesetzes,
+3.  Angaben in Mitteilungen über Insiderinformationen im Sinne des
+    Artikels 17 der Verordnung (EU) Nr. 596/2014 des Europäischen
+    Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
+    (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
+    2003/6/EG des Europäischen Parlaments und des Rates und der
+    Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+    (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung und
+    des § 26 des Wertpapierhandelsgesetzes,
 
 
 4.  Angaben in Darstellungen, Übersichten, Vorträgen und Auskünften in der
@@ -255,14 +271,19 @@ unverzüglich zu beheben.
 
 ## § 7 Übergangsvorschrift
 
-Vor dem Inkrafttreten dieser Verordnung vorgenommene Eintragungen im
-Klageregister bleiben bestehen. Das Gericht, das eine Eintragung
+(1) Vor dem Inkrafttreten dieser Verordnung vorgenommene Eintragungen
+im Klageregister bleiben bestehen. Das Gericht, das eine Eintragung
 vorgenommen hatte, prüft, ob die Eintragung zu berichtigen ist, weil
 eine Vorschrift des Kapitalanleger-Musterverfahrensgesetzes oder
 dieser Verordnung eine andere Eintragung verlangt. Bereits
 vorgenommene Eintragungen sind nicht allein deshalb zu berichtigen,
 weil das Kapitalanleger-Musterverfahrensgesetz und diese Verordnung
 die bisherigen Vorschriften ersetzt haben.
+
+(2) § 1 Absatz 3 Nummer 1 in der bis zum 20. Juli 2019 geltenden
+Fassung findet weiterhin Anwendung für einen Prospekt, der nach dem
+Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden
+Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit hat.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten

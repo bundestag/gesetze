@@ -343,8 +343,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
 
 (Fundstelle: BGBl. I 2004, 983 - 991)
 

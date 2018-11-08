@@ -105,8 +105,9 @@ Kalendermonats in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1)
 
-## Anlage (zu § 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2007, 2571 - 2573;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

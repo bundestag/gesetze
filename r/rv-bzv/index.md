@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 2057
 
-Geändert durch
-:   Art. 7 G v. 23.7.1996 I 1078
+Zuletzt geändert durch
+:   Art. 21 G v. 11.11.2016 I 2500
 
 
 ## Eingangsformel
@@ -117,11 +117,7 @@ Beitragspflicht, zur freiwilligen Versicherung und zur ordnungsgemäßen
 Durchführung des Beitragszahlverfahrens zu erteilen (§ 196 Abs. 1 des
 Sechsten Buches Sozialgesetzbuch).
 
-(2) Die Träger der Rentenversicherung haben Pflichtversicherte, die
-nicht am Abbuchungsverfahren teilnehmen, spätestens am Fälligkeitstag
-schriftlich auf ihre Beitragszahlungspflicht hinzuweisen. Auf den
-Zahlungshinweis darf verzichtet werden, wenn die Beiträge regelmäßig
-rechtzeitig gezahlt werden.
+(2) (weggefallen)
 
 (3) Werden Beiträge überwiesen oder eingezahlt, sollen auf dem
 Überweisungs- oder Einzahlungsbeleg folgende Angaben enthalten sein:
@@ -178,12 +174,14 @@ der einzelne Beitrag verwendet werden soll.
 ## § 7 Reihenfolge der Tilgung
 
 Schuldet der Versicherte Auslagen des Trägers der Rentenversicherung,
-Beiträge, Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann
-er bei der Zahlung bestimmen, welche Schuld getilgt werden soll.
-Trifft der Versicherte keine Bestimmung, wird die Schuld in der in
-Satz 1 genannten Reihenfolge getilgt. Innerhalb der gleichen
-Schuldenart wird die einzelne Schuld nach ihrer Fälligkeit, bei
-gleichzeitiger Fälligkeit anteilmäßig getilgt.
+Gebühren, insbesondere Mahn- und Vollstreckungsgebühren sowie wie
+Gebühren zu behandelnde Entgelte für Rücklastschriften, Beiträge,
+Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann er bei der
+Zahlung bestimmen, welche Schuld getilgt werden soll. Trifft der
+Versicherte keine Bestimmung, wird die Schuld in der in Satz 1
+genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart wird
+die einzelne Schuld nach ihrer Fälligkeit, bei gleichzeitiger
+Fälligkeit anteilmäßig getilgt.
 
 
 ## § 8 Verwendungszeitraum

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 220
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 12 G v. 23.11.2007 I 2631
+:   Art. 13 V v. 29.11.2018 I 2034; 2021 I 5261
 
 
 ## Eingangsformel
@@ -56,7 +56,7 @@ erbracht werden, wenn sie bei einem im Inland zum Betrieb der
 Haftpflichtversicherung befugten Versicherungsunternehmen genommen
 wird. Für eine grenzüberschreitende Beförderung nach § 4a des
 Atomgesetzes kann sie auch bei einem Versicherungsunternehmen eines
-Drittstaates im Sinne des § 105 Abs. 1 des
+Drittstaates im Sinne des § 7 Nummer 34 des
 Versicherungsaufsichtsgesetzes, das in seinem Sitzland zum Betrieb der
 Haftpflichtversicherung befugt ist, genommen werden, wenn neben ihm
 ein nach Satz 1 befugtes Versicherungsunternehmen oder ein Verband
@@ -264,10 +264,9 @@ sich die Regeldeckungssumme
 
 und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder
 Beschaffenheit der radioaktiven Stoffe. Die Regeldeckungssumme beim
-Umgang mit hochradioaktiven Strahlenquellen im Sinne des § 3 Abs. 2
-Nr. 29 Buchstabe b Doppelbuchstabe bb der Strahlenschutzverordnung
-bestimmt sich unabhängig von der Art des radioaktiven Stoffes nach
-Anlage 2.
+Umgang mit hochradioaktiven Strahlenquellen im Sinne des § 4 Absatz 36
+des Strahlenschutzgesetzes bestimmt sich unabhängig von der Art des
+radioaktiven Stoffes nach Anlage 2.
 
 (2) Ist der Umgang mit sonstigen radioaktiven Stoffen darauf
 gerichtet, daß sie bei der Ausübung der Heilkunde am Menschen
@@ -529,28 +528,12 @@ nach oben abzurunden.
 
 
 
-### § 20 Übergangsvorschrift
-
-Entspricht die Deckungsvorsorge für eine vor Inkrafttreten dieser
-Verordnung genehmigte Tätigkeit nicht mehr den Anforderungen dieser
-Verordnung, so ist die Deckungsvorsorge bei der nächsten
-Neufestsetzung nach § 13 Abs. 1 Satz 2 des Atomgesetzes, spätestens
-jedoch bei Anlagen im Sinne des § 7 des Atomgesetzes innerhalb von
-sechs Monaten, in den sonstigen Fällen innerhalb eines Jahres nach
-Inkrafttreten dieser Verordnung neu festzusetzen. Für den Umgang mit
-hochradioaktiven Strahlenquellen, die am 31. Dezember 2007 noch die
-Voraussetzungen des § 3 Abs. 2 Nr. 29 Buchstabe b Doppelbuchstabe bb
-der Strahlenschutzverordnung erfüllen, der vor dem 19. August 2005
-genehmigt wurde und für die ab diesem Zeitpunkt erstmals
-Deckungsvorsorge geleistet werden muss, erfolgt die Festsetzung der
-Deckungsvorsorge spätestens bis zum 31. Dezember 2007.
+### § 20 (weggefallen)
 
 
-### § 21 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (BGBl. I S. 1) in Verbindung mit § 58 Satz 2 des
-Atomgesetzes auch im Land Berlin.
+### § 21 (weggefallen)
+
 
 
 ### § 22 Inkrafttreten
@@ -692,7 +675,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2338
 Fundstelle des Originaltextes: BGBl. I 2005, 2405
 
 *    *
-    *   Aktivitäten, angegeben in Vielfachen der Freigrenzen nach Anlage III
+    *   Aktivitäten, angegeben in Vielfachen der Freigrenzen nach Anlage 4
         Tabelle 1 Spalte 2 der Strahlenschutzverordnung
 
     *   umschlossene radioaktive Stoffe
@@ -700,20 +683,19 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2405
     *   offene radioaktive Stoffe
 
 
-*    *   1
+*    *
+    *   1
 
     *   2
 
     *   3
 
-    *   4
-
 
 *    *   1.
 
-    *   hochradioaktive Strahlenquellen nach § 3 Abs. 2 Nr. 29 Buchstabe b
-        Doppelbuchstabe bb der Strahlenschutzverordnung, soweit nicht unter
-        Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt sind
+    *   hochradioaktive Strahlenquellen nach § 4 Absatz 36 des
+        Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der
+        Spalte 3 höhere Summen genannt sind
 
     *   0,05
 

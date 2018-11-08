@@ -19,33 +19,28 @@ Geändert durch
 :   Art. 26 G v. 6.12.2011 I 2515
 
 [^F772101_01_BJNR103900009]:     Diese Verordnung dient der Umsetzung folgender Richtlinien:
-    1\.                                                         Richtlinie
-    77/504/EWG des Rates vom 25. Juli 1977 über reinrassige Zuchtrinder
-    (ABl. L 206 vom 12.8.1977, S. 8);
+    1\.Richtlinie 77/504/EWG des Rates vom 25. Juli 1977 über reinrassige
+    Zuchtrinder (ABl. L 206 vom 12.8.1977, S. 8);
 
 
-    2\.                                                         Richtlinie
-    88/661/EWG des Rates vom 19. Dezember 1988 über die tierzüchterischen
-    Normen für Zuchtschweine (ABl. L 382 vom 31.12.1988, S. 36);
+    2\.Richtlinie 88/661/EWG des Rates vom 19. Dezember 1988 über die
+    tierzüchterischen Normen für Zuchtschweine (ABl. L 382 vom 31.12.1988,
+    S. 36);
 
 
-    3\.                                                         Richtlinie
-    89/361/EWG des Rates vom 30. Mai 1989 über reinrassige Zuchtschafe und
-    -ziegen (ABl. L 153 vom 6.6.1989, S. 30);
+    3\.Richtlinie 89/361/EWG des Rates vom 30. Mai 1989 über reinrassige
+    Zuchtschafe und -ziegen (ABl. L 153 vom 6.6.1989, S. 30);
 
 
-    4\.                                                         Richtlinie
-    90/118/EWG des Rates vom 5. März 1990 über die Zulassung reinrassiger
-    Zuchtschweine zur Zucht (ABl. L 71 vom 17.3.1990, S. 34);
+    4\.Richtlinie 90/118/EWG des Rates vom 5. März 1990 über die Zulassung
+    reinrassiger Zuchtschweine zur Zucht (ABl. L 71 vom 17.3.1990, S. 34);
 
 
-    5\.                                                         Richtlinie
-    90/119/EWG des Rates vom 5. März 1990 über die Zulassung hybrider
-    Zuchtschweine zur Zucht (ABl. L 71 vom 17.3.1990, S. 36) und
+    5\.Richtlinie 90/119/EWG des Rates vom 5. März 1990 über die Zulassung
+    hybrider Zuchtschweine zur Zucht (ABl. L 71 vom 17.3.1990, S. 36) und
 
 
-    6\.                                                         Richtlinie
-    90/427/EWG des Rates vom 26. Juni 1990 zur Festlegung der
+    6\.Richtlinie 90/427/EWG des Rates vom 26. Juni 1990 zur Festlegung der
     tierzüchterischen und genealogischen Vorschriften für den
     innergemeinschaftlichen Handel mit Equiden (ABl. L 224 vom 18.8.1990,
     S. 55).

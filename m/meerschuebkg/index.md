@@ -4,7 +4,7 @@ Title: Gesetz zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 z
   und Luftfahrzeuge
 jurabk: MeerSchÜbkG
 layout: default
-origslug: meersch_bkg
+origslug: meerschuebkg
 slug: meerschuebkg
 
 ---

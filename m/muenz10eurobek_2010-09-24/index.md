@@ -23,8 +23,8 @@ Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 10-Euro-
 Gedenkmünze „175 Jahre Eisenbahn in Deutschland“ prägen zu lassen.
 
-Die Auflage der Münze beträgt 2 227 000 Stück, darunter maximal 200
-000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch das
+Die Auflage der Münze beträgt 2 227 000 Stück, darunter maximal
+200 000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch das
 Bayerische Hauptmünzamt, München.
 
 Die Münze wird ab dem 11. November 2010 in den Verkehr gebracht. Sie

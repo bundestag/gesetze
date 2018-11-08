@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 7.12.2011 I 2592
+:   Art. 2 G v. 25.6.2021 I 2050
 
 
 ## Abschnitt I - Allgemeines
@@ -50,7 +50,7 @@ Aktien, Gesellschaften mit beschränkter Haftung), Genossenschaften
 einschließlich Europäischer Genossenschaften sowie der Versicherungs-
 und Pensionsfondsvereine auf Gegenseitigkeit.
 2             Ist eine Kapitalgesellschaft Organgesellschaft im Sinne
-der §§ 14, 17 oder 18 des Körperschaftsteuergesetzes, so gilt sie als
+der § 14 oder § 17 des Körperschaftsteuergesetzes, so gilt sie als
 Betriebsstätte des Organträgers.
 
 (3) Als Gewerbebetrieb gilt auch die Tätigkeit der sonstigen
@@ -88,21 +88,60 @@ unterliegen nicht der Gewerbesteuer, wenn und soweit
 
 
 
-(7) Zum Inland im Sinne dieses Gesetzes gehört auch
+(7) Zum Inland im Sinne dieses Gesetzes gehört auch der der
+Bundesrepublik Deutschland zustehende Anteil
 
-1.  der der Bundesrepublik Deutschland zustehende Anteil am
-    Festlandsockel, soweit dort Naturschätze des Meeresgrundes und des
-    Meeresuntergrundes erforscht oder ausgebeutet werden oder dieser der
-    Energieerzeugung unter Nutzung erneuerbarer Energien dient, und
+1.  an der ausschließlichen Wirtschaftszone, soweit dort
+
+    a)  die lebenden und nicht lebenden natürlichen Ressourcen der Gewässer
+        über dem Meeresboden, des Meeresbodens und seines Untergrunds
+        erforscht, ausgebeutet, erhalten oder bewirtschaftet werden,
 
 
-2.  der nicht zur Bundesrepublik Deutschland gehörende Teil eines
+    b)  andere Tätigkeiten zur wirtschaftlichen Erforschung oder Ausbeutung
+        der ausschließlichen Wirtschaftszone ausgeübt werden, wie
+        beispielsweise die Energieerzeugung aus Wasser, Strömung und Wind oder
+
+
+    c)  künstliche Inseln errichtet oder genutzt werden und Anlagen und
+        Bauwerke für die in den Buchstaben a und b genannten Zwecke errichtet
+        oder genutzt werden, und
+
+
+
+
+
+2.  am Festlandsockel, soweit dort
+
+    a)  dessen natürliche Ressourcen erforscht oder ausgebeutet werden;
+        natürliche Ressourcen in diesem Sinne sind die mineralischen und
+        sonstigen nicht lebenden Ressourcen des Meeresbodens und seines
+        Untergrunds sowie die zu den sesshaften Arten gehörenden Lebewesen,
+        die im nutzbaren Stadium entweder unbeweglich auf oder unter dem
+        Meeresboden verbleiben oder sich nur in ständigem körperlichen Kontakt
+        mit dem Meeresboden oder seinem Untergrund fortbewegen können; oder
+
+
+    b)  künstliche Inseln errichtet oder genutzt werden und Anlagen und
+        Bauwerke für die in Buchstabe a genannten Zwecke errichtet oder
+        genutzt werden, und
+
+
+
+
+
+3.  der nicht zur Bundesrepublik Deutschland gehörende Teil eines
     grenzüberschreitenden Gewerbegebiets, das nach den Vorschriften eines
     Abkommens zur Vermeidung der Doppelbesteuerung als solches bestimmt
     ist.
 
 
 
+
+(8) Für die Anwendung dieses Gesetzes sind eine optierende
+Gesellschaft im Sinne des § 1a des Körperschaftsteuergesetzes als
+Kapitalgesellschaft und ihre Gesellschafter wie die nicht persönlich
+haftenden Gesellschafter einer Kapitalgesellschaft zu behandeln.
 
 
 ### § 2a Arbeitsgemeinschaften
@@ -118,12 +157,11 @@ insoweit anteilig als Betriebsstätten der Beteiligten.
 
 Von der Gewerbesteuer sind befreit
 
-1.  das Bundeseisenbahnvermögen, die Monopolverwaltungen des Bundes, die
-    staatlichen Lotterieunternehmen, die zugelassenen öffentlichen
-    Spielbanken mit ihren der Spielbankenabgabe unterliegenden Tätigkeiten
-    und der Erdölbevorratungsverband nach § 2 Abs. 1 des
-    Erdölbevorratungsgesetzes in der Fassung der Bekanntmachung vom 8.
-    Dezember 1987 (BGBl. I S. 2509);
+1.  das Bundeseisenbahnvermögen, die staatlichen Lotterieunternehmen, die
+    zugelassenen öffentlichen Spielbanken mit ihren der Spielbankenabgabe
+    unterliegenden Tätigkeiten und der Erdölbevorratungsverband nach § 2
+    Absatz 1 des Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S.
+    74) in der jeweils geltenden Fassung;
 
 
 2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die
@@ -132,14 +170,14 @@ Von der Gewerbesteuer sind befreit
     Finanzierungen mit beschränkter Haftung, die Bremer Aufbau-Bank GmbH,
     die Landeskreditbank Baden-Württemberg - Förderbank, die Bayerische
     Landesbodenkreditanstalt, die Investitionsbank Berlin, die
-    Hamburgische Wohnungsbaukreditanstalt, die NRW.Bank, die Investitions-
-    und Förderbank Niedersachsen, die Saarländische Investitionskreditbank
-    Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die
-    Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank -
-    Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-
-    Anhalt - Anstalt der Norddeutschen Landesbank - Girozentrale -, die
-    Investitions- und Strukturbank Rheinland-Pfalz, das
-    Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der
+    Hamburgische Investitions- und Förderbank, die NRW.Bank, die
+    Investitions- und Förderbank Niedersachsen, die Saarländische
+    Investitionskreditbank Aktiengesellschaft, die Investitionsbank
+    Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die
+    Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die
+    Investitionsbank Sachsen-Anhalt - Anstalt der Norddeutschen Landesbank
+    - Girozentrale -, die Investitions- und Strukturbank Rheinland-Pfalz,
+    das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der
     Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und
     Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der
     Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-
@@ -175,9 +213,9 @@ Von der Gewerbesteuer sind befreit
     Pferdekräften haben;
 
 
-8.  Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine im Sinne des §
-    5 Abs. 1 Nr. 14 des Körperschaftsteuergesetzes, soweit sie von der
-    Körperschaftsteuer befreit sind;
+8.  Genossenschaften sowie Vereine im Sinne des § 5 Abs. 1 Nr. 14 des
+    Körperschaftsteuergesetzes, soweit sie von der Körperschaftsteuer
+    befreit sind;
 
 
 9.  rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen im
@@ -213,22 +251,30 @@ Von der Gewerbesteuer sind befreit
 
 
 12. Gesellschaften, bei denen die Gesellschafter als Unternehmer
-    (Mitunternehmer) anzusehen sind, sowie Erwerbs- und
-    Wirtschaftsgenossenschaften, soweit die Gesellschaften und die
-    Erwerbs- und Wirtschaftsgenossenschaften eine gemeinschaftliche
+    (Mitunternehmer) anzusehen sind, sowie Genossenschaften, soweit die
+    Gesellschaften und die Genossenschaften eine gemeinschaftliche
     Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben;
 
 
-13. private Schulen und andere allgemein bildende oder berufsbildende
-    Einrichtungen, soweit ihre Leistungen nach § 4 Nr. 21 des
-    Umsatzsteuergesetzes von der Umsatzsteuer befreit sind;
+13. private Schulen und andere allgemeinbildende oder berufsbildende
+    Einrichtungen, soweit unmittelbar dem Schul- und Bildungszweck
+    dienende Leistungen erbracht werden, wenn sie
+
+    a)  als Ersatzschulen gemäß Artikel 7 Absatz 4 des Grundgesetzes staatlich
+        genehmigt oder nach Landesrecht erlaubt sind oder
 
 
-14. Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, deren
-    Tätigkeit sich auf den Betrieb der Land- und Forstwirtschaft
-    beschränkt, wenn die Mitglieder der Genossenschaft oder dem Verein
-    Flächen zur Nutzung oder für die Bewirtschaftung der Flächen
-    erforderliche Gebäude überlassen und
+    b)  auf einen Beruf oder eine vor einer juristischen Person des
+        öffentlichen Rechts abzulegende Prüfung ordnungsgemäß vorbereiten;
+
+
+
+
+
+14. Genossenschaften sowie Vereine, deren Tätigkeit sich auf den Betrieb
+    der Land- und Forstwirtschaft beschränkt, wenn die Mitglieder der
+    Genossenschaft oder dem Verein Flächen zur Nutzung oder für die
+    Bewirtschaftung der Flächen erforderliche Gebäude überlassen und
 
     a)  bei Genossenschaften das Verhältnis der Summe der Werte der
         Geschäftsanteile des einzelnen Mitglieds zu der Summe der Werte aller
@@ -248,9 +294,9 @@ Von der Gewerbesteuer sind befreit
     steht;
 
 
-15. Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine im Sinne des §
-    5 Abs. 1 Nr. 10 des Körperschaftsteuergesetzes, soweit sie von der
-    Körperschaftsteuer befreit sind;
+15. Genossenschaften sowie Vereine im Sinne des § 5 Abs. 1 Nr. 10 des
+    Körperschaftsteuergesetzes, soweit sie von der Körperschaftsteuer
+    befreit sind;
 
 
 16. (weggefallen)
@@ -280,8 +326,9 @@ Von der Gewerbesteuer sind befreit
 
 20. Krankenhäuser, Altenheime, Altenwohnheime, Pflegeheime, Einrichtungen
     zur vorübergehenden Aufnahme pflegebedürftiger Personen und
-    Einrichtungen zur ambulanten Pflege Kranker und pflegebedürftiger
-    Personen, wenn
+    Einrichtungen zur ambulanten Pflege kranker und pflegebedürftiger
+    Personen sowie Einrichtungen zur ambulanten oder stationären
+    Rehabilitation, wenn
 
     a)  diese Einrichtungen von juristischen Personen des öffentlichen Rechts
         betrieben werden oder
@@ -292,9 +339,9 @@ Von der Gewerbesteuer sind befreit
 
 
     c)  bei Altenheimen, Altenwohnheimen und Pflegeheimen im Erhebungszeitraum
-        mindestens 40 Prozent der Leistungen den in § 61 Abs. 1 des Zwölften
-        Buches Sozialgesetzbuch oder den in § 53 Nr. 2 der Abgabenordnung
-        genannten Personen zugute gekommen sind oder
+        mindestens 40 Prozent der Leistungen den in § 61a des Zwölften Buches
+        Sozialgesetzbuch oder den in § 53 Nr. 2 der Abgabenordnung genannten
+        Personen zugute gekommen sind oder
 
 
     d)  bei Einrichtungen zur vorübergehenden Aufnahme pflegebedürftiger
@@ -302,7 +349,17 @@ Von der Gewerbesteuer sind befreit
         pflegebedürftiger Personen im Erhebungszeitraum die Pflegekosten in
         mindestens 40 Prozent der Fälle von den gesetzlichen Trägern der
         Sozialversicherung oder Sozialhilfe ganz oder zum überwiegenden Teil
-        getragen worden sind;
+        getragen worden sind oder
+
+
+    e)  bei Einrichtungen zur ambulanten oder stationären Rehabilitation die
+        Behandlungskosten in mindestens 40 Prozent der Fälle von den
+        gesetzlichen Trägern der Sozialversicherung oder Sozialhilfe ganz oder
+        zum überwiegenden Teil getragen worden sind. Satz 1 ist nur
+        anzuwenden, soweit die Einrichtung Leistungen im Rahmen der
+        verordneten ambulanten oder stationären Rehabilitation im Sinne des
+        Sozialrechts einschließlich der Beihilfevorschriften des Bundes und
+        der Länder erbringt;
 
 
 
@@ -351,9 +408,9 @@ Von der Gewerbesteuer sind befreit
     staatlicher Hilfe Beteiligungen zu erwerben, wenn der von ihnen
     erzielte Gewinn ausschließlich und unmittelbar für die satzungsmäßigen
     Zwecke der Beteiligungsfinanzierung verwendet wird: Mittelständische
-    Beteiligungsgesellschaft Baden-Württemberg GmbH,
-    Kapitalbeteiligungsgesellschaft für die mittelständische Wirtschaft
-    Bayerns mbH, MBG Mittelständische Beteiligungsgesellschaft Hessen
+    Beteiligungsgesellschaft Baden-Württemberg GmbH, Mittelständische
+    Beteiligungsgesellschaft Bremen mbH, BTG Beteiligungsgesellschaft
+    Hamburg mbH, MBG Mittelständische Beteiligungsgesellschaft Hessen
     GmbH, Mittelständische Beteiligungsgesellschaft Niedersachsen (MBG)
     mbH, Kapitalbeteiligungsgesellschaft für die mittelständische
     Wirtschaft in Nordrhein-Westfalen mbH, MBG Mittelständische
@@ -402,7 +459,18 @@ Von der Gewerbesteuer sind befreit
 
 30. die Auftragsforschung im Sinne des § 5 Abs. 1 Nr. 23 des
     Körperschaftsteuergesetzes, soweit sie von der Körperschaftsteuer
-    befreit ist.
+    befreit ist;
+
+
+31. die Global Legal Entity Identifier Stiftung, soweit sie von der
+    Körperschaftsteuer befreit ist;
+
+
+32. stehende Gewerbebetriebe von Anlagenbetreibern im Sinne des § 3 Nummer
+    2 des Erneuerbare-Energien-Gesetzes, wenn sich deren Tätigkeit
+    ausschließlich auf die Erzeugung und Vermarktung von Strom aus einer
+    auf, an oder in einem Gebäude angebrachten Solaranlage bis zu einer
+    installierten Leistung von 10 Kilowatt beschränkt.
 
 
 
@@ -419,15 +487,22 @@ in mehreren Gemeinden, oder erstreckt sich eine Betriebsstätte über
 mehrere Gemeinden, so wird die Gewerbesteuer in jeder Gemeinde nach
 dem Teil des Steuermessbetrags erhoben, der auf sie entfällt.
 
-(2) Für Betriebsstätten in gemeindefreien Gebieten bestimmt die
-Landesregierung durch Rechtsverordnung, wer die nach diesem Gesetz den
-Gemeinden zustehenden Befugnisse ausübt.
+(2)
+1             Für Betriebsstätten in gemeindefreien Gebieten bestimmt
+die Landesregierung durch Rechtsverordnung, wer die nach diesem Gesetz
+den Gemeinden zustehenden Befugnisse ausübt.
+2             Der in § 2 Absatz 7 Nummer 1 und 2 bezeichnete Anteil am
+Festlandsockel und an der ausschließlichen Wirtschaftszone ist
+gemeindefreies Gebiet.
+3             In Fällen von Satz 2 bestimmt sich die zuständige
+Landesregierung im Sinne des Satzes 1 unter entsprechender Anwendung
+des § 22a der Abgabenordnung.
 
 (3)
 1             Für Betriebsstätten im nicht zur Bundesrepublik
 Deutschland gehörenden Teil eines grenzüberschreitenden Gewerbegebiets
-im Sinne des § 2 Abs. 7 Nr. 2 ist die Gemeinde hebeberechtigt, in der
-der zur Bundesrepublik Deutschland gehörende Teil des
+im Sinne des § 2 Absatz 7 Nummer 3 ist die Gemeinde hebeberechtigt, in
+der der zur Bundesrepublik Deutschland gehörende Teil des
 grenzüberschreitenden Gewerbegebiets liegt.
 2             Liegt der zur Bundesrepublik Deutschland gehörende Teil
 in mehreren Gemeinden, gilt Absatz 2 entsprechend.
@@ -492,8 +567,10 @@ Veräußerung oder Aufgabe
 soweit er nicht auf eine natürliche Person als unmittelbar beteiligter
 Mitunternehmer entfällt.
 3             Der nach § 5a des Einkommensteuergesetzes ermittelte
-Gewinn und das nach § 8 Abs. 1 Satz 3 des Körperschaftsteuergesetzes
-ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1.
+Gewinn einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a
+des Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 3 des
+Körperschaftsteuergesetzes ermittelte Einkommen gelten als
+Gewerbeertrag nach Satz 1.
 4             § 3 Nr. 40 und § 3c Abs. 2 des Einkommensteuergesetzes
 sind bei der Ermittlung des Gewerbeertrags einer Mitunternehmerschaft
 anzuwenden, soweit an der Mitunternehmerschaft natürliche Personen
@@ -511,6 +588,96 @@ Sinne des § 8 Abs. 9 Satz 1 des Körperschaftsteuergesetzes
 ausgeglichen werden.
 6             § 50d Abs. 10 des Einkommensteuergesetzes ist bei der
 Ermittlung des Gewerbeertrags entsprechend anzuwenden.
+7             Hinzurechnungsbeträge im Sinne des § 10 Absatz 1 des
+Außensteuergesetzes sind Einkünfte, die in einer inländischen
+Betriebsstätte anfallen.
+8             Einkünfte im Sinne des § 20 Absatz 2 Satz 1 des
+Außensteuergesetzes gelten als in einer inländischen Betriebsstätte
+erzielt; das gilt auch, wenn sie nicht von einem Abkommen zur
+Vermeidung der Doppelbesteuerung erfasst werden oder das Abkommen zur
+Vermeidung der Doppelbesteuerung selbst die Steueranrechnung anordnet.
+9             Satz 8 ist nicht anzuwenden, soweit auf die Einkünfte,
+würden sie in einer Zwischengesellschaft im Sinne des § 8 des
+Außensteuergesetzes erzielt, § 8 Absatz 2 bis 4 des
+Außensteuergesetzes zur Anwendung käme.
+
+
+### § 7a Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
+
+(1)
+1             Bei der Ermittlung des Gewerbeertrags einer
+Organgesellschaft ist § 9 Nummer 2a, 7 und 8 nicht anzuwenden.
+2             In den Fällen des Satzes 1 ist § 8 Nummer 1 bei
+Aufwendungen, die im unmittelbaren Zusammenhang mit Gewinnen aus
+Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 stehen, nicht
+anzuwenden.
+
+(2)
+1             Sind im Gewinn einer Organgesellschaft
+
+1.  Gewinne aus Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 oder
+
+
+2.  in den Fällen der Nummer 1 auch Aufwendungen, die im unmittelbaren
+    Zusammenhang mit diesen Gewinnen aus Anteilen stehen,
+
+
+
+enthalten, sind § 15 Satz 1 Nummer 2 Satz 2 bis 4 des
+Körperschaftsteuergesetzes und § 8 Nummer 1 und 5 sowie § 9 Nummer 2a,
+7 und 8 bei der Ermittlung des Gewerbeertrags der Organgesellschaft
+entsprechend anzuwenden.
+2             Der bei der Ermittlung des Gewerbeertrags der
+Organgesellschaft berücksichtigte Betrag der Hinzurechnungen nach § 8
+Nummer 1 ist dabei unter Berücksichtigung der Korrekturbeträge nach
+Absatz 1 und 2 Satz 1 zu berechnen.
+
+(3) Die Absätze 1 und 2 gelten in den Fällen des § 15 Satz 2 des
+Körperschaftsteuergesetzes entsprechend.
+
+
+### § 7b Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
+
+(1) Die §§ 3a und 3c Absatz 4 des Einkommensteuergesetzes sind
+vorbehaltlich der nachfolgenden Absätze bei der Ermittlung des
+Gewerbeertrags entsprechend anzuwenden.
+
+(2) Der nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 des
+Einkommensteuergesetzes verbleibende geminderte Sanierungsertrag im
+Sinne des § 3a Absatz 3 Satz 1 des Einkommensteuergesetzes mindert
+nacheinander
+
+1.  den negativen Gewerbeertrag des Sanierungsjahrs des zu sanierenden
+    Unternehmens,
+
+
+2.  Fehlbeträge im Sinne des § 10a Satz 3 und
+
+
+3.  im Sanierungsjahr ungeachtet des § 10a Satz 2 die nach § 10a Satz 6
+    zum Ende des vorangegangenen Erhebungszeitraums gesondert
+    festgestellten Fehlbeträge; die in § 10a Satz 1 und 2 genannten
+    Beträge werden der Minderung entsprechend aufgebraucht.
+
+
+
+Ein nach Satz 1 verbleibender Sanierungsertrag mindert die Beträge
+nach Satz 1 Nummer 1 bis 3 eines anderen Unternehmens, wenn dieses die
+erlassenen Schulden innerhalb eines Zeitraums von fünf Jahren vor dem
+Schuldenerlass auf das zu sanierende Unternehmen übertragen hat und
+soweit die entsprechenden Beträge zum Ablauf des Wirtschaftsjahrs der
+Übertragung bereits entstanden waren. Der verbleibende
+Sanierungsertrag nach Satz 2 ist zunächst um den Minderungsbetrag nach
+§ 3a Absatz 3 Satz 2 Nummer 13 des Einkommensteuergesetzes zu kürzen.
+Bei der Minderung nach Satz 1 ist § 10a Satz 4 und 5 entsprechend
+anzuwenden. In Fällen des § 10a Satz 9 ist § 8 Absatz 9 Satz 9 des
+Körperschaftsteuergesetzes entsprechend anzuwenden. An den
+Feststellungen der vortragsfähigen Fehlbeträge nehmen nur die nach
+Anwendung der Sätze 1 und 2 verbleibenden Beträge teil.
+
+(3) In den Fällen des § 2 Absatz 2 Satz 2 ist § 15 Satz 1 Nummer 1a
+des Körperschaftsteuergesetzes entsprechend anzuwenden. Absatz 2 Satz
+3 gilt entsprechend.
 
 
 ### § 8 Hinzurechnungen
@@ -548,7 +715,29 @@ worden sind:
 
     d)  einem Fünftel der Miet- und Pachtzinsen (einschließlich Leasingraten)
         für die Benutzung von beweglichen Wirtschaftsgütern des
-        Anlagevermögens, die im Eigentum eines anderen stehen,
+        Anlagevermögens, die im Eigentum eines anderen stehen.
+        2                         Eine Hinzurechnung nach Satz 1 ist nur zur
+        Hälfte vorzunehmen bei
+
+        aa) Fahrzeugen mit Antrieb ausschließlich durch Elektromotoren, die ganz
+            oder überwiegend aus mechanischen oder elektrochemischen
+            Energiespeichern oder aus emissionsfrei betriebenen Energiewandlern
+            gespeist werden (Elektrofahrzeuge),
+
+
+        bb) extern aufladbaren Hybridelektrofahrzeugen, für die sich aus der
+            Übereinstimmungsbescheinigung nach Anhang IX der Richtlinie 2007/46/EG
+            oder aus der Übereinstimmungsbescheinigung nach Artikel 38 der
+            Verordnung (EU) Nr. 168/2013 ergibt, dass das Fahrzeug eine
+            Kohlendioxidemission von höchstens 50 Gramm je gefahrenen Kilometer
+            hat oder die Reichweite des Fahrzeugs unter ausschließlicher Nutzung
+            der elektrischen Antriebsmaschine mindestens 80 Kilometer beträgt, und
+
+
+        cc) Fahrrädern, die keine Kraftfahrzeuge sind,
+
+
+
 
 
     e)  der Hälfte der Miet- und Pachtzinsen (einschließlich Leasingraten) für
@@ -567,7 +756,7 @@ worden sind:
 
 
 
-    soweit die Summe den Betrag von 100 000 Euro übersteigt;
+    soweit die Summe den Betrag von 200 000 Euro übersteigt;
 
 
 2.  (weggefallen)
@@ -592,8 +781,6 @@ worden sind:
     wirtschaftlichem Zusammenhang stehenden Betriebsausgaben, soweit sie
     nach § 3c Abs. 2 des Einkommensteuergesetzes und § 8b Abs. 5 und 10
     des Körperschaftsteuergesetzes unberücksichtigt bleiben.
-    2                   Dies gilt nicht für Gewinnausschüttungen, die
-    unter § 3 Nr. 41 Buchstabe a des Einkommensteuergesetzes fallen;
 
 
 6.  (weggefallen)
@@ -605,7 +792,10 @@ worden sind:
 8.  die Anteile am Verlust einer in- oder ausländischen offenen
     Handelsgesellschaft, einer Kommanditgesellschaft oder einer anderen
     Gesellschaft, bei der die Gesellschafter als Unternehmer
-    (Mitunternehmer) des Gewerbebetriebs anzusehen sind;
+    (Mitunternehmer) des Gewerbebetriebs anzusehen sind.
+    2                   Satz 1 ist bei Lebens- und
+    Krankenversicherungsunternehmen nicht anzuwenden; für Pensionsfonds
+    gilt Entsprechendes;
 
 
 9.  die Ausgaben im Sinne des § 9 Abs. 1 Nr. 2 des
@@ -664,21 +854,51 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
     bei Unternehmen, die ausschließlich eigenen Grundbesitz oder neben
     eigenem Grundbesitz eigenes Kapitalvermögen verwalten und nutzen oder
     daneben Wohnungsbauten betreuen oder Einfamilienhäuser,
-    Zweifamilienhäuser oder Eigentumswohnungen im Sinne des Ersten Teils
-    des Wohnungseigentumsgesetzes in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 403-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Artikel 28 des Gesetzes vom 14. Dezember 1984 (BGBl. I
-    S. 1493), errichten und veräußern, die Kürzung um den Teil des
-    Gewerbeertrags, der auf die Verwaltung und Nutzung des eigenen
-    Grundbesitzes entfällt.
-    3                   Satz 2 gilt entsprechend, wenn in Verbindung mit
-    der Errichtung und Veräußerung von Eigentumswohnungen Teileigentum im
-    Sinne des Wohnungseigentumsgesetzes errichtet und veräußert wird und
-    das Gebäude zu mehr als 66 2/3 Prozent Wohnzwecken dient.
+    Zweifamilienhäuser oder Eigentumswohnungen im Sinne des
+    Wohnungseigentumsgesetzes in der jeweils geltenden Fassung, errichten
+    und veräußern, die Kürzung um den Teil des Gewerbeertrags, der auf die
+    Verwaltung und Nutzung des eigenen Grundbesitzes entfällt.
+    3                   Satz 2 gilt entsprechend, wenn
+
+    a)  in Verbindung mit der Errichtung und Veräußerung von
+        Eigentumswohnungen Teileigentum im Sinne des Wohnungseigentumsgesetzes
+        errichtet und veräußert wird und das Gebäude zu mehr als 66 2/3
+        Prozent Wohnzwecken dient,
+
+
+    b)  in Verbindung mit der Verwaltung und Nutzung des eigenen Grundbesitzes
+        Einnahmen aus der Lieferung von Strom
+
+        aa) im Zusammenhang mit dem Betrieb von Anlagen zur Stromerzeugung aus
+            erneuerbaren Energien im Sinne des § 3 Nummer 21 des Erneuerbare-
+            Energien-Gesetzes oder
+
+
+        bb) aus dem Betrieb von Ladestationen für Elektrofahrzeuge oder
+            Elektrofahrräder,
+
+
+
+        erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als
+        10 Prozent der Einnahmen aus der Gebrauchsüberlassung des
+        Grundbesitzes sind; die Einnahmen im Sinne von Doppelbuchstabe aa
+        dürfen nicht aus der Lieferung an Letztverbraucher stammen, es sei
+        denn, diese sind Mieter des Anlagenbetreibers, oder
+
+
+    c)  Einnahmen aus unmittelbaren Vertragsbeziehungen mit den Mietern des
+        Grundbesitzes aus anderen als den in den Buchstaben a und b
+        bezeichneten Tätigkeiten erzielt werden und diese Einnahmen im
+        Wirtschaftsjahr nicht höher als 5 Prozent der Einnahmen aus der
+        Gebrauchsüberlassung des Grundbesitzes sind.
+
+
+
     4                   Betreut ein Unternehmen auch Wohnungsbauten oder
     veräußert es auch Einfamilienhäuser, Zweifamilienhäuser oder
-    Eigentumswohnungen, so ist Voraussetzung für die Anwendung des Satzes
-    2, dass der Gewinn aus der Verwaltung und Nutzung des eigenen
+    Eigentumswohnungen oder übt es auch Tätigkeiten im Sinne von Satz 3
+    Buchstabe b und c aus, so ist Voraussetzung für die Anwendung des
+    Satzes 2, dass der Gewinn aus der Verwaltung und Nutzung des eigenen
     Grundbesitzes gesondert ermittelt wird.
     5                   Die Sätze 2 und 3 gelten nicht,
 
@@ -686,12 +906,15 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
         Gesellschafters oder Genossen dient,
 
 
-    1a. soweit der Gewerbeertrag Vergütungen im Sinne des § 15 Abs. 1 Satz 1
-        Nr. 2 Satz 1 des Einkommensteuergesetzes enthält, die der
+    1a. soweit der Gewerbeertrag Vergütungen im Sinne des § 15 Absatz 1 Satz 1
+        Nummer 2 Satz 1 des Einkommensteuergesetzes enthält, die der
         Gesellschafter von der Gesellschaft für seine Tätigkeit im Dienst der
         Gesellschaft oder für die Hingabe von Darlehen oder für die
         Überlassung von Wirtschaftsgütern, mit Ausnahme der Überlassung von
-        Grundbesitz, bezogen hat oder
+        Grundbesitz, bezogen hat.
+        2                         Satz 1 ist auch auf Vergütungen anzuwenden,
+        die vor dem 19. Juni 2008 erstmals vereinbart worden sind, wenn die
+        Vereinbarung nach diesem Zeitpunkt wesentlich geändert wird, oder
 
 
     2.  soweit der Gewerbeertrag Gewinne aus der Aufdeckung stiller Reserven
@@ -715,23 +938,32 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
     Gesellschaft, bei der die Gesellschafter als Unternehmer
     (Mitunternehmer) des Gewerbebetriebs anzusehen sind, wenn die
     Gewinnanteile bei Ermittlung des Gewinns angesetzt worden sind.
-    2                   Satz 1 ist bei Lebens- und
-    Krankenversicherungsunternehmen nicht anzuwenden; für Pensionsfonds
-    gilt Entsprechendes;
+    2                   Satz 1 ist nicht anzuwenden, soweit im
+    Gewinnanteil Einkünfte im Sinne des § 7 Satz 7 und 8 enthalten sind.
+    3                   Bei Lebens- und Krankenversicherungsunternehmen
+    und Pensionsfonds ist Satz 1 auch auf den übrigen Gewinnanteil nicht
+    anzuwenden.
+    4                   Satz 2 ist nicht anzuwenden, soweit diese
+    Einkünfte bereits bei einer den Anteil am Gewinn vermittelnden
+    inländischen offenen Handelsgesellschaft, Kommanditgesellschaft oder
+    anderen Gesellschaft, bei der die Gesellschafter als Unternehmer
+    (Mitunternehmer) des Gewerbebetriebs anzusehen sind, Bestandteil des
+    Gewerbeertrags waren.
+    5                   Bei Lebens- und Krankenversicherungsunternehmen
+    und Pensionsfonds ist Satz 4 auf Einkünfte im Sinne des § 7 Satz 8
+    nicht anzuwenden;
 
 
 2a. die Gewinne aus Anteilen an einer nicht steuerbefreiten inländischen
     Kapitalgesellschaft im Sinne des § 2 Abs. 2, einer Kredit- oder
-    Versicherungsanstalt des öffentlichen Rechts, einer Erwerbs- und
-    Wirtschaftsgenossenschaft oder einer
-    Unternehmensbeteiligungsgesellschaft im Sinne des § 3 Nr. 23, wenn die
-    Beteiligung zu Beginn des Erhebungszeitraums mindestens 15 Prozent des
-    Grund- oder Stammkapitals beträgt und die Gewinnanteile bei Ermittlung
-    des Gewinns (§ 7) angesetzt worden sind.
+    Versicherungsanstalt des öffentlichen Rechts, einer Genossenschaften
+    oder einer Unternehmensbeteiligungsgesellschaft im Sinne des § 3 Nr.
+    23, wenn die Beteiligung zu Beginn des Erhebungszeitraums mindestens
+    15 Prozent des Grund- oder Stammkapitals beträgt und die Gewinnanteile
+    bei Ermittlung des Gewinns (§ 7) angesetzt worden sind.
     2                   Ist ein Grund- oder Stammkapital nicht vorhanden,
-    so ist die Beteiligung an dem Vermögen, bei Erwerbs- und
-    Wirtschaftsgenossenschaften die Beteiligung an der Summe der
-    Geschäftsguthaben, maßgebend.
+    so ist die Beteiligung an dem Vermögen, bei Genossenschaften die
+    Beteiligung an der Summe der Geschäftsguthaben, maßgebend.
     3                   Im unmittelbaren Zusammenhang mit Gewinnanteilen
     stehende Aufwendungen mindern den Kürzungsbetrag, soweit entsprechende
     Beteiligungserträge zu berücksichtigen sind; insoweit findet § 8 Nr. 1
@@ -751,7 +983,8 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 
 3.  den Teil des Gewerbeertrags eines inländischen Unternehmens, der auf
-    eine nicht im Inland belegene Betriebsstätte entfällt.
+    eine nicht im Inland belegene Betriebsstätte dieses Unternehmens
+    entfällt; dies gilt nicht für Einkünfte im Sinne des § 7 Satz 7 und 8.
     2                   Bei Unternehmen, die ausschließlich den Betrieb
     von eigenen oder gecharterten Handelsschiffen im internationalen
     Verkehr zum Gegenstand haben, gelten 80 Prozent des Gewerbeertrags als
@@ -811,15 +1044,8 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
     nach Satz 2 ist weitere Voraussetzung, dass durch diese Staaten
     Amtshilfe und Unterstützung bei der Beitreibung geleistet werden.
     4                   Amtshilfe ist der Auskunftsaustausch im Sinne oder
-    entsprechend der Richtlinie 77/799/EWG des Rates vom 19. Dezember 1977
-    über die gegenseitige Amtshilfe zwischen den zuständigen Behörden der
-    Mitgliedstaaten im Bereich der direkten Steuern und der Mehrwertsteuer
-    (ABl. L 336 vom 27.12.1977, S. 15), die zuletzt durch die Richtlinie
-    2006/98/EG (ABl. L 363 vom 20.12.2006, S. 129) geändert worden ist,
-    einschließlich der in diesem Zusammenhang anzuwendenden
-    Durchführungsbestimmungen in den für den jeweiligen
-    Veranlagungszeitraum geltenden Fassungen oder eines entsprechenden
-    Nachfolgerechtsaktes.
+    entsprechend der Amtshilferichtlinie gemäß § 2 Absatz 2 des EU-
+    Amtshilfegesetzes.
     5                   Beitreibung ist die gegenseitige Unterstützung bei
     der Beitreibung von Forderungen im Sinne oder entsprechend der
     Beitreibungsrichtlinie einschließlich der in diesem Zusammenhang
@@ -837,50 +1063,63 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
     7                   In die Kürzung nach Satz 1 sind auch
     Mitgliedsbeiträge an Körperschaften einzubeziehen, die Kunst und
     Kultur gemäß § 52 Absatz 2 Nummer 5 der Abgabenordnung fördern, soweit
-    es sich nicht um Mitgliedsbeiträge nach Satz 11 Nummer 2 handelt, auch
-    wenn den Mitgliedern Vergünstigungen gewährt werden.
+    es sich nicht um Mitgliedsbeiträge nach Satz 12 Buchstabe b handelt,
+    auch wenn den Mitgliedern Vergünstigungen gewährt werden.
     8                   Überschreiten die geleisteten Zuwendungen die
     Höchstsätze nach Satz 1, kann die Kürzung im Rahmen der Höchstsätze
     nach Satz 1 in den folgenden Erhebungszeiträumen vorgenommen werden.
     9                   Einzelunternehmen und Personengesellschaften
     können auf Antrag neben der Kürzung nach Satz 1 eine Kürzung um die im
-    Erhebungszeitraum in den Vermögensstock einer Stiftung, die die
-    Voraussetzungen der Sätze 2 bis 6 erfüllt, geleisteten Spenden in
-    diesem und in den folgenden neun Erhebungszeiträumen bis zu einem
-    Betrag von 1 Million Euro vornehmen.
-    10                   Der besondere Kürzungsbetrag nach Satz 9 kann der
+    Erhebungszeitraum in das zu erhaltende Vermögen (Vermögensstock) einer
+    Stiftung, die die Voraussetzungen der Sätze 2 bis 6 erfüllt,
+    geleisteten Spenden in diesem und in den folgenden neun
+    Erhebungszeiträumen bis zu einem Betrag von 1 Million Euro vornehmen.
+    10                   Nicht abzugsfähig nach Satz 9 sind Spenden in das
+    verbrauchbare Vermögen einer Stiftung.
+    11                   Der besondere Kürzungsbetrag nach Satz 9 kann der
     Höhe nach innerhalb des Zehnjahreszeitraums nur einmal in Anspruch
     genommen werden.
-    11                   Eine Kürzung nach den Sätzen 1 bis 10 ist
-    ausgeschlossen, soweit auf die geleisteten Zuwendungen § 8 Abs. 3 des
-    Körperschaftsteuergesetzes anzuwenden ist oder soweit
-    Mitgliedsbeiträge an Körperschaften geleistet werden, die
+    12                   Eine Kürzung nach den Sätzen 1 bis 10 ist
+    ausgeschlossen, soweit auf die geleisteten Zuwendungen § 8 Absatz 3
+    des Körperschaftsteuergesetzes anzuwenden ist oder soweit
+    Mitgliedsbeiträge an Körperschaften geleistet werden,
 
-    1.  den Sport (§ 52 Abs. 2 Nr. 21 der Abgabenordnung),
-
-
-    2.  kulturelle Betätigungen, die in erster Linie der Freizeitgestaltung
-        dienen,
+    a)  die den Sport (§ 52 Absatz 2 Satz 1 Nummer 21 der Abgabenordnung),
 
 
-    3.  die Heimatpflege und Heimatkunde (§ 52 Abs. 2 Nr. 22 der
-        Abgabenordnung) oder
+    b)  die kulturelle Betätigungen, die in erster Linie der
+        Freizeitgestaltung dienen,
 
 
-    4.  Zwecke im Sinne des § 52 Abs. 2 Nr. 23 der Abgabenordnung
+    c)  die Heimatpflege und Heimatkunde (§ 52 Absatz 2 Satz 1 Nummer 22 der
+        Abgabenordnung),
+
+
+    d)  die Zwecke im Sinne des § 52 Absatz 2 Satz 1 Nummer 23 der
+        Abgabenordnung
 
 
 
-    fördern.
-    12                   § 10b Abs. 3 und 4 Satz 1 sowie § 10d Abs. 4 des
-    Einkommensteuergesetzes und § 9 Abs. 2 Satz 2 bis 5 und Abs. 3 Satz 1
-    des Körperschaftsteuergesetzes gelten entsprechend.
-    13                   Wer vorsätzlich oder grob fahrlässig eine
+    fördern oder
+
+    e)  deren Zweck nach § 52 Absatz 2 Satz 2 der Abgabenordnung für
+        gemeinnützig erklärt worden ist, weil deren Zweck die Allgemeinheit
+        auf materiellem, geistigem oder sittlichem Gebiet entsprechend einem
+        Zweck nach den Buchstaben a bis d fördert.
+
+
+
+    13                   § 10b Absatz 3 und 4 Satz 1 sowie § 10d Absatz 4
+    des Einkommensteuergesetzes und § 9 Absatz 2 Satz 2 bis 5 und Absatz 3
+    Satz 1 des Körperschaftsteuergesetzes, sowie die
+    einkommensteuerrechtlichen Vorschriften zur Abziehbarkeit von
+    Zuwendungen gelten entsprechend.
+    14                   Wer vorsätzlich oder grob fahrlässig eine
     unrichtige Bestätigung über Spenden und Mitgliedsbeiträge ausstellt
-    oder wer veranlasst, dass entsprechende Zuwendungen nicht zu den in
-    der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet
-    werden (Veranlasserhaftung), haftet für die entgangene Gewerbesteuer.
-    14                   In den Fällen der Veranlasserhaftung ist
+    oder veranlasst, dass entsprechende Zuwendungen nicht zu den in der
+    Bestätigung angegebenen steuerbegünstigten Zwecken verwendet werden
+    (Veranlasserhaftung), haftet für die entgangene Gewerbesteuer.
+    15                   In den Fällen der Veranlasserhaftung ist
     vorrangig der Zuwendungsempfänger in Anspruch zu nehmen; die
     natürlichen Personen, die in diesen Fällen für den Zuwendungsempfänger
     handeln, sind nur in Anspruch zu nehmen, wenn die entgangene Steuer
@@ -888,14 +1127,14 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
     Vollstreckungsmaßnahmen gegen den Zuwendungsempfänger nicht
     erfolgreich sind; § 10b Absatz 4 Satz 5 des Einkommensteuergesetzes
     gilt entsprechend.
-    15                   Der Haftungsbetrag ist mit 15 Prozent der
+    16                   Der Haftungsbetrag ist mit 15 Prozent der
     Zuwendungen anzusetzen und fließt der für den Spendenempfänger
     zuständigen Gemeinde zu, die durch sinngemäße Anwendung des § 20 der
     Abgabenordnung bestimmt wird.
-    16                   Der Haftungsbetrag wird durch Haftungsbescheid
+    17                   Der Haftungsbetrag wird durch Haftungsbescheid
     des Finanzamts festgesetzt; die Befugnis der Gemeinde zur Erhebung der
     entgangenen Gewerbesteuer bleibt unberührt.
-    17                   § 184 Abs. 3 der Abgabenordnung gilt sinngemäß.
+    18                   § 184 Abs. 3 der Abgabenordnung gilt sinngemäß.
 
 
 6.  (weggefallen)
@@ -903,108 +1142,10 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 7.  die Gewinne aus Anteilen an einer Kapitalgesellschaft mit
     Geschäftsleitung und Sitz außerhalb des Geltungsbereichs dieses
-    Gesetzes, an deren Nennkapital das Unternehmen seit Beginn des
-    Erhebungszeitraums ununterbrochen mindestens zu 15 Prozent beteiligt
-    ist (Tochtergesellschaft) und die ihre Bruttoerträge ausschließlich
-    oder fast ausschließlich aus unter § 8 Abs. 1 Nr. 1 bis 6 des
-    Außensteuergesetzes fallenden Tätigkeiten und aus Beteiligungen an
-    Gesellschaften bezieht, an deren Nennkapital sie mindestens zu einem
-    Viertel unmittelbar beteiligt ist, wenn die Beteiligungen
-    ununterbrochen seit mindestens zwölf Monaten vor dem für die
-    Ermittlung des Gewinns maßgebenden Abschlussstichtag bestehen und das
-    Unternehmen nachweist, dass
-
-    1.  diese Gesellschaften Geschäftsleitung und Sitz in demselben Staat wie
-        die Tochtergesellschaft haben und ihre Bruttoerträge ausschließlich
-        oder fast ausschließlich aus den unter § 8 Abs. 1 Nr. 1 bis 6 des
-        Außensteuergesetzes fallenden Tätigkeiten beziehen oder
-
-
-    2.  die Tochtergesellschaft die Beteiligungen in wirtschaftlichem
-        Zusammenhang mit eigenen unter Absatz 1 Nr. 1 bis 6 fallenden
-        Tätigkeiten hält und die Gesellschaft, an der die Beteiligung besteht,
-        ihre Bruttoerträge ausschließlich oder fast ausschließlich aus solchen
-        Tätigkeiten bezieht,
-
-
-
-
-    wenn die Gewinnanteile bei der Ermittlung des Gewinns (§ 7) angesetzt
-    worden sind; das gilt auch für Gewinne aus Anteilen an einer
-    Gesellschaft, die die in der Anlage 2 zum Einkommensteuergesetz
-    genannten Voraussetzungen des Artikels 2 der Richtlinie 90/435/EWG des
-    Rates vom 23. Juli 1990 über das gemeinsame Steuersystem der Mutter-
-    und Tochtergesellschaften verschiedener Mitgliedstaaten (ABl. EG Nr. L
-    225 S. 6, Nr. L 266 S. 20, 1997 Nr. L 16 S. 98), zuletzt geändert
-    durch Richtlinie 2006/98/EG des Rates vom 20. November 2006 (ABl. EU
-    Nr. L 363 S. 129), erfüllt, weder Geschäftsleitung noch Sitz im Inland
-    hat und an deren Nennkapital das Unternehmen zu Beginn des
-    Erhebungszeitraums mindestens zu einem Zehntel beteiligt ist.
-    2                   § 9 Nr. 2a Satz 3 gilt entsprechend.
-    3                   § 9 Nr. 2a Satz 4 gilt entsprechend.
-    4                   Bezieht ein Unternehmen, das über eine
-    Tochtergesellschaft mindestens zu 15 Prozent an einer
-    Kapitalgesellschaft mit Geschäftsleitung und Sitz außerhalb des
-    Geltungsbereichs dieses Gesetzes (Enkelgesellschaft) mittelbar
-    beteiligt ist, in einem Wirtschaftsjahr Gewinne aus Anteilen an der
-    Tochtergesellschaft und schüttet die Enkelgesellschaft zu einem
-    Zeitpunkt, der in dieses Wirtschaftsjahr fällt, Gewinne an die
-    Tochtergesellschaft aus, so gilt auf Antrag des Unternehmens das
-    Gleiche für den Teil der von ihm bezogenen Gewinne, der der nach
-    seiner mittelbaren Beteiligung auf das Unternehmen entfallenden
-    Gewinnausschüttung der Enkelgesellschaft entspricht.
-    5                   Hat die Tochtergesellschaft in dem betreffenden
-    Wirtschaftsjahr neben den Gewinnanteilen einer Enkelgesellschaft noch
-    andere Erträge bezogen, so findet Satz 4 nur Anwendung für den Teil
-    der Ausschüttung der Tochtergesellschaft, der dem Verhältnis dieser
-    Gewinnanteile zu der Summe dieser Gewinnanteile und der übrigen
-    Erträge entspricht, höchstens aber in Höhe des Betrags dieser
-    Gewinnanteile.
-    6                   Die Anwendung des Satzes 4 setzt voraus, dass
-
-    1.  die Enkelgesellschaft in dem Wirtschaftsjahr, für das sie die
-        Ausschüttung vorgenommen hat, ihre Bruttoerträge ausschließlich oder
-        fast ausschließlich aus unter § 8 Abs. 1 Nr. 1 bis 6 des
-        Außensteuergesetzes fallenden Tätigkeiten oder aus unter Satz 1 Nr. 1
-        fallenden Beteiligungen bezieht und
-
-
-    2.  die Tochtergesellschaft unter den Voraussetzungen des Satzes 1 am
-        Nennkapital der Enkelgesellschaft beteiligt ist.
-
-
-
-
-    7                   Die Anwendung der vorstehenden Vorschriften setzt
-    voraus, dass das Unternehmen alle Nachweise erbringt, insbesondere
-
-    1.  durch Vorlage sachdienlicher Unterlagen nachweist, dass die
-        Tochtergesellschaft ihre Bruttoerträge ausschließlich oder fast
-        ausschließlich aus unter § 8 Abs. 1 Nr. 1 bis 6 des
-        Außensteuergesetzes fallenden Tätigkeiten oder aus unter Satz 1 Nr. 1
-        und 2 fallenden Beteiligungen bezieht,
-
-
-    2.  durch Vorlage sachdienlicher Unterlagen nachweist, dass die
-        Enkelgesellschaft ihre Bruttoerträge ausschließlich oder fast
-        ausschließlich aus unter § 8 Abs. 1 Nr. 1 bis 6 des
-        Außensteuergesetzes fallenden Tätigkeiten oder aus unter Satz 1 Nr. 1
-        fallenden Beteiligungen bezieht,
-
-
-    3.  den ausschüttbaren Gewinn der Tochtergesellschaft oder
-        Enkelgesellschaft durch Vorlage von Bilanzen und Erfolgsrechnungen
-        nachweist; auf Verlangen sind diese Unterlagen mit dem im Staat der
-        Geschäftsleitung oder des Sitzes vorgeschriebenen oder üblichen
-        Prüfungsvermerk einer behördlich anerkannten Wirtschaftsprüfungsstelle
-        oder einer vergleichbaren Stelle vorzulegen.
-        8                         Die Sätze 1 bis 7 sind bei Lebens- und
-        Krankenversicherungsunternehmen auf Gewinne aus Anteilen, die den
-        Kapitalanlagen zuzurechnen sind, nicht anzuwenden; für Pensionsfonds
-        gilt Entsprechendes;
-
-
-
+    Gesetzes, wenn die Beteiligung zu Beginn des Erhebungszeitraums
+    mindestens 15 Prozent des Nennkapitals beträgt und die Gewinnanteile
+    bei der Ermittlung des Gewinns (§ 7) angesetzt worden sind.
+    2                   § 9 Nummer 2a Satz 3 bis 5 gilt entsprechend;
 
 
 8.  die Gewinne aus Anteilen an einer ausländischen Gesellschaft, die nach
@@ -1095,6 +1236,16 @@ den Fehlbetrag einer Mitunternehmerschaft, soweit dieser
 
 
 zuzurechnen ist.
+11             Auf die Fehlbeträge ist § 8d des
+Körperschaftsteuergesetzes entsprechend anzuwenden, wenn ein
+fortführungsgebundener Verlustvortrag nach § 8d des
+Körperschaftsteuergesetzes gesondert festgestellt worden ist.
+12             Unterbleibt eine Feststellung nach § 8d Absatz 1 Satz 8
+des Körperschaftsteuergesetzes, weil keine nicht genutzten Verluste
+nach § 8c Absatz 1 Satz 1 des Körperschaftsteuergesetzes vorliegen,
+ist auf Antrag auf die Fehlbeträge § 8d des Körperschaftsteuergesetzes
+entsprechend anzuwenden; für die Form und die Frist dieses Antrags
+gilt § 8d Absatz 1 Satz 5 des Körperschaftsteuergesetzes entsprechend.
 
 
 ### § 11 Steuermesszahl und Steuermessbetrag
@@ -1135,7 +1286,7 @@ Abs. 1 des Umsatzsteuergesetzes) aus der Tätigkeit unmittelbar für den
 Absatzmarkt im Erhebungszeitraum 25 000 Euro nicht übersteigen.
 
 
-## Abschnitt III -
+## Abschnitt III - 
 
 
 
@@ -1280,13 +1431,6 @@ Gewerbesteuer-Vorauszahlungen den Steuermessbetrag festsetzen, der
 sich voraussichtlich ergeben wird.
 4             An diese Festsetzung ist die Gemeinde bei der Anpassung
 der Vorauszahlungen nach den Sätzen 1 und 2 gebunden.
-5             Wird der Gewinn durch Bestandsvergleich ermittelt, sind
-bei der Festsetzung des Messbetrags für Zwecke der Gewerbesteuer-
-Vorauszahlungen die Änderungen durch das Unternehmensteuerreformgesetz
-2008 vom 14. August 2007 (BGBl. I S. 1912) zu berücksichtigen, wenn
-der Steuerpflichtige dies nach amtlich vorgeschriebenem Vordruck beim
-Finanzamt beantragt oder das Finanzamt den Steuerpflichtigen zur
-Abgabe des Vordrucks auffordert.
 
 (4) Wird im Laufe des Erhebungszeitraums ein Gewerbebetrieb neu
 gegründet oder tritt ein bereits bestehender Gewerbebetrieb infolge
@@ -1381,13 +1525,55 @@ Zerlegungsanteil oder der Steuermessbetrag entfallen würde.
     beschäftigten Arbeitnehmer gezahlt worden sind;
 
 
-2.  bei Betrieben, die Anlagen zur Erzeugung von Windenergie betreiben, zu
-    drei Zehntel das in Nummer 1 bezeichnete Verhältnis und zu sieben
-    Zehntel das Verhältnis, in dem die Summe der steuerlich maßgebenden
-    Ansätze des Sachanlagevermögens mit Ausnahme der Betriebs- und
-    Geschäftsausstattung, der geleisteten Anzahlungen und der Anlagen im
-    Bau in allen Betriebsstätten (§ 28) zu dem Ansatz in den einzelnen
-    Betriebsstätten steht.
+2.  bei Betrieben, die ausschließlich Anlagen zur Erzeugung von Strom und
+    anderen Energieträgern sowie Wärme aus Windenergie und solarer
+    Strahlungsenergie betreiben,
+
+    a)  vorbehaltlich des Buchstabens b zu einem Zehntel das in Nummer 1
+        bezeichnete Verhältnis und zu neun Zehnteln das Verhältnis, in dem die
+        Summe der installierten Leistung im Sinne von § 3 Nummer 31 des
+        Erneuerbare-Energien-Gesetzes in allen Betriebsstätten (§ 28) zur
+        installierten Leistung in den einzelnen Betriebsstätten steht,
+
+
+    b)  für die Erhebungszeiträume 2021 bis 2023 bei Betrieben, die
+        ausschließlich Anlagen zur Erzeugung von Strom und anderen
+        Energieträgern sowie Wärme aus solarer Strahlungsenergie betreiben,
+
+        aa) für den auf Neuanlagen im Sinne von Satz 3 entfallenden Anteil am
+            Steuermessbetrag zu einem Zehntel das in Nummer 1 bezeichnete
+            Verhältnis und zu neun Zehnteln das Verhältnis, in dem die Summe der
+            installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-
+            Energien-Gesetzes in allen Betriebsstätten (§ 28) zur installierten
+            Leistung in den einzelnen Betriebsstätten steht, und
+
+
+        bb) für den auf die übrigen Anlagen im Sinne von Satz 4 entfallenden
+            Anteil am Steuermessbetrag das in Nummer 1 bezeichnete Verhältnis.
+
+
+
+        Der auf Neuanlagen und auf übrige Anlagen jeweils entfallende Anteil
+        am Steuermessbetrag wird ermittelt aus dem Verhältnis, in dem
+
+        aa) die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des
+            Erneuerbare-Energien-Gesetzes für Neuanlagen und
+
+
+        bb) die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des
+            Erneuerbare-Energien-Gesetzes für die übrigen Anlagen
+
+
+
+        zur gesamten installierten Leistung im Sinne von § 3 Nummer 31 des
+        Erneuerbare-Energien-Gesetzes des Betriebs steht. Neuanlagen sind
+        Anlagen, die nach dem 30. Juni 2013 zur Erzeugung von Strom und
+        anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie
+        genehmigt wurden. Die übrigen Anlagen sind Anlagen, die nicht unter
+        Satz 3 fallen.
+
+
+
 
 
 
@@ -1610,7 +1796,7 @@ Bundesrates
 
 
     d)  über die Steuerbefreiung bei bestimmten kleineren
-        Versicherungsvereinen auf Gegenseitigkeit im Sinne des § 53 des
+        Versicherungsvereinen auf Gegenseitigkeit im Sinne des § 210 des
         Versicherungsaufsichtsgesetzes, wenn sie von der Körperschaftsteuer
         befreit sind,
 
@@ -1629,12 +1815,29 @@ Bundesrates
 
     f)  über die Beschränkung der Hinzurechnung von Entgelten für Schulden und
         ihnen gleichgestellte Beträge (§ 8 Nummer 1 Buchstabe a) bei
-        Finanzdienstleistungsinstituten, soweit sie Finanzdienstleistungen im
-        Sinne des § 1 Absatz 1a Satz 2 des Gesetzes über das Kreditwesen
-        tätigen.
+
+        aa) Finanzdienstleistungsinstituten, soweit sie Finanzdienstleistungen im
+            Sinne des § 1 Absatz 1a Satz 2 des Kreditwesengesetzes tätigen,
+
+
+        bb) Zahlungsinstituten, soweit sie Zahlungsdienste im Sinne des § 1 Absatz
+            1 Satz 2 Nummer 3 Buchstabe b und Nummer 6 des
+            Zahlungsdiensteaufsichtsgesetzes erbringen,
+
+
+        cc) Wertpapierinstituten, soweit sie Wertpapierdienstleistungen,
+            Wertpapiernebendienstleistungen und Nebengeschäfte im Sinne des § 2
+            Absatz 2 bis 4 des Wertpapierinstitutsgesetzes erbringen.
+
+
+
         2                         Voraussetzung für die Umsetzung von Satz 1
         ist, dass die Umsätze des Finanzdienstleistungsinstituts zu mindestens
-        50 Prozent auf Finanzdienstleistungen entfallen,
+        50 Prozent auf Finanzdienstleistungen, die Umsätze der
+        Wertpapierinstitute zu mindestens 50 Prozent auf
+        Wertpapierdienstleistungen, Wertpapiernebendienstleistungen und
+        Nebengeschäfte und die Umsätze des Zahlungsinstituts zu mindestens 50
+        Prozent auf Zahlungsdienste entfallen,
 
 
     g)  über die Festsetzung abweichender Vorauszahlungstermine.
@@ -1660,280 +1863,78 @@ Unstimmigkeiten im Wortlaut zu beseitigen.
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
-Erhebungszeitraum 2010 anzuwenden.
+Erhebungszeitraum 2021 anzuwenden.
 
 (2)
-1             § 2 Abs. 2 Satz 1 in der Fassung des Artikels 5 des
-Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist erstmals für den
-Erhebungszeitraum 2006 anzuwenden.
-2             § 2 Abs. 2 Satz 2 ist für den Erhebungszeitraum 2001 in
-folgender Fassung anzuwenden:
-"Ist eine Kapitalgesellschaft in ein einziges anderes inländisches
-gewerbliches Unternehmen in der Weise eingegliedert, dass die
-Voraussetzungen des § 14 Nr. 1 des Körperschaftsteuergesetzes in der
-Fassung des Artikels 4 des Gesetzes vom 20. Dezember 2000 (BGBl. I S.
-1850) und des § 14 Nr. 2 und 3 des Körperschaftsteuergesetzes in der
-Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-1034) erfüllt sind, so gilt sie als Betriebsstätte des anderen
-Unternehmens."
-3             § 2 Abs. 2 Satz 3 des Gewerbesteuergesetzes in der
-Fassung des Artikels 7 des Gesetzes vom 20. Dezember 2001 (BGBl. I S.
-3794) ist letztmals für den Erhebungszeitraum 2001 anzuwenden.
-4             § 2 Abs. 2 Satz 3 in der Fassung des Artikels 4 des
-Gesetzes vom 20. Dezember 2001 (BGBl. I S. 3858) ist auch für
-Erhebungszeiträume vor 2002 anzuwenden.
-5             § 2 Abs. 7 Nr. 1 in der Fassung des Artikels 5 des
-Gesetzes vom 20. Dezember 2007 (BGBl. I S. 3150) ist erstmals ab dem
-Erhebungszeitraum 2008 anzuwenden.
+1             § 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Erhebungszeitraum 2019 anzuwenden.
+2             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Erhebungszeitraum 2015 anzuwenden.
+3             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Erhebungszeitraum 2019 anzuwenden.
+4             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Erhebungszeitraum 2019 anzuwenden.
 
 (3)
-1             § 3 Nr. 2 ist für die Landestreuhandstelle Hessen - Bank
-für Infrastruktur - rechtlich unselbständige Anstalt in der Landesbank
-Hessen-Thüringen Girozentrale erstmals für den Erhebungszeitraum 2007
-sowie für die Investitions- und Förderbank Niedersachsen erstmals für
-den Erhebungszeitraum 2008 anzuwenden.
-2             § 3 Nummer 2 ist für die Wirtschafts- und
-Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der
-Landesbank Hessen-Thüringen Girozentrale erstmals für den
-Erhebungszeitraum 2009 anzuwenden.
-3             Die Steuerbefreiung nach § 3 Nr. 2 in der bis zum 24.
-Dezember 2008 geltenden Fassung ist für die Investitions- und
-Förderbank Niedersachsen GmbH sowie für die Niedersächsische
-Landestreuhandstelle - Norddeutsche Landesbank Girozentrale -
-letztmals für den Erhebungszeitraum 2007 anzuwenden.
-4             Die Steuerbefreiung nach § 3 Nummer 2 ist für die
-Investitionsbank Hessen, für die Wohnungsbauförderungsanstalt
-Nordrhein-Westfalen – Anstalt der NRW.Bank – und für die
-Landestreuhandstelle Hessen – Bank für Infrastruktur – rechtlich
-unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale
-– letztmals für den Erhebungszeitraum 2009 anzuwenden.
+1             § 7 Satz 3 in der durch Artikel 8 des Gesetzes vom 12.
+Dezember 2019 (BGBl. I S. 2451) geänderten Fassung ist erstmals für
+den Erhebungszeitraum 2009 anzuwenden.
+2             Für den Erhebungszeitraum 2008 ist § 7 Satz 3 in
+folgender Fassung anzuwenden:
 
-(3a) § 3 Nr. 17 in der Fassung des Artikels 4 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) ist erstmals für den Erhebungszeitraum
-2008 anzuwenden.
+„Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn
+einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a des
+Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 2 des
+Körperschaftsteuergesetzes ermittelte Einkommen gelten als
+Gewerbeertrag nach Satz 1.“
 
-(3b) § 3 Nr. 20 Buchstabe c in der Fassung des Artikels 50 des
-Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022) ist erstmals ab dem
-Erhebungszeitraum 2005 anzuwenden.
+3             § 7 Satz 7 in der Fassung des Artikels 16 des Gesetzes
+vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den
+Erhebungszeitraum 2017 anzuwenden.
+4             § 7 Satz 9 in der Fassung des Artikels 3 des Gesetzes
+vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für den
+Erhebungszeitraum 2022 anzuwenden.
 
-(3c) § 3 Nr. 23 in der Fassung des Artikels 5 des Gesetzes vom 12.
-August 2008 (BGBl. I S. 1672) ist erstmals für den Erhebungszeitraum
-2008 anzuwenden.
+(4)
+1             § 8 Nummer 1 Buchstabe d Satz 2 ist nur auf Entgelte
+anzuwenden, die auf Verträgen beruhen, die nach dem 31. Dezember 2019
+abgeschlossen worden sind.
+2             Dabei ist bei Verträgen, die vor dem 1. Januar 2025
+abgeschlossen werden, statt einer Reichweite von 80 Kilometern eine
+Reichweite von 60 Kilometern ausreichend.
+3             § 8 Nummer 1 Buchstabe d Satz 2 ist letztmals für den
+Erhebungszeitraum 2030 anzuwenden.
 
-(4) § 3 Nr. 24 ist für die Wagnisbeteiligungsgesellschaft Sachsen-
-Anhalt mbH erstmals für den Erhebungszeitraum 1996 und für die IBG
-Beteiligungsgesellschaft Sachsen-Anhalt mbH erstmals für den
-Erhebungszeitraum 2000 anzuwenden.
-
-(4a) § 3 Nr. 30 in der Fassung des Artikels 4 des Gesetzes vom 15.
-Dezember 2003 (BGBl. I S. 2645) ist auch in Erhebungszeiträumen vor
-2003 anzuwenden.
+(4a) § 8 Nummer 5 in der Fassung des Artikels 3 des Gesetzes vom 25.
+Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum
+2022 anzuwenden.
 
 (5)
-1             § 7 in der Fassung des Artikels 4 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) ist erstmals für den Erhebungszeitraum
-2009 anzuwenden.
-2             § 7 Satz 6 in der Fassung des Artikels 4 des Gesetzes
-vom 19. Dezember 2008 (BGBl. I S. 2794) ist auch für
-Erhebungszeiträume vor 2009 anzuwenden.
+1             § 9 Nummer 3 Satz 1 erster Halbsatz in der Fassung des
+Artikels 16 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) ist
+erstmals für den Erhebungszeitraum 2017 anzuwenden.
+2             § 9 Nummer 5 Satz 12 in der Fassung des Artikels 8 des
+Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für
+Zuwendungen anzuwenden, die nach dem 31. Dezember 2019 geleistet
+werden.
 
-(5a) § 8 in der Fassung des Artikels 3 des Gesetzes vom 14. August
-2007 (BGBl. I S. 1912) ist erstmals für den Erhebungszeitraum 2008
+(5a) § 10a in der Fassung des Artikels 9 des Gesetzes vom 21. Dezember
+2020 (BGBl. I S. 3096) ist auch für Erhebungszeiträume vor 2020
 anzuwenden.
 
-(5b) § 8 Nr. 1 in der Fassung des Artikels 5 des Gesetzes vom 20.
-Dezember 2007 (BGBl. I S. 3150) ist erstmals ab dem Erhebungszeitraum
-2008 anzuwenden.
+(5b) § 19 Absatz 3 Satz 2 und 3 ist auf Antrag des Steuerpflichtigen
+mit der Maßgabe anzuwenden, dass für den Erhebungszeitraum 2019 an die
+Stelle des 15. Kalendermonats der 21. Kalendermonat tritt sowie dass
+für den Erhebungszeitraum 2020 an die Stelle des 15. Kalendermonats
+der 18. Kalendermonat tritt.
 
-(6) § 8 Nr. 5 in der Fassung des Artikels 3 des Gesetzes vom 14.
-August 2007 (BGBl. I S. 1912) ist erstmals ab dem Erhebungszeitraum
-2007 anzuwenden.
-
-(6a)
-1             § 9 Nr. 1 Satz 1 in der Fassung des Artikels 3 des
-Gesetzes vom 14. August 2007 (BGBl. I S. 1912) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden.
-2             § 9 Nr. 1 Satz 5 Nr. 1a in der Fassung des Artikels 4
-des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) ist erstmals auf
-Vergütungen anzuwenden, die nach dem 18. Juni 2008 erstmals vereinbart
-worden sind; eine wesentliche Änderung einer vor diesem Zeitpunkt
-getroffenen Vereinbarung über die Vergütungen gilt als neue
-Vereinbarung.
-
-(7)
-1             § 9 Nr. 2 in der am 1. Januar 2004 geltenden Fassung ist
-erstmals für den Erhebungszeitraum 2004 anzuwenden.
-2             Ist ein Antrag nach § 34 Abs. 7 Satz 8 Nr. 2 des
-Körperschaftsteuergesetzes in der am 1. Januar 2004 geltenden Fassung
-gestellt worden, sind die Vorschriften bereits ab dem
-Erhebungszeitraum 2001, bei vom Kalenderjahr abweichenden
-Wirtschaftsjahren ab dem Erhebungszeitraum 2002 anzuwenden.
-3             In den Fällen des Satzes 2 dürfen Fehlbeträge des
-Rückwirkungszeitraums nicht in Erhebungszeiträume außerhalb dieses
-Zeitraums vorgetragen werden.
-4             Auf Fehlbeträge des Rückwirkungszeitraums ist § 14 Abs.
-1 des Körperschaftsteuergesetzes nicht anzuwenden.
-
-(7a) (weggefallen)
-
-(8)
-1             § 9 Nr. 2a, 7 und 8 in der am 1. Januar 2004 geltenden
-Fassung sind erstmals für den Erhebungszeitraum 2004 anzuwenden.
-2             Ist ein Antrag nach § 34 Abs. 7 Satz 8 Nr. 2 des
-Körperschaftsteuergesetzes in der am 1. Januar 2004 geltenden Fassung
-gestellt worden, sind die Vorschriften bereits ab dem
-Erhebungszeitraum 2001, bei vom Kalenderjahr abweichenden
-Wirtschaftsjahren ab dem Erhebungszeitraum 2002 anzuwenden.
-3             In den Fällen des Satzes 2 dürfen Fehlbeträge des
-Rückwirkungszeitraums nicht in Erhebungszeiträume außerhalb dieses
-Zeitraums vorgetragen werden.
-4             Auf Fehlbeträge des Rückwirkungszeitraums ist § 14 Abs.
-1 des Körperschaftsteuergesetzes nicht anzuwenden.
-5             § 9 Nr. 2a, 7 und 8 in der Fassung des Artikels 5 des
-Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist erstmals für den
-Erhebungszeitraum 2006 anzuwenden; § 9 Nr. 2a Satz 4, Nr. 7 Satz 3 und
-Nr. 8 Satz 3 in der Fassung des Artikels 5 des Gesetzes vom 13.
-Dezember 2006 (BGBl. I S. 2878) ist auch für Erhebungszeiträume vor
-2006 anzuwenden.
-6             § 9 Nr. 2a, 7 und 8 in der Fassung des Artikels 3 des
-Gesetzes vom 14. August 2007 (BGBl. I S. 1912) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden.
-7             § 9 Nr. 2a in der Fassung des Artikels 4 des Gesetzes
-vom 19. Dezember 2008 (BGBl. I S. 2794) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden.
-
-(8a) § 9 Nr. 4 in der am 1. Januar 2007 geltenden Fassung ist
-letztmals für den Erhebungszeitraum 2007 anzuwenden.
-
-(8b)
-1             § 9 Nr. 5 in der Fassung des Artikels 4 des Gesetzes vom
-10\. Oktober 2007 (BGBl. I S. 2332) gilt erstmals für Zuwendungen, die
-im Erhebungszeitraum 2007 geleistet werden.
-2             Auf Antrag des Steuerpflichtigen ist auf Zuwendungen,
-die im Erhebungszeitraum 2007 geleistet werden, § 9 Nr. 5 in der bis
-zum 31. Dezember 2006 geltenden Fassung anzuwenden.
-3             § 9 Nummer 5 Satz 1 bis 5, Satz 8 bis 10 und Satz 14 in
-der Fassung des Artikels 3 des Gesetzes vom 8. April 2010 (BGBl. I S.
-386) ist in allen Fällen anzuwenden, in denen der Steuermessbetrag
-noch nicht bestandskräftig festgesetzt ist; dabei sind die für den
-jeweiligen Erhebungszeitraum bisher festgelegten Höchstabzugsgrenzen
-weiterhin maßgebend.
-4             § 9 Nummer 5 Satz 5 in der Fassung des Artikels 5 des
-Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) gilt erstmals für den
-Erhebungszeitraum 2012.
-5             § 9 Nummer 5 Satz 6 in der Fassung des Artikels 3 des
-Gesetzes vom 8. April 2010 (BGBl. I S. 386) ist erstmals im
-Erhebungszeitraum 2010 anzuwenden.
-6             § 9 Nummer 5 Satz 7 in der Fassung des Artikels 3 des
-Gesetzes vom 8. April 2010 (BGBl. I S. 386) ist in allen Fällen
-anzuwenden, in denen der Steuermessbetrag noch nicht bestandskräftig
-festgesetzt ist und in denen die Mitgliedsbeiträge nach dem 31.
-Dezember 2006 geleistet werden.
-
-(8c) § 9 Nr. 7 in der Fassung des Artikels 5 des Gesetzes vom 20.
-Dezember 2007 (BGBl. I S. 3150) ist auch in Erhebungszeiträumen vor
-2007 anzuwenden.
-
-(9)
-1             § 10a Satz 4 und 5 in der Fassung des Artikels 5 des
-Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist auch für
-Erhebungszeiträume vor 2007 anzuwenden.
-2             § 10a Satz 8 in der Fassung des Artikels 5 des Gesetzes
-vom 13. Dezember 2006 (BGBl. I S. 2878) ist neben § 10a Satz 8 in der
-Fassung des Artikels 3 des Gesetzes vom 14. August 2007 (BGBl. I S.
-1912) letztmals anzuwenden, wenn mehr als die Hälfte der Anteile an
-einer Kapitalgesellschaft innerhalb eines Zeitraums von fünf Jahren
-übertragen werden, der vor dem 1. Januar 2008 beginnt, und der Verlust
-der wirtschaftlichen Identität vor dem 1. Januar 2013 eintritt.
-3             Im Fall einer Übertragung von mehr als der Hälfte der
-Anteile an einer Zielgesellschaft im Sinne des § 2 Abs. 3 des
-Wagniskapitalbeteiligungsgesetzes in der Fassung des Artikels 1 des
-Gesetzes vom 12. August 2008 (BGBl. I S. 1672) in der jeweils
-geltenden Fassung durch eine Wagniskapitalbeteiligungsgesellschaft (§
-2 Abs. 1 des Wagniskapitalbeteiligungsgesetzes) ist § 10a Satz 10 mit
-der Maßgabe anzuwenden, dass ein nach Satz 2 nicht genutzter
-Fehlbetrag anteilig abgezogen werden kann, soweit er auf stille
-Reserven des steuerpflichtigen, inländischen Betriebsvermögens der
-Zielgesellschaft entfällt.
-4             Gleiches gilt im Fall eines unmittelbaren schädlichen
-Beteiligungserwerbs an einer Zielgesellschaft von einer
-Wagniskapitalbeteiligungsgesellschaft durch einen Erwerber, der keine
-Wagniskapitalbeteiligungsgesellschaft ist, wenn
-
-1.  die Zielgesellschaft bei Erwerb der Beteiligung ein Eigenkapital von
-    nicht mehr als 20 Millionen Euro aufweist oder
-
-
-2.  die Zielgesellschaft bei Erwerb der Beteiligung ein Eigenkapital von
-    nicht mehr als 100 Millionen Euro aufweist und die den Betrag von 20
-    Millionen Euro übersteigende Erhöhung des Eigenkapitals auf den
-    Jahresüberschüssen der der Veräußerung vorangegangenen vier
-    Geschäftsjahre beruht;
-
-
-
-der Zeitraum zwischen Anschaffung und Veräußerung der Beteiligung an
-der Zielgesellschaft durch die Wagniskapitalbeteiligungsgesellschaft
-darf vier Jahre nicht unterschreiten.
-5             Der nach Satz 3 abziehbare Fehlbetrag kann im Jahr des
-Wegfalls der wirtschaftlichen Identität zu einem Fünftel im Rahmen des
-Verlustabzugs nach § 10a Satz 1 und 2 abgezogen werden; dieser Betrag
-erhöht sich in den folgenden vier Jahren um je ein weiteres Fünftel
-des abziehbaren Fehlbetrages.
-6             § 10a Satz 9 in der Fassung des Artikels 5 des Gesetzes
-vom 12. August 2008 (BGBl. I S. 1672) ist erstmals für den
-Erhebungszeitraum 2008 und auf Anteilsübertragungen nach dem 31.
-Dezember 2007 anzuwenden.
-7             § 10a Satz 7 in der Fassung des Artikels 5 des Gesetzes
-vom 20. Dezember 2007 (BGBl. I S. 3150) gilt auch für
-Erhebungszeiträume vor 2007.
-8             § 10a Satz 9 in der Fassung des Artikels 3 des Gesetzes
-vom 8. Dezember 2010 (BGBl. I S. 1768) ist erstmals für den
-Erhebungszeitraum 2009 anzuwenden; § 34 Abs. 6 Satz 8 und 10 des
-Körperschaftsteuergesetzes gilt entsprechend.
-9             Nach Inkrafttreten des Artikels 4 des Gesetzes vom 12.
-August 2008 (BGBl. I S. 1672) ist Satz 8 mit der Maßgabe anzuwenden,
-dass an die Stelle der Angabe „Satz 8 und 10“ die Angabe „Satz 11 und
-13“ tritt.
-10             § 10a Satz 10 in der Fassung des Artikels 4 des
-Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) ist erstmals auf
-schädliche Beteiligungserwerbe nach dem 28. November 2008 anzuwenden,
-deren sämtliche Erwerbe und gleichgestellte Rechtsakte nach dem 28.
-November 2008 stattfinden.
-
-(9a) § 11 Abs. 2 in der Fassung des Artikels 3 des Gesetzes vom 14.
-August 2007 (BGBl. I S. 1912) ist erstmals für den Erhebungszeitraum
-2008 anzuwenden.
-
-(9b) § 14a in der Fassung des Artikels 7 des Gesetzes vom 20. Dezember
-2008 (BGBl. I S. 2850) ist erstmals für den Erhebungszeitraum 2011
-anzuwenden.
-
-(9c) § 19 Abs. 3 Satz 5 in der Fassung des Artikels 3 des Gesetzes vom
-14\. August 2007 (BGBl. I S. 1912) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden.
-
-(10)
-1             § 35b Absatz 2 Satz 2 und 3 in der Fassung des Artikels
-3 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) gilt erstmals
-für Verluste, für die nach dem 13. Dezember 2010 eine Erklärung zur
-Feststellung des vortragsfähigen Gewerbeverlustes abgegeben wird.
-2             § 35b Abs. 2 Satz 4 in der Fassung des Artikels 5 des
-Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt für alle bei
-Inkrafttreten dieses Gesetzes noch nicht abgelaufenen
-Feststellungsfristen.
-
-(10a)
-1             § 35c Abs. 1 Nr. 2 Buchstabe e in der Fassung des
-Artikels 3 des Gesetzes vom 14. August 2007 (BGBl. I S. 1912) ist
-erstmals für den Erhebungszeitraum 2008 anzuwenden.
-2             § 35c Absatz 1 Nummer 2 Buchstabe f Satz 1 in der
-Fassung des Artikels 3 des Gesetzes vom
-8\. April              2010 (BGBl. I S. 386) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden; § 35c Absatz 1 Nummer 2 Buchstabe f
-Satz 2 in der Fassung des Artikels 3 des Gesetzes vom 8. April 2010
-(BGBl. I S. 386) ist erstmals für den Erhebungszeitraum 2011
-anzuwenden.
+(6) § 35c Absatz 1 Nummer 2 Buchstabe f Satz 1 Doppelbuchstabe bb in
+der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I
+S. 2451) ist erstmals für den Erhebungszeitraum 2018 anzuwenden.
 
 
 ### § 37

@@ -498,8 +498,10 @@ Kostenermittlungsbogen
 ---------------------------------------------------------
 Summe 1 - 9
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
+(BGBl. II 1990, 889, 1099)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

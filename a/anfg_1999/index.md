@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 2911
 
 Zuletzt geändert durch
-:   Art. 16 G v. 9.12.2010 I 1900
+:   Art. 3 G v. 29.3.2017 I 654
 
 
 
@@ -44,12 +44,25 @@ wenn anzunehmen ist, daß sie nicht dazu führen würde.
 (1) Anfechtbar ist eine Rechtshandlung, die der Schuldner in den
 letzten zehn Jahren vor der Anfechtung mit dem Vorsatz, seine
 Gläubiger zu benachteiligen, vorgenommen hat, wenn der andere Teil zur
-Zeit der Handlung den Vorsatz des Schuldners kannte. Diese Kenntnis
+Zeit der Handlung den Vorsatz des Schuldners kannte.Diese Kenntnis
 wird vermutet, wenn der andere Teil wußte, daß die Zahlungsunfähigkeit
 des Schuldners drohte und daß die Handlung die Gläubiger
 benachteiligte.
 
-(2) Anfechtbar ist ein vom Schuldner mit einer nahestehenden Person (§
+(2) Hat die Rechtshandlung dem anderen Teil eine Sicherung oder
+Befriedigung gewährt oder ermöglicht, beträgt der Zeitraum nach Absatz
+1 Satz 1 vier Jahre.
+
+(3) Hat die Rechtshandlung dem anderen Teil eine Sicherung oder
+Befriedigung gewährt oder ermöglicht, welche dieser in der Art und zu
+der Zeit beanspruchen konnte, tritt an die Stelle der drohenden
+Zahlungsunfähigkeit des Schuldners nach Absatz 1 Satz 2 die
+eingetretene. Hatte der andere Teil mit dem Schuldner eine
+Zahlungsvereinbarung getroffen oder diesem in sonstiger Weise eine
+Zahlungserleichterung gewährt, wird vermutet, dass er zur Zeit der
+Handlung die Zahlungsunfähigkeit des Schuldners nicht kannte.
+
+(4) Anfechtbar ist ein vom Schuldner mit einer nahestehenden Person (§
 138 der Insolvenzordnung) geschlossener entgeltlicher Vertrag, durch
 den seine Gläubiger unmittelbar benachteiligt werden. Die Anfechtung
 ist ausgeschlossen, wenn der Vertrag früher als zwei Jahre vor der
@@ -182,7 +195,11 @@ Schuldners veräußert, weggegeben oder aufgegeben ist, muß dem
 Gläubiger zur Verfügung gestellt werden, soweit es zu dessen
 Befriedigung erforderlich ist. Die Vorschriften über die Rechtsfolgen
 einer ungerechtfertigten Bereicherung, bei der dem Empfänger der
-Mangel des rechtlichen Grundes bekannt ist, gelten entsprechend.
+Mangel des rechtlichen Grundes bekannt ist, gelten entsprechend. Eine
+Geldschuld ist nur zu verzinsen, wenn die Voraussetzungen des
+Schuldnerverzugs oder des § 291 des Bürgerlichen Gesetzbuchs
+vorliegen; ein darüber hinausgehender Anspruch auf Herausgabe von
+Nutzungen eines erlangten Geldbetrags ist ausgeschlossen.
 
 (2) Der Empfänger einer unentgeltlichen Leistung hat diese nur zur
 Verfügung zu stellen, soweit er durch sie bereichert ist. Dies gilt
@@ -335,4 +352,8 @@ Rechtshandlungen nur anzuwenden, soweit diese nicht nach dem
 bisherigen Recht der Anfechtung entzogen oder in geringerem Umfang
 unterworfen sind; andernfalls sind die bis zum 1. November 2008
 anwendbaren Vorschriften weiter anzuwenden.
+
+(4) Auf Fälle, bei denen die Anfechtbarkeit vor dem 5. April 2017
+gerichtlich geltend gemacht worden ist, sind die bis dahin geltenden
+Vorschriften weiter anzuwenden.
 

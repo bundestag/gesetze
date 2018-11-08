@@ -17,13 +17,13 @@ Fundstelle
 :   BGBl I: 2004, 2337
 
 Zuletzt geändert durch
-:   Art. 2 V v. 23.7.2010 I 1010
+:   Art. 28 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
-1969 (BGBI. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
+1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
 Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden
 ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhören des Ständigen Ausschusses des Bundesinstituts für
@@ -656,7 +656,7 @@ Nummern 1 bis 5 umfassen:
     Fähigkeit nachgewiesen werden, Kostenverantwortung übernehmen zu
     können. Dazu gehört, kostenrelevante Einflussfaktoren hinsichtlich der
     Entstehung von Kosten, der Entwicklung von Kostenstrukturen, der
-    Kalkulation von Kosten sowie der Kostenplanung  beurteilen zu können.
+    Kalkulation von Kosten sowie der Kostenplanung beurteilen zu können.
     In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
     a)  Erkennen und Beurteilen von Zusammenhängen des betrieblichen
@@ -769,14 +769,13 @@ Nummern 1 bis 5 umfassen:
 anwendungsbezogenen schriftlichen Ausarbeitung, die eine oder mehrere
 Aufgaben umfassen soll, zu prüfen. Dabei soll die Fähigkeit
 nachgewiesen werden, diese analysieren, strukturieren und einer
-begründeten Lösung zuführen zu können. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin bestimmt einen der nachfolgend genannten
-Wahlqualifikationsschwerpunkte, in dem geprüft werden soll. In der
-Ausarbeitung sind alle Qualifikationsinhalte des ausgewählten
-Schwerpunktes zu berücksichtigen. Im Einzelnen kann die Ausarbeitung
-folgende Qualifikationsinhalte des Handlungsbereiches
-"Spezialisierungsgebiete" mit den Schwerpunkten gemäß den folgenden
-Nummern 1 bis 4 umfassen:
+begründeten Lösung zuführen zu können. Die zu prüfende Person bestimmt
+einen der nachfolgend genannten Wahlqualifikationsschwerpunkte, in dem
+geprüft werden soll. In der Ausarbeitung sind alle
+Qualifikationsinhalte des ausgewählten Schwerpunktes zu
+berücksichtigen. Im Einzelnen kann die Ausarbeitung folgende
+Qualifikationsinhalte des Handlungsbereiches "Spezialisierungsgebiete"
+mit den Schwerpunkten gemäß den folgenden Nummern 1 bis 4 umfassen:
 
 1.  Im Wahlqualifikationsschwerpunkt "Syntheseplanung" soll die Fähigkeit
     nachgewiesen werden, chemische Reaktionen optimieren zu können. In
@@ -877,67 +876,169 @@ zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
-
-(1) Die Prüfungsteile "Fachrichtungsübergreifende
-Basisqualifikationen" und "Handlungsspezifische Qualifikationen" sind
-gesondert nach Punkten zu bewerten.
-
-(2) Für den Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" ist eine Note aus dem arithmetischen Mittel der
-Punktebewertungen der Leistungen in den einzelnen Prüfungsbereichen zu
-bilden.
-
-(3) Bei der Bewertung der Prüfungsleistungen in der Situationsaufgabe
-I und in der schriftlichen Aufgabenstellung in der Situationsaufgabe
-II sind die Gewichtungen der Handlungsbereiche gemäß § 5 Abs. 6 und 7
-zugrunde zu legen. In der Situationsaufgabe II ist das Fachgespräch
-gesondert zu bewerten. Die Prüfungsleistungen in der schriftlichen
-Aufgabenstellung und im Fachgespräch sind gleichgewichtig zu bewerten
-und zu einer Punktebewertung zusammenzufassen. Die Prüfungsleistung in
-der schriftlichen Ausarbeitung im Handlungsbereich
-"Spezialisierungsgebiete" ist gesondert zu bewerten.
-
-(4) Für den Prüfungsteil "Handlungsspezifische Qualifikationen" ist
-eine Note aus den Punktebewertungen der Prüfungsleistungen in den
-Situationsaufgaben I und II sowie in der schriftlichen Ausarbeitung zu
-bilden; dabei sind die Punktebewertungen im Verhältnis 45 zu 45 zu 10
-zu gewichten.
-
-(5) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin im Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" in allen Prüfungsbereichen mindestens
-ausreichende Leistungen und im Prüfungsteil "Handlungsspezifische
-Qualifikationen" in den Situationsaufgaben I und II sowie in der
-schriftlichen Ausarbeitung jeweils mindestens ausreichende Leistungen
-erbracht hat.
-
-(6) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. In das Zeugnis gemäß
-der Anlage 2 sind die in den Prüfungsteilen
-"Fachrichtungsübergreifende Basisqualifikationen" und
-"Handlungsspezifische Qualifikationen" erzielten Noten und die
-Punktebewertungen in den einzelnen Prüfungsbereichen gemäß § 4 sowie
-die Punktebewertungen in den Situationsaufgaben I und II sowie in der
-schriftlichen Ausarbeitung einzutragen. Im Fall der Freistellung gemäß
-§ 6 sind Ort und Datum sowie Bezeichnung des Prüfungsgremiums der
-anderweitig abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb
-der berufs- und arbeitspädagogischen Qualifikationen gemäß § 2 Abs. 2
-ist im Zeugnis einzutragen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für diese Prüfungsbestandteile erhöhen sich die
+Anteile nach § 7 Absatz 2 Satz 2, Absatz 3 Satz 3, Absatz 5 Satz 2
+oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander.
+Allein diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu
+bewerten. Aus den einzelnen Bewertungen wird als Bewertung für den
+Prüfungsteil das arithmetische Mittel berechnet.
+
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als
+Prüfungsleistungen zu bewerten:
+
+1.  nach Maßgabe des Absatzes 4 die Situationsaufgabe I nach § 5 Absatz 6,
+
+
+2.  nach Maßgabe des Absatzes 5 die Situationsaufgabe II nach § 5 Absatz 7
+    und
+
+
+3.  die schriftliche Ausarbeitung nach § 5 Absatz 8.
+
+
+
+Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung für
+diesen Prüfungsteil das gewichtete arithmetische Mittel berechnet.
+Dabei werden gewichtet:
+
+1.  die Bewertung der Situationsaufgabe I mit 45 Prozent,
+
+
+2.  die Bewertung der Situationsaufgabe II nach Maßgabe des Absatzes 5 mit
+    45 Prozent und
+
+
+3.  die Bewertung der schriftlichen Ausarbeitung mit 10 Prozent.
+
+
+
+
+(4) Für die Bewertung der Situationsaufgabe I ist die Gewichtung nach
+§ 5 Absatz 6 zugrunde zu legen.
+
+(5) In der Situationsaufgabe II sind unter Berücksichtigung der
+Gewichtung nach § 5 Absatz 7 als Prüfungsleistungen einzeln zu
+bewerten:
+
+1.  die schriftliche Aufgabenstellung und
+
+
+2.  das Fachgespräch.
+
+
+
+Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung das
+arithmetische Mittel berechnet.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsbestandteilen jeweils mindestens 50 Punkte erreicht worden
+sind:
+
+1.  in jedem Prüfungsbereich des Prüfungsteils „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in der Situationsaufgabe I nach § 5 Absatz 6,
+
+
+    b)  in der Situationsaufgabe II nach § 5 Absatz 7 und
+
+
+    c)  in der schriftlichen Ausarbeitung nach § 5 Absatz 8.
+
+
+
+
+
+
+
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ sowie
+
+
+3.  die zusammengefasste Bewertung für die Situationsaufgabe II im
+    Prüfungsteil „Handlungsspezifische Qualifikationen“.
+
+
+
+
+(3) Den Bewertungen für den Prüfungsteil „Fachrichtungsübergreifende
+Basisqualifikationen“ und für den Prüfungsteil „Handlungsspezifische
+Qualifikationen“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl
+zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“ mit 25 Prozent,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -951,7 +1052,7 @@ Ausarbeitung zu befreien, wenn die darin in einer vorangegangenen
 Prüfung erbrachten Leistungen ausgereicht haben.
 
 
-## § 9 Zusatzqualifikationen
+## § 11 Zusatzqualifikationen
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, kann beantragen,
 die Prüfung in weiteren Spezialisierungsgebieten nach § 5 Abs. 4
@@ -959,121 +1060,402 @@ abzulegen. Über die bestandene Prüfung ist eine Bescheinigung
 auszustellen. § 8 Abs. 1 gilt entsprechend.
 
 
-## § 10 Übergangsvorschrift
+## § 12 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
+Abschluss Geprüfter Industriemeister/ Geprüfte Industriemeisterin –
+Fachrichtung Chemie vom 3. Mai 1979 (BGBI. I S. 513), zuletzt geändert
+durch Artikel 1 Nr. 3 und Artikel 2 der Verordnung vom 15. April 1999
+(BGBI. I S. 711), außer Kraft.
+
+(zu den §§ 7 und 8)
+
+## Anlage 1 Bewertungsmaßstab und -schlüssel
+
+(Fundstelle: BGBl. I 2019, 2258 – 2259)
 
 
-## Anlage 1 (zu § 7 Abs. 6)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2004, 2344;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-M u s t e r
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie
-Herr/Frau
-.....................................................................
-geboren am ............................ in
-....................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Chemie
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch
-Artikel 2
-der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden
-ist,
-bestanden.
-Datum ...................................
-Unterschrift ............................
-(Siegel der zuständigen Stelle)
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-## Anlage 2 (zu § 7 Abs. 6)
+*    *   100
 
-(Fundstelle: BGBl. I 2004, 2345 - 2346;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-M u s t e r
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie
-Herr/Frau
-.....................................................................
-geboren am .......................... in
-......................................
-hat am .............................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Chemie
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch
-Artikel 2
-der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden
-ist, mit folgenden
-Ergebnissen 1) bestanden:
-Note
-I. Fachrichtungsübergreifende Basisqualifikationen
-............
-Prüfungsbereiche:                                 Punkte
-Rechtsbewusstes Handeln                           ............
-Betriebswirtschaftliches Handeln                  ............
-Anwenden von Methoden der Information,
-Kommunikation und Planung                         ............
-Zusammenarbeit im Betrieb                         ............
-(Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach
-§ 6 im Hinblick auf die am .......... in .......... vor ..........
-abgelegte Prüfung
-vom Prüfungsbestandteil .......... freigestellt.“)
-Note 2)
-II. Handlungsspezifische Qualifikationen
-............
-Punkte
-1\. Situationsaufgabe I im Handlungsbereich
-Chemische Produktion                           ............
-2\. Situationsaufgabe II im Handlungsbereich
-Organisation, Führung und Kommunikation        ............
-3\. Schriftliche Ausarbeitung im
-Handlungsbereich Spezialisierungsgebiete
-mit dem Wahlqualifikationsschwerpunkt          ............
-(Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach
-§ 6 im Hinblick auf die am .......... in .......... vor ..........
-abgelegte Prüfung
-vom Prüfungsbestandteil .......... freigestellt.“)
-III. Berufs- und arbeitspädagogische Qualifikationen
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2
-den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Kenntnisse durch die Prüfung am ............................... in
-.............................................. vor
-........................................... erbracht.
-Datum ..............................
-Unterschrift .......................
-(Siegel der zuständigen Stelle)             -----
+    *   1,0
 
-1)  Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .................
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-2)  Bei der Ermittlung der Note sind die Punktebewertungen für die
-    Situationsaufgaben I und II sowie die schriftliche Ausarbeitung im
-    Verhältnis 45 zu 45 zu 10 gewichtet worden.
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2259 – 2260)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+
+
+    b)  Benennung der vier Prüfungsbereiche und Bewertung mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note,
+
+
+    b)  Benennung der Situationsaufgabe I nach § 5 Absatz 6 und Bewertung mit
+        Punkten,
+
+
+    c)  Benennung der Situationsaufgabe II nach § 5 Absatz 7 und Bewertung mit
+        Punkten sowie
+
+
+    d)  Benennung der schriftlichen Ausarbeitung nach § 5 Absatz 8 und
+        Bewertung mit Punkten,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
 
 
 

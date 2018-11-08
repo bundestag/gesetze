@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1996, 1548
 
 Neugefasst durch
-:   Bek. v. 7.12.2011 I 2650
+:   Bek. v. 7.12.2011 I 2650;
+
+Zuletzt geändert durch
+:   Art. 7 G v. 10.12.2021 I 5162
 
 [^f775901_01_BJNR154810996]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2009/38/EG des
     Europäischen Parlaments und des Rates vom 6. Mai 2009 über die
@@ -126,8 +129,8 @@ liegt.
 
 ### § 3 Gemeinschaftsweite Tätigkeit
 
-(1) Ein Unternehmen ist gemeinschaftsweit tätig, wenn es mindestens 1
-000 Arbeitnehmer in den Mitgliedstaaten und davon jeweils mindestens
+(1) Ein Unternehmen ist gemeinschaftsweit tätig, wenn es mindestens
+1 000 Arbeitnehmer in den Mitgliedstaaten und davon jeweils mindestens
 150 Arbeitnehmer in mindestens zwei Mitgliedstaaten beschäftigt.
 
 (2) Eine Unternehmensgruppe ist gemeinschaftsweit tätig, wenn sie
@@ -1095,6 +1098,45 @@ Vereinbarung wirksam ist; Absatz 4 gilt entsprechend.
 
 ## Siebter Teil - Besondere Vorschriften, Straf- und Bußgeldvorschriften
 
+
+
+### § 41a Besondere Regelungen für Besatzungsmitglieder von Seeschiffen
+
+(1) Ist ein Mitglied des besonderen Verhandlungsgremiums, eines
+Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne
+des § 19 oder dessen Stellvertreter Besatzungsmitglied eines
+Seeschiffs, so sollen die Sitzungen so angesetzt werden, dass die
+Teilnahme des Besatzungsmitglieds erleichtert wird.
+
+(2) Befindet sich ein Besatzungsmitglied auf See oder in einem Hafen,
+der sich in einem anderen Land als dem befindet, in dem die Reederei
+ihren Geschäftssitz hat, und kann deshalb nicht an einer Sitzung nach
+Absatz 1 teilnehmen, so kann eine Teilnahme an der Sitzung mittels
+neuer Informations- und Kommunikationstechnologien erfolgen, wenn
+
+1.  dies in der Geschäftsordnung des zuständigen Gremiums vorgesehen ist
+    und
+
+
+2.  sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis
+    nehmen können.
+
+
+
+
+
+### § 41b Sonderregelung aus Anlass der COVID-19-Pandemie
+
+(1) Bis zum Ablauf des 19. März 2022 können die Teilnahme an Sitzungen
+des besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats
+oder einer Arbeitnehmervertretung im Sinne des § 19 sowie die
+Beschlussfassung auch mittels Video- und Telefonkonferenz erfolgen,
+wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine
+Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
+
+(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
+machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
+drei Monate verlängern.
 
 
 ### § 42 Errichtungs- und Tätigkeitsschutz

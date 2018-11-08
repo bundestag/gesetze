@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 1036
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.12.2006 I 2762
+:   Art. 25 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -271,6 +271,12 @@ Stoffe zugesetzt werden. Es dürfen keine Verfahren zu dem Zweck
 durchgeführt werden, den Keimgehalt im natürlichen Mineralwasser zu
 verändern.
 
+(6) Die Artikel 1, 2 und 3 der Verordnung (EU) Nr. 115/2010 der
+Kommission vom 9. Februar 2010 zur Festlegung der Bedingungen für die
+Verwendung von aktiviertem Aluminiumoxid zur Entfernung von Fluorid
+aus natürlichen Mineralwässern und Quellwässern (ABl. L 37 vom
+10\.2.2010, S. 13) bleiben unberührt.
+
 
 ### § 6a Höchstgehalte und Analyseverfahren
 
@@ -304,8 +310,7 @@ ist, Verfälschungen oder Verunreinigungen zu vermeiden.
 
 (1) Für ein natürliches Mineralwasser sind die Bezeichnung
 "natürliches Mineralwasser" sowie die nach den Absätzen 2 bis 4
-vorgeschriebenen Bezeichnungen Verkehrsbezeichnung im Sinne der
-Lebensmittel-Kennzeichnungsverordnung.
+vorgeschriebenen Bezeichnungen Bezeichnung des Lebensmittels.
 
 (2) Als "natürliches kohlensäurehaltiges Mineralwasser" muß ein Wasser
 bezeichnet werden, das
@@ -352,10 +357,20 @@ Mineralwasser bezeichnet werden.
 unter der Bezeichnung Tafelwasser in den Verkehr gebracht worden ist,
 darf weiterhin zusätzlich so bezeichnet werden.
 
-(7) Natürliches Mineralwasser darf gewerbsmäßig nur in den Verkehr
-gebracht werden, wenn die Kennzeichnung zusätzlich zu den durch die
-Lebensmittel-Kennzeichnungsverordnung vorgeschriebenen Angaben
-deutlich sichtbar, leicht lesbar und unverwischbar enthält:
+(7) Natürliches Mineralwasser darf nur in den Verkehr gebracht werden,
+wenn die Kennzeichnung zusätzlich zu den durch die Verordnung (EU) Nr.
+1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober
+2011 betreffend die Information der Verbraucher über Lebensmittel und
+zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr.
+1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung
+der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG
+des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie
+2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien
+2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr.
+608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom
+18\.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S.
+7) in der jeweils geltenden Fassung vorgeschriebenen Angaben deutlich
+sichtbar, leicht lesbar und unverwischbar enthält:
 
 1.  den Ort der Quellnutzung und den Namen der Quelle;
 
@@ -363,7 +378,7 @@ deutlich sichtbar, leicht lesbar und unverwischbar enthält:
 2.  die Angabe der analytischen Zusammensetzung unter Nennung der
     charakteristischen Bestandteile (Analysenauszug), bei Gehalten von
     mehr als 1,5 Milligramm Fluorid im Liter den vorhandenen
-    Fluoridgehalt.
+    Fluoridgehalt;
 
 
 3.  (weggefallen)
@@ -379,9 +394,9 @@ deutlich sichtbar, leicht lesbar und unverwischbar enthält:
 
 
 
-(8) Natürliches Mineralwasser darf gewerbsmäßig nur in den Verkehr
-gebracht werden, wenn auf dem Behältnis deutlich sichtbar, leicht
-lesbar und unverwischbar angebracht ist:
+(8) Natürliches Mineralwasser darf nur in den Verkehr gebracht werden,
+wenn auf dem Behältnis deutlich sichtbar, leicht lesbar und
+unverwischbar angebracht ist:
 
 1.  die Angabe "Dieses Wasser ist einem zugelassenen Oxidationsverfahren
     mit ozonangereicherter Luft unterzogen worden" in unmittelbarer Nähe
@@ -391,22 +406,22 @@ lesbar und unverwischbar angebracht ist:
 
 2.  der Hinweis "Enthält mehr als 1,5 mg/l Fluorid: Für Säuglinge und
     Kinder unter 7 Jahren nicht zum regelmäßigen Verzehr geeignet" in
-    unmittelbarer Nähe der Verkehrsbezeichnung, sofern das natürliche
-    Mineralwasser mehr als 1,5 Milligramm Fluorid im Liter enthält;
+    unmittelbarer Nähe der Bezeichnung des Lebensmittels, sofern das
+    natürliche Mineralwasser mehr als 1,5 Milligramm Fluorid im Liter
+    enthält;
 
 
-3.  ein Warnhinweis in deutscher Sprache, dass es wegen des erhöhten
-    Fluoridgehaltes nur in begrenzten Mengen verzehrt werden darf, sofern
-    der Gehalt an Fluorid 5 Milligramm im Liter übersteigt.
+3.  die nach Artikel 4 der Verordnung (EU) Nr. 115/2010 vorgesehene Angabe
+    in der dort bestimmten Art und Weise.
 
 
 
 
-(9) Abweichend von § 3 Abs. 1 der Lebensmittel-
-Kennzeichnungsverordnung braucht bei natürlichem Mineralwasser, das
-mit Kohlensäure versetzt ist, das Kohlendioxid nicht im Verzeichnis
-der Zutaten angegeben zu werden, wenn auf die zugesetzte Kohlensäure
-in der Verkehrsbezeichnung hingewiesen wird.
+(9) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) Nr.
+1169/2011 braucht bei natürlichem Mineralwasser, das mit Kohlensäure
+versetzt ist, das Kohlendioxid nicht im Verzeichnis der Zutaten
+angegeben zu werden, wenn auf die zugesetzte Kohlensäure in der
+Bezeichnung des Lebensmittels hingewiesen wird.
 
 
 ### § 9 Irreführende Angaben
@@ -452,6 +467,8 @@ Anforderungen einzuhalten.
 
 
 
+Die Artikel 1, 2 und 3 der Verordnung (EU) Nr. 115/2010 bleiben
+unberührt.
 
 (2) Tafelwasser ist Wasser, das eine oder mehrere der von § 11 Abs. 1
 erfaßten Zutaten enthält.
@@ -459,8 +476,11 @@ erfaßten Zutaten enthält.
 
 ### § 11 Herstellung
 
-(1) Zur Herstellung von Tafelwasser dürfen außer Trinkwasser und
-natürlichem Mineralwasser nur verwendet werden:
+(1) Zur Herstellung von Tafelwasser dürfen unbeschadet der Verordnung
+(EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16.
+Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom
+31\.12.2008, S. 16) außer Trinkwasser und natürlichem Mineralwasser nur
+verwendet werden:
 
 1.  Natürliches salzreiches Wasser (Natursole) oder durch Wasserentzug im
     Gehalt an Salzen angereichertes natürliches Mineralwasser,
@@ -472,10 +492,13 @@ natürlichem Mineralwasser nur verwendet werden:
 3.  Natriumchlorid,
 
 
-4.  Zusatzstoffe nach Maßgabe der Zusatzstoff-Zulassungsverordnung .
+4.  Magnesiumchlorid.
 
 
 
+Magnesiumchlorid nach Satz 1 Nummer 4 und Magnesiumcarbonat dürfen nur
+bis zu einer Gesamtkonzentration an Magnesium von 77 mg/l im
+angereicherten Tafelwasser zugesetzt werden.
 
 (2) (weggefallen)
 
@@ -521,8 +544,7 @@ anzuwenden.
 
 ### § 14 Kennzeichnung
 
-(1) Verkehrsbezeichnung im Sinne der Lebensmittel-
-Kennzeichnungsverordnung ist
+(1) Bezeichnung des Lebensmittels ist
 
 1.  für das in § 10 Abs. 1 definierte Wasser die Bezeichnung
     "Quellwasser",
@@ -534,8 +556,8 @@ Kennzeichnungsverordnung ist
 
 
 Bei Tafelwasser, das mindestens 570 Milligramm Natriumhydrogencarbonat
-in einem Liter sowie Kohlendioxid enthält, kann die
-Verkehrsbezeichnung "Tafelwasser" durch "Sodawasser" ersetzt werden.
+in einem Liter sowie Kohlendioxid enthält, kann die Bezeichnung des
+Lebensmittels "Tafelwasser" durch "Sodawasser" ersetzt werden.
 
 (2) Für Quellwasser und Tafelwasser, die mit Kohlendioxid versetzt
 wurden, darf die Verkehrsbezeichnung durch einen Hinweis hierauf
@@ -550,10 +572,18 @@ Tafelwasser § 8 Abs. 9 entsprechend.
 
 (6) Quellwasser darf gewerbsmäßig nur in den Verkehr gebracht werden,
 wenn auf dem Behältnis deutlich sichtbar, leicht lesbar und
-unverwischbar die Angabe "Dieses Wasser ist einem zugelassenen
-Oxidationsverfahren mit ozonangereicherter Luft unterzogen worden"
-angebracht ist, sofern eine Behandlung mit ozonangereicherter Luft
-stattgefunden hat.
+unverwischbar die folgenden Angaben angebracht sind:
+
+1.  „Dieses Wasser ist einem zugelassenen Oxidationsverfahren mit
+    ozonangereicherter Luft unterzogen worden“, sofern eine Behandlung mit
+    ozonangereicherter Luft stattgefunden hat, und
+
+
+2.  die nach Artikel 4 der Verordnung (EU) Nr. 115/2010 vorgesehene
+    Angabe.
+
+
+
 
 
 ### § 15 Irreführende Angaben
@@ -656,6 +686,19 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
     jeweils auch in Verbindung mit § 10 Abs. 1 Nr. 2 entspricht,
 
 
+6b. natürliches Mineralwasser und Quellwasser, deren Herstellung nicht den
+    Anforderungen
+
+    a)  des Artikels 2 oder
+
+
+    b)  des Artikels 3
+
+
+
+    der Verordnung (EU) Nr. 115/2010 entspricht,
+
+
 7.  Tafelwasser, bei dessen Herstellung die in § 11 Abs. 3 genannten
     Grenzwerte für chemische Stoffe nicht eingehalten sind,
 
@@ -688,8 +731,8 @@ fahrlässig
     b)  entgegen § 16 Nr. 4, 5 oder 5a natürliches Mineralwasser,
 
 
-    c)  entgegen § 16 Nr. 6a Buchstabe a natürliches Mineralwasser oder
-        Quellwasser,
+    c)  entgegen § 16 Nummer 6a Buchstabe a oder Nummer 6b Buchstabe a ein
+        natürliches Mineralwasser oder ein Quellwasser,
 
 
     d)  entgegen § 16 Nr. 7 Tafelwasser oder
@@ -713,10 +756,16 @@ angebracht ist.
 (3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer
 
-1.  entgegen § 8 Abs. 8 Nr. 1 oder § 14 Abs. 6 natürliches Mineralwasser
-    oder Quellwasser in den Verkehr bringt, bei dem die vorgeschriebene
-    Angabe nicht oder nicht in der vorgeschriebenen Weise angebracht ist
-    oder
+1.  entgegen
+
+    a)  § 8 Absatz 8 Nummer 1 oder Nummer 3 ein natürliches Mineralwasser oder
+
+
+    b)  § 14 Absatz 6 ein Quellwasser
+
+
+
+    in den Verkehr bringt,
 
 
 2.  einer Vorschrift des § 9 oder des § 15, auch in Verbindung mit § 18,
@@ -760,8 +809,8 @@ oder fahrlässig
     Verkehr bringt oder
 
 
-4.  entgegen § 16 Nr. 6a Buchstabe b natürliches Mineralwasser oder
-    Quellwasser in den Verkehr bringt.
+4.  entgegen § 16 Nummer 6a Buchstabe b oder Nummer 6b Buchstabe b
+    natürliches Mineralwasser oder Quellwasser in den Verkehr bringt.
 
 
 
@@ -811,7 +860,7 @@ genannten Fristen die jeweiligen Höchstgehalte für Stoffe eingehalten
 sind, dürfen bis zum Abverkauf der Bestände in den Verkehr gebracht
 werden.
 
-(4) § 8 Abs. 8 Nr. 3 ist ab dem 1. Januar 2008 nicht mehr anzuwenden.
+(4) (weggefallen)
 
 
 ### § 21 Inkrafttreten, abgelöste Vorschrift
@@ -881,7 +930,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     b)  Membranfiltration und Bebrütung des Membranfilters auf Laktose-
         Fuchsin-Sulfitagar (Endoagar), Bebrütungstemperatur
         37 Grad +- 1 Grad C oder
-        42 Grad +- 0,5 Grad C,    EUR Bebrütungszeit 20
+        42 Grad +- 0,5 Grad C, Bebrütungszeit 20
         +- 4 Stunden,
 
 
@@ -1342,11 +1391,6 @@ natürlichem Mineralwasser
 
 
 
-### Anlage 5
-
--
-
-
 ### Anlage 5 (zu § 6a Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1034)
@@ -1682,7 +1726,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   Flouridhaltig
+*    *   Fluoridhaltig
 
     *   Der Fluoridgehalt beträgt mehr als 1 mg/l
 

@@ -36,7 +36,6 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-**Gewährzeichen des Algerischen "Institut de la Vigne et du Vin"**
-(Inhalt: Nicht darstellbares Gewährzeichen,
 Fundstelle: BGBl. I 1973, 3)
-
+**Gewährzeichen des Algerischen "Institut de la Vigne et du Vin"**
+![bgbl1_1973_j0003_0010.jpg](bgbl1_1973_j0003_0010.jpg)

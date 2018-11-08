@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2590
 
+Zuletzt geändert durch
+:   Art. 5 G v. 19.4.2021 I 771
+
 
 ## Teil 1 - Anwendungsbereich
 
@@ -123,7 +126,7 @@ Regelungen und Schutzinteressen festgestellt ist.
 
 
 
-(2) Das Bundesministerium für Wirtschaft und Technologie hat durch
+(2) Das Bundesministerium für Wirtschaft und Energie hat durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zu
 erlassen, unter welchen Voraussetzungen Daten einen besonders hohen
 Informationsgehalt haben. Der Informationsgehalt ist dabei zu
@@ -302,11 +305,12 @@ zuständigen Behörde
 
 
 
-unverzüglich schriftlich anzuzeigen.
+unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 (2) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der
-zuständigen Behörde unverzüglich schriftlich anzuzeigen, an welche
-nach § 11 zugelassenen Personen er Daten übermittelt.
+zuständigen Behörde unverzüglich schriftlich oder elektronisch
+anzuzeigen, an welche nach § 11 zugelassenen Personen er Daten
+übermittelt.
 
 
 ### § 7 Auskunftspflicht
@@ -359,37 +363,9 @@ Betreiber des hochwertigen Erdfernerkundungssystems. Die zuständige
 Behörde setzt die Höhe der Vergütung fest.
 
 
-### § 10 Erwerb von Unternehmen und Unternehmensbeteiligungen; Betriebsübernahme
+### § 10 Betriebsübernahme
 
-(1) Der Erwerb eines Unternehmens, das ein hochwertiges
-Erdfernerkundungssystem betreibt, oder der Erwerb einer unmittelbaren
-oder mittelbaren Beteiligung an einem solchen Unternehmen durch
-
-1.  ausländische Staatsangehörige, juristische Personen oder
-    Personenvereinigungen ausländischen Rechts oder
-
-
-2.  juristische Personen oder Personenvereinigungen deutschen Rechts, an
-    denen ausländische Staatsangehörige, juristische Personen oder
-    Personenvereinigungen ausländischen Rechts mindestens 25 Prozent der
-    Stimmrechte halten,
-
-
-
-ist vom Erwerber der zuständigen Behörde unverzüglich zu melden. Dies
-gilt nicht, wenn der unmittelbare oder mittelbare Stimmrechtsanteil
-des Erwerbers an dem betreffenden Unternehmen nach dem Erwerb der
-Beteiligung 25 Prozent nicht erreicht. Bei der Berechnung des
-Stimmrechtsanteils des Erwerbers sind diesem die Anteile anderer
-Unternehmen an dem zu erwerbenden Unternehmen zuzurechnen, wenn der
-Erwerber mindestens 25 Prozent oder mehr der Stimmrechte an dem
-anderen Unternehmen hält. Die zuständige Behörde kann den Erwerb
-innerhalb eines Monats nach Eingang der vollständigen Unterlagen über
-den Erwerb untersagen, soweit dies erforderlich ist, um die
-wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland zu
-gewährleisten.
-
-(2) Die vollständige oder teilweise Übernahme des Betriebs eines
+Die vollständige oder teilweise Übernahme des Betriebs eines
 hochwertigen Erdfernerkundungssystems oder von Teilen eines solchen
 bedarf der Erlaubnis, wenn durch die Übernahme die Genehmigungspflicht
 nach § 3 Abs. 1 entfällt. Der Antrag auf Erteilung der Erlaubnis ist
@@ -480,7 +456,7 @@ Der Datenanbieter hat der zuständigen Behörde
 
 
 
-unverzüglich schriftlich anzuzeigen.
+unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 
 #### § 14 Auskunftspflicht
@@ -562,15 +538,15 @@ und die Nennung der Personen einschließlich deren gewöhnlichen
 Aufenthaltsortes zu verlangen, die bestimmungsgemäß mit den Daten in
 Kontakt kommen.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie hat im
+(3) Das Bundesministerium für Wirtschaft und Energie hat im
 Einvernehmen mit dem Bundesministerium der Verteidigung, dem
-Auswärtigen Amt und dem Bundesministerium des Innern durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zu
-erlassen, unter welchen Voraussetzungen nach Absatz 2 die Möglichkeit
-eines Schadenseintritts für die genannten Schutzgüter gegeben ist.
-Dabei berücksichtigt es regelmäßig zu aktualisierende Feststellungen
-der Sicherheitsanforderungen der betroffenen Behörden, die
-Verpflichtungen und Vereinbarungen der Bundesrepublik Deutschland
+Auswärtigen Amt und dem Bundesministerium des Innern, für Bau und
+Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Bestimmungen zu erlassen, unter welchen Voraussetzungen nach Absatz 2
+die Möglichkeit eines Schadenseintritts für die genannten Schutzgüter
+gegeben ist. Dabei berücksichtigt es regelmäßig zu aktualisierende
+Feststellungen der Sicherheitsanforderungen der betroffenen Behörden,
+die Verpflichtungen und Vereinbarungen der Bundesrepublik Deutschland
 gegenüber den Mitgliedstaaten der Europäischen Union, den Parteien des
 Nordatlantikvertrages vom 4. April 1949 (BGBl. 1955 II S. 289) in der
 Fassung des Protokolls vom 17. Oktober 1951 (BGBl. 1955 II S. 293) und
@@ -584,8 +560,8 @@ Zusammenschau nach Absatz 2 Satz 1 und 2 erfolgt. Die Rechtsverordnung
 darf dem Datenanbieter keinen eigenen Einschätzungsspielraum belassen,
 ob eine Anfrage sensitiv ist. Auf bevorstehende Änderungen der
 Rechtsverordnung kann der Datenanbieter hingewiesen werden. Das
-Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen
-mit dem Bundesministerium der Verteidigung und dem Auswärtigen Amt die
+Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit
+dem Bundesministerium der Verteidigung und dem Auswärtigen Amt die
 Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates
 ganz oder teilweise auf das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle übertragen.
@@ -767,46 +743,33 @@ Absätze 2 und 3 das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (2) Zuständig für die Durchführung einer Sicherheitsüberprüfung nach §
 4 Abs. 2 und § 12 Abs. 2 ist das Bundesministerium für Wirtschaft und
-Technologie.
+Energie.
 
-(3) Eine Meldung nach § 10 Abs. 1 Satz 1 erfolgt an das
-Bundesministerium für Wirtschaft und Technologie. Das
-Bundesministerium für Wirtschaft und Technologie ist im Einvernehmen
-mit dem Auswärtigen Amt und dem Bundesministerium der Verteidigung
-zuständig für eine Untersagung des Erwerbs von Unternehmen oder
-Unternehmensbeteiligungen nach § 10 Abs. 1 Satz 4.
+(3) (weggefallen)
 
 
 ### § 25 Verfahren
 
-(1) Eine Genehmigung nach § 3 Abs. 1, eine Zulassung nach § 11 Abs. 1
-und eine Erlaubnis nach § 10 Abs. 2 Satz 1, § 19 Abs. 1 Satz 1 und 2
-sowie nach § 20 Satz 1 setzen jeweils einen schriftlichen Antrag
-voraus. Eine Meldung nach § 10 Abs. 1 Satz 1 hat schriftlich zu
-erfolgen. Einem Antrag oder einer Meldung sind die zur Prüfung der
+(1) Eine Genehmigung nach § 3 Abs. 1, eine Zulassung nach § 11 Absatz
+1 und eine Erlaubnis nach § 10 Satz 1 setzen jeweils einen
+schriftlichen Antrag voraus. Eine Erlaubnis nach § 19 Absatz 1 Satz 1
+und 2 sowie nach § 20 Satz 1 setzt einen schriftlichen oder
+elektronischen Antrag voraus. Einem Antrag sind die zur Prüfung der
 Erteilungsvoraussetzungen notwendigen Unterlagen beizufügen.
 
-(2) Zur Feststellung der Eignung eines Verfahrens nach § 4 Abs. 1 Nr.
-2 und 3 sowie § 12 Abs. 1 Nr. 3 ist das Bundesamt für Sicherheit in
-der Informationstechnik frühzeitig zu beteiligen. Das Bundesamt für
-Sicherheit in der Informationstechnik stellt dem Antragsteller
-Unterlagen zum Umfang und Ablauf der Prüfung zur Verfügung.
+(2) Zur Feststellung der Eignung eines Verfahrens nach § 4 Absatz 1
+Nummer 2 und 3 sowie § 12 Absatz 1 Nummer 3 ist das Bundesamt für
+Sicherheit in der Informationstechnik frühzeitig zu beteiligen. Das
+Bundesamt für Sicherheit in der Informationstechnik stellt dem
+Antragsteller Unterlagen zum Umfang und Ablauf der Prüfung zur
+Verfügung.
 
-(3) Verwaltungsakte nach diesem Gesetz sind schriftlich zu erlassen
-und zuzustellen.
+(3) Verwaltungsakte nach diesem Gesetz sind schriftlich oder
+elektronisch zu erlassen.
 
 
-### § 26 Gebühren und Auslagen
+### § 26 (weggefallen)
 
-Für Amtshandlungen nach diesem Gesetz erhebt die zuständige Behörde
-Gebühren und Auslagen. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, die Gebührentatbestände, die Gebührenhöhe
-und die zu erstattenden Auslagen durch Rechtsverordnung ohne
-Zustimmung des Bundesrates zu bestimmen und dabei feste Sätze oder
-Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
-die mit den Amtshandlungen verbundenen Kosten gedeckt sind. Die
-Bedeutung, der wirtschaftliche Wert oder sonstige Nutzen der
-Amtshandlung für den Begünstigten werden angemessen berücksichtigt.
 
 
 ### § 27 Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
@@ -830,8 +793,8 @@ Eine Übermittlung nach Satz 1 Nr. 2 ist nur zulässig, wenn
 tatsächliche Anhaltspunkte für die zukünftige Begehung oder das
 Vorliegen von Straftaten bestehen. Darüber hinaus kann die zuständige
 Behörde diese personenbezogenen Daten an den Bundesnachrichtendienst
-übermitteln, wenn die Voraussetzungen des § 8 Abs. 3 des BND-Gesetzes
-erfüllt sind. Der Dritte, an den die personenbezogenen Daten
+übermitteln, wenn die Voraussetzungen des § 10 Absatz 3 des BND-
+Gesetzes erfüllt sind. Der Dritte, an den die personenbezogenen Daten
 übermittelt werden, darf diese nur für den Zweck verwenden, zu dessen
 Erfüllung sie übermittelt werden.
 
@@ -866,14 +829,12 @@ gleich.
     Erdfernerkundungssystem betreibt,
 
 
-2.  entgegen § 10 Abs. 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erstattet oder einer vollziehbaren
-    Anordnung nach § 10 Abs. 1 Satz 4 zuwiderhandelt,
+2.  (weggefallen)
 
 
 3.  ohne Erlaubnis
 
-    a)  nach § 10 Abs. 2 Satz 1 den Betrieb eines hochwertigen
+    a)  nach § 10 Satz 1 den Betrieb eines hochwertigen
         Erdfernerkundungssystems oder von Teilen eines solchen übernimmt,
 
 
@@ -934,8 +895,8 @@ fünfundzwanzigtausend Euro geahndet werden.
 ### § 29 Straftaten
 
 (1) Mit Freiheitsstrafe bis fünf Jahren oder mit Geldstrafe wird
-bestraft, wer eine in § 28 Abs. 1 Nr. 1 bis 6 bezeichnete vorsätzliche
-Handlung begeht, die geeignet ist,
+bestraft, wer eine in § 28 Absatz 1 Nummer 1, 3 bis 5 oder 6
+bezeichnete vorsätzliche Handlung begeht, die geeignet ist,
 
 1.  die wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland,
 

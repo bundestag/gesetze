@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1980, 742
 
 Zuletzt geändert durch
-:   Art. 5 G v. 4.11.2010 I 1483
+:   Art. 16 G v. 25.7.2013 I 2722
+
+Änderung durch
+:   Art. 2 V v. 28.9.2021 I 4591 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -44,17 +47,32 @@ abgeschlossen werden, die von den §§ 2 bis 34 abweichen, wenn das
 Fernwärmeversorgungsunternehmen einen Vertragsabschluß zu den
 allgemeinen Bedingungen dieser Verordnung angeboten hat und der Kunde
 mit den Abweichungen ausdrücklich einverstanden ist. Auf die
-abweichenden Bedingungen sind die §§ 3 bis 11 des Gesetzes zur
-Regelung des Rechts der Allgemeinen Geschäftsbedingungen anzuwenden.
-Von der in § 18 enthaltenen Verpflichtung, zur Ermittlung des
-verbrauchsabhängigen Entgelts Meßeinrichtungen zu verwenden, darf
-nicht abgewichen werden.
+abweichenden Bedingungen sind die §§ 305 bis 310 des Bürgerlichen
+Gesetzbuchs anzuwenden. Von den Bestimmungen des § 18 Absatz 1 und §
+24 Absatz 1 darf nicht abgewichen werden.
 
 (4) Das Fernwärmeversorgungsunternehmen hat seine allgemeinen
 Versorgungsbedingungen, soweit sie in dieser Verordnung nicht
 abschließend geregelt sind oder nach Absatz 3 von den §§ 2 bis 34
 abweichen, einschließlich der dazugehörenden Preisregelungen und
 Preislisten in geeigneter Weise öffentlich bekanntzugeben.
+
+
+## § 1a Veröffentlichungspflichten
+
+(1) Das Fernwärmeversorgungsunternehmen hat in leicht zugänglicher und
+allgemein verständlicher Form in jeweils aktueller Fassung seine
+allgemeinen Versorgungsbedingungen, einschließlich der dazugehörenden
+Preisregelungen, Preisanpassungsklauseln und Preiskomponenten, sowie
+eindeutige Verweise auf die Quellen verwendeter Indizes und
+Preislisten barrierefrei im Internet zu veröffentlichen.
+
+(2) Das Fernwärmeversorgungsunternehmen hat zudem Informationen über
+die Netzverluste in Megawattstunden pro Jahr als Differenz zwischen
+der Wärme-Netzeinspeisung und der nutzbaren Wärmeabgabe im Internet in
+leicht zugänglicher und allgemein verständlicher Form zu
+veröffentlichen. Die Wärmeabgabe entspricht der vom Kunden und vom
+Versorger für eigene Einrichtungen entnommenen Wärme.
 
 
 ## § 2 Vertragsabschluß
@@ -80,17 +98,22 @@ einschließlich der dazugehörenden Preisregelungen und Preislisten
 unentgeltlich auszuhändigen.
 
 
-## § 3 Bedarfsdeckung
+## § 3 Anpassung der Leistung
 
-Das Fernwärmeversorgungsunternehmen hat dem Kunden im Rahmen des
-wirtschaftlich Zumutbaren die Möglichkeit einzuräumen, den Bezug auf
-den von ihm gewünschten Verbrauchszweck oder auf einen Teilbedarf zu
-beschränken. Der Kunde ist verpflichtet, seinen Wärmebedarf im
-vereinbarten Umfange aus dem Verteilungsnetz des
-Fernwärmeversorgungsunternehmens zu decken. Er ist berechtigt,
-Vertragsanpassung zu verlangen, soweit er den Wärmebedarf unter
-Nutzung regenerativer Energiequellen decken will; Holz ist eine
-regenerative Energiequelle im Sinne dieser Bestimmung.
+(1) Das Fernwärmeversorgungsunternehmen hat dem Kunden die Möglichkeit
+einzuräumen, eine Anpassung der vertraglich vereinbarten Wärmeleistung
+(Leistung) während der Vertragslaufzeit vorzunehmen. Die Anpassung der
+Leistung nach Satz 1 kann einmal jährlich mit einer Frist von vier
+Wochen zum Ende eines Kalendermonats erfolgen und bedarf keines
+Nachweises, sofern sich die Leistung nicht um mehr als 50 Prozent
+reduziert.
+
+(2) Der Kunde kann eine Anpassung der Leistung, die eine Reduktion um
+mehr als 50 Prozent im Vergleich zur vertraglich vereinbarten Leistung
+darstellt, oder eine Kündigung des Versorgungsvertrages mit
+zweimonatiger Frist vornehmen, sofern er die Leistung durch den
+Einsatz erneuerbarer Energien ersetzen will. Er hat zu belegen, dass
+erneuerbare Energien eingesetzt werden sollen.
 
 
 ## § 4 Art der Versorgung
@@ -462,12 +485,13 @@ kann das Unternehmen regeln.
 
 ## § 16 Zutrittsrecht
 
-Der Kunde hat dem mit einem Ausweis versehenen Beauftragten des
-Fernwärmeversorgungsunternehmens den Zutritt zu seinen Räumen zu
-gestatten, soweit dies für die Prüfung der technischen Einrichtungen,
-zur Wahrnehmung sonstiger Rechte und Pflichten nach dieser Verordnung,
-insbesondere zur Ablesung, oder zur Ermittlung preislicher
-Bemessungsgrundlagen erforderlich und vereinbart ist.
+Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis
+versehenen Beauftragten des Fernwärmeversorgungsunternehmens den
+Zutritt zu seinen Räumen zu gestatten, soweit dies für die Prüfung der
+technischen Einrichtungen, zur Wahrnehmung sonstiger Rechte und
+Pflichten nach dieser Verordnung, insbesondere zur Ablesung, oder zur
+Ermittlung preislicher Bemessungsgrundlagen erforderlich und
+vereinbart ist.
 
 
 ## § 17 Technische Anschlußbedingungen
@@ -492,40 +516,31 @@ vereinbaren sind.
 
 ## § 18 Messung
 
-(1) Zur Ermittlung des verbrauchsabhängigen Entgelts hat das
-Fernwärmeversorgungsunternehmen Meßeinrichtungen zu verwenden, die den
-eichrechtlichen Vorschriften entsprechen müssen. Die gelieferte
-Wärmemenge ist durch Messung festzustellen (Wärmemessung). Anstelle
-der Wärmemessung ist auch die Messung der Wassermenge ausreichend
-(Ersatzverfahren), wenn die Einrichtungen zur Messung der Wassermenge
-vor dem 30. September 1989 installiert worden sind. Der anteilige
-Wärmeverbrauch mehrerer Kunden kann mit Einrichtungen zur Verteilung
-von Heizkosten (Hilfsverfahren) bestimmt werden, wenn die gelieferte
-Wärmemenge
+(1) Für die Messung der gelieferten Wärmemenge (Wärmemessung) ist § 3
+der Fernwärme- oder Fernkälte-Verbrauchserfassungs- und
+-Abrechnungsverordnung vom 28. September 2021 (BGBl. I S. 4591) in der
+jeweils geltenden Fassung anzuwenden. Anstelle der Wärmemessung ist
+auch die Messung der Wassermenge ausreichend (Ersatzverfahren), wenn
+die Einrichtungen zur Messung der Wassermenge vor dem 30. September
+1989 installiert worden sind. Der anteilige Wärmeverbrauch mehrerer
+Kunden kann mit Einrichtungen zur Verteilung von Heizkosten
+(Hilfsverfahren) bestimmt werden, wenn die gelieferte Wärmemenge wie
+folgt festgestellt wird:
 
-1.  an einem Hausanschluß, von dem aus mehrere Kunden versorgt werden,
+1.  an einem Hausanschluss, von dem aus mehrere Kunden versorgt werden,
     oder
 
 
 2.  an einer sonstigen verbrauchsnah gelegenen Stelle für einzelne
     Gebäudegruppen, die vor dem 1. April 1980 an das Verteilungsnetz
-    angeschlossen worden sind,
+    angeschlossen worden sind.
 
 
 
-festgestellt wird. Das Unternehmen bestimmt das jeweils anzuwendende
-Verfahren; es ist berechtigt, dieses während der Vertragslaufzeit zu
-ändern.
+Das Unternehmen bestimmt das jeweils anzuwendende Verfahren; dabei ist
+es berechtigt, dieses während der Vertragslaufzeit zu ändern.
 
-(2) Dient die gelieferte Wärme ausschließlich der Deckung des eigenen
-Bedarfs des Kunden, so kann vereinbart werden, daß das Entgelt auf
-andere Weise als nach Absatz 1 ermittelt wird.
-
-(3) Erfolgt die Versorgung aus Anlagen der Kraft-Wärme-Kopplung oder
-aus Anlagen zur Verwertung von Abwärme, so kann die zuständige Behörde
-im Interesse der Energieeinsparung Ausnahmen von Absatz 1 zulassen.
-
-(4) Das Fernwärmeversorgungsunternehmen hat dafür Sorge zu tragen, daß
+(2) Das Fernwärmeversorgungsunternehmen hat dafür Sorge zu tragen, daß
 eine einwandfreie Anwendung der in Absatz 1 genannten Verfahren
 gewährleistet ist. Es bestimmt Art, Zahl und Größe sowie
 Anbringungsort von Meß- und Regeleinrichtungen. Ebenso ist die
@@ -537,17 +552,17 @@ oder des Hauseigentümers Meß- oder Regeleinrichtungen zu verlegen,
 wenn dies ohne Beeinträchtigung einer einwandfreien Messung oder
 Regelung möglich ist.
 
-(5) Die Kosten für die Meßeinrichtungen hat das
+(3) Die Kosten für die Meßeinrichtungen hat das
 Fernwärmeversorgungsunternehmen zu tragen; die Zulässigkeit von
-Verrechnungspreisen bleibt unberührt. Die im Falle des Absatzes 4 Satz
+Verrechnungspreisen bleibt unberührt. Die im Falle des Absatzes 2 Satz
 5 entstehenden Kosten hat der Kunde oder der Hauseigentümer zu tragen.
 
-(6) Der Kunde haftet für das Abhandenkommen und die Beschädigung von
+(4) Der Kunde haftet für das Abhandenkommen und die Beschädigung von
 Meß- und Regeleinrichtungen, soweit ihn hieran ein Verschulden trifft.
 Er hat den Verlust, Beschädigungen und Störungen dieser Einrichtungen
 dem Fernwärmeversorgungsunternehmen unverzüglich mitzuteilen.
 
-(7) Bei der Abrechnung der Lieferung von Fernwärme und Fernwarmwasser
+(5) Bei der Abrechnung der Lieferung von Fernwärme und Fernwarmwasser
 sind die Bestimmungen der Verordnung über Heizkostenabrechnung in der
 Fassung der Bekanntmachung vom 5. April 1984 (BGBl. I S. 592),
 geändert durch Artikel 1 der Verordnung vom 19. Januar 1989 (BGBl. I
@@ -559,10 +574,10 @@ S. 109), zu beachten.
 (1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
 verlangen. Bei Meßeinrichtungen, die den eichrechtlichen Vorschriften
 entsprechen müssen, kann er die Nachprüfung durch eine Eichbehörde
-oder eine staatlich anerkannte Prüfstelle im Sinne des § 6 Abs. 2 des
-Eichgesetzes verlangen. Stellt der Kunde den Antrag auf Prüfung nicht
-bei dem Fernwärmeversorgungsunternehmen, so hat er dieses vor
-Antragstellung zu benachrichtigen.
+oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz 3
+des Mess- und Eichgesetzes verlangen. Stellt der Kunde den Antrag auf
+Prüfung nicht bei dem Fernwärmeversorgungsunternehmen, so hat er
+dieses vor Antragstellung zu benachrichtigen.
 
 (2) Die Kosten der Prüfung fallen dem Unternehmen zur Last, falls eine
 nicht unerhebliche Ungenauigkeit festgestellt wird, sonst dem Kunden.
@@ -637,20 +652,13 @@ längstens ein Jahr erhoben werden.
 
 ## § 24 Abrechnung, Preisänderungsklauseln
 
-(1) Der Energieverbrauch ist nach Wahl des
-Fernwärmeversorgungsunternehmens monatlich oder in anderen
-Zeitabschnitten, die jedoch zwölf Monate nicht wesentlich
-überschreiten dürfen, abzurechnen. Sofern der Kunde dies wünscht, ist
-das Fernwärmeversorgungsunternehmen verpflichtet, eine monatliche,
-vierteljährliche oder halbjährliche Abrechnung zu vereinbaren.
+(1) Die Abrechnung des Energieverbrauchs und die Bereitstellung von
+Abrechnungsinformationen einschließlich Verbrauchsinformationen
+erfolgt nach den §§ 4 und 5 der Fernwärme- oder Fernkälte-
+Verbrauchserfassungs- und -Abrechnungsverordnung in der jeweils
+geltenden Fassung.
 
-(2) Fernwärmeversorgungsunternehmen sind verpflichtet, in ihren
-Rechnungen für Lieferungen an Kunden die geltenden Preise, den
-ermittelten Verbrauch im Abrechnungszeitraum und den Verbrauch im
-vergleichbaren Abrechnungszeitraum des Vorjahres anzugeben. Sofern das
-Fernwärmeversorgungsunternehmen aus Gründen, die es nicht zu vertreten
-hat, den Verbrauch nicht ermitteln kann, ist der geschätzte Verbrauch
-anzugeben.
+(2) (weggefallen)
 
 (3) Ändern sich innerhalb eines Abrechnungszeitraumes die Preise, so
 wird der für die neuen Preise maßgebliche Verbrauch zeitanteilig
@@ -667,7 +675,9 @@ maßgeblichen Berechnungsfaktoren vollständig und in allgemein
 verständlicher Form ausweisen. Bei Anwendung der
 Preisänderungsklauseln ist der prozentuale Anteil des die
 Brennstoffkosten abdeckenden Preisfaktors an der jeweiligen
-Preisänderung gesondert auszuweisen.
+Preisänderung gesondert auszuweisen. Eine Änderung einer
+Preisänderungsklausel darf nicht einseitig durch öffentliche
+Bekanntgabe erfolgen.
 
 
 ## § 25 Abschlagszahlungen
@@ -935,8 +945,10 @@ von neun Monaten gekündigt werden, solange sich der Vertrag nicht nach
 
 Der Bundesminister für Wirtschaft
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 1008)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1008) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1480
 
+Geändert durch
+:   Art. 29 G v. 10.8.2021 I 3436
+
 
 ## § 1 Übermittlung und Verwendung
 
@@ -22,11 +25,15 @@ Fundstelle
 dem Statistischen Bundesamt und den statistischen Ämtern der Länder
 für die in Absatz 2 bestimmten Zwecke monatlich die bei ihnen
 vorhandenen Daten nach Maßgabe der §§ 2 und 3 und der nach § 5
-erlassenen Rechtsverordnung. Die Finanzbehörden und die Bundesagentur
-für Arbeit informieren das Statistische Bundesamt und die
+erlassenen Rechtsverordnung. Die Bundesanstalt für
+Finanzdienstleistungsaufsicht und die Deutsche Bundesbank übermitteln
+dem Statistischen Bundesamt für die in Absatz 2 bestimmten Zwecke
+jährlich die bei ihnen vorhandenen Daten nach Maßgabe der §§ 3a und 3b
+und der nach § 5 erlassenen Rechtsverordnung. Die in den Sätzen 1 und
+2 genannten Stellen informieren das Statistische Bundesamt und die
 statistischen Ämter der Länder so früh wie möglich über anstehende
 Änderungen der zu übermittelnden Daten, soweit diese Änderungen die
-Verwendung der Daten nach Absatz 2 beeinträchtigen könnte.
+Verwendung der Daten nach Absatz 2 beeinträchtigen könnten.
 
 (2) Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen die übermittelten Daten nur verwenden für
@@ -166,6 +173,96 @@ Das Statistische Bundesamt übermittelt die Daten an die statistischen
 Ämter der Länder jeweils für deren Zuständigkeitsbereich.
 
 
+## § 3a Daten der Bundesanstalt für Finanzdienstleistungsaufsicht
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem
+Statistischen Bundesamt folgende Daten der unter Bundesaufsicht
+stehenden Unternehmen der Wirtschaftsgruppen 65.1-Versicherungen,
+65\.2-Rückversicherungen und 65.3-Pensionskassen und Pensionsfonds nach
+Anhang I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments
+und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen
+Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der
+Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der
+EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006,
+S. 1) in der jeweils geltenden Fassung, soweit sie der Bundesanstalt
+für Finanzdienstleistungsaufsicht vorliegen:
+
+1.  Name und Anschrift,
+
+
+2.  Rechtsform,
+
+
+3.  Wirtschaftszweig,
+
+
+4.  Ort und Nummer der Eintragung in das Handelsregister,
+
+
+5.  Legal Entity Identifier,
+
+
+6.  die erfassten Daten der Formblätter zur Bilanz und Gewinn- und
+    Verlustrechnung sowie die Nachweisungen zu den formgebundenen
+    Erläuterungen der Gliederung der in bestimmten Aufwandsposten der
+    Gewinn- und Verlustrechnung ausgewiesenen Aufwendungen nach
+    Aufwandsarten sowie Anzahl der Beschäftigten und der Erträge aus den
+    Kapitalanlagen und Aufwendungen für die Kapitalanlagen, bei
+    Pensionsfonds einschließlich Kapitalanlagen für Rechnung und Risiko
+    von Arbeitnehmern und Arbeitgebern.
+
+
+
+Die in § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes
+genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht
+befreit. Das Statistische Bundesamt übermittelt die Daten an die
+statistischen Ämter der Länder jeweils für deren
+Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift
+erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 309
+Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes für die bei dem
+Statistischen Bundesamt und den statistischen Ämtern der Länder
+beschäftigten Personen entsprechend.
+
+
+## § 3b Daten der Deutschen Bundesbank
+
+Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt
+folgende Daten hinsichtlich der zu den Wirtschaftsklassen
+64\.19-Kreditinstitute und 64.92-Spezialkreditinstitute gehörenden
+Institute nach Anhang I der Verordnung (EG) Nr. 1893/2006 in der
+jeweils geltenden Fassung, soweit sie der Deutschen Bundesbank
+vorliegen:
+
+1.  Name, Anschrift,
+
+
+2.  Rechtsform,
+
+
+3.  Wirtschaftszweig,
+
+
+4.  Ort und Nummer der Eintragung in das Handelsregister,
+
+
+5.  Legal Entity Identifier,
+
+
+6.  die Daten der Gewinn- und Verlustrechnung sowie die erfassten Daten
+    des Personalbestands.
+
+
+
+Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes genannten Personen
+sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das
+Statistische Bundesamt übermittelt die Daten an die statistischen
+Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen
+gilt für die nach dieser Vorschrift erhaltenen Informationen die
+Verschwiegenheitspflicht gemäß § 9 Absatz 1 Satz 1 des
+Kreditwesengesetzes für die bei dem Statistischen Bundesamt und den
+statistischen Ämtern der Länder beschäftigten Personen entsprechend.
+
+
 ## § 4 Rückfragen
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -189,5 +286,9 @@ Umsatzsteuervoranmeldungen verpflichtet sind, und zu Betrieben, die
 für Beschäftigte Meldungen nach § 28a des Vierten Buches
 Sozialgesetzbuch erstatten, neu in die jeweiligen Meldeverfahren
 aufgenommen werden und für die in § 1 Absatz 2 festgelegten Zwecke
-geeignet und erforderlich sind.
+geeignet und erforderlich sind. Die Bundesregierung wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Daten zu
+Wirtschaftseinheiten festzulegen, die nach den §§ 3a und 3b zu
+übermitteln sind, sofern dies für die in § 1 Absatz 2 festgelegten
+Zwecke erforderlich ist.
 

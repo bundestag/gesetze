@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1317
 
+Geändert durch
+:   Art. 1 V v. 19.6.2020 I 1328
+
 
 
 ## Erster Abschnitt - Volksentscheid
@@ -49,10 +52,11 @@ jeweils einen eigenen Abstimmungsbereich bilden.
 
 ### § 3 Bestimmung des Abstimmungstages
 
-(1) Der Bundesminister des Innern bestimmt den Abstimmungstag und gibt
-den Gegenstand des Volksentscheides, das Abstimmungsgebiet und den
-Abstimmungstag im Bundesgesetzblatt bekannt. Die Abstimmung findet an
-einem Sonntag oder einem gesetzlichen Feiertag statt.
+(1) Der Bundesminister des Innern, für Bau und Heimat bestimmt den
+Abstimmungstag und gibt den Gegenstand des Volksentscheides, das
+Abstimmungsgebiet und den Abstimmungstag im Bundesgesetzblatt bekannt.
+Die Abstimmung findet an einem Sonntag oder einem gesetzlichen
+Feiertag statt.
 
 (2) Die Regierungen der betroffenen Länder oder die von ihnen
 bestimmten Stellen unterrichten die zur Beteiligung am Volksentscheid
@@ -136,11 +140,12 @@ persönlich ausüben.
 
 
 Der Gesamtabstimmungsleiter und sein Stellvertreter werden vom
-Bundesminister des Innern im Benehmen mit den Regierungen der
-betroffenen Länder ernannt. In den Gesamtabstimmungsausschuß sind
-neben dem Gesamtabstimmungsleiter zehn Stimmberechtigte aus den
-betroffenen Ländern im Verhältnis ihrer Einwohnerzahlen zu berufen,
-die von den Regierungen der betroffenen Länder bestimmt werden.
+Bundesminister des Innern, für Bau und Heimat im Benehmen mit den
+Regierungen der betroffenen Länder ernannt. In den
+Gesamtabstimmungsausschuß sind neben dem Gesamtabstimmungsleiter zehn
+Stimmberechtigte aus den betroffenen Ländern im Verhältnis ihrer
+Einwohnerzahlen zu berufen, die von den Regierungen der betroffenen
+Länder bestimmt werden.
 
 (2) Bei der Berufung der Beisitzer der Abstimmungsausschüsse und der
 Abstimmungsvorstände sind die im jeweiligen Bezirk vertretenen
@@ -201,7 +206,7 @@ Die Stimmabgabe ist geheim.
 
 (1) Abgestimmt wird mit amtlichen Stimmzetteln in amtlichen
 Umschlägen. Das Muster des Stimmzettels wird vom Bundesminister des
-Innern durch Rechtsverordnung bestimmt.
+Innern, für Bau und Heimat durch Rechtsverordnung bestimmt.
 
 (2) Der Abstimmende gibt seine Stimme in der Weise ab, daß er durch
 ein auf den Stimmzettel gesetztes Kreuz oder auf andere Weise
@@ -338,7 +343,8 @@ Gebietsteile zusammengefaßt festzustellen. Der
 Gesamtabstimmungsausschuß stellt auch fest, ob der Volksentscheid nach
 Artikel 29 Abs. 3 Satz 3 und 4 zustande gekommen ist oder nicht. Der
 Gesamtabstimmungsleiter übermittelt das Abstimmungsergebnis und die
-Feststellung nach Satz 2 dem Bundesminister des Innern.
+Feststellung nach Satz 2 dem Bundesminister des Innern, für Bau und
+Heimat.
 
 (3) Für die Prüfung des Abstimmungsergebnisses und die Entscheidung
 über die Gültigkeit der Abstimmung gilt das Wahlprüfungsgesetz in der
@@ -389,9 +395,9 @@ der zu wiederholenden Abstimmung bestimmt der Gesamtabstimmungsleiter.
 
 ### § 17 Veröffentlichung des Abstimmungsergebnisses
 
-Der Bundesminister des Innern veröffentlicht die Feststellung des
-Gesamtabstimmungsausschusses nach § 14 Abs. 2 Satz 2 im
-Bundesgesetzblatt und das Abstimmungsergebnis im Bundesanzeiger.
+Der Bundesminister des Innern, für Bau und Heimat veröffentlicht die
+Feststellung des Gesamtabstimmungsausschusses nach § 14 Abs. 2 Satz 2
+im Bundesgesetzblatt und das Abstimmungsergebnis im Bundesanzeiger.
 
 
 ## Zweiter Abschnitt - Volksbegehren
@@ -412,11 +418,11 @@ herbeizuführen.
 ### § 19 Zulassungsantrag
 
 (1) Die Durchführung eines Volksbegehrens ist beim Bundesminister des
-Innern zu beantragen. Der Antrag muß von mindestens eins vom Hundert
-der bei der letzten Wahl zum Bundestag wahlberechtigten Einwohner des
-Raumes, für den das Volksbegehren beantragt wird, jedoch von nicht
-mehr als 7.000 Einwohnern persönlich und handschriftlich unterzeichnet
-sein.
+Innern, für Bau und Heimat zu beantragen. Der Antrag muß von
+mindestens eins vom Hundert der bei der letzten Wahl zum Bundestag
+wahlberechtigten Einwohner des Raumes, für den das Volksbegehren
+beantragt wird, jedoch von nicht mehr als 7 000 Einwohnern persönlich
+und handschriftlich unterzeichnet sein.
 
 (2) Unterschriftsberechtigt ist jeder Einwohner des Raumes, der bei
 der Stellung des Antrags zum Bundestag wahlberechtigt ist und seit
@@ -499,30 +505,32 @@ Vertrauensmannes.
 
 (3) Der Vertrauensmann und der Stellvertreter können von der Mehrheit
 der Unterzeichner des Antrags durch schriftliche Erklärung an den
-Bundesminister des Innern abberufen und durch andere ersetzt werden.
+Bundesminister des Innern, für Bau und Heimat abberufen und durch
+andere ersetzt werden.
 
 
 ### § 24 Entscheidung über den Zulassungsantrag
 
-(1) Über den Antrag entscheidet der Bundesminister des Innern
-innerhalb von drei Monaten nach Eingang des mängellosen Antrags. Vor
-der Entscheidung gibt er den Regierungen der betroffenen Länder
-Gelegenheit zur Äußerung innerhalb eines Monats.
+(1) Über den Antrag entscheidet der Bundesminister des Innern, für Bau
+und Heimat innerhalb von drei Monaten nach Eingang des mängellosen
+Antrags. Vor der Entscheidung gibt er den Regierungen der betroffenen
+Länder Gelegenheit zur Äußerung innerhalb eines Monats.
 
 (2) Enthält der Antrag Mängel, so fordert der Bundesminister des
-Innern den Vertrauensmann auf, sie innerhalb eines Monats zu beheben.
-Nach Ablauf der Frist können die Mängel nicht mehr behoben werden.
+Innern, für Bau und Heimat den Vertrauensmann auf, sie innerhalb eines
+Monats zu beheben. Nach Ablauf der Frist können die Mängel nicht mehr
+behoben werden.
 
-(3) Der Bundesminister des Innern gibt den Antragstellern eines
-nachrangigen gleichgerichteten Volksbegehrens, für das der Antrag vor
-der Veröffentlichung im Bundesgesetzblatt (§ 25 Abs. 1) oder innerhalb
-eines Monats danach eingegangen ist, Gelegenheit, sich dem vorrangigen
-Antrag anzuschließen. Wird hiervon kein Gebrauch gemacht, so gilt § 21
-Abs. 1 Buchstabe a.
+(3) Der Bundesminister des Innern, für Bau und Heimat gibt den
+Antragstellern eines nachrangigen gleichgerichteten Volksbegehrens,
+für das der Antrag vor der Veröffentlichung im Bundesgesetzblatt (§ 25
+Abs. 1) oder innerhalb eines Monats danach eingegangen ist,
+Gelegenheit, sich dem vorrangigen Antrag anzuschließen. Wird hiervon
+kein Gebrauch gemacht, so gilt § 21 Abs. 1 Buchstabe a.
 
-(4) Der Bundesminister des Innern hat dem Antrag stattzugeben, wenn
-die Voraussetzungen der §§ 18 bis 20 vorliegen und der Antrag nicht
-nach § 21 Abs. 1 unzulässig ist.
+(4) Der Bundesminister des Innern, für Bau und Heimat hat dem Antrag
+stattzugeben, wenn die Voraussetzungen der §§ 18 bis 20 vorliegen und
+der Antrag nicht nach § 21 Abs. 1 unzulässig ist.
 
 (5) Die Entscheidung ist den Antragstellern und den Regierungen der
 betroffenen Länder zuzustellen. Sie ist, wenn der Antrag abgelehnt
@@ -537,13 +545,13 @@ Senat.
 ### § 25 Veröffentlichung des zugelassenen Antrags
 
 (1) Ist dem Antrag stattgegeben worden (§ 24 Abs. 4 und 5), so
-veröffentlicht der Bundesminister des Innern den Antrag und die
-Entscheidung im Bundesgesetzblatt und setzt die Eintragungsfrist und
-die Eintragungsstunden für das zugelassene Volksbegehren fest.
-Betreffen mehrere zugelassene Anträge dasselbe Gebiet oder denselben
-Gebietsteil, so ist die Eintragungsfrist für später eingegangene
-Anträge auf Zeiträume festzusetzen, die nach der Durchführung des
-vorangehenden Volksbegehrens liegen.
+veröffentlicht der Bundesminister des Innern, für Bau und Heimat den
+Antrag und die Entscheidung im Bundesgesetzblatt und setzt die
+Eintragungsfrist und die Eintragungsstunden für das zugelassene
+Volksbegehren fest. Betreffen mehrere zugelassene Anträge dasselbe
+Gebiet oder denselben Gebietsteil, so ist die Eintragungsfrist für
+später eingegangene Anträge auf Zeiträume festzusetzen, die nach der
+Durchführung des vorangehenden Volksbegehrens liegen.
 
 (2) Die Eintragungsfrist beginnt frühestens einen, spätestens zwei
 Monate nach der Veröffentlichung im Bundesgesetzblatt. Sie beträgt
@@ -556,8 +564,8 @@ vorzusehen.
 (3) Die Regierungen der betroffenen Länder oder die von ihnen
 bestimmten Stellen unterrichten die zur Beteiligung am Volksbegehren
 aufgerufene Bevölkerung durch öffentliche Bekanntmachung des Antrags,
-der Entscheidung des Bundesministers des Innern oder des
-Bundesverfassungsgerichts, der Eintragungsfrist und der
+der Entscheidung des Bundesministers des Innern, für Bau und Heimat
+oder des Bundesverfassungsgerichts, der Eintragungsfrist und der
 Eintragungsstunden.
 
 
@@ -576,8 +584,8 @@ zugelassen worden, so genügt für die Zurücknahme des Zulassungsantrags
 für ein nachrangiges Volksbegehren eine entsprechende Erklärung des
 Vertrauensmannes.
 
-(4) Der Bundesminister des Innern gibt die Zurücknahme des Antrags im
-Bundesgesetzblatt bekannt.
+(4) Der Bundesminister des Innern, für Bau und Heimat gibt die
+Zurücknahme des Antrags im Bundesgesetzblatt bekannt.
 
 (5) Nach Beginn der Eintragungsfrist kann der Antrag nicht mehr
 zurückgenommen werden.
@@ -670,11 +678,11 @@ Rechtsaufsichtsbehörde eingelegt werden.
 
 
 Der Gesamteintragungsleiter und sein Stellvertreter werden vom
-Bundesminister des Innern im Benehmen mit den Regierungen der
-betroffenen Länder ernannt. Der Landeseintragungsleiter und die
-Kreiseintragungsleiter sowie ihre Stellvertreter werden von der
-Regierung jedes betroffenen Landes oder von der von ihr bestimmten
-Stelle ernannt.
+Bundesminister des Innern, für Bau und Heimat im Benehmen mit den
+Regierungen der betroffenen Länder ernannt. Der
+Landeseintragungsleiter und die Kreiseintragungsleiter sowie ihre
+Stellvertreter werden von der Regierung jedes betroffenen Landes oder
+von der von ihr bestimmten Stelle ernannt.
 
 (2) Der Gesamteintragungsausschuß besteht aus dem
 Gesamteintragungsleiter als Vorsitzendem und zehn Beisitzern, die der
@@ -716,8 +724,8 @@ angefertigt.
 ### § 33 Auslegung der Eintragungslisten
 
 (1) Die Gemeinde legt während der Eintragungsfrist die
-Eintragungslisten nach dem vom Bundesminister des Innern
-bekanntgegebenen Muster unter Aufsicht öffentlich aus.
+Eintragungslisten nach dem vom Bundesminister des Innern, für Bau und
+Heimat bekanntgegebenen Muster unter Aufsicht öffentlich aus.
 
 (2) In dem Gebäude, in dem die Eintragungslisten ausliegen, ist es
 verboten, die Eintragungsberechtigten durch Wort, Ton, Schrift oder
@@ -800,8 +808,8 @@ Bundestag Wahlberechtigten nach Artikel 29 Abs. 4 des Grundgesetzes
 ist die Zahl der für die Wahl zum Bundestag Wahlberechtigten im Raum
 des zugelassenen Volksbegehrens zum Zeitpunkt des Endes der
 Eintragungsfrist maßgebend. Der Gesamteintragungsleiter übermittelt
-dem Bundesminister des Innern das Ergebnis der Eintragung in dem Raum
-des zugelassenen Volksbegehrens.
+dem Bundesminister des Innern, für Bau und Heimat das Ergebnis der
+Eintragung in dem Raum des zugelassenen Volksbegehrens.
 
 (4) Für die Prüfung des Eintragungsergebnisses und die Entscheidung
 über die Gültigkeit des Volksbegehrens sind die Vorschriften des
@@ -820,9 +828,9 @@ Bundesverfassungsgericht erheben.
 
 ### § 37 Veröffentlichung des Eintragungsergebnisses
 
-Der Bundesminister des Innern veröffentlicht die Feststellung über das
-Zustandekommen des Volksbegehrens im Bundesgesetzblatt und das
-Eintragungsergebnis im Bundesanzeiger.
+Der Bundesminister des Innern, für Bau und Heimat veröffentlicht die
+Feststellung über das Zustandekommen des Volksbegehrens im
+Bundesgesetzblatt und das Eintragungsergebnis im Bundesanzeiger.
 
 
 ## Dritter Abschnitt - Volksbefragung
@@ -857,9 +865,10 @@ dann, wenn mehr als einer der Fragen zugestimmt wird.
 
 ### § 40 Ermächtigung zum Erlaß von Rechtsverordnungen
 
-Der Bundesminister des Innern wird ermächtigt, durch Rechtsverordnung
-für die Durchführung von Volksentscheiden, Volksbegehren und
-Volksbefragungen Ausführungsvorschriften zu erlassen über
+Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
+durch Rechtsverordnung für die Durchführung von Volksentscheiden,
+Volksbegehren und Volksbefragungen Ausführungsvorschriften zu erlassen
+über
 
 1.  das Stimm- und Eintragungsrecht und seine Ausübung,
 
@@ -914,10 +923,11 @@ Volksbefragung trägt der Bund. Er erstattet den Ländern, zugleich für
 ihre Gemeinden (Gemeindeverbände), für jede Abstimmung, für jedes
 Eintragungsverfahren und für jede Volksbefragung einen festen, nach
 der Zahl der Stimm- und Eintragungsberechtigten bemessenen Betrag, der
-vom Bundesminister des Innern mit Zustimmung des Bundesrates
-festgesetzt wird. Bei der Festsetzung werden laufende persönliche und
-sachliche Kosten und Kosten für Benutzung von Räumen und Einrichtungen
-der Länder und Gemeinden (Gemeindeverbände) nicht berücksichtigt.
+vom Bundesminister des Innern, für Bau und Heimat mit Zustimmung des
+Bundesrates festgesetzt wird. Bei der Festsetzung werden laufende
+persönliche und sachliche Kosten und Kosten für Benutzung von Räumen
+und Einrichtungen der Länder und Gemeinden (Gemeindeverbände) nicht
+berücksichtigt.
 
 
 ### § 42 Inkrafttreten

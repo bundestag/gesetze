@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1918
 
+Geändert durch
+:   Art. 1 G v. 29.11.2014 I 1821, 2193
+
 
 ## § 1 Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität
 
@@ -85,11 +88,9 @@ Verfügung stehende Instrumente der Stabilitätshilfe sind vorsorgliche
 Finanzhilfen, Finanzhilfen zur Rekapitalisierung von Finanzinstituten
 einer Vertragspartei, Darlehen sowie der Ankauf von Anleihen einer
 Vertragspartei auf dem Primär- oder Sekundärmarkt. Finanzhilfen zur
-Rekapitalisierung von Finanzinstituten einer Vertragspartei schließen
-Finanzhilfen an eine Einrichtung zur Stabilisierung des Finanzsektors
-mit ein, wenn die sektorspezifische Konditionalität gewährleistet ist,
-keine direkten Bankrisiken übernommen werden und die Rückzahlung durch
-eine Garantie der Vertragspartei gesichert ist.
+Rekapitalisierung von Finanzinstituten können einer Vertragspartei
+oder auf deren Antrag direkt Finanzinstituten dieser Vertragspartei
+gewährt werden.
 
 
 ## § 3 Haushalts- und Stabilitätsverantwortung
@@ -124,9 +125,11 @@ insbesondere betroffen
 
 2.  bei der Annahme einer Vereinbarung über die Finanzhilfefazilität nach
     Artikel 13 Absatz 3 Satz 3 des Vertrags zur Einrichtung des
-    Europäischen Stabilitätsmechanismus und einer Zustimmung zu einem
+    Europäischen Stabilitätsmechanismus, einer Zustimmung zu einem
     entsprechenden Memorandum of Understanding nach Artikel 13 Absatz 4
-    des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus,
+    des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus
+    und im Falle der Gewährung einer direkt an Finanzinstitute gewährten
+    Finanzhilfe bei der Annahme einer institutsspezifischen Vereinbarung,
 
 
 3.  bei Beschlüssen im Rahmen des Europäischen Stabilitätsmechanismus zur
@@ -134,7 +137,12 @@ insbesondere betroffen
     Darlehensvolumens nach Artikel 10 Absatz 1 des Vertrags zur
     Einrichtung des Europäischen Stabilitätsmechanismus; Artikel 2 Absatz
     1 des Gesetzes zu dem Vertrag vom 2. Februar 2012 zur Einrichtung des
-    Europäischen Stabilitätsmechanismus bleibt unberührt.
+    Europäischen Stabilitätsmechanismus bleibt unberührt,
+
+
+4.  bei Beschlüssen im Rahmen des Europäischen Stabilitätsmechanismus über
+    die Festlegung und Änderung von Obergrenzen der für ein bestimmtes
+    Finanzhilfeinstrument insgesamt zur Verfügung stehenden Mittel.
 
 
 
@@ -180,9 +188,12 @@ Stabilitätshilfen.
 
 
 3.  die Annahme oder wesentliche Änderung der Leitlinien für die
-    Durchführungsmodalitäten der einzelnen Finanzhilfefazilitäten nach den
-    Artikeln 14 bis 18 des Vertrags zur Einrichtung des Europäischen
-    Stabilitätsmechanismus, der Preisgestaltungsleitlinien nach Artikel 20
+    Durchführungsmodalitäten der einzelnen dem Europäischen
+    Stabilitätsmechanismus nach den Artikeln 14 bis 18 des Vertrags zur
+    Einrichtung des Europäischen Stabilitätsmechanismus sowie gemäß einem
+    Beschluss nach Artikel 19 des Vertrags zur Einrichtung des
+    Europäischen Stabilitätsmechanismus zur Verfügung stehenden
+    Finanzhilfeinstrumente, der Preisgestaltungsleitlinien nach Artikel 20
     Absatz 2 des Vertrags zur Einrichtung des Europäischen
     Stabilitätsmechanismus, der Leitlinien für Anleiheoperationen nach
     Artikel 21 Absatz 2 des Vertrags zur Einrichtung des Europäischen

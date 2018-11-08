@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1394
 
+Zuletzt geändert durch
+:   Art. 89 G v. 29.3.2017 I 626
+
 
 
 ## Eingangsformel
@@ -33,97 +36,26 @@ Soldatengleichstellungsgesetzes vom 27. Dezember 2004 (BGBl. I S.
 
 Der Bestellung der Gleichstellungsbeauftragten und ihrer
 Stellvertreterin aus dem Kreis der Soldatinnen geht regelmäßig die
-Durchführung einer Wahl voraus. Die Wahl für die beiden Ämter findet
-in einem gemeinsamen Wahlverfahren in getrennten Wahlgängen statt. Sie
-hat den Grundsätzen der allgemeinen, unmittelbaren, freien, gleichen
-und geheimen Wahl nach Maßgabe der folgenden Vorschriften zu
-entsprechen.
+Durchführung einer Wahl voraus. Die Wahl für die Ämter findet in einem
+gemeinsamen Wahlverfahren in getrennten Wahlgängen statt. Sie hat den
+Grundsätzen der allgemeinen, unmittelbaren, freien, gleichen und
+geheimen Wahl nach Maßgabe der folgenden Vorschriften zu entsprechen.
 
 
-### § 2 Zuordnung der Gleichstellungsbeauftragten und ihrer Stellvertreterin
-
-Gleichstellungsbeauftragte und ihre Stellvertreterinnen sind
-zuzuordnen
-
-1.  nach § 16 Abs. 1 des Soldatinnen- und Soldatengleichstellungsgesetzes
-    den Divisionen sowie den Großverbänden und Dienststellen der
-    vergleichbaren militärischen Ebene; diese Großverbände und
-    Dienststellen auf Divisionsebene sind neben den Wehrbereichskommandos
-    und den Sanitätskommandos das Heerestruppenkommando, das
-    Lufttransportkommando, das Luftwaffenausbildungskommando, das
-    Luftwaffenmaterialkommando und das Amt für den Militärischen
-    Abschirmdienst,
-
-
-2.  nach § 16 Abs. 2 des Soldatinnen- und Soldatengleichstellungsgesetzes
-    den den Dienststellen nach Nummer 1 übergeordneten Führungskommandos
-    und Ämtern der Organisationsbereiche sowie den anderen, dem
-    Bundesministerium der Verteidigung unmittelbar nachgeordneten
-    Dienststellen der vergleichbaren militärischen Ebene; dies sind das
-    Einsatzführungskommando der Bundeswehr, das Heeresführungskommando,
-    das Luftwaffenführungskommando, das Flottenkommando, das
-    Sanitätsführungskommando, das Heeresamt, das Luftwaffenamt, das
-    Marineamt, das Sanitätsamt der Bundeswehr, das
-    Streitkräfteunterstützungskommando und das Streitkräfteamt,
-
-
-3.  nach § 16 Abs. 3 Satz 1 des Soldatinnen- und
-    Soldatengleichstellungsgesetzes den zentralen personalbearbeitenden
-    Dienststellen einschließlich des Bundesministeriums der Verteidigung.
-
-
+### § 2 (weggefallen)
 
 
 
 ### § 3 Wahlberechtigung
 
-(1) Wahlberechtigt sind
+(1) Stichtag für die Wahlberechtigung ist der Wahltag.
 
-1.  für die in § 2 Nr. 1 genannten Dienststellen alle Soldatinnen in den
-    zugehörenden Dienststellen (§ 16 Abs. 1 Satz 2 und 3 des Soldatinnen-
-    und Soldatengleichstellungsgesetzes),
-
-
-2.  für die in § 2 Nr. 2 genannten Dienststellen alle Soldatinnen dieser
-    Dienststellen sowie der diesen nachgeordneten Dienststellen, sofern
-    sie nicht bereits nach Nummer 1 wahlberechtigt sind (§ 16 Abs. 2 Satz
-    2 des Soldatinnen- und Soldatengleichstellungsgesetzes),
-
-
-3.  für die zentralen personalbearbeitenden Dienststellen die Soldatinnen,
-    die der jeweiligen zentralen personalbearbeitenden Dienststelle
-    einschließlich der zugehörenden Dienststellen angehören, sowie alle
-    Soldatinnen, für die in der jeweiligen zentralen personalbearbeitenden
-    Dienststelle Personalentscheidungen getroffen werden (§ 16 Abs. 3 Satz
-    2 des Soldatinnen- und Soldatengleichstellungsgesetzes),
-
-
-4.  für das Bundesministerium der Verteidigung die Soldatinnen, die diesem
-    angehören, sowie alle Soldatinnen, für die im Bundesministerium der
-    Verteidigung Personalentscheidungen getroffen werden (§ 16 Abs. 3 Satz
-    3 des Soldatinnen- und Soldatengleichstellungsgesetzes).
-
-
-
-Soldatinnen, die keiner in § 2 genannten Dienststelle angehören, sind
-bei der nächsten übergeordneten Dienststelle wahlberechtigt, der nach
-§ 2 eine Gleichstellungsbeauftragte und ihre Stellvertreterin
-zuzuordnen sind. Wahlberechtigt sind auch teilzeitbeschäftigte und
-minderjährige Soldatinnen. Beurlaubte Soldatinnen sind bei ihrem
-Stammtruppenteil, zu einer anderen Dienststelle kommandierte
-Soldatinnen sind bei ihrer abgebenden Dienststelle wahlberechtigt.
-
-(2) Stichtag für die Wahlberechtigung ist der Wahltag.
-
-(3) Voraussetzung für die Teilnahme an der Wahl ist die Eintragung in
+(2) Voraussetzung für die Teilnahme an der Wahl ist die Eintragung in
 die Wählerinnenliste nach § 8.
 
 
-### § 4 Wählbarkeit
+### § 4 (weggefallen)
 
-Wählbar für das Amt der Gleichstellungsbeauftragten und der
-Stellvertreterin sind die nach § 3 Abs. 1 jeweils wahlberechtigten
-Soldatinnen.
 
 
 ### § 5 Fristen
@@ -193,14 +125,14 @@ rechtlicher und tatsächlicher Zweifelsfragen.
 
 ### § 8 Wählerinnenliste
 
-(1) Die Dienststelle, der nach § 16 Abs. 1 bis 3 des Soldatinnen- und
-Soldatengleichstellungsgesetzes eine Gleichstellungsbeauftragte und
-ihre Stellvertreterin zugeordnet sind, erstellt eine Namensliste für
-den gesamten Wahlbereich und stellt sie dem Wahlvorstand zur
-Verfügung. Die Namensliste enthält jeweils den Dienstgrad, den
-Familiennamen, den oder die Vornamen und die Dienststelle der nach § 3
-Abs. 1 wahlberechtigten Soldatinnen. Über bis zum Wahltag eintretende
-Veränderungen hat die Dienststelle den Wahlvorstand zu informieren.
+(1) Dienststellen, bei denen eine militärische
+Gleichstellungsbeauftragte gewählt wird, erstellen eine Namensliste
+der Soldatinnen, die zum Wahlbereich gehören, und stellen sie dem
+Wahlvorstand zur Verfügung. Die Namensliste enthält jeweils den
+Dienstgrad, den Familiennamen, den oder die Vornamen und die
+Dienststelle der Soldatinnen. Über bis zum Wahltag eintretende
+Veränderungen hat die Dienststelle den Wahlvorstand unverzüglich zu
+informieren.
 
 (2) Der Wahlvorstand überprüft die Vollständigkeit der Namensliste und
 die Wahlberechtigung der eingetragenen Soldatinnen, stellt diese Liste
@@ -308,13 +240,14 @@ teilnehmenden Dienststellen bekannt.
 
 ### § 11 Bewerbung
 
-(1) Jede Soldatin, die nach § 4 wählbar ist, kann sich für das Amt der
+(1) Jede Soldatin, die nach den §§ 16a bis 16c des Soldatinnen- und
+Soldatengleichstellungsgesetzes wählbar ist, kann sich für das Amt der
 Gleichstellungsbeauftragten oder der Stellvertreterin bewerben.
 
-(2) Die Bewerbung muss schriftlich unter Angabe von Dienstgrad,
-Familiennamen, Vornamen sowie Dienststelle und Dienstort erfolgen und
-dem Wahlvorstand innerhalb von zwei Wochen nach Erlass des
-Wahlausschreibens zugehen. Aus der Bewerbung muss sich eindeutig
+(2) Die Bewerbung muss schriftlich oder elektronisch unter Angabe von
+Dienstgrad, Familiennamen, Vornamen sowie Dienststelle und Dienstort
+erfolgen und dem Wahlvorstand innerhalb von zwei Wochen nach Erlass
+des Wahlausschreibens zugehen. Aus der Bewerbung muss sich eindeutig
 ergeben, ob sich die Soldatin für das Amt der
 Gleichstellungsbeauftragten oder für das Amt der Stellvertreterin
 bewirbt.
@@ -573,11 +506,9 @@ Anlass geben, sind mit fortlaufender Nummer zu versehen und von den
 übrigen Stimmzetteln gesondert bei den Wahlunterlagen aufzubewahren.
 Anschließend stellt der Wahlvorstand das Ergebnis fest.
 
-(2) Als Gleichstellungsbeauftragte ist gewählt, wer die meisten
-Stimmen erhalten hat. Bei Stimmengleichheit entscheidet das Los. Im
-Fall des § 15 Abs. 3 Satz 2 ist die Bewerberin gewählt, wenn sie mehr
-Ja- als Nein-Stimmen erhalten hat. Entsprechendes gilt für die Wahl
-der Stellvertreterin.
+(2) Gewählt ist, wer die meisten Stimmen erhalten hat. Bei
+Stimmengleichheit entscheidet das Los. Entsprechendes gilt für die
+Wahl der Stellvertreterin.
 
 (3) Der Wahlvorstand fertigt über das Ergebnis eine Niederschrift an,
 die von den Mitgliedern des Wahlvorstandes zu unterzeichnen ist. Die
@@ -604,7 +535,7 @@ Niederschrift muss getrennt nach den Wahlgängen enthalten
 
 (4) Der Wahlvorstand gibt das festgestellte Wahlergebnis durch Aushang
 in gleicher Weise wie das Wahlausschreiben bekannt und weist auf die
-Anfechtungsfrist nach § 16 Abs. 10 Satz 1 des Soldatinnen- und
+Anfechtungsfrist nach § 16f des Soldatinnen- und
 Soldatengleichstellungsgesetzes hin.
 
 
@@ -623,8 +554,7 @@ nächsthöchsten Stimmenzahl.
 
 (2) Ist die gewählte Soldatin Mitglied in einer Personalvertretung,
 Vertrauensperson oder in ihrem Arbeitsgebiet mit
-Personalangelegenheiten befasst (§ 16 Abs. 8 des Soldatinnen- und
-Soldatengleichstellungsgesetzes), hat sie die Wahl abweichend von
+Personalangelegenheiten befasst, hat sie die Wahl abweichend von
 Absatz 1 Satz 3 durch ausdrückliche Erklärung gegenüber dem
 Wahlvorstand innerhalb der Frist des Absatzes 1 Satz 3 anzunehmen. Die
 Erklärung über die Annahme der Wahl ist nur wirksam, wenn die gewählte
@@ -640,7 +570,7 @@ tritt an ihre Stelle die Soldatin mit der nächsthöchsten Stimmenzahl.
 
 (3) Das Amt des Wahlvorstandes endet mit der Bestellung der gewählten
 Gleichstellungsbeauftragten und ihrer Stellvertreterin. Ist zu diesem
-Zeitpunkt die Frist des § 16 Abs. 10 Satz 1 des Soldatinnen- und
+Zeitpunkt die Frist des § 16f des Soldatinnen- und
 Soldatengleichstellungsgesetzes noch nicht abgelaufen, endet die
 Amtszeit des Wahlvorstandes mit dem Ablauf dieser Frist, es sei denn,
 die Wahl wird fristgerecht angefochten. In diesem Fall endet das Amt
@@ -659,18 +589,17 @@ bekannt und teilt sie der Dienststelle mit.
 Amt der Gleichstellungsbeauftragten oder der Stellvertreterin keine
 weitere Bewerberin, teilt der Wahlvorstand der Dienststelle
 unverzüglich schriftlich mit, dass die Gleichstellungsbeauftragte oder
-die Stellvertreterin von der Dienststelle nach § 16 Abs. 5 Satz 2 oder
-Abs. 7 Satz 2 des Soldatinnen- und Soldatengleichstellungsgesetzes von
-Amts wegen zu bestellen ist, und gibt dies durch Aushang bekannt.
+die Stellvertreterin von der Dienststelle von Amts wegen zu bestellen
+ist, und gibt dies durch Aushang bekannt.
 
 
 ### § 23 Aufbewahrung der Wahlunterlagen
 
 Die Dienststelle bewahrt die Wahlunterlagen, insbesondere die
 Niederschriften, Bekanntmachungen und Stimmzettel, bis zum Ablauf der
-Wahlanfechtungsfrist (§ 16 Abs. 10 Satz 1 und Abs. 11 des Soldatinnen-
-und Soldatengleichstellungsgesetzes), im Fall der Wahlanfechtung bis
-zum bestands- oder rechtskräftigen Abschluss des Anfechtungsverfahrens
+Wahlanfechtungsfrist (§ 16f Absatz 2 des Soldatinnen- und
+Soldatengleichstellungsgesetzes), im Fall der Wahlanfechtung bis zum
+bestands- oder rechtskräftigen Abschluss des Anfechtungsverfahrens
 auf. Stimmzettel und Wählerinnenlisten sind nach Ablauf der in Satz 1
 genannten Fristen unverzüglich zu vernichten.
 
@@ -679,28 +608,18 @@ genannten Fristen unverzüglich zu vernichten.
 
 
 
-### § 24 Übergangsregelungen für die erstmalige Wahl
-
-Bei der erstmaligen Bestellung der Gleichstellungsbeauftragten und
-ihrer Stellvertreterin muss die Wahl innerhalb von sechs Monaten nach
-Inkrafttreten dieser Verordnung abgeschlossen sein. Soweit auf Grund
-struktureller Veränderungen der Streitkräfte Dienststellen, denen nach
-§ 16 Abs. 1 bis 3 des Soldatinnen- und Soldatengleichstellungsgesetzes
-Gleichstellungsbeauftragte zuzuordnen sind, bis zum 31. Dezember 2005
-aufgelöst werden, ist für diese Dienststellen keine
-Gleichstellungsbeauftragte zu wählen. Die Bestellung einer
-Gleichstellungsvertrauensfrau für diese Dienststellen nach § 16 Abs. 6
-des Soldatinnen- und Soldatengleichstellungsgesetzes bleibt unberührt.
+### § 24 (weggefallen)
 
 
-### § 25 Sonderregelungen für den Militärischen Abschirmdienst
 
-Für den Militärischen Abschirmdienst gilt diese Wahlverordnung mit der
+### § 25 Sonderregelungen für die Nachrichtendienste
+
+Für die Nachrichtendienste gilt diese Wahlverordnung mit der
 Einschränkung, dass bei der Erstellung der Wahlunterlagen die dort
 geltenden Sicherheitsbestimmungen zu beachten sind. Die
-Bekanntmachungen sind den Soldatinnen in der im Militärischen
-Abschirmdienst üblichen Weise während der Dienststunden zugänglich zu
-machen.
+Bekanntmachungen sind den Soldatinnen in der in den
+Nachrichtendiensten üblichen Weise während der Dienststunden
+zugänglich zu machen.
 
 
 ### § 26 Inkrafttreten

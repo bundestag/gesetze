@@ -156,8 +156,10 @@ gemäß den dafür geltenden Bedingungen erstatten.
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
+Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der
+Bargeldprüfungsverordnung
 
-## Anlage 1 Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung – Stammdaten –
+## Anlage 1 – Stammdaten –
 
 (Fundstelle: BGBl. I 2012, 2707 - 2709)
 
@@ -224,7 +226,8 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
     *                   andere Institute, einschließlich Zahlungsinstitute
     (sofern nicht bereits einer anderen Gruppe zugeordnet)
 
-    **Auslagerungsunternehmen (sofern relevant):**
+    Auslagerungsunternehmen (sofern relevant):
+    ****
 
     *        *   Name
 
@@ -256,7 +259,7 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
     *        *   Art der Meldung
             Inbetriebnahme (I),
             Außerbetriebnahme (A)
-            Bestandsmeldung (B)
+            Bestands­meldung (B)
 
         *   Datum
             gültig ab
@@ -265,7 +268,9 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
    Maschinentyp
             CIM, CRM, CCM, COM
 
-        *   Identifikationsnummer der EZB
+        *   Identi-
+            fikations-
+            nummer der EZB
 
         *   Eingesetzter Systemtyp
             (Hersteller; Maschinenname und Hardware-/Software-Version) gemäß
@@ -311,7 +316,9 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
    Maschinentyp
             BPM, BAM, AKT, R-AKT
 
-        *   Identifikationsnummer der EZB
+        *   Identi-
+            fikations-
+            nummer der EZB
 
         *   Eingesetzter Systemtyp
             (Hersteller; Maschinenname und Hardware-/Software-Version) gemäß
@@ -359,7 +366,9 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
    Maschinentyp
             BPM
 
-        *   Identifikationsnummer der EZB
+        *   Identi-
+            fikations-
+            nummer der EZB
 
         *   Eingesetzter Systemtyp
             (Hersteller; Maschinenname und Hardware-/Software-Version) gemäß
@@ -373,8 +382,7 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
             (Filiale/Cash Center) der eingesetzten Systeme
 
         *   Anzahl
-            der eingesetzten Systeme
-            pro Filiale/Cash Center
+            der eingesetzten Systeme pro Filiale/Cash Center
 
 
     *        *
@@ -436,8 +444,10 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
     beschäftigtenbedienten Systeme sind zu melden.
 [^f779398_03_BJNR270500012BJNE000600000]:     BPM (Banknote processing machine) – Banknotenbearbeitungsgerät.
 [^f779398_04_BJNR270500012BJNE000600000]: 
+Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der
+Bargeldprüfungsverordnung
 
-## Anlage 2 Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung – Operationale Daten –
+## Anlage 2 – Operationale Daten –
 
 (Fundstelle: BGBl. I 2012, 2710)
 
@@ -582,10 +592,13 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 
 
+   Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der
+Bargeldprüfungsverordnung
+– Operationale Daten –
 
-## Anlage 3 Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung – Operationale Daten – Auslagerung
+## Anlage 3 Auslagerung
 
-   (Fundstelle: BGBl. I 2012, 2711)
+(Fundstelle: BGBl. I 2012, 2711)
 
 
 *    *   Name des Meldepflichtigen (Bargeldakteur)

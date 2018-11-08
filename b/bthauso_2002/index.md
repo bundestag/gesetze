@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3483
 
-Geändert durch
-:   Bek. v. 25.11.2004 I 3386
+Zuletzt geändert durch
+:   Bek. v. 30.3.2017 I 1290
 
 
 ## Eingangsformel
@@ -63,9 +63,7 @@ des Deutschen Bundestages haben
 
 
 3.  bei berechtigtem Anlass Inhaber eines nach den Absätzen 3 bis 6 vom
-    Deutschen Bundestag ausgegebenen Bundestagsausweises. Als
-    Bundestagsausweis gelten auch der Tagesausweis, die Einlasskarte sowie
-    der Bundestagspresseausweis.
+    Deutschen Bundestag ausgegebenen Ausweises.
 
 
 
@@ -90,14 +88,16 @@ des Deutschen Bundestages haben
 3.  auf Grund ihres Beschäftigungsverhältnisses
 
     a)  die Bediensteten der Verwaltung des Deutschen Bundestages und des
-        Bundesrates,
+        Bundesrates, wenn diesen kein elektronischer Dienstausweis ausgestellt
+        wurde,
 
 
     b)  die Mitarbeiterinnen und Mitarbeiter der Fraktionen,
 
 
-    c)  die Mitarbeiterinnen und Mitarbeiter der Mitglieder des Deutschen
-        Bundestages,
+    c)  die mit einem Arbeitsvertrag oder als Praktikantin oder Praktikant
+        beschäftigten Mitarbeiterinnen und Mitarbeiter der Mitglieder des
+        Deutschen Bundestages,
 
 
     d)  die in den Büros im Deutschen Bundestag beschäftigten Mitarbeiterinnen
@@ -105,27 +105,32 @@ des Deutschen Bundestages haben
 
 
     e)  die Mitarbeiterinnen und Mitarbeiter der Interparlamentarischen
-        Arbeitsgemeinschaft.
+        Arbeitsgemeinschaft,
 
 
 
 
 
+4.  die Mitglieder der G 10-Kommission,
 
 
-(3) Einen Bundestagsausweis können erhalten
+5.  der Ständige Bevollmächtigte des Parlamentarischen Kontrollgremiums.
+
+
+
+
+(3) Einen Bundestagsausweis können ferner erhalten
 
 1.  Inhaber eines
 
     a)  Dienstausweises einer obersten Bundes- oder Landesbehörde,
 
 
-    b)  Diplomatenpasses,
+    b)  Protokollausweises (Kennzeichnung „D“) des Auswärtigen Amtes,
 
 
     c)  Dienstausweises des Sekretariats des Europäischen Parlaments oder der
         EU-Kommission,
-
 
 
 
@@ -134,30 +139,25 @@ des Deutschen Bundestages haben
 
 2.  Mitarbeiterinnen und Mitarbeiter der Medien in Form eines
     Bundestagspresseausweises (Tages- oder Jahresakkreditierung durch das
-    Pressezentrum des Deutschen Bundestages oder
-    Wahlperiodenakkreditierung durch das Presse- und Informationsamt der
-    Bundesregierung in Kooperation mit dem Pressezentrum des Deutschen
-    Bundestages).
+    Pressezentrum des Deutschen Bundestages).
 
 
 
-Für gelegentliche Besuche wird gegen Hinterlegung eines
-Lichtbildausweises (z. B. Pass, Personalausweis) jeweils an der Pforte
-ein Bundestagsausweis in Form eines Tagesausweises zum Zutritt am
+Für gelegentliche Besuche wird gegen Hinterlegung eines amtlichen
+Ausweises jeweils an der Pforte ein Tagesausweis zum Zutritt am
 jeweiligen Tage ausgegeben. Medienvertreter erhalten solche
 Tagesausweise vom Pressereferat.
 
-(4) Andere Personen (z. B. Verbandsvertreter, Handwerker, Lieferanten)
-können für einen nicht nur gelegentlich erforderlichen Zutritt aus
-berechtigtem Anlass einen Bundestagsausweis mit einer Gültigkeitsdauer
-bis maximal zum Ende des laufenden Kalenderjahres im Rahmen der
-geltenden Vorschriften erhalten. Für gelegentliche Besuche wird gegen
-Hinterlegung eines Lichtbildausweises (z. B. Pass, Personalausweis)
-jeweils an der Pforte ein Bundestagsausweis in Form eines
-Tagesausweises zum Zutritt am jeweiligen Tage ausgegeben.
+(4) Andere Personen können für einen nicht nur gelegentlich
+erforderlichen Zutritt aus berechtigtem Anlass einen Bundestagsausweis
+mit einer Gültigkeitsdauer grundsätzlich bis maximal zum Ende des
+laufenden Kalenderjahres im Rahmen der geltenden Vorschriften
+erhalten. Für gelegentliche Besuche wird gegen Hinterlegung eines
+amtlichen Ausweises jeweils an der Pforte ein Tagesausweis zum Zutritt
+am jeweiligen Tage ausgegeben.
 
-(5) Tagesausweise gegen Hinterlegung eines Lichtbildausweises erhalten
-auch
+(5) Tagesausweise gegen Hinterlegung eines amtlichen Ausweises
+erhalten auch
 
 1.  auf Grund ihres Ehemaligenausweises ehemalige deutsche Mitglieder des
     Europäischen Parlaments,
@@ -167,7 +167,7 @@ auch
     Länderparlamente,
 
 
-3.  auf Grund ihres Beschäftigungsnachweises die nicht in den Büros im
+3.  auf Grund ihres Beschäftigungsnachweises die nicht in den Büros beim
     Deutschen Bundestag beschäftigten Mitarbeiterinnen und Mitarbeiter der
     deutschen Mitglieder des Europäischen Parlaments.
 
@@ -179,12 +179,35 @@ auch
 1.  einer Einlasskarte,
 
 
-2.  eines Tagesausweises, der beim Pfortendienst gegen Hinterlegung des
-    Personalausweises oder Passes ausgegeben wird und zu einem einmaligen
+2.  eines Tagesausweises, der beim Pfortendienst gegen Hinterlegung eines
+    amtlichen Ausweises ausgegeben wird und zu einem einmaligen
     befristeten Zutritt berechtigt.
 
 
 
+
+(6a) Die Ausstellung eines Bundestagsausweises erfolgt auf Antrag. Der
+Antrag kann abgelehnt werden, wenn begründete Zweifel an der
+Zuverlässigkeit der antragstellenden Person bestehen. Bei
+antragstellenden Personen im Sinne des Absatzes 2 Nr. 3, des Absatzes
+3 Satz 1 Nr. 1 Buchstabe c) und Nr. 2 (Jahresakkreditierungen) sowie
+des Absatzes 4 Satz 1 wird eine Zuverlässigkeitsüberprüfung
+durchgeführt. Die Zuverlässigkeitsüberprüfung erfolgt mit Einwilligung
+der Betroffenen insbesondere durch Einsichtnahme in das
+Vorgangsbearbeitungssystem der Polizei beim Deutschen Bundestag, in
+das Informationssystem der Polizei und in das Bundeszentralregister.
+
+(6b) Ein Bundestagsausweis kann eingezogen werden, wenn begründete
+Zweifel an der Zuverlässigkeit der Inhaberin oder des Inhabers
+bestehen.
+
+(6c) Bei Personen, die auf Grundlage des Absatzes 3 Satz 1 Nr. 2
+(Tagesakkreditierung), des Absatzes 5 und des Absatzes 6 aus
+berechtigtem Anlass Zutritt erhalten, wird zuvor eine
+Zuverlässigkeitsüberprüfung durchgeführt. Die
+Zuverlässigkeitsüberprüfung erfolgt insbesondere durch Einsichtnahme
+in das Vorgangsbearbeitungssystem der Polizei beim Deutschen Bundestag
+sowie in das Informationssystem der Polizei.
 
 (7) Die Gültigkeitsdauer ist auf dem Ausweis deutlich sichtbar
 vermerkt.
@@ -193,23 +216,21 @@ vermerkt.
     laufenden Kalenderjahres.
 
 
-2.  Die Ausweise gemäß Absatz 2 Nr. 1 Buchstabe a gelten für die Dauer des
-    Mandats, die Ausweise gemäß Absatz 2 Nr. 3 Buchstabe b bis d gelten
-    für die Dauer des Beschäftigungsverhältnisses, längstens jedoch bis
-    zum Ende der Wahlperiode des Deutschen Bundestages beziehungsweise des
-    Europäischen Parlaments.
+2.  Die Ausweise gemäß Absatz 2 Nr. 1 Buchstabe a) gelten für die Dauer
+    des Mandats, die Ausweise gemäß Absatz 2 Nr. 3 Buchstaben b) bis d)
+    gelten für die Dauer des Beschäftigungsverhältnisses, längstens jedoch
+    bis zum Ende der Wahlperiode des Deutschen Bundestages beziehungsweise
+    des Europäischen Parlamentes.
 
 
-3.  Die Ausweise gemäß Absatz 2 Nr. 3 Buchstabe a gelten in der Regel für
+3.  Die Ausweise gemäß Absatz 2 Nr. 3 Buchstabe a) gelten in der Regel für
     die Dauer des Beschäftigungsverhältnisses, längstens bis zum Ende der
     Gültigkeit des Dienstausweises.
 
 
-4.  Die Ausweise nach Absatz 3 Nr. 2 werden mit einer Gültigkeit als
-    Tages- oder Jahresausweise beziehungsweise mit kurzer Befristung
-    ausgegeben. Die in Kooperation vom Presse- und Informationsamt der
-    Bundesregierung ausgegebenen Ausweise gelten längstens bis zum Ende
-    der jeweils laufenden Wahlperiode des Deutschen Bundestages.
+4.  Die Ausweise nach Absatz 3 Satz 1 Nr. 2 werden mit einer Gültigkeit
+    als Tages- oder Jahresausweise beziehungsweise mit kurzer Befristung
+    ausgegeben.
 
 
 5.  Die Ausweise verlieren ihre Gültigkeit mit dem Tag, an dem der
@@ -224,12 +245,11 @@ Deutschen Bundestages grundsätzlich für jeden erkennbar offen zu
 tragen.
 
 (9) Auf Verlangen der für Ordnungs- und Sicherheitsaufgaben
-zuständigen Mitarbeiterinnen und Mitarbeiter haben alle Inhaber eines
-Bundestagsausweises, die sich in den Gebäuden des Deutschen
-Bundestages aufhalten, die Zutrittsberechtigung nachzuweisen und,
-soweit sich ihre Zutrittsberechtigung aus Absatz 1 Nr. 2 in Verbindung
-mit den Absätzen 3 bis 7 ergibt, den Zweck ihres Aufenthaltes
-anzugeben.
+zuständigen Mitarbeiterinnen und Mitarbeiter haben alle Inhaberinnen
+und Inhaber eines Bundestagsausweises, die sich in den Gebäuden des
+Deutschen Bundestages aufhalten, die Zutrittsberechtigung nachzuweisen
+und, soweit sich ihre Zutrittsberechtigung nicht aus Absatz 1 Nr. 1
+ergibt, den Zweck ihres Aufenthaltes anzugeben.
 
 (10) Besuchergruppen erhalten Zutritt nur in Begleitung eines
 Mitgliedes des Deutschen Bundestages beziehungsweise seines
@@ -241,8 +261,8 @@ bleiben unberührt.
 (11) Für Teilbereiche können für die Öffentlichkeit erweiterte
 Zutrittsmöglichkeiten eingeräumt werden.
 
-(12) Personen, die die geforderten Sicherheitsmaßnahmen ablehnen,
-haben keinen Zutritt.
+(12) Personen, die die geforderten Zuverlässigkeitsüberprüfungen oder
+Sicherheitsmaßnahmen ablehnen, haben keinen Zutritt.
 
 
 ## § 3 Plenarsaal
@@ -281,8 +301,8 @@ und Gäste des Deutschen Bundestages), stehen sie in erster Linie
 diesen Personen bzw. den Angehörigen dieser Gruppen zur Verfügung.
 Darüber hinaus erhalten bevorzugt Zutritt
 
-a)  Mitglieder und ehemalige Mitglieder des Bundestages, des Europäischen
-    Parlaments und der Länderparlamente,
+a)  Mitglieder und ehemalige Mitglieder des Deutschen Bundestages, des
+    Europäischen Parlaments und der Länderparlamente,
 
 
 b)  Inhaber einer Einlasskarte, die von den Fraktionen oder dem
@@ -327,10 +347,10 @@ Aufstellung genehmigt wurde, sowie für den durch die zuständigen
 Stellen in Auftrag gegebenen Vertrieb aus Anlass internationaler
 Konferenzen.
 
-(4) Das Mitbringen von Tieren - ausgenommen Blindenführhunde - ist
+(4) Das Mitbringen von Tieren – ausgenommen Blindenführhunde – ist
 nicht gestattet.
 
-(5) Im unterirdischen Erschließungssystem, in den Parkdecks und auf
+(5) Im Unterirdischen Erschließungssystem, in den Parkdecks und auf
 den sonstigen Verkehrsflächen finden die Bestimmungen der
 Straßenverkehrsordnung (StVO) entsprechende Anwendung. Ge- und
 Verbotsschilder sind zu beachten. Parken ist nur im Rahmen der
@@ -389,7 +409,7 @@ bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes
 ausgeübt werden.
 
 (3) Wer den Bestimmungen dieser Hausordnung zuwiderhandelt, kann aus
-den Gebäuden des Deutschen Bundestages verwiesen werden.
+den Gebäuden des Bundestages verwiesen werden.
 
 (4) Der Präsident des Deutschen Bundestages kann bei einem Verstoß
 gegen diese Hausordnung ein Hausverbot verhängen.
@@ -397,16 +417,15 @@ gegen diese Hausordnung ein Hausverbot verhängen.
 
 ## § 8 Besondere Veranstaltungen, Pachtbetriebe
 
-(1) Über die Überlassung von Räumen des Deutschen Bundestages für
+(1) Über die Überlassung von Räumen des Bundestages für
 Veranstaltungen von Behörden, Organisationen oder anderen Stellen
 entscheidet der Präsident des Deutschen Bundestages. Das Verfahren bei
 der Vergabe und Nutzung von Räumen der Fraktionen bleibt unberührt.
 
-(2) Werden Räume in den Gebäuden des Deutschen Bundestages für
-Veranstaltungen überlassen, kann der Deutsche Bundestag vom
-Veranstalter verlangen, dass hierzu nur Besucher zugelassen werden,
-die sich im Besitz einer von den Veranstaltern ausgestellten
-Eintrittskarte befinden.
+(2) Werden Räume in den Gebäuden des Bundestages für Veranstaltungen
+überlassen, kann der Deutsche Bundestag vom Veranstalter verlangen,
+dass hierzu nur Besucher zugelassen werden, die sich im Besitz einer
+von den Veranstaltern ausgestellten Eintrittskarte befinden.
 
 (3) Bei Veranstaltungen nach Absatz 1 gilt die Hausordnung sinngemäß.
 Das Gleiche gilt für Sonderveranstaltungen des Deutschen Bundestages.
@@ -436,12 +455,16 @@ Hausrechts ergänzende Regelungen erlassen.
 
 ## Anhang zur Hausordnung
 
-Fundstelle des Originaltextes: BGBl. I 2002, 3486
-
-*    *   § 112 des Gesetzes über Ordnungswidrigkeiten (OWiG)
+(Fundstelle: BGBl. I 2017, 1293)
 
 
-*    *   "§ 112 Verletzung der Hausordnung eines Gesetzgebungsorgans
+*    *   **§ 112 des Gesetzes über Ordnungswidrigkeiten (OWiG)**
+
+
+*    *   "§ 112
+
+
+*    *   Verletzung der Hausordnung eines Gesetzgebungsorgans
 
 
 
@@ -464,10 +487,13 @@ Mitglieder der Gesetzgebungsorgane dieses Landes noch für die
 Mitglieder der Landesregierung und deren Beauftragte."
 
 
-*    *   § 106b des Strafgesetzbuches (StGB)
+*    *   **§ 106b des Strafgesetzbuches (StGB)**
 
 
-*    *   "§ 106b Störung der Tätigkeit eines Gesetzgebungsorgans
+*    *   "§ 106b
+
+
+*    *   Störung der Tätigkeit eines Gesetzgebungsorgans
 
 
 

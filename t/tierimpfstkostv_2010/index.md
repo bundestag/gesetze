@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1637
 
-Geändert durch
-:   Art. 2 V v. 29.9.2011 I 1976
+V aufgeh. durch
+:   Art. 4 Abs. 86 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 V v. 24.9.2014 I 1558
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 89 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -36,17 +42,17 @@ Wirtschaft und Technologie:
 Das Friedrich-Loeffler-Institut, Bundesforschungsinstitut für
 Tiergesundheit, und das Paul-Ehrlich-Institut, Bundesinstitut für
 Impfstoffe und biomedizinische Arzneimittel, erheben nach dieser
-Verordnung Kosten (Gebühren und Auslagen) für
+Verordnung Gebühren und Auslagen für
 
-1.  die Entscheidung über die Zulassung der in § 5 Absatz 1 des
-    Tierseuchengesetzes genannten Mittel,
+1.  die Entscheidung über die Zulassung der in § 42 Absatz 1 Nummer 1
+    Buchstabe a des Tiergesundheitsgesetzes genannten Mittel,
 
 
 2.  die Entscheidung über die Freigabe von Chargen der Mittel nach Nummer
     1,
 
 
-3.  andere Prüfungen und Untersuchungen nach dem Tierseuchengesetz.
+3.  andere Prüfungen und Untersuchungen nach dem Tiergesundheitsgesetz.
 
 
 
@@ -60,8 +66,8 @@ sich aus dem Gebührenverzeichnis der Anlage.
 
 ## § 3 Ermäßigung und Befreiung
 
-(1) Die Gebühren für eine Amtshandlung nach der Anlage können auf
-Antrag des Kostenschuldners
+(1) Die Gebühren für eine individuell zurechenbare öffentliche
+Leistung nach der Anlage können auf Antrag des Gebührenschuldners
 
 1.  bis auf ein Viertel des vorgesehenen Satzes oder Mindestsatzes
     ermäßigt werden, soweit
@@ -78,12 +84,11 @@ Antrag des Kostenschuldners
 
 
 
-    oder
 
 
 2.  bis auf die Hälfte des vorgesehenen Satzes oder Mindestsatzes ermäßigt
     werden, soweit die Bedeutung, der wirtschaftliche Wert und der
-    sonstige Nutzen der Amtshandlung für den Kostenschuldner dies
+    sonstige Nutzen der Leistung für den Gebührenschuldner dies
     rechtfertigen.
 
 
@@ -93,20 +98,21 @@ Antrag des Kostenschuldners
 den Fällen des Absatzes 1 Nummer 1 Buchstabe a der zu erwartende
 wirtschaftliche Wert oder sonstige Nutzen besonders gering ist.
 
-(3) Betragen die für eine Amtshandlung voraussichtlich zu erhebenden
-Kosten insgesamt nicht mehr als 30 Euro, so kann aus Gründen der
-Wirtschaftlichkeit des Verwaltungshandelns auf die Erhebung der Kosten
-verzichtet werden.
+(3) Betragen die für eine individuell zurechenbare öffentliche
+Leistung voraussichtlich zu erhebenden Gebühren insgesamt nicht mehr
+als 30 Euro, so kann aus Gründen der Wirtschaftlichkeit des
+Verwaltungshandelns auf die Erhebung der Gebühren verzichtet werden.
 
 
-## § 4 Kosten für Amtshandlungen vor Inkrafttreten
+## § 4 Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen vor Inkrafttreten
 
 Die Vorschriften dieser Verordnung sind auch anzuwenden auf Fälle, in
-denen vor dem Inkrafttreten dieser Verordnung eine den Amtshandlungen
-nach Abschnitt 1 Nummer 3, 5.3 oder 5.4 der Anlage entsprechende
-Amtshandlung vorgenommen worden ist, soweit eine Kostenerhebung
-vorbehalten und der Antragsteller vor Abschluss der Amtshandlung über
-die voraussichtliche Gebührenhöhe informiert worden ist.
+denen vor dem Inkrafttreten dieser Verordnung eine den individuell
+zurechenbaren öffentlichen Leistungen nach Abschnitt 1 Nummer 3, 5.3
+oder 5.4 der Anlage entsprechende Leistung vorgenommen worden ist,
+soweit eine Gebührenerhebung vorbehalten und der Antragsteller vor
+Abschluss der Leistung über die voraussichtliche Gebührenhöhe
+informiert worden ist.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
@@ -116,14 +122,16 @@ Gleichzeitig tritt die Tierimpfstoff-Kostenverordnung vom 15. Mai 1998
 (BGBl. I S. 941), die zuletzt durch Artikel 3 § 8 des Gesetzes vom 22.
 Juni 2004 (BGBl. I S. 1248) geändert worden ist, außer Kraft.
 
+(zu § 2)
 
-## Anlage (zu § 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2010, 1638 - 1642; bzgl. einzelner Änderungen
-vgl. Fußnote)
+(Fundstelle: BGBl. I 2010, 1638 - 1642;
+bzgl. einzelner Änderungen vgl. Fußnote)
 
 Abschnitt 1
-Gebühren für Amtshandlungen des Paul-Ehrlich-Instituts
+Gebühren für individuell zurechenbare öffentliche Leistungen
+des Paul-Ehrlich-Instituts
 ## im Hinblick auf Mittel, die zur Anwendung am Tier bestimmt sind
 
 
@@ -210,8 +218,8 @@ Gebühren für Amtshandlungen des Paul-Ehrlich-Instituts
 
 *    *   2.1
 
-    *   Referenzmitgliedstaat im Sinne des Artikels 32 Absatz 1 der Richtlinie
-[^F1_774736_BJNR163700010BJNE000701360]
+    *[^F1_774736_BJNR163700010BJNE000704301]
+   Referenzmitgliedstaat im Sinne des Artikels 32 Absatz 1 der Richtlinie
         2001/82/EG
         ist, unbeschadet der Gebühr nach Nummer 1,
 
@@ -406,7 +414,7 @@ Gebühren für Amtshandlungen des Paul-Ehrlich-Instituts
 
 *    *   5.1
 
-    *[^F2_774736_BJNR163700010BJNE000701360]
+    *[^F2_774736_BJNR163700010BJNE000704301]
    bei einer größeren Änderung im Sinne des Artikels 2 Nummer 3 der
         Verordnung (EG) Nr. 1234/2008
         – Typ II-Änderung –,
@@ -715,11 +723,11 @@ Gebühren für Amtshandlungen des Paul-Ehrlich-Instituts
 
 
 Abschnitt 2
-Gebühren für Amtshandlungen des Friedrich-Loeffler-Instituts
+Gebühren für individuell zurechenbare öffentliche Leistungen
+des Friedrich-Loeffler-Instituts
 im Hinblick auf Mittel, die nicht zur Anwendung am Tier bestimmt sind,
-sowie für die
-## Untersuchung von Tieren und Erzeugnissen von Tieren, die zur
-Einfuhr oder Ausfuhr bestimmt sind
+sowie für die Untersuchung von Tieren und
+## Erzeugnissen von Tieren, die zur Einfuhr oder Ausfuhr bestimmt sind
 
 
 *    *   Gebühren-
@@ -822,8 +830,8 @@ Einfuhr oder Ausfuhr bestimmt sind
 *    *   **4**
 
     *   **Für die Untersuchung von Tieren oder Erzeugnissen von Tieren, die
-        zur Einfuhr oder Ausfuhr bestimmt sind, nach § 4 Absatz 2 Satz 2 des
-        Tierseuchengesetzes**
+        zur Einfuhr oder Ausfuhr bestimmt sind, nach § 27 Absatz 3 Satz 1
+        Nummer 2 des Tiergesundheitsgesetzes**
 
     *
 
@@ -1113,8 +1121,8 @@ Einfuhr oder Ausfuhr bestimmt sind
     November 2001 zur Schaffung eines Gemeinschaftskodexes für
     Tierarzneimittel (ABl. L 311 vom 28.11.2001, S. 1) in der jeweils
     geltenden Fassung.
-[^F1_774736_BJNR163700010BJNE000701360]:     Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008
+[^F1_774736_BJNR163700010BJNE000704301]:     Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008
     über die Prüfung von Änderungen der Zulassungen von Human- und
     Tierarzneimitteln (ABl. L 334 vom 12.12.2008, S. 7) in der jeweils
     geltenden Fassung.
-[^F2_774736_BJNR163700010BJNE000701360]: 
+[^F2_774736_BJNR163700010BJNE000704301]: 

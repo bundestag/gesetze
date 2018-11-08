@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 28. Mai 1999 zur Vereinheitlichung besti
   Vorschriften über die Beförderung im internationalen Luftverkehr (Montrealer Übereinkommen)
 jurabk: MontrÜbkG
 layout: default
-origslug: montr_bkg
+origslug: montruebkg
 slug: montruebkg
 
 ---

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1266
 
+Änderung durch
+:   durch Art. 4 Abs. 3 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -35,7 +38,7 @@ Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 ### § 1 Anerkennung als Adoptionsvermittlungsstelle
 
 (1) Der Antrag auf Anerkennung als Adoptionsvermittlungsstelle nach §
-2 Abs. 2 des Adoptionsvermittlungsgesetzes muss insbesondere
+2 Absatz 3 des Adoptionsvermittlungsgesetzes muss insbesondere
 enthalten:
 
 1.  Satzung des Trägers,
@@ -102,8 +105,8 @@ Satz 1 und 2 des Adoptionsvermittlungsgesetzes zuständig.
 ### § 2 Zulassung als anerkannte Auslandsvermittlungsstelle
 
 (1) Der Antrag auf Zulassung als anerkannte Auslandsvermittlungsstelle
-nach § 2a Abs. 3 Nr. 3 des Adoptionsvermittlungsgesetzes muss
-zusätzlich zu den nach § 1 Abs. 1 geforderten Angaben insbesondere
+nach § 2a Absatz 4 Nummer 2 des Adoptionsvermittlungsgesetzes muss
+zusätzlich zu den nach § 1 Absatz 1 geforderten Angaben insbesondere
 enthalten:
 
 1.  Benennung des oder der Staaten, aus denen Kinder zur Adoption
@@ -138,7 +141,7 @@ enthalten:
     Adoptionsvermittlungsverfahrens, aufgegliedert nach Heimatstaaten, und
 
 
-8.  Darlegung der besonderen Eignung nach § 4 Abs. 2 Satz 3 des
+8.  Darlegung der besonderen Eignung nach § 4 Absatz 2 Satz 4 des
     Adoptionsvermittlungsgesetzes.
 
 
@@ -152,11 +155,11 @@ zu beteiligen.
 allgemeinen Strukturen der internationalen Adoptionsvermittlung im
 Heimatstaat die Gewähr für eine ordnungsgemäße Abwicklung der
 internationalen Adoptionsvermittlung bieten und andere Belange nach §
-4 Abs. 2 Satz 3 des Adoptionsvermittlungsgesetzes nicht
+4 Absatz 2 Satz 4 des Adoptionsvermittlungsgesetzes nicht
 entgegenstehen.
 
 (4) Können aufgrund des Verfahrensstandes die Unterlagen nach Absatz 1
-Nr. 3 bis 5 noch nicht vorgelegt werden, kann die Anerkennung als
+Nummer 3 bis 5 noch nicht vorgelegt werden, kann die Anerkennung als
 Auslandsvermittlungsstelle auf ein Jahr befristet mit der Auflage
 erteilt werden, innerhalb dieser Zeit die fehlenden Unterlagen
 nachzureichen. Die Frist kann in begründeten Ausnahmefällen verlängert
@@ -265,30 +268,14 @@ Führen staatliche Adoptionsvermittlungsstellen das
 Adoptionsvermittlungsverfahren durch, sind folgende Gebühren zu
 erheben:
 
-*    *   1.
-
-    *   für die Durchführung eines internationalen
-        Adoptionsvermittlungsverfahrens einschließlich der Eignungsprüfung
-        nach § 7 Abs. 3 Satz 1 des Adoptionsvermittlungsgesetzes
-
-    *   2 000 Euro,
+1.  für eine Eignungsprüfung nach § 7b Absatz 1 des
+    Adoptionsvermittlungsgesetzes 1 300 Euro,
 
 
-*    *   2.
-
-    *   für eine Eignungsprüfung nach § 7 Abs. 3 Satz 1 des
-        Adoptionsvermittlungsgesetzes
-
-    *   1 200 Euro,
-
-
-*    *   3.
-
-    *   für die Durchführung eines internationalen
-        Adoptionsvermittlungsverfahrens ohne Eignungsprüfung nach § 7 Abs. 3
-        Satz 1 des Adoptionsvermittlungsgesetzes
-
-    *   800 Euro.
+2.  für die Durchführung eines internationalen
+    Adoptionsvermittlungsverfahrens einschließlich einer
+    länderspezifischen Eignungsprüfung nach § 7c Absatz 1 des
+    Adoptionsvermittlungsgesetzes 1 200 Euro.
 
 
 

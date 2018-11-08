@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1973, 965
 
 Zuletzt geändert durch
-:   Art. 38 G v. 19.12.2008 I 2794
+:   Art. 3 G v. 16.7.2021 I 2931
 
 
 ## Abschnitt I - Steuerpflicht
@@ -39,15 +39,16 @@ den Gemeinden zustehenden Befugnisse ausübt.
 
 ### § 2 Steuergegenstand
 
-Steuergegenstand ist der Grundbesitz im Sinne des Bewertungsgesetzes:
+Steuergegenstand ist der inländische Grundbesitz im Sinne des
+Bewertungsgesetzes:
 
-1.  die Betriebe der Land- und Forstwirtschaft (§§ 33, 48a und 51a des
-    Bewertungsgesetzes). Diesen stehen die in § 99 Abs. 1 Nr. 2 des
+1.  die Betriebe der Land- und Forstwirtschaft (§§ 232 bis 234, 240 des
+    Bewertungsgesetzes); diesen stehen die in § 218 Satz 2 des
     Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich;
 
 
-2.  die Grundstücke (§§ 68, 70 des Bewertungsgesetzes). Diesen stehen die
-    in § 99 Abs. 1 Nr. 1 des Bewertungsgesetzes bezeichneten
+2.  die Grundstücke (§§ 243, 244 des Bewertungsgesetzes); diesen stehen
+    die in § 218 Satz 3 des Bewertungsgesetzes bezeichneten
     Betriebsgrundstücke gleich.
 
 
@@ -293,13 +294,9 @@ Steuer festzusetzen ist.
 ### § 10 Steuerschuldner
 
 (1) Schuldner der Grundsteuer ist derjenige, dem der Steuergegenstand
-bei der Feststellung des Einheitswerts zugerechnet ist.
+bei der Feststellung des Grundsteuerwerts zugerechnet ist.
 
-(2) Derjenige, dem ein Erbbaurecht, ein Wohnungserbbaurecht oder ein
-Teilerbbaurecht zugerechnet ist, ist auch Schuldner der Grundsteuer
-für die wirtschaftliche Einheit des belasteten Grundstücks.
-
-(3) Ist der Steuergegenstand mehreren Personen zugerechnet, so sind
+(2) Ist der Steuergegenstand mehreren Personen zugerechnet, so sind
 sie Gesamtschuldner.
 
 
@@ -327,53 +324,113 @@ Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 
 
 
-### § 13 Steuermeßzahl und Steuermeßbetrag
+### § 13 Steuermesszahl und Steuermessbetrag
 
-(1) Bei der Berechnung der Grundsteuer ist von einem Steuermeßbetrag
-auszugehen. Dieser ist durch Anwendung eines Tausendsatzes
-(Steuermeßzahl) auf den Einheitswert oder seinen steuerpflichtigen
+Bei der Berechnung der Grundsteuer ist von einem Steuermessbetrag
+auszugehen. Dieser ist durch Anwendung eines Promillesatzes
+(Steuermesszahl) auf den Grundsteuerwert oder seinen steuerpflichtigen
 Teil zu ermitteln, der nach dem Bewertungsgesetz im
-Veranlagungszeitpunkt (§ 16 Abs. 1, § 17 Abs. 3, § 18 Abs. 3) für den
-Steuergegenstand maßgebend ist.
-
-(2)
-
-(3) In den Fällen des § 10 Abs. 2 ist der Berechnung des
-Steuermeßbetrags die Summe der beiden Einheitswerte zugrunde zu legen,
-die nach § 92 des Bewertungsgesetzes festgestellt werden.
+Veranlagungszeitpunkt (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3)
+für den Steuergegenstand maßgebend ist.
 
 
 ### § 14 Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
 
-Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl 6
-vom Tausend.
+Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl
+0,55 Promille.
 
 
-### § 15 Steuermeßzahl für Grundstücke
+### § 15 Steuermesszahl für Grundstücke
 
-(1) Die Steuermeßzahl beträgt 3,5 vom Tausend.
+(1) Die Steuermesszahl beträgt
 
-(2) Abweichend von Absatz 1 beträgt die Steuermeßzahl
-
-1.  für Einfamilienhäuser im Sinne des § 75 Abs. 5 des Bewertungsgesetzes
-    mit Ausnahme des Wohnungseigentums und des Wohnungserbbaurechts
-    einschließlich des damit belasteten Grundstücks 2,6 vom Tausend für
-    die ersten 38.346,89 Euro des Einheitswerts oder seines
-    steuerpflichtigen Teils und 3,5 vom Tausend für den Rest des
-    Einheitswerts oder seines steuerpflichtigen Teils;
+1.  für unbebaute Grundstücke im Sinne des § 246 des Bewertungsgesetzes
+    0,34 Promille,
 
 
-2.  für Zweifamilienhäuser im Sinne des § 75 Abs. 6 des Bewertungsgesetzes
-    3,1 vom Tausend.
+2.  für bebaute Grundstücke
+
+    a)  im Sinne des § 249 Absatz 1 Nummer 1 bis 4 des Bewertungsgesetzes 0,31
+        Promille,
+
+
+    b)  im Sinne des § 249 Absatz 1 Nummer 5 bis 8 des Bewertungsgesetzes 0,34
+        Promille.
 
 
 
+
+
+
+
+(2) Die Steuermesszahl nach Absatz 1 Nummer 2 Buchstabe a wird um 25
+Prozent ermäßigt, wenn
+
+1.  für das Grundstück nach § 13 Absatz 3 des Wohnraumförderungsgesetzes
+    vom 13. September 2001 (BGBl. I S. 2376), das zuletzt durch Artikel 3
+    des Gesetzes vom 2. Oktober 2015 (BGBl. I S. 1610) geändert worden
+    ist, eine Förderzusage erteilt wurde und
+
+
+2.  die sich aus der Förderzusage im Sinne des § 13 Absatz 2 des
+    Wohnraumförderungsgesetzes ergebenden Bindungen für jeden
+    Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums bestehen.
+
+
+
+Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude
+oder für Teile eines Gebäudes vor, so ist die Ermäßigung der
+Steuermesszahl entsprechend anteilig zu gewähren.
+
+(3) Absatz 2 gilt entsprechend für Grundstücke, für die nach dem
+Ersten Wohnungsbaugesetz vom 24. April 1950 (BGBl. S. 83) in der bis
+zum 31. Dezember 1987 geltenden Fassung, nach dem Zweiten
+Wohnungsbaugesetz vom 27. Juni 1956 (BGBl. I S. 523) in der bis zum
+31\. Dezember 2001 geltenden Fassung oder nach den
+Wohnraumförderungsgesetzen der Länder eine Förderzusage erteilt wurde.
+
+(4) Liegen für ein Grundstück weder die Voraussetzungen des Absatzes 2
+noch des Absatzes 3 vor, wird die Steuermesszahl nach Absatz 1 Nummer
+2 Buchstabe a um 25 Prozent ermäßigt, wenn das jeweilige Grundstück
+
+1.  einer Wohnungsbaugesellschaft zugerechnet wird, deren Anteile
+    mehrheitlich von einer oder mehreren Gebietskörperschaften gehalten
+    werden und zwischen der Wohnungsbaugesellschaft und der
+    Gebietskörperschaft oder den Gebietskörperschaften ein
+    Gewinnabführungsvertrag besteht,
+
+
+2.  einer Wohnungsbaugesellschaft zugerechnet wird, die als gemeinnützig
+    im Sinne des § 52 der Abgabenordnung anerkannt ist, oder
+
+
+3.  einer Genossenschaft oder einem Verein zugerechnet wird, der seine
+    Geschäftstätigkeit auf die in § 5 Absatz 1 Nummer 10 Buchstabe a und b
+    des Körperschaftsteuergesetzes genannten Bereiche beschränkt und von
+    der Körperschaftsteuer befreit ist.
+
+
+
+Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für
+jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums
+gewährt, wenn nachgewiesen wird, dass die jeweiligen Voraussetzungen
+am Hauptveranlagungsstichtag vorlagen. Entfallen die Voraussetzungen
+des Satzes 1 während des Hauptveranlagungszeitraums, ist dies nach §
+19 Absatz 2 anzuzeigen.
+
+(5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute
+Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück
+Gebäude befinden, die Baudenkmäler im Sinne des jeweiligen
+Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein
+Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen
+Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung
+der Steuermesszahl entsprechend anteilig zu gewähren.
 
 
 ### § 16 Hauptveranlagung
 
 (1) Die Steuermeßbeträge werden auf den Hauptfeststellungszeitpunkt (§
-21 Abs. 2 des Bewertungsgesetzes) allgemein festgesetzt
+221 Absatz 2 des Bewertungsgesetzes) allgemein festgesetzt
 (Hauptveranlagung). Dieser Zeitpunkt ist der
 Hauptveranlagungszeitpunkt.
 
@@ -394,16 +451,17 @@ noch nicht abgelaufen ist.
 
 ### § 17 Neuveranlagung
 
-(1) Wird eine Wertfortschreibung (§ 22 Abs. 1 des Bewertungsgesetzes)
-oder eine Artfortschreibung oder Zurechnungsfortschreibung (§ 22 Abs.
-2 des Bewertungsgesetzes) durchgeführt, so wird der Steuermeßbetrag
-auf den Fortschreibungszeitpunkt neu festgesetzt (Neuveranlagung).
+(1) Wird eine Wertfortschreibung (§ 222 Absatz 1 des
+Bewertungsgesetzes) oder eine Artfortschreibung oder
+Zurechnungsfortschreibung (§ 222 Absatz 2 des Bewertungsgesetzes)
+durchgeführt, so wird der Steuermeßbetrag auf den
+Fortschreibungszeitpunkt neu festgesetzt (Neuveranlagung).
 
 (2) Der Steuermeßbetrag wird auch dann neu festgesetzt, wenn dem
 Finanzamt bekannt wird, daß
 
-1.  Gründe, die im Feststellungsverfahren über den Einheitswert nicht zu
-    berücksichtigen sind, zu einem anderen als dem für den letzten
+1.  Gründe, die im Feststellungsverfahren über den Grundsteuerwert nicht
+    zu berücksichtigen sind, zu einem anderen als dem für den letzten
     Veranlagungszeitpunkt festgesetzten Steuermeßbetrag führen oder
 
 
@@ -444,21 +502,21 @@ Steuermeßbeträge vorgenommen.
 
 ### § 18 Nachveranlagung
 
-(1) Wird eine Nachfeststellung (§ 23 Abs. 1 des Bewertungsgesetzes)
+(1) Wird eine Nachfeststellung (§ 223 Absatz 1 des Bewertungsgesetzes)
 durchgeführt, so wird der Steuermeßbetrag auf den
 Nachfeststellungszeitpunkt nachträglich festgesetzt (Nachveranlagung).
 
 (2) Der Steuermeßbetrag wird auch dann nachträglich festgesetzt, wenn
 der Grund für die Befreiung des Steuergegenstandes von der Grundsteuer
 wegfällt, der für die Berechnung der Grundsteuer maßgebende
-Einheitswert (§ 13 Abs. 1) aber bereits festgestellt ist.
+Grundsteuerwert (§ 13 Abs. 1) aber bereits festgestellt ist.
 
 (3) Der Nachveranlagung werden die Verhältnisse im
 Nachveranlagungszeitpunkt zugrunde gelegt. Nachveranlagungszeitpunkt
 ist
 
 1.  in den Fällen des Absatzes 1 der Beginn des Kalenderjahres, auf den
-    der Einheitswert nachträglich festgestellt wird;
+    der Grundsteuerwert nachträglich festgestellt wird;
 
 
 2.  in den Fällen des Absatzes 2 der Beginn des Kalenderjahres, der auf
@@ -477,19 +535,26 @@ Steuermeßbeträge vorgenommen.
 
 ### § 19 Anzeigepflicht
 
-Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines
-ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes
-hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in
-Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach
-Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die
-Festsetzung des Steuermeßbetrags zuständig ist.
+(1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen
+eines ganz oder teilweise von der Grundsteuer befreiten
+Steuergegenstandes hat derjenige anzuzeigen, der nach § 10 als
+Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei
+Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das
+für die Festsetzung des Steuermeßbetrags zuständig ist.
+
+(2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl
+nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als
+Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei
+Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu
+erstatten, das für die Festsetzung des Steuermessbetrags zuständig
+ist.
 
 
 ### § 20 Aufhebung des Steuermeßbetrags
 
 (1) Der Steuermeßbetrag wird aufgehoben,
 
-1.  wenn der Einheitswert aufgehoben wird oder
+1.  wenn der Grundsteuerwert aufgehoben wird oder
 
 
 2.  wenn dem Finanzamt bekannt wird, daß
@@ -509,7 +574,7 @@ Festsetzung des Steuermeßbetrags zuständig ist.
 (2) Der Steuermeßbetrag wird aufgehoben
 
 1.  in den Fällen des Absatzes 1 Nr. 1 mit Wirkung vom Aufhebungszeitpunkt
-    (§ 24 Abs. 2 des Bewertungsgesetzes) an;
+    (§ 224 Absatz 2 des Bewertungsgesetzes) an;
 
 
 2.  in den Fällen des Absatzes 1 Nr. 2 Buchstabe a mit Wirkung vom Beginn
@@ -539,55 +604,42 @@ aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die
 zu einer abweichenden Festsetzung führen.
 
 
-### § 22 Zerlegung des Steuermeßbetrags
+### § 22 Zerlegung des Steuermessbetrags
 
 (1) Erstreckt sich der Steuergegenstand über mehrere Gemeinden, so ist
-der Steuermeßbetrag vorbehaltlich des § 24 in die auf die einzelnen
-Gemeinden entfallenden Anteile zu zerlegen (Zerlegungsanteile). Für
-den Zerlegungsmaßstab gilt folgendes:
+der Steuermessbetrag vorbehaltlich des § 24 anteilig in die auf die
+einzelnen Gemeinden entfallenden Anteile zu zerlegen
+(Zerlegungsanteile).
 
-1.  Bei Betrieben der Land- und Forstwirtschaft ist der auf den
-    Wohnungswert entfallende Teil des Steuermeßbetrags der Gemeinde
-    zuzuweisen, in der sich der Wohnteil oder dessen wertvollster Teil
-    befindet. Der auf den Wirtschaftswert entfallende Teil des
-    Steuermeßbetrags ist in dem Verhältnis zu zerlegen, in dem die auf die
-    einzelnen Gemeinden entfallenden Flächengrößen zueinander stehen.
+(2) Zerlegungsmaßstab ist bei Betrieben der Land- und Forstwirtschaft
+der nach § 239 Absatz 2 des Bewertungsgesetzes ermittelte
+Gemeindeanteil am Grundsteuerwert des Betriebs der Land- und
+Forstwirtschaft.
 
+(3) Zerlegungsmaßstab ist bei Grundstücken das Verhältnis, in dem die
+auf die einzelnen Gemeinden entfallenden Flächengrößen zueinander
+stehen. Führt die Zerlegung nach Flächengrößen zu einem offenbar
+unbilligen Ergebnis, sind die Zerlegungsanteile maßgebend, auf die
+sich die Gemeinden mit dem Steuerschuldner einigen.
 
-2.  Bei Grundstücken ist der Steuermeßbetrag in dem Verhältnis zu
-    zerlegen, in dem die auf die einzelnen Gemeinden entfallenden
-    Flächengrößen zueinander stehen. Führt die Zerlegung nach
-    Flächengrößen zu einem offenbar unbilligen Ergebnis, so hat das
-    Finanzamt auf Antrag einer Gemeinde die Zerlegung nach dem Maßstab
-    vorzunehmen, der nach bisherigem Recht zugrunde gelegt wurde. Dies
-    gilt nur so lange, als keine wesentliche Änderung der tatsächlichen
-    Verhältnisse eintritt; im Falle einer wesentlichen Änderung ist nach
-    einem Maßstab zu zerlegen, der den tatsächlichen Verhältnissen besser
-    Rechnung trägt.
-
-
-
-Einigen sich die Gemeinden mit dem Steuerschuldner über die
-Zerlegungsanteile, so sind diese maßgebend.
-
-(2) Entfällt auf eine Gemeinde ein Zerlegungsanteil von weniger als
-fünfundzwanzig Euro, so ist dieser Anteil der Gemeinde zuzuweisen, der
-nach Absatz 1 der größte Zerlegungsanteil zusteht.
+(4) Entfällt auf eine Gemeinde ein Zerlegungsanteil von weniger als 25
+Euro, so ist dieser Anteil der Gemeinde zuzuweisen, der nach Absatz 2
+oder 3 der größte Zerlegungsanteil zusteht.
 
 
 ### § 23 Zerlegungsstichtag
 
 (1) Der Zerlegung des Steuermeßbetrags werden die Verhältnisse in dem
 Feststellungszeitpunkt zugrunde gelegt, auf den der für die
-Festsetzung des Steuermeßbetrags maßgebende Einheitswert festgestellt
-worden ist.
+Festsetzung des Steuermeßbetrags maßgebende Grundsteuerwert
+festgestellt worden ist.
 
 (2) Ändern sich die Grundlagen für die Zerlegung, ohne daß der
-Einheitswert fortgeschrieben oder nachträglich festgestellt wird, so
-sind die Zerlegungsanteile nach dem Stand vom 1. Januar des folgenden
-Jahres neu zu ermitteln, wenn wenigstens bei einer Gemeinde der neue
-Anteil um mehr als ein Zehntel, mindestens aber um zehn Euro von ihrem
-bisherigen Anteil abweicht.
+Grundsteuerwert fortgeschrieben oder nachträglich festgestellt wird,
+so sind die Zerlegungsanteile nach dem Stand vom 1. Januar des
+folgenden Jahres neu zu ermitteln, wenn wenigstens bei einer Gemeinde
+der neue Anteil um mehr als ein Zehntel, mindestens aber um zehn Euro
+von ihrem bisherigen Anteil abweicht.
 
 
 ### § 24 Ersatz der Zerlegung durch Steuerausgleich
@@ -766,59 +818,71 @@ Bedeutung der untergebrachten Gegenstände durch die Landesregierung
 oder die von ihr beauftragte Stelle anerkannt ist.
 
 
-### § 33 Erlaß wegen wesentlicher Ertragsminderung
+### § 33 Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft
 
-(1) Ist bei Betrieben der Land- und Forstwirtschaft und bei bebauten
-Grundstücken der normale Rohertrag des Steuergegenstandes um mehr als
-50 Prozent gemindert und hat der Steuerschuldner die Minderung des
-Rohertrags nicht zu vertreten, so wird die Grundsteuer in Höhe von 25
-Prozent erlassen. Beträgt die Minderung des normalen Rohertrags 100
-Prozent, ist die Grundsteuer in Höhe von 50 Prozent zu erlassen. Bei
-Betrieben der Land- und Forstwirtschaft und bei eigengewerblich
-genutzten bebauten Grundstücken wird der Erlass nur gewährt, wenn die
-Einziehung der Grundsteuer nach den wirtschaftlichen Verhältnissen des
-Betriebs unbillig wäre. Normaler Rohertrag ist
+(1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei
+Betrieben der Land- und Forstwirtschaft der tatsächliche Reinertrag
+des Steuergegenstandes um mehr als 50 Prozent gemindert ist und der
+Steuerschuldner die Minderung des tatsächlichen Reinertrags nicht zu
+vertreten hat. Beträgt die vom Steuerschuldner nicht zu vertretende
+Minderung des tatsächlichen Reinertrags 100 Prozent, ist die
+Grundsteuer abweichend von Satz 1 in Höhe von 50 Prozent zu erlassen.
+Der tatsächliche Reinertrag eines Betriebs der Land- und
+Forstwirtschaft ermittelt sich nach den Grundsätzen des § 236 Absatz 3
+Satz 1 und 2 des Bewertungsgesetzes für ein Wirtschaftsjahr. Er gilt
+als in dem Erlasszeitraum bezogen, in dem das für den Betrieb der
+Land- und Forstwirtschaft maßgebliche Wirtschaftsjahr endet.
 
-1.  bei Betrieben der Land- und Forstwirtschaft der Rohertrag, der nach
-    den Verhältnissen zu Beginn des Erlasszeitraums bei ordnungsmäßiger
-    Bewirtschaftung gemeinhin und nachhaltig erzielbar wäre;
+(2) Der Erlass nach Absatz 1 wird nur gewährt, wenn die Einziehung der
+Grundsteuer nach den wirtschaftlichen Verhältnissen des Betriebs
+unbillig wäre. Ein Erlass nach Absatz 1 ist insbesondere
+ausgeschlossen, wenn für den Betrieb der Land- und Forstwirtschaft
+nach § 4 Absatz 1, § 4 Absatz 3 oder § 13a des Einkommensteuergesetzes
+für dasjenige Wirtschaftsjahr ein Gewinn ermittelt wurde, das im
+Erlasszeitraum bei der Ermittlung des tatsächlichen Reinertrags nach
+Absatz 1 zugrunde zu legen ist.
+
+(3) Eine Ertragsminderung ist kein Erlassgrund, wenn sie für den
+Erlasszeitraum durch Fortschreibung des Grundsteuerwerts
+berücksichtigt werden kann oder bei rechtzeitiger Stellung des Antrags
+auf Fortschreibung hätte berücksichtigt werden können.
 
 
-2.  bei bebauten Grundstücken die nach den Verhältnissen zu Beginn des
-    Erlasszeitraums geschätzte übliche Jahresrohmiete.
+### § 34 Erlass wegen wesentlicher Ertragsminderung bei bebauten Grundstücken
 
-
-
+(1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei
+bebauten Grundstücken der normale Rohertrag des Steuergegenstandes um
+mehr als 50 Prozent gemindert ist und der Steuerschuldner die
+Minderung des normalen Rohertrags nicht zu vertreten hat. Beträgt die
+vom Steuerschuldner nicht zu vertretende Minderung des normalen
+Rohertrags 100 Prozent, ist die Grundsteuer abweichend von Satz 1 in
+Höhe von 50 Prozent zu erlassen. Normaler Rohertrag ist bei bebauten
+Grundstücken die nach den Verhältnissen zu Beginn des Erlasszeitraums
+geschätzte übliche Jahresmiete. Die übliche Jahresmiete ist in
+Anlehnung an die Miete zu ermitteln, die für Räume gleicher oder
+ähnlicher Art, Lage und Ausstattung regelmäßig gezahlt wird.
+Betriebskosten sind nicht einzubeziehen.
 
 (2) Bei eigengewerblich genutzten bebauten Grundstücken gilt als
 Minderung des normalen Rohertrags die Minderung der Ausnutzung des
-Grundstücks.
+Grundstücks. In diesen Fällen wird der Erlass nach Absatz 1 nur
+gewährt, wenn die Einziehung der Grundsteuer nach den wirtschaftlichen
+Verhältnissen des Betriebs unbillig wäre.
 
-(3) Umfaßt der Wirtschaftsteil eines Betriebs der Land- und
-Forstwirtschaft nur die forstwirtschaftliche Nutzung, so ist die
-Ertragsminderung danach zu bestimmen, in welchem Ausmaß eingetretene
-Schäden den Ertragswert der forstwirtschaftlichen Nutzung bei einer
-Wertfortschreibung mindern würden.
-
-(4) Wird nur ein Teil des Grundstücks eigengewerblich genutzt, so ist
+(3) Wird nur ein Teil des Grundstücks eigengewerblich genutzt, so ist
 die Ertragsminderung für diesen Teil nach Absatz 2, für den übrigen
-Teil nach Absatz 1 zu bestimmen. Umfaßt der Wirtschaftsteil eines
-Betriebs der Land- und Forstwirtschaft nur zu einem Teil die
-forstwirtschaftliche Nutzung, so ist die Ertragsminderung für diesen
-Teil nach Absatz 3, für den übrigen Teil nach Absatz 1 zu bestimmen.
-In den Fällen der Sätze 1 und 2 ist für den ganzen Steuergegenstand
-ein einheitlicher Hundertsatz der Ertragsminderung nach dem Anteil der
-einzelnen Teile am Einheitswert des Grundstücks oder am Wert des
-Wirtschaftsteils des Betriebs der Land- und Forstwirtschaft zu
-ermitteln.
+Teil nach Absatz 1 zu bestimmen. In diesen Fällen ist für den ganzen
+Steuergegenstand ein einheitlicher Prozentsatz der Ertragsminderung
+nach dem Anteil der einzelnen Teile am Grundsteuerwert des Grundstücks
+zu ermitteln.
 
-(5) Eine Ertragsminderung ist kein Erlaßgrund, wenn sie für den
-Erlaßzeitraum durch Fortschreibung des Einheitswerts berücksichtigt
-werden kann oder bei rechtzeitiger Stellung des Antrags auf
-Fortschreibung hätte berücksichtigt werden können.
+(4) Eine Ertragsminderung ist kein Erlassgrund, wenn sie für den
+Erlasszeitraum durch Fortschreibung des Grundsteuerwerts
+berücksichtigt werden kann oder bei rechtzeitiger Stellung des Antrags
+auf Fortschreibung hätte berücksichtigt werden können.
 
 
-### § 34 Verfahren
+### § 35 Verfahren
 
 (1) Der Erlaß wird jeweils nach Ablauf eines Kalenderjahres für die
 Grundsteuer ausgesprochen, die für das Kalenderjahr festgesetzt worden
@@ -838,234 +902,34 @@ Eintritt der Änderung anzuzeigen.
 
 
 
-### § 35
+### § 36 Sondervorschriften für die Hauptveranlagung 2025
 
-(weggefallen)
+(1) Auf den 1. Januar 2025 findet eine Hauptveranlagung der
+Grundsteuermessbeträge statt (Hauptveranlagung 2025).
 
+(2) Die in der Hauptveranlagung 2025 festgesetzten Steuermessbeträge
+gelten abweichend von § 16 Absatz 2 vorbehaltlich der §§ 17 bis 20 mit
+Wirkung von dem am 1. Januar 2025 beginnenden Kalenderjahr an. Der
+Beginn dieses Kalenderjahres ist der Hauptveranlagungszeitpunkt.
 
-### § 36 Steuervergünstigung für abgefundene Kriegsbeschädigte
+(3) Bescheide über die Hauptveranlagung können schon vor dem
+Hauptveranlagungszeitpunkt erteilt werden. § 21 Satz 2 ist
+entsprechend anzuwenden.
 
-(1) Der Veranlagung der Steuermessbeträge für Grundbesitz solcher
-Kriegsbeschädigten, die zum Erwerb oder zur wirtschaftlichen Stärkung
-ihres Grundbesitzes eine Kapitalabfindung auf Grund des
-Bundesversorgungsgesetzes in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), zuletzt geändert durch die Verordnung vom
-15\. Juni 1999 (BGBl. I S. 1328), erhalten haben, ist der um die
-Kapitalabfindung verminderte Einheitswert zugrunde zu legen. Die
-Vergünstigung wird nur so lange gewährt, als die
-Versorgungsgebührnisse wegen der Kapitalabfindung in der gesetzlichen
-Höhe gekürzt werden.
 
-(2) Die Steuervergünstigung nach Absatz 1 ist auch für ein Grundstück
-eines gemeinnützigen Wohnungs- oder Siedlungsunternehmens zu gewähren,
-wenn die folgenden Voraussetzungen sämtlich erfüllt sind:
+### § 37 Anwendung des Gesetzes
 
-1.  Der Kriegsbeschädigte muß für die Zuweisung des Grundstücks die
-    Kapitalabfindung an das Wohnungs- oder Siedlungsunternehmen bezahlt
-    haben.
+(1) Diese Fassung des Gesetzes gilt erstmals für die Grundsteuer des
+Kalenderjahres 2025.
 
+(2) Für die Grundsteuer bis einschließlich zum Kalenderjahr 2024
+findet das Grundsteuergesetz in der Fassung vom 7. August 1973 (BGBl.
+I S. 965), das zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember
+2008 (BGBl. I S. 2794) geändert worden ist, weiter Anwendung.
 
-2.  Er muß entweder mit dem Unternehmen einen Mietvertrag mit
-    Kaufanwartschaft in der Weise abgeschlossen haben, daß er zur Miete
-    wohnt, bis das Eigentum an dem Grundstück von ihm erworben ist, oder
-    seine Rechte als Mieter müssen durch den Mietvertrag derart geregelt
-    sein, daß das Mietverhältnis dem Eigentumserwerb fast gleichkommt.
 
+### § 38 Bekanntmachung
 
-3.  Es muß sichergestellt sein, daß die Steuervergünstigung in vollem
-    Umfang dem Kriegsbeschädigten zugute kommt.
-
-
-
-
-(3) Lagen die Voraussetzungen des Absatzes 1 oder des Absatzes 2 bei
-einem verstorbenen Kriegsbeschädigten zur Zeit seines Todes vor und
-hat seine Witwe das Grundstück ganz oder teilweise geerbt, so ist auch
-der Witwe die Steuervergünstigung zu gewähren, wenn sie in dem
-Grundstück wohnt. Verheiratet sich die Witwe wieder, so fällt die
-Steuervergünstigung weg.
-
-
-### § 37 Sondervorschriften für die Hauptveranlagung 1974
-
-(1) Auf den 1. Januar 1974 findet eine Hauptveranlagung der
-Grundsteuermeßbeträge statt (Hauptveranlagung 1974)\*
-
-(2) Die Hauptveranlagung 1974 gilt mit Wirkung von dem am 1. Januar
-1974 beginnenden Kalenderjahr an. Der Beginn dieses Kalenderjahres ist
-der Hauptveranlagungszeitpunkt.
-
-(3) Bei der Hauptveranlagung 1974 gilt Artikel 1 des
-Bewertungsänderungsgesetzes 1971 vom 27. Juli 1971 (Bundesgesetzbl. I
-S. 1157).
-
-(4) (weggefallen)
-
-
-### § 38 Anwendung des Gesetzes
-
-Diese Fassung des Gesetzes gilt erstmals für die Grundsteuer des
-Kalenderjahres 2008.
-
-
-### § 39
-
-(weggefallen)
-
-
-## Abschnitt VI - Grundsteuer für Steuergegenstände in dem in Art 3 des Einigungsvertrages genannten Gebiet ab dem Kalenderjahr 1991
-
-
-
-### § 40 Land- und forstwirtschaftliches Vermögen
-
-Anstelle der Betriebe der Land- und Forstwirtschaft im Sinne des § 2
-tritt das zu einer Nutzungseinheit zusammengefaßte Vermögen im Sinne
-des § 125 Abs. 3 des Bewertungsgesetzes. Schuldner der Grundsteuer ist
-abweichend von § 10 der Nutzer des land- und forstwirtschaftlichen
-Vermögens (§ 125 Abs. 2 des Bewertungsgesetzes). Mehrere Nutzer des
-Vermögens sind Gesamtschuldner.
-
-
-### § 41 Bemessung der Grundsteuer für Grundstücke nach dem Einheitswert
-
-Ist ein im Veranlagungszeitpunkt für die Grundsteuer maßgebender
-Einheitswert 1935 festgestellt oder festzustellen (§ 132 des
-Bewertungsgesetzes), gelten bei der Festsetzung des Steuermeßbetrags
-abweichend von § 15 die Steuermeßzahlen der weiter anwendbaren §§ 29
-bis 33 der Grundsteuerdurchführungsverordnung vom 1. Juli 1937 (RGBl.
-I S. 733). Die ermäßigten Steuermeßzahlen für Einfamilienhäuser gelten
-nicht für das Wohnungseigentum und das Wohnungserbbaurecht
-einschließlich des damit belasteten Grundstücks.
-
-
-### § 42 Bemessung der Grundsteuer für Mietwohngrundstücke und Einfamilienhäuser nach der Ersatzbemessungsgrundlage
-
-(1) Bei Mietwohngrundstücken und Einfamilienhäusern, für die ein im
-Veranlagungszeitpunkt für die Grundsteuer maßgebender Einheitswert
-1935 nicht festgestellt oder festzustellen ist (§ 132 des
-Bewertungsgesetzes), bemißt sich der Jahresbetrag der Grundsteuer nach
-der Wohnfläche und bei anderweitiger Nutzung nach der Nutzfläche
-(Ersatzbemessungsgrundlage).
-
-(2) Bei einem Hebesatz von 300 vom Hundert für Grundstücke beträgt der
-Jahresbetrag der Grundsteuer für das Grundstück
-
-a)  für Wohnungen, die mit Bad, Innen-WC und Sammelheizung ausgestattet
-    sind,
-
-    1 Euro je
-    qm Wohnfläche,
-
-
-b)  für andere Wohnungen
-
-    75 Cent je
-    qm Wohnfläche,
-
-
-c)  je Abstellplatz für Personenkraftwagen in einer Garage
-
-    5 Euro.
-
-
-
-Für Räume, die anderen als Wohnzwecken dienen, ist der Jahresbetrag je
-qm Nutzfläche anzusetzen, der für die auf dem Grundstück befindlichen
-Wohnungen maßgebend ist.
-
-(3) Wird der Hebesatz abweichend von Absatz 2 festgesetzt, erhöhen
-oder vermindern sich die Jahresbeträge des Absatzes 2 in dem
-Verhältnis, in dem der festgesetzte Hebesatz für Grundstücke zu dem
-Hebesatz von 300 vom Hundert steht. Der sich danach ergebende
-Jahresbetrag je
-qm Wohn- oder Nutzfläche wird auf volle Cent nach unten abgerundet.
-
-(4) Steuerschuldner ist derjenige, dem das Gebäude bei einer
-Feststellung des Einheitswerts gemäß § 10 zuzurechnen wäre. Das gilt
-auch dann, wenn der Grund und Boden einem anderen gehört.
-
-
-### § 43 Steuerfreiheit für neugeschaffene Wohnungen
-
-(1) Für Grundstücke mit neugeschaffenen Wohnungen, die nach dem 31.
-Dezember 1980 und vor dem 1. Januar 1992 bezugsfertig geworden sind
-oder bezugsfertig werden, gilt folgendes:
-
-1.  Grundstücke mit Wohnungen, die vor dem 1. Januar 1990 bezugsfertig
-    geworden sind, bleiben für den noch nicht abgelaufenen Teil eines
-    zehnjährigen Befreiungszeitraums steuerfrei, der mit dem 1. Januar des
-    Kalenderjahres beginnt, das auf das Jahr der Bezugsfertigkeit des
-    Gebäudes folgt;
-
-
-2.  Grundstücke mit Wohnungen, die im Kalenderjahr 1990 bezugsfertig
-    geworden sind, sind bis zum 31. Dezember 2000 steuerfrei;
-
-
-3.  Grundstücke mit Wohnungen, die im Kalenderjahr 1991 bezugsfertig
-    werden, sind bis zum 31. Dezember 2001 steuerfrei.
-
-
-
-Dies gilt auch, wenn vor dem 1. Januar 1991 keine Steuerfreiheit
-gewährt wurde.
-
-(2) Befinden sich auf einem Grundstück nur zum Teil steuerfreie
-Wohnungen im Sinne des Absatzes 1, gilt folgendes:
-
-1.  Wird die Grundsteuer nach dem Einheitswert bemessen (§ 41), bemißt
-    sich der Steuermeßbetrag für den sich aus Absatz 1 ergebenden
-    Befreiungszeitraum nur nach dem Teil des jeweils maßgebenden
-    Einheitswerts, der auf die steuerpflichtigen Wohnungen und Räume
-    einschließlich zugehörigen Grund und Bodens entfällt. Der
-    steuerpflichtige Teil des Einheitswerts wird im
-    Steuermeßbetragsverfahren ermittelt.
-
-
-2.  Ist die Ersatzbemessungsgrundlage Wohn- oder Nutzfläche maßgebend (§
-    42), bleibt während der Dauer des sich aus Absatz 1 ergebenden
-    Befreiungszeitraums die Wohnfläche der befreiten Wohnungen bei
-    Anwendung des § 42 außer Ansatz.
-
-
-
-
-(3) Einer Wohnung stehen An-, Aus- oder Umbauten gleich, die der
-Vergrößerung oder Verbesserung von Wohnungen dienen. Voraussetzung
-ist, daß die Baumaßnahmen zu einer Wertfortschreibung geführt haben
-oder führen.
-
-
-### § 44 Steueranmeldung
-
-(1) Soweit die Grundsteuer nach der Wohn- oder Nutzfläche zu bemessen
-ist, hat der Steuerschuldner eine Steuererklärung nach amtlich
-vorgeschriebenem Vordruck abzugeben, in der er die Grundsteuer nach §
-42 selbst berechnet (Steueranmeldung).
-
-(2) Der Steuerschuldner hat der Berechnung der Grundsteuer den
-Hebesatz zugrunde zu legen, den die Gemeinde bis zum Beginn des
-Kalenderjahres bekannt gemacht hat, für das die Grundsteuer erhoben
-wird. Andernfalls hat er die Grundsteuer nach dem Hebesatz des
-Vorjahres zu berechnen; für das Kalenderjahr 1991 gilt insoweit ein
-Hebesatz von 300 vom Hundert.
-
-(3) Die Steueranmeldung ist für jedes Kalenderjahr nach den
-Verhältnissen zu seinem Beginn bis zu dem Fälligkeitstag abzugeben, zu
-dem Grundsteuer für das Kalenderjahr nach § 28 erstmals fällig ist.
-Für die Entrichtung der Grundsteuer gilt § 28 entsprechend.
-
-
-### § 45 Fälligkeit von Kleinbeträgen
-
-Hat der Rat der Stadt oder Gemeinde vor dem 1. Januar 1991 für
-kleinere Beträge eine Zahlungsweise zugelassen, die von § 28 Abs. 2
-und 3 abweicht, bleibt die Regelung bestehen, bis sie aufgehoben wird.
-
-
-### § 46 Zuständigkeit der Gemeinden
-
-Die Festsetzung und Erhebung der Grundsteuer obliegt bis zu einer
-anderen landesrechtlichen Regelung den Gemeinden.
+Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
+dieses Gesetzes in der jeweils geltenden Fassung bekannt zu machen.
 

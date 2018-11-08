@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1417
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.12.2011 I 2367
+:   Art. 544 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -270,7 +270,7 @@ treibende Container, Stückgüter oder Schlämme von umweltschädlichen
 Stoffen beobachtet werden.
 
 (3) Unabhängig von Absatz 1 haben auch die Berufsgenossenschaft für
-Verkehr und Transportwirtschaft, eine vom oder für den Schiffseigner
+Transport und Verkehrswirtschaft, eine vom oder für den Schiffseigner
 herangezogene Klassifikationsgesellschaft und die Lotsen des
 betroffenen Schiffes eine Meldepflicht an die Bundesstelle für
 Seeunfalluntersuchung für die in Absatz 2 genannten Ereignisse.
@@ -314,6 +314,106 @@ Seesicherheitsuntersuchung dafür Sorge zu tragen, dass
 
 
 
+## § 7b Meldung und Beseitigung von Wracks
+
+(1) Der Schiffsführer eines Schiffes, der sonst für die Sicherheit
+Verantwortliche des Schiffes und der Betreiber des Schiffes haben der
+jeweils zuständigen Verkehrszentrale unverzüglich nach Maßgabe des
+Absatzes 3 zu melden, wenn das Schiff in einen Seeunfall verwickelt
+war, aus dem ein Wrack entstanden ist, das sich in der deutschen
+ausschließlichen Wirtschaftszone befindet. Hat eine der in Satz 1
+genannten Personen die Meldung vorgenommen, so ist die Meldepflicht
+der übrigen in Satz 1 genannten Personen erfüllt.
+
+(2) Befindet sich das Wrack
+
+1.  in der ausschließlichen Wirtschaftszone,
+
+
+2.  im sonstigen Übereinkommensgebiet im Sinne des Artikels 1 Absatz 1 des
+    Internationalen Übereinkommens von Nairobi von 2007 über die
+    Beseitigung von Wracks (BGBl. 2013 II S. 530, 531)
+    (Wrackbeseitigungsübereinkommen) oder,
+
+
+3.  soweit der Geltungsbereich des Übereinkommens auf dieses erstreckt
+    wurde, im Küstenmeer
+
+
+
+eines anderen Vertragsstaates, so ist die Meldung nach Maßgabe des
+Satzes 2 und des Absatzes 3 an die zuständige Behörde dieses Staates
+zu richten. Das Bundesministerium für Verkehr und digitale
+Infrastruktur gibt die Meldestellen nach Satz 1 im Verkehrsblatt
+bekannt.
+
+(3) Die Meldungen nach den Absätzen 1 und 2 müssen folgende Angaben
+enthalten:
+
+1.  den Namen und Hauptgeschäftssitz des eingetragenen Eigentümers,
+
+
+2.  die geographische Position des Wracks,
+
+
+3.  den Typ, die Größe und die Bauart des Wracks,
+
+
+4.  die Art des Schadens und des Zustands des Wracks,
+
+
+5.  die Art und die Menge der Ladung, insbesondere gefährlicher oder
+    giftiger Stoffe, und
+
+
+6.  die sich an Bord befindlichen Mengen und Arten von Öl, einschließlich
+    Bunker- und Schmieröl.
+
+
+
+
+(4) Seeunfall im Sinne dieser Regelung bedeutet einen
+Schiffszusammenstoß, das Stranden oder einen anderen nautischen
+Vorfall oder ein sonstiges Ereignis an Bord oder außerhalb eines
+Schiffes, durch die Sachschaden an Schiff oder seiner Ladung entsteht
+oder unmittelbar zu entstehen droht.
+
+(5) Ein Wrack infolge eines Seeunfalls im Sinne dieser Regelung
+bedeutet
+
+1.  ein gesunkenes oder gestrandetes Schiff,
+
+
+2.  ein beliebiges Teil eines gesunkenen oder gestrandeten Schiffes,
+    einschließlich aller Gegenstände, die sich an Bord des Schiffes
+    befinden oder befunden haben,
+
+
+3.  alle Gegenstände, die ein Schiff auf See verloren hat und die
+    gestrandet oder gesunken sind oder auf dem Meer treiben, oder
+
+
+4.  ein sinkendes oder strandendes Schiff oder ein Schiff, das aller
+    Voraussicht nach sinken oder stranden wird, wenn keine wirksamen
+    Hilfsmaßnahmen für das Schiff oder den Gegenstand in Gefahr ergriffen
+    werden.
+
+
+
+
+
+## § 7c Wrackbeseitigung im Ausland
+
+In den Fällen des § 7b Absatz 2 kann die Generaldirektion
+Wasserstraßen und Schifffahrt anordnen, dass der eingetragene
+Eigentümer eines Schiffes, das die Bundesflagge führt, seiner
+Verpflichtung zur Beseitigung eines Wracks nach Artikel 9 Absatz 2 des
+Wrackbeseitigungsübereinkommens nachzukommen und vom zuständigen
+Küstenstaat dazu festgelegte Anforderungen einzuhalten hat, wenn der
+zuständige Küstenstaat festgestellt hat, dass von dem Wrack eine
+Gefahr ausgeht.
+
+
 ## § 8 Schiffswegeführung - Schiffsmeldesysteme
 
 (1) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche
@@ -331,7 +431,7 @@ vorgeschrieben sind, einzuhalten und der zuständigen Behörde auf
 Anforderung alle entsprechend dem jeweiligen Schiffsmeldesystem
 vorgeschriebenen Angaben unverzüglich zu melden.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung macht
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur macht
 die in Absatz 1 genannten Systeme der Schiffswegeführung und die in
 Absatz 2 genannten Schiffsmeldesysteme in den Nachrichten für
 Seefahrer (Amtliche Veröffentlichung für die Schiffahrt des
@@ -367,40 +467,50 @@ Wetter und grober See.
 ## § 10 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
-Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
+Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  § 2 Abs. 1 Satz 2 oder Abs. 3 Satz 2 einer dort genannten Anordnung
-    nicht Folge leistet oder einer dort genannten Anforderung nicht oder
-    nicht in der vorgeschriebenen Weise nachkommt,
-
-
-2.  § 2 Abs. 2 eine Eintragung nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig macht oder den Such- und Rettungsdienst nicht,
-    nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+1.  entgegen § 2 Abs. 1 Satz 2 oder Abs. 3 Satz 2 einer dort genannten
+    Anordnung nicht Folge leistet oder einer dort genannten Anforderung
+    nicht oder nicht in der vorgeschriebenen Weise nachkommt,
 
 
-3.  § 6 Abs. 1, auch in Verbindung mit Abs. 3, einem von dem Zusammenstoß
-    Betroffener nicht Beistand leistet,
+2.  entgegen § 2 Abs. 2 eine Eintragung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht oder den Such- und
+    Rettungsdienst nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig unterrichtet,
 
 
-4.  § 6 Abs. 2, auch in Verbindung mit Abs. 3, nach einem Unfall sich
-    nicht in der vorgeschriebenen Weise verhält, die erforderlichen
+3.  entgegen § 6 Abs. 1, auch in Verbindung mit Abs. 3, einem von dem
+    Zusammenstoß Betroffener nicht Beistand leistet,
+
+
+4.  entgegen § 6 Abs. 2, auch in Verbindung mit Abs. 3, nach einem Unfall
+    sich nicht in der vorgeschriebenen Weise verhält, die erforderlichen
     Angaben in das Schiffstagebuch nicht einträgt oder die Hafenverwaltung
     nicht unterrichtet,
 
 
-5.  § 7 Absatz 1 oder § 7 Absatz 2a Satz 1, auch in Verbindung mit Satz 2
-    eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
+5.  entgegen § 7 Absatz 1 oder § 7 Absatz 2a Satz 1, auch in Verbindung
+    mit Satz 2 eine Meldung nicht, nicht richtig oder nicht rechtzeitig
+    macht,
 
 
-6.  § 8 Abs. 1 Satz 1 oder 3 eine dort genannte Vorschrift nicht anwendet
-    oder eine Eintragung nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig vornimmt oder
+5a. entgegen § 7b Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz 1,
+    eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
 
 
-7.  § 8 Abs. 2 eine dort genannte Vorschrift nicht einhält oder eine
-    Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    macht.
+5b. einer vollziehbaren Anordnung nach § 7c zuwiderhandelt,
+
+
+6.  entgegen § 8 Abs. 1 Satz 1 oder 3 eine dort genannte Vorschrift nicht
+    anwendet oder eine Eintragung nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig vornimmt oder
+
+
+7.  entgegen § 8 Abs. 2 eine dort genannte Vorschrift nicht einhält oder
+    eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht.
 
 
 
@@ -413,13 +523,18 @@ verhindert, Geräte geschützt oder Beweise eingeholt oder gesichert
 werden.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach den Absätzen 1 und 1a wird auf die Wasser-
-und Schiffahrtsdirektionen übertragen.
+Ordnungswidrigkeiten nach den Absätzen 1 und 1a wird auf die
+Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 
-## § 11 Inkrafttreten
+## § 11 Übergangsregelung
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+(1) Die §§ 7b, 7c und 10 Absatz 1 Nummer 5a und 5b sind erst ab dem
+Tag anzuwenden, an dem das Wrackbeseitigungsübereinkommen für die
+Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt
+den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
 
 ## Anlage 1

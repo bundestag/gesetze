@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 378
 
-Geändert durch
-:   Art. 36 V v. 17.11.2011 I 2234
+Zuletzt geändert durch
+:   Art. 9 V v. 28.2.2020 I 246
 
 
 ## Eingangsformel
@@ -32,17 +32,18 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
 
-Die Meisterprüfung im zulassungsfreien Fliesen-, Platten- und
+Die Meisterprüfung im zulassungspflichtigen Fliesen-, Platten- und
 Mosaikleger-Handwerk umfasst folgende selbständige Prüfungsteile:
 
-1.  die Prüfung der meisterhaften Verrichtung der Tätigkeiten (Teil I),
+1.  die Prüfung der meisterhaften Verrichtung wesentlicher Tätigkeiten
+    (Teil I),
 
 
-2.  die Prüfung der besonderen fachtheoretischen Kenntnisse (Teil II),
+2.  die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
 
 
-3.  die Prüfung der besonderen betriebswirtschaftlichen, kaufmännischen
-    und rechtlichen Kenntnisse (Teil III) und
+3.  die Prüfung der erforderlichen betriebswirtschaftlichen,
+    kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
 
 4.  die Prüfung der erforderlichen berufs- und arbeitspädagogischen
@@ -57,7 +58,7 @@ Mosaikleger-Handwerk umfasst folgende selbständige Prüfungsteile:
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling
 befähigt ist,
 
-1.  einen Betrieb zu führen,
+1.  einen Betrieb selbständig zu führen,
 
 
 2.  technische, kaufmännische und personalwirtschaftliche Leitungsaufgaben
@@ -455,9 +456,10 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 ## § 10 Übergangsvorschrift
 
-Die Regelungen des § 8 Absatz 5 und 6 gelten nicht für die bis zum 31.
-Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
-bisherigen Vorschriften zu Ende geführt.
+Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
+worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
+Vorschriften durch den nach § 47 der Handwerksordnung errichteten
+Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten

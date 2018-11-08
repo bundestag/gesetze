@@ -321,8 +321,9 @@ Technologie mindestens ausreichende Leistungen erbracht sind.
 
 Diese Verordnung tritt am 1. August 1995 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Manufakturporzellanmaler/zur Manufakturporzellanmalerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Manufakturporzellanmaler/zur Manufakturporzellanmalerin
 
 (Fundstelle: BGBl. I 1995, 105 - 107)
 

@@ -17,14 +17,14 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1259
 
 Zuletzt geändert durch
-:   Nr. 8 Bek. v. 30.9.1995 I 1246
+:   Nr. 5 Beschluss d. Bundestages v. 24.6.2021, Bek. v. 24.6.2021 I 2868
 
 
 ## I. Fragerecht
 
 
-1.  In jeder Sitzungswoche werden Fragestunden mit einer Gesamtdauer von
-    höchstens 180 Minuten durchgeführt.
+1.  In jeder Sitzungswoche wird eine Fragestunde mit einer Dauer von
+    höchstens 90 Minuten durchgeführt.
 
     Jedes Mitglied des Bundestages ist berechtigt, für die Fragestunden
     einer Sitzungswoche bis zu zwei Fragen zur mündlichen Beantwortung an
@@ -50,8 +50,8 @@ Zuletzt geändert durch
     den Tagesordnungspunkt auf Begründung und Aussprache verzichtet wird.
 
     Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur
-    schriftlichen Beantwortung der Bundesregierung übermittelt. Nummern 15
-    und 16 finden Anwendung.
+    schriftlichen Beantwortung der Bundesregierung übermittelt. Nummern 14
+    und 15 finden Anwendung.
 
 
 3.  Der Fragesteller ist berechtigt, bis zu zwei Zusatzfragen zu stellen,
@@ -74,8 +74,7 @@ Zuletzt geändert durch
 ## II. Die Einreichung der Fragen
 
 
-6.  Die Fragen sind dem Präsidenten (Parlamentssekretariat) in vierfacher
-    Ausfertigung einzureichen.
+6.  Die Fragen sind dem Präsidenten (Parlamentssekretariat) einzureichen.
 
 
 7.  Fragen werden erst in die Drucksache zur Fragestunde aufgenommen, wenn
@@ -87,39 +86,28 @@ Zuletzt geändert durch
     vorliegen.
 
 
-9.  Der Präsident soll Fragen von offensichtlich dringendem öffentlichen
-    Interesse (dringliche Fragen) für die Fragestunde zulassen, wenn sie
-    spätestens am vorhergehenden Tage bis 12.00 Uhr mittags eingereicht
-    werden. Nummer 1 Abs. 2 und 3 findet Anwendung.
-
-
 
 
 
 ## III. Durchführung der Fragestunde
 
 
-10. Der Präsident ruft die Nummer der Frage und den Namen des
-    Fragestellers auf.
-
-    Dringliche Fragen werden zu Beginn der Fragestunde aufgerufen. Liegen
-    zum selben Fragenkreis bereits Fragen vor, werden sie ebenfalls
-    vorgezogen.
-
-    Fragen dürfen nur beantwortet werden, wenn der Fragesteller anwesend
-    ist. Ist der Fragesteller nicht anwesend, wird seine Frage nur dann
-    schriftlich beantwortet, wenn er bis zum Beginn der Fragestunde beim
-    Präsidenten um schriftliche Beantwortung gebeten hat.
+9.  Der Präsident ruft die Nummer der Frage und den Namen des
+    Fragestellers auf. Fragen dürfen nur beantwortet werden, wenn der
+    Fragesteller anwesend ist. Ist der Fragesteller nicht anwesend, wird
+    seine Frage nur dann schriftlich beantwortet, wenn er bis zum Aufruf
+    des Geschäftsbereichs beim Präsidenten um schriftliche Beantwortung
+    gebeten hat.
 
 
-11. Ist der zuständige Bundesminister oder sein Vertreter nicht anwesend,
+10. Ist der zuständige Bundesminister oder sein Vertreter nicht anwesend,
     so kann der Fragesteller verlangen, daß seine Fragen zu Beginn der
     Fragestunde aufgerufen werden, in der der Bundesminister oder sein
     Vertreter anwesend ist; sein Fragerecht darf hierdurch nicht
     eingeschränkt werden.
 
 
-12. Fragen, die in den Fragestunden einer Woche aus Zeitmangel nicht
+11. Fragen, die in den Fragestunden einer Woche aus Zeitmangel nicht
     beantwortet werden, beantwortet die Bundesregierung schriftlich,
     sofern der Fragesteller nicht vor Schluß der letzten Fragestunde einer
     Woche gegenüber dem Sitzungsvorstand seine Fragen zurückzieht. Die
@@ -133,13 +121,13 @@ Zuletzt geändert durch
 ## IV. Schriftliche Fragen
 
 
-13. Jedes Mitglied des Bundestages ist berechtigt, in jedem Monat bis zu
+12. Jedes Mitglied des Bundestages ist berechtigt, in jedem Monat bis zu
     vier Fragen zur schriftlichen Beantwortung an die Bundesregierung zu
     richten. Für die Zulässigkeit der Fragen gilt die Nummer 1 Abs. 3 und
     Nummer 2 Abs. 1 entsprechend.
 
 
-14. Die Fragen werden von der Bundesregierung binnen einer Woche nach
+13. Die Fragen werden von der Bundesregierung binnen einer Woche nach
     Eingang beim Bundeskanzleramt beantwortet.
 
     Die während einer Woche eingegangenen Antworten werden in der
@@ -147,7 +135,7 @@ Zuletzt geändert durch
     veröffentlicht.
 
 
-15. Ist die Antwort nicht innerhalb der Wochenfrist beim Präsidenten
+14. Ist die Antwort nicht innerhalb der Wochenfrist beim Präsidenten
     (Parlamentssekretariat) eingegangen, kann der Fragesteller verlangen,
     daß seine Frage in der ersten Fragestunde der Sitzungswoche, die auf
     den Fristablauf folgt, zur mündlichen Beantwortung aufgerufen wird.
@@ -161,12 +149,10 @@ Zuletzt geändert durch
     Wochenfrist gegeben wurde.
 
 
-16. Fragen aufgrund der Nummer 15 werden auf sonstige mündliche Fragen für
+15. Fragen aufgrund der Nummer 14 werden auf sonstige mündliche Fragen für
     diese Sitzungswoche nicht angerechnet. Sie werden zu Beginn der
-    Fragestunde aufgerufen. Nummer 10 Abs. 2 Satz 2 findet Anwendung.
-
-    Zu einer Frage aufgrund der Nummer 15 kann nur der Fragesteller
-    Zusatzfragen stellen.
+    Fragestunde aufgerufen. Zu einer Frage aufgrund der Nummer 14 kann nur
+    der Fragesteller Zusatzfragen stellen.
 
 
 

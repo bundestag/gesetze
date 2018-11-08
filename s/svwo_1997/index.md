@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1946
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 10 G v. 12.4.2012 I 579
+:   Art. 11 G v. 11.2.2021 I 154
 
 
 ## Eingangsformel
@@ -67,7 +67,7 @@ Stellvertreter.
 (2) Das Bundesministerium für Arbeit und Soziales und die obersten
 Verwaltungsbehörden der Länder machen die Namen der von ihnen
 bestellten Wahlbeauftragten und ihrer Stellvertreter sowie die
-Anschrift ihrer Dienststellen mit Fernsprech- und Fernkopiereranschluß
+Anschrift ihrer Dienststellen mit Telekommunikationsanschlüssen
 öffentlich bekannt.
 
 (3) Die Wahlbeauftragten treffen im Rahmen der ihnen nach dem Vierten
@@ -110,11 +110,11 @@ benannt ist. Der Stellvertreter des Vorsitzenden ist berechtigt, an
 den Sitzungen des Wahlausschusses mit beratender Stimme teilzunehmen.
 
 (3) Ein Beauftragter des Vorstandes oder der Aufsichtsbehörde, wenn
-diese den Wahlausschuß bestellt hat, verpflichtet die Mitglieder des
-Wahlausschusses durch Handschlag zur unparteiischen Wahrnehmung ihres
-Amtes und zur Verschwiegenheit. Nach Möglichkeit soll der Vorsitzende
-des Vorstands oder der Leiter der Aufsichtsbehörde die Verpflichtung
-vornehmen.
+diese den Wahlausschuß bestellt hat, weist die Mitglieder des
+Wahlausschusses auf ihre Verpflichtung zur unparteiischen Wahrnehmung
+ihres Amtes und zur Verschwiegenheit hin. Nach Möglichkeit soll der
+Vorsitzende des Vorstands oder der Leiter der Aufsichtsbehörde den
+Hinweis erteilen.
 
 (4) Der Wahlausschuß hat für die Vorbereitung und Durchführung der
 Wahl zu den Organen der Selbstverwaltung des Versicherungsträgers zu
@@ -211,11 +211,10 @@ Entscheidung ergeht mit der Mehrheit der abgegebenen Stimmen.
 Stimmenthaltungen bleiben unberücksichtigt. Bei Stimmengleichheit gibt
 die Stimme des Vorsitzenden den Ausschlag.
 
-(6) Für die Verpflichtung der Mitglieder und das Verfahren der
-Beschwerdewahlausschüsse gelten im übrigen die Regelungen für die
-Wahlausschüsse entsprechend. Dem in der Sitzung anwesenden
-Wahlbeauftragten oder dessen Beauftragten ist Gelegenheit zur Äußerung
-zu geben.
+(6) Für das Verfahren der Beschwerdewahlausschüsse gelten im übrigen
+die Regelungen für die Wahlausschüsse entsprechend. Dem in der Sitzung
+anwesenden Wahlbeauftragten oder dessen Beauftragten ist Gelegenheit
+zur Äußerung zu geben.
 
 
 ### § 5 Wahlleitungen
@@ -421,9 +420,8 @@ insbesondere
 
 8.  ob die Vereinigung von Beginn des Kalenderjahres vor dem Kalenderjahr
     der Wahlausschreibung an ständig eine Anzahl beitragszahlender
-    Mitglieder hatte, die mindestens der Hälfte der nach § 48 Abs. 2 des
-    Vierten Buches Sozialgesetzbuch geforderten Unterschriftenzahl
-    entspricht,
+    Mitglieder hatte, die mindestens der nach § 48 Abs. 2 des Vierten
+    Buches Sozialgesetzbuch geforderten Unterschriftenzahl entspricht,
 
 
 9.  die Höhe der festgesetzten Mitgliedsbeiträge,
@@ -520,18 +518,18 @@ Antragsteller Angaben entsprechend § 11 Abs. 1 zu verlangen.
 sind, wenn sie sich gegen die Entscheidung des Wahlausschusses eines
 bundesunmittelbaren Versicherungsträgers richten, beim
 Bundeswahlausschuß, im übrigen beim zuständigen Landeswahlausschuß
-schriftlich einzulegen und zu begründen. Der Beschwerdeführer soll dem
-zuständigen Wahlbeauftragten und dem zuständigen Wahlausschuß eine
-Abschrift der Beschwerde und ihrer Begründung übersenden. Der
-Wahlausschuß legt dem Beschwerdewahlausschuß die Akten unverzüglich
-vor.
+schriftlich oder per Telefax einzulegen und zu begründen. Der
+Beschwerdeführer soll dem zuständigen Wahlbeauftragten und dem
+zuständigen Wahlausschuß eine Abschrift der Beschwerde und ihrer
+Begründung übersenden. Der Wahlausschuß legt dem
+Beschwerdewahlausschuß die Akten unverzüglich vor.
 
 (2) Eine Beschwerde nach § 48c Abs. 3 des Vierten Buches
-Sozialgesetzbuch ist beim Bundeswahlausschuß schriftlich einzulegen
-und zu begründen. Der Beschwerdeführer soll dem Bundeswahlbeauftragten
-eine Abschrift der Beschwerde und ihrer Begründung übersenden. Der
-Bundeswahlbeauftragte legt seine Akten unverzüglich dem
-Bundeswahlausschuß vor.
+Sozialgesetzbuch ist beim Bundeswahlausschuß schriftlich oder per
+Telefax einzulegen und zu begründen. Der Beschwerdeführer soll dem
+Bundeswahlbeauftragten eine Abschrift der Beschwerde und ihrer
+Begründung übersenden. Der Bundeswahlbeauftragte legt seine Akten
+unverzüglich dem Bundeswahlausschuß vor.
 
 (3) Zu der Sitzung des Beschwerdewahlausschusses lädt der Vorsitzende
 als Beteiligte den Beschwerdeführer, den Antragsteller und den
@@ -614,7 +612,7 @@ insbesondere
 
 
 5.  die Stelle, bei der die Vorschlagslisten einzureichen sind, und ihre
-    Anschrift mit Fernsprech- und Fernkopiereranschluß,
+    Anschrift mit Telekommunikationsanschlüssen,
 
 
 6.  den Zeitpunkt nach Tag und Stunde, bis zu dem die Vorschlagslisten
@@ -687,7 +685,7 @@ bezeichnen.
 (4) (weggefallen)
 
 
-##### § 15 Form und Inhalt der Vorschlagslisten
+##### § 15 Vorschlagslisten und Niederschriften
 
 (1) Die Vorschlagslisten für die Wahlen der Vertreterversammlungen
 sind auf Vordrucken nach dem Muster der Anlage 1 und für die Wahlen
@@ -696,14 +694,13 @@ Vorschlagsliste nach § 48 Abs. 2 des Vierten Buches Sozialgesetzbuch
 von einer bestimmten Anzahl von Personen unterzeichnet sein
 (Unterstützerliste), sind diese Unterschriften in der
 Rentenversicherung und in der Krankenversicherung nach dem Muster der
-Anlage 4 und in der Unfallversicherung nach dem Muster der Anlage 5
+Anlage 3 und in der Unfallversicherung nach dem Muster der Anlage 4
 beizubringen. Die Vordrucke müssen in Maschinenschrift oder in anderer
 gut leserlicher Schrift ausgefüllt sein. Unterschriften sind
 eigenhändig zu vollziehen. Werden Vorschlagslisten oder
-Zustimmungserklärungen zur Wahrung der Einreichungsfrist
-fernschriftlich, telegrafisch oder durch Fernkopierer übersandt, gilt
-die Frist als gewahrt, wenn spätestens bis zum Ablauf der
-Mängelbeseitigungsfrist dem Wahlausschuß die Originale vorliegen.
+Zustimmungserklärungen zur Wahrung der Einreichungsfrist elektronisch
+übersandt, gilt die Frist als gewahrt, wenn spätestens bis zum Ablauf
+der Mängelbeseitigungsfrist dem Wahlausschuß die Originale vorliegen.
 
 (2) In den Vorschlagslisten ist ein Kennwort anzugeben. Als Kennwort
 ist bei Vorschlagslisten von Personenvereinigungen oder Verbänden, die
@@ -712,19 +709,22 @@ Sozialgesetzbuch vorschlagsberechtigt sind, der Name der
 Personenvereinigung oder des Verbandes einzusetzen; der Name und die
 Kurzbezeichnung der Vereinigung sind in der Form zu verwenden, wie sie
 sich bei eingetragenen Vereinen aus dem Vereinsregister, sonst aus der
-Satzung ergeben; Zusätze sind unzulässig. Bei freien Listen (§ 48 Abs.
-1 Satz 1 Nr. 4 des Vierten Buches Sozialgesetzbuch) ist der
-Familienname eines Listenunterzeichners einzusetzen. Es können auch
-die Namen mehrerer Personenvereinigungen oder Verbände und bei freien
-Listen auch die Familiennamen mehrerer Listenunterzeichner eingesetzt
-werden, insgesamt jedoch nicht mehr als fünf Familiennamen. Bei freien
-Listen kann dem oder den Familiennamen ausschließlich der Zusatz
-"Freie Liste" vorangestellt werden. Bei einer Vorschlagsliste von
-mehreren Personenvereinigungen oder Verbänden soll statt einer oder
-mehrerer ihrer Namen möglichst ein die Personenvereinigungen oder
-Verbände gemeinsam bezeichnendes Kennwort eingesetzt werden. Ein
-unzulässiges Kennwort wird vom Wahlausschuß von Amts wegen durch ein
-zulässiges Kennwort ersetzt.
+Satzung ergeben. Bei freien Listen (§ 48 Abs. 1 Satz 1 Nr. 4 des
+Vierten Buches Sozialgesetzbuch) ist der Familienname eines
+Listenunterzeichners einzusetzen. Es können auch die Namen mehrerer
+Personenvereinigungen oder Verbände und bei freien Listen auch die
+Familiennamen mehrerer Listenunterzeichner eingesetzt werden,
+insgesamt jedoch nicht mehr als fünf Familiennamen. Zulässig ist
+ausschließlich ein Zusatz an nachfolgender Stelle, der die Bezeichnung
+des Versicherungsträgers oder einen den Versicherungsträger
+kennzeichnenden Teil dieser Bezeichnung enthält; sonstige Zusätze sind
+unzulässig. Bei freien Listen kann dem oder den Familiennamen außerdem
+der Zusatz "Freie Liste" vorangestellt werden. Bei einer
+Vorschlagsliste von mehreren Personenvereinigungen oder Verbänden soll
+statt einer oder mehrerer ihrer Namen möglichst ein die
+Personenvereinigungen oder Verbände gemeinsam bezeichnendes Kennwort
+eingesetzt werden. Ein unzulässiges Kennwort wird vom Wahlausschuß von
+Amts wegen durch ein zulässiges Kennwort ersetzt.
 
 (3) Die Vorschlagslisten der nach § 48 Abs. 1 des Vierten Buches
 Sozialgesetzbuch vorschlagsberechtigten Personenvereinigungen und
@@ -732,8 +732,8 @@ Verbände müssen von vertretungsberechtigten Personen unterschrieben
 sein.
 
 (4) Den Vorschlagslisten sind eigenhändig unterschriebene
-Zustimmungserklärungen der Bewerber nach dem Muster der Anlage 6 oder
-7 beizufügen. Fehlt diese nach Ablauf der Einreichungsfrist, ist der
+Zustimmungserklärungen der Bewerber nach dem Muster der Anlage 5
+beizufügen. Fehlt diese nach Ablauf der Einreichungsfrist, ist der
 Name des Bewerbers auf der Vorschlagsliste zu streichen. Der Nachweis,
 daß ein Vertreter einer Vereinigung auf der Liste einer anderen
 Vereinigung in die Vertreterversammlung oder den Verwaltungsrat
@@ -749,12 +749,49 @@ ist. Den Vorschlagslisten, die nach § 48 Abs. 2 bis 5 des Vierten
 Buches Sozialgesetzbuch von einer Mindestzahl von Wahlberechtigten
 unterzeichnet sein müssen, können, um Zweifel am Wahlrecht
 auszuschließen, Erklärungen des Listenvertreters nach dem Muster der
-Anlage 8 beigefügt werden.
+Anlage 6 beigefügt werden.
+
+(4a) Aus der Niederschrift nach § 48 Absatz 8 des Vierten Buches
+Sozialgesetzbuch muss insbesondere ersichtlich sein,
+
+1.  wen die vorschlagsberechtigten Organisationen zur Einreichung von
+    Bewerbervorschlägen aufgerufen haben,
+
+
+2.  in welcher Form der Aufruf erfolgt ist,
+
+
+3.  durch welches nachvollziehbare Verfahren aus den Bewerbern die
+    Vorschlagsliste erstellt worden ist,
+
+
+4.  durch welches nachvollziehbare Verfahren die Reihenfolge der Bewerber
+    festgelegt worden ist und
+
+
+5.  nach welchem Verfahren im Falle des Ausscheidens eines Mitglieds einer
+    Vertreterversammlung oder eines Verwaltungsrates der Nachfolger gemäß
+    § 60 Absatz 1 oder 1a des Vierten Buches Sozialgesetzbuch ausgewählt
+    wird.
+
+
+
+Weiterhin muss die Niederschrift die nach § 48 Absatz 10 Satz 3 des
+Vierten Buches Sozialgesetzbuch erforderlichen Begründungen enthalten.
+Die Niederschrift ist von den vertretungsberechtigten Personen der
+Organisation und bei freien Listen vom Listenvertreter und dem
+Stellvertreter des Listenvertreters zu unterzeichnen.
 
 (5) Unterschriften auf den in den Absätzen 1 und 4 genannten
 Vordrucken können nicht zurückgenommen werden.
 
-(6) (weggefallen).
+(6) Der Versicherungsträger legt am Tag nach Ablauf der
+Mängelbeseitigungsfrist bis zum Ablauf des Wahltages die Abschriften
+der Vorschlagslisten und der Niederschriften in seinen
+Geschäftsstellen öffentlich aus. Sie können zusätzlich im Internet
+veröffentlicht werden. § 88 Absatz 2 Satz 2 und 4 erste Alternative
+gilt entsprechend. In den Abschriften der Vorschlagslisten sind
+Familienname, Vorname, Geburtsjahr und Wohnort anzugeben.
 
 
 ##### § 16 Listenvertreter
@@ -801,9 +838,8 @@ Erklärungen nur gemeinsam abgeben können.
 oder zu bestätigen. Sie sind eigenhändig zu unterschreiben. Bei
 Erklärungen, die gemeinsam abzugeben sind, müssen alle erforderlichen
 Unterschriften unmittelbar aufeinander folgen. Zur Wahrung von Fristen
-können die Erklärungen auch fernschriftlich, telegrafisch oder durch
-Fernkopierer übermittelt werden, wenn die Originale unverzüglich
-nachgereicht werden.
+können die Erklärungen auch elektronisch übermittelt werden, wenn die
+Originale unverzüglich nachgereicht werden.
 
 (3) Beschlüsse des Wahlausschusses und sonstige Mitteilungen sind dem
 Listenvertreter oder, falls dieser nicht erreichbar ist, seinem
@@ -857,10 +893,10 @@ Wahlausschuß einen Nachfolger für einen Gewählten benennen, der
 gestorben ist oder der am Tag der Wahlausschreibung nicht wählbar war
 oder der die Wählbarkeit verloren hat.
 
-(5) Offenbare Unrichtigkeiten (z. B. Schreibfehler, Änderung einer
-Anschrift) können auf Antrag des Listenvertreters oder vom
-Wahlausschuß von Amts wegen jederzeit berichtigt werden, soweit dies
-technisch möglich ist.
+(5) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
+sowie Änderungen der Anschrift können auf Antrag des Listenvertreters
+oder vom Wahlausschuß von Amts wegen jederzeit berichtigt werden,
+soweit dies technisch möglich ist. Absatz 3 Satz 4 findet Anwendung.
 
 
 ##### § 19 Zurücknahme von Vorschlagslisten
@@ -879,9 +915,12 @@ zurückgenommen werden.
 (1) Die Listenvertreter können die Erklärung, daß ihre
 Vorschlagslisten zusammengelegt werden sollen (§ 48 Abs. 7 des Vierten
 Buches Sozialgesetzbuch), nur übereinstimmend abgeben. Die Erklärung
-muß spätestens in der Sitzung des Wahlausschusses abgegeben werden, in
-der über die Zulassung der Vorschlagslisten entschieden wird; § 24
-Abs. 1 Satz 3 bleibt unberührt.
+muß innerhalb der Einreichungsfrist bei der Stelle eingehen, bei der
+die Vorschlagslisten einzureichen sind. Der Wahlausschuss hat auf
+Anfrage einer vorschlagsberechtigten Organisation bis zum Ende der
+Einreichungsfrist zum Zweck der Listenzusammenlegung jederzeit den
+Kontakt zu den anderen bei ihm eingereichten Vorschlagslisten zu
+ermöglichen.
 
 (2) Aus der Erklärung über die Zusammenlegung der Vorschlagslisten
 müssen das Kennwort der einheitlichen Vorschlagsliste, die Namen ihres
@@ -1004,12 +1043,16 @@ Vorsitzende des Wahlausschusses die Listenvertreter.
 5.  deren Listenträger nicht das Recht hat, Vorschlagslisten einzureichen,
     oder deren Listenträger die Feststellung seiner Vorschlagsberechtigung
     entgegen den §§ 48b und 48c des Vierten Buches Sozialgesetzbuch nicht
-    rechtzeitig beantragt hat oder
+    rechtzeitig beantragt hat,
 
 
 6.  die nicht von der nach § 48 Abs. 2 bis 5 des Vierten Buches
     Sozialgesetzbuch erforderlichen Zahl von Wahlberechtigten
-    unterzeichnet ist.
+    unterzeichnet ist oder
+
+
+7.  die nicht die nach § 48 Absatz 9 des Vierten Buches Sozialgesetzbuch
+    erforderlichen Quoten einhält.
 
 
 
@@ -1064,22 +1107,21 @@ insbesondere deren Zurückweisung betrifft, kann der Listenvertreter
 jeder betroffenen Liste Beschwerde einlegen. Gegen die Zulassung einer
 Vorschlagsliste, Listenzusammenlegung oder Listenverbindung kann der
 Listenvertreter jeder anderen zugelassenen Liste Beschwerde einlegen.
-Eine Erklärung nach § 48 Abs. 7 des Vierten Buches Sozialgesetzbuch
-kann noch in der Sitzung des Beschwerdewahlausschusses abgegeben
-werden, in der über eine Beschwerde nach Satz 1 oder 2 entschieden
-wird.
+Eine Erklärung nach § 48 Abs. 7 Satz 2 des Vierten Buches
+Sozialgesetzbuch kann noch in der Sitzung des
+Beschwerdewahlausschusses abgegeben werden, in der über eine
+Beschwerde nach Satz 1 oder 2 entschieden wird.
 
 (2) Streicht der Wahlausschuß den Namen eines Bewerbers aus einer
 Vorschlagsliste, kann außer dem Listenvertreter der betroffenen Liste
 auch der Bewerber Beschwerde einlegen.
 
 (3) Die Beschwerde ist bis zum 134. Tag vor dem Wahltag bei dem
-Beschwerdewahlausschuß schriftlich, fernschriftlich, telegrafisch oder
-durch Fernkopierer einzulegen und zu begründen. Der Beschwerdeführer
-soll dem Wahlausschuß und dem zuständigen Wahlbeauftragten eine
-Abschrift der Beschwerde und ihrer Begründung übersenden. Der
-Wahlausschuß legt seine Akten unverzüglich dem Beschwerdewahlausschuß
-vor.
+Beschwerdewahlausschuß schriftlich oder per Telefax einzulegen und zu
+begründen. Der Beschwerdeführer soll dem Wahlausschuß und dem
+zuständigen Wahlbeauftragten eine Abschrift der Beschwerde und ihrer
+Begründung übersenden. Der Wahlausschuß legt seine Akten unverzüglich
+dem Beschwerdewahlausschuß vor.
 
 
 ##### § 25 Entscheidung des Beschwerdewahlausschusses
@@ -1128,7 +1170,10 @@ zugelassenen Vorschlagslisten und die Darstellungen der Listenträger
 
 (2) Die Abschriften der Vorschlagslisten sind spätestens am 51. Tag
 vor dem Wahltag auszulegen und müssen bis zum Ablauf des Wahltages
-ausliegen.
+ausliegen. Sie können zusätzlich im Internet veröffentlicht werden. In
+den Abschriften sind Familienname, Vorname, Geburtsjahr und Wohnort
+anzugeben. § 88 Absatz 2 Satz 2 und 4 erste Alternative gilt
+entsprechend.
 
 
 ##### § 27 Information der Wahlberechtigten
@@ -1343,9 +1388,9 @@ Versicherungsträger auf Antrag ausgestellt.
 Unternehmerverzeichnis verzeichneten Unternehmer ein
 Rückantwortschreiben mit einem vorbereiteten Antrag zu übersenden. Die
 von den Unternehmern zur Ausstellung der Wahlausweise für sie und ihre
-Ehegatten zu machenden Angaben sind so auf die Rückantwort
-aufzudrucken, daß ein bloßes Ankreuzen der zutreffenden Angabe durch
-den Unternehmer genügt.
+Ehegatten oder Lebenspartner zu machenden Angaben sind so auf die
+Rückantwort aufzudrucken, daß ein bloßes Ankreuzen der zutreffenden
+Angabe durch den Unternehmer genügt.
 
 (3) Die Kosten für die Rückantwort trägt der Versicherungsträger.
 
@@ -1437,12 +1482,12 @@ Antrag ausgestellt.
 ##### § 41 Form und Inhalt der Wahlausweise und der Stimmzettel sowie der Stimmzettelumschläge und Wahlbriefumschläge
 
 (1) Die Wahlausweise und die Stimmzettel werden auf amtlichen
-Vordrucken nach dem Muster der Anlage 9 oder 10 oder 11 ausgestellt;
-der Wahlbeauftragte kann die Aufnahme zusätzlicher Angaben wie
+Vordrucken nach dem Muster der Anlage 7 oder 8 ausgestellt; der
+Wahlbeauftragte kann die Aufnahme zusätzlicher Angaben wie
 Versicherungsnummer oder Betriebsstammnummer auf dem Wahlausweis sowie
 die Aufnahme postalischer Leitvermerke auf dem Stimmzettel zulassen.
 Die Stimmzettel sollen mit den Wahlausweisen verbunden sein; Ausnahmen
-aus technischen Gründen sind zulässig. In Anlage 9 werden für die Wahl
+aus technischen Gründen sind zulässig. In Anlage 7 werden für die Wahl
 in der Gruppe der Selbständigen ohne fremde Arbeitskräfte jeweils die
 Wörter "Gruppe der Versicherten" durch die Wörter "Gruppe der
 Selbständigen ohne fremde Arbeitskräfte" ersetzt.
@@ -1518,7 +1563,7 @@ die Zahl der Stimmen anzugeben. Die Stimmzettel haben einheitlich auf
 zu lauten.
 
 (4) Bei der Wahl werden Stimmzettelumschläge nach dem Muster der
-Anlage 12, Wahlbriefumschläge nach dem Muster der Anlage 13 und
+Anlage 9, Wahlbriefumschläge nach dem Muster der Anlage 10 und
 Merkblätter zur Unterrichtung der Wahlberechtigten über die
 Stimmabgabe verwendet. Der Stimmzettelumschlag ist zur Aufnahme des
 Stimmzettels, der Wahlbriefumschlag zur Aufnahme des
@@ -1562,7 +1607,7 @@ Verschlüsselung betrauten Personen bekannt sein; diese Personen dürfen
 nicht an der Öffnung der Wahlbriefumschläge und ihrer Trennung von den
 Stimmzetteln teilnehmen. Unterlagen über die Ver- und Entschlüsselung
 sind spätestens am Wahltag zu verschließen, zu versiegeln und gegen
-Zugriffe sicher geschützt aufzubewahren; § 91 Satz 2 und 3 gilt
+Zugriffe sicher geschützt aufzubewahren; § 91 Satz 2 bis 5 gilt
 entsprechend. Eine Entschlüsselung der personenbezogenen
 Kennzeichnungen ist nur zulässig, soweit das im Rahmen eines
 Wahlanfechtungsverfahrens oder Strafverfahrens notwendig ist.
@@ -1575,7 +1620,7 @@ durchgeführt werden. Mit der Trennung der Stimmzettel von den
 Wahlbriefumschlägen darf die Auswertung der Stimmzettel nicht
 verbunden werden; diese muß nach gründlichem Durchmischen der obenauf
 liegenden Stimmzettel in einem getrennten Arbeitsgang erfolgen.
-Abweichend von dem Muster der Anlage 13 sind die Wahlbriefumschläge
+Abweichend von dem Muster der Anlage 10 sind die Wahlbriefumschläge
 
 a)  auf der Vorderseite mit dem Vermerk "Wahlbriefnummer (siehe
     Merkblatt):" und
@@ -1649,7 +1694,8 @@ eingegangen.
 Briefwahlleitungen behandeln, die er in der erforderlichen Zahl
 bestellt. Bei der Prüfung der Wahlbriefe ist zunächst festzustellen,
 wie viele Wahlbriefumschläge insgesamt eingegangen sind und wie viele
-davon nicht durch die Deutsche Post AG befördert worden sind.
+davon nicht durch das amtlich bekanntgemachte Postunternehmen
+befördert worden sind.
 
 (2) Wird die Stimmabgabe auf Grund der Prüfung des Wahlbriefumschlags,
 des Wahlausweises und des noch ungeöffneten Stimmzettelumschlags für
@@ -1684,100 +1730,49 @@ einem Behälter gesammelt, ständig gegen Zugriffe gesichert und
 unverzüglich an den Adressaten abgesandt werden.
 
 
-#### § 47 Stimmabgabe im Ältestensprengel
+#### § 47
 
-Der Wähler, der die Versichertenältesten der Bundesknappschaft nicht
-brieflich wählt, kann seine Stimme nur in einem Wahlraum abgeben, der
-für den Ältestensprengel eingerichtet ist, in dem er seinen Wohnsitz
-hat.
+(weggefallen)
 
 
-#### § 48 Wahlräume und Wahlzeit für die Wahl der Versichertenältesten der Bundesknappschaft
+#### § 48
 
-(1) Der Wahlausschuß bestimmt, ob und welche Wahlräume eingerichtet
-werden. Er bestimmt auch die Tage und Zeiten zur Stimmabgabe in
-Wahlräumen.
-
-(2) Im Einvernehmen mit der Geschäftsleitung eines Betriebes können
-auch Räume in Betrieben zu Wahlräumen bestimmt werden.
+(weggefallen)
 
 
-#### § 49 Ausstattung der Wahlräume
+#### § 49
 
-Der Wahlausschuß stellt in jedem Wahlraum sicher, daß jeder Wähler
-seinen Stimmzettel unbeobachtet kennzeichnen kann und daß
-verschließbare Wahlurnen für die Aufnahme der Stimmzettel
-bereitstehen.
+(weggefallen)
 
 
-#### § 50 Beginn und Unterbrechung der Wahlhandlung
+#### § 50
 
-Die Wahlleitung überzeugt sich vor Beginn der Stimmabgabe davon, daß
-die Wahlurne leer ist. Der Vorsitzende der Wahlleitung verschließt die
-Wahlurne. Sie darf bis zum Schluß der Wahlhandlung nicht geöffnet und
-muß während einer Unterbrechung der Wahlhandlung gegen die Entnahme
-oder das Einwerfen von Stimmzetteln gesichert werden.
+(weggefallen)
 
 
-#### § 51 Öffentlichkeit der Wahlhandlung
+#### § 51
 
-Während der Wahlhandlung und der Ermittlung des Wahlergebnisses durch
-die Wahlleitung hat jedermann zum Wahlraum Zutritt.
-
-
-#### § 52 Ordnung in Gebäuden und in Wahlräumen
-
-(1) Jede Stelle, die einen Wahlraum eingerichtet hat, sorgt dafür, daß
-in dem Gebäude, in dem sich der Wahlraum befindet, jede Beeinflussung
-der Wähler unterbleibt.
-
-(2) Der Arbeitgeber und der Betriebsrat sorgen dafür, daß in den
-Betrieben außerhalb der eingerichteten Wahlräume Stimmen nicht
-abgegeben und Wahlbriefe nicht eingesammelt werden.
-
-(3) Die Wahlleitung sorgt für Ruhe und Ordnung im Wahlraum.
+(weggefallen)
 
 
-#### § 53 Stimmabgabe
+#### § 52
 
-(1) Der Wähler weist der Wahlleitung seinen Wahlausweis oder einen mit
-einer personenbezogenen Kennzeichnung versehenen Wahlbriefumschlag
-vor. Die Wahlleitung prüft den Wahlausweis oder den Wahlbriefumschlag.
-Bei Zweifeln über die Identität des Wählers kann die Wahlleitung
-verlangen, daß dieser sich über seine Person ausweist.
-
-(2) Soll ein Wähler zur Stimmabgabe nicht zugelassen werden, führt der
-Vorsitzende einen Beschluß der Wahlleitung herbei.
-
-(3) Läßt die Wahlleitung den Wähler zur Stimmabgabe zu, behält sie den
-Wahlausweis ein. Die Wahlausweise werden mit laufenden Nummern
-versehen. Wähler, die im Wahlraum den Stimmzettelumschlag nicht zur
-Hand haben, erhalten Stimmzettelumschläge von der Wahlleitung.
-
-(4) Nachdem der Wähler zur Stimmabgabe zugelassen ist, kennzeichnet er
-seinen Stimmzettel, legt ihn in den Stimmzettelumschlag und diesen in
-die Wahlurne.
+(weggefallen)
 
 
-#### § 54 Stimmabgabe behinderter Wähler
+#### § 53
 
-Ein Wähler, der infolge einer Behinderung, oder weil er des Lesens
-unkundig ist, bei der Stimmabgabe beeinträchtigt ist, bestimmt eine
-Person seines Vertrauens, der er sich bei der Stimmabgabe bedienen
-will, und teilt dies der Wahlleitung mit. Blinden oder sehbehinderten
-Wählern wird für das Kennzeichnen des Stimmzettels auf Antrag vom
-Versicherungsträger kostenfrei eine Wahlschablone zur Verfügung
-gestellt. Das Nähere regelt der Bundeswahlbeauftragte.
+(weggefallen)
 
 
-#### § 55 Schluß der Wahlhandlung
+#### § 54
 
-Sobald die Wahlzeit abgelaufen ist, wird dies vom Vorsitzenden der
-Wahlleitung bekanntgegeben. Von da an dürfen nur noch die Wähler zur
-Stimmabgabe zugelassen werden, die sich im Wahlraum befinden. Der
-Zutritt zum Wahlraum ist so lange zu sperren, bis die anwesenden
-Wähler ihre Stimme abgegeben haben. Sodann erklärt der Vorsitzende der
-Wahlleitung die Wahlhandlung für geschlossen.
+(weggefallen)
+
+
+#### § 55
+
+(weggefallen)
 
 
 ### Dritter Abschnitt - Ermittlung und Bekanntmachung des Wahlergebnisses
@@ -1929,7 +1924,7 @@ werden kann, entscheidet bei gleichen Höchstzahlen das vom
 Vorsitzenden des Wahlausschusses zu ziehende Los.
 
 (5) Die Niederschrift über die Ermittlung des Wahlergebnisses erfolgt
-nach dem Muster der Anlage 14.
+nach dem Muster der Anlage 11.
 
 (6) Der zuständige Landeswahlbeauftragte und der Bundeswahlbeauftragte
 erhalten eine Abschrift der Niederschrift.
@@ -1948,7 +1943,7 @@ erhalten eine Abschrift der Niederschrift.
 #### § 61 Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten
 
 (1) Der Wahlausschuß stellt unverzüglich das Wahlergebnis fest und
-macht es mit den in der Anlage 14 unter den Nummern 1 bis 8
+macht es mit den in der Anlage 11 unter den Nummern 1 bis 6
 bezeichneten Angaben öffentlich bekannt.
 
 (2) Der Wahlausschuß benachrichtigt die gewählten Bewerber und teilt
@@ -2090,7 +2085,7 @@ Niederschrift ist vom Vorsitzenden des Wahlausschusses und vom
 Vorsitzenden der Vertreterversammlung zu unterzeichnen.
 
 
-### Zweiter Abschnitt - Wahl der Vorsitzenden der Verwaltungsräte
+### Zweiter Abschnitt - Wahl der  Vorsitzenden der Verwaltungsräte
 
 
 
@@ -2163,16 +2158,20 @@ Vertreterversammlung gewählt.
 Vertreterversammlung; sie richtet sich nach den Vorschriften des § 52
 des Vierten Buches Sozialgesetzbuch.
 
-(3) Den Vorschlagslisten nach dem Muster der Anlage 18 sind
+(3) Den Vorschlagslisten nach dem Muster der Anlage 12 sind
 eigenhändig unterschriebene Zustimmungserklärungen nach dem Muster der
-Anlage 19 beizufügen. In den Vorschlagslisten sind ein Listenvertreter
+Anlage 13 beizufügen. In den Vorschlagslisten sind ein Listenvertreter
 und sein Stellvertreter zu benennen. Vorschlagslisten, die diesen
-Anforderungen nicht entsprechen, sind ungültig. Die Ungültigkeit der
-Liste wird vom Wahlausschuß festgestellt. Gibt eine Vorschlagsliste im
-übrigen zu Zweifeln oder Beanstandungen Anlaß, teilt der Vorsitzende
-des Wahlausschusses dies dem Listenvertreter unverzüglich mit. Wird
-der mitgeteilte Mangel in der Sitzung nicht behoben, ist der Name des
-Bewerbers aus der Vorschlagsliste zu streichen.
+Anforderungen nicht entsprechen, sind ungültig. Fehlt die nach § 52
+Absatz 1a Satz 3 des Vierten Buches Sozialgesetzbuch erforderliche
+Begründung und wird der Mangel nicht spätestens in der Sitzung
+behoben, ist die Vorschlagsliste ebenfalls ungültig. Die Ungültigkeit
+der Liste wird vom Wahlausschuß festgestellt. Gibt eine
+Vorschlagsliste im übrigen zu Zweifeln oder Beanstandungen Anlaß,
+teilt der Vorsitzende des Wahlausschusses dies dem Listenvertreter
+unverzüglich mit. Wird der mitgeteilte Mangel in der Sitzung nicht
+behoben, ist der Name des Bewerbers aus der Vorschlagsliste zu
+streichen.
 
 (4) Der Listenvertreter und seine Stellvertreter brauchen der
 Vertreterversammlung nicht anzugehören. Nach der Wahl des Vorstandes
@@ -2217,7 +2216,7 @@ zur Wahl des Vorsitzenden des Vorstandes.
 (5) Im übrigen gilt für die Wahl des Vorsitzenden § 74 entsprechend.
 
 
-### Vierter Abschnitt - Bekanntmachung des endgültigen Wahlergebnisses
+### Vierter Abschnitt - Bekanntmachung des endgültigen Wahlergebnisses und der Ergänzung von Selbstverwaltungsorganen
 
 
 
@@ -2238,14 +2237,16 @@ durchzuführen. Der Vorsitzende des Vorstandes teilt dem Wahlausschuß
 das Ergebnis des Ergänzungsverfahrens mit.
 
 (3) Auf Grund dieser Mitteilungen stellt der Wahlausschuß unverzüglich
-das endgültige Wahlergebnis fest und macht es öffentlich bekannt.
-Dabei sind Familienname, Vorname, Geburtsjahr und Anschrift der
-Mitglieder der Vertreterversammlung oder des Verwaltungsrates, des
-Vorsitzenden der Vertreterversammlung oder des Verwaltungsrates, der
-Mitglieder des Vorstandes und des Vorsitzenden des Vorstandes sowie
-ihrer Stellvertreter anzugeben. Bei abwechselndem Vorsitz in der
-Vertreterversammlung, im Verwaltungsrat oder im Vorstand ist auch
-anzugeben, für welche Zeiträume welche Personen den Vorsitz führen.
+das endgültige Wahlergebnis fest und macht es zusammen mit der
+Begründung nach § 52 Absatz 1a Satz 3 des Vierten Buches
+Sozialgesetzbuch öffentlich bekannt. Dabei sind Familienname, Vorname,
+Geburtsjahr und Anschrift der Mitglieder der Vertreterversammlung oder
+des Verwaltungsrates, des Vorsitzenden der Vertreterversammlung oder
+des Verwaltungsrates, der Mitglieder des Vorstandes und des
+Vorsitzenden des Vorstandes sowie ihrer Stellvertreter anzugeben. Bei
+abwechselndem Vorsitz in der Vertreterversammlung, im Verwaltungsrat
+oder im Vorstand ist auch anzugeben, für welche Zeiträume welche
+Personen den Vorsitz führen.
 
 (4) Bei Betriebskrankenkassen sind in der öffentlichen Bekanntmachung
 auch Familienname, Vorname, Geburtsjahr und Anschrift des Arbeitgebers
@@ -2255,6 +2256,12 @@ anzugeben.
 (5) Der zuständige Landeswahlbeauftragte, der Bundeswahlbeauftragte
 und die Aufsichtsbehörde erhalten unverzüglich eine Abschrift der
 Bekanntmachung.
+
+(6) Bei Ergänzung eines Selbstverwaltungsorgans nach § 60 des Vierten
+Buches Sozialgesetzbuch macht der Vorsitzende des Vorstandes den
+Beschluss, dass der Vorgeschlagene als gewählt gilt sowie die nach §
+60 Absatz 1 Satz 3 des Vierten Buches Sozialgesetzbuch erforderliche
+Begründung öffentlich bekannt.
 
 
 ## Vierter Teil - Wahl von Versichertenältesten und Vertrauenspersonen
@@ -2269,7 +2276,10 @@ von Vertrauenspersonen gelten die verfahrensrechtlichen Vorschriften
 über die Wahl des Vorstandes entsprechend.
 
 (2) Der Bundeswahlbeauftragte kann Richtlinien über die Durchführung
-der Wahl und die Ermittlung des Wahlergebnisses erlassen.
+der Wahl und die Ermittlung des Wahlergebnisses erlassen. Das
+endgültige Wahlergebnis und die Nachfolge vorzeitig ausgeschiedener
+Versichertenältester und Vertrauenspersonen sind öffentlich bekannt zu
+machen. § 79 Absatz 3 und 6 findet entsprechende Anwendung.
 
 
 ### § 81 Zeitpunkt der Wahl
@@ -2400,10 +2410,44 @@ veröffentlichen
 
 
 
-(2) Daneben können die Bekanntmachungen, falls es erforderlich
-erscheint, noch in anderer Weise veröffentlicht werden. Der
-Bundeswahlbeauftragte soll die Wahlausschreibung auch in der
+(2) Daneben kann der Inhalt der Bekanntmachungen noch in anderer
+Weise, insbesondere im Internet, veröffentlicht werden. Dabei sind die
+Unversehrtheit, Vollständigkeit und Ursprungszuordnung der
+Veröffentlichung nach aktuellem Stand der Technik zu gewährleisten.
+Statt einer Anschrift ist nur der Wohnort anzugeben. Personenbezogene
+Daten in Internetveröffentlichungen von öffentlichen Bekanntmachungen
+nach § 11 sind spätestens sechs Monate nach Bekanntgabe des
+endgültigen Wahlergebnisses, von den übrigen öffentlichen
+Bekanntmachungen spätestens sechs Monate nach dem Ende der
+Wahlperiode, zu löschen.
+
+(3) Der Bundeswahlbeauftragte soll die Wahlausschreibung auch in der
 Tagespresse durch eine viertelseitige Anzeige veröffentlichen.
+
+
+### § 88a Datenschutzrechtliche Spezialregelungen
+
+(1) Hinsichtlich der in den Vorschlagslisten enthaltenen
+personenbezogenen Daten bestehen das Recht auf Berichtigung nach
+Artikel 16 und das Recht auf Einschränkung der Verarbeitung nach
+Artikel 18 der Verordnung (EU) 2016/679 des Europäischen Parlaments
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
+der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) im Zeitraum vom Ablauf der Frist für die Einreichung
+von Vorschlagslisten bis zum Ablauf des Wahltages abschließend nach
+Maßgabe der §§ 18 und 22.
+
+(2) In Bezug auf die für die Erstellung von Wahlausweisen
+verarbeiteten personenbezogenen Daten erfolgt die Information der
+betroffenen Person abweichend von Artikel 13 Absatz 3 der Verordnung
+(EU) 2016/679 mit der Erteilung der Wahlausweise. Die Berichtigung der
+im Wahlausweis enthaltenen personenbezogenen Daten gemäß Artikel 16
+der Verordnung (EU) 2016/679 erfolgt nur bis zum siebten Kalendertag
+vor dem Wahltag. Die Löschung der in den Wahlausweisen enthaltenen
+Daten sowie die Einschränkung der Verarbeitung erfolgt nur unter den
+Voraussetzungen des § 91.
 
 
 ### § 89 Gebührenfreiheit
@@ -2438,9 +2482,17 @@ frühestens zwei Monate, nachdem die Entscheidung über die
 Wahlanfechtung rechtskräftig geworden ist, vernichtet werden, soweit
 ihre Aufbewahrung nicht aus besonderen Gründen geboten ist; im
 Zweifelsfall oder auf Antrag eines Beteiligten entscheidet hierüber
-der zuständige Wahlbeauftragte. Für die Aufbewahrung sind die Stellen
-zuständig, bei denen die Wahlunterlagen nach den Vorschriften dieser
-Verordnung endgültig verbleiben.
+der zuständige Wahlbeauftragte. In begründeten Ausnahmefällen können
+auch bei einer Wahlanfechtungsklage die Wahlausweise, Stimmzettel,
+Stimmzettelumschläge oder Wahlbriefumschläge vor Ablauf der in diesen
+Fällen vorgesehenen Frist vernichtet werden, sofern diese Unterlagen
+nicht für das Streitverfahren entscheidungserheblich sind. Über eine
+vorzeitige Vernichtung entscheidet auf Antrag des beklagten
+Versicherungsträgers der zuständige Wahlbeauftragte, der zuvor dem
+Gericht, bei dem Wahlanfechtungsklagen anhängig sind, Gelegenheit zur
+Stellungnahme gibt. Für die Aufbewahrung sind die Stellen zuständig,
+bei denen die Wahlunterlagen nach den Vorschriften dieser Verordnung
+endgültig verbleiben.
 
 
 ### § 92 Amtshilfe
@@ -2487,1907 +2539,86 @@ Diese Verordnung tritt am 1. Oktober 1997 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-### Anlage 1 (zu § 15 Abs. 1 und § 65 Abs. 1) Vorschlagsliste für die Wahl einer Vertreterversammlung
-
-(Fundstelle: BGBl. I 1998, 1894 - 1897;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
----------------  Kennwort: 1)
-.................................................
-I Ordnungs-   I  Listenvertreter: 2)
-..........................................
-I nummer:     I                        (Name, Vorname, Anschrift,
-Fernruf)
----------------
-..............................................................
-I Eingegangen I  Stellvertreter:
-..............................................
-I am:         I                        (Name, Vorname, Anschrift,
-Fernruf)
----------------
-..............................................................
-I (vom Wahl-  I
-I ausschuß    I
-I einzutragen)I
----------------
-Erklärung: 3) ................................................
-..............................................................
-An den
-Wahlausschuß
-der/des
-..................................................................
-(Bezeichnung des Versicherungsträgers)
-in ...................................................................
-.........
-(Anschrift)
-Vorschlagsliste
-......................................................................
-.........
-(Bezeichnung des Listenträgers) 4)
-für die Wahl zur Vertreterversammlung der/des
-......................................................................
-.........
-(Bezeichnung des Versicherungsträgers)
-Seite 2
-Für die Gruppe der Versicherten/Arbeitgeber/Selbständigen ohne fremde
-Arbeitskräfte 5) werden vorgeschlagen als:
-Mitglieder: 6)
-----------------------------------------------------------------------
----------
-I                   I   Geburtstag   I                  I
-Lfd. I       Name        I Versicherungs- I     Anschrift    I
-Voraussetzungen
-Nr.  I     Vorname       I   nummer 7)    I                  I der
-Wählbarkeit
-I                   I Arbeitgeber 8) I                  I 9)
-----------------------------------------------------------------------
----------
-1   I        2          I       3        I        4         I       5
-----------------------------------------------------------------------
----------
-1 I                   I                I                  I
-----------------------------------------------------------------------
----------
-2 I                   I                I                  I
-----------------------------------------------------------------------
----------
-3 I                   I                I                  I
-----------------------------------------------------------------------
----------
-4 I                   I                I                  I
-----------------------------------------------------------------------
----------
-5 I                   I                I                  I
-----------------------------------------------------------------------
----------
-6 I                   I                I                  I
-----------------------------------------------------------------------
----------
-7 I                   I                I                  I
-----------------------------------------------------------------------
----------
-8 I                   I                I                  I
-----------------------------------------------------------------------
----------
-9 I                   I                I                  I
-----------------------------------------------------------------------
----------
-10 I                   I                I                  I
-----------------------------------------------------------------------
----------
-11 I                   I                I                  I
-----------------------------------------------------------------------
----------
-12 I                   I                I                  I
-----------------------------------------------------------------------
----------
-13 I                   I                I                  I
-----------------------------------------------------------------------
----------
-14 I                   I                I                  I
-----------------------------------------------------------------------
----------
-15 I                   I                I                  I
-----------------------------------------------------------------------
----------
-Fortsetzung auf .......... Einlageblättern. 10)
-Seite 3
-Stellvertreter: 11)
-----------------------------------------------------------------------
----------
-I                   I   Geburtstag   I                  I
-Lfd. I       Name        I Versicherungs- I     Anschrift    I
-Voraussetzungen
-Nr.  I     Vorname       I   nummer 7)    I                  I der
-Wählbarkeit
-I                   I Arbeitgeber 8) I                  I 9)
-----------------------------------------------------------------------
----------
-1   I        2          I       3        I        4         I       5
-----------------------------------------------------------------------
----------
-1 I                   I                I                  I
-----------------------------------------------------------------------
----------
-2 I                   I                I                  I
-----------------------------------------------------------------------
----------
-3 I                   I                I                  I
-----------------------------------------------------------------------
----------
-4 I                   I                I                  I
-----------------------------------------------------------------------
----------
-5 I                   I                I                  I
-----------------------------------------------------------------------
----------
-6 I                   I                I                  I
-----------------------------------------------------------------------
----------
-Fortsetzung auf .......... Einlageblättern. 10)
-Die Liste umfaßt insgesamt .......... Blätter. 10) Erklärungen der
-Bewerber,
-daß sie ihrer Aufstellung zustimmen, sind beigefügt.
-Weiter sind beigefügt: 12) 13)
-...............................................
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-Es wird ausdrücklich bestätigt, daß die Voraussetzungen der
-Wählbarkeit
-aller Bewerber geprüft worden sind, und zwar, soweit erforderlich,
-an Hand von Unterlagen. Die Prüfung hat ergeben, daß die
-Voraussetzungen
-der Wählbarkeit in der Person jedes Bewerbers vorliegen.
-...................., den ......................
-................................................
-(Unterschriften der zur Vertretung der
-Personenvereinigung oder des Verbandes
-berechtigten Personen;
-bei freien Listen Unterschriften des
-Listenvertreters und der auf Seite 1
-genannten Stellvertreter des Listenvertreters)
-Seite 4
-Anmerkungen:
-
-1)  Als Kennwort ist bei Vorschlagslisten von Personenvereinigungen oder
-    Verbänden, die nach § 48 Abs. 1 Satz 1 Nr. 1 bis 3 oder Satz 2 des
-    Vierten Buches Sozialgesetzbuch vorschlagsberechtigt sind, der Name
-    der Personenvereinigung oder des Verbandes einzusetzen; der Name und
-    die Kurzbezeichnung der Vereinigung sind in der Form zu verwenden, wie
-    er sich bei eingetragenen Vereinen aus dem Vereinsregister, sonst aus
-    der Satzung ergibt; Zusätze sind unzulässig. Bei freien Listen (§ 48
-    Abs. 1 Satz 1 Nr. 4 des Vierten Buches Sozialgesetzbuch) ist der
-    Familienname eines Listenunterzeichners einzusetzen. Es können auch
-    die Namen mehrerer Personenvereinigungen oder Verbände und bei freien
-    Listen auch die Familiennamen mehrerer Listenunterzeichner eingesetzt
-    werden, insgesamt jedoch nicht mehr als fünf Familiennamen. Bei freien
-    Listen kann dem oder den Familiennamen ausschließlich der Zusatz
-    "Freie Liste" vorangestellt werden. Bei einer Vorschlagsliste von
-    mehreren Personenvereinigungen oder Verbänden soll statt einer oder
-    mehrerer ihrer Namen möglichst ein die Personenvereinigungen oder
-    Verbände gemeinsam bezeichnendes Kennwort eingesetzt werden. Ein
-    unzulässiges Kennwort wird vom Wahlausschuß von Amts wegen durch ein
-    zulässiges Kennwort ersetzt.
-
-
-2)  In den Vorschlagslisten von Personenvereinigungen oder Verbänden sind
-    ein Listenvertreter und sein Stellvertreter zu benennen (§ 16 Abs. 1
-    Satz 1 der Wahlordnung).
-
-    In freien Listen sollen ein Listenvertreter und sein Stellvertreter
-    benannt werden; soweit dies nicht geschieht oder ein Benannter
-    ausscheidet, gelten die Unterzeichner der Listen in der Reihenfolge
-    ihrer Unterschriften als Listenvertreter und sein Stellvertreter (§ 16
-    Abs. 2 der Wahlordnung).
-
-
-3)  Soll ein Listenvertreter Erklärungen nur gemeinsam mit seinem
-    Stellvertreter abgeben können (§ 17 Abs. 1 Satz 5 der Wahlordnung),
-    ist hier einzusetzen: "Der Listenvertreter kann Erklärungen nur
-    gemeinsam mit seinem Stellvertreter abgeben."
-
-
-4)  Als Listenträger (§ 60 Abs. 1 Satz 1 des Vierten Buches
-    Sozialgesetzbuch) ist die Stelle zu bezeichnen, die die Listen
-    einreicht (Name der Personenvereinigung oder des Verbandes; bei freien
-    Listen ist das Kennwort einzusetzen). Wird die Liste von mehreren
-    Personenvereinigungen oder Verbänden eingereicht, so sind deren Namen
-    einzusetzen.
-
-
-5)  Nichtzutreffendes ist zu streichen.
-
-
-6)  Zu beachten ist § 48 Abs. 6 Satz 1 des Vierten Buches
-    Sozialgesetzbuch; danach dürfen die Vorschlagslisten als Mitglieder
-    der Selbstverwaltungsorgane und deren Stellvertreter von jeweils drei
-    Personen nur einen Beauftragten enthalten.
-
-
-7)  Angabe der Versicherungsnummer nur bei Wahlen in der gesetzlichen
-    Rentenversicherung in der Gruppe der Versicherten.
-
-    Bei Versicherten, die noch keine Versicherungsnummer erhalten haben,
-    ist Angabe notwendig, ob Antrag auf Vergabe einer Versicherungsnummer
-    gestellt wurde.
-
-    Neben der Versicherungsnummer braucht das Geburtsdatum nicht angegeben
-    zu werden.
-
-
-8)  Angabe des Arbeitgebers nur bei Wahlen in der gesetzlichen
-    Unfallversicherung in der Gruppe der Versicherten.
-
-
-9)  Angabe der im Einzelfall vorliegenden Voraussetzung, z. B.
-    Versicherter, Rentner, Arbeitgeber, Beauftragter einer Gewerkschaft,
-    einer sonstigen Arbeitnehmervereinigung, einer Vereinigung von
-    Arbeitgebern oder eines Verbandes. Ergänzend siehe § 51 Abs. 4 Satz 1
-    und Abs. 5 des Vierten Buches Sozialgesetzbuch.
-
-
-10) Bitte Zahlen einsetzen.
-
-
-11) Die Reihenfolge der Stellvertreter ist so festzulegen, daß erst jeder
-    dritte Stellvertreter zu den Beauftragten gehört (§ 48 Abs. 6 Satz 2
-    des Vierten Buches Sozialgesetzbuch). Als Stellvertreter können auch
-    Personen benannt werden, die bereits als Mitglieder vorgeschlagen
-    worden sind; die Benennung erlangt nur Bedeutung, wenn diese Personen
-    nicht als Mitglieder gewählt werden. Zu beachten ist § 43 Abs. 2 Satz
-    2 des Vierten Buches Sozialgesetzbuch. Danach ist für ein verhindertes
-    Mitglied stets der erste der benannten Stellvertreter zu laden, der
-    verfügbar, d.h. selbst nicht verhindert ist.
-
-
-12) Die Vorschlagsberechtigung eines Verbandes (§ 48 Abs. 1 Satz 2 SGB IV)
-    liegt vor, wenn alle oder mindestens drei der vorschlagsberechtigten
-    Mitgliedsorganisationen bis zum Ende der Einreichungsfrist eigene
-    Vorschlagslisten nicht eingereicht haben.
-
-    Bei Vorschlagslisten von Vereinigungen, deren Vertreter in der
-    Vertreterversammlung nicht auf einer eigenen Liste der Vereinigung
-    gewählt worden sind, ist § 15 Abs. 4 Satz 3 der Wahlordnung zu
-    beachten.
-
-
-13) Den Vorschlagslisten, die nach § 48 Abs. 2 bis 5 des Vierten Buches
-    Sozialgesetzbuch von einer Mindestzahl von Wahlberechtigten
-    unterzeichnet sein müssen, können, um Zweifel auszuschließen,
-    Erklärungen des Listenvertreters über die Voraussetzungen der
-    Wahlberechtigung nach dem Muster der Anlage 8 zur Wahlordnung
-    beigefügt werden.
-
-    Die erforderlichen Unterstützungsunterschriften sind nach dem Muster
-    der Anlage 4 oder 5 beizufügen.
-
-
-
-
-Alle Angaben sind in Maschinenschrift oder in anderer gut leserlicher
-Schrift (vorzugsweise Druckbuchstaben) einzusetzen. Unterschriften
-sind eigenhändig zu vollziehen.
-
-
-### Anlage 2 (zu § 15 Abs. 1) Vorschlagsliste für die Wahl eines Verwaltungsrates
-
-(Fundstelle: BGBl. I 1998, 1898 - 1901;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
----------------  Kennwort: 1)
-.................................................
-I Ordnungs-   I  Listenvertreter: 2)
-..........................................
-I nummer:     I                        (Name, Vorname, Anschrift,
-Fernruf)
----------------
-..............................................................
-I Eingegangen I  Stellvertreter:
-..............................................
-I am:         I                        (Name, Vorname, Anschrift,
-Fernruf)
----------------
-..............................................................
-I (vom Wahl-  I  Erklärung: 3)
-................................................
-I ausschuß    I
-..............................................................
-I einzutragen)I
----------------
-An den
-Wahlausschuß
-der
-..................................................................
-(Bezeichnung der Krankenkasse)
-in ...................................................................
-.........
-(Anschrift)
-Vorschlagsliste
-......................................................................
-.........
-(Bezeichnung des Listenträgers) 4)
-für die Wahl zu dem Verwaltungsrat der
-......................................................................
-.........
-(Bezeichnung der Krankenkasse)
-Seite 2
-I. Vorschlagsliste bei Listenstellvertretung 5)
-Für die Gruppe der Versicherten/Arbeitgeber (Nichtzutreffendes ist
-zu streichen) werden vorgeschlagen als:
-Mitglieder: 6)
-----------------------------------------------------------------------
----------
-Lfd. I       Name        I   Geburtstag   I     Anschrift    I
-Voraussetzungen
-Nr.  I     Vornahme      I                I                  I der
-Wählbarkeit
-I                   I                I                  I 7)
-----------------------------------------------------------------------
----------
-1   I        2          I       3        I        4         I       5
-----------------------------------------------------------------------
----------
-1 I                   I                I                  I
-----------------------------------------------------------------------
----------
-2 I                   I                I                  I
-----------------------------------------------------------------------
----------
-3 I                   I                I                  I
-----------------------------------------------------------------------
----------
-4 I                   I                I                  I
-----------------------------------------------------------------------
----------
-5 I                   I                I                  I
-----------------------------------------------------------------------
----------
-6 I                   I                I                  I
-----------------------------------------------------------------------
----------
-Fortsetzung auf .......... Einlageblättern. 8)
-Stellvertreter: 9)
-----------------------------------------------------------------------
----------
-Lfd. I       Name        I   Geburtstag   I     Anschrift    I
-Voraussetzungen
-Nr.  I     Vorname       I                I                  I der
-Wählbarkeit
-I                   I                I                  I 7)
-----------------------------------------------------------------------
----------
-1   I        2          I       3        I        4         I       5
-----------------------------------------------------------------------
----------
-1 I                   I                I                  I
-----------------------------------------------------------------------
----------
-2 I                   I                I                  I
-----------------------------------------------------------------------
----------
-3 I                   I                I                  I
-----------------------------------------------------------------------
----------
-4 I                   I                I                  I
-----------------------------------------------------------------------
----------
-5 I                   I                I                  I
-----------------------------------------------------------------------
----------
-6 I                   I                I                  I
-----------------------------------------------------------------------
----------
-Fortsetzung auf .......... Einlageblättern. 8)
-Seite 3
-II. Vorschlagsliste bei persönlicher Stellvertretung 5)
-Für die Gruppe der Versicherten/Arbeitgeber (Nichtzutreffendes ist
-zu streichen) werden vorgeschlagen als:
-Mitglieder und Stellvertreter: 6) 9)
-----------------------------------------------------------------------
----------
-Lfd.Nr. Mitglied I                   I            I           I
-a) 1. Stell-     I       Name        I Geburtstag I Anschrift I
-Voraussetzungen
-vertreter  I     Vorname       I            I           I der
-Wählbarkeit
-b) 2. Stell-     I                   I            I           I 7)
-vertreter  I                   I            I           I
-----------------------------------------------------------------------
----------
-1        I        2          I     3      I     4     I        5
-----------------------------------------------------------------------
----------
-1           I                   I            I           I
---------------------------------------------------------------
-1 a           I                   I            I           I
---------------------------------------------------------------
-1 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-2           I                   I            I           I
---------------------------------------------------------------
-2 a           I                   I            I           I
---------------------------------------------------------------
-2 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-3           I                   I            I           I
---------------------------------------------------------------
-3 a           I                   I            I           I
---------------------------------------------------------------
-3 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-4           I                   I            I           I
---------------------------------------------------------------
-4 a           I                   I            I           I
---------------------------------------------------------------
-4 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-5           I                   I            I           I
---------------------------------------------------------------
-5 a           I                   I            I           I
---------------------------------------------------------------
-5 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-6           I                   I            I           I
---------------------------------------------------------------
-6 a           I                   I            I           I
---------------------------------------------------------------
-6 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-Fortsetzung auf .......... Einlageblättern. 8)             Die Liste
-umfaßt insgesamt .......... Blätter. 8) Erklärungen der Bewerber, daß
-sie ihrer Aufstellung zustimmen, sind beigefügt.
-Weiter sind beigefügt: 10) 11)
-................................................ .....................
-..........................................................
-Es wird ausdrücklich bestätigt, daß die Voraussetzungen der
-Wählbarkeit aller Bewerber geprüft worden sind, und zwar, soweit
-erforderlich, an Hand von Unterlagen. Die Prüfung hat ergeben, daß die
-Voraussetzungen der Wählbarkeit in der Person jedes Bewerbers
-vorliegen.
-..............., den ....................
-.........................................
-(Unterschriften der zur Vertretung der
-Personenvereinigung oder des Verbandes
-berechtigten Personen;
-bei freien Listen Unterschriften des
-Listenvertreters und der auf Seite 1
-genannten Stellvertreter des
-Listenvertreters)
-Seite 4
-Anmerkungen:
-
-1)  Als Kennwort ist bei Vorschlagslisten von Personenvereinigungen oder
-    Verbänden, die nach § 48 Abs. 1 Satz 1 Nr. 1 bis 3 oder Satz 2 des
-    Vierten Buches Sozialgesetzbuch vorschlagsberechtigt sind, der Name
-    der Personenvereinigung oder des Verbandes einzusetzen; der Name und
-    die Kurzbezeichnung der Vereinigung ist in der Form zu verwenden, wie
-    er sich bei eingetragenen Vereinen aus dem Vereinsregister, sonst aus
-    der Satzung ergibt; Zusätze sind unzulässig. Bei freien Listen (§ 48
-    Abs. 1 Satz 1 Nr. 4 des Vierten Buches Sozialgesetzbuch) ist der
-    Familienname eines Listenunterzeichners einzusetzen. Es können auch
-    die Namen mehrerer Personenvereinigungen oder Verbände und bei freien
-    Listen auch die Familiennamen mehrerer Listenunterzeichner eingesetzt
-    werden, insgesamt jedoch nicht mehr als fünf Familiennamen. Bei freien
-    Listen kann dem oder den Familiennamen ausschließlich der Zusatz
-    "Freie Liste" vorangestellt werden. Bei einer Vorschlagsliste von
-    mehreren Personenvereinigungen oder Verbänden soll statt einer oder
-    mehrerer ihrer Namen möglichst ein die Personenvereinigungen oder
-    Verbände gemeinsam bezeichnendes Kennwort eingesetzt werden. Ein
-    unzulässiges Kennwort wird vom Wahlausschuß von Amts wegen durch ein
-    zulässiges Kennwort ersetzt.
-
-
-2)  In den Vorschlagslisten von Personenvereinigungen oder Verbänden sind
-    ein Listenvertreter und sein Stellvertreter zu benennen (§ 16 Abs. 1
-    Satz 1 der Wahlordnung).
-
-    In freien Listen sollen ein Listenvertreter und sein Stellvertreter
-    benannt werden; soweit dies nicht geschieht oder ein Benannter
-    ausscheidet, gelten die Unterzeichner der Listen in der Reihenfolge
-    ihrer Unterschriften als Listenvertreter und sein Stellvertreter (§ 16
-    Abs. 2 der Wahlordnung).
-
-
-3)  Soll ein Listenvertreter Erklärungen nur gemeinsam mit seinem
-    Stellvertreter abgeben können (§ 17 Abs. 1 Satz 5 der Wahlordnung),
-    ist hier einzusetzen: "Der Listenvertreter kann Erklärungen nur
-    gemeinsam mit seinem Stellvertreter abgeben."
-
-
-4)  Als Listenträger (§ 60 Abs. 1 Satz 1 des Vierten Buches
-    Sozialgesetzbuch) ist die Stelle zu bezeichnen, die die Listen
-    einreicht (Name der Personenvereinigung oder des Verbandes; bei freien
-    Listen ist das Kennwort einzusetzen). Wird die Liste von mehreren
-    Personenvereinigungen oder Verbänden eingereicht, sind deren Namen
-    einzusetzen.
-
-
-5)  Die Vorschlagslisten zu I. oder II. sind alternativ auszufüllen. Die
-    jeweils nicht genutzten Teile sind zu streichen.
-
-
-6)  Zu beachten ist § 48 Abs. 6 Satz 1 des Vierten Buches
-    Sozialgesetzbuch; danach dürfen die Vorschlagslisten als Mitglieder
-    der Selbstverwaltungsorgane und deren Stellvertreter von jeweils drei
-    Personen nur einen Beauftragten enthalten.
-
-
-7)  Angabe der im Einzelfall vorliegenden Voraussetzung, z.B.
-    Versicherter, Arbeitgeber, Beauftragter einer Gewerkschaft, einer
-    sonstigen Arbeitnehmervereinigung, einer Vereinigung von Arbeitgebern
-    oder eines Verbandes. Ergänzend siehe § 51 Abs. 4 Satz 1 des Vierten
-    Buches Sozialgesetzbuch.
-
-
-8)  Bitte Zahlen einsetzen.
-
-
-9)  Die Reihenfolge der Stellvertreter ist so festzulegen, daß erst jeder
-    dritte Stellvertreter zu den Beauftragten gehört (§ 48 Abs. 6 Satz 2
-    des Vierten Buches Sozialgesetzbuch). Als Stellvertreter können auch
-    Personen benannt werden, die bereits als Mitglieder vorgeschlagen
-    worden sind; die Benennung erlangt nur Bedeutung, wenn diese Personen
-    nicht als Mitglieder gewählt werden. Zu beachten ist § 43 Abs. 2 Satz
-    2 des Vierten Buches Sozialgesetzbuch. Danach ist für ein verhindertes
-    Mitglied stets der erste der benannten Stellvertreter zu laden, der
-    verfügbar, d.h. selbst nicht verhindert ist.
-
-
-10) Die Vorschlagsberechtigung eines Verbandes (§ 48 Abs. 1 Satz 2 SGB IV)
-    liegt vor, wenn alle oder mindestens drei der vorschlagsberechtigten
-    Mitgliedsorganisationen bis zum Ende der Einreichungsfrist eigene
-    Vorschlagslisten nicht eingereicht haben.
-
-    Bei Vorschlagslisten von Vereinigungen, deren Vertreter in dem
-    Verwaltungsrat nicht auf einer eigenen Liste der Vereinigung gewählt
-    worden sind, ist § 15 Abs. 4 Satz 3 der Wahlordnung zu beachten.
-
-
-11) Den Vorschlagslisten, die nach § 48 Abs. 2 bis 5 des Vierten Buches
-    Sozialgesetzbuch von einer Mindestzahl von Wahlberechtigten
-    unterzeichnet sein müssen, können, um Zweifel auszuschließen,
-    Erklärungen des Listenvertreters über die Voraussetzungen der
-    Wahlberechtigung der Listenunterzeichner nach dem Muster der Anlage 8
-    zur Wahlordnung beigefügt werden.
-
-    Die erforderlichen Unterstützungsunterschriften sind nach dem Muster
-    der Anlage 4 beizufügen.
-
-
-
-
-Alle Angaben sind in Maschinenschrift oder in anderer gut leserlicher
-Schrift (vorzugsweise Druckbuchstaben) einzusetzen. Unterschriften
-sind eigenhändig zu vollziehen.
-
-
-### Anlage 3
-
-(weggefallen)
-
-
-### Anlage 4 (zu § 15 Abs. 1 und § 65 Abs. 1) Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-15 u. 16;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Vorschlagsliste der ....................                    Blatt Nr.
-.........
-zur Wahl der Vertreterversammlung/des Verwaltungsrates der
-....................
-Auszug aus der - bei der Unterschriftensammlung
-vorzulegenden - vollständigen Vorschlagsliste 1)
-(Name)             (Vorname)           (Anschrift)
-Wahlbewerber: 1.
-..............................................................
-2\. ..............................................................
-3\. ..............................................................
-4\. ..............................................................
-5\. ..............................................................
-6\. ..............................................................
-Listenvertreter:
-..............................................................
-Die vollständige Vorschlagsliste enthält .... Wahlbewerber
-Ich bestätige, dass mir die vollständige Vorschlagsliste vorgelegen
-hat
-und unterstütze hiermit diese Vorschlagsliste
-----------------------------------------------------------------------
----------
-I   Name, Vorname   I                I Geburts-  I Wahl-      I  Datum
-Lfd. I                   I   Anschrift    I datum     I berechtigt I
-und
-Nr.  I                   I                I Vers.-Nr. I als     3) I
-Unter-
-I                   I                I 2)        I            I
-schrift
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-1   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-2   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-3   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-4   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-5   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-Die Unterstützerliste besteht aus .......... Blättern. 4)
-Seite 2
-Handlungsanweisungen an den
-Listenvertreter bzw. Listenträger             Alle Angaben sind in
-Maschinenschrift oder in anderer gut leserlicher Schrift (vorzugsweise
-Druckbuchstaben) einzusetzen. Unterschriften sind eigenhändig zu
-vollziehen.
-
-1)  Bei der Unterschriftensammlung ist dem Listenunterzeichner die
-    vollständige Vorschlagsliste vorzulegen.
-
-
-2)  Angabe der Versicherungsnummer nur bei Wahlen in der gesetzlichen
-    Rentenversicherung in der Gruppe der Versicherten.
-
-    Bei Versicherten, die noch keine Versicherungsnummer erhalten haben,
-    ist Angabe notwendig, ob Antrag auf Vergabe einer Versicherungsnummer
-    gestellt wurde.
-
-    Neben der Versicherungsnummer braucht das Geburtsdatum nicht angegeben
-    zu werden.
-
-
-3)  Angabe der im Einzelfall vorliegenden Voraussetzung (z.B.
-    Versicherter, Rentner oder Arbeitgeber).
-
-
-4)  Die Zahl ist nach Abschluß der Unterschriftensammlung einzusetzen.
-
-
-
-
-
-### Anlage 5 (zu § 15 Abs. 1) Unterstützerliste bei Trägern der Unfallversicherung
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-17 u. 18;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Vorschlagsliste der ....................                    Blatt Nr.
-.........
-zur Wahl der Vertreterversammlung der
-.........................................
-Auszug aus der - bei der Unterschriftensammlung
-vorzulegenden - vollständigen Vorschlagsliste 1)
-(Name)             (Vorname)           (Anschrift)
-Wahlbewerber: 1.
-..............................................................
-2\. ..............................................................
-3\. ..............................................................
-4\. ..............................................................
-5\. ..............................................................
-6\. ..............................................................
-Listenvertreter:
-..............................................................
-die vollständige Vorschlagsliste enthält .... Wahlbewerber
-Ich bestätige, dass mir die vollständige Vorschlagsliste vorgelegen
-hat
-und unterstütze hiermit diese Vorschlagsliste
-----------------------------------------------------------------------
----------
-I   Name, Vorname   I                I Geburts-  I Wahl-      I  Datum
-Lfd. I                   I   Anschrift    I datum     I berechtigt I
-und
-Nr.  I                   I                I Arbeit-   I als     3) I
-Unter-
-I                   I                I geber 2)  I            I
-schrift
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-1   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-2   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-3   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-4   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-I                   I                I           I            I
-5   ------------------------------------------------------------------
---------
-I                   I                I           I            I
-----------------------------------------------------------------------
----------
-Die Unterstützerliste besteht aus .......... Blättern. 4)
-Seite 2
-Handlungsanweisungen an den
-Listenvertreter bzw. Listenträger             Alle Angaben sind in
-Maschinenschrift oder in anderer gut leserlicher Schrift (vorzugsweise
-Druckbuchstaben) einzusetzen. Unterschriften sind eigenhändig zu
-vollziehen.
-
-1)  Bei der Unterschriftensammlung ist dem Listenunterzeichner die
-    vollständige Vorschlagsliste vorzulegen.
-
-
-2)  Angabe des Arbeitgebers in der gesetzlichen Unfallversicherung nur in
-    der Gruppe der Versicherten.
-
-    Angabe des Arbeitgebers entfällt bei Rentnern (Bezieher einer
-    Unfallrente). Anzugeben ist die Betriebs- oder Mitgliedsnummer des
-    Arbeitgebers oder Selbständigen ohne fremde Arbeitskräfte, bei
-    Rentnern die Renten- oder Unfallversicherungsnummer.
-
-
-3)  Angabe der im Einzelfall vorliegenden Voraussetzung (z.B.
-    Versicherter, Arbeitgeber, Selbständiger ohne fremde Arbeitskräfte).
-
-
-4)  Die Zahl ist nach Abschluß der Unterschriftensammlung einzusetzen.
-
-
-
-
-
-### Anlage 6 (zu § 15 Abs. 4 und § 65 Abs. 2) Zustimmungserklärung von Bewerberinnen/Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates
-
-(Fundstelle: BGBl. I 1998, 1902)
-............................. 1)
-........................... 1)
-(Name und Vorname der Bewerberin/                (Kennwort der
-Vorschlagsliste)
-des Bewerbers)
-Zustimmungserklärung
-Meiner Aufstellung als Bewerberin/Bewerber für die Wahl
-zur Vertreterversammlung/zum Verwaltungsrat
-der/des
-....................................................................
-1)
-stimme ich zu.
-...................., den ...............
-..............................
-(eigenhändige Unterschrift)
------
-
-1)  Diese Angaben sind in Maschinenschrift oder in anderer gut leserlicher
-    Schrift (vorzugsweise Druckbuchstaben) einzusetzen.
-
-
-
-
-
-### Anlage 7
-
-(weggefallen)
-
-
-### Anlage 8 (zu § 15 Abs. 4) Erklärung des Listenvertreters über das Wahlrecht
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-21)
-...........................................
-..............................
-(Name und Vorname des Listenunterzeichners)      (Kennwort der
-Vorschlagsliste)
-Erklärung über das Wahlrecht
-bei der/dem
-...................................................................
-(Bezeichnung des Versicherungsträgers)
-Der Listenunterzeichner
-.......................................................
-(Name und Vorname)
-a) ist bei .......................................... als
-Arbeiter/Angestellter
-(Bezeichnung des Arbeitgebers)
-beschäftigt und unterliegt der Versicherungspflicht.
-b) bezieht Rente von
-..........................................................
-(Bezeichnung des Versicherungsträgers)
-c) ist Inhaber des/der ........................................ und
-beschäftigt
-(Bezeichnung des Betriebes)
-regelmäßig mindestens einen bei der/dem
-....................................
-(Bezeichnung des Versicherungsträgers)
-versicherungspflichtigen Arbeitnehmer.
-d) ...................................................................
-.........
-......................................................................
-......
-(Voraussetzungen für das Wahlrecht, wenn a bis c nicht zutreffen)
-Es wird ausdrücklich bestätigt, daß die Voraussetzungen des Wahlrechts
-geprüft worden sind, und zwar, soweit erforderlich, an Hand von
-Unterlagen.
-Die Prüfung hat ergeben, daß die Voraussetzungen des Wahlrechts in der
-Person des Listenunterzeichners vorliegen.
-...................., den ...............
-..............................
-(eigenhändige Unterschrift)
-......................................................................
-.........
-
-
-### Anlage 9 (zu § 41 Abs. 1) Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten)
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-22 bis 23;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-------------------------------------------
-I  ....................................  I
-I (Bezeichnung des Versicherungsträgers) I
-I Gruppe der Versicherten                I
-------------------------------------------
-Wahlausweis
-für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
-im Jahre ....
-------------------------------------------------------------
-I Herr/Frau .............................................. I
-I geb. am ................................................ I
-I Straße ................................................. I
-I Postleitzahl, Wohnort .................................. I
-------------------------------------------------------------
-kann gegen Abgabe dieses Wahlausweises an der Wahl teilnehmen.
-...................., den ..............
-(Stempel der
-........................................
-Ausgabestelle)                            (Unterschrift des
-Ausstellers)
-Verlorene Wahlausweise können nicht ersetzt werden.
-----------------------------------------------------------
-I Bitte Rückseite und das beigefügte Merkblatt beachten! I
-----------------------------------------------------------
------------------------------- (hier abtrennen)
--------------------------------
-------------------------------------------
---------------------------------
-I  ....................................  I     I
-............................ I
-I (Bezeichnung des Versicherungsträgers) I     I
-(Wahlkennziffer)      I
-I Gruppe der Versicherten                I     I
-I
-------------------------------------------
---------------------------------
-Stimmzettel
-für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
-im Jahre ....
-Die Listenträger stehen mit Versicherungsträgern in keiner
-organisatorischen
-Verbindung. Dies gilt auch, wenn sie den Namen oder die
-Kurzbezeichnung
-der .......... in ihrem Namen führen. +)
-----------------------------------------------------------------------
----------
-I  Listen-  I  Verbunden ++)  I                                I   Nur
-eine   I
-I  nummer   I       mit       I  Kennwort der Vorschlagsliste  I
-Liste    I
-I           I    Liste Nr.    I                                I
-ankreuzen  I
-----------------------------------------------------------------------
----------
-I           I                 I                                I
--------    I
-I           I                 I                                I   I
-I    I
-I           I                 I                                I
--------    I
-----------------------------------------------------------------------
----------
-I           I                 I                                I
--------    I
-I           I                 I                                I   I
-I    I
-I           I                 I                                I
--------    I
-----------------------------------------------------------------------
----------
------
-
-+)  Satz 2 entfällt, wenn in den Kennworten kein Name oder keine
-    Kurzbezeichnung eines Versicherungsträgers enthalten ist. Andernfalls
-    ist der Name dieses Versicherungsträgers/dieser Versicherungsträger
-    einzusetzen.
-
-
-++) Diese Spalte kann durch entsprechende Angaben in einer Fußnote ersetzt
-    werden, auf die durch eine Kennzeichnung der Listennummern hinzuweisen
-    ist.
-
-
-
-Seite 2             Der Stimmzettel darf nur von dem in dem
-Wahlausweis bezeichneten Wahlberechtigten gekennzeichnet werden. Ein
-Wähler, der des Lesens unkundig oder durch körperliche Gebrechen an
-der Stimmabgabe behindert ist, kann sich bei der Kennzeichnung des
-Stimmzettels einer Person seines Vertrauens bedienen.
-Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
-herbeiführt oder das Ergebnis verfälscht, wird nach § 107 a in
-Verbindung mit § 108d des Strafgesetzbuches mit Freiheitsstrafe bis zu
-fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
-
-
-### Anlage 10 (zu § 41 Abs. 1) Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber)
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-24 u. 25;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-------------------------------------------
-I  ....................................  I
-I (Bezeichnung des Versicherungsträgers) I
-I Gruppe der Arbeitgeber                 I
-------------------------------------------
-Wahlausweis
-für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
-im Jahre ....
-------------------------------------------------------------
-I Herr/Frau .............................................. I
-I Firma/Dienststelle ..................................... I
-I geb. am ................................................ I
-I Straße ................................................. I
-I Postleitzahl, Wohnort .................................. I
-------------------------------------------------------------
-kann gegen Abgabe dieses Wahlausweises an der Wahl teilnehmen.
-...................., den ..............
-(Stempel der
-........................................
-Ausgabestelle)                            (Unterschrift des
-Ausstellers)
-Verlorene Wahlausweise können nicht ersetzt werden.
-----------------------------------------------------------
-I Bitte Rückseite und das beigefügte Merkblatt beachten! I
-----------------------------------------------------------
------------------------------- (hier abtrennen)
--------------------------------
-------------------------------------------
---------------------------------
-I  ....................................  I     I       -------------
-I
-I (Bezeichnung des Versicherungsträgers) I     I Wert  I           I
-Stimmen I
-I Gruppe der Arbeitgeber                 I     I       -------------
-I
-------------------------------------------
---------------------------------
-Stimmzettel
-für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
-im Jahre ....
-Die Listenträger stehen mit Versicherungsträgern in keiner
-organisatorischen
-Verbindung. Dies gilt auch, wenn sie den Namen oder die
-Kurzbezeichnung
-der .......... in ihrem Namen führen. +)
-----------------------------------------------------------------------
----------
-I  Listen-  I  Verbunden ++)  I                                I   Nur
-eine   I
-I  nummer   I       mit       I  Kennwort der Vorschlagsliste  I
-Liste    I
-I           I    Liste Nr.    I                                I
-ankreuzen  I
-----------------------------------------------------------------------
----------
-I           I                 I                                I
--------    I
-I           I                 I                                I   I
-I    I
-I           I                 I                                I
--------    I
-----------------------------------------------------------------------
----------
-I           I                 I                                I
--------    I
-I           I                 I                                I   I
-I    I
-I           I                 I                                I
--------    I
-----------------------------------------------------------------------
----------
------
-
-+)  Satz 2 entfällt, wenn in den Kennworten kein Name oder keine
-    Kurzbezeichnung eines Versicherungsträgers enthalten ist. Andernfalls
-    ist der Name dieses Versicherungsträgers/dieser Versicherungsträger
-    einzusetzen.
-
-
-++) Diese Spalte kann durch entsprechende Angaben in einer Fußnote ersetzt
-    werden, auf die durch eine Kennzeichnung der Listennummern hinzuweisen
-    ist.
-
-
-
-Seite 2             Der Stimmzettel darf nur von dem in dem
-Wahlausweis bezeichneten Wahlberechtigten gekennzeichnet werden. Ein
-Wähler, der des Lesens unkundig oder durch körperliche Gebrechen an
-der Stimmabgabe behindert ist, kann sich bei der Kennzeichnung des
-Stimmzettels einer Person seines Vertrauens bedienen.
-Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
-herbeiführt oder das Ergebnis verfälscht, wird nach § 107a in
-Verbindung mit § 108d des Strafgesetzbuches mit Freiheitsstrafe bis zu
-fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
-
-
-### Anlage 11
-
-(weggefallen)
-
-
-### Anlage 12 (zu § 41 Abs. 4) Stimmzettelumschlag
-
-Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-28;
-bzgl. der einzelnen Änderungen vgl. Fußnote
-
-*    *   (Vorderseite)
-
-
-*    *   Stimmzettelumschlag
-
-
-*    *   1.
-
-    *   Falls Wahlausweis und Stimmzettel verbunden, bitte trennen.
-
-
-*    *   2.
-
-    *   Stimmzettel unbeobachtet kennzeichnen.
-
-
-*    *   3.
-
-    *   Stimmzettel in diesen Umschlag legen - Umschlag zukleben.
-
-
-*    *   4.
-
-    *   Diesen Umschlag und den Wahlausweis in den roten Wahlbriefumschlag
-        legen.
-
-
-*    *   5.
-
-    *   Wahlbriefumschlag zukleben und unfrankiert möglichst sofort absenden.
-
-
-*    *   6.
-
-    *   Der Wahlbrief muß spätestens am .................... +)
-
-
-*    *
-    *   bei dem Versicherungsträger eingegangen sein.
-
-
-*    *   (Rückseite)
-
-
-*    *   Nur den Stimmzettel einlegen !
-
-
-*    *   (Den Wahlausweis vorher vom Stimmzettel abtrennen und neben diesen
-        Umschlag in den roten Wahlbriefumschlag legen!) ++)
-
-
-*    *
-
-*    *
-
-*    *
-
-
-
-+)  Einzusetzen ist das Datum des Wahltags.
-
-
-++) Wenn Wahlausweis und Stimmzettel nicht verbunden sind, ist statt
-    dessen folgender Text einzusetzen: "(Den Wahlausweis neben diesen
-    Umschlag in den roten Wahlbriefumschlag legen!)"
-
-
-
-
-
-### Anlage 13 (zu § 41 Abs. 4) Wahlbriefumschlag
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-29;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-(Vorderseite) ++)
-----------------------------------------------------------------------
----------
-I  Wahlbriefumschlag
----------------------  I
-I      Briefwahl                                       I
-Unentgeltlich   I  I
-I  Sozialversicherung                                  I   im Bereich
-der  I  I
-I                                                      I Deutschen
-Post AG I  I
-I
----------------------  I
-I
-..............................+) I
-I
-..............................   I
-I
-..............................   I
-I
-I
-----------------------------------------------------------------------
----------
-(Rückseite) ++)
-----------------------------------------------------------------------
----------
-I                   In diesen Wahlbriefumschlag einlegen
-I
-I          1. den zugeklebten Stimmzettelumschlag, mit dem darin
-I
-I             befindlichen Stimmzettel und
-I
-I          2. den Wahlausweis.
-I
-I
-I
-I             Dann Umschlag zukleben und möglichst sofort
-I
-I                        unfrankiert absenden.
-I
-I
-I
-I
-I
-I
-I
-----------------------------------------------------------------------
----------
------
-
-+)  Bezeichnung des Versicherungsträgers und Anschrift der Stelle, der die
-    Wahlbriefe zugehen sollen (§ 41 Abs. 4 Satz 3 und 4) in Druck- oder
-    Maschinenschrift.
-
-
-++) Bei der Verwendung personenbezogener Kennzeichnungen als Wahlausweise
-    ist § 42 Abs. 3 zu beachten. Es ist die Maschinenfähigkeit zu beachten
-    (insbesondere Farbton, Papier und Codierzone). Im Vorfeld sollten die
-    Sendungen mit dem Automationsbeauftragten Brief (ABB) der Deutschen
-    Post AG abgestimmt werden.
-
-
-
-
-
-### Anlage 14 (zu § 3 Abs. 9 i.V.m. § 58 Abs. 5) Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung
-
-(Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
-30 bis 36;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Der Wahlausschuß des/der
-......................................................
-trat am .......... in .......... in öffentlicher Sitzung zusammen.
-Als Mitglieder des Wahlausschusses waren erschienen:
-.................... als Vorsitzender,
-.................... als Beisitzer,
-.................... als Beisitzer,
-.................... als Beisitzer,
-.................... als Beisitzer,
-.................... als stellvertretender Vorsitzender.
-Der Wahlausschuß ermittelte aufgrund der Wahlniederschriften
-folgendes Wahlergebnis:
-Zahl der Wahlbriefe
-Zunächst wurde festgestellt, wie viele Wahlbriefumschläge insgesamt
-eingegangen sind und wie viele davon nicht durch die Post
-befördert worden sind.
-Der Wahlausschuß gelangte zu folgendem Ergebnis:
-Zahl der durch die Post beförderten
-Wahlbriefumschläge
-.............................
-Zahl der nicht durch die Post beförderten
-Wahlbriefumschläge
-.............................
-Gesamtzahl der
-Wahlbriefumschläge
------------------------------
-Die Ermittlung des Wahlergebnisses für die Gruppe der
-.........................
-............................................................. ergab
-folgendes:
-1\. Für .......... Wahlberechtigte wurde ein Wahlausweis ausgestellt.
-2\. Insgesamt wurden .......... Stimmen abgegeben.
-Davon waren .......... Stimmen gültig.
-.......... Stimmen ungültig.
-Seite 2
-Die Wahlbeteiligung (Verhältnis der Zahl der insgesamt abgegebenen
-Stimmen zur Zahl der Wahlberechtigten, für die ein Wahlausweis
-ausgestellt wurde) betrug somit .......... vom Hundert.
-3\. Zahl der für jede Vorschlagsliste abgegebenen gültigen Stimmen und
-Prozentsatz der auf jede Vorschlagsliste entfallenen gültigen Stimmen:
-1)
-----------------------------------------------------------------------
----------
-I                                                 I  Stimmen  I
-Prozentsatz  I
-----------------------------------------------------------------------
----------
-I  Liste   1 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   2 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   3 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   4 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   5 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   6 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   7 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   8 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste   9 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste  10 (.................................)  I           I
-I
-----------------------------------------------------------------------
----------
-I                                       zusammen  I           I
-100       I
-----------------------------------------------------------------------
----------
-4\. Zahl der für jede Listenverbindung abgegebenen gültigen Stimmen und
-Prozentsatz der auf jede Listenverbindung entfallenen gültigen
-Stimmen:
-----------------------------------------------------------------------
----------
-I                                                 I  Stimmen  I
-Prozentsatz  I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.....................)  I           I
-I
-I  und                                            I           I
-I
-I  Liste ............... (.....................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.....................)  I           I
-I
-I  und                                            I           I
-I
-I  Liste ............... (.....................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.....................)  I           I
-I
-I  und                                            I           I
-I
-I  Liste ............... (.....................)  I           I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.....................)  I           I
-I
-I  und                                            I           I
-I
-I  Liste ............... (.....................)  I           I
-I
-----------------------------------------------------------------------
----------
------
-1) Hier sind sämtliche Listen, auch verbundene Listen, einzeln
-aufzuführen.
-Seite 3
-5\. Übersicht über die Vorschlagslisten und Listenverbindungen, die an
-der Sitzverteilung nicht teilnehmen, weil sie nicht mindestens fünf
-vom Hundert der abgegebenen gültigen Stimmen erhalten haben:
-----------------------------------------------------------------------
----------
-I                                         I  gültige Stimmen  I
-Prozentsatz  I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-I  und                                    I                   I
-I
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-I  und                                    I                   I
-I
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-I  und                                    I                   I
-I
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-I  Liste ............... (.............)  I                   I
-I
-I  und                                    I                   I
-I
-I  Liste ............... (.............)  I                   I
-I
-----------------------------------------------------------------------
----------
-Seite 4
-6\. Berechnung der Höchstzahlen und Verteilung der Sitze für die
-einzelnen Listen und Listenverbindungen, die mindestens fünf
-vom Hundert der abgegebenen gültigen Stimmen erhalten haben:
-----------------------------------------------------------------------
----------
-I         I  Liste ............ I  Liste ............. I  Liste
-............. I
-I geteilt
----------------------------------------------------------------------
-I durch   I Höchst- I Sitz Nr.  I  Höchst- I  Sitz Nr. I  Höchst- I
-Sitz Nr. I
-I         I  zahl   I (Stelle)  I   zahl   I  (Stelle) I   zahl   I
-(Stelle) I
-----------------------------------------------------------------------
----------
-I   1     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   2     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   3     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   4     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   5     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   6     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   7     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   8     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I   9     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-I  10     I         I           I          I           I          I
-I
-----------------------------------------------------------------------
----------
-Zahl d. I           I Zahl d.  I           I Zahl d.  I           I
-Sitze  I           I  Sitze   I           I  Sitze   I           I
--------------          -------------          -------------
-Da die für die Zuteilung des letzten Sitzes maßgebende Höchstzahl
-.......... auf die Liste/Listenverbindung .......... und die
-Liste/Listenverbindung .......... entfiel, wurde durch das Los
-entschieden, daß der auf diese Höchstzahl entfallende Sitz der
-Liste/Listenverbindung .......... zuzuteilen war.
-Da die Liste/Listenverbindung .......... weniger Vorschläge enthielt,
-als Höchstzahlen auf sie entfielen, gingen ihre Stellen insoweit auf
-die folgenden Höchstzahlen der anderen Listen/Listenverbindungen über.
-Seite 5
-7\. Berechnung der Höchstzahlen und Verteilung der Sitze für die
-einzelnen Listen von Listenverbindungen:
----------------------------------------------------------------------
-I           I  Liste .................. I  Liste .................. I
-I  geteilt  ---------------------------------------------------------
-I   durch   I  Höchstzahl  I  Sitz Nr.  I  Höchstzahl  I  Sitz Nr.  I
-I           I              I  (Stelle)  I              I  (Stelle)  I
----------------------------------------------------------------------
-I    1      I              I            I              I            I
----------------------------------------------------------------------
-I    2      I              I            I              I            I
----------------------------------------------------------------------
-I    3      I              I            I              I            I
----------------------------------------------------------------------
-I    4      I              I            I              I            I
----------------------------------------------------------------------
-I    5      I              I            I              I            I
----------------------------------------------------------------------
-Zahl der    I            I  Zahl der    I            I
-Sitze  I            I       Sitze  I            I
---------------              --------------             Da die für die
-Zuteilung des letzten Sitzes maßgebende Höchstzahl .......... auf die
-Liste .......... und die Liste .......... entfiel, wurde durch das Los
-entschieden, daß der auf diese Höchstzahl entfallende Sitz der Liste
-.......... zuzuteilen war.
-Da die Liste .......... weniger Vorschläge enthielt, als Höchstzahlen
-auf sie entfielen, gingen ihre Stellen insoweit auf die folgenden
-Höchstzahlen der anderen Liste über.
-8\. Gewählte Bewerber
-a) Mitglieder der Vertreterversammlung/des Verwaltungsrates:
-----------------------------------------------------------------------
----------
-I  Liste ................ I  Liste ................. I  Liste
-............... I
-----------------------------------------------------------------------
----------
-I  Sitz Nr.  I Name des   I  Sitz Nr.  I Name des    I  Sitz Nr.  I
-Name des  I
-I  (Stelle)  I Gewählten  I  (Stelle)  I Gewählten   I  (Stelle)  I
-Gewählten I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-Seite 6
-----------------------------------------------------------------------
----------
-I  Liste ................ I  Liste ................. I  Liste
-............... I
-----------------------------------------------------------------------
----------
-I  Sitz Nr.  I Name des   I  Sitz Nr.  I Name des    I  Sitz Nr.  I
-Name des  I
-I  (Stelle)  I Gewählten  I  (Stelle)  I Gewählten   I  (Stelle)  I
-Gewählten I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------
-I            I            I            I             I            I
-I
-----------------------------------------------------------------------
----------             Die Sitze Nr. ..... sind mit Beauftragten
-besetzt. 2)
-Für die Sitze Nr. ..... und Nr. ..... von der Liste ..... und der
-Liste ..... waren gleiche Höchstzahlen erzielt worden. In beiden
-Listen war nach der Reihenfolge der aufgeführten Bewerber der nächste
-zum Zuge kommende Bewerber ein Beauftragter. Unter Berücksichtigung
-der zulässigen Höchstzahl von Beauftragten konnte aber nur noch ein
-Sitz mit einem Beauftragten besetzt werden. Deshalb wurde durch das
-Los entschieden, daß Sitz Nr. ..... von Liste ..... mit einem
-Beauftragten zu besetzen war.
-b) Stellvertreter
-----------------------------------------------------------------------
----------
-I  Liste ................ I  Liste ................. I  Liste
-............... I
-----------------------------------------------------------------------
----------
-I   Name des Gewählten    I   Name des Gewählten     I   Name des
-Gewählten   I
-----------------------------------------------------------------------
----------
-I                         I                          I
-I
-----------------------------------------------------------------------
----------
-I                         I                          I
-I
-----------------------------------------------------------------------
----------
-I                         I                          I
-I
-----------------------------------------------------------------------
----------
-I                         I                          I
-I
-----------------------------------------------------------------------
----------
-I                         I                          I
-I
-----------------------------------------------------------------------
----------
------
-
-2)  Zulässigen Anteil der Beauftragten an der Gesamtzahl der
-    Organmitglieder (§ 51 Abs. 4 des Vierten Buches Sozialgesetzbuch)
-    beachten (vgl. § 58 Abs. 4 Satz 2 SVWO).
-
-
-3)  (weggefallen).
-
-
-
-Seite 7
-Beschlüsse des Wahlausschusses; besondere Vorfälle
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-...................., den ..........
-..............................
-(Vorsitzender)
-....................         ....................
-.....................
-(Beisitzer)                  (Beisitzer)                  (Beisitzer)
-....................         ....................
-(Beisitzer)                  (Beisitzer)
-
-
-### Anlage 15
-
-(weggefallen)
-
-
-### Anlage 16
-
-(weggefallen)
-
-
-### Anlage 17
-
-(weggefallen)
-
-
-### Anlage 18 (zu § 77 Abs. 3 Satz 1) Vorschlagsliste für die Wahl eines - ehrenamtlichen - Vorstandes
-
-(Fundstelle: BGBl. I 1998, 1904 - 1906;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Kennwort:
-.....................................................................
-Listenvertreter: 1)
-...........................................................
-(Name, Vorname, Anschrift, Fernruf)
-......................................................................
-.........
-Stellvertreter:
-1).............................................................
-(Name, Vorname, Anschrift, Fernruf)
-......................................................................
-.........
-weitere Stellvertreter:
-.......................................................
-(Name, Vorname, Anschrift, Fernruf)
-......................................................................
-.........
-Vorschlagsliste
-......................................................................
-.........
-(Bezeichnung des Listenträgers)
-für die Wahl zum - ehrenamtlichen - Vorstand der/des
-......................................................................
-.........
-(Bezeichnung des Versicherungsträgers)
-Seite 2
-I. Vorschlagsliste bei Listenstellvertretung 2)
-Für die Gruppe der Versicherten/Arbeitgeber/Selbständigen ohne fremde
-Arbeitskräfte (Nichtzutreffendes ist zu streichen) werden
-vorgeschlagen als:
-Mitglieder:
-----------------------------------------------------------------------
----------
-I                   I   Geburtstag   I                  I
-Lfd. I       Name        I Versicherungs- I     Anschrift    I
-Voraussetzungen
-Nr.  I     vorname       I    nummer 3)   I                  I der
-Wählbarkeit
-I                   I  Arbeitgeber 4)I                  I 5)
-----------------------------------------------------------------------
----------
-1   I        2          I       3        I        4         I       5
-----------------------------------------------------------------------
----------
-1 I                   I                I                  I
-----------------------------------------------------------------------
----------
-2 I                   I                I                  I
-----------------------------------------------------------------------
----------
-3 I                   I                I                  I
-----------------------------------------------------------------------
----------
-4 I                   I                I                  I
-----------------------------------------------------------------------
----------
-5 I                   I                I                  I
-----------------------------------------------------------------------
----------
-Fortsetzung auf                Einlageblättern. 6)
-Stellvertreter:
-----------------------------------------------------------------------
----------
-I                   I   Geburtstag   I                  I
-Lfd. I       Name        I Versicherungs- I     Anschrift    I
-Voraussetzungen
-Nr.  I     Vorname       I    nummer 3)   I                  I der
-Wählbarkeit
-I                   I  Arbeitgeber 4)I                  I 5)
-----------------------------------------------------------------------
----------
-1   I        2          I       3        I        4         I       5
-----------------------------------------------------------------------
----------
-1 I                   I                I                  I
-----------------------------------------------------------------------
----------
-2 I                   I                I                  I
-----------------------------------------------------------------------
----------
-3 I                   I                I                  I
-----------------------------------------------------------------------
----------
-4 I                   I                I                  I
-----------------------------------------------------------------------
----------
-5 I                   I                I                  I
-----------------------------------------------------------------------
----------
-Fortsetzung auf               Einlageblättern. 6)
-Seite 3
-II. Vorschlagsliste bei persönlicher Stellvertretung 2)
-Für die Gruppe der Versicherten/Arbeitgeber/Selbständigen ohne fremde
-Arbeitskräfte (Nichtzutreffendes ist zu streichen) werden
-vorgeschlagen als:
-Mitglieder und Stellvertreter:
-----------------------------------------------------------------------
----------
-Lfd.Nr. Mitglied I                   I Geburtstag I           I
-a) 1. Stell-     I       Name        I Versicherungs-         I
-Voraussetzungen
-vertreter  I     Vorname       I nummer 3)  I Anschrift I der
-Wählbarkeit
-b) 2. Stell-     I                   I Arbeitgeber            I 5)
-vertreter  I                   I 4)         I           I
-----------------------------------------------------------------------
----------
-1        I        2          I     3      I     4     I        5
-----------------------------------------------------------------------
----------
-1           I                   I            I           I
---------------------------------------------------------------
-1 a           I                   I            I           I
---------------------------------------------------------------
-1 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-2           I                   I            I           I
---------------------------------------------------------------
-2 a           I                   I            I           I
---------------------------------------------------------------
-2 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-3           I                   I            I           I
---------------------------------------------------------------
-3 a           I                   I            I           I
---------------------------------------------------------------
-3 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-4           I                   I            I           I
---------------------------------------------------------------
-4 a           I                   I            I           I
---------------------------------------------------------------
-4 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-5           I                   I            I           I
---------------------------------------------------------------
-5 a           I                   I            I           I
---------------------------------------------------------------
-5 b           I                   I            I           I
-----------------------------------------------------------------------
----------
-Fortsetzung auf             Einlageblättern. 6)
-Erklärungen der Bewerber, daß sie ihrer Aufstellung zustimmen, sind
-beigefügt. 7)
-Es wird ausdrücklich bestätigt, daß die Voraussetzungen der
-Wählbarkeit aller Bewerber geprüft worden sind, und zwar, soweit
-erforderlich, an Hand von Unterlagen. Die Prüfung hat ergeben, daß die
-Voraussetzungen der Wählbarkeit in der Person jedes Bewerbers
-vorliegen.
-..............., den ....................
-......................................................................
-.........
-(Unterschriften von zwei Mitgliedern der Gruppe der
-Vertreterversammlung, für die sie gelten sollen) 8)
------
-
-1)  Die Benennung des Listenvertreters und seines Stellvertreters ist
-    unbedingt erforderlich, da ansonsten die Liste ungültig ist (§ 77 Abs.
-    3 SVWO).
-
-
-2)  Die Vorschlagslisten zu I. oder II. sind alternativ auszufüllen. Die
-    jeweils nicht benutzen Teile sind zu streichen.
-
-
-3)  Angabe der Versicherungsnummer nur bei Wahlen in der gesetzlichen
-    Rentenversicherung in der Gruppe der Versicherten.
-
-
-4)  Angabe des Arbeitgebers nur bei Wahlen in der gesetzlichen
-    Unfallversicherung in der Gruppe der Versicherten.
-
-
-5)  Angabe der im Einzelfall vorliegenden Voraussetzung.
-
-
-6)  Bitte Zahlen einsetzen.
-
-
-7)  Die Beifügung der Zustimmungserklärungen ist unbedingt erforderlich,
-    da ansonsten die Liste ungültig ist (§ 77 Abs. 3 SVWO).
-
-
-8)  Die Vorschlagslisten müssen von zwei Mitgliedern der Gruppe der
-    Vertreterversammlung, für die sie gelten sollen, unterzeichnet sein (§
-    52 Abs. 2 SGB IV).
-
-
-
-
-
-### Anlage 19 (zu § 77 Abs. 3 Satz 1) Zustimmungserklärung von Bewerbern für die Wahl eines - ehrenamtlichen - Vorstandes
-
-(Fundstelle: BGBl. I 1998, 1907)
-............................... 1)
-................................. 1)
-(Name und Vorname der Bewerberin/            (Kennwort der
-Vorschlagsliste)
-des Bewerbers)
-Zustimmungserklärung
-Meiner Aufstellung als Bewerberin/Bewerber für die Wahl zum Vorstand
-der/des
-....................................................................
-1)
-(Bezeichnung des Versicherungsträgers)
-stimme ich zu.
-...................., den ..........
-....................................
-(eigenhändige Unterschrift)
------
-1) Diese Angaben sind in Maschinenschrift oder in anderer gut
-leserlicher
-Schrift (vorzugsweise Druckbuchstaben) einzusetzen.
+### § 96 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023
+
+Für die Sozialversicherungswahlen im Jahr 2023 gilt § 11 Absatz 1 Satz
+2 Nummer 8 in der bis zum 17. Februar 2021 geltenden Fassung.
+
+
+### Anlage 1 (zu § 15 Absatz 1)
+
+(Fundstelle: BGBl. I 2021, 169 - 172)
+
+
+
+### Anlage 2 (zu § 15 Absatz 1)
+
+(Fundstelle: BGBl. I 2021, 173 - 176)
+
+
+
+### Anlage 3 (zu § 15 Absatz 1)
+
+(Fundstelle: BGBl. I 2021, 177 - 178)
+
+
+
+### Anlage 4 (zu § 15 Absatz 1)
+
+(Fundstelle: BGBl. I 2021, 179 - 180)
+
+
+
+### Anlage 5 (zu § 15 Absatz 4)
+
+(Fundstelle: BGBl. I 2021, 181 - 182)
+
+
+
+### Anlage 6 (zu § 15 Absatz 4)
+
+(Fundstelle: BGBl. I 2021, 183)
+
+
+
+### Anlage 7 (zu § 41 Absatz 1)
+
+(Fundstelle: BGBl. I 2021, 184 - 185)
+
+
+
+### Anlage 8 (zu § 41 Absatz 1)
+
+(Fundstelle: BGBl. I 2021, 186 - 187)
+
+
+
+### Anlage 9 (zu § 41 Absatz 4)
+
+(Fundstelle: BGBl. I 2021, 188)
+
+
+
+### Anlage 10 (zu § 41 Absatz 4)
+
+(Fundstelle: BGBl. I 2021, 189)
+
+
+
+### Anlage 11 (zu § 3 Absatz 9 in Verbindung mit § 58 Absatz 5)
+
+(Fundstelle: BGBl. I 2021, 190 - 196)
+
+
+
+### Anlage 12 (zu § 77 Absatz 3 Satz 1)
+
+(Fundstelle: BGBl. I 2021, 197 - 200)
+
+
+
+### Anlage 13 (zu § 77 Absatz 3 Satz 1)
+
+(Fundstelle: BGBl. I 2021, 201 - 202)
+
 

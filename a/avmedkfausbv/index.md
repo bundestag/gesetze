@@ -305,8 +305,11 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien
 
-## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien - Sachliche Gliederung -
+## Anlage I - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 1032 - 1035)
 
@@ -958,8 +961,11 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien
 
-## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien - Zeitliche Gliederung -
+## Anlage II - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 1036 - 1037)
 

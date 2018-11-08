@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 2753
 
 Geändert durch
-:   Art. 457 V v. 31.10.2006 I 2407
+:   Art. 3 G v. 20.2.2013 I 277
 
 
 ## Eingangsformel
@@ -126,14 +126,13 @@ mindestens die Hälfte selbst Betroffene sein sollen. Dabei ist das
 Einvernehmen kenntlich zu machen. Die sachkundigen Personen haben ein
 Mitberatungsrecht, aber kein Stimmrecht.
 
-(2) Bei Beschlüssen des Gemeinsamen Bundesausschusses nach § 91 Abs. 4
-bis 7 des Fünften Buches Sozialgesetzbuch bestimmt sich das
-Antragsrecht nach § 140f Abs. 2 Satz 4 des Fünften Buches
-Sozialgesetzbuch der in § 2 Abs. 1 genannten und der nach § 3
-anerkannten Organisationen nach den Vorschriften, die für das
-Antragsrecht der nach § 135 Abs. 1 und § 137c Abs. 1 des Fünften
-Buches Sozialgesetzbuch antragsberechtigten Selbstverwaltungsträger
-gelten.
+(2) Bei den in § 140f Absatz 2 Satz 5 des Fünften Buches
+Sozialgesetzbuch genannten Beschlüssen des Gemeinsamen
+Bundesausschusses bestimmt sich das Antragsrecht nach der in § 2 Abs.
+1 genannten und der nach § 3 anerkannten Organisationen nach den
+Vorschriften, die für das Antragsrecht der nach § 135 Abs. 1 und §
+137c Abs. 1 des Fünften Buches Sozialgesetzbuch antragsberechtigten
+Selbstverwaltungsträger gelten.
 
 (3) Die Beteiligung nach § 140f Abs. 4 des Fünften Buches
 Sozialgesetzbuch muss frühzeitig erfolgen. Dazu werden den in § 2 Abs.

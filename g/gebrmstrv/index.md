@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 151
 
 Zuletzt geändert durch
-:   Art. 2 § 36 G v. 20. 7.2000 I 1045
+:   Art. 6 Abs. 3 V v. 12.4.2016 I 624
 
 
 ## Eingangsformel
@@ -123,10 +123,9 @@ Fertigkeiten zuzurechnen:
 
 12. Kenntnisse der berufsbezogenen Vorschriften des Umwelt-, insbesondere
     des Immissions- und Strahlenschutzes, der VDI- und VDE-Richtlinien,
-    der berufsbezogenen DIN-Normen, der Verdingungsordnung für
-    Bauleistungen, der Verdingungsordnung für Leistungen, des
-    Standardleistungsbuchs, der Straßenverkehrsordnung und über Maßnahmen
-    zur Abfallentsorgung,
+    der berufsbezogenen DIN-Normen, der Vergabe- und Vertragsordnung für
+    Bauleistungen, der Vergabeverordnung, des Standardleistungsbuchs, der
+    Straßenverkehrsordnung und über Maßnahmen zur Abfallentsorgung,
 
 
 13. Aufmessen und Anfertigen von Skizzen sowie Lesen von Bauzeichnungen,
@@ -203,8 +202,9 @@ Fertigkeiten zuzurechnen:
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
 
 
+Gliederung, Dauer und Bestehen der praktischen Prüfung
 
-### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+### § 2 (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -495,8 +495,9 @@ auszuführen:
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
 
+Prüfung der fachtheoretischen Kenntnisse
 
-### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+### § 5 (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern
 nachzuweisen:

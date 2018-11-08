@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 26.11.2012 I 2347
 
+Änderung durch
+:   Art. 44 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -85,7 +88,7 @@ Im Sinne dieser Verordnung ist
 
 4.  „Notrufcodierung“ die Nummer mit mindestens einer von den Ziffern 0
     bis 9 verschiedenen hexadezimalen Ziffer, mit der in öffentlichen
-    Telefonnetzen ein Notrufanschluss adressiert wird;
+    Telekommunikationsnetzen ein Notrufanschluss adressiert wird;
 
 
 5.  „Notrufursprungsbereich“ das geografisch zusammenhängende Gebiet, aus
@@ -140,21 +143,21 @@ Unterteilungen der gewachsenen Struktur der Teilnehmernetze
 erforderlich werden, andererseits aber die Standorte der Notrufenden
 so genau wie möglich den Notrufanschlüssen der örtlich zuständigen
 Notrufabfragestelle zugeordnet werden. Die Notrufursprungsbereiche
-sind gemäß den Festlegungen der Technischen Richtlinie nach § 108 Abs.
-4 des Telekommunikationsgesetzes zu beschreiben; sie dürfen sich nicht
-überschneiden und müssen lückenlos aneinander angrenzen. Zur
-Beteiligung der Netzbetreiber übermitteln die Behörden die Entwürfe
-für die Festlegung der geplanten Notrufursprungsbereiche an die
-Bundesnetzagentur. Die Bundesnetzagentur informiert die betroffenen
-Netzbetreiber, die innerhalb von vier Wochen eine Stellungnahme an die
-jeweilige zuständige Behörde abgeben können. In Fällen, in denen die
-geplanten Notrufursprungsbereiche nicht mit den Netzstrukturen
-übereinstimmen, legt die Behörde die Zuordnung der netzseitig
-feststellbaren Standorte der von den Notrufenden genutzten Endgeräte
-zu der jeweils zuständigen Notrufabfragestelle im Benehmen mit den
-betroffenen Netzbetreibern fest. Abschließend teilt die Behörde der
-Bundesnetzagentur die festgelegten Notrufursprungsbereiche und den
-Zeitpunkt mit, zu dem diese Festlegungen wirksam werden.
+sind gemäß den Festlegungen der Technischen Richtlinie nach § 164
+Absatz 6 des Telekommunikationsgesetzes zu beschreiben; sie dürfen
+sich nicht überschneiden und müssen lückenlos aneinander angrenzen.
+Zur Beteiligung der Netzbetreiber übermitteln die Behörden die
+Entwürfe für die Festlegung der geplanten Notrufursprungsbereiche an
+die Bundesnetzagentur. Die Bundesnetzagentur informiert die
+betroffenen Netzbetreiber, die innerhalb von vier Wochen eine
+Stellungnahme an die jeweilige zuständige Behörde abgeben können. In
+Fällen, in denen die geplanten Notrufursprungsbereiche nicht mit den
+Netzstrukturen übereinstimmen, legt die Behörde die Zuordnung der
+netzseitig feststellbaren Standorte der von den Notrufenden genutzten
+Endgeräte zu der jeweils zuständigen Notrufabfragestelle im Benehmen
+mit den betroffenen Netzbetreibern fest. Abschließend teilt die
+Behörde der Bundesnetzagentur die festgelegten Notrufursprungsbereiche
+und den Zeitpunkt mit, zu dem diese Festlegungen wirksam werden.
 
 (2) Nach Eingang einer Mitteilung nach Absatz 1 Satz 6 ordnet die
 Bundesnetzagentur jedem Notrufursprungsbereich und jeder
@@ -189,7 +192,7 @@ entsprechend.
 
 ## § 4 Notrufverbindungen
 
-(1) Die Forderung aus § 108 Absatz 1 Satz 1 des
+(1) Die Forderung aus § 164 Absatz 1 Satz 1 des
 Telekommunikationsgesetzes nach unentgeltlicher Bereitstellung von
 Notrufverbindungen schließt ein, dass Notrufe auch ohne Verwendung
 eines Zahlungsmittels möglich sein müssen; Absatz 8 Nummer 1 bleibt
@@ -247,13 +250,14 @@ Notrufabfragestelle als Teil der Notrufverbindung zu übermitteln:
 
 1.  die Rufnummer des Anschlusses, von dem die Notrufverbindung ausgeht,
     auch wenn die Anzeige der Rufnummer im Einzelfall oder dauernd
-    ausgeschlossen ist (§ 102 Absatz 8 des Telekommunikationsgesetzes),
+    ausgeschlossen ist (§ 15 Absatz 1 Satz 3 des Telekommunikation-
+    Telemedien-Datenschutz-Gesetzes),
 
 
 2.  Angaben zum Standort des Endgerätes, von dem die Notrufverbindung
     ausgeht, auch wenn die Übermittlung von Angaben zum Standort im
-    Einzelfall oder dauernd ausgeschlossen ist (§ 98 Absatz 3 des
-    Telekommunikationsgesetzes), und
+    Einzelfall oder dauernd ausgeschlossen ist (§ 13 Absatz 3 des
+    Telekommunikation-Telemedien-Datenschutz-Gesetzes), und
 
 
 3.  seine Anbieterkennung.
@@ -293,7 +297,7 @@ Notrufabfragestelle gesendet werden.
 
 
 2.  Jeder Mobilfunknetzbetreiber hat im Rahmen von Nummer 1
-    sicherzustellen, dass auch für Teilnehmer anderer Mobilfunknetze
+    sicherzustellen, dass auch für Endnutzer anderer Mobilfunknetze
     Notrufverbindungen unter der europaeinheitlichen Notrufnummer 112 von
     jedem in seinem Netz technisch verwendbaren Mobiltelefon möglich sind.
     Dies gilt nicht, wenn die Mobilfunkkarte beim Einbuchungsversuch als
@@ -417,7 +421,7 @@ Absatz 4 Satz 1 und Absatz 8 Nummer 3 Satz 2 oder 4 zu übermitteln.
 Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und
 Absatz 2, zu § 4 Absatz 2, 4, 5, 7 und 8 Nummer 3 und 6 sowie zu § 5
 Satz 1 Nummer 1, 5 und 6 und Satz 2 legt die Bundesnetzagentur in der
-Technischen Richtlinie nach § 108 Absatz 4 des
+Technischen Richtlinie nach § 164 Absatz 6 des
 Telekommunikationsgesetzes unter Berücksichtigung der dort genannten
 Vorgaben fest. Darüber hinaus können in der Technischen Richtlinie
 auch technische Einzelheiten zu den Sachverhalten festgelegt werden,
@@ -428,11 +432,7 @@ jeweiligen Stand der Technik anzupassen.
 
 ## § 7 Übergangsvorschriften
 
-(1) Bis zum 30. April 2009 in Betrieb genommene öffentliche Münz- oder
-Kartentelefone nach § 78 Absatz 2 Nummer 5 des
-Telekommunikationsgesetzes, die Notrufverbindungen mit nur einer der
-Notrufnummern 112 oder 110 aufbauen können, dürfen bis zum 31.
-Dezember 2013 betrieben werden.
+(1) (weggefallen)
 
 (2) Notrufanschlüsse auf Basis der zum Zeitpunkt des Inkrafttretens
 dieser Verordnung bestehenden Technik für Notrufanschlüsse können bis
@@ -462,7 +462,7 @@ beruhenden Festlegungen zur Übermittlung der Angaben zum Standort des
 für die Notrufverbindung genutzten Endgerätes ausreichend, dass die
 Telefondiensteanbieter in Fällen von Notrufen von Anschlüssen, deren
 Nutzung nur ortsgebunden möglich ist, Standortangaben zum Abruf in dem
-automatisierten Auskunftsverfahren nach § 112 des
+automatisierten Auskunftsverfahren nach § 173 des
 Telekommunikationsgesetzes auf der Grundlage der an die
 Notrufabfragestelle übermittelten Rufnummern bereithalten.
 

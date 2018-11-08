@@ -49,13 +49,19 @@ Bundesministerium der Justiz
 
 ## Anlage 1 Emblem der Europäischen Investitionsbank
 
-(Inhalt: nicht darstellbares Emblem,
 Fundstelle: BGBl. I 2002, 3755)
+
+
+*    *   Emblem of the EIB
+        Emblème de la BEI
+
+    *        ![bgbl1_2002_j3755_0010.jpg](bgbl1_2002_j3755_0010.jpg)
+
 
 
 ## Anlage 2 Namen, Abkürzungen und Emblem des Welternährungsprogramms
 
-(Fundstelle: BGBl. I 2002, 3756)
+   (Fundstelle: BGBl. I 2002, 3756)
 
 
 1.  Names in English, French, Spanish and Arabic:

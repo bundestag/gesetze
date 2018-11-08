@@ -626,8 +626,9 @@ geändert worden ist, außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 20)
 
-### Anlage 1 (zu § 20) Barwertfaktoren für die Kapitalisierung
+### Anlage 1 Barwertfaktoren für die Kapitalisierung
 
 (Fundstelle: BGBl. I 2010, 645 - 648)
 
@@ -5094,22 +5095,22 @@ Der Bundesrat hat zugestimmt.
         Barwertfaktoren für die Kapitalisierung
 
 
-*    *   Kapitalisierungsfaktor =
+*    *   Kapitalisierungsfaktor =
 
     *
         *            *   q
-                n                                – 1
+                n – 1
 
 
         *            *   q
-                n                                × (
-                q                               – 1)
+                n × (
+                q– 1)
 
 
 
 
     *
-        *            *   q                                = 1 +
+        *            *   q = 1 +
 
             *   p **
 
@@ -5119,16 +5120,14 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    *   p =
-        n =
-
-    *   Liegenschaftszinssatz
-        Restnutzungsdauer
+    *   p = Liegenschaftszinssatz
+        n = Restnutzungsdauer
 
 
 
+(zu § 20)
 
-### Anlage 2 (zu § 20) Barwertfaktoren für die Abzinsung
+### Anlage 2 Barwertfaktoren für die Abzinsung
 
 (Fundstelle: BGBl. I 2010, 649 - 652)
 
@@ -7266,6 +7265,7 @@ Der Bundesrat hat zugestimmt.
 
     *   Zinssatz
 
+    *
 
 *    *   5,5 %
 
@@ -9594,11 +9594,11 @@ Der Bundesrat hat zugestimmt.
         Barwertfaktoren für die Abzinsung
 
 
-*    *   Abzinsungsfaktor =
+*    *   Abzinsungsfaktor =
 
     *
         *            *   q
-                -n                                =
+                -n =
 
             *   *1*
 
@@ -9610,7 +9610,7 @@ Der Bundesrat hat zugestimmt.
 
 
     *
-        *            *   q                               = 1 +
+        *            *   q = 1 +
 
             *   p **
 
@@ -9620,11 +9620,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    *   p =
-        n =
-
-    *   Liegenschaftszinssatz
-        Restnutzungsdauer
+    *   p = Liegenschaftszinssatz
+        n = Restnutzungsdauer
 
 
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 647
 
+Zuletzt geändert durch
+:   Art. 182 G v. 29.3.2017 I 626
+
 
 ## § 1 Anwendungsbereich
 
@@ -598,7 +601,8 @@ im Prüfungskatalog enthalten sein.
 
 (4) Gesamtpunktzahl, Mindestpunktzahl, maximal erreichbare Punktzahl
 je Frage und die Zeit, die zur Beantwortung der Fragen zur Verfügung
-steht, werden allen Prüflingen vor Beginn schriftlich bekannt gegeben.
+steht, werden allen Prüflingen vor Beginn schriftlich oder
+elektronisch bekannt gegeben.
 
 (5) Ein praktischer Teil der Prüfung dauert 30 Minuten. Er besteht aus
 der Auswertung von 30 Röntgenbildern einschließlich Beschreibung der
@@ -619,8 +623,8 @@ dauert bis zu 90 Minuten. Er besteht aus
 
 Die Einzelheiten der praktischen Prüfungsteile werden vom
 Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums
-des Innern und des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung festgelegt.
+des Innern und des Bundesministeriums für Verkehr und digitale
+Infrastruktur festgelegt.
 
 
 ## § 14 Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personalkontrollen
@@ -641,7 +645,8 @@ im Prüfungskatalog enthalten sein.
 
 (4) Gesamtpunktzahl, Mindestpunktzahl, maximal erreichbare Punktzahl
 je Frage und die Zeit, die zur Beantwortung der Fragen zur Verfügung
-steht, werden allen Prüflingen vor Beginn schriftlich bekannt gegeben.
+steht, werden allen Prüflingen vor Beginn schriftlich oder
+elektronisch bekannt gegeben.
 
 (5) Der praktische Teil der Prüfung dauert bis zu 60 Minuten. Er
 besteht aus
@@ -657,8 +662,8 @@ besteht aus
 
 Die Einzelheiten des praktischen Prüfungsteils werden vom
 Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums
-des Innern und des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung festgelegt.
+des Innern und des Bundesministeriums für Verkehr und digitale
+Infrastruktur festgelegt.
 
 
 ## § 15 Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Frachtkontrollen
@@ -679,7 +684,8 @@ im Prüfungskatalog enthalten sein.
 
 (4) Gesamtpunktzahl, Mindestpunktzahl, maximal erreichbare Punktzahl
 je Frage und die Zeit, die zur Beantwortung der Fragen zur Verfügung
-steht, werden allen Prüflingen vor Beginn schriftlich bekannt gegeben.
+steht, werden allen Prüflingen vor Beginn schriftlich oder
+elektronisch bekannt gegeben.
 
 (5) Ein praktischer Teil der Prüfung dauert 30 Minuten. Er besteht aus
 der Auswertung von 30 Röntgenbildern, einschließlich Beschreibung der
@@ -688,7 +694,7 @@ dauert bis zu 30 Minuten. Er besteht aus der Prüfung von
 Kontrollabläufen in der Frachtkontrolle. Die Einzelheiten der
 praktischen Prüfungsteile werden vom Prüfungsausschuss anhand der
 näheren Vorgaben des Bundesministeriums des Innern und des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung festgelegt.
+Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt.
 
 
 ## § 16 Zulassung zur praktischen Prüfung
@@ -792,7 +798,7 @@ Luftfahrtunternehmen zulassen.
 ## § 21 Musterlehrpläne und Formulare
 
 Das Bundesministerium des Innern erstellt im Einvernehmen mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung
+Bundesministerium für Verkehr und digitale Infrastruktur
 Musterlehrpläne für die Ausbildungen nach § 3 Abs. 3 und § 8 sowie
 Formulare für die Ausbilderzulassung nach § 2 Abs. 2, die Bestätigung
 der bestandenen Theorieprüfung nach § 19 Abs. 2, die

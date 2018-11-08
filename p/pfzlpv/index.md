@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.2.2001 I 189;
 
 Zuletzt geändert durch
-:   Art. 408 V v. 31.10.2006 I 2407
+:   Art. 377 V v. 31.8.2015 I 1474
 
 Diese Verordnung dient der Umsetzung der Richtlinie 90/428/EWG des
 Rates vom 26. Juni 1990 über den Handel mit Sportpferden und zur
@@ -98,9 +98,9 @@ Jahr geplanten Veranstaltungen, die nach Absatz 1 Satz 2 durchgeführt
 werden sollen, mitzuteilen.
 
 (3) Die zuständigen Behörden melden dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz jährlich bis zum 31.
-Dezember die geplanten Veranstaltungen, die nach Absatz 1 Satz 2
-durchgeführt werden sollen.
+Ernährung und Landwirtschaft jährlich bis zum 31. Dezember die
+geplanten Veranstaltungen, die nach Absatz 1 Satz 2 durchgeführt
+werden sollen.
 
 
 ## § 3

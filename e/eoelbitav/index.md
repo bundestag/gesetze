@@ -3,7 +3,7 @@ Title: Verordnung über die Erfüllung der Vorratspflicht mit in Italien befindl
   Beständen an Erdöl und Erdölerzeugnissen
 jurabk: EÖlBITAV
 layout: default
-origslug: e_lbitav
+origslug: eoelbitav
 slug: eoelbitav
 
 ---

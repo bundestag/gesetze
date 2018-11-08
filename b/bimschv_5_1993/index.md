@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1433
 
 Zuletzt geändert durch
-:   Art. 2 12 V v. 9.11.2010 I 1504
+:   Art. 4 V v. 28.4.2015 I 670
 
 
 ## Eingangsformel
@@ -208,31 +208,52 @@ wenn der Immissionsschutzbeauftragte oder der Störfallbeauftragte
         Umwelt,
 
 
-    b)  des Immissionsschutz-, Abfall-, Wasser-, Natur- und
-        Landschaftsschutz-, Chemikalien-, Gentechnik- oder Atom- und
+    b)  des Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder
         Strahlenschutzrechts,
 
 
-    c)  des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Seuchenrechts,
+    c)  des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder
+        Infektionsschutzrechts,
 
 
-    d)  des Gewerbe- oder Arbeitsschutzrechts,
+    d)  des Gewerbe-, Produktsicherheits- oder Arbeitsschutzrechts oder
 
 
-    e)  des Betäubungsmittel-, Waffen- und Sprengstoffrechts
+    e)  des Betäubungsmittel-, Waffen- oder Sprengstoffrechts
 
 
 
-
-    mit einer Geldbuße in Höhe von mehr als fünfhundert Euro oder einer
-    Strafe belegt worden ist,
-
-
-2.  wiederholt und grob pflichtwidrig gegen Vorschriften nach Nummer 1
-    Buchstabe a bis e verstoßen hat oder
+    zu einer Freiheitsstrafe, Jugendstrafe oder Geldstrafe rechtskräftig
+    verurteilt worden ist,
 
 
-3.  seine Verpflichtungen als Immissionsschutzbeauftragter, als
+2.  wegen Verletzung der Vorschriften
+
+    a)  des Immissionsschutz-, Abfall-, Wasser-, Natur- und
+        Landschaftsschutz-, Bodenschutz-, Chemikalien-, Gentechnik- oder Atom-
+        und Strahlenschutzrechts,
+
+
+    b)  des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder
+        Infektionsschutzrechts,
+
+
+    c)  des Gewerbe-, Produktsicherheits- oder Arbeitsschutzrechts oder
+
+
+    d)  des Betäubungsmittel-, Waffen- oder Sprengstoffrechts
+
+
+
+    innerhalb der letzten fünf Jahre mit einer Geldbuße in Höhe von mehr
+    als fünfhundert Euro belegt worden ist,
+
+
+3.  wiederholt und grob pflichtwidrig gegen Vorschriften nach Nummer 2
+    verstoßen hat oder
+
+
+4.  seine Pflichten als Immissionsschutzbeauftragter, als
     Störfallbeauftragter oder als Betriebsbeauftragter nach anderen
     Vorschriften verletzt hat.
 
@@ -290,423 +311,178 @@ Verordnung fort.
 Der Bundesrat hat zugestimmt.
 
 
-### Anhang I
+### Anhang I (zu § 1 Absatz 1)
 
-Fundstelle des Originaltextes: BGBl. I 1993, 1436 - 1438
+Für genehmigungsbedürftige Anlagen, die in den folgenden Nummern des
+Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen vom 2.
+Mai 2013 (BGBl. I S. 973) aufgeführt sind, ist ein
+Immissionsschutzbeauftragter zu bestellen:
 
-Genehmigungsbedürftige Anlagen, für die ein
-Immissionsschutzbeauftragter zu bestellen ist:
+1.  Anlagen nach Nr. 1.1 mit einer Feuerungswärmeleistung bei
 
-1.  Kraftwerke, Heizkraftwerke und Heizwerke mit Feuerungsanlagen für den
-    Einsatz von festen, flüssigen oder gasförmigen Brennstoffen, soweit
-    die Feuerungswärmeleistung
-
-    a)  bei festen oder flüssigen Brennstoffen 150 Megawatt oder
+    a)  festen oder flüssigen Brennstoffen von 150 Megawatt oder mehr oder
 
 
-    b)  bei gasförmigen Brennstoffen 250 Megawatt erreicht oder übersteigt;
+    b)  gasförmigen Brennstoffen von 250 Megawatt oder mehr;
 
 
 
 
 
-2.  Feuerungsanlagen, einschließlich zugehöriger Dampfkessel, für den
-    Einsatz von Kohle, Koks, einschließlich Petrolkoks und Restkoksen aus
-    der Kohlevergasung, Kohlebriketts, Torfbriketts, Brenntorf, Heizölen,
-    Methanol, Äthanol, naturbelassenem Holz sowie von
-
-    a)  gestrichenem, lackiertem oder beschichtetem Holz sowie daraus
-        anfallenden Resten, soweit keine Holzschutzmittel aufgetragen oder
-        enthalten sind und Beschichtungen nicht aus halogenorganischen
-        Verbindungen bestehen oder von
-
-
-    b)  Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holz sowie
-        daraus anfallenden Resten, soweit keine Holzschutzmittel aufgetragen
-        oder enthalten sind und Beschichtungen nicht aus halogenorganischen
-        Verbindungen bestehen
-
-
-
-
-    mit einer Feuerungswärmeleistung von 150 Megawatt oder mehr;
-
-
-3.  Feuerungsanlagen, einschließlich zugehöriger Dampfkessel, für den
-    Einsatz von gasförmigen Brennstoffen
-
-    a)  Gasen der öffentlichen Gasversorgung, naturbelassenem Erdgas oder
-        Erdölgas mit vergleichbaren Schwefelgehalten, Flüssiggas oder
-        Wasserstoff,
-
-
-    b)  Klärgas mit einem Volumengehalt an Schwefelverbindungen bis zu 1 vom
-        Tausend, angegeben als Schwefel, oder Biogas aus der Landwirtschaft,
-
-
-    c)  Koksofengas, Grubengas, Stahlgas, Hochofengas, Raffineriegas und
-        Synthesegas mit einem Volumengehalt an Schwefelverbindungen bis zu 1
-        vom Tausend, angegeben als Schwefel,
-
-
-    d)  Erdölgas aus der Tertiärförderung von Erdöl
-
-
-
-
-    mit einer Feuerungswärmeleistung von 250 Megawatt oder mehr;
-
-
-4.  Feuerungsanlagen, einschließlich zugehöriger Dampfkessel, für den
-    Einsatz anderer als in 2. oder 3. genannter fester, flüssiger oder
-    gasförmiger brennbarer Stoffe mit einer Feuerungswärmeleistung von 10
+2.  Anlagen nach Nr. 1.2.4 mit einer Feuerungswärmeleistung von 10
     Megawatt oder mehr;
 
 
-5.  Anlagen zum Brikettieren von Braun- oder Steinkohle;
+3.  Anlagen nach Nr. 1.10;
 
 
-6.  Anlagen zur Trockendestillation, insbesondere von Steinkohle,
-    Braunkohle, Holz, Torf oder Pech (z.B. Kokereien, Gaswerke und
-    Schwelereien), ausgenommen Holzkohlenmeiler;
+4.  Anlagen nach Nr. 1.11;
 
 
-7.  Anlagen zur Destillation oder Weiterverarbeitung von Teer oder
-    Teererzeugnissen oder von Teer- oder Gaswasser;
+5.  Anlagen nach Nr. 1.12;
 
 
-8.  Anlagen zur Vergasung oder Verflüssigung von Kohle;
+6.  Anlagen nach Nr. 1.14.1;
 
 
-9.  Anlagen über Tage zur Gewinnung von Öl aus Schiefer oder anderen
-    Gesteinen oder Sanden sowie Anlagen zur Destillation oder
-    Weiterverarbeitung solcher Öle;
+7.  Anlagen nach Nr. 1.14.2;
 
 
-10. Anlagen zur Herstellung von Zementklinker oder Zementen;
+8.  Anlagen nach Nr. 2.3;
 
 
-11. Anlagen zur Gewinnung, Bearbeitung oder Verarbeitung von Asbest;
+9.  Anlagen nach Nr. 2.5 und Nr. 2.6;
 
 
-12. Anlagen zur Herstellung von Glas, auch soweit es aus Altglas
-    hergestellt wird, einschließlich Glasfasern, die nicht für
-    medizinische oder fernmeldetechnische Zwecke bestimmt sind;
+10. Anlagen nach Nr. 2.8;
 
 
-13. Anlagen zum Rösten (Erhitzen unter Luftzufuhr zur Überführung in
-    Oxide), Schmelzen oder Sintern (Stückigmachen von feinkörnigen Stoffen
-    durch Erhitzen) von Erzen;
+11. Anlagen nach Nr. 3.1;
 
 
-14. Anlagen zur Gewinnung von Roheisen oder Nichteisenrohmetallen aus
-    Erzen oder Sekundärrohstoffen;
+12. Anlagen nach Nr. 3.2.2.1;
 
 
-15. Anlagen zur Stahlerzeugung sowie Anlagen zum Erschmelzen von Gußeisen
-    oder Stahl, ausgenommen Schmelzanlagen für Gußeisen oder Stahl mit
-    einr Schmelzleistung bis zu 2,5 Tonnen je Stunde;
+13. Anlagen nach Nr. 3.3;
 
 
-16. Schmelzanlagen für Zink oder Zinklegierungen für einen Einsatz von 10
-    Tonnen oder mehr oder Schmelzanlagen für sonstige Nichteisenmetalle
-    einschließlich der Anlagen zur Raffination für einen Einsatz von
+14. Anlagen nach Nr. 3.4 mit einer Schmelzkapazität von
 
-    a)  5 Tonnen Leichtmetall oder mehr oder
+    a)  10 Tonnen Zink oder Zinklegierungen oder mehr je Tag,
 
 
-    b)  10 Tonnen Schwermetall oder mehr,
+    b)  5 Tonnen Leichtmetall oder mehr je Tag oder
 
 
+    c)  10 Tonnen Schwermetall oder mehr je Tag;
 
 
-    ausgenommen
 
-    -   Vakuum-Schmelzanlagen,
 
 
-    -   Schmelzanlagen für Gußlegierungen aus Zinn und Wismut oder aus
-        Feinzink und Aluminium in Verbindung mit Kupfer oder Magnesium,
+15. Anlagen nach Nr. 3.7;
 
 
-    -   Schmelzanlagen, die Bestandteil von Druck- oder Kokillengießmaschinen
-        sind,
+16. Anlagen nach Nr. 3.8;
 
 
-    -   Schmelzanlagen für Edelmetalle oder für Legierungen, die nur aus
-        Edelmetallen oder aus Edelmetallen und Kupfer bestehen, und
+17. Anlagen nach Nr. 3.9.1.1, ausgenommen Anlagen zum kontinuierlichen
+    Verzinken nach dem Sendzimirverfahren, mit einer
+    Verarbeitungskapazität von 10 Tonnen oder mehr Rohgut je Stunde;
 
 
-    -   Schwallötbäder;
+18. Anlagen nach Nr. 3.9.2 mit einem Durchsatz von 50 Kilogramm oder mehr
+    je Stunde;
 
 
+19. Anlagen nach Nr. 3.18;
 
 
+20. Anlagen nach Nr. 3.21 mit einer Produktionskapazität von 1 500 Stück
+    oder mehr Starterbatterien oder Industriebatteriezellen je Tag;
 
-17. Eisen-, Temper- oder Stahlgießereien, ausgenommen Anlagen, in denen
-    Formen oder Kerne auf kaltem Wege hergestellt werden, soweit deren
-    Leistung weniger als 80 Tonnen Gußteile je Monat beträgt;
 
+21. Anlagen nach Nr. 4.1;
 
-18. Gießereien für Nichteisenmetalle, ausgenommen
 
-    -   Gießereien für Glocken- oder Kunstguß,
+22. Anlagen nach Nr. 4.2;
 
 
-    -   Gießereien, in denen in metallische Formen abgegossen wird,
+23. Anlagen nach Nr. 4.4;
 
 
-    -   Gießereien, in denen das Metall in ortsbeweglichen Tiegeln
-        niedergeschmolzen wird, und
+24. Anlagen nach Nr. 4.5;
 
 
-    -   Gießereien zur Herstellung von Blas- oder Ziehwerkzeugen aus den in
-        Nummer 17 genannten niedrigschmelzenden Gußlegierungen;
+25. Anlagen nach Nr. 4.6;
 
 
+26. Anlagen nach Nr. 4.7;
 
 
+27. Anlagen nach Nr. 5.1.1.1, in denen organische Lösungsmittel nach Nr.
+    5\.1.2.1 eingesetzt werden, mit einem Verbrauch an solchen organischen
+    Lösungsmitteln von 500 Kilogramm oder mehr je Stunde;
 
-19. Anlagen zum Aufbringen von metallischen Schutzschichten auf
-    Metalloberflächen
 
-    a)  aus Blei, Zinn, Zink oder ihren Legierungen mit Hilfe von
-        schmelzflüssigen Bädern mit einer Leistung von zehn Tonnen
-        Rohgutdurchsatz oder mehr je Stunde, ausgenommen Anlagen zum
-        kontinuierlichen Verzinken nach dem Sendzimirverfahren, oder
+28. Anlagen nach Nr. 5.1.1.1, soweit nicht von Nr. 27 erfasst, mit einem
+    Verbrauch an organischen Lösungsmitteln von 250 Kilogramm oder mehr je
+    Stunde;
 
 
-    b)  durch Flamm- oder Lichtbogenspritzen mit einem Durchsatz an Blei,
-        Zinn, Zink, Nickel, Kobalt oder ihren Legierungen von 50 Kilogramm
-        oder mehr je Stunde;
+29. Anlagen nach Nr. 5.2.1;
 
 
+30. Anlagen nach Nr. 6.1;
 
 
+31. Anlagen nach Nr. 6.3;
 
-20. Anlagen zum Zerkleinern von Schrott durch Rotormühlen mit einer
-    Nennleistung des Rotorantriebes von 500 Kilowatt oder mehr;
 
+32. Anlagen nach Nr. 7.3.2;
 
-21. Anlagen zur Herstellung oder Reparatur von Schiffskörpern oder
-    -sektionen aus Metall mit einer Länge von 20 Metern oder mehr;
 
+33. Anlagen nach Nr. 7.8;
 
-22. Anlagen zur Herstellung von Bleiakkumulatoren mit einer Leistung von
-    1\.500 Starterbatterien oder Industriebatteriezellen oder mehr je Tag;
 
+34. Anlagen nach Nr. 7.9;
 
-23. Anlagen zur fabrikmäßigen Herstellung von Stoffen durch chemische
-    Umwandlung, insbesondere
 
-    a)  zur Herstellung von anorganischen Chemikalien wie Säuren, Basen,
-        Salze,
+35. Anlagen nach Nr. 7.12;
 
 
-    b)  zur Herstellung von Metallen oder Nichtmetallen auf nassem Wege oder
-        mit Hilfe elektrischer Energie,
+36. Anlagen nach Nr. 7.16;
 
 
-    c)  zur Herstellung von Korund oder Karbid,
+37. Anlagen nach Nr. 8.1;
 
 
-    d)  zur Herstellung von Halogenen oder Halogenerzeugnissen oder von
-        Schwefel oder Schwefelerzeugnissen,
+38. Anlagen nach Nr. 8.3.1;
 
 
-    e)  zur Herstellung von phosphor- oder stickstoffhaltigen Düngemitteln,
+39. Anlagen nach Nr. 8.4;
 
 
-    f)  zur Herstellung von unter Druck gelöstem Acetylen
-        (Dissousgasfabriken),
+40. Anlagen nach Nr. 8.5.1;
 
 
-    g)  zur Herstellung von organischen Chemikalien oder Lösungsmitteln wie
-        Alkohole, Aldehyde, Ketone, Säuren, Ester, Acetate, Äther,
+41. Anlagen nach Nr. 8.7;
 
 
-    h)  zur Herstellung von Kunststoffen oder Chemiefasern,
+42. Anlagen nach Nr. 8.8;
 
 
-    i)  zur Herstellung von Cellulosenitraten,
+43. Anlagen nach Nr. 8.9.1;
 
 
-    k)  zur Herstellung von Kunstharzen,
+44. Anlagen nach Nr. 8.12.1;
 
 
-    l)  zur Herstellung von Kohlenwasserstoffen,
+45. Anlagen nach Nr. 8.14, soweit gefährliche Abfälle gelagert werden;
 
 
-    m)  zur Herstellung von synthetischem Kautschuk,
-
-
-    n)  zur Herstellung von Teerfarben oder Teerfarbenzwischenprodukten,
-
-
-    o)  zur Herstellung von Seifen oder Waschmitteln;
-
-
-
-
-    hierzu gehören nicht Anlagen zur Erzeugung oder Spaltung von
-    Kernbrennstoffen oder zur Aufarbeitung bestrahlter Kernbrennstoffe;
-
-
-24. Anlagen, in denen Pflanzenschutz- oder Schädlingsbekämpfungsmittel
-    oder ihre Wirkstoffe gemahlen oder maschinell gemischt, abgepackt oder
-    umgefüllt werden, soweit Stoffe gehandhabt werden, bei denen die
-    Voraussetzungen des § 1 der Störfall-Verordnung vorliegen, auch soweit
-    den Umständen nach zu erwarten ist, daß die Anlagen weniger als
-    während der zwölf Monate, die auf die Inbetriebnahme folgen, an
-    demselben Ort betrieben werden;
-
-
-25. Anlagen zur Destillation oder Raffination oder sonstigen
-    Weiterverarbeitung von Erdöl oder Erdölerzeugnissen in Mineralöl-,
-    Altöl- oder Schmierstoffraffinerien, in petrochemischen Werken oder
-    bei der Gewinnung von Paraffin;
-
-
-26. Anlagen zur Herstellung von Schmierstoffen, wie Schmieröle,
-    Schmierfette, Metallbearbeitungsöle;
-
-
-27. Anlagen zur Herstellung von Ruß;
-
-
-28. Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder
-    Elektrographit durch Brennen, zum Beispiel für Elektroden,
-    Stromabnehmer oder Apparateteile;
-
-
-29. Anlagen zum Beschichten, Lackieren, Kaschieren, Imprägnieren oder
-    Tränken von Gegenständen, Glas- oder Mineralfasern oder bahnen- oder
-    tafelförmigen Materialien einschließlich der zugehörigen
-    Trocknungsanlagen mit
-
-    a)  Lacken, die organische Lösemittel enthalten und von diesen 250 kg oder
-        mehr je Stunde eingesetzt werden,
-
-
-    b)  Kunstharzen, die unter weitgehender Selbstvernetzung ausreagieren
-        (Reaktionsharze), wie Melamin-, Harnstoffe-, Phenol-Epoxid-, Furan-,
-        Kresol-, Resorcin- oder Polyesterharzen, sofern die Menge dieser Harze
-        25 kg oder mehr je Stunde beträgt, oder
-
-
-    c)  Kunststoffen oder Gummi unter Einsatz von 250 kg organischer
-        Lösungsmittel oder mehr je Stunde,
-
-
-
-
-    ausgenommen Anlagen für den Einsatz von Pulverlacken oder
-    Pulverbeschichtungsstoffen;
-
-
-30. Anlagen zum Bedrucken von bahnen- oder tafelförmigen Materialen mit
-    Rotationsdruckmaschinen einschließlich der zugehörigen
-    Trocknungsanlagen, soweit die Farben und Lacke
-
-    a)  organische Lösungsmittel mit einem Anteil von mehr als 50
-        Gewichtsprozent an Ethanol enthalten und insgesamt 500 Kilogramm je
-        Stunde oder mehr organische Lösungsmittel eingesetzt werden oder
-
-
-    b)  sonstige organische Lösungsmittel enthalten und von diesen 250
-        Kilogramm je Stunde oder mehr eingesetzt werden, ausgenommen Anlagen,
-        in denen hochsiedende Öle als Lösungsmittel ohne Wärmebehandlung
-        eingesetzt werden;
-
-
-
-
-
-31. Anlagen zur Gewinnung von Zellstoff aus Holz, Stroh oder ähnlichen
-    Faserstoffen;
-
-
-32. Anlagen zur Herstellung von Holzfaserplatten, Holzspanplatten oder
-    Holzfasermatten;
-
-
-33. Anlagen zum Schmelzen von tierischen Fetten mit Ausnahme der Anlagen
-    zur Verarbeitung von selbstgewonnenen tierischen Fetten zu
-    Speisefetten in Fleischereien mit einer Leistung bis zu 200 Kilogramm
-    Speisefett je Woche;
-
-
-34. Anlagen zur Herstellung von Gelatine, Hautleim, Lederleim oder
-    Knochenleim;
-
-
-35. Anlagen zur Herstellung von Futter- oder Düngemitteln oder technischen
-    Fetten aus den Schlachtnebenprodukten Knochen, Tierhaare, Federn,
-    Hörner, Klauen oder Blut;
-
-
-36. Anlagen zur Tierkörperbeseitigung sowie Anlagen, in denen
-    Tierkörperteile oder Erzeugnisse tierischer Herkunft zur Beseitigung
-    in Tierkörperbeseitigungsanlagen gesammelt oder gelagert werden;
-
-
-37. Anlagen zur Herstellung von Fischmehl oder Fischöl;
-
-
-38. Anlagen zur teilweisen oder vollständigen Beseitigung von festen,
-    flüssigen, gasförmigen Stoffen oder Gegenständen durch Verbrennen, bei
-    Anlagen zur Beseitigung von Stoffen, die halogenierte
-    Kohlenwasserstoffe enthalten, auch soweit den Umständen nach zu
-    erwarten ist, daß sie weniger als während der zwölf Monate, die auf
-    die Inbetriebnahme folgen, an demselben Ort betrieben werden;
-
-
-39. Anlagen zur thermischen Zersetzung brennbarer fester oder flüssiger
-    Stoffe unter Sauerstoffmangel (Pyrolyseanlagen);
-
-
-40. Anlagen zur Rückgewinnung von einzelnen Bestandteilen aus festen
-    Stoffen durch Verbrennen, ausgenommen Anlagen zur thermischen
-    Behandlung
-
-    a)  edelmetallhaltiger Rückstände der Präparation, soweit die Menge der
-        Ausgangsstoffe 10 kg oder mehr pro Tag beträgt, oder
-
-
-    b)  von mit organischen Verbindungen verunreinigten Metallen, wie z.B.
-        Walzenzunder, Aluminiumspäne;
-
-
-
-
-
-41. Anlagen, in denen feste, flüssige oder gasförmige Abfälle, auf die die
-    Vorschriften des Abfallgesetzes Anwendung finden, aufbereitet werden,
-    mit einer Leistung von 10 Tonnen oder mehr je Stunde, ausgenommen
-    Anlagen, in denen Stoffe aus in Haushaltungen anfallenden oder aus
-    gleichartigen Abfällen durch Sortieren für den Wirtschaftskreislauf
-    zurückgewonnen werden;
-
-
-42. Anlagen zur Behandlung von verunreinigtem Boden, der nicht
-    ausschließlich am Standort der Anlage entnommen wird;
-
-
-43. Anlagen zur chemischen Behandlung von Abfällen;
-
-
-44. Abfallentsorgungsanlagen zur Lagerung oder Behandlung von Abfällen im
-    Sinne des § 2 Abs. 2 des Abfallgesetzes;
-
-
-45. Anlagen zum Umschlagen von festen Abfällen im Sinne des § 1 Abs. 1 des
-    Abfallgesetzes mit einer Leistung von 100 Tonnen oder mehr je Tag,
-    ausgenommen Anlagen zum Umschlagen von Erdaushub oder von Gestein, das
-    bei der Gewinnung oder Aufbereitung von Bodenschätzen anfällt;
-
-
-46. Anlagen zur Kompostierung mit einer Durchsatzleistung von mehr als 10
-    Tonnen je Stunde (Kompostwerke).
+46. Anlagen nach Nr. 8.15 mit einer Kapazität von 100 Tonnen oder mehr
+    Abfällen je Tag.
 
 
 
@@ -738,8 +514,8 @@ Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
 5.  chemische und physikalische Eigenschaften von Schadstoffen;
 
 
-6.  Vermeidung sowie ordnungsgemäße und schadlose Verwertung von
-    Reststoffen oder deren Beseitigung als Abfall;
+6.  Vermeidung sowie ordnungsgemäße und schadlose Verwertung und
+    Beseitigung von Abfall;
 
 
 7.  Energieeinsparung, Nutzung entstehender Wärme in der Anlage, im
@@ -764,9 +540,9 @@ Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
 
 
 2.  chemische, physikalische, human- und ökotoxikologische Eigenschaften
-    der Stoffe und Zubereitungen, die in der Anlage bestimmungsgemäß
-    vorhanden sind oder bei einer Störung entstehen können sowie deren
-    mögliche Auswirkungen im Störfall;
+    der Stoffe und Gemische, die in der Anlage bestimmungsgemäß vorhanden
+    sind oder bei einer Störung entstehen können sowie deren mögliche
+    Auswirkungen im Störfall;
 
 
 3.  betriebliche Sicherheitsorganisation;
@@ -778,7 +554,7 @@ Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
 5.  vorbeugender Brand- und Explosionsschutz;
 
 
-6.  Anfertigung, Fortschreibung und Beurteilung von Sicherheitsanalysen
+6.  Anfertigung, Fortschreibung und Beurteilung von Sicherheitsberichten
     (Grundkenntnisse) sowie von betrieblichen Alarm- und
     Gefahrenabwehrplänen;
 
@@ -798,7 +574,7 @@ Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
     Katastrophenschutzrechts;
 
 
-10. Information der Öffentlichkeit nach § 11a der Störfall-Verordnung.
+10. Information der Öffentlichkeit nach § 11 der Störfall-Verordnung.
 
 
 

@@ -16,10 +16,16 @@ Fundstelle
 :   BGBl I: 1954, 175
 
 Neugefasst durch
-:   Bek. v. 3.6.1975 I 1313,
+:   Bek. v. 3.6.1975 I 1313;
 
 Zuletzt geändert durch
-:   Art. 55 G v. 8.12.2010 I 1864
+:   Art. 3 G v. 18.12.2018 I 2648
+
+Änderung durch
+:   Art. 2 G v. 21.12.2019 I 2911 (Nr. 52) ist berücksichtigt
+
+Änderung durch
+:   Art. 76 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Ahndung von Zuwiderhandlungen im Bereich des Wirtschaftsrechts
@@ -171,7 +177,7 @@ geringen Angebots an vergleichbaren Räumen die üblichen Entgelte um
 mehr als 20 vom Hundert übersteigen, die in der Gemeinde oder in
 vergleichbaren Gemeinden für die Vermietung von Räumen vergleichbarer
 Art, Größe, Ausstattung, Beschaffenheit und Lage oder damit verbundene
-Nebenleistungen in den letzten vier Jahren vereinbart oder, von
+Nebenleistungen in den letzten sechs Jahren vereinbart oder, von
 Erhöhungen der Betriebskosten abgesehen, geändert worden sind. Nicht
 unangemessen hoch sind Entgelte, die zur Deckung der laufenden
 Aufwendungen des Vermieters erforderlich sind, sofern sie unter
@@ -182,9 +188,17 @@ auffälligen Missverhältnis zu der Leistung des Vermieters stehen.
 fünfzigtausend Euro geahndet werden.
 
 
-### § 6
+### § 6 Durchführung einer baulichen Veränderung in missbräuchlicher Weise
 
--
+(1) Ordnungswidrig handelt, wer in der Absicht, einen Mieter von
+Wohnraum hierdurch zur Kündigung oder zur Mitwirkung an der Aufhebung
+des Mietverhältnisses zu veranlassen, eine bauliche Veränderung in
+einer Weise durchführt oder durchführen lässt, die geeignet ist, zu
+erheblichen, objektiv nicht notwendigen Belastungen des Mieters zu
+führen.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+hunderttausend Euro geahndet werden.
 
 
 ## Zweiter Abschnitt - Ergänzende Vorschriften
@@ -226,11 +240,11 @@ gering ist.
 (3) Die Höhe des Mehrerlöses kann geschätzt werden. Der abzuführende
 Betrag ist zahlenmäßig zu bestimmen.
 
-(4) Die Abführung des Mehrerlöses tritt an die Stelle des Verfalls (§§
-73 bis 73e des Strafgesetzbuches, § 29a des Gesetzes über
-Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne des § 1 gelten
-die Vorschriften des Strafgesetzbuches über die Verjährung des
-Verfalls entsprechend.
+(4) Die Abführung des Mehrerlöses tritt an die Stelle der Einziehung
+von Taterträgen (§§ 73 bis 73e und 75 des Strafgesetzbuches, § 29a des
+Gesetzes über Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne
+des § 1 gelten die Vorschriften des Strafgesetzbuches über die
+Verjährung der Einziehung von Taterträgen entsprechend.
 
 
 ### § 9 Rückerstattung des Mehrerlöses
@@ -269,8 +283,9 @@ Mehrerlös zugeflossen ist.
 ### § 11 Verfahren
 
 (1) Im Strafverfahren ist die Abführung des Mehrerlöses im Urteil
-auszusprechen. Für das selbständige Verfahren gelten § 440 Abs. 1, 2
-und § 441 Abs. 1 bis 3 der Strafprozeßordnung entsprechend.
+auszusprechen. Für das selbständige Verfahren gelten § 435 Absatz 1, 2
+und 3 Satz 1 und § 436 Absatz 1 und 2 in Verbindung mit § 434 Absatz 2
+oder 3 der Strafprozeßordnung entsprechend.
 
 (2) Im Bußgeldverfahren ist die Abführung des Mehrerlöses im
 Bußgeldbescheid auszusprechen. Im selbständigen Verfahren steht der
@@ -349,7 +364,7 @@ bedarf.
 (weggefallen)
 
 
-### (XXXX) §§ 20, 21a, 22 (weggefallen)
+### § 20 (weggefallen)
 
 
 
@@ -368,6 +383,10 @@ Verlängerung des Wirtschaftsstrafgesetzes vom 25. März 1952
 (Bundesgesetzbl. I S. 188) und das Gesetz zur Verlängerung des
 Wirtschaftsstrafgesetzes vom 17. Dezember 1952 (Bundesgesetzbl. I S.
 805) bestimmt sind.
+
+
+### (XXXX) §§ 21a und 22 (weggefallen)
+
 
 
 ### § 23 Inkrafttreten

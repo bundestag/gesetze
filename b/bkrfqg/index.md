@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über die Grundqualifikation und Weiterbildung der Fahrer bestimmter
+Title: Gesetz über die Grundqualifikation und Weiterbildung der Fahrer  bestimmter
   Kraftfahrzeuge für den Güterkraft- oder Personenverkehr
 jurabk: BKrFQG
 layout: default
@@ -8,7 +8,7 @@ slug: bkrfqg
 
 ---
 
-# Gesetz über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr (BKrFQG)
+# Gesetz über die Grundqualifikation und Weiterbildung der Fahrer  bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr (BKrFQG)
 
 Ausfertigungsdatum
 :   2006-08-14
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1958
 
-Geändert durch
-:   Art. 1 G v. 25.5.2011 I 952 (1374)
+Zuletzt geändert durch
+:   Art. 3 G v. 30.6.2017 I 2162
 
 
 
@@ -31,24 +31,27 @@ auf Fahrer und Fahrerinnen, die
 1.  deutsche Staatsangehörige sind,
 
 
-2.  Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union
-    oder eines anderen Vertragsstaates des Abkommens über den Europäischen
-    Wirtschaftsraum sind oder
+2.  Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union,
+    eines anderen Vertragsstaates des Abkommens über den Europäischen
+    Wirtschaftsraum oder der Schweiz sind, oder
 
 
 3.  Staatsangehörige eines Drittstaates sind und in einem Unternehmen mit
-    Sitz in einem Mitgliedstaat der Europäischen Union oder Vertragsstaat
-    des Abkommens über den Europäischen Wirtschaftsraum beschäftigt oder
-    eingesetzt werden,
+    Sitz in einem Mitgliedstaat der Europäischen Union, einem
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+    in der Schweiz beschäftigt oder eingesetzt werden,
 
 
 
-soweit sie die Fahrten im Güterkraft- oder Personenverkehr zu
-gewerblichen Zwecken auf öffentlichen Straßen mit Kraftfahrzeugen
-durchführen, für die eine Fahrerlaubnis der Klassen C1, C1E, C, CE,
-D1, D1E, D oder DE erforderlich ist.
+soweit sie die Beförderungen im Güterkraft- und Personenverkehr auf
+öffentlichen Straßen mit Kraftfahrzeugen durchführen, für die eine
+Fahrerlaubnis der Klassen C1, C1E, C, CE, D1, D1E, D oder DE
+erforderlich ist; für andere Fahrten als Beförderungen gelten
+Bestimmungen dieses Gesetzes nur, soweit eine Vorschrift dies
+ausdrücklich so bestimmt.
 
-(2) Abweichend von Absatz 1 gilt dieses Gesetz nicht für Fahrten mit
+(2) Abweichend von Absatz 1 gilt dieses Gesetz nicht für Beförderungen
+mit
 
 1.  Kraftfahrzeugen, deren zulässige Höchstgeschwindigkeit 45 Kilometer
     pro Stunde nicht überschreitet,
@@ -104,7 +107,7 @@ D1, D1E, D oder DE erforderlich ist.
 
 ## § 2 Mindestalter, Qualifikation
 
-(1) Fahrten im Güterkraftverkehr zu gewerblichen Zwecken darf
+(1) Fahrten im Güterkraftverkehr darf
 
 1.  mit einem Kraftfahrzeug, für das eine Fahrerlaubnis der Klassen C oder
     CE erforderlich ist, nur durchführen, wer
@@ -131,7 +134,7 @@ D1, D1E, D oder DE erforderlich ist.
 
 
 
-(2) Fahrten im Personenverkehr zu gewerblichen Zwecken darf
+(2) Fahrten im Personenverkehr darf
 
 1.  mit einem Kraftfahrzeug, für das eine Fahrerlaubnis der Klassen D oder
     DE erforderlich ist, nur durchführen, wer
@@ -191,6 +194,10 @@ D1, D1E, D oder DE erforderlich ist.
 
 
 
+
+(2a) Abweichend von Absatz 2 Nummer 3 Buchstabe a tritt bei Fahrten
+ohne Fahrgäste an die Stelle des vollendeten 20. Lebensjahres die
+Vollendung des 18. Lebensjahres.
 
 (3) Der Unternehmer darf Fahrten nach Absatz 1 oder 2, auch in
 Verbindung mit Absatz 5, weder anordnen noch zulassen, wenn der Fahrer
@@ -273,15 +280,15 @@ Vermittlung besonderer tätigkeitsbezogener Fertigkeiten und
 Kenntnisse; sie werden jeweils bezogen auf bestimmte
 Fahrerlaubnisklassen erworben.
 
-(4) Wer im Rahmen des Erwerbs der beschleunigten Grundqualifikation
-ein Kraftfahrzeug auf öffentlichen Straßen führt und die für das
-Führen dieses Fahrzeugs vorgeschriebene Fahrerlaubnis nicht besitzt,
-muss von einer Person begleitet werden, die eine gültige
-Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige
-Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson
-als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes.
-Das Fahrzeug muss den Anforderungen eines für die Fahrausbildung
-zugelassenen Fahrzeugs genügen.
+(4) Wer im Rahmen des Erwerbs der Grundqualifikation oder der
+beschleunigten Grundqualifikation ein Kraftfahrzeug auf öffentlichen
+Straßen führt und die für das Führen dieses Fahrzeugs vorgeschriebene
+Fahrerlaubnis nicht besitzt, muss von einer Person begleitet werden,
+die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die
+jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die
+Begleitperson als Führer des Kraftfahrzeugs im Sinne des
+Straßenverkehrsgesetzes. Das Fahrzeug muss den Anforderungen eines für
+die Fahrausbildung zugelassenen Fahrzeugs genügen.
 
 
 ## § 5 Weiterbildung
@@ -328,11 +335,11 @@ Fahrerlaubnisklassen, für die die Pflicht zur Weiterbildung besteht.
 
 (2) Wer eine Grundqualifikation erworben oder eine Weiterbildung
 abgeschlossen hat und danach zeitweilig nicht mehr als Fahrer oder
-Fahrerin im Güterkraft- oder Personenverkehr zu gewerblichen Zwecken
-beschäftigt ist, hat eine Weiterbildung abzuschließen, wenn diese
-Tätigkeit wieder aufgenommen wird und zu diesem Zeitpunkt die Fristen
-nach Absatz 1 abgelaufen sind. Satz 1 gilt bei der Neuerteilung der
-Fahrerlaubnis im Falle des § 3 Satz 2 entsprechend.
+Fahrerin im Güterkraft- oder Personenverkehr beschäftigt ist, hat eine
+Weiterbildung abzuschließen, wenn diese Tätigkeit wieder aufgenommen
+wird und zu diesem Zeitpunkt die Fristen nach Absatz 1 abgelaufen
+sind. Satz 1 gilt bei der Neuerteilung der Fahrerlaubnis im Falle des
+§ 3 Satz 2 entsprechend.
 
 (3) Wechselt ein Fahrer oder eine Fahrerin zu einem anderen
 Unternehmen, so ist eine bereits erfolgte Weiterbildung anzurechnen.
@@ -349,9 +356,20 @@ müssen
 1.  die Grundqualifikation im Inland erwerben,
 
 
-2.  die Weiterbildung im Inland oder in dem Mitgliedstaat der Europäischen
-    Union oder eines anderen Vertragsstaats des Abkommens über den
-    Europäischen Wirtschaftsraum abschließen, in dem sie beschäftigt sind.
+2.  die Weiterbildung abschließen
+
+    a)  im Inland,
+
+
+    b)  in dem Mitgliedstaat der Europäischen Union oder einem anderen
+        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in
+        dem sie beschäftigt sind, oder
+
+
+    c)  in der Schweiz, wenn sie dort beschäftigt sind.
+
+
+
 
 
 
@@ -363,13 +381,13 @@ müssen
 Grundqualifikation und die Weiterbildung sind:
 
 1.  Fahrschulen mit einer Fahrschulerlaubnis der Klassen CE oder DE nach §
-    10 Abs. 2 des Fahrlehrergesetzes, sofern die Fahrschulerlaubnis nicht
-    ruht,
+    17 Absatz 2 des Fahrlehrergesetzes, sofern die Fahrschulerlaubnis
+    nicht ruht,
 
 
-2.  Fahrschulen und Fahrlehrerausbildungsstätten, die nach § 30 Abs. 3 des
-    Fahrlehrergesetzes keiner Fahrschulerlaubnis und keiner Anerkennung
-    bedürfen,
+2.  Fahrschulen und Fahrlehrerausbildungsstätten, die nach § 44 Absatz 3
+    des Fahrlehrergesetzes keiner Fahrschulerlaubnis und keiner
+    Anerkennung bedürfen,
 
 
 3.  Ausbildungsbetriebe, die eine Berufsausbildung in den in § 4 Abs. 1
@@ -387,6 +405,9 @@ Grundqualifikation und die Weiterbildung sind:
 
 
 
+Ausbildungsstätten, die nicht nach Satz 1 anerkannt sind, und deren
+Lehrpersonal dürfen Unterricht nach § 4 Absatz 2 und § 5 Absatz 1
+nicht anbieten oder durchführen.
 
 (2) Ausbildungsstätten für die beschleunigte Grundqualifikation und
 die Weiterbildung werden von der nach Landesrecht zuständigen Behörde
@@ -401,12 +422,12 @@ staatlich anerkannt, wenn
     Weiterbildungsteilnehmer ausreichendes Lehrpersonal beschäftigen,
 
 
-3.  geeignete Schulungsräume sowie Lehrmittel für die theoretische
-    Unterweisung vorhanden sind,
+3.  geeignete Unterrichtsräume sowie für jeden Teilnehmer geeignete und
+    ausreichende Lehrmittel für die Durchführung des Unterrichts vorhanden
+    sind,
 
 
-4.  eine fortlaufende Weiterbildung des Lehrpersonals nachgewiesen wird
-    und
+4.  eine fortlaufende Fortbildung des Lehrpersonals gewährleistet wird und
 
 
 5.  keine Tatsachen vorliegen, die gegen die persönliche Zuverlässigkeit
@@ -415,39 +436,145 @@ staatlich anerkannt, wenn
 
 
 
-(3) Die Anerkennung nach Absatz 2 ist zu widerrufen, wenn die
-Anerkennungsvoraussetzungen nicht mehr vorliegen. Im Übrigen bleiben
-die Vorschriften über die Aufhebung von Verwaltungsakten unberührt.
+(3) Die staatliche Anerkennung nach Absatz 2 bedarf der Schriftform.
 
-(4) Die Ausbildungsstätten für die beschleunigte Grundqualifikation
-und die Weiterbildung haben bei ihrer Tätigkeit die Vorschriften
-dieses Gesetzes und der auf Grund des § 8 erlassenen Rechtsverordnung
-zu beachten. Die Überwachung der Tätigkeit der Ausbildungsstätten nach
-Absatz 1 Nr. 1 und 5 obliegt der nach Landesrecht zuständigen Behörde.
-Sie kann zu diesem Zweck alle erforderlichen Maßnahmen ergreifen. Sie
-kann insbesondere verlangen, dass ihre Vertreter zu den üblichen Büro-
-und Geschäftszeiten Unterrichts- und Geschäftsräume betreten, dort
+(4) Ausbildungsstätten nach Absatz 1 Satz 1 Nummer 1 und 2 und deren
+Lehrpersonal dürfen Unterricht nach § 4 Absatz 2 und § 5 Absatz 1 nur
+in den ihrer Berechtigung nach dem Fahrlehrergesetz entsprechenden
+Unterrichtsräumen durchführen. Ausbildungsstätten nach Absatz 1 Satz 1
+Nummer 3 und 4 sowie deren Lehrpersonal dürfen Unterricht nur in
+eigenen Räumen ihrer Betriebsstätte durchführen. Ausbildungsstätten
+nach Absatz 1 Satz 1 Nummer 5 dürfen Unterricht nur in den in der
+staatlichen Anerkennung aufgeführten Unterrichtsräumen durchführen.
+
+
+## § 7a Untersagung der Tätigkeit, Widerruf der Anerkennung
+
+(1) Einer Ausbildungsstätte nach § 7 Absatz 1 Nummer 1 bis 4 kann die
+Durchführung des Unterrichts für die beschleunigte Grundqualifikation
+und für die Weiterbildung durch die nach Landesrecht zuständige
+Behörde untersagt werden, wenn durch Handlungen einer verantwortlichen
+Person in grober Weise gegen die Pflichten dieses Gesetzes oder einer
+auf Grund dieses Gesetzes erlassenen Rechtsverordnung nach § 8
+verstoßen wurde.
+
+(2) Einer Ausbildungsstätte nach § 7 Absatz 1 Nummer 1 bis 4 ist die
+Durchführung des Unterrichts für die beschleunigte Grundqualifikation
+und die Weiterbildung durch die nach Landesrecht zuständige Behörde zu
+untersagen, wenn wiederholt durch eine verantwortliche Person der
+Ausbildungsstätte Teilnahmebescheinigungen ausgestellt werden, obwohl
+
+1.  der Unterricht nicht in der Form oder in dem Umfang stattgefunden hat,
+    wie in der Teilnahmebescheinigung angegeben, oder
+
+
+2.  der in der Teilnahmebescheinigung genannte Teilnehmer nicht in dem
+    Umfang an einem Unterricht teilgenommen hat, wie in der Bescheinigung
+    angegeben.
+
+
+
+
+(3) Im Falle einer Ausbildungsstätte nach § 7 Absatz 1 Nummer 5 gelten
+die Absätze 1 und 2 mit der Maßgabe entsprechend, dass unbeschadet der
+verwaltungsverfahrensrechtlichen Vorschriften über den Widerruf von
+Verwaltungsakten an die Stelle der Untersagung der Widerruf der
+Anerkennung durch die nach Landesrecht zuständige Stelle tritt.
+
+(4) Verantwortliche Personen sind alle zur Vertretung der
+Ausbildungsstätte berechtigten Personen sowie alle zur Durchführung
+von Unterricht eingesetzten Personen.
+
+(5) Die nach Landesrecht zuständige Behörde kann die Ausübung von
+Tätigkeiten nach diesem Gesetz untersagen, wenn Unterrichtsmaßnahmen
+im Sinne dieses Gesetzes angeboten oder durchgeführt werden, ohne dass
+die hierfür erforderliche Anerkennung erfolgt ist.
+
+(6) In Fällen der Absätze 1 bis 3 und 5 haben Widerspruch und
+Anfechtungsklage keine aufschiebende Wirkung.
+
+
+## § 7b Überwachung von Ausbildungsstätten
+
+(1) Die Überwachung der Tätigkeit der Ausbildungsstätten nach § 7
+Absatz 1 Satz 1 Nummer 1 und 5 obliegt der nach Landesrecht
+zuständigen Behörde. Sie kann zu diesem Zweck alle erforderlichen
+Maßnahmen ergreifen. Sie kann insbesondere verlangen, dass ihre
+Vertreter zu den Büro- und Geschäftszeiten der jeweiligen
+Ausbildungsstätte Unterrichts- und Geschäftsräume betreten, dort
 Prüfungen und Besichtigungen durchführen und am Unterricht teilnehmen
-können. Ferner kann sie einer Ausbildungsstätte nach Absatz 1 Nr. 1
-die Ausübung von Tätigkeiten nach diesem Gesetz untersagen, wenn diese
-die in Absatz 2 genannten Voraussetzungen nicht erfüllt. Die
-Überwachung der Tätigkeit der Ausbildungsstätten nach Absatz 1 Nummer
-3 und 4 obliegt den Industrie- und Handelskammern. Für diese gelten
-die Sätze 4 und 5 entsprechend.
+können.
+
+(2) Die Überwachung der Tätigkeit der Ausbildungsstätten nach § 7
+Absatz 1 Satz 1 Nummer 3 und 4 obliegt den nach dem
+Berufsbildungsgesetz für die Berufsbildung in nichthandwerklichen
+Gewerbeberufen zuständigen Stellen. Für diese gilt Absatz 1 Satz 2 und
+3 entsprechend. Stellt die nach Satz 1 zuständige Stelle in Ausübung
+ihrer Befugnisse Tatsachen fest, die die Annahme rechtfertigen, dass
+gegen Pflichten dieses Gesetzes oder einer auf Grund dieses Gesetzes
+erlassenen Rechtsverordnung nach § 8 zuwidergehandelt wurde,
+übermittelt sie derartige Feststellungen unverzüglich der nach
+Landesrecht zuständigen Behörde.
+
+(3) Die für die Überwachung zuständige Stelle kann sich zur
+Durchführung der Überwachung nach den Absätzen 1 und 2 geeigneter
+Personen oder Stellen bedienen. Eine Überprüfung vor Ort hat
+mindestens alle zwei Jahre zu erfolgen. Die Überprüfung ist bezogen
+auf den Unterricht ohne vorherige Ankündigung durchzuführen; bezogen
+auf eine alleinige Überprüfung der Räume ist die Überprüfung
+mindestens zwei Tage im Voraus anzukündigen. Die in Satz 2 genannte
+Frist kann von der für die Überwachung zuständigen Stelle auf vier
+Jahre festgesetzt werden, wenn in zwei aufeinanderfolgenden
+Überprüfungen keine oder nur geringfügige Mängel festgestellt worden
+sind. Ausbildungsstätten haben bis spätestens fünf Werktage vor
+Durchführung eines Unterrichts nach § 4 Absatz 2 oder § 5 Absatz 1
+folgende Angaben der für die Überwachung zuständigen Stelle
+schriftlich oder elektronisch anzuzeigen:
+
+1.  die Anschrift des Ortes, an dem der Unterricht stattfinden soll,
+
+
+2.  das Datum,
+
+
+3.  den Beginn und das Ende der geplanten Unterrichtseinheiten,
+
+
+4.  den Gegenstand des Unterrichts nach Anlage 1 der Berufskraftfahrer-
+    Qualifikations-Verordnung und
+
+
+5.  den verantwortlichen Unterrichtsleiter.
+
+
+
+Die Angaben nach Satz 5 sind von der für die Überwachung zuständigen
+Stelle und von den zur Durchführung der Überwachung beauftragten
+Personen oder Stellen spätestens sechs Jahre nach Abschluss des
+Unterrichts zu löschen.
 
 
 ## § 8 Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Technologie und dem Bundesministerium für Bildung und Forschung
-durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu
-treffen über
+und Energie und dem Bundesministerium für Bildung und Forschung durch
+Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen
+über
 
 1.  die näheren Einzelheiten des Erwerbs der Grundqualifikation und der
-    Weiterbildung, insbesondere über Voraussetzungen der Zulassung der
-    Bewerber oder Bewerberin, Inhalte von Unterricht und Prüfungen sowie
-    die Ausstellung von Bescheinigungen;
+    Weiterbildung, insbesondere über
+
+    a)  die Voraussetzungen der Zulassung der Bewerber oder Bewerberinnen,
+        Inhalte von Unterricht und Prüfungen und Anforderungen an Lehrmittel,
+        Unterrichtsräume und Ausbilder,
+
+
+    b)  die Art und Weise des Unterrichts und der Prüfungen und die
+        Ausstellung, Aufbewahrung und Vorlage von Bescheinigungen;
+
+
+
 
 
 2.  die örtliche Zuständigkeit der Industrie- und Handelskammern;
@@ -474,25 +601,104 @@ die für die Durchführung dieses Gesetzes zuständigen Behörden zu
 bestimmen. Die Landesregierungen können diese Ermächtigung auf die
 zuständige oberste Landesbehörde übertragen.
 
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+zur Berücksichtigung besonderer regionaler Bedürfnisse hinsichtlich
+Fahrern, die
+
+1.  in einem anderen Mitgliedstaat der Europäischen Union, in einem
+    anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum oder in der Schweiz ihren ordentlichen Wohnsitz haben,
+
+
+2.  in Deutschland beschäftigt sind und
+
+
+3.  in Deutschland ihre Weiterbildung absolvieren
+
+
+
+(Grenzgänger) sind, abweichend von den bundesrechtlichen Vorschriften
+zum Nachweis der Berufskraftfahrerqualifikation einen
+Fahrerqualifizierungsnachweis nach dem Muster des Anhangs II der
+Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom
+15\. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer
+bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und
+zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der
+Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie
+76/914/EWG des Rates (ABl. L 226 vom 10.9.2003, S. 4) vorzusehen und
+die zur Ausstellung dieses Nachweises erforderlichen Vorschriften,
+auch zum Verfahren, zu erlassen. Ein auf Grund einer Rechtsverordnung
+nach Satz 1 ausgestellter Fahrerqualifizierungsnachweis steht einem
+Nachweis nach den bundesrechtlichen Vorschriften gleich. Die
+Landesregierungen können die Ermächtigung nach Satz 1 durch
+Rechtsverordnung auf die zuständigen obersten Landesbehörden
+übertragen.
+
 
 ## § 9 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
-2 Abs. 1 oder 2, jeweils auch in Verbindung mit Abs. 5, eine Fahrt
-durchführt.
+(1) Ordnungswidrig handelt, wer
 
-(2) Ordnungswidrig handelt, wer entgegen § 2 Abs. 3 eine Fahrt
-anordnet oder zulässt.
+1.  entgegen § 2 Absatz 3 eine Fahrt anordnet oder zulässt oder
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer
-Geldbuße bis zu fünftausend Euro, in den Fällen des Absatzes 2 mit
-einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-(4) Soweit die Ordnungswidrigkeit bei einer Kontrolle des Bundesamtes
-für Güterverkehr festgestellt wird oder in einem Unternehmen begangen
-wird, das seinen Sitz im Ausland hat, ist Verwaltungsbehörde im Sinne
-des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das
-Bundesamt für Güterverkehr. In den übrigen Fällen ist
-Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
-Ordnungswidrigkeiten die nach § 8 Abs. 3 bestimmte Behörde.
+2.  entgegen § 7 Absatz 1 Satz 2 oder Absatz 4 Unterricht anbietet oder
+    durchführt.
+
+
+
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 2 Absatz 1 oder Absatz 2, jeweils auch in Verbindung mit
+    Absatz 5, eine Fahrt durchführt,
+
+
+2.  einer vollziehbaren Anordnung nach § 7a Absatz 1, Absatz 2 oder Absatz
+    5 zuwiderhandelt,
+
+
+3.  entgegen § 7b Absatz 3 Satz 5 eine Anzeige nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erstattet oder
+
+
+4.  einer Rechtsverordnung nach
+
+    a)  § 8 Absatz 1 Nummer 1 Buchstabe a oder
+
+
+    b)  § 8 Absatz 1 Nummer 1 Buchstabe b
+
+
+
+
+    oder einer vollziehbaren Anordnung auf Grund einer solchen
+    Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
+    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+
+
+
+
+(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2
+Nummer 4 Buchstabe a mit einer Geldbuße bis zu zwanzigtausend Euro, in
+den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
+werden.
+
+(4) Soweit eine Ordnungswidrigkeit nach Absatz 1 Nummer 1 oder nach
+Absatz 2 Nummer 1 bei einer Kontrolle des Bundesamtes für Güterverkehr
+festgestellt wird oder in einem Unternehmen begangen wird, das seinen
+Sitz im Ausland hat, ist Verwaltungsbehörde im Sinne des § 36 Absatz 1
+Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für
+Güterverkehr.
+
+
+## § 10 Verkündung von Rechtsverordnungen
+
+Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs-
+und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+
+
+## § 11 Übergangsvorschriften
+
+§ 7a Absatz 2, 3 und 5 ist erst ab dem 1. April 2017 anzuwenden.
 

@@ -180,8 +180,9 @@ Fertigkeiten zuzurechnen:
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
 
 
+Gliederung, Dauer und Bestehen der praktischen Prüfung
 
-### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+### § 2 (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -252,8 +253,9 @@ auszuführen:
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
 
+Prüfung der fachtheoretischen Kenntnisse
 
-### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+### § 5 (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden sechs Prüfungsfächern
 nachzuweisen:

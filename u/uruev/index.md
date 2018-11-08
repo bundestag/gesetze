@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1542
 
 Zuletzt geändert durch
-:   Art. 26 G v. 22.6.1998 I 1474
+:   Art. 15 Abs. 34 G v. 4.5.2021 I 882
 
 
 ## Eingangsformel

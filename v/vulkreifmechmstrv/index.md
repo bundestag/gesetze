@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
-  in den Teilen I und II der Meisterprüfung im Vulkaniseur- und Reifenmechaniker-Handwerk
+Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
+  in den Teilen I und II der Meisterprüfung im  Vulkaniseur- und Reifenmechaniker-Handwerk
 jurabk: VulkReifMechMstrV
 layout: default
 origslug: vulkreifmechmstrv
@@ -8,7 +8,7 @@ slug: vulkreifmechmstrv
 
 ---
 
-# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Vulkaniseur- und Reifenmechaniker-Handwerk (VulkReifMechMstrV)
+# Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im  Vulkaniseur- und Reifenmechaniker-Handwerk (VulkReifMechMstrV)
 
 Ausfertigungsdatum
 :   2006-05-05

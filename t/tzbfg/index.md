@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 1966
 
 Zuletzt geändert durch
-:   Art. 23 G v. 20.12.2011 I 2854
+:   Art. 10 G v. 22.11.2019 I 1746
 
 Dieses Gesetz dient der Umsetzung - der Richtlinie 97/81/EG des Rates
 vom 15. Dezember 1997 zu der von UNICE, CEEP und EGB geschlossenen
@@ -124,35 +124,43 @@ Der Arbeitgeber hat den Arbeitnehmern, auch in leitenden Positionen,
 Teilzeitarbeit nach Maßgabe dieses Gesetzes zu ermöglichen.
 
 
-### § 7 Ausschreibung; Information über freie Arbeitsplätze
+### § 7 Ausschreibung; Erörterung; Information über freie Arbeitsplätze
 
 (1) Der Arbeitgeber hat einen Arbeitsplatz, den er öffentlich oder
 innerhalb des Betriebes ausschreibt, auch als Teilzeitarbeitsplatz
 auszuschreiben, wenn sich der Arbeitsplatz hierfür eignet.
 
-(2) Der Arbeitgeber hat einen Arbeitnehmer, der ihm den Wunsch nach
-einer Veränderung von Dauer und Lage seiner vertraglich vereinbarten
-Arbeitszeit angezeigt hat, über entsprechende Arbeitsplätze zu
-informieren, die im Betrieb oder Unternehmen besetzt werden sollen.
+(2) Der Arbeitgeber hat mit dem Arbeitnehmer dessen Wunsch nach
+Veränderung von Dauer oder Lage oder von Dauer und Lage seiner
+vertraglich vereinbarten Arbeitszeit zu erörtern. Dies gilt unabhängig
+vom Umfang der Arbeitszeit. Der Arbeitnehmer kann ein Mitglied der
+Arbeitnehmervertretung zur Unterstützung oder Vermittlung hinzuziehen.
 
-(3) Der Arbeitgeber hat die Arbeitnehmervertretung über Teilzeitarbeit
-im Betrieb und Unternehmen zu informieren, insbesondere über
-vorhandene oder geplante Teilzeitarbeitsplätze und über die Umwandlung
-von Teilzeitarbeitsplätzen in Vollzeitarbeitsplätze oder umgekehrt.
-Der Arbeitnehmervertretung sind auf Verlangen die erforderlichen
+(3) Der Arbeitgeber hat einen Arbeitnehmer, der ihm den Wunsch nach
+einer Veränderung von Dauer oder Lage oder von Dauer und Lage seiner
+vertraglich vereinbarten Arbeitszeit angezeigt hat, über entsprechende
+Arbeitsplätze zu informieren, die im Betrieb oder Unternehmen besetzt
+werden sollen.
+
+(4) Der Arbeitgeber hat die Arbeitnehmervertretung über angezeigte
+Arbeitszeitwünsche nach Absatz 2 sowie über Teilzeitarbeit im Betrieb
+und Unternehmen zu informieren, insbesondere über vorhandene oder
+geplante Teilzeitarbeitsplätze und über die Umwandlung von
+Teilzeitarbeitsplätzen in Vollzeitarbeitsplätze oder umgekehrt. Der
+Arbeitnehmervertretung sind auf Verlangen die erforderlichen
 Unterlagen zur Verfügung zu stellen; § 92 des
 Betriebsverfassungsgesetzes bleibt unberührt.
 
 
-### § 8 Verringerung der Arbeitszeit
+### § 8 Zeitlich nicht begrenzte Verringerung der Arbeitszeit
 
 (1) Ein Arbeitnehmer, dessen Arbeitsverhältnis länger als sechs Monate
 bestanden hat, kann verlangen, dass seine vertraglich vereinbarte
 Arbeitszeit verringert wird.
 
 (2) Der Arbeitnehmer muss die Verringerung seiner Arbeitszeit und den
-Umfang der Verringerung spätestens drei Monate vor deren Beginn
-geltend machen. Er soll dabei die gewünschte Verteilung der
+Umfang der Verringerung spätestens drei Monate vor deren Beginn in
+Textform geltend machen. Er soll dabei die gewünschte Verteilung der
 Arbeitszeit angeben.
 
 (3) Der Arbeitgeber hat mit dem Arbeitnehmer die gewünschte
@@ -173,23 +181,23 @@ tariflichen Regelungen über die Ablehnungsgründe vereinbaren.
 
 (5) Die Entscheidung über die Verringerung der Arbeitszeit und ihre
 Verteilung hat der Arbeitgeber dem Arbeitnehmer spätestens einen Monat
-vor dem gewünschten Beginn der Verringerung schriftlich mitzuteilen.
+vor dem gewünschten Beginn der Verringerung in Textform mitzuteilen.
 Haben sich Arbeitgeber und Arbeitnehmer nicht nach Absatz 3 Satz 1
 über die Verringerung der Arbeitszeit geeinigt und hat der Arbeitgeber
 die Arbeitszeitverringerung nicht spätestens einen Monat vor deren
-gewünschtem Beginn schriftlich abgelehnt, verringert sich die
+gewünschtem Beginn in Textform abgelehnt, verringert sich die
 Arbeitszeit in dem vom Arbeitnehmer gewünschten Umfang. Haben
 Arbeitgeber und Arbeitnehmer über die Verteilung der Arbeitszeit kein
 Einvernehmen nach Absatz 3 Satz 2 erzielt und hat der Arbeitgeber
 nicht spätestens einen Monat vor dem gewünschten Beginn der
-Arbeitszeitverringerung die gewünschte Verteilung der Arbeitszeit
-schriftlich abgelehnt, gilt die Verteilung der Arbeitszeit
-entsprechend den Wünschen des Arbeitnehmers als festgelegt. Der
-Arbeitgeber kann die nach Satz 3 oder Absatz 3 Satz 2 festgelegte
-Verteilung der Arbeitszeit wieder ändern, wenn das betriebliche
-Interesse daran das Interesse des Arbeitnehmers an der Beibehaltung
-erheblich überwiegt und der Arbeitgeber die Änderung spätestens einen
-Monat vorher angekündigt hat.
+Arbeitszeitverringerung die gewünschte Verteilung der Arbeitszeit in
+Textform abgelehnt, gilt die Verteilung der Arbeitszeit entsprechend
+den Wünschen des Arbeitnehmers als festgelegt. Der Arbeitgeber kann
+die nach Satz 3 oder Absatz 3 Satz 2 festgelegte Verteilung der
+Arbeitszeit wieder ändern, wenn das betriebliche Interesse daran das
+Interesse des Arbeitnehmers an der Beibehaltung erheblich überwiegt
+und der Arbeitgeber die Änderung spätestens einen Monat vorher
+angekündigt hat.
 
 (6) Der Arbeitnehmer kann eine erneute Verringerung der Arbeitszeit
 frühestens nach Ablauf von zwei Jahren verlangen, nachdem der
@@ -205,12 +213,114 @@ beschäftigt.
 ### § 9 Verlängerung der Arbeitszeit
 
 Der Arbeitgeber hat einen teilzeitbeschäftigten Arbeitnehmer, der ihm
-den Wunsch nach einer Verlängerung seiner vertraglich vereinbarten
-Arbeitszeit angezeigt hat, bei der Besetzung eines entsprechenden
-freien Arbeitsplatzes bei gleicher Eignung bevorzugt zu
-berücksichtigen, es sei denn, dass dringende betriebliche Gründe oder
-Arbeitszeitwünsche anderer teilzeitbeschäftigter Arbeitnehmer
-entgegenstehen.
+in Textform den Wunsch nach einer Verlängerung seiner vertraglich
+vereinbarten Arbeitszeit angezeigt hat, bei der Besetzung eines
+Arbeitsplatzes bevorzugt zu berücksichtigen, es sei denn, dass
+
+1.  es sich dabei nicht um einen entsprechenden freien Arbeitsplatz
+    handelt oder
+
+
+2.  der teilzeitbeschäftigte Arbeitnehmer nicht mindestens gleich geeignet
+    ist wie ein anderer vom Arbeitgeber bevorzugter Bewerber oder
+
+
+3.  Arbeitszeitwünsche anderer teilzeitbeschäftigter Arbeitnehmer oder
+
+
+4.  dringende betriebliche Gründe entgegenstehen.
+
+
+
+
+Ein freier zu besetzender Arbeitsplatz liegt vor, wenn der Arbeitgeber
+die Organisationsentscheidung getroffen hat, diesen zu schaffen oder
+einen unbesetzten Arbeitsplatz neu zu besetzen.
+
+
+### § 9a Zeitlich begrenzte Verringerung der Arbeitszeit
+
+(1) Ein Arbeitnehmer, dessen Arbeitsverhältnis länger als sechs Monate
+bestanden hat, kann verlangen, dass seine vertraglich vereinbarte
+Arbeitszeit für einen im Voraus zu bestimmenden Zeitraum verringert
+wird. Der begehrte Zeitraum muss mindestens ein Jahr und darf
+höchstens fünf Jahre betragen. Der Arbeitnehmer hat nur dann einen
+Anspruch auf zeitlich begrenzte Verringerung der Arbeitszeit, wenn der
+Arbeitgeber in der Regel mehr als 45 Arbeitnehmer beschäftigt.
+
+(2) Der Arbeitgeber kann das Verlangen des Arbeitnehmers nach
+Verringerung der Arbeitszeit ablehnen, soweit betriebliche Gründe
+entgegenstehen; § 8 Absatz 4 gilt entsprechend. Ein Arbeitgeber, der
+in der Regel mehr als 45, aber nicht mehr als 200 Arbeitnehmer
+beschäftigt, kann das Verlangen eines Arbeitnehmers auch ablehnen,
+wenn zum Zeitpunkt des begehrten Beginns der verringerten Arbeitszeit
+bei einer Arbeitnehmerzahl von in der Regel
+
+1.  mehr als 45 bis 60 bereits mindestens vier,
+
+
+2.  mehr als 60 bis 75 bereits mindestens fünf,
+
+
+3.  mehr als 75 bis 90 bereits mindestens sechs,
+
+
+4.  mehr als 90 bis 105 bereits mindestens sieben,
+
+
+5.  mehr als 105 bis 120 bereits mindestens acht,
+
+
+6.  mehr als 120 bis 135 bereits mindestens neun,
+
+
+7.  mehr als 135 bis 150 bereits mindestens zehn,
+
+
+8.  mehr als 150 bis 165 bereits mindestens elf,
+
+
+9.  mehr als 165 bis 180 bereits mindestens zwölf,
+
+
+10. mehr als 180 bis 195 bereits mindestens 13,
+
+
+11. mehr als 195 bis 200 bereits mindestens 14
+
+
+
+andere Arbeitnehmer ihre Arbeitszeit nach Absatz 1 verringert haben.
+
+(3) Im Übrigen gilt für den Umfang der Verringerung der Arbeitszeit
+und für die gewünschte Verteilung der Arbeitszeit § 8 Absatz 2 bis 5.
+Für den begehrten Zeitraum der Verringerung der Arbeitszeit sind § 8
+Absatz 2 Satz 1, Absatz 3 Satz 1, Absatz 4 sowie Absatz 5 Satz 1 und 2
+entsprechend anzuwenden.
+
+(4) Während der Dauer der zeitlich begrenzten Verringerung der
+Arbeitszeit kann der Arbeitnehmer keine weitere Verringerung und keine
+Verlängerung seiner Arbeitszeit nach diesem Gesetz verlangen; § 9
+findet keine Anwendung.
+
+(5) Ein Arbeitnehmer, der nach einer zeitlich begrenzten Verringerung
+der Arbeitszeit nach Absatz 1 zu seiner ursprünglichen vertraglich
+vereinbarten Arbeitszeit zurückgekehrt ist, kann eine erneute
+Verringerung der Arbeitszeit nach diesem Gesetz frühestens ein Jahr
+nach der Rückkehr zur ursprünglichen Arbeitszeit verlangen. Für einen
+erneuten Antrag auf Verringerung der Arbeitszeit nach berechtigter
+Ablehnung auf Grund entgegenstehender betrieblicher Gründe nach Absatz
+2 Satz 1 gilt § 8 Absatz 6 entsprechend. Nach berechtigter Ablehnung
+auf Grund der Zumutbarkeitsregelung nach Absatz 2 Satz 2 kann der
+Arbeitnehmer frühestens nach Ablauf von einem Jahr nach der Ablehnung
+erneut eine Verringerung der Arbeitszeit verlangen.
+
+(6) Durch Tarifvertrag kann der Rahmen für den Zeitraum der
+Arbeitszeitverringerung abweichend von Absatz 1 Satz 2 auch
+zuungunsten des Arbeitnehmers festgelegt werden.
+
+(7) Bei der Anzahl der Arbeitnehmer nach Absatz 1 Satz 3 und Absatz 2
+sind Personen in Berufsbildung nicht zu berücksichtigen.
 
 
 ### § 10 Aus- und Weiterbildung
@@ -238,16 +348,39 @@ Arbeitnehmer seine Arbeitsleistung entsprechend dem Arbeitsanfall zu
 erbringen hat (Arbeit auf Abruf). Die Vereinbarung muss eine bestimmte
 Dauer der wöchentlichen und täglichen Arbeitszeit festlegen. Wenn die
 Dauer der wöchentlichen Arbeitszeit nicht festgelegt ist, gilt eine
-Arbeitszeit von zehn Stunden als vereinbart. Wenn die Dauer der
+Arbeitszeit von 20 Stunden als vereinbart. Wenn die Dauer der
 täglichen Arbeitszeit nicht festgelegt ist, hat der Arbeitgeber die
 Arbeitsleistung des Arbeitnehmers jeweils für mindestens drei
 aufeinander folgende Stunden in Anspruch zu nehmen.
 
-(2) Der Arbeitnehmer ist nur zur Arbeitsleistung verpflichtet, wenn
+(2) Ist für die Dauer der wöchentlichen Arbeitszeit nach Absatz 1 Satz
+2 eine Mindestarbeitszeit vereinbart, darf der Arbeitgeber nur bis zu
+25 Prozent der wöchentlichen Arbeitszeit zusätzlich abrufen. Ist für
+die Dauer der wöchentlichen Arbeitszeit nach Absatz 1 Satz 2 eine
+Höchstarbeitszeit vereinbart, darf der Arbeitgeber nur bis zu 20
+Prozent der wöchentlichen Arbeitszeit weniger abrufen.
+
+(3) Der Arbeitnehmer ist nur zur Arbeitsleistung verpflichtet, wenn
 der Arbeitgeber ihm die Lage seiner Arbeitszeit jeweils mindestens
 vier Tage im Voraus mitteilt.
 
-(3) Durch Tarifvertrag kann von den Absätzen 1 und 2 auch zuungunsten
+(4) Zur Berechnung der Entgeltfortzahlung im Krankheitsfall ist die
+maßgebende regelmäßige Arbeitszeit im Sinne von § 4 Absatz 1 des
+Entgeltfortzahlungsgesetzes die durchschnittliche Arbeitszeit der
+letzten drei Monate vor Beginn der Arbeitsunfähigkeit
+(Referenzzeitraum). Hat das Arbeitsverhältnis bei Beginn der
+Arbeitsunfähigkeit keine drei Monate bestanden, ist der Berechnung des
+Entgeltfortzahlungsanspruchs die durchschnittliche Arbeitszeit dieses
+kürzeren Zeitraums zugrunde zu legen. Zeiten von Kurzarbeit,
+unverschuldeter Arbeitsversäumnis, Arbeitsausfällen und Urlaub im
+Referenzzeitraum bleiben außer Betracht. Für den Arbeitnehmer
+günstigere Regelungen zur Berechnung der Entgeltfortzahlung im
+Krankheitsfall finden Anwendung.
+
+(5) Für die Berechnung der Entgeltzahlung an Feiertagen nach § 2
+Absatz 1 des Entgeltfortzahlungsgesetzes gilt Absatz 4 entsprechend.
+
+(6) Durch Tarifvertrag kann von den Absätzen 1 und 3 auch zuungunsten
 des Arbeitnehmers abgewichen werden, wenn der Tarifvertrag Regelungen
 über die tägliche und wöchentliche Arbeitszeit und die
 Vorankündigungsfrist vorsieht. Im Geltungsbereich eines solchen
@@ -460,14 +593,15 @@ die §§ 16 bis 20 entsprechend.
 
 ### § 22 Abweichende Vereinbarungen
 
-(1) Außer in den Fällen des § 12 Abs. 3, § 13 Abs. 4 und § 14 Abs. 2
-Satz 3 und 4 kann von den Vorschriften dieses Gesetzes nicht
-zuungunsten des Arbeitnehmers abgewichen werden.
+(1) Außer in den Fällen des § 9a Absatz 6, § 12 Absatz 6, § 13 Absatz
+4 und § 14 Absatz 2 Satz 3 und 4 kann von den Vorschriften dieses
+Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.
 
 (2) Enthält ein Tarifvertrag für den öffentlichen Dienst Bestimmungen
-im Sinne des § 8 Abs. 4 Satz 3 und 4, § 12 Abs. 3, § 13 Abs. 4, § 14
-Abs. 2 Satz 3 und 4 oder § 15 Abs. 3, so gelten diese Bestimmungen
-auch zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern
+im Sinne des § 8 Absatz 4 Satz 3 und 4, auch in Verbindung mit § 9a
+Absatz 2, des § 9a Absatz 6, § 12 Absatz 6, § 13 Absatz 4, § 14 Absatz
+2 Satz 3 und 4 oder § 15 Absatz 3, so gelten diese Bestimmungen auch
+zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern
 außerhalb des öffentlichen Dienstes, wenn die Anwendung der für den
 öffentlichen Dienst geltenden tarifvertraglichen Bestimmungen zwischen
 ihnen vereinbart ist und die Arbeitgeber die Kosten des Betriebes

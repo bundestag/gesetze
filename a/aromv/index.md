@@ -1,6 +1,5 @@
 ---
-Title: Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher
-  Kennzeichnungsvorschriften)
+Title: Aromenverordnung
 jurabk: AromV
 layout: default
 origslug: aromv
@@ -8,7 +7,7 @@ slug: aromv
 
 ---
 
-# Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher Kennzeichnungsvorschriften) (AromV)
+# Aromenverordnung (AromV)
 
 Ausfertigungsdatum
 :   1981-12-22
@@ -20,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.5.2006 I 1127;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.9.2011 I 1996
+:   Art. 3 V v. 5.7.2017 I 2272
 
 
 ## § 1 Begriffsbestimmung
@@ -110,9 +109,19 @@ gebracht werden, wenn der Begriff „natürlich“ im Einklang mit Artikel
 Aromen und alkoholfreie Erfrischungsgetränke, die Chinin oder dessen
 Salze enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht
 werden, wenn sie durch die Angabe "chininhaltig" kenntlich gemacht
-sind. Satz 1 gilt nicht für alkoholfreie Erfrischungsgetränke, die
-nach den Vorschriften der Lebensmittel-Kennzeichnungsverordnung zu
-kennzeichnen sind.
+sind. Satz 1 gilt nicht für alkoholfreie Erfrischungsgetränke, die zu
+kennzeichnen sind nach der Verordnung (EU) Nr. 1169/2011 des
+Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend
+die Information der Verbraucher über Lebensmittel und zur Änderung der
+Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des
+Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie
+87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der
+Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des
+Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und
+2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der
+Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S.
+41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der
+jeweils geltenden Fassung.
 
 
 ## § 5a (weggefallen)
@@ -202,8 +211,9 @@ zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
 -
 
+(zu § 2)
 
-## Anlage 4 (zu § 2) Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
+## Anlage 4 Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
 
 (Fundstelle: BGBl. I 2011, 1997)
 
@@ -231,8 +241,9 @@ zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
 
 
+(zu § 3)
 
-## Anlage 5 (zu § 3) Zusatzstoffe
+## Anlage 5 Zusatzstoffe
 
 (Fundstelle: BGBl. I 2006, 1135 - 1137
 bzgl. der einzelnen Änderungen vgl. Fußnote)

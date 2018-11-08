@@ -502,8 +502,9 @@ I
 --
 (Inhalt: nicht darstellbare Tabelle, Seiten 4 u. 5)
 
+(zu § 9 Nr. 1)
 
-## Anhang B (zu § 9 Nr. 1) Prüfungsausschüsse
+## Anhang B Prüfungsausschüsse
 
 Prüfungsausschüsse bestehen in:
 

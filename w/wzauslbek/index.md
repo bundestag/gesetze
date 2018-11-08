@@ -32,7 +32,7 @@ Staaten:
 
 
 
-deutsche Warenbezeichnungen in gleichem Umfang wie inländische
-Warenbezeichnungen zum gesetzlichen Schutz zugelassen werden.\*
+deutsche Warenbezeichnungen in gleichem Umfange wie inländische
+Warenbezeichnungen zum gesetzlichen Schutz zugelassen werden.
 Der Reichskanzler
 

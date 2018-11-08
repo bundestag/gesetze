@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 2013
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2011 I 2727
+:   Art. 125 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -58,14 +58,14 @@ Umweltmanagements gerichtet sein.
 Bereich des Umweltschutzes ausgedehnt werden, wenn hierdurch die
 Aufgabenerfüllung nach Absatz 1 nicht beeinträchtigt wird. Die
 Erweiterung des Gesellschaftszwecks bedarf der Zustimmung des
-Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit; sie
-ist zu erteilen, soweit die beabsichtigte Erweiterung des
+Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit;
+sie ist zu erteilen, soweit die beabsichtigte Erweiterung des
 Gesellschaftszwecks nicht der unabhängigen Aufgabenerfüllung
 entgegensteht.
 
 (3) Die Bestellung des Geschäftsführers der Beliehenen erfolgt in
 Abstimmung mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit. Es kann der Bestellung widersprechen, wenn durch
+nukleare Sicherheit. Es kann der Bestellung widersprechen, wenn durch
 die Bestellung des vorgeschlagenen Geschäftsführers die Eignung der
 Beliehenen im Sinne des § 28 des Umweltauditgesetzes in Frage gestellt
 wird.
@@ -88,7 +88,7 @@ sicherzustellen. Hierzu gehört auch, daß
 
 
 (5) Die Beliehene hat dem Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit
+und nukleare Sicherheit
 
 1.  Änderungen des Gesellschaftsvertrags, die sich auf die Wahrnehmung
     ihrer Aufgaben auswirken können, mitzuteilen sowie
@@ -108,11 +108,11 @@ aufhebenden Verordnung. Bis zur Beendigung der Beleihung ist die
 Beliehene zur ordnungsgemäßen Wahrnehmung der ihr übertragenen
 Aufgaben verpflichtet.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit kann die Beleihung jederzeit aufheben. Die Beliehene
-kann die Beendigung der Beleihung jederzeit schriftlich verlangen; dem
-Begehren ist innerhalb einer angemessenen Frist, die zur Fortführung
-der Aufgabenerfüllung durch eine Stelle nach § 28 des
+(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit kann die Beleihung jederzeit aufheben. Die Beliehene kann
+die Beendigung der Beleihung jederzeit schriftlich oder elektronisch
+verlangen; dem Begehren ist innerhalb einer angemessenen Frist, die
+zur Fortführung der Aufgabenerfüllung durch eine Stelle nach § 28 des
 Umweltauditgesetzes erforderlich ist, zu entsprechen.
 
 

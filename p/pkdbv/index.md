@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 166
 
+Geändert durch
+:   Art. 2 Abs. 47 G v. 1.4.2015 I 434
+
 
 
 ## Eingangsformel
@@ -32,7 +35,7 @@ Bundesministerium der Finanzen:
 
 Die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG
 (Pensionskasse) hat die nachstehend veröffentlichte Satzung (Satzung
-im Sinn des § 17 Abs. 1 des Versicherungsaufsichtsgesetzes).
+im Sinn des § 173 Absatz 1 des Versicherungsaufsichtsgesetzes).
 
 
 ## § 2 Satzungsänderungen

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 22. 6.2004 I 1314
 
+Änderung durch
+:   Art. 3 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -51,8 +54,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 1)
 
-## Anlage (zu § 1) Verzeichnis der verwandten Handwerke
+## Anlage Verzeichnis der verwandten Handwerke
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2952;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -123,7 +127,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   9.
 
-    *   Landmaschinenmechaniker
+    *   Land- und Baumaschinenmechatroniker
 
     *   Metallbauer
 
@@ -132,7 +136,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Metallbauer
 
-    *   Feinwerkmechaniker; Landmaschinenmechaniker
+    *   Feinwerkmechaniker; Land- und Baumaschinenmechatroniker
 
 
 *    *   11.
@@ -177,10 +181,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Orthopädietechniker (diabetes-adaptierte Fußbettungen)
 
 
+*    *   17.
+
+    *   Glaser
+
+    *   Glasveredler
+
+
+*    *   18.
+
+    *   Glasveredler
+
+    *   Glaser
+
+
+*    *   19.
+
+    *   Maurer und Betonbauer
+
+    *   Estrichleger
+
+
+*    *   20.
+
+    *   Tischler
+
+    *   Parkettleger
+
+
+*    *
+    *
+    *   Drechsler (Elfenbeinschnitzer) und Holzspielzeugmacher
+        (Holzspielzeuge)
 
 
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 998)
+
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

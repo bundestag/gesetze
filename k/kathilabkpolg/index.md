@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 1178
 
+Geändert durch
+:   Art. 145 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -39,7 +42,8 @@ veröffentlicht.
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in der Republik Polen entstehen, trägt
 
-1.  der Bund, soweit das Bundesministerium des Innern Hilfe zugesagt hat,
+1.  der Bund, soweit das Bundesministerium des Innern, für Bau und Heimat
+    Hilfe zugesagt hat,
 
 
 2.  das jeweilige Land, soweit das Innenministerium des Landes Hilfe

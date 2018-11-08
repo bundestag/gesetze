@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 18
 
+Geändert durch
+:   Art. 209 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -36,10 +39,11 @@ veröffentlicht.
 
 ## Art 2
 
-Die Bundesministerien des Innern und der Finanzen werden jeweils für
-ihren Geschäftsbereich ermächtigt, ohne Zustimmung des Bundesrates die
-Rechtsverordnungen zu erlassen, die zur Durchführung der
-Vereinbarungen nach Artikel 1 Abs. 3 des Vertrags über
+Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen
+werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung
+des Bundesrates die Rechtsverordnungen zu erlassen, die zur
+Durchführung der Vereinbarungen nach Artikel 1 Abs. 3 des Vertrags
+über
 
 a)  die Errichtung zusammenliegender und vorgeschobener Grenzdienststellen
     einschließlich ihres Amtsbereichs,

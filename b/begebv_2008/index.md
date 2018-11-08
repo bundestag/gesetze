@@ -16,9 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 546
 
-Stand: Die V ersetzt die V 930-9-8 v. 5.4.2001 I 562 mWv 1.5.2008
+V aufgeh. durch
+:   Art. 4 Abs. 114 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 3 V v. 29.4.2011 I 705
+:   Art. 2 V v. 26.7.2018 I 1270
+
+Stand: Die V ersetzt die V 930-9-8 v. 5.4.2001 I 562 mWv 1.5.2008
+V aufgeh. durch
+:   Art. 4 Abs. 121 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 121 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -43,29 +49,35 @@ Finanzen und dem Bundesministerium für Wirtschaft und Technologie:
 
 Das Eisenbahn-Bundesamt und die Bundesnetzagentur für Elektrizität,
 Gas, Telekommunikation, Post und Eisenbahnen (Regulierungsbehörde)
-erheben für ihre Amtshandlungen nach dem Allgemeinen Eisenbahngesetz
-und nach dem Bundeseisenbahnverkehrsverwaltungsgesetz Kosten (Gebühren
-und Auslagen) nach dieser Verordnung.
+erheben für ihre individuell zurechenbaren öffentlichen Leistungen
+nach dem Allgemeinen Eisenbahngesetz und nach dem
+Bundeseisenbahnverkehrsverwaltungsgesetz Gebühren und Auslagen nach
+dieser Verordnung.
 
 
 ## § 2 Gebühren
 
-(1) Die gebührenpflichtigen Amtshandlungen und die Gebühren ergeben
-sich aus dem Gebührenverzeichnis (Anlage 1).
+(1) Die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebühren ergeben sich aus dem Gebührenverzeichnis
+(Anlage 1).
 
 (2) Soweit die Gebühr nach dem Zeitaufwand festzusetzen ist, beträgt
 der Stundensatz 100 Euro, für jede angefangene Viertelstunde 25 Euro.
+Der Stundensatz für individuell zurechenbare öffentliche Leistungen
+nach Anlage 1 Teil I und III beträgt 120 Euro, für jede angefangene
+Viertelstunde 30 Euro.
 
-(3) Zur Abgeltung mehrfacher gleichartiger Amtshandlungen für
-denselben Gebührenschuldner kann auf dessen Antrag eine Pauschgebühr
-festgelegt werden. Sie wird im Voraus für den Zeitraum von einem Jahr
-auf der Grundlage einer errechneten Durchschnittsgebühr unter
-Berücksichtigung des geringeren Umfanges des Verwaltungsaufwandes
-festgesetzt.
+(3) Zur Abgeltung mehrfacher gleichartiger individuell zurechenbarer
+öffentlicher Leistungen für denselben Gebührenschuldner kann auf
+dessen Antrag eine Pauschgebühr festgelegt werden. Sie wird im Voraus
+für den Zeitraum von einem Jahr auf der Grundlage einer errechneten
+Durchschnittsgebühr unter Berücksichtigung des geringeren Umfanges des
+Verwaltungsaufwandes festgesetzt.
 
-(4) Der Kostenschuldner hat die zur Bemessung der Gebühr
-erforderlichen Nachweise vorzulegen, bei einer Amtshandlung auf Antrag
-bereits mit dessen Stellung.
+(4) Der Gebührenschuldner hat die zur Bemessung der Gebühr
+erforderlichen Nachweise vorzulegen, bei einer individuell
+zurechenbaren öffentlichen Leistung auf Antrag bereits mit dessen
+Stellung.
 
 
 ## § 3 Gebührenbefreiung
@@ -79,12 +91,12 @@ erhoben.
 ## § 4 Widerspruch
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
-wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung
+wird eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt
 festgesetzten Gebühr erhoben; dies gilt nicht, wenn der Widerspruch
 nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens-
 oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
 unbeachtlich ist. Bei einem erfolglosen Widerspruch, der sich
-ausschließlich gegen eine Kostenentscheidung richtet, beträgt die
+ausschließlich gegen eine Gebührenfestsetzung richtet, beträgt die
 Gebühr höchstens 10 vom Hundert des streitigen Betrages. Wird ein
 Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor
 deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom
@@ -93,48 +105,69 @@ Hundert der Widerspruchsgebühr.
 
 ## § 5 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
-Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
-eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
-Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
-Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
+Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die
+Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung sowie in den Fällen der Zurücknahme eines
+Antrags auf Vornahme einer individuell zurechenbaren öffentlichen
+Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2
+des Bundesgebührengesetzes erhoben.
 
 
 ## § 6 Auslagen
 
-Neben den Gebühren werden vom Kostenschuldner Auslagen entsprechend §
-10 Abs. 1 Nr. 4 und 5 des Verwaltungskostengesetzes gesondert erhoben.
+(1) Neben den Gebühren werden vom Gebührenschuldner Auslagen
+entsprechend § 10 Absatz 1 Nummer 4 und 5 des
+Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) in der am
+14\. August 2013 geltenden Fassung gesondert erhoben.
+
+(2) Neben den Gebühren und den Auslagen nach Absatz 1 werden vom
+Gebührenschuldner Auslagen für Vergütungen von natürlichen oder
+juristischen Personen erhoben, die an der Erfüllung der Aufgaben des
+Eisenbahn-Bundesamtes mitwirken. § 7h Absatz 2 des Allgemeinen
+Eisenbahngesetzes ist zu beachten.
 
 
 ## § 7 Alt-Sachverhalte
 
 (1) Für Sachverhalte, die ab dem 1. Mai 2001 und bis zum Ablauf des
 13\. Juni 2005 entstanden sind, gilt § 2 Abs. 1 mit der Maßgabe, dass
-sich die gebührenpflichtigen Amtshandlungen und die Gebühren aus dem
-Gebührenverzeichnis der Anlage 2 ergeben.
+sich die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebühren aus dem Gebührenverzeichnis der Anlage 2
+ergeben.
 
 (2) Für Sachverhalte, die ab dem 14. Juni 2005 und bis zum Ablauf des
 10\. Juli 2007 entstanden sind, gilt § 2 Abs. 1 mit der Maßgabe, dass
-sich die gebührenpflichtigen Amtshandlungen und die Gebühren aus dem
-Gebührenverzeichnis der Anlage 3 ergeben.
+sich die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebühren aus dem Gebührenverzeichnis der Anlage 3
+ergeben.
 
 (3) Für Sachverhalte, die ab dem 11. Juli 2007 und bis zum Ablauf des
 13\. Juli 2007 entstanden sind, gilt § 2 Abs. 1 mit der Maßgabe, dass
-sich die gebührenpflichtigen Amtshandlungen und die Gebühren aus dem
-Gebührenverzeichnis der Anlage 4 ergeben.
+sich die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebühren aus dem Gebührenverzeichnis der Anlage 4
+ergeben.
 
 (4) Für Sachverhalte, die ab dem 14. Juli 2007 und bis zum Ablauf des
 21\. Januar 2008 entstanden sind, gilt § 2 Abs. 1 mit der Maßgabe, dass
-sich die gebührenpflichtigen Amtshandlungen und die Gebühren aus dem
-Gebührenverzeichnis der Anlage 5 ergeben.
+sich die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebühren aus dem Gebührenverzeichnis der Anlage 5
+ergeben.
 
 (5) Für Sachverhalte, die ab dem 22. Januar 2008 und bis zum Ablauf
 des 30. April 2008 entstanden sind, gilt § 2 Abs. 1 mit der Maßgabe,
-dass sich die gebührenpflichtigen Amtshandlungen und die Gebühren aus
-dem Gebührenverzeichnis der Anlage 6 ergeben.
+dass sich die gebührenpflichtigen individuell zurechenbaren
+öffentlichen Leistungen und die Gebühren aus dem Gebührenverzeichnis
+der Anlage 6 ergeben.
 
 (6) In den Fällen der Absätze 1 und 2 ist § 2 Abs. 2 mit der Maßgabe
 anzuwenden, dass der Stundensatz 81,80 Euro, für jede angefangene
 Viertelstunde 20,45 Euro beträgt.
+
+(7) § 6 Absatz 2 und Anlage 1 Teil I Abschnitt 1 Nummer 1.18 und 1.19
+gelten für vor dem 24. Juli 2014 entstandene Sachverhalte nur, soweit
+es sich um Amtshandlungen und individuell zurechenbare öffentliche
+Leistungen nach § 7g Absatz 1 bis 3 des Allgemeinen Eisenbahngesetzes
+handelt.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
@@ -146,18 +179,21 @@ Diese Verordnung tritt am 1. Mai 2008 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Abs. 1)
 
-## Anlage 1 (zu § 2 Abs. 1) Gebührenverzeichnis
+## Anlage 1 Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2008, 548 - 564;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 ## Teil I
 
-## Gebühren für Amtshandlungen des Eisenbahn-Bundesamtes
+## Gebühren für individuell zurechenbare öffentliche Leistungen des
+Eisenbahn-Bundesamtes
 
 ## Abschnitt 1
 
-## Amtshandlungen nach dem AEG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG
 
 
 *    *   Nr.
@@ -208,8 +244,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         § 9 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 16 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 19 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
-        § 21 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
-        § 19 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
+        § 26 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
+        § 24 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
         § 8 BImSchV 26 i. V. m. § 4 Abs. 2 AEG,
         § 11 BImSchV 31 i. V. m. § 4 Abs. 2 AEG,
         § 3 BImSchV 34 i. V. m. § 4 Abs. 2 AEG,
@@ -240,7 +276,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   § 5a Abs. 2 AEG
 
     *   nach Aufwand von
-        300 bis 1.000 Euro
+        300 bis 1 000 Euro
 
 
 *    *   1.3
@@ -279,11 +315,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.6
 
-    *   Prüfung einer neuen oder geänderten Bauform bzw.
-        -art                      (Typzulassung) von Signal-,
-        Telekommunikations- und Elektrotechnischen Anlagen und Ausstellen
-        einer entsprechenden Bescheinigung bei verantwortlich veranlasstem
-        oder begründetem Verdacht oder auf Antrag
+    *   Prüfung einer neuen oder geänderten Bauform bzw. -art (Typzulassung)
+        von Signal-, Telekommunikations- und Elektrotechnischen Anlagen und
+        Ausstellen einer entsprechenden Bescheinigung bei verantwortlich
+        veranlasstem oder begründetem Verdacht oder auf Antrag
 
     *   § 5a Abs. 2 AEG
 
@@ -308,7 +343,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   § 6 AEG
 
-    *   5.000 Euro
+    *   5 000 Euro
 
 
 *    *   1.9
@@ -318,16 +353,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   § 6 AEG
 
-    *   2.500 Euro
+    *   2 500 Euro
 
 
 *    *   1.10
 
-    *   Erteilen einer Sicherheitsbescheinigung
+    *   Erteilung oder Verlängerung einer Sicherheitsbescheinigung
 
-    *   § 7a Abs. 2 AEG
+    *   § 7a Abs. 2 und 7 AEG
 
-    *   nach Zeitaufwand
+    *   nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro
 
 
 *    *   1.11
@@ -341,11 +376,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.12
 
-    *   Erteilen einer Sicherheitsgenehmigung
+    *   Erteilung oder Verlängerung einer Sicherheitsgenehmigung
 
-    *   § 7c Abs. 2 AEG
+    *   § 7c Abs. 2 und 4 AEG
 
-    *   nach Zeitaufwand
+    *   nach Zeitaufwand, mindestens 600 und höchstens 100 000 Euro
 
 
 *    *   1.13
@@ -357,8 +392,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.14
 
-    *   Entscheidung über die Erlaubnis zur Aufnahme
-        des Betriebs
+    *   Entscheidung über die Erlaubnis zur Aufnahme des Betriebs
 
     *   § 7f AEG
 
@@ -367,12 +401,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.15
 
-    *   Entscheidung über die Abgabe und Stilllegung
-        von Eisenbahninfrastruktureinrichtungen
+    *   Entscheidung über die Abgabe und Stilllegung von
+        Eisenbahninfrastruktureinrichtungen
 
     *   § 11 AEG
 
-    *   3.000 Euro
+    *   3 000 Euro
 
 
 *    *   1.16
@@ -381,24 +415,69 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   § 23 Abs. 1 AEG
 
-    *   nach Zeitaufwand
+    *   1 450 Euro
 
 
 *    *   1.17
 
-    *   Übertragung der Aufgaben einer benannten Stelle
-        im Anwendungsbereich des transeuropäischen
-        Hochgeschwindigkeitsbahnsystems
+    *   Anerkennung und Überwachung einer benannten Stelle
 
-    *   § 25b Abs. 1 AEG
+    *   § 5 Abs. 1d Satz 1 Nr. 1 Buchstabe a AEG
 
     *   nach Zeitaufwand
+
+
+*    *   1.18
+
+    *   Anerkennung und Überwachung einer bestimmten Stelle
+
+    *   § 5 Abs. 1d Satz 1 Nr. 1 Buchstabe b AEG
+
+    *   nach Zeitaufwand
+
+
+*    *   1.19
+
+    *   Anerkennung und Überwachung einer Bewertungsstelle
+
+    *   § 5 Abs. 1d Satz 1 Nr. 2 AEG
+
+    *   nach Zeitaufwand
+
+
+*    *   1.20
+
+    *   Anerkennung und Überwachung eines Prüfsachverständigen
+
+    *   § 4b Abs. 1 Satz 2
+        und 3 AEG
+
+    *   nach Zeitaufwand
+
+
+*    *   1.21
+
+    *   Erteilung einer Instandhaltungsstellenbescheinigung
+
+    *   § 7g Abs. 1 und 2 AEG
+
+    *   nach Zeitaufwand, mindestens 1 200 und höchstens 140 000 Euro
+
+
+*    *   1.22
+
+    *   Erteilung einer Bescheinigung über Instandhaltungsfunktionen
+
+    *   § 7g Abs. 3 AEG
+
+    *   nach Zeitaufwand, mindestens 1 000 und höchstens 100 000 Euro
 
 
 
 ## Abschnitt 2
 
-## Amtshandlungen nach dem AEG i. V. m. VwVfG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V.
+m. VwVfG
 
 
 *    *   Nr.
@@ -426,7 +505,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Plangenehmigung
 
-    *   § 18 AEG i. V. m. § 74 Abs. 6 VwVfG und § 18b AEG
+    *   § 18 AEG i. V. m. § 74 Abs. 6 VwVfG
 
     *   50 % der Gebühr nach Nr. 2.1
 
@@ -436,7 +515,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Entscheidung über das Entfallen der Planfeststellung und
         Plangenehmigung
 
-    *   § 18 AEG i. V. m. § 74 Abs. 7 VwVfG und § 18b Nr. 4 AEG
+    *   § 18 AEG i. V. m. § 74 Abs. 7 VwVfG
 
     *   25 % der Gebühr nach Nr. 2.1
 
@@ -446,7 +525,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung
         nach Baubeginn
 
-    *   § 18e Abs. 6 AEG i. V. m. § 77 VwVfG
+    *   § 77 VwVfG i. V. m. § 75 Abs. 1a VwVfG
 
     *   nach Zeitaufwand bis zu 75 % der Gebühr nach Nr. 2.1 oder Nr. 2.2
 
@@ -493,10 +572,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.9
 
-    *   Prüfen geänderter Bauvorlagen bei Planungs-
-        änderungen mit einem Umfang von mehr als
-        1/20 der Ursprungsplanung im Ingenieur-, Ober-
-        oder Hochbau
+    *   Prüfen geänderter Bauvorlagen bei Planungsänderungen mit einem Umfang
+        von mehr als 1/20 der Ursprungsplanung im Ingenieur-, Ober- oder
+        Hochbau
 
     *   § 18 AEG i. V. m. § 74 Abs. 2 Satz 2 VwVfG
 
@@ -543,19 +621,67 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.13
 
-    *   Bauaufsichtliche Abnahme einer Signal-, Telekom-
-        munikations- und elektrotechnischen Anlage einschließlich Bauaufsicht
-        während der Bauausführung
+    *   Bauaufsichtliche Abnahme einer Signal-, Telekommunikations- und
+        elektrotechnischen Anlage einschließlich Bauaufsicht während der
+        Bauausführung
 
     *   § 18 AEG i. V. m. § 74 Abs. 2 Satz 2 VwVfG
 
     *   nach Zeitaufwand
 
 
+*    *   2.14
+
+    *   Verlängerung der Gültigkeit des Planfeststellungsbeschlusses oder der
+        Plangenehmigung
+
+    *   § 18c AEG
+
+    *   nach Zeitaufwand, mindestens 600 und höchstens 3 600 Euro
+
+
+*    *   2.15
+
+    *   Planänderung durch neues Planfeststellungsverfahren
+
+    *   § 18 AEG i. V. m § 76 Abs. 1 VwVfG
+
+    *   nach Tafel 1 des Anhangs
+
+
+*    *   2.16
+
+    *   Planänderung durch neues Plangenehmigungsverfahren
+
+    *   § 74 Abs. 6 VwVfG i. V. m. § 18b Nr. 1 und 2 AEG i. V. m § 76 Abs. 1
+        VwVfG
+
+    *   50 % der Gebühr nach Nr. 2.15
+
+
+*    *   2.17
+
+    *   Planänderung in Fällen unwesentlicher Bedeutung
+
+    *   § 18 AEG i. V. m § 76 Abs. 2 VwVfG
+
+    *   3 600 Euro
+
+
+*    *   2.18
+
+    *   Planänderung in Fällen unwesentlicher Bedeutung durch vereinfachtes
+        Planfeststellungsverfahren
+
+    *   § 18 AEG i. V. m § 76 Abs. 3 VwVfG
+
+    *   6 000 Euro
+
+
 
 ## Abschnitt 3
 
-## Amtshandlungen nach der EBV, EBPV
+## Individuell zurechenbare öffentliche Leistungen nach der EBV, EBPV
 
 
 *    *   Nr.
@@ -574,7 +700,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   § 2 EBV
 
-    *   150 Euro
+    *   300 Euro
 
 
 *    *   3.2
@@ -628,7 +754,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 4
 
-## Amtshandlungen nach der EBO, ESBO und ESO 1959
+## Individuell zurechenbare öffentliche Leistungen nach der EBO, ESBO
+und ESO 1959
 
 
 *    *   Nr.
@@ -646,7 +773,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   § 3 Abs. 1 Nr. 2 Buchstabe a EBO bzw. ESBO
 
-    *   nach Zeitaufwand
+    *   1 800 Euro
 
 
 *    *   4.2
@@ -656,17 +783,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   § 3 Abs. 2 Nr. 1 EBO
         bzw. ESBO
 
-    *   nach Zeitaufwand
+    *   nach Zeitaufwand, mindestens 700 und höchstens 12 000 Euro
 
 
 *    *   4.3
 
-    *   Abnahme eines Fahrzeuges im Geltungsbereich
-        der EBO
+    *   Abnahme eines Fahrzeuges im Geltungsbereich der EBO
 
     *   § 32 Abs. 1 EBO
 
-    *   nach Zeitaufwand
+    *   nach Zeitaufwand, mindestens 2 000 und höchstens 300 000 Euro
 
 
 *    *   4.4
@@ -682,18 +808,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.5
 
-    *   Genehmigung von Abweichungen von der
-        Eisenbahn-Signalordnung
+    *   Genehmigung von von der ESO abweichenden Signalen mit vorübergehender
+        Gültigkeit
 
     *   Abschnitt A Buchstabe a Abs. 4 ESO 1959
 
-    *   nach Zeitaufwand
+    *   nach Zeitaufwand, mindestens 700 und höchstens 6 000 Euro
 
 
 
 ## Abschnitt 5
 
-## Amtshandlungen nach der EIBV
+## Individuell zurechenbare öffentliche Leistungen nach der EIBV
 
 
 *    *   Nr.
@@ -707,8 +833,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1
 
-    *   Zustimmung zur Erhebung von Entgelten bei
-        mangelnder Fahrwegkapazität
+    *   Zustimmung zur Erhebung von Entgelten bei mangelnder Fahrwegkapazität
 
     *   § 18 Abs. 4 EIBV
 
@@ -727,7 +852,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 6
 
-## Amtshandlungen nach der TEIV
+## Individuell zurechenbare öffentliche Leistungen nach der TEIV
 
 
 *    *   Nr.
@@ -752,27 +877,90 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   6.2
 
     *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im
-        Anwendungsbereich des transeuro-
-        päischen Eisenbahnsystems
+        Ingenieurbau im Anwendungsbereich des transeuropäischen
+        Eisenbahnsystems
+
+    *   § 6 Abs. 3 TEIV
+
+    *   nach Tafel 2 des Anhangs
+
+
+*    *   6.3
+
+    *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im
+        Oberbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems
+
+    *   § 6 Abs. 3 TEIV
+
+    *   nach Tafel 3 des Anhangs
+
+
+*    *   6.4
+
+    *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im
+        Hochbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems
+
+    *   § 6 Abs. 3 TEIV
+
+    *   nach Tafel 4 des Anhangs
+
+
+*    *   6.5
+
+    *   Genehmigung der Inbetriebnahme im Anwendungsbereich des
+        transeuropäischen Eisenbahnsystems, soweit nicht von den Nummern 6.2
+        bis 6.4 erfasst
 
     *   § 6 Abs. 3 TEIV
 
     *   nach Zeitaufwand
 
 
-*    *   6.3
+*    *   6.6
 
-    *   Genehmigung für die Inbetriebnahme eines
-        strukturellen Teilsystems, für das keine TSI vorliegt,
-        im Anwendungsbereich des transeuropäischen
-        Eisenbahnsystems
+    *   Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im
+        Ingenieurbau, für das keine TSI vorliegt, im Anwendungsbereich des
+        transeuropäischen Eisenbahnsystems
+
+    *   § 6 Abs. 4 TEIV
+
+    *   nach Tafel 2 des Anhangs
+
+
+*    *   6.7
+
+    *   Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im
+        Oberbau, für das keine TSI vorliegt, im Anwendungsbereich des
+        transeuropäischen Eisenbahnsystems
+
+    *   § 6 Abs. 4 TEIV
+
+    *   nach Tafel 3 des Anhangs
+
+
+*    *   6.8
+
+    *   Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im
+        Hochbau, für das keine TSI vorliegt, im Anwendungsbereich des
+        transeuropäischen Eisenbahnsystems
+
+    *   § 6 Abs. 4 TEIV
+
+    *   nach Tafel 4 des Anhangs
+
+
+*    *   6.9
+
+    *   Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems,
+        für das keine TSI vorliegt, im Anwendungsbereich des transeuropäischen
+        Eisenbahnsystems, soweit nicht von den Nummern 6.6 bis 6.8 erfasst
 
     *   § 6 Abs. 4 TEIV
 
     *   nach Zeitaufwand
 
 
-*    *   6.4
+*    *   6.10
 
     *   Genehmigung für Probefahrten im Anwendungsbereich des
         transeuropäischen Eisenbahnsystems
@@ -782,28 +970,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nach Zeitaufwand
 
 
-*    *   6.5
+*    *   6.11
 
-    *   Allgemeine Zulassung von Fahrzeugbaureihen (Bauartzulassung) im
-        Anwendungsbereich des transeuropäischen Eisenbahnsystems
+    *   Serienzulassung
 
     *   § 7 Abs. 2 TEIV
 
     *   nach Zeitaufwand
 
 
-*    *   6.6
+*    *   6.12
 
-    *   Vereinfachte Genehmigung für die Inbetriebnahme
-        für Fahrzeuge einer zugelassenen Bauart im Anwendungsbereich des
-        transeuropäischen Eisenbahnsystems
+    *   Zulassung für eine Fahrzeugvariante
 
-    *   § 7 Abs. 4 TEIV
+    *   § 7a Abs. 1 Satz 2 und 3 TEIV
 
     *   nach Zeitaufwand
 
 
-*    *   6.7
+*    *   6.13
+
+    *   Serienzulassung für eine Fahrzeugvariante
+
+    *   § 7a Abs. 2 Satz 2 TEIV
+
+    *   nach Zeitaufwand
+
+
+*    *   6.14
+
+    *   Allgemeine Genehmigung von Fahrzeugtypen
+
+    *   § 7b Abs. 1, 2 und 3 TEIV
+
+    *   nach Zeitaufwand
+
+
+*    *   6.15
+
+    *   Genehmigung für weitere Fahrzeuge eines zugelassenen Fahrzeugtyps
+
+    *   § 7b Abs. 4 TEIV
+
+    *   nach Zeitaufwand
+
+
+*    *   6.16
 
     *   Vereinfachte Genehmigung für die Inbetriebnahme für ausländische
         Fahrzeuge im Anwendungsbereich des transeuropäischen Eisenbahnsystems
@@ -813,23 +1025,55 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nach Zeitaufwand
 
 
-*    *   6.8
+*    *   6.17
 
     *   Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder
-        erneuerten strukturellen
-        Teilsystems im Anwendungsbereich des transeuro-
-        päischen Eisenbahnsystems oder Versagung des
+        erneuerten strukturellen Teilsystems im Ingenieurbau im
+        Anwendungsbereich des transeuropäischen Eisenbahnsystems
+
+    *   § 9 Abs. 1 TEIV
+
+    *   nach Tafel 2 des Anhangs
+
+
+*    *   6.18
+
+    *   Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder
+        erneuerten strukturellen Teilsystems im Oberbau im Anwendungsbereich
+        des transeuropäischen Eisenbahnsystems
+
+    *   § 9 Abs. 1 TEIV
+
+    *   nach Tafel 3 des Anhangs
+
+
+*    *   6.19
+
+    *   Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder
+        erneuerten strukturellen Teilsystems im Hochbau im Anwendungsbereich
+        des transeuropäischen Eisenbahnsystems
+
+    *   § 9 Abs. 1 TEIV
+
+    *   nach Tafel 4 des Anhangs
+
+
+*    *   6.20
+
+    *   Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder
+        erneuerten strukturellen Teilsystems im Anwendungsbereich des
+        transeuropäischen Eisenbahnsystems oder Versagung des
         Genehmigungserfordernisses für die Inbetriebnahme eines umgerüsteten
-        oder erneuerten strukturellen
-        Teilsystems im Anwendungsbereich des transeuro-
-        päischen Eisenbahnsystems
+        oder erneuerten strukturellen Teilsystems im Anwendungsbereich des
+        transeuropäischen Eisenbahnsystems, soweit nicht von den Nummern 6.15
+        bis 6.17 erfasst
 
     *   § 9 Abs. 1 TEIV
 
     *   nach Zeitaufwand
 
 
-*    *   6.9
+*    *   6.21
 
     *   Überwachung der Konformität und Gebrauchstauglichkeit von
         Interoperabilitätskomponenten im Anwendungsbereich des
@@ -843,70 +1087,396 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nach Zeitaufwand
 
 
-*    *   6.10
+*    *   6.22
 
-    *   Einstellung eines Fahrzeuges in das Fahrzeugein-
-        stellungsregister
+    *   Einstellung eines Fahrzeuges in das Fahrzeugeinstellungsregister
 
-    *   § 20 Abs. 2 und 3 TEIV
+    *   § 20 Abs. 2 TEIV
 
     *   50 Euro
 
 
-*    *   6.11
+*    *   6.23
 
-    *   Einstellung von bis zu 10 Fahrzeugen gleicher Bauart
-        in das Fahrzeugeinstellungsregister
+    *   Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das
+        Fahrzeugeinstellungsregister
 
-    *   § 20 Abs. 2 und 3 TEIV
+    *   § 20 Abs. 2 TEIV
 
     *   35 Euro
         je Fahrzeug
 
 
-*    *   6.12
+*    *   6.24
 
     *   Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das
         Fahrzeugeinstellungsregister
 
-    *   § 20 Abs. 2 und 3 TEIV
+    *   § 20 Abs. 2 TEIV
 
     *   30 Euro
         je Fahrzeug
 
 
-*    *   6.13
+*    *   6.25
 
-    *   Einstellung von über 100 Fahrzeugen gleicher Bauart
-        in das Fahrzeugeinstellungsregister
+    *   Einstellung von über 100 Fahrzeugen gleicher Bauart in das
+        Fahrzeugeinstellungsregister
 
-    *   § 20 Abs. 2 und 3 TEIV
+    *   § 20 Abs. 2 TEIV
 
     *   25 Euro
         je Fahrzeug
 
 
-*    *   6.14
+*    *   6.26
 
-    *   Änderung/Ergänzung von Daten im Fahrzeug-
-        einstellungsregister
+    *   Elektronische Übernahme der Daten von Fahrzeugen aus den
+        Fahrzeugregistern von Eisenbahnen in das Fahrzeugeinstellungsregister
+        (NVR), soweit für die Fahrzeuge nicht im Rahmen einer
+        Inbetriebnahmegenehmigung bereits Fahrzeugnummern vom NVR erteilt
+        worden sind
+
+    *   § 20 Abs. 3 TEIV
+
+    *   8 Euro je Fahrzeug
+
+
+*    *   6.27
+
+    *   Änderung und Ergänzung von Daten im NVR außerhalb eines
+        standardisierten Antragsverfahrens
 
     *   § 20 Abs. 4 TEIV
 
-    *   10 Euro
-        je Fahrzeug
+    *   nach Zeitaufwand
+
+
+*    *   6.28
+
+    *   Änderung und Ergänzung von Daten im NVR mittels standardisiertem
+        Antragsverfahren für gleichartige Fahrzeuge in beliebiger Anzahl
+
+    *   § 20 Abs. 4 TEIV
+
+    *   10 Euro je Fahrzeug, höchstens 5 000 Euro je Antrag
 
 
 
 ## Abschnitt 7
 
-## Amtshandlungen nach der KonVEIV
+## Individuell zurechenbare öffentliche Leistungen nach der EIGV
 
-(weggefallen)
+
+*    *   Nr.
+
+    *   Gegenstand
+
+    *   Rechtsgrundlage
+
+    *   Gebühr
+
+
+*    *   7.1
+
+    *   Zulassung von Ausnahmen zur Anwendung bestimmter TSI
+
+    *   § 5 Abs. 1 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.2
+
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
+        im Ingenieurbau
+
+    *   § 9 Abs. 1 oder § 10 EIGV
+
+    *   nach Tafel 2 des Anhangs
+
+
+*    *   7.3
+
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
+        im Oberbau
+
+    *   § 9 Abs. 1 oder § 10 EIGV
+
+    *   nach Tafel 3 des Anhangs
+
+
+*    *   7.4
+
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
+        im Hochbau
+
+    *   § 9 Abs. 1 oder § 10 EIGV
+
+    *   nach Tafel 4 des Anhangs
+
+
+*    *   7.5
+
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
+        im Bereich der Signal-, Telekommunikations- und elektrotechnischen
+        Anlagen
+
+    *   § 9 Abs. 1 oder § 10 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.6
+
+    *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems, soweit
+        nicht von den Nummern 7.2 bis 7.5 erfasst
+
+    *   § 9 Abs. 1 oder § 10 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.7
+
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten
+        oder erneuerten Bestandteils des Eisenbahnsystems im Ingenieurbau
+
+    *   § 14 Abs. 2 EIGV
+
+    *   nach Tafel 2 des Anhangs
+
+
+*    *   7.8
+
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten
+        oder erneuerten Bestandteils des Eisenbahnsystems im Oberbau
+
+    *   § 14 Abs. 2 EIGV
+
+    *   nach Tafel 3 des Anhangs
+
+
+*    *   7.9
+
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten
+        oder erneuerten Bestandteils des Eisenbahnsystems im Hochbau
+
+    *   § 14 Abs. 2 EIGV
+
+    *   nach Tafel 4 des Anhangs
+
+
+*    *   7.10
+
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten
+        oder erneuerten Bestandteils des Eisenbahnsystems im Bereich der
+        Signal-, Telekommunikations- und elektrotechnischen Anlagen
+
+    *   § 14 Abs. 2 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.11
+
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten
+        oder erneuerten strukturellen Teilsystems oder Versagung des
+        Genehmigungserfordernisses für die Inbetriebnahme eines umgerüsteten
+        oder erneuerten Bestandteils des Eisenbahnsystems, soweit nicht von
+        den Nummern 7.7 bis 7.10 erfasst
+
+    *   § 14 Abs. 2 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.12
+
+    *   Genehmigung für Probefahrten
+
+    *   § 16 Abs. 5 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.13
+
+    *   Genehmigung einer Fahrzeugserie
+
+    *   § 18 Abs. 2 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.14
+
+    *   Genehmigung einer Fahrzeugvariante
+
+    *   § 19 Abs. 2 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.15
+
+    *   Genehmigung einer Fahrzeugserie für eine Fahrzeugvariante
+
+    *   § 19 Abs. 3 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.16
+
+    *   Genehmigung eines Fahrzeugtyps
+
+    *   § 20 Abs. 2 oder 3 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.17
+
+    *   Genehmigung weiterer Fahrzeuge eines zugelassenen Fahrzeugtyps
+
+    *   § 20 Abs. 4 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.18
+
+    *   Genehmigung einer örtlich und zeitlich beschränkten Inbetriebnahme von
+        Fahrzeugen mit ausländischer Zulassung
+
+    *   § 21 Abs. 5 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.19
+
+    *   Zulassung von Bauprodukten und Bauarten
+
+    *   § 26 Abs. 3 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.20
+
+    *   Genehmigung zum Inverkehrbringen und Verwenden von
+        sicherungstechnischen oder elektrotechnischen Systemen oder deren
+        Bestandteilen
+
+    *   § 27 Abs. 3 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.21
+
+    *   Überwachung der Konformität und Gebrauchstauglichkeit von
+        Interoperabilitätskomponenten auf Grund eines Verdachts, einer
+        Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die
+        Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß
+        gegen eine Rechtsvorschrift festgestellt wurde
+
+    *   §§ 28 und 25 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.22
+
+    *   Überwachung von Bauprodukten und Bauarten sowie sicherungstechnischen
+        oder elektrotechnischen Systemen oder deren Bestandteilen auf Grund
+        eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe,
+        wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich
+        veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt
+        wurde
+
+    *   § 28 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.23
+
+    *   Einstellung eines Fahrzeugs in das Fahrzeugeinstellungsregister
+
+    *   § 38 Abs. 2 EIGV
+
+    *   50 Euro
+
+
+*    *   7.24
+
+    *   Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das
+        Fahrzeugeinstellungsregister
+
+    *   § 38 Abs. 2 EIGV
+
+    *   35 Euro je Fahrzeug
+
+
+*    *   7.25
+
+    *   Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das
+        Fahrzeugeinstellungsregister
+
+    *   § 38 Abs. 2 EIGV
+
+    *   30 Euro je Fahrzeug
+
+
+*    *   7.26
+
+    *   Einstellung von über 100 Fahrzeugen gleicher Bauart in das
+        Fahrzeugeinstellungsregister
+
+    *   § 38 Abs. 2 EIGV
+
+    *   25 Euro je Fahrzeug
+
+
+*    *   7.27
+
+    *   Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister
+        außerhalb eines standardisierten Antragsverfahrens
+
+    *   § 38 Abs. 3 oder 4 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.28
+
+    *   Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister
+        mittels standardisierten Antragsverfahrens für gleichartige Fahrzeuge
+        in beliebiger Anzahl
+
+    *   § 38 Abs. 3 oder 4 EIGV
+
+    *   10 Euro je Fahrzeug; höchstens 5 000 Euro je Antrag
+
+
+*    *   7.29
+
+    *   Einstellung von Fahrzeugen in das Fahrzeugeinstellungsregister, die
+        nach anderen eisenbahnrechtlichen Vorschriften ohne bisherige
+        Registrierungspflicht in Betrieb genommen worden sind
+
+    *   § 42 Abs. 6 EIGV
+
+    *   8 Euro je Fahrzeug
+
+
 
 ## Abschnitt 8
 
-## Amtshandlung nach dem ArbSchG
+## Individuell zurechenbare öffentliche Leistung nach dem ArbSchG
 
 
 *    *   Nr.
@@ -930,7 +1500,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 9
 
-## Amtshandlung nach dem IfSG
+## Individuell zurechenbare öffentliche Leistung nach dem IfSG
 
 
 *    *   Nr.
@@ -1020,9 +1590,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   9.8
 
     *   Infektionshygienische Überwachung der Abwasserbeseitigungsanlagen in
-        den Schienenfahrzeugen sowie
-        in den ortsfesten Anlagen zur ausschließlichen
-        Entsorgung von Schienenfahrzeugen
+        den Schienenfahrzeugen sowie in den ortsfesten Anlagen zur
+        ausschließlichen Entsorgung von Schienenfahrzeugen
 
     *   § 41 IfSG
 
@@ -1032,7 +1601,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 10
 
-## Amtshandlungen nach der TfV
+## Individuell zurechenbare öffentliche Leistungen nach der TfV
 
 
 *    *   Nr.
@@ -1046,9 +1615,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   10.1
 
-    *   Ausstellung eines vorläufigen Führerscheins und
-        Erteilung eines neuen, geänderten oder verlängerten
-        Triebfahrzeugführerscheins oder eines Ersatzführerscheins
+    *   Ausstellung eines vorläufigen Führerscheins und Erteilung eines neuen,
+        geänderten oder verlängerten Triebfahrzeugführerscheins oder eines
+        Ersatzführerscheins
 
     *   § 8 Absatz 1 i. V. m. Absatz 2 und 3 TfV
 
@@ -1106,7 +1675,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 11
 
-## Sonstige Amtshandlungen
+## Sonstige individuell zurechenbare öffentliche Leistungen
 
 
 *    *   Nr.
@@ -1129,7 +1698,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil II
 
-## Gebühren für Amtshandlungen der Regulierungsbehörde
+## Gebühren für individuell zurechenbare öffentliche Leistungen der
+Regulierungsbehörde
 
 
 *    *   Nr.
@@ -1242,7 +1812,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil III
 
-## Gebühren für Amtshandlungen der benannten Stellen
+## Gebühren für individuell zurechenbare öffentliche Leistungen der
+benannten Stellen
 
 
 *    *   Nr.
@@ -1261,7 +1832,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Bescheinigung im Anwendungsbereich des transeuropäischen
         Eisenbahnsystems
 
-    *   § 15 Abs. 1 Nr. 1 TEIV
+    *   § 15 Abs. 1 Satz 1 Nr. 1 TEIV
 
     *   nach Zeitaufwand
 
@@ -1269,10 +1840,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   2
 
     *   EG-Prüfung eines Teilsystems und Ausstellen einer entsprechenden
-        Bescheinigung im Anwendungs-
-        bereich des transeuropäischen Eisenbahnsystems
+        Bescheinigung im Anwendungsbereich des transeuropäischen
+        Eisenbahnsystems
 
-    *   § 15 Abs. 1 Nr. 2 TEIV
+    *   § 15 Abs. 1 Satz 1 Nr. 2 oder Satz 2 oder 3 TEIV
+
+    *   nach Zeitaufwand
+
+
+*    *   3
+
+    *   Bewertung der Konformität und Gebrauchstauglichkeit einer
+        Interoperabilitätskomponente und Ausstellen einer entsprechenden
+        Bescheinigung
+
+    *   § 33 Abs. 1 Satz 1 Nr. 1 EIGV
+
+    *   nach Zeitaufwand
+
+
+*    *   4
+
+    *   EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer
+        entsprechenden Bescheinigung
+
+    *   § 33 Abs. 1 Satz 1 Nr. 2 oder Abs. 2 Satz 1 oder 2 EIGV
 
     *   nach Zeitaufwand
 
@@ -1575,795 +2167,795 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   25 000
 
-    *   280
+    *   420
 
-    *   360
+    *   540
 
-    *   440
+    *   660
 
-    *   500
+    *   750
 
-    *   580
+    *   870
 
 
 *    *   30 000
 
-    *   330
-
-    *   420
-
     *   500
 
-    *   580
+    *   630
 
-    *   660
+    *   750
+
+    *   870
+
+    *   990
 
 
 *    *   35 000
 
-    *   370
-
-    *   470
-
     *   560
 
-    *   650
+    *   700
 
-    *   740
+    *   840
+
+    *   980
+
+    *   1 100
 
 
 *    *   40 000
 
-    *   420
+    *   630
 
-    *   520
+    *   780
 
-    *   620
+    *   930
 
-    *   720
+    *   1 080
 
-    *   820
+    *   1 230
 
 
 *    *   45 000
 
-    *   460
-
-    *   670
-
     *   690
 
-    *   790
+    *   920
 
-    *   910
+    *   1 040
+
+    *   1 190
+
+    *   1 370
 
 
 *    *   50 000
 
-    *   500
+    *   750
 
-    *   610
+    *   1 000
 
-    *   740
+    *   1 110
 
-    *   860
+    *   1 290
 
-    *   980
+    *   1 470
 
 
 *    *   75 000
 
-    *   690
+    *   1 040
 
-    *   850
+    *   1 280
 
-    *   1 010
+    *   1 520
 
-    *   1 170
+    *   1 760
 
-    *   1 330
+    *   2 000
 
 
 *    *   100 000
 
-    *   860
+    *   1 290
 
-    *   1 060
+    *   1 590
 
-    *   1 260
+    *   1 890
 
-    *   1 450
+    *   2 180
 
-    *   1 650
+    *   2 480
 
 
 *    *   150 000
 
-    *   1 190
+    *   1 790
 
-    *   1 450
+    *   2 180
 
-    *   1 700
+    *   2 550
 
-    *   1 960
+    *   2 940
 
-    *   2 220
+    *   3 330
 
 
 *    *   200 000
 
-    *   1 490
+    *   2 240
 
-    *   1 800
+    *   2 700
 
-    *   2 120
+    *   3 180
 
-    *   2 430
+    *   3 650
 
-    *   2 740
+    *   4 110
 
 
 *    *   250 000
 
-    *   1 750
+    *   2 630
 
-    *   2 120
+    *   3 180
 
-    *   2 500
+    *   3 750
 
-    *   2 860
+    *   4 290
 
-    *   3 220
+    *   4 830
 
 
 *    *   300 000
 
-    *   2 020
+    *   3 030
 
-    *   2 430
+    *   3 650
 
-    *   2 850
+    *   4 280
 
-    *   3 260
+    *   4 890
 
-    *   3 670
+    *   5 500
 
 
 *    *   350 000
 
-    *   2 270
+    *   3 400
 
-    *   2 720
+    *   4 080
 
-    *   3 180
+    *   4 770
 
-    *   3 640
+    *   5 460
 
-    *   4 100
+    *   6 150
 
 
 *    *   400 000
 
-    *   2 500
+    *   3 750
 
-    *   3 000
+    *   4 500
 
-    *   3 500
+    *   5 250
 
-    *   3 990
+    *   5 990
 
-    *   4 490
+    *   6 740
 
 
 *    *   450 000
 
-    *   2 720
+    *   4 080
 
-    *   3 260
+    *   4 890
 
-    *   3 800
+    *   5 700
 
-    *   4 340
+    *   6 510
 
-    *   4 870
+    *   7 300
 
 
 *    *   500 000
 
-    *   2 940
+    *   4 410
 
-    *   3 510
+    *   5 270
 
-    *   4 090
+    *   6 140
 
-    *   4 660
+    *   6 990
 
-    *   5 230
+    *   7 850
 
 
 *    *   750 000
 
-    *   3 890
+    *   5 840
 
-    *   4 610
+    *   6 910
 
-    *   5 340
+    *   8 010
 
-    *   6 070
+    *   9 100
 
-    *   6 800
+    *   10 200
 
 
 *    *   1 000 000
 
-    *   4 660
+    *   6 990
 
-    *   5 510
+    *   8 270
 
-    *   6 360
+    *   9 540
 
-    *   7 210
+    *   10 800
 
-    *   8 030
+    *   12 040
 
 
 *    *   1 500 000
 
-    *   6 470
+    *   9 700
 
-    *   7 590
+    *   11 390
 
-    *   8 690
+    *   13 030
 
-    *   9 860
+    *   14 790
 
-    *   11 000
+    *   16 500
 
 
 *    *   2 000 000
 
-    *   8 180
+    *   12 270
 
-    *   9 560
+    *   14 340
 
-    *   10 900
+    *   16 350
 
-    *   12 300
+    *   18 450
 
-    *   13 700
+    *   20 550
 
 
 *    *   2 500 000
 
-    *   9 780
+    *   14 670
 
-    *   11 400
+    *   17 100
 
-    *   13 000
+    *   19 500
 
-    *   14 600
+    *   21 900
 
-    *   16 200
+    *   24 300
 
 
 *    *   3 000 000
 
-    *   11 300
+    *   17 000
 
-    *   13 100
+    *   19 700
 
-    *   15 000
+    *   22 500
 
-    *   16 800
+    *   25 200
 
-    *   18 600
+    *   27 900
 
 
 *    *   3 500 000
 
-    *   12 800
+    *   19 200
 
-    *   14 800
+    *   22 200
 
-    *   16 900
+    *   25 400
 
-    *   18 900
+    *   28 400
 
-    *   21 000
+    *   31 500
 
 
 *    *   4 000 000
 
-    *   14 300
+    *   21 500
 
-    *   16 500
+    *   24 800
 
-    *   18 700
+    *   28 000
 
-    *   21 000
+    *   31 500
 
-    *   23 100
+    *   34 700
 
 
 *    *   4 500 000
 
-    *   15 700
+    *   23 600
 
-    *   18 100
+    *   27 200
 
-    *   20 500
+    *   30 800
 
-    *   22 900
+    *   34 400
 
-    *   25 300
+    *   38 000
 
 
 *    *   5 000 000
 
-    *   17 100
+    *   25 700
 
-    *   19 700
+    *   29 600
 
-    *   22 300
+    *   33 500
 
-    *   24 900
+    *   37 400
 
-    *   27 400
+    *   41 100
 
 
 *    *   7 500 000
 
-    *   23 700
+    *   35 600
 
-    *   27 200
+    *   40 800
 
-    *   30 600
+    *   45 900
 
-    *   34 000
+    *   51 000
 
-    *   37 400
+    *   56 100
 
 
 *    *   10 000 000
 
-    *   29 900
+    *   44 900
 
-    *   34 100
+    *   51 200
 
-    *   38 300
+    *   57 500
 
-    *   42 500
+    *   63 800
 
-    *   46 600
+    *   69 900
 
 
 *    *   15 000 000
 
-    *   43 300
+    *   65 000
 
-    *   46 900
+    *   70 400
 
-    *   52 500
+    *   78 800
 
-    *   58 000
+    *   87 000
 
-    *   63 600
+    *   95 400
 
 
 *    *   20 000 000
 
-    *   52 300
+    *   78 500
 
-    *   59 000
+    *   88 500
 
-    *   65 700
+    *   98 600
 
-    *   72 400
+    *   108 600
 
-    *   79 200
+    *   118 800
 
 
 *    *   25 000 000
 
-    *   62 600
-
-    *   70 400
-
-    *   78 300
-
-    *   86 100
-
     *   93 900
+
+    *   105 600
+
+    *   117 500
+
+    *   129 200
+
+    *   140 900
 
 
 *    *   30 000 000
 
-    *   70 400
+    *   105 600
 
-    *   79 000
+    *   118 500
 
-    *   87 400
+    *   131 100
 
-    *   96 000
+    *   144 000
 
-    *   104 700
+    *   157 000
 
 
 *    *   35 000 000
 
-    *   79 600
+    *   119 400
 
-    *   89 000
+    *   133 500
 
-    *   99 000
+    *   148 500
 
-    *   108 100
+    *   162 200
 
-    *   117 700
+    *   176 600
 
 
 *    *   40 000 000
 
-    *   88 800
+    *   133 200
 
-    *   99 000
+    *   148 500
 
-    *   109 400
+    *   164 100
 
-    *   119 800
+    *   179 700
 
-    *   130 400
+    *   195 600
 
 
 *    *   45 000 000
 
-    *   97 600
+    *   146 400
 
-    *   108 600
+    *   162 900
 
-    *   119 900
+    *   179 900
 
-    *   131 200
+    *   196 800
 
-    *   142 600
+    *   213 900
 
 
 *    *   50 000 000
 
-    *   106 200
+    *   159 300
 
-    *   118 000
+    *   177 000
 
-    *   130 100
+    *   195 200
 
-    *   142 300
+    *   213 500
 
-    *   154 600
+    *   231 900
 
 
 *    *   55 000 000
 
-    *   114 700
+    *   172 000
 
-    *   127 300
+    *   191 000
 
-    *   140 000
+    *   210 000
 
-    *   153 200
+    *   229 800
 
-    *   166 200
+    *   249 300
 
 
 *    *   60 000 000
 
-    *   123 100
+    *   184 700
 
-    *   136 400
+    *   204 600
 
-    *   149 900
+    *   224 900
 
-    *   158 100
+    *   237 200
 
-    *   177 700
+    *   266 600
 
 
 *    *   65 000 000
 
-    *   131 300
+    *   197 000
 
-    *   145 000
+    *   218 000
 
-    *   159 700
+    *   240 000
 
-    *   174 200
+    *   261 300
 
-    *   188 900
+    *   283 400
 
 
 *    *   70 000 000
 
-    *   139 400
+    *   209 100
 
-    *   154 000
+    *   231 000
 
-    *   169 100
+    *   253 700
 
-    *   184 400
+    *   276 600
 
-    *   199 800
+    *   299 700
 
 
 *    *   75 000 000
 
-    *   147 300
+    *   221 000
 
-    *   162 600
+    *   243 900
 
-    *   178 400
+    *   267 600
 
-    *   194 400
+    *   291 600
 
-    *   210 600
+    *   315 900
 
 
 *    *   80 000 000
 
-    *   155 200
+    *   232 800
 
-    *   171 200
+    *   256 800
 
-    *   187 700
+    *   281 600
 
-    *   204 300
+    *   306 500
 
-    *   221 300
+    *   332 000
 
 
 *    *   85 000 000
 
-    *   162 900
+    *   244 400
 
-    *   180 000
+    *   270 000
 
-    *   196 700
+    *   295 000
 
-    *   214 100
+    *   321 200
 
-    *   231 700
+    *   347 600
 
 
 *    *   90 000 000
 
-    *   170 700
+    *   256 000
 
-    *   187 900
+    *   281 900
 
-    *   205 700
+    *   308 600
 
-    *   223 700
+    *   335 600
 
-    *   242 100
+    *   363 200
 
 
 *    *   95 000 000
 
-    *   178 300
+    *   267 500
 
-    *   196 100
+    *   294 200
 
-    *   214 500
+    *   321 800
 
-    *   233 200
+    *   349 800
 
-    *   252 300
+    *   378 500
 
 
 *    *   100 000 000
 
-    *   185 800
+    *   278 700
 
-    *   204 300
+    *   306 500
 
-    *   223 300
+    *   335 000
 
-    *   242 700
+    *   364 000
 
-    *   262 400
+    *   393 600
 
 
 *    *   112 500 000
 
-    *   204 300
+    *   306 500
 
-    *   224 200
+    *   336 300
 
-    *   244 800
+    *   367 200
 
-    *   266 000
+    *   399 000
 
-    *   287 000
+    *   430 500
 
 
 *    *   125 000 000
 
-    *   222 400
+    *   333 600
 
-    *   243 700
+    *   365 600
 
-    *   266 000
+    *   399 000
 
-    *   288 100
+    *   432 200
 
-    *   311 100
+    *   466 700
 
 
 *    *   137 500 000
 
-    *   240 000
+    *   360 000
 
-    *   262 700
+    *   394 000
 
-    *   286 000
+    *   429 000
 
-    *   310 100
+    *   465 200
 
-    *   334 500
+    *   501 800
 
 
 *    *   150 000 000
 
-    *   257 600
+    *   386 400
 
-    *   281 400
+    *   422 100
 
-    *   306 200
+    *   459 300
 
-    *   331 600
+    *   497 400
 
-    *   357 500
+    *   536 300
 
 
 *    *   200 000 000
 
-    *   332 200
+    *   498 300
 
-    *   353 300
+    *   530 000
 
-    *   383 200
+    *   574 800
 
-    *   413 800
+    *   620 700
 
-    *   438 700
+    *   658 000
 
 
 *    *   250 000 000
 
-    *   396 200
+    *   594 300
 
-    *   421 500
+    *   632 300
 
-    *   456 000
+    *   684 000
 
-    *   491 400
+    *   737 100
 
-    *   520 900
+    *   781 400
 
 
 *    *   375 000 000
 
-    *   546 000
+    *   819 000
 
-    *   580 900
+    *   871 400
 
-    *   625 400
+    *   938 100
 
-    *   671 600
+    *   1 007 400
 
-    *   711 900
+    *   1 067 900
 
 
 *    *   500 000 000
 
-    *   685 500
+    *   1 028 300
 
-    *   729 300
+    *   1 094 000
 
-    *   782 500
+    *   1 173 800
 
-    *   838 200
+    *   1 257 300
 
-    *   888 500
+    *   1 332 800
 
 
 *    *   625 000 000
 
-    *   817 700
+    *   1 226 600
 
-    *   870 000
+    *   1 305 000
 
-    *   931 100
+    *   1 396 700
 
-    *   995 500
+    *   1 493 300
 
-    *   1 055 100
+    *   1 582 700
 
 
 *    *   750 000 000
 
-    *   944 600
+    *   1 416 900
 
-    *   1 004 900
+    *   1 507 400
 
-    *   1 073 200
+    *   1 609 800
 
-    *   1 145 400
+    *   1 718 100
 
-    *   1 214 100
+    *   1 821 200
 
 
 *    *   1 000 000 000
 
-    *   1 185 900
+    *   1 778 900
 
-    *   1 261 600
+    *   1 892 400
 
-    *   1 342 900
+    *   2 014 400
 
-    *   1 429 400
+    *   2 144 100
 
-    *   1 515 200
+    *   2 272 800
 
 
 *    *   1 250 000 000
 
-    *   1 414 800
+    *   2 122 200
 
-    *   1 505 100
+    *   2 257 700
 
-    *   1 598 000
+    *   2 397 000
 
-    *   1 697 500
+    *   2 546 300
 
-    *   1 799 300
+    *   2 699 000
 
 
 *    *   1 500 000 000
 
-    *   1 634 200
+    *   2 451 300
 
-    *   1 738 500
+    *   2 607 800
 
-    *   1 841 900
+    *   2 762 900
 
-    *   1 953 400
+    *   2 930 100
 
-    *   2 070 600
+    *   3 105 900
 
 
 *    *   1 750 000 000
 
-    *   1 846 100
+    *   2 769 200
 
-    *   1 963 900
+    *   2 945 900
 
-    *   2 076 900
+    *   3 115 400
 
-    *   2 199 600
+    *   3 299 400
 
-    *   2 331 600
+    *   3 497 400
 
 
 *    *   2 000 000 000
 
-    *   2 051 700
+    *   3 077 600
 
-    *   2 182 600
+    *   3 273 900
 
-    *   2 304 700
+    *   3 457 000
 
-    *   2 437 900
+    *   3 656 900
 
-    *   2 584 100
+    *   3 876 200
 
 
 
@@ -2405,7 +2997,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   600
 
 
-*    *   30.000
+*    *   30 000
 
     *   350
 
@@ -2418,7 +3010,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   700
 
 
-*    *   35.000
+*    *   35 000
 
     *   390
 
@@ -2431,7 +3023,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   780
 
 
-*    *   40.000
+*    *   40 000
 
     *   430
 
@@ -2444,7 +3036,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   860
 
 
-*    *   45.000
+*    *   45 000
 
     *   480
 
@@ -2457,7 +3049,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   950
 
 
-*    *   50.000
+*    *   50 000
 
     *   520
 
@@ -2470,7 +3062,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   1 020
 
 
-*    *   75.000
+*    *   75 000
 
     *   720
 
@@ -2483,15 +3075,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   1 400
 
 
-*    *   100.000
+*    *   100 000
 
     *   910
 
-    *   1.110
+    *   1 110
 
     *   1 320
 
-    *   1.530
+    *   1 530
 
     *   1 730
 
@@ -2615,15 +3207,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   1 000 000
 
-    *   5.830
+    *   5 830
 
     *   6 880
 
-    *   7.940
+    *   7 940
 
     *   8 990
 
-    *   10.000
+    *   10 000
 
 
 *    *   1 500 000
@@ -2639,15 +3231,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   13 700
 
 
-*    *   2 000.000
+*    *   2 000 000
 
     *   10 200
 
-    *   11.900
+    *   11 900
 
     *   13 600
 
-    *   15.300
+    *   15 300
 
     *   17 000
 
@@ -2667,15 +3259,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   3 000 000
 
-    *   14.100
+    *   14 100
 
     *   16 400
 
-    *   18.700
+    *   18 700
 
     *   21 000
 
-    *   23.200
+    *   23 200
 
 
 *    *   3 500 000
@@ -2691,15 +3283,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   26 100
 
 
-*    *   4 000.000
+*    *   4 000 000
 
     *   17 800
 
-    *   20.600
+    *   20 600
 
     *   23 400
 
-    *   26.200
+    *   26 200
 
     *   28 900
 
@@ -2719,15 +3311,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   5 000 000
 
-    *   21.300
+    *   21 300
 
     *   24 600
 
-    *   27.800
+    *   27 800
 
     *   29 900
 
-    *   34.300
+    *   34 300
 
 
 *    *   7 500 000
@@ -2743,15 +3335,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   46 800
 
 
-*    *   10 000.000
+*    *   10 000 000
 
     *   37 300
 
-    *   42.500
+    *   42 500
 
     *   47 800
 
-    *   53.000
+    *   53 000
 
     *   58 200
 
@@ -2771,15 +3363,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   20 000 000
 
-    *   65.300
+    *   65 300
 
     *   73 700
 
-    *   82.100
+    *   82 100
 
     *   90 500
 
-    *   98.900
+    *   98 900
 
 
 *    *   25 000 000
@@ -2795,15 +3387,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   117 200
 
 
-*    *   30 000.000
+*    *   30 000 000
 
     *   85 400
 
-    *   95.600
+    *   95 600
 
     *   106 000
 
-    *   116.500
+    *   116 500
 
     *   127 000
 
@@ -2818,7 +3410,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   131 200
 
-    *   142.900
+    *   142 900
 
 
 *    *   40 000 000
@@ -2834,15 +3426,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   158 200
 
 
-*    *   45 000.000
+*    *   45 000 000
 
     *   118 400
 
-    *   131.800
+    *   131 800
 
     *   145 400
 
-    *   159.200
+    *   159 200
 
     *   173 100
 
@@ -2857,7 +3449,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   172 600
 
-    *   187.500
+    *   187 500
 
 
 *    *   55 000 000
@@ -2873,15 +3465,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   201 700
 
 
-*    *   60 000.000
+*    *   60 000 000
 
     *   149 300
 
-    *   165.400
+    *   165 400
 
     *   181 900
 
-    *   198.700
+    *   198 700
 
     *   215 500
 
@@ -2896,7 +3488,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   211 300
 
-    *   229.100
+    *   229 100
 
 
 *    *   70 000 000
@@ -2912,15 +3504,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   242 400
 
 
-*    *   75 000.000
+*    *   75 000 000
 
     *   178 700
 
-    *   197.400
+    *   197 400
 
     *   216 500
 
-    *   235.900
+    *   235 900
 
     *   255 500
 
@@ -2935,7 +3527,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   247 900
 
-    *   268.400
+    *   268 400
 
 
 *    *   85 000 000
@@ -2951,15 +3543,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   281 200
 
 
-*    *   90 000.000
+*    *   90 000 000
 
     *   207 000
 
-    *   228.000
+    *   228 000
 
     *   249 600
 
-    *   271.500
+    *   271 500
 
     *   293 700
 
@@ -2974,7 +3566,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   283 000
 
-    *   306.100
+    *   306 100
 
 
 *    *   100 000 000
@@ -2990,15 +3582,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   318 300
 
 
-*    *   112 500.000
+*    *   112 500 000
 
     *   247 900
 
-    *   272.000
+    *   272 000
 
     *   296 900
 
-    *   322.400
+    *   322 400
 
     *   348 200
 
@@ -3013,7 +3605,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   349 600
 
-    *   377.400
+    *   377 400
 
 
 *    *   137 500 000
@@ -3029,17 +3621,17 @@ Zwischenwerte sind linear zu interpolieren.
     *   405 800
 
 
-*    *   150 000.000
+*    *   150 000 000
 
     *   312 600
 
-    *   341.500
+    *   341 500
 
     *   371 600
 
-    *   402.300
+    *   402 300
 
-    *   433.700
+    *   433 700
 
 
 
@@ -3291,15 +3883,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   1 000 000
 
-    *   5.330
+    *   5 330
 
     *   6 290
 
-    *   7.260
+    *   7 260
 
     *   8 220
 
-    *   9.180
+    *   9 180
 
 
 *    *   1 500 000
@@ -3315,15 +3907,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   12 500
 
 
-*    *   2 000.000
+*    *   2 000 000
 
     *   9 320
 
-    *   10.900
+    *   10 900
 
     *   12 400
 
-    *   14.000
+    *   14 000
 
     *   15 600
 
@@ -3343,15 +3935,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   3 000 000
 
-    *   12.900
+    *   12 900
 
     *   15 000
 
-    *   17.100
+    *   17 100
 
     *   19 200
 
-    *   21.200
+    *   21 200
 
 
 *    *   3 500 000
@@ -3367,15 +3959,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   23 900
 
 
-*    *   4 000.000
+*    *   4 000 000
 
     *   16 300
 
-    *   18.800
+    *   18 800
 
     *   21 400
 
-    *   23.900
+    *   23 900
 
     *   26 500
 
@@ -3395,15 +3987,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   5 000 000
 
-    *   19.500
+    *   19 500
 
     *   22 500
 
-    *   25.400
+    *   25 400
 
     *   28 400
 
-    *   31.400
+    *   31 400
 
 
 *    *   7 500 000
@@ -3419,15 +4011,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   42 700
 
 
-*    *   10 000.000
+*    *   10 000 000
 
     *   34 100
 
-    *   38.900
+    *   38 900
 
     *   43 700
 
-    *   48.500
+    *   48 500
 
     *   53 200
 
@@ -3447,15 +4039,15 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   20 000 000
 
-    *   59.700
+    *   59 700
 
     *   67 300
 
-    *   75.000
+    *   75 000
 
     *   82 700
 
-    *   90.400
+    *   90 400
 
 
 *    *   25 000 000
@@ -3471,15 +4063,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   107 200
 
 
-*    *   30 000.000
+*    *   30 000 000
 
     *   80 300
 
-    *   90.000
+    *   90 000
 
     *   99 800
 
-    *   109.600
+    *   109 600
 
     *   119 500
 
@@ -3494,7 +4086,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   123 400
 
-    *   134.400
+    *   134 400
 
 
 *    *   40 000 000
@@ -3510,15 +4102,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   148 800
 
 
-*    *   45 000.000
+*    *   45 000 000
 
     *   111 400
 
-    *   124.000
+    *   124 000
 
     *   136 800
 
-    *   149.800
+    *   149 800
 
     *   162 800
 
@@ -3533,7 +4125,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   162 400
 
-    *   176.500
+    *   176 500
 
 
 *    *   55 000 000
@@ -3549,15 +4141,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   189 800
 
 
-*    *   60 000.000
+*    *   60 000 000
 
     *   140 500
 
-    *   155.700
+    *   155 700
 
     *   171 200
 
-    *   180.500
+    *   180 500
 
     *   202 800
 
@@ -3572,7 +4164,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   198 800
 
-    *   215.600
+    *   215 600
 
 
 *    *   70 000 000
@@ -3588,15 +4180,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   228 100
 
 
-*    *   75 000.000
+*    *   75 000 000
 
     *   168 200
 
-    *   185.700
+    *   185 700
 
     *   203 700
 
-    *   222.000
+    *   222 000
 
     *   240 400
 
@@ -3611,7 +4203,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   233 300
 
-    *   252.600
+    *   252 600
 
 
 *    *   85 000 000
@@ -3627,15 +4219,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   264 500
 
 
-*    *   90 000.000
+*    *   90 000 000
 
     *   194 800
 
-    *   214.500
+    *   214 500
 
     *   234 800
 
-    *   255.400
+    *   255 400
 
     *   276 300
 
@@ -3650,7 +4242,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   266 300
 
-    *   288.000
+    *   288 000
 
 
 *    *   100 000 000
@@ -3666,15 +4258,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   299 500
 
 
-*    *   112 500.000
+*    *   112 500 000
 
     *   233 200
 
-    *   255.900
+    *   255 900
 
     *   279 400
 
-    *   303.300
+    *   303 300
 
     *   327 600
 
@@ -3689,7 +4281,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   329 000
 
-    *   355.100
+    *   355 100
 
 
 *    *   137 500 000
@@ -3705,15 +4297,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   381 800
 
 
-*    *   150 000.000
+*    *   150 000 000
 
     *   294 100
 
-    *   321.300
+    *   321 300
 
     *   349 600
 
-    *   378.500
+    *   378 500
 
     *   408 000
 
@@ -3728,7 +4320,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   472 400
 
-    *   500.800
+    *   500 800
 
 
 *    *   250 000 000
@@ -3744,15 +4336,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   594 700
 
 
-*    *   375 000.000
+*    *   375 000 000
 
     *   623 300
 
-    *   663.100
+    *   663 100
 
     *   713 900
 
-    *   766.700
+    *   766 700
 
     *   812 700
 
@@ -3767,7 +4359,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   956 800
 
-    *   1 014.200
+    *   1 014 200
 
 
 *    *   625 000 000
@@ -3783,15 +4375,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   1 204 400
 
 
-*    *   750.000 000
+*    *   750 000 000
 
     *   1 078 300
 
-    *   1.147 100
+    *   1 147 100
 
     *   1 225 200
 
-    *   1.307 500
+    *   1 307 500
 
     *   1 385 900
 
@@ -3806,7 +4398,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   1 631 800
 
-    *   1 729.700
+    *   1 729 700
 
 
 *    *   1 250 000 000
@@ -3830,7 +4422,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 102 600
 
-    *   2.229 900
+    *   2 229 900
 
     *   2 363 700
 
@@ -3841,11 +4433,11 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 241 900
 
-    *   2 370.900
+    *   2 370 900
 
     *   2 511 000
 
-    *   2 661.600
+    *   2 661 600
 
 
 *    *   2 000 000 000
@@ -3906,7 +4498,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   570
 
 
-*    *   35.000
+*    *   35 000
 
     *   350
 
@@ -3928,7 +4520,7 @@ Zwischenwerte sind linear zu interpolieren.
     *   760
 
 
-*    *   45.000
+*    *   45 000
 
     *   440
 
@@ -3950,15 +4542,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   950
 
 
-*    *   100.000
+*    *   100 000
 
     *   990
 
-    *   1.190
+    *   1 190
 
     *   1 450
 
-    *   1.840
+    *   1 840
 
 
 *    *   150 000
@@ -3983,15 +4575,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   3 420
 
 
-*    *   250.000
+*    *   250 000
 
     *   2 480
 
-    *   2.860
+    *   2 860
 
     *   3 360
 
-    *   4.130
+    *   4 130
 
 
 *    *   300 000
@@ -4016,15 +4608,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   5 440
 
 
-*    *   400.000
+*    *   400 000
 
     *   3 460
 
-    *   4.050
+    *   4 050
 
     *   4 850
 
-    *   6.030
+    *   6 030
 
 
 *    *   450 000
@@ -4049,15 +4641,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   7 100
 
 
-*    *   1 000.000
+*    *   1 000 000
 
     *   7 050
 
-    *   8.360
+    *   8 360
 
     *   10 100
 
-    *   12.700
+    *   12 700
 
 
 *    *   1 500 000
@@ -4073,11 +4665,11 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   2 000 000
 
-    *   13.400
+    *   13 400
 
     *   15 800
 
-    *   19.100
+    *   19 100
 
     *   23 900
 
@@ -4093,15 +4685,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   29 500
 
 
-*    *   3 000.000
+*    *   3 000 000
 
     *   19 900
 
-    *   23.300
+    *   23 300
 
     *   27 700
 
-    *   34.500
+    *   34 500
 
 
 *    *   3 500 000
@@ -4117,11 +4709,11 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   4 000 000
 
-    *   26.500
+    *   26 500
 
     *   30 600
 
-    *   36.100
+    *   36 100
 
     *   44 400
 
@@ -4137,15 +4729,15 @@ Zwischenwerte sind linear zu interpolieren.
     *   49 300
 
 
-*    *   5 000.000
+*    *   5 000 000
 
     *   33 200
 
-    *   38.000
+    *   38 000
 
     *   44 500
 
-    *   54.200
+    *   54 200
 
 
 *    *   10 000 000
@@ -4156,7 +4748,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   87 500
 
-    *   105.600
+    *   105 600
 
 
 *    *   15 000 000
@@ -4167,7 +4759,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   128 800
 
-    *   154.000
+    *   154 000
 
 
 *    *   20 000 000
@@ -4178,7 +4770,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   168 600
 
-    *   199.500
+    *   199 500
 
 
 *    *   25 000 000
@@ -4189,7 +4781,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   208 800
 
-    *   245.700
+    *   245 700
 
 
 *    *   30 000 000
@@ -4200,7 +4792,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   232 900
 
-    *   273.100
+    *   273 100
 
 
 *    *   35 000 000
@@ -4211,7 +4803,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   267 300
 
-    *   312.400
+    *   312 400
 
 
 *    *   40 000 000
@@ -4222,7 +4814,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   300 200
 
-    *   350.100
+    *   350 100
 
 
 *    *   45 000 000
@@ -4233,7 +4825,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   331 600
 
-    *   386.000
+    *   386 000
 
 
 *    *   50 000 000
@@ -4244,7 +4836,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   361 800
 
-    *   420.700
+    *   420 700
 
 
 *    *   55 000 000
@@ -4255,7 +4847,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   391 300
 
-    *   454.100
+    *   454 100
 
 
 *    *   60 000 000
@@ -4266,7 +4858,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   419 600
 
-    *   486.600
+    *   486 600
 
 
 *    *   65 000 000
@@ -4277,7 +4869,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   447 500
 
-    *   518.000
+    *   518 000
 
 
 *    *   70 000 000
@@ -4288,7 +4880,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   474 500
 
-    *   549.000
+    *   549 000
 
 
 *    *   75 000 000
@@ -4299,7 +4891,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   501 200
 
-    *   579.500
+    *   579 500
 
 
 *    *   80 000 000
@@ -4310,7 +4902,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   527 100
 
-    *   609.100
+    *   609 100
 
 
 *    *   85 000 000
@@ -4321,7 +4913,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   552 600
 
-    *   638.200
+    *   638 200
 
 
 *    *   90 000 000
@@ -4332,7 +4924,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   577 800
 
-    *   666.900
+    *   666 900
 
 
 *    *   95 000 000
@@ -4343,7 +4935,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   602 600
 
-    *   695.300
+    *   695 300
 
 
 *    *   100 000 000
@@ -4354,7 +4946,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   627 200
 
-    *   723.300
+    *   723 300
 
 
 *    *   112 500 000
@@ -4365,7 +4957,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   687 500
 
-    *   791.900
+    *   791 900
 
 
 *    *   125 000 000
@@ -4376,7 +4968,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   746 300
 
-    *   858.900
+    *   858 900
 
 
 *    *   137 500 000
@@ -4387,7 +4979,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   803 800
 
-    *   924.300
+    *   924 300
 
 
 *    *   150 000 000
@@ -4398,7 +4990,7 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   860 200
 
-    *   988.400
+    *   988 400
 
 
 
@@ -4406,7 +4998,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Anlage 2 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 1)
 
-( Fundstelle: BGBl. I 2008, 565 - 578 )
+(Fundstelle: BGBl. I 2008, 565 - 578)
+
 ## Gebührenverzeichnis
 
 ## Abschnitt 1
@@ -5032,8 +5625,7 @@ Anlagen
     *   Festlegung von Maßnahmen bei Grenz- und
         Richtwertüberschreitungen von mikrobiologischen, chemischen und
         physikalisch-chemischen Parametern
-        Bescheid über Maßnahmen bei Richtwert-
-        überschreitungen
+        Bescheid über Maßnahmen bei Richtwertüberschreitungen
 
     *   § 11 Abs. 4 Bundes-
         Seuchengesetz;
@@ -5053,7 +5645,7 @@ Anlagen
 
 ## Abschnitt 5
 
-## Sonstige Amtshandlungen
+## Sonstige individuell zurechenbare öffentliche Leistungen
 
 
 *    *   Nr.
@@ -5067,7 +5659,7 @@ Anlagen
 
 *    *   501
 
-    *   Amtshandlungen nach § 4 Abs. 2 AEG
+    *   Individuell zurechenbare öffentliche Leistungen nach § 4 Abs. 2 AEG
 
     *   § 4 Abs. 2 AEG i. V. m.
         dem jeweiligen Gesetz
@@ -5115,10 +5707,12 @@ Anlagen
 
 *    *   506
 
-    *   Sonstige nicht genannte Amtshandlungen
+    *   Sonstige nicht genannte individuell zurechenbare öffentliche
+        Leistungen
 
     *
-    *   wie vergleichbare Amtshandlungen, sonst nach Zeitaufwand
+    *   wie vergleichbare individuell zurechenbare öffentliche Leistungen,
+        sonst nach Zeitaufwand
 
 
 
@@ -6236,7 +6830,7 @@ Zwischenwerte sind linear zu interpolieren.
         DM
 
 
-*    *   50.000
+*    *   50 000
 
     *   580
 
@@ -6244,646 +6838,646 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   880
 
-    *   1.030
+    *   1 030
 
-    *   1.180
+    *   1 180
 
 
-*    *   60.000
+*    *   60 000
 
     *   680
 
     *   850
 
-    *   1.020
+    *   1 020
 
-    *   1.190
+    *   1 190
 
-    *   1.360
+    *   1 360
 
 
-*    *   70.000
+*    *   70 000
 
     *   760
 
     *   950
 
-    *   1.150
+    *   1 150
 
-    *   1.340
+    *   1 340
 
-    *   1.530
+    *   1 530
 
 
-*    *   80.000
+*    *   80 000
 
     *   850
 
-    *   1.060
+    *   1 060
 
-    *   1.270
+    *   1 270
 
-    *   1.480
+    *   1 480
 
-    *   1.690
+    *   1 690
 
 
-*    *   90.000
+*    *   90 000
 
     *   930
 
-    *   1.160
+    *   1 160
 
-    *   1.390
+    *   1 390
 
-    *   1.620
+    *   1 620
 
-    *   1.850
+    *   1 850
 
 
-*    *   100.000
+*    *   100 000
 
-    *   1.020
+    *   1 020
 
-    *   1.260
+    *   1 260
 
-    *   1.510
+    *   1 510
 
-    *   1.760
+    *   1 760
 
-    *   2.000
+    *   2 000
 
 
-*    *   150.000
+*    *   150 000
 
-    *   1.410
+    *   1 410
 
-    *   1.740
+    *   1 740
 
-    *   2.070
+    *   2 070
 
-    *   2.400
+    *   2 400
 
-    *   2.730
+    *   2 730
 
 
-*    *   200.000
+*    *   200 000
 
-    *   1.780
+    *   1 780
 
-    *   2.180
+    *   2 180
 
-    *   2.590
+    *   2 590
 
-    *   2.990
+    *   2 990
 
-    *   3.390
+    *   3 390
 
 
-*    *   300.000
+*    *   300 000
 
-    *   2.470
+    *   2 470
 
-    *   3.010
+    *   3 010
 
-    *   3.550
+    *   3 550
 
-    *   4.090
+    *   4 090
 
-    *   4.620
+    *   4 620
 
 
-*    *   400.000
+*    *   400 000
 
-    *   3.110
+    *   3 110
 
-    *   3.780
+    *   3 780
 
-    *   4.440
+    *   4 440
 
-    *   5.100
+    *   5 100
 
-    *   5.760
+    *   5 760
 
 
-*    *   500.000
+*    *   500 000
 
-    *   3.730
+    *   3 730
 
-    *   4.500
+    *   4 500
 
-    *   5.280
+    *   5 280
 
-    *   6.050
+    *   6 050
 
-    *   6.830
+    *   6 830
 
 
-*    *   600.000
+*    *   600 000
 
-    *   4.320
+    *   4 320
 
-    *   5.200
+    *   5 200
 
-    *   6.080
+    *   6 080
 
-    *   6.960
+    *   6 960
 
-    *   7.840
+    *   7 840
 
 
-*    *   700.000
+*    *   700 000
 
-    *   4.890
+    *   4 890
 
-    *   5.870
+    *   5 870
 
-    *   6.860
+    *   6 860
 
-    *   7.840
+    *   7 840
 
-    *   8.820
+    *   8 820
 
 
-*    *   800.000
+*    *   800 000
 
-    *   5.450
+    *   5 450
 
-    *   6.530
+    *   6 530
 
-    *   7.610
+    *   7 610
 
-    *   8.690
+    *   8 690
 
-    *   9.770
+    *   9 770
 
 
-*    *   900.000
+*    *   900 000
 
-    *   5.990
+    *   5 990
 
-    *   7.160
+    *   7 160
 
-    *   8.340
+    *   8 340
 
-    *   9.510
+    *   9 510
 
-    *   10.690
+    *   10 690
 
 
-*    *   1.000.000
+*    *   1 000 000
 
-    *   6.520
+    *   6 520
 
-    *   7.780
+    *   7 780
 
-    *   9.050
+    *   9 050
 
-    *   10.310
+    *   10 310
 
-    *   11.580
+    *   11 580
 
 
-*    *   1.500.000
+*    *   1 500 000
 
-    *   9.040
+    *   9 040
 
-    *   10.720
+    *   10 720
 
-    *   12.410
+    *   12 410
 
-    *   14.090
+    *   14 090
 
-    *   15.780
+    *   15 780
 
 
-*    *   2.000.000
+*    *   2 000 000
 
-    *   11.400
+    *   11 400
 
-    *   13.460
+    *   13 460
 
-    *   15.520
+    *   15 520
 
-    *   17.590
+    *   17 590
 
-    *   19.650
+    *   19 650
 
 
-*    *   3.000.000
+*    *   3 000 000
 
-    *   15.810
+    *   15 810
 
-    *   18.550
+    *   18 550
 
-    *   21.290
+    *   21 290
 
-    *   24.030
+    *   24 030
 
-    *   26.770
+    *   26 770
 
 
-*    *   4.000.000
+*    *   4 000 000
 
-    *   19.930
+    *   19 930
 
-    *   23.290
+    *   23 290
 
-    *   26.640
+    *   26 640
 
-    *   29.990
+    *   29 990
 
-    *   33.340
+    *   33 340
 
 
-*    *   5.000.000
+*    *   5 000 000
 
-    *   23.860
+    *   23 860
 
-    *   27.780
+    *   27 780
 
-    *   31.700
+    *   31 700
 
-    *   35.620
+    *   35 620
 
-    *   39.530
+    *   39 530
 
 
-*    *   6.000.000
+*    *   6 000 000
 
-    *   27.640
+    *   27 640
 
-    *   32.090
+    *   32 090
 
-    *   36.540
+    *   36 540
 
-    *   40.990
+    *   40 990
 
-    *   45.440
+    *   45 440
 
 
-*    *   7.000.000
+*    *   7 000 000
 
-    *   31.300
+    *   31 300
 
-    *   36.250
+    *   36 250
 
-    *   41.200
+    *   41 200
 
-    *   46.150
+    *   46 150
 
-    *   51.110
+    *   51 110
 
 
-*    *   8.000.000
+*    *   8 000 000
 
-    *   34.860
+    *   34 860
 
-    *   40.290
+    *   40 290
 
-    *   45.720
+    *   45 720
 
-    *   51.160
+    *   51 160
 
-    *   56.590
+    *   56 590
 
 
-*    *   9.000.000
+*    *   9 000 000
 
-    *   38.330
+    *   38 330
 
-    *   44.230
+    *   44 230
 
-    *   50.120
+    *   50 120
 
-    *   56.020
+    *   56 020
 
-    *   61.910
+    *   61 910
 
 
-*    *   10.000.000
+*    *   10 000 000
 
-    *   41.730
+    *   41 730
 
-    *   48.070
+    *   48 070
 
-    *   54.410
+    *   54 410
 
-    *   58.510
+    *   58 510
 
-    *   67.100
+    *   67 100
 
 
-*    *   15.000.000
+*    *   15 000 000
 
-    *   57.860
+    *   57 860
 
-    *   66.260
+    *   66 260
 
-    *   74.650
+    *   74 650
 
-    *   83.050
+    *   83 050
 
-    *   91.440
+    *   91 440
 
 
-*    *   20.000.000
+*    *   20 000 000
 
-    *   72.970
+    *   72 970
 
-    *   83.200
+    *   83 200
 
-    *   93.440
+    *   93 440
 
-    *   103.670
+    *   103 670
 
-    *   113.900
+    *   113 900
 
 
-*    *   30.000.000
+*    *   30 000 000
 
-    *   101.190
+    *   101 190
 
-    *   114.700
+    *   114 700
 
-    *   128.210
+    *   128 210
 
-    *   141.720
+    *   141 720
 
-    *   155.230
+    *   155 230
 
 
-*    *   40.000.000
+*    *   40 000 000
 
-    *   127.620
+    *   127 620
 
-    *   144.050
+    *   144 050
 
-    *   160.490
+    *   160 490
 
-    *   176.920
+    *   176 920
 
-    *   193.360
+    *   193 360
 
 
-*    *   50.000.000
+*    *   50 000 000
 
-    *   152.780
+    *   152 780
 
-    *   171.900
+    *   171 900
 
-    *   191.030
+    *   191 030
 
-    *   210.160
+    *   210 160
 
-    *   229.290
+    *   229 290
 
 
-*    *   60.000.000
+*    *   60 000 000
 
-    *   166.960
+    *   166 960
 
-    *   187.040
+    *   187 040
 
-    *   207.360
+    *   207 360
 
-    *   227.820
+    *   227 820
 
-    *   248.400
+    *   248 400
 
 
-*    *   70.000.000
+*    *   70 000 000
 
-    *   189.060
+    *   189 060
 
-    *   211.280
+    *   211 280
 
-    *   233.820
+    *   233 820
 
-    *   256.530
+    *   256 530
 
-    *   279.410
+    *   279 410
 
 
-*    *   80.000.000
+*    *   80 000 000
 
-    *   210.560
+    *   210 560
 
-    *   234.810
+    *   234 810
 
-    *   259.460
+    *   259 460
 
-    *   284.320
+    *   284 320
 
-    *   309.380
+    *   309 380
 
 
-*    *   90.000.000
+*    *   90 000 000
 
-    *   231.540
+    *   231 540
 
-    *   257.740
+    *   257 740
 
-    *   284.400
+    *   284 400
 
-    *   311.320
+    *   311 320
 
-    *   338.470
+    *   338 470
 
 
-*    *   100.000.000
+*    *   100 000 000
 
-    *   252.070
+    *   252 070
 
-    *   280.130
+    *   280 130
 
-    *   308.730
+    *   308 730
 
-    *   337.630
+    *   337 630
 
-    *   366.810
+    *   366 810
 
 
-*    *   110.000.000
+*    *   110 000 000
 
-    *   272.210
+    *   272 210
 
-    *   302.060
+    *   302 060
 
-    *   332.530
+    *   332 530
 
-    *   363.350
+    *   363 350
 
-    *   394.480
+    *   394 480
 
 
-*    *   120.000.000
+*    *   120 000 000
 
-    *   292.000
+    *   292 000
 
-    *   323.580
+    *   323 580
 
-    *   355.860
+    *   355 860
 
-    *   388.530
+    *   388 530
 
-    *   421.560
+    *   421 560
 
 
-*    *   130.000.000
+*    *   130 000 000
 
-    *   311.460
+    *   311 460
 
-    *   344.720
+    *   344 720
 
-    *   378.760
+    *   378 760
 
-    *   413.240
+    *   413 240
 
-    *   448.100
+    *   448 100
 
 
-*    *   140.000.000
+*    *   140 000 000
 
-    *   330.650
+    *   330 650
 
-    *   365.530
+    *   365 530
 
-    *   401.280
+    *   401 280
 
-    *   437.510
+    *   437 510
 
-    *   474.170
+    *   474 170
 
 
-*    *   150.000.000
+*    *   150 000 000
 
-    *   349.560
+    *   349 560
 
-    *   386.020
+    *   386 020
 
-    *   423.440
+    *   423 440
 
-    *   461.380
+    *   461 380
 
-    *   499.800
+    *   499 800
 
 
-*    *   160.000.000
+*    *   160 000 000
 
-    *   368.240
+    *   368 240
 
-    *   406.240
+    *   406 240
 
-    *   445.280
+    *   445 280
 
-    *   484.900
+    *   484 900
 
-    *   525.030
+    *   525 030
 
 
-*    *   170.000.000
+*    *   170 000 000
 
-    *   386.690
+    *   386 690
 
-    *   426.190
+    *   426 190
 
-    *   466.820
+    *   466 820
 
-    *   508.070
+    *   508 070
 
-    *   549.890
+    *   549 890
 
 
-*    *   180.000.000
+*    *   180 000 000
 
-    *   404.930
+    *   404 930
 
-    *   445.890
+    *   445 890
 
-    *   488.080
+    *   488 080
 
-    *   530.940
+    *   530 940
 
-    *   574.400
+    *   574 400
 
 
-*    *   190.000.000
+*    *   190 000 000
 
-    *   422.970
+    *   422 970
 
-    *   465.370
+    *   465 370
 
-    *   509.080
+    *   509 080
 
-    *   553.520
+    *   553 520
 
-    *   598.600
+    *   598 600
 
 
-*    *   200.000.000
+*    *   200 000 000
 
-    *   440.840
+    *   440 840
 
-    *   484.630
+    *   484 630
 
-    *   529.840
+    *   529 840
 
-    *   575.820
+    *   575 820
 
-    *   622.490
+    *   622 490
 
 
-*    *   225.000.000
+*    *   225 000 000
 
-    *   484.760
+    *   484 760
 
-    *   531.940
+    *   531 940
 
-    *   580.760
+    *   580 760
 
-    *   630.500
+    *   630 500
 
-    *   681.020
+    *   681 020
 
 
-*    *   250.000.000
+*    *   250 000 000
 
-    *   527.750
+    *   527 750
 
-    *   578.160
+    *   578 160
 
-    *   630.450
+    *   630 450
 
-    *   683.790
+    *   683 790
 
-    *   738.040
+    *   738 040
 
 
-*    *   275.000.000
+*    *   275 000 000
 
-    *   569.910
+    *   569 910
 
-    *   623.420
+    *   623 420
 
-    *   679.060
+    *   679 060
 
-    *   735.870
+    *   735 870
 
-    *   793.710
+    *   793 710
 
 
-*    *   300.000.000
+*    *   300 000 000
 
-    *   611.340
+    *   611 340
 
-    *   667.830
+    *   667 830
 
-    *   726.690
+    *   726 690
 
-    *   786.870
+    *   786 870
 
-    *   848.190
+    *   848 190
 
 
 
@@ -8344,10 +8938,12 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
+(zu § 2 Abs. 1 i. V. m. § 7 Abs. 2)
 
-## Anlage 3 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 2) Gebührenverzeichnis
+## Anlage 3 Gebührenverzeichnis
 
-( Fundstelle: BGBl. I 2008, 579 - 593 )
+(Fundstelle: BGBl. I 2008, 579 - 593)
+
 ## Abschnitt 1
 
 ## Allgemeine Gebühren
@@ -9003,7 +9599,7 @@ Anlagen
 
 ## Abschnitt 5
 
-## Sonstige Amtshandlungen
+## Sonstige individuell zurechenbare öffentliche Leistungen
 
 
 *    *   Nr.
@@ -9017,7 +9613,7 @@ Anlagen
 
 *    *   501
 
-    *   Amtshandlungen nach § 4 Abs. 2 AEG
+    *   Individuell zurechenbare öffentliche Leistungen nach § 4 Abs. 2 AEG
 
     *   § 4 Abs. 2 AEG i. V. m. dem jeweiligen Gesetz
 
@@ -9065,17 +9661,19 @@ Anlagen
 
 *    *   506
 
-    *   Sonstige nicht genannte Amtshandlungen
+    *   Sonstige nicht genannte individuell zurechenbare öffentliche
+        Leistungen
 
     *
-    *   wie vergleichbare Amtshandlungen, sonst nach Zeit-
-        aufwand
+    *   wie vergleichbare individuell zurechenbare öffentliche Leistungen,
+        sonst nach Zeitaufwand
 
 
 
 ## Abschnitt 6
 
-## Amtshandlungen der Regulierungsbehörde
+## Individuell zurechenbare öffentliche Leistungen der
+Regulierungsbehörde
 
 
 *    *   Nr.
@@ -12373,17 +12971,20 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
+(zu § 2 Abs. 1 i. V. m. § 7 Abs. 3)
 
-## Anlage 4 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 3) Gebührenverzeichnis
+## Anlage 4 Gebührenverzeichnis
 
-( Fundstelle: BGBl. I 2008, 594 - 610 )
+(Fundstelle: BGBl. I 2008, 594 - 610)
+
 ## Teil I
 
-## Gebühren für Amtshandlungen des Eisenbahn-Bundesamtes
+## Gebühren für individuell zurechenbare öffentliche Leistungen des
+Eisenbahn-Bundesamtes
 
 ## Abschnitt 1
 
-## Amtshandlungen nach dem AEG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG
 
 
 *    *   Nr.
@@ -12434,8 +13035,8 @@ Zwischenwerte sind linear zu interpolieren.
         § 9 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 16 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 19 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
-        § 21 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
-        § 19 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
+        § 26 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
+        § 24 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
         § 8 BImSchV 26 i. V. m. § 4 Abs. 2 AEG,
         § 11 BImSchV 31 i. V. m. § 4 Abs. 2 AEG,
         § 3 BImSchV 34 i. V. m. § 4 Abs. 2 AEG,
@@ -12504,11 +13105,10 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   1.6
 
-    *   Prüfung einer neuen oder geänderten Bauform bzw.
-        -art (Typzulassung) von Signal-, Telekommunikations- und
-        elektrotechnischen Anlagen und Ausstellen einer entsprechenden
-        Bescheinigung bei verantwortlich veranlasstem oder begründetem
-        Verdacht oder auf Antrag
+    *   Prüfung einer neuen oder geänderten Bauform bzw. -art (Typzulassung)
+        von Signal-, Telekommunikations- und elektrotechnischen Anlagen und
+        Ausstellen einer entsprechenden Bescheinigung bei verantwortlich
+        veranlasstem oder begründetem Verdacht oder auf Antrag
 
     *   § 5a Abs. 2 AEG
 
@@ -12589,7 +13189,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 2
 
-## Amtshandlungen nach dem AEG i. V. m. VwVfG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V.
+m. VwVfG
 
 
 *    *   Nr.
@@ -12747,7 +13348,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 3
 
-## Amtshandlungen nach der EBV, EBPV
+## Individuell zurechenbare öffentliche Leistungen nach der EBV, EBPV
 
 
 *    *   Nr.
@@ -12820,7 +13421,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 4
 
-## Amtshandlungen nach der EBO, ESBO und ESO 1959
+## Individuell zurechenbare öffentliche Leistungen nach der EBO, ESBO
+und ESO 1959
 
 
 *    *   Nr.
@@ -12886,7 +13488,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 5
 
-## Amtshandlungen nach der EIBV
+## Individuell zurechenbare öffentliche Leistungen nach der EIBV
 
 
 *    *   Nr.
@@ -12920,7 +13522,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 6
 
-## Amtshandlungen nach der EIV
+## Individuell zurechenbare öffentliche Leistungen nach der EIV
 
 
 *    *   Nr.
@@ -13019,7 +13621,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 7
 
-## Amtshandlungen nach der KonVEIV
+## Individuell zurechenbare öffentliche Leistungen nach der KonVEIV
 
 
 *    *   Nr.
@@ -13033,9 +13635,9 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   7.1
 
-    *   Genehmigung für die Inbetriebnahme eines struk-
-        turellen Teilsystems im Anwendungsbereich des konventionellen
-        transeuropäischen Eisenbahnsystems
+    *   Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im
+        Anwendungsbereich des konventionellen transeuropäischen
+        Eisenbahnsystems
 
     *   § 4 Abs. 3 KonVEIV auch
         i. V. m. § 5 Abs. 1 KonVEIV
@@ -13125,7 +13727,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 8
 
-## Amtshandlung nach dem ArbSchG
+## Individuell zurechenbare öffentliche Leistung nach dem ArbSchG
 
 
 *    *   Nr.
@@ -13149,7 +13751,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 9
 
-## Amtshandlungen nach dem IfSG
+## Individuell zurechenbare öffentliche Leistungen nach dem IfSG
 
 
 *    *   Nr.
@@ -13250,7 +13852,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 10
 
-## Sonstige Amtshandlungen
+## Sonstige individuell zurechenbare öffentliche Leistungen
 
 
 *    *   Nr.
@@ -13275,7 +13877,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Teil II
 
-Gebühren für Amtshandlungen der Bundesnetzagentur
+Gebühren für individuell zurechenbare öffentliche Leistungen der
+Bundesnetzagentur
 ## für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 
 
@@ -16491,17 +17094,20 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
+(zu § 2 Abs. 1 i. V. m. § 7 Abs. 4)
 
-## Anlage 5 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 4) Gebührenverzeichnis
+## Anlage 5 Gebührenverzeichnis
 
-( Fundstelle: BGBl. I 2008, 611 - 627 )
+(Fundstelle: BGBl. I 2008, 611 - 627)
+
 ## Teil I
 
-## Gebühren für Amtshandlungen des Eisenbahn-Bundesamtes
+## Gebühren für individuell zurechenbare öffentliche Leistungen des
+Eisenbahn-Bundesamtes
 
 ## Abschnitt 1
 
-## Amtshandlungen nach dem AEG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG
 
 
 *    *   Nr.
@@ -16552,8 +17158,8 @@ Zwischenwerte sind linear zu interpolieren.
         § 9 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 16 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 19 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
-        § 21 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
-        § 19 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
+        § 26 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
+        § 24 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
         § 8 BImSchV 26 i. V. m. § 4 Abs. 2 AEG,
         § 11 BImSchV 31 i. V. m. § 4 Abs. 2 AEG,
         § 3 BImSchV 34 i. V. m. § 4 Abs. 2 AEG,
@@ -16622,11 +17228,10 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   1.6
 
-    *   Prüfung einer neuen oder geänderten Bauform bzw.
-        -art (Typzulassung) von Signal-, Telekommunikations- und
-        elektrotechnischen Anlagen und Ausstellen einer entsprechenden
-        Bescheinigung bei verantwortlich veranlasstem oder begründetem
-        Verdacht oder auf Antrag
+    *   Prüfung einer neuen oder geänderten Bauform bzw. -art (Typzulassung)
+        von Signal-, Telekommunikations- und elektrotechnischen Anlagen und
+        Ausstellen einer entsprechenden Bescheinigung bei verantwortlich
+        veranlasstem oder begründetem Verdacht oder auf Antrag
 
     *   § 5a Abs. 2 AEG
 
@@ -16745,7 +17350,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 2
 
-## Amtshandlungen nach dem AEG i. V. m. VwVfG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V.
+m. VwVfG
 
 
 *    *   Nr.
@@ -16906,7 +17512,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 3
 
-## Amtshandlungen nach der EBV, EBPV
+## Individuell zurechenbare öffentliche Leistungen nach der EBV, EBPV
 
 
 *    *   Nr.
@@ -16979,7 +17585,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 4
 
-## Amtshandlungen nach der EBO, ESBO und ESO 1959
+## Individuell zurechenbare öffentliche Leistungen nach der EBO, ESBO
+und ESO 1959
 
 
 *    *   Nr.
@@ -17043,7 +17650,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 5
 
-## Amtshandlungen nach der EIBV
+## Individuell zurechenbare öffentliche Leistungen nach der EIBV
 
 
 *    *   Nr.
@@ -17077,7 +17684,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 6
 
-## Amtshandlungen nach der TEIV
+## Individuell zurechenbare öffentliche Leistungen nach der TEIV
 
 
 *    *   Nr.
@@ -17254,7 +17861,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 8
 
-## Amtshandlung nach dem ArbSchG
+## Individuell zurechenbare öffentliche Leistung nach dem ArbSchG
 
 
 *    *   Nr.
@@ -17278,7 +17885,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 9
 
-## Amtshandlungen nach dem IfSG
+## Individuell zurechenbare öffentliche Leistungen nach dem IfSG
 
 
 *    *   Nr.
@@ -17380,7 +17987,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 10
 
-## Sonstige Amtshandlungen
+## Sonstige individuell zurechenbare öffentliche Leistungen
 
 
 *    *   Nr.
@@ -17403,7 +18010,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Teil II
 
-Gebühren für Amtshandlungen der Bundesnetzagentur
+Gebühren für individuell zurechenbare öffentliche Leistungen der
+Bundesnetzagentur
 ## für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 
 
@@ -17496,7 +18104,8 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
 ## Teil III
 
-## Gebühren für Amtshandlungen der benannten Stelle
+## Gebühren für individuell zurechenbare öffentliche Leistungen der
+benannten Stelle
 
 
 *    *   Nr.
@@ -17513,8 +18122,7 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
     *   Bewertung der Konformität und Gebrauchstauglichkeit einer
         Interoperabilitätskomponente und Ausstellen
         einer entsprechenden Bescheinigung im Anwendungsbereich des
-        transeuropäischen Eisenbahn-
-        systems
+        transeuropäischen Eisenbahnsystems
 
     *   § 15 Abs. 1 Nr. 1 TEIV
 
@@ -17524,8 +18132,8 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 *    *   2
 
     *   EG-Prüfung eines Teilsystems und Ausstellen einer entsprechenden
-        Bescheinigung im Anwendungs-
-        bereich des transeuropäischen Eisenbahnsystems
+        Bescheinigung im Anwendungsbereich des transeuropäischen
+        Eisenbahnsystems
 
     *   § 15 Abs. 1 Nr. 2 TEIV
 
@@ -20658,17 +21266,20 @@ Zwischenwerte sind linear zu interpolieren.
 
 
 
+(zu § 2 Abs. 1 i. V. m. § 7 Abs. 5)
 
-## Anlage 6 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 5) Gebührenverzeichnis
+## Anlage 6 Gebührenverzeichnis
 
-( Fundstelle: BGBl. I 2008, 628 - 644 )
+(Fundstelle: BGBl. I 2008, 628 - 644)
+
 ## Teil I
 
-## Gebühren für Amtshandlungen des Eisenbahn-Bundesamtes
+## Gebühren für individuell zurechenbare öffentliche Leistungen des
+Eisenbahn-Bundesamtes
 
 ## Abschnitt 1
 
-## Amtshandlungen nach dem AEG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG
 
 
 *    *   Nr.
@@ -20720,8 +21331,8 @@ Zwischenwerte sind linear zu interpolieren.
         § 9 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 16 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
         § 19 BImSchV 12 i. V. m. § 4 Abs. 2 AEG,
-        § 21 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
-        § 19 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
+        § 26 BImSchV 13 i. V. m. § 4 Abs. 2 AEG,
+        § 24 BImSchV 17 i. V. m. § 4 Abs. 2 AEG,
         § 8 BImSchV 26 i. V. m. § 4 Abs. 2 AEG,
         § 11 BImSchV 31 i. V. m. § 4 Abs. 2 AEG,
         § 3 BImSchV 34 i. V. m. § 4 Abs. 2 AEG,
@@ -20791,10 +21402,9 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   1.6
 
-    *   Prüfung einer neuen oder geänderten Bauform bzw.
-        -art (Typzulassung) von Signal-, Telekommunikations- und
-        elektrotechnischen Anlagen und Ausstellen einer entsprechenden
-        Bescheinigung bei verantwortlich
+    *   Prüfung einer neuen oder geänderten Bauform bzw. -art (Typzulassung)
+        von Signal-, Telekommunikations- und elektrotechnischen Anlagen und
+        Ausstellen einer entsprechenden Bescheinigung bei verantwortlich
         veranlasstem oder begründetem Verdacht oder auf Antrag
 
     *   § 5a Abs. 2 AEG
@@ -20913,7 +21523,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 2
 
-## Amtshandlungen nach dem AEG i. V. m. VwVfG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V.
+m. VwVfG
 
 
 *    *   Nr.
@@ -21073,7 +21684,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 3
 
-## Amtshandlungen nach der EBV, EBPV
+## Individuell zurechenbare öffentliche Leistungen nach der EBV, EBPV
 
 
 *    *   Nr.
@@ -21147,7 +21758,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 4
 
-## Amtshandlungen nach der EBO, ESBO und ESO 1959
+## Individuell zurechenbare öffentliche Leistungen nach der EBO, ESBO
+und ESO 1959
 
 
 *    *   Nr.
@@ -21213,7 +21825,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 5
 
-## Amtshandlungen nach der EIBV
+## Individuell zurechenbare öffentliche Leistungen nach der EIBV
 
 
 *    *   Nr.
@@ -21247,7 +21859,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 6
 
-## Amtshandlungen nach der TEIV
+## Individuell zurechenbare öffentliche Leistungen nach der TEIV
 
 
 *    *   Nr.
@@ -21261,9 +21873,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   6.1
 
-    *   Zulassung von Ausnahmen zur Anwendung
-        bestimmter TSI im Anwendungsbereich des trans-
-        europäischen Eisenbahnsystems
+    *   Zulassung von Ausnahmen zur Anwendung bestimmter TSI im
+        Anwendungsbereich des transeuropäischen Eisenbahnsystems
 
     *   § 5 Abs. 1 TEIV
 
@@ -21273,8 +21884,7 @@ Zwischenwerte sind linear zu interpolieren.
 *    *   6.2
 
     *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im
-        Anwendungsbereich des transeuro-
-        päischen Eisenbahnsystems
+        Anwendungsbereich des transeuropäischen Eisenbahnsystems
 
     *   § 6 Abs. 3 TEIV
 
@@ -21283,9 +21893,9 @@ Zwischenwerte sind linear zu interpolieren.
 
 *    *   6.3
 
-    *   Genehmigung für die Inbetriebnahme eines struk-
-        turellen Teilsystems, für das keine TSI vorliegt, im Anwendungsbereich
-        des transeuropäischen Eisenbahnsystems
+    *   Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems,
+        für das keine TSI vorliegt, im Anwendungsbereich des transeuropäischen
+        Eisenbahnsystems
 
     *   § 6 Abs. 4 TEIV
 
@@ -21427,7 +22037,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 8
 
-## Amtshandlung nach dem ArbSchG
+## Individuell zurechenbare öffentliche Leistung nach dem ArbSchG
 
 
 *    *   Nr.
@@ -21451,7 +22061,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 9
 
-## Amtshandlungen nach dem IfSG
+## Individuell zurechenbare öffentliche Leistungen nach dem IfSG
 
 
 *    *   Nr.
@@ -21553,7 +22163,7 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Abschnitt 10
 
-## Sonstige Amtshandlungen
+## Sonstige individuell zurechenbare öffentliche Leistungen
 
 
 *    *   Nr.
@@ -21576,7 +22186,8 @@ Zwischenwerte sind linear zu interpolieren.
 
 ## Teil II
 
-Gebühren für Amtshandlungen der Bundesnetzagentur
+Gebühren für individuell zurechenbare öffentliche Leistungen der
+Bundesnetzagentur
 ## für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 
 
@@ -21668,7 +22279,8 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
 ## Teil III
 
-## Gebühren für Amtshandlungen der benannten Stelle
+## Gebühren für individuell zurechenbare öffentliche Leistungen der
+benannten Stelle
 
 
 *    *   Nr.

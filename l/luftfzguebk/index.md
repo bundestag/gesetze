@@ -354,8 +354,9 @@ Dieses Übereinkommen wird bei der Internationalen Zivilluftfahrt-
 Organisation hinterlegt; der Generalsekretär der Organisation
 übermittelt allen Mitgliedstaaten beglaubigte Abschriften.
 
+des Übereinkommens
 
-## Anhang des Übereinkommens Liste der Unterlagen
+## Anhang Liste der Unterlagen
 
 Die Unterlagen, die in Übereinstimmung mit Artikel 3 des
 Übereinkommens, dem diese Liste beigefügt ist, vorgelegt werden

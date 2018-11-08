@@ -15,7 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 693
 
-Stand: Zuletzt geändert Art. 8 Abs. 4 G v. 29.7.2009 I 2355
+Stand: Zuletzt geändert Art. 4 G v. 11.3.2016 I 396
+Änderung durch
+:   Art. 25 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -100,7 +103,7 @@ ersetzt werden.
 
 ## § 1a Beschriftung mittels Schreibprogramm
 
-(1) Die in § 174 Abs. 1 der Zivilprozeßordnung bezeichneten Personen
+(1) Die in § 173 Absatz 2 der Zivilprozeßordnung bezeichneten Personen
 und Stellen können den in Anlage 1 bestimmten Vordruck in einem aus
 Blatt 1 bis 3 bestehenden Teil des Vordrucks für den Antrag auf Erlaß
 des Mahnbescheids und in einem aus Blatt 3 bis 5 bestehenden Teil des
@@ -157,16 +160,16 @@ behoben ist.
 ## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
-Forderungen aus einem Vertrag gemäß den §§ 491 bis 509 des
+Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des
 Bürgerlichen Gesetzbuchs geltend, so hat der Unternehmer oder der
 Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in
 Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§
 690 Abs. 1 Nr. 3 der Zivilprozessordnung):
-"Anspruch aus Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen
 Gesetzbuchs vom .... Effektiver Jahreszins ... %".
 In den Fällen des § 504 des Bürgerlichen Gesetzbuchs genügt die
 Angabe:
-"Anspruch aus Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen
 Gesetzbuchs".
 
 (2) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar

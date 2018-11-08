@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3463
 
+Geändert durch
+:   Art. 1 V v. 5.3.2019 I 191
+
 
 
 ## Eingangsformel
@@ -150,9 +153,9 @@ Arbeitsprobe.
 (1) Als Meisterprüfungsarbeit sind die nachstehend genannten Arbeiten
 anzufertigen:
 
-1.  ein Pelzbekleidungsstück als Großstück nach eigenem Entwurf oder
-    vorgegebenem Modell unter Veränderung der natürlichen Fellproportionen
-    und des natürlichen Haarkleides,
+1.  ein Pelzbekleidungsstück nach eigenem Entwurf oder vorgegebenem Modell
+    unter Veränderung der natürlichen Fellproportionen und des natürlichen
+    Haarkleides,
 
 
 2.  ein Oberbekleidungsstück aus Leder nach eigenem Entwurf oder

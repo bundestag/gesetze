@@ -2,7 +2,7 @@
 Title: Grundstoff-Kostenverordnung
 jurabk: GÜGKostV
 layout: default
-origslug: g_gkostv
+origslug: guegkostv
 slug: guegkostv
 
 ---
@@ -14,6 +14,15 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2009, 1678
+
+V aufgeh. durch
+:   Art. 4 Abs. 10 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 2 Abs. 23 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 10 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 10 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -29,8 +38,8 @@ dem Bundesministerium für Wirtschaft und Technologie:
 ## § 1 Anwendungsbereich
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
-seine Amtshandlungen auf dem Gebiet des Grundstoffverkehrs Kosten
-(Gebühren und Auslagen) nach dieser Verordnung.
+seine individuell zurechenbaren öffentlichen Leistungen auf dem Gebiet
+des Grundstoffverkehrs Gebühren und Auslagen nach dieser Verordnung.
 
 
 ## § 2 Erteilung einer Erlaubnis
@@ -93,12 +102,12 @@ erhoben.
 ## § 6 Gebühren in Widerspruchsverfahren
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
-wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung
+wird eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt
 festgesetzten Gebühr erhoben. Dies gilt nicht, wenn der Widerspruch
 nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens-
 oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
 unbeachtlich ist. Bei einem erfolglosen Widerspruch, der sich
-ausschließlich gegen eine Kostenentscheidung richtet, beträgt die
+ausschließlich gegen eine Gebührenfestsetzung richtet, beträgt die
 Gebühr höchstens 10 Prozent des streitigen Betrages. Wird ein
 Widerspruch nach Beginn einer sachlichen Bearbeitung, jedoch vor deren
 Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 Prozent der
@@ -106,23 +115,24 @@ Gebühr nach Satz 1 oder Satz 3. Die Gebühr beträgt im Fall von Satz 1,
 3 oder Satz 4 mindestens 25 Euro.
 
 
-## § 7 Gebührenermäßigung, Gebührenbefreiung
+## § 7 Gebühren- und Auslagenermäßigung, Gebühren- und Auslagenbefreiung
 
 Von der Erhebung einer Gebühr oder Auslage kann in den Fällen der §§ 2
-bis 5 teilweise oder ganz abgesehen werden, wenn die Amtshandlung
-wissenschaftlichen, analytischen oder anderen im öffentlichen
-Interesse liegenden Zwecken von besonderer Bedeutung dient oder wenn
-die Erhebung in einem offensichtlichen Missverhältnis zum
-wirtschaftlichen Nutzen für den Kostenschuldner steht.
+bis 5 teilweise oder ganz abgesehen werden, wenn die individuell
+zurechenbare öffentliche Leistung wissenschaftlichen, analytischen
+oder anderen im öffentlichen Interesse liegenden Zwecken von
+besonderer Bedeutung dient oder wenn die Erhebung in einem
+offensichtlichen Missverhältnis zum wirtschaftlichen Nutzen für den
+Gebührenschuldner steht.
 
 
 ## § 8 Übergangsvorschrift
 
-Für Amtshandlungen, die vor dem 4. Juli 2009 vorgenommen worden sind,
-können Kosten nach Maßgabe dieser Verordnung erhoben werden, soweit
-bei den Amtshandlungen unter Hinweis auf den bevorstehenden Erlass
-dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten
-worden ist.
+Für individuell zurechenbare öffentliche Leistungen, die vor dem 4.
+Juli 2009 vorgenommen worden sind, können Gebühren und Auslagen nach
+Maßgabe dieser Verordnung erhoben werden, soweit bei diesen Leistungen
+unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine
+Gebührenfestsetzung ausdrücklich vorbehalten worden ist.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten

@@ -615,8 +615,9 @@ die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 3)
 
-## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik/zur Elektronikerin für Maschinen und Antriebstechnik
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik/zur Elektronikerin für Maschinen und Antriebstechnik
 
 (Fundstelle: BGBl. I 2008, 1495 - 1501)
 

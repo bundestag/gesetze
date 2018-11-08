@@ -51,8 +51,8 @@ bereits entlassen wurde.
 
 ## § 2 Geeignete geschlossene Einrichtungen
 
-Für die Therapieunterbringung nach § 1 sind nur solche geschlossenen
-Einrichtungen geeignet, die
+(1) Für die Therapieunterbringung nach § 1 sind nur solche
+geschlossenen Einrichtungen geeignet, die
 
 1.  wegen ihrer medizinisch-therapeutischen Ausrichtung eine angemessene
     Behandlung der im Einzelfall vorliegenden psychischen Störung auf der
@@ -71,6 +71,10 @@ Einrichtungen geeignet, die
 
 
 
+
+(2) Einrichtungen im Sinne des § 66c Absatz 1 des Strafgesetzbuches
+sind ebenfalls für die Therapieunterbringung geeignet, wenn sie die
+Voraussetzungen des Absatzes 1 Nummer 1 und 2 erfüllen.
 
 
 ## § 3 Gerichtliches Verfahren

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2628
 
+Geändert durch
+:   Art. 21 G v. 12.6.2020 I 1248
+
 
 
 ## Eingangsformel
@@ -111,10 +114,10 @@ Erstattungsanforderung beim zuständigen Träger der Versorgungslast
 fällig.
 
 (4) Der Erstattungsanspruch des Trägers der Rentenversicherung
-verjährt in vier Jahren nach Ablauf des Kalenderjahres, in dem er
-fällig geworden ist. Für die Hemmung, die Unterbrechung und die
-Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen
-Gesetzbuches sinngemäß.
+verjährt in vier Jahren nach Ablauf des Kalenderjahres, in dem die
+Aufwendungen angefordert werden sollen. Für die Hemmung, die
+Unterbrechung und die Wirkung der Verjährung gelten die Vorschriften
+des Bürgerlichen Gesetzbuches sinngemäß.
 
 
 ## § 3 Zeitlicher Anwendungsbereich

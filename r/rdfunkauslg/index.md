@@ -37,7 +37,7 @@ Grund der Ermächtigung des § 115 Bundespersonalvertretungsgesetz durch
 Rechtsverordnung wieder geändert werden.
 
 
-## Art 3 -
+## Art 3 - 
 
 
 
@@ -76,7 +76,7 @@ Bestellung aller Wahlvorstände und ihrer Vorsitzenden für die
 erstmaligen Wahlen im Sinne der Sätze 1 und 2.
 
 
-## Art 5 -
+## Art 5 - 
 
 
 

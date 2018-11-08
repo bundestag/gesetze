@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 1810
 
 Zuletzt geändert durch
-:   Art. 11 V v. 25.8.2009 I 2960
+:   Art. 15 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -38,7 +38,7 @@ durch die berufliche Fortbildung zum Meister für Bäderbetriebe/zur
 Meisterin für Bäderbetriebe erworben wurden, kann die zuständige
 Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, um
 insbesondere folgende Aufgaben eines Meisters als Führungskraft in der
 Leitung von Bäderbetrieben wahrzunehmen und Fachangestellte für
@@ -161,11 +161,11 @@ der letzten Prüfungsleistung zu erbringen.
 
 
 
-(2) Im Prüfungsfach "Grundlagen für kostenbewußtes Handeln" soll der
-Prüfungsteilnehmer nachweisen, daß er volks- und
+(2) Im Prüfungsfach "Grundlagen für kostenbewußtes Handeln" soll die
+zu prüfende Person nachweisen, daß er volks- und
 betriebswirtschaftliche Grundkenntnisse besitzt und wirtschaftliche
-Zusammenhänge erkennen und beurteilen kann. Darüber hinaus soll er
-insbesondere nachweisen, daß er organisatorische Erfordernisse des
+Zusammenhänge erkennen und beurteilen kann. Darüber hinaus soll sie
+insbesondere nachweisen, daß sie organisatorische Erfordernisse des
 Betriebes, auch in ihrer Bedeutung als Kostenfaktoren, beurteilen und
 notwendige Organisationstechniken an Hand von Beispielen aus der
 Praxis anwenden kann. In diesem Rahmen können geprüft werden:
@@ -235,10 +235,10 @@ Praxis anwenden kann. In diesem Rahmen können geprüft werden:
 
 
 
-(3) Im Prüfungsfach "Grundlagen für rechtsbewußtes Handeln" soll der
-Prüfungsteilnehmer rechtliche Grundkenntnissen nachweisen. Er soll
+(3) Im Prüfungsfach "Grundlagen für rechtsbewußtes Handeln" soll die
+zu prüfende Person rechtliche Grundkenntnissen nachweisen. Sie soll
 insbesondere an Hand von betriebsbezogenen und praxisnahen Fällen
-nachweisen, daß er die Bedeutung der Rechtsvorschriften für seinen
+nachweisen, daß sie die Bedeutung der Rechtsvorschriften für seinen
 Funktionsbereich erkennen und beurteilen kann. In diesem Rahmen können
 geprüft werden:
 
@@ -273,7 +273,10 @@ geprüft werden:
     e)  Sozialversicherung,
 
 
-    f)  Jugendarbeitsschutzgesetz;
+    f)  Mutterschutzgesetz,
+
+
+    g)  Jugendarbeitsschutzgesetz;
 
 
 
@@ -307,7 +310,7 @@ geprüft werden:
 
 
 (4) Im Prüfungsfach "Grundlagen für die Zusammenarbeit im Betrieb"
-soll der Prüfungsteilnehmer nachweisen, daß er über soziologische
+soll die zu prüfende Person nachweisen, daß sie über soziologische
 Grundkenntnisse verfügt und soziologische Zusammenhänge im Betrieb
 erkennen und beurteilen kann. In diesem Rahmen können geprüft werden:
 
@@ -385,12 +388,12 @@ Prüfungsfächern:
 
 
 (7) In der mündlichen Prüfung im Prüfungsfach "Grundlagen für die
-Zusammenarbeit im Betrieb" soll der Prüfungsteilnehmer nachweisen, daß
-er in der Lage ist, bestimmte berufstypische Situationen zu erkennen,
+Zusammenarbeit im Betrieb" soll die zu prüfende Person nachweisen, daß
+sie in der Lage ist, bestimmte berufstypische Situationen zu erkennen,
 ihre Ursachen zu klären und sachgerechte Lösungsvorschläge zu machen.
 Es ist von einer praxisbezogenen, betrieblichen Situationsaufgabe
-auszugehen. Die Prüfung soll je Prüfungsteilnehmer nicht länger als 30
-Minuten dauern.
+auszugehen. Die Prüfung soll für die zu prüfende Person nicht länger
+als 30 Minuten dauern.
 
 (8) Wurde in nicht mehr als einem der in Absatz 1 Nummer 1 und 2
 genannten Fächer eine mangelhafte Prüfungsleistung erbracht, ist in
@@ -425,11 +428,12 @@ gewichtet.
 
 
 (2) Im Prüfungsfach "Mathematische und naturwissenschaftliche
-Grundlagen" soll der Prüfungsteilnehmer nachweisen, daß er
+Grundlagen" soll die zu prüfende Person nachweisen, daß sie
 mathematische und naturwissenschaftliche Kenntnisse zur Lösung
-praxisbezogener Aufgabenstellungen anwenden kann. Er soll insbesondere
-deutlich machen, daß er die Zusammenhänge von abhängigen Größen
-richtig einschätzen kann. In diesem Rahmen können geprüft werden:
+praxisbezogener Aufgabenstellungen anwenden kann. Sie soll
+insbesondere deutlich machen, daß sie die Zusammenhänge von abhängigen
+Größen richtig einschätzen kann. In diesem Rahmen können geprüft
+werden:
 
 1.  Grundkenntnisse über:
 
@@ -480,8 +484,8 @@ richtig einschätzen kann. In diesem Rahmen können geprüft werden:
 
 
 
-(3) Im Prüfungsfach "Bädertechnik" soll der Prüfungsteilnehmer
-nachweisen, daß er über technische Kenntnisse verfügt, Zusammenhänge
+(3) Im Prüfungsfach "Bädertechnik" soll die zu prüfende Person
+nachweisen, daß sie über technische Kenntnisse verfügt, Zusammenhänge
 im Betrieb sowie Störungen erkennen und beurteilen und Maßnahmen zur
 Behebung einleiten kann. In diesem Rahmen können geprüft werden:
 
@@ -577,10 +581,10 @@ Behebung einleiten kann. In diesem Rahmen können geprüft werden:
 
 
 
-(4) Im Prüfungsfach "Bäderbetrieb" soll der Prüfungsteilnehmer
-nachweisen, daß er den Badebetrieb durch situationsgerechtes Verhalten
-steuern, Besucher durch entsprechende Maßnahmen ansprechen, gewinnen
-und halten kann. In diesem Rahmen können geprüft werden:
+(4) Im Prüfungsfach "Bäderbetrieb" soll die zu prüfende Person
+nachweisen, daß sie den Badebetrieb durch situationsgerechtes
+Verhalten steuern, Besucher durch entsprechende Maßnahmen ansprechen,
+gewinnen und halten kann. In diesem Rahmen können geprüft werden:
 
 1.  Gesprächsführung:
 
@@ -609,11 +613,11 @@ und halten kann. In diesem Rahmen können geprüft werden:
 
 
 
-(5) Im Prüfungsfach "Schwimm- und Rettungslehre" soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist, die Fachkraft
-anzuleiten, daß diese Schwimmunterricht und Schwimmtraining planen und
-durchführen kann, sowie die Theorie des Rettungsschwimmens beherrscht.
-In diesem Rahmen können geprüft werden:
+(5) Im Prüfungsfach "Schwimm- und Rettungslehre" soll die zu prüfende
+Person nachweisen, daß sie in der Lage ist, die Fachkraft anzuleiten,
+daß diese Schwimmunterricht und Schwimmtraining planen und durchführen
+kann, sowie die Theorie des Rettungsschwimmens beherrscht. In diesem
+Rahmen können geprüft werden:
 
 1.  Schwimmunterricht und Trainingslehre:
 
@@ -680,10 +684,10 @@ In diesem Rahmen können geprüft werden:
 
 
 
-(6) Im Prüfungsfach "Gesundheitslehre" soll der der Prüfungsteilnehmer
-nachweisen, daß er die Zusammenhänge zwischen der Funktion des Körpers
-und der Wirkung des Wasser beurteilen kann. In diesem Rahmen können
-geprüft werden:
+(6) Im Prüfungsfach "Gesundheitslehre" soll der die zu prüfende Person
+nachweisen, daß sie die Zusammenhänge zwischen der Funktion des
+Körpers und der Wirkung des Wasser beurteilen kann. In diesem Rahmen
+können geprüft werden:
 
 1.  Anatomische Grundkenntnisse:
 
@@ -762,7 +766,7 @@ Prüfungsfächern:
 genannten Fächer eine mangelhafte Prüfungsleistung erbracht, ist in
 diesen eine mündliche Ergänzungsprüfung anzubieten. Bei einer
 ungenügenden Prüfungsleistung besteht diese Möglichkeit nicht. Die
-Ergänzungsprüfung soll je Fach und Prüfungsteilnehmer in der Regel
+Ergänzungsprüfung soll je Fach und zu prüfender Person in der Regel
 nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen
 Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
@@ -784,8 +788,8 @@ Prüfungsleistung doppelt gewichtet.
 
 
 
-(2) Im Prüfungsfach "Rettungsschwimmen und Schwimmsport" soll der
-Prüfungsteilnehmer nachweisen, daß er Personen ohne Eigengefährdung
+(2) Im Prüfungsfach "Rettungsschwimmen und Schwimmsport" soll die zu
+prüfende Person nachweisen, daß sie Personen ohne Eigengefährdung
 retten und versorgen, die Schwimm- und einfachen Sprung- und
 Tauchtechniken vermitteln, sowie Schwimmtraining organisieren und
 durchführen kann.
@@ -807,16 +811,16 @@ Weiter können geprüft werden:
 
 
 
-Im Bereich Schwimmsport hat der Prüfungsteilnehmer nachzuweisen, daß
-er bei Wettkampftechniken in der Feinform Korrekturen vornehmen und
+Im Bereich Schwimmsport hat die zu prüfende Person nachzuweisen, daß
+sie bei Wettkampftechniken in der Feinform Korrekturen vornehmen und
 die dazugehörigen Techniken vorführen und vermitteln kann.
 
-(3) Im Prüfungsfach "Management und Führungsaufgaben" soll der
-Prüfungsteilnehmer im Rahmen einer Projektarbeit nachweisen, daß er
-als Führungskraft Veranstaltungen planen und durchführen sowie bei der
+(3) Im Prüfungsfach "Management und Führungsaufgaben" soll die zu
+prüfende Person im Rahmen einer Projektarbeit nachweisen, daß sie als
+Führungskraft Veranstaltungen planen und durchführen sowie bei der
 Betriebsführung auftretende Probleme erfassen, darstellen, beurteilen
 und lösen kann. Das Thema der Projektarbeit soll die betriebliche
-Praxis des Prüfungsteilnehmers berücksichtigen. Die Projektarbeit kann
+Praxis der zu prüfenden Person berücksichtigen. Die Projektarbeit kann
 eine der folgenden oder auch anderen Aufgabenstellungen zum Gegenstand
 haben:
 
@@ -833,7 +837,7 @@ haben:
 
 
 
-Vorschläge des Prüfungsteilnehmers können berücksichtigt werden. Im
+Vorschläge der zu prüfenden Person können berücksichtigt werden. Im
 Rahmen der Projektarbeit ist eine Hausarbeit anzufertigen und 20 Tage
 nach Aufgabenstellung vorzulegen. Die Hausarbeit soll mindestens
 folgende Bestandteile aufweisen:
@@ -873,9 +877,9 @@ Die Hausarbeit und die Präsentation sind Ausgangspunkt des
 anschließenden Fachgesprächs. Das Fachgespräch soll nicht länger als
 15 Minuten dauern.
 
-(4) Im Prüfungsfach "Betriebstechnische Situationsaufgabe" soll der
-Prüfungsteilnehmer im Rahmen von praxisnahen Situationsaufgaben
-nachweisen, daß er den technischen Betriebsablauf überwachen und
+(4) Im Prüfungsfach "Betriebstechnische Situationsaufgabe" soll die zu
+prüfende Person im Rahmen von praxisnahen Situationsaufgaben
+nachweisen, daß sie den technischen Betriebsablauf überwachen und
 steuern kann und gegebenenfalls durch entsprechende Maßnahmen unter
 Beachtung der Wirksamkeit, Betriebssicherheit, Arbeitssicherheit,
 Wirtschaftlichkeit und Umweltverträglichkeit den reibungslosen
@@ -916,150 +920,487 @@ dauern. Die Mindestzeiten betragen in den Prüfungsfächern:
 
 
 
-## § 7 Anrechnung anderer Prüfungsleistungen
+## § 7 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 8 Bestehen der Prüfung
-
-(1) Die Prüfungsteile gemäß § 3 Abs. 1 Nr. 1 bis 3 sind gesondert zu
-bewerten. Für jeden dieser Teile ist eine Note als arithmetisches
-Mittel aus den Bewertungen der Leistungen in den einzelnen
-Prüfungsfächern zu bilden. Die Noten der schriftlichen und mündlichen
-Prüfungsleistungen in einem Prüfungsfach sind zu einer Note
-zusammenzufassen.
-
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in allen
-Teilen der Prüfung und in den Prüfungsfächern "Management und
-Führungsaufgaben" und "Betriebstechnische Situationsaufgabe"
-mindestens ausreichende Leistungen erbracht hat.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
-Freistellung gemäß § 8 sind Ort und Datum sowie die Bezeichnung des
-Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8
+und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 8 Absatz 3 Satz 1 oder § 9 Absatz 3 Satz 1
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 9 Wiederholung der Prüfung
+## § 8 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die Prüfungsteile nach § 3 Absatz 1 Nummer 1 bis 3 sind gesondert
+zu bewerten.
+
+(3) Für jeden Prüfungsteil ist als zusammengefasste Bewertung das
+arithmetische Mittel aus den Bewertungen der Leistungen in den
+einzelnen Prüfungsfächern zu bilden. Werden in einem Prüfungsfach
+schriftliche und mündliche Prüfungsleistungen erbracht, sind diese
+gleichgewichtig zu einer Bewertung zusammenzufassen.
+
+
+## § 9 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in den Prüfungsteilen nach § 3 Absatz 1 Nummer 1 bis 3,
+
+
+2.  im Prüfungsfach „Management und Führungsaufgaben“,
+
+
+3.  im Prüfungsfach „Betriebstechnische Situationsaufgabe“.
+
+
+
+
+(2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils
+kaufmännisch auf eine ganze Zahl zu runden:
+
+1.  die Bewertungen für die Prüfungsfächer, in denen auch eine mündliche
+    Prüfung durchgeführt wurde sowie
+
+
+2.  die zusammengefassten Bewertungen für die Prüfungsteile nach § 3
+    Absatz 1 Nummer 1 bis 3.
+
+
+
+
+(3) Den Bewertungen der Prüfungsteile nach § 3 Absatz 1 Nummer 1 bis 3
+und der Prüfungsfächer ist nach Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen der Leistungen in den
+einzelnen Prüfungsfächern in den Prüfungsteilen nach § 3 Absatz 1
+Nummer 1 bis 3 zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf
+eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach
+Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen.
+Die zugeordnete Note ist die Gesamtnote.
+
+
+## § 10 Zeugnisse
+
+(1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 7 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 11 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer von der Prüfung in einzelnen Prüfungsteilen und
-Prüfungsfächern befreit, wenn seine Leistungen darin in einer
-vorangegangenen Prüfung ausgereicht haben und er sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nichtbestandenen
-Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der
-Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
-zu wiederholen. In diesem Fall zählt das letzte Ergebnis für das
-Bestehen.
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern
+befreit, wenn ihre Leistungen darin in einer vorangegangenen Prüfung
+ausgereicht haben und sie sich innerhalb von zwei Jahren, gerechnet
+vom Tage der Beendigung der nichtbestandenen Prüfung an, zur
+Wiederholungsprüfung angemeldet hat. Die zu prüfende Person kann
+beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
+diesem Fall zählt das letzte Ergebnis für das Bestehen.
 
 
-## § 10 Übergangsvorschrift
+## § 12 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Gleichzeitig tritt die Verordnung über die berufliche Fortbildung zum
+Geprüften Schwimmeister vom 3. Dezember 1975 (BGBl. I S. 2986) außer
+Kraft.
+
+(zu den §§ 8 und 9)
+
+## Anlage 1 Bewertungsmaßstab und -schlüssel
+
+(Fundstelle: BGBl. I 2019, 2207 - 2208)
 
 
-## Anlage 1 (zu § 8 Absatz 3)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 1998, 1816,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+    *   Note
+        als Dezimalzahl
 
-Muster
-......................................................................
-..
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluß
-Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für
-Bäderbetriebe
-Herr/Frau
-..............................................................
-geboren am ...................   in
-....................................
-hat am .......................   die Prüfung zu anerkannten Abschluß
-**Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für
-Bäderbetriebe**
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe vom
-7\. Juli 1998 (BGBl. I S. 1810), die zuletzt durch Artikel 11 der
-Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden
-ist, bestanden.
-Datum .................................
-Unterschrift(en) ......................
-(Siegel der zuständigen Stelle)
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-## Anlage 2 (zu § 8 Absatz 3)
+*    *   100
 
-(Fundstelle: BGBl. I 1998, 1817;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+    *   1,0
 
-Muster
-......................................................................
-..
-(Bezeichnung der zuständigen Stelle)
-**Zeugnis**
-über die
-Prüfung zum anerkannten Abschluß
-Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für
-Bäderbetriebe
-Herr/Frau
-..............................................................
-geboren am ...................   in
-....................................
-hat am .......................   die Prüfung zu anerkannten Abschluß
-**Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für
-Bäderbetriebe**
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe vom
-7\. Juli 1998 (BGBl. I S. 1810), die zuletzt durch Artikel 11
-der Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert
-worden ist, mit folgenden Ergebnissen bestanden:
-Ergebnisse der Prüfung                                          Note
-I.   Allgemeiner Teil
-...........
-1\. Grundlagen für kostenbewußtes Handeln                ...........
-2\. Grundlagen für rechtsbewußtes Handeln                ...........
-3\. Grundlagen für die Zusammenarbeit im Betrieb         ...........
-II.  Fachtheoretischer Teil
-...........
-1\. Mathematische und naturwissenschaftliche Grundlagen  ...........
-2\. Bädertechnik                                         ...........
-3\. Bäderbetrieb                                         ...........
-4\. Schwimm- und Rettungslehre                           ...........
-5\. Gesundheitslehre                                     ...........
-III. Fachpraktischer Teil
-...........
-1\. Rettungsschwimmen und Schwimmsport                   ...........
-2\. Management und Führungsaufgaben                      ...........
-3\. Betriebstechnische Situationsaufgabe                 ...........
-IV.  Berufs- und arbeitspädagogischer Eignung
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach
-§ 3 Absatz 3 den Nachweis über den Erwerb der berufs-
-und arbeitspädagogischen Eignung durch die
-Prüfung am .......... in .......... vor .......... erbracht.
-(Im Falle des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 7 im Hinblick auf die am ... in ... vor ... abgelegte
-Prüfung vom Prüfungsbestandteil ... freigestellt.")
-Datum .................................
-Unterschrift(en) ......................
-(Siegel der zuständigen Stelle)
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 10)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2208 - 2209)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung, Bewertung und Note der Prüfungsteile nach § 3 Absatz 1
+    Nummer 1 bis 3,
+
+
+2.  Benennung, Bewertung und Note der Prüfungsfächer nach § 8 Absatz 3,
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 7,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 3 Absatz 3.
+
+
+
 

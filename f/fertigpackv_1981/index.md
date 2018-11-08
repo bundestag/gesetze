@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.3.1994 I 451, 1307;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.6.2008 I 1079
+:   Art. 27 V v. 5.7.2017 I 2272
 
 
 ## Erster Abschnitt - Verbindliche Standardisierung und Maßbehältnisse
@@ -217,8 +217,8 @@ nach den allgemein anerkannten Regeln der Technik entsprechen.
 (1) Wer Maßbehältnisse herstellt, kann die Erteilung eines
 Herstellerzeichens beantragen.
 
-(2) Der Antrag ist schriftlich bei der Physikalisch-Technischen
-Bundesanstalt zu stellen.
+(2) Der Antrag ist schriftlich oder elektronisch bei der Physikalisch-
+Technischen Bundesanstalt zu stellen.
 
 (3) Die Physikalisch-Technische Bundesanstalt kann vom Antragsteller
 verlangen,
@@ -1214,7 +1214,7 @@ verwenden.
 
 ### § 33a Ausnahmen
 
-Die Vorschriften dieser Verordnung gelten nicht für
+(1) Die Vorschriften dieser Verordnung gelten nicht für
 
 1.  Fertigpackungen, die zum Verbringen aus dem Geltungsbereich dieser
     Verordnung oder für die Ausrüstung von Seeschiffen bestimmt sind,
@@ -1235,12 +1235,50 @@ Die Vorschriften dieser Verordnung gelten nicht für
 
 
 
+(2) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
+entgegenstehen aus
+
+1.  der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+    Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+    über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+    und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+    zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+    331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+    30\.9.2016, S. 7) oder
+
+
+2.  den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der
+    Europäischen Union.
+
+
+
+Dabei ist der Vorrang der nach Artikel 42 der Verordnung (EU) Nr.
+1169/2011 der Europäischen Kommission mitgeteilten und im
+Bundesanzeiger durch das Bundesministerium für Wirtschaft und Energie
+bekannt gemachten nationalen Vorschriften zu beachten.
+
 
 ### § 34 Nachschau
 
-(1) Die Einhaltung der §§ 22 bis 24, 32 Abs. 1 bis 3 und § 33 Abs. 1
-bis 3 ist von der zuständigen Behörde durch Stichproben zu prüfen. Die
-Prüfung kann bei der Herstellung oder dem Verbringen in den
+(1) Die Einhaltung folgender Vorschriften ist von den zuständigen
+Behörden durch Stichproben zu prüfen:
+die Einhaltung
+
+1.  der §§ 22 bis 24, des § 32 Absatz 1 bis 3, des § 33 Absatz 1 bis 3 und
+
+
+2.  des Artikels 9 Absatz 1 Buchstabe e in Verbindung mit Artikel 23
+    Absatz 1 und 3 und in Verbindung mit Anhang IX Nummer 3 Satz 1, Nummer
+    4 und 5 Satz 1 der Verordnung (EU) Nr. 1169/2011 und des Artikels 9
+    Absatz 1 Buchstabe h der Verordnung (EU) Nr. 1169/2011.
+
+
+
+Die Prüfung kann bei der Herstellung oder dem Verbringen in den
 Geltungsbereich dieser Verordnung und in allen Stufen des Handels
 erfolgen. Für die Prüfung ist das Verfahren zur Prüfung der Füllmengen
 von Fertigpackungen der Anlagen 4a und 4b anzuwenden. Für die Prüfung
@@ -1254,176 +1292,7 @@ Verordnung verbringen. Für die Prüfung ist das Verfahren zur Prüfung
 von Maßbehältnissen der Anlage 5 anzuwenden.
 
 
-### § 35 Ordnungswidrigkeiten
-
-(1) Ordnungswidrig im Sinne des § 19 Abs. 1 Nr. 4 des Eichgesetzes
-handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1 Abs. 1, § 6 Abs. 1 oder § 31 Abs. 2 Nr. 3 Satz 3, dieser
-    in Verbindung mit Satz 2, oder Satz 4 Halbsatz 1, jeweils auch in
-    Verbindung mit § 31a Satz 1, Fertigpackungen gewerbsmäßig in den
-    Verkehr bringt,
-
-
-2.  Maßbehältnisse, die den Anforderungen des § 2 Abs. 3 oder 4 oder des §
-    3 Abs. 2 oder 3 nicht entsprechen, gewerbsmäßig herstellt oder in den
-    Geltungsbereich dieser Verordnung verbringt,
-
-
-2a. entgegen § 2 Abs. 5 eine dort genannte Bezeichnung aufbringt oder
-    aufbringen lässt,
-
-
-3.  einer Vorschrift des
-
-    a)  § 6 Abs. 2, auch in Verbindung mit § 31a Satz 1, § 32 Abs. 6 Satz 2
-        oder § 33 Abs. 6, Satz 1,
-
-
-    b)  § 6 Abs. 3 Satz 1 oder Abs. 4,
-
-
-    c)  § 6 Abs. 5 Satz 1, auch in Verbindung mit § 33 Abs. 6 Satz 1, oder
-
-
-    d)  § 7 Abs. 1, 2 Satz 1 oder 2, Abs. 3, 4, 5 oder 6, § 8 Abs. 3, § 10
-        Abs. 2 Satz 2 oder § 11
-
-
-
-
-    über die Kennzeichnung von Fertigpackungen zuwiderhandelt,
-
-
-4.  (weggefallen)
-
-
-5.  (weggefallen)
-
-
-6.  einer Vorschrift des
-
-    a)  § 18 Abs. 1, auch in Verbindung mit § 31a Satz 1,
-
-
-    b)  § 18 Abs. 4, auch in Verbindung mit § 31a Satz 1, § 32 Abs. 6 Satz 2
-        oder § 33 Abs. 6 Satz 1,
-
-
-    c)  § 20 Abs. 1, auch in Verbindung mit § 31a Satz 1 oder § 32 Abs. 6 Satz
-        2, oder
-
-
-    d)  § 20 Abs. 2 oder § 21 Abs. 2
-
-
-
-
-    über die Kennzeichnung von Fertigpackungen zuwiderhandelt,
-
-
-7.  Fertigpackungen mit dem Zeichen der Anlage 9 herstellt, aus Staaten
-    außerhalb der Europäischen Gemeinschaften sowie der anderen
-    Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-    einführt oder sonst in den Geltungsbereich dieser Verordnung
-    verbringt, ohne daß die Anforderungen des § 21 Abs. 1 erfüllt sind,
-
-
-8.  Fertigpackungen entgegen § 22 Abs. 1 oder § 23 Abs. 1, jeweils auch in
-    Verbindung mit § 31a Satz 1, oder § 22a Abs. 1 gewerbsmäßig herstellt
-    oder entgegen § 22 Abs. 2 oder § 23 Abs. 2, jeweils auch in Verbindung
-    mit § 31a Satz 1, oder § 22a Abs. 2 gewerbsmäßig in den
-    Geltungsbereich dieser Verordnung verbringt,
-
-
-9.  entgegen § 22 Abs. 4, § 23 Abs. 3 Satz 1, § 24 Abs. 1 oder 2, § 25, §
-    31 Abs. 2 Nr. 2 Satz 2, Nr. 3 Satz 2 oder Nr. 4 Satz 3, jeweils auch
-    in Verbindung mit § 31a Satz 1, oder § 22a Abs. 3 Fertigpackungen
-    erstmals gewerbsmäßig in den Verkehr bringt,
-
-
-10. entgegen § 27 Abs. 1 Satz 2, auch in Verbindung mit § 31a Satz 1, § 32
-    Abs. 5 Satz 2 oder § 33 Abs. 6 Satz 2, als Hersteller Fertigpackungen
-    nicht mit einem geeigneten Kontrollmeßgerät oder einem allgemein
-    anerkannten Meßverfahren überprüft,
-
-
-11. entgegen § 27 Abs. 2, auch in Verbindung mit § 31a Satz 1, als
-    Hersteller eine nicht, nicht richtig oder nicht in der
-    vorgeschriebenen Form gekennzeichnete Kontrollwaage verwendet,
-
-
-12. als Hersteller entgegen § 27 Abs. 4 Satz 1, auch in Verbindung mit §
-    31a Satz 1, ein Ergebnis einer Überprüfung nicht, nicht richtig oder
-    nicht in der vorgeschriebenen Form aufzeichnet oder entgegen § 27 Abs.
-    4 Satz 2, auch in Verbindung mit § 31a Satz 1, eine Aufzeichnung nicht
-    aufbewahrt oder nicht vorlegt,
-
-
-13. Fertigpackungen, offene Packungen (§ 31a Satz 1) oder
-    Verkaufseinheiten (§ 33 Abs. 6 Satz 1) gewerbsmäßig ohne eine nach §
-    29 Abs. 1 Satz 1 oder 2 vorgeschriebene Angabe herstellt oder in den
-    Geltungsbereich dieser Verordnung verbringt,
-
-
-13a. entgegen § 31a Satz 2 nachfüllbare offene Packungen gewerbsmäßig in
-    den Verkehr bringt,
-
-
-14. entgegen § 32 Abs. 1, 2 oder 3 Backwaren gewerbsmäßig herstellt,
-    gewerbsmäßig in den Geltungsbereich dieser Verordnung verbringt oder
-    erstmals gewerbsmäßig in den Verkehr bringt,
-
-
-15. entgegen § 32 Abs. 6 Satz 1 unverpacktes Brot gewerbsmäßig in den
-    Verkehr bringt,
-
-
-16. Verkaufseinheiten entgegen § 33 Abs. 1 gewerbsmäßig herstellt oder
-    entgegen § 33 Abs. 2 gewerbsmäßig in den Geltungsbereich dieser
-    Verordnung verbringt,
-
-
-17. entgegen § 33 Abs. 3 Verkaufseinheiten erstmals gewerbsmäßig in den
-    Verkehr bringt oder
-
-
-18. entgegen § 33 Abs. 5 Verkaufseinheiten gewerbsmäßig in den Verkehr
-    bringt.
-
-
-
-
-(2) Ordnungswidrig im Sinne des § 19 Abs. 1 Nr. 5 des Eichgesetzes
-handelt, wer gegen die Verordnung (EWG) Nr. 1538/91 der Kommission vom
-5\. Juni 1991 mit ausführlichen Durchführungsvorschriften zur
-Verordnung (EWG) Nr. 1906/90 des Rates über bestimmte
-Vermarktungsnormen für Geflügelfleisch (ABl. EG Nr. L 143 S. 11),
-zuletzt geändert durch die Verordnung (EG) Nr. 1474/2007 der
-Kommission vom 13. Dezember 2007 (ABl. EU Nr. L 329 S. 14), verstößt,
-indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 8 Abs. 2 auf Fertigpackungen vor dem Inverkehrbringen
-    das Nenngewicht nicht angibt,
-
-
-2.  Fertigpackungen erstmals in den Verkehr bringt, deren tatsächliche
-    Füllmenge nach der Herstellung entgegen Artikel 8 Abs. 4 erster
-    Anstrich im Mittel niedriger als das Nenngewicht ist,
-
-
-3.  Fertigpackungen erstmals in den Verkehr bringt, bei denen entgegen
-    Artikel 8 Abs. 4 zweiter Anstrich der Anteil der Fertigpackungen,
-    deren Minusabweichung die vorgeschriebenen Fehlergrenzen
-    überschreitet, nicht den für das Los von Fertigpackungen festgelegten
-    Prüfungsvorschriften entspricht oder
-
-
-4.  Fertigpackungen erstmals in den Verkehr bringt, deren Minusabweichung
-    entgegen Artikel 8 Abs. 4 dritter Anstrich die vorgeschriebenen
-    Fehlergrenzen um mehr als das Doppelte überschreitet.
-
-
+### § 35 (weggefallen)
 
 
 
@@ -1447,8 +1316,9 @@ gelten als Herstellerzeichen im Sinne dieser Verordnung.
 
 -
 
+(zu § 1)
 
-### Anlage 1 (zu § 1) Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
+### Anlage 1 Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
 
 ( Fundstelle: BGBl. I 2008, 1081)
 
@@ -1591,14 +1461,14 @@ gelten als Herstellerzeichen im Sinne dieser Verordnung.
 -
 
 
-### Anlage 3
-
-(weggefallen)
+### Anlage 3 (weggefallen)
 
 
-### Anlage 4a (zu § 34 Abs. 1) Verfahren zur Prüfung der Füllmengen nach Gewicht oder Volumen gekennzeichneter Fertigpackungen durch die zuständigen Behörden
+(zu § 34 Abs. 1)
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 484 - 487;
+### Anlage 4a Verfahren zur Prüfung der Füllmengen nach Gewicht oder Volumen gekennzeichneter Fertigpackungen durch die zuständigen Behörden
+
+(Fundstelle: BGBl. I 1994, 484 - 487;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
@@ -1647,7 +1517,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     kann, wird die Losgröße durch die Anzahl der gleichbeschaffenen
     Fertigpackungen des Lagerbestandes begrenzt.
 
-    In jedem Falle ist die Losgröße aus 10.000 Fertigpackungen begrenzt.
+    In jedem Falle ist die Losgröße aus 10 000 Fertigpackungen begrenzt.
 
 
 4.  Umfang der Stichproben
@@ -1706,7 +1576,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   0,344
 
 
-        *            *   501 bis 3.200
+        *            *   501 bis 3 200
 
             *   1.
 
@@ -1733,7 +1603,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   0,262
 
 
-        *            *   3.201 und mehr
+        *            *   3 201 und mehr
 
             *   1.
 
@@ -1789,7 +1659,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   0,379
 
 
-        *            *   501 bis 3.200
+        *            *   501 bis 3 200
 
             *   80
 
@@ -1800,7 +1670,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   0,295
 
 
-        *            *   3.201 und mehr
+        *            *   3 201 und mehr
 
             *   125
 
@@ -1857,7 +1727,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   1,237
 
 
-        *            *   501 bis 3.200
+        *            *   501 bis 3 200
 
             *   13
 
@@ -1868,7 +1738,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   0,847
 
 
-        *            *   3.201 und mehr
+        *            *   3 201 und mehr
 
             *   20
 
@@ -2015,13 +1885,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     a)  Gewichte durch Wägung,
 
 
-    b)  Gewichte von Textilerzeugnissen im Sinne von § 2 des
-        Textilkennzeichnungsgesetzes nach den allgemein anerkannten Regeln der
-        Technik; als Gewicht gilt das Trockengewicht ohne Umhüllung, Einlage
-        und dergleichen und ohne Beschwerung, wenn die Beschwerung nicht durch
-        die Art des Erzeugnisses und die Herstellung bedingt ist, zuzüglich
-        eines Feuchtigkeitszuschlages für die in Anlage 2 des
-        Textilkennzeichnungsgesetzes aufgeführten Fasern,
+    b)  Gewichte von Textilerzeugnissen im Sinne von Artikel 19 Absatz 3 der
+        Verordnung (EU) Nr. 1007/2011 des Europäischen Parlaments und des
+        Rates vom 27. September 2011 über die Bezeichnung von Textilfasern und
+        die damit zusammenhängende Etikettierung und Kennzeichnung der
+        Faserzusammensetzung von Textilerzeugnissen und zur Aufhebung der
+        Richtlinie 73/44/EWG des Rates und der Richtlinien 96/73/EG und
+        2008/121/EG des Europäischen Parlaments und des Rates (ABl. L 272 vom
+        18\.10.2011, S. 1) nach den allgemein anerkannten Regeln der Technik;
+        als Gewicht gilt das Trockengewicht ohne Umhüllung, Einlage und
+        dergleichen und ohne Beschwerung, wenn die Beschwerung nicht durch die
+        Art des Erzeugnisses und die Herstellung bedingt ist, zuzüglich eines
+        Feuchtigkeitszuschlages für die in Anhang IX der Verordnung (EU) Nr.
+        1007/2011 aufgeführten Fasern,
 
 
     c)  Volumen durch Wägung in Verbindung mit einer Bestimmung der mittleren
@@ -2123,7 +1999,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Von dem festgestellten Mittelwert
     -x der Stichprobe und den festgestellten Einzelgewichten
     xi der Stichprobe wird der mittlere Trocknungsverlust abgezogen; der
-    aus Anlage 2 des Textilkennzeichnungsgesetzes berechnete
+    aus Anhang IX der Verordnung (EU) Nr. 1007/2011 berechnete
     Feuchtigkeitszuschlag wird hinzugerechnet. Im übrigen gilt Nummer 7.1.
 
 
@@ -2233,10 +2109,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 34 Abs. 1)
 
-### Anlage 4b (zu § 34 Abs. 1) Verfahren zur Prüfung der Füllmengen nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen durch die zuständigen Behörden
+### Anlage 4b Verfahren zur Prüfung der Füllmengen nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 488 - 489)
+(Fundstelle: BGBl. I 1994, 488 - 489)
 
 
 1.  Ort der Prüfung
@@ -2480,10 +2357,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 34 Abs. 2)
 
-### Anlage 5 (zu § 34 Abs. 2) Verfahren zur Prüfung von Maßbehältnissen durch die zuständigen Behörden
+### Anlage 5 Verfahren zur Prüfung von Maßbehältnissen durch die zuständigen Behörden
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 490)
+(Fundstelle: BGBl. I 1994, 490)
 
 
 1.  Ort der Prüfung
@@ -2555,8 +2433,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *        *   s ≤ F (T
-            o                              - T
-            u                             )
+            o - T
+            u)
 
 
     *        *   mit k = 1,57 und F = 0,266
@@ -2597,14 +2475,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage 6
+### Anlage 6 (weggefallen)
 
-(weggefallen)
 
 
 ### Anlage 7 Geeignete Kontrollmeßgeräte im Sinne des § 27 und geeignete Waagen im Sinne des § 31 Fertigpackungsverordnung
 
-(Fundstelle: BGBl. I 1994, 491)
+(Fundstelle: BGBl. I 1994, 491; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 
 1.  Zu § 27
@@ -2615,9 +2493,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     sind und die Verkehrsfehlergrenze nicht größer ist als das 0,2fache
     der zulässigen Minusabweichung der zu prüfenden Fertigpackung. Die
     zuständige Behörde kann in besonderen Fällen für die Kontrolle von
-    Fertigpackungen mit bestimmten Erzeugnissen die Verwendung nicht
-    eichfähiger Kontrollmeßgeräte zulassen, wenn die Geräte eine
-    ausreichende Meßgenauigkeit erwarten lassen.
+    Fertigpackungen mit bestimmten Erzeugnissen die Verwendung nicht dem
+    Mess- und Eichgesetz entsprechender Kontrollmeßgeräte zulassen, wenn
+    die Geräte eine ausreichende Meßgenauigkeit erwarten lassen.
 
 
 1.1.1 Werden nichtselbsttätige Waagen als Kontrollwaagen verwendet, darf der
@@ -2651,12 +2529,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   1,0
 
 
-    *        *   von 500 bis weniger als 2.500
+    *        *   von 500 bis weniger als 2 500
 
         *   2,0
 
 
-    *        *   von 2.500 und mehr
+    *        *   von 2 500 und mehr
 
         *   5,0
 
@@ -2759,7 +2637,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 9
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 492)
+(Fundstelle: BGBl. I 1994, 492)
 
 
 *    *   Zeichen nach § 21 Abs. 1
@@ -2768,58 +2646,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *        ![bgbl1_1994_j0451_0050.jpg](bgbl1_1994_j0451_0050.jpg)
 
 *    *   Mindesthöhe des Zeichens: 3 mm
-
-
-
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-Fertigpackungsverordnung vom 18. Dezember 1981 (BGBl. I S. 1585),
-zuletzt geändert durch Verordnung vom 28. Mai 1990 (BGBl. I S. 991),
-mit folgenden Maßgaben:
-
-*
-    a)  Fertigpackungen dürfen in dem in Artikel 3 des Vertrages genannten
-        Gebiet mit einer von den Vorschriften des § 16 des Eichgesetzes und
-        der §§ 6 bis 11, 18 und 20 der Fertigpackungsverordnung abweichenden,
-        den am Tage des Wirksamwerdens des Beitritts dort geltenden
-        Vorschriften entsprechenden Füllmengenangabe bis zum 31. Dezember 1992
-        erstmals in den Verkehr gebracht und unbefristet weiter abgegeben
-        werden.
-
-
-    b)  Fertigpackungen mit den in Anlage 1 Nr. 1a und 2a zur
-        Fertigpackungsverordnung genannten Erzeugnissen mit einer
-        Nennfüllmenge von 0,7 l dürfen in dem in Artikel 3 des Vertrages
-        genannten Gebiet bis zum 31. Dezember 1992 erstmals in den Verkehr
-        gebracht und unbefristet weiter abgegeben werden. Fertigpackungen mit
-        den in Anlage 1 Nr. 2b, 5 und 6 zur Fertigpackungsverordnung genannten
-        Erzeugnissen dürfen in diesem Gebiet bis zum 31. Dezember 1992 mit
-        einer in diesen Nummern nicht zugelassenen Nennfüllmenge erstmals in
-        den Verkehr gebracht und unbefristet weiter abgegeben werden, wenn die
-        Nennfüllmenge der Fertigpackungen einem Wert entspricht, mit dem das
-        betreffende Erzeugnis vor dem Tage des Wirksamwerdens des Beitritts in
-        diesem Gebiet in Fertigpackungen in den Verkehr gebracht werden
-        durfte.
-
-
-    c)  Bei Fertigpackungen gleicher Nennfüllmenge, die in dem in Artikel 3
-        des Vertrages genannten Gebiet angeboten werden oder für die dort
-        unter Angabe von Preisen geworben wird, ist die Angabe des
-        Grundpreises nicht erforderlich, wenn die Fertigpackungen vor dem 31.
-        Dezember 1992 erstmals in den Verkehr gebracht werden und die
-        Nennfüllmenge der Fertigpackungen einem Wert entspricht, mit dem das
-        betreffende Erzeugnis vor dem Tage des Wirksamwerdens des Beitritts in
-        diesem Gebiet in Fertigpackungen in den Verkehr gebracht werden
-        durfte.
-
-
-
 
 
 

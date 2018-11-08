@@ -1,5 +1,5 @@
 ---
-Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich
+Title: Anordnung zur Durchführung des Bundesdisziplinargesetzes für den  Geschäftsbereich
   des Bundesministeriums für Arbeit und Soziales
 jurabk: BMinASBDGAnO
 layout: default
@@ -8,7 +8,7 @@ slug: bminasbdgano
 
 ---
 
-# Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BMinASBDGAnO)
+# Anordnung zur Durchführung des Bundesdisziplinargesetzes für den  Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (BMinASBDGAnO)
 
 Ausfertigungsdatum
 :   2006-02-28

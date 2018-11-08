@@ -86,7 +86,7 @@ dieses Gesetzes im Sinne des Absatzes 1 tätig geworden, so zeigt es
 dies dem Amtsgericht Schöneberg in Berlin-Schöneberg unverzüglich an.
 
 
-## Dritter Abschnitt -
+## Dritter Abschnitt - 
 
 
 
@@ -179,7 +179,7 @@ gelten entsprechend. Sind hiernach mehrere Gerichte zuständig, so
 gebührt dem Gericht der Vorzug, das zuerst mit der Sache befaßt wird.
 
 
-## Fünfter Abschnitt -
+## Fünfter Abschnitt - 
 
 
 

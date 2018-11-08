@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2797
 
+V aufgeh. durch
+:   Art. 4 Abs. 132 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 2 Abs. 171 G v. 7.8.2016 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 139 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 ## Eingangsformel
 
@@ -29,7 +38,7 @@ Verkehr, Bau und Stadtentwicklung:
 ## § 1 Anwendungsbereich
 
 Das Eisenbahn-Bundesamt erhebt nach dieser Verordnung Gebühren und
-Auslagen für Amtshandlungen
+Auslagen für individuell zurechenbare öffentliche Leistungen
 
 1.  nach dem EU-Fahrgastrechte-Schifffahrt-Gesetz,
 
@@ -60,14 +69,15 @@ Einzelfall unbillig wäre.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 2 Absatz 1)
 
-## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 2798)
 
-Gebühren für Amtshandlungen
+Gebühren für individuell zurechenbare öffentliche Leistungen
 nach dem EU-Fahrgastrechte-Schifffahrt-Gesetz
-## (EU-FahrgRSchG)
+## **(EU-FahrgRSchG)**
 
 
 *    *   Gegenstand
@@ -78,12 +88,13 @@ nach dem EU-Fahrgastrechte-Schifffahrt-Gesetz
 
 
 *    *   A.
-        Amtshandlungen gegenüber dem Beförderer, Reisevermittler,
-        Reiseveranstalter oder Terminalbetreiber zur Feststellung eines
-        Verstoßes gegen die Verordnung (EU) Nr. 1177/2010 auf Grund eines
-        Verdachtes, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der
-        Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst
-        und ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
+        Individuell zurechenbare öffentliche Leistungen gegenüber dem
+        Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber
+        zur Feststellung eines Verstoßes gegen die Verordnung (EU) Nr.
+        1177/2010 auf Grund eines Verdachtes, einer Beschwerde oder zum Zweck
+        einer Stichprobe, wenn der Verdacht oder die Beschwerde vom
+        Betroffenen verantwortlich veranlasst und ein Verstoß gegen eine
+        Rechtsvorschrift festgestellt wurde
 
     *   § 4 Abs. 1 Satz 2 Nr. 2 und 3, Abs. 2 EU-FahrgRSchG
 
@@ -91,9 +102,10 @@ nach dem EU-Fahrgastrechte-Schifffahrt-Gesetz
 
 
 *    *   B.
-        Amtshandlungen gegenüber dem Beförderer, Reisevermittler,
-        Reiseveranstalter oder Terminalbetreiber zur Beseitigung oder
-        Verhütung von Verstößen gegen die Verordnung (EU) Nr. 1177/2010
+        Individuell zurechenbare öffentliche Leistungen gegenüber dem
+        Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber
+        zur Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU)
+        Nr. 1177/2010
 
     *   § 4 Abs. 1 Satz 1,
         2 Nr. 1 und Abs. 2 EU-FahrgRSchG

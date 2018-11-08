@@ -18,10 +18,10 @@ Fundstelle
 :   BGBl I: 2007, 1816, 1871
 
 Neugefasst durch
-:   Bek. v. 15.9.2011 I 1860
+:   Bek. v. 15.9.2011 I 1860;
 
-Geändert durch
-:   Art. 2 Abs. 18 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 1 V v. 27.9.2017 I 3459
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmung
@@ -46,6 +46,14 @@ Im Sinne dieser Verordnung sind:
     mit spezifischen Hygienevorschriften für Lebensmittel tierischen
     Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S.
     22),
+
+
+1a. Zusammengesetzte Lebensmittel: zusammengesetzte Erzeugnisse im Sinne
+    des Artikels 2 Buchstabe a der Entscheidung 2007/275/EG der Kommission
+    vom 17. April 2007 mit Verzeichnissen von Tieren und Erzeugnissen, die
+    gemäß den Richtlinien 91/496/EWG und 97/78/EG des Rates an
+    Grenzkontrollstellen zu kontrollieren sind (ABl. L 116 vom 4.5.2007,
+    S. 9),
 
 
 2.  Sendung: eine Menge gleichartiger lebender Tiere im Sinne des § 4
@@ -82,17 +90,17 @@ Im Sinne dieser Verordnung sind:
 6.  Mitgliedstaat: ein Staat, der der Europäischen Union angehört,
 
 
-7.  Vertragsstaat: ein Vertragsstaat des Abkommens über den Europäischen
-    Wirtschaftsraum mit Ausnahme von Island,
+7.  EFTA-Staat: ein Staat, der Mitglied der Europäischen
+    Freihandelsassoziation ist,
 
 
-8.  Drittland: ein Staat, der nicht Mitgliedstaat und nicht Vertragsstaat
-    ist,
+8.  Drittland: ein Staat, der nicht Mitgliedstaat und nicht EFTA-Staat
+    ist, mit Ausnahme der Färöer Inseln,
 
 
-9.  Durchfuhr: das Verbringen von Lebensmitteln tierischen Ursprungs aus
-    Drittländern in das Inland, ohne sie einzuführen, mit anschließender
-    Wiederausfuhr.
+9.  Durchfuhr: das Verbringen von Lebensmitteln tierischen Ursprungs und
+    von zusammengesetzten Lebensmitteln aus Drittländern in das Inland,
+    ohne sie einzuführen, mit anschließender Wiederausfuhr.
 
 
 
@@ -100,7 +108,7 @@ Im Übrigen gelten die Begriffsbestimmungen der Lebensmittelhygiene-
 Verordnung sowie der Tierische Lebensmittel-Hygieneverordnung.
 
 
-## Abschnitt 2 - Vorschriften für Lebensmittel tierischen Ursprungs und lebende Tiere
+## Abschnitt 2 - Vorschriften für Lebensmittel tierischen Ursprungs, zusammengesetzte Lebensmittel und lebende Tiere
 
 
 
@@ -118,13 +126,13 @@ dadurch die ordnungsgemäße Durchführung der Einfuhruntersuchung nach §
 ### § 3a Vorlage von Schiffs- und Flugzeugmanifesten
 
 Wer als Verantwortlicher für ein Schiff oder Flugzeug mit diesem
-Lebensmittel tierischen Ursprungs in das Inland verbringt, hat der für
-die Grenzkontrollstelle zuständigen Behörde auf deren Verlangen das
-Schiffs- oder Flugzeugmanifest zum Zwecke der Überwachung der
-Einhaltung des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 136/2004
-vorzulegen. Das Schiffs- oder Flugzeugmanifest ist in elektronischer
-Form vorzulegen, soweit die für die Grenzkontrollstelle zuständige
-Behörde dies verlangt.
+Lebensmittel tierischen Ursprungs oder zusammengesetzte Lebensmittel
+in das Inland verbringt, hat der für die Grenzkontrollstelle
+zuständigen Behörde auf deren Verlangen das Schiffs- oder
+Flugzeugmanifest zum Zwecke der Überwachung der Einhaltung des
+Artikels 2 Absatz 1 der Verordnung (EG) Nr. 136/2004 vorzulegen. Das
+Schiffs- oder Flugzeugmanifest ist elektronisch vorzulegen, soweit die
+für die Grenzkontrollstelle zuständige Behörde dies verlangt.
 
 
 ### § 4 Lebende Tiere
@@ -146,8 +154,9 @@ Futtermittelgesetzbuches, die
     pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der
     Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L
     15 vom 20.1.2010, S. 1, L 293 vom 11.11.2010, S. 72), die zuletzt
-    durch die Verordnung (EU) Nr. 363/2011 (ABl. L 100 vom 14.4.2011, S.
-    28) geändert worden ist, als verbotene Stoffe aufgeführt sind,
+    durch die Durchführungsverordnung (EU) 2017/201 (ABl. L 32 vom
+    7\.2.2017, S. 17) geändert worden ist, als verbotene Stoffe aufgeführt
+    sind,
 
 
 
@@ -158,11 +167,10 @@ lebenden Tier festgestellt worden ist.
 
 ### § 5 Einfuhr
 
-(1) Sendungen von Lebensmitteln tierischen Ursprungs, Lebensmitteln,
-die unter Verwendung von Lebensmitteln tierischen Ursprungs
-hergestellt worden sind, oder lebenden Tieren im Sinne des § 4 Absatz
-1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches dürfen aus
-Drittländern nur eingeführt werden, wenn sie
+(1) Sendungen von Lebensmitteln tierischen Ursprungs,
+zusammengesetzten Lebensmitteln oder lebenden Tieren im Sinne des § 4
+Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches
+dürfen aus Drittländern nur eingeführt werden, wenn sie
 
 1.  einer Einfuhruntersuchung nach § 7 Absatz 1 oder 2 Satz 1, 3 oder 4
     unterzogen worden sind und
@@ -179,18 +187,17 @@ Drittländern nur eingeführt werden, wenn sie
 
 
 
-(2) Absatz 1 Nummer 1 gilt nicht im Falle
+(2) Absatz 1 gilt nicht im Falle
 
-1.  von Lebensmitteln, die in einem anderen Mitgliedstaat, in einem
-    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-    oder, im Falle von Fischereierzeugnissen und lebenden Muscheln,
-    Stachelhäutern, Manteltieren sowie Meeresschnecken, auf Island oder
-    den Färöer Inseln einer Einfuhruntersuchung entsprechend den
-    jeweiligen nationalen Rechtsvorschriften unterzogen worden sind,
+1.  von Lebensmitteln, die in einem anderen Mitgliedstaat, in einem EFTA-
+    Staat, auf den Färöer Inseln oder, im Falle von Fischereierzeugnissen
+    und lebenden Muscheln, Stachelhäutern, Manteltieren sowie
+    Meeresschnecken, auf Grönland einer Einfuhruntersuchung entsprechend
+    den jeweiligen nationalen Rechtsvorschriften unterzogen worden sind,
 
 
 2.  von Fischereierzeugnissen und lebenden Muscheln, Stachelhäutern,
-    Manteltieren sowie Meeresschnecken mit Ursprung in Island und
+    Manteltieren sowie Meeresschnecken mit Ursprung aus Grönland und
 
 
 3.  der in Anlage 1 genannten Lebensmittel.
@@ -199,9 +206,8 @@ Drittländern nur eingeführt werden, wenn sie
 
 
 (3) Die Grenzkontrollstellen nach Absatz 1 Nummer 2 sind von den
-zuständigen Behörden im Benehmen mit den zuständigen
-Oberfinanzdirektionen zu bestimmen. Sie sind von einem amtlichen
-Tierarzt zu leiten.
+zuständigen Behörden im Benehmen mit der Generalzolldirektion zu
+bestimmen. Sie sind von einem amtlichen Tierarzt zu leiten.
 
 
 ### § 6 Zugelassene Drittländer und Betriebe, Bescheinigungen
@@ -214,12 +220,12 @@ eingeführt werden, wenn sie
     Gemeinschaft oder der Europäischen Kommission erlassenen Rechtsaktes
     aufgeführt ist, der auf
 
-    a)  Artikel 11 Absatz 1 der Verordnung (EG)
-        Nr. 854/2004                          des Europäischen Parlaments und
-        des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für
-        die amtliche Überwachung von zum menschlichen Verzehr bestimmten
-        Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206, L
-        226 vom 25.6.2004, S. 83) gestützt und unmittelbar anwendbar ist,
+    a)  Artikel 11 Absatz 1 der Verordnung (EG) Nr. 854/2004 des Europäischen
+        Parlaments und des Rates vom 29. April 2004 mit besonderen
+        Verfahrensvorschriften für die amtliche Überwachung von zum
+        menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs
+        (ABl. L 139 vom 30.4.2004, S. 206, L 226 vom 25.6.2004, S. 83)
+        gestützt und unmittelbar anwendbar ist,
 
 
     b)  Artikel 11 Absatz 1 der Verordnung (EG) Nr. 854/2004 gestützt ist und
@@ -252,24 +258,13 @@ eingeführt werden, wenn sie
 
     a)  von der Kommission der Europäischen Gemeinschaft oder der Europäischen
         Kommission nach Artikel 12 Absatz 5 der Verordnung (EG) Nr. 854/2004
-        der Öffentlichkeit zugänglich gemacht worden ist,
+        der Öffentlichkeit zugänglich gemacht worden ist oder
 
 
     b)  in einem von der Kommission der Europäischen Gemeinschaft oder der
         Europäischen Kommission erlassenen Rechtsakt aufgeführt ist, der auf
         einen in Anlage 2 Spalte 3 jeweils genannten Rechtsakt der
         Europäischen Gemeinschaft gestützt ist und vom Bundesamt im
-        Bundesanzeiger bekannt gemacht worden ist oder
-
-
-    c)  in einem von der Kommission der Europäischen Gemeinschaft oder der
-        Europäischen Kommission erlassenen Rechtsakt aufgeführt ist, der auf
-        Artikel 2 Absatz 1 der Entscheidung 95/408/EG des Rates vom 22. Juni
-        1995 über die Bedingungen für die Aufstellung vorläufiger Listen der
-        Drittlandbetriebe, aus denen die Mitgliedstaaten bestimmte tierische
-        Erzeugnisse, Fischereierzeugnisse oder lebende Muscheln einführen
-        dürfen, während einer Übergangszeit (ABl. L 243 vom 11.10.1995, S. 17)
-        in der jeweils geltenden Fassung gestützt ist und vom Bundesamt im
         Bundesanzeiger bekannt gemacht worden ist,
 
 
@@ -291,18 +286,18 @@ eingeführt werden, wenn sie
         vorgesehenen amtlichen Kontrollen, zur Abweichung von der Verordnung
         (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates und zur
         Änderung der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004
-        (ABl. L 338 vom 22.12.2005, S. 27), die zuletzt durch die Verordnung
-        (EG) Nr. 1250/2008 (ABl. L 337 vom 16.12.2008, S. 31) geändert worden
-        ist, genügt,
+        (ABl. L 338 vom 22.12.2005, S. 27), die zuletzt durch die
+        Durchführungsverordnung (EU) 2016/759 (ABl. L 126 vom 14.5.2016, S.
+        13) geändert worden ist, genügt,
 
 
     b)  die den jeweiligen Anforderungen eines von der Kommission der
         Europäischen Gemeinschaft oder der Europäischen Kommission erlassenen
         Rechtsaktes genügt, der auf Artikel 9 der Verordnung (EG) Nr. 853/2004
-        oder Artikel 16, auch in Verbindung mit Artikel 14 Absatz 4, der
-        Verordnung (EG) Nr. 854/2004 gestützt ist und, sofern es sich dabei um
-        einen nicht unmittelbar geltenden Rechtsakt handelt, vom Bundesamt im
-        Bundesanzeiger bekannt gemacht worden ist, oder
+        oder Artikel 11 oder Artikel 16, auch in Verbindung mit Artikel 14
+        Absatz 4, der Verordnung (EG) Nr. 854/2004 gestützt ist und, sofern es
+        sich dabei um einen nicht unmittelbar geltenden Rechtsakt handelt, vom
+        Bundesamt im Bundesanzeiger bekannt gemacht worden ist, oder
 
 
     c)  die den Anforderungen einer Entscheidung genügt, die die Kommission
@@ -316,6 +311,16 @@ eingeführt werden, wenn sie
 
 
 
+
+(1a) Sendungen von zusammengesetzten Lebensmitteln, die in Anlage 1
+aufgeführt sind und die Milcherzeugnisse enthalten, dürfen nur
+eingeführt werden, wenn diese Milcherzeugnisse aus einem Drittland
+oder einem Teil eines Drittlandes stammen, das oder der aufgeführt ist
+im Anhang I der Verordnung (EU) Nr. 605/2010 der Kommission vom 2.
+Juli 2010 zur Festlegung der Veterinärbedingungen und
+Veterinärbescheinigungen für das Verbringen von Milcherzeugnissen und
+Rohmilch zum menschlichen Verzehr in die Europäische Union (ABl. L 175
+vom 10.7.2010, S. 1) in der jeweils geltenden Fassung.
 
 (2) Sendungen von Lebensmitteln tierischen Ursprungs dürfen
 
@@ -346,8 +351,8 @@ eingeführt werden, wenn sie
         zugänglich gemacht worden ist und
 
 
-    b)  kein Rechtsakt nach Absatz 1 Nummer 3 Buchstabe b oder c erlassen und
-        vom Bundesamt bekannt gemacht worden ist,
+    b)  kein Rechtsakt nach Absatz 1 Nummer 3 Buchstabe b erlassen und vom
+        Bundesamt bekannt gemacht worden ist,
 
 
 
@@ -383,50 +388,49 @@ eingeführt werden, wenn sie
 ### § 7 Einfuhruntersuchung
 
 (1) Die für die Grenzkontrollstelle zuständige Behörde führt bei
-Lebensmitteln tierischen Ursprungs, Lebensmitteln, die unter
-Verwendung von Lebensmitteln tierischen Ursprungs hergestellt worden
-sind, und lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 des
+Lebensmitteln tierischen Ursprungs, zusammengesetzten Lebensmitteln
+und lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 des
 Lebensmittel- und Futtermittelgesetzbuches eine Einfuhruntersuchung
 durch, die eine Dokumentenprüfung nach Anhang I der Verordnung (EG)
 Nr. 136/2004, eine Nämlichkeitskontrolle nach Anlage 3 sowie eine
 Warenuntersuchung nach Anlage 4 umfasst.
 
 (2) Abweichend von Absatz 1 werden Sendungen von Lebensmitteln
-tierischen Ursprungs oder lebenden Tieren im Sinne des § 4 Absatz 1
-Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches, die über eine
-Grenzkontrollstelle an einem Flughafen oder Hafen eintreffen und dort
-unmittelbar in ein Flugzeug oder Schiff umgeladen werden,
-vorbehaltlich Satz 2 an der Grenzkontrollstelle des Bestimmungsortes
-der Einfuhruntersuchung unterzogen. Der für den Transport
-Verantwortliche hat die für die Grenzkontrollstelle zuständige Behörde
-unverzüglich über den Entladezeitpunkt und -ort und die
-Grenzkontrollstelle des Bestimmungsortes in der von der zuständigen
-Behörde bestimmten Weise zu unterrichten, sofern die Umladung der
-Sendung innerhalb eines Zeitraumes von weniger als zwölf Stunden im
-Flug- oder weniger als sieben Tagen im Seeverkehr stattfindet. Die für
-die Grenzkontrollstelle zuständige Behörde hat Sendungen nach Satz 1,
-bei denen der Zeitraum nach Satz 2, aber nicht der Zeitraum von 48
-Stunden im Flug- oder 20 Tagen im Seeverkehr überschritten worden ist,
-einer Dokumentenprüfung, auch anhand beglaubigter Kopien, zu
-unterziehen. Die für die Grenzkontrollstelle zuständige Behörde hat
-eine Einfuhruntersuchung nach Absatz 1 durchzuführen, wenn der
-Zeitraum nach Satz 3 überschritten ist. Die zuständige Behörde kann,
-sofern Gründe des Gesundheitsschutzes es erfordern, im Falle des
-Satzes 2 eine Dokumentenprüfung, auch anhand beglaubigter Kopien und
-im Falle des Satzes 3 eine Einfuhruntersuchung nach Absatz 1
-durchführen. Die für die Grenzkontrollstelle zuständige Behörde hat
-sich über den Verbleib von Sendungen nach den Sätzen 2 und 3 zu
-vergewissern.
+tierischen Ursprungs, zusammengesetzten Lebensmitteln oder lebenden
+Tieren im Sinne des § 4 Absatz 1 Nummer 1 des Lebensmittel- und
+Futtermittelgesetzbuches, die über eine Grenzkontrollstelle an einem
+Flughafen oder Hafen eintreffen und dort unmittelbar in ein Flugzeug
+oder Schiff umgeladen werden, vorbehaltlich Satz 2 an der
+Grenzkontrollstelle des Bestimmungsortes der Einfuhruntersuchung
+unterzogen. Der für den Transport Verantwortliche hat die für die
+Grenzkontrollstelle zuständige Behörde unverzüglich über den
+Entladezeitpunkt und -ort und die Grenzkontrollstelle des
+Bestimmungsortes in der von der zuständigen Behörde bestimmten Weise
+zu unterrichten, sofern die Umladung der Sendung innerhalb eines
+Zeitraumes von weniger als zwölf Stunden im Flug- oder weniger als
+sieben Tagen im Seeverkehr stattfindet. Die für die
+Grenzkontrollstelle zuständige Behörde hat Sendungen nach Satz 1, bei
+denen der Zeitraum nach Satz 2, aber nicht der Zeitraum von 48 Stunden
+im Flug- oder 20 Tagen im Seeverkehr überschritten worden ist, einer
+Dokumentenprüfung, auch anhand beglaubigter Kopien, zu unterziehen.
+Die für die Grenzkontrollstelle zuständige Behörde hat eine
+Einfuhruntersuchung nach Absatz 1 durchzuführen, wenn der Zeitraum
+nach Satz 3 überschritten ist. Die zuständige Behörde kann, sofern
+Gründe des Gesundheitsschutzes es erfordern, im Falle des Satzes 2
+eine Dokumentenprüfung, auch anhand beglaubigter Kopien und im Falle
+des Satzes 3 eine Einfuhruntersuchung nach Absatz 1 durchführen. Die
+für die Grenzkontrollstelle zuständige Behörde hat sich über den
+Verbleib von Sendungen nach den Sätzen 2 und 3 zu vergewissern.
 
 (3) Die zuständige Behörde führt bei der Einfuhr oder dem sonstigen
 Verbringen von Lebensmitteln tierischen Ursprungs und lebenden Tieren
 amtliche Kontrollen durch, die in einem in § 13 Absatz 1 Satz 1
 genannten, nicht unmittelbar geltenden Rechtsakt der Europäischen
 Gemeinschaft oder der Europäischen Union bestimmt worden sind, soweit
-das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) den Rechtsakt im Bundesanzeiger
-bekannt gemacht hat. Das Bundesministerium macht auch Änderungen und
-die Aufhebung dieses Rechtsaktes im Bundesanzeiger bekannt.
+das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) den Rechtsakt im Bundesanzeiger bekannt gemacht
+hat. Das Bundesministerium macht auch Änderungen und die Aufhebung
+dieses Rechtsaktes im Bundesanzeiger bekannt.
 
 
 ### § 8 Verfahren nach Abschluss der Einfuhruntersuchung
@@ -499,7 +503,7 @@ werden:
     mit Anhang II der Entscheidung 2002/657/EG der Kommission vom 12.
     August 2002 zur Umsetzung der Richtlinie 96/23/EG des Rates betreffend
     die Durchführung von Analysemethoden und die Auswertung von
-    Ergebnissen (ABl. L 221 vom 17.9.2002, S. 8, L 229 vom 6.9.2002, S.
+    Ergebnissen (ABl. L 221 vom 17.8.2002, S. 8, L 239 vom 6.9.2002, S.
     66) in der jeweils geltenden Fassung oder
 
 
@@ -516,22 +520,62 @@ werden:
 
 
 
+### § 8a Verfahren nach Abschluss der Einfuhruntersuchung für bestimmte Sendungen
+
+(1) Wer Sendungen von nicht enthäuteten Tierkörpern freilebenden
+Großwilds befördert, hat diese Sendungen unverzüglich nach Abschluss
+der Einfuhruntersuchung nach § 7 Absatz 1 und 2 Satz 1 auf direktem
+Weg in amtlich verplombten, lecksicheren Fahrzeugen zum
+Wildbearbeitungsbetrieb zu transportieren.
+
+(2) Wer Sendungen von Rohstoffen zur Herstellung von Gelatine und
+Kollagen befördert, hat diese Sendungen unverzüglich nach Abschluss
+der Einfuhruntersuchung nach § 7 Absatz 1 und 2 Satz 1 auf direktem
+Weg in amtlich verplombten, lecksicheren Fahrzeugen zu einer
+Sammelstelle, einer Gerberei, einem Gelatineverarbeitungsbetrieb oder
+einem Kollagenverarbeitungsbetrieb zu transportieren.
+
+(3) Die für die Grenzkontrollstelle zuständige Behörde hat die für den
+Betrieb am Bestimmungsort zuständige Behörde über den Transport von
+Sendungen nach Absatz 1 oder Absatz 2 zu unterrichten. Die
+Unterrichtung erfolgt über das Informationsverfahren nach Artikel 3
+Absatz 3 der Entscheidung 2004/292/EG der Kommission vom 30. März 2004
+zur Einführung des TRACES-Systems und zur Änderung der Entscheidung
+92/486/EWG (ABl. L 94 vom 31.3.2004, S. 63) in der jeweils geltenden
+Fassung.
+
+(4) Der für den Betrieb Verantwortliche hat das Eintreffen der Sendung
+am Bestimmungsort der für den Betrieb am Bestimmungsort zuständigen
+Behörde unverzüglich mitzuteilen. Nach der Mitteilung gemäß Satz 1
+unterrichtet die für den Betrieb am Bestimmungsort zuständige Behörde
+die für die Grenzkontrollstelle zuständige Behörde innerhalb von 15
+Tagen nach der Unterrichtung gemäß Absatz 3 über das Eintreffen der
+Sendung im Betrieb am Bestimmungsort. Die Unterrichtung erfolgt über
+das Informationsverfahren nach Artikel 3 Absatz 3 der Entscheidung
+2004/292/EG. Die für den Betrieb am Bestimmungsort zuständige Behörde
+überprüft regelmäßig, insbesondere durch Kontrolle der
+Eingangsregister, ob die Sendung nach Absatz 1 oder Absatz 2 im
+Betrieb am Bestimmungsort angekommen ist.
+
+
 ### § 9 Durchfuhr
 
-(1) Sendungen von Lebensmitteln tierischen Ursprungs oder lebenden
-Tieren im Sinne des § 4 Absatz 1 Nummer 1 des Lebensmittel- und
-Futtermittelgesetzbuches, die nicht den lebensmittelrechtlichen
-Anforderungen entsprechen oder bei der Anzeige nach Artikel 2 der
-Verordnung (EG) Nr. 136/2004 zur Durchfuhr angezeigt worden sind,
-dürfen, unbeschadet der tierseuchenrechtlichen Vorschriften, zum
-Zwecke der Durchfuhr in das Inland nur verbracht werden, sofern sie
-einer Dokumentenprüfung nach Anhang I der Verordnung (EG) Nr. 136/2004
-und einer Nämlichkeitskontrolle nach Anlage 3 unterzogen worden sind.
-Abweichend von Satz 1 dürfen Sendungen der dort genannten Lebensmittel
-zum Zwecke der Durchfuhr in das Inland verbracht werden, wenn die
-Sendungen in einem anderen Mitgliedstaat oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-einer Durchfuhrkontrolle entsprechend den jeweiligen nationalen
+(1) Sendungen von Lebensmitteln tierischen Ursprungs,
+zusammengesetzten Lebensmitteln oder lebenden Tieren im Sinne des § 4
+Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches, die
+nicht den lebensmittelrechtlichen Anforderungen entsprechen oder bei
+der Anzeige nach Artikel 2 der Verordnung (EG) Nr. 136/2004 zur
+Durchfuhr angezeigt worden sind, dürfen, unbeschadet der
+tierseuchenrechtlichen Vorschriften, zum Zwecke der Durchfuhr in das
+Inland nur verbracht werden, sofern sie einer Dokumentenprüfung nach
+Anhang I der Verordnung (EG) Nr. 136/2004 und einer
+Nämlichkeitskontrolle nach Anlage 3 unterzogen worden sind. Abweichend
+von Satz 1 dürfen Sendungen der dort genannten Lebensmittel zum Zwecke
+der Durchfuhr in das Inland verbracht werden, wenn die Sendungen in
+einem anderen Mitgliedstaat, in einem EFTA-Staat, auf den Färöer
+Inseln oder, im Fall von Fischereierzeugnissen und lebenden Muscheln,
+Stachelhäutern, Manteltieren sowie Meeresschnecken, auf Grönland einer
+Durchfuhrkontrolle entsprechend den jeweiligen nationalen
 Rechtsvorschriften unterzogen worden sind. Die für die
 Eingangsgrenzkontrollstelle zuständige Behörde hat bei den zur
 Durchfuhr angezeigten Sendungen zusätzlich eine Warenuntersuchung nach
@@ -549,11 +593,11 @@ unter Einhaltung der Anforderungen des Absatzes 3
 
 2.  in ein nach § 12 Absatz 1 anerkanntes oder nach § 12 Absatz 2
     registriertes Lager im Inland oder in ein von der zuständigen Behörde
-    eines Mitgliedstaates oder eines anderen Vertragsstaates des Abkommens
-    über den Europäischen Wirtschaftsraum nach nationalen
-    Rechtsvorschriften zur Umsetzung des Artikels 12 Absatz 4 Buchstabe b
-    oder des Artikels 13 Absatz 1 Buchstabe a der Richtlinie 97/78/EG
-    anerkanntes oder zugelassenes Lager zu transportieren und einzulagern.
+    eines Mitgliedstaates, eines EFTA-Staates, der Färöer Inseln oder
+    Grönlands nach nationalen Rechtsvorschriften zur Umsetzung des
+    Artikels 12 Absatz 4 Buchstabe b oder des Artikels 13 Absatz 1
+    Buchstabe a der Richtlinie 97/78/EG anerkanntes oder zugelassenes
+    Lager zu transportieren und einzulagern.
 
 
 
@@ -568,18 +612,17 @@ Union zurückzuverbringen, sofern gesundheitliche Bedenken nicht
 entgegenstehen. Ansonsten sind die Lebensmittel der Beseitigung
 zuzuführen. Wenn die Sendung zurückverbracht werden soll, hat die für
 die Grenzkontrollstelle zuständige Behörde das Informationsverfahren
-nach Artikel 3 Absatz 3 der Entscheidung 2004/292/EG der Kommission
-vom 30. März 2004 zur Einführung des TRACES-Systems und zur Änderung
-der Entscheidung 92/486/EWG (ABl. L 94 vom 31.3.2004, S. 63) in der
-jeweils geltenden Fassung einzuleiten. Die Originale der die Sendung
+nach Artikel 3 Absatz 3 der Entscheidung 2004/292/EG in der jeweils
+geltenden Fassung einzuleiten. Die Originale der die Sendung
 begleitenden Dokumente sind mit einem Stempelaufdruck in roter Farbe
 mit dem Wort „zurückgewiesen“ zu kennzeichnen.
 
 (3) Wer Sendungen nach Absatz 1 befördert, hat diese
 
-1.  im externen, gemeinschaftlichen Versandverfahren nach der Verordnung
-    (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des
-    Zollkodex der Gemeinschaften (ABl. L 302 vom 19.10.1992, S. 1),
+1.  im externen Unionsversandverfahren nach der Verordnung (EU) Nr.
+    952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013
+    zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S.
+    1),
 
 
 2.  ohne Umladung oder Teilung und
@@ -619,7 +662,11 @@ Gebieten in ein Drittland verbracht zu werden, vorschreiben, dass der
 für den Transport Verantwortliche die für die
 Eingangsgrenzkontrollstelle zuständige Behörde unverzüglich in der von
 ihr bestimmten Weise über den Entladezeitpunkt und -ort zu
-unterrichten hat. Die für die Eingangsgrenzkontrollstelle zuständige
+unterrichten hat. Abweichend von Satz 1 gilt für die
+Grenzkontrollstellen Hamburg (Hafen), Bremen-Standort Bremerhaven und
+JadeWeserPort Wilhelmshaven (Hafen) zuständigen Behörden anstelle des
+in § 7 Absatz 2 Satz 2 genannten Zeitraumes ein Zeitraum von weniger
+als 14 Tagen. Die für die Eingangsgrenzkontrollstelle zuständige
 Behörde hat eine Dokumentenprüfung, auch anhand beglaubigter Kopien,
 und eine Nämlichkeitskontrolle nach Absatz 1 Satz 1 durchführen,
 sofern Gründe des Gesundheitsschutzes es erfordern. Absatz 1 Satz 3
@@ -632,20 +679,18 @@ nach Absatz 2 Satz 1 Nummer 2 zuständige Behörde die Einlagerung von
 Sendungen im Sinne des Absatzes 1 genehmigt hat. Die für die
 Grenzkontrollstelle zuständige Behörde hat die für das Lager
 zuständige Behörde über den Transport der Sendung über das
-Informationsverfahren nach Artikel 2 der Entscheidung 91/398/EWG der
-Kommission vom 19. Juli 1991 über ein informatisiertes Netz zum
-Verbund der Veterinärbehörden (ANIMO) (ABl. L 221 vom 9.8.1991, S. 30)
-oder nach Artikel 3 der Entscheidung 2004/292/EG zu unterrichten. Der
-Beteiligte hat das Eintreffen der Sendung der für das Lager
-zuständigen Behörde anhand des Gemeinsamen Veterinärdokumentes für die
-Einfuhr anzuzeigen. Absatz 4 Satz 4 gilt entsprechend.
+Informationsverfahren nach Artikel 3 der Entscheidung 2004/292/EG zu
+unterrichten. Der Beteiligte hat das Eintreffen der Sendung der für
+das Lager zuständigen Behörde anhand des Gemeinsamen
+Veterinärdokumentes für die Einfuhr anzuzeigen. Absatz 4 Satz 4 gilt
+entsprechend.
 
 
 ### § 10 Lagerung zur Durchfuhr bestimmter Sendungen
 
-(1) Der Betreiber eines Zolllagers, Freilagers oder Lagers in einer
-Freizone im Sinne des § 12 Absatz 1 hat die in § 9 Absatz 1 genannten
-Sendungen von Lebensmitteln mit der Bezugsnummer ihres Gemeinsamen
+(1) Der Betreiber eines Zolllagers oder Lagers in einer Freizone im
+Sinne des § 12 Absatz 1 hat die in § 9 Absatz 1 genannten Sendungen
+von Lebensmitteln mit der Bezugsnummer ihres Gemeinsamen
 Veterinärdokumentes für die Einfuhr zu kennzeichnen und räumlich
 getrennt von Lebensmitteln zu lagern, die den lebensmittelrechtlichen
 Anforderungen entsprechen. Die Sendungen dürfen nur insoweit behandelt
@@ -675,19 +720,19 @@ I der Verordnung (EG) Nr. 136/2004 und einer Nämlichkeitskontrolle
 nach Anlage 3 zu überprüfen.
 
 (3) Der Lagerbetreiber darf die in Absatz 1 genannten Sendungen aus
-Zolllagern, Freilagern oder Lagern in Freizonen im Sinne des § 12
-Absatz 1 nur auslagern, sofern sie
+Zolllagern oder Lagern in Freizonen im Sinne des § 12 Absatz 1 nur
+auslagern, sofern sie
 
 1.  nach § 9 Absatz 2 Satz 1 Nummer 1 in ein Drittland verbracht werden
     oder
 
 
 2.  in ein nach § 12 Absatz 2 registriertes Lager im Inland oder in einen
-    von der zuständigen Behörde eines Mitgliedstaates oder eines anderen
-    Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-    nach nationalen Rechtsvorschriften zur Umsetzung des Artikels 13
-    Absatz 1 Buchstabe a der Richtlinie 97/78/EG zugelassenen Betrieb nach
-    § 9 Absatz 3 befördert und eingelagert werden oder
+    von der zuständigen Behörde eines Mitgliedstaates, eines EFTA-Staates
+    oder der Färöer Inseln nach nationalen Rechtsvorschriften zur
+    Umsetzung des Artikels 13 Absatz 1 Buchstabe a der Richtlinie 97/78/EG
+    zugelassenen Betrieb nach § 9 Absatz 3 befördert und eingelagert
+    werden oder
 
 
 3.  der Beseitigung unter Aufsicht der zuständigen Behörde zugeführt
@@ -748,25 +793,24 @@ Absatz 1 und 4 Satz 1 einzuhalten und
 
 
 Schiffsausrüster dürfen Sendungen nach § 9 Absatz 1 nur an Seeschiffe
-zur Verpflegung außerhalb der Küstenzonen der Mitgliedstaaten und
-anderer Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum liefern.
+zur Verpflegung außerhalb der Küstenzonen der Mitgliedstaaten, der
+EFTA-Staaten und der Färöer Inseln liefern.
 
 (2) Schiffsausrüster dürfen eine in Absatz 1 Satz 2 Nummer 2 genannte
 Sendung nur befördern, wenn ihr eine Bescheinigung mit dem Inhalt nach
 dem Muster des Artikels 5 Absatz 2 in Verbindung mit dem Anhang der
 Entscheidung 2000/571/EG der Kommission vom 8. September 2000 zur
 Festlegung der Verfahren für die Veterinärkontrollen von
-Drittlandserzeugnissen, die für Freizonen, Freilager oder Zolllager
-oder für Lagerbetreiber zur Versorgung von Beförderungsmitteln im
+Drittlandserzeugnissen, die für Freizonen oder Zolllager oder für
+Lagerbetreiber zur Versorgung von Beförderungsmitteln im
 internationalen Seeverkehr bestimmt sind (ABl. L 240 vom 23.9.2000, S.
 14) in der jeweils geltenden Fassung beigefügt ist. Sie haben die
-Sendung im externen, gemeinschaftlichen Versandverfahren nach der
-Verordnung (EWG) Nr. 2913/92 zu befördern. Der Kapitän oder eine von
-ihm dazu befugte Person hat die Lieferung der Sendung auf der
-Bescheinigung im Sinne des Satzes 1 bei Erhalt unverzüglich zu
-bestätigen. Schiffsausrüster haben die Bescheinigung unverzüglich an
-die für das Versandlager zuständige Behörde zu übermitteln.
+Sendung im externen Unionsversandverfahren nach der Verordnung (EU)
+Nr. 952/2013 zu befördern. Der Kapitän oder eine von ihm dazu befugte
+Person hat die Lieferung der Sendung auf der Bescheinigung im Sinne
+des Satzes 1 bei Erhalt unverzüglich zu bestätigen. Schiffsausrüster
+haben die Bescheinigung unverzüglich an die für das Versandlager
+zuständige Behörde zu übermitteln.
 
 (3) Nach Durchführung einer Dokumentenprüfung nach Anhang I der
 Verordnung (EG) Nr. 136/2004 und einer Nämlichkeitskontrolle nach
@@ -777,16 +821,15 @@ Lebensmitteln unterschiedlicher Herkunft eine gemeinsame Bescheinigung
 benutzt werden. Die zuständige Behörde des Versandlagers hat der
 zuständigen Behörde des Bestimmungshafens die Lieferung der Sendung
 spätestens zum Zeitpunkt des Versandes über das Informationsverfahren
-nach Artikel 2 der Entscheidung 91/398/EWG oder nach Artikel 3 der
-Entscheidung 2004/292/EG anzukündigen.
+nach Artikel 3 der Entscheidung 2004/292/EG anzukündigen.
 
 
 ### § 12 Anerkennung von Lagern und Registrierung von Schiffsausrüstern
 
-(1) Zolllager, Freilager und Lager in Freizonen, in denen
-Lebensmittel, die nicht den Anforderungen an die Einfuhr entsprechen,
-gelagert werden sollen, werden auf Antrag von der zuständigen Behörde
-anerkannt, wenn die folgenden Voraussetzungen erfüllt sind:
+(1) Zolllager und Lager in Freizonen, in denen Lebensmittel, die nicht
+den Anforderungen an die Einfuhr entsprechen, gelagert werden sollen,
+werden auf Antrag von der zuständigen Behörde anerkannt, wenn die
+folgenden Voraussetzungen erfüllt sind:
 
 1.  Die Lager verfügen über kontrollierbare Zugänge und müssen gegen den
     Zutritt Unbefugter gesichert sein.
@@ -815,8 +858,12 @@ sind.
 (3) Die zuständige Behörde hat die Einhaltung der Voraussetzungen nach
 den Absätzen 1 und 2 zu überwachen.
 
-(4) Das Bundesamt führt ein Verzeichnis der nach Absatz 1 anerkannten
-Lager und der nach Absatz 2 registrierten Schiffsausrüster.
+(4) Die zuständige Behörde übermittelt dem Bundesamt Name, Anschrift,
+Veterinärkontroll-Nummer und TRACES-Nummer sowie diesbezügliche
+Änderungen zu den nach Absatz 1 anerkannten Lagern und zu den nach
+Absatz 2 registrierten Schiffsausrüstern. Das Bundesamt führt ein
+Verzeichnis der nach Absatz 1 anerkannten Lager und der nach Absatz 2
+registrierten Schiffsausrüster.
 
 
 ### § 13 Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft oder der Europäischen Union
@@ -866,13 +913,12 @@ katzenartigen Tieren (Caniden und Feliden) oder Affen einzuführen.
 
 (1) Abweichend von § 5 Absatz 1 und § 7 Absatz 1, auch in Verbindung
 mit Absatz 3, darf eine Sendung von Lebensmitteln tierischen Ursprungs
-mit Ursprung in der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
-den Färöer Inseln oder, im Falle von Fischereierzeugnissen sowie
-lebenden Muscheln, Stachelhäutern, Manteltieren und Meeresschnecken
-mit Ursprung in Island, die von einem Drittland zurückgewiesen worden
-ist, wieder in den Geltungsbereich dieser Verordnung verbracht werden,
-wenn
+oder zusammengesetzten Lebensmitteln mit Ursprung in der Europäischen
+Union, einem EFTA-Staat, auf den Färöer Inseln oder, im Falle von
+Fischereierzeugnissen sowie lebenden Muscheln, Stachelhäutern,
+Manteltieren und Meeresschnecken mit Ursprung aus Grönland, die von
+einem Drittland zurückgewiesen worden ist, wieder in den
+Geltungsbereich dieser Verordnung verbracht werden, wenn
 
 1.  die zuständige Behörde, die die Genusstauglichkeits-,
     Gesundheitsbescheinigung oder sonstige vergleichbare Urkunde im
@@ -910,20 +956,13 @@ wenn
 Absatz 1 genannte Sendung einer Dokumentenprüfung und
 Nämlichkeitskontrolle sowie bei begründetem Verdacht auf
 Nichteinhaltung der lebensmittelrechtlichen Bestimmungen auch einer
-Warenuntersuchung nach § 7 Absatz 1 zu unterziehen. Die Sendung ist in
-amtlich verplombten, lecksicheren Fahrzeugen oder Behältnissen
-unmittelbar in den Ursprungsbetrieb, für den die Originalbescheinigung
-ausgestellt worden ist, zurückzuverbringen. Die Sendung hat zur
-Sicherstellung einer kanalisierten Einfuhr nach dem T 5-Verfahren, das
-in der Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993
-mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 in
-der jeweils geltenden Fassung vorgesehen ist, unter zollamtlicher
-Überwachung bis zur Ankunft im Bestimmungsbetrieb zu verbleiben.
+Warenuntersuchung nach § 7 Absatz 1 zu unterziehen. Wer Sendungen nach
+Absatz 1 befördert, hat diese in amtlich verplombten, lecksicheren
+Fahrzeugen oder Behältnissen zu transportieren und unmittelbar in den
+Ursprungsbetrieb, für den die Originalbescheinigung ausgestellt worden
+ist, zurückzuverbringen.
 
-(3) Die für die Grenzkontrollstelle zuständige Behörde unterrichtet
-die für den Bestimmungsort zuständige Behörde von dem Eintreffen der
-Sendung über das Informationsverfahren nach Artikel 2 der Entscheidung
-91/398/EWG oder nach Artikel 3 der Entscheidung 2004/292/EG.
+(3) § 8a Absatz 3 und 4 gilt entsprechend.
 
 
 ## Abschnitt 3 - Vorschriften für Lebensmittel nicht tierischen Ursprungs
@@ -932,29 +971,42 @@ Sendung über das Informationsverfahren nach Artikel 2 der Entscheidung
 
 ### § 15 Benennung von Eingangsorten und Einfuhrorten
 
-(1) Sendungen von Lebensmitteln nach Artikel 3 Buchstabe c der
-Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur
-Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen
-Parlaments und des Rates im Hinblick auf verstärkte amtliche
-Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel
-nicht tierischen Ursprungs und zur Änderung der Entscheidung
-2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11) in der jeweils geltenden
-Fassung dürfen unmittelbar aus Drittländern nur über einen der
-benannten Eingangsorte im Sinne des Artikels 3 Buchstabe b der
-Verordnung (EG) Nr. 669/2009 erstmalig in das Inland verbracht werden.
+(1) Die folgenden Sendungen von Lebensmitteln dürfen unmittelbar aus
+Drittländern nur über einen der benannten Eingangsorte im Sinne des
+Artikels 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 der Kommission
+vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004
+des Europäischen Parlaments und des Rates im Hinblick auf verstärkte
+amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und
+Lebensmittel nicht tierischen Ursprungs und zur Änderung der
+Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11) in der
+jeweils geltenden Fassung erstmalig in das Inland verbracht werden:
+
+1.  Sendungen nach Artikel 3 Buchstabe c der Verordnung (EG) Nr. 669/2009
+    und
+
+
+2.  Sendungen nach Artikel 1 Absatz 1 und 2 der Durchführungsverordnung
+    (EU) Nr. 885/2014 der Kommission vom 13. August 2014 zur Festlegung
+    besonderer Bedingungen für die Einfuhr von Okra und Curryblättern aus
+    Indien und zur Aufhebung der Durchführungsverordnung (EU) Nr. 91/2013
+    (ABl. L 242 vom 14.8.2014, S. 20) in der jeweils geltenden Fassung.
+
+
+
 Die Veröffentlichung der Liste der benannten Eingangsorte nach Artikel
 5 Satz 1 der Verordnung (EG) Nr. 669/2009 erfolgt durch das Bundesamt.
 
-(2) Sendungen von Lebensmitteln nach Artikel 1 der Verordnung (EG) Nr.
-1152/2009 der Kommission vom 27. November 2009 mit Sondervorschriften
-für die Einfuhr bestimmter Lebensmittel aus bestimmten Drittländern
+(2) Sendungen von Lebensmitteln nach Artikel 1 Absatz 1 und 2 der
+Durchführungsverordnung (EU) Nr. 884/2014 der Kommission vom 13.
+August 2014 zur Festlegung besonderer Bedingungen für die Einfuhr
+bestimmter Futtermittel und Lebensmittel aus bestimmten Drittländern
 wegen des Risikos einer Aflatoxin-Kontamination und zur Aufhebung der
-Entscheidung 2006/504/EG (ABl. L 313 vom 28.11.2009, S. 40) in der
+Verordnung (EG) Nr. 1152/2009 (ABl. L 242 vom 14.8.2014, S. 4) in der
 jeweils geltenden Fassung dürfen aus Drittländern nur über einen der
-benannten Orte im Sinne des Artikels 2 Satz 2 Buchstabe a der
-Verordnung (EG) Nr. 1152/2009 eingeführt werden. Die Veröffentlichung
-der Liste der benannten Orte nach Artikel 6 Absatz 2 der Verordnung
-(EG) Nr. 1152/2009 erfolgt durch das Bundesamt.
+benannten Einfuhrorte im Sinne des Artikels 2 Satz 2 Buchstabe a der
+Verordnung (EU) Nr. 884/2014 eingeführt werden. Die Veröffentlichung
+der Liste der benannten Einfuhrorte nach Artikel 8 Unterabsatz 2 der
+Verordnung (EU) Nr. 884/2014 erfolgt durch das Bundesamt.
 
 
 ### § 16 Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft oder der Europäischen Union
@@ -996,117 +1048,7 @@ auch Änderungen sowie die Aufhebung dieses Rechtsaktes im
 Bundesanzeiger bekannt.
 
 
-## Abschnitt 4 - Vorschriften für bestimmte Lebensmittel
-
-
-
-### § 17a Vorschriften für Lebensmittel aus China bezüglich Melamin
-
-(1) Es ist verboten,
-
-1.  ein in Artikel 4 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr.
-    1135/2009 der Kommission vom 25. November 2009 mit Sondervorschriften
-    für die Einfuhr von bestimmten Erzeugnissen, deren Ursprung oder
-    Herkunft China ist, und zur Aufhebung der Entscheidung 2008/798/EG
-    (ABl. L 311 vom 26.11.2009, S. 3, L 161 vom 29.6.2010, S. 12)
-    bezeichnetes Lebensmittel,
-
-
-2.  einen in Artikel 4 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr.
-    1135/2009 bezeichneten Stoff als Lebensmittel
-
-
-
-einzuführen.
-
-(2) Abweichend von Absatz 1 Nummer 1 ist die Einfuhr eines dort
-genannten Lebensmittels zulässig, soweit es über eine in der Anlage 5
-genannte Kontrollstelle in das Inland verbracht wird und es keinen
-Gehalt an Melamin enthält, der 2,5 mg/kg überschreitet. Satz 1 gilt
-entsprechend für einen in Absatz 1 Nummer 2 genannten Stoff. Artikel 2
-Absatz 1 der Verordnung (EG) Nr. 1135/2009 bleibt unberührt.
-
-(3) Die für die Durchführung der Kontrollen nach Artikel 4 Absatz 1
-der Verordnung (EG) Nr. 1135/2009 zuständige Behörde stellt dem für
-die kontrollierte Sendung jeweils verantwortlichen
-Lebensmittelunternehmer oder dessen Vertreter eine schriftliche
-Bescheinigung über das Erfüllen der in Artikel 4 Absatz 4 der
-Verordnung (EG) Nr. 1135/2009 genannten Anforderungen aus, mit der
-dieser den dort genannten Nachweis führen kann.
-
-(4) Wer zur Mitteilung nach Artikel 3 der Verordnung (EG) Nr.
-1135/2009 verpflichtet ist, hat diese Mitteilung mindestens einen
-Werktag vor Eintreffen der Sendung der Kontrollstelle nach Absatz 2
-Satz 1 zu übermitteln. Abweichend von Satz 1 kann die für die
-Kontrollstelle zuständige Behörde eine spätere Mitteilung noch als
-fristgerecht anerkennen, soweit dadurch die ordnungsgemäße
-Durchführung der Einfuhrkontrolle nicht behindert wird.
-
-
-### § 17b Vorschriften für Lebensmittel aus Indien bezüglich Guarkernmehl
-
-(1) Es ist verboten,
-
-1.  einen in Artikel 1 Buchstabe a der Verordnung (EU) Nr. 258/2010 der
-    Kommission vom 25. März 2010 zum Erlass von Sondervorschriften für die
-    Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist,
-    wegen des Risikos einer Kontamination mit Pentachlorphenol und
-    Dioxinen sowie zur Aufhebung der Entscheidung 2008/352/EG (ABl. L 80
-    vom 26.3.2010, S. 28) bezeichneten Stoff als Lebensmittel,
-
-
-2.  ein in Artikel 1 Buchstabe b der Verordnung (EU) Nr. 258/2010
-    bezeichnetes Lebensmittel
-
-
-
-einzuführen.
-
-(2) Abweichend von Absatz 1 Nummer 2 ist die Einfuhr eines dort
-genannten Lebensmittels zulässig, soweit es über eine in der Anlage 6
-genannte Kontrollstelle in das Inland verbracht wird und es keinen
-Gehalt an Pentachlorphenol enthält, der 0,01 mg/kg überschreitet. Satz
-1 gilt entsprechend für einen in Absatz 1 Nummer 1 genannten Stoff.
-
-(3) Abweichend von Absatz 1 Nummer 2 und Absatz 2 Satz 1 ist die
-Einfuhr eines dort genannten Lebensmittels, das vor dem 14. April 2010
-aus seinem Ursprungsland verbracht worden ist, zulässig, soweit es
-
-1.  über eine in der Anlage 6 genannte Kontrollstelle in das Inland
-    verbracht wird und
-
-
-2.  nachweislich eines Analyseberichts nach Artikel 2 Absatz 1 der
-    Entscheidung 2008/352/EG der Kommission vom 29. April 2008 zum Erlass
-    von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen
-    Ursprung oder Herkunft Indien ist, wegen des Risikos einer
-    Kontamination dieser Erzeugnisse mit Pentachlorphenol und Dioxinen
-    (ABl. L 117 vom 1.5.2008, S. 42) keinen Gehalt an Pentachlorphenol
-    enthält, der 0,01 mg/kg überschreitet.
-
-
-
-Satz 1 gilt entsprechend für einen in Absatz 1 Nummer 1 genannten
-Stoff.
-
-(4) Die für die Durchführung der Kontrollen nach Artikel 5 Absatz 1
-der Verordnung (EU) Nr. 258/2010 zuständige Behörde stellt dem für die
-kontrollierte Sendung jeweils verantwortlichen Lebensmittelunternehmer
-oder dessen Vertreter eine schriftliche Bescheinigung über das
-Erfüllen der in Artikel 8 der Verordnung (EU) Nr. 258/2010 genannten
-Anforderungen aus, mit der dieser den dort genannten Nachweis führen
-kann.
-
-(5) Wer zur Mitteilung nach Artikel 4 der Verordnung (EU) Nr. 258/2010
-verpflichtet ist, hat diese Mitteilung mindestens einen Werktag vor
-Eintreffen der Sendung der Kontrollstelle nach Absatz 3 Satz 1 Nummer
-1 zu übermitteln. Abweichend von Satz 1 kann die für die
-Kontrollstelle zuständige Behörde eine spätere Mitteilung noch als
-fristgerecht anerkennen, soweit dadurch die ordnungsgemäße
-Durchführung der Einfuhrkontrolle nicht behindert wird.
-
-
-## Abschnitt 5 - Ausnahmeregelungen
+## Abschnitt 4 - Ausnahmeregelungen
 
 
 
@@ -1119,8 +1061,7 @@ Lebensmittel- und Futtermittelgesetzbuches und des Artikels 14 Absatz
 178/2002 nicht für
 
 1.  die Beförderung von Lebensmitteln unter zollamtlicher Überwachung und
-    die Lagerung von Lebensmitteln in Zolllagern, Freilagern oder Lagern
-    in Freizonen,
+    die Lagerung von Lebensmitteln in Zolllagern oder Lagern in Freizonen,
 
 
 2.  die Veredelung und Umwandlung von Lebensmitteln, solange sich die
@@ -1163,7 +1104,7 @@ Lebensmittel- und Futtermittelgesetzbuches und des Artikels 14 Absatz
 
 
 11. Lebensmittel, die auf Seeschiffen zum Verbrauch auf hoher See bestimmt
-    waren und an Bord des Schiffes verbraucht werden,
+    sind und an Bord des Schiffes verbraucht werden,
 
 
 12. Lebensmittel tierischen Ursprungs, die ausschließlich zur Versorgung
@@ -1212,7 +1153,7 @@ die Rückschlüsse auf Art, Umfang und Beschaffenheit der Lebensmittel
 zulassen.
 
 
-## Abschnitt 6 - Straftaten und Ordnungswidrigkeiten
+## Abschnitt 5 - Straftaten und Ordnungswidrigkeiten
 
 
 
@@ -1229,19 +1170,11 @@ Futtermittelgesetzbuches wird bestraft, wer
     Lebensmittel einführt oder sonst verbringt,
 
 
-3.  entgegen § 13a Fleisch einführt,
+3.  entgegen § 13a Fleisch einführt oder
 
 
 4.  entgegen § 16 Absatz 1 Satz 1, auch in Verbindung mit Satz 3,
-    Lebensmittel einführt oder sonst verbringt,
-
-
-5.  entgegen § 17a Absatz 1 ein dort genanntes Lebensmittel oder einen
-    dort genannten Stoff als Lebensmittel einführt oder
-
-
-6.  entgegen § 17b Absatz 1 einen dort genannten Stoff als Lebensmittel
-    oder ein dort genanntes Lebensmittel einführt.
+    Lebensmittel einführt oder sonst verbringt.
 
 
 
@@ -1270,14 +1203,22 @@ vorsätzlich oder fahrlässig
     einführt,
 
 
-3.  entgegen § 6 Absatz 1 Nummer 1, 2 oder 3 Buchstabe b oder c oder
-    Nummer 4 ein Lebensmittel einführt,
+3.  entgegen § 6 Absatz 1 Nummer 1, 2 oder 3 Buchstabe b oder Nummer 4 ein
+    Lebensmittel einführt,
 
 
 4.  entgegen § 7 Absatz 2 Satz 2 oder § 11 Absatz 1 Satz 2 Nummer 4 eine
     dort genannte Behörde oder Grenzkontrollstelle nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig unterrichtet,
+
+
+4a. entgegen § 8a Absatz 1 oder 2 eine Sendung nicht, nicht richtig, nicht
+    in der vorgeschriebenen Weise oder nicht rechtzeitig transportiert,
+
+
+4b. entgegen § 8a Absatz 4 Satz 1 eine Mitteilung nicht, nicht richtig
+    oder nicht rechtzeitig macht,
 
 
 5.  entgegen § 9 Absatz 1 Satz 1 eine Sendung von Lebensmitteln tierischen
@@ -1315,9 +1256,7 @@ vorsätzlich oder fahrlässig
     rechtzeitig übermittelt,
 
 
-12a. entgegen § 17a Absatz 4 Satz 1 oder § 17b Absatz 5 Satz 1 eine
-    Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig übermittelt,
+12a. entgegen § 14 Absatz 2 Satz 2 eine Sendung nicht richtig befördert,
 
 
 13. entgegen § 18 Absatz 3 Satz 3 ein Lebensmittel nicht oder nicht
@@ -1331,79 +1270,153 @@ vorsätzlich oder fahrlässig
 
 
 
+(zu § 5 Absatz 2 Nummer 3)
 
-### Anlage 1 (zu § 5 Absatz 2 Nummer 3) Lebensmittel, die nicht einer Einfuhruntersuchung nach § 7 zu unterziehen sind
+### Anlage 1 Lebensmittel, die nicht einer Einfuhruntersuchung nach § 7 zu unterziehen sind
 
-(Fundstelle: BGBl. I 2011, S. 1871;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-1.  Kleingebäck,
+(Fundstelle: BGBl. I 2017, S. 3462 – 3463)
 
 
-2.  Brot,
+1.  Süßwaren und Schokolade, die
+
+    a)[^F800073_01_BJNR187110007BJNE001803116]
+  unter die Position (HS)
+        1704, Unterpositionen (HS) 1806 20, 1806 31, 1806 32, Unterpositionen
+        (KN) 1806 90 11, 1806 90 19, 1806 90 31, 1806 90 39 oder 1806 90 50
+        fallen,
 
 
-3.  Feine Backwaren,
+    b)  zu weniger als 50 Prozent aus Milcherzeugnissen und Eiprodukten
+        bestehen und
 
 
-4.  Schokolade,
-
-
-5.  Süßwaren,
-
-
-6.  ungefüllte Gelatinekapseln,
-
-
-7.  Nahrungsergänzungsmittel in Fertigpackungen, die
-
-    a)  geringe Mengen von Erzeugnissen tierischen Ursprungs oder
-
-
-    b)  Glucosamin, Chondroitin oder Chitosan
+    c)  gemäß Nummer 7 Buchstabe c behandelt wurden;
 
 
 
-    enthalten,
 
 
-8.  Fleischextrakte und Fleischkonzentrate,
+2.  Teigwaren und Nudeln, die
+
+    a)  unter die Unterpositionen (HS) 1902 19, 1902 30 oder 1902 40 fallen,
 
 
-9.  Oliven, mit Fisch gefüllt,
+    b)  nicht mit Fleischerzeugnissen vermischt oder gefüllt sind,
 
 
-10. Teigwaren, sofern diese Lebensmittel nicht mit Fleischerzeugnissen
-    gefüllt sind oder mit Fleischerzeugnissen gemischt sind,
+    c)  zu weniger als 50 Prozent aus Milcherzeugnissen und Eiprodukten
+        bestehen und
 
 
-11. Suppen und Gewürzzubereitungen in Fertigpackungen, die
-    Fleischextrakte, Fleischkonzentrate, tierische Fette, Fischöle,
-    Fischpulver oder Fischextrakt enthalten,
+    d)  gemäß Nummer 7 Buchstabe c behandelt wurden;
 
 
-12. Lebensmittel tierischen Ursprungs, die keine Fleischerzeugnisse und
-    einen Anteil von weniger als 50 Prozent der Gesamtmenge des
-    Lebensmittels an einem oder mehreren anderen Verarbeitungserzeugnissen
-    tierischen Ursprungs enthalten, sofern diese Lebensmittel
 
-    a)  bei Raumtemperatur haltbar sind oder während ihres
+
+
+3.  Brot, Kuchen, Kekse, Waffeln und Oblaten, Zwieback, geröstetes Brot
+    und ähnliche geröstete Waren, die
+
+    a)  unter die Unterpositionen (HS) 1905 10, 1905 20, 1905 31, 1905 32,
+        1905 40, Unterpositionen (KN) 1905 40 10, 1905 90 10, 1905 90 20, 1905
+        90 30, 1905 90 45, 1905 90 55, 1905 90 60 oder ex 1905 90 90 fallen,
+
+
+    b)  zu weniger als 20 Prozent aus Milcherzeugnissen und Eiprodukten
+        bestehen und
+
+
+    c)  gemäß Nummer 7 Buchstabe c behandelt wurden;
+
+
+
+    unter die Unterposition (HS) 1905 90 fallen nur trockene und spröde
+    Erzeugnisse;
+
+
+4.
+    a)  gefüllte Oliven, die
+
+        aa) unter die Unterpositionen (KN) ex 2001 90 65 oder ex 2005 70 00 fallen
+            und
+
+
+        bb) zu weniger als 20 Prozent aus Fischereierzeugnissen bestehen,
+
+
+
+
+
+    b)  gefüllte Oliven, die
+
+        aa) unter die Position (HS) ex 1604 fallen und
+
+
+        bb) zu weniger als 20 Prozent aus Fischereierzeugnissen bestehen;
+
+
+
+
+
+
+
+
+5.  Brühen und Suppenaromen als vorverpackte Lebensmittel, die
+
+    a)  unter die Unterpositionen (HS) ex 2104 10 oder ex 2104 20 fallen,
+
+
+    b)  zu weniger als 50 Prozent aus Fischöl, Fischpulver oder Fischextrakten
+        bestehen und
+
+
+    c)  gemäß Nummer 7 Buchstabe c behandelt wurden;
+
+
+
+
+
+6.  Nahrungsergänzungsmittel als vorverpackte Lebensmittel, die
+
+    a)  unter die Unterpositionen (HS) ex 2106 10 oder ex 2106 90 fallen,
+
+
+    b)  keine Fleischerzeugnisse enthalten und
+
+
+    c)  zu weniger als 20 Prozent aus Verarbeitungserzeugnissen tierischen
+        Ursprungs (einschließlich Glucosamin, Chondroitin oder Chitosan)
+        bestehen;
+
+
+
+
+
+7.  zusammengesetzte Lebensmittel, die
+
+    a)  keine Fleischerzeugnisse enthalten,
+
+
+    b)  zu weniger als 50 Prozent aus einem oder mehreren anderen
+        Verarbeitungserzeugnissen tierischen Ursprungs bestehen,
+
+
+    c)  bei Raumtemperatur haltbar sind oder während ihres
         Herstellungsprozesses einem vollständigen Wärmebehandlungsverfahren,
         das zur Denaturierung jeder Zutat tierischen Ursprungs geführt hat,
         unterzogen worden sind und die Anwendung dieses
         Wärmebehandlungsverfahrens zweifelsfrei erkennbar ist,
 
 
-    b)  eindeutig als für den menschlichen Verzehr bestimmt gekennzeichnet
+    d)  eindeutig als für den menschlichen Verzehr bestimmt gekennzeichnet
         sind,
 
 
-    c)  sich in unbeschädigten Verpackungen, Umschließungen oder Umhüllungen
+    e)  sich in unbeschädigten Verpackungen, Umschließungen oder Umhüllungen
         oder versiegelten Behältnissen befinden und
 
 
-    d)  von einem Handelsdokument begleitet werden, aus dem in Verbindung mit
+    f)  von einem Handelsdokument begleitet werden, aus dem in Verbindung mit
         einer entsprechenden Kennzeichnung der Lebensmittel Angaben über die
         Beschaffenheit und Menge der Lebensmittel, die Anzahl der Packstücke,
         das Herkunftsland, die Anschrift des Herstellers und die Zutaten der
@@ -1415,28 +1428,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+    Die durch die Verordnung (EWG) Nr. 2658/87 eingeführte Kombinierte
+    Nomenklatur („KN“) basiert auf dem weltweiten Harmonisierten System
+    zur Bezeichnung und Codierung der Waren (im Folgenden „HS“), das vom
+    Rat für die Zusammenarbeit auf dem Gebiet des Zollwesens, jetzt
+    Weltzollorganisation, ausgearbeitet und durch das am 14. Juni 1983 in
+    Brüssel geschlossene internationale Übereinkommen angenommen wurde,
+    das im Namen der Europäischen Wirtschaftsgemeinschaft mit dem
+    Beschluss 87/369/EWG genehmigt wurde (im Folgenden „HS-
+    Übereinkommen“). Die KN übernimmt bei den ersten sechs Stellen die
+    Codenummern der Positionen und Unterpositionen des HS; nur die siebte
+    und die achte Stelle bilden eigene Unterteilungen. Wird ein
+    vierstelliger Code verwendet, so müssen alle Lebensmittel, die mit
+    diesem vierstelligen Code gekennzeichnet sind, keinen
+    Veterinärkontrollen an einer Grenzkontrollstelle unterzogen werden,
+    sofern nichts anderes bestimmt ist. Enthalten nur bestimmte
+    Lebensmittel, die mit einem vier-, sechs- oder achtstelligen Code
+    gekennzeichnet sind, Lebensmittel tierischen Ursprungs und gibt es
+    keine spezielle Unterteilung dieses Codes in der KN, wird dem Code ein
+    ex vorangestellt (zum Beispiel Unterposition (KN) ex 2001 90 65: Für
+    die genannten Lebensmittel sind Veterinärkontrollen nicht
+    erforderlich).
+[^F800073_01_BJNR187110007BJNE001803116]: 
+(zu § 6 Absatz 1)
 
-### Anlage 2 (zu § 6 Absatz 1) Rechtsgrundlagen zur Auflistung von Drittländern und Betrieben in Drittländern sowie zur Festlegung von Bescheinigungen oder Mustern von Bescheinigungen durch die Europäische Kommission
+### Anlage 2 Durch die Europäische Kommission erlassene Rechtsgrundlagen zur Auflistung von Drittländern und Betrieben in Drittländern sowie zur Festlegung von Bescheinigungen oder Mustern von Bescheinigungen
 
-(Fundstelle: BGBl. I 2011, S. 1872 - 1873)
+(Fundstelle: BGBl. I 2017, S. 3463)
 
 
 *    *   Lebensmittel
 
     *   Rechtsgrundlagen
-        zur Auflistung
-        von Drittländern
+        zur Auflistung von
+        Drittländern
 
     *   Rechtsgrundlagen
-        zur Auflistung
-        von Betrieben
+        zur Auflistung von Betrieben
         in Drittländern
 
     *   Rechtsgrundlagen
-        zur Festlegung
-        von Bescheinigungen
-        oder Mustern für
-        Bescheinigungen
+        zur Festlegung von
+        Bescheinigungen oder
+        Mustern für Bescheinigungen
 
 
 *    *   1
@@ -1448,134 +1482,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4
 
 
-*    *   1.
-
-    *   Milch und Milcherzeugnisse
-
-    *   Artikel 23 Absatz 2 Buchstabe b und Artikel 3 Buchstabe a, c und d der
-        Richtlinie 92/46/EWG des Rates
-
-    *
-    *   Artikel 23 Absatz 2 Buchstabe b und Artikel 3 Buchstabe a, c und d der
-        Richtlinie 92/46/EWG des Rates
+*    *
+        1.  Hackfleisch und Fleischzubereitungen
 
 
-*    *   2.
 
-    *   Eier, Eiprodukte
-
-    *
-    *[^f775671_01_BJNR187110007BJNE001901310]
-
-    *
-
-*    *   3.
-
-    *   essbare Schnecken, Froschschenkel, Honig, Gelee Royale
-
-    *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG des Rates
-
-    *
-    *
-
-*    *   4.
-
-    *   Speisegelatine
-
-    *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG des Rates
-
-    *
-    *
-
-*    *   5.
-
-    *   Kollagen
-
-    *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG des Rates
-
-    *
-    *
-
-*    *   6.
-
-    *   Ausgangserzeugnisse für die Herstellung von Speisegelatine und
-        Kollagen
-
-    *   Entscheidung
-        79/542/EWG                      des Rates, Artikel 9 der Richtlinie
-        91/494/EWG des Rates, Artikel 2 Absatz 2 der Entscheidung 95/408/EWG
-        des Rates, Artikel 16 Absatz 2 und 3 der Richtlinie 92/45/EWG des
-        Rates
-
-    *
-    *
-
-*    *   7.
-
-    *   Fischereierzeugnisse
-
-    *
-    *   Artikel 11 Absatz 1 i. V. m. Absatz 4 Buchstabe c oder Absatz 6 der
-        Richtlinie 91/493/EWG
-
-    *
-
-*    *   8.
-
-    *   lebende Muscheln, Stachelhäuter, Manteltiere und Meeresschnecken
-
-    *
-    *   Artikel 9 der Richtlinie 91/492/EWG
-
-    *
-
-*    *   9.
-
-    *   Fleisch von Rindern einschließlich Bubalus bubalis und Bison bison,
-        Schweinen, Schafen und Ziegen oder von Einhufern, die als Haustiere
-        gehalten werden, sowie von wild lebenden Klauentieren und Einhufern
-
-    *   Artikel 3 Absatz 1 der Richtlinie 72/462/EWG
-
-    *   Artikel 4 Absatz 1 der Richtlinie 72/462/EWG
-
-    *   Artikel 3 und 22 der Richtlinie 72/462/EWG
-
-
-*    *   10.
-
-    *   Fleisch von Hühnern, Truthühnern, Perlhühnern, Enten und Gänsen
-
-    *
-    *   Artikel 14 Teil B Nummer 2 Buchstabe a der Richtlinie 71/118/EWG
-
-    *
-
-*    *   11.
-
-    *   Fleisch von Hauskaninchen, Zuchtwild (Farmwild)
-
-    *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG
-
-    *   Artikel 10 Absatz 2 Buchstabe b der Richtlinie 92/118/EWG
-
-    *   Artikel 10 Absatz 2 Buchstabe c der Richtlinie 92/118/EWG
-
-
-*    *   12.
-
-    *   Fleisch von erlegtem Wild (Groß- und Kleinwild)
-
-    *   Artikel 16 Absatz 3 der Richtlinie 92/45/EWG
-
-    *   Artikel 16 Absatz 3 der Richtlinie 92/45/EWG
-
-    *   Artikel 16 Absatz 2 Buchstabe c der Richtlinie 92/45/EWG
-
-
-*    *   13.
-
-    *   Hackfleisch und Fleischzubereitungen
 
     *   Artikel 13 Abschnitt I Teil B Nummer 1 Buchstabe b der Richtlinie
         94/65/EG
@@ -1587,52 +1498,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         94/65/EG
 
 
-*    *   14.
-
-    *   Fleischerzeugnisse aus Fleisch von Rindern einschließlich Bubalus
-        bubalis und Bison bison, Schweinen, Schafen, Ziegen und Einhufern, die
-        als Haustiere gehalten werden
-
-    *   Artikel 3 Absatz 1 der Richtlinie 72/462/EWG
-
-    *   Artikel 4 Absatz 1 der Richtlinie 72/462/EWG
-
-    *   Artikel 3 und 22 der Richtlinie 72/462/EWG
+*    *
+        2.  Fleischerzeugnisse aus Fleisch von Rindern, einschließlich Bubalus
+            bubalis und Bison bison, Schweinen, Schafen, Ziegen und Einhufern, die
+            als Haustiere gehalten werden
 
 
-*    *   15.
 
-    *   Fleischerzeugnisse aus Geflügelfleisch, Fleisch von Zuchtwild
-        (Farmwild), erlegtem Wild (Groß- und Kleinwild) und Fleisch von
-        Hauskaninchen
 
     *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG
 
-    *   Artikel 10 Absatz 2 Buchstabe b der Richtlinie
-        92/118/EWG
-
-    *   Artikel 10 Absatz 2 Buchstabe b der Richtlinie 92/118/EWG
+    *
+    *   Artikel 10 Absatz 2 Buchstabe c der Richtlinie 92/118/EWG
 
 
-*    *   16.
+*    *
+        3.  Fleischerzeugnisse aus Fleisch von Geflügel, Zuchtwild (Farmwild),
+            erlegtem Wild (Groß- und Kleinwild) und Hauskaninchen
 
-    *   Gesalzene oder getrocknete und/oder erhitzte Mägen, Blasen und Därme
+
+
 
     *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG
 
     *   Artikel 10 Absatz 2 Buchstabe b der Richtlinie 92/118/EWG
 
+    *   Artikel 10 Absatz 2 Buchstabe c der Richtlinie 92/118/EWG
+
+
+*    *
+        4.  Gesalzene oder getrocknete und/oder erhitzte Mägen, Blasen und Därme
+
+
+
+
+    *   Artikel 10 Absatz 2 Buchstabe a der Richtlinie 92/118/EWG
+
     *   Artikel 10 Absatz 2 Buchstabe b der Richtlinie 92/118/EWG
 
+    *   Artikel 10 Absatz 2 Buchstabe c der Richtlinie 92/118/EWG
 
 
-    Listen von Betrieben in Drittländern gemeinschaftsrechtlich nicht
-    geregelt.
-[^f775671_01_BJNR187110007BJNE001901310]: 
+
 
 ### Anlage 2a (zu § 6 Absatz 2 Satz 2)
 
-(Fundstelle: BGBl. I 2011, S. 1874 - 1877)
+(Fundstelle: BGBl. I 2011, S. 1874 - 1877;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Muster**
 
@@ -1844,8 +1756,10 @@ der Unterzeichnung. Der Untersuchungstierarzt darf durch einen
 amtlichen Inspektor ersetzt werden, falls die einschlägigen
 Rechtsvorschriften dies vorsehen.
 
+(zu § 7 Absatz 1, § 9 Absatz 1 Satz 1, § 10 Absatz 2 und § 11 Absatz 3
+Satz 1)
 
-### Anlage 3 (zu § 7 Absatz 1, § 9 Absatz 1 Satz 1, § 10 Absatz 2 und § 11 Absatz 3 Satz 1) Durchführung der Nämlichkeitskontrolle
+### Anlage 3 Durchführung der Nämlichkeitskontrolle
 
 (Fundstelle: BGBl. I 2011, S. 1878)
 
@@ -1882,8 +1796,10 @@ Rechtsvorschriften dies vorsehen.
 
 
 
+(zu § 7 Absatz 1, § 8 Absatz 3 und 4, § 9 Absatz 5 Satz 3 und § 10
+Absatz 5)
 
-### Anlage 4 (zu § 7 Absatz 1, § 8 Absatz 3 und 4, § 9 Absatz 5 Satz 2 und § 10 Absatz 5) Durchführung der Warenuntersuchung
+### Anlage 4 Durchführung der Warenuntersuchung
 
 (Fundstelle: BGBl. I 2011, S. 1879 - 1887)
 
@@ -1945,7 +1861,7 @@ Kapitel I
     zuständigen Behörde teilweise zu entladen. Bei losen Lebensmitteln ist
     die Prüfung an mindestens fünf über die Sendung verteilten, separaten
     Stichproben vorzunehmen. Darüber hinaus sind die Lebensmittel
-    stichprobenweise auf die Einhaltung der sonstigen
+    risikoorientiert stichprobenweise auf die Einhaltung der sonstigen
     lebensmittelrechtlichen Vorschriften zu überprüfen.
 
 
@@ -1994,7 +1910,8 @@ Kapitel I
 
 
 7.  Lebensmittel tierischen Ursprungs sind, soweit nicht in den Kapiteln
-    III bis VII etwas anderes bestimmt ist, stichprobenweise auf
+    III bis VII etwas anderes bestimmt ist, risikoorientiert
+    stichprobenweise auf
 
     a)  Rückstände,
 
@@ -2020,7 +1937,8 @@ Kapitel II
 ## Spezielle Anforderungen an die Warenuntersuchung bei lebenden
 Tieren
 
-Lebende Tiere sind stichprobenweise auf Rückstände zu untersuchen.
+Lebende Tiere sind risikoorientiert stichprobenweise auf Rückstände zu
+untersuchen.
 
 Kapitel III
 Spezielle Anforderungen an die Warenuntersuchung bei
@@ -2166,8 +2084,8 @@ Spezielle Anforderungen an die Warenuntersuchung bei
     zu untersuchen.
 
 
-2.3 Frisches Fleisch ist ferner stichprobenweise auf seine
-    Tierartzugehörigkeit und auf Rückstände zu untersuchen:
+2.3 Frisches Fleisch ist ferner risikoorientiert stichprobenweise auf
+    seine Tierartzugehörigkeit und auf Rückstände zu untersuchen:
 
 
 2.3.1 Hierfür ist vorbehaltlich Kapitel I Nummer 6 aus den insgesamt zur
@@ -2208,8 +2126,8 @@ Spezielle Anforderungen an die Warenuntersuchung bei
 
 
 
-2.4 Abweichend von den Nummern 2.1.1, 2.2.1, 2.2.3 und 2.3 sind Tierkörper
-    von
+2.4 Abweichend von den Nummern 2.1.1, 2.2.1, 2.2.3 und 2.3 sind nicht
+    enthäutete Tierkörper von
 
     a)  Großwild und
 
@@ -2218,10 +2136,10 @@ Spezielle Anforderungen an die Warenuntersuchung bei
 
 
 
-    in der Decke lediglich einer Warenuntersuchung nach Kapitel I zu
-    unterziehen. Die für den Bestimmungsort zuständige Behörde ist
-    unbeschadet tierseuchenrechtlicher Vorschriften über die Durchführung
-    verstärkter Kontrollen nach § 8 Absatz 4 zu unterrichten.
+    lediglich einer Warenuntersuchung nach Kapitel I zu unterziehen. Die
+    für den Bestimmungsort zuständige Behörde ist unbeschadet
+    tierseuchenrechtlicher Vorschriften über die Durchführung verstärkter
+    Kontrollen nach § 8 Absatz 4 zu unterrichten.
 
 
 2.5 Beanstandung und vorläufige Beschlagnahme
@@ -2399,8 +2317,9 @@ Spezielle Anforderungen an die Warenuntersuchung bei
     bakteriologisch, histologisch, serologisch oder chemisch-physikalisch.
 
 
-4.4 Fleischerzeugnisse sind ferner stichprobenweise auf Rückstände nach
-    näherer Anweisung der zuständigen Behörde zu untersuchen.
+4.4 Fleischerzeugnisse sind ferner risikobasiert stichprobenweise auf
+    Rückstände nach näherer Anweisung der zuständigen Behörde zu
+    untersuchen.
 
 
 4.4.1 Hierfür ist vorbehaltlich Kapitel I Nummer 6 Satz 1 und 3 aus den
@@ -2577,12 +2496,12 @@ Spezielle Anforderungen an die Warenuntersuchung bei
 6.3 Die Stempelabdrucke nach Nummer 6.2 sind wie folgt anzubringen:
 
 
-6.3.1 Tierkörper nach Nummer 2.1.1, ausgenommen Tierkörper von Großwild in
-    der Decke, sind auf jeder Hälfte zu kennzeichnen.
+6.3.1 Tierkörper nach Nummer 2.1.1, ausgenommen nicht enthäutete Tierkörper
+    von Großwild, sind auf jeder Hälfte zu kennzeichnen.
 
 
-6.3.2 Tierkörper von Großwild und Hasentieren in der Decke sind im Innern
-    der Bauchhöhle zu kennzeichnen.
+6.3.2 Nicht enthäutete Tierkörper von Großwild und Hasentieren sind im
+    Innern der Bauchhöhle zu kennzeichnen.
 
 
 6.3.3 Teilstücke nach Nummer 2.1.2 sind mindestens mit einem Stempelabdruck
@@ -2623,32 +2542,34 @@ nach Kapitel I sind folgende Laboruntersuchungen durchzuführen:
 
         *   polychlorierte Biphenyle
 
-        *   Schadstoffhöchstmengenverordnung vom 19. Dezember 2003 (BGBl. I S.
-            2755) in der jeweils geltenden
-            Fassung
+        *   Verordnung (EG) Nr. 1881/2006 der Kommission vom 19. Dezember 2006 zur
+            Festsetzung der Höchstgehalte für bestimmte Kontaminanten in
+            Lebensmitteln (ABl. L 364 vom 20.12.2006, S. 5) in der jeweils
+            geltenden Fassung
 
 
     *        *
         *
         *   Pflanzenschutzmittelrückstände
 
-        *   Rückstandshöchstmengenverordnung vom 21. Oktober 1999 (BGBl. I S.
-            2082) in der jeweils geltenden Fassung
+        *   Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates
+            vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder
+            auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs
+            und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom
+            16\.3.2005, S. 1) in der jeweils geltenden Fassung
 
 
     *        *
         *
         *   Aflatoxine
 
-        *   Mykotoxin-Höchstmengenverordnung vom 2. Juni 1999 (BGBl. I S. 1248) in
-            der jeweils geltenden Fassung
+        *   Verordnung (EG) Nr. 1881/2006 in der jeweils geltenden Fassung
 
 
     *        *
         *
-        *   Rückstände von Stoffen, die
-            im Anhang Tabelle 2 der
-            Verordnung (EU) Nr. 37/2010 aufgeführt sind
+        *   Rückstände von Stoffen, die im Anhang Tabelle 2 der Verordnung (EU)
+            Nr. 37/2010 aufgeführt sind
 
         *   Verordnung (EG) Nr. 470/2009 in Verbindung mit der Verordnung (EU) Nr.
             37/2010 in der jeweils geltenden Fassung
@@ -2729,7 +2650,7 @@ nach Kapitel I sind folgende Laboruntersuchungen durchzuführen:
 
     *        *   1.7
 
-        *[^F775671_01_BJNR187110007BJNE002105310]
+        *[^F775671_01_BJNR187110007BJNE002106116]
    Eiskreme mit Milchanteilen
 
         *   Salmonellen
@@ -2739,7 +2660,7 @@ nach Kapitel I sind folgende Laboruntersuchungen durchzuführen:
 
     *        *   1.8
 
-        *[^F775671_02_BJNR187110007BJNE002105310]
+        *[^F775671_02_BJNR187110007BJNE002106116]
    Käse, Milch- und Molkepulver
 
         *   Staphylokokken-Enterotoxine
@@ -2876,7 +2797,7 @@ nach Kapitel I sind folgende Anforderungen zu berücksichtigen:
 
         *   Fischereierzeugnisse von Fischarten, bei denen ein hoher Gehalt an
             Histidin
-[^F775671_03_BJNR187110007BJNE002105310]
+[^F775671_03_BJNR187110007BJNE002106116]
             auftritt
 
         *   Histamin
@@ -2971,7 +2892,7 @@ nach Kapitel I sind folgende Laboruntersuchungen durchzuführen:
         *   zu erfüllende Anforderungen gemäß
 
 
-    *        *[^F775671_04_BJNR187110007BJNE002105310]
+    *        *[^F775671_04_BJNR187110007BJNE002106116]
    Eiprodukte
 
         *   Salmonellen
@@ -3079,173 +3000,27 @@ nach Kapitel I sind folgende Laboruntersuchungen durchzuführen:
 
     Außer Erzeugnisse, bei denen auf Grund des Herstellungsverfahrens kein
     Salmonellenrisiko besteht.
-[^F775671_01_BJNR187110007BJNE002105310]: [^F775671_02_BJNR187110007BJNE002105310]:     Die Position umfasst folgende Erzeugnisse:
-    –                                                   Käse aus Rohmilch,
+[^F775671_01_BJNR187110007BJNE002106116]: [^F775671_02_BJNR187110007BJNE002106116]:     Die Position umfasst folgende Erzeugnisse:
+    –                                Käse aus Rohmilch,
 
 
-    –                                                   Käse aus Milch,
-    die einer Wärmebehandlung unterhalb der Pasteurisationstemperatur
-    unterzogen wurde,
+    –                                Käse aus Milch, die einer
+    Wärmebehandlung unterhalb der Pasteurisationstemperatur unterzogen
+    wurde,
 
 
-    –                                                   Käse aus Milch
-    oder Molke, die pasteurisiert oder einer Wärmebehandlung über der
+    –                                Käse aus Milch oder Molke, die
+    pasteurisiert oder einer Wärmebehandlung über der
     Pasteurisationstemperatur unterzogen wurde,
 
 
-    –                                                   Milch- und
-    Molkepulver, die nicht zur weiteren Verarbeitung bestimmt sind.
+    –                                Milch- und Molkepulver, die nicht zur
+    weiteren Verarbeitung bestimmt sind.
 
 
 
 Vor allem Fischarten der Familien Scombridae, Clupeidae, Engraulidae,
 Coryfenidae, Pomatomidae und Scombraesosidae.
-[^F775671_03_BJNR187110007BJNE002105310]: Außer für Erzeugnisse, bei denen auf Grund des Herstellungsverfahrens
+[^F775671_03_BJNR187110007BJNE002106116]: Außer für Erzeugnisse, bei denen auf Grund des Herstellungsverfahrens
 oder der Zusammensetzung ein Salmonellenrisiko ausgeschlossen ist.
-[^F775671_04_BJNR187110007BJNE002105310]: 
-
-### Anlage 5 (zu § 17a Absatz 2 Satz 1)
-
-(Fundstelle: BGBl. I 2011, 2401)
-
-Liste
-der nach Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EG) Nr.
-1135/2009
-## **in Deutschland für Lebensmittel benannten Kontrollstellen**
-
-
-*    *   Land
-
-    *   Benannte Grenzkontrollstellen
-
-
-*    *   Baden-Württemberg
-
-    *   Grenzkontrollstelle (GKS) Stuttgart (Flughafen)
-
-
-*    *   Bayern
-
-    *   GKS München (Flughafen)
-
-
-*    *   Berlin
-
-    *   GKS Berlin-Tegel (Flughafen)
-
-
-*    *   Brandenburg
-
-    *   GKS Schönefeld (Flughafen)
-
-
-*    *   Bremen
-
-    *   GKS Bremen (Hafen), GKS Bremerhaven (Hafen)
-
-
-*    *   Hamburg
-
-    *   GKS Hamburg (Hafen), GKS Hamburg (Flughafen)
-
-
-*    *   Hessen
-
-    *   GKS Frankfurt/Main (Flughafen)
-
-
-*    *   Niedersachsen
-
-    *   GKS Cuxhaven (Hafen),
-        GKS Hannover-Langenhagen (Flughafen)
-
-
-*    *   Nordrhein-Westfalen
-
-    *   GKS Düsseldorf (Flughafen), GKS Köln (Flughafen)
-
-
-*    *   Rheinland-Pfalz
-
-    *   GKS Hahn (Flughafen)
-
-
-*    *   Sachsen
-
-    *   GKS Leipzig/Halle (Flughafen)
-
-
-
-
-### Anlage 6 (zu § 17b Absatz 2 Satz 1 und Absatz 3 Satz 1 Nummer 1)
-
-(Fundstelle: BGBl. I 2011, S. 2402)
-
-Liste
-der nach Artikel 5 Absatz 4 der Verordnung (EU) Nr. 258/2010
-## **in Deutschland für Lebensmittel benannte Kontrollstellen**
-
-
-*    *   Land
-
-    *   Benannte Kontrollstellen für Lebensmittel
-
-
-*    *   Baden-Württemberg
-
-    *   Grenzkontrollstelle (GKS) Stuttgart (Flughafen), Landratsamt Konstanz
-
-
-*    *   Bayern
-
-    *   GKS München (Flughafen) (Landratsamt Erding, Bajuwarenstraße 3, 85435
-        Erding)
-
-
-*    *   Berlin
-
-    *   GKS Berlin-Tegel (Flughafen)
-
-
-*    *   Brandenburg
-
-    *   GKS Schönefeld (Flughafen)
-
-
-*    *   Bremen
-
-    *   GKS Bremen (Hafen), GKS Bremerhaven (Hafen)
-
-
-*    *   Hamburg
-
-    *   GKS Hamburg (Hafen), GKS Hamburg (Flughafen)
-
-
-*    *   Hessen
-
-    *   GKS Frankfurt/Main (Flughafen)
-
-
-*    *   Niedersachsen
-
-    *   GKS Cuxhaven (Hafen),
-        GKS Hannover-Langenhagen (Flughafen)
-
-
-*    *   Nordrhein-Westfalen
-
-    *   GKS Düsseldorf (Flughafen), GKS Köln (Flughafen)
-
-
-*    *   Rheinland-Pfalz
-
-    *   GKS Hahn (Flughafen)
-
-
-*    *   Sachsen
-
-    *   GKS Leipzig/Halle (Flughafen)
-
-
-
+[^F775671_04_BJNR187110007BJNE002106116]: 

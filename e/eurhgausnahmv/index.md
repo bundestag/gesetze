@@ -17,7 +17,7 @@ Fundstelle
 :   eBAnz: 2010, AT41 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.1.2012 eBAnz AT10 V1
+:   Art. 1 V v. 18.8.2020 BAnz AT 28.08.2020 V2
 
 
 ## Eingangsformel
@@ -59,8 +59,8 @@ Diese Verordnung tritt am Tag nach der Verkündigung in Kraft.
 
 ## Anlage (zu § 1)
 
-(Fundstelle: eBAnz 2010, AT41 V1;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BAnz AT 28.08.2020 V2)
+
 
 *    *   1
 
@@ -73,7 +73,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Wirkstoff
 
-    *[^bjnr604100010bjne000400000_01_BJNR604100010BJNE000402310]
+    *[^F1_812972_BJNR604100010BJNE000404116]
    Code
 
     *   Erzeugnisgruppe
@@ -81,24 +81,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Rückstandshöchstgehalt mg/kg
 
 
-*    *   Fipronil
-        Summe aus Fipronil und seinem Sulfonmetalboliten
-        (MB46136), insgesamt berechnet als Fipronil
+*    *   Metobromuron
+        Rückstand:
+        4-Bromphenylharnstoff
 
-    *   1016020
+    *   0251010
 
-    *   Geflügelfett
+    *   Feldsalat
 
-    *   0,015
+    *   2
 
 
 
+_\_\__\_\__\_\__\_\_
 
     Code und Erzeugnisgruppe im Sinne des Anhangs I der Verordnung (EG)
     Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar
     2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und
     Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung
     der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1),
-    die zuletzt durch die Verordnung (EG) Nr. 1097/2009 (ABl. L 301 vom
-    17\.11.2009, S. 6) geändert worden ist.
-[^bjnr604100010bjne000400000_01_BJNR604100010BJNE000402310]: 
+    die zuletzt durch die Verordnung (EU) 2020/1085 (ABl. L 239 vom
+    24\.7.2020, S. 7) geändert worden ist.
+[^F1_812972_BJNR604100010BJNE000404116]: 

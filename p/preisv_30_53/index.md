@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 70 G v. 8.12.2010 I 1864
 
+Änderung durch
+:   Art. 80 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1 V v. 25.11.2021 I 4968 (Nr. 80) mWv 1.4.2022 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

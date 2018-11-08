@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3138
 
-Geändert durch
-:   Art. 78 V v. 29.10.2001 I 2785
+Zuletzt geändert durch
+:   Art. 2 G v. 2.6.2021 I 1306
 
 
 ## § 1 Rechtsform der Stiftung
@@ -43,14 +43,21 @@ Maßnahmen:
     Ausstellung in Berlin;
 
 
-2.  Forschung und Anregung wissenschaftlicher Untersuchungen;
+2.  Unterhaltung eines Willy-Brandt-Hauses in Lübeck mit einer ständigen
+    Ausstellung;
 
 
-3.  Veranstaltungen und Diskussionsforen mit deutscher und internationaler
+3.  Unterhaltung einer ständigen Ausstellung im Willy-Brandt-Forum Unkel;
+
+
+4.  Forschung und Anregung wissenschaftlicher Untersuchungen;
+
+
+5.  Veranstaltungen und Diskussionsforen mit deutscher und internationaler
     Beteiligung im Sinne des Stiftungszweckes;
 
 
-4.  Mitwirkung bei der Auswertung der Archivalien des "Willy-Brandt-
+6.  Mitwirkung bei der Auswertung der Archivalien des "Willy-Brandt-
     Archivs im Archiv der sozialen Demokratie der Friedrich-Ebert-
     Stiftung" nach Maßgabe des § 2 Abs. 3.
 

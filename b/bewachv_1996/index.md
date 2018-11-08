@@ -19,48 +19,33 @@ Neugefasst durch
 :   Bek. v. 10. 7.2003 I 1378;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 6.12.2011 I 2515
+:   Art. 1 V v. 1.12.2016 I 2692
 
 
 ## Abschnitt 1 - Unterrichtungsverfahren
 
 
 
-### § 1 Zweck, Betroffene
+### § 1 Zweck
 
-(1) Zweck der Unterrichtung ist es, die im Bewachungsgewerbe tätigen
-Personen mit den für die Ausübung des Gewerbes notwendigen rechtlichen
-Vorschriften und fachspezifischen Pflichten und Befugnissen sowie
-deren praktischer Anwendung in einem Umfang vertraut zu machen, der
-ihnen die eigenverantwortliche Wahrnehmung von Bewachungsaufgaben
-ermöglicht.
-
-(2) Dem Unterrichtungsverfahren haben sich zu unterziehen
-
-1.  Personen, die das Bewachungsgewerbe nach § 34a Abs. 1 Satz 1 der
-    Gewerbeordnung als Selbständige ausüben wollen,
-
-
-2.  bei juristischen Personen die gesetzlichen Vertreter, soweit sie mit
-    der Durchführung von Bewachungsaufgaben direkt befasst sind,
-
-
-3.  die mit der Leitung des Gewerbebetriebes beauftragten Personen und
-
-
-4.  sonstige Unselbständige, die mit der Durchführung von
-    Bewachungsaufgaben nach § 34a Abs. 1 Satz 4 der Gewerbeordnung
-    beschäftigt werden sollen.
-
-
-
+Zweck der Unterrichtung ist es, die im Bewachungsgewerbe tätigen
+Personen, die nach § 34a Absatz 1a Satz 1 der Gewerbeordnung in der
+Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die
+zuletzt durch Artikel 16 des Gesetzes vom 11. November 2016 (BGBl. I
+S. 2500) geändert worden ist, über die für die Ausübung des Gewerbes
+notwendigen rechtlichen und fachlichen Grundlagen zu unterrichten
+sind, so zu befähigen, dass sie mit den entsprechenden Rechten,
+Pflichten und Befugnissen sowie mit deren praktischer Anwendung in
+einem Umfang vertraut sind, der ihnen die eigenverantwortliche
+Wahrnehmung von Bewachungsaufgaben ermöglicht.
 
 
 ### § 2 Zuständige Stelle
 
-Die Unterrichtung erfolgt durch die Industrie- und Handelskammern. Sie
-können Vereinbarungen zur gemeinsamen Erledigung ihrer Aufgabe nach
-Satz 1 schließen.
+Die Unterrichtung erfolgt durch die Industrie- und Handelskammern. Die
+Unterrichtung kann bei jeder Industrie- und Handelskammer erfolgen,
+die diese Unterrichtung anbietet. Sie können Vereinbarungen zur
+gemeinsamen Erledigung ihrer Aufgabe nach Satz 1 schließen.
 
 
 ### § 3 Verfahren
@@ -68,13 +53,12 @@ Satz 1 schließen.
 (1) Die Unterrichtung erfolgt mündlich, die zu unterrichtende Person
 muss über die zur Ausübung der Tätigkeit und zum Verständnis des
 Unterrichtungsverfahrens unverzichtbaren deutschen Sprachkenntnisse
-verfügen. Die Unterrichtung hat für Personen im Sinne des § 1 Abs. 2
-Nr. 1 bis 3 mindestens 80 Unterrichtsstunden zu dauern; für Personen
-im Sinne der Nummer 4 muss die Unterrichtung mindestens 40 Stunden
-dauern. Eine Unterrichtsstunde beträgt 45 Minuten. Bei der
-Unterrichtung soll von modernen pädagogischen und didaktischen
-Möglichkeiten Gebrauch gemacht werden. Mehrere Personen können
-gleichzeitig unterrichtet werden, wobei die Zahl der
+auf dem Kompetenzniveau B1 des Gemeinsamen Europäischen
+Referenzrahmens verfügen. Die Unterrichtung hat mindestens 40
+Unterrichtsstunden zu dauern. Eine Unterrichtsstunde beträgt 45
+Minuten. Bei der Unterrichtung soll von modernen pädagogischen und
+didaktischen Möglichkeiten Gebrauch gemacht werden. Mehrere Personen
+können gleichzeitig unterrichtet werden, wobei die Zahl der
 Unterrichtsteilnehmer 20 nicht übersteigen soll.
 
 (2) Die Industrie- und Handelskammer stellt eine Bescheinigung nach
@@ -82,10 +66,10 @@ Anlage 1 aus, wenn die unterrichtete Person am Unterricht ohne
 Fehlzeiten teilgenommen hat und sich die Kammer durch geeignete
 Maßnahmen, insbesondere durch einen aktiven Dialog mit den
 Unterrichtsteilnehmern sowie durch mündliche und schriftliche
-Verständnisfragen, davon überzeugt hat, dass die Person mit den für
-die Ausübung des Gewerbes notwendigen rechtlichen Vorschriften und
-fachspezifischen Pflichten und Befugnissen sowie deren praktischer
-Anwendung nach Maßgabe von § 4 vertraut ist.
+Verständnisfragen nach jedem Sachgebiet, davon überzeugt hat, dass die
+Person mit den für die Ausübung des Gewerbes notwendigen rechtlichen
+Vorschriften und fachspezifischen Pflichten und Befugnissen sowie
+deren praktischer Anwendung nach Maßgabe von § 4 vertraut ist.
 
 
 ### § 4 Anforderungen
@@ -107,22 +91,23 @@ Sachgebiete:
 4.  Unfallverhütungsvorschrift Wach- und Sicherungsdienste,
 
 
-5.  Umgang mit Menschen, insbesondere Verhalten in Gefahrensituationen und
-    Deeskalationstechniken in Konfliktsituationen und
+5.  Umgang mit Menschen, insbesondere Verhalten in Gefahrensituationen,
+    Deeskalationstechniken in Konfliktsituationen sowie interkulturelle
+    Kompetenz unter besonderer Beachtung von Diversität und
+    gesellschaftlicher Vielfalt und
 
 
 6.  Grundzüge der Sicherheitstechnik.
 
 
 
-Bei der Unterrichtung von Personen im Sinne des § 1 Abs. 2 Nr. 1 bis 3
-sind die Sachgebiete der Anlage 2 und bei denjenigen der Nummer 4 die
-Sachgebiete der Anlage 3 zugrunde zu legen.
+Bei der Unterrichtung sind die Sachgebiete der Anlage 3 zugrunde zu
+legen.
 
 
 ### § 5 Anerkennung anderer Nachweise
 
-(1) Folgende Prüfungszeugnisse werden als Nachweis der erforderlichen
+Folgende Prüfungszeugnisse werden als Nachweis der erforderlichen
 Unterrichtung anerkannt:
 
 1.  für das Bewachungsgewerbe einschlägige Abschlüsse, die auf Grund von
@@ -147,11 +132,6 @@ Unterrichtung anerkannt:
 
 
 
-(2) Personen im Sinne des § 1 Abs. 2 Nr. 4, die nach § 3 unterrichtet
-worden sind und Tätigkeiten nach § 1 Abs. 2 Nr. 1 bis 3 ausüben
-wollen, bedürfen keiner weiteren Unterrichtung, wenn sie seitdem eine
-mindestens dreijährige ununterbrochene Bewachungstätigkeit nachweisen.
-
 
 ## Abschnitt 1a - Sachkundeprüfung
 
@@ -159,25 +139,45 @@ mindestens dreijährige ununterbrochene Bewachungstätigkeit nachweisen.
 
 ### § 5a Zweck, Betroffene
 
-(1) Zweck der Sachkundeprüfung nach § 34a Abs. 1 Satz 5 der
-Gewerbeordnung ist es, gegenüber den zuständigen Vollzugsbehörden den
-Nachweis zu erbringen, dass die in diesen Bereichen tätigen Personen
-Kenntnisse über für die Ausübung dieser Tätigkeiten notwendige
-rechtliche Vorschriften und fachspezifische Pflichten und Befugnisse
-sowie deren praktische Anwendung in einem Umfang erworben haben, die
-ihnen die eigenverantwortliche Wahrnehmung dieser Bewachungsaufgaben
-ermöglichen.
+(1) Zweck der Sachkundeprüfung nach § 34a Absatz 1 Satz 3 Nummer 3 und
+Absatz 1a Satz 2 der Gewerbeordnung ist es, gegenüber den zuständigen
+Vollzugsbehörden den Nachweis zu erbringen, dass die in Absatz 2
+genannten Personen Kenntnisse über für die Ausübung dieser Tätigkeiten
+notwendige rechtliche Vorschriften und fachspezifische Pflichten und
+Befugnisse sowie deren praktische Anwendung in einem Umfang erworben
+haben, die ihnen die eigenverantwortliche Wahrnehmung dieser
+Bewachungsaufgaben ermöglichen.
 
-(2) Gegenstand der Sachkundeprüfung sind die in § 4 aufgeführten
+(2) Folgende Personen haben die Sachkundeprüfung abzulegen:
+
+1.  Personen, die das Bewachungsgewerbe nach § 34a Absatz 1 Satz 1 der
+    Gewerbeordnung als Selbständige ausüben wollen,
+
+
+2.  bei juristischen Personen die gesetzlichen Vertreter, soweit sie mit
+    der Durchführung von Bewachungsaufgaben direkt befasst sind,
+
+
+3.  die mit der Leitung des Gewerbebetriebs beauftragten Personen und
+
+
+4.  sonstige Personen, die mit der Durchführung von Bewachungsaufgaben
+    nach § 34a Absatz 1a Satz 2 der Gewerbeordnung beschäftigt werden.
+
+
+
+
+(3) Gegenstand der Sachkundeprüfung sind die in § 4 aufgeführten
 Sachgebiete; die Prüfung soll sich auf jedes der dort aufgeführten
 Gebiete erstrecken, wobei in der mündlichen Prüfung ein Schwerpunkt
-auf die in § 4 Nr. 1 und 5 genannten Gebiete zu legen ist.
+auf die in § 4 Satz 1 Nummer 1 und 5 genannten Gebiete zu legen ist.
 
 
 ### § 5b Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Abnahme der Sachkundeprüfung erfolgt durch Industrie- und
-Handelskammern.
+Handelskammern. Die Sachkundeprüfung kann bei jeder Industrie- und
+Handelskammer abgelegt werden, die diese Prüfung anbietet.
 
 (2) Für die Abnahme der Prüfung errichten Industrie- und
 Handelskammern Prüfungsausschüsse. Sie berufen die Mitglieder dieses
@@ -201,10 +201,28 @@ dauern.
 (3) Die Leistung des Prüflings ist von dem Prüfungsausschuss mit
 bestanden oder nicht bestanden zu bewerten.
 
-(4) Die Prüfung ist nicht öffentlich. Es können aber beauftragte
-Vertreter der Aufsichtsbehörden sowie Mitglieder eines anderen
-Prüfungsausschusses anwesend sein; sie dürfen nicht an der Beratung
-über das Prüfungsergebnis teilnehmen.
+(4) Die Prüfung ist nicht öffentlich. Jedoch können in der Prüfung
+folgende Personen anwesend sein:
+
+1.  beauftragte Vertreter der Aufsichtsbehörden,
+
+
+2.  Mitglieder eines anderen Prüfungsausschusses,
+
+
+3.  Vertreter der Industrie- und Handelskammern,
+
+
+4.  Personen, die beauftragt sind, die Qualität der Prüfungen zu
+    kontrollieren, oder
+
+
+5.  Personen, die in einen Prüfungsausschuss berufen werden.
+
+
+
+Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in
+die Beratung über das Prüfungsergebnis einbezogen werden.
 
 (5) Die Prüfungen dürfen wiederholt werden.
 
@@ -218,7 +236,7 @@ Satzungsform.
 
 ### § 5d Anerkennung anderer Nachweise
 
-Inhaber der in § 5 Abs. 1 Nr. 1 bis 3 angeführten Prüfungszeugnisse
+Inhaber der in § 5 Nummer 1 bis 3 angeführten Prüfungszeugnisse
 bedürfen nicht der Prüfung nach § 5a.
 
 
@@ -330,71 +348,32 @@ offenbaren.
 ### § 9 Beschäftigte
 
 (1) Der Gewerbetreibende darf mit Bewachungsaufgaben nur Personen
-beschäftigen,
+beschäftigen, die
 
-1.  die zuverlässig sind,
-
-
-2.  die das 18. Lebensjahr vollendet oder einen Abschluss nach § 5 Abs. 1
-    Nr. 1 bis 3 besitzen und
+1.  zuverlässig sind,
 
 
-3.  einen Unterrichtungsnachweis nach § 3 Abs. 2, ein Prüfungszeugnis nach
-    § 5 Abs. 1 oder eine Bescheinigung des früheren Gewerbetreibenden nach
-    § 17 Abs. 1 Satz 2 oder in den Fällen des § 34a Abs. 1 Satz 5 der
-    Gewerbeordnung ein Prüfungszeugnis nach § 5c Abs. 6 oder § 5 Abs. 1
-    Nr. 1 bis 3 vorlegen.
+2.  das 18. Lebensjahr vollendet haben oder einen Abschluss nach § 5
+    Nummer 1 bis 3 besitzen und
 
 
-
-Zur Überprüfung der Zuverlässigkeit holt die Behörde eine
-unbeschränkte Auskunft nach § 41 Abs. 1 Nr. 9 des
-Bundeszentralregistergesetzes ein; dies gilt entsprechend für die in §
-1 Abs. 2 Nr. 2 und 3 genannten Personen.
-
-(2) Die erforderliche Zuverlässigkeit besitzen in der Regel auch
-solche Personen nicht, die
-
-1.  Mitglied
-
-    a)  in einem Verein, der nach dem Vereinsgesetz als Organisation
-        unanfechtbar verboten wurde oder der einem unanfechtbaren
-        Betätigungsverbot nach dem Vereinsgesetz unterliegt oder
-
-
-    b)  in einer Partei, deren Verfassungswidrigkeit das
-        Bundesverfassungsgericht nach § 46 des
-        Bundesverfassungsgerichtsgesetzes festgestellt hat, waren, wenn seit
-        der Beendigung der Mitgliedschaft zehn Jahre noch nicht verstrichen
-        sind, oder
+3.  einen Unterrichtungsnachweis nach § 3 Absatz 2, ein Prüfungszeugnis
+    nach § 5 oder eine Bescheinigung eines früheren Gewerbetreibenden nach
+    § 17 Absatz 1 Satz 2 oder in den Fällen des § 34a Absatz 1a Satz 2 der
+    Gewerbeordnung ein Prüfungszeugnis nach § 5c Absatz 6 oder § 5
+    vorlegen.
 
 
 
 
-
-2.  einzeln oder als Mitglied einer Vereinigung Bestrebungen im Sinne des
-    § 3 Abs. 1 des Bundesverfassungsschutzgesetzes verfolgen oder in den
-    letzten fünf Jahren verfolgt haben.
-
-
-
-Zum Zwecke der Zuverlässigkeitsüberprüfung von Wachpersonen, die mit
-Schutzaufgaben im befriedeten Besitztum bei Objekten, von denen im
-Falle eines kriminellen Eingriffes eine besondere Gefahr für die
-Allgemeinheit ausgehen kann, beauftragt werden sollen, kann die
-zuständige Behörde deshalb zusätzlich bei der für den Sitz der Behörde
-zuständigen Landesbehörde für Verfassungsschutz die Abfrage des
-nachrichtendienstlichen Informationssystems veranlassen. Das gilt auch
-nach Aufnahme der Tätigkeit einer Wachperson. § 1 des
-Sicherheitsüberprüfungsgesetzes bleibt unberührt.
-
-(3) Der Gewerbetreibende hat die Wachpersonen, die er beschäftigen
-will, der zuständigen Behörde unter Übersendung der in Absatz 1 Satz 1
-genannten Unterlagen vorher zu melden. Er hat ihr für jedes
-Kalenderjahr Namen und Vornamen der bei ihm ausgeschiedenen
-Wachpersonen unter Angabe des Beschäftigungsbeginns bis zum 31. März
-des darauf folgenden Jahres zu melden. Die Sätze 1 und 2 gelten
-entsprechend für die in § 1 Abs. 2 Nr. 2 und 3 genannten Personen.
+(2) Der Gewerbetreibende hat die Wachpersonen, die er beschäftigen
+will, der zuständigen Behörde unter Übersendung der in Absatz 1
+genannten Unterlagen vor der Beschäftigung mit Bewachungsaufgaben zu
+melden. Er hat der Behörde außerdem für jedes Kalenderjahr Namen und
+Vornamen der bei ihm ausgeschiedenen Wachpersonen unter Angabe des
+Beschäftigungsbeginns bis zum 31. März des darauf folgenden Jahres zu
+melden. Die Sätze 1 und 2 sind entsprechend auf die in § 5a Absatz 2
+Nummer 2 und 3 genannten Personen anzuwenden.
 
 
 ### § 10 Dienstanweisung
@@ -412,8 +391,9 @@ Gewerbetreibenden anzuzeigen hat.
 
 (2) Der Gewerbetreibende hat der Wachperson einen Abdruck der
 Dienstanweisung sowie der Unfallverhütungsvorschrift Wach- und
-Sicherungsdienste (BGV C 7) einschließlich der dazu ergangenen
-Durchführungsanweisungen gegen Empfangsbescheinigung auszuhändigen.
+Sicherungsdienste (DGUV Vorschrift 23) einschließlich der dazu
+ergangenen Durchführungsanweisungen gegen Empfangsbescheinigung
+auszuhändigen.
 
 
 ### § 11 Ausweis
@@ -431,7 +411,13 @@ der Sätze 2 und 3 auszustellen. Der Ausweis muss enthalten:
 
 
 4.  Unterschriften der Wachperson sowie des Gewerbetreibenden, seines
-    Vertreters oder seines Bevollmächtigten.
+    Vertreters oder seines Bevollmächtigten,
+
+
+5.  Nummer des in der Bundesrepublik Deutschland oder einem EU-/EWR-Staat
+    ausgestellten Personalausweises, Reisepasses, Passersatzes oder
+    Ausweisersatzes oder Bezugnahme zu einem sonstigen amtlichen Ausweis-
+    oder Identifizierungsdokument.
 
 
 
@@ -441,14 +427,19 @@ Ausweisen deutlich unterscheidet.
 (2) Der Gewerbetreibende hat die Ausweise fortlaufend zu nummerieren
 und in ein Verzeichnis einzutragen.
 
-(3) Der Gewerbetreibende hat die Wachperson zu verpflichten, während
-des Wachdienstes den Ausweis mitzuführen und auf Verlangen den
-Beauftragten der zuständigen Behörde vorzuzeigen.
+(3) Wachpersonen sind verpflichtet, den Ausweis in Verbindung mit dem
+gemäß Absatz 1 Satz 2 Nummer 5 vorgeschriebenen Ausweis- oder
+Identifizierungsdokument während des Wachdienstes mitzuführen und auf
+Verlangen den Beauftragten der Vollzugsbehörden, zum Beispiel
+Ordnungsämter, Polizei- oder Zollbehörden, vorzuzeigen. Der Ausweis
+ist während des Wachdienstes sichtbar zu tragen. Dies gilt nicht für
+Wachpersonen, die Tätigkeiten nach § 34a Absatz 1a Satz 2 Nummer 2 der
+Gewerbeordnung ausüben.
 
-(4) Wachpersonen, die Tätigkeiten nach § 34a Abs. 1 Satz 5 Nr. 1 und 3
-der Gewerbeordnung ausüben, haben sichtbar ein Schild mit ihrem Namen
-oder einer Kennnummer sowie mit dem Namen des Gewerbetreibenden zu
-tragen.
+(4) Wachpersonen, die Tätigkeiten nach § 34a Absatz 1a Satz 2 Nummer 1
+und 3 bis 5 der Gewerbeordnung ausüben, haben sichtbar ein Schild mit
+ihrem Namen oder einer Kennnummer sowie mit dem Namen des
+Gewerbetreibenden zu tragen.
 
 
 ### § 12 Dienstkleidung
@@ -474,6 +465,31 @@ Wachdienst von Waffen Gebrauch gemacht, so hat der Gewerbetreibende
 dies unverzüglich der zuständigen Behörde und, falls noch keine
 Anzeige nach § 10 Abs. 1 Satz 3 erfolgt ist, der zuständigen
 Polizeidienststelle anzuzeigen.
+
+
+### § 13a Anzeigepflicht
+
+Der Gewerbetreibende hat der zuständigen Behörde unverzüglich nach
+Satz 3 anzuzeigen, welche Personen jeweils mit der Leitung des
+Betriebs oder einer Zweigniederlassung beauftragt sind. Dies gilt bei
+juristischen Personen auch für die nach Gesetz, Satzung oder
+Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der
+Anzeige ist für jede Person Folgendes anzugeben:
+
+1.  der Name, der Geburtsname, sofern dieser vom Namen abweicht, sowie der
+    Vorname,
+
+
+2.  die Staatsangehörigkeit oder die Staatsangehörigkeiten,
+
+
+3.  das Geburtsdatum und der Geburtsort sowie
+
+
+4.  ihre Anschrift.
+
+
+
 
 
 ### § 14 Buchführung und Aufbewahrung
@@ -518,9 +534,9 @@ sammeln:
 
 
 3.  Nachweise über die Zuverlässigkeit, Unterrichtungen und
-    Sachkundeprüfungen von Wachpersonen nach § 9 Abs. 1 Satz 1 sowie über
+    Sachkundeprüfungen von Wachpersonen nach § 9 Absatz 1 sowie über
     Meldungen von Wachpersonen, gesetzlichen Vertretern und
-    Betriebsleitern nach § 9 Abs. 3,
+    Betriebsleitern nach § 9 Absatz 2,
 
 
 4.  Dienstanweisung nach § 10 Abs. 1 Satz 1 und Empfangsbescheinigung nach
@@ -567,11 +583,13 @@ Belegen bleibt unberührt.
 
 ### § 15 Unterrichtung der Gewerbeämter
 
-In Strafsachen gegen die in § 1 Abs. 2 aufgeführten Personen sind,
-wenn der Tatvorwurf geeignet ist, Zweifel an der Eignung oder
-Zuverlässigkeit hervorzurufen, von den Staatsanwaltschaften und
-Gerichten folgende Informationen an die für die Überwachung des
-Bewachungsunternehmens zuständige Behörde zu richten:
+In Strafsachen gegen Gewerbetreibende im Sinne des § 34a Absatz 1 Satz
+1 der Gewerbeordnung und gegen Bewachungspersonal im Sinne des § 34a
+Absatz 1a Satz 1 der Gewerbeordnung sind, wenn der Tatvorwurf geeignet
+ist, Zweifel an der Eignung oder Zuverlässigkeit hervorzurufen, von
+den Staatsanwaltschaften und Gerichten folgende Informationen an die
+für die Überwachung des Bewachungsunternehmens zuständige Behörde zu
+richten:
 
 1.  der Erlass und der Vollzug eines Haft- oder Unterbringungsbefehls,
 
@@ -594,8 +612,8 @@ Bewachungsunternehmens zuständige Behörde zu richten:
 
 ### § 16 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 144 Abs. 2 Nr. 1 der Gewerbeordnung
-handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
+Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 6 Abs. 1 eine Haftpflichtversicherung nicht abschließt oder
     nicht aufrechterhält,
@@ -605,12 +623,12 @@ handelt, wer vorsätzlich oder fahrlässig
     nicht oder nicht in der vorgeschriebenen Weise verpflichtet,
 
 
-3.  entgegen § 9 Abs. 1 Satz 1 eine Person mit der Bewachung beschäftigt,
+3.  entgegen § 9 Absatz 1 eine Person mit der Bewachung beschäftigt,
 
 
-4.  entgegen § 9 Abs. 3 Satz 1 und 2, auch in Verbindung mit Satz 3, eine
-    Meldung nicht, nicht richtig, nicht vollständig, nicht in der
-    vorgeschriebenen Weise oder nicht rechtzeitig macht,
+4.  entgegen § 9 Absatz 2 Satz 1 oder Satz 2, jeweils auch in Verbindung
+    mit Satz 3, eine Meldung nicht, nicht richtig, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
 
 5.  entgegen § 10 Abs. 1 Satz 1 den Wachdienst nicht durch Dienstanweisung
@@ -621,8 +639,12 @@ handelt, wer vorsätzlich oder fahrlässig
     ausstellt,
 
 
-7.  entgegen § 11 Abs. 4 Satz 1 ein Schild nicht oder nicht in der
-    vorgeschriebenen Weise trägt,
+6a. entgegen § 11 Absatz 3 Satz 1 einen Ausweis nicht mitführt oder nicht
+    oder nicht rechtzeitig vorzeigt,
+
+
+7.  entgegen § 11 Absatz 3 Satz 2 oder Absatz 4 einen Ausweis oder ein
+    Schild nicht oder nicht in der vorgeschriebenen Weise trägt,
 
 
 8.  entgegen § 13 Abs. 1 Satz 2 die Rückgabe der Schusswaffen und der
@@ -633,12 +655,17 @@ handelt, wer vorsätzlich oder fahrlässig
     rechtzeitig erstattet,
 
 
-10. entgegen § 14 Abs. 1 Satz 1 oder 2 oder Abs. 2 eine Aufzeichnung
+10. entgegen § 13a Satz 1, auch in Verbindung mit Satz 2, eine Anzeige
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    erstattet,
+
+
+11. entgegen § 14 Abs. 1 Satz 1 oder 2 oder Abs. 2 eine Aufzeichnung
     nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
     Weise oder nicht rechtzeitig macht oder
 
 
-11. entgegen § 14 Abs. 4 eine Aufzeichnung, eine Unterlage oder einen
+12. entgegen § 14 Abs. 4 eine Aufzeichnung, eine Unterlage oder einen
     Beleg nicht oder nicht für die vorgeschriebene Dauer aufbewahrt.
 
 
@@ -660,34 +687,34 @@ begeht.
 
 ### § 17 Übergangsvorschrift
 
-(1) Personen im Sinne des § 1 Abs. 2 Nr. 1 bis 3, die am 1. Dezember
-1994 seit mindestens drei Jahren befugt das Bewachungsgewerbe ausgeübt
-haben oder als gesetzlicher Vertreter oder Betriebsleiter tätig waren,
-sowie Personen im Sinne der Nummer 4, die am 31. März 1996 in einem
-Bewachungsunternehmen beschäftigt waren, sind von der Unterrichtung
-befreit. Der Gewerbetreibende bescheinigt Personen im Sinne des § 1
-Abs. 2 Nr. 2 bis 4, dass sie die Voraussetzungen des Satzes 1
-erfüllen.
+(1) Personen im Sinne des § 34a Absatz 1a Satz 1 der Gewerbeordnung,
+die am 31. März 1996 in einem Bewachungsunternehmen beschäftigt waren,
+sind von der Unterrichtung befreit. Der Gewerbetreibende bescheinigt
+diesen Personen, dass sie die Voraussetzungen des Satzes 1 erfüllen.
 
-(2) Für Personen im Sinne von § 5a Abs. 1, die am 1. Januar 2003 seit
-mindestens drei Jahren befugt und ohne Unterbrechung im
-Bewachungsgewerbe tätig sind, gilt der Nachweis der Sachkundeprüfung
-als erbracht. Personen, die am 1. Januar 2003 weniger als drei Jahre
-im Bewachungsgewerbe tätig sind, haben den Nachweis einer erfolgreich
-abgelegten Sachkundeprüfung nach § 5a bis zum 1. Juli 2005 zu
-erbringen. Der Gewerbetreibende bescheinigt Personen im Sinne des § 1
-Abs. 2 Nr. 2 bis 4, dass sie die Voraussetzungen des Satzes 1
-erfüllen.
+(2) Für Personen im Sinne von § 5a Absatz 2 Nummer 4, die am 1. Januar
+2003 seit mindestens drei Jahren befugt und ohne Unterbrechung im
+Bewachungsgewerbe Tätigkeiten nach § 34a Absatz 1a Satz 2 Nummer 1 bis
+3 der Gewerbeordnung durchführen, gilt der Nachweis der
+Sachkundeprüfung als erbracht. Der Gewerbetreibende bescheinigt diesen
+Personen, dass sie die Voraussetzungen des Satzes 1 erfüllen.
+
+(3) Personen im Sinne des § 5a Absatz 2 Nummer 4, die am 1. Dezember
+2016 Tätigkeiten nach § 34a Absatz 1a Satz 2 Nummer 4 und 5 der
+Gewerbeordnung durchführen, müssen bis zum 30. November 2017 einen
+Sachkundenachweis erbringen.
 
 
 ### § 18 (Inkrafttreten, Außerkrafttreten)
 
 -
 
+(zu § 3 Abs. 2)
 
-### Anlage 1 (zu § 3 Abs. 2) Bescheinigung über die Unterrichtung nach § 34a Abs. 1 Satz 3 Nr. 3, Satz 4 Gewerbeordnung
+### Anlage 1 Bescheinigung über die Unterrichtung nach § 34a Absatz 1a Satz 2 Nummer 2 der Gewerbeordnung
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1384
+(Fundstelle: BGBl. I 2003, 1384; bzgl. einzelner Änderungen vgl.
+Fußnote)
 Herr
 Frau .................................................................
 ......
@@ -700,11 +727,6 @@ ist in der Zeit vom .................. bis
 .................................
 von der Industrie- und Handelskammer
 .......................................
-als
-- Selbständiger\*)
-- gesetzlicher Vertreter einer juristischen Person\*)
-- Betriebsleiter\*)
-- Unselbständiger\*)
 über die für die Ausübung des Gewerbes notwendigen rechtlichen
 Vorschriften unterrichtet worden und ist mit ihnen vertraut.
 Die Unterrichtung umfasste insbesondere die fachspezifischen
@@ -722,123 +744,14 @@ und Deeskalationstechniken in Konfliktsituationen,
 ......
 (Ort und Datum)
 (Unterschrift)
-------------
-\*) Nichtzutreffendes streichen.
 
 
-### Anlage 2 (zu § 4) Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungsgewerbetreibende (80 Unterrichtsstunden)
+### Anlage 2 (weggefallen)
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1385
 
+(zu § 4)
 
-1.  Recht der öffentlichen Sicherheit und Ordnung einschließlich
-    Gewerberecht und Datenschutzrecht
-
-    -   Aufgaben sowie Abgrenzung der Tätigkeit von Bewachungsunternehmen zu
-        den Aufgaben der Polizei- und Ordnungsbehörden
-
-
-    -   Pflichten der Unternehmer nach
-
-        o   §§ 14, 34a GewO
-
-
-        o   der Bewachungsverordnung
-
-
-        o   dem Bundesdatenschutzgesetz
-
-
-
-
-
-
-
-    insgesamt etwa 20 Unterrichtsstunden
-
-
-2.  Bürgerliches Gesetzbuch
-
-    -   Notwehr (§ 227 BGB), Notstand (§§ 228, 904 BGB), Selbsthilfe (§§ 229,
-        859 BGB), verbotene Eigenmacht (§ 858 BGB), Haftungs- und Deliktsrecht
-        (§§ 823ff. BGB), Eigentum und Besitz (§§ 903, 854 BGB), Schikaneverbot
-        (§ 226 BGB), wobei Abgrenzungsfragen zu den einschlägigen Vorschriften
-        des StGB (§§ 32 bis 35) aufgezeigt werden
-
-
-
-
-    insgesamt etwa 6 Unterrichtsstunden
-
-
-3.  Straf- und Verfahrensrecht einschließlich Umgang mit
-    Verteidigungswaffen
-
-    -   einzelne Straftatbestände (z.B. § 123, §§ 185ff., §§ 223ff., § 239, §
-        240, §§ 244ff. StGB)
-
-
-    -   vorläufige Festnahme (§ 127 StPO)
-
-
-    -   Umgang mit Verteidigungswaffen (Schusswaffen, Schlagstöcke, Sprays
-        usw.)
-
-
-
-
-    insgesamt etwa 10 Unterrichtsstunden
-
-
-4.  Unfallverhütungsvorschrift Wach- und Sicherungsdienste (BVG C 7)
-
-    insgesamt etwa 14 Unterrichtsstunden
-
-
-5.  Umgang mit Menschen, insbesondere Verhalten in Gefahrensituationen und
-    Deeskalationstechniken in Konfliktsituationen
-
-    -   Selbstwertgefühl (Voraussetzungen für richtigen Umgang mit sich selbst
-        und seinen Mitmenschen)
-
-
-    -   Übersteigerte Selbstwert-/Minderwertigkeitsgefühle (Ursachen und
-        Maßstabsverlust)
-
-
-    -   Konflikt/Stress (Entstehung, Konfliktebenen, schwierige Situationen,
-        Lösungshilfen)
-
-
-    -   Richtiges Ansprechen und Führung im Gespräch (Grundregeln für
-        richtiges/falsches Verhalten)
-
-
-
-
-    insgesamt etwa 20 Unterrichtsstunden
-
-
-6.  Grundzüge der Sicherheitstechnik
-
-    -   Mechanische Sicherungstechnik
-
-
-    -   Gefahrenmeldeanlagen; Alarmverfolgung
-
-
-    -   Brandschutz
-
-
-
-
-    insgesamt etwa 10 Unterrichtsstunden
-
-
-
-
-
-### Anlage 3 (zu § 4) Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungspersonal (40 Unterrichtsstunden)
+### Anlage 3 Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungspersonal (40 Unterrichtsstunden)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1386
 
@@ -894,7 +807,8 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1386
     insgesamt etwa 6 Unterrichtsstunden
 
 
-4.  Unfallverhütungsvorschrift Wach- und Sicherungsdienste (BVG C 7)
+4.  Unfallverhütungsvorschrift Wach- und Sicherungsdienste (DGUV
+    Vorschrift 23)
 
     insgesamt etwa 6 Unterrichtsstunden
 
@@ -916,6 +830,15 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1386
 
     -   richtiges Ansprechen und Führung im Gespräch (Grundregeln für
         richtiges/falsches Verhalten)
+
+
+    -   interkulturelle Kompetenz unter besonderer Beachtung der Diversität
+
+
+    -   Handlungskompetenz sowohl im Umgang mit als auch zum Schutz von
+        besonders schutzbedürftigen Geflüchteten (wie beispielsweise allein
+        reisende Frauen, Homosexuelle, transgeschlechtliche Personen, Menschen
+        mit Behinderung, Opfer schwerer Gewalt)
 
 
 
@@ -941,10 +864,12 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1386
 
 
 
+(zu § 5c Abs. 6)
 
-### Anlage 4 (zu § 5c Abs. 6) Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfung nach § 34a Abs. 1 Satz 5 der Gewerbeordnung
+### Anlage 4 Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfung nach § 34a Absatz 1 Satz 3 Nummer 3 und Absatz 1a Satz 2 der Gewerbeordnung
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1387
+(Fundstelle: BGBl. I 2003, 1387; bzgl. einzelner Änderungen vgl.
+Fußnote)
 Herr/Frau
 .....................................................................
 (Name und Vorname)
@@ -958,7 +883,8 @@ vor der Industrie- und Handelskammer
 ..........................................
 die Sachkundeprüfung für die Ausübung des Wach- und
 Sicherheitsgewerbes
-nach § 34a Abs. 1 Satz 5 der Gewerbeordnung erfolgreich abgelegt.
+nach § 34a Absatz 1 Satz 3 Nummer 3 und Absatz 1a Satz 2 der
+Gewerbeordnung erfolgreich abgelegt.
 Die Prüfung erstreckte sich insbesondere auf die fachspezifischen
 Pflichten und Befugnisse folgender Sachgebiete:
 1\.  Recht der öffentlichen Sicherheit und Ordnung einschließlich

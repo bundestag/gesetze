@@ -21,7 +21,7 @@ Fundstelle
 
 
 
-## Art 2 bis 5 -
+## Art 2 bis 5 - 
 
 
 
@@ -32,15 +32,15 @@ bewertungsrechtlicher und anderer steuerrechtlicher Vorschriften vom
 27\. Juli 1971 (BGBl. I S. 1157) gilt nicht für die Grunderwerbsteuer.
 
 
-## Art 7 -
+## Art 7 - 
 
 
 
-## Art 8 -
+## Art 8 - 
 
 
 
-## Art 9 -
+## Art 9 - 
 
 
 

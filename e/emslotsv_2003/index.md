@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: 2003, Nr 41, 3702
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.4.2008 BAnz. Nr. 64, 1511
+:   Art. 74 § 4 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -57,14 +57,10 @@ Binnentankschiffe.
 Sicherheit der Schifffahrt die Bereitstellung einheitlicher und
 ständiger Lotsendienste angeordnet ist.
 
-(6) Position des Lotsenschiffes ist die Position, auf der sich das
-Lotsenschiff tatsächlich befindet.
+(6) Schlechtwetterposition ist die Position, auf der die
+Lotsenversetzung infolge schlechten Wetters erfolgt.
 
-(7) Schlechtwetterposition des Lotsenschiffes ist die Position, auf
-die sich das Lotsenschiff infolge schlechten (schweren) Wetters
-zurückzieht.
-
-(8) Länge eines Schiffes im Sinne dieser Verordnung ist die Länge über
+(7) Länge eines Schiffes im Sinne dieser Verordnung ist die Länge über
 alles in Metern, gemessen von der Vorkante Vorsteven bis Achterkante
 Achtersteven einschließlich festen Anbauten. Breite eines Schiffes ist
 die Breite über alles in Metern (maximale Rumpfbreite des Schiffes
@@ -76,23 +72,24 @@ und Breite im Verhältnis 1:10 interpoliert werden. Dabei entsprechen
 m mehr Breite. Die in der jeweiligen Vorschrift genannten maximalen
 Obergrenzen dürfen nach dem Interpolieren nicht überschritten werden.
 Längen sind auf ganze Meter und Breiten auf ganze Dezimeter bis
-ausschließlich 0,5 abzurunden und ab 0,5 aufzurunden. Bei
+ausschließlich 0,5 abzurunden und ab 0,5 aufzurunden. Als Breite gilt
+die größte Breite einschließlich etwaiger Ladungsüberhänge. Bei
 Schleppverbänden ist die Summe der Längen von Schlepper und Anhang
-ohne Berücksichtigung der Länge der Schleppleine maßgeblich, als
-Breite gilt die größte Breite des Schleppverbandes einschließlich
-etwaiger Ladungsüberhänge.
+ohne Berücksichtigung der Länge der Schleppleine maßgeblich.
 
-(9) Landradarberatung ist die Beratung eines Schiffes durch Lotsen von
+(8) Landradarberatung ist die Beratung eines Schiffes durch Lotsen von
 einer Verkehrszentrale aus.
 
-(10) Typgleiches Schiff bedeutet ein in den Abmessungen und in den
+(9) Typgleiches Schiff bedeutet ein in den Abmessungen und in den
 Manövriereigenschaften vergleichbares und im Typ identisches Schiff.
 Hinsichtlich der Abmessungen ist eine Vergleichbarkeit gegeben, wenn
 die Abmessungen geringer sind oder die Länge nach oben nicht mehr als
 5 m und die Breite nach oben nicht mehr als 0,5 m differieren.
 
-(12) Schifffahrtspolizeibehörde im Sinne dieser Verordnung ist das
-Wasser- und Schifffahrtsamt Emden.
+(12) Schifffahrtspolizeibehörde im Sinne dieser Verordnung ist das von
+der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt
+oder Bundesanzeiger bekanntgemachte Wasserstraßen- und
+Schifffahrtsamt.
 
 
 ## § 2 Lotsenbrüderschaft
@@ -104,8 +101,7 @@ Lotsenbrüderschaft Emden zusammengeschlossenen Seelotsen.
 ## § 3 Lotsenstationen, Lotsenwechsel
 
 (1) Auf dem Seelotsrevier Ems bestehen Lotsenstationen in Emden und
-bei der Leuchttonne "Westerems". Darüber hinaus werden auch bei der
-Leuchttonne "GW/TG" Seelotsen versetzt und ausgeholt.
+auf Borkum.
 
 (2) Der Lotsenwechsel zwischen den Seelotsen für die Fahrtstrecken
 seewärts Emden und den Seelotsen für die Fahrtstrecken nach den
@@ -114,27 +110,31 @@ emsaufwärts gelegenen Seehäfen erfolgt im Bereich Emden-Reede.
 
 ## § 4 Lotsenversetzpositionen
 
-(1) Ist infolge schlechten Wetters ein Versetzen von Seelotsen auf der
-Position bei der Leuchttonne "Westerems" nicht möglich, so fährt das
-Lotsenschiff einkommenden Schiffen so lange voraus, bis der Seelotse
-versetzt werden kann. Beim Vorausfahren ist für die Führung des
-Lotsenschiffes der Kapitän und für die Beratung des nachfolgenden
-Schiffes der Seelotse verantwortlich. Lässt die Wetterlage ein
-Vorausfahren nicht zu, wird das Lotsenschiff auf die
-Schlechtwetterposition querab von Borkum verlegt.
+(1) Seelotsen werden im Bereich der Leuchttonne „Westerems“ (53° 39,3’
+Nord und 006° 16,3’ Ost) und im Bereich der Leuchttonne „GW/TG“
+versetzt und ausgeholt.
 
-(2) Seetankschiffe mit einer Länge ab 120 m oder einer Breite ab 19 m
+(2) Ist infolge schlechten Wetters ein Versetzen von Seelotsen im
+Bereich der Leuchttonne „Westerems“ nicht möglich, erfolgt dies auf
+der Schlechtwetterposition im Bereich querab von Borkum. Sofern es die
+Wetterlage zulässt, fährt das Lotsenversetzboot einkommenden Schiffen
+entgegen und begleitet diese, bis der Seelotse versetzt werden kann.
+Bei der Begleitung ist für die Führung des Lotsenversetzbootes dessen
+Schiffsführer und für die Beratung des begleiteten Schiffes der
+Seelotse verantwortlich.
+
+(3) Seetankschiffe mit einer Länge ab 120 m oder einer Breite ab 19 m
 können Seelotsen nur auf der Lotsenversetzposition bei der Leuchttonne
 "Westerems" übernehmen oder abgeben.
 
-(3) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken
+(4) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken
 binnenwärts der Lotsenversetzposition bei der Leuchttonne "GW/TG"
 verpflichtet sind, können Seelotsen nur auf dieser
 Lotsenversetzposition übernehmen oder abgeben.
 
-(4) Ist die Übernahme oder die Abgabe nach den Absätzen 2 und 3 im
+(5) Ist die Übernahme oder die Abgabe nach den Absätzen 3 und 4 im
 Ausnahmefall nicht möglich, kann der Führer des Schiffes mit der
-Lotsenstation die Übernahme oder Abgabe auf einer anderen Position
+Lotsenstation die Übergabe oder Abgabe auf einer anderen Position
 vereinbaren.
 
 
@@ -169,6 +169,15 @@ Emden anfordern.
     Hubschrauber oder Lotsenversetzschiff.
 
 
+7.  Bestimmungshafen,
+
+
+8.  letzter Abgangshafen,
+
+
+9.  den Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie.
+
+
 
 
 (3) Zeit und Empfänger der Lotsenanforderung bestimmen sich nach der
@@ -180,9 +189,10 @@ entsprechendes Fahrverhalten oder andere geeignete Manöver ermöglichen
 und erleichtern. Die Schiffsführung hat ein einwandfreies und sicheres
 Lotsengeschirr gemäß Kapitel V Regel 23 SOLAS auszubringen. Sie hat
 für eine ausreichende Überwachung des Lotsengeschirrs, für
-Hilfestellung beim Anbordkommen und Vonbordgehen und für die
+Hilfestellung beim an Bord kommen und von Bord gehen und für die
 Sicherheit des Seelotsen auf dem Weg zwischen Lotsengeschirr und der
-Brücke des Schiffes zu sorgen.
+Brücke des Schiffes sowie für geeignete UKW-Hörbereitschaft zum
+Versetzfahrzeug während des Versetzmanövers zu sorgen.
 
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
@@ -190,23 +200,24 @@ Brücke des Schiffes zu sorgen.
 (1) Führer von Seeschiffen sind zur Annahme eines Lotsen an Bord
 verpflichtet,
 
-1.  auf den Fahrtstrecken binnenwärts der Position des Lotsenschiffes, mit
-    Ausnahme der Emden-Reede, mit Seeschiffen mit einer Länge ab 90 m oder
-    einer Breite ab 13 m oder einem Tiefgang ab 6 m,
+1.  auf den Fahrtstrecken binnenwärts der Lotsenversetzposition
+    „Westerems“, mit Ausnahme der Emden-Reede, mit Seeschiffen mit einer
+    Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 6 m,
 
 
-2.  auf den Fahrtstrecken binnenwärts der Position des Lotsenschiffes mit
-    Seeschiffen mit einer Länger ab 90 m, einer Breite ab 13 m oder einem
-    Tiefgang ab 6 m, die in die Ems einlaufen, um lediglich auf einer
-    Reede Schutz zu suchen und nicht beabsichtigten, einen Hafen oder eine
-    Umschlagreede oder -stelle in der Emsmündung anzulaufen,
+2.  auf den Fahrtstrecken binnenwärts der Lotsenversetzposition
+    „Westerems“ mit Seeschiffen mit einer Länger ab 90 m, einer Breite ab
+    13 m oder einem Tiefgang ab 6 m, die in die Ems einlaufen, um
+    lediglich auf einer Reede Schutz zu suchen und nicht beabsichtigten,
+    einen Hafen oder eine Umschlagreede oder -stelle in der Emsmündung
+    anzulaufen,
 
 
-3.  wenn das Lotsenschiff auf der Schlechtwetterposition liegt, auslaufend
-    mit Seeschiffen mit einer Länge ab 170 m oder einer Breite ab 28 m
-    sowie Autotransporter und Ro-Ro-Schiffe mit einer Länge ab 140 m oder
-    Breite ab 23 m auf den Fahrtstrecken von Schlechtwetterposition bis
-    zur Lotsenversetzposition "Westerems".
+3.  wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt,
+    auslaufend mit Seeschiffen mit einer Länge ab 170 m oder einer Breite
+    ab 28 m sowie Autotransporter und Ro-Ro-Schiffe mit einer Länge ab 140
+    m oder Breite ab 23 m auf den Fahrtstrecken von Schlechtwetterposition
+    bis zur Lotsenversetzposition "Westerems".
 
 
 
@@ -214,18 +225,18 @@ verpflichtet,
 (2) Führer von Tankschiffen sind zur Annahme eines Lotsen an Bord
 verpflichtet,
 
-1.  auf den Fahrstrecken binnenwärts der Position des Lotsenschiffes, mit
-    Ausnahme der Emden-Reede, mit allen Tankschiffen,
+1.  auf den Fahrstrecken binnenwärts der Lotsenversetzposition „Westerems“
+    mit Ausnahme der Emden-Reede, mit allen Tankschiffen,
 
 
-2.  auf den Fahrtstrecken binnenwärts der Position des Lotsenschiffes mit
-    allen Tankschiffen, die in die Ems einlaufen, um auf einer Reede
-    Schutz zu suchen und nicht beabsichtigen, einen Hafen oder eine
-    Umschlagsreede oder -stelle in der Emsmündung anzulaufen,
+2.  auf den Fahrtstrecken binnenwärts der Lotsenversetzposition
+    „Westerems“ mit allen Tankschiffen, die in die Ems einlaufen, um auf
+    einer Reede Schutz zu suchen und nicht beabsichtigen, einen Hafen oder
+    eine Umschlagsreede oder -stelle in der Emsmündung anzulaufen,
 
 
 3.  auf den Fahrtstrecken zwischen der Lotsenversetzposition bei der
-    Leuchttonne "GW/TG" und der Position des Lotsenschiffes mit
+    Leuchttonne "GW/TG" und der Lotsenversetzposition „Westerems“ mit
     Tankschiffen mit einer Länge ab 150 m oder einer Breite ab 23 m.
 
 
@@ -306,11 +317,11 @@ ein typgleiches Schiff übertragen.
 (1) Führer von Seeschiffen können auf Antrag von der
 Schifffahrtspolizeibehörde von der Lotsenannahmepflicht befreit werden
 
-1.  auf einer Fahrtstrecke zwischen der Position des Lotsenschiffes und
-    Emden, wenn sie diese zuvor mit diesem Schiff innerhalb der letzten
-    zwölf Monate mindestens 24 mal unter Lotsenberatung an Bord befahren
-    haben und sie den Nachweis darüber durch eine Bescheinigung nach der
-    Anlage 2 erbringen,
+1.  auf einer Fahrtstrecke zwischen der Lotsenversetzposition „Westerems“
+    und Emden, wenn sie diese zuvor mit diesem Schiff innerhalb der
+    letzten zwölf Monate mindestens 24 mal unter Lotsenberatung an Bord
+    befahren haben und sie den Nachweis darüber durch eine Bescheinigung
+    nach der Anlage 2 erbringen,
 
 
 2.  sie in einer Prüfung vor der Schifffahrtspolizeibehörde ausreichende
@@ -491,10 +502,10 @@ die Gültigkeitsdauer und den Umfang der Befreiung.
 
 (6) Die Befreiung kann auf Antrag von der Schifffahrtspolizeibehörde
 um jeweils 12 Monate verlängert werden, wenn der Schiffsführer in den
-vorangegangenen 12 Monaten mit einem Schiff nach Absatz 1 Nr. 1 die
-Fahrtstrecke mindestens sechsmal oder mit demselben Schiff nach Abs. 1
-Nr. 2 Buchstabe a mindestens zwölfmal oder mit demselben Schiff nach
-Absatz 1 Nr. 2 Buchstabe b mindestens sechzehnmal befahren hat.
+vorangegangenen 12 Monaten mit einem Schiff nach Absatz 1 Nummer 1
+oder Absatz 1 Nummer 2 Buchstabe a die Fahrtstrecke mindestens
+sechsmal oder mit demselben Schiff nach Absatz 1 Nummer 2 Buchstabe b
+mindestens zwölfmal befahren hat.
 
 (7) Die Befreiung für den Führer eines See- oder Binnentankschiffes
 nach Absatz 1 kann auf Antrag bei der Schifffahrtspolizeibehörde auf
@@ -533,12 +544,11 @@ von der Lotsenannahmepflicht befreit sind, haben bei Sichtweiten unter
 Lotsenversetzposition "Westerems" die durch Lotsen erteilte
 Landradarberatung in Anspruch zu nehmen.
 
-(2) Wenn das Lotsenschiff auf der Schlechtwetterposition liegt und
-keine Beratung von Bord aus erfolgt, haben Führer von Fahrzeugen, die
-auf Grund des § 6 zur Annahme eines Bordlotsen verpflichtet sind, auf
-den Fahrstrecken zwischen Emden und der Lotsenversetzposition
-"Westerems" die durch Lotsen erteilte Landradarberatung in Anspruch zu
-nehmen.
+(2) Wenn das Versetzen der Lotsen auf der Schlechtwetterposition
+erfolgt, haben Führer von Fahrzeugen, die auf Grund des § 6 zur
+Annahme eines Bordlotsen verpflichtet sind, auf den Fahrtstrecken
+zwischen Emden und der Lotsenversetzposition „Westerems“ die durch
+Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
 
 (3) Über die Vorschriften der Absätze 1 und 2 hinaus kann auf den
 Fahrtstrecken zwischen Emden und der Lotsenversetzposition "Westerems"
@@ -655,8 +665,9 @@ handelt, wer vorsätzlich oder fahrlässig
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
+(zu § 5 Abs. 3)
 
-## Anlage 1 (zu § 5 Abs. 3) Ort und Anmeldung für die Lotsenanforderung
+## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
 
 Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
 
@@ -678,7 +689,7 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
     *   Lotsenversetzposition bei Leuchttonne "GW/TG"
 
     *   Mindestens 24 Stunden vor Erreichen der Lotsenversetzposition. 3
-        Stunden vor Erreichen der Lotsenversetzposition weitere Meldung.
+        Stunden vor Erreichen der weitere Meldung.
 
     *   Lotsenstation Emden (Emslotse Emden)
 
@@ -694,12 +705,12 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
 
 *    *   1.2
 
-    *   Außenstation des Lotsenschiffes bei der Leuchttonne "Westerems"
+    *   Lotsenversetzposition im Bereich der Leuchttonne „Westerems“
 
-    *   Mindestens zwölf Stunden vor Erreichen der Leuchttonne "Westerems".
-        Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen
-        weniger als zwölf Stunden, so muss die Anforderung des Seelotsen
-        unverzüglich nach der letzten Abfahrt erfolgen.
+    *   Mindestens 24 Std. sowie zwölf ­Stunden vor Erreichen der Leuchttonne
+        „Westerems“. Beträgt die ­Reisezeit von nahe gelegenen Häfen oder
+        Liegeplätzen weniger als zwölf Stunden, so muss die Anforderung des
+        Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.
 
     *   Lotsenstation Emden (Emslotse Emden)
 
@@ -707,10 +718,40 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
 *    *   Telefax: 0 49 21/3 29 19
 
 
-*    *   Telex: 27 882
+*    *   Telex: 2 78 82
 
 
 *    *   Telefon: 0 49 21/2 40 00
+
+
+*    *
+    *
+    *
+    *   E-Mail: pilotstation@emspilots.de
+
+
+*    *
+    *
+    *
+    *   Lotsenstation Borkum
+
+
+*    *
+    *
+    *
+    *   E-Mail: borkumstation@emspilots.de
+
+
+*    *
+    *
+    *
+    *   Telefax: 0 49 22/92 35 89 37
+
+
+*    *
+    *
+    *
+    *   Telefon: 0 49 22/92 35 89 36
 
 
 *    *   2.
@@ -732,10 +773,12 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
 
 
 
+   (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
+Bescheinigung
 
-## Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3) Bescheinigung zum Nachweis der Befreiung von der Lotsenannahmepflicht
+## Anlage 2 zum Nachweis der Befreiung von der Lotsenannahmepflicht \*)
 
-   Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1512
+Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1512
 Bescheinigung
 zum Nachweis der Voraussetzungen zur Befreiung von der
 Lotsenannahmepflicht \*)

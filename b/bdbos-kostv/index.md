@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 998
 
+V aufgeh. durch
+:   Art. 3 Abs. 2 G v. 18.7.2016 I 1666 mWv 1.10.2019
+
+Geändert durch
+:   Art. 2 Abs. 5 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 3 Abs. 3 G v. 7.8.2013 I 3154 mWv 14.8.2016, Art. 3 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2016
+
 
 ## Eingangsformel
 
@@ -31,8 +40,8 @@ Bundesministerium der Finanzen:
 
 Die Bundesanstalt für den Digitalfunk der Behörden und Organisationen
 mit Sicherheitsaufgaben (BDBOS) erhebt für die in § 15a des BDBOS-
-Gesetzes genannten Amtshandlungen Gebühren nach dem anliegenden
-Gebührenverzeichnis.
+Gesetzes genannten individuell zurechenbaren öffentlichen Leistungen
+Gebühren nach dem anliegenden Gebührenverzeichnis.
 
 
 ## § 2 Inkrafttreten
@@ -46,16 +55,18 @@ Amtshandlungen unter Hinweis auf das bevorstehende Inkrafttreten
 dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten
 ist.
 
+(zu § 1)
 
-## Anlage (zu § 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 999)
+bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 *    *   Gebühren-
         nummer
 
-    *   Gebührenpflichtige Amtshandlung
+    *   Gebührenpflichtige individuell zurechenbare öffentliche Leistung
 
     *   Gebühr in Euro
 

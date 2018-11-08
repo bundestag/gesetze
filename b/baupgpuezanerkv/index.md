@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 798
 
+Geändert durch
+:   Art. 6 G v. 5.12.2012 I 2449
+
 
 
 ## Eingangsformel
@@ -29,41 +32,8 @@ Raumordnung, Bauwesen und Städtebau:
 
 
 
-### § 1 Anwendungsbereich
+### § 1 (weggefallen)
 
-Diese Verordnung regelt die Voraussetzungen für die Anerkennung und
-das Verfahren der Anerkennung als
-
-1.  Prüfstelle für
-
-    a)  eine Brauchbarkeitsbeurteilung nach § 6 Abs. 4 Satz 3 des
-        Bauproduktengesetzes,
-
-
-    b)  einen Brauchbarkeitsnachweis nach § 9 Abs. 4 des Bauproduktengesetzes
-        und
-
-
-    c)  die Konformitätsnachweisverfahren nach § 8 Abs. 2 Satz 1 Nr. 2 bis 5
-        des Bauproduktengesetzes,
-
-
-
-
-
-2.  Überwachungsstelle für die Konformitätsnachweisverfahren nach § 8 Abs.
-    2 Satz 1 Nr. 7 und 8 des Bauproduktengesetzes und
-
-
-3.  Zertifizierungsstelle für Bestätigungen nach § 8 Abs. 2 Satz 3 des
-    Bauproduktengesetzes und Erteilung des Konformitätszertifikats nach §
-    10 des Bauproduktengesetzes.
-
-
-
-Sie enthält ferner Regelungen über die Rechte und Pflichten der
-anerkannten Prüf-, Überwachungs- und Zertifizierungsstellen (PÜZ-
-Stellen) und über den Widerruf und das Erlöschen von Anerkennungen.
 
 
 ### § 2 Begriffsbestimmungen
@@ -89,52 +59,14 @@ abschließende Bewertung der Ergebnisse von Prüf- oder
 
 ### § 3 Allgemeine Grundsätze und Voraussetzungen für die Anerkennung
 
-(1) Die Anerkennung als PÜZ-Stelle erfolgt für einzelne oder mehrere
-Bauprodukte, Produktbereiche oder Anforderungsbereiche.
-
-(2) Die Anerkennung als Prüfstelle kann auf Tätigkeiten im Rahmen des
-Konformitätsnachweisverfahrens (§ 1 Satz 1 Nr. 1 Buchstabe c) und der
-Brauchbarkeitsbeurteilung (§ 1 Satz 1 Nr. 1 Buchstabe a) beschränkt
-werden, wenn die Voraussetzungen zur Anerkennung als Prüfstelle im
-Rahmen des Brauchbarkeitsnachweises (§ 1 Satz 1 Nr. 1 Buchstabe b)
-nicht erfüllt sind. Die Anerkennung einer PÜZ-Stelle als Prüf- und
-Überwachungsstelle für das gleiche Produkt, den gleichen
-Produktbereich oder Anforderungsbereich ist zulässig, wenn die
-jeweiligen Anerkennungsvoraussetzungen erfüllt sind. Eine Anerkennung
-als Prüf- oder Überwachungsstelle und zugleich als
-Zertifizierungsstelle für das gleiche Produkt, den gleichen
-Produktbereich oder Anforderungsbereich ist zulässig, wenn die
-jeweiligen Anerkennungsvoraussetzungen erfüllt sind. Die
-Zertifizierungsstelle darf in diesem Fall ihre Ergebnisse als Prüf-
-oder Überwachungsstelle beurteilen und abschließend bewerten, sofern
-dies in der harmonisierten oder anerkannten Norm oder Leitlinie für
-die europäische technische Zulassung nicht ausgeschlossen ist.
-
-(3) Die Anerkennung kann erfolgen, wenn nach § 3 Abs. 1 Satz 2 des
-Bauproduktengesetzes für das Bauprodukt, den Produktbereich oder den
-Anforderungsbereich harmonisierte oder anerkannte Normen oder
-Leitlinien für die europäische technische Zulassung bekannt gemacht
-worden sind oder mit deren Bekanntmachung in absehbarer Zeit zu
-rechnen ist. Die Anerkennung kann auch erfolgen, wenn noch keine
-Normen oder Leitlinien nach Satz 1 vorliegen, die Kommission der
-Europäischen Gemeinschaften aber für das Bauprodukt, den
-Produktbereich oder Anforderungsbereich bereits eine Entscheidung über
-das anzuwendende Konformitätsnachweisverfahren getroffen hat und
-danach die Eignung der PÜZ-Stelle beurteilt werden kann. Die
-Anerkennung kann auch für Bauprodukte erfolgen, für die europäische
-technische Zulassungen ohne Leitlinien nach § 5 Abs. 4 Satz 2 in
-Verbindung mit § 6 Abs. 4 Satz 2 des Bauproduktengesetzes erteilt
-worden sind und diese die Einschaltung von entsprechenden PÜZ-Stellen
-vorsehen.
-
-(4) Die PÜZ-Stelle muß unparteilich, insbesondere hinsichtlich ihres
+(1) Die PÜZ-Stelle muß unparteilich, insbesondere hinsichtlich ihres
 technischen und bewertenden Urteils frei von wirtschaftlichen
 Einflüssen einzelner Hersteller sein. Entsprechendes gilt für den
 Leiter, seinen Stellvertreter und die leitenden Beschäftigten der PÜZ-
 Stelle. Die persönliche Zuverlässigkeit des Leiters der PÜZ-Stelle und
 seines Stellvertreters muß gegeben sein.
 
-(5) Die PÜZ-Stelle muß in der Lage sein, alle mit der anzuerkennenden
+(2) Die PÜZ-Stelle muß in der Lage sein, alle mit der anzuerkennenden
 Tätigkeit regelmäßig anfallenden Aufgaben mit eigenem Personal,
 eigenen Einrichtungen und Geräten durchzuführen. Unteraufträge sind
 nur an gleichfalls dafür anerkannte PÜZ-Stellen oder an solche PÜZ-
@@ -339,8 +271,9 @@ Bericht ist vom Leiter der Zertifizierungsstelle oder seinem
 Stellvertreter zu unterzeichnen. Der Bericht ist unabhängig von der
 Notwendigkeit eines Konformitätszertifikats zu erstellen.
 
+Antrag auf Anerkennung,
 
-## Abschnitt 3 - Antrag auf Anerkennung, Widerruf und Erlöschen
+## Abschnitt 3 - Widerruf und Erlöschen
 
 
 

@@ -388,8 +388,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kürschner/zur Kürschnerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kürschner/zur Kürschnerin
 
 (Fundstelle: BGBl. I 1997, 242 - 245)
 

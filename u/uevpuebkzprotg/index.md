@@ -3,7 +3,7 @@ Title: Gesetz zu dem Zusatzprotokoll vom 18. Dezember 1997 zum Übereinkommen ü
   die Überstellung verurteilter Personen
 jurabk: ÜvPÜbkZProtG
 layout: default
-origslug: _vp_bkzprotg
+origslug: uevpuebkzprotg
 slug: uevpuebkzprotg
 
 ---

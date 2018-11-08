@@ -1,7 +1,7 @@
 ---
 Title: Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes
   für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich
-  des Bundesministeriums des Innern
+  des Bundesministeriums des Innern, für Bau und Heimat
 jurabk: BMI-ArbSchGAnwV
 layout: default
 origslug: bmi-arbschganwv
@@ -9,7 +9,7 @@ slug: bmi-arbschganwv
 
 ---
 
-# Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums des Innern (BMI-ArbSchGAnwV)
+# Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat (BMI-ArbSchGAnwV)
 
 Ausfertigungsdatum
 :   2000-02-08
@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2000, 114
 
 Geändert durch
-:   Art. 87 G v. 21.6.2005 I 1818
+:   Art. 295 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -32,16 +32,17 @@ Sozialordnung:
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für den Geschäftsbereich des Bundesministeriums
-des Innern.
+des Innern, für Bau und Heimat.
 
 
 ## § 2 Pflichten des Dienstherrn
 
 Der Dienstherr ist verpflichtet, die erforderlichen Maßnahmen des
 Arbeitsschutzes für die Beschäftigten im Geschäftsbereich des
-Bundesministeriums des Innern auch dann zu treffen, wenn die Ausübung
-der in dieser Verordnung genannten Tätigkeiten nicht ohne ein
-Abweichen von Vorschriften des Arbeitsschutzgesetzes möglich ist.
+Bundesministeriums des Innern, für Bau und Heimat auch dann zu
+treffen, wenn die Ausübung der in dieser Verordnung genannten
+Tätigkeiten nicht ohne ein Abweichen von Vorschriften des
+Arbeitsschutzgesetzes möglich ist.
 
 
 ## § 3 Tätigkeiten

@@ -22,7 +22,7 @@ Fundstelle
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der
 Warenbezeichnungen vom 12. Mai 1894 (Reichsgesetzbl. S. 441) wird
 hierdurch bekanntgemacht, daß in Argentinien deutsche
-Warenbezeichnungen in gleichem Umfang wie inländische
-Warenbezeichnungen zum gesetzlichen Schutz zugelassen werden.
+Warenbezeichnungen in gleichem Umfange wie inländische
+Warenbezeichnungen zum gesetzlichen Schutze zugelassen werden.
 Der Reichskanzler
 

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 4490
 
 Zuletzt geändert durch
-:   Art. 12 G v. 12.4.2012 I 579
-
-Mittelbare änderung durch
-:   Art. 13 Abs. 17 Nr. 2 u. 3 G v. 12.4.2012 I 579 ist berücksichtigt
+:   Art. 23 G v. 12.6.2020 I 1248
 
 
 ## Eingangsformel
@@ -100,9 +97,8 @@ an die landwirtschaftliche Alterskasse.
 Die landwirtschaftliche Alterskasse bestimmt nach Anhörung der
 Vermittlungsstellen und des Bundesbeauftragten für den Datenschutz und
 die Informationsfreiheit im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales und dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz die Gestaltung des
-Anfragedatensatzes.
+Arbeit und Soziales und dem Bundesministerium für Ernährung und
+Landwirtschaft die Gestaltung des Anfragedatensatzes.
 
 
 ## § 7 Verfahren der Datenübermittlung
@@ -111,11 +107,7 @@ Anfragedatensatzes.
 
 (2) Werden Mängel festgestellt, die eine ordnungsgemäße Übernahme der
 Daten beeinträchtigen, kann die Übernahme der Daten abgelehnt werden.
-Der Absender ist über die festgestellten Mängel zu unterrichten. Die
-Angabe einer früheren Steuernummer im Anfragedatensatz ist kein
-Ablehnungsgrund; in diesem Fall wird die aktuelle Steuernummer, soweit
-die Vermittlungsstellen hierzu im Stande sind, mit dem
-Antwortdatensatz übermittelt.
+Der Absender ist über die festgestellten Mängel zu unterrichten.
 
 (3) Die in den folgenden Vorschriften genannten DIN-Normen sind vom
 Deutschen Institut für Normung e. V., Berlin, herausgegeben, bei der

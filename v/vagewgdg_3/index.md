@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1630 (3134)
 
+Geändert durch
+:   Art. 5 G v. 6.6.2017 I 1495
+
 Dieses Gesetz dient der Umsetzung
 
 -   der Richtlinie 92/49/EWG vom 18. Juni 1992 zur Koordinierung der
@@ -56,7 +59,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 15
+## Art 1 bis 15 - 
 
 
 
@@ -82,8 +85,8 @@ und 10a des Versicherungsaufsichtsgesetzes in der Fassung dieses
 Gesetzes keine Anwendung. Auf bis zum 31. Dezember 1994 unter
 Verwendung vor dem 29. Juli 1994 genehmigter allgemeiner
 Versicherungsbedingungen abgeschlossene Lebensversicherungsverträge
-sind die §§ 11c und 81c Abs. 2 des Versicherungsaufsichtsgesetzes
-anzuwenden.
+ist § 336 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl.
+I S. 334) in der jeweils geltenden Fassung anzuwenden.
 
 
 ## § 3

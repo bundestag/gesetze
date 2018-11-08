@@ -69,8 +69,7 @@ Der Bundesminister der Justiz
 ## Anlage 1
 
 (Fundstelle: BGBl. I 1966, 391 - 392)
-(Inhalt: nicht darstellbare Kennzeichen)
-
+![bgbl1_1966_j0391_0010.jpg](bgbl1_1966_j0391_0010.jpg)![bgbl1_1966_j0392_0010.jpg](bgbl1_1966_j0392_0010.jpg)
 
 ## Anlage 2
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 946
 
+Geändert durch
+:   Art. 3 V v. 8.10.2021 I 4640
+
 
 
 ## Eingangsformel
@@ -214,14 +217,12 @@ Anwendung:
     entsprechend § 5 der Wahlordnung.
 
 
+5.
+    a)  Abweichend von § 6 Abs. 1 der Wahlordnung erfolgt die Wahl aufgrund
+        von Vorschlagslisten auch dann, wenn im Fall der Gruppenwahl mehrere
+        Vertreter zu wählen sind.
 
-5\.
-a)
-Abweichend von § 6 Abs. 1 der Wahlordnung erfolgt die Wahl aufgrund
-von Vorschlagslisten auch dann, wenn im Fall der Gruppenwahl mehrere
-Vertreter zu wählen sind.
 
-*
     b)  Beschließen die wahlberechtigten Angehörigen beider Gruppen nach
         Erlass des Wahlausschreibens, aber vor Ablauf der in § 6 Abs. 1 Satz 2
         der Wahlordnung genannten Frist, die gemeinsame Wahl (§ 26 Nr. 3 Satz
@@ -260,9 +261,9 @@ Vertreter zu wählen sind.
 
 7.  Ergänzend zu § 11 Abs. 2 Satz 1 der Wahlordnung ist die Gruppe
     anzugeben, der die an erster Stelle benannten Bewerberinnen oder
-    Bewerber angehören. § 11 Abs. 2 Satz 2 und 3 der Wahlordnung gilt
-    entsprechend für die Stimmzettel und die Wahlumschläge, die für eine
-    Gruppe Verwendung finden.
+    Bewerber angehören. § 11 Abs. 2 Satz 2 der Wahlordnung gilt
+    entsprechend für die Stimmzettel, die für eine Gruppe Verwendung
+    finden.
 
 
 8.  Die Stimmabgabe nach § 12 der Wahlordnung erfolgt nach Gruppen
@@ -398,8 +399,8 @@ Vertreter zu wählen sind.
 
 11. Abweichend von § 16 Abs. 1 Nr. 1 der Wahlordnung ist bei Gruppenwahl
     in der Niederschrift die Gesamtzahl der von jeder Gruppe abgegebenen
-    Wahlumschläge und die Zahl der für jede Gruppe abgegebenen gültigen
-    Stimmen festzustellen.
+    Stimmen und die Zahl der für jede Gruppe abgegebenen gültigen Stimmen
+    festzustellen.
 
 
 12. § 17 Abs. 2 der Wahlordnung gilt für die jeweilige Gruppe
@@ -504,6 +505,10 @@ Vertreter zu wählen sind.
 
 
 
+
+
+17a. § 24 Absatz 1 Satz 2 der Wahlordnung gilt entsprechend für die
+    Wahlumschläge, die für eine Gruppe Verwendung finden.
 
 
 18. Die Vorschriften über das vereinfachte Wahlverfahren (§§ 28 bis 37

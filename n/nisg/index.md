@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2433
 
-Geändert durch
-:   Art. 7 G v. 11.8.2010 I 1163
+Zuletzt geändert durch
+:   Art. 9a G v. 28.4.2020 I 960
+
+Mittelbare änderung durch
+:   Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 ist berücksichtigt
 
 [^f1.772363_01_BJNR243310009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -60,9 +63,9 @@ können. Es gilt für
 
 
 
-(3) Die Vorschriften des Arbeitsschutzgesetzes, des
-Medizinproduktegesetzes und die auf diese Gesetze gestützten
-Rechtsverordnungen bleiben unberührt.
+(3) Die Vorschriften des Arbeitsschutzgesetzes und die auf dieses
+Gesetz gestützten Rechtsverordnungen sowie die Vorschriften des
+Medizinprodukterechts bleiben unberührt.
 
 
 ## § 2 Schutz in der Medizin
@@ -206,9 +209,10 @@ Anlagen nach § 3 bestimmten Anforderungen genügen muss, insbesondere
 (1) Die zuständige Behörde kann zur Überwachung der Einhaltung der
 Vorschriften dieses Gesetzes und der auf § 5 gestützten
 Rechtsverordnungen Anlagen oder deren Betrieb überprüfen. § 52 Absatz
-1 bis 3 und 5 bis 7 des Bundes-Immissionsschutzgesetzes gilt
-entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung
-(Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+1 Satz 1 bis 3, Absatz 2, 3 und 5 bis 7 des Bundes-
+Immissionsschutzgesetzes gilt entsprechend. Das Grundrecht der
+Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
+insoweit eingeschränkt.
 
 (2) Die zuständige Behörde kann diejenigen Anordnungen treffen, die
 erforderlich sind, um die Vorschriften dieses Gesetzes und der auf § 5

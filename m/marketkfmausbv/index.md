@@ -393,8 +393,11 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Marketingkommunikation/zur Kauffrau für Marketingkommunikation - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 811 - 815)
 
@@ -1102,8 +1105,11 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Marketingkommunikation/zur Kauffrau für Marketingkommunikation - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 816 - 817)
 

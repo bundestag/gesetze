@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2457
 
+Zuletzt geändert durch
+:   Art. 153 V v. 19.6.2020 I 1328
+
 
 ## § 1 Zweck des Gesetzes
 
@@ -139,7 +142,7 @@ insoweit sicherstellen kann, dass
 
 Das Nähere wird in einer Verwaltungsvorschrift geregelt, die vom
 zuständigen Bundesministerium im Einvernehmen mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
+Bundesministerium des Innern, für Bau und Heimat und dem
 Bundesministerium der Finanzen nach Anhörung des Bundesrechnungshofes
 erlassen wird.
 

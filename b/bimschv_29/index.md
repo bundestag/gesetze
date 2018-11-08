@@ -156,7 +156,7 @@ Der Bundesrat hat zugestimmt.
     *   Änderungen ohne Gutachten für mehrere Genehmigungen gleichzeitig auf
         Grund desselben Sachverhalts
 
-    *   Gebühr nach Gebührennummer 2.1 (einmalig) zzgl. 19,- DM pro weiterer
+    *   Gebühr nach Gebührennummer 2.1 (einmalig) zzgl. 19,- Euro pro weiterer
         Änderung
 
 

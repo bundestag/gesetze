@@ -18,6 +18,15 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 11.1.2005 I 90
 
+Zuletzt geändert durch
+:   Art. 4 G v. 19.11.2020 I 2456
+
+Änderung durch
+:   Art. 25 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 V v. 14.9.2021 I 4250 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Grundlagen der Anstalt
 
@@ -161,7 +170,7 @@ zu und veröffentlicht ihn.
 
 #### § 5 Programmgrundsätze
 
-(1) Die Deutsche Welle hat in ihren Sendungen die Würde des Menschen
+(1) Die Deutsche Welle hat in ihren Angeboten die Würde des Menschen
 zu achten und zu schützen. Die Vorschriften der allgemeinen Gesetze,
 die gesetzlichen Bestimmungen zum Schutz der Jugend und zur
 Gleichberechtigung von Frauen und Männern sowie des Rechts der
@@ -230,8 +239,8 @@ unzulässig, wenn sie
 
 
 
-Im Fall der Nummer 2 gilt § 131 Abs. 3 des Strafgesetzbuches
-entsprechend. Im Fall der Nummer 3 gilt § 86 Abs. 3 des
+Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches
+entsprechend. Im Fall der Nummer 3 gilt § 86 Absatz 4 des
 Strafgesetzbuches entsprechend.
 
 (2) Nach Aufnahme des Angebotes in die Liste nach § 18 des
@@ -267,7 +276,13 @@ nach § 14 Abs. 2 des Jugendschutzgesetzes unter 12 Jahren nicht
 freigegeben sind, ist bei der Wahl der Sendezeit dem Wohl jüngerer
 Kinder Rechnung zu tragen.
 
-(4) Für Sendungen, die Sendezeitbeschränkungen unterliegen, dürfen
+(4) Die Deutsche Welle hat den Nutzern ausreichende Informationen über
+Inhalte zu geben, die die körperliche, geistige oder sittliche
+Entwicklung von Kindern oder Jugendlichen beeinträchtigen können.
+Hierzu nutzt sie ein System, mit dem die potentielle Schädlichkeit der
+Angebote beschrieben wird.
+
+(5) Für Sendungen, die Sendezeitbeschränkungen unterliegen, dürfen
 Programmankündigungen mit Bewegtbildern nur zu den in Absatz 3
 genannten Zeiten ausgestrahlt werden. Sendungen, für die eine
 entwicklungsbeeinträchtigende Wirkung auf Kinder oder Jugendliche
@@ -276,33 +291,33 @@ angekündigt oder durch optische Mittel während der gesamten Sendung
 als ungeeignet für die entsprechende Altersstufe kenntlich gemacht
 werden.
 
-(5) Die Deutsche Welle kann in Richtlinien oder für den Einzelfall für
+(6) Die Deutsche Welle kann in Richtlinien oder für den Einzelfall für
 Filme, auf die das Jugendschutzgesetz keine Anwendung findet,
 zeitliche Beschränkungen vorsehen, um den Besonderheiten der
 Ausstrahlung von Filmen im Fernsehen, vor allem bei Fernsehserien,
 gerecht zu werden.
 
-(6) Für sonstige Sendeformate kann die Deutsche Welle im Einzelfall
+(7) Für sonstige Sendeformate kann die Deutsche Welle im Einzelfall
 zeitliche Beschränkungen vorsehen, wenn deren Ausgestaltung nach
 Thema, Themenbehandlung, Gestaltung oder Präsentation in einer
 Gesamtbewertung geeignet ist, Kinder oder Jugendliche in ihrer
 Entwicklung und Erziehung zu beeinträchtigen.
 
-(7) Für Sendungen, die ausschließlich oder überwiegend für
+(8) Für Sendungen, die ausschließlich oder überwiegend für
 außereuropäische Länder bestimmt sind, richten sich die nach den
 Absätzen 3 bis 6 maßgebenden Zeitgrenzen nach der Ortszeit in allen
 Teilen der Zielländer.
 
-(8) Auf Antrag des Intendanten kann der Rundfunkrat der Deutschen
+(9) Auf Antrag des Intendanten kann der Rundfunkrat der Deutschen
 Welle von der Vermutung nach Absatz 2 abweichen. Dies gilt
 insbesondere für Angebote, deren Bewertung länger als 15 Jahre
 zurückliegt. Die obersten Landesjugendbehörden sind von der
 abweichenden Bewertung zu unterrichten.
 
-(9) Absatz 1 gilt nicht für Nachrichtensendungen, Sendungen zum
-politischen Zeitgeschehen im Rundfunk und vergleichbare Angebote bei
-Telemedien, soweit ein berechtigtes Interesse gerade an dieser Form
-der Darstellung oder Berichterstattung vorliegt.
+(10) Die Absätze 1 und 4 gelten nicht für Nachrichtensendungen,
+Sendungen zum politischen Zeitgeschehen im Rundfunk und vergleichbare
+Angebote bei Telemedien, soweit ein berechtigtes Interesse gerade an
+dieser Form der Darstellung oder Berichterstattung vorliegt.
 
 
 #### § 7 Jugendschutzbeauftragte/Jugendschutzbeauftragter
@@ -335,19 +350,33 @@ bundesweit veranstalteter Fernsehprogramme in einen regelmäßigen
 Erfahrungsaustausch eintreten.
 
 
+#### § 7a Barrierefreiheit
+
+(1) Die Deutsche Welle wird im Rahmen ihrer technischen und
+finanziellen Möglichkeiten stetig und schrittweise weitere
+barrierefreie Angebote für Menschen mit Behinderungen zur Verfügung
+stellen.
+
+(2) Die Deutsche Welle erstattet dem Rundfunkrat alle drei Jahre,
+beginnend mit dem 1. November 2022, Bericht über die im Bereich
+Barrierefreiheit getroffenen Maßnahmen und leitet diesen der für
+Kultur und Medien zuständigen obersten Bundesbehörde zu. Diese
+übermittelt die Berichte anschließend der Europäischen Kommission.
+
+
 ### Unterabschnitt 3 - Erfüllung der Aufgaben
 
 
 
 #### § 8 Zusammenarbeit mit Dritten
 
-(1) Die Deutsche Welle arbeitet zur Herstellung ihrer Sendungen mit
-öffentlich-rechtlichen Rundfunkanstalten im In- und Ausland eng
-zusammen. Die Deutsche Welle soll insbesondere mit den
-Landesrundfunkanstalten der ARD und mit dem ZDF zusammenarbeiten. Sie
-kann bei ihrer Programmgestaltung Sendungen der öffentlich-rechtlichen
-Rundfunkanstalten der Länder verwenden und ihnen ihre Sendungen für
-eine Programmübernahme überlassen.
+(1) Die Deutsche Welle arbeitet zur Erfüllung ihrer Aufgabe und zur
+Erreichung ihrer Ziele mit öffentlich-rechtlichen Rundfunkanstalten im
+In- und Ausland eng zusammen. Die Zusammenarbeit mit den inländischen
+öffentlich-rechtlichen Rundfunkanstalten regelt sie in öffentlich-
+rechtlichen Verträgen. Sie kann bei ihrer Programmgestaltung Sendungen
+der öffentlich-rechtlichen Rundfunkanstalten der Länder verwenden und
+ihnen ihre Sendungen für eine Programmübernahme überlassen.
 
 (2) Die Deutsche Welle kann zur Herstellung und wirtschaftlichen
 Verwertung von Rundfunkproduktionen mit anderen Rundfunkveranstaltern
@@ -390,7 +419,11 @@ Raum und zur Förderung von europäischen Film- und Fernsehproduktionen
 soll die Deutsche Welle den Hauptanteil ihrer insgesamt für
 Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und
 vergleichbare Produktionen vorgesehenen Sendezeit europäischen Werken
-entsprechend dem europäischen Recht vorbehalten.
+entsprechend dem europäischen Recht vorbehalten. Die Deutsche Welle
+stellt in ihrem Angebot audiovisueller Mediendienste auf Abruf im
+Sinne des § 2 Satz 1 Nummer 8 des Telemediengesetzes sicher, dass der
+Anteil europäischer Werke mindestens 30 Prozent entspricht und solche
+Werke herausgestellt werden.
 
 (3) Die Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und
 vergleichbaren Produktionen der Deutschen Welle sollen jeweils einen
@@ -413,16 +446,49 @@ dieses Gesetzes, insbesondere der §§ 4 bis 6, entsprechen.
 
 #### § 10 Werbung
 
-(1) Werbung darf nicht irreführen, den Interessen der Verbraucher
+(1) Werbung ist jede Äußerung, die der unmittelbaren oder mittelbaren
+Förderung des Absatzes von Waren und Dienstleistungen, einschließlich
+unbeweglicher Sachen, Rechte und Verpflichtungen, oder des
+Erscheinungsbilds natürlicher oder juristischer Personen, die einer
+wirtschaftlichen Tätigkeit nachgehen, dient und gegen Entgelt oder
+eine ähnliche Gegenleistung oder als Eigenwerbung im Rundfunk oder in
+einem Telemedium aufgenommen ist. Werbung ist insbesondere
+Rundfunkwerbung, Sponsern und Produktplatzierung.
+
+(2) Werbung darf nicht die Menschenwürde verletzen oder
+Diskriminierungen aufgrund von Geschlecht, Rasse oder ethnischer
+Herkunft, Staatsangehörigkeit, Religion oder Glauben, Behinderung,
+Alter oder sexueller Orientierung beinhalten oder fördern.
+
+(3) Werbung darf nicht irreführen, den Interessen der Verbraucher
 nicht schaden und nicht Verhaltensweisen fördern, die die Gesundheit
 oder Sicherheit der Verbraucher sowie den Schutz der Umwelt gefährden.
 Werbung darf Kindern und Jugendlichen weder körperlichen noch
 seelischen Schaden zufügen. Werbung, die sich auch an Kinder oder
 Jugendliche richtet oder bei der Kinder oder Jugendliche eingesetzt
 werden, darf nicht ihren Interessen schaden oder ihre Unerfahrenheit
-ausnutzen.
+ausnutzen. Werbung darf daher nicht
 
-(2) Die Werbung für alkoholische Getränke muss folgenden Kriterien
+1.  direkte Aufrufe zum Kauf oder zur Miete von Waren oder
+    Dienstleistungen an Kinder oder Jugendliche enthalten, die deren
+    Unerfahrenheit und Leichtgläubigkeit ausnutzen,
+
+
+2.  Kinder oder Jugendliche unmittelbar dazu auffordern, ihre Eltern oder
+    Dritte zum Kauf der beworbenen Waren oder Dienstleistungen zu bewegen,
+
+
+3.  das besondere Vertrauen ausnutzen, das Kinder oder Jugendliche zu
+    Eltern, Lehrern und anderen Personen haben oder
+
+
+4.  Kinder oder Jugendliche ohne berechtigten Grund in gefährlichen
+    Situationen zeigen.
+
+
+
+
+(4) Die Werbung für alkoholische Getränke muss folgenden Kriterien
 entsprechen:
 
 a)  Sie darf sich weder an Kinder oder Jugendliche richten noch durch die
@@ -453,13 +519,10 @@ f)  Die Höhe des Alkoholgehalts von Getränken darf nicht als positive
 
 
 
-(2a) Bei Werbung für Tabakerzeugnisse in Telemedien gilt Absatz 2
-Buchstabe a entsprechend.
-
-(3) Werbung oder Werbetreibende dürfen das übrige Programm inhaltlich
+(5) Werbung oder Werbetreibende dürfen das übrige Programm inhaltlich
 und redaktionell nicht beeinflussen.
 
-(4) Werbung muss als solche klar erkennbar sein. Sie muss im Fernsehen
+(6) Werbung muss als solche klar erkennbar sein. Sie muss im Fernsehen
 durch optische und im Hörfunk durch akustische Mittel eindeutig von
 anderen Programmteilen getrennt sein. In der Werbung dürfen
 unterschwellige Techniken nicht eingesetzt werden. Eine Teilbelegung
@@ -468,15 +531,16 @@ vom übrigen Programm eindeutig optisch getrennt und als solche
 gekennzeichnet ist. Im Rahmen der Zusammenarbeit der Deutschen Welle
 mit den ARD-Landesrundfunkanstalten und dem ZDF ist von den
 Landesrundfunkanstalten übernommene, nachträglich in das Bild
-eingegebene oder veränderte Werbung zulässig.
+eingegebene oder veränderte Werbung zulässig. Entsprechendes gilt für
+die Übernahme von in Sendungen enthaltenen Produktplatzierungen.
 
-(5) Dauerwerbesendungen sind zulässig, wenn der Werbecharakter
+(7) Dauerwerbesendungen sind zulässig, wenn der Werbecharakter
 erkennbar im Vordergrund steht und die Werbung einen wesentlichen
 Bestandteil der Sendung darstellt. Sie müssen zu Beginn als
 Dauerwerbesendung angekündigt und während ihres gesamten Verlaufs als
 solche gekennzeichnet werden.
 
-(6) Schleichwerbung ist unzulässig. Schleichwerbung ist die Erwähnung
+(8) Schleichwerbung ist unzulässig. Schleichwerbung ist die Erwähnung
 oder Darstellung von Waren, Dienstleistungen, Namen, Marken oder
 Tätigkeiten eines Herstellers von Waren oder eines Erbringers von
 Dienstleistungen in Programmen, wenn sie zu Werbezwecken vorgesehen
@@ -485,20 +549,20 @@ Erwähnung oder Darstellung irreführen kann. Eine Erwähnung oder
 Darstellung gilt insbesondere dann als zu Werbezwecken vorgesehen,
 wenn sie gegen Entgelt oder eine sonstige Gegenleistung erfolgt.
 
-(7) In der Fernsehwerbung dürfen keine Personen auftreten, die
+(9) In der Fernsehwerbung dürfen keine Personen auftreten, die
 regelmäßig Nachrichtensendungen oder Sendungen zum politischen
 Zeitgeschehen vorstellen.
 
-(8) Werbung politischer, weltanschaulicher oder religiöser Art ist
+(10) Werbung politischer, weltanschaulicher oder religiöser Art ist
 unzulässig. § 17 bleibt unberührt.
 
-(9) Übertragungen von Gottesdiensten sowie Sendungen für Kinder dürfen
-nicht durch Werbung unterbrochen werden.
+(11) Übertragungen von Gottesdiensten sowie Sendungen für Kinder
+dürfen nicht durch Werbung unterbrochen werden.
 
-(10) Fernsehwerbung ist in Blöcken und zwischen einzelnen Sendungen
+(12) Fernsehwerbung ist in Blöcken und zwischen einzelnen Sendungen
 einzufügen.
 
-(11) Richtet sich die Werbung in einem Fernsehprogramm eigens und
+(13) Richtet sich die Werbung in einem Fernsehprogramm eigens und
 häufig an Zuschauer eines anderen Staates, der das Europäische
 Übereinkommen über das grenzüberschreitende Fernsehen ratifiziert hat
 und nicht Mitglied der Europäischen Gemeinschaft ist, so dürfen die
@@ -506,7 +570,7 @@ für die Fernsehwerbung dort geltenden strengeren Vorschriften nicht
 umgangen werden. Satz 1 gilt nicht, wenn mit dem betroffenen Staat
 Übereinkünfte auf diesem Gebiet geschlossen wurden.
 
-(12) Die Gesamtdauer der Werbung beträgt im Fernsehprogramm der
+(14) Die Gesamtdauer der Werbung beträgt im Fernsehprogramm der
 Deutschen Welle höchstens 20 Minuten werktäglich im
 Jahresdurchschnitt. Nicht vollständig genutzte Werbezeit darf
 höchstens bis zu fünf Minuten werktäglich nachgeholt werden. Bei
@@ -515,50 +579,46 @@ Werbeanteil zulässig. Die Dauer der Spot-Werbung im Fernsehen darf
 innerhalb eines Zeitraums von einer Stunde 20 vom Hundert nicht
 überschreiten.
 
-(13) Werbesendungen in Form von direkten Angeboten an die
+(15) Werbesendungen in Form von direkten Angeboten an die
 Öffentlichkeit für den Verkauf, den Kauf oder den Abschluss eines
 Miet- oder Pachtvertrages über Erzeugnisse oder die Erbringung von
 Dienstleistungen (Fernseheinkauf) sind unzulässig.
 
-(14) Zur Durchführung der Absätze 1 bis 13 erlässt der Rundfunkrat
+(16) Zur Durchführung der Absätze 2 bis 15 erlässt der Rundfunkrat
 Richtlinien.
 
 
 #### § 11 Sponsern
 
 (1) Sponsern ist der Beitrag einer natürlichen oder juristischen
-Person oder einer Personenvereinigung, die an Rundfunktätigkeiten oder
-an der Produktion audiovisueller Werke nicht beteiligt ist, zur
-direkten oder indirekten Finanzierung einer Sendung, um den Namen, die
+Person oder einer Personenvereinigung, die an Rundfunktätigkeiten, an
+der Bereitstellung von Telemedien oder an der Produktion
+audiovisueller Werke nicht beteiligt ist, zur direkten oder indirekten
+Finanzierung von Telemedien oder einer Sendung, um den Namen, die
 Marke, das Erscheinungsbild der Person, ihre Tätigkeit oder ihre
 Leistungen zu fördern.
 
-(2) Bei Sendungen, die ganz oder teilweise gesponsert werden, muss zu
+(2) Bei Angeboten, die ganz oder teilweise gesponsert werden, muss zu
 Beginn und am Ende auf die Finanzierung durch den Sponsor in
 vertretbarer Kürze deutlich hingewiesen werden; der Hinweis ist in
 diesem Rahmen auch durch Bewegtbild möglich. Neben oder an Stelle des
 Namens des Sponsors kann auch dessen Firmenemblem oder eine Marke
 eingeblendet werden.
 
-(3) Inhalt und Programmplatz einer gesponserten Sendung dürfen vom
+(3) Inhalt und Programmplatz eines gesponserten Angebots dürfen vom
 Sponsor nicht in der Weise beeinflusst werden, dass die Verantwortung
 und die redaktionelle Unabhängigkeit der Deutschen Welle
 beeinträchtigt werden.
 
-(4) Gesponserte Sendungen dürfen nicht zum Verkauf, zum Kauf oder zum
+(4) Gesponserte Angebote dürfen nicht zum Verkauf, zum Kauf oder zum
 Abschluss eines Miet- oder Pachtvertrags über Erzeugnisse oder
 Dienstleistungen des Sponsors oder eines Dritten, vor allem durch
 entsprechende besondere Hinweise, anregen.
 
-(5) Wer nach gesetzlichen Bestimmungen nicht werben darf oder wer
-überwiegend Produkte herstellt oder verkauft oder wer Dienstleistungen
-erbringt, für die Werbung nach gesetzlichen Bestimmungen verboten ist,
-darf Sendungen nicht sponsern.
-
-(6) Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen
+(5) Nachrichtensendungen und Angebote zum politischen Zeitgeschehen
 dürfen nicht gesponsert werden.
 
-(7) Zur Durchführung der Absätze 1 bis 6 erlässt der Rundfunkrat
+(6) Zur Durchführung der Absätze 1 bis 5 erlässt der Rundfunkrat
 Richtlinien.
 
 
@@ -729,26 +789,27 @@ Satz 2 überträgt.
 #### § 20 Anrufungsrecht
 
 (1) Jedermann kann sich an den Beauftragten für den Datenschutz der
-Deutschen Welle wenden, wenn er der Ansicht ist, bei der Erhebung,
-Verarbeitung oder Nutzung seiner personenbezogenen Daten durch die
-Deutsche Welle in seinen Rechten verletzt worden zu sein (Anrufung).
+Deutschen Welle wenden, wenn er der Ansicht ist, bei der Verarbeitung
+seiner personenbezogenen Daten durch die Deutsche Welle in seinen
+Rechten verletzt worden zu sein (Anrufung).
 
 (2) Wird mit einer Anrufung gleichzeitig die Verletzung von
 Programmgrundsätzen nach § 19 behauptet, so unterrichtet der
-Beauftragte für den Datenschutz unverzüglich den Intendanten und gibt
-gleichzeitig ihm gegenüber eine Stellungnahme zum Inhalt der Anrufung
-ab. Schließt sich der Intendant dieser Stellungnahme an, so gilt für
-das weitere Verfahren § 19 Abs. 2 und 3. Will der Intendant in seiner
-Entscheidung hinsichtlich des die Anrufung betreffenden Teils von der
-Stellungnahme des Beauftragten für den Datenschutz abweichen, so legt
-er die Eingabe dem Verwaltungsrat zur abschließenden Entscheidung vor.
-An die Entscheidung des Verwaltungsrates ist der Intendant gebunden.
-Das Nähere regelt die Satzung.
+Beauftragte für den Datenschutz der Deutschen Welle unverzüglich den
+Intendanten und gibt gleichzeitig ihm gegenüber eine Stellungnahme zum
+Inhalt der Anrufung ab. Schließt sich der Intendant dieser
+Stellungnahme an, so gilt für das weitere Verfahren § 19 Abs. 2 und 3.
+Will der Intendant in seiner Entscheidung hinsichtlich des die
+Anrufung betreffenden Teils von der Stellungnahme des Beauftragten für
+den Datenschutz der Deutschen Welle abweichen, so legt er die Eingabe
+dem Verwaltungsrat zur abschließenden Entscheidung vor. An die
+Entscheidung des Verwaltungsrates ist der Intendant gebunden. Das
+Nähere regelt die Satzung.
 
 (3) Wird mit einer Programmbeschwerde nach § 19 eine Anrufung
 verbunden, so leitet der Intendant diese Eingabe zur Stellungnahme dem
-Beauftragten für den Datenschutz zu; Absatz 2 Satz 2 bis 4 gilt
-entsprechend.
+Beauftragten für den Datenschutz der Deutschen Welle zu; Absatz 2 Satz
+2 bis 4 gilt entsprechend.
 
 
 #### § 21 Beweissicherung
@@ -764,11 +825,11 @@ beanstandet, so ist die Aufzeichnung aufzubewahren, bis die
 Beanstandung durch rechtskräftige gerichtliche Entscheidung, durch
 gerichtlichen Vergleich oder auf andere Weise erledigt ist.
 
-(3) Wer schriftlich glaubhaft macht, durch eine Sendung der Deutschen
-Welle in seinen Rechten betroffen zu sein, kann von der Deutschen
-Welle Einsicht in die Aufzeichnung dieser Sendung verlangen und auf
-eigene Kosten durch die Deutsche Welle Mehrausfertigungen herstellen
-lassen.
+(3) Wer schriftlich oder elektronisch glaubhaft macht, durch eine
+Sendung der Deutschen Welle in seinen Rechten betroffen zu sein, kann
+von der Deutschen Welle Einsicht in die Aufzeichnung dieser Sendung
+verlangen und auf eigene Kosten durch die Deutsche Welle
+Mehrausfertigungen herstellen lassen.
 
 
 ### Unterabschnitt 5 - Verantwortung für Sendungen
@@ -801,15 +862,49 @@ unberührt.
 
 (1) Die Deutsche Welle gibt auf Verlangen Namen und Dienstanschrift
 des Intendanten oder der sonstigen für die Sendung Verantwortlichen
-bekannt.
+bekannt. Die Deutsche Welle hat ferner folgende Informationen im
+Rahmen ihres Gesamtangebots leicht, unmittelbar und ständig zugänglich
+zu machen:
 
-(2) Die Deutsche Welle stellt der Beauftragten der Bundesregierung für
-Kultur und Medien die Informationen zur Verfügung, die diese zur
-Erfüllung ihrer Auskunfts- und Berichtspflichten, namentlich nach
-Artikel 4 Abs. 3 der Richtlinie 89/552/EWG vom 3. Oktober 1989 und
-nach Artikel 6 Abs. 2 in Verbindung mit Artikel 19 des Europäischen
-Übereinkommens über das grenzüberschreitende Fernsehen vom 5. Mai
-1989, benötigt.
+1.  Name und Anschrift,
+
+
+2.  Angaben, die eine schnelle und unmittelbare Kontaktaufnahme und eine
+    effiziente Kommunikation ermöglichen, einschließlich der Adresse der
+    elektronischen Post,
+
+
+3.  die Angabe, dass die Deutsche Welle der Rechtshoheit der
+    Bundesrepublik Deutschland unterworfen ist und
+
+
+4.  Angaben über die zuständige Aufsicht.
+
+
+
+
+(2) Die Deutsche Welle stellt der für Kultur und Medien zuständigen
+obersten Bundesbehörde die Informationen zur Verfügung, die diese zur
+Erfüllung ihrer Auskunfts- und Berichtspflichten nach den folgenden
+Vorschriften benötigt:
+
+1.  Artikel 16 Absatz 3 der Richtlinie 2010/13/EU des Europäischen
+    Parlaments und des Rates vom 10. März 2010 zur Koordinierung
+    bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten
+    über die Bereitstellung audiovisueller Mediendienste (Richtlinie über
+    audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1; L 263 vom
+    6\.10.2010, S. 15), die durch die Richtlinie (EU) 2018/1808 (ABl. L 303
+    vom 28.11.2018, S. 69) geändert worden ist, und
+
+
+2.  Artikel 6 Absatz 2 in Verbindung mit Artikel 19 des Europäischen
+    Übereinkommens über das grenzüberschreitende Fernsehen vom 5. Mai 1989
+    (BGBl. 1994 II S. 638), geändert durch das Protokoll des Europarates
+    vom 9. September 1998 (BGBl. 2000 II S. 1090), in Kraft getreten am 1.
+    März 2002.
+
+
+
 
 
 ## Abschnitt 2 - Struktur der Anstalt
@@ -1046,13 +1141,14 @@ Welle auf der Grundlage einer Vorlage des Intendanten.
     1 Nr. 2,
 
 
-5.  Bildung von Ausschüssen des Rundfunkrates,
+5.  Ernennung und Amtsenthebung des Beauftragten für den Datenschutz der
+    Deutschen Welle,
 
 
-6.  Wahl und Abberufung der Mitglieder der Ausschüsse des Rundfunkrates,
+6.  Bildung von Ausschüssen des Rundfunkrates,
 
 
-7.  (weggefallen)
+7.  Wahl und Abberufung der Mitglieder der Ausschüsse des Rundfunkrates,
 
 
 8.  Erlass oder Änderung der Geschäftsordnung des Rundfunkrates,
@@ -1140,7 +1236,7 @@ Ausschüsse einrichten.
 
 (2) Die Ausschüsse bereiten die Beschlüsse des Rundfunkrates im
 jeweiligen Aufgabenbereich vor. Sie erstatten dem Rundfunkrat jährlich
-einen schriftlichen Bericht über ihre Tätigkeit.
+einen Bericht über ihre Tätigkeit.
 
 (3) Näheres regelt die Geschäftsordnung.
 
@@ -1191,27 +1287,24 @@ Grundlage einer Vorlage des Intendanten.
 1.  Abschluss und Kündigung des Dienstvertrages mit dem Intendanten,
 
 
-2.  Bestellung und Abberufung des Beauftragten für den Datenschutz,
-
-
-3.  Vertretung der Deutschen Welle bei Rechtsgeschäften mit dem
+2.  Vertretung der Deutschen Welle bei Rechtsgeschäften mit dem
     Intendanten sowie bei Rechtsstreitigkeiten zwischen der Deutschen
     Welle und dem Intendanten,
 
 
-4.  Feststellung des Wirtschaftsplans der Deutschen Welle,
+3.  Feststellung des Wirtschaftsplans der Deutschen Welle,
 
 
-5.  Feststellung des Jahresabschlusses,
+4.  Feststellung des Jahresabschlusses,
 
 
-6.  Erlass oder Änderung der Finanzordnung,
+5.  Erlass oder Änderung der Finanzordnung,
 
 
-7.  Erteilung der Entlastung gegenüber dem Intendanten,
+6.  Erteilung der Entlastung gegenüber dem Intendanten,
 
 
-8.  Erlass oder Änderung der Geschäftsordnung des Verwaltungsrates.
+7.  Erlass oder Änderung der Geschäftsordnung des Verwaltungsrates.
 
 
 
@@ -1243,7 +1336,8 @@ Grundlage einer Vorlage des Intendanten.
 7.  Erlass oder Änderung der Satzung,
 
 
-8.  (weggefallen)
+8.  Ernennung und Amtsenthebung des Beauftragten für den Datenschutz der
+    Deutschen Welle.
 
 
 
@@ -1758,4 +1852,234 @@ Verwaltungsgericht erheben.
 trifft, kann sie dem jeweils zuständigen Organ der Deutschen Welle im
 Einzelfall eine angemessene Frist zur Wahrnehmung seiner Pflichten
 setzen.
+
+
+## Abschnitt 5 - Datenschutz
+
+
+
+### § 63 Datenverarbeitung zu journalistischen Zwecken
+
+(1) Sofern die Deutsche Welle oder ein Hilfsunternehmen
+personenbezogene Daten zu journalistischen Zwecken verarbeitet, sind
+bei der Verarbeitung dieser Daten nur die Pflichten des Artikels 5
+Absatz 1 Buchstabe f in Verbindung mit Absatz 2, des Artikels 24 und
+des Artikels 32 der Verordnung (EU) 2016/679 des Europäischen
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten, zum freien
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu
+erfüllen. Artikel 82 der Verordnung (EU) 2016/679 gilt mit der
+Maßgabe, dass nur für unzureichende Maßnahmen nach Artikel 5 Absatz 1
+Buchstabe f, Artikel 24 und Artikel 32 der Verordnung (EU) 2016/679
+gehaftet wird. Den betroffenen Personen stehen nur die in den Absätzen
+2 bis 4 genannten Rechte zu.
+
+(2) Führt die journalistischen Zwecken dienende Verarbeitung
+personenbezogener Daten durch die Deutsche Welle zur Verbreitung von
+Gegendarstellungen der betroffenen Person oder zu
+Verpflichtungserklärungen, Beschlüssen oder Urteilen über die
+Unterlassung der Verbreitung oder über den Widerruf des Inhalts der
+Daten, so sind diese Gegendarstellungen, diese
+Verpflichtungserklärungen, diese Beschlüsse oder Urteile über die
+Unterlassung der Verbreitung oder diese Widerrufe
+
+1.  zu den Daten zu nehmen, die zu der betroffenen Person gespeichert
+    sind, und dort für dieselbe Zeitdauer aufzubewahren wie die Daten
+    selbst sowie
+
+
+2.  bei einer Übermittlung der Daten, die zu der betroffenen Person
+    gespeichert sind, gemeinsam mit diesen zu übermitteln.
+
+
+
+
+(3) Wird jemand durch die Berichterstattung der Deutschen Welle in
+seinen Rechten beeinträchtigt, so kann die betroffene Person Auskunft
+verlangen über die der Berichterstattung zu Grunde liegenden, zu ihrer
+Person gespeicherten Daten. Die Auskunft kann nach Abwägung der
+schutzwürdigen Interessen der Beteiligten verweigert werden, soweit
+
+1.  von den Daten auf die Personen, die bei der Vorbereitung, Herstellung
+    oder Verbreitung von Angeboten mitwirken oder mitgewirkt haben,
+    geschlossen werden kann,
+
+
+2.  von den Daten auf die Einsenderin oder den Einsender oder die
+    Gewährsträgerin oder den Gewährsträger von Beiträgen, Unterlagen oder
+    Mitteilungen für den redaktionellen Teil geschlossen werden kann oder
+
+
+3.  durch die Mitteilung von recherchierten oder sonst erlangten Daten die
+    Erfüllung der journalistischen Aufgabe der Deutschen Welle durch
+    Ausforschung des Informationsbestandes beeinträchtigt würde.
+
+
+
+
+(4) Die betroffene Person kann die unverzügliche Berichtigung
+unrichtiger personenbezogener Daten oder die Hinzufügung einer eigenen
+Darstellung von angemessenem Umfang verlangen. Die weitere Speicherung
+der personenbezogenen Daten ist rechtmäßig, wenn dies für die Ausübung
+des Rechts auf freie Meinungsäußerung und Information oder zur
+Wahrnehmung berechtigter Interessen erforderlich ist.
+
+
+### § 64 Der Beauftragte für den Datenschutz der Deutschen Welle
+
+(1) Die Deutsche Welle ernennt einen Beauftragten für den Datenschutz
+der Deutschen Welle als Aufsichtsbehörde, der im Bereich der
+Datenverarbeitung zu journalistischen Zwecken an die Stelle des
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+tritt. Das Nähere, insbesondere die Grundsätze der Vergütung,
+beschließt der Rundfunkrat mit Zustimmung des Verwaltungsrats in einer
+Satzung. Die Kapitel VI und VII der Verordnung (EU) 2016/679 sind auf
+den Beauftragten für den Datenschutz der Deutschen Welle entsprechend
+anzuwenden, soweit in den Absätzen 2 bis 6 und in § 65 keine
+abweichenden Regelungen getroffen werden.
+
+(2) Die Ernennung des Beauftragten für den Datenschutz der Deutschen
+Welle erfolgt durch den Rundfunkrat mit Zustimmung des
+Verwaltungsrats. Der Beauftragte für den Datenschutz der Deutschen
+Welle wird für die Dauer von fünf Jahren ernannt. Eine zweimalige
+Wiederernennung ist zulässig.
+
+(3) Der Beauftragte für den Datenschutz der Deutschen Welle muss
+verfügen über die für die Erfüllung seiner Aufgaben und für die
+Ausübung seiner Befugnisse erforderliche
+
+1.  Qualifikation, nachgewiesen durch ein abgeschlossenes
+    Hochschulstudium,
+
+
+2.  Erfahrung und
+
+
+3.  Sachkunde, insbesondere im Bereich des Schutzes personenbezogener
+    Daten.
+
+
+
+
+(4) Der Beauftragte für den Datenschutz der Deutschen Welle ist in der
+Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Er
+unterliegt keiner Rechts- oder Fachaufsicht. Der Dienstaufsicht des
+Verwaltungsrats untersteht er nur insoweit, als seine Unabhängigkeit
+bei der Ausübung seines Amtes dadurch nicht beeinträchtigt wird.
+
+(5) Das Amt des Beauftragten für den Datenschutz der Deutschen Welle
+kann neben anderen Aufgaben nur wahrgenommen werden, sofern diese mit
+dem Amt zu vereinbaren sind und die Unabhängigkeit des Beauftragten
+für den Datenschutz der Deutschen Welle nicht gefährden.
+
+(6) Das Amt des Beauftragten für den Datenschutz der Deutschen Welle
+endet mit Ablauf der Amtszeit, mit Rücktritt vom Amt oder mit
+Erreichen des gesetzlichen Renteneintrittsalters. Tarifvertragliche
+Regelungen bleiben unberührt.
+
+(7) Der Beauftragte für den Datenschutz der Deutschen Welle kann
+seines Amtes nur enthoben werden, wenn er
+
+1.  eine schwere Verfehlung begangen hat oder
+
+
+2.  die Voraussetzungen für die Wahrnehmung seiner Aufgaben nicht mehr
+    erfüllt.
+
+
+
+Die Amtsenthebung erfolgt durch Beschluss des Rundfunkrats auf
+Vorschlag des Verwaltungsrats; der Beauftragte für den Datenschutz der
+Deutschen Welle ist vor der Entscheidung über die Amtsenthebung zu
+hören.
+
+(8) Die Deutsche Welle stellt dem Beauftragten für den Datenschutz der
+Deutschen Welle die Ausstattung zur Verfügung, die für die Erfüllung
+seiner Aufgaben und für die Ausübung seiner Befugnisse notwendig ist.
+Die Deutsche Welle weist die erforderlichen Mittel jährlich,
+öffentlich und gesondert im Wirtschaftsplan aus und weist sie dem
+Beauftragten für den Datenschutz der Deutschen Welle im
+Haushaltsvollzug zu. Der Beauftragte für den Datenschutz der Deutschen
+Welle unterliegt der Finanzkontrolle durch den Verwaltungsrat nur,
+soweit seine völlige Unabhängigkeit bei der Ausübung seines Amtes
+dadurch nicht beeinträchtigt wird. Der Beauftragte für den Datenschutz
+der Deutschen Welle ist in der Wahl seiner Mitarbeiter frei. Diese
+unterstehen allein der Leitung des Beauftragten für den Datenschutz
+der Deutschen Welle.
+
+
+### § 65 Aufgaben und Befugnisse des Beauftragten für den Datenschutz der Deutschen Welle
+
+(1) Der Beauftragte für den Datenschutz der Deutschen Welle
+beaufsichtigt die Einhaltung der Datenschutzvorschriften, soweit die
+Deutsche Welle oder ein Hilfsunternehmen personenbezogene Daten zu
+journalistischen Zwecken verarbeitet. Der Beauftragte für den
+Datenschutz der Deutschen Welle hat die Aufgaben und Befugnisse
+entsprechend Artikel 57 und Artikel 58 Absatz 1 bis 5 der Verordnung
+(EU) 2016/679. Nur soweit die Zuständigkeit des Beauftragten für den
+Datenschutz der Deutschen Welle nicht gegeben ist, obliegt die
+Aufsicht über die Einhaltung von Datenschutzbestimmungen dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
+
+(2) Der Beauftragte für den Datenschutz der Deutschen Welle hat bei
+der Zusammenarbeit mit anderen Aufsichtsbehörden den Informantenschutz
+zu wahren.
+
+(3) Der Beauftragte für den Datenschutz der Deutschen Welle darf
+gegenüber der Deutschen Welle und Hilfsunternehmen keine Geldbußen
+verhängen.
+
+(4) Stellt der Beauftragte für den Datenschutz der Deutschen Welle
+Verstöße gegen Vorschriften über den Datenschutz oder sonstige Mängel
+bei der Verarbeitung personenbezogener Daten fest, so beanstandet er
+dies gegenüber dem Intendanten oder den für das Hilfsunternehmen
+Verantwortlichen und fordert den Intendanten oder die für das
+Hilfsunternehmen Verantwortlichen auf, innerhalb einer angemessenen
+Frist Stellung zu nehmen. Gleichzeitig mit der Beanstandung
+unterrichtet der Beauftragte für den Datenschutz der Deutschen Welle
+den Verwaltungsrat über diese. Der Intendant oder die für das
+Hilfsunternehmen Verantwortlichen sollen in ihrer Stellungnahme
+gegenüber dem Beauftragten für den Datenschutz der Deutschen Welle die
+Maßnahmen darstellen, die aufgrund der Beanstandung getroffen worden
+sind. Gleichzeitig leiten der Intendant oder die für das
+Hilfsunternehmen Verantwortlichen dem Verwaltungsrat eine Abschrift
+der Stellungnahme zu.
+
+(5) Von einer Beanstandung kann abgesehen werden, wenn
+
+1.  es sich um unerhebliche Mängel handelt oder
+
+
+2.  sichergestellt ist, dass die Mängel unverzüglich behoben werden.
+
+
+
+
+(6) Im Tätigkeitsbericht des Beauftragten für den Datenschutz der
+Deutschen Welle sind auch Angaben über die Verwendung der Sach- und
+Personalmittel zu machen, die dem Beauftragten für den Datenschutz der
+Deutschen Welle zur Verfügung stehen. Dabei sind die Betriebs- und
+Geschäftsgeheimnisse der Deutschen Welle sowie personenbezogene Daten
+der Beschäftigten der Deutschen Welle und von Hilfsunternehmen zu
+schützen. Der Beauftragte für den Datenschutz der Deutschen Welle hat
+den Tätigkeitsbericht zusätzlich zu den in Artikel 59 Satz 1 der
+Verordnung (EU) 2016/679 genannten Institutionen auch an die Organe
+der Deutschen Welle sowie an den Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit zu übermitteln. Die
+Übermittlung kann in schriftlicher oder elektronischer Form erfolgen.
+Um den Bericht gemäß Artikel 59 Satz 3 der Verordnung (EU) 2016/679
+der Öffentlichkeit zugänglich zu machen, ist eine Veröffentlichung im
+Online-Angebot der Deutschen Welle ausreichend.
+
+
+### § 66 Der Datenschutzbeauftragte im Sinne der §§ 5 bis 7 des Bundesdatenschutzgesetzes
+
+Neben dem Beauftragten für den Datenschutz der Deutschen Welle als
+Aufsichtsbehörde benennt die Deutsche Welle einen
+Datenschutzbeauftragten im Sinne der §§ 5 bis 7 des
+Bundesdatenschutzgesetzes. Auf diesen sind die §§ 5 bis 7 des
+Bundesdatenschutzgesetzes anzuwenden. Der Datenschutzbeauftragte wird
+von dem Intendanten mit Zustimmung des Verwaltungsrats benannt.
 

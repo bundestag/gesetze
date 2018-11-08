@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 776
 
-Neugefaßt durch
+Neugefasst durch
 :   Bek. v. 14.2.1990 I 229;
 
 Zuletzt geändert durch
-:   Art. 77 V v. 31.10.2006 I 2407
+:   Art. 2 Abs. 7 G v. 30.3.2021 I 402
 
 
 ## § 9 Rechtsverhältnisse der Helfer im Katastrophenschutz
@@ -49,16 +49,17 @@ Katastrophenschutz zurückzuführen ist. Arbeitnehmer im Sinne dieser
 Bestimmungen sind Angestellte und Arbeiter sowie die zu ihrer
 Ausbildung Beschäftigten. Die Sätze 1 und 2 gelten für Beamte und
 Richter, die Sätze 4 und 5 gelten für die bei der Deutschen Post AG,
-der Deutschen Postbank AG und der Deutschen Telekom AG beschäftigten
-Beamten entsprechend.
+der DB Privat- und Firmenkundenbank AG und der Deutschen Telekom AG
+beschäftigten Beamten entsprechend.
 
 (3) Helfern, die Leistungen der Bundesagentur für Arbeit, Sozialhilfe
 sowie sonstige Unterstützungen oder Bezüge aus öffentlichen Mitteln
 erhalten, sind die Leistungen weiterzugewähren, die sie ohne den
 Dienst im Katastrophenschutz erhalten hätten.
 
-(4) Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen
-mit den Bundesministerien für Arbeit und Soziales und für Gesundheit
-und mit Zustimmung des Bundesrates durch Rechtsverordnung das
-Erstattungsverfahren nach Absatz 2 Sätze 4 und 5 zu regeln.
+(4) Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Arbeit und
+Soziales und für Gesundheit und mit Zustimmung des Bundesrates durch
+Rechtsverordnung das Erstattungsverfahren nach Absatz 2 Sätze 4 und 5
+zu regeln.
 

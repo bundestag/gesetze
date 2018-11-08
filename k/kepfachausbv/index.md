@@ -328,8 +328,9 @@ dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 882 - 884)
 
@@ -847,8 +848,9 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 885 - 886)
 

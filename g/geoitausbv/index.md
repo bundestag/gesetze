@@ -1151,8 +1151,9 @@ Vermessungstechnikerin vom 17. Dezember 1994 (BGBl. I S. 3889) und die
 Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993
 (BGBl. I S. 137) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-### Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Geomatiker/zur Geomatikerin
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Geomatiker/zur Geomatikerin
 
 (Fundstelle: BGBl. I 2010, 701 - 706)
 
@@ -1926,8 +1927,9 @@ Fähigkeiten**
 
 
 
+(zu § 9 Absatz 1 Satz 1)
 
-### Anlage 2 (zu § 9 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin
 
 (Fundstelle: BGBl. I 2010, 707 - 712)
 

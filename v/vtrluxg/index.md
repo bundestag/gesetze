@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1960, 2077
 
-Geändert durch
-:   § 5 G v. 4.8.1964 I 585
+Zuletzt geändert durch
+:   Art. 57 Abs. 11 G v. 12.12.2019 I 2652
 
 
 ## Art 1
@@ -103,7 +103,7 @@ vor dem 1. Januar 1959 eingetreten ist.
     *   getragen.
 
 
-    b)  Das Bundesversicherungsamt stellt nach dem für das Jahr 1958
+    b)  Das Bundesamt für Soziale Sicherung stellt nach dem für das Jahr 1958
         errechneten Verhältnis der Beitragseinnahmen die von den Trägern der
         Arbeiterrentenversicherung aufzubringenden Beträge fest
         und führt die Zahlung des Betrags von 35 Millionen Deutsche Mark an

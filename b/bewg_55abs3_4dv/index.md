@@ -271,8 +271,9 @@ nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
+(zu § 1 Abs. 1)
 
-## Anlage 1 (zu § 1 Abs. 1) Normalwerte
+## Anlage 1 Normalwerte
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 806 - 814)
 **A. Vorbemerkungen**
@@ -7304,8 +7305,10 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 
+(zu § 1 Abs. 3)
+Bewertungsgebiete
 
-## Anlage 2 (zu § 1 Abs. 3) Bewertungsgebiete Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
+## Anlage 2 Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
 
 (Fundstelle: BGBl. I 1967, 815 - 835)
 

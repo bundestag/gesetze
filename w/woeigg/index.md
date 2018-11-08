@@ -15,15 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 175, 209
 
-Zuletzt geändert durch
-:   Art. 2 G v. 10.5.2012 I 1084
+Neugefasst durch
+:   Bek. v. 12.1.2021 I 34
 
 
-## I. Teil - Wohnungseigentum
+## Teil 1 - Wohnungseigentum
 
 
 
-### § 1 Begriffsbestimmungen
+### Abschnitt 1 - Begriffsbestimmungen
+
+
+
+#### § 1 Begriffsbestimmungen
 
 (1) Nach Maßgabe dieses Gesetzes kann an Wohnungen das
 Wohnungseigentum, an nicht zu Wohnzwecken dienenden Räumen eines
@@ -39,18 +43,18 @@ Miteigentumsanteil an dem gemeinschaftlichen Eigentum, zu dem es
 gehört.
 
 (4) Wohnungseigentum und Teileigentum können nicht in der Weise
-begründet werden, daß das Sondereigentum mit Miteigentum an mehreren
+begründet werden, dass das Sondereigentum mit Miteigentum an mehreren
 Grundstücken verbunden wird.
 
 (5) Gemeinschaftliches Eigentum im Sinne dieses Gesetzes sind das
-Grundstück sowie die Teile, Anlagen und Einrichtungen des Gebäudes,
-die nicht im Sondereigentum oder im Eigentum eines Dritten stehen.
+Grundstück und das Gebäude, soweit sie nicht im Sondereigentum oder im
+Eigentum eines Dritten stehen.
 
 (6) Für das Teileigentum gelten die Vorschriften über das
 Wohnungseigentum entsprechend.
 
 
-### 1. Abschnitt - Begründung des Wohnungseigentums
+### Abschnitt 2 - Begründung des Wohnungseigentums
 
 
 
@@ -64,18 +68,22 @@ Sondereigentum (§ 3) oder durch Teilung (§ 8) begründet.
 
 (1) Das Miteigentum (§ 1008 des Bürgerlichen Gesetzbuchs) an einem
 Grundstück kann durch Vertrag der Miteigentümer in der Weise
-beschränkt werden, daß jedem der Miteigentümer abweichend von § 93 des
-Bürgerlichen Gesetzbuchs das Sondereigentum an einer bestimmten
-Wohnung oder an nicht zu Wohnzwecken dienenden bestimmten Räumen in
-einem auf dem Grundstück errichteten oder zu errichtenden Gebäude
-eingeräumt wird.
+beschränkt werden, dass jedem der Miteigentümer abweichend von § 93
+des Bürgerlichen Gesetzbuchs das Eigentum an einer bestimmten Wohnung
+oder an nicht zu Wohnzwecken dienenden bestimmten Räumen in einem auf
+dem Grundstück errichteten oder zu errichtenden Gebäude
+(Sondereigentum) eingeräumt wird. Stellplätze gelten als Räume im
+Sinne des Satzes 1.
 
-(2) Sondereigentum soll nur eingeräumt werden, wenn die Wohnungen oder
-sonstigen Räume in sich abgeschlossen sind. Garagenstellplätze gelten
-als abgeschlossene Räume, wenn ihre Flächen durch dauerhafte
-Markierungen ersichtlich sind.
+(2) Das Sondereigentum kann auf einen außerhalb des Gebäudes liegenden
+Teil des Grundstücks erstreckt werden, es sei denn, die Wohnung oder
+die nicht zu Wohnzwecken dienenden Räume bleiben dadurch
+wirtschaftlich nicht die Hauptsache.
 
-(3) (weggefallen)
+(3) Sondereigentum soll nur eingeräumt werden, wenn die Wohnungen oder
+sonstigen Räume in sich abgeschlossen sind und Stellplätze sowie
+außerhalb des Gebäudes liegende Teile des Grundstücks durch Maßangaben
+im Aufteilungsplan bestimmt sind.
 
 
 #### § 4 Formvorschriften
@@ -90,41 +98,41 @@ eingeräumt oder aufgehoben werden.
 
 (3) Für einen Vertrag, durch den sich ein Teil verpflichtet,
 Sondereigentum einzuräumen, zu erwerben oder aufzuheben, gilt § 311b
-Abs. 1 des Bürgerlichen Gesetzbuchs entsprechend.
+Absatz 1 des Bürgerlichen Gesetzbuchs entsprechend.
 
 
 #### § 5 Gegenstand und Inhalt des Sondereigentums
 
-(1) Gegenstand des Sondereigentums sind die gemäß § 3 Abs. 1
+(1) Gegenstand des Sondereigentums sind die gemäß § 3 Absatz 1 Satz 1
 bestimmten Räume sowie die zu diesen Räumen gehörenden Bestandteile
 des Gebäudes, die verändert, beseitigt oder eingefügt werden können,
-ohne daß dadurch das gemeinschaftliche Eigentum oder ein auf
+ohne dass dadurch das gemeinschaftliche Eigentum oder ein auf
 Sondereigentum beruhendes Recht eines anderen Wohnungseigentümers über
-das nach § 14 zulässige Maß hinaus beeinträchtigt oder die äußere
-Gestaltung des Gebäudes verändert wird.
+das bei einem geordneten Zusammenleben unvermeidliche Maß hinaus
+beeinträchtigt oder die äußere Gestaltung des Gebäudes verändert wird.
+Soweit sich das Sondereigentum auf außerhalb des Gebäudes liegende
+Teile des Grundstücks erstreckt, gilt § 94 des Bürgerlichen
+Gesetzbuchs entsprechend.
 
 (2) Teile des Gebäudes, die für dessen Bestand oder Sicherheit
 erforderlich sind, sowie Anlagen und Einrichtungen, die dem
 gemeinschaftlichen Gebrauch der Wohnungseigentümer dienen, sind nicht
 Gegenstand des Sondereigentums, selbst wenn sie sich im Bereich der im
-Sondereigentum stehenden Räume befinden.
+Sondereigentum stehenden Räume oder Teile des Grundstücks befinden.
 
-(3) Die Wohnungseigentümer können vereinbaren, daß Bestandteile des
+(3) Die Wohnungseigentümer können vereinbaren, dass Bestandteile des
 Gebäudes, die Gegenstand des Sondereigentums sein können, zum
 gemeinschaftlichen Eigentum gehören.
 
 (4) Vereinbarungen über das Verhältnis der Wohnungseigentümer
-untereinander können nach den Vorschriften des 2. und 3. Abschnitts
-zum Inhalt des Sondereigentums gemacht werden. Ist das
-Wohnungseigentum mit der Hypothek, Grund- oder Rentenschuld oder der
-Reallast eines Dritten belastet, so ist dessen nach anderen
-Rechtsvorschriften notwendige Zustimmung zu der Vereinbarung nur
-erforderlich, wenn ein Sondernutzungsrecht begründet oder ein mit dem
-Wohnungseigentum verbundenes Sondernutzungsrecht aufgehoben, geändert
-oder übertragen wird. Bei der Begründung eines Sondernutzungsrechts
-ist die Zustimmung des Dritten nicht erforderlich, wenn durch die
-Vereinbarung gleichzeitig das zu seinen Gunsten belastete
-Wohnungseigentum mit einem Sondernutzungsrecht verbunden wird.
+untereinander und Beschlüsse aufgrund einer solchen Vereinbarung
+können nach den Vorschriften des Abschnitts 4 zum Inhalt des
+Sondereigentums gemacht werden. Ist das Wohnungseigentum mit der
+Hypothek, Grund- oder Rentenschuld oder der Reallast eines Dritten
+belastet, so ist dessen nach anderen Rechtsvorschriften notwendige
+Zustimmung nur erforderlich, wenn ein Sondernutzungsrecht begründet
+oder ein mit dem Wohnungseigentum verbundenes Sondernutzungsrecht
+aufgehoben, geändert oder übertragen wird.
 
 
 #### § 6 Unselbständigkeit des Sondereigentums
@@ -138,54 +146,48 @@ gehörende Sondereigentum.
 
 #### § 7 Grundbuchvorschriften
 
-(1) Im Falle des § 3 Abs. 1 wird für jeden Miteigentumsanteil von Amts
-wegen ein besonderes Grundbuchblatt (Wohnungsgrundbuch,
+(1) Im Fall des § 3 Absatz 1 wird für jeden Miteigentumsanteil von
+Amts wegen ein besonderes Grundbuchblatt (Wohnungsgrundbuch,
 Teileigentumsgrundbuch) angelegt. Auf diesem ist das zu dem
 Miteigentumsanteil gehörende Sondereigentum und als Beschränkung des
 Miteigentums die Einräumung der zu den anderen Miteigentumsanteilen
 gehörenden Sondereigentumsrechte einzutragen. Das Grundbuchblatt des
 Grundstücks wird von Amts wegen geschlossen.
 
-(2) Von der Anlegung besonderer Grundbuchblätter kann abgesehen
-werden, wenn hiervon Verwirrung nicht zu besorgen ist. In diesem Fall
-ist das Grundbuchblatt als gemeinschaftliches Wohnungsgrundbuch
-(Teileigentumsgrundbuch) zu bezeichnen.
+(2) Zur Eintragung eines Beschlusses im Sinne des § 5 Absatz 4 Satz 1
+bedarf es der Bewilligungen der Wohnungseigentümer nicht, wenn der
+Beschluss durch eine Niederschrift, bei der die Unterschriften der in
+§ 24 Absatz 6 bezeichneten Personen öffentlich beglaubigt sind, oder
+durch ein Urteil in einem Verfahren nach § 44 Absatz 1 Satz 2
+nachgewiesen ist. Antragsberechtigt ist auch die Gemeinschaft der
+Wohnungseigentümer.
 
 (3) Zur näheren Bezeichnung des Gegenstands und des Inhalts des
-Sondereigentums kann auf die Eintragungsbewilligung Bezug genommen
-werden.
+Sondereigentums kann auf die Eintragungsbewilligung oder einen
+Nachweis gemäß Absatz 2 Satz 1 Bezug genommen werden.
+Veräußerungsbeschränkungen (§ 12) und die Haftung von
+Sondernachfolgern für Geldschulden sind jedoch ausdrücklich
+einzutragen.
 
 (4) Der Eintragungsbewilligung sind als Anlagen beizufügen:
 
-
 1.  eine von der Baubehörde mit Unterschrift und Siegel oder Stempel
-    versehene Bauzeichnung, aus der die Aufteilung des Gebäudes sowie die
-    Lage und Größe der im Sondereigentum und der im gemeinschaftlichen
-    Eigentum stehenden Gebäudeteile ersichtlich ist (Aufteilungsplan);
-    alle zu demselben Wohnungseigentum gehörenden Einzelräume sind mit der
-    jeweils gleichen Nummer zu kennzeichnen;
+    versehene Bauzeichnung, aus der die Aufteilung des Gebäudes und des
+    Grundstücks sowie die Lage und Größe der im Sondereigentum und der im
+    gemeinschaftlichen Eigentum stehenden Teile des Gebäudes und des
+    Grundstücks ersichtlich ist (Aufteilungsplan); alle zu demselben
+    Wohnungseigentum gehörenden Einzelräume und Teile des Grundstücks sind
+    mit der jeweils gleichen Nummer zu kennzeichnen;
 
 
-2.  eine Bescheinigung der Baubehörde, daß die Voraussetzungen des § 3
-    Abs. 2 vorliegen.
+2.  eine Bescheinigung der Baubehörde, dass die Voraussetzungen des § 3
+    Absatz 3 vorliegen.
 
 
 
 Wenn in der Eintragungsbewilligung für die einzelnen
 Sondereigentumsrechte Nummern angegeben werden, sollen sie mit denen
-des Aufteilungsplans übereinstimmen. Die Landesregierungen können
-durch Rechtsverordnung bestimmen, dass und in welchen Fällen der
-Aufteilungsplan (Satz 1 Nr. 1) und die Abgeschlossenheit (Satz 1 Nr.
-2) von einem öffentlich bestellten oder anerkannten Sachverständigen
-für das Bauwesen statt von der Baubehörde ausgefertigt und bescheinigt
-werden. Werden diese Aufgaben von dem Sachverständigen wahrgenommen,
-so gelten die Bestimmungen der Allgemeinen Verwaltungsvorschrift für
-die Ausstellung von Bescheinigungen gemäß § 7 Abs. 4 Nr. 2 und § 32
-Abs. 2 Nr. 2 des Wohnungseigentumsgesetzes vom 19. März 1974 (BAnz.
-Nr. 58 vom 23. März 1974) entsprechend. In diesem Fall bedürfen die
-Anlagen nicht der Form des § 29 der Grundbuchordnung. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die Landesbauverwaltungen übertragen.
+des Aufteilungsplans übereinstimmen.
 
 (5) Für Teileigentumsgrundbücher gelten die Vorschriften über
 Wohnungsgrundbücher entsprechend.
@@ -195,14 +197,18 @@ Wohnungsgrundbücher entsprechend.
 
 (1) Der Eigentümer eines Grundstücks kann durch Erklärung gegenüber
 dem Grundbuchamt das Eigentum an dem Grundstück in Miteigentumsanteile
-in der Weise teilen, daß mit jedem Anteil das Sondereigentum an einer
-bestimmten Wohnung oder an nicht zu Wohnzwecken dienenden bestimmten
-Räumen in einem auf dem Grundstück errichteten oder zu errichtenden
-Gebäude verbunden ist.
+in der Weise teilen, dass mit jedem Anteil Sondereigentum verbunden
+ist.
 
-(2) Im Falle des Absatzes 1 gelten die Vorschriften des § 3 Abs. 2 und
-der §§ 5, 6, § 7 Abs. 1, 3 bis 5 entsprechend. Die Teilung wird mit
-der Anlegung der Wohnungsgrundbücher wirksam.
+(2) Im Fall des Absatzes 1 gelten § 3 Absatz 1 Satz 2, Absatz 2 und 3,
+§ 4 Absatz 2 Satz 2 sowie die §§ 5 bis 7 entsprechend.
+
+(3) Wer einen Anspruch auf Übertragung von Wohnungseigentum gegen den
+teilenden Eigentümer hat, der durch Vormerkung im Grundbuch gesichert
+ist, gilt gegenüber der Gemeinschaft der Wohnungseigentümer und den
+anderen Wohnungseigentümern anstelle des teilenden Eigentümers als
+Wohnungseigentümer, sobald ihm der Besitz an den zum Sondereigentum
+gehörenden Räumen übergeben wurde.
 
 
 #### § 9 Schließung der Wohnungsgrundbücher
@@ -213,13 +219,7 @@ der Anlegung der Wohnungsgrundbücher wirksam.
     werden;
 
 
-2.  auf Antrag sämtlicher Wohnungseigentümer, wenn alle
-    Sondereigentumsrechte durch völlige Zerstörung des Gebäudes
-    gegenstandslos geworden sind und der Nachweis hierfür durch eine
-    Bescheinigung der Baubehörde erbracht ist;
-
-
-3.  auf Antrag des Eigentümers, wenn sich sämtliche
+2.  auf Antrag des Eigentümers, wenn sich sämtliche
     Wohnungseigentumsrechte in einer Person vereinigen.
 
 
@@ -236,110 +236,119 @@ angelegt; die Sondereigentumsrechte erlöschen, soweit sie nicht
 bereits aufgehoben sind, mit der Anlegung des Grundbuchblatts.
 
 
-### 2. Abschnitt - Gemeinschaft der Wohnungseigentümer
+### Abschnitt 3 - Rechtsfähige Gemeinschaft der Wohnungseigentümer
+
+
+
+#### § 9a Gemeinschaft der Wohnungseigentümer
+
+(1) Die Gemeinschaft der Wohnungseigentümer kann Rechte erwerben und
+Verbindlichkeiten eingehen, vor Gericht klagen und verklagt werden.
+Die Gemeinschaft der Wohnungseigentümer entsteht mit Anlegung der
+Wohnungsgrundbücher; dies gilt auch im Fall des § 8. Sie führt die
+Bezeichnung „Gemeinschaft der Wohnungseigentümer“ oder
+„Wohnungseigentümergemeinschaft” gefolgt von der bestimmten Angabe des
+gemeinschaftlichen Grundstücks.
+
+(2) Die Gemeinschaft der Wohnungseigentümer übt die sich aus dem
+gemeinschaftlichen Eigentum ergebenden Rechte sowie solche Rechte der
+Wohnungseigentümer aus, die eine einheitliche Rechtsverfolgung
+erfordern, und nimmt die entsprechenden Pflichten der
+Wohnungseigentümer wahr.
+
+(3) Für das Vermögen der Gemeinschaft der Wohnungseigentümer
+(Gemeinschaftsvermögen) gelten § 18, § 19 Absatz 1 und § 27
+entsprechend.
+
+(4) Jeder Wohnungseigentümer haftet einem Gläubiger nach dem
+Verhältnis seines Miteigentumsanteils (§ 16 Absatz 1 Satz 2) für
+Verbindlichkeiten der Gemeinschaft der Wohnungseigentümer, die während
+seiner Zugehörigkeit entstanden oder während dieses Zeitraums fällig
+geworden sind; für die Haftung nach Veräußerung des Wohnungseigentums
+ist § 160 des Handelsgesetzbuchs entsprechend anzuwenden. Er kann
+gegenüber einem Gläubiger neben den in seiner Person begründeten auch
+die der Gemeinschaft der Wohnungseigentümer zustehenden Einwendungen
+und Einreden geltend machen, nicht aber seine Einwendungen und
+Einreden gegenüber der Gemeinschaft der Wohnungseigentümer. Für die
+Einrede der Anfechtbarkeit und Aufrechenbarkeit ist § 770 des
+Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
+
+(5) Ein Insolvenzverfahren über das Gemeinschaftsvermögen findet nicht
+statt.
+
+
+#### § 9b Vertretung
+
+(1) Die Gemeinschaft der Wohnungseigentümer wird durch den Verwalter
+gerichtlich und außergerichtlich vertreten, beim Abschluss eines
+Grundstückskauf- oder Darlehensvertrags aber nur aufgrund eines
+Beschlusses der Wohnungseigentümer. Hat die Gemeinschaft der
+Wohnungseigentümer keinen Verwalter, wird sie durch die
+Wohnungseigentümer gemeinschaftlich vertreten. Eine Beschränkung des
+Umfangs der Vertretungsmacht ist Dritten gegenüber unwirksam.
+
+(2) Dem Verwalter gegenüber vertritt der Vorsitzende des
+Verwaltungsbeirats oder ein durch Beschluss dazu ermächtigter
+Wohnungseigentümer die Gemeinschaft der Wohnungseigentümer.
+
+
+### Abschnitt 4 - Rechtsverhältnis der Wohnungseigentümer untereinander und zur Gemeinschaft der Wohnungseigentümer
 
 
 
 #### § 10 Allgemeine Grundsätze
 
-(1) Inhaber der Rechte und Pflichten nach den Vorschriften dieses
-Gesetzes, insbesondere des Sondereigentums und des gemeinschaftlichen
-Eigentums, sind die Wohnungseigentümer, soweit nicht etwas anderes
-ausdrücklich bestimmt ist.
-
-(2) Das Verhältnis der Wohnungseigentümer untereinander bestimmt sich
-nach den Vorschriften dieses Gesetzes und, soweit dieses Gesetz keine
+(1) Das Verhältnis der Wohnungseigentümer untereinander und zur
+Gemeinschaft der Wohnungseigentümer bestimmt sich nach den
+Vorschriften dieses Gesetzes und, soweit dieses Gesetz keine
 besonderen Bestimmungen enthält, nach den Vorschriften des
 Bürgerlichen Gesetzbuchs über die Gemeinschaft. Die Wohnungseigentümer
 können von den Vorschriften dieses Gesetzes abweichende Vereinbarungen
-treffen, soweit nicht etwas anderes ausdrücklich bestimmt ist. Jeder
-Wohnungseigentümer kann eine vom Gesetz abweichende Vereinbarung oder
-die Anpassung einer Vereinbarung verlangen, soweit ein Festhalten an
-der geltenden Regelung aus schwerwiegenden Gründen unter
-Berücksichtigung aller Umstände des Einzelfalles, insbesondere der
-Rechte und Interessen der anderen Wohnungseigentümer, unbillig
+treffen, soweit nicht etwas anderes ausdrücklich bestimmt ist.
+
+(2) Jeder Wohnungseigentümer kann eine vom Gesetz abweichende
+Vereinbarung oder die Anpassung einer Vereinbarung verlangen, soweit
+ein Festhalten an der geltenden Regelung aus schwerwiegenden Gründen
+unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere
+der Rechte und Interessen der anderen Wohnungseigentümer, unbillig
 erscheint.
 
 (3) Vereinbarungen, durch die die Wohnungseigentümer ihr Verhältnis
 untereinander in Ergänzung oder Abweichung von Vorschriften dieses
-Gesetzes regeln, sowie die Abänderung oder Aufhebung solcher
-Vereinbarungen wirken gegen den Sondernachfolger eines
-Wohnungseigentümers nur, wenn sie als Inhalt des Sondereigentums im
-Grundbuch eingetragen sind.
-
-(4) Beschlüsse der Wohnungseigentümer gemäß § 23 und gerichtliche
-Entscheidungen in einem Rechtsstreit gemäß § 43 bedürfen zu ihrer
-Wirksamkeit gegen den Sondernachfolger eines Wohnungseigentümers nicht
-der Eintragung in das Grundbuch. Dies gilt auch für die gemäß § 23
-Abs. 1 aufgrund einer Vereinbarung gefassten Beschlüsse, die vom
-Gesetz abweichen oder eine Vereinbarung ändern.
-
-(5) Rechtshandlungen in Angelegenheiten, über die nach diesem Gesetz
-oder nach einer Vereinbarung der Wohnungseigentümer durch
-Stimmenmehrheit beschlossen werden kann, wirken, wenn sie auf Grund
-eines mit solcher Mehrheit gefaßten Beschlusses vorgenommen werden,
-auch für und gegen die Wohnungseigentümer, die gegen den Beschluß
-gestimmt oder an der Beschlußfassung nicht mitgewirkt haben.
-
-(6) Die Gemeinschaft der Wohnungseigentümer kann im Rahmen der
-gesamten Verwaltung des gemeinschaftlichen Eigentums gegenüber Dritten
-und Wohnungseigentümern selbst Rechte erwerben und Pflichten eingehen.
-Sie ist Inhaberin der als Gemeinschaft gesetzlich begründeten und
-rechtsgeschäftlich erworbenen Rechte und Pflichten. Sie übt die
-gemeinschaftsbezogenen Rechte der Wohnungseigentümer aus und nimmt die
-gemeinschaftsbezogenen Pflichten der Wohnungseigentümer wahr, ebenso
-sonstige Rechte und Pflichten der Wohnungseigentümer, soweit diese
-gemeinschaftlich geltend gemacht werden können oder zu erfüllen sind.
-Die Gemeinschaft muss die Bezeichnung "Wohnungseigentümergemeinschaft"
-gefolgt von der bestimmten Angabe des gemeinschaftlichen Grundstücks
-führen. Sie kann vor Gericht klagen und verklagt werden.
-
-(7) Das Verwaltungsvermögen gehört der Gemeinschaft der
-Wohnungseigentümer. Es besteht aus den im Rahmen der gesamten
-Verwaltung des gemeinschaftlichen Eigentums gesetzlich begründeten und
-rechtsgeschäftlich erworbenen Sachen und Rechten sowie den
-entstandenen Verbindlichkeiten. Zu dem Verwaltungsvermögen gehören
-insbesondere die Ansprüche und Befugnisse aus Rechtsverhältnissen mit
-Dritten und mit Wohnungseigentümern sowie die eingenommenen Gelder.
-Vereinigen sich sämtliche Wohnungseigentumsrechte in einer Person,
-geht das Verwaltungsvermögen auf den Eigentümer des Grundstücks über.
-
-(8) Jeder Wohnungseigentümer haftet einem Gläubiger nach dem
-Verhältnis seines Miteigentumsanteils (§ 16 Abs. 1 Satz 2) für
-Verbindlichkeiten der Gemeinschaft der Wohnungseigentümer, die während
-seiner Zugehörigkeit zur Gemeinschaft entstanden oder während dieses
-Zeitraums fällig geworden sind; für die Haftung nach Veräußerung des
-Wohnungseigentums ist § 160 des Handelsgesetzbuches entsprechend
-anzuwenden. Er kann gegenüber einem Gläubiger neben den in seiner
-Person begründeten auch die der Gemeinschaft zustehenden Einwendungen
-und Einreden geltend machen, nicht aber seine Einwendungen und
-Einreden gegenüber der Gemeinschaft. Für die Einrede der
-Anfechtbarkeit und Aufrechenbarkeit ist § 770 des Bürgerlichen
-Gesetzbuches entsprechend anzuwenden. Die Haftung eines
-Wohnungseigentümers gegenüber der Gemeinschaft wegen nicht
-ordnungsmäßiger Verwaltung bestimmt sich nach Satz 1.
+Gesetzes regeln, die Abänderung oder Aufhebung solcher Vereinbarungen
+sowie Beschlüsse, die aufgrund einer Vereinbarung gefasst werden,
+wirken gegen den Sondernachfolger eines Wohnungseigentümers nur, wenn
+sie als Inhalt des Sondereigentums im Grundbuch eingetragen sind. Im
+Übrigen bedürfen Beschlüsse zu ihrer Wirksamkeit gegen den
+Sondernachfolger eines Wohnungseigentümers nicht der Eintragung in das
+Grundbuch.
 
 
-#### § 11 Unauflöslichkeit der Gemeinschaft
+#### § 11 Aufhebung der Gemeinschaft
 
 (1) Kein Wohnungseigentümer kann die Aufhebung der Gemeinschaft
 verlangen. Dies gilt auch für eine Aufhebung aus wichtigem Grund. Eine
-abweichende Vereinbarung ist nur für den Fall zulässig, daß das
+abweichende Vereinbarung ist nur für den Fall zulässig, dass das
 Gebäude ganz oder teilweise zerstört wird und eine Verpflichtung zum
 Wiederaufbau nicht besteht.
 
-(2) Das Recht eines Pfändungsgläubigers (§ 751 des Bürgerlichen
+(2) Das Recht eines Pfändungsgläubigers (§ 751 des Bürgerlichen
 Gesetzbuchs) sowie das im Insolvenzverfahren bestehende Recht (§ 84
-Abs. 2 der Insolvenzordnung), die Aufhebung der Gemeinschaft zu
+Absatz 2 der Insolvenzordnung), die Aufhebung der Gemeinschaft zu
 verlangen, ist ausgeschlossen.
 
-(3) Ein Insolvenzverfahren über das Verwaltungsvermögen der
-Gemeinschaft findet nicht statt.
+(3) Im Fall der Aufhebung der Gemeinschaft bestimmt sich der Anteil
+der Miteigentümer nach dem Verhältnis des Wertes ihrer
+Wohnungseigentumsrechte zur Zeit der Aufhebung der Gemeinschaft. Hat
+sich der Wert eines Miteigentumsanteils durch Maßnahmen verändert,
+deren Kosten der Wohnungseigentümer nicht getragen hat, so bleibt eine
+solche Veränderung bei der Berechnung des Wertes dieses Anteils außer
+Betracht.
 
 
 #### § 12 Veräußerungsbeschränkung
 
-(1) Als Inhalt des Sondereigentums kann vereinbart werden, daß ein
+(1) Als Inhalt des Sondereigentums kann vereinbart werden, dass ein
 Wohnungseigentümer zur Veräußerung seines Wohnungseigentums der
 Zustimmung anderer Wohnungseigentümer oder eines Dritten bedarf.
 
@@ -355,335 +364,299 @@ unwirksam, solange nicht die erforderliche Zustimmung erteilt ist.
 Einer rechtsgeschäftlichen Veräußerung steht eine Veräußerung im Wege
 der Zwangsvollstreckung oder durch den Insolvenzverwalter gleich.
 
-(4) Die Wohnungseigentümer können durch Stimmenmehrheit beschließen,
-dass eine Veräußerungsbeschränkung gemäß Absatz 1 aufgehoben wird.
-Diese Befugnis kann durch Vereinbarung der Wohnungseigentümer nicht
-eingeschränkt oder ausgeschlossen werden. Ist ein Beschluss gemäß Satz
-1 gefasst, kann die Veräußerungsbeschränkung im Grundbuch gelöscht
-werden. Der Bewilligung gemäß § 19 der Grundbuchordnung bedarf es
-nicht, wenn der Beschluss gemäß Satz 1 nachgewiesen wird. Für diesen
-Nachweis ist § 26 Abs. 3 entsprechend anzuwenden.
+(4) Die Wohnungseigentümer können beschließen, dass eine
+Veräußerungsbeschränkung gemäß Absatz 1 aufgehoben wird. Ist ein
+Beschluss gemäß Satz 1 gefasst, kann die Veräußerungsbeschränkung im
+Grundbuch gelöscht werden. § 7 Absatz 2 gilt entsprechend.
 
 
-#### § 13 Rechte des Wohnungseigentümers
+#### § 13 Rechte des Wohnungseigentümers aus dem Sondereigentum
 
-(1) Jeder Wohnungseigentümer kann, soweit nicht das Gesetz oder Rechte
-Dritter entgegenstehen, mit den im Sondereigentum stehenden
-Gebäudeteilen nach Belieben verfahren, insbesondere diese bewohnen,
-vermieten, verpachten oder in sonstiger Weise nutzen, und andere von
-Einwirkungen ausschließen.
+(1) Jeder Wohnungseigentümer kann, soweit nicht das Gesetz
+entgegensteht, mit seinem Sondereigentum nach Belieben verfahren,
+insbesondere dieses bewohnen, vermieten, verpachten oder in sonstiger
+Weise nutzen, und andere von Einwirkungen ausschließen.
 
-(2) Jeder Wohnungseigentümer ist zum Mitgebrauch des
-gemeinschaftlichen Eigentums nach Maßgabe der §§ 14, 15 berechtigt. An
-den sonstigen Nutzungen des gemeinschaftlichen Eigentums gebührt jedem
-Wohnungseigentümer ein Anteil nach Maßgabe des § 16.
+(2) Für Maßnahmen, die über die ordnungsmäßige Instandhaltung und
+Instandsetzung (Erhaltung) des Sondereigentums hinausgehen, gilt § 20
+mit der Maßgabe entsprechend, dass es keiner Gestattung bedarf, soweit
+keinem der anderen Wohnungseigentümer über das bei einem geordneten
+Zusammenleben unvermeidliche Maß hinaus ein Nachteil erwächst.
 
 
 #### § 14 Pflichten des Wohnungseigentümers
 
-Jeder Wohnungseigentümer ist verpflichtet:
+(1) Jeder Wohnungseigentümer ist gegenüber der Gemeinschaft der
+Wohnungseigentümer verpflichtet,
 
-1.  die im Sondereigentum stehenden Gebäudeteile so instand zu halten und
-    von diesen sowie von dem gemeinschaftlichen Eigentum nur in solcher
-    Weise Gebrauch zu machen, daß dadurch keinem der anderen
-    Wohnungseigentümer über das bei einem geordneten Zusammenleben
-    unvermeidliche Maß hinaus ein Nachteil erwächst;
+1.  die gesetzlichen Regelungen, Vereinbarungen und Beschlüsse einzuhalten
+    und
 
 
-2.  für die Einhaltung der in Nummer 1 bezeichneten Pflichten durch
-    Personen zu sorgen, die seinem Hausstand oder Geschäftsbetrieb
-    angehören oder denen er sonst die Benutzung der im Sonder- oder
-    Miteigentum stehenden Grundstücks- oder Gebäudeteile überläßt;
-
-
-3.  Einwirkungen auf die im Sondereigentum stehenden Gebäudeteile und das
-    gemeinschaftliche Eigentum zu dulden, soweit sie auf einem nach Nummer
-    1, 2 zulässigen Gebrauch beruhen;
-
-
-4.  das Betreten und die Benutzung der im Sondereigentum stehenden
-    Gebäudeteile zu gestatten, soweit dies zur Instandhaltung und
-    Instandsetzung des gemeinschaftlichen Eigentums erforderlich ist; der
-    hierdurch entstehende Schaden ist zu ersetzen.
+2.  das Betreten seines Sondereigentums und andere Einwirkungen auf dieses
+    und das gemeinschaftliche Eigentum zu dulden, die den Vereinbarungen
+    oder Beschlüssen entsprechen oder, wenn keine entsprechenden
+    Vereinbarungen oder Beschlüsse bestehen, aus denen ihm über das bei
+    einem geordneten Zusammenleben unvermeidliche Maß hinaus kein Nachteil
+    erwächst.
 
 
 
 
+(2) Jeder Wohnungseigentümer ist gegenüber den übrigen
+Wohnungseigentümern verpflichtet,
 
-#### § 15 Gebrauchsregelung
-
-(1) Die Wohnungseigentümer können den Gebrauch des Sondereigentums und
-des gemeinschaftlichen Eigentums durch Vereinbarung regeln.
-
-(2) Soweit nicht eine Vereinbarung nach Absatz 1 entgegensteht, können
-die Wohnungseigentümer durch Stimmenmehrheit einen der Beschaffenheit
-der im Sondereigentum stehenden Gebäudeteile und des
-gemeinschaftlichen Eigentums entsprechenden ordnungsmäßigen Gebrauch
-beschließen.
-
-(3) Jeder Wohnungseigentümer kann einen Gebrauch der im Sondereigentum
-stehenden Gebäudeteile und des gemeinschaftlichen Eigentums verlangen,
-der dem Gesetz, den Vereinbarungen und Beschlüssen und, soweit sich
-die Regelung hieraus nicht ergibt, dem Interesse der Gesamtheit der
-Wohnungseigentümer nach billigem Ermessen entspricht.
+1.  deren Sondereigentum nicht über das in Absatz 1 Nummer 2 bestimmte Maß
+    hinaus zu beeinträchtigen und
 
 
-#### § 16 Nutzungen, Lasten und Kosten
+2.  Einwirkungen nach Maßgabe des Absatzes 1 Nummer 2 zu dulden.
+
+
+
+
+(3) Hat der Wohnungseigentümer eine Einwirkung zu dulden, die über das
+zumutbare Maß hinausgeht, kann er einen angemessenen Ausgleich in Geld
+verlangen.
+
+
+#### § 15 Pflichten Dritter
+
+Wer Wohnungseigentum gebraucht, ohne Wohnungseigentümer zu sein, hat
+gegenüber der Gemeinschaft der Wohnungseigentümer und anderen
+Wohnungseigentümern zu dulden:
+
+1.  die Erhaltung des gemeinschaftlichen Eigentums und des
+    Sondereigentums, die ihm rechtzeitig angekündigt wurde; § 555a Absatz
+    2 des Bürgerlichen Gesetzbuchs gilt entsprechend;
+
+
+2.  Maßnahmen, die über die Erhaltung hinausgehen, die spätestens drei
+    Monate vor ihrem Beginn in Textform angekündigt wurden; § 555c Absatz
+    1 Satz 2 Nummer 1 und 2, Absatz 2 bis 4 und § 555d Absatz 2 bis 5 des
+    Bürgerlichen Gesetzbuchs gelten entsprechend.
+
+
+
+
+
+#### § 16 Nutzungen und Kosten
 
 (1) Jedem Wohnungseigentümer gebührt ein seinem Anteil entsprechender
-Bruchteil der Nutzungen des gemeinschaftlichen Eigentums. Der Anteil
-bestimmt sich nach dem gemäß § 47 der Grundbuchordnung im Grundbuch
-eingetragenen Verhältnis der Miteigentumsanteile.
+Bruchteil der Früchte des gemeinschaftlichen Eigentums und des
+Gemeinschaftsvermögens. Der Anteil bestimmt sich nach dem gemäß § 47
+der Grundbuchordnung im Grundbuch eingetragenen Verhältnis der
+Miteigentumsanteile. Jeder Wohnungseigentümer ist zum Mitgebrauch des
+gemeinschaftlichen Eigentums nach Maßgabe des § 14 berechtigt.
 
-(2) Jeder Wohnungseigentümer ist den anderen Wohnungseigentümern
-gegenüber verpflichtet, die Lasten des gemeinschaftlichen Eigentums
-sowie die Kosten der Instandhaltung, Instandsetzung, sonstigen
-Verwaltung und eines gemeinschaftlichen Gebrauchs des
-gemeinschaftlichen Eigentums nach dem Verhältnis seines Anteils
-(Absatz 1 Satz 2) zu tragen.
+(2) Die Kosten der Gemeinschaft der Wohnungseigentümer, insbesondere
+der Verwaltung und des gemeinschaftlichen Gebrauchs des
+gemeinschaftlichen Eigentums, hat jeder Wohnungseigentümer nach dem
+Verhältnis seines Anteils (Absatz 1 Satz 2) zu tragen. Die
+Wohnungseigentümer können für einzelne Kosten oder bestimmte Arten von
+Kosten eine von Satz 1 oder von einer Vereinbarung abweichende
+Verteilung beschließen.
 
-(3) Die Wohnungseigentümer können abweichend von Absatz 2 durch
-Stimmenmehrheit beschließen, dass die Betriebskosten des
-gemeinschaftlichen Eigentums oder des Sondereigentums im Sinne des §
-556 Abs. 1 des Bürgerlichen Gesetzbuches, die nicht unmittelbar
-gegenüber Dritten abgerechnet werden, und die Kosten der Verwaltung
-nach Verbrauch oder Verursachung erfasst und nach diesem oder nach
-einem anderen Maßstab verteilt werden, soweit dies ordnungsmäßiger
-Verwaltung entspricht.
-
-(4) Die Wohnungseigentümer können im Einzelfall zur Instandhaltung
-oder Instandsetzung im Sinne des § 21 Abs. 5 Nr. 2 oder zu baulichen
-Veränderungen oder Aufwendungen im Sinne des § 22 Abs. 1 und 2 durch
-Beschluss die Kostenverteilung abweichend von Absatz 2 regeln, wenn
-der abweichende Maßstab dem Gebrauch oder der Möglichkeit des
-Gebrauchs durch die Wohnungseigentümer Rechnung trägt. Der Beschluss
-zur Regelung der Kostenverteilung nach Satz 1 bedarf einer Mehrheit
-von drei Viertel aller stimmberechtigten Wohnungseigentümer im Sinne
-des § 25 Abs. 2 und mehr als der Hälfte aller Miteigentumsanteile.
-
-(5) Die Befugnisse im Sinne der Absätze 3 und 4 können durch
-Vereinbarung der Wohnungseigentümer nicht eingeschränkt oder
-ausgeschlossen werden.
-
-(6) Ein Wohnungseigentümer, der einer Maßnahme nach § 22 Abs. 1 nicht
-zugestimmt hat, ist nicht berechtigt, einen Anteil an Nutzungen, die
-auf einer solchen Maßnahme beruhen, zu beanspruchen; er ist nicht
-verpflichtet, Kosten, die durch eine solche Maßnahme verursacht sind,
-zu tragen. Satz 1 ist bei einer Kostenverteilung gemäß Absatz 4 nicht
-anzuwenden.
-
-(7) Zu den Kosten der Verwaltung im Sinne des Absatzes 2 gehören
-insbesondere Kosten eines Rechtsstreits gemäß § 18 und der Ersatz des
-Schadens im Falle des § 14 Nr. 4.
-
-(8) Kosten eines Rechtsstreits gemäß § 43 gehören nur dann zu den
-Kosten der Verwaltung im Sinne des Absatzes 2, wenn es sich um
-Mehrkosten gegenüber der gesetzlichen Vergütung eines Rechtsanwalts
-aufgrund einer Vereinbarung über die Vergütung (§ 27 Abs. 2 Nr. 4,
-Abs. 3 Nr. 6) handelt.
+(3) Für die Kosten und Nutzungen bei baulichen Veränderungen gilt §
+21\.
 
 
-#### § 17 Anteil bei Aufhebung der Gemeinschaft
-
-Im Falle der Aufhebung der Gemeinschaft bestimmt sich der Anteil der
-Miteigentümer nach dem Verhältnis des Wertes ihrer
-Wohnungseigentumsrechte zur Zeit der Aufhebung der Gemeinschaft. Hat
-sich der Wert eines Miteigentumsanteils durch Maßnahmen verändert,
-deren Kosten der Wohnungseigentümer nicht getragen hat, so bleibt eine
-solche Veränderung bei der Berechnung des Wertes dieses Anteils außer
-Betracht.
-
-
-#### § 18 Entziehung des Wohnungseigentums
+#### § 17 Entziehung des Wohnungseigentums
 
 (1) Hat ein Wohnungseigentümer sich einer so schweren Verletzung der
-ihm gegenüber anderen Wohnungseigentümern obliegenden Verpflichtungen
-schuldig gemacht, daß diesen die Fortsetzung der Gemeinschaft mit ihm
-nicht mehr zugemutet werden kann, so können die anderen
-Wohnungseigentümer von ihm die Veräußerung seines Wohnungseigentums
-verlangen. Die Ausübung des Entziehungsrechts steht der Gemeinschaft
-der Wohnungseigentümer zu, soweit es sich nicht um eine Gemeinschaft
-handelt, die nur aus zwei Wohnungseigentümern besteht.
+ihm gegenüber anderen Wohnungseigentümern oder der Gemeinschaft der
+Wohnungseigentümer obliegenden Verpflichtungen schuldig gemacht, dass
+diesen die Fortsetzung der Gemeinschaft mit ihm nicht mehr zugemutet
+werden kann, so kann die Gemeinschaft der Wohnungseigentümer von ihm
+die Veräußerung seines Wohnungseigentums verlangen.
 
 (2) Die Voraussetzungen des Absatzes 1 liegen insbesondere vor, wenn
+der Wohnungseigentümer trotz Abmahnung wiederholt gröblich gegen die
+ihm nach § 14 Absatz 1 und 2 obliegenden Pflichten verstößt.
 
-1.  der Wohnungseigentümer trotz Abmahnung wiederholt gröblich gegen die
-    ihm nach § 14 obliegenden Pflichten verstößt;
-
-
-2.  der Wohnungseigentümer sich mit der Erfüllung seiner Verpflichtungen
-    zur Lasten- und Kostentragung (§ 16 Abs. 2) in Höhe eines Betrags, der
-    drei vom Hundert des Einheitswerts seines Wohnungseigentums
-    übersteigt, länger als drei Monate in Verzug befindet; in diesem Fall
-    steht § 30 der Abgabenordnung einer Mitteilung des Einheitswerts an
-    die Gemeinschaft der Wohnungseigentümer oder, soweit die Gemeinschaft
-    nur aus zwei Wohnungseigentümern besteht, an den anderen
-    Wohnungseigentümer nicht entgegen.
-
-
-
-
-(3) Über das Verlangen nach Absatz 1 beschließen die
-Wohnungseigentümer durch Stimmenmehrheit. Der Beschluß bedarf einer
-Mehrheit von mehr als der Hälfte der stimmberechtigten
-Wohnungseigentümer. Die Vorschriften des § 25 Abs. 3, 4 sind in diesem
-Fall nicht anzuwenden.
-
-(4) Der in Absatz 1 bestimmte Anspruch kann durch Vereinbarung der
+(3) Der in Absatz 1 bestimmte Anspruch kann durch Vereinbarung der
 Wohnungseigentümer nicht eingeschränkt oder ausgeschlossen werden.
 
-
-#### § 19 Wirkung des Urteils
-
-(1) Das Urteil, durch das ein Wohnungseigentümer zur Veräußerung
-seines Wohnungseigentums verurteilt wird, berechtigt jeden
-Miteigentümer zur Zwangsvollstreckung entsprechend den Vorschriften
-des Ersten Abschnitts des Gesetzes über die Zwangsversteigerung und
-die Zwangsverwaltung. Die Ausübung dieses Rechts steht der
-Gemeinschaft der Wohnungseigentümer zu, soweit es sich nicht um eine
-Gemeinschaft handelt, die nur aus zwei Wohnungseigentümern besteht.
-
-(2) Der Wohnungseigentümer kann im Falle des § 18 Abs. 2 Nr. 2 bis zur
-Erteilung des Zuschlags die in Absatz 1 bezeichnete Wirkung des
-Urteils dadurch abwenden, daß er die Verpflichtungen, wegen deren
-Nichterfüllung er verurteilt ist, einschließlich der Verpflichtung zum
-Ersatz der durch den Rechtsstreit und das Versteigerungsverfahren
-entstandenen Kosten sowie die fälligen weiteren Verpflichtungen zur
-Lasten- und Kostentragung erfüllt.
-
-(3) Ein gerichtlicher oder vor einer Gütestelle geschlossener
-Vergleich, durch den sich der Wohnungseigentümer zur Veräußerung
-seines Wohnungseigentums verpflichtet, steht dem in Absatz 1
-bezeichneten Urteil gleich.
+(4) Das Urteil, durch das ein Wohnungseigentümer zur Veräußerung
+seines Wohnungseigentums verurteilt wird, berechtigt zur
+Zwangsvollstreckung entsprechend den Vorschriften des Ersten
+Abschnitts des Gesetzes über die Zwangsversteigerung und die
+Zwangsverwaltung. Das Gleiche gilt für Schuldtitel im Sinne des § 794
+der Zivilprozessordnung, durch die sich der Wohnungseigentümer zur
+Veräußerung seines Wohnungseigentums verpflichtet.
 
 
-### 3. Abschnitt - Verwaltung
+#### § 18 Verwaltung und Benutzung
+
+(1) Die Verwaltung des gemeinschaftlichen Eigentums obliegt der
+Gemeinschaft der Wohnungseigentümer.
+
+(2) Jeder Wohnungseigentümer kann von der Gemeinschaft der
+Wohnungseigentümer
+
+1.  eine Verwaltung des gemeinschaftlichen Eigentums sowie
+
+
+2.  eine Benutzung des gemeinschaftlichen Eigentums und des
+    Sondereigentums
 
 
 
-#### § 20 Gliederung der Verwaltung
+verlangen, die dem Interesse der Gesamtheit der Wohnungseigentümer
+nach billigem Ermessen (ordnungsmäßige Verwaltung und Benutzung) und,
+soweit solche bestehen, den gesetzlichen Regelungen, Vereinbarungen
+und Beschlüssen entsprechen.
 
-(1) Die Verwaltung des gemeinschaftlichen Eigentums obliegt den
-Wohnungseigentümern nach Maßgabe der §§ 21 bis 25 und dem Verwalter
-nach Maßgabe der §§ 26 bis 28, im Falle der Bestellung eines
-Verwaltungsbeirats auch diesem nach Maßgabe des § 29.
-
-(2) Die Bestellung eines Verwalters kann nicht ausgeschlossen werden.
-
-
-#### § 21 Verwaltung durch die Wohnungseigentümer
-
-(1) Soweit nicht in diesem Gesetz oder durch Vereinbarung der
-Wohnungseigentümer etwas anderes bestimmt ist, steht die Verwaltung
-des gemeinschaftlichen Eigentums den Wohnungseigentümern
-gemeinschaftlich zu.
-
-(2) Jeder Wohnungseigentümer ist berechtigt, ohne Zustimmung der
+(3) Jeder Wohnungseigentümer ist berechtigt, ohne Zustimmung der
 anderen Wohnungseigentümer die Maßnahmen zu treffen, die zur Abwendung
 eines dem gemeinschaftlichen Eigentum unmittelbar drohenden Schadens
 notwendig sind.
 
-(3) Soweit die Verwaltung des gemeinschaftlichen Eigentums nicht durch
-Vereinbarung der Wohnungseigentümer geregelt ist, können die
-Wohnungseigentümer eine der Beschaffenheit des gemeinschaftlichen
-Eigentums entsprechende ordnungsmäßige Verwaltung durch
-Stimmenmehrheit beschließen.
-
-(4) Jeder Wohnungseigentümer kann eine Verwaltung verlangen, die den
-Vereinbarungen und Beschlüssen und, soweit solche nicht bestehen, dem
-Interesse der Gesamtheit der Wohnungseigentümer nach billigem Ermessen
-entspricht.
-
-(5) Zu einer ordnungsmäßigen, dem Interesse der Gesamtheit der
-Wohnungseigentümer entsprechenden Verwaltung gehört insbesondere:
-
-1.  die Aufstellung einer Hausordnung;
+(4) Jeder Wohnungseigentümer kann von der Gemeinschaft der
+Wohnungseigentümer Einsicht in die Verwaltungsunterlagen verlangen.
 
 
-2.  die ordnungsmäßige Instandhaltung und Instandsetzung des
-    gemeinschaftlichen Eigentums;
+#### § 19 Regelung der Verwaltung und Benutzung durch Beschluss
+
+(1) Soweit die Verwaltung des gemeinschaftlichen Eigentums und die
+Benutzung des gemeinschaftlichen Eigentums und des Sondereigentums
+nicht durch Vereinbarung der Wohnungseigentümer geregelt sind,
+beschließen die Wohnungseigentümer eine ordnungsmäßige Verwaltung und
+Benutzung.
+
+(2) Zur ordnungsmäßigen Verwaltung und Benutzung gehören insbesondere
+
+1.  die Aufstellung einer Hausordnung,
 
 
-3.  die Feuerversicherung des gemeinschaftlichen Eigentums zum Neuwert
-    sowie die angemessene Versicherung der Wohnungseigentümer gegen Haus-
-    und Grundbesitzerhaftpflicht;
+2.  die ordnungsmäßige Erhaltung des gemeinschaftlichen Eigentums,
 
 
-4.  die Ansammlung einer angemessenen Instandhaltungsrückstellung;
+3.  die angemessene Versicherung des gemeinschaftlichen Eigentums zum
+    Neuwert sowie der Wohnungseigentümer gegen Haus- und
+    Grundbesitzerhaftpflicht,
 
 
-5.  die Aufstellung eines Wirtschaftsplans (§ 28);
+4.  die Ansammlung einer angemessenen Erhaltungsrücklage,
 
 
-6.  die Duldung aller Maßnahmen, die zur Herstellung einer
-    Fernsprechteilnehmereinrichtung, einer Rundfunkempfangsanlage oder
-    eines Energieversorgungsanschlusses zugunsten eines
-    Wohnungseigentümers erforderlich sind.
+5.  die Festsetzung von Vorschüssen nach § 28 Absatz 1 Satz 1 sowie
+
+
+6.  die Bestellung eines zertifizierten Verwalters nach § 26a, es sei
+    denn, es bestehen weniger als neun Sondereigentumsrechte, ein
+    Wohnungseigentümer wurde zum Verwalter bestellt und weniger als ein
+    Drittel der Wohnungseigentümer (§ 25 Absatz 2) verlangt die Bestellung
+    eines zertifizierten Verwalters.
 
 
 
 
-(6) Der Wohnungseigentümer, zu dessen Gunsten eine Maßnahme der in
-Absatz 5 Nr. 6 bezeichneten Art getroffen wird, ist zum Ersatz des
-hierdurch entstehenden Schadens verpflichtet.
 
-(7) Die Wohnungseigentümer können die Regelung der Art und Weise von
-Zahlungen, der Fälligkeit und der Folgen des Verzugs sowie der Kosten
-für eine besondere Nutzung des gemeinschaftlichen Eigentums oder für
-einen besonderen Verwaltungsaufwand mit Stimmenmehrheit beschließen.
+#### § 20 Bauliche Veränderungen
 
-(8) Treffen die Wohnungseigentümer eine nach dem Gesetz erforderliche
-Maßnahme nicht, so kann an ihrer Stelle das Gericht in einem
-Rechtsstreit gemäß § 43 nach billigem Ermessen entscheiden, soweit
-sich die Maßnahme nicht aus dem Gesetz, einer Vereinbarung oder einem
-Beschluss der Wohnungseigentümer ergibt.
+(1) Maßnahmen, die über die ordnungsmäßige Erhaltung des
+gemeinschaftlichen Eigentums hinausgehen (bauliche Veränderungen),
+können beschlossen oder einem Wohnungseigentümer durch Beschluss
+gestattet werden.
+
+(2) Jeder Wohnungseigentümer kann angemessene bauliche Veränderungen
+verlangen, die
+
+1.  dem Gebrauch durch Menschen mit Behinderungen,
 
 
-#### § 22 Besondere Aufwendungen, Wiederaufbau
+2.  dem Laden elektrisch betriebener Fahrzeuge,
 
-(1) Bauliche Veränderungen und Aufwendungen, die über die
-ordnungsmäßige Instandhaltung oder Instandsetzung des
-gemeinschaftlichen Eigentums hinausgehen, können beschlossen oder
-verlangt werden, wenn jeder Wohnungseigentümer zustimmt, dessen Rechte
-durch die Maßnahmen über das in § 14 Nr. 1 bestimmte Maß hinaus
-beeinträchtigt werden. Die Zustimmung ist nicht erforderlich, soweit
-die Rechte eines Wohnungseigentümers nicht in der in Satz 1
-bezeichneten Weise beeinträchtigt werden.
 
-(2) Maßnahmen gemäß Absatz 1 Satz 1, die der Modernisierung
-entsprechend § 559 Abs. 1 des Bürgerlichen Gesetzbuches oder der
-Anpassung des gemeinschaftlichen Eigentums an den Stand der Technik
-dienen, die Eigenart der Wohnanlage nicht ändern und keinen
-Wohnungseigentümer gegenüber anderen unbillig beeinträchtigen, können
-abweichend von Absatz 1 durch eine Mehrheit von drei Viertel aller
-stimmberechtigten Wohnungseigentümer im Sinne des § 25 Abs. 2 und mehr
-als der Hälfte aller Miteigentumsanteile beschlossen werden. Die
-Befugnis im Sinne des Satzes 1 kann durch Vereinbarung der
-Wohnungseigentümer nicht eingeschränkt oder ausgeschlossen werden.
+3.  dem Einbruchsschutz und
 
-(3) Für Maßnahmen der modernisierenden Instandsetzung im Sinne des §
-21 Abs. 5 Nr. 2 verbleibt es bei den Vorschriften des § 21 Abs. 3 und
-4\.
 
-(4) Ist das Gebäude zu mehr als der Hälfte seines Wertes zerstört und
-ist der Schaden nicht durch eine Versicherung oder in anderer Weise
-gedeckt, so kann der Wiederaufbau nicht gemäß § 21 Abs. 3 beschlossen
-oder gemäß § 21 Abs. 4 verlangt werden.
+4.  dem Anschluss an ein Telekommunikationsnetz mit sehr hoher Kapazität
+
+
+
+dienen. Über die Durchführung ist im Rahmen ordnungsmäßiger Verwaltung
+zu beschließen.
+
+(3) Unbeschadet des Absatzes 2 kann jeder Wohnungseigentümer
+verlangen, dass ihm eine bauliche Veränderung gestattet wird, wenn
+alle Wohnungseigentümer, deren Rechte durch die bauliche Veränderung
+über das bei einem geordneten Zusammenleben unvermeidliche Maß hinaus
+beeinträchtigt werden, einverstanden sind.
+
+(4) Bauliche Veränderungen, die die Wohnanlage grundlegend umgestalten
+oder einen Wohnungseigentümer ohne sein Einverständnis gegenüber
+anderen unbillig benachteiligen, dürfen nicht beschlossen und
+gestattet werden; sie können auch nicht verlangt werden.
+
+
+#### § 21 Nutzungen und Kosten bei baulichen Veränderungen
+
+(1) Die Kosten einer baulichen Veränderung, die einem
+Wohnungseigentümer gestattet oder die auf sein Verlangen nach § 20
+Absatz 2 durch die Gemeinschaft der Wohnungseigentümer durchgeführt
+wurde, hat dieser Wohnungseigentümer zu tragen. Nur ihm gebühren die
+Nutzungen.
+
+(2) Vorbehaltlich des Absatzes 1 haben alle Wohnungseigentümer die
+Kosten einer baulichen Veränderung nach dem Verhältnis ihrer Anteile
+(§ 16 Absatz 1 Satz 2) zu tragen,
+
+1.  die mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte
+    aller Miteigentumsanteile beschlossen wurde, es sei denn, die bauliche
+    Veränderung ist mit unverhältnismäßigen Kosten verbunden, oder
+
+
+2.  deren Kosten sich innerhalb eines angemessenen Zeitraums amortisieren.
+
+
+
+Für die Nutzungen gilt § 16 Absatz 1.
+
+(3) Die Kosten anderer als der in den Absätzen 1 und 2 bezeichneten
+baulichen Veränderungen haben die Wohnungseigentümer, die sie
+beschlossen haben, nach dem Verhältnis ihrer Anteile (§ 16 Absatz 1
+Satz 2) zu tragen. Ihnen gebühren die Nutzungen entsprechend § 16
+Absatz 1.
+
+(4) Ein Wohnungseigentümer, der nicht berechtigt ist, Nutzungen zu
+ziehen, kann verlangen, dass ihm dies nach billigem Ermessen gegen
+angemessenen Ausgleich gestattet wird. Für seine Beteiligung an den
+Nutzungen und Kosten gilt Absatz 3 entsprechend.
+
+(5) Die Wohnungseigentümer können eine abweichende Verteilung der
+Kosten und Nutzungen beschließen. Durch einen solchen Beschluss dürfen
+einem Wohnungseigentümer, der nach den vorstehenden Absätzen Kosten
+nicht zu tragen hat, keine Kosten auferlegt werden.
+
+
+#### § 22 Wiederaufbau
+
+Ist das Gebäude zu mehr als der Hälfte seines Wertes zerstört und ist
+der Schaden nicht durch eine Versicherung oder in anderer Weise
+gedeckt, so kann der Wiederaufbau nicht beschlossen oder verlangt
+werden.
 
 
 #### § 23 Wohnungseigentümerversammlung
 
 (1) Angelegenheiten, über die nach diesem Gesetz oder nach einer
 Vereinbarung der Wohnungseigentümer die Wohnungseigentümer durch
-Beschluß entscheiden können, werden durch Beschlußfassung in einer
-Versammlung der Wohnungseigentümer geordnet.
+Beschluss entscheiden können, werden durch Beschlussfassung in einer
+Versammlung der Wohnungseigentümer geordnet. Die Wohnungseigentümer
+können beschließen, dass Wohnungseigentümer an der Versammlung auch
+ohne Anwesenheit an deren Ort teilnehmen und sämtliche oder einzelne
+ihrer Rechte ganz oder teilweise im Wege elektronischer Kommunikation
+ausüben können.
 
-(2) Zur Gültigkeit eines Beschlusses ist erforderlich, daß der
+(2) Zur Gültigkeit eines Beschlusses ist erforderlich, dass der
 Gegenstand bei der Einberufung bezeichnet ist.
 
-(3) Auch ohne Versammlung ist ein Beschluß gültig, wenn alle
-Wohnungseigentümer ihre Zustimmung zu diesem Beschluß schriftlich
-erklären.
+(3) Auch ohne Versammlung ist ein Beschluss gültig, wenn alle
+Wohnungseigentümer ihre Zustimmung zu diesem Beschluss in Textform
+erklären. Die Wohnungseigentümer können beschließen, dass für einen
+einzelnen Gegenstand die Mehrheit der abgegebenen Stimmen genügt.
 
 (4) Ein Beschluss, der gegen eine Rechtsvorschrift verstößt, auf deren
 Einhaltung rechtswirksam nicht verzichtet werden kann, ist nichtig. Im
@@ -696,30 +669,30 @@ rechtskräftiges Urteil für ungültig erklärt ist.
 (1) Die Versammlung der Wohnungseigentümer wird von dem Verwalter
 mindestens einmal im Jahr einberufen.
 
-(2) Die Versammlung der Wohnungseigentümer muß von dem Verwalter in
+(2) Die Versammlung der Wohnungseigentümer muss von dem Verwalter in
 den durch Vereinbarung der Wohnungseigentümer bestimmten Fällen, im
-übrigen dann einberufen werden, wenn dies schriftlich unter Angabe des
-Zweckes und der Gründe von mehr als einem Viertel der
+Übrigen dann einberufen werden, wenn dies in Textform unter Angabe des
+Zwecks und der Gründe von mehr als einem Viertel der
 Wohnungseigentümer verlangt wird.
 
 (3) Fehlt ein Verwalter oder weigert er sich pflichtwidrig, die
 Versammlung der Wohnungseigentümer einzuberufen, so kann die
-Versammlung auch, falls ein Verwaltungsbeirat bestellt ist, von dessen
-Vorsitzenden oder seinem Vertreter einberufen werden.
+Versammlung auch durch den Vorsitzenden des Verwaltungsbeirats, dessen
+Vertreter oder einen durch Beschluss ermächtigten Wohnungseigentümer
+einberufen werden.
 
 (4) Die Einberufung erfolgt in Textform. Die Frist der Einberufung
 soll, sofern nicht ein Fall besonderer Dringlichkeit vorliegt,
-mindestens zwei Wochen betragen.
+mindestens drei Wochen betragen.
 
 (5) Den Vorsitz in der Wohnungseigentümerversammlung führt, sofern
 diese nichts anderes beschließt, der Verwalter.
 
-(6) Über die in der Versammlung gefaßten Beschlüsse ist eine
-Niederschrift aufzunehmen. Die Niederschrift ist von dem Vorsitzenden
-und einem Wohnungseigentümer und, falls ein Verwaltungsbeirat bestellt
-ist, auch von dessen Vorsitzenden oder seinem Vertreter zu
-unterschreiben. Jeder Wohnungseigentümer ist berechtigt, die
-Niederschriften einzusehen.
+(6) Über die in der Versammlung gefassten Beschlüsse ist unverzüglich
+eine Niederschrift aufzunehmen. Die Niederschrift ist von dem
+Vorsitzenden und einem Wohnungseigentümer und, falls ein
+Verwaltungsbeirat bestellt ist, auch von dessen Vorsitzenden oder
+seinem Vertreter zu unterschreiben.
 
 (7) Es ist eine Beschluss-Sammlung zu führen. Die Beschluss-Sammlung
 enthält nur den Wortlaut
@@ -742,7 +715,7 @@ soweit diese Beschlüsse und gerichtlichen Entscheidungen nach dem 1.
 Juli 2007 ergangen sind. Die Beschlüsse und gerichtlichen
 Entscheidungen sind fortlaufend einzutragen und zu nummerieren. Sind
 sie angefochten oder aufgehoben worden, so ist dies anzumerken. Im
-Falle einer Aufhebung kann von einer Anmerkung abgesehen und die
+Fall einer Aufhebung kann von einer Anmerkung abgesehen und die
 Eintragung gelöscht werden. Eine Eintragung kann auch gelöscht werden,
 wenn sie aus einem anderen Grund für die Wohnungseigentümer keine
 Bedeutung mehr hat. Die Eintragungen, Vermerke und Löschungen gemäß
@@ -758,237 +731,151 @@ Wohnungseigentümer durch Stimmenmehrheit keinen anderen für diese
 Aufgabe bestellt haben.
 
 
-#### § 25 Mehrheitsbeschluß
+#### § 25 Beschlussfassung
 
-(1) Für die Beschlußfassung in Angelegenheiten, über die die
-Wohnungseigentümer durch Stimmenmehrheit beschließen, gelten die
-Vorschriften der Absätze 2 bis 5.
+(1) Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen
+Stimmen.
 
 (2) Jeder Wohnungseigentümer hat eine Stimme. Steht ein
 Wohnungseigentum mehreren gemeinschaftlich zu, so können sie das
 Stimmrecht nur einheitlich ausüben.
 
-(3) Die Versammlung ist nur beschlußfähig, wenn die erschienenen
-stimmberechtigten Wohnungseigentümer mehr als die Hälfte der
-Miteigentumsanteile, berechnet nach der im Grundbuch eingetragenen
-Größe dieser Anteile, vertreten.
+(3) Vollmachten bedürfen zu ihrer Gültigkeit der Textform.
 
-(4) Ist eine Versammlung nicht gemäß Absatz 3 beschlußfähig, so beruft
-der Verwalter eine neue Versammlung mit dem gleichen Gegenstand ein.
-Diese Versammlung ist ohne Rücksicht auf die Höhe der vertretenen
-Anteile beschlußfähig; hierauf ist bei der Einberufung hinzuweisen.
-
-(5) Ein Wohnungseigentümer ist nicht stimmberechtigt, wenn die
-Beschlußfassung die Vornahme eines auf die Verwaltung des
+(4) Ein Wohnungseigentümer ist nicht stimmberechtigt, wenn die
+Beschlussfassung die Vornahme eines auf die Verwaltung des
 gemeinschaftlichen Eigentums bezüglichen Rechtsgeschäfts mit ihm oder
-die Einleitung oder Erledigung eines Rechtsstreits der anderen
-Wohnungseigentümer gegen ihn betrifft oder wenn er nach § 18
-rechtskräftig verurteilt ist.
+die Einleitung oder Erledigung eines Rechtsstreits gegen ihn betrifft
+oder wenn er nach § 17 rechtskräftig verurteilt ist.
 
 
 #### § 26 Bestellung und Abberufung des Verwalters
 
 (1) Über die Bestellung und Abberufung des Verwalters beschließen die
-Wohnungseigentümer mit Stimmenmehrheit. Die Bestellung darf auf
-höchstens fünf Jahre vorgenommen werden, im Falle der ersten
-Bestellung nach der Begründung von Wohnungseigentum aber auf höchstens
-drei Jahre. Die Abberufung des Verwalters kann auf das Vorliegen eines
-wichtigen Grundes beschränkt werden. Ein wichtiger Grund liegt
-regelmäßig vor, wenn der Verwalter die Beschluss-Sammlung nicht
-ordnungsmäßig führt. Andere Beschränkungen der Bestellung oder
-Abberufung des Verwalters sind nicht zulässig.
+Wohnungseigentümer.
 
-(2) Die wiederholte Bestellung ist zulässig; sie bedarf eines erneuten
-Beschlusses der Wohnungseigentümer, der frühestens ein Jahr vor Ablauf
-der Bestellungszeit gefaßt werden kann.
+(2) Die Bestellung kann auf höchstens fünf Jahre vorgenommen werden,
+im Fall der ersten Bestellung nach der Begründung von Wohnungseigentum
+aber auf höchstens drei Jahre. Die wiederholte Bestellung ist
+zulässig; sie bedarf eines erneuten Beschlusses der
+Wohnungseigentümer, der frühestens ein Jahr vor Ablauf der
+Bestellungszeit gefasst werden kann.
 
-(3) Soweit die Verwaltereigenschaft durch eine öffentlich beglaubigte
-Urkunde nachgewiesen werden muß, genügt die Vorlage einer
-Niederschrift über den Bestellungsbeschluß, bei der die Unterschriften
-der in § 24 Abs. 6 bezeichneten Personen öffentlich beglaubigt sind.
+(3) Der Verwalter kann jederzeit abberufen werden. Ein Vertrag mit dem
+Verwalter endet spätestens sechs Monate nach dessen Abberufung.
+
+(4) Soweit die Verwaltereigenschaft durch eine öffentlich beglaubigte
+Urkunde nachgewiesen werden muss, genügt die Vorlage einer
+Niederschrift über den Bestellungsbeschluss, bei der die
+Unterschriften der in § 24 Absatz 6 bezeichneten Personen öffentlich
+beglaubigt sind.
+
+(5) Abweichungen von den Absätzen 1 bis 3 sind nicht zulässig.
+
+
+#### § 26a Zertifizierter Verwalter
+
+(1) Als zertifizierter Verwalter darf sich bezeichnen, wer vor einer
+Industrie- und Handelskammer durch eine Prüfung nachgewiesen hat, dass
+er über die für die Tätigkeit als Verwalter notwendigen rechtlichen,
+kaufmännischen und technischen Kenntnisse verfügt.
+
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die
+Prüfung zum zertifizierten Verwalter zu erlassen. In der
+Rechtsverordnung nach Satz 1 können insbesondere festgelegt werden:
+
+1.  nähere Bestimmungen zu Inhalt und Verfahren der Prüfung;
+
+
+2.  Bestimmungen über das zu erteilende Zertifikat;
+
+
+3.  Voraussetzungen, unter denen sich juristische Personen und
+    Personengesellschaften als zertifizierte Verwalter bezeichnen dürfen;
+
+
+4.  Bestimmungen, wonach Personen aufgrund anderweitiger Qualifikationen
+    von der Prüfung befreit sind, insbesondere weil sie die Befähigung zum
+    Richteramt, einen Hochschulabschluss mit immobilienwirtschaftlichem
+    Schwerpunkt, eine abgeschlossene Berufsausbildung zum
+    Immobilienkaufmann oder zur Immobilienkauffrau oder einen
+    vergleichbaren Berufsabschluss besitzen.
+
+
+
 
 
 #### § 27 Aufgaben und Befugnisse des Verwalters
 
-(1) Der Verwalter ist gegenüber den Wohnungseigentümern und gegenüber
-der Gemeinschaft der Wohnungseigentümer berechtigt und verpflichtet,
+(1) Der Verwalter ist gegenüber der Gemeinschaft der
+Wohnungseigentümer berechtigt und verpflichtet, die Maßnahmen
+ordnungsmäßiger Verwaltung zu treffen, die
 
-1.  Beschlüsse der Wohnungseigentümer durchzuführen und für die
-    Durchführung der Hausordnung zu sorgen;
+1.  untergeordnete Bedeutung haben und nicht zu erheblichen
+    Verpflichtungen führen oder
 
 
-2.  die für die ordnungsmäßige Instandhaltung und Instandsetzung des
-    gemeinschaftlichen Eigentums erforderlichen Maßnahmen zu treffen;
+2.  zur Wahrung einer Frist oder zur Abwendung eines Nachteils
+    erforderlich sind.
 
 
-3.  in dringenden Fällen sonstige zur Erhaltung des gemeinschaftlichen
-    Eigentums erforderliche Maßnahmen zu treffen;
 
 
-4.  Lasten- und Kostenbeiträge, Tilgungsbeträge und Hypothekenzinsen
-    anzufordern, in Empfang zu nehmen und abzuführen, soweit es sich um
-    gemeinschaftliche Angelegenheiten der Wohnungseigentümer handelt;
+(2) Die Wohnungseigentümer können die Rechte und Pflichten nach Absatz
+1 durch Beschluss einschränken oder erweitern.
 
 
-5.  alle Zahlungen und Leistungen zu bewirken und entgegenzunehmen, die
-    mit der laufenden Verwaltung des gemeinschaftlichen Eigentums
-    zusammenhängen;
+#### § 28 Wirtschaftsplan, Jahresabrechnung, Vermögensbericht
 
+(1) Die Wohnungseigentümer beschließen über die Vorschüsse zur
+Kostentragung und zu den nach § 19 Absatz 2 Nummer 4 oder durch
+Beschluss vorgesehenen Rücklagen. Zu diesem Zweck hat der Verwalter
+jeweils für ein Kalenderjahr einen Wirtschaftsplan aufzustellen, der
+darüber hinaus die voraussichtlichen Einnahmen und Ausgaben enthält.
 
-6.  eingenommene Gelder zu verwalten;
+(2) Nach Ablauf des Kalenderjahres beschließen die Wohnungseigentümer
+über die Einforderung von Nachschüssen oder die Anpassung der
+beschlossenen Vorschüsse. Zu diesem Zweck hat der Verwalter eine
+Abrechnung über den Wirtschaftsplan (Jahresabrechnung) aufzustellen,
+die darüber hinaus die Einnahmen und Ausgaben enthält.
 
+(3) Die Wohnungseigentümer können beschließen, wann Forderungen fällig
+werden und wie sie zu erfüllen sind.
 
-7.  die Wohnungseigentümer unverzüglich darüber zu unterrichten, dass ein
-    Rechtsstreit gemäß § 43 anhängig ist;
-
-
-8.  die Erklärungen abzugeben, die zur Vornahme der in § 21 Abs. 5 Nr. 6
-    bezeichneten Maßnahmen erforderlich sind.
-
-
-
-
-(2) Der Verwalter ist berechtigt, im Namen aller Wohnungseigentümer
-und mit Wirkung für und gegen sie
-
-1.  Willenserklärungen und Zustellungen entgegenzunehmen, soweit sie an
-    alle Wohnungseigentümer in dieser Eigenschaft gerichtet sind;
-
-
-2.  Maßnahmen zu treffen, die zur Wahrung einer Frist oder zur Abwendung
-    eines sonstigen Rechtsnachteils erforderlich sind, insbesondere einen
-    gegen die Wohnungseigentümer gerichteten Rechtsstreit gemäß § 43 Nr.
-    1, Nr. 4 oder Nr. 5 im Erkenntnis- und Vollstreckungsverfahren zu
-    führen;
-
-
-3.  Ansprüche gerichtlich und außergerichtlich geltend zu machen, sofern
-    er hierzu durch Vereinbarung oder Beschluss mit Stimmenmehrheit der
-    Wohnungseigentümer ermächtigt ist;
-
-
-4.  mit einem Rechtsanwalt wegen eines Rechtsstreits gemäß § 43 Nr. 1, Nr.
-    4 oder Nr. 5 zu vereinbaren, dass sich die Gebühren nach einem höheren
-    als dem gesetzlichen Streitwert, höchstens nach einem gemäß § 49a Abs.
-    1 Satz 1 des Gerichtskostengesetzes bestimmten Streitwert bemessen.
-
-
-
-
-(3) Der Verwalter ist berechtigt, im Namen der Gemeinschaft der
-Wohnungseigentümer und mit Wirkung für und gegen sie
-
-1.  Willenserklärungen und Zustellungen entgegenzunehmen;
-
-
-2.  Maßnahmen zu treffen, die zur Wahrung einer Frist oder zur Abwendung
-    eines sonstigen Rechtsnachteils erforderlich sind, insbesondere einen
-    gegen die Gemeinschaft gerichteten Rechtsstreit gemäß § 43 Nr. 2 oder
-    Nr. 5 im Erkenntnis- und Vollstreckungsverfahren zu führen;
-
-
-3.  die laufenden Maßnahmen der erforderlichen ordnungsmäßigen
-    Instandhaltung und Instandsetzung gemäß Absatz 1 Nr. 2 zu treffen;
-
-
-4.  die Maßnahmen gemäß Absatz 1 Nr. 3 bis 5 und 8 zu treffen;
-
-
-5.  im Rahmen der Verwaltung der eingenommenen Gelder gemäß Absatz 1 Nr. 6
-    Konten zu führen;
-
-
-6.  mit einem Rechtsanwalt wegen eines Rechtsstreits gemäß § 43 Nr. 2 oder
-    Nr. 5 eine Vergütung gemäß Absatz 2 Nr. 4 zu vereinbaren;
-
-
-7.  sonstige Rechtsgeschäfte und Rechtshandlungen vorzunehmen, soweit er
-    hierzu durch Vereinbarung oder Beschluss der Wohnungseigentümer mit
-    Stimmenmehrheit ermächtigt ist.
-
-
-
-Fehlt ein Verwalter oder ist er zur Vertretung nicht berechtigt, so
-vertreten alle Wohnungseigentümer die Gemeinschaft. Die
-Wohnungseigentümer können durch Beschluss mit Stimmenmehrheit einen
-oder mehrere Wohnungseigentümer zur Vertretung ermächtigen.
-
-(4) Die dem Verwalter nach den Absätzen 1 bis 3 zustehenden Aufgaben
-und Befugnisse können durch Vereinbarung der Wohnungseigentümer nicht
-eingeschränkt oder ausgeschlossen werden.
-
-(5) Der Verwalter ist verpflichtet, eingenommene Gelder von seinem
-Vermögen gesondert zu halten. Die Verfügung über solche Gelder kann
-durch Vereinbarung oder Beschluss der Wohnungseigentümer mit
-Stimmenmehrheit von der Zustimmung eines Wohnungseigentümers oder
-eines Dritten abhängig gemacht werden.
-
-(6) Der Verwalter kann von den Wohnungseigentümern die Ausstellung
-einer Vollmachts- und Ermächtigungsurkunde verlangen, aus der der
-Umfang seiner Vertretungsmacht ersichtlich ist.
-
-
-#### § 28 Wirtschaftsplan, Rechnungslegung
-
-(1) Der Verwalter hat jeweils für ein Kalenderjahr einen
-Wirtschaftsplan aufzustellen. Der Wirtschaftsplan enthält:
-
-1.  die voraussichtlichen Einnahmen und Ausgaben bei der Verwaltung des
-    gemeinschaftlichen Eigentums;
-
-
-2.  die anteilmäßige Verpflichtung der Wohnungseigentümer zur Lasten- und
-    Kostentragung;
-
-
-3.  die Beitragsleistung der Wohnungseigentümer zu der in § 21 Abs. 5 Nr.
-    4 vorgesehenen Instandhaltungsrückstellung.
-
-
-
-
-(2) Die Wohnungseigentümer sind verpflichtet, nach Abruf durch den
-Verwalter dem beschlossenen Wirtschaftsplan entsprechende Vorschüsse
-zu leisten.
-
-(3) Der Verwalter hat nach Ablauf des Kalenderjahrs eine Abrechnung
-aufzustellen.
-
-(4) Die Wohnungseigentümer können durch Mehrheitsbeschluß jederzeit
-von dem Verwalter Rechnungslegung verlangen.
-
-(5) Über den Wirtschaftsplan, die Abrechnung und die Rechnungslegung
-des Verwalters beschließen die Wohnungseigentümer durch
-Stimmenmehrheit.
+(4) Der Verwalter hat nach Ablauf eines Kalenderjahres einen
+Vermögensbericht zu erstellen, der den Stand der in Absatz 1 Satz 1
+bezeichneten Rücklagen und eine Aufstellung des wesentlichen
+Gemeinschaftsvermögens enthält. Der Vermögensbericht ist jedem
+Wohnungseigentümer zur Verfügung zu stellen.
 
 
 #### § 29 Verwaltungsbeirat
 
-(1) Die Wohnungseigentümer können durch Stimmenmehrheit die Bestellung
-eines Verwaltungsbeirats beschließen. Der Verwaltungsbeirat besteht
-aus einem Wohnungseigentümer als Vorsitzenden und zwei weiteren
-Wohnungseigentümern als Beisitzern.
-
-(2) Der Verwaltungsbeirat unterstützt den Verwalter bei der
-Durchführung seiner Aufgaben.
-
-(3) Der Wirtschaftsplan, die Abrechnung über den Wirtschaftsplan,
-Rechnungslegungen und Kostenanschläge sollen, bevor über sie die
-Wohnungseigentümerversammlung beschließt, vom Verwaltungsbeirat
-geprüft und mit dessen Stellungnahme versehen werden.
-
-(4) Der Verwaltungsbeirat wird von dem Vorsitzenden nach Bedarf
+(1) Wohnungseigentümer können durch Beschluss zum Mitglied des
+Verwaltungsbeirats bestellt werden. Hat der Verwaltungsbeirat mehrere
+Mitglieder, ist ein Vorsitzender und ein Stellvertreter zu bestimmen.
+Der Verwaltungsbeirat wird von dem Vorsitzenden nach Bedarf
 einberufen.
 
+(2) Der Verwaltungsbeirat unterstützt und überwacht den Verwalter bei
+der Durchführung seiner Aufgaben. Der Wirtschaftsplan und die
+Jahresabrechnung sollen, bevor die Beschlüsse nach § 28 Absatz 1 Satz
+1 und Absatz 2 Satz 1 gefasst werden, vom Verwaltungsbeirat geprüft
+und mit dessen Stellungnahme versehen werden.
 
-### 4. Abschnitt - Wohnungserbbaurecht
+(3) Sind Mitglieder des Verwaltungsbeirats unentgeltlich tätig, haben
+sie nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
+
+
+### Abschnitt 5 - Wohnungserbbaurecht
 
 
 
-#### § 30
+#### § 30 Wohnungserbbaurecht
 
 (1) Steht ein Erbbaurecht mehreren gemeinschaftlich nach Bruchteilen
-zu, so können die Anteile in der Weise beschränkt werden, daß jedem
+zu, so können die Anteile in der Weise beschränkt werden, dass jedem
 der Mitberechtigten das Sondereigentum an einer bestimmten Wohnung
 oder an nicht zu Wohnzwecken dienenden bestimmten Räumen in einem auf
 Grund des Erbbaurechts errichteten oder zu errichtenden Gebäude
@@ -999,29 +886,29 @@ Anwendung des § 8 teilen.
 
 (3) Für jeden Anteil wird von Amts wegen ein besonderes
 Erbbaugrundbuchblatt angelegt (Wohnungserbbaugrundbuch,
-Teilerbbaugrundbuch). Im übrigen gelten für das Wohnungserbbaurecht
+Teilerbbaugrundbuch). Im Übrigen gelten für das Wohnungserbbaurecht
 (Teilerbbaurecht) die Vorschriften über das Wohnungseigentum
 (Teileigentum) entsprechend.
 
 
-## II. Teil - Dauerwohnrecht
+## Teil 2 - Dauerwohnrecht
 
 
 
 ### § 31 Begriffsbestimmungen
 
-(1) Ein Grundstück kann in der Weise belastet werden, daß derjenige,
+(1) Ein Grundstück kann in der Weise belastet werden, dass derjenige,
 zu dessen Gunsten die Belastung erfolgt, berechtigt ist, unter
-Ausschluß des Eigentümers eine bestimmte Wohnung in einem auf dem
+Ausschluss des Eigentümers eine bestimmte Wohnung in einem auf dem
 Grundstück errichteten oder zu errichtenden Gebäude zu bewohnen oder
 in anderer Weise zu nutzen (Dauerwohnrecht). Das Dauerwohnrecht kann
 auf einen außerhalb des Gebäudes liegenden Teil des Grundstücks
 erstreckt werden, sofern die Wohnung wirtschaftlich die Hauptsache
 bleibt.
 
-(2) Ein Grundstück kann in der Weise belastet werden, daß derjenige,
+(2) Ein Grundstück kann in der Weise belastet werden, dass derjenige,
 zu dessen Gunsten die Belastung erfolgt, berechtigt ist, unter
-Ausschluß des Eigentümers nicht zu Wohnzwecken dienende bestimmte
+Ausschluss des Eigentümers nicht zu Wohnzwecken dienende bestimmte
 Räume in einem auf dem Grundstück errichteten oder zu errichtenden
 Gebäude zu nutzen (Dauernutzungsrecht).
 
@@ -1046,32 +933,20 @@ werden. Der Eintragungsbewilligung sind als Anlagen beizufügen:
     Nummer zu kennzeichnen;
 
 
-2.  eine Bescheinigung der Baubehörde, daß die Voraussetzungen des
+2.  eine Bescheinigung der Baubehörde, dass die Voraussetzungen des
     Absatzes 1 vorliegen.
 
 
 
 Wenn in der Eintragungsbewilligung für die einzelnen Dauerwohnrechte
 Nummern angegeben werden, sollen sie mit denen des Aufteilungsplans
-übereinstimmen. Die Landesregierungen können durch Rechtsverordnung
-bestimmen, dass und in welchen Fällen der Aufteilungsplan (Satz 2 Nr.
-1) und die Abgeschlossenheit (Satz 2 Nr. 2) von einem öffentlich
-bestellten oder anerkannten Sachverständigen für das Bauwesen statt
-von der Baubehörde ausgefertigt und bescheinigt werden. Werden diese
-Aufgaben von dem Sachverständigen wahrgenommen, so gelten die
-Bestimmungen der Allgemeinen Verwaltungsvorschrift für die Ausstellung
-von Bescheinigungen gemäß § 7 Abs. 4 Nr. 2 und § 32 Abs. 2 Nr. 2 des
-Wohnungseigentumsgesetzes vom 19. März 1974 (BAnz. Nr. 58 vom 23. März
-1974) entsprechend. In diesem Fall bedürfen die Anlagen nicht der Form
-des § 29 der Grundbuchordnung. Die Landesregierungen können die
-Ermächtigung durch Rechtsverordnung auf die Landesbauverwaltungen
-übertragen.
+übereinstimmen.
 
 (3) Das Grundbuchamt soll die Eintragung des Dauerwohnrechts ablehnen,
-wenn über die in § 33 Abs. 4 Nr. 1 bis 4 bezeichneten Angelegenheiten,
-über die Voraussetzungen des Heimfallanspruchs (§ 36 Abs. 1) und über
-die Entschädigung beim Heimfall (§ 36 Abs. 4) keine Vereinbarungen
-getroffen sind.
+wenn über die in § 33 Absatz 4 Nummer 1 bis 4 bezeichneten
+Angelegenheiten, über die Voraussetzungen des Heimfallanspruchs (§ 36
+Absatz 1) und über die Entschädigung beim Heimfall (§ 36 Absatz 4)
+keine Vereinbarungen getroffen sind.
 
 
 ### § 33 Inhalt des Dauerwohnrechts
@@ -1100,7 +975,7 @@ werden über:
     privatrechtlicher Lasten des Grundstücks;
 
 
-4.  die Versicherung des Gebäudes und seinen Wiederaufbau im Falle der
+4.  die Versicherung des Gebäudes und seinen Wiederaufbau im Fall der
     Zerstörung;
 
 
@@ -1126,7 +1001,7 @@ Vorschriften entsprechend anzuwenden.
 
 ### § 35 Veräußerungsbeschränkung
 
-Als Inhalt des Dauerwohnrechts kann vereinbart werden, daß der
+Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der
 Berechtigte zur Veräußerung des Dauerwohnrechts der Zustimmung des
 Eigentümers oder eines Dritten bedarf. Die Vorschriften des § 12
 gelten in diesem Fall entsprechend.
@@ -1134,7 +1009,7 @@ gelten in diesem Fall entsprechend.
 
 ### § 36 Heimfallanspruch
 
-(1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, daß der
+(1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der
 Berechtigte verpflichtet ist, das Dauerwohnrecht beim Eintritt
 bestimmter Voraussetzungen auf den Grundstückseigentümer oder einen
 von diesem zu bezeichnenden Dritten zu übertragen (Heimfallanspruch).
@@ -1151,7 +1026,7 @@ an, in dem der Eigentümer von dem Eintritt der Voraussetzungen
 Kenntnis erlangt, ohne Rücksicht auf diese Kenntnis in zwei Jahren von
 dem Eintritt der Voraussetzungen an.
 
-(4) Als Inhalt des Dauerwohnrechts kann vereinbart werden, daß der
+(4) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der
 Eigentümer dem Berechtigten eine Entschädigung zu gewähren hat, wenn
 er von dem Heimfallanspruch Gebrauch macht. Als Inhalt des
 Dauerwohnrechts können Vereinbarungen über die Berechnung oder Höhe
@@ -1185,50 +1060,50 @@ dem Rechtsverhältnis zu dem Eigentümer ergebenden Verpflichtungen ein.
 (2) Wird das Grundstück veräußert, so tritt der Erwerber an Stelle des
 Veräußerers in die sich während der Dauer seines Eigentums aus dem
 Rechtsverhältnis zu dem Dauerwohnberechtigten ergebenden Rechte ein.
-Das gleiche gilt für den Erwerb auf Grund Zuschlages in der
+Das Gleiche gilt für den Erwerb auf Grund Zuschlags in der
 Zwangsversteigerung, wenn das Dauerwohnrecht durch den Zuschlag nicht
 erlischt.
 
 
 ### § 39 Zwangsversteigerung
 
-(1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, daß das
-Dauerwohnrecht im Falle der Zwangsversteigerung des Grundstücks
+(1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass das
+Dauerwohnrecht im Fall der Zwangsversteigerung des Grundstücks
 abweichend von § 44 des Gesetzes über die Zwangsversteigerung und die
 Zwangsverwaltung auch dann bestehen bleiben soll, wenn der Gläubiger
-einer dem Dauerwohnrecht im Range vorgehenden oder gleichstehenden
+einer dem Dauerwohnrecht im Rang vorgehenden oder gleichstehenden
 Hypothek, Grundschuld, Rentenschuld oder Reallast die
 Zwangsversteigerung in das Grundstück betreibt.
 
 (2) Eine Vereinbarung gemäß Absatz 1 bedarf zu ihrer Wirksamkeit der
-Zustimmung derjenigen, denen eine dem Dauerwohnrecht im Range
+Zustimmung derjenigen, denen eine dem Dauerwohnrecht im Rang
 vorgehende oder gleichstehende Hypothek, Grundschuld, Rentenschuld
 oder Reallast zusteht.
 
-(3) Eine Vereinbarung gemäß Absatz 1 ist nur wirksam für den Fall, daß
-der Dauerwohnberechtigte im Zeitpunkt der Feststellung der
+(3) Eine Vereinbarung gemäß Absatz 1 ist nur wirksam für den Fall,
+dass der Dauerwohnberechtigte im Zeitpunkt der Feststellung der
 Versteigerungsbedingungen seine fälligen Zahlungsverpflichtungen
 gegenüber dem Eigentümer erfüllt hat; in Ergänzung einer Vereinbarung
-nach Absatz 1 kann vereinbart werden, daß das Fortbestehen des
+nach Absatz 1 kann vereinbart werden, dass das Fortbestehen des
 Dauerwohnrechts vom Vorliegen weiterer Voraussetzungen abhängig ist.
 
 
 ### § 40 Haftung des Entgelts
 
 (1) Hypotheken, Grundschulden, Rentenschulden und Reallasten, die dem
-Dauerwohnrecht im Range vorgehen oder gleichstehen, sowie öffentliche
+Dauerwohnrecht im Rang vorgehen oder gleichstehen, sowie öffentliche
 Lasten, die in wiederkehrenden Leistungen bestehen, erstrecken sich
 auf den Anspruch auf das Entgelt für das Dauerwohnrecht in gleicher
 Weise wie auf eine Mietforderung, soweit nicht in Absatz 2 etwas
-Abweichendes bestimmt ist. Im übrigen sind die für Mietforderungen
+Abweichendes bestimmt ist. Im Übrigen sind die für Mietforderungen
 geltenden Vorschriften nicht entsprechend anzuwenden.
 
-(2) Als Inhalt des Dauerwohnrechts kann vereinbart werden, daß
+(2) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass
 Verfügungen über den Anspruch auf das Entgelt, wenn es in
 wiederkehrenden Leistungen ausbedungen ist, gegenüber dem Gläubiger
-einer dem Dauerwohnrecht im Range vorgehenden oder gleichstehenden
+einer dem Dauerwohnrecht im Rang vorgehenden oder gleichstehenden
 Hypothek, Grundschuld, Rentenschuld oder Reallast wirksam sind. Für
-eine solche Vereinbarung gilt § 39 Abs. 2 entsprechend.
+eine solche Vereinbarung gilt § 39 Absatz 2 entsprechend.
 
 
 ### § 41 Besondere Vorschriften für langfristige Dauerwohnrechte
@@ -1239,9 +1114,9 @@ besonderen Vorschriften der Absätze 2 und 3.
 
 (2) Der Eigentümer ist, sofern nicht etwas anderes vereinbart ist, dem
 Dauerwohnberechtigten gegenüber verpflichtet, eine dem Dauerwohnrecht
-im Range vorgehende oder gleichstehende Hypothek löschen zu lassen für
-den Fall, daß sie sich mit dem Eigentum in einer Person vereinigt, und
-die Eintragung einer entsprechenden Löschungsvormerkung in das
+im Rang vorgehende oder gleichstehende Hypothek löschen zu lassen für
+den Fall, dass sie sich mit dem Eigentum in einer Person vereinigt,
+und die Eintragung einer entsprechenden Löschungsvormerkung in das
 Grundbuch zu bewilligen.
 
 (3) Der Eigentümer ist verpflichtet, dem Dauerwohnberechtigten eine
@@ -1257,233 +1132,156 @@ Erbbaurechts mit einem Dauerwohnrecht entsprechend.
 (2) Beim Heimfall des Erbbaurechts bleibt das Dauerwohnrecht bestehen.
 
 
-## III. Teil - Verfahrensvorschriften
+## Teil 3 - Verfahrensvorschriften
 
 
 
 ### § 43 Zuständigkeit
 
-Das Gericht, in dessen Bezirk das Grundstück liegt, ist ausschließlich
-zuständig für
+(1) Die Gemeinschaft der Wohnungseigentümer hat ihren allgemeinen
+Gerichtsstand bei dem Gericht, in dessen Bezirk das Grundstück liegt.
+Bei diesem Gericht kann auch die Klage gegen Wohnungseigentümer im
+Fall des § 9a Absatz 4 Satz 1 erhoben werden.
 
-1.  Streitigkeiten über die sich aus der Gemeinschaft der
-    Wohnungseigentümer und aus der Verwaltung des gemeinschaftlichen
-    Eigentums ergebenden Rechte und Pflichten der Wohnungseigentümer
-    untereinander;
+(2) Das Gericht, in dessen Bezirk das Grundstück liegt, ist
+ausschließlich zuständig für
+
+1.  Streitigkeiten über die Rechte und Pflichten der Wohnungseigentümer
+    untereinander,
 
 
 2.  Streitigkeiten über die Rechte und Pflichten zwischen der Gemeinschaft
-    der Wohnungseigentümer und Wohnungseigentümern;
+    der Wohnungseigentümer und Wohnungseigentümern,
 
 
-3.  Streitigkeiten über die Rechte und Pflichten des Verwalters bei der
-    Verwaltung des gemeinschaftlichen Eigentums;
+3.  Streitigkeiten über die Rechte und Pflichten des Verwalters
+    einschließlich solcher über Ansprüche eines Wohnungseigentümers gegen
+    den Verwalter sowie
 
 
-4.  Streitigkeiten über die Gültigkeit von Beschlüssen der
-    Wohnungseigentümer;
-
-
-5.  Klagen Dritter, die sich gegen die Gemeinschaft der Wohnungseigentümer
-    oder gegen Wohnungseigentümer richten und sich auf das
-    gemeinschaftliche Eigentum, seine Verwaltung oder das Sondereigentum
-    beziehen;
-
-
-6.  Mahnverfahren, wenn die Gemeinschaft der Wohnungseigentümer
-    Antragstellerin ist. Insoweit ist § 689 Abs. 2 der Zivilprozessordnung
-    nicht anzuwenden.
+4.  Beschlussklagen gemäß § 44.
 
 
 
 
 
-### § 44 Bezeichnung der Wohnungseigentümer in der Klageschrift
+### § 44 Beschlussklagen
 
-(1) Wird die Klage durch oder gegen alle Wohnungseigentümer mit
-Ausnahme des Gegners erhoben, so genügt für ihre nähere Bezeichnung in
-der Klageschrift die bestimmte Angabe des gemeinschaftlichen
-Grundstücks; wenn die Wohnungseigentümer Beklagte sind, sind in der
-Klageschrift außerdem der Verwalter und der gemäß § 45 Abs. 2 Satz 1
-bestellte Ersatzzustellungsvertreter zu bezeichnen. Die namentliche
-Bezeichnung der Wohnungseigentümer hat spätestens bis zum Schluss der
-mündlichen Verhandlung zu erfolgen.
+(1) Das Gericht kann auf Klage eines Wohnungseigentümers einen
+Beschluss für ungültig erklären (Anfechtungsklage) oder seine
+Nichtigkeit feststellen (Nichtigkeitsklage). Unterbleibt eine
+notwendige Beschlussfassung, kann das Gericht auf Klage eines
+Wohnungseigentümers den Beschluss fassen (Beschlussersetzungsklage).
 
-(2) Sind an dem Rechtsstreit nicht alle Wohnungseigentümer als Partei
-beteiligt, so sind die übrigen Wohnungseigentümer entsprechend Absatz
-1 von dem Kläger zu bezeichnen. Der namentlichen Bezeichnung der
-übrigen Wohnungseigentümer bedarf es nicht, wenn das Gericht von ihrer
-Beiladung gemäß § 48 Abs. 1 Satz 1 absieht.
+(2) Die Klagen sind gegen die Gemeinschaft der Wohnungseigentümer zu
+richten. Der Verwalter hat den Wohnungseigentümern die Erhebung einer
+Klage unverzüglich bekannt zu machen. Mehrere Prozesse sind zur
+gleichzeitigen Verhandlung und Entscheidung zu verbinden.
 
+(3) Das Urteil wirkt für und gegen alle Wohnungseigentümer, auch wenn
+sie nicht Partei sind.
 
-### § 45 Zustellung
-
-(1) Der Verwalter ist Zustellungsvertreter der Wohnungseigentümer,
-wenn diese Beklagte oder gemäß § 48 Abs. 1 Satz 1 beizuladen sind, es
-sei denn, dass er als Gegner der Wohnungseigentümer an dem Verfahren
-beteiligt ist oder aufgrund des Streitgegenstandes die Gefahr besteht,
-der Verwalter werde die Wohnungseigentümer nicht sachgerecht
-unterrichten.
-
-(2) Die Wohnungseigentümer haben für den Fall, dass der Verwalter als
-Zustellungsvertreter ausgeschlossen ist, durch Beschluss mit
-Stimmenmehrheit einen Ersatzzustellungsvertreter sowie dessen
-Vertreter zu bestellen, auch wenn ein Rechtsstreit noch nicht anhängig
-ist. Der Ersatzzustellungsvertreter tritt in die dem Verwalter als
-Zustellungsvertreter der Wohnungseigentümer zustehenden Aufgaben und
-Befugnisse ein, sofern das Gericht die Zustellung an ihn anordnet;
-Absatz 1 gilt entsprechend.
-
-(3) Haben die Wohnungseigentümer entgegen Absatz 2 Satz 1 keinen
-Ersatzzustellungsvertreter bestellt oder ist die Zustellung nach den
-Absätzen 1 und 2 aus sonstigen Gründen nicht ausführbar, kann das
-Gericht einen Ersatzzustellungsvertreter bestellen.
-
-
-### § 46 Anfechtungsklage
-
-(1) Die Klage eines oder mehrerer Wohnungseigentümer auf Erklärung der
-Ungültigkeit eines Beschlusses der Wohnungseigentümer ist gegen die
-übrigen Wohnungseigentümer und die Klage des Verwalters ist gegen die
-Wohnungseigentümer zu richten. Sie muss innerhalb eines Monats nach
-der Beschlussfassung erhoben und innerhalb zweier Monate nach der
-Beschlussfassung begründet werden. Die §§ 233 bis 238 der
-Zivilprozessordnung gelten entsprechend.
-
-(2) Hat der Kläger erkennbar eine Tatsache übersehen, aus der sich
-ergibt, dass der Beschluss nichtig ist, so hat das Gericht darauf
-hinzuweisen.
-
-
-### § 47 Prozessverbindung
-
-Mehrere Prozesse, in denen Klagen auf Erklärung oder Feststellung der
-Ungültigkeit desselben Beschlusses der Wohnungseigentümer erhoben
-werden, sind zur gleichzeitigen Verhandlung und Entscheidung zu
-verbinden. Die Verbindung bewirkt, dass die Kläger der vorher
-selbständigen Prozesse als Streitgenossen anzusehen sind.
-
-
-### § 48 Beiladung, Wirkung des Urteils
-
-(1) Richtet sich die Klage eines Wohnungseigentümers, der in einem
-Rechtsstreit gemäß § 43 Nr. 1 oder Nr. 3 einen ihm allein zustehenden
-Anspruch geltend macht, nur gegen einen oder einzelne
-Wohnungseigentümer oder nur gegen den Verwalter, so sind die übrigen
-Wohnungseigentümer beizuladen, es sei denn, dass ihre rechtlichen
-Interessen erkennbar nicht betroffen sind. Soweit in einem
-Rechtsstreit gemäß § 43 Nr. 3 oder Nr. 4 der Verwalter nicht Partei
-ist, ist er ebenfalls beizuladen.
-
-(2) Die Beiladung erfolgt durch Zustellung der Klageschrift, der die
-Verfügungen des Vorsitzenden beizufügen sind. Die Beigeladenen können
-der einen oder anderen Partei zu deren Unterstützung beitreten.
-Veräußert ein beigeladener Wohnungseigentümer während des Prozesses
-sein Wohnungseigentum, ist § 265 Abs. 2 der Zivilprozessordnung
-entsprechend anzuwenden.
-
-(3) Über die in § 325 der Zivilprozessordnung angeordneten Wirkungen
-hinaus wirkt das rechtskräftige Urteil auch für und gegen alle
-beigeladenen Wohnungseigentümer und ihre Rechtsnachfolger sowie den
-beigeladenen Verwalter.
-
-(4) Wird durch das Urteil eine Anfechtungsklage als unbegründet
-abgewiesen, so kann auch nicht mehr geltend gemacht werden, der
-Beschluss sei nichtig.
-
-
-### § 49 Kostenentscheidung
-
-(1) Wird gemäß § 21 Abs. 8 nach billigem Ermessen entschieden, so
-können auch die Prozesskosten nach billigem Ermessen verteilt werden.
-
-(2) Dem Verwalter können Prozesskosten auferlegt werden, soweit die
-Tätigkeit des Gerichts durch ihn veranlasst wurde und ihn ein grobes
-Verschulden trifft, auch wenn er nicht Partei des Rechtsstreits ist.
-
-
-### § 50 Kostenerstattung
-
-Den Wohnungseigentümern sind als zur zweckentsprechenden
-Rechtsverfolgung oder Rechtsverteidigung notwendige Kosten nur die
-Kosten eines bevollmächtigten Rechtsanwalts zu erstatten, wenn nicht
-aus Gründen, die mit dem Gegenstand des Rechtsstreits zusammenhängen,
-eine Vertretung durch mehrere bevollmächtigte Rechtsanwälte geboten
+(4) Die durch eine Nebenintervention verursachten Kosten gelten nur
+dann als notwendig zur zweckentsprechenden Rechtsverteidigung im Sinne
+des § 91 der Zivilprozessordnung, wenn die Nebenintervention geboten
 war.
 
 
-### (XXXX) §§ 51 und 52 (weggefallen)
+### § 45 Fristen der Anfechtungsklage
+
+Die Anfechtungsklage muss innerhalb eines Monats nach der
+Beschlussfassung erhoben und innerhalb zweier Monate nach der
+Beschlussfassung begründet werden. Die §§ 233 bis 238 der
+Zivilprozessordnung gelten entsprechend.
+
+
+## Teil 4 - Ergänzende Bestimmungen
 
 
 
-### (XXXX) §§ 53 bis 58 (weggefallen)
+### § 46 Veräußerung ohne erforderliche Zustimmung
 
-
-
-## IV. Teil - Ergänzende Bestimmungen
-
-
-
-### § 59 (weggefallen)
-
--
-
-
-### § 60 (weggefallen)
-
--
-
-
-### § 61
-
-Fehlt eine nach § 12 erforderliche Zustimmung, so sind die Veräußerung
+Fehlt eine nach § 12 erforderliche Zustimmung, so sind die Veräußerung
 und das zugrundeliegende Verpflichtungsgeschäft unbeschadet der
 sonstigen Voraussetzungen wirksam, wenn die Eintragung der Veräußerung
 oder einer Auflassungsvormerkung in das Grundbuch vor dem 15. Januar
 1994 erfolgt ist und es sich um die erstmalige Veräußerung dieses
-Wohnungseigentums nach seiner Begründung handelt, es sei denn, daß
+Wohnungseigentums nach seiner Begründung handelt, es sei denn, dass
 eine rechtskräftige gerichtliche Entscheidung entgegensteht. Das
 Fehlen der Zustimmung steht in diesen Fällen dem Eintritt der
-Rechtsfolgen des § 878 Bürgerlichen Gesetzbuchs nicht entgegen. Die
-Sätze 1 und 2 gelten entsprechend in den Fällen der §§ 30 und 35 des
+Rechtsfolgen des § 878
+des              Bürgerlichen Gesetzbuchs nicht entgegen. Die Sätze 1
+und 2 gelten entsprechend in den Fällen der §§ 30 und 35 des
 Wohnungseigentumsgesetzes.
 
 
-### § 62 Übergangsvorschrift
+### § 47 Auslegung von Altvereinbarungen
 
-(1) Für die am 1. Juli 2007 bei Gericht anhängigen Verfahren in
-Wohnungseigentums- oder in Zwangsversteigerungssachen oder für die bei
-einem Notar beantragten freiwilligen Versteigerungen sind die durch
-die Artikel 1 und 2 des Gesetzes vom 26. März 2007 (BGBl. I S. 370)
-geänderten Vorschriften des III. Teils dieses Gesetzes sowie die des
-Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung in
+Vereinbarungen, die vor dem 1. Dezember 2020 getroffen wurden und die
+von solchen Vorschriften dieses Gesetzes abweichen, die durch das
+Wohnungseigentumsmodernisierungsgesetz vom 16. Oktober 2020 (BGBl. I
+S. 2187) geändert wurden, stehen der Anwendung dieser Vorschriften in
+der vom 1. Dezember 2020 an geltenden Fassung nicht entgegen, soweit
+sich aus der Vereinbarung nicht ein anderer Wille ergibt. Ein solcher
+Wille ist in der Regel nicht anzunehmen.
+
+
+### § 48 Übergangsvorschriften
+
+(1) § 5 Absatz 4, § 7 Absatz 2 und § 10 Absatz 3 in der vom 1.
+Dezember 2020 an geltenden Fassung gelten auch für solche Beschlüsse,
+die vor diesem Zeitpunkt gefasst oder durch gerichtliche Entscheidung
+ersetzt wurden. Abweichend davon bestimmt sich die Wirksamkeit eines
+Beschlusses im Sinne des Satzes 1 gegen den Sondernachfolger eines
+Wohnungseigentümers nach § 10 Absatz 4 in der vor dem 1. Dezember 2020
+geltenden Fassung, wenn die Sondernachfolge bis zum 31. Dezember 2025
+eintritt. Jeder Wohnungseigentümer kann bis zum 31. Dezember 2025
+verlangen, dass ein Beschluss im Sinne des Satzes 1 erneut gefasst
+wird; § 204 Absatz 1 Nummer 1 des Bürgerlichen Gesetzbuchs gilt
+entsprechend.
+
+(2) § 5 Absatz 4 Satz 3 gilt in der vor dem 1. Dezember 2020 geltenden
+Fassung weiter für Vereinbarungen und Beschlüsse, die vor diesem
+Zeitpunkt getroffen oder gefasst wurden, und zu denen vor dem 1.
+Dezember 2020 alle Zustimmungen erteilt wurden, die nach den vor
+diesem Zeitpunkt geltenden Vorschriften erforderlich waren.
+
+(3) § 7 Absatz 3 Satz 2 gilt auch für Vereinbarungen und Beschlüsse,
+die vor dem 1. Dezember 2020 getroffen oder gefasst wurden. Ist eine
+Vereinbarung oder ein Beschluss im Sinne des Satzes 1 entgegen der
+Vorgabe des § 7 Absatz 3 Satz 2 nicht ausdrücklich im Grundbuch
+eingetragen, erfolgt die ausdrückliche Eintragung in allen
+Wohnungsgrundbüchern nur auf Antrag eines Wohnungseigentümers oder der
+Gemeinschaft der Wohnungseigentümer. Ist die Haftung von
+Sondernachfolgern für Geldschulden entgegen der Vorgabe des § 7 Absatz
+3 Satz 2 nicht ausdrücklich im Grundbuch eingetragen, lässt dies die
+Wirkung gegen den Sondernachfolger eines Wohnungseigentümers
+unberührt, wenn die Sondernachfolge bis zum 31. Dezember 2025
+eintritt.
+
+(4) § 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2022 anwendbar. Eine
+Person, die am 1. Dezember 2020 Verwalter einer Gemeinschaft der
+Wohnungseigentümer war, gilt gegenüber den Wohnungseigentümern dieser
+Gemeinschaft der Wohnungseigentümer bis zum 1. Juni 2024 als
+zertifizierter Verwalter.
+
+(5) Für die bereits vor dem 1. Dezember 2020 bei Gericht anhängigen
+Verfahren sind die Vorschriften des dritten Teils dieses Gesetzes in
 ihrer bis dahin geltenden Fassung weiter anzuwenden.
 
-(2) In Wohnungseigentumssachen nach § 43 Nr. 1 bis 4 finden die
-Bestimmungen über die Nichtzulassungsbeschwerde (§ 543 Abs. 1 Nr. 2, §
-544 der Zivilprozessordnung) keine Anwendung, soweit die anzufechtende
-Entscheidung vor dem 31. Dezember 2014 verkündet worden ist.
 
-
-### § 63 Überleitung bestehender Rechtsverhältnisse
+### § 49 Überleitung bestehender Rechtsverhältnisse
 
 (1) Werden Rechtsverhältnisse, mit denen ein Rechtserfolg bezweckt
 wird, der den durch dieses Gesetz geschaffenen Rechtsformen
 entspricht, in solche Rechtsformen umgewandelt, so ist als
-Geschäftswert für die Berechnung der hierdurch veranlaßten Gebühren
-der Gerichte und Notare im Falle des Wohnungseigentums ein
-Fünfundzwanzigstel des Einheitswerts des Grundstücks, im Falle des
-Dauerwohnrechts ein Fünfundzwanzigstel des Wertes des Rechts
+Geschäftswert für die Berechnung der hierdurch veranlassten Gebühren
+der Gerichte und Notare im Fall des Wohnungseigentums ein
+Fünfundzwanzigstel des Einheitswerts des Grundstückes, im Falle des
+Dauerwohnrechtes ein Fünfundzwanzigstel des Wertes des Rechts
 anzunehmen.
 
-(2)
-
-(3) Durch Landesgesetz können Vorschriften zur Überleitung
+(2) Durch Landesgesetz können Vorschriften zur Überleitung
 bestehender, auf Landesrecht beruhender Rechtsverhältnisse in die
 durch dieses Gesetz geschaffenen Rechtsformen getroffen werden.
-
-
-### § 64 Inkrafttreten
-
-Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

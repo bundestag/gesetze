@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 2972
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.6.2007 I 1034
+:   Art. 155 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -33,17 +33,13 @@ Arbeit und Sozialordnung:
 
 ### § 1 Grundsätze
 
-(1) Die Entrichtung der Beitragsanteile der Versicherten und der
-Künstlersozialabgabe durch die Unternehmer ohne Beschäftigte und die
-Ausgleichsvereinigungen wird von der Künstlersozialkasse nach Maßgabe
-der folgenden Vorschriften überwacht. Die Entrichtung der
-Künstlersozialabgabe durch die Arbeitgeber wird von den Trägern der
-Rentenversicherung im Rahmen ihrer Prüfung nach § 28p Abs. 1a des
-Vierten Buches Sozialgesetzbuch nach Maßgabe des Vierten Buches
-Sozialgesetzbuch und der Beitragsverfahrensverordnung überwacht.
+(1) Die Künstlersozialkasse überwacht die Entrichtung der
+Beitragsanteile der Versicherten und der Künstlersozialabgabe durch
+die Unternehmer und die Ausgleichsvereinigungen nach Maßgabe der
+folgenden Vorschriften.
 
-(2) Die Überwachung kann in Form einer schriftlichen Prüfung oder in
-Form einer Außenprüfung erfolgen.
+(2) Die Überwachung kann in Form einer schriftlich oder elektronisch
+durchgeführten Prüfung oder in Form einer Außenprüfung erfolgen.
 
 
 ### § 2 Gegenstand
@@ -216,9 +212,9 @@ Die zur Abgabe Verpflichteten haben bei der Prüfung auf Verlangen
 
 
 
-4.  die Meldungen nach § 28a Abs. 1 Nr. 1 und 2, Abs. 2 und 9 des Vierten
-    Buches Sozialgesetzbuch sowie die Entgeltunterlagen nach § 8 der
-    Beitragsverfahrensverordnung,
+4.  die Meldungen nach § 28a Absatz 1 Satz 1 Nummer 1 und 2, Abs. 2 und 9
+    des Vierten Buches Sozialgesetzbuch sowie die Entgeltunterlagen nach §
+    8 der Beitragsverfahrensverordnung,
 
 
 5.  Auszüge aus den Prüfberichten der Finanzbehörden und die
@@ -269,12 +265,12 @@ Beiträge oder Beitragszuschüsse erforderlich ist.
 ### § 9 Ankündigung
 
 (1) Die Außenprüfung erfolgt grundsätzlich nach vorheriger
-schriftlicher Ankündigung durch die Künstlersozialkasse. In der
-Ankündigung sind den zu Prüfenden der Tag, der voraussichtliche
-Prüfungsbeginn und die Namen der Prüfer sowie die Gründe für eine
-vorzeitige Prüfung nach § 3 Abs. 3 mitzuteilen. Die Ankündigung soll
-möglichst einen Monat, sie muß jedoch spätestens 14 Tage vor der
-Prüfung erfolgen.
+schriftlicher oder elektronischer Ankündigung durch die
+Künstlersozialkasse. In der Ankündigung sind den zu Prüfenden der Tag,
+der voraussichtliche Prüfungsbeginn und die Namen der Prüfer sowie die
+Gründe für eine vorzeitige Prüfung nach § 3 Abs. 3 mitzuteilen. Die
+Ankündigung soll möglichst einen Monat, sie muß jedoch spätestens 14
+Tage vor der Prüfung erfolgen.
 
 (2) Mit Einwilligung der zu Prüfenden kann die Prüfung vor Ablauf der
 Frist von 14 Tagen durchgeführt werden. Die Prüfung kann ohne
@@ -316,7 +312,7 @@ vervielfältigt werden.
 
 (4) Für die Prüfbarkeit von Aufzeichnungsverfahren, die mit Hilfe
 automatischer Einrichtungen durchgeführt werden, gelten die in § 10
-Abs. 1 und 3 bis 5 der Beitragsverfahrensverordnung genannten
+Absatz 1, 3 und 4 der Beitragsverfahrensverordnung genannten
 Anforderungen entsprechend. Den Prüfern sind die gewünschten
 Unterlagen unverzüglich auszudrucken, oder es sind lesbare
 Reproduktionen herzustellen, soweit ihnen die Nutzung der bei den zu
@@ -333,12 +329,12 @@ Prüfenden installierten Technik nicht zuzumuten ist.
 Prüfung in einem Prüfbericht festzuhalten.
 
 (2) Das Ergebnis der Prüfung ist den Geprüften innerhalb von drei
-Monaten nach Abschluß der Prüfung schriftlich mitzuteilen. In der
-Mitteilung sind die für die Beitrags- und Abgabegrundlagen erheblichen
-Prüfungsfeststellungen in tatsächlicher und rechtlicher Hinsicht
-darzustellen. Führt die Prüfung zu keiner Änderung der Beitrags- und
-Abgabegrundlagen, so genügt es, wenn dies den Geprüften schriftlich
-mitgeteilt wird.
+Monaten nach Abschluß der Prüfung schriftlich oder elektronisch
+mitzuteilen. In der Mitteilung sind die für die Beitrags- und
+Abgabegrundlagen erheblichen Prüfungsfeststellungen in tatsächlicher
+und rechtlicher Hinsicht darzustellen. Führt die Prüfung zu keiner
+Änderung der Beitrags- und Abgabegrundlagen, so genügt es, wenn dies
+den Geprüften schriftlich oder elektronisch mitgeteilt wird.
 
 
 ### § 13 Mängelbeseitigung

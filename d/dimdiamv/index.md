@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über das datenbankgestützte Informationssystem über Arzneimittel
-  des Deutschen Instituts für Medizinische Dokumentation und Information
+  des Bundesinstituts für Arzneimittel und Medizinprodukte
 jurabk: DIMDIAMV
 layout: default
 origslug: dimdiamv
@@ -8,7 +8,7 @@ slug: dimdiamv
 
 ---
 
-# Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Deutschen Instituts für Medizinische Dokumentation und Information (DIMDIAMV)
+# Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Bundesinstituts für Arzneimittel und Medizinprodukte (DIMDIAMV)
 
 Ausfertigungsdatum
 :   2010-02-24
@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 2010, 140
 
 Zuletzt geändert durch
-:   Art. 12 G v. 19.10.2012 I 2192
+:   Art. 1 V v. 13.7.2020 I 1692
+
+Mittelbare änderung durch
+:   Art. 4 Nr. 2 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 9 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F772944_01_BJNR014000010]:     § 3 Absatz 2 dient der Umsetzung von Artikel 40 Absatz 4 und Artikel
     111 Absatz 6 und 7 der Richtlinie 2001/83/EG des Europäischen
@@ -159,9 +165,9 @@ gesetzlicher Bestimmungen gespeichert:
 arzneimittelbezogene Daten, wie Daten zu Arzneimittelrisiken,
 Absatzmengen, Verschreibungsvolumen und in Verkehr gebrachte
 Packungsgrößen von Arzneimitteln gespeichert werden, soweit dies zur
-Wahrnehmung der Aufgaben des Deutschen Instituts für Medizinische
-Dokumentation und Information oder der in § 3 Absatz 1 genannten
-Behörden erforderlich ist.
+Wahrnehmung der Aufgaben des Bundesinstituts für Arzneimittel und
+Medizinprodukte oder der anderen in § 3 Absatz 1 genannten Behörden
+erforderlich ist.
 
 (3) Das für die Öffentlichkeit allgemein zugängliche
 Informationssystem für Arzneimittel enthält Daten über Produktmerkmale
@@ -185,40 +191,39 @@ Verdachtsfällen von Nebenwirkungen. Die Vorschriften zum Schutz
 personenbezogener Daten, zum Schutz des geistigen Eigentums und zum
 Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
-(4) Das Deutsche Institut für Medizinische Dokumentation und
-Information stellt für Arzneimittel, die zur Anwendung bei Menschen
-bestimmt sind, ein allgemein zugängliches Internetportal zur Verfügung
-mit Informationen über die rechtlichen Rahmenbedingungen des
-Versandhandels, einschließlich des Hinweises, dass in den
-Mitgliedstaaten der Europäischen Union Unterschiede im Hinblick auf
-die Einstufung und die Abgabe von Arzneimitteln bestehen können, über
-das gemeinsame Versandhandelslogo, die Liste der Unternehmen, die
-Arzneimittel im Wege des Versandhandels über das Internet anbieten,
-mit Angabe der jeweiligen Internetportale sowie über die Risiken, die
-mit dem illegalen Versandhandel von Arzneimitteln über das Internet
-verbunden sind.
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt für
+Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, ein
+allgemein zugängliches Internetportal zur Verfügung mit Informationen
+über die rechtlichen Rahmenbedingungen des Versandhandels,
+einschließlich des Hinweises, dass in den Mitgliedstaaten der
+Europäischen Union Unterschiede im Hinblick auf die Einstufung und die
+Abgabe von Arzneimitteln bestehen können, über das gemeinsame
+Versandhandelslogo, die Liste der Unternehmen, die Arzneimittel im
+Wege des Versandhandels über das Internet anbieten, mit Angabe der
+jeweiligen Internetportale sowie über die Risiken, die mit dem
+illegalen Versandhandel von Arzneimitteln über das Internet verbunden
+sind.
 
 
-## § 2 Datenübermittlung an das Deutsche Institut für Medizinische Dokumentation und Information
+## § 2 Datenübermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
 
 (1) Unbeschadet der Anforderungen anderer gesetzlicher Bestimmungen
 übermitteln die für den Vollzug des Arzneimittelgesetzes zuständigen
-Behörden des Bundes und der Länder an das Deutsche Institut für
-Medizinische Dokumentation und Information die in § 1 Absatz 1 Nummer
-1, 2, Absatz 2 und 3 genannten Daten durch Datenfernübertragung oder
-auf automatisiert verarbeitbaren Datenträgern. Die näheren
-Einzelheiten, insbesondere die technischen oder funktionsbedingten
-Anforderungen an die Datenübermittlung, einschließlich des Beginns und
-des Zeitraums der Übermittlung, werden vom Deutschen Institut für
-Medizinische Dokumentation und Information im Einvernehmen mit den
-zuständigen Behörden des Bundes und der Länder festgelegt; das
-Bundesamt für Sicherheit in der Informationstechnik ist zu beteiligen.
+Behörden des Bundes und der Länder an das Bundesinstitut für
+Arzneimittel und Medizinprodukte die in § 1 Absatz 1 Nummer 1, 2,
+Absatz 2 und 3 genannten Daten durch Datenfernübertragung oder auf
+automatisiert verarbeitbaren Datenträgern. Die näheren Einzelheiten,
+insbesondere die technischen oder funktionsbedingten Anforderungen an
+die Datenübermittlung, einschließlich des Beginns und des Zeitraums
+der Übermittlung, werden vom Bundesinstitut für Arzneimittel und
+Medizinprodukte im Einvernehmen mit den anderen zuständigen Behörden
+des Bundes und der Länder festgelegt; das Bundesamt für Sicherheit in
+der Informationstechnik ist zu beteiligen.
 
 (2) Pharmazeutische Unternehmer und Großhändler übermitteln die in § 1
-Absatz 1 Nummer 3 genannten Daten dem Deutschen Institut für
-Medizinische Dokumentation und Information durch Datenfernübertragung
-oder auf automatisiert verarbeitbaren Datenträgern. Dabei sind
-anzugeben:
+Absatz 1 Nummer 3 genannten Daten dem Bundesinstitut für Arzneimittel
+und Medizinprodukte durch Datenfernübertragung oder auf automatisiert
+verarbeitbaren Datenträgern. Dabei sind anzugeben:
 
 1.  die jährlich abgegebene Gesamtmenge, aufgeschlüsselt nach den ersten
     beiden Ziffern der Postleitzahl der Anschrift des jeweiligen
@@ -230,25 +235,23 @@ anzugeben:
 
 
 Die Angaben sind spätestens zum 31. März des Folgejahres, erstmals zum
-31\. März 2012 für das Jahr 2011 zu übermitteln. Das Deutsche Institut
-für Medizinische Dokumentation und Information bestimmt im
-Einvernehmen mit dem Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit sowie den sonstigen zuständigen Behörden des
-Bundes die näheren technischen oder funktionsbedingten Anforderungen
-an die Datenübermittlung, wie Eingabemasken, Formate, Vokabulare oder
-zu verwendende Datenträger, und macht diese Anforderungen im
-Bundesanzeiger bekannt; das Bundesamt für Sicherheit in der
-Informationstechnik ist zu beteiligen.
+31\. März 2012 für das Jahr 2011 zu übermitteln. Das Bundesinstitut für
+Arzneimittel und Medizinprodukte bestimmt im Einvernehmen mit dem
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit sowie den
+sonstigen zuständigen Behörden des Bundes die näheren technischen oder
+funktionsbedingten Anforderungen an die Datenübermittlung, wie
+Eingabemasken, Formate, Vokabulare oder zu verwendende Datenträger,
+und macht diese Anforderungen im Bundesanzeiger bekannt; das Bundesamt
+für Sicherheit in der Informationstechnik ist zu beteiligen.
 
 (3) Die nach den Absätzen 1 und 2 zur Übermittlung der Daten an das
-Deutsche Institut für Medizinische Dokumentation und Information
-Verpflichteten sind für die Richtigkeit und Vollständigkeit der
-übermittelten Daten verantwortlich. Bei der Übermittlung der Daten
-sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur
-Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.
-Im Fall der Nutzung allgemein zugänglicher Netze sind
-Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der
-Technik entsprechen.
+Bundesinstitut für Arzneimittel und Medizinprodukte Verpflichteten
+sind für die Richtigkeit und Vollständigkeit der übermittelten Daten
+verantwortlich. Bei der Übermittlung der Daten sind dem jeweiligen
+Stand der Technik entsprechende Maßnahmen zur Sicherstellung des
+Datenschutzes und der Datensicherheit zu treffen. Im Fall der Nutzung
+allgemein zugänglicher Netze sind Verschlüsselungsverfahren
+anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
 
 ## § 3 Bereitstellung von Daten und Nutzung des Informationssystems
@@ -275,38 +278,50 @@ Informationssystem
 Im Fall des Satzes 2 Nummer 2 erfasst bei Arzneimitteln, die
 ausschließlich für Geflügel zugelassen sind, die Bereitstellung zum
 Abruf nicht die Aufschlüsselung nach den Ziffern der Postleitzahl der
-Anschrift des jeweiligen Tierarztes. Der Abruf durch die genannten
-Stellen ist zulässig, soweit dies zur Wahrnehmung ihrer Aufgaben
-erforderlich ist.
+Anschrift des jeweiligen Tierarztes. Abweichend von Satz 3 kann die
+Bereitstellung zum Abruf auch die Aufschlüsselung nach den Ziffern der
+Postleitzahl der Anschrift des jeweiligen Tierarztes erfassen, sofern
+jederzeit sichergestellt ist, dass die Daten
 
-(2) Das Deutsche Institut für Medizinische Dokumentation und
-Information übermittelt der Europäischen Arzneimittel-Agentur die
-Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a, d, e, g und f im
-Hinblick auf die Anzeigen von Wirkstoffimporteuren, -herstellern und
--händlern. Die Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a werden
-nicht übermittelt, soweit die Herstellungserlaubnis nur für
-Fütterungsarzneimittel erteilt wurde.
+1.  ausschließlich zum Zweck des in § 67a Absatz 3a des
+    Arzneimittelgesetzes genannten Tierarzneimittel-Monitoring verwendet
+    und
 
-(3) Dem Deutschen Institut für Medizinische Dokumentation und
-Information können im Rahmen seiner gesetzlichen Zuständigkeit weitere
-Aufgaben zur zentralen Bereitstellung von Daten für oder zur zentralen
-Übermittlung von Daten an die Europäische Arzneimittel-Agentur
-zugewiesen werden. Die Entscheidung hierüber trifft das
-Bundesministerium für Gesundheit oder, soweit Arzneimittel betroffen
-sind, die zur Anwendung bei Tieren bestimmt sind, das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+
+2.  nicht für Überwachungszwecke genutzt
+
+
+
+werden. Der Abruf durch die genannten Stellen ist zulässig, soweit
+dies zur Wahrnehmung ihrer Aufgaben erforderlich ist.
+
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte
+übermittelt der Europäischen Arzneimittel-Agentur die Daten nach § 1
+Absatz 1 Nummer 2 Buchstabe a, d, e, g und f im Hinblick auf die
+Anzeigen von Wirkstoffimporteuren, -herstellern und -händlern. Die
+Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a werden nicht übermittelt,
+soweit die Herstellungserlaubnis nur für Fütterungsarzneimittel
+erteilt wurde.
+
+(3) Dem Bundesinstitut für Arzneimittel und Medizinprodukte können im
+Rahmen seiner gesetzlichen Zuständigkeit weitere Aufgaben zur
+zentralen Bereitstellung von Daten für oder zur zentralen Übermittlung
+von Daten an die Europäische Arzneimittel-Agentur zugewiesen werden.
+Die Entscheidung hierüber trifft das Bundesministerium für Gesundheit
+oder, soweit Arzneimittel betroffen sind, die zur Anwendung bei Tieren
+bestimmt sind, das Bundesministerium für Ernährung und Landwirtschaft
 im Einvernehmen mit dem Bundesministerium für Gesundheit. Sofern es
 sich um Mitteilungs- und Unterrichtungspflichten von Stellen der
 Länder handelt, werden die Aufgaben im Einvernehmen mit den
 zuständigen obersten Landesbehörden zugewiesen.
 
 (4) Eine Übermittlung der in § 1 Absatz 1 Nummer 1 und 2 genannten
-Daten durch das Deutsche Institut für Medizinische Dokumentation und
-Information an andere Stellen ist zulässig, soweit dies zur
-Wahrnehmung ihrer Aufgaben erforderlich ist und öffentliche Belange
-dem nicht entgegenstehen. Die Vorschriften zum Schutz
-personenbezogener Daten, zum Schutz des geistigen Eigentums und zum
-Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
+Daten durch das Bundesinstitut für Arzneimittel und Medizinprodukte an
+andere Stellen ist zulässig, soweit dies zur Wahrnehmung ihrer
+Aufgaben erforderlich ist und öffentliche Belange dem nicht
+entgegenstehen. Die Vorschriften zum Schutz personenbezogener Daten,
+zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und
+Geschäftsgeheimnissen bleiben unberührt.
 
 
 ## § 4 Speicherungsfrist
@@ -328,8 +343,12 @@ löschen.
 
 ## § 5 Auskunftsrecht
 
-§ 19 des Bundesdatenschutzgesetzes ist auf juristische Personen
-entsprechend anzuwenden.
+Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
+der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) ist auf
+juristische Personen entsprechend anzuwenden.
 
 
 ## § 6 Inkrafttreten

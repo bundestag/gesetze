@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 1270
 
 Zuletzt geändert durch
-:   Art. 3 G v. 13.12.2007 I 2904
+:   Art. 2d G v. 14.12.2019 I 2768
 
 
 ## Eingangsformel
@@ -29,16 +29,16 @@ beschlossen:
 ## § 1 Anspruch auf Hilfe
 
 (1) Frauen, die in dem in Artikel 3 des Einigungsvertrages genannten
-Gebiet infolge einer in den Jahren 1978 und 1979 durchgeführten
-Anti-D-Immunprophylaxe mit den Chargen des Bezirksinstituts für
-Blutspende- und Transfusionswesen des Bezirkes Halle Nrn. 080578,
-090578, 100678, 110678, 120778, 130778, 140778, 150878, 160978,
-171078, 181078, 191078, 201178, 211178 und 221278 mit dem
-Hepatitis-C-Virus infiziert wurden, sowie Kontaktpersonen, die von
-ihnen mit großer Wahrscheinlichkeit mit dem Hepatitis-C-Virus
-infiziert wurden, erhalten aus humanitären und sozialen Gründen
-Krankenbehandlung und eine finanzielle Hilfe. Eine finanzielle Hilfe
-erhalten auch die Hinterbliebenen eines nach Satz 1 Berechtigten.
+Gebiet infolge einer in den Jahren 1978 und 1979 durchgeführten Anti-
+D-Immunprophylaxe mit den Chargen des Bezirksinstituts für Blutspende-
+und Transfusionswesen des Bezirkes Halle Nrn. 080578, 090578, 100678,
+110678, 120778, 130778, 140778, 150878, 160978, 171078, 181078,
+191078, 201178, 211178 und 221278 mit dem Hepatitis-C-Virus infiziert
+wurden, sowie Kontaktpersonen, die von ihnen mit großer
+Wahrscheinlichkeit mit dem Hepatitis-C-Virus infiziert wurden,
+erhalten aus humanitären und sozialen Gründen Krankenbehandlung und
+eine finanzielle Hilfe. Eine finanzielle Hilfe erhalten auch die
+Hinterbliebenen eines nach Satz 1 Berechtigten.
 
 (2) Kontaktpersonen im Sinne des Absatzes 1 Satz 1 sind
 
@@ -175,13 +175,34 @@ frühestens mit dem auf den Sterbemonat folgenden Monat bei Hilfen nach
 Verkündung dieses Gesetzes beantragt, beginnt die Leistungsgewährung
 frühestens mit seinem Inkrafttreten.
 
-(2) § 62 Abs. 2 und § 66 des Bundesversorgungsgesetzes gelten
-entsprechend.
+(2) Für die Zahlung der Hilfen nach den §§ 3 und 4 gilt § 66 des
+Bundesversorgungsgesetzes entsprechend.
 
 (3) Abweichend von Absatz 1 Satz 1 wird über die Hilfen nach den §§ 3
 und 4 von Amts wegen entschieden, wenn bereits eine Anerkennung nach
 dem Bundes-Seuchengesetz vorliegt oder beantragt ist, die auf einem
 Tatbestand des § 1 beruht.
+
+
+## § 7a Bestandsschutz
+
+(1) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente
+nach § 3 Absatz 2 weiterhin in der für den letzten bei ihnen
+festgestellten Grad der Schädigungsfolgen vorgesehenen Höhe, wenn nach
+dem 31. Dezember 2019 auf Grund einer Neufestsetzung des Grades der
+Schädigungsfolgen eine niedrigere oder keine Rente zu leisten wäre.
+
+(2) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente
+nach § 3 Absatz 2 auf Antrag in der Höhe, die für den vor dem 1.
+Januar 2014 zuletzt bei ihnen festgestellten Grad der
+Schädigungsfolgen vorgesehen ist, wenn auf Grund von Neufestsetzungen
+des Grades der Schädigungsfolgen ab dem 1. Januar 2014 bis
+einschließlich 31. Dezember 2019 eine niedrigere oder keine Rente zu
+leisten war. Wurde der Antrag nach Satz 1 bis zum Ablauf des 30. Juni
+2020 gestellt, besteht der Anspruch ab dem 1. Januar 2020, andernfalls
+ab dem Ersten des Monats, in dem der Antrag gestellt wurde.
+
+(3) Anpassungen nach § 8 bleiben von den Absätzen 1 und 2 unberührt.
 
 
 ## § 8 Anpassung
@@ -219,23 +240,23 @@ Kosten trägt jeweils das Land, zu dessen heutigem Gebiet der Ort
 gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
 
 (3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach §
-3 Abs. 2 in Verbindung mit Abs. 1, §§ 4 und 13 Abs. 1 vom Bund 50 vom
-Hundert und von den Ländern Baden-Württemberg, Bayern, Bremen,
-Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz,
-Saarland und Schleswig-Holstein 12,4 vom Hundert der entstandenen
-Kosten erstattet. Das Anteilsverhältnis unter den zur Erstattung
-verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer
-Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer
-Bevölkerungszahl bestimmt.
+3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§
+4 und 13 Abs. 1 vom Bund 50 vom Hundert und von den Ländern Baden-
+Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
+Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein
+12,4 vom Hundert der entstandenen Kosten erstattet. Das
+Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird
+zu zwei Dritteln nach dem Verhältnis ihrer Steuereinnahmen und zu
+einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
 
 
 ## § 11 Zuständigkeit, Verfahren
 
 (1) Die Gewährung von Leistungen nach diesem Gesetz obliegt den für
 die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden
-des Landes, zu dessen heutigem Gebiet der Ort gehört, an dem die
-Anti-D-Immunprophylaxe durchgeführt wurde. Die örtliche Zuständigkeit
-der Behörden bestimmt sich nach den für den Vollzug des
+des Landes, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-
+D-Immunprophylaxe durchgeführt wurde. Die örtliche Zuständigkeit der
+Behörden bestimmt sich nach den für den Vollzug des
 Infektionsschutzgesetzes geltenden landesrechtlichen Regelungen.
 
 (2) Das Gesetz über das Verwaltungsverfahren der

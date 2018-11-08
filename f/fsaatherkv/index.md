@@ -109,8 +109,9 @@ Herkunftsgebiete
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
 9\.12.1994 I 3578)
 
+(zu § 1 Abs. 2)
 
-## Anlage 3 (zu § 1 Abs. 2) Übersicht über forstliche Herkunftsgebiete
+## Anlage 3 Übersicht über forstliche Herkunftsgebiete
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
 27\.2.2003 I 238, S. 3 - 13
@@ -1818,8 +1819,9 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
 
 
 
+(zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung)
 
-## Anlage 4 (zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung) Karte über forstliche Herkunftsgebiete
+## Anlage 4 Karte über forstliche Herkunftsgebiete
 
 (Inhalt: nicht darstellbare Karten,
 Karte über forstliche Herkunftsgebiete - Weißtanne,

@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 1965
 
 Neugefasst durch
-:   Bek. v. 23.4.1990 I 811,
+:   Bek. v. 23.4.1990 I 811;
 
-Geändert durch
-:   Art. 54 G v. 19.6.2001 I 1046
+Zuletzt geändert durch
+:   Art. 20i G v. 22.11.2021 I 4906
 
 
 ## Erster Teil - Wahl der Schwerbehindertenvertretung in Betrieben und Dienststellen
@@ -44,7 +44,7 @@ schwerbehinderten und diesen gleichgestellten behinderten Menschen
 (Wahlberechtigte) gewählt. Zu dieser Versammlung können drei
 Wahlberechtigte oder der Betriebs- oder Personalrat einladen. Das
 Recht des Integrationsamtes, zu einer solchen Versammlung einzuladen
-(§ 94 Abs. 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
+(§ 177 Absatz 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
 unberührt.
 
 
@@ -595,7 +595,7 @@ zustande, entscheidet das Los.
 
 (3) Sofern rechtzeitig vor Ablauf der Amtszeit der Konzern-, Gesamt-,
 Bezirks- oder Hauptschwerbehindertenvertretung eine Versammlung nach §
-97 Abs. 8 des Neunten Buches Sozialgesetzbuch stattfindet, kann die
+180 Absatz 8 des Neunten Buches Sozialgesetzbuch stattfindet, kann die
 Wahl abweichend von Absatz 1 im Rahmen dieser Versammlung durchgeführt
 werden. § 20 findet entsprechende Anwendung.
 
@@ -608,9 +608,9 @@ werden. § 20 findet entsprechende Anwendung.
 
 Für die Wahl der Schwerbehindertenvertretung, der Bezirks- und
 Hauptschwerbehindertenvertretung der schwerbehinderten Staatsanwälte
-und Staatsanwältinnen in den Fällen des § 94 Abs. 1 Satz 3 des Neunten
-Buches Sozialgesetzbuch gelten die Vorschriften des Ersten und Zweiten
-Teils entsprechend.
+und Staatsanwältinnen in den Fällen des § 177 Absatz 1 Satz 3 des
+Neunten Buches Sozialgesetzbuch gelten die Vorschriften des Ersten und
+Zweiten Teils entsprechend.
 
 
 ## Vierter Teil - Wahl der Schwerbehindertenvertretung, Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen
@@ -645,8 +645,9 @@ enthalten:
 schwerbehinderten Richter und Richterinnen nicht vorhanden, laden drei
 wahlberechtigte Richter und Richterinnen, der Richterrat oder der
 Präsidialrat zu der Wahlversammlung ein. Das Recht des
-Integrationsamtes, zu einer solchen Versammlung einzuladen (§ 94 Abs.
-6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt unberührt.
+Integrationsamtes, zu einer solchen Versammlung einzuladen (§ 177
+Absatz 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
+unberührt.
 
 
 ### § 25 Durchführung der Wahl
@@ -681,10 +682,19 @@ entsprechend.
 
 
 
-### § 28 Berlin-Klausel
+### § 28 Sonderregelungen aus Anlass der COVID-19-Pandemie
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 72 des Schwerbehindertengesetzes auch im Land Berlin.
+(1) Bis zum Ablauf des 19. März 2022 kann die Wahlversammlung der
+Schwerbehindertenvertretung im vereinfachten Wahlverfahren mittels
+Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass
+Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine
+Aufzeichnung ist unzulässig. Satz 1 gilt nicht für die Ausübung des
+Wahlrechts durch Stimmabgabe bei der Wahl der
+Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder.
+
+(2) Bis zum Ablauf des 19. März 2022 gilt § 11 für die Stimmabgabe bei
+der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden
+Mitglieder im vereinfachten Wahlverfahren entsprechend.
 
 
 ### § 29 (Inkrafttreten)

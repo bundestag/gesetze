@@ -17,6 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1215
 
+Geändert durch
+:   Art. 1 V v. 17.10.2014 I 1630
+
+V aufgeh. durch
+:   § 29 Abs. 2 dieser V mWv 1.8.2016; die Geltung dieser V ist gem. § 29 idF d. Art. 1 V v. 17.10.2014 I 1630 über den 31.7.2016 hinaus verlängert worden
+
 [^f775417_01_BJNR121500011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
@@ -28,7 +34,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
@@ -1938,20 +1944,17 @@ abgelegt wurde.
 
 ### § 29 Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig
-treten die Technischer Zeichner-Ausbildungsverordnung vom 17. Dezember
-1993 (BGBl. 1994 I S. 25), die zuletzt durch Artikel 2 der Verordnung
-vom 19. Juni 2000 (BGBl. I S. 863) geändert worden ist, und die
-Verordnung über die Berufsausbildung zum Technischen
-Produktdesigner/zur Technischen Produktdesignerin vom 24. Juni 2005
-(BGBl. I S. 1804, 2261) außer Kraft.
+Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig treten
+die Technischer Zeichner-Ausbildungsverordnung vom 17. Dezember 1993
+(BGBl. 1994 I S. 25), die zuletzt durch Artikel 2 der Verordnung vom
+19\. Juni 2000 (BGBl. I S. 863) geändert worden ist, und die Verordnung
+über die Berufsausbildung zum Technischen Produktdesigner/zur
+Technischen Produktdesignerin vom 24. Juni 2005 (BGBl. I S. 1804,
+2261) außer Kraft.
 
-(2) Diese Verordnung tritt am 31. Juli 2016 außer Kraft; die zu diesem
-Zeitpunkt bestehenden Berufsausbildungsverhältnisse werden nach den
-Vorschriften dieser Verordnung zu Ende geführt.
+(zu § 4 Absatz 1 Satz 1)
 
-
-### Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 (Fundstelle: BGBl. I 2011, 1227 - 1232)
 
@@ -2872,8 +2875,9 @@ Fähigkeiten**
 
 
 
+(zu § 4 Absatz 1 Satz 2)
 
-### Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 (Fundstelle: BGBl. I 2011, 1233 - 1243)
 
@@ -4650,8 +4654,9 @@ ausarbeiten
 
 
 
+(zu § 14 Absatz 1 Satz 1)
 
-### Anlage 3 (zu § 14 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1244 - 1250)
 
@@ -5723,8 +5728,9 @@ Fähigkeiten**
 
 
 
+(zu § 14 Absatz 1 Satz 2)
 
-### Anlage 4 (zu § 14 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1251 - 1261)
 

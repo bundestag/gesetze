@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 1996, 1794
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.7.2011 I 1349
+:   Art. 1 V v. 6.7.2020 I 1603
 
+Stand: Die §§ 1, 2 Abs. 1 Nr. 2 und 3, § 12 Nr. 3 und § 13 sind gem. § 15 dieser V und § 21 Abs. 2 des Ausführungsgesetzes zum Chemiewaffenübereinkommen (CWÜAG) iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 29.4.1997 in Kraft getreten
 
 ## Eingangsformel
 
@@ -715,9 +716,10 @@ Chemiewaffenübereinkommen im Bundesgesetzblatt bekanntgegeben wird. Im
 übrigen tritt diese Verordnung am Tage nach der Verkündung in Kraft.
 
 
-## Anhang 1 Chemikalienlisten*)
+## Anhang 1 Chemikalienlisten\*)\*\*)
 
-Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
+(Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Registriernummer nach
@@ -905,6 +907,109 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
     *   (9009-86-3)
 
 
+*    *   13.
+
+    *   P-Alkyl (H oder*                        C
+        10                        einschließlich Cycloalkyl)-N-(1-(dialkyl(*
+        C
+        10                        einschließlich
+        Cycloalkyl)amino))alkyliden(H oder*                        C
+        10                        einschließlich
+        Cycloalkyl)phosphonamidofluoride
+        sowie entsprechende alkylierte und protonierte Salze, z.B.
+
+    *
+
+*    *
+    *   P-n-Decyl-N-(1-(di-n-decylamino)-n-decyliden)phosphonamidofluorid
+
+    *   (2387495-99-8)
+
+
+*    *
+    *   P-Methyl-N-(1-(diethylamino)ethyliden)phosphonamidofluorid
+
+    *   (2387496-12-8)
+
+
+*    *   14.
+
+    *   O-Alkyl (H oder*                        C
+        10                        einschließlich Cycloalkyl)-N-(1-(dialkyl(*
+        C
+        10                        einschließlich
+        Cycloalkyl)amino))alkyliden(H oder*                        C
+        10                        einschließlich
+        Cycloalkyl)phosphoramidofluoride
+        sowie entsprechende alkylierte und protonierte Salze, z.B.
+
+    *
+
+*    *
+    *   O-n-Decyl-N-(1-(di-n-decylamino)-n-decyliden)phosphoramidofluorid
+
+    *   (2387496-00-4)
+
+
+*    *
+    *   O-Methyl-N-(1-(diethylamino)ethyliden)phosphoramidofluorid
+
+    *   (2387496-04-8)
+
+
+*    *
+    *   O-Ethyl-N-(1-(diethylamino)ethyliden)phosphoramidofluorid
+
+    *   (2387496-06-0)
+
+
+*    *   15.
+
+    *   P-Methyl-N-(bis(diethylamino)methyliden)phosphonamidofluorid
+
+    *   (2387496-14-0)
+
+
+*    *   16.
+
+    *   Carbamate (quaternäre und bisquaternäre Dimethylcarbamoyloxypyridine)
+        Quaternäre Dimethylcarbamoyloxypyridine:
+        1-[N,N-Dialkyl(*                        C
+        10                       )-N-(x-(hydroxy, cyano, acetoxy)alkyl(*
+        C
+        10                       )) ammonio]- 10-[N-(3-dimethylcarbamoyloxy-*
+        -picolinyl)-N,N-dialkyl(*                        C
+        10                       ) ammonio]-
+        n-decan-dibromide (x = 1-8) z.B.
+
+    *
+
+*    *
+    *   1-[N,N-Dimethyl-N-(2-hydroxy)ethylammonio]-
+        10-[N-(3-dimethylcarbamoyloxy-*
+        -picolinyl)-N,N-dimethylammonio]-
+        n-decan-dibromid
+
+    *   (77104-62-2)
+
+
+*    *
+    *   Bisquaternäre Dimethylcarbamoyloxypyridine:
+        1,x-Bis[N-(3-dimethylcarbamoyloxy-*
+        -picolinyl)-N,N-dialkyl(*                        C
+        10                       ) ammonio]-
+        n-alkan-(2,(x-1)-dion)-dibromide (x = 2-12) z.B.
+
+    *
+
+*    *
+    *   1,10-Bis[N-(3-dimethylcarbamoyloxy-*
+        -picolinyl)-N-ethyl-N-methylammonio]-
+        n-decan-2,9-dion-dibromid
+
+    *   (77104-00-8)
+
+
 *    *   B.
 
     *   Ausgangsstoffe:
@@ -937,16 +1042,6 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
     *   (57856-11-8)
 
 
-*    *   \*)
-
-    *   Jeder Hinweis auf Gruppen dialkyllierter Chemikalien, denen - in
-        Klammern - eine Aufzählung von Alkylgruppen folgt, bedeutet, daß alle
-        Verbindungen, die sich durch sämtliche möglichen Kombinationen der in
-        Klammern genannten Alkylgruppen ergeben, als in die entsprechende
-        Liste eingetragen gelten, sofern sie nicht ausdrücklich ausgenommen
-        sind.
-
-
 *    *
 
 *    *   Registriernummer nach
@@ -971,6 +1066,8 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
 
     *   (7040-57-5)
 
+
+*    *
 
 *    *   **Liste 2**
 
@@ -1257,6 +1354,26 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
     *   Triethanolamin
 
     *   (102-71-6)
+
+
+*    *   \*)
+
+    *   Jeder Hinweis auf Gruppen dialkyllierter Chemikalien, denen - in
+        Klammern - eine Aufzählung von Alkylgruppen folgt, bedeutet, daß alle
+        Verbindungen, die sich durch sämtliche möglichen Kombinationen der in
+        Klammern genannten Alkylgruppen ergeben, als in die entsprechende
+        Liste eingetragen gelten, sofern sie nicht ausdrücklich ausgenommen
+        sind.
+
+
+*    *   *\*)
+
+    *   Die in den Nummern 13, 14, 15 und 16 aufgeführten Chemikalien wurden
+        durch zwei Entscheidungen der 24. Konferenz der Vertragsstaaten der
+        Organisation für das Verbot von Chemiewaffen vom 27. November 2019
+        (C-24/DEC.4 und C-24/DEC.5) unter gleicher Nummerierung in den Anhang
+        1, Teil B, Liste 1, Abschnitt A des Chemiewaffenübereinkommens
+        aufgenommen.
 
 
 

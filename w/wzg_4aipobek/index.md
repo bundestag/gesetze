@@ -36,6 +36,5 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-(Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1962, 480)
-
+![bgbl1_1962_j0480_0010.jpg](bgbl1_1962_j0480_0010.jpg)

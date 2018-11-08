@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 750 (1067)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.1.2010 I 10
+:   Art. 8 V v. 11.12.2014 I 2010
 
 
 ## Eingangsformel
@@ -45,8 +45,8 @@ abgeschlossen werden, die von den §§ 2 bis 34 abweichen, wenn das
 Wasserversorgungsunternehmen einen Vertragsabschluß zu den allgemeinen
 Bedingungen dieser Verordnung angeboten hat und der Kunde mit den
 Abweichungen ausdrücklich einverstanden ist. Auf die abweichenden
-Bedingungen sind die §§ 3 bis 11 des Gesetzes zur Regelung des Rechts
-der Allgemeinen Geschäftsbedingungen anzuwenden.
+Bedingungen sind die §§ 305 bis 310 des Bürgerlichen Gesetzbuchs
+anzuwenden.
 
 (4) Das Wasserversorgungsunternehmen hat seine allgemeinen
 Versorgungsbedingungen, soweit sie in dieser Verordnung nicht
@@ -325,11 +325,17 @@ berechtigten Interessen vom Wasserversorgungsunternehmen bestimmt.
 
 (3) Hausanschlüsse gehören zu den Betriebsanlagen des
 Wasserversorgungsunternehmens und stehen vorbehaltlich abweichender
-Vereinbarung in dessen Eigentum. Sie werden ausschließlich von diesem
-hergestellt, unterhalten, erneuert, geändert, abgetrennt und
-beseitigt, müssen zugänglich und vor Beschädigungen geschützt sein.
-Soweit das Versorgungsunternehmen die Erstellung des Hausanschlusses
-oder Veränderungen des Hausanschlusses nicht selbst, sondern durch
+Vereinbarung in dessen Eigentum. In dem in Artikel 3 des
+Einigungsvertrages genannten Gebiet bleibt das am Tag des
+Wirksamwerdens des Beitritts bestehende Eigentum eines Kunden an einem
+Hausanschluss, den er auf eigene Kosten errichtet oder erweitert hat,
+bestehen, solange er das Eigentum nicht auf das
+Wasserversorgungsunternehmen überträgt. Hausanschlüsse werden
+ausschließlich von dem Wasserversorgungsunternehmen hergestellt,
+unterhalten, erneuert, geändert, abgetrennt und beseitigt, müssen
+zugänglich und vor Beschädigungen geschützt sein. Soweit das
+Versorgungsunternehmen die Erstellung des Hausanschlusses oder
+Veränderungen des Hausanschlusses nicht selbst, sondern durch
 Nachunternehmer durchführen läßt, sind Wünsche des Anschlußnehmers bei
 der Auswahl der Nachunternehmen zu berücksichtigen. Der Anschlußnehmer
 hat die baulichen Voraussetzungen für die sichere Errichtung des
@@ -417,9 +423,9 @@ neben diesem verantwortlich.
 
 (2) Die Anlage darf nur unter Beachtung der Vorschriften dieser
 Verordnung und anderer gesetzlicher oder behördlicher Bestimmungen
-sowie nach den anerkannten Regeln der Technik errichtet, erweitert,
-geändert und unterhalten werden. Die Errichtung der Anlage und
-wesentliche Veränderungen dürfen nur durch das
+sowie nach den allgemein anerkannten Regeln der Technik errichtet,
+erweitert, geändert und unterhalten werden. Die Errichtung der Anlage
+und wesentliche Veränderungen dürfen nur durch das
 Wasserversorgungsunternehmen oder ein in ein Installateurverzeichnis
 eines Wasserversorgungsunternehmens eingetragenes
 Installationsunternehmen erfolgen. Das Wasserversorgungsunternehmen
@@ -432,31 +438,7 @@ Messung zu gewährleisten. Die dafür erforderliche Ausstattung der
 Anlage ist nach den Angaben des Wasserversorgungsunternehmens zu
 veranlassen.
 
-(4) Es dürfen nur Produkte und Geräte verwendet werden, die den
-allgemein anerkannten Regeln der Technik entsprechen. Die Einhaltung
-der Voraussetzungen des Satzes 1 wird vermutet, wenn eine CE-
-Kennzeichnung für den ausdrücklichen Einsatz im Trinkwasserbereich
-vorhanden ist. Sofern diese CE-Kennzeichnung nicht vorgeschrieben ist,
-wird dies auch vermutet, wenn das Produkt oder Gerät ein Zeichen eines
-akkreditierten Branchenzertifizierers trägt, insbesondere das DIN-
-DVGW-Zeichen oder DVGW-Zeichen. Produkte und Geräte, die
-
-1.  in einem anderen Vertragsstaat des Abkommens über den Europäischen
-    Wirtschaftsraum rechtmäßig hergestellt worden sind oder
-
-
-2.  in einem anderen Mitgliedstaat der Europäischen Union oder in der
-    Türkei rechtmäßig hergestellt oder in den Verkehr gebracht worden sind
-
-
-
-und die nicht den technischen Spezifikationen der Zeichen nach Satz 3
-entsprechen, werden einschließlich der in den vorgenannten Staaten
-durchgeführten Prüfungen und Überwachungen als gleichwertig behandelt,
-wenn mit ihnen das in Deutschland geforderte Schutzniveau
-gleichermaßen dauerhaft erreicht wird.
-
-(5) Die Teile des Hausanschlusses, die in Anwendung von § 10 Abs. 6 im
+(4) Die Teile des Hausanschlusses, die in Anwendung von § 10 Abs. 6 im
 Eigentum des Kunden stehen und zu deren Unterhaltung er verpflichtet
 ist, sind Bestandteile der Kundenanlage.
 
@@ -570,11 +552,10 @@ Frost zu schützen.
 
 ## § 19 Nachprüfung von Meßeinrichtungen
 
-(1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
-durch eine Eichbehörde oder eine staatlich anerkannte Prüfstelle im
-Sinne des § 6 Abs. 2 des Eichgesetzes verlangen. Stellt der Kunde den
-Antrag auf Prüfung nicht bei dem Wasserversorgungsunternehmen, so hat
-er dieses vor Antragstellung zu benachrichtigen.
+(1) Der Kunde kann jederzeit die Nachprüfung der Messeinrichtung nach
+§ 39 des Mess- und Eichgesetzes verlangen. Stellt der Kunde den Antrag
+auf Prüfung nicht bei dem Wasserversorgungsunternehmen, so hat er
+dieses vor Antragstellung zu benachrichtigen.
 
 (2) Die Kosten der Prüfung fallen dem Unternehmen zur Last, falls die
 Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst
@@ -882,11 +863,10 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 ## § 34 Gerichtsstand
 
-(1) Der Gerichtsstand für Kaufleute, die nicht zu den in § 4 des
-Handelsgesetzbuchs bezeichneten Gewerbetreibenden gehören, juristische
-Personen des öffentlichen Rechts und öffentlich-rechtliche
-Sondervermögen ist am Sitz der für den Kunden zuständigen
-Betriebsstelle des Wasserversorgungsunternehmens.
+(1) Der Gerichtsstand für Kaufleute, juristische Personen des
+öffentlichen Rechts und öffentlich-rechtliche Sondervermögen ist am
+Sitz der für den Kunden zuständigen Betriebsstelle des
+Wasserversorgungsunternehmens.
 
 (2) Das gleiche gilt,
 
@@ -915,11 +895,8 @@ die das Versorgungsverhältnis öffentlich-rechtlich regeln, sind bis
 zum 1. Januar 1982 anzupassen.
 
 
-## § 36 Berlin-Klausel
+## § 36 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 29 des Gesetzes zur Regelung des Rechts der
-Allgemeinen Geschäftsbedingungen auch im Land Berlin.
 
 
 ## § 37 Inkrafttreten
@@ -940,32 +917,4 @@ Abrechnungszeiträume, die nach dem 31. Dezember 1980 beginnen.
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1008) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser
-vom 20. Juni 1980 (BGBl. I S. 750, 1067)
-mit folgenden Maßgaben:
-
-*
-    a)  Für am Tage des Wirksamwerdens des Beitritts bestehende
-        Versorgungsverträge sind die Wasserversorgungsunternehmen von der
-        Verpflichtung nach § 2 Abs. 1 Satz 2 bis zum 30. Juni 1992 befreit.
-
-
-    b)  Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens des
-        Beitritts bestehende Eigentum eines Kunden an einem Hausanschluß, den
-        er auf eigene Kosten errichtet oder erweitert hat, bestehen, solange
-        er das Eigentum nicht auf das Wasserversorgungsunternehmen überträgt.
-
-
-
-
-
-
 

@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 810
 
+V aufgeh. durch
+:   Art. 4 Abs. 18 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+V aufgeh. durch
+:   Art. 4 Abs. 19 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 19 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 ## Eingangsformel
 

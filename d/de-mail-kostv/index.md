@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 267
 
+V aufgeh. durch
+:   Art. 3 Abs. 8 G v. 18.7.2016 I 1666 mWv 1.10.2019
+
+Geändert durch
+:   Art. 2 Abs. 11 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 3 Abs. 9 G v. 7.8.2013 I 3154 mWv 14.8.2016, Art. 3 Abs. 9 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2016
+
 
 ## Eingangsformel
 
@@ -31,7 +40,7 @@ Informationsfreiheit erhebt Gebühren für die Erteilung des Zertifikats
 gemäß § 18 Absatz 3 Nummer 4 des De-Mail-Gesetzes.
 
 (2) Das Bundesamt für Sicherheit in der Informationstechnik erhebt für
-folgende Amtshandlungen Gebühren:
+folgende individuell zurechenbare öffentliche Leistungen Gebühren:
 
 1.  Erteilung der Akkreditierung gemäß § 17 Absatz 1 des De-Mail-Gesetzes,
 
@@ -87,8 +96,9 @@ Stundensätze sind zugrunde zu legen:
 Für jede angefangene Viertelstunde ist ein Viertel der Stundensätze zu
 berechnen.
 
-(4) Werden Amtshandlungen außerhalb der Dienststellen erbracht, sind
-dem Zeitaufwand nach Absatz 3 hinzuzurechnen:
+(4) Werden individuell zurechenbare öffentliche Leistungen außerhalb
+der Dienststellen erbracht, sind dem Zeitaufwand nach Absatz 3
+hinzuzurechnen:
 
 1.  Reisezeiten, die innerhalb der üblichen Arbeitszeit liegen oder vom
     Bundesbeauftragten für den Datenschutz und die Informationsfreiheit

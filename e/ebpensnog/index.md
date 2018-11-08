@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 101
 
 Zuletzt geändert durch
-:   Art. 11 G v. 20.04.2007 I 554
+:   Art. 2 Abs. 46 G v. 1.4.2015 I 434
 
 
 ## § 1 Umwandlung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
@@ -49,8 +49,8 @@ Kasse. Der Vorstand beruft spätestens bis zum 30. Juni 2006 die
 nächste Hauptversammlung ein.
 
 (6) Die Kasse gilt als zum Geschäftsbetrieb in der Versicherungssparte
-19 der Anlage Teil A des Versicherungsaufsichtsgesetzes zugelassen.
-Die Kasse hat die Anforderungen des § 53c Abs. 1 bis 3c und der
+19 der Anlage 1 zum Versicherungsaufsichtsgesetz zugelassen. Die Kasse
+hat die Anforderungen des § 53c Abs. 1 bis 3c und der
 Kapitalausstattungs-Verordnung spätestens bis zum 31. Dezember 2007 zu
 erfüllen. Hat die Kasse die geforderte Solvabilitätsspanne bis zum 31.
 Dezember 2007 noch nicht voll erreicht, kann die Aufsichtsbehörde der
@@ -141,8 +141,10 @@ Anwendung.
 ## (XXXX) §§ 7 bis 9 (weggefallen)
 
 
+Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 995)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 995) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

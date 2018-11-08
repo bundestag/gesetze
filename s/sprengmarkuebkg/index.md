@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 1. März 1991 über die Markierung von P
   zum Zweck des Aufspürens
 jurabk: SprengMarkÜbkG
 layout: default
-origslug: sprengmark_bkg
+origslug: sprengmarkuebkg
 slug: sprengmarkuebkg
 
 ---

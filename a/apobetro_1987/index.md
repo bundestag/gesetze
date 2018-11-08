@@ -19,7 +19,16 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.6.2012 I 1254
+:   Art. 9b G v. 29.3.2021 I 370
+
+Änderung durch
+:   Art. 4 V v. 21.4.2021 I 833 (Nr. 19) ist berücksichtigt
+
+Änderung durch
+:   Art. 10 G v. 3.6.2021 I 1309 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
@@ -37,12 +46,19 @@ apothekenpflichtigen Medizinprodukten sicherzustellen ist.
 
 (2) Diese Verordnung findet auf den Apothekenbetrieb insoweit keine
 Anwendung, als eine Erlaubnis nach § 13, § 52a oder § 72 des
-Arzneimittelgesetzes erteilt worden ist.
+Arzneimittelgesetzes oder nach Artikel 61 der Verordnung (EU) Nr.
+536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014
+über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der
+Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) erteilt worden
+ist.
 
 (3) Die Medizinprodukte-Betreiberverordnung in der Fassung der
-Bekanntmachung vom 21. August 2002 (BGBl. I S. 3396) und die
-Medizinprodukte-Sicherheitsplanverordnung vom 24. Juni 2002 (BGBl. I
-S. 2131), jeweils in der geltenden Fassung, bleiben unberührt.
+Bekanntmachung vom 21. August 2002 (BGBl. I S. 3396), die Vorschriften
+des Kapitels 5 des Medizinprodukterecht-Durchführungsgesetzes vom 28.
+April 2020 (BGBl. I S. 960) und die Medizinprodukte-
+Anwendermelde-              und Informationsverordnung vom 21. April
+2021 (BGBl. I S. 833), jeweils in der geltenden Fassung, bleiben
+unberührt.
 
 
 ### § 1a Begriffsbestimmungen
@@ -493,8 +509,8 @@ als Ausgangsstoffe ist ein gesonderter Arbeitsplatz vorzusehen. Absatz
 Lagerung der in der Apotheke vorrätig gehaltenen oder vertriebenen
 Produkte ermöglichen. Es muss eine Lagerhaltung unterhalb einer
 Temperatur von 25 Grad Celsius möglich sein. Für Arzneimittel oder
-Ausgangsstoffe, die nach § 21 Nummer 7 abzusondern sind, und für
-gefälschte Arzneimittel, die nach § 21 Nummer 8 gesichert
+Ausgangsstoffe, die nach § 21 Absatz 4 Satz 2 abzusondern sind, und
+für Arzneimittel, die nach § 21 Absatz 5 Satz 1 gesichert
 aufzubewahren sind, ist ein separater und entsprechend
 gekennzeichneter Lagerbereich vorzusehen. Soweit Arzneimittel
 außerhalb der Öffnungszeiten der Apotheke angeliefert werden, muss die
@@ -506,8 +522,8 @@ mindestens separate und entsprechend gekennzeichnete Lagerbereiche
 vorhalten.
 
 (3) Eine Zweigapotheke muß mindestens aus einer Offizin, ausreichendem
-Lagerraum und einem Nachtdienstzimmer bestehen. § 4 Absatz 2 Satz 1
-und 2 findet keine Anwendung.
+Lagerraum und einem Nachtdienstzimmer bestehen. Absatz 2 Satz 1 und 3
+findet keine Anwendung.
 
 (4) Absatz 1 Satz 2 Nummer 5 wird nicht angewendet auf
 
@@ -688,7 +704,7 @@ legen. In der Apotheke ist mindestens die Identität des Arzneimittels
 festzustellen; über die durchgeführten Prüfungen sind Aufzeichnungen
 zu machen.
 
-(4) Die Vorschriften des Medizinproduktegesetzes über die Herstellung,
+(4) Die Vorschriften des Medizinprodukterechts über die Herstellung,
 Sonderanfertigung und Eigenherstellung von Medizinprodukten bleiben
 unberührt.
 
@@ -996,13 +1012,14 @@ aufweisen:
     unterschiedlich, des Herstellers,
 
 
-2.  Inhalt nach Gewicht, Rauminhalt oder Stückzahl,
+2.  Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
 
 
 3.  Art der Anwendung,
 
 
-4.  Gebrauchsanweisung,
+4.  Gebrauchsanweisung, sofern das Arzneimittel nicht unmittelbar an die
+    verschreibende Person abgegeben wird,
 
 
 5.  Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art,
@@ -1011,10 +1028,10 @@ aufweisen:
 6.  Herstellungsdatum,
 
 
-7.  Verwendbarkeitsfrist mit dem Hinweis „verwendbar bis“ unter Angabe von
-    Tag, Monat und Jahr und, soweit erforderlich, Angabe der Haltbarkeit
-    nach dem Öffnen des Behältnisses oder nach Herstellung der
-    gebrauchsfertigen Zubereitung,
+7.  Verwendbarkeitsfrist mit dem Hinweis „verwendbar bis“ oder mit der
+    Abkürzung „verw. bis“ unter Angabe von Tag, Monat und Jahr und, soweit
+    erforderlich, Angabe der Haltbarkeit nach dem Öffnen des Behältnisses
+    oder nach Herstellung der gebrauchsfertigen Zubereitung,
 
 
 8.  soweit erforderlich, Hinweise auf besondere Vorsichtsmaßnahmen, für
@@ -1031,17 +1048,28 @@ aufweisen:
 Die Angaben müssen in gut lesbarer Schrift und auf dauerhafte Weise
 angebracht und mit Ausnahme der Nummer 5 in deutscher Sprache verfasst
 sein. Soweit für das Rezepturarzneimittel ein Fertigarzneimittel als
-Ausgangsstoff eingesetzt wird, genügt anstelle der Angabe nach Nummer
-5 die Angabe der Bezeichnung des Fertigarzneimittels. Die Angaben nach
+Ausgangsstoff eingesetzt wird, genügt anstelle der Angabe nach Satz 1
+Nummer 5 die Angabe der Bezeichnung des Fertigarzneimittels; soweit es
+sich um eine patientenindividuell hergestellte parenterale Zubereitung
+handelt, sind zusätzlich zu der Angabe nach Satz 1 Nummer 5 die
+Bezeichnung des Fertigarzneimittels, die Chargenbezeichnung sowie der
+Name des pharmazeutischen Unternehmers anzugeben. Die Angaben nach
 Nummer 8 können auch in einem Begleitdokument gemacht werden.
 
 (1a) Soweit es sich bei den Arzneimitteln um aus Fertigarzneimitteln
 entnommene Teilmengen handelt, sind neben der vom Arzneimittelgesetz
 geforderten Kennzeichnung Name und Anschrift der Apotheke anzugeben.
 
-(1b) Für die Kennzeichnung von Arzneimitteln, die zur klinischen
-Prüfung am Menschen bestimmt sind, ist § 5 der GCP-Verordnung
-anzuwenden.
+(1b) Für die Kennzeichnung von Arzneimitteln, die in den
+Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen, sind die
+Artikel 66 und 67 in Verbindung mit Anhang VI der Verordnung (EU) Nr.
+536/2014 in der jeweils geltenden Fassung anzuwenden. Für die
+Kennzeichnung sonstiger Arzneimittel, die zur klinischen Prüfung am
+Menschen bestimmt sind, ist § 5 der GCP-Verordnung vom 9. August 2004
+(BGBl. I S. 2081), die durch Artikel 13 Absatz 4 des Vierten Gesetzes
+zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) aufgehoben worden ist, in der am Tag
+vor ihrem Außerkrafttreten geltenden Fassung anzuwenden.
 
 (2) Auf Defekturarzneimittel, die als Fertigarzneimittel in einer zur
 Abgabe an den Verbraucher bestimmten Packung vorrätig gehalten werden
@@ -1170,8 +1198,13 @@ Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der
 Patienten des Krankenhauses notwendigen Arzneimittel und, soweit nach
 dem Versorgungsvertrag vorgesehen, Medizinprodukte in einer Art und
 Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf
-für zwei Wochen entspricht. Diese Arzneimittel und Medizinprodukte
-sind aufzulisten.
+für zwei Wochen entspricht. Abweichend von Satz 1 muss der Leiter
+einer krankenhausversorgenden Apotheke parenteral anzuwendende
+Arzneimittel zur intensivmedizinischen Versorgung in einer Art und
+Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf
+der intensivmedizinischen Abteilungen des jeweils versorgten
+Krankenhauses für vier Wochen entspricht. Diese Arzneimittel und
+Medizinprodukte sind aufzulisten.
 
 
 ### § 16 Lagerung
@@ -1183,10 +1216,10 @@ werden. Soweit ihre ordnungsgemäße Qualität nicht festgestellt ist,
 sind sie unter entsprechender Kenntlichmachung gesondert zu lagern.
 Dies gilt auch für Behältnisse, äußere Umhüllungen,
 Kennzeichnungsmaterial, Packungsbeilagen und Packmittel. Die
-Vorschriften der Gefahrstoffverordnung sowie des Betäubungsmittel- und
-des Medizinproduktegesetzes einschließlich der hierzu erlassenen
-Verordnungen bleiben unberührt. Die Lagerungshinweise des Arzneibuches
-sind zu beachten.
+Vorschriften der Gefahrstoffverordnung, des Betäubungsmittelgesetzes
+einschließlich der hierzu erlassenen Verordnungen sowie des
+Medizinprodukterechts bleiben unberührt. Die Lagerungshinweise des
+Arzneibuches sind zu beachten.
 
 (2) Die Vorratsbehältnisse für Arzneimittel und Ausgangsstoffe müssen
 so beschaffen sein, daß die Qualität des Inhalts nicht beeinträchtigt
@@ -1214,30 +1247,80 @@ Apothekenbetriebsräumen in den Verkehr gebracht und nur durch
 pharmazeutisches Personal ausgehändigt werden. Satz 1 ist auf
 apothekenpflichtige Medizinprodukte entsprechend anzuwenden.
 
-(2) Die Zustellung durch Boten der Apotheke ist im Einzelfall ohne
-Erlaubnis nach § 11a des Apothekengesetzes zulässig; dabei sind die
-Arzneimittel für jeden Empfänger getrennt zu verpacken und jeweils mit
-dessen Namen und Anschrift zu versehen. Absatz 2a Satz 1 Nr. 1 und 2
-und Satz 2 gilt entsprechend; Absatz 2a Satz 1 Nr. 5 bis 7 und 9 ist,
-soweit erforderlich, ebenfalls anzuwenden. Bei Zustellung durch Boten
-ist dafür Sorge zu tragen, daß die Arzneimittel dem Empfänger in
-zuverlässiger Weise ausgeliefert werden. Sofern eine Beratung in der
-Apotheke nicht bereits vorgenommen wurde, muss die Beratung durch das
-pharmazeutische Personal der Apotheke in unmittelbarem Zusammenhang
-mit der Auslieferung erfolgen. Die Vorschriften des § 43 Abs. 5 des
-Arzneimittelgesetzes über die Abgabe von Arzneimitteln, die zur
-Anwendung bei Tieren bestimmt sind, bleiben unberührt.
+(1b) Automatisierte Ausgabestationen sind zur Bereitstellung,
+Aushändigung und Ausgabe von Arzneimitteln nur zulässig, wenn sie sich
+innerhalb der Betriebsräume einer Apotheke befinden, einen Zugriff von
+außen für den Empfänger ermöglichen, sofern eine Ausgabe außerhalb der
+Betriebszeiten dieser Apotheke vorgesehen ist, und erst durch Personal
+dieser Apotheke bestückt werden, nachdem
+
+1.  die Bestellung des Arzneimittels oder der Arzneimittel bei dieser
+    Apotheke erfolgt ist,
+
+
+2.  bereits eine Beratung, die auch im Wege der Telekommunikation durch
+    diese Apotheke erfolgen kann, stattgefunden hat und
+
+
+3.  bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des
+    Arzneimittelgesetzes unterliegen, die Verschreibung im Original gemäß
+    den Dokumentationspflichten nach den Absätzen 5 und 6 geprüft,
+    geändert und abgezeichnet worden ist.
+
+
+
+Die Arzneimittel sind für jeden Empfänger getrennt zu verpacken und
+jeweils mit dessen Namen und Anschrift zu versehen. Abweichend von
+Satz 1 sind automatisierte Ausgabestationen zur Bereitstellung,
+Aushändigung und Ausgabe von Arzneimitteln für den zugelassenen
+Versandhandel mit Arzneimitteln zulässig, wenn sie bestückt werden,
+nachdem die Voraussetzungen nach Satz 1 Nummer 1 bis 3 erfüllt sind. §
+52 Absatz 1 Nummer 1 des Arzneimittelgesetzes bleibt unberührt.
+
+(2) Die Zustellung von Arzneimitteln durch Boten der Apotheke ist ohne
+Erlaubnis nach § 11a des Apothekengesetzes zulässig. Bei der
+Zustellung durch Boten der Apotheke sind die Arzneimittel für jeden
+Empfänger getrennt zu verpacken und jeweils mit dessen Namen und
+Anschrift zu versehen. Absatz 2a Satz 1 Nummer 1, 2 und 8 und Satz 2
+gilt entsprechend. Bei einer Zustellung von Arzneimitteln durch Boten
+der Apotheke hat der Apothekenleiter sicherzustellen, dass die
+Arzneimittel dem Empfänger in zuverlässiger Weise geliefert werden.
+Die Zustellung muss durch pharmazeutisches Personal der Apotheke
+erfolgen, wenn vor der Auslieferung
+
+1.  bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des
+    Arzneimittelgesetzes unterliegen, die Verschreibung nicht in der
+    Apotheke vorgelegen hat oder
+
+
+2.  keine Beratung zu den Arzneimitteln stattgefunden hat.
+
+
+
+Hat die Verschreibung vor der Auslieferung nicht in der Apotheke
+vorgelegen, so muss diese spätestens bei der Aushändigung der
+Arzneimittel übergeben werden. Hat vor der Auslieferung keine Beratung
+stattgefunden, so muss diese in unmittelbarem Zusammenhang mit der
+Aushändigung des Arzneimittels erfolgen. Die Beratung kann auch im
+Wege der Telekommunikation durch die Apotheke erfolgen. § 4 Absatz 1
+der Arzneimittelverschreibungsverordnung und § 43 Absatz 5 des
+Arzneimittelgesetzes bleiben unberührt.
 
 (2a) Bei dem nach § 11a des Apothekengesetzes erlaubten Versand hat
 der Apothekenleiter sicherzustellen, dass
 
 1.  das Arzneimittel so verpackt, transportiert und ausgeliefert wird,
-    dass seine Qualität und Wirksamkeit erhalten bleibt,
+    dass seine Qualität und Wirksamkeit erhalten bleibt; insbesondere
+    müssen die für das Arzneimittel geltenden Temperaturanforderungen
+    während des Transports bis zur Abgabe an den Empfänger eingehalten
+    werden; die Einhaltung muss bei besonders temperaturempfindlichen
+    Arzneimitteln, soweit erforderlich, durch mitgeführte
+    Temperaturkontrollen valide nachgewiesen werden,
 
 
 2.  das Arzneimittel entsprechend den Angaben des Auftraggebers
     ausgeliefert und gegebenenfalls die Auslieferung schriftlich bestätigt
-    wird. Der Apotheker kann in begründeten Fällen entgegen der Angabe des
+    wird; der Apotheker kann in begründeten Fällen entgegen der Angabe des
     Auftraggebers, insbesondere wegen der Eigenart des Arzneimittels,
     verfügen, dass das Arzneimittel nur gegen schriftliche
     Empfangsbestätigung ausgeliefert wird,
@@ -1286,11 +1369,16 @@ der Apothekenleiter sicherzustellen, dass
 Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des
 Arzneimittels ein Informations- oder Beratungsbedarf besteht, der auf
 einem anderen Wege als einer persönlichen Information oder Beratung
-durch einen Apotheker nicht erfolgen kann.
+durch einen Apotheker nicht erfolgen kann. Satz 1 gilt auch beim
+Versand aus einem Mitgliedstaat der Europäischen Union oder einem
+anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum nach Deutschland.
 
-(2b) Für Arzneimittel, die die Wirkstoffe Thalidomid oder Lenalidomid
-enthalten, ist ein Inverkehrbringen im Wege des Versandes nach § 43
-Abs. 1 Satz 1 des Arzneimittelgesetzes nicht zulässig.
+(2b) Für Arzneimittel, die die Wirkstoffe Lenalidomid, Pomalidomid
+oder Thalidomid enthalten sowie für zur Notfallkontrazeption
+zugelassene Arzneimittel mit den Wirkstoffen Levonorgestrel oder
+Ulipristalacetat, ist ein Inverkehrbringen im Wege des Versandes nach
+§ 43 Abs. 1 Satz 1 des Arzneimittelgesetzes nicht zulässig.
 
 (3) Der Apothekenleiter darf Arzneimittel und Medizinprodukte, die der
 Apothekenpflicht unterliegen, nicht im Wege der Selbstbedienung in den
@@ -1302,15 +1390,23 @@ Verschreibung angemessenen Zeit auszuführen.
 
 (5) Die abgegebenen Arzneimittel müssen den Verschreibungen und den
 damit verbundenen Vorschriften des Fünften Buches Sozialgesetzbuch zur
-Arzneimittelversorgung entsprechen. Enthält eine Verschreibung einen
-für den Abgebenden erkennbaren Irrtum, ist sie nicht lesbar oder
-ergeben sich sonstige Bedenken, so darf das Arzneimittel nicht
-abgegeben werden, bevor die Unklarheit beseitigt ist. Der Apotheker
-hat jede Änderung auf der Verschreibung zu vermerken und zu
-unterschreiben oder im Falle der Verschreibung in elektronischer Form
-der elektronischen Verschreibung hinzuzufügen und das Gesamtdokument
-mit einer qualifizierten elektronischen Signatur nach dem
-Signaturgesetz zu versehen. Die Vorschriften der Betäubungsmittel-
+Arzneimittelversorgung entsprechen. Verordnete Arzneimittel, die an
+Versicherte in der privaten Krankenversicherung, Beihilfeempfänger und
+Selbstzahler abgegeben werden, können durch ein wirkstoffgleiches
+Arzneimittel ersetzt werden, das mit dem verordneten Arzneimittel in
+Wirkstärke und Packungsgröße identisch ist, für ein gleiches
+Anwendungsgebiet zugelassen ist und die gleiche oder eine
+austauschbare Darreichungsform besitzt, sofern die verordnende Ärztin
+oder der verordnende Arzt dies nicht ausgeschlossen hat und die
+Person, für die das Arzneimittel bestimmt ist, einverstanden ist.
+Enthält eine Verschreibung einen für den Abgebenden erkennbaren
+Irrtum, ist sie nicht lesbar oder ergeben sich sonstige Bedenken, so
+darf das Arzneimittel nicht abgegeben werden, bevor die Unklarheit
+beseitigt ist. Der Apotheker hat jede Änderung auf der Verschreibung
+zu vermerken und zu unterschreiben oder im Falle der Verschreibung in
+elektronischer Form der elektronischen Verschreibung hinzuzufügen und
+das Gesamtdokument mit einer qualifizierten elektronischen Signatur zu
+versehen. Die Vorschriften der Betäubungsmittel-
 Verschreibungsverordnung bleiben unberührt.
 
 (5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der
@@ -1322,9 +1418,11 @@ Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht
 verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche
 Anwendung des Arzneimittels erforderlich macht.
 
-(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung
-anzugeben oder im Falle der Verschreibung in elektronischer Form der
-elektronischen Verschreibung hinzufügen
+(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und,
+falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der
+Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der
+Verschreibung, anzugeben oder im Falle der Verschreibung in
+elektronischer Form der elektronischen Verschreibung hinzufügen
 
 1.  der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
 
@@ -1333,10 +1431,9 @@ elektronischen Verschreibung hinzufügen
     Pharmazieingenieurs oder des Apothekenassistenten, der das
     Arzneimittel abgegeben, oder des Apothekers, der die Abgabe
     beaufsichtigt hat; im Falle der Verschreibung in elektronischer Form
-    ist das Namenszeichen durch eine elektronische Signatur nach dem
-    Signaturgesetz zu ersetzen, wobei der Apothekenleiter die
-    Rückverfolgbarkeit zum jeweiligen Unterzeichner und deren
-    Dokumentation sicherzustellen hat,
+    ist das Namenszeichen durch eine elektronische Signatur zu ersetzen,
+    wobei der Apothekenleiter die Rückverfolgbarkeit zum jeweiligen
+    Unterzeichner und deren Dokumentation sicherzustellen hat,
 
 
 3.  das Datum der Abgabe,
@@ -1354,15 +1451,15 @@ elektronischen Verschreibung hinzufügen
 Abweichend von Nummer 2 kann der Apothekenleiter nach Maßgabe des § 3
 Abs. 5 die Befugnis zum Abzeichnen von Verschreibungen auf
 pharmazeutisch-technische Assistenten übertragen. Der pharmazeutisch-
-technische Assistent hat in den Fällen des Absatzes 5 Satz 2 und bei
+technische Assistent hat in den Fällen des Absatzes 5 Satz 3 und bei
 Verschreibungen, die nicht in der Apotheke verbleiben, die
 Verschreibung vor, in allen übrigen Fällen unverzüglich nach der
 Abgabe der Arzneimittel einem Apotheker vorzulegen.
 
 (6a) Bei dem Erwerb und der Abgabe von Blutzubereitungen, Sera aus
 menschlichem Blut und Zubereitungen aus anderen Stoffen menschlicher
-Herkunft sowie gentechnisch hergestellten Plasmaproteinen zur
-Behandlung von Hämostasestörungen sind zum Zwecke der Rückverfolgung
+Herkunft sowie Arzneimitteln zur spezifischen Therapie von
+Gerinnungsstörungen bei Hämophilie sind zum Zwecke der Rückverfolgung
 folgende Angaben aufzuzeichnen:
 
 1.  die Bezeichnung des Arzneimittels,
@@ -1384,10 +1481,29 @@ folgende Angaben aufzuzeichnen:
 
 
 
+Dem verschreibenden Arzt sind bei der Abgabe von Arzneimitteln zur
+spezifischen Therapie von Gerinnungsstörungen bei Hämophilie von der
+abgebenden Apotheke folgende Angaben zu melden:
+
+1.  die Bezeichnung des Arzneimittels,
+
+
+2.  die Chargenbezeichnung und die Menge des Arzneimittels,
+
+
+3.  das Datum der Abgabe und
+
+
+4.  Name, Vorname, Geburtsdatum und Wohnort des Patienten.
+
+
+
+Die Meldung hat elektronisch oder schriftlich nach Abgabe des
+Arzneimittels zu erfolgen.
 
 (6b) Bei dem Erwerb und der Abgabe von Arzneimitteln mit den
-Wirkstoffen Thalidomid oder Lenalidomid und dem Erwerb dieser
-Wirkstoffe sind folgende Angaben aufzuzeichnen:
+Wirkstoffen Lenalidomid, Pomalidomid oder Thalidomid und dem Erwerb
+dieser Wirkstoffe sind folgende Angaben aufzuzeichnen:
 
 1.  die Bezeichnung und die Chargenbezeichnung des Arzneimittels oder des
     Wirkstoffs,
@@ -1413,6 +1529,11 @@ Wirkstoffe sind folgende Angaben aufzuzeichnen:
 
 
 
+Nach dem Versand der Durchschriften der Verschreibungen oder nach der
+elektronischen Übermittlung der Verschreibungen nach § 3a Absatz 7 der
+Arzneimittelverschreibungsverordnung an das Bundesinstitut für
+Arzneimittel und Medizinprodukte ist das Datum des Versands oder der
+elektronischen Übermittlung den Angaben nach Satz 1 hinzuzufügen.
 
 (6c) Apotheken dürfen von anderen Apotheken keine Arzneimittel
 beziehen. Satz 1 wird nicht angewendet auf Arzneimittel,
@@ -1458,7 +1579,7 @@ begründetem Verdacht auf Mißbrauch ist die Abgabe zu verweigern.
 
 ### § 18 Einfuhr von Arzneimitteln
 
-(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder 3a des
+(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder Absatz 3b des
 Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung
 verbracht, sind folgende Angaben aufzuzeichnen
 
@@ -1488,12 +1609,13 @@ verbracht, sind folgende Angaben aufzuzeichnen
 
 
 8.  das Namenszeichen des Apothekers, der das Arzneimittel abgegeben oder
-    die Abgabe beaufsichtigt hat. Soweit aus Gründen der
-    Arzneimittelsicherheit besondere Hinweise geboten sind, sind diese bei
-    der Abgabe mitzuteilen. Diese Mitteilung ist aufzuzeichnen.
+    die Abgabe beaufsichtigt hat.
 
 
 
+Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise
+geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung
+ist aufzuzeichnen.
 
 (2) Fertigarzneimittel, die aus einem Mitgliedstaat der Europäischen
 Gemeinschaften über den Umfang von § 73 Abs. 3 des
@@ -1582,9 +1704,9 @@ informiert und beraten werden. Die Verpflichtung zur Information und
 Beratung über Arzneimittel muss durch Apotheker der Apotheke ausgeübt
 werden, sie kann durch andere Angehörige des pharmazeutischen
 Personals der Apotheke übernommen werden, wenn der Apothekenleiter
-dies zuvor schriftlich festgelegt hat. Dabei hat er auch zu
-definieren, in welchen Fällen ein Apotheker der Apotheke grundsätzlich
-hinzuzuziehen ist.
+dies zuvor schriftlich oder elektronisch festgelegt hat. Dabei hat er
+auch zu definieren, in welchen Fällen ein Apotheker der Apotheke
+grundsätzlich hinzuzuziehen ist.
 
 (1a) Durch die Information und Beratung der Patienten und anderen
 Kunden darf die Therapie der zur Ausübung der Heilkunde, Zahnheilkunde
@@ -1629,66 +1751,72 @@ Krankenhauses.
 
 ### § 21 Arzneimittelrisiken, Behandlung nicht verkehrsfähiger Arzneimittel
 
-Der Apothekenleiter hat dafür zu sorgen, daß bei Arzneimittelrisiken
-und nicht verkehrsfähigen Arzneimitteln die folgenden Maßnahmen
-getroffen werden:
+(1) Der Apothekenleiter hat dafür zu sorgen, dass bei
+Arzneimittelrisiken und nicht verkehrsfähigen Arzneimitteln die
+Verpflichtungen nach Absatz 2 Satz 2, Absatz 3 Satz 3 und den Absätzen
+4 und 5 erfüllt werden.
 
-1.  Alle Informationen über Beanstandungen bei Arzneimitteln, insbesondere
-    über Arzneimittelrisiken wie Qualitäts- und Verpackungsmängel, Mängel
-    der Kennzeichnung und Packungsbeilage, Nebenwirkungen,
-    Wechselwirkungen mit anderen Arzneimitteln, Gegenanzeigen und
-    mißbräuchliche Anwendung sind ihm oder dem von ihm beauftragten
-    Apotheker unverzüglich mitzuteilen.
+(2) Der Apothekenleiter hat sicherzustellen, dass das pharmazeutische
+Personal ihm oder dem von ihm beauftragten Apotheker alle
+Informationen über Beanstandungen bei Arzneimitteln, insbesondere über
+Arzneimittelrisiken wie Qualitäts- und Verpackungsmängel, Mängel der
+Kennzeichnung und Packungsbeilage, Nebenwirkungen, Wechselwirkungen
+mit anderen Arzneimitteln, Gegenanzeigen und missbräuchliche Anwendung
+unverzüglich mitteilt. Der Apothekenleiter oder der von ihm
+beauftragte Apotheker hat die Informationen zu überprüfen und die
+erforderlichen Maßnahmen zur Gefahrenabwehr zu veranlassen.
 
+(3) Ist bei Arzneimitteln oder Ausgangsstoffen, die die Apotheke
+bezogen hat, die Annahme gerechtfertigt, dass Qualitätsmängel
+vorliegen, die vom Hersteller verursacht sind, hat der Apothekenleiter
+die zuständige Behörde unverzüglich zu benachrichtigen. Bei Rückrufen
+von Arzneimitteln, die in der Apotheke hergestellt worden sind, hat
+der Apothekenleiter die zuständige Behörde unter Angabe des Grundes
+unverzüglich zu benachrichtigen. Über Arzneimittelrisiken, die in der
+Apotheke festgestellt werden, sowie über die daraufhin veranlassten
+Überprüfungen, Maßnahmen und Benachrichtigungen hat der
+Apothekenleiter oder das von ihm beauftragte Personal Aufzeichnungen
+zu machen. Bei krankenhausversorgenden Apotheken hat der
+Apothekenleiter unbeschadet des Absatzes 2 und der Sätze 1 bis 3 die
+ihm bekannt werdenden Arzneimittelrisiken unverzüglich den leitenden
+Ärzten und der Arzneimittelkommission des Krankenhauses mitzuteilen.
 
-2.  Er oder der von ihm beauftragte Apotheker hat die Informationen zu
-    überprüfen und die erforderlichen Maßnahmen zur Gefahrenabwehr zu
-    veranlassen.
+(4) Arzneimittel oder Ausgangsstoffe, die nicht verkehrsfähig sind
+oder für die eine Aufforderung zur Rückgabe vorliegt, hat der
+Apothekenleiter oder das von ihm beauftragte Personal umzuarbeiten,
+zurückzugeben oder zu vernichten. Sofern sie nicht sofort
+umgearbeitet, zurückgegeben oder vernichtet werden, hat der
+Apothekenleiter oder das von ihm beauftragte Personal sie als solche
+kenntlich zu machen und abzusondern. Über die Maßnahmen hat der
+Apothekenleiter oder das von ihm beauftragte Personal Aufzeichnungen
+zu machen.
 
+(5) Im Vertriebsnetz festgestellte gefälschte Arzneimittel und im
+Vertriebsnetz festgestellte Arzneimittel, bei denen ein Verdacht
+besteht, dass sie gefälscht sind, hat der Apothekenleiter oder das von
+ihm beauftragte Personal bis zur Entscheidung über das weitere
+Vorgehen getrennt von verkehrsfähigen Arzneimitteln und gesichert
+aufzubewahren, um Verwechslungen zu vermeiden und einen unbefugten
+Zugriff zu verhindern. Der Apothekenleiter oder das von ihm
+beauftragte Personal hat diese Arzneimittel eindeutig als nicht zum
+Verkauf bestimmte Arzneimittel zu kennzeichnen. Über das Auftreten von
+Fälschungen eines Arzneimittels, das nicht die Sicherheitsmerkmale
+nach § 10 Absatz 1c des Arzneimittelgesetzes trägt, sowie über den
+Verdacht von Fälschungen eines solchen Arzneimittels hat der
+Apothekenleiter die zuständige Behörde unverzüglich zu informieren. Er
+oder das von ihm beauftragte Personal hat die getroffenen Maßnahmen zu
+dokumentieren.
 
-3.  Ist bei Arzneimitteln oder Ausgangsstoffen, die die Apotheke bezogen
-    hat, die Annahme gerechtfertigt, daß Qualitätsmängel vorliegen, die
-    vom Hersteller verursacht sind, ist die zuständige Behörde
-    unverzüglich zu benachrichtigen.
-
-
-4.  Bei Rückruf von Arzneimitteln, die in der Apotheke hergestellt worden
-    sind, ist die zuständige Behörde unter Angabe des Grundes unverzüglich
-    zu benachrichtigen.
-
-
-5.  Über Arzneimittelrisiken, die in der Apotheke festgestellt werden,
-    sowie über die daraufhin veranlaßten Überprüfungen, Maßnahmen und
-    Benachrichtigungen sind Aufzeichnungen zu machen.
-
-
-6.  Bei krankenhausversorgenden Apotheken hat er unbeschadet der Nummern 1
-    bis 5 die ihm bekannt werdenden Arzneimittelrisiken unverzüglich den
-    leitenden Ärzten und der Arzneimittelkommission des Krankenhauses
-    mitzuteilen.
-
-
-7.  Arzneimittel oder Ausgangsstoffe, die nicht verkehrsfähig sind oder
-    für die eine Aufforderung zur Rückgabe vorliegt, sind umzuarbeiten,
-    zurückzugeben oder zu vernichten; sofern sie nicht sofort
-    umgearbeitet, zurückgegeben oder vernichtet werden, sind sie als
-    solche kenntlich zu machen und abzusondern. Über die Maßnahmen sind
-    Aufzeichnungen zu machen.
-
-
-8.  Gefälschte Arzneimittel, die im Vertriebsnetz festgestellt werden,
-    sind bis zur Entscheidung über das weitere Vorgehen getrennt von
-    verkehrsfähigen Arzneimitteln und gesichert aufzubewahren, um
-    Verwechslungen zu vermeiden und einen unbefugten Zugriff zu
-    verhindern. Sie müssen eindeutig als nicht zum Verkauf bestimmte
-    Arzneimittel gekennzeichnet werden. Über das Auftreten von
-    Arzneimittelfälschungen ist die zuständige Behörde unverzüglich zu
-    informieren. Die getroffenen Maßnahmen sind zu dokumentieren.
-
-
-
-Für Medizinprodukte gilt die Medizinprodukte-
-Sicherheitsplanverordnung.
+(6) Im Fall des Verdachts einer Arzneimittelfälschung, der auf einer
+Fehlermeldung bei der Überprüfung des individuellen Erkennungsmerkmals
+gemäß Artikel 11 der Delegierten Verordnung (EU) 2016/161 der
+Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG
+des Europäischen Parlaments und des Rates durch die Festlegung genauer
+Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von
+Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) beruht, hat die
+Information der zuständigen Behörde zu erfolgen, nachdem die
+Untersuchung nach Artikel 37 Buchstabe d der Delegierten Verordnung
+(EU) 2016/161 den Verdacht nicht ausräumen konnte.
 
 
 ### § 22 Allgemeine Dokumentation
@@ -1717,9 +1845,8 @@ Daten während der Aufbewahrungsfrist verfügbar sind und innerhalb
 einer angemessenen Frist lesbar gemacht werden können. Bei einer
 Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein
 nach dieser Verordnung gefordertes Namenszeichen durch eine
-elektronische Signatur nach dem Signaturgesetz und eine eigenhändige
-Unterschrift durch eine qualifizierte elektronische Signatur nach dem
-Signaturgesetz zu ersetzen.
+elektronische Signatur und eine eigenhändige Unterschrift durch eine
+qualifizierte elektronische Signatur zu ersetzen.
 
 (3) Die Aufzeichnungen und Nachweise sind der zuständigen Behörde auf
 Verlangen vorzulegen.
@@ -1976,8 +2103,12 @@ Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten
 des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen
 Medizinprodukte müssen in ausreichender Menge vorrätig gehalten
 werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen
-entsprechen muß. Diese Arzneimittel und apothekenpflichtigen
-Medizinprodukte sind aufzulisten.
+entsprechen muß. Abweichend von Satz 1 müssen parenteral anzuwendende
+Arzneimittel zur intensivmedizinischen Versorgung in ausreichender
+Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen
+Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten
+Krankenhauses für vier Wochen entsprechen muss. Diese Arzneimittel und
+apothekenpflichtigen Medizinprodukte sind aufzulisten.
 
 
 ### § 31 Abgabe in der Krankenhausapotheke
@@ -2277,7 +2408,7 @@ Endbehältnis unterzogen werden und sie nicht im geschlossenen System
 hergestellt werden, ist während der Zubereitung und Abfüllung
 
 1.  in der lokalen Zone für die Arbeitsgänge ein Luftreinheitsgrad für
-    Keimzahl und Partikelzahl entsprechend Klasse A der Definition des EG-
+    Keimzahl und Partikelzahl entsprechend Klasse A der Definition des EU-
     GMP-Leitfadens, Anhang 1, der vom Bundesministerium im Bundesanzeiger
     in der jeweils aktuellen Fassung bekannt gemacht wird, einzuhalten und
 
@@ -2529,6 +2660,38 @@ erteilt worden ist, ist § 35 Absatz 5 ab dem 1. Juni 2013 anzuwenden;
 bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich
 mindestens den Anforderungen der Klasse A für die lokale Zone und der
 Klasse C für den Umgebungsbereich entsprechen.
+
+
+### § 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+(1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem
+Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist
+diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser
+Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
+Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre
+weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des
+Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des
+Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer
+Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem
+Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
+
+(2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem
+Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf
+nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser
+Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
+Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden,
+wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem
+Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und
+3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und
+anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048)
+eingereicht wurde. Für die betreffende klinische Prüfung ist diese
+Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser
+Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
+Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre
+weiter anzuwenden.
 
 
 ### Anlage 1 (weggefallen)

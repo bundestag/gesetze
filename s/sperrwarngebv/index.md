@@ -14,5 +14,5 @@ Ausfertigungsdatum
 :   2012-06-01
 
 Fundstelle
-:   BAnz: 2012, AT 11.06.2012 V1
+:   BAnz: AT 11.06.2012 V1
 

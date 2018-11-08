@@ -135,7 +135,7 @@ Vorrichtungen in anderer Weise als durch Vernichtung unschädlich
 gemacht werden können, hat dies zu geschehen, falls der Eigentümer die
 Kosten übernimmt.
 
-(5)
+(5) (weggefallen)
 
 
 ## § 38
@@ -209,8 +209,8 @@ widerrechtlicher Verbreitung oder Vorführung eines Werkes sowie
 die Strafverfolgung wegen widerrechtlicher Verbreitung oder
 Schaustellung eines Bildnisses verjähren in drei Jahren.
 
-(2) Die Verjährung beginnt mit dem Tag, an welchem die widerrechtliche
-Handlung zuletzt stattgefunden hat.
+(2) Die Verjährung beginnt mit dem Tage, an welchem die
+widerrechtliche Handlung zuletzt stattgefunden hat.
 
 
 ## § 49
@@ -249,5 +249,5 @@ sind.
 
 (1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 

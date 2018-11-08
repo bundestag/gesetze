@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1922, 335, 393
 
-Zuletzt geändert durch
-:   Art. 1 u. 4 G v. 29.6.2012 I 1424
-
+Stand: Zuletzt geändert Art. 236 V v. 31.8.2015 I 1474
 
 ## I. - Rennwetten
 
@@ -75,11 +73,10 @@ verbunden werden.
 
 #### § 3
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-und mit Zustimmung des Bundesrates zum Zweck der Förderung der
-Tierzucht mit Pferden
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie und mit Zustimmung des
+Bundesrates zum Zweck der Förderung der Tierzucht mit Pferden
 
 1.  die näheren Voraussetzungen für das Erteilen einer Erlaubnis nach § 1
     Absatz 1 oder § 2 Absatz 1 in Verbindung mit Absatz 2,
@@ -111,9 +108,9 @@ zu regeln.
 
 (1) Der Unternehmer des Totalisators und der Buchmacher haben über die
 Wette eine Urkunde (Wettschein) auszustellen. Welche Angaben der
-Wettschein enthalten muß, bestimmt das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung
-mit Zustimmung des Bundesrates.
+Wettschein enthalten muß, bestimmt das Bundesministerium für Ernährung
+und Landwirtschaft durch Rechtsverordnung mit Zustimmung des
+Bundesrates.
 
 (2) Ist der Wettschein ausgehändigt, so ist die Wette für den
 Unternehmer des Totalisators und den Buchmacher verbindlich. Ein von
@@ -240,9 +237,8 @@ jedes halben Kalendermonats zu entrichten, sofern sie nicht durch
 Verwendung und Entwertung von Stempelzeichen erhoben wird.
 
 (2) Der
-Reichsminister der Finanzen              bestimmt, wie die Steuer
-entrichtet wird, insbesondere ob und in welcher Weise Stempelzeichen
-zu verwenden sind.
+Reichsminister der Finanzen bestimmt, wie die Steuer entrichtet wird,
+insbesondere ob und in welcher Weise Stempelzeichen zu verwenden sind.
 
 
 #### § 14
@@ -257,19 +253,23 @@ zu verwenden sind.
 
 #### § 16
 
-(1) Die Rennvereine, die einen Totalisator betreiben, erhalten bis zu
-96 vom Hundert des Aufkommens der Totalisatorsteuer (§ 10). Sie haben
-die Beträge zu Zwecken der öffentlichen Leistungsprüfungen für Pferde
-zu verwenden. Der
-Reichsminister für Ernährung und Landwirtschaft              und der
-Reichsminister der Finanzen              setzen die Anteile der
-Rennvereine fest und treffen die erforderlichen Bestimmungen. Die
-Anteile können für die einzelnen Rennvereine verschieden bemessen
-werden.
+(1) Die Rennvereine, die einen Totalisator betreiben, erhalten
+vorbehaltlich des Absatzes 2 eine Zuweisung in Höhe von bis zu 96 vom
+Hundert des Aufkommens der Totalisatorsteuer nach § 10 und der
+Buchmachersteuer nach § 11. Sie haben die Beträge zu Zwecken der
+öffentlichen Leistungsprüfungen für Pferde zu verwenden. Die nach
+Landesrecht zuständigen Behörden setzen die Anteile der Rennvereine
+fest und treffen die erforderlichen Bestimmungen. Die Anteile können
+für die einzelnen Rennvereine unterschiedlich bemessen werden. Sie
+dürfen nicht über das hinausgehen, was erforderlich ist, um die
+Nettokosten der Durchführung der öffentlichen Leistungsprüfungen für
+Pferde durch den jeweiligen Rennverein zu decken.
 
 (2) Absatz 1 findet keine Anwendung auf das Aufkommen der
 Totalisatorsteuer nach § 10, das mittels Erlaubnissen nach § 1 Absatz
-4 erzielt wird.
+4 erzielt wird, und auf das Aufkommen der Buchmachersteuer nach § 11,
+das durch den Abschluss oder die Vermittlung von Wetten aus Anlass von
+Pferderennen im Ausland erzielt wird.
 
 
 ## II. - Besteuerung von Lotterien, Ausspielungen und Sportwetten
@@ -440,9 +440,9 @@ entrichten.
 ### § 22
 
 Der
-Reichsminister der Finanzen              bestimmt, wie die Steuer zu
-entrichten ist, insbesondere ob und in welcher Weise Stempelzeichen zu
-verwenden sind.
+Reichsminister der Finanzen bestimmt, wie die Steuer zu entrichten
+ist, insbesondere ob und in welcher Weise Stempelzeichen zu verwenden
+sind.
 
 
 ### § 23
@@ -492,13 +492,13 @@ Finanzbehörde übertragen.
 ### § 25
 
 (1) Die Bestimmungen zur Ausführung dieses Gesetzes erläßt der
-Reichsminister der Finanzen             .
+Reichsminister der Finanzen.
 
 (2) Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach
 den §§ 3 und 4 Abs. 1 Satz 2 zu erlassen, soweit das Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz von seiner
-Befugnis keinen Gebrauch macht. Sie können diese Befugnis auf oberste
-Landesbehörden übertragen.
+für Ernährung und Landwirtschaft von seiner Befugnis keinen Gebrauch
+macht. Sie können diese Befugnis auf oberste Landesbehörden
+übertragen.
 
 (3) Die Länder können über Rechtsverordnungen nach den §§ 3 und 4 und
 nach Absatz 2 hinaus weitergehende Vorschriften über das Veranstalten

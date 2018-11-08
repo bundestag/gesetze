@@ -25,7 +25,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art I bis VII -
+## Art I bis VII - 
 
 
 
@@ -38,7 +38,7 @@ beschlossen:
 -
 
 
-## Art IX -
+## Art IX - 
 
 (3) Sofern in diesem Gesetz mit Bezug auf den zivilen Ersatzdienst
 verwendete Bezeichnungen vor dem Inkrafttreten dieses Gesetzes durch

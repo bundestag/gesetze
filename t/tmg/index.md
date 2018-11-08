@@ -13,10 +13,13 @@ Ausfertigungsdatum
 :   2007-02-26
 
 Fundstelle
-:   BGBl I: 2007, 179
+:   BGBl I: 2007, 179, 251 (2021 I 1380)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 31.5.2010 I 692
+:   Art. 3 G v. 12.8.2021 I 3544
+
+Mittelbare änderung durch
+:   Art. 15 Nr. 2 G v. 30.3.2021 I 448 ist berücksichtigt
 
 Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie
 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000
@@ -45,9 +48,8 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 (1) Dieses Gesetz gilt für alle elektronischen Informations- und
 Kommunikationsdienste, soweit sie nicht Telekommunikationsdienste nach
-§ 3 Nr. 24 des Telekommunikationsgesetzes, die ganz in der Übertragung
-von Signalen über Telekommunikationsnetze bestehen,
-telekommunikationsgestützte Dienste nach § 3 Nr. 25 des
+§ 3 Nummer 61 des Telekommunikationsgesetzes,
+telekommunikationsgestützte Dienste nach § 3 Nummer 63 des
 Telekommunikationsgesetzes oder Rundfunk nach § 2 des
 Rundfunkstaatsvertrages sind (Telemedien). Dieses Gesetz gilt für alle
 Anbieter einschließlich der öffentlichen Stellen unabhängig davon, ob
@@ -67,18 +69,13 @@ internationalen Privatrechts noch regelt es die Zuständigkeit der
 Gerichte.
 
 (6) Die besonderen Bestimmungen dieses Gesetzes für audiovisuelle
-Mediendienste auf Abruf gelten nicht für Dienste, die
+Mediendienste gelten nicht für Dienste, die
 
-1.  ausschließlich zum Empfang in Drittländern bestimmt sind und
+1.  ausschließlich zum Empfang in Drittstaaten bestimmt sind und
 
 
-2.  nicht unmittelbar oder mittelbar von der Allgemeinheit mit
-    handelsüblichen Verbraucherendgeräten in einem Staat innerhalb des
-    Geltungsbereichs der Richtlinie 89/552/EWG des Rates vom 3. Oktober
-    1989 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften
-    der Mitgliedstaaten über die Ausübung der Fernsehtätigkeit (ABl. L 298
-    vom 17.10.1989, S. 23), die zuletzt durch die Richtlinie 2007/65/EG
-    (ABl. L 332 vom 18.12.2007, S. 27) geändert worden ist, empfangen
+2.  weder unmittelbar noch mittelbar von der Allgemeinheit mit
+    handelsüblichen Verbraucherendgeräten in einem Mitgliedstaat empfangen
     werden.
 
 
@@ -91,15 +88,19 @@ Im Sinne dieses Gesetzes
 
 1.  ist Diensteanbieter jede natürliche oder juristische Person, die
     eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang
-    zur Nutzung vermittelt; bei audiovisuellen Mediendiensten auf Abruf
-    ist Diensteanbieter jede natürliche oder juristische Person, die die
-    Auswahl und Gestaltung der angebotenen Inhalte wirksam kontrolliert,
+    zur Nutzung vermittelt,
 
 
 2.  ist niedergelassener Diensteanbieter jeder Anbieter, der mittels einer
     festen Einrichtung auf unbestimmte Zeit Telemedien geschäftsmäßig
     anbietet oder erbringt; der Standort der technischen Einrichtung
     allein begründet keine Niederlassung des Anbieters,
+
+
+2a. ist drahtloses lokales Netzwerk ein Drahtloszugangssystem mit geringer
+    Leistung und geringer Reichweite sowie mit geringem Störungsrisiko für
+    weitere, von anderen Nutzern in unmittelbarer Nähe installierte
+    Systeme dieser Art, welches nicht exklusive Grundfrequenzen nutzt,
 
 
 3.  ist Nutzer jede natürliche oder juristische Person, die Telemedien
@@ -128,17 +129,115 @@ Im Sinne dieses Gesetzes
     b)  Angaben in Bezug auf Waren und Dienstleistungen oder das
         Erscheinungsbild eines Unternehmens, einer Organisation oder Person,
         die unabhängig und insbesondere ohne finanzielle Gegenleistung gemacht
-        werden.
+        werden; dies umfasst auch solche unabhängig und insbesondere ohne
+        finanzielle Gegenleistung oder sonstige Vorteile von natürlichen
+        Personen gemachten Angaben, die eine unmittelbare Verbindung zu einem
+        Nutzerkonto von weiteren natürlichen Personen bei Diensteanbietern
+        ermöglichen,
 
 
 
 
 
-6.  sind „audiovisuelle Mediendienste auf Abruf“ Telemedien mit Inhalten,
-    die nach Form und Inhalt fernsehähnlich sind und die von einem
-    Diensteanbieter zum individuellen Abruf zu einem vom Nutzer gewählten
-    Zeitpunkt und aus einem vom Diensteanbieter festgelegten
-    Inhaltekatalog bereitgestellt werden.
+6.  sind audiovisuelle Mediendienste
+
+    a)  audiovisuelle Mediendienste auf Abruf und
+
+
+    b)  die audiovisuelle kommerzielle Kommunikation,
+
+
+
+
+
+7.  ist audiovisueller Mediendiensteanbieter ein Anbieter von
+    audiovisuellen Mediendiensten,
+
+
+8.  sind audiovisuelle Mediendienste auf Abruf nichtlineare audiovisuelle
+    Mediendienste, bei denen der Hauptzweck des Dienstes oder eines
+    trennbaren Teils des Dienstes darin besteht, unter der redaktionellen
+    Verantwortung eines audiovisuellen Mediendiensteanbieters der
+    Allgemeinheit Sendungen zur Information, Unterhaltung oder Bildung zum
+    individuellen Abruf zu einem vom Nutzer gewählten Zeitpunkt
+    bereitzustellen,
+
+
+9.  ist audiovisuelle kommerzielle Kommunikation jede Form der
+    Kommunikation mit Bildern mit oder ohne Ton, die einer Sendung oder
+    einem nutzergenerierten Video gegen Entgelt oder gegen eine ähnliche
+    Gegenleistung oder als Eigenwerbung beigefügt oder darin enthalten
+    ist, wenn die Kommunikation der unmittelbaren oder mittelbaren
+    Förderung des Absatzes von Waren und Dienstleistungen oder der
+    Förderung des Erscheinungsbilds natürlicher oder juristischer
+    Personen, die einer wirtschaftlichen Tätigkeit nachgehen, dient,
+    einschließlich Sponsoring und Produktplatzierung,
+
+
+10. sind Videosharingplattform-Dienste
+
+    a)  Telemedien, bei denen der Hauptzweck oder eine wesentliche Funktion
+        darin besteht, Sendungen oder nutzergenerierte Videos, für die der
+        Diensteanbieter keine redaktionelle Verantwortung trägt, der
+        Allgemeinheit bereitzustellen, wobei der Diensteanbieter die
+        Organisation der Sendungen und der nutzergenerierten Videos, auch mit
+        automatischen Mitteln, bestimmt,
+
+
+    b)  trennbare Teile von Telemedien, wenn für den trennbaren Teil der in
+        Buchstabe a genannte Hauptzweck vorliegt,
+
+
+
+
+
+11. ist Videosharingplattform-Anbieter ein Diensteanbieter, der
+    Videosharingplattform-Dienste betreibt,
+
+
+12. ist redaktionelle Verantwortung die Ausübung einer wirksamen Kontrolle
+    hinsichtlich der Zusammenstellung der Sendungen und ihrer
+    Bereitstellung mittels eines Katalogs,
+
+
+13. ist Sendung eine Abfolge von bewegten Bildern mit oder ohne Ton, die
+    unabhängig von ihrer Länge Einzelbestandteil eines von einem
+    Diensteanbieter erstellten Sendeplans oder Katalogs ist,
+
+
+14. ist nutzergeneriertes Video eine von einem Nutzer erstellte Abfolge
+    von bewegten Bildern mit oder ohne Ton, die unabhängig von ihrer Länge
+    einen Einzelbestandteil darstellt und die von diesem oder einem
+    anderen Nutzer auf einen Videosharingplattform-Dienst hochgeladen
+    wird,
+
+
+15. ist Mitgliedstaat jeder Mitgliedstaat der Europäischen Union und jeder
+    andere Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum, für den die Richtlinie 2010/13/EU des Europäischen
+    Parlaments und des Rates vom 10. März 2010 zur Koordinierung
+    bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten
+    über die Bereitstellung audiovisueller Mediendienste (Richtlinie über
+    audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1; L 263 vom
+    6\.10.2010, S. 15), die durch die Richtlinie (EU) 2018/1808 (ABl. L 303
+    vom 28.11.2018, S. 69) geändert worden ist, gilt,
+
+
+16. ist Drittstaat jeder Staat, der nicht Mitgliedstaat ist,
+
+
+17. ist Mutterunternehmen ein Unternehmen, das ein oder mehrere
+    Tochterunternehmen kontrolliert,
+
+
+18. ist Tochterunternehmen ein Unternehmen, das unmittelbar oder mittelbar
+    von einem Mutterunternehmen kontrolliert wird,
+
+
+19. ist Gruppe die Gesamtheit von Mutterunternehmen, allen seinen
+    Tochterunternehmen und allen anderen mit dem Mutterunternehmen und
+    seinen Tochterunternehmen wirtschaftlich und rechtlich verbundenen
+    Unternehmen.
 
 
 
@@ -149,74 +248,182 @@ Verbindlichkeiten einzugehen.
 
 ### § 2a Europäisches Sitzland
 
-(1) Innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des
-Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte
-rechtliche Aspekte der Dienste der Informationsgesellschaft,
-insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt
-(ABl. EG Nr. L 178 vom 17.7.2000, S. 1) bestimmt sich das Sitzland des
-Diensteanbieters danach, wo dieser seine Geschäftstätigkeit
-tatsächlich ausübt. Dies ist der Ort, an dem sich der Mittelpunkt der
-Tätigkeiten des Diensteanbieters im Hinblick auf ein bestimmtes
-Telemedienangebot befindet.
+(1) Sitzland des Diensteanbieters im Sinne dieses Gesetzes ist der
+Mitgliedstaat, in dessen Hoheitsgebiet der Diensteanbieter
+niedergelassen ist.
 
-(2) Innerhalb des Geltungsbereichs der Richtlinie 89/552/EWG bestimmt
-sich bei audiovisuellen Mediendiensten auf Abruf das Sitzland des
-Diensteanbieters
+(2) Abweichend von Absatz 1 gilt bei audiovisuellen Mediendiensten ein
+Mitgliedstaat als Sitzland des Diensteanbieters, in dem die
+Hauptverwaltung des Diensteanbieters liegt und die redaktionellen
+Entscheidungen über den audiovisuellen Mediendienst getroffen werden.
+Werden die redaktionellen Entscheidungen über den audiovisuellen
+Mediendienst in einem anderen Mitgliedstaat als dem Sitz der
+Hauptverwaltung getroffen, so gilt als Sitzland des Diensteanbieters
 
-a)  nach dem Ort der Hauptniederlassung, sofern dort die wirksame
-    Kontrolle über den audiovisuellen Mediendienst ausgeübt wird, und
-
-
-b)  nach dem Ort, in dem ein wesentlicher Teil des mit der Bereitstellung
-    des audiovisuellen Mediendienstes betrauten Personals tätig ist,
-    sofern die wirksame Kontrolle über den audiovisuellen Mediendienst
-    nicht in dem Mitgliedstaat der Europäischen Union oder einem Drittland
-    ausgeübt wird, an dem sich der Ort der Hauptniederlassung befindet;
-    lässt sich nicht feststellen, dass ein wesentlicher Teil des mit der
-    Bereitstellung des audiovisuellen Mediendienstes betrauten Personals
-    an einem bestimmten Ort befindet, bestimmt sich das Sitzland nach dem
-    Ort der Hauptniederlassung.
+1.  derjenige dieser beiden Mitgliedstaaten, in dem ein erheblicher Teil
+    des Personals des Diensteanbieters, das mit der Durchführung der
+    programmbezogenen Tätigkeiten des audiovisuellen Mediendienstes
+    betraut ist, tätig ist,
 
 
+2.  der Mitgliedstaat, in dem die Hauptverwaltung des Diensteanbieters
+    liegt, wenn ein erheblicher Teil des Personals des audiovisuellen
+    Mediendiensteanbieters, das mit der Ausübung der sendungsbezogenen
+    Tätigkeiten betraut ist, in jedem dieser Mitgliedstaaten tätig ist
+    oder
 
 
-(3) Liegen die Voraussetzungen nach Absatz 2 Buchstabe a oder b nicht
-vor, bestimmt sich innerhalb des Geltungsbereichs der Richtlinie
-89/552/EWG              das Sitzland des Diensteanbieters nach dem
-Ort, an dem er zuerst mit seiner Tätigkeit nach Maßgabe des Rechts
-dieses Landes begonnen hat, sofern eine dauerhafte und tatsächliche
-Verbindung mit der Wirtschaft dieses Landes weiter besteht.
-
-(4) Anbieter von audiovisuellen Mediendiensten auf Abruf, bei denen
-nach den Absätzen 2 und 3 kein Sitzland innerhalb des Geltungsbereichs
-der Richtlinie 89/552/ EWG festgestellt werden kann, unterliegen dem
-deutschen Recht, sofern sie
-
-a)  eine in Deutschland gelegene Satelliten-Bodenstation für die
-    Aufwärtsstrecke oder
-
-
-b)  eine Deutschland gehörende Übertragungskapazität eines Satelliten
-    nutzen.
+3.  der Mitgliedstaat, in dem der Diensteanbieter zuerst mit seiner
+    Tätigkeit nach Maßgabe des Rechts dieses Mitgliedstaats begonnen hat,
+    sofern eine dauerhafte und tatsächliche Verbindung mit der Wirtschaft
+    dieses Mitgliedstaats fortbesteht, wenn ein erheblicher Teil des
+    Personals des audiovisuellen Mediendiensteanbieters, das mit der
+    Ausübung der sendungsbezogenen Tätigkeiten betraut ist, in keinem
+    dieser Mitgliedstaaten tätig ist.
 
 
 
+Werden die redaktionellen Entscheidungen über den audiovisuellen
+Mediendienst in einem Drittstaat getroffen, gilt der Mitgliedstaat als
+Sitzland, in dem die Hauptverwaltung des Diensteanbieters liegt. Liegt
+die Hauptverwaltung des Diensteanbieters in einem Drittstaat und
+werden die redaktionellen Entscheidungen über den audiovisuellen
+Mediendienst in einem Mitgliedstaat getroffen, gilt der Mitgliedstaat
+als Sitzland, in dem ein erheblicher Teil des mit der Bereitstellung
+des audiovisuellen Mediendienstes betrauten Personals tätig ist.
+
+(3) Für audiovisuelle Mediendiensteanbieter, die nicht bereits
+aufgrund ihrer Niederlassung der Rechtshoheit eines Mitgliedstaats
+unterliegen, gilt ein Mitgliedstaat als Sitzland, wenn sie
+
+1.  eine in diesem Mitgliedstaat gelegene Satelliten-Bodenstation für die
+    Aufwärtsstrecke nutzen oder
+
+
+2.  zwar keine in diesem Mitgliedstaat gelegene Satelliten-Bodenstation
+    für die Aufwärtsstrecke, aber eine diesem Mitgliedstaat zugewiesene
+    Übertragungskapazität eines Satelliten nutzen.
+
+
+
+Liegt keines dieser beiden Kriterien vor, gilt der Mitgliedstaat auch
+als Sitzland für einen audiovisuellen Diensteanbieter, in dem dieser
+gemäß den Artikeln 49 bis 55 des Vertrages über die Arbeitsweise der
+Europäischen Union niedergelassen ist.
+
+(4) Ist ein Videosharingplattform-Anbieter nicht im Hoheitsgebiet
+eines Mitgliedstaats niedergelassen, so gilt derjenige Mitgliedstaat
+abweichend von Absatz 1 als Sitzland, in dessen Hoheitsgebiet
+
+1.  ein Mutterunternehmen oder ein Tochterunternehmen des
+    Videosharingplattform-Anbieters oder
+
+
+2.  ein anderes Unternehmen einer Gruppe, von welcher der
+    Videosharingplattform-Anbieter ein Teil ist,
+
+
+
+niedergelassen ist.
+
+(5) Sind in den Fällen des Absatzes 4 das Mutterunternehmen, das
+Tochterunternehmen oder die anderen Unternehmen der Gruppe jeweils in
+verschiedenen Mitgliedstaaten niedergelassen, so gilt der
+Videosharingplattform-Anbieter als in dem Mitgliedstaat
+niedergelassen,
+
+1.  in dem sein Mutterunternehmen niedergelassen ist oder
+
+
+2.  mangels einer solchen Niederlassung in dem sein Tochterunternehmen
+    niedergelassen ist, oder
+
+
+3.  mangels einer solchen Niederlassung in dem das oder die anderen
+    Unternehmen der Gruppe niedergelassen ist oder sind.
+
+
+
+
+(6) Gibt es mehrere Tochterunternehmen und ist jedes dieser
+Tochterunternehmen in einem anderen Mitgliedstaat niedergelassen, so
+gilt der Videosharingplattform-Anbieter als in dem Mitgliedstaat
+niedergelassen, in dem eines der Tochterunternehmen zuerst seine
+Tätigkeit aufgenommen hat, sofern eine dauerhafte und tatsächliche
+Verbindung mit der Wirtschaft dieses Mitgliedstaats besteht.
+
+(7) Gibt es mehrere andere Unternehmen, die Teil der Gruppe sind und
+von denen jedes in einem anderen Mitgliedstaat niedergelassen ist, so
+gilt der Videosharingplattform-Anbieter als in dem Mitgliedstaat
+niedergelassen, in dem eines dieser Unternehmen zuerst seine Tätigkeit
+aufgenommen hat, sofern eine dauerhafte und tatsächliche Verbindung
+mit der Wirtschaft dieses Mitgliedstaats besteht.
+
+(8) Treten zwischen der zuständigen Behörde und einer Behörde eines
+anderen Mitgliedstaats Meinungsverschiedenheiten darüber auf, welcher
+Mitgliedstaat Sitzland des Diensteanbieters nach den Absätzen 2 bis 7
+ist oder als solcher gilt, so bringt die zuständige Behörde dies der
+Europäischen Kommission unverzüglich zur Kenntnis.
+
+
+### § 2b Listen der audiovisuellen Mediendiensteanbieter und Videosharingplattform-Anbieter
+
+(1) Die zuständige Behörde erstellt jeweils eine Liste der
+audiovisuellen Mediendiensteanbieter und der Videosharingplattform-
+Anbieter, deren Sitzland Deutschland ist oder für die Deutschland als
+Sitzland gilt. In der Liste sind zu jedem audiovisuellen
+Mediendiensteanbieter und Videosharingplattform-Anbieter die
+maßgeblichen Kriterien nach § 2a Absatz 2 bis 7 anzugeben.
+
+(2) Die zuständige Behörde übermittelt die Listen der audiovisuellen
+Mediendiensteanbieter und Videosharingplattform-Anbieter und alle
+Aktualisierungen dieser Listen der für Kultur und Medien zuständigen
+obersten Bundesbehörde.
+
+(3) Die für Kultur und Medien zuständige oberste Bundesbehörde leitet
+die ihr übermittelten Listen der audiovisuellen Mediendiensteanbieter
+und Videosharingplattform-Anbieter und alle Aktualisierungen dieser
+Listen an die Europäische Kommission weiter.
+
+
+### § 2c Auskunftsverlangen der zuständigen Behörde
+
+(1) Audiovisuelle Mediendiensteanbieter und Videosharingplattform-
+Anbieter sind verpflichtet, der zuständigen Behörde auf Verlangen
+Auskünfte über die in § 2a Absatz 2 bis 7 genannten Kriterien zu
+erteilen, soweit dies für die Erfüllung der Aufgaben nach § 2b Absatz
+1 Satz 2 und Absatz 2 erforderlich ist.
+
+(2) Der Auskunftspflichtige kann die Auskunft auf solche Fragen
+verweigern, deren Beantwortung ihn selbst oder einen der in § 383
+Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
+Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder
+Ordnungswidrigkeit aussetzen würde. Er ist über sein Recht zur
+Auskunftsverweigerung zu belehren. Die Tatsache, auf die der
+Auskunftspflichtige die Verweigerung der Auskunft nach Satz 1 stützt,
+ist auf Verlangen glaubhaft zu machen. Es genügt die eidliche
+Versicherung des Auskunftspflichtigen.
 
 
 ### § 3 Herkunftslandprinzip
 
-(1) In der Bundesrepublik Deutschland nach § 2a niedergelassene
-Diensteanbieter und ihre Telemedien unterliegen den Anforderungen des
-deutschen Rechts auch dann, wenn die Telemedien in einem anderen Staat
-innerhalb des Geltungsbereichs der Richtlinien 2000/31/EG und
-89/552/EWG geschäftsmäßig angeboten oder erbracht werden.
+(1) In Deutschland nach § 2a niedergelassene Diensteanbieter und ihre
+Telemedien unterliegen den Anforderungen des deutschen Rechts auch
+dann, wenn die Telemedien innerhalb des Geltungsbereichs der
+Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8.
+Juni 2000 über bestimmte rechtliche Aspekte der Dienste der
+Informationsgesellschaft, insbesondere des elektronischen
+Geschäftsverkehrs, im Binnenmarkt (Richtlinie über den elektronischen
+Geschäftsverkehr) (ABl. L 178 vom 17.7.2000, S. 1) und der Richtlinie
+2010/13/EU in einem anderen Mitgliedstaat geschäftsmäßig angeboten
+oder verbreitet werden.
 
-(2) Der freie Dienstleistungsverkehr von Telemedien, die in der
-Bundesrepublik Deutschland von Diensteanbietern geschäftsmäßig
-angeboten oder erbracht werden, die in einem anderen Staat innerhalb
-des Geltungsbereichs der Richtlinien 2000/31/EG und 89/552/EWG
-niedergelassen sind, wird nicht eingeschränkt. Absatz 5 bleibt
-unberührt.
+(2) Der freie Dienstleistungsverkehr von Telemedien, die innerhalb des
+Geltungsbereichs der Richtlinie 2000/31/EG und der Richtlinie
+2010/13/EU in Deutschland von Diensteanbietern, die in einem anderen
+Mitgliedstaat niedergelassen sind, geschäftsmäßig angeboten oder
+verbreitet werden, wird vorbehaltlich der Absätze 5 und 6 nicht
+eingeschränkt.
 
 (3) Von den Absätzen 1 und 2 bleiben unberührt
 
@@ -283,51 +490,122 @@ unberührt.
     unterliegen,
 
 
-9.  die von den §§ 12, 13a bis 13c, 55a, 83, 110a bis 110d, 111b und 111c
-    des Versicherungsaufsichtsgesetzes und der
-    Versicherungsberichterstattungs-Verordnung erfassten Bereiche, die
-    Regelungen über das auf Versicherungsverträge anwendbare Recht sowie
-    für Pflichtversicherungen.
+9.  Bereiche, die erfasst sind von den §§ 39, 57 bis 59, 61 bis 65, 146,
+    241 bis 243b, 305 und 306 des Versicherungsaufsichtsgesetzes vom 1.
+    April 2015 (BGBl. I S. 434), das zuletzt durch Artikel 6 des Gesetzes
+    vom 19. März 2020 (BGBl. I S. 529) geändert worden ist, und von der
+    Versicherungsberichterstattungs-Verordnung vom 19. Juli 2017 (BGBl. I
+    S. 2858), die durch Artikel 7 des Gesetzes vom 17. August 2017 (BGBl.
+    I S. 3214) geändert worden ist, für die Regelungen über das auf
+    Versicherungsverträge anwendbare Recht sowie für
+    Pflichtversicherungen.
 
 
 
 
-(5) Das Angebot und die Erbringung von Telemedien durch einen
-Diensteanbieter, der in einem anderen Staat im Geltungsbereich der
-Richtlinien 2000/31/EG oder 89/552/EWG niedergelassen ist, unterliegen
-abweichend von Absatz 2 den Einschränkungen des innerstaatlichen
-Rechts, soweit dieses dem Schutz
+(5) Das Angebot und die Verbreitung von Telemedien, bei denen es sich
+nicht um audiovisuelle Mediendienste handelt, durch einen
+Diensteanbieter, der in einem anderen Mitgliedstaat niedergelassen
+ist, unterliegen den Einschränkungen des deutschen Rechts, soweit
 
-1.  der öffentlichen Sicherheit und Ordnung, insbesondere im Hinblick auf
-    die Verhütung, Ermittlung, Aufklärung, Verfolgung und Vollstreckung
-    von Straftaten und Ordnungswidrigkeiten, einschließlich des
-    Jugendschutzes und der Bekämpfung der Hetze aus Gründen der Rasse, des
-    Geschlechts, des Glaubens oder der Nationalität sowie von Verletzungen
-    der Menschenwürde einzelner Personen sowie die Wahrung nationaler
-    Sicherheits- und Verteidigungsinteressen,
+1.  dies dem Schutz folgender Schutzziele vor Beeinträchtigungen oder
+    ernsthaften und schwerwiegenden Gefahren dient:
 
+    a)  der öffentlichen Sicherheit und Ordnung, insbesondere
 
-2.  der öffentlichen Gesundheit,
+        aa) im Hinblick auf die Verhütung, Ermittlung, Aufklärung, Verfolgung und
+            Vollstreckung
 
-
-3.  der Interessen der Verbraucher, einschließlich des Schutzes von
-    Anlegern,
+            aaa) von Straftaten und Ordnungswidrigkeiten, einschließlich des
+                Jugendschutzes und der Bekämpfung der Verunglimpfung aus Gründen der
+                Rasse, des Geschlechts, des Glaubens oder der Nationalität,
 
 
-
-vor Beeinträchtigungen oder ernsthaften und schwerwiegenden Gefahren
-dient und die auf der Grundlage des innerstaatlichen Rechts in
-Betracht kommenden Maßnahmen in einem angemessenen Verhältnis zu
-diesen Schutzzielen stehen. Für das Verfahren zur Einleitung von
-Maßnahmen nach Satz 1 - mit Ausnahme von gerichtlichen Verfahren
-einschließlich etwaiger Vorverfahren und der Verfolgung von Straftaten
-einschließlich der Strafvollstreckung und von Ordnungswidrigkeiten -
-sehen Artikel 3 Abs. 4 und 5 der Richtlinie 2000/31/EG sowie Artikel
-2a Absatz 4 und 5 der Richtlinie 89/552/EWG Konsultations- und
-Informationspflichten vor.
+            bbb) von Verletzungen der Menschenwürde einzelner Personen oder
 
 
-## Abschnitt 2 - Zulassungsfreiheit und Informationspflichten
+
+
+
+        bb) im Hinblick auf die Wahrung nationaler Sicherheits- und
+            Verteidigungsinteressen,
+
+
+
+
+
+    b)  der öffentlichen Gesundheit oder
+
+
+    c)  der Interessen der Verbraucher und der Interessen der Anleger und
+
+
+
+
+
+2.  die Maßnahmen, die auf der Grundlage des deutschen Rechts in Betracht
+    kommen, in einem angemessenen Verhältnis zu diesen Schutzzielen
+    stehen.
+
+
+
+Maßnahmen nach Satz 1 Nummer 2 sind nur zulässig, wenn die gemäß
+Artikel 3 Absatz 4 Buchstabe b und Absatz 5 der Richtlinie 2000/31/EG
+erforderlichen Verfahren eingehalten werden; davon unberührt bleiben
+gerichtliche Verfahren einschließlich etwaiger Vorverfahren und die
+Verfolgung von Straftaten einschließlich der Strafvollstreckung und
+von Ordnungswidrigkeiten.
+
+(6) Der freie Empfang und die Weiterverbreitung von audiovisuellen
+Mediendiensten aus anderen Mitgliedstaaten darf abweichend von Absatz
+2 vorübergehend beeinträchtigt werden, wenn diese audiovisuellen
+Mediendienste
+
+1.  in offensichtlicher, ernster und schwerwiegender Weise Folgendes
+    enthalten:
+
+    a)  eine Aufstachelung zu Gewalt oder Hass gegen eine Gruppe von Personen
+        oder gegen ein Mitglied einer Gruppe von Personen aus einem der in
+        Artikel 21 der Charta der Grundrechte der Europäischen Union (ABl. C
+        364 vom 18.12.2000, S. 1) genannten Gründe,
+
+
+    b)  eine öffentliche Aufforderung zur Begehung einer terroristischen
+        Straftat gemäß Artikel 5 der Richtlinie (EU) 2017/541 des Europäischen
+        Parlaments und des Rates vom 15. März 2017 zur Terrorismusbekämpfung
+        und zur Ersetzung des Rahmenbeschlusses 2002/475/Jl des Rates und zur
+        Änderung des Beschlusses 2005/671/Jl des Rates (ABl. L 88 vom
+        31\.3.2017, S. 6),
+
+
+    c)  einen Verstoß gegen die Vorgaben zum Schutz von Minderjährigen nach
+        Artikel 6a Absatz 1 der Richtlinie 2010/13/EU oder
+
+
+
+
+
+2.  eine Beeinträchtigung oder eine ernsthafte und schwerwiegende Gefahr
+    der Beeinträchtigung darstellen für
+
+    a)  die öffentliche Gesundheit,
+
+
+    b)  die öffentliche Sicherheit oder
+
+
+    c)  die Wahrung nationaler Sicherheits- und Verteidigungsinteressen.
+
+
+
+
+
+
+Maßnahmen nach Satz 1 sind nur zulässig, wenn die Voraussetzungen des
+Artikels 3 Absatz 2 bis 5 der Richtlinie 2010/13/EU erfüllt sind.
+
+
+## Abschnitt 2 - Zulassungsfreiheit, Informationspflichten
 
 
 
@@ -399,7 +677,19 @@ unmittelbar erreichbar und ständig verfügbar zu halten:
 
 7.  bei Aktiengesellschaften, Kommanditgesellschaften auf Aktien und
     Gesellschaften mit beschränkter Haftung, die sich in Abwicklung oder
-    Liquidation befinden, die Angabe hierüber.
+    Liquidation befinden, die Angabe hierüber,
+
+
+8.  bei audiovisuellen Mediendiensteanbietern die Angabe
+
+    a)  des Mitgliedstaats, der für sie Sitzland ist oder als Sitzland gilt
+        sowie
+
+
+    b)  der zuständigen Regulierungs- und Aufsichtsbehörden.
+
+
+
 
 
 
@@ -408,7 +698,7 @@ unmittelbar erreichbar und ständig verfügbar zu halten:
 Rechtsvorschriften bleiben unberührt.
 
 
-### § 6 Besondere Informationspflichten bei kommerziellen Kommunikationen
+### § 6 Besondere Pflichten bei kommerziellen Kommunikationen
 
 (1) Diensteanbieter haben bei kommerziellen Kommunikationen, die
 Telemedien oder Bestandteile von Telemedien sind, mindestens die
@@ -443,7 +733,17 @@ dass der Empfänger vor Einsichtnahme in den Inhalt der Kommunikation
 keine oder irreführende Informationen über die tatsächliche Identität
 des Absenders oder den kommerziellen Charakter der Nachricht erhält.
 
-(3) Die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb
+(3) Videosharingplattform-Anbieter müssen eine Funktion bereitstellen,
+mit der Nutzer, die nutzergenerierte Videos hochladen, erklären
+können, ob diese Videos audiovisuelle kommerzielle Kommunikation
+enthalten.
+
+(4) Videosharingplattform-Anbieter sind verpflichtet, audiovisuelle
+kommerzielle Kommunikation, die Nutzer auf den Videosharingplattform-
+Dienst hochgeladen haben, als solche zu kennzeichnen, soweit sie nach
+Absatz 3 oder anderweitig Kenntnis von dieser erlangt haben.
+
+(5) Die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb
 bleiben unberührt.
 
 
@@ -459,11 +759,26 @@ bereithalten, nach den allgemeinen Gesetzen verantwortlich.
 (2) Diensteanbieter im Sinne der §§ 8 bis 10 sind nicht verpflichtet,
 die von ihnen übermittelten oder gespeicherten Informationen zu
 überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige
-Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der
-Nutzung von Informationen nach den allgemeinen Gesetzen bleiben auch
-im Falle der Nichtverantwortlichkeit des Diensteanbieters nach den §§
-8 bis 10 unberührt. Das Fernmeldegeheimnis nach § 88 des
-Telekommunikationsgesetzes ist zu wahren.
+Tätigkeit hinweisen.
+
+(3) Verpflichtungen zur Entfernung von Informationen oder zur Sperrung
+der Nutzung von Informationen nach den allgemeinen Gesetzen aufgrund
+von gerichtlichen oder behördlichen Anordnungen bleiben auch im Falle
+der Nichtverantwortlichkeit des Diensteanbieters nach den §§ 8 bis 10
+unberührt. Das Fernmeldegeheimnis nach § 3 des Telekommunikation-
+Telemedien-Datenschutz-Gesetzes ist zu wahren.
+
+(4) Wurde ein Telemediendienst von einem Nutzer in Anspruch genommen,
+um das Recht am geistigen Eigentum eines anderen zu verletzen und
+besteht für den Inhaber dieses Rechts keine andere Möglichkeit, der
+Verletzung seines Rechts abzuhelfen, so kann der Inhaber des Rechts
+von dem betroffenen Diensteanbieter nach § 8 Absatz 3 die Sperrung der
+Nutzung von Informationen verlangen, um die Wiederholung der
+Rechtsverletzung zu verhindern. Die Sperrung muss zumutbar und
+verhältnismäßig sein. Ein Anspruch gegen den Diensteanbieter auf
+Erstattung der vor- und außergerichtlichen Kosten für die
+Geltendmachung und Durchsetzung des Anspruchs nach Satz 1 besteht
+außer in den Fällen des § 8 Absatz 1 Satz 3 nicht.
 
 
 ### § 8 Durchleitung von Informationen
@@ -482,9 +797,14 @@ Nutzung vermitteln, nicht verantwortlich, sofern sie
 
 
 
-Satz 1 findet keine Anwendung, wenn der Diensteanbieter absichtlich
-mit einem Nutzer seines Dienstes zusammenarbeitet, um rechtswidrige
-Handlungen zu begehen.
+Sofern diese Diensteanbieter nicht verantwortlich sind, können sie
+insbesondere nicht wegen einer rechtswidrigen Handlung eines Nutzers
+auf Schadensersatz oder Beseitigung oder Unterlassung einer
+Rechtsverletzung in Anspruch genommen werden; dasselbe gilt
+hinsichtlich aller Kosten für die Geltendmachung und Durchsetzung
+dieser Ansprüche. Die Sätze 1 und 2 finden keine Anwendung, wenn der
+Diensteanbieter absichtlich mit einem Nutzer seines Dienstes
+zusammenarbeitet, um rechtswidrige Handlungen zu begehen.
 
 (2) Die Übermittlung von Informationen nach Absatz 1 und die
 Vermittlung des Zugangs zu ihnen umfasst auch die automatische
@@ -492,6 +812,33 @@ kurzzeitige Zwischenspeicherung dieser Informationen, soweit dies nur
 zur Durchführung der Übermittlung im Kommunikationsnetz geschieht und
 die Informationen nicht länger gespeichert werden, als für die
 Übermittlung üblicherweise erforderlich ist.
+
+(3) Die Absätze 1 und 2 gelten auch für Diensteanbieter nach Absatz 1,
+die Nutzern einen Internetzugang über ein drahtloses lokales Netzwerk
+zur Verfügung stellen.
+
+(4) Diensteanbieter nach § 8 Absatz 3 dürfen von einer Behörde nicht
+verpflichtet werden,
+
+1.  vor Gewährung des Zugangs
+
+    a)  die persönlichen Daten von Nutzern zu erheben und zu speichern
+        (Registrierung) oder
+
+
+    b)  die Eingabe eines Passworts zu verlangen oder
+
+
+
+
+
+2.  das Anbieten des Dienstes dauerhaft einzustellen.
+
+
+
+Davon unberührt bleibt, wenn ein Diensteanbieter auf freiwilliger
+Basis die Nutzer identifiziert, eine Passworteingabe verlangt oder
+andere freiwillige Maßnahmen ergreift.
 
 
 ### § 9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
@@ -551,249 +898,141 @@ Satz 1 findet keine Anwendung, wenn der Nutzer dem Diensteanbieter
 untersteht oder von ihm beaufsichtigt wird.
 
 
-## Abschnitt 4 - Datenschutz
+## Abschnitt 4 - Melde- und Abhilfeverfahren der Videosharingplattform-Anbieter
 
 
 
-### § 11 Anbieter-Nutzer-Verhältnis
+### § 10a Verfahren zur Meldung von Nutzerbeschwerden
 
-(1) Die Vorschriften dieses Abschnitts gelten nicht für die Erhebung
-und Verwendung personenbezogener Daten der Nutzer von Telemedien,
-soweit die Bereitstellung solcher Dienste
+(1) Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese
+Vorschrift Bezug nimmt und soweit sich eine entsprechende
+Verpflichtung nicht bereits aus dem Netzwerkdurchsetzungsgesetz vom 1.
+September 2017 (BGBl. I S. 3352), das zuletzt durch Artikel 274 der
+Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in
+der jeweils geltenden Fassung ergibt, sind Videosharingplattform-
+Anbieter verpflichtet, ein Verfahren vorzuhalten, mit dem die Nutzer
+Beschwerden (Nutzerbeschwerden) über rechtswidrige audiovisuelle
+Inhalte, die auf dem Videosharingplattform-Dienst des
+Videosharingplattform-Anbieters bereitgestellt werden, elektronisch
+melden können.
 
-1.  im Dienst- und Arbeitsverhältnis zu ausschließlich beruflichen oder
-    dienstlichen Zwecken oder
+(2) Das Meldeverfahren muss
 
+1.  bei der Wahrnehmung des Inhalts leicht erkennbar und bedienbar,
+    unmittelbar erreichbar und ständig verfügbar sein,
 
-2.  innerhalb von oder zwischen nicht öffentlichen Stellen oder
-    öffentlichen Stellen ausschließlich zur Steuerung von Arbeits- oder
-    Geschäftsprozessen erfolgt.
 
+2.  dem Beschwerdeführer die Möglichkeit geben, die Nutzerbeschwerde näher
+    zu begründen und
 
 
+3.  gewährleisten, dass der Videosharingplattform-Anbieter
+    Nutzerbeschwerden unverzüglich zur Kenntnis nehmen und prüfen kann.
 
-(2) Nutzer im Sinne dieses Abschnitts ist jede natürliche Person, die
-Telemedien nutzt, insbesondere um Informationen zu erlangen oder
-zugänglich zu machen.
 
-(3) Bei Telemedien, die überwiegend in der Übertragung von Signalen
-über Telekommunikationsnetze bestehen, gelten für die Erhebung und
-Verwendung personenbezogener Daten der Nutzer nur § 15 Absatz 8 und §
-16 Absatz 2 Nummer 4.
 
 
-### § 12 Grundsätze
 
-(1) Der Diensteanbieter darf personenbezogene Daten zur Bereitstellung
-von Telemedien nur erheben und verwenden, soweit dieses Gesetz oder
-eine andere Rechtsvorschrift, die sich ausdrücklich auf Telemedien
-bezieht, es erlaubt oder der Nutzer eingewilligt hat.
+### § 10b Verfahren zur Abhilfe von Nutzerbeschwerden
 
-(2) Der Diensteanbieter darf für die Bereitstellung von Telemedien
-erhobene personenbezogene Daten für andere Zwecke nur verwenden,
-soweit dieses Gesetz oder eine andere Rechtsvorschrift, die sich
-ausdrücklich auf Telemedien bezieht, es erlaubt oder der Nutzer
-eingewilligt hat.
+Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese
+Vorschrift Bezug nimmt und soweit sich eine entsprechende
+Verpflichtung nicht bereits aus dem Netzwerkdurchsetzungsgesetz
+ergibt, müssen Videosharingplattform-Anbieter ein wirksames und
+transparentes Verfahren nach Satz 2 zur Prüfung und Abhilfe der nach §
+10a Absatz 1 gemeldeten Nutzerbeschwerden vorhalten. Das Verfahren
+muss gewährleisten, dass der Videosharingplattform-Anbieter
 
-(3) Soweit nichts anderes bestimmt ist, sind die jeweils geltenden
-Vorschriften für den Schutz personenbezogener Daten anzuwenden, auch
-wenn die Daten nicht automatisiert verarbeitet werden.
+1.  unverzüglich nach Eingang der Nutzerbeschwerde prüft, ob ein
+    rechtswidriger Inhalt vorliegt,
 
 
-### § 13 Pflichten des Diensteanbieters
+2.  unverzüglich nach Eingang der Nutzerbeschwerde einen rechtswidrigen
+    Inhalt entfernt oder den Zugang zu diesem Inhalt sperrt,
 
-(1) Der Diensteanbieter hat den Nutzer zu Beginn des Nutzungsvorgangs
-über Art, Umfang und Zwecke der Erhebung und Verwendung
-personenbezogener Daten sowie über die Verarbeitung seiner Daten in
-Staaten außerhalb des Anwendungsbereichs der Richtlinie 95/46/EG des
-Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz
-natürlicher Personen bei der Verarbeitung personenbezogener Daten und
-zum freien Datenverkehr (ABl. EG Nr. L 281 S. 31) in allgemein
-verständlicher Form zu unterrichten, sofern eine solche Unterrichtung
-nicht bereits erfolgt ist. Bei einem automatisierten Verfahren, das
-eine spätere Identifizierung des Nutzers ermöglicht und eine Erhebung
-oder Verwendung personenbezogener Daten vorbereitet, ist der Nutzer zu
-Beginn dieses Verfahrens zu unterrichten. Der Inhalt der Unterrichtung
-muss für den Nutzer jederzeit abrufbar sein.
 
-(2) Die Einwilligung kann elektronisch erklärt werden, wenn der
-Diensteanbieter sicherstellt, dass
+3.  im Falle der Entfernung eines rechtswidrigen Inhalts den Inhalt zu
+    Beweiszwecken sichert und für die Dauer von zehn Wochen speichert,
 
-1.  der Nutzer seine Einwilligung bewusst und eindeutig erteilt hat,
 
+4.  den Beschwerdeführer und den Nutzer, für den der beanstandete Inhalt
+    gespeichert wurde, unverzüglich über seine Entscheidung informiert und
+    diese begründet,
 
-2.  die Einwilligung protokolliert wird,
 
+5.  den Beschwerdeführer und den Nutzer, für den der beanstandete Inhalt
+    gespeichert wurde, über die Möglichkeit der Teilnahme an einem
+    unparteiischen Schlichtungsverfahren informiert,
 
-3.  der Nutzer den Inhalt der Einwilligung jederzeit abrufen kann und
 
+6.  dem Beschwerdeführer und dem Nutzer, für den der beanstandete Inhalt
+    gespeichert wurde, die Gelegenheit gibt, unter Angabe von Gründen eine
+    Überprüfung der ursprünglichen Entscheidung zu verlangen, wenn der
+    Antrag auf Überprüfung (Gegenvorstellung) innerhalb von zwei Wochen
+    nach Information über die Entscheidung gestellt wird,
 
-4.  der Nutzer die Einwilligung jederzeit mit Wirkung für die Zukunft
-    widerrufen kann.
 
+7.  darauf hinweist, dass der Inhalt einer Stellungnahme des Nutzers, für
+    den der beanstandete Inhalt gespeichert wurde, an den Beschwerdeführer
+    sowie der Inhalt einer Stellungnahme des Beschwerdeführers an den
+    Nutzer, für den der beanstandete Inhalt gespeichert wurde,
+    weitergegeben werden kann,
 
 
+8.  im Falle einer Gegenvorstellung des Beschwerdeführers den Nutzer, für
+    den der beanstandete Inhalt gespeichert wurde, und im Falle einer
+    Gegenvorstellung des Nutzers, für den der beanstandete Inhalt
+    gespeichert wurde, den Beschwerdeführer im Falle der Abhilfe über den
+    Inhalt der Gegenvorstellung unverzüglich informiert und ihm
+    Gelegenheit zur Stellungnahme innerhalb einer angemessenen Frist gibt,
 
-(3) Der Diensteanbieter hat den Nutzer vor Erklärung der Einwilligung
-auf das Recht nach Absatz 2 Nr. 4 hinzuweisen. Absatz 1 Satz 3 gilt
-entsprechend.
 
-(4) Der Diensteanbieter hat durch technische und organisatorische
-Vorkehrungen sicherzustellen, dass
+9.  seine ursprüngliche Entscheidung unverzüglich einer Überprüfung
+    unterzieht, das Ergebnis dem Beschwerdeführer und dem Nutzer, für den
+    der beanstandete Inhalt gespeichert wurde, unverzüglich übermittelt
+    und einzelfallbezogen begründet,
 
-1.  der Nutzer die Nutzung des Dienstes jederzeit beenden kann,
 
+10. sicherstellt, dass eine Offenlegung der Identität des
+    Beschwerdeführers und des Nutzers, für den der beanstandete Inhalt
+    gespeichert wurde, nicht erfolgt und
 
-2.  die anfallenden personenbezogenen Daten über den Ablauf des Zugriffs
-    oder der sonstigen Nutzung unmittelbar nach deren Beendigung gelöscht
-    oder in den Fällen des Satzes 2 gesperrt werden,
 
+11. jede Beschwerde, das Ergebnis ihrer Prüfung, die zu ihrer Abhilfe
+    getroffene Maßnahme sowie jede verlangte Überprüfung der Entscheidung
+    und deren Ergebnis dokumentiert.
 
-3.  der Nutzer Telemedien gegen Kenntnisnahme Dritter geschützt in
-    Anspruch nehmen kann,
 
 
-4.  die personenbezogenen Daten über die Nutzung verschiedener Telemedien
-    durch denselben Nutzer getrennt verwendet werden können,
 
 
-5.  Daten nach § 15 Abs. 2 nur für Abrechnungszwecke zusammengeführt
-    werden können und
+### § 10c Allgemeine Geschäftsbedingungen
 
+(1) Videosharingplattform-Anbieter sind verpflichtet, mit ihren
+Nutzern wirksam zu vereinbaren, dass diesen die Verbreitung
+unzulässiger audiovisueller kommerzieller Kommunikation verboten ist.
 
-6.  Nutzungsprofile nach § 15 Abs. 3 nicht mit Angaben zur Identifikation
-    des Trägers des Pseudonyms zusammengeführt werden können.
+(2) Unzulässige audiovisuelle kommerzielle Kommunikation im Sinne
+dieser Vorschrift ist audiovisuelle kommerzielle Kommunikation, die
+gegen folgende Vorschriften verstößt:
 
+1.  § 20 des Tabakerzeugnisgesetzes vom 4. April 2016 (BGBl. I S. 569),
+    das zuletzt durch Artikel 96 der Verordnung vom 19. Juni 2020 (BGBl. I
+    S. 1328) geändert worden ist, oder
 
 
-An die Stelle der Löschung nach Satz 1 Nr. 2 tritt eine Sperrung,
-soweit einer Löschung gesetzliche, satzungsmäßige oder vertragliche
-Aufbewahrungsfristen entgegenstehen.
+2.  § 10 des Heilmittelwerbegesetzes in der Fassung der Bekanntmachung vom
+    19\. Oktober 1994 (BGBl. I S. 3068), das zuletzt durch Artikel 6 des
+    Gesetzes vom 28. April 2020 (BGBl. I S. 960) geändert worden ist.
 
-(5) Die Weitervermittlung zu einem anderen Diensteanbieter ist dem
-Nutzer anzuzeigen.
 
-(6) Der Diensteanbieter hat die Nutzung von Telemedien und ihre
-Bezahlung anonym oder unter Pseudonym zu ermöglichen, soweit dies
-technisch möglich und zumutbar ist. Der Nutzer ist über diese
-Möglichkeit zu informieren.
 
-(7) Der Diensteanbieter hat dem Nutzer nach Maßgabe von § 34 des
-Bundesdatenschutzgesetzes auf Verlangen Auskunft über die zu seiner
-Person oder zu seinem Pseudonym gespeicherten Daten zu erteilen. Die
-Auskunft kann auf Verlangen des Nutzers auch elektronisch erteilt
-werden.
-
-
-### § 14 Bestandsdaten
-
-(1) Der Diensteanbieter darf personenbezogene Daten eines Nutzers nur
-erheben und verwenden, soweit sie für die Begründung, inhaltliche
-Ausgestaltung oder Änderung eines Vertragsverhältnisses zwischen dem
-Diensteanbieter und dem Nutzer über die Nutzung von Telemedien
-erforderlich sind (Bestandsdaten).
-
-(2) Auf Anordnung der zuständigen Stellen darf der Diensteanbieter im
-Einzelfall Auskunft über Bestandsdaten erteilen, soweit dies für
-Zwecke der Strafverfolgung, zur Gefahrenabwehr durch die
-Polizeibehörden der Länder, zur Erfüllung der gesetzlichen Aufgaben
-der Verfassungsschutzbehörden des Bundes und der Länder, des
-Bundesnachrichtendienstes oder des Militärischen Abschirmdienstes oder
-des Bundeskriminalamtes im Rahmen seiner Aufgabe zur Abwehr von
-Gefahren des internationalen Terrorismus oder zur Durchsetzung der
-Rechte am geistigen Eigentum erforderlich ist.
-
-
-### § 15 Nutzungsdaten
-
-(1) Der Diensteanbieter darf personenbezogene Daten eines Nutzers nur
-erheben und verwenden, soweit dies erforderlich ist, um die
-Inanspruchnahme von Telemedien zu ermöglichen und abzurechnen
-(Nutzungsdaten). Nutzungsdaten sind insbesondere
-
-1.  Merkmale zur Identifikation des Nutzers,
-
-
-2.  Angaben über Beginn und Ende sowie des Umfangs der jeweiligen Nutzung
-    und
-
-
-3.  Angaben über die vom Nutzer in Anspruch genommenen Telemedien.
-
-
-
-
-(2) Der Diensteanbieter darf Nutzungsdaten eines Nutzers über die
-Inanspruchnahme verschiedener Telemedien zusammenführen, soweit dies
-für Abrechnungszwecke mit dem Nutzer erforderlich ist.
-
-(3) Der Diensteanbieter darf für Zwecke der Werbung, der
-Marktforschung oder zur bedarfsgerechten Gestaltung der Telemedien
-Nutzungsprofile bei Verwendung von Pseudonymen erstellen, sofern der
-Nutzer dem nicht widerspricht. Der Diensteanbieter hat den Nutzer auf
-sein Widerspruchsrecht im Rahmen der Unterrichtung nach § 13 Abs. 1
-hinzuweisen. Diese Nutzungsprofile dürfen nicht mit Daten über den
-Träger des Pseudonyms zusammengeführt werden.
-
-(4) Der Diensteanbieter darf Nutzungsdaten über das Ende des
-Nutzungsvorgangs hinaus verwenden, soweit sie für Zwecke der
-Abrechnung mit dem Nutzer erforderlich sind (Abrechnungsdaten). Zur
-Erfüllung bestehender gesetzlicher, satzungsmäßiger oder vertraglicher
-Aufbewahrungsfristen darf der Diensteanbieter die Daten sperren.
-
-(5) Der Diensteanbieter darf an andere Diensteanbieter oder Dritte
-Abrechnungsdaten übermitteln, soweit dies zur Ermittlung des Entgelts
-und zur Abrechnung mit dem Nutzer erforderlich ist. Hat der
-Diensteanbieter mit einem Dritten einen Vertrag über den Einzug des
-Entgelts geschlossen, so darf er diesem Dritten Abrechnungsdaten
-übermitteln, soweit es für diesen Zweck erforderlich ist. Zum Zwecke
-der Marktforschung anderer Diensteanbieter dürfen anonymisierte
-Nutzungsdaten übermittelt werden. § 14 Abs. 2 findet entsprechende
-Anwendung.
-
-(6) Die Abrechnung über die Inanspruchnahme von Telemedien darf
-Anbieter, Zeitpunkt, Dauer, Art, Inhalt und Häufigkeit bestimmter von
-einem Nutzer in Anspruch genommener Telemedien nicht erkennen lassen,
-es sei denn, der Nutzer verlangt einen Einzelnachweis.
-
-(7) Der Diensteanbieter darf Abrechnungsdaten, die für die Erstellung
-von Einzelnachweisen über die Inanspruchnahme bestimmter Angebote auf
-Verlangen des Nutzers verarbeitet werden, höchstens bis zum Ablauf des
-sechsten Monats nach Versendung der Rechnung speichern. Werden gegen
-die Entgeltforderung innerhalb dieser Frist Einwendungen erhoben oder
-diese trotz Zahlungsaufforderung nicht beglichen, dürfen die
-Abrechnungsdaten weiter gespeichert werden, bis die Einwendungen
-abschließend geklärt sind oder die Entgeltforderung beglichen ist.
-
-(8) Liegen dem Diensteanbieter zu dokumentierende tatsächliche
-Anhaltspunkte vor, dass seine Dienste von bestimmten Nutzern in der
-Absicht in Anspruch genommen werden, das Entgelt nicht oder nicht
-vollständig zu entrichten, darf er die personenbezogenen Daten dieser
-Nutzer über das Ende des Nutzungsvorgangs sowie die in Absatz 7
-genannte Speicherfrist hinaus nur verwenden, soweit dies für Zwecke
-der Rechtsverfolgung erforderlich ist. Der Diensteanbieter hat die
-Daten unverzüglich zu löschen, wenn die Voraussetzungen nach Satz 1
-nicht mehr vorliegen oder die Daten für die Rechtsverfolgung nicht
-mehr benötigt werden. Der betroffene Nutzer ist zu unterrichten,
-sobald dies ohne Gefährdung des mit der Maßnahme verfolgten Zweckes
-möglich ist.
-
-
-### § 15a Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten
-
-Stellt der Diensteanbieter fest, dass bei ihm gespeicherte Bestands-
-oder Nutzungsdaten unrechtmäßig übermittelt worden oder auf sonstige
-Weise Dritten unrechtmäßig zur Kenntnis gelangt sind, und drohen
-schwerwiegende Beeinträchtigungen für die Rechte oder schutzwürdigen
-Interessen des betroffenen Nutzers, gilt § 42a des
-Bundesdatenschutzgesetzes entsprechend.
 
 
 ## Abschnitt 5 - Bußgeldvorschriften
 
 
-
-### § 16 Bußgeldvorschriften
+### § 11 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen § 6 Abs. 2 Satz 1
 den Absender oder den kommerziellen Charakter der Nachricht
@@ -801,25 +1040,16 @@ verschleiert oder verheimlicht.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Abs. 1 eine Information nicht, nicht richtig oder nicht
-    vollständig verfügbar hält,
+1.  entgegen § 2c Absatz 1 eine Auskunft nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erteilt,
 
 
-2.  entgegen § 13 Abs. 1 Satz 1 oder 2 den Nutzer nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig unterrichtet,
+2.  entgegen § 5 Abs. 1 eine Information nicht, nicht richtig oder nicht
+    vollständig verfügbar hält oder
 
 
-3.  einer Vorschrift des § 13 Abs. 4 Satz 1 Nr. 1 bis 4 oder 5 über eine
-    dort genannte Pflicht zur Sicherstellung zuwiderhandelt,
-
-
-4.  entgegen § 14 Abs. 1 oder § 15 Abs. 1 Satz 1 oder Abs. 8 Satz 1 oder 2
-    personenbezogene Daten erhebt oder verwendet oder nicht oder nicht
-    rechtzeitig löscht oder
-
-
-5.  entgegen § 15 Abs. 3 Satz 3 ein Nutzungsprofil mit Daten über den
-    Träger des Pseudonyms zusammenführt.
+3.  entgegen § 10a Absatz 1 oder § 10b Satz 1 ein dort genanntes Verfahren
+    nicht, nicht richtig oder nicht vollständig vorhält.
 
 
 

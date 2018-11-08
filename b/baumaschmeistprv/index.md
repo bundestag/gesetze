@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 177
 
 Zuletzt geändert durch
-:   Art. 9 V v. 25.8.2009 I 2960
+:   Art. 9 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -40,10 +40,10 @@ durch die berufliche Fortbildung zum Baumaschinenmeister erworben
 worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9
 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, folgende
 Aufgaben eines Baumaschinenmeisters in der Bauwirtschaft als
-Führungskraft zwischen Planung und Ausführung in dem ihm übertragenen
+Führungskraft zwischen Planung und Ausführung in dem ihr übertragenen
 Aufgabenbereich wahrzunehmen:
 
 1.  Mitwirken bei der Planung maschinentechnischer Einrichtungen;
@@ -162,10 +162,10 @@ folgenden Fächern zu prüfen:
 
 
 
-(2) Im Prüfungsfach "Grundlagen für kostenbewußtes Handeln" soll der
-Prüfungsteilnehmer nachweisen, daß er wirtschaftliche Grundkenntnisse
+(2) Im Prüfungsfach "Grundlagen für kostenbewußtes Handeln" soll die
+zu prüfende Person nachweisen, daß sie wirtschaftliche Grundkenntnisse
 besitzt sowie wirtschaftliche Zusammenhänge erkennen und beurteilen
-kann. Darüber hinaus soll er insbesondere nachweisen, daß er
+kann. Darüber hinaus soll sie insbesondere nachweisen, daß sie
 Organisationsprobleme der Arbeitsstätte auch in ihrer Bedeutung als
 Kostenfaktoren beurteilen und notwendige Organisationstechniken an
 Hand von Beispielen aus der Praxis anwenden kann. In diesem Rahmen
@@ -220,10 +220,10 @@ können geprüft werden:
 
 
 
-(3) Im Prüfungsfach "Grundlagen für rechtsbewußtes Handeln" soll der
-Prüfungsteilnehmer rechtliche Grundkenntnisse nachweisen. Er soll
+(3) Im Prüfungsfach "Grundlagen für rechtsbewußtes Handeln" soll die
+zu prüfende Person rechtliche Grundkenntnisse nachweisen. Sie soll
 insbesondere an Hand von betriebsbezogenen und praxisnahen Fällen
-nachweisen, daß er die Bedeutung der Rechtsvorschriften für seinen
+nachweisen, daß sie die Bedeutung der Rechtsvorschriften für seinen
 Funktionsbereich erkennen und beurteilen kann. In diesem Rahmen können
 geprüft werden:
 
@@ -267,7 +267,7 @@ geprüft werden:
 
 
 (4) Im Prüfungsfach "Grundlagen für die Zusammenarbeit auf der
-Arbeitsstätte" soll der Prüfungsteilnehmer nachweisen, daß er über
+Arbeitsstätte" soll die zu prüfende Person nachweisen, daß sie über
 soziologische Grundkenntnisse verfügt und soziologische Zusammenhänge
 auf der Arbeitsstätte erkennen und beurteilen kann. In diesem Rahmen
 können geprüft werden:
@@ -323,12 +323,12 @@ Sie besteht je Prüfungsfach aus einer unter Aufsicht anzufertigenden
 Arbeit von mindestens 1,5 Stunden Dauer.
 
 (7) In der mündlichen Prüfung in dem in Absatz 1 Nr. 3 genannten
-Prüfungsfach soll der Prüfungsteilnehmer nachweisen, daß er in der
+Prüfungsfach soll die zu prüfende Person nachweisen, daß sie in der
 Lage ist, bestimmte berufstypische Situationen zu erkennen, ihre
 Ursachen zu klären und sachgerechte Lösungsvorschläge zu machen. Es
 ist von einer praxisbezogenen, betrieblichen Situationsaufgabe
-auszugehen. Die Prüfung soll je Prüfungsteilnehmer nicht länger als 30
-Minuten dauern.
+auszugehen. Die Prüfung soll für die zu prüfende Person nicht länger
+als 30 Minuten dauern.
 
 (8) Wurde in nicht mehr als einem der in Absatz 1 Nummer 1 und 2
 genannten Fächer eine mangelhafte Prüfungsleistung erbracht, ist in
@@ -360,12 +360,12 @@ prüfen:
 
 
 
-(2) Im Prüfungsfach "Maschinentechnische Grundlagen" soll der
-Prüfungsteilnehmer nachweisen, daß er mathematische und
+(2) Im Prüfungsfach "Maschinentechnische Grundlagen" soll die zu
+prüfende Person nachweisen, daß sie mathematische und
 naturwissenschaftliche Kenntnisse zur Lösung technischer
 Aufgabenstellungen auch mit Hilfe von Rechengeräten und
-Tabellenbüchern anwenden kann. Darüber hinaus soll er nachweisen, daß
-er technische Zeichnungen und Skizzen als Grundlagen für
+Tabellenbüchern anwenden kann. Darüber hinaus soll sie nachweisen, daß
+sie technische Zeichnungen und Skizzen als Grundlagen für
 Arbeitsanweisungen benutzen sowie die im Baumaschinenbereich üblichen
 Werkstoffe hinsichtlich der technologischen Eigenschaften und
 Verwendungsmöglichkeiten beschreiben kann. In diesem Rahmen können
@@ -416,14 +416,14 @@ geprüft werden:
 
 
 
-(3) Im Prüfungsfach "Baumaschinen und Baugeräte" soll der
-Prüfungsteilnehmer nachweisen, daß er Aufbau, Funktion und
-Einsatzbedingungen der in den verschiedenen Baubereichen
-einzusetzenden Maschinen und Geräte kennt und aus ihren Kenngrößen
-Zuordnungen der Maschinen und Geräte zueinander ableiten kann. Darüber
-hinaus soll er nachweisen, daß er die Grundlagen der Steuerungs- und
-Regelungstechnik kennt und ihre Bedeutung bei Baumaschinen und
-Baugeräten erläutern kann. In diesem Rahmen können geprüft werden:
+(3) Im Prüfungsfach "Baumaschinen und Baugeräte" soll die zu prüfende
+Person nachweisen, daß sie Aufbau, Funktion und Einsatzbedingungen der
+in den verschiedenen Baubereichen einzusetzenden Maschinen und Geräte
+kennt und aus ihren Kenngrößen Zuordnungen der Maschinen und Geräte
+zueinander ableiten kann. Darüber hinaus soll sie nachweisen, daß sie
+die Grundlagen der Steuerungs- und Regelungstechnik kennt und ihre
+Bedeutung bei Baumaschinen und Baugeräten erläutern kann. In diesem
+Rahmen können geprüft werden:
 
 1.  Maschinen und Geräte zur Betonherstellung und -verarbeitung,
     insbesondere Betonmischer, Betonmischanlagen, Dosier- und
@@ -467,18 +467,18 @@ Baugeräten erläutern kann. In diesem Rahmen können geprüft werden:
 
 
 (4) Im Prüfungsfach "Instandhaltungs- und Instandsetzungstechnik" soll
-der Prüfungsteilnehmer nachweisen, daß er durch Messen und Prüfen auf
+die zu prüfende Person nachweisen, daß sie durch Messen und Prüfen auf
 den Zustand und den Verschleiß der Maschinen und Geräte schließen,
 Störungen feststellen und bei der Instandsetzung die zur
 Schadensbeseitigung notwendigen Auswechselteile bestimmen sowie die
 erforderlichen Bearbeitungs- und Verbindungstechniken beurteilen und
-auswählen kann. Er soll ferner nachweisen, daß er den Aufbau und die
+auswählen kann. Sie soll ferner nachweisen, daß sie den Aufbau und die
 Funktion von Verbrennungsmotoren kennt und geeignete Maßnahmen zu
 ihrer Wartung und Instandsetzung in Baumaschinen beurteilen und
-auswählen kann. Außerdem soll er nachweisen, daß er die Wirkungen und
-Gefahren des elektrischen Stroms kennt und bei der Feststellung von
-Mängeln deren Beseitigung veranlassen kann. In diesem Rahmen können
-geprüft werden:
+auswählen kann. Außerdem soll sie nachweisen, daß sie die Wirkungen
+und Gefahren des elektrischen Stroms kennt und bei der Feststellung
+von Mängeln deren Beseitigung veranlassen kann. In diesem Rahmen
+können geprüft werden:
 
 1.  Verfahren zum Messen und Bearbeiten, insbesondere Meßzeuge und
     Meßverfahren, Toleranzen nach DIN, Verfahren der spanlosen und
@@ -517,8 +517,8 @@ geprüft werden:
 
 
 
-(5) Im Prüfungsfach "Baubetriebstechnik" soll der Prüfungsteilnehmer
-nachweisen, daß er an Hand von Situationsbeschreibungen und
+(5) Im Prüfungsfach "Baubetriebstechnik" soll die zu prüfende Person
+nachweisen, daß sie an Hand von Situationsbeschreibungen und
 zeichnerischen Darstellungen mit Hilfe einschlägiger Unterlagen eine
 baubetriebstechnische Aufgabe lösen und die Lösungsschritte begründen
 kann. In dieser baubetriebstechnischen Aufgabe soll das Einrichten,
@@ -622,64 +622,155 @@ Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer ist auf Antrag von der Ablegung einzelner
-Prüfungsbestandteile durch die zuständige Stelle zu befreien, wenn
-eine andere vergleichbare Prüfung vor einer öffentlichen oder
-staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss erfolgreich abgelegt wurde und die Anmeldung zur
-Fortbildungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des
-Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bestehen der Prüfung
-
-(1) Die Prüfungsteile gemäß § 3 Abs. 1 Nr. 1 und 2 sind gesondert zu
-bewerten. Für jeden dieser Teile der Prüfung ist eine Note als
-arithmetisches Mittel aus den Bewertungen der Leistungen in den
-einzelnen Prüfungsfächern zu bilden. Die Noten der schriftlichen und
-mündlichen Prüfungsleistungen in einem Prüfungsfach sind zu einer Note
-zusammenzufassen; dabei hat die Note der mündlichen Prüfungsleistung
-gemäß § 4 Abs. 7 das doppelte Gewicht.
-
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer im
-wirtschafts-, rechts- und sozialkundlichen Prüfungsteil in allen
-Fächern des baumaschinentechnischen Prüfungsteils, sowie im
-schriftlichen und im praktischen Teil des berufs- und
-arbeitspädagogischen Prüfungsteils mindestens ausreichende Leistungen
-erbracht hat.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage
-Seite 1 und ein Zeugnis gemäß der Anlage Seite 1 und 2 auszustellen.
-Im Fall der Freistellung nach § 6 sind - anstelle der Noten - Ort,
-Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
-abgelegten Prüfung anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung
+von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
+Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht.
+Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7
+Absatz 2 Satz 2 und 4, Absatz 3 Satz 2 oder § 8 Absatz 4 Satz 2
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewertung von Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im wirtschafts-, rechts- und sozialkundlichen Teil sind jeweils
+einzeln zu bewerten:
+
+1.  die schriftlichen Prüfungsleistungen in den Prüfungsfächern
+    „Grundlagen für kostenbewusstes Handeln“ und „Grundlagen für
+    rechtsbewusstes Handeln“,
+
+
+2.  die Prüfungsleistungen im Prüfungsfach „Grundlagen für die
+    Zusammenarbeit auf der Arbeitsstätte“ in der schriftlichen und in der
+    mündlichen Prüfung.
+
+
+
+Aus den Bewertungen für die schriftliche und die mündliche
+Prüfungsleistung im Prüfungsfach „Grundlagen für die Zusammenarbeit
+auf der Arbeitsstätte“ wird als zusammengefasste Bewertung des
+Prüfungsfachs das gewichtete arithmetische Mittel berechnet. Dabei
+sind die Bewertungen wie folgt zu gewichten:
+
+1.  die schriftliche Prüfungsleistung mit einem Drittel und
+
+
+2.  die mündliche Prüfungsleistung mit zwei Dritteln.
+
+
+
+Aus den einzelnen Bewertungen der Prüfungsfächer wird als Bewertung
+des Prüfungsteils das arithmetische Mittel berechnet.
+
+(3) Im baumaschinentechnischen Teil sind die Prüfungsleistungen in
+jedem Prüfungsfach einzeln zu bewerten. Aus den einzelnen Bewertungen
+wird als Bewertung des Prüfungsteils das arithmetische Mittel
+berechnet.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  Im wirtschafts-, rechts- und sozialkundlichen Teil und
+
+
+2.  in jedem Prüfungsfach des baumaschinentechnischen Teils.
+
+
+
+
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den wirtschafts-, rechts- und sozialkundlichen Teil,
+
+
+2.  die Bewertung für den baumaschinentechnischen Teil.
+
+
+
+
+(3) Den Bewertungen für den wirtschafts-, rechts- und sozialkundlichen
+Teil, den drei Prüfungsfächern des wirtschafts-, rechts- und
+sozialkundlichen Teils sowie für den baumaschinentechnischen Teil und
+den vier Prüfungsfächern des baumaschinentechnischen Teils ist nach
+Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Punktebewertungen wie folgt gewichtet:
+
+1.  für den wirtschafts-, rechts- und sozialkundlichen Teil mit 25
+    Prozent,
+
+
+2.  für den baumaschinentechnischen Teil mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer von einzelnen Prüfungsteilen und Prüfungsfächern
-befreit, wenn er darin in einer vorangegangenen Prüfung mindestens
-ausreichende Leistungen erbracht hat und er sich innerhalb von zwei
-Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
-Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der
-Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
-zu wiederholen. In diesem Fall wird das letzte Ergebnis
-berücksichtigt.
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird zu prüfende
+Person von einzelnen Prüfungsteilen und Prüfungsfächern befreit, wenn
+sie darin in einer vorangegangenen Prüfung mindestens ausreichende
+Leistungen erbracht hat und sie sich innerhalb von zwei Jahren,
+gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an,
+zur Wiederholungsprüfung angemeldet hat. Die zu prüfende Person kann
+beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
+diesem Fall wird das letzte Ergebnis berücksichtigt.
 
 
-## § 9 Übergangsvorschrift
+## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 11 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1985 in Kraft.
 
@@ -688,76 +779,385 @@ Diese Verordnung tritt am 1. August 1985 in Kraft.
 
 Der Bundesminister für Bildung und Wissenschaft
 
+(zu den §§ 7 und 8)
 
-## Anlage
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 1985, 183 - 184,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Seite 1
-**Muster**
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluß
-Geprüfter Baumaschinenmeister
-Herr/Frau
-.....................................................................
-geboren am ............................ in
-....................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluß
-Geprüfter Baumaschinenmeister
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Baumaschinenmeister vom 23. Januar 1985 (BGBl. I S. 177),
-die zuletzt durch Artikel 9 der Verordnung vom 25. August 2009
-(BGBl. I S. 2960) geändert worden ist,
-bestanden.
-Datum
-............................................................
-Unterschrift
-............................................................
-(Siegel der zuständigen Stelle)
-Seite 2
-Ergebnisse der Prüfung
-Note
-I.   Wirtschafts-, rechts- und sozialkundlicher Teil
-..........
-1\. Grundlagen für kostenbewußtes Handeln
-..........
-2\. Grundlagen für rechtsbewußtes Handeln
-..........
-3\. Grundlagen für die Zusammenarbeit auf der Arbeitsstätte
-..........
-(Im Fall des § 6: "Der Prüfungsteilnehmer wurde nach § 6
-im Hinblick auf die am ...... in ...... vor ......
-abgelegte Prüfung vom Prüfungsbestandteil
-...... freigestellt.")
-II.  Baumaschinentechnischer Teil
-..........
-1\. Maschinentechnische Grundlagen
-..........
-2\. Baumaschinen und Baugeräte
-..........
-3\. Instandhaltungs- und Instandsetzungstechnik
-..........
-4\. Baubetriebstechnik
-..........
-(Im Fall des § 6: "Der Prüfungsteilnehmer
-wurde nach § 6 im Hinblick auf die am ......
-in ...... vor ...... abgelegte Prüfung vom Prüfungsbestandteil ......
-freigestellt.")
-III. Berufs- und arbeitspädagogische Eignung
-Der Prüfungsteilnehmer hat nach § 3 Absatz 3 den Nachweis
-über den Erwerb der berufs- und arbeitspädagogischen
-Eignung durch die Prüfung am ...... in ...... vor .......... erbracht.
------
-\*) Nichtzutreffendes streichen
+(Fundstelle: BGBl. I 2019, 2183 - 2184)
 
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+*    *   Punkte
+
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2184 - 2185)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum wirtschafts-, rechts- und sozialkundlichen Teil
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+
+
+    b)  Benennung der drei Prüfungsfächer und Bewertung mit Note,
+
+
+
+
+
+2.  zum baumaschinentechnischen Teil
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+
+
+    b)  Benennung der vier Prüfungsfächer und Bewertung mit Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 3 Absatz 3.
+
+
+
+
+Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
+
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

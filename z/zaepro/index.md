@@ -2,7 +2,7 @@
 Title: Approbationsordnung für Zahnärzte
 jurabk: ZÄPrO
 layout: default
-origslug: z_pro
+origslug: zaepro
 slug: zaepro
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1955, 37
 
 Zuletzt geändert durch
-:   Art. 34 G v. 6.12.2011 I 2515
+:   Art. 8 G v. 27.6.2017 I 1966
 
 
 ## Eingangsformel
@@ -40,9 +40,10 @@ ausgebildet.
 
 Die zahnärztliche Ausbildung umfaßt
 
-1.  ein Studium der Zahnheilkunde von zehn Semestern an einer
-    wissenschaftlichen Hochschule, das sich aus einem vorklinischen und
-    einem klinischen Teil von je fünf Semestern zusammensetzt;
+1.  ein Studium der Zahnheilkunde von 5 000 Stunden und einer Dauer von
+    fünf Jahren an einer wissenschaftlichen Hochschule, das sich aus einem
+    vorklinischen und einem klinischen Teil von je fünf Semestern
+    zusammensetzt;
 
 
 2.  folgende staatliche Prüfungen:
@@ -1275,6 +1276,47 @@ Vorsitzende dem Kandidaten ein Zeugnis nach Muster 5 aus.
 
 
 
+### § 58a
+
+(1) Der Bescheid nach § 2 Absatz 2 Satz 8 und Absatz 3 Satz 2 des
+Gesetzes über die Ausübung der Zahnheilkunde enthält folgende Angaben:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellern vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+    22, L 354 vom 20.12.2013, S. 132),
+
+
+2.  die Fächer, bei denen wesentliche Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass der Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des
+    zahnärztlichen Berufs notwendigen Kenntnisse und Fähigkeiten verfügt,
+    und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die der
+    Antragsteller im Rahmen seiner zahnärztlichen Berufspraxis oder durch
+    lebenslanges Lernen im Sinne des § 2 Absatz 2 Satz 5 des Gesetzes über
+    die Ausübung der Zahnheilkunde erworben hat.
+
+
+
+
+(2) Die Länder haben sicherzustellen, dass die Antragsteller die
+Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die
+Ausübung der Zahnheilkunde innerhalb von sechs Monaten nach der
+Entscheidung nach § 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung
+der Zahnheilkunde ablegen können. Satz 1 gilt entsprechend für die
+Prüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der
+Zahnheilkunde.
+
+
 ### § 59
 
 (1) Der Antrag auf Approbation als Zahnarzt ist an die zuständige
@@ -1315,23 +1357,7 @@ sind sie zusätzlich in beglaubigter Übersetzung vorzulegen. Die
 zuständige Behörde kann die Vorlage weiterer Nachweise, insbesondere
 über eine bisherige Tätigkeit, verlangen.
 
-(3) Hat der Antragsteller den zahnärztlichen Beruf im Herkunftsstaat
-bereits ausgeübt, so kann die für die Erteilung der Approbation als
-Zahnarzt zuständige Behörde bei der zuständigen Behörde des
-Herkunftsstaats Auskünfte über etwa gegen den Antragsteller verhängte
-Strafen oder sonstige berufs- oder strafrechtliche Maßnahmen wegen
-schwerwiegenden und genau bestimmten standeswidrigen Verhaltens oder
-strafbarer Handlungen, die die Ausübung des Berufs im Herkunftsstaat
-betreffen, einholen. Hat die für die Erteilung der Approbation als
-Zahnarzt zuständige Behörde in Fällen des Satzes 1 von Tatbeständen
-Kenntnis, die außerhalb des Geltungsbereichs des Gesetzes über die
-Ausübung der Zahnheilkunde eingetreten sind und im Hinblick auf die
-Voraussetzungen des § 2 Abs. 1 Satz 1 Nr. 2 des Gesetzes über die
-Ausübung der Zahnheilkunde von Bedeutung sein können, so hat sie die
-zuständige Stelle des Herkunftsstaats zu unterrichten und sie zu
-bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die
-Folgerungen, die sie hinsichtlich der von ihr ausgestellten
-Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
+(3) (weggefallen)
 
 (4) (weggefallen)
 
@@ -1484,8 +1510,9 @@ Diese Prüfungsordnung tritt am 1. Mai 1955 in Kraft.
 
 Der Bundesminister des Innern
 
+(zu § 19 Abs. 4)
 
-### Anlage 1 (zu § 19 Abs. 4) (Muster 1)
+### Anlage 1 (Muster 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 424)
 Zeugnis
@@ -1530,8 +1557,9 @@ Monate abgehaltenen Kursus der technischen Propädeutik entfällt die
 Angabe
 des Halbjahres.
 
+(zu § 24 Abs. 1 S. 1)
 
-### Anlage 2 (zu § 24 Abs. 1 S. 1) (Muster 2)
+### Anlage 2 (Muster 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 425)
 Zeugnis
@@ -1566,8 +1594,9 @@ Der Vorsitzende des Prüfungsausschusses
 sind
 die Worte "und das Gesamtergebnis ..." zu streichen.
 
+(zu § 24 Abs. 1 letzter Satz)
 
-### Anlage 2a (zu § 24 Abs. 1 letzter Satz) (Muster 2 a)
+### Anlage 2a (Muster 2 a)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 426;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1609,8 +1638,9 @@ Der Vorsitzende des Prüfungsausschusses
 das
 Gesamtergebnis ..." zu streichen.
 
+(zu § 31 Abs. 2)
 
-### Anlage 3 (zu § 31 Abs. 2) (Muster 3)
+### Anlage 3 (Muster 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 427)
 Zeugnis
@@ -1647,8 +1677,9 @@ Der Vorsitzende des Prüfungsausschusses
 sind
 die Worte "und das Gesamtergebnis ..." zu streichen.
 
+(zu § 31 Abs. 2)
 
-### Anlage 3a (zu § 31 Abs. 2) (Muster 3 a)
+### Anlage 3a (Muster 3 a)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 428;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1693,8 +1724,9 @@ Der Vorsitzende des Prüfungsausschusses
 das
 Gesamtergebnis ..." zu streichen.
 
+(zu § 36 Abs. 2)
 
-### Anlage 4 (zu § 36 Abs. 2) (Muster 4)
+### Anlage 4 (Muster 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1955, 50)
 **Praktikantenschein**
@@ -1725,8 +1757,9 @@ besucht
 (Unterschrift des Leiters der Klinik
 - Poliklinik - oder des Kursus)
 
+(zu § 58 Abs 3)
 
-### Anlage 5 (zu § 58 Abs 3) (Muster 5)
+### Anlage 5 (Muster 5)
 
 (Fundstelle des Originaltextes: BGBl. I 1955, 51)
 Der

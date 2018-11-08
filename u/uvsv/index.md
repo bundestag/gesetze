@@ -206,8 +206,31 @@ und 2 erfüllt sind.
 
 ## § 4 Einsatz, Aufgaben und Qualifikation des Fachpersonals
 
-(1)
-(künftig in Kraft)
+(1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
+
+1.  mindestens eine als Fachpersonal für den Umgang mit UV-
+    Bestrahlungsgeräten nach Absatz 4 qualifizierte Person (Fachpersonal)
+    während der Betriebszeiten der UV-Bestrahlungsgeräte für den Kontakt
+    mit den Nutzerinnen oder den Nutzern und die Überprüfung der UV-
+    Bestrahlungsgeräte anwesend ist,
+
+
+2.  das Fachpersonal anbietet, die Nutzerin oder den Nutzer in die sichere
+    Bedienung des UV-Bestrahlungsgerätes einschließlich der Notabschaltung
+    einzuweisen,
+
+
+3.  das Fachpersonal anbietet, eine auf die Person abgestimmte
+    Hauttypbestimmung nach Anlage 1 vorzunehmen,
+
+
+4.  das Fachpersonal anbietet, einen auf die Person abgestimmten
+    Dosierungsplan nach Anlage 5 zu erstellen.
+
+
+
+Es ist ausreichend, die Angebote nach Satz 1 Nummer 2 bis 4 zu Beginn
+einer Bestrahlungsserie nach Anlage 5 Nummer 3 zu unterbreiten.
 
 (2) Wer nicht mehr als zwei UV-Bestrahlungsgeräte an einem
 Aufstellungsort betreibt, kann von Absatz 1 Satz 1 Nummer 1 abweichen,
@@ -468,8 +491,9 @@ Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)
 
-## Anlage 1 (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3) Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
+## Anlage 1 Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
 
 (Fundstelle: BGBl. I 2011, 1416 - 1418)
 
@@ -980,8 +1004,9 @@ Wirkungsfunktion mit Parametern festgelegt:
 
 
 
+(zu § 3 Absatz 2 Nummer 1)
 
-## Anlage 3 (zu § 3 Absatz 2 Nummer 1) UV-Schutzbrillen
+## Anlage 3 UV-Schutzbrillen
 
 (Fundstelle: BGBl. I 2011, 1419 )
 
@@ -991,8 +1016,9 @@ Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und
 beim Deutschen Patent- und Markenamt archivmäßig gesichert
 niedergelegt), erfüllen.
 
+(zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)
 
-## Anlage 4 (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2) Geräte- und Betriebsbuch
+## Anlage 4 Geräte- und Betriebsbuch
 
 (Fundstelle: BGBl. I 2011, 1420 - 1422)
 
@@ -1477,8 +1503,9 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
     Äquivalenzbescheinigungen sind dem Geräte- und Betriebsbuch als Anlage
     beizufügen.
 [^F775557_04_BJNR141200011BJNE001700000]: 
+(zu § 4 Absatz 1 bis 3)
 
-## Anlage 5 (zu § 4 Absatz 1 bis 3) Dosierungsplan
+## Anlage 5 Dosierungsplan
 
 (Fundstelle: BGBl. I 2011, 1423)
 
@@ -1691,8 +1718,9 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 
     Ausschlusskriterium: UV-Bestrahlungsgerät sollte nicht genutzt werden.
 [^F5_775557_BJNR141200011BJNE001800000]: 
+(zu § 5 Absatz 1 Satz 1)
 
-## Anlage 6 (zu § 5 Absatz 1 Satz 1) Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
+## Anlage 6 Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
 
 (Fundstelle: BGBl. I 2011, 1424 - 1425)
 
@@ -1854,8 +1882,9 @@ fachlich korrektes Beratungsgespräch zu führen und auf Kundenfragen
 zur UV-Bestrahlung und zu den damit verbundenen gesundheitlichen
 Risiken zu antworten.
 
+(zu § 7 Absatz 1)
 
-## Anlage 7 (zu § 7 Absatz 1) Hinweise im Geschäftsraum und in der Kabine
+## Anlage 7 Hinweise im Geschäftsraum und in der Kabine
 
 (Fundstelle: BGBl. I 2011, 1426)
 
@@ -1987,8 +2016,9 @@ Aus Gründen des Gesundheitsschutzes wird empfohlen:
 Bei Bedarf/Bei Interesse können Sie gerne eine persönliche Beratung
 von unserem qualifizierten Fachpersonal erhalten.
 
+(zu § 7 Absatz 4)
 
-## Anlage 8 (zu § 7 Absatz 4) Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
+## Anlage 8 Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
 
 (Fundstelle: BGBl. I 2011, 1427 - 1428)
 

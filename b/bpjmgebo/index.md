@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 691
 
+V aufgeh. durch
+:   Art. 4 Abs. 34 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+V aufgeh. durch
+:   Art. 4 Abs. 37 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 37 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 
 ## Eingangsformel
@@ -70,8 +76,9 @@ Die Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 3)
 
-## Anlage (zu § 3) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 Teil 1
 Ablehnende Entscheidungen

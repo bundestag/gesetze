@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 993
 
 Zuletzt geändert durch
-:   Art. 3 V v. 26.9.2011 I 1914
+:   Art. 3 V v. 4.1.2019 I 2
 
 
 ## Eingangsformel
@@ -30,31 +30,45 @@ Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien
 für Gesundheit und für Wirtschaft:
 
 
-## § 1 Gesetzliche Handelsklassen und Kennzeichnung
+## § 1 Gesetzliche Handelsklassen, Einstufung in Kategorien und Kennzeichnung
 
-(1) Schaffleisch darf nach einer gesetzlichen Handelsklasse im Sinne
-des Artikels 42 Abs. 1 Unterabs. 2 und Anhang V Buchstabe C der
-Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine
-gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für
-bestimmte landwirtschaftliche Erzeugnisse (Verordnung über eine
-einheitliche GMO) (ABl. EU Nr. L 299 S. 1) und der Verordnung (EG) Nr.
-1249/2008 der Kommission vom 10. Dezember 2008 mit
-Durchführungsbestimmungen zu den gemeinschaftlichen
-Handelsklassenschemata für Schlachtkörper von Rindern, Schweinen und
-Schafen und zur Feststellung der diesbezüglichen Preise (ABl. L 337
-vom 16.12.2008, S. 3) in der jeweils geltenden Fassung zum Verkauf
-vorrätig gehalten, angeboten, feilgehalten, geliefert, verkauft oder
-sonst in den Verkehr gebracht werden. Bei Verwendung von
-Handelsklassen ist das Schaffleisch nach Maßgabe des Absatzes 3 zu
-kennzeichnen. Die Verwendung anderer als der in Satz 1 genannten
+(1) Schaffleisch darf zum Verkauf vorrätig gehalten, angeboten,
+feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht
+werden in einer gesetzlichen Kategorie und Handelsklasse
+
+1.  im Sinne des Artikels 10 Unterabsatz 2 und des Anhangs IV Teil C der
+    Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
+    Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für
+    landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+    (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+    1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) und
+
+
+2.  im Sinne des Artikels 7 Absatz 1 1. Halbsatz der Delegierten
+    Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur
+    Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen
+    Parlaments und des Rates in Bezug auf die Handelsklassenschemata der
+    Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur
+    Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern
+    und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74).
+
+
+
+Bei Verwendung von Handelsklassen ist das Schaffleisch nach Anhang IV
+Teil C der Verordnung (EU) Nr. 1308/2013 in Verbindung mit den
+Artikeln 7 und 8 der Delegierten Verordnung (EU) 2017/1182 zu
+klassifizieren, zu wiegen und zu kennzeichnen. Die Verantwortung für
+die ordnungsgemäße Durchführung der Klassifizierung obliegt dem
+Schlachtbetrieb; sie wird durch die Beauftragung eines
+Klassifizierungsunternehmens mit der Durchführung der Klassifizierung
+nicht berührt. Die Verwendung anderer als der in Satz 1 genannten
 Handelsklassen ist nicht zulässig.
 
 (2) (weggefallen)
 
-(3) Die Kennzeichnung muß bei der Klassifizierung an der Innenseite
-der Keulen in folgender Reihenfolge angebracht werden:
-Kategoriebezeichnung, Buchstabe und Ziffer der Handelsklasse. Die
-Kennzeichnung muß mindestens 1,5 cm hoch und deutlich erkennbar sein.
+(3) Die Bestimmung der Kategorie von Schafschlachtkörpern kann durch
+Bedienstete des Schlachtbetriebs vorgenommen werden, wenn keine
+Einstufung in Handelsklassen erfolgt.
 
 
 ## § 2 Ordnungswidrigkeiten
@@ -72,6 +86,40 @@ Handelsklassengesetzes handelt, wer
 
 
 
+
+
+## § 2a Überwachung, Duldungs- und Auskunftspflichten
+
+(1) Soweit es zur Überwachung der Einhaltung der nach dieser
+Verordnung geltenden Vorschriften erforderlich ist, können die
+Beauftragten der zuständigen Stellen bei Betrieben, die Schafe
+schlachten und Schaffleisch im Sinne des § 1 zum Verkauf vorrätig
+halten, anbieten, feilhalten, liefern, verkaufen oder sonst in den
+Verkehr bringen oder in den Geltungsbereich oder aus dem
+Geltungsbereich dieser Verordnung verbringen, während der
+Geschäftszeit
+
+1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
+    Transportmittel betreten und dort Besichtigungen vornehmen,
+
+
+2.  Geschäftsunterlagen einsehen und prüfen,
+
+
+3.  Auskunft verlangen.
+
+
+
+
+(2) Inhaber oder Leiter von Betrieben sowie
+Klassifizierungsunternehmen sind verpflichtet, das Betreten der
+Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
+Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
+gestatten, das zu besichtigende Schaffleisch selbst oder durch andere
+so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden
+kann, selbst oder durch andere die erforderliche Hilfe bei der
+Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen,
+prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten

@@ -2,7 +2,7 @@
 Title: Sechstes Gesetz zur Änderung besoldungsrechtlicher Vorschriften
 jurabk: BesÄndG 6
 layout: default
-origslug: bes_ndg_6
+origslug: besaendg_6
 slug: besaendg_6
 
 ---

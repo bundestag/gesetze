@@ -67,8 +67,9 @@ Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1)
 
-## Anlage (zu § 1) Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
+## Anlage Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
 
 ( Fundstelle: BGBl. I 1991, 2163 - 2168 )
 

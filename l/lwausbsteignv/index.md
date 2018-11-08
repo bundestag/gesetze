@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 179
 
+Geändert durch
+:   Art. 6 Abs. 22 G v. 23.5.2017 I 1228
+
 
 
 ## Eingangsformel
@@ -64,12 +67,12 @@ tarifvertragliche Regelungen für den Ausbildungsbetrieb gelten, sind
 diese im Betrieb zur Einsicht auszulegen.
 
 (5) Die Ausbildungsstätte muß Gewähr dafür bieten, daß die
-Vorschriften des Jugendarbeitsschutzgesetzes, die
-Unfallverhütungsvorschriften und sonstige Vorschriften zum Schutze des
-Auszubildenden eingehalten werden können. Hat der Ausbildende einen
-Auszubildenden in die häusliche Gemeinschaft aufgenommen, so muß er
-ihm eine Unterkunft zur Verfügung stellen, die zeitgemäß beschaffen
-und ausgestattet ist.
+Vorschriften des Jugendarbeitsschutzgesetzes, des
+Mutterschutzgesetzes, die Unfallverhütungsvorschriften und sonstige
+Vorschriften zum Schutze des Auszubildenden eingehalten werden können.
+Hat der Ausbildende einen Auszubildenden in die häusliche Gemeinschaft
+aufgenommen, so muß er ihm eine Unterkunft zur Verfügung stellen, die
+zeitgemäß beschaffen und ausgestattet ist.
 
 (6) Ein Betrieb ist als Ausbildungsstätte ungeeignet, wenn über das
 Vermögen des Inhabers ein Konkurs- oder Vergleichsverfahren eröffnet

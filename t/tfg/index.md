@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1998, 1752
 
 Neugefasst durch
-:   Bek. v. 28.8.2007 I 2169
+:   Bek. v. 28.8.2007 I 2169;
 
-Geändert durch
-:   Art. 12 G v. 17.7.2009 I 1990
+Zuletzt geändert durch
+:   Art. 11 G v. 19.5.2020 I 1018
 
 
 ## Erster Abschnitt - Zweck des Gesetzes, Begriffsbestimmungen
@@ -152,8 +152,8 @@ verwendbar ist, sofern sie nicht vom vertraulichen Selbstausschluss
 Gebrauch macht.
 
 (2) Die spendende Person ist über die mit der Spendeentnahme
-verbundene Erhebung, Verarbeitung und Nutzung personenbezogener Daten
-aufzuklären. Die Aufklärung ist von der spendenden Person schriftlich
+verbundene Verarbeitung personenbezogener Daten aufzuklären. Die
+Aufklärung ist von der spendenden Person schriftlich oder elektronisch
 zu bestätigen.
 
 
@@ -188,8 +188,8 @@ solange
 2.  die Personen, bei denen es durchgeführt werden soll, ihre schriftliche
     Einwilligung hierzu erteilt haben, nachdem sie durch eine ärztliche
     Person über Wesen, Bedeutung und Risiken der Immunisierung sowie die
-    damit verbundene Erhebung, Verarbeitung und Nutzung personenbezogener
-    Daten aufgeklärt worden sind und dies schriftlich bestätigt haben,
+    damit verbundene Verarbeitung personenbezogener Daten aufgeklärt
+    worden sind und dies schriftlich oder elektronisch bestätigt haben,
 
 
 3.  seine Durchführung von einer ärztlichen Person, die nach dem Stand der
@@ -237,33 +237,13 @@ unverzüglich mitzuteilen. Von betroffenen immunisierten Personen
 werden das Geburtsdatum und die Angabe des Geschlechtes übermittelt.
 
 
-### § 9 Blutstammzellen und andere Blutbestandteile
+### § 9 Hämatopoetische Stammzellen aus dem peripheren Blut und andere Blutbestandteile
 
-(1) Die für die Separation von Blutstammzellen und anderen
-Blutbestandteilen erforderliche Vorbehandlung der spendenden Personen
-ist nach dem Stand der medizinischen Wissenschaft durchzuführen. § 8
-Abs. 2 bis 4 gilt entsprechend.
-
-(2) Die für die medizinische Dokumentation und Information zuständige
-Bundesbehörde errichtet ein für die Öffentlichkeit zugängliches
-Register über Einrichtungen, die Blutstammzellzubereitungen herstellen
-und in den Verkehr bringen oder einführen, und stellt dessen laufenden
-Betrieb sicher. Das Register enthält die von den zuständigen Behörden
-der Länder zur Verfügung gestellten Angaben zur Identifikation und
-Erreichbarkeit der Einrichtungen sowie zu den Tätigkeiten, für die
-jeweils die Herstellungs- und Einfuhrerlaubnis erteilt worden ist,
-nach Maßgabe der Rechtsverordnung nach Absatz 3. Für ihre Leistungen
-zur Bereitstellung der Angaben kann die zuständige Bundesbehörde
-Entgelte verlangen. Der Entgeltkatalog bedarf der Zustimmung des
-Bundesministeriums für Gesundheit.
-
-(3) Das Bundesministerium für Gesundheit wird ermächtigt, mit
-Zustimmung des Bundesrates durch Rechtsverordnung Näheres zur Art,
-Erhebung, Darstellungsweise und Bereitstellung der Angaben nach Absatz
-2 Satz 2, einschließlich Entgeltbefreiungen, zu erlassen. In der
-Rechtsverordnung kann auch eine Übermittlung der Angaben an
-Einrichtungen und Behörden innerhalb und außerhalb des
-Geltungsbereiches dieses Gesetzes vorgesehen werden.
+Die für die Separation von hämatopoetischen Stammzellen aus dem
+peripheren Blut und von anderen Blutbestandteilen erforderliche
+Vorbehandlung der spendenden Personen ist nach dem Stand der
+medizinischen Wissenschaft durchzuführen. § 8 Abs. 2 bis 4 gilt
+entsprechend.
 
 
 ### § 10 Aufwandsentschädigung
@@ -280,25 +260,33 @@ unbeschadet ärztlicher Dokumentationspflichten für die in diesem
 Gesetz geregelten Zwecke, für Zwecke der ärztlichen Behandlung der
 spendenden Person und für Zwecke der Risikoerfassung nach dem
 Arzneimittelgesetz zu protokollieren. Die Aufzeichnungen sind
-mindestens fünfzehn Jahre, im Falle der §§ 8 und 9 Abs. 1 mindestens
-zwanzig Jahre und die Angaben, die für die Rückverfolgung benötigt
-werden, mindestens dreißig Jahre lang aufzubewahren und zu vernichten
-oder zu löschen, wenn die Aufbewahrung nicht mehr erforderlich ist.
-Sie müssen so geordnet sein, dass ein unverzüglicher Zugriff möglich
-ist. Werden die Aufzeichnungen länger als dreißig Jahre nach der
-letzten bei der Spendeeinrichtung dokumentierten Spende desselben
-Spenders aufbewahrt, sind sie zu anonymisieren.
+mindestens fünfzehn Jahre, im Falle der §§ 8 und 9 mindestens zwanzig
+Jahre und die Angaben, die für die Rückverfolgung benötigt werden,
+mindestens dreißig Jahre lang aufzubewahren und zu vernichten oder zu
+löschen, wenn die Aufbewahrung nicht mehr erforderlich ist. Sie müssen
+so geordnet sein, dass ein unverzüglicher Zugriff möglich ist. Werden
+die Aufzeichnungen länger als dreißig Jahre nach der letzten bei der
+Spendeeinrichtung dokumentierten Spende desselben Spenders aufbewahrt,
+sind sie zu anonymisieren.
+
+(1a) Bei hämatopoetischen Stammzellzubereitungen aus dem peripheren
+Blut oder aus dem Nabelschnurblut ist für die Rückverfolgung
+zusätzlich die eindeutige Spendennummer gemäß § 2 Nummer 21 der
+Arzneimittel- und Wirkstoffherstellungsverordnung zu protokollieren
+und aufzubewahren. Das Bundesministerium für Gesundheit wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, von der Verpflichtung nach Satz 1 Ausnahmen vorzusehen.
 
 (2) Die Spendeeinrichtungen dürfen personenbezogene Daten der
-spendewilligen und spendenden Personen erheben, verarbeiten und
-nutzen, soweit das für die in Absatz 1 genannten Zwecke erforderlich
-ist. Sie übermitteln die protokollierten Daten den zuständigen
-Behörden und der zuständigen Bundesoberbehörde, soweit dies zur
-Erfüllung der Überwachungsaufgaben nach dem Arzneimittelgesetz oder
-zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, die im engen
-Zusammenhang mit der Spendeentnahme stehen, erforderlich ist. Zur
-Risikoerfassung nach dem Arzneimittelgesetz sind das Geburtsdatum und
-das Geschlecht der spendenden Person anzugeben.
+spendewilligen und spendenden Personen verarbeiten, soweit das für die
+in Absatz 1 genannten Zwecke erforderlich ist. Sie übermitteln die
+protokollierten Daten den zuständigen Behörden und der zuständigen
+Bundesoberbehörde, soweit dies zur Erfüllung der Überwachungsaufgaben
+nach dem Arzneimittelgesetz oder zur Verfolgung von Straftaten oder
+Ordnungswidrigkeiten, die im engen Zusammenhang mit der Spendeentnahme
+stehen, erforderlich ist. Zur Risikoerfassung nach dem
+Arzneimittelgesetz sind das Geburtsdatum und das Geschlecht der
+spendenden Person anzugeben.
 
 
 ### § 11a Blutdepots
@@ -348,21 +336,31 @@ Ermächtigung nach Satz 1 durch Rechtsverordnung ohne Zustimmung des
 Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
 
-### § 12a Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen
+### § 12a Richtlinien zum Stand der Erkenntnisse der medizinischen und zahnmedizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen
 
 (1) Die Bundesärztekammer kann den allgemein anerkannten Stand der
 Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung
 von Blut und Blutbestandteilen ergänzend zu den Vorschriften der
 Rechtsverordnung nach § 12 im Einvernehmen mit der zuständigen
-Bundesoberbehörde in Richtlinien feststellen. Bei der Erarbeitung der
-Richtlinien ist die angemessene Beteiligung von Sachverständigen der
-betroffenen Fach- und Verkehrskreise und der zuständigen Behörden von
-Bund und Ländern sicherzustellen. Die Richtlinien werden von der
-zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
+Bundesoberbehörde in Richtlinien feststellen. Die Bewertung des
+Risikos, das zu einem Ausschluss oder einer Rückstellung von
+bestimmten Personengruppen von der Spende führt, ist im Fall neuer
+medizinischer, wissenschaftlicher oder epidemiologischer Erkenntnisse
+zu aktualisieren und daraufhin zu überprüfen, ob der Ausschluss oder
+die Rückstellung noch erforderlich ist, um ein hohes
+Gesundheitsschutzniveau von Empfängerinnen und Empfängern von
+Blutspenden sicherzustellen. Bei der Erarbeitung der Richtlinien ist
+die angemessene Beteiligung von Sachverständigen der betroffenen Fach-
+und Verkehrskreise und der zuständigen Behörden von Bund und Ländern
+sicherzustellen. Die Richtlinien werden von der zuständigen
+Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 
 (2) Die Einhaltung des Standes der Erkenntnisse der medizinischen
 Wissenschaft und Technik wird vermutet, wenn die Richtlinien der
 Bundesärztekammer nach Absatz 1 beachtet worden sind.
+
+(3) Die Absätze 1 und 2 gelten für die Bundeszahnärztekammer im
+Bereich der Zahnheilkunde entsprechend.
 
 
 ## Dritter Abschnitt - Anwendung von Blutprodukten
@@ -391,8 +389,8 @@ anwenden, müssen ausreichende Erfahrung in dieser Tätigkeit besitzen.
 ### § 14 Dokumentation, Datenschutz
 
 (1) Die behandelnde ärztliche Person hat jede Anwendung von
-Blutprodukten und von gentechnisch hergestellten Plasmaproteinen zur
-Behandlung von Hämostasestörungen für die in diesem Gesetz geregelten
+Blutprodukten und von Arzneimitteln zur spezifischen Therapie von
+Gerinnungsstörungen bei Hämophilie für die in diesem Gesetz geregelten
 Zwecke, für Zwecke der ärztlichen Behandlung der von der Anwendung
 betroffenen Personen und für Zwecke der Risikoerfassung nach dem
 Arzneimittelgesetz zu dokumentieren oder dokumentieren zu lassen. Die
@@ -402,9 +400,10 @@ blutgruppenspezifisch angewendet werden, die durchgeführten
 Untersuchungen sowie die Darstellung von Wirkungen und unerwünschten
 Ereignissen zu umfassen.
 
-(2) Angewendete Blutprodukte und Plasmaproteine im Sinne von Absatz 1
-sind von der behandelnden ärztlichen Person oder unter ihrer
-Verantwortung mit folgenden Angaben unverzüglich zu dokumentieren:
+(2) Angewendete Blutprodukte und Arzneimittel zur spezifischen
+Therapie von Gerinnungsstörungen bei Hämophilie sind von der
+behandelnden ärztlichen Person oder unter ihrer Verantwortung mit
+folgenden Angaben unverzüglich zu dokumentieren:
 
 1.  Patientenidentifikationsnummer oder entsprechende eindeutige Angaben
     zu der zu behandelnden Person, wie Name, Vorname, Geburtsdatum und
@@ -432,11 +431,31 @@ Verantwortung mit folgenden Angaben unverzüglich zu dokumentieren:
 
 
 
-Bei Eigenblut sind diese Vorschriften sinngemäß anzuwenden. Die
-Einrichtung der Krankenversorgung (Krankenhaus, andere ärztliche
-Einrichtung, die Personen behandelt) hat sicherzustellen, dass die
-Daten der Dokumentation patienten- und produktbezogen genutzt werden
-können.
+Bei hämatopoetischen Stammzellzubereitungen aus dem peripheren Blut
+oder aus dem Nabelschnurblut sind mindestens die Angaben nach Anhang
+VI Teil B der Richtlinie 2006/86/EG der Kommission vom 24. Oktober
+2006 zur Umsetzung der Richtlinie 2004/23/EG des Europäischen
+Parlaments und des Rates hinsichtlich der Anforderungen an die
+Rückverfolgbarkeit, der Meldung schwerwiegender Zwischenfälle und
+unerwünschter Reaktionen sowie bestimmter technischer Anforderungen an
+die Kodierung, Verarbeitung, Konservierung, Lagerung und Verteilung
+von menschlichen Geweben und Zellen (ABl. L 294 vom 25.10.2006, S.
+32), die zuletzt durch die Richtlinie (EU) 2015/565 (ABl. L 93 vom
+9\.4.2015, S. 43) geändert worden ist, in der jeweils geltenden Fassung
+zu dokumentieren. Bei Eigenblut sind diese Vorschriften sinngemäß
+anzuwenden. Die Einrichtung der Krankenversorgung (Krankenhaus, andere
+ärztliche Einrichtung, die Personen behandelt) hat sicherzustellen,
+dass die Daten der Dokumentation patienten- und produktbezogen genutzt
+werden können.
+
+(2a) Erfolgt die Anwendung von Arzneimitteln zur spezifischen Therapie
+von Gerinnungsstörungen bei Hämophilie durch den Patienten im Rahmen
+der Heimselbstbehandlung, nimmt dieser die Dokumentation entsprechend
+den Absätzen 1 und 2 vor. Die ärztliche Person, die diesen Patienten
+wegen Hämostasestörungen dauerhaft behandelt (hämophiliebehandelnde
+ärztliche Person), hat die Dokumentation des Patienten mindestens
+einmal jährlich auf Schlüssigkeit und Vollständigkeit hin zu
+überprüfen und in die eigene Dokumentation zu übernehmen.
 
 (3) Die Aufzeichnungen, einschließlich der EDV-erfassten Daten, müssen
 mindestens fünfzehn Jahre, die Daten nach Absatz 2 mindestens dreißig
@@ -446,9 +465,17 @@ oder zu löschen, wenn eine Aufbewahrung nicht mehr erforderlich ist.
 Werden die Aufzeichnungen länger als dreißig Jahre aufbewahrt, sind
 sie zu anonymisieren.
 
+(3a) Die Einrichtungen der Krankenversorgung, die
+behandlungsbedürftige Hämophiliepatienten zeitlich begrenzt im Rahmen
+eines stationären oder ambulanten Aufenthalts behandeln, übermitteln
+der hämophiliebehandelnden ärztlichen Person Angaben über den Anlass
+der Behandlung mit Blutprodukten und Arzneimitteln zur spezifischen
+Therapie von Gerinnungsstörungen bei Hämophilie sowie ihre
+Dokumentation nach Absatz 2.
+
 (4) Die Einrichtungen der Krankenversorgung dürfen personenbezogene
-Daten der zu behandelnden Personen erheben, verarbeiten und nutzen,
-soweit das für die in Absatz 1 genannten Zwecke erforderlich ist. Sie
+Daten der zu behandelnden Personen verarbeiten, soweit das für die in
+den Absätzen 1 und 2a genannten Zwecke erforderlich ist. Sie
 übermitteln die dokumentierten Daten den zuständigen Behörden, soweit
 dies zur Verfolgung von Straftaten, die im engen Zusammenhang mit der
 Anwendung von Blutprodukten stehen, erforderlich ist. Zur
@@ -481,20 +508,21 @@ Anwendung von Blutprodukten tätig sind, festzulegen. Zusätzlich sind
 die Grundsätze für die patientenbezogene Qualitätssicherung der
 Anwendung von Blutprodukten, insbesondere der Dokumentation,
 einschließlich der Dokumentation der Indikation zur Anwendung von
-Blutprodukten und Plasmaproteinen im Sinne von § 14 Abs. 1, und des
-fachübergreifenden Informationsaustausches, die Überwachung der
-Anwendung, die anwendungsbezogenen Wirkungen, Nebenwirkungen und
-unerwünschten Reaktionen und zusätzlich erforderliche therapeutische
-Maßnahmen festzulegen.
+Blutprodukten und Arzneimitteln zur spezifischen Therapie von
+Gerinnungsstörungen bei Hämophilie, und des fachübergreifenden
+Informationsaustausches, die Überwachung der Anwendung, die
+anwendungsbezogenen Wirkungen, Nebenwirkungen und unerwünschten
+Reaktionen und zusätzlich erforderliche therapeutische Maßnahmen
+festzulegen.
 
 
 ### § 16 Unterrichtungspflichten
 
 (1) Treten im Zusammenhang mit der Anwendung von Blutprodukten und
-gentechnisch hergestellten Plasmaproteinen zur Behandlung von
-Hämostasestörungen unerwünschte Ereignisse auf, hat die behandelnde
-ärztliche Person unverzüglich die notwendigen Maßnahmen zu ergreifen.
-Sie unterrichtet die transfusionsbeauftragte und die
+Arzneimitteln zur spezifischen Therapie von Gerinnungsstörungen bei
+Hämophilie unerwünschte Ereignisse auf, hat die behandelnde ärztliche
+Person unverzüglich die notwendigen Maßnahmen zu ergreifen. Sie
+unterrichtet die transfusionsbeauftragte und die
 transfusionsverantwortliche Person oder die sonst nach dem
 Qualitätssicherungssystem der Einrichtung der Krankenversorgung zu
 unterrichtenden Personen.
@@ -503,13 +531,15 @@ unterrichtenden Personen.
 Nebenwirkung eines Blutproduktes ist unverzüglich der pharmazeutische
 Unternehmer und im Falle des Verdachts einer schwerwiegenden
 unerwünschten Reaktion oder Nebenwirkung eines Blutproduktes und eines
-Plasmaproteinpräparates im Sinne von Absatz 1 zusätzlich die
-zuständige Bundesoberbehörde zu unterrichten. Die Unterrichtung muss
-alle notwendigen Angaben wie Bezeichnung des Produktes, Name oder
-Firma des pharmazeutischen Unternehmers und die Chargenbezeichnung
-enthalten. Von der Person, bei der der Verdacht auf die unerwünschten
-Reaktionen oder Nebenwirkungen aufgetreten ist, sind das Geburtsdatum
-und das Geschlecht anzugeben.
+Arzneimittels zur spezifischen Therapie von Gerinnungsstörungen bei
+Hämophilie zusätzlich die zuständige Bundesoberbehörde zu
+unterrichten. Die Unterrichtung muss alle notwendigen Angaben wie
+Bezeichnung des Produktes, Name oder Firma des pharmazeutischen
+Unternehmers, die Chargenbezeichnung und, sofern vorhanden, den
+Einheitlichen Europäischen Code gemäß § 4 Absatz 30a des
+Arzneimittelgesetzes enthalten. Von der Person, bei der der Verdacht
+auf die unerwünschten Reaktionen oder Nebenwirkungen aufgetreten ist,
+sind das Geburtsdatum und das Geschlecht anzugeben.
 
 (3) Die berufsrechtlichen Mitteilungspflichten bleiben unberührt.
 
@@ -520,27 +550,33 @@ und das Geschlecht anzugeben.
 der Krankenversorgung sachgerecht zu lagern, zu transportieren,
 abzugeben oder zu entsorgen. Transport und Abgabe von Blutprodukten
 aus zellulären Blutbestandteilen und Frischplasma dürfen nur nach
-einem im Rahmen des Qualitätssicherungssystems schriftlich
-festgelegten Verfahren erfolgen. Nicht angewendete Eigenblutentnahmen
+einem im Rahmen des Qualitätssicherungssystems schriftlich oder
+elektronisch festgelegten Verfahren erfolgen. Im Falle einer
+elektronischen Festlegung des Verfahrens ist sicherzustellen, dass die
+elektronischen Dokumente für die jeweiligen Empfänger jederzeit leicht
+zugänglich sind und dass sie in hinreichender Weise vor unbefugten
+Manipulationen geschützt sind. Nicht angewendete Eigenblutentnahmen
 dürfen nicht an anderen Personen angewendet werden.
 
 (2) Der Verbleib nicht angewendeter Blutprodukte ist zu dokumentieren.
 
 
-### § 18 Stand der medizinischen Wissenschaft und Technik zur Anwendung von Blutprodukten
+### § 18 Stand der medizinischen und zahnmedizinischen Wissenschaft und Technik zur Anwendung von Blutprodukten
 
 (1) Die Bundesärztekammer stellt im Einvernehmen mit der zuständigen
 Bundesoberbehörde und nach Anhörung von Sachverständigen unter
 Berücksichtigung der Richtlinien und Empfehlungen der Europäischen
 Union, des Europarates und der Weltgesundheitsorganisation zu Blut und
 Blutbestandteilen in Richtlinien den allgemein anerkannten Stand der
-medizinischen Wissenschaft und Technik insbesondere für
+Erkenntnisse der medizinischen Wissenschaft und Technik insbesondere
+für
 
 1.  die Anwendung von Blutprodukten, einschließlich der Dokumentation der
-    Indikation zur Anwendung von Blutprodukten und Plasmaproteinen im
-    Sinne von § 14 Abs. 1, die Testung auf Infektionsmarker der zu
-    behandelnden Personen anlässlich der Anwendung von Blutprodukten und
-    die Anforderungen an die Rückstellproben,
+    Indikation zur Anwendung von Blutprodukten und Arzneimitteln zur
+    spezifischen Therapie von Gerinnungsstörungen bei Hämophilie, die
+    Testung auf Infektionsmarker der zu behandelnden Personen anlässlich
+    der Anwendung von Blutprodukten und die Anforderungen an die
+    Rückstellproben,
 
 
 2.  die Qualitätssicherung der Anwendung von Blutprodukten in den
@@ -557,7 +593,7 @@ medizinischen Wissenschaft und Technik insbesondere für
 
 
 
-fest. Bei der Anhörung ist die angemessene Beteiligung von
+fest. Bei der Erarbeitung ist die angemessene Beteiligung von
 Sachverständigen der betroffenen Fach- und Verkehrskreise,
 insbesondere der Träger der Spendeeinrichtungen, der Spitzenverbände
 der Krankenkassen, der Deutschen Krankenhausgesellschaft, der
@@ -569,6 +605,9 @@ zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 medizinischen Wissenschaft und Technik zu den Anforderungen nach
 diesem Abschnitt eingehalten worden ist, wenn und soweit die
 Richtlinien der Bundesärztekammer nach Absatz 1 beachtet worden sind.
+
+(3) Die Absätze 1 und 2 gelten für die Bundeszahnärztekammer im
+Bereich der Zahnheilkunde entsprechend.
 
 
 ## Vierter Abschnitt - Rückverfolgung
@@ -672,26 +711,302 @@ Lagerung von Blutprodukten erlassen werden.
 
 ### § 21 Koordiniertes Meldewesen
 
-(1) Die Träger der Spendeeinrichtungen, die pharmazeutischen
-Unternehmer und die Einrichtungen der Krankenversorgung haben jährlich
-die Zahlen zu dem Umfang der Gewinnung von Blut und Blutbestandteilen,
-der Herstellung, des Imports und Exports und des Verbrauchs von
-Blutprodukten und Plasmaproteinen im Sinne von § 14 Abs. 1 sowie die
-Anzahl der behandlungsbedürftigen Personen mit angeborenen
-Hämostasestörungen der zuständigen Bundesoberbehörde zu melden. Die
-Meldungen haben nach Abschluss des Kalenderjahres, spätestens zum 1.
-März des folgenden Jahres, zu erfolgen. Erfolgen die Meldungen
-wiederholt nicht oder unvollständig, ist die für die Überwachung
-zuständige Landesbehörde zu unterrichten.
+(1) Die Träger der Spendeeinrichtungen und die pharmazeutischen
+Unternehmer haben der zuständigen Bundesoberbehörde jährlich nach Satz
+4 die Zahlen zu dem Umfang der Gewinnung von Blut und
+Blutbestandteilen sowie zu dem Umfang der Herstellung, des Verlusts,
+des Verfalls, des Inverkehrbringens, des Imports und des Exports von
+Blutprodukten und Arzneimitteln zur spezifischen Therapie von
+Gerinnungsstörungen bei Hämophilie zu melden. Die Einrichtungen der
+Krankenversorgung haben der zuständigen Bundesoberbehörde jährlich
+nach Satz 4 die Zahlen zum Verbrauch und Verfall von Blutprodukten und
+Arzneimitteln zur spezifischen Therapie von Gerinnungsstörungen bei
+Hämophilie zu melden. Einzelheiten zu den nach den Sätzen 1 und 2 zu
+meldenden Blutprodukten und Arzneimitteln zur spezifischen Therapie
+von Gerinnungsstörungen bei Hämophilie werden in der Rechtsverordnung
+nach § 23 geregelt. Die Meldungen haben nach Abschluss des
+Kalenderjahres, spätestens zum 1. März des folgenden Jahres, zu
+erfolgen. Die zuständige Bundesoberbehörde unterrichtet die für die
+Überwachung zuständige Landesbehörde, wenn die Meldungen wiederholt
+nicht oder unvollständig erfolgen.
 
-(2) Die zuständige Bundesoberbehörde stellt die gemeldeten Daten
-anonymisiert in einem Bericht zusammen und macht diesen bekannt. Sie
-hat melderbezogene Daten streng vertraulich zu behandeln.
+(1a) Die hämophiliebehandelnde ärztliche Person hat die Anzahl der
+Patienten mit Gerinnungsstörungen bei Hämophilie, differenziert nach
+dem Schweregrad der Erkrankung und nach Altersgruppen, sowie die
+Gesamtmenge der bei diesen Patientengruppen angewendeten Arzneimitteln
+zur spezifischen Therapie von Gerinnungsstörungen bei Hämophilie nach
+Satz 3 an das Deutsche Hämophilieregister nach § 21a zu melden. Im
+Fall der schriftlichen oder elektronischen Einwilligung des
+behandelten Patienten sind anstelle der Meldung nach Satz 1
+
+1.  an die Vertrauensstelle nach § 21a Absatz 2 Satz 1 die
+    personenidentifizierenden Daten nach Maßgabe des nach § 21a Absatz 2
+    Satz 4 festgelegten Pseudonymisierungsverfahrens und
+
+
+2.  an das Deutsche Hämophilieregister nach § 21a Absatz 1 Satz 1 die
+    pseudonymisierten Daten nach Maßgabe der nach § 21a Absatz 3 Satz 3
+    getroffenen Festlegungen und des § 2 Absatz 4 Satz 2 Nummer 3 der
+    Transfusionsgesetz-Meldeverordnung, insbesondere
+
+    a)  die Angaben zu Alter, Geschlecht und Wohnort des Patienten,
+
+
+    b)  die Behandlungsdaten,
+
+
+    c)  die Angaben zur Krankenkasse,
+
+
+    d)  die Angaben zum Widerruf der Einwilligung des Patienten oder zum Tod
+        des Patienten
+
+
+
+
+
+
+zu melden. Die Meldungen haben nach Abschluss des Kalenderjahres,
+spätestens zum 1. Juli des folgenden Jahres, zu erfolgen. Mit der
+Meldung nach Satz 1 oder Satz 2 wird die Meldepflicht nach Absatz 1
+Satz 2 für Arzneimittel zur spezifischen Therapie von
+Gerinnungsstörungen bei Hämophilie erfüllt.
+
+(2) Die zuständige Bundesoberbehörde stellt die nach den Absätzen 1
+und 1a gemeldeten Daten anonymisiert in einem Bericht zusammen und
+macht diesen bekannt. Sie hat melderbezogene Daten streng vertraulich
+zu behandeln.
 
 (3) Die Spendeeinrichtungen übersenden der zuständigen Behörde einmal
 jährlich eine Liste der belieferten Einrichtungen der
 Krankenversorgung und stellen diese Liste auf Anfrage der zuständigen
 Bundesoberbehörde zur Verfügung.
+
+
+### § 21a Deutsches Hämophilieregister, Verordnungsermächtigung
+
+(1) Das Paul-Ehrlich-Institut führt in Zusammenarbeit mit der
+Gesellschaft für Thrombose- und Hämostaseforschung e. V., der
+Deutschen Hämophiliegesellschaft zur Bekämpfung von
+Blutungskrankheiten e. V. und der Interessengemeinschaft Hämophiler e.
+V. ein klinisches Register unter der Bezeichnung „Deutsches
+Hämophilieregister“. Das Deutsche Hämophilieregister hat insbesondere
+folgende Aufgaben:
+
+1.  die Erhebung, Zusammenführung, Prüfung und Auswertung der Meldungen
+    nach § 21 Absatz 1a,
+
+
+2.  die Festlegung der Einzelheiten zum Datensatz nach Absatz 3 Satz 3 und
+    § 2 Absatz 4 Satz 2 Nummer 3 der Transfusionsgesetz-Meldeverordnung
+    entsprechend dem Stand der medizinischen Wissenschaft und Technik
+    einschließlich der Fortschreibung des Datensatzes,
+
+
+3.  die Festlegung der Einzelheiten des Pseudonymisierungsverfahrens nach
+    Absatz 2 Satz 4,
+
+
+4.  die Auswertung der erfassten Daten und die Rückmeldung der
+    Auswertungsergebnisse an die hämophiliebehandelnden ärztlichen
+    Personen zur Verbesserung der Versorgung von Patienten mit
+    Gerinnungsstörungen bei Hämophilie,
+
+
+5.  die Bereitstellung notwendiger anonymisierter Daten zur Herstellung
+    von Transparenz zum Versorgungsgeschehen, zu Zwecken der
+    Versorgungsforschung und zur Weiterentwicklung der wissenschaftlichen
+    Grundlagen auf dem Gebiet der Gerinnungsstörungen bei Hämophilie nach
+    Absatz 5,
+
+
+6.  die internationale Zusammenarbeit mit anderen Hämophilieregistern,
+
+
+7.  die Förderung der interdisziplinären Zusammenarbeit in der
+    Hämophiliebehandlung.
+
+
+
+
+(2) Das Paul-Ehrlich-Institut richtet unter Einbeziehung eines
+unabhängigen Dritten eine vom Deutschen Hämophilieregister
+organisatorisch, personell und technisch getrennte Vertrauensstelle
+ein. Die Vertrauensstelle erhebt die ihr nach § 21 Absatz 1a Satz 2
+Nummer 1 übermittelten personenidentifizierenden Daten, erzeugt daraus
+ein Pseudonym, übermittelt das Pseudonym an das Deutsche
+Hämophilieregister und löscht die nur für die Erzeugung des Pseudonyms
+temporär gespeicherten personenidentifizierenden Daten unverzüglich
+nach der Übermittlung des Pseudonyms. Es ist ein
+Pseudonymisierungsverfahren anzuwenden, das nach dem jeweiligen Stand
+der Technik eine Identifizierung von Patienten ausschließt. Das
+Pseudonymisierungsverfahren wird vom Deutschen Hämophilieregister in
+Abstimmung mit der Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit sowie dem Bundesamt für Sicherheit in der
+Informationstechnik und den nach Absatz 1 Satz 1 Beteiligten
+festgelegt. Das von der Vertrauensstelle erzeugte Pseudonym darf nur
+an das Deutsche Hämophilieregister übermittelt, vom Deutschen
+Hämophilieregister nur für die in Absatz 1 Satz 2 genannten Aufgaben
+verarbeitet und an keine andere Stelle übermittelt werden.
+
+(3) Das Deutsche Hämophilieregister erhebt für die in Absatz 1 Satz 2
+genannten Aufgaben folgende Daten:
+
+1.  die Daten zur meldenden hämophiliebehandelnden ärztlichen Person sowie
+    zum Zeitpunkt und zum Jahr oder Zeitraum der Meldung nach § 2 Absatz 4
+    Satz 2 Nummer 1 und 2 der Transfusionsgesetz-Meldeverordnung,
+
+
+2.  die von der hämophiliebehandelnden ärztlichen Person übermittelten
+    anonymisierten Daten nach § 21 Absatz 1a Satz 1 sowie
+
+
+3.  im Fall der schriftlichen oder elektronischen Einwilligung des
+    behandelten Patienten
+
+    a)  das von der Vertrauensstelle nach Absatz 2 erzeugte Pseudonym und
+
+
+    b)  die von der hämophiliebehandelnden ärztlichen Person übermittelten
+        Daten nach § 21 Absatz 1a Satz 2 Nummer 2.
+
+
+
+
+
+
+Das Deutsche Hämophilieregister führt das von der Vertrauensstelle
+nach Absatz 2 übermittelte Pseudonym mit den dem Deutschen
+Hämophilieregister nach Satz 1 Nummer 3 Buchstabe b übermittelten
+Daten zusammen. Das Nähere zu Art und Umfang sowie zum
+Übermittlungsverfahren der an das Deutsche Hämophilieregister zu
+übermittelnden Daten nach § 21 Absatz 1a Satz 2 Nummer 2 und § 2
+Absatz 4 Satz 2 Nummer 3 der Transfusionsgesetz-Meldeverordnung wird
+vom Deutschen Hämophilieregister in Abstimmung mit der
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+und den nach Absatz 1 Satz 1 Beteiligten festgelegt. Bei der
+Festlegung der Daten nach Satz 3 sind insbesondere diejenigen Daten zu
+bestimmen, die grundsätzlich auch für die Behandlungsdokumentation
+erhoben werden und die medizinisch oder methodisch notwendig sind, um
+
+1.  die Qualität von Diagnostik oder von der Behandlung von Patienten mit
+    Gerinnungsstörungen bei Hämophilie mit Hilfe geeigneter Indikatoren zu
+    ermitteln,
+
+
+2.  mögliche Begleiterkrankungen und Komplikationen zu erfassen,
+
+
+3.  die Sterblichkeit festzustellen,
+
+
+4.  eine Transparenz zum Versorgungsgeschehen herzustellen,
+
+
+5.  die wissenschaftlichen Grundlagen auf dem Gebiet der
+    Gerinnungsstörungen bei Hämophilie weiterzuentwickeln sowie
+
+
+6.  eine geeignete Validierung oder Risikoadjustierung bei der Auswertung
+    der Daten zu ermöglichen.
+
+
+
+Das Deutsche Hämophilieregister macht eine jeweils aktuelle Übersicht
+über die Art und den Umfang der erfassten Daten sowie zum
+Übermittlungsverfahren nach Satz 3 im Bundesanzeiger bekannt. Es ist
+auszuschließen, dass Patienten durch die Verarbeitung der Daten bei
+der Vertrauensstelle und dem Deutschen Hämophilieregister wieder
+identifiziert werden können. Im Fall eines Widerrufs der Einwilligung
+des Patienten oder seines Todes sind dessen Daten zu anonymisieren.
+
+(4) Die hämophiliebehandelnde ärztliche Person klärt ihre Patienten
+mit Gerinnungsstörungen bei Hämophilie über die Verarbeitung ihrer
+personenbezogenen Daten und über den Zweck des Deutschen
+Hämophilieregisters auf. Die Aufklärung umfasst die Information über
+die Möglichkeit, schriftlich oder elektronisch einzuwilligen
+
+1.  in die Aufnahme der pseudonymisierten Patienten- und Behandlungsdaten
+    in das Deutsche Hämophilieregister und
+
+
+2.  zur Verbesserung der Versorgung von Patienten mit Gerinnungsstörungen
+    bei Hämophilie
+
+    a)  in die Rückübermittlung dieser Daten an die meldende
+        hämophiliebehandelnde ärztliche Person sowie
+
+
+    b)  in die Übermittlung von Auswertungsergebnissen dieser gemeldeten Daten
+        an die meldende hämophiliebehandelnde ärztliche Person.
+
+
+
+
+
+
+Bei fehlender Einwilligung umfasst die Aufklärung die Information,
+dass die hämophiliebehandelnde ärztliche Person verpflichtet ist,
+anonymisierte Daten nach § 21 Absatz 1a Satz 1 an das Deutsche
+Hämophilieregister zu melden, und dass das Deutsche Hämophilieregister
+anonymisierte Auswertungsergebnisse der nach § 21 Absatz 1a Satz 1
+gemeldeten Daten an die meldende hämophiliebehandelnde ärztliche
+Person zur Verbesserung der Versorgung von Patienten mit
+Gerinnungsstörungen bei Hämophilie übermittelt. Der Patient ist
+darüber zu informieren, dass im Fall seines Widerrufs der Einwilligung
+oder seines Todes seine pseudonymisierten Daten anonymisiert werden.
+Die Aufklärung ist von den Patienten schriftlich oder elektronisch zu
+bestätigen.
+
+(4a) Das Deutsche Hämophilieregister kann zur Verbesserung der
+Versorgung von Patienten mit Gerinnungsstörungen bei Hämophilie die
+von einer hämophiliebehandelnden ärztlichen Person nach § 21 Absatz 1a
+Satz 2 Nummer 2 übermittelten pseudonymisierten Daten dieser
+ärztlichen Person zurückübermitteln, und ihr Auswertungsergebnisse
+dieser Daten sowie anonymisierte Auswertungsergebnisse der im Register
+enthaltenen Patienten- und Behandlungsdaten übermitteln.
+
+(5) Das Deutsche Hämophilieregister kann zu Forschungszwecken
+anonymisierte Daten an die am Deutschen Hämophilieregister Beteiligten
+nach Absatz 1 Satz 1 und an Dritte übermitteln. Die Übermittlung der
+anonymisierten Daten erfolgt auf Antrag und nach Abschluss einer
+Nutzungsvereinbarung. Über den Antrag entscheidet das Paul-Ehrlich-
+Institut auf der Grundlage eines Entscheidungsvorschlags des
+Lenkungsausschusses. Die Daten dürfen nur für die in Absatz 1 Satz 2
+genannten Aufgaben und unter Beachtung der Publikationsgrundsätze des
+Deutschen Hämophilieregisters verarbeitet werden.
+
+(6) Das Bundesministerium für Gesundheit wird ermächtigt, nach
+Anhörung von Sachverständigen durch Rechtsverordnung mit Zustimmung
+des Bundesrates die organisatorische und technische Ausgestaltung
+sowie die Nutzung des Deutschen Hämophilieregisters zu regeln. In der
+Rechtsverordnung kann insbesondere das Nähere geregelt werden zu den
+Anforderungen an
+
+1.  die Organisationsstruktur und die Geschäftsführung des Registers,
+
+
+2.  die Vertretung des Registers gegenüber Dritten,
+
+
+3.  den Lenkungsausschuss,
+
+
+4.  den beratenden Fachausschuss,
+
+
+5.  die Geschäftsordnung der nach Absatz 1 Satz 1 am Register Beteiligten,
+
+
+6.  das Antrags- und Entscheidungsverfahren nach Absatz 5, die
+    Nutzungsvereinbarung und die Publikationsgrundsätze des Registers
+    sowie
+
+
+7.  die Maßnahmen zur Qualitätskontrolle und Qualitätssicherung.
+
+
+
 
 
 ### § 22 Epidemiologische Daten
@@ -806,9 +1121,7 @@ Robert Koch-Institut.
 Bundesoberbehörde ist die Bundeszentrale für gesundheitliche
 Aufklärung.
 
-(4) Die für die medizinische Dokumentation und Information zuständige
-Bundesbehörde ist das Deutsche Institut für Medizinische Dokumentation
-und Information.
+(4) (weggefallen)
 
 
 ### § 28 Ausnahmen vom Anwendungsbereich
@@ -819,8 +1132,9 @@ Eigenblutprodukte, autologes Blut zur Herstellung von biotechnologisch
 bearbeiteten Gewebeprodukten und auf die Entnahme einer geringfügigen
 Menge Eigenblut zur Herstellung von Produkten für die zahnärztliche
 Behandlung, sofern diese Produkte in der Zahnarztpraxis auf der
-Grundlage des von der Bundeszahnärztekammer festgestellten und in den
-Zahnärztlichen Mitteilungen veröffentlichten Standes der medizinischen
+Grundlage des nach § 12a Absatz 3 in Verbindung mit Absatz 1 und 2 und
+nach § 18 Absatz 3 in Verbindung mit Absatz 1 und 2 festgestellten
+allgemein anerkannten Standes der Erkenntnisse der zahnmedizinischen
 Wissenschaft und Technik hergestellt und angewendet werden.
 
 
@@ -876,17 +1190,26 @@ fahrlässig begeht.
     Vorbehandlung durchführt oder
 
 
-3.  einer Rechtsverordnung nach § 12 Satz 1 oder einer vollziehbaren
-    Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt,
-    soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist.
+3.  (weggefallen)
+
+
+4.  entgegen § 21 Absatz 1 Satz 1 oder Satz 2 oder Absatz 1a Satz 1, auch
+    in Verbindung mit Satz 2, jeweils auch in Verbindung mit einer
+    Rechtsverordnung nach § 23, eine Meldung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht.
 
 
 
 
 (3) Die Ordnungswidrigkeit kann im Falle des Absatzes 1 mit einer
-Geldbuße bis zu fünfundzwanzigtausend Euro und in den Fällen des
-Absatzes 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes
+2 Nummer 1 und 2 mit einer Geldbuße bis zu zehntausend Euro und in den
+übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
+werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2
+Nummer 4 das Paul-Ehrlich-Institut.
 
 
 ## Elfter Abschnitt - Übergangsvorschriften
@@ -904,7 +1227,23 @@ geltenden Vorschriften erfüllt, darf diese Tätigkeit weiter ausüben.
 
 
 
-### (XXXX) §§ 34 bis 37 (weggefallen)
+### § 34 Übergangsregelung aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
+
+§ 21 Absatz 1a und § 21a Absatz 1 bis 5 sind ab dem 1. August 2019
+anzuwenden.
+
+
+### § 35 Übergangsregelung aus Anlass des Terminservice- und Versorgungsgesetzes
+
+Bis zur Bekanntmachung des nach § 12a Absatz 3 und § 18 Absatz 3 von
+der Bundeszahnärztekammer festgestellten allgemein anerkannten Standes
+der Erkenntnisse der Wissenschaft und Technik im Bereich der
+Zahnheilkunde durch die zuständige Bundesoberbehörde, längstens aber
+bis zum 1. Juni 2022, ist § 28 in der bis zum 10. Mai 2019 geltenden
+Fassung weiter anzuwenden.
+
+
+### (XXXX) §§ 36 und 37 (weggefallen)
 
 -
 

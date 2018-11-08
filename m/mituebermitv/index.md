@@ -139,8 +139,9 @@ Diese Verordnung tritt am 1. Mai 2012 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a)
 
-## Anlage 1 (zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a) Kongenere von Dibenzo-p-dioxinen und Dibenzofuranen
+## Anlage 1 Kongenere von Dibenzo-p-dioxinen und Dibenzofuranen
 
 (Fundstelle: BGBl. I 2012, 60)
 
@@ -245,8 +246,9 @@ O = Octa
 CDD = Chlordibenzodioxin
 CDF = Chlordibenzofuran
 
+(zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b)
 
-## Anlage 2 (zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b) Kongenere von dioxinähnlichen polychlorierten Biphenylen
+## Anlage 2 Kongenere von dioxinähnlichen polychlorierten Biphenylen
 
 (Fundstelle: BGBl. I 2012, 61)
 
@@ -317,8 +319,9 @@ CDF = Chlordibenzofuran
 
 
 
+(zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c)
 
-## Anlage 3 (zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c) Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen
+## Anlage 3 Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen
 
 (Fundstelle: BGBl. I 2012, 62)
 
@@ -764,15 +767,15 @@ Chlorodibenzofuran                           CB = Chlorobiphenyl
 
 
 
-b)
-Konzentrationsobergrenzen: Konzentrationsobergrenzen werden unter der
-Annahme berechnet, dass sämtliche Werte der einzelnen Kongenere, die
-unter der Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
+b)                                Konzentrationsobergrenzen:
+Konzentrationsobergrenzen werden unter der Annahme berechnet, dass
+sämtliche Werte der einzelnen Kongenere, die unter der
+Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
 
 
-c)                                                   Im Fall des § 1
-Satz 2 sind die Konzentrationen in Biologischen Toxizitätsäquivalenten
-(BEQ) anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
+c)                                Im Fall des § 1 Satz 2 sind die
+Konzentrationen in Biologischen Toxizitätsäquivalenten (BEQ)
+anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
 ermittelt worden sind.
 
 
@@ -1354,15 +1357,15 @@ Chlorodibenzofuran                           CB = Chlorobiphenyl
 
 
 
-b)
-Konzentrationsobergrenzen: Konzentrationsobergrenzen werden unter der
-Annahme berechnet, dass sämtliche Werte der einzelnen Kongenere, die
-unter der Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
+b)                                Konzentrationsobergrenzen:
+Konzentrationsobergrenzen werden unter der Annahme berechnet, dass
+sämtliche Werte der einzelnen Kongenere, die unter der
+Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
 
 
-c)                                                   Im Fall des § 1
-Satz 2 sind die Konzentrationen in Biologischen Toxizitätsäquivalenten
-(BEQ) anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
+c)                                Im Fall des § 1 Satz 2 sind die
+Konzentrationen in Biologischen Toxizitätsäquivalenten (BEQ)
+anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
 ermittelt worden sind.
 
 

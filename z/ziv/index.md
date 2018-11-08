@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 128; 2005, 1695
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.11.2007 I 2562
+:   Art. 2 V v. 18.7.2016 I 1722
 
 Stand: Die V ist gem. Bek. v. 22.6.2005 I 1695 mWv 1.7.2005 in Kraft getreten.
 
@@ -698,24 +698,29 @@ Niederländischen Antillen aus.
 
 
 
-### § 17 Inkrafttreten
+### § 17 Anwendungsbestimmungen
 
-Diese Verordnung tritt am 1. Januar 2005 in Kraft, sofern der Rat der
-Europäischen Union die Festlegung gemäß Artikel 17 Abs. 3 Satz 1 der
-Richtlinie 2003/48/EG trifft. Anderenfalls tritt die Verordnung zu dem
-Zeitpunkt in Kraft, ab dem die Vorschriften der Richtlinie 2003/48/EG
-von den Mitgliedstaaten auf Grund eines Beschlusses des Rates der
-Europäischen Union nach Artikel 17 Abs. 3 Satz 2 der Richtlinie
-anzuwenden sind. Das Bundesministerium der Finanzen gibt den Zeitpunkt
-des Inkrafttretens im Bundesgesetzblatt bekannt.
+(1) Vorbehaltlich der Absätze 2 und 3 gilt diese Verordnung nur für
+Zinszahlungen, die bis zum 31. Dezember 2015 zugeflossen sind.
+
+(2) Der Abschnitt 3 dieser Verordnung gilt auch für die im Jahr 2016
+zu erhebende Quellensteuer.
+
+(3) § 16a gilt für Zinszahlungen, die nach dem 31. Dezember 2015 bis
+zu dem Zeitpunkt zufließen, zu dem eine Änderung, eine Suspendierung
+oder eine Beendigung der Anwendung der Abkommen, die mit den in § 16a
+Absatz 1 Satz 1 Nummer 1 genannten Staaten oder abhängigen oder
+assoziierten Gebieten jeweils geschlossen wurden, in Kraft getreten
+ist. Dies gilt auch für Curacao und Sint Maarten.
 
 
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 15)
 
-### Anlage (zu § 15) Liste der verbundenen Einrichtungen
+### Anlage Liste der verbundenen Einrichtungen
 
 Folgende Einrichtungen sind als "mit der Regierung verbundene
 Einrichtungen, die als Behörde handeln oder deren Funktion durch einen

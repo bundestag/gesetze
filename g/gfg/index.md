@@ -15,11 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 1465
 
+Stand: Das G ist nach Maßgabe d. Art. 29 G v. 22.12.1983 I 1532; 1984 I 261 mWv 1.1.1984 außer Kraft getreten, ausgenommen sind die Bestimmungen über die Rückzahlung von Darlehen
 Neugefasst durch
 :   Bek. v. 22.1.1976 I 207;
 
 Zuletzt geändert durch
-:   Art. 58 V v. 25.11.2003 I 2304
+:   Art. 57 V v. 25.11.2003 I 2304
 
 
 ## § 1 Zweck der Förderung

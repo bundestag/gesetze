@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2093
 
+Geändert durch
+:   Art. 3 Abs. 3 G v. 9.12.2019 I 2010
+
 
 ## § 1 Gegenstand der Verordnung
 
@@ -26,14 +29,19 @@ Anlaufstellen, Eurojust-Kontaktstellen und Eurojust.
 
 Das Bundesamt für Justiz, der Generalbundesanwalt beim
 Bundesgerichtshof und die von den Landesregierungen bestimmten
-Kontaktstellen nach § 14 Absatz 2 des Eurojust-Gesetzes sind zugleich
-Eurojust-Anlaufstellen nach § 7 Absatz 1 des Eurojust-Gesetzes.
+Kontaktstellen nach § 12 Absatz 2 des Eurojust-Gesetzes sind zugleich
+Eurojust-Anlaufstellen nach Artikel 20 Absatz 1 der Verordnung (EU)
+2018/1727 des Europäischen Parlaments und des Rates vom 14. November
+2018 betreffend die Agentur der Europäischen Union für justizielle
+Zusammenarbeit in Strafsachen (Eurojust) und zur Ersetzung und
+Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L 295 vom
+21\.11.2018, S. 138 – Eurojust-Verordnung).
 
 
 ## § 3 Eurojust-Kontaktstellen
 
-Kontaktstellen nach Artikel 12 Absatz 2 Buchstabe d des Eurojust-
-Beschlusses (Eurojust-Kontaktstellen) sind:
+Kontaktstellen nach Artikel 20 Absatz 3 Buchstabe e der Eurojust-
+Verordnung (Eurojust-Kontaktstellen) sind:
 
 1.  das Bundesamt für Justiz für das
 
@@ -88,34 +96,9 @@ wird ein nationales Eurojust-Koordinierungssystem eingerichtet.
 Koordinierungssystems zuständig. Das Bundesamt für Justiz nimmt diese
 Aufgabe im Einvernehmen mit den übrigen Eurojust-Anlaufstellen wahr.
 
-(3) Das nationale Eurojust-Koordinierungssystem nimmt innerstaatlich
-folgende Aufgaben wahr:
-
-1.  es trägt dazu bei, dass Informationen nach den §§ 4 und 6 des
-    Eurojust-Gesetzes dem nationalen Mitglied effizient und zuverlässig
-    zur Verfügung gestellt werden,
-
-
-2.  es hilft bei der Klärung der Frage, ob ein Fall mit Hilfe von Eurojust
-    oder des Europäischen Justiziellen Netzes in Strafsachen im Sinne des
-    EJN-Beschlusses zu bearbeiten ist,
-
-
-3.  es unterstützt das nationale Mitglied bei der Ermittlung der Behörden,
-    die für die Erledigung von Ersuchen, welche die justizielle
-    Zusammenarbeit in Strafsachen mit Mitgliedstaaten der Europäischen
-    Union betreffen, zuständig sind,
-
-
-4.  es hält Kontakt zu der nationalen Stelle nach Artikel 8 des
-    Beschlusses 2009/371/JI des Rates vom 6. April 2009 zur Errichtung des
-    Europäischen Polizeiamts (Europol) (ABl. L 121 vom 15.5.2009, S. 37)
-    oder
-
-
-5.  es unterstützt das nationale Mitglied in sonstiger Weise bei der
-    Erfüllung seiner Aufgaben nach § 3 des Eurojust-Gesetzes.
-
-
-
+(3) Neben der Wahrnehmung der in Artikel 20 Absatz 7 der Eurojust-
+Verordnung genannten Aufgaben unterstützt das nationale Eurojust-
+Koordinierungssystem das nationale Mitglied in sonstiger Weise bei der
+Erfüllung von dessen Aufgaben nach den Artikeln 2 und 4 der Eurojust-
+Verordnung.
 

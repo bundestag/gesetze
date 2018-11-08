@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über die Rechtsstellung der Reservistinnen und Reservisten der Bundeswehr
+Title: Gesetz über die Rechtsstellung der Reservisten
 jurabk: ResG
 layout: default
 origslug: resg
@@ -7,7 +7,7 @@ slug: resg
 
 ---
 
-# Gesetz über die Rechtsstellung der Reservistinnen und Reservisten der Bundeswehr (ResG)
+# Gesetz über die Rechtsstellung der Reservisten (ResG)
 
 Ausfertigungsdatum
 :   2012-07-21
@@ -15,13 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1583, 1588
 
+Zuletzt geändert durch
+:   Art. 11 G v. 20.8.2021 I 3932
+
+Änderung der inhaltsübersicht durch
+:   Art. 2 Nr. 1 G v. 20.8.2021 I 3930 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
+
 
 ## Abschnitt 1 - Allgemeines
 
 
 ### § 1 Begriffsbestimmung
 
-Reservistinnen und Reservisten der Bundeswehr sind
+Reservistinnen und Reservisten sind
 
 1.  frühere Soldatinnen und Soldaten der Bundeswehr, die ihren Dienstgrad
     nicht verloren haben, sowie
@@ -59,31 +65,20 @@ Wehrdienstverhältnisses ohne einen Zusatz nach Absatz 1.
 
 ### § 3 Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
 
-(1) Früheren Soldatinnen und früheren Soldaten kann gestattet werden,
-die Uniform außerhalb eines Wehrdienstverhältnisses zu tragen
-
-1.  mit dem Abzeichen des Dienstgrades, den zu führen sie berechtigt sind,
-    und
-
-
-2.  mit der vorgesehenen Kennzeichnung als frühere Soldatin oder früherer
-    Soldat.
-
-
-
+(1) Früheren Soldatinnen und früheren Soldaten, die ihren Dienstgrad
+nicht verloren haben, kann gestattet werden, die Uniform mit dem
+Abzeichen des Dienstgrads, den zu führen sie berechtigt sind, zu
+tragen.
 
 (2) Näheres regelt das Bundesministerium der Verteidigung durch
 Rechtsverordnung ohne Zustimmung des Bundesrates. In der
 Rechtsverordnung sind insbesondere zu regeln
 
-1.  die Anlässe, zu denen die Uniform nicht getragen werden darf,
+1.  die Anlässe, zu denen die Uniform nicht getragen werden darf, und
 
 
 2.  die Zuständigkeit für die Entscheidung über die Gestattung nach Absatz
-    1 und
-
-
-3.  die Kennzeichnung nach Absatz 1 Nummer 2.
+    1\.
 
 
 
@@ -105,7 +100,7 @@ unberührt, soweit sich aus den nachfolgenden Vorschriften nichts
 anderes ergibt.
 
 
-### § 5 Begründung und Beginn des Reservewehrdienstverhältnisses
+### § 5 Begründung und Beginn des Reservewehrdienstverhältnisses; Beförderungen
 
 (1) Für die Berufung in ein Reservewehrdienstverhältnis gelten die
 Vorschriften über die Berufung in das Dienstverhältnis einer Soldatin
@@ -116,6 +111,9 @@ auf Zeit“ die Wörter „in ein Reservewehrdienstverhältnis“ sowie die
 Angabe der Berufungsdauer.
 
 (2) Das Reservewehrdienstverhältnis beginnt mit der Ernennung.
+
+(3) Für Beförderungen im Reservewehrdienstverhältnis gilt § 42 des
+Soldatengesetzes entsprechend.
 
 
 ### § 6 Diensteid
@@ -149,8 +147,8 @@ gewährt werden
 
 (3) Entschädigungen nach Absatz 2 Nummer 1 und pauschale
 Entschädigungen nach Absatz 2 Nummer 2 legt das Bundesministerium der
-Verteidigung im Einvernehmen mit dem Bundesministerium des Innern
-fest.
+Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für
+Bau und Heimat fest.
 
 
 ### § 8 Aktivierung für eine Dienstleistung nach § 60 des Soldatengesetzes
@@ -211,12 +209,8 @@ zugezogen werden. § 1 Absatz 6 des Wehrsoldgesetzes gilt entsprechend.
 
 ### § 10 Benachteiligungsverbot
 
-§ 6 Absatz 1 und § 9 Absatz 7 des Arbeitsplatzschutzgesetzes gelten
-entsprechend. Eine Kündigung oder Entlassung aus einem Dienst- oder
-Arbeitsverhältnis, eine Versetzung an einen anderen Beschäftigungsort
-und jede sonstige berufliche Benachteiligung auf Grund der Berufung in
-ein Reservewehrdienstverhältnis und der damit verbundenen Tätigkeit
-sind unzulässig.
+Für die in ein Reservewehrdienstverhältnis Berufenen gelten die §§ 5
+und 9 Absatz 7 des Arbeitsplatzschutzgesetzes entsprechend.
 
 
 ### § 11 Versorgung
@@ -305,5 +299,7 @@ Dienstleistung gilt § 59 Absatz 4 und 5 des Soldatengesetzes
 entsprechend.
 
 (7) Die Entlassung wird von der Stelle verfügt, die für die Berufung
-in das Reservewehrdienstverhältnis zuständig ist.
+in das Reservewehrdienstverhältnis zuständig ist. Außer in den Fällen
+des Absatzes 5 Nummer 1 ist die Entlassungsverfügung spätestens einen
+Monat vor dem Entlassungstag zuzustellen.
 

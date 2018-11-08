@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung zu § 850c der Zivilprozessordung (Pfändungsfreigrenzenbekanntmachung
-  2009)
+Title: Bekanntmachung zu § 850c der Zivilprozessordung
 jurabk: PfändfreiGrBek 2009
 layout: default
 origslug: pf_ndfreigrbek_2009
@@ -8,7 +7,7 @@ slug: pfaendfreigrbek_2009
 
 ---
 
-# Bekanntmachung zu § 850c der Zivilprozessordung (Pfändungsfreigrenzenbekanntmachung 2009) (PfändfreiGrBek 2009)
+# Bekanntmachung zu § 850c der Zivilprozessordung (PfändfreiGrBek 2009)
 
 Ausfertigungsdatum
 :   2009-05-15

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 2623
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.6.2009 I 1273
+:   Art. 1 V v. 29.6.2021 I 2245
 
 
 ## Eingangsformel
@@ -27,21 +27,24 @@ Gesetzes vom 7. August 1996, BGBl. I S. 1254) verordnet die
 Bundesregierung:
 
 
-## § 1 Berufskrankheiten
+## Abschnitt 1 - Allgemeine Bestimmungen
+
+
+### § 1 Berufskrankheiten
 
 Berufskrankheiten sind die in der Anlage 1 bezeichneten Krankheiten,
 die Versicherte infolge einer den Versicherungsschutz nach § 2, 3 oder
 6 des Siebten Buches Sozialgesetzbuch begründenden Tätigkeit erleiden.
 
 
-## § 2 Erweiterter Versicherungsschutz in Unternehmen der Seefahrt
+### § 2 Erweiterter Versicherungsschutz in Unternehmen der Seefahrt
 
 Für Versicherte in Unternehmen der Seefahrt erstreckt sich die
 Versicherung gegen Tropenkrankheiten und Fleckfieber auch auf die
 Zeit, in der sie an Land beurlaubt sind.
 
 
-## § 3 Maßnahmen gegen Berufskrankheiten, Übergangsleistung
+### § 3 Maßnahmen gegen Berufskrankheiten, Übergangsleistung
 
 (1) Besteht für Versicherte die Gefahr, daß eine Berufskrankheit
 entsteht, wiederauflebt oder sich verschlimmert, haben die
@@ -70,7 +73,7 @@ gezahlt. Renten wegen Minderung der Erwerbsfähigkeit sind nicht zu
 berücksichtigen.
 
 
-## § 4 Mitwirkung der für den medizinischen Arbeitsschutz zuständigen Stellen
+### § 4 Mitwirkung der für den medizinischen Arbeitsschutz zuständigen Stellen
 
 (1) Die für den medizinischen Arbeitsschutz zuständigen Stellen wirken
 bei der Feststellung von Berufskrankheiten und von Krankheiten, die
@@ -80,7 +83,7 @@ mit.
 
 (2) Die Unfallversicherungsträger haben die für den medizinischen
 Arbeitsschutz zuständigen Stellen über die Einleitung eines
-Feststellungsverfahrens unverzüglich schriftlich zu unterrichten; als
+Feststellungsverfahrens unverzüglich zu unterrichten; als
 Unterrichtung gilt auch die Übersendung der Anzeige nach § 193 Abs. 2
 und 7 oder § 202 des Siebten Buches Sozialgesetzbuch. Die
 Unfallversicherungsträger beteiligen die für den medizinischen
@@ -106,7 +109,7 @@ können sie die Versicherten untersuchen oder andere Ärzte auf Kosten
 der Unfallversicherungsträger mit Untersuchungen beauftragen.
 
 
-## § 5 Gebühren
+### § 5 Gebühren
 
 (1) Erstellen die für den medizinischen Arbeitsschutz zuständigen
 Stellen ein Zusammenhangsgutachten nach § 4 Abs. 4, erhalten sie von
@@ -134,9 +137,19 @@ für die gesetzliche Unfallversicherung geltenden Bestimmungen
 vornimmt.
 
 
-## § 6 Rückwirkung
+### § 6 Rückwirkung
 
-(1) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer
+(1) Leiden Versicherte am 1. August 2017 an einer Krankheit nach den
+Nummern 1320, 1321, 2115, 4104 (Eierstockkrebs) oder 4113
+(Kehlkopfkrebs) der Anlage 1, ist die Krankheit auf Antrag als
+Berufskrankheit anzuerkennen, wenn sie vor diesem Tag eingetreten ist.
+
+(2) Leiden Versicherte am 1. Januar 2015 an einer Krankheit nach
+Nummer 1319, 2113, 2114 oder 5103 der Anlage 1, ist die Krankheit auf
+Antrag als Berufskrankheit anzuerkennen, wenn sie vor diesem Tag
+eingetreten ist.
+
+(3) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer
 2112, 4114 oder 4115 der Anlage 1, ist diese auf Antrag als
 Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30.
 September 2002 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an
@@ -147,7 +160,7 @@ an einer Krankheit nach Nummer 1318 der Anlage 1, ist die Krankheit
 auf Antrag als Berufskrankheit anzuerkennen, wenn der
 Versicherungsfall vor diesem Tag eingetreten ist.
 
-(2) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach
+(4) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach
 Nummer 4112 der Anlage 1, ist diese auf Antrag als Berufskrankheit
 anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997
 eingetreten ist. Satz 1 gilt auch für eine Krankheit nach Nummer 2106
@@ -155,7 +168,7 @@ der Anlage 1, wenn diese nicht bereits nach der Nummer 2106 der Anlage
 1 in der am 1. Dezember 1997 in Kraft getretenen Fassung als
 Berufskrankheit anerkannt werden kann.
 
-(3) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit
+(5) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit
 nach Nummer 1316, 1317, 4104 (Kehlkopfkrebs) oder 4111 der Anlage 1,
 ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der
 Versicherungsfall nach dem 31. Dezember 1992 eingetreten ist.
@@ -165,47 +178,161 @@ bereits vor dem 1. Januar 1993 eingetreten und einem
 Unfallversicherungsträger bis zum 31. Dezember 2009 bekannt geworden
 ist.
 
-(4) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit
+(6) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit
 gelitten, die erst auf Grund der Zweiten Verordnung zur Änderung der
 Berufskrankheiten-Verordnung vom 18. Dezember 1992 (BGBl. I S. 2343)
 als Berufskrankheit anerkannt werden kann, ist die Krankheit auf
 Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall
 nach dem 31. März 1988 eingetreten ist.
 
-(5) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten,
+(7) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten,
 die erst auf Grund der Verordnung zur Änderung der Berufskrankheiten-
 Verordnung vom 22. März 1988 (BGBl. I S. 400) als Berufskrankheit
 anerkannt werden kann, ist die Krankheit auf Antrag als
 Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31.
 Dezember 1976 eingetreten ist.
 
-(6) Bindende Bescheide und rechtskräftige Entscheidungen stehen der
-Anerkennung als Berufskrankheit nach den Absätzen 1 bis 5 nicht
+(8) Bindende Bescheide und rechtskräftige Entscheidungen stehen der
+Anerkennung als Berufskrankheit nach den Absätzen 1 bis 7 nicht
 entgegen. Leistungen werden rückwirkend längstens für einen Zeitraum
 bis zu vier Jahren erbracht; der Zeitraum ist vom Beginn des Jahres an
 zu rechnen, in dem der Antrag gestellt worden ist.
 
 
-## § 7
-
-(weggefallen)
+## Abschnitt 2 - Ärztlicher Sachverständigenbeirat Berufskrankheiten
 
 
-## § 8 Inkrafttreten, Außerkrafttreten
+### § 7 Aufgaben
 
-(1) Diese Verordnung tritt am 1. Dezember 1997 in Kraft.
+Der Ärztliche Sachverständigenbeirat Berufskrankheiten
+(Sachverständigenbeirat) ist ein wissenschaftliches Gremium, das das
+Bundesministerium bei der Prüfung der medizinischen Erkenntnisse zur
+Bezeichnung neuer und zur Erarbeitung wissenschaftlicher
+Stellungnahmen zu bestehenden Berufskrankheiten unterstützt.
 
-(2)
+
+### § 8 Mitglieder
+
+(1) Der Sachverständigenbeirat besteht in der Regel aus zwölf
+Mitgliedern, die vom Bundesministerium für Arbeit und Soziales für die
+Dauer von fünf Jahren berufen werden. Dem Sachverständigenbeirat
+sollen angehören:
+
+1.  acht Hochschullehrerinnen oder Hochschullehrer, insbesondere der
+    Fachrichtung Arbeitsmedizin oder Epidemiologie,
 
 
-## Schlußformel
+2.  zwei Staatliche Gewerbeärztinnen oder Staatliche Gewerbeärzte und
+
+
+3.  zwei Ärztinnen oder Ärzte aus dem betriebs- oder werksärztlichen
+    Bereich.
+
+
+
+
+(2) Die Mitgliedschaft im Sachverständigenbeirat ist ein persönliches
+Ehrenamt, das keine Stellvertretung zulässt. Der Name und die
+hauptamtliche Funktion der Mitglieder werden vom Bundesministerium für
+Arbeit und Soziales veröffentlicht.
+
+(3) Die Mitglieder sind unabhängig und nicht an Weisungen gebunden;
+sie sind nur ihrem Gewissen verantwortlich und zu unparteiischer
+Erfüllung ihrer Aufgaben sowie zur Verschwiegenheit verpflichtet. Sie
+sind auch nach Beendigung ihrer Mitgliedschaft verpflichtet, über die
+ihnen dabei bekannt gewordenen Angelegenheiten, insbesondere über den
+Inhalt und den Verlauf der Beratungen, Verschwiegenheit zu wahren.
+
+(4) Das Bundesministerium für Arbeit und Soziales ist berechtigt,
+Mitglieder aus sachlichen Gründen oder wenn die persönlichen
+Voraussetzungen der Berufung entfallen sind, abzuberufen. Die
+Mitglieder können jederzeit aus eigenem Entschluss die Mitgliedschaft
+beenden.
+
+
+### § 9 Durchführung der Aufgaben
+
+(1) Zur Durchführung seiner Aufgaben tritt der Sachverständigenbeirat
+zu Sitzungen zusammen. Das Bundesministerium für Arbeit und Soziales
+nimmt an den Sitzungen teil. Die Sitzungen sind nicht öffentlich.
+
+(2) Zu den Sitzungen können ständige Berater sowie externe
+Sachverständige und Gäste hinzugezogen werden. Für ständige Berater
+gilt § 8 Absatz 2 und 3, für externe Sachverständige und Gäste gilt §
+8 Absatz 3 entsprechend.
+
+(3) Die Beratungsthemen, die aktuell vom Sachverständigenbeirat
+geprüft werden, werden vom Bundesministerium für Arbeit und Soziales
+veröffentlicht.
+
+(4) Der Sachverständigenbeirat gibt als Ergebnis seiner Beratungen
+Empfehlungen für neue oder Stellungnahmen zu bestehenden
+Berufskrankheiten entsprechend dem aktuellen wissenschaftlichen
+Erkenntnisstand ab. Gibt der Sachverständigenbeirat keine Empfehlung
+oder Stellungnahme ab, wird ein Abschlussvermerk erstellt. Die
+Empfehlungen und Stellungnahmen enthalten eine ausführliche
+wissenschaftliche Begründung, die Abschlussvermerke eine
+Zusammenfassung der wissenschaftlichen Entscheidungsgründe.
+
+(5) Das Bundesministerium für Arbeit und Soziales gibt die
+Empfehlungen und Stellungnahmen des Sachverständigenbeirats bekannt;
+die Abschlussvermerke werden veröffentlicht. Die vorbereitenden,
+intern erstellten Beratungsunterlagen des Sachverständigenbeirats sind
+vertraulich.
+
+
+### § 10 Geschäftsstelle
+
+(1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin führt die
+Geschäfte des Sachverständigenbeirats. Sie unterstützt die Arbeit des
+Sachverständigenbeirats wissenschaftlich und organisatorisch.
+
+(2) Zur wissenschaftlichen Unterstützung kann der
+Sachverständigenbeirat die Geschäftsstelle insbesondere beauftragen,
+zu einzelnen Beratungsthemen systematische Reviews oder
+Literaturrecherchen durchzuführen. Außerdem unterstützt die
+Geschäftsstelle die Sachverständigen bei der Erstellung von
+wissenschaftlichen Empfehlungen und Stellungnahmen.
+
+(3) Zur organisatorischen Unterstützung verwaltet die Geschäftsstelle
+insbesondere die Beratungsunterlagen und erstellt die
+Ergebnisniederschriften der einzelnen Sitzungen.
+
+
+### § 11 Geschäftsordnung
+
+(1) Der Sachverständigenbeirat gibt sich eine Geschäftsordnung, die
+der Zustimmung des Bundesministeriums für Arbeit und Soziales bedarf
+und veröffentlicht wird.
+
+(2) In der Geschäftsordnung werden insbesondere die Einzelheiten über
+den Vorsitz und die organisatorische Durchführung der Sitzungen, die
+Bildung von Arbeitsgruppen sowie die Hinzuziehung externer
+Sachverständiger geregelt.
+
+
+## Abschnitt 3 - Übergangsrecht
+
+
+### § 12 Überprüfung früherer Bescheide
+
+Bescheide, in denen eine Krankheit nach Nummer 1315, 2101, 2104, 2108
+bis 2110, 4301, 4302 oder 5101 der Anlage 1 von einem
+Unfallversicherungsträger vor dem 1. Januar 2021 nur deshalb nicht als
+Berufskrankheit anerkannt worden ist, weil die Versicherten die
+verrichtete gefährdende Tätigkeit nicht unterlassen haben, werden von
+den Unfallversicherungsträgern von Amts wegen überprüft, wenn die
+Bescheide nach dem 1. Januar 1997 erlassen worden sind.
+
+
+### Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1
+### Anlage 1
 
-(Fundstelle des Originaltextes: BGBl. I 1997, 2625 - 2626;
+(Fundstelle: BGBl. I 1997, 2625 - 2626;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nr.
@@ -370,9 +497,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1315
 
-    *   Erkrankungen durch Isocyanate, die zur Unterlassung aller Tätigkeiten
-        gezwungen haben, die für die Entstehung, die Verschlimmerung oder das
-        Wiederaufleben der Krankheit ursächlich waren oder sein können
+    *   Erkrankungen durch Isocyanate
 
 
 *    *   1316
@@ -390,6 +515,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Erkrankungen des Blutes, des blutbildenden und des lymphatischen
         Systems durch Benzol
+
+
+*    *   1319
+
+    *   Larynxkarzinom durch intensive und mehrjährige Exposition gegenüber
+        schwefelsäurehaltigen Aerosolen
+
+
+*    *   1320
+
+    *   Chronisch-myeloische oder chronisch-lymphatische Leukämie durch
+        1,3-Butadien bei Nachweis der Einwirkung einer kumulativen Dosis von
+        mindestens 180 Butadien-Jahren (ppm x Jahre)
+
+
+*    *   1321
+
+    *   Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege
+        durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der
+        Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-
+        Jahren [(µg/m
+        3                       ) x Jahre]
 
 
 *    *
@@ -416,10 +563,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2101
 
-    *   Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der
-        Sehnen- oder Muskelansätze, die zur Unterlassung aller Tätigkeiten
-        gezwungen haben, die für die Entstehung, die Verschlimmerung oder das
-        Wiederaufleben der Krankheit ursächlich waren oder sein können
+    *   Schwere oder wiederholt rückfällige Erkrankungen der Sehnenscheiden
+        oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze
 
 
 *    *   2102
@@ -437,10 +582,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2104
 
-    *   Vibrationsbedingte Durchblutungsstörungen an den Händen, die zur
-        Unterlassung aller Tätigkeiten gezwungen haben, die für die
-        Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit
-        ursächlich waren oder sein können
+    *   Vibrationsbedingte Durchblutungsstörungen an den Händen
 
 
 *    *   2105
@@ -462,29 +604,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch
         langjähriges Heben oder Tragen schwerer Lasten oder durch langjährige
-        Tätigkeiten in extremer Rumpfbeugenhaltung, die zur Unterlassung aller
-        Tätigkeiten gezwungen haben, die für die Entstehung, die
-        Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren
-        oder sein können
+        Tätigkeiten in extremer Rumpfbeugenhaltung, die zu chronischen oder
+        chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen
+        (der Lendenwirbelsäule) geführt haben
 
 
 *    *   2109
 
     *   Bandscheibenbedingte Erkrankungen der Halswirbelsäule durch
-        langjähriges Tragen schwerer Lasten auf der Schulter, die zur
-        Unterlassung aller Tätigkeiten gezwungen haben, die für die
-        Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit
-        ursächlich waren oder sein können
+        langjähriges Tragen schwerer Lasten auf der Schulter, die zu
+        chronischen oder chronisch-rezidivierenden Beschwerden und
+        Funktionseinschränkungen (der Halswirbelsäule) geführt haben
 
 
 *    *   2110
 
     *   Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch
         langjährige, vorwiegend vertikale Einwirkung von
-        Ganzkörperschwingungen im Sitzen, die zur Unterlassung aller
-        Tätigkeiten gezwungen haben, die für die Entstehung, die
-        Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren
-        oder sein können
+        Ganzkörperschwingungen im Sitzen, die zu chronischen oder chronisch-
+        rezidivierenden Beschwerden und Funktionseinschränkungen (der
+        Lendenwirbelsäule) geführt haben
 
 
 *    *   2111
@@ -499,6 +638,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Kniebelastung mit einer kumulativen Einwirkungsdauer während des
         Arbeitslebens von mindestens 13 000 Stunden und einer
         Mindesteinwirkungsdauer von insgesamt einer Stunde pro Schicht
+
+
+*    *   2113
+
+    *   Druckschädigung des Nervus medianus im Carpaltunnel (Carpaltunnel-
+        Syndrom) durch repetitive manuelle Tätigkeiten mit Beugung und
+        Streckung der Handgelenke, durch erhöhten Kraftaufwand der Hände oder
+        durch Hand-Arm-Schwingungen
+
+
+*    *   2114
+
+    *   Gefäßschädigung der Hand durch stoßartige Krafteinwirkung (Hypothenar-
+        Hammer-Syndrom und Thenar-Hammer-Syndrom)
+
+
+*    *   2115
+
+    *   Fokale Dystonie als Erkrankung des zentralen Nervensystems bei
+        Instrumentalmusikern durch feinmotorische Tätigkeit hoher Intensität
+
+
+*    *   2116
+
+    *   Koxarthrose durch Lastenhandhabung mit einer kumulativen Dosis von
+        mindestens 9 500 Tonnen während des Arbeitslebens gehandhabter Lasten
+        mit einem Lastgewicht von mindestens 20 kg, die mindestens zehnmal pro
+        Tag gehandhabt wurden
 
 
 *    *   22
@@ -569,7 +736,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   **4**
 
     *   **Erkrankungen der Atemwege und der Lungen, des Rippenfells und
-        Bauchfells**
+        Bauchfells und der Eierstöcke**
 
 
 *    *   41
@@ -596,7 +763,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4104
 
-    *   Lungenkrebs oder Kehlkopfkrebs
+    *   Lungenkrebs, Kehlkopfkrebs oder Eierstockkrebs
 
 
 *    *
@@ -673,9 +840,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4113
 
-    *   Lungenkrebs durch polyzyklische aromatische Kohlenwasserstoffe bei
-        Nachweis der Einwirkung einer kumulativen Dosis von mindestens 100
-        Benzo[a]pyren-Jahren [(µg/m
+    *   Lungenkrebs oder Kehlkopfkrebs durch polyzyklische aromatische
+        Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis
+        von mindestens 100 Benzo[a]pyren-Jahren [(µg/m
         3                       ) x Jahre]
 
 
@@ -692,6 +859,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Lungenfibrose durch extreme und langjährige Einwirkung von
         Schweißrauchen und Schweißgasen – (Siderofibrose)
+
+
+*    *   4116
+
+    *   Lungenkrebs nach langjähriger und intensiver Passivrauchexposition am
+        Arbeitsplatz bei Versicherten, die selbst nie oder maximal bis zu 400
+        Zigarettenäquivalente aktiv geraucht haben
 
 
 *    *   42
@@ -724,19 +898,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   4301
 
     *   Durch allergisierende Stoffe verursachte obstruktive
-        Atemwegserkrankungen (einschließlich Rhinopathie), die zur
-        Unterlassung aller Tätigkeiten gezwungen haben, die für die
-        Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit
-        ursächlich waren oder sein können
+        Atemwegserkrankungen (einschließlich Rhinopathie)
 
 
 *    *   4302
 
     *   Durch chemisch-irritativ oder toxisch wirkende Stoffe verursachte
-        obstruktive Atemwegserkrankungen, die zur Unterlassung aller
-        Tätigkeiten gezwungen haben, die für die Entstehung, die
-        Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren
-        oder sein können
+        obstruktive Atemwegserkrankungen
 
 
 *    *   **5**
@@ -746,16 +914,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5101
 
-    *   Schwere oder wiederholt rückfällige Hauterkrankungen, die zur
-        Unterlassung aller Tätigkeiten gezwungen haben, die für die
-        Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit
-        ursächlich waren oder sein können
+    *   Schwere oder wiederholt rückfällige Hauterkrankungen
 
 
 *    *   5102
 
     *   Hautkrebs oder zur Krebsbildung neigende Hautveränderungen durch Ruß,
         Rohparaffin, Teer, Anthrazen, Pech oder ähnliche Stoffe
+
+
+*    *   5103
+
+    *   Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut
+        durch natürliche UV-Strahlung
 
 
 *    *   **6**
@@ -771,7 +942,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-## Anlage 2 Berufskrankheit Nummer 4114 Verursachungswahrscheinlichkeit in Prozent
+### Anlage 2 Berufskrankheit Nummer 4114 Verursachungswahrscheinlichkeit in Prozent
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 1274 - 1276)
 

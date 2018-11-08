@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1190
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.5.2012 I 958
+:   Art. 10 Abs. 12 G v. 30.10.2017 I 3618
 
 Das Gesetz dient der Umsetzung folgender Richtlinien:
 Richtlinie 2002/21/EG des Europäischen Parlaments und des Rates vom 7.
@@ -194,6 +194,10 @@ Im Sinne dieses Gesetzes ist oder sind
     Bestandteil des Auskunftsdienstes sein;
 
 
+2b. „Baudenkmäler“ nach Landesrecht geschützte Gebäude oder
+    Gebäudemehrheiten;
+
+
 3.  "Bestandsdaten" Daten eines Teilnehmers, die für die Begründung,
     inhaltliche Ausgestaltung, Änderung oder Beendigung eines
     Vertragsverhältnisses über Telekommunikationsdienste erhoben werden;
@@ -241,7 +245,12 @@ Im Sinne dieses Gesetzes ist oder sind
     angereichert sein können;
 
 
-7a. „Einzelrichtlinien“
+7a. „digitales Hochgeschwindigkeitsnetz“ ein Telekommunikationsnetz, das
+    die Möglichkeit bietet, Datendienste mit Geschwindigkeiten von
+    mindestens 50 Megabit pro Sekunde bereitzustellen;
+
+
+7b. „Einzelrichtlinien“
 
     a)  die Richtlinie 2002/20/EG des Europäischen Parlaments und des Rates
         vom 7. März 2002 über die Genehmigung elektronischer
@@ -263,7 +272,7 @@ Im Sinne dieses Gesetzes ist oder sind
         elektronischen Kommunikationsnetzen und -diensten
         (Universaldienstrichtlinie) (ABl. L 108 vom 24.4.2002, S. 51), die
         zuletzt durch die Richtlinie 2009/136/EG (ABl. L 337 vom 18.12.2009,
-        S. 11) geändert worden ist, und
+        S. 11) geändert worden ist;
 
 
     d)  die Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates
@@ -271,7 +280,13 @@ Im Sinne dieses Gesetzes ist oder sind
         den Schutz der Privatsphäre in der elektronischen Kommunikation
         (Datenschutzrichtlinie für elektronische Kommunikation) (ABl. L 201
         vom 31.7.2002, S. 37), die zuletzt durch die Richtlinie 2009/136/EG
-        (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist;
+        (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist, und
+
+
+    e)  die Richtlinie 2014/61/EU des Europäischen Parlaments und des Rates
+        vom 15. Mai 2014 über Maßnahmen zur Reduzierung der Kosten des Ausbaus
+        von Hochgeschwindigkeitsnetzen für die elektronische Kommunikation
+        (Kostensenkungsrichtlinie) (ABl. L 155 vom 23.5.2014, S. 1);
 
 
 
@@ -311,6 +326,10 @@ Im Sinne dieses Gesetzes ist oder sind
 
 9c. „GEREK“ das Gremium Europäischer Regulierungsstellen für elektronische
     Kommunikation;
+
+
+9d. „Gerät“ eine Funkanlage, eine Telekommunikationsendeinrichtung oder
+    eine Kombination von beiden;
 
 
 10. "geschäftsmäßiges Erbringen von Telekommunikationsdiensten" das
@@ -404,6 +423,43 @@ Im Sinne dieses Gesetzes ist oder sind
     zwischen Netzabschlusspunkten ermöglichen;
 
 
+16b. „öffentliche Versorgungsnetze“ entstehende, betriebene oder
+    stillgelegte physische Infrastrukturen für die öffentliche
+    Bereitstellung von
+
+    a)  Erzeugungs-, Leitungs- oder Verteilungsdiensten für
+
+        aa) Telekommunikation,
+
+
+        bb) Gas,
+
+
+        cc) Elektrizität, einschließlich der Elektrizität für die öffentliche
+            Straßenbeleuchtung,
+
+
+        dd) Fernwärme oder
+
+
+        ee) Wasser, ausgenommen Trinkwasser im Sinne des § 3 Nummer 1 der
+            Trinkwasserverordnung in der Fassung der Bekanntmachung vom 10. März
+            2016 (BGBl. I S. 459), die durch Artikel 4 Absatz 21 des Gesetzes vom
+            18\. Juli 2016 (BGBl. I S. 1666) geändert worden ist; zu den
+            öffentlichen Versorgungsnetzen zählen auch physische Infrastrukturen
+            zur Abwasserbehandlung und -entsorgung sowie die Kanalisationssysteme;
+
+
+
+
+
+    b)  Verkehrsdiensten; zu diesen Infrastrukturen gehören insbesondere
+        Schienenwege, Straßen, Wasserstraßen, Brücken, Häfen und Flugplätze;
+
+
+
+
+
 17. „öffentlich zugänglicher Telefondienst“ ein der Öffentlichkeit zur
     Verfügung stehender Dienst, der direkt oder indirekt über eine oder
     mehrere Nummern eines nationalen oder internationalen
@@ -423,7 +479,18 @@ Im Sinne dieses Gesetzes ist oder sind
     zur Verfügung stehende Telekommunikationsdienste;
 
 
-17b. "Premium-Dienste" Dienste, insbesondere der Rufnummernbereiche (0)190
+17b. „passive Netzinfrastrukturen“ Komponenten eines Netzes, die andere
+    Netzkomponenten aufnehmen sollen, selbst jedoch nicht zu aktiven
+    Netzkomponenten werden; hierzu zählen zum Beispiel Fernleitungen,
+    Leer- und Leitungsrohre, Kabelkanäle, Kontrollkammern,
+    Einstiegsschächte, Verteilerkästen, Gebäude und Gebäudeeingänge,
+    Antennenanlagen und Trägerstrukturen wie Türme, Ampeln und
+    Straßenlaternen, Masten und Pfähle; Kabel, einschließlich
+    unbeschalteter Glasfaserkabel, sind keine passiven
+    Netzinfrastrukturen;
+
+
+17c. "Premium-Dienste" Dienste, insbesondere der Rufnummernbereiche (0)190
     und (0)900, bei denen über die Telekommunikationsdienstleistung hinaus
     eine weitere Dienstleistung erbracht wird, die gegenüber dem Anrufer
     gemeinsam mit der Telekommunikationsdienstleistung abgerechnet wird
@@ -437,6 +504,11 @@ Im Sinne dieses Gesetzes ist oder sind
 
 18a. "Rufnummernbereich" eine für eine Nummernart bereitgestellte Teilmenge
     des Nummernraums für das öffentliche Telefonnetz;
+
+
+18b. „Schnittstelle“ ein Netzabschlusspunkt, das heißt, der physische
+    Anschlusspunkt, über den der Benutzer Zugang zu öffentlichen
+    Telekommunikationsnetzen erhält;
 
 
 19. "Standortdaten" Daten, die in einem Telekommunikationsnetz oder von
@@ -479,16 +551,28 @@ Im Sinne dieses Gesetzes ist oder sind
     Übertragungsdienste in Rundfunknetzen;
 
 
+24a. „Telekommunikationsendeinrichtung“ eine direkt oder indirekt an die
+    Schnittstelle eines öffentlichen Telekommunikationsnetzes
+    angeschlossene Einrichtung zum Aussenden, Verarbeiten oder Empfangen
+    von Nachrichten; sowohl bei direkten als auch bei indirekten
+    Anschlüssen kann die Verbindung über elektrisch leitenden Draht, über
+    optische Faser oder elektromagnetisch hergestellt werden; bei einem
+    indirekten Anschluss ist zwischen der Telekommunikationsendeinrichtung
+    und der Schnittstelle des öffentlichen Netzes ein Gerät geschaltet;
+
+
 25. "telekommunikationsgestützte Dienste" Dienste, die keinen räumlich und
     zeitlich trennbaren Leistungsfluss auslösen, sondern bei denen die
     Inhaltsleistung noch während der Telekommunikationsverbindung erfüllt
     wird;
 
 
-26. "Telekommunikationslinien" unter- oder oberirdisch geführte
-    Telekommunikationskabelanlagen einschließlich ihrer zugehörigen
+26. „Telekommunikationslinien“ unter- oder oberirdisch geführte
+    Telekommunikationskabelanlagen, einschließlich ihrer zugehörigen
     Schalt- und Verzweigungseinrichtungen, Masten und Unterstützungen,
-    Kabelschächte und Kabelkanalrohre;
+    Kabelschächte und Kabelkanalrohre, sowie weitere technische
+    Einrichtungen, die für das Erbringen von öffentlich zugänglichen
+    Telekommunikationsdiensten erforderlich sind;
 
 
 27. "Telekommunikationsnetz" die Gesamtheit von Übertragungssystemen und
@@ -504,11 +588,22 @@ Im Sinne dieses Gesetzes ist oder sind
     Information;
 
 
+27a. „Überbau“ die nachträgliche Dopplung von
+    Telekommunikationsinfrastrukturen durch parallele Errichtung, soweit
+    damit dasselbe Versorgungsgebiet erschlossen werden soll;
+
+
 28. "Übertragungsweg" Telekommunikationsanlagen in Form von Kabel- oder
     Funkverbindungen mit ihren übertragungstechnischen Einrichtungen als
     Punkt-zu-Punkt- oder Punkt-zu-Mehrpunktverbindungen mit einem
     bestimmten Informationsdurchsatzvermögen (Bandbreite oder Bitrate)
     einschließlich ihrer Abschlusseinrichtungen;
+
+
+28a. „umfangreiche Renovierungen“ Tief- oder Hochbauarbeiten am Standort
+    des Endnutzers, die strukturelle Veränderungen an den gesamten
+    gebäudeinternen passiven Netzinfrastrukturen oder einem wesentlichen
+    Teil davon umfassen;
 
 
 29. "Unternehmen" das Unternehmen selbst oder mit ihm im Sinne des § 36
@@ -612,7 +707,14 @@ Im Sinne dieses Gesetzes ist oder sind
     Abonnement oder einer individuellen Erlaubnis abhängig machen;
 
 
-33a. „zugehörige Dienste“ diejenigen mit einem Telekommunikationsnetz oder
+33a. „Zugangspunkt zu passiven gebäudeinternen Netzkomponenten“ ein
+    physischer Punkt innerhalb oder außerhalb des Gebäudes, der für
+    Eigentümer und Betreiber öffentlicher Telekommunikationsnetze
+    zugänglich ist und den Anschluss an die hochgeschwindigkeitsfähigen
+    gebäudeinternen passiven Netzinfrastrukturen ermöglicht;
+
+
+33b. „zugehörige Dienste“ diejenigen mit einem Telekommunikationsnetz oder
     einem Telekommunikationsdienst verbundenen Dienste, welche die
     Bereitstellung von Diensten über dieses Netz oder diesen Dienst
     ermöglichen, unterstützen oder dazu in der Lage sind. Darunter fallen
@@ -622,7 +724,7 @@ Im Sinne dieses Gesetzes ist oder sind
     Zusammenhang mit Identität, Standort und Präsenz des Nutzers;
 
 
-33b. „zugehörige Einrichtungen“ diejenigen mit einem Telekommunikationsnetz
+33c. „zugehörige Einrichtungen“ diejenigen mit einem Telekommunikationsnetz
     oder einem Telekommunikationsdienst verbundenen zugehörigen Dienste,
     physischen Infrastrukturen und sonstigen Einrichtungen und
     Komponenten, welche die Bereitstellung von Diensten über dieses Netz
@@ -699,7 +801,7 @@ feststellen.
 ### § 7 Strukturelle Separierung
 
 Unternehmen, die öffentliche Telekommunikationsnetze betreiben oder
-Telekommunikationsdienste für die Öffentlichkeit anbieten und
+öffentlich zugängliche Telekommunikationsdienste anbieten und
 innerhalb der Europäischen Union besondere oder ausschließliche Rechte
 für die Erbringung von Diensten in anderen Sektoren besitzen, sind
 verpflichtet,
@@ -923,7 +1025,8 @@ erlässt, gilt folgendes Verfahren:
     das Konsultationsverfahren nach Absatz 1 durch und legt der Kommission
     den geänderten Entwurf nach Nummer 1 vor. Zieht die Bundesnetzagentur
     den Entwurf zurück, so unterrichtet sie das Bundesministerium für
-    Wirtschaft und Technologie über die Entscheidung der Kommission.
+    Wirtschaft und Energie und die weiteren betroffenen Ressorts über die
+    Entscheidung der Kommission.
 
 
 4.  Die Bundesnetzagentur übermittelt der Kommission und dem GEREK alle
@@ -2410,26 +2513,134 @@ den §§ 19, 20, 21, 23, 24, 30, 39 oder § 42 Absatz 4 Satz 3 auferlegt
 werden.
 
 
-#### § 41a Netzneutralität
+#### § 41a (weggefallen)
 
-(1) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung mit
-Zustimmung des Bundestages und des Bundesrates gegenüber Unternehmen,
-die Telekommunikationsnetze betreiben, die grundsätzlichen
-Anforderungen an eine diskriminierungsfreie Datenübermittlung und den
-diskriminierungsfreien Zugang zu Inhalten und Anwendungen festzulegen,
-um eine willkürliche Verschlechterung von Diensten und eine
-ungerechtfertigte Behinderung oder Verlangsamung des Datenverkehrs in
-den Netzen zu verhindern; sie berücksichtigt hierbei die europäischen
-Vorgaben sowie die Ziele und Grundsätze des § 2.
 
-(2) Die Bundesnetzagentur kann in einer Technischen Richtlinie
-Einzelheiten über die Mindestanforderungen an die Dienstqualität durch
-Verfügung festlegen. Bevor die Mindestanforderungen festgelegt werden,
-sind die Gründe für ein Tätigwerden, die geplanten Anforderungen und
-die vorgeschlagene Vorgehensweise zusammenfassend darzustellen; diese
-Darstellung ist der Kommission und dem GEREK rechtzeitig zu
-übermitteln. Den Kommentaren oder Empfehlungen der Kommission ist bei
-der Festlegung der Anforderungen weitestgehend Rechnung zu tragen.
+
+#### § 41b Anschluss von Telekommunikationsendeinrichtungen
+
+(1) Die Betreiber öffentlicher Telekommunikationsnetze und die
+Anbieter von öffentlich zugänglichen Telekommunikationsdiensten dürfen
+den Anschluss von Telekommunikationsendeinrichtungen an das
+öffentliche Telekommunikationsnetz nicht verweigern, wenn die
+Telekommunikationsendeinrichtungen die grundlegenden Anforderungen
+nach der Richtlinie 2014/30/EU des Europäischen Parlaments und des
+Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften
+der Mitgliedstaaten über die elektromagnetische Verträglichkeit (ABl.
+L 96 vom 29.3.2014, S. 79) erfüllen. Sie können dem Teilnehmer
+Telekommunikationsendeinrichtungen überlassen, dürfen aber deren
+Anschluss und Nutzung nicht zwingend vorschreiben. Notwendige
+Zugangsdaten und Informationen für den Anschluss von
+Telekommunikationsendeinrichtungen und die Nutzung der
+Telekommunikationsdienste haben sie dem Teilnehmer in Textform
+unaufgefordert und kostenfrei bei Vertragsschluss zur Verfügung zu
+stellen.
+
+(2) Wer Telekommunikationsendeinrichtungen an öffentlichen
+Telekommunikationsnetzen betreiben will, hat für deren fachgerechten
+Anschluss Sorge zu tragen.
+
+(3) Verursacht ein Gerät, dessen Konformität mit den Anforderungen des
+§ 4 des Gesetzes über die elektromagnetische Verträglichkeit von
+Betriebsmitteln bescheinigt wurde, ernsthafte Schäden an einem Netz
+oder schädliche Störungen beim Netzbetrieb oder funktechnische
+Störungen, so kann die Bundesnetzagentur dem Betreiber öffentlicher
+Telekommunikationsnetze gestatten, für dieses Gerät den Anschluss zu
+verweigern, die Verbindung aufzuheben oder den Dienst einzustellen.
+Die Bundesnetzagentur teilt dem Bundesministerium für Wirtschaft und
+Energie die von ihr getroffenen Maßnahmen mit.
+
+(4) Der Betreiber öffentlicher Telekommunikationsnetze kann eine
+Telekommunikationsendeinrichtung im Notfall ohne vorherige Erlaubnis
+nur dann vom Netz abtrennen, wenn
+
+1.  der Schutz des Netzes die unverzügliche Abschaltung des Geräts
+    erfordert und
+
+
+2.  dem Benutzer unverzüglich und für ihn kostenfrei eine alternative
+    Lösung angeboten werden kann.
+
+
+
+
+(5) Der Betreiber öffentlicher Telekommunikationsnetze unterrichtet
+unverzüglich die Bundesnetzagentur über die Trennung einer
+Telekommunikationsendeinrichtung vom Netz.
+
+(6) Die Bundesnetzagentur ergreift gegenüber Betreibern öffentlicher
+Telekommunikationsnetze, die
+
+1.  eine Anschaltung von Telekommunikationsendeinrichtungen an ihre Netze
+    verweigern oder
+
+
+2.  angeschaltete Telekommunikationsendeinrichtungen vom Netz genommen
+    haben, ohne dass die Voraussetzungen des Absatzes 3 oder 4 vorgelegen
+    haben,
+
+
+
+die erforderlichen Maßnahmen, um den Anschluss dieser
+Telekommunikationsendeinrichtungen zu gewährleisten.
+
+
+#### § 41c Schnittstellenbeschreibungen der Betreiber öffentlicher Telekommunikationsnetze
+
+(1) Betreiber öffentlicher Telekommunikationsnetze sind verpflichtet,
+
+1.  angemessene und genaue technische Beschreibungen ihrer
+    Netzzugangsschnittstellen bereitzustellen und zu veröffentlichen sowie
+    der Bundesnetzagentur unmittelbar mitzuteilen und
+
+
+2.  regelmäßig alle aktualisierten Beschreibungen dieser
+    Netzzugangsschnittstellen zu veröffentlichen und der Bundesnetzagentur
+    unmittelbar mitzuteilen.
+
+
+
+Die Verpflichtung des Satzes 1 Nummer 1 gilt auch für jede technische
+Änderung einer vorhandenen Schnittstelle.
+
+(2) Die Schnittstellenbeschreibungen müssen hinreichend detailliert
+sein, um den Entwurf von Telekommunikationsendeinrichtungen zu
+ermöglichen, die zur Nutzung aller über die entsprechende
+Schnittstelle erbrachten Dienste in der Lage sind. Der
+Verwendungszweck der Schnittstellen muss angegeben werden. Die
+Schnittstellenbeschreibungen müssen alle Informationen enthalten,
+damit die Hersteller die jeweiligen Prüfungen in Bezug auf die
+schnittstellenrelevanten grundlegenden Anforderungen, die für die
+jeweilige Telekommunikationsendeinrichtung gelten, nach eigener Wahl
+durchführen können.
+
+(3) Die Pflicht zur Veröffentlichung nach Absatz 1 ist erfüllt, wenn
+die Angaben im Amtsblatt der Bundesnetzagentur veröffentlicht werden.
+Erfolgt die Veröffentlichung an anderer Stelle, hat der Betreiber
+öffentlicher Telekommunikationsnetze die Fundstelle umgehend der
+Bundesnetzagentur mitzuteilen. In diesem Fall veröffentlicht die
+Bundesnetzagentur die Fundstelle in ihrem Amtsblatt.
+
+(4) Ist die Veröffentlichung der gesamten
+Schnittstellenspezifikationen auf Grund des Umfangs nicht zumutbar, so
+ist es ausreichend, eine Mitteilung zu veröffentlichen, die zumindest
+über Art und Verwendungszweck der Schnittstelle Auskunft gibt und
+einen Hinweis auf Bezugsmöglichkeiten der umfassenden
+Schnittstellenspezifikationen enthält. Der Betreiber öffentlicher
+Telekommunikationsnetze stellt sicher, dass die
+Schnittstellenspezifikationen nach Anforderung unverzüglich an den
+Interessenten abgegeben werden und die Interessenten weder zeitlich
+noch inhaltlich noch hinsichtlich der Kosten für den Bezug der
+Schnittstellenspezifikation ungleich behandelt werden. Ein für den
+Bezug von Schnittstellenspezifikationen erhobenes Entgelt darf nur in
+Höhe der hierdurch verursachten besonderen Kosten erhoben werden.
+
+(5) Der Betreiber öffentlicher Telekommunikationsnetze darf
+Leistungen, die über die nach Absatz 1 veröffentlichten Schnittstellen
+bereitgestellt werden sollen, nur anbieten, wenn zuvor die
+Schnittstellenbeschreibung oder die Fundstelle der
+Schnittstellenbeschreibung im Amtsblatt der Bundesnetzagentur
+veröffentlicht worden ist.
 
 
 ### Abschnitt 5 - Besondere Missbrauchsaufsicht
@@ -2491,10 +2702,10 @@ die Zahlung eines entsprechenden Geldbetrags auferlegen.
 
 (2) Absatz 1 gilt nicht, sofern der wirtschaftliche Vorteil durch
 Schadensersatzleistungen oder durch die Verhängung oder die Anordnung
-des Verfalls ausgeglichen ist. Soweit das Unternehmen Leistungen nach
-Satz 1 erst nach der Vorteilsabschöpfung erbringt, ist der abgeführte
-Geldbetrag in Höhe der nachgewiesenen Zahlungen an das Unternehmen
-zurückzuerstatten.
+der Einziehung von Taterträgen ausgeglichen ist. Soweit das
+Unternehmen Leistungen nach Satz 1 erst nach der Vorteilsabschöpfung
+erbringt, ist der abgeführte Geldbetrag in Höhe der nachgewiesenen
+Zahlungen an das Unternehmen zurückzuerstatten.
 
 (3) Wäre die Durchführung einer Vorteilsabschöpfung eine unbillige
 Härte, soll die Anordnung auf einen angemessenen Geldbetrag beschränkt
@@ -2631,9 +2842,37 @@ die Anbieter öffentlicher Telekommunikationsnetze verpflichten,
 Erhebungen zum tatsächlichen Mindestniveau der Dienstqualität
 anzustellen, eigene Messungen anstellen oder Hilfsmittel entwickeln,
 die es dem Teilnehmer ermöglichen, eigenständige Messungen
-anzustellen. Ferner kann die Bundesnetzagentur das Format der
-Mitteilung über Vertragsänderungen und die anzugebende Information
-über das Widerrufsrecht festlegen, soweit nicht bereits vergleichbare
+anzustellen. Die Bundesnetzagentur veröffentlicht jährlich einen
+Bericht über ihre Erhebungen und Erkenntnisse, in dem insbesondere
+dargestellt wird,
+
+1.  inwiefern die Anbieter von öffentlich zugänglichen
+    Telekommunikationsdiensten die Informationen zur Verfügung stellen,
+    die nach Absatz 2 und nach Artikel 4 Absatz 1 der Verordnung (EU)
+    2015/2120 des Europäischen Parlaments und des Rates vom 25. November
+    2015 über Maßnahmen zum Zugang zum offenen Internet und zur Änderung
+    der Richtlinie 2002/22/EG über den Universaldienst und Nutzerrechte
+    bei elektronischen Kommunikationsnetzen und -diensten sowie der
+    Verordnung (EU) Nr. 531/2012 über das Roaming in öffentlichen
+    Mobilfunknetzen in der Union (ABl. L 310 vom 26.11.2015, S. 1)
+    erforderlich sind,
+
+
+2.  inwiefern erhebliche, kontinuierliche oder regelmäßig wiederkehrende
+    Abweichungen zwischen der nach Satz 2 gemessenen Dienstqualität und
+    den nach Artikel 4 Absatz 1 Unterabsatz 1 Buchstabe d der Verordnung
+    (EU) 2015/2120 im Vertrag enthaltenen Angaben festgestellt wurden und
+
+
+3.  inwiefern Anforderungen und Maßnahmen nach Artikel 5 Absatz 1
+    Unterabsatz 1 Satz 2 der Verordnung (EU) 2015/2120 notwendig und
+    wirksam sind.
+
+
+
+Ferner kann die Bundesnetzagentur das Format der Mitteilung über
+Vertragsänderungen und die anzugebende Information über das
+Widerrufsrecht festlegen, soweit nicht bereits vergleichbare
 Regelungen bestehen.
 
 
@@ -2703,8 +2942,9 @@ Vereinbarung geregelt werden.
 öffentlich zugänglicher Telekommunikationsdienste bei der Planung und
 Erbringung der Dienste zu berücksichtigen. Es ist ein Zugang zu
 ermöglichen, der dem Zugang gleichwertig ist, über den die Mehrheit
-der Endnutzer verfügt. Gleiches gilt für die Auswahl an Unternehmen
-und Diensten.
+der Endnutzer verfügt. Der Zugang zu den Telekommunikationsdiensten
+muss behinderten Endnutzern jederzeit zur Verfügung stehen. Gleiches
+gilt für die Auswahl an Unternehmen und Diensten.
 
 (2) Nach Anhörung der betroffenen Verbände und der Unternehmen kann
 die Bundesnetzagentur den allgemeinen Bedarf nach Absatz 1
@@ -2717,27 +2957,27 @@ Dienstemerkmale oder vergleichbare Dienste als weithin verfügbar
 erachtet werden.
 
 (3) Die Anbieter öffentlich zugänglicher Telefondienste stellen
-Vermittlungsdienste für gehörlose und hörgeschädigte Endnutzer zu
-einem erschwinglichen Preis unter Berücksichtigung ihrer besonderen
-Bedürfnisse bereit. Die Bundesnetzagentur ermittelt den Bedarf für
-diese Vermittlungsdienste unter Beteiligung der betroffenen Verbände
-und der Unternehmen. Soweit Unternehmen keinen bedarfsgerechten
-Vermittlungsdienst bereitstellen, beauftragt die Bundesnetzagentur
-einen Leistungserbringer mit der Bereitstellung eines
-Vermittlungsdienstes zu einem erschwinglichen Preis. Die mit dieser
-Bereitstellung nicht durch die vom Nutzer zu zahlenden Entgelte
-gedeckten Kosten tragen die Unternehmen, die keinen bedarfsgerechten
-Vermittlungsdienst bereitstellen. Der jeweils von einem Unternehmen zu
-tragende Anteil an diesen Kosten bemisst sich nach dem Verhältnis des
-Anteils der vom jeweiligen Unternehmen erbrachten abgehenden
-Verbindungen zum Gesamtvolumen der von allen zahlungspflichtigen
-Unternehmen erbrachten abgehenden Verbindungen und wird von der
-Bundesnetzagentur festgesetzt. Die Zahlungspflicht entfällt für
-Unternehmen, die weniger als 0,5 Prozent des Gesamtvolumens der
-abgehenden Verbindungen erbracht haben; der auf diese Unternehmen
-entfallende Teil der Kosten wird von den übrigen Unternehmen nach
-Maßgabe des Satzes 5 getragen. Die Bundesnetzagentur legt die
-Einzelheiten des Verfahrens durch Verfügung fest.
+jederzeit verfügbare Vermittlungsdienste für gehörlose und
+hörgeschädigte Endnutzer zu einem erschwinglichen Preis unter
+Berücksichtigung ihrer besonderen Bedürfnisse bereit. Die
+Bundesnetzagentur ermittelt den Bedarf für diese Vermittlungsdienste
+unter Beteiligung der betroffenen Verbände und der Unternehmen. Soweit
+Unternehmen keinen bedarfsgerechten Vermittlungsdienst bereitstellen,
+beauftragt die Bundesnetzagentur einen Leistungserbringer mit der
+Bereitstellung eines Vermittlungsdienstes zu einem erschwinglichen
+Preis. Die mit dieser Bereitstellung nicht durch die vom Nutzer zu
+zahlenden Entgelte gedeckten Kosten tragen die Unternehmen, die keinen
+bedarfsgerechten Vermittlungsdienst bereitstellen. Der jeweils von
+einem Unternehmen zu tragende Anteil an diesen Kosten bemisst sich
+nach dem Verhältnis des Anteils der vom jeweiligen Unternehmen
+erbrachten abgehenden Verbindungen zum Gesamtvolumen der von allen
+zahlungspflichtigen Unternehmen erbrachten abgehenden Verbindungen und
+wird von der Bundesnetzagentur festgesetzt. Die Zahlungspflicht
+entfällt für Unternehmen, die weniger als 0,5 Prozent des
+Gesamtvolumens der abgehenden Verbindungen erbracht haben; der auf
+diese Unternehmen entfallende Teil der Kosten wird von den übrigen
+Unternehmen nach Maßgabe des Satzes 5 getragen. Die Bundesnetzagentur
+legt die Einzelheiten des Verfahrens durch Verfügung fest.
 
 
 ### § 45a Nutzung von Grundstücken
@@ -2800,7 +3040,9 @@ technischen Anforderungen in Veröffentlichungen hinweisen.
 
 (1) Der Zugang zu öffentlichen Telekommunikationsnetzen an festen
 Standorten ist an einer mit dem Teilnehmer zu vereinbarenden,
-geeigneten Stelle zu installieren.
+geeigneten Stelle zu installieren. Dieser Zugang ist ein passiver
+Netzabschlusspunkt; das öffentliche Telekommunikationsnetz endet am
+passiven Netzabschlusspunkt.
 
 (2) Der Teilnehmer kann von dem Anbieter öffentlich zugänglicher
 Telefondienste und von dem Anbieter des Anschlusses an das öffentliche
@@ -2816,6 +3058,18 @@ Mobilfunkdienste und von dem Anbieter des Anschlusses an das
 Mobilfunkanschlusses zur Inanspruchnahme und Abrechnung einer neben
 der Verbindung erbrachten Leistung unentgeltlich netzseitig gesperrt
 wird.
+
+(4) Die Bundesnetzagentur legt nach Anhörung der betroffenen
+Unternehmen, Fachkreise und Verbraucherverbände Verfahren fest, die
+die Anbieter öffentlich zugänglicher Mobilfunkdienste und die Anbieter
+des Anschlusses an das öffentliche Mobilfunknetz anwenden müssen, um
+die Identifizierung eines Mobilfunkanschlusses zur Inanspruchnahme und
+Abrechnung einer neben der Verbindung erbrachten Leistung zu nutzen.
+Diese Verfahren sollen den Teilnehmer wirksam davor schützen, dass
+eine neben der Verbindung erbrachte Leistung gegen seinen Willen in
+Anspruch genommen und abgerechnet wird. Die Bundesnetzagentur
+veröffentlicht die Verfahren und überprüft sie in regelmäßigen
+Abständen auf ihre Wirksamkeit.
 
 
 ### § 45e Anspruch auf Einzelverbindungsnachweis
@@ -2940,18 +3194,7 @@ der Rechnung darauf hinweisen, dass dieser berechtigt ist, begründete
 Einwendungen gegen einzelne in der Rechnung gestellte Forderungen zu
 erheben.
 
-(4) Leistungen anderer beteiligter Anbieter von Netzdienstleistungen
-oder Diensteanbieter, die über den Anschluss eines
-Teilnehmernetzbetreibers von einem Endnutzer in Anspruch genommen
-werden, gelten für Zwecke der Umsatzsteuer als vom
-Teilnehmernetzbetreiber in eigenem Namen und für Rechnung des
-beteiligten Anbieters von Netzdienstleistungen oder Diensteanbieters
-an den Endnutzer erbracht; dies gilt entsprechend für Leistungen
-anderer beteiligter Anbieter von Netzdienstleistungen oder
-Diensteanbieter gegenüber einem beteiligten Anbieter von
-Netzdienstleistungen, der über diese Leistungen in eigenem Namen und
-für fremde Rechnung gegenüber dem Teilnehmernetzbetreiber oder einem
-weiteren beteiligten Anbieter von Netzdienstleistungen abrechnet.
+(4) (weggefallen)
 
 (5) Die Einzelheiten darüber, welche Angaben nach Absatz 1 Satz 1
 Nummer 3 auf der Rechnung mindestens für einen transparenten und
@@ -3144,48 +3387,54 @@ Verzeichnisse für Auskunftsdienste.
 
 ### § 45n Transparenz, Veröffentlichung von Informationen und zusätzliche Dienstemerkmale zur Kostenkontrolle
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, dem
-Bundesministerium der Justiz und dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit
-Zustimmung des Bundestages Rahmenvorschriften zur Förderung der
-Transparenz, Veröffentlichung von Informationen und zusätzlicher
-Dienstemerkmale zur Kostenkontrolle auf dem Telekommunikationsmarkt zu
-erlassen.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium des Innern, dem
+Bundesministerium der Justiz und für Verbraucherschutz sowie dem
+Bundesministerium für Verkehr und digitale Infrastruktur durch
+Rechtsverordnung mit Zustimmung des Bundestages Rahmenvorschriften zur
+Förderung der Transparenz sowie zur Veröffentlichung von Informationen
+und zusätzlichen Dienstemerkmalen zur Kostenkontrolle auf dem
+Telekommunikationsmarkt zu erlassen.
 
 (2) In der Rechtsverordnung nach Absatz 1 können Anbieter von
 öffentlichen Telekommunikationsnetzen und Anbieter öffentlich
-zugänglicher Telekommunikationsdienste verpflichtet werden,
-transparente, vergleichbare, ausreichende und aktuelle Informationen
-zu veröffentlichen:
+zugänglicher Telekommunikationsdienste verpflichtet werden, dem
+Verbraucher und auf Verlangen anderen Endnutzern transparente,
+vergleichbare, ausreichende und aktuelle Informationen
+bereitzustellen:
 
 1.  über geltende Preise und Tarife,
 
 
-2.  über die bei Vertragskündigung anfallenden Gebühren,
+2.  über den Vertragsbeginn, die noch verbleibende Vertragslaufzeit und
+    die bei Vertragskündigung anfallenden Gebühren,
 
 
 3.  über Standardbedingungen für den Zugang zu den von ihnen für Endnutzer
-    und Verbraucher bereitgestellten Diensten und deren Nutzung und
+    und Verbraucher bereitgestellten Diensten und deren Nutzung,
 
 
-4.  über die Dienstqualität sowie über die zur Gewährleistung der
-    Gleichwertigkeit beim Zugang für behinderte Endnutzer getroffenen
-    Maßnahmen.
+4.  über die Dienstqualität einschließlich eines Angebotes zur
+    Überprüfbarkeit der Datenübertragungsrate und
+
+
+5.  über die Maßnahmen, die zur Gewährleistung der Gleichwertigkeit beim
+    Zugang für behinderte Endnutzer getroffen worden sind.
 
 
 
 
 (3) Im Rahmen des Absatzes 2 Nummer 3 können Anbieter von öffentlichen
 Telekommunikationsnetzen und Anbieter öffentlich zugänglicher
-Telekommunikationsdienste verpflichtet werden, Folgendes zu
-veröffentlichen:
+Telekommunikationsdienste verpflichtet werden, dem Verbraucher und auf
+Verlangen anderen Endnutzern Folgendes bereitzustellen:
 
 1.  den Namen und die ladungsfähige Anschrift, bei juristischen Personen
     auch die Rechtsform, den Sitz und das zuständige Registergericht,
 
 
-2.  den Umfang der angebotenen Dienste,
+2.  den Umfang der angebotenen Dienste einschließlich der Bedingungen für
+    Datenvolumenbeschränkungen,
 
 
 3.  Einzelheiten zu den Preisen der angebotenen Dienste, Dienstemerkmalen
@@ -3282,9 +3531,10 @@ Falls dies als zweckdienlich erachtet wird, können in der Verordnung
 auch Verfahren zur Selbst- oder Koregulierung vorgesehen werden.
 
 (5) Die Informationen sind in klarer, verständlicher und leicht
-zugänglicher Form zu veröffentlichen. In der Rechtsverordnung nach
-Absatz 1 können hinsichtlich Ort und Form der Veröffentlichung weitere
-Anforderungen festgelegt werden.
+zugänglicher Form dem Verbraucher und auf Verlangen anderen Endnutzern
+bereitzustellen. In der Rechtsverordnung nach Absatz 1 können
+hinsichtlich Ort und Form der Bereitstellung weitere Anforderungen
+festgelegt werden.
 
 (6) In der Rechtsverordnung nach Absatz 1 können Anbieter öffentlich
 zugänglicher Telefondienste und Anbieter öffentlicher
@@ -3329,13 +3579,15 @@ Satz 1 kommt nach Berücksichtigung der Ansichten der Betroffenen nicht
 in Betracht, wenn bereits in ausreichendem Umfang Zugang zu diesen
 Dienstemerkmalen besteht.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie kann die
-Ermächtigung nach Absatz 1 durch Rechtsverordnung an die
-Bundesnetzagentur übertragen. Eine Rechtsverordnung der
+(7) Das Bundesministerium für Wirtschaft und Energie kann im
+Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur die Ermächtigung nach Absatz 1 durch Rechtsverordnung an
+die Bundesnetzagentur übertragen. Eine Rechtsverordnung der
 Bundesnetzagentur bedarf des Einvernehmens mit dem Bundesministerium
-für Wirtschaft und Technologie, dem Bundesministerium des Innern, dem
-Bundesministerium der Justiz, dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz und dem Bundestag.
+für Wirtschaft und Energie, dem Bundesministerium des Innern, dem
+Bundesministerium der Justiz und für Verbraucherschutz, dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
+Bundestag.
 
 (8) Die Bundesnetzagentur kann in ihrem Amtsblatt oder auf ihrer
 Internetseite jegliche Information veröffentlichen, die für Endnutzer
@@ -3572,23 +3824,28 @@ Dienste bezieht und mit folgenden Regelungen zusammenhängt:
     Rechtsverordnungen und § 84 oder
 
 
-2.  der Verordnung (EG) Nr. 717/2007 des Europäischen Parlaments und des
-    Rates vom 27. Juni 2007 über das Roaming in öffentlichen
-    Mobilfunknetzen in der Gemeinschaft und zur Änderung der Richtlinie
-    2002/21/EG (ABl. L 171 vom 29.6.2007, S. 32), die zuletzt durch die
-    Verordnung (EG) Nr. 544/2009 (ABl. L 167 vom 29.6.2009, S. 12)
-    geändert worden ist,
+2.  der Verordnung (EU) Nr. 531/2012 des Europäischen Parlaments und des
+    Rates vom 13. Juni 2012 über das Roaming in öffentlichen
+    Mobilfunknetzen in der Union (ABl. L 172 vom 30.6.2012, S. 10), die
+    zuletzt durch die Verordnung (EU) 2015/2120 (ABl. L 310 vom
+    26\.11.2015, S. 1) geändert worden ist,
+
+
+3.  Artikel 4 Absatz 1, 2 und 4 der Verordnung (EU) 2015/2120 des
+    Europäischen Parlaments und des Rates vom 25. November 2015 über
+    Maßnahmen zum Zugang zum offenen Internet und zur Änderung der
+    Richtlinie 2002/22/EG über den Universaldienst und Nutzerrechte bei
+    elektronischen Kommunikationsnetzen und -diensten sowie der Verordnung
+    (EU) Nr. 531/2012 über das Roaming in öffentlichen Mobilfunknetzen in
+    der Union,
 
 
 
-kann der Teilnehmer bei der Bundesnetzagentur durch einen Antrag ein
-Schlichtungsverfahren einleiten.
+kann der Teilnehmer bei der Verbraucherschlichtungsstelle der
+Bundesnetzagentur durch einen Antrag ein Schlichtungsverfahren
+einleiten.
 
-(2) Zur Durchführung der Schlichtung hört die Bundesnetzagentur den
-Teilnehmer und den Anbieter an. Sie soll auf eine gütliche Einigung
-zwischen dem Teilnehmer und dem Anbieter hinwirken.
-
-(3) Das Schlichtungsverfahren endet, wenn
+(2) Das Schlichtungsverfahren endet, wenn
 
 1.  der Schlichtungsantrag zurückgenommen wird,
 
@@ -3601,20 +3858,26 @@ zwischen dem Teilnehmer und dem Anbieter hinwirken.
     der Streit erledigt hat,
 
 
-4.  die Bundesnetzagentur dem Teilnehmer und dem Anbieter schriftlich
-    mitteilt, dass eine Einigung im Schlichtungsverfahren nicht erreicht
-    werden konnte, oder
+4.  die Verbraucherschlichtungsstelle der Bundesnetzagentur dem Teilnehmer
+    und dem Anbieter schriftlich mitteilt, dass eine Einigung im
+    Schlichtungsverfahren nicht erreicht werden konnte, oder
 
 
-5.  die Bundesnetzagentur feststellt, dass Belange nach Absatz 1 nicht
-    mehr berührt sind.
+5.  die Verbraucherschlichtungsstelle der Bundesnetzagentur feststellt,
+    dass Belange nach Absatz 1 nicht mehr berührt sind.
 
 
 
 
-(4) Die Bundesnetzagentur regelt die weiteren Einzelheiten über das
+(3) Die Bundesnetzagentur regelt die weiteren Einzelheiten über das
 Schlichtungsverfahren in einer Schlichtungsordnung, die sie
-veröffentlicht.
+veröffentlicht. Die Verbraucherschlichtungsstelle der
+Bundesnetzagentur muss die Anforderungen nach dem
+Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S.
+254) erfüllen. Das Bundesministerium für Wirtschaft und Energie
+übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die
+Mitteilungen nach § 32 Absatz 3 und 5 des
+Verbraucherstreitbeilegungsgesetzes.
 
 
 ### § 47b Abweichende Vereinbarungen
@@ -3845,8 +4108,8 @@ Luftfahrzeugen, die sich im Geltungsbereich dieses Gesetzes aufhalten.
 
 (3) Für Frequenznutzungen, die in den Aufgabenbereich des
 Bundesministeriums der Verteidigung fallen, stellt das
-Bundesministerium für Wirtschaft und Technologie das Einvernehmen mit
-dem Bundesministerium der Verteidigung her.
+Bundesministerium für Verkehr und digitale Infrastruktur das
+Einvernehmen mit dem Bundesministerium der Verteidigung her.
 
 
 #### § 53 Frequenzzuweisung
@@ -4141,7 +4404,7 @@ Bundesnetzagentur und deren Eingriffsmöglichkeiten bleiben unberührt.
 
 (6) Frequenzen für die Nutzung durch Küstenfunkstellen des Revier- und
 Hafenfunkdienstes werden nur dann zugeteilt, wenn die Zustimmung der
-Wasser- und Schifffahrtsverwaltung vorliegt.
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes vorliegt.
 
 
 #### § 58 Gemeinsame Frequenznutzung, Erprobung innovativer Technologien, kurzfristig auftretender Frequenzbedarf
@@ -4538,13 +4801,19 @@ derselben abzuschließen. Ändert sich dieser Preis während der
 Inanspruchnahme des Dienstes, so ist vor Beginn des neuen
 Tarifabschnitts der nach der Änderung zu zahlende Preis entsprechend
 der Sätze 1 und 2 anzusagen mit der Maßgabe, dass die Ansage auch
-während der Inanspruchnahme des Dienstes erfolgen kann. Die Sätze 1
-bis 3 gelten auch für sprachgestützte Auskunftsdienste und für
-Kurzwahl-Sprachdienste ab einem Preis von 2 Euro pro Minute oder pro
-Inanspruchnahme bei zeitunabhängiger Tarifierung. Die Sätze 1 bis 3
-gelten auch für sprachgestützte Neuartige Dienste ab einem Preis von 2
+während der Inanspruchnahme des Dienstes erfolgen kann. Beim Einsatz
+von Warteschleifen nach § 66g Absatz 1 Nummer 5 stellt weder der
+Beginn noch das Ende der Warteschleife eine Änderung des Preises im
+Sinne des Satzes 3 dar, wenn der vom Endnutzer im Sinne des Satzes 1
+zu zahlende Preis für den Tarifabschnitt nach der Warteschleife
+unverändert gegenüber dem Preis für den Tarifabschnitt vor der
+Warteschleife ist. Die Sätze 1 bis 4 gelten auch für sprachgestützte
+Auskunftsdienste und für Kurzwahl-Sprachdienste ab einem Preis von 2
 Euro pro Minute oder pro Inanspruchnahme bei zeitunabhängiger
-Tarifierung, soweit nach Absatz 4 nicht etwas Anderes bestimmt ist.
+Tarifierung. Die Sätze 1 bis 4 gelten auch für sprachgestützte
+Neuartige Dienste ab einem Preis von 2 Euro pro Minute oder pro
+Inanspruchnahme bei zeitunabhängiger Tarifierung, soweit nach Absatz 4
+nicht etwas Anderes bestimmt ist.
 
 (2) Bei Inanspruchnahme von Rufnummern für sprachgestützte
 Massenverkehrs-Dienste hat der Diensteanbieter dem Endnutzer den für
@@ -4690,9 +4959,58 @@ Bundesnetzagentur ihre Erkenntnisse den für den Vollzug der
 Gewerbeordnung zuständigen Stellen mit.
 
 
-#### § 66g (zukünftig in Kraft)
+#### § 66g Warteschleifen
 
-Tritt am 1.6.2013 in Kraft
+(1) Warteschleifen dürfen nur eingesetzt werden, wenn eine der
+folgenden Voraussetzungen erfüllt ist:
+
+1.  der Anruf erfolgt zu einer entgeltfreien Rufnummer,
+
+
+2.  der Anruf erfolgt zu einer ortsgebundenen Rufnummer oder einer
+    Rufnummer, die die Bundesnetzagentur den ortsgebundenen Rufnummern
+    nach Absatz 3 gleichgestellt hat,
+
+
+3.  der Anruf erfolgt zu einer Rufnummer für mobile Dienste (015, 016 oder
+    017),
+
+
+4.  für den Anruf gilt ein Festpreis pro Verbindung oder
+
+
+5.  der Anruf ist für die Dauer der Warteschleife für den Anrufer
+    kostenfrei, soweit es sich nicht um Kosten handelt, die bei Anrufen
+    aus dem Ausland für die Herstellung der Verbindung im Ausland
+    entstehen.
+
+
+
+
+(2) Beim ersten Einsatz einer Warteschleife im Rahmen des Anrufs, die
+nicht unter Absatz 1 Nummer 1 bis 3 fällt, hat der Angerufene
+sicherzustellen, dass der Anrufende mit Beginn der Warteschleife über
+ihre voraussichtliche Dauer und, unbeschadet der §§ 66a bis 66c,
+darüber informiert wird, ob für den Anruf ein Festpreis gilt oder der
+Angerufene gemäß Absatz 1 Nummer 5 für die Dauer des Einsatzes dieser
+Warteschleife für den Anrufer kostenfrei ist. Die Ansage kann mit
+Beginn der Bearbeitung vorzeitig beendet werden.
+
+(3) Die Bundesnetzagentur stellt auf Antrag des Zuteilungsnehmers
+Rufnummern den ortsgebundenen Rufnummern nach Absatz 1 Nummer 2 in
+Bezug auf den Einsatz von Warteschleifen gleich, wenn
+
+1.  der Angerufene vom Anrufer weder unmittelbar noch mittelbar über den
+    Anbieter von Telekommunikationsdiensten ein Entgelt für den Anruf zu
+    dieser Nummer erhält und Anrufe zu dieser Nummer in der Regel von den
+    am Markt verfügbaren Pauschaltarifen erfasst sind und
+
+
+2.  die Tarifierung dieser Rufnummer auch im Übrigen keine abweichende
+    Behandlung gegenüber den ortsgebundenen Rufnummern rechtfertigt.
+
+
+
 
 
 #### § 66h Wegfall des Entgeltanspruchs
@@ -4726,11 +5044,18 @@ und soweit
 
 
 6.  nach Maßgabe des § 66i Abs. 1 Satz 2 R-Gesprächsdienste mit Zahlungen
-    an den Anrufer angeboten werden oder
+    an den Anrufer angeboten werden,
 
 
 7.  nach Maßgabe des § 66i Abs. 2 ein Tag nach Eintrag in die Sperr-Liste
-    ein R-Gespräch zum gesperrten Anschluss erfolgt.
+    ein R-Gespräch zum gesperrten Anschluss erfolgt oder
+
+
+8.  der Angerufene entgegen § 66g Absatz 1 während des Anrufs eine oder
+    mehrere Warteschleifen einsetzt oder die Angaben nach § 66g Absatz 2
+    nicht, nicht vollständig oder nicht rechtzeitig gemacht werden. In
+    diesen Fällen entfällt die Entgeltzahlungspflicht des Anrufers für den
+    gesamten Anruf.
 
 
 
@@ -4891,17 +5216,21 @@ Straftat oder einer Ordnungswidrigkeit begründen, der
 Staatsanwaltschaft oder der Verwaltungsbehörde mit.
 
 
-### Abschnitt 3 - Wegerechte
+### Abschnitt 3 - Wegerechte und Mitnutzung
 
 
 
-#### § 68 Grundsatz der Benutzung öffentlicher Wege
+#### Unterabschnitt 1 - Wegerechte
+
+
+
+##### § 68 Grundsatz der Benutzung öffentlicher Wege
 
 (1) Der Bund ist befugt, Verkehrswege für die öffentlichen Zwecken
 dienenden Telekommunikationslinien unentgeltlich zu benutzen, soweit
 dadurch nicht der Widmungszweck der Verkehrswege dauernd beschränkt
 wird (Nutzungsberechtigung). Als Verkehrswege gelten öffentliche Wege,
-Plätze und Brücken sowie die öffentlichen Gewässer.
+Plätze, Brücken und Tunnel sowie die öffentlichen Gewässer.
 
 (2) Telekommunikationslinien sind so zu errichten und zu unterhalten,
 dass sie den Anforderungen der öffentlichen Sicherheit und Ordnung
@@ -4909,9 +5238,9 @@ sowie den anerkannten Regeln der Technik genügen. Beim Träger der
 Straßenbaulast kann beantragt werden, Glasfaserleitungen oder
 Leerrohrsysteme, die der Aufnahme von Glasfaserleitungen dienen, in
 Abweichung der Allgemeinen Technischen Bestimmungen für die Benutzung
-von Straßen durch Leitungen und Telekommunikationslinien (ATB) im Wege
-des Micro- oder Minitrenching zu verlegen. Dem Antrag ist
-stattzugeben, wenn
+von Straßen durch Leitungen und Telekommunikationslinien (ATB) in
+geringerer Verlegetiefe, wie im Wege des Micro- oder Minitrenching, zu
+verlegen. Dem Antrag ist stattzugeben, wenn
 
 1.  die Verringerung der Verlegetiefe nicht zu einer wesentlichen
     Beeinträchtigung des Schutzniveaus und
@@ -4931,17 +5260,24 @@ Die Sätze 2 und 3 finden keine Anwendung auf die Verlegung von
 Glasfaserleitungen oder Leerrohrsystemen in Bundesautobahnen und
 autobahnähnlich ausgebauten Bundesfernstraßen.
 
-(3) Die Verlegung neuer Telekommunikationslinien und die Änderung
-vorhandener Telekommunikationslinien bedürfen der schriftlichen
-Zustimmung der Träger der Wegebaulast. Bei der Verlegung oberirdischer
-Leitungen sind die Interessen der Wegebaulastträger, der Betreiber
-öffentlicher Telekommunikationsnetze und die städtebaulichen Belange
-abzuwägen. Soweit die Verlegung im Rahmen einer Gesamtbaumaßnahme
-koordiniert werden kann, die in engem zeitlichen Zusammenhang nach der
-Antragstellung auf Zustimmung durchgeführt wird, soll die Verlegung in
-der Regel unterirdisch erfolgen. Die Zustimmung kann mit
-Nebenbestimmungen versehen werden, die diskriminierungsfrei zu
-gestalten sind; die Zustimmung kann außerdem von der Leistung einer
+(3) Für die Verlegung oder die Änderung von Telekommunikationslinien
+ist die schriftliche oder elektronische Zustimmung des Trägers der
+Wegebaulast erforderlich. Die Zustimmung gilt nach Ablauf einer Frist
+von drei Monaten nach Eingang des vollständigen Antrags als erteilt.
+Die Frist kann um einen Monat verlängert werden, wenn dies wegen der
+Schwierigkeit der Angelegenheit gerechtfertigt ist. Die
+Fristverlängerung ist zu begründen und rechtzeitig mitzuteilen. Bei
+der Verlegung oberirdischer Leitungen sind die Interessen der
+Wegebaulastträger, der Betreiber öffentlicher Telekommunikationsnetze
+und die städtebaulichen Belange abzuwägen. In die Abwägung kann
+zugunsten einer Verlegung oberirdischer Leitungen insbesondere
+einfließen, dass vereinzelt stehende Gebäude oder Gebäudeansammlungen
+erschlossen werden sollen. Soweit die Verlegung im Rahmen einer
+Gesamtbaumaßnahme koordiniert werden kann, die in engem zeitlichen
+Zusammenhang nach der Antragstellung auf Zustimmung durchgeführt wird,
+soll die Verlegung in der Regel unterirdisch erfolgen. Die Zustimmung
+kann mit Nebenbestimmungen versehen werden, die diskriminierungsfrei
+zu gestalten sind; die Zustimmung kann außerdem von der Leistung einer
 angemessenen Sicherheit abhängig gemacht werden. Die Nebenbestimmungen
 dürfen nur die Art und Weise der Errichtung der
 Telekommunikationslinie sowie die dabei zu beachtenden Regeln der
@@ -4959,11 +5295,12 @@ der Telekommunikationslinie bzw. der für die Wahrnehmung der
 Gesellschaftsrechte zuständigen Verwaltungseinheit ist.
 
 
-#### § 69 Übertragung des Wegerechts
+##### § 69 Übertragung des Wegerechts
 
-(1) Der Bund überträgt die Nutzungsberechtigung nach § 68 Abs. 1 durch
-die Bundesnetzagentur auf schriftlichen Antrag an die Betreiber oder
-Eigentümer öffentlicher Telekommunikationsnetze.
+(1) Der Bund überträgt die Nutzungsberechtigung nach § 68 Absatz 1
+durch die Bundesnetzagentur auf Antrag an die Eigentümer oder
+Betreiber öffentlicher Telekommunikationsnetze oder öffentlichen
+Zwecken dienender Telekommunikationslinien.
 
 (2) In dem Antrag nach Absatz 1 ist das Gebiet zu bezeichnen, für das
 die Nutzungsberechtigung übertragen werden soll. Die Bundesnetzagentur
@@ -4983,20 +5320,34 @@ zur Verfügung. Für Schäden, die daraus entstehen, dass Änderungen
 nicht rechtzeitig mitgeteilt wurden, haftet der Nutzungsberechtigte.
 
 
-#### § 70 Mitbenutzung
+##### § 70 Mitnutzung und Wegerecht
 
-Soweit die Ausübung des Rechts nach § 68 für die Verlegung weiterer
-Telekommunikationslinien nicht oder nur mit einem unverhältnismäßig
-hohen Aufwand möglich ist, besteht ein Anspruch auf Duldung der
-Mitbenutzung anderer für die Aufnahme von Telekommunikationskabeln
-vorgesehenen Einrichtungen, wenn die Mitbenutzung wirtschaftlich
-zumutbar ist und keine zusätzlichen größeren Baumaßnahmen erforderlich
-werden. In diesem Fall hat der Mitbenutzungsberechtigte an den
-Mitbenutzungsverpflichteten einen angemessenen geldwerten Ausgleich zu
-leisten.
+(1) Eigentümer oder Betreiber öffentlicher Versorgungsnetze dürfen
+ihre passiven Netzinfrastrukturen Eigentümern oder Betreibern
+öffentlicher Telekommunikationsnetze für den Ausbau digitaler
+Hochgeschwindigkeitsnetze zur Mitnutzung anbieten. Eigentümer oder
+Betreiber öffentlicher Telekommunikationsnetze dürfen ihre passiven
+Netzinfrastrukturen Eigentümern oder Betreibern anderer öffentlicher
+Versorgungsnetze für deren Netzausbau zur Mitnutzung anbieten.
+
+(2) Soweit die Ausübung der Nutzungsberechtigung nach § 68 für die
+Verlegung weiterer Telekommunikationslinien nicht oder nur mit einem
+unverhältnismäßig hohen Aufwand möglich ist, können andere passive
+Netzinfrastrukturen öffentlicher Versorgungsnetzbetreiber unter den
+Voraussetzungen der §§ 77d, 77e und 77g mitgenutzt werden. Dies gilt
+unabhängig davon, ob die Telekommunikationslinie zum Aufbau eines
+digitalen Hochgeschwindigkeitsnetzes genutzt werden kann.
+
+(3) Soweit die Nutzungsberechtigung nach § 68 für die Verlegung
+weiterer Telekommunikationslinien auf die Eisenbahninfrastruktur nicht
+anwendbar ist und es sich bei der Eisenbahninfrastruktur nicht um eine
+passive Netzinfrastruktur handelt, können Teile der
+Eisenbahninfrastruktur nach den §§ 77d, 77e und 77g mitgenutzt werden,
+soweit sie zum Ausbau von digitalen Hochgeschwindigkeitsnetzen
+geeignet sind. Die §§ 77a bis 77c gelten entsprechend.
 
 
-#### § 71 Rücksichtnahme auf Wegeunterhaltung und Widmungszweck
+##### § 71 Rücksichtnahme auf Wegeunterhaltung und Widmungszweck
 
 (1) Bei der Benutzung der Verkehrswege ist eine Erschwerung ihrer
 Unterhaltung und eine vorübergehende Beschränkung ihres Widmungszwecks
@@ -5015,7 +5366,7 @@ Instandsetzung zu vergüten und den durch die Arbeiten an den
 Telekommunikationslinien entstandenen Schaden zu ersetzen.
 
 
-#### § 72 Gebotene Änderung
+##### § 72 Gebotene Änderung
 
 (1) Ergibt sich nach Errichtung einer Telekommunikationslinie, dass
 sie den Widmungszweck eines Verkehrsweges nicht nur vorübergehend
@@ -5032,7 +5383,7 @@ Nutzungsberechtigten zu seiner Benutzung.
 Maßnahmen an der Telekommunikationslinie auf seine Kosten zu bewirken.
 
 
-#### § 73 Schonung der Baumpflanzungen
+##### § 73 Schonung der Baumpflanzungen
 
 (1) Die Baumpflanzungen auf und an den Verkehrswegen sind nach
 Möglichkeit zu schonen, auf das Wachstum der Bäume ist Rücksicht zu
@@ -5053,7 +5404,7 @@ verursachten Schaden und die Kosten der auf sein Verlangen
 vorgenommenen Ausästungen.
 
 
-#### § 74 Besondere Anlagen
+##### § 74 Besondere Anlagen
 
 (1) Die Telekommunikationslinien sind so auszuführen, dass sie
 vorhandene besondere Anlagen (der Wegeunterhaltung dienende
@@ -5087,25 +5438,36 @@ Eigentümers oder des sonstigen zur Nutzung Berechtigten des in
 Anspruch genommenen Weges erhalten haben.
 
 
-#### § 75 Spätere besondere Anlagen
+##### § 75 Spätere besondere Anlagen
 
 (1) Spätere besondere Anlagen sind nach Möglichkeit so auszuführen,
 dass sie die vorhandenen Telekommunikationslinien nicht störend
 beeinflussen.
 
-(2) Dem Verlangen auf Verlegung oder Veränderung einer
-Telekommunikationslinie muss auf Kosten des Nutzungsberechtigten
-stattgegeben werden, wenn sonst die Herstellung einer späteren
-besonderen Anlage unterbleiben müsste oder wesentlich erschwert werden
-würde, welche aus Gründen des öffentlichen Interesses, insbesondere
-aus volkswirtschaftlichen oder Verkehrsrücksichten, von den
-Wegeunterhaltspflichtigen oder unter ihrer überwiegenden Beteiligung
-ausgeführt werden soll. Dient eine kabelgebundene
-Telekommunikationslinie nicht lediglich dem Orts-, Vororts- oder
-Nachbarortsverkehr, kann ihre Verlegung nur dann verlangt werden, wenn
-die kabelgebundene Telekommunikationslinie ohne Aufwendung
-unverhältnismäßig hoher Kosten anderweitig ihrem Zweck entsprechend
-untergebracht werden kann.
+(2) Der Inhaber oder Betreiber einer späteren besonderen Anlage kann
+vom Nutzungsberechtigten verlangen, dass eine Telekommunikationslinie
+auf dessen Kosten verlegt oder verändert wird, wenn
+
+1.  ohne die Verlegung oder Veränderung die Errichtung der späteren
+    besonderen Anlage unterbleiben müsste oder wesentlich erschwert würde,
+
+
+2.  die Errichtung der späteren besonderen Anlage aus Gründen des
+    öffentlichen Interesses, insbesondere aus volkswirtschaftlichen
+    Gründen oder wegen Verkehrsrücksichten, von den
+    Wegeunterhaltspflichtigen oder unter ihrer überwiegenden Beteiligung
+    vollständig oder überwiegend ausgeführt werden soll und
+
+
+3.  die Kosten des Nutzungsberechtigten nicht unverhältnismäßig sind.
+
+
+
+Liegen nur die Voraussetzungen nach Satz 1 Nummer 1 und Nummer 2 vor,
+so kann eine Verlegung oder Veränderung auch dann verlangt werden,
+wenn der Inhaber oder Betreiber der späteren besonderen Anlage die
+Kosten teilweise erstattet, so dass die vom Nutzungsberechtigten zu
+tragenden Kosten verhältnismäßig ausfallen.
 
 (3) Muss wegen einer solchen späteren besonderen Anlage die schon
 vorhandene Telekommunikationslinie mit Schutzvorkehrungen versehen
@@ -5127,14 +5489,15 @@ erforderlichen Schutzvorkehrungen erwachsenden Kosten zu tragen.
 Absätze 1 bis 5 entsprechende Anwendung.
 
 
-#### § 76 Beeinträchtigung von Grundstücken und Gebäuden
+##### § 76 Beeinträchtigung von Grundstücken und Gebäuden
 
 (1) Der Eigentümer eines Grundstücks, das kein Verkehrsweg im Sinne
 des § 68 Absatz 1 Satz 2 ist, kann die Errichtung, den Betrieb und die
 Erneuerung von Telekommunikationslinien auf seinem Grundstück sowie
 den Anschluss der auf dem Grundstück befindlichen Gebäude an
-öffentliche Telekommunikationsnetze der nächsten Generation insoweit
-nicht verbieten, als
+öffentliche digitale Hochgeschwindigkeitsnetze und öffentliche
+Telekommunikationsnetze der nächsten Generation insoweit nicht
+verbieten, als
 
 1.  auf dem Grundstück einschließlich der Gebäudeanschlüsse eine durch ein
     Recht gesicherte Leitung oder Anlage auch die Errichtung, den Betrieb
@@ -5166,184 +5529,819 @@ Eigentümer des Leitungsnetzes auf seine Kosten den Schaden zu
 beseitigen. § 840 Abs. 1 des Bürgerlichen Gesetzbuchs findet
 Anwendung.
 
+(3) Soweit die Durchführung von nach Absatz 1 zu duldenden Maßnahmen
+nicht oder nur mit einem unverhältnismäßig hohen Aufwand möglich ist,
+können bestehende passive Netzinfrastrukturen Dritter unter den
+Voraussetzungen der §§ 77d, 77e und 77g mitgenutzt werden.
 
-#### § 77 Ersatzansprüche
+
+##### § 77 Ersatzansprüche
 
 Die Verjährung der auf den §§ 70 bis 76 beruhenden Ansprüche richtet
 sich nach den Regelungen über die regelmäßige Verjährung nach dem
 Bürgerlichen Gesetzbuch.
 
 
-#### § 77a Gemeinsame Nutzung von Infrastrukturen durch Betreiber öffentlicher Telekommunikationsnetze
-
-(1) Die Bundesnetzagentur kann die gemeinsame Nutzung von
-Verkabelungen oder Kabelkanälen in Gebäuden oder bis zum ersten
-Konzentrations- oder Verteilerpunkt, sofern dieser außerhalb des
-Gebäudes liegt, durch Betreiber öffentlicher Telekommunikationsnetze
-folgenden Personen gegenüber anordnen:
-
-1.  Telekommunikationsnetzbetreibern, die über eine Nutzungsberechtigung
-    nach § 69 Absatz 1 in Verbindung mit § 68 Absatz 1 oder über eine
-    sonstige Berechtigung verfügen, Einrichtungen auf, über oder unter
-    öffentlichen oder privaten Grundstücken zu errichten oder zu
-    installieren, oder
-
-
-2.  Telekommunikationsnetzbetreibern, die ein Verfahren zur Enteignung
-    oder Nutzung von Grundstücken in Anspruch nehmen können, oder
-
-
-3.  den Eigentümern von Verkabelungen oder Kabelkanälen.
+#### Unterabschnitt 2 - Mitnutzung öffentlicher Versorgungsnetze
 
 
 
-Die Anordnung kann getroffen werden, wenn eine Vervielfachung der
-Infrastruktur wirtschaftlich ineffizient oder praktisch unmöglich
-wäre. Vor dem Erlass der Anordnung gibt die Bundesnetzagentur allen
-interessierten Kreisen die Gelegenheit, innerhalb angemessener Zeit
+##### § 77a Infrastrukturatlas der zentralen Informationsstelle des Bundes
+
+(1) Die Bundesnetzagentur führt als zentrale Informationsstelle des
+Bundes einen Infrastrukturatlas, der Folgendes bereitstellt:
+
+1.  eine gebietsbezogene, Planungszwecken dienende Übersicht über
+    Einrichtungen, die zu Telekommunikationszwecken genutzt werden können,
+    nach den Absätzen 2 bis 4,
+
+
+2.  detaillierte Informationen nach § 77b Absatz 3 für die Mitnutzung
+    passiver Netzinfrastrukturen öffentlicher Versorgungsnetze gemäß den
+    §§ 77d bis 77g, soweit sie der Bundesnetzagentur gemäß § 77b Absatz 5
+    für diese Zwecke zur Verfügung gestellt wurden,
+
+
+3.  Informationen nach § 77h Absatz 3 für die Koordination von Bauarbeiten
+    an öffentlichen Versorgungsnetzen gemäß § 77i, soweit sie der
+    Bundesnetzagentur nach § 77h Absatz 5 und 6 für diese Zwecke zur
+    Verfügung gestellt wurden.
+
+
+
+
+(2) Die Bundesnetzagentur kann von Eigentümern oder Betreibern
+öffentlicher Versorgungsnetze, die über Einrichtungen verfügen, die zu
+Telekommunikationszwecken genutzt werden können, diejenigen
+Informationen verlangen, die für die Erstellung einer detaillierten
+Übersicht nach Absatz 1 Nummer 1 über Art, gegenwärtige Nutzung und
+geografische Lage des Standortes und der Leitungswege dieser
+Einrichtungen erforderlich sind. § 127 Absatz 2 bis 10 gilt
+entsprechend. Zu den Einrichtungen gemäß Satz 1 zählen insbesondere
+alle passiven Netzinfrastrukturen.
+
+(3) Die Bundesnetzagentur kann den am Ausbau von öffentlichen
+Versorgungsnetzen Beteiligten Einsicht in die Übersicht nach Absatz 1
+Nummer 1 gewähren, soweit mit dem Ausbauvorhaben Einrichtungen
+geschaffen werden sollen, die zu Telekommunikationszwecken genutzt
+werden können. Zu den am Ausbau von öffentlichen Versorgungsnetzen
+Beteiligten gehören insbesondere Gebietskörperschaften, Eigentümer und
+Betreiber öffentlicher Versorgungsnetze sowie deren Auftragnehmer.
+Gebietskörperschaften haben für allgemeine Planungs- und Förderzwecke
+einen Anspruch auf Einsichtnahme in den Infrastrukturatlas nach Absatz
+1\. Näheres regelt die Bundesnetzagentur in Einsichtnahmebedingungen,
+die der vorherigen Zustimmung des Bundesministeriums für Verkehr und
+digitale Infrastruktur bedürfen. Die Einsichtnahmebedingungen haben
+insbesondere der Sensitivität der erfassten Daten und dem zu
+erwartenden Verwaltungsaufwand Rechnung zu tragen. Die
+Einsichtnahmeberechtigten haben die Vertraulichkeit nach § 77m zu
+wahren.
+
+(4) Von einer Aufnahme der nach Absatz 2 erhaltenen Informationen in
+die Übersicht nach Absatz 1 Nummer 1 ist abzusehen, soweit konkrete
+Anhaltspunkte dafür vorliegen, dass
+
+1.  die Einsichtnahme nach Absatz 3 die Sicherheit und Integrität der
+    Einrichtung oder die öffentliche Sicherheit oder die öffentliche
+    Gesundheit gefährdet,
+
+
+2.  die Einsichtnahme nach Absatz 3 die Vertraulichkeit gemäß § 77m
+    verletzt,
+
+
+3.  Teile einer Infrastruktur betroffen sind, die durch Gesetz oder
+    aufgrund eines Gesetzes als kritische Infrastrukturen bestimmt worden
+    und nachweislich besonders schutzbedürftig und für die
+    Funktionsfähigkeit der kritischen Infrastruktur maßgeblich sind, oder
+
+
+4.  Teile öffentlicher Versorgungsnetze betroffen sind, die durch den Bund
+    zur Verwirklichung einer sicheren Behördenkommunikation genutzt
+    werden.
+
+
+
+In diesen Fällen sind für die jeweiligen Gebiete, in denen sich die
+Einrichtungen befinden, Informationen im Sinne des § 77b Absatz 3
+Nummer 3 aufzunehmen.
+
+
+##### § 77b Informationen über passive Netzinfrastrukturen
+
+(1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
+können bei Eigentümern oder Betreibern öffentlicher Versorgungsnetze
+für Zwecke des Ausbaus digitaler Hochgeschwindigkeitsnetze die
+Erteilung von Informationen über die passive Netzinfrastruktur ihrer
+öffentlichen Versorgungsnetze beantragen. Im Antrag ist das Gebiet
+anzugeben, das mit digitalen Hochgeschwindigkeitsnetzen erschlossen
+werden soll.
+
+(2) Eigentümer oder Betreiber öffentlicher Versorgungsnetze erteilen
+Antragstellern nach Absatz 1 innerhalb von zwei Monaten nach dem Tag
+des Antragseingangs die beantragten Informationen. Die Erteilung
+erfolgt unter verhältnismäßigen, diskriminierungsfreien und
+transparenten Bedingungen.
+
+(3) Die Informationen über passive Netzinfrastrukturen öffentlicher
+Versorgungsnetze nach Absatz 2 müssen mindestens folgende Angaben
+enthalten:
+
+1.  die geografische Lage des Standortes und der Leitungswege der passiven
+    Netzinfrastrukturen,
+
+
+2.  die Art und gegenwärtige Nutzung der passiven Netzinfrastrukturen und
+
+
+3.  die Kontaktdaten eines oder mehrerer Ansprechpartner beim Eigentümer
+    oder Betreiber des öffentlichen Versorgungsnetzes.
+
+
+
+
+(4) Der Antrag nach Absatz 1 kann ganz oder teilweise abgelehnt
+werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
+
+1.  eine Erteilung der Informationen die Sicherheit oder Integrität der
+    Versorgungsnetze, die öffentliche Sicherheit oder die öffentliche
+    Gesundheit gefährdet,
+
+
+2.  durch die Erteilung der Informationen die Vertraulichkeit gemäß § 77m
+    verletzt wird,
+
+
+3.  von dem Antrag Teile einer kritischen Infrastruktur, insbesondere
+    deren Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit der kritischen
+    Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen
+    Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige
+    Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund
+    eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
+
+
+4.  ein Ablehnungsgrund für eine Mitnutzung nach § 77g Absatz 2 vorliegt.
+
+
+
+
+(5) Werden nach Absatz 1 beantragte Informationen bereits von der
+Bundesnetzagentur als zentraler Informationsstelle gemäß § 77a Absatz
+1 bereitgestellt, genügt anstelle einer Erteilung der Informationen
+durch den Eigentümer oder Betreiber des öffentlichen Versorgungsnetzes
+ein Hinweis an den Antragsteller, dass die Informationen nach Absatz 6
+einsehbar sind. Der Eigentümer oder Betreiber des öffentlichen
+Versorgungsnetzes kann der Bundesnetzagentur die Informationen über
+die passiven Netzinfrastrukturen seines Versorgungsnetzes zur
+Bereitstellung gemäß § 77a Absatz 1 im Rahmen der hierfür von der
+Bundesnetzagentur vorgegebenen Bedingungen zur Verfügung stellen.
+
+(6) Die Bundesnetzagentur macht die nach Absatz 5 erhaltenen
+Informationen den Eigentümern oder Betreibern öffentlicher
+Telekommunikationsnetze, dem Bund, den Gebietskörperschaften der
+Länder und der Kommunen sowie dem Bundesministerium für Verkehr und
+digitale Infrastruktur unverzüglich zugänglich. Dies erfolgt
+elektronisch unter verhältnismäßigen, diskriminierungsfreien und
+transparenten Bedingungen. Näheres regelt die Bundesnetzagentur in
+Einsichtnahmebedingungen, die der vorherigen Zustimmung des
+Bundesministeriums für Verkehr und digitale Infrastruktur bedürfen.
+Die Einsichtnahmebedingungen haben insbesondere der Sensitivität der
+erfassten Daten und dem zu erwartenden Verwaltungsaufwand Rechnung zu
+tragen.
+
+(7) Die Bundesnetzagentur kann die nach Absatz 5 erhaltenen
+Informationen auch für die Bereitstellung einer gebietsbezogenen
+Übersicht gemäß § 77a Absatz 1 Nummer 1 verwenden.
+
+
+##### § 77c Vor-Ort-Untersuchung passiver Netzinfrastrukturen
+
+(1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
+können bei den Eigentümern oder Betreibern öffentlicher
+Versorgungsnetze eine Vor-Ort-Untersuchung der passiven
+Netzinfrastrukturen beantragen. Aus dem Antrag muss hervorgehen,
+welche Netzkomponenten von dem Ausbau digitaler
+Hochgeschwindigkeitsnetze betroffen sind.
+
+(2) Eigentümer oder Betreiber öffentlicher Versorgungsnetze müssen
+zumutbaren Anträgen nach Absatz 1 innerhalb eines Monats ab dem Tag
+des Antragseingangs entsprechen. Ein Antrag ist insbesondere dann
+zumutbar, wenn die Untersuchung für eine gemeinsame Nutzung passiver
+Netzinfrastrukturen oder die Koordinierung von Bauarbeiten
+erforderlich ist. Die Gewährung hat unter verhältnismäßigen,
+diskriminierungsfreien und transparenten Bedingungen zu erfolgen.
+Dabei sind die jeweiligen besonderen Sicherheitserfordernisse des
+öffentlichen Versorgungsnetzes zu beachten.
+
+(3) Der Antrag nach Absatz 1 kann ganz oder teilweise abgelehnt
+werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
+
+1.  eine Vor-Ort-Untersuchung die Sicherheit oder Integrität der
+    öffentlichen Versorgungsnetze oder die öffentliche Sicherheit oder die
+    öffentliche Gesundheit gefährdet,
+
+
+2.  durch die Vor-Ort-Untersuchung die Vertraulichkeit gemäß § 77m
+    verletzt wird,
+
+
+3.  von dem Antrag Teile einer kritischen Infrastruktur, insbesondere
+    deren Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit der kritischen
+    Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen
+    Versorgungsnetzes zur Durchführung der Vor-Ort-Untersuchung
+    unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz
+    oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen,
+    oder
+
+
+4.  ein Versagungsgrund für eine Mitnutzung nach § 77g Absatz 2 oder eine
+    Koordinierung von Bauarbeiten nach § 77i Absatz 5 vorliegt oder die
+    Koordinierung von Bauarbeiten unzumutbar ist.
+
+
+
+
+(4) Die für die Vor-Ort-Untersuchung erforderlichen und angemessenen
+Kosten trägt der Antragsteller. Dazu zählen insbesondere die Kosten
+der Vorbereitung, der Absicherung und der Durchführung der Vor-Ort-
+Untersuchung.
+
+
+##### § 77d Mitnutzung öffentlicher Versorgungsnetze
+
+(1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
+können bei den Eigentümern oder Betreibern öffentlicher
+Versorgungsnetze die Mitnutzung der passiven Netzinfrastrukturen der
+öffentlichen Versorgungsnetze für den Einbau von Komponenten digitaler
+Hochgeschwindigkeitsnetze beantragen. Der Antrag muss folgende Angaben
+enthalten:
+
+1.  eine detaillierte Beschreibung des Projekts und der Komponenten des
+    öffentlichen Versorgungsnetzes, für die die Mitnutzung beantragt wird,
+
+
+2.  einen genauen Zeitplan für die Umsetzung der beantragten Mitnutzung
+    und
+
+
+3.  die Angabe des Gebiets, das mit digitalen Hochgeschwindigkeitsnetzen
+    erschlossen werden soll.
+
+
+
+
+(2) Eigentümer oder Betreiber öffentlicher Versorgungsnetze müssen
+Antragstellern nach Absatz 1 innerhalb von zwei Monaten nach
+Antragseingang ein Angebot über die Mitnutzung ihrer passiven
+Netzinfrastrukturen für den Einbau von Komponenten digitaler
+Hochgeschwindigkeitsnetze unterbreiten. Das Angebot über die
+Mitnutzung hat insbesondere Folgendes zu enthalten:
+
+1.  faire und angemessene Bedingungen für die Mitnutzung, insbesondere in
+    Bezug auf den Preis für die Bereitstellung und Nutzung des
+    Versorgungsnetzes sowie in Bezug auf die zu leistenden Sicherheiten
+    und Vertragsstrafen,
+
+
+2.  die operative und organisatorische Umsetzung der Mitnutzung; die
+    Umsetzung umfasst die Art und Weise des Einbaus der Komponenten
+    digitaler Hochgeschwindigkeitsnetze, die Dokumentationspflichten und
+    den Zeitpunkt oder den Zeitraum der Bauarbeiten,
+
+
+3.  die Verantwortlichkeiten einschließlich der Möglichkeit, Dritte zu
+    beauftragen.
+
+
+
+Das Angebot kann besondere Vereinbarungen zur Haftung beim Einbau der
+Netzkomponenten und zu Instandhaltungen, Änderungen, Erweiterungen,
+Verlegungen und Störungen enthalten.
+
+(3) Die Mitnutzung ist so auszugestalten, dass sie den Anforderungen
+der öffentlichen Sicherheit und der öffentlichen Gesundheit sowie den
+anerkannten Regeln der Technik genügt.
+
+(4) Eigentümer oder Betreiber öffentlicher Versorgungsnetze haben
+geschlossene Verträge über Mitnutzungen innerhalb von zwei Monaten
+nach deren Abschluss der Bundesnetzagentur zur Kenntnis zu geben.
+
+(5) Eigentümer oder Betreiber öffentlicher Versorgungsnetze können
+Standardangebote für Mitnutzungen über die Bundesnetzagentur als
+zentrale Informationsstelle veröffentlichen.
+
+
+##### § 77e Umfang des Mitnutzungsanspruchs
+
+(1) Die Mitnutzung eines Elektrizitätsversorgungsnetzes umfasst auch
+Dachständer, Giebelanschlüsse und die Hauseinführung.
+
+(2) Soweit es für den Betrieb des öffentlich zugänglichen
+Telekommunikationsnetzes notwendig ist, muss der Betreiber des
+Elektrizitätsversorgungsnetzes entgeltlich einen Anschluss zum Bezug
+des Betriebsstroms für die eingebauten Komponenten des digitalen
+Hochgeschwindigkeitsnetzes zur Verfügung stellen.
+
+
+##### § 77f Einnahmen aus Mitnutzungen
+
+Eigentümer oder Betreiber öffentlicher Versorgungsnetze können
+Einnahmen aus Mitnutzungen, die über die Kosten im Sinne des § 77n
+Absatz 2 Satz 2 hinausgehen und sich für den Eigentümer oder Betreiber
+des öffentlichen Versorgungsnetzes durch die Ermöglichung der
+Mitnutzung seiner passiven Netzinfrastrukturen ergeben, von der
+Berechnungsgrundlage für Endnutzertarife ihrer Haupttätigkeit
+ausnehmen.
+
+
+##### § 77g Ablehnung der Mitnutzung, Versagungsgründe
+
+(1) Gibt der Eigentümer oder Betreiber des öffentlichen
+Versorgungsnetzes kein Angebot über die Mitnutzung ab, so hat er
+innerhalb der in § 77d Absatz 2 Satz 1 genannten Frist dem
+Antragsteller nachzuweisen, dass einer Mitnutzung objektive,
+transparente und verhältnismäßige Gründe entgegenstehen.
+
+(2) Der Antrag auf Mitnutzung darf nur abgelehnt werden, wenn einer
+der folgenden Gründe vorliegt:
+
+1.  die fehlende technische Eignung der passiven Netzinfrastrukturen für
+    die beabsichtigte Unterbringung der Komponenten digitaler
+    Hochgeschwindigkeitsnetze,
+
+
+2.  der zum Zeitpunkt des Antragseingangs fehlende oder der zukünftig
+    fehlende Platz für die beabsichtigte Unterbringung der Komponenten
+    digitaler Hochgeschwindigkeitsnetze im öffentlichen Versorgungsnetz;
+    den zukünftig fehlenden Platz hat der Eigentümer oder Betreiber des
+    öffentlichen Versorgungsnetzes anhand der Investitionsplanung für die
+    nächsten fünf Jahre ab Antragstellung konkret darzulegen,
+
+
+3.  konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die
+    öffentliche Sicherheit oder die öffentliche Gesundheit gefährdet,
+    wobei von konkreten Anhaltspunkten für die Gefährdung der öffentlichen
+    Sicherheit auszugehen ist, soweit es sich bei den mitzunutzenden
+    Teilen eines öffentlichen Versorgungsnetzes um solche handelt, die
+    durch den Bund zur Verwirklichung einer sicheren Behördenkommunikation
+    genutzt werden,
+
+
+4.  konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die
+    Integrität oder Sicherheit bereits bestehender öffentlicher
+    Versorgungsnetze, insbesondere nationaler kritischer Infrastrukturen,
+    gefährdet; bei kritischen Infrastrukturen liegen konkrete
+    Anhaltspunkte für eine solche Gefährdung vor, soweit von dem Antrag
+    Teile einer kritischen Infrastruktur, insbesondere die
+    Informationstechnik kritischer Infrastrukturen, betroffen sind, die
+    nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit
+    der kritischen Infrastruktur maßgeblich sind, und der Betreiber die
+    Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes
+    auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen
+    ermöglichen kann,
+
+
+5.  Anhaltspunkte für eine zu erwartende erhebliche Störung des
+    Versorgungsdienstes durch die geplanten Telekommunikationsdienste,
+
+
+6.  die Verfügbarkeit tragfähiger Alternativen zur beantragten Mitnutzung
+    passiver Netzinfrastrukturen, soweit der Eigentümer oder Betreiber des
+    öffentlichen Versorgungsnetzes diese Alternativen anbietet, sie sich
+    für die Bereitstellung digitaler Hochgeschwindigkeitsnetze eignen und
+    die Mitnutzung zu fairen und angemessenen Bedingungen gewährt wird;
+    als Alternativen können geeignete Vorleistungsprodukte für
+    Telekommunikationsdienste, der Zugang zu bestehenden
+    Telekommunikationsnetzen oder die Mitnutzung anderer als der
+    beantragten passiven Netzinfrastrukturen angeboten werden,
+
+
+7.  der Überbau von bestehenden Glasfasernetzen, die einen
+    diskriminierungsfreien, offenen Netzzugang zur Verfügung stellen.
+
+
+
+
+
+##### § 77h Informationen über Bauarbeiten an öffentlichen Versorgungsnetzen
+
+(1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
+können bei den Eigentümern oder Betreibern öffentlicher
+Versorgungsnetze die Erteilung von Informationen über geplante oder
+laufende Bauarbeiten an öffentlichen Versorgungsnetzen beantragen, um
+eine Koordinierung dieser Bauarbeiten mit Bauarbeiten zum Ausbau
+digitaler Hochgeschwindigkeitsnetze zu prüfen. Der Antrag muss
+erkennen lassen, in welchem Gebiet der Einbau von Komponenten
+digitaler Hochgeschwindigkeitsnetze vorgesehen ist.
+
+(2) Eigentümer oder Betreiber öffentlicher Versorgungsnetze erteilen
+Antragstellern nach Absatz 1 innerhalb von zwei Wochen ab dem Tag des
+Antragseingangs die beantragten Informationen. Die Erteilung erfolgt
+unter verhältnismäßigen, diskriminierungsfreien und transparenten
+Bedingungen.
+
+(3) Die Informationen müssen folgende Angaben zu laufenden und
+geplanten Bauarbeiten an passiven Netzinfrastrukturen öffentlicher
+Versorgungsnetze enthalten, für die bereits eine Genehmigung erteilt
+wurde oder ein Genehmigungsverfahren anhängig ist:
+
+1.  die geografische Lage des Standortes und die Art der Bauarbeiten,
+
+
+2.  die betroffenen Netzkomponenten,
+
+
+3.  den geschätzten Beginn und die geplante Dauer der Bauarbeiten und
+
+
+4.  Kontaktdaten eines oder mehrerer Ansprechpartner des Eigentümers oder
+    Betreibers des öffentlichen Versorgungsnetzes.
+
+
+
+Ist innerhalb von sechs Monaten nach Eingang des Antrages auf
+Erteilung der Informationen ein Antrag auf Genehmigung der Bauarbeiten
+vorgesehen, so müssen auch zu diesen Bauarbeiten die Informationen
+nach den Absätzen 2 und 3 erteilt werden.
+
+(4) Der Antrag nach Absatz 1 kann ganz oder teilweise abgelehnt
+werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
+
+1.  die Sicherheit oder Integrität der Versorgungsnetze oder die
+    öffentliche Sicherheit oder die öffentliche Gesundheit durch Erteilung
+    der Informationen gefährdet wird,
+
+
+2.  durch die Erteilung die Vertraulichkeit gemäß § 77m verletzt wird,
+
+
+3.  Bauarbeiten betroffen sind, deren anfänglich geplante Dauer acht
+    Wochen nicht überschreitet,
+
+
+4.  von dem Antrag Teile einer kritischen Infrastruktur, insbesondere
+    deren Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit der kritischen
+    Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen
+    Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige
+    Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund
+    eines Gesetzes auferlegten Schutzpflichten zu erfüllen,
+
+
+5.  die Koordinierung von Bauarbeiten unzumutbar ist oder
+
+
+6.  ein Versagungsgrund für eine Koordinierung von Bauarbeiten nach § 77i
+    Absatz 5 vorliegt.
+
+
+
+
+(5) Anstelle einer Erteilung der Informationen genügt ein Verweis auf
+eine bereits erfolgte Veröffentlichung, wenn
+
+1.  der Bauherr die beantragten Informationen bereits selbst elektronisch
+    öffentlich zugänglich gemacht hat oder
+
+
+2.  der Zugang zu diesen Informationen bereits über die Bundesnetzagentur
+    als zentrale Informationsstelle nach § 77a Absatz 1 Nummer 3
+    gewährleistet ist.
+
+
+
+
+(6) Innerhalb der in Absatz 2 genannten Frist sind die Informationen
+auch der Bundesnetzagentur als zentraler Informationsstelle zu
+übermitteln. Die Bundesnetzagentur macht diese Informationen anderen
+Interessenten, die ein berechtigtes Interesse an der Einsichtnahme
+haben, in geeigneter Form zugänglich. Näheres regeln die
+Einsichtnahmebedingungen der Bundesnetzagentur.
+
+
+##### § 77i Koordinierung von Bauarbeiten und Mitverlegung
+
+(1) Eigentümer oder Betreiber öffentlicher Versorgungsnetze können mit
+Eigentümern oder Betreibern öffentlicher Telekommunikationsnetze im
+Hinblick auf den Ausbau der Komponenten von digitalen
+Hochgeschwindigkeitsnetzen Vereinbarungen über die Koordinierung von
+Bauarbeiten schließen.
+
+(2) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
+können bei den Eigentümern oder Betreibern öffentlicher
+Versorgungsnetze die Koordinierung von Bauarbeiten beantragen. Im
+Antrag sind Art und Umfang der zu koordinierenden Bauarbeiten und die
+zu errichtenden Komponenten digitaler Hochgeschwindigkeitsnetze zu
+benennen.
+
+(3) Eigentümer oder Betreiber öffentlicher Versorgungsnetze, die ganz
+oder teilweise aus öffentlichen Mitteln finanzierte Bauarbeiten direkt
+oder indirekt ausführen, haben zumutbaren Anträgen nach Absatz 2 zu
+transparenten und diskriminierungsfreien Bedingungen stattzugeben.
+Anträge sind insbesondere zumutbar, sofern
+
+1.  dadurch keine zusätzlichen Kosten für die ursprünglich geplanten
+    Bauarbeiten verursacht werden; eine geringfügige zeitliche Verzögerung
+    der Planung und geringfügige Mehraufwendungen für die Bearbeitung des
+    Koordinierungsantrags gelten nicht als zusätzliche Kosten der
+    ursprünglich geplanten Bauarbeiten,
+
+
+2.  die Kontrolle über die Koordinierung der Arbeiten nicht behindert
+    wird,
+
+
+3.  der Koordinierungsantrag so früh wie möglich, spätestens aber einen
+    Monat vor Einreichung des endgültigen Projektantrags bei der
+    zuständigen Genehmigungsbehörde gestellt wird und Bauarbeiten
+    betrifft, deren anfänglich geplante Dauer acht Wochen überschreitet.
+
+
+
+
+(4) Die Bundesnetzagentur veröffentlicht Grundsätze dafür, wie die
+Kosten, die mit der Koordinierung von Bauarbeiten verbunden sind, auf
+den Eigentümer oder Betreiber des öffentlichen
+Telekommunikationsnetzes umgelegt werden sollen. Die Bundesnetzagentur
+ist im Rahmen der Streitbeilegung nach § 77n an die veröffentlichten
+Grundsätze gebunden.
+
+(5) Der Antrag nach Absatz 2 kann ganz oder teilweise abgelehnt
+werden, soweit
+
+1.  von dem Antrag Teile einer kritischen Infrastruktur, insbesondere
+    deren Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit der kritischen
+    Infrastruktur maßgeblich sind, und
+
+
+2.  der Betreiber des öffentlichen Versorgungsnetzes zur Koordinierung der
+    Bauarbeiten unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm
+    durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten
+    zu erfüllen.
+
+
+
+
+(6) Eigentümer oder Betreiber öffentlicher Versorgungsnetze können im
+Rahmen von Bauarbeiten passive Netzinfrastrukturen sowie
+Glasfaserkabel mitverlegen, um eine Mitnutzung im Sinne dieses
+Abschnitts oder den Betrieb eines digitalen Hochgeschwindigkeitsnetzes
+zu ermöglichen.
+
+(7) Im Rahmen von ganz oder teilweise aus öffentlichen Mitteln
+finanzierten Bauarbeiten für die Bereitstellung von Verkehrsdiensten,
+deren anfänglich geplante Dauer acht Wochen überschreitet, ist
+sicherzustellen, dass geeignete passive Netzinfrastrukturen,
+ausgestattet mit Glasfaserkabeln, bedarfsgerecht mitverlegt werden, um
+den Betrieb eines digitalen Hochgeschwindigkeitsnetzes durch private
+Betreiber öffentlicher Telekommunikationsnetze zu ermöglichen. Im
+Rahmen der Erschließung von Neubaugebieten ist stets sicherzustellen,
+dass geeignete passive Netzinfrastrukturen, ausgestattet mit
+Glasfaserkabeln, mitverlegt werden.
+
+
+##### § 77j Allgemeine Informationen über Verfahrensbedingungen bei Bauarbeiten
+
+Die Bundesnetzagentur als zentrale Informationsstelle macht die
+relevanten Informationen zugänglich, welche die allgemeinen
+Bedingungen und Verfahren für die Erteilung von Genehmigungen für
+Bauarbeiten betreffen, die zum Zweck des Aufbaus der Komponenten
+digitaler Hochgeschwindigkeitsnetze notwendig sind. Diese
+Informationen schließen Angaben über Ausnahmen von
+Genehmigungspflichten ein.
+
+
+##### § 77k Netzinfrastruktur von Gebäuden
+
+(1) Betreiber öffentlicher Kommunikationsnetze dürfen ihr öffentliches
+Telekommunikationsnetz in den Räumen des Teilnehmers abschließen. Der
+Abschluss ist nur statthaft, wenn der Teilnehmer zustimmt und
+Eingriffe in Eigentumsrechte Dritter so geringfügig wie möglich
+erfolgen. Die Verlegung neuer Netzinfrastruktur ist nur statthaft,
+soweit keine Nutzung bestehender Netzinfrastruktur nach den Absätzen 2
+und 3 möglich ist, mit der der Betreiber seinen
+Telekommunikationsdienst ohne spürbare Qualitätseinbußen bis zum
+Teilnehmer bereitstellen kann. Soweit dies zum Netzabschluss
+erforderlich ist, ist der Gebäudeeigentümer dazu verpflichtet, dem
+Telekommunikationsnetzbetreiber auf Antrag den Anschluss aktiver
+Netzbestandteile an das Stromnetz zu ermöglichen. Die durch den
+Anschluss aktiver Netzbestandteile an das Stromnetz entstehenden
+Kosten hat der Telekommunikationsnetzbetreiber zu tragen.
+
+(2) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
+können, um ihr Netz in den Räumlichkeiten des Teilnehmers
+abzuschließen, bei den Eigentümern oder Betreibern von gebäudeinternen
+Komponenten öffentlicher Telekommunikationsnetze oder von
+gebäudeinternen passiven Netzinfrastrukturen am Standort des
+Teilnehmers die Mitnutzung der gebäudeinternen Netzinfrastruktur
+beantragen. Liegt der erste Konzentrations- oder Verteilerpunkt eines
+öffentlichen Telekommunikationsnetzes außerhalb des Gebäudes, so gilt
+Absatz 1 ab diesem Punkt entsprechend.
+
+(3) Wer über Netzinfrastrukturen in Gebäuden oder bis zum ersten
+Konzentrations- oder Verteilerpunkt eines öffentlichen
+Telekommunikationsnetzes verfügt, hat allen zumutbaren
+Mitnutzungsanträgen nach Absatz 2 zu fairen und diskriminierungsfreien
+Bedingungen, einschließlich der Mitnutzungsentgelte, stattzugeben,
+wenn eine Dopplung der Netzinfrastrukturen technisch unmöglich oder
+wirtschaftlich ineffizient ist.
+
+(4) Neu errichtete Gebäude, die über Anschlüsse für Endnutzer von
+Telekommunikationsdienstleistungen verfügen sollen, sind gebäudeintern
+bis zu den Netzabschlusspunkten mit hochgeschwindigkeitsfähigen
+passiven Netzinfrastrukturen sowie einem Zugangspunkt zu diesen
+passiven gebäudeinternen Netzkomponenten auszustatten.
+
+(5) Gebäude, die umfangreich renoviert werden und über Anschlüsse für
+Endnutzer von Telekommunikationsdienstleistungen verfügen sollen, sind
+gebäudeintern bis zu den Netzabschlusspunkten mit
+hochgeschwindigkeitsfähigen passiven Netzinfrastrukturen sowie einem
+Zugangspunkt zu diesen passiven gebäudeinternen Netzkomponenten
+auszustatten.
+
+(6) Einfamilienhäuser, Baudenkmäler, Ferienhäuser, Militärgebäude und
+Gebäude, die für Zwecke der nationalen Sicherheit genutzt werden,
+fallen nicht unter die Absätze 4 und 5.
+
+(7) Die zuständigen Behörden haben darüber zu wachen, dass die nach
+Absatz 4 bis 6 festgesetzten Anforderungen erfüllt werden. Soweit von
+der Verordnungsermächtigung des § 77o Absatz 4 Gebrauch gemacht wurde,
+berücksichtigen sie dabei die in der Rechtsverordnung festgesetzten
+Ausnahmen.
+
+
+##### § 77l Antragsform und Reihenfolge der Verfahren
+
+(1) Anträge der Eigentümer oder Betreiber öffentlicher
+Telekommunikationsnetze nach den §§ 77a bis 77d, 77h und 77i können
+schriftlich oder elektronisch gestellt werden.
+
+(2) Über vollständige Anträge hat der Verpflichtete in der Reihenfolge
+zu entscheiden, in der die Anträge bei ihm eingehen. Ein vollständiger
+Antrag liegt vor, wenn der Antragsteller alle entscheidungsrelevanten
+Informationen dargelegt hat.
+
+
+##### § 77m Vertraulichkeit der Verfahren
+
+Die Informationen, die im Rahmen der Verfahren dieses Unterabschnittes
+oder bei oder nach Verhandlungen oder Vereinbarungen gewonnen werden,
+dürfen nur für die Zwecke verwendet werden, für die sie bereitgestellt
+werden. Die Informationen dürfen nicht an Dritte weitergegeben werden,
+insbesondere nicht an andere Abteilungen, Tochtergesellschaften oder
+Geschäftspartner der an den Verhandlungen Beteiligten. Die
+Verfahrensbeteiligten haben die aus den Verhandlungen oder
+Vereinbarungen gewonnenen Betriebs- und Geschäftsgeheimnisse zu
+wahren.
+
+
+##### § 77n Fristen, Entgeltmaßstäbe und Regulierungsziele der nationalen Streitbeilegung
+
+(1) Gibt der Eigentümer oder Betreiber eines öffentlichen
+Versorgungsnetzes innerhalb der in § 77d Absatz 2 genannten Frist kein
+Angebot zur Mitnutzung ab oder kommt keine Einigung über die
+Bedingungen der Mitnutzung zustande, so kann jede Partei eine
+Entscheidung durch die Bundesnetzagentur als nationale
+Streitbeilegungsstelle nach § 132 in Verbindung mit § 134a beantragen.
+Die Bundesnetzagentur entscheidet verbindlich über die Rechte,
+Pflichten oder Versagungsgründe aus den §§ 77d, 77e und 77g innerhalb
+von vier Monaten nach Eingang des vollständigen Antrags.
+
+(2) Setzt die Bundesnetzagentur im Rahmen der Streitbeilegung nach
+Absatz 1 ein Mitnutzungsentgelt fest, so hat sie dieses fair und
+angemessen zu bestimmen. Grundlage für die Höhe des
+Mitnutzungsentgelts sind die zusätzlichen Kosten, die sich für den
+Eigentümer oder Betreiber des öffentlichen Versorgungsnetzes durch die
+Ermöglichung der Mitnutzung seiner passiven Netzinfrastrukturen
+ergeben. Auf diese Kosten gewährt die Bundesnetzagentur einen
+angemessenen Aufschlag als Anreiz für Eigentümer oder Betreiber
+öffentlicher Versorgungsnetze zur Gewährung der Mitnutzung.
+
+(3) Betrifft die Streitigkeit nach Absatz 1 die Mitnutzung eines
+öffentlichen Telekommunikationsnetzes, so berücksichtigt die
+Bundesnetzagentur neben Absatz 2 auch die in § 2 Absatz 2 genannten
+Regulierungsziele. Dabei stellt die Bundesnetzagentur sicher, dass
+Eigentümer und Betreiber des mitzunutzenden öffentlichen
+Telekommunikationsnetzes die Möglichkeit haben, ihre Kosten zu decken;
+sie berücksichtigt hierfür über die zusätzlichen Kosten und eine
+angemessene Verzinsung gemäß Absatz 2 hinaus auch die Folgen der
+beantragten Mitnutzung auf deren Geschäftsplan einschließlich der
+Investitionen in das mitgenutzte öffentliche Telekommunikationsnetz.
+
+(4) Sind Rechte, Pflichten oder Versagungsgründe streitig, die in den
+§§ 77b, 77c oder § 77h festgelegt sind, so kann jede Partei eine
+Entscheidung durch die Bundesnetzagentur als nationale
+Streitbeilegungsstelle nach § 132 in Verbindung mit § 134a beantragen.
+Die Bundesnetzagentur entscheidet verbindlich innerhalb von zwei
+Monaten.
+
+(5) Kommt in den Fällen des § 77i Absatz 2 und 3 innerhalb eines
+Monats ab dem Tag des Eingangs des Antrages bei dem Eigentümer oder
+Betreiber des öffentlichen Versorgungsnetzes keine Vereinbarung über
+die Koordinierung der Bauarbeiten zustande, so kann jede Partei die
+Bundesnetzagentur als nationale Streitbeilegungsstelle anrufen. Die
+Bundesnetzagentur legt in ihrer Entscheidung verbindlich faire und
+diskriminierungsfreie Bedingungen einschließlich der Entgelte der
+Koordinierungsvereinbarung fest. Sie entscheidet unverzüglich,
+spätestens aber innerhalb von zwei Monaten.
+
+(6) Kommt innerhalb von zwei Monaten keine Vereinbarung über die
+Mitnutzung nach § 77k Absatz 2 und 3 zustande, kann jede Partei eine
+Entscheidung durch die Bundesnetzagentur als nationale
+Streitbeilegungsstelle nach § 132 in Verbindung mit § 134a beantragen.
+Grundlage für die Bestimmung der Höhe eines Entgelts sind dabei die
+zusätzlichen Kosten, die sich für den Gebäudeeigentümer durch die
+Ermöglichung der Mitnutzung der Netzinfrastruktur des Gebäudes
+ergeben. Soweit der die Mitnutzung begehrende
+Telekommunikationsnetzbetreiber Investitionen zur Herstellung dieser
+Infrastruktur getätigt hat, kann er die Mitnutzung entgeltfrei
+beanspruchen, es sei denn, dass die Mitnutzung aufgrund besonderer
+technischer oder baulicher Gegebenheiten einen außergewöhnlichen
+Aufwand verursacht. Der Maßstab nach Satz 3 gilt nur für solche
+Investitionen, die erstmalig ab Inkrafttreten dieses Gesetzes getätigt
+werden. Die Bundesnetzagentur entscheidet verbindlich und
+unverzüglich, spätestens aber innerhalb von zwei Monaten.
+
+(7) Die Bundesnetzagentur kann die ihr in Absatz 1 Satz 2, Absatz 4
+Satz 2, Absatz 5 Satz 3 und Absatz 6 Satz 2 gesetzten Fristen für die
+Streitbeilegung bei außergewöhnlichen Umständen um höchstens zwei
+Monate verlängern; diese Umstände sind besonders und hinreichend zu
+begründen.
+
+
+##### § 77o Verordnungsermächtigungen
+
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
+Benehmen mit dem Bundesministerium für Wirtschaft und Energie passive
+Netzinfrastrukturen zu benennen, die von den in den §§ 77a bis 77c
+genannten Rechten und Pflichten ausgenommen sind. Die Ausnahmen sind
+hinreichend zu begründen. Sie dürfen nur darauf gestützt werden, dass
+der Schutz von Teilen kritischer Infrastrukturen betroffen ist oder
+dass die passiven Netzinfrastrukturen für die elektronische
+Kommunikation technisch ungeeignet sind. Soweit die Ausnahmen auf den
+Schutz von Teilen kritischer Infrastrukturen gestützt werden, bedarf
+die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des
+Innern. Das Bundesministerium für Verkehr und digitale Infrastruktur
+kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
+Bundesnetzagentur übertragen. Für eine Rechtsverordnung der
+Bundesnetzagentur gelten die Sätze 1 bis 4 entsprechend.
+
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, über die in § 77h Absatz 4 vorgesehenen Ausnahmen von den in §
+77h festgelegten Rechten und Pflichten hinausgehende Ausnahmen
+vorzusehen und Kategorien von Bauarbeiten zu benennen, die der
+Bundesnetzagentur zu melden sind. Solche Kategorien dürfen nur
+Bauarbeiten enthalten, deren anfänglich geplante Dauer acht Wochen
+überschreitet. Die Rechtsverordnung ist hinreichend zu begründen und
+kann im Umfang oder Wert geringfügige Bauarbeiten oder kritische
+Infrastrukturen ausnehmen. Soweit die Ausnahmen auf den Schutz von
+Teilen kritischer Infrastrukturen gestützt werden, bedarf die
+Rechtsverordnung des Einvernehmens mit dem Bundesministerium des
+Innern.
+
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, Ausnahmen von den in § 77i festgelegten Rechten und Pflichten
+vorzusehen. Die Ausnahmen können auf dem geringen Umfang und Wert der
+Bauarbeiten oder auf dem Schutz von Teilen kritischer Infrastrukturen
+beruhen. Soweit die Ausnahmen auf den Schutz von Teilen kritischer
+Infrastrukturen gestützt werden, bedarf die Rechtsverordnung des
+Einvernehmens mit dem Bundesministerium des Innern.
+
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung, die der
+Zustimmung des Bundesrates bedarf, Ausnahmen vom § 77k Absatz 4 und
+Absatz 5 vorzusehen. Die Rechtsverordnung ist hinreichend zu begründen
+und kann bestimmte Gebäudekategorien und umfangreiche Renovierungen
+ausnehmen, falls die Erfüllung der Pflichten unverhältnismäßig wäre.
+Die Unverhältnismäßigkeit kann insbesondere auf den voraussichtlichen
+Kosten für einzelne Eigentümer oder auf der spezifischen Art des
+Gebäudes beruhen.
+
+(5) Eigentümern und Betreibern öffentlicher Versorgungsnetze und
+interessierten Parteien ist die Gelegenheit zu geben, innerhalb eines
+Monats zum Entwurf einer Rechtsverordnung nach den Absätzen 1 bis 4
 Stellung zu nehmen.
 
-(2) Die Bundesnetzagentur setzt im Rahmen der Anordnung nach Absatz 1
-ein angemessenes Entgelt, das auch eine angemessene Risikoanpassung
-enthalten kann, fest.
-
-(3) Die Bundesnetzagentur kann von den
-Telekommunikationsnetzbetreibern sowie von Unternehmen und von
-juristischen Personen des öffentlichen Rechts, die über Einrichtungen
-verfügen, die zu Telekommunikationszwecken genutzt werden können,
-diejenigen Informationen verlangen, die für die Erstellung eines
-detaillierten Verzeichnisses über Art, Verfügbarkeit und geografische
-Lage dieser Einrichtungen erforderlich sind. Zu den Einrichtungen nach
-Satz 1 zählen unter anderem Gebäude, Gebäudezugänge, Verkabelungen
-oder Kabelkanäle in Gebäuden, Masten, Antennen, Türme und andere
-Trägerstrukturen, Leitungsrohre, Leerrohre, Einstiegsschächte und
-Verteilerkästen. Betrifft eine nach Satz 1 zu erteilende Information
-eine Einrichtung, bei deren Ausfall die Versorgung der Bevölkerung
-erheblich beeinträchtigt wird, ist von einer Aufnahme in das
-Verzeichnis abzusehen. Interessenten kann Einsicht in das Verzeichnis
-gewährt werden, falls die von der Bundesnetzagentur festgelegten
-Voraussetzungen für eine Einsichtnahme erfüllt sind. Dabei sind
-Betriebs- und Geschäftsgeheimnisse zu wahren.
-
-(4) Die von der Bundesnetzagentur getroffenen Maßnahmen nach den
-Absätzen 1 bis 3 müssen objektiv, transparent und verhältnismäßig sein
-und dürfen nicht diskriminieren.
+(6) Die Rechtsverordnungen der Absätze 1 bis 4 sind der Europäischen
+Kommission mitzuteilen.
 
 
-#### § 77b Alternative Infrastrukturen
+##### § 77p Genehmigungsfristen für Bauarbeiten
 
-(1) Unternehmen und juristische Personen des öffentlichen Rechts, die
-über Einrichtungen verfügen, die zum Auf- und Ausbau von Netzen der
-nächsten Generation genutzt werden können, sind verpflichtet,
-Betreibern öffentlicher Telekommunikationsnetze auf schriftliche
-Anfrage ein Angebot zur Mitnutzung dieser Einrichtungen gegen ein
-angemessenes Entgelt zu unterbreiten.
-
-(2) Kommt zwischen den Beteiligten eine Einigung nicht zustande, so
-kann jeder Beteiligte binnen einer Frist von vier Wochen ab Zugang der
-Anfrage bei der Bundesnetzagentur durch einen Antrag ein
-Schlichtungsverfahren einleiten.
-
-(3) Im Rahmen des Schlichtungsverfahrens ist der Antragsgegner
-verpflichtet, binnen einer von der Bundesnetzagentur zu bestimmenden
-Frist seine Einwendungen gegen das Mitnutzungsrecht oder das
-vorgeschlagene Entgelt darzulegen. Hierauf kann der Antragsteller
-innerhalb einer ebenfalls von der Bundesnetzagentur zu bestimmenden
-Frist antworten. Die Bundesnetzagentur kann die Beteiligten im
-Interesse einer gütlichen Einigung anhören. Ist eine Einigung nicht
-möglich, trifft die Bundesnetzagentur unter Abwägung der
-beiderseitigen Interessen eine Entscheidung (Schlichterspruch). Die
-Beteiligten sind zur Annahme des Schlichterspruchs nicht verpflichtet.
-Im Übrigen gilt für das Schlichtungsverfahren die Schlichtungsordnung
-der Bundesnetzagentur entsprechend.
-
-
-#### § 77c Mitnutzung von Bundesfernstraßen in der Baulast des Bundes
-
-(1) Der Bund als Träger der Straßenbaulast nach § 5 des
-Bundesfernstraßengesetzes hat auf schriftliche Anfrage den Betreibern
-öffentlicher Telekommunikationsnetze die Mitnutzung der Teile einer
-Bundesfernstraße zu gestatten, die zum Auf- und Ausbau von Netzen der
-nächsten Generation genutzt werden können. Die Mitnutzung ist so
-auszugestalten, dass sie den Anforderungen der öffentlichen Sicherheit
-und Ordnung sowie den anerkannten Regeln der Technik genügt. Die
-Mitnutzung und deren Abänderung bedürfen der schriftlichen Zustimmung
-des Trägers der Straßenbaulast. Die Zustimmung kann mit
-Nebenbestimmungen versehen werden, die diskriminierungsfrei zu
-gestalten sind; die Zustimmung kann außerdem von der Leistung einer
-angemessenen Sicherheit abhängig gemacht werden. Die Nebenbestimmungen
-dürfen nur die Art und Weise der Errichtung der Mitnutzung sowie die
-dabei zu beachtenden Regeln der Technik und die Sicherheit und
-Leichtigkeit des Verkehrs und die Verkehrssicherungspflichten regeln.
-§ 8 des Bundesfernstraßengesetzes bleibt unberührt. Für die Mitnutzung
-kann ein kostendeckendes Entgelt verlangt werden.
-
-(2) Kommt zwischen den Beteiligten eine Einigung nicht zustande, so
-gilt das Verfahren nach § 133 Absatz 1 und 4 entsprechend.
-
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung teilt
-der Bundesnetzagentur die für die Bearbeitung des Mitnutzungsantrags
-nach Absatz 1 zuständige Stelle mit. Die Bundesnetzagentur
-veröffentlicht diese Angaben im Amtsblatt und auf ihrer Internetseite.
-
-
-#### § 77d Mitnutzung von Bundeswasserstraßen
-
-(1) Der Bund als Eigentümer der Bundeswasserstraßen hat auf
-schriftliche Anfrage den Betreibern öffentlicher
-Telekommunikationsnetze die Mitnutzung der Teile einer
-Bundeswasserstraße zu gestatten, die zum Auf- und Ausbau von Netzen
-der nächsten Generation genutzt werden können. Die Mitnutzung ist so
-auszugestalten, dass sie den Anforderungen der öffentlichen Sicherheit
-und Ordnung sowie den anerkannten Regeln der Technik genügt. Die
-Mitnutzung und deren Abänderung bedürfen der schriftlichen Zustimmung
-des Eigentümers. Die Zustimmung kann mit Nebenbestimmungen versehen
-werden, die diskriminierungsfrei zu gestalten sind; die Zustimmung
-kann außerdem von der Leistung einer angemessenen Sicherheit abhängig
-gemacht werden. Die Nebenbestimmungen dürfen nur die Art und Weise der
-Errichtung der Mitnutzung sowie die dabei zu beachtenden Regeln der
-Technik und die Sicherheit und Leichtigkeit des Verkehrs und die
-Verkehrssicherungspflichten regeln. Für die Mitnutzung kann ein
-kostendeckendes Entgelt verlangt werden.
-
-(2) Kommt zwischen den Beteiligten eine Einigung nicht zustande, so
-gilt das Verfahren nach § 133 Absatz 1 und 4 entsprechend.
-
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung teilt
-der Bundesnetzagentur die für die Bearbeitung des Mitnutzungsantrags
-nach Absatz 1 zuständige Stelle mit. Die Bundesnetzagentur
-veröffentlicht diese Angaben im Amtsblatt und auf ihrer Internetseite.
-
-
-#### § 77e Mitnutzung von Eisenbahninfrastruktur
-
-(1) Eisenbahninfrastrukturunternehmen, die sich überwiegend in der
-Hand des Bundes oder eines mehrheitlich dem Bund gehörenden
-Unternehmens befinden, haben auf schriftliche Anfrage Betreibern
-öffentlicher Telekommunikationsnetze die Mitnutzung der Teile der
-Eisenbahninfrastruktur zu gestatten, die zum Auf- und Ausbau von
-Netzen der nächsten Generation genutzt werden können. Die Mitnutzung
-ist so auszugestalten, dass sie den Anforderungen der öffentlichen
-Sicherheit und Ordnung sowie den anerkannten Regeln der Technik
-genügt. Die Mitnutzung und deren Abänderung bedürfen der schriftlichen
-Zustimmung des Eisenbahninfrastrukturunternehmens. Die Zustimmung kann
-mit Bedingungen versehen werden, die diskriminierungsfrei zu gestalten
-sind; die Zustimmung kann außerdem von der Leistung einer angemessenen
-Sicherheit abhängig gemacht werden. Die Bedingungen dürfen nur die Art
-und Weise der Errichtung der Mitnutzung sowie die dabei zu beachtenden
-Regeln der Technik und die Sicherheit und Leichtigkeit des Verkehrs
-und die Verkehrssicherungspflichten regeln, um die Beeinträchtigung
-des Eisenbahnbetriebs weitestgehend zu reduzieren. Für die Mitnutzung
-kann ein kostendeckendes Entgelt verlangt werden.
-
-(2) Kommt zwischen den Beteiligten eine Einigung nicht zustande, so
-gilt das Verfahren nach § 133 Absatz 1 und 4 entsprechend. Die
-zuständige Eisenbahnaufsichtsbehörde ist Beteiligte im Verfahren.
-
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung teilt
-der Bundesnetzagentur die für Mitnutzungsanfragen nach Absatz 1
-zuständige Stelle mit. Die Bundesnetzagentur veröffentlicht diese
-Angaben im Amtsblatt und auf ihrer Internetseite.
+Genehmigungen für Bauarbeiten, die zum Zwecke des Aufbaus der
+Komponenten von digitalen Hochgeschwindigkeitsnetzen notwendig sind,
+sind innerhalb von drei Monaten nach Eingang eines vollständigen
+Antrags zu erteilen oder abzulehnen. Die Frist kann um einen Monat
+verlängert werden, wenn dies wegen der Schwierigkeit der Angelegenheit
+gerechtfertigt ist. Die Fristverlängerung ist zu begründen und
+rechtzeitig mitzuteilen.
 
 
 ## Teil 6 - Universaldienst
@@ -5703,13 +6701,15 @@ gegenüber ihrer Stellvertretung.
 Mit einer Funkanlage dürfen nur Nachrichten, die für den Betreiber der
 Funkanlage, Funkamateure im Sinne des Gesetzes über den Amateurfunk
 vom 23. Juni 1997 (BGBl. I S. 1494), die Allgemeinheit oder einen
-unbestimmten Personenkreis bestimmt sind, abgehört werden. Der Inhalt
-anderer als in Satz 1 genannter Nachrichten sowie die Tatsache ihres
-Empfangs dürfen, auch wenn der Empfang unbeabsichtigt geschieht, auch
-von Personen, für die eine Pflicht zur Geheimhaltung nicht schon nach
-§ 88 besteht, anderen nicht mitgeteilt werden. § 88 Abs. 4 gilt
-entsprechend. Das Abhören und die Weitergabe von Nachrichten auf Grund
-besonderer gesetzlicher Ermächtigung bleiben unberührt.
+unbestimmten Personenkreis bestimmt sind, abgehört oder in
+vergleichbarer Weise zur Kenntnis genommen werden. Der Inhalt anderer
+als in Satz 1 genannter Nachrichten sowie die Tatsache ihres Empfangs
+dürfen, auch wenn der Empfang unbeabsichtigt geschieht, auch von
+Personen, für die eine Pflicht zur Geheimhaltung nicht schon nach § 88
+besteht, anderen nicht mitgeteilt werden. § 88 Abs. 4 gilt
+entsprechend. Das Abhören oder die in vergleichbarer Weise erfolgende
+Kenntnisnahme und die Weitergabe von Nachrichten auf Grund besonderer
+gesetzlicher Ermächtigung bleiben unberührt.
 
 
 #### § 90 Missbrauch von Sende- oder sonstigen Telekommunikationsanlagen
@@ -5902,9 +6902,10 @@ gilt entsprechend.
 Ändern des Vertragsverhältnisses sowie dem Erbringen von
 Telekommunikationsdiensten die Vorlage eines amtlichen Ausweises
 verlangen, wenn dies zur Überprüfung der Angaben des Teilnehmers
-erforderlich ist. Er kann von dem Ausweis eine Kopie erstellen. Die
-Kopie ist vom Diensteanbieter unverzüglich nach Feststellung der für
-den Vertragsabschluss erforderlichen Angaben des Teilnehmers zu
+erforderlich ist. Die Pflicht nach § 111 Absatz 1 Satz 3 bleibt
+unberührt. Er kann von dem Ausweis eine Kopie erstellen. Die Kopie ist
+vom Diensteanbieter unverzüglich nach Feststellung der für den
+Vertragsabschluss erforderlichen Angaben des Teilnehmers zu
 vernichten. Andere als die nach Absatz 1 zulässigen Daten darf der
 Diensteanbieter dabei nicht verwenden.
 
@@ -6128,7 +7129,7 @@ und die selbst oder deren Mitarbeiter insoweit besonderen
 Verschwiegenheitsverpflichtungen unterliegen. Dies gilt nur, soweit
 die Bundesnetzagentur die angerufenen Anschlüsse in eine Liste
 aufgenommen hat. Der Beratung im Sinne des Satzes 1 dienen neben den
-in § 203 Abs. 1 Nr. 4 und 4a des Strafgesetzbuches genannten
+in § 203 Absatz 1 Nummer 4 und 5 des Strafgesetzbuches genannten
 Personengruppen insbesondere die Telefonseelsorge und die
 Gesundheitsberatung. Die Bundesnetzagentur nimmt die Inhaber der
 Anschlüsse auf Antrag in die Liste auf, wenn sie ihre
@@ -6151,10 +7152,39 @@ nach Absatz 1 Satz 3 oder Satz 4 abgegeben haben.
 
 #### § 100 Störungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten
 
-(1) Soweit erforderlich, darf der Diensteanbieter zum Erkennen,
-Eingrenzen oder Beseitigen von Störungen oder Fehlern an
-Telekommunikationsanlagen die Bestandsdaten und Verkehrsdaten der
-Teilnehmer und Nutzer erheben und verwenden.
+(1) Soweit erforderlich, darf der Diensteanbieter die Bestandsdaten
+und Verkehrsdaten der Teilnehmer und Nutzer sowie die Steuerdaten
+eines informationstechnischen Protokolls zur Datenübertragung, die
+unabhängig vom Inhalt eines Kommunikationsvorgangs übertragen oder auf
+den am Kommunikationsvorgang beteiligten Servern gespeichert werden
+und zur Gewährleistung der Kommunikation zwischen Empfänger und Sender
+notwendig sind, erheben und verwenden, um Störungen oder Fehler an
+Telekommunikationsanlagen zu erkennen, einzugrenzen oder zu
+beseitigen. Die Kommunikationsinhalte sind nicht Bestandteil der
+Steuerdaten eines informationstechnischen Protokolls zur
+Datenübertragung. Dies gilt auch für Störungen, die zu einer
+Einschränkung der Verfügbarkeit von Informations- und
+Kommunikationsdiensten oder zu einem unerlaubten Zugriff auf
+Telekommunikations- und Datenverarbeitungssysteme der Nutzer führen
+können. Die Daten sind unverzüglich zu löschen, sobald sie für die
+Beseitigung der Störung nicht mehr erforderlich sind. Eine Nutzung der
+Daten zu anderen Zwecken ist unzulässig. Soweit die Daten nicht
+automatisiert erhoben und verwendet werden, muss der betriebliche
+Datenschutzbeauftragte unverzüglich über die Verfahren und Umstände
+der Maßnahme informiert werden. Der Diensteanbieter muss dem
+betrieblichen Datenschutzbeauftragten, der Bundesnetzagentur und der
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit am
+Ende eines Quartals detailliert über die Verfahren und Umstände von
+Maßnahmen nach Satz 6 in diesem Zeitraum schriftlich berichten. Die
+Bundesnetzagentur leitet diese Informationen unverzüglich an das
+Bundesamt für Sicherheit in der Informationstechnik weiter. Der
+Betroffene ist von dem Diensteanbieter zu benachrichtigen, sofern
+dieser ermittelt werden kann. Wurden im Rahmen einer Maßnahme nach
+Satz 1 auch Steuerdaten eines informationstechnischen Protokolls zur
+Datenübertragung erhoben und verwendet, müssen die Berichte mindestens
+auch Angaben zum Umfang und zur Erforderlichkeit der Erhebung und
+Verwendung der Steuerdaten eines informationstechnischen Protokolls
+zur Datenübertragung enthalten.
 
 (2) Zur Durchführung von Umschaltungen sowie zum Erkennen und
 Eingrenzen von Störungen im Netz ist dem Betreiber der
@@ -6462,10 +7492,11 @@ selbst; die Entgeltlichkeit von Vorleistungen bleibt unberührt.
 hörbehinderte Endnutzer unter Verwendung eines Telefaxgerätes
 eingeleitet werden, gilt Absatz 1 entsprechend.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und
-dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung
-mit Zustimmung des Bundesrates Regelungen zu treffen
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium des Innern, dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
+Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit
+Zustimmung des Bundesrates Regelungen zu treffen
 
 1.  zu den Grundsätzen der Festlegung von Einzugsgebieten von
     Notrufabfragestellen und deren Unterteilungen durch die für den Notruf
@@ -6583,8 +7614,9 @@ angemessene technische Vorkehrungen und sonstige Maßnahmen zu treffen
 Insbesondere sind Maßnahmen zu treffen, um Telekommunikations- und
 Datenverarbeitungssysteme gegen unerlaubte Zugriffe zu sichern und
 Auswirkungen von Sicherheitsverletzungen für Nutzer oder für
-zusammengeschaltete Netze so gering wie möglich zu halten. Wer ein
-öffentliches Telekommunikationsnetz betreibt, hat Maßnahmen zu
+zusammengeschaltete Netze so gering wie möglich zu halten. Bei
+Maßnahmen nach Satz 2 ist der Stand der Technik zu berücksichtigen.
+Wer ein öffentliches Telekommunikationsnetz betreibt, hat Maßnahmen zu
 treffen, um den ordnungsgemäßen Betrieb seiner Netze zu gewährleisten
 und dadurch die fortlaufende Verfügbarkeit der über diese Netze
 erbrachten Dienste sicherzustellen. Technische Vorkehrungen und
@@ -6630,35 +7662,50 @@ so kann sie deren unverzügliche Beseitigung verlangen. Sofern sich die
 dem Sicherheitskonzept zugrunde liegenden Gegebenheiten ändern, hat
 der nach Satz 2 oder 3 Verpflichtete das Konzept anzupassen und der
 Bundesnetzagentur unter Hinweis auf die Änderungen erneut vorzulegen.
-Die Bundesnetzagentur kann die Umsetzung des Sicherheitskonzeptes
-überprüfen.
+Die Bundesnetzagentur überprüft regelmäßig die Umsetzung des
+Sicherheitskonzepts. Die Überprüfung soll mindestens alle zwei Jahre
+erfolgen.
 
 (5) Wer ein öffentliches Telekommunikationsnetz betreibt oder
 öffentlich zugängliche Telekommunikationsdienste erbringt, hat der
-Bundesnetzagentur eine Sicherheitsverletzung einschließlich Störungen
-von Telekommunikationsnetzen oder -diensten unverzüglich mitzuteilen,
-sofern hierdurch beträchtliche Auswirkungen auf den Betrieb der
-Telekommunikationsnetze oder das Erbringen von
-Telekommunikationsdiensten entstehen. Die Bundesnetzagentur kann von
-dem nach Satz 1 Verpflichteten einen detaillierten Bericht über die
-Sicherheitsverletzung und die ergriffenen Abhilfemaßnahmen verlangen.
-Erforderlichenfalls unterrichtet die Bundesnetzagentur das Bundesamt
-für Sicherheit in der Informationstechnik, die nationalen
-Regulierungsbehörden der anderen Mitgliedstaaten der Europäischen
-Union und die Europäische Agentur für Netz- und Informationssicherheit
-über die Sicherheitsverletzungen. Die Bundesnetzagentur kann die
-Öffentlichkeit informieren oder die nach Satz 1 Verpflichteten zu
-dieser Unterrichtung auffordern, wenn sie zu dem Schluss gelangt, dass
-die Bekanntgabe der Sicherheitsverletzung im öffentlichen Interesse
-liegt. Die Bundesnetzagentur legt der Kommission, der Europäischen
-Agentur für Netz- und Informationssicherheit und dem Bundesamt für
-Sicherheit in der Informationstechnik einmal pro Jahr einen
-zusammenfassenden Bericht über die eingegangenen Mitteilungen und die
-ergriffenen Abhilfemaßnahmen vor.
+Bundesnetzagentur und dem Bundesamt für Sicherheit in der
+Informationstechnik unverzüglich Beeinträchtigungen von
+Telekommunikationsnetzen und -diensten mitzuteilen, die
 
-(6) Die Bundesnetzagentur erstellt im Benehmen mit dem Bundesamt für
-Sicherheit in der Informationstechnik und dem Bundesbeauftragten für
-den Datenschutz und die Informationsfreiheit einen Katalog von
+1.  zu beträchtlichen Sicherheitsverletzungen führen oder
+
+
+2.  zu beträchtlichen Sicherheitsverletzungen führen können.
+
+
+
+Dies schließt Störungen ein, die zu einer Einschränkung der
+Verfügbarkeit der über diese Netze erbrachten Dienste oder einem
+unerlaubten Zugriff auf Telekommunikations- und
+Datenverarbeitungssysteme der Nutzer führen können. Die Meldung muss
+Angaben zu der Störung sowie zu den technischen Rahmenbedingungen,
+insbesondere der vermuteten oder tatsächlichen Ursache und zu der
+betroffenen Informationstechnik enthalten. Kommt es zu einer
+beträchtlichen Sicherheitsverletzung, kann die Bundesnetzagentur einen
+detaillierten Bericht über die Sicherheitsverletzung und die
+ergriffenen Abhilfemaßnahmen verlangen. Erforderlichenfalls
+unterrichtet die Bundesnetzagentur die nationalen Regulierungsbehörden
+der anderen Mitgliedstaaten der Europäischen Union und die Europäische
+Agentur für Netz- und Informationssicherheit über die
+Sicherheitsverletzungen. Die Bundesnetzagentur kann die Öffentlichkeit
+unterrichten oder die nach Satz 1 Verpflichteten zu dieser
+Unterrichtung auffordern, wenn sie zu dem Schluss gelangt, dass die
+Bekanntgabe der Sicherheitsverletzung im öffentlichen Interesse liegt.
+§ 8e des BSI-Gesetzes gilt entsprechend. Die Bundesnetzagentur legt
+der Europäischen Kommission, der Europäischen Agentur für Netz- und
+Informationssicherheit und dem Bundesamt für Sicherheit in der
+Informationstechnik einmal pro Jahr einen zusammenfassenden Bericht
+über die eingegangenen Meldungen und die ergriffenen Abhilfemaßnahmen
+vor.
+
+(6) Die Bundesnetzagentur erstellt im Einvernehmen mit dem Bundesamt
+für Sicherheit in der Informationstechnik und dem Bundesbeauftragten
+für den Datenschutz und die Informationsfreiheit einen Katalog von
 Sicherheitsanforderungen für das Betreiben von Telekommunikations- und
 Datenverarbeitungssystemen sowie für die Verarbeitung
 personenbezogener Daten als Grundlage für das Sicherheitskonzept nach
@@ -6679,8 +7726,14 @@ hat eine Kopie des Überprüfungsberichts unverzüglich an die
 Bundesnetzagentur zu übermitteln. Er trägt die Kosten dieser
 Überprüfung.
 
+(8) Über aufgedeckte Mängel bei der Erfüllung der
+Sicherheitsanforderungen in der Informationstechnik sowie die in
+diesem Zusammenhang von der Bundesnetzagentur geforderten
+Abhilfemaßnahmen unterrichtet die Bundesnetzagentur unverzüglich das
+Bundesamt für Sicherheit in der Informationstechnik.
 
-#### § 109a Datensicherheit
+
+#### § 109a Daten- und Informationssicherheit
 
 (1) Wer öffentlich zugängliche Telekommunikationsdienste erbringt, hat
 im Fall einer Verletzung des Schutzes personenbezogener Daten
@@ -6745,7 +7798,33 @@ der Absätze 1 und 2 eingehalten wurden. Das Verzeichnis enthält nur
 die zu diesem Zweck erforderlichen Informationen und muss nicht
 Verletzungen berücksichtigen, die mehr als fünf Jahre zurückliegen.
 
-(4) Vorbehaltlich technischer Durchführungsmaßnahmen der Europäischen
+(4) Werden dem Diensteanbieter nach Absatz 1 Störungen bekannt, die
+von Datenverarbeitungssystemen der Nutzer ausgehen, so hat er die
+Nutzer, soweit ihm diese bereits bekannt sind, unverzüglich darüber zu
+benachrichtigen. Soweit technisch möglich und zumutbar, hat er die
+Nutzer auf angemessene, wirksame und zugängliche technische Mittel
+hinzuweisen, mit denen sie diese Störungen erkennen und beseitigen
+können. Der Diensteanbieter darf die Teile des Datenverkehrs von und
+zu einem Nutzer, von denen eine Störung ausgeht, umleiten, soweit dies
+erforderlich ist, um den Nutzer über die Störungen benachrichtigen zu
+können.
+
+(5) Der Diensteanbieter darf im Falle einer Störung die Nutzung des
+Telekommunikationsdienstes bis zur Beendigung der Störung
+einschränken, umleiten oder unterbinden, soweit dies erforderlich ist,
+um die Beeinträchtigung der Telekommunikations- und
+Datenverarbeitungssysteme des Diensteanbieters, eines Nutzers im Sinne
+des Absatzes 4 oder anderer Nutzer zu beseitigen oder zu verhindern
+und der Nutzer die Störung nicht unverzüglich selbst beseitigt oder zu
+erwarten ist, dass der Nutzer die Störung selbst nicht unverzüglich
+beseitigt.
+
+(6) Der Diensteanbieter darf den Datenverkehr zu Störungsquellen
+einschränken oder unterbinden, soweit dies zur Vermeidung von
+Störungen in den Telekommunikations-und Datenverarbeitungssystemen der
+Nutzer erforderlich ist.
+
+(7) Vorbehaltlich technischer Durchführungsmaßnahmen der Europäischen
 Kommission nach Artikel 4 Absatz 5 der Richtlinie 2002/58/EG kann die
 Bundesnetzagentur Leitlinien vorgeben bezüglich des Formats, der
 Verfahrensweise und der Umstände, unter denen eine Benachrichtigung
@@ -6812,11 +7891,13 @@ zugängliche Telekommunikationsdienste erbracht werden, hat
 
 
 5.  die Aufstellung und den Betrieb von Geräten für die Durchführung von
-    Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes in seinen Räumen
-    zu dulden und Bediensteten der für diese Maßnahmen zuständigen Stelle
-    sowie den Mitgliedern und Mitarbeitern der G 10-Kommission (§ 1 Abs. 2
-    des Artikel 10-Gesetzes) Zugang zu diesen Geräten zur Erfüllung ihrer
-    gesetzlichen Aufgaben zu gewähren.
+    Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes oder nach den §§
+    6, 12 und 14 des BND-Gesetzes in seinen Räumen zu dulden und
+    Bediensteten der für diese Maßnahmen zuständigen Stelle sowie bei
+    Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes den Mitgliedern
+    und Mitarbeitern der G 10-Kommission (§ 1 Abs. 2 des Artikel
+    10-Gesetzes) Zugang zu diesen Geräten zur Erfüllung ihrer gesetzlichen
+    Aufgaben zu gewähren.
 
 
 
@@ -6840,9 +7921,10 @@ entsprechende Festlegungen im Benehmen mit den berechtigten Stellen
 trifft. Die Sätze 1 bis 4 gelten nicht, soweit die Rechtsverordnung
 nach Absatz 2 Ausnahmen für die Telekommunikationsanlage vorsieht. §
 100b Abs. 3 Satz 1 der Strafprozessordnung, § 2 Abs. 1 Satz 3 des
-Artikel 10-Gesetzes, § 20l Abs. 5 Satz 1 des Bundeskriminalamtgesetzes
-sowie entsprechende landesgesetzliche Regelungen zur polizeilich-
-präventiven Telekommunikationsüberwachung bleiben unberührt.
+Artikel 10-Gesetzes, § 51 Absatz 6 Satz 1 des
+Bundeskriminalamtgesetzes, § 8 Absatz 1 Satz 1 des BND-Gesetzes sowie
+entsprechende landesgesetzliche Regelungen zur polizeilich-präventiven
+Telekommunikationsüberwachung bleiben unberührt.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -7007,46 +8089,98 @@ vor der Freischaltung zu erheben und unverzüglich zu speichern, auch
 soweit diese Daten für betriebliche Zwecke nicht erforderlich sind;
 das Datum des Vertragsendes ist bei Bekanntwerden ebenfalls zu
 speichern. Satz 1 gilt auch, soweit die Daten nicht in
-Teilnehmerverzeichnisse (§ 104) eingetragen werden. Die Verpflichtung
-zur unverzüglichen Speicherung nach Satz 1 gilt hinsichtlich der Daten
-nach Satz 1 Nr. 1 und 2 entsprechend für denjenigen, der
-geschäftsmäßig einen öffentlich zugänglichen Dienst der elektronischen
-Post erbringt und dabei Daten nach Satz 1 Nr. 1 und 2 erhebt, wobei an
-die Stelle der Daten nach Satz 1 Nr. 1 die Kennungen der
-elektronischen Postfächer und an die Stelle des Anschlussinhabers nach
-Satz 1 Nr. 2 der Inhaber des elektronischen Postfachs tritt. Wird dem
-Verpflichteten nach Satz 1 oder Satz 3 eine Änderung bekannt, hat er
-die Daten unverzüglich zu berichtigen; in diesem Zusammenhang hat der
-nach Satz 1 Verpflichtete bisher noch nicht erhobene Daten zu erheben
-und zu speichern, sofern ihm eine Erhebung der Daten ohne besonderen
-Aufwand möglich ist. Für das Auskunftsverfahren nach § 113 ist die
-Form der Datenspeicherung freigestellt.
+Teilnehmerverzeichnisse (§ 104) eingetragen werden. Bei im Voraus
+bezahlten Mobilfunkdiensten ist die Richtigkeit der nach Satz 1
+erhobenen Daten vor der Freischaltung zu überprüfen durch
 
-(2) Bedient sich der Diensteanbieter nach Absatz 1 Satz 1 oder Satz 3
-eines Vertriebspartners, hat der Vertriebspartner die Daten nach
-Absatz 1 Satz 1 und 3 unter den dort genannten Voraussetzungen zu
-erheben und diese sowie die nach § 95 erhobenen Daten unverzüglich dem
-Diensteanbieter zu übermitteln; Absatz 1 Satz 2 gilt entsprechend.
-Satz 1 gilt auch für Daten über Änderungen, soweit sie dem
-Vertriebspartner im Rahmen der üblichen Geschäftsabwicklung zur
-Kenntnis gelangen.
+1.  Vorlage eines Ausweises im Sinne des § 2 Absatz 1 des
+    Personalausweisgesetzes,
 
-(3) Für Vertragsverhältnisse, die am Tage des Inkrafttretens dieser
-Vorschrift bereits bestehen, müssen Daten im Sinne von Absatz 1 Satz 1
-oder Satz 3 außer in den Fällen des Absatzes 1 Satz 4 nicht
-nachträglich erhoben werden.
 
-(4) Die Daten sind mit Ablauf des auf die Beendigung des
-Vertragsverhältnisses folgenden Kalenderjahres zu löschen.
+2.  Vorlage eines Passes im Sinne des § 1 Absatz 2 des Passgesetzes,
 
-(5) Eine Entschädigung für die Datenerhebung und -speicherung wird
+
+3.  Vorlage eines sonstigen gültigen amtlichen Ausweises, der ein
+    Lichtbild des Inhabers enthält und mit dem die Pass- und
+    Ausweispflicht im Inland erfüllt wird, wozu insbesondere auch ein nach
+    ausländerrechtlichen Bestimmungen anerkannter oder zugelassener Pass,
+    Personalausweis oder Pass- oder Ausweisersatz zählt,
+
+
+4.  Vorlage eines Aufenthaltstitels,
+
+
+5.  Vorlage eines Ankunftsnachweises nach § 63a Absatz 1 des Asylgesetzes
+    oder einer Bescheinigung über die Aufenthaltsgestattung nach § 63
+    Absatz 1 des Asylgesetzes,
+
+
+6.  Vorlage einer Bescheinigung über die Aussetzung der Abschiebung nach §
+    60a Absatz 4 des Aufenthaltsgesetzes oder
+
+
+7.  Vorlage eines Auszugs aus dem Handels- oder Genossenschaftsregister
+    oder einem vergleichbaren amtlichen Register oder Verzeichnis, der
+    Gründungsdokumente oder gleichwertiger beweiskräftiger Dokumente oder
+    durch Einsichtnahme in diese Register oder Verzeichnisse und Abgleich
+    mit den darin enthaltenen Daten, sofern es sich bei dem
+    Anschlussinhaber um eine juristische Person oder Personengesellschaft
+    handelt,
+
+
+
+soweit die Daten in den vorgelegten Dokumenten oder eingesehenen
+Registern oder Verzeichnissen enthalten sind. Die Überprüfung kann
+auch durch andere geeignete Verfahren erfolgen; die Bundesnetzagentur
+legt nach Anhörung der betroffenen Kreise durch Verfügung im Amtsblatt
+fest, welche anderen Verfahren zur Überprüfung geeignet sind, wobei
+jeweils zum Zwecke der Identifikation vor Freischaltung der
+vertraglich vereinbarten Mobilfunkdienstleistung ein Dokument im Sinne
+des Satzes 3 genutzt werden muss. Bei der Überprüfung ist die Art des
+eingesetzten Verfahrens zu speichern; bei Überprüfung mittels eines
+Dokumentes im Sinne des Satzes 3 Nummer 1 bis 6 sind ferner Angaben zu
+Art, Nummer und ausstellender Stelle zu speichern. Für die
+Identifizierung anhand eines elektronischen Identitätsnachweises nach
+§ 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des
+Aufenthaltsgesetzes gilt § 8 Absatz 2 Satz 4 des Geldwäschegesetzes
+entsprechend. Für das Auskunftsverfahren nach § 113 ist die Form der
+Datenspeicherung freigestellt.
+
+(2) Die Verpflichtung zur unverzüglichen Speicherung nach Absatz 1
+Satz 1 gilt hinsichtlich der Daten nach Absatz 1 Satz 1 Nummer 1 und 2
+entsprechend für denjenigen, der geschäftsmäßig einen öffentlich
+zugänglichen Dienst der elektronischen Post erbringt und dabei Daten
+nach Absatz 1 Satz 1 Nummer 1 und 2 erhebt, wobei an die Stelle der
+Daten nach Absatz 1 Satz 1 Nummer 1 die Kennungen der elektronischen
+Postfächer und an die Stelle des Anschlussinhabers nach Absatz 1 Satz
+1 Nummer 2 der Inhaber des elektronischen Postfachs tritt.
+
+(3) Wird dem Verpflichteten nach Absatz 1 Satz 1 oder Absatz 2 eine
+Änderung bekannt, hat er die Daten unverzüglich zu berichtigen. In
+diesem Zusammenhang hat der nach Absatz 1 Satz 1 Verpflichtete bisher
+noch nicht erhobene Daten zu erheben und zu speichern, sofern ihm eine
+Erhebung der Daten ohne besonderen Aufwand möglich ist.
+
+(4) Bedient sich ein Diensteanbieter zur Erhebung der Daten nach
+Absatz 1 Satz 1 und Absatz 2 eines Dritten, bleibt er für die
+Erfüllung der Pflichten nach Absatz 1 Satz 1 und Absatz 2
+verantwortlich. Werden dem Dritten im Rahmen des üblichen
+Geschäftsablaufes Änderungen der Daten nach Absatz 1 Satz 1 und Absatz
+2 bekannt, hat er diese dem Diensteanbieter unverzüglich zu
+übermitteln.
+
+(5) Die Daten nach den Absätzen 1 und 2 sind mit Ablauf des auf die
+Beendigung des Vertragsverhältnisses folgenden Kalenderjahres zu
+löschen.
+
+(6) Eine Entschädigung für die Datenerhebung und -speicherung wird
 nicht gewährt.
 
 
 #### § 112 Automatisiertes Auskunftsverfahren
 
 (1) Wer öffentlich zugängliche Telekommunikationsdienste erbringt, hat
-die nach § 111 Abs. 1 Satz 1, 3 und 4 und Abs. 2 erhobenen Daten
+die nach § 111 Absatz 1 Satz 1, Absatz 2, 3 und 4 erhobenen Daten
 unverzüglich in Kundendateien zu speichern, in die auch Rufnummern und
 Rufnummernkontingente, die zur weiteren Vermarktung oder sonstigen
 Nutzung an andere Anbieter von Telekommunikationsdiensten vergeben
@@ -7054,10 +8188,10 @@ werden, sowie bei portierten Rufnummern die aktuelle
 Portierungskennung aufzunehmen sind. Der Verpflichtete kann auch eine
 andere Stelle nach Maßgabe des § 11 des Bundesdatenschutzgesetzes
 beauftragen, die Kundendateien zu führen. Für die Berichtigung und
-Löschung der in den Kundendateien gespeicherten Daten gilt § 111 Abs.
-1 Satz 4 und Abs. 4 entsprechend. In Fällen portierter Rufnummern sind
-die Rufnummer und die zugehörige Portierungskennung erst nach Ablauf
-des Jahres zu löschen, das dem Zeitpunkt folgt, zu dem die Rufnummer
+Löschung der in den Kundendateien gespeicherten Daten gilt § 111
+Absatz 3 und 5 entsprechend. In Fällen portierter Rufnummern sind die
+Rufnummer und die zugehörige Portierungskennung erst nach Ablauf des
+Jahres zu löschen, das dem Zeitpunkt folgt, zu dem die Rufnummer
 wieder an den Netzbetreiber zurückgegeben wurde, dem sie ursprünglich
 zugeteilt worden war. Der Verpflichtete hat zu gewährleisten, dass
 
@@ -7125,10 +8259,11 @@ nach Absatz 4 jederzeit erteilt, soweit die Auskünfte zur Erfüllung
 ihrer gesetzlichen Aufgaben erforderlich sind und die Ersuchen an die
 Bundesnetzagentur im automatisierten Verfahren vorgelegt werden.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundeskanzleramt, dem
-Bundesministerium des Innern, dem Bundesministerium der Justiz, dem
-Bundesministerium der Finanzen sowie dem Bundesministerium der
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium des
+Innern, dem Bundesministerium der Justiz und für Verbraucherschutz,
+dem Bundesministerium der Finanzen, dem Bundesministerium für Verkehr
+und digitale Infrastruktur sowie dem Bundesministerium der
 Verteidigung eine Rechtsverordnung mit Zustimmung des Bundesrates zu
 erlassen, in der geregelt werden
 
@@ -7177,7 +8312,7 @@ erlassen, in der geregelt werden
 
 4.  wer abweichend von Absatz 1 Satz 1 aus Gründen der Verhältnismäßigkeit
     keine Kundendateien für das automatisierte Auskunftsverfahren
-    vorhalten muss; in diesen Fällen gilt § 111 Abs. 1 Satz 5
+    vorhalten muss; in diesen Fällen gilt § 111 Absatz 1 Satz 7
     entsprechend.
 
 
@@ -7237,209 +8372,356 @@ Auskünfte wird den Verpflichteten nicht gewährt.
 #### § 113 Manuelles Auskunftsverfahren
 
 (1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder daran
-mitwirkt, hat im Einzelfall den zuständigen Stellen auf deren
-Verlangen unverzüglich Auskünfte über die nach den §§ 95 und 111
-erhobenen Daten zu erteilen, soweit dies für die Verfolgung von
-Straftaten oder Ordnungswidrigkeiten, zur Abwehr von Gefahren für die
-öffentliche Sicherheit oder Ordnung oder für die Erfüllung der
-gesetzlichen Aufgaben der Verfassungsschutzbehörden des Bundes und der
-Länder, des Bundesnachrichtendienstes oder des Militärischen
-Abschirmdienstes erforderlich ist. Auskünfte über Daten, mittels derer
-der Zugriff auf Endgeräte oder in diesen oder im Netz eingesetzte
-Speichereinrichtungen geschützt wird, insbesondere PIN oder PUK, hat
-der nach Satz 1 Verpflichtete auf Grund eines Auskunftsersuchens nach
-§ 161 Abs. 1 Satz 1, § 163 Abs. 1 der Strafprozessordnung, der
-Datenerhebungsvorschriften der Polizeigesetze des Bundes oder der
-Länder zur Abwehr von Gefahren für die öffentliche Sicherheit oder
-Ordnung, § 8 Abs. 1 des Bundesverfassungsschutzgesetzes, der
-entsprechenden Bestimmungen der Landesverfassungsschutzgesetze, § 2
-Abs. 1 des BND-Gesetzes oder § 4 Abs. 1 des MAD-Gesetzes zu erteilen;
-an andere öffentliche oder nicht öffentliche Stellen dürfen diese
-Daten nicht übermittelt werden. Ein Zugriff auf Daten, die dem
-Fernmeldegeheimnis unterliegen, ist nur unter den Voraussetzungen der
-hierfür einschlägigen gesetzlichen Vorschriften zulässig. Über die
-Auskunftserteilung hat der Verpflichtete gegenüber seinen Kundinnen
-und Kunden sowie Dritten gegenüber Stillschweigen zu wahren.
+mitwirkt, darf nach Maßgabe des Absatzes 2 die nach den §§ 95 und 111
+erhobenen Daten nach Maßgabe dieser Vorschrift zur Erfüllung von
+Auskunftspflichten gegenüber den in Absatz 3 genannten Stellen
+verwenden. Dies gilt auch für Daten, mittels derer der Zugriff auf
+Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten
+oder hiervon räumlich getrennt eingesetzt werden, geschützt wird. Die
+in eine Auskunft aufzunehmenden Daten dürfen auch anhand einer zu
+einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
+bestimmt werden; hierfür dürfen Verkehrsdaten auch automatisiert
+ausgewertet werden. Für die Auskunftserteilung nach Satz 3 sind
+sämtliche unternehmensinternen Datenquellen zu berücksichtigen.
 
-(2) Der Verpflichtete nach Absatz 1 hat die in seinem
-Verantwortungsbereich für die Auskunftserteilung erforderlichen
-Vorkehrungen auf seine Kosten zu treffen. Das Bundesamt für
-Verfassungsschutz, der Bundesnachrichtendienst und das Amt für den
-Militärischen Abschirmdienst haben für ihnen erteilte Auskünfte eine
-Entschädigung zu gewähren, deren Umfang sich nach § 23 und Anlage 3
-des Justizvergütungs- und -entschädigungsgesetzes bemisst; die
-Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des
-Justizvergütungs- und -entschädigungsgesetzes finden entsprechend
-Anwendung.
+(2) Die Auskunft darf nur erteilt werden, soweit eine in Absatz 3
+genannte Stelle dies in Textform im Einzelfall zum Zweck der
+Verfolgung von Straftaten oder Ordnungswidrigkeiten, zur Abwehr von
+Gefahren für die öffentliche Sicherheit oder Ordnung oder für die
+Erfüllung der gesetzlichen Aufgaben der in Absatz 3 Nummer 3 genannten
+Stellen unter Angabe einer gesetzlichen Bestimmung verlangt, die ihr
+eine Erhebung der in Absatz 1 in Bezug genommenen Daten erlaubt; an
+andere öffentliche und nichtöffentliche Stellen dürfen Daten nach
+Absatz 1 nicht übermittelt werden. Bei Gefahr im Verzug darf die
+Auskunft auch erteilt werden, wenn das Verlangen in anderer Form
+gestellt wird. In diesem Fall ist das Verlangen unverzüglich
+nachträglich in Textform zu bestätigen. Die Verantwortung für die
+Zulässigkeit des Auskunftsverlangens tragen die in Absatz 3 genannten
+Stellen.
+
+(3) Stellen im Sinne des Absatzes 1 sind
+
+1.  die für die Verfolgung von Straftaten oder Ordnungswidrigkeiten
+    zuständigen Behörden;
 
 
-#### § 113a Speicherungspflichten für Daten
+2.  die für die Abwehr von Gefahren für die öffentliche Sicherheit oder
+    Ordnung zuständigen Behörden;
 
-(1) Wer öffentlich zugängliche Telekommunikationsdienste für Endnutzer
-erbringt, ist verpflichtet, von ihm bei der Nutzung seines Dienstes
-erzeugte oder verarbeitete Verkehrsdaten nach Maßgabe der Absätze 2
-bis 5 sechs Monate im Inland oder in einem anderen Mitgliedstaat der
-Europäischen Union zu speichern. Wer öffentlich zugängliche
-Telekommunikationsdienste für Endnutzer erbringt, ohne selbst
-Verkehrsdaten zu erzeugen oder zu verarbeiten, hat sicherzustellen,
-dass die Daten gemäß Satz 1 gespeichert werden, und der
-Bundesnetzagentur auf deren Verlangen mitzuteilen, wer diese Daten
-speichert.
 
-(2) Die Anbieter von öffentlich zugänglichen Telefondiensten
-speichern:
+3.  die Verfassungsschutzbehörden des Bundes und der Länder, der
+    Militärische Abschirmdienst und der Bundesnachrichtendienst.
 
-1.  die Rufnummer oder andere Kennung des anrufenden und des angerufenen
-    Anschlusses sowie im Falle von Um- oder Weiterschaltungen jedes
+
+
+
+(4) Derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt
+oder daran mitwirkt, hat die zu beauskunftenden Daten unverzüglich und
+vollständig zu übermitteln. Über das Auskunftsersuchen und die
+Auskunftserteilung haben die Verpflichteten gegenüber den Betroffenen
+sowie Dritten Stillschweigen zu wahren.
+
+(5) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder daran
+mitwirkt, hat die in seinem Verantwortungsbereich für die
+Auskunftserteilung erforderlichen Vorkehrungen auf seine Kosten zu
+treffen. Wer mehr als 100 000 Kunden hat, hat für die Entgegennahme
+der Auskunftsverlangen sowie für die Erteilung der zugehörigen
+Auskünfte eine gesicherte elektronische Schnittstelle nach Maßgabe der
+Technischen Richtlinie nach § 110 Absatz 3 bereitzuhalten, durch die
+auch die gegen die Kenntnisnahme der Daten durch Unbefugte gesicherte
+Übertragung gewährleistet ist. Dabei ist dafür Sorge zu tragen, dass
+jedes Auskunftsverlangen durch eine verantwortliche Fachkraft auf
+Einhaltung der in Absatz 2 genannten formalen Voraussetzungen geprüft
+und die weitere Bearbeitung des Verlangens erst nach einem positiven
+Prüfergebnis freigegeben wird.
+
+
+#### § 113a Verpflichtete; Entschädigung
+
+(1) Die Verpflichtungen zur Speicherung von Verkehrsdaten, zur
+Verwendung der Daten und zur Datensicherheit nach den §§ 113b bis 113g
+beziehen sich auf Erbringer öffentlich zugänglicher
+Telekommunikationsdienste für Endnutzer. Wer öffentlich zugängliche
+Telekommunikationsdienste für Endnutzer erbringt, aber nicht alle der
+nach Maßgabe der §§ 113b bis 113g zu speichernden Daten selbst erzeugt
+oder verarbeitet, hat
+
+1.  sicherzustellen, dass die nicht von ihm selbst bei der Erbringung
+    seines Dienstes erzeugten oder verarbeiteten Daten gemäß § 113b Absatz
+    1 gespeichert werden, und
+
+
+2.  der Bundesnetzagentur auf deren Verlangen unverzüglich mitzuteilen,
+    wer diese Daten speichert.
+
+
+
+
+(2) Für notwendige Aufwendungen, die den Verpflichteten durch die
+Umsetzung der Vorgaben aus den §§ 113b, 113d bis 113g entstehen, ist
+eine angemessene Entschädigung zu zahlen, soweit dies zur Abwendung
+oder zum Ausgleich unbilliger Härten geboten erscheint. Für die
+Bemessung der Entschädigung sind die tatsächlich entstandenen Kosten
+maßgebend. Über Anträge auf Entschädigung entscheidet die
+Bundesnetzagentur.
+
+
+#### § 113b Pflichten zur Speicherung von Verkehrsdaten
+
+(1) Die in § 113a Absatz 1 Genannten sind verpflichtet, Daten wie
+folgt im Inland zu speichern:
+
+1.  Daten nach den Absätzen 2 und 3 für zehn Wochen,
+
+
+2.  Standortdaten nach Absatz 4 für vier Wochen.
+
+
+
+
+(2) Die Erbringer öffentlich zugänglicher Telefondienste speichern
+
+1.  die Rufnummer oder eine andere Kennung des anrufenden und des
+    angerufenen Anschlusses sowie bei Um- oder Weiterschaltungen jedes
     weiteren beteiligten Anschlusses,
 
 
-2.  den Beginn und das Ende der Verbindung nach Datum und Uhrzeit unter
-    Angabe der zugrunde liegenden Zeitzone,
+2.  Datum und Uhrzeit von Beginn und Ende der Verbindung unter Angabe der
+    zugrunde liegenden Zeitzone,
 
 
-3.  in Fällen, in denen im Rahmen des Telefondienstes unterschiedliche
-    Dienste genutzt werden können, Angaben zu dem genutzten Dienst,
+3.  Angaben zu dem genutzten Dienst, wenn im Rahmen des Telefondienstes
+    unterschiedliche Dienste genutzt werden können,
 
 
-4.  im Fall mobiler Telefondienste ferner:
+4.  im Fall mobiler Telefondienste ferner
 
-    a)  die internationale Kennung für mobile Teilnehmer für den anrufenden
-        und den angerufenen Anschluss,
+    a)  die internationale Kennung mobiler Teilnehmer für den anrufenden und
+        den angerufenen Anschluss,
 
 
     b)  die internationale Kennung des anrufenden und des angerufenen
         Endgerätes,
 
 
-    c)  die Bezeichnung der durch den anrufenden und den angerufenen Anschluss
-        bei Beginn der Verbindung genutzten Funkzellen,
-
-
-    d)  im Fall im Voraus bezahlter anonymer Dienste auch die erste
-        Aktivierung des Dienstes nach Datum, Uhrzeit und Bezeichnung der
-        Funkzelle,
+    c)  Datum und Uhrzeit der ersten Aktivierung des Dienstes unter Angabe der
+        zugrunde liegenden Zeitzone, wenn Dienste im Voraus bezahlt wurden,
 
 
 
 
 
 5.  im Fall von Internet-Telefondiensten auch die Internetprotokoll-
-    Adresse des anrufenden und des angerufenen Anschlusses.
+    Adressen des anrufenden und des angerufenen Anschlusses und
+    zugewiesene Benutzerkennungen.
 
 
 
-Satz 1 gilt entsprechend bei der Übermittlung einer Kurz-, Multimedia-
-oder ähnlichen Nachricht; hierbei sind anstelle der Angaben nach Satz
-1 Nr. 2 die Zeitpunkte der Versendung und des Empfangs der Nachricht
-zu speichern.
+Satz 1 gilt entsprechend
 
-(3) Die Anbieter von Diensten der elektronischen Post speichern:
-
-1.  bei Versendung einer Nachricht die Kennung des elektronischen
-    Postfachs und die Internetprotokoll-Adresse des Absenders sowie die
-    Kennung des elektronischen Postfachs jedes Empfängers der Nachricht,
+1.  bei der Übermittlung einer Kurz-, Multimedia- oder ähnlichen
+    Nachricht; hierbei treten an die Stelle der Angaben nach Satz 1 Nummer
+    2 die Zeitpunkte der Versendung und des Empfangs der Nachricht;
 
 
-2.  bei Eingang einer Nachricht in einem elektronischen Postfach die
-    Kennung des elektronischen Postfachs des Absenders und des Empfängers
-    der Nachricht sowie die Internetprotokoll-Adresse der absendenden
-    Telekommunikationsanlage,
-
-
-3.  bei Zugriff auf das elektronische Postfach dessen Kennung und die
-    Internetprotokoll-Adresse des Abrufenden,
-
-
-4.  die Zeitpunkte der in den Nummern 1 bis 3 genannten Nutzungen des
-    Dienstes nach Datum und Uhrzeit unter Angabe der zugrunde liegenden
-    Zeitzone.
+2.  für unbeantwortete oder wegen eines Eingriffs des Netzwerkmanagements
+    erfolglose Anrufe, soweit der Erbringer öffentlich zugänglicher
+    Telefondienste die in Satz 1 genannten Verkehrsdaten für die in § 96
+    Absatz 1 Satz 2 genannten Zwecke speichert oder protokolliert.
 
 
 
 
-(4) Die Anbieter von Internetzugangsdiensten speichern:
+(3) Die Erbringer öffentlich zugänglicher Internetzugangsdienste
+speichern
 
 1.  die dem Teilnehmer für eine Internetnutzung zugewiesene
     Internetprotokoll-Adresse,
 
 
 2.  eine eindeutige Kennung des Anschlusses, über den die Internetnutzung
-    erfolgt,
+    erfolgt, sowie eine zugewiesene Benutzerkennung,
 
 
-3.  den Beginn und das Ende der Internetnutzung unter der zugewiesenen
-    Internetprotokoll-Adresse nach Datum und Uhrzeit unter Angabe der
-    zugrunde liegenden Zeitzone.
+3.  Datum und Uhrzeit von Beginn und Ende der Internetnutzung unter der
+    zugewiesenen Internetprotokoll-Adresse unter Angabe der zugrunde
+    liegenden Zeitzone.
 
 
 
 
-(5) Soweit Anbieter von Telefondiensten die in dieser Vorschrift
-genannten Verkehrsdaten für die in § 96 Abs. 2 genannten Zwecke auch
-dann speichern oder protokollieren, wenn der Anruf unbeantwortet
-bleibt oder wegen eines Eingriffs des Netzwerkmanagements erfolglos
-ist, sind die Verkehrsdaten auch nach Maßgabe dieser Vorschrift zu
-speichern.
+(4) Im Fall der Nutzung mobiler Telefondienste sind die Bezeichnungen
+der Funkzellen zu speichern, die durch den anrufenden und den
+angerufenen Anschluss bei Beginn der Verbindung genutzt wurden. Bei
+öffentlich zugänglichen Internetzugangsdiensten ist im Fall der
+mobilen Nutzung die Bezeichnung der bei Beginn der Internetverbindung
+genutzten Funkzelle zu speichern. Zusätzlich sind die Daten
+vorzuhalten, aus denen sich die geografische Lage und die
+Hauptstrahlrichtungen der die jeweilige Funkzelle versorgenden
+Funkantennen ergeben.
 
-(6) Wer Telekommunikationsdienste erbringt und hierbei die nach
-Maßgabe dieser Vorschrift zu speichernden Angaben verändert, ist zur
-Speicherung der ursprünglichen und der neuen Angabe sowie des
-Zeitpunktes der Umschreibung dieser Angaben nach Datum und Uhrzeit
-unter Angabe der zugrunde liegenden Zeitzone verpflichtet.
+(5) Der Inhalt der Kommunikation, Daten über aufgerufene
+Internetseiten und Daten von Diensten der elektronischen Post dürfen
+auf Grund dieser Vorschrift nicht gespeichert werden.
 
-(7) Wer ein Mobilfunknetz für die Öffentlichkeit betreibt, ist
-verpflichtet, zu den nach Maßgabe dieser Vorschrift gespeicherten
-Bezeichnungen der Funkzellen auch Daten vorzuhalten, aus denen sich
-die geografischen Lagen der die jeweilige Funkzelle versorgenden
-Funkantennen sowie deren Hauptstrahlrichtungen ergeben.
+(6) Daten, die den in § 99 Absatz 2 genannten Verbindungen zugrunde
+liegen, dürfen auf Grund dieser Vorschrift nicht gespeichert werden.
+Dies gilt entsprechend für Telefonverbindungen, die von den in § 99
+Absatz 2 genannten Stellen ausgehen. § 99 Absatz 2 Satz 2 bis 7 gilt
+entsprechend.
 
-(8) Der Inhalt der Kommunikation und Daten über aufgerufene
-Internetseiten dürfen auf Grund dieser Vorschrift nicht gespeichert
-werden.
+(7) Die Speicherung der Daten hat so zu erfolgen, dass
+Auskunftsersuchen der berechtigten Stellen unverzüglich beantwortet
+werden können.
 
-(9) Die Speicherung der Daten nach den Absätzen 1 bis 7 hat so zu
-erfolgen, dass Auskunftsersuchen der berechtigten Stellen unverzüglich
-beantwortet werden können.
-
-(10) Der nach dieser Vorschrift Verpflichtete hat betreffend die
-Qualität und den Schutz der gespeicherten Verkehrsdaten die im Bereich
-der Telekommunikation erforderliche Sorgfalt zu beachten. Im Rahmen
-dessen hat er durch technische und organisatorische Maßnahmen
-sicherzustellen, dass der Zugang zu den gespeicherten Daten
-ausschließlich hierzu von ihm besonders ermächtigten Personen möglich
-ist.
-
-(11) Der nach dieser Vorschrift Verpflichtete hat die allein auf Grund
-dieser Vorschrift gespeicherten Daten innerhalb eines Monats nach
-Ablauf der in Absatz 1 genannten Frist zu löschen oder die Löschung
+(8) Der nach § 113a Absatz 1 Verpflichtete hat die auf Grund des
+Absatzes 1 gespeicherten Daten unverzüglich, spätestens jedoch binnen
+einer Woche nach Ablauf der Speicherfristen nach Absatz 1,
+irreversibel zu löschen oder die irreversible Löschung
 sicherzustellen.
 
 
-#### § 113b Verwendung der nach § 113a gespeicherten Daten
+#### § 113c Verwendung der Daten
 
-Der nach § 113a Verpflichtete darf die allein auf Grund der
-Speicherungsverpflichtung nach § 113a gespeicherten Daten
+(1) Die auf Grund des § 113b gespeicherten Daten dürfen
 
-1.  zur Verfolgung von Straftaten,
-
-
-2.  zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit
-    oder
+1.  an eine Strafverfolgungsbehörde übermittelt werden, soweit diese die
+    Übermittlung unter Berufung auf eine gesetzliche Bestimmung, die ihr
+    eine Erhebung der in § 113b genannten Daten zur Verfolgung besonders
+    schwerer Straftaten erlaubt, verlangt;
 
 
-3.  zur Erfüllung der gesetzlichen Aufgaben der Verfassungsschutzbehörden
-    des Bundes und der Länder, des Bundesnachrichtendienstes und des
-    Militärischen Abschirmdienstes
+2.  an eine Gefahrenabwehrbehörde der Länder übermittelt werden, soweit
+    diese die Übermittlung unter Berufung auf eine gesetzliche Bestimmung,
+    die ihr eine Erhebung der in § 113b genannten Daten zur Abwehr einer
+    konkreten Gefahr für Leib, Leben oder Freiheit einer Person oder für
+    den Bestand des Bundes oder eines Landes erlaubt, verlangt;
+
+
+3.  durch den Erbringer öffentlich zugänglicher Telekommunikationsdienste
+    für eine Auskunft nach § 113 Absatz 1 Satz 3 verwendet werden.
 
 
 
-an die zuständigen Stellen auf deren Verlangen übermitteln, soweit
-dies in den jeweiligen gesetzlichen Bestimmungen unter Bezugnahme auf
-§ 113a vorgesehen und die Übermittlung im Einzelfall angeordnet ist;
-für andere Zwecke mit Ausnahme einer Auskunftserteilung nach § 113
-darf er die Daten nicht verwenden. § 113 Abs. 1 Satz 4 gilt
-entsprechend.
+
+(2) Für andere Zwecke als die in Absatz 1 genannten dürfen die auf
+Grund des § 113b gespeicherten Daten von den nach § 113a Absatz 1
+Verpflichteten nicht verwendet werden.
+
+(3) Die Übermittlung der Daten erfolgt nach Maßgabe der
+Rechtsverordnung nach § 110 Absatz 2 und der Technischen Richtlinie
+nach § 110 Absatz 3. Die Daten sind so zu kennzeichnen, dass erkennbar
+ist, dass es sich um Daten handelt, die nach § 113b gespeichert waren.
+Nach Übermittlung an eine andere Stelle ist die Kennzeichnung durch
+diese aufrechtzuerhalten.
+
+
+#### § 113d Gewährleistung der Sicherheit der Daten
+
+Der nach § 113a Absatz 1 Verpflichtete hat sicherzustellen, dass die
+auf Grund der Speicherpflicht nach § 113b Absatz 1 gespeicherten Daten
+durch technische und organisatorische Maßnahmen nach dem Stand der
+Technik gegen unbefugte Kenntnisnahme und Verwendung geschützt werden.
+Die Maßnahmen umfassen insbesondere
+
+1.  den Einsatz eines besonders sicheren Verschlüsselungsverfahrens,
+
+
+2.  die Speicherung in gesonderten, von den für die üblichen betrieblichen
+    Aufgaben getrennten Speichereinrichtungen,
+
+
+3.  die Speicherung mit einem hohen Schutz vor dem Zugriff aus dem
+    Internet auf vom Internet entkoppelten Datenverarbeitungssystemen,
+
+
+4.  die Beschränkung des Zutritts zu den Datenverarbeitungsanlagen auf
+    Personen, die durch den Verpflichteten besonders ermächtigt sind, und
+
+
+5.  die notwendige Mitwirkung von mindestens zwei Personen beim Zugriff
+    auf die Daten, die dazu durch den Verpflichteten besonders ermächtigt
+    worden sind.
+
+
+
+
+
+#### § 113e Protokollierung
+
+(1) Der nach § 113a Absatz 1 Verpflichtete hat sicherzustellen, dass
+für Zwecke der Datenschutzkontrolle jeder Zugriff, insbesondere das
+Lesen, Kopieren, Ändern, Löschen und Sperren der auf Grund der
+Speicherpflicht nach § 113b Absatz 1 gespeicherten Daten protokolliert
+wird. Zu protokollieren sind
+
+1.  der Zeitpunkt des Zugriffs,
+
+
+2.  die auf die Daten zugreifenden Personen,
+
+
+3.  Zweck und Art des Zugriffs.
+
+
+
+
+(2) Für andere Zwecke als die der Datenschutzkontrolle dürfen die
+Protokolldaten nicht verwendet werden.
+
+(3) Der nach § 113a Absatz 1 Verpflichtete hat sicherzustellen, dass
+die Protokolldaten nach einem Jahr gelöscht werden.
+
+
+#### § 113f Anforderungskatalog
+
+(1) Bei der Umsetzung der Verpflichtungen gemäß den §§ 113b bis 113e
+ist ein besonders hoher Standard der Datensicherheit und Datenqualität
+zu gewährleisten. Die Einhaltung dieses Standards wird vermutet, wenn
+alle Anforderungen des Katalogs der technischen Vorkehrungen und
+sonstigen Maßnahmen erfüllt werden, den die Bundesnetzagentur im
+Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik
+und der oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit erstellt.
+
+(2) Die Bundesnetzagentur überprüft fortlaufend die im Katalog nach
+Absatz 1 Satz 2 enthaltenen Anforderungen; hierbei berücksichtigt sie
+den Stand der Technik und der Fachdiskussion. Stellt die
+Bundesnetzagentur Änderungsbedarf fest, ist der Katalog im Benehmen
+mit dem Bundesamt für Sicherheit in der Informationstechnik und der
+oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit unverzüglich anzupassen.
+
+(3) § 109 Absatz 6 Satz 2 und 3 gilt entsprechend. § 109 Absatz 7 gilt
+mit der Maßgabe, dass an die Stelle der Anforderungen nach § 109
+Absatz 1 bis 3 die Anforderungen nach Absatz 1 Satz 1, § 113b Absatz 7
+und 8, § 113d und nach § 113e Absatz 1 und 3 treten.
+
+
+#### § 113g Sicherheitskonzept
+
+Der nach § 113a Absatz 1 Verpflichtete hat in das Sicherheitskonzept
+nach § 109 Absatz 4 zusätzlich aufzunehmen,
+
+1.  welche Systeme zur Erfüllung der Verpflichtungen aus den §§ 113b bis
+    113e betrieben werden,
+
+
+2.  von welchen Gefährdungen für diese Systeme auszugehen ist und
+
+
+3.  welche technischen Vorkehrungen oder sonstigen Maßnahmen getroffen
+    oder geplant sind, um diesen Gefährdungen entgegenzuwirken und die
+    Verpflichtungen aus den §§ 113b bis 113e zu erfüllen.
+
+
+
+Der nach § 113a Absatz 1 Verpflichtete hat der Bundesnetzagentur das
+Sicherheitskonzept unverzüglich nach dem Beginn der Speicherung nach §
+113b und unverzüglich bei jeder Änderung des Konzepts vorzulegen.
+Bleibt das Sicherheitskonzept unverändert, hat der nach § 113a Absatz
+1 Verpflichtete dies gegenüber der Bundesnetzagentur im Abstand von
+jeweils zwei Jahren schriftlich zu erklären.
 
 
 #### § 114 Auskunftsersuchen des Bundesnachrichtendienstes
@@ -7456,8 +8738,9 @@ nicht Gegenstand einer Auskunft nach dieser Vorschrift sein.
 (2) Anfragen nach Absatz 1 sind nur zulässig, wenn ein entsprechendes
 Ersuchen des Bundesnachrichtendienstes vorliegt und soweit die
 Auskunft zur Erfüllung der Aufgaben nach den §§ 5 und 8 des Artikel
-10-Gesetzes erforderlich ist. Die Verwendung einer nach dieser
-Vorschrift erlangten Auskunft zu anderen Zwecken ist ausgeschlossen.
+10-Gesetzes oder den §§ 6, 12 und 14 des BND-Gesetzes erforderlich
+ist. Die Verwendung einer nach dieser Vorschrift erlangten Auskunft zu
+anderen Zwecken ist ausgeschlossen.
 
 
 #### § 115 Kontrolle und Durchsetzung von Verpflichtungen
@@ -7484,22 +8767,21 @@ Verwaltungsvollstreckungsgesetzes Zwangsgelder wie folgt festsetzen:
 
 
 2.  bis zu 100 000 Euro zur Durchsetzung der Verpflichtungen nach den §§
-    109, 109a, 112 Absatz 1, 3 Satz 4, Absatz 5 Satz 1 und 2 oder § 114
-    Absatz 1 und
+    109, 109a, 112 Absatz 1, 3 Satz 4, Absatz 5 Satz 1 und 2, § 113 Absatz
+    5 Satz 2 und 3 oder § 114 Absatz 1 und
 
 
 3.  bis zu 20 000 Euro zur Durchsetzung der Verpflichtungen nach § 111
-    Abs. 1, 2 und 4 oder § 113 Abs. 1 und 2 Satz 1.
+    Absatz 1, 4 und 5 oder § 113 Absatz 4 und 5 Satz 1.
 
 
 
-Bei wiederholten Verstößen gegen § 111 Abs. 1, 2 oder Abs. 4, § 112
-Abs. 1, 3 Satz 4, Abs. 5 Satz 1 und 2 oder § 113 Abs. 1 und 2 Satz 1
-kann die Tätigkeit des Verpflichteten durch Anordnung der
-Bundesnetzagentur dahin gehend eingeschränkt werden, dass der
-Kundenstamm bis zur Erfüllung der sich aus diesen Vorschriften
-ergebenden Verpflichtungen außer durch Vertragsablauf oder Kündigung
-nicht verändert werden darf.
+Bei wiederholten Verstößen gegen § 111 Absatz 1 bis 5, § 112 Abs. 1, 3
+Satz 4, Abs. 5 Satz 1 und 2 oder § 113 Absatz 4 und 5 Satz 1 kann die
+Tätigkeit des Verpflichteten durch Anordnung der Bundesnetzagentur
+dahin gehend eingeschränkt werden, dass der Kundenstamm bis zur
+Erfüllung der sich aus diesen Vorschriften ergebenden Verpflichtungen
+außer durch Vertragsablauf oder Kündigung nicht verändert werden darf.
 
 (3) Darüber hinaus kann die Bundesnetzagentur bei Nichterfüllung von
 Verpflichtungen des Teils 7 den Betrieb der betreffenden
@@ -7535,18 +8817,20 @@ erfordern.
 #### § 116 Aufgaben und Befugnisse
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
-und Eisenbahnen nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben
-und Befugnisse wahr.
+und Eisenbahnen nimmt die ihr nach diesem Gesetz sowie nach Artikel 5
+der Verordnung (EU) 2015/2120 zugewiesenen Aufgaben und Befugnisse
+wahr.
 
 
-#### § 117 Veröffentlichung von Weisungen des Bundesministeriums für Wirtschaft und Technologie
+#### § 117 Veröffentlichung von Weisungen
 
-Soweit das Bundesministerium für Wirtschaft und Technologie Weisungen
+Soweit das Bundesministerium für Wirtschaft und Energie oder das
+Bundesministerium für Verkehr und digitale Infrastruktur Weisungen
 erteilt, sind diese Weisungen im Bundesanzeiger zu veröffentlichen.
-Dies gilt nicht für solche Aufgaben, die vom Bundesministerium für
-Wirtschaft und Technologie auf Grund dieses Gesetzes oder anderer
-Gesetze in eigener Zuständigkeit wahrzunehmen sind und mit deren
-Erfüllung es die Bundesnetzagentur beauftragt hat.
+Dies gilt nicht für Aufgaben, die von diesen Bundesministerien
+aufgrund dieses Gesetzes oder anderer Gesetze in eigener Zuständigkeit
+wahrzunehmen sind und mit deren Erfüllung sie die Bundesnetzagentur
+beauftragt haben.
 
 
 #### § 118
@@ -7603,7 +8887,19 @@ Tätigkeit sowie über die Lage und die Entwicklung auf dem Gebiet der
 Telekommunikation vor. In diesem Bericht ist auch zu der Frage
 Stellung zu nehmen, ob sich eine Änderung der Festlegung, welche
 Telekommunikationsdienste als Universaldienstleistungen im Sinne des §
-78 gelten, empfiehlt.
+78 gelten, empfiehlt. Ferner teilt die Bundesnetzagentur in dem
+Bericht mit,
+
+1.  in welchem Umfang und mit welchen Ergebnissen sie Sicherheitskonzepte
+    nach § 113g und deren Einhaltung überprüft hat und
+
+
+2.  ob und welche Beanstandungen und weiteren Ergebnisse die oder der
+    Bundesbeauftragte für den Datenschutz und die Informationsfreiheit an
+    die Bundesnetzagentur übermittelt hat (§ 115 Absatz 4 Satz 2).
+
+
+
 
 (2) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in
 dem sie den Stand und die absehbare Entwicklung des Wettbewerbs und
@@ -7671,7 +8967,11 @@ Aufgaben von Bedeutung sein können.
 (2) Die Bundesnetzagentur arbeitet mit den Landesmedienanstalten
 zusammen. Auf Anfrage übermittelt sie den Landesmedienanstalten
 Erkenntnisse, die für die Erfüllung von deren Aufgaben erforderlich
-sind.
+sind. Bei der Wahrnehmung ihrer Aufgaben und Befugnisse nach Artikel 5
+der Verordnung (EU) 2015/2120 arbeitet die Bundesnetzagentur, soweit
+Belange des Rundfunks und vergleichbarer Telemedien nach § 2 Absatz 6
+Satz 1 betroffen sind, mit der nach dem jeweiligen Landesrecht
+zuständigen Stelle zusammen.
 
 
 #### § 123a Zusammenarbeit mit anderen Behörden auf der Ebene der Europäischen Union
@@ -7773,10 +9073,10 @@ insbesondere
 #### § 126 Untersagung
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Unternehmen seine
-Verpflichtungen nach diesem Gesetz, auf Grund dieses Gesetzes oder
-nach der Verordnung (EG) Nr. 717/2007 nicht erfüllt, fordert sie das
-Unternehmen zur Stellungnahme und Abhilfe auf. Sie setzt dem
-Unternehmen für die Abhilfe eine Frist.
+Verpflichtungen nach diesem Gesetz, auf Grund dieses Gesetzes, nach
+der Verordnung (EU) Nr. 531/2012 oder nach der Verordnung (EU)
+2015/2120 nicht erfüllt, fordert sie das Unternehmen zur Stellungnahme
+und Abhilfe auf. Sie setzt dem Unternehmen für die Abhilfe eine Frist.
 
 (2) Kommt das Unternehmen innerhalb der gesetzten Frist seinen
 Verpflichtungen nicht nach, kann die Bundesnetzagentur die zur
@@ -7806,13 +9106,19 @@ bestätigt, aufgehoben oder abgeändert wird.
 des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld bis zu 500 000
 Euro festgesetzt werden.
 
+(6) Die Absätze 1, 2, 4 und 5 gelten für die Durchsetzung von
+Verpflichtungen von Eigentümern und Betreibern öffentlicher
+Versorgungsnetze, die keine Unternehmen sind, entsprechend.
+
 
 #### § 127 Auskunftsverlangen
 
-(1) Unbeschadet anderer nationaler Berichts- und Informationspflichten
-sind die Betreiber von öffentlichen Telekommunikationsnetzen und die
-Anbieter von öffentlich zugänglichen Telekommunikationsdiensten
-verpflichtet, im Rahmen der Rechte und Pflichten aus diesem Gesetz der
+(1) Unbeschadet anderer nationaler oder auf unmittelbar vollziehbarem
+Recht der Europäischen Union beruhender Berichts- und
+Informationspflichten sind die Betreiber von öffentlichen
+Telekommunikationsnetzen und die Anbieter von öffentlich zugänglichen
+Telekommunikationsdiensten verpflichtet, im Rahmen der Rechte und
+Pflichten aus diesem Gesetz und aus der Verordnung (EU) 2015/2120 der
 Bundesnetzagentur auf Verlangen Auskünfte zu erteilen, die für den
 Vollzug dieses Gesetzes erforderlich sind. Die Bundesnetzagentur kann
 insbesondere Auskünfte verlangen, die erforderlich sind für
@@ -7872,21 +9178,45 @@ Marktmacht auf Vorleistungsmärkten verlangen, Rechnungslegungsdaten zu
 den mit diesen Vorleistungsmärkten verbundenen Endnutzermärkten
 vorzulegen.
 
-(3) Die Bundesnetzagentur fordert die Auskünfte nach den Absätzen 1
-und 2 und ordnet die Prüfung nach Absatz 2 Nr. 2 durch schriftliche
-Verfügung an. In der Verfügung sind die Rechtsgrundlagen, der
-Gegenstand und der Zweck des Auskunftsverlangens anzugeben. Bei einem
-Auskunftsverlangen ist eine angemessene Frist zur Erteilung der
+(2a) Soweit es zur Erfüllung der Aufgaben erforderlich ist, die der
+Bundesnetzagentur in diesem Gesetz übertragen werden, kann die
+Bundesnetzagentur im Streitfall
+
+1.  passive Netzinfrastrukturen öffentlicher Versorgungsnetze vor Ort
+    untersuchen,
+
+
+2.  von den Eigentümern und Betreibern öffentlicher Versorgungsnetze
+    Auskünfte über künftige Entwicklungen der Netze und Dienste verlangen,
+    soweit sich diese Entwicklungen auf die Mitnutzung der passiven
+    Netzinfrastrukturen der Eigentümer und Betreiber öffentlicher
+    Versorgungsnetze auswirken können, und
+
+
+3.  in den Fällen von § 77a Absatz 4, § 77b Absatz 4, § 77c Absatz 3, §
+    77g Absatz 2, § 77h Absatz 4 und § 77i Absatz 5 Einsicht nehmen in die
+    von den Betreibern öffentlicher Versorgungsnetze erstellten
+    Sicherheitskonzepte, sonstigen Konzepte, Nachweisdokumente oder in
+    Teile davon.
+
+
+
+
+(3) Die Bundesnetzagentur fordert die Auskünfte nach den Absätzen 1, 2
+und 2a und ordnet die Prüfung nach Absatz 2 Nummer 2 und 2a durch
+schriftliche Verfügung an. In der Verfügung sind die Rechtsgrundlagen,
+der Gegenstand und der Zweck des Auskunftsverlangens anzugeben. Bei
+einem Auskunftsverlangen ist eine angemessene Frist zur Erteilung der
 Auskunft zu bestimmen.
 
 (4) Die Inhaber der Unternehmen oder die diese vertretenden Personen,
 bei juristischen Personen, Gesellschaften oder nicht rechtsfähigen
 Vereinen die nach Gesetz oder Satzung zur Vertretung berufenen
 Personen, sind verpflichtet, die verlangten Auskünfte nach den
-Absätzen 1 und 2 zu erteilen, die geschäftlichen Unterlagen vorzulegen
-und die Prüfung dieser geschäftlichen Unterlagen sowie das Betreten
-von Geschäftsräumen und -grundstücken während der üblichen Betriebs-
-oder Geschäftszeiten zu dulden.
+Absätzen 1, 2 und 2a zu erteilen, die geschäftlichen Unterlagen
+vorzulegen und die Prüfung dieser geschäftlichen Unterlagen sowie das
+Betreten von Geschäftsräumen und -grundstücken während der üblichen
+Betriebs- oder Geschäftszeiten zu dulden.
 
 (5) Personen, die von der Bundesnetzagentur mit der Vornahme von
 Prüfungen beauftragt werden, dürfen die Büro- und Geschäftsräume der
@@ -8032,20 +9362,27 @@ Beteiligten nach billigem Ermessen auferlegen.
 ##### § 132 Beschlusskammerentscheidungen
 
 (1) Die Bundesnetzagentur entscheidet durch Beschlusskammern in den
-Fällen des Teils 2, des § 55 Absatz 10, der §§ 61, 62, 77a Absatz 1
-und 2 und des § 81; Absatz 3 Satz 1 bleibt unberührt. Die Entscheidung
-ergeht durch Verwaltungsakt. Die Beschlusskammern werden mit Ausnahme
-des Absatzes 3 nach Bestimmung des Bundesministeriums für Wirtschaft
-und Technologie gebildet.
+Fällen des Teils 2, des § 55 Absatz 10, der §§ 61 und 62 sowie des §
+81\. Absatz 4 Satz 1 bleibt unberührt. Die Entscheidung ergeht durch
+Verwaltungsakt. Die Beschlusskammern werden mit Ausnahme der Absätze 2
+und 4 nach Bestimmung des Bundesministeriums für Wirtschaft und
+Energie im Benehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur gebildet.
 
-(2) Die Beschlusskammern entscheiden in der Besetzung mit einem
+(2) Die Bundesnetzagentur entscheidet durch Beschlusskammern als
+nationale Streitbeilegungsstelle in den Fällen des § 77n. Die
+Entscheidung ergeht durch Verwaltungsakt. Nationale
+Streitbeilegungsstellen werden nach Bestimmung des Bundesministeriums
+für Verkehr und digitale Infrastruktur gebildet.
+
+(3) Die Beschlusskammern entscheiden in der Besetzung mit einem
 Vorsitzenden oder einer Vorsitzenden und zwei beisitzenden
 Mitgliedern. Der oder die Vorsitzende und die beisitzenden Mitglieder
 müssen die Befähigung für eine Laufbahn des höheren Dienstes erworben
 haben. Mindestens ein Mitglied der Beschlusskammer muss die Befähigung
 zum Richteramt haben.
 
-(3) In den Fällen des § 55 Absatz 10, der §§ 61, 62 und 81 entscheidet
+(4) In den Fällen des § 55 Absatz 10, der §§ 61, 62 und 81 entscheidet
 die Beschlusskammer in der Besetzung mit dem Präsidenten als
 Vorsitzendem oder der Präsidentin als Vorsitzender und den beiden
 Vizepräsidenten oder Vizepräsidentinnen als beisitzende Mitglieder;
@@ -8056,7 +9393,7 @@ Telekommunikation, Post und Eisenbahnen geregelt. Die Entscheidung in
 den Fällen des § 61 Absatz 3 Nummer 2 und 4 und des § 81 erfolgt im
 Benehmen mit dem Beirat.
 
-(4) Zur Wahrung einer einheitlichen Spruchpraxis in Fällen
+(5) Zur Wahrung einer einheitlichen Spruchpraxis in Fällen
 vergleichbarer oder zusammenhängender Sachverhalte und zur
 Sicherstellung des Konsistenzgebotes nach § 27 Abs. 2 sind in der
 Geschäftsordnung der Bundesnetzagentur Verfahren vorzusehen, die vor
@@ -8130,6 +9467,45 @@ Antrag ein.
 
 
 
+
+
+##### § 134a Verfahren der nationalen Streitbeilegung
+
+(1) Die nationale Streitbeilegungsstelle leitet ein Verfahren auf
+Antrag ein.
+
+(2) An Verfahren vor der nationalen Streitbeilegungsstelle sind
+beteiligt:
+
+1.  bei einem Verfahren nach § 77n Absatz 1 bis 5 der Antragsteller und
+    die Eigentümer oder Betreiber öffentlicher Versorgungsnetze, gegen die
+    sich das Verfahren richtet,
+
+
+2.  bei einem Verfahren nach § 77n Absatz 6 der Antragsteller und der
+    Verfügungsberechtigte über Netzinfrastrukturen in Gebäuden oder bis
+    zum ersten Konzentrations- oder Verteilerpunkt eines öffentlichen
+    Telekommunikationsnetzes, gegen den sich das Verfahren richtet,
+
+
+3.  die Personen und Personenvereinigungen, deren Interessen durch die
+    Entscheidung berührt werden und die die Bundesnetzagentur auf ihren
+    Antrag zu dem Verfahren beigeladen hat,
+
+
+4.  bei einer Inanspruchnahme von Eisenbahninfrastrukturunternehmen die
+    zuständige Eisenbahnaufsichtsbehörde.
+
+
+
+
+(3) Sind bei Streitigkeiten über das Vorliegen eines Ablehnungsgrundes
+nach § 77b Absatz 4 Nummer 3, § 77c Absatz 3 Nummer 3, § 77g Absatz 2
+Nummer 4, § 77h Absatz 4 Nummer 4 oder § 77i Absatz 5 kritische
+Infrastrukturen im Sinne des § 2 Absatz 10 des Gesetzes über das
+Bundesamt für Sicherheit in der Informationstechnik betroffen, so
+entscheidet die Bundesnetzagentur im Benehmen mit dem Bundesamt für
+Sicherheit in der Informationstechnik.
 
 
 ##### § 135 Anhörung, mündliche Verhandlung
@@ -8272,20 +9648,23 @@ Präsidentin.
 Telekommunikationspolitik, insbesondere bei der Mitarbeit in
 europäischen und internationalen Institutionen und Organisationen,
 wird die Bundesnetzagentur im Auftrag des Bundesministeriums für
-Wirtschaft und Technologie tätig. Dies gilt nicht für Aufgaben, die
-die Bundesnetzagentur auf Grund dieses Gesetzes oder anderer Gesetze
-sowie auf Grund von Verordnungen der Europäischen Union in eigener
+Wirtschaft und Energie oder des Bundesministeriums für Verkehr und
+digitale Infrastruktur tätig. Dies gilt nicht für Aufgaben, die die
+Bundesnetzagentur auf Grund dieses Gesetzes oder anderer Gesetze sowie
+auf Grund von Verordnungen der Europäischen Union in eigener
 Zuständigkeit wahrnimmt.
 
 (2) Die Bundesnetzagentur unterrichtet das Bundesministerium für
-Wirtschaft und Technologie vorab über die wesentlichen Inhalte
-geplanter Sitzungen in europäischen und internationalen Gremien. Sie
-fasst die wesentlichen Ergebnisse und Schlussfolgerungen der Sitzungen
-zusammen und übermittelt sie unverzüglich an das Bundesministerium für
-Wirtschaft und Technologie. Bei Aufgaben, die die Bundesnetzagentur
-nach Absatz 1 Satz 2 in eigener Zuständigkeit wahrnimmt, finden die
-Sätze 1 und 2 keine Anwendung, soweit zwingende Vorschriften die
-vertrauliche Behandlung von Informationen fordern.
+Wirtschaft und Energie oder das Bundesministerium für Verkehr und
+digitale Infrastruktur vorab über die wesentlichen Inhalte geplanter
+Sitzungen in europäischen und internationalen Gremien. Sie fasst die
+wesentlichen Ergebnisse und Schlussfolgerungen der Sitzungen zusammen
+und übermittelt sie unverzüglich an das Bundesministerium für
+Wirtschaft und Energie oder das Bundesministerium für Verkehr und
+digitale Infrastruktur. Bei Aufgaben, die die Bundesnetzagentur nach
+Absatz 1 Satz 2 in eigener Zuständigkeit wahrnimmt, finden die Sätze 1
+und 2 keine Anwendung, soweit zwingende Vorschriften die vertrauliche
+Behandlung von Informationen fordern.
 
 
 ##### § 141 Anerkannte Abrechnungsstelle für den Seefunkverkehr
@@ -8302,8 +9681,8 @@ die Bundesnetzagentur.
 
 ### § 142 Gebühren und Auslagen
 
-(1) Die Bundesnetzagentur erhebt für die folgenden Amtshandlungen
-Gebühren und Auslagen:
+(1) Die Bundesnetzagentur erhebt für die folgenden individuell
+zurechenbaren öffentlichen Leistungen Gebühren und Auslagen:
 
 1.  Entscheidungen über die Zuteilung eines Nutzungsrechts an Frequenzen
     nach § 55,
@@ -8321,8 +9700,9 @@ Gebühren und Auslagen:
     Notifizierung von Satellitensystemen nach § 56,
 
 
-5.  sonstige Amtshandlungen, die in einem engen Zusammenhang mit einer
-    Entscheidung nach den Nummern 1 bis 4 stehen,
+5.  sonstige individuell zurechenbare öffentliche Leistungen, die in einem
+    engen Zusammenhang mit einer Entscheidung nach den Nummern 1 bis 4
+    stehen,
 
 
 6.  Maßnahmen auf Grund von Verstößen gegen dieses Gesetz oder die darauf
@@ -8344,12 +9724,16 @@ Gebühren und Auslagen:
 
 
 11. Entscheidungen über sonstige Streitigkeiten zwischen Unternehmen nach
-    § 133.
+    § 133,
+
+
+12. Entscheidungen der Streitbeilegung nach § 77n.
 
 
 
 Gebühren und Auslagen werden auch erhoben, wenn ein Antrag auf
-Vornahme einer in Satz 1 bezeichneten Amtshandlung
+Vornahme einer in Satz 1 bezeichneten individuell zurechenbaren
+öffentlichen Leistung
 
 1.  aus anderen Gründen als wegen Unzuständigkeit der Behörde abgelehnt
     oder
@@ -8362,37 +9746,34 @@ Vornahme einer in Satz 1 bezeichneten Amtshandlung
 
 
 (2) Die Gebühren nach Absatz 1 werden vorbehaltlich der Regelung in
-Absatz 4 zur Deckung des Verwaltungsaufwands erhoben. Zur Ermittlung
-des Verwaltungsaufwands sind die Kosten, die nach
-betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten
-zurechenbar und ansatzfähig sind, insbesondere Personal- und
-Sachkosten sowie kalkulatorische Kosten zugrunde zu legen.
+Absatz 4 zur Deckung des Verwaltungsaufwands erhoben.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf,
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Verkehr und digitale Infrastruktur durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1.  die gebührenpflichtigen Tatbestände nach Absatz 1 sowie die Höhe der
     hierfür zu erhebenden Gebühren näher zu bestimmen und dabei feste
-    Sätze auch in Form von Gebühren nach Zeitaufwand oder Rahmensätze
+    Sätze, auch in Form von Gebühren nach Zeitaufwand, oder Rahmensätze
     vorzusehen,
 
 
 2.  eine bestimmte Zahlungsweise der Gebühren anzuordnen und
 
 
-3.  das Nähere zur Ermittlung des Verwaltungsaufwands nach Absatz 2 Satz 2
-    zu bestimmen.
+3.  das Nähere zur Ermittlung des Verwaltungsaufwands nach Absatz 2 zu
+    bestimmen.
 
 
 
-Das Bundesministerium für Wirtschaft und Technologie kann die
-Ermächtigung nach Satz 1 durch Rechtsverordnung unter Sicherstellung
-der Einvernehmensregelung auf die Bundesnetzagentur übertragen. Eine
+Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung
+nach Satz 1 durch Rechtsverordnung unter Sicherstellung der
+Einvernehmensregelung auf die Bundesnetzagentur übertragen. Eine
 Rechtsverordnung der Bundesnetzagentur, ihre Änderung und ihre
 Aufhebung bedürfen des Einvernehmens mit dem Bundesministerium für
-Wirtschaft und Technologie und mit dem Bundesministerium der Finanzen.
+Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem
+Bundesministerium für Verkehr und digitale Infrastruktur.
 
 (4) Abweichend von Absatz 2 Satz 1 kann die Gebühr für Entscheidungen
 über die Zuteilungen nach Absatz 1 Nummer 1 und 2 so festgesetzt
@@ -8404,7 +9785,7 @@ durch wettbewerbsorientierte oder vergleichende Auswahlverfahren
 vergeben werden.
 
 (5) In Rechtsverordnungen nach Absatz 2 Satz 1 kann abweichend von den
-Vorschriften des Verwaltungskostengesetzes geregelt werden:
+Vorschriften des Bundesgebührengesetzes geregelt werden:
 
 1.  der Umfang der zu erstattenden Auslagen und
 
@@ -8424,8 +9805,8 @@ Aufhebung oder Änderung der Festsetzung gestellt, ist die
 Festsetzungsfrist so lange gehemmt, bis über den Antrag unanfechtbar
 entschieden wurde. Der Anspruch auf Zahlung von Gebühren und Auslagen
 verjährt mit Ablauf des fünften Kalenderjahres nach der Festsetzung
-(Zahlungsverjährung). Im Übrigen gilt § 20 des
-Verwaltungskostengesetzes.
+(Zahlungsverjährung). Im Übrigen gelten § 13 Absatz 3 und die §§ 18
+und 19 des Bundesgebührengesetzes.
 
 (7) Im Falle des Versteigerungsverfahrens nach § 61 Absatz 4 wird eine
 Zuteilungsgebühr nach Absatz 1 Nr. 1 nur erhoben, soweit sie den Erlös
@@ -8471,26 +9852,28 @@ die Nutzung von Frequenzen enthalten.
 einzubeziehen, für die bereits eine Gebühr nach § 142 oder eine Gebühr
 nach § 16 des Gesetzes über Funkanlagen und
 Telekommunikationsendeinrichtungen vom 31. Januar 2001 (BGBl. I S.
-170) oder Gebühren oder Beiträge nach § 17 oder § 19 des Gesetzes über
-die elektromagnetische Verträglichkeit von Betriebsmitteln vom 26.
-Februar 2008 (BGBl. I S. 220) und den auf diesen Vorschriften
-beruhenden Rechtsverordnungen erhoben wird.
+170) oder Gebühren nach der Besonderen Gebührenverordnung des
+Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des
+Bundesgebührengesetzes oder Beiträge nach § 31 des Elektromagnetische-
+Verträglichkeit-Gesetzes in der jeweils gültigen Fassung und den auf
+diesen Vorschriften beruhenden Rechtsverordnungen erhoben wird.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, nach Maßgabe der vorstehenden Absätze das Nähere über den
-Kreis der Beitragspflichtigen, die Beitragssätze, die
-Beitragskalkulation und das Verfahren der Beitragserhebung
-einschließlich der Zahlungsweise festzulegen. Der auf das
-Allgemeininteresse entfallende Kostenanteil ist beitragsmindernd zu
-berücksichtigen. Das Bundesministerium für Wirtschaft und Technologie
-kann die Ermächtigung nach Satz 1 durch Rechtsverordnung unter
-Sicherstellung der Einvernehmensregelung auf die Bundesnetzagentur
-übertragen. Eine Rechtsverordnung der Bundesnetzagentur, ihre Änderung
-und ihre Aufhebung bedürfen des Einvernehmens mit dem
-Bundesministerium für Wirtschaft und Technologie und mit dem
-Bundesministerium der Finanzen.
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Verkehr und digitale Infrastruktur durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+nach Maßgabe der vorstehenden Absätze das Nähere über den Kreis der
+Beitragspflichtigen, die Beitragssätze, die Beitragskalkulation und
+das Verfahren der Beitragserhebung einschließlich der Zahlungsweise
+festzulegen. Der auf das Allgemeininteresse entfallende Kostenanteil
+ist beitragsmindernd zu berücksichtigen. Das Bundesministerium für
+Wirtschaft und Energie kann die Ermächtigung nach Satz 1 durch
+Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf
+die Bundesnetzagentur übertragen. Eine Rechtsverordnung der
+Bundesnetzagentur, ihre Änderung und ihre Aufhebung bedürfen des
+Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie,
+dem Bundesministerium der Finanzen und dem Bundesministerium für
+Verkehr und digitale Infrastruktur.
 
 
 ### § 144 (weggefallen)
@@ -8500,17 +9883,8 @@ Bundesministerium der Finanzen.
 ### § 145 Kosten von außergerichtlichen Streitbeilegungsverfahren
 
 Für die außergerichtlichen Streitbeilegungsverfahren nach § 47a werden
-Gebühren und Auslagen erhoben. Die Höhe der Gebühr für das Verfahren
-bestimmt sich nach Maßgabe des § 34 Abs. 1 des Gerichtskostengesetzes.
-Auf die Bestimmung des Wertes der Streitfrage finden die §§ 3 bis 9
-der Zivilprozessordnung entsprechende Anwendung. Unterbreitet die
-Streitbeilegungsstelle einen Streitbeilegungsvorschlag, entscheidet
-sie über die Kosten unter Berücksichtigung des Sach- und Streitstandes
-nach billigem Ermessen. Die Entscheidung über die Kosten soll zusammen
-mit dem Streitbeilegungsvorschlag ergehen. Jede Partei trägt die ihr
-durch die Teilnahme am Verfahren entstandenen Kosten selbst. Im
-Übrigen finden die §§ 8 bis 21 des Verwaltungskostengesetzes
-entsprechende Anwendung.
+Gebühren und Auslagen nicht erhoben. Jede Partei trägt die ihr durch
+die Teilnahme am Verfahren entstehenden Kosten selbst.
 
 
 ### § 146 Kosten des Vorverfahrens
@@ -8521,9 +9895,10 @@ Gebühr bis zur Höhe der für die angefochtene Amtshandlung
 festgesetzten Gebühr erhoben. In den Fällen, in denen für die
 angefochtene Amtshandlung der Bundesnetzagentur keine Gebühr anfällt,
 bestimmt sich die Gebühr nach Maßgabe des § 34 Abs. 1 des
-Gerichtskostengesetzes; § 145 Satz 3 gilt entsprechend. Wird ein
-Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor
-deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75
+Gerichtskostengesetzes; auf die Bestimmung des Wertes der Streitfrage
+finden die §§ 3 bis 9 der Zivilprozessordnung entsprechende Anwendung.
+Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch
+vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75
 Prozent der Widerspruchsgebühr. Über die Kosten nach den Sätzen 2 und
 4 entscheidet die Widerspruchsstelle nach billigem Ermessen.
 
@@ -8545,9 +9920,9 @@ Verordnungen für die Zukunft angepasst.
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
 
-1.  entgegen § 89 Satz 1 oder 2 eine Nachricht abhört oder den Inhalt
-    einer Nachricht oder die Tatsache ihres Empfangs einem anderen
-    mitteilt oder
+1.  entgegen § 89 Satz 1 oder 2 eine Nachricht abhört oder in
+    vergleichbarer Weise zur Kenntnis nimmt oder den Inhalt einer
+    Nachricht oder die Tatsache ihres Empfangs einem anderen mitteilt oder
 
 
 2.  entgegen § 90 Abs. 1 Satz 1 eine dort genannte Sendeanlage oder eine
@@ -8595,8 +9970,9 @@ Geldstrafe.
         Verbindung mit § 18 Abs. 2 Satz 2,
 
 
-    b)  § 46 Absatz 9 Satz 1, § 67 Absatz 1 Satz 1, 2, 6 oder 7 oder § 109
-        Absatz 4 Satz 3 oder Satz 5,
+    b)  § 46 Absatz 9 Satz 1, § 67 Absatz 1 Satz 1, 2, 6 oder 7, § 77n Absatz
+        1 Satz 2, Absatz 4 Satz 2, Absatz 5 Satz 2 oder Absatz 6 Satz 2 oder §
+        109 Absatz 4 Satz 3 oder Satz 5,
 
 
     c)  § 29 Abs. 1 Satz 2, § 39 Abs. 3 Satz 2, § 65 oder § 127 Absatz 2 Satz
@@ -8625,35 +10001,47 @@ Geldstrafe.
     Bußgeldvorschrift verweist,
 
 
-7b. entgegen § 43a Absatz 1 Satz 1 eine Information nicht, nicht richtig
+7b. entgegen § 41b Absatz 1 Satz 1 den Anschluss einer
+    Telekommunikationsendeinrichtung verweigert,
+
+
+7c. entgegen § 41b Absatz 1 Satz 3 die notwendigen Zugangsdaten und
+    Informationen nicht, nicht richtig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig zur Verfügung stellt,
+
+
+7d. entgegen § 41c Absatz 5 eine Leistung anbietet,
+
+
+7e. entgegen § 43a Absatz 1 Satz 1 eine Information nicht, nicht richtig
     oder nicht vollständig zur Verfügung stellt,
 
 
-7c. entgegen § 45k Absatz 1 Satz 1 eine Leistung ganz oder teilweise
+7f. entgegen § 45k Absatz 1 Satz 1 eine Leistung ganz oder teilweise
     verweigert,
 
 
-7d. einer Rechtsverordnung nach § 45n Absatz 1 oder einer vollziehbaren
+7g. einer Rechtsverordnung nach § 45n Absatz 1 oder einer vollziehbaren
     Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
     soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
     Bußgeldvorschrift verweist,
 
 
-7e. entgegen § 45p Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
+7h. entgegen § 45p Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
     Information nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig zur Verfügung stellt,
 
 
-7f. entgegen § 45p Absatz 2 den Teilnehmer nicht, nicht richtig oder nicht
+7i. entgegen § 45p Absatz 2 den Teilnehmer nicht, nicht richtig oder nicht
     vollständig unterrichtet,
 
 
-7g. entgegen § 46 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, nicht
+7j. entgegen § 46 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, nicht
     sicherstellt, dass die Leistung beim Anbieterwechsel gegenüber dem
     Teilnehmer nicht unterbrochen wird,
 
 
-7h. entgegen § 46 Absatz 1 Satz 2 den Telekommunikationsdienst
+7k. entgegen § 46 Absatz 1 Satz 2 den Telekommunikationsdienst
     unterbricht,
 
 
@@ -8715,14 +10103,29 @@ Geldstrafe.
 13h. entgegen § 66f Abs. 1 Satz 1 einen Dialer einsetzt,
 
 
-13i. entgegen § 66j Absatz 1 Satz 2 R-Gesprächsdienste anbietet,
+13i. entgegen § 66g Absatz 1 eine Warteschleife einsetzt,
 
 
-13j. entgegen § 66j Abs. 1 Satz 1 oder 3 eine Rufnummer oder Nummer für
-    Kurzwahl-Sprachdienste übermittelt, entgegen § 66j Abs. 1 Satz 4 eine
-    übermittelte Rufnummer verändert oder entgegen § 66j Abs. 2 Satz 1
-    oder 2 eine Rufnummer oder Nummer für Kurzwahl-Sprachdienste aufsetzt
-    und übermittelt,
+13j. entgegen § 66g Absatz 2 nicht sicherstellt, dass der Anrufende
+    informiert wird,
+
+
+13k. entgegen § 66j Absatz 1 Satz 2 R-Gesprächsdienste anbietet,
+
+
+13l. entgegen § 66k Absatz 1 Satz 1 nicht sicherstellt, dass eine
+    vollständige Rufnummer übermittelt und gekennzeichnet wird,
+
+
+13m. entgegen § 66k Absatz 1 Satz 3 eine Rufnummer oder eine Nummer für
+    Kurzwahl-Sprachdienste übermittelt,
+
+
+13n. entgegen § 66k Absatz 1 Satz 4 eine übermittelte Rufnummer verändert,
+
+
+13o. entgegen § 66k Absatz 2 eine Rufnummer oder eine Nummer für Kurzwahl-
+    Sprachdienste aufsetzt oder übermittelt,
 
 
 14. entgegen § 87 Abs. 1 Satz 1 oder § 110 Abs. 1 Satz 2 oder 3 eine
@@ -8751,7 +10154,15 @@ Geldstrafe.
     rechtzeitig gibt,
 
 
-17c. entgegen § 102 Abs. 2 die Rufnummernanzeige unterdrückt oder
+17c. entgegen § 100 Absatz 1 Satz 3 die Daten nicht oder nicht rechtzeitig
+    löscht,
+
+
+17d. entgegen § 100 Absatz 1 Satz 4 die Daten zu anderen Zwecken genutzt
+    werden,
+
+
+17e. entgegen § 102 Abs. 2 die Rufnummernanzeige unterdrückt oder
     veranlasst, dass diese unterdrückt wird,
 
 
@@ -8778,8 +10189,8 @@ Geldstrafe.
     nicht oder nicht rechtzeitig vorlegt,
 
 
-21a. entgegen § 109 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig macht,
+21a. entgegen § 109 Absatz 5 Satz 1 Nummer 1 eine Mitteilung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
 21b. entgegen § 109a Absatz 1 Satz 1 oder Satz 2 die Bundesnetzagentur, den
@@ -8822,19 +10233,21 @@ Geldstrafe.
     der vorgeschriebenen Weise oder nicht rechtzeitig bereitstellt,
 
 
-29. entgegen § 111 Abs. 1 Satz 1, auch in Verbindung mit Satz 2 oder Satz
-    3, oder § 111 Abs. 1 Satz 4 dort genannte Daten nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig erhebt, nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig speichert oder nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig berichtigt,
+29. entgegen § 111 Absatz 1 Satz 1, auch in Verbindung mit Absatz 1 Satz 2
+    oder Absatz 2, oder entgegen § 111 Absatz 1 Satz 3 oder 5 oder Absatz
+    3 dort genannte Daten nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig erhebt, nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig speichert oder nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig berichtigt oder die Richtigkeit
+    dort genannter Daten nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig überprüft,
 
 
-30. entgegen § 111 Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Daten
-    nicht oder nicht rechtzeitig erhebt oder nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig übermittelt,
+30. entgegen § 111 Absatz 4 Satz 2 eine Änderung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig übermittelt,
 
 
-30a. entgegen § 111 Abs. 4 Daten nicht oder nicht rechtzeitig löscht,
+30a. entgegen § 111 Absatz 5 Daten nicht oder nicht rechtzeitig löscht,
 
 
 31. entgegen § 112 Abs. 1 Satz 5 nicht gewährleistet, dass die
@@ -8845,76 +10258,179 @@ Geldstrafe.
     zur Kenntnis gelangen können,
 
 
-33. entgegen § 113 Abs. 1 Satz 1 oder 2, § 114 Abs. 1 Satz 1 oder § 127
-    Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig erteilt,
+33. entgegen § 113 Absatz 2 Satz 1 zweiter Halbsatz Daten nach § 113
+    Absatz 1 Satz 2 übermittelt,
 
 
-34. entgegen § 113 Abs. 1 Satz 2, Halbsatz 2 Daten übermittelt oder
+34. entgegen § 113 Absatz 4 Satz 1 dort genannte Daten nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
 
-35. entgegen § 113 Abs. 1 Satz 4 Stillschweigen nicht wahrt.
+35. entgegen § 113 Absatz 4 Satz 2 Stillschweigen nicht wahrt,
+
+
+36. entgegen § 113b Absatz 1, auch in Verbindung mit § 113b Absatz 7,
+    Daten nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise, nicht für die vorgeschriebene Dauer oder nicht
+    rechtzeitig speichert,
+
+
+37. entgegen § 113b Absatz 1 in Verbindung mit § 113a Absatz 1 Satz 2
+    nicht sicherstellt, dass die dort genannten Daten gespeichert werden,
+    oder eine Mitteilung nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig macht,
+
+
+38. entgegen § 113b Absatz 8 Daten nicht oder nicht rechtzeitig löscht
+    oder nicht sicherstellt, dass die Daten rechtzeitig gelöscht werden,
+
+
+39. entgegen § 113c Absatz 2 Daten für andere als die genannten Zwecke
+    verwendet,
+
+
+40. entgegen § 113d Satz 1 nicht sicherstellt, dass Daten gegen unbefugte
+    Kenntnisnahme und Verwendung geschützt werden,
+
+
+41. entgegen § 113e Absatz 1 nicht sicherstellt, dass jeder Zugriff
+    protokolliert wird,
+
+
+42. entgegen § 113e Absatz 2 Protokolldaten für andere als die genannten
+    Zwecke verwendet,
+
+
+43. entgegen § 113e Absatz 3 nicht sicherstellt, dass Protokolldaten
+    rechtzeitig gelöscht werden,
+
+
+44. entgegen § 113g Satz 2 das Sicherheitskonzept nicht oder nicht
+    rechtzeitig vorlegt oder
+
+
+45. entgegen § 114 Abs. 1 Satz 1 oder § 127 Abs. 1 Satz 1 eine Auskunft
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    erteilt.
 
 
 
 
-(1a) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr.
-717/2007 des Europäischen Parlaments und des Rates vom 27. Juni 2007
-über das Roaming in öffentlichen Mobilfunknetzen in der Gemeinschaft
-und zur Änderung der Richtlinie 2002/21/EG (ABl. L 171 vom 29.6.2007,
-S. 32), die durch die Verordnung (EG) Nr. 544/2009 (ABl. L 167 vom
-29\.6.2009, S. 12) geändert worden ist, verstößt, indem er vorsätzlich
-oder fahrlässig
+(1a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
+531/2012 des Europäischen Parlaments und des Rates vom 13. Juni 2012
+über das Roaming in öffentlichen Mobilfunknetzen in der Union (ABl. L
+172 vom 30.6.2012, S. 10), die zuletzt durch die Verordnung (EU)
+2015/2120 (ABl. L 310 vom 26.11.2015, S. 1) geändert worden ist,
+verstößt, indem er vorsätzlich oder fahrlässig
 
-1.  als Betreiber eines besuchten Netzes dem Betreiber des Heimatnetzes
-    eines Roamingkunden ein höheres durchschnittliches Großkundenentgelt
-    als das in Artikel 3 Absatz 2 Satz 2 genannte Entgelt berechnet,
+1.  entgegen Artikel 3 Absatz 5 Satz 2 einen Vertrag nicht oder nicht
+    rechtzeitig vorlegt,
 
 
-2.  als Heimatanbieter seinem Roamingkunden für die Abwicklung eines
-    regulierten Roaminganrufs ein höheres Endkundenentgelt als das in
-    Artikel 4 Absatz 2 Satz 3 genannte Entgelt berechnet,
+2.  entgegen Artikel 5 Absatz 1 Satz 2 einem dort genannten Antrag nicht
+    oder nicht unverzüglich nachkommt,
 
 
-3.  als Betreiber eines besuchten Netzes dem Betreiber des Heimatnetzes
-    eines Roamingkunden für die Abwicklung einer aus dem betreffenden
-    besuchten Netz abgehenden regulierten SMS-Roamingnachricht ein höheres
-    als das in Artikel 4a Absatz 1 genannte Großkundenentgelt berechnet,
+3.  entgegen Artikel 6a ein dort genanntes Entgelt berechnet,
 
 
-4.  als Heimatanbieter eines Roamingkunden für die Abwicklung einer vom
-    Kunden versendeten SMS-Roamingnachricht ein höheres Endkundenentgelt
-    als das in Artikel 4b Absatz 2 genannte Entgelt berechnet,
+4.  entgegen Artikel 6e Absatz 1 Unterabsatz 2 Satz 1 einen Aufschlag
+    erhebt,
 
 
-5.  als Betreiber eines besuchten Netzes dem Betreiber des Heimatnetzes
-    eines Roamingkunden für die Abwicklung regulierter Datenroamingnetze
-    über das betreffende besuchte Netz ein höheres durchschnittliches
-    Großkundenentgelt als das in Artikel 6a Absatz 4 Buchstabe a Satz 1
-    genannte Entgelt berechnet oder
+5.  entgegen Artikel 6e Absatz 1 Unterabsatz 3 Satz 1 oder 3 ein Entgelt
+    nicht richtig abrechnet,
 
 
-6.  entgegen Artikel 7 Absatz 4 Satz 2 eine Information nicht, nicht
+6.  entgegen Artikel 6e Absatz 1 Unterabsatz 3 Satz 2 eine andere
+    Mindestabrechnungsdauer zugrunde legt,
+
+
+7.  entgegen Artikel 11 ein technisches Merkmal verändert,
+
+
+8.  entgegen Artikel 15 Absatz 2a Satz 1 in Verbindung mit Satz 2 eine
+    Mitteilung nicht oder nicht rechtzeitig versendet,
+
+
+9.  entgegen Artikel 15 Absatz 3 Unterabsatz 6 Satz 1 nicht sicherstellt,
+    dass eine dort genannte Meldung übermittelt wird,
+
+
+10. entgegen Artikel 15 Absatz 3 Unterabsatz 7 Satz 3 die Erbringung oder
+    Inrechnungstellung eines dort genannten Dienstes nicht oder nicht
+    rechtzeitig einstellt,
+
+
+11. entgegen Artikel 15 Absatz 3 Unterabsatz 8 eine dort genannte Änderung
+    nicht oder nicht rechtzeitig vornimmt oder
+
+
+12. entgegen Artikel 16 Absatz 4 Satz 2 eine Information nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
 
 
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 4
-Buchstabe a, Nummer 6, 10, 22, 27 und 31 mit einer Geldbuße bis zu
-fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 7a, 16,
-17, 17a, 18, 26, 29, 30a und 34 mit einer Geldbuße bis zu
-dreihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4
-Buchstabe b, Nummer 7b bis 7d, 7g, 7h, 12, 13 bis 13b, 13d bis 13o,
-15, 17c, 19, 19a, 20, 21, 21b und 30 sowie des Absatzes 1a Nummer 1
-bis 5 mit einer Geldbuße bis zu einhunderttausend Euro, in den Fällen
-des Absatzes 1 Nummer 7, 8, 9, 11, 17b, 21a, 21c, 23 und 24 mit einer
-Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen des
-Absatzes 1 sowie im Fall des Absatzes 1a Nummer 6 mit einer Geldbuße
-bis zu zehntausend Euro geahndet werden. Die Geldbuße soll den
-wirtschaftlichen Vorteil, den der Täter aus der Ordnungswidrigkeit
-gezogen hat, übersteigen. Reichen die in Satz 1 genannten Beträge
-hierfür nicht aus, so können sie überschritten werden.
+(1b) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2015/2120
+des Europäischen Parlaments und des Rates vom 25. November 2015 über
+Maßnahmen zum Zugang zum offenen Internet und zur Änderung der
+Richtlinie 2002/22/EG über den Universaldienst und Nutzerrechte bei
+elektronischen Kommunikationsnetzen und -diensten sowie der Verordnung
+(EU) Nr. 531/2012 über das Roaming in öffentlichen Mobilfunknetzen in
+der Union (ABl. L 310 vom 26.11.2015, S. 1) verstößt, indem er
+vorsätzlich oder fahrlässig
+
+1.  entgegen Artikel 3 Absatz 3 Unterabsatz 3 erster Halbsatz eine dort
+    genannte Verkehrsmanagementmaßnahme anwendet,
+
+
+2.  entgegen Artikel 4 Absatz 1 Unterabsatz 1 Satz 1 nicht sicherstellt,
+    dass ein dort genannter Vertrag die dort genannten Angaben enthält,
+
+
+3.  einer vollziehbaren Anordnung nach Artikel 5 Absatz 1 Unterabsatz 1
+    Satz 2 zuwiderhandelt oder
+
+
+4.  entgegen Artikel 5 Absatz 2 eine dort genannte Information nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    übermittelt.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann wie folgt geahndet werden:
+
+1.  in den Fällen des Absatzes 1 Nummer 4 Buchstabe a, Nummer 6, 10, 22,
+    27, 31 und 36 bis 40 und des Absatzes 1b Nummer 1 und 3 mit einer
+    Geldbuße bis zu fünfhunderttausend Euro,
+
+
+2.  in den Fällen des Absatzes 1 Nummer 7a, 16 bis 17a, 18, 26, 29, 30a,
+    33 und 41 bis 43 mit einer Geldbuße bis zu dreihunderttausend Euro,
+
+
+3.  in den Fällen des Absatzes 1 Nummer 4 Buchstabe b, Nummer 7b bis 7d,
+    7g, 7h, 12 bis 13b, 13d bis 13o, 15, 17c, 19 bis 21, 21b, 30 und 44,
+    des Absatzes 1a Nummer 1 bis 4 und des Absatzes 1b Nummer 2 mit einer
+    Geldbuße bis zu hunderttausend Euro,
+
+
+4.  in den Fällen des Absatzes 1 Nummer 7, 8, 9, 11, 17b, 21a, 21c, 23 und
+    24 mit einer Geldbuße bis zu fünfzigtausend Euro und
+
+
+5.  in den übrigen Fällen der Absätze 1 bis 1b mit einer Geldbuße bis zu
+    zehntausend Euro.
+
+
+
+Die Geldbuße soll den wirtschaftlichen Vorteil, den der Täter aus der
+Ordnungswidrigkeit gezogen hat, übersteigen. Reichen die in Satz 1
+genannten Beträge hierfür nicht aus, so können sie überschritten
+werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesnetzagentur.
@@ -9047,6 +10563,22 @@ worden ist.
 (12) Auf vor dem Inkrafttreten dieses Gesetzes gestellte Anträge nach
 § 99 Abs. 2 der Verwaltungsgerichtsordnung sind die bisherigen
 Vorschriften anwendbar.
+
+(13) Die Speicherverpflichtung und die damit verbundenen
+Verpflichtungen nach den §§ 113b bis 113e und 113g sind spätestens ab
+dem 1. Juli 2017 zu erfüllen. Die Bundesnetzagentur veröffentlicht den
+nach § 113f Absatz 1 Satz 2 zu erstellenden Anforderungskatalog
+spätestens am 1. Januar 2017.
+
+(14) Für Vertragsverhältnisse, die am 22. Juni 2004 bereits bestanden,
+müssen Daten nach § 111 Absatz 1 Satz 1 oder Absatz 2 außer in Fällen
+des § 111 Absatz 3 nicht nachträglich erhoben werden.
+
+(15) Die Bundesnetzagentur veröffentlicht die Verfügung nach § 111
+Absatz 1 Satz 4 spätestens am 1. Januar 2017 im Amtsblatt. Die
+Pflichten zur Überprüfung der Richtigkeit der erhobenen Daten nach §
+111 Absatz 1 Satz 3 und zur Speicherung der Angaben nach § 111 Absatz
+1 Satz 5 sind spätestens ab dem 1. Juli 2017 zu erfüllen.
 
 
 ### § 151

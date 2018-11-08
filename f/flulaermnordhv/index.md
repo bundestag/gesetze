@@ -29,8 +29,8 @@ verordnet:
 ## § 1
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
-erheblichen Belästigungen durch Fluglärm in der Umgebung des Luft
-/Boden-Schießplatzes Nordhorn wird der in § 2 bestimmte
+erheblichen Belästigungen durch Fluglärm in der Umgebung des
+Luft/Boden-Schießplatzes Nordhorn wird der in § 2 bestimmte
 Lärmschutzbereich festgesetzt.
 
 
@@ -8487,6 +8487,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Luft/Boden-Schießplatz Nordhorn)
 
-   (Fundstelle: BGBl I 1978, 1747 - 1748)
+   (Fundstelle: BGBl I 1978, 1748 - 1749)
 
-![bgbl1_1978_j1747_0010.jpg](bgbl1_1978_j1747_0010.jpg)![bgbl1_1978_j1748_0010.jpg](bgbl1_1978_j1748_0010.jpg)
+![bgbl1_1978_j1747_0010.jpg](bgbl1_1978_j1747_0010.jpg)![bgbl1_1978_j1749_0010.jpg](bgbl1_1978_j1749_0010.jpg)

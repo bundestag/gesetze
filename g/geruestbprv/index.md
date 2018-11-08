@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 1795
 
+Geändert durch
+:   Art. 34 V v. 9.12.2019 I 2153
+
 
 
 ## Eingangsformel
@@ -38,7 +41,7 @@ durch die berufliche Fortbildung zum Geprüften Gerüstbau-
 Kolonnenführer erworben worden sind, kann die zuständige Stelle
 Prüfungen gemäß den §§ 2 bis 8 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, folgende
 Aufgaben eines Gerüstbau-Kolonnenführers wahrzunehmen:
 
@@ -253,13 +256,13 @@ Dauer gekürzt werden.
 
 (7) Die mündliche Prüfung ist mindestens in einem Prüfungsfach
 durchzuführen und dauert je Prüfungsfach in der Regel 15 Minuten,
-insgesamt aber nicht länger als 30 Minuten. Dabei soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist,
-berufsspezifische Situationen zu erkennen, ihre Ursachen zu klären und
-sachgerechte Lösungen vorzuschlagen.
+insgesamt aber nicht länger als 30 Minuten. Dabei soll die zu prüfende
+Person nachweisen, daß sie in der Lage ist, berufsspezifische
+Situationen zu erkennen, ihre Ursachen zu klären und sachgerechte
+Lösungen vorzuschlagen.
 
 (8) Der Prüfungsausschuß kann abweichend von Absatz 7 von der
-mündlichen Prüfung befreien, wenn der Prüfungsteilnehmer in allen
+mündlichen Prüfung befreien, wenn die zu prüfende Person in allen
 Prüfungsfächern gute schriftliche Leistungen erbracht hat.
 
 
@@ -328,69 +331,111 @@ werden:
 
 
 (4) Die Prüfung nach Absatz 1 ist in Form von praktischen Arbeiten
-oder Übungen durchzuführen. Die Prüfung soll je Prüfungsfach und
-Prüfungsteilnehmer in der Regel 2 Stunden dauern. Die Prüfung kann je
+oder Übungen durchzuführen. Die Prüfung soll je Prüfungsfach und je zu
+prüfender Person in der Regel 2 Stunden dauern. Die Prüfung kann je
 nach Aufgabenstellung einzeln oder durch Führung einer Gerüstbau-
 Kolonne durchgeführt werden.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-(1) Von der Ablegung der Prüfung in einem Prüfungsfach oder mehreren
-Prüfungsfächern gemäß den §§ 4 und 5 kann der Prüfungsteilnehmer auf
-Antrag von der zuständigen Stelle freigestellt werden, wenn er vor
-einer zuständigen Stelle, einer öffentlichen oder staatlich
-anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuß eine Prüfung bestanden hat, deren Inhalt den
-Anforderungen des jeweiligen Prüfungsfachs entspricht. Eine
-Freistellung von allen Prüfungsfächern ist nicht zulässig.
-
-(2)
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 8 Absatz 4 entsprechend ihrem Verhältnis
+zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen
+des Prüfungsausschusses zugrunde zu legen.
 
 
-## § 7 Bestehen der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Die Prüfungsteile sind gesondert zu bewerten. Für jeden
-Prüfungsteil ist eine Note aus den Leistungen der einzelnen
-Prüfungsfächer zu bilden. Dabei sind die Noten für die schriftlichen
-und mündlichen Prüfungsleistungen in einem Prüfungsfach zu einer Note
-zusammenzufassen. Die Leistungen in der schriftlichen und in der
-mündlichen Prüfung haben das gleiche Gewicht.
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
 
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in 3
-Prüfungsfächern des fachtheoretischen Teils und in den 2
-Prüfungsfächern des fachpraktischen Teils mindestens ausreichende
-Leistungen erbracht hat.
+(2) Im fachtheoretischen Teil sind als Prüfungsleistungen die vier
+schriftlichen Prüfungen in jedem Prüfungsfach nach § 4 Absatz 1 zu
+bewerten. Ist in einem Prüfungsfach auch eine mündliche Prüfung nach §
+4 Absatz 7 durchgeführt worden, so wird als Bewertung dieses
+Prüfungsfachs das arithmetische Mittel aus der Bewertung der
+schriftlichen und der mündlichen Prüfung berechnet.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß Anlage 1
-auszustellen. Auf Antrag des Prüfungsteilnehmers ist ein Zeugnis gemäß
-Anlage 2 auszustellen, aus dem die in den einzelnen Prüfungsfächern
-erzielten Prüfungsnoten hervorgehen müssen. Im Falle der Freistellung
-nach § 6 sind Ort, Datum und Bezeichnung des Prüfungsgremiums der
-anderweitig abgelegten Prüfung anzugeben.
+(3) Im fachpraktischen Teil sind die Prüfungsleistungen in den beiden
+Prüfungsfächern nach § 5 Absatz 1 zu bewerten.
 
 
-## § 8 Wiederholung der Prüfung
+## § 8 Bestehen der Prüfung, Gesamtnote
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in mindestens drei Prüfungsfächern des fachtheoretischen Teils und
+
+
+2.  in beiden Prüfungsfächern des fachpraktischen Teils.
+
+
+
+
+(2) Ist die Prüfung bestanden, werden die Bewertungen für die
+Prüfungsfächer des fachtheoretischen Teils, in denen auch eine
+mündliche Prüfung durchgeführt wurde, kaufmännisch auf eine ganze Zahl
+gerundet.
+
+(3) Den Bewertungen für die einzelnen Prüfungsleistungen im
+fachtheoretischen Teil und für die beiden Prüfungsleistungen im
+fachpraktischen Teil ist nach Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen für die Prüfungsleistungen im
+fachtheoretischen Teil und den Bewertungen für die Prüfungsleistungen
+im fachpraktischen Teil zu berechnen. Die Gesamtpunktzahl ist
+kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten
+Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die
+Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag
+(2) In der Wiederholungsprüfung ist die zu prüfende Person auf Antrag
 von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern zu
-befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung
-ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
-Tag der Beendigung der nichtbestandenen Prüfung an, zur
+befreien, wenn ihre Leistungen darin in einer vorangegangenen Prüfung
+ausgereicht haben und sie sich innerhalb von zwei Jahren, gerechnet
+vom Tag der Beendigung der nichtbestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
 
-## § 9 Berlin-Klausel
-
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
-Handwerksordnung auch im Land Berlin.
-
-
-## § 10 Inkrafttreten
+## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -399,87 +444,382 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesminister für Bildung und Wissenschaft
 
+(zu den §§ 7 und 8)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 1978, 1798)
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-**Geprüfter Gerüstbau-Kolonnenführer**
-Herr/Frau/Frl.
-................................................................
-geboren am: ..................................... in:
-.........................
-hat am .............................. die Prüfung zum anerkannten
-Abschluß
-**Geprüfter Gerüstbau-Kolonnenführer**
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Gerüstbau-Kolonnenführer vom 14. November 1978 (BGBl. I S. 1795)
-bestanden.
-Datum ......................................................
-Unterschrift ...............................................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2277 – 2278)
 
 
-## Anlage 2 Muster
+*    *   Punkte
 
-(Fundstelle: BGBl. I 1978, 1799 - 1800)
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-**Geprüfter Gerüstbau-Kolonnenführer**
-Herr/Frau/Frl.
-................................................................
-geboren am: ..................................... in:
-.........................
-hat am .............................. die Prüfung zum anerkannten
-Abschluß
-**Geprüfter Gerüstbau-Kolonnenführer**
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Gerüstbau-Kolonnenführer vom 14. November 1978 (BGBl. I S. 1795)
-bestanden.
-Ergebnisse der Prüfung
-Note
-I.   Fachtheoretische Prüfung:
-1\. Gerüstsysteme und Gerüstbauteile
-....................
-2\. Tragverhalten der Gerüste
-....................
-3\. Arbeitsvorbereitung und Bauausführung
-....................
-4\. Personalführung und Arbeitssicherheit
-....................
-(Im Falle des § 6: "Der Prüfungsteilnehmer
-wurde gemäß § 6 im Hinblick auf die
-am .......... in .......... vor ..........
-abgelegte Prüfung von der Prüfung in diesem
-Prüfungsteil/im Prüfungsfach ..........
-freigestellt.")
-II.  Fachpraktische Prüfung:
-1\. Gerüstsysteme, Gerüstbauteile und bauliche
-Einzelheiten
-....................
-2\. Bauausführung und Bauüberwachung
-....................
-(Im Falle des § 6: "Der Prüfungsteilnehmer wurde
-gemäß § 6 im Hinblick auf die
-am .......... in .......... vor ..........
-abgelegte Prüfung von der Prüfung in diesem
-Prüfungsteil/im Prüfungsfach ..........
-freigestellt.")
-Datum ......................................................
-Unterschrift ...............................................
-(Siegel der zuständigen Stelle)
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2279)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zur Fachtheoretischen Prüfung
+
+    a)  Benennung dieser Teilprüfung sowie
+
+
+    b)  Benennung und Bewertung der vier Prüfungsfächer dieser Teilprüfung mit
+        Note,
+
+
+
+
+
+2.  zur Fachpraktischen Prüfung
+
+    a)  Benennung dieser Teilprüfung sowie
+
+
+    b)  Benennung der beiden Prüfungsfächer und Bewertung mit Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6.
+
+
+
+
+Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
+
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

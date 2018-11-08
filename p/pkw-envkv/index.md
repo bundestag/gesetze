@@ -1,6 +1,6 @@
+Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO
 ---
-Title: Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO 2 -Emissionen
-  und Stromverbrauch neuer Personenkraftwagen
+Title: -Emissionen und Stromverbrauch neuer Personenkraftwagen
 jurabk: Pkw-EnVKV
 layout: default
 origslug: pkw-envkv
@@ -8,7 +8,7 @@ slug: pkw-envkv
 
 ---
 
-# Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch neuer Personenkraftwagen (Pkw-EnVKV)
+# -Emissionen und Stromverbrauch neuer Personenkraftwagen (Pkw-EnVKV)
 
 Ausfertigungsdatum
 :   2004-05-28
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1037
 
 Zuletzt geändert durch
-:   Art. 3 G v. 10.5.2012 I 1070
+:   Art. 259 V v. 19.6.2020 I 1328
 
 Diese Verordnung dient der Umsetzung der Richtlinie 1999/94/EG des
 Europäischen Parlaments und des Rates vom 13. Dezember 1999 über die
@@ -252,8 +252,9 @@ Im Sinne dieser Verordnung
 
 
 
+Hinweis auf Kraftstoffverbrauch, CO
 
-## § 3 Hinweis auf Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
+## § 3 -Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
 
 (1) Wer einen neuen Personenkraftwagen ausstellt oder zum Kauf oder
 Leasing anbietet, hat dafür Sorge zu tragen, dass
@@ -294,8 +295,9 @@ Personenkraftwagen liefern, auf Anforderung unverzüglich und
 unentgeltlich die Angaben zu übermitteln, die erforderlich sind, um
 den Hinweis und den Aushang nach Absatz 1 zu erstellen.
 
+CO
 
-## § 3a CO 2 -Effizienzklassen
+## § 3a -Effizienzklassen
 
 (1) Der Hersteller hat die CO
 2             -Effizienz des Fahrzeugs durch Angabe einer CO
@@ -401,7 +403,7 @@ oder
 A +++,              werden diese Klassen entsprechend den nachfolgend
 bestimmten CO
 2             -Effizienzklassen eingeführt, gegebenenfalls auch
-gleichzeitig. Das Bundesministerium für Wirtschaft und Technologie
+gleichzeitig. Das Bundesministerium für Wirtschaft und Energie
 überprüft jährlich das Erreichen des Fünf-vom-Hundert-Kriteriums für
 die Einführung der nächst höheren CO
 2             -Effizienzklasse. Diese Überprüfung erfolgt auf der
@@ -418,7 +420,7 @@ Hersteller an das Kraftfahrt-Bundesamt, wobei in den Fällen, in denen
 in den Typgenehmigungsdokumenten ein Bereich für die Masse angegeben
 ist, für die Berechnung im Sinne des § 3a Absatz 3 dieser Verordnung
 der höhere Wert heranzuziehen ist. Das Bundesministerium für
-Wirtschaft und Technologie veröffentlicht das Ergebnis der Prüfung und
+Wirtschaft und Energie veröffentlicht das Ergebnis der Prüfung und
 gegebenenfalls die Notwendigkeit, die Klassen
 A ++              beziehungsweise
 A +++              einzuführen bis spätestens 30. Juni eines jeden
@@ -462,15 +464,15 @@ Datum der Veröffentlichung im Bundesanzeiger anzuwenden.
 
 
 Spätestens drei Jahre nach Inkrafttreten dieser Verordnung wird das
-Bundesministerium für Wirtschaft und Technologie die
-Berechnungsgrundlagen für den Referenzwert, insbesondere Alternativen
-zur Bezugsgröße Masse, und den Anteil der zugelassenen Fahrzeuge in
-den Klassen insgesamt überprüfen und gegebenenfalls die
-Energieverbrauchskennzeichnung für Personenkraftwagen durch Änderung
-dieser Verordnung anpassen.
+Bundesministerium für Wirtschaft und Energie die Berechnungsgrundlagen
+für den Referenzwert, insbesondere Alternativen zur Bezugsgröße Masse,
+und den Anteil der zugelassenen Fahrzeuge in den Klassen insgesamt
+überprüfen und gegebenenfalls die Energieverbrauchskennzeichnung für
+Personenkraftwagen durch Änderung dieser Verordnung anpassen.
 
+Leitfaden zu Kraftstoffverbrauch, CO
 
-## § 4 Leitfaden zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch
+## § 4 -Emissionen und Stromverbrauch
 
 (1) Die Hersteller bestimmen eine Stelle, die in ihrem Auftrag einen
 einheitlichen Leitfaden über den Kraftstoffverbrauch, die CO
@@ -478,19 +480,19 @@ einheitlichen Leitfaden über den Kraftstoffverbrauch, die CO
 erstellt und an Händler, Verbraucher und sonstige Interessenten
 verteilt. Der Leitfaden ist mindestens einmal jährlich zu
 aktualisieren. Die Hersteller teilen die nach Satz 1 bestimmte Stelle
-dem Bundesministerium für Wirtschaft und Technologie mit; dieses gibt
-die Stelle im Bundesanzeiger bekannt. Der Leitfaden ist von den
+dem Bundesministerium für Wirtschaft und Energie mit; dieses gibt die
+Stelle im Bundesanzeiger bekannt. Der Leitfaden ist von den
 Herstellern auch im Internet zur Verfügung zu stellen.
 
 (2) Der Leitfaden muss den Anforderungen der Anlage 3 entsprechen. Der
 Entwurf des Teils I des Leitfadens bedarf der Genehmigung des
-Bundesministeriums für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-sowie dem Bundesministerium für Verkehr, Bau und Stadtentwicklung. Die
-Genehmigung gilt als erteilt, wenn das Bundesministerium für
-Wirtschaft und Technologie nicht innerhalb von zwei Monaten nach
-Zugang des Entwurfs die Genehmigung abgelehnt hat. Der Zugang des
-Entwurfs ist dem Antragsteller unverzüglich schriftlich zu bestätigen.
+Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
+sowie dem Bundesministerium für Verkehr und digitale Infrastruktur.
+Die Genehmigung gilt als erteilt, wenn das Bundesministerium für
+Wirtschaft und Energie nicht innerhalb von zwei Monaten nach Zugang
+des Entwurfs die Genehmigung abgelehnt hat. Der Zugang des Entwurfs
+ist dem Antragsteller unverzüglich schriftlich zu bestätigen.
 
 (3) Händler und Hersteller haben den Leitfaden am Verkaufsort an am
 Kauf oder Leasing Interessierte (Kunden) auf Anfrage unverzüglich und
@@ -653,10 +655,13 @@ folgenden Kalendermonats in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 3 Abs. 1 Nr. 1)
+Hinweis auf Kraftstoffverbrauch und CO
 
-## Anlage 1 (zu § 3 Abs. 1 Nr. 1) Hinweis auf Kraftstoffverbrauch und CO 2 -Emissionen und Stromverbrauch
+## Anlage 1 -Emissionen und Stromverbrauch
 
-(Fundstelle: BGBl. I 2011, 1760 - 1765)
+(Fundstelle: BGBl. I 2011, 1760 - 1765;
+bzgl. einzelner Änderungen vgl. Fußnote)
 
 **A.**
 **Anforderungen an den Hinweis gemäß § 3 Absatz 1 Nummer 1**
@@ -846,17 +851,17 @@ auf den Kraftstoffverbrauch, die CO
     Anlage 1 Abschnitt 1 Nummer 4 kursiv hervorzuheben. Für die Angabe der
     Kraftstoff- und gegebenenfalls Stromkosten sind diejenigen
     Preisangaben zugrunde zu legen, die das Bundesministerium für
-    Wirtschaft und Technologie jährlich im Bundesanzeiger veröffentlicht.
-    Die erste Preisliste wird mit Verkündung dieser Verordnung im
+    Wirtschaft und Energie jährlich im Bundesanzeiger veröffentlicht. Die
+    erste Preisliste wird mit Verkündung dieser Verordnung im
     Bundesanzeiger veröffentlicht. In den Folgejahren aktualisiert das
-    Bundesministerium für Wirtschaft und Technologie die Preisangaben
-    jährlich durch Veröffentlichung im Bundesanzeiger zum 30. Juni eines
-    Jahres. Die jeweils zum 30. Juni eines Jahres im Bundesanzeiger
-    aktualisierten Preise sind für neue Personenkraftwagen, die nach dem
-    30\. Juni eines Jahres ausgestellt oder zum Kauf oder Leasing angeboten
-    werden, spätestens nach drei Monaten ab dem Datum der Veröffentlichung
-    im Bundesanzeiger anzuwenden. Die Preisliste erfasst Kraftstoffe im
-    Sinne der Verordnung über die Beschaffenheit und die Auszeichnung der
+    Bundesministerium für Wirtschaft und Energie die Preisangaben jährlich
+    durch Veröffentlichung im Bundesanzeiger zum 30. Juni eines Jahres.
+    Die jeweils zum 30. Juni eines Jahres im Bundesanzeiger aktualisierten
+    Preise sind für neue Personenkraftwagen, die nach dem 30. Juni eines
+    Jahres ausgestellt oder zum Kauf oder Leasing angeboten werden,
+    spätestens nach drei Monaten ab dem Datum der Veröffentlichung im
+    Bundesanzeiger anzuwenden. Die Preisliste erfasst Kraftstoffe im Sinne
+    der Verordnung über die Beschaffenheit und die Auszeichnung der
     Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden
     Fassung und Strom, sofern für den jeweiligen Kraftstoff
     beziehungsweise für den Strom ein marktgängiger Preis feststellbar
@@ -873,7 +878,7 @@ auf den Kraftstoffverbrauch, die CO
 **Abschnitt II**
 Formblatt für den Hinweis auf den Kraftstoffverbrauch,
 die CO
-[^F775581_02_BJNR103700004BJNE001201140]
+[^F775581_02_BJNR103700004BJNE001202118]
 2 **-Emissionen und den Stromverbrauch**
 ##
 
@@ -967,12 +972,14 @@ Effizienzklasse A +++**
 ##
 
 
-    Das Bundesministerium für Wirtschaft und Technologie kann im
+    Das Bundesministerium für Wirtschaft und Energie kann im
     Bundesanzeiger die Bezugsquelle bekannt geben, über die das Formblatt
     unentgeltlich elektronisch bezogen werden kann.
-[^F775581_02_BJNR103700004BJNE001201140]: 
+[^F775581_02_BJNR103700004BJNE001202118]: 
+(zu § 3 Abs. 1 Nr. 2)
+Aushang am Verkaufsort über Kraftstoffverbrauch, CO
 
-## Anlage 2 (zu § 3 Abs. 1 Nr. 2) Aushang am Verkaufsort über Kraftstoffverbrauch, CO 2 -Emissionen und den Stromverbrauch
+## Anlage 2 -Emissionen und den Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1042;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1113,8 +1120,10 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 4 Abs. 2 Satz 1)
+Leitfaden über Kraftstoffverbrauch, CO
 
-## Anlage 3 (zu § 4 Abs. 2 Satz 1) Leitfaden über Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch
+## Anlage 3 -Emissionen und Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1043;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1225,8 +1234,10 @@ folgende Angaben:
 
 Der Leitfaden soll das Format DIN A4 nicht überschreiten.
 
+(zu § 5)
+Angaben über Kraftstoffverbrauch und CO
 
-## Anlage 4 (zu § 5) Angaben über Kraftstoffverbrauch und CO 2 -Emissionen in der Werbung
+## Anlage 4 -Emissionen in der Werbung
 
 (Fundstelle: BGBl. I 2004, 1044;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

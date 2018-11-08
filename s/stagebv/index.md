@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 24. 9.1991 I 1915;
 
-Geändert durch
-:   Art. 20 G v. 3.12.2001 I 3306
+Zuletzt geändert durch
+:   Art. 2 Abs. 1 G v. 7.8.2013 I 3154
 
 
 ## § 1 Gebührenpflichtige Tatbestände
@@ -97,7 +97,7 @@ veranlaßt werden. Gebührenpflichtig sind auch
         September 1969 (BGBl. II S. 1953), geändert durch das Gesetz zur
         Änderung des Reichs- und Staatsangehörigkeitsgesetzes vom 20. Dezember
         1974
-        (BGBl. II S. 1588)                          .
+        (BGBl. II S. 1588) .
 
 
 
@@ -177,7 +177,8 @@ Euro, höchstens 51 Euro.
 *    *
     *
     *   Betrag der für die Vornahme der Amtshandlung vorgesehenen Gebühr unter
-        Berücksichtigung von § 15 des Verwaltungskostengesetzes;
+        Berücksichtigung von § 15 des Verwaltungskostengesetzes in der bis zum
+        14\. August 2013 geltenden Fassung;
 
 
 *    *   3.

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1995
 
+Geändert durch
+:   Art. 9 Abs. 17 G v. 3.12.2015 I 2178
+
 
 ## Eingangsformel
 
@@ -26,9 +29,8 @@ Finanzen:
 
 ## § 1 Meldestelle
 
-Die Bundesfinanzdirektion West ist zuständige Behörde der
-Zollverwaltung im Sinne von § 17b Absatz 1 Satz 1 des
-Arbeitnehmerüberlassungsgesetzes.
+Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im
+Sinne von § 17b Absatz 1 Satz 1 des Arbeitnehmerüberlassungsgesetzes.
 
 
 ## § 2 Inkrafttreten

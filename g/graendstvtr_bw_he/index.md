@@ -101,8 +101,9 @@ Ratifikationsurkunden in Kraft.
 Der Ministerpräsident des Landes Baden-Württemberg
 Der Hessische Ministerpräsident
 
+(zu Artikel 1 Abs. 2)
 
-## Anlage (zu Artikel 1 Abs. 2) Anlage zum Staatsvertrag zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze
+## Anlage Anlage zum Staatsvertrag zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze
 
 (Fundstelle: BGBl. I 1983, 954)
 ![bgbl1_1983_j0954_0010.jpg](bgbl1_1983_j0954_0010.jpg)

@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2005, 1418
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 51 G v. 5.2.2009 I 160
+:   Art. 68 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 9 G v. 28.6.2021 I 2250 (Nr. 39) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Geltungsbereich
@@ -61,8 +64,11 @@ genehmigt worden sein, es sei denn, dass eine Anordnung oder
 Genehmigung nach dem Amt der Dienstreisenden oder dem Wesen des
 Dienstgeschäfts nicht in Betracht kommt. Dienstreisen sollen nur
 durchgeführt werden, wenn sie aus dienstlichen Gründen notwendig sind.
-Dienstreisen sind auch Reisen aus Anlass der Versetzung, Abordnung
-oder Kommandierung.
+Dienstreisen dürfen nur angeordnet oder genehmigt werden, wenn das
+Dienstgeschäft nicht auf andere Weise, insbesondere durch Einsatz
+digitaler Kommunikationsmittel, erledigt werden kann. Dienstreisen
+sind auch Reisen aus Anlass der Versetzung, Abordnung oder
+Kommandierung.
 
 (2) Die Dauer der Dienstreise bestimmt sich nach der Abreise und
 Ankunft an der Wohnung, es sei denn, die Dienstreise beginnt oder
@@ -71,25 +77,36 @@ endet an der Dienststätte.
 
 ## § 3 Anspruch auf Reisekostenvergütung
 
-(1) Dienstreisende erhalten auf Antrag eine Vergütung der dienstlich
-veranlassten notwendigen Reisekosten. Der Anspruch auf
-Reisekostenvergütung erlischt, wenn sie nicht innerhalb einer
-Ausschlussfrist von sechs Monaten nach Beendigung der Dienstreise
-schriftlich oder elektronisch beantragt wird. Die zuständigen Stellen
-können bis zum Ablauf von sechs Monaten nach Antragstellung die
-Vorlage der maßgeblichen Kostenbelege verlangen. Werden diese Belege
-auf Anforderung nicht innerhalb von drei Monaten vorgelegt, kann der
-Vergütungsantrag insoweit abgelehnt werden.
+(1) Dienstreisenden werden auf Antrag die dienstlich veranlassten
+notwendigen Reisekosten vergütet. Werden Dienstreisen
+umweltverträglich und nachhaltig durchgeführt, sind die dadurch
+entstehenden notwendigen Kosten zu erstatten, soweit sie in
+angemessenem Verhältnis zu den Zielen der Umweltverträglichkeit und
+Nachhaltigkeit stehen.
 
-(2) Leistungen, die Dienstreisende ihres Amtes wegen von dritter Seite
+(2) Der Anspruch auf Reisekostenvergütung erlischt, wenn sie nicht
+innerhalb einer Ausschlussfrist von sechs Monaten nach Beendigung der
+Dienstreise schriftlich oder elektronisch beantragt wird. Die
+zuständigen Stellen können bis zum Ablauf von sechs Monaten nach
+Antragstellung die Vorlage der maßgeblichen Kostenbelege verlangen.
+Werden diese Belege auf Anforderung nicht innerhalb von drei Monaten
+vorgelegt, kann der Vergütungsantrag insoweit abgelehnt werden.
+
+(3) Leistungen, die Dienstreisende ihres Amtes wegen von dritter Seite
 aus Anlass einer Dienstreise erhalten, sind auf die
 Reisekostenvergütung anzurechnen.
 
-(3) Bei Dienstreisen für eine auf Veranlassung der zuständigen Behörde
+(4) Bei Dienstreisen für eine auf Veranlassung der zuständigen Behörde
 ausgeübte Nebentätigkeit haben Dienstreisende nur Anspruch auf
 Reisekostenvergütung, die nicht von anderer Stelle zu übernehmen ist.
 Das gilt auch dann, wenn Dienstreisende auf ihren Anspruch gegen diese
 Stelle verzichtet haben.
+
+
+## § 3a Vollständig automatisierter Erlass des Bescheides über die Reisekostenvergütung
+
+Der Bescheid über die Reisekostenvergütung kann vollständig durch
+automatische Einrichtungen erlassen werden.
 
 
 ## § 4 Fahrt- und Flugkostenerstattung
@@ -155,10 +172,11 @@ wenn sie
 
 (1) Als Ersatz von Mehraufwendungen für Verpflegung erhalten
 Dienstreisende ein Tagegeld. Die Höhe des Tagegeldes bemisst sich nach
-§ 4 Abs. 5 Satz 1 Nr. 5 Satz 2 des Einkommensteuergesetzes. Besteht
-zwischen der Dienststätte oder der Wohnung und der Stelle, an der das
-Dienstgeschäft erledigt wird, nur eine geringe Entfernung, wird
-Tagegeld nicht gewährt.
+der Verpflegungspauschale zur Abgeltung tatsächlich entstandener,
+beruflich veranlasster Mehraufwendungen im Inland nach dem
+Einkommensteuergesetz. Besteht zwischen der Dienststätte oder der
+Wohnung und der Stelle, an der das Dienstgeschäft erledigt wird, nur
+eine geringe Entfernung, wird Tagegeld nicht gewährt.
 
 (2) Erhalten Dienstreisende ihres Amtes wegen unentgeltlich
 Verpflegung, werden von dem zustehenden Tagegeld für das Frühstück 20
@@ -243,7 +261,8 @@ erstattet.
 
 (2) Entfällt eine Dienstreise aus einem von der oder dem Bediensteten
 nicht zu vertretenden Grund, werden durch die Vorbereitung
-entstandene, nach diesem Gesetz abzugeltende Auslagen erstattet.
+entstandene, nach diesem Gesetz abzugeltende Auslagen erstattet. Dies
+gilt auch für Kosten nach § 3 Absatz 1 Satz 2.
 
 
 ## § 11 Bemessung der Reisekostenvergütung in besonderen Fällen
@@ -358,13 +377,14 @@ Grenzverkehr tätigen Beamtinnen und Beamten im Bereich ausländischer
 Lokalgrenzbehörden, zwischen solchen Bereichen und zwischen diesen und
 dem Inland.
 
-(3) Das Bundesministerium des Innern wird ermächtigt, durch
-Rechtsverordnung wegen der besonderen Verhältnisse abweichende
-Vorschriften über die Reisekostenvergütung für Auslandsdienstreisen
-bezüglich der Anordnung und Genehmigung von Dienstreisen, der Fahrt-
-und Flugkosten, des Auslandstage- und Auslandsübernachtungsgeldes, der
-Reisebeihilfen, der Kriterien der Erstattung klimabedingter Bekleidung
-und anderer Nebenkosten zu erlassen.
+(3) Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, durch Rechtsverordnung wegen der besonderen Verhältnisse
+abweichende Vorschriften über die Reisekostenvergütung für
+Auslandsdienstreisen bezüglich der Anordnung und Genehmigung von
+Dienstreisen, der Fahrt- und Flugkosten, des Auslandstage- und
+Auslandsübernachtungsgeldes, der Reisebeihilfen, der Kriterien der
+Erstattung klimabedingter Bekleidung und anderer Nebenkosten zu
+erlassen.
 
 
 ## § 15 Trennungsgeld
@@ -375,13 +395,13 @@ Umzugskostenvergütung abgeordnet werden, erhalten für die ihnen
 dadurch entstehenden notwendigen Aufwendungen unter Berücksichtigung
 der häuslichen Ersparnis ein Trennungsgeld nach einer
 Rechtsverordnung, die für Abordnungen im Inland das Bundesministerium
-des Innern erlässt. Diese Verordnung ist auch anzuwenden für
-Abordnungen im oder ins Ausland sowie vom Ausland ins Inland, soweit
-aufgrund der Ermächtigung des Absatzes 2 keine Sonderregelungen
-ergangen sind. Dasselbe gilt für Kommandierungen von Soldatinnen und
-Soldaten und die vorübergehende dienstliche Tätigkeit bei einer
-anderen Stelle als einer Dienststelle. Der Abordnung stehen die
-Zuweisung nach § 29 des Bundesbeamtengesetzes oder nach § 20 des
+des Innern, für Bau und Heimat erlässt. Diese Verordnung ist auch
+anzuwenden für Abordnungen im oder ins Ausland sowie vom Ausland ins
+Inland, soweit aufgrund der Ermächtigung des Absatzes 2 keine
+Sonderregelungen ergangen sind. Dasselbe gilt für Kommandierungen von
+Soldatinnen und Soldaten und die vorübergehende dienstliche Tätigkeit
+bei einer anderen Stelle als einer Dienststelle. Der Abordnung stehen
+die Zuweisung nach § 29 des Bundesbeamtengesetzes oder nach § 20 des
 Beamtenstatusgesetzes gleich.
 
 (2) Absatz 1 Satz 1 und 3 gilt entsprechend für Abordnungen ohne
@@ -389,8 +409,9 @@ Zusage der Umzugskostenvergütung im oder ins Ausland sowie vom Ausland
 ins Inland, soweit die besonderen Bedürfnisse des Auslandsdienstes und
 die besonderen Verhältnisse im Ausland es erfordern mit der Maßgabe,
 dass das Auswärtige Amt die Rechtsverordnung im Einvernehmen mit dem
-Bundesministerium des Innern, dem Bundesministerium der Verteidigung
-und dem Bundesministerium der Finanzen erlässt.
+Bundesministerium des Innern, für Bau und Heimat, dem
+Bundesministerium der Verteidigung und dem Bundesministerium der
+Finanzen erlässt.
 
 (3) Werden Beamtinnen oder Beamte auf Widerruf im Vorbereitungsdienst
 zum Zwecke ihrer Ausbildung einer Ausbildungsstelle an einem anderen
@@ -402,8 +423,9 @@ erstattet werden.
 ## § 16 Verwaltungsvorschriften
 
 Allgemeine Verwaltungsvorschriften zu diesem Gesetz erlässt das
-Bundesministerium des Innern. Verwaltungsvorschriften zu den
-Sondervorschriften für die Reisekostenvergütung für
-Auslandsdienstreisen erlässt das Bundesministerium des Innern im
-Einvernehmen mit dem Auswärtigen Amt.
+Bundesministerium des Innern, für Bau und Heimat.
+Verwaltungsvorschriften zu den Sondervorschriften für die
+Reisekostenvergütung für Auslandsdienstreisen erlässt das
+Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit
+dem Auswärtigen Amt.
 

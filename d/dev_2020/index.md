@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 2118
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 21 G v. 22.12.2011 I 3044
+:   Art. 129 V v. 19.6.2020 I 1328
 
 [^f772437_01_BJNR211800009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2003/87/EG des
     Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein
@@ -247,7 +247,7 @@ der in Absatz 1 Satz 1 und Absatz 5 Satz 1 genannten Emissionen
 beziehen, hat der Luftfahrzeugbetreiber nach Maßgabe der geänderten
 Monitoring-Leitlinien den Überwachungsplan zu erstellen sowie die
 Emissionen zu ermitteln und über sie zu berichten. Das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt
 die für den Luftfahrzeugbetreiber maßgeblichen Änderungen nach Satz 1
 und 2 im Bundesanzeiger bekannt.
 
@@ -571,8 +571,10 @@ Zuständige Behörde im Sinne dieser Verordnung ist das Umweltbundesamt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1
+und § 6)
 
-### Anlage 1 (zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1 und § 6) Privilegierte Flüge
+### Anlage 1 Privilegierte Flüge
 
 (Fundstelle BGBl. I 2009, 2123)
 
@@ -660,8 +662,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
+(zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8)
 
-### Anlage 2 (zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8) Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
+### Anlage 2 Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
 
 (Fundstelle BGBl. I 2009, 2124 - 2125)
 ## Teil 1

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2766
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 35 G v. 24.2.2012 I 212
+:   Art. 6 G v. 3.12.2020 I 2694
 
 
 ## Eingangsformel
@@ -28,13 +28,16 @@ verordnet die Bundesregierung:
 
 ## § 1 Anwendungsbereich
 
-Für die nachfolgend aufgeführten Planungen und Maßnahmen soll ein
-Raumordnungsverfahren (§ 15 des Raumordnungsgesetzes) durchgeführt
-werden, wenn sie im Einzelfall raumbedeutsam sind und überörtliche
-Bedeutung haben. Die Befugnis der für die Raumordnung zuständigen
-Landesbehörden, weitere raumbedeutsame Planungen und Maßnahmen von
-überörtlicher Bedeutung nach landesrechtlichen Vorschriften in einem
-Raumordnungsverfahren zu überprüfen, bleibt unberührt.
+Die Durchführung eines Raumordnungsverfahrens erfolgt nur auf
+Grundlage eines Antrags nach § 15 Absatz 5 Satz 1 des
+Raumordnungsgesetzes oder auf Grundlage einer Entscheidung nach § 15
+Absatz 5 Satz 3 des Raumordnungsgesetzes für die nachfolgend
+aufgeführten Planungen und Maßnahmen, wenn sie im Einzelfall
+raumbedeutsam sind und überörtliche Bedeutung haben. Die Befugnis der
+für die Raumordnung zuständigen Landesbehörden, weitere raumbedeutsame
+Planungen und Maßnahmen von überörtlicher Bedeutung nach
+landesrechtlichen Vorschriften in einem Raumordnungsverfahren zu
+überprüfen, bleibt unberührt.
 
 1.  Errichtung einer Anlage im Außenbereich im Sinne des § 35 des
     Baugesetzbuchs, die der Genehmigung in einem Verfahren unter
@@ -102,8 +105,10 @@ Raumordnungsverfahren zu überprüfen, bleibt unberührt.
 
 
 14. Errichtung von Hochspannungsfreileitungen mit einer Nennspannung von
-    110 kV oder mehr und von Gasleitungen mit einem Durchmesser von mehr
-    als 300 mm;
+    110 kV oder mehr, ausgenommen Errichtungen in Bestandstrassen,
+    unmittelbar neben Bestandstrassen oder unter weit überwiegender
+    Nutzung von Bestandstrassen, und von Gasleitungen mit einem
+    Durchmesser von mehr als 300 mm;
 
 
 15. Errichtung von Feriendörfern, Hotelkomplexen und sonstigen großen

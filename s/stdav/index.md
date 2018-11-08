@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3021
 
+Geändert durch
+:   Art. 3 V v. 12.7.2017 I 2360
+
 
 
 ## Eingangsformel
@@ -26,28 +29,16 @@ I S. 61) verordnet das Bundesministerium der Finanzen:
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung regelt den automatisierten Abruf von Daten
-(Abrufverfahren), die dem Steuergeheimnis unterliegen und für eines
-der in § 30 Abs. 2 Nr. 1 der Abgabenordnung genannten Verfahren
-gespeichert sind. Sie regelt nicht Abrufverfahren, die
+(1) Diese Verordnung regelt den automatisierten Abruf von nach § 30
+der Abgabenordnung geschützten Daten (Abrufverfahren), die für eines
+der in § 30 Absatz 2 Nummer 1 der Abgabenordnung genannten Verfahren
+in einem automationsgestützten Dateisystem gespeichert sind.
+
+(2) Diese Verordnung gilt nicht für Abrufverfahren, die
 Verbrauchsteuern und Verbrauchsteuervergütungen oder Ein- und
-Ausfuhrabgaben im Sinne des Artikels 4 Nr. 10 und 11 des Zollkodexes
-\*) betreffen.
------
-
-\*) Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur
-    Festlegung des Zollkodexes der Gemeinschaften (ABl. EG Nr. L 302 S. 1,
-    1993 Nr. L 79 S. 84, 1996 Nr. L 97 S. 38), zuletzt geändert durch die
-    Akte über die Bedingungen des Beitritts der Tschechischen Republik,
-    der Republik Estland, der Republik Zypern, der Republik Lettland, der
-    Republik Litauen, der Republik Ungarn, der Republik Malta, der
-    Republik Polen, der Republik Slowenien und der Slowakischen Republik
-    und die Anpassungen der die Europäischen Union betreffenden Verträge
-    vom 23. September 2003 (ABl. EU Nr. L 236 S. 762), in der jeweils
-    geltenden Fassung.
-
-
-
+Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union
+betreffen. Zollkodex der Union ist die Verordnung gemäß § 3 Absatz 3
+der Abgabenordnung.
 
 
 ## § 2 Maßnahmen zur Wahrung des Steuergeheimnisses
@@ -102,8 +93,8 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
 
 3.  Amtsträgern oder gleichgestellten Personen, soweit die Abrufbefugnis
-    zur zulässigen Weitergabe von Daten nach § 30 Abs. 4 und 5 der
-    Abgabenordnung erforderlich ist,
+    erforderlich ist zur zulässigen Offenbarung geschützter Daten nach §
+    30 Absatz 4 oder Absatz 5 der Abgabenordnung,
 
 
 4.  Amtsträgern oder gleichgestellten Personen, die mit der Entwicklung
@@ -118,8 +109,8 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
 5.  Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit
     die Abrufbefugnis für die Festsetzung oder Erhebung der
-    Einfuhrumsatzsteuer erforderlich ist und die Daten beim Bundesamt für
-    Finanzen gespeichert sind,
+    Einfuhrumsatzsteuer erforderlich ist und die Daten beim
+    Bundeszentralamt für Steuern gespeichert sind,
 
 
 6.  Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren in
@@ -270,17 +261,15 @@ aufzubewahren.
 ## § 9 Abrufe durch den Steuerpflichtigen
 
 Für Verfahren, die dem Steuerpflichtigen (§ 33 der Abgabenordnung) den
-Abruf von zu seiner Person gespeicherten Daten ermöglichen, gelten die
+Abruf ihn betreffender personenbezogener Daten ermöglichen, gelten die
 §§ 1 bis 8 entsprechend. Satz 1 ist auch anzuwenden, wenn anstelle des
 Steuerpflichtigen seinem gesetzlichen Vertreter, Vermögensverwalter,
 Verfügungsberechtigten, Bevollmächtigten oder Beistand eine
 Abrufberechtigung erteilt wird.
 
 
-## § 10 Übergangsvorschrift
+## § 10 (weggefallen)
 
-Bestehende Abrufverfahren sind spätestens bis zum 31. Oktober 2008 so
-zu gestalten, dass sie den vorstehenden Regelungen entsprechen.
 
 
 ## § 11 Inkrafttreten

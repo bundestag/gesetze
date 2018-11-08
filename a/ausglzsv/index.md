@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1963, 1455
 
 Zuletzt geändert durch
-:   Art. 373 V v. 31.10.2006 I 2407
+:   Art. 243 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -37,11 +37,11 @@ sind auch Wirtschaftsvereinigungen oder Wirtschaftsorganisationen,
 denen die in Satz 1 genannten Personen angehören.
 
 (2) Der Antrag ist je nach Art der eingeführten Waren bei dem
-Bundesministerium für Wirtschaft und Technologie oder bei dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-zu stellen, deren Zuständigkeitsbereiche sich nach der Einfuhrliste
-(Anlage zum Außenwirtschaftsgesetz vom 28. April 1961 -
-Bundesgesetzbl. I S. 481) in der jeweils geltenden Fassung richten.
+Bundesministerium für Wirtschaft und Energie oder bei dem
+Bundesministerium für Ernährung und Landwirtschaft zu stellen, deren
+Zuständigkeitsbereiche sich nach der Einfuhrliste (Anlage zum
+Außenwirtschaftsgesetz vom 28. April 1961 - Bundesgesetzbl. I S. 481)
+in der jeweils geltenden Fassung richten.
 
 (3) Der Antrag ist schriftlich zu stellen und muß enthalten
 

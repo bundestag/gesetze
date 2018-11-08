@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2408
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 1 V v. 16.8.2021 I 3582
+
 
 ## § 1 Geltungsbereich
 
@@ -93,7 +96,9 @@ Vorbereitungsdienstes
 in der Bundespolizei kann eingestellt werden, wer mindestens 16 Jahre
 und noch nicht 28 Jahre alt ist. In den Vorbereitungsdienst für den
 gehobenen oder höheren Polizeivollzugsdienst in der Bundespolizei kann
-eingestellt werden, wer noch nicht 34 Jahre alt ist.
+eingestellt werden, wer noch nicht 34 Jahre alt ist. Die
+Altershöchstgrenzen gelten nicht für Soldatinnen und Soldaten auf
+Zeit, deren Dienstzeit auf mindestens acht Jahre festgesetzt wurde.
 
 (4) Das Höchstalter nach Absatz 3 wird angehoben um Zeiten
 
@@ -118,12 +123,8 @@ eingestellt werden, wer noch nicht 34 Jahre alt ist.
 Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf die
 Bewerberin oder der Bewerber für den mittleren Polizeivollzugsdienst
 noch nicht 36 Jahre und für den gehobenen oder höheren
-Polizeivollzugsdienst noch nicht 42 Jahre alt sein. Diese
-Höchstaltersgrenzen gelten nicht für Inhaberinnen und Inhaber eines
-Eingliederungs- oder Zulassungsscheins nach § 9 des
-Soldatenversorgungsgesetzes sowie für Teilnehmerinnen und Teilnehmer
-an Eingliederungsmaßnahmen nach § 7 Absatz 2 des
-Soldatenversorgungsgesetzes.
+Polizeivollzugsdienst noch nicht 42 Jahre alt sein. Absatz 3 Satz 3
+gilt entsprechend.
 
 (5) Bei erheblichem dienstlichen Interesse kann das
 Bundespolizeipräsidium Ausnahmen von Absatz 3 bis zu den
@@ -202,8 +203,7 @@ beamtenrechtlichen Status.
 
 (3) Den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten wird im
 Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn
-übertragen, wenn sie sich nach erfolgreichem Abschluss des
-Vorbereitungsdienstes sechs Monate in der neuen Laufbahn bewährt
+übertragen, wenn sie den Vorbereitungsdienst erfolgreich abgeschlossen
 haben.
 
 
@@ -258,40 +258,78 @@ Befähigung für die entsprechende Laufbahn
 Über die Anerkennung der Laufbahnbefähigung entscheidet das
 Bundespolizeipräsidium.
 
-(3) Die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte hat eine
-Unterweisungszeit von mindestens sechs Monaten zu durchlaufen. Das
-Bundespolizeipräsidium entscheidet über die Zulassung zur Unterweisung
-und erlässt für die Unterweisung einen Rahmenplan.
+(3) Die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte, deren
+oder dessen Befähigung nach Absatz 2 oder nach der Verordnung über die
+Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung
+anerkannt worden ist, soll eine Unterweisungszeit von mindestens sechs
+Monaten durchlaufen. Das Bundespolizeipräsidium entscheidet über die
+Zulassung zur Unterweisung und erlässt für die Unterweisung einen
+Rahmenplan.
 
 (4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
 
 
 ## § 12 Besondere Fachverwendungen
 
-(1) Für besondere Fachverwendungen im Polizeivollzugsdienst in der
-Bundespolizei (Anlage 2) können
+(1) Für die besonderen Fachverwendungen im Polizeivollzugsdienst in
+der Bundespolizei nach Anlage 2 können
 
-1.  Beamtinnen und Beamte versetzt werden, wenn sie die
-    Bildungsvoraussetzungen nach Anlage 2 erfüllen,
+1.  Beamtinnen und Beamte versetzt werden, wenn sie
+
+    a)  die Bildungsvoraussetzungen nach Anlage 2 erfüllen und
 
 
-2.  Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte im Flugdienst der
+    b)  erfolgreich an einem Auswahlverfahren, das für Regelbewerberinnen und
+        Regelbewerber vorgesehen ist, teilgenommen haben,
+
+
+
+
+
+2.  Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in eine höhere
+    Laufbahn des Polizeivollzugsdienstes wechseln, wenn sie
+
+    a)  die Bildungsvoraussetzungen nach Anlage 2 erfüllen, und
+
+
+    b)  erfolgreich an einem Auswahlverfahren, das für Regelbewerberinnen und
+        Regelbewerber vorgesehen ist, teilgenommen haben,
+
+
+
+
+
+3.  Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte im Flugdienst der
     Bundespolizei abweichend von § 17 Absatz 4 des Bundesbeamtengesetzes
-    in die Laufbahn des gehobenen Polizeivollzugsdienstes in der
-    Bundespolizei wechseln, wenn sie die Bildungsvoraussetzungen nach
-    Anlage 2 erfüllen,
+    in die Laufbahn des gehobenen Polizeivollzugsdienstes wechseln, wenn
+    sie
+
+    a)  die Bildungsvoraussetzungen nach Anlage 2 erfüllen und
 
 
-3.  Bewerberinnen und Bewerber nach Maßgabe der §§ 19 bis 21 der
-    Bundeslaufbahnverordnung eingestellt werden, wenn sie die
-    Bildungsvoraussetzungen nach Anlage 2 erfüllen und das Höchstalter
-    nach § 5 Absatz 3 und 4 nicht überschritten haben.
+    b)  erfolgreich an einem Auswahlverfahren teilgenommen haben,
+
+
+
+
+
+4.  Bewerberinnen und Bewerber nach Maßgabe der §§ 19 bis 21 der
+    Bundeslaufbahnverordnung eingestellt werden, wenn sie
+
+    a)  die Bildungsvoraussetzungen nach Anlage 2 erfüllen und
+
+
+    b)  die Altershöchstgrenze nach § 5 Absatz 3 und 4 nicht überschritten
+        haben.
+
+
+
 
 
 
 
 (2) Über die Anerkennung der Laufbahnbefähigung und die Einstellung
-nach Absatz 1 Nummer 3 entscheidet das Bundespolizeipräsidium.
+nach Absatz 1 Nummer 4 entscheidet das Bundespolizeipräsidium.
 
 (3) Die Versetzung, der Wechsel oder die Einstellung in den gehobenen
 Polizeivollzugsdienst in der Bundespolizei für technische
@@ -306,17 +344,25 @@ Fachverwendungen sind die Verwendungen im Fachdienst für Informations-
 und Kommunikationstechnik, im Fachdienst für Polizeitechnik und im
 kriminaltechnischen Dienst.
 
-(4) Personen nach Absatz 1 Nummer 1 und 3 erhalten eine
+(4) Personen nach Absatz 1 Nummer 1 und 4 erhalten eine
 polizeifachliche Unterweisung von mindestens sechs Monaten Dauer. Das
 Bundespolizeipräsidium erlässt für die Unterweisungen einen
 Rahmenplan.
 
-(5) Sind Personen nach Absatz 1 Nummer 1 oder 3 für eine Verwendung im
+(5) Sind Personen nach Absatz 1 Nummer 1 oder 4 für eine Verwendung im
 ärztlichen Dienst als Polizeivollzugsbeamtin oder
 Polizeivollzugsbeamter des höheren Dienstes in der Bundespolizei
 vorgesehen, werden sie mit den Aufgaben des Polizeivollzugsdienstes in
 der Bundespolizei vertraut gemacht. Die Ämter sowie die ihnen
 zugeordneten Amtsbezeichnungen ergeben sich aus Anlage 1.
+
+
+## § 12a Altershöchstgrenze für die Verwendungsfortbildung zur Pilotin oder zum Piloten
+
+Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der
+Verwendungsfortbildung zur Pilotin oder zum Piloten im Flugdienst der
+Bundespolizei nur teilnehmen, wenn sie bei Beginn dieser Fortbildung
+noch nicht 40 Jahre alt sind.
 
 
 ## § 13 Erprobungszeit
@@ -381,29 +427,38 @@ regelmäßig überprüft werden.
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
-erfolgreich an einem Auswahlverfahren teilgenommen haben und sie sich
-seit der ersten Verleihung eines Amtes
+erfolgreich an einem Auswahlverfahren teilgenommen haben, Beamtinnen
+auf Lebenszeit oder Beamte auf Lebenszeit sind und sich seit der
+erstmaligen Ernennung
 
 1.  bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst in der
-    Bundespolizei in einer Dienstzeit von fünf Jahren bewährt haben und
+    Bundespolizei in einer Dienstzeit von drei Jahren bewährt haben und
     noch nicht 50 Jahre alt sind oder
 
 
 2.  bei Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst in der
-    Bundespolizei in einer Dienstzeit von sechs Jahren im gehobenen Dienst
+    Bundespolizei in einer Dienstzeit von drei Jahren im gehobenen Dienst
     bewährt haben und noch nicht 45 Jahre alt sind.
 
 
 
-Die Bewährungszeit verkürzt sich um ein Jahr, sofern die
-Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte die
-Laufbahnprüfung für die bisherige Laufbahn mindestens mit der Note
-„gut“ abgeschlossen hat. Im Übrigen gilt § 19 Absatz 4 der
-Bundeslaufbahnverordnung.
+Bei der Bemessung der Bewährungszeit sind Zeiten einer
+Teilzeitbeschäftigung wie Zeiten einer Vollzeitbeschäftigung zu
+behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen.
 
 (2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
-mit der Maßgabe, dass über die Zulassung zum Aufstieg das
-Bundespolizeipräsidium entscheidet.
+mit der Maßgabe, dass
+
+1.  über die Zulassung zum Aufstieg das Bundespolizeipräsidium
+    entscheidet,
+
+
+2.  im Falle des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
+    Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
+    mehrfach wiederholt werden kann.
+
+
+
 
 (3) Die Aufstiegsausbildung in den gehobenen Polizeivollzugsdienst in
 der Bundespolizei dauert mindestens zwei Jahre. Die nach Absatz 1
@@ -424,95 +479,263 @@ unmittelbar das Amt einer Polizeioberkommissarin oder eines
 Polizeioberkommissars übertragen werden.
 
 
-## § 16
+## § 16 Verkürzter Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
 
-(zukünftig in Kraft)
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zu
+einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in
+der Bundespolizei zugelassen werden, wenn
 
-
-## § 17 Übergangsregelungen für den Aufstieg
-
-(1) Für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die zum
-Zeitpunkt des Inkrafttretens dieser Verordnung zum Aufstieg zugelassen
-sind oder erfolgreich an einer Vorauswahl für die Teilnahme am
-Auswahlverfahren zum Aufstieg teilgenommen haben, sind für das weitere
-Auswahl- und Aufstiegsverfahren die §§ 28 bis 30 der Bundespolizei-
-Laufbahnverordnung in der Fassung der Bekanntmachung vom 31. Januar
-2003 (BGBl. I S. 143), die zuletzt durch Artikel 1 der Verordnung vom
-4\. Juni 2009 (BGBl. I S. 1237) geändert worden ist, anzuwenden. Ihnen
-steht der Aufstieg nach § 15 offen, wenn sie die dort genannten
-Voraussetzungen erfüllen.
-
-(2) Abweichend von § 15 kann der Praxisaufstieg zusätzlich nach den §§
-28 und 30 der Bundespolizei-Laufbahnverordnung in der Fassung der
-Bekanntmachung vom 31. Januar 2003 (BGBl. I S. 143), die zuletzt durch
-Artikel 1 der Verordnung vom 4. Juni 2009 (BGBl. I S. 1237) geändert
-worden ist, erfolgen, wenn die Polizeivollzugsbeamtinnen und
-Polizeivollzugsbeamten bis zum 31. Dezember 2014 zum Aufstieg
-zugelassen sind oder erfolgreich an einer Vorauswahl für die Teilnahme
-am Auswahlverfahren zum Aufstieg teilgenommen haben.
-
-(3) Für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die die
-Laufbahnbefähigung nach § 30 der Bundespolizei-Laufbahnverordnung in
-der Fassung der Bekanntmachung vom 31. Januar 2003 (BGBl. I S. 143),
-die zuletzt durch Artikel 1 der Verordnung vom 4. Juni 2009 (BGBl. I
-S. 1237) geändert worden ist, erwerben oder erworben haben, gelten die
-Bestimmungen des § 30 der Bundespolizei-Laufbahnverordnung in der
-Fassung der Bekanntmachung vom 31. Januar 2003 (BGBl. I S. 143), die
-zuletzt durch Artikel 1 der Verordnung vom 4. Juni 2009 (BGBl. I S.
-1237) geändert worden ist, über den 1. Januar 2015 hinaus. Ein Wechsel
-in den jeweiligen Aufstieg nach Maßgabe des § 15 Absatz 1 ist möglich.
-Soweit die Voraussetzungen nach § 27 der Bundeslaufbahnverordnung
-vorliegen, können Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte,
-die die Befähigung für den höheren Polizeivollzugsdienst in der
-Bundespolizei nach § 30 Absatz 5 der Bundespolizei-Laufbahnverordnung
-in der Fassung der Bekanntmachung vom 31. Januar 2003 (BGBl. I S.
-143), die zuletzt durch Artikel 1 der Verordnung vom 4. Juni 2009
-(BGBl. I S. 1237) geändert worden ist, erworben haben, das zweite
-Beförderungsamt ihrer Laufbahn erreichen.
-
-(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in besonderen
-Fachverwendungen des gehobenen Polizeivollzugsdienstes in der
-Bundespolizei, deren Ämterreichweite für den gehobenen
-Polizeivollzugsdienst nach § 16a der Bundespolizei-Laufbahnverordnung
-in der bis zum 25. Oktober 2002 geltenden Fassung oder nach § 30 der
-Bundespolizei-Laufbahnverordnung in der Fassung der Bekanntmachung vom
-31\. Januar 2003 (BGBl. I S. 143), die zuletzt durch Artikel 1 der
-Verordnung vom 4. Juni 2009 (BGBl. I S. 1237) geändert worden ist,
-begrenzt ist, kann jedes Amt des gehobenen Polizeivollzugsdienstes in
-der Bundespolizei übertragen werden, wenn sie die
-Bildungsvoraussetzungen nach Anlage 2 erfüllen.
-
-(5) Für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die die
-Laufbahnbefähigung nach den §§ 16a, 18a oder § 32a der Bundespolizei-
-Laufbahnverordnung in der bis zum 25. Oktober 2002 geltenden Fassung
-erworben haben, sind die §§ 16a, 18a oder § 32a in der bis zum 25.
-Oktober 2002 geltenden Fassung weiterhin anzuwenden.
-
-(6) Für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des
-gehobenen Polizeivollzugsdienstes in der Bundespolizei, die vor dem
-28\. November 2008 zum Praxisaufstieg zugelassen worden sind, ist § 30
-der Bundespolizei-Laufbahnverordnung in der bis zum 27. November 2008
-geltenden Fassung anzuwenden.
+1.  ein dienstliches Bedürfnis besteht und
 
 
-## § 18 Überleitung aus der Laufbahn der Grenzjäger und Unterführer sowie aus der Laufbahn der Grenzschutzoffiziere
+2.  die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
 
-(1) Beamte der Laufbahn der Grenzjäger und Unterführer, die die
-Prüfung für die Ernennung zum Beamten auf Lebenszeit nach § 16 der
-Verordnung über die Laufbahnen der Polizeivollzugsbeamten im
-Bundesgrenzschutz und im Bundesministerium des Innern in der Fassung
-der Bekanntmachung vom 16. Juni 1972 (BGBl. I S. 901), die zuletzt
-durch Artikel 1 der Verordnung vom 29. April 1975 (BGBl. I S. 1055)
-geändert worden ist, bestanden haben, besitzen die Befähigung für den
-mittleren Polizeivollzugsdienst in der Bundespolizei.
+    a)  bei Beginn des Aufstiegs noch nicht 57 Jahre alt sind,
 
-(2) Beamte der Laufbahn der Grenzschutzoffiziere, die vor dem
-Inkrafttreten der Bundespolizei-Laufbahnverordnung in der Fassung der
-Bekanntmachung vom 31. Januar 2003 (BGBl. I S. 143), die zuletzt durch
-Artikel 1 der Verordnung vom 4. Juni 2009 (BGBl. I S. 1237) geändert
-worden ist, die Offiziersprüfung bestanden haben, besitzen die
-Befähigung für den gehobenen Polizeivollzugsdienst in der
-Bundespolizei.
+
+    b)  sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben,
+
+
+    c)  sich im Amt der Polizeihauptmeisterin oder des Polizeihauptmeisters
+        mindestens drei Jahre bewährt haben,
+
+
+    d)  in den letzten beiden dienstliche Beurteilungen überdurchschnittlich
+        bewertet worden sind und
+
+
+    e)  erfolgreich an einem Auswahlverfahren teilgenommen haben.
+
+
+
+
+
+
+§ 15 Absatz 1 Satz 2 gilt entsprechend.
+
+(2) § 15 Absatz 2 gilt entsprechend.
+
+(3) Die Aufstiegsausbildung dauert sechs Monate. Sie umfasst eine
+theoretische und eine praktische Ausbildung. In der theoretischen
+Ausbildung können Fernlehrmethoden eingesetzt werden.
+
+(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die die
+Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3
+erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11
+erreichen. Für die Übertragung eines Amtes der neuen Laufbahn sowie
+für die Verleihung des ersten Beförderungsamtes gilt § 40 der
+Bundeslaufbahnverordnung. Abweichend davon kann
+Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die ein Amt der
+Besoldungsgruppe A 9 mit Amtszulage mindestens ein Jahr innehaben,
+unmittelbar das Amt einer Polizeioberkommissarin oder eines
+Polizeioberkommissars übertragen werden.
+
+
+## § 16a Verkürzter Aufstieg von Spitzensportlerinnen und Spitzensportlern in den gehobenen Polizeivollzugsdienst in der Bundespolizei
+
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der
+Spitzensportförderung in der Bundespolizei können zu einem verkürzten
+Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
+zugelassen werden, wenn
+
+1.  dafür ein dienstliches Bedürfnis besteht und
+
+
+2.  die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
+
+    a)  bei Beginn des Aufstiegs noch nicht 40 Jahre alt sind,
+
+
+    b)  sich in dem von der Bundespolizei geförderten Spitzensport mindestens
+        drei Jahre bewährt haben,
+
+
+    c)  den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der
+        Bundespolizei mit einem mindestens überdurchschnittlichen Ergebnis
+        abgeschlossen haben und
+
+
+    d)  erfolgreich an einem Auswahlverfahren teilgenommen haben.
+
+
+
+    Bei der Bemessung der Bewährungszeit sind Zeiten einer
+    Teilzeitbeschäftigung wie Zeiten einer Vollzeitbeschäftigung zu
+    behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen.
+
+
+
+
+(2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
+mit der Maßgabe, dass
+
+1.  über die Zulassung zum Aufstieg – abweichend von § 36 Absatz 6 der
+    Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
+
+
+2.  im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
+    Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
+    mehrfach wiederholt werden kann.
+
+
+
+
+(3) Die Aufstiegsausbildung dauert sechs Monate. Sie umfasst eine
+theoretische und eine praktische Ausbildung. In der theoretischen
+Ausbildung können Fernlehrmethoden eingesetzt werden.
+
+(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der
+Spitzensportförderung der Bundespolizei, die die Befähigung für die
+nächsthöhere Laufbahn nach den Absätzen 1 bis 3 erworben haben, können
+höchstens ein Amt der Besoldungsgruppe A 11 erreichen. Für die
+Übertragung eines Amtes der neuen Laufbahn und für die Verleihung des
+ersten Beförderungsamtes gilt § 40 der Bundeslaufbahnverordnung.
+Abweichend davon kann den Polizeivollzugsbeamtinnen und
+Polizeivollzugsbeamten in der Spitzensportförderung der Bundespolizei,
+die mindestens ein Jahr ein Amt der Besoldungsgruppe A 9m mit
+Amtszulage innehaben, das Amt einer Polizeioberkommissarin oder eines
+Polizeioberkommissars unmittelbar übertragen werden.
+
+
+## § 17 Verkürzter Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
+
+(1) Abweichend von § 15 können Polizeivollzugsbeamtinnen und
+Polizeivollzugsbeamte zu einem verkürzten Aufstieg in den höheren
+Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
+
+1.  die Zulassung vor Ablauf des 31. Dezember 2023 erfolgt,
+
+
+2.  für die Zulassung ein dienstliches Bedürfnis besteht und
+
+
+3.  die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
+
+    a)  bei Beginn des Aufstiegs noch nicht 55 Jahre alt sind,
+
+
+    b)  sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben,
+
+
+    c)  sich im Amt der Ersten Polizeihauptkommissarin oder des Ersten
+        Polizeihauptkommissars mindestens drei Jahre bewährt haben,
+
+
+    d)  in der letzten dienstlichen Beurteilung in ihrer Besoldungsgruppe
+        mindestens mit der Note B 1 beurteilt worden sind und
+
+
+    e)  erfolgreich an einem Auswahlverfahren teilgenommen haben.
+
+
+
+
+
+
+
+(2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
+mit der Maßgabe, dass
+
+1.  über die Zulassung zum Aufstieg – abweichend von § 36 Absatz 6 Satz 1
+    der Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
+
+
+2.  im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
+    Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
+    mehrfach wiederholt werden kann.
+
+
+
+
+(3) Die Aufstiegsausbildung dauert in der Regel zwölf Monate. Die
+Aufstiegsausbildung kann auf neun Monate verkürzt werden, soweit
+berufspraktische Kenntnisse durch die Wahrnehmung von Aufgaben des
+höheren Polizeivollzugsdienstes nachgewiesen sind. Die
+Aufstiegsausbildung umfasst eine theoretische und eine praktische
+Ausbildung. Die theoretische Ausbildung dauert vier Monate. In der
+theoretischen Ausbildung können Fernlehrmethoden eingesetzt werden.
+
+(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die die
+Befähigung für den höheren Polizeivollzugsdienst nach den Absätzen 1
+bis 3 erworben haben, können höchstens ein Amt der Besoldungsgruppe A
+14 erreichen.
+
+(5) Für die Übertragung eines Amtes der neuen Laufbahn und für die
+Verleihung des ersten Beförderungsamtes gilt § 40 der
+Bundeslaufbahnverordnung.
+
+
+## § 18 Ausnahmen für besonders leistungsstarke Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren Polizeivollzugsdienstes in der Bundespolizei
+
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren
+Polizeivollzugsdienstes in der Bundespolizei kann ein Amt der Laufbahn
+des gehobenen Polizeivollzugsdienstes in der Bundespolizei verliehen
+werden, wenn
+
+1.  die Verleihung vor Ablauf des 31. Dezember 2023 erfolgt,
+
+
+2.  für die Verleihung ein dienstliches Bedürfnis besteht und
+
+
+3.  die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
+
+    a)  bei der Zulassung für die Laufbahn des gehobenen
+        Polizeivollzugsdienstes noch nicht 59 Jahre alt sind,
+
+
+    b)  sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben,
+
+
+    c)  sich im Amt der Polizeihauptmeisterin oder des Polizeihauptmeisters
+        mindestens drei Jahre bewährt haben,
+
+
+    d)  in der letzten dienstlichen Beurteilung in ihrer Besoldungsgruppe
+        mindestens mit der Note B 1 beurteilt worden sind,
+
+
+    e)  im Rahmen einer Bestenauslese ausgewählt worden sind und
+
+
+    f)  erfolgreich an einem Feststellungsgespräch teilgenommen haben.
+
+
+
+
+
+
+Das Nähere regelt das Bundespolizeipräsidium in ergänzenden
+Bestimmungen.
+
+(2) Im Feststellungsgespräch wird geprüft, ob die
+Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte die notwendigen
+Fachkenntnisse für den vorgesehenen Aufgabenbereich besitzt.
+
+(3) Das Feststellungsgespräch orientiert sich schwerpunktmäßig an den
+bisher wahrgenommenen Aufgaben und an der vorgesehenen Verwendung im
+neuen Aufgabenbereich. Es kann einmal wiederholt werden. Das
+Feststellungsgespräch mit der Polizeivollzugsbeamtin oder dem
+Polizeivollzugsbeamten führt ein unabhängiger Feststellungsausschuss
+des Bundespolizeipräsidiums oder einer von ihm bestimmten
+nachgeordneten Behörde. Das Nähere regelt die Verfahrensordnung des
+Bundespolizeipräsidiums.
+
+(4) Ist das Feststellungsgespräch bei einer Polizeivollzugsbeamtin
+oder einem Polizeivollzugsbeamten erfolgreich verlaufen, so wird ihr
+oder ihm im Rahmen der besetzbaren Planstellen ein Amt der neuen
+Laufbahn verliehen. Das erste Beförderungsamt in der höheren
+Laufbahngruppe darf erst verliehen werden, wenn eine Dienstzeit von
+einem Jahr in dieser Laufbahngruppe zurückgelegt worden ist.
+Abweichend davon kann Polizeivollzugsbeamtinnen und
+Polizeivollzugsbeamten das Amt einer Polizeioberkommissarin oder eines
+Polizeioberkommissars unmittelbar verliehen werden, wenn sie im
+Zeitpunkt des Feststellungsgesprächs bereits eine Dienstzeit von einem
+Jahr in einem Amt der Besoldungsgruppe A 9m mit Amtszulage
+zurückgelegt haben. Polizeivollzugsbeamtinnen und
+Polizeivollzugsbeamten, denen ein Amt des gehobenen
+Polizeivollzugsdienstes nach Absatz 1 verliehen worden ist, können
+höchstens ein Amt der Besoldungsgruppe A 11 erreichen.
 
 
 ## Anlage 1 (zu § 3 Absatz 2)
@@ -649,130 +872,547 @@ Dienst**
 
     Eingangsamt
 [^f775922_01_BJNR240810011BJNE002000000]: 
+(zu § 12 Absatz 1)
 
-## Anlage 2 (zu § 12)
+## Anlage 2 Bildungsvoraussetzungen für besondere Fachverwendungen im Polizeivollzugsdienst in der Bundespolizei
 
-(Fundstelle: BGBl. I 2011, 2415)
+(Fundstelle: BGBl. I 2020, 667 – 669)
 
 
-*    *   Laufbahn
+*    *
+    *   Laufbahn
 
     *   Besondere Fachverwendung
 
     *   Bildungsvoraussetzungen
 
 
-*    *   Mittlerer
-        Polizeivoll-
-        zugsdienst
+*    *   1
 
-    *   Sanitäterin oder Sanitäter
+    *   Mittlerer Polizeivollzugsdienst
 
-    *   Abschluss als Gesundheits- oder Krankenpflegerin oder -pfleger oder
-        Berufserlaubnis als Rettungsassistentin oder Rettungsassistent nach
-        dem Rettungsassistentengesetz *und*                      eine
-        hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+    *   Rettungsassistentin oder Rettungsassistent,
+        Notfallsanitäterin oder
+        Notfallsanitäter
+
+    *   –
+
+    *   Abschluss als Gesundheits- oder Krankenpflegerin oder  ‑pfleger oder
+
+
+*    *
+    *   –
+
+    *   Erlaubnis zum Führen der Berufsbezeichnung „Rettungsassistentin“ oder
+        „Rettungsassistent“ nach dem Rettungsassistentengesetz in der bis zum
+        31\. Dezember 2014 geltenden Fassung oder
+
+
+*    *
+    *
+    *   –
+
+    *   Erlaubnis zum Führen der Berufsbezeichnung „Notfallsanitäterin“ oder
+        „Notfallsanitäter“ nach dem Notfallsanitätergesetz
+
+
+*    *
+    *
+    *
+    *   und
+
+
+*    *
+    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
         in diesem Bereich
 
 
-*    *   Technische Fachverwendung
-
-    *   Meisterprüfung oder Industriemeisterprüfung in Informations- und
-        Kommunikationstechnik oder in Polizeitechnik oder im
-        kriminaltechnischen Dienst oder
-        Abschluss in einem anerkannten Ausbildungsberuf nach dem
-        Berufsbildungsgesetz oder der Handwerksordnung in Informations- und
-        Kommunikationstechnik oder in Polizeitechnik oder im
-        kriminaltechnischen Dienst oder
-        Abschluss einer gleichwertigen Ausbildung im öffentlichen Dienst in
-        Informations- und Kommunikationstechnik oder in Polizeitechnik oder im
-        kriminaltechnischen Dienst
-        *und*
-        eine hauptberufliche Tätigkeit von mindestens einem Jahr und sechs
-        Monaten in diesem Bereich
-
-
-*    *   Gehobener
-        Polizeivollzugsdienst
-
-    *   Verwendung im Flugdienst als
+*    *   2
 
     *
+    *   Physiotherapeutin oder Physiotherapeut
 
-*    *   – Pilotin oder Pilot
-
-    *   Lizenz für Berufs- oder Verkehrspiloten nach den geltenden
-        europäischen Bestimmungen über die Lizenzierung von Piloten
-        (Hubschrauber) *und*                      eine hauptberufliche
-        Tätigkeit von mindestens zwei Jahren in diesem Bereich
+    *   Abschluss als Physiotherapeutin oder Physiotherapeut
 
 
-*    *   – Flugtechnikerin
-        oder Flugtechniker
-
-    *   Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des
-        Bundes oder der Länder nach der Verordnung über Luftfahrtpersonal
-        *und*                      eine hauptberufliche Tätigkeit von
-        mindestens zwei Jahren in diesem Bereich
+*    *
+    *
+    *
+    *   und
 
 
-*    *   – Freigabeberechtigtes Personal der Kategorie B oder höherwertig,
-        Prüferinnen oder Prüfer von Luftfahrtgerät und Fachpersonal für die
+*    *
+    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   3
+
+    *
+    *   Technische Verwendung im Fachdienst für Informations-
+        und Kommunikationstechnik
+
+    *   –
+
+    *   Meisterprüfung oder Industriemeisterprüfung in Informations- und
+        Kommunikationstechnik oder
+
+
+*    *
+    *
+    *   –
+
+    *   Abschluss in einem anerkannten Ausbildungsberuf nach dem
+        Berufsbildungsgesetz oder der Handwerksordnung in Informations- und
+        Kommunikationstechnik oder
+
+
+*    *
+    *
+    *
+    *   –
+
+    *   Abschluss einer vergleichbaren Ausbildung oder Abschluss einer
+        gleichwertigen Ausbildung im öffentlichen Dienst in Informations- und
+        Kommunikationstechnik
+
+
+*    *
+    *
+    *
+    *   und
+
+
+*    *
+    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   4
+
+    *
+    *   Technische Verwendung im Fachdienst für Polizeitechnik
+
+    *   –
+
+    *   Meister- oder Industriemeisterprüfung in einem metallverarbeitenden
+        Beruf oder
+
+
+*    *
+    *
+    *   –
+
+    *   Abschluss in einem anerkannten Ausbildungsberuf nach dem
+        Berufsbildungsgesetz oder der Handwerksordnung in einem Metall- oder
+        Elektroberuf oder als Schiffsmechanikerin oder Schiffsmechaniker
+
+
+*    *
+    *
+    *
+    *   und
+
+
+*    *
+    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   5
+
+    *
+    *   Technische Verwendung im kriminaltechnischen Dienst
+
+    *   –
+
+    *   Meisterprüfung oder Industriemeisterprüfung in der Kriminaltechnik
+        oder
+
+
+*    *
+    *
+    *   –
+
+    *   Abschluss in einem anerkannten Ausbildungsberuf nach dem
+        Berufsbildungsgesetz oder der Handwerksordnung in Kriminaltechnik oder
+        als Schiffsmechanikerin oder Schiffsmechaniker oder
+
+
+*    *
+    *
+    *
+    *   –
+
+    *   Abschluss einer gleichwertigen Ausbildung im öffentlichen Dienst in
+        Kriminaltechnik
+
+
+*    *
+    *
+    *
+    *   und
+
+
+*    *
+    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   6
+
+    *
+    *   Nautisches Funktions-
+        personal
+
+    *   Seemännische oder nautische Qualifikation
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   7
+
+    *   Gehobener Polizeivollzugsdienst
+
+    *   Pilotin oder Pilot
+
+    *   Lizenz als Berufspilotin oder Berufspilot oder als Verkehrspilotin
+        oder Verkehrspilot nach den geltenden Bestimmungen der Europäischen
+        Union über die Lizenzierung von Pilotinnen und Piloten an Bord von
+        Hubschraubern
+
+
+*    *
+    *   und
+
+
+*    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+
+
+*    *   8
+
+    *
+    *   Flugtechnikerin oder
+        Flugtechniker
+
+    *   Lizenz als Flugtechnikerin oder Flugtechniker an Bord von
+        Hubschraubern bei den Polizeien des Bundes oder der Länder nach der
+        Verordnung über Luftfahrtpersonal
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+
+
+*    *   9
+
+    *
+    *   Prüferin oder Prüfer von Luftfahrtgerät
+
+    *   Lizenz als Prüferin oder Prüfer von Luftfahrtgerät nach der Verordnung
+        über Luftfahrtpersonal in der jeweils geltenden Fassung
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+
+
+*    *   10
+
+    *
+    *   Freigabeberechtigtes
+        Personal der Kategorie B oder höherwertig
+
+    *   Lizenz für freigabeberechtigtes Personal nach den geltenden
+        Bestimmungen der Europäischen Union
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+
+
+*    *   11
+
+    *
+    *   Fachpersonal für die
         zerstörungsfreie Werkstoffprüfung der Qualifikationsstufe 2
 
-    *   Lizenz für Freigabeberechtigtes Personal nach den geltenden
-        europäischen Bestimmungen oder Lizenz als Prüfer von Luftfahrtgerät
-        nach der geltenden Verordnung über Luftfahrtpersonal oder Erlaubnis
-        zur Durchführung zerstörungsfreier Werkstoffprüfungen nach den
-        geltenden europäischen Vorschriften *und*                      eine
-        hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+    *   Erlaubnis zur Durchführung zerstörungsfreier Werkstoffprüfungen nach
+        den geltenden Vorschriften der Europäischen Union
 
 
-*    *   Kommandantin oder Kommandant oder Stellvertreterin oder Stellvertreter
-        der Kommandantin oder des Kommandanten auf einem Einsatzschiff der
-        Bundespolizei
-
-    *   Fachhochschulabschluss für die jeweilige Fachverwendung in einem
-        Diplom- oder Bachelorstudiengang *und*                      eine
-        hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+*    *
+    *
+    *   und
 
 
-*    *   Technische Fachverwendung
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
 
-    *   Fachhochschulabschluss für die jeweilige Fachverwendung in einem
-        Diplom- oder Bachelorstudiengang *und*                      eine
-        hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+
+*    *   12
+
+    *
+    *   Nautisches Funktions- oder Lehrpersonal
+
+    *   Hochschulabschluss im seemännischen oder nautischen Bereich
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+
+
+*    *   13
+
+    *
+    *   Kommandantin oder Kommandant eines Einsatzschiffs der Bundespolizei,
+        Stellvertreterin oder Stellvertreter der Kommandantin oder des
+        Kommandanten eines Einsatzschiffs der Bundespolizei
+
+    *   Diplom- oder Bachelorabschluss in einem für die Tätigkeit geeigneten
+        Studiengang
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+
+
+*    *   14
+
+    *
+    *   Technische Verwendung im Fachdienst für Informations-
+        und Kommunikationstechnik
+
+    *   Diplom- oder Bachelorabschluss in einem für die Tätigkeit geeigneten
+        Studiengang
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
         in diesem Bereich
 
 
-*    *   Sachbearbeiterin
-        oder Sachbearbeiter
-        im ärztlichen Dienst
+*    *   15
 
-    *   Fachhochschulabschluss in einem Diplom- oder Bachelorstudiengang im
-        Bereich der Gesundheitswissenschaften *und*                      eine
-        hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+    *
+    *   Technische Verwendung im Fachdienst für Polizeitechnik
+
+    *   Diplom- oder Bachelorabschluss in einem für die Tätigkeit geeigneten
+        Studiengang
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
         in diesem Bereich
 
 
-*    *   Höherer
-        Polizeivoll-
-        zugsdienst
+*    *   16
 
-    *   Technische Fachverwendung
+    *
+    *   Technische Verwendung im kriminaltechnischen Dienst
 
-    *   mit einem Master abgeschlossenes Hochschulstudium oder einen
-        gleichwertigen Abschluss für die jeweilige Fachverwendung *und*
-        eine hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs
-        Monaten in diesem Bereich
+    *   Diplom- oder Bachelorabschluss in einem für die Tätigkeit geeigneten
+        Studiengang
 
 
-*    *   Polizeivollzugsbeamtin
-        oder Polizeivollzugsbeamter
-        im ärztlichen Dienst
+*    *
+    *
+    *   und
 
-    *   abgeschlossenes Medizinstudium *und*                      eine
-        hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   17
+
+    *
+    *   Führungs-, Funktions-
+        oder Lehrpersonal im
+        polizeiärztlichen Dienst
+
+    *   Diplom- oder Bachelorabschluss in einem Studiengang im Bereich der
+        Gesundheitswissenschaften oder der Medizinpädagogik
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   18
+
+    *
+    *   Sportwissenschaftlerin oder Sportwissenschaftler,
+        Diplomsportlehrerin oder Diplomsportlehrer
+
+    *   Diplom- oder Bachelorabschluss in einem Studiengang der Sport- oder
+        Erziehungswissenschaften
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
+        in diesem Bereich
+
+
+*    *   19
+
+    *   Höherer Polizeivollzugsdienst
+
+    *   Technische Verwendung im Fachdienst für Informations-
+        und Kommunikationstechnik
+
+    *   Hochschulabschluss in einem für die Tätigkeit geeigneten
+        Masterstudiengang oder ein gleichwertiger für die Tätigkeit geeigneter
+        Abschluss
+
+
+*    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
+        in diesem Bereich
+
+
+*    *   20
+
+    *
+    *   Technische Verwendung im Fachdienst für Polizeitechnik
+
+    *   Hochschulabschluss in einem für die Tätigkeit geeigneten
+        Masterstudiengang oder ein gleichwertiger für die Tätigkeit geeigneter
+        Abschluss
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
+        in diesem Bereich
+
+
+*    *   21
+
+    *
+    *   Technische Verwendung im kriminaltechnischen Dienst
+
+    *   Hochschulabschluss in einem für die Tätigkeit geeigneten
+        Masterstudiengang oder ein gleichwertiger für die Tätigkeit geeigneter
+        Abschluss
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
+        in diesem Bereich
+
+
+*    *   22
+
+    *
+    *   Ärztin oder Arzt
+
+    *   Medizinstudium und abgeschlossene Facharztausbildung
+
+
+*    *
+    *
+    *   und
+
+
+*    *
+    *
+    *   hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
         in diesem Bereich
 
 

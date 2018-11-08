@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1658
 
+Zuletzt geändert durch
+:   Art. 12 G v. 20.11.2019 I 1724
+
 
 ## Eingangsformel
 
@@ -45,13 +48,12 @@ Verordnung erfüllt sind.
 
 
 3.  Tatsachen vorliegen, welche die Unzuverlässigkeit des Antragstellers
-    in Bezug auf die Verarbeitung und Nutzung personenbezogener Daten
-    begründen, oder
+    in Bezug auf die Verarbeitung personenbezogener Daten begründen, oder
 
 
 4.  dem Antragsteller oder einer Person, die im Auftrag des Antragstellers
-    die aus dem Schuldnerverzeichnis zu beziehenden Daten verarbeitet oder
-    nutzt, der Betrieb eines Gewerbes untersagt ist.
+    die aus dem Schuldnerverzeichnis zu beziehenden Daten verarbeitet, der
+    Betrieb eines Gewerbes untersagt ist.
 
 
 
@@ -131,15 +133,15 @@ personenbezogene Daten des Antragstellers, insbesondere der Name des
 Antragstellers, das Datum des Antrags sowie die Angaben des
 Antragstellers nach § 3 Absatz 2 von dem zentralen
 Vollstreckungsgericht oder der nach § 882h Absatz 1 Satz 3 der
-Zivilprozessordnung zuständigen Stelle erhoben und verarbeitet werden.
+Zivilprozessordnung zuständigen Stelle verarbeitet werden.
 
 (2) Im Fall der Ablehnung oder Rücknahme des Antrags werden der Name
 des Antragstellers, das Datum des Antrags sowie die Angaben des
 Antragstellers nach § 3 Absatz 2 Nummer 1 und 2 von dem zentralen
 Vollstreckungsgericht oder der nach § 882h Absatz 1 Satz 3 der
 Zivilprozessordnung zuständigen Stelle erfasst und gespeichert. Diese
-Angaben dürfen nur dazu erhoben, verarbeitet und genutzt werden, um
-Mehrfachanträge und Bewilligungshindernisse zu erkennen.
+Angaben dürfen nur verarbeitet werden, um Mehrfachanträge und
+Bewilligungshindernisse zu erkennen.
 
 (3) Die Frist für die Aufbewahrung oder Speicherung beträgt sechs
 Jahre ab dem Ende des Jahres, in dem der Antrag gestellt wurde. Nach
@@ -185,9 +187,8 @@ Beziehers der Abdrucke zuständig ist.
 Jahre zu befristen.
 
 (2) Zum Zweck der Einhaltung der Vorschriften der §§ 882e bis 882h der
-Zivilprozessordnung, der anzuwendenden Vorschriften der
-Datenschutzgesetze und dieser Verordnung kann die Bewilligung ergehen
-mit Bestimmungen,
+Zivilprozessordnung, der datenschutzrechtlichen Vorschriften und
+dieser Verordnung kann die Bewilligung ergehen mit Bestimmungen,
 
 1.  durch die dem Begünstigten ein Tun, Dulden oder Unterlassen
     vorgeschrieben wird (Auflagen) und
@@ -474,14 +475,13 @@ Absatz 2 und 3 der Zivilprozessordnung in das Schuldnerverzeichnis
 aufzunehmenden Eintragungen übermittelt werden. Die Verknüpfung zu
 übermittelnder Daten mit anderen Daten ist nur zulässig, wenn
 
-1.  die Verknüpfung für die Zwecke des § 882f der Zivilprozessordnung
-    notwendig ist,
+1.  die Verknüpfung für die Zwecke des § 882f Absatz 1 der
+    Zivilprozessordnung notwendig ist,
 
 
 2.  die Daten, mit denen die Daten aus dem Schuldnerverzeichnis verknüpft
-    werden sollen, rechtmäßig und ausschließlich zu den in § 882f der
-    Zivilprozessordnung genannten Zwecken erhoben, verarbeitet und genutzt
-    werden,
+    werden sollen, rechtmäßig und ausschließlich zu den in § 882f Absatz 1
+    der Zivilprozessordnung genannten Zwecken verarbeitet werden,
 
 
 3.  der Bezieher der Abdrucke die Herkunft der Daten nachweisen kann und
@@ -491,8 +491,8 @@ aufzunehmenden Eintragungen übermittelt werden. Die Verknüpfung zu
     Auskunft im Wege des Abrufs von Daten, die mit Daten aus dem
     Schuldnerverzeichnis verknüpft sind, nur dann Kenntnis von verknüpften
     Daten aus Schuldnerverzeichnissen erhält, wenn er dazu berechtigt ist
-    oder wenn dies für die Zwecke des § 882f der Zivilprozessordnung
-    notwendig ist.
+    oder wenn dies für die Zwecke des § 882f Absatz 1 der
+    Zivilprozessordnung notwendig ist.
 
 
 
@@ -505,11 +505,14 @@ verwendet werden, deren Eintragung in das Schuldnerverzeichnis nach §
 ### § 17 Ausgestaltung elektronischer Abrufverfahren
 
 Der Bezieher von Abdrucken, der Einzelauskünfte im automatisierten
-Abrufverfahren erteilt (Auskunftsstelle), hat die geeigneten
-technischen und organisatorischen Maßnahmen zu treffen, die
-erforderlich sind, um die Ausführung der Vorschriften des
-Bundesdatenschutzgesetzes oder der entsprechenden landesrechtlichen
-Regelungen zu gewährleisten. § 9 Absatz 2 gilt entsprechend.
+Abrufverfahren erteilt (Auskunftsstelle), hat gemäß den Artikeln 24,
+25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und
+des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) geeignete technische und organisatorische Maßnahmen
+zu treffen. § 9 Absatz 2 gilt entsprechend.
 
 
 ### § 18 Ausschluss von der Abrufberechtigung
@@ -518,8 +521,8 @@ Regelungen zu gewährleisten. § 9 Absatz 2 gilt entsprechend.
 Abrufverfahren auszuschließen, wenn ihr Tatsachen bekannt werden, die
 erkennen lassen, dass
 
-1.  die abgerufenen Daten vom Abrufberechtigten nicht zu den in § 882f der
-    Zivilprozessordnung genannten Zwecken verwendet werden,
+1.  die abgerufenen Daten vom Abrufberechtigten nicht zu den in § 882f
+    Absatz 1 der Zivilprozessordnung genannten Zwecken verarbeitet werden,
 
 
 2.  kein berechtigtes Interesse nach § 882g Absatz 2 Nummer 3 der
@@ -528,16 +531,15 @@ erkennen lassen, dass
 
 
 3.  die abgerufenen Daten vom Abrufberechtigten in unzulässiger Weise
-    genutzt, insbesondere weitergegeben werden,
+    verarbeitet werden,
 
 
 4.  der Abrufberechtigte seinen Pflichten nach § 17 nicht oder nicht
     hinreichend nachkommt oder
 
 
-5.  die Unzuverlässigkeit in Bezug auf die Verarbeitung und Nutzung
-    personenbezogener Daten bei dem Abrufberechtigten aus sonstigen
-    Gründen begründet ist.
+5.  die Unzuverlässigkeit in Bezug auf die Verarbeitung personenbezogener
+    Daten bei dem Abrufberechtigten aus sonstigen Gründen begründet ist.
 
 
 

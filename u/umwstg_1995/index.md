@@ -21,6 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 3 G v. 16.5.2003 I 660
 
+Stand: Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006)
 
 ## Erster Teil - Allgemeine Vorschriften zu dem zweiten bis siebten Teil
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1570
 
+Zuletzt geändert durch
+:   Art. 12 V v. 9.12.2019 I 2153
+
 
 
 ## Eingangsformel
@@ -38,7 +41,7 @@ durch die berufliche Fortbildung zum Leasingfachwirt/zur
 Leasingfachwirtin erworben worden sind, kann die zuständige Stelle
 Prüfungen nach den §§ 2 bis 9 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, die
 folgenden Aufgaben eines Leasingfachwirtes wahrzunehmen:
 
@@ -135,10 +138,10 @@ prüfen:
 
 
 (2) Im Prüfungsfach "Volks- und betriebswirtschaftliche Grundlagen"
-soll der Prüfungsteilnehmer nachweisen, daß er volkswirtschaftliche
+soll die zu prüfende Person nachweisen, daß sie volkswirtschaftliche
 Zusammenhänge erkennen und Auswirkungen wirtschaftspolitischer
 Maßnahmen auf unternehmerische Entscheidungen beurteilen kann. Ebenso
-soll er nachweisen, daß er die Aufgaben und Ziele von
+soll sie nachweisen, daß sie die Aufgaben und Ziele von
 Leasingunternehmen und das Zusammenwirken der betrieblichen Funktionen
 darstellen kann. In diesem Rahmen können geprüft werden:
 
@@ -183,10 +186,10 @@ darstellen kann. In diesem Rahmen können geprüft werden:
 
 
 (3) Im Prüfungsfach "Unternehmensführung, Personalwirtschaft und
-Betriebsorganisation" soll der Prüfungsteilnehmer nachweisen, daß er
+Betriebsorganisation" soll die zu prüfende Person nachweisen, daß sie
 Aufgaben und Ziele der betrieblichen Organisation kennt und als
-Grundlage für die Unternehmensführung einzuordnen versteht. Er soll
-ferner nachweisen, daß er die Instrumente der Unternehmens- und
+Grundlage für die Unternehmensführung einzuordnen versteht. Sie soll
+ferner nachweisen, daß sie die Instrumente der Unternehmens- und
 Mitarbeiterführung kennt und zur Lösung betrieblicher Aufgaben
 einsetzen kann. In diesem Rahmen können geprüft werden:
 
@@ -258,8 +261,8 @@ einsetzen kann. In diesem Rahmen können geprüft werden:
 
 
 
-(4) Im Prüfungsfach "Recht mit besonderem Bezug zum Leasing" soll der
-Prüfungsteilnehmer nachweisen, daß er mit den Grundsätzen des
+(4) Im Prüfungsfach "Recht mit besonderem Bezug zum Leasing" soll die
+zu prüfende Person nachweisen, daß sie mit den Grundsätzen des
 Zivilrechts, des Handels- und Gesellschaftsrechts und des
 Verfahrensrechts vertraut ist und sie bei der Abwicklung von
 Leasinggeschäften anwenden kann. In diesem Rahmen können
@@ -320,7 +323,7 @@ mündlich, in den in Absatz 1 Nr. 2 und 3 genannten Prüfungsfächern
 schriftlich durchzuführen.
 
 (6) Die mündliche Prüfung wird in Form eines Prüfungsgesprächs
-durchgeführt. Es soll je Prüfungsteilnehmer nicht länger als 30
+durchgeführt. Es soll je zu prüfender Person nicht länger als 30
 Minuten dauern.
 
 (7) Die schriftliche Prüfung besteht je Prüfungsfach aus einer unter
@@ -328,12 +331,12 @@ Aufsicht anzufertigenden Arbeit und soll insgesamt nicht länger als
 vier Stunden dauern. Die Mindestzeit je Prüfungsfach beträgt 1,5
 Stunden.
 
-(8) Die schriftliche Prüfung ist auf Antrag des Prüfungsteilnehmers
+(8) Die schriftliche Prüfung ist auf Antrag der zu prüfenden Person
 oder nach Ermessen des Prüfungsausschusses durch eine mündliche
 Prüfung zu ergänzen, wenn sie für das Bestehen der Prüfung oder für
 die eindeutige Beurteilung der Prüfungsleistung von wesentlicher
-Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und je
-Prüfungsteilnehmer nicht länger als 10 Minuten dauern.
+Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und je zu
+prüfender Person nicht länger als 10 Minuten dauern.
 
 
 ## § 5 Wirtschaftszweigspezifischer Teil
@@ -355,11 +358,11 @@ prüfen:
 
 
 
-(2) Im Prüfungsfach "Allgemeine Leasinglehre" soll der
-Prüfungsteilnehmer nachweisen, daß er den Leasingmarkt und die
-Grundlagen des Leasinggeschäfts kennt und mit den
-Leasingvertragsmodellen sowie deren Vorbereitung und Abwicklung
-vertraut ist. In diesem Rahmen können geprüft werden:
+(2) Im Prüfungsfach "Allgemeine Leasinglehre" soll die zu prüfende
+Person nachweisen, daß sie den Leasingmarkt und die Grundlagen des
+Leasinggeschäfts kennt und mit den Leasingvertragsmodellen sowie deren
+Vorbereitung und Abwicklung vertraut ist. In diesem Rahmen können
+geprüft werden:
 
 1.  Grundlagen des Leasing:
 
@@ -411,8 +414,8 @@ vertraut ist. In diesem Rahmen können geprüft werden:
 
 
 
-(3) Im Prüfungsfach "Immobilien-Leasing" soll der Prüfungsteilnehmer
-nachweisen, daß er den Immobilien-Leasingmarkt kennt und mit den
+(3) Im Prüfungsfach "Immobilien-Leasing" soll die zu prüfende Person
+nachweisen, daß sie den Immobilien-Leasingmarkt kennt und mit den
 Grundlagen des Immobilien-Leasinggeschäfts sowie mit den dafür in
 Frage kommenden Vertragsmodellen und deren Abwicklung vertraut ist. In
 diesem Rahmen können geprüft werden:
@@ -468,12 +471,12 @@ diesem Rahmen können geprüft werden:
 
 
 (4) Im Prüfungsfach "Bilanzierung, Finanzierung und Kalkulation" soll
-der Prüfungsteilnehmer nachweisen, daß er die für
+die zu prüfende Person nachweisen, daß sie die für
 Leasinggesellschaften geltenden Bilanzierungs- und
 Bewertungsgrundsätze einschließlich der Besonderheiten im Immobilien-
-Leasing kennt. Er soll zeigen, daß er die Finanzierungsregeln sowie
+Leasing kennt. Sie soll zeigen, daß sie die Finanzierungsregeln sowie
 die Vor- und Nachteile der verschiedenen Finanzierungsarten darstellen
-kann. Er soll ferner die Grundlagen der Preiskalkulation und die
+kann. Sie soll ferner die Grundlagen der Preiskalkulation und die
 anzuwendenden Kalkulationsverfahren beherrschen. In diesem Rahmen
 können geprüft werden:
 
@@ -538,11 +541,11 @@ können geprüft werden:
 
 
 
-(5) Im Prüfungsfach "Situationsbezogenes Fachgespräch" soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist, sein
-Berufswissen in unternehmenstypischen Situationen anzuwenden und
-sachgerechte Lösungen vorzuschlagen. Dabei ist von einer
-praxisbezogenen Situationsaufgabe auszugehen.
+(5) Im Prüfungsfach "Situationsbezogenes Fachgespräch" soll die zu
+prüfende Person nachweisen, daß sie in der Lage ist, ihr Berufswissen
+in unternehmenstypischen Situationen anzuwenden und sachgerechte
+Lösungen vorzuschlagen. Dabei ist von einer praxisbezogenen
+Situationsaufgabe auszugehen.
 
 (6) In den in Absatz 1 Nr. 1 bis 3 genannten Prüfungsfächern ist
 schriftlich zu prüfen. Die Prüfung besteht je Prüfungsfach aus einer
@@ -551,63 +554,118 @@ als sechs Stunden dauern. Die Mindestzeit je Prüfungsfach beträgt 1,5
 Stunden.
 
 (7) Die Prüfung in dem in Absatz 1 Nr. 4 genannten Prüfungsfach wird
-in Form eines Prüfungsgespräches durchgeführt. Es soll je
-Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
+in Form eines Prüfungsgespräches durchgeführt. Es soll je zu prüfender
+Person nicht länger als 30 Minuten dauern.
 
-(8) Die schriftliche Prüfung ist auf Antrag des Prüfungsteilnehmers
+(8) Die schriftliche Prüfung ist auf Antrag der zu prüfenden Person
 oder nach Ermessen des Prüfungsausschusses durch eine mündliche
 Prüfung zu ergänzen, wenn sie für das Bestehen der Prüfung oder für
 die eindeutige Beurteilung der Prüfungsleistung von wesentlicher
-Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und
-Prüfungsteilnehmer nicht länger als zehn Minuten dauern.
+Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und zu
+prüfender Person nicht länger als zehn Minuten dauern.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern gemäß
-den §§ 4 und 5 kann der Prüfungsteilnehmer auf Antrag von der
-zuständigen Stelle freigestellt werden, wenn er vor einer zuständigen
-Stelle, einer öffentlichen oder staatlich anerkannten
-Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuß eine
-Prüfung in den letzten fünf Jahren vor Antragstellung bestanden hat,
-deren Inhalt den Anforderungen dieser Prüfungsteile oder
-Prüfungsfächer entspricht. Eine vollständige Freistellung ist nicht
-zulässig.
-
-
-## § 7 Bestehen der Prüfung
-
-(1) Die beiden Teile der Prüfung sind gesondert zu bewerten. Für jeden
-Teil der Prüfung ist eine Note als arithmetisches Mittel aus den
-Punktebewertungen der Prüfungsleistungen in den einzelnen
-Prüfungsfächern zu bilden. Für jedes Prüfungsfach ist eine Note aus
-den Punktebewertungen der jeweiligen Prüfungsleistungen zu bilden.
-Dabei ist aus den Punktebewertungen der Prüfungsleistungen je
-Prüfungsfach das arithmetische Mittel zu bilden.
-
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in allen
-Prüfungsfächern mindestens ausreichende Leistungen erbracht hat.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage
-auszustellen. Im Fall einer Freistellung gemäß § 6 sind Ort und Datum
-sowie Bezeichnung des Prüfungsgremiums der anderweitig abgelegten
-Prüfung anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die Prüfungsleistungen in den Fächern des
+wirtschaftszweigübergreifenden Prüfungsteils nach § 4 sind einzeln zu
+bewerten. Aus den einzelnen Bewertungen ist das arithmetische Mittel
+zu berechnen.
+
+(3) Die Prüfungsleistungen in den Fächern des
+wirtschaftszweigspezifischen Prüfungsteils nach § 5 sind einzeln zu
+bewerten. Aus den einzelnen Bewertungen ist das arithmetische Mittel
+zu berechnen.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in allen Fächern des wirtschaftszweigübergreifenden Prüfungsteils nach
+    § 4,
+
+
+2.  in allen Fächern des wirtschaftszweigspezifischen Prüfungsteils nach §
+    5\.
+
+
+
+
+(2) Ist die Prüfung bestanden, wird das arithmetische Mittel der
+Bewertung des wirtschaftszweigübergreifenden Prüfungsteils und der
+Bewertung des wirtschaftszweigspezifischen Prüfungsteils kaufmännisch
+auf eine ganze Zahl gerundet.
+
+(3) Den Bewertungen für die Prüfungsteile und die Prüfungsleistungen
+in den Fächern des wirtschaftszweigübergreifenden Prüfungsteils und
+des wirtschaftszweigspezifischen Prüfungsteils ist nach Anlage 1 die
+jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen der beiden Prüfungsteile zu
+berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag
+(2) In der Wiederholungsprüfung ist die zu prüfende Person auf Antrag
 von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern zu
-befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung
-ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
-Tage der Beendigung der nicht bestandenen Prüfung an, zur
+befreien, wenn ihre Leistungen darin in einer vorangegangenen Prüfung
+ausgereicht haben und sie sich innerhalb von zwei Jahren, gerechnet
+vom Tage der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende
@@ -623,55 +681,373 @@ Verordnung durchführen; § 8 Abs. 2 findet in diesem Fall keine
 Anwendung.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu den §§ 7 und 8)
 
-## Anlage (zu § 7 Abs. 3)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 1995, 1574)
+Fundstelle: BGBl. I 2019, 2195 - 2196)
 
-Muster
-......................................................................
-..
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin
-Herr/Frau
-..............................................................
-geboren am ...................   in
-....................................
-hat am .......................   die Prüfung zum anerkannten Abschluß
-Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Leasingfachwirt/Geprüfte Leasingfachwirtin vom 30. November 1995
-(BGBl.
-I S. 1570)
-mit folgenden Ergebnissen bestanden:
-Note
-I.  Wirtschaftszweigübergreifender Teil
-...........
-1\. Volks- und betriebswirtschaftliche Grundlagen         ...........
-2\. Unternehmensführung, Personalwirtschaft und
-Betriebsorganisation                                  ...........
-3\. Recht mit besonderem Bezug zum Leasing                ...........
-(Im Fall des § 6: "Der Prüfungsteilnehmer wurde gemäß § 6 im Hinblick
-auf die am ......................... in
-................................
-vor ........................................ abgelegte Prüfung in
-diesem
-Prüfungsteil/im Prüfungsfach ..................... freigestellt.")
-II. Wirtschaftszweigspezifischer Teil
-...........
-1\. Allgemeine Leasinglehre                               ...........
-2\. Immobilien-Leasing                                    ...........
-3\. Bilanzierung, Finanzierung, Kalkulation               ...........
-4\. Situationsbezogenes Fachgespräch                      ...........
-(Im Fall des § 6: entsprechend Klammervermerk unter I.3.)
-Datum .................................
-Unterschrift ..........................
-(Siegel der zuständigen Stelle)
+
+*    *   Punkte
+
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2196)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung und Bewertung des wirtschaftszweigübergreifenden Teils nach
+    § 4 mit Note,
+
+
+2.  Benennung und Bewertung der Fächer des wirtschaftszweigübergreifenden
+    Teils mit Note,
+
+
+3.  Benennung und Bewertung des wirtschaftszweigspezifischen Teils nach §
+    5 mit Note sowie
+
+
+4.  Benennung und Bewertung der Fächer des wirtschaftszweigspezifischen
+    Teils mit Note,
+
+
+5.  die errechnete Gesamtpunktzahl,
+
+
+6.  die Gesamtnote als Dezimalzahl,
+
+
+7.  die Gesamtnote in Worten,
+
+
+8.  Befreiungen nach § 6.
+
+
+
 

@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 97
 
-Zuletzt geändert durch
-:   Art. 1 V v. 14.12.2012 I 2660
-
+Stand: Zuletzt geändert Art. 1 V v. 16.12.2021 I 5208
 
 ## § 1
 
@@ -33,10 +31,20 @@ Lotsabgaben nach der Anlage 1 zu entrichten. Satz 1 gilt nicht für
     einer Landradarzentrale aus in Anspruch nehmen, und
 
 
-3.  Dienstfahrzeuge der Wasser- und Schifffahrtsverwaltung des Bundes, für
-    Dienstfahrzeuge des Bundes, die der Wahrnehmung
-    schifffahrtspolizeilicher Vollzugsaufgaben dienen, sowie für Fahrzeuge
-    der Deutschen Gesellschaft zur Rettung Schiffbrüchiger.
+3.  folgende Fahrzeuge
+
+    a)  Dienstfahrzeuge des Geschäftsbereiches des Bundesministeriums für
+        Verkehr und digitale Infrastruktur,
+
+
+    b)  Dienstfahrzeuge von Bund und Ländern, sofern diese Fahrzeuge der
+        Wahrnehmung schifffahrtspolizeilicher Vollzugsaufgaben dienen, sowie
+
+
+    c)  Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger.
+
+
+
 
 
 
@@ -137,10 +145,10 @@ an, so ist die Lotsabgabe nur einmal zu entrichten.
 
     Die Reederei hat die Absicht, einen solchen Liniendienst
     durchzuführen, jeweils spätestens bei der ersten Fahrt im Kalenderjahr
-    der Wasser- und Schifffahrtsdirektion Nordwest schriftlich anzuzeigen.
-    Die Ermäßigung wird bei jeder Fahrt sofort gewährt. Sind bis Ende des
-    Kalenderjahres die Voraussetzungen nicht erfüllt, sind die erlangten
-    Ermäßigungsbeträge sofort nachzuentrichten.
+    der Generaldirektion Wasserstraßen und Schifffahrt schriftlich
+    anzuzeigen. Die Ermäßigung wird bei jeder Fahrt sofort gewährt. Sind
+    bis Ende des Kalenderjahres die Voraussetzungen nicht erfüllt, sind
+    die erlangten Ermäßigungsbeträge sofort nachzuentrichten.
 
 
 
@@ -261,12 +269,12 @@ Kalenderjahres, in dem der Anspruch fällig geworden ist.
 letzten sechs Monate der Frist wegen höherer Gewalt nicht verfolgt
 werden kann.
 
-(3) Die Verjährung wird unterbrochen durch schriftliche
-Zahlungsaufforderung, durch Zahlungsaufschub, durch Stundung, durch
-Aussetzen der Vollziehung, durch Sicherheitsleistung, durch eine
-Vollstreckungsmaßnahme, durch Vollstreckungsaufschub, durch Anmeldung
-im Konkurs und durch Ermittlung des Gläubigers über Wohnsitz und
-Aufenthalt des Zahlungspflichtigen.
+(3) Die Verjährung wird unterbrochen durch Zahlungsaufforderung, durch
+Zahlungsaufschub, durch Stundung, durch Aussetzen der Vollziehung,
+durch Sicherheitsleistung, durch eine Vollstreckungsmaßnahme, durch
+Vollstreckungsaufschub, durch Anmeldung im Konkurs und durch
+Ermittlung des Gläubigers über Wohnsitz und Aufenthalt des
+Zahlungspflichtigen.
 
 (4) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet,
 beginnt eine neue Verjährung.
@@ -301,7 +309,7 @@ Schiffsmessbrief oder der Eichschein nicht vorgelegt werden, wird
 
 
 
-von einem von der zuständigen Wasser- und Schifffahrtsdirektion
+von einem von der Generaldirektion Wasserstraßen und Schifffahrt
 bestimmten Sachverständigen oder der Schiffsvermessungsbehörde
 geschätzt; die Kosten der Schätzung hat der zur Zahlung der
 Lotsabgaben und Lotsgelder Verpflichtete zu tragen.
@@ -322,9 +330,8 @@ Bruttoraumzahl zugrunde gelegt:
 
 2.  bei Tankschiffen, bei denen das um den Raumgehalt der getrennten
     Wasserballasttanks verminderte Vermessungsergebnis von der
-    Schiffsvermessungsbehörde nach den IMO-Resolutionen A.388(X),
-    A.722(17) oder A.474(18) bescheinigt ist, die verminderte
-    Bruttoraumzahl;
+    Schiffsvermessungsbehörde nach der IMO-Resolution A.747(18)
+    bescheinigt ist, die verminderte Bruttoraumzahl;
 
 
 3.  bei Binnenschiffen die Hälfte der im Eichschein ausgewiesenen
@@ -354,20 +361,21 @@ aufgerundet.
 
 ## § 7
 
-(1) Die Lotsabgaben und Lotsgelder werden von den für das Seelotswesen
-als Aufsichtsbehörden zuständigen Wasser- und Schifffahrtsdirektionen
-erhoben und eingezogen. Diese können Dritte mit der Entgegennahme der
-Zahlungen beauftragen.
+(1) Die Lotsabgaben und Lotsgelder werden von der Generaldirektion
+Wasserstraßen und Schifffahrt erhoben und eingezogen. Diese kann
+Dritte mit der Entgegennahme der Zahlungen beauftragen.
 
-(2) Die zuständige Wasser- und Schifffahrtsdirektion kann von der
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt kann von der
 Zahlung der Lotsabgaben aus Gründen des öffentlichen Interesses ganz
 oder teilweise befreien.
 
+(zu § 1 Absatz 1)
 
-## Anlage 1 (zu § 1 Absatz 1) Verzeichnis und Tabelle der Lotsabgaben
+## Anlage 1 Verzeichnis und Tabelle der Lotsabgaben
 
 (Fundstelle: BGBl. I 2009, 100 - 110;
-bezgl. einzelner Änderungen vgl. Fußnote)
+bzgl. einzelner Änderungen vgl. Fußnote)
+
 ### A. Verzeichnis der Lotsabgaben
 
 
@@ -382,46 +390,91 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     a)  Emden-Reede und Borkum oder der Außenstation des Lotsenschiffes bei
         der Leuchttonne
-        „Westerems“
-        100 vom Hundert
+
+        *            *   „Westerems“
+
+            *   100 vom Hundert
 
 
-    b)  Papenburg-Schleuse und Emden-Reede
-        10 vom Hundert
 
 
-    c)  Papenburg-Schleuse und Leer-Schleuse
-        5 vom Hundert
+
+    b)
+        *            *   Papenburg-Schleuse und Emden-Reede
+
+            *   10 vom Hundert
 
 
-    d)  Leer-Schleuse und Emden-Reede
-        5 vom Hundert
 
 
-    e)  Emden-Reede und der Binnenrandzelbake
-        50 vom Hundert
+
+    c)
+        *            *   Papenburg-Schleuse und Leer-Schleuse
+
+            *   5 vom Hundert
+
+
+
+
+
+    d)
+        *            *   Leer-Schleuse und Emden-Reede
+
+            *   5 vom Hundert
+
+
+
+
+
+    e)
+        *            *   Emden-Reede und der Binnenrandzelbake
+
+            *   50 vom Hundert
+
+
+
 
 
     f)  der Binnenrandzelbake und der Außenstation des Lotsenschiffes bei
         Leuchttonne
-        „Westerems“
-        50 vom Hundert
+
+        *            *   „Westerems“
+
+            *   50 vom Hundert
+
+
+
 
 
     g)  Borkum-Hafen und der Außenstation des Lotsenschiffes bei Leuchttonne
-        „Westerems“
-        55 vom Hundert
+
+        *            *   „Westerems“
+
+            *   55 vom Hundert
+
+
+
 
 
 
     und im Verkehr auf den Fahrtstrecken
 
-    h)  von Emden-Reede nach Delfzijl oder Eemshaven
-        55 vom Hundert
+    h)
+        *            *   von Emden-Reede nach Delfzijl oder Eemshaven
+
+            *   55 vom Hundert
 
 
-    i)  Borkum-Hafen nach Eemshaven oder Delfzijl
-        55 vom Hundert
+
+
+
+    i)
+        *            *   Borkum-Hafen nach Eemshaven oder Delfzijl
+
+            *   55 vom Hundert
+
+
+
 
 
 
@@ -433,34 +486,69 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     im Verkehr auf den Fahrtstrecken zwischen
 
     a)  Bremen und der Außenstation des Lotsenschiffes bei der Leuchttonne
-        „3/Jade 2“ oder der „Schlüsseltonne“
-        100 vom Hundert
+
+        *            *   „3/Jade 2“ oder der „Schlüsseltonne“
+
+            *   100 vom Hundert
 
 
-    b)  Bremen und Elsfleth
-        15 vom Hundert
 
 
-    c)  Elsfleth und Brake
-        5 vom Hundert
+
+    b)
+        *            *   Bremen und Elsfleth
+
+            *   15 vom Hundert
 
 
-    d)  Brake und Nordenham
-        10 vom Hundert
 
 
-    e)  Nordenham und Bremerhaven
-        5 vom Hundert
+
+    c)
+        *            *   Elsfleth und Brake
+
+            *   5 vom Hundert
 
 
-    f)  Bremerhaven oder der Reede von Blexen und den Ankerplätzen bei Hoheweg
-        35 vom Hundert
+
+
+
+    d)
+        *            *   Brake und Nordenham
+
+            *   10 vom Hundert
+
+
+
+
+
+    e)
+        *            *   Nordenham und Bremerhaven
+
+            *   5 vom Hundert
+
+
+
+
+
+    f)
+        *            *   Bremerhaven oder der Reede von Blexen und den Ankerplätzen bei Hoheweg
+
+            *   35 vom Hundert
+
+
+
 
 
     g)  den Ankerplätzen bei Hoheweg und der Außenstation des Lotsenschiffes
         bei der
-        Leuchttonne „3/Jade 2“ oder der „Schlüsseltonne“
-        30 vom Hundert
+
+        *            *   Leuchttonne „3/Jade 2“ oder der „Schlüsseltonne“
+
+            *   30 vom Hundert
+
+
+
 
 
 
@@ -473,16 +561,31 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     a)  Wilhelmshaven und der Außenstation des Lotsenschiffes bei der
         Leuchttonne
-        „3/Jade 2“
-        100 vom Hundert
+
+        *            *   „3/Jade 2“
+
+            *   100 vom Hundert
 
 
-    b)  der inneren Grenze des Seelotsreviers und Schillig-Reede
-        50 vom Hundert
 
 
-    c)  Schillig-Reede und der äußeren Grenze des Seelotsreviers
-        50 vom Hundert
+
+    b)
+        *            *   der inneren Grenze des Seelotsreviers und Schillig-Reede
+
+            *   50 vom Hundert
+
+
+
+
+
+    c)
+        *            *   Schillig-Reede und der äußeren Grenze des Seelotsreviers
+
+            *   50 vom Hundert
+
+
+
 
 
 
@@ -493,24 +596,88 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     im Verkehr auf den Fahrtstrecken zwischen
 
-    a)  Hamburg und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“
-        100 vom Hundert
+    a)
+        *            *   Hamburg und der Außenstation des Lotsenschiffes
+                bei der Tonne „Elbe“
+
+            *   100 vom Hundert
 
 
-    b)  Hamburg und der Kaianlage vor Bützfleth/Stade
-        20 vom Hundert
 
 
-    c)  der Kaianlage vor Bützfleth/Stade und Brunsbüttel
-        20 vom Hundert
+
+    b)
+        *            *   Hamburg und der Kaianlage vor Bützfleth/Stade
+
+            *   20 vom Hundert
 
 
-    d)  Brunsbüttel und Cuxhaven
-        20 vom Hundert
 
 
-    e)  Cuxhaven und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“
-        40 vom Hundert
+
+    c)
+        *            *   der Kaianlage vor Bützfleth/Stade und Brunsbüttel
+
+            *   20 vom Hundert
+
+
+
+
+
+    d)
+        *            *   Brunsbüttel und Cuxhaven
+
+            *   20 vom Hundert
+
+
+
+
+
+    e)
+        *            *   Cuxhaven und der Außenstation des Lotsenschiffes
+                bei der Tonne „Elbe“
+
+            *   40 vom Hundert
+
+
+
+
+
+    f)
+        *            *   dem Elbehafen Brunsbüttel und Wedel
+
+            *   40 vom Hundert
+
+
+
+
+
+    g)
+        *            *   dem Elbehafen Brunsbüttel und der Kaianlage vor
+                Bützfleth/Stade
+
+            *   20 vom Hundert
+
+
+
+
+
+    h)
+        *            *   Brunsbüttel und dem Ruthenstrom
+
+            *   20 vom Hundert
+
+
+
+
+
+    i)
+        *            *   Hamburg und dem Ruthenstrom
+
+            *   20 vom Hundert
+
+
+
 
 
 
@@ -521,17 +688,32 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     im Verkehr
 
-    a)  auf der Fahrtstrecke von der Zufahrt der Eingangsschleuse bis zur
-        Endschleuse
-        100 vom Hundert
+    a)
+        *            *   auf der Fahrtstrecke von der Zufahrt der Eingangsschleuse bis zur
+                Endschleuse
+
+            *   100 vom Hundert
 
 
-    b)  auf Teilen der Fahrtstrecke für jede angefangene Fahrtstrecke von zehn
-        Kilometern
-        10 vom Hundert
 
-        mindestens jedoch
-        20 vom Hundert
+
+
+    b)
+        *            *   auf Teilen der Fahrtstrecke für jede angefangene Fahrtstrecke von zehn
+                Kilometern
+
+            *   10 vom Hundert
+
+
+
+
+
+        *            *   mindestens jedoch
+
+            *   20 vom Hundert
+
+
+
 
 
 
@@ -545,12 +727,22 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     in Kiel-Holtenau, Heikendorf und der Lotsenstation auf dem Leuchtturm
     Kiel, wenn
 
-    a)  der Leuchtturm Friedrichsort passiert wird
-        100 vom Hundert
+    a)
+        *            *   der Leuchtturm Friedrichsort passiert wird
+
+            *   100 vom Hundert
 
 
-    b)  der Leuchtturm Friedrichsort nicht passiert wird
-        40 vom Hundert
+
+
+
+    b)
+        *            *   der Leuchtturm Friedrichsort nicht passiert wird
+
+            *   40 vom Hundert
+
+
+
 
 
 
@@ -561,24 +753,44 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     im Verkehr auf den Fahrtstrecken zwischen
 
-    a)  den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker
-        Bucht
-        100 vom Hundert
+    a)
+        *            *   den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker
+                Bucht
+
+            *   100 vom Hundert
+
+
+
 
 
     b)  den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup, Lübeck-Herrenwyk
-        und der Leuchttonne „Trave“ in der Lübecker Bucht
-        90 vom Hundert
+
+        *            *   und der Leuchttonne „Trave“ in der Lübecker Bucht
+
+            *   90 vom Hundert
+
+
+
 
 
     c)  den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,
-        Lübeck-Schlutup und Lübeck-Herrenwyk
-        50 vom Hundert
+
+        *            *   Lübeck-Schlutup und Lübeck-Herrenwyk
+
+            *   50 vom Hundert
+
+
+
 
 
     d)  den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“
-        in der Lübecker Bucht
-        25 vom Hundert
+
+        *            *   in der Lübecker Bucht
+
+            *   25 vom Hundert
+
+
+
 
 
 
@@ -589,14 +801,24 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     im Verkehr auf den Fahrtstrecken zwischen
 
-    a)  Flensburg und der Tonne „Flensburger Förde“
-        100 vom Hundert
+    a)
+        *            *   Flensburg und der Tonne „Flensburger Förde“
+
+            *   100 vom Hundert
+
+
+
 
 
     b)  Flensburg und der Grenze des Seelotsreviers auf der Fahrt nach den
         dänischen
-        Häfen an der Flensburger Förde ohne Annahme eines Seelotsen
-        65 vom Hundert
+
+        *            *   Häfen an der Flensburger Förde ohne Annahme eines Seelotsen
+
+            *   65 vom Hundert
+
+
+
 
 
 
@@ -607,17 +829,32 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     im Verkehr auf den Fahrtstrecken zwischen
 
-    a)  Wismar und dem „Offentief“ oder der Tonne „Wismar“
-        100 vom Hundert
+    a)
+        *            *   Wismar und dem „Offentief“ oder der Tonne „Wismar“
+
+            *   100 vom Hundert
+
+
+
 
 
     b)  Wismar und Innenreede sowie Innenreede und dem „Offentief“ oder
-        der Tonne „Wismar“
-        50 vom Hundert
+
+        *            *   der Tonne „Wismar“
+
+            *   50 vom Hundert
 
 
-    c)  der Tonne „Wismar“ und Außenreede
-        25 vom Hundert
+
+
+
+    c)
+        *            *   der Tonne „Wismar“ und Außenreede
+
+            *   25 vom Hundert
+
+
+
 
 
 
@@ -628,25 +865,50 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     im Verkehr auf den Fahrtstrecken zwischen
 
-    a)  Seehafen Rostock und den seewärtigen Versetzpositionen
-        100 vom Hundert
+    a)
+        *            *   Seehafen Rostock und den seewärtigen Versetzpositionen
+
+            *   100 vom Hundert
 
 
-    b)  Warnemünde und den seewärtigen Versetzpositionen
-        90 vom Hundert
 
 
-    c)  Stadthafen Rostock und den seewärtigen Versetzpositionen
-        130 vom Hundert
+
+    b)
+        *            *   Warnemünde und den seewärtigen Versetzpositionen
+
+            *   90 vom Hundert
 
 
-    d)  der Reede und den seewärtigen Versetzpositionen
-        50 vom Hundert
 
 
-    e)  Rostocker Fracht- und Fischereihafen und den seewärtigen
-        Versetzpositionen
-        115 vom Hundert
+
+    c)
+        *            *   Stadthafen Rostock und den seewärtigen Versetzpositionen
+
+            *   130 vom Hundert
+
+
+
+
+
+    d)
+        *            *   der Reede und den seewärtigen Versetzpositionen
+
+            *   50 vom Hundert
+
+
+
+
+
+    e)
+        *            *   Rostocker Fracht- und Fischereihafen und den seewärtigen
+                Versetzpositionen
+
+            *   115 vom Hundert
+
+
+
 
 
 
@@ -657,26 +919,51 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     und im Verkehr auf den Fahrtstrecken zwischen
 
-    a)  Stralsund-Seehafen-Nord und der Tonne „Gellen“
-        100 vom Hundert
+    a)
+        *            *   Stralsund-Seehafen-Nord und der Tonne „Gellen“
+
+            *   100 vom Hundert
 
 
-    b)  Stralsund-Seehafen-Süd und der Tonne „Gellen“
-        100 vom Hundert
+
+
+
+    b)
+        *            *   Stralsund-Seehafen-Süd und der Tonne „Gellen“
+
+            *   100 vom Hundert
+
+
+
 
 
     c)  Stralsund-Seehafen-Nord und der Osteinfahrt bei den Tonnen
-        „Landtief B“ oder „Osttief 2“
-        150 vom Hundert
+
+        *            *   „Landtief B“ oder „Osttief 2“
+
+            *   150 vom Hundert
+
+
+
 
 
     d)  Stralsund-Seehafen-Süd und der Osteinfahrt bei den Tonnen
-        „Landtief B“ oder „Osttief 2“
-        150 vom Hundert
+
+        *            *   „Landtief B“ oder „Osttief 2“
+
+            *   150 vom Hundert
 
 
-    e)  alle übrigen Fahrtstrecken im Lotsbezirk Stralsund
-        100 vom Hundert
+
+
+
+    e)
+        *            *   alle übrigen Fahrtstrecken im Lotsbezirk Stralsund
+
+            *   100 vom Hundert
+
+
+
 
 
 
@@ -861,10039 +1148,3330 @@ Die Lotsabgabe beträgt
 
 
 
-**B. Tabelle der Lotsabgaben**
+## **B. Tabelle der Lotsabgaben**
+
+
+
 ## **Teil I**
 
-
 *    *   Bruttoraumzahl
-        über – bis
 
     *   Ems
         Euro
-        1
 
     *   Weser
         Euro
-        2
 
     *   Jade
         Euro
-        3
 
     *   Elbe
         Euro
-        4
 
 
-*    *
-    *
-    *
-    *
-    *
+*    *   über – bis
 
-*    *   0 –    300
+    *   1
 
-    *   43
+    *   2
 
-    *   44
+    *   3
 
-    *   58
+    *   4
 
-    *   51
+
+*    *   0 –      300
+
+    *   56
+
+    *   57
+
+    *   76
+
+    *   65
 
 
 *    *   300 –    400
 
-    *   54
-
-    *   55
+    *   65
 
     *   73
 
-    *   68
+    *   94
+
+    *   87
 
 
 *    *   400 –    500
 
-    *   61
+    *   75
 
-    *   70
+    *   91
 
-    *   87
+    *   111
 
-    *   87
+    *   111
 
 
 *    *   500 –    600
 
-    *   65
+    *   83
 
-    *   86
+    *   109
 
-    *   97
+    *   124
 
-    *   89
+    *   113
 
 
 *    *   600 –    700
 
-    *   68
+    *   88
 
-    *   98
+    *   126
 
-    *   106
+    *   136
 
-    *   94
+    *   122
 
 
 *    *   700 –    800
 
-    *   70
+    *   91
 
-    *   105
+    *   136
 
-    *   114
+    *   148
 
-    *   97
+    *   125
 
 
 *    *   800 –    900
 
-    *   72
+    *   94
 
-    *   112
+    *   146
 
-    *   123
+    *   159
 
-    *   99
+    *   127
 
 
 *    *   900 –  1 000
 
-    *   75
+    *   97
 
-    *   119
+    *   155
 
-    *   133
+    *   172
 
-    *   101
+    *   131
 
 
 *    *   1 000 –  1 100
 
-    *   78
+    *   101
 
-    *   127
+    *   165
 
-    *   144
+    *   185
 
-    *   105
+    *   135
 
 
 *    *   1 100 –  1 200
 
-    *   81
+    *   104
 
-    *   135
+    *   175
 
-    *   154
+    *   199
 
-    *   110
+    *   141
 
 
 *    *   1 200 –  1 300
 
-    *   85
+    *   107
 
-    *   145
+    *   187
 
-    *   165
+    *   213
 
-    *   116
+    *   149
 
 
 *    *   1 300 –  1 400
 
-    *   88
+    *   111
 
-    *   155
+    *   199
 
-    *   175
+    *   226
 
-    *   119
+    *   153
 
 
 *    *   1 400 –  1 500
 
-    *   91
+    *   116
 
-    *   165
+    *   213
 
-    *   186
+    *   240
 
-    *   123
+    *   158
 
 
 *    *   1 500 –  1 600
 
-    *   94
+    *   120
 
-    *   176
+    *   227
 
-    *   197
+    *   255
 
-    *   129
+    *   166
 
 
 *    *   1 600 –  1 700
 
-    *   97
+    *   125
 
-    *   187
+    *   241
 
-    *   208
+    *   269
 
-    *   133
+    *   172
 
 
 *    *   1 700 –  1 800
 
-    *   100
+    *   129
 
-    *   197
+    *   255
 
-    *   219
+    *   282
 
-    *   140
+    *   180
 
 
 *    *   1 800 –  1 900
 
-    *   103
+    *   134
 
-    *   207
+    *   268
 
-    *   231
+    *   296
 
-    *   146
+    *   188
 
 
 *    *   1 900 –  2 000
 
-    *   107
+    *   138
 
-    *   217
+    *   279
 
-    *   242
+    *   310
 
-    *   152
+    *   195
 
 
 *    *   2 000 –  2 100
 
-    *   111
+    *   142
 
-    *   224
+    *   289
 
-    *   252
-
-    *   157
-
-
-*    *   2 100 –  2 200
-
-    *   114
-
-    *   231
-
-    *   263
-
-    *   164
-
-
-*    *   2 200 –  2 300
-
-    *   117
-
-    *   238
-
-    *   273
-
-    *   169
-
-
-*    *   2 300 –  2 400
-
-    *   120
-
-    *   244
-
-    *   284
-
-    *   175
-
-
-*    *   2 400 –  2 500
-
-    *   124
-
-    *   250
-
-    *   295
-
-    *   182
-
-
-*    *   2 500 –  2 600
-
-    *   129
-
-    *   256
-
-    *   305
-
-    *   189
-
-
-*    *   2 600 –  2 700
-
-    *   134
-
-    *   263
-
-    *   315
-
-    *   196
-
-
-*    *   2 700 –  2 800
-
-    *   139
-
-    *   270
-
-    *   325
+    *   324
 
     *   202
 
 
+*    *   2 100 –  2 200
+
+    *   147
+
+    *   299
+
+    *   338
+
+    *   212
+
+
+*    *   2 200 –  2 300
+
+    *   151
+
+    *   307
+
+    *   352
+
+    *   218
+
+
+*    *   2 300 –  2 400
+
+    *   155
+
+    *   316
+
+    *   366
+
+    *   226
+
+
+*    *   2 400 –  2 500
+
+    *   161
+
+    *   323
+
+    *   379
+
+    *   234
+
+
+*    *   2 500 –  2 600
+
+    *   166
+
+    *   332
+
+    *   393
+
+    *   243
+
+
+*    *   2 600 –  2 700
+
+    *   172
+
+    *   340
+
+    *   406
+
+    *   254
+
+
+*    *   2 700 –  2 800
+
+    *   179
+
+    *   349
+
+    *   418
+
+    *   260
+
+
 *    *   2 800 –  2 900
 
-    *   144
+    *   186
+
+    *   358
+
+    *   432
 
     *   278
-
-    *   336
-
-    *   216
 
 
 *    *   2 900 –  3 000
 
-    *   150
+    *   194
 
-    *   287
+    *   369
 
-    *   346
+    *   446
 
-    *   222
+    *   286
 
 
 *    *   3 000 –  3 200
 
-    *   157
+    *   203
 
-    *   297
+    *   383
 
-    *   366
+    *   470
 
-    *   240
+    *   309
 
 
 *    *   3 200 –  3 400
 
-    *   165
+    *   215
 
-    *   309
+    *   398
 
-    *   386
+    *   498
 
-    *   251
+    *   323
 
 
 *    *   3 400 –  3 600
 
-    *   175
+    *   227
 
-    *   322
+    *   415
 
-    *   407
+    *   524
 
-    *   265
+    *   340
 
 
 *    *   3 600 –  3 800
 
-    *   186
+    *   241
 
-    *   336
+    *   433
 
-    *   427
+    *   551
 
-    *   281
+    *   362
 
 
 *    *   3 800 –  4 000
 
-    *   197
+    *   255
 
-    *   350
+    *   450
 
-    *   448
+    *   578
 
-    *   297
+    *   382
 
 
 *    *   4 000 –  4 200
 
-    *   208
+    *   269
 
-    *   363
+    *   468
 
-    *   469
+    *   605
 
-    *   315
+    *   406
 
 
 *    *   4 200 –  4 400
 
-    *   219
+    *   284
 
-    *   376
+    *   485
 
-    *   490
+    *   631
 
-    *   329
+    *   423
 
 
 *    *   4 400 –  4 600
 
-    *   232
+    *   302
 
-    *   389
+    *   502
 
-    *   510
+    *   658
 
-    *   347
+    *   447
 
 
 *    *   4 600 –  4 800
 
-    *   248
+    *   323
 
-    *   404
+    *   519
 
-    *   532
+    *   686
 
-    *   373
+    *   480
 
 
 *    *   4 800 –  5 000
 
-    *   272
+    *   351
 
-    *   420
+    *   541
 
-    *   556
+    *   716
 
-    *   391
+    *   503
 
 
 *    *   5 000 –  5 500
 
-    *   300
+    *   386
 
-    *   442
+    *   570
 
-    *   597
+    *   769
 
-    *   430
+    *   553
 
 
 *    *   5 500 –  6 000
 
-    *   331
+    *   424
 
-    *   474
+    *   611
 
-    *   639
+    *   823
 
-    *   458
+    *   591
 
 
 *    *   6 000 –  6 500
 
-    *   362
+    *   467
 
-    *   516
+    *   664
 
-    *   682
+    *   878
 
-    *   498
+    *   641
 
 
 *    *   6 500 –  7 000
 
-    *   397
+    *   511
 
-    *   558
+    *   718
 
-    *   725
+    *   934
 
-    *   539
+    *   693
 
 
 *    *   7 000 –  7 500
 
-    *   435
-
-    *   596
+    *   560
 
     *   768
 
-    *   579
+    *   990
+
+    *   745
 
 
 *    *   7 500 –  8 000
 
-    *   474
+    *   610
 
-    *   633
+    *   815
 
-    *   812
+    *   1 045
 
-    *   620
+    *   798
 
 
 *    *   8 000 –  8 500
 
-    *   514
-
-    *   667
-
-    *   856
-
     *   661
+
+    *   858
+
+    *   1 101
+
+    *   852
 
 
 *    *   8 500 –  9 000
 
-    *   553
+    *   713
 
-    *   699
+    *   900
 
-    *   899
+    *   1 157
 
-    *   703
+    *   905
 
 
 *    *   9 000 –  9 500
 
-    *   591
+    *   761
 
-    *   729
+    *   938
 
-    *   943
+    *   1 213
 
-    *   744
+    *   959
 
 
 *    *   9 500 – 10 000
 
-    *   628
+    *   809
 
-    *   759
+    *   977
 
-    *   987
+    *   1 270
 
-    *   763
+    *   983
 
 
 *    *   10 000 – 10 500
 
-    *   658
+    *   851
 
-    *   787
+    *   1 013
 
-    *   1 030
+    *   1 326
 
-    *   784
+    *   1 010
 
 
 *    *   10 500 – 11 000
 
-    *   686
+    *   888
 
-    *   814
+    *   1 049
 
-    *   1 073
+    *   1 381
 
-    *   804
+    *   1 035
 
 
 *    *   11 000 – 11 500
 
-    *   714
+    *   922
 
-    *   842
+    *   1 084
 
-    *   1 117
+    *   1 437
 
-    *   843
+    *   1 085
 
 
 *    *   11 500 – 12 000
 
-    *   740
+    *   957
 
-    *   870
+    *   1 120
 
-    *   1 162
+    *   1 494
 
-    *   881
+    *   1 135
 
 
 *    *   12 000 – 12 500
 
-    *   767
+    *   991
 
-    *   899
+    *   1 157
 
-    *   1 207
+    *   1 550
 
-    *   921
+    *   1 187
 
 
 *    *   12 500 – 13 000
 
-    *   799
+    *   1 029
 
-    *   929
+    *   1 195
 
-    *   1 250
+    *   1 607
 
-    *   960
+    *   1 236
 
 
 *    *   13 000 – 13 500
 
-    *   833
+    *   1 072
 
-    *   960
+    *   1 235
 
-    *   1 293
+    *   1 664
 
-    *   998
+    *   1 285
 
 
 *    *   13 500 – 14 000
 
-    *   867
+    *   1 115
 
-    *   990
+    *   1 274
 
-    *   1 335
+    *   1 719
 
-    *   1 040
+    *   1 339
 
 
 *    *   14 000 – 14 500
 
-    *   901
+    *   1 160
 
-    *   1 019
+    *   1 312
 
-    *   1 377
+    *   1 773
 
-    *   1 080
+    *   1 390
 
 
 *    *   14 500 – 15 000
 
-    *   935
+    *   1 204
 
-    *   1 047
+    *   1 349
 
-    *   1 417
+    *   1 825
 
-    *   1 120
+    *   1 442
 
 
 *    *   15 000 – 15 500
 
-    *   969
+    *   1 248
 
-    *   1 076
+    *   1 386
 
-    *   1 456
+    *   1 877
 
-    *   1 161
+    *   1 495
 
 
 *    *   15 500 – 16 000
 
-    *   1 004
+    *   1 293
 
-    *   1 106
+    *   1 424
 
-    *   1 496
+    *   1 928
 
-    *   1 200
+    *   1 545
 
 
 *    *   16 000 – 16 500
 
-    *   1 040
+    *   1 339
 
-    *   1 136
+    *   1 463
 
-    *   1 537
+    *   1 980
 
-    *   1 241
+    *   1 598
 
 
 *    *   16 500 – 17 000
 
-    *   1 075
+    *   1 384
 
-    *   1 166
+    *   1 501
 
-    *   1 579
+    *   2 033
 
-    *   1 282
+    *   1 651
 
 
 *    *   17 000 – 17 500
 
-    *   1 110
+    *   1 430
 
-    *   1 196
+    *   1 541
 
-    *   1 621
+    *   2 088
 
-    *   1 324
+    *   1 705
 
 
 *    *   17 500 – 18 000
 
-    *   1 145
+    *   1 474
 
-    *   1 226
+    *   1 579
 
-    *   1 667
+    *   2 143
 
-    *   1 365
+    *   1 757
 
 
 *    *   18 000 – 18 500
 
-    *   1 180
+    *   1 518
 
-    *   1 256
+    *   1 617
 
-    *   1 709
+    *   2 199
 
-    *   1 408
+    *   1 814
 
 
 *    *   18 500 – 19 000
 
-    *   1 215
+    *   1 563
 
-    *   1 284
+    *   1 653
 
-    *   1 752
+    *   2 254
 
-    *   1 450
+    *   1 867
 
 
 *    *   19 000 – 19 500
 
-    *   1 250
+    *   1 609
 
-    *   1 311
+    *   1 687
 
-    *   1 795
+    *   2 311
 
-    *   1 492
+    *   1 921
 
 
 *    *   19 500 – 20 000
 
-    *   1 285
+    *   1 654
 
-    *   1 335
+    *   1 719
 
-    *   1 838
+    *   2 367
 
-    *   1 533
+    *   1 974
 
 
 *    *   20 000 – 20 500
 
-    *   1 320
+    *   1 699
 
-    *   1 359
+    *   1 749
 
-    *   1 880
+    *   2 419
 
-    *   1 576
+    *   2 029
 
 
 *    *   20 500 – 21 000
 
-    *   1 355
+    *   1 745
 
-    *   1 382
+    *   1 779
 
-    *   1 918
+    *   2 471
 
-    *   1 617
+    *   2 082
 
 
 *    *   21 000 – 21 500
 
-    *   1 390
+    *   1 790
 
-    *   1 406
+    *   1 810
 
-    *   1 957
+    *   2 522
 
-    *   1 660
+    *   2 138
 
 
 *    *   21 500 – 22 000
 
-    *   1 426
+    *   1 836
 
-    *   1 431
+    *   1 841
 
-    *   1 996
+    *   2 573
 
-    *   1 702
+    *   2 191
 
 
 *    *   22 000 – 22 500
 
-    *   1 461
+    *   1 881
 
-    *   1 456
+    *   1 874
 
-    *   2 035
+    *   2 624
 
-    *   1 745
+    *   2 247
 
 
 *    *   22 500 – 23 000
 
-    *   1 496
+    *   1 926
 
-    *   1 481
+    *   1 906
 
-    *   2 075
+    *   2 675
 
-    *   1 785
+    *   2 298
 
 
 *    *   23 000 – 23 500
 
-    *   1 531
+    *   1 971
 
-    *   1 506
+    *   1 938
 
-    *   2 118
+    *   2 727
 
-    *   1 829
+    *   2 355
 
 
 *    *   23 500 – 24 000
 
-    *   1 566
+    *   2 016
 
-    *   1 531
+    *   1 970
 
-    *   2 160
+    *   2 781
 
-    *   1 870
+    *   2 409
 
 
 *    *   24 000 – 24 500
 
-    *   1 601
+    *   2 061
 
-    *   1 556
+    *   2 003
 
-    *   2 203
+    *   2 836
 
-    *   1 906
+    *   2 454
 
 
 *    *   24 500 – 25 000
 
-    *   1 636
+    *   2 106
 
-    *   1 581
+    *   2 035
 
-    *   2 246
+    *   2 891
 
-    *   1 953
+    *   2 515
 
 
 *    *   25 000 – 25 500
 
-    *   1 669
+    *   2 149
 
-    *   1 607
+    *   2 068
 
-    *   2 289
+    *   2 948
 
-    *   1 999
+    *   2 573
 
 
 *    *   25 500 – 26 000
 
-    *   1 701
+    *   2 190
 
-    *   1 632
+    *   2 101
 
-    *   2 332
+    *   3 003
 
-    *   2 046
+    *   2 634
 
 
 *    *   26 000 – 26 500
 
-    *   1 733
+    *   2 232
 
-    *   1 658
+    *   2 135
 
-    *   2 375
+    *   3 057
 
-    *   2 090
+    *   2 691
 
 
 *    *   26 500 – 27 000
 
-    *   1 766
+    *   2 275
 
-    *   1 683
+    *   2 167
 
-    *   2 418
+    *   3 109
 
-    *   2 136
+    *   2 750
 
 
 *    *   27 000 – 27 500
 
-    *   1 800
+    *   2 318
 
-    *   1 708
+    *   2 200
 
-    *   2 460
+    *   3 160
 
-    *   2 182
+    *   2 810
 
 
 *    *   27 500 – 28 000
 
-    *   1 835
+    *   2 363
 
-    *   1 734
+    *   2 233
 
-    *   2 500
+    *   3 211
 
-    *   2 229
+    *   2 870
 
 
 *    *   28 000 – 28 500
 
-    *   1 872
+    *   2 411
 
-    *   1 759
+    *   2 265
 
-    *   2 530
+    *   3 259
 
-    *   2 274
+    *   2 928
 
 
 *    *   28 500 – 29 000
 
-    *   1 915
+    *   2 465
 
-    *   1 784
+    *   2 298
 
-    *   2 560
+    *   3 297
 
-    *   2 320
+    *   2 987
 
 
 *    *   29 000 – 29 500
 
-    *   1 959
+    *   2 522
 
-    *   1 811
+    *   2 332
 
-    *   2 590
+    *   3 335
 
-    *   2 367
+    *   3 047
 
 
 *    *   29 500 – 30 000
 
-    *   2 004
+    *   2 583
 
-    *   1 839
+    *   2 368
 
-    *   2 620
+    *   3 374
 
-    *   2 413
+    *   3 106
 
 
 *    *   30 000 – 31 000
 
-    *   2 050
-
-    *   1 869
-
     *   2 650
 
-    *   2 457
+    *   2 408
+
+    *   3 412
+
+    *   3 164
 
 
 *    *   31 000 – 32 000
 
-    *   2 113
+    *   2 721
 
-    *   1 907
+    *   2 456
 
-    *   2 680
+    *   3 451
 
-    *   2 504
+    *   3 224
 
 
 *    *   32 000 – 33 000
 
-    *   2 186
+    *   2 811
 
-    *   1 955
+    *   2 517
 
-    *   2 710
+    *   3 489
 
-    *   2 551
+    *   3 284
 
 
 *    *   33 000 – 34 000
 
-    *   2 260
+    *   2 903
 
-    *   2 009
+    *   2 587
 
-    *   2 740
+    *   3 528
 
-    *   2 595
+    *   3 342
 
 
 *    *   34 000 – 35 000
 
-    *   2 334
+    *   2 995
 
-    *   2 071
+    *   2 666
 
-    *   2 770
+    *   3 566
 
-    *   2 642
+    *   3 400
 
 
 *    *   35 000 – 36 000
 
-    *   2 405
+    *   3 087
 
-    *   2 142
+    *   2 758
 
-    *   2 800
+    *   3 605
 
-    *   2 688
+    *   3 460
 
 
 *    *   36 000 – 37 000
 
-    *   2 475
+    *   3 179
 
-    *   2 214
+    *   2 852
 
-    *   2 830
+    *   3 643
 
-    *   2 735
+    *   3 521
 
 
 *    *   37 000 – 38 000
 
-    *   2 546
+    *   3 271
 
-    *   2 294
+    *   2 954
 
-    *   2 860
+    *   3 683
 
-    *   2 779
+    *   3 577
 
 
 *    *   38 000 – 39 000
 
-    *   2 617
+    *   3 363
 
-    *   2 384
+    *   3 070
 
-    *   2 890
+    *   3 720
 
-    *   2 825
+    *   3 637
 
 
 *    *   39 000 – 40 000
 
-    *   2 687
+    *   3 455
 
-    *   2 474
+    *   3 185
 
-    *   2 920
+    *   3 757
 
-    *   2 872
+    *   3 698
 
 
 *    *   40 000 – 42 000
 
-    *   2 745
+    *   3 535
 
-    *   2 565
+    *   3 302
 
-    *   2 950
+    *   3 789
 
-    *   2 894
+    *   3 727
 
 
 *    *   42 000 – 44 000
 
-    *   2 793
+    *   3 605
 
-    *   2 648
+    *   3 410
 
-    *   2 954
+    *   3 803
 
-    *   2 913
+    *   3 750
 
 
 *    *   44 000 – 46 000
 
-    *   2 840
+    *   3 665
 
-    *   2 730
+    *   3 517
 
-    *   2 954
+    *   3 816
 
-    *   2 925
+    *   3 765
 
 
 *    *   46 000 – 48 000
 
-    *   2 880
+    *   3 719
 
-    *   2 813
+    *   3 612
 
-    *   2 954
+    *   3 831
 
-    *   2 940
+    *   3 785
 
 
 *    *   48 000 – 50 000
 
-    *   2 919
+    *   3 773
 
-    *   2 860
+    *   3 694
 
-    *   2 954
+    *   3 841
 
-    *   2 952
+    *   3 801
 
 
 *    *   50 000 – 52 000
 
-    *   2 954
+    *   3 827
 
-    *   2 907
+    *   3 761
 
-    *   2 954
+    *   3 850
 
-    *   2 952
+    *   3 803
 
 
 *    *   über 52 000
 
-    *   2 954
+    *   3 850
 
-    *   2 954
+    *   3 850
 
-    *   2 954
+    *   3 850
 
-    *   2 954
+    *   3 850
+
 
 
 
 ## **Teil II**
 
-
 *    *   Bruttoraumzahl
-        über – bis
 
     *   Nord-Ostsee-Kanal
         Euro
-        1
 
     *   Kieler Förde
         Euro
-        2
 
     *   Trave
         Euro
-        3
 
     *   Flensburger Förde
         Euro
-        4
 
 
-*    *   0 –    300
+*    *   über – bis
 
-    *   21
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   0 –      300
+
+    *   28
+
+    *   24
 
     *   18
 
-    *   15
-
-    *   18
+    *   25
 
 
 *    *   300 –    400
 
+    *   36
+
+    *   27
+
+    *   26
+
     *   28
-
-    *   20
-
-    *   19
-
-    *   21
 
 
 *    *   400 –    500
 
-    *   35
+    *   45
 
-    *   21
+    *   28
 
-    *   22
+    *   29
 
-    *   24
+    *   31
 
 
 *    *   500 –    600
 
-    *   41
+    *   52
 
-    *   24
+    *   31
 
-    *   28
+    *   36
 
-    *   28
+    *   36
 
 
 *    *   600 –    700
 
-    *   48
+    *   62
 
-    *   28
+    *   36
 
-    *   31
+    *   40
 
-    *   32
+    *   42
 
 
 *    *   700 –    800
 
-    *   52
+    *   66
 
-    *   32
+    *   42
 
-    *   33
+    *   43
 
-    *   39
+    *   50
 
 
 *    *   800 –    900
 
-    *   57
+    *   74
 
-    *   35
+    *   45
 
-    *   37
+    *   48
 
-    *   41
+    *   52
 
 
 *    *   900 –  1 000
 
-    *   64
+    *   82
 
-    *   39
+    *   50
 
-    *   43
+    *   55
 
-    *   45
+    *   58
 
 
 *    *   1 000 –  1 100
 
-    *   66
+    *   85
 
-    *   43
+    *   55
 
-    *   46
-
-    *   53
-
-
-*    *   1 100 –  1 200
-
-    *   68
-
-    *   45
-
-    *   47
-
-    *   63
-
-
-*    *   1 200 –  1 300
-
-    *   72
-
-    *   47
-
-    *   51
+    *   59
 
     *   67
 
 
+*    *   1 100 –  1 200
+
+    *   87
+
+    *   58
+
+    *   60
+
+    *   81
+
+
+*    *   1 200 –  1 300
+
+    *   93
+
+    *   60
+
+    *   65
+
+    *   86
+
+
 *    *   1 300 –  1 400
 
-    *   74
+    *   95
 
-    *   50
+    *   64
 
-    *   54
+    *   70
 
-    *   72
+    *   93
 
 
 *    *   1 400 –  1 500
 
-    *   77
+    *   98
 
-    *   51
+    *   65
 
-    *   57
+    *   74
 
-    *   79
+    *   101
 
 
 *    *   1 500 –  1 600
 
-    *   79
+    *   101
 
-    *   54
+    *   70
 
-    *   63
+    *   81
 
-    *   87
+    *   111
 
 
 *    *   1 600 –  1 700
 
-    *   83
+    *   107
 
-    *   57
+    *   74
 
-    *   68
+    *   87
 
-    *   91
+    *   118
 
 
 *    *   1 700 –  1 800
 
-    *   87
+    *   111
 
-    *   63
+    *   81
 
-    *   72
+    *   93
 
-    *   98
+    *   126
 
 
 *    *   1 800 –  1 900
 
-    *   88
+    *   112
 
-    *   65
+    *   83
 
-    *   75
+    *   96
 
-    *   102
+    *   132
 
 
 *    *   1 900 –  2 000
 
-    *   90
+    *   117
 
-    *   68
+    *   87
 
-    *   79
+    *   101
 
-    *   107
+    *   138
 
 
 *    *   2 000 –  2 100
 
-    *   96
+    *   124
 
-    *   72
+    *   93
 
-    *   83
+    *   107
 
-    *   121
+    *   156
 
 
 *    *   2 100 –  2 200
 
-    *   98
-
-    *   75
-
-    *   88
-
-    *   133
-
-
-*    *   2 200 –  2 300
-
-    *   100
-
-    *   79
-
-    *   91
-
-    *   139
-
-
-*    *   2 300 –  2 400
-
-    *   101
-
-    *   80
-
-    *   97
-
-    *   144
-
-
-*    *   2 400 –  2 500
-
-    *   103
-
-    *   83
-
-    *   101
-
-    *   151
-
-
-*    *   2 500 –  2 600
-
-    *   106
-
-    *   88
-
-    *   103
-
-    *   155
-
-
-*    *   2 600 –  2 700
-
-    *   110
-
-    *   90
-
-    *   107
-
-    *   162
-
-
-*    *   2 700 –  2 800
-
-    *   116
+    *   126
 
     *   96
 
-    *   113
-
-    *   166
-
-
-*    *   2 800 –  2 900
-
-    *   118
-
-    *   99
-
-    *   118
+    *   112
 
     *   172
 
 
-*    *   2 900 –  3 000
-
-    *   120
-
-    *   102
-
-    *   121
-
-    *   177
-
-
-*    *   3 000 –  3 200
-
-    *   128
-
-    *   106
+*    *   2 200 –  2 300
 
     *   129
 
-    *   229
+    *   101
+
+    *   118
+
+    *   179
 
 
-*    *   3 200 –  3 400
+*    *   2 300 –  2 400
+
+    *   131
+
+    *   103
+
+    *   125
+
+    *   186
+
+
+*    *   2 400 –  2 500
 
     *   133
+
+    *   107
+
+    *   131
+
+    *   194
+
+
+*    *   2 500 –  2 600
+
+    *   136
 
     *   112
 
     *   133
 
-    *   241
+    *   199
 
 
-*    *   3 400 –  3 600
-
-    *   139
-
-    *   117
+*    *   2 600 –  2 700
 
     *   141
 
-    *   252
+    *   117
+
+    *   138
+
+    *   209
 
 
-*    *   3 600 –  3 800
+*    *   2 700 –  2 800
 
-    *   142
+    *   149
 
-    *   121
+    *   124
 
-    *   145
+    *   146
 
-    *   264
+    *   214
 
 
-*    *   3 800 –  4 000
+*    *   2 800 –  2 900
 
     *   151
 
-    *   125
+    *   127
 
-    *   152
+    *   151
 
-    *   274
+    *   221
 
 
-*    *   4 000 –  4 200
+*    *   2 900 –  3 000
 
-    *   155
+    *   154
 
     *   132
 
     *   156
 
-    *   298
+    *   228
+
+
+*    *   3 000 –  3 200
+
+    *   165
+
+    *   136
+
+    *   166
+
+    *   294
+
+
+*    *   3 200 –  3 400
+
+    *   172
+
+    *   144
+
+    *   172
+
+    *   310
+
+
+*    *   3 400 –  3 600
+
+    *   179
+
+    *   150
+
+    *   181
+
+    *   324
+
+
+*    *   3 600 –  3 800
+
+    *   182
+
+    *   156
+
+    *   187
+
+    *   339
+
+
+*    *   3 800 –  4 000
+
+    *   194
+
+    *   162
+
+    *   195
+
+    *   353
+
+
+*    *   4 000 –  4 200
+
+    *   199
+
+    *   171
+
+    *   200
+
+    *   383
 
 
 *    *   4 200 –  4 400
 
-    *   156
+    *   200
 
-    *   136
+    *   175
 
-    *   164
+    *   212
 
-    *   309
+    *   398
 
 
 *    *   4 400 –  4 600
 
-    *   163
+    *   210
 
-    *   144
+    *   186
 
-    *   169
+    *   218
 
-    *   322
+    *   415
 
 
 *    *   4 600 –  4 800
 
-    *   164
+    *   212
 
-    *   151
+    *   194
 
-    *   175
+    *   226
 
-    *   336
+    *   432
 
 
 *    *   4 800 –  5 000
 
-    *   166
+    *   214
 
-    *   158
+    *   203
 
-    *   183
+    *   235
 
-    *   347
+    *   447
 
 
 *    *   5 000 –  5 500
 
-    *   174
+    *   225
 
-    *   165
+    *   213
 
-    *   190
+    *   244
 
-    *   406
+    *   522
 
 
 *    *   5 500 –  6 000
 
-    *   179
+    *   230
 
-    *   171
+    *   220
 
-    *   206
+    *   265
 
-    *   441
+    *   567
 
 
 *    *   6 000 –  6 500
 
-    *   189
+    *   243
 
-    *   182
+    *   234
 
-    *   219
+    *   282
 
-    *   530
+    *   682
 
 
 *    *   6 500 –  7 000
 
-    *   196
+    *   254
 
-    *   190
+    *   244
 
-    *   237
+    *   306
 
-    *   570
+    *   734
 
 
 *    *   7 000 –  7 500
 
-    *   204
+    *   262
 
-    *   204
+    *   262
 
-    *   250
+    *   322
 
-    *   663
+    *   854
 
 
 *    *   7 500 –  8 000
 
-    *   212
+    *   273
 
-    *   213
+    *   274
 
-    *   266
+    *   341
 
-    *   706
+    *   908
 
 
 *    *   8 000 –  8 500
 
-    *   219
-
-    *   222
-
     *   282
 
-    *   745
+    *   286
+
+    *   364
+
+    *   960
 
 
 *    *   8 500 –  9 000
 
-    *   224
+    *   288
 
-    *   239
+    *   308
 
-    *   296
+    *   381
 
-    *   787
+    *   1 013
 
 
 *    *   9 000 –  9 500
 
-    *   233
+    *   301
 
-    *   251
+    *   323
 
-    *   312
+    *   402
 
-    *   828
+    *   1 066
 
 
 *    *   9 500 – 10 000
 
-    *   241
+    *   310
 
-    *   265
+    *   340
 
-    *   323
+    *   416
 
-    *   887
+    *   1 142
 
 
 *    *   10 000 – 10 500
 
-    *   246
+    *   317
 
-    *   276
+    *   355
 
-    *   341
+    *   439
 
-    *   949
+    *   1 222
 
 
 *    *   10 500 – 11 000
 
-    *   254
+    *   326
 
-    *   290
+    *   373
 
-    *   355
+    *   457
 
-    *   1 010
+    *   1 300
 
 
 *    *   11 000 – 11 500
 
-    *   262
+    *   337
 
-    *   296
+    *   381
 
-    *   369
+    *   475
 
-    *   1 044
+    *   1 344
 
 
 *    *   11 500 – 12 000
 
-    *   270
+    *   349
 
-    *   303
+    *   391
 
-    *   377
+    *   486
 
-    *   1 139
+    *   1 466
 
 
 *    *   12 000 – 12 500
 
-    *   274
+    *   353
 
-    *   317
+    *   408
 
-    *   389
+    *   501
 
-    *   1 209
+    *   1 557
 
 
 *    *   12 500 – 13 000
 
-    *   285
+    *   367
 
-    *   325
+    *   418
 
-    *   400
+    *   515
 
-    *   1 255
+    *   1 615
 
 
 *    *   13 000 – 13 500
 
-    *   292
+    *   376
 
-    *   339
+    *   437
 
-    *   415
+    *   534
 
-    *   1 294
+    *   1 667
 
 
 *    *   13 500 – 14 000
 
-    *   296
+    *   381
 
-    *   353
+    *   455
 
-    *   426
+    *   548
 
-    *   1 342
+    *   1 728
 
 
 *    *   14 000 – 14 500
 
-    *   305
+    *   393
 
-    *   365
+    *   470
 
-    *   438
+    *   564
 
-    *   1 388
+    *   1 787
 
 
 *    *   14 500 – 15 000
 
-    *   314
+    *   404
 
-    *   374
+    *   483
 
-    *   450
+    *   580
 
-    *   1 476
+    *   1 900
 
 
 *    *   15 000 – 15 500
 
-    *   320
+    *   412
 
-    *   386
+    *   498
 
-    *   454
+    *   584
 
-    *   1 541
+    *   1 983
 
 
 *    *   15 500 – 16 000
 
-    *   329
+    *   423
 
-    *   397
+    *   511
 
-    *   461
+    *   594
 
-    *   1 605
+    *   2 066
 
 
 *    *   16 000 – 16 500
 
-    *   337
+    *   434
 
-    *   408
+    *   526
 
-    *   468
+    *   601
 
-    *   1 654
+    *   2 129
 
 
 *    *   16 500 – 17 000
 
-    *   343
+    *   442
 
-    *   419
+    *   540
 
-    *   472
+    *   608
 
-    *   1 704
+    *   2 194
 
 
 *    *   17 000 – 17 500
 
-    *   352
+    *   453
 
-    *   427
+    *   550
 
-    *   477
+    *   613
 
-    *   1 752
+    *   2 254
 
 
 *    *   17 500 – 18 000
 
-    *   359
+    *   462
 
-    *   438
+    *   564
 
-    *   484
+    *   624
 
-    *   1 801
+    *   2 319
 
 
 *    *   18 000 – 18 500
 
-    *   366
+    *   471
 
-    *   448
+    *   578
 
-    *   490
+    *   631
 
-    *   1 828
+    *   2 354
 
 
 *    *   18 500 – 19 000
 
-    *   372
+    *   478
 
-    *   458
+    *   591
 
-    *   495
+    *   638
 
-    *   1 855
+    *   2 387
 
 
 *    *   19 000 – 19 500
 
-    *   380
+    *   489
 
-    *   468
+    *   601
 
-    *   502
+    *   646
 
-    *   1 887
+    *   2 429
 
 
 *    *   19 500 – 20 000
 
-    *   387
+    *   499
 
-    *   476
+    *   612
 
-    *   508
-
-    *   1 920
-
-
-*    *   20 000 – 20 500
-
-    *   396
-
-    *   486
-
-    *   515
-
-    *   1 953
-
-
-*    *   20 500 – 21 000
-
-    *   403
-
-    *   495
-
-    *   520
-
-    *   1 984
-
-
-*    *   21 000 – 21 500
-
-    *   413
-
-    *   505
-
-    *   525
-
-    *   2 020
-
-
-*    *   21 500 – 22 000
-
-    *   419
-
-    *   516
-
-    *   530
-
-    *   2 054
-
-
-*    *   22 000 – 22 500
-
-    *   426
-
-    *   525
-
-    *   538
-
-    *   2 090
-
-
-*    *   22 500 – 23 000
-
-    *   435
-
-    *   536
-
-    *   545
-
-    *   2 125
-
-
-*    *   23 000 – 23 500
-
-    *   441
-
-    *   543
-
-    *   551
-
-    *   2 165
-
-
-*    *   23 500 – 24 000
-
-    *   449
-
-    *   552
-
-    *   554
-
-    *   2 201
-
-
-*    *   24 000 – 24 500
-
-    *   455
-
-    *   562
-
-    *   561
-
-    *   2 240
-
-
-*    *   24 500 – 25 000
-
-    *   463
-
-    *   573
-
-    *   567
-
-    *   2 276
-
-
-*    *   25 000 – 25 500
-
-    *   470
-
-    *   585
-
-    *   573
-
-    *   2 318
-
-
-*    *   25 500 – 26 000
-
-    *   476
-
-    *   595
-
-    *   578
-
-    *   2 357
-
-
-*    *   26 000 – 26 500
-
-    *   485
-
-    *   607
-
-    *   585
-
-    *   2 399
-
-
-*    *   26 500 – 27 000
-
-    *   492
-
-    *   618
-
-    *   591
-
-    *   2 441
-
-
-*    *   27 000 – 27 500
-
-    *   501
-
-    *   628
-
-    *   596
+    *   654
 
     *   2 473
 
 
+*    *   20 000 – 20 500
+
+    *   510
+
+    *   626
+
+    *   663
+
+    *   2 515
+
+
+*    *   20 500 – 21 000
+
+    *   518
+
+    *   638
+
+    *   670
+
+    *   2 555
+
+
+*    *   21 000 – 21 500
+
+    *   532
+
+    *   649
+
+    *   676
+
+    *   2 601
+
+
+*    *   21 500 – 22 000
+
+    *   540
+
+    *   664
+
+    *   682
+
+    *   2 644
+
+
+*    *   22 000 – 22 500
+
+    *   548
+
+    *   676
+
+    *   692
+
+    *   2 691
+
+
+*    *   22 500 – 23 000
+
+    *   560
+
+    *   690
+
+    *   702
+
+    *   2 736
+
+
+*    *   23 000 – 23 500
+
+    *   567
+
+    *   699
+
+    *   709
+
+    *   2 787
+
+
+*    *   23 500 – 24 000
+
+    *   579
+
+    *   710
+
+    *   714
+
+    *   2 833
+
+
+*    *   24 000 – 24 500
+
+    *   585
+
+    *   723
+
+    *   722
+
+    *   2 884
+
+
+*    *   24 500 – 25 000
+
+    *   596
+
+    *   737
+
+    *   730
+
+    *   2 930
+
+
+*    *   25 000 – 25 500
+
+    *   606
+
+    *   754
+
+    *   737
+
+    *   2 983
+
+
+*    *   25 500 – 26 000
+
+    *   612
+
+    *   767
+
+    *   744
+
+    *   3 035
+
+
+*    *   26 000 – 26 500
+
+    *   625
+
+    *   782
+
+    *   754
+
+    *   3 089
+
+
+*    *   26 500 – 27 000
+
+    *   633
+
+    *   795
+
+    *   761
+
+    *   3 143
+
+
+*    *   27 000 – 27 500
+
+    *   645
+
+    *   809
+
+    *   768
+
+    *   3 184
+
+
 *    *   27 500 – 28 000
 
-    *   507
+    *   653
 
-    *   639
+    *   823
 
-    *   603
+    *   776
 
-    *   2 506
+    *   3 227
 
 
 *    *   28 000 – 28 500
 
-    *   516
+    *   664
 
-    *   650
+    *   837
 
-    *   608
+    *   783
 
-    *   2 506
+    *   3 227
 
 
 *    *   28 500 – 29 000
 
-    *   523
+    *   674
 
-    *   661
+    *   852
 
-    *   613
+    *   789
 
-    *   2 506
+    *   3 227
 
 
 *    *   29 000 – 29 500
 
-    *   530
+    *   682
 
-    *   672
+    *   866
 
-    *   620
+    *   798
 
-    *   2 506
+    *   3 227
 
 
 *    *   29 500 – 30 000
 
-    *   538
+    *   692
 
-    *   684
+    *   881
 
-    *   625
+    *   805
 
-    *   2 506
+    *   3 227
 
 
 *    *   30 000 – 31 000
 
-    *   552
+    *   710
 
-    *   694
+    *   895
 
-    *   638
+    *   822
 
-    *   2 506
+    *   3 227
 
 
 *    *   31 000 – 32 000
 
-    *   568
+    *   731
 
-    *   706
+    *   908
 
-    *   649
+    *   836
 
-    *   2 506
+    *   3 227
 
 
 *    *   32 000 – 33 000
 
-    *   583
+    *   750
 
-    *   717
+    *   922
 
-    *   661
+    *   852
 
-    *   2 506
+    *   3 227
 
 
 *    *   33 000 – 34 000
 
-    *   596
+    *   768
 
-    *   726
+    *   934
 
-    *   672
+    *   866
 
-    *   2 506
+    *   3 227
 
 
 *    *   34 000 – 35 000
 
-    *   613
+    *   789
 
-    *   739
+    *   951
 
-    *   684
+    *   881
 
-    *   2 506
+    *   3 227
 
 
 *    *   35 000 – 36 000
 
-    *   627
+    *   808
 
-    *   743
+    *   957
 
-    *   694
+    *   895
 
-    *   2 506
+    *   3 227
 
 
 *    *   36 000 – 37 000
 
-    *   642
+    *   826
 
-    *   759
+    *   977
 
-    *   708
+    *   912
 
-    *   2 506
+    *   3 227
 
 
 *    *   37 000 – 38 000
 
-    *   658
+    *   849
 
-    *   773
+    *   995
 
-    *   719
+    *   926
 
-    *   2 506
+    *   3 227
 
 
 *    *   38 000 – 39 000
 
-    *   672
+    *   866
 
-    *   790
+    *   1 017
 
-    *   730
+    *   939
 
-    *   2 506
+    *   3 227
 
 
 *    *   39 000 – 40 000
 
-    *   688
+    *   885
 
-    *   802
+    *   1 033
 
-    *   741
+    *   953
 
-    *   2 506
+    *   3 227
 
 
 *    *   40 000 – 42 000
 
-    *   718
+    *   923
 
-    *   835
+    *   1 075
 
-    *   766
+    *   987
 
-    *   2 506
+    *   3 227
 
 
 *    *   42 000 – 44 000
 
-    *   747
+    *   962
 
-    *   864
+    *   1 112
 
-    *   789
+    *   1 015
 
-    *   2 506
+    *   3 227
 
 
 *    *   44 000 – 46 000
 
-    *   777
+    *   1 000
 
-    *   893
+    *   1 149
 
-    *   811
+    *   1 044
 
-    *   2 506
+    *   3 227
 
 
 *    *   46 000 – 48 000
 
-    *   807
+    *   1 040
 
-    *   922
+    *   1 188
 
-    *   835
+    *   1 075
 
-    *   2 506
+    *   3 227
 
 
 *    *   48 000 – 50 000
 
-    *   838
+    *   1 080
 
-    *   953
+    *   1 227
 
-    *   858
+    *   1 105
 
-    *   2 506
+    *   3 227
 
 
 *    *   für jede weiteren
+        angefangenen
+        2 000 über 50 000
 
-    *
-    *
-    *
-    *
+    *   42
 
-*    *   angefangenen
+    *   40
 
-    *
-    *
-    *
-    *
-
-*    *   2 000 über 50 000
-
-    *   32
-
-    *   30
-
-    *   7
+    *   10
 
     *   –
 
 
 *    *   höchstens jedoch
 
-    *   2 506
+    *   3 227
 
-    *   2 506
+    *   3 227
 
-    *   2 506
+    *   3 227
 
-    *   2 506
+    *   3 227
+
 
 
 
 ## **Teil III**
 
-
 *    *   Bruttoraumzahl
-        über – bis
 
     *   Wismar
         Euro
-        1
 
     *   Rostock
         Euro
-        2
 
     *   Stralsund
         Euro
-        3
 
 
-*    *   0 –    300
+*    *   über – bis
 
-    *   19
+    *   1
 
-    *   17
+    *   2
 
-    *   20
+    *   3
+
+
+*    *   0 –      300
+
+    *   26
+
+    *   21
+
+    *   27
 
 
 *    *   300 –    400
 
-    *   24
-
-    *   19
+    *   31
 
     *   26
+
+    *   33
 
 
 *    *   400 –    500
 
-    *   31
+    *   40
 
-    *   23
+    *   30
 
-    *   34
+    *   44
 
 
 *    *   500 –    600
 
-    *   65
+    *   83
 
-    *   46
+    *   59
 
-    *   70
+    *   91
 
 
 *    *   600 –    700
 
-    *   78
+    *   100
 
-    *   53
+    *   67
 
-    *   84
+    *   108
 
 
 *    *   700 –    800
 
-    *   89
+    *   113
 
-    *   64
+    *   82
 
-    *   97
+    *   125
 
 
 *    *   800 –    900
 
-    *   100
-
-    *   72
-
-    *   108
-
-
-*    *   900 –  1 000
-
-    *   112
-
-    *   79
-
-    *   122
-
-
-*    *   1 000 –  1 100
-
-    *   119
-
-    *   88
-
-    *   130
-
-
-*    *   1 100 –  1 200
-
-    *   130
-
-    *   97
-
-    *   142
-
-
-*    *   1 200 –  1 300
-
-    *   142
-
-    *   103
-
-    *   153
-
-
-*    *   1 300 –  1 400
-
-    *   152
-
-    *   114
-
-    *   166
-
-
-*    *   1 400 –  1 500
-
-    *   165
-
-    *   121
-
-    *   179
-
-
-*    *   1 500 –  1 600
-
-    *   175
-
     *   129
 
-    *   190
-
-
-*    *   1 600 –  1 700
-
-    *   187
-
-    *   138
-
-    *   204
-
-
-*    *   1 700 –  1 800
-
-    *   198
-
-    *   147
-
-    *   217
-
-
-*    *   1 800 –  1 900
-
-    *   208
-
-    *   153
-
-    *   229
-
-
-*    *   1 900 –  2 000
-
-    *   220
-
-    *   163
-
-    *   241
-
-
-*    *   2 000 –  2 100
-
-    *   232
-
-    *   165
-
-    *   253
-
-
-*    *   2 100 –  2 200
-
-    *   242
-
-    *   173
-
-    *   265
-
-
-*    *   2 200 –  2 300
-
-    *   254
-
-    *   180
-
-    *   278
-
-
-*    *   2 300 –  2 400
-
-    *   266
-
-    *   189
-
-    *   289
-
-
-*    *   2 400 –  2 500
-
-    *   276
-
-    *   197
-
-    *   301
-
-
-*    *   2 500 –  2 600
-
-    *   288
-
-    *   205
-
-    *   315
-
-
-*    *   2 600 –  2 700
-
-    *   299
-
-    *   213
-
-    *   326
-
-
-*    *   2 700 –  2 800
-
-    *   312
-
-    *   220
-
-    *   340
-
-
-*    *   2 800 –  2 900
-
-    *   322
-
-    *   229
-
-    *   351
-
-
-*    *   2 900 –  3 000
-
-    *   332
-
-    *   237
-
-    *   365
-
-
-*    *   3 000 –  3 200
-
-    *   350
-
-    *   243
-
-    *   384
-
-
-*    *   3 200 –  3 400
-
-    *   373
-
-    *   252
-
-    *   408
-
-
-*    *   3 400 –  3 600
-
-    *   396
-
-    *   266
-
-    *   431
-
-
-*    *   3 600 –  3 800
-
-    *   418
-
-    *   281
-
-    *   455
-
-
-*    *   3 800 –  4 000
-
-    *   441
-
-    *   296
-
-    *   483
-
-
-*    *   4 000 –  4 200
-
-    *   463
-
-    *   312
-
-    *   505
-
-
-*    *   4 200 –  4 400
-
-    *   486
-
-    *   325
-
-    *   530
-
-
-*    *   4 400 –  4 600
-
-    *   509
-
-    *   341
-
-    *   554
-
-
-*    *   4 600 –  4 800
-
-    *   530
-
-    *   354
-
-    *   579
-
-
-*    *   4 800 –  5 000
-
-    *   553
-
-    *   373
-
-    *   604
-
-
-*    *   5 000 –  5 500
-
-    *   576
-
-    *   374
-
-    *   628
-
-
-*    *   5 500 –  6 000
-
-    *   600
-
-    *   387
-
-    *   653
-
-
-*    *   6 000 –  6 500
-
-    *   622
-
-    *   403
-
-    *   678
-
-
-*    *   6 500 –  7 000
-
-    *   645
-
-    *   418
-
-    *   703
-
-
-*    *   7 000 –  7 500
-
-    *   667
-
-    *   433
-
-    *   727
-
-
-*    *   7 500 –  8 000
-
-    *   690
-
-    *   449
-
-    *   752
-
-
-*    *   8 000 –  8 500
-
-    *   712
-
-    *   464
-
-    *   777
-
-
-*    *   8 500 –  9 000
-
-    *   735
-
-    *   477
-
-    *   801
-
-
-*    *   9 000 –  9 500
-
-    *   758
-
-    *   493
-
-    *   825
-
-
-*    *   9 500 – 10 000
-
-    *   780
-
-    *   509
-
-    *   851
-
-
-*    *   10 000 – 10 500
-
-    *   802
-
-    *   557
-
-    *   875
-
-
-*    *   10 500 – 11 000
-
-    *   824
-
-    *   583
-
-    *   899
-
-
-*    *   11 000 – 11 500
-
-    *   847
-
-    *   608
-
-    *   925
-
-
-*    *   11 500 – 12 000
-
-    *   870
-
-    *   636
-
-    *   949
-
-
-*    *   12 000 – 12 500
-
-    *   892
-
-    *   662
-
-    *   974
-
-
-*    *   12 500 – 13 000
-
-    *   914
-
-    *   689
-
-    *   998
-
-
-*    *   13 000 – 13 500
-
-    *   938
-
-    *   716
-
-    *   1 023
-
-
-*    *   13 500 – 14 000
-
-    *   960
-
-    *   743
-
-    *   1 047
-
-
-*    *   14 000 – 14 500
-
-    *   982
-
-    *   769
-
-    *   1 073
-
-
-*    *   14 500 – 15 000
-
-    *   1 005
-
-    *   795
-
-    *   1 098
-
-
-*    *   15 000 – 15 500
-
-    *   1 027
-
-    *   822
-
-    *   1 122
-
-
-*    *   15 500 – 16 000
-
-    *   1 052
-
-    *   848
-
-    *   1 146
-
-
-*    *   16 000 – 16 500
-
-    *   1 073
-
-    *   875
-
-    *   1 172
-
-
-*    *   16 500 – 17 000
-
-    *   1 095
-
-    *   903
-
-    *   1 196
-
-
-*    *   17 000 – 17 500
-
-    *   1 119
-
-    *   928
-
-    *   1 221
-
-
-*    *   17 500 – 18 000
-
-    *   1 141
-
-    *   956
-
-    *   1 245
-
-
-*    *   18 000 – 18 500
-
-    *   1 163
-
-    *   982
-
-    *   1 271
-
-
-*    *   18 500 – 19 000
-
-    *   1 187
-
-    *   1 009
-
-    *   1 295
-
-
-*    *   19 000 – 19 500
-
-    *   1 209
-
-    *   1 012
-
-    *   1 319
-
-
-*    *   19 500 – 20 000
-
-    *   1 231
-
-    *   1 015
-
-    *   1 344
-
-
-*    *   20 000 – 20 500
-
-    *   1 254
-
-    *   1 020
-
-    *   1 367
-
-
-*    *   20 500 – 21 000
-
-    *   1 277
-
-    *   1 023
-
-    *   1 393
-
-
-*    *   21 000 – 21 500
-
-    *   1 300
-
-    *   1 027
-
-    *   1 418
-
-
-*    *   21 500 – 22 000
-
-    *   1 321
-
-    *   1 031
-
-    *   1 443
-
-
-*    *   22 000 – 22 500
-
-    *   1 344
-
-    *   1 035
-
-    *   1 467
-
-
-*    *   22 500 – 23 000
-
-    *   1 366
-
-    *   1 040
-
-    *   1 493
-
-
-*    *   23 000 – 23 500
-
-    *   1 389
-
-    *   1 043
-
-    *   1 516
-
-
-*    *   23 500 – 24 000
-
-    *   1 412
-
-    *   1 046
-
-    *   1 542
-
-
-*    *   24 000 – 24 500
-
-    *   1 434
-
-    *   1 052
-
-    *   1 565
-
-
-*    *   24 500 – 25 000
-
-    *   1 458
-
-    *   1 055
-
-    *   1 591
-
-
-*    *   25 000 – 25 500
-
-    *   1 480
-
-    *   1 070
-
-    *   1 615
-
-
-*    *   25 500 – 26 000
-
-    *   1 503
-
-    *   1 074
-
-    *   1 640
-
-
-*    *   26 000 – 26 500
-
-    *   1 526
-
-    *   1 078
-
-    *   1 664
-
-
-*    *   26 500 – 27 000
-
-    *   1 548
-
-    *   1 081
-
-    *   1 689
-
-
-*    *   27 000 – 27 500
-
-    *   1 571
-
-    *   1 086
-
-    *   1 714
-
-
-*    *   27 500 – 28 000
-
-    *   1 592
-
-    *   1 089
-
-    *   1 738
-
-
-*    *   28 000 – 28 500
-
-    *   1 615
-
-    *   1 098
-
-    *   1 763
-
-
-*    *   28 500 – 29 000
-
-    *   1 638
-
-    *   1 109
-
-    *   1 788
-
-
-*    *   29 000 – 29 500
-
-    *   1 661
-
-    *   1 117
-
-    *   1 813
-
-
-*    *   29 500 – 30 000
-
-    *   1 683
-
-    *   1 128
-
-    *   1 837
-
-
-*    *   30 000 – 31 000
-
-    *   1 705
-
-    *   1 165
-
-    *   1 862
-
-
-*    *   31 000 – 32 000
-
-    *   1 728
-
-    *   1 203
-
-    *   1 885
-
-
-*    *   32 000 – 33 000
-
-    *   1 756
-
-    *   1 242
-
-    *   1 917
-
-
-*    *   33 000 – 34 000
-
-    *   1 811
-
-    *   1 280
-
-    *   1 977
-
-
-*    *   34 000 – 35 000
-
-    *   1 865
-
-    *   1 318
-
-    *   2 035
-
-
-*    *   35 000 – 36 000
-
-    *   1 918
-
-    *   1 356
-
-    *   2 096
-
-
-*    *   36 000 – 37 000
-
-    *   1 972
-
-    *   1 393
-
-    *   2 153
-
-
-*    *   37 000 – 38 000
-
-    *   2 027
-
-    *   1 433
-
-    *   2 214
-
-
-*    *   38 000 – 39 000
-
-    *   2 081
-
-    *   1 476
-
-    *   2 272
-
-
-*    *   39 000 – 40 000
-
-    *   2 134
-
-    *   1 522
-
-    *   2 331
-
-
-*    *   40 000 – 42 000
-
-    *   2 242
-
-    *   1 575
-
-    *   2 389
-
-
-*    *   42 000 – 44 000
-
-    *   2 350
-
-    *   1 642
-
-    *   2 449
-
-
-*    *   44 000 – 46 000
-
-    *   2 448
-
-    *   1 719
-
-    *   2 506
-
-
-*    *   46 000 – 48 000
-
-    *   2 479
-
-    *   1 799
-
-    *   2 506
-
-
-*    *   48 000 – 50 000
-
-    *   2 506
-
-    *   1 880
-
-    *   2 506
-
-
-*    *   für jede weiteren
-
-    *
-    *
-    *
-
-*    *   angefangenen
-
-    *
-    *
-    *
-
-*    *   2 000 über 50 000
-
-    *   –
-
-    *   70
-
-    *   –
-
-
-*    *   höchstens jedoch
-
-    *   2 506
-
-    *   2 506
-
-    *   2 506.
-
-
-
-
-## Anlage 1a (zu § 1 Absatz 1a)
-
-(Fundstelle: BGBl. I 2010 301-308)
-## **B. Tabelle der Lotsabgaben (ab 1.4.2011)**
-
-### Teil I
-
-
-*    *   Bruttoraumzahl
-
-    *   Ems
-        Euro
-
-    *   Weser
-        Euro
-
-    *   Jade
-        Euro
-
-    *   Elbe
-        Euro
-
-
-*    *   über – bis
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   0 –    300
-
-    *   37
-
-    *   38
-
-    *   50
-
-    *   43
-
-
-*    *   300 –    400
-
-    *   46
-
-    *   47
-
-    *   62
-
-    *   59
-
-
-*    *   400 –    500
-
-    *   53
-
-    *   60
-
-    *   74
-
-    *   75
-
-
-*    *   500 –    600
-
-    *   56
-
-    *   72
-
-    *   82
-
-    *   77
-
-
-*    *   600 –    700
-
-    *   58
-
-    *   84
-
-    *   90
-
-    *   81
-
-
-*    *   700 –    800
-
-    *   60
-
-    *   92
-
-    *   98
-
-    *   83
-
-
-*    *   800 –    900
-
-    *   62
-
-    *   98
-
-    *   106
-
-    *   85
-
-
-*    *   900 –  1 000
-
-    *   64
-
-    *   104
-
-    *   114
-
-    *   87
-
-
-*    *   1 000 –  1 100
-
-    *   67
-
-    *   110
-
-    *   123
-
-    *   90
-
-
-*    *   1 100 –  1 200
-
-    *   70
-
-    *   117
-
-    *   132
-
-    *   95
-
-
-*    *   1 200 –  1 300
-
-    *   73
-
-    *   125
-
-    *   142
-
-    *   100
-
-
-*    *   1 300 –  1 400
-
-    *   76
-
-    *   133
-
-    *   151
-
-    *   102
-
-
-*    *   1 400 –  1 500
-
-    *   79
-
-    *   142
-
-    *   160
-
-    *   106
-
-
-*    *   1 500 –  1 600
-
-    *   81
-
-    *   151
-
-    *   169
-
-    *   110
-
-
-*    *   1 600 –  1 700
-
-    *   83
-
-    *   160
-
-    *   179
-
-    *   114
-
-
-*    *   1 700 –  1 800
-
-    *   86
-
-    *   169
-
-    *   188
-
-    *   120
-
-
-*    *   1 800 –  1 900
-
-    *   89
-
-    *   177
-
-    *   198
-
-    *   126
-
-
-*    *   1 900 –  2 000
-
-    *   92
-
-    *   186
-
-    *   207
-
-    *   130
-
-
-*    *   2 000 –  2 100
-
-    *   95
-
-    *   193
-
-    *   216
-
-    *   135
-
-
-*    *   2 100 –  2 200
-
-    *   98
-
-    *   199
-
-    *   226
-
-    *   141
-
-
-*    *   2 200 –  2 300
-
-    *   101
-
-    *   204
-
-    *   235
-
-    *   146
-
-
-*    *   2 300 –  2 400
-
-    *   104
-
-    *   209
-
-    *   244
-
-    *   150
-
-
-*    *   2 400 –  2 500
-
-    *   107
-
-    *   215
-
-    *   253
-
-    *   156
-
-
-*    *   2 500 –  2 600
-
-    *   110
-
-    *   221
-
-    *   262
-
-    *   163
-
-
-*    *   2 600 –  2 700
-
-    *   114
-
-    *   226
-
-    *   270
-
-    *   168
-
-
-*    *   2 700 –  2 800
-
-    *   119
-
-    *   232
-
-    *   279
-
-    *   174
-
-
-*    *   2 800 –  2 900
-
-    *   124
-
-    *   239
-
-    *   289
-
-    *   185
-
-
-*    *   2 900 –  3 000
-
-    *   129
-
-    *   247
-
-    *   298
-
-    *   191
-
-
-*    *   3 000 –  3 200
-
-    *   135
-
-    *   255
-
-    *   315
-
-    *   206
-
-
-*    *   3 200 –  3 400
-
-    *   142
-
-    *   266
-
-    *   332
-
-    *   215
-
-
-*    *   3 400 –  3 600
-
-    *   150
-
-    *   277
-
-    *   349
-
-    *   228
-
-
-*    *   3 600 –  3 800
-
-    *   160
-
-    *   289
-
-    *   366
-
-    *   242
-
-
-*    *   3 800 –  4 000
-
-    *   169
-
-    *   300
-
-    *   384
-
-    *   255
-
-
-*    *   4 000 –  4 200
-
-    *   179
-
-    *   312
-
-    *   402
-
-    *   270
-
-
-*    *   4 200 –  4 400
-
-    *   188
-
-    *   323
-
-    *   421
-
-    *   282
-
-
-*    *   4 400 –  4 600
-
-    *   198
-
-    *   335
-
-    *   439
-
-    *   298
-
-
-*    *   4 600 –  4 800
-
-    *   213
-
-    *   347
-
-    *   458
-
-    *   320
-
-
-*    *   4 800 –  5 000
-
-    *   233
-
-    *   360
-
-    *   478
-
-    *   336
-
-
-*    *   5 000 –  5 500
-
-    *   258
-
-    *   380
-
-    *   513
-
-    *   370
-
-
-*    *   5 500 –  6 000
-
-    *   285
-
-    *   407
-
-    *   549
-
-    *   393
-
-
-*    *   6 000 –  6 500
-
-    *   311
-
-    *   443
-
-    *   586
-
-    *   428
-
-
-*    *   6 500 –  7 000
-
-    *   341
-
-    *   479
-
-    *   623
-
-    *   463
-
-
-*    *   7 000 –  7 500
-
-    *   374
-
-    *   511
-
-    *   660
-
-    *   497
-
-
-*    *   7 500 –  8 000
-
-    *   407
-
-    *   544
-
-    *   697
-
-    *   533
-
-
-*    *   8 000 –  8 500
-
-    *   441
-
-    *   573
-
-    *   735
-
-    *   568
-
-
-*    *   8 500 –  9 000
-
-    *   474
-
-    *   601
-
-    *   772
-
-    *   604
-
-
-*    *   9 000 –  9 500
-
-    *   507
-
-    *   627
-
-    *   810
-
-    *   638
-
-
-*    *   9 500 – 10 000
-
-    *   540
-
-    *   652
-
-    *   847
-
-    *   656
-
-
-*    *   10 000 – 10 500
-
-    *   563
-
-    *   676
-
-    *   884
-
-    *   674
-
-
-*    *   10 500 – 11 000
-
-    *   586
-
-    *   700
-
-    *   922
-
-    *   691
-
-
-*    *   11 000 – 11 500
-
-    *   609
-
-    *   724
-
-    *   960
-
-    *   723
-
-
-*    *   11 500 – 12 000
-
-    *   633
-
-    *   748
-
-    *   997
-
-    *   757
-
-
-*    *   12 000 – 12 500
-
-    *   658
-
-    *   772
-
-    *   1 035
-
-    *   791
-
-
-*    *   12 500 – 13 000
-
-    *   687
-
-    *   798
-
-    *   1 073
-
-    *   825
-
-
-*    *   13 000 – 13 500
-
-    *   716
-
-    *   824
-
-    *   1 110
-
-    *   857
-
-
-*    *   13 500 – 14 000
-
-    *   745
-
-    *   849
-
-    *   1 147
-
-    *   894
-
-
-*    *   14 000 – 14 500
-
-    *   774
-
-    *   875
-
-    *   1 183
-
-    *   928
-
-
-*    *   14 500 – 15 000
-
-    *   803
-
-    *   900
-
-    *   1 218
-
-    *   962
-
-
-*    *   15 000 – 15 500
-
-    *   833
-
-    *   925
-
-    *   1 252
-
-    *   998
-
-
-*    *   15 500 – 16 000
-
-    *   863
-
-    *   951
-
-    *   1 286
-
-    *   1 031
-
-
-*    *   16 000 – 16 500
-
-    *   893
-
-    *   977
-
-    *   1 320
-
-    *   1 066
-
-
-*    *   16 500 – 17 000
-
-    *   923
-
-    *   1 002
-
-    *   1 357
-
-    *   1 101
-
-
-*    *   17 000 – 17 500
-
-    *   953
-
-    *   1 027
-
-    *   1 394
-
-    *   1 138
-
-
-*    *   17 500 – 18 000
-
-    *   983
-
-    *   1 053
-
-    *   1 431
-
-    *   1 173
-
-
-*    *   18 000 – 18 500
-
-    *   1 013
-
-    *   1 078
-
-    *   1 469
-
-    *   1 210
-
-
-*    *   18 500 – 19 000
-
-    *   1 043
-
-    *   1 103
-
-    *   1 506
-
-    *   1 245
-
-
-*    *   19 000 – 19 500
-
-    *   1 073
-
-    *   1 126
-
-    *   1 542
-
-    *   1 281
-
-
-*    *   19 500 – 20 000
-
-    *   1 104
-
-    *   1 147
-
-    *   1 578
-
-    *   1 318
-
-
-*    *   20 000 – 20 500
-
-    *   1 134
-
-    *   1 167
-
-    *   1 614
-
-    *   1 355
-
-
-*    *   20 500 – 21 000
-
-    *   1 164
-
-    *   1 187
-
-    *   1 647
-
-    *   1 389
-
-
-*    *   21 000 – 21 500
-
-    *   1 195
-
-    *   1 208
-
-    *   1 680
-
-    *   1 426
-
-
-*    *   21 500 – 22 000
-
-    *   1 225
-
-    *   1 230
-
-    *   1 713
-
-    *   1 462
-
-
-*    *   22 000 – 22 500
-
-    *   1 255
-
-    *   1 252
-
-    *   1 747
-
-    *   1 498
-
-
-*    *   22 500 – 23 000
-
-    *   1 285
-
-    *   1 274
-
-    *   1 783
-
-    *   1 534
-
-
-*    *   23 000 – 23 500
-
-    *   1 316
-
-    *   1 295
-
-    *   1 820
-
-    *   1 572
-
-
-*    *   23 500 – 24 000
-
-    *   1 346
-
-    *   1 316
-
-    *   1 856
-
-    *   1 607
-
-
-*    *   24 000 – 24 500
-
-    *   1 376
-
-    *   1 337
-
-    *   1 893
-
-    *   1 638
-
-
-*    *   24 500 – 25 000
-
-    *   1 405
-
-    *   1 358
-
-    *   1 930
-
-    *   1 678
-
-
-*    *   25 000 – 25 500
-
-    *   1 433
-
-    *   1 380
-
-    *   1 967
-
-    *   1 717
-
-
-*    *   25 500 – 26 000
-
-    *   1 461
-
-    *   1 402
-
-    *   2 003
-
-    *   1 758
-
-
-*    *   26 000 – 26 500
-
-    *   1 489
-
-    *   1 424
-
-    *   2 040
-
-    *   1 796
-
-
-*    *   26 500 – 27 000
-
-    *   1 517
-
-    *   1 446
-
-    *   2 077
-
-    *   1 835
-
-
-*    *   27 000 – 27 500
-
-    *   1 546
-
-    *   1 468
-
-    *   2 114
-
-    *   1 875
-
-
-*    *   27 500 – 28 000
-
-    *   1 576
-
-    *   1 489
-
-    *   2 150
-
-    *   1 914
-
-
-*    *   28 000 – 28 500
-
-    *   1 609
-
-    *   1 511
-
-    *   2 183
-
-    *   1 953
-
-
-*    *   28 500 – 29 000
-
-    *   1 645
-
-    *   1 533
-
-    *   2 213
-
-    *   1 993
-
-
-*    *   29 000 – 29 500
-
-    *   1 683
-
-    *   1 555
-
-    *   2 243
-
-    *   2 034
-
-
-*    *   29 500 – 30 000
-
-    *   1 722
-
-    *   1 578
-
-    *   2 273
-
-    *   2 074
-
-
-*    *   30 000 – 31 000
-
-    *   1 762
-
-    *   1 605
-
-    *   2 307
-
-    *   2 112
-
-
-*    *   31 000 – 32 000
-
-    *   1 812
-
-    *   1 639
-
-    *   2 342
-
-    *   2 150
-
-
-*    *   32 000 – 33 000
-
-    *   1 874
-
-    *   1 679
-
-    *   2 386
-
-    *   2 191
-
-
-*    *   33 000 – 34 000
-
-    *   1 936
-
-    *   1 725
-
-    *   2 431
-
-    *   2 229
-
-
-*    *   34 000 – 35 000
-
-    *   1 998
-
-    *   1 780
-
-    *   2 477
-
-    *   2 270
-
-
-*    *   35 000 – 36 000
-
-    *   2 058
-
-    *   1 840
-
-    *   2 527
-
-    *   2 310
-
-
-*    *   36 000 – 37 000
-
-    *   2 119
-
-    *   1 903
-
-    *   2 538
-
-    *   2 349
-
-
-*    *   37 000 – 38 000
-
-    *   2 179
-
-    *   1 971
-
-    *   2 538
-
-    *   2 387
-
-
-*    *   38 000 – 39 000
-
-    *   2 239
-
-    *   2 048
-
-    *   2 538
-
-    *   2 427
-
-
-*    *   39 000 – 40 000
-
-    *   2 300
-
-    *   2 125
-
-    *   2 538
-
-    *   2 468
-
-
-*    *   40 000 – 42 000
-
-    *   2 358
-
-    *   2 204
-
-    *   2 538
-
-    *   2 486
-
-
-*    *   42 000 – 44 000
-
-    *   2 399
-
-    *   2 275
-
-    *   2 538
-
-    *   2 502
-
-
-*    *   44 000 – 46 000
-
-    *   2 440
-
-    *   2 346
-
-    *   2 538
-
-    *   2 513
-
-
-*    *   46 000 – 48 000
-
-    *   2 472
-
-    *   2 416
-
-    *   2 538
-
-    *   2 526
-
-
-*    *   48 000 – 50 000
-
-    *   2 500
-
-    *   2 457
-
-    *   2 538
-
-    *   2 538
-
-
-*    *   50 000 – 52 000
-
-    *   2 519
-
-    *   2 498
-
-    *   2 538
-
-    *   2 538
-
-
-*    *   über 52 000
-
-    *   2 538
-
-    *   2 538
-
-    *   2 538
-
-    *   2 538
-
-
-
-### Teil II
-
-
-*    *   Bruttoraumzahl
-
-    *   Nord-Ostsee-Kanal
-        Euro
-
-    *   Kieler Förde
-        Euro
-
-    *   Trave
-        Euro
-
-    *   Flensburger Förde
-        Euro
-
-
-*    *   über – bis
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   0 –    300
-
-    *   18
-
-    *   15
-
-    *   14
-
-    *   15
-
-
-*    *   300 –    400
-
-    *   24
-
-    *   17
-
-    *   16
-
-    *   18
-
-
-*    *   400 –    500
-
-    *   30
-
-    *   18
-
-    *   19
-
-    *   21
-
-
-*    *   500 –    600
-
-    *   35
-
-    *   21
-
-    *   24
-
-    *   24
-
-
-*    *   600 –    700
-
-    *   42
-
-    *   24
-
-    *   26
-
-    *   27
-
-
-*    *   700 –    800
-
-    *   44
-
-    *   27
-
-    *   28
-
-    *   34
-
-
-*    *   800 –    900
-
-    *   49
-
-    *   30
-
-    *   33
-
-    *   35
-
-
-*    *   900 –  1 000
-
-    *   55
-
-    *   34
-
-    *   37
-
-    *   39
-
-
-*    *   1 000 –  1 100
-
-    *   57
-
-    *   37
-
-    *   40
-
-    *   45
-
-
-*    *   1 100 –  1 200
-
-    *   59
-
-    *   39
-
-    *   41
-
-    *   54
-
-
-*    *   1 200 –  1 300
-
-    *   62
-
-    *   41
-
-    *   43
-
-    *   58
-
-
-*    *   1 300 –  1 400
-
-    *   63
-
-    *   42
-
-    *   46
-
-    *   62
-
-
-*    *   1 400 –  1 500
-
-    *   66
-
-    *   43
-
-    *   49
-
-    *   68
-
-
-*    *   1 500 –  1 600
-
-    *   68
-
-    *   46
-
-    *   54
-
-    *   75
-
-
-*    *   1 600 –  1 700
-
-    *   71
-
-    *   49
-
-    *   59
-
-    *   79
-
-
-*    *   1 700 –  1 800
-
-    *   75
-
-    *   54
-
-    *   62
-
-    *   84
-
-
-*    *   1 800 –  1 900
-
-    *   76
-
-    *   56
-
-    *   64
-
-    *   88
-
-
-*    *   1 900 –  2 000
-
-    *   78
-
-    *   59
-
-    *   68
-
-    *   91
-
-
-*    *   2 000 –  2 100
-
-    *   82
-
-    *   62
-
-    *   71
-
-    *   104
-
-
-*    *   2 100 –  2 200
-
-    *   84
-
-    *   64
-
-    *   76
-
-    *   114
-
-
-*    *   2 200 –  2 300
-
-    *   86
-
-    *   68
-
-    *   79
-
-    *   119
-
-
-*    *   2 300 –  2 400
-
-    *   87
-
-    *   69
-
-    *   83
-
-    *   124
-
-
-*    *   2 400 –  2 500
-
-    *   89
-
-    *   71
-
-    *   87
-
-    *   129
-
-
-*    *   2 500 –  2 600
-
-    *   90
-
-    *   76
-
-    *   89
-
-    *   133
-
-
-*    *   2 600 –  2 700
-
-    *   95
-
-    *   78
-
-    *   91
+    *   93
 
     *   139
 
 
-*    *   2 700 –  2 800
-
-    *   100
-
-    *   82
-
-    *   98
-
-    *   143
-
-
-*    *   2 800 –  2 900
-
-    *   101
-
-    *   85
-
-    *   101
-
-    *   147
-
-
-*    *   2 900 –  3 000
-
-    *   103
-
-    *   88
-
-    *   104
-
-    *   152
-
-
-*    *   3 000 –  3 200
-
-    *   109
-
-    *   90
-
-    *   110
-
-    *   196
-
-
-*    *   3 200 –  3 400
-
-    *   114
-
-    *   97
-
-    *   114
-
-    *   207
-
-
-*    *   3 400 –  3 600
-
-    *   119
-
-    *   100
-
-    *   121
-
-    *   216
-
-
-*    *   3 600 –  3 800
-
-    *   122
-
-    *   104
-
-    *   125
-
-    *   227
-
-
-*    *   3 800 –  4 000
-
-    *   129
-
-    *   108
-
-    *   130
-
-    *   235
-
-
-*    *   4 000 –  4 200
-
-    *   133
-
-    *   113
-
-    *   134
-
-    *   256
-
-
-*    *   4 200 –  4 400
-
-    *   134
-
-    *   118
-
-    *   141
-
-    *   266
-
-
-*    *   4 400 –  4 600
-
-    *   140
-
-    *   124
-
-    *   146
-
-    *   277
-
-
-*    *   4 600 –  4 800
-
-    *   141
-
-    *   129
-
-    *   150
-
-    *   289
-
-
-*    *   4 800 –  5 000
-
-    *   143
-
-    *   137
-
-    *   156
-
-    *   298
-
-
-*    *   5 000 –  5 500
-
-    *   149
-
-    *   142
-
-    *   164
-
-    *   349
-
-
-*    *   5 500 –  6 000
-
-    *   154
-
-    *   147
-
-    *   176
-
-    *   379
-
-
-*    *   6 000 –  6 500
-
-    *   163
-
-    *   156
-
-    *   188
-
-    *   456
-
-
-*    *   6 500 –  7 000
-
-    *   168
-
-    *   164
-
-    *   204
-
-    *   489
-
-
-*    *   7 000 –  7 500
-
-    *   175
-
-    *   175
-
-    *   214
-
-    *   570
-
-
-*    *   7 500 –  8 000
-
-    *   183
-
-    *   184
-
-    *   229
-
-    *   607
-
-
-*    *   8 000 –  8 500
-
-    *   188
-
-    *   191
-
-    *   242
-
-    *   639
-
-
-*    *   8 500 –  9 000
-
-    *   193
-
-    *   205
-
-    *   254
-
-    *   676
-
-
-*    *   9 000 –  9 500
-
-    *   201
-
-    *   215
-
-    *   269
-
-    *   712
-
-
-*    *   9 500 – 10 000
-
-    *   207
-
-    *   228
-
-    *   278
-
-    *   761
-
-
-*    *   10 000 – 10 500
-
-    *   212
-
-    *   237
-
-    *   293
-
-    *   816
-
-
-*    *   10 500 – 11 000
-
-    *   218
-
-    *   250
-
-    *   306
-
-    *   867
-
-
-*    *   11 000 – 11 500
-
-    *   225
-
-    *   254
-
-    *   317
-
-    *   897
-
-
-*    *   11 500 – 12 000
-
-    *   232
-
-    *   260
-
-    *   324
-
-    *   979
-
-
-*    *   12 000 – 12 500
-
-    *   235
-
-    *   272
-
-    *   335
-
-    *   1 038
-
-
-*    *   12 500 – 13 000
-
-    *   245
-
-    *   279
-
-    *   344
-
-    *   1 078
-
-
-*    *   13 000 – 13 500
-
-    *   251
-
-    *   291
-
-    *   356
-
-    *   1 111
-
-
-*    *   13 500 – 14 000
-
-    *   254
-
-    *   303
-
-    *   365
-
-    *   1 153
-
-
-*    *   14 000 – 14 500
-
-    *   261
-
-    *   314
-
-    *   376
-
-    *   1 193
-
-
-*    *   14 500 – 15 000
-
-    *   270
-
-    *   321
-
-    *   386
-
-    *   1 268
-
-
-*    *   15 000 – 15 500
-
-    *   275
-
-    *   332
-
-    *   391
-
-    *   1 324
-
-
-*    *   15 500 – 16 000
-
-    *   282
-
-    *   341
-
-    *   396
-
-    *   1 379
-
-
-*    *   16 000 – 16 500
-
-    *   289
-
-    *   351
-
-    *   402
-
-    *   1 422
-
-
-*    *   16 500 – 17 000
-
-    *   295
-
-    *   360
-
-    *   405
-
-    *   1 464
-
-
-*    *   17 000 – 17 500
-
-    *   302
-
-    *   366
-
-    *   411
-
-    *   1 506
-
-
-*    *   17 500 – 18 000
-
-    *   308
-
-    *   376
-
-    *   416
-
-    *   1 547
-
-
-*    *   18 000 – 18 500
-
-    *   315
-
-    *   384
-
-    *   421
-
-    *   1 571
-
-
-*    *   18 500 – 19 000
-
-    *   319
-
-    *   393
-
-    *   425
-
-    *   1 593
-
-
-*    *   19 000 – 19 500
-
-    *   327
-
-    *   402
-
-    *   431
-
-    *   1 621
-
-
-*    *   19 500 – 20 000
-
-    *   333
-
-    *   410
-
-    *   437
-
-    *   1 650
-
-
-*    *   20 000 – 20 500
-
-    *   340
-
-    *   418
-
-    *   442
-
-    *   1 678
-
-
-*    *   20 500 – 21 000
-
-    *   345
-
-    *   425
-
-    *   447
-
-    *   1 705
-
-
-*    *   21 000 – 21 500
-
-    *   355
-
-    *   434
-
-    *   450
-
-    *   1 735
-
-
-*    *   21 500 – 22 000
-
-    *   360
-
-    *   443
-
-    *   456
-
-    *   1 764
-
-
-*    *   22 000 – 22 500
-
-    *   365
-
-    *   450
-
-    *   462
-
-    *   1 796
-
-
-*    *   22 500 – 23 000
-
-    *   374
-
-    *   460
-
-    *   468
-
-    *   1 826
-
-
-*    *   23 000 – 23 500
-
-    *   379
-
-    *   467
-
-    *   474
-
-    *   1 860
-
-
-*    *   23 500 – 24 000
-
-    *   385
-
-    *   475
-
-    *   477
-
-    *   1 891
-
-
-*    *   24 000 – 24 500
-
-    *   392
-
-    *   483
-
-    *   482
-
-    *   1 924
-
-
-*    *   24 500 – 25 000
-
-    *   398
-
-    *   492
-
-    *   487
-
-    *   1 955
-
-
-*    *   25 000 – 25 500
-
-    *   403
-
-    *   503
-
-    *   492
-
-    *   1 991
-
-
-*    *   25 500 – 26 000
-
-    *   410
-
-    *   511
-
-    *   497
-
-    *   2 025
-
-
-*    *   26 000 – 26 500
-
-    *   417
-
-    *   522
-
-    *   503
-
-    *   2 061
-
-
-*    *   26 500 – 27 000
-
-    *   422
-
-    *   531
-
-    *   507
-
-    *   2 097
-
-
-*    *   27 000 – 27 500
-
-    *   431
-
-    *   540
-
-    *   512
-
-    *   2 124
-
-
-*    *   27 500 – 28 000
-
-    *   436
-
-    *   549
-
-    *   518
-
-    *   2 153
-
-
-*    *   28 000 – 28 500
-
-    *   443
-
-    *   559
-
-    *   523
-
-    *   2 153
-
-
-*    *   28 500 – 29 000
-
-    *   449
-
-    *   568
-
-    *   526
-
-    *   2 153
-
-
-*    *   29 000 – 29 500
-
-    *   456
-
-    *   578
-
-    *   533
-
-    *   2 153
-
-
-*    *   29 500 – 30 000
-
-    *   462
-
-    *   588
-
-    *   537
-
-    *   2 153
-
-
-*    *   30 000 – 31 000
-
-    *   475
-
-    *   596
-
-    *   548
-
-    *   2 153
-
-
-*    *   31 000 – 32 000
-
-    *   487
-
-    *   607
-
-    *   558
-
-    *   2 153
-
-
-*    *   32 000 – 33 000
-
-    *   501
-
-    *   616
-
-    *   568
-
-    *   2 153
-
-
-*    *   33 000 – 34 000
-
-    *   512
-
-    *   624
-
-    *   578
-
-    *   2 153
-
-
-*    *   34 000 – 35 000
-
-    *   526
-
-    *   635
-
-    *   588
-
-    *   2 153
-
-
-*    *   35 000 – 36 000
-
-    *   539
-
-    *   638
-
-    *   596
-
-    *   2 153
-
-
-*    *   36 000 – 37 000
-
-    *   552
-
-    *   652
-
-    *   609
-
-    *   2 153
-
-
-*    *   37 000 – 38 000
-
-    *   565
-
-    *   665
-
-    *   618
-
-    *   2 153
-
-
-*    *   38 000 – 39 000
-
-    *   578
-
-    *   678
-
-    *   628
-
-    *   2 153
-
-
-*    *   39 000 – 40 000
-
-    *   591
-
-    *   689
-
-    *   637
-
-    *   2 153
-
-
-*    *   40 000 – 42 000
-
-    *   617
-
-    *   717
-
-    *   657
-
-    *   2 153
-
-
-*    *   42 000 – 44 000
-
-    *   642
-
-    *   742
-
-    *   677
-
-    *   2 153
-
-
-*    *   44 000 – 46 000
-
-    *   667
-
-    *   768
-
-    *   696
-
-    *   2 153
-
-
-*    *   46 000 – 48 000
-
-    *   694
-
-    *   792
-
-    *   717
-
-    *   2 153
-
-
-*    *   48 000 – 50 000
-
-    *   720
-
-    *   818
-
-    *   737
-
-    *   2 153
-
-
-*    *   für jede weiteren
-        angefangenen
-        2 000 über 50 000
-
-    *   27
-
-    *   25
-
-    *   5
-
-    *   –
-
-
-*    *   höchstens jedoch
-
-    *   2 153
-
-    *   2 153
-
-    *   2 153
-
-    *   2 153
-
-
-
-### Teil III
-
-
-*    *   Bruttoraumzahl
-
-    *   Wismar
-        Euro
-
-    *   Rostock
-        Euro
-
-    *   Stralsund
-        Euro
-
-
-*    *   über – bis
-
-    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   0 –    300
-
-    *   16
-
-    *   15
-
-    *   17
-
-
-*    *   300 –    400
-
-    *   21
-
-    *   17
-
-    *   23
-
-
-*    *   400 –    500
-
-    *   26
-
-    *   21
-
-    *   29
-
-
-*    *   500 –    600
-
-    *   56
-
-    *   41
-
-    *   61
-
-
-*    *   600 –    700
-
-    *   67
-
-    *   47
-
-    *   71
-
-
-*    *   700 –    800
-
-    *   77
-
-    *   57
-
-    *   83
-
-
-*    *   800 –    900
-
-    *   86
-
-    *   63
-
-    *   92
-
-
 *    *   900 –  1 000
-
-    *   97
-
-    *   70
-
-    *   105
-
-
-*    *   1 000 –  1 100
-
-    *   102
-
-    *   78
-
-    *   111
-
-
-*    *   1 100 –  1 200
-
-    *   111
-
-    *   86
-
-    *   122
-
-
-*    *   1 200 –  1 300
-
-    *   122
-
-    *   91
-
-    *   131
-
-
-*    *   1 300 –  1 400
-
-    *   130
-
-    *   102
-
-    *   143
-
-
-*    *   1 400 –  1 500
-
-    *   142
-
-    *   107
-
-    *   154
-
-
-*    *   1 500 –  1 600
-
-    *   150
-
-    *   114
-
-    *   164
-
-
-*    *   1 600 –  1 700
-
-    *   161
-
-    *   122
-
-    *   175
-
-
-*    *   1 700 –  1 800
-
-    *   170
-
-    *   131
-
-    *   186
-
-
-*    *   1 800 –  1 900
-
-    *   179
-
-    *   135
-
-    *   196
-
-
-*    *   1 900 –  2 000
-
-    *   189
-
-    *   145
-
-    *   207
-
-
-*    *   2 000 –  2 100
-
-    *   200
-
-    *   147
-
-    *   217
-
-
-*    *   2 100 –  2 200
-
-    *   208
-
-    *   153
-
-    *   228
-
-
-*    *   2 200 –  2 300
-
-    *   218
-
-    *   161
-
-    *   239
-
-
-*    *   2 300 –  2 400
-
-    *   229
-
-    *   168
-
-    *   249
-
-
-*    *   2 400 –  2 500
-
-    *   237
-
-    *   174
-
-    *   259
-
-
-*    *   2 500 –  2 600
-
-    *   248
-
-    *   182
-
-    *   270
-
-
-*    *   2 600 –  2 700
-
-    *   257
-
-    *   189
-
-    *   279
-
-
-*    *   2 700 –  2 800
-
-    *   269
-
-    *   195
-
-    *   292
-
-
-*    *   2 800 –  2 900
-
-    *   277
-
-    *   203
-
-    *   301
-
-
-*    *   2 900 –  3 000
-
-    *   286
-
-    *   210
-
-    *   314
-
-
-*    *   3 000 –  3 200
-
-    *   300
-
-    *   216
-
-    *   330
-
-
-*    *   3 200 –  3 400
-
-    *   320
-
-    *   224
-
-    *   351
-
-
-*    *   3 400 –  3 600
-
-    *   340
-
-    *   236
-
-    *   371
-
-
-*    *   3 600 –  3 800
-
-    *   359
-
-    *   249
-
-    *   392
-
-
-*    *   3 800 –  4 000
-
-    *   379
-
-    *   263
-
-    *   415
-
-
-*    *   4 000 –  4 200
-
-    *   398
-
-    *   277
-
-    *   434
-
-
-*    *   4 200 –  4 400
-
-    *   418
-
-    *   288
-
-    *   456
-
-
-*    *   4 400 –  4 600
-
-    *   438
-
-    *   302
-
-    *   477
-
-
-*    *   4 600 –  4 800
-
-    *   456
-
-    *   314
-
-    *   497
-
-
-*    *   4 800 –  5 000
-
-    *   476
-
-    *   330
-
-    *   519
-
-
-*    *   5 000 –  5 500
-
-    *   496
-
-    *   331
-
-    *   540
-
-
-*    *   5 500 –  6 000
-
-    *   516
-
-    *   343
-
-    *   562
-
-
-*    *   6 000 –  6 500
-
-    *   534
-
-    *   357
-
-    *   582
-
-
-*    *   6 500 –  7 000
-
-    *   553
-
-    *   371
-
-    *   604
-
-
-*    *   7 000 –  7 500
-
-    *   572
-
-    *   384
-
-    *   625
-
-
-*    *   7 500 –  8 000
-
-    *   592
-
-    *   398
-
-    *   647
-
-
-*    *   8 000 –  8 500
-
-    *   611
-
-    *   412
-
-    *   667
-
-
-*    *   8 500 –  9 000
-
-    *   631
-
-    *   424
-
-    *   688
-
-
-*    *   9 000 –  9 500
-
-    *   651
-
-    *   438
-
-    *   709
-
-
-*    *   9 500 – 10 000
-
-    *   670
-
-    *   453
-
-    *   732
-
-
-*    *   10 000 – 10 500
-
-    *   689
-
-    *   495
-
-    *   752
-
-
-*    *   10 500 – 11 000
-
-    *   708
-
-    *   518
-
-    *   772
-
-
-*    *   11 000 – 11 500
-
-    *   728
-
-    *   540
-
-    *   795
-
-
-*    *   11 500 – 12 000
-
-    *   748
-
-    *   565
-
-    *   816
-
-
-*    *   12 000 – 12 500
-
-    *   767
-
-    *   588
-
-    *   837
-
-
-*    *   12 500 – 13 000
-
-    *   785
-
-    *   611
-
-    *   857
-
-
-*    *   13 000 – 13 500
-
-    *   806
-
-    *   635
-
-    *   879
-
-
-*    *   13 500 – 14 000
-
-    *   825
-
-    *   659
-
-    *   900
-
-
-*    *   14 000 – 14 500
-
-    *   844
-
-    *   683
-
-    *   922
-
-
-*    *   14 500 – 15 000
-
-    *   864
-
-    *   706
-
-    *   943
-
-
-*    *   15 000 – 15 500
-
-    *   883
-
-    *   730
-
-    *   964
-
-
-*    *   15 500 – 16 000
-
-    *   903
-
-    *   753
-
-    *   985
-
-
-*    *   16 000 – 16 500
-
-    *   922
-
-    *   776
-
-    *   1 007
-
-
-*    *   16 500 – 17 000
-
-    *   941
-
-    *   802
-
-    *   1 027
-
-
-*    *   17 000 – 17 500
-
-    *   961
-
-    *   824
-
-    *   1 049
-
-
-*    *   17 500 – 18 000
-
-    *   980
-
-    *   848
-
-    *   1 070
-
-
-*    *   18 000 – 18 500
-
-    *   999
-
-    *   872
-
-    *   1 092
-
-
-*    *   18 500 – 19 000
-
-    *   1 020
-
-    *   896
-
-    *   1 112
-
-
-*    *   19 000 – 19 500
-
-    *   1 038
-
-    *   899
-
-    *   1 133
-
-
-*    *   19 500 – 20 000
-
-    *   1 057
-
-    *   901
-
-    *   1 155
-
-
-*    *   20 000 – 20 500
-
-    *   1 077
-
-    *   905
-
-    *   1 175
-
-
-*    *   20 500 – 21 000
-
-    *   1 097
-
-    *   908
-
-    *   1 196
-
-
-*    *   21 000 – 21 500
-
-    *   1 117
-
-    *   912
-
-    *   1 218
-
-
-*    *   21 500 – 22 000
-
-    *   1 135
-
-    *   915
-
-    *   1 240
-
-
-*    *   22 000 – 22 500
-
-    *   1 155
-
-    *   919
-
-    *   1 261
-
-
-*    *   22 500 – 23 000
-
-    *   1 174
-
-    *   923
-
-    *   1 282
-
-
-*    *   23 000 – 23 500
-
-    *   1 194
-
-    *   926
-
-    *   1 302
-
-
-*    *   23 500 – 24 000
-
-    *   1 214
-
-    *   928
-
-    *   1 325
-
-
-*    *   24 000 – 24 500
-
-    *   1 233
-
-    *   933
-
-    *   1 345
-
-
-*    *   24 500 – 25 000
-
-    *   1 253
-
-    *   937
-
-    *   1 366
-
-
-*    *   25 000 – 25 500
-
-    *   1 272
-
-    *   950
-
-    *   1 387
-
-
-*    *   25 500 – 26 000
-
-    *   1 290
-
-    *   953
-
-    *   1 409
-
-
-*    *   26 000 – 26 500
-
-    *   1 310
-
-    *   957
-
-    *   1 430
-
-
-*    *   26 500 – 27 000
-
-    *   1 329
-
-    *   960
-
-    *   1 451
-
-
-*    *   27 000 – 27 500
-
-    *   1 349
-
-    *   964
-
-    *   1 472
-
-
-*    *   27 500 – 28 000
-
-    *   1 367
-
-    *   967
-
-    *   1 493
-
-
-*    *   28 000 – 28 500
-
-    *   1 387
-
-    *   974
-
-    *   1 515
-
-
-*    *   28 500 – 29 000
-
-    *   1 407
-
-    *   984
-
-    *   1 536
-
-
-*    *   29 000 – 29 500
-
-    *   1 427
-
-    *   991
-
-    *   1 557
-
-
-*    *   29 500 – 30 000
-
-    *   1 446
-
-    *   1 001
-
-    *   1 578
-
-
-*    *   30 000 – 31 000
-
-    *   1 465
-
-    *   1 034
-
-    *   1 600
-
-
-*    *   31 000 – 32 000
-
-    *   1 485
-
-    *   1 068
-
-    *   1 620
-
-
-*    *   32 000 – 33 000
-
-    *   1 508
-
-    *   1 103
-
-    *   1 647
-
-
-*    *   33 000 – 34 000
-
-    *   1 555
-
-    *   1 137
-
-    *   1 698
-
-
-*    *   34 000 – 35 000
-
-    *   1 602
-
-    *   1 170
-
-    *   1 748
-
-
-*    *   35 000 – 36 000
-
-    *   1 649
-
-    *   1 204
-
-    *   1 801
-
-
-*    *   36 000 – 37 000
-
-    *   1 695
-
-    *   1 236
-
-    *   1 849
-
-
-*    *   37 000 – 38 000
-
-    *   1 742
-
-    *   1 273
-
-    *   1 903
-
-
-*    *   38 000 – 39 000
-
-    *   1 788
-
-    *   1 310
-
-    *   1 952
-
-
-*    *   39 000 – 40 000
-
-    *   1 833
-
-    *   1 351
-
-    *   2 002
-
-
-*    *   40 000 – 42 000
-
-    *   1 926
-
-    *   1 399
-
-    *   2 053
-
-
-*    *   42 000 – 44 000
-
-    *   2 018
-
-    *   1 458
-
-    *   2 103
-
-
-*    *   44 000 – 46 000
-
-    *   2 103
-
-    *   1 527
-
-    *   2 153
-
-
-*    *   46 000 – 48 000
-
-    *   2 130
-
-    *   1 597
-
-    *   2 153
-
-
-*    *   48 000 – 50 000
-
-    *   2 153
-
-    *   1 668
-
-    *   2 153
-
-
-*    *   für jede weiteren
-        angefangenen
-        2 000 über 50 000
-
-    *   –
-
-    *   61
-
-    *   –
-
-
-*    *   höchstens jedoch
-
-    *   2 153
-
-    *   2 153
-
-    *   2 153
-
-
-
-
-## Anlage 1b (zu § 1 Absatz 1a)
-
-(Fundstelle: BGBl. I 2010 309 - 316)
-## **B. Tabelle der Lotsabgaben (ab 1.1.2012)**
-
-### Teil I
-
-
-*    *   Bruttoraumzahl
-
-    *   Ems
-        Euro
-
-    *   Weser
-        Euro
-
-    *   Jade
-        Euro
-
-    *   Elbe
-        Euro
-
-
-*    *   über – bis
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   0 –    300
-
-    *   39
-
-    *   40
-
-    *   53
-
-    *   46
-
-
-*    *   300 –    400
-
-    *   49
-
-    *   50
-
-    *   66
-
-    *   62
-
-
-*    *   400 –    500
-
-    *   55
-
-    *   64
-
-    *   79
-
-    *   79
-
-
-*    *   500 –    600
-
-    *   59
-
-    *   78
-
-    *   88
-
-    *   81
-
-
-*    *   600 –    700
-
-    *   61
-
-    *   89
-
-    *   96
-
-    *   85
-
-
-*    *   700 –    800
-
-    *   63
-
-    *   96
-
-    *   104
-
-    *   88
-
-
-*    *   800 –    900
-
-    *   65
-
-    *   102
-
-    *   112
-
-    *   90
-
-
-*    *   900 –  1 000
-
-    *   68
-
-    *   108
-
-    *   121
-
-    *   92
-
-
-*    *   1 000 –  1 100
-
-    *   71
-
-    *   115
-
-    *   131
-
-    *   95
-
-
-*    *   1 100 –  1 200
-
-    *   74
-
-    *   123
-
-    *   140
-
-    *   100
-
-
-*    *   1 200 –  1 300
-
-    *   77
-
-    *   132
-
-    *   150
-
-    *   105
-
-
-*    *   1 300 –  1 400
-
-    *   80
-
-    *   141
-
-    *   159
-
-    *   108
-
-
-*    *   1 400 –  1 500
-
-    *   83
-
-    *   150
-
-    *   169
-
-    *   112
-
-
-*    *   1 500 –  1 600
-
-    *   85
-
-    *   160
-
-    *   179
-
-    *   117
-
-
-*    *   1 600 –  1 700
-
-    *   88
-
-    *   170
-
-    *   189
-
-    *   121
-
-
-*    *   1 700 –  1 800
-
-    *   91
-
-    *   179
-
-    *   199
-
-    *   127
-
-
-*    *   1 800 –  1 900
-
-    *   94
-
-    *   188
-
-    *   210
-
-    *   133
-
-
-*    *   1 900 –  2 000
-
-    *   97
-
-    *   197
-
-    *   220
-
-    *   138
-
-
-*    *   2 000 –  2 100
-
-    *   101
-
-    *   204
-
-    *   229
-
-    *   143
-
-
-*    *   2 100 –  2 200
-
-    *   104
-
-    *   210
-
-    *   239
-
-    *   149
-
-
-*    *   2 200 –  2 300
-
-    *   106
-
-    *   216
-
-    *   248
-
-    *   154
-
-
-*    *   2 300 –  2 400
-
-    *   109
-
-    *   221
-
-    *   258
-
-    *   159
-
-
-*    *   2 400 –  2 500
-
-    *   113
-
-    *   227
-
-    *   268
-
-    *   165
-
-
-*    *   2 500 –  2 600
-
-    *   117
-
-    *   233
-
-    *   277
-
-    *   172
-
-
-*    *   2 600 –  2 700
-
-    *   121
-
-    *   239
-
-    *   286
-
-    *   178
-
-
-*    *   2 700 –  2 800
-
-    *   126
-
-    *   245
-
-    *   295
-
-    *   184
-
-
-*    *   2 800 –  2 900
-
-    *   131
-
-    *   253
-
-    *   305
-
-    *   196
-
-
-*    *   2 900 –  3 000
-
-    *   136
-
-    *   261
-
-    *   315
-
-    *   202
-
-
-*    *   3 000 –  3 200
-
-    *   143
-
-    *   270
-
-    *   333
-
-    *   218
-
-
-*    *   3 200 –  3 400
-
-    *   150
-
-    *   281
-
-    *   351
-
-    *   228
-
-
-*    *   3 400 –  3 600
-
-    *   159
-
-    *   293
-
-    *   369
-
-    *   241
-
-
-*    *   3 600 –  3 800
-
-    *   169
-
-    *   306
-
-    *   387
-
-    *   255
-
-
-*    *   3 800 –  4 000
-
-    *   179
-
-    *   318
-
-    *   407
-
-    *   270
-
-
-*    *   4 000 –  4 200
-
-    *   189
-
-    *   330
-
-    *   426
-
-    *   286
-
-
-*    *   4 200 –  4 400
-
-    *   199
-
-    *   342
-
-    *   445
-
-    *   299
-
-
-*    *   4 400 –  4 600
-
-    *   210
-
-    *   354
-
-    *   464
-
-    *   315
-
-
-*    *   4 600 –  4 800
-
-    *   225
-
-    *   367
-
-    *   484
-
-    *   339
-
-
-*    *   4 800 –  5 000
-
-    *   247
-
-    *   381
-
-    *   505
-
-    *   355
-
-
-*    *   5 000 –  5 500
-
-    *   273
-
-    *   402
-
-    *   543
-
-    *   391
-
-
-*    *   5 500 –  6 000
-
-    *   301
-
-    *   431
-
-    *   581
-
-    *   416
-
-
-*    *   6 000 –  6 500
-
-    *   329
-
-    *   469
-
-    *   620
-
-    *   453
-
-
-*    *   6 500 –  7 000
-
-    *   361
-
-    *   507
-
-    *   658
-
-    *   490
-
-
-*    *   7 000 –  7 500
-
-    *   396
-
-    *   541
-
-    *   698
-
-    *   526
-
-
-*    *   7 500 –  8 000
-
-    *   431
-
-    *   575
-
-    *   738
-
-    *   564
-
-
-*    *   8 000 –  8 500
-
-    *   467
-
-    *   606
-
-    *   778
-
-    *   601
-
-
-*    *   8 500 –  9 000
-
-    *   502
-
-    *   635
-
-    *   817
-
-    *   639
-
-
-*    *   9 000 –  9 500
-
-    *   537
-
-    *   663
-
-    *   857
-
-    *   676
-
-
-*    *   9 500 – 10 000
-
-    *   571
-
-    *   690
-
-    *   897
-
-    *   694
-
-
-*    *   10 000 – 10 500
-
-    *   596
-
-    *   715
-
-    *   936
-
-    *   713
-
-
-*    *   10 500 – 11 000
-
-    *   620
-
-    *   740
-
-    *   975
-
-    *   731
-
-
-*    *   11 000 – 11 500
-
-    *   643
-
-    *   765
-
-    *   1 015
-
-    *   766
-
-
-*    *   11 500 – 12 000
-
-    *   668
-
-    *   791
-
-    *   1 056
-
-    *   801
-
-
-*    *   12 000 – 12 500
-
-    *   696
-
-    *   817
-
-    *   1 097
-
-    *   837
-
-
-*    *   12 500 – 13 000
-
-    *   727
-
-    *   844
-
-    *   1 136
-
-    *   873
-
-
-*    *   13 000 – 13 500
-
-    *   758
-
-    *   873
-
-    *   1 175
-
-    *   907
-
-
-*    *   13 500 – 14 000
-
-    *   788
-
-    *   900
-
-    *   1 213
-
-    *   945
-
-
-*    *   14 000 – 14 500
-
-    *   819
-
-    *   926
-
-    *   1 252
-
-    *   982
-
-
-*    *   14 500 – 15 000
-
-    *   850
-
-    *   952
-
-    *   1 288
-
-    *   1 018
-
-
-*    *   15 000 – 15 500
-
-    *   881
-
-    *   978
-
-    *   1 324
-
-    *   1 055
-
-
-*    *   15 500 – 16 000
-
-    *   913
-
-    *   1 006
-
-    *   1 360
-
-    *   1 091
-
-
-*    *   16 000 – 16 500
-
-    *   945
-
-    *   1 033
-
-    *   1 397
-
-    *   1 128
-
-
-*    *   16 500 – 17 000
-
-    *   977
-
-    *   1 060
-
-    *   1 435
-
-    *   1 165
-
-
-*    *   17 000 – 17 500
-
-    *   1 009
-
-    *   1 087
-
-    *   1 474
-
-    *   1 204
-
-
-*    *   17 500 – 18 000
-
-    *   1 040
-
-    *   1 115
-
-    *   1 515
-
-    *   1 241
-
-
-*    *   18 000 – 18 500
-
-    *   1 072
-
-    *   1 142
-
-    *   1 554
-
-    *   1 280
-
-
-*    *   18 500 – 19 000
-
-    *   1 104
-
-    *   1 167
-
-    *   1 593
-
-    *   1 318
-
-
-*    *   19 000 – 19 500
-
-    *   1 136
-
-    *   1 192
-
-    *   1 632
-
-    *   1 356
-
-
-*    *   19 500 – 20 000
-
-    *   1 168
-
-    *   1 213
-
-    *   1 671
-
-    *   1 394
-
-
-*    *   20 000 – 20 500
-
-    *   1 200
-
-    *   1 234
-
-    *   1 709
-
-    *   1 433
-
-
-*    *   20 500 – 21 000
-
-    *   1 232
-
-    *   1 255
-
-    *   1 743
-
-    *   1 470
-
-
-*    *   21 000 – 21 500
-
-    *   1 264
-
-    *   1 278
-
-    *   1 777
-
-    *   1 509
-
-
-*    *   21 500 – 22 000
-
-    *   1 296
-
-    *   1 301
-
-    *   1 811
-
-    *   1 547
-
-
-*    *   22 000 – 22 500
-
-    *   1 328
-
-    *   1 324
-
-    *   1 848
-
-    *   1 586
-
-
-*    *   22 500 – 23 000
-
-    *   1 360
-
-    *   1 348
-
-    *   1 886
-
-    *   1 623
-
-
-*    *   23 000 – 23 500
-
-    *   1 392
-
-    *   1 370
-
-    *   1 925
-
-    *   1 663
-
-
-*    *   23 500 – 24 000
-
-    *   1 424
-
-    *   1 392
-
-    *   1 964
-
-    *   1 700
-
-
-*    *   24 000 – 24 500
-
-    *   1 456
-
-    *   1 414
-
-    *   2 003
-
-    *   1 733
-
-
-*    *   24 500 – 25 000
-
-    *   1 487
-
-    *   1 437
-
-    *   2 042
-
-    *   1 775
-
-
-*    *   25 000 – 25 500
-
-    *   1 517
-
-    *   1 461
-
-    *   2 081
-
-    *   1 817
-
-
-*    *   25 500 – 26 000
-
-    *   1 546
-
-    *   1 484
-
-    *   2 120
-
-    *   1 860
-
-
-*    *   26 000 – 26 500
-
-    *   1 575
-
-    *   1 507
-
-    *   2 159
-
-    *   1 900
-
-
-*    *   26 500 – 27 000
-
-    *   1 605
-
-    *   1 530
-
-    *   2 198
-
-    *   1 942
-
-
-*    *   27 000 – 27 500
-
-    *   1 636
-
-    *   1 553
-
-    *   2 236
-
-    *   1 984
-
-
-*    *   27 500 – 28 000
-
-    *   1 668
-
-    *   1 576
-
-    *   2 275
-
-    *   2 026
-
-
-*    *   28 000 – 28 500
-
-    *   1 702
-
-    *   1 599
-
-    *   2 307
-
-    *   2 067
-
-
-*    *   28 500 – 29 000
-
-    *   1 741
-
-    *   1 622
-
-    *   2 339
-
-    *   2 109
-
-
-*    *   29 000 – 29 500
-
-    *   1 781
-
-    *   1 646
-
-    *   2 371
-
-    *   2 152
-
-
-*    *   29 500 – 30 000
-
-    *   1 822
-
-    *   1 670
-
-    *   2 405
-
-    *   2 194
-
-
-*    *   30 000 – 31 000
-
-    *   1 864
-
-    *   1 699
-
-    *   2 440
-
-    *   2 234
-
-
-*    *   31 000 – 32 000
-
-    *   1 918
-
-    *   1 734
-
-    *   2 478
-
-    *   2 276
-
-
-*    *   32 000 – 33 000
-
-    *   1 986
-
-    *   1 777
-
-    *   2 532
-
-    *   2 319
-
-
-*    *   33 000 – 34 000
-
-    *   2 055
-
-    *   1 826
-
-    *   2 596
-
-    *   2 359
-
-
-*    *   34 000 – 35 000
-
-    *   2 122
-
-    *   1 883
-
-    *   2 660
-
-    *   2 402
-
-
-*    *   35 000 – 36 000
-
-    *   2 186
-
-    *   1 947
-
-    *   2 685
-
-    *   2 444
-
-
-*    *   36 000 – 37 000
-
-    *   2 250
-
-    *   2 013
-
-    *   2 685
-
-    *   2 486
-
-
-*    *   37 000 – 38 000
-
-    *   2 314
-
-    *   2 085
-
-    *   2 685
-
-    *   2 526
-
-
-*    *   38 000 – 39 000
-
-    *   2 379
-
-    *   2 166
-
-    *   2 685
-
-    *   2 568
-
-
-*    *   39 000 – 40 000
-
-    *   2 443
-
-    *   2 251
-
-    *   2 685
-
-    *   2 611
-
-
-*    *   40 000 – 42 000
-
-    *   2 496
-
-    *   2 332
-
-    *   2 685
-
-    *   2 631
-
-
-*    *   42 000 – 44 000
-
-    *   2 539
-
-    *   2 408
-
-    *   2 685
-
-    *   2 648
-
-
-*    *   44 000 – 46 000
-
-    *   2 582
-
-    *   2 482
-
-    *   2 685
-
-    *   2 659
-
-
-*    *   46 000 – 48 000
-
-    *   2 616
-
-    *   2 557
-
-    *   2 685
-
-    *   2 673
-
-
-*    *   48 000 – 50 000
-
-    *   2 646
-
-    *   2 600
-
-    *   2 685
-
-    *   2 684
-
-
-*    *   50 000 – 52 000
-
-    *   2 665
-
-    *   2 643
-
-    *   2 685
-
-    *   2 684
-
-
-*    *   über 52 000
-
-    *   2 685
-
-    *   2 685
-
-    *   2 685
-
-    *   2 685
-
-
-
-### Teil II
-
-
-*    *   Bruttoraumzahl
-
-    *   Nord-Ostsee-Kanal
-        Euro
-
-    *   Kieler Förde
-        Euro
-
-    *   Trave
-        Euro
-
-    *   Flensburger Förde
-        Euro
-
-
-*    *   über – bis
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   0 –    300
-
-    *   19
-
-    *   16
-
-    *   14
-
-    *   16
-
-
-*    *   300 –    400
-
-    *   25
-
-    *   18
-
-    *   17
-
-    *   19
-
-
-*    *   400 –    500
-
-    *   32
-
-    *   19
-
-    *   20
-
-    *   22
-
-
-*    *   500 –    600
-
-    *   37
-
-    *   22
-
-    *   25
-
-    *   25
-
-
-*    *   600 –    700
-
-    *   44
-
-    *   25
-
-    *   28
-
-    *   29
-
-
-*    *   700 –    800
-
-    *   47
-
-    *   29
-
-    *   30
-
-    *   35
-
-
-*    *   800 –    900
-
-    *   52
-
-    *   32
-
-    *   34
-
-    *   37
-
-
-*    *   900 –  1 000
-
-    *   58
-
-    *   35
-
-    *   39
-
-    *   41
-
-
-*    *   1 000 –  1 100
-
-    *   60
-
-    *   39
-
-    *   42
-
-    *   48
-
-
-*    *   1 100 –  1 200
-
-    *   62
-
-    *   41
-
-    *   43
-
-    *   57
-
-
-*    *   1 200 –  1 300
-
-    *   65
-
-    *   43
-
-    *   46
-
-    *   61
-
-
-*    *   1 300 –  1 400
-
-    *   67
-
-    *   45
-
-    *   49
-
-    *   65
-
-
-*    *   1 400 –  1 500
-
-    *   70
-
-    *   46
-
-    *   52
-
-    *   72
-
-
-*    *   1 500 –  1 600
-
-    *   72
-
-    *   49
-
-    *   57
-
-    *   79
-
-
-*    *   1 600 –  1 700
-
-    *   75
-
-    *   52
-
-    *   62
-
-    *   83
-
-
-*    *   1 700 –  1 800
-
-    *   79
-
-    *   57
-
-    *   65
-
-    *   89
-
-
-*    *   1 800 –  1 900
-
-    *   80
-
-    *   59
-
-    *   68
-
-    *   93
-
-
-*    *   1 900 –  2 000
-
-    *   82
-
-    *   62
-
-    *   72
-
-    *   97
-
-
-*    *   2 000 –  2 100
-
-    *   87
-
-    *   65
-
-    *   75
-
-    *   110
-
-
-*    *   2 100 –  2 200
-
-    *   89
-
-    *   68
-
-    *   80
-
-    *   121
-
-
-*    *   2 200 –  2 300
-
-    *   91
-
-    *   72
-
-    *   83
-
-    *   126
-
-
-*    *   2 300 –  2 400
-
-    *   92
-
-    *   73
-
-    *   88
-
-    *   131
-
-
-*    *   2 400 –  2 500
-
-    *   94
-
-    *   75
-
-    *   92
-
-    *   137
-
-
-*    *   2 500 –  2 600
-
-    *   96
-
-    *   80
-
-    *   94
-
-    *   141
-
-
-*    *   2 600 –  2 700
-
-    *   100
-
-    *   82
-
-    *   97
-
-    *   147
-
-
-*    *   2 700 –  2 800
-
-    *   105
-
-    *   87
-
-    *   103
-
-    *   151
-
-
-*    *   2 800 –  2 900
-
-    *   107
-
-    *   90
-
-    *   107
-
-    *   156
-
-
-*    *   2 900 –  3 000
-
-    *   109
-
-    *   93
-
-    *   110
-
-    *   161
-
-
-*    *   3 000 –  3 200
-
-    *   116
-
-    *   96
-
-    *   117
-
-    *   208
-
-
-*    *   3 200 –  3 400
-
-    *   121
-
-    *   102
-
-    *   121
-
-    *   219
-
-
-*    *   3 400 –  3 600
-
-    *   126
-
-    *   106
-
-    *   128
-
-    *   229
-
-
-*    *   3 600 –  3 800
-
-    *   129
-
-    *   110
-
-    *   132
-
-    *   240
-
-
-*    *   3 800 –  4 000
-
-    *   137
-
-    *   114
-
-    *   138
-
-    *   249
-
-
-*    *   4 000 –  4 200
-
-    *   141
-
-    *   120
-
-    *   142
-
-    *   271
-
-
-*    *   4 200 –  4 400
-
-    *   142
-
-    *   124
-
-    *   149
-
-    *   281
-
-
-*    *   4 400 –  4 600
-
-    *   148
-
-    *   131
-
-    *   154
-
-    *   293
-
-
-*    *   4 600 –  4 800
-
-    *   149
-
-    *   137
-
-    *   159
-
-    *   305
-
-
-*    *   4 800 –  5 000
-
-    *   151
 
     *   144
 
-    *   166
+    *   101
 
-    *   315
-
-
-*    *   5 000 –  5 500
-
-    *   158
-
-    *   150
-
-    *   173
-
-    *   369
-
-
-*    *   5 500 –  6 000
-
-    *   163
-
-    *   155
-
-    *   187
-
-    *   401
-
-
-*    *   6 000 –  6 500
-
-    *   172
-
-    *   165
-
-    *   199
-
-    *   482
-
-
-*    *   6 500 –  7 000
-
-    *   178
-
-    *   173
-
-    *   215
-
-    *   518
-
-
-*    *   7 000 –  7 500
-
-    *   185
-
-    *   185
-
-    *   227
-
-    *   603
-
-
-*    *   7 500 –  8 000
-
-    *   193
-
-    *   194
-
-    *   242
-
-    *   642
-
-
-*    *   8 000 –  8 500
-
-    *   199
-
-    *   202
-
-    *   256
-
-    *   677
-
-
-*    *   8 500 –  9 000
-
-    *   204
-
-    *   217
-
-    *   269
-
-    *   715
-
-
-*    *   9 000 –  9 500
-
-    *   212
-
-    *   228
-
-    *   284
-
-    *   753
-
-
-*    *   9 500 – 10 000
-
-    *   219
-
-    *   241
-
-    *   294
-
-    *   806
-
-
-*    *   10 000 – 10 500
-
-    *   224
-
-    *   251
-
-    *   310
-
-    *   863
-
-
-*    *   10 500 – 11 000
-
-    *   231
-
-    *   264
-
-    *   323
-
-    *   918
-
-
-*    *   11 000 – 11 500
-
-    *   238
-
-    *   269
-
-    *   335
-
-    *   949
-
-
-*    *   11 500 – 12 000
-
-    *   245
-
-    *   275
-
-    *   343
-
-    *   1 035
-
-
-*    *   12 000 – 12 500
-
-    *   249
-
-    *   288
-
-    *   354
-
-    *   1 099
-
-
-*    *   12 500 – 13 000
-
-    *   259
-
-    *   295
-
-    *   364
-
-    *   1 141
-
-
-*    *   13 000 – 13 500
-
-    *   265
-
-    *   308
-
-    *   377
-
-    *   1 176
-
-
-*    *   13 500 – 14 000
-
-    *   269
-
-    *   321
-
-    *   387
-
-    *   1 220
-
-
-*    *   14 000 – 14 500
-
-    *   277
-
-    *   332
-
-    *   398
-
-    *   1 262
-
-
-*    *   14 500 – 15 000
-
-    *   285
-
-    *   340
-
-    *   409
-
-    *   1 342
-
-
-*    *   15 000 – 15 500
-
-    *   291
-
-    *   351
-
-    *   413
-
-    *   1 401
-
-
-*    *   15 500 – 16 000
-
-    *   299
-
-    *   361
-
-    *   419
-
-    *   1 459
-
-
-*    *   16 000 – 16 500
-
-    *   306
-
-    *   371
-
-    *   425
-
-    *   1 504
-
-
-*    *   16 500 – 17 000
-
-    *   312
-
-    *   381
-
-    *   429
-
-    *   1 549
-
-
-*    *   17 000 – 17 500
-
-    *   320
-
-    *   388
-
-    *   434
-
-    *   1 593
-
-
-*    *   17 500 – 18 000
-
-    *   326
-
-    *   398
-
-    *   440
-
-    *   1 637
-
-
-*    *   18 000 – 18 500
-
-    *   333
-
-    *   407
-
-    *   445
-
-    *   1 662
-
-
-*    *   18 500 – 19 000
-
-    *   338
-
-    *   416
-
-    *   450
-
-    *   1 686
-
-
-*    *   19 000 – 19 500
-
-    *   345
-
-    *   425
-
-    *   456
-
-    *   1 715
-
-
-*    *   19 500 – 20 000
-
-    *   352
-
-    *   433
-
-    *   462
-
-    *   1 745
-
-
-*    *   20 000 – 20 500
-
-    *   360
-
-    *   442
-
-    *   468
-
-    *   1 775
-
-
-*    *   20 500 – 21 000
-
-    *   366
-
-    *   450
-
-    *   473
-
-    *   1 804
-
-
-*    *   21 000 – 21 500
-
-    *   375
-
-    *   459
-
-    *   477
-
-    *   1 836
-
-
-*    *   21 500 – 22 000
-
-    *   381
-
-    *   469
-
-    *   482
-
-    *   1 867
-
-
-*    *   22 000 – 22 500
-
-    *   387
-
-    *   477
-
-    *   489
-
-    *   1 900
-
-
-*    *   22 500 – 23 000
-
-    *   395
-
-    *   487
-
-    *   495
-
-    *   1 932
-
-
-*    *   23 000 – 23 500
-
-    *   401
-
-    *   494
-
-    *   501
-
-    *   1 968
-
-
-*    *   23 500 – 24 000
-
-    *   408
-
-    *   502
-
-    *   504
-
-    *   2 001
-
-
-*    *   24 000 – 24 500
-
-    *   414
-
-    *   511
-
-    *   510
-
-    *   2 036
-
-
-*    *   24 500 – 25 000
-
-    *   421
-
-    *   521
-
-    *   515
-
-    *   2 069
-
-
-*    *   25 000 – 25 500
-
-    *   427
-
-    *   532
-
-    *   521
-
-    *   2 107
-
-
-*    *   25 500 – 26 000
-
-    *   433
-
-    *   541
-
-    *   525
-
-    *   2 143
-
-
-*    *   26 000 – 26 500
-
-    *   441
-
-    *   552
-
-    *   532
-
-    *   2 181
-
-
-*    *   26 500 – 27 000
-
-    *   447
-
-    *   562
-
-    *   537
-
-    *   2 219
-
-
-*    *   27 000 – 27 500
-
-    *   455
-
-    *   571
-
-    *   542
-
-    *   2 248
-
-
-*    *   27 500 – 28 000
-
-    *   461
-
-    *   581
-
-    *   548
-
-    *   2 278
-
-
-*    *   28 000 – 28 500
-
-    *   469
-
-    *   591
-
-    *   553
-
-    *   2 278
-
-
-*    *   28 500 – 29 000
-
-    *   475
-
-    *   601
-
-    *   557
-
-    *   2 278
-
-
-*    *   29 000 – 29 500
-
-    *   482
-
-    *   611
-
-    *   564
-
-    *   2 278
-
-
-*    *   29 500 – 30 000
-
-    *   489
-
-    *   622
-
-    *   568
-
-    *   2 278
-
-
-*    *   30 000 – 31 000
-
-    *   502
-
-    *   631
-
-    *   580
-
-    *   2 278
-
-
-*    *   31 000 – 32 000
-
-    *   516
-
-    *   642
-
-    *   590
-
-    *   2 278
-
-
-*    *   32 000 – 33 000
-
-    *   530
-
-    *   652
-
-    *   601
-
-    *   2 278
-
-
-*    *   33 000 – 34 000
-
-    *   542
-
-    *   660
-
-    *   611
-
-    *   2 278
-
-
-*    *   34 000 – 35 000
-
-    *   557
-
-    *   672
-
-    *   622
-
-    *   2 278
-
-
-*    *   35 000 – 36 000
-
-    *   570
-
-    *   675
-
-    *   631
-
-    *   2 278
-
-
-*    *   36 000 – 37 000
-
-    *   584
-
-    *   690
-
-    *   644
-
-    *   2 278
-
-
-*    *   37 000 – 38 000
-
-    *   598
-
-    *   703
-
-    *   654
-
-    *   2 278
-
-
-*    *   38 000 – 39 000
-
-    *   611
-
-    *   718
-
-    *   664
-
-    *   2 278
-
-
-*    *   39 000 – 40 000
-
-    *   625
-
-    *   729
-
-    *   674
-
-    *   2 278
-
-
-*    *   40 000 – 42 000
-
-    *   653
-
-    *   759
-
-    *   696
-
-    *   2 278
-
-
-*    *   42 000 – 44 000
-
-    *   679
-
-    *   785
-
-    *   717
-
-    *   2 278
-
-
-*    *   44 000 – 46 000
-
-    *   706
-
-    *   812
-
-    *   737
-
-    *   2 278
-
-
-*    *   46 000 – 48 000
-
-    *   734
-
-    *   838
-
-    *   759
-
-    *   2 278
-
-
-*    *   48 000 – 50 000
-
-    *   762
-
-    *   866
-
-    *   780
-
-    *   2 278
-
-
-*    *   für jede weiteren
-        angefangenen
-        2 000 über 50 000
-
-    *   29
-
-    *   27
-
-    *   6
-
-    *   –
-
-
-*    *   höchstens jedoch
-
-    *   2 278
-
-    *   2 278
-
-    *   2 278
-
-    *   2 278
-
-
-
-### Teil III
-
-
-*    *   Bruttoraumzahl
-
-    *   Wismar
-        Euro
-
-    *   Rostock
-        Euro
-
-    *   Stralsund
-        Euro
-
-
-*    *   über – bis
-
-    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   0 –    300
-
-    *   17
-
-    *   15
-
-    *   18
-
-
-*    *   300 –    400
-
-    *   22
-
-    *   17
-
-    *   24
-
-
-*    *   400 –    500
-
-    *   28
-
-    *   21
-
-    *   31
-
-
-*    *   500 –    600
-
-    *   59
-
-    *   42
-
-    *   64
-
-
-*    *   600 –    700
-
-    *   71
-
-    *   48
-
-    *   76
-
-
-*    *   700 –    800
-
-    *   81
-
-    *   58
-
-    *   88
-
-
-*    *   800 –    900
-
-    *   91
-
-    *   65
-
-    *   98
-
-
-*    *   900 –  1 000
-
-    *   102
-
-    *   72
-
-    *   111
+    *   157
 
 
 *    *   1 000 –  1 100
 
-    *   108
+    *   153
 
-    *   80
+    *   112
 
-    *   118
+    *   167
 
 
 *    *   1 100 –  1 200
 
-    *   118
+    *   167
 
-    *   88
+    *   125
 
-    *   129
+    *   182
 
 
 *    *   1 200 –  1 300
 
-    *   129
+    *   182
 
-    *   94
-
-    *   139
-
-
-*    *   1 300 –  1 400
-
-    *   138
-
-    *   104
-
-    *   151
-
-
-*    *   1 400 –  1 500
-
-    *   150
-
-    *   110
-
-    *   163
-
-
-*    *   1 500 –  1 600
-
-    *   159
-
-    *   117
-
-    *   173
-
-
-*    *   1 600 –  1 700
-
-    *   170
-
-    *   125
-
-    *   185
-
-
-*    *   1 700 –  1 800
-
-    *   180
-
-    *   134
+    *   133
 
     *   197
 
 
-*    *   1 800 –  1 900
+*    *   1 300 –  1 400
 
-    *   189
+    *   195
 
-    *   139
+    *   147
 
-    *   208
-
-
-*    *   1 900 –  2 000
-
-    *   200
-
-    *   148
-
-    *   219
+    *   214
 
 
-*    *   2 000 –  2 100
+*    *   1 400 –  1 500
 
-    *   211
+    *   213
 
-    *   150
+    *   156
 
     *   230
 
 
-*    *   2 100 –  2 200
+*    *   1 500 –  1 600
 
-    *   220
+    *   226
 
-    *   157
+    *   166
+
+    *   244
+
+
+*    *   1 600 –  1 700
 
     *   241
+
+    *   178
+
+    *   262
+
+
+*    *   1 700 –  1 800
+
+    *   256
+
+    *   189
+
+    *   279
+
+
+*    *   1 800 –  1 900
+
+    *   269
+
+    *   197
+
+    *   294
+
+
+*    *   1 900 –  2 000
+
+    *   284
+
+    *   210
+
+    *   310
+
+
+*    *   2 000 –  2 100
+
+    *   300
+
+    *   213
+
+    *   325
+
+
+*    *   2 100 –  2 200
+
+    *   311
+
+    *   223
+
+    *   340
 
 
 *    *   2 200 –  2 300
 
+    *   326
+
     *   231
 
-    *   164
-
-    *   253
+    *   357
 
 
 *    *   2 300 –  2 400
 
-    *   242
+    *   341
 
-    *   172
-
-    *   263
-
-
-*    *   2 400 –  2 500
-
-    *   251
-
-    *   179
-
-    *   274
-
-
-*    *   2 500 –  2 600
-
-    *   262
-
-    *   186
-
-    *   286
-
-
-*    *   2 600 –  2 700
-
-    *   272
-
-    *   194
-
-    *   296
-
-
-*    *   2 700 –  2 800
-
-    *   284
-
-    *   200
-
-    *   309
-
-
-*    *   2 800 –  2 900
-
-    *   293
-
-    *   208
-
-    *   319
-
-
-*    *   2 900 –  3 000
-
-    *   302
-
-    *   215
-
-    *   332
-
-
-*    *   3 000 –  3 200
-
-    *   318
-
-    *   221
-
-    *   349
-
-
-*    *   3 200 –  3 400
-
-    *   339
-
-    *   229
+    *   243
 
     *   371
 
 
-*    *   3 400 –  3 600
+*    *   2 400 –  2 500
 
-    *   360
-
-    *   242
-
-    *   392
-
-
-*    *   3 600 –  3 800
-
-    *   380
+    *   355
 
     *   255
 
-    *   414
+    *   387
 
 
-*    *   3 800 –  4 000
+*    *   2 500 –  2 600
 
-    *   401
+    *   370
 
-    *   269
+    *   263
 
-    *   439
+    *   406
 
 
-*    *   4 000 –  4 200
+*    *   2 600 –  2 700
 
-    *   421
+    *   384
+
+    *   274
+
+    *   419
+
+
+*    *   2 700 –  2 800
+
+    *   402
 
     *   284
 
-    *   459
+    *   438
 
 
-*    *   4 200 –  4 400
+*    *   2 800 –  2 900
 
-    *   442
+    *   415
 
-    *   295
+    *   294
 
-    *   482
-
-
-*    *   4 400 –  4 600
-
-    *   463
-
-    *   310
-
-    *   504
+    *   452
 
 
-*    *   4 600 –  4 800
+*    *   2 900 –  3 000
 
-    *   482
+    *   428
 
-    *   322
+    *   306
+
+    *   470
+
+
+*    *   3 000 –  3 200
+
+    *   450
+
+    *   312
+
+    *   495
+
+
+*    *   3 200 –  3 400
+
+    *   480
+
+    *   324
 
     *   526
 
 
+*    *   3 400 –  3 600
+
+    *   510
+
+    *   341
+
+    *   555
+
+
+*    *   3 600 –  3 800
+
+    *   538
+
+    *   362
+
+    *   585
+
+
+*    *   3 800 –  4 000
+
+    *   567
+
+    *   381
+
+    *   623
+
+
+*    *   4 000 –  4 200
+
+    *   596
+
+    *   402
+
+    *   649
+
+
+*    *   4 200 –  4 400
+
+    *   626
+
+    *   418
+
+    *   682
+
+
+*    *   4 400 –  4 600
+
+    *   655
+
+    *   439
+
+    *   714
+
+
+*    *   4 600 –  4 800
+
+    *   682
+
+    *   456
+
+    *   745
+
+
 *    *   4 800 –  5 000
 
-    *   503
+    *   713
 
-    *   338
+    *   480
 
-    *   549
+    *   777
 
 
 *    *   5 000 –  5 500
 
-    *   524
+    *   742
 
-    *   338
+    *   483
 
-    *   571
+    *   809
 
 
 *    *   5 500 –  6 000
 
-    *   545
+    *   773
 
-    *   352
+    *   499
 
-    *   594
+    *   840
 
 
 *    *   6 000 –  6 500
 
-    *   565
+    *   801
 
-    *   366
+    *   518
 
-    *   616
+    *   872
 
 
 *    *   6 500 –  7 000
 
-    *   586
+    *   830
 
-    *   380
+    *   538
 
-    *   639
+    *   905
 
 
 *    *   7 000 –  7 500
 
-    *   606
+    *   858
 
-    *   394
+    *   557
 
-    *   661
+    *   935
 
 
 *    *   7 500 –  8 000
 
-    *   627
+    *   888
 
-    *   408
+    *   579
 
-    *   684
+    *   967
 
 
 *    *   8 000 –  8 500
 
-    *   647
+    *   917
 
-    *   422
+    *   597
 
-    *   706
+    *   1 000
 
 
 *    *   8 500 –  9 000
 
-    *   668
+    *   947
 
-    *   434
+    *   613
 
-    *   728
+    *   1 031
 
 
 *    *   9 000 –  9 500
 
-    *   689
+    *   976
 
-    *   448
+    *   635
 
-    *   750
+    *   1 061
 
 
 *    *   9 500 – 10 000
 
-    *   709
+    *   1 004
 
-    *   463
+    *   655
 
-    *   774
+    *   1 096
 
 
 *    *   10 000 – 10 500
 
-    *   729
+    *   1 033
 
-    *   506
+    *   718
 
-    *   795
+    *   1 127
 
 
 *    *   10 500 – 11 000
 
-    *   749
+    *   1 060
 
-    *   530
+    *   750
 
-    *   817
+    *   1 157
 
 
 *    *   11 000 – 11 500
 
-    *   770
+    *   1 091
 
-    *   553
+    *   783
 
-    *   841
+    *   1 191
 
 
 *    *   11 500 – 12 000
 
-    *   791
+    *   1 121
 
-    *   578
+    *   819
 
-    *   863
+    *   1 222
 
 
 *    *   12 000 – 12 500
 
-    *   811
+    *   1 148
 
-    *   602
+    *   853
 
-    *   885
+    *   1 254
 
 
 *    *   12 500 – 13 000
 
-    *   831
+    *   1 177
 
-    *   626
+    *   886
 
-    *   907
+    *   1 285
 
 
 *    *   13 000 – 13 500
 
-    *   853
+    *   1 207
 
-    *   651
+    *   921
 
-    *   930
+    *   1 317
 
 
 *    *   13 500 – 14 000
 
-    *   873
+    *   1 236
 
-    *   675
+    *   957
 
-    *   952
+    *   1 349
 
 
 *    *   14 000 – 14 500
 
-    *   893
+    *   1 265
 
-    *   699
+    *   991
 
-    *   975
+    *   1 381
 
 
 *    *   14 500 – 15 000
 
-    *   914
+    *   1 293
 
-    *   723
+    *   1 024
 
-    *   998
+    *   1 413
 
 
 *    *   15 000 – 15 500
 
-    *   934
+    *   1 323
 
-    *   747
-
-    *   1 020
-
-
-*    *   15 500 – 16 000
-
-    *   956
-
-    *   771
-
-    *   1 042
-
-
-*    *   16 000 – 16 500
-
-    *   975
-
-    *   795
-
-    *   1 065
-
-
-*    *   16 500 – 17 000
-
-    *   995
-
-    *   821
-
-    *   1 087
-
-
-*    *   17 000 – 17 500
-
-    *   1 017
-
-    *   844
-
-    *   1 110
-
-
-*    *   17 500 – 18 000
-
-    *   1 037
-
-    *   869
-
-    *   1 132
-
-
-*    *   18 000 – 18 500
-
-    *   1 057
-
-    *   893
-
-    *   1 155
-
-
-*    *   18 500 – 19 000
-
-    *   1 079
-
-    *   917
-
-    *   1 177
-
-
-*    *   19 000 – 19 500
-
-    *   1 099
-
-    *   920
-
-    *   1 199
-
-
-*    *   19 500 – 20 000
-
-    *   1 119
-
-    *   923
-
-    *   1 222
-
-
-*    *   20 000 – 20 500
-
-    *   1 140
-
-    *   927
-
-    *   1 243
-
-
-*    *   20 500 – 21 000
-
-    *   1 161
-
-    *   930
-
-    *   1 266
-
-
-*    *   21 000 – 21 500
-
-    *   1 182
-
-    *   934
-
-    *   1 289
-
-
-*    *   21 500 – 22 000
-
-    *   1 201
-
-    *   937
-
-    *   1 312
-
-
-*    *   22 000 – 22 500
-
-    *   1 222
-
-    *   941
-
-    *   1 334
-
-
-*    *   22 500 – 23 000
-
-    *   1 242
-
-    *   945
-
-    *   1 357
-
-
-*    *   23 000 – 23 500
-
-    *   1 263
-
-    *   948
-
-    *   1 378
-
-
-*    *   23 500 – 24 000
-
-    *   1 284
-
-    *   951
-
-    *   1 402
-
-
-*    *   24 000 – 24 500
-
-    *   1 304
-
-    *   956
-
-    *   1 423
-
-
-*    *   24 500 – 25 000
-
-    *   1 325
-
-    *   959
+    *   1 058
 
     *   1 446
 
 
-*    *   25 000 – 25 500
+*    *   15 500 – 16 000
 
-    *   1 345
+    *   1 355
 
-    *   973
+    *   1 092
 
-    *   1 468
-
-
-*    *   25 500 – 26 000
-
-    *   1 366
-
-    *   976
-
-    *   1 491
+    *   1 476
 
 
-*    *   26 000 – 26 500
+*    *   16 000 – 16 500
 
-    *   1 387
+    *   1 381
 
-    *   980
+    *   1 127
 
-    *   1 513
-
-
-*    *   26 500 – 27 000
-
-    *   1 407
-
-    *   983
-
-    *   1 535
+    *   1 509
 
 
-*    *   27 000 – 27 500
+*    *   16 500 – 17 000
 
-    *   1 428
+    *   1 410
 
-    *   987
+    *   1 162
 
-    *   1 558
-
-
-*    *   27 500 – 28 000
-
-    *   1 447
-
-    *   990
-
-    *   1 580
+    *   1 541
 
 
-*    *   28 000 – 28 500
+*    *   17 000 – 17 500
+
+    *   1 441
+
+    *   1 194
+
+    *   1 572
+
+
+*    *   17 500 – 18 000
 
     *   1 468
 
-    *   998
+    *   1 231
 
     *   1 603
 
 
+*    *   18 000 – 18 500
+
+    *   1 498
+
+    *   1 265
+
+    *   1 637
+
+
+*    *   18 500 – 19 000
+
+    *   1 528
+
+    *   1 299
+
+    *   1 668
+
+
+*    *   19 000 – 19 500
+
+    *   1 557
+
+    *   1 303
+
+    *   1 698
+
+
+*    *   19 500 – 20 000
+
+    *   1 585
+
+    *   1 306
+
+    *   1 731
+
+
+*    *   20 000 – 20 500
+
+    *   1 614
+
+    *   1 314
+
+    *   1 760
+
+
+*    *   20 500 – 21 000
+
+    *   1 644
+
+    *   1 317
+
+    *   1 792
+
+
+*    *   21 000 – 21 500
+
+    *   1 675
+
+    *   1 323
+
+    *   1 825
+
+
+*    *   21 500 – 22 000
+
+    *   1 701
+
+    *   1 327
+
+    *   1 858
+
+
+*    *   22 000 – 22 500
+
+    *   1 731
+
+    *   1 332
+
+    *   1 887
+
+
+*    *   22 500 – 23 000
+
+    *   1 759
+
+    *   1 339
+
+    *   1 922
+
+
+*    *   23 000 – 23 500
+
+    *   1 788
+
+    *   1 342
+
+    *   1 952
+
+
+*    *   23 500 – 24 000
+
+    *   1 818
+
+    *   1 346
+
+    *   1 985
+
+
+*    *   24 000 – 24 500
+
+    *   1 846
+
+    *   1 355
+
+    *   2 015
+
+
+*    *   24 500 – 25 000
+
+    *   1 878
+
+    *   1 358
+
+    *   2 048
+
+
+*    *   25 000 – 25 500
+
+    *   1 906
+
+    *   1 378
+
+    *   2 079
+
+
+*    *   25 500 – 26 000
+
+    *   1 935
+
+    *   1 382
+
+    *   2 111
+
+
+*    *   26 000 – 26 500
+
+    *   1 965
+
+    *   1 387
+
+    *   2 142
+
+
+*    *   26 500 – 27 000
+
+    *   1 993
+
+    *   1 391
+
+    *   2 175
+
+
+*    *   27 000 – 27 500
+
+    *   2 022
+
+    *   1 398
+
+    *   2 206
+
+
+*    *   27 500 – 28 000
+
+    *   2 049
+
+    *   1 402
+
+    *   2 237
+
+
+*    *   28 000 – 28 500
+
+    *   2 079
+
+    *   1 413
+
+    *   2 271
+
+
 *    *   28 500 – 29 000
 
-    *   1 489
+    *   2 109
 
-    *   1 008
+    *   1 427
 
-    *   1 625
+    *   2 302
 
 
 *    *   29 000 – 29 500
 
-    *   1 510
+    *   2 139
 
-    *   1 015
+    *   1 437
 
-    *   1 648
+    *   2 334
 
 
 *    *   29 500 – 30 000
 
-    *   1 530
+    *   2 167
 
-    *   1 025
+    *   1 452
 
-    *   1 670
+    *   2 366
 
 
 *    *   30 000 – 31 000
 
-    *   1 550
+    *   2 195
 
-    *   1 059
+    *   1 500
 
-    *   1 693
+    *   2 398
 
 
 *    *   31 000 – 32 000
 
-    *   1 571
+    *   2 225
 
-    *   1 094
+    *   1 548
 
-    *   1 714
+    *   2 427
 
 
 *    *   32 000 – 33 000
 
-    *   1 596
+    *   2 261
 
-    *   1 129
+    *   1 599
 
-    *   1 743
+    *   2 467
 
 
 *    *   33 000 – 34 000
 
-    *   1 646
+    *   2 332
 
-    *   1 164
+    *   1 648
 
-    *   1 797
+    *   2 546
 
 
 *    *   34 000 – 35 000
 
-    *   1 695
+    *   2 401
 
-    *   1 198
+    *   1 696
 
-    *   1 850
+    *   2 619
 
 
 *    *   35 000 – 36 000
 
-    *   1 744
+    *   2 468
 
-    *   1 233
+    *   1 745
 
-    *   1 905
+    *   2 699
 
 
 *    *   36 000 – 37 000
 
-    *   1 793
+    *   2 539
 
-    *   1 266
+    *   1 792
 
-    *   1 957
+    *   2 772
 
 
 *    *   37 000 – 38 000
 
-    *   1 843
+    *   2 610
 
-    *   1 303
+    *   1 845
 
-    *   2 013
+    *   2 849
 
 
 *    *   38 000 – 39 000
 
-    *   1 892
+    *   2 679
 
-    *   1 342
+    *   1 900
 
-    *   2 065
+    *   2 925
 
 
 *    *   39 000 – 40 000
 
-    *   1 940
+    *   2 748
 
-    *   1 384
+    *   1 960
 
-    *   2 119
+    *   3 000
 
 
 *    *   40 000 – 42 000
 
-    *   2 038
+    *   2 886
 
-    *   1 432
+    *   2 028
 
-    *   2 172
+    *   3 075
 
 
 *    *   42 000 – 44 000
 
-    *   2 136
+    *   3 025
 
-    *   1 493
+    *   2 113
 
-    *   2 226
+    *   3 153
 
 
 *    *   44 000 – 46 000
 
-    *   2 225
+    *   3 152
 
-    *   1 563
+    *   2 213
 
-    *   2 278
+    *   3 227
 
 
 *    *   46 000 – 48 000
 
-    *   2 254
+    *   3 192
 
-    *   1 635
+    *   2 317
 
-    *   2 278
+    *   3 227
 
 
 *    *   48 000 – 50 000
 
-    *   2 278
+    *   3 227
 
-    *   1 709
+    *   2 420
 
-    *   2 278
+    *   3 227
 
 
 *    *   für jede weiteren
@@ -10902,18 +4480,18 @@ Die Lotsabgabe beträgt
 
     *   –
 
-    *   64
+    *   91
 
     *   –
 
 
 *    *   höchstens jedoch
 
-    *   2 278
+    *   3 227
 
-    *   2 278
+    *   3 227
 
-    *   2 278
+    *   3 227
 
 
 
@@ -10921,7 +4499,8 @@ Die Lotsabgabe beträgt
 ## Anlage 2
 
 (Fundstelle: BGBl. I 2009, 111 - 122;
-bezgl. einzelner Änderungen vgl. Fußnote)
+bzgl. einzelner Änderungen vgl. Fußnote)
+
 **A. Verzeichnis der Lotsgelder**
 ##
 
@@ -11192,31 +4771,30 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *        *   d)
 
-        *   Hamburg und der Kaianlage vor Bützfleth
+        *   Hamburg und der Kaianlage vor Bützfleth/Stade
 
         *   90 vom Hundert
 
 
     *        *   e)
 
-        *   der Kaianlage vor Bützfleth und Brunsbüttel
+        *   der Kaianlage vor Bützfleth/Stade und Brunsbüttel
 
         *   100 vom Hundert
 
 
     *        *   f)
 
-        *   Brunsbüttel und der Außenstation des Lotsenschiffes bei der Tonne
-            „Elbe“
+        *   Brunsbüttel und der Außenstation des Lotsenschiffes
+            bei der Tonne „Elbe“
 
         *   100 vom Hundert
 
 
     *        *   g)
 
-        *   dem Elbehafen Brunsbüttel und der Außenstation des Lotsenschiffes bei
-            der
-            Tonne „Elbe“
+        *   dem Elbehafen Brunsbüttel und der Außenstation
+            des Lotsenschiffes bei der Tonne „Elbe“
 
         *   115 vom Hundert
 
@@ -11230,21 +4808,24 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *        *   i)
 
-        *   Cuxhaven und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“
+        *   Cuxhaven und der Außenstation des Lotsenschiffes
+            bei der Tonne „Elbe“
 
         *   85 vom Hundert
 
 
     *        *   j)
 
-        *   den Schleusen des Nord-Ostsee-Kanals und den Reeden vor Brunsbüttel
+        *   den Schleusen des Nord-Ostsee-Kanals
+            und den Reeden vor Brunsbüttel
 
         *   50 vom Hundert
 
 
     *        *   k)
 
-        *   den Schleusen des Nord-Ostsee-Kanals und dem Elbehafen Brunsbüttel
+        *   den Schleusen des Nord-Ostsee-Kanals
+            und dem Elbehafen Brunsbüttel
 
         *   70 vom Hundert
 
@@ -11261,6 +4842,42 @@ bezgl. einzelner Änderungen vgl. Fußnote)
         *   Hamburg und Wedel
 
         *   70 vom Hundert
+
+
+    *        *   n)
+
+        *   dem Elbehafen Brunsbüttel und Cuxhaven
+
+        *   80 vom Hundert
+
+
+    *        *   o)
+
+        *   dem Elbehafen Brunsbüttel und Wedel
+
+        *   130 vom Hundert
+
+
+    *        *   p)
+
+        *   dem Elbehafen Brunsbüttel und der Kaianlage vor
+            Bützfleth/Stade
+
+        *   115 vom Hundert
+
+
+    *        *   q)
+
+        *   Brunsbüttel und dem Ruthenstrom
+
+        *   120 vom Hundert
+
+
+    *        *   r)
+
+        *   Hamburg und dem Ruthenstrom
+
+        *   110 vom Hundert
 
 
 
@@ -11328,6 +4945,15 @@ bezgl. einzelner Änderungen vgl. Fußnote)
         *   15 vom Hundert
 
 
+    *        *   e)
+
+        *   bei Lotsungen – unmittelbar vor Antritt oder nach Abschluss
+            eine Fahrtstreckenlotsung – von oder nach dem Ölhafen Brunsbüttel
+            zusätzlich
+
+        *   15 vom Hundert
+
+
 
     des Betrages nach Abschnitt B Teil II Spalte 1;
 
@@ -11380,9 +5006,9 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *        *   c)
 
         *   den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,
-            Lübeck-Schlutup, Lübeck-Herrenwyk
+            Lübeck-Schlutup und Lübeck-Herrenwyk
 
-        *   60 vom Hundert
+        *   70 vom Hundert
 
 
     *        *   d)
@@ -11390,7 +5016,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
         *   den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“
             in der Lübecker Bucht
 
-        *   60 vom Hundert
+        *   70 vom Hundert
 
 
 
@@ -11418,7 +5044,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
             und
             der Lotsenversetzposition bei der Leuchttonne „GW/TG“
 
-        *   18 vom Hundert
+        *   15 vom Hundert
 
 
     *        *   b)
@@ -11428,7 +5054,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
             Verkehrstrennungsgebiet
             „Jade Approach“
 
-        *   16 vom Hundert
+        *   12 vom Hundert
 
 
     *        *   c)
@@ -11585,6 +5211,12 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     Baggern oder den Güterumschlag während der Fahrtstreckenlotsung.
 
 
+1.17 Baustellenfahrzeuge, die für Baustellen des Bundes tätig sind und
+    zwischen den äußeren Zufahrtsgrenzen der Schleusen Brunsbüttel und
+    Kiel-Holtenau fahren, zahlen für die Bordanwesenheit des Seelotsen pro
+    angefangener Stunde ein Beratungsgeld nach Abschnitt B Teil IV Nr. 8.
+
+
 **2** **Wartegeld**
 
 
@@ -11672,15 +5304,16 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     sind die Fahrtkosten der 1. Klasse und die Flugkosten der Economy-
     oder Business-Klasse erstattungsfähig. Für die Höhe der Fahrtauslagen
     ist die jeweils verkehrsgünstigste Strecke zugrunde zu legen. Die
-    zuständige Wasser- und Schifffahrtsdirektion kann die Art des
+    Generaldirektion Wasserstraßen und Schifffahrt kann die Art des
     Verkehrsmittels und die Höhe der Auslagen durch Richtlinien festlegen.
 
 
 
 
-**B. Tabelle der Lotsgelder**
-## **Teil I**
+## **B. Tabelle der Lotsgelder**
 
+
+## **Teil I**
 
 *    *   Bruttoraumzahl
 
@@ -11713,1325 +5346,1311 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *   5
 
 
-*    *   0 –    300
+*    *   0 –     300
 
-    *   299
+    *   342
 
-    *   325
+    *   369
 
-    *   202
+    *   213
 
-    *   226
+    *   184
 
-    *   179
-
-
-*    *   300 –    400
-
-    *   310
-
-    *   343
-
-    *   214
-
-    *   236
-
-    *   185
+    *   198
 
 
-*    *   400 –    500
+*    *   300 –    400
 
-    *   322
+    *   355
 
-    *   361
+    *   389
 
     *   225
 
-    *   246
+    *   192
 
-    *   190
-
-
-*    *   500 –    600
-
-    *   335
-
-    *   379
-
-    *   236
-
-    *   257
-
-    *   194
+    *   204
 
 
-*    *   600 –    700
+*    *   400 –    500
 
-    *   348
+    *   369
 
-    *   397
+    *   408
 
-    *   247
+    *   237
 
-    *   270
+    *   201
 
-    *   202
-
-
-*    *   700 –    800
-
-    *   363
-
-    *   414
-
-    *   257
-
-    *   286
-
-    *   211
+    *   210
 
 
-*    *   800 –    900
+*    *   500 –    600
 
-    *   380
+    *   383
 
-    *   431
+    *   428
 
-    *   268
+    *   249
 
-    *   303
+    *   210
 
-    *   222
+    *   214
 
 
-*    *   900 –  1 000
+*    *   600 –    700
 
     *   398
 
     *   448
 
-    *   278
+    *   260
 
-    *   321
+    *   220
 
-    *   229
+    *   223
+
+
+*    *   700 –    800
+
+    *   416
+
+    *   468
+
+    *   272
+
+    *   232
+
+    *   232
+
+
+*    *   800 –    900
+
+    *   436
+
+    *   487
+
+    *   283
+
+    *   246
+
+    *   245
+
+
+*    *   900 –  1 000
+
+    *   457
+
+    *   506
+
+    *   294
+
+    *   261
+
+    *   253
 
 
 *    *   1 000 –  1 100
 
-    *   416
+    *   478
 
-    *   465
+    *   526
 
-    *   288
+    *   305
 
-    *   340
+    *   277
 
-    *   238
+    *   262
 
 
 *    *   1 100 –  1 200
 
-    *   435
+    *   500
 
-    *   483
+    *   545
 
-    *   299
+    *   316
 
-    *   360
+    *   293
 
-    *   246
+    *   272
 
 
 *    *   1 200 –  1 300
 
-    *   454
+    *   522
 
-    *   500
+    *   564
 
-    *   310
+    *   327
 
-    *   380
-
-    *   255
-
-
-*    *   1 300 –  1 400
-
-    *   474
-
-    *   516
-
-    *   320
-
-    *   400
-
-    *   263
-
-
-*    *   1 400 –  1 500
-
-    *   494
-
-    *   532
-
-    *   330
-
-    *   420
-
-    *   271
-
-
-*    *   1 500 –  1 600
-
-    *   513
-
-    *   549
-
-    *   340
-
-    *   440
+    *   309
 
     *   281
 
 
+*    *   1 300 –  1 400
+
+    *   545
+
+    *   583
+
+    *   338
+
+    *   325
+
+    *   289
+
+
+*    *   1 400 –  1 500
+
+    *   567
+
+    *   602
+
+    *   348
+
+    *   341
+
+    *   299
+
+
+*    *   1 500 –  1 600
+
+    *   589
+
+    *   621
+
+    *   359
+
+    *   357
+
+    *   309
+
+
 *    *   1 600 –  1 700
 
-    *   533
+    *   612
 
-    *   566
+    *   639
 
-    *   350
+    *   370
 
-    *   460
+    *   372
 
-    *   286
+    *   315
 
 
 *    *   1 700 –  1 800
 
-    *   553
+    *   635
 
-    *   582
+    *   658
 
-    *   360
+    *   380
 
-    *   477
+    *   387
 
-    *   293
+    *   324
 
 
 *    *   1 800 –  1 900
 
-    *   573
+    *   657
 
-    *   599
+    *   677
 
-    *   370
+    *   391
 
-    *   494
+    *   402
 
-    *   300
+    *   331
 
 
 *    *   1 900 –  2 000
 
-    *   593
+    *   680
 
-    *   616
+    *   696
 
-    *   380
+    *   401
 
-    *   510
+    *   415
 
-    *   307
+    *   339
 
 
 *    *   2 000 –  2 100
 
-    *   613
+    *   703
 
-    *   633
+    *   715
 
-    *   390
+    *   412
 
-    *   523
+    *   425
 
-    *   313
+    *   345
 
 
 *    *   2 100 –  2 200
 
-    *   633
+    *   725
 
-    *   650
+    *   735
 
-    *   400
+    *   423
 
-    *   536
+    *   435
 
-    *   320
+    *   353
 
 
 *    *   2 200 –  2 300
 
-    *   653
+    *   748
 
-    *   667
+    *   754
 
-    *   411
+    *   434
 
-    *   547
+    *   445
 
-    *   325
+    *   358
 
 
 *    *   2 300 –  2 400
 
-    *   672
-
-    *   684
-
-    *   421
-
-    *   558
-
-    *   333
-
-
-*    *   2 400 –  2 500
-
-    *   691
-
-    *   701
-
-    *   431
-
-    *   570
-
-    *   341
-
-
-*    *   2 500 –  2 600
-
-    *   710
-
-    *   717
-
-    *   441
-
-    *   582
-
-    *   347
-
-
-*    *   2 600 –  2 700
-
-    *   730
-
-    *   734
-
-    *   451
-
-    *   594
-
-    *   354
-
-
-*    *   2 700 –  2 800
-
-    *   750
-
-    *   751
-
-    *   461
-
-    *   606
-
-    *   361
-
-
-*    *   2 800 –  2 900
-
     *   770
 
-    *   768
+    *   773
 
-    *   471
+    *   444
 
-    *   618
+    *   455
 
     *   367
 
 
+*    *   2 400 –  2 500
+
+    *   792
+
+    *   792
+
+    *   455
+
+    *   465
+
+    *   376
+
+
+*    *   2 500 –  2 600
+
+    *   815
+
+    *   811
+
+    *   466
+
+    *   475
+
+    *   382
+
+
+*    *   2 600 –  2 700
+
+    *   838
+
+    *   830
+
+    *   477
+
+    *   485
+
+    *   391
+
+
+*    *   2 700 –  2 800
+
+    *   861
+
+    *   849
+
+    *   487
+
+    *   495
+
+    *   398
+
+
+*    *   2 800 –  2 900
+
+    *   883
+
+    *   868
+
+    *   498
+
+    *   505
+
+    *   405
+
+
 *    *   2 900 –  3 000
 
-    *   790
+    *   905
 
-    *   785
+    *   887
 
-    *   481
+    *   509
 
-    *   632
+    *   515
 
-    *   378
+    *   417
 
 
 *    *   3 000 –  3 200
 
-    *   810
+    *   928
 
-    *   802
+    *   907
 
-    *   492
+    *   521
 
-    *   648
+    *   527
 
-    *   390
+    *   429
 
 
 *    *   3 200 –  3 400
 
-    *   831
+    *   952
 
-    *   820
+    *   927
 
-    *   505
+    *   534
 
-    *   666
+    *   542
 
-    *   399
+    *   440
 
 
 *    *   3 400 –  3 600
 
-    *   852
+    *   977
 
-    *   837
+    *   947
 
-    *   518
+    *   547
 
-    *   684
-
-    *   407
-
-
-*    *   3 600 –  3 800
-
-    *   875
-
-    *   855
-
-    *   531
-
-    *   704
-
-    *   424
-
-
-*    *   3 800 –  4 000
-
-    *   898
-
-    *   874
-
-    *   545
-
-    *   725
-
-    *   436
-
-
-*    *   4 000 –  4 200
-
-    *   922
-
-    *   894
-
-    *   558
-
-    *   747
+    *   557
 
     *   448
 
 
-*    *   4 200 –  4 400
+*    *   3 600 –  3 800
 
-    *   948
+    *   1 003
 
-    *   917
+    *   967
+
+    *   560
 
     *   572
 
-    *   769
+    *   468
 
-    *   461
+
+*    *   3 800 –  4 000
+
+    *   1 029
+
+    *   987
+
+    *   574
+
+    *   589
+
+    *   481
+
+
+*    *   4 000 –  4 200
+
+    *   1 055
+
+    *   1 010
+
+    *   589
+
+    *   606
+
+    *   494
+
+
+*    *   4 200 –  4 400
+
+    *   1 084
+
+    *   1 037
+
+    *   604
+
+    *   624
+
+    *   508
 
 
 *    *   4 400 –  4 600
 
-    *   974
+    *   1 114
 
-    *   944
+    *   1 067
 
-    *   586
+    *   619
 
-    *   790
+    *   642
 
-    *   472
+    *   520
 
 
 *    *   4 600 –  4 800
 
-    *   1 000
+    *   1 145
 
-    *   974
+    *   1 101
 
-    *   600
+    *   633
 
-    *   812
+    *   659
 
-    *   490
+    *   540
 
 
 *    *   4 800 –  5 000
 
-    *   1 026
+    *   1 176
 
-    *   1 006
+    *   1 136
 
-    *   614
+    *   648
 
-    *   834
+    *   677
 
-    *   509
+    *   561
 
 
 *    *   5 000 –  5 500
 
-    *   1 054
+    *   1 208
 
-    *   1 038
+    *   1 173
 
-    *   628
+    *   663
 
-    *   856
+    *   695
 
-    *   527
+    *   581
 
 
 *    *   5 500 –  6 000
 
-    *   1 085
+    *   1 245
 
-    *   1 070
+    *   1 210
 
-    *   641
+    *   677
 
-    *   879
+    *   714
 
-    *   546
+    *   603
 
 
 *    *   6 000 –  6 500
 
-    *   1 122
+    *   1 287
 
-    *   1 103
+    *   1 246
 
-    *   653
+    *   690
 
-    *   904
+    *   734
 
-    *   569
+    *   628
 
 
 *    *   6 500 –  7 000
 
-    *   1 162
+    *   1 331
 
-    *   1 136
+    *   1 283
 
-    *   666
+    *   703
 
-    *   929
+    *   755
 
-    *   594
+    *   655
 
 
 *    *   7 000 –  7 500
 
-    *   1 201
+    *   1 376
 
-    *   1 169
+    *   1 320
 
-    *   679
+    *   717
 
-    *   954
+    *   775
 
-    *   619
+    *   683
 
 
 *    *   7 500 –  8 000
 
-    *   1 240
+    *   1 421
 
-    *   1 201
+    *   1 357
 
-    *   692
+    *   730
 
-    *   980
+    *   796
 
-    *   640
+    *   705
 
 
 *    *   8 000 –  8 500
 
-    *   1 280
+    *   1 467
 
-    *   1 233
+    *   1 393
 
-    *   705
+    *   743
 
-    *   1 006
+    *   817
 
-    *   664
+    *   732
 
 
 *    *   8 500 –  9 000
 
-    *   1 320
+    *   1 512
 
-    *   1 266
+    *   1 430
 
-    *   717
+    *   756
 
-    *   1 033
+    *   839
 
-    *   685
+    *   756
 
 
 *    *   9 000 –  9 500
 
-    *   1 360
+    *   1 558
 
-    *   1 298
+    *   1 467
 
-    *   729
+    *   769
 
-    *   1 059
+    *   860
 
-    *   710
+    *   783
 
 
 *    *   9 500 – 10 000
 
-    *   1 400
+    *   1 603
 
-    *   1 331
+    *   1 504
 
-    *   741
+    *   782
 
-    *   1 085
+    *   882
 
-    *   728
+    *   803
 
 
 *    *   10 000 – 10 500
 
-    *   1 440
+    *   1 649
 
-    *   1 363
+    *   1 540
 
-    *   753
+    *   795
 
-    *   1 111
-
-    *   750
-
-
-*    *   10 500 – 11 000
-
-    *   1 480
-
-    *   1 396
-
-    *   765
-
-    *   1 138
-
-    *   771
-
-
-*    *   11 000 – 11 500
-
-    *   1 521
-
-    *   1 429
-
-    *   778
-
-    *   1 165
-
-    *   784
-
-
-*    *   11 500 – 12 000
-
-    *   1 562
-
-    *   1 461
-
-    *   791
-
-    *   1 192
-
-    *   799
-
-
-*    *   12 000 – 12 500
-
-    *   1 603
-
-    *   1 493
-
-    *   804
-
-    *   1 218
-
-    *   813
-
-
-*    *   12 500 – 13 000
-
-    *   1 644
-
-    *   1 525
-
-    *   817
-
-    *   1 243
+    *   903
 
     *   828
 
 
+*    *   10 500 – 11 000
+
+    *   1 694
+
+    *   1 577
+
+    *   808
+
+    *   924
+
+    *   851
+
+
+*    *   11 000 – 11 500
+
+    *   1 740
+
+    *   1 614
+
+    *   821
+
+    *   945
+
+    *   864
+
+
+*    *   11 500 – 12 000
+
+    *   1 786
+
+    *   1 651
+
+    *   835
+
+    *   966
+
+    *   881
+
+
+*    *   12 000 – 12 500
+
+    *   1 832
+
+    *   1 687
+
+    *   849
+
+    *   987
+
+    *   897
+
+
+*    *   12 500 – 13 000
+
+    *   1 879
+
+    *   1 723
+
+    *   862
+
+    *   1 009
+
+    *   913
+
+
 *    *   13 000 – 13 500
 
-    *   1 685
+    *   1 927
 
-    *   1 555
+    *   1 757
 
-    *   829
+    *   875
 
-    *   1 266
+    *   1 028
 
-    *   841
+    *   927
 
 
 *    *   13 500 – 14 000
 
-    *   1 726
+    *   1 974
 
-    *   1 585
+    *   1 791
 
-    *   841
+    *   887
 
-    *   1 289
+    *   1 047
 
-    *   860
+    *   948
 
 
 *    *   14 000 – 14 500
 
-    *   1 767
+    *   2 021
 
-    *   1 615
+    *   1 825
 
-    *   852
+    *   900
 
-    *   1 312
+    *   1 066
 
-    *   878
+    *   969
 
 
 *    *   14 500 – 15 000
 
-    *   1 806
+    *   2 068
 
-    *   1 645
+    *   1 860
 
-    *   863
+    *   912
 
-    *   1 336
+    *   1 085
 
-    *   898
+    *   991
 
 
 *    *   15 000 – 15 500
 
-    *   1 845
+    *   2 115
 
-    *   1 675
+    *   1 894
 
-    *   875
+    *   924
 
-    *   1 360
+    *   1 105
 
-    *   915
+    *   1 008
 
 
 *    *   15 500 – 16 000
 
-    *   1 884
+    *   2 161
 
-    *   1 705
+    *   1 928
 
-    *   886
+    *   936
 
-    *   1 384
+    *   1 125
 
-    *   932
+    *   1 028
 
 
 *    *   16 000 – 16 500
 
-    *   1 924
+    *   2 205
 
-    *   1 735
+    *   1 962
 
-    *   898
+    *   948
 
-    *   1 408
-
-    *   951
-
-
-*    *   16 500 – 17 000
-
-    *   1 963
-
-    *   1 765
-
-    *   909
-
-    *   1 432
-
-    *   972
-
-
-*    *   17 000 – 17 500
-
-    *   2 001
-
-    *   1 795
-
-    *   920
-
-    *   1 456
-
-    *   993
-
-
-*    *   17 500 – 18 000
-
-    *   2 038
-
-    *   1 827
-
-    *   931
-
-    *   1 479
-
-    *   1 010
-
-
-*    *   18 000 – 18 500
-
-    *   2 074
-
-    *   1 860
-
-    *   941
-
-    *   1 502
-
-    *   1 030
-
-
-*    *   18 500 – 19 000
-
-    *   2 109
-
-    *   1 893
-
-    *   951
-
-    *   1 524
+    *   1 144
 
     *   1 049
 
 
+*    *   16 500 – 17 000
+
+    *   2 249
+
+    *   1 996
+
+    *   960
+
+    *   1 163
+
+    *   1 071
+
+
+*    *   17 000 – 17 500
+
+    *   2 293
+
+    *   2 031
+
+    *   972
+
+    *   1 183
+
+    *   1 094
+
+
+*    *   17 500 – 18 000
+
+    *   2 335
+
+    *   2 066
+
+    *   983
+
+    *   1 202
+
+    *   1 114
+
+
+*    *   18 000 – 18 500
+
+    *   2 376
+
+    *   2 102
+
+    *   994
+
+    *   1 220
+
+    *   1 136
+
+
+*    *   18 500 – 19 000
+
+    *   2 417
+
+    *   2 139
+
+    *   1 004
+
+    *   1 238
+
+    *   1 157
+
+
 *    *   19 000 – 19 500
 
-    *   2 143
+    *   2 457
 
-    *   1 926
+    *   2 176
 
-    *   961
+    *   1 015
 
-    *   1 545
+    *   1 256
 
-    *   1 067
+    *   1 177
 
 
 *    *   19 500 – 20 000
 
-    *   2 177
+    *   2 496
 
-    *   1 959
+    *   2 213
 
-    *   972
+    *   1 026
 
-    *   1 567
-
-    *   1 088
-
-
-*    *   20 000 – 20 500
-
-    *   2 209
-
-    *   1 992
-
-    *   982
-
-    *   1 589
-
-    *   1 105
-
-
-*    *   20 500 – 21 000
-
-    *   2 241
-
-    *   2 024
-
-    *   993
-
-    *   1 611
-
-    *   1 124
-
-
-*    *   21 000 – 21 500
-
-    *   2 272
-
-    *   2 054
-
-    *   1 004
-
-    *   1 633
-
-    *   1 143
-
-
-*    *   21 500 – 22 000
-
-    *   2 303
-
-    *   2 083
-
-    *   1 014
-
-    *   1 656
-
-    *   1 162
-
-
-*    *   22 000 – 22 500
-
-    *   2 334
-
-    *   2 112
-
-    *   1 025
-
-    *   1 679
-
-    *   1 181
-
-
-*    *   22 500 – 23 000
-
-    *   2 365
-
-    *   2 142
-
-    *   1 037
-
-    *   1 701
+    *   1 274
 
     *   1 200
 
 
-*    *   23 000 – 23 500
+*    *   20 000 – 20 500
 
-    *   2 395
+    *   2 532
 
-    *   2 171
+    *   2 250
+
+    *   1 037
+
+    *   1 292
+
+    *   1 218
+
+
+*    *   20 500 – 21 000
+
+    *   2 568
+
+    *   2 287
 
     *   1 048
 
-    *   1 724
+    *   1 310
 
-    *   1 220
+    *   1 240
+
+
+*    *   21 000 – 21 500
+
+    *   2 604
+
+    *   2 321
+
+    *   1 060
+
+    *   1 328
+
+    *   1 260
+
+
+*    *   21 500 – 22 000
+
+    *   2 639
+
+    *   2 355
+
+    *   1 071
+
+    *   1 346
+
+    *   1 281
+
+
+*    *   22 000 – 22 500
+
+    *   2 674
+
+    *   2 388
+
+    *   1 083
+
+    *   1 364
+
+    *   1 302
+
+
+*    *   22 500 – 23 000
+
+    *   2 709
+
+    *   2 421
+
+    *   1 094
+
+    *   1 382
+
+    *   1 324
+
+
+*    *   23 000 – 23 500
+
+    *   2 744
+
+    *   2 453
+
+    *   1 106
+
+    *   1 400
+
+    *   1 345
 
 
 *    *   23 500 – 24 000
 
-    *   2 425
+    *   2 778
 
-    *   2 200
+    *   2 485
 
-    *   1 059
+    *   1 118
 
-    *   1 747
+    *   1 419
 
-    *   1 238
+    *   1 365
 
 
 *    *   24 000 – 24 500
 
-    *   2 452
+    *   2 812
 
-    *   2 228
+    *   2 518
 
-    *   1 071
+    *   1 131
 
-    *   1 770
+    *   1 438
 
-    *   1 258
+    *   1 388
 
 
 *    *   24 500 – 25 000
 
-    *   2 479
+    *   2 843
 
-    *   2 257
+    *   2 551
 
-    *   1 083
+    *   1 143
 
-    *   1 793
+    *   1 457
 
-    *   1 276
+    *   1 408
 
 
 *    *   25 000 – 25 500
 
-    *   2 506
+    *   2 872
 
-    *   2 286
+    *   2 584
 
-    *   1 095
+    *   1 156
 
-    *   1 816
+    *   1 476
 
-    *   1 297
+    *   1 430
 
 
 *    *   25 500 – 26 000
 
-    *   2 527
+    *   2 899
 
-    *   2 315
+    *   2 617
 
-    *   1 109
+    *   1 170
 
-    *   1 840
+    *   1 495
 
-    *   1 317
+    *   1 453
 
 
 *    *   26 000 – 26 500
 
-    *   2 547
+    *   2 921
 
-    *   2 345
+    *   2 650
 
-    *   1 123
+    *   1 185
 
-    *   1 866
+    *   1 515
 
-    *   1 338
+    *   1 476
 
 
 *    *   26 500 – 27 000
 
-    *   2 567
+    *   2 942
 
-    *   2 375
+    *   2 684
 
-    *   1 137
+    *   1 200
 
-    *   1 893
+    *   1 537
 
-    *   1 357
+    *   1 496
 
 
 *    *   27 000 – 27 500
 
-    *   2 586
+    *   2 963
 
-    *   2 405
+    *   2 718
 
-    *   1 152
+    *   1 216
 
-    *   1 921
+    *   1 560
 
-    *   1 378
+    *   1 519
 
 
 *    *   27 500 – 28 000
 
-    *   2 604
+    *   2 984
 
-    *   2 436
+    *   2 753
 
-    *   1 168
+    *   1 234
 
-    *   1 948
-
-    *   1 398
-
-
-*    *   28 000 – 28 500
-
-    *   2 622
-
-    *   2 468
-
-    *   1 185
-
-    *   1 975
-
-    *   1 417
-
-
-*    *   28 500 – 29 000
-
-    *   2 639
-
-    *   2 499
-
-    *   1 203
-
-    *   2 001
-
-    *   1 438
-
-
-*    *   29 000 – 29 500
-
-    *   2 656
-
-    *   2 532
-
-    *   1 221
-
-    *   2 027
-
-    *   1 460
-
-
-*    *   29 500 – 30 000
-
-    *   2 673
-
-    *   2 564
-
-    *   1 238
-
-    *   2 053
-
-    *   1 477
-
-
-*    *   30 000 – 31 000
-
-    *   2 690
-
-    *   2 597
-
-    *   1 254
-
-    *   2 079
-
-    *   1 499
-
-
-*    *   31 000 – 32 000
-
-    *   2 707
-
-    *   2 631
-
-    *   1 271
-
-    *   2 106
-
-    *   1 520
-
-
-*    *   32 000 – 33 000
-
-    *   2 724
-
-    *   2 665
-
-    *   1 288
-
-    *   2 133
+    *   1 582
 
     *   1 541
 
 
-*    *   33 000 – 34 000
+*    *   28 000 – 28 500
 
-    *   2 741
+    *   3 005
 
-    *   2 701
+    *   2 788
+
+    *   1 252
+
+    *   1 604
+
+    *   1 562
+
+
+*    *   28 500 – 29 000
+
+    *   3 026
+
+    *   2 823
+
+    *   1 270
+
+    *   1 625
+
+    *   1 585
+
+
+*    *   29 000 – 29 500
+
+    *   3 046
+
+    *   2 859
+
+    *   1 288
+
+    *   1 646
+
+    *   1 610
+
+
+*    *   29 500 – 30 000
+
+    *   3 066
+
+    *   2 897
 
     *   1 306
 
-    *   2 159
+    *   1 668
 
-    *   1 559
+    *   1 628
+
+
+*    *   30 000 – 31 000
+
+    *   3 086
+
+    *   2 935
+
+    *   1 324
+
+    *   1 689
+
+    *   1 652
+
+
+*    *   31 000 – 32 000
+
+    *   3 106
+
+    *   2 974
+
+    *   1 342
+
+    *   1 711
+
+    *   1 676
+
+
+*    *   32 000 – 33 000
+
+    *   3 126
+
+    *   3 014
+
+    *   1 360
+
+    *   1 732
+
+    *   1 699
+
+
+*    *   33 000 – 34 000
+
+    *   3 146
+
+    *   3 056
+
+    *   1 378
+
+    *   1 754
+
+    *   1 719
 
 
 *    *   34 000 – 35 000
 
-    *   2 758
+    *   3 166
 
-    *   2 737
+    *   3 099
 
-    *   1 324
+    *   1 397
 
-    *   2 185
+    *   1 775
 
-    *   1 580
+    *   1 743
 
 
 *    *   35 000 – 36 000
 
-    *   2 775
+    *   3 186
 
-    *   2 775
+    *   3 143
 
-    *   1 341
+    *   1 416
 
-    *   2 211
+    *   1 796
 
-    *   1 601
+    *   1 765
 
 
 *    *   36 000 – 37 000
 
-    *   2 792
+    *   3 206
 
-    *   2 821
+    *   3 188
 
-    *   1 359
+    *   1 435
 
-    *   2 238
+    *   1 817
 
-    *   1 618
+    *   1 784
 
 
 *    *   37 000 – 38 000
 
-    *   2 809
+    *   3 226
 
-    *   2 870
+    *   3 243
 
-    *   1 377
+    *   1 454
 
-    *   2 264
+    *   1 839
 
-    *   1 641
+    *   1 810
 
 
 *    *   38 000 – 39 000
 
-    *   2 826
+    *   3 246
 
-    *   2 920
+    *   3 302
 
-    *   1 395
+    *   1 473
 
-    *   2 290
+    *   1 860
 
-    *   1 661
+    *   1 832
 
 
 *    *   39 000 – 40 000
 
-    *   2 844
+    *   3 267
 
-    *   2 970
+    *   3 365
 
-    *   1 413
+    *   1 493
 
-    *   2 317
+    *   1 882
 
-    *   1 688
+    *   1 861
 
 
 *    *   für jede weiteren
+        angefangenen
+        2 000 über 40 000
 
-    *
-    *
-    *
-    *
-    *
+    *   27
 
-*    *   angefangenen
+    *   103
 
-    *
-    *
-    *
-    *
-    *
+    *   40
 
-*    *   2 000 über 40 000
+    *   42
 
-    *   22
-
-    *   92
-
-    *   37
-
-    *   52
-
-    *   34
+    *   39
 
 
 *    *   höchstens jedoch
 
-    *   3 700
+    *   3 800
 
-    *   3 700
+    *   3 800
 
-    *   3 700
+    *   3 800
 
-    *   3 700
+    *   3 800
 
-    *   3 700
+    *   3 900
+
 
 
 
 ## **Teil II**
-
 
 *    *   Bruttoraumzahl
 
@@ -13059,1123 +6678,1111 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *   4
 
 
-*    *   0 –    300
+*    *   0 –      300
 
-    *   777
+    *   927
 
-    *   204
-
-    *   135
-
-    *   98
-
-
-*    *   300 –    400
-
-    *   778
-
-    *   205
+    *   241
 
     *   139
 
-    *   123
+    *   109
 
 
-*    *   400 –    500
+*    *   300 –    400
 
-    *   779
+    *   929
 
-    *   208
+    *   243
 
-    *   142
+    *   143
 
-    *   151
-
-
-*    *   500 –    600
-
-    *   780
-
-    *   211
-
-    *   148
-
-    *   185
+    *   137
 
 
-*    *   600 –    700
+*    *   400 –    500
 
-    *   805
+    *   930
 
-    *   213
+    *   247
 
-    *   160
+    *   146
 
-    *   211
-
-
-*    *   700 –    800
-
-    *   827
-
-    *   215
-
-    *   171
-
-    *   234
+    *   168
 
 
-*    *   800 –    900
+*    *   500 –    600
 
-    *   853
+    *   931
 
-    *   219
+    *   250
 
-    *   179
+    *   152
+
+    *   206
+
+
+*    *   600 –    700
+
+    *   961
+
+    *   252
+
+    *   164
+
+    *   235
+
+
+*    *   700 –    800
+
+    *   987
+
+    *   254
+
+    *   176
+
+    *   260
+
+
+*    *   800 –    900
+
+    *   1 017
 
     *   258
+
+    *   184
+
+    *   288
 
 
 *    *   900 –  1 000
 
-    *   877
+    *   1 046
 
-    *   221
+    *   260
 
-    *   191
+    *   197
 
-    *   286
+    *   318
 
 
 *    *   1 000 –  1 100
 
-    *   901
+    *   1 076
 
-    *   222
+    *   262
 
-    *   202
-
-    *   298
-
-
-*    *   1 100 –  1 200
-
-    *   928
-
-    *   223
-
-    *   215
-
-    *   311
-
-
-*    *   1 200 –  1 300
-
-    *   955
-
-    *   226
-
-    *   223
+    *   208
 
     *   332
 
 
+*    *   1 100 –  1 200
+
+    *   1 108
+
+    *   263
+
+    *   221
+
+    *   346
+
+
+*    *   1 200 –  1 300
+
+    *   1 139
+
+    *   266
+
+    *   230
+
+    *   369
+
+
 *    *   1 300 –  1 400
 
-    *   984
+    *   1 174
 
-    *   227
+    *   268
 
-    *   240
+    *   247
 
-    *   355
+    *   395
 
 
 *    *   1 400 –  1 500
 
-    *   1 009
+    *   1 204
 
-    *   228
+    *   269
 
-    *   249
+    *   257
 
-    *   366
+    *   407
 
 
 *    *   1 500 –  1 600
 
-    *   1 033
+    *   1 233
 
-    *   232
+    *   274
 
-    *   258
+    *   266
 
-    *   390
+    *   434
 
 
 *    *   1 600 –  1 700
 
-    *   1 058
+    *   1 263
 
-    *   236
+    *   280
 
-    *   269
+    *   276
 
-    *   428
+    *   476
 
 
 *    *   1 700 –  1 800
 
-    *   1 081
+    *   1 290
 
-    *   244
+    *   289
 
-    *   283
+    *   292
 
-    *   441
+    *   492
 
 
 *    *   1 800 –  1 900
 
-    *   1 105
+    *   1 319
 
-    *   247
+    *   292
 
-    *   294
+    *   303
 
-    *   452
+    *   503
 
 
 *    *   1 900 –  2 000
 
-    *   1 125
+    *   1 343
 
-    *   254
+    *   300
 
-    *   306
+    *   315
 
-    *   461
+    *   513
 
 
 *    *   2 000 –  2 100
 
-    *   1 143
+    *   1 364
 
-    *   263
+    *   309
 
-    *   316
+    *   325
 
-    *   463
+    *   516
 
 
 *    *   2 100 –  2 200
 
-    *   1 165
+    *   1 391
 
-    *   269
+    *   320
 
-    *   324
+    *   333
 
-    *   486
+    *   541
 
 
 *    *   2 200 –  2 300
 
-    *   1 181
+    *   1 409
 
-    *   277
+    *   328
 
-    *   336
+    *   346
 
-    *   512
+    *   570
 
 
 *    *   2 300 –  2 400
 
-    *   1 203
+    *   1 436
 
-    *   285
+    *   337
 
-    *   347
+    *   357
 
-    *   529
+    *   589
 
 
 *    *   2 400 –  2 500
 
-    *   1 222
+    *   1 458
 
-    *   294
+    *   346
 
-    *   360
+    *   371
 
-    *   551
+    *   613
 
 
 *    *   2 500 –  2 600
 
-    *   1 241
+    *   1 480
 
-    *   304
+    *   360
 
-    *   369
+    *   380
 
-    *   569
+    *   634
 
 
 *    *   2 600 –  2 700
 
-    *   1 263
+    *   1 507
 
-    *   313
+    *   370
 
-    *   387
+    *   398
 
-    *   590
+    *   657
 
 
 *    *   2 700 –  2 800
 
-    *   1 280
+    *   1 528
 
-    *   321
+    *   379
 
-    *   400
+    *   411
 
-    *   612
+    *   681
 
 
 *    *   2 800 –  2 900
 
-    *   1 310
+    *   1 563
 
-    *   330
+    *   390
 
-    *   418
+    *   430
 
-    *   631
+    *   703
 
 
 *    *   2 900 –  3 000
 
-    *   1 340
+    *   1 599
 
-    *   342
+    *   404
 
-    *   430
+    *   443
 
-    *   639
+    *   711
 
 
 *    *   3 000 –  3 200
 
-    *   1 370
+    *   1 634
 
-    *   354
+    *   418
 
-    *   437
+    *   449
 
-    *   646
+    *   719
 
 
 *    *   3 200 –  3 400
 
-    *   1 397
+    *   1 667
 
-    *   360
+    *   426
 
-    *   451
+    *   465
 
-    *   654
+    *   729
 
 
 *    *   3 400 –  3 600
 
-    *   1 426
+    *   1 701
 
-    *   373
+    *   440
 
-    *   459
+    *   472
 
-    *   676
+    *   752
 
 
 *    *   3 600 –  3 800
 
-    *   1 458
+    *   1 739
 
-    *   381
+    *   450
 
-    *   473
+    *   486
 
-    *   692
+    *   771
 
 
 *    *   3 800 –  4 000
 
-    *   1 490
+    *   1 778
 
-    *   391
+    *   463
 
-    *   489
+    *   504
 
-    *   714
+    *   795
 
 
 *    *   4 000 –  4 200
 
-    *   1 523
+    *   1 817
 
-    *   398
+    *   471
 
-    *   495
+    *   509
 
-    *   720
+    *   802
 
 
 *    *   4 200 –  4 400
 
-    *   1 556
+    *   1 857
 
-    *   409
+    *   483
 
-    *   511
+    *   526
 
-    *   736
+    *   819
 
 
 *    *   4 400 –  4 600
 
-    *   1 588
+    *   1 894
 
-    *   419
+    *   495
 
-    *   522
+    *   538
 
-    *   763
+    *   849
 
 
 *    *   4 600 –  4 800
 
-    *   1 631
+    *   1 947
 
-    *   435
+    *   514
 
-    *   533
+    *   548
 
-    *   777
+    *   865
 
 
 *    *   4 800 –  5 000
 
-    *   1 673
+    *   1 996
 
-    *   447
+    *   528
 
-    *   547
+    *   563
 
-    *   799
+    *   889
 
 
 *    *   5 000 –  5 500
 
-    *   1 717
+    *   2 049
 
-    *   465
+    *   549
 
-    *   571
+    *   588
 
-    *   830
+    *   924
 
 
 *    *   5 500 –  6 000
 
-    *   1 762
+    *   2 104
 
-    *   476
+    *   562
 
-    *   592
+    *   609
 
-    *   874
+    *   973
 
 
 *    *   6 000 –  6 500
 
-    *   1 810
+    *   2 160
 
-    *   494
+    *   584
 
-    *   613
+    *   631
 
-    *   898
+    *   1 000
 
 
 *    *   6 500 –  7 000
 
-    *   1 857
+    *   2 216
 
-    *   510
+    *   601
 
-    *   635
+    *   654
 
-    *   926
+    *   1 031
 
 
 *    *   7 000 –  7 500
 
-    *   1 909
+    *   2 278
 
-    *   521
+    *   617
 
-    *   650
+    *   669
 
-    *   938
+    *   1 044
 
 
 *    *   7 500 –  8 000
 
-    *   1 957
+    *   2 336
 
-    *   531
+    *   628
 
-    *   673
+    *   693
 
-    *   959
+    *   1 068
 
 
 *    *   8 000 –  8 500
 
-    *   2 010
+    *   2 399
 
-    *   541
+    *   638
 
-    *   689
+    *   709
 
-    *   1 014
+    *   1 130
 
 
 *    *   8 500 –  9 000
 
-    *   2 060
+    *   2 459
 
-    *   552
+    *   652
 
-    *   710
+    *   731
 
-    *   1 063
+    *   1 183
 
 
 *    *   9 000 –  9 500
 
-    *   2 109
+    *   2 517
 
-    *   560
+    *   663
 
-    *   728
+    *   750
 
-    *   1 092
+    *   1 216
 
 
 *    *   9 500 – 10 000
 
-    *   2 164
+    *   2 582
 
-    *   570
+    *   673
 
-    *   747
-
-    *   1 120
-
-
-*    *   10 000 – 10 500
-
-    *   2 215
-
-    *   577
-
-    *   764
-
-    *   1 166
-
-
-*    *   10 500 – 11 000
-
-    *   2 268
-
-    *   589
-
-    *   782
-
-    *   1 193
-
-
-*    *   11 000 – 11 500
-
-    *   2 321
-
-    *   606
-
-    *   799
-
-    *   1 218
-
-
-*    *   11 500 – 12 000
-
-    *   2 363
-
-    *   613
-
-    *   819
-
-    *   1 243
-
-
-*    *   12 000 – 12 500
-
-    *   2 403
-
-    *   623
-
-    *   827
+    *   769
 
     *   1 247
 
 
+*    *   10 000 – 10 500
+
+    *   2 643
+
+    *   682
+
+    *   787
+
+    *   1 299
+
+
+*    *   10 500 – 11 000
+
+    *   2 707
+
+    *   696
+
+    *   805
+
+    *   1 327
+
+
+*    *   11 000 – 11 500
+
+    *   2 769
+
+    *   717
+
+    *   823
+
+    *   1 356
+
+
+*    *   11 500 – 12 000
+
+    *   2 820
+
+    *   725
+
+    *   843
+
+    *   1 384
+
+
+*    *   12 000 – 12 500
+
+    *   2 868
+
+    *   736
+
+    *   851
+
+    *   1 388
+
+
 *    *   12 500 – 13 000
 
-    *   2 444
+    *   2 917
 
-    *   630
+    *   744
 
-    *   834
+    *   859
 
-    *   1 295
+    *   1 442
 
 
 *    *   13 000 – 13 500
 
-    *   2 484
+    *   2 965
 
-    *   636
+    *   752
 
-    *   843
+    *   867
 
-    *   1 342
+    *   1 494
 
 
 *    *   13 500 – 14 000
 
-    *   2 523
+    *   3 011
 
-    *   644
+    *   761
 
-    *   852
+    *   877
 
-    *   1 368
+    *   1 523
 
 
 *    *   14 000 – 14 500
 
-    *   2 551
+    *   3 044
 
-    *   653
+    *   772
 
-    *   860
+    *   885
 
-    *   1 393
+    *   1 551
 
 
 *    *   14 500 – 15 000
 
-    *   2 576
+    *   3 074
 
-    *   661
+    *   781
 
-    *   872
+    *   898
 
-    *   1 407
+    *   1 566
 
 
 *    *   15 000 – 15 500
 
-    *   2 601
+    *   3 104
 
-    *   667
+    *   789
 
-    *   879
+    *   904
 
-    *   1 427
+    *   1 589
 
 
 *    *   15 500 – 16 000
 
-    *   2 625
+    *   3 132
 
-    *   676
+    *   798
 
-    *   883
+    *   909
 
-    *   1 468
+    *   1 635
 
 
 *    *   16 000 – 16 500
 
-    *   2 651
+    *   3 163
 
-    *   682
+    *   807
 
-    *   896
+    *   922
 
-    *   1 491
+    *   1 660
 
 
 *    *   16 500 – 17 000
 
-    *   2 674
+    *   3 191
 
-    *   691
+    *   816
 
-    *   902
+    *   928
 
-    *   1 510
+    *   1 681
 
 
 *    *   17 000 – 17 500
 
-    *   2 706
+    *   3 338
 
-    *   699
+    *   827
 
-    *   910
+    *   937
 
-    *   1 557
+    *   1 733
 
 
 *    *   17 500 – 18 000
 
-    *   2 717
+    *   3 350
 
-    *   708
+    *   837
 
-    *   919
+    *   946
 
-    *   1 597
+    *   1 778
 
 
 *    *   18 000 – 18 500
 
-    *   2 727
+    *   3 362
 
-    *   718
+    *   848
 
-    *   928
+    *   955
 
-    *   1 622
+    *   1 806
 
 
 *    *   18 500 – 19 000
 
-    *   2 737
+    *   3 375
 
-    *   726
+    *   857
 
-    *   936
-
-    *   1 647
-
-
-*    *   19 000 – 19 500
-
-    *   2 747
-
-    *   735
-
-    *   947
-
-    *   1 673
-
-
-*    *   19 500 – 20 000
-
-    *   2 758
-
-    *   741
-
-    *   956
-
-    *   1 699
-
-
-*    *   20 000 – 20 500
-
-    *   2 768
-
-    *   754
-
-    *   968
-
-    *   1 712
-
-
-*    *   20 500 – 21 000
-
-    *   2 778
-
-    *   762
-
-    *   976
-
-    *   1 742
-
-
-*    *   21 000 – 21 500
-
-    *   2 789
-
-    *   770
-
-    *   981
-
-    *   1 773
-
-
-*    *   21 500 – 22 000
-
-    *   2 799
-
-    *   777
-
-    *   992
-
-    *   1 803
-
-
-*    *   22 000 – 22 500
-
-    *   2 809
-
-    *   788
-
-    *   1 004
+    *   963
 
     *   1 834
 
 
+*    *   19 000 – 19 500
+
+    *   3 387
+
+    *   869
+
+    *   975
+
+    *   1 862
+
+
+*    *   19 500 – 20 000
+
+    *   3 400
+
+    *   877
+
+    *   984
+
+    *   1 891
+
+
+*    *   20 000 – 20 500
+
+    *   3 412
+
+    *   890
+
+    *   997
+
+    *   1 907
+
+
+*    *   20 500 – 21 000
+
+    *   3 425
+
+    *   901
+
+    *   1 004
+
+    *   1 940
+
+
+*    *   21 000 – 21 500
+
+    *   3 438
+
+    *   910
+
+    *   1 010
+
+    *   1 975
+
+
+*    *   21 500 – 22 000
+
+    *   3 450
+
+    *   919
+
+    *   1 021
+
+    *   2 008
+
+
+*    *   22 000 – 22 500
+
+    *   3 462
+
+    *   931
+
+    *   1 034
+
+    *   2 043
+
+
 *    *   22 500 – 23 000
 
-    *   2 819
+    *   3 474
 
-    *   795
+    *   939
 
-    *   1 009
+    *   1 038
 
-    *   1 865
+    *   2 077
 
 
 *    *   23 000 – 23 500
 
-    *   2 830
+    *   3 487
 
-    *   804
+    *   952
 
-    *   1 016
+    *   1 046
 
-    *   1 900
+    *   2 116
 
 
 *    *   23 500 – 24 000
 
-    *   2 840
+    *   3 501
 
-    *   815
+    *   963
 
-    *   1 026
+    *   1 056
 
-    *   1 932
+    *   2 152
 
 
 *    *   24 000 – 24 500
 
-    *   2 850
+    *   3 513
 
-    *   824
+    *   974
 
-    *   1 034
+    *   1 064
 
-    *   1 965
+    *   2 188
 
 
 *    *   24 500 – 25 000
 
-    *   2 861
+    *   3 525
 
-    *   833
+    *   983
 
-    *   1 043
+    *   1 074
 
-    *   1 997
+    *   2 224
 
 
 *    *   25 000 – 25 500
 
-    *   2 871
+    *   3 539
 
-    *   845
+    *   999
 
-    *   1 049
+    *   1 079
 
-    *   2 033
+    *   2 264
 
 
 *    *   25 500 – 26 000
 
-    *   2 881
+    *   3 550
 
-    *   855
+    *   1 011
 
-    *   1 057
+    *   1 088
 
-    *   2 067
+    *   2 301
 
 
 *    *   26 000 – 26 500
 
-    *   2 891
+    *   3 561
 
-    *   864
+    *   1 020
 
-    *   1 067
-
-    *   2 106
-
-
-*    *   26 500 – 27 000
-
-    *   2 902
-
-    *   873
-
-    *   1 075
-
-    *   2 140
-
-
-*    *   27 000 – 27 500
-
-    *   2 912
-
-    *   883
-
-    *   1 083
-
-    *   2 177
-
-
-*    *   27 500 – 28 000
-
-    *   2 922
-
-    *   893
-
-    *   1 094
-
-    *   2 215
-
-
-*    *   28 000 – 28 500
-
-    *   2 933
-
-    *   901
-
-    *   1 102
-
-    *   2 253
-
-
-*    *   28 500 – 29 000
-
-    *   2 943
-
-    *   913
-
-    *   1 112
-
-    *   2 294
-
-
-*    *   29 000 – 29 500
-
-    *   2 953
-
-    *   924
-
-    *   1 118
-
-    *   2 333
-
-
-*    *   29 500 – 30 000
-
-    *   2 964
-
-    *   933
-
-    *   1 122
-
-    *   2 339
-
-
-*    *   30 000 – 31 000
-
-    *   2 974
-
-    *   943
-
-    *   1 140
+    *   1 098
 
     *   2 345
 
 
-*    *   31 000 – 32 000
+*    *   26 500 – 27 000
 
-    *   2 984
+    *   3 575
 
-    *   954
+    *   1 031
+
+    *   1 107
+
+    *   2 383
+
+
+*    *   27 000 – 27 500
+
+    *   3 587
+
+    *   1 044
+
+    *   1 114
+
+    *   2 424
+
+
+*    *   27 500 – 28 000
+
+    *   3 600
+
+    *   1 055
+
+    *   1 126
+
+    *   2 467
+
+
+*    *   28 000 – 28 500
+
+    *   3 613
+
+    *   1 065
+
+    *   1 134
+
+    *   2 508
+
+
+*    *   28 500 – 29 000
+
+    *   3 625
+
+    *   1 080
+
+    *   1 145
+
+    *   2 554
+
+
+*    *   29 000 – 29 500
+
+    *   3 638
+
+    *   1 091
+
+    *   1 150
+
+    *   2 597
+
+
+*    *   29 500 – 30 000
+
+    *   3 650
+
+    *   1 103
 
     *   1 155
 
-    *   2 351
+    *   2 604
+
+
+*    *   30 000 – 31 000
+
+    *   3 664
+
+    *   1 114
+
+    *   1 173
+
+    *   2 611
+
+
+*    *   31 000 – 32 000
+
+    *   3 675
+
+    *   1 127
+
+    *   1 188
+
+    *   2 618
 
 
 *    *   32 000 – 33 000
 
-    *   2 994
+    *   3 687
 
-    *   963
+    *   1 138
 
-    *   1 171
+    *   1 206
 
-    *   2 355
+    *   2 622
 
 
 *    *   33 000 – 34 000
 
-    *   3 005
+    *   3 701
 
-    *   972
+    *   1 149
 
-    *   1 187
+    *   1 222
 
-    *   2 362
+    *   2 630
 
 
 *    *   34 000 – 35 000
 
-    *   3 015
+    *   3 713
 
-    *   986
+    *   1 166
 
-    *   1 201
+    *   1 236
 
-    *   2 369
+    *   2 637
 
 
 *    *   35 000 – 36 000
 
-    *   3 025
+    *   3 725
 
-    *   993
+    *   1 174
 
-    *   1 220
+    *   1 256
 
-    *   2 374
+    *   2 642
 
 
 *    *   36 000 – 37 000
 
-    *   3 036
+    *   3 738
 
-    *   1 002
+    *   1 184
 
-    *   1 235
+    *   1 271
 
-    *   2 379
+    *   2 650
 
 
 *    *   37 000 – 38 000
 
-    *   3 046
+    *   3 751
 
-    *   1 022
+    *   1 208
 
-    *   1 251
+    *   1 287
 
-    *   2 385
+    *   2 656
 
 
 *    *   38 000 – 39 000
 
-    *   3 056
+    *   3 763
 
-    *   1 047
+    *   1 236
 
-    *   1 265
+    *   1 302
 
-    *   2 391
+    *   2 662
 
 
 *    *   39 000 – 40 000
 
-    *   3 066
+    *   3 774
 
-    *   1 056
+    *   1 249
 
-    *   1 282
+    *   1 320
 
-    *   2 397
+    *   2 668
 
 
 *    *   für jede weiteren
+        angefangenen
+        2 000 über 40 000
 
-    *
-    *
-    *
-    *
+    *   26
 
-*    *   angefangenen
+    *   25
 
-    *
-    *
-    *
-    *
+    *   29
 
-*    *   2 000 über 40 000
-
-    *   20
-
-    *   19
-
-    *   28
-
-    *   15
+    *   17
 
 
 *    *   höchstens jedoch
 
-    *   3 600
+    *   4 252
 
-    *   3 085
+    *   3 617
 
-    *   3 400
+    *   3 500
 
-    *   2 660
+    *   2 961
+
 
 
 
 ## **Teil III**
-
 
 *    *   Bruttoraumzahl
 
@@ -14198,923 +7805,913 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *   3
 
 
-*    *   0 –    300
+*    *   0 –      300
 
-    *   40
+    *   42
 
-    *   40
+    *   42
 
-    *   43
-
-
-*    *   300 –    400
-
-    *   56
-
-    *   47
-
-    *   67
+    *   46
 
 
-*    *   400 –    500
+*    *   300 –    400
+
+    *   59
+
+    *   49
 
     *   69
 
-    *   61
 
-    *   92
+*    *   400 –    500
 
+    *   71
 
-*    *   500 –    600
+    *   64
 
-    *   118
-
-    *   104
-
-    *   116
+    *   97
 
 
-*    *   600 –    700
+*    *   500 –    600
 
-    *   134
+    *   124
 
-    *   122
+    *   108
 
-    *   141
-
-
-*    *   700 –    800
-
-    *   165
-
-    *   142
-
-    *   167
+    *   121
 
 
-*    *   800 –    900
+*    *   600 –    700
 
-    *   199
+    *   140
 
-    *   159
+    *   127
 
-    *   190
+    *   147
+
+
+*    *   700 –    800
+
+    *   173
+
+    *   148
+
+    *   175
+
+
+*    *   800 –    900
+
+    *   208
+
+    *   166
+
+    *   200
 
 
 *    *   900 –  1 000
 
-    *   230
+    *   241
 
-    *   164
+    *   172
 
-    *   216
+    *   226
 
 
 *    *   1 000 –  1 100
 
-    *   264
+    *   276
 
-    *   184
+    *   192
 
-    *   236
+    *   246
 
 
 *    *   1 100 –  1 200
 
-    *   288
+    *   302
 
-    *   204
+    *   214
 
-    *   255
+    *   268
 
 
 *    *   1 200 –  1 300
 
-    *   312
+    *   327
 
-    *   226
+    *   236
 
-    *   275
+    *   288
 
 
 *    *   1 300 –  1 400
 
-    *   336
+    *   352
 
-    *   248
+    *   261
 
-    *   296
+    *   310
 
 
 *    *   1 400 –  1 500
 
-    *   361
+    *   379
 
-    *   268
+    *   281
 
-    *   315
+    *   330
 
 
 *    *   1 500 –  1 600
 
-    *   383
+    *   400
 
-    *   288
+    *   302
 
-    *   334
+    *   350
 
 
 *    *   1 600 –  1 700
 
-    *   406
+    *   425
 
-    *   309
+    *   323
 
-    *   354
+    *   371
 
 
 *    *   1 700 –  1 800
 
-    *   425
+    *   445
 
-    *   332
+    *   348
 
-    *   373
+    *   391
 
 
 *    *   1 800 –  1 900
 
-    *   456
+    *   478
 
-    *   334
+    *   350
 
-    *   392
+    *   410
 
 
 *    *   1 900 –  2 000
 
-    *   478
+    *   500
 
-    *   336
-
-    *   412
-
-
-*    *   2 000 –  2 100
-
-    *   503
-
-    *   355
+    *   352
 
     *   432
 
 
+*    *   2 000 –  2 100
+
+    *   526
+
+    *   372
+
+    *   453
+
+
 *    *   2 100 –  2 200
 
-    *   527
+    *   553
 
-    *   377
+    *   396
 
-    *   448
+    *   469
 
 
 *    *   2 200 –  2 300
 
-    *   550
+    *   576
 
-    *   401
+    *   419
 
-    *   467
+    *   489
 
 
 *    *   2 300 –  2 400
 
-    *   575
+    *   603
 
-    *   422
+    *   441
 
-    *   483
+    *   506
 
 
 *    *   2 400 –  2 500
 
-    *   597
+    *   625
 
-    *   442
+    *   463
 
-    *   501
+    *   524
 
 
 *    *   2 500 –  2 600
 
-    *   623
+    *   652
 
-    *   467
+    *   489
 
-    *   518
+    *   543
 
 
 *    *   2 600 –  2 700
 
-    *   646
+    *   677
 
-    *   488
+    *   512
 
-    *   541
+    *   566
 
 
 *    *   2 700 –  2 800
 
-    *   662
+    *   693
 
-    *   509
+    *   533
 
-    *   567
+    *   594
 
 
 *    *   2 800 –  2 900
 
-    *   681
+    *   713
 
-    *   533
+    *   558
 
-    *   589
+    *   616
 
 
 *    *   2 900 –  3 000
 
-    *   700
+    *   733
 
-    *   554
+    *   580
 
-    *   613
+    *   642
 
 
 *    *   3 000 –  3 200
 
-    *   717
+    *   751
 
-    *   577
+    *   605
 
-    *   638
+    *   669
 
 
 *    *   3 200 –  3 400
 
-    *   732
+    *   768
 
-    *   599
+    *   628
 
-    *   667
+    *   698
 
 
 *    *   3 400 –  3 600
 
-    *   748
+    *   784
 
-    *   606
+    *   634
 
-    *   695
+    *   729
 
 
 *    *   3 600 –  3 800
 
-    *   765
+    *   801
 
-    *   608
+    *   636
 
-    *   727
+    *   761
 
 
 *    *   3 800 –  4 000
 
-    *   782
+    *   818
 
-    *   612
+    *   641
 
-    *   755
+    *   791
 
 
 *    *   4 000 –  4 200
 
-    *   806
+    *   845
 
-    *   651
+    *   682
 
-    *   785
+    *   821
 
 
 *    *   4 200 –  4 400
 
-    *   831
+    *   869
 
-    *   693
+    *   727
 
-    *   813
+    *   852
 
 
 *    *   4 400 –  4 600
 
-    *   856
+    *   897
 
-    *   736
+    *   772
 
-    *   845
+    *   886
 
 
 *    *   4 600 –  4 800
 
-    *   882
+    *   924
 
-    *   781
+    *   817
 
-    *   872
+    *   913
 
 
 *    *   4 800 –  5 000
 
-    *   906
+    *   949
 
-    *   825
+    *   864
 
-    *   903
+    *   946
 
 
 *    *   5 000 –  5 500
 
-    *   941
+    *   985
 
-    *   866
+    *   907
 
-    *   932
+    *   976
 
 
 *    *   5 500 –  6 000
 
-    *   979
+    *   1 025
 
-    *   914
+    *   957
 
-    *   961
+    *   1 006
 
 
 *    *   6 000 –  6 500
 
-    *   1 108
-
-    *   931
+    *   1 160
 
     *   975
+
+    *   1 022
 
 
 *    *   6 500 –  7 000
 
-    *   1 171
+    *   1 227
 
-    *   1 001
+    *   1 048
 
-    *   1 008
+    *   1 057
 
 
 *    *   7 000 –  7 500
 
-    *   1 222
+    *   1 280
 
-    *   1 046
+    *   1 096
 
-    *   1 033
+    *   1 082
 
 
 *    *   7 500 –  8 000
 
-    *   1 272
+    *   1 332
 
-    *   1 084
+    *   1 136
 
-    *   1 070
+    *   1 121
 
 
 *    *   8 000 –  8 500
 
-    *   1 386
+    *   1 452
 
-    *   1 124
+    *   1 178
 
-    *   1 084
+    *   1 136
 
 
 *    *   8 500 –  9 000
 
-    *   1 455
+    *   1 525
 
-    *   1 160
+    *   1 215
 
-    *   1 097
+    *   1 149
 
 
 *    *   9 000 –  9 500
 
-    *   1 502
+    *   1 573
 
-    *   1 197
+    *   1 254
 
-    *   1 110
+    *   1 161
 
 
 *    *   9 500 – 10 000
 
-    *   1 551
+    *   1 625
 
-    *   1 235
+    *   1 294
 
-    *   1 124
+    *   1 178
 
 
 *    *   10 000 – 10 500
 
-    *   1 598
+    *   1 673
 
-    *   1 272
+    *   1 332
 
-    *   1 133
+    *   1 187
 
 
 *    *   10 500 – 11 000
 
-    *   1 646
+    *   1 724
 
-    *   1 333
+    *   1 398
 
-    *   1 147
+    *   1 202
 
 
 *    *   11 000 – 11 500
 
-    *   1 691
+    *   1 771
 
-    *   1 395
+    *   1 461
 
-    *   1 160
+    *   1 215
 
 
 *    *   11 500 – 12 000
 
-    *   1 740
+    *   1 823
 
-    *   1 449
-
-    *   1 197
-
-
-*    *   12 000 – 12 500
-
-    *   1 784
-
-    *   1 456
+    *   1 518
 
     *   1 254
 
 
+*    *   12 000 – 12 500
+
+    *   1 868
+
+    *   1 526
+
+    *   1 314
+
+
 *    *   12 500 – 13 000
 
-    *   1 827
+    *   1 914
 
-    *   1 458
+    *   1 528
 
-    *   1 316
+    *   1 378
 
 
 *    *   13 000 – 13 500
 
-    *   1 869
+    *   1 957
 
-    *   1 461
+    *   1 530
 
-    *   1 380
+    *   1 446
 
 
 *    *   13 500 – 14 000
 
-    *   1 913
+    *   2 003
 
-    *   1 462
+    *   1 531
 
-    *   1 444
+    *   1 514
 
 
 *    *   14 000 – 14 500
 
-    *   1 956
+    *   2 049
 
-    *   1 576
+    *   1 651
 
-    *   1 511
+    *   1 583
 
 
 *    *   14 500 – 15 000
 
-    *   2 001
+    *   2 097
 
-    *   1 606
+    *   1 683
 
-    *   1 585
+    *   1 660
 
 
 *    *   15 000 – 15 500
 
-    *   2 044
+    *   2 141
 
-    *   1 638
+    *   1 715
 
-    *   1 659
+    *   1 739
 
 
 *    *   15 500 – 16 000
 
-    *   2 088
+    *   2 187
 
-    *   1 670
+    *   1 749
 
-    *   1 745
+    *   1 827
 
 
 *    *   16 000 – 16 500
 
-    *   2 130
+    *   2 231
 
-    *   1 701
+    *   1 781
 
-    *   1 815
+    *   1 902
 
 
 *    *   16 500 – 17 000
 
-    *   2 174
+    *   2 277
 
-    *   1 759
+    *   1 842
 
-    *   1 881
+    *   1 971
 
 
 *    *   17 000 – 17 500
 
-    *   2 218
+    *   2 324
 
-    *   1 890
+    *   1 981
 
-    *   1 951
+    *   2 043
 
 
 *    *   17 500 – 18 000
 
-    *   2 262
+    *   2 370
 
-    *   1 954
+    *   2 046
 
-    *   2 019
+    *   2 116
 
 
 *    *   18 000 – 18 500
 
-    *   2 304
+    *   2 412
 
-    *   1 997
+    *   2 092
 
-    *   2 087
+    *   2 186
 
 
 *    *   18 500 – 19 000
 
-    *   2 348
+    *   2 459
 
-    *   2 041
+    *   2 139
 
-    *   2 155
+    *   2 257
 
 
 *    *   19 000 – 19 500
 
-    *   2 393
+    *   2 507
 
-    *   2 086
+    *   2 185
 
-    *   2 223
+    *   2 328
 
 
 *    *   19 500 – 20 000
 
-    *   2 435
+    *   2 550
 
-    *   2 128
+    *   2 229
 
-    *   2 290
+    *   2 399
 
 
 *    *   20 000 – 20 500
 
-    *   2 479
+    *   2 597
 
-    *   2 174
+    *   2 277
 
-    *   2 357
+    *   2 469
 
 
 *    *   20 500 – 21 000
 
-    *   2 521
+    *   2 640
 
-    *   2 218
+    *   2 324
 
-    *   2 427
+    *   2 542
 
 
 *    *   21 000 – 21 500
 
-    *   2 566
+    *   2 687
 
-    *   2 262
+    *   2 370
 
-    *   2 494
+    *   2 613
 
 
 *    *   21 500 – 22 000
 
-    *   2 609
+    *   2 733
 
-    *   2 290
+    *   2 399
 
-    *   2 563
+    *   2 685
 
 
 *    *   22 000 – 22 500
 
-    *   2 653
+    *   2 780
 
-    *   2 319
+    *   2 430
 
-    *   2 630
+    *   2 754
 
 
 *    *   22 500 – 23 000
 
-    *   2 698
+    *   2 827
 
-    *   2 346
+    *   2 457
 
-    *   2 699
+    *   2 828
 
 
 *    *   23 000 – 23 500
 
-    *   2 741
+    *   2 871
 
-    *   2 375
+    *   2 489
 
-    *   2 742
+    *   2 872
 
 
 *    *   23 500 – 24 000
 
-    *   2 782
+    *   2 914
 
-    *   2 401
+    *   2 515
 
-    *   2 784
+    *   2 916
 
 
 *    *   24 000 – 24 500
 
-    *   2 788
+    *   2 920
 
-    *   2 430
+    *   2 546
 
-    *   2 788
+    *   2 920
 
 
 *    *   24 500 – 25 000
 
-    *   2 788
+    *   2 920
 
-    *   2 458
+    *   2 575
 
-    *   2 788
+    *   2 920
 
 
 *    *   25 000 – 25 500
 
-    *   2 788
+    *   2 920
 
-    *   2 485
+    *   2 604
 
-    *   2 788
+    *   2 920
 
 
 *    *   25 500 – 26 000
 
-    *   2 788
+    *   2 920
 
-    *   2 513
+    *   2 632
 
-    *   2 788
+    *   2 920
 
 
 *    *   26 000 – 26 500
 
-    *   2 788
+    *   2 920
 
-    *   2 542
+    *   2 663
 
-    *   2 788
+    *   2 920
 
 
 *    *   26 500 – 27 000
 
-    *   2 788
+    *   2 920
 
-    *   2 568
+    *   2 690
 
-    *   2 788
+    *   2 920
 
 
 *    *   27 000 – 27 500
 
-    *   2 788
+    *   2 920
 
-    *   2 597
+    *   2 721
 
-    *   2 788
+    *   2 920
 
 
 *    *   27 500 – 28 000
 
-    *   2 788
+    *   2 920
 
-    *   2 625
+    *   2 749
 
-    *   2 788
+    *   2 920
 
 
 *    *   28 000 – 28 500
 
-    *   2 788
+    *   2 920
 
-    *   2 653
+    *   2 780
 
-    *   2 788
+    *   2 920
 
 
 *    *   28 500 – 29 000
 
-    *   2 788
+    *   2 920
 
-    *   2 681
+    *   2 808
 
-    *   2 788
+    *   2 920
 
 
 *    *   29 000 – 29 500
 
-    *   2 788
+    *   2 920
 
-    *   2 707
+    *   2 836
 
-    *   2 788
+    *   2 920
 
 
 *    *   29 500 – 30 000
 
-    *   2 788
+    *   2 920
 
-    *   2 735
+    *   2 865
 
-    *   2 788
+    *   2 920
 
 
 *    *   30 000 – 31 000
 
-    *   2 788
+    *   2 920
 
-    *   2 763
+    *   2 895
 
-    *   2 788
+    *   2 920
 
 
 *    *   31 000 – 32 000
 
-    *   2 788
+    *   2 920
 
-    *   2 788
+    *   2 920
 
-    *   2 788
+    *   2 920
 
 
 *    *   32 000 – 33 000
 
-    *   2 788
+    *   2 920
 
-    *   2 817
+    *   2 951
 
-    *   2 788
+    *   2 920
 
 
 *    *   33 000 – 34 000
 
-    *   2 788
+    *   2 920
 
-    *   2 831
+    *   2 965
 
-    *   2 788
+    *   2 920
 
 
 *    *   34 000 – 35 000
 
-    *   2 788
+    *   2 920
 
-    *   2 846
+    *   2 980
 
-    *   2 788
+    *   2 920
 
 
 *    *   35 000 – 36 000
 
-    *   2 788
+    *   2 920
 
-    *   2 860
+    *   2 997
 
-    *   2 788
+    *   2 920
 
 
 *    *   36 000 – 37 000
 
-    *   2 788
+    *   2 920
 
-    *   2 875
+    *   3 012
 
-    *   2 788
+    *   2 920
 
 
 *    *   37 000 – 38 000
 
-    *   2 788
+    *   2 920
 
-    *   2 889
+    *   3 026
 
-    *   2 788
+    *   2 920
 
 
 *    *   38 000 – 39 000
 
-    *   2 788
+    *   2 920
 
-    *   2 904
+    *   3 042
 
-    *   2 788
+    *   2 920
 
 
 *    *   39 000 – 40 000
 
-    *   2 788
+    *   2 920
 
-    *   2 918
+    *   3 057
 
-    *   2 788
+    *   2 920
 
 
 *    *   für jede weiteren
-
-    *
-    *
-    *
-
-*    *   angefangenen
-
-    *
-    *
-    *
-
-*    *   2 000 über 40 000
+        angefangenen
+        2 000 über 40 000
 
     *   –
 
-    *   28
+    *   30
 
     *   –
 
 
 *    *   höchstens jedoch
 
-    *   2 788
+    *   2 920
 
-    *   3 575
+    *   3 745
 
-    *   2 788
+    *   2 920
+
 
 
 
 ## **Teil IV**
 
-
-*    *   Lfd.
+*    *   Lfd
         Nr.
 
     *   Art der Lotsgelder
@@ -15135,7 +8732,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *   Grundbetrag
 
     *
-    *   74
+    *   89
 
 
 *    *
@@ -15143,12 +8740,13 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   1.14
 
-    *   2,32
+    *   2,74
 
 
 *    *   2
 
-    *   Zusätzliches Beratungsgeld bei einer Bruttoraumzahl des Fahrzeugs
+    *   Zusätzliches Beratungsgeld bei einem Bruttoraumgehalt des Fahrzeuges
+        in Registertonnen oder einer Bruttoraumzahl
 
     *   1.15 und 1.16
 
@@ -15158,42 +8756,42 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *   bis  2 000
 
     *
-    *   37
+    *   45
 
 
 *    *
     *   über  2 000 bis  5 000
 
     *
-    *   61
+    *   72
 
 
 *    *
     *   über  5 000 bis 10 000
 
     *
-    *   100
+    *   117
 
 
 *    *
     *   über 10 000 bis 20 000
 
     *
-    *   174
+    *   206
 
 
 *    *
     *   über 20 000 bis 30 000
 
     *
-    *   225
+    *   266
 
 
 *    *
     *   über 30 000
 
     *
-    *   275
+    *   325
 
 
 *    *   3
@@ -15202,7 +8800,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   2.1
 
-    *   76
+    *   92
 
 
 *    *
@@ -15217,7 +8815,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   3.1
 
-    *   57
+    *   67
 
 
 *    *   5
@@ -15226,7 +8824,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   3.2, 3.3 und 3.4
 
-    *   100
+    *   117
 
 
 *    *   6
@@ -15235,7 +8833,7 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   3.2.1
 
-    *   21
+    *   22
 
 
 *    *   7
@@ -15244,7 +8842,16 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   3.5
 
-    *   35
+    *   42
+
+
+*    *   8
+
+    *   Beratungsgeld Baustellenfahrzeuge NOK
+
+    *   1.17
+
+    *   255,09
 
 
 

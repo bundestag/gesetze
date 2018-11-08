@@ -456,8 +456,9 @@ Abschlussprüfung nach § 6 dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 3)
 
-## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Schutz und Sicherheit
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Schutz und Sicherheit
 
 (Fundstelle: BGBl. I 2008, 935 - 939)
 

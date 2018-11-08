@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.12.1999 I 2664;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.6.2011 I 1202
+:   Art. 12 G v. 2.6.2021 I 1387
 
 
 ## Abschnitt 1 - Rehabilitierung und Folgeansprüche
@@ -229,7 +229,7 @@ erfolgte Erstattungen sind anzurechnen.
 werden, wenn eine genaue Feststellung nicht oder nur mit
 unverhältnismäßigem Aufwand möglich wäre.
 
-(3) § 17 Abs. 4 und § 25 Abs. 1 gelten entsprechend.
+(3) § 25 Absatz 1 gilt entsprechend.
 
 
 ## Abschnitt 2 - Gerichtliches Verfahren
@@ -238,7 +238,7 @@ unverhältnismäßigem Aufwand möglich wäre.
 
 ### § 7 Antrag
 
-(1) Der Antrag nach § 1 kann bis zum 31. Dezember 2019
+(1) Der Antrag nach § 1 kann
 
 1.  von dem durch die Entscheidung unmittelbar in seinen Rechten
     Betroffenen oder seinem gesetzlichen Vertreter,
@@ -319,11 +319,27 @@ bezeichnen und die den Antrag begründenden Tatsachen glaubhaft zu
 machen. § 11 Abs. 4 Satz 2 und 3 dieses Gesetzes sowie § 294 Abs. 1
 der Zivilprozessordnung gelten entsprechend.
 
-(3) Dem Antragsteller sind auf sein Verlangen Abschriften der
+(3) Es wird vermutet, dass die Anordnung der Unterbringung in einem
+Heim für Kinder oder Jugendliche der politischen Verfolgung oder sonst
+sachfremden Zwecken diente, wenn eine Einweisung in ein Spezialheim
+oder in eine vergleichbare Einrichtung, in der eine zwangsweise
+Umerziehung erfolgte, stattfand. Darüber hinaus wird vermutet, dass
+die Anordnung der Unterbringung in einem Heim für Kinder oder
+Jugendliche der politischen Verfolgung oder sonst sachfremden Zwecken
+diente, soweit gleichzeitig mit der Unterbringung freiheitsentziehende
+Maßnahmen gegen die Eltern oder Elternteile aufgrund von
+Entscheidungen, die im Wege der Rehabilitierung für rechtsstaatswidrig
+erklärt und aufgehoben worden sind, vollstreckt wurden. Eine
+gleichzeitige Vollstreckung freiheitsentziehender Maßnahmen liegt vor,
+wenn zwischen der Unterbringung in einem Heim und der Vollstreckung
+der freiheitsentziehenden Maßnahmen ein Sach- und Zeitzusammenhang
+besteht.
+
+(4) Dem Antragsteller sind auf sein Verlangen Abschriften der
 angegriffenen Entscheidung und der Anklageschrift zu erteilen, soweit
 diese zugänglich sind.
 
-(4) Das Gericht kann die Durchführung einzelner Ermittlungen der
+(5) Das Gericht kann die Durchführung einzelner Ermittlungen der
 Staatsanwaltschaft übertragen.
 
 
@@ -493,12 +509,7 @@ Häftlingshilfegesetz, anzurechnen.
 (3) Die Kapitalentschädigung ist ab Antragstellung, frühestens jedoch
 ab dem 18. September 1990, übertragbar und vererblich.
 
-(4) Der Antrag auf Gewährung einer Kapitalentschädigung ist bis zum
-31\. Dezember 2019 zu stellen. Danach kann ein Antrag nur innerhalb
-eines Jahres seit Rechtskraft der Entscheidung nach § 12 gestellt
-werden.
-
-(5) Berechtigte, denen bereits eine Kapitalentschädigung nach § 17
+(4) Berechtigte, denen bereits eine Kapitalentschädigung nach § 17
 Abs. 1 in Verbindung mit Abs. 2 in der bis zum 31. Dezember 1999
 geltenden Fassung gewährt worden ist, erhalten auf Antrag eine
 Nachzahlung. Soweit die zusätzliche Kapitalentschädigung nach § 17
@@ -509,7 +520,6 @@ mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen
 Ordnung unvereinbaren Freiheitsentziehung. Der Anspruch auf
 Nachzahlung ist übertragbar und vererblich, soweit auch die
 Kapitalentschädigung gemäß Absatz 3 übertragbar und vererblich ist.
-Absatz 4 Satz 1 gilt entsprechend.
 
 
 ### § 17a Besondere Zuwendung für Haftopfer
@@ -518,22 +528,26 @@ Absatz 4 Satz 1 gilt entsprechend.
 besonders beeinträchtigt sind, erhalten auf Antrag eine monatliche
 besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen
 Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung
-unvereinbare Freiheitsentziehung von insgesamt mindestens 180 Tagen
+unvereinbare Freiheitsentziehung von insgesamt mindestens 90 Tagen
 erlitten haben. Die monatliche besondere Zuwendung für Haftopfer
-beläuft sich auf 250 Euro.
+beläuft sich auf 330 Euro. Das Bundesministerium der Justiz und für
+Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium
+der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025,
+die Höhe der monatlichen besonderen Zuwendung für Haftopfer.
 
 (2) Berechtigte gelten als in ihrer wirtschaftlichen Lage besonders
 beeinträchtigt, wenn ihr Einkommen die in den Sätzen 7 bis 9
 bestimmten Einkommensgrenzen nicht übersteigt. Das monatliche
-Einkommen ist entsprechend § 82 Absatz 1 Satz 1 und 2 sowie Absatz 2
-des Zwölften Buches Sozialgesetzbuch in Verbindung mit der Verordnung
-zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch zu
-ermitteln; Renten wegen Alters, verminderter Erwerbsfähigkeit,
-Arbeitsunfalls oder Berufskrankheit sowie wegen Todes oder
-vergleichbare Leistungen und Kindergeld bleiben unberücksichtigt.
-Neben den in § 82 Absatz 2 des Zwölften Buches Sozialgesetzbuch
-genannten Beträgen sind die angemessenen Beiträge zur betrieblichen
-Altersvorsorge vom Einkommen abzuziehen. Soweit
+Einkommen ist entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1
+und Absatz 7 Satz 1 bis 3 des Zwölften Buches Sozialgesetzbuch in
+Verbindung mit der Verordnung zur Durchführung des § 82 des Zwölften
+Buches Sozialgesetzbuch zu ermitteln; Renten wegen Alters,
+verminderter Erwerbsfähigkeit, Arbeitsunfalls oder Berufskrankheit
+sowie wegen Todes oder vergleichbare Leistungen, Arbeitsförderungsgeld
+und Kindergeld bleiben unberücksichtigt. Neben den in § 82 Absatz 2
+Satz 1 des Zwölften Buches Sozialgesetzbuch genannten Beträgen sind
+die angemessenen Beiträge zur betrieblichen Altersvorsorge vom
+Einkommen abzuziehen. Soweit
 
 1.  die Einkünfte als Jahreseinkünfte berechnet werden oder
 
@@ -588,7 +602,10 @@ Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 (6) Das Erste und das Zehnte Buch Sozialgesetzbuch finden
 entsprechende Anwendung, soweit nicht dieses Gesetz etwas anderes
-bestimmt.
+bestimmt.Führt eine Änderung dieses Gesetzes zu einer Änderung laufend
+gewährter Leistungen nach Absatz 1, sind diese von Amts wegen neu
+festzustellen. Von einer förmlichen Bescheiderteilung kann abgesehen
+werden; ausgenommen hiervon sind Fälle nach Absatz 3.
 
 (7) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt,
 gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer
@@ -602,7 +619,7 @@ Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
 besonders beeinträchtigt sind, erhalten Unterstützungsleistungen, wenn
 die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen
 rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung insgesamt
-weniger als 180 Tage betragen hat. Das gilt nicht für Berechtigte,
+weniger als 90 Tage betragen hat. Das gilt nicht für Berechtigte,
 denen in Härtefällen nach § 19 eine besondere Zuwendung nach § 17a
 gewährt wird. Für die Gewährung der Leistungen nach Satz 1 ist die
 nach § 15 des Häftlingshilfegesetzes errichtete Stiftung für ehemalige
@@ -613,8 +630,9 @@ stellt Richtlinien für die Verwendung der Mittel auf, in denen er
 bestimmt, unter welchen Voraussetzungen und bis zu welcher Höhe
 Unterstützungsleistungen gewährt werden. Die Richtlinien bedürfen der
 Genehmigung des für dieses Gesetz federführenden Bundesministeriums im
-Einvernehmen mit den Bundesministerien des Innern und der Finanzen.
-Die §§ 22 und 23 des Häftlingshilfegesetzes gelten entsprechend.
+Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
+und dem Bundesministerium der Finanzen. Die §§ 22 und 23 des
+Häftlingshilfegesetzes gelten entsprechend.
 
 (3) Nach dem Tod des Berechtigten gilt für seine nächsten Angehörigen
 (Ehegatten, Kinder und Eltern) Absatz 1 in Verbindung mit Absatz 2
@@ -634,14 +652,43 @@ Angehörigen von
 erhalten die Leistungen nach Satz 1 auch dann, wenn sie nicht in ihrer
 wirtschaftlichen Lage besonders beeinträchtigt sind.
 
-(4) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
+(4) Ein Antragsteller, der in einem Heim für Kinder oder Jugendliche
+untergebracht war, erhält auch Unterstützungsleistungen, wenn
+
+1.  die Unterbringung angeordnet wurde, weil zeitgleich mit dieser eine
+    freiheitsentziehende Maßnahme, die mit wesentlichen Grundsätzen einer
+    freiheitlichen rechtsstaatlichen Ordnung unvereinbar ist, an Eltern,
+    Elternteilen oder einer Person vollstreckt wurde, die ihn nicht nur
+    vorübergehend in ihren Haushalt aufgenommen und dort gepflegt, erzogen
+    und beaufsichtigt hat,
+
+
+2.  er in seiner wirtschaftlichen Lage besonders beeinträchtigt ist,
+
+
+3.  er einen Antrag auf Rehabilitierung gestellt hat, der rechtskräftig
+    abgelehnt worden ist, und
+
+
+4.  die Person nach Nummer 1 infolge der freiheitsentziehenden Maßnahme
+    nach § 1 auch in Verbindung mit § 2 rehabilitiert worden ist, für sie
+    eine Bescheinigung nach § 10 Absatz 4 Satz 1 des
+    Häftlingshilfegesetzes ausgestellt worden ist oder für sie
+    festgestellt worden ist, dass die Voraussetzungen nach § 1 Absatz 1
+    des Häftlingshilfegesetzes vorliegen.
+
+
+
+Absatz 1 Satz 3 und Absatz 2 gelten entsprechend.
+
+(5) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
 Personen, die aus den in § 1 Abs. 1 Nr. 1 des Häftlingshilfegesetzes
 genannten Gründen aus dem Beitrittsgebiet fliehen wollten oder
 geflohen sind und infolge von Maßnahmen zur Verhinderung der Flucht
 ihr Leben verloren haben, soweit eine Bescheinigung nach § 10 Abs. 4
 des Häftlingshilfegesetzes ausgestellt worden ist.
 
-(5) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
+(6) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
 Personen, die aus Anlass der Niederschlagung des Aufstandes vom 17.
 Juni 1953 im Beitrittsgebiet ihr Leben verloren haben, soweit eine
 Entscheidung nach § 12 des Verwaltungsrechtlichen
@@ -784,12 +831,9 @@ erhalten haben
 
 Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 an
 Berechtigte nach Satz 1 sind ausschließlich die in § 10 Abs. 2 des
-Häftlingshilfegesetzes bestimmten Stellen zuständig. Der Antrag auf
-Gewährung einer Kapitalentschädigung ist bis zum 31. Dezember 2019 zu
-stellen. Danach kann ein Antrag nur innerhalb eines Jahres seit
-Bestandskraft der Bescheinigung nach § 10 Abs. 4 des
-Häftlingshilfegesetzes gestellt werden. Über Streitigkeiten bei der
-Anwendung der Sätze 1 und 2 entscheidet das Verwaltungsgericht.
+Häftlingshilfegesetzes bestimmten Stellen zuständig. Über
+Streitigkeiten bei der Anwendung der Sätze 1 und 2 entscheidet das
+Verwaltungsgericht.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates den Zeitpunkt und die Reihenfolge der
@@ -811,13 +855,12 @@ maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt
 unberührt.
 
 
-### § 25a Verwendung personenbezogener Daten
+### § 25a Verarbeitung von personenbezogenen Daten
 
 Personenbezogene Daten aus einem strafrechtlichen
 Rehabilitierungsverfahren dürfen auch für andere Verfahren zur
 Rehabilitierung, Wiedergutmachung oder Gewährung von Leistungen nach
-dem Häftlingshilfegesetz soweit erforderlich verarbeitet und genutzt
-werden.
+dem Häftlingshilfegesetz soweit erforderlich verarbeitet werden.
 
 
 ## Abschnitt 4 - Überleitungs- und Schlussvorschriften

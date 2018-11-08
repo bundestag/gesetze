@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1969, 853
 
+Geändert durch
+:   Art. 21 V v. 2.6.2016 I 1257
+
 
 
 ## Eingangsformel
@@ -28,9 +31,10 @@ Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 
 ## § 1
 
-Den Wasser- und Schiffahrtsdirektionen wird die Ermächtigung
-übertragen, Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1
-Bundeswasserstraßengesetz (Strompolizeiverordnungen) zu erlassen.
+Der Generaldirektion Wasserstraßen und Schifffahrt wird die
+Ermächtigung übertragen, Rechtsverordnungen zur Gefahrenabwehr nach §
+24 Abs. 1 Bundeswasserstraßengesetz (Strompolizeiverordnungen) zu
+erlassen.
 
 
 ## § 2

@@ -27,7 +27,7 @@ Artikel 1 Nr. 2 des Gesetzes vom 14. März 1985 (BGBl. I S. 555)
 geändert worden ist, wird mit Zustimmung des Bundesrates verordnet:
 
 
-## Art 1 -
+## Art 1 - 
 
 
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 115
 
+Geändert durch
+:   Art. 1 V v. 28.10.2013 I 3902
+
 
 
 ## Eingangsformel
@@ -218,21 +221,31 @@ Gebieten in Betracht:
 1.  im Prüfungsbereich Technik:
 
     a)  Verwendung von Roh-, Zusatz-, Hilfsstoffen und Halbfabrikaten,
+        Verfahrenstechnik und Verfahrensabläufe sowie berufsbezogene
+        Berechnungen, nach Wahl des Prüflings aus einem der Bereiche
+
+        aa) Nahrungs- und Genussmittel,
+
+
+        bb) Getränkeherstellung oder
+
+
+        cc) tierische Lebensmittel,
+
+
+
 
 
     b)  Auftragsannahme, Arbeitsplanung und -organisation,
 
 
-    c)  Verfahrens- und Verpackungstechnik sowie Verfahrensabläufe,
+    c)  Verpackungstechnik,
 
 
     d)  Lagerarten, -techniken, -mittel und -bedingungen,
 
 
-    e)  Lagerbestandskontrollen und Inventur,
-
-
-    f)  berufsbezogene Berechnungen;
+    e)  Lagerbestandskontrolle und Inventur;
 
 
 
@@ -241,7 +254,20 @@ Gebieten in Betracht:
 2.  im Prüfungsbereich Qualitätsmanagement:
 
     a)  Eigenschaften von Roh-, Zusatz-, Hilfsstoffen, Halbfabrikaten,
-        Fertigprodukten und Verpackungsmaterialien,
+        Fertigprodukten und Verpackungsmaterialien, Grundsätze und
+        Vorschriften der Hygiene sowie berufsbezogene Berechnungen, nach Wahl
+        des Prüflings aus einem der Bereiche
+
+        aa) Nahrungs- und Genussmittel,
+
+
+        bb) Getränkeherstellung oder
+
+
+        cc) tierische Lebensmittel,
+
+
+
 
 
     b)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz,
@@ -250,12 +276,10 @@ Gebieten in Betracht:
     c)  Strukturmerkmale und Ziele des Qualitätsmanagements,
 
 
-    d)  rechtliche Rahmenbedingungen des Qualitätsmanagements, einschließlich
-        der Grundsätze und Vorschriften der Hygiene,
+    d)  rechtliche Rahmenbedingungen des Qualitätsmanagements,
 
 
-    e)  Kontrolle, Bewertung und Dokumentation im Rahmen des
-        Qualitätsmanagements einschließlich berufsbezogener Berechnungen;
+    e)  Kontrolle und Dokumentation im Rahmen des Qualitätsmanagements;
 
 
 
@@ -324,8 +348,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung Fachkraft für Lebensmitteltechnik
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung Fachkraft für Lebensmitteltechnik
 
 (Fundstelle: BGBl. I 2000, 118 - 120)
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 972
 
-Geändert durch
-:   Art. 6 V v. 29.9.2011 I 1996
+Zuletzt geändert durch
+:   Art. 2 V v. 19.11.2019 I 1862
 
 
 ## Eingangsformel
@@ -32,13 +32,24 @@ Ernährung, Landwirtschaft und Verbraucherschutz:
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 
-1.  zuständige Verbindungsstelle für den Bereich Lebensmittel nach Artikel
-    35 Abs. 1 Satz 1 der Verordnung (EG) Nr. 882/2004 des Europäischen
-    Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen
-    zur Überprüfung der Einhaltung des Lebensmittel- und
-    Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und
-    Tierschutz (ABl. EU Nr. L 165 S. 1, Nr. L 191 S. 1) in der jeweils
-    geltenden Fassung,
+1.  zuständige Verbindungsstelle nach Artikel 103 Absatz 1 der Verordnung
+    (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März
+    2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur
+    Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und
+    der Vorschriften über Tiergesundheit und Tierschutz,
+    Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der
+    Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009,
+    (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU)
+    2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates,
+    der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates
+    sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG
+    und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr.
+    854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des
+    Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG,
+    96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses
+    92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95
+    vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 48 vom 21.2.2018, S.
+    44; L 322 vom 18.12.2018, S. 85) in der jeweils geltenden Fassung,
 
 
 2.  zuständige nationale Behörde nach Artikel 1 Abs. 4 Satz 2, Artikel 15
@@ -78,7 +89,15 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
     1331/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
     2008 über ein einheitliches Zulassungsverfahren für
     Lebensmittelzusatzstoffe, -enzyme und -aromen (ABl. L 354 vom
-    31\.12.2008, S. 1) in der jeweils geltenden Fassung.
+    31\.12.2008, S. 1) in der jeweils geltenden Fassung,
+
+
+7.  zuständige Behörde nach Artikel 10 Absatz 3 Satz 1 der Verordnung (EG)
+    Nr. 282/2008 der Kommission vom 27. März 2008 über Materialien und
+    Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit
+    Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung
+    (EG) Nr. 2023/2006 (ABl. L 86 vom 28.3.2008, S. 9) in der jeweils
+    geltenden Fassung.
 
 
 

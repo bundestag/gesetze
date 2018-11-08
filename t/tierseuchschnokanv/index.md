@@ -18,10 +18,10 @@ Fundstelle
 :   BGBl I: 1973, 605, 732
 
 Neugefasst durch
-:   Bek. v. 19.7.1983 I 1015,
+:   Bek. v. 19.7.1983 I 1015;
 
 Zuletzt geändert durch
-:   Art. 24 V v. 23.5.1991 I 1151
+:   Art. 15 V v. 17.4.2014 I 388
 
 
 ## § 1
@@ -39,9 +39,9 @@ Zuletzt geändert durch
 
 
 
-durch den Nord-Ostsee-Kanal (Kanal). Andere auf § 7 Abs. 1 oder 2 des
-Tierseuchengesetzes gestützte Vorschriften finden auf die in Satz 1
-bezeichnete Durchfahrt keine Anwendung.
+durch den Nord-Ostsee-Kanal (Kanal). Andere auf § 14 Absatz 1, § 38
+Absatz 2 und 4 des Tiergesundheitsgesetzes gestützte Vorschriften
+finden auf die in Satz 1 bezeichnete Durchfahrt keine Anwendung.
 
 (2) Der Bereich des Kanals im Sinne dieser Verordnung erstreckt sich
 von der Verbindungslinie zwischen den Molenköpfen in Brunsbüttel bis
@@ -127,31 +127,42 @@ weiterverbreitet werden.
 
 ## § 5
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig einer mit
-einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage
-zuwiderhandelt.
+(1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 2 Abs. 1 Satz 1 ein lebendes oder verendetes Tier,
-    tierische Abgänge, Einstreu, Futter oder Abwasser von Bord verbringt
-    oder abläßt,
+1.  entgegen § 3a Absatz 1 Satz 1 Arbeitskleidung oder Arbeitsschuhe nicht
+    oder nicht rechtzeitig wechselt,
 
 
-2.  entgegen § 2 Abs. 2 Satz 1 die Durchfahrt nicht anzeigt,
+2.  entgegen § 3a Absatz 1 Satz 2 Schuhwerk nicht oder nicht rechtzeitig
+    reinigt oder nicht, nicht richtig oder nicht rechtzeitig desinfiziert
+    oder
 
 
-3.  entgegen § 3 Abs. 1 Satz 2 Teile, Erzeugnisse, Rohstoffe, Rauhfutter,
-    Stroh oder einen anderen Gegenstand von Bord verbringt,
+3.  einer mit einer Zulassung nach § 4 in Verbindung mit § 3a Absatz 1
+    verbundenen vollziehbaren Auflage zuwiderhandelt.
 
 
-4.  entgegen § 3a Abs. 1 Arbeitskleidung oder -schuhe nicht wechselt oder
-    das Schuhwerk nicht reinigt und desinfiziert oder
 
 
-5.  entgegen § 3a Abs. 3 Desinfektionsmittel nicht bereitstellt.
+(2) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe d des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 2 Absatz 1 Satz 1 ein dort genanntes Tier, einen dort
+    genannten Gegenstand oder Abwasser von Bord verbringt oder ablässt,
+
+
+2.  entgegen § 2 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erstattet,
+
+
+3.  entgegen § 3 Absatz 1 Satz 2 einen dort genannten Gegenstand von Bord
+    verbringt oder
+
+
+4.  einer mit einer Zulassung nach § 4 in Verbindung mit § 2 Absatz 1 Satz
+    1 oder Absatz 2 Satz 1 oder § 3 Absatz 1 Satz 2 verbundenen
+    vollziehbaren Auflage zuwiderhandelt.
 
 
 

@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz
-  im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+  im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur
 jurabk: BMVBSBNichtrSchGZustV
 layout: default
 origslug: bmvbsbnichtrschgzustv
@@ -8,13 +8,16 @@ slug: bmvbsbnichtrschgzustv
 
 ---
 
-# Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung (BMVBSBNichtrSchGZustV)
+# Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur (BMVBSBNichtrSchGZustV)
 
 Ausfertigungsdatum
 :   2007-10-05
 
 Fundstelle
 :   BGBl I: 2007, 2347
+
+Zuletzt geändert durch
+:   Art. 7 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -64,7 +67,7 @@ ausüben, übertragen:
 –   Bundesamt für Seeschifffahrt und Hydrographie,
 
 
-–   Wasser- und Schifffahrtsdirektionen.
+–   Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 
@@ -73,14 +76,14 @@ ausüben, übertragen:
 Ordnungswidrigkeiten nach § 5 Abs. 1 des
 Bundesnichtraucherschutzgesetzes wird auf
 
-1.  die Wasser- und Schifffahrtsdirektionen für die Ordnungswidrigkeiten
-    übertragen, die in Räumlichkeiten der ihnen jeweils nachgeordneten
-    Wasser- und Schifffahrtsämter, einschließlich der Außenbezirke,
-    Bauhöfe, Revierzentralen und sonstigen Einrichtungen, sowie der
-    Wasserstraßen-Neubauämter begangen werden,
+1.  die Generaldirektion Wasserstraßen und Schifffahrt für die
+    Ordnungswidrigkeiten übertragen, die in Räumlichkeiten der ihr
+    nachgeordneten Wasserstraßen- und Schifffahrtsämter, einschließlich
+    der Außenbezirke, Bauhöfe, Revierzentralen und sonstigen
+    Einrichtungen, sowie der Wasserstraßen-Neubauämter begangen werden,
 
 
-2.  die Wasser- und Schifffahrtsdirektion Südwest für die
+2.  die Generaldirektion Wasserstraßen und Schifffahrt für die
     Ordnungswidrigkeiten übertragen, die in den Räumlichkeiten der
     Bundesanstalt für Wasserbau und der Bundesanstalt für Gewässerkunde
     begangen werden,

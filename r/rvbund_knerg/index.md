@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3242, 3292
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2011 I 3057
+:   Art. 1 G v. 15.11.2019 I 1565
 
 
 ## Abschnitt 1 - Errichtung der Deutschen Rentenversicherung Bund
@@ -87,4 +87,35 @@ gehen in der Deutschen Rentenversicherung Knappschaft-Bahn-See auf.
 (2) Das Vermögen sowie Rechte und Pflichten der
 Bahnversicherungsanstalt und der Seekasse gehen als Ganzes auf die
 Deutsche Rentenversicherung Knappschaft-Bahn-See über.
+
+
+### § 6 Stellenbörse
+
+Die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der
+knappschaftlichen Rentenversicherung kann eine internetbasierte
+Stellenbörse für Beschäftigungsverhältnisse in Privathaushalten
+betreiben. Die Einrichtung der Stellenbörse erfolgt im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales.
+
+
+### § 7 Beauftragung im Zusammenhang mit der Administration und Prüfung von Förderprogrammen und Förderprojekten
+
+(1) Bundesministerien können der Deutschen Rentenversicherung
+Knappschaft-Bahn-See Aufgaben der Administration und Prüfung von
+Förderprogrammen und Förderprojekten des Bundes oder von vom Bund
+administrierten Förderprogrammen übertragen. Die Übertragung der
+Aufgaben bedarf der Genehmigung des Bundesministeriums für Arbeit und
+Soziales. Die §§ 7 und 44 der Bundeshaushaltsordnung bleiben
+unberührt.
+
+(2) Der Deutschen Rentenversicherung Knappschaft-Bahn-See werden die
+Verwaltungskosten, die ihr durch die Wahrnehmung der ihr übertragenen
+Aufgaben entstehen, vom Bund erstattet.
+
+(3) Die Erfüllung der Aufgaben nach Absatz 1 durch die Deutsche
+Rentenversicherung Knappschaft-Bahn-See erfolgt unter der Aufsicht des
+jeweils beauftragenden Bundesministeriums.
+
+(4) Das Nähere zu Inhalt und Umfang der Beauftragung ist durch
+Verwaltungsvereinbarungen zu regeln.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 302 V v. 31.10.2006 I 2407
+:   Art. 107 G v. 8. 7.2016 I 1594
 
 Artikel 2 und 5 dieses Gesetzes dienen der Übernahme der Richtlinie
 91/440/EWG des Rates vom 29. Juli 1991 zur Entwicklung der
@@ -49,7 +49,7 @@ beschlossen:
 
 
 
-## Art 6
+## Art 6 - 
 
 
 
@@ -57,67 +57,8 @@ beschlossen:
 
 
 
-## § 1 Unfallversicherung
+## (XXXX) §§ 1 bis § 4 (weggefallen)
 
-(1) Die Rechte und Pflichten des Bundes als Träger der gesetzlichen
-Unfallversicherung, die bisher nach § 766 der
-Reichsversicherungsordnung von der Bundesbahn-Ausführungsbehörde für
-Unfallversicherung wahrgenommen wurden, gehen auf die Eisenbahn-
-Unfallkasse über. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung regelt das Nähere durch Rechtsverordnung; darin kann
-auch durch Rechtsverordnung angeordnet werden, inwieweit
-Entschädigungsansprüche, die vor dem Übergang auf die Eisenbahn-
-Unfallkasse entstanden sind, vom Bundeseisenbahnvermögen zu erfüllen
-sind.
-
-(2) Bis zum Ablauf der laufenden Wahlperiode der Sozialversicherung
-nehmen die Vertreterversammlung, der Vorstand und der Geschäftsführer
-der Bundesbahn-Ausführungsbehörde für Unfallversicherung die Aufgaben
-der Vertreterversammlung, des Vorstandes und des Geschäftsführers der
-Eisenbahn-Unfallkasse wahr.
-
-(3) Die Eisenbahn-Unfallkasse hat innerhalb eines Jahres nach
-Inkrafttreten dieses Gesetzes die Satzung und innerhalb von zwei
-Jahren das übrige erforderliche autonome Recht zu erlassen. Bis zum
-Erlaß dieser Vorschriften gelten die auf Grund von § 575 Abs. 2 Nr. 1
-und § 765 Abs. 1 Nr. 2 der Reichsversicherungsordnung erlassenen
-Verordnungen sowie die Unfallverhütungsvorschriften weiter.
-
-(4) Die Erstausstattung der Eisenbahn-Unfallkasse mit Sachmitteln
-erfolgt aus dem Bestand des Bundeseisenbahnvermögens. Ein
-Zahlungsausgleich findet nicht statt. Einzelheiten legt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung mit dem
-Bundesministerium der Finanzen fest.
-
-
-## § 2 Güterkraftverkehr der Deutschen Bundesbahn
-
-§ 10 Abs. 3 und 4 des Güterkraftverkehrsgesetzes in der Fassung der
-Bekanntmachung vom 10. März 1983 (BGBl. I S. 256), das zuletzt durch
-Artikel 1 des Gesetzes vom 13. August 1993 (BGBl. I S. 1489) geändert
-worden ist, gilt nicht für die nach § 2 Abs. 3 der Höchstzahlen-
-Verordnung GüKG vom 9. Dezember 1986 (BGBl. I S. 2452), die zuletzt
-durch Artikel 6 Abs. 122 dieses Gesetzes geändert worden ist, zu
-erteilenden Genehmigungen für den Güterfernverkehr sowie für die
-weitere Erteilung dieser Genehmigungen an die Deutsche Bahn
-Aktiengesellschaft oder an Unternehmen, an denen diese Gesellschaft
-mehrheitlich beteiligt ist.
-
-
-## § 3 Berufsausbildungsverhältnisse
-
-(weggefallen)
-
-
-## § 4 Jahresabschlüsse der Deutschen Bundesbahn und der Deutschen Reichsbahn für das Geschäftsjahr 1993
-
-Mit der Prüfung der Jahresabschlüsse der Deutschen Bundesbahn und der
-Deutschen Reichsbahn für das Geschäftsjahr 1993 beauftragt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
-Einvernehmen mit dem Bundesministerium der Finanzen Wirtschaftsprüfer
-oder Wirtschaftsprüfungsgesellschaften. Die Entlastung erfolgt durch
-das Bundesministerium für Verkehr, Bau und Stadtentwicklung im
-Einvernehmen mit dem Bundesministerium der Finanzen.
 
 
 ## Art 8 - Außerkrafttreten bisherigen Rechts
@@ -146,8 +87,7 @@ Mit Inkrafttreten dieses Gesetzes treten außer Kraft:
 
 ## § 2
 
-Die §§ 6a, 6c, 6e Abs. 1 und die §§ 6f und 6g des Allgemeinen
-Eisenbahngesetzes gelten fort.
+(weggefallen)
 
 
 ## § 3
@@ -191,9 +131,7 @@ entsprechend.
 
 ## Art 10 - Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf Artikel 6 beruhenden Teile der dort geänderten
-Rechtsverordnungen können auf Grund der jeweils einschlägigen
-Ermächtigung durch Rechtsverordnung geändert werden.
+(weggefallen)
 
 
 ## Art 11 - Inkrafttreten

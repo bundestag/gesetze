@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 568
 
 Zuletzt geändert durch
-:   Art. 448 V v. 31.10.2006 I 2407
+:   Art. 20 G v. 11.11.2016 I 2500
 
 
 ## Eingangsformel
@@ -84,13 +84,29 @@ Für die Ausstellung der Versicherungsbescheinigung sind zuständig:
 (1) Ist in der Versicherungsbescheinigung angegeben, daß der Student
 versichert ist, meldet die Hochschule der zuständigen Krankenkasse auf
 dem Vordruck nach dem Muster der Anlage 2 unverzüglich das Datum der
-Einschreibung. Die Hochschule hat der Krankenkasse das Ende des
-Semesters, mit dem die Mitgliedschaft in der Hochschule endet, auf dem
-Vordruck nach dem Muster der Anlage 2 unverzüglich zu melden. Zwischen
-den Spitzenverbänden der Krankenkassen und den Hochschulen können für
-nach § 5 Abs. 1 Nr. 1 des Fünften Buches Sozialgesetzbuch
-versicherungspflichtig beschäftigte Studenten abweichende
-Vereinbarungen getroffen werden.
+Einschreibung. Die Hochschule hat der Krankenkasse unverzüglich zu
+melden:
+
+1.  das Ende des Semesters, mit dem die Mitgliedschaft in der Hochschule
+    endet,
+
+
+2.  den Abschluss des 14. Fachsemesters,
+
+
+3.  die Aufnahme eines Promotionsstudiums und
+
+
+4.  bei Aufnahme eines Masterstudiums, ob es sich um einen konsekutiven
+    oder weiterbildenden Studiengang handelt;
+
+
+
+für die Übermittlung ist der Vordruck nach dem Muster der Anlage 2 zu
+verwenden. Zwischen den Spitzenverbänden der Krankenkassen und den
+Hochschulen können für nach § 5 Abs. 1 Nr. 1 des Fünften Buches
+Sozialgesetzbuch versicherungspflichtig beschäftigte Studenten
+abweichende Vereinbarungen getroffen werden.
 
 (2) Für Hochschulen, die keine Semestereinteilung haben, gelten als
 Semester im Sinne dieser Verordnung die Zeiten vom 1. April bis 30.
@@ -196,7 +212,8 @@ Versicherten-Nr.
 
 ## Anlage 2
 
-(Fundstelle: BGBl. I 1996, 570)
+(Fundstelle: BGBl. I 1996, 570; bzgl. einzelner Änderungen vgl.
+Fußnote)
 Meldung
 für das Sommersemester 19../Wintersemester 19../19..
 Name, Anschrift (und Unterschrift) der Hochschule            Datum
@@ -208,6 +225,10 @@ Postleitzahl, Wohnort,
 ( ) ist (war) mit dem Ablauf des oben genannten Semesters nicht mehr
 als
 Student Mitglied dieser Hochschule.
+( ) hat das 14. Fachsemester abgeschlossen.
+( ) hat ein Promotionsstudium aufgenommen.
+( ) ist für einen konsekutiven Masterstudiengang eingeschrieben.
+( ) ist für einen weiterbildenden Masterstudiengang eingeschrieben.
 Versicherten-Nr.
 
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2872
 
-Geändert durch
-:   Art. 7 Abs. 16 G v. 27.6.2000 I 897
+Zuletzt geändert durch
+:   Art. 4 G v. 31.1.2019 I 54
 
 
 ## Eingangsformel
@@ -52,15 +52,18 @@ Legalisation stellen aus
 ## § 2
 
 Die Gebühr für die Ausstellung der Apostille und für die Prüfung gemäß
-Artikel 7 Abs. 2 des Übereinkommens beträgt je 13 Euro. Im übrigen
-gilt für die Kostenerhebung
+Artikel 7 Absatz 2 des Übereinkommens beträgt je 25 Euro. Im Übrigen
+gilt für die Erhebung von Gebühren und Auslagen
 
-1.  beim Bundesverwaltungsamt das Auslandskostengesetz vom 21. Februar
-    1978 (BGBl. I S. 301),
+1.  beim Bundesverwaltungsamt das Bundesgebührengesetz, der 5. Abschnitt
+    des Konsulargesetzes und die Besondere Gebührenverordnung des
+    Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes,
 
 
-2.  beim Deutschen Patentamt die Verordnung über die Verwaltungskosten
-    beim Deutschen Patentamt vom 15. Oktober 1991 (BGBl. I S. 2013)
+2.  beim Deutschen Patent- und Markenamt die DPMA-
+    Verwaltungskostenverordnung vom 14. Juli 2006 (BGBl. I S. 1586), die
+    zuletzt durch Artikel 211 der Verordnung vom 31. August 2015 (BGBl. I
+    S. 1474) geändert worden ist,
 
 
 

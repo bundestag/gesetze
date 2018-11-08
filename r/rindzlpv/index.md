@@ -78,8 +78,9 @@ Untersuchungen.
 
 (Inkrafttreten, Außerkrafttreten)
 
+(zu § 1 Abs. 2)
 
-## Anlage 1 (zu § 1 Abs. 2) Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
+## Anlage 1 Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
 
 
 *
@@ -383,8 +384,9 @@ Untersuchungen.
 
 
 
+(zu § 1 Abs. 3)
 
-## Anlage 2 (zu § 1 Abs. 3) Grundsätze für die Zuchtwertfeststellung
+## Anlage 2 Grundsätze für die Zuchtwertfeststellung
 
 
 1   Allgemeines

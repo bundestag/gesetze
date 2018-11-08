@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 589
 
+Änderung durch
+:   Art. 89 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+
 
 
 ## Eingangsformel

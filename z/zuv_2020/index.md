@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1921
 
+Geändert durch
+:   Art. 2 V v. 13.7.2017 I 2354
+
 
 ## Eingangsformel
 
@@ -1709,8 +1712,8 @@ Ablehnung durch die Europäische Kommission.
 (1) Es wird davon ausgegangen, dass eine Anlage ihren Betrieb
 teilweise eingestellt hat, wenn ein Zuteilungselement, auf das
 mindestens 30 Prozent der der Anlage endgültig jährlich kostenlos
-zugeteilten Berechtigungen entfallen oder für das jährlich mehr als 50
-000 Berechtigungen zugeteilt wurden, seine Aktivitätsrate in einem
+zugeteilten Berechtigungen entfallen oder für das jährlich mehr als
+50 000 Berechtigungen zugeteilt wurden, seine Aktivitätsrate in einem
 Kalenderjahr gegenüber der in der Zuteilung nach den §§ 9, 18 oder 19
 zugrunde gelegten Aktivitätsrate (Anfangsaktivitätsrate) um mindestens
 50 Prozent verringert.
@@ -2170,12 +2173,57 @@ fahrlässig
 
 
 
-### § 32 Inkrafttreten
+### § 32 Übergangsregelung zur Einbeziehung von Polymerisationsanlagen
+
+Für Polymerisationsanlagen gelten für die Jahre 2018 bis 2020 folgende
+Übergangsregelungen:
+
+1.  Als Bestandsanlage gelten alle Anlagen, denen vor dem 1. Juli 2011
+    eine Genehmigung zur Emission von Treibhausgasen erteilt wurde; als
+    Neuanlage gelten alle Anlagen, denen zum ersten Mal nach dem 30. Juni
+    2011 eine Genehmigung zur Emission von Treibhausgasen erteilt wurde.
+
+
+2.  Abweichend von § 16 Absatz 1 sind Anträge auf kostenlose Zuteilung von
+    Berechtigungen für neue Marktteilnehmer, die ihren Regelbetrieb oder
+    ihren geänderten Betrieb in dem Zeitraum vom 1. Juli 2011 bis zum 30.
+    September 2016 aufgenommen haben, bis zum Ablauf der Frist nach § 36
+    Absatz 3 des Treibhausgas-Emissionshandelsgesetzes zu stellen.
+
+
+3.  Abweichend von § 18 Absatz 4 werden für Emissionen der
+    Zuteilungselemente, die vor Aufnahme des Regelbetriebs erfolgt sind,
+    zusätzliche Berechtigungen nur zugeteilt, wenn die Emissionen nach dem
+    31\. Dezember 2017 erfolgt sind.
+
+
+4.  Abweichend von § 21 Absatz 2 Satz 1 hebt die zuständige Behörde die
+    Entscheidung über die Zuteilung von Berechtigungen an eine Anlage, die
+    ihren Betrieb teilweise einstellt, ab dem auf die teilweise
+    Betriebseinstellung folgenden Kalenderjahr, bei teilweisen
+    Betriebseinstellungen vor dem 1. Januar 2017 ab dem Jahr 2018, von
+    Amts wegen auf und passt die Zuteilung nach den Vorgaben nach § 21 an.
+
+
+5.  Abweichend von § 22 Absatz 1 hat der Anlagenbetreiber der zuständigen
+    Behörde alle relevanten Informationen über geplante oder tatsächliche
+    Änderungen der Kapazität, der Aktivitätsraten und des Betriebs der
+    Anlage bis zum 31. Januar des Folgejahres, erstmals zum 31. Januar
+    2018, mitzuteilen.
+
+
+
+
+
+### § 33 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3
+Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5
+Buchstabe c, § 23 Absatz 4 Satz 2)
 
-### Anhang 1 (zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3 Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5 Buchstabe c, § 23 Absatz 4 Satz 2) Anwendung besonderer Zuteilungsregeln
+### Anhang 1 Anwendung besonderer Zuteilungsregeln
 
 (Fundstelle: BGBl. I 2011, 1938- 1939)
 
@@ -2442,8 +2490,9 @@ Zuordnung der Eingangsströme und Emissionen
 
 
 
+(zu § 7 Absatz 3)
 
-### Anhang 2 (zu § 7 Absatz 3) Anforderungen an die sachverständigen Stellen und die Prüfung
+### Anhang 2 Anforderungen an die sachverständigen Stellen und die Prüfung
 
 (Fundstelle: BGBl. I 2011, 1940 - 1941)
 

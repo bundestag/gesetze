@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.8.1969 I 1317
 
 Zuletzt geändert durch
-:   Art. 3 G v. 26.3.2008 I 444
+:   Art. 2 G v. 14.6.2021 I 1762
 
 
 ## Erster Abschnitt - Allgemeiner Kündigungsschutz
@@ -433,18 +433,32 @@ Zeitpunkt der Einladung oder Antragstellung an bis zur Bekanntgabe des
 Wahlergebnisses unzulässig, es sei denn, dass Tatsachen vorliegen, die
 den Arbeitgeber zur Kündigung aus wichtigem Grund ohne Einhaltung
 einer Kündigungsfrist berechtigen; der Kündigungsschutz gilt für die
-ersten drei in der Einladung oder Antragstellung aufgeführten
-Arbeitnehmer. Wird ein Betriebsrat, eine Jugend- und
-Auszubildendenvertretung, eine Bordvertretung oder ein Seebetriebsrat
-nicht gewählt, besteht der Kündigungsschutz nach Satz 1 vom Zeitpunkt
-der Einladung oder Antragstellung an drei Monate.
+ersten sechs in der Einladung oder die ersten drei in der
+Antragstellung aufgeführten Arbeitnehmer. Wird ein Betriebsrat, eine
+Jugend- und Auszubildendenvertretung, eine Bordvertretung oder ein
+Seebetriebsrat nicht gewählt, besteht der Kündigungsschutz nach Satz 1
+vom Zeitpunkt der Einladung oder Antragstellung an drei Monate.
+
+(3b) Die Kündigung eines Arbeitnehmers, der Vorbereitungshandlungen
+zur Errichtung eines Betriebsrats oder einer Bordvertretung unternimmt
+und eine öffentlich beglaubigte Erklärung mit dem Inhalt abgegeben
+hat, dass er die Absicht hat, einen Betriebsrat oder eine
+Bordvertretung zu errichten, ist unzulässig, soweit sie aus Gründen
+erfolgt, die in der Person oder in dem Verhalten des Arbeitnehmers
+liegen, es sei denn, dass Tatsachen vorliegen, die den Arbeitgeber zur
+Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist
+berechtigen. Der Kündigungsschutz gilt von der Abgabe der Erklärung
+nach Satz 1 bis zum Zeitpunkt der Einladung zu einer Betriebs-, Wahl-
+oder Bordversammlung nach § 17 Absatz 3, § 17a Nummer 3 Satz 2, § 115
+Absatz 2 Nummer 8 Satz 1 des Betriebsverfassungsgesetzes, längstens
+jedoch für drei Monate.
 
 (4) Wird der Betrieb stillgelegt, so ist die Kündigung der in den
-Absätzen 1 bis 3 genannten Personen frühestens zum Zeitpunkt der
+Absätzen 1 bis 3a genannten Personen frühestens zum Zeitpunkt der
 Stillegung zulässig, es sei denn, daß ihre Kündigung zu einem früheren
 Zeitpunkt durch zwingende betriebliche Erfordernisse bedingt ist.
 
-(5) Wird eine der in den Absätzen 1 bis 3 genannten Personen in einer
+(5) Wird eine der in den Absätzen 1 bis 3a genannten Personen in einer
 Betriebsabteilung beschäftigt, die stillgelegt wird, so ist sie in
 eine andere Betriebsabteilung zu übernehmen. Ist dies aus
 betrieblichen Gründen nicht möglich, so findet auf ihre Kündigung die
@@ -455,11 +469,11 @@ Betriebs sinngemäß Anwendung.
 ### § 16 Neues Arbeitsverhältnis, Auflösung des alten Arbeitsverhältnisses
 
 Stellt das Gericht die Unwirksamkeit der Kündigung einer der in § 15
-Abs. 1 bis 3a genannten Personen fest, so kann diese Person, falls sie
-inzwischen ein neues Arbeitsverhältnis eingegangen ist, binnen einer
-Woche nach Rechtskraft des Urteils durch Erklärung gegenüber dem alten
-Arbeitgeber die Weiterbeschäftigung bei diesem verweigern. Im übrigen
-finden die Vorschriften des § 11 und des § 12 Satz 2 bis 4
+Absatz 1 bis 3b genannten Personen fest, so kann diese Person, falls
+sie inzwischen ein neues Arbeitsverhältnis eingegangen ist, binnen
+einer Woche nach Rechtskraft des Urteils durch Erklärung gegenüber dem
+alten Arbeitgeber die Weiterbeschäftigung bei diesem verweigern. Im
+übrigen finden die Vorschriften des § 11 und des § 12 Satz 2 bis 4
 entsprechende Anwendung.
 
 
@@ -697,44 +711,49 @@ Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als
 (2) Die Vorschriften des Dritten Abschnitts gelten für Betriebe und
 Verwaltungen des privaten Rechts sowie für Betriebe, die von einer
 öffentlichen Verwaltung geführt werden, soweit sie wirtschaftliche
-Zwecke verfolgen. Sie gelten nicht für Seeschiffe und ihre Besatzung.
+Zwecke verfolgen.
 
 
-### § 24 Anwendung des Gesetzes auf Betriebe der Schiffahrt und des Luftverkehrs
+### § 24 Anwendung des Gesetzes auf Betriebe der Schifffahrt und des Luftverkehrs
 
 (1) Die Vorschriften des Ersten und Zweiten Abschnitts finden nach
-Maßgabe der Absätze 2 bis 5 auf Arbeitsverhältnisse der Besatzung von
-Seeschiffen, Binnenschiffen und Luftfahrzeugen Anwendung. Als Betrieb
-im Sinne dieses Gesetzes gilt jeweils die Gesamtheit der Seeschiffe
-oder der Binnenschiffe eines Schiffahrtsbetriebs oder der
-Luftfahrzeuge eines Luftverkehrsbetriebs.
+Maßgabe der Absätze 2 bis 4 auf Arbeitsverhältnisse der Besatzung von
+Seeschiffen, Binnenschiffen und Luftfahrzeugen Anwendung.
 
-(2) Dauert die erste Reise eines Besatzungsmitglieds im Dienst einer
-Reederei oder eines Luftverkehrsbetriebs länger als sechs Monate, so
-verlängert sich die Sechsmonatsfrist des § 1 Abs. 1 bis drei Tage nach
-Beendigung dieser Reise.
+(2) Als Betrieb im Sinne dieses Gesetzes gilt jeweils die Gesamtheit
+der Seeschiffe oder der Binnenschiffe eines Schifffahrtsbetriebs oder
+der Luftfahrzeuge eines Luftverkehrsbetriebs.
 
-(3) Die Klage nach § 4 ist binnen drei Wochen, nachdem das
-Besatzungsmitglied zum Sitz des Betriebs zurückgekehrt ist, zu
-erheben, spätestens jedoch binnen sechs Wochen nach Zugang der
-Kündigung. Wird die Kündigung während der Fahrt des Schiffes oder des
-Luftfahrzeugs ausgesprochen, so beginnt die sechswöchige Frist nicht
-vor dem Tage, an dem das Schiff oder das Luftfahrzeug einen deutschen
-Hafen oder Liegeplatz erreicht. An die Stelle der Dreiwochenfrist in §
-6 treten die hier in den Sätzen 1 und 2 bestimmten Fristen.
+(3) Dauert die erste Reise eines Besatzungsmitglieds eines Seeschiffes
+oder eines Binnenschiffes länger als sechs Monate, so verlängert sich
+die Sechsmonatsfrist des § 1 Absatz 1 bis drei Tage nach Beendigung
+dieser Reise.
 
-(4) Für Klagen der Kapitäne und der Besatzungsmitglieder im Sinne der
-§§ 2 und 3 des Seemannsgesetzes nach § 4 dieses Gesetzes tritt an die
-Stelle des Arbeitsgerichts das Gericht, das für Streitigkeiten aus dem
-Arbeitsverhältnis dieser Personen zuständig ist. Soweit in
-Vorschriften des Seemannsgesetzes für die Streitigkeiten aus dem
-Arbeitsverhältnis Zuständigkeiten des Seemannsamts begründet sind,
-finden die Vorschriften auf Streitigkeiten über Ansprüche aus diesem
-Gesetz keine Anwendung.
+(4) Die Klage nach § 4 ist binnen drei Wochen zu erheben, nachdem die
+Kündigung dem Besatzungsmitglied an Land zugegangen ist. Geht dem
+Besatzungsmitglied eines Seeschiffes oder eines Binnenschiffes die
+Kündigung während der Fahrt des Schiffes zu, ist die Klage innerhalb
+von sechs Wochen nach dem Dienstende an Bord zu erheben. Geht dem
+Besatzungsmitglied eines Seeschiffes die Kündigung während einer
+Gefangenschaft aufgrund von seeräuberischen Handlungen oder
+bewaffneten Raubüberfällen auf Schiffe im Sinne von § 2 Nummer 11 oder
+12 des Seearbeitsgesetzes zu oder gerät das Besatzungsmitglied während
+des Laufs der Frist nach Satz 1 oder 2 in eine solche Gefangenschaft,
+ist die Klage innerhalb von sechs Wochen nach der Freilassung des
+Besatzungsmitglieds zu erheben; nimmt das Besatzungsmitglied nach der
+Freilassung den Dienst an Bord wieder auf, beginnt die Frist mit dem
+Dienstende an Bord. An die Stelle der Dreiwochenfrist in § 5 Absatz 1
+und § 6 treten die in den Sätzen 1 bis 3 genannten Fristen.
 
-(5) Der Kündigungsschutz des Ersten Abschnitts gilt, abweichend von §
-14, auch für den Kapitän und die übrigen als leitende Angestellte im
-Sinne des § 14 anzusehenden Angehörigen der Besatzung.
+(5) Die Vorschriften des Dritten Abschnitts finden nach Maßgabe der
+folgenden Sätze Anwendung auf die Besatzungen von Seeschiffen. Bei
+Schiffen nach § 114 Absatz 4 Satz 1 des Betriebsverfassungsgesetzes
+tritt, soweit sie nicht als Teil des Landbetriebs gelten, an die
+Stelle des Betriebsrats der Seebetriebsrat. Betrifft eine
+anzeigepflichtige Entlassung die Besatzung eines Seeschiffes, welches
+unter der Flagge eines anderen Mitgliedstaates der Europäischen Union
+fährt, so ist die Anzeige an die Behörde des Staates zu richten, unter
+dessen Flagge das Schiff fährt.
 
 
 ### § 25 Kündigung in Arbeitskämpfen

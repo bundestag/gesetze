@@ -19,9 +19,8 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4180;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 17.11.2010 I 1544
+:   Art. 7 Abs. 8 G v. 12.5.2021 I 990
 
-Stand: Zur erstmaligen Anwendung vgl. § 36
 
 ## - - Zu § 2 des Gesetzes
 
@@ -113,7 +112,7 @@ einheitlicher Gewerbebetrieb.
 
 ### § 12a Kleinere Versicherungsvereine
 
-Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 53
+Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210
 des Versicherungsaufsichtsgesetzes sind von der Gewerbesteuer befreit,
 wenn sie nach § 5 Abs. 1 Nr. 4 des Körperschaftsteuergesetzes von der
 Körperschaftsteuer befreit sind.
@@ -172,15 +171,16 @@ des Unternehmens ein Insolvenzverfahren eröffnet worden ist.
 ### § 19 Schulden bestimmter Unternehmen
 
 (1)
-1             Bei Kreditinstituten im Sinne des § 1 Absatz 1 des
-Kreditwesengesetzes sind nur Entgelte für Schulden und den Entgelten
-gleichgestellte Beträge anzusetzen, die dem Betrag der Schulden
-entsprechen, um den der Ansatz der zum Anlagevermögen gehörenden
-Grundstücke, Gebäude, Betriebs- und Geschäftsausstattung, Schiffe,
-Anteile an Kreditinstituten und sonstigen Unternehmen sowie der
-Forderungen aus Vermögenseinlagen als stiller Gesellschafter und aus
-Genussrechten das Eigenkapital überschreitet; hierunter fallen nicht
-Gegenstände, über die Leasingverträge abgeschlossen worden sind.
+1             Bei Kreditinstituten im Sinne des § 1 Absatz 1 in
+Verbindung mit § 2 Absatz 1 des Kreditwesengesetzes sind nur Entgelte
+für Schulden und den Entgelten gleichgestellte Beträge anzusetzen, die
+dem Betrag der Schulden entsprechen, um den der Ansatz der zum
+Anlagevermögen gehörenden Grundstücke, Gebäude, Betriebs- und
+Geschäftsausstattung, Schiffe, Anteile an Kreditinstituten und
+sonstigen Unternehmen sowie der Forderungen aus Vermögenseinlagen als
+stiller Gesellschafter und aus Genussrechten das Eigenkapital
+überschreitet; hierunter fallen nicht Gegenstände, über die
+Leasingverträge abgeschlossen worden sind.
 2             Dem Anlagevermögen nach Satz 1 sind Forderungen gegen
 ein Unternehmen hinzuzurechnen, mit dem eine organschaftliche
 Verbindung nach § 2 Abs. 2 Satz 2 des Gesetzes besteht und das nicht
@@ -227,16 +227,27 @@ Absatz 1 nicht einzubeziehen.
 (4)
 1             Bei Finanzdienstleistungsinstituten im Sinne des § 1
 Absatz 1a des Kreditwesengesetzes, die mit Ausnahme der Unternehmen im
-Sinne des § 2 Absatz 6 Satz 1 Nummer 17 des Kreditwesengesetzes nicht
-der Ausnahmeregelung des § 2 Absatz 6 des Kreditwesengesetzes
-unterliegen, unterbleibt eine Hinzurechnung von Entgelten für Schulden
-und ihnen gleichgestellten Beträgen nach § 8 Nummer 1 Buchstabe a des
-Gesetzes, soweit die Entgelte und die ihnen gleichgestellten Beträge
-unmittelbar auf Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz
-2 des Kreditwesengesetzes entfallen.
+Sinne des § 2 Absatz 6 Nummer 17 des Kreditwesengesetzes nicht der
+Ausnahmeregelung des § 2 Absatz 6 des Kreditwesengesetzes unterliegen,
+bei Wertpapierinstituten im Sinne des § 2 Absatz 1 des
+Wertpapierinstitutsgesetzes sowie bei Zahlungsinstituten im Sinne des
+§ 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes
+unterbleibt eine Hinzurechnung von Entgelten für Schulden und ihnen
+gleichgestellten Beträgen nach § 8 Nummer 1 Buchstabe a des Gesetzes,
+soweit die Entgelte und ihnen gleichgestellten Beträge unmittelbar auf
+Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 des
+Kreditwesengesetzes, Wertpapierdienstleistungen im Sinne des § 2
+Absatz 2 des Wertpapierinstitutsgesetzes oder Zahlungsdienste im Sinne
+des § 1 Absatz 1 Satz 2 Nummer 3 Buchstabe b und Nummer 6 des
+Zahlungsdiensteaufsichtsgesetzes entfallen.
 2             Satz 1 ist nur anzuwenden, wenn die Umsätze des
 Finanzdienstleistungsinstituts zu mindestens 50 Prozent auf
-Finanzdienstleistungen entfallen.
+Finanzdienstleistungen, des Wertpapierinstituts zu mindestens 50
+Prozent auf Wertpapierdienstleistungen,
+Wertpapiernebendienstleistungen und Nebengeschäfte im Sinne des § 2
+Absatz 2 bis 4 des Wertpapierinstitutsgesetzes und die Umsätze des
+Zahlungsinstituts zu mindestens 50 Prozent auf Zahlungsdienste
+entfallen.
 
 
 ## - - Zu § 9 des Gesetzes
@@ -335,9 +346,7 @@ Gewerbeertrag.
 (2)
 1             Die Steuererklärung ist spätestens an dem von den
 obersten Finanzbehörden der Länder bestimmten Zeitpunkt abzugeben.
-2             Für die Erklärung sind die amtlichen Vordrucke zu
-verwenden.
-3             Das Recht des Finanzamts, schon vor diesem Zeitpunkt
+2             Das Recht des Finanzamts, schon vor diesem Zeitpunkt
 Angaben zu verlangen, die für die Besteuerung von Bedeutung sind,
 bleibt unberührt.
 
@@ -454,32 +463,6 @@ längste Zeit befunden hat.
 
 ### § 36 Zeitlicher Anwendungsbereich
 
-(1) Die vorstehende Fassung dieser Verordnung ist, soweit in den
-folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
-Erhebungszeitraum 2009 anzuwenden.
-
-(2) § 2 Absatz 1 in der Fassung des Artikels 5 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) ist auch für Erhebungszeiträume vor
-2009 anzuwenden.
-
-(3)
-1             § 19 in der Fassung des Artikels 5 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) ist erstmals für den Erhebungszeitraum
-2008 anzuwenden.
-2             § 19 Absatz 3 in der Fassung des Artikels 4 des Gesetzes
-vom 8. April 2010 (BGBl. I S. 386) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden; § 19 Absatz 1 und 4 Satz 1 in der
-Fassung des Artikels 4 der Verordnung vom 17. November 2010 (BGBl. I
-S. 1544) ist erstmals für den Erhebungszeitraum 2008 anzuwenden; § 19
-Absatz 4 Satz 2 in der Fassung des Artikels 4 des Gesetzes vom 8.
-April 2010 (BGBl. I S. 386) ist erstmals für den Erhebungszeitraum
-2011 anzuwenden.
-3             Weist das Unternehmen im Sinne des § 64j Absatz 2 des
-Kreditwesengesetzes nicht spätestens mit der Abgabe der Erklärung zur
-Festsetzung des Steuermessbetrags für den Erhebungszeitraum 2009 nach,
-dass die Anzeige nach § 64j Absatz 2 des Kreditwesengesetzes bei der
-Bundesanstalt für Finanzdienstleistungsaufsicht vorliegt, ist § 19 auf
-das Unternehmen ab dem Erhebungszeitraum 2008 nicht anzuwenden; das
-Nichterbringen des Nachweises gilt als rückwirkendes Ereignis im Sinne
-des § 175 Absatz 1 Satz 1 Nummer 2 der Abgabenordnung.
+Die vorstehende Fassung dieser Verordnung ist erstmals für den
+Erhebungszeitraum 2021 anzuwenden.
 

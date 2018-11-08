@@ -14,8 +14,9 @@ Ausfertigungsdatum
 :   1984-10-11
 
 Fundstelle
-:   GBl DDR I: 1984, 348
+:   GBl DDR I: 1984, 348 (1987 I 196)
 
+Stand: Best. aufgeh.durch Art. 32 Abs. 3 Nr. 1 G v. 27.6.2017 I 1966 mWv 1.1.2019
 
 
 ## Eingangsformel
@@ -851,55 +852,28 @@ Jahresaktivitätszufuhr ALI für Inhalation und für Ingestion nicht
 
 (4) Für ein Radionuklidgemisch bekannter prozentualer Zusammensetzung
 gilt:
-n
-1                   ------      p(tief)i
-------------    =   >           ----------
-ALI(tief)Gem.       ------      ALI(tief)i
-i = 1             mit
 
-*
+*    *
+    *        ![gbl1_1984_j0352_0010.jpg](gbl1_1984_j0352_0010.jpg)
     *
-        *
-            ALI(tief)Gem. -
-
-                *   Grenzwert der Jahresaktivitätszufuhr für das Radionuklidgemisch
 
 
+   mit
+
+    ALI
+Gem. - Grenzwert der Jahresaktivitätszufuhr für das Radionuklidgemisch
 
 
-
-            p(tief)i -
-
-                *   relativer Anteil des i-ten Radionuklids an der Gesamtaktivität des
-                    Gemisches
+    p
+i   - relativer Anteil des i-ten Radionuklids an der Gesamtaktivität des
+    Gemisches
 
 
+    ALI
+i   - Grenzwert der Jahresaktivitätszufuhr für das i-te Radionuklid
 
 
-
-            ALI(tief)i -
-
-                *   Grenzwert der Jahresaktivitätszufuhr für das i-te Radionuklid
-
-
-
-
-
-            n   -
-
-                *   Anzahl der Radionuklide im Gemisch.
-
-
-
-
-
-
-
-
-
-
-
-
+n   - Anzahl der Radionuklide im Gemisch.
 
 
 
@@ -907,60 +881,31 @@ i = 1             mit
 (5) Bei kombinierter äußerer und innerer Bestrahlung gelten die
 primären Grenzwerte für Strahlenwerktätige als eingehalten, wenn die
 folgenden Bedingungen gleichzeitig erfüllt sind:
-n
-H(tief)d            ------      I(tief)j
-------------    +   >           ----------     < 1
-50 mSv              ------      ALI(tief)j     =
-j = 1
-H(tief)s
-----------     < 1
-500 mSv        =             mit
 
-*
+*    *
+    *        ![gbl1_1984_j0352_0020.jpg](gbl1_1984_j0352_0020.jpg)
     *
-        *
-            I(tief)j -
-
-                *   Jahresaktivitätszufuhr des j-ten Radionuklids
 
 
+   mit
+
+    I
+j   - Jahresaktivitätszufuhr des j-ten Radionuklids
 
 
-
-            ALI(tief)j -
-
-                *   Grenzwert der Jahresaktivitätszufuhr des j-ten Radionuklids
+    ALI
+j   - Grenzwert der Jahresaktivitätszufuhr des j-ten Radionuklids
 
 
+    H
+d   - maximale Oberflächendosis am Körperrumpf für Photonenstrahlung im
+    Energiebereich von 10 keV bis 10 MeV bzw. maximale Äquivalentdosis für
+    Neutronen bis 20 MeV unter Referenzbedingungen gemäß Abs. 1
 
 
-
-            H(tief)d -
-
-                *   maximale Oberflächendosis am Körperrumpf für Photonenstrahlung im
-                    Energiebereich von 10 keV bis 10 MeV bzw. maximale Äquivalentdosis für
-                    Neutronen bis 20 MeV unter Referenzbedingungen gemäß Abs. 1
-
-
-
-
-
-            H(tief)s -
-
-                *   Oberflächendosis für Photonenstrahlung unterhalb 10 keV und
-                    Betastrahlung.
-
-
-
-
-
-
-
-
-
-
-
-
+    H
+s   - Oberflächendosis für Photonenstrahlung unterhalb 10 keV und
+    Betastrahlung.
 
 
 
@@ -1072,46 +1017,28 @@ berücksichtigt.
 
 
 
-n
-------      A(tief)i
->           ----------     < 1
-------      F(tief)i       =
-i = 1             mit
 
-*
+
+*    *
+    *        ![gbl1_1984_j0353_0010.jpg](gbl1_1984_j0353_0010.jpg)
     *
-        A(tief)i -
-
-            *   Aktivität des i-ten Radionuklids
 
 
+   mit
+
+    A
+i   - Aktivität des i-ten Radionuklids
 
 
-
-        F(tief)i -
-
-            *   Freigrenze für das i-te Radionuklid
+    F
+i   - Freigrenze für das i-te Radionuklid
 
 
+n   - Anzahl der gleichzeitig vorhandenen Radionuklide
 
 
-
-        n   -
-
-            *   Anzahl der gleichzeitig vorhandenen Radionuklide
-
-
-
-
-
-        -   als Freigrenze der Aktivitätskonzentration 100 Bq/g bzw. bei festen
-            natürlichen radioaktiven Stoffen 500 Bq/g.
-
-
-
-
-
-
+-   als Freigrenze der Aktivitätskonzentration 100 Bq/g bzw. bei festen
+    natürlichen radioaktiven Stoffen 500 Bq/g.
 
 
 
@@ -1130,18 +1057,16 @@ Aktivitätskonzentration bei
 
 -   Einleitung in die kommunale Kanalisation:
 
-    *   für Radionuklide mit Halbwertszeiten
-        <= 60 Tage
+    **∙** für Radionuklide mit Halbwertszeiten ≦ 60 Tage
 
-        pro
-        cbm Auswurf die ALI gemäß Anlage 2 Tabelle 1 Spalte 4 bzw. § 26 Abs.
-        4;
+        pro m
+        3 Auswurf die ALI gemäß Anlage 2 Tabelle 1 Spalte 4 bzw. § 26 Abs. 4;
 
-        für Radionuklide mit Halbwertszeiten
-        > 60 Tage
 
-        pro
-        cbm Auswurf 1/10 der ALI gemäß Anlage 2 Tabelle 1 Spalte 4 bzw. § 26
+    **∙** für Radionuklide mit Halbwertszeiten > 60 Tage
+
+        pro m
+        3 Auswurf 1/10 der ALI gemäß Anlage 2 Tabelle 1 Spalte 4 bzw. § 26
         Abs. 4;
 
 
@@ -1150,8 +1075,8 @@ Aktivitätskonzentration bei
 
 -   Einleitung in Gewässer:
 
-    *   pro
-        cbm Auswurf 1/100 der ALI gemäß Anlage 2 Tabelle 1 Spalte 4 bzw. § 26
+    *   pro m
+        3 Auswurf 1/100 der ALI gemäß Anlage 2 Tabelle 1 Spalte 4 bzw. § 26
         Abs. 4;
 
 
@@ -1160,11 +1085,12 @@ Aktivitätskonzentration bei
 
 -   Abgabe in die Atmosphäre:
 
-    *   Radionuklide außer Edelgase
+    **∙** Radionuklide außer Edelgase
 
         im Auswurf 1/10 der DAC gemäß § 27 Abs. 3 bzw. Abs. 4;
 
-        Edelgase
+
+    **∙** Edelgase
 
         im Auswurf 1/10 der DAC für Submersion gemäß Anlage 2 Tabelle 2 Spalte
         3a bzw. § 27 Abs. 4;
@@ -1193,15 +1119,16 @@ festgelegten Werte nicht überschreiten.
 Material.
 
 (6) Für radioaktiv kontaminierte Lebensmittel gilt als Freigrenze eine
-Aktivitätskonzentration, die das
-5 x 10 (hoch)-3fache der in Anlage 2 Tabelle 1 Spalte 4 bzw. § 26 Abs.
-4 angegebenen Werte geteilt durch den mittleren jährlichen
+Aktivitätskonzentration, die das 5 **∙** 10
+-3fache der in Anlage 2 Tabelle 1 Spalte 4 bzw. § 26 Abs. 4
+angegebenen Werte geteilt durch den mittleren jährlichen
 Prokopfverbrauch in kg des betreffenden Lebensmittels beträgt.
 
 (7) Für radioaktive Arzneimittel und für mit Radionukliden markierte
 Arzneimittel gilt als Freigrenze eine Aktivitätskonzentration, die das
-10 (hoch)-8fache der in Anlage 2 Tabelle 1 Spalte 3 angegebenen Werte
-pro Gramm beträgt.
+10
+-8fache der in Anlage 2 Tabelle 1 Spalte 3 angegebenen Werte pro Gramm
+beträgt.
 
 (8) Die in den Absätzen 1 bis 7 festgelegten Freigrenzen gelten je
 Anwendungsfall. Die Festlegung von Freigrenzen berührt nicht die
@@ -1927,7 +1854,7 @@ Diese Durchführungsbestimmung tritt am 1. Februar 1985 in Kraft.
 Strahlenschutz der Deutschen Demokratischen Republik**
 
 
-### Anlage 1 Neutronenflußdichte in *A cm(hoch)-2 x s(hoch)-1 für eine Äquivalentdosisleistung *1) von 1 *A mySv x h(hoch)-1 und effektiver Qualitätsfaktor *A Q in Abhängigkeit von der Neutronenenergie
+### Anlage 1 Neutronenflußdichte in \*A cm(hoch)-2 x s(hoch)-1 für eine Äquivalentdosisleistung \*1) von 1 \*A mySv x h(hoch)-1 und effektiver Qualitätsfaktor \*A Q in Abhängigkeit von der Neutronenenergie
 
 
 *    *   Neutronenenergie\*2) in MeV
@@ -2114,8 +2041,9 @@ in der Tiefe, in der maximale Äquivalentdosis auftritt.
 Fundstelle: GBl. I 1984, Nr. 30, S. 358 - 372,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1226)
+### Anhang EV (BGBl. II 1990, 889, 1226)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

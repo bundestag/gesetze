@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 2953
 
-Geändert durch
-:   Art. 6 V v. 15.12.2004 II 1667
+Zuletzt geändert durch
+:   Art. 6 V v. 23.1.2014 I 78
 
 
 ## Eingangsformel
@@ -53,30 +53,12 @@ Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 (weggefallen)
 
 
-## Art 3 Verbrennung von Schiffsabfällen
-
-Das Verbrennen der auf Schiffen erzeugten Abfälle an Bord von
-Schiffen, die das Küstenmeer der Bundesrepublik Deutschland in der
-Ostsee befahren, ist verboten.
+## Art 3 (weggefallen)
 
 
-## Art 4 Besichtigungen, Zeugnisse
 
-(1) Seeschiffe, die berechtigt sind, die Bundesflagge zu führen,
-unterliegen den Besichtigungen nach Anlage IV Regel 5 Abschnitt F des
-Helsinki-Übereinkommens. Auf solchen Schiffen müssen Zeugnisse nach
-Maßgabe der Anlage IV Regel 5 Abschnitt G des Helsinki-Übereinkommens
-mitgeführt werden.
+## Art 4 (weggefallen)
 
-(2) Zulassungen nach Anlage IV Regel 5 Abschnitt C Abs. 1 des
-Helsinki-Übereinkommens sowie Besichtigungen und Zeugniserteilung
-obliegen nach § 6 Abs. 1 Satz 1 des Seeaufgabengesetzes der See-
-Berufsgenossenschaft, die sich bei Angelegenheiten der Schiffstechnik
-sowie bei Überwachungsmaßnahmen im Ausland der Hilfe des Germanischen
-Lloyds bedient.
-
-(3) Die Absätze 1 und 2 finden keine Anwendung auf Schiffe der
-Bundeswehr sowie Sportfahrzeuge.
 
 
 ## Art 5
@@ -100,27 +82,8 @@ zu entsorgen. Dies gilt entsprechen für alle Ladungsrückstände. Die
 Länder können Ausnahmen im Rahmen ihrer Kompetenzen bestimmen.
 
 
-## Art 7 Ordnungswidrigkeiten
+## Art 7 (weggefallen)
 
-(1) Ordnungswidrigkeit im Sinne des § 15 Abs. 1 Nr. 2 des
-Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als
-Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher
-
-1.  entgegen Artikel 2 Abwasser einleitet,
-
-
-2.  entgegen Artikel 3 Schiffsabfälle verbrennt oder
-
-
-3.  entgegen Artikel 5 Abs. 1 Satz 1 nicht sicherstellt, dass ein Schiff
-    mit einer Abwasserrückhalteanlage für Toiletten ausgerüstet ist.
-
-
-
-
-(2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf das Bundesamt für
-Seeschifffahrt und Hydrographie übertragen.
 
 
 ## Art 8

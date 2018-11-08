@@ -15,24 +15,27 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1513
 
+Zuletzt geändert durch
+:   Art. 1 V v. 4.5.2017 I 1044
+
 [^F1_774693_BJNR151300010]:     Diese Verordnung dient der Umsetzung der
-    –                                                         Richtlinie
-    2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober
-    2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
-    Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000,
-    S. 1), die zuletzt durch die Richtlinie 2009/31/EG (ABl. L 140 vom
-    5\.6.2009, S. 114) geändert worden ist,
+    –                                    Richtlinie 2000/60/EG des
+    Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur
+    Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im
+    Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), die
+    zuletzt durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S.
+    114) geändert worden ist,
 
 
-    –                                                         Richtlinie
-    2006/118/EG des Europäischen Parlaments und des Rates vom 12. Dezember
-    2006 zum Schutz des Grundwassers vor Verschmutzung und
-    Verschlechterung (ABl. L 372 vom 27.12.2006, S. 19, L 53 vom
-    22\.2.2007, S. 30, L 139 vom 31.5.2007, S. 39),
+    –                                    Richtlinie 2006/118/EG des
+    Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Schutz
+    des Grundwassers vor Verschmutzung und Verschlechterung (ABl. L 372
+    vom 27.12.2006, S. 19, L 53 vom 22.2.2007, S. 30, L 139 vom 31.5.2007,
+    S. 39),
 
 
-    –                                                         Richtlinie
-    2009/90/EG der Kommission vom 31. Juli 2009 zur Festlegung technischer
+    –                                    Richtlinie 2009/90/EG der
+    Kommission vom 31. Juli 2009 zur Festlegung technischer
     Spezifikationen für die chemische Analyse und die Überwachung des
     Gewässerzustands gemäß der Richtlinie 2000/60/EG des Europäischen
     Parlaments und des Rates (ABl. L 201 vom 1.8.2009, S. 36).
@@ -78,7 +81,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 4.  Eintrag
 
     eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer
-    2 des Wasserhaushaltsgesetzes.
+    2 bis 4 des Wasserhaushaltsgesetzes.
 
 
 
@@ -191,48 +194,32 @@ Richtlinie 2006/118/EG des Europäischen Parlaments und des Rates vom
 Verschlechterung (ABl. L 372 vom 27.12.2006, S. 19, L 53 vom
 22\.2.2007, S. 30, L 139 vom 31.05.2007, S. 39) fest.
 
-(2) Ist der in Anlage 2 angegebene Schwellenwert für einen Schadstoff
-oder eine Schadstoffgruppe niedriger als der entsprechende
-Hintergrundwert im Grundwasserkörper, legt die zuständige Behörde
-einen abweichenden Schwellenwert unter Berücksichtigung des
-Hintergrundwertes für diesen Grundwasserkörper fest. Der
-Hintergrundwert ist das neunzigste Perzentil der Verteilung der
-Stoffkonzentrationen im Grundwasser der für den Grundwasserkörper
-maßgeblichen hydrogeologischen Einheit.
+(2) Nach Maßgabe der Anlage 4a berechnen die zuständigen Behörden für
+Stoffe oder Stoffgruppen, die im Grundwasser natürlich vorkommen,
+Hintergrundwerte und beziehen diese auf hydrogeochemische Einheiten.
+Bei gleichartigen hydrogeochemischen Einheiten, die an verschiedenen
+Orten im Bundesgebiet angetroffen werden, stimmen sich die zuständigen
+Behörden der betroffenen Länder bei der Berechnung der
+Hintergrundwerte untereinander ab. Die zuständigen Behörden teilen dem
+Umweltbundesamt die Hintergrundwerte mit. Das Umweltbundesamt
+veröffentlicht die Hintergrundwerte für die hydrogeochemischen
+Einheiten im Bundesgebiet im Bundesanzeiger.
 
-(3) Bei Grundwasserkörpern, die sich auch auf das Hoheitsgebiet eines
+(3) Ist der in Anlage 2 angegebene Schwellenwert für einen Stoff oder
+eine Stoffgruppe niedriger als der Hintergrundwert der
+hydrogeochemischen Einheit, soll die zuständige Behörde für den oder
+die betroffenen Grundwasserkörper oder Teile des jeweiligen
+Grundwasserkörpers einen abweichenden Schwellenwert unter
+Berücksichtigung der Messdaten nach Anlage 4a festlegen. § 7 Absatz 3
+Satz 2 bleibt unberührt.
+
+(4) Bei Grundwasserkörpern, die sich auch auf das Hoheitsgebiet eines
 anderen oder mehrerer anderer Mitgliedstaaten der Europäischen Union
 erstrecken, stimmt sich die zuständige Behörde bei der Festlegung der
-Schwellenwerte mit den zuständigen Behörden der Nachbarstaaten ab.
-Gehört der Nachbarstaat nicht der Europäischen Union an, bemüht sich
-die zuständige Behörde um eine Abstimmung der Werte für die
-grenzüberschreitenden Grundwasserkörper.
-
-(4) Die zuständige Behörde nimmt in den Bewirtschaftungsplan nach § 83
-des Wasserhaushaltsgesetzes eine Zusammenfassung folgender
-Informationen auf:
-
-1.  Anzahl und Größe der als gefährdet eingestuften Grundwasserkörper,
-
-
-2.  Schadstoffe, Schadstoffgruppen und Verschmutzungsindikatoren, die zu
-    dieser Einstufung geführt haben,
-
-
-3.  Parameter und Konzentration der Schwellenwerte sowie der
-    Hintergrundwerte im gefährdeten Grundwasserkörper,
-
-
-4.  Ableitungsverfahren für die Schwellenwerte, einschließlich
-    Informationen über Toxikologie, Ökotoxikologie, Persistenz,
-    Bioakkumulationspotential und Dispersionsneigung, sowie
-
-
-5.  Wechselwirkungen zwischen den gefährdeten Grundwasserkörpern, den
-    verbundenen Oberflächengewässern und den abhängigen Landökosystemen.
-
-
-
+Schwellenwerte nach Absatz 1 Satz 2 oder Absatz 3 mit den zuständigen
+Behörden der Nachbarstaaten ab. Gehört der Nachbarstaat nicht der
+Europäischen Union an, bemüht sich die zuständige Behörde um eine
+Abstimmung der Werte für die grenzüberschreitenden Grundwasserkörper.
 
 
 ## § 6 Ermittlung des chemischen Grundwasserzustands
@@ -304,7 +291,7 @@ gut oder schlecht ein.
 (2) Der chemische Grundwasserzustand ist gut, wenn
 
 1.  die in Anlage 2 enthaltenen oder die nach § 5 Absatz 1 Satz 2 oder
-    Absatz 2 festgelegten Schwellenwerte an keiner Messstelle nach § 9
+    Absatz 3 festgelegten Schwellenwerte an keiner Messstelle nach § 9
     Absatz 1 im Grundwasserkörper überschritten werden oder,
 
 
@@ -339,22 +326,18 @@ als gut eingestuft werden, wenn
 
 1.  eine der nachfolgenden flächenbezogenen Voraussetzungen erfüllt ist:
 
-    a)  die nach § 6 Absatz 2 ermittelte Flächensumme beträgt weniger als ein
-        Drittel der Fläche des Grundwasserkörpers,
+    a)  die nach § 6 Absatz 2 für jeden relevanten Stoff oder jede relevante
+        Stoffgruppe ermittelte Flächensumme beträgt weniger als ein Fünftel
+        der Fläche des Grundwasserkörpers oder
 
 
-    b)  bei Grundwasserkörpern, die größer als 75 Quadratkilometer sind, ist
-        der nach Buchstabe a ermittelte Flächenanteil zwar größer als ein
-        Drittel der Fläche des Grundwasserkörpers, aber 25 Quadratkilometer
-        werden nicht überschritten, oder
-
-
-    c)  bei nachteiligen Veränderungen des Grundwassers durch schädliche
-        Bodenveränderungen und Altlasten ist die festgestellte oder die in
-        absehbarer Zeit zu erwartende Ausdehnung der Überschreitungen auf
-        insgesamt weniger als 25 Quadratkilometer pro Grundwasserkörper und
-        bei Grundwasserkörpern, die kleiner als 250 Quadratkilometer, auf
-        weniger als ein Zehntel der Grundwasserkörperfläche begrenzt,
+    b)  bei nachteiligen Veränderungen des Grundwassers durch schädliche
+        Bodenveränderungen oder Altlasten ist die festgestellte oder die in
+        absehbarer Zeit zu erwartende Ausdehnung der Überschreitung für jeden
+        relevanten Stoff oder jede relevante Stoffgruppe auf insgesamt weniger
+        als 25 Quadratkilometer pro Grundwasserkörper und bei
+        Grundwasserkörpern, die kleiner als 250 Quadratkilometer sind, auf
+        weniger als ein Zehntel der Fläche des Grundwasserkörpers begrenzt,
 
 
 
@@ -424,6 +407,99 @@ Grundwasserzustand nicht oder nur mit unverhältnismäßig hohem Aufwand
 zu erreichen wäre.
 
 
+## § 8a Zusätzliche Inhalte der Bewirtschaftungspläne
+
+(1) In die aktualisierten Bewirtschaftungspläne nach § 84 Absatz 1 des
+Wasserhaushaltsgesetzes sind zusätzlich zu den Informationen nach § 83
+Absatz 2 des Wasserhaushaltsgesetzes folgende Informationen
+aufzunehmen:
+
+1.  Angabe der Schwellenwerte nach Anlage 2 sowie der Schwellenwerte, die
+    nach § 5 Absatz 1 Satz 2 und Absatz 3 für einzelne Grundwasserkörper
+    festgelegt worden sind,
+
+
+2.  ein Vergleich der Schwellenwerte nach Nummer 1 mit
+
+    a)  Hintergrundwerten nach § 5 Absatz 2,
+
+
+    b)  stoffspezifischen Anforderungen an die mit dem Grundwasserkörper
+        verbundenen Oberflächengewässer,
+
+
+    c)  von den zuständigen Behörden festgelegten spezifischen Anforderungen
+        an unmittelbar vom Grundwasserkörper abhängige Landökosysteme und
+
+
+    d)  stoffbezogenen Bewirtschaftungs- und anderen Umweltqualitätszielen
+        sowie mit Werten aus sonstigen Rechtsvorschriften zum Gewässerschutz,
+        einschließlich Rechtsakten der Europäischen Gemeinschaften oder der
+        Europäischen Union und internationalen Vereinbarungen,
+
+
+
+
+
+3.  das für die Ermittlung der Schwellenwerte angewendete
+    Ableitungsverfahren, einschließlich relevanter Informationen über
+    Toxikologie, Ökotoxikologie, Persistenz, Bioakkumulationspotenzial und
+    Dispersionsneigung der Stoffe,
+
+
+4.  Angaben zur Methode zur Bestimmung von Hintergrundwerten nach Anlage
+    4a,
+
+
+5.  Angaben zur Beurteilung des chemischen Zustands des
+    Grundwasserkörpers, einschließlich der zeitlichen, räumlichen und
+    methodischen Aggregation der Überwachungsergebnisse, der Definition
+    des nach § 7 Absatz 3 zulässigen Ausmaßes einer Überschreitung eines
+    Schwellenwertes sowie der Methode für seine Berechnung.
+
+
+
+
+(2) Für Grundwasserkörper, die nach § 3 Absatz 1 als gefährdet
+eingestuft wurden, sind in die aktualisierten Bewirtschaftungspläne
+nach § 84 Absatz 1 des Wasserhaushaltsgesetzes neben den Angaben nach
+Absatz 1 auch folgende Informationen aufzunehmen:
+
+1.  Anzahl und Größe der als gefährdet eingestuften Grundwasserkörper,
+
+
+2.  Hintergrundwerte nach § 5 Absatz 2 für natürlich vorkommende Stoffe,
+
+
+3.  Schadstoffe, Schadstoffgruppen und Verschmutzungsindikatoren, die zu
+    der Einstufung als gefährdeter Grundwasserkörper geführt haben,
+
+
+4.  Stoffe und Stoffgruppen, bei denen Schwellenwerte nach Absatz 1 Nummer
+    1 überschritten werden, und
+
+
+5.  der Zusammenhang zwischen den Bewirtschaftungszielen nach § 47 des
+    Wasserhaushaltsgesetzes, auf die bei der Einstufung als gefährdeter
+    Grundwasserkörper Bezug genommen wurde, und
+
+    a)  den zugelassenen oder zulassungsfähigen künftigen Benutzungen des
+        Grundwassers und seinen Funktionen im Naturhaushalt, die durch die
+        Verfehlung der Bewirtschaftungsziele beeinträchtigt werden, und
+
+
+    b)  den mit den Grundwasserkörpern verbundenen Oberflächengewässern und
+        den vom Grundwasserkörper abhängigen Landökosystemen.
+
+
+
+
+
+
+
+(3) § 7 Absatz 5, § 10 Absatz 6 und § 11 Absatz 3 bleiben unberührt.
+
+
 ## § 9 Überwachung des mengenmäßigen und chemischen Grundwasserzustands
 
 (1) In jedem Grundwasserkörper sind Messstellen für eine
@@ -473,7 +549,7 @@ höhere Ausgangskonzentration für Maßnahmen der Trendumkehr, wenn
     Schwellenwertes nach Anlage 2 festzusetzen, oder
 
 
-2.  Schwellenwerte nach § 5 Absatz 2 festgelegt wurden.
+2.  Schwellenwerte nach § 5 Absatz 3 festgelegt wurden.
 
 
 
@@ -617,8 +693,9 @@ I S. 542) außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Absatz 1 und 3, § 3 Absatz 2)
 
-## Anlage 1 (zu § 2 Absatz 1 und 3, § 3 Absatz 2) Beschreibung der Grundwasserkörper
+## Anlage 1 Beschreibung der Grundwasserkörper
 
 (Fundstelle: BGBl. I 2010, 1519 - 1520)
 
@@ -775,16 +852,18 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 3 Absatz 1, § 5 Absatz 1 und Absatz 3, § 7 Absatz 2 Nummer 1, §
+10 Absatz 2 Satz 4 Nummer 1)
 
-## Anlage 2 (zu § 3 Absatz 1, § 5 Absatz 1 und 2, § 7 Absatz 2 Nummer 1, § 10 Absatz 2 Satz 4 Nummer 1) Schwellenwerte
+## Anlage 2 Schwellenwerte
 
-(Fundstelle: BGBl. I 2010, 1521)
+(Fundstelle: BGBl. I 2017, 1045 - 1046)
 
 
-*    *   Substanzname
+*    *   Stoffe und Stoffgruppen
 
-    *[^F2_774693_BJNR151300010BJNE002000000]
-   CAS-Nr.1
+    *[^F798335_11_BJNR151300010BJNE002001118]
+   CAS-Nr.
 
     *   Schwellenwert
 
@@ -792,65 +871,76 @@ Der Bundesrat hat zugestimmt.
 
 
 *    *   Nitrat (NO
-        3
-        -                     )
+        3                     )
 
-    *   –
+    *   14797-55-8
 
     *   50 mg/l
 
     *   Grundwasserqualitätsnorm gemäß Richtlinie 2006/118/EG
 
 
-*    *[^F3_774693_BJNR151300010BJNE002000000]
-   Wirkstoffe in Pflanzenschutzmitteln und Biozidprodukten einschließlich
-        relevanter Stoffwechsel-, Abbau- und Reaktionsprodukte
+*    *[^F798335_12_BJNR151300010BJNE002001118]
+   Wirkstoffe in Pflanzenschutzmitteln einschließlich der relevanten
+        Metaboliten
+[^F798335_15_BJNR151300010BJNE002001118]
+        ,
+[^F798335_13_BJNR151300010BJNE002001118]
+        , Biozid-Wirkstoffe einschließlich relevanter Stoffwechsel- oder
+        Abbau- bzw. Reaktionsprodukte sowie bedenkliche Stoffe in
+        Biozidprodukten
+        , 5
 
     *   –
 
     *   jeweils 0,1 μg/l
-[^F4_774693_BJNR151300010BJNE002000000]
+[^F798335_14_BJNR151300010BJNE002001118]
         insgesamt
-        0,5
+        0,5 μg/l
 
     *   Grundwasserqualitätsnorm gemäß Richtlinie 2006/118/EG
 
 
 *    *   Arsen (As)
+        5
 
     *   7440-38-2
 
     *   10 µg/l
 
-    *   Trinkwasser – Grenzwert für chemische Parameter
+    *   Trinkwasser-Grenzwert für chemische
+        Parameter
 
 
 *    *   Cadmium (Cd)
+        5
 
     *   7440-43-9
 
     *   0,5 µg/l
 
-    *   Ökotoxikologisch abgeleitet: PNEC + Hintergrundwert
+    *   Hintergrundwert
 
 
 *    *   Blei (Pb)
+        5
 
     *   7439-92-1
 
     *   10 µg/l
 
-    *   Trinkwasser – Grenzwert für chemische Parameter
+    *   Trinkwassergrenzwert für chemische
+        Parameter
 
 
 *    *   Quecksilber (Hg)
+        5
 
     *   7439-97-6
 
     *   0,2 µg/l
 
-    *   Ökotoxikologisch abgeleitet: Zielvorgabe für Oberflächengewässer +
-        Hintergrundwert
+    *   Hintergrundwert
 
 
 *    *   Ammonium (NH
@@ -861,7 +951,7 @@ Der Bundesrat hat zugestimmt.
 
     *   0,5 mg/l
 
-    *   Trinkwasser – Grenzwert für Indikatorparameter
+    *   Trinkwassergrenzwert für Indikatorparameter
 
 
 *    *   Chlorid (Cl
@@ -871,7 +961,28 @@ Der Bundesrat hat zugestimmt.
 
     *   250 mg/l
 
-    *   Trinkwasser – Grenzwert für Indikatorparameter
+    *   Trinkwassergrenzwert für Indikatorparameter
+
+
+*    *   Nitrit
+
+    *   14797-65-0
+
+    *   0,5 mg/l
+
+    *   Trinkwasser-Grenzwert für chemische
+        Parameter (Anlage 2 Teil II der Trinkwasserverordnung)
+
+
+*    *   ortho-Phosphat (PO
+        4
+        3-                     )
+
+    *   14265-44-2
+
+    *   0,5 mg/l
+
+    *   Hintergrundwert
 
 
 *    *   Sulfat (SO
@@ -880,9 +991,9 @@ Der Bundesrat hat zugestimmt.
 
     *   14808-79-8
 
-    *   240 mg/l
+    *   250 mg/l
 
-    *   Trinkwasser – Grenzwert für Indikatorparameter
+    *   Trinkwassergrenzwert für Indikatorparameter
 
 
 *    *   Summe aus Tri- und
@@ -893,25 +1004,38 @@ Der Bundesrat hat zugestimmt.
 
     *   10 μg/l
 
-    *   Trinkwasser – Grenzwert für chemische Parameter
+    *   Trinkwassergrenzwert für chemische
+        Parameter
 
 
 
     Chemical Abstracts Service, Internationale Registrierungsnummer für
     chemische Stoffe.
-[^F2_774693_BJNR151300010BJNE002000000]:     Nach dem Pflanzenschutzgesetz in der Fassung der Bekanntmachung vom
-    14\. Mai 1998 (BGBl. I S. 971, 1527, 3512), das zuletzt durch Artikel
-    13 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2542) geändert worden
-    ist, und dem Biozidgesetz vom 20. Juli 2002 (BGBl. I S. 2076), das
-    durch Artikel 2 § 3 Absatz 18 des Gesetzes vom 1. September 2005
-    (BGBl. I S. 2618) geändert worden ist.
-[^F3_774693_BJNR151300010BJNE002000000]:     Insgesamt bedeutet die Summe aller einzelnen, bei dem
+[^F798335_11_BJNR151300010BJNE002001118]:     Nach Artikel 2 Absatz 2 und Artikel 3 Nummer 32 der Verordnung (EG)
+    Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21.
+    Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und
+    zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates
+    (ABl. L 309 vom 24.11.2009, S. 1), die zuletzt durch die Verordnung
+    (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden
+    ist, in der jeweils geltenden Fassung.
+[^F798335_12_BJNR151300010BJNE002001118]:     Nach Artikel 3 Absatz 1 Buchstabe f) der Verordnung (EU) Nr. 528/2012
+    des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die
+    Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten
+    (ABl. L 167 vom 27.6.2012, S. 1) in der jeweils geltenden Fassung.
+[^F798335_13_BJNR151300010BJNE002001118]:     „Insgesamt“ bedeutet die Summe aller einzelnen bei dem
     Überwachungsverfahren nachgewiesenen und mengenmäßig bestimmten
-    Pflanzenschutzmittel und Biozide, einschließlich der relevanter
-    Stoffwechsel-, Abbau- und Reaktionsprodukte.
-[^F4_774693_BJNR151300010BJNE002000000]: 
+    Wirkstoffgehalte von Pflanzenschutzmitteln und Biozidprodukten,
+    einschließlich relevanter Stoffwechsel-, Abbau- und Reaktionsprodukte
+    sowie bedenklicher Stoffe in Biozid-Produkten.
+[^F798335_14_BJNR151300010BJNE002001118]:     Die betroffenen Stoffe und Stoffgruppen sind nach Membranfiltration
+    mit geeignetem Material mit einer Porengröße von 0,45 µm zu
+    analysieren. Die Membranfiltration kann entfallen, wenn die direkte
+    Gewinnung der Proben aus dem Grundwasser zu vergleichbaren Ergebnissen
+    führt.
+[^F798335_15_BJNR151300010BJNE002001118]: 
+(zu § 9 Absatz 1)
 
-## Anlage 3 (zu § 9 Absatz 1) Überwachung des mengenmäßigen Grundwasserzustands
+## Anlage 3 Überwachung des mengenmäßigen Grundwasserzustands
 
 (Fundstelle: BGBl. I 2010, 1522)
 
@@ -969,10 +1093,12 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 9 Absatz 1 und 2)
 
-## Anlage 4 (zu § 9 Absatz 1 und 2) Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
+## Anlage 4 Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
 
-(Fundstelle: BGBl. I 2010, 1523 - 1524)
+(Fundstelle: BGBl. I 2010, 1523 - 1524; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 1.  Einrichtung und Betrieb von Messnetzen
@@ -1080,12 +1206,18 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    2.4 Die gefährdeten Grundwasserkörper sind zusätzlich auch auf die
+    2.4. Um die Auswirkungen der Anwendung von Pflanzenschutzmitteln auf das
+        Grundwasser beurteilen zu können, sind die betroffenen
+        Grundwasserkörper auch auf pflanzenschutzrechtlich nicht relevante
+        Metabolite hin zu überwachen.
+
+
+    2.5 Die gefährdeten Grundwasserkörper sind zusätzlich auch auf die
         Parameter hin zu überwachen, die die Auswirkungen der Belastungen
         anzeigen.
 
 
-    2.5 Grundwasserkörper, die sich über die Grenzen der Bundesrepublik
+    2.6 Grundwasserkörper, die sich über die Grenzen der Bundesrepublik
         Deutschland hinaus erstrecken, sind zusätzlich auf die Parameter hin
         zu überwachen, die für den Schutz aller mit dem Grundwasserfluss
         verknüpften Verwendungszwecke von Bedeutung sind.
@@ -1133,8 +1265,72 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 5 Absatz 2 Satz 1 und 2 und Absatz 3)
 
-## Anlage 5 (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2) Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
+## Anlage 4a Ableitung von Hintergrundwerten für hydrogeochemische Einheiten
+
+(Fundstelle: BGBl. I 2010, 1046)
+
+
+1.  Die zuständigen Behörden ermitteln auf der Basis von Messdaten
+    Hintergrundwerte für im Grundwasser natürlich vorkommende Stoffe oder
+    Stoffgruppen. Für jede Messstelle wird das Ergebnis einer
+    repräsentativen Analyse des Stoffes oder der Stoffgruppe ausgewählt.
+
+
+2.[^F798335_02_BJNR151300010BJNE002800118]
+  Die Messdaten werden den hydrogeochemischen Einheiten zugeordnet, die
+    in der Hydrogeochemischen Übersichtskarte von Deutschland 1 : 200 000
+    (HÜK200)
+    festgelegt sind.
+
+
+3.  Aus dem Datensatz für jede hydrogeochemische Einheit werden mittels
+    eines statistischen Auswertungsverfahrens zunächst die Anomalien
+    entfernt. Hierbei sind Wahrscheinlichkeitsnetze nach der DIN 53804-1,
+    Ausgabe 2002, anzuwenden, die bei der Beuth-Verlag GmbH, Berlin, zu
+    beziehen und beim Deutschen Patentamt archivmäßig gesichert
+    niedergelegt ist. Im Anschluss daran sind die Verteilungsparameter
+    (Mittelwert, Standardabweichung) für die verbleibende Normalpopulation
+    zu ermitteln.
+
+
+4.  Sofern für eine hydrogeochemische Einheit nach Entfernung der
+    Anomalien noch mindestens 10 Messwerte unterschiedlicher Messstellen
+    vorliegen, wird aus den errechneten Verteilungsparametern das 90.
+    Perzentil dieser Normalpopulation als natürlicher Hintergrundwert
+    berechnet.
+
+
+5.  Liegen nach Entfernung der Anomalien weniger als 10 Messwerte vor,
+    sollen zusätzliche Daten erhoben werden. Bis diese vorliegen, sind die
+    Hintergrundwerte auf der Grundlage vorliegender Überwachungsdaten zu
+    bestimmen, sofern mehr als ein Messwert vorliegt. Dabei können auch
+    vereinfachte Verfahren genutzt werden, die sich auf Teilproben
+    beziehen, die keine Beeinflussung durch menschliche Aktivitäten
+    zeigen. Soweit Informationen über geochemische Übertragungen oder
+    Prozesse vorhanden sind, sollen diese ebenfalls berücksichtigt werden.
+
+
+6.  Soweit die vorliegenden Daten aus der Grundwasserüberwachung
+    unzureichend oder die Informationen über geochemische Übertragungen
+    oder Prozesse unzulänglich sind, sollen zusätzliche Daten und
+    Informationen erhoben werden. Bis diese vorliegen, können
+    Hintergrundwerte geschätzt werden. Hierzu können statistische
+    Bezugswerte für dieselbe Art von Grundwasserleitern in anderen
+    Gebieten herangezogen werden, für die ausreichende Überwachungsdaten
+    vorliegen.
+
+
+
+
+    Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) und Staatliche
+    Geologische Dienste, Hydrogeologische Übersichtskarte von Deutschland
+    1 : 200 000, Digitales Kartenwerk Version 3, Hrsg. BGR Hannover 2016.
+[^F798335_02_BJNR151300010BJNE002800118]: 
+(zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)
+
+## Anlage 5 Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
 
 (Fundstelle: BGBl. I 2010, 1525 - 1526)
 
@@ -1264,8 +1460,9 @@ Der Bundesrat hat zugestimmt.
 [^F7_774693_BJNR151300010BJNE002300000]:     Ausgabe Mai 2010, erschienen im Beuth-Verlag GmbH, Berlin, und beim
     Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 [^F8_774693_BJNR151300010BJNE002300000]: 
+(zu § 10 Absatz 1)
 
-## Anlage 6 (zu § 10 Absatz 1) Ermittlung steigender Trends, Ermittlung der Trendumkehr
+## Anlage 6 Ermittlung steigender Trends, Ermittlung der Trendumkehr
 
 (Fundstelle: BGBl. I 2010, 1527)
 
@@ -1329,8 +1526,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 13 Absatz 1)
 
-## Anlage 7 (zu § 13 Absatz 1) Liste gefährlicher Schadstoffe und Schadstoffgruppen
+## Anlage 7 Liste gefährlicher Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1528)
 
@@ -1384,8 +1582,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 13 Absatz 2)
 
-## Anlage 8 (zu § 13 Absatz 2) Liste sonstiger Schadstoffe und Schadstoffgruppen
+## Anlage 8 Liste sonstiger Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1529)
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1062
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 1 V v. 28.4.2020
+
 [^F774435_01_BJNR106200010]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
     Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -37,9 +40,10 @@ Landwirtschaft und Verbraucherschutz:
 
 Diese Verordnung gilt für
 
-1.  das Inverkehrbringen, das Befördern und die Übernahme von
-    Wirtschaftsdüngern sowie von Stoffen, die als Ausgangsstoff oder
-    Bestandteil Wirtschaftsdünger enthalten, im Inland sowie
+1.  das Inverkehrbringen einschließlich des Vermittelns, das Befördern und
+    die Übernahme von Wirtschaftsdüngern sowie von Stoffen, die als
+    Ausgangsstoff oder Bestandteil Wirtschaftsdünger enthalten, im Inland
+    sowie
 
 
 2.  das Befördern der in Nummer 1 genannten Stoffe nach anderen Staaten.
@@ -66,8 +70,8 @@ bei der Übernahme der in Satz 1 Nummer 1 genannten Stoffe,
     oder übernommen werden, die der Düngeverordnung unterliegen, und diese
     Betriebe
 
-    a)  nach § 5 Absatz 4 der Düngeverordnung nicht zur Erstellung eines
-        Nährstoffvergleiches verpflichtet sind und
+    a)  nach § 10 Absatz 3 der Düngeverordnung nicht zur Erstellung von
+        Aufzeichnungen verpflichtet sind und
 
 
     b)  die Summe aus betrieblichem Nährstoffanfall und aufgenommener Menge
@@ -159,12 +163,24 @@ auf Verlangen vorzulegen.
 
 ## § 4 Meldepflicht
 
-Werden Stoffe nach § 1 Satz 1 Nummer 1 in ein Land verbracht, so hat
-der Empfänger dieser Stoffe dies bis zum 31. März für das jeweils
+(1) Werden Stoffe nach § 1 Satz 1 Nummer 1 in ein Land verbracht, so
+hat der Empfänger dieser Stoffe dies bis zum 31. März für das jeweils
 vorangegangene Jahr der für seinen Betriebssitz zuständigen Behörde
 unter Angabe der Abgeber mit deren jeweiligen Namen und Anschrift,
 Datum oder Zeitraum der Abnahme und der Menge in Tonnen Frischmasse zu
 melden.
+
+(2) Die zuständigen Behörden eines Landes übermitteln der zuständigen
+obersten Landesbehörde bis zum 31. Mai eines jeden Jahres Angaben über
+die ihnen nach Absatz 1 gemeldete Gesamtmenge der dort genannten
+Stoffe in Tonnen Frischmasse. Die zuständigen obersten Landesbehörden
+übermitteln dem Bundesministerium für Ernährung und Landwirtschaft bis
+zum 30. Juni eines jeden Jahres Angaben über die den zuständigen
+Behörden des jeweiligen Landes nach Absatz 1 gemeldete Gesamtmenge der
+dort genannten Stoffe in Tonnen Frischmasse. Die zuständigen obersten
+Landesbehörden können eine andere Behörde des jeweiligen Landes
+festlegen, an die die Angaben nach Satz 1 zu übermitteln sind und die
+die Angaben nach Satz 2 übermittelt.
 
 
 ## § 5 Mitteilungspflicht
@@ -192,7 +208,7 @@ düngerechtlichen Vorschriften erforderlich ist.
 
 ## § 7 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe b des
+Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe d des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, eine

@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1970, 197
 
+Zuletzt geändert durch
+:   Art. 22 G v. 20.8.2021 I 3932
+
 
 
 ## Eingangsformel

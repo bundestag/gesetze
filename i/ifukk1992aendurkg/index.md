@@ -3,7 +3,7 @@ Title: Gesetz zu den Änderungsurkunden vom 6. November 1998 zur Konstitution un
   Konvention der Internationalen Fernmeldeunion vom 22. Dezember 1992
 jurabk: IFUKK1992ÄndUrkG
 layout: default
-origslug: ifukk1992_ndurkg
+origslug: ifukk1992aendurkg
 slug: ifukk1992aendurkg
 
 ---

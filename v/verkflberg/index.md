@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2001, 2716
 
 Zuletzt geändert durch
-:   Art. 8 G v. 31.7.2009 I 2585
+:   Art. 22 G v. 23.7.2013 I 2586
+
+Änderung durch
+:   Art. 3 Abs. 2 G v. 2.6.2021 I 1278 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
@@ -91,7 +94,7 @@ Dritte übertragen ist.
     und Nebenanlagen;
 
 
-2.  die Bundeswasserstraßen nach § 1 Abs. 1 und 4 des
+2.  die Bundeswasserstraßen nach § 1 Absatz 1 und 6 des
     Bundeswasserstraßengesetzes, Betten sonstiger oberirdischer Gewässer,
     Stauanlagen, Anlagen des Hochwasserschutzes und des Küstenschutzes
     sowie Hafenanlagen;
@@ -410,7 +413,8 @@ der festzusetzende Ausgleich nach den Regelungen dieses Gesetzes.
 ## § 12 Kosten
 
 Die Kosten des Vertrages und seiner Durchführung trägt der öffentliche
-Nutzer. Gerichtskosten nach der Kostenordnung werden nicht erhoben.
+Nutzer. Gerichtskosten nach dem Gerichts- und Notarkostengesetz werden
+nicht erhoben.
 
 
 ## § 13 Abweichende Vereinbarungen; Verhältnis zu anderen Vorschriften

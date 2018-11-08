@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 269
 
 Zuletzt geändert durch
-:   Art. 2 V v. 25.7.2012 I 1703
+:   Art. 519 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -61,15 +61,15 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
     besonderer Verhältnisse im Einzelfall
 
     a)  für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit
-        Sitz im Ausland das Bundesministerium für Verkehr, Bau und
-        Stadtentwicklung; die zuständigen Landesbehörden sind zu unterrichten,
+        Sitz im Ausland das Bundesministerium für Verkehr und digitale
+        Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten,
         wenn die Einheit des Eisenbahnwesens berührt wird;
 
 
     b)  für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde;
-        das Benehmen mit dem Bundesministerium für Verkehr, Bau und
-        Stadtentwicklung ist erforderlich, wenn die Einheit des
-        Eisenbahnwesens berührt wird;
+        das Benehmen mit dem Bundesministerium für Verkehr und digitale
+        Infrastruktur ist erforderlich, wenn die Einheit des Eisenbahnwesens
+        berührt wird;
 
 
 
@@ -925,8 +925,8 @@ Bremswegberechnungen ermittelt.
 
 (3) Die Bremstafeln oder Bremswegberechnungen werden genehmigt
 
-1.  für Eisenbahnen des Bundes vom Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung,
+1.  für Eisenbahnen des Bundes vom Bundesministerium für Verkehr und
+    digitale Infrastruktur,
 
 
 2.  für die nicht bundeseigenen Eisenbahnen von der zuständigen
@@ -941,7 +941,7 @@ Bremswegberechnungen ermittelt.
 mehr als
 40v.T. sind von den in Absatz 3 genannten Behörden besondere
 Vorschriften zu erlassen. Die maßgebende Neigung einer Strecke ist die
-Neigung der Verbindungslinie der beiden 2.000 m voneinander entfernten
+Neigung der Verbindungslinie der beiden 2 000 m voneinander entfernten
 Punkte des Streckenabschnitts mit dem größten Höhenunterschied.
 
 (6) Das letzte oder vorletzte Fahrzeug eines Zuges muß eine wirkende
@@ -1351,8 +1351,10 @@ folgenden Kalendermonats in Kraft.
 
 Der Bundesminister für Verkehr
 
+Bild 1, 2 und 3
+(Zu den §§ 9 und 22)
 
-## Anlage 1 Bild 1, 2 und 3 (Zu den §§ 9 und 22) Umgrenzung des lichten Raumes
+## Anlage 1 Umgrenzung des lichten Raumes
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 280 - 281)
@@ -1561,8 +1563,9 @@ Fundstelle des Originaltextes: BGBl. I 1972, 282
 
 
 
+(zu den §§ 9 und 10)
 
-## Anlage 3 (zu den §§ 9 und 10) Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
+## Anlage 3 Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
 
 (Fundstelle: BGBl. I 1972, 283 - 284)
 
@@ -2494,60 +2497,24 @@ Fundstelle des Originaltextes: BGBl. I 1972, 282
 
 
 
+(zu § 21)
 
-## Anlage 4 (zu § 21) Radsatz
+## Anlage 4 Radsatz
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl I 1972, 285)
 
+(zu § 21)
 
-## Anlage 5 (zu § 21) Räder
+## Anlage 5 Räder
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 286)
 
+(zu § 25)
 
-## Anlage 6 (zu § 25) Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+## Anlage 6 Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 287)
-
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-7.  Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen vom 25.
-    Februar 1972 (BGBl. I S. 269), geändert durch Verordnung vom 21.
-    November 1983 (BGBl. I S. 1382),
-
-    mit folgender Maßgabe:
-
-    Für bestehende Anlagen können die in § 3 genannten Stellen die
-    Fortgeltung von Vorschriften der Eisenbahn-Bau- und Betriebsordnung
-    für Schmalspurbahnen vom 25. Juni 1943 (RGBl. II S. 285) bis zum 31.
-    Dezember 1993 zulassen.
-
-
-
-...
-
-10. Bei der Anwendung der Verordnungen unter den Nummern 6 bis 8,
-    insbesondere bei der Errichtung neuer sowie der wesentlichen Änderung
-    bestehender Anlagen und Fahrzeuge, ist auf eine Vereinheitlichung
-    hinzuwirken.
-
-
-11. Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten
-    Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten
-    nicht oder nicht unmittelbar Anwendung finden können, gelten sie für
-    die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze
-    und Rechtsverordnungen des Bundes, die besondere Regelungen für die
-    Deutsche Bundesbahn vorsehen.
-
-
-
 

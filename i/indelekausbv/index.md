@@ -26,7 +26,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
@@ -500,8 +500,9 @@ Ausbildungsjahres dieser Berufe fortgesetzt werden.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 4)
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Sachliche Gliederung –
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1205 - 1209)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1149,8 +1150,9 @@ und Fähigkeiten in der Fachrichtung Geräte und Systeme**
 
 
 
+(zu § 4)
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1210 - 1219)
 **Abschnitt 1: Gemeinsame Qualifikationen**

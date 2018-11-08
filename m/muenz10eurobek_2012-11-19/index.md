@@ -28,8 +28,8 @@ Die Auflage der Münze beträgt ca. 1 700 000 Stück, davon ca. 200 000
 Stück in Spiegelglanzqualität. Die Prägung erfolgt durch die
 Hamburgische Münze (Prägezeichen J).
 
-Die Münze wird ab dem 8. November 2012 in den Verkehr gebracht. Die 10
--Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
+Die Münze wird ab dem 8. November 2012 in den Verkehr gebracht. Die
+10-Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
 Kupfer-Nickel-Legierung (CuNi25), hat einen Durchmesser von 32,5
 Millimetern und eine Masse von 14 Gramm. Die Spiegelglanzmünze besteht
 aus einer Legierung von 625 Tausendteilen Silber und 375 Tausendteilen

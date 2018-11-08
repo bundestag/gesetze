@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 1433
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.12.2008 I 2399
+:   Art. 15 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -134,19 +134,21 @@ dieser Stelle.
 ### § 9
 
 (1) Die Aufgaben der Empfangsstelle im Sinne des Artikels 2 Abs. 1 des
-Übereinkommens nimmt der Bundesminister der Justiz wahr.
+Übereinkommens nimmt das Bundesministerium der Justiz und für
+Verbraucherschutz wahr.
 
 (2) Die Aufgaben der Übermittlungsstelle im Sinne des Artikels 2 Abs.
 2 des Übereinkommens nimmt für Ersuchen, die vom
-Bundesverfassungsgericht oder von Bundesgerichten ausgehen, der
-Bundesminister der Justiz wahr. Im übrigen nehmen die von den
-Landesregierungen bestimmten Stellen diese Aufgaben wahr. In jedem
-Land kann nur eine Übermittlungsstelle eingerichtet werden.
+Bundesverfassungsgericht oder von Bundesgerichten ausgehen, das
+Bundesministerium der Justiz und für Verbraucherschutz wahr. Im
+übrigen nehmen die von den Landesregierungen bestimmten Stellen diese
+Aufgaben wahr. In jedem Land kann nur eine Übermittlungsstelle
+eingerichtet werden.
 
-(3) Der Bundesminister der Justiz wird ermächtigt, durch
-Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, eine
-andere Empfangsstelle zu bestimmen, wenn dies aus Gründen der
-Verwaltungsvereinfachung oder zur leichteren Ausführung des
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, eine andere Empfangsstelle zu bestimmen, wenn dies aus Gründen
+der Verwaltungsvereinfachung oder zur leichteren Ausführung des
 Übereinkommens notwendig erscheint. Er wird ferner ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, aus
 den in Satz 1 genannten Gründen eine andere Übermittlungsstelle für

@@ -14,7 +14,10 @@ Ausfertigungsdatum
 :   2009-08-10
 
 Fundstelle
-:   BGBl I: 2009, 2706
+:   BGBl I: 2009, 2702, 2706
+
+Geändert durch
+:   Art. 72 V v. 19.6.2020 I 1328
 
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
@@ -107,9 +110,9 @@ abbildet.
 
 (1) Hinsichtlich des Verbindungsnetzes ist gemeinsame Vergabestelle
 des Bundes und der Länder einschließlich der mittelbaren Bundes- und
-Landesverwaltung einevom Bundesministerium des Innern zu bestimmende
-Bundesbehörde. Der Bund kann Unternehmen mit dem Aufbau und dem
-Betrieb des Verbindungsnetzes beauftragen.
+Landesverwaltung eine vom Bundesministerium des Innern, für Bau und
+Heimat zu bestimmende Bundesbehörde. Der Bund kann Unternehmen mit dem
+Aufbau und dem Betrieb des Verbindungsnetzes beauftragen.
 
 (2) Der Bund stellt die Vergabeunterlagen im Benehmen mit einem vom
 Koordinierungsgremium eingesetzten Arbeitsgremium aus drei
@@ -146,8 +149,8 @@ Bund zu tragen.
 
 ## § 8 Übergangsregelung
 
-Den Übergang der gegenwärtig vom Deutschland Online Infrastruktur e.
-V. (DOI-Netz e. V.) wahrgenommenen Aufgaben auf den Bund nach diesem
-Gesetz einschließlich des Zeitpunkts des Übergangs legen Bund und
-Länder im DOI-Netz e. V. gemeinsam fest.
+Den Übergang der gegenwärtig vom Deutschland Online Infrastruktur
+e. V. (DOI-Netz e. V.) wahrgenommenen Aufgaben auf den Bund nach
+diesem Gesetz einschließlich des Zeitpunkts des Übergangs legen Bund
+und Länder im DOI-Netz e. V. gemeinsam fest.
 

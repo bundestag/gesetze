@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2011, 950
 
 Geändert durch
-:   Art. 2 Abs. 82 G v. 22.12.2011 I 3044
+:   Art. 366 V v. 31.8.2015 I 1474
 
 
 ## § 1 Auflösung und Abwicklung
@@ -45,8 +45,7 @@ Neue Verbindlichkeiten können nur eingegangen werden, soweit sie dem
 Zweck der Abwicklung dienen.
 
 (2) Die Beendigung der Abwicklung ist vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Bundesanzeiger
-bekannt zu geben.
+Ernährung und Landwirtschaft im Bundesanzeiger bekannt zu geben.
 
 
 ## § 2 Kostentragung und Vermögensüberschussverteilung

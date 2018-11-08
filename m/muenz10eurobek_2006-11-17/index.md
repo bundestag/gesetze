@@ -1,5 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "50 Jahre Bundesland Saarland")
 jurabk: Münz10EuroBek 2006-11-17
 layout: default
@@ -8,7 +8,7 @@ slug: muenz10eurobek_2006-11-17
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "50 Jahre Bundesland Saarland") (Münz10EuroBek 2006-11-17)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "50 Jahre Bundesland Saarland") (Münz10EuroBek 2006-11-17)
 
 Ausfertigungsdatum
 :   2006-11-17
@@ -40,9 +40,9 @@ den Architekturen vorangestellte Zeile von vier gleich großen
 symbolisch gestalteten Köpfen verkörpert Bergbau, Industrie, neue
 Technologien und Kultur.
 Die Wertseite, ebenso streng horizontal geordnet wie die Bildseite,
-zeigt mit Adler, den zwölf europäischen Sternen im Kontext des 10
--Euro-Nominals und dem Münzzeichen G der Prägestätte Karlsruhe ein gut
-strukturiertes Bild. Klare und in ihren Größen wohlproportionierte
+zeigt mit Adler, den zwölf europäischen Sternen im Kontext des
+10-Euro-Nominals und dem Münzzeichen G der Prägestätte Karlsruhe ein
+gut strukturiertes Bild. Klare und in ihren Größen wohlproportionierte
 Grotesk-Versalien bilden eine sachliche, sehr zeitgemäße Umschrift
 "BUNDESREPUBLIK DEUTSCHLAND 2007".
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:

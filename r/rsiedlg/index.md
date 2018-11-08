@@ -646,8 +646,9 @@ Finanzbehörden.
 
 Dieses Gesetz tritt mit dem Tage der Verkündung in Kraft.
 
+Auszug aus EinigVtr Anlage I Kap. VI Sachgebiet E Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kap. VI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1017)
+### Anhang EV (BGBl. II 1990, 889, 1017)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

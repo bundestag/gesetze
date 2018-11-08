@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 2117
 
 Zuletzt geändert durch
-:   Art. 389 V v. 31.10.2006 I 2407
+:   Art. 12 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -28,24 +28,24 @@ die Bundesregierung:
 
 ## § 1
 
-§ 28 Abs. 1 und 8, § 29 Abs. 1, § 33 Abs. 1, § 35 Abs. 1 und 5, § 37
-Abs. 1, § 39 Abs. 1, die §§ 41 bis 46, 58 und 59 des Waffengesetzes
-und die §§ 8, 33 bis 41 der Ersten Verordnung zum Waffengesetz vom 24.
-Mai 1976 (Bundesgesetzbl. I S. 1285) sind auf folgende Dienststellen
-und deren Bedienstete, soweit sie dienstlich tätig werden, nicht
-anzuwenden:
+§ 28 Absatz 1 und 8, § 29 Absatz 1, § 33 Absatz 1, § 35 Absatz 1 und
+5, § 37 Absatz 1, § 39 Absatz 1, die §§ 41 bis 46, 58 und 59 des
+Waffengesetzes und die §§ 8, 33 bis 41 der Ersten Verordnung zum
+Waffengesetz vom 24. Mai 1976 (BGBl. I S. 1285) sind auf folgende
+Dienststellen und deren Bedienstete, soweit sie dienstlich tätig
+werden, nicht anzuwenden:
 
 1.  Die dem
 
     Bundesministerium des Innern,
 
-    Bundesministerium der Justiz,
+    Bundesministerium der Justiz und für Verbraucherschutz,
 
     Bundesministerium der Finanzen,
 
-    Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
+    Bundesministerium für Ernährung und Landwirtschaft,
 
-    Bundesministerium der Verteidigung,
+    Bundesministerium der Verteidigung
 
     nachgeordneten Dienststellen;
 
@@ -54,8 +54,8 @@ anzuwenden:
     Bundesnachrichtendienst;
 
 
-3.  im Geschäftsbereich des Bundesministeriums für Wirtschaft und
-    Technologie auf
+3.  im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie
+    auf
 
     das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA),
 
@@ -64,10 +64,11 @@ anzuwenden:
     die Bundesanstalt für Materialforschung und -prüfung;
 
 
-4.  im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und
-    Stadtentwicklung auf
+4.  im Geschäftsbereich des Bundesministeriums für Verkehr und digitale
+    Infrastruktur auf
 
-    die Dienststellen der Wasser- und Schiffahrtsverwaltung des Bundes,
+    die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes,
 
     die See-Berufsgenossenschaft, soweit sie Schiffssicherheitsaufgaben
     wahrnimmt,

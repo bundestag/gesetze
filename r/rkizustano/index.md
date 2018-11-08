@@ -1,8 +1,8 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
-  und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Robert Koch-Instituts
-  in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz
-  einschließlich der hierzu ergangenen Trennungsgeldverordnung
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden
+  und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Robert Koch-Instituts
+  in Angelegenheiten nach dem  Bundesreisekostengesetz und dem Bundesumzugskostengesetz
+  einschließlich der  hierzu ergangenen Trennungsgeldverordnung
 jurabk: RKIZustAnO
 layout: default
 origslug: rkizustano
@@ -10,7 +10,7 @@ slug: rkizustano
 
 ---
 
-# Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Robert Koch-Instituts in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung (RKIZustAnO)
+# Anordnung zur Übertragung von Zuständigkeiten für den Erlass von  Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von  Beschäftigten des Robert Koch-Instituts in Angelegenheiten nach dem  Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der  hierzu ergangenen Trennungsgeldverordnung (RKIZustAnO)
 
 Ausfertigungsdatum
 :   2006-02-03
